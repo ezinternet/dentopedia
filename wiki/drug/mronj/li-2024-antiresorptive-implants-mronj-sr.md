@@ -98,8 +98,8 @@ Systematic review (PRISMA 2020) evaluating the impact of antiresorptive drug (AR
 - Dental implants contraindicated during high-risk ARD therapy per AAOMS 2022
 
 ## Related Papers
-- [[drug/ruggiero-2022-aaoms-mronj-position-paper-update]] — AAOMS staging, prevention guidelines (implants contraindicated in malignant ARD)
-- [[drug/baghalipour-2025-mronj-prevention-management-review]] — MRONJ prevention and management overview
-- [[drug/jung-2022-denosumab-mronj-osteoporosis-5year]] — osteoporosis denosumab MRONJ cohort
-- [[drug/yokoo-2025-denosumab-mronj-breast-cancer-bone]] — oncology-dose MRONJ threshold (32 doses)
-- [[drug/lee-2023-bisphosphonates-dental-procedures-bronj]] — bisphosphonate procedures
+- [[drug/mronj/ruggiero-2022-aaoms-mronj-position-paper-update]] — AAOMS staging, prevention guidelines (implants contraindicated in malignant ARD)
+- [[drug/mronj/baghalipour-2025-mronj-prevention-management-review]] — MRONJ prevention and management overview
+- [[drug/mronj/jung-2022-denosumab-mronj-osteoporosis-5year]] — osteoporosis denosumab MRONJ cohort
+- [[drug/mronj/yokoo-2025-denosumab-mronj-breast-cancer-bone]] — oncology-dose MRONJ threshold (32 doses)
+- [[drug/mronj/lee-2023-bisphosphonates-dental-procedures-bronj]] — bisphosphonate procedures

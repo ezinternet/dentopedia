@@ -52,6 +52,6 @@ Network meta-analysis. Databases: Scopus, PubMed, Google Scholar (searched to Fe
 | 72 h | −0.64 | 73.1 |
 
 ## Related Papers
-- [[drug/smith-2017-nsaids-postoperative-endodontic-pain]] — earlier SR+MA focused on 6 h, preop-pain subgroup
-- [[drug/di-spirito-2022-endodontic-pain-management-overview]] — integrated pharmacological + technical overview
-- [[drug/pak-2011-root-canal-pain-prevalence-severity]] — baseline pain natural history without medication focus
+- [[drug/analgesics/smith-2017-nsaids-postoperative-endodontic-pain]] — earlier SR+MA focused on 6 h, preop-pain subgroup
+- [[drug/analgesics/di-spirito-2022-endodontic-pain-management-overview]] — integrated pharmacological + technical overview
+- [[endodontics/pak-2011-root-canal-pain-prevalence-severity]] — baseline pain natural history without medication focus

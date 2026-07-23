@@ -85,8 +85,8 @@ Stage 0 → Stage 1 progression in up to 50% of cases.
 | Anti-sclerostin | Romosozumab (Evenity® 210 mg qmo × 12) | Osteoporosis (high fracture risk) |
 
 ## Related Papers
-- [[drug/jung-2022-denosumab-mronj-osteoporosis-5year]] — clinical cohort using this staging system
-- [[drug/yokoo-2025-denosumab-mronj-breast-cancer-bone]] — ROC threshold for oncology-dose denosumab MRONJ
-- [[drug/li-2024-antiresorptive-implants-mronj-sr]] — implant failure due to MRONJ after ARD initiation
-- [[drug/baghalipour-2025-mronj-prevention-management-review]] — MRONJ management review
-- [[drug/lee-2023-bisphosphonates-dental-procedures-bronj]] — BP procedures
+- [[drug/mronj/jung-2022-denosumab-mronj-osteoporosis-5year]] — clinical cohort using this staging system
+- [[drug/mronj/yokoo-2025-denosumab-mronj-breast-cancer-bone]] — ROC threshold for oncology-dose denosumab MRONJ
+- [[drug/mronj/li-2024-antiresorptive-implants-mronj-sr]] — implant failure due to MRONJ after ARD initiation
+- [[drug/mronj/baghalipour-2025-mronj-prevention-management-review]] — MRONJ management review
+- [[drug/mronj/lee-2023-bisphosphonates-dental-procedures-bronj]] — BP procedures

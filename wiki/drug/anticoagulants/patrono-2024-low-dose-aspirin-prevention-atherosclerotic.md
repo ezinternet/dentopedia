@@ -58,4 +58,4 @@ This European Heart Journal state-of-the-art review by Carlo Patrono revisits th
 
 ## Related Papers
 
-- [[drug/catella-lawson-2001-cyclooxygenase-inhibitors-aspirin-nejm]] — catella-lawson 2001의 NSAID–aspirin COX-1 약력학 상호작용을 저용량 aspirin의 수술 전후 항혈소판 관리 맥락에 적용(applies-to).
+- [[drug/anticoagulants/catella-lawson-2001-cyclooxygenase-inhibitors-aspirin-nejm]] — catella-lawson 2001의 NSAID–aspirin COX-1 약력학 상호작용을 저용량 aspirin의 수술 전후 항혈소판 관리 맥락에 적용(applies-to).

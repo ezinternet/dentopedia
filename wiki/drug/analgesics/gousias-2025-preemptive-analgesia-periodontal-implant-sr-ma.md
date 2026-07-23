@@ -55,8 +55,8 @@ SR+MA per PRISMA; 18 RCTs included; outcomes pain SMD at 1, 3, 6, 8, 24, 72 h po
 For Korean periodontal and implant surgery — pre-emptive oral ibuprofen 400mg + APAP 1g 30-60 min before procedure (or as the patient finishes the LA waiting period) is supported by the evidence base. For third molar surgery, pre-emptive dosing has weaker evidence; if dosing pre-emptively for patient convenience, the timing matters less than ensuring the analgesic peak coincides with the post-LA pain emergence.
 
 ## Related Papers
-- [[drug/costa-2015-preemptive-nsaids-third-molar-pain-meta]] — third molar negative finding.
-- [[drug/moore-2015-single-dose-oral-analgesics-cochrane-overview]] — NNT framework.
-- [[drug/etikala-2019-nsaids-periodontal-implant-therapy-review]] — NSAIDs in perio/implant.
-- [[drug/miroshnychenko-2023-dental-extraction-pain-network-meta]] — extraction NMA.
-- [[drug/watson-2022-acetaminophen-codeine-ibuprofen-third-molar-sr-ma]] — third molar specific.
+- [[drug/analgesics/costa-2015-preemptive-nsaids-third-molar-pain-meta]] — third molar negative finding.
+- [[drug/analgesics/moore-2015-single-dose-oral-analgesics-cochrane-overview]] — NNT framework.
+- [[drug/analgesics/etikala-2019-nsaids-periodontal-implant-therapy-review]] — NSAIDs in perio/implant.
+- [[drug/analgesics/miroshnychenko-2023-dental-extraction-pain-network-meta]] — extraction NMA.
+- [[drug/analgesics/watson-2022-acetaminophen-codeine-ibuprofen-third-molar-sr-ma]] — third molar specific.

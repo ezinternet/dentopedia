@@ -82,6 +82,6 @@ Secondary:  NF-kB inhibition → ↓ TNF-α, IL-6, IL-1β
 - Advantage: avoids systemic GI, renal, cardiovascular, antiplatelet side effects
 
 ## Related Papers
-- [[drug/gupta-2022-dental-management-cardiovascular-disease]] — NSAIDs ↓ antihypertensive effect; interaction with epinephrine
-- [[drug/ghimire-2022-medically-compromised-prosthodontic-patients]] — NSAIDs contraindicated in CKD, AERD, active liver disease
-- [[drug/ufcd-2019-medically-complex-patients-management-guidelines]] — institutional guidance on analgesic selection per systemic condition
+- [[drug/anticoagulants/gupta-2022-dental-management-cardiovascular-disease]] — NSAIDs ↓ antihypertensive effect; interaction with epinephrine
+- [[drug/mronj/ghimire-2022-medically-compromised-prosthodontic-patients]] — NSAIDs contraindicated in CKD, AERD, active liver disease
+- [[drug/mronj/ufcd-2019-medically-complex-patients-management-guidelines]] — institutional guidance on analgesic selection per systemic condition

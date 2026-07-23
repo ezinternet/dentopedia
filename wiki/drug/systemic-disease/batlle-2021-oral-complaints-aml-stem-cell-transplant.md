@@ -44,4 +44,4 @@ Retrospective cohort; single center.
 High oral complication burden in allo-HSCT. Oral GVHD requires coordinated dental-oncology management. Pre-HSCT oral health optimization is key.
 
 ## Related Papers
-- [[drug/shiboski-2016-acr-eular-sjogren-classification-criteria]] — related
+- [[drug/systemic-disease/shiboski-2016-acr-eular-sjogren-classification-criteria]] — related

@@ -65,5 +65,5 @@ Systematic review (9 studies/guidelines, 2000–2025) comparing vasoconstrictor 
 6. **Avoid felypressin** (felypressin = Octapressin = common in Europe) — Korean formulations check required
 
 ## Related Papers
-- [[drug/ufcd-2019-medically-complex-patients-management-guidelines]] — Section 23: vasoconstrictor protocol; Section 17: pregnancy dental management
-- [[drug/gupta-2022-dental-management-cardiovascular-disease]] — vasoconstrictor use in CVD (epinephrine limits in cardiac patients)
+- [[drug/mronj/ufcd-2019-medically-complex-patients-management-guidelines]] — Section 23: vasoconstrictor protocol; Section 17: pregnancy dental management
+- [[drug/anticoagulants/gupta-2022-dental-management-cardiovascular-disease]] — vasoconstrictor use in CVD (epinephrine limits in cardiac patients)

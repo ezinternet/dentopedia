@@ -58,8 +58,8 @@ SR+MA per ACCP guideline development protocol; databases MEDLINE/EMBASE/Scopus/C
 - Pre-DOAC-era literature dominates
 
 ## Related Papers
-- [[drug/lu-2018-warfarin-antiplatelet-dental-extraction-management]] — dental-specific Taiwanese cohort.
-- [[drug/krishnan-2024-bleeding-uninterrupted-single-dual-antiplatelet]] — India dental SAPT vs DAPT.
-- [[drug/guardieiro-2023-chitosan-cellulose-hemostasis-dapt-rct]] — local hemostatic options DAPT.
-- [[drug/uspstf-2022-aspirin-cardiovascular-disease-prevention]] — USPSTF aspirin primary prevention.
-- [[drug/inchingolo-2024-anticoagulation-therapy-dental-practice-sr]] — anticoagulation in dentistry SR.
+- [[drug/anticoagulants/lu-2018-warfarin-antiplatelet-dental-extraction-management]] — dental-specific Taiwanese cohort.
+- [[drug/anticoagulants/krishnan-2024-bleeding-uninterrupted-single-dual-antiplatelet]] — India dental SAPT vs DAPT.
+- [[drug/anticoagulants/guardieiro-2023-chitosan-cellulose-hemostasis-dapt-rct]] — local hemostatic options DAPT.
+- [[drug/anticoagulants/uspstf-2022-aspirin-cardiovascular-disease-prevention]] — USPSTF aspirin primary prevention.
+- [[drug/anticoagulants/inchingolo-2024-anticoagulation-therapy-dental-practice-sr]] — anticoagulation in dentistry SR.

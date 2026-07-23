@@ -55,8 +55,8 @@ Narrative review of stroke secondary prevention RCT and guideline literature thr
 - Does not address perioperative management
 
 ## Related Papers
-- [[drug/lim-2020-antithrombotic-gi-endoscopy-korean-guideline]] — Korean perioperative companion (GI).
-- [[drug/lu-2018-warfarin-antiplatelet-dental-extraction-management]] — dental extraction with same drug classes.
-- [[drug/uspstf-2022-aspirin-cardiovascular-disease-prevention]] — primary prevention (different population).
-- [[drug/inchingolo-2024-anticoagulation-therapy-dental-practice-sr]] — dental anticoagulation SR.
-- [[drug/shah-2022-perioperative-antiplatelet-therapy-sr-ma]] — perioperative APT.
+- [[drug/anticoagulants/lim-2020-antithrombotic-gi-endoscopy-korean-guideline]] — Korean perioperative companion (GI).
+- [[drug/anticoagulants/lu-2018-warfarin-antiplatelet-dental-extraction-management]] — dental extraction with same drug classes.
+- [[drug/anticoagulants/uspstf-2022-aspirin-cardiovascular-disease-prevention]] — primary prevention (different population).
+- [[drug/anticoagulants/inchingolo-2024-anticoagulation-therapy-dental-practice-sr]] — dental anticoagulation SR.
+- [[drug/anticoagulants/shah-2022-perioperative-antiplatelet-therapy-sr-ma]] — perioperative APT.

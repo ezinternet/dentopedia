@@ -53,6 +53,6 @@ Retrospective cohort. n=1,157 (ICU stay >24h). Exclusion: pre-existing renal dys
 Surgical ICU patients NSAID use: 62% (non-scheduled), 61% (scheduled); Medical: 23%.
 
 ## Related Papers
-- [[drug/etikala-2019-nsaids-periodontal-implant-therapy-review]] — NSAIDs and osseointegration; tissue-level drug concerns
-- [[drug/kotowska-rodziewicz-2023-nsaids-role-dentistry-review]] — NSAIDs in dentistry; contraindications including renal
-- [[drug/feldman-2024-nonopioid-opioid-third-molar-rct]] — ibuprofen+APAP PRN (not continuous) — lower cumulative renal exposure than scheduled dosing
+- [[drug/analgesics/etikala-2019-nsaids-periodontal-implant-therapy-review]] — NSAIDs and osseointegration; tissue-level drug concerns
+- [[drug/analgesics/kotowska-rodziewicz-2023-nsaids-role-dentistry-review]] — NSAIDs in dentistry; contraindications including renal
+- [[drug/analgesics/feldman-2024-nonopioid-opioid-third-molar-rct]] — ibuprofen+APAP PRN (not continuous) — lower cumulative renal exposure than scheduled dosing

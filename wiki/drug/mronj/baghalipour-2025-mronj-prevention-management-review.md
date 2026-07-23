@@ -81,6 +81,6 @@ Before starting medication:
 - Oral BP >3yr: drug holiday + specialist evaluation required before implant placement
 
 ## Related Papers
-- [[drug/lee-2023-bisphosphonates-dental-procedures-bronj]] — bisphosphonate mechanism, BRONJ staging, AAOMS staging detail
-- [[drug/ghimire-2022-medically-compromised-prosthodontic-patients]] — prosthodontic perspective on MRONJ drug holiday
-- [[drug/ufcd-2019-medically-complex-patients-management-guidelines]] — Section 6: institutional MRONJ protocol + drug holiday table
+- [[drug/mronj/lee-2023-bisphosphonates-dental-procedures-bronj]] — bisphosphonate mechanism, BRONJ staging, AAOMS staging detail
+- [[drug/mronj/ghimire-2022-medically-compromised-prosthodontic-patients]] — prosthodontic perspective on MRONJ drug holiday
+- [[drug/mronj/ufcd-2019-medically-complex-patients-management-guidelines]] — Section 6: institutional MRONJ protocol + drug holiday table

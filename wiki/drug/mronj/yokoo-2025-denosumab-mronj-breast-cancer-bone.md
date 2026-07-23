@@ -82,7 +82,7 @@ Retrospective cohort of 324 female patients with breast cancer and bone metastas
 - Prior literature: MRONJ 0.5–2.1% (year 1) → 1.3–3.2% (year 3); this study's 31.2% likely reflects referral bias and long follow-up (up to 2024 for treatments started 2012)
 
 ## Related Papers
-- [[drug/ruggiero-2022-aaoms-mronj-position-paper-update]] — MRONJ definition and staging
-- [[drug/jung-2022-denosumab-mronj-osteoporosis-5year]] — osteoporosis-dose denosumab MRONJ (4.1%)
-- [[drug/li-2024-antiresorptive-implants-mronj-sr]] — implant failure from ARD-induced MRONJ
-- [[drug/baghalipour-2025-mronj-prevention-management-review]] — MRONJ management
+- [[drug/mronj/ruggiero-2022-aaoms-mronj-position-paper-update]] — MRONJ definition and staging
+- [[drug/mronj/jung-2022-denosumab-mronj-osteoporosis-5year]] — osteoporosis-dose denosumab MRONJ (4.1%)
+- [[drug/mronj/li-2024-antiresorptive-implants-mronj-sr]] — implant failure from ARD-induced MRONJ
+- [[drug/mronj/baghalipour-2025-mronj-prevention-management-review]] — MRONJ management

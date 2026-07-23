@@ -65,8 +65,8 @@ Overview of multiple Cochrane SRs; primary outcome ≥50% pain relief over 4-6 h
 First-line acute dental pain (post-extraction, post-endodontic, post-implant): **ibuprofen 400mg + APAP 1g** PO at the time of anesthesia wear-off or pre-emptively, then ibuprofen 400mg q6h alternating with APAP 1g q6h (in healthy adults without contraindications). Avoid codeine/tramadol monotherapy. Reserve combination opioid (APAP + oxycodone 10mg) for the small subset where NSAID-APAP is inadequate and the bleeding/CV risk profile permits.
 
 ## Related Papers
-- [[drug/miroshnychenko-2023-dental-extraction-pain-network-meta]] — dental extraction-specific NMA.
-- [[drug/moore-2015-otc-oral-analgesics-cochrane-overview]] — OTC companion.
-- [[drug/watson-2022-acetaminophen-codeine-ibuprofen-third-molar-sr-ma]] — third molar specific.
-- [[drug/gaballah-2025-ibuprofen-paracetamol-concurrent-alternate-rct]] — concurrent vs alternating.
-- [[drug/wells-2011-ibuprofen-acetaminophen-endodontic-necrosis-rct]] — endodontic application.
+- [[drug/analgesics/miroshnychenko-2023-dental-extraction-pain-network-meta]] — dental extraction-specific NMA.
+- [[drug/analgesics/moore-2015-otc-oral-analgesics-cochrane-overview]] — OTC companion.
+- [[drug/analgesics/watson-2022-acetaminophen-codeine-ibuprofen-third-molar-sr-ma]] — third molar specific.
+- [[drug/analgesics/gaballah-2025-ibuprofen-paracetamol-concurrent-alternate-rct]] — concurrent vs alternating.
+- [[drug/analgesics/wells-2011-ibuprofen-acetaminophen-endodontic-necrosis-rct]] — endodontic application.

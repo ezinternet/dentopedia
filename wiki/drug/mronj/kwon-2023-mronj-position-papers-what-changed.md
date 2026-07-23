@@ -51,7 +51,7 @@ Korean clinician review of how the AAOMS jaw-osteonecrosis position papers evolv
 - Position-paper recommendations partly rest on low-level evidence.
 
 ## Related Papers
-- [[drug/ruggiero-2022-aaoms-mronj-position-paper-update]] — primary AAOMS 2022 paper interpreted here
-- [[drug/baghalipour-2025-mronj-prevention-management-review]] — MRONJ prevention/management review
-- [[drug/li-2024-antiresorptive-implants-mronj-sr]] — antiresorptives + implants MRONJ SR
-- [[drug/jung-2022-denosumab-mronj-osteoporosis-5year]] — denosumab MRONJ in osteoporosis
+- [[drug/mronj/ruggiero-2022-aaoms-mronj-position-paper-update]] — primary AAOMS 2022 paper interpreted here
+- [[drug/mronj/baghalipour-2025-mronj-prevention-management-review]] — MRONJ prevention/management review
+- [[drug/mronj/li-2024-antiresorptive-implants-mronj-sr]] — antiresorptives + implants MRONJ SR
+- [[drug/mronj/jung-2022-denosumab-mronj-osteoporosis-5year]] — denosumab MRONJ in osteoporosis

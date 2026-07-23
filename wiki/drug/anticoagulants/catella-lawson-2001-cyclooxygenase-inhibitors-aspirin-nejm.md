@@ -60,8 +60,8 @@ This pharmacodynamic crossover study by FitzGerald's group at the University of 
 Key conclusion: ibuprofen in any multi-dose regimen taken before aspirin reliably blocks aspirin's antiplatelet effect.
 
 ## Related Papers
-- [[drug/hohlfeld-2008-pyrazolinone-aspirin-antiplatelet-pharmacology]] — extends the interaction to dipyrone/pyrazolinone class
-- [[drug/renda-2006-celecoxib-ibuprofen-aspirin-antiplatelet]] — confirms interaction in real OA+IHD patients; celecoxib safe
-- [[drug/yokoyama-2013-nsaids-antiplatelet-aspirin-interaction]] — in vitro screen of 9 NSAIDs; ibuprofen and mefenamic acid confirmed; naproxen has own antiplatelet effect
-- [[drug/kotowska-rodziewicz-2023-nsaids-role-dentistry-review]] — practical dentistry NSAIDs review
-- [[drug/inchingolo-2024-anticoagulation-therapy-dental-practice-sr]] — antiplatelet management in dental practice
+- [[drug/anticoagulants/hohlfeld-2008-pyrazolinone-aspirin-antiplatelet-pharmacology]] — extends the interaction to dipyrone/pyrazolinone class
+- [[drug/anticoagulants/renda-2006-celecoxib-ibuprofen-aspirin-antiplatelet]] — confirms interaction in real OA+IHD patients; celecoxib safe
+- [[drug/anticoagulants/yokoyama-2013-nsaids-antiplatelet-aspirin-interaction]] — in vitro screen of 9 NSAIDs; ibuprofen and mefenamic acid confirmed; naproxen has own antiplatelet effect
+- [[drug/analgesics/kotowska-rodziewicz-2023-nsaids-role-dentistry-review]] — practical dentistry NSAIDs review
+- [[drug/anticoagulants/inchingolo-2024-anticoagulation-therapy-dental-practice-sr]] — antiplatelet management in dental practice

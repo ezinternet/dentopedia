@@ -71,6 +71,6 @@ Inflammatory pulpitis is not an infection — antibiotics confer no benefit in t
 
 ## Related Papers
 
-- [[drug/mendez-millan-2024-antibiotic-overprescription-apical-periodontitis-sr-ma]] — 치근단성 항생제 과처방을 정량화; 본 지침이 그 교정 표준(reinforces).
-- [[drug/lodi-2021-antibiotics-tooth-extraction-cochrane-sr]] — 발치 setting의 항생제 스튜어드십(본 지침 범위 밖)을 같은 원리로 적용(applies-to).
-- [[drug/sandulescu-2024-antibiotic-prescribing-dental-best-practices-review]] — 치과 항생제 처방 best practice; 본 지침과 정합.
+- [[drug/antibiotics/mendez-millan-2024-antibiotic-overprescription-apical-periodontitis-sr-ma]] — 치근단성 항생제 과처방을 정량화; 본 지침이 그 교정 표준(reinforces).
+- [[drug/antibiotics/lodi-2021-antibiotics-tooth-extraction-cochrane-sr]] — 발치 setting의 항생제 스튜어드십(본 지침 범위 밖)을 같은 원리로 적용(applies-to).
+- [[drug/antibiotics/sandulescu-2024-antibiotic-prescribing-dental-best-practices-review]] — 치과 항생제 처방 best practice; 본 지침과 정합.

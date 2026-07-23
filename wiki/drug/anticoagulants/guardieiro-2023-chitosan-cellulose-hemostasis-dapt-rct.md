@@ -52,8 +52,8 @@ Single-blind, within-person randomized; DAPT patients undergoing dental extracti
 For DAPT patients undergoing extraction without antiplatelet interruption, chitosan-based hemostats (e.g., HemCon, ChitoFlex) are a defensible upgrade over standard Surgicel where available — particularly when DAPT has been kept on board per current SR-level consensus (see related).
 
 ## Related Papers
-- [[drug/lu-2018-warfarin-antiplatelet-dental-extraction-management]] — Taiwan DAPT cohort.
-- [[drug/krishnan-2024-bleeding-uninterrupted-single-dual-antiplatelet]] — India uninterrupted DAPT.
-- [[drug/shah-2022-perioperative-antiplatelet-therapy-sr-ma]] — perioperative APT.
+- [[drug/anticoagulants/lu-2018-warfarin-antiplatelet-dental-extraction-management]] — Taiwan DAPT cohort.
+- [[drug/anticoagulants/krishnan-2024-bleeding-uninterrupted-single-dual-antiplatelet]] — India uninterrupted DAPT.
+- [[drug/anticoagulants/shah-2022-perioperative-antiplatelet-therapy-sr-ma]] — perioperative APT.
 - [[oral-surgery/dinkova-2025-local-hemostasis-oral-surgery-review]] — local hemostasis review.
-- [[drug/inchingolo-2024-anticoagulation-therapy-dental-practice-sr]] — anticoagulation in dentistry SR.
+- [[drug/anticoagulants/inchingolo-2024-anticoagulation-therapy-dental-practice-sr]] — anticoagulation in dentistry SR.

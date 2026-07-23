@@ -47,7 +47,7 @@ Both groups: extractions completed without clinically significant bleeding; loca
 - No long-term follow-up
 
 ## Related Papers
-- [[drug/lu-2018-warfarin-antiplatelet-dental-extraction-management]] — Taiwan cohort, all regimens.
-- [[drug/guardieiro-2023-chitosan-cellulose-hemostasis-dapt-rct]] — chitosan vs cellulose hemostatic in DAPT.
-- [[drug/inchingolo-2024-anticoagulation-therapy-dental-practice-sr]] — modern SR.
-- [[drug/shah-2022-perioperative-antiplatelet-therapy-sr-ma]] — perioperative APT SR+MA.
+- [[drug/anticoagulants/lu-2018-warfarin-antiplatelet-dental-extraction-management]] — Taiwan cohort, all regimens.
+- [[drug/anticoagulants/guardieiro-2023-chitosan-cellulose-hemostasis-dapt-rct]] — chitosan vs cellulose hemostatic in DAPT.
+- [[drug/anticoagulants/inchingolo-2024-anticoagulation-therapy-dental-practice-sr]] — modern SR.
+- [[drug/anticoagulants/shah-2022-perioperative-antiplatelet-therapy-sr-ma]] — perioperative APT SR+MA.

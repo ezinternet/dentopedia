@@ -54,6 +54,6 @@ Colibăsanu 등(2025, Victor Babeș 대학)은 루마니아 Timișoara 사설 �
 - ≥61세 underreporting 가능성 자체 caveat.
 
 ## Related Papers
-- [[drug/thornhill-2019-adverse-reactions-oral-antibiotics-dentists]] — NHS England 항생제 ADR 백만 처방당 율.
-- [[drug/pyo-2026-drug-interactions-prescription-safety-elderly]] — 고령 환자 DDI 40.7% prevalence 인용 (본 논문 결과와 일치하는 anchor).
-- [[drug/bazsefidpay-2023-antibiotic-restrictive-use-adherence-recommendation]] — 항생제 제한 처방 adherence.
+- [[drug/antibiotics/thornhill-2019-adverse-reactions-oral-antibiotics-dentists]] — NHS England 항생제 ADR 백만 처방당 율.
+- [[drug/anticoagulants/pyo-2026-drug-interactions-prescription-safety-elderly]] — 고령 환자 DDI 40.7% prevalence 인용 (본 논문 결과와 일치하는 anchor).
+- [[drug/antibiotics/bazsefidpay-2023-antibiotic-restrictive-use-adherence-recommendation]] — 항생제 제한 처방 adherence.

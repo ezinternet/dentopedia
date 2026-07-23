@@ -64,7 +64,7 @@ Retrospective cohort of 98 osteoporosis patients who received Prolia® (denosuma
 - Drug timing (pre/post extraction): NS
 
 ## Related Papers
-- [[drug/ruggiero-2022-aaoms-mronj-position-paper-update]] — AAOMS staging and MRONJ definition used in this study
-- [[drug/yokoo-2025-denosumab-mronj-breast-cancer-bone]] — oncology-dose denosumab MRONJ (31.2%); ROC threshold 32 doses
-- [[drug/baghalipour-2025-mronj-prevention-management-review]] — MRONJ management overview
-- [[drug/lee-2023-bisphosphonates-dental-procedures-bronj]] — BP-related ONJ procedures
+- [[drug/mronj/ruggiero-2022-aaoms-mronj-position-paper-update]] — AAOMS staging and MRONJ definition used in this study
+- [[drug/mronj/yokoo-2025-denosumab-mronj-breast-cancer-bone]] — oncology-dose denosumab MRONJ (31.2%); ROC threshold 32 doses
+- [[drug/mronj/baghalipour-2025-mronj-prevention-management-review]] — MRONJ management overview
+- [[drug/mronj/lee-2023-bisphosphonates-dental-procedures-bronj]] — BP-related ONJ procedures

@@ -50,6 +50,6 @@ SR(BMC Oral Health 2026, article-in-press, 타브리즈의과대학 그룹) — 
 - Re-audit this wiki page once the edited version is released
 
 ## Related Papers
-- [[drug/al-ansari-2022-diabetes-mellitus-dental-implants-sr-ma]] — direct predecessor MA (2022)
-- [[drug/chen-2022-interpretation-hba1c-analytical-methodology-hematology]] — HbA1c measurement methodology
-- [[drug/ghimire-2022-medically-compromised-prosthodontic-patients]] — medically compromised prosthodontic patient overview
+- [[drug/systemic-disease/al-ansari-2022-diabetes-mellitus-dental-implants-sr-ma]] — direct predecessor MA (2022)
+- [[drug/systemic-disease/chen-2022-interpretation-hba1c-analytical-methodology-hematology]] — HbA1c measurement methodology
+- [[drug/mronj/ghimire-2022-medically-compromised-prosthodontic-patients]] — medically compromised prosthodontic patient overview

@@ -61,4 +61,4 @@ This is the first meta-analysis to isolate the analgesic effectiveness of etoric
 
 ## Related Papers
 
-- [[drug/moore-2015-single-dose-oral-analgesics-cochrane-overview]] — moore 2015의 단회용량 경구진통제 효능 근거를 etoricoxib 개별 약물의 발치 후 구제진통 데이터로 확장(extends).
+- [[drug/analgesics/moore-2015-single-dose-oral-analgesics-cochrane-overview]] — moore 2015의 단회용량 경구진통제 효능 근거를 etoricoxib 개별 약물의 발치 후 구제진통 데이터로 확장(extends).

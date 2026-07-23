@@ -100,8 +100,8 @@ Only 3 of 6 included RCTs reported adverse events. No major adverse events attri
 
 ## Related Papers
 
-- [[drug/gousias-2025-preemptive-analgesia-periodontal-implant-sr-ma]] — SR+MA on preemptive analgesia in periodontal/implant surgery (complementary focus, same surgical context)
-- [[drug/costa-2015-preemptive-nsaids-third-molar-pain-meta]] — Meta-analysis of preemptive NSAIDs for third-molar pain (different surgical context, similar drug class)
-- [[drug/satpathi-2024-corticosteroids-dentistry-review]] — Narrative review of corticosteroids in dentistry including mechanisms and perioperative use
-- [[drug/etikala-2019-nsaids-periodontal-implant-therapy-review]] — Review of NSAID use in periodontal and implant therapy
-- [[drug/mohammadpour-2025-antibiotic-prophylaxis-oral-surgery-sr]] — Complementary SR on antibiotic prophylaxis in oral surgery (paired perioperative drug management)
+- [[drug/analgesics/gousias-2025-preemptive-analgesia-periodontal-implant-sr-ma]] — SR+MA on preemptive analgesia in periodontal/implant surgery (complementary focus, same surgical context)
+- [[drug/analgesics/costa-2015-preemptive-nsaids-third-molar-pain-meta]] — Meta-analysis of preemptive NSAIDs for third-molar pain (different surgical context, similar drug class)
+- [[drug/analgesics/satpathi-2024-corticosteroids-dentistry-review]] — Narrative review of corticosteroids in dentistry including mechanisms and perioperative use
+- [[drug/analgesics/etikala-2019-nsaids-periodontal-implant-therapy-review]] — Review of NSAID use in periodontal and implant therapy
+- [[drug/antibiotics/mohammadpour-2025-antibiotic-prophylaxis-oral-surgery-sr]] — Complementary SR on antibiotic prophylaxis in oral surgery (paired perioperative drug management)

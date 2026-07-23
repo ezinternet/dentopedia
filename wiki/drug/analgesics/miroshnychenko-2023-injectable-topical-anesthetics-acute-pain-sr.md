@@ -43,7 +43,7 @@ This JADA article reports **two systematic reviews** that fed the upcoming ADA /
 
 [확인] **SR2 bottom line**: 20% benzocaine increases pain-reduction responders vs placebo at 20–30 min (RR 1.47, 1.03–2.10, low certainty); 10% benzocaine vs placebo RR 1.38 (0.74–2.56, low); 20% over 10% benzocaine confers only a trivial difference (RR 0.93, 0.86–1.00, moderate).
 
-[미검증] Clinically: for procedures where postoperative pain is anticipated (e.g., surgical/impacted third molars), substituting or supplementing with bupivacaine extends comfort and cuts rescue analgesic doses — complementing the *intra-operative* epinephrine-concentration choice settled in [[drug/karm-2017-lidocaine-epinephrine-200000-third-molar]]. Benzocaine is a short (20–30 min) temporizing measure for pulpitis pain, not definitive treatment.
+[미검증] Clinically: for procedures where postoperative pain is anticipated (e.g., surgical/impacted third molars), substituting or supplementing with bupivacaine extends comfort and cuts rescue analgesic doses — complementing the *intra-operative* epinephrine-concentration choice settled in [[drug/analgesics/karm-2017-lidocaine-epinephrine-200000-third-molar]]. Benzocaine is a short (20–30 min) temporizing measure for pulpitis pain, not definitive treatment.
 
 ## Key Contributions
 
@@ -85,7 +85,7 @@ This JADA article reports **two systematic reviews** that fed the upcoming ADA /
 
 ## Related Papers
 
-- [[drug/miroshnychenko-2023-dental-extraction-pain-network-meta]] — same group's analgesic-side NMA; this anesthetic-side review is its companion in the ADA acute-pain CPG.
-- [[drug/karm-2017-lidocaine-epinephrine-200000-third-molar]] — intra-operative lidocaine/epinephrine choice that this postoperative-duration evidence extends.
-- [[drug/becker-2012-local-anesthetics-pharmacological-considerations]] — pharmacology of bupivacaine (95% protein binding → long duration) and benzocaine (ester topical).
+- [[drug/analgesics/miroshnychenko-2023-dental-extraction-pain-network-meta]] — same group's analgesic-side NMA; this anesthetic-side review is its companion in the ADA acute-pain CPG.
+- [[drug/analgesics/karm-2017-lidocaine-epinephrine-200000-third-molar]] — intra-operative lidocaine/epinephrine choice that this postoperative-duration evidence extends.
+- [[local-anesthesia/becker-2012-local-anesthetics-pharmacological-considerations]] — pharmacology of bupivacaine (95% protein binding → long duration) and benzocaine (ester topical).
 </content>

@@ -54,8 +54,8 @@ PubMed + ClinicalTrials.gov; RCT-only (randomized, blinded, placebo-controlled);
 For Korean third molar post-extraction analgesia: ibuprofen 400mg q6h ± APAP 1g q6h (alternating) covers the great majority of patients. Codeine combination prescriptions for routine third molar extraction in healthy adults are not evidence-supported and should be reserved for the small subset with NSAID contraindication or insufficient response to NSAID+APAP combination.
 
 ## Related Papers
-- [[drug/miroshnychenko-2023-dental-extraction-pain-network-meta]] — dental NMA (codeine 60 effectively placebo).
-- [[drug/moore-2015-single-dose-oral-analgesics-cochrane-overview]] — NNT framework.
-- [[drug/feldman-2024-nonopioid-opioid-third-molar-rct]] — recent ADA-supporting RCT.
-- [[drug/pak-2011-root-canal-pain-prevalence-severity]] — endodontic pain incidence.
-- [[drug/costa-2015-preemptive-nsaids-third-molar-pain-meta]] — preemptive third molar.
+- [[drug/analgesics/miroshnychenko-2023-dental-extraction-pain-network-meta]] — dental NMA (codeine 60 effectively placebo).
+- [[drug/analgesics/moore-2015-single-dose-oral-analgesics-cochrane-overview]] — NNT framework.
+- [[drug/analgesics/feldman-2024-nonopioid-opioid-third-molar-rct]] — recent ADA-supporting RCT.
+- [[endodontics/pak-2011-root-canal-pain-prevalence-severity]] — endodontic pain incidence.
+- [[drug/analgesics/costa-2015-preemptive-nsaids-third-molar-pain-meta]] — preemptive third molar.

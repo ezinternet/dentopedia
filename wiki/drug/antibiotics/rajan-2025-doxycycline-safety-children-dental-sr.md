@@ -101,6 +101,6 @@ The key finding is that dental staining attributable to doxycycline occurred in 
 
 ## Related Papers
 
-- [[drug/bazsefidpay-2023-antibiotic-restrictive-use-adherence-recommendation]] — antibiotic restrictive use adherence; this review adds pediatric age-specific evidence for when restriction should not apply
-- [[drug/sandulescu-2024-antibiotic-prescribing-dental-best-practices-review]] — antibiotic prescribing best practices in dentistry; doxycycline pediatric safety relevant to prescribing decisions
-- [[drug/thornhill-2019-adverse-reactions-oral-antibiotics-dentists]] — adverse reactions to antibiotics relevant to understanding doxycycline risk profile
+- [[drug/antibiotics/bazsefidpay-2023-antibiotic-restrictive-use-adherence-recommendation]] — antibiotic restrictive use adherence; this review adds pediatric age-specific evidence for when restriction should not apply
+- [[drug/antibiotics/sandulescu-2024-antibiotic-prescribing-dental-best-practices-review]] — antibiotic prescribing best practices in dentistry; doxycycline pediatric safety relevant to prescribing decisions
+- [[drug/antibiotics/thornhill-2019-adverse-reactions-oral-antibiotics-dentists]] — adverse reactions to antibiotics relevant to understanding doxycycline risk profile

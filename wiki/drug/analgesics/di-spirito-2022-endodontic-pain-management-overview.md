@@ -56,6 +56,6 @@ Primary: overview of systematic reviews of RCTs on orally administered post-oper
 - Occlusal reduction: some benefit in symptomatic cases
 
 ## Related Papers
-- [[drug/smith-2017-nsaids-postoperative-endodontic-pain]] — ibuprofen vs APAP SR+MA
-- [[drug/pak-2011-root-canal-pain-prevalence-severity]] — baseline pain prevalence data
-- [[drug/samani-2025-nsaids-endodontic-postoperative-network]] — updated 2025 network MA
+- [[drug/analgesics/smith-2017-nsaids-postoperative-endodontic-pain]] — ibuprofen vs APAP SR+MA
+- [[endodontics/pak-2011-root-canal-pain-prevalence-severity]] — baseline pain prevalence data
+- [[drug/analgesics/samani-2025-nsaids-endodontic-postoperative-network]] — updated 2025 network MA

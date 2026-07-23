@@ -62,6 +62,6 @@ This narrative review addresses a common but under-guided scenario: pregnant pat
 
 ## Related Papers
 
-- [[drug/zhou-2023-pregnancy-physiology-oral-local-anesthesia-review]] — reinforces: detailed local-anesthesia-in-pregnancy physiology and agent choice.
-- [[drug/orire-2026-revisiting-disulfiram-reaction-alcohol-metronidazole]] — metronidazole (listed here as an intracanal agent) alcohol-interaction context.
+- [[local-anesthesia/zhou-2023-pregnancy-physiology-oral-local-anesthesia-review]] — reinforces: detailed local-anesthesia-in-pregnancy physiology and agent choice.
+- [[drug/antibiotics/orire-2026-revisiting-disulfiram-reaction-alcohol-metronidazole]] — metronidazole (listed here as an intracanal agent) alcohol-interaction context.
 - [[overviews/drug-antibiotic-stewardship-overview]] — applies-to: dental antibiotic prescribing principles, here applied to pregnancy.

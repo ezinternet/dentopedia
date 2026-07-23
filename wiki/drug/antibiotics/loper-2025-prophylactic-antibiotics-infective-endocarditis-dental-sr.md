@@ -111,6 +111,6 @@ The GRADE certainty for both outcomes was rated **very low** (⊕◯◯◯), dow
 
 ## Related Papers
 
-- [[drug/sperotto-2024-antibiotic-prophylaxis-infective-endocarditis-sr-ma]] — adult SR+MA (JAMA Cardiology 2024); pooled RR 0.41 for IE with AP in high-risk cardiac patients; Loper 2025 refines this for pediatric CHD specifically
-- [[drug/de-angelis-2025-antibiotic-third-molar-extraction-prevention-sr]] — SR on AP for third molar extractions; relevant to AP evidence base across dental procedures
-- [[drug/bazsefidpay-2023-antibiotic-restrictive-use-adherence-recommendation]] — antibiotic prescribing adherence in dental settings; complements guideline compliance context
+- [[drug/antibiotics/sperotto-2024-antibiotic-prophylaxis-infective-endocarditis-sr-ma]] — adult SR+MA (JAMA Cardiology 2024); pooled RR 0.41 for IE with AP in high-risk cardiac patients; Loper 2025 refines this for pediatric CHD specifically
+- [[drug/antibiotics/de-angelis-2025-antibiotic-third-molar-extraction-prevention-sr]] — SR on AP for third molar extractions; relevant to AP evidence base across dental procedures
+- [[drug/antibiotics/bazsefidpay-2023-antibiotic-restrictive-use-adherence-recommendation]] — antibiotic prescribing adherence in dental settings; complements guideline compliance context

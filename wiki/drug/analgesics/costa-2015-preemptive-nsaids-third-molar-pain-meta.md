@@ -54,7 +54,7 @@ Meta-analysis testing the common clinical hypothesis that giving an oral NSAID *
 - Doesn't separate pre-op-only vs pre+post dosing
 
 ## Related Papers
-- [[drug/gousias-2025-preemptive-analgesia-periodontal-implant-sr-ma]] — preemptive in periodontal/implant SR+MA (2025).
-- [[drug/miroshnychenko-2023-dental-extraction-pain-network-meta]] — dental NMA (postoperative regimen ranking).
-- [[drug/watson-2022-acetaminophen-codeine-ibuprofen-third-molar-sr-ma]] — third molar specific.
-- [[drug/moore-2015-single-dose-oral-analgesics-cochrane-overview]] — single-dose framework.
+- [[drug/analgesics/gousias-2025-preemptive-analgesia-periodontal-implant-sr-ma]] — preemptive in periodontal/implant SR+MA (2025).
+- [[drug/analgesics/miroshnychenko-2023-dental-extraction-pain-network-meta]] — dental NMA (postoperative regimen ranking).
+- [[drug/analgesics/watson-2022-acetaminophen-codeine-ibuprofen-third-molar-sr-ma]] — third molar specific.
+- [[drug/analgesics/moore-2015-single-dose-oral-analgesics-cochrane-overview]] — single-dose framework.

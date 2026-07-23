@@ -109,9 +109,9 @@ The quality of the evidence is rated as low. Twenty of 23 studies used pre-post 
 
 ## Related Papers
 
-- [[drug/mendez-millan-2024-antibiotic-overprescription-apical-periodontitis-sr-ma]] — SR+MA on inappropriate antibiotic prescribing rates in apical periodontitis; this paper extends by providing intervention effectiveness data
-- [[drug/sbricoli-2024-antibiotic-prescribing-habits-dentistry-survey]] — International survey of dentist prescribing habits (baseline data this SR's interventions would address)
-- [[drug/sutej-2024-antibiotic-prescribing-trends-dentistry-croatia]] — Prescribing trends study; reinforced by stewardship effectiveness evidence here
-- [[drug/bazsefidpay-2023-antibiotic-restrictive-use-adherence-recommendation]] — Adherence to antibiotic restriction recommendations; contextualizes compliance gap this SR addresses
-- [[drug/thompson-2023-dental-antibiotic-stewardship-core-outcome-set]] — Core outcome set for dental antibiotic stewardship research; methodologically related
-- [[drug/sandulescu-2024-antibiotic-prescribing-dental-best-practices-review]] — Best practices review for antibiotic prescribing in dentistry; policy complement to this SR
+- [[drug/antibiotics/mendez-millan-2024-antibiotic-overprescription-apical-periodontitis-sr-ma]] — SR+MA on inappropriate antibiotic prescribing rates in apical periodontitis; this paper extends by providing intervention effectiveness data
+- [[drug/antibiotics/sbricoli-2024-antibiotic-prescribing-habits-dentistry-survey]] — International survey of dentist prescribing habits (baseline data this SR's interventions would address)
+- [[drug/antibiotics/sutej-2024-antibiotic-prescribing-trends-dentistry-croatia]] — Prescribing trends study; reinforced by stewardship effectiveness evidence here
+- [[drug/antibiotics/bazsefidpay-2023-antibiotic-restrictive-use-adherence-recommendation]] — Adherence to antibiotic restriction recommendations; contextualizes compliance gap this SR addresses
+- [[drug/antibiotics/thompson-2023-dental-antibiotic-stewardship-core-outcome-set]] — Core outcome set for dental antibiotic stewardship research; methodologically related
+- [[drug/antibiotics/sandulescu-2024-antibiotic-prescribing-dental-best-practices-review]] — Best practices review for antibiotic prescribing in dentistry; policy complement to this SR

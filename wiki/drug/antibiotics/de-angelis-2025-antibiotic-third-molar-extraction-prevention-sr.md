@@ -52,6 +52,6 @@ For Korean dental practice: routine antibiotic prophylaxis for simple third mola
 
 ## Related Papers
 - [[oral-surgery/third-molar/camps-font-2024-antibiotic-prophylaxis-dry-socket-nma]] — NMA companion.
-- [[drug/lodi-2021-antibiotics-tooth-extraction-cochrane-sr]] — Cochrane companion.
+- [[drug/antibiotics/lodi-2021-antibiotics-tooth-extraction-cochrane-sr]] — Cochrane companion.
 - [[oral-surgery/third-molar/bailey-2020-surgical-techniques-mandibular-wisdom-teeth-sr]] — surgical technique SR.
-- [[drug/sandulescu-2024-antibiotic-prescribing-dental-best-practices-review]] — best practices.
+- [[drug/antibiotics/sandulescu-2024-antibiotic-prescribing-dental-best-practices-review]] — best practices.

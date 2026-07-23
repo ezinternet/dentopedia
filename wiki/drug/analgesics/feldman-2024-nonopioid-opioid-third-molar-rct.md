@@ -50,6 +50,6 @@ Double-blind, randomized, stratified noninferiority trial. Two arms: (A) hydroco
 | Overall satisfaction (nonopioid) | 85.3% vs 78.9% | OR 1.21–1.98 | 0.006 |
 
 ## Related Papers
-- [[drug/miroshnychenko-2023-dental-extraction-pain-network-meta]] — NMA (82 RCTs) confirming ibuprofen±APAP as most effective for extraction pain
-- [[drug/watson-2022-acetaminophen-codeine-ibuprofen-third-molar-sr-ma]] — SR+MA showing ibuprofen >> codeine combination for 3rd molar pain
-- [[drug/gaballah-2025-ibuprofen-paracetamol-concurrent-alternate-rct]] — RCT comparing concurrent vs alternate ibuprofen+APAP dosing schedules
+- [[drug/analgesics/miroshnychenko-2023-dental-extraction-pain-network-meta]] — NMA (82 RCTs) confirming ibuprofen±APAP as most effective for extraction pain
+- [[drug/analgesics/watson-2022-acetaminophen-codeine-ibuprofen-third-molar-sr-ma]] — SR+MA showing ibuprofen >> codeine combination for 3rd molar pain
+- [[drug/analgesics/gaballah-2025-ibuprofen-paracetamol-concurrent-alternate-rct]] — RCT comparing concurrent vs alternate ibuprofen+APAP dosing schedules

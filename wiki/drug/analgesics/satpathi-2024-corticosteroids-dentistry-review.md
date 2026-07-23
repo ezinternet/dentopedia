@@ -71,5 +71,5 @@ Patients on long-term systemic corticosteroids (≥5mg prednisolone/day >2 weeks
 - Overcautious prescribing concern: do NOT use systemic corticosteroids for minor extractions without indication
 
 ## Related Papers
-- [[drug/ufcd-2019-medically-complex-patients-management-guidelines]] — Section 11: corticosteroid use + adrenal insufficiency protocol
-- [[drug/ghimire-2022-medically-compromised-prosthodontic-patients]] — steroid users: delayed healing, drug holiday considerations
+- [[drug/mronj/ufcd-2019-medically-complex-patients-management-guidelines]] — Section 11: corticosteroid use + adrenal insufficiency protocol
+- [[drug/mronj/ghimire-2022-medically-compromised-prosthodontic-patients]] — steroid users: delayed healing, drug holiday considerations

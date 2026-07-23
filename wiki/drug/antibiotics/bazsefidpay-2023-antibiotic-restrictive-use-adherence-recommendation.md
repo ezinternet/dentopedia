@@ -49,7 +49,7 @@ Adherence audit + complication monitoring within Swedish restrictive prescribing
 - Observational
 
 ## Related Papers
-- [[drug/sandulescu-2024-antibiotic-prescribing-dental-best-practices-review]] — best practices.
-- [[drug/thompson-2023-dental-antibiotic-stewardship-core-outcome-set]] — stewardship.
-- [[drug/sbricoli-2024-antibiotic-prescribing-habits-dentistry-survey]] — habits.
-- [[drug/sutej-2024-antibiotic-prescribing-trends-dentistry-croatia]] — trends.
+- [[drug/antibiotics/sandulescu-2024-antibiotic-prescribing-dental-best-practices-review]] — best practices.
+- [[drug/antibiotics/thompson-2023-dental-antibiotic-stewardship-core-outcome-set]] — stewardship.
+- [[drug/antibiotics/sbricoli-2024-antibiotic-prescribing-habits-dentistry-survey]] — habits.
+- [[drug/antibiotics/sutej-2024-antibiotic-prescribing-trends-dentistry-croatia]] — trends.

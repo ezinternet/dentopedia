@@ -44,4 +44,4 @@ Single-center prospective cohort; n=170 suspected pSS.
 New criteria slightly higher sensitivity. SGUS adds value in anti-SSA-negative patients. Inter-rater reliability of SGUS needs standardization.
 
 ## Related Papers
-- [[drug/shiboski-2016-acr-eular-sjogren-classification-criteria]] — related
+- [[drug/systemic-disease/shiboski-2016-acr-eular-sjogren-classification-criteria]] — related

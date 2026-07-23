@@ -44,4 +44,4 @@ Editorial commentary.
 New criteria more objective and reproducible; better suited for clinical trial patient selection. Less sensitive for early/seronegative pSS.
 
 ## Related Papers
-- [[drug/shiboski-2016-acr-eular-sjogren-classification-criteria]] — related
+- [[drug/systemic-disease/shiboski-2016-acr-eular-sjogren-classification-criteria]] — related

@@ -53,8 +53,8 @@ Prospective double-blind RCT; n=71; ibuprofen 600mg q6h vs ibuprofen 600mg + APA
 For Korean endodontic emergency practice: combination ibuprofen + APAP is the protocol of first choice for symptomatic necrosis cases. Single-NSAID monotherapy is inferior.
 
 ## Related Papers
-- [[drug/moore-2015-single-dose-oral-analgesics-cochrane-overview]] — NNT framework.
-- [[drug/vatankhah-2023-ibuprofen-diclofenac-endodontic-pain-rct]] — ibuprofen vs diclofenac.
-- [[drug/di-spirito-2022-endodontic-pain-management-overview]] — endodontic pain.
-- [[drug/samani-2025-nsaids-endodontic-postoperative-network]] — endodontic NMA.
-- [[drug/gaballah-2025-ibuprofen-paracetamol-concurrent-alternate-rct]] — dosing pattern RCT.
+- [[drug/analgesics/moore-2015-single-dose-oral-analgesics-cochrane-overview]] — NNT framework.
+- [[drug/analgesics/vatankhah-2023-ibuprofen-diclofenac-endodontic-pain-rct]] — ibuprofen vs diclofenac.
+- [[drug/analgesics/di-spirito-2022-endodontic-pain-management-overview]] — endodontic pain.
+- [[drug/analgesics/samani-2025-nsaids-endodontic-postoperative-network]] — endodontic NMA.
+- [[drug/analgesics/gaballah-2025-ibuprofen-paracetamol-concurrent-alternate-rct]] — dosing pattern RCT.

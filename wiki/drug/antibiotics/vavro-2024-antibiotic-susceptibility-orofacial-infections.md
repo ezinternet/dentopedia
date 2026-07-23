@@ -54,5 +54,5 @@ Retrospective chart review, Comenius University Bratislava, 2014-2023, n=744. Re
 - CRP increased ~24.75 mg/l per additional pathogen (p<0.001); resistant-strain carriers had higher CRP (158.4 vs 114.4 mg/l, p<0.001).
 
 ## Related Papers
-- [[drug/teoh-2021-oral-antibiotic-empirical-acute-dentoalveolar-infections]] — reinforces (empirical antibiotic selection for dentoalveolar infection)
-- [[drug/sandulescu-2024-antibiotic-prescribing-dental-best-practices-review]] — antibiotic prescribing best practices
+- [[drug/antibiotics/teoh-2021-oral-antibiotic-empirical-acute-dentoalveolar-infections]] — reinforces (empirical antibiotic selection for dentoalveolar infection)
+- [[drug/antibiotics/sandulescu-2024-antibiotic-prescribing-dental-best-practices-review]] — antibiotic prescribing best practices

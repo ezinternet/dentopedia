@@ -108,13 +108,13 @@ Retrospective chart review + structured questionnaire of all dental outpatients 
 
 ## Related Papers
 
-- [[drug/gupta-2022-dental-management-cardiovascular-disease]] — modern review of cardiovascular disease management in dentistry; updates the HTN guidance in this paper.
-- [[drug/inchingolo-2024-anticoagulation-therapy-dental-practice-sr]] — modern SR on anticoagulation in dental practice; **supersedes** the warfarin-interruption practice implied in this paper's complication case.
-- [[drug/moldovan-2023-anticoagulant-oral-surgery-bleeding-sr]] — anticoagulants and oral surgery bleeding SR.
-- [[drug/ghimire-2022-medically-compromised-prosthodontic-patients]] — medically compromised prosthodontic patients.
-- [[drug/ruggiero-2022-aaoms-mronj-position-paper-update]] — MRONJ position paper; addresses the systemic-disease category (antiresorptives) that did not yet exist as a recognized risk in 1999.
-- [[drug/karm-2017-lidocaine-epinephrine-200000-third-molar]] — RCT-level evidence on 1:200,000 epinephrine for hemodynamically vulnerable patients — directly addresses the "minimize epinephrine in HTN/DM" recommendation made here.
-- [[drug/etikala-2019-nsaids-periodontal-implant-therapy-review]] / [[drug/satpathi-2024-corticosteroids-dentistry-review]] — modern systemic-medication management in dentistry.
+- [[drug/anticoagulants/gupta-2022-dental-management-cardiovascular-disease]] — modern review of cardiovascular disease management in dentistry; updates the HTN guidance in this paper.
+- [[drug/anticoagulants/inchingolo-2024-anticoagulation-therapy-dental-practice-sr]] — modern SR on anticoagulation in dental practice; **supersedes** the warfarin-interruption practice implied in this paper's complication case.
+- [[drug/anticoagulants/moldovan-2023-anticoagulant-oral-surgery-bleeding-sr]] — anticoagulants and oral surgery bleeding SR.
+- [[drug/mronj/ghimire-2022-medically-compromised-prosthodontic-patients]] — medically compromised prosthodontic patients.
+- [[drug/mronj/ruggiero-2022-aaoms-mronj-position-paper-update]] — MRONJ position paper; addresses the systemic-disease category (antiresorptives) that did not yet exist as a recognized risk in 1999.
+- [[drug/analgesics/karm-2017-lidocaine-epinephrine-200000-third-molar]] — RCT-level evidence on 1:200,000 epinephrine for hemodynamically vulnerable patients — directly addresses the "minimize epinephrine in HTN/DM" recommendation made here.
+- [[drug/analgesics/etikala-2019-nsaids-periodontal-implant-therapy-review]] / [[drug/analgesics/satpathi-2024-corticosteroids-dentistry-review]] — modern systemic-medication management in dentistry.
 
 ## See Also
 

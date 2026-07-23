@@ -99,7 +99,7 @@ Sher 2021 = 3%; Stavropoulos 2018 = 2%; Rebelo 2023 = 4%; Li and Leung 2024 = 17
 
 ## Related Papers
 
-- [[drug/li-2024-antiresorptive-implants-mronj-sr]] — one of the 10 systematic reviews included in this umbrella review (osseointegrated implants, ARD started post-osseointegration, 23% failure/83% MRONJ-attributable); this umbrella review adds AMSTAR 2 cross-review quality appraisal and situates Li and Leung's findings (rated critically low quality here) among 9 other SRs on the same question.
-- [[drug/ruggiero-2022-aaoms-mronj-position-paper-update]] — AAOMS staging/definition of MRONJ used as the reference case definition across the reviews synthesized here.
-- [[drug/kim-2025-medication-related-osteonecrosis-jaw-evidence]] — Korean multidisciplinary MRONJ position statement providing drug-holiday timing guidance consistent with this review's risk-modifier findings.
-- [[drug/baghalipour-2025-mronj-prevention-management-review]] — MRONJ prevention/management overview, complementary at the individual-patient-management level to this review's population-level risk synthesis.
+- [[drug/mronj/li-2024-antiresorptive-implants-mronj-sr]] — one of the 10 systematic reviews included in this umbrella review (osseointegrated implants, ARD started post-osseointegration, 23% failure/83% MRONJ-attributable); this umbrella review adds AMSTAR 2 cross-review quality appraisal and situates Li and Leung's findings (rated critically low quality here) among 9 other SRs on the same question.
+- [[drug/mronj/ruggiero-2022-aaoms-mronj-position-paper-update]] — AAOMS staging/definition of MRONJ used as the reference case definition across the reviews synthesized here.
+- [[drug/mronj/kim-2025-medication-related-osteonecrosis-jaw-evidence]] — Korean multidisciplinary MRONJ position statement providing drug-holiday timing guidance consistent with this review's risk-modifier findings.
+- [[drug/mronj/baghalipour-2025-mronj-prevention-management-review]] — MRONJ prevention/management overview, complementary at the individual-patient-management level to this review's population-level risk synthesis.

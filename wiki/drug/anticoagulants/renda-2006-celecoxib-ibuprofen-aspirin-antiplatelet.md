@@ -50,7 +50,7 @@ This placebo-controlled RCT extends the ibuprofen–aspirin interaction from hea
 - The COX-2/COX-1 selectivity ratio, not the degree of COX-2 inhibition, determines whether aspirin's platelet protection is compromised
 
 ## Related Papers
-- [[drug/catella-lawson-2001-cyclooxygenase-inhibitors-aspirin-nejm]] — foundational human pharmacodynamic study (healthy volunteers); rofecoxib and diclofenac also safe
-- [[drug/hohlfeld-2008-pyrazolinone-aspirin-antiplatelet-pharmacology]] — dipyrone/pyrazolinone class also interferes via same COX-1 mechanism
-- [[drug/yokoyama-2013-nsaids-antiplatelet-aspirin-interaction]] — in vitro 9-NSAID screen expanding the interaction landscape
-- [[drug/inchingolo-2024-anticoagulation-therapy-dental-practice-sr]] — antiplatelet management in dental practice
+- [[drug/anticoagulants/catella-lawson-2001-cyclooxygenase-inhibitors-aspirin-nejm]] — foundational human pharmacodynamic study (healthy volunteers); rofecoxib and diclofenac also safe
+- [[drug/anticoagulants/hohlfeld-2008-pyrazolinone-aspirin-antiplatelet-pharmacology]] — dipyrone/pyrazolinone class also interferes via same COX-1 mechanism
+- [[drug/anticoagulants/yokoyama-2013-nsaids-antiplatelet-aspirin-interaction]] — in vitro 9-NSAID screen expanding the interaction landscape
+- [[drug/anticoagulants/inchingolo-2024-anticoagulation-therapy-dental-practice-sr]] — antiplatelet management in dental practice

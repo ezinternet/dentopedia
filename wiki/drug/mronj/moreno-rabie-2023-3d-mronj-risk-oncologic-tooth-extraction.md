@@ -72,8 +72,8 @@ This single-center retrospective, longitudinal case–control study (UZ/KU Leuve
 
 ## Related Papers
 
-- [[drug/jung-2022-denosumab-mronj-osteoporosis-5year]] — extends: 발치 후 MRONJ 코호트(골다공증-용량)였던 jung-2022을, 영상기반 발치 전 위험예측 + 암환자(고용량) 맥락으로 확장
-- [[drug/baghalipour-2025-mronj-prevention-management-review]] — reinforces: drug holiday·휴약·발치 전 평가의 예방 원칙을 영상 근거로 보강
-- [[drug/lee-2023-bisphosphonates-dental-procedures-bronj]] — BP별 BRONJ 위험·예방 서술 고찰과 짝을 이루는 영상 소견(BP→골경화 우세)
-- [[drug/kwon-2023-mronj-position-papers-what-changed]] — AAOMS 2022 권고(수술 전 drug holiday 권고 삭제)와 본 연구의 짧은 휴약=위험 소견 대비
-- [[drug/koth-2017-clinical-radiographic-haematological-bisphosphonate-therapy]] — 동시 인제스트: 비스포스포네이트 영상·혈액학 소견 (병행 참조)
+- [[drug/mronj/jung-2022-denosumab-mronj-osteoporosis-5year]] — extends: 발치 후 MRONJ 코호트(골다공증-용량)였던 jung-2022을, 영상기반 발치 전 위험예측 + 암환자(고용량) 맥락으로 확장
+- [[drug/mronj/baghalipour-2025-mronj-prevention-management-review]] — reinforces: drug holiday·휴약·발치 전 평가의 예방 원칙을 영상 근거로 보강
+- [[drug/mronj/lee-2023-bisphosphonates-dental-procedures-bronj]] — BP별 BRONJ 위험·예방 서술 고찰과 짝을 이루는 영상 소견(BP→골경화 우세)
+- [[drug/mronj/kwon-2023-mronj-position-papers-what-changed]] — AAOMS 2022 권고(수술 전 drug holiday 권고 삭제)와 본 연구의 짧은 휴약=위험 소견 대비
+- [[drug/mronj/koth-2017-clinical-radiographic-haematological-bisphosphonate-therapy]] — 동시 인제스트: 비스포스포네이트 영상·혈액학 소견 (병행 참조)

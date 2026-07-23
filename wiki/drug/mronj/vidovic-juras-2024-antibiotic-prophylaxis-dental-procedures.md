@@ -67,5 +67,5 @@ Clinical implication: routine antibiotic prophylaxis for prosthetic joint patien
 - Common misconception: many clinicians still prescribe AP for prosthetic joints without evidence basis
 
 ## Related Papers
-- [[drug/wilson-2021-ie-prophylaxis-aha-scientific-statement]] — AHA 2021 statement: 4 IE high-risk categories; protocol details
-- [[drug/ufcd-2019-medically-complex-patients-management-guidelines]] — Section 18: Prosthetic joints — AP not routinely recommended
+- [[drug/antibiotics/wilson-2021-ie-prophylaxis-aha-scientific-statement]] — AHA 2021 statement: 4 IE high-risk categories; protocol details
+- [[drug/mronj/ufcd-2019-medically-complex-patients-management-guidelines]] — Section 18: Prosthetic joints — AP not routinely recommended

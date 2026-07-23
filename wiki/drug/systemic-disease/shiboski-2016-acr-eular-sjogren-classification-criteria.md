@@ -44,5 +44,5 @@ Multinational cohort data-driven analysis (n=6,608) + expert consensus.
 New criteria superior to AECG in sensitivity/specificity. Anti-SSA/Ro highest weighted item. Validated across three independent cohorts.
 
 ## Related Papers
-- [[drug/franceschini-2017-sjogren-2016-acr-eular-criteria-commentary]] — related
-- [[drug/legoff-2017-sjogren-classification-criteria-comparison]] — related
+- [[drug/systemic-disease/franceschini-2017-sjogren-2016-acr-eular-criteria-commentary]] — related
+- [[drug/systemic-disease/legoff-2017-sjogren-classification-criteria-comparison]] — related

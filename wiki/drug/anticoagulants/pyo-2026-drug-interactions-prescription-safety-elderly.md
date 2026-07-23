@@ -83,8 +83,8 @@ Narrative review without systematic search or risk-of-bias appraisal. Synthesize
 - 8개 이상 복용 환자는 처방 전 DDI 스크리닝 도구 사용을 진료 SOP에 박아둘 것
 
 ## Related Papers
-- [[drug/hong-2019-randomized-double-blind-placebo-controlled-multicenter]] — CELC 다기관 RCT; 치주 보조 약물 안전성·다약제 환경에서 추가 약물 처방의 정당화 근거
-- [[drug/kim-2024-magnoliae-cortex-zea-mays-extracts]] — 천연물 추출물(Magnoliae Cortex + Zea mays L.) 비글견 치주염; 고령환자 약물부담 감소 대안
-- [[drug/kim-2018-magnoliae-cortex-zea-mays-modulate]] — 동일 천연물 in vitro 항염; CYP450 영향 미지 → 임상 적용 시 DDI 검증 필요
+- [[periodontics/host-modulation/hong-2019-randomized-double-blind-placebo-controlled-multicenter]] — CELC 다기관 RCT; 치주 보조 약물 안전성·다약제 환경에서 추가 약물 처방의 정당화 근거
+- [[periodontics/host-modulation/kim-2024-magnoliae-cortex-zea-mays-extracts]] — 천연물 추출물(Magnoliae Cortex + Zea mays L.) 비글견 치주염; 고령환자 약물부담 감소 대안
+- [[periodontics/host-modulation/kim-2018-magnoliae-cortex-zea-mays-modulate]] — 동일 천연물 in vitro 항염; CYP450 영향 미지 → 임상 적용 시 DDI 검증 필요
 - [[evidence-appraisal/choi-2015-statistical-validity-insadol-clinical-effectiveness]] — Insadol(옥수수 불검화 추출물) 임상시험 통계 비판; 약물 효능 근거 평가의 본 review 한계와 직접 연결
 - [[evidence-appraisal/darrigo-2024-common-mistakes-biostatistics]] — narrative review의 일반적 비뚤림과 처방의 인식 측정 시 함정

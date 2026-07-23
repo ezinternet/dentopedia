@@ -54,6 +54,6 @@ Thornhill 등(2019)은 NHS England 2010–2017 처방 데이터(연 평균 23,62
 - **Amoxicillin + clavulanate**: 유일하게 hepatobiliary ADR (대부분 cholestatic jaundice).
 
 ## Related Papers
-- [[drug/bazsefidpay-2023-antibiotic-restrictive-use-adherence-recommendation]] — 치과 항생제 제한적 사용 권고 adherence.
-- [[drug/colibasanu-2025-drug-drug-interactions-dental-patients-retrospective]] — 치과 환자 DDI(drug-drug interaction) prevalence 실세계 데이터.
-- [[drug/pyo-2026-drug-interactions-prescription-safety-elderly]] — 고령 환자 처방 안전성 종설.
+- [[drug/antibiotics/bazsefidpay-2023-antibiotic-restrictive-use-adherence-recommendation]] — 치과 항생제 제한적 사용 권고 adherence.
+- [[drug/systemic-disease/colibasanu-2025-drug-drug-interactions-dental-patients-retrospective]] — 치과 환자 DDI(drug-drug interaction) prevalence 실세계 데이터.
+- [[drug/anticoagulants/pyo-2026-drug-interactions-prescription-safety-elderly]] — 고령 환자 처방 안전성 종설.

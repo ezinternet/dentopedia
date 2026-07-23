@@ -82,6 +82,6 @@ Active BRONJ:
 - Oral BP >3yr: drug holiday protocol + informed consent + careful monitoring
 
 ## Related Papers
-- [[drug/baghalipour-2025-mronj-prevention-management-review]] — 4-level MRONJ prevention framework; surgical specialty protocols
-- [[drug/ghimire-2022-medically-compromised-prosthodontic-patients]] — prosthodontic perspective: MRONJ drug holiday protocol
-- [[drug/ufcd-2019-medically-complex-patients-management-guidelines]] — Section 6: institutional MRONJ protocol
+- [[drug/mronj/baghalipour-2025-mronj-prevention-management-review]] — 4-level MRONJ prevention framework; surgical specialty protocols
+- [[drug/mronj/ghimire-2022-medically-compromised-prosthodontic-patients]] — prosthodontic perspective: MRONJ drug holiday protocol
+- [[drug/mronj/ufcd-2019-medically-complex-patients-management-guidelines]] — Section 6: institutional MRONJ protocol

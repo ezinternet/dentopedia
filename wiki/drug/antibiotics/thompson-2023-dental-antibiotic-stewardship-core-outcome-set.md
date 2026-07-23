@@ -49,8 +49,8 @@ Delphi consensus; outcomes sourced via literature review; ≥30 international pa
 - Local adaptation required for non-English-speaking contexts
 
 ## Related Papers
-- [[drug/sandulescu-2024-antibiotic-prescribing-dental-best-practices-review]] — implementation review.
-- [[drug/sbricoli-2024-antibiotic-prescribing-habits-dentistry-survey]] — current prescribing baseline.
-- [[drug/sutej-2024-antibiotic-prescribing-trends-dentistry-croatia]] — national trends.
-- [[drug/bazsefidpay-2023-antibiotic-restrictive-use-adherence-recommendation]] — Swedish adherence.
-- [[drug/mendez-millan-2024-antibiotic-overprescription-apical-periodontitis-sr-ma]] — endodontic overprescription.
+- [[drug/antibiotics/sandulescu-2024-antibiotic-prescribing-dental-best-practices-review]] — implementation review.
+- [[drug/antibiotics/sbricoli-2024-antibiotic-prescribing-habits-dentistry-survey]] — current prescribing baseline.
+- [[drug/antibiotics/sutej-2024-antibiotic-prescribing-trends-dentistry-croatia]] — national trends.
+- [[drug/antibiotics/bazsefidpay-2023-antibiotic-restrictive-use-adherence-recommendation]] — Swedish adherence.
+- [[drug/antibiotics/mendez-millan-2024-antibiotic-overprescription-apical-periodontitis-sr-ma]] — endodontic overprescription.

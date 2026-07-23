@@ -66,7 +66,7 @@ This Cochrane systematic review (third update, 2021) synthesizes randomized evid
 Key clinical balance: antibiotics reduce post-extraction infection (NNT 19) and dry socket (NNT 46) at **low certainty**, with no clear effect on pain/fever and only mild, transient adverse effects — but absolute benefit is modest. Given antimicrobial resistance, the panel advises against routine prophylaxis in healthy patients; prescribe individually by clinical condition and infection risk. Immunocompromised patients need an individualised approach with their medical specialist.
 
 ## Related Papers
-- [[drug/vidovic-juras-2024-antibiotic-prophylaxis-dental-procedures]] — updated narrative review of dental antibiotic prophylaxis indications
-- [[drug/wilson-2021-ie-prophylaxis-aha-scientific-statement]] — IE-specific prophylaxis; limited to four high-risk cardiac conditions
+- [[drug/mronj/vidovic-juras-2024-antibiotic-prophylaxis-dental-procedures]] — updated narrative review of dental antibiotic prophylaxis indications
+- [[drug/antibiotics/wilson-2021-ie-prophylaxis-aha-scientific-statement]] — IE-specific prophylaxis; limited to four high-risk cardiac conditions
 - [[oral-surgery/third-molar/damico-2025-third-molar-surgical-indications-guidelines]] — third-molar surgical decision-making
 - [[oral-surgery/dinkova-2025-local-hemostasis-oral-surgery-review]] — local hemostasis strategies; complementary to peri-extraction management

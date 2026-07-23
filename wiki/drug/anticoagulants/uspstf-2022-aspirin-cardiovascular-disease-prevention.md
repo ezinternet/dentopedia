@@ -59,8 +59,8 @@ USPSTF systematic review covering: CVD event effects, CV/all-cause mortality, CR
 - Does not address dental procedure management; relevant only as background for the patient's medication landscape.
 
 ## Related Papers
-- [[drug/catella-lawson-2001-cyclooxygenase-inhibitors-aspirin-nejm]] — COX inhibitors and aspirin antiplatelet pharmacology.
-- [[drug/renda-2006-celecoxib-ibuprofen-aspirin-antiplatelet]] — celecoxib/ibuprofen/aspirin antiplatelet interactions.
-- [[drug/hohlfeld-2008-pyrazolinone-aspirin-antiplatelet-pharmacology]] — pyrazolinone-aspirin pharmacology.
-- [[drug/lu-2018-warfarin-antiplatelet-dental-extraction-management]] — patient on aspirin for established indication; dental extraction outcomes.
-- [[drug/shah-2022-perioperative-antiplatelet-therapy-sr-ma]] — perioperative APT SR+MA.
+- [[drug/anticoagulants/catella-lawson-2001-cyclooxygenase-inhibitors-aspirin-nejm]] — COX inhibitors and aspirin antiplatelet pharmacology.
+- [[drug/anticoagulants/renda-2006-celecoxib-ibuprofen-aspirin-antiplatelet]] — celecoxib/ibuprofen/aspirin antiplatelet interactions.
+- [[drug/anticoagulants/hohlfeld-2008-pyrazolinone-aspirin-antiplatelet-pharmacology]] — pyrazolinone-aspirin pharmacology.
+- [[drug/anticoagulants/lu-2018-warfarin-antiplatelet-dental-extraction-management]] — patient on aspirin for established indication; dental extraction outcomes.
+- [[drug/anticoagulants/shah-2022-perioperative-antiplatelet-therapy-sr-ma]] — perioperative APT SR+MA.

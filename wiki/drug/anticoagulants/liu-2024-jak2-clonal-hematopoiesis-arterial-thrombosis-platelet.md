@@ -52,6 +52,6 @@ JAK2V617F clonal hematopoiesis → activated platelet phenotype → enhanced art
 - No dental-specific implications
 
 ## Related Papers
-- [[drug/shah-2022-perioperative-antiplatelet-therapy-sr-ma]] — perioperative APT.
-- [[drug/uspstf-2022-aspirin-cardiovascular-disease-prevention]] — primary prevention.
-- [[drug/lu-2018-warfarin-antiplatelet-dental-extraction-management]] — dental extraction with antithrombotic.
+- [[drug/anticoagulants/shah-2022-perioperative-antiplatelet-therapy-sr-ma]] — perioperative APT.
+- [[drug/anticoagulants/uspstf-2022-aspirin-cardiovascular-disease-prevention]] — primary prevention.
+- [[drug/anticoagulants/lu-2018-warfarin-antiplatelet-dental-extraction-management]] — dental extraction with antithrombotic.

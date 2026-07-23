@@ -76,6 +76,6 @@ High-risk only:
 - Use local hemostatic measures (tranexamic acid, gelfoam, pressure)
 
 ## Related Papers
-- [[drug/inchingolo-2024-anticoagulation-therapy-dental-practice-sr]] — SR on anticoagulant management; do not stop VKA/DOAC for routine procedures
-- [[drug/ufcd-2019-medically-complex-patients-management-guidelines]] — comprehensive guideline covering all CVD subcategories + vasoconstrictor protocols
-- [[drug/ghimire-2022-medically-compromised-prosthodontic-patients]] — prosthodontic-specific CVD modifications
+- [[drug/anticoagulants/inchingolo-2024-anticoagulation-therapy-dental-practice-sr]] — SR on anticoagulant management; do not stop VKA/DOAC for routine procedures
+- [[drug/mronj/ufcd-2019-medically-complex-patients-management-guidelines]] — comprehensive guideline covering all CVD subcategories + vasoconstrictor protocols
+- [[drug/mronj/ghimire-2022-medically-compromised-prosthodontic-patients]] — prosthodontic-specific CVD modifications

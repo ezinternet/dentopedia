@@ -70,5 +70,5 @@ Single-center descriptive microbiology study of 68 orofacial infection patients 
 - Amoxicillin alone: 75-91% susceptibility; reasonable for non-beta-lactamase-producing organisms.
 
 ## Related Papers
-- [[drug/vavro-2024-antibiotic-susceptibility-orofacial-infections]] — reinforces (amox-clav lowest resistance confirmed in larger multinational SENTRY cohort)
-- [[drug/teoh-2021-oral-antibiotic-empirical-acute-dentoalveolar-infections]] — empirical antibiotic selection framework that contextualizes these susceptibility data
+- [[drug/antibiotics/vavro-2024-antibiotic-susceptibility-orofacial-infections]] — reinforces (amox-clav lowest resistance confirmed in larger multinational SENTRY cohort)
+- [[drug/antibiotics/teoh-2021-oral-antibiotic-empirical-acute-dentoalveolar-infections]] — empirical antibiotic selection framework that contextualizes these susceptibility data

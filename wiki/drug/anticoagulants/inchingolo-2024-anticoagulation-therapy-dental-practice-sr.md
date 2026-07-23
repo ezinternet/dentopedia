@@ -77,6 +77,6 @@ Systematic review of 25 clinical studies on anticoagulated patients undergoing d
 5. **Tranexamic acid 4.8% mouthwash**: order every time for anticoagulated extractions
 
 ## Related Papers
-- [[drug/gupta-2022-dental-management-cardiovascular-disease]] — CVD context: anticoagulants in cardiac patients
-- [[drug/ufcd-2019-medically-complex-patients-management-guidelines]] — institutional protocol: warfarin INR thresholds + DOAC guidance
-- [[drug/ghimire-2022-medically-compromised-prosthodontic-patients]] — prosthodontic context: anticoagulants + CKD + cirrhosis
+- [[drug/anticoagulants/gupta-2022-dental-management-cardiovascular-disease]] — CVD context: anticoagulants in cardiac patients
+- [[drug/mronj/ufcd-2019-medically-complex-patients-management-guidelines]] — institutional protocol: warfarin INR thresholds + DOAC guidance
+- [[drug/mronj/ghimire-2022-medically-compromised-prosthodontic-patients]] — prosthodontic context: anticoagulants + CKD + cirrhosis

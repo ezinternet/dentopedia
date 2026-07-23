@@ -60,8 +60,8 @@ Consensus methodology with evidence-based recommendations across antithrombotic 
 - 2020 — DOAC literature has continued to expand since
 
 ## Related Papers
-- [[drug/lu-2018-warfarin-antiplatelet-dental-extraction-management]] — dental-specific cohort.
-- [[drug/krishnan-2024-bleeding-uninterrupted-single-dual-antiplatelet]] — dental SAPT/DAPT.
-- [[drug/cho-2014-antithrombotic-secondary-prevention-ischemic-stroke-korean]] — Korean neurology guideline on antithrombotic indication.
-- [[drug/inchingolo-2024-anticoagulation-therapy-dental-practice-sr]] — dental SR.
-- [[drug/shah-2022-perioperative-antiplatelet-therapy-sr-ma]] — ACCP-supporting SR+MA.
+- [[drug/anticoagulants/lu-2018-warfarin-antiplatelet-dental-extraction-management]] — dental-specific cohort.
+- [[drug/anticoagulants/krishnan-2024-bleeding-uninterrupted-single-dual-antiplatelet]] — dental SAPT/DAPT.
+- [[drug/anticoagulants/cho-2014-antithrombotic-secondary-prevention-ischemic-stroke-korean]] — Korean neurology guideline on antithrombotic indication.
+- [[drug/anticoagulants/inchingolo-2024-anticoagulation-therapy-dental-practice-sr]] — dental SR.
+- [[drug/anticoagulants/shah-2022-perioperative-antiplatelet-therapy-sr-ma]] — ACCP-supporting SR+MA.

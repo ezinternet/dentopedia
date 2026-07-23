@@ -60,5 +60,5 @@ Largest meta-analysis on DM and dental implants (89 publications, 68,290 implant
 
 ## Related Papers
 - [[drug/systemic-disease/andrade-2021-survival-rate-peri-implant-evaluation]] — **refines**: Andrade's SR+MA finds no immediate-loading survival penalty *even in uncontrolled DM2*; this larger 89-study SR+MA qualifies that optimism by showing the DM failure signal is real but **localized to the maxilla and to long-term MBL** (which widens over time) — i.e. the two agree on short-term mandibular survival but conflict on maxillary/long-term risk. See [[overviews/diabetic-patient-immediate-implant-decision]].
-- [[drug/wagner-2022-diabetes-mellitus-dental-implants-sr]] — SR: controlled DM = comparable to healthy; HbA1c <8% threshold; antibiotic protocol
+- [[drug/systemic-disease/wagner-2022-diabetes-mellitus-dental-implants-sr]] — SR: controlled DM = comparable to healthy; HbA1c <8% threshold; antibiotic protocol
 - [[implants/moy-2005-dental-implant-failure-rates-risk]] — DM RR 2.75; long-term cohort 4,680 implants

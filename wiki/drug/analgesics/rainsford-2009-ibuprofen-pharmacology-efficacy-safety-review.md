@@ -60,8 +60,8 @@ Mechanism: COX-1 + COX-2 inhibition → ↓ prostanoid → anti-inflammatory + a
 For Korean dental acute pain: 400mg q6h (1,600mg/day total) sits between OTC and prescription dose ranges and falls within the safety profile this review describes. Avoid extended-duration prescription-dose courses in patients with GI, renal, or CV risk factors without explicit indication.
 
 ## Related Papers
-- [[drug/moore-2015-single-dose-oral-analgesics-cochrane-overview]] — clinical NNT framework.
-- [[drug/kotowska-rodziewicz-2023-nsaids-role-dentistry-review]] — NSAIDs in dentistry.
-- [[drug/gomes-2025-nsaids-kidney-toxicity-icu-retrospective]] — modern renal toxicity data.
-- [[drug/etikala-2019-nsaids-periodontal-implant-therapy-review]] — periodontal/implant NSAIDs.
-- [[drug/samani-2025-nsaids-endodontic-postoperative-network]] — endodontic NMA.
+- [[drug/analgesics/moore-2015-single-dose-oral-analgesics-cochrane-overview]] — clinical NNT framework.
+- [[drug/analgesics/kotowska-rodziewicz-2023-nsaids-role-dentistry-review]] — NSAIDs in dentistry.
+- [[drug/analgesics/gomes-2025-nsaids-kidney-toxicity-icu-retrospective]] — modern renal toxicity data.
+- [[drug/analgesics/etikala-2019-nsaids-periodontal-implant-therapy-review]] — periodontal/implant NSAIDs.
+- [[drug/analgesics/samani-2025-nsaids-endodontic-postoperative-network]] — endodontic NMA.

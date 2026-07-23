@@ -50,6 +50,6 @@ Narrative review, PubMed MEDLINE search. 9 clinical studies (periodontal) + 4 an
 | Implant osseointegration (human) | 2 clinical studies | Negative effect; low evidence quality |
 
 ## Related Papers
-- [[drug/kotowska-rodziewicz-2023-nsaids-role-dentistry-review]] — comprehensive NSAIDs in dentistry; mechanisms and clinical use
-- [[drug/gomes-2025-nsaids-kidney-toxicity-icu-retrospective]] — renal adverse effects of NSAIDs
-- [[drug/feldman-2024-nonopioid-opioid-third-molar-rct]] — ibuprofen+APAP best analgesic post-extraction; tension with osseointegration concern post-implant
+- [[drug/analgesics/kotowska-rodziewicz-2023-nsaids-role-dentistry-review]] — comprehensive NSAIDs in dentistry; mechanisms and clinical use
+- [[drug/analgesics/gomes-2025-nsaids-kidney-toxicity-icu-retrospective]] — renal adverse effects of NSAIDs
+- [[drug/analgesics/feldman-2024-nonopioid-opioid-third-molar-rct]] — ibuprofen+APAP best analgesic post-extraction; tension with osseointegration concern post-implant

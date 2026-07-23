@@ -60,9 +60,9 @@ Retrospective multi-center (4 Japanese institutions) comparison; cohort comparis
 For Korean oral surgeons treating low-dose oral BP patients (e.g., alendronate, risedronate for osteoporosis) with elective extraction: a single preoperative AMPC 500mg + meticulous atraumatic technique + tension-free primary closure is a defensible protocol. This study does not justify a similar minimization in high-risk patients (high-dose IV ZOL, denosumab, multiple risk factors).
 
 ## Related Papers
-- [[drug/ruggiero-2022-aaoms-mronj-position-paper-update]] — AAOMS MRONJ.
-- [[drug/li-2024-antiresorptive-implants-mronj-sr]] — antiresorptive implants.
-- [[drug/baghalipour-2025-mronj-prevention-management-review]] — MRONJ review.
-- [[drug/jung-2022-denosumab-mronj-osteoporosis-5year]] — denosumab MRONJ.
-- [[drug/lee-2023-bisphosphonates-dental-procedures-bronj]] — BRONJ dental procedure.
-- [[drug/torof-2023-antibiotic-dental-implant-procedures-sr-ma]] — implant prophylaxis single-dose.
+- [[drug/mronj/ruggiero-2022-aaoms-mronj-position-paper-update]] — AAOMS MRONJ.
+- [[drug/mronj/li-2024-antiresorptive-implants-mronj-sr]] — antiresorptive implants.
+- [[drug/mronj/baghalipour-2025-mronj-prevention-management-review]] — MRONJ review.
+- [[drug/mronj/jung-2022-denosumab-mronj-osteoporosis-5year]] — denosumab MRONJ.
+- [[drug/mronj/lee-2023-bisphosphonates-dental-procedures-bronj]] — BRONJ dental procedure.
+- [[drug/antibiotics/torof-2023-antibiotic-dental-implant-procedures-sr-ma]] — implant prophylaxis single-dose.

@@ -65,6 +65,6 @@ Loading:
 - Perioperative anti-infective protocol is essential in all DM patients
 
 ## Related Papers
-- [[drug/al-ansari-2022-diabetes-mellitus-dental-implants-sr-ma]] — SR+MA: OR 1.777 failure risk in DM; +0.776mm MBL; T1DM > T2DM risk
+- [[drug/systemic-disease/al-ansari-2022-diabetes-mellitus-dental-implants-sr-ma]] — SR+MA: OR 1.777 failure risk in DM; +0.776mm MBL; T1DM > T2DM risk
 - [[implants/moy-2005-dental-implant-failure-rates-risk]] — DM RR 2.75 in long-term cohort (4,680 implants)
-- [[drug/ufcd-2019-medically-complex-patients-management-guidelines]] — diabetes protocol: HbA1c ≥9% = delay elective surgery
+- [[drug/mronj/ufcd-2019-medically-complex-patients-management-guidelines]] — diabetes protocol: HbA1c ≥9% = delay elective surgery

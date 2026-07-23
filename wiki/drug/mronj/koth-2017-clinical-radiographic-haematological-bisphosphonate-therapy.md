@@ -72,8 +72,8 @@ Notably, the resorption marker **CTX** — frequently invoked for MRONJ risk str
 
 ## Related Papers
 
-- [[drug/lee-2023-bisphosphonates-dental-procedures-bronj]] — extends: dental-procedure management of bisphosphonate patients / BRONJ.
-- [[drug/ruggiero-2022-aaoms-mronj-position-paper-update]] — reinforces: AAOMS MRONJ staging and diagnostic framework.
-- [[drug/baghalipour-2025-mronj-prevention-management-review]] — MRONJ prevention and management synthesis.
-- [[drug/moreno-rabie-2023-3d-mronj-risk-oncologic-tooth-extraction]] — imaging-based MRONJ risk prediction before oncologic extraction.
-- [[drug/li-2024-antiresorptive-implants-mronj-sr]] — antiresorptive drugs, implants and MRONJ.
+- [[drug/mronj/lee-2023-bisphosphonates-dental-procedures-bronj]] — extends: dental-procedure management of bisphosphonate patients / BRONJ.
+- [[drug/mronj/ruggiero-2022-aaoms-mronj-position-paper-update]] — reinforces: AAOMS MRONJ staging and diagnostic framework.
+- [[drug/mronj/baghalipour-2025-mronj-prevention-management-review]] — MRONJ prevention and management synthesis.
+- [[drug/mronj/moreno-rabie-2023-3d-mronj-risk-oncologic-tooth-extraction]] — imaging-based MRONJ risk prediction before oncologic extraction.
+- [[drug/mronj/li-2024-antiresorptive-implants-mronj-sr]] — antiresorptive drugs, implants and MRONJ.
