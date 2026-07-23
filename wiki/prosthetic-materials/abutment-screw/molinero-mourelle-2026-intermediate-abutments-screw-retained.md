@@ -5,7 +5,7 @@ year: 2026
 date: 2026-01-02
 doi: 10.1016/j.jdent.2026.106328
 source: molinero-mourelle-2026-intermediate-abutments-screw-retained.md
-category: [prosthetic-materials]
+category: [prosthetic-materials/abutment-screw]
 evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/molinero-mourelle-2026-intermediate-abutments-screw-retained.pdf
 pdf_filename: molinero-mourelle-2026-intermediate-abutments-screw-retained.pdf
@@ -72,5 +72,5 @@ The primary outcome, marginal bone loss (MBL), showed a statistically significan
 
 ## Related Papers
 
-- [[prosthetic-materials/angermair-2024-microgap-abutment-displacement-implant-connection]] — in-vitro synchrotron study showing pre-load microgaps and cone-angle-dependent abutment displacement in implant-abutment connections under static loading; provides the mechanistic/biomechanical substrate (microgap location, force distribution) that this clinical SR+MA translates into peri-implant hard/soft-tissue outcomes (MBL, PD) for AL vs IL protocols.
-- [[prosthetic-materials/velez-2020-implant-connection-abutment-design-screw]] — general implant connection and abutment design review; this paper narrows that general framework to the specific AL-vs-IL clinical decision in multi-unit screw-retained FDPs with pooled RCT-level effect sizes.
+- [[prosthetic-materials/abutment-screw/angermair-2024-microgap-abutment-displacement-implant-connection]] — in-vitro synchrotron study showing pre-load microgaps and cone-angle-dependent abutment displacement in implant-abutment connections under static loading; provides the mechanistic/biomechanical substrate (microgap location, force distribution) that this clinical SR+MA translates into peri-implant hard/soft-tissue outcomes (MBL, PD) for AL vs IL protocols.
+- [[prosthetic-materials/abutment-screw/velez-2020-implant-connection-abutment-design-screw]] — general implant connection and abutment design review; this paper narrows that general framework to the specific AL-vs-IL clinical decision in multi-unit screw-retained FDPs with pooled RCT-level effect sizes.
