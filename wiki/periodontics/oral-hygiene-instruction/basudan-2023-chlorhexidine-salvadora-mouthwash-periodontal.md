@@ -7,7 +7,7 @@ doi: 10.3290/j.ohpd.b4169713
 pmid: "37338011"
 pmcid: "PMC11619873"
 source: basudan-2023-chlorhexidine-salvadora-mouthwash-periodontal.md
-category: [periodontics]
+category: [periodontics/oral-hygiene-instruction]
 evidence_level: rct
 source_collection: pubmed-text
 text_path: /Users/oracleneo/llm-wiki/papers/basudan-2023-chlorhexidine-salvadora-mouthwash-periodontal.txt
@@ -78,5 +78,5 @@ Miswak can substitute for CHX for periodontal anti-inflammatory purposes, but CH
 
 ## Related Papers
 
-- [[periodontics/james-2017-chlorhexidine-mouthrinse-adjunctive-gingival]] — Cochrane; 0.12% 포함 SR+MA
+- [[periodontics/oral-hygiene-instruction/james-2017-chlorhexidine-mouthrinse-adjunctive-gingival]] — Cochrane; 0.12% 포함 SR+MA
 - [[periodontics/apatzidou-2022-cigarette-smoking-periodontal-implant-review]] — 흡연과 치주 관계

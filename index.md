@@ -888,7 +888,7 @@ tags: []
 - [[periodontics/solderer-2019-chlorhexidine-rinses-periodontal-surgery]] — Solderer 2019 · sr (11편) · 치주·임플란트 수술 후 CHX 가글 치태 29–86%·출혈 73% 감소; 0.12% + 항착색 첨가 제형이 효능/부작용 최적 (DOI 10.1007/s00784-018-2761-y)
 - [[periodontics/figuero-2019-adjunctive-antiplaque-chemical-agents-gingivitis]] — Figuero 2019 · sr+ma (NMA, 53 RCT, 8,457명) · 가글 치은염 감소 순위: 에센셜오일 > CHX ≥0.10% ≈ triclosan; CHX 유효 임계 농도 0.10% (DOI 10.1111/jcpe.13127)
 - [[periodontics/escribano-2010-low-concentration-chlorhexidine-periodontitis]] — Escribano 2010 · rct (47명, 3개월) · SPC 불순응 치주염 환자: 0.05% CHX + CPC 가글이 위약 대비 치태·타액 세균(F. nucleatum·P. intermedia) 유의 감소; PPD·CAL 추가 개선 없음 (DOI 10.1111/j.1600-051X.2009.01521.x)
-- [[periodontics/basudan-2023-chlorhexidine-salvadora-mouthwash-periodontal]] — Basudan 2023 · rct (191명, 6주) · 0.12% CHX = miswak(항염); CHX > miswak (Candida 억제); 흡연자에서 가글 항진균 효과 없음 (DOI 10.3290/j.ohpd.b4169713)
+- [[periodontics/oral-hygiene-instruction/basudan-2023-chlorhexidine-salvadora-mouthwash-periodontal]] — Basudan 2023 · rct (191명, 6주) · 0.12% CHX = miswak(항염); CHX > miswak (Candida 억제); 흡연자에서 가글 항진균 효과 없음 (DOI 10.3290/j.ohpd.b4169713)
 - [[periodontics/demolon-2026-periodontitis-bone-loss-signaling-pathways]] — de Molon 2026 · narrative-review · 치주염 치조골 소실의 NF-κB·JAK/STAT·MAPK·PI3K/Akt 신호경로와 신흥 치료전략(denosumab·JAK억제제·천연화합물) 비판적 종합 (DOI 10.1038/s41413-025-00478-1)
 - [[periodontics/liu-2019-periodontal-bone-ligament-cementum-regeneration]] — Liu 2019 · sr · 치주인대·백악질·골 복합체 동시 재생: PDLSC+BCP scaffold, 3D 바이오프린팅 fiber-guiding, 유전자치료, LBL 층별 구조체 전략 망라 (DOI 10.3390/cells8060537)
 - [[periodontics/dasilveira-2026-subgingival-irrigation-chemical-agents-nspt-sr-ma]] — da Silveira 2026 · sr+ma · 16 RCT(712명): NSPT에 약제 치은연하세척 추가해도 PPD·CAL·BOP 추가이득 없음(근거 낮음)
