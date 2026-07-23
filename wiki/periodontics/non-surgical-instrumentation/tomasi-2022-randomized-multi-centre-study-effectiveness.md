@@ -5,7 +5,7 @@ year: 2022
 date: 2022-01-01
 doi: 10.1111/jcpe.13703
 source: tomasi-2022-randomized-multi-centre-study-effectiveness.md
-category: periodontics
+category: periodontics/non-surgical-instrumentation
 evidence_level: rct
 source_collection: pubmed-text
 full_text: true
@@ -80,5 +80,5 @@ This Swedish multi-centre field study asked whether the guided periodontal infec
 
 ## Related Papers
 
-- [[periodontics/unknown-2009-non-surgical-and-surgical-periodontal]] — extends: the 2009 narrative review established non-surgical therapy as the primary, first-line treatment for chronic periodontitis (PPD reduction 1–3 mm, 4–6 week re-evaluation logic) from earlier landmark studies; this multi-centre RCT provides contemporary, large-sample, real-world validation of that same non-surgical phase, specifically as delivered by dental hygienists under effectiveness (not efficacy) conditions.
-- [[periodontics/lamont-2018-routine-scale-and-polish-periodontal-health]] — contrast, not reinforcement: Lamont's Cochrane review finds scheduled routine scale-and-polish gives little/no benefit in *low-risk healthy* adults without severe periodontitis; this study is therapeutic subgingival instrumentation in *diagnosed periodontitis* patients (PPD≥5mm+BoP), where non-surgical treatment produces a large, clinically meaningful effect (~70% pocket closure). The two together delineate where non-surgical hygienist-delivered instrumentation does (diagnosed disease) and does not (routine prophylaxis in low-risk adults) show benefit.
+- [[periodontics/non-surgical-instrumentation/unknown-2009-non-surgical-and-surgical-periodontal]] — extends: the 2009 narrative review established non-surgical therapy as the primary, first-line treatment for chronic periodontitis (PPD reduction 1–3 mm, 4–6 week re-evaluation logic) from earlier landmark studies; this multi-centre RCT provides contemporary, large-sample, real-world validation of that same non-surgical phase, specifically as delivered by dental hygienists under effectiveness (not efficacy) conditions.
+- [[periodontics/non-surgical-instrumentation/lamont-2018-routine-scale-and-polish-periodontal-health]] — contrast, not reinforcement: Lamont's Cochrane review finds scheduled routine scale-and-polish gives little/no benefit in *low-risk healthy* adults without severe periodontitis; this study is therapeutic subgingival instrumentation in *diagnosed periodontitis* patients (PPD≥5mm+BoP), where non-surgical treatment produces a large, clinically meaningful effect (~70% pocket closure). The two together delineate where non-surgical hygienist-delivered instrumentation does (diagnosed disease) and does not (routine prophylaxis in low-risk adults) show benefit.
