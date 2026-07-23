@@ -10,7 +10,10 @@ evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/schlichting-2022-ultrathin-cadcam-occlusal-veneers-dental-erosion.pdf
 pdf_filename: schlichting-2022-ultrathin-cadcam-occlusal-veneers-dental-erosion.pdf
 source_collection: external
-tags: []
+tags: [occlusal-veneer, CAD-CAM, dental-erosion, e-max-CAD, Lava-Ultimate, RCT, survival, IDS]
+relations:
+  - type: extends
+    target: kanzow-2016-etiology-pathogenesis-dental-erosion
 ---
 
 ## Three-line Summary
@@ -76,3 +79,4 @@ This prospective randomized clinical trial evaluated CAD-CAM ultrathin occlusal 
 - [[veneers/morimoto-2016-feldspathic-glass-ceramic-veneer-survival-sr-ma]] — SR+MA on feldspathic/glass-ceramic veneer survival; provides long-term ceramic benchmark
 - [[veneers/ali-2023-conventional-minimally-invasive-veneers-sr]] — SR on minimally invasive veneer preparation; design rationale for ultrathin occlusal veneers
 - [[dental-erosion/kanzow-2016-etiology-pathogenesis-dental-erosion]] — Etiology and pathogenesis of dental erosion; underpins clinical indication for occlusal veneers
+- [[dental-erosion/barac-2015-erosive-effect-soft-drinks-enamel-profilometry]] — Enamel mineral loss quantification; background for erosive wear severity
