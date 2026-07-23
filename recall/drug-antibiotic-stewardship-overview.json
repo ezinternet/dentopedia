@@ -1,0 +1,49 @@
+{
+  "overview": "drug-antibiotic-stewardship-overview",
+  "date": "2026-07-23",
+  "title": "항생제 스튜어드십 — 리콜",
+  "source_wiki": [
+    "wiki/overviews/drug-antibiotic-stewardship-overview.md"
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "q": "감염성 심내막염(IE) 예방적 항생제와 단순 발치 예방의 적응은?",
+      "opts": [
+        "모든 심장질환자에 IE 예방, 모든 발치에 예방적 항생제",
+        "IE 예방은 4개 최고위험군(인공판막·과거 IE·선천성 청색 심장병·심장이식 후 판막병변)에만; 단순 발치엔 예방적 항생제 효과 없음(Lodi 2021 Cochrane)",
+        "저위험군에도 IE 예방 권장",
+        "단순 발치에 항생제가 dry socket을 예방한다"
+      ],
+      "ans": 1,
+      "rat": "IE 예방은 4개 최고위험군에만(Wilson 2021 AHA, Sperotto 2024 SR-MA n=1.15M). 단순 발치(intact dentition)엔 예방적 항생제가 dry socket·감염·통증 감소에 효과 없음 → 시행 안 함(Lodi 2021 Cochrane). 일상 구강위생 최적화가 누적 균혈증 감소에 더 기여. 1차 원칙은 제한적(restrictive) 처방.",
+      "cite": "overviews/drug-antibiotic-stewardship-overview"
+    },
+    {
+      "id": "q2",
+      "q": "상악동거상술(SFE) 및 구강외과 항생제의 적정 기간은?",
+      "opts": [
+        "술후 1주 연장 투여가 표준",
+        "SFE는 술전 Amoxicillin 2g가 SSI 감소하나 술후 연장은 추가 효과 없음(Díaz 2025); 구강외과는 24시간 이내 단일 perioperative 투여로 충분, 24h 초과는 SSI 감소 없이 AMR만 증가",
+        "모든 구강외과에 3일 이상 투여",
+        "항생제 기간은 길수록 좋다"
+      ],
+      "ans": 1,
+      "rat": "SFE: 술전 Amoxicillin 2g가 SSI 감소, 술후 연장 투여는 추가 효과 없음 — SM 천공·광범위 측방 접근·전신질환 고위험군에만 적응(Díaz 2025 우산형 7 SR/MA). 구강외과: 24시간 이내 단일 perioperative 투여로 대부분 충분, 24h 초과 연장은 SSI 감소 없이 AMR 위험만 증가(Mohammadpour 2025).",
+      "cite": "overviews/drug-antibiotic-stewardship-overview"
+    },
+    {
+      "id": "q3",
+      "q": "치주치료 보조 항생제와 가장 효과적인 스튜어드십 중재는?",
+      "opts": [
+        "전신 항생제를 모든 치주치료에 사용, 교육 단독이 최선",
+        "전신 항생제는 중증 치주염에만(국소 전달 우선); 스튜어드십은 감사+피드백(A&F)이 부적절 처방 70% 감소, 교육 단독은 불충분·디지털 CDS 도구가 가장 효과적",
+        "SRP 보조 항생제는 CAL을 2mm 이상 개선",
+        "스튜어드십 중재는 효과가 없다"
+      ],
+      "ans": 1,
+      "rat": "SRP 보조 전신 항생제는 CAL 0.3–0.4mm 통계적 개선이나 근거 등급 '약함'(Botelho 2025 우산형, SR 65.6%가 질 '매우 낮음') → 중증 치주염에만, 국소 전달(LD) 우선. 국소 doxycycline은 7일 전신 코스와 임상 동등(Milinkovic 2025). 스튜어드십: A&F가 부적절 처방 70% 감소(Méndez-Romero 2025), 교육 단독 불충분·디지털 CDS가 가장 효과적.",
+      "cite": "overviews/drug-antibiotic-stewardship-overview"
+    }
+  ]
+}
