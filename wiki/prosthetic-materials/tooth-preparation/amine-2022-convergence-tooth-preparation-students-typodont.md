@@ -5,7 +5,7 @@ year: 2022
 date: 2022-05-10
 doi: 10.1155/2022/7615892
 source: amine-2022-convergence-tooth-preparation-students-typodont.md
-category: [prosthetic-materials]
+category: [prosthetic-materials/tooth-preparation]
 evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/amine-2022-convergence-tooth-preparation-students-typodont.pdf
 pdf_filename: amine-2022-convergence-tooth-preparation-students-typodont.pdf
@@ -64,6 +64,6 @@ Preclinical evaluation (International Journal of Dentistry 2022) of third-year d
 - For Korean dental schools: scanning + STL measurement is an objective grading tool worth adopting; eliminates inter-instructor visual estimation bias
 
 ## Related Papers
-- [[prosthetic-materials/tiu-2015-clinical-tooth-preparations-measuring-sr]] — SR establishing 10-22° as realistic clinical range
-- [[prosthetic-materials/vinnakota-2015-convergence-retention-multiple-unit-invitro]] — 12° vs 20° retention quantification
-- [[prosthetic-materials/abdulla-2018-convergence-all-ceramic-crowns-dubai-practice]] — clinical Dubai practice TOC much higher (24-32°)
+- [[prosthetic-materials/tooth-preparation/tiu-2015-clinical-tooth-preparations-measuring-sr]] — SR establishing 10-22° as realistic clinical range
+- [[prosthetic-materials/tooth-preparation/vinnakota-2015-convergence-retention-multiple-unit-invitro]] — 12° vs 20° retention quantification
+- [[prosthetic-materials/tooth-preparation/abdulla-2018-convergence-all-ceramic-crowns-dubai-practice]] — clinical Dubai practice TOC much higher (24-32°)
