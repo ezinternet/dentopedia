@@ -5,7 +5,7 @@ year: 2022
 date: 2022-12-01
 doi: 10.3390/ijms232315101
 source: rink-notzon-2022-trigeminal-sensory-supply-essential-motor.md
-category: oral-surgery
+category: oral-surgery/nerve-injury
 evidence_level: animal
 source_collection: pubmed-text
 full_text: true
@@ -88,6 +88,6 @@ All data are from Wistar rat facial/trigeminal nerve transection models; there i
 
 ## Related Papers
 
-- [[oral-surgery/zhang-2020-methylcobalamin-plcl-nerve-regeneration-conduit]] — pharmacologic/conduit-based nerve-regeneration lever (methylcobalamin-loaded PLCL conduit improving axon diameter/myelination in rat sciatic nerve); this paper adds a non-pharmacologic, sensory-stimulation lever operating on a different mechanism (synaptic/central rather than local trophic), broadening the toolkit for peripheral nerve regeneration adjuncts.
-- [[oral-surgery/lin-2007-ginkgo-biloba-nerve-regeneration-rat]] — another pharmacologic (herbal extract) rat nerve-regeneration study; contrasts with this paper's behavioral/sensory-stimulation approach.
-- [[oral-surgery/lee-2015-inferior-alveolar-nerve-injury-management]] — human clinical inferior alveolar nerve injury management; this rat facial-nerve paper is mechanistically adjacent (peripheral cranial-nerve injury/regeneration) but stays at the animal-evidence level, underscoring the evidence-weight gap between rat sensory-stimulation hypotheses and validated human nerve-injury management protocols.
+- [[oral-surgery/nerve-injury/zhang-2020-methylcobalamin-plcl-nerve-regeneration-conduit]] — pharmacologic/conduit-based nerve-regeneration lever (methylcobalamin-loaded PLCL conduit improving axon diameter/myelination in rat sciatic nerve); this paper adds a non-pharmacologic, sensory-stimulation lever operating on a different mechanism (synaptic/central rather than local trophic), broadening the toolkit for peripheral nerve regeneration adjuncts.
+- [[oral-surgery/nerve-injury/lin-2007-ginkgo-biloba-nerve-regeneration-rat]] — another pharmacologic (herbal extract) rat nerve-regeneration study; contrasts with this paper's behavioral/sensory-stimulation approach.
+- [[oral-surgery/nerve-injury/lee-2015-inferior-alveolar-nerve-injury-management]] — human clinical inferior alveolar nerve injury management; this rat facial-nerve paper is mechanistically adjacent (peripheral cranial-nerve injury/regeneration) but stays at the animal-evidence level, underscoring the evidence-weight gap between rat sensory-stimulation hypotheses and validated human nerve-injury management protocols.
