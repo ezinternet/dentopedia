@@ -5,7 +5,7 @@ year: 2026
 date: 2026-04-15
 doi: 10.1038/s41368-025-00413-4
 source: sun-2026-third-molar-health-management-expert-consensus.md
-category: oral-surgery
+category: oral-surgery/third-molar
 evidence_level: consensus
 source_collection: pubmed-text
 full_text: true
@@ -94,6 +94,6 @@ Expert consensus developed by a Chinese multi-center panel, published in *Intern
 
 ## Related Papers
 
-- [[oral-surgery/damico-2025-third-molar-surgical-indications-guidelines]] — Extraction indications framework extended and contextualized by this consensus
-- [[oral-surgery/cervera-espert-2016-coronectomy-mandibular-third-molar-sr]] — Systematic review on coronectomy outcomes underlying the coronectomy protocol here
-- [[oral-surgery/derbishi-2026-coronectomy-versus-total-extraction-third]] — RCT comparing coronectomy vs total extraction of mandibular third molars
+- [[oral-surgery/third-molar/damico-2025-third-molar-surgical-indications-guidelines]] — Extraction indications framework extended and contextualized by this consensus
+- [[oral-surgery/third-molar/cervera-espert-2016-coronectomy-mandibular-third-molar-sr]] — Systematic review on coronectomy outcomes underlying the coronectomy protocol here
+- [[oral-surgery/third-molar/derbishi-2026-coronectomy-versus-total-extraction-third]] — RCT comparing coronectomy vs total extraction of mandibular third molars
