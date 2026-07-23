@@ -1,0 +1,49 @@
+{
+  "overview": "pulpal-neurogenic-inflammation-counter-systems-overview",
+  "date": "2026-07-23",
+  "title": "치수 신경성 염증과 내인성 제동장치 — 리콜",
+  "source_wiki": [
+    "wiki/overviews/pulpal-neurogenic-inflammation-counter-systems-overview.md"
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "q": "이 페이지에서 가장 임상적으로 중요한 귀결('브레이크는 조용히 고장난다')의 두 경로는?",
+      "opts": [
+        "두 경로 모두 심한 통증을 동반한다",
+        "진행 우식에서 교감섬유 파괴로 NPY/Y1 붕괴, 그리고 과도한 교정력(>180g)이 오피오이드 항침해 용량을 압도 — 둘 다 무증상 비가역성 치수염/괴사",
+        "세균 감염과 외상 두 가지뿐이다",
+        "냉자극과 온자극 두 가지다"
+      ],
+      "ans": 1,
+      "rat": "NPY(Caviedes-Bucheli 2026, 92편)는 경도-중등도 우식에서 정점 후 진행 우식에서 교감섬유 파괴로 붕괴. 오피오이드계(Caviedes-Bucheli 2025)는 교정력 56–180g은 보상하나 >180g는 압도. 둘 다 무증상 → 무통 ≠ 건강한 치수.",
+      "cite": "overviews/pulpal-neurogenic-inflammation-counter-systems-overview"
+    },
+    {
+      "id": "q2",
+      "q": "교정 치료에서 오피오이드 항침해계가 압도되지 않게 하는 임상 파라미터는?",
+      "opts": [
+        "힘 무제한, 재활성화 매주",
+        "중등도 힘 56–180g 유지, 재활성화 간격 약 40–50일(오피오이드계 회복 허용); >180g는 무증상 비가역성 치수염·괴사 위험",
+        "힘 300g 이상, 재활성화 매일",
+        "힘과 간격은 치수 예후와 무관"
+      ],
+      "ans": 1,
+      "rat": "Caviedes-Bucheli 2025(38편): 56–180g 보상, >180g 압도. 재활성화 40–50일이 회복을 허용. 단 이 수치들은 서술적 리뷰 유래로 검증된 임상 임계값이 아님(미검증 여지).",
+      "cite": "overviews/pulpal-neurogenic-inflammation-counter-systems-overview"
+    },
+    {
+      "id": "q3",
+      "q": "열 이질통(thermal allodynia)이 통상 상아질 지각과민과 다르며 관리법도 다른 이유는?",
+      "opts": [
+        "세관 폐쇄로 잘 치료된다",
+        "표준 지각과민 치료에 반응하지 않고, 관리는 세관 폐쇄가 아니라 치수 열 절연(비니어·마우스가드) — 말초·중추 감작과 TRPV1 역치 저하가 기전(Le Fur-Bonnabesse 2017)",
+        "불소 도포로 완치된다",
+        "통증이 특정 치아에만 국한된다"
+      ],
+      "ans": 1,
+      "rat": "Le Fur-Bonnabesse 2017(3증례): 한랭→온난 반복이 상아세관액 외향 이동(냉→온에서 유속 140%↑), C-섬유 표현형 변화, NGF로 TRPV1 역치를 무해한 온난 범위로 낮춤 → 지연성·미만성·정중선 교차 통증. 세관 폐쇄가 아니라 열 절연으로 관리. 증례 수준 근거.",
+      "cite": "overviews/pulpal-neurogenic-inflammation-counter-systems-overview"
+    }
+  ]
+}
