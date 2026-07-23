@@ -59,8 +59,8 @@ Narrative (non-systematic) review synthesizing culture-independent metagenomic/m
 
 ## Related Papers
 
-- [[wiki/oral-microbiology/lamont-2018-oral-microbiota-dynamic-communities-host]] — the direct predecessor Nature Reviews Microbiology synthesis (2018); this 2024 review extends its PSD/ecological-plaque-hypothesis framework with newer CPR-bacteria ecology, CLASI-FISH species-level biogeography, and additional systemic-disease mechanistic detail.
-- [[wiki/oral-microbiology/sedghi-2021-oral-microbiome-key-organisms-networks]] — complementary narrative review (Periodontology 2000, 2021) on key organisms and network-level dysbiosis across the lifespan; reinforces the shift away from single-pathogen models of caries/periodontitis.
-- [[wiki/oral-microbiology/jakubovics-2021-dental-plaque-biofilm-matrix]] — biofilm matrix structural detail that underlies the spatial-organization findings discussed here.
-- [[wiki/oral-microbiology/karygianni-2020-biofilm-matrixome-extracellular-components]] — extracellular matrixome components relevant to the biofilm architecture (e.g., "rotund" S. mutans structures) described in this review.
-- [[wiki/oral-microbiology/hajishengallis-2014-porphyromonas-gingivalis-host-manipulation]] — mechanistic background on P. gingivalis host manipulation, extended here by gingipain-tau and citrullination/rheumatoid-arthritis detail.
+- [[oral-microbiology/lamont-2018-oral-microbiota-dynamic-communities-host]] — the direct predecessor Nature Reviews Microbiology synthesis (2018); this 2024 review extends its PSD/ecological-plaque-hypothesis framework with newer CPR-bacteria ecology, CLASI-FISH species-level biogeography, and additional systemic-disease mechanistic detail.
+- [[oral-microbiology/sedghi-2021-oral-microbiome-key-organisms-networks]] — complementary narrative review (Periodontology 2000, 2021) on key organisms and network-level dysbiosis across the lifespan; reinforces the shift away from single-pathogen models of caries/periodontitis.
+- [[oral-microbiology/jakubovics-2021-dental-plaque-biofilm-matrix]] — biofilm matrix structural detail that underlies the spatial-organization findings discussed here.
+- [[oral-microbiology/karygianni-2020-biofilm-matrixome-extracellular-components]] — extracellular matrixome components relevant to the biofilm architecture (e.g., "rotund" S. mutans structures) described in this review.
+- [[oral-microbiology/hajishengallis-2014-porphyromonas-gingivalis-host-manipulation]] — mechanistic background on P. gingivalis host manipulation, extended here by gingipain-tau and citrullination/rheumatoid-arthritis detail.

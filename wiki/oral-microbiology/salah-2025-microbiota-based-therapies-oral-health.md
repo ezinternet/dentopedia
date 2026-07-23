@@ -98,8 +98,8 @@ Emerging therapies reviewed include:
 
 ## Related Papers
 
-- [[oral-microbiology/index]] — oral microbiome ecology and dysbiosis framework
-- [[periodontics/index]] — periodontitis management context for red complex relevance
-- [[caries/index]] — caries ecology and S. mutans cariogenic mechanisms
-- [[halitosis/index]] — VSC production and halitosis microbiota associations
-- [[oral-medicine/mucositis/index]] — OMT pilot in pediatric oncology mucositis prevention context
+- [[index]] — oral microbiome ecology and dysbiosis framework
+- [[index]] — periodontitis management context for red complex relevance
+- [[index]] — caries ecology and S. mutans cariogenic mechanisms
+- [[index]] — VSC production and halitosis microbiota associations
+- [[index]] — OMT pilot in pediatric oncology mucositis prevention context
