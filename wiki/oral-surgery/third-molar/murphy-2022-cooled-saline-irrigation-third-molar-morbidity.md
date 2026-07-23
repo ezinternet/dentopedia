@@ -5,7 +5,7 @@ year: 2022
 date: 2022-12-16
 doi: 10.1038/s41432-022-0843-9
 source: murphy-2022-cooled-saline-irrigation-third-molar-morbidity.md
-category: [oral-surgery]
+category: [oral-surgery/third-molar]
 evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/murphy-2022-cooled-saline-irrigation-third-molar-morbidity.pdf
 pdf_filename: murphy-2022-cooled-saline-irrigation-third-molar-morbidity.pdf
@@ -58,7 +58,7 @@ Cooled irrigation significantly reduced morbidity: test patients had **lower pai
 
 ## Related Papers
 
-- [[oral-surgery/pattnayak-2024-prf-prp-third-molar-extraction-sr]] — PRF/PRP adjuncts to reduce third-molar post-op morbidity; cooled irrigation is a complementary intraoperative measure.
-- [[oral-surgery/bailey-2020-surgical-techniques-mandibular-wisdom-teeth-sr]] — surgical-technique factors affecting third-molar outcomes.
+- [[oral-surgery/third-molar/pattnayak-2024-prf-prp-third-molar-extraction-sr]] — PRF/PRP adjuncts to reduce third-molar post-op morbidity; cooled irrigation is a complementary intraoperative measure.
+- [[oral-surgery/third-molar/bailey-2020-surgical-techniques-mandibular-wisdom-teeth-sr]] — surgical-technique factors affecting third-molar outcomes.
 - [[suture-wound-closure/takadoum-2022-sutureless-socket-technique-third-molars]] — another low-morbidity third-molar wound-management approach.
 - [[implants/aquilanti-2023-heat-generation-initial-osteotomy]] — heat generation during bony drilling; the thermal rationale (cooling reduces tissue heat insult) parallels cooled-irrigation benefit.

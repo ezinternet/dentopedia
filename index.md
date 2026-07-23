@@ -2888,7 +2888,7 @@ tags: []
 - [[bone-regeneration/ridge-preservation/scheyer-2016-alveolar-ridge-preservation-multicentre-rct]] — Scheyer 2016 · rct · Multicentre (40 pts) — DBBM-collagen + native bilayer membrane preserved ~1.76 mm more horizontal ridge at 6 mo (p=0.0256)
 - [[bone-regeneration/gil-marques-2022-bone-block-grafts-finite-element-biomechanics]] — Gil-Marques 2022 · in-vitro · FEA — right-angled block + higher suture tension raise mucosal stress (dehiscence tendency) → low tension + rounded block
 - [[immediate-implant/zhou-2024-open-closed-flap-collagen-membrane-immediate-implant]] — Zhou 2024 · retrospective · 118 pts — open healing of exposed collagen membrane at immediate-implant GBR matched closure when initial wound ≤6 mm, less pain
-- [[oral-surgery/murphy-2022-cooled-saline-irrigation-third-molar-morbidity]] — Murphy 2022 · narrative-review · EBD summary of split-mouth RCT (48 pts) — cooled saline (4°C/10°C) irrigation cut pain/trismus/swelling vs 25°C; 4°C best
+- [[oral-surgery/third-molar/murphy-2022-cooled-saline-irrigation-third-molar-morbidity]] — Murphy 2022 · narrative-review · EBD summary of split-mouth RCT (48 pts) — cooled saline (4°C/10°C) irrigation cut pain/trismus/swelling vs 25°C; 4°C best
 
 <!-- BATCH INGEST 2026-06-04 (currency refresh): 27편, decay anchor(≤2019 고근거)에 ≤5년 최신 근거 보강. relations typed-edge로 구 anchor와 연결 -->
 
