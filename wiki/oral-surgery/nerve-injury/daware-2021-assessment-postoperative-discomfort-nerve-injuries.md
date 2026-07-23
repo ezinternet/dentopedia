@@ -5,7 +5,7 @@ year: 2021
 date: 2021-04-01
 doi: 10.4103/jfmpc.jfmpc_280_19
 source: daware-2021-assessment-postoperative-discomfort-nerve-injuries.md
-category: [oral-surgery]
+category: [oral-surgery/nerve-injury]
 evidence_level: prospective
 text_path: /Users/oracleneo/llm-wiki/papers/daware-2021-assessment-postoperative-discomfort-nerve-injuries.txt
 text_filename: daware-2021-assessment-postoperative-discomfort-nerve-injuries.txt
@@ -70,7 +70,7 @@ This prospective clinical study by Daware et al. evaluates the incidence of post
 ## Related Papers
 
 * **Reinforces**:
-  * [[oral-surgery/baek-2010-literature-review-altered-sensation-mandibular]] — agrees that the majority of third molar-related neurosensory alterations are transient and resolve within 3 months.
-  * [[oral-surgery/juodzbalys-2011-ian-injury-implant-etiology-treatment-review]] — supports the use of Two-Point Discrimination and Light Touch for neurosensory deficit monitoring.
+  * [[oral-surgery/nerve-injury/baek-2010-literature-review-altered-sensation-mandibular]] — agrees that the majority of third molar-related neurosensory alterations are transient and resolve within 3 months.
+  * [[oral-surgery/nerve-injury/juodzbalys-2011-ian-injury-implant-etiology-treatment-review]] — supports the use of Two-Point Discrimination and Light Touch for neurosensory deficit monitoring.
 * **Contrasts**:
   * Reports a lower overall nerve injury rate than Bataineh (2001) who noted 3.9% IANP and 2.6% LNP, likely due to differences in surgical flap design and operator experience.
