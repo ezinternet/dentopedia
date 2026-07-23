@@ -1577,7 +1577,7 @@ tags: []
 - [[oral-surgery/li-2022-ian-position-nerve-injury-sr-ma]] — SR+MA(Healthcare 2022, 11편): IAC 설측 위치 → IAN 손상 위험 유의하게 높음; 수술 전 CBCT로 고위험군 식별 가능
 - [[oral-surgery/third-molar/damico-2025-third-molar-surgical-indications-guidelines]] — 서술적(Eng Proc 2025): NICE·AAOMS 가이드라인 검토; 반복 관주위염·낭종·인접치 흡수 = 절대적응증; IAC 고위험 시 치관절제술(Coronectomy) 고려
 - [[oral-surgery/third-molar/cervera-espert-2016-coronectomy-mandibular-third-molar-sr]] — SR+MA (12 studies): coronectomy → significantly less IAN sensory loss + fewer dry sockets vs complete extraction; root migrates ~2mm/2yr; pain/infection equivalent
-- [[oral-surgery/povoa-2021-coronectomy-inferior-alveolar-nerve-sr]] — SR (16 papers, 2,176 coronectomies): IAN injury 0.59%, lingual nerve 0.22%, infection 3.95%, root re-extraction 5.28%; low-risk alternative to third molar extraction
+- [[oral-surgery/third-molar/povoa-2021-coronectomy-inferior-alveolar-nerve-sr]] — SR (16 papers, 2,176 coronectomies): IAN injury 0.59%, lingual nerve 0.22%, infection 3.95%, root re-extraction 5.28%; low-risk alternative to third molar extraction
 - [[oral-surgery/dinkova-2025-local-hemostasis-oral-surgery-review]] — Narrative review (51 studies): oxidized cellulose/gelatin >85% standard cases; TXA mouthwash 50–60% bleeding reduction; fibrin sealants 70–90% high-risk patients
 - [[oral-surgery/third-molar/hajibagheri-2025-prf-alveolar-osteitis-post-extraction-sr]] — SR (BMC Oral Health 2025): PRF 발치 소켓 적용 → 건성치조염 발생 유의하게 감소, 통증·부종·개구제한 모두 대조군 대비 유의한 개선
 - [[oral-surgery/third-molar/peixoto-2024-coronectomy-benefits-lower-third-molar-sr-ma]] — SR+MA (JOMS 2024;82:73-92): 하악 IAN 고위험 제3대구치에서 치관절제술은 완전 발치 대비 IAN 손상 위험 유의하게 감소; 재수술률 5–12%; 잔존근 이동 ~2–3 mm/2년
