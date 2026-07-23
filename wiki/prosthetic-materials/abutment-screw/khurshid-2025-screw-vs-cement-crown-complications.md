@@ -7,7 +7,7 @@ doi: 10.4103/jpbs.jpbs_1359_25
 journal: Journal of Pharmaceutical and Bioallied Sciences 17:S3316
 source: khurshid-2025-screw-vs-cement-crown-complications.md
 evidence_level: prospective
-category: [prosthetic-materials]
+category: [prosthetic-materials/abutment-screw]
 pdf_path: /Users/oracleneo/llm-wiki/papers/khurshid-2025-screw-vs-cement-crown-complications.pdf
 pdf_filename: khurshid-2025-screw-vs-cement-crown-complications.pdf
 source_collection: external
@@ -59,5 +59,5 @@ Prospective 12-month comparison of single implant crowns: 50 screw-retained (SR)
 | Deep peri-implant pocket risk | Standard anatomy, no deep pockets |
 
 ## Related Papers
-- [[prosthetic-materials/hamed-2020-screw-vs-cement-implant-sr]] — SR (12 studies): same complication pattern; no survival difference
-- [[prosthetic-materials/tomar-2025-cement-vs-screw-zirconia-crown-sr-ma]] — SR+MA (zirconia): SR lower MBL at 6mo; long-term comparable
+- [[prosthetic-materials/abutment-screw/hamed-2020-screw-vs-cement-implant-sr]] — SR (12 studies): same complication pattern; no survival difference
+- [[prosthetic-materials/abutment-screw/tomar-2025-cement-vs-screw-zirconia-crown-sr-ma]] — SR+MA (zirconia): SR lower MBL at 6mo; long-term comparable
