@@ -3731,7 +3731,7 @@ tags: []
 - [[implants/peri-implantitis/fathi-2024-electronic-cigarettes-peri-implantitis-umbrella-review]] — 우산리뷰(SR 5편) — 전자담배는 전통담배 대비 임상 염증증상을 감소/무변화시키나 니코틴으로 인해 여전히 치주·임플란트 건강에 해로움 [sr+ma]
 
 ### periodontics
-- [[periodontics/mendonca-2024-effects-probiotic-therapy-periodontal]] — 프로바이오틱스 보조요법 umbrella review(SR 30편): 단기 PPD·CAL·BOP 개선 근거 있으나 6개월 이득 미지속, 임플란트주위 근거 약함, 근거 상충으로 확정적 결론 불가 [sr+ma]
+- [[periodontics/host-modulation/mendonca-2024-effects-probiotic-therapy-periodontal]] — 프로바이오틱스 보조요법 umbrella review(SR 30편): 단기 PPD·CAL·BOP 개선 근거 있으나 6개월 이득 미지속, 임플란트주위 근거 약함, 근거 상충으로 확정적 결론 불가 [sr+ma]
 
 ### oral-microbiology
 - [[oral-microbiology/panariello-2025-ecigarettes-oral-microbiota-biofilm-umbrella-review]] — 전자담배 관련 SR/MA 10편 우산형고찰: 비흡연자 대비 치태지수 증가·우식원성균/치주병원균/Candida 증가로 우식·치주염·임플란트주위염·구강칸디다증 위험 상승 시사 [sr+ma]

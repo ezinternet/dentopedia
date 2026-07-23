@@ -5,7 +5,7 @@ year: 2024
 date: 2024-01-01
 doi: 10.1177/23800844241240474
 source: mendonca-2024-effects-probiotic-therapy-periodontal.md
-category: [periodontics]
+category: [periodontics/host-modulation]
 evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/mendonca-2024-effects-probiotic-therapy-periodontal.pdf
 pdf_filename: mendonca-2024-effects-probiotic-therapy-periodontal.pdf
@@ -66,5 +66,5 @@ Risk of bias across included SRs: 22 low, 7 moderate, 2 high (81% PRISMA-adheren
 ## Related Papers
 
 - [[overviews/periodontal-adjunctive-therapy-probiotics-pdt-overview]] — existing wiki synthesis of 2026 individual probiotic-NSPT RCTs (Lundtorp-Olsen/Kim, Jeon); this umbrella review supplies the SR-level evidence base (search to Dec 2022, predates those RCTs) and reinforces the overview's cautious ~0.3mm CAL-ceiling framing — SR-level evidence for probiotics is itself conflicting even before accounting for the newer individual-RCT signal.
-- [[periodontics/kim-2026-probiotics-nspt-periodontal-db-rct]] — 2026 double-blind RCT finding significant BoP/deep-pocket reduction with probiotic lozenges but no CAL benefit, consistent with this umbrella review's pattern of BOP/PPD signal without durable CAL gain.
-- [[periodontics/jeon-2026-probioticcmu-gingivitis-rct]] — 2026 RCT of probiotic monotherapy (no NSPT) for gingivitis; a narrower single-study data point within the same probiotic-adjunct evidence landscape this umbrella review maps at the SR level.
+- [[periodontics/host-modulation/kim-2026-probiotics-nspt-periodontal-db-rct]] — 2026 double-blind RCT finding significant BoP/deep-pocket reduction with probiotic lozenges but no CAL benefit, consistent with this umbrella review's pattern of BOP/PPD signal without durable CAL gain.
+- [[periodontics/host-modulation/jeon-2026-probioticcmu-gingivitis-rct]] — 2026 RCT of probiotic monotherapy (no NSPT) for gingivitis; a narrower single-study data point within the same probiotic-adjunct evidence landscape this umbrella review maps at the SR level.
