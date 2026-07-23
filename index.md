@@ -944,7 +944,7 @@ tags: []
 - [[periodontics/papapanou-2018-periodontitis-classification-consensus-2017]] — 2017 치주 세계 워크샵 치주염 새 분류 — Staging I–IV(중증도) + Grading A–C(진행속도/반응성).
 - [[periodontics/roccuzzo-2022-implants-periodontitis-history-20year-prospective]] — 치주염 병력 20년 전향적 연구 — 치주염 병력군 생존율 81% vs 비병력군 91%, SPT 순응도 결정적.
 - [[periodontics/manresa-2018-supportive-periodontal-therapy-cochrane-sr]] — Cochrane SR (CD009376.pub2): SPT 관련 RCT 증거 극히 제한적; 전문의 vs 비전문의·항균제 보조·광치료 모두 high-quality 근거 부족; 다만 순응군 치아 상실 RR 0.47, CAL 안정, 3–6개월 간격 임상 권고 (heterogeneity로 MA 미수행)
-- [[periodontics/smiley-2015-nonsurgical-periodontitis-srp-guideline]] — 만성 치주염 비수술 치료(SRP ± 보조) 근거기반 가이드라인 — SRP 강력 권고, 전신 독시사이클린 추가 PPD 0.2–0.4mm 감소.
+- [[periodontics/non-surgical-instrumentation/smiley-2015-nonsurgical-periodontitis-srp-guideline]] — 만성 치주염 비수술 치료(SRP ± 보조) 근거기반 가이드라인 — SRP 강력 권고, 전신 독시사이클린 추가 PPD 0.2–0.4mm 감소.
 - [[periodontics/nibali-2016-tooth-loss-furcation-involvement-sr-ma]] — SR+MA(21편): 치근분지부 침범 대구치 치아 소실 위험 10–15년 RR 2.21(p<0.0001); 3도 포함 대부분 치주치료로 보존 가능.
 - [[periodontics/stavropoulos-2021-periodontal-regeneration-intrabony-nma]] — SR+NMA(30개 RCT, 3–20년): 골내결손 재생/재건술이 OFD보다 PD·CAL에서 유의하게 우수; 병용요법이 단독요법보다 더 효과적; 치아소실 0.4% vs OFD 2.8%.
 - [[periodontics/blyleven-2024-periodontal-implant-surgery-complications]] — 1135건 치주·임플란트 수술 후향 차트 리뷰: 술중 합병증 2.8%·술후 합병증 15.2%, 측방 상악동거상술이 술중 합병증 가장 강력한 예측 인자 (OR 102.5), 결합조직이식·골유도재생이 술후 합병증을 약 3배 증가시킴
