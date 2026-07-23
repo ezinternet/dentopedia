@@ -11,6 +11,10 @@ pdf_path: N/A
 pdf_filename: N/A
 source_collection: synthesis
 tags: [access-cavity, conservative-endodontics, minimally-invasive, fracture-resistance, marginal-ridge, pericervical-dentin, fiber-reinforced-composite, micro-CT, network-meta-analysis, overview]
+relations:
+  - type: refines
+    target: kapetanaki-2021-access-cavity-designs-endodontic-review
+    note: "Kapetanaki 2021 (narrative review) judged MIA's fracture-resistance benefit over TEC as conflicting/insufficient at the time. This overview's pooled synthesis (Motiwala 2022 NMA: CEC SUCRA 51.4% vs TEC 15.3%, ~562N gap; Mrinalini 2024 MA: SMD 2.61, p<0.001) shows the benefit is real but conditional on marginal ridge integrity (Ballester 2021: benefit vanishes once ≥1 ridge is lost) -- refining Kapetanaki's 'conflicting/insufficient' verdict into a conditional-benefit finding, not contradicting it. Kapetanaki's core caution (no clinical/RCT data exists, don't broadly replace TEC) still holds per this overview's own Evidence Limits section -- not a supersession."
 ---
 
 ## 한국어 핵심요약
