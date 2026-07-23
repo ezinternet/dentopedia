@@ -5,7 +5,7 @@ year: 2025
 date: 2025-01-22
 doi: 10.3390/jfb16020039
 source: lee-2025-screwless-hook-retained-implant-fea.md
-category: [prosthetic-materials]
+category: [prosthetic-materials/abutment-screw]
 evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/lee-2025-screwless-hook-retained-implant-fea.pdf
 pdf_filename: lee-2025-screwless-hook-retained-implant-fea.pdf
@@ -80,5 +80,5 @@ Notable: HRP abutment component stress under vertical load (23.49 MPa) was sligh
 
 ## Related Papers
 
-- [[prosthetic-materials/hamed-2020-screw-vs-cement-implant-sr]] — SR+MA of screw vs cement retention; clinical context for SCRP/SRP tradeoffs
+- [[prosthetic-materials/abutment-screw/hamed-2020-screw-vs-cement-implant-sr]] — SR+MA of screw vs cement retention; clinical context for SCRP/SRP tradeoffs
 - [[prosthetic-materials/chan-2026-fea-cad-cam-zirconia-3d-printed-hybrid]] — FEA comparison of CAD/CAM zirconia vs hybrid prosthetic systems; similar FEA methodology
