@@ -5,7 +5,7 @@ year: 2009
 date: 2009-04-11
 doi: 10.1038/sj.bdj.2009.258
 source: khawaja-2009-ian-implant-removal-nerve-injury-cases.md
-category: [oral-surgery]
+category: [oral-surgery/nerve-injury]
 evidence_level: case-report
 pdf_path: /Users/oracleneo/llm-wiki/papers/khawaja-2009-ian-implant-removal-nerve-injury-cases.pdf
 pdf_filename: khawaja-2009-ian-implant-removal-nerve-injury-cases.pdf
@@ -67,4 +67,4 @@ After 3 months from any nerve injury, permanent central and peripheral neurologi
 
 ## Related Papers
 
-- [[oral-surgery/lee-2015-inferior-alveolar-nerve-injury-management]] — broader management algorithm that incorporates the 36 h removal principle from this foundational series
+- [[oral-surgery/nerve-injury/lee-2015-inferior-alveolar-nerve-injury-management]] — broader management algorithm that incorporates the 36 h removal principle from this foundational series
