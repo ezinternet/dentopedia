@@ -5,7 +5,7 @@ year: 2024
 date: 2024-01-01
 doi: 10.1186/s40902-024-00438-5
 source: keykha-2024-iatrogenic-paresthesia-mandibular-treatment-sr.md
-category: [oral-surgery]
+category: [oral-surgery/nerve-injury]
 evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/keykha-2024-iatrogenic-paresthesia-mandibular-treatment-sr.pdf
 pdf_filename: keykha-2024-iatrogenic-paresthesia-mandibular-treatment-sr.pdf
@@ -72,4 +72,4 @@ From 3122 database records, 7 RCTs were included. Treatments studied: PBM (4 stu
 
 ## Related Papers
 
-- [[oral-surgery/lee-2015-inferior-alveolar-nerve-injury-management]] — IAN injury prevention and management overview; this SR extends with evidence-graded treatment options for established late paresthesia
+- [[oral-surgery/nerve-injury/lee-2015-inferior-alveolar-nerve-injury-management]] — IAN injury prevention and management overview; this SR extends with evidence-graded treatment options for established late paresthesia

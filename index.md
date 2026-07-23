@@ -2928,7 +2928,7 @@ tags: []
 - [[oral-surgery/misch-2010-mandibular-nerve-neurosensory-implant-management]] — Misch & Resnik 2010 · narrative-review · 임플란트 식립 후 IAN 신경감각손상 관리·프로토콜: 손상 분류(neuropraxia→neurotmesis), 발생률 0–44%, 즉각적 처치 알고리듬
 - [[oral-surgery/khawaja-2009-ian-implant-removal-nerve-injury-cases]] — Khawaja & Renton 2009 · case-report · 임플란트 조기 제거(18h–4d)로 IAN 손상 회복 4증례: 18h·36h 제거 → 거의 완전 회복, 2d·4d → 영구 감각장애 (BDJ)
 - [[oral-surgery/nerve-injury/kammerer-2024-ian-lingual-nerve-diagnosis-treatment-review]] — Kämmerer et al. 2024 · narrative-review · IAN·설신경 손상 스코핑 리뷰: 발생률(지혜치 0.4–5.5% 영구, 임플란트 >30% 일시적), Seddon 분류, 신경감각검사, 보존·수술 치료 결정 (Clin Oral Invest)
-- [[oral-surgery/keykha-2024-iatrogenic-paresthesia-mandibular-treatment-sr]] — Keykha et al. 2024 · sr · 의인성 만성 하악신경 감각이상 치료 SR(7 RCT): PBM·비타민B12·prednisolone 각각 회복 가속; 근거 수준 낮음 (Max Plast Reconstr Surg)
+- [[oral-surgery/nerve-injury/keykha-2024-iatrogenic-paresthesia-mandibular-treatment-sr]] — Keykha et al. 2024 · sr · 의인성 만성 하악신경 감각이상 치료 SR(7 RCT): PBM·비타민B12·prednisolone 각각 회복 가속; 근거 수준 낮음 (Max Plast Reconstr Surg)
 - [[oral-surgery/reus-2024-neuropathic-injury-dental-implant-prevalence-sr]] — Réus et al. 2024 · sr · 임플란트 관련 IAN 신경병성 손상 유병률(0–40%)·관리 SR: 신경측방이동술 후 90%→42% 부담 vs 비이동술 12%→5%; 근거 매우 부족 (J Oral Facial Pain Headache)
 - [[oral-surgery/nerve-injury/juodzbalys-2011-ian-injury-implant-etiology-treatment-review]] — Juodzbalys et al. 2011 · narrative-review · 임플란트 식립 중 IAN 손상 문헌 고찰: 원인·기전·진단·치료지침; 30–36h 임플란트 제거 기준, 3개월 미세신경수술 결정점
 - [[oral-surgery/ma-2026-photobiomodulation-ian-hypoesthesia-third-molar-rct]] — Ma et al. 2026 · rct · 레이저 침술 vs 직접 PBM vs 가짜치료(n=60): TPD −3.2 vs −2.6 vs −0.8 mm, SWME 85% vs 80% vs 25% 개선, VAS −60% vs −48% vs −12% (808nm, 9J/site×15회)
