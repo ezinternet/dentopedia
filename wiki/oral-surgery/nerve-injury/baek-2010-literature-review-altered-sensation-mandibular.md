@@ -5,7 +5,7 @@ year: 2010
 date: 2010-08-01
 doi: ""
 source: baek-2010-literature-review-altered-sensation-mandibular.md
-category: [oral-surgery]
+category: [oral-surgery/nerve-injury]
 evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/baek-2010-literature-review-altered-sensation-mandibular.pdf
 pdf_filename: baek-2010-literature-review-altered-sensation-mandibular.pdf
@@ -71,7 +71,7 @@ This Korean master's thesis (Catholic University of Korea, Dept. of Oral & Maxil
 
 ## Related Papers
 
-- [[oral-surgery/lee-2015-inferior-alveolar-nerve-injury-management]] — Korean case report: IAN exposed during 3rd molar extraction, managed with topical dexamethasone + oral prednisolone; complementary: different etiology (extraction vs implant) but same nerve
-- [[oral-surgery/li-2022-ian-position-nerve-injury-sr-ma]] — SR+MA: IAN position as predictor of nerve injury (more recent evidence base; updates some incidence data reviewed here)
-- [[oral-surgery/sarikov-2014-ian-injury-third-molar-review]] — Narrative review of IAN injury after 3rd molar surgery; parallel nerve-injury literature for comparison with implant-related cases
-- [[oral-surgery/thereza-bussolaro-2026-cbct-ian-predictive-factors-sr-ma]] — CBCT-based IAN risk factors SR+MA; modern imaging approach to the same nerve-safety problem
+- [[oral-surgery/nerve-injury/lee-2015-inferior-alveolar-nerve-injury-management]] — Korean case report: IAN exposed during 3rd molar extraction, managed with topical dexamethasone + oral prednisolone; complementary: different etiology (extraction vs implant) but same nerve
+- [[oral-surgery/nerve-injury/li-2022-ian-position-nerve-injury-sr-ma]] — SR+MA: IAN position as predictor of nerve injury (more recent evidence base; updates some incidence data reviewed here)
+- [[oral-surgery/nerve-injury/sarikov-2014-ian-injury-third-molar-review]] — Narrative review of IAN injury after 3rd molar surgery; parallel nerve-injury literature for comparison with implant-related cases
+- [[oral-surgery/nerve-injury/thereza-bussolaro-2026-cbct-ian-predictive-factors-sr-ma]] — CBCT-based IAN risk factors SR+MA; modern imaging approach to the same nerve-safety problem
