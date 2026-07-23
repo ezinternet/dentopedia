@@ -1586,7 +1586,7 @@ tags: []
 - [[oral-surgery/van-der-merwe-2023-aminoglycosides-ludwigs-angina-63-cases]] — 후향적(n=63, 남아공): 루드비히 앙기나 균배양 = 연쇄구균 우세(아미노글리코사이드 내성); 경험적 아미노글리코사이드 사용 미생물학적 근거 부족; β-lactam 기반 요법 권장
 - [[oral-surgery/gargava-2022-deep-neck-space-infection-150-cases]] — 전향적(n=150, 인도): 심경부 감염 치성 42.66%, 루드비히 앙기나 24.66%, 연쇄구균 31.33%; 절개배농 38%, 응급기관절개술 일부
 - [[oral-surgery/al-maawi-2021-prf-extraction-socket-healing-sr]] — SR (20 RCTs): PRF reduces pain (66.6%), improves soft tissue healing at 1 wk (75%), reduces bone loss at 8–15 wk but NOT at 6 mo, improves socket fill (85%); benefit limited to early 2–3 months
-- [[oral-surgery/guillaumet-claure-2022-iatrogenic-mandibular-fracture-third-molar-sr]] — SR: 하악 제3대구치 발치 후 의인성 골절 발생률 0.0033%–0.075%; 술후 골절 > 술중; 40–60세 남성·깊은 매복·mesioangular·좌측 위험↑
+- [[oral-surgery/third-molar/guillaumet-claure-2022-iatrogenic-mandibular-fracture-third-molar-sr]] — SR: 하악 제3대구치 발치 후 의인성 골절 발생률 0.0033%–0.075%; 술후 골절 > 술중; 40–60세 남성·깊은 매복·mesioangular·좌측 위험↑
 - [[oral-surgery/ferrer-valdivia-2022-complications-simple-exodontia-sr]] — SR (3 studies): 단순 발치 후 합병증(trismus·alveolitis·retained root 가장 흔); 술자 경험·수술 시간·조직 손상이 주요 위험인자
 - [[oral-surgery/third-molar/bailey-2020-surgical-techniques-mandibular-wisdom-teeth-sr]] — Cochrane SR: 하악 사랑니 발치 수술기법(피판·설신경 보호·골삭제법) 비교; 건조치조염·감염·신경손상·통증·부종·개구제한 결과 평가; 대부분 낮은 수준의 증거
 - [[oral-surgery/pattnayak-2024-prf-prp-third-molar-extraction-sr]] — SR (6 studies): 하악 제3대구치 발치 후 PRF vs PRP 비교; 4/6 연구에서 PRF가 연조직 치유·골밀도 개선에 유리; PRF는 준비 용이·완전 자가 유래 장점

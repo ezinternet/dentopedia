@@ -5,7 +5,7 @@ year: 2022
 date: 2022-01-01
 doi: 10.4317/jced.58390
 source: guillaumet-claure-2022-iatrogenic-mandibular-fracture-third-molar-sr.md
-category: [oral-surgery]
+category: [oral-surgery/third-molar]
 evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/guillaumet-claure-2022-iatrogenic-mandibular-fracture-third-molar-sr.pdf
 pdf_filename: guillaumet-claure-2022-iatrogenic-mandibular-fracture-third-molar-sr.pdf
@@ -59,5 +59,5 @@ This systematic review (Guillaumet-Claure et al., 2022) examined the prevalence 
 Risk factors include deeply impacted teeth, inadequate surgical technique (excessive force, incorrect odontosection), and failure to perform correct bone removal.
 
 ## Related Papers
-- [[oral-surgery/pires-2017-late-mandibular-fracture-third-molar-sr]] — Late postoperative mandibular fractures, 124 cases analysis
-- [[oral-surgery/bailey-2020-surgical-techniques-mandibular-wisdom-teeth-sr]] — Cochrane review on surgical techniques and complication outcomes
+- [[oral-surgery/third-molar/pires-2017-late-mandibular-fracture-third-molar-sr]] — Late postoperative mandibular fractures, 124 cases analysis
+- [[oral-surgery/third-molar/bailey-2020-surgical-techniques-mandibular-wisdom-teeth-sr]] — Cochrane review on surgical techniques and complication outcomes
