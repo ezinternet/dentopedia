@@ -6,7 +6,7 @@ doi: ""
 date: 2009-01-01
 source: unknown-2009-non-surgical-and-surgical-periodontal.md
 evidence_level: narrative-review
-category: periodontics
+category: periodontics/non-surgical-instrumentation
 pdf_path: /Users/oracleneo/llm-wiki/papers/unknown-2009-non-surgical-and-surgical-periodontal.pdf
 pdf_filename: unknown-2009-non-surgical-and-surgical-periodontal.pdf
 source_collection: local
@@ -32,7 +32,7 @@ Supportive periodontal therapy (SPT; recall every 3–6 months) is required inde
 
 # Non-Surgical vs. Surgical Periodontal Therapy: Treatment Hierarchy
 
-**Source**: [[periodontics/unknown-2009-non-surgical-and-surgical-periodontal]]  
+**Source**: [[periodontics/non-surgical-instrumentation/unknown-2009-non-surgical-and-surgical-periodontal]]  
 **Year**: 2009 | **Review Type**: Evidence-based literature review | **Focus**: Chronic periodontitis treatment options
 
 ## Foundational Principle: Non-Surgical First
@@ -172,4 +172,4 @@ Diagnosis: Chronic periodontitis
 **Evidence-Based Literature Review** — Synthesizes multiple controlled trials and landmark prospective studies (Axelsson/Lindhe 20-year studies establish standards); robust evidence base for hierarchy and outcomes
 
 ---
-**Related**: [[periodontics/jo-2008-management-of-dental-biofilm-through]] | Systemic factors in periodontitis | Maintenance therapy adherence
+**Related**: [[periodontics/oral-hygiene-instruction/jo-2008-management-of-dental-biofilm-through]] | Systemic factors in periodontitis | Maintenance therapy adherence
