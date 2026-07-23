@@ -7,7 +7,7 @@ doi: 10.2147/CCIDE.S231070
 journal: Clinical, Cosmetic and Investigational Dentistry 12:9-16
 source: hamed-2020-screw-vs-cement-implant-sr.md
 evidence_level: sr
-category: [prosthetic-materials]
+category: [prosthetic-materials/abutment-screw]
 pdf_path: /Users/oracleneo/llm-wiki/papers/hamed-2020-screw-vs-cement-implant-sr.pdf
 pdf_filename: hamed-2020-screw-vs-cement-implant-sr.pdf
 source_collection: external
@@ -64,5 +64,5 @@ Systematic review of 12 studies comparing screw-retained (SR) vs cement-retained
 - **Subgingival CR placement** dramatically increases biological complication risk — avoid
 
 ## Related Papers
-- [[prosthetic-materials/khurshid-2025-screw-vs-cement-crown-complications]] — prospective 12mo; 18% screw loosening; confirms complication pattern
-- [[prosthetic-materials/tomar-2025-cement-vs-screw-zirconia-crown-sr-ma]] — SR+MA: SR lower MBL at 6mo; 46% lower complication risk
+- [[prosthetic-materials/abutment-screw/khurshid-2025-screw-vs-cement-crown-complications]] — prospective 12mo; 18% screw loosening; confirms complication pattern
+- [[prosthetic-materials/abutment-screw/tomar-2025-cement-vs-screw-zirconia-crown-sr-ma]] — SR+MA: SR lower MBL at 6mo; 46% lower complication risk
