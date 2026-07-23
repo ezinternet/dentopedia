@@ -935,7 +935,7 @@ tags: []
 - [[periodontics/sanz-2020-treatment-stage-i-iii-periodontitis-efp]] — EFP S3 지침(15개 SR): 1–3기 치주염 단계적 치료(행동변화→SRP±보조→수술→SPT); GRADE 기반 권고
 - [[periodontics/herrera-2022-treatment-stage-iv-periodontitis-efp]] — EFP S3 지침(13개 SR): 4기 치주염 다학제 재활(교정·보철·임플란트) + 집중 SPT; Sanz 2020의 후속 가이드라인
 - [[periodontics/meng-2024-nspt-cardiovascular-risk-markers-sr-ma]] — SR+MA(21개 RCT): 치주 비수술치료 후 CRP·IL-6·SBP 유의 감소; 지질·DBP는 유의미한 변화 없음
-- [[periodontics/meseli-2016-probing-depth-srp-response-periodontitis]] — 전향적(1,672포켓/15명): IPD↑ → PD감소↑ 양의 상관; 단근치 IPD≥4mm 전체 AG 유의; 다근치 AG는 IPD≥7mm만 유의
+- [[periodontics/non-surgical-instrumentation/meseli-2016-probing-depth-srp-response-periodontitis]] — 전향적(1,672포켓/15명): IPD↑ → PD감소↑ 양의 상관; 단근치 IPD≥4mm 전체 AG 유의; 다근치 AG는 IPD≥7mm만 유의
 - [[periodontics/jung-2019-periodontitis-spt-disease-progression-sr]] — SR(17편/14연구/964명/5–15년): 10/14연구 CAL손실≤0.5mm(안정); 흡연·구강위생불량·SPT불순응이 진행 예측인자
 - [[periodontics/farooqi-2015-periodontal-maintenance-recall-interval-sr]] — SR(8편 코호트, RCT 없음): 3–6개월 단기주기 → 치아보존 유리; 12개월 근접 시 치아손실 유의 증가; 일률적 주기 권고 근거 부족
 - [[periodontics/non-surgical-instrumentation/lamont-2018-routine-scale-and-polish-periodontal-health]] — Lamont 2018 · sr+ma (Cochrane, RCT 2편, 1711명) · 저위험 건강 성인 루틴 스케일링·폴리싱(프로필락시스)은 치은염·치주낭·삶의질에 2~3년간 무효(high-certainty), 치석만 소폭↓; 6개월 vs 12개월 주기 차이 미미 → 위험도 기반 recall 근거 (DOI 10.1002/14651858.CD004625.pub5)
