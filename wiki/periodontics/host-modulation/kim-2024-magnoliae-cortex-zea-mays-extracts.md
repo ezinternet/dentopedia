@@ -6,7 +6,7 @@ date: 2024-11-15
 doi: 10.1186/s12917-024-04243-0
 journal: BMC Veterinary Research 2024;20:437
 source: kim-2024-magnoliae-cortex-zea-mays-extracts.md
-category: [periodontics]
+category: [periodontics/host-modulation]
 evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/kim-2024-magnoliae-cortex-zea-mays-extracts.pdf
 pdf_filename: kim-2024-magnoliae-cortex-zea-mays-extracts.pdf
