@@ -5,7 +5,7 @@ year: 2026
 date: 2026-06-04
 doi: 10.1111/idh.70107
 source: dvorska-2026-mechanical-instrumentation-hard-tissue-sr.md
-category: [periodontics]
+category: [periodontics/non-surgical-instrumentation]
 evidence_level: sr
 source_collection: pubmed-text
 full_text: false
@@ -75,5 +75,5 @@ Root substance loss (quoted from abstract):
 
 ## Related Papers
 
-- [[periodontics/lodigkeit-2026-periodontal-instrumentation-enamel-cementum-review]] — reinforces: narrative review of instrumentation effects on enamel and cementum (same ingest batch); this SR supplies quantitative in-vitro substance-loss figures.
+- [[periodontics/non-surgical-instrumentation/lodigkeit-2026-periodontal-instrumentation-enamel-cementum-review]] — reinforces: narrative review of instrumentation effects on enamel and cementum (same ingest batch); this SR supplies quantitative in-vitro substance-loss figures.
 - [[periodontics/sanz-2020-treatment-stage-i-iii-periodontitis-efp]] — applies-to: EFP S3 clinical practice guideline for stage I–III periodontitis whose subgingival-instrumentation steps this hard-tissue evidence informs.
