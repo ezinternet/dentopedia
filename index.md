@@ -640,6 +640,7 @@ tags: []
 - [[sinus-lift/lateral/vaddi-2021-available-height-location-patency-ostium]] — Vaddi 2021 · retrospective · CBCT 200 부비동(112명): 동저-자연공 높이 유치악 31.40mm·무치악 29.50mm에서 점막비후 높이를 뺀 안전 거상 높이 계산(유치악 ~27.05mm·무치악 ~23.40mm); 자연공 47%가 제1대구치 부위 (DOI 10.5624/isd.20200218, PMC8479432)
 - [[sinus-lift/lateral/zhang-2025-platelet-bone-enhancers-dbbm-sinus]] — Zhang 2025 · sr+ma (16편, n=372) · PRP/PRF/PRGF + DBBM vs DBBM 단독 (2단계 상악동거상): 신생골 +5.92%(p=0.002), 잔류이식재 −1.93(p<0.001, PRF/PRGF만 유의·PRP 제외); ISQ·임플란트 생존은 NS (DOI 10.1186/s12903-025-06484-3)
 - [[sinus-lift/lateral/li-2023-dbbm-particle-size-sinus-floor-elevation]] — Li 2023 · sr+ma (4-RCT, n=94) · DBBM 대입자(1-2mm) vs 소입자(0.25-1mm) 조직형태계측 — 결합조직·신생골·잔류이식재 비율 모두 유의차 없음 (DOI 10.1186/s40729-023-00502-1)
+- [[sinus-lift/lateral/wallace-2003-effect-maxillary-sinus-augmentation-survival]] — Wallace & Froum 2003 · sr+ma(43편 메타회귀, abstract-only) · lateral window 임플란트 생존율 평균 91.8%(61.7-100%); 거친표면·입자형이식재·측창막피개 시 생존율↑, 자가골함량·동시식립은 무관 — 막피개 효과는 이후 starch-jensen-2019 SR+MA(6RCT)에서 반박됨(relations: contradicts) (DOI 10.1902/annals.2003.8.1.328)
 
 ## 상악동거상술 — 경치조골·골밀도화 (Sinus Lift: Transcrestal / Osseodensification)
 - [[sinus-lift/transcrestal/huang-2026-graftless-transcrestal-sinus-membrane-perforation-ma]] — Huang 2026 · sr+ma · 무이식(graftless) 경치조 상악동거상 MA 14편(2119부위): 막천공 1%·조기실패 1%·부비동염 없음; motor-OD 34% vs osteotome 0% (GRADE very low) (DOI 10.2340/aos.v85.46021)
