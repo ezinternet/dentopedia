@@ -61,6 +61,6 @@ This retrospective case series from the Maxillofacial Surgery Department of Hosp
 - Number of prior TMJ surgeries (3/6 patients had ≥1) did not appear to correlate with worse outcomes in this small cohort, contrasting with a larger systematic review (Johnson et al.) that identified prior-arthrotomy count as a prognostic factor — attributed to sample-size limits here.
 
 ## Related Papers
-- [[wiki/tmj/kim-2023-treatment-tmj-osteoarthritis]] — conservative-to-arthrocentesis treatment ladder for TMJ osteoarthritis; this paper extends that ladder to its final surgical rung (total joint replacement) for cases refractory to those measures.
-- [[wiki/tmj/song-2023-understanding-tmj-osteoarthritis-pathophysiology]] — pathophysiology of TMJ osteoarthritis, the dominant indication (n=5/6) for TJR in this series.
-- [[wiki/tmj/mauro-2024-tmj-management-whats-new-scoping]] — scoping review of contemporary TMJ management approaches, relevant context for where alloplastic TJR sits in the overall management spectrum.
+- [[tmj/kim-2023-treatment-tmj-osteoarthritis]] — conservative-to-arthrocentesis treatment ladder for TMJ osteoarthritis; this paper extends that ladder to its final surgical rung (total joint replacement) for cases refractory to those measures.
+- [[tmj/song-2023-understanding-tmj-osteoarthritis-pathophysiology]] — pathophysiology of TMJ osteoarthritis, the dominant indication (n=5/6) for TJR in this series.
+- [[tmj/mauro-2024-tmj-management-whats-new-scoping]] — scoping review of contemporary TMJ management approaches, relevant context for where alloplastic TJR sits in the overall management spectrum.

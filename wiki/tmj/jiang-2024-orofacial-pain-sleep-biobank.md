@@ -65,5 +65,5 @@ This study is the largest-scale genetic/epidemiological investigation in the wik
 
 ## Related Papers
 
-- [[wiki/tmj/minakuchi-2022-sleep-bruxism-management-sr]] — sleep bruxism management SR; this paper adds population-scale causal evidence for a broader sleep-trait (long sleep duration, not just bruxism) link to TMD-related pain, complementing the bruxism-specific mechanistic focus.
+- [[tmj/minakuchi-2022-sleep-bruxism-management-sr]] — sleep bruxism management SR; this paper adds population-scale causal evidence for a broader sleep-trait (long sleep duration, not just bruxism) link to TMD-related pain, complementing the bruxism-specific mechanistic focus.
 - albadi-2026-sleep-disorders-tmj-pain-dysfunction (systematic review on sleep disorders and TMD pain/dysfunction) — this paper provides large-scale genetic/epidemiological causal evidence (MR) that reinforces the observational sleep-TMD associations synthesized in that SR.

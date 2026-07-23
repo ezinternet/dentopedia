@@ -46,7 +46,7 @@ TMJ pain and cervical pain were tracked with VAS monthly over 12 months, with th
 
 ## Key Contributions
 
-- One of the few TMD conservative-therapy RCTs with a full 12-month follow-up (vs. the more common 4-week to 5-month windows, e.g. [[wiki/tmj/salloum-2024-stabilization-splint-ultrasound-myofascial-pain-rct]])
+- One of the few TMD conservative-therapy RCTs with a full 12-month follow-up (vs. the more common 4-week to 5-month windows, e.g. [[tmj/salloum-2024-stabilization-splint-ultrasound-myofascial-pain-rct]])
 - Head-to-head confirms TENS and LLLT are statistically equivalent and both superior to soft splints and physiotherapy-only control for TMJ pain reduction
 - Directly and quantitatively tests (rather than assumes) the cervical spine–TMD comorbidity link via paired VAS + Pearson correlation, and finds it weak/inconsistent (r range -0.452 to 0.336 across groups)
 - Adds thermographic imaging as a semi-objective adjunct to subjective VAS scoring for TMD pain assessment
