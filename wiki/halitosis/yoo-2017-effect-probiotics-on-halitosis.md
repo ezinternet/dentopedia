@@ -71,5 +71,5 @@ The authors concluded that current evidence supports recommending probiotics (pa
 
 ## Related Papers
 
-- [[halitosis/jkda-2022-60-4-001]] — Korean KUMC Halitosis Clinic cohort (n=246); provides epidemiological context for physiological halitosis populations that probiotics might target
+- [[oral-medicine/jkda-2022-60-4-001]] — Korean KUMC Halitosis Clinic cohort (n=246); provides epidemiological context for physiological halitosis populations that probiotics might target
 - [[oral-microbiology/hajishengallis-2012-psd-model-periodontal-disease]] — polymicrobial synergy/dysbiosis model underpinning VSC-producing bacterial community dynamics that probiotics aim to disrupt
