@@ -5,7 +5,7 @@ year: 2024
 date: 2024-06-12
 doi: 10.3290/j.ohpd.b5458595
 source: stutzer-2024-vitro-measurement-forces-during.md
-category: periodontics
+category: periodontics/non-surgical-instrumentation
 evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: true
@@ -70,5 +70,5 @@ This in-vitro biomechanical study quantified the magnitude, direction, and tempo
 
 ## Related Papers
 
-- [[periodontics/dvorska-2026-mechanical-instrumentation-hard-tissue-sr]] — extends: that in-vitro SR quantifies ultrasonic-scaler-associated hard-tissue substance loss and surface roughness (the outcome side of instrumentation damage); this study supplies the upstream mechanistic driver — actual force magnitude, direction, and temporal dynamics applied by trained operators.
-- [[periodontics/lodigkeit-2026-periodontal-instrumentation-enamel-cementum-review]] — refines: that narrative review names force as one of several unquantified operator-dependent variables behind ultrasonic-scaling cementum loss; this study provides exactly that force-magnitude quantification for a contemporary piezoelectric device.
+- [[periodontics/non-surgical-instrumentation/dvorska-2026-mechanical-instrumentation-hard-tissue-sr]] — extends: that in-vitro SR quantifies ultrasonic-scaler-associated hard-tissue substance loss and surface roughness (the outcome side of instrumentation damage); this study supplies the upstream mechanistic driver — actual force magnitude, direction, and temporal dynamics applied by trained operators.
+- [[periodontics/non-surgical-instrumentation/lodigkeit-2026-periodontal-instrumentation-enamel-cementum-review]] — refines: that narrative review names force as one of several unquantified operator-dependent variables behind ultrasonic-scaling cementum loss; this study provides exactly that force-magnitude quantification for a contemporary piezoelectric device.
