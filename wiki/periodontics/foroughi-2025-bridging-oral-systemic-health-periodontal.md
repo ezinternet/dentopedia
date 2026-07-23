@@ -73,7 +73,7 @@ Narrative synthesis of PubMed/Medline, Scopus, and Google Scholar — landmark s
 
 ## Related Papers
 
-- [[periodontics/donertas-2026-gbt-subgingival-debridement-gcf-biomarkers]] — RCT measuring GCF IL-1β/MMP-8 after subgingival debridement; this review is the upstream framework for which GCF markers matter and how they might be read chairside
+- [[periodontics/non-surgical-instrumentation/donertas-2026-gbt-subgingival-debridement-gcf-biomarkers]] — RCT measuring GCF IL-1β/MMP-8 after subgingival debridement; this review is the upstream framework for which GCF markers matter and how they might be read chairside
 - [[oral-microbiology/hajishengallis-2014-porphyromonas-gingivalis-host-manipulation]] — keystone-pathogen mechanism (gingipains, weak-TLR4 LPS, immune subversion) underpinning the pathogenesis section
 - [[oral-microbiology/lamont-2014-polymicrobial-synergy-dysbiosis-inflammatory]] — polymicrobial synergy and dysbiosis model behind the dysbiosis framing
 - [[oral-microbiology/hajishengallis-2012-psd-model-periodontal-disease]] — PSD model of periodontal disease

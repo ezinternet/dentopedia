@@ -14,7 +14,7 @@ text_filename: el-haddad-2026-toothpick-use-interdental-papilla-loss-cross-secti
 
 ## Why Ingested
 
-이쑤시개법 양치질(칫솔모를 쓰는 와타나베법, [[periodontics/lee-2020-watanabe-toothpick-method-srp-diabetic-periodontitis-rct]])과 자주 혼동되는 **목재 이쑤시개(치간청소용)의 위해**를 분리해 기록하기 위해 인제스트. 와타나베법은 잇몸 치유를 촉진하는 반면, 나무 이쑤시개의 과도·수직 사용은 치간유두(interdental papilla)를 소실시켜 블랙트라이앵글을 만든다는 반대 방향 근거 — 토스픽법 페이지군과 짝을 이루는 안전성 경고. 치간 접촉소실/유두 관련 [[food-impaction/liang-2020-prevalence-associated-factors-retrospective]]와도 연결.
+이쑤시개법 양치질(칫솔모를 쓰는 와타나베법, [[periodontics/oral-hygiene-instruction/lee-2020-watanabe-toothpick-method-srp-diabetic-periodontitis-rct]])과 자주 혼동되는 **목재 이쑤시개(치간청소용)의 위해**를 분리해 기록하기 위해 인제스트. 와타나베법은 잇몸 치유를 촉진하는 반면, 나무 이쑤시개의 과도·수직 사용은 치간유두(interdental papilla)를 소실시켜 블랙트라이앵글을 만든다는 반대 방향 근거 — 토스픽법 페이지군과 짝을 이루는 안전성 경고. 치간 접촉소실/유두 관련 [[food-impaction/liang-2020-prevalence-associated-factors-retrospective]]와도 연결.
 
 ## Three-line Summary
 
@@ -72,7 +72,7 @@ Clinicians should advise patients against routine wooden toothpick use as an int
 
 ## 6. Related Work
 
-- Contrast with the **Watanabe / toothpick *brushing* method** (a beneficial toothbrush technique) — see [[periodontics/lee-2020-watanabe-toothpick-method-srp-diabetic-periodontitis-rct]] and [[periodontics/rajwani-2020-manual-toothbrushing-techniques-plaque-gingivitis-sr]]. The two "toothpick" concepts are unrelated.
+- Contrast with the **Watanabe / toothpick *brushing* method** (a beneficial toothbrush technique) — see [[periodontics/oral-hygiene-instruction/lee-2020-watanabe-toothpick-method-srp-diabetic-periodontitis-rct]] and [[periodontics/oral-hygiene-instruction/rajwani-2020-manual-toothbrushing-techniques-plaque-gingivitis-sr]]. The two "toothpick" concepts are unrelated.
 - Interdental papilla / contact relationships: [[food-impaction/liang-2020-prevalence-associated-factors-retrospective]].
 
 ## 7. Glossary

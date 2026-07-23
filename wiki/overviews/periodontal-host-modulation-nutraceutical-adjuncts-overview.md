@@ -107,13 +107,13 @@ A T2DM-specific melatonin signal (Angelopoulou 2026, SR+MA, 3 RCTs, PPD SMD −1
 **Clinical rule of thumb:** Foundation = SRP/PMPR (± regenerative surgery for deep intrabony defects). Supplements (omega-3, CoQ10, antioxidant vitamins, ASU) are optional, low-yield add-ons — counsel honestly that benefit is sub-millimeter and certainty weak. If host modulation is genuinely pursued for advanced disease, the evidence points to MMP-targeting drugs integrated with definitive (often surgical) therapy, not to consumer nutraceuticals.
 
 ## Related Papers
-- [[periodontics/heo-2022-omega-3-fatty-acids-periodontitis-ma]] — omega-3 MA; positive but EFP-discordant
-- [[periodontics/fernandez-2025-coenzyme-q10-nonsurgical-periodontal-sr]] — CoQ10 route-stratified SR (oral weak, gel inert)
-- [[periodontics/rasoolzadeh-2022-coenzyme-q10-periodontitis-sr-ma]] — older CoQ10 SR+MA; conflict resolved by RoB/route
+- [[periodontics/host-modulation/heo-2022-omega-3-fatty-acids-periodontitis-ma]] — omega-3 MA; positive but EFP-discordant
+- [[periodontics/host-modulation/fernandez-2025-coenzyme-q10-nonsurgical-periodontal-sr]] — CoQ10 route-stratified SR (oral weak, gel inert)
+- [[periodontics/host-modulation/rasoolzadeh-2022-coenzyme-q10-periodontitis-sr-ma]] — older CoQ10 SR+MA; conflict resolved by RoB/route
 - [[periodontics/sherif-2025-iprf-vitamin-c-nonsurgical-periodontitis]] — vitamin C + I-PRF; null vs PMPR
-- [[periodontics/angelopoulou-2026-melatonin-adjunct-nspt-t2dm-sr-ma]] — melatonin 3 mg/night NSPT adjunct in T2DM periodontitis; SR+MA positive (PPD/CAL/HbA1c/hs-CRP) but GRADE-low, T2DM-restricted
-- [[periodontics/hong-2019-randomized-double-blind-placebo-controlled-multicenter]] — vitamin C/E + lysozyme (CELC/IGATAN); GI only
-- [[periodontics/oliveira-2024-periodontal-host-modulation-avocado-soybean]] — ASU; animal host-modulation
+- [[periodontics/host-modulation/angelopoulou-2026-melatonin-adjunct-nspt-t2dm-sr-ma]] — melatonin 3 mg/night NSPT adjunct in T2DM periodontitis; SR+MA positive (PPD/CAL/HbA1c/hs-CRP) but GRADE-low, T2DM-restricted
+- [[periodontics/host-modulation/hong-2019-randomized-double-blind-placebo-controlled-multicenter]] — vitamin C/E + lysozyme (CELC/IGATAN); GI only
+- [[periodontics/host-modulation/oliveira-2024-periodontal-host-modulation-avocado-soybean]] — ASU; animal host-modulation
 - [[periodontics/aimetti-2025-doxycycline-local-delivery-periodontal-regeneration-rct]] — local doxycycline + regen surgery; only clinically meaningful effect
 - [[periodontics/duarte-2025-vitamin-d-periimplant-periodontal]] — vitamin D in peri-implant healing and periodontal disease; RUNX2/ALP/OPN/OCN upregulation and RANKL suppression, but hypervitaminosis D (>70 ng/mL) associated with 21.1-fold peri-implant bone loss — the cluster's only documented upper threshold
 

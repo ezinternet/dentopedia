@@ -102,8 +102,8 @@ Narrative synthesis (no new pooling). Base: 3 umbrella reviews (Arbildo-Vega, Bo
 - [[periodontics/arbildo-vega-2024-periodontal-disease-diabetes-mellitus-umbrella]] — umbrella; PD↔DM RR 1.26–1.86, poorly-controlled DM +86% risk
 - [[periodontics/botelho-2022-umbrella-review-oral-systemic]] — umbrella (293 MAs); periodontitis central node, 66 strong associations, only 2 intervention-level
 - [[periodontics/bandiaky-2026-resveratrol-periodontal-disease-systematic-review]] — SR; resveratrol preclinical bone protection, no human bone-loss data
-- [[periodontics/mendonca-2024-effects-probiotic-therapy-periodontal]] — umbrella; probiotics short-term only, no hard outcomes, *L. reuteri* most consistent
-- [[periodontics/suvan-2025-complex-world-toothpaste-diversity-meeting]] — umbrella; toothpaste selection is condition-specific, 6/19 ingredients effective
+- [[periodontics/host-modulation/mendonca-2024-effects-probiotic-therapy-periodontal]] — umbrella; probiotics short-term only, no hard outcomes, *L. reuteri* most consistent
+- [[periodontics/oral-hygiene-instruction/suvan-2025-complex-world-toothpaste-diversity-meeting]] — umbrella; toothpaste selection is condition-specific, 6/19 ingredients effective
 
 ## Related Overviews
 

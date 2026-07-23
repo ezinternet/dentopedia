@@ -15,7 +15,7 @@ text_filename: duarte-2025-vitamin-d-periimplant-periodontal.txt
 
 ## Why Ingested
 
-Maps the clinical and preclinical evidence on vitamin D in peri-implant and periodontal contexts — complements host-modulation adjunct series in this category alongside [[periodontics/oliveira-2024-periodontal-host-modulation-avocado-soybean]]; addresses the specific role of Vitamin D deficiency (>1 billion affected globally) in implant failure and periodontal disease progression, with novel topical/coating delivery strategies.
+Maps the clinical and preclinical evidence on vitamin D in peri-implant and periodontal contexts — complements host-modulation adjunct series in this category alongside [[periodontics/host-modulation/oliveira-2024-periodontal-host-modulation-avocado-soybean]]; addresses the specific role of Vitamin D deficiency (>1 billion affected globally) in implant failure and periodontal disease progression, with novel topical/coating delivery strategies.
 
 ## Three-line Summary
 

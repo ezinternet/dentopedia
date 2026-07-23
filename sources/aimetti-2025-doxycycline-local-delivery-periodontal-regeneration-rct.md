@@ -108,7 +108,7 @@ BOOST군이 임상부착수준(CAL) 획득 4.1 대 3.2 mm(p=0.019), 복합성공
 - [[periodontics/stavropoulos-2021-periodontal-regeneration-intrabony-nma]] — Network meta-analysis of regenerative approaches (BOOST extends these average results)
 - [[periodontics/sanz-2020-treatment-stage-i-iii-periodontitis-efp]] — EFP clinical practice guideline underpinning the regenerative surgery indication
 - [[periodontics/herrera-2022-treatment-stage-iv-periodontitis-efp]] — EFP guideline for stage IV periodontitis, the target patient population
-- [[periodontics/khattri-2020-adjunctive-systemic-antimicrobials-non-surgical-treatment]] — Prior evidence on adjunctive antimicrobials in periodontal therapy (BOOST contrasts by timing and delivery route)
+- [[periodontics/non-surgical-instrumentation/khattri-2020-adjunctive-systemic-antimicrobials-non-surgical-treatment]] — Prior evidence on adjunctive antimicrobials in periodontal therapy (BOOST contrasts by timing and delivery route)
 
 ## 7. Glossary
 

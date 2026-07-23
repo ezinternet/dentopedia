@@ -57,4 +57,4 @@ A 58-year-old man presented with severe sharp pain, swelling, reddish gingiva, a
 ## Related Papers
 
 - [[periodontics/papapanou-2018-periodontitis-classification-consensus-2017]] — provides the modern diagnostic/classification framework; this case is a clinical-emergency illustration of an acute periodontal abscess within that nosology.
-- [[periodontics/jo-2008-management-of-dental-biofilm-through]] — both emphasize biofilm/plaque control (scaling, debridement) as core to periodontal management.
+- [[periodontics/oral-hygiene-instruction/jo-2008-management-of-dental-biofilm-through]] — both emphasize biofilm/plaque control (scaling, debridement) as core to periodontal management.

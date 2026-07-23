@@ -98,7 +98,7 @@ Patients with RA, osteoporosis, or OA should receive routine periodontal evaluat
 1. **RA patients**: Screen for periodontal infection; *P. gingivalis* treatment may reduce anti-CCP titers
 2. **Osteoporosis patients**: Periodontal management is part of bone health optimization
 3. **Post-surgical (total joint)**: Pre-procedure dental clearance has a mechanistic basis in this pathway
-4. **Probiotics as bridge**: L. reuteri supplementation may provide dual benefit (periodontal + bone) — see [[periodontics/mendoca-2024-probiotics-nspt-nma]] for NMA evidence
+4. **Probiotics as bridge**: L. reuteri supplementation may provide dual benefit (periodontal + bone) — see [[periodontics/host-modulation/mendoca-2024-probiotics-nspt-nma]] for NMA evidence
 
 ## Evidence Map
 

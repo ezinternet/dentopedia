@@ -72,7 +72,7 @@ CHX의 효능은 농도 의존적 — ≥0.10%에서 유의한 효과, <0.10%는
 
 ## 6. Related Work
 
-- [[periodontics/james-2017-chlorhexidine-mouthrinse-adjunctive-gingival]] — Cochrane SR+MA (CHX 단독)
+- [[periodontics/oral-hygiene-instruction/james-2017-chlorhexidine-mouthrinse-adjunctive-gingival]] — Cochrane SR+MA (CHX 단독)
 
 ## 7. Glossary
 

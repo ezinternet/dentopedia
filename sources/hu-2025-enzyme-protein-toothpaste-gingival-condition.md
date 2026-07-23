@@ -99,7 +99,7 @@ Double-blind RCT (n=251, Chinese adults with gingivitis, 26 weeks): a fluoride t
 
 - Prior UK double-blind RCT and Danish epidemiological study (≥12 months use) reported by the same group, both showing gingival-health benefit of the enzyme-protein toothpaste; the UK design used prophylaxis + 4-week control run-in to dampen the Hawthorne effect.
 - Mechanism: amyloglucosidase + glucose oxidase generate H₂O₂ from polyglucans; lactoperoxidase converts salivary thiocyanate to hypothiocyanite (antimicrobial); lysozyme cleaves gram-positive peptidoglycan; lactoferrin sequesters iron / inhibits oral pathogen metabolism; colostrum IgG provides passive immunity. A 14-week microbiome study showed a shift toward gingival-health-associated species.
-- **이가탄/CELC systemic tablet** ([[periodontics/hong-2019-randomized-double-blind-placebo-controlled-multicenter]]) — shares the **lysozyme** active but delivered orally/systemically for periodontitis adjunct; contrast topical (this paper, strong GI/plaque effect) vs systemic delivery.
+- **이가탄/CELC systemic tablet** ([[periodontics/host-modulation/hong-2019-randomized-double-blind-placebo-controlled-multicenter]]) — shares the **lysozyme** active but delivered orally/systemically for periodontitis adjunct; contrast topical (this paper, strong GI/plaque effect) vs systemic delivery.
 
 ## 7. Glossary
 

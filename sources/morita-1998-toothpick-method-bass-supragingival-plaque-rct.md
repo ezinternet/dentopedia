@@ -14,7 +14,7 @@ text_filename: morita-1998-toothpick-method-bass-supragingival-plaque-rct.txt
 
 ## Why Ingested
 
-This is the origin/cornerstone RCT of the Watanabe Toothpick method (T. Watanabe, the method's eponym, is a coauthor) and the single direct head-to-head trial showing the Toothpick method removes more proximal plaque than the Bass method. It supplies the empirical primary-study evidence that the systematic review [[periodontics/rajwani-2020-manual-toothbrushing-techniques-plaque-gingivitis-sr]] cites, and anchors the clinical-outcome line carried forward by [[periodontics/lee-2020-watanabe-toothpick-method-srp-diabetic-periodontitis-rct]].
+This is the origin/cornerstone RCT of the Watanabe Toothpick method (T. Watanabe, the method's eponym, is a coauthor) and the single direct head-to-head trial showing the Toothpick method removes more proximal plaque than the Bass method. It supplies the empirical primary-study evidence that the systematic review [[periodontics/oral-hygiene-instruction/rajwani-2020-manual-toothbrushing-techniques-plaque-gingivitis-sr]] cites, and anchors the clinical-outcome line carried forward by [[periodontics/oral-hygiene-instruction/lee-2020-watanabe-toothpick-method-srp-diabetic-periodontitis-rct]].
 
 ## Three-line Summary
 
@@ -72,8 +72,8 @@ RCT (n=20 dental students, split-mouth, modified Quigley-Hein index): the Toothp
 
 ## 6. Related Work
 
-- [[periodontics/rajwani-2020-manual-toothbrushing-techniques-plaque-gingivitis-sr]] — systematic review of manual toothbrushing techniques that cites this trial as primary evidence.
-- [[periodontics/lee-2020-watanabe-toothpick-method-srp-diabetic-periodontitis-rct]] — later RCT applying the Watanabe Toothpick method clinically (with SRP) in diabetic periodontitis.
+- [[periodontics/oral-hygiene-instruction/rajwani-2020-manual-toothbrushing-techniques-plaque-gingivitis-sr]] — systematic review of manual toothbrushing techniques that cites this trial as primary evidence.
+- [[periodontics/oral-hygiene-instruction/lee-2020-watanabe-toothpick-method-srp-diabetic-periodontitis-rct]] — later RCT applying the Watanabe Toothpick method clinically (with SRP) in diabetic periodontitis.
 
 ## 7. Glossary
 

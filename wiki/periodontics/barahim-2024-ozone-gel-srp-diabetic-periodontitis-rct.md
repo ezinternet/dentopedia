@@ -85,5 +85,5 @@ The trial is consistent with prior meta-analytic evidence that adjunctive ozone 
 - [[periodontics/deepthi-2020-ozone-therapy-periodontics-meta-analysis]] — applies-to: this RCT puts the meta-analysis's small/NS adjunctive-ozone effect to the test in a diabetic stage III cohort; same direction (clinically modest), adds radiographic intrabony-defect outcomes.
 - [[periodontics/baeza-2020-effect-periodontal-treatment-patients-periodontitis]] — reinforces: both show NSPT/SRP improves HbA1c in T2DM; here ozone adds no further glycemic benefit.
 - [[periodontics/simpson-2022-treatment-periodontitis-glycaemic-control-people]] — reinforces: periodontal treatment improves glycemic control in diabetes; this trial's significant HbA1c drop in both arms is consistent.
-- [[periodontics/ramanauskaite-2020-antiseptics-adjuncts-scaling-root-planing]] — related: adjuncts to SRP and their (often limited) added clinical value.
-- [[periodontics/smiley-2015-nonsurgical-periodontitis-srp-guideline]] — related: SRP as the non-surgical standard of care.
+- [[periodontics/non-surgical-instrumentation/ramanauskaite-2020-antiseptics-adjuncts-scaling-root-planing]] — related: adjuncts to SRP and their (often limited) added clinical value.
+- [[periodontics/non-surgical-instrumentation/smiley-2015-nonsurgical-periodontitis-srp-guideline]] — related: SRP as the non-surgical standard of care.

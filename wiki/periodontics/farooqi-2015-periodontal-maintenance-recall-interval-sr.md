@@ -54,5 +54,5 @@ All 8 studies assessed compliance with a recommended 3–6 month PM interval as 
 
 ## Related Papers
 - [[periodontics/jung-2019-periodontitis-spt-disease-progression-sr]] — disease stability under SPT; smoking and compliance as predictors
-- [[periodontics/meseli-2016-probing-depth-srp-response-periodontitis]] — SRP baseline response; determines maintenance needs
+- [[periodontics/non-surgical-instrumentation/meseli-2016-probing-depth-srp-response-periodontitis]] — SRP baseline response; determines maintenance needs
 - [[periodontics/marty-2024-implant-treated-periodontitis-sr-ma]] — consequences of inadequate maintenance for implant patients

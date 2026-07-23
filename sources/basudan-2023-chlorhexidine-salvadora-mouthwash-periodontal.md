@@ -80,7 +80,7 @@ CHX와 miswak는 비흡연자에서 NSPT 후 항염 효과 동등하나 CHX는 �
 
 ## 6. Related Work
 
-- [[periodontics/james-2017-chlorhexidine-mouthrinse-adjunctive-gingival]] — Cochrane; 0.12% CHX 포함 SR+MA
+- [[periodontics/oral-hygiene-instruction/james-2017-chlorhexidine-mouthrinse-adjunctive-gingival]] — Cochrane; 0.12% CHX 포함 SR+MA
 - [[periodontics/apatzidou-2022-cigarette-smoking-periodontal-implant-review]] — 흡연과 치주 관계
 
 ## 7. Glossary

@@ -110,7 +110,7 @@ Today, GCF is a **research and monitoring** medium, not a stand-alone diagnostic
 
 ## Papers Synthesized
 
-- [[periodontics/donertas-2026-gbt-subgingival-debridement-gcf-biomarkers]] — RCT (n=80): GCF IL-1β as a treatment-response outcome; GBT > conventional on GI/PI/IL-1β, not TNF-α/IL-10/MMP-8.
+- [[periodontics/non-surgical-instrumentation/donertas-2026-gbt-subgingival-debridement-gcf-biomarkers]] — RCT (n=80): GCF IL-1β as a treatment-response outcome; GBT > conventional on GI/PI/IL-1β, not TNF-α/IL-10/MMP-8.
 - [[periodontics/cosin-villanueva-2024-micrornas-gingival-crevicular-fluid-periodontal]] — SR (16 studies): the epigenetic (miRNA) diagnostic layer; miR-146a/200b/223/23a acceptable (AUC > 0.8), miR-203 not.
 - [[periodontics/fadli-2024-oral-gingival-crevicular-fluid-jawbone-turnover]] — scoping review (37 studies): GCF vs saliva bone-turnover map across periodontitis/MRONJ/osteoporosis; GCF panel = IL-1β/sclerostin/OPG/IL-34.
 - [[periodontics/foroughi-2025-bridging-oral-systemic-health-periodontal]] — narrative review: GCF RANKL/OPG + MMP-8/-9 within the oral–systemic biomarker landscape; labside → chairside → AI-multiplex diagnostics.

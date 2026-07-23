@@ -69,6 +69,6 @@ Wooden toothpicks are one of the most widely used interdental-cleaning tools, bu
 
 ## Related Papers
 
-- [[periodontics/lee-2020-watanabe-toothpick-method-srp-diabetic-periodontitis-rct]] — opposite-direction "toothpick": the Watanabe *brushing* method that stimulates gingival healing (this paper is about the *wooden* toothpick that damages papilla; same word, unrelated).
-- [[periodontics/rajwani-2020-manual-toothbrushing-techniques-plaque-gingivitis-sr]] — manual toothbrushing technique SR including the toothpick (Watanabe) *brushing* method.
+- [[periodontics/oral-hygiene-instruction/lee-2020-watanabe-toothpick-method-srp-diabetic-periodontitis-rct]] — opposite-direction "toothpick": the Watanabe *brushing* method that stimulates gingival healing (this paper is about the *wooden* toothpick that damages papilla; same word, unrelated).
+- [[periodontics/oral-hygiene-instruction/rajwani-2020-manual-toothbrushing-techniques-plaque-gingivitis-sr]] — manual toothbrushing technique SR including the toothpick (Watanabe) *brushing* method.
 - [[food-impaction/liang-2020-prevalence-associated-factors-retrospective]] — interproximal contact / papilla and food-impaction context.

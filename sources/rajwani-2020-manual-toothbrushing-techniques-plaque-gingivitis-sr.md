@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-This is the evidence backbone for the **toothpick method (Watanabe method) of manual toothbrushing** — the systematic review that benchmarks the toothpick method head-to-head against Bass / modified Bass / Charter's / Fones / scrub / roll / Stillman for plaque and gingivitis. It contextualizes our powered-vs-manual technique pages: where [[periodontics/liu-2026-powered-manual-toothbrushes-orthodontic-sr-ma]] and [[periodontics/luo-2026-electric-toothbrush-technologies-plaque-gingivitis-nma]] rank *powered* brush technologies, this Rajwani 2020 SR establishes that among *manual* techniques no single method has proven superior (excessive between-study heterogeneity), which is the comparator baseline those powered-brush SMDs are measured against.
+This is the evidence backbone for the **toothpick method (Watanabe method) of manual toothbrushing** — the systematic review that benchmarks the toothpick method head-to-head against Bass / modified Bass / Charter's / Fones / scrub / roll / Stillman for plaque and gingivitis. It contextualizes our powered-vs-manual technique pages: where [[periodontics/oral-hygiene-instruction/liu-2026-powered-manual-toothbrushes-orthodontic-sr-ma]] and [[periodontics/oral-hygiene-instruction/luo-2026-electric-toothbrush-technologies-plaque-gingivitis-nma]] rank *powered* brush technologies, this Rajwani 2020 SR establishes that among *manual* techniques no single method has proven superior (excessive between-study heterogeneity), which is the comparator baseline those powered-brush SMDs are measured against.
 
 ## Three-line Summary
 
@@ -93,8 +93,8 @@ Per-study findings:
 
 ## 6. Related Work
 
-- [[periodontics/luo-2026-electric-toothbrush-technologies-plaque-gingivitis-nma]] — ranks *powered* brush technologies (O-R > sonic > ultrasonic); Rajwani is the *manual*-technique comparator baseline.
-- [[periodontics/liu-2026-powered-manual-toothbrushes-orthodontic-sr-ma]] — powered vs manual in ortho patients (Rajwani explicitly excludes ortho).
+- [[periodontics/oral-hygiene-instruction/luo-2026-electric-toothbrush-technologies-plaque-gingivitis-nma]] — ranks *powered* brush technologies (O-R > sonic > ultrasonic); Rajwani is the *manual*-technique comparator baseline.
+- [[periodontics/oral-hygiene-instruction/liu-2026-powered-manual-toothbrushes-orthodontic-sr-ma]] — powered vs manual in ortho patients (Rajwani explicitly excludes ortho).
 - [[periodontics/tsilingaridis-2026-biofilm-induced-gingivitis-children-adolescents]] — biofilm-induced gingivitis & oral hygiene in <18 (Rajwani excludes <17), adjacent prevention evidence.
 
 ## 7. Glossary

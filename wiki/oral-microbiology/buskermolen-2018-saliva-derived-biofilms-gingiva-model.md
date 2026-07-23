@@ -43,4 +43,4 @@ In vitro reconstructed human gingiva on collagen hydrogel; saliva-derived commen
 - More physiologic than single-species models.
 
 ## Related Papers
-- [[periodontics/cyris-2024-guided-biofilm-therapy-versus-conventional]] — reinforces (clinical biofilm management; this supplies the mechanistic in vitro layer)
+- [[periodontics/non-surgical-instrumentation/cyris-2024-guided-biofilm-therapy-versus-conventional]] — reinforces (clinical biofilm management; this supplies the mechanistic in vitro layer)

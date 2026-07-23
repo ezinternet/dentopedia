@@ -87,7 +87,7 @@ Within-group: p<0.001 for all parameters. Between-group: p>0.05 (no significant 
 
 ## Related Papers
 
-- [[periodontics/ramanauskaite-2020-antiseptics-adjuncts-scaling-root-planing]] — this paper extends local adjunct evidence from antiseptics to locally delivered antibiotics
-- [[periodontics/smiley-2015-nonsurgical-periodontitis-srp-guideline]] — foundational NSPT guideline context for adjunctive strategies
+- [[periodontics/non-surgical-instrumentation/ramanauskaite-2020-antiseptics-adjuncts-scaling-root-planing]] — this paper extends local adjunct evidence from antiseptics to locally delivered antibiotics
+- [[periodontics/non-surgical-instrumentation/smiley-2015-nonsurgical-periodontitis-srp-guideline]] — foundational NSPT guideline context for adjunctive strategies
 - [[periodontics/herrera-2022-treatment-stage-iv-periodontitis-efp]] — EFP 2022 staging/grading framework used for patient classification; provides systemic antibiotic restriction context
 - [[periodontics/barahim-2024-ozone-gel-srp-diabetic-periodontitis-rct]] — parallel local adjunct RCT paradigm (ozone vs adjunct); contrasts with antibiotic approach

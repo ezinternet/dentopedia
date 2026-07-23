@@ -44,5 +44,5 @@ Systematic literature search + international Delphi expert consensus.
 New classification replaces 1999 system. Stage IV: tooth loss attributable to periodontitis + mastication dysfunction. Grading incorporates systemic disease impact.
 
 ## Related Papers
-- [[periodontics/smiley-2015-nonsurgical-periodontitis-srp-guideline]] — related
+- [[periodontics/non-surgical-instrumentation/smiley-2015-nonsurgical-periodontitis-srp-guideline]] — related
 - [[periodontics/manresa-2018-supportive-periodontal-therapy-cochrane-sr]] — related

@@ -15,7 +15,7 @@ text_filename: benavides-reyes-2025-probiotics-periodontitis-ma.txt
 
 ## Why Ingested
 
-Complements [[periodontics/mendoca-2024-probiotics-nspt-nma]] with a parallel MA specifically quantifying plaque index (PI) and BOP responses to probiotics in both gingivitis and periodontitis — includes 24 RCTs (951 participants) and reveals time-dependency of probiotic benefits, providing complementary evidence to the NMA.
+Complements [[periodontics/host-modulation/mendoca-2024-probiotics-nspt-nma]] with a parallel MA specifically quantifying plaque index (PI) and BOP responses to probiotics in both gingivitis and periodontitis — includes 24 RCTs (951 participants) and reveals time-dependency of probiotic benefits, providing complementary evidence to the NMA.
 
 ## Three-line Summary
 

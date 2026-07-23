@@ -15,7 +15,7 @@ text_filename: cosin-villanueva-2024-micrornas-gingival-crevicular-fluid-periodo
 
 ## Why Ingested
 
-GCF는 이미 periodontal biomarker matrix로 위키에 있으나([[periodontics/donertas-2026-gbt-subgingival-debridement-gcf-biomarkers]]는 GBT 후 단백질/사이토카인 GCF biomarker를 다룸), 그 GCF 안의 epigenetic 층(miRNA)을 진단 biomarker로 정리한 페이지가 없었다. 이 PRISMA SR은 GCF miRNA 16편을 종합해 어떤 miRNA가 진단적으로 쓸 만한지(miR-146a/200b/223/23a acceptable, miR-203 not)를 명시해 GCF biomarker 근거를 분자 층위로 확장한다.
+GCF는 이미 periodontal biomarker matrix로 위키에 있으나([[periodontics/non-surgical-instrumentation/donertas-2026-gbt-subgingival-debridement-gcf-biomarkers]]는 GBT 후 단백질/사이토카인 GCF biomarker를 다룸), 그 GCF 안의 epigenetic 층(miRNA)을 진단 biomarker로 정리한 페이지가 없었다. 이 PRISMA SR은 GCF miRNA 16편을 종합해 어떤 miRNA가 진단적으로 쓸 만한지(miR-146a/200b/223/23a acceptable, miR-203 not)를 명시해 GCF biomarker 근거를 분자 층위로 확장한다.
 
 ## Three-line Summary
 
@@ -81,7 +81,7 @@ GCF miRNA는 분자 층위 진단 잠재력 있으나 표준 프로토콜 부재
 
 ## 6. Related Work
 
-- Extends GCF-biomarker evidence held in the wiki ([[periodontics/donertas-2026-gbt-subgingival-debridement-gcf-biomarkers]]) from proteins/cytokines to the epigenetic (miRNA) layer.
+- Extends GCF-biomarker evidence held in the wiki ([[periodontics/non-surgical-instrumentation/donertas-2026-gbt-subgingival-debridement-gcf-biomarkers]]) from proteins/cytokines to the epigenetic (miRNA) layer.
 - Connects periodontitis miRNA biology to systemic low-grade-inflammation comorbidities (T2DM, CVD, RA).
 
 ## 7. Glossary

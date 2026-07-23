@@ -14,7 +14,7 @@ text_filename: mun-2013-toothpick-method-dental-hygiene-mental-disorders-rct.txt
 
 ## Why Ingested
 
-This RCT applies the toothpick method as one component of a structured, hygienist-delivered dental hygiene care programme for patients with mental disorders — a special-needs population — extending the method beyond healthy adults and beyond the periodontal-maintenance setting. It complements [[periodontics/lee-2020-watanabe-toothpick-method-srp-diabetic-periodontitis-rct]], which tested the Watanabe toothpick method in diabetic periodontitis patients, by showing the technique can be embedded in a broader behavioural/educational care package for a psychiatrically vulnerable group.
+This RCT applies the toothpick method as one component of a structured, hygienist-delivered dental hygiene care programme for patients with mental disorders — a special-needs population — extending the method beyond healthy adults and beyond the periodontal-maintenance setting. It complements [[periodontics/oral-hygiene-instruction/lee-2020-watanabe-toothpick-method-srp-diabetic-periodontitis-rct]], which tested the Watanabe toothpick method in diabetic periodontitis patients, by showing the technique can be embedded in a broader behavioural/educational care package for a psychiatrically vulnerable group.
 
 Caveat: this is an **abstract-only** record (full text not retrieved). The toothpick method was just **one element** of a multi-part programme (10-min flash-based video + brochures + toothpick method), so its isolated contribution to the plaque reduction cannot be separated from the educational components.
 
@@ -76,8 +76,8 @@ oral dryness improved, but stimulated saliva and caries activity did not.
 
 ## 6. Related Work
 
-- [[periodontics/lee-2020-watanabe-toothpick-method-srp-diabetic-periodontitis-rct]] — Watanabe toothpick method as an adjunct in another medically compromised group (diabetic periodontitis).
-- [[periodontics/rajwani-2020-manual-toothbrushing-techniques-plaque-gingivitis-sr]] — systematic review of manual plaque-control techniques (context for mechanical plaque control efficacy).
+- [[periodontics/oral-hygiene-instruction/lee-2020-watanabe-toothpick-method-srp-diabetic-periodontitis-rct]] — Watanabe toothpick method as an adjunct in another medically compromised group (diabetic periodontitis).
+- [[periodontics/oral-hygiene-instruction/rajwani-2020-manual-toothbrushing-techniques-plaque-gingivitis-sr]] — systematic review of manual plaque-control techniques (context for mechanical plaque control efficacy).
 
 ## 7. Glossary
 

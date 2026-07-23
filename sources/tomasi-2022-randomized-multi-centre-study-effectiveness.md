@@ -15,7 +15,7 @@ text_filename: tomasi-2022-randomized-multi-centre-study-effectiveness.txt
 
 ## Why Ingested
 
-Ingested as part of a 2026-07-20 sweep on dental hygienist scaling technique (치위생사 스케일링 술기, requested by the user); this multi-centre field trial supplies effectiveness-level (not just efficacy-level) evidence that dental-hygienist-delivered non-surgical periodontal therapy in ordinary general practice achieves outcomes matching controlled trials. It **extends** [[periodontics/unknown-2009-non-surgical-and-surgical-periodontal]] — that 2009 narrative review established the non-surgical-first treatment hierarchy (PPD reduction, re-evaluation-driven decision to add surgery) from earlier landmark studies; this paper provides a large-sample, real-world randomized validation of that same non-surgical phase, specifically as delivered by dental hygienists rather than in an efficacy-trial setting.
+Ingested as part of a 2026-07-20 sweep on dental hygienist scaling technique (치위생사 스케일링 술기, requested by the user); this multi-centre field trial supplies effectiveness-level (not just efficacy-level) evidence that dental-hygienist-delivered non-surgical periodontal therapy in ordinary general practice achieves outcomes matching controlled trials. It **extends** [[periodontics/non-surgical-instrumentation/unknown-2009-non-surgical-and-surgical-periodontal]] — that 2009 narrative review established the non-surgical-first treatment hierarchy (PPD reduction, re-evaluation-driven decision to add surgery) from earlier landmark studies; this paper provides a large-sample, real-world randomized validation of that same non-surgical phase, specifically as delivered by dental hygienists rather than in an efficacy-trial setting.
 
 ## Three-line Summary
 
@@ -92,7 +92,7 @@ Efficacy-trial-level non-surgical periodontal outcomes reproduce in real-world d
 - Smoking as an independent negative predictor of pocket closure is consistent with **D'Aiuto et al., Tomasi et al. (prior work), and Wan et al.**
 - Reduced treatment response in older patients parallels a retrospective finding by **Trombelli et al.**
 - Companion patient-reported-outcome data (treatment discomfort/pain, no significant between-group difference) from the same cohort reported by **Liss et al.**, who also describe the DH workforce characteristics (average 13 years' experience).
-- In this wiki, extends the treatment-hierarchy framework of [[periodontics/unknown-2009-non-surgical-and-surgical-periodontal]] with contemporary, hygienist-delivered, effectiveness-scale evidence for the non-surgical therapy phase.
+- In this wiki, extends the treatment-hierarchy framework of [[periodontics/non-surgical-instrumentation/unknown-2009-non-surgical-and-surgical-periodontal]] with contemporary, hygienist-delivered, effectiveness-scale evidence for the non-surgical therapy phase.
 
 ## 7. Glossary
 

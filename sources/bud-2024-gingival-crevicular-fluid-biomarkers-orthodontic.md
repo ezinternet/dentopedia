@@ -15,7 +15,7 @@ text_filename: bud-2024-gingival-crevicular-fluid-biomarkers-orthodontic.txt
 
 ## Why Ingested
 
-Orthodontic tooth movement (OTM) is driven by the periodontal/bone remodeling cascade that pages like [[orthodontics/tsolakis-2023-orthodontic-tooth-movement-molecular-narrative]] and [[orthodontics/jeon-2021-orthodontic-tooth-movement-mechanisms-animal]] describe at the cellular/molecular level; this review extends that mechanism story into a *chairside monitoring* modality — the specific GCF biomarkers (PGE2, TNF-α, IL-1β, RANKL/OPG, ALP, MMPs, osteocalcin, NTx) whose GCF levels track pressure- vs tension-side remodeling and could be sampled to monitor OTM. It also connects to GCF-as-diagnostic-fluid work in periodontics ([[periodontics/donertas-2026-gbt-subgingival-debridement-gcf-biomarkers]]).
+Orthodontic tooth movement (OTM) is driven by the periodontal/bone remodeling cascade that pages like [[orthodontics/tsolakis-2023-orthodontic-tooth-movement-molecular-narrative]] and [[orthodontics/jeon-2021-orthodontic-tooth-movement-mechanisms-animal]] describe at the cellular/molecular level; this review extends that mechanism story into a *chairside monitoring* modality — the specific GCF biomarkers (PGE2, TNF-α, IL-1β, RANKL/OPG, ALP, MMPs, osteocalcin, NTx) whose GCF levels track pressure- vs tension-side remodeling and could be sampled to monitor OTM. It also connects to GCF-as-diagnostic-fluid work in periodontics ([[periodontics/non-surgical-instrumentation/donertas-2026-gbt-subgingival-debridement-gcf-biomarkers]]).
 
 ## Three-line Summary
 

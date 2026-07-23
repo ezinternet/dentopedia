@@ -15,7 +15,7 @@ text_filename: jungbauer-2026-naocl-hyaluronic-acid-subgingival-reinstrumentatio
 
 ## Why Ingested
 
-기존 [[periodontics/khattri-2020-adjunctive-systemic-antimicrobials-non-surgical-treatment]]는 비외과적 치주치료에 전신 항균제를 보조 사용했을 때의 근거를 다루지만, 보조제별 권고가 불충분하다는 한계가 있다. 본 RCT (Jungbauer 2026)는 SPC(유지치료) 단계의 잔존 포켓에 대한 **재기구조작(subgingival re-instrumentation, SRI)** 에 국소 보조제(아미노산-차아염소산나트륨 AA-NaOCl + 가교 히알루론산 xHA, "clean and seal")를 더했을 때의 추가 임상·미생물 효과를 직접 측정해, 국소 보조제 근거를 보강한다. 깊은 포켓에서 효과가 더 크다는 임상 의사결정 신호를 제공.
+기존 [[periodontics/non-surgical-instrumentation/khattri-2020-adjunctive-systemic-antimicrobials-non-surgical-treatment]]는 비외과적 치주치료에 전신 항균제를 보조 사용했을 때의 근거를 다루지만, 보조제별 권고가 불충분하다는 한계가 있다. 본 RCT (Jungbauer 2026)는 SPC(유지치료) 단계의 잔존 포켓에 대한 **재기구조작(subgingival re-instrumentation, SRI)** 에 국소 보조제(아미노산-차아염소산나트륨 AA-NaOCl + 가교 히알루론산 xHA, "clean and seal")를 더했을 때의 추가 임상·미생물 효과를 직접 측정해, 국소 보조제 근거를 보강한다. 깊은 포켓에서 효과가 더 크다는 임상 의사결정 신호를 제공.
 
 ## Three-line Summary
 
@@ -90,10 +90,10 @@ effect greatest in deeper pockets.
 
 ## 6. Related Work
 
-- Adjunctive systemic antimicrobials to non-surgical therapy — [[periodontics/khattri-2020-adjunctive-systemic-antimicrobials-non-surgical-treatment]].
-- GBT/subgingival debridement and GCF biomarkers — [[periodontics/donertas-2026-gbt-subgingival-debridement-gcf-biomarkers]].
-- Mechanical instrumentation effects on root surfaces — [[periodontics/dvorska-2026-mechanical-instrumentation-hard-tissue-sr]].
-- PD as predictor of SRP response — [[periodontics/meseli-2016-probing-depth-srp-response-periodontitis]].
+- Adjunctive systemic antimicrobials to non-surgical therapy — [[periodontics/non-surgical-instrumentation/khattri-2020-adjunctive-systemic-antimicrobials-non-surgical-treatment]].
+- GBT/subgingival debridement and GCF biomarkers — [[periodontics/non-surgical-instrumentation/donertas-2026-gbt-subgingival-debridement-gcf-biomarkers]].
+- Mechanical instrumentation effects on root surfaces — [[periodontics/non-surgical-instrumentation/dvorska-2026-mechanical-instrumentation-hard-tissue-sr]].
+- PD as predictor of SRP response — [[periodontics/non-surgical-instrumentation/meseli-2016-probing-depth-srp-response-periodontitis]].
 
 ## 7. Glossary
 

@@ -14,7 +14,7 @@ text_filename: suvan-2025-complex-world-toothpaste-diversity-meeting.txt
 
 ## Why Ingested
 
-치면세균막(biofilm)·치은 건강 관련 엄브렐라 리뷰 요청 중 발견. 치약 활성성분의 유효성을 6개 구강 상태(치은 건강, 우식, 상아질 과민증, 치아 표면 손실, 구취, 미백)에 걸쳐 종합한 엄브렐라 리뷰로, 치면세균막/치은염 관리 근거인 [[periodontics/valkenburg-2019-plaque-control-dentifrices-evidence]]를 보강한다. PMC 전문 미확보(초록만) — full_text: false.
+치면세균막(biofilm)·치은 건강 관련 엄브렐라 리뷰 요청 중 발견. 치약 활성성분의 유효성을 6개 구강 상태(치은 건강, 우식, 상아질 과민증, 치아 표면 손실, 구취, 미백)에 걸쳐 종합한 엄브렐라 리뷰로, 치면세균막/치은염 관리 근거인 [[periodontics/oral-hygiene-instruction/valkenburg-2019-plaque-control-dentifrices-evidence]]를 보강한다. PMC 전문 미확보(초록만) — full_text: false.
 
 ## Three-line Summary
 
@@ -65,7 +65,7 @@ Clinical implication: toothpaste selection should be tailored to patient-specifi
 
 ## 6. Related Work
 
-- [[periodontics/valkenburg-2019-plaque-control-dentifrices-evidence]] — dentifrice plaque/gingivitis control evidence (SR+MA), same clinical domain (biofilm/gingival health via toothpaste).
+- [[periodontics/oral-hygiene-instruction/valkenburg-2019-plaque-control-dentifrices-evidence]] — dentifrice plaque/gingivitis control evidence (SR+MA), same clinical domain (biofilm/gingival health via toothpaste).
 - [[caries/chen-2026-root-caries-toothpastes-network-meta-analysis]] — toothpaste efficacy specific to root caries.
 - [[dentin-hypersensitivity/jkda-2022-60-4-004]] — dentine hypersensitivity management overlap.
 

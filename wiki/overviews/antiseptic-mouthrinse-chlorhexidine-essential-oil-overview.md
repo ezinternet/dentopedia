@@ -103,10 +103,10 @@ Every rinse in this synthesis controls plaque and inflammation but **does not im
 
 ## Related Papers
 
-- [[periodontics/figuero-2019-adjunctive-antiplaque-chemical-agents-gingivitis]] — NMA (53 RCTs) ranking agents: EO ≥ CHX ≥0.10% ≈ triclosan; establishes CHX efficacy threshold
-- [[periodontics/james-2017-chlorhexidine-mouthrinse-adjunctive-gingival]] — Cochrane SR+MA: CHX plaque SMD −1.45, staining SMD +1.07, no concentration superiority
-- [[periodontics/escribano-2010-low-concentration-chlorhexidine-periodontitis]] — RCT: 0.05% CHX+CPC effective on plaque/bleeding/pathogens in non-compliant SPC, no PD gain
+- [[periodontics/oral-hygiene-instruction/figuero-2019-adjunctive-antiplaque-chemical-agents-gingivitis]] — NMA (53 RCTs) ranking agents: EO ≥ CHX ≥0.10% ≈ triclosan; establishes CHX efficacy threshold
+- [[periodontics/oral-hygiene-instruction/james-2017-chlorhexidine-mouthrinse-adjunctive-gingival]] — Cochrane SR+MA: CHX plaque SMD −1.45, staining SMD +1.07, no concentration superiority
+- [[periodontics/oral-hygiene-instruction/escribano-2010-low-concentration-chlorhexidine-periodontitis]] — RCT: 0.05% CHX+CPC effective on plaque/bleeding/pathogens in non-compliant SPC, no PD gain
 - [[periodontics/solderer-2019-chlorhexidine-rinses-periodontal-surgery]] — SR: post-surgical CHX, 0.12%+ADS best benefit/side-effect ratio, no PD improvement
-- [[periodontics/basudan-2023-chlorhexidine-salvadora-mouthwash-periodontal]] — RCT: 0.12% CHX = miswak for inflammation, CHX superior for Candida, smoking blunts benefit
+- [[periodontics/oral-hygiene-instruction/basudan-2023-chlorhexidine-salvadora-mouthwash-periodontal]] — RCT: 0.12% CHX = miswak for inflammation, CHX superior for Candida, smoking blunts benefit
 - [[oral-microbiology/min-2024-essential-oil-mouthrinses-plaque-microbiome]] — RCT (spike-in metagenomics): EO resets dysbiotic plaque, ≥37% gingivitis reduction (industry-funded)
 - [[oral-microbiology/plummer-2022-listerine-mouthwash-oropharyngeal-microbiota]] — RCT: 12-week Listerine Zero microbiota-neutral (vs CHX's known disruption)

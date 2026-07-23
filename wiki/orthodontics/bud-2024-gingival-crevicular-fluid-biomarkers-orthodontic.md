@@ -80,4 +80,4 @@ Narrative (non-systematic) review; no meta-analysis or pooled effect sizes. Elec
 - [[orthodontics/krishnan-2006-cellular-molecular-tissue-orthodontic-force]] — cellular/molecular tissue response to orthodontic force
 - [[orthodontics/nanda-2012-orthodontic-force-biological-response-review]] — biological response to orthodontic force
 - [[orthodontics/li-2021-periodontium-orthodontic-tooth-movement-biomechanics]] — periodontal biomechanics of OTM
-- [[periodontics/donertas-2026-gbt-subgingival-debridement-gcf-biomarkers]] — GCF biomarkers as a periodontal-monitoring fluid (shared methodology)
+- [[periodontics/non-surgical-instrumentation/donertas-2026-gbt-subgingival-debridement-gcf-biomarkers]] — GCF biomarkers as a periodontal-monitoring fluid (shared methodology)

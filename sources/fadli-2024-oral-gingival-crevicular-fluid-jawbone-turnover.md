@@ -15,7 +15,7 @@ text_filename: fadli-2024-oral-gingival-crevicular-fluid-jawbone-turnover.txt
 
 ## Why Ingested
 
-[[periodontics/donertas-2026-gbt-subgingival-debridement-gcf-biomarkers]] tracks specific GCF cytokine responses to debridement; this scoping review supplies the broader biomarker landscape — mapping which GCF/saliva bone-turnover markers (IL-1β, sclerostin, OPG, IL-34, OC, TNF-α, IL-6, MMP-9) span periodontitis, MRONJ, and osteoporosis, and where they overlap. It also cross-connects periodontitis biomarkers to MRONJ risk, extending [[drug/mronj/kwon-2023-mronj-position-papers-what-changed]] toward non-invasive oral-fluid diagnostics, and to alveolar-bone RANKL/OPG/sclerostin biology in [[bone-biology/xu-2016-sclerostin-wnt-occlusal-hypofunction-alveolar-bone]].
+[[periodontics/non-surgical-instrumentation/donertas-2026-gbt-subgingival-debridement-gcf-biomarkers]] tracks specific GCF cytokine responses to debridement; this scoping review supplies the broader biomarker landscape — mapping which GCF/saliva bone-turnover markers (IL-1β, sclerostin, OPG, IL-34, OC, TNF-α, IL-6, MMP-9) span periodontitis, MRONJ, and osteoporosis, and where they overlap. It also cross-connects periodontitis biomarkers to MRONJ risk, extending [[drug/mronj/kwon-2023-mronj-position-papers-what-changed]] toward non-invasive oral-fluid diagnostics, and to alveolar-bone RANKL/OPG/sclerostin biology in [[bone-biology/xu-2016-sclerostin-wnt-occlusal-hypofunction-alveolar-bone]].
 
 ## Three-line Summary
 

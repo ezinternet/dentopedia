@@ -15,7 +15,7 @@ text_filename: dasilveira-2026-subgingival-irrigation-chemical-agents-nspt-sr-ma
 
 ## Why Ingested
 
-기존 [[periodontics/ramanauskaite-2020-antiseptics-adjuncts-scaling-root-planing]]가 항균제를 SRP 보조로 다룬 반면, 이 2026 SR+MA는 **약제(PVP-I/CHX/EO/OW/BA)를 치은연하 세척(subgingival irrigation)으로 전달**하는 좁은 시나리오만 16편 RCT로 모아, 어떤 약제·전달법(시린지 vs 초음파)·추적기간에서도 PPD·CAL·BOP에 추가 이득이 없음을 보여 "세척 보조"라는 흔한 임상 습관의 근거 결핍을 정량화한다. [[periodontics/khattri-2020-adjunctive-systemic-antimicrobials-non-surgical-treatment]]의 전신 항균제 논의와 대비되는 국소·세척 채널 근거.
+기존 [[periodontics/non-surgical-instrumentation/ramanauskaite-2020-antiseptics-adjuncts-scaling-root-planing]]가 항균제를 SRP 보조로 다룬 반면, 이 2026 SR+MA는 **약제(PVP-I/CHX/EO/OW/BA)를 치은연하 세척(subgingival irrigation)으로 전달**하는 좁은 시나리오만 16편 RCT로 모아, 어떤 약제·전달법(시린지 vs 초음파)·추적기간에서도 PPD·CAL·BOP에 추가 이득이 없음을 보여 "세척 보조"라는 흔한 임상 습관의 근거 결핍을 정량화한다. [[periodontics/non-surgical-instrumentation/khattri-2020-adjunctive-systemic-antimicrobials-non-surgical-treatment]]의 전신 항균제 논의와 대비되는 국소·세척 채널 근거.
 
 ## Three-line Summary
 

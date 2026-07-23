@@ -74,5 +74,5 @@ CHX 겔이 가글보다 약간 우수 (RR 0.47 vs 0.58); 이질성 낮음 (I²=9
 
 ## Related Papers
 
-- [[periodontics/james-2017-chlorhexidine-mouthrinse-adjunctive-gingival]] — CHX 효능 기초 근거 (치은염/치태)
+- [[periodontics/oral-hygiene-instruction/james-2017-chlorhexidine-mouthrinse-adjunctive-gingival]] — CHX 효능 기초 근거 (치은염/치태)
 - [[oral-surgery/third-molar/al-aroomi-2025-cgf-third-molar-postop-sr]] — 사랑니 발치 후 결과 SR

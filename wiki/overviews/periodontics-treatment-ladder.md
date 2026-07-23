@@ -94,8 +94,8 @@ SRP 강한 권고; 전신 독시사이클린 추가 PPD 이득 0.2–0.4 mm(소)
 | Spine paper | Evidence | Key finding |
 |---|---|---|
 | [[periodontics/sanz-2020-treatment-stage-i-iii-periodontitis-efp]] | consensus (EFP S3) | Step-wise protocol — 행동변화 → SRP ± 보조 → 수술 → SPT |
-| [[periodontics/smiley-2015-nonsurgical-periodontitis-srp-guideline]] | sr (가이드라인) | SRP 강력 권고. Doxycycline 추가 PPD 0.2-0.4 mm |
-| [[periodontics/meseli-2016-probing-depth-srp-response-periodontitis]] | prospective (1,672 pocket) | IPD=3mm 제외 전 군 PD 감소 유의. IPD ≥ 7mm 다근치 AG 유의 |
+| [[periodontics/non-surgical-instrumentation/smiley-2015-nonsurgical-periodontitis-srp-guideline]] | sr (가이드라인) | SRP 강력 권고. Doxycycline 추가 PPD 0.2-0.4 mm |
+| [[periodontics/non-surgical-instrumentation/meseli-2016-probing-depth-srp-response-periodontitis]] | prospective (1,672 pocket) | IPD=3mm 제외 전 군 PD 감소 유의. IPD ≥ 7mm 다근치 AG 유의 |
 | [[periodontics/herrera-2022-treatment-stage-iv-periodontitis-efp]] | consensus (EFP S3) | Stage IV — 치주 + 교정·보철 다학제 + 집중 SPT |
 | [[periodontics/meng-2024-nspt-cardiovascular-risk-markers-sr-ma]] | sr+ma (21 RCT) | SRP 후 CRP·IL-6·SBP 유의 감소. Lipids·DBP NS |
 | [[periodontics/barahim-2024-ozone-gel-srp-diabetic-periodontitis-rct]] | rct (n=24) | SRP가 T2DM + stage III에서 핵심 동력; 오존 겔 추가 시 방사선학적 골결손 개선 + 3개월 PPD·VAS 이점 (소규모) |
@@ -324,15 +324,15 @@ SRP 강한 권고; 전신 독시사이클린 추가 PPD 이득 0.2–0.4 mm(소)
 - [[periodontics/alharbi-2019-management-acute-periodontal-abscess-mimicking]] — Case report (n=1, 58-year-old man) of an acute periodontal abscess on a vital mandibular left central incisor that radiographically and clinically mim … (case-report, 2019)
 - [[periodontics/baeza-2020-effect-periodontal-treatment-patients-periodontitis]] — SR+MA of 9 RCTs: scaling and root planing in type 2 diabetics with periodontitis significantly reduced HbA1c (mean difference 0.56% … (sr+ma, 2020)
 - [[periodontics/caton-2018-classification-scheme-periodontal-periimplant-diseases]] — 2017 World Workshop (AAP/EFP) introductory paper establishing the current classification of periodontal and peri-implant diseases: periodontitis stagi … (consensus, 2018)
-- [[periodontics/cyris-2024-guided-biofilm-therapy-versus-conventional]] — Split-mouth RCT (n=60 stage III/IV periodontitis patients, treated by supervised dental students): Guided Biofilm Therapy (erythritol air-polishing + … (rct, 2024)
+- [[periodontics/non-surgical-instrumentation/cyris-2024-guided-biofilm-therapy-versus-conventional]] — Split-mouth RCT (n=60 stage III/IV periodontitis patients, treated by supervised dental students): Guided Biofilm Therapy (erythritol air-polishing + … (rct, 2024)
 - [[periodontics/deepthi-2020-ozone-therapy-periodontics-meta-analysis]] — SR+MA of 7 RCTs (n=13-113 per study) finding ozone as an adjunct to scaling and root planing produced small … (sr+ma, 2020)
 - [[periodontics/dommisch-2026-management-periodontal-abscesses-endodontic-periodontal]] — Systematic review (no meta-analysis; 7 PICOS questions, ~21 included studies) of periodontal abscess and endodontic-periodontal lesion (EPL) managemen … (sr, 2026)
 - [[periodontics/herrera-2014-acute-periodontal-lesions]] — Narrative review (Periodontology 2000) of acute periodontal lesions … (narrative-review, 2014)
 - [[periodontics/jkda-2025-63-11-005]] — Special issue review (보훈공단 중앙보훈병원 치주과 송영우, JKDA 2025): 치주질환 치료의 근거 기반 권장사항 + 전신질환 (심혈관·당뇨) 연관성 강조. (narrative-review, 2025)
 - [[periodontics/john-2017-network-meta-analysis-studies-included]] — Star-shaped network meta-analysis (61 RCTs, 74 comparisons, 9 adjuncts) found no adjunct to SRP statistically superior to another for CAL gain … (sr+ma, 2017)
 - [[periodontics/joseph-2024-systematic-review-meta-analysis-randomized]] — SR+MA of 44 RCTs (search 1995–2023): in periodontitis patients with concurrent systemic conditions (diabetes, CVD, RA, pregnancy, etc.) … (sr+ma, 2024)
-- [[periodontics/khattri-2020-adjunctive-systemic-antimicrobials-non-surgical-treatment]] — Cochrane SR+MA of 45 RCTs: adjunctive systemic antimicrobials (most studied: amoxicillin+metronidazole) added to SRP show only very-low-certainty … (sr+ma, 2020)
-- [[periodontics/ramanauskaite-2020-antiseptics-adjuncts-scaling-root-planing]] — Systematic review + meta-analysis (12 RCTs, follow-up ≥6 mo) finding that sustained-release subgingival antiseptics (gels/chips/varnish) as adjuncts t … (sr+ma, 2020)
+- [[periodontics/non-surgical-instrumentation/khattri-2020-adjunctive-systemic-antimicrobials-non-surgical-treatment]] — Cochrane SR+MA of 45 RCTs: adjunctive systemic antimicrobials (most studied: amoxicillin+metronidazole) added to SRP show only very-low-certainty … (sr+ma, 2020)
+- [[periodontics/non-surgical-instrumentation/ramanauskaite-2020-antiseptics-adjuncts-scaling-root-planing]] — Systematic review + meta-analysis (12 RCTs, follow-up ≥6 mo) finding that sustained-release subgingival antiseptics (gels/chips/varnish) as adjuncts t … (sr+ma, 2020)
 - [[periodontics/simpson-2022-treatment-periodontitis-glycaemic-control-people]] — Cochrane SR+MA (35 RCTs, 3249 randomised participants, mostly type 2 diabetes): periodontal treatment by subgingival instrumentation produced a modera … (sr+ma, 2022)
 - [[periodontics/stahli-2024-clinical-evaluation-novel-protocol-supportive]] — RCT (n=41 SPC patients, 1-year) comparing guided biofilm management (erythritol air-polishing + ultrasonic … (rct, 2024)
 - [[periodontics/wang-2025-ao-aap-consensus-peri-implant-diseases-conditions]] — AO/AAP 2024 international consensus (Oak Brook, Illinois) synthesizing 8 systematic reviews into unified evidence-based recommendations for peri-impla … (consensus, 2025)
@@ -342,8 +342,8 @@ SRP 강한 권고; 전신 독시사이클린 추가 PPD 이득 0.2–0.4 mm(소)
 - [[periodontics/papapanou-2018-periodontitis-classification-consensus-2017]]
 - [[periodontics/sanz-2020-treatment-stage-i-iii-periodontitis-efp]]
 - [[periodontics/herrera-2022-treatment-stage-iv-periodontitis-efp]]
-- [[periodontics/smiley-2015-nonsurgical-periodontitis-srp-guideline]]
-- [[periodontics/meseli-2016-probing-depth-srp-response-periodontitis]]
+- [[periodontics/non-surgical-instrumentation/smiley-2015-nonsurgical-periodontitis-srp-guideline]]
+- [[periodontics/non-surgical-instrumentation/meseli-2016-probing-depth-srp-response-periodontitis]]
 - [[periodontics/meng-2024-nspt-cardiovascular-risk-markers-sr-ma]]
 - [[periodontics/stavropoulos-2021-periodontal-regeneration-intrabony-nma]]
 - [[periodontics/nibali-2016-tooth-loss-furcation-involvement-sr-ma]]
@@ -356,8 +356,8 @@ SRP 강한 권고; 전신 독시사이클린 추가 PPD 이득 0.2–0.4 mm(소)
 - [[periodontics/kim-2024-peri-implant-diseases-consensus-korean-academy-periodontology]] — KAP consensus (한국치주과학회): peri-implantitis 정의·진단·치료 단계 통합
 - [[periodontics/kim-2025-management-peri-implantitis-perspectives]]
 - [[periodontics/grusovin-2022-antibiotics-non-surgical-peri-implantitis-ma]]
-- [[periodontics/jo-2008-management-of-dental-biofilm-through]]
-- [[periodontics/unknown-2009-non-surgical-and-surgical-periodontal]]
+- [[periodontics/oral-hygiene-instruction/jo-2008-management-of-dental-biofilm-through]]
+- [[periodontics/non-surgical-instrumentation/unknown-2009-non-surgical-and-surgical-periodontal]]
 - [[periodontics/apatzidou-2022-cigarette-smoking-periodontal-implant-review]]
 - [[periodontics/abdulkarim-2024-digital-assessment-supracrestal-tissue-attachment]]
 - [[periodontics/huang-2021-clinical-considerations-orthodontically-forced-eruption]]

@@ -14,7 +14,7 @@ text_filename: hussein-2026-subcutaneous-emphysema-subgingival-air-polishing-cas
 
 ## Why Ingested
 
-Documents a serious safety complication — subcutaneous facial emphysema (SFE) — of subgingival glycine air-polishing, a necessary caveat to the largely favorable Guided Biofilm Therapy / air-polishing evidence. Refines [[periodontics/cyris-2024-guided-biofilm-therapy-versus-conventional]] by adding a device-/protocol-specific safety qualifier: SFE can occur even during supportive periodontal therapy at sites without BOP or suppuration, so air-polishing safety must not be generalised across devices and protocols.
+Documents a serious safety complication — subcutaneous facial emphysema (SFE) — of subgingival glycine air-polishing, a necessary caveat to the largely favorable Guided Biofilm Therapy / air-polishing evidence. Refines [[periodontics/non-surgical-instrumentation/cyris-2024-guided-biofilm-therapy-versus-conventional]] by adding a device-/protocol-specific safety qualifier: SFE can occur even during supportive periodontal therapy at sites without BOP or suppuration, so air-polishing safety must not be generalised across devices and protocols.
 
 ## Three-line Summary
 
@@ -65,7 +65,7 @@ Case report: glycine-based subgingival air polishing with a subgingival nozzle i
 
 ## 6. Related Work
 
-- Refines the favorable air-polishing / Guided Biofilm Therapy evidence (see [[periodontics/cyris-2024-guided-biofilm-therapy-versus-conventional]]) with a device-/protocol-specific safety caveat.
+- Refines the favorable air-polishing / Guided Biofilm Therapy evidence (see [[periodontics/non-surgical-instrumentation/cyris-2024-guided-biofilm-therapy-versus-conventional]]) with a device-/protocol-specific safety caveat.
 
 ## 7. Glossary
 

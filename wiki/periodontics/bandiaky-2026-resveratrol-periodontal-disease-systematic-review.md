@@ -80,6 +80,6 @@ In animal ligature-induced periodontitis, resveratrol reduced ABL by **7.09-60.6
 
 ## Related Papers
 
-- [[periodontics/fernandez-2025-coenzyme-q10-nonsurgical-periodontal-sr]] — parallel antioxidant nutraceutical adjunct (CoQ10) to NSPT; same evidence-quality caveats (small heterogeneous trials).
-- [[periodontics/heo-2022-omega-3-fatty-acids-periodontitis-ma]] — omega-3 host-modulation adjunct meta-analysis; complementary dietary anti-inflammatory strategy.
+- [[periodontics/host-modulation/fernandez-2025-coenzyme-q10-nonsurgical-periodontal-sr]] — parallel antioxidant nutraceutical adjunct (CoQ10) to NSPT; same evidence-quality caveats (small heterogeneous trials).
+- [[periodontics/host-modulation/heo-2022-omega-3-fatty-acids-periodontitis-ma]] — omega-3 host-modulation adjunct meta-analysis; complementary dietary anti-inflammatory strategy.
 - [[periodontics/kwon-2021-current-concepts-management-periodontitis]] — overarching periodontitis management framework positioning adjuncts relative to SRP.

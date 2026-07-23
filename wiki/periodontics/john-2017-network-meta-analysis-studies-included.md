@@ -59,5 +59,5 @@ The 2015 ADA Clinical Practice Guideline (Smiley et al.) assembled the most exha
 
 ## Related Papers
 
-- [[periodontics/smiley-2015-nonsurgical-periodontitis-srp-guideline]] — extends the ADA Guideline by comparing its SRP adjuncts head-to-head using the same RCT library.
+- [[periodontics/non-surgical-instrumentation/smiley-2015-nonsurgical-periodontitis-srp-guideline]] — extends the ADA Guideline by comparing its SRP adjuncts head-to-head using the same RCT library.
 - [[evidence-appraisal/shin-wj-2015-systematic-review-meta-analysis-introduction]] — applies the SR/MA and network-meta-analysis (NMA, SUCRA, funnel-plot) methodology described there to a concrete periodontal question.

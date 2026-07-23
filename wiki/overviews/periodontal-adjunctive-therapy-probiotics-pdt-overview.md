@@ -110,7 +110,7 @@ The most methodologically comprehensive probiotic + NSPT RCT to date (double-bli
 
 **Immunological results**: No significant between-group differences in salivary IL-8, IL-1β, MCP-1, or MIF. Chitinase decreased more in the probiotic group (p=0.009). The null cytokine finding is informative: saliva is a diluted matrix; GCF is the recommended matrix for future immunological endpoints.
 
-See [[periodontics/kim-2026-probiotics-nspt-periodontal-db-rct]].
+See [[periodontics/host-modulation/kim-2026-probiotics-nspt-periodontal-db-rct]].
 
 ### Jeon 2026 — Standalone Probiotic in Gingivitis/Incipient Periodontitis
 
@@ -128,7 +128,7 @@ The strain composition and CFU dose of OraCMU are partially recoverable (2.0 × 
 
 **Synthesis**: Both 2026 RCTs converge on the BoP/BOP signal. Standalone probiotics (Jeon) in gingivitis and probiotics as an NSPT adjunct (Kim) both significantly reduce gingival inflammation markers. Neither shows CAL benefit. This suggests the active mechanism operates at the inflammatory/microbiome level rather than producing structural attachment gain — consistent with the NMA ceiling.
 
-See [[periodontics/jeon-2026-probioticcmu-gingivitis-rct]].
+See [[periodontics/host-modulation/jeon-2026-probioticcmu-gingivitis-rct]].
 
 ## Antimicrobial Photodynamic Therapy (aPDT)
 
@@ -155,7 +155,7 @@ Individual phase results: Group 1 (aPDT first, 2 weeks): −28.4% (p<0.0001); af
 
 **Caveat**: This is a **pilot study only**. The authors describe it as hypothesis-generating, and the sample size, 2-week treatment phases, and simplified plaque endpoint (healthy subjects, no clinical periodontal outcomes) mean the result should not be used to recommend aPDT as standard of care. It does justify a powered RCT in periodontitis patients measuring PPD/CAL.
 
-See [[periodontics/gusseva-2026-dual-light-photodynamic-therapy-plaque-rct]].
+See [[periodontics/oral-hygiene-instruction/gusseva-2026-dual-light-photodynamic-therapy-plaque-rct]].
 
 ### aPDT in the NMA Context
 
@@ -196,7 +196,7 @@ da Silveira et al. (2026) performed a PRISMA SR+MA isolating one specific clinic
 
 This **updates and partially overturns Van der Sluijs 2016**, which had reported a slight PVP-I CAL gain not confirmed here. da Silveira frames the negative finding under **antimicrobial-stewardship**: with no demonstrated benefit and given CHX tolerance/resistance concerns, routine adjunctive subgingival irrigation is not supported. The MD of ~0.01–0.09 mm sits *below* even the ~0.3 mm John 2017 NMA ceiling — irrigation as a delivery channel adds nothing.
 
-See [[periodontics/dasilveira-2026-subgingival-irrigation-chemical-agents-nspt-sr-ma]].
+See [[periodontics/non-surgical-instrumentation/dasilveira-2026-subgingival-irrigation-chemical-agents-nspt-sr-ma]].
 
 ### "Clean and Seal" (AA-NaOCl + Cross-linked HA) — the Positive Counterpoint (Jungbauer 2026)
 
@@ -213,7 +213,7 @@ Single-center RCT, n=42 (21/arm), stage III/IV grade B/C in SPC, the two highest
 - **Effect modifier:** PD reduction more pronounced in deeper pockets → use selectively
 - Magnitude is smaller than when the same protocol is used during *initial* therapy (where subgingival instrumentation added 1.1–2.1 mm), because SRI sites are previously-treated non-responders.
 
-See [[periodontics/jungbauer-2026-naocl-hyaluronic-acid-subgingival-reinstrumentation-rct]].
+See [[periodontics/non-surgical-instrumentation/jungbauer-2026-naocl-hyaluronic-acid-subgingival-reinstrumentation-rct]].
 
 ### Reconciling the Two — Delivery Mode Trumps Agent
 
@@ -281,7 +281,7 @@ A crossover RCT (n=11) compared 3% erythrosine (FD&C Red No. 3), 3% D&C Red No. 
 
 **Regulatory context**: The U.S. FDA banned erythrosine in food and orally ingested drugs effective 15 January 2025 (carcinogenicity in male rats). D&C Red No. 33 is already FDA-approved in oral-care products and is the practical replacement. This is relevant in any periodontal hygiene instruction workflow where plaque disclosure aids patient feedback.
 
-See [[periodontics/sooampon-2026-dc-red-33-erythrosine-plaque-disclosure-rct]].
+See [[periodontics/oral-hygiene-instruction/sooampon-2026-dc-red-33-erythrosine-plaque-disclosure-rct]].
 
 ### Electric vs Manual Toothbrush in Children — Zini 2026
 
@@ -289,7 +289,7 @@ See [[periodontics/sooampon-2026-dc-red-33-erythrosine-plaque-disclosure-rct]].
 
 **Relevance**: mechanical plaque control is the foundational layer on which all adjuncts (probiotics, aPDT, chemical agents) layer. Ensuring patients use effective mechanical tools is prerequisite; adjuncts add marginal increments on top. In pediatric patients whose manual dexterity is developing, powered brush superiority may be clinically meaningful before any adjunct is considered.
 
-See [[periodontics/zini-2026-electric-vs-manual-toothbrush-children-plaque-rct]].
+See [[periodontics/oral-hygiene-instruction/zini-2026-electric-vs-manual-toothbrush-children-plaque-rct]].
 
 ## Gaps & Limitations
 
@@ -314,13 +314,13 @@ See [[periodontics/zini-2026-electric-vs-manual-toothbrush-children-plaque-rct]]
 ## Related Papers
 
 - [[periodontics/john-2017-network-meta-analysis-studies-included]] — benchmark NMA establishing the ~0.3 mm CAL ceiling and no-adjunct-dominance finding; contextualizes all 2026 data
-- [[periodontics/kim-2026-probiotics-nspt-periodontal-db-rct]] — primary probiotic + NSPT RCT; BoP and PPD ≥5 mm outcomes, 16S + metagenomics
-- [[periodontics/jeon-2026-probioticcmu-gingivitis-rct]] — standalone probiotic in gingivitis/incipient periodontitis; GI and BOP outcomes
-- [[periodontics/gusseva-2026-dual-light-photodynamic-therapy-plaque-rct]] — dual-light home-use aPDT pilot; plaque control in healthy adults
-- [[periodontics/sooampon-2026-dc-red-33-erythrosine-plaque-disclosure-rct]] — plaque disclosure dye substitution; peripheral clinical hygiene context
-- [[periodontics/zini-2026-electric-vs-manual-toothbrush-children-plaque-rct]] — mechanical plaque control baseline; pediatric electric vs manual RCT
-- [[periodontics/dasilveira-2026-subgingival-irrigation-chemical-agents-nspt-sr-ma]] — chemical-agent subgingival irrigation SR+MA (16 RCTs); null vs water/saline, reaffirms NMA ceiling and antimicrobial stewardship against routine irrigation
-- [[periodontics/jungbauer-2026-naocl-hyaluronic-acid-subgingival-reinstrumentation-rct]] — "clean and seal" (AA-NaOCl + cross-linked HA) adjunct to SRI in maintenance; positive ~0.5 mm PD / 0.57 mm CAL gain, doubled pocket closure — delivery-mode counterpoint to da Silveira's null irrigation
-- [[periodontics/mendoca-2024-probiotics-nspt-nma]] — network MA of 33 RCTs (1290 patients) ranking probiotic strains as PMPR adjuncts; *L. reuteri* the only strain with long-term benefit; very low certainty in 92% of comparisons due to star topology (9% direct evidence)
-- [[periodontics/benavides-reyes-2025-probiotics-periodontitis-ma]] — pairwise MA of 24 RCTs (951 participants); periodontitis PI and BOP significant, PPD non-significant overall, effects time-dependent; gingivitis null with I²=94–96% — the conservative counterweight to Mendonça's PPD estimate
+- [[periodontics/host-modulation/kim-2026-probiotics-nspt-periodontal-db-rct]] — primary probiotic + NSPT RCT; BoP and PPD ≥5 mm outcomes, 16S + metagenomics
+- [[periodontics/host-modulation/jeon-2026-probioticcmu-gingivitis-rct]] — standalone probiotic in gingivitis/incipient periodontitis; GI and BOP outcomes
+- [[periodontics/oral-hygiene-instruction/gusseva-2026-dual-light-photodynamic-therapy-plaque-rct]] — dual-light home-use aPDT pilot; plaque control in healthy adults
+- [[periodontics/oral-hygiene-instruction/sooampon-2026-dc-red-33-erythrosine-plaque-disclosure-rct]] — plaque disclosure dye substitution; peripheral clinical hygiene context
+- [[periodontics/oral-hygiene-instruction/zini-2026-electric-vs-manual-toothbrush-children-plaque-rct]] — mechanical plaque control baseline; pediatric electric vs manual RCT
+- [[periodontics/non-surgical-instrumentation/dasilveira-2026-subgingival-irrigation-chemical-agents-nspt-sr-ma]] — chemical-agent subgingival irrigation SR+MA (16 RCTs); null vs water/saline, reaffirms NMA ceiling and antimicrobial stewardship against routine irrigation
+- [[periodontics/non-surgical-instrumentation/jungbauer-2026-naocl-hyaluronic-acid-subgingival-reinstrumentation-rct]] — "clean and seal" (AA-NaOCl + cross-linked HA) adjunct to SRI in maintenance; positive ~0.5 mm PD / 0.57 mm CAL gain, doubled pocket closure — delivery-mode counterpoint to da Silveira's null irrigation
+- [[periodontics/host-modulation/mendoca-2024-probiotics-nspt-nma]] — network MA of 33 RCTs (1290 patients) ranking probiotic strains as PMPR adjuncts; *L. reuteri* the only strain with long-term benefit; very low certainty in 92% of comparisons due to star topology (9% direct evidence)
+- [[periodontics/host-modulation/benavides-reyes-2025-probiotics-periodontitis-ma]] — pairwise MA of 24 RCTs (951 participants); periodontitis PI and BOP significant, PPD non-significant overall, effects time-dependent; gingivitis null with I²=94–96% — the conservative counterweight to Mendonça's PPD estimate
 - [[periodontics/srinivasan-2025-pdt-periimplantitis-nonsurgical-sr-ma]] — SR+MA of 25 studies on aPDT adjunct to non-surgical debridement in peri-implantitis; significant 3-month BOP/PD/PI/CBL gains that do not persist at extended follow-up; partially fills the Cochrane-identified peri-implantitis gap

@@ -15,7 +15,7 @@ text_filename: axe-2023-impact-manual-toothbrush-design.txt
 
 ## Why Ingested
 
-Found while mining the reference list of Wen et al. 2026 "The effect of dental floss sequence on plaque removal efficacy and periodontal health" (RCT on flossing sequence vs toothbrushing), which cites this paper as background evidence that over 40% of plaque resists toothbrush removal alone. [[periodontics/rajwani-2020-manual-toothbrushing-techniques-plaque-gingivitis-sr]] found no manual *technique* superior for plaque removal, partly due to heterogeneity across 23 toothbrush brands in the pooled studies — Axe 2023 isolates *brush design* (head-size, filament diameter, cutting-height, hardness, interdental-height) under controlled robot-simulated movements, offering a mechanistic explanation for why brush hardware, independent of technique, is a real confound in toothbrushing plaque-removal literature.
+Found while mining the reference list of Wen et al. 2026 "The effect of dental floss sequence on plaque removal efficacy and periodontal health" (RCT on flossing sequence vs toothbrushing), which cites this paper as background evidence that over 40% of plaque resists toothbrush removal alone. [[periodontics/oral-hygiene-instruction/rajwani-2020-manual-toothbrushing-techniques-plaque-gingivitis-sr]] found no manual *technique* superior for plaque removal, partly due to heterogeneity across 23 toothbrush brands in the pooled studies — Axe 2023 isolates *brush design* (head-size, filament diameter, cutting-height, hardness, interdental-height) under controlled robot-simulated movements, offering a mechanistic explanation for why brush hardware, independent of technique, is a real confound in toothbrushing plaque-removal literature.
 
 ## Three-line Summary
 
@@ -86,7 +86,7 @@ Industry-sponsored (Haleon/Dr Best) in vitro study — findings on flexible, lon
 - Cites a clinical study finding softer, tapered, cross-angled bristles superior to standard medium bristles, and a meta-review finding angled bristles superior to standard flat-trimmed brushes — consistent direction with this study's soft/flexible-filament findings.
 - Cites a contrasting systematic review finding little/no difference between tapered and end-rounded filaments for plaque removal — the authors note in vitro findings should be interpreted cautiously for clinical inference.
 - Yankell et al. (cited) compared 2 manual toothbrushes via laboratory method and also found tapered bristles more effective than rounded bristles on a flat head, aligning with this study's flexible-filament conclusion.
-- In this wiki, [[periodontics/rajwani-2020-manual-toothbrushing-techniques-plaque-gingivitis-sr]] is the technique-focused counterpart (10 manual techniques, no clear winner) — Axe 2023 supplies the design-parameter axis that Rajwani's review could not isolate due to heterogeneous brush brands across its included studies.
+- In this wiki, [[periodontics/oral-hygiene-instruction/rajwani-2020-manual-toothbrushing-techniques-plaque-gingivitis-sr]] is the technique-focused counterpart (10 manual techniques, no clear winner) — Axe 2023 supplies the design-parameter axis that Rajwani's review could not isolate due to heterogeneous brush brands across its included studies.
 
 ## 7. Glossary
 

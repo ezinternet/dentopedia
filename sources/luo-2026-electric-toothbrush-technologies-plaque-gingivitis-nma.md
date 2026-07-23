@@ -15,7 +15,7 @@ text_filename: luo-2026-electric-toothbrush-technologies-plaque-gingivitis-nma.t
 
 ## Why Ingested
 
-Prior pairwise reviews established only "electric > manual" for plaque control; they could not rank among electric subtypes. This 2026 frequentist NMA (19 RCTs) is the first to produce a SUCRA hierarchy — oscillating-rotating > sonic > ultrasonic > other electric > manual — for both plaque and gingivitis, converting the patient/clinician question from "whether electric" to "which electric." It extends the plaque-biofilm management literature in [[periodontics/jo-2008-management-of-dental-biofilm-through]] (professional care improving patient plaque-control ability) by quantifying the home-care tool axis, and provides a mechanical-disruption complement to the matrix biology in [[oral-microbiology/jakubovics-2021-dental-plaque-biofilm-matrix]].
+Prior pairwise reviews established only "electric > manual" for plaque control; they could not rank among electric subtypes. This 2026 frequentist NMA (19 RCTs) is the first to produce a SUCRA hierarchy — oscillating-rotating > sonic > ultrasonic > other electric > manual — for both plaque and gingivitis, converting the patient/clinician question from "whether electric" to "which electric." It extends the plaque-biofilm management literature in [[periodontics/oral-hygiene-instruction/jo-2008-management-of-dental-biofilm-through]] (professional care improving patient plaque-control ability) by quantifying the home-care tool axis, and provides a mechanical-disruption complement to the matrix biology in [[oral-microbiology/jakubovics-2021-dental-plaque-biofilm-matrix]].
 
 ## Three-line Summary
 
@@ -89,7 +89,7 @@ all electric types beat manual, with largest benefits in orthodontic patients an
 ## 6. Related Work
 
 - Pairwise predecessors (Yaacob 2014; Elkerbout 2020; de Jager 2017): electric > manual but no inter-electric ranking — this NMA extends them.
-- [[periodontics/jo-2008-management-of-dental-biofilm-through]] — professional care raising patient plaque-control capability (home-care tool axis complement).
+- [[periodontics/oral-hygiene-instruction/jo-2008-management-of-dental-biofilm-through]] — professional care raising patient plaque-control capability (home-care tool axis complement).
 - [[oral-microbiology/jakubovics-2021-dental-plaque-biofilm-matrix]] — biofilm matrix biology underlying the mechanical-disruption rationale.
 
 ## 7. Glossary

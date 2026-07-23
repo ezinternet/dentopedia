@@ -57,5 +57,5 @@ This systematic review with meta-analysis evaluates ozone therapy as an adjunct 
 - Individual trials (e.g., ozonated olive oil gel, oxygen-ozone) reported clinical improvements sustained 3-6 months.
 
 ## Related Papers
-- [[periodontics/smiley-2015-nonsurgical-periodontitis-srp-guideline]] — contrasts: defines SRP as baseline nonsurgical therapy; this paper tests ozone as an adjunct on top of that baseline, finding small non-significant added benefit.
+- [[periodontics/non-surgical-instrumentation/smiley-2015-nonsurgical-periodontitis-srp-guideline]] — contrasts: defines SRP as baseline nonsurgical therapy; this paper tests ozone as an adjunct on top of that baseline, finding small non-significant added benefit.
 - [[periodontics/sanz-2020-treatment-stage-i-iii-periodontitis-efp]] — extends: situates adjunctive ozone within the broader stepwise periodontitis treatment framework where adjuncts to subgingival instrumentation are evaluated.

@@ -76,6 +76,6 @@ The result is a **clean null between groups**: both AFeo and DF produced statist
 ## Related Papers
 
 - [[periodontics/tsilingaridis-2026-biofilm-induced-gingivitis-children-adolescents]] — contradicts/qualifies: that EFP/EAPD SR concludes self-performed floss adds little for gingivitis, whereas this RCT shows a powered air-flosser performs *no better* than floss — i.e. neither is a strong adjunct, and equivalence does not imply superiority of the device.
-- [[periodontics/luo-2026-electric-toothbrush-technologies-plaque-gingivitis-nma]] — companion powered-device evidence (powered *toothbrush* technologies), here for the *interdental* adjunct side of the oral-hygiene question.
-- [[periodontics/rajwani-2020-manual-toothbrushing-techniques-plaque-gingivitis-sr]] — mechanical plaque-control methodology; interdental surfaces dominate plaque scores, the rationale for the Van der Weijden modified plaque index used here.
+- [[periodontics/oral-hygiene-instruction/luo-2026-electric-toothbrush-technologies-plaque-gingivitis-nma]] — companion powered-device evidence (powered *toothbrush* technologies), here for the *interdental* adjunct side of the oral-hygiene question.
+- [[periodontics/oral-hygiene-instruction/rajwani-2020-manual-toothbrushing-techniques-plaque-gingivitis-sr]] — mechanical plaque-control methodology; interdental surfaces dominate plaque scores, the rationale for the Van der Weijden modified plaque index used here.
 - [[interdental-cleaning/el-haddad-2026-toothpick-use-interdental-papilla-loss-cross-sectional]] — contrasting interdental-aid evidence (mechanical interdental cleaning and soft-tissue effects).

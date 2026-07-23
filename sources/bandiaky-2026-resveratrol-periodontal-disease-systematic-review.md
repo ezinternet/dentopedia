@@ -15,7 +15,7 @@ text_filename: bandiaky-2026-resveratrol-periodontal-disease-systematic-review.t
 
 ## Why Ingested
 
-Extends the wiki's nutraceutical/host-modulation adjunct evidence for non-surgical periodontal therapy beyond the antioxidant CoQ10 line in [[periodontics/fernandez-2025-coenzyme-q10-nonsurgical-periodontal-sr]] and the omega-3 line in [[periodontics/heo-2022-omega-3-fatty-acids-periodontitis-ma]]. Resveratrol is a polyphenol antioxidant/anti-inflammatory adjunct; this SR quantifies a strong preclinical bone-protection signal (ABL reduction 7.09-60.60%) but exposes the same clinical gap (small heterogeneous RCTs, no radiographic bone-loss data) that limits every dietary-antioxidant adjunct — reinforcing that these agents are supportive, not standalone, additions to SRP in [[periodontics/kwon-2021-current-concepts-management-periodontitis]].
+Extends the wiki's nutraceutical/host-modulation adjunct evidence for non-surgical periodontal therapy beyond the antioxidant CoQ10 line in [[periodontics/host-modulation/fernandez-2025-coenzyme-q10-nonsurgical-periodontal-sr]] and the omega-3 line in [[periodontics/host-modulation/heo-2022-omega-3-fatty-acids-periodontitis-ma]]. Resveratrol is a polyphenol antioxidant/anti-inflammatory adjunct; this SR quantifies a strong preclinical bone-protection signal (ABL reduction 7.09-60.60%) but exposes the same clinical gap (small heterogeneous RCTs, no radiographic bone-loss data) that limits every dietary-antioxidant adjunct — reinforcing that these agents are supportive, not standalone, additions to SRP in [[periodontics/kwon-2021-current-concepts-management-periodontitis]].
 
 ## Three-line Summary
 
@@ -89,8 +89,8 @@ Resveratrol may be considered an adjunct to non-surgical periodontal therapy, bu
 
 ## 6. Related Work
 
-- [[periodontics/fernandez-2025-coenzyme-q10-nonsurgical-periodontal-sr]] — parallel antioxidant nutraceutical adjunct (CoQ10) to NSPT, same evidence-quality caveats.
-- [[periodontics/heo-2022-omega-3-fatty-acids-periodontitis-ma]] — omega-3 host-modulation adjunct meta-analysis.
+- [[periodontics/host-modulation/fernandez-2025-coenzyme-q10-nonsurgical-periodontal-sr]] — parallel antioxidant nutraceutical adjunct (CoQ10) to NSPT, same evidence-quality caveats.
+- [[periodontics/host-modulation/heo-2022-omega-3-fatty-acids-periodontitis-ma]] — omega-3 host-modulation adjunct meta-analysis.
 - [[periodontics/kwon-2021-current-concepts-management-periodontitis]] — overarching periodontitis management framework into which adjuncts are positioned.
 
 ## 7. Glossary

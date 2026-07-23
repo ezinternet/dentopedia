@@ -16,7 +16,7 @@ text_filename: gartenmann-2018-comparative-effectiveness-hand-scaling.txt
 
 ## Why Ingested
 
-치위생사 스케일링 술기 (dental hygienist scaling technique) 주제 스윕(2026-07-20, user-requested)의 일환으로 인제스트. [[periodontics/lodigkeit-2026-periodontal-instrumentation-enamel-cementum-review]]가 수기 기구조작(hand instrumentation)의 조작자 의존성(operator-dependence — force, angulation, duration)을 경조직 손상 각도에서 다루는 것과 달리, 이 논문은 동일한 수기 스케일링(hand scaling) 술기의 **습득 가능성**을 치석 제거 효율(calculus/plaque removal effectiveness) 각도에서 정량화한다 — applies-to 관계로 링크.
+치위생사 스케일링 술기 (dental hygienist scaling technique) 주제 스윕(2026-07-20, user-requested)의 일환으로 인제스트. [[periodontics/non-surgical-instrumentation/lodigkeit-2026-periodontal-instrumentation-enamel-cementum-review]]가 수기 기구조작(hand instrumentation)의 조작자 의존성(operator-dependence — force, angulation, duration)을 경조직 손상 각도에서 다루는 것과 달리, 이 논문은 동일한 수기 스케일링(hand scaling) 술기의 **습득 가능성**을 치석 제거 효율(calculus/plaque removal effectiveness) 각도에서 정량화한다 — applies-to 관계로 링크.
 
 ## Three-line Summary
 
@@ -71,7 +71,7 @@ A shortened 8.5-hour pre-clinical course was sufficient to bring novice students
 ## 6. Related Work
 
 - Sits within the pre-clinical dental-education / competency-based-curriculum literature (Bologna-reform restructuring context).
-- Adjacent in scope to periodontal-instrumentation technique-comparison work, e.g. [[periodontics/lodigkeit-2026-periodontal-instrumentation-enamel-cementum-review]] on hand vs ultrasonic vs air-polishing hard-tissue effects, which separately flags operator-dependence as a modulating variable for hand instrumentation.
+- Adjacent in scope to periodontal-instrumentation technique-comparison work, e.g. [[periodontics/non-surgical-instrumentation/lodigkeit-2026-periodontal-instrumentation-enamel-cementum-review]] on hand vs ultrasonic vs air-polishing hard-tissue effects, which separately flags operator-dependence as a modulating variable for hand instrumentation.
 
 ## 7. Glossary
 

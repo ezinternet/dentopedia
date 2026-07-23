@@ -95,7 +95,7 @@ Double-blind RCT (n=60 T2DM chronic-periodontitis patients, 3 arms, 12 wk): both
 - [[periodontics/simpson-2022-treatment-periodontitis-glycaemic-control-people]] — Cochrane SR+MA: subgingival instrumentation lowers HbA1c ~0.43% in diabetics (concordant magnitude).
 - [[periodontics/barahim-2024-ozone-gel-srp-diabetic-periodontitis-rct]] — RCT of a different SRP adjunct (ozone gel) in T2DM stage III periodontitis.
 - [[drug/enteghad-2024-diabetes-mellitus-periodontal-periimplant-disease-review]] — bidirectional diabetes–periodontitis relationship.
-- [[periodontics/rajwani-2020-manual-toothbrushing-techniques-plaque-gingivitis-sr]] — SR of manual toothbrushing techniques (context for brushing-method efficacy).
+- [[periodontics/oral-hygiene-instruction/rajwani-2020-manual-toothbrushing-techniques-plaque-gingivitis-sr]] — SR of manual toothbrushing techniques (context for brushing-method efficacy).
 
 ## 7. Glossary
 

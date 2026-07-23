@@ -70,4 +70,4 @@ The recurrently studied and clinically relevant miRNAs are **miR-146a, miR-200b 
 
 ## Related Papers
 
-- [[periodontics/donertas-2026-gbt-subgingival-debridement-gcf-biomarkers]] — extends the same GCF-biomarker theme from proteins/cytokines to the epigenetic (miRNA) layer
+- [[periodontics/non-surgical-instrumentation/donertas-2026-gbt-subgingival-debridement-gcf-biomarkers]] — extends the same GCF-biomarker theme from proteins/cytokines to the epigenetic (miRNA) layer

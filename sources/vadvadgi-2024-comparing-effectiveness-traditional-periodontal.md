@@ -15,7 +15,7 @@ text_filename: vadvadgi-2024-comparing-effectiveness-traditional-periodontal.txt
 
 ## Why Ingested
 
-Ingested as part of the 2026-07-20 "치위생사 스케일링 술기" (dental hygienist scaling technique) topic sweep. This RCT provides direct empirical (randomized) evidence for the treatment-hierarchy claim in [[periodontics/unknown-2009-non-surgical-and-surgical-periodontal]] — that non-surgical therapy (hygienist-delivered scaling and root planing) and surgical therapy produce broadly comparable clinical improvement — while extending it with quantified patient-reported comfort/satisfaction data the 2009 narrative review did not provide.
+Ingested as part of the 2026-07-20 "치위생사 스케일링 술기" (dental hygienist scaling technique) topic sweep. This RCT provides direct empirical (randomized) evidence for the treatment-hierarchy claim in [[periodontics/non-surgical-instrumentation/unknown-2009-non-surgical-and-surgical-periodontal]] — that non-surgical therapy (hygienist-delivered scaling and root planing) and surgical therapy produce broadly comparable clinical improvement — while extending it with quantified patient-reported comfort/satisfaction data the 2009 narrative review did not provide.
 
 ## Three-line Summary
 
@@ -44,7 +44,7 @@ Key limitation: the PMC full text is internally inconsistent — its own narrati
 
 - Direct RCT-level, head-to-head comparison of traditional periodontal surgery (flap surgery + grafts) versus dental-hygienist-delivered non-surgical therapy (SRP) in moderate-to-severe periodontal disease (n=120), tracking both clinical parameters and patient-centered outcomes in parallel.
 - Quantifies an efficacy-vs-comfort trade-off: surgery shows the larger reduction in pocket depth and the larger gain in clinical attachment level at 6 months; non-surgical therapy shows meaningfully lower pain and discomfort scores with comparable patient satisfaction.
-- Adds patient-reported outcome data (pain, discomfort, satisfaction on 1–10 scales) to a treatment-hierarchy question that older syntheses (e.g., [[periodontics/unknown-2009-non-surgical-and-surgical-periodontal]]) framed mainly in terms of clinical parameters.
+- Adds patient-reported outcome data (pain, discomfort, satisfaction on 1–10 scales) to a treatment-hierarchy question that older syntheses (e.g., [[periodontics/non-surgical-instrumentation/unknown-2009-non-surgical-and-surgical-periodontal]]) framed mainly in terms of clinical parameters.
 
 ## 3. Methodology and Architecture
 
@@ -85,7 +85,7 @@ Given these issues, this paper is best used as a directional data point (both tr
 
 ## 6. Related Work
 
-The paper situates itself within the standard periodontal literature establishing both flap surgery/grafts and scaling-and-root-planing as "established treatment approaches" for periodontal disease, citing prior work on the efficacy of both modalities and on reduced pain/discomfort with non-surgical therapy, without naming specific comparator studies in the extracted text. Within this wiki, it sits alongside [[periodontics/unknown-2009-non-surgical-and-surgical-periodontal]], a narrative review that establishes non-surgical therapy as first-line and surgery as adjunctive with a mandatory post-SRP re-evaluation before deciding on surgery — a treatment-hierarchy framework this RCT's design (parallel-arm, not stepped) does not directly test but whose "both approaches improve clinical parameters" conclusion it is broadly consistent with.
+The paper situates itself within the standard periodontal literature establishing both flap surgery/grafts and scaling-and-root-planing as "established treatment approaches" for periodontal disease, citing prior work on the efficacy of both modalities and on reduced pain/discomfort with non-surgical therapy, without naming specific comparator studies in the extracted text. Within this wiki, it sits alongside [[periodontics/non-surgical-instrumentation/unknown-2009-non-surgical-and-surgical-periodontal]], a narrative review that establishes non-surgical therapy as first-line and surgery as adjunctive with a mandatory post-SRP re-evaluation before deciding on surgery — a treatment-hierarchy framework this RCT's design (parallel-arm, not stepped) does not directly test but whose "both approaches improve clinical parameters" conclusion it is broadly consistent with.
 
 ## 7. Glossary
 

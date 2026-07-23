@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-전신질환 동반 치주염 환자에서 비외과적 치주치료(Non-Surgical Periodontal Therapy, NSPT)의 단독 효능을 무치료 대조군과 직접 비교한 44편 RCT의 SR+MA로, periodontal medicine 맥락의 RCT를 통합해 "전신질환자에서도 NSPT가 효과적"이라는 근거를 강화한다. [[periodontics/smiley-2015-nonsurgical-periodontitis-srp-guideline]]의 일반 SRP 효능 근거를 전신질환 동반 인구로 확장하며, [[periodontics/meng-2024-nspt-cardiovascular-risk-markers-sr-ma]]의 심혈관 바이오마커 중심 분석과 짝을 이루어 치주 임상지표(PD·CAL·BOP) 관점을 보완한다.
+전신질환 동반 치주염 환자에서 비외과적 치주치료(Non-Surgical Periodontal Therapy, NSPT)의 단독 효능을 무치료 대조군과 직접 비교한 44편 RCT의 SR+MA로, periodontal medicine 맥락의 RCT를 통합해 "전신질환자에서도 NSPT가 효과적"이라는 근거를 강화한다. [[periodontics/non-surgical-instrumentation/smiley-2015-nonsurgical-periodontitis-srp-guideline]]의 일반 SRP 효능 근거를 전신질환 동반 인구로 확장하며, [[periodontics/meng-2024-nspt-cardiovascular-risk-markers-sr-ma]]의 심혈관 바이오마커 중심 분석과 짝을 이루어 치주 임상지표(PD·CAL·BOP) 관점을 보완한다.
 
 ## Three-line Summary
 

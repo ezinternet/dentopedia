@@ -73,6 +73,6 @@ Patients with fixed orthodontic appliances are at high risk of plaque accumulati
 
 ## Related Papers
 
-- [[periodontics/liu-2026-powered-manual-toothbrushes-orthodontic-sr-ma]] — powered vs manual toothbrushes in orthodontic patients; the toothbrush-type arm of the same orthodontic oral-hygiene domain.
-- [[periodontics/luo-2026-electric-toothbrush-technologies-plaque-gingivitis-nma]] — NMA of electric-toothbrush technologies for plaque/gingivitis (general population).
-- [[periodontics/rajwani-2020-manual-toothbrushing-techniques-plaque-gingivitis-sr]] — manual brushing-technique evidence for plaque/gingivitis.
+- [[periodontics/oral-hygiene-instruction/liu-2026-powered-manual-toothbrushes-orthodontic-sr-ma]] — powered vs manual toothbrushes in orthodontic patients; the toothbrush-type arm of the same orthodontic oral-hygiene domain.
+- [[periodontics/oral-hygiene-instruction/luo-2026-electric-toothbrush-technologies-plaque-gingivitis-nma]] — NMA of electric-toothbrush technologies for plaque/gingivitis (general population).
+- [[periodontics/oral-hygiene-instruction/rajwani-2020-manual-toothbrushing-techniques-plaque-gingivitis-sr]] — manual brushing-technique evidence for plaque/gingivitis.

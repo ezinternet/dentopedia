@@ -84,7 +84,7 @@ High-confidence evidence supports a (likely bidirectional) PD–DM association a
 - [[drug/systemic-disease/enteghad-2024-diabetes-mellitus-periodontal-periimplant-disease-review]] — narrative review of DM ↔ periodontal/peri-implant disease; this umbrella upgrades that link to SR-level evidence.
 - [[implants/dambrosio-2023-systemic-diseases-medications-influence]] — umbrella on systemic diseases/medications (incl. diabetes AND hypertension) ↔ implant osseointegration; complements on the implant axis.
 - [[endodontics/pinto-2023-apical-periodontitis-chronic-disease-association-umbrella]] — apical periodontitis ↔ chronic systemic disease umbrella (DM among exposures).
-- [[periodontics/angelopoulou-2026-melatonin-adjunct-nspt-t2dm-sr-ma]] — adjunctive therapy SR-MA in T2DM periodontal patients (management downstream of this association).
+- [[periodontics/host-modulation/angelopoulou-2026-melatonin-adjunct-nspt-t2dm-sr-ma]] — adjunctive therapy SR-MA in T2DM periodontal patients (management downstream of this association).
 
 ## 7. Glossary
 

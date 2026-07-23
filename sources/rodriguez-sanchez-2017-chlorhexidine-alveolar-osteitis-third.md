@@ -73,7 +73,7 @@ SR+MA (23 RCT, 2,824 발치) — CHX는 제형·농도에 무관하게 발치 �
 
 ## 6. Related Work
 
-- [[periodontics/james-2017-chlorhexidine-mouthrinse-adjunctive-gingival]] — CHX 효능 기초 근거
+- [[periodontics/oral-hygiene-instruction/james-2017-chlorhexidine-mouthrinse-adjunctive-gingival]] — CHX 효능 기초 근거
 
 ## 7. Glossary
 

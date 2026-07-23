@@ -84,8 +84,8 @@ Intraoral 2D images give more precise plaque scoring but are slow to acquire per
 
 - Builds on prior 2D fluorescence/planimetric extraoral-camera plaque-imaging literature and earlier digital-camera-vs-intraoral-camera plaque-imaging comparisons, extending them to modern intraoral-scanner (3D) imaging.
 - Directly antecedent, methodologically, to [[interdental-cleaning/jung-2025-flossing-performance-plaque-removal]], which uses aligned intraoral-scan plaque scoring (PSPI, Carestream CS 3800) as a core outcome measure — the same Giessen group (Jung K, Ganss C) later relies on the digital-scan plaque-scoring validity this paper establishes.
-- Relevant methodological neighbor: [[periodontics/sooampon-2026-dc-red-33-erythrosine-plaque-disclosure-rct]], which addresses the disclosing-agent side of plaque visualization (dye choice) rather than the imaging/recording side addressed here.
-- Uses Ramfjord partial-mouth recording, the same representative-teeth convention seen throughout this wiki's plaque/index literature (e.g. [[periodontics/rajwani-2020-manual-toothbrushing-techniques-plaque-gingivitis-sr]]).
+- Relevant methodological neighbor: [[periodontics/oral-hygiene-instruction/sooampon-2026-dc-red-33-erythrosine-plaque-disclosure-rct]], which addresses the disclosing-agent side of plaque visualization (dye choice) rather than the imaging/recording side addressed here.
+- Uses Ramfjord partial-mouth recording, the same representative-teeth convention seen throughout this wiki's plaque/index literature (e.g. [[periodontics/oral-hygiene-instruction/rajwani-2020-manual-toothbrushing-techniques-plaque-gingivitis-sr]]).
 
 ## 7. Glossary
 

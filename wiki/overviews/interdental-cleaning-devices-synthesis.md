@@ -160,8 +160,8 @@ The dominant finding across the evidence is that **no single device is universal
 - [[interdental-cleaning/kotsakis-2018-network-meta-analysis-interproximal]] — Bayesian NMA (22 RCTs, 10 methods): quantifies IDB as top-ranked device — the formal-statistics backbone for the "IDB first-line" recommendation
 - [[interdental-cleaning/almoharib-2024-water-jet-interdental-flossing-orthodontic]] — RCT (n=30, fixed ortho): water jet vs floss both effective, no significant between-group difference — reinforces water-jet/floss equivalence in orthodontic patients (alongside Sawan 2022)
 - [[implants/peri-implantitis/bishti-2025-interproximal-devices-peri-implant-mucositis-sr-ma]] — interproximal devices around implants (none superior)
-- [[periodontics/luo-2026-electric-toothbrush-technologies-plaque-gingivitis-nma]] — toothbrushing baseline: oscillating-rotating electric ranks first for plaque/gingivitis (the brushing tier interdental cleaning supplements)
-- [[periodontics/liu-2026-powered-manual-toothbrushes-orthodontic-sr-ma]] — powered>manual toothbrush in ortho (GRADE-low) — brushing-tier context
+- [[periodontics/oral-hygiene-instruction/luo-2026-electric-toothbrush-technologies-plaque-gingivitis-nma]] — toothbrushing baseline: oscillating-rotating electric ranks first for plaque/gingivitis (the brushing tier interdental cleaning supplements)
+- [[periodontics/oral-hygiene-instruction/liu-2026-powered-manual-toothbrushes-orthodontic-sr-ma]] — powered>manual toothbrush in ortho (GRADE-low) — brushing-tier context
 - [[overviews/watanabe-toothpick-method-toothbrushing-synthesis]] — the toothpick *brushing* method axis
 
 ## Evidence Update — Flossing vs Mouthrinse: Microbiota Evidence (Min 2024)

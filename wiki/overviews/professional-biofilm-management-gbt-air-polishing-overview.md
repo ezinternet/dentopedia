@@ -77,14 +77,14 @@ Finally, **safety is not automatic**: Hussein 2026 reports subcutaneous facial e
 
 | Paper | Type | Population | Key finding |
 |---|---|---|---|
-| [[periodontics/yein-2026-guided-biofilm-therapy-periodontal-efficacy-sr]] | SR (5 RCTs, n=231) | Periodontitis | GBT not clinically superior to SRD; patient-centered gains only |
-| [[periodontics/cyris-2024-guided-biofilm-therapy-versus-conventional]] | Split-mouth RCT (n=60) | Stage III/IV NSPT | Equivalent pocket closure; GBT 30.3 vs 34.6 min/quadrant |
+| [[periodontics/non-surgical-instrumentation/yein-2026-guided-biofilm-therapy-periodontal-efficacy-sr]] | SR (5 RCTs, n=231) | Periodontitis | GBT not clinically superior to SRD; patient-centered gains only |
+| [[periodontics/non-surgical-instrumentation/cyris-2024-guided-biofilm-therapy-versus-conventional]] | Split-mouth RCT (n=60) | Stage III/IV NSPT | Equivalent pocket closure; GBT 30.3 vs 34.6 min/quadrant |
 | [[periodontics/stahli-2024-clinical-evaluation-novel-protocol-supportive]] | RCT (n=41, 1 yr) | Supportive care | Equivalent; SRP marginal pain edge; GBT furcation signal |
-| [[periodontics/donertas-2026-gbt-subgingival-debridement-gcf-biomarkers]] | RCT (n=80) | Stage 1–2 | GBT lowered GI/PI/GCF IL-1β more (p<0.05) |
-| [[periodontics/lodigkeit-2026-periodontal-instrumentation-enamel-cementum-review]] | Narrative review | Lab (enamel/cementum) | Air polishing least abrasive; hand instruments remove most cementum |
-| [[periodontics/dvorska-2026-mechanical-instrumentation-hard-tissue-sr]] | In-vitro SR | Lab (cementum/dentine) | Hand max loss/stroke (6.0 µm); air polishing max loss/second (8.65 µm) |
-| [[periodontics/ifrim-2026-edta-air-polishing-root-surface-sem]] | In-vitro (SEM) | Periodontitis roots | SRP+EDTA fails to clear smear layer; erythritol reduces marks |
-| [[periodontics/hussein-2026-subcutaneous-emphysema-subgingival-air-polishing-case]] | Case report | 5 mm pocket | Subcutaneous emphysema after subgingival glycine air polishing |
+| [[periodontics/non-surgical-instrumentation/donertas-2026-gbt-subgingival-debridement-gcf-biomarkers]] | RCT (n=80) | Stage 1–2 | GBT lowered GI/PI/GCF IL-1β more (p<0.05) |
+| [[periodontics/non-surgical-instrumentation/lodigkeit-2026-periodontal-instrumentation-enamel-cementum-review]] | Narrative review | Lab (enamel/cementum) | Air polishing least abrasive; hand instruments remove most cementum |
+| [[periodontics/non-surgical-instrumentation/dvorska-2026-mechanical-instrumentation-hard-tissue-sr]] | In-vitro SR | Lab (cementum/dentine) | Hand max loss/stroke (6.0 µm); air polishing max loss/second (8.65 µm) |
+| [[periodontics/non-surgical-instrumentation/ifrim-2026-edta-air-polishing-root-surface-sem]] | In-vitro (SEM) | Periodontitis roots | SRP+EDTA fails to clear smear layer; erythritol reduces marks |
+| [[periodontics/non-surgical-instrumentation/hussein-2026-subcutaneous-emphysema-subgingival-air-polishing-case]] | Case report | 5 mm pocket | Subcutaneous emphysema after subgingival glycine air polishing |
 | [[implants/peri-implantitis/brunello-2026-nonsurgical-peri-implant-mucositis-sr]] | SR (21 studies, n=1068) | Peri-implant mucositis | Mechanical debridement alone suffices; adjuncts minor at 6 mo |
 | [[implants/peri-implantitis/eraydin-tufek-2026-nonsurgical-peri-implantitis-multiarm-rct]] | 5-arm RCT (80 implants) | Early peri-implantitis | Glycine air abrasion best numerically; no significant superiority |
 | [[implants/peri-implantitis/pujarern-2024-biofilm-removal-implant-airflow-erythritol]] | In-vitro (33 implants) | Implant surface | Erythritol = bicarbonate cleaning, less surface damage → preferred |
@@ -104,7 +104,7 @@ Finally, **safety is not automatic**: Hussein 2026 reports subcutaneous facial e
 - [[overviews/periodontics-treatment-ladder]] — where mechanical biofilm management sits in the overall periodontal treatment sequence
 - [[overviews/periodontal-adjunctive-therapy-probiotics-pdt-overview]] — non-mechanical adjuncts (probiotics, aPDT) that pair with debridement
 - [[overviews/peri-implantitis-management-overview]] — surgical and reconstructive options when non-surgical biofilm management is insufficient
-- [[periodontics/farina-2026-pmpr-biofilm-gingivitis-sr-ma]] — Farina 2026 EFP SR+MA: for gingivitis, air polishing + ultrasonics is as effective as ultrasonic + rubber-cup polishing but faster, reinforcing this overview's patient-centred-benefit thesis; also sets OHI as first-line with PMPR adjunctive
-- [[periodontics/lamont-2018-routine-scale-and-polish-periodontal-health]] — Lamont 2018 Cochrane: base-rate evidence that routine scale & polish (prophylaxis) confers no periodontal benefit in low-risk healthy adults — the indication boundary before any modality choice
+- [[periodontics/non-surgical-instrumentation/farina-2026-pmpr-biofilm-gingivitis-sr-ma]] — Farina 2026 EFP SR+MA: for gingivitis, air polishing + ultrasonics is as effective as ultrasonic + rubber-cup polishing but faster, reinforcing this overview's patient-centred-benefit thesis; also sets OHI as first-line with PMPR adjunctive
+- [[periodontics/non-surgical-instrumentation/lamont-2018-routine-scale-and-polish-periodontal-health]] — Lamont 2018 Cochrane: base-rate evidence that routine scale & polish (prophylaxis) confers no periodontal benefit in low-risk healthy adults — the indication boundary before any modality choice
 - [[periodontics/sanz-2020-treatment-stage-i-iii-periodontitis-efp]] — EFP S3 guideline framing of subgingival instrumentation
 - [[oral-microbiology/jakubovics-2021-dental-plaque-biofilm-matrix]] — the biofilm matrix that all these procedures must disrupt

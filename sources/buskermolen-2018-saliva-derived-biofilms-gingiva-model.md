@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-숙주-미생물 상호작용을 재현하는 organotypic gingiva 모델 — 항균제·바이오필름 연구의 in vitro 플랫폼. [[periodontics/cyris-2024-guided-biofilm-therapy-versus-conventional]] 등 임상 바이오필름 관리 근거의 기초기전 layer를 보강.
+숙주-미생물 상호작용을 재현하는 organotypic gingiva 모델 — 항균제·바이오필름 연구의 in vitro 플랫폼. [[periodontics/non-surgical-instrumentation/cyris-2024-guided-biofilm-therapy-versus-conventional]] 등 임상 바이오필름 관리 근거의 기초기전 layer를 보강.
 
 ## Three-line Summary
 

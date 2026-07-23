@@ -59,4 +59,4 @@ Patients with a history of treated periodontitis had approximately 4.8× higher 
 ## Related Papers
 - [[periodontics/jung-2019-periodontitis-spt-disease-progression-sr]] — disease stability under SPT; predictors of progression
 - [[periodontics/farooqi-2015-periodontal-maintenance-recall-interval-sr]] — SPT recall interval evidence
-- [[periodontics/meseli-2016-probing-depth-srp-response-periodontitis]] — SRP response by initial probing depth
+- [[periodontics/non-surgical-instrumentation/meseli-2016-probing-depth-srp-response-periodontitis]] — SRP response by initial probing depth

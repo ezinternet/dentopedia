@@ -15,7 +15,7 @@ text_filename: angelopoulou-2026-melatonin-adjunct-nspt-t2dm-sr-ma.txt
 
 ## Why Ingested
 
-기존 [[periodontics/barahim-2024-ozone-gel-srp-diabetic-periodontitis-rct]]는 당뇨병성 치주염에서 NSPT(비외과적 치주치료)에 국소 오존 겔을 보조했을 때의 효과를 다룬 단일 RCT다. 본 SR+MA(Angelopoulou 2026)는 같은 T2DM+치주염 모집단에서 *전신* 멜라토닌(melatonin) 보조요법으로 보조제 종류를 확장하고, 풀링된 정량합성(PPD/CAL/HbA1c/hs-CRP)으로 근거 수준을 끌어올린다. 또한 [[periodontics/lee-2020-watanabe-toothpick-method-srp-diabetic-periodontitis-rct]]의 당뇨병성 치주염 SRP 보조 맥락과 짝을 이룬다.
+기존 [[periodontics/barahim-2024-ozone-gel-srp-diabetic-periodontitis-rct]]는 당뇨병성 치주염에서 NSPT(비외과적 치주치료)에 국소 오존 겔을 보조했을 때의 효과를 다룬 단일 RCT다. 본 SR+MA(Angelopoulou 2026)는 같은 T2DM+치주염 모집단에서 *전신* 멜라토닌(melatonin) 보조요법으로 보조제 종류를 확장하고, 풀링된 정량합성(PPD/CAL/HbA1c/hs-CRP)으로 근거 수준을 끌어올린다. 또한 [[periodontics/oral-hygiene-instruction/lee-2020-watanabe-toothpick-method-srp-diabetic-periodontitis-rct]]의 당뇨병성 치주염 SRP 보조 맥락과 짝을 이룬다.
 
 ## Three-line Summary
 
@@ -85,7 +85,7 @@ Pooled (2 RCTs, n=94, 8 wk) — all favoring adjunctive melatonin, all GRADE-**l
 ## 6. Related Work
 
 - [[periodontics/barahim-2024-ozone-gel-srp-diabetic-periodontitis-rct]] — local-adjunct RCT in the same T2DM + periodontitis population (ozone gel vs melatonin tablet here).
-- [[periodontics/lee-2020-watanabe-toothpick-method-srp-diabetic-periodontitis-rct]] — diabetic periodontitis SRP adjunct (mechanical method).
+- [[periodontics/oral-hygiene-instruction/lee-2020-watanabe-toothpick-method-srp-diabetic-periodontitis-rct]] — diabetic periodontitis SRP adjunct (mechanical method).
 - Broader NSPT host-modulation adjunct landscape: probiotics, omega-3, CoQ10.
 
 ## 7. Glossary

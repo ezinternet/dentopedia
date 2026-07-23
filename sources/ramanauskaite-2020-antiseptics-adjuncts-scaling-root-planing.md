@@ -10,7 +10,7 @@ source_collection: external
 ---
 
 ## Why Ingested
-SRP 단독의 한계(깊은 치주낭·치근이개부 잔류 치석 최대 30%)를 보완하는 화학적 보조요법의 근거를 정리한 SR+MA로, [[periodontics/smiley-2015-nonsurgical-periodontitis-srp-guideline]]의 비외과적 치주치료 권고를 소독제 전달방식(서방형 vs 세척)별로 세분화해 확장한다. [[periodontics/sanz-2020-treatment-stage-i-iii-periodontitis-efp]]의 단계별 치료 권고에서 보조 항균제 선택의 근거 보강에 활용.
+SRP 단독의 한계(깊은 치주낭·치근이개부 잔류 치석 최대 30%)를 보완하는 화학적 보조요법의 근거를 정리한 SR+MA로, [[periodontics/non-surgical-instrumentation/smiley-2015-nonsurgical-periodontitis-srp-guideline]]의 비외과적 치주치료 권고를 소독제 전달방식(서방형 vs 세척)별로 세분화해 확장한다. [[periodontics/sanz-2020-treatment-stage-i-iii-periodontitis-efp]]의 단계별 치료 권고에서 보조 항균제 선택의 근거 보강에 활용.
 
 ## Three-line Summary
 
