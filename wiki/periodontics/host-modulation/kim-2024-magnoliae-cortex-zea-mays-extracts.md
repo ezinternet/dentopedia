@@ -31,7 +31,7 @@ MZ군에서 GI(4·8주 p<0.05), PPD·CAL(8주 p<0.05), BoP(4주 p<0.05) 유의 �
 Kim 2018 in vitro 기전의 in vivo 확인 근거이나, 군당 n=5·인공 결찰 모델이라는 한계와 현재 인사돌 처방 조성과 다른 점(Magnoliae Cortex 비포함)으로 인체 임상 효능으로의 직접 외삽은 제한적이다.
 
 ## Summary
-This Inje University–led veterinary RCT in 10 beagle dogs with ligature-induced periodontitis tested oral combined Magnoliae cortex extract (40 mg/day) + Zea mays L. extract (20 mg/day) over 2 months. The MZ group showed significantly better gingival index, pocket depth (PPD), clinical attachment loss (CAL), and bleeding on probing (BoP) than vehicle controls at 4 and/or 8 weeks post-medication. Tissue TNF-α expression was significantly reduced in MZ animals; IL-1β, IL-6, IL-17, and IL-8 trended lower. CD4+ T cell percentage was higher and CD8+ percentage lower in the MZ group. CBC and serum chemistry remained within reference ranges throughout, supporting short-term safety. This is the in vivo confirmation of the [[drug/kim-2018-magnoliae-cortex-zea-mays-modulate|in vitro mechanism]] established earlier by the SNU periodontology group.
+This Inje University–led veterinary RCT in 10 beagle dogs with ligature-induced periodontitis tested oral combined Magnoliae cortex extract (40 mg/day) + Zea mays L. extract (20 mg/day) over 2 months. The MZ group showed significantly better gingival index, pocket depth (PPD), clinical attachment loss (CAL), and bleeding on probing (BoP) than vehicle controls at 4 and/or 8 weeks post-medication. Tissue TNF-α expression was significantly reduced in MZ animals; IL-1β, IL-6, IL-17, and IL-8 trended lower. CD4+ T cell percentage was higher and CD8+ percentage lower in the MZ group. CBC and serum chemistry remained within reference ranges throughout, supporting short-term safety. This is the in vivo confirmation of the [[periodontics/host-modulation/kim-2018-magnoliae-cortex-zea-mays-modulate|in vitro mechanism]] established earlier by the SNU periodontology group.
 
 ## Key Contributions
 - Demonstrates **clinical periodontal benefit** of Magnoliae cortex + Zea mays L. combination in a canine model — superior to vehicle on GI, PPD, CAL, and BoP.
@@ -63,7 +63,7 @@ This Inje University–led veterinary RCT in 10 beagle dogs with ligature-induce
 - **Tissue cytokines**: TNF-α expression significantly lower in MZ vs control; IL-1β, IL-6, IL-17, IL-8 also lower (trend).
 
 ## Clinical Implications
-1. **Mechanism aligns with the in vitro work**: the in vitro NF-κB/MAPK/iNOS suppression and TNF-α/PGE₂/IL-1β reduction reported by [[drug/kim-2018-magnoliae-cortex-zea-mays-modulate|Kim 2018]] translates into tissue-level cytokine suppression in living animals.
+1. **Mechanism aligns with the in vitro work**: the in vitro NF-κB/MAPK/iNOS suppression and TNF-α/PGE₂/IL-1β reduction reported by [[periodontics/host-modulation/kim-2018-magnoliae-cortex-zea-mays-modulate|Kim 2018]] translates into tissue-level cytokine suppression in living animals.
 2. **Effect size on hard endpoints (PPD, CAL) appears larger in dogs than in human Insadol trials**, but n = 5 per arm and an artificial ligature model make extrapolation to humans premature.
 3. **Insadol active ingredient context**: Zea mays L. unsaponifiable fraction is the active in Insadol; Magnoliae cortex is not in the current Insadol formulation. Therefore this study is **not** direct evidence for Insadol monotherapy — it is evidence for a combination product, which is closer to traditional Korean herbal medicine concepts than to current registered drug formulations.
 4. **In humans, the methodological rigor of the Insadol RCT base remains weak** (see [[evidence-appraisal/choi-2015-statistical-validity-insadol-clinical-effectiveness|Choi 2015]]). Animal evidence does not substitute for properly designed human RCTs.
@@ -71,8 +71,8 @@ This Inje University–led veterinary RCT in 10 beagle dogs with ligature-induce
 6. **Safety signal favorable** at short term — no hematologic or hepato-renal toxicity over 8 weeks in dogs at this dose.
 
 ## Related Papers
-- [[drug/kim-2018-magnoliae-cortex-zea-mays-modulate]] — Direct in vitro mechanistic prequel from SNU group; same drug combination on P. gingivalis-stimulated RAW 264.7 macrophages
+- [[periodontics/host-modulation/kim-2018-magnoliae-cortex-zea-mays-modulate]] — Direct in vitro mechanistic prequel from SNU group; same drug combination on P. gingivalis-stimulated RAW 264.7 macrophages
 - [[evidence-appraisal/choi-2015-statistical-validity-insadol-clinical-effectiveness]] — Critical appraisal of Insadol (Zea mays L. unsaponifiable fraction) human clinical trials; flags methodological concerns
-- [[drug/hong-2019-randomized-double-blind-placebo-controlled-multicenter]] — Different host-modulating periodontal adjunct combination (CELC = vitamin C/E + lysozyme + carbazochrome) tested in proper human RCT
-- [[drug/etikala-2019-nsaids-periodontal-implant-therapy-review]] — host-modulation periodontal therapy context (NSAID category)
+- [[periodontics/host-modulation/hong-2019-randomized-double-blind-placebo-controlled-multicenter]] — Different host-modulating periodontal adjunct combination (CELC = vitamin C/E + lysozyme + carbazochrome) tested in proper human RCT
+- [[drug/analgesics/etikala-2019-nsaids-periodontal-implant-therapy-review]] — host-modulation periodontal therapy context (NSAID category)
 - [[periodontics/herrera-2022-treatment-stage-iv-periodontitis-efp]] — periodontitis treatment hierarchy in which botanical adjuncts would sit as Step-1 add-on if used at all

@@ -31,7 +31,7 @@ Identifies the NF-κB/MAPK/iNOS axis as the molecular mechanism; does not demons
 NF-κB/MAPK/iNOS 축이 분자적 작용 기전으로 규명되었으나, 제조사 자금 지원 및 경구 투여 시 달성 불가능한 세포 배양 농도 등으로 인체 임상 효능은 별도로 검증이 필요.
 
 ## Summary
-In vitro mechanistic study from Seoul National University Periodontology, funded by DongKook Pharmaceutical (manufacturer of Insadol). RAW 264.7 murine macrophages were stimulated with Porphyromonas gingivalis or the TLR1/2 ligand Pam3CSK4 (10 µg/mL), then treated with Magnoliae cortex extract (M, 60 µg/mL), titrated unsaponifiable Zea mays L. extract (Z, 300 µg/mL), or the combination (MZ), with ibuprofen (10 mM) as positive control. The MZ combination suppressed nuclear NF-κB translocation, p44/42 (ERK1/2) MAPK phosphorylation, and iNOS protein expression more strongly than either single extract, with parallel reductions of NO (Griess), PGE₂, IL-1β, and IL-6 (ELISA). This is the in vitro mechanism that the same group's [[drug/kim-2024-magnoliae-cortex-zea-mays-extracts|2024 canine in vivo study]] later confirmed at the tissue level.
+In vitro mechanistic study from Seoul National University Periodontology, funded by DongKook Pharmaceutical (manufacturer of Insadol). RAW 264.7 murine macrophages were stimulated with Porphyromonas gingivalis or the TLR1/2 ligand Pam3CSK4 (10 µg/mL), then treated with Magnoliae cortex extract (M, 60 µg/mL), titrated unsaponifiable Zea mays L. extract (Z, 300 µg/mL), or the combination (MZ), with ibuprofen (10 mM) as positive control. The MZ combination suppressed nuclear NF-κB translocation, p44/42 (ERK1/2) MAPK phosphorylation, and iNOS protein expression more strongly than either single extract, with parallel reductions of NO (Griess), PGE₂, IL-1β, and IL-6 (ELISA). This is the in vitro mechanism that the same group's [[periodontics/host-modulation/kim-2024-magnoliae-cortex-zea-mays-extracts|2024 canine in vivo study]] later confirmed at the tissue level.
 
 ## Key Contributions
 - **Identifies molecular targets** of the Magnoliae + Zea mays L. combination in periodontal inflammation: NF-κB, MAPK (ERK1/2), iNOS.
@@ -72,8 +72,8 @@ In vitro mechanistic study from Seoul National University Periodontology, funded
 5. **Patient counseling**: For patients asking about Insadol, this paper supports a story of "active ingredient can reduce inflammation signaling in macrophages in lab" — but clinical effectiveness in humans remains weakly supported (see [[evidence-appraisal/choi-2015-statistical-validity-insadol-clinical-effectiveness|Choi 2015]] critical appraisal).
 
 ## Related Papers
-- [[drug/kim-2024-magnoliae-cortex-zea-mays-extracts]] — Same drug combination, in vivo confirmation in beagle ligature periodontitis model (mechanism → effect)
+- [[periodontics/host-modulation/kim-2024-magnoliae-cortex-zea-mays-extracts]] — Same drug combination, in vivo confirmation in beagle ligature periodontitis model (mechanism → effect)
 - [[evidence-appraisal/choi-2015-statistical-validity-insadol-clinical-effectiveness]] — Critical methodological appraisal of human Insadol RCTs; the in-vitro mechanism does not rescue the weak clinical evidence base
-- [[drug/hong-2019-randomized-double-blind-placebo-controlled-multicenter]] — Parallel example of Korean periodontal adjunct (CELC = vitamin C/E + lysozyme + carbazochrome) with proper human RCT
-- [[drug/etikala-2019-nsaids-periodontal-implant-therapy-review]] — host-modulation periodontal therapy (NSAID-based approach to NF-κB/PGE₂ axis)
+- [[periodontics/host-modulation/hong-2019-randomized-double-blind-placebo-controlled-multicenter]] — Parallel example of Korean periodontal adjunct (CELC = vitamin C/E + lysozyme + carbazochrome) with proper human RCT
+- [[drug/analgesics/etikala-2019-nsaids-periodontal-implant-therapy-review]] — host-modulation periodontal therapy (NSAID-based approach to NF-κB/PGE₂ axis)
 - [[periodontics/herrera-2022-treatment-stage-iv-periodontitis-efp]] — Step-1 periodontal therapy and where botanical adjuncts could sit if any clinical evidence supported them

@@ -23,7 +23,7 @@ SR+MA of 25 studies evaluating photodynamic therapy (PDT) as adjunct to non-surg
 
 Benefits were less pronounced for CAL, mucosal recession, and inflammatory biomarkers; at extended follow-up periods, no significant additional advantages of PDT were maintained — the adjunct benefit is short-term and site-specific rather than sustained or systemic.
 
-Complements the [[wiki/implants/peri-implantitis/jervoe-storm-2024-photodynamic-therapy-periodontal-periimplant-diseases]] Cochrane review (which identified a peri-implantitis evidence gap) by specifically quantifying PDT's short-term clinical benefit in this population using 25 studies.
+Complements the [[implants/peri-implantitis/jervoe-storm-2024-photodynamic-therapy-periodontal-periimplant-diseases]] Cochrane review (which identified a peri-implantitis evidence gap) by specifically quantifying PDT's short-term clinical benefit in this population using 25 studies.
 
 ## 세줄요약
 
@@ -35,7 +35,7 @@ CAL·점막퇴축·염증 바이오마커 개선은 제한적; 장기 추적에�
 
 ## Background
 
-Peri-implantitis, characterized by inflammation and progressive bone loss around dental implants, is increasingly prevalent and difficult to manage. The [[wiki/implants/peri-implantitis/jervoe-storm-2024-photodynamic-therapy-periodontal-periimplant-diseases]] Cochrane review (2024) found only one small peri-implant mucositis study and identified peri-implantitis evidence as a critical gap. This 2025 SR+MA specifically fills that gap with 25 studies focused on non-surgical management.
+Peri-implantitis, characterized by inflammation and progressive bone loss around dental implants, is increasingly prevalent and difficult to manage. The [[implants/peri-implantitis/jervoe-storm-2024-photodynamic-therapy-periodontal-periimplant-diseases]] Cochrane review (2024) found only one small peri-implant mucositis study and identified peri-implantitis evidence as a critical gap. This 2025 SR+MA specifically fills that gap with 25 studies focused on non-surgical management.
 
 Antimicrobial photodynamic therapy (aPDT) works by activating a photosensitizing agent (typically toluidine blue, methylene blue, or indocyanine green) with a specific wavelength light source, generating reactive oxygen species that kill bacteria in the biofilm without antibiotic resistance pressure.
 

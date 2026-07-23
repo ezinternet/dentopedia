@@ -74,9 +74,9 @@ This multicenter, double-blind, placebo-controlled randomized clinical trial (RC
 7. **Cost-benefit conversation**: given small effect on the surrogate marker (GI) and no effect on PD/CAL, patients may legitimately question whether the cost is justified. The trial does not answer this question.
 
 ## Related Papers
-- [[drug/kim-2018-magnoliae-cortex-zea-mays-modulate]] — In vitro evidence for another Korean botanical periodontal adjunct (Magnoliae Cortex + Zea mays L., the active in Insadol)
-- [[drug/kim-2024-magnoliae-cortex-zea-mays-extracts]] — Canine ligature-induced periodontitis model for the same Magnoliae + Zea mays combination
+- [[periodontics/host-modulation/kim-2018-magnoliae-cortex-zea-mays-modulate]] — In vitro evidence for another Korean botanical periodontal adjunct (Magnoliae Cortex + Zea mays L., the active in Insadol)
+- [[periodontics/host-modulation/kim-2024-magnoliae-cortex-zea-mays-extracts]] — Canine ligature-induced periodontitis model for the same Magnoliae + Zea mays combination
 - [[evidence-appraisal/choi-2015-statistical-validity-insadol-clinical-effectiveness]] — Critical methodological appraisal of the Insadol Korean trials, raising the same question about whether plant-based periodontal supplements have demonstrated clinical benefit beyond gingival index
-- [[drug/etikala-2019-nsaids-periodontal-implant-therapy-review]] — host-modulation periodontal therapy context
+- [[drug/analgesics/etikala-2019-nsaids-periodontal-implant-therapy-review]] — host-modulation periodontal therapy context
 - [[periodontics/herrera-2022-treatment-stage-iv-periodontitis-efp]] — standard-of-care periodontitis treatment hierarchy in which CELC functions as Step-1 adjunct
 - [[periodontics/sanz-2020-treatment-stage-i-iii-periodontitis-efp]] — EFP S3 guideline; adjunctive systemic agents have only weak/conditional recommendations

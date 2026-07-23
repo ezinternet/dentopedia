@@ -57,7 +57,7 @@ This RCT (n=120 adults with moderate-to-severe periodontal disease, recruited ac
 
 ## Results
 
-Values reproduce Tables 1–3 (which match the PubMed-indexed abstract). The article's own narrative Results paragraphs give a different, inconsistent set of numbers for the same outcomes — see the [[sources/vadvadgi-2024-comparing-effectiveness-traditional-periodontal|source page]] Limitations for both sets and further data-quality caveats.
+Values reproduce Tables 1–3 (which match the PubMed-indexed abstract). The article's own narrative Results paragraphs give a different, inconsistent set of numbers for the same outcomes — see the [[periodontics/non-surgical-instrumentation/vadvadgi-2024-comparing-effectiveness-traditional-periodontal|source page]] Limitations for both sets and further data-quality caveats.
 
 | Outcome | TSG (surgery) | NSTG (non-surgical) |
 |---|---|---|
