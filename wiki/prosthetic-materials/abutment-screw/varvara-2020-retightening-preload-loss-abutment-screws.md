@@ -5,7 +5,7 @@ year: 2020
 date: 2020-01-01
 doi: 10.1563/aaid-joi-D-18-00138
 source: varvara-2020-retightening-preload-loss-abutment-screws.md
-category: [prosthetic-materials]
+category: [prosthetic-materials/abutment-screw]
 evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/varvara-2020-retightening-preload-loss-abutment-screws.pdf
 pdf_filename: varvara-2020-retightening-preload-loss-abutment-screws.pdf
@@ -75,4 +75,4 @@ Varvara et al. compared 40 internal hexagon (IG) and 40 external hexagon (EG) im
 
 ## Related Papers
 
-- [[prosthetic-materials/sun-2026-abutment-contamination-internal-hex-preload]] — complements: examines saliva/blood contamination effect on internal hexagon preload; mechanical protocol context
+- [[prosthetic-materials/abutment-screw/sun-2026-abutment-contamination-internal-hex-preload]] — complements: examines saliva/blood contamination effect on internal hexagon preload; mechanical protocol context
