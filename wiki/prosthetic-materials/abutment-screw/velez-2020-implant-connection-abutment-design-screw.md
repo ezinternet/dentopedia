@@ -5,7 +5,7 @@ year: 2020
 date: 2020-07-24
 doi: "10.3390/jcm9082365"
 source: velez-2020-implant-connection-abutment-design-screw.md
-category: [prosthetic-materials]
+category: [prosthetic-materials/abutment-screw]
 evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: true
@@ -42,7 +42,7 @@ Morse taper 연결이 최저 변연 부적합(~0.6 µm); 체결 토크 상승에
 
 This bench study isolated how **abutment-screw tightening (insertion) torque** affects the marginal fit of a screw-retained internal-conical (Morse-taper) joint versus an external-hexagon joint. Across 120 implants (Mozo-Grau, 11° Morse taper vs external hex; straight vs 15° angulated Ti-grade-V abutments) torqued at 10, 20 or 30 Ncm and then aged (1200 thermocycles + 250,000 chewing cycles, 200 N), all misfits stayed below 3 µm, but the Morse-taper connection consistently fit best (~0.6 µm) and **misfit decreased as torque increased**. The lowest misfit occurred at 30 Ncm — the manufacturer-recommended value for this system — yet there was **no statistically significant difference between 20 and 30 Ncm**, so the practical message is to reach the manufacturer-specified torque rather than to maximize it. The authors emphasize that under-torquing risks screw loosening, fracture and bacterial microleakage, while over-torquing past yield strength causes preload loss and screw fracture.
 
-> **Clinical caveat for "Astra-type" / Morse-taper systems.** This study used a Mozo-Grau system whose recommended abutment-screw torque is **30 Ncm**. That number is *system-specific* and must not be transferred to other conical-connection brands. For **Astra Tech** specifically, the wiki's clinical-practice guide [[prosthetic-materials/kim-2019-astra-implant-dissection-solutions]] specifies a **standardized 35 Ncm** abutment-screw protocol (with two-stage seating: tighten, wait ~5 min, re-tighten to final torque, then re-verify at 3–6 month recalls). Internal-conical systems span roughly 20–35 Ncm depending on screw/alloy, so the value is always system- and abutment-specific. The transferable principle from this paper is: **tighten the abutment screw to the implant manufacturer's specified value with a calibrated torque wrench, re-tighten after a short delay, and do not exceed it** — higher-than-recommended torque buys little fit improvement (no significant 20→30 Ncm gain here) and risks preload loss/screw fracture. Confirm the exact figure against the specific Astra abutment/screw catalogue before use.
+> **Clinical caveat for "Astra-type" / Morse-taper systems.** This study used a Mozo-Grau system whose recommended abutment-screw torque is **30 Ncm**. That number is *system-specific* and must not be transferred to other conical-connection brands. For **Astra Tech** specifically, the wiki's clinical-practice guide [[prosthetic-materials/abutment-screw/kim-2019-astra-implant-dissection-solutions]] specifies a **standardized 35 Ncm** abutment-screw protocol (with two-stage seating: tighten, wait ~5 min, re-tighten to final torque, then re-verify at 3–6 month recalls). Internal-conical systems span roughly 20–35 Ncm depending on screw/alloy, so the value is always system- and abutment-specific. The transferable principle from this paper is: **tighten the abutment screw to the implant manufacturer's specified value with a calibrated torque wrench, re-tighten after a short delay, and do not exceed it** — higher-than-recommended torque buys little fit improvement (no significant 20→30 Ncm gain here) and risks preload loss/screw fracture. Confirm the exact figure against the specific Astra abutment/screw catalogue before use.
 
 ## Key Contributions
 
@@ -65,6 +65,6 @@ In-vitro, n=120 implants (Mozo-Grau). Factors: connection (external hex EC vs in
 
 ## Related Papers
 
-- [[prosthetic-materials/ren-2024-morse-taper-abutment-subsidence-locking-force]] — reinforces; complementary Morse-taper bench study, but of a **screwless pure taper-lock** (Bicon, 1.5°) where seating *load* (not screw torque) sets retention — together they cover the screw-retained vs screwless Morse-taper joint behavior.
-- [[prosthetic-materials/ziada-2025-abutment-material-stress-distribution-fea]] — reinforces; abutment-material FEA on stress distribution at the implant-abutment complex.
-- [[prosthetic-materials/kharat-2015-convergence-marginal-seating-fpd-pier-abutment]] — related; marginal seating/fit determinants in fixed prosthodontics.
+- [[prosthetic-materials/abutment-screw/ren-2024-morse-taper-abutment-subsidence-locking-force]] — reinforces; complementary Morse-taper bench study, but of a **screwless pure taper-lock** (Bicon, 1.5°) where seating *load* (not screw torque) sets retention — together they cover the screw-retained vs screwless Morse-taper joint behavior.
+- [[prosthetic-materials/abutment-screw/ziada-2025-abutment-material-stress-distribution-fea]] — reinforces; abutment-material FEA on stress distribution at the implant-abutment complex.
+- [[prosthetic-materials/tooth-preparation/kharat-2015-convergence-marginal-seating-fpd-pier-abutment]] — related; marginal seating/fit determinants in fixed prosthodontics.
