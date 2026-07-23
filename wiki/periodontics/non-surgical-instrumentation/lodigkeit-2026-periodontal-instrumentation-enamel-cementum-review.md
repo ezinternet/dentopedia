@@ -5,7 +5,7 @@ year: 2026
 date: 2026-04-30
 doi: 10.3390/dj14050259
 source: lodigkeit-2026-periodontal-instrumentation-enamel-cementum-review.md
-category: [periodontics]
+category: [periodontics/non-surgical-instrumentation]
 evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: true
@@ -65,7 +65,7 @@ This narrative review synthesizes preclinical laboratory evidence (16 in vitro a
 
 ## Related Papers
 
-- [[periodontics/dvorska-2026-mechanical-instrumentation-hard-tissue-sr]] — systematic-review companion quantifying hard-tissue loss from mechanical instrumentation (reinforces this narrative ranking).
-- [[periodontics/cyris-2024-guided-biofilm-therapy-versus-conventional]] — guided biofilm therapy (air polishing-centred) vs conventional debridement.
+- [[periodontics/non-surgical-instrumentation/dvorska-2026-mechanical-instrumentation-hard-tissue-sr]] — systematic-review companion quantifying hard-tissue loss from mechanical instrumentation (reinforces this narrative ranking).
+- [[periodontics/non-surgical-instrumentation/cyris-2024-guided-biofilm-therapy-versus-conventional]] — guided biofilm therapy (air polishing-centred) vs conventional debridement.
 - [[periodontics/manresa-2018-supportive-periodontal-therapy-cochrane-sr]] — Cochrane SR on supportive periodontal therapy, the setting where air polishing is primarily applied.
 - [[periodontics/stahli-2024-clinical-evaluation-novel-protocol-supportive]] — novel SPT protocol; debridement-modality choice context.
