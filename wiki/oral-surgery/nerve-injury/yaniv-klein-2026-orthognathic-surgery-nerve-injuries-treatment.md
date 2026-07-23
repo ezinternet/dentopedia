@@ -5,7 +5,7 @@ year: 2026
 date: 2026-03-12
 doi: 10.22514/jofph.2026.023
 source: yaniv-klein-2026-orthognathic-surgery-nerve-injuries-treatment.md
-category: [oral-surgery]
+category: [oral-surgery/nerve-injury]
 evidence_level: retrospective
 source_collection: pubmed-text
 full_text: true
@@ -44,7 +44,7 @@ This single-center retrospective cohort study reviewed 287 orthognathic surgery 
 - Real-world incidence (5.9%) and anatomical distribution of trigeminal nerve injury specifically after orthognathic surgery, a less-studied context than third-molar extraction or implant placement.
 - Head-to-head (though non-randomized, retrospective) comparison of LLLT, corticosteroid, and vitamin B adjuncts within the same cohort.
 - Operative time (230 vs 198 min median) flagged as a candidate surrogate marker for neural-traction injury risk.
-- Explicit confirmation that no standardized pharmacologic/physical-therapy protocol exists for this indication — the same gap identified in the single-case [[oral-surgery/lee-2015-inferior-alveolar-nerve-injury-management]], now demonstrated at cohort scale.
+- Explicit confirmation that no standardized pharmacologic/physical-therapy protocol exists for this indication — the same gap identified in the single-case [[oral-surgery/nerve-injury/lee-2015-inferior-alveolar-nerve-injury-management]], now demonstrated at cohort scale.
 
 ## Methodology
 
@@ -67,6 +67,6 @@ Higher deficit incidence with BSSO or IVRO+LeFort-I combinations than isolated L
 
 ## Related Papers
 
-- [[oral-surgery/lee-2015-inferior-alveolar-nerve-injury-management]] — single case report of topical + tapering systemic dexamethasone for third-molar-extraction IAN neuropraxia (36-day full recovery); this cohort study extends the same "no standardized protocol" finding to 287 orthognathic-surgery patients and adds LLLT/vitamin-B comparison data.
-- [[oral-surgery/sarikov-2014-ian-injury-third-molar-review]] — narrative review of IAN injury epidemiology/recovery after third-molar extraction (different surgical cause, background context).
-- [[oral-surgery/baek-2010-literature-review-altered-sensation-mandibular]] — narrative review of altered sensation after posterior mandibular implant placement (different surgical cause, same nerve).
+- [[oral-surgery/nerve-injury/lee-2015-inferior-alveolar-nerve-injury-management]] — single case report of topical + tapering systemic dexamethasone for third-molar-extraction IAN neuropraxia (36-day full recovery); this cohort study extends the same "no standardized protocol" finding to 287 orthognathic-surgery patients and adds LLLT/vitamin-B comparison data.
+- [[oral-surgery/nerve-injury/sarikov-2014-ian-injury-third-molar-review]] — narrative review of IAN injury epidemiology/recovery after third-molar extraction (different surgical cause, background context).
+- [[oral-surgery/nerve-injury/baek-2010-literature-review-altered-sensation-mandibular]] — narrative review of altered sensation after posterior mandibular implant placement (different surgical cause, same nerve).
