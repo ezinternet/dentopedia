@@ -5,7 +5,7 @@ year: 2015
 date: 2015-09-01
 doi: 10.4103/0976-237X.161914
 source: vinnakota-2015-convergence-retention-multiple-unit-invitro.md
-category: [prosthetic-materials]
+category: [prosthetic-materials/tooth-preparation]
 evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/vinnakota-2015-convergence-retention-multiple-unit-invitro.pdf
 pdf_filename: vinnakota-2015-convergence-retention-multiple-unit-invitro.pdf
@@ -62,7 +62,7 @@ In vitro study (Contemporary Clinical Dentistry 2015) on Ni-Cr alloy single crow
 - 한국 임상: 짙은 발치/지대치 손상 후 단일 크라운보다 FPD가 retention 측면에서 유리할 수 있음. 단, biological cost와 trade-off
 
 ## Related Papers
-- [[prosthetic-materials/tiu-2015-clinical-tooth-preparations-measuring-sr]] — TOC literature SR, 10-22° realistic range
-- [[prosthetic-materials/kharat-2015-convergence-marginal-seating-fpd-pier-abutment]] — convergence × marginal fit in FPD with pier
-- [[prosthetic-materials/abdulla-2018-convergence-all-ceramic-crowns-dubai-practice]] — clinical TOC mean 24.6° (MD) / 32.6° (BL)
-- [[prosthetic-materials/yang-2015-auxiliary-resistance-marginal-fitness-short-molar]] — auxiliary forms for overtapered short molars
+- [[prosthetic-materials/tooth-preparation/tiu-2015-clinical-tooth-preparations-measuring-sr]] — TOC literature SR, 10-22° realistic range
+- [[prosthetic-materials/tooth-preparation/kharat-2015-convergence-marginal-seating-fpd-pier-abutment]] — convergence × marginal fit in FPD with pier
+- [[prosthetic-materials/tooth-preparation/abdulla-2018-convergence-all-ceramic-crowns-dubai-practice]] — clinical TOC mean 24.6° (MD) / 32.6° (BL)
+- [[prosthetic-materials/tooth-preparation/yang-2015-auxiliary-resistance-marginal-fitness-short-molar]] — auxiliary forms for overtapered short molars
