@@ -6,7 +6,7 @@ date: 2025-11-19
 doi: "10.1016/j.joms.2025.11.008"
 pmid: "41344383"
 source: al-aroomi-2025-cgf-third-molar-postop-sr.md
-category: [oral-surgery]
+category: [oral-surgery/third-molar]
 evidence_level: sr
 source_collection: pubmed-text
 text_path: /Users/oracleneo/llm-wiki/papers/al-aroomi-2025-cgf-third-molar-postop-sr.txt
@@ -72,6 +72,6 @@ This PROSPERO-registered systematic review (Al-Aroomi et al., JOMS 2025) evaluat
 | Periodontal parameters | 4 | 4/4 (100%) |
 
 ## Related Papers
-- [[oral-surgery/pattnayak-2024-prf-prp-third-molar-extraction-sr]] — extends: PRF/PRP SR; CGF is a distinct protocol not covered there
-- [[oral-surgery/hajibagheri-2025-prf-alveolar-osteitis-post-extraction-sr]] — reinforces: PRF for alveolar osteitis SR; CGF shows similar trend but different concentrate
+- [[oral-surgery/third-molar/pattnayak-2024-prf-prp-third-molar-extraction-sr]] — extends: PRF/PRP SR; CGF is a distinct protocol not covered there
+- [[oral-surgery/third-molar/hajibagheri-2025-prf-alveolar-osteitis-post-extraction-sr]] — reinforces: PRF for alveolar osteitis SR; CGF shows similar trend but different concentrate
 - [[oral-surgery/al-maawi-2021-prf-extraction-socket-healing-sr]] — reinforces: PRF socket healing SR; CGF adds bone fill and periodontal data
