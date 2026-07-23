@@ -5,7 +5,7 @@ year: 2025
 date: 2025-09-01
 doi: 10.1016/j.prosdent.2025.04.030
 source: sengottaiyan-2025-influence-tooth-preparation-design-margin.md
-category: [prosthetic-materials]
+category: [prosthetic-materials/tooth-preparation]
 evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/sengottaiyan-2025-influence-tooth-preparation-design-margin.pdf
 pdf_filename: sengottaiyan-2025-influence-tooth-preparation-design-margin.pdf
@@ -56,4 +56,4 @@ Searched 6 databases + manual reference screening (130 → 93 de-duplicated → 
 
 ## Related Papers
 
-- [[prosthetic-materials/tiu-2015-clinical-tooth-preparations-measuring-sr]] — Tiu 2015의 일반적 프렙 기하/측정법을 디지털 지르코니아 워크플로우에서 변연·내면 적합 최적 설계(둥근 숄더 vs 챔퍼·테이퍼)로 확장.
+- [[prosthetic-materials/tooth-preparation/tiu-2015-clinical-tooth-preparations-measuring-sr]] — Tiu 2015의 일반적 프렙 기하/측정법을 디지털 지르코니아 워크플로우에서 변연·내면 적합 최적 설계(둥근 숄더 vs 챔퍼·테이퍼)로 확장.
