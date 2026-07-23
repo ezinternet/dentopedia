@@ -5,7 +5,7 @@ year: 2021
 date: 2021-01-01
 doi: 10.1177/00368504211013247
 source: ye-2021-mandibular-third-molar-impaction-pathologies.md
-category: oral-surgery
+category: oral-surgery/third-molar
 evidence_level: retrospective
 source_collection: pubmed-text
 full_text: true
@@ -123,4 +123,4 @@ The authors conclude that soft-tissue impacted teeth in vertical angulations sho
 
 ## Related Papers
 
-- [[oral-surgery/damico-2025-third-molar-surgical-indications-guidelines]] — contemporary evidence-based guidelines for M3M extraction indications; this study provides impaction-pattern granularity supporting those recommendations
+- [[oral-surgery/third-molar/damico-2025-third-molar-surgical-indications-guidelines]] — contemporary evidence-based guidelines for M3M extraction indications; this study provides impaction-pattern granularity supporting those recommendations
