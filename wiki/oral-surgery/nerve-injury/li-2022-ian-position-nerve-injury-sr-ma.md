@@ -5,7 +5,7 @@ year: 2022
 date: 2022-09-16
 doi: 10.3390/healthcare10091782
 source: li-2022-ian-position-nerve-injury-sr-ma.md
-category: [oral-surgery]
+category: [oral-surgery/nerve-injury]
 evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/li-2022-ian-position-nerve-injury-sr-ma.pdf
 pdf_filename: li-2022-ian-position-nerve-injury-sr-ma.pdf
@@ -15,7 +15,7 @@ superseded_by: thereza-bussolaro-2026-cbct-ian-predictive-factors-sr-ma
 superseded_scope: partial
 ---
 
-> [!note] Partially superseded → [[oral-surgery/thereza-bussolaro-2026-cbct-ian-predictive-factors-sr-ma]]
+> [!note] Partially superseded → [[oral-surgery/nerve-injury/thereza-bussolaro-2026-cbct-ian-predictive-factors-sr-ma]]
 > 18-study SR+MA (GRADE moderate-high) reports lingual position OR 3.82 (95% CI 1.95–7.39), updating this paper's OR 4.96 (I²=65%, directional only). Thereza-Bussolaro also quantifies 7 additional CBCT features. This page retains value as the foundational CBCT-position reference and as the anchor OR cited in earlier overviews. (set 2026-06-26)
 
 ## Three-line Summary
@@ -61,5 +61,5 @@ Lingual IAC position (canal on tongue side of roots) is significantly associated
 | Meta-analysis result | Lingual position: significantly increased IAN injury (statistically significant) |
 
 ## Related Papers
-- [[oral-surgery/sarikov-2014-ian-injury-third-molar-review]] — IAN paresthesia 0.35–8.4%; additional risk factors (age, impaction type, surgeon experience)
-- [[oral-surgery/damico-2025-third-molar-surgical-indications-guidelines]] — coronectomy as option for high IAC-risk cases
+- [[oral-surgery/nerve-injury/sarikov-2014-ian-injury-third-molar-review]] — IAN paresthesia 0.35–8.4%; additional risk factors (age, impaction type, surgeon experience)
+- [[oral-surgery/third-molar/damico-2025-third-molar-surgical-indications-guidelines]] — coronectomy as option for high IAC-risk cases

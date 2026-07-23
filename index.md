@@ -1574,7 +1574,7 @@ tags: []
 - [[oral-surgery/zeytinoglu-2026-comparative-effects-low-level-laser]] — Zeytinoğlu 2026 · prospective (n=27, IAN 18·LN 9) · Aδ/C섬유(통증자극) vs Aβ섬유(무통자극) 구분 CSP 검사 병행 — LLLT가 TENS·위약보다 유의하게 우수한 임상회복(통증·화끈거림·발음·물림), 단 전기생리(CSP) 회복은 비유의
 - [[oral-surgery/kim-2019-bone-collector-drill-assembly]] — 특허(등록 10-2327565, (주)해냄/김성주): 자가골 채집 드릴조립체 — 탄성스토퍼 접힘밴드가 삽입깊이 외부 표시 + 종래 경질 수집통 가압통증 완화, 수집공으로 골·혈액 채집
 - [[oral-surgery/sarikov-2014-ian-injury-third-molar-review]] — 문헌고찰(JOMR 2014, 14편): IAN 감각이상 0.35–8.4%; 24세 초과·수평매복·수련의 시술 위험인자; 영구적 손상 드묾; 대부분 회복
-- [[oral-surgery/li-2022-ian-position-nerve-injury-sr-ma]] — SR+MA(Healthcare 2022, 11편): IAC 설측 위치 → IAN 손상 위험 유의하게 높음; 수술 전 CBCT로 고위험군 식별 가능
+- [[oral-surgery/nerve-injury/li-2022-ian-position-nerve-injury-sr-ma]] — SR+MA(Healthcare 2022, 11편): IAC 설측 위치 → IAN 손상 위험 유의하게 높음; 수술 전 CBCT로 고위험군 식별 가능
 - [[oral-surgery/third-molar/damico-2025-third-molar-surgical-indications-guidelines]] — 서술적(Eng Proc 2025): NICE·AAOMS 가이드라인 검토; 반복 관주위염·낭종·인접치 흡수 = 절대적응증; IAC 고위험 시 치관절제술(Coronectomy) 고려
 - [[oral-surgery/third-molar/cervera-espert-2016-coronectomy-mandibular-third-molar-sr]] — SR+MA (12 studies): coronectomy → significantly less IAN sensory loss + fewer dry sockets vs complete extraction; root migrates ~2mm/2yr; pain/infection equivalent
 - [[oral-surgery/third-molar/povoa-2021-coronectomy-inferior-alveolar-nerve-sr]] — SR (16 papers, 2,176 coronectomies): IAN injury 0.59%, lingual nerve 0.22%, infection 3.95%, root re-extraction 5.28%; low-risk alternative to third molar extraction
