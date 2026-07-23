@@ -5,7 +5,7 @@ year: 2022
 date: 2022-02-15
 doi: 10.1371/journal.pone.0263722
 source: giese-kraft-2022-digital-imaging-plaque-monitoring.md
-category: [periodontics]
+category: [periodontics/oral-hygiene-instruction]
 evidence_level: prospective
 source_collection: pubmed-text
 full_text: true
@@ -68,5 +68,5 @@ Both digital methods reproduced the same statistically significant plaque trajec
 ## Related Papers
 
 - [[interdental-cleaning/jung-2025-flossing-performance-plaque-removal]] — extends: same Giessen group (Jung K, Ganss C) later relies on intraoral-scan-based plaque scoring (PSPI on Carestream CS 3800 scans) as a core outcome measure; this paper is the foundational validation that scan-based plaque scoring agrees substantially with clinical examination.
-- [[periodontics/sooampon-2026-dc-red-33-erythrosine-plaque-disclosure-rct]] — related methodology: addresses the disclosing-agent/dye side of plaque visualization, complementary to this paper's imaging/recording-method focus.
-- [[periodontics/rajwani-2020-manual-toothbrushing-techniques-plaque-gingivitis-sr]] — shares the Ramfjord partial-mouth recording convention used for plaque/index assessment across this wiki's plaque literature.
+- [[periodontics/oral-hygiene-instruction/sooampon-2026-dc-red-33-erythrosine-plaque-disclosure-rct]] — related methodology: addresses the disclosing-agent/dye side of plaque visualization, complementary to this paper's imaging/recording-method focus.
+- [[periodontics/oral-hygiene-instruction/rajwani-2020-manual-toothbrushing-techniques-plaque-gingivitis-sr]] — shares the Ramfjord partial-mouth recording convention used for plaque/index assessment across this wiki's plaque literature.
