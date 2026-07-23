@@ -1031,7 +1031,7 @@ tags: []
 - [[prosthetic-materials/varvara-2020-retightening-preload-loss-abutment-screws]] — Varvara 2020, 재조임 타이밍(2·5·10분) vs 프리로드 손실; 내부 헥사곤이 외부 헥사곤보다 프리로드 유지 우수; 2분 재조임 최적 (in vitro)
 - [[prosthetic-materials/saleh-saber-2017-repeated-torque-tightening-abutment-lengths]] — Saleh Saber 2017, 반복 토크 조임이 내부 임플란트-어버트먼트 연결부 총 길이에 미치는 영향; 내부 옥타곤이 최소 침강, 2회차 이후 추가 변화 없음 (in vitro)
 - [[prosthetic-materials/abutment-screw/angermair-2024-microgap-abutment-displacement-implant-connection]] — Angermair 2024, 신크로트론 CT로 4종 IAC 마이크로갭·어버트먼트 변위 측정; 소각 원추형(<12°) 연결 시 외부 임플란트 벽 변형 주의 (in vitro)
-- [[prosthetic-materials/sagheb-2023-preload-friction-carbon-coated-abutment-screw]] — Sagheb 2023, 탄소 코팅 어버트먼트 나사 반복 조임(×10) 시 프리로드 329.9→253.7 N↓, 마찰계수 0.33→0.44↑; 재사용 코팅 나사는 최적 프리로드 달성 불가 (in vitro)
+- [[prosthetic-materials/abutment-screw/sagheb-2023-preload-friction-carbon-coated-abutment-screw]] — Sagheb 2023, 탄소 코팅 어버트먼트 나사 반복 조임(×10) 시 프리로드 329.9→253.7 N↓, 마찰계수 0.33→0.44↑; 재사용 코팅 나사는 최적 프리로드 달성 불가 (in vitro)
 - [[prosthetic-materials/abutment-screw/coelho-2024-preload-removal-torque-screw-coatings-laboratory]] — Coelho 2024, GapSeal vs PTFE 나사 코팅; PTFE 프리로드 유의하게 감소(p=0.004), GapSeal은 프리로드 유지+RTV 증가 → GapSeal 권장·PTFE 금기 (in vitro)
 - [[prosthetic-materials/abutment-screw/coelho-2025-screw-coating-ptfe-gapseal-cyclic-load]] — Coelho 2025, 사이클릭 로드(300,000회, 37°C) 추가 시 PTFE RTV 역전(15.30→31.50 Ncm 최고); GapSeal은 무사이클 환경에서 최고 성능; Micro-CT 마이크로갭 없음 (in vitro)
 - [[prosthetic-materials/abutment-screw/marenzi-2026-torque-limiting-devices-accuracy-manufacturers]] — Marenzi 2026, 3사 기계식 토크 제한 렌치 정확도; 모든 렌치가 설정값보다 낮은 토크 전달(오차 11–29.3%); 25 Ncm 시 마이크로갭 없음 (in vitro)
