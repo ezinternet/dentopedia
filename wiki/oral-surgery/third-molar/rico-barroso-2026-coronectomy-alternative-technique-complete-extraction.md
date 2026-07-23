@@ -5,7 +5,7 @@ year: 2026
 date: 2026-01-01
 doi: 10.4317/medoral.27459
 source: rico-barroso-2026-coronectomy-alternative-technique-complete-extraction.md
-category: [oral-surgery]
+category: [oral-surgery/third-molar]
 evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/rico-barroso-2026-coronectomy-alternative-technique-complete-extraction.pdf
 pdf_filename: rico-barroso-2026-coronectomy-alternative-technique-complete-extraction.pdf
@@ -58,6 +58,6 @@ This 2026 systematic review refreshes the coronectomy-versus-complete-extraction
 
 ## Related Papers
 
-- [[oral-surgery/cervera-espert-2016-coronectomy-mandibular-third-molar-sr]] — 2016 SR+MA를 최신 1차 연구군(예: Hamad 2024)으로 확장
-- [[oral-surgery/peixoto-2024-coronectomy-benefits-lower-third-molar-sr-ma]] — 신경 보호 신호에서 수렴
-- [[oral-surgery/povoa-2021-coronectomy-inferior-alveolar-nerve-sr]] — IAN 결과 보완
+- [[oral-surgery/third-molar/cervera-espert-2016-coronectomy-mandibular-third-molar-sr]] — 2016 SR+MA를 최신 1차 연구군(예: Hamad 2024)으로 확장
+- [[oral-surgery/third-molar/peixoto-2024-coronectomy-benefits-lower-third-molar-sr-ma]] — 신경 보호 신호에서 수렴
+- [[oral-surgery/third-molar/povoa-2021-coronectomy-inferior-alveolar-nerve-sr]] — IAN 결과 보완
