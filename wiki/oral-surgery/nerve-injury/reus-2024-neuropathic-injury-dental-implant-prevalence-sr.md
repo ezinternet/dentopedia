@@ -5,7 +5,7 @@ year: 2024
 date: 2024-06-12
 doi: 10.22514/jofph.2024.012
 source: reus-2024-neuropathic-injury-dental-implant-prevalence-sr.md
-category: [oral-surgery]
+category: [oral-surgery/nerve-injury]
 evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/reus-2024-neuropathic-injury-dental-implant-prevalence-sr.pdf
 pdf_filename: reus-2024-neuropathic-injury-dental-implant-prevalence-sr.pdf
@@ -68,4 +68,4 @@ Management evidence: pharmacological (first-line), low-level laser therapy, impl
 
 ## Related Papers
 
-- [[oral-surgery/lee-2015-inferior-alveolar-nerve-injury-management]] — management of IAN injury; this SR adds pooled prevalence data complementing the management framework
+- [[oral-surgery/nerve-injury/lee-2015-inferior-alveolar-nerve-injury-management]] — management of IAN injury; this SR adds pooled prevalence data complementing the management framework
