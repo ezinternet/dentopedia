@@ -5,7 +5,7 @@ year: 2019
 date: 2019-06-14
 doi: 10.1186/s12903-019-0809-2
 source: gehrke-2019-influence-margin-location-luting.md
-category: [prosthetic-materials]
+category: [prosthetic-materials/tooth-preparation]
 evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: true
@@ -80,7 +80,7 @@ Overall pattern: cement remnants were essentially ubiquitous across depths/surfa
 
 ## Related Papers
 
-- [[prosthetic-materials/velez-2020-implant-connection-abutment-design-screw]] — extends; velez-2020 addresses implant-abutment misfit from connection/screw-torque factors; this paper isolates a separate, cementation-side contributor (margin depth × luting material) to the same downstream biological-risk picture around the abutment-crown interface.
-- [[prosthetic-materials/hamed-2020-screw-vs-cement-implant-sr]] — reinforces; hamed-2020's systematic review already flags cement-retained restorations' biological-complication risk relative to screw-retained ones; this in-vitro study supplies the underlying mechanistic evidence (quantified cement-residue rates by margin depth/cement type) for *why* that risk exists.
+- [[prosthetic-materials/abutment-screw/velez-2020-implant-connection-abutment-design-screw]] — extends; velez-2020 addresses implant-abutment misfit from connection/screw-torque factors; this paper isolates a separate, cementation-side contributor (margin depth × luting material) to the same downstream biological-risk picture around the abutment-crown interface.
+- [[prosthetic-materials/abutment-screw/hamed-2020-screw-vs-cement-implant-sr]] — reinforces; hamed-2020's systematic review already flags cement-retained restorations' biological-complication risk relative to screw-retained ones; this in-vitro study supplies the underlying mechanistic evidence (quantified cement-residue rates by margin depth/cement type) for *why* that risk exists.
 - [[overviews/implant-prosthesis-misfit-connection-mbl-overview]] — this overview's synthesis already credits SCRP (screw-and-cement-retained prosthesis) with an MBL-protective effect "attributed to extraoral cementation allowing complete excess-cement removal" (Kim 2022 branch); this paper is the concrete evidence base for that mechanism and should be cited there on a future refresh.
 - [[overviews/implant-prosthesis-retention-screw-vs-cement-overview]] — broader retention-modality synthesis (screw vs cement vs SCRP); this paper adds abutment-margin-depth-specific granularity to the cement-retained arm.

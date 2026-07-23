@@ -3648,7 +3648,7 @@ tags: []
 - [[implants/wach-2026-emergence-angle-marginal-bone-loss]] — Retrospective (n=155 patients, 5yr, MIS implants): crown emergence angle NOT significantly associated with MBL for single/splinted crowns; weak significant association for bridges only (p=0.042) (Wach 2026)
 - [[implants/song-2024-long-term-clinical-radiographic-outcomes]] — Retrospective (872 implants/284 patients, 12.3yr mean, Yonsei Univ, **Korean journal JPIS**): 95.2% implant-level survival; implants ≤8mm carry 3.7× failure and 2.0× pathologic-MBL risk (Song 2024)
 - [[implants/raabe-2026-crestal-bone-loss-peri-implant]] — 25-year tissue-level implant cohort (n=233): no significant effect of prosthesis type (SC/SP/BR), retention, misfit, or emergence geometry on ΔCBL or peri-implantitis; incisor location, probing depth, suppuration drove bone loss instead (Raabe 2026)
-- [[prosthetic-materials/gehrke-2019-influence-margin-location-luting]] — In-vitro: CAD/CAM molar abutment margin depth (0–3mm) vs cement type (Temp Bond NE/Panavia V5) on undetected residual cement; recommend margins ≤1.5mm subgingival in proximal/oral regions (Gehrke 2019)
+- [[prosthetic-materials/tooth-preparation/gehrke-2019-influence-margin-location-luting]] — In-vitro: CAD/CAM molar abutment margin depth (0–3mm) vs cement type (Temp Bond NE/Panavia V5) on undetected residual cement; recommend margins ≤1.5mm subgingival in proximal/oral regions (Gehrke 2019)
 
 ### New batch — 2026-07-10 ingest (지르코니아 어버트먼트 · PMC full-text)
 - [[implants/soft-tissue/barwacz-2024-cadcam-abutment-morphology-implant-outcomes]] — Barwacz 2024 · rct(n=54/60, 1년) · CAD/CAM 지르코니아 지대주 오목(concave) vs 선형발산(linear divergent) 형태 — 점막정점·연조직두께·KMW·MBL·PD·BOP 모두 군간 유의차 없음(임플란트 생존율 100%)
