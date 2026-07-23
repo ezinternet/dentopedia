@@ -5,7 +5,7 @@ year: 2020
 date: 2020-02-14
 doi: 10.1002/mabi.201900382
 source: zhang-2020-methylcobalamin-plcl-nerve-regeneration-conduit.md
-category: [oral-surgery]
+category: [oral-surgery/nerve-injury]
 evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/zhang-2020-methylcobalamin-plcl-nerve-regeneration-conduit.pdf
 pdf_filename: zhang-2020-methylcobalamin-plcl-nerve-regeneration-conduit.pdf
@@ -68,4 +68,4 @@ The study establishes proof-of-concept for local, controlled MeCbl delivery via 
 
 ## Related Papers
 
-- [[oral-surgery/lee-2015-inferior-alveolar-nerve-injury-management]] — clinical context for IAN injury where MeCbl delivery conduits could apply
+- [[oral-surgery/nerve-injury/lee-2015-inferior-alveolar-nerve-injury-management]] — clinical context for IAN injury where MeCbl delivery conduits could apply
