@@ -977,7 +977,7 @@ tags: []
 - [[periodontics/gualtieri-2025-mcaf-gingival-recession-sr-ma]] — Gualtieri 2025 · sr+ma · 다발성 인접 치은퇴축(MAGR) mCAF 보조기법 비교(SR 17편, MA 9편): mCAF+sCTG가 가장 높은 완전 피개율 (DOI 10.3390/dj13100477)
 - [[periodontics/srinivasan-2025-pdt-periimplantitis-nonsurgical-sr-ma]] — Srinivasan 2025 · sr+ma · 25편: 임플란트 주위염 PDT 보조 비외과적 치료; 3개월 MD+PDT가 MD 단독 대비 PPD·BOP·MBI 유의 개선 (DOI 10.1016/j.jdent.2025.105680)
 - [[periodontics/duarte-2025-vitamin-d-periimplant-periodontal]] — Duarte 2025 · narrative-review · 비타민 D 결핍이 치주 및 임플란트 주위 치유에 미치는 영향; 결핍 시 골개조·면역반응 저하, 보충요법 근거 제한적 (DOI 10.3390/dj13100448)
-- [[periodontics/gartenmann-2018-comparative-effectiveness-hand-scaling]] — Gartenmann 2018 · prospective (취리히대 치대생 n=123, abstract-only) · 8.5시간 수기 스케일링 교육 후 치면세정률 61.7-79.5%로 향상, 숙련 치위생사(67.4%)와 유의차 없음 (DOI 10.1111/eje.12361)
+- [[periodontics/non-surgical-instrumentation/gartenmann-2018-comparative-effectiveness-hand-scaling]] — Gartenmann 2018 · prospective (취리히대 치대생 n=123, abstract-only) · 8.5시간 수기 스케일링 교육 후 치면세정률 61.7-79.5%로 향상, 숙련 치위생사(67.4%)와 유의차 없음 (DOI 10.1111/eje.12361)
 
 ## 보철재료 (Prosthetic Materials)
 - [[prosthetic-materials/leung-2022-update-on-dental-luting]] — Leung 2022 · narrative-review · luting 재료 7종(ZOE·인산아연·폴리카르복실레이트·GIC·RMGIC·CaAl/GI·레진시멘트)을 화학·결합기전·적응증 3축으로 분류한 기반 reference; "이상적 단일 시멘트는 없다"

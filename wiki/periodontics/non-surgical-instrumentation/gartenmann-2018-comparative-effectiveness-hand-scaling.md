@@ -5,7 +5,7 @@ year: 2018
 date: 2018-01-01
 doi: 10.1111/eje.12361
 source: gartenmann-2018-comparative-effectiveness-hand-scaling.md
-category: periodontics
+category: periodontics/non-surgical-instrumentation
 evidence_level: prospective
 source_collection: pubmed-text
 full_text: false
@@ -68,5 +68,5 @@ Following the Bologna-reform restructuring of pre-clinical curricula at the Univ
 
 ## Related Papers
 
-- [[periodontics/lodigkeit-2026-periodontal-instrumentation-enamel-cementum-review]] — applies-to: Lodigkeit's review flags operator-dependence (force, angulation, duration, tip wear) as a modulator of hand instrumentation's hard-tissue effects and notes hand offers better tactile feedback than ultrasonic. This study supplies direct evidence on the companion question — hand-scaling *effectiveness* rather than tissue damage — showing operator skill can reach expert level after as little as 8.5 hours of structured training.
-- [[periodontics/lamont-2018-routine-scale-and-polish-periodontal-health]] — contrast, prose-only: Lamont's Cochrane review questions the clinical benefit of *scheduling* routine scale-and-polish in healthy adults (a patient-outcome question), while this study addresses the operator-competency question of whether hand scaling can be performed effectively at all by a trained novice — related by topic ("routine scaling") but at a different level of evidence, not a direct evidentiary link.
+- [[periodontics/non-surgical-instrumentation/lodigkeit-2026-periodontal-instrumentation-enamel-cementum-review]] — applies-to: Lodigkeit's review flags operator-dependence (force, angulation, duration, tip wear) as a modulator of hand instrumentation's hard-tissue effects and notes hand offers better tactile feedback than ultrasonic. This study supplies direct evidence on the companion question — hand-scaling *effectiveness* rather than tissue damage — showing operator skill can reach expert level after as little as 8.5 hours of structured training.
+- [[periodontics/non-surgical-instrumentation/lamont-2018-routine-scale-and-polish-periodontal-health]] — contrast, prose-only: Lamont's Cochrane review questions the clinical benefit of *scheduling* routine scale-and-polish in healthy adults (a patient-outcome question), while this study addresses the operator-competency question of whether hand scaling can be performed effectively at all by a trained novice — related by topic ("routine scaling") but at a different level of evidence, not a direct evidentiary link.
