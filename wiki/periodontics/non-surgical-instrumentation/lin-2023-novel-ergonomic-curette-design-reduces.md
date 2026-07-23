@@ -5,7 +5,7 @@ year: 2023
 date: 2023-11-28
 doi: 10.3390/dj11120272
 source: lin-2023-novel-ergonomic-curette-design-reduces.md
-category: periodontics
+category: periodontics/non-surgical-instrumentation
 evidence_level: in-vivo
 source_collection: pubmed-text
 full_text: true
@@ -90,4 +90,4 @@ Clinically, this is bench/simulation evidence, not a patient trial — it demons
 ## Related Papers
 
 - [[professional-wellbeing/kaki-2022-health-wellbeing-clinical-dental-professionals]] — Kaki 2022's systematic review found UK Dental Care Professional (hygienist/therapist) wellbeing evidence concentrated in job-satisfaction/career determinants, with physical/workplace-design factors largely unaddressed; this paper extends that evidence base into exactly that gap, with controlled physiological (sEMG, grip-force) evidence that instrument handle design is a modifiable workplace-level (meso) determinant of hygienist musculoskeletal strain.
-- [[periodontics/dvorska-2026-mechanical-instrumentation-hard-tissue-sr]] — a complementary but distinct axis on hand-instrument performance: Dvorska 2026 compares hand curettes vs. ultrasonic scalers vs. air-polishing on *root-surface substance loss* (patient/tissue-side outcome), while this paper compares two hand-curette *handle designs* on *operator-side* physiological cost — together they frame instrumentation choices along both a tissue-safety axis and an operator-ergonomics axis.
+- [[periodontics/non-surgical-instrumentation/dvorska-2026-mechanical-instrumentation-hard-tissue-sr]] — a complementary but distinct axis on hand-instrument performance: Dvorska 2026 compares hand curettes vs. ultrasonic scalers vs. air-polishing on *root-surface substance loss* (patient/tissue-side outcome), while this paper compares two hand-curette *handle designs* on *operator-side* physiological cost — together they frame instrumentation choices along both a tissue-safety axis and an operator-ergonomics axis.
