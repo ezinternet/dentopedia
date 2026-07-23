@@ -5,7 +5,7 @@ year: 2026
 date: 2026-01-01
 doi: 10.1007/s00784-026-06909-5
 source: dasilveira-2026-subgingival-irrigation-chemical-agents-nspt-sr-ma.md
-category: periodontics
+category: periodontics/non-surgical-instrumentation
 evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
@@ -76,8 +76,8 @@ The bottom line: **adjunctive CA subgingival irrigation provides no additional c
 
 ## Related Papers
 
-- [[periodontics/ramanauskaite-2020-antiseptics-adjuncts-scaling-root-planing]] — refines: that review covers antiseptics broadly as SRP adjuncts; this one isolates the subgingival-irrigation delivery channel and finds no benefit.
-- [[periodontics/khattri-2020-adjunctive-systemic-antimicrobials-non-surgical-treatment]] — contrast: systemic antimicrobial adjuncts to NSPT (different delivery route, different benefit profile).
+- [[periodontics/non-surgical-instrumentation/ramanauskaite-2020-antiseptics-adjuncts-scaling-root-planing]] — refines: that review covers antiseptics broadly as SRP adjuncts; this one isolates the subgingival-irrigation delivery channel and finds no benefit.
+- [[periodontics/non-surgical-instrumentation/khattri-2020-adjunctive-systemic-antimicrobials-non-surgical-treatment]] — contrast: systemic antimicrobial adjuncts to NSPT (different delivery route, different benefit profile).
 - [[periodontics/sanz-2020-treatment-stage-i-iii-periodontitis-efp]] — EFP S3 guideline; chemical/slow-release adjuncts show no significant long-term effect, consistent with this review.
 - [[periodontics/deepthi-2020-ozone-therapy-periodontics-meta-analysis]] — ozone in periodontics; relevant to the single-study OW signal.
 - [[periodontics/barahim-2024-ozone-gel-srp-diabetic-periodontitis-rct]] — ozone adjunct RCT (gel vehicle, excluded from this review's scope).

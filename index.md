@@ -891,7 +891,7 @@ tags: []
 - [[periodontics/oral-hygiene-instruction/basudan-2023-chlorhexidine-salvadora-mouthwash-periodontal]] — Basudan 2023 · rct (191명, 6주) · 0.12% CHX = miswak(항염); CHX > miswak (Candida 억제); 흡연자에서 가글 항진균 효과 없음 (DOI 10.3290/j.ohpd.b4169713)
 - [[periodontics/demolon-2026-periodontitis-bone-loss-signaling-pathways]] — de Molon 2026 · narrative-review · 치주염 치조골 소실의 NF-κB·JAK/STAT·MAPK·PI3K/Akt 신호경로와 신흥 치료전략(denosumab·JAK억제제·천연화합물) 비판적 종합 (DOI 10.1038/s41413-025-00478-1)
 - [[periodontics/liu-2019-periodontal-bone-ligament-cementum-regeneration]] — Liu 2019 · sr · 치주인대·백악질·골 복합체 동시 재생: PDLSC+BCP scaffold, 3D 바이오프린팅 fiber-guiding, 유전자치료, LBL 층별 구조체 전략 망라 (DOI 10.3390/cells8060537)
-- [[periodontics/dasilveira-2026-subgingival-irrigation-chemical-agents-nspt-sr-ma]] — da Silveira 2026 · sr+ma · 16 RCT(712명): NSPT에 약제 치은연하세척 추가해도 PPD·CAL·BOP 추가이득 없음(근거 낮음)
+- [[periodontics/non-surgical-instrumentation/dasilveira-2026-subgingival-irrigation-chemical-agents-nspt-sr-ma]] — da Silveira 2026 · sr+ma · 16 RCT(712명): NSPT에 약제 치은연하세척 추가해도 PPD·CAL·BOP 추가이득 없음(근거 낮음)
 - [[periodontics/angelopoulou-2026-melatonin-adjunct-nspt-t2dm-sr-ma]] — Angelopoulou 2026 · sr+ma · 당뇨병성 치주염 NSPT에 전신 멜라토닌(3mg) 보조: PPD·CAL·HbA1c·hs-CRP 유의 개선(2 RCT 풀링, 근거 낮음)
 - [[periodontics/jungbauer-2026-naocl-hyaluronic-acid-subgingival-reinstrumentation-rct]] — Jungbauer 2026 · rct · 재기구조작에 AA-NaOCl+xHA(clean&seal) 보조 시 6개월 PD +0.50mm·CAL +0.57mm 추가 개선, 포켓폐쇄 88% vs 38%
 - [[periodontics/corana-2024-salivary-proteomics-novel-biomarkers-periodontitis-sr]] — Corana 2024 · sr (13편, untargeted 타액 프로테오믹스) · 치주염에서 C3·profilin-1·S100A8·fibrinogen 일관 상승, cystatin-SN·leukocyte elastase inhibitor 일관 감소; 메타분석 가능 마커는 S100A8뿐(AUC 0.71)이라 단일마커 타액 스크리닝 근거 미성숙 (DOI 10.1111/jre.13357)
