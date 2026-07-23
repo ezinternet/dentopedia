@@ -5,7 +5,7 @@ year: 2026
 date: 2026-03-24
 doi: 10.1016/j.jdent.2026.106641
 source: gusseva-2026-dual-light-photodynamic-therapy-plaque-rct.md
-category: [periodontics]
+category: [periodontics/oral-hygiene-instruction]
 evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/gusseva-2026-dual-light-photodynamic-therapy-plaque-rct.pdf
 pdf_filename: gusseva-2026-dual-light-photodynamic-therapy-plaque-rct.pdf
@@ -88,5 +88,5 @@ The key finding: in the pooled within-subject analysis, aPDT adjunct periods pro
 
 ## Related Papers
 
-- [[periodontics/luo-2026-electric-toothbrush-technologies-plaque-gingivitis-nma]] — network meta-analysis of powered-toothbrush technologies for plaque/gingivitis; this aPDT pilot tests what a non-mechanical light/chemical adjunct adds *on top of* mechanical self-care (applies-to relation).
+- [[periodontics/oral-hygiene-instruction/luo-2026-electric-toothbrush-technologies-plaque-gingivitis-nma]] — network meta-analysis of powered-toothbrush technologies for plaque/gingivitis; this aPDT pilot tests what a non-mechanical light/chemical adjunct adds *on top of* mechanical self-care (applies-to relation).
 - [[periodontics/tsilingaridis-2026-biofilm-induced-gingivitis-children-adolescents]] — biofilm-induced gingivitis in a younger population; shares the plaque/biofilm-control theme from the disease-development side.
