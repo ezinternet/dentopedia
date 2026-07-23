@@ -5,7 +5,7 @@ year: 2023
 date: 2023-07-17
 doi: 10.3390/dj11070172
 source: delia-2023-dental-biofilm-indices-narrative-review.md
-category: [periodontics]
+category: [periodontics/oral-hygiene-instruction]
 evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: true
@@ -69,7 +69,7 @@ No original clinical data — this is a methods-taxonomy synthesis. Key take-hom
 
 ## Related Papers
 
-- [[periodontics/sooampon-2026-dc-red-33-erythrosine-plaque-disclosure-rct]] — RCT comparing erythrosine vs D&C Red No. 33 disclosing agents and reporting TQHPI (Turesky-modified Quigley-Hein Plaque Index) staining; this review supplies the disclosing-agent mechanism/history and TQHPI lineage behind that trial's outcome measure.
+- [[periodontics/oral-hygiene-instruction/sooampon-2026-dc-red-33-erythrosine-plaque-disclosure-rct]] — RCT comparing erythrosine vs D&C Red No. 33 disclosing agents and reporting TQHPI (Turesky-modified Quigley-Hein Plaque Index) staining; this review supplies the disclosing-agent mechanism/history and TQHPI lineage behind that trial's outcome measure.
 - [[interdental-cleaning/sawan-2022-super-floss-water-flosser-orthodontic-rct]] — split-mouth RCT using the Rustogi Modified Navy Plaque Index (RMNPI) to compare Super Floss vs a water flosser; this review explains RMNPI's origin (Navy Plaque Index → Elliott/Rustogi 9-area modification) and its rationale for weighting gingival-margin deposits.
-- [[periodontics/rajwani-2020-manual-toothbrushing-techniques-plaque-gingivitis-sr]] — SR comparing manual toothbrushing techniques on plaque/gingivitis indices; this review is a useful methodology reference for interpreting which plaque index each included trial used.
-- [[periodontics/luo-2026-electric-toothbrush-technologies-plaque-gingivitis-nma]] — network meta-analysis of electric-toothbrush technologies on plaque/gingivitis outcomes, another consumer of the index-selection considerations (severity-graded vs dichotomous) discussed here.
+- [[periodontics/oral-hygiene-instruction/rajwani-2020-manual-toothbrushing-techniques-plaque-gingivitis-sr]] — SR comparing manual toothbrushing techniques on plaque/gingivitis indices; this review is a useful methodology reference for interpreting which plaque index each included trial used.
+- [[periodontics/oral-hygiene-instruction/luo-2026-electric-toothbrush-technologies-plaque-gingivitis-nma]] — network meta-analysis of electric-toothbrush technologies on plaque/gingivitis outcomes, another consumer of the index-selection considerations (severity-graded vs dichotomous) discussed here.
