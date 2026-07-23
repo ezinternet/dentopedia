@@ -1570,7 +1570,7 @@ tags: []
 
 ## 구강외과 (Oral Surgery)
 - [[oral-surgery/third-molar/rodriguez-sanchez-2017-chlorhexidine-alveolar-osteitis-third]] — Rodríguez Sánchez 2017 · sr+ma (23 RCT, 2,824 발치) · CHX (제형·농도 무관) 사랑니 발치 후 건성발치와 위험 47% 감소 (RR=0.53, NNT=8); 겔 > 가글 (RR 0.47 vs 0.58) (DOI 10.1016/j.joms.2017.01.002)
-- [[oral-surgery/lee-2015-inferior-alveolar-nerve-injury-management]] — 증례보고: 제3대구치 발치 중 IAN 노출 → dexamethasone 국소도포 + prednisolone 점감 + NSAIDs → 36일 내 neuropraxia 완전 회복
+- [[oral-surgery/nerve-injury/lee-2015-inferior-alveolar-nerve-injury-management]] — 증례보고: 제3대구치 발치 중 IAN 노출 → dexamethasone 국소도포 + prednisolone 점감 + NSAIDs → 36일 내 neuropraxia 완전 회복
 - [[oral-surgery/zeytinoglu-2026-comparative-effects-low-level-laser]] — Zeytinoğlu 2026 · prospective (n=27, IAN 18·LN 9) · Aδ/C섬유(통증자극) vs Aβ섬유(무통자극) 구분 CSP 검사 병행 — LLLT가 TENS·위약보다 유의하게 우수한 임상회복(통증·화끈거림·발음·물림), 단 전기생리(CSP) 회복은 비유의
 - [[oral-surgery/kim-2019-bone-collector-drill-assembly]] — 특허(등록 10-2327565, (주)해냄/김성주): 자가골 채집 드릴조립체 — 탄성스토퍼 접힘밴드가 삽입깊이 외부 표시 + 종래 경질 수집통 가압통증 완화, 수집공으로 골·혈액 채집
 - [[oral-surgery/sarikov-2014-ian-injury-third-molar-review]] — 문헌고찰(JOMR 2014, 14편): IAN 감각이상 0.35–8.4%; 24세 초과·수평매복·수련의 시술 위험인자; 영구적 손상 드묾; 대부분 회복

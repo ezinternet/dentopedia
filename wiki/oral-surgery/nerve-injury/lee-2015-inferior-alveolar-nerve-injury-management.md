@@ -7,7 +7,7 @@ date: 2015-01-01
 journal: J Korean Academy of Advanced General Dentistry 2015;4:33-37
 source: lee-2015-inferior-alveolar-nerve-injury-management.md
 evidence_level: case-report
-category: [oral-surgery]
+category: [oral-surgery/nerve-injury]
 pdf_path: /Users/oracleneo/llm-wiki/papers/lee-2015-inferior-alveolar-nerve-injury-management.pdf
 pdf_filename: lee-2015-inferior-alveolar-nerve-injury-management.pdf
 source_collection: external
@@ -65,4 +65,4 @@ Neurotmesis → 외과적 재건 필요
 ```
 
 ## Related Papers
-- [[oral-surgery/yaniv-klein-2026-orthognathic-surgery-nerve-injuries-treatment]] — 287례 정악교정수술 코호트에서 LLLT·스테로이드·비타민B를 비교, 본 증례의 "표준 프로토콜 부재" 결론을 대규모로 재확인
+- [[oral-surgery/nerve-injury/yaniv-klein-2026-orthognathic-surgery-nerve-injuries-treatment]] — 287례 정악교정수술 코호트에서 LLLT·스테로이드·비타민B를 비교, 본 증례의 "표준 프로토콜 부재" 결론을 대규모로 재확인
