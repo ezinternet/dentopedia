@@ -6,7 +6,7 @@ doi: ""
 date: 2019-01-01
 source: kim-2019-astra-implant-dissection-solutions.md
 evidence_level: narrative-review
-category: prosthetic-materials
+category: prosthetic-materials/abutment-screw
 pdf_path: /Users/oracleneo/llm-wiki/papers/kim-2019-astra-implant-dissection-solutions.pdf
 pdf_filename: kim-2019-astra-implant-dissection-solutions.pdf
 source_collection: local
@@ -34,7 +34,7 @@ Most Astra prosthetic complications are preventable through surgical-prosthetic 
 
 # Astra Implant Complications: Screw Loosening and Fixture Fracture Management
 
-**Source**: [[prosthetic-materials/kim-2019-astra-implant-dissection-solutions]]  
+**Source**: [[prosthetic-materials/abutment-screw/kim-2019-astra-implant-dissection-solutions]]  
 **Year**: 2019 | **Author Perspective**: Seoul National University faculty, 16+ years clinical experience | **Type**: Clinical practice guide
 
 ## Clinical Significance
