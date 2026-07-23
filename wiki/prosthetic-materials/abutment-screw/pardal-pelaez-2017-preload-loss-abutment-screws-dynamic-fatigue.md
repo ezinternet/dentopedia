@@ -5,7 +5,7 @@ year: 2017
 date: 2017-11-01
 doi: "10.4317/jced.54374"
 source: pardal-pelaez-2017-preload-loss-abutment-screws-dynamic-fatigue.md
-category: [prosthetic-materials]
+category: [prosthetic-materials/abutment-screw]
 evidence_level: sr
 source_collection: pubmed-text
 full_text: true
@@ -73,6 +73,6 @@ Pardal-Peláez & Montero (2017) systematically reviewed in-vitro studies that su
 
 ## Related Papers
 
-- [[prosthetic-materials/velez-2020-implant-connection-abutment-design-screw]] — reinforces: provides the comparative in-vitro evidence base behind Vélez's 11° Morse-taper abutment-screw torque/misfit findings, situating that single experiment within a 10-study torque-loss range.
-- [[prosthetic-materials/ren-2024-morse-taper-abutment-subsidence-locking-force]] — reinforces: this SR's Morse-taper "best resists loosening" conclusion under cyclic load corroborates Ren's mechanism of Morse-taper subsidence/locking-force behavior.
+- [[prosthetic-materials/abutment-screw/velez-2020-implant-connection-abutment-design-screw]] — reinforces: provides the comparative in-vitro evidence base behind Vélez's 11° Morse-taper abutment-screw torque/misfit findings, situating that single experiment within a 10-study torque-loss range.
+- [[prosthetic-materials/abutment-screw/ren-2024-morse-taper-abutment-subsidence-locking-force]] — reinforces: this SR's Morse-taper "best resists loosening" conclusion under cyclic load corroborates Ren's mechanism of Morse-taper subsidence/locking-force behavior.
 - [[implants/seong-2016-external-internal-implant-connection-system]] — extends: adds quantitative cyclic-fatigue torque-loss data (16.1%–39%) to Seong's external-vs-internal connection-system comparison.
