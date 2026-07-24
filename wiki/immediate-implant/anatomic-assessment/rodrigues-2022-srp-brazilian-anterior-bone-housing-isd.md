@@ -5,7 +5,7 @@ year: 2022
 date: 2022-06-01
 doi: 10.5624/isd.20210226
 source: rodrigues-2022-srp-brazilian-anterior-bone-housing-isd.md
-category: [immediate-implant]
+category: [immediate-implant/anatomic-assessment]
 evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/rodrigues-2022-srp-brazilian-anterior-bone-housing-isd.pdf
 pdf_filename: rodrigues-2022-srp-brazilian-anterior-bone-housing-isd.pdf
