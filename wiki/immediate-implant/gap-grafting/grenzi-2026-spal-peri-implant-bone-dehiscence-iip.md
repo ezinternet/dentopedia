@@ -5,7 +5,7 @@ year: 2026
 date: 2026-04-30
 doi: 10.1002/cap.70070
 source: grenzi-2026-spal-peri-implant-bone-dehiscence-iip.md
-category: [immediate-implant]
+category: [immediate-implant/gap-grafting]
 evidence_level: case-report
 pdf_path: /Users/oracleneo/llm-wiki/papers/grenzi-2026-spal-peri-implant-bone-dehiscence-iip.pdf
 pdf_filename: grenzi-2026-spal-peri-implant-bone-dehiscence-iip.pdf
