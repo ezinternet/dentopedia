@@ -6,7 +6,7 @@ date: 2026-01-01
 doi: 10.1186/s40729-026-00667-5
 journal: Int J Implant Dent 12:2
 source: bouffleur-2026-open-vs-closed-healing-immediate-implant-rct.md
-category: [immediate-implant]
+category: [immediate-implant/esthetic-soft-tissue]
 evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/bouffleur-2026-open-vs-closed-healing-immediate-implant-rct.pdf
 pdf_filename: bouffleur-2026-open-vs-closed-healing-immediate-implant-rct.pdf
