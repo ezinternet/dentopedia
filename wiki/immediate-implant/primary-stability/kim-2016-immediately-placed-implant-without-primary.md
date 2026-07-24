@@ -7,7 +7,7 @@ date: 2016-01-01
 journal: Journal of Dental Implant Research, Vol. 35, No. 1, pp. 17-21
 source: kim-2016-immediately-placed-implant-without-primary.md
 evidence_level: case-report
-category: immediate-implant
+category: immediate-implant/primary-stability
 pdf_path: /Users/oracleneo/llm-wiki/papers/kim-2016-immediately-placed-implant-without-primary.pdf
 pdf_filename: kim-2016-immediately-placed-implant-without-primary.pdf
 source_collection: local
