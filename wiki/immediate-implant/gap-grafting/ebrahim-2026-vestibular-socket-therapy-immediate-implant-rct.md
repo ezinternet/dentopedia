@@ -6,7 +6,7 @@ date: 2026-05-26
 doi: 10.1186/s12903-026-08626-7
 journal: "BMC Oral Health 26(1)"
 source: ebrahim-2026-vestibular-socket-therapy-immediate-implant-rct.md
-category: [immediate-implant]
+category: [immediate-implant/gap-grafting]
 evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/ebrahim-2026-vestibular-socket-therapy-immediate-implant-rct.pdf
 pdf_filename: ebrahim-2026-vestibular-socket-therapy-immediate-implant-rct.pdf
