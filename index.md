@@ -2135,7 +2135,7 @@ tags: []
 
 ### drug (added 2026-05-24, batch b)
 
-- [[oral-medicine/lee-2024-burning-mouth-syndrome-clinical-treatment]] — Eunjin Lee 2024 · retrospective · A retrospective study on the clinical characteristics and treatment outcomes of patients with burning mouth syndrome
+- [[oral-medicine/burning-mouth-syndrome/lee-2024-burning-mouth-syndrome-clinical-treatment]] — Eunjin Lee 2024 · retrospective · A retrospective study on the clinical characteristics and treatment outcomes of patients with burning mouth syndrome
 
 ### implants (added 2026-05-24, batch b)
 
