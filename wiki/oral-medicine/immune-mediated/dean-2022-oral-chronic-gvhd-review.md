@@ -5,7 +5,7 @@ year: 2022
 date: 2022-05-20
 doi: 10.3389/froh.2022.903154
 source: dean-2022-oral-chronic-gvhd-review.md
-category: [oral-medicine]
+category: [oral-medicine/immune-mediated]
 evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/dean-2022-oral-chronic-gvhd-review.pdf
 pdf_filename: dean-2022-oral-chronic-gvhd-review.pdf
