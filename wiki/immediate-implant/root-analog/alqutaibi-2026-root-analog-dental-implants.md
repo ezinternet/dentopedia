@@ -5,7 +5,7 @@ year: 2026
 date: 2026-07-01
 doi: 10.1016/j.prosdent.2026.01.019
 source: alqutaibi-2026-root-analog-dental-implants.md
-category: [immediate-implant]
+category: [immediate-implant/root-analog]
 evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/alqutaibi-2026-root-analog-dental-implants.pdf
 pdf_filename: alqutaibi-2026-root-analog-dental-implants.pdf
