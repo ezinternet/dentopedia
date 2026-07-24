@@ -5,7 +5,7 @@ year: 2015
 date: 2015-02-13
 doi: 10.1371/journal.pone.0117251
 source: al-amery-2015-cbct-maxillary-incisive-canal-immediate-implants.md
-category: [immediate-implant]
+category: [immediate-implant/anatomic-assessment]
 evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/al-amery-2015-cbct-maxillary-incisive-canal-immediate-implants.pdf
 pdf_filename: al-amery-2015-cbct-maxillary-incisive-canal-immediate-implants.pdf
