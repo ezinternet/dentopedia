@@ -5,7 +5,7 @@ year: 2020
 date: 2020-04-05
 doi: "10.3390/ijerph17072478"
 source: ramirez-martinez-acitores-2020-antihypertensive-xerostomia-salivary-flow-sr.md
-category: [oral-medicine]
+category: [oral-medicine/salivary-chemosensory]
 evidence_level: sr
 source_collection: pubmed-text
 full_text: true
