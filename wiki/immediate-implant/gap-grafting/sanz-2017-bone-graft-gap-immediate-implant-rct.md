@@ -5,7 +5,7 @@ year: 2017
 date: 2016-06-07
 doi: 10.1111/clr.12896
 source: sanz-2017-bone-graft-gap-immediate-implant-rct.md
-category: [immediate-implant]
+category: [immediate-implant/gap-grafting]
 evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/sanz-2017-bone-graft-gap-immediate-implant-rct.pdf
 pdf_filename: sanz-2017-bone-graft-gap-immediate-implant-rct.pdf
