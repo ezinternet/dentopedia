@@ -5,7 +5,7 @@ year: 2024
 date: 2024-08-26
 doi: 10.5051/jpis.2303580179
 source: najm-2024-immediate-implant-premolar-perforation-cbct.md
-category: [immediate-implant]
+category: [immediate-implant/anatomic-assessment]
 evidence_level: cross-sectional
 source_collection: pubmed-text
 full_text: true
