@@ -5,7 +5,7 @@ year: 2022
 date: 2022-01-01
 doi: "10.1016/j.amsu.2022.104313"
 source: aldebes-2022-restoration-material-marginal-bone-resorption.md
-category: [immediate-implant]
+category: [immediate-implant/root-analog]
 evidence_level: rct
 source_collection: pubmed-text
 full_text: true

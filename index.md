@@ -3673,7 +3673,7 @@ tags: []
 - [[bone-regeneration/bubalo-2026-bone-substitutes-alveolar-ridge-augmentation]] — Bubalo 2026 · narrative-review · 치조제 증대용 골이식재 7종(자가골/동종골/이종골/합성골/탈회치아기질/PRF-PRP/3D프린팅 스캐폴드) 비교 + 결손 유형별 선택 알고리즘
 
 ### New batch — 2026-07-12 ingest (reference-mining — root-analog implant SR 인용문헌, PMC 풀텍스트)
-- [[immediate-implant/aldebes-2022-restoration-material-marginal-bone-resorption]] — Aldebes 2022 · rct(n=18) · root-analogue 지르코니아 임플란트 PFM vs 복합레진 크라운 — 18개월 변연골소실 유의차 없음(0.61–0.77mm), 생존율 90%
+- [[immediate-implant/root-analog/aldebes-2022-restoration-material-marginal-bone-resorption]] — Aldebes 2022 · rct(n=18) · root-analogue 지르코니아 임플란트 PFM vs 복합레진 크라운 — 18개월 변연골소실 유의차 없음(0.61–0.77mm), 생존율 90%
 - [[immediate-implant/bose-2020-root-analogue-implants-single-crowns-fpd]] — Böse 2020 · retrospective(n=107, REPLICATE 시스템) · 최대 규모 단일기관 root-analogue implant 코호트 — 생존율 94.4%, 복합성공률 64.5%, MBL 1.20±0.73mm
 - [[immediate-implant/figliuzzi-2022-10-year-evaluation-first-root]] — Figliuzzi 2022 · case-report(10년 추적) · 세계 최초 DMLS 제작 root-analogue implant — 10년 시점 치조정골소실 0mm
 - [[immediate-implant/bose-2023-root-analogue-implants-orthodontic-extrusion]] — Böse 2023 · retrospective(n=40) · root-analogue implant vs 강제교정정출(forced orthodontic extrusion) 비교 — 생존율 100%로 동등하나 골·연조직 보존은 정출군이 우위
