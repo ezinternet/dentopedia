@@ -5,7 +5,7 @@ year: 2024
 date: 2024-07-01
 doi: 10.1016/j.jormas.2024.101960
 source: morais-2024-pemphigus-vulgaris-mucous-membrane-pemphigoid-oral-sr.md
-category: [oral-medicine]
+category: [oral-medicine/immune-mediated]
 evidence_level: sr
 source_collection: pubmed-text
 full_text: false
