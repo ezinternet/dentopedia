@@ -5,7 +5,7 @@ year: 2022
 date: 2022-09-09
 doi: 10.1186/s12903-022-02331-x
 source: lei-2022-alveolar-bone-width-sagittal-tooth.md
-category: [immediate-implant]
+category: [immediate-implant/anatomic-assessment]
 evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/lei-2022-alveolar-bone-width-sagittal-tooth.pdf
 pdf_filename: lei-2022-alveolar-bone-width-sagittal-tooth.pdf
