@@ -5,7 +5,7 @@ year: 2024
 date: 2024-03-12
 doi: 10.11607/ijp.8757
 source: kheur-2024-feasibility-iip-maxillary-first-premolars.md
-category: [immediate-implant]
+category: [immediate-implant/anatomic-assessment]
 evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/kheur-2024-feasibility-iip-maxillary-first-premolars.pdf
 pdf_filename: kheur-2024-feasibility-iip-maxillary-first-premolars.pdf
