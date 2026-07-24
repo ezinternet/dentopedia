@@ -5,7 +5,7 @@ year: 2019
 date: 2019-03-01
 doi: 10.1186/s40902-019-0196-2
 source: kim-2019-definition-management-odontogenic-maxillary.md
-category: [oral-medicine]
+category: [oral-medicine/odontogenic-sinusitis]
 evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/kim-2019-definition-management-odontogenic-maxillary.pdf
 pdf_filename: kim-2019-definition-management-odontogenic-maxillary.pdf
