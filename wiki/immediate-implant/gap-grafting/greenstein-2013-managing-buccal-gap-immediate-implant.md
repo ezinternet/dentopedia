@@ -6,7 +6,7 @@ date: 2013-03-01
 doi: ""
 pmid: "23516808"
 source: greenstein-2013-managing-buccal-gap-immediate-implant.md
-category: [immediate-implant]
+category: [immediate-implant/gap-grafting]
 evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/greenstein-2013-managing-buccal-gap-immediate-implant.pdf
 pdf_filename: greenstein-2013-managing-buccal-gap-immediate-implant.pdf
