@@ -5,7 +5,7 @@ year: 2017
 date: 2017-10-01
 doi: 10.1097/ID.0000000000000666
 source: prati-2017-immediate-early-delayed-implants-endodontic-infections.md
-category: [immediate-implant]
+category: [immediate-implant/infected-socket]
 evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/prati-2017-immediate-early-delayed-implants-endodontic-infections.pdf
 pdf_filename: prati-2017-immediate-early-delayed-implants-endodontic-infections.pdf
