@@ -5,7 +5,7 @@ year: 2025
 doi: 10.3390/medicina61122175
 date: 2025-12-07
 source: albu-2025-treatment-landscape-odontogenic-sinusitis.md
-category: [oral-medicine]
+category: [oral-medicine/odontogenic-sinusitis]
 evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: true
