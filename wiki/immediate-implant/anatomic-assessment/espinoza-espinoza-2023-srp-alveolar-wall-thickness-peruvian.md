@@ -5,7 +5,7 @@ year: 2023
 date: 2023-10-12
 doi: 10.11607/prd.6854
 source: espinoza-espinoza-2023-srp-alveolar-wall-thickness-peruvian.md
-category: [immediate-implant]
+category: [immediate-implant/anatomic-assessment]
 evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/espinoza-espinoza-2023-srp-alveolar-wall-thickness-peruvian.pdf
 pdf_filename: espinoza-espinoza-2023-srp-alveolar-wall-thickness-peruvian.pdf
