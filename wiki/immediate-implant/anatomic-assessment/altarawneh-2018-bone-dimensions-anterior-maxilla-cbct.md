@@ -5,7 +5,7 @@ year: 2018
 date: 2017-12-13
 doi: 10.1111/jopr.12675
 source: altarawneh-2018-bone-dimensions-anterior-maxilla-cbct.md
-category: [immediate-implant]
+category: [immediate-implant/anatomic-assessment]
 evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/altarawneh-2018-bone-dimensions-anterior-maxilla-cbct.pdf
 pdf_filename: altarawneh-2018-bone-dimensions-anterior-maxilla-cbct.pdf
