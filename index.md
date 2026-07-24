@@ -482,7 +482,7 @@ tags: []
 - [[immediate-implant/gap-grafting/sanz-2017-bone-graft-gap-immediate-implant-rct]] — 즉시식립 임플란트 협측 틈새(≥3mm) 이종골 충전 RCT — 충전군 협측 골 흡수 유의 감소(-0.46 vs -0.84mm).
 - [[immediate-implant/gap-grafting/paknejad-2017-flapless-immediate-implant-buccal-gap-rct]] — 무피판 즉시식립 협측 틈새 이종골 충전 RCT — 충전군에서 6·12개월 협측 골 흡수 유의 감소.
 - [[immediate-implant/gap-grafting/stagnaro-borgia-2022-immediate-implant-buccal-defect-tuberosity-rct]] — 즉시임플란트 협측 결손부 결절 자가골 vs 이종골 1년 RCT — 두 재료 동등(협측 골 흡수 0.61 vs 0.58mm).
-- [[immediate-implant/stanley-2020-five-thread-guideline-predicting-primary]] — 케이스 레터(3증례, JOI 2020): 5-TG — 나사산 ≥5개 원래 골 접촉 기준으로 즉시식립 1차 안정성 (Primary Stability) 예측; CBCT 가상 계획으로 bi/tri-socket 안정성 확인.
+- [[immediate-implant/primary-stability/stanley-2020-five-thread-guideline-predicting-primary]] — 케이스 레터(3증례, JOI 2020): 5-TG — 나사산 ≥5개 원래 골 접촉 기준으로 즉시식립 1차 안정성 (Primary Stability) 예측; CBCT 가상 계획으로 bi/tri-socket 안정성 확인.
 - [[immediate-implant/esthetic-soft-tissue/samet-2023-immediate-placement-loading-esthetic-zone]] — 서술적 리뷰(IntechOpen 챕터): 전치부 즉시식립·즉시부하 가이드 — 적응증·금기·구개측 축 진입·갭 이식·ovate pontic 임시치관; 잘 선택된 케이스에서 협측 골·연조직 보존 가능
 - [[immediate-implant/araujo-2006-tissue-modeling-implant-extraction-sockets]] — 비글견 동물실험 (7마리, 하악 소구치 발치와에 즉시 즉시식립 (Immediate Implant Placement, IIP)): 4주에 형성된 골-임플란트 접촉률 (Bone-to-Implant Contact, BIC)이 12주에는 협측 골벽 흡수로 인해 부분적으로 소실되어, 협측 변연골 (Buccal Crest)이 임플란트 어깨 (Shoulder) 보다 2 mm 이상 치근단 방향으로 이동.
 - [[immediate-implant/esthetic-soft-tissue/chen-2014-esthetic-outcomes-immediate-early-implant]] — 체계적 문헌고찰 (50편, 단일치 상악 전치/소구치 임플란트): 즉시식립 (Type 1, Immediate)은 1–3년 시점에 1 mm 이상 협측 변연 점막 퇴축 (Midfacial Recession)이 사이트의 9–41% (중앙값 26%)에서 발생하고, 콘빔 컴퓨터단층촬영 (Cone-Beam Computed Tomography, CBCT)에서 협측 골판 (Facial Bone Wall...
