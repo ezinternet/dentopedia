@@ -5,7 +5,7 @@ year: 2023
 date: 2023-04-24
 doi: 10.3390/curroncol30050336
 source: sardellitti-2023-xerostomia-pharmacological-traditional-medicine-overview.md
-category: [oral-medicine]
+category: [oral-medicine/salivary-chemosensory]
 evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: true
