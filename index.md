@@ -1861,7 +1861,7 @@ tags: []
 - [[overviews/odontogenic-maxillary-sinusitis-overview]] — **Overview** (종합 10편, 2026-06-12): OMS 진단→감염원 제거→FESS 병행→OAF 폐쇄 결정 경로. 인식(만성 상악동염 30–40%·의인성 ~55%)·이중확인 진단(CBCT, 치주골소실 OR 2.2 > 치근단)·감염원 제거 시 90–100% 해소·OAF 크기/타이밍 폐쇄(BFP 우위, 급성 95% vs 만성 67%)
 - [[oral-medicine/jkda-2022-60-4-001]] — Cross-sectional (KUMC Halitosis Clinic, n=246, JKDA 2022): 한국 생리적 구취 환자 questionnaire·dietary·salivary 분석 — 진단·예방 protocol 기반 데이터
 - [[oral-medicine/jkda-2025-63-9-004]] — Case report (단국대 구강악안면방사선과 한원정, JKDA 2025): 미용 필러 유발 골흡수가 cyst로 오인 — CBCT 감별진단·history-taking 중요성
-- [[oral-medicine/jaaskelainen-2018-burning-mouth-syndrome-neuropathic-pain]] — NeuPSIG(PAIN) 리뷰: 일차성 BMS는 신경병성 통증; 말초형(lidocaine block·topical clonazepam 반응) vs 중추형(국소무반응+정신과 동반) 2-subtype 분류 (2018)
+- [[oral-medicine/burning-mouth-syndrome/jaaskelainen-2018-burning-mouth-syndrome-neuropathic-pain]] — NeuPSIG(PAIN) 리뷰: 일차성 BMS는 신경병성 통증; 말초형(lidocaine block·topical clonazepam 반응) vs 중추형(국소무반응+정신과 동반) 2-subtype 분류 (2018)
 - [[oral-medicine/kouri-2024-small-fiber-neuropathy-burning-mouth-syndrome]] — PRISMA SR(PROSPERO): BMS 혀 생검 신경섬유밀도 30–60%↓, TRPV1·P2X3·NGF·Nav1.7 변화 — 소섬유신경병증(SFN)이 핵심 병태생리 (2024)
 - [[oral-medicine/lodi-2020-oral-lichen-planus-corticosteroids-cochrane]] — Cochrane SR+MA (35 RCT, 1474명): 국소 스테로이드가 위약보다 OLP 통증 해소 우월 가능(RR 1.91, 95% CI 1.08–3.36, 낮은 근거); 타크롤리무스가 클로베타솔보다 통증에 나을 수 있음(매우 낮은 근거) (2020)
 - [[oral-medicine/sandhu-2022-oral-lichen-planus-treatment-sr]] — SR: OLP 치료 효능+비용 비교 — 스테로이드가 효능-비용 기준, 타크롤리무스 효과적이나 고가; 문헌 비용 보고 비일관 (BMC Oral Health 2022)
