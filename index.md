@@ -1824,7 +1824,7 @@ tags: []
 - [[oral-medicine/mucositis/bragues-2024-oral-mucositis-children-cancer-management-sr]] — Braguès 2024 · sr · 소아 항암 구강점막염: 발생률↓ 클로르헥시딘·기간↓ 꿀·통증↓ 올리브유, 전반 근거 불충분
 - [[oral-medicine/mucositis/hassanein-2025-arginine-glutamine-radiation-oral-mucositis-rct]] — Hassanein 2025 · rct · L-아르기닌·L-글루타민 모두 방사선 구강점막염 중증도·통증·체중감소 감소, 아르기닌은 글루타민에 비열등
 - [[oral-medicine/mucositis/petropoulou-2026-telemedicine-oral-complications-oncology-rct]] — Petropoulou 2026 · rct · 텔레메디신 RCT(105명, 아테네, 유방/폐/대장암 항암화학요법): 표준진료 대비 구강점막병소·치은출혈·치은염·우식·치주염 유의 감소, 칫솔질 빈도↑ (DOI 10.3389/fonc.2026.1774001)
-- [[oral-medicine/warnakulasuriya-2025-oral-lichen-planus-systemic-diseases]] — Warnakulasuriya 2025 · narrative-review · 구강편평태선 환자는 당뇨·갑상선·셀리악·간염·우울/불안 위험 유의 상승, 무증상 많아 선별·의뢰 필요
+- [[oral-medicine/lichen-planus/warnakulasuriya-2025-oral-lichen-planus-systemic-diseases]] — Warnakulasuriya 2025 · narrative-review · 구강편평태선 환자는 당뇨·갑상선·셀리악·간염·우울/불안 위험 유의 상승, 무증상 많아 선별·의뢰 필요
 - [[oral-medicine/immune-mediated/garcia-rios-2022-oral-manifestations-systemic-lupus-erythematosus-sr]] — García-Ríos 2022 · sr · SLE 구강증상 SR(15편): 구강궤양 최다(11/14편)·경구개 호발·타액분비저하/Sjögren 동반 흔함 (DOI 10.3390/ijerph191911910)
 - [[oral-medicine/immune-mediated/morais-2024-pemphigus-vulgaris-mucous-membrane-pemphigoid-oral-sr]] — Morais 2024 · sr · 자가면역 수포성질환 PV vs MMP(32편): 구강 주병소, PV→협점막·MMP→치은; DIF IgG+ 100%; PV 전신스테로이드·MMP 국소 (DOI 10.1016/j.jormas.2024.101960)
 - [[oral-medicine/salivary-chemosensory/poudel-2026-xerostomia-dental-treatment-outcomes-sr]] — Poudel 2026 · sr · 구강건조증(Sjögren 포함)이 수복물 실패 ~2.6–2.9배(재발우식); 임플란트 생존 >90%(방사선성은 낮음); 16편/1227명 (DOI 10.1186/s12903-026-07815-8)
