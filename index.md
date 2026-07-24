@@ -1846,7 +1846,7 @@ tags: []
 - [[oral-medicine/opmd/chiang-2021-lichen-planus-malignant-transformation-review]] — OLP 악성전환 위험인자·추적 프로토콜 고찰 — 6개월 주기 임상+조직학적 평가 권고.
 - [[oral-medicine/burning-mouth-syndrome/canfora-2025-burning-mouth-syndrome-pathogenesis-review]] — BMS 병인론 최신 업데이트 + ICD-11 기반 진단 알고리즘 — 신경병증·심리·호르몬 통합 모델.
 - [[oral-medicine/burning-mouth-syndrome/canfora-2026-burning-mouth-syndrome-management-review]] — BMS 포괄적 관리 전략 — clonazepam 국소 1차 치료, CBT, 저용량 TCA 다학제 접근.
-- [[oral-medicine/gupta-2016-burning-mouth-syndrome-review]] — BMS 정의·역학(폐경 후 여성 0.7–4.6%)·병인·치료 기초 고찰.
+- [[oral-medicine/burning-mouth-syndrome/gupta-2016-burning-mouth-syndrome-review]] — BMS 정의·역학(폐경 후 여성 0.7–4.6%)·병인·치료 기초 고찰.
 - [[oral-medicine/burning-mouth-syndrome/chmieliauskaite-2020-burning-mouth-syndrome-icd11-rename-delphi]] — BMS → BMD(Burning Mouth Disorder) 명칭 변경 + ICD-11 기준 개선 국제 Delphi 합의.
 - [[oral-medicine/manfredini-2021-recurrent-aphthous-stomatitis-treatment]] — 재발성 아프타 구내염(RAS) 치료 고찰 — 국소 스테로이드 1차, 콜히친·탈리도마이드 중증 적응증.
 - [[oral-medicine/aphthous-stomatitis/belenguer-guallar-2014-recurrent-aphthous-stomatitis-review]] — RAS 치료 문헌 고찰 — 국소 스테로이드·항균제·NSAIDs·LLLT 효과 비교.

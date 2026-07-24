@@ -5,7 +5,7 @@ year: 2016
 date: 2016-01-01
 doi: 10.4103/0973-1075.173942
 source: gupta-2016-burning-mouth-syndrome-review.md
-category: [oral-medicine]
+category: [oral-medicine/burning-mouth-syndrome]
 evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/gupta-2016-burning-mouth-syndrome-review.pdf
 pdf_filename: gupta-2016-burning-mouth-syndrome-review.pdf
