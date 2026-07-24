@@ -5,7 +5,7 @@ year: 2024
 date: 2024-09-12
 doi: 10.22514/jofph.2024.024
 source: villegas-diaz-2024-trigeminal-neuralgia-therapeutic-strategies-restore.md
-category: [oral-medicine]
+category: [oral-medicine/trigeminal-neuralgia]
 evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: true
