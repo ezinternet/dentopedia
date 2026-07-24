@@ -1848,7 +1848,7 @@ tags: []
 - [[oral-medicine/burning-mouth-syndrome/canfora-2026-burning-mouth-syndrome-management-review]] — BMS 포괄적 관리 전략 — clonazepam 국소 1차 치료, CBT, 저용량 TCA 다학제 접근.
 - [[oral-medicine/burning-mouth-syndrome/gupta-2016-burning-mouth-syndrome-review]] — BMS 정의·역학(폐경 후 여성 0.7–4.6%)·병인·치료 기초 고찰.
 - [[oral-medicine/burning-mouth-syndrome/chmieliauskaite-2020-burning-mouth-syndrome-icd11-rename-delphi]] — BMS → BMD(Burning Mouth Disorder) 명칭 변경 + ICD-11 기준 개선 국제 Delphi 합의.
-- [[oral-medicine/manfredini-2021-recurrent-aphthous-stomatitis-treatment]] — 재발성 아프타 구내염(RAS) 치료 고찰 — 국소 스테로이드 1차, 콜히친·탈리도마이드 중증 적응증.
+- [[oral-medicine/aphthous-stomatitis/manfredini-2021-recurrent-aphthous-stomatitis-treatment]] — 재발성 아프타 구내염(RAS) 치료 고찰 — 국소 스테로이드 1차, 콜히친·탈리도마이드 중증 적응증.
 - [[oral-medicine/aphthous-stomatitis/belenguer-guallar-2014-recurrent-aphthous-stomatitis-review]] — RAS 치료 문헌 고찰 — 국소 스테로이드·항균제·NSAIDs·LLLT 효과 비교.
 - [[oral-medicine/mills-2017-aphthous-stomatitis-oral-medicine-review]] — RAS 임상양상·병인론(면역·유전·영양·스트레스)·치료 단계적 접근 고찰.
 - [[oral-medicine/psillas-2020-odontogenic-maxillary-sinusitis-comprehensive-review]] — 서술 고찰 (그리스 ENT+치과): 단측 상악동염 약 30%가 치성 원인; 발치·치성감염·OAF 주 원인; 치과 수술 + ESS 병행 표준; ENT-치과 다학제팀 필수 (J Dent Sci 2021)
