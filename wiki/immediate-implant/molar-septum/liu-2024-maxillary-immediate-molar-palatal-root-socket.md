@@ -5,7 +5,7 @@ year: 2024
 date: 2024-10-09
 doi: 10.7759/cureus.71152
 source: liu-2024-maxillary-immediate-molar-palatal-root-socket.md
-category: [immediate-implant]
+category: [immediate-implant/molar-septum]
 evidence_level: case-report
 pdf_path: /Users/oracleneo/llm-wiki/papers/liu-2024-maxillary-immediate-molar-palatal-root-socket.pdf
 pdf_filename: liu-2024-maxillary-immediate-molar-palatal-root-socket.pdf
