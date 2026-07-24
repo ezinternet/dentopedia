@@ -5,7 +5,7 @@ year: 2021
 date: 2021-09-01
 doi: 10.1016/j.ortho.2021.07.002
 source: shafizadeh-2021-alveolar-bone-thickness-healthy-sr.md
-category: [immediate-implant]
+category: [immediate-implant/anatomic-assessment]
 evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/shafizadeh-2021-alveolar-bone-thickness-healthy-sr.pdf
 pdf_filename: shafizadeh-2021-alveolar-bone-thickness-healthy-sr.pdf
