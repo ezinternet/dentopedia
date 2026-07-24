@@ -5,7 +5,7 @@ year: 2024
 date: 2024-05-28
 doi: 10.3390/medicina60060893
 source: pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma.md
-category: [immediate-implant]
+category: [immediate-implant/infected-socket]
 evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma.pdf
 pdf_filename: pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma.pdf
