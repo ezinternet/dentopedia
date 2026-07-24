@@ -3367,7 +3367,7 @@ tags: []
 - [[immediate-implant/esthetic-soft-tissue/ruales-carrera-2019-peri-implant-tissue-customized-healing]] — 즉시 임플란트 식립 후 맞춤형 치유 지대주(CHA)로 연조직 외형 보존, 임시 보철·재개방 수술 생략 (케이스 시리즈, 2019)
 - [[immediate-implant/esthetic-soft-tissue/gomez-meda-2021-esthetic-biological-contour-emergence-profile]] — EBC(심미적 생물학적 윤곽) 개념: 임플란트 출현 윤곽을 4구역으로 구분하고 각 구역별 디자인 원칙 제시 (Gomez-Meda 2021)
 - [[immediate-implant/esthetic-soft-tissue/azpiazu-flores-2025-peri-implant-tissue-3d-printed]] — 3D 프린팅 출현 형태 형성체로 임플란트 주위 연조직 형성 및 IOS 등록 단순화 (증례 보고)
-- [[immediate-implant/atieh-2025-pre-extractive-vs-postextractive-immediate-molar]] — SR+MA, 4 RCTs, n=82; pre-extractive inter-radicular site prep for mandibular molar IIP: higher ISQ at placement (MD +3.39, p<.0001), better central positioning (RR 0.05); ISQ advantage lost by 3–6 months; low certainty evidence (Atieh 2025)
+- [[immediate-implant/molar-septum/atieh-2025-pre-extractive-vs-postextractive-immediate-molar]] — SR+MA, 4 RCTs, n=82; pre-extractive inter-radicular site prep for mandibular molar IIP: higher ISQ at placement (MD +3.39, p<.0001), better central positioning (RR 0.05); ISQ advantage lost by 3–6 months; low certainty evidence (Atieh 2025)
 
 ## Batch ingest (added 2026-06-14, batch d) — peri-implant soft-tissue augmentation efficacy SR/MAs
 
