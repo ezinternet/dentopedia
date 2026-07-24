@@ -5,7 +5,7 @@ year: 2025
 date: 2025-08-01
 doi: 10.1002/cre2.70182
 source: mansouri-2025-flapless-immediate-implant-bone-grafting-sr-ma.md
-category: [immediate-implant]
+category: [immediate-implant/gap-grafting]
 evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/mansouri-2025-flapless-immediate-implant-bone-grafting-sr-ma.pdf
 pdf_filename: mansouri-2025-flapless-immediate-implant-bone-grafting-sr-ma.pdf
