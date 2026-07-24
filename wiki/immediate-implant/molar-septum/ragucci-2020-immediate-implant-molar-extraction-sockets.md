@@ -5,7 +5,7 @@ year: 2020
 date: 2020-09-21
 doi: 10.1186/s40729-020-00235-5
 source: ragucci-2020-immediate-implant-molar-extraction-sockets.md
-category: [immediate-implant]
+category: [immediate-implant/molar-septum]
 evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/ragucci-2020-immediate-implant-molar-extraction-sockets.pdf
 pdf_filename: ragucci-2020-immediate-implant-molar-extraction-sockets.pdf
