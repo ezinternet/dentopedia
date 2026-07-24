@@ -449,7 +449,7 @@ tags: []
 - [[immediate-implant/esthetic-soft-tissue/fettouh-2026-safe-angle-guided-iip-anterior-maxilla-deviation]] — Fettouh 2026 · prospective · Safe Angle+plateau-drill 2가이드 전상악 즉시식립 편차 각도 4.56°·platform 0.91mm, 전 증례 safe angle 내·PES 11.89
 - [[immediate-implant/esthetic-soft-tissue/cosyn-2026-buccal-dehiscence-morphotype-regenerative-strategy-iip]] — Cosyn 2026 · narrative-review · 협측열개 11 morphotype(수직×수평×연조직) 분류로 즉시식립 금기 2개·재생전략 3단계 매핑
 - [[immediate-implant/esthetic-soft-tissue/nechita-2026-guided-provisionalization-emergence-profile-esthetic-zone]] — Nechita 2026 · retrospective · 디지털 가이드 즉시 프로비저널 emergence profile(n=20): 유지율 75%·1년 골소실 0.37mm·협측 +1.41mm·완전유두 70%
-- [[immediate-implant/yuan-2018-biomechanics-immediate-postextraction-osseointegration]] — 동물(쥐 구개치근 발치와 모델): 저변형률+PDL 유래 Wnt 반응세포가 즉시식립 골유착 구동, 고변형률→골세포사·흡수; 상악대구치 구개치근와 식립의 생역학적 근거
+- [[immediate-implant/primary-stability/yuan-2018-biomechanics-immediate-postextraction-osseointegration]] — 동물(쥐 구개치근 발치와 모델): 저변형률+PDL 유래 Wnt 반응세포가 즉시식립 골유착 구동, 고변형률→골세포사·흡수; 상악대구치 구개치근와 식립의 생역학적 근거
 - [[immediate-implant/primary-stability/witoonkitvanich-2025-immediate-implant-stability-maxilla-mandible]] — 통제 전향(n=30): 가이드 즉시 대구치 상·하악 ISQ 24주 비교 — 양악 1차 ISQ>73, 24주 하악>상악(81.5 vs 78.2, P=0.018), 상악만 2–4주 stability dip
 - [[immediate-implant/esthetic-soft-tissue/deng-2024-posterior-open-wound-healing-immediate-implant]] — 후향 코호트(40 후방 즉시식립): 반응성 연조직(RST) vs 흡수성 콜라겐 스폰지(ACS) 개방창 치유 ~6개월 동등(ACS 색조↑, RST 섬유성 회복↑)
 - [[immediate-implant/li-2026-safety-feasibility-immediate-implant-diabetic]] — SR+MA (10 studies, 1,350 pts, 1,623 implants): 당뇨환자 즉시식립 생존율은 건강군과 동등(RR 1.00/0.96, NS)하나 혈당조절 불량 시 MBL·BOP 유의 증가(2026)

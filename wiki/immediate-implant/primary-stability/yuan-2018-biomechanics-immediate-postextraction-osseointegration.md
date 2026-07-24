@@ -5,7 +5,7 @@ year: 2018
 date: 2018-04-01
 doi: 10.1177/0022034518765757
 source: yuan-2018-biomechanics-immediate-postextraction-osseointegration.md
-category: [immediate-implant]
+category: [immediate-implant/primary-stability]
 evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/yuan-2018-biomechanics-immediate-postextraction-osseointegration.pdf
 pdf_filename: yuan-2018-biomechanics-immediate-postextraction-osseointegration.pdf
