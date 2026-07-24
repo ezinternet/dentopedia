@@ -3817,3 +3817,11 @@ tags: []
 - [[overviews/pulpal-neurogenic-inflammation-counter-systems-overview]] — **NEW Overview** (6편, 2026-07-23): 치수 신경성 염증의 **내인성 제동장치 2벌** — 교감신경 NPY(Y1/Y2)와 내인성 오피오이드(MOR/DOR/KOR)가 SP/CGRP를 억제하고, 치수 운명은 그 균형이 정한다. **핵심: 브레이크는 조용히 고장난다** — 진행 우식에서 교감섬유 파괴로 NPY/Y1 붕괴(Caviedes-Bucheli 2026, 92편), 교정력 >180g가 오피오이드 용량 압도(재활성화 40–50일 권장) → 둘 다 **무증상 비가역성 치수염·괴사**. 즉 무통 ≠ 건강한 치수. 교세포 증폭축(Ye 2021), 열 이질통은 세관폐쇄 아닌 절연(Le Fur-Bonnabesse 2017), RAGE/NF-κB 약리표적(Liu 2025). 임상 RCT 0편.
 - [[overviews/trismus-limited-mouth-opening-overview]] — **NEW Overview** (2편, 2026-07-23): 개구장애는 **진단명이 아니라 징후**(절치간거리 <35mm, 정상 40–60). Falletti 2026의 4분면 병인분류(신경학적 vs 비신경학적 × 구조적 vs 비구조적)는 **치료 라우팅 장치** — 구조적이면 물리적 해제, 신경학적·비구조적이면 BoNT-A/바클로펜, 물리치료는 전 분면 공통, 불응성 관절외 제한은 오훼돌기절제술. red-flag 우선 진단(파상풍·중추병변 배제). 치과 최빈 의원성 원인은 IANB 후 개구장애 6기전이며 **조기·점증 악운동 운동이 회복 동력**(Khalifeh 2024, 18mm→50일째 42mm, n=1). 근거 얇음(서술리뷰 1+증례 1) 명시.
 - [[overviews/drug-antibiotic-odontogenic-pain-overview]] — **NEW Overview** (9편, 2026-07-22): 치통·치수/치근단 병소·치성감염 항생제 — **핵심 원칙: 치통 ≠ 감염.** SIP·치수괴사+국소농양·치관주위염 모두 항생제가 치료가 아니며 1차는 항상 결정적 보존치료(DCDT: 발수·근관치료·절개배농). ADA 2019 CPG: SIP±SAP 강한 비권고, 괴사+국소농양 조건부 비권고, 즉시 DCDT 불가 시에만 지연처방(amoxicillin 500mg tid). 근관치료 후 예방투여 무효(Shamszadeh 2020 SR+MA 8 RCT n=690, 5개 시점 전부 p>0.05). ESE 지침(Segura-Egea 2017): 발열≥38°C·개구장애·림프절병증·봉와직염 동반 시에만 YES — 유럽 치과의사 40–86%가 금기에서 처방 중. 급성 치성감염은 배농 시 무항생제 = 광범위 항생제 동일 결과(Teoh 2021) → 좁은 스펙트럼으로 충분.
+
+## Batch ingest (added 2026-07-24) — IIP 즉시로딩(immediate-implant/loading-protocol) PubMed 서베일런스, OA:PMC 6편 우선 인제스트 (2편 신규, 4편 기존중복)
+
+### implants
+- [[implants/gallucci-2026-current-state-of-evidence-for]] — Gallucci 2026 · sr (PROSPERO 갱신판, 140편: RCT 42+CCT/코호트 98, 임플란트 10,456개): 식립(즉시/조기/후기)×부하(즉시/조기/통상) 9개 프로토콜 가중생존율 91.6~100%(Type1A 98.0%, 1B 91.6%, 1C 95.0%, 2-3A 97.8%, 2-3B 100%, 2-3C 94.0%, 4A 97.2%, 4B 97.9%, 4C 97.5%) — 7개 프로토콜 "과학적·임상적 검증"(SCV), 조기부하(1B·2-3B)만 근거부족 (DOI 10.1111/cid.70120)
+
+### immediate-implant/gap-grafting
+- [[immediate-implant/gap-grafting/el-ebiary-2023-guided-immediate-implant-mixture-autogenous]] — RCT(n=24, 군당 12명, BMC Res Notes 2023): 상악 심미부 유도 즉시식립+디지털 즉시임시수복 시 2–3mm 틈새(jumping gap)를 자가골(Autogenous Bone)+이종골(Xenograft) 1:1 혼합 이식 vs 무이식 — 6개월 분홍심미지수(Pink Esthetic Score, PES) 이식군 유의 우수(13 vs 11.5, p=0.048), 이식군 상승(11.58→12.42)·대조군 하강(11.75→11.17)
