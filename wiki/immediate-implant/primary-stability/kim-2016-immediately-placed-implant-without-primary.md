@@ -33,7 +33,7 @@ This case-level evidence supports the feasibility of immediate placement without
 
 # Immediate Implant Placement Without Primary Stability: Case Report and Evidence
 
-**Source**: [[immediate-implant/kim-2016-immediately-placed-implant-without-primary]]  
+**Source**: [[immediate-implant/primary-stability/kim-2016-immediately-placed-implant-without-primary]]  
 **Year**: 2016 | **Study Type**: Clinical Case Report | **Focus**: Successful osseointegration despite mechanical instability
 
 ## Clinical Challenge Addressed

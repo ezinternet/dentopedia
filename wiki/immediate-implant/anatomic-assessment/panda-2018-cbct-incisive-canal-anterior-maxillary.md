@@ -45,5 +45,5 @@ Provides population-specific dimensional data. Quantifies how palatal IIP trajec
 Cross-sectional; single population; no outcome data.
 
 ## Related Papers
-- [[immediate-implant/kan-2011-sagittal-root-position-immediate-implant-anterior]]
-- [[immediate-implant/altarawneh-2018-bone-dimensions-anterior-maxilla-cbct]]
+- [[immediate-implant/anatomic-assessment/kan-2011-sagittal-root-position-immediate-implant-anterior]]
+- [[immediate-implant/anatomic-assessment/altarawneh-2018-bone-dimensions-anterior-maxilla-cbct]]

@@ -110,7 +110,7 @@ Oh & Chang (2008, in-vivo, 한국 임상 가이드) 가 동일 구조를 다음�
 |---|---|---|---|
 | **sr+ma** | [[implants/isq/tisci-2026-isq-it-mbl-survival-sr-ma]] | ISQ–IT 중등도 상관 but 비교 불가; **두 지표 모두 측정 권장** | r=0.44, I²>90% |
 | **sr** | [[implants/isq/lages-2018-isq-insertion-torque-correlation-sr]] | ISQ–IT 유의 상관 없음 (저근거); 한 방법만 선택 | r=0.366, p=0.079 |
-| **sr** | [[immediate-implant/wittneben-2023-immediate-implant-loaded-single-crown-sr]] | **즉시부하 기준: ISQ ≥70 + IT ≥35 Ncm 권장** | 5yr CSR 97.1% |
+| **sr** | [[immediate-implant/loading-protocol/wittneben-2023-immediate-implant-loaded-single-crown-sr]] | **즉시부하 기준: ISQ ≥70 + IT ≥35 Ncm 권장** | 5yr CSR 97.1% |
 | **prospective(n=48)** | [[implants/isq/andreatta-2020-simplified-loading-protocol-neoss-1year]] | **IT >40 Ncm → 6–8주 부하 가능 (ISQ trajectory 무관)** | 96% 달성, 0 실패 |
 | **rct(n=100)** | [[implants/isq/konuklu-2026-five-osteotomy-protocols-isq-rct]] | 모든 군 baseline ISQ>80, IT>30 Ncm; 300rpm 중속 드릴링이 3개월 ISQ 최고 | T4 ISQ p<0.05 |
 | **rct(n=85, BLX vs BL)** | [[implants/isq/monje-2025-implant-design-stability-early-healing-rct]] | 테이퍼(BLX) IT 우세(42.4 vs 30.6 Ncm)지만 **6주 ISQ는 원통형(BL)이 더 높음**(75.2 vs 72.2, p=0.02) — IT↑이 ISQ↑를 보장하지 않음 | 6주 dense RFA |

@@ -65,4 +65,4 @@ This case report documents the longest published follow-up (10 years) of a custo
 
 ## Related Papers
 
-- [[immediate-implant/alqutaibi-2026-root-analog-dental-implants]] — this case is one of the 28 studies synthesized in that root-analog implant systematic review; it represents the SR's longest individual follow-up and the historical first-in-human DLMS RAI application.
+- [[immediate-implant/root-analog/alqutaibi-2026-root-analog-dental-implants]] — this case is one of the 28 studies synthesized in that root-analog implant systematic review; it represents the SR's longest individual follow-up and the historical first-in-human DLMS RAI application.

@@ -54,6 +54,6 @@ Retrospective; n=69 patients / 124 implants; 3-arm; t-test/ANOVA/chi-square as a
 
 ## Related Papers
 - [[immediate-implant/esthetic-soft-tissue/nassani-2025-immediate-vs-delayed-implant-bony-defect-commentary]] — buccal defect immediate.
-- [[immediate-implant/li-2025-immediate-implant-periodontitis-short-term-retrospective]] — periodontitis immediate.
-- [[immediate-implant/bouffleur-2026-open-vs-closed-healing-immediate-implant-rct]] — open vs closed healing.
+- [[immediate-implant/infected-socket/li-2025-immediate-implant-periodontitis-short-term-retrospective]] — periodontitis immediate.
+- [[immediate-implant/esthetic-soft-tissue/bouffleur-2026-open-vs-closed-healing-immediate-implant-rct]] — open vs closed healing.
 - [[overviews/immediate-implant-conditions]] — immediate implant conditions synthesis.

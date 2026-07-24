@@ -15,7 +15,7 @@ text_filename: bose-2020-root-analogue-implants-single-crowns-fpd.txt
 
 ## Why Ingested
 
-Reference-mining pass on [[immediate-implant/alqutaibi-2026-root-analog-dental-implants]] (28-study SR on root-analog implants, RAI): this Böse 2020 retrospective case series is the largest single-center RAI series in that SR's evidence base (107 REPLICATE hybrid/zirconia RAIs placed, 31 followed up) and is the direct source of the SR's hybrid titanium-zirconia MBL benchmark (1.20 ± 0.73 mm) and one of its cited success/survival figures (64.5% success / 94.4% survival). Ingesting the primary study lets future queries trace the SR's pooled numbers back to their origin instead of stopping at the synthesis layer.
+Reference-mining pass on [[immediate-implant/root-analog/alqutaibi-2026-root-analog-dental-implants]] (28-study SR on root-analog implants, RAI): this Böse 2020 retrospective case series is the largest single-center RAI series in that SR's evidence base (107 REPLICATE hybrid/zirconia RAIs placed, 31 followed up) and is the direct source of the SR's hybrid titanium-zirconia MBL benchmark (1.20 ± 0.73 mm) and one of its cited success/survival figures (64.5% success / 94.4% survival). Ingesting the primary study lets future queries trace the SR's pooled numbers back to their origin instead of stopping at the synthesis layer.
 
 ## Three-line Summary
 
@@ -96,7 +96,7 @@ Clinically, immediate RAI placement did not reduce MBL versus literature benchma
 
 ## 6. Related Work
 
-- Directly cited/pooled by [[immediate-implant/alqutaibi-2026-root-analog-dental-implants]] as the source of the hybrid titanium-zirconia MBL benchmark (1.20 ± 0.73 mm) in that SR's material-stratified outcomes table.
+- Directly cited/pooled by [[immediate-implant/root-analog/alqutaibi-2026-root-analog-dental-implants]] as the source of the hybrid titanium-zirconia MBL benchmark (1.20 ± 0.73 mm) in that SR's material-stratified outcomes table.
 - Cites the REPLICATE system's earlier single case report (2017) and the "Digital One-Abutment/One-Time Concept" as related soft-tissue-preservation strategies.
 - Benchmarks its own 94.4% (<2-year) survival against the 94.6% 10-year survival figure reported for conventional screw-shaped implants in prior literature.
 

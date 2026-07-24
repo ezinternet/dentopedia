@@ -56,7 +56,7 @@ PRISMA. Two reviewers. Cochrane RoB. Random-effects MA.
 - [[immediate-implant/esthetic-soft-tissue/seyssens-2021-immediate-implant-connective-tissue-graft-sr-ma]] — Cosyn 시리즈 — CTG
 - [[immediate-implant/esthetic-soft-tissue/pitman-2022-immediate-implant-provisionalization-sr-ma]] — Cosyn 시리즈 — provisionalization
 - [[immediate-implant/pitman-2023-immediate-implant-flap-flapless-sr-ma]] — Cosyn 시리즈 — flap
-- [[immediate-implant/mansouri-2025-flapless-immediate-implant-bone-grafting-sr-ma]] — flapless + 골이식 SR+MA
+- [[immediate-implant/gap-grafting/mansouri-2025-flapless-immediate-implant-bone-grafting-sr-ma]] — flapless + 골이식 SR+MA
 
 ## Sources
 - Source: 

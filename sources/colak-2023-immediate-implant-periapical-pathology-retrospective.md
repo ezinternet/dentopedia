@@ -42,5 +42,5 @@ Retrospective; n=69 patients / 124 implants; 3 groups by augmentation strategy; 
 
 ## 6. Related Work
 - [[immediate-implant/esthetic-soft-tissue/nassani-2025-immediate-vs-delayed-implant-bony-defect-commentary]] — buccal defect immediate.
-- [[immediate-implant/li-2025-immediate-implant-periodontitis-short-term-retrospective]] — periodontitis immediate.
+- [[immediate-implant/infected-socket/li-2025-immediate-implant-periodontitis-short-term-retrospective]] — periodontitis immediate.
 - [[overviews/immediate-implant-conditions]] — immediate implant conditions synthesis.

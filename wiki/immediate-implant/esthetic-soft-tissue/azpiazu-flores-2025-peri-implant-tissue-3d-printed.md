@@ -74,6 +74,6 @@ In the reported case (mandibular #30, horizontal buccal bone deficiency, 1 mm at
 - [[implants/ruhstorfer-2024-customized-vs-conventional-healing-abutments-sr]] — SR comparing customized vs. conventional healing abutments that this technique extends
 - [[overviews/abutment-emergence-profile-peri-implant-tissue-overview]] — synthesis of emergence profile principles
 - [[digital-workflow/monaco-2016-fully-digital-peri-implant-emergence]] — fully digital approach for peri-implant emergence profile registration
-- [[immediate-implant/dutra-2025-customized-healing-abutments-immediate-implants]] — customized healing abutments for immediate implants
+- [[immediate-implant/esthetic-soft-tissue/dutra-2025-customized-healing-abutments-immediate-implants]] — customized healing abutments for immediate implants
 - [[implants/soft-tissue/prpic-2026-emergence-angle-profile-implant-restorations-scoping]] — scoping review on emergence angle and profile
 - [[prosthetic-materials/mikulas-2025-digital-impression-accuracy-peri-implant-emergence-profile-sr]] — SR on digital impression accuracy for peri-implant emergence profile

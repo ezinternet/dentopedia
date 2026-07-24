@@ -68,5 +68,5 @@ This single-center randomized controlled trial tested whether avoiding flap elev
 
 - [[implants/tarpara-2025-flapless-flapped-clinical-outcomes-cohort]] — contradicts: a non-randomized 12-month cohort found no crestal-bone difference between flapless and flapped (only pain/early probing-depth benefit).
 - [[immediate-implant/pitman-2023-immediate-implant-flap-flapless-sr-ma]] — reinforces (different setting): SR+MA of flap vs flapless in immediate implants; this RCT extends the comparison to healed ridges.
-- [[immediate-implant/mansouri-2025-flapless-immediate-implant-bone-grafting-sr-ma]] — related flapless evidence in the immediate-implant context.
+- [[immediate-implant/gap-grafting/mansouri-2025-flapless-immediate-implant-bone-grafting-sr-ma]] — related flapless evidence in the immediate-implant context.
 - [[bone-regeneration/ridge-preservation/araujo-2009-ridge-alterations-flap-vs-flapless]] — foundational flap-vs-flapless dimensional-change comparison.

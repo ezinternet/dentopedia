@@ -166,8 +166,8 @@ graph TD
 - [[sinus-lift/transcrestal/starch-jensen-2025-transcrestal-sinus-osseodensification-meta-analysis]] — sub-antral SR+MA
 - [[sinus-lift/transcrestal/mazor-2024-maxillary-sinus-membrane-perforation-osseodensification]] — 천공 위험
 - [[sinus-lift/transcrestal/gaspar-2025-osseodensification-crestal-maxillary-sinus-elevation-narrative-review]] — 경치조골 OD narrative
-- [[immediate-implant/bleyan-2021-molar-septum-expansion-osseodensification-immediate-implant]] — septum-OD case series
-- [[immediate-implant/darosa-2019-immediate-dentoalveolar-restoration-osseodensification-periodontal]] — IDR rationale
+- [[immediate-implant/molar-septum/bleyan-2021-molar-septum-expansion-osseodensification-immediate-implant]] — septum-OD case series
+- [[immediate-implant/gap-grafting/darosa-2019-immediate-dentoalveolar-restoration-osseodensification-periodontal]] — IDR rationale
 - [[implants/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — 메커니즘 원위논문
 - [[implants/fontes-pereira-2023-osseodensification-osteotomy-alternative-sr]] — SR spine
 - [[overviews/sinus-lift-technique-selection]] — sinus 술식 선택

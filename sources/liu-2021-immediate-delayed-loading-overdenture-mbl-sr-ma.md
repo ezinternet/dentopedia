@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-즉시 로딩(immediate loading) 프로토콜이 무치악 하악 비연결형(unsplinted) 임플란트 유지 오버덴처에서 변연골소실(Marginal Bone Loss, MBL)을 증가시키는지에 대한 정량 근거. 단일치 즉시 로딩을 다룬 [[immediate-implant/esposito-2015-immediate-loading-vs-delayed-anterior-rct]]을 무치악 오버덴처 맥락으로 확장한다.
+즉시 로딩(immediate loading) 프로토콜이 무치악 하악 비연결형(unsplinted) 임플란트 유지 오버덴처에서 변연골소실(Marginal Bone Loss, MBL)을 증가시키는지에 대한 정량 근거. 단일치 즉시 로딩을 다룬 [[immediate-implant/loading-protocol/esposito-2015-immediate-loading-vs-delayed-anterior-rct]]을 무치악 오버덴처 맥락으로 확장한다.
 
 ## Three-line Summary
 

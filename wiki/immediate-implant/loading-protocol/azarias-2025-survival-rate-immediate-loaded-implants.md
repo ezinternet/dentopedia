@@ -58,4 +58,4 @@ Electronic search of PubMed/MEDLINE, 2006 to February 2024, using MeSH descripto
 
 ## Related Papers
 
-- [[immediate-implant/alqutaibi-2026-root-analog-dental-implants]] — that SR cites conventional immediate-implant survival rates of 83.7–100% as the comparator benchmark against which root-analog implant (RAI) outcomes are contrasted; this review is one of the literature bodies underlying that conventional-implant benchmark, specifically for full-arch Branemark-protocol immediate loading.
+- [[immediate-implant/root-analog/alqutaibi-2026-root-analog-dental-implants]] — that SR cites conventional immediate-implant survival rates of 83.7–100% as the comparator benchmark against which root-analog implant (RAI) outcomes are contrasted; this review is one of the literature bodies underlying that conventional-implant benchmark, specifically for full-arch Branemark-protocol immediate loading.

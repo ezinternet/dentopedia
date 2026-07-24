@@ -59,4 +59,4 @@ Prospective single-arm clinical trial, 31 patients enrolled / 30 treated (single
 
 ## Related Papers
 
-- [[immediate-implant/alqutaibi-2026-root-analog-dental-implants]] — the umbrella systematic review that includes this trial as one of its 28 included root-analog/custom-implant studies; this page provides the primary-source detail behind the SR's cautionary lowest-bound zirconia survival citation (75.8%).
+- [[immediate-implant/root-analog/alqutaibi-2026-root-analog-dental-implants]] — the umbrella systematic review that includes this trial as one of its 28 included root-analog/custom-implant studies; this page provides the primary-source detail behind the SR's cautionary lowest-bound zirconia survival citation (75.8%).

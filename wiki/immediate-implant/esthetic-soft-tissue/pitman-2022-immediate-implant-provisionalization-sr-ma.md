@@ -42,5 +42,5 @@ PubMed/Medline/Cochrane systematic search; RCT and prospective studies.
 5-year survival ~97% in both groups. Immediate provisional benefits soft tissue esthetics. Jumping gap management remains critical for hard tissue outcomes.
 
 ## Related Papers
-- [[immediate-implant/wittneben-2023-immediate-implant-loaded-single-crown-sr]] — related
+- [[immediate-implant/loading-protocol/wittneben-2023-immediate-implant-loaded-single-crown-sr]] — related
 - [[immediate-implant/esthetic-soft-tissue/gaddale-2024-immediate-implant-loading-esthetic-tissue-sr-ma]] — related

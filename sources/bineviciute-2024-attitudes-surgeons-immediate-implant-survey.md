@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-즉시식립(IDIP) 적응증·금기에 대한 임상가(구강외과의·치주과의)의 실제 의사결정 기준과 분류체계 사용 실태를 조사한 단면연구 — 근거(소켓 형태 분류·치근단 병소 기준)와 임상 행태의 간극을 드러낸다. 소켓 형태 분류를 다룬 [[immediate-implant/pavlovic-2022-interradicular-septum-morphology-molar-iip]]와 치근단 병소 기준인 [[immediate-implant/pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma]]의 임상 적용 맥락.
+즉시식립(IDIP) 적응증·금기에 대한 임상가(구강외과의·치주과의)의 실제 의사결정 기준과 분류체계 사용 실태를 조사한 단면연구 — 근거(소켓 형태 분류·치근단 병소 기준)와 임상 행태의 간극을 드러낸다. 소켓 형태 분류를 다룬 [[immediate-implant/molar-septum/pavlovic-2022-interradicular-septum-morphology-molar-iip]]와 치근단 병소 기준인 [[immediate-implant/infected-socket/pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma]]의 임상 적용 맥락.
 
 ## Three-line Summary
 

@@ -22,7 +22,7 @@ relations:
     target: lee-2018-comparison-immediate-implant-placement-infected
 ---
 
-> [!note] Partially superseded → [[immediate-implant/pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma]]
+> [!note] Partially superseded → [[immediate-implant/infected-socket/pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma]]
 > Pranckeviciene 2024 SR+MA (22 full-text studies, broader scope including acute purulent as contraindication) covers the same question more comprehensively. Saijeva 2020 retains unique value for time-stratified MBL/WKG/PD/mBI secondary parameter analysis. (set 2026-07-05)
 
 ## Three-line Summary
@@ -76,8 +76,8 @@ Based on articles retrieved from PubMed, this SR+MA ([DOI](https://doi.org/10.50
 
 ## Related Papers
 
-- [[immediate-implant/pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma]] — 2024 SR+MA, broader scope; confirmed same conclusion + specified acute purulent as contraindication
-- [[immediate-implant/lee-2018-comparison-immediate-implant-placement-infected]] — earlier SR (Seoul National University), foundational work
-- [[immediate-implant/almugeiren-2024-placement-immediate-dental-implants-extraction]] — 2024 MA, focuses on apical pathosis, adds OR data
+- [[immediate-implant/infected-socket/pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma]] — 2024 SR+MA, broader scope; confirmed same conclusion + specified acute purulent as contraindication
+- [[immediate-implant/infected-socket/lee-2018-comparison-immediate-implant-placement-infected]] — earlier SR (Seoul National University), foundational work
+- [[immediate-implant/infected-socket/almugeiren-2024-placement-immediate-dental-implants-extraction]] — 2024 MA, focuses on apical pathosis, adds OR data
 - [[immediate-implant/tabrizi-2020-dental-implant-survival-postoperative-infection]] — different angle: postoperative acute infection failure predictors
-- [[immediate-implant/colak-2023-immediate-implant-periapical-pathology-retrospective]] — retrospective cohort supporting chronic lesion non-contraindication
+- [[immediate-implant/infected-socket/colak-2023-immediate-implant-periapical-pathology-retrospective]] — retrospective cohort supporting chronic lesion non-contraindication

@@ -46,7 +46,7 @@ Short-term follow-up. Site-specific (anterior maxilla) generalization to molar s
 
 ## 6. Related Work
 - [[immediate-implant/esthetic-soft-tissue/qian-2023-iip-buccal-bone-dehiscence-anterior-maxilla]]
-- [[immediate-implant/wang-2021-titanium-mesh-cgf-immediate-implantation-anterior]]
+- [[immediate-implant/gap-grafting/wang-2021-titanium-mesh-cgf-immediate-implantation-anterior]]
 
 ## 7. Glossary
 - **IIP:** Immediate Implant Placement — placement at the time of tooth extraction.

@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-Part of a recent GBR / immediate-implant wound-closure collection. This two-cohort study tests whether open healing of an exposed collagen membrane can replace flap-release/CTG complete closure at immediate-implant GBR sites — directly extending the flap-vs-flapless debate in [[immediate-implant/pitman-2023-immediate-implant-flap-flapless-sr-ma]] and the open-vs-closed healing question in [[immediate-implant/bouffleur-2026-open-vs-closed-healing-immediate-implant-rct]].
+Part of a recent GBR / immediate-implant wound-closure collection. This two-cohort study tests whether open healing of an exposed collagen membrane can replace flap-release/CTG complete closure at immediate-implant GBR sites — directly extending the flap-vs-flapless debate in [[immediate-implant/pitman-2023-immediate-implant-flap-flapless-sr-ma]] and the open-vs-closed healing question in [[immediate-implant/esthetic-soft-tissue/bouffleur-2026-open-vs-closed-healing-immediate-implant-rct]].
 
 ## Three-line Summary
 

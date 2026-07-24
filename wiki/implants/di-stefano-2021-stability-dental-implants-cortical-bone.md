@@ -58,4 +58,4 @@ Systematic review of 13 clinical studies examining the relationship between cort
 ## Related Papers
 - [[implants/isq/oh-2008-comparison-of-initial-implant-stability]] — ISQ thresholds and RFA methodology
 - [[implants/rosa-2024-do-dental-implants-bone-types]] — bone type (Lekholm-Zarb) and implant survival
-- [[immediate-implant/kim-2016-immediately-placed-implant-without-primary]] — primary stability in immediate placement
+- [[immediate-implant/primary-stability/kim-2016-immediately-placed-implant-without-primary]] — primary stability in immediate placement

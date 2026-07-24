@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-위키에는 좁은 직경 임플란트(Narrow-Diameter Implant, NDI)의 *직경* 축 근거(구치부 고정성 보철: [[implants/pachiou-2025-narrow-diameter-implants-fixed-posterior]])와 *하중 시기(Loading Timing)* 축 근거([[immediate-implant/gjelvold-2021-immediate-delayed-loading-single-tooth-5year-rct]], [[implants/liu-2021-immediate-delayed-loading-overdenture-mbl-sr-ma]])가 각각 존재하지만, **두 축이 교차하는 지점** — "좁은 임플란트가 즉시 하중을 견디는가?" — 을 다룬 페이지는 없었다. 본 SR+MA (Pachiou 2026, 9편 정성/7편 정량)는 정확히 그 상호작용을 공급하며, 같은 저자의 pachiou-2025(구치부 NDI)를 하중 프로토콜 축으로 확장한다. NDI는 즉시 하중 시 1차 안정성 확보가 관건이므로 임상 의사결정에 직접적 근거가 된다.
+위키에는 좁은 직경 임플란트(Narrow-Diameter Implant, NDI)의 *직경* 축 근거(구치부 고정성 보철: [[implants/pachiou-2025-narrow-diameter-implants-fixed-posterior]])와 *하중 시기(Loading Timing)* 축 근거([[immediate-implant/loading-protocol/gjelvold-2021-immediate-delayed-loading-single-tooth-5year-rct]], [[implants/liu-2021-immediate-delayed-loading-overdenture-mbl-sr-ma]])가 각각 존재하지만, **두 축이 교차하는 지점** — "좁은 임플란트가 즉시 하중을 견디는가?" — 을 다룬 페이지는 없었다. 본 SR+MA (Pachiou 2026, 9편 정성/7편 정량)는 정확히 그 상호작용을 공급하며, 같은 저자의 pachiou-2025(구치부 NDI)를 하중 프로토콜 축으로 확장한다. NDI는 즉시 하중 시 1차 안정성 확보가 관건이므로 임상 의사결정에 직접적 근거가 된다.
 
 ## Three-line Summary
 

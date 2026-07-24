@@ -45,9 +45,9 @@ Class I = 81.7% (n=196), Class III only 0.4%. Mean LBT 0.5–0.9 mm. No signific
 Single-center; younger-skewed sample limits generalizability to elderly bone changes.
 
 ## 6. Related Work
-- [[immediate-implant/kan-2011-sagittal-root-position-immediate-implant-anterior]]
-- [[immediate-implant/espinoza-espinoza-2023-srp-alveolar-wall-thickness-peruvian]]
-- [[immediate-implant/kong-2020-srp-maxillary-anterior-korean-population]]
+- [[immediate-implant/anatomic-assessment/kan-2011-sagittal-root-position-immediate-implant-anterior]]
+- [[immediate-implant/anatomic-assessment/espinoza-espinoza-2023-srp-alveolar-wall-thickness-peruvian]]
+- [[immediate-implant/anatomic-assessment/kong-2020-srp-maxillary-anterior-korean-population]]
 
 ## 7. Glossary
 - **IIP:** Immediate Implant Placement — placement at the time of tooth extraction.

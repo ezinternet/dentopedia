@@ -49,7 +49,7 @@ Retrospective n=95 patients / 234 implants, Jinan Univ Stomatological Hospital 2
 
 ## 6. Related Work
 - [[implants/carra-2023-primordial-primary-prevention-peri-implant-sr-ma]] — primordial prevention (treat periodontitis first).
-- [[immediate-implant/colak-2023-immediate-implant-periapical-pathology-retrospective]] — periapical immediate.
+- [[immediate-implant/infected-socket/colak-2023-immediate-implant-periapical-pathology-retrospective]] — periapical immediate.
 - [[implants/galarraga-vinueza-2025-peri-implant-disease-risk-factors]] — risk factors.
 
 ## 7. Glossary

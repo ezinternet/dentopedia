@@ -15,7 +15,7 @@ text_filename: aung-2024-tapered-sla-immediate-implant-survival.txt
 
 ## Why Ingested
 
-A site-specific (positional) survival breakdown for immediately-placed tapered SLA bone-level implants — it sharpens the pooled SR+MA picture of [[immediate-implant/patel-2023-immediate-vs-delayed-implant-survival-sr-ma]] by showing *where* immediate placement fails (maxillary anterior/molar, all sinus-related) vs where it is reliable (mandible 100%, premolar 100%), and complements the tapered-implant primary-stability focus of [[immediate-implant/sierra-rebolledo-2021-undersized-drilling-immediate-tapered-implants-maxilla]].
+A site-specific (positional) survival breakdown for immediately-placed tapered SLA bone-level implants — it sharpens the pooled SR+MA picture of [[immediate-implant/patel-2023-immediate-vs-delayed-implant-survival-sr-ma]] by showing *where* immediate placement fails (maxillary anterior/molar, all sinus-related) vs where it is reliable (mandible 100%, premolar 100%), and complements the tapered-implant primary-stability focus of [[immediate-implant/primary-stability/sierra-rebolledo-2021-undersized-drilling-immediate-tapered-implants-maxilla]].
 
 ## Three-line Summary
 

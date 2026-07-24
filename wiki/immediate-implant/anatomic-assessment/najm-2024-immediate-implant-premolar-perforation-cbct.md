@@ -79,6 +79,6 @@ The bottom line: the prosthetically ideal axis is almost never anatomically achi
 
 ## Related Papers
 
-- [[immediate-implant/kheur-2024-feasibility-iip-maxillary-first-premolars]] — extends: same year, same region; Kheur assessed feasibility at the first premolar, this study covers both premolars at larger n and adds the prosthetic-vs-bone-driven perforation quantification.
-- [[immediate-implant/kan-2011-sagittal-root-position-immediate-implant-anterior]] — reinforces: same sagittal-root-position / bone-availability logic (anterior maxilla) that drives the bone-driven tilt rationale here for premolars.
-- [[immediate-implant/sierra-rebolledo-2021-undersized-drilling-immediate-tapered-implants-maxilla]] — related: prep/drilling strategy for primary stability in maxillary immediate placement; complements the anatomical-risk perspective of this paper.
+- [[immediate-implant/anatomic-assessment/kheur-2024-feasibility-iip-maxillary-first-premolars]] — extends: same year, same region; Kheur assessed feasibility at the first premolar, this study covers both premolars at larger n and adds the prosthetic-vs-bone-driven perforation quantification.
+- [[immediate-implant/anatomic-assessment/kan-2011-sagittal-root-position-immediate-implant-anterior]] — reinforces: same sagittal-root-position / bone-availability logic (anterior maxilla) that drives the bone-driven tilt rationale here for premolars.
+- [[immediate-implant/primary-stability/sierra-rebolledo-2021-undersized-drilling-immediate-tapered-implants-maxilla]] — related: prep/drilling strategy for primary stability in maxillary immediate placement; complements the anatomical-risk perspective of this paper.

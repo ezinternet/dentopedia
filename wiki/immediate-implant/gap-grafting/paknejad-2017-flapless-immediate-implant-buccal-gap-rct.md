@@ -44,4 +44,4 @@ RCT; anterior and premolar sites; flapless immediate implant.
 Xenograft filling beneficial even with flapless approach. Flapless technique reduces tissue trauma. Combined approach (flapless + graft) optimal.
 
 ## Related Papers
-- [[immediate-implant/sanz-2017-bone-graft-gap-immediate-implant-rct]] — related
+- [[immediate-implant/gap-grafting/sanz-2017-bone-graft-gap-immediate-implant-rct]] — related

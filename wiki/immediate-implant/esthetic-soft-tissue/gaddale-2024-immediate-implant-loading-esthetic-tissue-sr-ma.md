@@ -44,5 +44,5 @@ PRISMA-based SR+MA; RCT-focused inclusion.
 Immediate placement + loading in esthetic zone: acceptable MBL and survival. Careful patient selection (intact socket walls, Type I/II) essential.
 
 ## Related Papers
-- [[immediate-implant/wittneben-2023-immediate-implant-loaded-single-crown-sr]] — related
+- [[immediate-implant/loading-protocol/wittneben-2023-immediate-implant-loaded-single-crown-sr]] — related
 - [[immediate-implant/esthetic-soft-tissue/pitman-2022-immediate-implant-provisionalization-sr-ma]] — related

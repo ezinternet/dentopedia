@@ -45,7 +45,7 @@ Protocol outcome: single-procedure rehabilitation of upper molar with simultaneo
 Manufacturer marketing document — not peer-reviewed. Requires precise CBCT planning and septum integrity. See [[bleyan-2021-molar-septum-expansion-osseodensification-immediate-implant]] for clinical outcome data including the molar socket classification this protocol implicitly uses.
 
 ## Related Papers
-- [[immediate-implant/bleyan-2021-molar-septum-expansion-osseodensification-immediate-implant]]
+- [[immediate-implant/molar-septum/bleyan-2021-molar-septum-expansion-osseodensification-immediate-implant]]
 - [[sinus-lift/transcrestal/mazor-2024-maxillary-sinus-membrane-perforation-osseodensification]]
 - [[implants/versah-protocols/versah-densah-sinus-lift-ii-protocol-rbh-4-5mm]]
 - [[implants/versah-protocols/versah-immediate-implant-placement-protocol]]

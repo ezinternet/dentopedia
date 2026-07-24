@@ -53,8 +53,8 @@ PROSPERO CRD42024503989. RoB2 for risk-of-bias. Mean differences (MD), odds rati
 IIP는 ARP 대비 심미 결과와 implant success 동등하나 MBL 감소 더 크고 합병증 비율 높음. 결정은 case-specific (시간·비용·환자 선호 vs MBL/합병증 trade-off). 추가 장기 RCT 필요.
 
 ## 6. Related Work
-- [[immediate-implant/seyssens-2022-immediate-implant-socket-grafting-sr-ma]] — socket grafting in IIP — 보완재 효과
-- [[immediate-implant/pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma]] — 감염치 IIP — 적응증 확장 평가
+- [[immediate-implant/gap-grafting/seyssens-2022-immediate-implant-socket-grafting-sr-ma]] — socket grafting in IIP — 보완재 효과
+- [[immediate-implant/infected-socket/pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma]] — 감염치 IIP — 적응증 확장 평가
 - [[immediate-implant/esthetic-soft-tissue/hamilton-2023-type1a-immediate-implant-immediate-loading-esthetic-sr-ma]] — ITI consensus selection criteria
 
 ## 7. Limitations and Future Work

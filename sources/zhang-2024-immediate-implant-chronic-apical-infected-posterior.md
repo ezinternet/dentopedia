@@ -15,7 +15,7 @@ text_filename: zhang-2024-immediate-implant-chronic-apical-infected-posterior.tx
 
 ## Why Ingested
 
-[[immediate-implant/pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma]]와 [[immediate-implant/munoz-camara-2020-immediate-implants-acute-periapical-infected]]가 다룬 "만성 근첨병변 즉시식립"을 후치부(posterior)에 특화해 5년 장기 추적한 독립 관찰 연구 — 기존 증거(대부분 1–2년 추적, 전치부 편중)의 장기·후치부 공백을 보강.
+[[immediate-implant/infected-socket/pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma]]와 [[immediate-implant/infected-socket/munoz-camara-2020-immediate-implants-acute-periapical-infected]]가 다룬 "만성 근첨병변 즉시식립"을 후치부(posterior)에 특화해 5년 장기 추적한 독립 관찰 연구 — 기존 증거(대부분 1–2년 추적, 전치부 편중)의 장기·후치부 공백을 보강.
 
 ## Three-line Summary
 
@@ -45,7 +45,7 @@ Long-term (5-year) data support that immediate implantation after meticulous deb
 
 ## 2. Key Contributions
 
-- One of the few **5-year** (mid/long-term) follow-ups specifically on immediate implantation in chronic apically infected **posterior** sites — most infected-socket IIP literature ([[immediate-implant/munoz-camara-2020-immediate-implants-acute-periapical-infected]], [[immediate-implant/colak-2023-immediate-implant-periapical-pathology-retrospective]]) is 1–2 year and/or anterior/esthetic-zone weighted
+- One of the few **5-year** (mid/long-term) follow-ups specifically on immediate implantation in chronic apically infected **posterior** sites — most infected-socket IIP literature ([[immediate-implant/infected-socket/munoz-camara-2020-immediate-implants-acute-periapical-infected]], [[immediate-implant/infected-socket/colak-2023-immediate-implant-periapical-pathology-retrospective]]) is 1–2 year and/or anterior/esthetic-zone weighted
 - Reports a two-phase marginal bone resorption pattern: larger early resorption (placement→crown, -0.74 mm) followed by a small, statistically non-significant further loss over the following 5 years (-0.21 mm) — consistent with early remodeling stabilizing rather than progressive bone loss
 - No significant difference in resorption by mesial/distal, maxilla/mandible, tooth position, or implant length — suggests posterior-region chronic apical infection does not create site-specific risk once debrided
 
@@ -75,9 +75,9 @@ Long-term (5-year) data support that immediate implantation after meticulous deb
 
 ## 6. Related Work
 
-- [[immediate-implant/pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma]] — SR+MA establishing survival equivalence for chronic periapical-pathology sockets vs non-infected; this paper adds posterior-region 5-year granularity
-- [[immediate-implant/munoz-camara-2020-immediate-implants-acute-periapical-infected]] — acute (not chronic) infection, 1-year (not 5-year) follow-up; complementary infection-chronicity and follow-up-duration axis
-- [[immediate-implant/colak-2023-immediate-implant-periapical-pathology-retrospective]] — chronic periapical pathology retrospective cohort, different population (Turkey) and follow-up window
+- [[immediate-implant/infected-socket/pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma]] — SR+MA establishing survival equivalence for chronic periapical-pathology sockets vs non-infected; this paper adds posterior-region 5-year granularity
+- [[immediate-implant/infected-socket/munoz-camara-2020-immediate-implants-acute-periapical-infected]] — acute (not chronic) infection, 1-year (not 5-year) follow-up; complementary infection-chronicity and follow-up-duration axis
+- [[immediate-implant/infected-socket/colak-2023-immediate-implant-periapical-pathology-retrospective]] — chronic periapical pathology retrospective cohort, different population (Turkey) and follow-up window
 
 ## 7. Glossary
 

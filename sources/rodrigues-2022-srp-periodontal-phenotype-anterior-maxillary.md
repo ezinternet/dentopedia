@@ -45,9 +45,9 @@ Significant associations between SRP class and phenotype dimensions. Thinner phe
 Cross-sectional; phenotype assessment partially subjective.
 
 ## 6. Related Work
-- [[immediate-implant/kan-2011-sagittal-root-position-immediate-implant-anterior]]
+- [[immediate-implant/anatomic-assessment/kan-2011-sagittal-root-position-immediate-implant-anterior]]
 - [[immediate-implant/esthetic-soft-tissue/yang-2019-labial-bone-thickness-esthetics-iipp]]
-- [[immediate-implant/rodrigues-2022-srp-brazilian-anterior-bone-housing-isd]]
+- [[immediate-implant/anatomic-assessment/rodrigues-2022-srp-brazilian-anterior-bone-housing-isd]]
 
 ## 7. Glossary
 - **IIP:** Immediate Implant Placement — placement at the time of tooth extraction.

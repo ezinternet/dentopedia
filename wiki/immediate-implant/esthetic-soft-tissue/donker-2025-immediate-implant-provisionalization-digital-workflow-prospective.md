@@ -55,5 +55,5 @@ This prospective case series applied a fully digital workflow — integrated int
 ## Related Papers
 
 - [[immediate-implant/esthetic-soft-tissue/staas-2026-fiipp-palatal-position-cbct-3year]] — same group, palatal 3D positioning of immediate implants
-- [[immediate-implant/meijer-2024-immediate-implant-bony-defect-10year-rct]] — long-term immediate-implant outcomes (Groningen)
+- [[immediate-implant/gap-grafting/meijer-2024-immediate-implant-bony-defect-10year-rct]] — long-term immediate-implant outcomes (Groningen)
 - [[immediate-implant/esthetic-soft-tissue/slagter-2021-immediate-single-implant-provisionalization-5year]] — immediate provisionalization outcomes

@@ -67,7 +67,7 @@ Clinical bottom line: prosthesis configuration and primary stability — not loa
 | Paper | Design | n | Prosthesis | Key Finding | Confidence |
 |---|---|---|---|---|---|
 | [[implants/benic-2014-loading-protocols-single-implant-crowns-sr-ma]] | sr+ma (11 RCT) | — | Single crown | 즉시=통상 생존(1y OR 0.75, 0.32–1.76)·MBL(SMD −0.05) 5y; **단 ≥20–45 Ncm or ISQ ≥60–65 + 동시 증대術 없을 때만 유효** | sr+ma |
-| [[immediate-implant/gjelvold-2021-immediate-delayed-loading-single-tooth-5year-rct]] | rct (5y) | 50 (healed 상악 심미부) | Single crown (IL vs DL) | 5y 생존 100% vs 95.8%, MBL −0.50 vs −0.54 mm(p=0.78), papilla·PES/WES 동등 — IL=DL 심미·생물학적 동등; 골소실 구동 인자는 흡연(−1.90 vs −0.40 mm) | rct |
+| [[immediate-implant/loading-protocol/gjelvold-2021-immediate-delayed-loading-single-tooth-5year-rct]] | rct (5y) | 50 (healed 상악 심미부) | Single crown (IL vs DL) | 5y 생존 100% vs 95.8%, MBL −0.50 vs −0.54 mm(p=0.78), papilla·PES/WES 동등 — IL=DL 심미·생물학적 동등; 골소실 구동 인자는 흡연(−1.90 vs −0.40 mm) | rct |
 | [[implants/liu-2021-immediate-delayed-loading-overdenture-mbl-sr-ma]] | sr+ma (5 RCT+2 cohort) | 191 환자/400 임플란트 | Mandibular overdenture (unsplinted) | MBL 차이 없음(WMD 0.04 mm, −0.13~0.21); **즉시부하 실패율 수치상 높음(5.03% vs 1.00%)** | sr+ma |
 | [[implants/abdunabi-2019-immediately-loaded-maxillary-full-arch-sr]] | sr (4 CCT, MA 불가) | — | Maxillary full-arch fixed | 즉시 vs 조기/통상 만족도·유지관리 합병증 차이 **약한 근거뿐** | sr |
 | [[implants/mehta-2021-tilted-axial-implants-edentulous-maxilla-sr-ma]] | sr+ma (11 생존/7 MBL) | — | Atrophic edentulous maxilla (immediately loaded) | tilted=axial 3y 생존(RR 1.00, 0.98–1.01)·MBL(MD −0.02, −0.09~0.06) | sr+ma |
@@ -100,7 +100,7 @@ Clinical bottom line: prosthesis configuration and primary stability — not loa
 ## Related Papers
 
 - [[implants/benic-2014-loading-protocols-single-implant-crowns-sr-ma]] — single crown 로딩 프로토콜 기준 SR+MA
-- [[immediate-implant/gjelvold-2021-immediate-delayed-loading-single-tooth-5year-rct]] — single-crown IL vs DL 5년 RCT (n=50, healed 상악 심미부): 생존·MBL·papilla·PES/WES 동등, 흡연이 유일한 MBL 구동 인자 — Benic 단관 결론을 5년 심미 데이터로 보강
+- [[immediate-implant/loading-protocol/gjelvold-2021-immediate-delayed-loading-single-tooth-5year-rct]] — single-crown IL vs DL 5년 RCT (n=50, healed 상악 심미부): 생존·MBL·papilla·PES/WES 동등, 흡연이 유일한 MBL 구동 인자 — Benic 단관 결론을 5년 심미 데이터로 보강
 - [[implants/liu-2021-immediate-delayed-loading-overdenture-mbl-sr-ma]] — 하악 오버덴처 MBL SR+MA
 - [[implants/abdunabi-2019-immediately-loaded-maxillary-full-arch-sr]] — 상악 full-arch 즉시부하 SR
 - [[implants/mehta-2021-tilted-axial-implants-edentulous-maxilla-sr-ma]] — 위축 상악 tilted/axial 즉시부하 SR+MA

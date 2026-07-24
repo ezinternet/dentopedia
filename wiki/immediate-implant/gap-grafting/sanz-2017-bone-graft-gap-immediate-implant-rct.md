@@ -44,5 +44,5 @@ RCT; n=20; 12-month follow-up; CBCT measurement of buccal bone.
 Xenograft filling of buccal gap ≥3mm recommended. Below 3mm gap, natural bone fill may be sufficient.
 
 ## Related Papers
-- [[immediate-implant/stagnaro-borgia-2022-immediate-implant-buccal-defect-tuberosity-rct]] — related
-- [[immediate-implant/wittneben-2023-immediate-implant-loaded-single-crown-sr]] — related
+- [[immediate-implant/gap-grafting/stagnaro-borgia-2022-immediate-implant-buccal-defect-tuberosity-rct]] — related
+- [[immediate-implant/loading-protocol/wittneben-2023-immediate-implant-loaded-single-crown-sr]] — related

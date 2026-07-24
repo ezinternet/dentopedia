@@ -59,7 +59,7 @@ This systematic review and meta-analysis pooled 7 RCTs (205 patients, 279 implan
 
 ## Related Papers
 
-- [[immediate-implant/zaki-2021-bone-substitute-materials-immediate-implant-sr-ma]] — extends: collagen variable added to the bone-substitute question
-- [[immediate-implant/sanz-2017-bone-graft-gap-immediate-implant-rct]] — reinforces: gap grafting preserves buccal contour
-- [[immediate-implant/elsheikh-2023-prf-xenograft-alloplastic-immediate-implant]] — related gap-filling material comparison
-- [[immediate-implant/seyssens-2022-immediate-implant-socket-grafting-sr-ma]] — socket grafting adjunct evidence
+- [[immediate-implant/gap-grafting/zaki-2021-bone-substitute-materials-immediate-implant-sr-ma]] — extends: collagen variable added to the bone-substitute question
+- [[immediate-implant/gap-grafting/sanz-2017-bone-graft-gap-immediate-implant-rct]] — reinforces: gap grafting preserves buccal contour
+- [[immediate-implant/gap-grafting/elsheikh-2023-prf-xenograft-alloplastic-immediate-implant]] — related gap-filling material comparison
+- [[immediate-implant/gap-grafting/seyssens-2022-immediate-implant-socket-grafting-sr-ma]] — socket grafting adjunct evidence

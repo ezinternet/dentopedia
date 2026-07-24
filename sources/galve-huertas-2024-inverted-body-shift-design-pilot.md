@@ -47,7 +47,7 @@ Survival 100% in pilot; favorable trajectory control and provisional emergence p
 Pilot scale (n=12); no comparator; industry-aligned implant.
 
 ## 6. Related Work
-- [[immediate-implant/galve-huertas-2026-inverted-body-shift-vs-conical-rct]]
+- [[immediate-implant/primary-stability/galve-huertas-2026-inverted-body-shift-vs-conical-rct]]
 - [[immediate-implant/chu-2020-itrt-platform-switched-subcrestal-angle-correction]]
 - [[immediate-implant/esthetic-soft-tissue/ostman-2020-macro-hybrid-implant-anterior-postextraction]]
 

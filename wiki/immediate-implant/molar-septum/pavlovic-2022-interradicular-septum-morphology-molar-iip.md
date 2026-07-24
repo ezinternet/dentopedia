@@ -45,6 +45,6 @@ Substantial site-to-site variability; quantifies the prevalence of "ideal IIP" a
 Cross-sectional anatomy-only; single population.
 
 ## Related Papers
-- [[immediate-implant/milenkovic-2022-interradicular-septum-classification-iip]]
-- [[immediate-implant/smith-2013-classification-molar-extraction-immediate-implant]]
-- [[immediate-implant/deporter-2021-cbct-immediate-maxillary-molar-implant]]
+- [[immediate-implant/molar-septum/milenkovic-2022-interradicular-septum-classification-iip]]
+- [[immediate-implant/molar-septum/smith-2013-classification-molar-extraction-immediate-implant]]
+- [[immediate-implant/molar-septum/deporter-2021-cbct-immediate-maxillary-molar-implant]]

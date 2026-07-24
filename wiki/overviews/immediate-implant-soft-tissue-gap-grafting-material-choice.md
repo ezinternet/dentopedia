@@ -62,11 +62,11 @@ Adjacent overviews treat the *procedural* yes/no of these variables: [[overviews
 
 | Study | Type | n / scope | Axis | Core contribution |
 |---|---|---|---|---|
-| [[immediate-implant/zaki-2021-bone-substitute-materials-immediate-implant-sr-ma]] | sr+ma | 20 RCT / 848 pt | gap (hard) | BSM: horizontal buccal resorption MD −0.52 mm, PES +1.49, failure NS, **complications RR 3.50**. |
-| [[immediate-implant/liu-2023-collagen-immediate-implant-soft-hard-tissue-sr-ma]] | sr+ma | 7 RCT / 205 pt | gap (hard) | Collagen + bone graft → better buccal thickness & esthetics vs graft alone; failure/soft-tissue NS. |
-| [[immediate-implant/elsheikh-2023-prf-xenograft-alloplastic-immediate-implant]] | (gap fillers) | RCT | gap (hard) | Head-to-head PRF vs xenograft vs alloplast as gap fillers. |
-| [[immediate-implant/sanz-2017-bone-graft-gap-immediate-implant-rct]] | rct | esthetic zone | gap (hard) | Gap grafting preserves buccal contour (anchor RCT). |
-| [[immediate-implant/seyssens-2022-immediate-implant-socket-grafting-sr-ma]] | sr+ma | 15 RCT / n=577 | gap (hard) | Socket grafting reduces buccal bone loss; gap ≥2 mm threshold. |
+| [[immediate-implant/gap-grafting/zaki-2021-bone-substitute-materials-immediate-implant-sr-ma]] | sr+ma | 20 RCT / 848 pt | gap (hard) | BSM: horizontal buccal resorption MD −0.52 mm, PES +1.49, failure NS, **complications RR 3.50**. |
+| [[immediate-implant/gap-grafting/liu-2023-collagen-immediate-implant-soft-hard-tissue-sr-ma]] | sr+ma | 7 RCT / 205 pt | gap (hard) | Collagen + bone graft → better buccal thickness & esthetics vs graft alone; failure/soft-tissue NS. |
+| [[immediate-implant/gap-grafting/elsheikh-2023-prf-xenograft-alloplastic-immediate-implant]] | (gap fillers) | RCT | gap (hard) | Head-to-head PRF vs xenograft vs alloplast as gap fillers. |
+| [[immediate-implant/gap-grafting/sanz-2017-bone-graft-gap-immediate-implant-rct]] | rct | esthetic zone | gap (hard) | Gap grafting preserves buccal contour (anchor RCT). |
+| [[immediate-implant/gap-grafting/seyssens-2022-immediate-implant-socket-grafting-sr-ma]] | sr+ma | 15 RCT / n=577 | gap (hard) | Socket grafting reduces buccal bone loss; gap ≥2 mm threshold. |
 | [[immediate-implant/esthetic-soft-tissue/aldhohrah-2022-soft-tissue-augmentation-immediate-delayed-sctg-sr-ma]] | sr+ma | 12 studies | soft | SCTG vs others: BTT +0.74, MGL +0.5, PES +0.79, MBL −0.11 mm — strongest soft-tissue anchor. |
 | [[immediate-implant/esthetic-soft-tissue/de-angelis-2021-soft-tissue-augmentation-immediate-implant-sr-ma]] | sr+ma | 7 studies / 272 pt | soft | SCTG at IIPP: MBML −0.54 mm recession (WMD, p<0.001), FSTT +0.79 mm (WMD, p<0.001), MBL −0.13 mm (WMD, p<0.001) at 12 months; I²=0–16%. |
 | [[immediate-implant/esthetic-soft-tissue/seyssens-2021-immediate-implant-connective-tissue-graft-sr-ma]] | sr+ma | esthetic zone | soft | CTG reduces midfacial recession ~0.4–0.7 mm. |
@@ -77,7 +77,7 @@ Adjacent overviews treat the *procedural* yes/no of these variables: [[overviews
 | [[implants/soft-tissue/thoma-2021-soft-tissue-management-implants-eao-consensus]] | consensus | 6th EAO | soft | STA reduces mid-buccal recession + thickens mucosa at immediate placement; autograft tendency > substitute; timing unclear. |
 | [[immediate-implant/esthetic-soft-tissue/rondone-2024-tissue-grafts-immediate-implant-sr-ma]] | sr+ma | — | soft | Tissue grafts at immediate implants — esthetic benefit. |
 | [[immediate-implant/esthetic-soft-tissue/sutariya-2022-soft-tissue-immediate-provisionalization-sr-ma]] | sr+ma | — | soft | PES-centered soft-tissue/provisional synthesis. |
-| [[immediate-implant/dutra-2025-customized-healing-abutments-immediate-implants]] | (CHA) | — | soft | Customized healing abutment — socket sealing, contour support. |
+| [[immediate-implant/esthetic-soft-tissue/dutra-2025-customized-healing-abutments-immediate-implants]] | (CHA) | — | soft | Customized healing abutment — socket sealing, contour support. |
 | [[immediate-implant/esthetic-soft-tissue/elgendi-2025-peri-implant-soft-tissue-conditioning]] | — | — | soft | Soft-tissue conditioning at immediate implants. |
 
 ## Clinical Decision Points
@@ -101,7 +101,7 @@ Adjacent overviews treat the *procedural* yes/no of these variables: [[overviews
 
 | Study | Type | n | Comparison | Core finding |
 |---|---|---|---|---|
-| [[immediate-implant/abdelsameaa-2026-dentine-membrane-eprf-gbr-immediate-implant-rct]] | rct (24mo) | 40 (하악 구치 IIP) | **DDBM** vs **e-PRF** membrane (GBR) | ISQ·PPD·MBL·골밀도 전부 군간 NS; 100% 생존. 두 자가막 24개월 동등. |
+| [[immediate-implant/gap-grafting/abdelsameaa-2026-dentine-membrane-eprf-gbr-immediate-implant-rct]] | rct (24mo) | 40 (하악 구치 IIP) | **DDBM** vs **e-PRF** membrane (GBR) | ISQ·PPD·MBL·골밀도 전부 군간 NS; 100% 생존. 두 자가막 24개월 동등. |
 
 **임상 시사점**:
 - 하악 구치 즉시식립 GBR에서 **자가 상아질 유래 차폐막(DDBM)**과 **extended PRF(e-PRF) 막**은 24개월 임상·방사선 결과가 동등하다.
@@ -111,7 +111,7 @@ Adjacent overviews treat the *procedural* yes/no of these variables: [[overviews
 
 ## Axis 4 — 수술 접근(Surgical Access): VST vs 개방형 피판 GBR (Type II socket, 2026 신규)
 
-[[immediate-implant/ebrahim-2026-vestibular-socket-therapy-immediate-implant-rct]] (BMC Oral Health 2026, n=20, 상악 비구치 Type II socket):
+[[immediate-implant/gap-grafting/ebrahim-2026-vestibular-socket-therapy-immediate-implant-rct]] (BMC Oral Health 2026, n=20, 상악 비구치 Type II socket):
 
 **연구 설계**: 동일 allograft + xenograft + pericardium 막 조건에서 **수술 접근법만** 차이:
 - VST군: 전정부 터널(vestibular tunnel) 접근 — 유두 절개 없음

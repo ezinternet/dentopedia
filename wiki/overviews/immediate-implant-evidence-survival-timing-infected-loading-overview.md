@@ -121,10 +121,10 @@ Narrative synthesis (no new pooling; heterogeneous designs). Base: 3 SR+MA (Garc
 - [[immediate-implant/mello-2017-immediate-fresh-extraction-vs-delayed-healed-socket-sr-ma]] — obs-inclusive: immediate 95.21% vs delayed 98.38% (p=.001), other outcomes NS
 - [[immediate-implant/pommer-2021-maxillary-single-tooth-timing-protocols-sr-ma]] — no superior placement×loading timing combination
 - [[immediate-implant/lang-2012-immediate-implant-survival-success-sr]] — 2-yr survival 98.4%, annual failure 0.82%, antibiotics ↓ failure
-- [[immediate-implant/azarias-2025-survival-rate-immediate-loaded-implants]] — full-arch immediate loading >93%, moderate stability suffices
-- [[immediate-implant/aldebes-2022-restoration-material-marginal-bone-resorption]] — RCT: crown material does not affect marginal bone resorption
-- [[immediate-implant/espada-salgado-2026-immediate-implant-infected-socket-scoping-review]] — infected-socket IIP: heterogeneous, non-comparative, no standardized protocol
-- [[immediate-implant/zhang-2024-immediate-implant-chronic-apical-infected-posterior]] — 5-yr 97.6% survival in chronic apically infected posterior sockets
+- [[immediate-implant/loading-protocol/azarias-2025-survival-rate-immediate-loaded-implants]] — full-arch immediate loading >93%, moderate stability suffices
+- [[immediate-implant/root-analog/aldebes-2022-restoration-material-marginal-bone-resorption]] — RCT: crown material does not affect marginal bone resorption
+- [[immediate-implant/infected-socket/espada-salgado-2026-immediate-implant-infected-socket-scoping-review]] — infected-socket IIP: heterogeneous, non-comparative, no standardized protocol
+- [[immediate-implant/infected-socket/zhang-2024-immediate-implant-chronic-apical-infected-posterior]] — 5-yr 97.6% survival in chronic apically infected posterior sockets
 
 ## Related Overviews
 

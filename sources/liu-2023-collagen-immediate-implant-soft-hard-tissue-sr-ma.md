@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-즉시식립 시 jumping gap에 채우는 그래프트 재료에 **콜라겐을 병용**하는 것이 경조직·심미 결과를 추가로 개선하는지에 대한 정량 근거. 기존 [[immediate-implant/sanz-2017-bone-graft-gap-immediate-implant-rct]](gap grafting)과 [[immediate-implant/zaki-2021-bone-substitute-materials-immediate-implant-sr-ma]](골대체재 SR+MA)를 콜라겐 변수로 확장하며, [[immediate-implant/elsheikh-2023-prf-xenograft-alloplastic-immediate-implant]]의 gap-filling 재료 비교와 짝을 이룬다.
+즉시식립 시 jumping gap에 채우는 그래프트 재료에 **콜라겐을 병용**하는 것이 경조직·심미 결과를 추가로 개선하는지에 대한 정량 근거. 기존 [[immediate-implant/gap-grafting/sanz-2017-bone-graft-gap-immediate-implant-rct]](gap grafting)과 [[immediate-implant/gap-grafting/zaki-2021-bone-substitute-materials-immediate-implant-sr-ma]](골대체재 SR+MA)를 콜라겐 변수로 확장하며, [[immediate-implant/gap-grafting/elsheikh-2023-prf-xenograft-alloplastic-immediate-implant]]의 gap-filling 재료 비교와 짝을 이룬다.
 
 ## Three-line Summary
 

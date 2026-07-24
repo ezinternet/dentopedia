@@ -51,7 +51,7 @@ Thin biotype 또는 협측 골 결손 risk가 있는 IIP에서 CTG 동반이 mid
 
 ## 6. Related Work
 - [[immediate-implant/esthetic-soft-tissue/azadi-2025-soft-tissue-grafting-immediate-implant-bayesian-nma]] — soft tissue graft NMA — CTG vs 대체재
-- [[immediate-implant/seyssens-2022-immediate-implant-socket-grafting-sr-ma]] — Cosyn 시리즈 — socket grafting
+- [[immediate-implant/gap-grafting/seyssens-2022-immediate-implant-socket-grafting-sr-ma]] — Cosyn 시리즈 — socket grafting
 - [[immediate-implant/esthetic-soft-tissue/pitman-2022-immediate-implant-provisionalization-sr-ma]] — Cosyn 시리즈 — immediate provisionalization
 
 ## 7. Limitations and Future Work

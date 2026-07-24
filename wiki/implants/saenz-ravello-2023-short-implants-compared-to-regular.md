@@ -66,4 +66,4 @@ Umbrella review + meta-analysis comparing **short implants (<10 mm)** placed in 
 ## Related Papers
 - [[implants/rosa-2024-do-dental-implants-bone-types]] — bone quality classification and implant survival by bone type
 - [[implants/surface/attik-2022-comparison-of-biological-behavior-and]] — minimally invasive vs. standard implants
-- [[immediate-implant/kim-2016-immediately-placed-implant-without-primary]] — primary stability considerations
+- [[immediate-implant/primary-stability/kim-2016-immediately-placed-implant-without-primary]] — primary stability considerations

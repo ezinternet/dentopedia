@@ -68,7 +68,7 @@ This 5-year clinical observation ([DOI](https://doi.org/10.7518/hxkq.2024.202416
 
 ## Related Papers
 
-- [[immediate-implant/pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma]] — SR+MA finding survival equivalence for periapical-pathology sockets vs non-infected; this paper adds posterior-region, 5-year granularity to that pooled conclusion
-- [[immediate-implant/munoz-camara-2020-immediate-implants-acute-periapical-infected]] — acute (not chronic) infection, 1-year (not 5-year) follow-up, mixed anterior/posterior; complementary on both the infection-chronicity and follow-up-duration axes
-- [[immediate-implant/colak-2023-immediate-implant-periapical-pathology-retrospective]] — chronic periapical pathology retrospective cohort (Turkey), different population/protocol
-- [[immediate-implant/espada-salgado-2026-immediate-implant-infected-socket-scoping-review]] — 2026 scoping review mapping the broader infected-socket IIP literature this study contributes to
+- [[immediate-implant/infected-socket/pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma]] — SR+MA finding survival equivalence for periapical-pathology sockets vs non-infected; this paper adds posterior-region, 5-year granularity to that pooled conclusion
+- [[immediate-implant/infected-socket/munoz-camara-2020-immediate-implants-acute-periapical-infected]] — acute (not chronic) infection, 1-year (not 5-year) follow-up, mixed anterior/posterior; complementary on both the infection-chronicity and follow-up-duration axes
+- [[immediate-implant/infected-socket/colak-2023-immediate-implant-periapical-pathology-retrospective]] — chronic periapical pathology retrospective cohort (Turkey), different population/protocol
+- [[immediate-implant/infected-socket/espada-salgado-2026-immediate-implant-infected-socket-scoping-review]] — 2026 scoping review mapping the broader infected-socket IIP literature this study contributes to

@@ -48,7 +48,7 @@ Applying a comprehensive 4-domain success framework (implant level, peri-implant
 - Demonstrates the survival-vs-success gap explicitly: 94.4% survival but only 64.5% combined 4-domain success — a distinction frequently blurred in smaller RAI case reports.
 - Shows MBL progression significantly slows after prosthetic loading vs. the healing phase (p=0.013), paralleling known screw-implant bone-remodeling biology.
 - Tests 12 candidate MBL predictors (gender, age, arch, region, material, implant/root/abutment length, surface area, bone quality, surgical difficulty, root number) — none reach significance, a useful null result for risk stratification given the small sample.
-- Provides the primary-study source for the hybrid titanium-zirconia RAI MBL benchmark (1.20 ± 0.73 mm) subsequently cited in [[immediate-implant/alqutaibi-2026-root-analog-dental-implants]]'s pooled systematic review table.
+- Provides the primary-study source for the hybrid titanium-zirconia RAI MBL benchmark (1.20 ± 0.73 mm) subsequently cited in [[immediate-implant/root-analog/alqutaibi-2026-root-analog-dental-implants]]'s pooled systematic review table.
 
 ## Methodology
 
@@ -70,4 +70,4 @@ Outcome assessment used a 4-domain success framework (per a 2012 SR methodology)
 
 ## Related Papers
 
-- [[immediate-implant/alqutaibi-2026-root-analog-dental-implants]] — this study is the primary data source for the hybrid titanium-zirconia MBL figure (1.20 ± 0.73 mm) and one of the survival/success figures (94.4%/64.5%) pooled in that 28-study systematic review of RAI clinical evidence.
+- [[immediate-implant/root-analog/alqutaibi-2026-root-analog-dental-implants]] — this study is the primary data source for the hybrid titanium-zirconia MBL figure (1.20 ± 0.73 mm) and one of the survival/success figures (94.4%/64.5%) pooled in that 28-study systematic review of RAI clinical evidence.

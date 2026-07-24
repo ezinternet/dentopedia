@@ -15,7 +15,7 @@ text_filename: lee-2018-comparison-immediate-implant-placement-infected.txt
 
 ## Why Ingested
 
-서울대학교 치주과 팀의 SR+MA — 감염 소켓 즉시식립 문헌을 아시아 임상가 관점에서 정리한 선구적 논문. 기존 [[immediate-implant/saijeva-2020-immediate-implant-placement-non-infected-sockets]]·[[immediate-implant/pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma]]의 기반이 되며, WKG(각화치은폭)를 심미적 고려 핵심 변수로 처음 명시적으로 강조한 SR.
+서울대학교 치주과 팀의 SR+MA — 감염 소켓 즉시식립 문헌을 아시아 임상가 관점에서 정리한 선구적 논문. 기존 [[immediate-implant/infected-socket/saijeva-2020-immediate-implant-placement-non-infected-sockets]]·[[immediate-implant/infected-socket/pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma]]의 기반이 되며, WKG(각화치은폭)를 심미적 고려 핵심 변수로 처음 명시적으로 강조한 SR.
 
 ## Three-line Summary
 
@@ -78,8 +78,8 @@ Only 3 CCTs included in meta-analysis — evidence base very limited.
 
 ## 6. Related Work
 
-- [[immediate-implant/saijeva-2020-immediate-implant-placement-non-infected-sockets]] — 2020 SR+MA that extended this work with 9 studies and time-stratified analysis
-- [[immediate-implant/pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma]] — 2024 SR+MA, most comprehensive update
+- [[immediate-implant/infected-socket/saijeva-2020-immediate-implant-placement-non-infected-sockets]] — 2020 SR+MA that extended this work with 9 studies and time-stratified analysis
+- [[immediate-implant/infected-socket/pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma]] — 2024 SR+MA, most comprehensive update
 
 ## 7. Glossary
 

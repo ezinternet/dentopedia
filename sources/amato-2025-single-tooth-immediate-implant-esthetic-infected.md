@@ -83,10 +83,10 @@ Follow-up: mean 7 years, range 2-12 years.
 
 ## 6. Related Work
 
-- [[immediate-implant/munoz-camara-2020-immediate-implants-acute-periapical-infected]] — shorter-term (1yr) prospective cohort in same clinical scenario; Amato 2025 extends to 7yr
-- [[immediate-implant/pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma]] — 2024 SR+MA; Amato 2025 may not yet be included
-- [[immediate-implant/saijeva-2020-immediate-implant-placement-non-infected-sockets]] — SR+MA context
-- [[immediate-implant/almugeiren-2024-placement-immediate-dental-implants-extraction]] — 2024 MA on apical pathosis; Amato 2025 extends evidence base
+- [[immediate-implant/infected-socket/munoz-camara-2020-immediate-implants-acute-periapical-infected]] — shorter-term (1yr) prospective cohort in same clinical scenario; Amato 2025 extends to 7yr
+- [[immediate-implant/infected-socket/pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma]] — 2024 SR+MA; Amato 2025 may not yet be included
+- [[immediate-implant/infected-socket/saijeva-2020-immediate-implant-placement-non-infected-sockets]] — SR+MA context
+- [[immediate-implant/infected-socket/almugeiren-2024-placement-immediate-dental-implants-extraction]] — 2024 MA on apical pathosis; Amato 2025 extends evidence base
 
 ## 7. Glossary
 

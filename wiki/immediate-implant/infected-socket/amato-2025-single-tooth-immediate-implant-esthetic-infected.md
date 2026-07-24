@@ -72,7 +72,7 @@ This retrospective study ([DOI](https://doi.org/10.11607/jomi.11225)) from Amato
 
 ## Related Papers
 
-- [[immediate-implant/munoz-camara-2020-immediate-implants-acute-periapical-infected]] — 1-year prospective cohort; Amato 2025 extends to 7-year mean with same protocol family
-- [[immediate-implant/pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma]] — 2024 SR+MA; Amato 2025 adds highest-evidence long-term data point
-- [[immediate-implant/almugeiren-2024-placement-immediate-dental-implants-extraction]] — 2024 MA (10 RCTs); Amato 2025 longer follow-up retrospective complements
-- [[immediate-implant/saijeva-2020-immediate-implant-placement-non-infected-sockets]] — SR+MA context; Amato 2025 extends the evidence base
+- [[immediate-implant/infected-socket/munoz-camara-2020-immediate-implants-acute-periapical-infected]] — 1-year prospective cohort; Amato 2025 extends to 7-year mean with same protocol family
+- [[immediate-implant/infected-socket/pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma]] — 2024 SR+MA; Amato 2025 adds highest-evidence long-term data point
+- [[immediate-implant/infected-socket/almugeiren-2024-placement-immediate-dental-implants-extraction]] — 2024 MA (10 RCTs); Amato 2025 longer follow-up retrospective complements
+- [[immediate-implant/infected-socket/saijeva-2020-immediate-implant-placement-non-infected-sockets]] — SR+MA context; Amato 2025 extends the evidence base

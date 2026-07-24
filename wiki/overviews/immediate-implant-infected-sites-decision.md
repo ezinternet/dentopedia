@@ -70,7 +70,7 @@ Absolute contraindications remain active purulence, fistula, cellulitis, and sin
 | Prati 2017 | Prospective | n=131 | Acute abscess → Early (8–12w) → MBL 0.48 mm (best) |
 | Tabrizi 2020 | Retrospective | n=980 | Post-op infection → 70.6% failure |
 
-Evidence anchor: [[immediate-implant/pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma]] (SR+MA, 2024; partially supersedes Saijeva 2020, Chrcanovic 2015, Lee 2018).
+Evidence anchor: [[immediate-implant/infected-socket/pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma]] (SR+MA, 2024; partially supersedes Saijeva 2020, Chrcanovic 2015, Lee 2018).
 
 ---
 
@@ -227,15 +227,15 @@ Pre-extraction assessment
 
 ## Related Papers
 
-- [[immediate-implant/pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma]] — SR+MA anchor (2024)
-- [[immediate-implant/saijeva-2020-immediate-implant-placement-non-infected-sockets]] — SR+MA, KGW signal
-- [[immediate-implant/almugeiren-2024-placement-immediate-dental-implants-extraction]] — RCT-only MA
-- [[immediate-implant/amato-2025-single-tooth-immediate-implant-esthetic-infected]] — Longest-term retrospective (Tarnow group)
-- [[immediate-implant/prati-2017-immediate-early-delayed-implants-endodontic-infections]] — MBL timing hierarchy
-- [[immediate-implant/munoz-camara-2020-immediate-implants-acute-periapical-infected]] — 100% survival prospective
-- [[immediate-implant/blus-2015-immediate-implants-infected-noninfected-ultrasonic]] — Piezo debridement protocol
+- [[immediate-implant/infected-socket/pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma]] — SR+MA anchor (2024)
+- [[immediate-implant/infected-socket/saijeva-2020-immediate-implant-placement-non-infected-sockets]] — SR+MA, KGW signal
+- [[immediate-implant/infected-socket/almugeiren-2024-placement-immediate-dental-implants-extraction]] — RCT-only MA
+- [[immediate-implant/infected-socket/amato-2025-single-tooth-immediate-implant-esthetic-infected]] — Longest-term retrospective (Tarnow group)
+- [[immediate-implant/infected-socket/prati-2017-immediate-early-delayed-implants-endodontic-infections]] — MBL timing hierarchy
+- [[immediate-implant/infected-socket/munoz-camara-2020-immediate-implants-acute-periapical-infected]] — 100% survival prospective
+- [[immediate-implant/infected-socket/blus-2015-immediate-implants-infected-noninfected-ultrasonic]] — Piezo debridement protocol
 - [[immediate-implant/tabrizi-2020-dental-implant-survival-postoperative-infection]] — Post-op infection failure rate
-- [[immediate-implant/chrcanovic-2015-immediate-placement-implants-infected-sites]] — Historical SR (superseded)
-- [[immediate-implant/lee-2018-comparison-immediate-implant-placement-infected]] — Korean-authored SR+MA
+- [[immediate-implant/infected-socket/chrcanovic-2015-immediate-placement-implants-infected-sites]] — Historical SR (superseded)
+- [[immediate-implant/infected-socket/lee-2018-comparison-immediate-implant-placement-infected]] — Korean-authored SR+MA
 - [[overviews/immediate-implant-conditions]] — Parent overview: Type-1 IIP conditions and risk matrix
 - [[overviews/immediate-implant-decision-ladder]] — Clinical decision ladder

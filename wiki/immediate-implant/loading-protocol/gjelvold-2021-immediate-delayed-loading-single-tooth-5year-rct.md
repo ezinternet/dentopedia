@@ -75,7 +75,7 @@ The clinically important nuance: the original 1-year report had shown a **signif
 
 ## Related Papers
 
-- [[immediate-implant/esposito-2015-immediate-loading-vs-delayed-anterior-rct]] — independent RCT of IL vs DL in the anterior region; concordant on loading-protocol equivalence.
+- [[immediate-implant/loading-protocol/esposito-2015-immediate-loading-vs-delayed-anterior-rct]] — independent RCT of IL vs DL in the anterior region; concordant on loading-protocol equivalence.
 - [[immediate-implant/esthetic-soft-tissue/samet-2023-immediate-placement-loading-esthetic-zone]] — esthetic-zone immediate placement/loading; this 5-year RCT supplies long-term survival/esthetic evidence supporting immediacy.
 - [[overviews/implant-loading-protocol-prosthesis-type-overview]] — synthesis of loading-protocol decisions by prosthesis type; this single-tooth 5-year RCT is a primary data point.
-- [[immediate-implant/botros-2025-early-conventional-loading-immediate-molar]] — early vs conventional loading in a different (immediate molar) context; contrast in indication.
+- [[immediate-implant/loading-protocol/botros-2025-early-conventional-loading-immediate-molar]] — early vs conventional loading in a different (immediate molar) context; contrast in indication.

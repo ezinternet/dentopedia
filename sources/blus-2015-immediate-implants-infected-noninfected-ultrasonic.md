@@ -74,10 +74,10 @@ Differences NS. No implant lost after loading. Ultrasonic extraction allowed roo
 
 ## 6. Related Work
 
-- [[immediate-implant/munoz-camara-2020-immediate-implants-acute-periapical-infected]] — cites this as ref 27; notes 43.38% acute vs 56.62% chronic in Blus vs their 100% acute group
-- [[immediate-implant/saijeva-2020-immediate-implant-placement-non-infected-sockets]] — SR+MA including this study in the 9-study pool
-- [[immediate-implant/pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma]] — most comprehensive 2024 update
-- [[immediate-implant/chrcanovic-2015-immediate-placement-implants-infected-sites]] — co-published SR reviewing the same evidence base
+- [[immediate-implant/infected-socket/munoz-camara-2020-immediate-implants-acute-periapical-infected]] — cites this as ref 27; notes 43.38% acute vs 56.62% chronic in Blus vs their 100% acute group
+- [[immediate-implant/infected-socket/saijeva-2020-immediate-implant-placement-non-infected-sockets]] — SR+MA including this study in the 9-study pool
+- [[immediate-implant/infected-socket/pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma]] — most comprehensive 2024 update
+- [[immediate-implant/infected-socket/chrcanovic-2015-immediate-placement-implants-infected-sites]] — co-published SR reviewing the same evidence base
 
 ## 7. Glossary
 

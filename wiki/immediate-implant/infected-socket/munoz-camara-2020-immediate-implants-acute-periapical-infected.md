@@ -79,8 +79,8 @@ Acute infection etiology in test group: infected fracture 42%, granuloma+pus 30%
 
 ## Related Papers
 
-- [[immediate-implant/almugeiren-2024-placement-immediate-dental-implants-extraction]] — cites this as "Camara" (100 patients, no retrograde peri-implantitis in acute sites); included in the 10-RCT MA
-- [[immediate-implant/saijeva-2020-immediate-implant-placement-non-infected-sockets]] — SR+MA (9 cohorts) confirming survival equivalence across infected/non-infected
-- [[immediate-implant/pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma]] — 2024 SR+MA; most comprehensive update including protocol detail
-- [[immediate-implant/blus-2015-immediate-implants-infected-noninfected-ultrasonic]] — companion RCT cited in this paper (ref 27); acute vs chronic infection breakdown
+- [[immediate-implant/infected-socket/almugeiren-2024-placement-immediate-dental-implants-extraction]] — cites this as "Camara" (100 patients, no retrograde peri-implantitis in acute sites); included in the 10-RCT MA
+- [[immediate-implant/infected-socket/saijeva-2020-immediate-implant-placement-non-infected-sockets]] — SR+MA (9 cohorts) confirming survival equivalence across infected/non-infected
+- [[immediate-implant/infected-socket/pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma]] — 2024 SR+MA; most comprehensive update including protocol detail
+- [[immediate-implant/infected-socket/blus-2015-immediate-implants-infected-noninfected-ultrasonic]] — companion RCT cited in this paper (ref 27); acute vs chronic infection breakdown
 - [[immediate-implant/tabrizi-2020-dental-implant-survival-postoperative-infection]] — postoperative acute infection failure predictors (complementary scenario)

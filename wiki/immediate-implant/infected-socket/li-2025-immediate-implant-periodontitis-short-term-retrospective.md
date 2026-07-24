@@ -69,7 +69,7 @@ For Korean implant practice in periodontitis patients: short-term survival is fa
 
 ## Related Papers
 - [[implants/carra-2023-primordial-primary-prevention-peri-implant-sr-ma]] — primordial prevention (treat periodontitis first).
-- [[immediate-implant/colak-2023-immediate-implant-periapical-pathology-retrospective]] — periapical immediate.
+- [[immediate-implant/infected-socket/colak-2023-immediate-implant-periapical-pathology-retrospective]] — periapical immediate.
 - [[implants/galarraga-vinueza-2025-peri-implant-disease-risk-factors]] — peri-implant risk factors.
 - [[implants/herrera-2023-prevention-treatment-peri-implant-efp]] — EFP S3 guideline.
 - [[overviews/immediate-implant-conditions]] — immediate implant conditions synthesis.

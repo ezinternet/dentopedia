@@ -73,7 +73,7 @@ Based on articles retrieved from PubMed, this cross-sectional cohort ([DOI](http
 
 ## Related Papers
 
-- [[immediate-implant/pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma]] — SR+MA on pre-existing infected socket; this paper addresses the complementary scenario of postoperative onset
-- [[immediate-implant/saijeva-2020-immediate-implant-placement-non-infected-sockets]] — SR+MA on infected socket survival; context for infection risk
-- [[immediate-implant/almugeiren-2024-placement-immediate-dental-implants-extraction]] — meta-analysis on apical pathosis sites
+- [[immediate-implant/infected-socket/pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma]] — SR+MA on pre-existing infected socket; this paper addresses the complementary scenario of postoperative onset
+- [[immediate-implant/infected-socket/saijeva-2020-immediate-implant-placement-non-infected-sockets]] — SR+MA on infected socket survival; context for infection risk
+- [[immediate-implant/infected-socket/almugeiren-2024-placement-immediate-dental-implants-extraction]] — meta-analysis on apical pathosis sites
 - [[drug/antibiotics]] — antibiotic prophylaxis and postoperative prescription for implant surgery

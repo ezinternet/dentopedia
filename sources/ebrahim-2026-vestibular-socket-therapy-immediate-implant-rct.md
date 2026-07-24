@@ -12,7 +12,7 @@ source_collection: external
 
 ## Why Ingested
 
-즉시 식립 시 buccal 결손 socket의 차폐막·연조직 전략 선택을 다루는 [[overviews/immediate-implant-soft-tissue-gap-grafting-material-choice]]를 보강. modified VST(pericardium membrane)가 open-flap GBR 대비 buccal bone은 동등하나 PES(특히 mesial/distal papilla)에서 유의 우위를 보인 RCT로, [[immediate-implant/stagnaro-borgia-2022-immediate-implant-buccal-defect-tuberosity-rct]]의 buccal 결손 즉시 식립 근거와 짝을 이룸.
+즉시 식립 시 buccal 결손 socket의 차폐막·연조직 전략 선택을 다루는 [[overviews/immediate-implant-soft-tissue-gap-grafting-material-choice]]를 보강. modified VST(pericardium membrane)가 open-flap GBR 대비 buccal bone은 동등하나 PES(특히 mesial/distal papilla)에서 유의 우위를 보인 RCT로, [[immediate-implant/gap-grafting/stagnaro-borgia-2022-immediate-implant-buccal-defect-tuberosity-rct]]의 buccal 결손 즉시 식립 근거와 짝을 이룸.
 
 ## Three-line Summary
 

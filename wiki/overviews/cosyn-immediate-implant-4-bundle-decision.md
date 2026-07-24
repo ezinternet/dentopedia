@@ -242,13 +242,13 @@ Cosyn 4편은 *각 변수의 독립 효과*만 평가한다. 4변수 모두 동�
 - [[immediate-implant/pitman-2023-immediate-implant-flap-flapless-sr-ma]]
 - [[immediate-implant/esthetic-soft-tissue/pitman-2022-immediate-implant-provisionalization-sr-ma]]
 - [[immediate-implant/esthetic-soft-tissue/seyssens-2021-immediate-implant-connective-tissue-graft-sr-ma]]
-- [[immediate-implant/seyssens-2022-immediate-implant-socket-grafting-sr-ma]]
-- [[immediate-implant/sanz-2017-bone-graft-gap-immediate-implant-rct]]
-- [[immediate-implant/paknejad-2017-flapless-immediate-implant-buccal-gap-rct]]
-- [[immediate-implant/stagnaro-borgia-2022-immediate-implant-buccal-defect-tuberosity-rct]]
+- [[immediate-implant/gap-grafting/seyssens-2022-immediate-implant-socket-grafting-sr-ma]]
+- [[immediate-implant/gap-grafting/sanz-2017-bone-graft-gap-immediate-implant-rct]]
+- [[immediate-implant/gap-grafting/paknejad-2017-flapless-immediate-implant-buccal-gap-rct]]
+- [[immediate-implant/gap-grafting/stagnaro-borgia-2022-immediate-implant-buccal-defect-tuberosity-rct]]
 - [[immediate-implant/esthetic-soft-tissue/bajaj-2025-cgf-enriched-bone-graft-iipp-rct]]
 - [[immediate-implant/esthetic-soft-tissue/azadi-2025-soft-tissue-grafting-immediate-implant-bayesian-nma]]
-- [[immediate-implant/mansouri-2025-flapless-immediate-implant-bone-grafting-sr-ma]]
+- [[immediate-implant/gap-grafting/mansouri-2025-flapless-immediate-implant-bone-grafting-sr-ma]]
 - [[immediate-implant/esthetic-soft-tissue/qin-2023-immediate-implant-provisionalization-maxillary-esthetic-sr-ma]]
 - [[immediate-implant/esthetic-soft-tissue/sutariya-2022-soft-tissue-immediate-provisionalization-sr-ma]]
 - [[immediate-implant/esthetic-soft-tissue/araujo-2026-buccal-gap-width-alveolar-reduction-iip-cbct]] — SG 임계값 정량화: gap >2 mm → 치조제 90%+ 보존, ≤2 mm은 이식해도 비이식 수준 (gap 폭이 유일 예측인자)
@@ -256,7 +256,7 @@ Cosyn 4편은 *각 변수의 독립 효과*만 평가한다. 4변수 모두 동�
 - [[immediate-implant/esthetic-soft-tissue/cosyn-2026-buccal-dehiscence-morphotype-regenerative-strategy-iip]] — Flap 변수를 dehiscence socket으로 확장: 11 morphotype → 3단계 재생전략, flapless 필수, Type III·extended defect 금기
 - [[immediate-implant/esthetic-soft-tissue/fettouh-2026-safe-angle-guided-iip-anterior-maxilla-deviation]] — 신규 보조 축: 가이드 식립 정확도 (Safe Angle + plateau-drill로 협측 slippage 억제)
 - [[immediate-implant/esthetic-soft-tissue/nechita-2026-guided-provisionalization-emergence-profile-esthetic-zone]] — IP 전달 방식 변형: 가이드 전달 무회전방지 5° Morse taper 즉시 프로비저널 (1년 MBL 0.37 mm·윤곽 +1.41 mm)
-- [[immediate-implant/dutra-2025-customized-healing-abutments-immediate-implants]] — CHA (sealing abutment) 변형
+- [[immediate-implant/esthetic-soft-tissue/dutra-2025-customized-healing-abutments-immediate-implants]] — CHA (sealing abutment) 변형
 - [[immediate-implant/esthetic-soft-tissue/elgendi-2025-peri-implant-soft-tissue-conditioning]] — CAD-CAM SSA (구치부 IP 대체)
 - [[overviews/type-1a-immediate-placement-immediate-loading-decision]] — Type 1A 적응증 (자매 페이지)
 - [[overviews/peri-implant-soft-tissue-dehiscence-prevention]] — 연조직 dehiscence 예방 (자매 페이지)

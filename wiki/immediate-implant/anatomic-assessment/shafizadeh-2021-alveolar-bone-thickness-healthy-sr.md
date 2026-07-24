@@ -45,6 +45,6 @@ Anterior buccal plate predominantly thin (often ≤1 mm). Posterior regions thic
 Heterogeneity in measurement levels (crest vs apex). CBCT voxel size variability across primary studies.
 
 ## Related Papers
-- [[immediate-implant/altarawneh-2018-bone-dimensions-anterior-maxilla-cbct]]
+- [[immediate-implant/anatomic-assessment/altarawneh-2018-bone-dimensions-anterior-maxilla-cbct]]
 - [[immediate-implant/esthetic-soft-tissue/yang-2019-labial-bone-thickness-esthetics-iipp]]
-- [[immediate-implant/dossantos-2019-buccal-bone-root-inclination-alveolar-cbct]]
+- [[immediate-implant/anatomic-assessment/dossantos-2019-buccal-bone-root-inclination-alveolar-cbct]]

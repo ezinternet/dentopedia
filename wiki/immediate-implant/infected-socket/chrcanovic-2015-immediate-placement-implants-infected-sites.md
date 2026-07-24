@@ -19,7 +19,7 @@ relations:
     target: saijeva-2020-immediate-implant-placement-non-infected-sockets
 ---
 
-> [!warning] Superseded (full) → [[immediate-implant/pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma]]
+> [!warning] Superseded (full) → [[immediate-implant/infected-socket/pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma]]
 > Pranckeviciene 2024 SR+MA (22 studies, with meta-analysis) supersedes this 2013-search SR (28 studies, no MA). For current clinical decisions use the 2024 update. (set 2026-07-05)
 
 ## Three-line Summary
@@ -67,7 +67,7 @@ This systematic review ([DOI](https://doi.org/10.1111/cid.12098)) searched PubMe
 
 ## Related Papers
 
-- [[immediate-implant/pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma]] — supersedes this SR with 22 studies + meta-analysis
-- [[immediate-implant/saijeva-2020-immediate-implant-placement-non-infected-sockets]] — 2020 SR+MA building on this foundation
-- [[immediate-implant/blus-2015-immediate-implants-infected-noninfected-ultrasonic]] — co-published RCT in same journal issue
-- [[immediate-implant/prati-2017-immediate-early-delayed-implants-endodontic-infections]] — cites this as ref 15
+- [[immediate-implant/infected-socket/pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma]] — supersedes this SR with 22 studies + meta-analysis
+- [[immediate-implant/infected-socket/saijeva-2020-immediate-implant-placement-non-infected-sockets]] — 2020 SR+MA building on this foundation
+- [[immediate-implant/infected-socket/blus-2015-immediate-implants-infected-noninfected-ultrasonic]] — co-published RCT in same journal issue
+- [[immediate-implant/infected-socket/prati-2017-immediate-early-delayed-implants-endodontic-infections]] — cites this as ref 15

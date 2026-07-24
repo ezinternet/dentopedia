@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-즉시식립(immediate implant placement, IIP) 후 발치와의 개방형 창상(open wound) 관리법 비교가 위키에 부족하다. 기존 [[immediate-implant/zhou-2024-open-closed-flap-collagen-membrane-immediate-implant]]는 open vs closed flap을 collagen membrane으로 비교했고, [[immediate-implant/esthetic-soft-tissue/elgendi-2025-peri-implant-soft-tissue-conditioning]]는 CAD-CAM socket-sealing abutment로 연조직을 조절했다. 본 retrospective cohort는 자가 반응성 연조직 (Reactive Soft Tissue, RST) vs 흡수성 콜라겐 스펀지 (Absorbable Collagen Sponge, ACS)라는 제3의 개방창 sealing 선택지를 직접 대조해 이 결정 트리를 보강한다.
+즉시식립(immediate implant placement, IIP) 후 발치와의 개방형 창상(open wound) 관리법 비교가 위키에 부족하다. 기존 [[immediate-implant/gap-grafting/zhou-2024-open-closed-flap-collagen-membrane-immediate-implant]]는 open vs closed flap을 collagen membrane으로 비교했고, [[immediate-implant/esthetic-soft-tissue/elgendi-2025-peri-implant-soft-tissue-conditioning]]는 CAD-CAM socket-sealing abutment로 연조직을 조절했다. 본 retrospective cohort는 자가 반응성 연조직 (Reactive Soft Tissue, RST) vs 흡수성 콜라겐 스펀지 (Absorbable Collagen Sponge, ACS)라는 제3의 개방창 sealing 선택지를 직접 대조해 이 결정 트리를 보강한다.
 
 ## Three-line Summary
 

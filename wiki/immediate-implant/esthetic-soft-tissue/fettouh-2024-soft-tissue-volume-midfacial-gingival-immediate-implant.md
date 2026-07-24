@@ -59,6 +59,6 @@ This 3-arm RCT (39 thin-labial-bone maxillary esthetic sites) compared immediate
 ## Related Papers
 
 - [[immediate-implant/esthetic-soft-tissue/seyssens-2021-immediate-implant-connective-tissue-graft-sr-ma]] — reinforces: CTG benefit on midfacial level
-- [[immediate-implant/dutra-2025-customized-healing-abutments-immediate-implants]] — contrast: CHA alone insufficient here
+- [[immediate-implant/esthetic-soft-tissue/dutra-2025-customized-healing-abutments-immediate-implants]] — contrast: CHA alone insufficient here
 - [[immediate-implant/esthetic-soft-tissue/azadi-2025-soft-tissue-grafting-immediate-implant-bayesian-nma]] — network ranking of soft-tissue grafting strategies
 - [[immediate-implant/esthetic-soft-tissue/elgendi-2025-peri-implant-soft-tissue-conditioning]] — soft-tissue conditioning at immediate implants

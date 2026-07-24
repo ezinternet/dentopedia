@@ -57,7 +57,7 @@ Numerical detail not extractable from available text — abstract only (publishe
 
 ## 6. Related Work
 - [[implants/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — origin of OD technique cited as the densification rationale.
-- [[immediate-implant/bleyan-2021-molar-septum-expansion-osseodensification-immediate-implant]] — larger retrospective on OD-assisted immediate molar implants.
+- [[immediate-implant/molar-septum/bleyan-2021-molar-septum-expansion-osseodensification-immediate-implant]] — larger retrospective on OD-assisted immediate molar implants.
 - [[implants/koutouzis-2019-alveolar-ridge-expansion-osseodensification-multicenter-retrospective]] — multicenter retrospective on OD-mediated ridge expansion.
 
 ## 7. Glossary

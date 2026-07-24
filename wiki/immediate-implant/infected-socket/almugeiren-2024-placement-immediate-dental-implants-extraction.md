@@ -77,7 +77,7 @@ Selected RCT results:
 
 ## Related Papers
 
-- [[immediate-implant/pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma]] — 2024 SR+MA with broader scope; explicitly mentions acute purulent as contraindication
-- [[immediate-implant/saijeva-2020-immediate-implant-placement-non-infected-sockets]] — 2020 SR+MA with time-stratified secondary parameter analysis
+- [[immediate-implant/infected-socket/pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma]] — 2024 SR+MA with broader scope; explicitly mentions acute purulent as contraindication
+- [[immediate-implant/infected-socket/saijeva-2020-immediate-implant-placement-non-infected-sockets]] — 2020 SR+MA with time-stratified secondary parameter analysis
 - [[immediate-implant/tabrizi-2020-dental-implant-survival-postoperative-infection]] — postoperative acute infection failure risk
-- [[immediate-implant/colak-2023-immediate-implant-periapical-pathology-retrospective]] — retrospective cohort, chronic periapical lesion
+- [[immediate-implant/infected-socket/colak-2023-immediate-implant-periapical-pathology-retrospective]] — retrospective cohort, chronic periapical lesion

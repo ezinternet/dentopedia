@@ -15,7 +15,7 @@ text_filename: askinekinci-2026-bic-surface-immediate-implant-stability.txt
 
 ## Why Ingested
 
-기존 [[immediate-implant/witoonkitvanich-2025-immediate-implant-stability-maxilla-mandible]]가 즉시식립 ISQ 안정성을 부위(상악/하악)로 비교했다면, 본 RCT는 동일 macro-design 임플란트에서 *fresh extraction (graft/no-graft) vs healed* 부위 간 primary stability와 가상 BIC의 상관을 직접 측정한다. 즉시식립의 잔존 gap에 graft를 채우는 것이 초기 기계적 안정성에 기여하는지, 그리고 native bone contact(BIC)가 ISQ를 얼마나 예측하는지에 대한 근거를 보강한다.
+기존 [[immediate-implant/primary-stability/witoonkitvanich-2025-immediate-implant-stability-maxilla-mandible]]가 즉시식립 ISQ 안정성을 부위(상악/하악)로 비교했다면, 본 RCT는 동일 macro-design 임플란트에서 *fresh extraction (graft/no-graft) vs healed* 부위 간 primary stability와 가상 BIC의 상관을 직접 측정한다. 즉시식립의 잔존 gap에 graft를 채우는 것이 초기 기계적 안정성에 기여하는지, 그리고 native bone contact(BIC)가 ISQ를 얼마나 예측하는지에 대한 근거를 보강한다.
 
 ## Three-line Summary
 

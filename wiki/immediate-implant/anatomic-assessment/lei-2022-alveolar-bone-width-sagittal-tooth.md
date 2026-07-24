@@ -45,5 +45,5 @@ Class III patients showed thinner labial bone plates (often <1 mm in apical thir
 Single-center retrospective; CBCT measurement precision limited by voxel size. No outcome data — implications are inferred from anatomy only.
 
 ## Related Papers
-- [[immediate-implant/kan-2011-sagittal-root-position-immediate-implant-anterior]]
-- [[immediate-implant/rodrigues-2022-srp-periodontal-phenotype-anterior-maxillary]]
+- [[immediate-implant/anatomic-assessment/kan-2011-sagittal-root-position-immediate-implant-anterior]]
+- [[immediate-implant/anatomic-assessment/rodrigues-2022-srp-periodontal-phenotype-anterior-maxillary]]

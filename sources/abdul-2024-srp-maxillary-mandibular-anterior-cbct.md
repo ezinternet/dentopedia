@@ -45,8 +45,8 @@ Prevalence distributions reported for both arches. Mandibular anterior teeth oft
 Cross-sectional anatomy-only; single population.
 
 ## 6. Related Work
-- [[immediate-implant/kan-2011-sagittal-root-position-immediate-implant-anterior]]
-- [[immediate-implant/kong-2020-srp-maxillary-anterior-korean-population]]
+- [[immediate-implant/anatomic-assessment/kan-2011-sagittal-root-position-immediate-implant-anterior]]
+- [[immediate-implant/anatomic-assessment/kong-2020-srp-maxillary-anterior-korean-population]]
 
 ## 7. Glossary
 - **IIP:** Immediate Implant Placement — placement at the time of tooth extraction.

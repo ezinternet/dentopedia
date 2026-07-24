@@ -65,6 +65,6 @@ Retrospective multicenter chart review across five centers. Inclusion: molar ext
 ## Related Papers
 - [[implants/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — origin of OD.
 - [[implants/koutouzis-2019-alveolar-ridge-expansion-osseodensification-multicenter-retrospective]] — OD ridge expansion in healed ridges (analogous mechanism).
-- [[immediate-implant/darosa-2019-immediate-dentoalveolar-restoration-osseodensification-periodontal]] — case report combining IDR + OD in compromised sockets.
+- [[immediate-implant/gap-grafting/darosa-2019-immediate-dentoalveolar-restoration-osseodensification-periodontal]] — case report combining IDR + OD in compromised sockets.
 - [[implants/mello-machado-2021-osseodensification-low-quality-bone-rct]] — RCT in low-density bone.
 - [[fontes-pereira-2023-osseodensification-osteotomy-alternative-sr]] — SR including this paper.

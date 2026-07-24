@@ -51,4 +51,4 @@ This meta-analysis of 11 RCTs established that immediately and conventionally lo
 
 - [[implants/abdunabi-2019-immediately-loaded-maxillary-full-arch-sr]] — loading protocols in the edentulous maxilla
 - [[implants/liu-2021-immediate-delayed-loading-overdenture-mbl-sr-ma]] — loading protocols for mandibular overdentures
-- [[immediate-implant/esposito-2015-immediate-loading-vs-delayed-anterior-rct]] — immediate vs delayed loading RCT (anterior)
+- [[immediate-implant/loading-protocol/esposito-2015-immediate-loading-vs-delayed-anterior-rct]] — immediate vs delayed loading RCT (anterior)

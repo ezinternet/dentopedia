@@ -65,6 +65,6 @@ SR+MA per PRISMA (PROSPERO CRD42023439073), searching PubMed/MEDLINE, EMBASE, De
 
 - [[immediate-implant/esthetic-soft-tissue/pitman-2022-immediate-implant-provisionalization-sr-ma]] — extends; isolates the membrane-free open-healing variable behind Pitman's immediate-provisionalization soft-tissue benefit.
 - [[immediate-implant/esthetic-soft-tissue/de-angelis-2021-immediate-implant-provisionalization-soft-tissue-retrospective]] — reinforces; provisionalization-driven peri-implant soft-tissue stability in the esthetic zone.
-- [[immediate-implant/dutra-2025-customized-healing-abutments-immediate-implants]] — refines; customized healing abutment as the transmucosal seal that operationalizes open healing.
-- [[immediate-implant/zhou-2024-open-closed-flap-collagen-membrane-immediate-implant]] — contrasts; open vs closed flap with a collagen membrane, where Zadikian instead studies membrane-free open healing.
-- [[immediate-implant/seyssens-2022-immediate-implant-socket-grafting-sr-ma]] — reinforces; buccal-gap socket grafting rationale that the open-healing seal protects.
+- [[immediate-implant/esthetic-soft-tissue/dutra-2025-customized-healing-abutments-immediate-implants]] — refines; customized healing abutment as the transmucosal seal that operationalizes open healing.
+- [[immediate-implant/gap-grafting/zhou-2024-open-closed-flap-collagen-membrane-immediate-implant]] — contrasts; open vs closed flap with a collagen membrane, where Zadikian instead studies membrane-free open healing.
+- [[immediate-implant/gap-grafting/seyssens-2022-immediate-implant-socket-grafting-sr-ma]] — reinforces; buccal-gap socket grafting rationale that the open-healing seal protects.

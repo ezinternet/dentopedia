@@ -228,7 +228,7 @@ Causal chain: Thin facial bone wall → 발치 후 bundle bone 흡수 → 협측
 
 ## Cluster 6 — 수술 접근법과 유두 보존: VST vs Open-flap (Type II socket) (2026 신규)
 
-[[immediate-implant/ebrahim-2026-vestibular-socket-therapy-immediate-implant-rct]] (BMC Oral Health 2026, RCT, n=20, 상악 비구치 Type II socket, 6mo):
+[[immediate-implant/gap-grafting/ebrahim-2026-vestibular-socket-therapy-immediate-implant-rct]] (BMC Oral Health 2026, RCT, n=20, 상악 비구치 Type II socket, 6mo):
 
 - 동일 graft/막 조건에서 **수술 접근법만 차이** — VST(전정부 터널, 유두 절개 없음) vs open-flap GBR.
 - 협측 골 두께·높이는 군간 동등.

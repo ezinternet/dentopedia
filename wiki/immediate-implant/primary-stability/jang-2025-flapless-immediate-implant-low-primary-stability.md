@@ -86,7 +86,7 @@ Despite these unfavorable starting conditions, every implant osseointegrated. Me
 
 ## Related Papers
 
-- [[immediate-implant/kim-2016-immediately-placed-implant-without-primary]] — extends: single immediate implant without primary stability that still integrated; this study scales that to a 16-case cohort with long follow-up.
-- [[immediate-implant/stanley-2020-five-thread-guideline-predicting-primary]] — refines: ITV/engagement thresholds for predicting primary stability are reframed here as favorable rather than mandatory for immediate flapless success.
-- [[immediate-implant/witoonkitvanich-2025-immediate-implant-stability-maxilla-mandible]] — reinforces: ISQ trajectory and maxilla-vs-mandible stability behavior in immediate placement.
-- [[immediate-implant/paknejad-2017-flapless-immediate-implant-buccal-gap-rct]] — related: flapless immediate placement protocol and buccal-gap management.
+- [[immediate-implant/primary-stability/kim-2016-immediately-placed-implant-without-primary]] — extends: single immediate implant without primary stability that still integrated; this study scales that to a 16-case cohort with long follow-up.
+- [[immediate-implant/primary-stability/stanley-2020-five-thread-guideline-predicting-primary]] — refines: ITV/engagement thresholds for predicting primary stability are reframed here as favorable rather than mandatory for immediate flapless success.
+- [[immediate-implant/primary-stability/witoonkitvanich-2025-immediate-implant-stability-maxilla-mandible]] — reinforces: ISQ trajectory and maxilla-vs-mandible stability behavior in immediate placement.
+- [[immediate-implant/gap-grafting/paknejad-2017-flapless-immediate-implant-buccal-gap-rct]] — related: flapless immediate placement protocol and buccal-gap management.

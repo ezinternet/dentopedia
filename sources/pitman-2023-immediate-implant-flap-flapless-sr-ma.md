@@ -49,9 +49,9 @@ PRISMA. Two reviewers. RoB Cochrane. Random-effects meta-analysis.
 
 ## 6. Related Work
 - [[immediate-implant/esthetic-soft-tissue/seyssens-2021-immediate-implant-connective-tissue-graft-sr-ma]] — Cosyn 시리즈 — CTG
-- [[immediate-implant/seyssens-2022-immediate-implant-socket-grafting-sr-ma]] — Cosyn 시리즈 — socket grafting
+- [[immediate-implant/gap-grafting/seyssens-2022-immediate-implant-socket-grafting-sr-ma]] — Cosyn 시리즈 — socket grafting
 - [[immediate-implant/esthetic-soft-tissue/pitman-2022-immediate-implant-provisionalization-sr-ma]] — Cosyn 시리즈 — immediate provisionalization
-- [[immediate-implant/mansouri-2025-flapless-immediate-implant-bone-grafting-sr-ma]] — flapless + 골이식 SR+MA
+- [[immediate-implant/gap-grafting/mansouri-2025-flapless-immediate-implant-bone-grafting-sr-ma]] — flapless + 골이식 SR+MA
 
 ## 7. Limitations and Future Work
 - 자세한 한계·후속 연구 방향은 원문 Discussion/Conclusion 참고.

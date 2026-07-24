@@ -78,7 +78,7 @@ Clinical decision protocol (Bologna):
 
 ## Related Papers
 
-- [[immediate-implant/pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma]] — 2024 SR+MA confirming acute infection as contraindication; this paper provides Level 2 prospective evidence for that conclusion
-- [[immediate-implant/munoz-camara-2020-immediate-implants-acute-periapical-infected]] — contradicts: Murcia group placed immediately in acute sites and found 100% survival; protocol difference (CHX debridement + AMOX/CLV vs Bologna's defer-to-early approach)
-- [[immediate-implant/saijeva-2020-immediate-implant-placement-non-infected-sockets]] — SR+MA context: infected vs non-infected; Prati 2017 provides timing nuance missing from that comparison
-- [[immediate-implant/chrcanovic-2015-immediate-placement-implants-infected-sites]] — SR cited in Prati 2017; systematic context for infected-site placement
+- [[immediate-implant/infected-socket/pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma]] — 2024 SR+MA confirming acute infection as contraindication; this paper provides Level 2 prospective evidence for that conclusion
+- [[immediate-implant/infected-socket/munoz-camara-2020-immediate-implants-acute-periapical-infected]] — contradicts: Murcia group placed immediately in acute sites and found 100% survival; protocol difference (CHX debridement + AMOX/CLV vs Bologna's defer-to-early approach)
+- [[immediate-implant/infected-socket/saijeva-2020-immediate-implant-placement-non-infected-sockets]] — SR+MA context: infected vs non-infected; Prati 2017 provides timing nuance missing from that comparison
+- [[immediate-implant/infected-socket/chrcanovic-2015-immediate-placement-implants-infected-sites]] — SR cited in Prati 2017; systematic context for infected-site placement

@@ -50,6 +50,6 @@ This systematic review and meta-analysis pooled 11 studies (7 for marginal bone 
 
 ## Related Papers
 
-- [[immediate-implant/yaghmai-2025-palatal-root-socket-all-on-x]] — All-on-X immediate full-arch placement
+- [[immediate-implant/molar-septum/yaghmai-2025-palatal-root-socket-all-on-x]] — All-on-X immediate full-arch placement
 - [[immediate-implant/heimes-2025-immediate-implant-full-arch-rehabilitation]] — immediate full-arch rehabilitation
 - [[implants/abdunabi-2019-immediately-loaded-maxillary-full-arch-sr]] — immediate loading of maxillary full-arch prostheses

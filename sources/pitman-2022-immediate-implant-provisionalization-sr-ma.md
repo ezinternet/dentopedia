@@ -49,7 +49,7 @@ PubMed/Medline/Cochrane 검색; RCT 및 전향적 연구 포함.
 단기 자료 중심; 전치부 위주.
 
 ## 6. Related Work
-- [[immediate-implant/wittneben-2023-immediate-implant-loaded-single-crown-sr]] — related
+- [[immediate-implant/loading-protocol/wittneben-2023-immediate-implant-loaded-single-crown-sr]] — related
 - [[immediate-implant/esthetic-soft-tissue/gaddale-2024-immediate-implant-loading-esthetic-tissue-sr-ma]] — related
 
 ## 7. Glossary

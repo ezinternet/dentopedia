@@ -46,7 +46,7 @@ Cairo Univ. RCT, CAD-CAM SSA designed pre-surgery from CBCT + scan and milled ch
 구치부 immediate implant에서 큰 socket·해부학적 부적합 케이스에 CAD-CAM SSA가 mucoperiosteal flap 없이 sealing과 emergence profile 형성 동시 달성 가능. 디지털 워크플로우 연계.
 
 ## Related Papers
-- [[immediate-implant/dutra-2025-customized-healing-abutments-immediate-implants]] — 전치부 CHA RCT — 같은 컨셉 단순 가공 버전
+- [[immediate-implant/esthetic-soft-tissue/dutra-2025-customized-healing-abutments-immediate-implants]] — 전치부 CHA RCT — 같은 컨셉 단순 가공 버전
 - [[digital-workflow/schiavon-2025-computer-assisted-immediate-implant-accuracy-nma]] — computer-assisted IIP accuracy NMA
 
 ## Sources

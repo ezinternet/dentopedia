@@ -70,4 +70,4 @@ A secondary, non-significant directional signal favoured delayed placement: more
 ## Related Papers
 
 - [[overviews/implant-placement-timing-immediate-early-delayed]] — this SR+MA anchors the "survival equivalent across timing protocols" thesis of the timing overview.
-- [[immediate-implant/ragucci-2020-immediate-implant-molar-extraction-sockets]] — complements with site-specific (molar socket) immediate-placement evidence.
+- [[immediate-implant/molar-septum/ragucci-2020-immediate-implant-molar-extraction-sockets]] — complements with site-specific (molar socket) immediate-placement evidence.

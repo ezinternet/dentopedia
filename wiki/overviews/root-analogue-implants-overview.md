@@ -114,13 +114,13 @@ A single Ti-6Al-4V DMLS RAI (fractured maxillary 2nd premolar, immediate placeme
 ## Related Papers
 
 **Systematic review:**
-- [[immediate-implant/alqutaibi-2026-root-analog-dental-implants]] — 28 studies/432 RAIs; material-dependent predictability, evidence immature
+- [[immediate-implant/root-analog/alqutaibi-2026-root-analog-dental-implants]] — 28 studies/432 RAIs; material-dependent predictability, evidence immature
 
 **Clinical series & trials:**
-- [[immediate-implant/bose-2020-root-analogue-implants-single-crowns-fpd]] — largest series; 94.4% survival but 64.5% composite success, not yet justified
-- [[immediate-implant/bose-2023-root-analogue-implants-orthodontic-extrusion]] — FOE (natural root) outperforms RAI on bone/soft tissue
-- [[immediate-implant/debeus-2025-metal-free-custom-zirconia-implants]] — custom zirconia 75.8% 5-yr survival, "cannot be recommended"
-- [[immediate-implant/figliuzzi-2022-10-year-evaluation-first-root]] — 10-yr case, 0 mm bone loss (best-case ceiling, n=1)
+- [[immediate-implant/root-analog/bose-2020-root-analogue-implants-single-crowns-fpd]] — largest series; 94.4% survival but 64.5% composite success, not yet justified
+- [[immediate-implant/root-analog/bose-2023-root-analogue-implants-orthodontic-extrusion]] — FOE (natural root) outperforms RAI on bone/soft tissue
+- [[immediate-implant/root-analog/debeus-2025-metal-free-custom-zirconia-implants]] — custom zirconia 75.8% 5-yr survival, "cannot be recommended"
+- [[immediate-implant/root-analog/figliuzzi-2022-10-year-evaluation-first-root]] — 10-yr case, 0 mm bone loss (best-case ceiling, n=1)
 
 **Related overviews:**
 - [[overviews/zirconia-implant-clinical-outcomes]] — zirconia-implant fracture/brittleness context

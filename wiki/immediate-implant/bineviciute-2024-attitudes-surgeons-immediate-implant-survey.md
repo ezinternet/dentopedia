@@ -50,6 +50,6 @@ This cross-sectional survey of 186 Lithuanian oral surgeons and periodontists ex
 
 ## Related Papers
 
-- [[immediate-implant/pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma]] — evidence on periapical pathology and immediate placement
-- [[immediate-implant/pavlovic-2022-interradicular-septum-morphology-molar-iip]] — socket/septum morphology classification
-- [[immediate-implant/smith-2013-classification-molar-extraction-immediate-implant]] — molar extraction socket classification
+- [[immediate-implant/infected-socket/pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma]] — evidence on periapical pathology and immediate placement
+- [[immediate-implant/molar-septum/pavlovic-2022-interradicular-septum-morphology-molar-iip]] — socket/septum morphology classification
+- [[immediate-implant/molar-septum/smith-2013-classification-molar-extraction-immediate-implant]] — molar extraction socket classification

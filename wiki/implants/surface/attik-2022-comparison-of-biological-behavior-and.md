@@ -92,4 +92,4 @@ Biocompatibility at cellular level suggests **minimally invasive implants viable
 **In Vitro Laboratory Study** — Provides cellular-level safety data but does not establish clinical superiority or long-term bone integration outcomes
 
 ---
-**Related**: [[implants/isq/oh-2008-comparison-of-initial-implant-stability]] | [[immediate-implant/kim-2016-immediately-placed-implant-without-primary]]
+**Related**: [[implants/isq/oh-2008-comparison-of-initial-implant-stability]] | [[immediate-implant/primary-stability/kim-2016-immediately-placed-implant-without-primary]]

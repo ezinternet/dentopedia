@@ -61,7 +61,7 @@ IL은 높은 초기안정성 (Primary Stability)이 확보될 때 유효한 선�
 - **Marginal bone loss**: IL 0.2–1 mm vs NIL 0.1–0.8 mm; difference not statistically significant (P > 0.05).
 - **Prosthetic complications** (crown loosening, fracture): similar rates, no significant difference (P > 0.05).
 - **Soft tissue / patient satisfaction**: reported as similar between protocols across included SRs.
-- Illustrative primary study cited: Gjelvold et al. 5-year RCT — IL 100% vs NIL 95.8% survival, no significant MBL/esthetic difference (matches [[immediate-implant/gjelvold-2021-immediate-delayed-loading-single-tooth-5year-rct]] already in this wiki).
+- Illustrative primary study cited: Gjelvold et al. 5-year RCT — IL 100% vs NIL 95.8% survival, no significant MBL/esthetic difference (matches [[immediate-implant/loading-protocol/gjelvold-2021-immediate-delayed-loading-single-tooth-5year-rct]] already in this wiki).
 
 ## 5. Limitations and Future Work
 

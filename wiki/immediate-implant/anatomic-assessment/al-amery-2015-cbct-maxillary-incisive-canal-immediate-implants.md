@@ -80,6 +80,6 @@ The Mongoloid population in this study showed longer, more slanted-curved IC wit
 
 ## Related Papers
 
-- [[immediate-implant/panda-2018-cbct-incisive-canal-anterior-maxillary]] — later CBCT IC study; compare dimensional norms and ethnic considerations
-- [[immediate-implant/altarawneh-2018-bone-dimensions-anterior-maxilla-cbct]] — anterior maxillary bone dimensions for immediate implant placement
-- [[immediate-implant/dossantos-2019-buccal-bone-root-inclination-alveolar-cbct]] — root-to-buccal-bone relationships in anterior maxilla relevant to immediate implant gap assessment
+- [[immediate-implant/anatomic-assessment/panda-2018-cbct-incisive-canal-anterior-maxillary]] — later CBCT IC study; compare dimensional norms and ethnic considerations
+- [[immediate-implant/anatomic-assessment/altarawneh-2018-bone-dimensions-anterior-maxilla-cbct]] — anterior maxillary bone dimensions for immediate implant placement
+- [[immediate-implant/anatomic-assessment/dossantos-2019-buccal-bone-root-inclination-alveolar-cbct]] — root-to-buccal-bone relationships in anterior maxilla relevant to immediate implant gap assessment

@@ -43,6 +43,6 @@ Population-specific distributions of Kan classes and AWT values reported. Class 
 Cross-sectional; single-center; no outcome data.
 
 ## Related Papers
-- [[immediate-implant/kan-2011-sagittal-root-position-immediate-implant-anterior]]
-- [[immediate-implant/habib-2024-srp-decision-making-immediate-implant-cbct]]
-- [[immediate-implant/kong-2020-srp-maxillary-anterior-korean-population]]
+- [[immediate-implant/anatomic-assessment/kan-2011-sagittal-root-position-immediate-implant-anterior]]
+- [[immediate-implant/anatomic-assessment/habib-2024-srp-decision-making-immediate-implant-cbct]]
+- [[immediate-implant/anatomic-assessment/kong-2020-srp-maxillary-anterior-korean-population]]

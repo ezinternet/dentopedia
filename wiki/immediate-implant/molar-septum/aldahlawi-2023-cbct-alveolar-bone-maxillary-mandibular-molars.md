@@ -45,7 +45,7 @@ Significant fraction of maxillary molar sites with septum width sufficient for p
 Anatomy-only; single-center; no outcome data.
 
 ## Related Papers
-- [[immediate-implant/ragucci-2020-immediate-implant-molar-extraction-sockets]]
-- [[immediate-implant/pavlovic-2022-interradicular-septum-morphology-molar-iip]]
-- [[immediate-implant/milenkovic-2022-interradicular-septum-classification-iip]]
-- [[immediate-implant/deporter-2021-cbct-immediate-maxillary-molar-implant]]
+- [[immediate-implant/molar-septum/ragucci-2020-immediate-implant-molar-extraction-sockets]]
+- [[immediate-implant/molar-septum/pavlovic-2022-interradicular-septum-morphology-molar-iip]]
+- [[immediate-implant/molar-septum/milenkovic-2022-interradicular-septum-classification-iip]]
+- [[immediate-implant/molar-septum/deporter-2021-cbct-immediate-maxillary-molar-implant]]

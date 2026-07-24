@@ -51,7 +51,7 @@ ITI Group 2 (Hamilton/Gallucci/Buser/Chen)의 site-specific placement·loading �
 
 ## Related Papers
 - [[immediate-implant/esthetic-soft-tissue/hamilton-2023-type1a-immediate-implant-immediate-loading-esthetic-sr-ma]] — ITI Type 1A consensus follow-up
-- [[immediate-implant/wittneben-2023-immediate-implant-loaded-single-crown-sr]] — ITI Type 1A clinical performance
+- [[immediate-implant/loading-protocol/wittneben-2023-immediate-implant-loaded-single-crown-sr]] — ITI Type 1A clinical performance
 - [[immediate-implant/qian-2024-anterior-maxillary-implants-placement-loading-nma]] — anterior maxillary NMA
 
 ## Sources

@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-The immediate-implant category and the timing-overview need a recent SR+MA that quantifies the survival gap between immediate and delayed placement at the pooled level. This 2023 Salford SR+MA (10 studies, 700 implants) provides the head-to-head pooled risk ratio (RR 0.99, no significant difference) that anchors the "survival is equivalent, the trade-offs live elsewhere" thesis. It reinforces [[overviews/implant-placement-timing-immediate-early-delayed]] and complements the site-specific molar evidence in [[immediate-implant/ragucci-2020-immediate-implant-molar-extraction-sockets]].
+The immediate-implant category and the timing-overview need a recent SR+MA that quantifies the survival gap between immediate and delayed placement at the pooled level. This 2023 Salford SR+MA (10 studies, 700 implants) provides the head-to-head pooled risk ratio (RR 0.99, no significant difference) that anchors the "survival is equivalent, the trade-offs live elsewhere" thesis. It reinforces [[overviews/implant-placement-timing-immediate-early-delayed]] and complements the site-specific molar evidence in [[immediate-implant/molar-septum/ragucci-2020-immediate-implant-molar-extraction-sockets]].
 
 ## Three-line Summary
 
@@ -79,7 +79,7 @@ SR+MA (10 studies, 6 RCT + 4 non-randomised;
 
 - Updates **Chrcanovic et al. (2015)** prior review on placement timing.
 - Cites **Evian et al.** (149 implants, immediate 78.2% vs delayed 81.2% — low survival attributed to periodontal disease) and **Veitz-Keenan & Keenan** (survival 92–100% without periodontitis vs 79–100% with).
-- Within this wiki: complements [[immediate-implant/ragucci-2020-immediate-implant-molar-extraction-sockets]] (site-specific molar socket evidence) and feeds [[overviews/implant-placement-timing-immediate-early-delayed]].
+- Within this wiki: complements [[immediate-implant/molar-septum/ragucci-2020-immediate-implant-molar-extraction-sockets]] (site-specific molar socket evidence) and feeds [[overviews/implant-placement-timing-immediate-early-delayed]].
 
 ## 7. Glossary
 

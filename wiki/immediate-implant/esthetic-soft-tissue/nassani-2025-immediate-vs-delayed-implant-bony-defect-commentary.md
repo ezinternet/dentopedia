@@ -62,6 +62,6 @@ For Korean implant practice: in carefully selected aesthetic-zone cases with ≥
 ## Related Papers
 - Meijer et al. JPeriodontol 2025;96:151-163 (original RCT).
 - [[overviews/immediate-implant-conditions]] — immediate implant conditions synthesis.
-- [[immediate-implant/colak-2023-immediate-implant-periapical-pathology-retrospective]] — periapical pathology + immediate.
-- [[immediate-implant/li-2025-immediate-implant-periodontitis-short-term-retrospective]] — periodontitis + immediate.
-- [[immediate-implant/bouffleur-2026-open-vs-closed-healing-immediate-implant-rct]] — open vs closed healing.
+- [[immediate-implant/infected-socket/colak-2023-immediate-implant-periapical-pathology-retrospective]] — periapical pathology + immediate.
+- [[immediate-implant/infected-socket/li-2025-immediate-implant-periodontitis-short-term-retrospective]] — periodontitis + immediate.
+- [[immediate-implant/esthetic-soft-tissue/bouffleur-2026-open-vs-closed-healing-immediate-implant-rct]] — open vs closed healing.

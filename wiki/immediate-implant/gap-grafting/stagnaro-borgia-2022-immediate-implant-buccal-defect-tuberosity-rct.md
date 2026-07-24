@@ -44,4 +44,4 @@ Prospective RCT; n=24; 1-year follow-up.
 Tuberosity autograft and xenograft equally effective for buccal defect filling at immediate implant sites. Autograft avoids additional surgical site when tuberosity bone available.
 
 ## Related Papers
-- [[immediate-implant/sanz-2017-bone-graft-gap-immediate-implant-rct]] — related
+- [[immediate-implant/gap-grafting/sanz-2017-bone-graft-gap-immediate-implant-rct]] — related

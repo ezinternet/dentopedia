@@ -80,10 +80,10 @@ Immediate implant placement (IIP) puts an implant into a fresh extraction socket
 
 ## Related Papers
 
-- [[immediate-implant/al-amery-2015-cbct-maxillary-incisive-canal-immediate-implants]] — CBCT normative IC dimensions (16.33 mm length), ethnic variation, anterior maxilla.
-- [[immediate-implant/behfarnia-2025-anatomic-immediate-implant-mandibular-posterior]] — SR+MA: 2nd molar closest to IAC (4.65 mm) and most undercut (73%); double-risk site.
-- [[immediate-implant/greenstein-2013-managing-buccal-gap-immediate-implant]] — buccal gap <2 vs ≥2 mm grafting threshold; buccal plate thickness rules.
-- [[immediate-implant/askinekinci-2026-bic-surface-immediate-implant-stability]] — pilot RCT: grafting does not improve primary stability; native BIC drives early ISQ only ungrafted.
-- [[immediate-implant/pannuti-2026-loading-timing-edentulous-maxilla-pro]] — SR: non-standardized PROM/CROM limits maxillary loading-timing outcome comparison.
+- [[immediate-implant/anatomic-assessment/al-amery-2015-cbct-maxillary-incisive-canal-immediate-implants]] — CBCT normative IC dimensions (16.33 mm length), ethnic variation, anterior maxilla.
+- [[immediate-implant/anatomic-assessment/behfarnia-2025-anatomic-immediate-implant-mandibular-posterior]] — SR+MA: 2nd molar closest to IAC (4.65 mm) and most undercut (73%); double-risk site.
+- [[immediate-implant/gap-grafting/greenstein-2013-managing-buccal-gap-immediate-implant]] — buccal gap <2 vs ≥2 mm grafting threshold; buccal plate thickness rules.
+- [[immediate-implant/primary-stability/askinekinci-2026-bic-surface-immediate-implant-stability]] — pilot RCT: grafting does not improve primary stability; native BIC drives early ISQ only ungrafted.
+- [[immediate-implant/loading-protocol/pannuti-2026-loading-timing-edentulous-maxilla-pro]] — SR: non-standardized PROM/CROM limits maxillary loading-timing outcome comparison.
 - [[overviews/immediate-implant-conditions]] — companion: immediate-implant feasibility conditions, failure risk, esthetic outcome matrix.
 - [[overviews/maxillary-molar-palatal-root-socket-iip]] — related anatomic anchorage synthesis (maxillary molar palatal root socket).

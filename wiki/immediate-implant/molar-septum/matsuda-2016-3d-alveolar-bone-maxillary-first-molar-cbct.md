@@ -79,7 +79,7 @@ Stated prerequisites: ~5 mm residual apical bone height and, for a 4 mm implant,
 
 ## Related Papers
 
-- [[immediate-implant/deporter-2021-cbct-immediate-maxillary-molar-implant]] — reinforces: CBCT-based residual-bone assessment for maxillary molar IIP; Matsuda supplies the per-root/palatal-root and plate-thickness dimensions behind that planning.
-- [[immediate-implant/milenkovic-2022-interradicular-septum-classification-iip]] — extends: inter-radicular septum classification for IIP anchorage; Matsuda quantifies socket width and inter-root distances that determine septum-based stability.
-- [[immediate-implant/liu-2024-maxillary-immediate-molar-palatal-root-socket]] — reinforces: the deepest/densest palatal root socket as anchorage target; Matsuda's −2.2 mm palatal-apex intrusion underpins that rationale.
+- [[immediate-implant/molar-septum/deporter-2021-cbct-immediate-maxillary-molar-implant]] — reinforces: CBCT-based residual-bone assessment for maxillary molar IIP; Matsuda supplies the per-root/palatal-root and plate-thickness dimensions behind that planning.
+- [[immediate-implant/molar-septum/milenkovic-2022-interradicular-septum-classification-iip]] — extends: inter-radicular septum classification for IIP anchorage; Matsuda quantifies socket width and inter-root distances that determine septum-based stability.
+- [[immediate-implant/molar-septum/liu-2024-maxillary-immediate-molar-palatal-root-socket]] — reinforces: the deepest/densest palatal root socket as anchorage target; Matsuda's −2.2 mm palatal-apex intrusion underpins that rationale.
 - [[immediate-implant/liu-2019-immediate-implant-transalveolar-sinus-elevation]] — relates: transalveolar sinus elevation at immediate maxillary molar sites, addressing the marginal-height "intermediate" cases Matsuda flags.

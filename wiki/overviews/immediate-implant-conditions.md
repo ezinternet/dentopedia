@@ -134,9 +134,9 @@ LLM-Wiki `immediate-implant/` 24편 합성. SR+MA 4편 · SR 2편 · RCT 4편 ·
 
 | Confidence | 출처 | 결론 |
 |---|---|---|
-| **rct** | [[immediate-implant/sanz-2017-bone-graft-gap-immediate-implant-rct]] | **Gap ≥3mm 이종골 충전 시 협측 흡수 유의 감소** (−0.46 vs −0.84mm) |
-| **rct** | [[immediate-implant/paknejad-2017-flapless-immediate-implant-buccal-gap-rct]] | 무피판 즉시식립 + 이종골 충전 → 6·12개월 협측 흡수 유의 감소 |
-| **rct** | [[immediate-implant/stagnaro-borgia-2022-immediate-implant-buccal-defect-tuberosity-rct]] | 결절 자가골 vs 이종골 — 동등 (협측 0.61 vs 0.58mm) |
+| **rct** | [[immediate-implant/gap-grafting/sanz-2017-bone-graft-gap-immediate-implant-rct]] | **Gap ≥3mm 이종골 충전 시 협측 흡수 유의 감소** (−0.46 vs −0.84mm) |
+| **rct** | [[immediate-implant/gap-grafting/paknejad-2017-flapless-immediate-implant-buccal-gap-rct]] | 무피판 즉시식립 + 이종골 충전 → 6·12개월 협측 흡수 유의 감소 |
+| **rct** | [[immediate-implant/gap-grafting/stagnaro-borgia-2022-immediate-implant-buccal-defect-tuberosity-rct]] | 결절 자가골 vs 이종골 — 동등 (협측 0.61 vs 0.58mm) |
 | **sr+ma** | [[immediate-implant/esthetic-soft-tissue/rondone-2024-tissue-grafts-immediate-implant-sr-ma]] | 경조직+연조직 복합 이식 = 최고 심미 결과 (PES) |
 
 [확인] **Gap ≥2mm = 이종골/자가골 충전 표준.** 자가골 vs 이종골은 동등.
@@ -147,7 +147,7 @@ LLM-Wiki `immediate-implant/` 24편 합성. SR+MA 4편 · SR 2편 · RCT 4편 ·
 |---|---|---|
 | **sr+ma** | [[immediate-implant/esthetic-soft-tissue/pitman-2022-immediate-implant-provisionalization-sr-ma]] | 임시치관 vs 비장착: **생존 동등, 임시치관군 연조직 안정성 유리** |
 | **prospective(n=35, 1yr)** | [[immediate-implant/esthetic-soft-tissue/kan-2003-immediate-placement-provisionalization-anterior]] | 상악 전치 즉시 임시치관: 100% 생존, MBL −0.26mm, 퇴축 −0.55mm, 환자 만족 100% |
-| **sr** | [[immediate-implant/wittneben-2023-immediate-implant-loaded-single-crown-sr]] | 5년 생존 97.1%, MBL −0.32mm, PES 7.2 |
+| **sr** | [[immediate-implant/loading-protocol/wittneben-2023-immediate-implant-loaded-single-crown-sr]] | 5년 생존 97.1%, MBL −0.32mm, PES 7.2 |
 | **sr+ma** | [[immediate-implant/esthetic-soft-tissue/gaddale-2024-immediate-implant-loading-esthetic-tissue-sr-ma]] | 심미부 즉시식립+즉시부하: 생존 95.1–98.9%, 1년 MBL −0.30mm |
 
 [확인] **즉시 임시치관은 심미부에서 적극 권장.** 단, 비기능부하 (no occlusal contact) 원칙.
@@ -179,7 +179,7 @@ LLM-Wiki `immediate-implant/` 24편 합성. SR+MA 4편 · SR 2편 · RCT 4편 ·
 | Confidence | 출처 | 결론 |
 |---|---|---|
 | **retrospective** | [[implants/isq/bavetta-2019-insertion-torque-isq-immediate-loading-extraction-socket]] | **발치와 ISQ 57.6 vs 치유골 72.9** (p<0.001); 4개월에 수렴; ITV ≥35 Ncm가 1차 기준 |
-| **sr** | [[immediate-implant/wittneben-2023-immediate-implant-loaded-single-crown-sr]] | 즉시부하: **ISQ ≥70 + IT ≥35 Ncm 동시 충족** 권장 |
+| **sr** | [[immediate-implant/loading-protocol/wittneben-2023-immediate-implant-loaded-single-crown-sr]] | 즉시부하: **ISQ ≥70 + IT ≥35 Ncm 동시 충족** 권장 |
 
 [확인] **즉시식립 부하 결정: IT 우선, ISQ 보조.** ISQ <70이라도 IT ≥35 Ncm면 즉시부하 후보.
 
@@ -189,7 +189,7 @@ LLM-Wiki `immediate-implant/` 24편 합성. SR+MA 4편 · SR 2편 · RCT 4편 ·
 
 | Confidence | 출처 | 결론 |
 |---|---|---|
-| **case-report** | [[immediate-implant/kim-2016-immediately-placed-implant-without-primary]] | 1차 안정성 없이도 생물학적 요소 (골밀도·피질골·치유잠재력) 보상 가능; **6개월 이상 지연부하 + 변형 수술 protocol 필요** |
+| **case-report** | [[immediate-implant/primary-stability/kim-2016-immediately-placed-implant-without-primary]] | 1차 안정성 없이도 생물학적 요소 (골밀도·피질골·치유잠재력) 보상 가능; **6개월 이상 지연부하 + 변형 수술 protocol 필요** |
 
 [미검증] 예외적 케이스에 한정. 표준은 IT ≥25 Ncm 미달이면 type-2로 전환.
 

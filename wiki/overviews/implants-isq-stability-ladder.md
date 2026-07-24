@@ -172,8 +172,8 @@ ISQ와 삽입토크(IT)는 보완 지표(상관 r=0.44, I²>90%, Tisci 2026 SR+M
 - [[implants/isq/shokri-2013-primary-secondary-stability-rfa-mandible]] — 전향(하악 SLA): ISQ 4주 nadir → 회복; 4주 이전 부하 불리 가능 (stability dip 직접 관찰).
 
 **부하 protocol 연계 (immediate-implant cluster)**
-- [[immediate-implant/witoonkitvanich-2025-immediate-implant-stability-maxilla-mandible]] — 즉시 대구치 상·하악 ISQ: 상악만 2–4주 dip, 24주 하악>상악(81.5 vs 78.2) — 상악 구치 부하 보수적.
-- [[immediate-implant/vandenbogaerde-2016-two-surfaces-fresh-sockets-immediately-loaded]] — split-mouth RCT: 친수성 proactive 표면이 즉시부하 발치와에서 12주 ISQ 유의 우수(+3.5 vs −0.3).
+- [[immediate-implant/primary-stability/witoonkitvanich-2025-immediate-implant-stability-maxilla-mandible]] — 즉시 대구치 상·하악 ISQ: 상악만 2–4주 dip, 24주 하악>상악(81.5 vs 78.2) — 상악 구치 부하 보수적.
+- [[immediate-implant/primary-stability/vandenbogaerde-2016-two-surfaces-fresh-sockets-immediately-loaded]] — split-mouth RCT: 친수성 proactive 표면이 즉시부하 발치와에서 12주 ISQ 유의 우수(+3.5 vs −0.3).
 
 ## Related Papers (added 2026-06-19)
 
@@ -206,7 +206,7 @@ ISQ와 삽입토크(IT)는 보완 지표(상관 r=0.44, I²>90%, Tisci 2026 SR+M
 - [[implants/isq/vilchez-2025-sla-slactive-split-mouth-rct]] — SLActive vs SLA (동일 Bone Level Tapered Roxolid) split-mouth RCT (n=68, 136개): ISQ 72.3–73.0 at placement, 75.5–75.9 at 8w, MBL loading→12mo 0.04 vs 0.07 mm — 모두 비유의. **표면 화학은 macrodesign이 통제되면 ISQ·MBL에 독립적 영향 없음**
 
 **Site prep technique × ISQ (molar IIP)**
-- [[immediate-implant/atieh-2025-pre-extractive-vs-postextractive-immediate-molar]] — 하악 대구치 즉시식립 SR+MA (4 RCT, 82개): 발치 전 식립와 형성(pre-extractive technique)이 식립 직후 ISQ +3.39 (p<.0001, I²=0%), 중심위치 달성 RR 0.05 (p=.002); 3–6개월 ISQ 차이 소실 → **초기 ISQ 이득은 술식 기술 변수(발치 전 가이드 드릴)로 조절 가능**
+- [[immediate-implant/molar-septum/atieh-2025-pre-extractive-vs-postextractive-immediate-molar]] — 하악 대구치 즉시식립 SR+MA (4 RCT, 82개): 발치 전 식립와 형성(pre-extractive technique)이 식립 직후 ISQ +3.39 (p<.0001, I²=0%), 중심위치 달성 RR 0.05 (p=.002); 3–6개월 ISQ 차이 소실 → **초기 ISQ 이득은 술식 기술 변수(발치 전 가이드 드릴)로 조절 가능**
 
 **OD technique head-to-head × ISQ — esthetic zone (Ali 2026, split-mouth RCT, n=7, maxillary anterior)**
 - [[implants/versah-protocols/ali-2026-osseodensification-techniques-implant-stability-maxilla]] — First direct comparison of Densah bur (DB) vs Magnetic Mallet (MM) osseodensification in the maxillary anterior esthetic zone: **primary ISQ 70.1 (DB) vs 49.0 (MM)** (p<0.001); secondary ISQ at 6 months 74.7 vs 59.8 (p=0.003). DB achieved ≥70 ISQ (early loading threshold) at placement; MM did not. Labial plate thickness significantly greater in DB (1.85 vs 1.17 mm immediately; 1.68 vs 0.98 mm at 6mo, p=0.002). Bone density and crestal width equivalent at 6 months (both NS). MM had 2 intraoperative complications (labial plate fracture + palatal crack) in thin-ridge anterior sites — steep learning curve. [rct, n=7 — preliminary but only head-to-head data]

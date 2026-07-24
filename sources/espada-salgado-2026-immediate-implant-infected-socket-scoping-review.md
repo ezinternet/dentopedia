@@ -14,7 +14,7 @@ text_filename: espada-salgado-2026-immediate-implant-infected-socket-scoping-rev
 
 ## Why Ingested
 
-기존 [[immediate-implant/pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma]] (SR+MA, 6개 대조군 연구만 최종 포함)와 [[immediate-implant/munoz-camara-2020-immediate-implants-acute-periapical-infected]]가 "철저한 소파+항생제 동반 시 감염 부위 즉시식립이 안전"이라는 낙관적 결론을 내린 데 비해, 본 스코핑 리뷰는 같은 저널(Medicina Oral)에서 2015–2025년 24편(케이스 리포트~RCT 혼재)을 매핑해 "표준화된 프로토콜을 권고할 근거는 아직 없다"는 더 신중한 결론을 낸다 — 기존 두 페이지의 낙관적 톤에 대한 근거 수준 관점의 보정추가.
+기존 [[immediate-implant/infected-socket/pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma]] (SR+MA, 6개 대조군 연구만 최종 포함)와 [[immediate-implant/infected-socket/munoz-camara-2020-immediate-implants-acute-periapical-infected]]가 "철저한 소파+항생제 동반 시 감염 부위 즉시식립이 안전"이라는 낙관적 결론을 내린 데 비해, 본 스코핑 리뷰는 같은 저널(Medicina Oral)에서 2015–2025년 24편(케이스 리포트~RCT 혼재)을 매핑해 "표준화된 프로토콜을 권고할 근거는 아직 없다"는 더 신중한 결론을 낸다 — 기존 두 페이지의 낙관적 톤에 대한 근거 수준 관점의 보정추가.
 
 ## Three-line Summary
 
@@ -72,9 +72,9 @@ Evidence is feasible-suggestive but heterogeneous and largely non-comparative �
 
 ## 6. Related Work
 
-- [[immediate-implant/pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma]] — SR+MA reaching a more quantitatively confident (but narrower, 6-study) conclusion of survival equivalence
-- [[immediate-implant/munoz-camara-2020-immediate-implants-acute-periapical-infected]] — one of the primary-study data points this scoping review's evidence base draws on
-- [[immediate-implant/colak-2023-immediate-implant-periapical-pathology-retrospective]] — retrospective cohort within the 2015–2025 window this review maps
+- [[immediate-implant/infected-socket/pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma]] — SR+MA reaching a more quantitatively confident (but narrower, 6-study) conclusion of survival equivalence
+- [[immediate-implant/infected-socket/munoz-camara-2020-immediate-implants-acute-periapical-infected]] — one of the primary-study data points this scoping review's evidence base draws on
+- [[immediate-implant/infected-socket/colak-2023-immediate-implant-periapical-pathology-retrospective]] — retrospective cohort within the 2015–2025 window this review maps
 
 ## 7. Glossary
 

@@ -172,4 +172,4 @@ Tooth extraction candidate
 **Clinical Opinion/Case-Based Series** — Establishes feasibility and timing benefits; lacks prospective randomized comparison with delayed placement for outcome equivalence
 
 ---
-**Related**: [[immediate-implant/kim-2016-immediately-placed-implant-without-primary]] | [[implants/isq/oh-2008-comparison-of-initial-implant-stability]]
+**Related**: [[immediate-implant/primary-stability/kim-2016-immediately-placed-implant-without-primary]] | [[implants/isq/oh-2008-comparison-of-initial-implant-stability]]

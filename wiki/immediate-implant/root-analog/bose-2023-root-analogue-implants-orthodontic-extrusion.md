@@ -69,6 +69,6 @@ Both groups achieved 100% survival over their observation periods (RAI 18.4±5.7
 
 ## Related Papers
 
-- [[immediate-implant/alqutaibi-2026-root-analog-dental-implants]] — the 28-study RAI systematic review that names this paper as its sole retrospective comparative study and only non-implant-vs-implant comparator; this page supplies the SR's one head-to-head data point against a non-implant alternative (FOE).
+- [[immediate-implant/root-analog/alqutaibi-2026-root-analog-dental-implants]] — the 28-study RAI systematic review that names this paper as its sole retrospective comparative study and only non-implant-vs-implant comparator; this page supplies the SR's one head-to-head data point against a non-implant alternative (FOE).
 - [[immediate-implant/lee-2021-immediate-implant-placement-in-fresh]] — general immediate (Type 1) implant placement paradigm that RAIs belong to; this study's FOE arm represents the deliberate alternative to immediate implant placement in cases where root preservation is feasible.
-- [[immediate-implant/smith-2013-classification-molar-extraction-immediate-implant]] — extraction-socket classification context relevant to why RAIs (and, by extension, FOE-preserved roots) are proposed as solutions to the socket-implant geometric mismatch problem.
+- [[immediate-implant/molar-septum/smith-2013-classification-molar-extraction-immediate-implant]] — extraction-socket classification context relevant to why RAIs (and, by extension, FOE-preserved roots) are proposed as solutions to the socket-implant geometric mismatch problem.

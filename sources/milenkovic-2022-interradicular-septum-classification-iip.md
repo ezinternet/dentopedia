@@ -45,8 +45,8 @@ Defines shape categories and quantifies their prevalence; identifies categories 
 Anatomy-only; classification not validated against outcome data within this paper.
 
 ## 6. Related Work
-- [[immediate-implant/pavlovic-2022-interradicular-septum-morphology-molar-iip]]
-- [[immediate-implant/smith-2013-classification-molar-extraction-immediate-implant]]
+- [[immediate-implant/molar-septum/pavlovic-2022-interradicular-septum-morphology-molar-iip]]
+- [[immediate-implant/molar-septum/smith-2013-classification-molar-extraction-immediate-implant]]
 - [[immediate-implant/deporter-2021-cbct-immediate-maxillary-molar-implant-planning]]
 
 ## 7. Glossary

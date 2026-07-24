@@ -59,7 +59,7 @@ Ananda 2015는 말레이시아 단일 센터에서 동아시아인 (말레이 30
 **임상적 함의**: 7 mm 초과 임플란트는 sinus lift 또는 OD 없이는 상악동 perforation 위험. 발치 시에도 OAC 가능성 — 술전 CBCT가 사실상 mandatory.
 
 ## Related Papers
-- [[immediate-implant/deporter-2021-cbct-immediate-maxillary-molar-implant]] — same anatomical region, decision tree for immediate molar implant
+- [[immediate-implant/molar-septum/deporter-2021-cbct-immediate-maxillary-molar-implant]] — same anatomical region, decision tree for immediate molar implant
 - [[sinus-lift/lateral/manor-2024-cbct-prognostic-factors-sinus-perforation]] — CBCT predictors of SM perforation, complements anatomic risk profile
 - [[implants/padhye-2020-quantitative-edentulous-posterior-maxilla]] — quantitative posterior maxilla bone in edentulous sites
 - [[sinus-lift/lateral/schriber-2019-pneumatisation-maxillary-sinus-tooth-loss]] — pneumatization progression after tooth loss

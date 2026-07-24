@@ -57,5 +57,5 @@ Case selection is non-negotiable. Thin or fenestrated buccal plates, active peri
 - [[immediate-implant/esthetic-soft-tissue/buser-2017-implant-placement-timing-post-extraction-esthetic]] — ITI Type I–IV timing framework.
 - [[immediate-implant/esthetic-soft-tissue/chen-2009-clinical-esthetic-outcomes-implants-postextraction]] — ITI 4th Consensus, thin biotype + facial malposition + thin wall = key risks.
 - [[immediate-implant/esthetic-soft-tissue/kan-2003-immediate-placement-provisionalization-anterior]] — landmark prospective on immediate provisionalization.
-- [[immediate-implant/wittneben-2023-immediate-implant-loaded-single-crown-sr]] — recent SR on immediate placement + immediate loading.
+- [[immediate-implant/loading-protocol/wittneben-2023-immediate-implant-loaded-single-crown-sr]] — recent SR on immediate placement + immediate loading.
 - [[immediate-implant/socket-shield/ogawa-2022-socket-shield-technique-systematic-review]] — socket-shield SR.

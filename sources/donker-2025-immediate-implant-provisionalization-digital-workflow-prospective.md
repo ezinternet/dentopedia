@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-IOS + CBCT 기반 3차원 보철주도 계획 + static CAIS + 사전제작 임시보철을 통합한 **완전 디지털 워크플로우**로 심미부 즉시식립·즉시 임시수복을 수행한 1년 전향 결과. 동일 Groningen 그룹의 [[immediate-implant/esthetic-soft-tissue/staas-2026-fiipp-palatal-position-cbct-3year]]·[[immediate-implant/meijer-2024-immediate-implant-bony-defect-10year-rct]]와 디지털 적용으로 연결된다.
+IOS + CBCT 기반 3차원 보철주도 계획 + static CAIS + 사전제작 임시보철을 통합한 **완전 디지털 워크플로우**로 심미부 즉시식립·즉시 임시수복을 수행한 1년 전향 결과. 동일 Groningen 그룹의 [[immediate-implant/esthetic-soft-tissue/staas-2026-fiipp-palatal-position-cbct-3year]]·[[immediate-implant/gap-grafting/meijer-2024-immediate-implant-bony-defect-10year-rct]]와 디지털 적용으로 연결된다.
 
 ## Three-line Summary
 

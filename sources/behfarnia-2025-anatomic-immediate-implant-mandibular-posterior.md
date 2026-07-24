@@ -15,7 +15,7 @@ text_filename: behfarnia-2025-anatomic-immediate-implant-mandibular-posterior.tx
 
 ## Why Ingested
 
-기존 [[immediate-implant/aldahlawi-2023-cbct-alveolar-bone-maxillary-mandibular-molars]]가 단일 CBCT 연구로 하악 구치부 골 해부를 다뤘다면, 본 논문은 12편·1,834명을 pooled한 SR+MA로 하악 구치부 즉시식립(Immediate Implant Placement, IIP)의 해부학적 안전 한계를 정량화한다. 근 (Inferior Alveolar Canal, IAC) 이격거리와 설측판 천공 (Lingual Plate Perforation, LPP) 위험을 부위별(2PM/1M/2M)로 수치화해 [[immediate-implant/pavlovic-2022-interradicular-septum-morphology-molar-iip]]의 치근간중격 1차 안정성 논의를 해부학적 위험 측면에서 보강한다.
+기존 [[immediate-implant/molar-septum/aldahlawi-2023-cbct-alveolar-bone-maxillary-mandibular-molars]]가 단일 CBCT 연구로 하악 구치부 골 해부를 다뤘다면, 본 논문은 12편·1,834명을 pooled한 SR+MA로 하악 구치부 즉시식립(Immediate Implant Placement, IIP)의 해부학적 안전 한계를 정량화한다. 근 (Inferior Alveolar Canal, IAC) 이격거리와 설측판 천공 (Lingual Plate Perforation, LPP) 위험을 부위별(2PM/1M/2M)로 수치화해 [[immediate-implant/molar-septum/pavlovic-2022-interradicular-septum-morphology-molar-iip]]의 치근간중격 1차 안정성 논의를 해부학적 위험 측면에서 보강한다.
 
 ## Three-line Summary
 

@@ -44,4 +44,4 @@ No significant differences in failure rates or main esthetic/clinical outcomes b
 
 ## Related Papers
 - [[immediate-implant/esthetic-soft-tissue/nassani-2025-immediate-vs-delayed-implant-bony-defect-commentary]]
-- [[immediate-implant/ragucci-2020-immediate-implant-molar-extraction-sockets]]
+- [[immediate-implant/molar-septum/ragucci-2020-immediate-implant-molar-extraction-sockets]]

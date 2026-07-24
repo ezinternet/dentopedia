@@ -71,7 +71,7 @@ The clinical translation is twofold: (1) **low mechanical strain** favors osseoi
 
 ## Related Papers
 
-- [[immediate-implant/liu-2024-maxillary-immediate-molar-palatal-root-socket]] — reinforces: provides the clinical/anatomic rationale for placing maxillary-molar immediate implants into the palatal root socket; this study supplies the strain + PDL-Wnt biomechanical/biological mechanism for why that site osseointegrates.
+- [[immediate-implant/molar-septum/liu-2024-maxillary-immediate-molar-palatal-root-socket]] — reinforces: provides the clinical/anatomic rationale for placing maxillary-molar immediate implants into the palatal root socket; this study supplies the strain + PDL-Wnt biomechanical/biological mechanism for why that site osseointegrates.
 - [[immediate-implant/araujo-2019-socket-healing-immediate-implant-review]] — extends: adds a molecular (Wnt-responsive PDL cell) and FE-strain layer to the socket-healing/immediate-implant overview.
 - [[immediate-implant/araujo-2005-ridge-alterations-immediate-implant-dog]] — related: dog model showing immediate implants do not prevent buccal ridge resorption; complements the strain-driven peri-implant bone loss seen here.
 - [[immediate-implant/araujo-2006-tissue-modeling-implant-extraction-sockets]] — related: socket tissue modeling/remodeling around immediate implants.

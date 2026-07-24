@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-The immediate-molar implant pages we hold establish that fresh molar sockets can achieve good primary stability, but few directly contrast arch (maxilla vs mandible) ISQ trajectories under a controlled protocol. This 2025 prospective trial (computer-guided, tooth-supported guide, n=30) quantifies the maxilla-vs-mandible ISQ gap over 24 weeks and shows the stability dip is arch-dependent — extending [[immediate-implant/ragucci-2020-immediate-implant-molar-extraction-sockets]] (immediate molar feasibility) and reinforcing the ISQ-trajectory evidence in [[implants/isq/bavetta-2019-insertion-torque-isq-immediate-loading-extraction-socket]] for the immediate-loading decision in fresh sockets.
+The immediate-molar implant pages we hold establish that fresh molar sockets can achieve good primary stability, but few directly contrast arch (maxilla vs mandible) ISQ trajectories under a controlled protocol. This 2025 prospective trial (computer-guided, tooth-supported guide, n=30) quantifies the maxilla-vs-mandible ISQ gap over 24 weeks and shows the stability dip is arch-dependent — extending [[immediate-implant/molar-septum/ragucci-2020-immediate-implant-molar-extraction-sockets]] (immediate molar feasibility) and reinforcing the ISQ-trajectory evidence in [[implants/isq/bavetta-2019-insertion-torque-isq-immediate-loading-extraction-socket]] for the immediate-loading decision in fresh sockets.
 
 ## Three-line Summary
 

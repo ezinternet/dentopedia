@@ -69,7 +69,7 @@ This SR+MA isolates a question the prior NDI literature left tangled: for narrow
 - [[implants/pachiou-2025-narrow-diameter-implants-fixed-posterior]] — extends (same group; posterior *region* axis → loading-timing axis for fixed NDIs)
 - [[implants/liu-2021-immediate-delayed-loading-overdenture-mbl-sr-ma]] — reinforces (immediate vs delayed loading, extended from overdentures to fixed NDI restorations)
 - [[implants/cao-2023-titanium-zirconium-narrow-diameter-single-crown]] — applies-to (TiZr NDI single-crown survival now viewed through loading protocol)
-- [[immediate-implant/gjelvold-2021-immediate-delayed-loading-single-tooth-5year-rct]] — loading-timing evidence for single-tooth implants
+- [[immediate-implant/loading-protocol/gjelvold-2021-immediate-delayed-loading-single-tooth-5year-rct]] — loading-timing evidence for single-tooth implants
 - [[implants/coskunses-2021-narrow-diameter-implants-full-arch-fixed]] — NDI full-arch fixed context
 - [[overviews/narrow-diameter-implants-clinical-outcomes-overview]] — NDI outcomes synthesis
 - [[overviews/implant-loading-protocol-prosthesis-type-overview]] — loading-protocol × prosthesis-type synthesis

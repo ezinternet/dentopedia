@@ -47,4 +47,4 @@ Single-arm (no comparator); industry-related implant design; short-to-mid-term f
 ## Related Papers
 - [[immediate-implant/chu-2020-itrt-platform-switched-subcrestal-angle-correction]]
 - [[immediate-implant/esthetic-soft-tissue/galve-huertas-2024-inverted-body-shift-design-pilot]]
-- [[immediate-implant/galve-huertas-2026-inverted-body-shift-vs-conical-rct]]
+- [[immediate-implant/primary-stability/galve-huertas-2026-inverted-body-shift-vs-conical-rct]]

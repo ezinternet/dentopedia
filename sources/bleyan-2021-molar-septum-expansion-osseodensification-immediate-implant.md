@@ -67,7 +67,7 @@ Retrospective multicenter chart review across five centers. Inclusion criterion:
 ## 6. Related Work
 - [[implants/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — origin of OD technique.
 - [[implants/koutouzis-2019-alveolar-ridge-expansion-osseodensification-multicenter-retrospective]] — OD-mediated ridge expansion (analogous mechanism applied to molar septa here).
-- [[immediate-implant/darosa-2019-immediate-dentoalveolar-restoration-osseodensification-periodontal]] — IDR + OD case report in compromised sockets.
+- [[immediate-implant/gap-grafting/darosa-2019-immediate-dentoalveolar-restoration-osseodensification-periodontal]] — IDR + OD case report in compromised sockets.
 - [[implants/mello-machado-2021-osseodensification-low-quality-bone-rct]] — RCT in low-density bone.
 - [[implants/fontes-pereira-2023-osseodensification-alternative-conventional-osteotomy-sr]] — SR including this paper.
 

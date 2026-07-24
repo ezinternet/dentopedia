@@ -65,5 +65,5 @@ Systematic review with quantitative pooling of prospective (largely non-comparat
 
 ## Related Papers
 - [[immediate-implant/esposito-2010-fresh-extraction-sockets-immediate-cochrane]] — this review extends Esposito's RCT-restricted (7-RCT) Cochrane comparison of placement timing to a much larger prospective-cohort evidence base (46 studies) specific to immediate placement, yielding a more precise quantitative survival estimate while reinforcing the same core conclusion that "success" evidence remains weaker than survival evidence
-- [[immediate-implant/ragucci-2020-immediate-implant-molar-extraction-sockets]] — later SR+MA (molar-specific) reporting comparable ~97–98% pooled survival, consistent with this review's 98.4% 2-year estimate
+- [[immediate-implant/molar-septum/ragucci-2020-immediate-implant-molar-extraction-sockets]] — later SR+MA (molar-specific) reporting comparable ~97–98% pooled survival, consistent with this review's 98.4% 2-year estimate
 - [[immediate-implant/ickroth-2025-immediate-implant-intact-nonintact-sockets]] — later SR refining immediate-implant outcome analysis by socket wall integrity, a factor not analyzed in this 2012 review

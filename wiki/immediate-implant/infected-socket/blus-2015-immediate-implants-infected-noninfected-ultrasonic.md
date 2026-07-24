@@ -69,7 +69,7 @@ All differences NS. No loss after loading.
 
 ## Related Papers
 
-- [[immediate-implant/munoz-camara-2020-immediate-implants-acute-periapical-infected]] — cites this as ref 27; notes Blus group had 43.38% acute vs 56.62% chronic (vs Murcia 100% acute)
-- [[immediate-implant/saijeva-2020-immediate-implant-placement-non-infected-sockets]] — SR+MA including this study
-- [[immediate-implant/chrcanovic-2015-immediate-placement-implants-infected-sites]] — co-published SR reviewing this evidence base
-- [[immediate-implant/pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma]] — 2024 SR+MA most comprehensive update
+- [[immediate-implant/infected-socket/munoz-camara-2020-immediate-implants-acute-periapical-infected]] — cites this as ref 27; notes Blus group had 43.38% acute vs 56.62% chronic (vs Murcia 100% acute)
+- [[immediate-implant/infected-socket/saijeva-2020-immediate-implant-placement-non-infected-sockets]] — SR+MA including this study
+- [[immediate-implant/infected-socket/chrcanovic-2015-immediate-placement-implants-infected-sites]] — co-published SR reviewing this evidence base
+- [[immediate-implant/infected-socket/pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma]] — 2024 SR+MA most comprehensive update

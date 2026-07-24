@@ -70,7 +70,7 @@ Using tapered SLA implants (6–10 mm preferred length), atraumatic flapless ext
 
 ## Related Papers
 
-- [[immediate-implant/smith-2013-classification-molar-extraction-immediate-implant]] — extends: takes the molar extraction-socket classification idea and adds the maxilla-specific **vertical ABH/sinus axis** absent from purely lateral septum schemes.
-- [[immediate-implant/deporter-2021-cbct-immediate-maxillary-molar-implant]] — reinforces: CBCT-based septum/sinus anatomy assessment for maxillary-molar immediate implants operationalizes the same ABH + septum planning this guideline formalizes.
-- [[immediate-implant/ragucci-2020-immediate-implant-molar-extraction-sockets]] — supports: systematic-review survival evidence for immediate molar implants into which this single-center 93.10% result fits.
-- [[immediate-implant/atieh-2025-pre-extractive-vs-postextractive-immediate-molar]] — related: contrasts pre- vs post-extractive immediate molar workflows; this paper's flapless atraumatic + septum-preservation technique is the post-extractive engagement strategy.
+- [[immediate-implant/molar-septum/smith-2013-classification-molar-extraction-immediate-implant]] — extends: takes the molar extraction-socket classification idea and adds the maxilla-specific **vertical ABH/sinus axis** absent from purely lateral septum schemes.
+- [[immediate-implant/molar-septum/deporter-2021-cbct-immediate-maxillary-molar-implant]] — reinforces: CBCT-based septum/sinus anatomy assessment for maxillary-molar immediate implants operationalizes the same ABH + septum planning this guideline formalizes.
+- [[immediate-implant/molar-septum/ragucci-2020-immediate-implant-molar-extraction-sockets]] — supports: systematic-review survival evidence for immediate molar implants into which this single-center 93.10% result fits.
+- [[immediate-implant/molar-septum/atieh-2025-pre-extractive-vs-postextractive-immediate-molar]] — related: contrasts pre- vs post-extractive immediate molar workflows; this paper's flapless atraumatic + septum-preservation technique is the post-extractive engagement strategy.

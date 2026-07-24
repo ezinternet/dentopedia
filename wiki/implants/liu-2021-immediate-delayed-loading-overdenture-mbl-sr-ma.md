@@ -53,6 +53,6 @@ This SR+MA compared marginal bone loss between immediate and delayed loading of 
 
 ## Related Papers
 
-- [[immediate-implant/esposito-2015-immediate-loading-vs-delayed-anterior-rct]] — immediate vs delayed loading evidence in single anterior implants
+- [[immediate-implant/loading-protocol/esposito-2015-immediate-loading-vs-delayed-anterior-rct]] — immediate vs delayed loading evidence in single anterior implants
 - [[implants/abdunabi-2019-immediately-loaded-maxillary-full-arch-sr]] — immediate loading in the edentulous maxilla (full-arch fixed)
 - [[implants/benic-2014-loading-protocols-single-implant-crowns-sr-ma]] — loading protocols for single-implant crowns

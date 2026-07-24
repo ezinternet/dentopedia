@@ -15,7 +15,7 @@ text_filename: han-2025-immediate-implant-maxillary-esthetic-dual-thread.txt
 
 ## Why Ingested
 
-기존 [[immediate-implant/esthetic-soft-tissue/samet-2023-immediate-placement-loading-esthetic-zone]]와 [[immediate-implant/esthetic-soft-tissue/hamilton-2023-type1a-immediate-implant-immediate-loading-esthetic-sr-ma]]는 즉시식립·심미의 일반 프로토콜과 SR/MA 근거를 다루지만, 특정 임플란트 매크로디자인(thread 형상·connection 각도)이 1년 연조직·골 결과에 어떻게 기여하는지 단일군 전향 데이터로 보여주는 페이지가 없었다. 본 prospective study (Han 2025, n=20)는 dual-thread(상부 U자 + 하부 V자) + 11° internal hex 디자인의 IU implant를 maxillary esthetic zone IIP에 적용해 ISQ·HW·CBCT·MBL·midfacial recession을 V8(1년)까지 추적한 macrodesign-specific 근거로, [[immediate-implant/stanley-2020-five-thread-guideline-predicting-primary]]의 thread 기반 1차 안정성 framework를 임상으로 확장한다.
+기존 [[immediate-implant/esthetic-soft-tissue/samet-2023-immediate-placement-loading-esthetic-zone]]와 [[immediate-implant/esthetic-soft-tissue/hamilton-2023-type1a-immediate-implant-immediate-loading-esthetic-sr-ma]]는 즉시식립·심미의 일반 프로토콜과 SR/MA 근거를 다루지만, 특정 임플란트 매크로디자인(thread 형상·connection 각도)이 1년 연조직·골 결과에 어떻게 기여하는지 단일군 전향 데이터로 보여주는 페이지가 없었다. 본 prospective study (Han 2025, n=20)는 dual-thread(상부 U자 + 하부 V자) + 11° internal hex 디자인의 IU implant를 maxillary esthetic zone IIP에 적용해 ISQ·HW·CBCT·MBL·midfacial recession을 V8(1년)까지 추적한 macrodesign-specific 근거로, [[immediate-implant/primary-stability/stanley-2020-five-thread-guideline-predicting-primary]]의 thread 기반 1차 안정성 framework를 임상으로 확장한다.
 
 ## Three-line Summary
 

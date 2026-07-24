@@ -58,7 +58,7 @@ This large RCT-based meta-analysis (20 trials, 848 patients, 916 sites) evaluate
 
 ## Related Papers
 
-- [[immediate-implant/sanz-2017-bone-graft-gap-immediate-implant-rct]] — reinforces: gap grafting preserves buccal contour
-- [[immediate-implant/seyssens-2022-immediate-implant-socket-grafting-sr-ma]] — reinforces: socket grafting SR+MA
-- [[immediate-implant/liu-2023-collagen-immediate-implant-soft-hard-tissue-sr-ma]] — extends: adds the collagen variable to BSM grafting
-- [[immediate-implant/elsheikh-2023-prf-xenograft-alloplastic-immediate-implant]] — head-to-head gap-filling materials
+- [[immediate-implant/gap-grafting/sanz-2017-bone-graft-gap-immediate-implant-rct]] — reinforces: gap grafting preserves buccal contour
+- [[immediate-implant/gap-grafting/seyssens-2022-immediate-implant-socket-grafting-sr-ma]] — reinforces: socket grafting SR+MA
+- [[immediate-implant/gap-grafting/liu-2023-collagen-immediate-implant-soft-hard-tissue-sr-ma]] — extends: adds the collagen variable to BSM grafting
+- [[immediate-implant/gap-grafting/elsheikh-2023-prf-xenograft-alloplastic-immediate-implant]] — head-to-head gap-filling materials

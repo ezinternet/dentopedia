@@ -45,5 +45,5 @@ SRP carries a larger effect than arch form alone, but combined model (SRP × arc
 Cross-sectional; single population; arch classification still operator-judged.
 
 ## Related Papers
-- [[immediate-implant/kan-2011-sagittal-root-position-immediate-implant-anterior]]
-- [[immediate-implant/kong-2020-srp-maxillary-anterior-korean-population]]
+- [[immediate-implant/anatomic-assessment/kan-2011-sagittal-root-position-immediate-implant-anterior]]
+- [[immediate-implant/anatomic-assessment/kong-2020-srp-maxillary-anterior-korean-population]]

@@ -69,6 +69,6 @@ MBR ranged 0.2–1.2 mm across all implants at 18 months and did not differ sign
 
 ## Related Papers
 
-- [[immediate-implant/alqutaibi-2026-root-analog-dental-implants]] — this trial is the SR's sole included RCT among 28 studies synthesizing root-analog implant (RAI) evidence; the SR's zirconia-RAI survival (33.3–100%) and MBL (0.71–1.38 mm) ranges are informed in part by this trial's data, and the SR notes zirconia RAI success depends critically on macroretentive design/surface treatment — consistent with this trial's thorn-retention + sandblasting approach.
+- [[immediate-implant/root-analog/alqutaibi-2026-root-analog-dental-implants]] — this trial is the SR's sole included RCT among 28 studies synthesizing root-analog implant (RAI) evidence; the SR's zirconia-RAI survival (33.3–100%) and MBL (0.71–1.38 mm) ranges are informed in part by this trial's data, and the SR notes zirconia RAI success depends critically on macroretentive design/surface treatment — consistent with this trial's thorn-retention + sandblasting approach.
 - [[immediate-implant/lee-2021-immediate-implant-placement-in-fresh]] — general immediate (Type 1) implant placement into fresh extraction sockets; this trial is a custom-fabrication (root-analogue) variant of the same immediate-placement paradigm.
 - [[immediate-implant/thoma-2026-timing-dental-implant-placement-past]] — ITI Type 1–4 placement-timing framework; this RCT targets the Type 1 (immediate) scenario, using a form-fitting implant rather than gap-management to address the socket-implant mismatch.

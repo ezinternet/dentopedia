@@ -63,6 +63,6 @@ Systematic review of prospective interventional/observational studies (RCT, non-
 ## Related Papers
 
 - [[immediate-implant/qian-2024-anterior-maxillary-implants-placement-loading-nma]] — extends; Qian's network meta-analysis weighs placement/loading-timing on clinical outcomes in the anterior maxilla, while this review catalogs the patient/clinician outcome *measures* used (full-arch edentulous maxilla), exposing why such effect comparisons are limited by inconsistent reporting.
-- [[immediate-implant/esposito-2015-immediate-loading-vs-delayed-anterior-rct]] — reinforces; an RCT-level IL-vs-DL comparison whose outcome-measurement choices typify the heterogeneity this SR quantifies.
+- [[immediate-implant/loading-protocol/esposito-2015-immediate-loading-vs-delayed-anterior-rct]] — reinforces; an RCT-level IL-vs-DL comparison whose outcome-measurement choices typify the heterogeneity this SR quantifies.
 - [[immediate-implant/heimes-2025-immediate-implant-full-arch-rehabilitation]] — related full-arch edentulous rehabilitation context for the same patient population.
-- [[immediate-implant/wittneben-2023-immediate-implant-loaded-single-crown-sr]] — related immediate-loading systematic review (single-crown context) for cross-comparison of loading-protocol evidence.
+- [[immediate-implant/loading-protocol/wittneben-2023-immediate-implant-loaded-single-crown-sr]] — related immediate-loading systematic review (single-crown context) for cross-comparison of loading-protocol evidence.

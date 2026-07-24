@@ -15,7 +15,7 @@ source_url: https://pmc.ncbi.nlm.nih.gov/articles/PMC11005000/
 
 ## Why Ingested
 
-치근단 병소 부위의 즉시식립 실험별 결과가 상이하여 종합 근거가 필요했음. 기존 [[immediate-implant/pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma]]와 달리 이 MA는 플라크 지수와 출혈지수를 주요 지표로 하여 임플란트 생존율의 OR을 2.08로 제시 — 감염 부위에서도 즉시식립 성공 예측의 수치적 근거로 활용.
+치근단 병소 부위의 즉시식립 실험별 결과가 상이하여 종합 근거가 필요했음. 기존 [[immediate-implant/infected-socket/pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma]]와 달리 이 MA는 플라크 지수와 출혈지수를 주요 지표로 하여 임플란트 생존율의 OR을 2.08로 제시 — 감염 부위에서도 즉시식립 성공 예측의 수치적 근거로 활용.
 
 ## Three-line Summary
 
@@ -81,8 +81,8 @@ Key individual studies:
 
 ## 6. Related Work
 
-- [[immediate-implant/pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma]] — 2024 SR+MA confirming similar conclusions; explicitly mentions acute purulent exudate as contraindication
-- [[immediate-implant/saijeva-2020-immediate-implant-placement-non-infected-sockets]] — SR+MA with comprehensive clinical parameter analysis
+- [[immediate-implant/infected-socket/pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma]] — 2024 SR+MA confirming similar conclusions; explicitly mentions acute purulent exudate as contraindication
+- [[immediate-implant/infected-socket/saijeva-2020-immediate-implant-placement-non-infected-sockets]] — SR+MA with comprehensive clinical parameter analysis
 
 ## 7. Glossary
 

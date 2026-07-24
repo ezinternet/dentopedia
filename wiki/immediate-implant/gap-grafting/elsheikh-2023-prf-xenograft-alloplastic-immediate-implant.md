@@ -44,4 +44,4 @@ Short-term follow-up. Site-specific (anterior maxilla) generalization to molar s
 
 ## Related Papers
 - [[immediate-implant/esthetic-soft-tissue/qian-2023-iip-buccal-bone-dehiscence-anterior-maxilla]]
-- [[immediate-implant/wang-2021-titanium-mesh-cgf-immediate-implantation-anterior]]
+- [[immediate-implant/gap-grafting/wang-2021-titanium-mesh-cgf-immediate-implantation-anterior]]

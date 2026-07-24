@@ -45,6 +45,6 @@ Class I 81.1%, II 10.3%, III 1.9%, IV 6.7%. 77.5% of incisors/canines had angula
 Single-center Korean sample; CBCT measurement variability; no outcome data.
 
 ## Related Papers
-- [[immediate-implant/kan-2011-sagittal-root-position-immediate-implant-anterior]]
-- [[immediate-implant/habib-2024-srp-decision-making-immediate-implant-cbct]]
-- [[immediate-implant/rodrigues-2022-srp-brazilian-anterior-bone-housing-isd]]
+- [[immediate-implant/anatomic-assessment/kan-2011-sagittal-root-position-immediate-implant-anterior]]
+- [[immediate-implant/anatomic-assessment/habib-2024-srp-decision-making-immediate-implant-cbct]]
+- [[immediate-implant/anatomic-assessment/rodrigues-2022-srp-brazilian-anterior-bone-housing-isd]]

@@ -12,7 +12,7 @@ source_collection: external
 
 ## Why Ingested
 
-[[immediate-implant/sanz-2017-bone-graft-gap-immediate-implant-rct]]가 즉시 식립 buccal gap의 graft 충전 효과를 다뤘다면, 본 RCT는 gap 충전(allograft)을 양 군에 고정한 채 *차폐막* 변수(자가 DDBM vs e-PRF)만 분리해 비교한다 — 같은 Mansoura/Elsheikh 그룹의 [[immediate-implant/elsheikh-2023-prf-xenograft-alloplastic-immediate-implant]] PRF 적용 근거를 차폐막 관점으로 확장하며, 두 자가 생물학적 차폐막이 24개월 동등(둘 다 100% 생존)함을 보강.
+[[immediate-implant/gap-grafting/sanz-2017-bone-graft-gap-immediate-implant-rct]]가 즉시 식립 buccal gap의 graft 충전 효과를 다뤘다면, 본 RCT는 gap 충전(allograft)을 양 군에 고정한 채 *차폐막* 변수(자가 DDBM vs e-PRF)만 분리해 비교한다 — 같은 Mansoura/Elsheikh 그룹의 [[immediate-implant/gap-grafting/elsheikh-2023-prf-xenograft-alloplastic-immediate-implant]] PRF 적용 근거를 차폐막 관점으로 확장하며, 두 자가 생물학적 차폐막이 24개월 동등(둘 다 100% 생존)함을 보강.
 
 ## Three-line Summary
 
@@ -54,7 +54,7 @@ RCT; n=40 (각 군 20, 단일 임플란트), 비복원성 하악 대구치 → �
 - 장기(5-10년) 추적 필요
 
 ## 6. Related Work
-- [[immediate-implant/elsheikh-2023-prf-xenograft-alloplastic-immediate-implant]] — PRF + immediate implant grafting.
+- [[immediate-implant/gap-grafting/elsheikh-2023-prf-xenograft-alloplastic-immediate-implant]] — PRF + immediate implant grafting.
 - [[immediate-implant/esthetic-soft-tissue/bajaj-2025-cgf-enriched-bone-graft-iipp-rct]] — platelet concentrate(CGF) IIP RCT.
 - [[overviews/immediate-implant-soft-tissue-gap-grafting-material-choice]] — gap grafting material 선택.
 

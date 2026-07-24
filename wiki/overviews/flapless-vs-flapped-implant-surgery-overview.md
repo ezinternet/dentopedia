@@ -83,5 +83,5 @@ Flapless (transmucosal punch) implant surgery is marketed as less traumatic, les
 - [[implants/surendra-2025-flapless-versus-flapped-crestal-bone]] — RCT: flapless preserves significantly more crestal bone at 3/6 months (healed posterior mandible).
 - [[implants/tarpara-2025-flapless-flapped-clinical-outcomes-cohort]] — cohort: no crestal-bone difference at 12 months; flapless less pain, lower 6-month PD.
 - [[immediate-implant/pitman-2023-immediate-implant-flap-flapless-sr-ma]] — SR+MA (immediate setting): flapless favors buccal tissue, small operator-dependent differences.
-- [[immediate-implant/mansouri-2025-flapless-immediate-implant-bone-grafting-sr-ma]] — SR+MA: flapless immediate + gap grafting trends to better hard-tissue preservation.
+- [[immediate-implant/gap-grafting/mansouri-2025-flapless-immediate-implant-bone-grafting-sr-ma]] — SR+MA: flapless immediate + gap grafting trends to better hard-tissue preservation.
 - [[bone-regeneration/ridge-preservation/araujo-2009-ridge-alterations-flap-vs-flapless]] — animal histology: flapless extraction does not by itself preserve the ridge.

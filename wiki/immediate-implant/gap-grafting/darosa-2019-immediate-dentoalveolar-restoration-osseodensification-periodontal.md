@@ -58,6 +58,6 @@ Numerical detail not extractable from available text — abstract-level only (pu
 
 ## Related Papers
 - [[implants/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — origin of OD/Densah bur concept.
-- [[immediate-implant/bleyan-2021-molar-septum-expansion-osseodensification-immediate-implant]] — much larger retrospective on OD-assisted immediate molar placement (n = 145 implants).
+- [[immediate-implant/molar-septum/bleyan-2021-molar-septum-expansion-osseodensification-immediate-implant]] — much larger retrospective on OD-assisted immediate molar placement (n = 145 implants).
 - [[implants/koutouzis-2019-alveolar-ridge-expansion-osseodensification-multicenter-retrospective]] — OD-mediated ridge expansion in healed ridges.
 - [[implants/mello-machado-2021-osseodensification-low-quality-bone-rct]] — RCT on OD in low-quality bone.

@@ -15,7 +15,7 @@ source_url: https://pmc.ncbi.nlm.nih.gov/articles/PMC9474760/
 
 ## Why Ingested
 
-즉시식립의 생존율 논의에서 놓치기 쉬운 임상 시나리오 — 임플란트 식립 *후* 발생하는 급성 감염. 기존 [[immediate-implant/pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma]]는 식립 *전* 소켓 상태에 집중하지만, 이 코호트는 식립 후 급성 감염 발생 시 실패 예측인자(흡연·fresh socket·골이식·항생제 타이밍)를 HR로 제시해 임상 의사결정에 직접 활용 가능.
+즉시식립의 생존율 논의에서 놓치기 쉬운 임상 시나리오 — 임플란트 식립 *후* 발생하는 급성 감염. 기존 [[immediate-implant/infected-socket/pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma]]는 식립 *전* 소켓 상태에 집중하지만, 이 코호트는 식립 후 급성 감염 발생 시 실패 예측인자(흡연·fresh socket·골이식·항생제 타이밍)를 HR로 제시해 임상 의사결정에 직접 활용 가능.
 
 ## Three-line Summary
 
@@ -83,8 +83,8 @@ With postoperative antibiotics:
 
 ## 6. Related Work
 
-- [[immediate-implant/pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma]] — SR+MA on pre-existing infection; contrasts with this paper's focus on postoperative acute infection
-- [[immediate-implant/saijeva-2020-immediate-implant-placement-non-infected-sockets]] — SR+MA on infected socket outcomes; complements by showing survival comparison
+- [[immediate-implant/infected-socket/pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma]] — SR+MA on pre-existing infection; contrasts with this paper's focus on postoperative acute infection
+- [[immediate-implant/infected-socket/saijeva-2020-immediate-implant-placement-non-infected-sockets]] — SR+MA on infected socket outcomes; complements by showing survival comparison
 
 ## 7. Glossary
 

@@ -43,6 +43,6 @@ Esthetic outcomes deteriorate as labial bone thickness decreases. The 1–2 mm t
 Cohort (non-randomized); follow-up bound by study horizon; threshold values still population-specific.
 
 ## Related Papers
-- [[immediate-implant/shafizadeh-2021-alveolar-bone-thickness-healthy-sr]]
-- [[immediate-implant/altarawneh-2018-bone-dimensions-anterior-maxilla-cbct]]
+- [[immediate-implant/anatomic-assessment/shafizadeh-2021-alveolar-bone-thickness-healthy-sr]]
+- [[immediate-implant/anatomic-assessment/altarawneh-2018-bone-dimensions-anterior-maxilla-cbct]]
 - [[immediate-implant/esthetic-soft-tissue/staas-2026-fiipp-palatal-position-cbct-3year]]

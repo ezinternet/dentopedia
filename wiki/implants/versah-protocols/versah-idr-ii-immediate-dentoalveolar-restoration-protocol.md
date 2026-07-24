@@ -45,7 +45,7 @@ Protocol outcome: single-stage rehabilitation of high-risk esthetic socket; reli
 Manufacturer marketing document — not peer-reviewed. Highly operator-dependent (triple graft harvest from tuberosity, primary stability solely from palatal wall). Outcome variance not quantified in protocol. Cross-reference [[darosa-2019-immediate-dentoalveolar-restoration-osseodensification-periodontal]] for the peer-reviewed clinical IDR rationale.
 
 ## Related Papers
-- [[immediate-implant/darosa-2019-immediate-dentoalveolar-restoration-osseodensification-periodontal]]
-- [[immediate-implant/bleyan-2021-molar-septum-expansion-osseodensification-immediate-implant]]
+- [[immediate-implant/gap-grafting/darosa-2019-immediate-dentoalveolar-restoration-osseodensification-periodontal]]
+- [[immediate-implant/molar-septum/bleyan-2021-molar-septum-expansion-osseodensification-immediate-implant]]
 - [[implants/versah-protocols/versah-immediate-implant-placement-protocol]]
 - [[implants/versah-protocols/versah-combined-molar-septum-expansion-sinus-lift-protocol]]

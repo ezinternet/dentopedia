@@ -66,12 +66,12 @@ A fourth comparison — **immediate-delayed (4–8 wk soft-tissue healing only, 
 | [[immediate-implant/esthetic-soft-tissue/buser-2017-implant-placement-timing-post-extraction-esthetic]] | narrative-review | esthetic zone | "When immediate, when early, when late?" — the canonical decision framework. |
 | [[immediate-implant/esthetic-soft-tissue/chen-2014-esthetic-outcomes-immediate-early-implant]] | (esthetic outcomes) | esthetic zone | Esthetic outcomes by timing; early placement favorable risk profile. |
 | [[immediate-implant/thoma-2026-timing-dental-implant-placement-past]] | narrative-review | — | Contemporary perspective on placement timing (past/present/future). |
-| [[immediate-implant/pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma]] | sr+ma | — | Periapical pathology at the immediate site — a key contraindication modifier. |
+| [[immediate-implant/infected-socket/pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma]] | sr+ma | — | Periapical pathology at the immediate site — a key contraindication modifier. |
 | [[immediate-implant/bineviciute-2024-attitudes-surgeons-immediate-implant-survey]] | cross-sectional | 186 clinicians | Real-world criteria: periapical lesion >5 mm dominant contraindication; low socket-classification uptake. |
 | [[immediate-implant/qian-2024-anterior-maxillary-implants-placement-loading-nma]] | sr+ma (NMA) | anterior maxilla | Network ranking of placement × loading combinations. |
 | [[immediate-implant/esthetic-soft-tissue/samet-2023-immediate-placement-loading-esthetic-zone]] | (narrative) | esthetic zone | Combined placement + loading decision context. |
 | [[immediate-implant/esthetic-soft-tissue/peitsinis-2025-implant-placement-timing-loading-protocols]] | (review) | — | Timing × loading protocol interplay. |
-| [[immediate-implant/meijer-2024-immediate-implant-bony-defect-10year-rct]] | rct | 10-yr | Even bony-defect sockets reach delayed-equivalent 10-yr outcomes with immediate + GBR + deferred provisional (operator-dependent). |
+| [[immediate-implant/gap-grafting/meijer-2024-immediate-implant-bony-defect-10year-rct]] | rct | 10-yr | Even bony-defect sockets reach delayed-equivalent 10-yr outcomes with immediate + GBR + deferred provisional (operator-dependent). |
 | [[immediate-implant/esposito-2010-fresh-extraction-sockets-immediate-cochrane]] | sr+ma Cochrane (7 RCT, 2010) | n=126 (immediate vs delayed comparison) | Immediate vs immediate-delayed vs delayed in fresh sockets — immediate vs delayed: no significant differences (2 RCTs); **immediate-delayed vs delayed: better esthetics at 2y (RR=1.68) BUT 4× more complications at 5y (RR=4.20)**; bone substitutes acceptable in place of autogenous graft; all studies high risk of bias, underpowered. |
 
 ## Clinical Decision Points

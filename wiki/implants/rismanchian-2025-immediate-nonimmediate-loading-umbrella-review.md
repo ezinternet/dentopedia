@@ -64,6 +64,6 @@ Umbrella review (PRISMA-guided) of SRs/MAs from PubMed, Scopus, Web of Science, 
 - [[overviews/implant-failure-mbl-risk-factors-overview]] — synthesized into this cross-paper late-implant-failure/MBL risk-factor overview
 
 - [[implants/benic-2014-loading-protocols-single-implant-crowns-sr-ma]] — earlier SR+MA (11 RCTs, single-implant crowns) establishing IL≈NIL equivalence under adequate primary stability; this umbrella review reinforces that conclusion with broader, more recent evidence.
-- [[immediate-implant/gjelvold-2021-immediate-delayed-loading-single-tooth-5year-rct]] — 5-year RCT directly cited in this review as a key long-term comparative trial (IL 100% vs NIL 95.8% survival).
-- [[immediate-implant/esposito-2015-immediate-loading-vs-delayed-anterior-rct]] — related anterior-maxilla IL vs delayed placement/loading RCT.
+- [[immediate-implant/loading-protocol/gjelvold-2021-immediate-delayed-loading-single-tooth-5year-rct]] — 5-year RCT directly cited in this review as a key long-term comparative trial (IL 100% vs NIL 95.8% survival).
+- [[immediate-implant/loading-protocol/esposito-2015-immediate-loading-vs-delayed-anterior-rct]] — related anterior-maxilla IL vs delayed placement/loading RCT.
 - [[implants/liu-2021-immediate-delayed-loading-overdenture-mbl-sr-ma]] — parallel SR+MA on IL vs delayed loading MBL, different prosthesis type (overdenture vs single crown).

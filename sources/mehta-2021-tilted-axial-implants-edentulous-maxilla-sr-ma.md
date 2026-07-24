@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-위축된 무치악 상악 즉시 로딩 전악 재건에서 경사식립(tilted) 임플란트가 축방향(axial) 임플란트 대비 생존율·변연골소실에서 불리한지에 대한 정량 근거. All-on-X·full-arch 즉시 로딩을 다룬 [[immediate-implant/yaghmai-2025-palatal-root-socket-all-on-x]]·[[immediate-implant/heimes-2025-immediate-implant-full-arch-rehabilitation]]와 보철 설계 측면에서 연결된다.
+위축된 무치악 상악 즉시 로딩 전악 재건에서 경사식립(tilted) 임플란트가 축방향(axial) 임플란트 대비 생존율·변연골소실에서 불리한지에 대한 정량 근거. All-on-X·full-arch 즉시 로딩을 다룬 [[immediate-implant/molar-septum/yaghmai-2025-palatal-root-socket-all-on-x]]·[[immediate-implant/heimes-2025-immediate-implant-full-arch-rehabilitation]]와 보철 설계 측면에서 연결된다.
 
 ## Three-line Summary
 

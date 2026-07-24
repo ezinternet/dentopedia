@@ -71,7 +71,7 @@ Both arches achieved high primary stability (mean ISQ >73 at baseline, no signif
 
 ## Related Papers
 
-- [[immediate-implant/ragucci-2020-immediate-implant-molar-extraction-sockets]] — extends: establishes immediate molar feasibility; this trial adds arch-specific (maxilla vs mandible) stability trajectories.
+- [[immediate-implant/molar-septum/ragucci-2020-immediate-implant-molar-extraction-sockets]] — extends: establishes immediate molar feasibility; this trial adds arch-specific (maxilla vs mandible) stability trajectories.
 - [[implants/isq/bavetta-2019-insertion-torque-isq-immediate-loading-extraction-socket]] — reinforces: RFA/ISQ-based stability for immediate loading in fresh sockets.
-- [[immediate-implant/bleyan-2021-molar-septum-expansion-osseodensification-immediate-implant]] — related: septal-bone engagement strategy for primary stability in immediate molar sockets.
-- [[immediate-implant/botros-2025-early-conventional-loading-immediate-molar]] — related: loading timing for immediate molar implants, informed by stability thresholds.
+- [[immediate-implant/molar-septum/bleyan-2021-molar-septum-expansion-osseodensification-immediate-implant]] — related: septal-bone engagement strategy for primary stability in immediate molar sockets.
+- [[immediate-implant/loading-protocol/botros-2025-early-conventional-loading-immediate-molar]] — related: loading timing for immediate molar implants, informed by stability thresholds.

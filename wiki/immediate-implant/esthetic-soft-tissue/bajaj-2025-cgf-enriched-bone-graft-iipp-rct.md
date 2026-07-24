@@ -50,7 +50,7 @@ RCT evaluating CGF (concentrated growth factor)-enriched bone graft in the jump 
 IIPP 시 jump space CGF 강화 골이식재 사용 시 12개월 시점 hard-tissue 보존과 심미 결과 모두 유의하게 향상. 단기 데이터지만 자가 혈액유래 + 골이식 조합의 단일 RCT 근거. 장기 추적 필요.
 
 ## Related Papers
-- [[immediate-implant/seyssens-2022-immediate-implant-socket-grafting-sr-ma]] — socket grafting general SR+MA
+- [[immediate-implant/gap-grafting/seyssens-2022-immediate-implant-socket-grafting-sr-ma]] — socket grafting general SR+MA
 - [[immediate-implant/esthetic-soft-tissue/azadi-2025-soft-tissue-grafting-immediate-implant-bayesian-nma]] — soft tissue graft NMA
 
 ## Sources

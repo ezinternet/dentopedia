@@ -62,7 +62,7 @@ Pilot RCT (CONSORT), n=30 enrolled / 28 analyzed (10M/18F, mean age 42 y), singl
 
 ## Related Papers
 
-- [[immediate-implant/witoonkitvanich-2025-immediate-implant-stability-maxilla-mandible]] — reinforces; both quantify immediate-implant ISQ/primary stability and its time course (this paper adds the fresh-vs-healed and graft-vs-no-graft BIC contrast).
-- [[immediate-implant/stanley-2020-five-thread-guideline-predicting-primary]] — relates; native apical/wall bone engagement as the determinant of immediate-implant primary stability.
-- [[immediate-implant/sanz-2017-bone-graft-gap-immediate-implant-rct]] — relates; RCT on grafting the peri-implant gap (here, graft shown not to aid early mechanical stability).
-- [[immediate-implant/jang-2025-flapless-immediate-implant-low-primary-stability]] — relates; immediate placement with low primary stability and the role of bone contact.
+- [[immediate-implant/primary-stability/witoonkitvanich-2025-immediate-implant-stability-maxilla-mandible]] — reinforces; both quantify immediate-implant ISQ/primary stability and its time course (this paper adds the fresh-vs-healed and graft-vs-no-graft BIC contrast).
+- [[immediate-implant/primary-stability/stanley-2020-five-thread-guideline-predicting-primary]] — relates; native apical/wall bone engagement as the determinant of immediate-implant primary stability.
+- [[immediate-implant/gap-grafting/sanz-2017-bone-graft-gap-immediate-implant-rct]] — relates; RCT on grafting the peri-implant gap (here, graft shown not to aid early mechanical stability).
+- [[immediate-implant/primary-stability/jang-2025-flapless-immediate-implant-low-primary-stability]] — relates; immediate placement with low primary stability and the role of bone contact.

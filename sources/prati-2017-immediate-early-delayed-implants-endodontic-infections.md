@@ -83,10 +83,10 @@ Complications: zero wound infections, osteitis, bone graft sequestration, or imp
 
 ## 6. Related Work
 
-- [[immediate-implant/pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma]] — 2024 SR+MA citing this type of protocol; confirms acute infection as contraindication
-- [[immediate-implant/munoz-camara-2020-immediate-implants-acute-periapical-infected]] — contradicts: placed immediately in acute sites (with different protocol) and found 100% survival
-- [[immediate-implant/saijeva-2020-immediate-implant-placement-non-infected-sockets]] — SR+MA providing broader context for infected vs non-infected outcomes
-- [[immediate-implant/chrcanovic-2015-immediate-placement-implants-infected-sites]] — SR that also reviewed placement in infected sites (cited in Prati 2017 ref 15)
+- [[immediate-implant/infected-socket/pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma]] — 2024 SR+MA citing this type of protocol; confirms acute infection as contraindication
+- [[immediate-implant/infected-socket/munoz-camara-2020-immediate-implants-acute-periapical-infected]] — contradicts: placed immediately in acute sites (with different protocol) and found 100% survival
+- [[immediate-implant/infected-socket/saijeva-2020-immediate-implant-placement-non-infected-sockets]] — SR+MA providing broader context for infected vs non-infected outcomes
+- [[immediate-implant/infected-socket/chrcanovic-2015-immediate-placement-implants-infected-sites]] — SR that also reviewed placement in infected sites (cited in Prati 2017 ref 15)
 
 ## 7. Glossary
 

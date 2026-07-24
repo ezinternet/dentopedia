@@ -67,6 +67,6 @@ Aung et al. (2024) retrospectively followed 49 dental implants immediately place
 ## Related Papers
 
 - [[immediate-implant/patel-2023-immediate-vs-delayed-implant-survival-sr-ma]] — pooled SR+MA of immediate vs delayed survival; this paper adds positional (site-specific) granularity beneath the pooled estimate.
-- [[immediate-implant/sierra-rebolledo-2021-undersized-drilling-immediate-tapered-implants-maxilla]] — primary-stability technique for immediate tapered implants in the maxilla, the region this study flags as highest-risk.
-- [[immediate-implant/stanley-2020-five-thread-guideline-predicting-primary]] — primary-stability prediction (engagement depth), relevant to the deeper seating used here.
-- [[immediate-implant/vandenbogaerde-2016-two-surfaces-fresh-sockets-immediately-loaded]] — surface comparison for implants in fresh sockets, complementing the SLA-surface focus of this study.
+- [[immediate-implant/primary-stability/sierra-rebolledo-2021-undersized-drilling-immediate-tapered-implants-maxilla]] — primary-stability technique for immediate tapered implants in the maxilla, the region this study flags as highest-risk.
+- [[immediate-implant/primary-stability/stanley-2020-five-thread-guideline-predicting-primary]] — primary-stability prediction (engagement depth), relevant to the deeper seating used here.
+- [[immediate-implant/primary-stability/vandenbogaerde-2016-two-surfaces-fresh-sockets-immediately-loaded]] — surface comparison for implants in fresh sockets, complementing the SLA-surface focus of this study.

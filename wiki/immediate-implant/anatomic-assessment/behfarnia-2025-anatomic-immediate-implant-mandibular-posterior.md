@@ -73,8 +73,8 @@ Caveats: extreme heterogeneity (I² up to 98%), few studies per tooth (3–4), f
 
 ## Related Papers
 
-- [[immediate-implant/aldahlawi-2023-cbct-alveolar-bone-maxillary-mandibular-molars]] — extends: single CBCT study of molar alveolar bone, here pooled across 12 such studies.
-- [[immediate-implant/pavlovic-2022-interradicular-septum-morphology-molar-iip]] — reinforces: interradicular septum anchorage is the primary-stability counterpart to the neurovascular risk mapped here.
-- [[immediate-implant/milenkovic-2022-interradicular-septum-classification-iip]] — septum classification for molar IIP.
-- [[immediate-implant/smith-2013-classification-molar-extraction-immediate-implant]] — molar extraction-socket classification informing IIP feasibility.
-- [[immediate-implant/ragucci-2020-immediate-implant-molar-extraction-sockets]] — clinical outcomes of molar-socket IIP.
+- [[immediate-implant/molar-septum/aldahlawi-2023-cbct-alveolar-bone-maxillary-mandibular-molars]] — extends: single CBCT study of molar alveolar bone, here pooled across 12 such studies.
+- [[immediate-implant/molar-septum/pavlovic-2022-interradicular-septum-morphology-molar-iip]] — reinforces: interradicular septum anchorage is the primary-stability counterpart to the neurovascular risk mapped here.
+- [[immediate-implant/molar-septum/milenkovic-2022-interradicular-septum-classification-iip]] — septum classification for molar IIP.
+- [[immediate-implant/molar-septum/smith-2013-classification-molar-extraction-immediate-implant]] — molar extraction-socket classification informing IIP feasibility.
+- [[immediate-implant/molar-septum/ragucci-2020-immediate-implant-molar-extraction-sockets]] — clinical outcomes of molar-socket IIP.

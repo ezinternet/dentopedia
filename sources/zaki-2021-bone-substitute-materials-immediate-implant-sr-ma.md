@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-즉시식립 fixture–socket gap에 골대체재(Bone-Substitute Material, BSM)를 채우는 것이 협측골 흡수·심미·합병증에 미치는 효과의 대규모 RCT 근거(20 RCT). gap grafting을 다룬 [[immediate-implant/sanz-2017-bone-graft-gap-immediate-implant-rct]]·[[immediate-implant/seyssens-2022-immediate-implant-socket-grafting-sr-ma]]를 보강하고, 콜라겐 변수를 더한 [[immediate-implant/liu-2023-collagen-immediate-implant-soft-hard-tissue-sr-ma]]의 모논문 격이다.
+즉시식립 fixture–socket gap에 골대체재(Bone-Substitute Material, BSM)를 채우는 것이 협측골 흡수·심미·합병증에 미치는 효과의 대규모 RCT 근거(20 RCT). gap grafting을 다룬 [[immediate-implant/gap-grafting/sanz-2017-bone-graft-gap-immediate-implant-rct]]·[[immediate-implant/gap-grafting/seyssens-2022-immediate-implant-socket-grafting-sr-ma]]를 보강하고, 콜라겐 변수를 더한 [[immediate-implant/gap-grafting/liu-2023-collagen-immediate-implant-soft-hard-tissue-sr-ma]]의 모논문 격이다.
 
 ## Three-line Summary
 

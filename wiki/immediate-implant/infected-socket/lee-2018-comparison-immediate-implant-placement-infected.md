@@ -22,8 +22,8 @@ relations:
     target: saijeva-2020-immediate-implant-placement-non-infected-sockets
 ---
 
-> [!note] Partially superseded → [[immediate-implant/pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma]]
-> Chain: Lee 2018 → [[immediate-implant/saijeva-2020-immediate-implant-placement-non-infected-sockets]] (9 studies, n=2281, time-stratified) → Pranckevičienė 2024 SR+MA, the current chain tail. The pointer now names the tail rather than the intermediate page. Lee 2018 retains value as the first Korean-authored SR+MA on this question and for its explicit WKG clinical emphasis. (set 2026-07-05; pointer retargeted to chain tail 2026-07-10)
+> [!note] Partially superseded → [[immediate-implant/infected-socket/pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma]]
+> Chain: Lee 2018 → [[immediate-implant/infected-socket/saijeva-2020-immediate-implant-placement-non-infected-sockets]] (9 studies, n=2281, time-stratified) → Pranckevičienė 2024 SR+MA, the current chain tail. The pointer now names the tail rather than the intermediate page. Lee 2018 retains value as the first Korean-authored SR+MA on this question and for its explicit WKG clinical emphasis. (set 2026-07-05; pointer retargeted to chain tail 2026-07-10)
 
 ## Three-line Summary
 
@@ -76,7 +76,7 @@ Only 3 CCTs included in quantitative analysis; 0 RCTs available.
 
 ## Related Papers
 
-- [[immediate-implant/saijeva-2020-immediate-implant-placement-non-infected-sockets]] — 2020 extension with 9 studies, time-stratified analysis
-- [[immediate-implant/pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma]] — 2024 SR+MA, most comprehensive update
-- [[immediate-implant/almugeiren-2024-placement-immediate-dental-implants-extraction]] — 2024 MA with OR data for apical pathosis
+- [[immediate-implant/infected-socket/saijeva-2020-immediate-implant-placement-non-infected-sockets]] — 2020 extension with 9 studies, time-stratified analysis
+- [[immediate-implant/infected-socket/pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma]] — 2024 SR+MA, most comprehensive update
+- [[immediate-implant/infected-socket/almugeiren-2024-placement-immediate-dental-implants-extraction]] — 2024 MA with OR data for apical pathosis
 - [[immediate-implant/tabrizi-2020-dental-implant-survival-postoperative-infection]] — postoperative acute infection failure risk
