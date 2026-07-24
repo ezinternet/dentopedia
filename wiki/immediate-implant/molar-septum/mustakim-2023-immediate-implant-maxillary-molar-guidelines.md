@@ -5,7 +5,7 @@ year: 2023
 date: 2023-02-28
 doi: 10.5125/jkaoms.2023.49.1.30
 source: mustakim-2023-immediate-implant-maxillary-molar-guidelines.md
-category: [immediate-implant]
+category: [immediate-implant/molar-septum]
 evidence_level: retrospective
 source_collection: pubmed-text
 full_text: true
