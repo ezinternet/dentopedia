@@ -5,7 +5,7 @@ year: 2020
 date: 2020-01-01
 doi: 10.1097/j.pain.0000000000002243
 source: chmieliauskaite-2020-burning-mouth-syndrome-icd11-rename-delphi.md
-category: [oral-medicine]
+category: [oral-medicine/burning-mouth-syndrome]
 evidence_level: consensus
 pdf_path: /Users/oracleneo/llm-wiki/papers/chmieliauskaite-2020-burning-mouth-syndrome-icd11-rename-delphi.pdf
 pdf_filename: chmieliauskaite-2020-burning-mouth-syndrome-icd11-rename-delphi.pdf
