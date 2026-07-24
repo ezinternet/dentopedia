@@ -5,7 +5,7 @@ year: 2019
 date: 2019-07-12
 doi: 10.11607/prd.3883
 source: darosa-2019-immediate-dentoalveolar-restoration-osseodensification-periodontal.md
-category: [immediate-implant]
+category: [immediate-implant/gap-grafting]
 evidence_level: case-report
 pdf_path: /Users/oracleneo/llm-wiki/papers/darosa-2019-immediate-dentoalveolar-restoration-osseodensification-periodontal.pdf
 pdf_filename: darosa-2019-immediate-dentoalveolar-restoration-osseodensification-periodontal.pdf
