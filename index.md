@@ -1864,7 +1864,7 @@ tags: []
 - [[oral-medicine/burning-mouth-syndrome/jaaskelainen-2018-burning-mouth-syndrome-neuropathic-pain]] — NeuPSIG(PAIN) 리뷰: 일차성 BMS는 신경병성 통증; 말초형(lidocaine block·topical clonazepam 반응) vs 중추형(국소무반응+정신과 동반) 2-subtype 분류 (2018)
 - [[oral-medicine/burning-mouth-syndrome/kouri-2024-small-fiber-neuropathy-burning-mouth-syndrome]] — PRISMA SR(PROSPERO): BMS 혀 생검 신경섬유밀도 30–60%↓, TRPV1·P2X3·NGF·Nav1.7 변화 — 소섬유신경병증(SFN)이 핵심 병태생리 (2024)
 - [[oral-medicine/lichen-planus/lodi-2020-oral-lichen-planus-corticosteroids-cochrane]] — Cochrane SR+MA (35 RCT, 1474명): 국소 스테로이드가 위약보다 OLP 통증 해소 우월 가능(RR 1.91, 95% CI 1.08–3.36, 낮은 근거); 타크롤리무스가 클로베타솔보다 통증에 나을 수 있음(매우 낮은 근거) (2020)
-- [[oral-medicine/sandhu-2022-oral-lichen-planus-treatment-sr]] — SR: OLP 치료 효능+비용 비교 — 스테로이드가 효능-비용 기준, 타크롤리무스 효과적이나 고가; 문헌 비용 보고 비일관 (BMC Oral Health 2022)
+- [[oral-medicine/lichen-planus/sandhu-2022-oral-lichen-planus-treatment-sr]] — SR: OLP 치료 효능+비용 비교 — 스테로이드가 효능-비용 기준, 타크롤리무스 효과적이나 고가; 문헌 비용 보고 비일관 (BMC Oral Health 2022)
 - [[oral-medicine/opmd/warnakulasuriya-2018-opmd-clinical-features-review]] — 내러티브 리뷰: OPMD 전 스펙트럼 임상양상(백반증·홍반증·OSF·OLP·태선양/GvHD) — 임상 아형분류·필수 조직검사·적시 의뢰 (OOOO 2018)
 - [[oral-medicine/opmd/kumari-2022-opmd-etiology-pathogenesis-transformation]] — 내러티브 리뷰: OPMD 병인·이형성→암 전환 경로 — 담배/아레카/알코올·미생물·HPV; OED 등급이 핵심 악성전환 예측인자 (Front Pharmacol 2022)
 - [[oral-medicine/aphthous-stomatitis/gasmi-2021-oral-aphthous-pathophysiology-treatment]] — 내러티브 리뷰: 구강 아프타 병태생리·세 형태(소·대·포진형)·감별진단; 국소 스테로이드 1차·진행 시 전신제 치료 단계 (Arch Razi Inst 2021)
