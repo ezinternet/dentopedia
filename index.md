@@ -2073,7 +2073,7 @@ tags: []
 ### immediate-implant (added 2026-05-24)
 
 - [[immediate-implant/anatomic-assessment/kan-2011-sagittal-root-position-immediate-implant-anterior]] — Joseph Y.K. Kan 2011 · cross-sectional · Sagittal root position of the maxillary anterior teeth: Implications for immediate implant placement
-- [[immediate-implant/smith-2013-classification-molar-extraction-immediate-implant]] — Richard B. Smith 2013 · narrative-review · Classification of Molar Extraction Sites for Immediate Dental Implant Placement: Technical Note
+- [[immediate-implant/molar-septum/smith-2013-classification-molar-extraction-immediate-implant]] — Richard B. Smith 2013 · narrative-review · Classification of Molar Extraction Sites for Immediate Dental Implant Placement: Technical Note
 - [[immediate-implant/loading-protocol/esposito-2015-immediate-loading-vs-delayed-anterior-rct]] — Marco Esposito 2015 · rct · Immediate loading of post-extractive versus delayed placed single implants in the anterior maxilla: outcome of a pragmatic multicenter randomised controlled trial 1-year after loading
 - [[immediate-implant/anatomic-assessment/altarawneh-2018-bone-dimensions-anterior-maxilla-cbct]] — Sandra AlTarawneh 2018 · cross-sectional · Assessment of Bone Dimensions in the Anterior Maxilla: A Cone Beam Computed Tomography Study
 - [[immediate-implant/anatomic-assessment/panda-2018-cbct-incisive-canal-anterior-maxillary]] — Mousumi Panda 2018 · cross-sectional · Cone beam computerized tomography evaluation of incisive canal and anterior maxillary bone thickness for placement of immediate implants
