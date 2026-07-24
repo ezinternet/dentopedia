@@ -5,7 +5,7 @@ year: 2022
 date: 2022-09-21
 doi: 10.3390/ijerph191911910
 source: garcia-rios-2022-oral-manifestations-systemic-lupus-erythematosus-sr.md
-category: [oral-medicine]
+category: [oral-medicine/immune-mediated]
 evidence_level: sr
 source_collection: pubmed-text
 full_text: true
