@@ -6,7 +6,7 @@ date: 2023-05-13
 doi: 10.1186/s12903-023-02986-0
 journal: BMC Oral Health 23:304
 source: colak-2023-immediate-implant-periapical-pathology-retrospective.md
-category: [immediate-implant]
+category: [immediate-implant/infected-socket]
 evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/colak-2023-immediate-implant-periapical-pathology-retrospective.pdf
 pdf_filename: colak-2023-immediate-implant-periapical-pathology-retrospective.pdf
