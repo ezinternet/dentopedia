@@ -5,7 +5,7 @@ year: 2024
 date: 2024-12-06
 doi: 10.3390/diagnostics14232756
 source: abdul-2024-srp-maxillary-mandibular-anterior-cbct.md
-category: [immediate-implant]
+category: [immediate-implant/anatomic-assessment]
 evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/abdul-2024-srp-maxillary-mandibular-anterior-cbct.pdf
 pdf_filename: abdul-2024-srp-maxillary-mandibular-anterior-cbct.pdf
