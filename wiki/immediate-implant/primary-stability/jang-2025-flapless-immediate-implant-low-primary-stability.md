@@ -5,7 +5,7 @@ year: 2025
 date: 2025-10-31
 doi: 10.5125/jkaoms.2025.51.5.302
 source: jang-2025-flapless-immediate-implant-low-primary-stability.md
-category: [immediate-implant]
+category: [immediate-implant/primary-stability]
 evidence_level: retrospective
 source_collection: pubmed-text
 full_text: true

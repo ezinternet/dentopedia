@@ -439,7 +439,7 @@ tags: []
 - [[immediate-implant/esthetic-soft-tissue/wu-2026-immediate-provisionalization-natural-crown-frc]] — Exploratory RCT (n=20): immediate non-implant-supported provisional from the patient's own natural crown + FRC splint preserves PES (z=2.799, p=0.005) and cuts early postop pain/swelling vs delayed restoration after anterior-maxilla IIP (2026)
 - [[immediate-implant/gap-grafting/greenstein-2013-managing-buccal-gap-immediate-implant]] — Greenstein 2013, CE review on buccal gap management and buccal plate preservation in immediate implant placement
 - [[immediate-implant/aung-2024-tapered-sla-immediate-implant-survival]] — Aung 2024 · retrospective(49 임플란트, SNU 2009–2018) · tapered self-tapping SLA 즉시식립 5년 생존율 93.88%, 하악 100%·상악 실패는 상악동 연관, 부위별 식립 근거
-- [[immediate-implant/jang-2025-flapless-immediate-implant-low-primary-stability]] — Jang 2025 · retrospective(n=16) · 낮은 1차안정성(ITV<10Ncm·초기 ISQ<55) flapless 즉시식립 — 16례 전부 생존(100%), 시간경과 ISQ 회복
+- [[immediate-implant/primary-stability/jang-2025-flapless-immediate-implant-low-primary-stability]] — Jang 2025 · retrospective(n=16) · 낮은 1차안정성(ITV<10Ncm·초기 ISQ<55) flapless 즉시식립 — 16례 전부 생존(100%), 시간경과 ISQ 회복
 - [[immediate-implant/esthetic-soft-tissue/han-2025-immediate-implant-maxillary-esthetic-dual-thread]] — Han 2025 · prospective(n=20) · 상악 심미부 즉시식립 dual-thread(상부 U+하부 V)·11° internal hex 임플란트 — 성공률 85%, 치은퇴축 개선
 - [[immediate-implant/najm-2024-immediate-implant-premolar-perforation-cbct]] — Najm 2024 · cross-sectional(CBCT 179명/716 소구치) · 상악 소구치 즉시식립 천공위험 — bone-driven 위치가 보철주도 대비 천공률 84%→41%로 감소
 - [[immediate-implant/esthetic-soft-tissue/lim-2022-immediate-implant-gbr-sctg-dog]] — Lim 2022 · animal(개 5마리/4군) · 즉시식립 시 GBR vs SCTG vs GBR+SCTG vs 대조 — SCTG가 협측 연조직 두께 우수, 병용(GBR+SCTG)은 비가산적
