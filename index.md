@@ -480,7 +480,7 @@ tags: []
 - [[immediate-implant/socket-shield/gharpure-2022-socket-shield-conventional-implant-sr-ma]] — 소켓실드 vs 기존 즉시임플란트 SR+MA — 협측 골 MD -0.5mm 우위, 합병증(실드 노출) 5–17% 보고.
 - [[immediate-implant/esthetic-soft-tissue/gaddale-2024-immediate-implant-loading-esthetic-tissue-sr-ma]] — 심미부 즉시식립+즉시부하 연·경조직 변화 SR+MA — MBL 1년 -0.30mm, 생존율 95.1–98.9%.
 - [[immediate-implant/sanz-2017-bone-graft-gap-immediate-implant-rct]] — 즉시식립 임플란트 협측 틈새(≥3mm) 이종골 충전 RCT — 충전군 협측 골 흡수 유의 감소(-0.46 vs -0.84mm).
-- [[immediate-implant/paknejad-2017-flapless-immediate-implant-buccal-gap-rct]] — 무피판 즉시식립 협측 틈새 이종골 충전 RCT — 충전군에서 6·12개월 협측 골 흡수 유의 감소.
+- [[immediate-implant/gap-grafting/paknejad-2017-flapless-immediate-implant-buccal-gap-rct]] — 무피판 즉시식립 협측 틈새 이종골 충전 RCT — 충전군에서 6·12개월 협측 골 흡수 유의 감소.
 - [[immediate-implant/stagnaro-borgia-2022-immediate-implant-buccal-defect-tuberosity-rct]] — 즉시임플란트 협측 결손부 결절 자가골 vs 이종골 1년 RCT — 두 재료 동등(협측 골 흡수 0.61 vs 0.58mm).
 - [[immediate-implant/stanley-2020-five-thread-guideline-predicting-primary]] — 케이스 레터(3증례, JOI 2020): 5-TG — 나사산 ≥5개 원래 골 접촉 기준으로 즉시식립 1차 안정성 (Primary Stability) 예측; CBCT 가상 계획으로 bi/tri-socket 안정성 확인.
 - [[immediate-implant/esthetic-soft-tissue/samet-2023-immediate-placement-loading-esthetic-zone]] — 서술적 리뷰(IntechOpen 챕터): 전치부 즉시식립·즉시부하 가이드 — 적응증·금기·구개측 축 진입·갭 이식·ovate pontic 임시치관; 잘 선택된 케이스에서 협측 골·연조직 보존 가능

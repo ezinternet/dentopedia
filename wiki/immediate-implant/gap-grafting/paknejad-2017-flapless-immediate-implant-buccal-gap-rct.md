@@ -5,7 +5,7 @@ year: 2017
 date: 2017-11-01
 doi: N/A
 source: paknejad-2017-flapless-immediate-implant-buccal-gap-rct.md
-category: [immediate-implant]
+category: [immediate-implant/gap-grafting]
 evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/paknejad-2017-flapless-immediate-implant-buccal-gap-rct.pdf
 pdf_filename: paknejad-2017-flapless-immediate-implant-buccal-gap-rct.pdf
