@@ -5,7 +5,7 @@ year: 2024
 date: 2024-12-01
 doi: 10.1002/JPER.24-0251
 source: meijer-2024-immediate-implant-bony-defect-10year-rct.md
-category: [immediate-implant]
+category: [immediate-implant/gap-grafting]
 evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/meijer-2024-immediate-implant-bony-defect-10year-rct.pdf
 pdf_filename: meijer-2024-immediate-implant-bony-defect-10year-rct.pdf
