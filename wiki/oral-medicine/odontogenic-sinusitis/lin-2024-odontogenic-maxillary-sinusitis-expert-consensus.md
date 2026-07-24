@@ -5,7 +5,7 @@ year: 2024
 date: 2024-01-01
 doi: 10.1038/s41368-024-00278-z
 source: lin-2024-odontogenic-maxillary-sinusitis-expert-consensus.md
-category: [oral-medicine]
+category: [oral-medicine/odontogenic-sinusitis]
 evidence_level: consensus
 pdf_path: /Users/oracleneo/llm-wiki/papers/lin-2024-odontogenic-maxillary-sinusitis-expert-consensus.pdf
 pdf_filename: lin-2024-odontogenic-maxillary-sinusitis-expert-consensus.pdf
