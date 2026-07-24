@@ -5,7 +5,7 @@ year: 2022
 date: 2022-03-08
 doi: "10.3390/biomimetics7010032"
 source: figliuzzi-2022-10-year-evaluation-first-root.md
-category: [immediate-implant]
+category: [immediate-implant/root-analog]
 evidence_level: case-report
 text_path: /Users/oracleneo/llm-wiki/papers/figliuzzi-2022-10-year-evaluation-first-root.txt
 text_filename: figliuzzi-2022-10-year-evaluation-first-root.txt
