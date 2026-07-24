@@ -5,7 +5,7 @@ year: 2015
 date: 2013-07-02
 doi: 10.1111/cid.12098
 source: chrcanovic-2015-immediate-placement-implants-infected-sites.md
-category: [immediate-implant]
+category: [immediate-implant/infected-socket]
 evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/chrcanovic-2015-immediate-placement-implants-infected-sites.pdf
 pdf_filename: chrcanovic-2015-immediate-placement-implants-infected-sites.pdf
