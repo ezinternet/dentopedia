@@ -5,7 +5,7 @@ year: 2025
 date: 2025-01-09
 doi: 10.1016/j.ijom.2024.12.011
 source: witoonkitvanich-2025-immediate-implant-stability-maxilla-mandible.md
-category: [immediate-implant]
+category: [immediate-implant/primary-stability]
 evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/witoonkitvanich-2025-immediate-implant-stability-maxilla-mandible.pdf
 pdf_filename: witoonkitvanich-2025-immediate-implant-stability-maxilla-mandible.pdf
