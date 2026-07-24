@@ -5,7 +5,7 @@ year: 2025
 date: 2025-12-12
 doi: 10.22514/jofph.2025.064
 source: canfora-2025-burning-mouth-syndrome-pathogenesis-review.md
-category: [oral-medicine]
+category: [oral-medicine/burning-mouth-syndrome]
 evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/canfora-2025-burning-mouth-syndrome-pathogenesis-review.pdf
 pdf_filename: canfora-2025-burning-mouth-syndrome-pathogenesis-review.pdf
