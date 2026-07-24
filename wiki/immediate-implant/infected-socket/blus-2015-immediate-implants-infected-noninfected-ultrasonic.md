@@ -5,7 +5,7 @@ year: 2015
 date: 2013-07-30
 doi: 10.1111/cid.12126
 source: blus-2015-immediate-implants-infected-noninfected-ultrasonic.md
-category: [immediate-implant]
+category: [immediate-implant/infected-socket]
 evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/blus-2015-immediate-implants-infected-noninfected-ultrasonic.pdf
 pdf_filename: blus-2015-immediate-implants-infected-noninfected-ultrasonic.pdf
