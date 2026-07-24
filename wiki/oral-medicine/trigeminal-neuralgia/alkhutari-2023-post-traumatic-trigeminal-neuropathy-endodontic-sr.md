@@ -5,7 +5,7 @@ year: 2023
 date: 2023-01-01
 doi: 10.7759/cureus.32675
 source: alkhutari-2023-post-traumatic-trigeminal-neuropathy-endodontic-sr.md
-category: oral-medicine
+category: oral-medicine/trigeminal-neuralgia
 evidence_level: sr
 source_collection: pubmed-text
 full_text: true

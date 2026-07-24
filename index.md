@@ -1815,7 +1815,7 @@ tags: []
 
 ## 구강내과 — 구강점막질환 (Oral Medicine: OPMD / OLP / BMS / RAS)
 - [[oral-medicine/khan-2023-trigeminal-neuralgia-therapeutic-approach-sr]] — Khan 2023 · sr · 삼차신경통 약물 사다리, 1차 카르바마제핀·옥스카르바제핀, 2차 라모트리진·바클로펜, 난치성 BoNT-A·MVD (DOI 10.3390/biomedicines11102606)
-- [[oral-medicine/alkhutari-2023-post-traumatic-trigeminal-neuropathy-endodontic-sr]] — Alkhutari 2023 · sr · 근관치료는 외상성 삼차신경병증(PTTN)의 6-8% 원인, 40대 여성 호발·치료 후 3-48개월 발현 (DOI 10.7759/cureus.32675)
+- [[oral-medicine/trigeminal-neuralgia/alkhutari-2023-post-traumatic-trigeminal-neuropathy-endodontic-sr]] — Alkhutari 2023 · sr · 근관치료는 외상성 삼차신경병증(PTTN)의 6-8% 원인, 40대 여성 호발·치료 후 3-48개월 발현 (DOI 10.7759/cureus.32675)
 - [[oral-medicine/viscuso-2025-dentist-awareness-post-traumatic-trigeminal-neuropathic-pain-survey]] — Viscuso 2025 · cross-sectional · 이탈리아 치과의 634명 중 29%가 PTTN을 모르고 대부분 비가역 치료로 오대응, 의뢰는 3명 중 1명뿐 (DOI 10.22514/jofph.2025.009)
 - [[oral-medicine/jian-2024-thalidomide-recurrent-aphthous-stomatitis-sr-ma]] — Jian 2024 · sr+ma · 탈리도마이드 21 RCT(1668명): 완전반응·재발간격 개선하나 부작용↑, major/난치성 RAS에 25mg/d 한정
 - [[oral-medicine/damario-2025-recurrent-aphthous-stomatitis-treatments-review]] — D'Amario 2025 · narrative-review · RAS 치료 RCT 45편: 비약물(LLLT·오메가-3·천연젤)이 코르티코스테로이드급 효과, LLLT 통증완화 최속
