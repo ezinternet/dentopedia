@@ -5,7 +5,7 @@ year: 2020
 date: 2020-08-22
 doi: 10.1016/j.jds.2020.08.001
 source: psillas-2020-odontogenic-maxillary-sinusitis-comprehensive-review.md
-category: [oral-medicine]
+category: [oral-medicine/odontogenic-sinusitis]
 evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/psillas-2020-odontogenic-maxillary-sinusitis-comprehensive-review.pdf
 pdf_filename: psillas-2020-odontogenic-maxillary-sinusitis-comprehensive-review.pdf
