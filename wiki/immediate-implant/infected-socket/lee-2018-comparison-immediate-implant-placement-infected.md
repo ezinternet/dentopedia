@@ -6,7 +6,7 @@ date: 2018-04-03
 doi: 10.1080/00016357.2018.1453084
 pmid: "29611763"
 source: lee-2018-comparison-immediate-implant-placement-infected.md
-category: [immediate-implant]
+category: [immediate-implant/infected-socket]
 evidence_level: sr+ma
 source_collection: external
 full_text: true
