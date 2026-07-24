@@ -5,7 +5,7 @@ year: 2025
 date: 2025-09-12
 doi: 10.22514/jofph.2025.044
 source: pan-2025-acupuncture-neuropathic-orofacial-pain-review.md
-category: [oral-medicine]
+category: [oral-medicine/trigeminal-neuralgia]
 evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: true
