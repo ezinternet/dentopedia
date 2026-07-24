@@ -5,7 +5,7 @@ year: 2024
 date: 2024-02-01
 doi: 10.1016/j.jdent.2023.104735
 source: zhou-2024-open-closed-flap-collagen-membrane-immediate-implant.md
-category: [immediate-implant]
+category: [immediate-implant/gap-grafting]
 evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/zhou-2024-open-closed-flap-collagen-membrane-immediate-implant.pdf
 pdf_filename: zhou-2024-open-closed-flap-collagen-membrane-immediate-implant.pdf
