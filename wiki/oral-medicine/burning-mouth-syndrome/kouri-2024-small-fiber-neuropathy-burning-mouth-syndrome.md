@@ -5,7 +5,7 @@ year: 2024
 date: 2024-10-24
 doi: "10.3390/ijms252111442"
 source: kouri-2024-small-fiber-neuropathy-burning-mouth-syndrome.md
-category: [oral-medicine]
+category: [oral-medicine/burning-mouth-syndrome]
 evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/kouri-2024-small-fiber-neuropathy-burning-mouth-syndrome.pdf
 pdf_filename: kouri-2024-small-fiber-neuropathy-burning-mouth-syndrome.pdf
