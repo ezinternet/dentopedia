@@ -3033,7 +3033,7 @@ tags: []
 
 #### immediate-implant — soft tissue / grafting
 - [[immediate-implant/zaki-2021-bone-substitute-materials-immediate-implant-sr-ma]] — Zaki 2021 · sr+ma (20 RCT·848pt): gap에 골대체재 사용 시 수평 협측골 흡수 감소(MD −0.52mm)·심미 향상(MD +1.49)이나 합병증 증가(RR 3.50), 실패율 동등
-- [[immediate-implant/liu-2023-collagen-immediate-implant-soft-hard-tissue-sr-ma]] — Liu 2023 · sr+ma (7 RCT·205pt): jumping gap에 골이식재+콜라겐 병용 시 협측 골두께·심미 유의 향상, 실패율·연조직 두께 차이 없음
+- [[immediate-implant/gap-grafting/liu-2023-collagen-immediate-implant-soft-hard-tissue-sr-ma]] — Liu 2023 · sr+ma (7 RCT·205pt): jumping gap에 골이식재+콜라겐 병용 시 협측 골두께·심미 유의 향상, 실패율·연조직 두께 차이 없음
 - [[immediate-implant/esthetic-soft-tissue/aldhohrah-2022-soft-tissue-augmentation-immediate-delayed-sctg-sr-ma]] — Aldhohrah 2022 · sr+ma (12편): SCTG가 타 처치 대비 협측 조직두께(MD 0.74mm)·치은수준·PES 개선·MBL 감소
 - [[immediate-implant/esthetic-soft-tissue/torra-moneny-2024-connective-tissue-grafts-immediate-implant-sr-ma]] — Torra-Moneny 2024 · sr+ma (5 RCT·245pt): CTG는 협측 치은수준을 '유지'(증가 아님), 유의하진 않으나 유리한 경향(MD 0.09mm)
 - [[immediate-implant/esthetic-soft-tissue/fettouh-2024-soft-tissue-volume-midfacial-gingival-immediate-implant]] — Fettouh 2024 · rct (39부위): 즉시식립+CTG가 중안면 퇴축 최소(−0.74mm)·부피손실 5배 감소; 치유지대주 단독은 윤곽유지 실패(−1.54mm)
