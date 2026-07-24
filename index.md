@@ -474,7 +474,7 @@ tags: []
 - [[immediate-implant/esthetic-soft-tissue/peitsinis-2025-implant-placement-timing-loading-protocols]] — 서술적 고찰(JCM 2025, Aristotle U): 즉시(93.8–100%)·조기·지연 타이밍 + 부하 프로토콜 비교 — 즉시 심미위험↑; 환자선택이 결과 결정; 단일 최우수 타이밍 없음
 - [[immediate-implant/heimes-2025-immediate-implant-full-arch-rehabilitation]] — 서술적 고찰(Int J Prosthodont 2025, Mainz/Berlin): 전악 즉시식립·즉시수복 — 임플란트 생존율 >97%·성공률 >95%; MBL 0.29–1.48mm; 보철 >98%; QoL 유의 향상
 - [[immediate-implant/esthetic-soft-tissue/rondone-2024-tissue-grafts-immediate-implant-sr-ma]] — SR+MA(J Clin Med 2024): 골·연조직 이식+즉시식립(Type-1) — ISQ↑·치은후퇴↓·PES↑; 복합이식(경+연) 심미 최고; 이식재 이질성 높음
-- [[immediate-implant/wittneben-2023-immediate-implant-loaded-single-crown-sr]] — 즉시식립+즉시부하 단일치 임플란트 SR — 5년 생존율 97.1%, MBL -0.32mm(1년), 전치부 PES 7.2.
+- [[immediate-implant/loading-protocol/wittneben-2023-immediate-implant-loaded-single-crown-sr]] — 즉시식립+즉시부하 단일치 임플란트 SR — 5년 생존율 97.1%, MBL -0.32mm(1년), 전치부 PES 7.2.
 - [[immediate-implant/esthetic-soft-tissue/pitman-2022-immediate-implant-provisionalization-sr-ma]] — 즉시식립 임시치관 유무 비교 SR+MA — 생존율 동등, 임시치관군에서 연조직 안정성 유리.
 - [[immediate-implant/socket-shield/atef-2021-socket-shield-xenograft-immediate-implant-rct]] — 소켓실드 vs 이종골 이식 심미부 즉시임플란트 RCT — 협측 골 흡수 소켓실드 -0.28 vs 이종골 -0.94mm.
 - [[immediate-implant/socket-shield/gharpure-2022-socket-shield-conventional-implant-sr-ma]] — 소켓실드 vs 기존 즉시임플란트 SR+MA — 협측 골 MD -0.5mm 우위, 합병증(실드 노출) 5–17% 보고.
