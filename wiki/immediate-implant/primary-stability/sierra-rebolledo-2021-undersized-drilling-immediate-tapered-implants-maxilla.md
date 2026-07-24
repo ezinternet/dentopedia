@@ -5,7 +5,7 @@ year: 2021
 date: 2021-01-01
 doi: 10.4317/medoral.24107
 source: sierra-rebolledo-2021-undersized-drilling-immediate-tapered-implants-maxilla.md
-category: [immediate-implant]
+category: [immediate-implant/primary-stability]
 evidence_level: rct
 source_collection: pubmed-text
 full_text: true

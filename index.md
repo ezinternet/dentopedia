@@ -3532,7 +3532,7 @@ tags: []
 
 ### implants — Rittipakorn-2025 reference surveillance ingest (PMC full-text, added 2026-06-24)
 - [[implants/versah-protocols/moghaddas-2025-osseodensification-standard-drilling-isq-itv]] — Moghaddas 2025 · prospective · OD raised insertion torque ~37% over SD (50.3 vs 36.1 Ncm, p<0.001) but no ISQ difference at placement or 3mo; both >68
-- [[immediate-implant/sierra-rebolledo-2021-undersized-drilling-immediate-tapered-implants-maxilla]] — Sierra-Rebolledo 2021 · rct · n=30 immediate maxillary implants; undersized drilling did NOT improve stability (IT 41.36 vs 38.44 Ncm p=0.654; ISQ higher in conventional, 12wk mean 68.10)
+- [[immediate-implant/primary-stability/sierra-rebolledo-2021-undersized-drilling-immediate-tapered-implants-maxilla]] — Sierra-Rebolledo 2021 · rct · n=30 immediate maxillary implants; undersized drilling did NOT improve stability (IT 41.36 vs 38.44 Ncm p=0.654; ISQ higher in conventional, 12wk mean 68.10)
 - [[implants/isq/ayub-2025-implant-macro-geometry-primary-stability-low-density]] — Ayub 2025 · in-vitro · 36-implant polyurethane test; Zimmer TSV highest IT/RT, Dentium Superline highest ISQ in bone types 3–4 (all p<0.001)
 - [[implants/khaohoen-2023-biomaterials-dental-implants-bone-density-narrative-review]] — Khaohoen 2023 · narrative-review · In low-density (D3–D4) bone, implant material (Ti gold standard), geometry, and surgical technique (osseodensification) jointly govern primary stability and success
 - [[implants/chen-2022-reverse-drilling-technique-alveolar-ridge-expansion]] — Chen 2022 · in-vitro · Reverse (counter-clockwise) Densah osseodensification drilling expands narrow (6.75 mm) ridges but seats implants shallower from bone stress/rebound
