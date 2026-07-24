@@ -49,10 +49,22 @@ def parse_fm(text):
         return None
     fm = text[4:end]
     d = {}
+    last_key = None
     for line in fm.split('\n'):
+        stripped = line.strip()
+        # block-list YAML (key:\n  - item) — join items so is_null() sees a real value
+        if stripped.startswith('-') and last_key is not None:
+            item = stripped[1:].strip().strip('"').strip("'")
+            d[last_key] = f"{d[last_key]}, {item}" if d.get(last_key) else item
+            continue
         if ':' in line and not line.startswith(' ') and not line.startswith('-'):
             k, _, v = line.partition(':')
-            d[k.strip()] = v.strip().strip('"').strip("'")
+            k = k.strip()
+            v = v.strip().strip('"').strip("'")
+            d[k] = v
+            last_key = k if not v else None
+        elif stripped:
+            last_key = None
     return d
 
 def is_null(v):
