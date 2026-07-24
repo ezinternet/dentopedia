@@ -5,7 +5,7 @@ year: 2023
 date: 2023-10-19
 doi: 10.3390/biomedicines11102606
 source: khan-2023-trigeminal-neuralgia-therapeutic-approach-sr.md
-category: oral-medicine
+category: oral-medicine/trigeminal-neuralgia
 evidence_level: sr
 source_collection: pubmed-text
 full_text: true
