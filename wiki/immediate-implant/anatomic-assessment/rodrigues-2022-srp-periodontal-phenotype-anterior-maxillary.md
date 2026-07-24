@@ -5,7 +5,7 @@ year: 2022
 date: 2021-09-16
 doi: 10.1007/s00784-021-04162-6
 source: rodrigues-2022-srp-periodontal-phenotype-anterior-maxillary.md
-category: [immediate-implant]
+category: [immediate-implant/anatomic-assessment]
 evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/rodrigues-2022-srp-periodontal-phenotype-anterior-maxillary.pdf
 pdf_filename: rodrigues-2022-srp-periodontal-phenotype-anterior-maxillary.pdf
