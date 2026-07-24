@@ -5,7 +5,7 @@ year: 2011
 date: 2011-07-01
 doi: 
 source: kan-2011-sagittal-root-position-immediate-implant-anterior.md
-category: [immediate-implant]
+category: [immediate-implant/anatomic-assessment]
 evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/kan-2011-sagittal-root-position-immediate-implant-anterior.pdf
 pdf_filename: kan-2011-sagittal-root-position-immediate-implant-anterior.pdf
