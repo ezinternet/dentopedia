@@ -454,7 +454,7 @@ tags: []
 - [[immediate-implant/esthetic-soft-tissue/deng-2024-posterior-open-wound-healing-immediate-implant]] — 후향 코호트(40 후방 즉시식립): 반응성 연조직(RST) vs 흡수성 콜라겐 스폰지(ACS) 개방창 치유 ~6개월 동등(ACS 색조↑, RST 섬유성 회복↑)
 - [[immediate-implant/li-2026-safety-feasibility-immediate-implant-diabetic]] — SR+MA (10 studies, 1,350 pts, 1,623 implants): 당뇨환자 즉시식립 생존율은 건강군과 동등(RR 1.00/0.96, NS)하나 혈당조절 불량 시 MBL·BOP 유의 증가(2026)
 - [[immediate-implant/primary-stability/hernandez-2026-wide-thread-implant-macrogeometry-immediate]] — SR (25 studies, no MA): wide-thread 매크로지오메트리는 즉시식립 시 저밀도골에서 IT/ISQ 향상, 생존율 93.9–98.6% 지연식립과 대등, RCT 확증 필요(2026)
-- [[immediate-implant/vandenbogaerde-2016-two-surfaces-fresh-sockets-immediately-loaded]] — split-mouth RCT(11명, 22 Neoss, 상악 발치와 즉시부하): 친수성 proactive 표면 12주 ISQ 유의 우수(+3.5 vs −0.3, p=0.021), 3년 MBL·생존 95.5% 동등
+- [[immediate-implant/primary-stability/vandenbogaerde-2016-two-surfaces-fresh-sockets-immediately-loaded]] — split-mouth RCT(11명, 22 Neoss, 상악 발치와 즉시부하): 친수성 proactive 표면 12주 ISQ 유의 우수(+3.5 vs −0.3, p=0.021), 3년 MBL·생존 95.5% 동등
 - [[immediate-implant/molar-septum/matsuda-2016-3d-alveolar-bone-maxillary-first-molar-cbct]] — CBCT(150 상악 1대구치): 구개치근 첨부가 상악동에 가장 깊이(−2.2mm), 협/구개 골판 1.58/1.34mm, 치근분지-동저 6.51mm; 3등급 IIP 적합도 틀(~32% 금기)
 - [[immediate-implant/patel-2023-immediate-vs-delayed-implant-survival-sr-ma]] — SR+MA(10편, 700 implants): 즉시 vs 지연 식립 생존율 차이 없음(RR 0.99, 95%CI 0.96–1.02, I²=0%; ~97%)
 - [[immediate-implant/loading-protocol/gjelvold-2021-immediate-delayed-loading-single-tooth-5year-rct]] — 5년 RCT(n=50, 상악 심미부 단일치): 즉시 vs 지연 부하 생존(100 vs 95.8%)·MBL(−0.50 vs −0.54mm)·심미 동등; 골소실은 흡연이 구동(p=0.021)
