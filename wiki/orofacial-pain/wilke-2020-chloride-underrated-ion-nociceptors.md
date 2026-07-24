@@ -56,4 +56,4 @@ Qualitative. Specific chloride conductances shape peripheral transduction, excit
 
 - [[orofacial-pain/price-2009-chloride-regulation-pain-pathway]] — the central/spinal chloride framework this paper extends to the periphery.
 - [[orofacial-pain/pathirathna-2005-t-type-calcium-gaba-neurosteroids]] — peripheral GABA-A and T-type modulation of nociception.
-- [[oral-medicine/kouri-2024-small-fiber-neuropathy-burning-mouth-syndrome]] — clinical small-fiber/ion-channel marker changes (TRPV1, Nav1.7) consistent with this nociceptor-excitability substrate.
+- [[oral-medicine/burning-mouth-syndrome/kouri-2024-small-fiber-neuropathy-burning-mouth-syndrome]] — clinical small-fiber/ion-channel marker changes (TRPV1, Nav1.7) consistent with this nociceptor-excitability substrate.

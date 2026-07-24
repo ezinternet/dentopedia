@@ -56,6 +56,6 @@ Systematic review following PRISMA, protocol pre-registered in PROSPERO (CRD4202
 
 ## Related Papers
 
-- [[oral-medicine/jaaskelainen-2018-burning-mouth-syndrome-neuropathic-pain]] — neuropathic subtype framing this SR quantifies.
-- [[oral-medicine/canfora-2025-burning-mouth-syndrome-pathogenesis-review]] — broader pathogenesis review.
+- [[oral-medicine/burning-mouth-syndrome/jaaskelainen-2018-burning-mouth-syndrome-neuropathic-pain]] — neuropathic subtype framing this SR quantifies.
+- [[oral-medicine/burning-mouth-syndrome/canfora-2025-burning-mouth-syndrome-pathogenesis-review]] — broader pathogenesis review.
 - [[orofacial-pain/wilke-2020-chloride-underrated-ion-nociceptors]] — molecular substrate (nociceptor ion channels: TRPV1, Nav1.7) underlying the observed marker changes.

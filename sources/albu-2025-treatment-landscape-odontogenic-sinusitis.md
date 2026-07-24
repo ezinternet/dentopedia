@@ -15,7 +15,7 @@ text_filename: albu-2025-treatment-landscape-odontogenic-sinusitis.txt
 
 ## Why Ingested
 
-기존 [[oral-medicine/craig-2022-odontogenic-sinusitis-state-art]] ODS 클러스터에 최신(2025) 치료전략 종합 추가 — 항생제(amox-clav 경험적) 위치, 치과치료 vs ESS 순서, 병행수술 ~97% 성공이라는 실무 의사결정축 보강. sinus augmentation 합병증 맥락과도 연결.
+기존 [[oral-medicine/odontogenic-sinusitis/craig-2022-odontogenic-sinusitis-state-art]] ODS 클러스터에 최신(2025) 치료전략 종합 추가 — 항생제(amox-clav 경험적) 위치, 치과치료 vs ESS 순서, 병행수술 ~97% 성공이라는 실무 의사결정축 보강. sinus augmentation 합병증 맥락과도 연결.
 
 ## Three-line Summary
 

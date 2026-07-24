@@ -15,7 +15,7 @@ text_filename: alkhutari-2023-post-traumatic-trigeminal-neuropathy-endodontic-sr
 
 ## Why Ingested
 
-삼차신경통 치과 감시 인제스트 — 근관치료(RCT)가 유발하는 외상성 삼차신경병증(painful post-traumatic trigeminal neuropathy, PTTN), 즉 술자가 직접 야기하는 의인성(iatrogenic) 신경손상을 다룬다. 발치·임플란트와 함께 PTTN의 주요 원인 중 하나가 근관치료(전체 삼차신경손상의 6-8%)이며, 지속성 치아치조통(persistent dentoalveolar pain, PDAP)·비전형 치통(atypical odontalgia, AO)으로 오진되어 불필요한 재치료가 반복되는 임상 함정을 정량화한다. 형제 삼차신경통 페이지 [[oral-medicine/khan-2023-trigeminal-neuralgia-therapeutic-approach-sr]]를 보강하고, 구강안면통증·신경병증 진단을 다루는 [[oral-medicine/jaaskelainen-2018-burning-mouth-syndrome-neuropathic-pain]] 및 [[oral-medicine/kouri-2024-small-fiber-neuropathy-burning-mouth-syndrome]]와 신경병증성 통증 기전을 공유한다.
+삼차신경통 치과 감시 인제스트 — 근관치료(RCT)가 유발하는 외상성 삼차신경병증(painful post-traumatic trigeminal neuropathy, PTTN), 즉 술자가 직접 야기하는 의인성(iatrogenic) 신경손상을 다룬다. 발치·임플란트와 함께 PTTN의 주요 원인 중 하나가 근관치료(전체 삼차신경손상의 6-8%)이며, 지속성 치아치조통(persistent dentoalveolar pain, PDAP)·비전형 치통(atypical odontalgia, AO)으로 오진되어 불필요한 재치료가 반복되는 임상 함정을 정량화한다. 형제 삼차신경통 페이지 [[oral-medicine/trigeminal-neuralgia/khan-2023-trigeminal-neuralgia-therapeutic-approach-sr]]를 보강하고, 구강안면통증·신경병증 진단을 다루는 [[oral-medicine/burning-mouth-syndrome/jaaskelainen-2018-burning-mouth-syndrome-neuropathic-pain]] 및 [[oral-medicine/burning-mouth-syndrome/kouri-2024-small-fiber-neuropathy-burning-mouth-syndrome]]와 신경병증성 통증 기전을 공유한다.
 
 ## Three-line Summary
 
@@ -82,9 +82,9 @@ Pre-procedural counseling and a high index of suspicion for PTTN are warranted i
 
 ## 6. Related Work
 
-- [[oral-medicine/khan-2023-trigeminal-neuralgia-therapeutic-approach-sr]] — sibling trigeminal pain SR (therapeutic approach to trigeminal neuralgia).
-- [[oral-medicine/jaaskelainen-2018-burning-mouth-syndrome-neuropathic-pain]] — neuropathic-pain mechanism overlap.
-- [[oral-medicine/kouri-2024-small-fiber-neuropathy-burning-mouth-syndrome]] — small-fiber/trigeminal neuropathy diagnostic context.
+- [[oral-medicine/trigeminal-neuralgia/khan-2023-trigeminal-neuralgia-therapeutic-approach-sr]] — sibling trigeminal pain SR (therapeutic approach to trigeminal neuralgia).
+- [[oral-medicine/burning-mouth-syndrome/jaaskelainen-2018-burning-mouth-syndrome-neuropathic-pain]] — neuropathic-pain mechanism overlap.
+- [[oral-medicine/burning-mouth-syndrome/kouri-2024-small-fiber-neuropathy-burning-mouth-syndrome]] — small-fiber/trigeminal neuropathy diagnostic context.
 
 ## 7. Glossary
 

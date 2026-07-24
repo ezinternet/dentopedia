@@ -44,4 +44,4 @@ International Delphi consensus (n=31 experts) renaming BMS to Burning Mouth Diso
 Name change and criteria refinement achieved consensus. Core criteria: ≥3 months burning oral sensation with normal mucosa.
 
 ## Related Papers
-- [[oral-medicine/canfora-2025-burning-mouth-syndrome-pathogenesis-review]] — related
+- [[oral-medicine/burning-mouth-syndrome/canfora-2025-burning-mouth-syndrome-pathogenesis-review]] — related

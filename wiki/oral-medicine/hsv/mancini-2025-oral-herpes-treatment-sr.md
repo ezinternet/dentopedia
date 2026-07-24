@@ -57,5 +57,5 @@ Topical agents shorten lesion duration/local symptoms only with early applicatio
 
 - [[oral-medicine/hsv/coppola-2023-herpetic-gingivostomatitis-sr]] — reinforces (primary-infection companion SR)
 - [[oral-medicine/hsv/lv-2025-anti-hsv1-agents-update]] — extends (antiviral pharmacology basis)
-- [[oral-medicine/kechichian-2024-erythema-multiforme-review]] — applies-to (suppressive antivirals for HSV-driven EM)
+- [[oral-medicine/immune-mediated/kechichian-2024-erythema-multiforme-review]] — applies-to (suppressive antivirals for HSV-driven EM)
 - [[overviews/oral-medicine-decision-ladder]] — vesiculo-ulcerative axis

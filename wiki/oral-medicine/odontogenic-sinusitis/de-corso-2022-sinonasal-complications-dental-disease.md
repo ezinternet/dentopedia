@@ -94,6 +94,6 @@ De Corso et al. report a real-world tertiary-center experience managing 262 pati
 
 ## Related Papers
 
-- [[oral-medicine/psillas-2020-odontogenic-maxillary-sinusitis-comprehensive-review]] — comprehensive narrative review of OMS epidemiology, diagnosis, and management that this cohort reinforces with prospective outcome data
-- [[oral-medicine/lin-2024-odontogenic-maxillary-sinusitis-expert-consensus]] — expert consensus on OMS management; this real-world cohort supports the multidisciplinary approach and FESS-first strategy recommended in the consensus
-- [[oral-medicine/kim-2019-definition-management-odontogenic-maxillary]] — foundational definition and management framework for OMS that this paper extends with the Felisati SCDDT classification applied at scale
+- [[oral-medicine/odontogenic-sinusitis/psillas-2020-odontogenic-maxillary-sinusitis-comprehensive-review]] — comprehensive narrative review of OMS epidemiology, diagnosis, and management that this cohort reinforces with prospective outcome data
+- [[oral-medicine/odontogenic-sinusitis/lin-2024-odontogenic-maxillary-sinusitis-expert-consensus]] — expert consensus on OMS management; this real-world cohort supports the multidisciplinary approach and FESS-first strategy recommended in the consensus
+- [[oral-medicine/odontogenic-sinusitis/kim-2019-definition-management-odontogenic-maxillary]] — foundational definition and management framework for OMS that this paper extends with the Felisati SCDDT classification applied at scale

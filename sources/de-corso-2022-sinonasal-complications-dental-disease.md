@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-OMS (구강원성 상악동염, Odontogenic Maxillary Sinusitis) 클러스터 보강 목적 — 기존 [[oral-medicine/psillas-2020-odontogenic-maxillary-sinusitis-comprehensive-review]] 및 [[oral-medicine/lin-2024-odontogenic-maxillary-sinusitis-expert-consensus]]가 리뷰/consensus 레벨인 반면, 본 De Corso 2022 논문은 262례 대규모 후향적 코호트로 내시경적 접근의 실제 치료 성과(96.5% 성공률, SNOT-22 43.4→6)와 OAF 동시 처치 프로토콜을 제공하여 임상 의사결정 근거를 보강한다.
+OMS (구강원성 상악동염, Odontogenic Maxillary Sinusitis) 클러스터 보강 목적 — 기존 [[oral-medicine/odontogenic-sinusitis/psillas-2020-odontogenic-maxillary-sinusitis-comprehensive-review]] 및 [[oral-medicine/odontogenic-sinusitis/lin-2024-odontogenic-maxillary-sinusitis-expert-consensus]]가 리뷰/consensus 레벨인 반면, 본 De Corso 2022 논문은 262례 대규모 후향적 코호트로 내시경적 접근의 실제 치료 성과(96.5% 성공률, SNOT-22 43.4→6)와 OAF 동시 처치 프로토콜을 제공하여 임상 의사결정 근거를 보강한다.
 
 ## Three-line Summary
 

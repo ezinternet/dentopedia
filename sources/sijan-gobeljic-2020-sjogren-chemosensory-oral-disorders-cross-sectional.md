@@ -15,7 +15,7 @@ text_filename: sijan-gobeljic-2020-sjogren-chemosensory-oral-disorders-cross-sec
 
 ## Why Ingested
 
-미각상실·침분비저하 관련 논문을 COVID와 무관한 범주로 확장하던 중, 자가면역질환(Sjögren 증후군)을 병인으로 하는 미각·후각 기능이상을 직접 정량 측정한 대조군 연구를 발견. 기존 [[implants/almeida-2017-dental-implants-sjogren-syndrome-sr]]·[[oral-medicine/poudel-2026-xerostomia-dental-treatment-outcomes-sr]]가 Sjögren의 치료 결과(임플란트·보철)를 다뤘다면, 본 cross-sectional study는 Sjögren 환자의 미각상실·미각이상(dysgeusia) 자체를 정량 측정하고 침분비저하와의 관계(약한 상관관계에 그침)를 직접 검증한 원자료를 제공한다.
+미각상실·침분비저하 관련 논문을 COVID와 무관한 범주로 확장하던 중, 자가면역질환(Sjögren 증후군)을 병인으로 하는 미각·후각 기능이상을 직접 정량 측정한 대조군 연구를 발견. 기존 [[implants/almeida-2017-dental-implants-sjogren-syndrome-sr]]·[[oral-medicine/salivary-chemosensory/poudel-2026-xerostomia-dental-treatment-outcomes-sr]]가 Sjögren의 치료 결과(임플란트·보철)를 다뤘다면, 본 cross-sectional study는 Sjögren 환자의 미각상실·미각이상(dysgeusia) 자체를 정량 측정하고 침분비저하와의 관계(약한 상관관계에 그침)를 직접 검증한 원자료를 제공한다.
 
 ## Three-line Summary
 

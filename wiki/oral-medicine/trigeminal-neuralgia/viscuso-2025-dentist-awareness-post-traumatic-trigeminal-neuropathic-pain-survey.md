@@ -74,8 +74,8 @@ Viscuso et al. ran an anonymous Google Forms epidemiological survey of 634 Itali
 
 ## Related Papers
 
-- [[oral-medicine/jaaskelainen-2018-burning-mouth-syndrome-neuropathic-pain]] — reinforces: neuropathic-pain mechanism framing of orofacial pain that PTTN belongs to.
-- [[oral-medicine/kouri-2024-small-fiber-neuropathy-burning-mouth-syndrome]] — sibling orofacial neuropathic-pain entity (small-fiber neuropathy in BMS).
+- [[oral-medicine/burning-mouth-syndrome/jaaskelainen-2018-burning-mouth-syndrome-neuropathic-pain]] — reinforces: neuropathic-pain mechanism framing of orofacial pain that PTTN belongs to.
+- [[oral-medicine/burning-mouth-syndrome/kouri-2024-small-fiber-neuropathy-burning-mouth-syndrome]] — sibling orofacial neuropathic-pain entity (small-fiber neuropathy in BMS).
 - [[overviews/bms-orofacial-pain-neuropathic-mechanism-overview]] — synthesis page; this survey adds the clinical recognition/awareness-gap dimension.
 
 <!-- Note: requested siblings alkhutari-2023-post-traumatic-trigeminal-neuropathy-endodontic-sr and khan-2023-trigeminal-neuralgia-therapeutic-approach-sr do not currently exist in the wiki; linked verified existing pages instead. -->

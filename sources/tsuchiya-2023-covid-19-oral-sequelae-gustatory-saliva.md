@@ -15,7 +15,7 @@ text_filename: tsuchiya-2023-covid-19-oral-sequelae-gustatory-saliva.txt
 
 ## Why Ingested
 
-미각상실(taste loss/dysgeusia)과 침분비저하(hyposalivation/xerostomia)를 동시에 다루는 논문 요청에 대응. 기존 [[oral-medicine/poudel-2026-xerostomia-dental-treatment-outcomes-sr]]는 xerostomia가 치과치료 결과(보철·임플란트)에 미치는 영향을 다루지만, 두 증상이 **함께 발생하는 기전**(공통 병태생리)을 다룬 페이지는 없었다. 본 narrative review(Tsuchiya 2023)는 미각장애와 타액분비장애가 ACE2/TRPV1 수용체 발현 및 아연결핍이라는 공통 기전으로 동시 발생·지속됨을 제시해 공백을 메운다.
+미각상실(taste loss/dysgeusia)과 침분비저하(hyposalivation/xerostomia)를 동시에 다루는 논문 요청에 대응. 기존 [[oral-medicine/salivary-chemosensory/poudel-2026-xerostomia-dental-treatment-outcomes-sr]]는 xerostomia가 치과치료 결과(보철·임플란트)에 미치는 영향을 다루지만, 두 증상이 **함께 발생하는 기전**(공통 병태생리)을 다룬 페이지는 없었다. 본 narrative review(Tsuchiya 2023)는 미각장애와 타액분비장애가 ACE2/TRPV1 수용체 발현 및 아연결핍이라는 공통 기전으로 동시 발생·지속됨을 제시해 공백을 메운다.
 
 ## Three-line Summary
 

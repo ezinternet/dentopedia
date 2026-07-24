@@ -86,7 +86,7 @@ Synaptic inhibition by GABA-A and glycine receptors is carried by Cl⁻ flux, so
 
 ## 4. The clinical phenotype — BMS as neuropathic pain
 
-[[oral-medicine/jaaskelainen-2018-burning-mouth-syndrome-neuropathic-pain]] (NeuPSIG/IASP review) concludes primary BMS is a neuropathic condition with neurophysiologically verifiable lesions, and proposes a clinically actionable **two-subtype model**:
+[[oral-medicine/burning-mouth-syndrome/jaaskelainen-2018-burning-mouth-syndrome-neuropathic-pain]] (NeuPSIG/IASP review) concludes primary BMS is a neuropathic condition with neurophysiologically verifiable lesions, and proposes a clinically actionable **two-subtype model**:
 
 - **Peripheral** type — responds to peripheral lidocaine blocks and **topical clonazepam**; small-fiber/trigeminal involvement on QST, electrogustatometry, epithelial nerve fiber density.
 - **Central** type — does **not** respond to local treatment; associated with psychiatric comorbidity and deficient striatal dopamine (neurotransmitter-PET).
@@ -94,7 +94,7 @@ Synaptic inhibition by GABA-A and glycine receptors is carried by Cl⁻ flux, so
 
 Its unifying hypothesis: in postmenopausal women, decline in neuroprotective gonadal hormones plus rising stress hormones renders small fibers and basal ganglia vulnerable to neurotoxic damage — dovetailing with the neurosteroid axis of Section 3.
 
-[[oral-medicine/kouri-2024-small-fiber-neuropathy-burning-mouth-syndrome]] (PRISMA SR, PROSPERO CRD42024555839) quantifies the peripheral arm: across 8 biopsy studies, **30–60% reduction in tongue/intraepithelial nerve fiber density**, with increased TRPV1⁺/NGF⁺/P2X3⁺ fibers, **Nav1.7 overexpression**, slight Nav1.9 mRNA underexpression, increased artemin mRNA, and QST abnormalities (reduced cool detection and cold-pain thresholds) in 7 studies. It establishes small fiber neuropathy (SFN) as a core BMS mechanism (heterogeneity precluded meta-analysis; causality not established).
+[[oral-medicine/burning-mouth-syndrome/kouri-2024-small-fiber-neuropathy-burning-mouth-syndrome]] (PRISMA SR, PROSPERO CRD42024555839) quantifies the peripheral arm: across 8 biopsy studies, **30–60% reduction in tongue/intraepithelial nerve fiber density**, with increased TRPV1⁺/NGF⁺/P2X3⁺ fibers, **Nav1.7 overexpression**, slight Nav1.9 mRNA underexpression, increased artemin mRNA, and QST abnormalities (reduced cool detection and cold-pain thresholds) in 7 studies. It establishes small fiber neuropathy (SFN) as a core BMS mechanism (heterogeneity precluded meta-analysis; causality not established).
 
 ## 5. Mechanism → clinical bridge
 
@@ -127,8 +127,8 @@ Only **~3% of trigeminal nerve injuries progress to PTNP** (3.3% after facial fr
 - [[orofacial-pain/price-2009-chloride-regulation-pain-pathway]] — central disinhibition substrate (NKCC1/KCC2, E_Cl); spinal.
 - [[orofacial-pain/wilke-2020-chloride-underrated-ion-nociceptors]] — peripheral inversion; nociceptor Cl⁻-channel repertoire (TMEM16A).
 - [[orofacial-pain/pathirathna-2005-t-type-calcium-gaba-neurosteroids]] — neurosteroid → T-type Ca²⁺ block as primary peripheral analgesia; GABA-A amplifies.
-- [[oral-medicine/jaaskelainen-2018-burning-mouth-syndrome-neuropathic-pain]] — BMS peripheral vs central subtype model; treatment-response split.
-- [[oral-medicine/kouri-2024-small-fiber-neuropathy-burning-mouth-syndrome]] — PRISMA SR quantifying SFN in BMS (30–60% IENFD loss; Nav1.7/TRPV1).
+- [[oral-medicine/burning-mouth-syndrome/jaaskelainen-2018-burning-mouth-syndrome-neuropathic-pain]] — BMS peripheral vs central subtype model; treatment-response split.
+- [[oral-medicine/burning-mouth-syndrome/kouri-2024-small-fiber-neuropathy-burning-mouth-syndrome]] — PRISMA SR quantifying SFN in BMS (30–60% IENFD loss; Nav1.7/TRPV1).
 - [[orofacial-pain/kim-2024-trigeminal-sensory-system-orofacial-pain]] — trigeminal ganglion/Sp5 circuit anatomy; Sp5C central-sensitization substrate shared across neuropathic pain, TN, headache, BMS.
 - [[orofacial-pain/korczeniewska-2022-pathophysiology-post-traumatic-trigeminal-neuropathic]] — peripheral PTNP cascade (chemokines, ion channels, SGC activation); Cav3.2/miR-32-5p link back to Section 3's T-type axis.
 - [[oral-medicine-decision-ladder]] — clinical BMS diagnosis/treatment ladder (this page is its mechanistic backbone).

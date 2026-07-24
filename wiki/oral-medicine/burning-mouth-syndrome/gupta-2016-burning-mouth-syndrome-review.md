@@ -44,4 +44,4 @@ Narrative review.
 BMS pathogenesis involves peripheral neuropathy + psychological distress. Alpha-lipoic acid and clonazepam have RCT evidence.
 
 ## Related Papers
-- [[oral-medicine/canfora-2025-burning-mouth-syndrome-pathogenesis-review]] — related
+- [[oral-medicine/burning-mouth-syndrome/canfora-2025-burning-mouth-syndrome-pathogenesis-review]] — related

@@ -44,4 +44,4 @@ PubMed narrative review.
 Topical corticosteroids remain gold standard. LLLT effective and safe alternative especially for frequent recurrences.
 
 ## Related Papers
-- [[oral-medicine/manfredini-2021-recurrent-aphthous-stomatitis-treatment]] — related
+- [[oral-medicine/aphthous-stomatitis/manfredini-2021-recurrent-aphthous-stomatitis-treatment]] — related

@@ -67,6 +67,6 @@ Narrative mechanistic review integrating salivary gland anatomy/histology, knock
 
 ## Related Papers
 
-- [[oral-medicine/poudel-2026-xerostomia-dental-treatment-outcomes-sr]] — clinical dental-treatment outcomes of xerostomia; this paper supplies the underlying cellular mechanism. (`relations: extends`)
-- [[oral-medicine/ramirez-martinez-acitores-2020-antihypertensive-xerostomia-salivary-flow-sr]] — antihypertensive-induced xerostomia; mechanistically explained here via anticholinergic/α1-adrenergic disruption of the Ca²⁺–AQP5 axis.
-- [[oral-medicine/sijan-gobeljic-2020-sjogren-chemosensory-oral-disorders-cross-sectional]] — Sjögren's chemosensory disorders; this review details Sjögren's acinar destruction and receptor upregulation.
+- [[oral-medicine/salivary-chemosensory/poudel-2026-xerostomia-dental-treatment-outcomes-sr]] — clinical dental-treatment outcomes of xerostomia; this paper supplies the underlying cellular mechanism. (`relations: extends`)
+- [[oral-medicine/salivary-chemosensory/ramirez-martinez-acitores-2020-antihypertensive-xerostomia-salivary-flow-sr]] — antihypertensive-induced xerostomia; mechanistically explained here via anticholinergic/α1-adrenergic disruption of the Ca²⁺–AQP5 axis.
+- [[oral-medicine/salivary-chemosensory/sijan-gobeljic-2020-sjogren-chemosensory-oral-disorders-cross-sectional]] — Sjögren's chemosensory disorders; this review details Sjögren's acinar destruction and receptor upregulation.

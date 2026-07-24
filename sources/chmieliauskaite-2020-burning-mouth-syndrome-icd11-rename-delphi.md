@@ -49,7 +49,7 @@ This consensus is a terminology and classification update rather than a clinical
 Delphi 결과는 근거 기반이 아닌 전문가 의견.
 
 ## 6. Related Work
-- [[oral-medicine/canfora-2025-burning-mouth-syndrome-pathogenesis-review]] — related
+- [[oral-medicine/burning-mouth-syndrome/canfora-2025-burning-mouth-syndrome-pathogenesis-review]] — related
 
 ## 7. Glossary
 BMD: Burning Mouth Disorder; ICHD-3: 국제두통질환분류 제3판; Delphi method: 델파이법

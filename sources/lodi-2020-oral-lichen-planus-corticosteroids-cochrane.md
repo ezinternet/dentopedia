@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-Provides the highest-evidence anchor for OLP symptomatic treatment, complementing the comparative-cost SR [[oral-medicine/sandhu-2022-oral-lichen-planus-treatment-sr]] and the management review [[oral-medicine/srivastava-2022-oral-lichen-planus-diagnosis-management-review]].
+Provides the highest-evidence anchor for OLP symptomatic treatment, complementing the comparative-cost SR [[oral-medicine/lichen-planus/sandhu-2022-oral-lichen-planus-treatment-sr]] and the management review [[oral-medicine/lichen-planus/srivastava-2022-oral-lichen-planus-diagnosis-management-review]].
 
 ## Three-line Summary
 

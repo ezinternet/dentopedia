@@ -72,6 +72,6 @@ Narrative review. Literature searched in MEDLINE (PubMed), Embase, Cochrane Libr
 
 ## Related Papers
 
-- [[oral-medicine/psillas-2020-odontogenic-maxillary-sinusitis-comprehensive-review]] — 2020 comprehensive review extending epidemiology and diagnosis, same category
-- [[oral-medicine/lin-2024-odontogenic-maxillary-sinusitis-expert-consensus]] — 2024 Chinese expert consensus providing standardized multidisciplinary OMS classification and treatment algorithm
+- [[oral-medicine/odontogenic-sinusitis/psillas-2020-odontogenic-maxillary-sinusitis-comprehensive-review]] — 2020 comprehensive review extending epidemiology and diagnosis, same category
+- [[oral-medicine/odontogenic-sinusitis/lin-2024-odontogenic-maxillary-sinusitis-expert-consensus]] — 2024 Chinese expert consensus providing standardized multidisciplinary OMS classification and treatment algorithm
 - [[sinus-lift/pseudocyst/anitua-2021-mucous-cysts-pseudocysts-implants-sr]] — SR on mucous retention cysts in sinus context; OMS differential diagnosis overlap

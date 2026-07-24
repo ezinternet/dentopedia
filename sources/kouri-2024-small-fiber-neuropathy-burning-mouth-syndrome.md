@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-[[oral-medicine/jaaskelainen-2018-burning-mouth-syndrome-neuropathic-pain]]가 제시한 BMS 말초 small fiber 손상 가설을 PRISMA 체계적 고찰로 정량화. [[oral-medicine/canfora-2025-burning-mouth-syndrome-pathogenesis-review]] 병태생리 페이지를 분자 마커(TRPV1, P2X3, Nav1.7/1.9, NGF) 수준으로 보강하며, 말초 기전을 [[orofacial-pain/wilke-2020-chloride-underrated-ion-nociceptors]]의 nociceptor 흥분성 분자 substrate와 연결한다.
+[[oral-medicine/burning-mouth-syndrome/jaaskelainen-2018-burning-mouth-syndrome-neuropathic-pain]]가 제시한 BMS 말초 small fiber 손상 가설을 PRISMA 체계적 고찰로 정량화. [[oral-medicine/burning-mouth-syndrome/canfora-2025-burning-mouth-syndrome-pathogenesis-review]] 병태생리 페이지를 분자 마커(TRPV1, P2X3, Nav1.7/1.9, NGF) 수준으로 보강하며, 말초 기전을 [[orofacial-pain/wilke-2020-chloride-underrated-ion-nociceptors]]의 nociceptor 흥분성 분자 substrate와 연결한다.
 
 ## Three-line Summary
 
@@ -66,8 +66,8 @@ PRISMA 체계적 고찰(PROSPERO CRD42024555839) — BMS 환자 혀 생검에서
 
 ## 6. Related Work
 
-- [[oral-medicine/jaaskelainen-2018-burning-mouth-syndrome-neuropathic-pain]] — the subtype/neuropathic framing this SR quantifies.
-- [[oral-medicine/canfora-2025-burning-mouth-syndrome-pathogenesis-review]] — broader pathogenesis review.
+- [[oral-medicine/burning-mouth-syndrome/jaaskelainen-2018-burning-mouth-syndrome-neuropathic-pain]] — the subtype/neuropathic framing this SR quantifies.
+- [[oral-medicine/burning-mouth-syndrome/canfora-2025-burning-mouth-syndrome-pathogenesis-review]] — broader pathogenesis review.
 - [[orofacial-pain/wilke-2020-chloride-underrated-ion-nociceptors]] — molecular substrate (nociceptor ion channels) underlying the marker changes.
 
 ## 7. Glossary

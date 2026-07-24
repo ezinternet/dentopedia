@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-[[orofacial-pain/price-2009-chloride-regulation-pain-pathway]]가 다룬 척수(중추) Cl⁻ 조절을 말초 1차 구심신경(DRG/nociceptor) 수준으로 확장하는 open-access 리뷰. BMS 말초형의 small fiber 과흥분 기전([[oral-medicine/kouri-2024-small-fiber-neuropathy-burning-mouth-syndrome]]의 TRPV1·Nav1.7 과발현)과 연결되는 분자 substrate.
+[[orofacial-pain/price-2009-chloride-regulation-pain-pathway]]가 다룬 척수(중추) Cl⁻ 조절을 말초 1차 구심신경(DRG/nociceptor) 수준으로 확장하는 open-access 리뷰. BMS 말초형의 small fiber 과흥분 기전([[oral-medicine/burning-mouth-syndrome/kouri-2024-small-fiber-neuropathy-burning-mouth-syndrome]]의 TRPV1·Nav1.7 과발현)과 연결되는 분자 substrate.
 
 ## Three-line Summary
 

@@ -59,4 +59,4 @@ T-type Ca²⁺ channels (CaV3.2) are implicated in trigeminal/facial pain, and n
 
 - [[orofacial-pain/price-2009-chloride-regulation-pain-pathway]] — GABA-A/chloride inhibition framework that this study's GABA-A arm operates within.
 - [[orofacial-pain/wilke-2020-chloride-underrated-ion-nociceptors]] — peripheral nociceptor ion-channel landscape.
-- [[oral-medicine/jaaskelainen-2018-burning-mouth-syndrome-neuropathic-pain]] — BMS gonadal/neurosteroid-decline hypothesis.
+- [[oral-medicine/burning-mouth-syndrome/jaaskelainen-2018-burning-mouth-syndrome-neuropathic-pain]] — BMS gonadal/neurosteroid-decline hypothesis.

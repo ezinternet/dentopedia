@@ -44,4 +44,4 @@ Narrative review.
 LP is chronic and relapsing. Oral LP cannot be cured; long-term management required.
 
 ## Related Papers
-- [[oral-medicine/srivastava-2022-oral-lichen-planus-diagnosis-management-review]] — related
+- [[oral-medicine/lichen-planus/srivastava-2022-oral-lichen-planus-diagnosis-management-review]] — related

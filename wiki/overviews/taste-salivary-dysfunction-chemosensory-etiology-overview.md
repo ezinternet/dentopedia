@@ -69,11 +69,11 @@ The clinical bottom line: taste and dry-mouth complaints must be evaluated toget
 
 | 병인 | Spine paper | Evidence | Key finding | 미뢰 vs 타액선 매개 |
 |---|---|---|---|---|
-| ① 아연결핍 | [[oral-medicine/kodama-2020-zinc-deficiency-guidelines-taste-disorders]] | consensus (JP 가이드라인) | 혈청 Zn 컷오프, 폴라프레진크 ≥3개월(13.6→58.8%) | 아연 매개(미뢰 재생 장애) |
-| ② 방사선(HNSCC) | [[oral-medicine/morelli-2023-radiation-dose-taste-alteration-hnscc]] | prospective (n=31) | dysgeusia ~ 악하선·이하선 선량(p=0.05), 미뢰 선량 아님 | **타액선 매개** |
-| ③ 약물(항고혈압) | [[oral-medicine/ramirez-martinez-acitores-2020-antihypertensive-xerostomia-salivary-flow-sr]] | sr (13편) | 대조군 대비 구강건조 유발 확증 불가; 캅토프릴 유량 *증가* | 불확실(개별 평가) |
-| ④ 자가면역(쇼그렌) | [[oral-medicine/sijan-gobeljic-2020-sjogren-chemosensory-oral-disorders-cross-sectional]] | cross-sectional (n=58) | dysgeusia 52.6%·설작열감 45.6%; 타액유량과 약한 상관 | 병렬(인터페론+hyposalivation) |
-| ⑤ 바이러스(COVID-19) | [[oral-medicine/tsuchiya-2023-covid-19-oral-sequelae-gustatory-saliva]] | narrative-review | 미각 1–45%·타액 2–40% 지속, 상관; ACE2/TRPV1+아연 | 병렬(미뢰+타액선 공동) |
+| ① 아연결핍 | [[oral-medicine/salivary-chemosensory/kodama-2020-zinc-deficiency-guidelines-taste-disorders]] | consensus (JP 가이드라인) | 혈청 Zn 컷오프, 폴라프레진크 ≥3개월(13.6→58.8%) | 아연 매개(미뢰 재생 장애) |
+| ② 방사선(HNSCC) | [[oral-medicine/salivary-chemosensory/morelli-2023-radiation-dose-taste-alteration-hnscc]] | prospective (n=31) | dysgeusia ~ 악하선·이하선 선량(p=0.05), 미뢰 선량 아님 | **타액선 매개** |
+| ③ 약물(항고혈압) | [[oral-medicine/salivary-chemosensory/ramirez-martinez-acitores-2020-antihypertensive-xerostomia-salivary-flow-sr]] | sr (13편) | 대조군 대비 구강건조 유발 확증 불가; 캅토프릴 유량 *증가* | 불확실(개별 평가) |
+| ④ 자가면역(쇼그렌) | [[oral-medicine/salivary-chemosensory/sijan-gobeljic-2020-sjogren-chemosensory-oral-disorders-cross-sectional]] | cross-sectional (n=58) | dysgeusia 52.6%·설작열감 45.6%; 타액유량과 약한 상관 | 병렬(인터페론+hyposalivation) |
+| ⑤ 바이러스(COVID-19) | [[oral-medicine/salivary-chemosensory/tsuchiya-2023-covid-19-oral-sequelae-gustatory-saliva]] | narrative-review | 미각 1–45%·타액 2–40% 지속, 상관; ACE2/TRPV1+아연 | 병렬(미뢰+타액선 공동) |
 
 ### 임상 감별·의사결정
 
@@ -98,12 +98,12 @@ The clinical bottom line: taste and dry-mouth complaints must be evaluated toget
 
 ## Related Papers
 
-- [[oral-medicine/kodama-2020-zinc-deficiency-guidelines-taste-disorders]] — 일본 아연결핍 가이드라인; 혈청 컷오프·폴라프레진크 ≥3개월 시도 (consensus, 2020)
-- [[oral-medicine/morelli-2023-radiation-dose-taste-alteration-hnscc]] — IMRT 미각이상이 타액선 선량과 상관(미뢰 아님) (prospective, 2023)
-- [[oral-medicine/ramirez-martinez-acitores-2020-antihypertensive-xerostomia-salivary-flow-sr]] — 항고혈압제 구강건조 확증 불가 SR (sr, 2020)
-- [[oral-medicine/sijan-gobeljic-2020-sjogren-chemosensory-oral-disorders-cross-sectional]] — 쇼그렌 chemosensory 부담·OHRQoL, 타액유량과 약한 상관 (cross-sectional, 2020)
-- [[oral-medicine/tsuchiya-2023-covid-19-oral-sequelae-gustatory-saliva]] — COVID 미각·타액 지속장애 공통기전(ACE2/TRPV1+아연) (narrative-review, 2023)
-- [[oral-medicine/poudel-2026-xerostomia-dental-treatment-outcomes-sr]] — 구강건조가 수복·임플란트 결과에 미치는 영향(병인 무관 하류 결과) (sr, 2026)
+- [[oral-medicine/salivary-chemosensory/kodama-2020-zinc-deficiency-guidelines-taste-disorders]] — 일본 아연결핍 가이드라인; 혈청 컷오프·폴라프레진크 ≥3개월 시도 (consensus, 2020)
+- [[oral-medicine/salivary-chemosensory/morelli-2023-radiation-dose-taste-alteration-hnscc]] — IMRT 미각이상이 타액선 선량과 상관(미뢰 아님) (prospective, 2023)
+- [[oral-medicine/salivary-chemosensory/ramirez-martinez-acitores-2020-antihypertensive-xerostomia-salivary-flow-sr]] — 항고혈압제 구강건조 확증 불가 SR (sr, 2020)
+- [[oral-medicine/salivary-chemosensory/sijan-gobeljic-2020-sjogren-chemosensory-oral-disorders-cross-sectional]] — 쇼그렌 chemosensory 부담·OHRQoL, 타액유량과 약한 상관 (cross-sectional, 2020)
+- [[oral-medicine/salivary-chemosensory/tsuchiya-2023-covid-19-oral-sequelae-gustatory-saliva]] — COVID 미각·타액 지속장애 공통기전(ACE2/TRPV1+아연) (narrative-review, 2023)
+- [[oral-medicine/salivary-chemosensory/poudel-2026-xerostomia-dental-treatment-outcomes-sr]] — 구강건조가 수복·임플란트 결과에 미치는 영향(병인 무관 하류 결과) (sr, 2026)
 - [[geriatric-dentistry/halasabalu-kalgeri-2026-polypharmacy-oral-health-elderly]] — 다약제 구강건조 상위 맥락(③이 정직하게 한정하는 대상) (narrative-review, 2026)
 
 확신도 등급:

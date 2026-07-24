@@ -15,7 +15,7 @@ text_filename: mawardi-2023-semaglutide-associated-hyposalivation-case-series.tx
 
 ## Why Ingested
 
-GLP-1 수용체작용제(semaglutide/Ozempic·Wegovy)가 체중감량용으로 급증하는데, 위키의 xerogenic-drug 목록에는 이 계열이 없었다. 이 첫 증례보고(3례)는 semaglutide-연관 hyposalivation이라는 새 약물 부작용을 기록해, 기전 리뷰 [[oral-medicine/kim-2023-xerostomia-cellular-targets]](약물성 구강건조 >400종)와 타액-당뇨 지표 [[drug/systemic-disease/maftei-2021-salivary-markers-hba1c-type2-diabetes-extraction]]를 임상 증례로 연결한다. 진료 시 GLP-1 복용력 문진의 근거.
+GLP-1 수용체작용제(semaglutide/Ozempic·Wegovy)가 체중감량용으로 급증하는데, 위키의 xerogenic-drug 목록에는 이 계열이 없었다. 이 첫 증례보고(3례)는 semaglutide-연관 hyposalivation이라는 새 약물 부작용을 기록해, 기전 리뷰 [[oral-medicine/salivary-chemosensory/kim-2023-xerostomia-cellular-targets]](약물성 구강건조 >400종)와 타액-당뇨 지표 [[drug/systemic-disease/maftei-2021-salivary-markers-hba1c-type2-diabetes-extraction]]를 임상 증례로 연결한다. 진료 시 GLP-1 복용력 문진의 근거.
 
 ## Three-line Summary
 
@@ -73,9 +73,9 @@ Retrospective clinical case series of 3 overweight women presenting to an oral-m
 
 ## 6. Related Work
 
-- [[oral-medicine/kim-2023-xerostomia-cellular-targets]] — mechanism of drug-induced xerostomia (>400 xerogenic drugs); this adds a novel GLP-1-agonist entrant.
+- [[oral-medicine/salivary-chemosensory/kim-2023-xerostomia-cellular-targets]] — mechanism of drug-induced xerostomia (>400 xerogenic drugs); this adds a novel GLP-1-agonist entrant.
 - [[drug/systemic-disease/maftei-2021-salivary-markers-hba1c-type2-diabetes-extraction]] — salivary markers in type 2 diabetes; overlapping obese/dysglycemic population.
-- [[oral-medicine/poudel-2026-xerostomia-dental-treatment-outcomes-sr]] — clinical outcomes of xerostomia.
+- [[oral-medicine/salivary-chemosensory/poudel-2026-xerostomia-dental-treatment-outcomes-sr]] — clinical outcomes of xerostomia.
 
 ## 7. Glossary
 

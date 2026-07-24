@@ -15,7 +15,7 @@ text_filename: ponzo-2024-presbygeusia-narrative-review.txt
 
 ## Why Ingested
 
-미각상실·침분비저하 병인을 COVID/약물/자가면역 외 "노화 자체의 생리적 미각저하"로 확장하기 위해 검색. 기존 [[oral-medicine/tsuchiya-2023-covid-19-oral-sequelae-gustatory-saliva]]·[[oral-medicine/sijan-gobeljic-2020-sjogren-chemosensory-oral-disorders-cross-sectional]]·[[geriatric-dentistry/halasabalu-kalgeri-2026-polypharmacy-oral-health-elderly]]가 각각 바이러스성·자가면역성·약물성 병인을 다뤘다면, 본 리뷰는 "병리 없이 순수 노화 자체"가 미각저하(presbygeusia)를 유발하는지 여부를 15편의 관찰연구로 검증한 최신 논문(2024)으로 네 번째 병인 축을 완성한다.
+미각상실·침분비저하 병인을 COVID/약물/자가면역 외 "노화 자체의 생리적 미각저하"로 확장하기 위해 검색. 기존 [[oral-medicine/salivary-chemosensory/tsuchiya-2023-covid-19-oral-sequelae-gustatory-saliva]]·[[oral-medicine/salivary-chemosensory/sijan-gobeljic-2020-sjogren-chemosensory-oral-disorders-cross-sectional]]·[[geriatric-dentistry/halasabalu-kalgeri-2026-polypharmacy-oral-health-elderly]]가 각각 바이러스성·자가면역성·약물성 병인을 다뤘다면, 본 리뷰는 "병리 없이 순수 노화 자체"가 미각저하(presbygeusia)를 유발하는지 여부를 15편의 관찰연구로 검증한 최신 논문(2024)으로 네 번째 병인 축을 완성한다.
 
 ## Three-line Summary
 

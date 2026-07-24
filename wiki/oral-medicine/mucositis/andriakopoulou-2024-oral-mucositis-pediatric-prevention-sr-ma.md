@@ -66,6 +66,6 @@ Oral mucositis (OM) is a common, serious complication of cancer treatment; chemo
 
 ## Related Papers
 
-- [[oral-medicine/dean-2022-oral-chronic-gvhd-review]] — extends; shared pediatric/HSCT oral-complication context (oral chronic GVHD vs conditioning-induced mucositis)
+- [[oral-medicine/immune-mediated/dean-2022-oral-chronic-gvhd-review]] — extends; shared pediatric/HSCT oral-complication context (oral chronic GVHD vs conditioning-induced mucositis)
 - [[oral-medicine/hsv/coppola-2023-herpetic-gingivostomatitis-sr]] — adjacent oral ulcerative/erosive condition and OM differential in immunocompromised children
-- [[oral-medicine/belenguer-guallar-2014-recurrent-aphthous-stomatitis-review]] — adjacent oral-ulcer symptom-management literature
+- [[oral-medicine/aphthous-stomatitis/belenguer-guallar-2014-recurrent-aphthous-stomatitis-review]] — adjacent oral-ulcer symptom-management literature

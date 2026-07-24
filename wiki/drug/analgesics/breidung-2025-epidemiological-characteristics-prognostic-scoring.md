@@ -69,4 +69,4 @@ Retrospective single-center cohort, Burn Unit, Klinikum Nuremberg (Germany), Jan
 
 - [[drug/analgesics/magesty-2026-adverse-events-oral-analgesics-third-molar-nma]] — extends the analgesic adverse-event picture to the life-threatening (SCAR) tail.
 - [[drug/anticoagulants/hohlfeld-2008-pyrazolinone-aspirin-antiplatelet-pharmacology]] — pyrazolinone (metamizole) pharmacology; this page adds the safety/hypersensitivity counterpart.
-- [[oral-medicine/kechichian-2024-erythema-multiforme-review]] — erythema multiforme, the milder end of the EM↔SJS/TEN differential spectrum.
+- [[oral-medicine/immune-mediated/kechichian-2024-erythema-multiforme-review]] — erythema multiforme, the milder end of the EM↔SJS/TEN differential spectrum.

@@ -44,4 +44,4 @@ PubMed narrative review.
 Topical steroids reduce pain and healing time. For severe/frequent RAS: colchicine 0.5mg bid shows good evidence. Triggers (stress, nutritional deficiency) must be addressed.
 
 ## Related Papers
-- [[oral-medicine/belenguer-guallar-2014-recurrent-aphthous-stomatitis-review]] — related
+- [[oral-medicine/aphthous-stomatitis/belenguer-guallar-2014-recurrent-aphthous-stomatitis-review]] — related

@@ -64,6 +64,6 @@ Retrospective clinical case series (n=3) in an oral-medicine clinic. Unstimulate
 
 ## Related Papers
 
-- [[oral-medicine/kim-2023-xerostomia-cellular-targets]] — cellular mechanism of drug-induced xerostomia (>400 xerogenic drugs); this case series is a clinical application adding a GLP-1-agonist entrant. (`relations: applies-to`)
+- [[oral-medicine/salivary-chemosensory/kim-2023-xerostomia-cellular-targets]] — cellular mechanism of drug-induced xerostomia (>400 xerogenic drugs); this case series is a clinical application adding a GLP-1-agonist entrant. (`relations: applies-to`)
 - [[drug/systemic-disease/maftei-2021-salivary-markers-hba1c-type2-diabetes-extraction]] — salivary markers in type 2 diabetes; overlapping obese/dysglycemic population.
-- [[oral-medicine/poudel-2026-xerostomia-dental-treatment-outcomes-sr]] — clinical dental-treatment outcomes of xerostomia.
+- [[oral-medicine/salivary-chemosensory/poudel-2026-xerostomia-dental-treatment-outcomes-sr]] — clinical dental-treatment outcomes of xerostomia.

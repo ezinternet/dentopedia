@@ -15,7 +15,7 @@ text_filename: breidung-2025-epidemiological-characteristics-prognostic-scoring.
 
 ## Why Ingested
 
-환자가 "피린계 진통제 알러지"를 호소할 때 그 임상적 무게를 근거로 답하기 위해 인제스트. 피린계(pyrazolone) 약물 과민반응의 가장 위중한 표현형은 SJS/TEN인데, 본 17년 화상센터 후향연구(n=68)에서 **메타미졸(metamizole)이 SJS/TEN의 단일 최다 원인약물(8건)**로 확인됐다 — 피린계 알러지가 단순 두드러기를 넘어 치명적 SCAR로 이어질 수 있음을 실증한다. 기존 진통제 부작용 페이지 [[drug/analgesics/magesty-2026-adverse-events-oral-analgesics-third-molar-nma]]를 위중도 측면에서 확장하고, 피린계 약리 페이지 [[drug/anticoagulants/hohlfeld-2008-pyrazolinone-aspirin-antiplatelet-pharmacology]]에 안전성 짝을 제공하며, SJS/TEN 감별 스펙트럼인 [[oral-medicine/kechichian-2024-erythema-multiforme-review]]와 연결된다.
+환자가 "피린계 진통제 알러지"를 호소할 때 그 임상적 무게를 근거로 답하기 위해 인제스트. 피린계(pyrazolone) 약물 과민반응의 가장 위중한 표현형은 SJS/TEN인데, 본 17년 화상센터 후향연구(n=68)에서 **메타미졸(metamizole)이 SJS/TEN의 단일 최다 원인약물(8건)**로 확인됐다 — 피린계 알러지가 단순 두드러기를 넘어 치명적 SCAR로 이어질 수 있음을 실증한다. 기존 진통제 부작용 페이지 [[drug/analgesics/magesty-2026-adverse-events-oral-analgesics-third-molar-nma]]를 위중도 측면에서 확장하고, 피린계 약리 페이지 [[drug/anticoagulants/hohlfeld-2008-pyrazolinone-aspirin-antiplatelet-pharmacology]]에 안전성 짝을 제공하며, SJS/TEN 감별 스펙트럼인 [[oral-medicine/immune-mediated/kechichian-2024-erythema-multiforme-review]]와 연결된다.
 
 ## Three-line Summary
 

@@ -49,7 +49,7 @@ RAS는 자기제한적이나 빈발·대형 병소는 삶의 질 저하. 영양 
 저품질 연구 다수.
 
 ## 6. Related Work
-- [[oral-medicine/manfredini-2021-recurrent-aphthous-stomatitis-treatment]] — related
+- [[oral-medicine/aphthous-stomatitis/manfredini-2021-recurrent-aphthous-stomatitis-treatment]] — related
 
 ## 7. Glossary
 RAS: Recurrent Aphthous Stomatitis; self-limiting: 자기제한적; trigger: 유발인자

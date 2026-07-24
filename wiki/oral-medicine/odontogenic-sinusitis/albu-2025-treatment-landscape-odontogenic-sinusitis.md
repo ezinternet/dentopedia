@@ -51,5 +51,5 @@ Narrative review, PubMed/Web of Science/Cochrane, Jan 2008-Aug 2025; final analy
 - Smoking, diabetes, higher Lund-Mackay scores predict failure/recurrence; iatrogenic (implant) ODS frequently needs ESS (~79%).
 
 ## Related Papers
-- [[oral-medicine/craig-2022-odontogenic-sinusitis-state-art]] — state-of-the-art ODS overview
-- [[oral-medicine/lin-2024-odontogenic-maxillary-sinusitis-expert-consensus]] — expert consensus on ODS
+- [[oral-medicine/odontogenic-sinusitis/craig-2022-odontogenic-sinusitis-state-art]] — state-of-the-art ODS overview
+- [[oral-medicine/odontogenic-sinusitis/lin-2024-odontogenic-maxillary-sinusitis-expert-consensus]] — expert consensus on ODS

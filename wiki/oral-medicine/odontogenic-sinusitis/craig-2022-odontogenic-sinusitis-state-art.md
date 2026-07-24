@@ -98,6 +98,6 @@ Single-author narrative review; literature search through mid-2021; 55 reference
 
 ## Related Papers
 
-- [[oral-medicine/psillas-2020-odontogenic-maxillary-sinusitis-comprehensive-review]] — comprehensive ODS review (reinforces)
-- [[oral-medicine/lin-2024-odontogenic-maxillary-sinusitis-expert-consensus]] — multidisciplinary treatment consensus (extends)
-- [[oral-medicine/kim-2019-definition-management-odontogenic-maxillary]] — ODS definition and management framework (extends)
+- [[oral-medicine/odontogenic-sinusitis/psillas-2020-odontogenic-maxillary-sinusitis-comprehensive-review]] — comprehensive ODS review (reinforces)
+- [[oral-medicine/odontogenic-sinusitis/lin-2024-odontogenic-maxillary-sinusitis-expert-consensus]] — multidisciplinary treatment consensus (extends)
+- [[oral-medicine/odontogenic-sinusitis/kim-2019-definition-management-odontogenic-maxillary]] — ODS definition and management framework (extends)

@@ -56,4 +56,4 @@ The chloride/GABA-A disinhibition mechanism is the molecular rationale for topic
 
 - [[orofacial-pain/wilke-2020-chloride-underrated-ion-nociceptors]] — extends this central/spinal chloride account to peripheral DRG nociceptors.
 - [[orofacial-pain/pathirathna-2005-t-type-calcium-gaba-neurosteroids]] — complementary endogenous (neurosteroid) modulation of GABA-A + T-type Ca²⁺ in peripheral analgesia.
-- [[oral-medicine/jaaskelainen-2018-burning-mouth-syndrome-neuropathic-pain]] — clinical BMS subtype whose "decreased central inhibition" maps onto this disinhibition mechanism.
+- [[oral-medicine/burning-mouth-syndrome/jaaskelainen-2018-burning-mouth-syndrome-neuropathic-pain]] — clinical BMS subtype whose "decreased central inhibition" maps onto this disinhibition mechanism.

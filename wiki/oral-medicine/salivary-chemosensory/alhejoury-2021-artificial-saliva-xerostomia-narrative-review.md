@@ -66,6 +66,6 @@ Clinically, this is a practical armamentarium reference rather than graded evide
 
 ## Related Papers
 
-- [[oral-medicine/kim-2023-xerostomia-cellular-targets]] — mechanistic/cellular review of the salivary secretion pathway (M3-GPCR → IP3/Ca²⁺ → AQP5); this review's pilocarpine/cevimeline sialogogue catalogue targets the same M3-muscarinic pathway that page maps molecularly (`reinforces` edge).
-- [[oral-medicine/poudel-2026-xerostomia-dental-treatment-outcomes-sr]] — systematic review quantifying xerostomia's impact on restoration/implant/periodontal outcomes; this review supplies the management-option catalogue that complements those outcome data.
-- [[oral-medicine/ramirez-martinez-acitores-2020-antihypertensive-xerostomia-salivary-flow-sr]] — SR on antihypertensive-drug-induced xerostomia and salivary flow, one of the medication-induced etiologies this review's management catalogue applies to.
+- [[oral-medicine/salivary-chemosensory/kim-2023-xerostomia-cellular-targets]] — mechanistic/cellular review of the salivary secretion pathway (M3-GPCR → IP3/Ca²⁺ → AQP5); this review's pilocarpine/cevimeline sialogogue catalogue targets the same M3-muscarinic pathway that page maps molecularly (`reinforces` edge).
+- [[oral-medicine/salivary-chemosensory/poudel-2026-xerostomia-dental-treatment-outcomes-sr]] — systematic review quantifying xerostomia's impact on restoration/implant/periodontal outcomes; this review supplies the management-option catalogue that complements those outcome data.
+- [[oral-medicine/salivary-chemosensory/ramirez-martinez-acitores-2020-antihypertensive-xerostomia-salivary-flow-sr]] — SR on antihypertensive-drug-induced xerostomia and salivary flow, one of the medication-induced etiologies this review's management catalogue applies to.

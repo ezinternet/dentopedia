@@ -65,6 +65,6 @@ Narrative (non-systematic) review integrating epidemiologic, immunologic, oral-m
 
 ## Related Papers
 
-- [[oral-medicine/gasmi-2021-oral-aphthous-pathophysiology-treatment]] — extends: that review lists Behçet's disease only as a systemic differential diagnosis for RAS; this paper supplies the BD-specific oral pathogenesis, periodontal-severity link, and dental-management protocol that page lacks.
-- [[oral-medicine/damario-2025-recurrent-aphthous-stomatitis-treatments-review]] — complementary population: that review's 45-RCT treatment ladder explicitly excludes RAS secondary to Behçet's/Crohn's, making this page the dedicated BD-oral-ulcer counterpart.
-- [[oral-medicine/warnakulasuriya-2025-oral-lichen-planus-systemic-diseases]] — parallel framing of an oral mucosal condition (OLP) as a marker/driver of systemic comorbidity, useful contrast in chairside screening logic.
+- [[oral-medicine/aphthous-stomatitis/gasmi-2021-oral-aphthous-pathophysiology-treatment]] — extends: that review lists Behçet's disease only as a systemic differential diagnosis for RAS; this paper supplies the BD-specific oral pathogenesis, periodontal-severity link, and dental-management protocol that page lacks.
+- [[oral-medicine/aphthous-stomatitis/damario-2025-recurrent-aphthous-stomatitis-treatments-review]] — complementary population: that review's 45-RCT treatment ladder explicitly excludes RAS secondary to Behçet's/Crohn's, making this page the dedicated BD-oral-ulcer counterpart.
+- [[oral-medicine/lichen-planus/warnakulasuriya-2025-oral-lichen-planus-systemic-diseases]] — parallel framing of an oral mucosal condition (OLP) as a marker/driver of systemic comorbidity, useful contrast in chairside screening logic.

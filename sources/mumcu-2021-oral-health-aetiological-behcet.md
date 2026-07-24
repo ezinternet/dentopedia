@@ -15,7 +15,7 @@ text_filename: mumcu-2021-oral-health-aetiological-behcet.txt
 
 ## Why Ingested
 
-기존 위키에는 베체트병(Behçet's disease)을 재발성 아프타 구내염(RAS)의 감별진단 항목으로만 언급한 페이지([[oral-medicine/gasmi-2021-oral-aphthous-pathophysiology-treatment]])만 있고, 베체트병 자체의 구강 병인론·구강위생-전신중증도 상관관계·치과 치료 타이밍을 다루는 전용 페이지가 없었다. 본 review(Mumcu & Fortune, 2021, *Frontiers in Medicine*)는 이 공백을 메우며, 구강 미생물총(특히 *Streptococcus sanguinis*/*mutans*)·치주 상태·치과 내원 이력이 베체트병 중증도의 매개변수(mediator)임을 제시해 [[oral-medicine/gasmi-2021-oral-aphthous-pathophysiology-treatment]]의 감별진단 프레임을 병인론 수준으로 확장한다.
+기존 위키에는 베체트병(Behçet's disease)을 재발성 아프타 구내염(RAS)의 감별진단 항목으로만 언급한 페이지([[oral-medicine/aphthous-stomatitis/gasmi-2021-oral-aphthous-pathophysiology-treatment]])만 있고, 베체트병 자체의 구강 병인론·구강위생-전신중증도 상관관계·치과 치료 타이밍을 다루는 전용 페이지가 없었다. 본 review(Mumcu & Fortune, 2021, *Frontiers in Medicine*)는 이 공백을 메우며, 구강 미생물총(특히 *Streptococcus sanguinis*/*mutans*)·치주 상태·치과 내원 이력이 베체트병 중증도의 매개변수(mediator)임을 제시해 [[oral-medicine/aphthous-stomatitis/gasmi-2021-oral-aphthous-pathophysiology-treatment]]의 감별진단 프레임을 병인론 수준으로 확장한다.
 
 ## Three-line Summary
 
@@ -66,9 +66,9 @@ Narrative (non-systematic) review; heavily weighted toward the senior author's o
 
 ## 6. Related Work
 
-- [[oral-medicine/gasmi-2021-oral-aphthous-pathophysiology-treatment]] — lists Behçet's disease as a systemic differential for recurrent aphthous stomatitis (RAS); this paper extends that into BD-specific oral pathogenesis and management.
-- [[oral-medicine/damario-2025-recurrent-aphthous-stomatitis-treatments-review]] — RAS treatment ladder (excludes Behçet's-secondary ulcers), complementary population.
-- [[oral-medicine/warnakulasuriya-2025-oral-lichen-planus-systemic-diseases]] — similar oral-mucosal-disease-as-systemic-marker framing, different disease (OLP).
+- [[oral-medicine/aphthous-stomatitis/gasmi-2021-oral-aphthous-pathophysiology-treatment]] — lists Behçet's disease as a systemic differential for recurrent aphthous stomatitis (RAS); this paper extends that into BD-specific oral pathogenesis and management.
+- [[oral-medicine/aphthous-stomatitis/damario-2025-recurrent-aphthous-stomatitis-treatments-review]] — RAS treatment ladder (excludes Behçet's-secondary ulcers), complementary population.
+- [[oral-medicine/lichen-planus/warnakulasuriya-2025-oral-lichen-planus-systemic-diseases]] — similar oral-mucosal-disease-as-systemic-marker framing, different disease (OLP).
 
 ## 7. Glossary
 

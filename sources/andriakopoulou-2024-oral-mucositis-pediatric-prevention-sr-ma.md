@@ -15,7 +15,7 @@ text_filename: andriakopoulou-2024-oral-mucositis-pediatric-prevention-sr-ma.txt
 
 ## Why Ingested
 
-This SR+MA OPENS the oral-mucositis sub-topic in `oral-medicine`, which previously held oral mucosal disease pages on aphthous, lichen planus, and pemphigoid but no chemo/radiotherapy-induced oral mucositis (OM) page. It extends the oral-ulcerative/erosive disease coverage of [[oral-medicine/coppola-2023-herpetic-gingivostomatitis-sr]] and [[oral-medicine/dean-2022-oral-chronic-gvhd-review]] (the latter shares the HSCT pediatric-oncology context) into the cancer-treatment-induced OM space, where honey emerges as the only meta-analytically supported agent and LLLT shows no benefit.
+This SR+MA OPENS the oral-mucositis sub-topic in `oral-medicine`, which previously held oral mucosal disease pages on aphthous, lichen planus, and pemphigoid but no chemo/radiotherapy-induced oral mucositis (OM) page. It extends the oral-ulcerative/erosive disease coverage of [[oral-medicine/coppola-2023-herpetic-gingivostomatitis-sr]] and [[oral-medicine/immune-mediated/dean-2022-oral-chronic-gvhd-review]] (the latter shares the HSCT pediatric-oncology context) into the cancer-treatment-induced OM space, where honey emerges as the only meta-analytically supported agent and LLLT shows no benefit.
 
 ## Three-line Summary
 

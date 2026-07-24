@@ -146,6 +146,6 @@ The review established that pharmacological management is the cornerstone of DG 
 
 ## Related Papers
 
-- [[oral-medicine/morais-2024-pemphigus-vulgaris-mucous-membrane-pemphigoid-oral-sr]] — extends: provides DG-specific treatment lens for the PV/MMP spectrum covered in this SR
-- [[oral-medicine/lodi-2020-oral-lichen-planus-corticosteroids-cochrane]] — reinforces: independently confirms corticosteroids (clobetasol) and tacrolimus as dominant agents for OLP-related mucosal disease across DG literature
-- [[oral-medicine/sandhu-2022-oral-lichen-planus-treatment-sr]] — related: OLP treatment SR complementing DG-specific evidence on first-line pharmacotherapy
+- [[oral-medicine/immune-mediated/morais-2024-pemphigus-vulgaris-mucous-membrane-pemphigoid-oral-sr]] — extends: provides DG-specific treatment lens for the PV/MMP spectrum covered in this SR
+- [[oral-medicine/lichen-planus/lodi-2020-oral-lichen-planus-corticosteroids-cochrane]] — reinforces: independently confirms corticosteroids (clobetasol) and tacrolimus as dominant agents for OLP-related mucosal disease across DG literature
+- [[oral-medicine/lichen-planus/sandhu-2022-oral-lichen-planus-treatment-sr]] — related: OLP treatment SR complementing DG-specific evidence on first-line pharmacotherapy

@@ -79,6 +79,6 @@ For a dentist this page is a **differential-diagnosis safety net**: TN trigger z
 
 ## Related Papers
 
-- [[oral-medicine/jaaskelainen-2018-burning-mouth-syndrome-neuropathic-pain]] — sibling trigeminal neuropathic-pain page; BMS as a neuropathic condition of the trigeminal system, reinforcing the neuropathic framing of TN.
-- [[oral-medicine/kouri-2024-small-fiber-neuropathy-burning-mouth-syndrome]] — trigeminal small-fiber neuropathy in BMS; neighboring trigeminal neuropathic-pain mechanism.
-- [[oral-medicine/canfora-2025-burning-mouth-syndrome-pathogenesis-review]] — BMS pathogenesis; another orofacial neuropathic-pain entity in the dental differential.
+- [[oral-medicine/burning-mouth-syndrome/jaaskelainen-2018-burning-mouth-syndrome-neuropathic-pain]] — sibling trigeminal neuropathic-pain page; BMS as a neuropathic condition of the trigeminal system, reinforcing the neuropathic framing of TN.
+- [[oral-medicine/burning-mouth-syndrome/kouri-2024-small-fiber-neuropathy-burning-mouth-syndrome]] — trigeminal small-fiber neuropathy in BMS; neighboring trigeminal neuropathic-pain mechanism.
+- [[oral-medicine/burning-mouth-syndrome/canfora-2025-burning-mouth-syndrome-pathogenesis-review]] — BMS pathogenesis; another orofacial neuropathic-pain entity in the dental differential.

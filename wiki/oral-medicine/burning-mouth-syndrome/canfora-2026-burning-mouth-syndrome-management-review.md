@@ -44,5 +44,5 @@ PubMed systematic review base with narrative synthesis.
 No single cure for BMS. Combination approach most effective. Topical clonazepam highest evidence (multiple RCTs).
 
 ## Related Papers
-- [[oral-medicine/canfora-2025-burning-mouth-syndrome-pathogenesis-review]] — related
-- [[oral-medicine/chmieliauskaite-2020-burning-mouth-syndrome-icd11-rename-delphi]] — related
+- [[oral-medicine/burning-mouth-syndrome/canfora-2025-burning-mouth-syndrome-pathogenesis-review]] — related
+- [[oral-medicine/burning-mouth-syndrome/chmieliauskaite-2020-burning-mouth-syndrome-icd11-rename-delphi]] — related

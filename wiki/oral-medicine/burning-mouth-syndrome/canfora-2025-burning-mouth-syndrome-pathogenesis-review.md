@@ -44,5 +44,5 @@ PubMed narrative review with diagnostic algorithm proposal.
 BMS etiology multifactorial: neuropathic + hormonal + psychological. Primary BMS: diagnosis of exclusion. Secondary: treat underlying cause first.
 
 ## Related Papers
-- [[oral-medicine/canfora-2026-burning-mouth-syndrome-management-review]] — related
-- [[oral-medicine/chmieliauskaite-2020-burning-mouth-syndrome-icd11-rename-delphi]] — related
+- [[oral-medicine/burning-mouth-syndrome/canfora-2026-burning-mouth-syndrome-management-review]] — related
+- [[oral-medicine/burning-mouth-syndrome/chmieliauskaite-2020-burning-mouth-syndrome-icd11-rename-delphi]] — related

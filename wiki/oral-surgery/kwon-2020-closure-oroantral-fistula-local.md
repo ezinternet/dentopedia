@@ -96,6 +96,6 @@ All OAF cases presented were treated successfully with complete closure using th
 
 ## Related Papers
 
-- [[oral-medicine/lin-2024-odontogenic-maxillary-sinusitis-expert-consensus]] — OMS expert consensus: FESS sequencing, sinus-lift OMS prevention; this paper provides the OAF-specific surgical closure detail
-- [[oral-medicine/kim-2019-definition-management-odontogenic-maxillary]] — OMS definition and management framework; this paper extends with flap technique specifics
-- [[oral-medicine/psillas-2020-odontogenic-maxillary-sinusitis-comprehensive-review]] — comprehensive OMS review; complementary ENT perspective on sinusitis management before/after OAF closure
+- [[oral-medicine/odontogenic-sinusitis/lin-2024-odontogenic-maxillary-sinusitis-expert-consensus]] — OMS expert consensus: FESS sequencing, sinus-lift OMS prevention; this paper provides the OAF-specific surgical closure detail
+- [[oral-medicine/odontogenic-sinusitis/kim-2019-definition-management-odontogenic-maxillary]] — OMS definition and management framework; this paper extends with flap technique specifics
+- [[oral-medicine/odontogenic-sinusitis/psillas-2020-odontogenic-maxillary-sinusitis-comprehensive-review]] — comprehensive OMS review; complementary ENT perspective on sinusitis management before/after OAF closure

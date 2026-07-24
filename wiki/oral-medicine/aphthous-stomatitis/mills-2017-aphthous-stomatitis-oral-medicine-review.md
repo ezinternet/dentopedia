@@ -44,4 +44,4 @@ Narrative review.
 RAS is self-limiting but recurrent; quality of life impact significant. Nutritional correction (iron, B12, folate) resolves subset.
 
 ## Related Papers
-- [[oral-medicine/manfredini-2021-recurrent-aphthous-stomatitis-treatment]] — related
+- [[oral-medicine/aphthous-stomatitis/manfredini-2021-recurrent-aphthous-stomatitis-treatment]] — related

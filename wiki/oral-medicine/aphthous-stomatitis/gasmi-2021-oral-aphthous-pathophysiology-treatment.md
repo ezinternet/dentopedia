@@ -53,7 +53,7 @@ Etiology ranges from local trauma to systemic disease and rare syndromes. Topica
 
 ## Related Papers
 
-- [[oral-medicine/belenguer-guallar-2014-recurrent-aphthous-stomatitis-review]] — reinforces (RAS review)
-- [[oral-medicine/manfredini-2021-recurrent-aphthous-stomatitis-treatment]] — reinforces (RAS treatment)
-- [[oral-medicine/mills-2017-aphthous-stomatitis-oral-medicine-review]] — reinforces (aphthous overview)
-- [[oral-medicine/manthiram-2023-pfapa-syndrome-pathogenesis-review]] — related (PFAPA systemic aphthous)
+- [[oral-medicine/aphthous-stomatitis/belenguer-guallar-2014-recurrent-aphthous-stomatitis-review]] — reinforces (RAS review)
+- [[oral-medicine/aphthous-stomatitis/manfredini-2021-recurrent-aphthous-stomatitis-treatment]] — reinforces (RAS treatment)
+- [[oral-medicine/aphthous-stomatitis/mills-2017-aphthous-stomatitis-oral-medicine-review]] — reinforces (aphthous overview)
+- [[oral-medicine/aphthous-stomatitis/manthiram-2023-pfapa-syndrome-pathogenesis-review]] — related (PFAPA systemic aphthous)

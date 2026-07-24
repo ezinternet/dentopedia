@@ -49,7 +49,7 @@ PubMed 문헌 고찰.
 연구 방법론 이질성.
 
 ## 6. Related Work
-- [[oral-medicine/manfredini-2021-recurrent-aphthous-stomatitis-treatment]] — related
+- [[oral-medicine/aphthous-stomatitis/manfredini-2021-recurrent-aphthous-stomatitis-treatment]] — related
 
 ## 7. Glossary
 LLLT: Low Level Laser Therapy 저출력 레이저치료; chlorhexidine: 클로르헥시딘

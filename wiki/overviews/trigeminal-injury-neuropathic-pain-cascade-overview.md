@@ -127,7 +127,7 @@ Two clinical hooks emerge that are not obvious from any single page. The four-da
 
 ## 논쟁·불일치 (Contradiction radar)
 
-- **침술 vs 카르바마제핀.** [[oral-medicine/pan-2025-acupuncture-neuropathic-orofacial-pain-review]]는 침술+전침이 TN에서 카르바마제핀 단독을 능가한다고 주장한다(NMA 1편 인용). 이는 [[oral-medicine/khan-2023-trigeminal-neuralgia-therapeutic-approach-sr]]의 SR 기반 1차약 사다리와 정면으로 충돌한다. **근거등급이 대칭이 아니다** — narrative review가 인용한 NMA 1편 vs SR. 현재로서는 카르바마제핀 1차약 지위가 흔들리지 않는다고 읽는 것이 타당하며, 침술은 보조요법 후보로 남는다.
+- **침술 vs 카르바마제핀.** [[oral-medicine/trigeminal-neuralgia/pan-2025-acupuncture-neuropathic-orofacial-pain-review]]는 침술+전침이 TN에서 카르바마제핀 단독을 능가한다고 주장한다(NMA 1편 인용). 이는 [[oral-medicine/trigeminal-neuralgia/khan-2023-trigeminal-neuralgia-therapeutic-approach-sr]]의 SR 기반 1차약 사다리와 정면으로 충돌한다. **근거등급이 대칭이 아니다** — narrative review가 인용한 NMA 1편 vs SR. 현재로서는 카르바마제핀 1차약 지위가 흔들리지 않는다고 읽는 것이 타당하며, 침술은 보조요법 후보로 남는다.
 - **세균 노출의 비선형성.** LPS/TLR4 프라이밍은 혈액-신경장벽을 무너뜨려 이질통을 악화시키지만, 국소 *P. gingivalis* 노출은 IL-10 매개 항통각 효과를 보였다(동일 리뷰, 서로 다른 쥐 모델). "감염을 없애면 신경 예후가 좋아진다"는 단순 명제는 아직 성립하지 않는다.
 - **말초 vs 중추의 우선순위.** Korczeniewska는 말초 사건을, Kim은 중추 가소성을 각각 만성화의 엔진으로 서술한다. 두 리뷰 모두 상대 영역을 다루지 않으므로, 이 페이지의 "연속 캐스케이드" 서사 자체는 **두 문헌의 종합이지 어느 한 논문의 주장이 아니다.**
 
@@ -171,5 +171,5 @@ Two clinical hooks emerge that are not obvious from any single page. The four-da
 - [[oral-surgery/nerve-injury/zeytinoglu-2026-comparative-effects-low-level-laser]] — 손상 후 LLLT vs TENS vs 위약(n=27, prospective): 증상은 개선되나 CSP 전기생리 회복과 해리 — 캐스케이드의 "손상 후" 칸을 채우는 유일한 사람 데이터
 - [[orofacial-pain/guan-2025-cerebellin-2-trigeminal-neuropathic-pain]] — 캐스케이드 3단계의 후성유전 층: 신경손상이 TET3 매개 프로모터 탈메틸화로 CBLN2를 Aδ-LTMR에서 상승 → ERK/MAPK → 과흥분·염증성 케모카인; 넉다운이 이질통 개시·유지 모두 완화, rCBLN2가 유발 — TRPC4에 이은 2번째 양방향 인과 증거(마우스)
 - [[orofacial-pain/melo-carrillo-2017-fremanezumab-adelta-c-meningeal-nociceptors]] — 섬유형 선택적 약리의 증명: 항CGRP 항체가 Aδ 경막 nociceptor만 억제하고 C섬유는 무영향(쥐 삼차신경절 단일유닛). "통로 서명은 하나가 아니다"의 약리학적 짝. 편두통 모델이라 *인접* 근거로만 취급
-- [[oral-medicine/alkhutari-2023-post-traumatic-trigeminal-neuropathy-endodontic-sr]] — 근관치료 유래 PTTN의 임상 SR; 게이트 ③의 근관치료 수치(3–13%)와 대조
+- [[oral-medicine/trigeminal-neuralgia/alkhutari-2023-post-traumatic-trigeminal-neuropathy-endodontic-sr]] — 근관치료 유래 PTTN의 임상 SR; 게이트 ③의 근관치료 수치(3–13%)와 대조
 - [[complete-denture/yeung-2023-functional-neuroplasticity-denture-rehabilitation-fmri]] — 같은 삼차신경 입력의 *비통증성* 상행 축 (저작 → 피질). 범위 밖이나 인접

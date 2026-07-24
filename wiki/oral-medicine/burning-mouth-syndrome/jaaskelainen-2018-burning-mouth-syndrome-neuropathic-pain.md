@@ -54,7 +54,7 @@ Subtype determination guides therapy: a positive response to peripheral lidocain
 
 ## Related Papers
 
-- [[oral-medicine/kouri-2024-small-fiber-neuropathy-burning-mouth-syndrome]] — systematic review quantifying the peripheral small-fiber damage this paper describes.
-- [[oral-medicine/canfora-2025-burning-mouth-syndrome-pathogenesis-review]] — broader pathogenesis synthesis.
-- [[oral-medicine/chmieliauskaite-2020-burning-mouth-syndrome-icd11-rename-delphi]] — BMS classification/nomenclature.
+- [[oral-medicine/burning-mouth-syndrome/kouri-2024-small-fiber-neuropathy-burning-mouth-syndrome]] — systematic review quantifying the peripheral small-fiber damage this paper describes.
+- [[oral-medicine/burning-mouth-syndrome/canfora-2025-burning-mouth-syndrome-pathogenesis-review]] — broader pathogenesis synthesis.
+- [[oral-medicine/burning-mouth-syndrome/chmieliauskaite-2020-burning-mouth-syndrome-icd11-rename-delphi]] — BMS classification/nomenclature.
 - [[orofacial-pain/price-2009-chloride-regulation-pain-pathway]] — molecular basis of the "decreased central inhibition" finding (GABA-A/chloride disinhibition), rationale for topical clonazepam.

@@ -15,7 +15,7 @@ text_filename: jian-2024-thalidomide-recurrent-aphthous-stomatitis-sr-ma.txt
 
 ## Why Ingested
 
-기존 [[oral-medicine/manfredini-2021-recurrent-aphthous-stomatitis-treatment]]가 재발성 아프타성 구내염(Recurrent Aphthous Stomatitis, RAS)의 단계적 치료(국소 우선 → 전신)를 다루지만 탈리도마이드(thalidomide)의 효능·안전성 근거를 정량적으로 다루지 않았다. 본 SR+MA(21 RCT, 1668명)는 국소제 무반응 major RAS에 대한 전신 2차 약제로서 탈리도마이드의 위치를 evidence-weight로 보강하며, 동시에 부작용(말초신경병증·혈전색전) 증가 신호를 정량화한다. [[oral-medicine/belenguer-guallar-2014-recurrent-aphthous-stomatitis-review]]·[[oral-medicine/gasmi-2021-oral-aphthous-pathophysiology-treatment]]의 치료 알고리즘과 짝을 이룸.
+기존 [[oral-medicine/aphthous-stomatitis/manfredini-2021-recurrent-aphthous-stomatitis-treatment]]가 재발성 아프타성 구내염(Recurrent Aphthous Stomatitis, RAS)의 단계적 치료(국소 우선 → 전신)를 다루지만 탈리도마이드(thalidomide)의 효능·안전성 근거를 정량적으로 다루지 않았다. 본 SR+MA(21 RCT, 1668명)는 국소제 무반응 major RAS에 대한 전신 2차 약제로서 탈리도마이드의 위치를 evidence-weight로 보강하며, 동시에 부작용(말초신경병증·혈전색전) 증가 신호를 정량화한다. [[oral-medicine/aphthous-stomatitis/belenguer-guallar-2014-recurrent-aphthous-stomatitis-review]]·[[oral-medicine/aphthous-stomatitis/gasmi-2021-oral-aphthous-pathophysiology-treatment]]의 치료 알고리즘과 짝을 이룸.
 
 ## Three-line Summary
 
@@ -90,10 +90,10 @@ vs other drugs RR 2.18), prolonged recurrence interval (MD +26.91 d), accelerate
 
 ## 6. Related Work
 
-- [[oral-medicine/manfredini-2021-recurrent-aphthous-stomatitis-treatment]] — RAS stepwise treatment overview this paper supplies systemic 2nd-line evidence for.
-- [[oral-medicine/belenguer-guallar-2014-recurrent-aphthous-stomatitis-review]] — RAS classification and management review.
-- [[oral-medicine/gasmi-2021-oral-aphthous-pathophysiology-treatment]] — RAS pathophysiology (TNF-α/Th1) and treatment, mechanistic basis for thalidomide.
-- [[oral-medicine/mills-2017-aphthous-stomatitis-oral-medicine-review]] — oral-medicine RAS review.
+- [[oral-medicine/aphthous-stomatitis/manfredini-2021-recurrent-aphthous-stomatitis-treatment]] — RAS stepwise treatment overview this paper supplies systemic 2nd-line evidence for.
+- [[oral-medicine/aphthous-stomatitis/belenguer-guallar-2014-recurrent-aphthous-stomatitis-review]] — RAS classification and management review.
+- [[oral-medicine/aphthous-stomatitis/gasmi-2021-oral-aphthous-pathophysiology-treatment]] — RAS pathophysiology (TNF-α/Th1) and treatment, mechanistic basis for thalidomide.
+- [[oral-medicine/aphthous-stomatitis/mills-2017-aphthous-stomatitis-oral-medicine-review]] — oral-medicine RAS review.
 
 ## 7. Glossary
 

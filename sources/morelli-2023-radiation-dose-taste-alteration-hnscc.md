@@ -15,7 +15,7 @@ text_filename: morelli-2023-radiation-dose-taste-alteration-hnscc.txt
 
 ## Why Ingested
 
-미각상실·침분비저하의 병인 스펙트럼(바이러스성/자가면역성/약물성/노화성)에 "방사선치료 유발" 축을 추가하기 위해 검색. 기존 [[oral-medicine/tsuchiya-2023-covid-19-oral-sequelae-gustatory-saliva]]가 바이러스 수용체 발현 기전으로 미각·타액 동시장애를 설명했다면, 본 전향적 코호트는 두경부암 방사선치료에서 실제 선량-반응 관계로 "미각이상이 미뢰 선량보다 타액선 선량에 더 강하게 상관"함을 정량 검증해, 방사선 유발 병인의 실제 기전(타액선 손상 매개 vs 미뢰 직접손상)에 대한 근거를 제공한다.
+미각상실·침분비저하의 병인 스펙트럼(바이러스성/자가면역성/약물성/노화성)에 "방사선치료 유발" 축을 추가하기 위해 검색. 기존 [[oral-medicine/salivary-chemosensory/tsuchiya-2023-covid-19-oral-sequelae-gustatory-saliva]]가 바이러스 수용체 발현 기전으로 미각·타액 동시장애를 설명했다면, 본 전향적 코호트는 두경부암 방사선치료에서 실제 선량-반응 관계로 "미각이상이 미뢰 선량보다 타액선 선량에 더 강하게 상관"함을 정량 검증해, 방사선 유발 병인의 실제 기전(타액선 손상 매개 vs 미뢰 직접손상)에 대한 근거를 제공한다.
 
 ## Three-line Summary
 

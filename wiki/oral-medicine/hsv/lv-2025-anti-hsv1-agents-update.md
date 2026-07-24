@@ -55,4 +55,4 @@ Global HSV-1 seroprevalence ~64% (<50 y). Nucleoside analogs remain standard des
 
 - [[oral-medicine/hsv/mancini-2025-oral-herpes-treatment-sr]] — reinforces (clinical HSV regimens)
 - [[oral-medicine/hsv/coppola-2023-herpetic-gingivostomatitis-sr]] — reinforces (primary HSV antiviral basis)
-- [[oral-medicine/kechichian-2024-erythema-multiforme-review]] — applies-to (antiviral suppression of HSV-driven EM)
+- [[oral-medicine/immune-mediated/kechichian-2024-erythema-multiforme-review]] — applies-to (antiviral suppression of HSV-driven EM)

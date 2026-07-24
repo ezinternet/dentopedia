@@ -15,7 +15,7 @@ text_filename: nonaka-2023-saliva-diagnostics-salivaomics-exosomics-liquid-biops
 
 ## Why Ingested
 
-기존 위키에는 침(saliva)이 질병의 *결과물*(COVID 후유증)로만 나타난다 — [[oral-medicine/tsuchiya-2023-covid-19-oral-sequelae-gustatory-saliva]]. 이 JADA 리뷰는 침을 *진단 매체*로 뒤집는 관점(salivaomics·exosomics·liquid biopsy)을 도입해, 침샘 기능/구강건조 라인([[oral-medicine/poudel-2026-xerostomia-dental-treatment-outcomes-sr]])과 대비되는 "침의 진단적 활용" 축을 새로 연다. Wong 그룹(UCLA)의 salivaomics 프레임워크 원전으로, 향후 침 바이오마커 overview의 앵커.
+기존 위키에는 침(saliva)이 질병의 *결과물*(COVID 후유증)로만 나타난다 — [[oral-medicine/salivary-chemosensory/tsuchiya-2023-covid-19-oral-sequelae-gustatory-saliva]]. 이 JADA 리뷰는 침을 *진단 매체*로 뒤집는 관점(salivaomics·exosomics·liquid biopsy)을 도입해, 침샘 기능/구강건조 라인([[oral-medicine/salivary-chemosensory/poudel-2026-xerostomia-dental-treatment-outcomes-sr]])과 대비되는 "침의 진단적 활용" 축을 새로 연다. Wong 그룹(UCLA)의 salivaomics 프레임워크 원전으로, 향후 침 바이오마커 overview의 앵커.
 
 ## Three-line Summary
 
@@ -77,8 +77,8 @@ Narrative synthesis, not a systematic review. The authors summarize evidence acr
 
 ## 6. Related Work
 
-- [[oral-medicine/tsuchiya-2023-covid-19-oral-sequelae-gustatory-saliva]] — saliva as a site of COVID-19 sequelae; this review instead uses saliva as a COVID *diagnostic* medium.
-- [[oral-medicine/poudel-2026-xerostomia-dental-treatment-outcomes-sr]] — salivary *quantity/flow* clinical outcomes; complementary to this paper's focus on salivary *molecular content*.
+- [[oral-medicine/salivary-chemosensory/tsuchiya-2023-covid-19-oral-sequelae-gustatory-saliva]] — saliva as a site of COVID-19 sequelae; this review instead uses saliva as a COVID *diagnostic* medium.
+- [[oral-medicine/salivary-chemosensory/poudel-2026-xerostomia-dental-treatment-outcomes-sr]] — salivary *quantity/flow* clinical outcomes; complementary to this paper's focus on salivary *molecular content*.
 - Sibling salivary-diagnostics review ingested in the same batch: [[oral-medicine/li-2024-salivary-diagnostics-opportunities-challenges]].
 
 ## 7. Glossary

@@ -73,8 +73,8 @@ Narrative comprehensive review structured around three axes: (1) saliva componen
 ## 6. Related Work
 
 - [[oral-medicine/nonaka-2023-saliva-diagnostics-salivaomics-exosomics-liquid-biopsy]] — companion framework review (salivaomics/exosomics/liquid biopsy + EFIRM); this paper broadens the biomarker catalog and detection-hardware survey.
-- [[oral-medicine/tsuchiya-2023-covid-19-oral-sequelae-gustatory-saliva]] — saliva in COVID-19 context.
-- [[oral-medicine/poudel-2026-xerostomia-dental-treatment-outcomes-sr]] — salivary flow/quantity axis.
+- [[oral-medicine/salivary-chemosensory/tsuchiya-2023-covid-19-oral-sequelae-gustatory-saliva]] — saliva in COVID-19 context.
+- [[oral-medicine/salivary-chemosensory/poudel-2026-xerostomia-dental-treatment-outcomes-sr]] — salivary flow/quantity axis.
 
 ## 7. Glossary
 

@@ -69,6 +69,6 @@ The onset window after endodontic treatment is **3-48 months**; the demographic 
 
 ## Related Papers
 
-- [[oral-medicine/khan-2023-trigeminal-neuralgia-therapeutic-approach-sr]] — sibling trigeminal pain SR; reinforces the trigeminal-pain surveillance set (neuralgia vs neuropathy).
-- [[oral-medicine/jaaskelainen-2018-burning-mouth-syndrome-neuropathic-pain]] — shared neuropathic-pain mechanism (deafferentation, small-fiber dysfunction).
-- [[oral-medicine/kouri-2024-small-fiber-neuropathy-burning-mouth-syndrome]] — small-fiber/trigeminal neuropathy diagnostic overlap.
+- [[oral-medicine/trigeminal-neuralgia/khan-2023-trigeminal-neuralgia-therapeutic-approach-sr]] — sibling trigeminal pain SR; reinforces the trigeminal-pain surveillance set (neuralgia vs neuropathy).
+- [[oral-medicine/burning-mouth-syndrome/jaaskelainen-2018-burning-mouth-syndrome-neuropathic-pain]] — shared neuropathic-pain mechanism (deafferentation, small-fiber dysfunction).
+- [[oral-medicine/burning-mouth-syndrome/kouri-2024-small-fiber-neuropathy-burning-mouth-syndrome]] — small-fiber/trigeminal neuropathy diagnostic overlap.

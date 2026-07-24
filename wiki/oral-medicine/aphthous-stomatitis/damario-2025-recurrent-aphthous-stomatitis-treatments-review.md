@@ -79,8 +79,8 @@ Double-blind studies provided the most robust evidence; LLLT, omega-3, and curcu
 
 ## Related Papers
 
-- [[oral-medicine/manfredini-2021-recurrent-aphthous-stomatitis-treatment]] — reinforces and extends with a larger RCT-only evidence base.
-- [[oral-medicine/gasmi-2021-oral-aphthous-pathophysiology-treatment]] — complements its pathophysiology-anchored treatment account with comparative pain-outcome data per modality.
-- [[oral-medicine/jian-2024-thalidomide-recurrent-aphthous-stomatitis-sr-ma]] — focused SR+MA on thalidomide for refractory/severe RAS, complementing this review's emphasis on lower-risk non-pharmacological first-line options.
-- [[oral-medicine/belenguer-guallar-2014-recurrent-aphthous-stomatitis-review]] — earlier RAS overview.
-- [[oral-medicine/mills-2017-aphthous-stomatitis-oral-medicine-review]] — RAS oral-medicine overview.
+- [[oral-medicine/aphthous-stomatitis/manfredini-2021-recurrent-aphthous-stomatitis-treatment]] — reinforces and extends with a larger RCT-only evidence base.
+- [[oral-medicine/aphthous-stomatitis/gasmi-2021-oral-aphthous-pathophysiology-treatment]] — complements its pathophysiology-anchored treatment account with comparative pain-outcome data per modality.
+- [[oral-medicine/aphthous-stomatitis/jian-2024-thalidomide-recurrent-aphthous-stomatitis-sr-ma]] — focused SR+MA on thalidomide for refractory/severe RAS, complementing this review's emphasis on lower-risk non-pharmacological first-line options.
+- [[oral-medicine/aphthous-stomatitis/belenguer-guallar-2014-recurrent-aphthous-stomatitis-review]] — earlier RAS overview.
+- [[oral-medicine/aphthous-stomatitis/mills-2017-aphthous-stomatitis-oral-medicine-review]] — RAS oral-medicine overview.

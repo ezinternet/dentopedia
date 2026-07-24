@@ -53,6 +53,6 @@ No causative rare mutations identified — susceptibility appears common-variant
 
 ## Related Papers
 
-- [[oral-medicine/mills-2017-aphthous-stomatitis-oral-medicine-review]] — applies-to (systemic cause of recurrent aphthae)
-- [[oral-medicine/belenguer-guallar-2014-recurrent-aphthous-stomatitis-review]] — related (RAS differential)
-- [[oral-medicine/gasmi-2021-oral-aphthous-pathophysiology-treatment]] — related (aphthous pathophysiology)
+- [[oral-medicine/aphthous-stomatitis/mills-2017-aphthous-stomatitis-oral-medicine-review]] — applies-to (systemic cause of recurrent aphthae)
+- [[oral-medicine/aphthous-stomatitis/belenguer-guallar-2014-recurrent-aphthous-stomatitis-review]] — related (RAS differential)
+- [[oral-medicine/aphthous-stomatitis/gasmi-2021-oral-aphthous-pathophysiology-treatment]] — related (aphthous pathophysiology)

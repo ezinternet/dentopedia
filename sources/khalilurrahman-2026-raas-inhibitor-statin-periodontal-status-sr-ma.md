@@ -15,7 +15,7 @@ text_filename: khalilurrahman-2026-raas-inhibitor-statin-periodontal-status-sr-m
 
 ## Why Ingested
 
-심혈관질환(고혈압·고콜레스테롤혈증) 위험군 환자가 복용하는 심장 관련 약물(RAAS 억제제 ACEI/ARB, 스타틴)이 치주 상태에 미치는 영향을 다룬 SR+MA. 기존 [[oral-medicine/ramirez-martinez-acitores-2020-antihypertensive-xerostomia-salivary-flow-sr]]가 항고혈압제의 타액분비/구강건조 부작용을 다뤘다면, 본 논문은 같은 약물군이 치주조직 염증·치주염 위험에 미치는 직접적 영향을 정량화하여 "심장약 복용 환자의 치과 고려사항" 지식을 보강한다.
+심혈관질환(고혈압·고콜레스테롤혈증) 위험군 환자가 복용하는 심장 관련 약물(RAAS 억제제 ACEI/ARB, 스타틴)이 치주 상태에 미치는 영향을 다룬 SR+MA. 기존 [[oral-medicine/salivary-chemosensory/ramirez-martinez-acitores-2020-antihypertensive-xerostomia-salivary-flow-sr]]가 항고혈압제의 타액분비/구강건조 부작용을 다뤘다면, 본 논문은 같은 약물군이 치주조직 염증·치주염 위험에 미치는 직접적 영향을 정량화하여 "심장약 복용 환자의 치과 고려사항" 지식을 보강한다.
 
 ## Three-line Summary
 
@@ -84,7 +84,7 @@ SR+MA(PROSPERO CRD42024583905; PRISMA 2020; 정성 6편·메타분석 4편) — 
 - Kwon et al. — contrary finding that systemic statin use increases periodontitis risk 1.32×.
 - Muniz et al. SR+MA — statins as adjunct to non-surgical periodontal therapy (systemic/dentifrice/local routes) in periodontally-treated, not hypercholesterolemic, populations; local-statin meta-analysis showed larger PD/CAL effects (PD -1.93mm, CAL +1.82mm at 6mo) than the present study's systemic-statin findings.
 - Tabrizi et al. SR+MA — systemic statin therapy reduces CRP, TNF-α, IL-6, IL-1 (mechanistic support).
-- [[oral-medicine/ramirez-martinez-acitores-2020-antihypertensive-xerostomia-salivary-flow-sr]] — antihypertensive-induced xerostomia/salivary flow reduction, a related but distinct oral adverse-effect pathway for the same drug classes.
+- [[oral-medicine/salivary-chemosensory/ramirez-martinez-acitores-2020-antihypertensive-xerostomia-salivary-flow-sr]] — antihypertensive-induced xerostomia/salivary flow reduction, a related but distinct oral adverse-effect pathway for the same drug classes.
 
 ## 7. Glossary
 

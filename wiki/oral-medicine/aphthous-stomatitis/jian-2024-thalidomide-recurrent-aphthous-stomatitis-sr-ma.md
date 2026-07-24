@@ -80,7 +80,7 @@ This is the first systematic review + meta-analysis evaluating thalidomide's eff
 
 ## Related Papers
 
-- [[oral-medicine/manfredini-2021-recurrent-aphthous-stomatitis-treatment]] — RAS stepwise treatment overview this paper supplies systemic 2nd-line (thalidomide) evidence for.
-- [[oral-medicine/belenguer-guallar-2014-recurrent-aphthous-stomatitis-review]] — RAS classification and management review.
-- [[oral-medicine/gasmi-2021-oral-aphthous-pathophysiology-treatment]] — RAS pathophysiology (TNF-α/Th1), mechanistic basis for thalidomide's effect.
-- [[oral-medicine/mills-2017-aphthous-stomatitis-oral-medicine-review]] — oral-medicine RAS review.
+- [[oral-medicine/aphthous-stomatitis/manfredini-2021-recurrent-aphthous-stomatitis-treatment]] — RAS stepwise treatment overview this paper supplies systemic 2nd-line (thalidomide) evidence for.
+- [[oral-medicine/aphthous-stomatitis/belenguer-guallar-2014-recurrent-aphthous-stomatitis-review]] — RAS classification and management review.
+- [[oral-medicine/aphthous-stomatitis/gasmi-2021-oral-aphthous-pathophysiology-treatment]] — RAS pathophysiology (TNF-α/Th1), mechanistic basis for thalidomide's effect.
+- [[oral-medicine/aphthous-stomatitis/mills-2017-aphthous-stomatitis-oral-medicine-review]] — oral-medicine RAS review.

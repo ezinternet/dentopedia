@@ -65,4 +65,4 @@ Narrative/bibliographic literature review (not a formal systematic review; no me
 
 ## Related Papers
 
-- [[oral-medicine/poudel-2026-xerostomia-dental-treatment-outcomes-sr]] — applies-to: that SR quantifies xerostomia's impact on restoration/implant survival across etiologies (Sjögren's, radiation, medication-induced); this review adds a COVID-19-specific etiology and the co-occurring-taste-dysfunction mechanistic angle not covered there.
+- [[oral-medicine/salivary-chemosensory/poudel-2026-xerostomia-dental-treatment-outcomes-sr]] — applies-to: that SR quantifies xerostomia's impact on restoration/implant survival across etiologies (Sjögren's, radiation, medication-induced); this review adds a COVID-19-specific etiology and the co-occurring-taste-dysfunction mechanistic angle not covered there.

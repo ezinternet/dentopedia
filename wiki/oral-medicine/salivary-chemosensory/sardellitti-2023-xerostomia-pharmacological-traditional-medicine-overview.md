@@ -75,7 +75,7 @@ Clinically, the review's bottom line is stark: **no systemic chemical drug and n
 
 ## Related Papers
 
-- [[oral-medicine/kim-2023-xerostomia-cellular-targets]] — mechanistic/cellular basis (GPCR→IP3R→SOCE→AQP5 pathway) for why non-selective sialagogues have systemic side effects; this overview supplies the corresponding clinical-trial-level efficacy/safety evidence, reinforcing Kim's conclusion that no permanent cure currently exists (`relations: reinforces`).
-- [[oral-medicine/poudel-2026-xerostomia-dental-treatment-outcomes-sr]] — systematic review of xerostomia's downstream impact on dental restorations/implants/periodontal therapy; this overview addresses upstream systemic prevention/treatment rather than downstream dental outcomes.
-- [[oral-medicine/ramirez-martinez-acitores-2020-antihypertensive-xerostomia-salivary-flow-sr]] — antihypertensive drug-induced xerostomia, one of the >400-medication etiologies referenced in this overview's background.
-- [[oral-medicine/sijan-gobeljic-2020-sjogren-chemosensory-oral-disorders-cross-sectional]] — Sjögren's chemosensory/oral disorders in the same SS population targeted by the biologics reviewed here.
+- [[oral-medicine/salivary-chemosensory/kim-2023-xerostomia-cellular-targets]] — mechanistic/cellular basis (GPCR→IP3R→SOCE→AQP5 pathway) for why non-selective sialagogues have systemic side effects; this overview supplies the corresponding clinical-trial-level efficacy/safety evidence, reinforcing Kim's conclusion that no permanent cure currently exists (`relations: reinforces`).
+- [[oral-medicine/salivary-chemosensory/poudel-2026-xerostomia-dental-treatment-outcomes-sr]] — systematic review of xerostomia's downstream impact on dental restorations/implants/periodontal therapy; this overview addresses upstream systemic prevention/treatment rather than downstream dental outcomes.
+- [[oral-medicine/salivary-chemosensory/ramirez-martinez-acitores-2020-antihypertensive-xerostomia-salivary-flow-sr]] — antihypertensive drug-induced xerostomia, one of the >400-medication etiologies referenced in this overview's background.
+- [[oral-medicine/salivary-chemosensory/sijan-gobeljic-2020-sjogren-chemosensory-oral-disorders-cross-sectional]] — Sjögren's chemosensory/oral disorders in the same SS population targeted by the biologics reviewed here.

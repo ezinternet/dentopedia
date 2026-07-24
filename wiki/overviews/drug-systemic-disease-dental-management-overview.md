@@ -275,7 +275,7 @@ NRS (Numeric Rating Scale)를 outcome으로.
 
 [중간] **Khalilurrahman 2026** (SR+MA, PROSPERO CRD42024583905) — 심혈관질환 위험군(고혈압·고콜레스테롤혈증)이 복용하는 심장 관련 약물이 치주 상태에 미치는 직접 영향:
 
-- **RAAS 억제제 (ACEI/ARB)**: 정성분석 2편뿐 → 비일관적 (한 연구는 ACEI군 전 치주지표 유의 악화하나 임상적 유의성 의문; 다른 연구는 유의차 없음). 외부 근거(본 리뷰 정성분석 외 인용)는 ACEI/ARB 사용 시 치주염 위험 1.6~4.8배↑ 보고 — 기전은 kinin 경로 염증 활성화(ACEI) 및 타액분비 저하(ARB, [[oral-medicine/ramirez-martinez-acitores-2020-antihypertensive-xerostomia-salivary-flow-sr]] 참조).
+- **RAAS 억제제 (ACEI/ARB)**: 정성분석 2편뿐 → 비일관적 (한 연구는 ACEI군 전 치주지표 유의 악화하나 임상적 유의성 의문; 다른 연구는 유의차 없음). 외부 근거(본 리뷰 정성분석 외 인용)는 ACEI/ARB 사용 시 치주염 위험 1.6~4.8배↑ 보고 — 기전은 kinin 경로 염증 활성화(ACEI) 및 타액분비 저하(ARB, [[oral-medicine/salivary-chemosensory/ramirez-martinez-acitores-2020-antihypertensive-xerostomia-salivary-flow-sr]] 참조).
 - **스타틴**: 정량분석 4편 → 전신 스타틴이 고콜레스테롤혈증 환자의 출혈지수(BOP) -13.4%(p=0.007), 치주낭깊이(PD) -0.38mm(p<0.00001) 유의 개선. 단 PD 효과는 확립된 최소임상중요차이(MCID) 부재로 임상적 유의성 불확실; 임상부착소실(CAL)은 무변화(p=0.17).
 
 → **치과 임상 적용**:
@@ -357,7 +357,7 @@ NRS (Numeric Rating Scale)를 outcome으로.
 - [[drug/systemic-disease/legoff-2017-sjogren-classification-criteria-comparison]] — 2002 vs 2016 + SGUS
 
 ### 구강내과·BMS
-- [[oral-medicine/lee-2024-burning-mouth-syndrome-clinical-treatment]] — 서울대 BMS 단계적 protocol
+- [[oral-medicine/burning-mouth-syndrome/lee-2024-burning-mouth-syndrome-clinical-treatment]] — 서울대 BMS 단계적 protocol
 
 ### Corticosteroid
 - [[drug/analgesics/satpathi-2024-corticosteroids-dentistry-review]] — 치과 corticosteroid narrative

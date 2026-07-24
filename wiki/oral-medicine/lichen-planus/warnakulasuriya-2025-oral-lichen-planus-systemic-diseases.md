@@ -90,9 +90,9 @@ Treat OLP as a sentinel for hidden systemic disease. In OLP patients: monitor gl
 
 ## Related Papers
 
-- [[oral-medicine/srivastava-2022-oral-lichen-planus-diagnosis-management-review]] — extends: local OLP diagnosis/subtypes/treatment ladder, into which this layers the systemic comorbidity burden
+- [[oral-medicine/lichen-planus/srivastava-2022-oral-lichen-planus-diagnosis-management-review]] — extends: local OLP diagnosis/subtypes/treatment ladder, into which this layers the systemic comorbidity burden
 - [[oral-medicine/opmd/gonzalez-moles-2021-lichen-planus-malignant-transformation-sr]] — reinforces: same Granada group; malignant transformation (0.5–1.4%) is the oral-cancer end of the cancer-risk theme here
-- [[oral-medicine/chiang-2021-lichen-planus-malignant-transformation-review]] — companion OLP malignant-transformation review
+- [[oral-medicine/opmd/chiang-2021-lichen-planus-malignant-transformation-review]] — companion OLP malignant-transformation review
 - [[oral-medicine/opmd/kaur-2022-oral-lichen-planus-malignant-disorder-appraisal]] — OLP as oral potentially malignant disorder appraisal
-- [[oral-medicine/sandhu-2022-oral-lichen-planus-treatment-sr]] — corticosteroid/topical treatment SR (relevant to the glucose/BP corticosteroid caveat)
-- [[oral-medicine/garcia-rios-2022-oral-manifestations-systemic-lupus-erythematosus-sr]] — parallel oral-systemic disease page (lupus oral manifestations)
+- [[oral-medicine/lichen-planus/sandhu-2022-oral-lichen-planus-treatment-sr]] — corticosteroid/topical treatment SR (relevant to the glucose/BP corticosteroid caveat)
+- [[oral-medicine/immune-mediated/garcia-rios-2022-oral-manifestations-systemic-lupus-erythematosus-sr]] — parallel oral-systemic disease page (lupus oral manifestations)

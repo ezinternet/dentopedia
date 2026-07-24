@@ -49,8 +49,8 @@ PubMed 체계적 검색 기반 서술적 고찰.
 장기 RCT 부족; 위약 효과 크다.
 
 ## 6. Related Work
-- [[oral-medicine/canfora-2025-burning-mouth-syndrome-pathogenesis-review]] — related
-- [[oral-medicine/chmieliauskaite-2020-burning-mouth-syndrome-icd11-rename-delphi]] — related
+- [[oral-medicine/burning-mouth-syndrome/canfora-2025-burning-mouth-syndrome-pathogenesis-review]] — related
+- [[oral-medicine/burning-mouth-syndrome/chmieliauskaite-2020-burning-mouth-syndrome-icd11-rename-delphi]] — related
 
 ## 7. Glossary
 clonazepam: 클로나제팜(벤조디아제핀); TCA: tricyclic antidepressant 삼환계항우울제; CBT: Cognitive Behavioral Therapy 인지행동치료

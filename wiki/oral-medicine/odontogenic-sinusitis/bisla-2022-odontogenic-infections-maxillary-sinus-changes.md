@@ -74,7 +74,7 @@ This cross-sectional analytical CBCT study from India evaluated 213 systemically
 
 ## Related Papers
 
-- [[oral-medicine/psillas-2020-odontogenic-maxillary-sinusitis-comprehensive-review]] — comprehensive narrative review of odontogenic maxillary sinusitis; this CBCT study reinforces the role of periodontal disease
-- [[oral-medicine/kim-2019-definition-management-odontogenic-maxillary]] — definition and management overview; this study extends diagnostic CBCT evidence
-- [[oral-medicine/lin-2024-odontogenic-maxillary-sinusitis-expert-consensus]] — expert consensus; this study provides cross-sectional quantitative data supporting consensus positions
+- [[oral-medicine/odontogenic-sinusitis/psillas-2020-odontogenic-maxillary-sinusitis-comprehensive-review]] — comprehensive narrative review of odontogenic maxillary sinusitis; this CBCT study reinforces the role of periodontal disease
+- [[oral-medicine/odontogenic-sinusitis/kim-2019-definition-management-odontogenic-maxillary]] — definition and management overview; this study extends diagnostic CBCT evidence
+- [[oral-medicine/odontogenic-sinusitis/lin-2024-odontogenic-maxillary-sinusitis-expert-consensus]] — expert consensus; this study provides cross-sectional quantitative data supporting consensus positions
 - [[sinus-lift/lateral/altayar-2023-cbct-maxillary-sinus-septa-yemeni]] — related CBCT-based maxillary sinus anatomy characterization
