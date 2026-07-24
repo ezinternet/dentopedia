@@ -1840,7 +1840,7 @@ tags: []
 - [[oral-medicine/opmd/lorini-2021-opmd-overview-risk-factors-therapies]] — OPMD 위험인자부터 치료까지 개요 — 각 병소별 악성전환 위험도 및 치료 옵션 비교.
 - [[oral-medicine/opmd/gonzalez-moles-2021-lichen-planus-malignant-transformation-sr]] — 고품질 연구만 선별: 구강편평태선(OLP)의 진정한 악성전환율은 0.5–1.4%.
 - [[oral-medicine/opmd/aguirre-urizar-2021-leukoplakia-malignant-transformation-sr-ma]] — 최근 5년 OLK 악성전환 SR+MA — pooled rate 3.5%, 비균질형 OR 4.1.
-- [[oral-medicine/srivastava-2022-oral-lichen-planus-diagnosis-management-review]] — OLP 진단 기준(WHO/Van der Meij)·임상 유형 6가지·1차 치료(국소 스테로이드) 실용 고찰.
+- [[oral-medicine/lichen-planus/srivastava-2022-oral-lichen-planus-diagnosis-management-review]] — OLP 진단 기준(WHO/Van der Meij)·임상 유형 6가지·1차 치료(국소 스테로이드) 실용 고찰.
 - [[oral-medicine/opmd/kaur-2022-oral-lichen-planus-malignant-disorder-appraisal]] — OLP를 OPMD로 분류하는 근거의 한계 비판 — 진단 오류 가능성으로 전환율 과대추정.
 - [[oral-medicine/lichen-planus/patel-2023-lichen-planus-review-idoj]] — 편평태선(LP) 전신 임상양상 및 T세포 매개 면역병리기전 고찰 — 피부·구강·모발 침범.
 - [[oral-medicine/opmd/chiang-2021-lichen-planus-malignant-transformation-review]] — OLP 악성전환 위험인자·추적 프로토콜 고찰 — 6개월 주기 임상+조직학적 평가 권고.

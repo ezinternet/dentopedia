@@ -5,7 +5,7 @@ year: 2022
 date: 2022-01-01
 doi: N/A
 source: srivastava-2022-oral-lichen-planus-diagnosis-management-review.md
-category: [oral-medicine]
+category: [oral-medicine/lichen-planus]
 evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/srivastava-2022-oral-lichen-planus-diagnosis-management-review.pdf
 pdf_filename: srivastava-2022-oral-lichen-planus-diagnosis-management-review.pdf
