@@ -9,3 +9,11 @@
 - PMID 42339612 | periodontics | edat 2026/06/24 | screened 2026/07/14 | crevicular-fluid proteomics methodology niche, low actionability
 - PMID 42335388 | endodontics | edat 2026/06/01 | screened 2026/07/14 | off-topic infectious-disease prison epidemiology, query noise
 - PMID 42330716 | oral-medicine | edat 2026/06/22 | screened 2026/07/14 | preclinical MSC Sjogren animal SR, not clinically actionable
+- PMID 32757311 | implant-iip-loading | edat 2020/08/05 | screened 2026/07/24 | surgical technique (socket shield vs conventional), not a loading-timing comparison
+- PMID 29761846 | implant-iip-loading | edat 2018/05/15 | screened 2026/07/24 | implant macrogeometry/design comparison, not loading-timing protocol
+- PMID 25076118 | implant-iip-loading | edat 2014/07/30 | screened 2026/07/24 | antibiotic effect on healing, not loading-timing protocol
+- PMID 26073267 | implant-iip-loading | edat 2015/07/14 | screened 2026/07/24 | regenerative-procedure dimensional-change study, not loading-timing protocol
+- PMID 23578250 | implant-iip-loading | edat 2013/04/11 | screened 2026/07/24 | esthetic soft-tissue intervention review; immediate provisionalization is 1-of-6 minor factors, not organizing question
+- PMID 36767768 | implant-iip-loading | edat 2023/01/29 | screened 2026/07/24 | CKD-patient placement-protocol risk stratification, not loading-timing protocol
+- PMID 35763398 | implant-iip-loading | edat 2022/06/28 | screened 2026/07/24 | socket-shield gap-vs-contact technique study; better fit immediate-implant/gap-grafting
+- PMID 30702152 | implant-iip-loading | edat 2019/01/31 | screened 2026/07/24 | GBR effect on crestal bone (functional loading is the follow-up timepoint, not the studied variable); better fit immediate-implant/gap-grafting
