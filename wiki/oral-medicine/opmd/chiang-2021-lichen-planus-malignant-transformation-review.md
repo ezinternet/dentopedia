@@ -5,7 +5,7 @@ year: 2021
 date: 2021-07-01
 doi: null
 source: chiang-2021-lichen-planus-malignant-transformation-review.md
-category: [oral-medicine]
+category: [oral-medicine/opmd]
 evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/chiang-2021-lichen-planus-malignant-transformation-review.pdf
 pdf_filename: chiang-2021-lichen-planus-malignant-transformation-review.pdf

@@ -1843,7 +1843,7 @@ tags: []
 - [[oral-medicine/srivastava-2022-oral-lichen-planus-diagnosis-management-review]] — OLP 진단 기준(WHO/Van der Meij)·임상 유형 6가지·1차 치료(국소 스테로이드) 실용 고찰.
 - [[oral-medicine/opmd/kaur-2022-oral-lichen-planus-malignant-disorder-appraisal]] — OLP를 OPMD로 분류하는 근거의 한계 비판 — 진단 오류 가능성으로 전환율 과대추정.
 - [[oral-medicine/patel-2023-lichen-planus-review-idoj]] — 편평태선(LP) 전신 임상양상 및 T세포 매개 면역병리기전 고찰 — 피부·구강·모발 침범.
-- [[oral-medicine/chiang-2021-lichen-planus-malignant-transformation-review]] — OLP 악성전환 위험인자·추적 프로토콜 고찰 — 6개월 주기 임상+조직학적 평가 권고.
+- [[oral-medicine/opmd/chiang-2021-lichen-planus-malignant-transformation-review]] — OLP 악성전환 위험인자·추적 프로토콜 고찰 — 6개월 주기 임상+조직학적 평가 권고.
 - [[oral-medicine/burning-mouth-syndrome/canfora-2025-burning-mouth-syndrome-pathogenesis-review]] — BMS 병인론 최신 업데이트 + ICD-11 기반 진단 알고리즘 — 신경병증·심리·호르몬 통합 모델.
 - [[oral-medicine/burning-mouth-syndrome/canfora-2026-burning-mouth-syndrome-management-review]] — BMS 포괄적 관리 전략 — clonazepam 국소 1차 치료, CBT, 저용량 TCA 다학제 접근.
 - [[oral-medicine/gupta-2016-burning-mouth-syndrome-review]] — BMS 정의·역학(폐경 후 여성 0.7–4.6%)·병인·치료 기초 고찰.
