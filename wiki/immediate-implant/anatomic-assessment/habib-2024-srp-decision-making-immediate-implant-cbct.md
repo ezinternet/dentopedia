@@ -5,7 +5,7 @@ year: 2024
 date: 2024-02-27
 doi: 10.17219/dmp/133072
 source: habib-2024-srp-decision-making-immediate-implant-cbct.md
-category: [immediate-implant]
+category: [immediate-implant/anatomic-assessment]
 evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/habib-2024-srp-decision-making-immediate-implant-cbct.pdf
 pdf_filename: habib-2024-srp-decision-making-immediate-implant-cbct.pdf
