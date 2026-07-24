@@ -5,7 +5,7 @@ year: 2021
 date: 2021-05-15
 doi: "10.1111/cid.13014"
 source: zaki-2021-bone-substitute-materials-immediate-implant-sr-ma.md
-category: [immediate-implant]
+category: [immediate-implant/gap-grafting]
 evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/zaki-2021-bone-substitute-materials-immediate-implant-sr-ma.pdf
 pdf_filename: zaki-2021-bone-substitute-materials-immediate-implant-sr-ma.pdf
