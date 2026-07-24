@@ -5,7 +5,7 @@ year: 2020
 date: 2020-08-01
 doi: "10.3390/jcm9082346"
 source: bose-2020-root-analogue-implants-single-crowns-fpd.md
-category: [immediate-implant]
+category: [immediate-implant/root-analog]
 evidence_level: retrospective
 source_collection: pubmed-text
 full_text: true
