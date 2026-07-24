@@ -5,7 +5,7 @@ year: 2025
 date: 2025-01-31
 doi: 10.3390/dj13020066
 source: damario-2025-recurrent-aphthous-stomatitis-treatments-review.md
-category: [oral-medicine]
+category: [oral-medicine/aphthous-stomatitis]
 evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/damario-2025-recurrent-aphthous-stomatitis-treatments-review.txt
 pdf_filename: damario-2025-recurrent-aphthous-stomatitis-treatments-review.txt
