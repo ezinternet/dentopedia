@@ -5,7 +5,7 @@ year: 2025
 date: 2025-03-12
 doi: 10.22514/jofph.2025.009
 source: viscuso-2025-dentist-awareness-post-traumatic-trigeminal-neuropathic-pain-survey.md
-category: oral-medicine
+category: oral-medicine/trigeminal-neuralgia
 evidence_level: cross-sectional
 source_collection: pubmed-text
 full_text: true
