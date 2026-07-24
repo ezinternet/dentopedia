@@ -7,7 +7,7 @@ doi: 10.1016/j.jobcr.2024.03.008
 pmid: "38601261"
 pmcid: "PMC11005000"
 source: almugeiren-2024-placement-immediate-dental-implants-extraction.md
-category: [immediate-implant]
+category: [immediate-implant/infected-socket]
 evidence_level: sr+ma
 source_collection: pubmed-text
 text_path: /Users/oracleneo/llm-wiki/papers/almugeiren-2024-placement-immediate-dental-implants-extraction.txt
