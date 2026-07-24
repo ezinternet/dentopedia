@@ -1874,7 +1874,7 @@ tags: []
 - [[oral-medicine/disha-2024-oral-tori-adult-albanian-population]] — Cross-sectional pilot(n=122, 알바니아 티라나): 구강 torus 전체 유병률 48.4%(TM 39%·ABE 16%·TP 14%), 18–29세 최다, 성별·이갈이 무관 (DOI 10.3390/dj12080242)
 - [[oral-medicine/mancini-2025-oral-herpes-treatment-sr]] — SR (PRISMA, 2005–2025): 구강 HSV — 국소제는 조기 적용 시 병변기간 단축하나 재발 미감소; 전신 항바이러스제(아시클로버·발라시클로버·팜시클로버)는 해소·재발 예방 (IJMS 2025)
 - [[oral-medicine/lv-2025-anti-hsv1-agents-update]] — 약리 리뷰: 항-HSV-1 약물 60년 업데이트 — 뉴클레오시드 유사체·헬리카제-프라이메이스 억제제·면역조절제; 내성 문제와 부재한 백신 (Front Pharmacol 2025)
-- [[oral-medicine/kechichian-2024-erythema-multiforme-review]] — 내러티브 리뷰: 다형홍반(EM) — HSV/마이코플라스마 유발 피부·점막질환, SJS/TEN 감별, 대증+원인 항바이러스 치료; 재발형은 억제 항바이러스 1차 (eClinicalMedicine 2024)
+- [[oral-medicine/immune-mediated/kechichian-2024-erythema-multiforme-review]] — 내러티브 리뷰: 다형홍반(EM) — HSV/마이코플라스마 유발 피부·점막질환, SJS/TEN 감별, 대증+원인 항바이러스 치료; 재발형은 억제 항바이러스 1차 (eClinicalMedicine 2024)
 - [[oral-medicine/immune-mediated/dean-2022-oral-chronic-gvhd-review]] — 미니리뷰: 구강 만성 GVHD(동종 HCT 30–50%) — 태선양 점막염·타액선 기능저하·조직경화 3주체, NIH 2014 기준, 국소→전신 면역억제 (Front Oral Health 2022)
 - [[oral-medicine/immune-mediated/bandara-2025-desquamative-gingivitis-pharmacological-treatment-sr]] — Bandara 2025 · sr · 박리성 치은염(desquamative gingivitis, OLP/MMP/PV) 약물치료 SR(15편): clobetasol·tacrolimus 국소 1차(통증·병변 유의 감소), 전신제는 부작용 부담↑; PRP·프로폴리스/나노비타민 겔 보조 유망
 - [[oral-medicine/nonaka-2023-saliva-diagnostics-salivaomics-exosomics-liquid-biopsy]] — Nonaka & Wong 2023 · narrative-review (JADA, Wong/UCLA): 침 진단 3축(살리바오믹스·침 엑소좀학·침 액체생검) + EFIRM 전기화학 센서로 폐암 EGFR ctDNA·SARS-CoV-2 침 검출; 침 20~30%가 혈장 단백질체와 중첩 (DOI 10.1016/j.adaj.2023.05.006)
