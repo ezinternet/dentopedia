@@ -2103,7 +2103,7 @@ tags: []
 - [[immediate-implant/liu-2024-maxillary-immediate-molar-palatal-root-socket]] — Guanqi Liu 2024 · case-report · Maxillary Immediate Molar Implant Placement Into Palatal Root Socket: A Case Report of Two-Year Follow-Up
 - [[immediate-implant/trombelli-2024-bioarp-bone-dehiscence-immediate-implant]] — Leonardo Trombelli 2024 · case-report · Biologically-oriented alveolar ridge preservation to correct bone dehiscence at immediate implant placement
 - [[immediate-implant/yaghmai-2025-palatal-root-socket-all-on-x]] — Pedram Yaghmai 2025 · case-report · Implant Placement in the Palatal Root Socket of Maxillary Molars to Avoid Posterior Cantilevers in All-on-X Treatments
-- [[immediate-implant/galve-huertas-2026-inverted-body-shift-vs-conical-rct]] — Andrea Galve-Huertas 2026 · rct · Immediate implant using an inverted body-shift design versus a conventional conical implant: A randomized clinical trial with 1 year follow-up
+- [[immediate-implant/primary-stability/galve-huertas-2026-inverted-body-shift-vs-conical-rct]] — Andrea Galve-Huertas 2026 · rct · Immediate implant using an inverted body-shift design versus a conventional conical implant: A randomized clinical trial with 1 year follow-up
 - [[immediate-implant/grenzi-2026-spal-peri-implant-bone-dehiscence-iip]] — Tommaso Grenzi 2026 · case-report · Subperiosteal peri-implant augmented layer to correct bone dehiscence at immediate implant placement
 - [[immediate-implant/esthetic-soft-tissue/staas-2026-fiipp-palatal-position-cbct-3year]] — Tristan Ariaan Staas 2026 · prospective · Flapless immediate implant placement and provisionalisation (FIIPP) using a palatal implant position (≥ 2 mm): A prospective multicentre CBCT study with a 3-year follow-up
 

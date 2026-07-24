@@ -5,7 +5,7 @@ year: 2026
 date: 2026-03-01
 doi: 10.4317/medoral.27220
 source: galve-huertas-2026-inverted-body-shift-vs-conical-rct.md
-category: [immediate-implant]
+category: [immediate-implant/primary-stability]
 evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/galve-huertas-2026-inverted-body-shift-vs-conical-rct.pdf
 pdf_filename: galve-huertas-2026-inverted-body-shift-vs-conical-rct.pdf
