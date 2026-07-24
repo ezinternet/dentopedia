@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.3389/fcimb.2025.1555964
 journal: Front Cell Infect Microbiol 15:1555964
 source: li-2025-immediate-implant-periodontitis-short-term-retrospective.md
-category: [immediate-implant]
+category: [immediate-implant/infected-socket]
 evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/li-2025-immediate-implant-periodontitis-short-term-retrospective.pdf
 pdf_filename: li-2025-immediate-implant-periodontitis-short-term-retrospective.pdf
