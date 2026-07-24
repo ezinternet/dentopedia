@@ -5,7 +5,7 @@ year: 2021
 date: 2021-12-30
 doi: 10.1155/2021/4754078
 source: wang-2021-titanium-mesh-cgf-immediate-implantation-anterior.md
-category: [immediate-implant]
+category: [immediate-implant/gap-grafting]
 evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/wang-2021-titanium-mesh-cgf-immediate-implantation-anterior.pdf
 pdf_filename: wang-2021-titanium-mesh-cgf-immediate-implantation-anterior.pdf
