@@ -7,7 +7,7 @@ doi: 10.5037/jomr.2020.11201
 pmid: "32760474"
 pmcid: "PMC7393932"
 source: saijeva-2020-immediate-implant-placement-non-infected-sockets.md
-category: [immediate-implant]
+category: [immediate-implant/infected-socket]
 evidence_level: sr+ma
 source_collection: pubmed-text
 text_path: /Users/oracleneo/llm-wiki/papers/saijeva-2020-immediate-implant-placement-non-infected-sockets.txt
