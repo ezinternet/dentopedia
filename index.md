@@ -1854,7 +1854,7 @@ tags: []
 - [[oral-medicine/psillas-2020-odontogenic-maxillary-sinusitis-comprehensive-review]] — 서술 고찰 (그리스 ENT+치과): 단측 상악동염 약 30%가 치성 원인; 발치·치성감염·OAF 주 원인; 치과 수술 + ESS 병행 표준; ENT-치과 다학제팀 필수 (J Dent Sci 2021)
 - [[oral-medicine/lin-2024-odontogenic-maxillary-sinusitis-expert-consensus]] — 중국 다기관 전문가 합의 (20+ 저자, 15개 기관): CT 기준 단측 상악동 혼탁의 45–72%가 치성; 표준화된 분류·진단·다학제 치료 알고리즘 제시 (Int J Oral Sci 2024)
 - [[oral-medicine/kim-2019-definition-management-odontogenic-maxillary]] — Kim 2019 내러티브 리뷰: 치성 상악동염(OMS) 정의·병인·미생물학(세균 생물막)·CLP/FESS/MESS 수술 비교·구강-상악동 누공 관리; OMS = 만성 상악동염의 30–40% (DOI 10.1186/s40902-019-0196-2)
-- [[oral-medicine/craig-2022-odontogenic-sinusitis-state-art]] — 치과기원 부비동염(ODS) 이비인후과 관점 서술 리뷰: 이중확인 진단체계, 항생제 한계, 치과+ESS 병행 90–100% 해소율, 1차 ESS 옵션 (DOI 10.1002/wjo2.9)
+- [[oral-medicine/odontogenic-sinusitis/craig-2022-odontogenic-sinusitis-state-art]] — 치과기원 부비동염(ODS) 이비인후과 관점 서술 리뷰: 이중확인 진단체계, 항생제 한계, 치과+ESS 병행 90–100% 해소율, 1차 ESS 옵션 (DOI 10.1002/wjo2.9)
 - [[oral-medicine/odontogenic-sinusitis/albu-2025-treatment-landscape-odontogenic-sinusitis]] — Albu 2025 (narrative review, 6 SR+24편, Medicina): ODS — 경험적 amox/amox-clav 1차지만 항생제 단독 비치료적, 치과 원인 제거 필수, 치과+ESS 병행 ~97% 성공, uncomplicated는 maxillary antrostomy 단독 가능 (2025)
 - [[oral-medicine/de-corso-2022-sinonasal-complications-dental-disease]] — 후향 코호트(262례, Gemelli IRCCS 2015–2022): SCDDT 내시경 비내수술(FESS) 성공률 96.5%, SNOT-22 43.4→6(15일); 원인 55.3% 의인성(임플란트·발치) vs 44.7% 치성; Felisati SCDDT 분류 적용; OAF 동시 처치 가능 (DOI 10.3390/jpm12122078)
 - [[oral-medicine/odontogenic-sinusitis/bisla-2022-odontogenic-infections-maxillary-sinus-changes]] — CBCT 단면연구(213명, 404동): 치주골소실이 상악동 점막비후의 치근단병소보다 강한 예측인자(OR 2.2, p=0.008); 전체 점막변화 49.5% (DOI 10.1016/j.jobcr.2022.08.001)
