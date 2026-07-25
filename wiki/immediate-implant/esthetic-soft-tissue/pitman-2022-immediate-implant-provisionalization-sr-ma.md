@@ -44,3 +44,4 @@ PubMed/Medline/Cochrane systematic search; RCT and prospective studies.
 ## Related Papers
 - [[immediate-implant/loading-protocol/wittneben-2023-immediate-implant-loaded-single-crown-sr]] — related
 - [[immediate-implant/esthetic-soft-tissue/gaddale-2024-immediate-implant-loading-esthetic-tissue-sr-ma]] — related
+- [[immediate-implant/esthetic-soft-tissue/kinaia-2017-soft-tissue-changes-around]] — together with qin-2023 and sutariya-2022, partially supersedes this earlier (2017) SR+MA's provisionalization-vs-not sub-analysis specifically; Kinaia's separate IIP-vs-CIP and gingival-biotype findings are untouched by this paper.
