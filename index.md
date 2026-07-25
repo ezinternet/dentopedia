@@ -543,6 +543,7 @@ tags: []
 - [[immediate-implant/loading-protocol/huynh-ba-2018-immediate-loading-vs-early-conventional]] — SR(9편, PROM 중심, 메타분석 불가): 즉시식립 임플란트의 즉시 vs 조기/관행 부하 간 환자보고결과(PROM) 차이 미미, 환자만족도 프로토콜 무관 높음.
 - [[immediate-implant/esthetic-soft-tissue/girlanda-2019-deproteinized-bovine-bone-derived-collagen]] — RCT(n=22, 무피판 즉시식립+즉시임시보철): DBBM+콜라겐 이식군이 3·6개월 연조직높이·6개월 협설측 치조제 치수 유의 우위(p<0.05).
 - [[immediate-implant/esthetic-soft-tissue/chan-2019-randomized-controlled-trial-compare-aesthetic]] — RCT(n=40, 12개월): 즉시 임시크라운 vs 치유지대주 — 협측점막변연·유두높이 군간 유의차 없음; 수직 치조정골흡수만 임시크라운군 유의하게 큼.
+- [[immediate-implant/esthetic-soft-tissue/kinaia-2017-soft-tissue-changes-around]] — SR+MA(12편/106편 스크리닝): IIP vs CIP 유두높이는 CIP 우위(MD -0.40~-0.77mm); IIP 내 후속층화 — 두꺼운 치은생물형이 MFR·유두높이 유의 우위, 즉시임시수복이 유두높이 유의 우위(MD -0.52, P=0.028). 임시수복 소견만 pitman-2022/qin-2023/sutariya-2022에 부분 superseded, IIP-vs-CIP·생물형 소견은 유지.
 
 ## 상악동거상술 — 측방접근 (Sinus Lift: Lateral Window)
 - [[sinus-lift/lateral/lim-2011-sinus-membrane-perforation-techniques-review]] — Lim 2011, Korean review of Schneiderian membrane perforation repair techniques/materials in sinus lift surgery
