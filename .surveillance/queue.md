@@ -276,15 +276,15 @@
       "Hard and soft tissue alterations during the healing stage of immediate implant placement and provisionalization with or without connective tissue graft: A randomized clinical trial." — J Clin Periodontol
 - [ ] PMID 31846073 | RCT | OA:none | implant-iip-loading | edat 2020/01/09
       "Volumetric facial contour changes of immediately placed implants with and without immediate provisionalization." — J Periodontol
-- [ ] PMID 31292983 | RCT | OA:none | implant-iip-loading | edat 2019/08/25
+- [x] PMID 31292983 | RCT | OA:none | implant-iip-loading | edat 2019/08/25 — INGESTED 2026-07-25 → wiki/immediate-implant/esthetic-soft-tissue/chan-2019-randomized-controlled-trial-compare-aesthetic
       "A randomized controlled trial to compare aesthetic outcomes of immediately placed implants with and without immediate provisionalization." — J Clin Periodontol
-- [ ] PMID 30693399 | RCT | OA:none | implant-iip-loading | edat 2019/01/28
+- [x] PMID 30693399 | RCT | OA:none | implant-iip-loading | edat 2019/01/28 — INGESTED 2026-07-25 → wiki/immediate-implant/esthetic-soft-tissue/girlanda-2019-deproteinized-bovine-bone-derived-collagen
       "Deproteinized bovine bone derived with collagen improves soft and bone tissue outcomes in flapless immediate implant approach and immediate provisionalization: a randomized clinical trial." — Clin Oral Investig
-- [ ] PMID 30328205 | SR | OA:none | implant-iip-loading | edat 2018/10/01
+- [x] PMID 30328205 | SR | OA:none | implant-iip-loading | edat 2018/10/01 — INGESTED 2026-07-25 → wiki/immediate-implant/loading-protocol/huynh-ba-2018-immediate-loading-vs-early-conventional (relations: reinforces qian-2024, Opus-reviewed no-supersession)
       "Immediate loading vs. early/conventional loading of immediately placed implants in partially edentulous patients from the patients' perspective: A systematic review." — Clin Oral Implants Res
-- [ ] PMID 30328194 | SR | OA:none | implant-iip-loading | edat 2018/10/01
+- [x] PMID 30328194 | SR | OA:none | implant-iip-loading | edat 2018/10/01 — INGESTED 2026-07-25 → wiki/implants/gallucci-2018-implant-placement-loading-protocols-partially (superseded_by gallucci-2026, partial scope)
       "Implant placement and loading protocols in partially edentulous patients: A systematic review." — Clin Oral Implants Res
-- [ ] PMID 28517971 | SR+MA | OA:none | implant-iip-loading | edat 2017/05/18
+- [x] PMID 28517971 | SR+MA | OA:none | implant-iip-loading | edat 2017/05/18 — INGESTED 2026-07-25 → wiki/immediate-implant/esthetic-soft-tissue/kinaia-2017-soft-tissue-changes-around (superseded_by pitman-2022/qin-2023/sutariya-2022, partial scope — 3rd analysis only)
       "Soft Tissue Changes Around Immediately Placed Implants: A Systematic Review and Meta-Analyses With at Least 12 Months of Follow-Up After Functional Loading." — J Periodontol
 - [ ] PMID 27861657 | SR+MA | OA:none | implant-iip-loading | edat 2016/01/01
       "Soft and Hard Tissue Changes Following Immediate Placement or Immediate Restoration of Single-Tooth Implants in the Esthetic Zone: A Systematic Review and Meta-Analysis." — Int J Oral Maxillofac Implants
@@ -292,19 +292,19 @@
       "Impact of placement and restoration timing on single-implant esthetic outcome - a randomized clinical trial." — Clin Oral Implants Res
 - [ ] PMID 24502689 | SR | OA:none | implant-iip-loading | edat 2014/02/06
       "A systematic review on the innervation of peri-implant tissues with special emphasis on the influence of implant placement and loading protocols." — Clin Oral Implants Res
-- [ ] PMID 26669545 | RCT | OA:none | implant-iip-loading | edat 2015/01/01
+- [x] PMID 26669545 | RCT | OA:none | implant-iip-loading | edat 2015/01/01 — ALREADY INGESTED (dup, confirmed 2026-07-25 by exact title/author match) → esposito-2015-immediate-loading-vs-delayed-anterior-rct
       "Immediate loading of post-extractive versus delayed placed single implants in the anterior maxilla: outcome of a pragmatic multicenter randomised controlled trial 1-year after loading." — Eur J Oral Implantol
 - [ ] PMID 24502614 | SR | OA:none | implant-iip-loading | edat 2014/02/06
       "Immediate placement of dental implants in the esthetic zone: a systematic review and pooled analysis." — J Periodontol
 - [ ] PMID 22509755 | SR+MA | OA:none | implant-iip-loading | edat 2012/04/17
       "Effect of the timing of restoration on implant marginal bone loss: a systematic review." — J Periodontol
-- [ ] PMID 20977611 | RCT | OA:none | implant-iip-loading | edat 2010/10/26
+- [x] PMID 20977611 | RCT | OA:none | implant-iip-loading | edat 2010/10/26 — INGESTED 2026-07-25 → wiki/immediate-implant/loading-protocol/shibly-2010-immediate-implants-immediate-loading-conventional
       "Immediate implants with immediate loading vs. conventional loading: 1-year randomized clinical trial." — Clin Implant Dent Relat Res
-- [ ] PMID 20681808 | RCT | OA:none | implant-iip-loading | edat 2010/08/03
+- [x] PMID 20681808 | RCT | OA:none | implant-iip-loading | edat 2010/08/03 — INGESTED 2026-07-25 → wiki/immediate-implant/loading-protocol/shibly-2010-bone-regeneration-around-implants-in
       "Bone regeneration around implants in periodontally compromised patients: a randomized clinical trial of the effect of immediate implant with immediate loading." — J Periodontol
 - [ ] PMID 20369102 | SR+MA | OA:none | implant-iip-loading | edat 2010/01/01
       "Immediate placement or immediate restoration/loading of single implants for molar tooth replacement: a systematic review and meta-analysis." — Int J Oral Maxillofac Implants
-- [ ] PMID 19835754 | RCT | OA:none | implant-iip-loading | edat 2009/11/01
+- [x] PMID 19835754 | RCT | OA:none | implant-iip-loading | edat 2009/11/01 — INGESTED 2026-07-25 → wiki/immediate-implant/esthetic-soft-tissue/block-2009-prospective-evaluation-immediate-delayed
       "Prospective evaluation of immediate and delayed provisional single tooth restorations." — J Oral Maxillofac Surg
 - [ ] PMID 27314123 | SR | OA:none | implant-iip-loading | edat 2016/01/01
       "Single implants in dorsal areas - A systematic review." — Eur J Oral Implantol
