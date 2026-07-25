@@ -410,6 +410,11 @@ tags: []
 - [[bone-regeneration/giannotti-2023-autologous-platelet-concentrates-clinical-applications]] — Giannotti 2023 · narrative-review · PRP/PRF/CGF 3세대 비교(Genes, PMC full text) — 혈소판농축배율·성장인자(TGF-β/BMP/VEGF/PDGF) 방출기간 세대별 증가(1시간→7-10일→28일), CGF가 CD34+/CD45+/CD105+ 세포 함유하며 가장 우수한 APC로 제시
 - [[bone-regeneration/zhou-2025-flap-advancement-bone-graft-displacement]] — Zhou 2025 · animal · 돼지 반측하악골 ex vivo(n=60, PMC full text): 대량 피판전진(FA2, 9.2mm/0.02N)이 중등도 전진(FA1, 4.4mm/0.09N)보다 이식재 변위를 유의하게 줄임(ΔGMT −35.7% vs −44.99%, p<0.001); 2-핀 막 고정은 무효과(p≥0.19)
 - [[bone-regeneration/pohl-2023-bone-shell-technique-relocated-crestal]] — Pohl 2023 · case-report · 하악 전방부 수평 위축(n=5/20부위): 관상부 knife-edge 능선 분절을 자가 골쉘로 재위치 — 골막이완절개·판막전진 불필요, 수평골증대 3.4-3.6mm (abstract-only)
+- [[bone-regeneration/ridge-preservation/el-sioufi-2023-clinical-evaluation-different-alveolar]] — El-Sioufi 2023 · rct (abstract-only) · 4군 RCT(n=41): FDBA+CS/FDBA+FGG/DBBM+FGG 이식군이 FGG단독보다 유의하게 골흡수 적음, 동종골≈이종골(협측중앙 수직만 이종골 근소 우세 p=0.05), FDBA 위 CS≈FGG 실링재
+- [[bone-regeneration/ridge-preservation/iorio-siciliano-2019-dimensional-changes-following-alveolar-ridge]] — Iorio-Siciliano 2019 · rct (abstract-only) · 구치부 골벽온전 발치와 3군 RCT(n=40): 이종골+콜라겐막/이종골+콜라겐막/자연치유 6개월 군간 차이없음(p>0.05) — 골벽 온전 시 ARP 이점 없음
+- [[bone-regeneration/ridge-preservation/kalsi-2019-alveolar-ridge-preservation-why-when]] — Kalsi 2019 · narrative-review (BDJ CPD) · ARP 적응증·시기·술식 종합, 이종골/동종골 ARP가 발치단독 대비 골높이·폭경 약 2mm 더 보존(코크란 근거), 소켓유형별 결정트리+수술프로토콜
+- [[bone-regeneration/ridge-preservation/kim-2024-advancements-alveolar-bone-grafting-ridge]] — Kim&Kim 2024 · narrative-review · ARP 재료·술식 종합(4대 재료군), 장기 임플란트 생존율 90.5–100%, 1년 심미 VAS 94/100, 차단막 비용($12–189)과 흡수감소 상관관계
+- [[bone-regeneration/ridge-preservation/mahmoud-2025-collagen-sponge-xenograft-ridge-preservation-rct]] — Mahmoud 2025 · rct · 3군 RCT(n=36): 콜라겐+이종골 vs 콜라겐단독 vs 자연치유, 1mm 수평폭손실 17.8%/19% vs 41.8%(p<0.001), 콜라겐+이종골군 층판골 최다(54.8%)·염증無
 
 ## PDRN — 폴리데옥시리보뉴클레오티드 (Polydeoxyribonucleotide)
 - [[overviews/pdrn-dentistry-evidence-synthesis]] — Synthesis 2026-05-31 (17편 종합): 기전(A2A 수용체+salvage pathway) 탄탄. 근거가 둘로 갈림 — **진통·항염**은 human 근거 강함(발치 RCT 1 + TMJ 후향코호트 1 + 비치과 SR/MA 2), **재생**은 전부 animal·in vitro·zone/outcome 한정·시간 전엽(초기 가속 후 종점 수렴); 1차 골유착(BIC/BAFO)·연조직 volume 무차이; dose 비선형; autograft 대체 미입증; MRONJ 기전 근거 추가; 저위험 adjunct로 합리적.
