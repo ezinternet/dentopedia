@@ -3,7 +3,7 @@ title: "The soft tissue esthetic outcome with and without immediate provisionali
 authors: Sutariya PV, Mehta SP, Upadhyay HH, Pathan MR, Patel SR, Bhatia YA
 year: 2022
 date: 2022-01-01
-doi: 10.4103/jips.jips_399_21
+doi: 10.4103/jips.jips_227_21
 source: sutariya-2022-soft-tissue-immediate-provisionalization-sr-ma.md
 category: [immediate-implant/esthetic-soft-tissue]
 evidence_level: sr+ma
@@ -47,6 +47,7 @@ Qin 2023, Pitman 2022와 일관된 결론. 전치부 IIP에서 1차 안정성 �
 - [[immediate-implant/esthetic-soft-tissue/pitman-2022-immediate-implant-provisionalization-sr-ma]] — 동일 주제 Cosyn SR+MA
 - [[immediate-implant/esthetic-soft-tissue/qin-2023-immediate-implant-provisionalization-maxillary-esthetic-sr-ma]] — midfacial mucosa SR+MA
 - [[immediate-implant/esthetic-soft-tissue/slagter-2021-immediate-single-implant-provisionalization-5year]] — 5년 prospective
+- [[immediate-implant/esthetic-soft-tissue/kinaia-2017-soft-tissue-changes-around]] — together with pitman-2022 and qin-2023, partially supersedes this earlier (2017) SR+MA's provisionalization-vs-not sub-analysis; Kinaia's separate IIP-vs-CIP and gingival-biotype findings are untouched.
 
 ## Sources
 - Source: 
