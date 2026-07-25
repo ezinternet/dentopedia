@@ -550,6 +550,10 @@ tags: []
 - [[immediate-implant/esthetic-soft-tissue/francisco-2021-timing-implant-placement-loading-esthetic]] — SR+MA(18 RCT, 8,549편 선별): 단일치 임플란트 식립시기(즉시/조기/지연)·부하시기(즉시/종래) 모두 심미지표(MFR/PES/WES/유두지수) 무차이(1·2·10년) — pommer-2021(같은 ITI 특별호)과 생존/심미 축 상보.
 - [[immediate-implant/gotfredsen-2021-patient-perception-timing-concepts-implant]] — SR(40편/35코호트): 식립·부하 타이밍이 환자보고결과(불편감·만족도)에 강한 영향 없음; 무치악 완전틀니에서만 즉시부하 단기(≤1년) 선호 약한 근거, 12개월엔 사라짐.
 - [[immediate-implant/puisys-2022-immediate-implant-placement-vs-early]] — RCT(n=50, 1년, 엄격 환자선택): 즉시 vs 조기식립 — PES 동등(12.8 vs 12.5), 협측점막수준 즉시군 유의 우위(+0.2mm, p=.047), 의자시간 즉시군 50%↓(127 vs 259분).
+- [[immediate-implant/felice-2016-immediate-immediate-delayed-post-extractive]] — 3군 RCT(n=210, 4개월 시점): 즉시·즉시지연(6주)·지연(4개월) 식립 — 실패율 6.0/6.2/1.6%(무의미)나 변연골소실·PES는 지연할수록 유의하게 악화(P=.006/<.001). esposito-2017(같은 코호트 1년 후속보고)과 연계.
+- [[immediate-implant/esposito-2017-immediate-immediate-delayed-post-extractive]] — 위 3군 RCT 1년 후속보고(동일 210명 코호트): 실패율 4개월과 동일(신규실패 없음), 변연골·PES 패턴 그대로 유지(P=.015/<.001) — 즉시·즉시지연 우위가 일시적 아님을 확인.
+- [[immediate-implant/checchi-2017-wide-diameter-immediate-post-extractive]] — RCT(n=100, 구치부): 즉시 광경직경(6-8mm) vs 치조제보존 후 지연 통상직경(4-5mm) — PES는 지연군 유의 우위(4개월 P=.03, 1년 P=.02), 즉시군은 내원·수술횟수 유의하게 적음(P<.001). puisys-2022와 심미 방향 반대(부위·직경 차이로 해석).
+- [[immediate-implant/esthetic-soft-tissue/weigl-2016-impact-immediately-placed-restored]] — SR(17편, 626 IIPR): 무피판 65.6%, jump space 1.38–2.25mm, 성공률 97.96%·생존율 98.25%(평균 31.2개월) — 생물형 무관 중안모 점막변화 <0.95mm.
 
 ## 상악동거상술 — 측방접근 (Sinus Lift: Lateral Window)
 - [[sinus-lift/lateral/lim-2011-sinus-membrane-perforation-techniques-review]] — Lim 2011, Korean review of Schneiderian membrane perforation repair techniques/materials in sinus lift surgery
