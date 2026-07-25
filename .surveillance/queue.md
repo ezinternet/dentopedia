@@ -308,3 +308,13 @@
       "Prospective evaluation of immediate and delayed provisional single tooth restorations." — J Oral Maxillofac Surg
 - [ ] PMID 27314123 | SR | OA:none | implant-iip-loading | edat 2016/01/01
       "Single implants in dorsal areas - A systematic review." — Eur J Oral Implantol
+
+Found by manual PDF discovery (not the original scout search), 2026-07-25 — same topic, added retroactively:
+- [x] PMID 27722222 | RCT | OA:none | implant-iip-loading | edat 2016/01/01 — INGESTED 2026-07-25 → wiki/immediate-implant/felice-2016-immediate-immediate-delayed-post-extractive
+      "Immediate, immediate-delayed (6 weeks) and delayed (4 months) post-extractive single implants: 4-month post-loading data from a randomised controlled trial." — Eur J Oral Implantol 2016;9(3):233-247
+- [x] PMID 28327692 | RCT | OA:none | implant-iip-loading | edat 2017/01/01 — INGESTED 2026-07-25 → wiki/immediate-implant/esposito-2017-immediate-immediate-delayed-post-extractive (same 210-pt cohort as 27722222, 1-year follow-up of the 4-month report above)
+      "Immediate, immediate-delayed (6 weeks) and delayed (4 months) post-extractive single implants: 1-year post-loading data from a randomised controlled trial." — Eur J Oral Implantol 2017;10(1):11-26
+- [x] PMID 27314114 | SR | OA:none | implant-iip-loading | edat 2016/01/01 — INGESTED 2026-07-25 → wiki/immediate-implant/esthetic-soft-tissue/weigl-2016-impact-immediately-placed-restored
+      "The impact of immediately placed and restored single-tooth implants on hard and soft tissues in the anterior maxilla." — Eur J Oral Implantol 2016;9 Suppl 1:S89-106
+- [x] PMID 28944355 | RCT | OA:none | implant-iip-loading | edat 2017/01/01 — INGESTED 2026-07-25 → wiki/immediate-implant/checchi-2017-wide-diameter-immediate-post-extractive (relations: contradicts puisys-2022-immediate-implant-placement-vs-early — molar/wide-diameter, opposite esthetic direction)
+      "Wide diameter immediate post-extractive implants vs delayed placement of normal-diameter implants in preserved sockets in the molar region: 1-year post-loading outcome of a randomised controlled trial." — Eur J Oral Implantol 2017;10(3):263-278
