@@ -17,6 +17,8 @@ text_filename: gallucci-2026-current-state-of-evidence-for.txt
 tags: [placement-timing, loading-protocol, implant-survival, systematic-review, partially-edentulous, fixed-dental-prosthesis, prospero, validation-framework]
 relations:
   - type: extends
+    target: gallucci-2018-implant-placement-loading-protocols-partially
+  - type: extends
     target: zhou-2021-placement-loading-protocols-single-implants-sr
   - type: reinforces
     target: aiquel-2021-timing-placement-loading-multiple-unit-sr-ma
