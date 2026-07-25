@@ -246,7 +246,7 @@
       "Is the facial bone wall critical to achieving esthetic outcomes in immediate implant placement with immediate restoration? A systematic review." — Adv Clin Exp Med
 - [ ] PMID 38693759 | RCT | OA:none | implant-iip-loading | edat 2024/05/01
       "Immediate versus early loading of immediately placed bone-level tapered dental implants with hydrophilic surface in full arch maxillary rehabilitation: A pilot randomized clinical trial with 2-year follow-up." — Clin Implant Dent Relat Res
-- [ ] PMID 38109387 | RCT | OA:none | implant-iip-loading | edat 2023/12/18
+- [x] PMID 38109387 | RCT | OA:none | implant-iip-loading | edat 2023/12/18 — INGESTED 2026-07-25 → wiki/immediate-implant/socket-shield/venkatraman-2023-comparison-soft-tissue-volumetric
       "Comparison of Soft Tissue Volumetric Changes and Pink Esthetics After Immediate Implant Placement with Socket Shield and Conventional Techniques: A Randomized Controlled Trial." — Int J Prosthodont
 - [x] PMID 37957760 | RCT | OA:PMC PMC10644537 | implant-iip-loading | edat 2023/11/13 — INGESTED 2026-07-24 → wiki/immediate-implant/gap-grafting/el-ebiary-2023-guided-immediate-implant-mixture-autogenous
       "Guided immediate implant with and without using a mixture of autogenous and xeno bone grafts in the dental esthetic zone. A randomized clinical trial." — BMC Res Notes
