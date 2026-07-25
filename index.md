@@ -524,7 +524,7 @@ tags: []
 - [[immediate-implant/esthetic-soft-tissue/seyssens-2021-immediate-implant-connective-tissue-graft-sr-ma]] — SR+MA (Cosyn 그룹, 5 RCT+3 NRS, n=409, JCP 2021;48:284): IIP+CTG vs IIP — CTG 군 vertical midfacial 연조직 변화 유의 적음 (recession ~0.4-0.7 mm 보존). thin biotype 권장 근거.
 - [[immediate-implant/gap-grafting/seyssens-2022-immediate-implant-socket-grafting-sr-ma]] — SR+MA (Cosyn, 15 RCT, n=577/604, CIDRR 2022;24:339): IIP+SG vs IIP — socket grafting 군 horizontal hard tissue loss 유의 감소; BBT 보존; 생존 동등. jump space ≥2 mm 시 골이식 standard.
 - [[immediate-implant/esthetic-soft-tissue/slagter-2021-immediate-single-implant-provisionalization-5year]] — 5년 prospective (Groningen, JCP 2021;48:272): 상악 심미부 단일 IIP + 즉시임시치관 vs 지연임시치관 — 즉시임시 군 BBT·midfacial mucosa 보존 약간 우위; 양 군 생존 높음.
-- [[immediate-implant/esthetic-soft-tissue/sutariya-2022-soft-tissue-immediate-provisionalization-sr-ma]] — SR+MA (JIPS 2022;22:142): 즉시식립 IP 유무에 따른 PES·BoP·PD·plaque·papilla recession·midfacial recession; IP 군 PES 약간 우위·midfacial recession 감소 경향. Pitman 2022·Qin 2023과 일관.
+- [[immediate-implant/esthetic-soft-tissue/sutariya-2022-soft-tissue-immediate-provisionalization-sr-ma]] — SR+MA (JIPS 2022;22:2): 즉시식립 IP 유무에 따른 PES·BoP·PD·plaque·papilla recession·midfacial recession; IP 군 PES 약간 우위·midfacial recession 감소 경향. Pitman 2022·Qin 2023과 일관.
 - [[immediate-implant/gap-grafting/darosa-2019-immediate-dentoalveolar-restoration-osseodensification-periodontal]] — 증례 보고(n=2, paywall): 치주적으로 손상된 발치와에서 IDR(자가 결절골 블록 협측 재건) + OD 병용 — IT 상승으로 즉시 임시치관 가능; 정량 데이터 본문 추출 불가
 - [[immediate-implant/molar-septum/bleyan-2021-molar-septum-expansion-osseodensification-immediate-implant]] — 다기관 후향(n=131/145 임플란트, 5 센터, 추적 최대 5년): OD 대구치 격벽 확장 — 평균 격벽폭 3.3mm → 골 절삭 직경 4.65mm; 누적 생존율 93.1%(10 실패); 새 대구치 소켓 분류 제안
 - [[immediate-implant/socket-shield/oliva-2023-socket-shield-buccal-bone-preservation-sr]] — SR (D'Amario et al., JPIS 2023, PROSPERO, 17 studies/656 implants): SST BBPR 감소 — 생존율 98.6%, **BBPR 0.32 (SST) vs 1.05 mm (conventional) — 3배+ 감소**, MBL/PES 모두 우월. 정량 anchor
@@ -536,6 +536,12 @@ tags: []
 - [[immediate-implant/socket-shield/durrani-2020-socket-shield-esthetic-success-jisp]] — Narrative review (Banaras Hindu Univ India, JISP 2020): "An esthetic success?" — SST esthetic outcome 비판적 평가, 인도 임상 perspective. Blaschke 2020과 같은 cautious cluster
 - [[immediate-implant/socket-shield/simuntis-2025-socket-shield-lower-molar-case]] — Case report (Vilnius Univ + Lithuanian UHS, Dent J 2025): 하악 대구치 SST **proof of principle** — esthetic zone 중심 framework를 후방 대구치로 확장
 - [[immediate-implant/socket-shield/zhang-2026-socket-shield-orthodontic-premolar-rct]] — RCT (Guangzhou Medical Univ, OMFS Springer 2026, n=26 환자, paired): 교정 발치 (premolar) 맥락 SST 첫 RCT — paired allocation, shield는 인접치 근접 시 제거. 적응증 교정 분야 확장
+- [[immediate-implant/esthetic-soft-tissue/block-2009-prospective-evaluation-immediate-delayed]] — 전향적 RCT(n=55/76, 2년): 즉시식립이 지연식립(4개월) 대비 협측 치은변연 1mm 더 보존(p<.05); 변연골 반응·골유착은 양군 동등.
+- [[immediate-implant/loading-protocol/shibly-2010-bone-regeneration-around-implants-in]] — 2년 RCT(n=60, 치주질환력 환자): 즉시부하 vs 관행부하 생존율 96.7% vs 93.3%, 골신득 1.19 vs 1.00mm — 유의차 없음(P>0.05).
+- [[immediate-implant/loading-protocol/shibly-2010-immediate-implants-immediate-loading-conventional]] — 1년 RCT(n=60, 치주질환력 환자, 위 논문과 동일/중복 코호트 가능성): 즉시부하 생존 96.6%·골증가 0.99mm vs 관행부하 93.3%·0.75mm(NS) — 관행부하군 MGJ 관상변위 유의하게 큼(65% vs 15%).
+- [[immediate-implant/loading-protocol/huynh-ba-2018-immediate-loading-vs-early-conventional]] — SR(9편, PROM 중심, 메타분석 불가): 즉시식립 임플란트의 즉시 vs 조기/관행 부하 간 환자보고결과(PROM) 차이 미미, 환자만족도 프로토콜 무관 높음.
+- [[immediate-implant/esthetic-soft-tissue/girlanda-2019-deproteinized-bovine-bone-derived-collagen]] — RCT(n=22, 무피판 즉시식립+즉시임시보철): DBBM+콜라겐 이식군이 3·6개월 연조직높이·6개월 협설측 치조제 치수 유의 우위(p<0.05).
+- [[immediate-implant/esthetic-soft-tissue/chan-2019-randomized-controlled-trial-compare-aesthetic]] — RCT(n=40, 12개월): 즉시 임시크라운 vs 치유지대주 — 협측점막변연·유두높이 군간 유의차 없음; 수직 치조정골흡수만 임시크라운군 유의하게 큼.
 
 ## 상악동거상술 — 측방접근 (Sinus Lift: Lateral Window)
 - [[sinus-lift/lateral/lim-2011-sinus-membrane-perforation-techniques-review]] — Lim 2011, Korean review of Schneiderian membrane perforation repair techniques/materials in sinus lift surgery
