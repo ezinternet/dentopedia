@@ -258,23 +258,23 @@
       "Immediate Implant Placement With or Without Immediate Provisionalization in the Maxillary Esthetic Zone: A Systematic Review and Meta-analysis." — Int J Oral Maxillofac Implants
 - [x] PMID 35734911 | SR+MA | OA:none | implant-iip-loading | edat 2022/07/15 — ALREADY INGESTED (dup, confirmed 2026-07-25 by exact title/author/journal match) → pitman-2022-immediate-implant-provisionalization-sr-ma
       "Immediate implant placement with or without immediate provisionalization: A systematic review and meta-analysis." — J Clin Periodontol
-- [ ] PMID 35318752 | RCT | OA:none | implant-iip-loading | edat 2022/04/07
+- [x] PMID 35318752 | RCT | OA:none | implant-iip-loading | edat 2022/04/07 — INGESTED 2026-07-25 → wiki/immediate-implant/puisys-2022-immediate-implant-placement-vs-early
       "Immediate implant placement vs. early implant treatment in the esthetic area. A 1-year randomized clinical trial." — Clin Oral Implants Res
 - [x] PMID 36510942 | SR+MA | OA:PMC PMC8884353 | implant-iip-loading | edat 2022/01/01 — ALREADY INGESTED (dup, checkbox synced 2026-07-24) → sutariya-2022-soft-tissue-immediate-provisionalization-sr-ma
       "The soft tissue esthetic outcome with and without immediate provisionalization in immediate implants: A systematic review and meta-analysis." — J Indian Prosthodont Soc
-- [ ] PMID 34642992 | SR | OA:none | implant-iip-loading | edat 2021/10/01
+- [x] PMID 34642992 | SR | OA:none | implant-iip-loading | edat 2021/10/01 — INGESTED 2026-07-25 → wiki/immediate-implant/gotfredsen-2021-patient-perception-timing-concepts-implant
       "Patient's perception of timing concepts in implant dentistry: A systematic review." — Clin Oral Implants Res
 - [x] PMID 34642986 | SR+MA | OA:none | implant-iip-loading | edat 2021/10/01 — ALREADY INGESTED (dup, confirmed 2026-07-25 by exact pmid match in existing frontmatter) → pommer-2021-maxillary-single-tooth-timing-protocols-sr-ma
       "Long-term outcomes of maxillary single-tooth implants in relation to timing protocols of implant placement and loading: Systematic review and meta-analysis." — Clin Oral Implants Res
-- [ ] PMID 34642985 | SR | OA:none | implant-iip-loading | edat 2021/10/01
+- [x] PMID 34642985 | SR | OA:none | implant-iip-loading | edat 2021/10/01 — INGESTED 2026-07-25 → wiki/immediate-implant/esthetic-soft-tissue/francisco-2021-timing-implant-placement-loading-esthetic
       "Is the timing of implant placement and loading influencing esthetic outcomes in single-tooth implants?-A systematic review." — Clin Oral Implants Res
 - [x] PMID 34411212 | SR | OA:none | implant-iip-loading | edat 2021/01/01 — ALREADY INGESTED (dup, confirmed 2026-07-25 by exact title/author/DOI match) → zhou-2021-placement-loading-protocols-single-implants-sr
       "Placement and Loading Protocols for Single Implants in Different Locations: A Systematic Review." — Int J Oral Maxillofac Implants
 - [x] PMID 33141935 | RCT | OA:PMC PMC7839711 | implant-iip-loading | edat 2020/11/25 — ALREADY INGESTED (dup, checkbox synced 2026-07-24) → slagter-2021-immediate-single-implant-provisionalization-5year
       "Immediate placement of single implants with or without immediate provisionalization in the maxillary aesthetic region: A 5-year comparative study." — J Clin Periodontol
-- [ ] PMID 32542725 | RCT | OA:none | implant-iip-loading | edat 2020/06/28
+- [x] PMID 32542725 | RCT | OA:none | implant-iip-loading | edat 2020/06/28 — INGESTED 2026-07-25 → wiki/immediate-implant/esthetic-soft-tissue/jiang-2020-hard-soft-tissue-alterations-during
       "Hard and soft tissue alterations during the healing stage of immediate implant placement and provisionalization with or without connective tissue graft: A randomized clinical trial." — J Clin Periodontol
-- [ ] PMID 31846073 | RCT | OA:none | implant-iip-loading | edat 2020/01/09
+- [x] PMID 31846073 | RCT | OA:none | implant-iip-loading | edat 2020/01/09 — INGESTED 2026-07-25 → wiki/immediate-implant/esthetic-soft-tissue/wang-2020-volumetric-facial-contour-changes-immediately (relations: refines chan-2019, same/overlapping cohort)
       "Volumetric facial contour changes of immediately placed implants with and without immediate provisionalization." — J Periodontol
 - [x] PMID 31292983 | RCT | OA:none | implant-iip-loading | edat 2019/08/25 — INGESTED 2026-07-25 → wiki/immediate-implant/esthetic-soft-tissue/chan-2019-randomized-controlled-trial-compare-aesthetic
       "A randomized controlled trial to compare aesthetic outcomes of immediately placed implants with and without immediate provisionalization." — J Clin Periodontol
