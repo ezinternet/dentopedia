@@ -11,6 +11,9 @@ pdf_path: /Users/oracleneo/llm-wiki/papers/chan-2019-randomized-controlled-trial
 pdf_filename: chan-2019-randomized-controlled-trial-compare-aesthetic.pdf
 source_collection: external
 tags: [immediate-implant, immediate-provisionalization, healing-abutment, esthetic-zone, papilla-height, marginal-bone-remodeling]
+relations:
+  - type: contradicts
+    target: pitman-2022-immediate-implant-provisionalization-sr-ma
 ---
 
 ## Three-line Summary
@@ -58,7 +61,7 @@ Both protocols achieved stable soft tissue levels at 12 months; the radiographic
 
 ## Related Papers
 
-- [[immediate-implant/esthetic-soft-tissue/pitman-2022-immediate-implant-provisionalization-sr-ma]] — SR+MA on the same head-to-head question (IIP with vs without immediate provisionalization) reports better papilla preservation and soft-tissue contour with immediate provisionalization; this single-center RCT (n=40) found no significant intergroup difference in papilla height or mucosal marginal level, a nuance worth weighing against the pooled SR+MA signal rather than a full contradiction, given the difference in evidence weight and sample size.
+- [[immediate-implant/esthetic-soft-tissue/pitman-2022-immediate-implant-provisionalization-sr-ma]] — **Contradicts** on the papilla/soft-tissue-contour outcome specifically: Pitman's SR+MA reports better papilla preservation and soft-tissue contour with immediate provisionalization, while this single-center RCT (n=40) found no significant intergroup difference in papilla height or mucosal marginal level. Both stand — Pitman's pooled estimate carries more evidence weight, but this trial's null result is a real data point on the same head-to-head question, not explained away by an obvious design flaw; worth surfacing rather than silently favoring the SR+MA.
 - [[immediate-implant/esthetic-soft-tissue/de-angelis-2021-immediate-implant-provisionalization-soft-tissue-retrospective]] — also studies soft-tissue stability at immediately placed and provisionalized implants in the esthetic zone, but isolates graft choice (CTG vs xenogenic collagen matrix vs no graft) rather than provisionalization vs healing abutment as the comparison variable.
 - [[immediate-implant/esthetic-soft-tissue/zadikian-2026-open-healing-immediate-implant-mucosa]] — SR+MA isolating the open-healing/transmucosal-seal variable (provisional restoration or customized healing abutment) in IIP; this RCT provides individual-trial-level evidence on the specific provisional-crown-vs-healing-abutment comparison that Zadikian's pooled analysis groups together as interchangeable transmucosal seals.
 - [[immediate-implant/esthetic-soft-tissue/ruales-carrera-2019-peri-implant-tissue-customized-healing]] — describes a customized healing abutment technique as an alternative to provisional restorations for soft-tissue contour management; relevant to the design rationale of this RCT's healing-abutment control arm.
