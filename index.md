@@ -544,6 +544,11 @@ tags: []
 - [[immediate-implant/esthetic-soft-tissue/girlanda-2019-deproteinized-bovine-bone-derived-collagen]] — RCT(n=22, 무피판 즉시식립+즉시임시보철): DBBM+콜라겐 이식군이 3·6개월 연조직높이·6개월 협설측 치조제 치수 유의 우위(p<0.05).
 - [[immediate-implant/esthetic-soft-tissue/chan-2019-randomized-controlled-trial-compare-aesthetic]] — RCT(n=40, 12개월): 즉시 임시크라운 vs 치유지대주 — 협측점막변연·유두높이 군간 유의차 없음; 수직 치조정골흡수만 임시크라운군 유의하게 큼.
 - [[immediate-implant/esthetic-soft-tissue/kinaia-2017-soft-tissue-changes-around]] — SR+MA(12편/106편 스크리닝): IIP vs CIP 유두높이는 CIP 우위(MD -0.40~-0.77mm); IIP 내 후속층화 — 두꺼운 치은생물형이 MFR·유두높이 유의 우위, 즉시임시수복이 유두높이 유의 우위(MD -0.52, P=0.028). 임시수복 소견만 pitman-2022/qin-2023/sutariya-2022에 부분 superseded, IIP-vs-CIP·생물형 소견은 유지.
+- [[immediate-implant/esthetic-soft-tissue/wang-2020-volumetric-facial-contour-changes-immediately]] — RCT(n=40, 12개월, chan-2019와 동일/중복 코호트): 선형 3D 흡수는 군간 무차이(0.1–0.7mm)나 체적 연조직 윤곽변화는 즉시임시보철군 11.9% vs 대조군 17.4% 유의 우위(P=0.04) — chan-2019의 "무효과" 결론을 refine(2D 지표론 못 잡는 체적 이득 존재).
+- [[immediate-implant/esthetic-soft-tissue/jiang-2020-hard-soft-tissue-alterations-during]] — RCT(n=42/40, 6개월, CBCT 중첩): CTG 병용군이 협측 연조직 붕괴 유의 감소(치은연하 2–5mm 구간)하나 중안모 치은연 이동·신생골형성은 군간 무차이.
+- [[immediate-implant/esthetic-soft-tissue/francisco-2021-timing-implant-placement-loading-esthetic]] — SR+MA(18 RCT, 8,549편 선별): 단일치 임플란트 식립시기(즉시/조기/지연)·부하시기(즉시/종래) 모두 심미지표(MFR/PES/WES/유두지수) 무차이(1·2·10년) — pommer-2021(같은 ITI 특별호)과 생존/심미 축 상보.
+- [[immediate-implant/gotfredsen-2021-patient-perception-timing-concepts-implant]] — SR(40편/35코호트): 식립·부하 타이밍이 환자보고결과(불편감·만족도)에 강한 영향 없음; 무치악 완전틀니에서만 즉시부하 단기(≤1년) 선호 약한 근거, 12개월엔 사라짐.
+- [[immediate-implant/puisys-2022-immediate-implant-placement-vs-early]] — RCT(n=50, 1년, 엄격 환자선택): 즉시 vs 조기식립 — PES 동등(12.8 vs 12.5), 협측점막수준 즉시군 유의 우위(+0.2mm, p=.047), 의자시간 즉시군 50%↓(127 vs 259분).
 
 ## 상악동거상술 — 측방접근 (Sinus Lift: Lateral Window)
 - [[sinus-lift/lateral/lim-2011-sinus-membrane-perforation-techniques-review]] — Lim 2011, Korean review of Schneiderian membrane perforation repair techniques/materials in sinus lift surgery
