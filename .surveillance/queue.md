@@ -254,9 +254,9 @@
       "Clinical performance of immediately placed and immediately loaded single implants in the esthetic zone: A systematic review and meta-analysis." — Clin Oral Implants Res
 - [ ] PMID 37750515 | SR+MA | OA:none | implant-iip-loading | edat 2023/09/01
       "Selection criteria for immediate implant placement and immediate loading for single tooth replacement in the maxillary esthetic zone: A systematic review and meta-analysis." — Clin Oral Implants Res
-- [ ] PMID 37279220 | SR+MA | OA:none | implant-iip-loading | edat unknown
+- [x] PMID 37279220 | SR+MA | OA:none | implant-iip-loading | edat unknown — ALREADY INGESTED (dup, confirmed 2026-07-25 by exact title/DOI match, jomi.10112) → qin-2023-immediate-implant-provisionalization-maxillary-esthetic-sr-ma
       "Immediate Implant Placement With or Without Immediate Provisionalization in the Maxillary Esthetic Zone: A Systematic Review and Meta-analysis." — Int J Oral Maxillofac Implants
-- [ ] PMID 35734911 | SR+MA | OA:none | implant-iip-loading | edat 2022/07/15
+- [x] PMID 35734911 | SR+MA | OA:none | implant-iip-loading | edat 2022/07/15 — ALREADY INGESTED (dup, confirmed 2026-07-25 by exact title/author/journal match) → pitman-2022-immediate-implant-provisionalization-sr-ma
       "Immediate implant placement with or without immediate provisionalization: A systematic review and meta-analysis." — J Clin Periodontol
 - [ ] PMID 35318752 | RCT | OA:none | implant-iip-loading | edat 2022/04/07
       "Immediate implant placement vs. early implant treatment in the esthetic area. A 1-year randomized clinical trial." — Clin Oral Implants Res
@@ -264,11 +264,11 @@
       "The soft tissue esthetic outcome with and without immediate provisionalization in immediate implants: A systematic review and meta-analysis." — J Indian Prosthodont Soc
 - [ ] PMID 34642992 | SR | OA:none | implant-iip-loading | edat 2021/10/01
       "Patient's perception of timing concepts in implant dentistry: A systematic review." — Clin Oral Implants Res
-- [ ] PMID 34642986 | SR+MA | OA:none | implant-iip-loading | edat 2021/10/01
+- [x] PMID 34642986 | SR+MA | OA:none | implant-iip-loading | edat 2021/10/01 — ALREADY INGESTED (dup, confirmed 2026-07-25 by exact pmid match in existing frontmatter) → pommer-2021-maxillary-single-tooth-timing-protocols-sr-ma
       "Long-term outcomes of maxillary single-tooth implants in relation to timing protocols of implant placement and loading: Systematic review and meta-analysis." — Clin Oral Implants Res
 - [ ] PMID 34642985 | SR | OA:none | implant-iip-loading | edat 2021/10/01
       "Is the timing of implant placement and loading influencing esthetic outcomes in single-tooth implants?-A systematic review." — Clin Oral Implants Res
-- [ ] PMID 34411212 | SR | OA:none | implant-iip-loading | edat 2021/01/01
+- [x] PMID 34411212 | SR | OA:none | implant-iip-loading | edat 2021/01/01 — ALREADY INGESTED (dup, confirmed 2026-07-25 by exact title/author/DOI match) → zhou-2021-placement-loading-protocols-single-implants-sr
       "Placement and Loading Protocols for Single Implants in Different Locations: A Systematic Review." — Int J Oral Maxillofac Implants
 - [x] PMID 33141935 | RCT | OA:PMC PMC7839711 | implant-iip-loading | edat 2020/11/25 — ALREADY INGESTED (dup, checkbox synced 2026-07-24) → slagter-2021-immediate-single-implant-provisionalization-5year
       "Immediate placement of single implants with or without immediate provisionalization in the maxillary aesthetic region: A 5-year comparative study." — J Clin Periodontol
