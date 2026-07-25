@@ -479,6 +479,7 @@ tags: []
 - [[immediate-implant/esthetic-soft-tissue/pitman-2022-immediate-implant-provisionalization-sr-ma]] — 즉시식립 임시치관 유무 비교 SR+MA — 생존율 동등, 임시치관군에서 연조직 안정성 유리.
 - [[immediate-implant/socket-shield/atef-2021-socket-shield-xenograft-immediate-implant-rct]] — 소켓실드 vs 이종골 이식 심미부 즉시임플란트 RCT — 협측 골 흡수 소켓실드 -0.28 vs 이종골 -0.94mm.
 - [[immediate-implant/socket-shield/gharpure-2022-socket-shield-conventional-implant-sr-ma]] — 소켓실드 vs 기존 즉시임플란트 SR+MA — 협측 골 MD -0.5mm 우위, 합병증(실드 노출) 5–17% 보고.
+- [[immediate-implant/socket-shield/venkatraman-2023-comparison-soft-tissue-volumetric]] — RCT(n=22, 상악 단일절치, 초록전용): SST vs 관습술식 — 12개월 협측 연조직 체적변화 SST -0.152 vs CT -0.643mm(P=.001), PES 6·12개월 모두 SST 유의 우위(P=.001/.007).
 - [[immediate-implant/esthetic-soft-tissue/gaddale-2024-immediate-implant-loading-esthetic-tissue-sr-ma]] — 심미부 즉시식립+즉시부하 연·경조직 변화 SR+MA — MBL 1년 -0.30mm, 생존율 95.1–98.9%.
 - [[immediate-implant/gap-grafting/sanz-2017-bone-graft-gap-immediate-implant-rct]] — 즉시식립 임플란트 협측 틈새(≥3mm) 이종골 충전 RCT — 충전군 협측 골 흡수 유의 감소(-0.46 vs -0.84mm).
 - [[immediate-implant/gap-grafting/paknejad-2017-flapless-immediate-implant-buccal-gap-rct]] — 무피판 즉시식립 협측 틈새 이종골 충전 RCT — 충전군에서 6·12개월 협측 골 흡수 유의 감소.
