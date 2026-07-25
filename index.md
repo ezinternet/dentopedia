@@ -1495,6 +1495,7 @@ tags: []
 - [[drug/analgesics/kelidari-2026-single-dose-oral-postoperative-endodontic-pain-sr-ma]] — Kelidari 2026 · sr+ma · 근관치료 후 단회투여: 즉각진통은 디클로페낙+아세트아미노펜, 12–24h 지속은 노바펜·나프록센 우수
 - [[drug/analgesics/altuhafy-2026-tenoxicam-postoperative-dental-pain-sr]] — Altuhafy 2026 · sr · 치과 술후통 tenoxicam: 위약 우월, 타 NSAID·코르티코스테로이드 동등~우월, rofecoxib보단 열등(9 RCT)
 - [[drug/analgesics/tamgadge-2025-preoperative-dexamethasone-third-molar-pain-swelling-trismus]] — Tamgadge 2025 · rct · 술전 dexamethasone 4mg IM 1회가 사랑니 발치 후 통증·개구제한·부종을 위약 대비 유의 감소(분악 n=60)
+- [[drug/analgesics/bakri-2024-prednisolone-prescribing-styles-third-molar]] — Bakri 2024 · rct · 사랑니 발치 후 경구 프레드니솔론 처방 스타일 비교(분악 n=15): 3일 체감용량(5mg)이 단일용량(25mg)보다 개구량·부종 유의 개선, 통증은 차이 없음
 - [[drug/analgesics/yavari-2019-submucosal-corticosteroids-postoperative-pain-rct]] — Yavari 2019 · rct · 비가역성 치수염 단일내원 근관치료 후 점막하 코르티코스테로이드 주사 DB-RCT(n=197): 덱사메타손 초기 24h 우수, 장기작용 베타메타손 72h~7일 우수, 48h 동등 — 코르티코스테로이드 전군 위약 대비 통증·QOL 유의 개선
 - [[drug/analgesics/rodrigues-2024-preemptive-dexamethasone-diclofenac-endodontic-rct]] — Rodrigues 2024 · rct · 증상성 치수염 하악구치 술전 선제투약 DB-RCT(n=84): 덱사메타손 4mg 하악치조신경차단술(IANB) 성공률 39.3% vs 디클로페낙 21.4% vs 위약 3.6%(p<.001); 술후 24~72h 두 약물 모두 위약 대비 우수
 - [[drug/systemic-disease/wagner-2022-diabetes-mellitus-dental-implants-sr]] — SR(56편): 조절 양호 당뇨 = 정상 성공률; 조절 불량(HbA1c≥9%) → 치주염↑·실패↑; 항생제+CHX 필수; 금기 아님
