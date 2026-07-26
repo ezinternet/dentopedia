@@ -22,7 +22,11 @@ source_papers:
   - wiki/immediate-implant/esthetic-soft-tissue/zadikian-2026-open-healing-immediate-implant-mucosa.md
   - wiki/immediate-implant/esthetic-soft-tissue/wu-2026-immediate-provisionalization-natural-crown-frc.md
   - wiki/immediate-implant/esthetic-soft-tissue/nechita-2026-guided-provisionalization-emergence-profile-esthetic-zone.md
-tags: []
+  - wiki/immediate-implant/esthetic-soft-tissue/staas-2026-fiipp-palatal-position-cbct-3year.md
+  - wiki/immediate-implant/esthetic-soft-tissue/yang-2019-labial-bone-thickness-esthetics-iipp.md
+  - wiki/immediate-implant/anatomic-assessment/kan-2011-sagittal-root-position-immediate-implant-anterior.md
+  - wiki/implants/wang-2022-buccal-emergence-profile-peri-implant-rct.md
+tags: [palatal-positioning, sagittal-root-position, emergence-angle]
 ---
 
 > [!summary] 한국어 핵심요약
@@ -30,6 +34,9 @@ tags: []
 > - **퇴축의 3대 동인**: ① 얇은 협측골벽(≤1 mm) ② 얇은 생체형(thin biotype) ③ 협측 임플란트 위치(buccal shoulder). 이 셋이 위험을 곱셈으로 키운다 (Chen 2009, Buser 2017).
 > - **협측골벽 두께가 1차 게이트**: ≤1 mm 박벽형은 발치 후 8주에 수직골 중앙값 7.5 mm 소실(후벽형 1.1 mm의 ~3.5배) — 박벽형이면 IIP 자체를 재고하고 치조제보존술(Alveolar Ridge Preservation, ARP)+지연식립으로 (Chappuis 2013).
 > - **임플란트 위치가 직접 동인**: 협측 숄더는 설측 대비 정중협측 퇴축이 ~3배(1.8 vs 0.6 mm). 구개측·심부 식립이 필수 — 안전구역은 안면 연조직연 4 mm 하방·협측 간극 >2 mm (Evans 2008, Cosyn 2026).
+> - **팔라탈 포지셔닝의 중기 근거(Staas 2026)**: ≥2 mm 팔라탈 오프셋을 쓴 flapless 즉시식립·즉시임시치관(FIIPP) 프로토콜의 3년 다기관 전향적 CBCT 추적 — 협측 능선 두께·높이 보존, 생존율 양호. 단 비팔라탈 대조군이 없어 "이 정도 오프셋은 안전하다"는 근거지 "팔라탈이 더 낫다"는 비교 근거는 아님.
+> - **왜 협측 천공 위험이 원래 내재하는가(Kan 2011)**: 상악 전치 치근의 대다수(Sagittal Root Position Class I)가 애초에 순측 피질골에 붙어있어, 발치와 궤적을 그대로 따르면 협측 천공·돌출 위험이 구조적으로 발생 — 팔라탈 시프트가 필요해지는 해부학적 근본 원인.
+> - **순측골 두께 자체가 심미 상한선(Yang 2019)**: 위치를 잘 잡아도 순측골이 1–2 mm 미만이면 PES/WES가 뚜렷이 악화하는 변곡점이 존재 — 골소실이 이미 심한 케이스는 포지셔닝만으로 심미 결과의 천장 자체를 올리지 못함.
 > - **즉시 임시수복(immediate provisionalization)의 가치**: 생존율은 안 바꾸지만(~97% 동등) **연조직 윤곽·유두·emergence profile 보존**에 유리. 협측 점막레벨·핑크심미점수(Pink Esthetic Score, PES) 보존 경향 (Pitman 2022, Qin 2023, Sutariya 2022).
 > - **임시수복의 전제조건**: 충분한 일차안정성(보통 ≥35 N·cm 또는 임플란트안정지수 ISQ ≥70). 안정성이 부족하면 비-임플란트지지 대안(자연치관+섬유강화복합 FRC 스플린트)으로 PES 유지 가능(9.0 vs 6.3, p=0.005) (Wu 2026).
 > - **결합조직이식(Connective Tissue Graft, CTG/SCTG)의 효과**: 정중협측 퇴축을 줄이고(~0.4–0.7 mm 보존; Seyssens 2021) 협측조직두께·PES를 높이며(상피하 SCTG: 두께 +0.74 mm, PES +0.79; Aldhohrah 2022), 1년 RCT에서 부피손실을 ~5배 감소(퇴축 −0.74 mm vs 골이식 −0.98, 맞춤치유지대주 단독 −1.54; Fettouh 2024). 단 RCT-only 합성에서는 협측 치은레벨 차이가 비유의 경향(Torra-Moneny 2024) — CTG는 레벨을 '증가'보다 '유지'시킨다.
@@ -39,7 +46,7 @@ tags: []
 
 ## Three-line Summary
 
-Synthesis of 18 papers on esthetic-zone immediate implant placement: survival is near-universal (>95%) at all placement timings, but Type 1 carries 20–30% risk of >1 mm midfacial recession when unselected (Buser 2017); the three multiplicative risk factors are thin buccal wall (≤1 mm → median 7.5 mm vertical bone loss at 8 weeks; Chappuis 2013), thin biotype, and buccal shoulder position (~3× recession vs palatal; Evans 2008).
+Synthesis of 22 papers on esthetic-zone immediate implant placement: survival is near-universal (>95%) at all placement timings, but Type 1 carries 20–30% risk of >1 mm midfacial recession when unselected (Buser 2017); the three multiplicative risk factors are thin buccal wall (≤1 mm → median 7.5 mm vertical bone loss at 8 weeks; Chappuis 2013), thin biotype, and buccal shoulder position (~3× recession vs palatal; Evans 2008).
 
 The four controllable levers are palatal/deep 3-D positioning (safe zone ≥4 mm below facial margin, gap >2 mm; Cosyn 2026), buccal-gap grafting (>2 mm gap +3.1 PP survival; Hamilton 2023 SR+MA), CTG/SCTG for thin phenotypes (midfacial level −0.74 mm; volumetric loss 5× less vs customized healing abutment alone; Fettouh 2024 RCT), and immediate provisionalization when primary stability is adequate (~97% survival either way; Pitman 2022 SR+MA).
 
@@ -47,7 +54,7 @@ Open healing matches primary closure for midfacial mucosal level (SMD −0.26, N
 
 ## 세줄요약
 
-전치부 즉시식립 18편 종합: 생존율은 모든 시점에서 >95%로 보편적이나 Type 1은 무선별 시 정중협측 퇴축 >1 mm 위험 20–30%(Buser 2017); 3대 위험인자는 협측골 ≤1 mm(8주 수직골 소실 7.5 mm; Chappuis 2013)·얇은 생체형·협측 숄더 위치(퇴축 ~3배; Evans 2008).
+전치부 즉시식립 22편 종합: 생존율은 모든 시점에서 >95%로 보편적이나 Type 1은 무선별 시 정중협측 퇴축 >1 mm 위험 20–30%(Buser 2017); 3대 위험인자는 협측골 ≤1 mm(8주 수직골 소실 7.5 mm; Chappuis 2013)·얇은 생체형·협측 숄더 위치(퇴축 ~3배; Evans 2008).
 
 4가지 조절 레버: 구개측·심부 식립(안전구역 ≥4 mm; Cosyn 2026), 협측간극 이식(>2 mm gap +3.1 PP 생존; Hamilton 2023 SR+MA), 얇은 표현형에 CTG(정중협측 변화 −0.74 mm·부피 손실 5배 감소 vs 맞춤 치유지대주 단독; Fettouh 2024 RCT), 안정성 충분 시 즉시 임시수복(생존율 동등, 연조직 윤곽·유두 보존; Pitman 2022 SR+MA).
 
@@ -59,9 +66,9 @@ The esthetic-zone immediate implant is not a survival problem — it is a **soft
 
 Three risk factors recur in every analysis and behave **multiplicatively**, not additively:
 
-1. **Buccal bone wall thickness** — the upstream gate. Chappuis 2013 quantified that a ≤1 mm thin-wall phenotype loses a median **7.5 mm of vertical bone** by 8 weeks post-extraction versus **1.1 mm** for thick walls (~3.5×), and most esthetic-zone patients are *already* thin-walled at the central buccal site. A wall that resorbs takes the overlying mucosa with it.
+1. **Buccal bone wall thickness** — the upstream gate. Chappuis 2013 quantified that a ≤1 mm thin-wall phenotype loses a median **7.5 mm of vertical bone** by 8 weeks post-extraction versus **1.1 mm** for thick walls (~3.5×), and most esthetic-zone patients are *already* thin-walled at the central buccal site. A wall that resorbs takes the overlying mucosa with it. Yang 2019 (prospective cohort) supplies the outcome-side confirmation: PES/WES deteriorates as labial bone thickness decreases, with a clinically meaningful inflection around the **1–2 mm labial-plate threshold** — meaning that once pre-existing labial bone loss has already crossed this line, no amount of 3-D repositioning fully restores the esthetic ceiling. Kan 2011's sagittal root position (SRP) classification explains *why* this thin-wall default is so common in the first place: the majority of maxillary anterior roots (Class I) sit directly against the labial cortex, so following the native root trajectory during immediate placement inherently risks labial fenestration/dehiscence — the structural reason a palatal shift is so often needed at all.
 2. **Tissue biotype/phenotype** — thin biotype trends toward more recession (Evans 2008 found 1.0 vs 0.7 mm, NS; Buser 2017 lists it as a top-3 driver). Its main effect is to make wall loss visible and to limit the soft-tissue reserve a graft can build on.
-3. **Implant 3-D position** — the one fully operator-controlled driver. Evans 2008 showed a **buccal shoulder yields ~3× the recession of a lingual shoulder (1.8 vs 0.6 mm, p<0.001)**. Cosyn 2026 formalizes this as a *safe zone* (≥4 mm below the facial soft-tissue margin vertically, buccal gap >2 mm horizontally) vs *danger* and *failure* zones.
+3. **Implant 3-D position** — the one fully operator-controlled driver. Evans 2008 showed a **buccal shoulder yields ~3× the recession of a lingual shoulder (1.8 vs 0.6 mm, p<0.001)**. Cosyn 2026 formalizes this as a *safe zone* (≥4 mm below the facial soft-tissue margin vertically, buccal gap >2 mm horizontally) vs *danger* and *failure* zones. Staas 2026 (prospective multicentre CBCT, 3-yr follow-up) provides mid-term confirmation for a standardized **≥2 mm palatal offset** protocol in flapless immediate placement + provisionalization (FIIPP): buccal crest thickness and height were maintained at 3 years with survival in the expected high range — though the absence of a non-palatal comparator arm means this establishes that the offset is *safe and stable*, not that it is *superior* in a head-to-head sense. A caveat this synthesis must flag explicitly: the ≥2 mm figure is a **deliberate, protocol-driven offset applied to an otherwise adequate ridge** — it is not the same clinical situation as being *forced* substantially further palatal because pre-existing buccal/labial bone loss is already severe. None of the papers in this synthesis directly studies that rescue scenario (see Gaps below). Mechanistically, Wang 2022 (RCT, mandibular molars) helps explain why over-rotating palatal is not a free lunch: a steeper restorative emergence angle (40° vs ~32°) produced significantly more 12-month gingival recession (0.63 ± 0.38 mm vs 0.13 ± 0.32 mm, p=0.006) — pushing an implant deep palatal to escape a deficient buccal plate can itself force a steeper buccal emergence angle at the prosthetic stage, partially offsetting the positional benefit unless the emergence profile is deliberately designed (W/H-ratio-based) rather than left to default to the socket/healing-abutment contour.
 
 Against this risk substrate, the literature converges on a small set of **controllable levers**:
 
@@ -93,6 +100,10 @@ The synthesis: **case selection sets the ceiling; technique fills the room under
 | [[immediate-implant/esthetic-soft-tissue/zadikian-2026-open-healing-immediate-implant-mucosa]] | SR+MA | 431 pts / 438 implants (12 studies) | Open healing (no membrane/no primary closure) vs primary closure: MML SMD −0.26 (NS); mesial papilla SMD 0.76 (p=0.01); MBL/KMW/survival equivalent | sr+ma |
 | [[immediate-implant/esthetic-soft-tissue/wu-2026-immediate-provisionalization-natural-crown-frc]] | Exploratory RCT (4–5 mo) | 20 | Non-implant-supported natural-crown + FRC splint provisional preserved PES 9.0 vs 6.3 control (p=0.005); less day 2–3 pain/swelling; for cases lacking primary stability | rct |
 | [[immediate-implant/esthetic-soft-tissue/nechita-2026-guided-provisionalization-emergence-profile-esthetic-zone]] | Retrospective single-arm (1 yr) | 20 | Guide-delivered indexless 5° Morse-taper immediate provisional: retention w/o major intervention 75%, MBL 0.37 mm, buccal contour +1.41 mm, complete papilla 70%, 100% survival | retrospective |
+| [[immediate-implant/esthetic-soft-tissue/staas-2026-fiipp-palatal-position-cbct-3year]] | Prospective multicentre CBCT (3 yr) | — | ≥2 mm palatal offset in flapless IIPP maintains buccal crest thickness/height at 3 yr; survival in expected high range; no non-palatal comparator arm | prospective |
+| [[immediate-implant/esthetic-soft-tissue/yang-2019-labial-bone-thickness-esthetics-iipp]] | Prospective cohort | — | PES/WES deteriorates as labial bone thickness decreases; clinically meaningful inflection near the 1–2 mm labial-plate threshold | prospective |
+| [[immediate-implant/anatomic-assessment/kan-2011-sagittal-root-position-immediate-implant-anterior]] | Landmark CBCT classification | — | Sagittal root position (SRP) Class I (root against labial cortex) most prevalent — structural basis for labial fenestration/protrusion risk during IIP | cross-sectional |
+| [[implants/wang-2022-buccal-emergence-profile-peri-implant-rct]] | RCT (mandibular molars, abstract-only) | 21 | Steeper emergence angle (40° vs 32°) → significantly more 12-mo gingival recession (0.63 vs 0.13 mm, p=0.006); W/H-ratio-based profile design outperforms default healing-abutment contour | rct |
 
 ## Clinical Decision Points
 
@@ -107,8 +118,10 @@ Assess buccal wall + biotype + infection + gap **before** committing.
 
 ### 2. 3-D position — where does the shoulder go? (the operator's dominant lever)
 
-- Place the **shoulder palatally and deep**: safe zone is ≥4 mm below the facial soft-tissue margin and ≥2 mm buccal gap (Cosyn 2026). A buccal shoulder triples midfacial recession (Evans 2008).
+- Place the **shoulder palatally and deep**: safe zone is ≥4 mm below the facial soft-tissue margin and ≥2 mm buccal gap (Cosyn 2026). A buccal shoulder triples midfacial recession (Evans 2008), and a standardized ≥2 mm palatal offset holds up at 3 years (Staas 2026).
 - Engage apical/palatal bone for primary stability; this also positions the gap on the buccal aspect where graft is needed.
+- **Design the definitive emergence profile deliberately** rather than copying the socket/healing-abutment contour — a steeper buccal emergence angle (as a deep palatal position tends to produce) significantly worsens 12-month recession (Wang 2022).
+- **Premolar sites**: a palatal/lingual shift changes the prosthetic axis more than it does for single-rooted anterior teeth. Plan the retention mode from the same CBCT (measure the ridge-angle discrepancy) rather than deciding chairside at delivery — a large angle can force cement retention where screw-retained/SCRP was intended (see [[overviews/implant-prosthesis-retention-screw-vs-cement-overview]]).
 
 ### 3. Buccal gap — graft it (the hard-tissue lever)
 
@@ -136,6 +149,7 @@ Assess buccal wall + biotype + infection + gap **before** committing.
 - **Dehiscence framework is unvalidated.** Cosyn 2026's 11-morphotype → 3-strategy scheme is conceptual; it needs prospective CBCT/histology/outcome validation before it can be a standard.
 - **Open healing evidence is shallow and short.** Zadikian 2026 is ~92% anterior, intact-wall, mostly ≤6-month follow-up — long-term and compromised-socket data are missing.
 - **Provisionalization alternatives are exploratory.** Wu 2026 (n=20) and Nechita 2026 (n=20, single-arm, 95% female) are feasibility signals, not comparative proof.
+- **Severe pre-existing bone loss forcing palatal placement *beyond* the studied protocol is not directly evidenced.** Every palatal-positioning paper here (Evans 2008, Cosyn 2026, Staas 2026) studies a *deliberate, modest* offset (≤2–4 mm) applied to an otherwise adequate ridge — none studies the rescue scenario where severe pre-existing labial/buccal bone loss forces a substantially deeper palatal shift. In that scenario, prognosis likely depends more on remaining labial bone thickness (Yang 2019) and final prosthetic emergence-angle design (Wang 2022) than on the position decision itself, but no paper in this synthesis tests the extreme-shift scenario head-to-head against staged augmentation (e.g., GBR then ideally-positioned implant) — a real decision this wiki cannot yet adjudicate.
 
 ## Related Papers
 
@@ -143,6 +157,14 @@ Assess buccal wall + biotype + infection + gap **before** committing.
 ### 신규 ingest cluster (2026-07-15)
 
 - [[immediate-implant/esthetic-soft-tissue/asghar-2023-immediate-vs-early-implant-esthetic-zone-sr-ma]] — SR+MA (6 RCTs, esthetic zone): immediate vs early — no difference in bone level (MD 0.10) or PD (both P>0.05) but early had better Pink Esthetic Score (P<0.05) — bone equal, esthetics slightly favor early (indicative)
+
+### 신규 통합 (2026-07-26) — 골소실·팔라탈 포지셔닝 세부화
+
+- [[immediate-implant/esthetic-soft-tissue/staas-2026-fiipp-palatal-position-cbct-3year]] — prospective 3-yr CBCT: ≥2 mm palatal offset maintains buccal crest thickness/height (mid-term confirmation of the position lever, no comparator arm)
+- [[immediate-implant/esthetic-soft-tissue/yang-2019-labial-bone-thickness-esthetics-iipp]] — prospective cohort: PES/WES declines below the 1–2 mm labial-plate threshold regardless of position — sets the esthetic ceiling
+- [[immediate-implant/anatomic-assessment/kan-2011-sagittal-root-position-immediate-implant-anterior]] — landmark CBCT SRP classification: Class I (root against labial cortex) most prevalent — the anatomic reason buccal fenestration risk (and the need for palatal shift) exists by default
+- [[implants/wang-2022-buccal-emergence-profile-peri-implant-rct]] — RCT (molars): steeper emergence angle (40° vs 32°) significantly worsens recession — the prosthetic mechanism that can partially offset a deep-palatal position's benefit if the emergence profile isn't deliberately designed
+- [[overviews/implant-prosthesis-retention-screw-vs-cement-overview]] — companion overview: in premolars specifically, a palatal/lingual shift's ridge-angle discrepancy can force cement retention over screw-retained/SCRP
 
 - [[overviews/immediate-implant-decision-ladder]] — parent IIP decision ladder (timing/selection); this page is its esthetic/soft-tissue branch.
 - [[overviews/immediate-implant-conditions]] — socket/condition synthesis for immediate placement.
