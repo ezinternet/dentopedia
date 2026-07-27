@@ -39,6 +39,7 @@ tags: []
 - [[implants/zhang-2024-narrow-regular-diameter-anterior-maxilla]] — Zhang 2024 (SR+MA, 5편/282 NDI): 전치부 상악 NDI vs RDI+골증대; 36mo ISR 동등(RR 0.989), soft-tissue dehiscence는 RDI에 더 흔함 (2024)
 - [[implants/pachiou-2025-narrow-diameter-implants-fixed-posterior]] — Pachiou 2025 (SR+MA, 36편/2741 NDI): 구치부 고정성 보철 NDI 생존 상악 97.0%/하악 96.5%, 합병증은 technical 중심 (2025)
 - [[implants/survival/schiegnitz-2018-narrow-diameter-implants-systematic-review]] — Schiegnitz 2018 (SR+MA, 76편/12,186 NDI): 범주별 NDI 생존율 — 범주1 미니(<3mm) SDI 대비 유의 열세(OR 4.54), 범주2·3(3–3.5mm)는 SDI와 동등(OR 1.06·1.19); 골증대 회피 근거
+- [[implants/survival/walter-2023-narrow-diameter-29mm-bone-level-implant]] — Walter 2023 (전향적, n=41, 5개 센터): 스트라우만 2.9mm BLT Roxolid 전치부 단일치아 — 1년 생존율 92.7%(CI 79.0–97.6%), 성공률 89.7%, MBL −0.3mm, PES 11.6/14, 파절 0
 - [[implants/park-2023-narrow-regular-diameter-mandibular-overdentures]] — Park 2023 (SR+MA, 8편): 하악 피개의치 NDI vs RDI; 생존·MBL 동등, 만족도·OHRQoL은 NDI 우위 (2023)
 - [[implants/cao-2023-titanium-zirconium-narrow-diameter-single-crown]] — Cao 2023 (SR+MA, 7편/256 TiZr NDI): 단일크라운 Ti-Zr NDI 생존 97.5%·성공 97.2%, cpTi와 무차, 1y MBL 0.44mm (2023)
 - [[implants/kim-2026-dental-implant-osteoporosis-osteosclerosis]] — Kim 2026 (narrative review, 30편): 골다공증·골경화성 5병변 임플란트; 골다공증 단기 97.9–100%→5–10년 82.6–94.1%, 범발형 COD 66.7% vs 국소형 100% (2026)
