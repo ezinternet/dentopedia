@@ -31,6 +31,12 @@ source_papers:
   - drug/analgesics/ping-2026-ketorolac-root-canal-pain-sr-ma
   - drug/analgesics/tamgadge-2025-preoperative-dexamethasone-third-molar-pain-swelling-trismus
   - drug/analgesics/breidung-2025-epidemiological-characteristics-prognostic-scoring
+  - drug/analgesics/liborio-2025-methylprednisolone-third-molar-sr-ma
+  - drug/analgesics/singh-2023-dexamethasone-vs-methylprednisolone-third-molar-sr-ma
+  - drug/analgesics/larsen-2021-methylprednisolone-doses-split-mouth-rct
+  - drug/analgesics/gholami-2021-methylprednisolone-masseter-gluteal-third-molar-rct
+  - drug/analgesics/ibikunle-2016-prednisolone-qol-third-molar-rct
+  - drug/analgesics/buyukkurt-2006-prednisolone-diclofenac-third-molar-rct
 evidence_level: synthesis
 source: synthesis
 agenda: agenda/2026-05-27_drug-overview-split.md
@@ -48,6 +54,9 @@ relations:
 > - 투약 패턴은 **교대(alternate) > 동시(concurrent)** — Gaballah 2025 RCT(n=56)에서 alternate군 rescue 필요율 15% vs concurrent 53%(p=0.002). 각 약물 단일 dose 간격 8h 유지하며 4h마다 진통 들어가는 구조.
 > - Preemptive(술전) **NSAID**는 시술 유형 의존 — 매복 제3대구치엔 효과 약함(Costa 2015 Meta, P=0.22)이라 술후 즉시 first dose가 합리, 임플란트·치주엔 효과 있음(Gousias 2025 SR-MA)이라 술전 30–60분 Ibuprofen 400mg 합리.
 > - 단, **술전 corticosteroid는 매복 제3대구치에서 명확히 유효** — 술전 dexamethasone 4mg 근육주사 1회가 위약 대비 통증·개구량·부종 모두 개선(Tamgadge 2025 split-mouth RCT, n=60, day7 VAS 0.4 vs 1.6 p<0.001). NSAID-preemptive 무효(Costa)와 대비되는, 제3대구치 술전 약제의 핵심 옵션.
+> - **코르티코스테로이드 약물 선택 계층 (신규 6편 추가)**: 덱사메타손(Dexamethasone) vs 메틸프레드니솔론(Methylprednisolone) 직접 비교(Singh 2023 SR+MA, 7 RCT): 통증·부종 동등, 덱사메타손이 술후 2일 개구제한(Trismus)에서 유의 우월(SMD −0.69mm, p<0.0001). Libório 2025 SR+MA(9 RCT, PROSPERO): 메틸프레드니솔론도 개구제한 유의 감소(I²=0%, p<0.01)하나 통증 NS — 두 SR+MA가 일관: **개구제한은 덱사메타손 우선, 통증은 NSAID 우선**.
+> - **메틸프레드니솔론 용량·경로 한계**: Larsen 2021 split-mouth RCT(n=52, 20/30/40mg IM)와 Gholami 2021 RCT(n=60, masseter vs gluteal IM)에서 모두 대조군 대비 유의차 없음 → 용량 증량도, 국소 주사 경로도 효과를 보장하지 않음. 양쪽 RCT가 null인 이유는 불분명하나 개별 환자 변수(나이·흡연·수술 시간) 영향이 더 큼(Larsen 2021).
+> - **프레드니솔론(Prednisolone) 경로**: 점막하 주사가 경구 투여보다 삶의 질(OHRQoL, OHIP-14) 유의 개선(Ibikunle 2016 RCT, n=186, p=0.001). **프레드니솔론+디클로페낙(Diclofenac) 병용**은 단독 대비 6h 통증·7일 개구제한·7일 부종 모두 우월(Buyukkurt 2006 RCT, n=45) — 스테로이드+NSAID 병용의 상가 효과 근거.
 > - 근관치료(Endodontics)는 **시간대 의존 약제 선택** — 즉각(6–8h) 진통은 Diclofenac+APAP(MD −6.28) 또는 Ketorolac(SMD −0.82, rescue RR 0.50)이 최강이나 12–24h엔 위약 수준으로 소실(Kelidari 2026 NMA, Ping 2026 SR-MA); 12–24h 지속엔 Naproxen·Novafen이 우수. 술전 통증 prevalence 81%(Pak 2011) → 술전 통증 있으면 Ibuprofen 600mg(Smith 2017), 비가역 치수염엔 Diclofenac K 50mg(Vatankhah 2023), 심한 통증엔 corticosteroid 보조(Di Spirito 2022).
 > - 이상반응(Adverse Event, AE)에서 NSAID를 "위험"으로 내리지 말 것 — 제3대구치 단회 NSAID 단독이 SUCRA 안전성 최하위지만 **위약이 2위**라 노세보(nocebo, 부정적 기대) 효과가 주된 기전; AE는 경미·일시적 오심 수준(Magesty 2026 NMA, 28 RCT n=5,306, 확실성 매우 낮음~낮음). 효능 우위가 단회 AE를 압도 → NSAID 1차 유지.
 > - NSAID 안전성: 급성신손상(Acute Kidney Injury, AKI) 독립 위험(OR 1.98, Gomes 2025) → eGFR<60·고령·이뇨제 병용 시 회피하고 APAP 단독으로. 위장관 위험은 단기(≤7일) 사용에선 일반인구 무시 가능.

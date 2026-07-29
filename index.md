@@ -1234,6 +1234,7 @@ tags: []
 - [[digital-workflow/aminoshariae-2024-ai-endodontic-education-scoping]] — scoping-review (J Endod 2024;50(5):562, 251→35편): 근관치료 교육 AI 10영역 — 방사선해석·감별진단·치료계획·사례 난이도·시뮬레이션·실시간 가이드·로봇·진도 평가·캘리브레이션
 - [[digital-workflow/lee-2025-ai-dentistry-emerging-applications-narrative]] — narrative-review (J Dent 2025;155:105648, 120편): AI 치과 3축 — 교육(적응학습·VR)·환자 진료(진단·결정 지원)·진료실 관리(운영 효율); 데이터 프라이버시 핵심 과제
 - [[digital-workflow/zhang-2025-llm-patient-instructions-dentistry-sr-ma]] — sr+ma (J Prosthodont 2025 Early View, 25편): 치과 환자 응답 LLM 풀링 정확도 81.87% (95% CI 77.24–86.51%), 임상 수용 가능 69.9%; ChatGPT-3.5 > Bing 유의, GPT-4.0/Bard와 차이 없음
+- [[digital-workflow/ucar-2026-llm-performance-zygomatic-implantology]] — Uçar 2026 · cross-sectional · ChatGPT-4o·Claude 3.5·Gemini 1.5 Pro를 전문가 38문항(치근성 임플란트)으로 평가 — 모델 간 성능 차이 ≤0.5점/5점 척도로 임상적 무의미; ICC 0.86–0.91; 전문가 감독 없이 임상 의사결정 활용 불가 (BMC Oral Health 2026, DOI 10.1186/s12903-025-07426-9)
 - [[digital-workflow/faiyazuddin-2025-ai-healthcare-comprehensive-review]] — narrative-review (Health Sci Rep 2025;8(1):e70312): 의료 AI 광역 — WoS(2014–2024) 출판물 158편→731편 (4.5배 증가); 데이터 보안·예산 1차 장벽; 치과 특화 아님
 - [[digital-workflow/mallineni-2024-ai-dentistry-descriptive-review]] — descriptive-review (Bioengineering 2024;11:1267): AI 전 치과 분야(법의치과학 포함) — 대다수 방사선/광학 영상 진단; 데이터 가용성·균일성·연산력이 비-영상 작업 병목; 근거기반치의학 보완
 - [[digital-workflow/najeeb-2025-ai-restorative-dentistry-review]] — PRISMA literature review (BMC Oral Health 2025;25:592, 63편): 수복치의학 AI — 우식 검출 최대 95%, 진료 의자 시간 단축; 데이터 프라이버시·편향·블랙박스·표준 교육 과제; 향후 3D 프린팅 통합
@@ -1522,6 +1523,12 @@ tags: []
 - [[drug/analgesics/miroshnychenko-2023-dental-extraction-pain-network-meta]] — Network MA(82 RCT, n=9,095): 발치 후 통증 — ibuprofen+APAP 최고 효과(중-고 확실성); 오피오이드 5mg·코데인·트라마돌 위약 수준 — 2022 ADA CPG 근거
 - [[drug/analgesics/feldman-2024-nonopioid-opioid-third-molar-rct]] — RCT(n=1,815, 다기관): 이부프로펜+APAP이 히드로코돈+APAP보다 1–2일 통증 유의 낮고 전체 기간 비열등; 오피오이드 어떤 시점도 우위 없음
 - [[drug/analgesics/gaballah-2025-ibuprofen-paracetamol-concurrent-alternate-rct]] — RCT(n=56): 이부프로펜+파라세타몰 교대투여(4h) vs 동시투여(8h) — 교대투여군 구제약 필요 15% vs 53%(p=0.002)
+- [[drug/analgesics/larsen-2021-methylprednisolone-doses-split-mouth-rct]] — Larsen 2021 · rct · 이중맹검 split-mouth RCT(n=52): 메틸프레드니솔론(Methylprednisolone) 20/30/40mg 근주 모두 위약 대비 통증·개구제한·OHIP-14 유의차 없음; 나이·흡연·수술시간이 더 강한 예후인자 (Med Oral 2021;26:e156, DOI 10.4317/medoral.24094)
+- [[drug/analgesics/liborio-2025-methylprednisolone-third-molar-sr-ma]] — Libório 2025 · sr+ma · 메틸프레드니솔론 특이적 SR+MA(9 RCT, PROSPERO CRD42024512561): 개구제한 유의 감소(48h·7d, I²=0%, p<0.01/0.05) but 통증 NS; 덱사메타손(Dexamethasone)이 trismus 조절에 우월 (Med Oral 2025;30:e86, DOI 10.4317/medoral.26842)
+- [[drug/analgesics/singh-2023-dexamethasone-vs-methylprednisolone-third-molar-sr-ma]] — Singh 2023 · sr+ma · 덱사메타손 vs 메틸프레드니솔론 직접 비교(7 RCT, PROSPERO CRD42020161341): 통증·부종 동등, 덱사메타손이 술후 2일 개구제한 유의 우월(SMD −0.69mm, p<0.0001); 근거 중-저 (Sci World J 2023, DOI 10.1155/2023/7412026)
+- [[drug/analgesics/gholami-2021-methylprednisolone-masseter-gluteal-third-molar-rct]] — Gholami 2021 · rct · 메틸프레드니솔론 40mg 교근(Masseter) vs 둔근(Gluteal Muscle) vs 대조군 RCT(n=60): 세 군 간 통증·초음파 부종·개구제한 모두 유의차 없음 (J Oral Maxillofac Surg 2021;79:1829)
+- [[drug/analgesics/ibikunle-2016-prednisolone-qol-third-molar-rct]] — Ibikunle 2016 · rct · 프레드니솔론(Prednisolone) 40mg 경구 vs 점막하 주사 vs 대조(n=186): 양 투여군이 대조 대비 OHIP-14 유의 개선, 점막하 주사가 경구보다 우월(p=0.001) (Oral Maxillofac Surg 2016;20:343)
+- [[drug/analgesics/buyukkurt-2006-prednisolone-diclofenac-third-molar-rct]] — Buyukkurt 2006 · rct · 프레드니솔론 25mg 단독 vs +디클로페낙(Diclofenac) vs 대조(n=45): 병용군이 6h 통증·2·7일 개구제한·7일 부종 모두 우월; 광범위 연조직 부종 예상 시 병용 추천 (J Oral Maxillofac Surg 2006;64:1761)
 - [[drug/analgesics/etikala-2019-nsaids-periodontal-implant-therapy-review]] — 서술적 고찰: NSAIDs 치주 치유 상충 결과; COX-2 억제제는 임플란트 골유착 저해 가능; 인체 근거 부족 (Compend 2019)
 - [[drug/analgesics/gomes-2015-nsaids-osseointegration-review]] — 리뷰(31편: 임상2·동물20·세포9): COX-1 억제제는 골유착 저해 안 함, COX-2 억제 능력 있는 약은 저해 가능(in vitro 최강 depressor). 술후 COX-2 선택제 주의 — 'COX-2가 범인' 명제의 근거.
 - [[drug/analgesics/luo-2018-nsaids-osteogenic-activity-osseointegration-sr]] — 체계적문헌고찰(PRISMA/PROSPERO, 13편): 핵심 반전 — 인체 임상(ibuprofen 7일 RCT 2편)은 골유착 영향 無, in vitro·동물만 저해. 효과는 용량·기간·COX-2 선택성 의존, 장기만 저해. 인체 COX-2 선택제 연구 부재(공백).
@@ -1901,6 +1908,7 @@ tags: []
 - [[oral-medicine/coppola-2023-herpetic-gingivostomatitis-sr]] — SR (5편, 364명, 평균 7.6세): 1차 헤르페스 치은구내염(PHGS) — 조기 아시클로버의 약한 근거만, 합의 치료법 부재; ~72h 진단지연이 효능 저해 (Clin Oral Investig 2023)
 - [[oral-medicine/ravi-2024-mandibular-bony-exostoses-or-hyperostosis]] — Case report (Cureus 2024): 무치악 70세 남성 하악 설측 골성 외골증(exostosis) — MRONJ·방사선골괴사 감별이 핵심, 항흡수제/방사선치료 병력 부재로 배제, 치료 불필요 (DOI 10.7759/cureus.72941)
 - [[oral-medicine/disha-2024-oral-tori-adult-albanian-population]] — Cross-sectional pilot(n=122, 알바니아 티라나): 구강 torus 전체 유병률 48.4%(TM 39%·ABE 16%·TP 14%), 18–29세 최다, 성별·이갈이 무관 (DOI 10.3390/dj12080242)
+- [[oral-medicine/acog-2013-oral-health-care-during-pregnancy]] — ACOG Committee Opinion No.569 (2013) · consensus · 임신 중 치과 치료(방사선·국소마취·약물) 전 임신 기간 안전 공식 확인; 치주 치료는 조산(Preterm Birth)·저체중아 감소에 효과 없음(복수 SR 근거); 미치료 구강 질환이 치과 치료보다 위험 — 임산부 치과 처치의 법적·임상적 근거 (Obstet Gynecol 2013;122:417)
 - [[oral-medicine/mancini-2025-oral-herpes-treatment-sr]] — SR (PRISMA, 2005–2025): 구강 HSV — 국소제는 조기 적용 시 병변기간 단축하나 재발 미감소; 전신 항바이러스제(아시클로버·발라시클로버·팜시클로버)는 해소·재발 예방 (IJMS 2025)
 - [[oral-medicine/lv-2025-anti-hsv1-agents-update]] — 약리 리뷰: 항-HSV-1 약물 60년 업데이트 — 뉴클레오시드 유사체·헬리카제-프라이메이스 억제제·면역조절제; 내성 문제와 부재한 백신 (Front Pharmacol 2025)
 - [[oral-medicine/immune-mediated/kechichian-2024-erythema-multiforme-review]] — 내러티브 리뷰: 다형홍반(EM) — HSV/마이코플라스마 유발 피부·점막질환, SJS/TEN 감별, 대증+원인 항바이러스 치료; 재발형은 억제 항바이러스 1차 (eClinicalMedicine 2024)
