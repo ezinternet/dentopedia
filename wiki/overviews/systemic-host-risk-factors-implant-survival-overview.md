@@ -13,12 +13,12 @@ source_collection: synthesis
 tags: [implant-survival, systemic-disease, smoking, diabetes, sjogren, radiotherapy, antiresorptive, mronj, risk-stratification, amstar-2, umbrella-review, overview]
 source_wiki:
   - wiki/implants/survival/banerjee-2024-success-rate-dental-implants-smokers.md
-  - wiki/implants/oliveira-neto-2018-risk-bias-systematic-reviews-smokers.md
-  - wiki/implants/zarzar-2023-implants-radiotherapy-head-neck.md
-  - wiki/implants/meza-mauricio-2019-diabetes-implant-failure-peri-implant.md
-  - wiki/implants/dambrosio-2023-systemic-diseases-medications-influence.md
-  - wiki/implants/barros-2021-sjogrens-syndrome-dental-implants.md
-  - wiki/implants/hosseini-2024-sjogren-implant-prosthesis-5year-prospective.md
+  - wiki/implants/survival/oliveira-neto-2018-risk-bias-systematic-reviews-smokers.md
+  - wiki/implants/survival/zarzar-2023-implants-radiotherapy-head-neck.md
+  - wiki/implants/survival/meza-mauricio-2019-diabetes-implant-failure-peri-implant.md
+  - wiki/implants/survival/dambrosio-2023-systemic-diseases-medications-influence.md
+  - wiki/implants/survival/barros-2021-sjogrens-syndrome-dental-implants.md
+  - wiki/implants/survival/hosseini-2024-sjogren-implant-prosthesis-5year-prospective.md
   - wiki/drug/mronj/dahiya-2024-antiresorptive-drugs-osteonecrosis-dental-implants.md
 relations:
   - type: extends
@@ -88,7 +88,7 @@ Across these umbrella reviews the modal AMSTAR-2 grade is low or critically-low,
 
 ### Diabetes: the clearest "over-weighted" factor
 
-D'Ambrosio and Meza-Mauricio converge: **no pooled meta-analysis finds a significant DM failure signal.** The nuance is that (a) primary studies lump all diabetics together rather than stratifying by HbA1c/duration, and (b) peri-implantitis (not osseointegration failure) is where the diabetic signal actually sits — D'Ambrosio cites Ferreira OR 1.9 for peri-implantitis and Tawil's HbA1c ≤7% → 0 peri-implant disease vs 7–9% → 6/141 implants affected. So the correct frame is glycemic-control-stratified surveillance, not blanket caution. This *refines* the peri-implantitis emphasis of [[implants/meza-mauricio-2019-diabetes-implant-failure-peri-implant]].
+D'Ambrosio and Meza-Mauricio converge: **no pooled meta-analysis finds a significant DM failure signal.** The nuance is that (a) primary studies lump all diabetics together rather than stratifying by HbA1c/duration, and (b) peri-implantitis (not osseointegration failure) is where the diabetic signal actually sits — D'Ambrosio cites Ferreira OR 1.9 for peri-implantitis and Tawil's HbA1c ≤7% → 0 peri-implant disease vs 7–9% → 6/141 implants affected. So the correct frame is glycemic-control-stratified surveillance, not blanket caution. This *refines* the peri-implantitis emphasis of [[implants/survival/meza-mauricio-2019-diabetes-implant-failure-peri-implant]].
 
 ### Sjögren: reassuring, from two independent angles
 
@@ -112,12 +112,12 @@ Narrative cross-cutting synthesis (no new pooling; the sources are themselves um
 ## Related Papers
 
 - [[implants/survival/banerjee-2024-success-rate-dental-implants-smokers]] — umbrella; smoking RR/OR ≈1.9–2.9, dose-response ≥10 cig/day
-- [[implants/oliveira-neto-2018-risk-bias-systematic-reviews-smokers]] — ROBIS appraisal; 5/6 smoking MAs high/unclear risk of bias
-- [[implants/zarzar-2023-implants-radiotherapy-head-neck]] — umbrella; success 86.2% vs 95.2% irradiated
-- [[implants/meza-mauricio-2019-diabetes-implant-failure-peri-implant]] — umbrella; no significant DM failure signal, peri-implantitis trends up
-- [[implants/dambrosio-2023-systemic-diseases-medications-influence]] — umbrella; SSRI/PPI negative signals, antihypertensive protective, no absolute contraindication except prolonged glucocorticoids
-- [[implants/barros-2021-sjogrens-syndrome-dental-implants]] — umbrella; SS success ≈95%, but SR quality critically-low
-- [[implants/hosseini-2024-sjogren-implant-prosthesis-5year-prospective]] — prospective 5-yr; 100% survival, MBL/PPD = controls, burden is hyposalivation
+- [[implants/survival/oliveira-neto-2018-risk-bias-systematic-reviews-smokers]] — ROBIS appraisal; 5/6 smoking MAs high/unclear risk of bias
+- [[implants/survival/zarzar-2023-implants-radiotherapy-head-neck]] — umbrella; success 86.2% vs 95.2% irradiated
+- [[implants/survival/meza-mauricio-2019-diabetes-implant-failure-peri-implant]] — umbrella; no significant DM failure signal, peri-implantitis trends up
+- [[implants/survival/dambrosio-2023-systemic-diseases-medications-influence]] — umbrella; SSRI/PPI negative signals, antihypertensive protective, no absolute contraindication except prolonged glucocorticoids
+- [[implants/survival/barros-2021-sjogrens-syndrome-dental-implants]] — umbrella; SS success ≈95%, but SR quality critically-low
+- [[implants/survival/hosseini-2024-sjogren-implant-prosthesis-5year-prospective]] — prospective 5-yr; 100% survival, MBL/PPD = controls, burden is hyposalivation
 - [[drug/mronj/dahiya-2024-antiresorptive-drugs-osteonecrosis-dental-implants]] — umbrella; MRONJ risk concentrated in IV ≥45–60 mo, cancer indication
 
 ## Related Overviews

@@ -67,4 +67,4 @@ No conclusive data on optimal duration (the one 4-arm duration-comparison trial 
 
 - [[drug/antibiotics/torof-2023-antibiotic-dental-implant-procedures-sr-ma]] — 2023 SR+MA reinforcing the same preoperative-amoxicillin-reduces-failure conclusion and adding postoperative/penicillin-allergy data.
 - [[drug/antibiotics/momand-2024-antibiotic-prophylaxis-early-implant-failure]] — 2024 SR+MA restricted to placebo-controlled/double-blind/low-RoB RCTs only; contradicts this review's significant finding (RR 0.66 NS, NNT 143) — see supersession banner.
-- [[implants/yari-2023-risk-factors-early-implant-failure]] — retrospective early-implant-failure risk-factor analysis; complementary non-antibiotic risk context.
+- [[implants/survival/yari-2023-risk-factors-early-implant-failure]] — retrospective early-implant-failure risk-factor analysis; complementary non-antibiotic risk context.

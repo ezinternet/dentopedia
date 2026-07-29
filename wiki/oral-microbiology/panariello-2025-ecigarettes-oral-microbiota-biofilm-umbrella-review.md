@@ -60,7 +60,7 @@ PRISMA-guided umbrella review; PECO question (Population: e-cig users/cigarette 
 ## Related Papers
 
 - [[oral-microbiology/la-rosa-2026-electronic-cigarette-oral-microbiota]] — companion SR (GRADE very-low, 12 primary molecular-method studies) isolating vaping's specific oral-microbiome signature (beta-diversity shifts, Veillonella/Leptotrichia/Fusobacterium enrichment); this umbrella review reinforces that dysbiosis signal and extends it to concrete clinical endpoints (caries, periodontitis, peri-implantitis, candidiasis).
-- [[implants/calciolari-2026-tobacco-smoking-smoke-free-products]] — same 2025–2026 tobacco/vaping evidence wave; independently finds implant-specific e-cigarette outcome data still insufficient to pool, a convergent evidence-gap signal.
+- [[implants/survival/calciolari-2026-tobacco-smoking-smoke-free-products]] — same 2025–2026 tobacco/vaping evidence wave; independently finds implant-specific e-cigarette outcome data still insufficient to pool, a convergent evidence-gap signal.
 - [[periodontics/apatzidou-2022-cigarette-smoking-periodontal-implant-review]] — mechanistic review of combustible-cigarette smoking's periodontal/implant effects, the comparator condition this umbrella review benchmarks e-cigarette severity against.
 - [[periodontics/ye-2026-environmental-tobacco-smoke-periodontitis-nonsmokers]] — companion 2026 paper mapping a different tobacco-exposure route (passive ETS) onto periodontal outcomes.
 - [[overviews/smoking-tobacco-periodontal-implant-overview]] — cross-paper synthesis of the smoking/tobacco-periodontal-implant evidence cluster this paper extends into biofilm/microbiota territory.

@@ -44,7 +44,7 @@ The headline result is two-sided. On direction and consistency of effect: 15 of 
 - AMSTAR 2 quality-stratifies 17 component SRs, exposing that the field's "consistent significant effect" narrative rests on a mostly low/moderate-quality evidence base (only 1/17 high quality).
 - Assembles a side-by-side effect-size table across reviews (RR/OR range ~1.87-2.92, most 95% CIs excluding 1), functioning as a meta-evidence map rather than a single re-pooled estimate.
 - Reiterates the mechanistic chain underlying the association: TNF-alpha/IL-1b elevation in current smokers, nicotine-suppressed osteoblast gene expression, oxidative stress, and RANKL-RANK-OPG pathway disruption impairing bone healing/remodeling.
-- Confirms and cross-validates the dose-response signal (≥10 cigarettes/day threshold) already reported in [[implants/naseri-2020-smoking-levels-implant-failure-sr-ma]].
+- Confirms and cross-validates the dose-response signal (≥10 cigarettes/day threshold) already reported in [[implants/survival/naseri-2020-smoking-levels-implant-failure-sr-ma]].
 
 ## Methodology
 
@@ -57,7 +57,7 @@ Of 2,563 SRMAs identified, 364 remained after deduplication/title-abstract scree
 Reported meta-analytic effect sizes (RR/OR, 95% CI) clustered consistently above 1: Mustapha 2022 RR 2.91 (2.06-4.00); Alfadda 2018 RR 2.92 (1.76-4.83); Chrcanovic 2015 RR 2.23 (1.96-2.93); Naseri 2020 RR 2.45 (1.42-4.22); Akel 2019 RR 2.24 (1.9-2.64); Hinode 2006 RR 2.17 (1.67-2.83); Strietzel 2007 RR 2.38 (1.93-2.93); Chambrone 2015 RR 1.87 (1.35-2.58); Akram 2018 RR 2.49 (1.01-3.97, waterpipe smokers); Moraschini 2015 RR ~2.53 (marginal bone loss/failure). [확인] 15/17 reviews reported statistically significant smoking-implant outcome associations; 2 did not report p-values. Dose-response: Naseri 2020 found significantly elevated failure risk at ≥10 cigarettes/day (p=0.001) vs non-smokers, without a further significant step-up between 15 and 20 cigarettes/day. Overall inferred strength of evidence: "high" in 1 review, "moderate" in 7, "low" in 9.
 
 ## Related Papers
-- [[implants/mustapha-2022-smoking-dental-implants-sr-ma]] — largest component SR appraised in this umbrella review (292 studies, 35,511 implants; AMSTAR 2 = 11, moderate).
-- [[implants/naseri-2020-smoking-levels-implant-failure-sr-ma]] — component SR providing the dose-response (cigarettes/day) signal cross-validated here (AMSTAR 2 = 7.5, low).
-- [[implants/fan-2024-smoking-early-implant-failure-sr-ma]] — largest single-paper SR+MA quantifying early implant failure (OR 2.59), published too late to be captured by this umbrella review's search but converging on the same conclusion.
+- [[implants/survival/mustapha-2022-smoking-dental-implants-sr-ma]] — largest component SR appraised in this umbrella review (292 studies, 35,511 implants; AMSTAR 2 = 11, moderate).
+- [[implants/survival/naseri-2020-smoking-levels-implant-failure-sr-ma]] — component SR providing the dose-response (cigarettes/day) signal cross-validated here (AMSTAR 2 = 7.5, low).
+- [[implants/survival/fan-2024-smoking-early-implant-failure-sr-ma]] — largest single-paper SR+MA quantifying early implant failure (OR 2.59), published too late to be captured by this umbrella review's search but converging on the same conclusion.
 - [[overviews/smoking-tobacco-periodontal-implant-overview]] — cross-paper synthesis of the full smoking/tobacco-periodontal-implant evidence cluster that this umbrella review's quality-appraisal lens extends.

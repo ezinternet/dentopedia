@@ -69,5 +69,5 @@ Retrospective cohort (IRB ERI24010; Oct 2020–Jan 2024) of patients whose displ
 ## Related Papers
 
 - [[implants/an-2017-treatment-dental-implant-displacement-maxillary-sinus]] — companion Korean paper on the extended-bony-window removal technique; this study adds the impact/outcome quantification and prognostic predictors.
-- [[implants/shenoy-2025-dental-implant-failure-retrieval-techniques-scoping]] — broad implant failure + retrieval map; this is the sinus-displacement scenario with graded (retrospective) evidence.
-- [[implants/solderer-2019-removal-failed-dental-implants-revisited]] — general explantation technique selection; complements this sinus-specific retrieval scenario.
+- [[implants/survival/shenoy-2025-dental-implant-failure-retrieval-techniques-scoping]] — broad implant failure + retrieval map; this is the sinus-displacement scenario with graded (retrospective) evidence.
+- [[implants/survival/solderer-2019-removal-failed-dental-implants-revisited]] — general explantation technique selection; complements this sinus-specific retrieval scenario.

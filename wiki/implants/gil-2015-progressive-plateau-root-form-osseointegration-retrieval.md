@@ -71,4 +71,4 @@ This finding supports a model of **progressive osseointegration**: the implant-b
 
 - [[occlusion/romanos-2003-bone-implant-interface-loading-conditions-monkey]] — animal-level evidence (Macaca fascicularis) for loading-driven bone density and BIC improvement; preclinical counterpart to this human retrieval finding
 - [[overviews/implant-occlusion-loading-biomechanics-overview]] — synthesis of implant occlusal loading biomechanics; this retrieval study provides direct human histologic evidence for the osseointegration-progression model
-- [[implants/shenoy-2025-dental-implant-failure-retrieval-techniques-scoping]] — scoping review of retrieval analysis methods; methodologic context for human retrieval study design
+- [[implants/survival/shenoy-2025-dental-implant-failure-retrieval-techniques-scoping]] — scoping review of retrieval analysis methods; methodologic context for human retrieval study design

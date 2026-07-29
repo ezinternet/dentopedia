@@ -78,7 +78,7 @@ This umbrella review (Healthcare 2024, PROSPERO CRD42023464043) consolidates 18 
 
 - [[periodontics/botelho-2022-umbrella-review-oral-systemic]] — Nature Communications umbrella of oral disease ↔ 28 non-communicable diseases (diabetes AND hypertension/CVD among them); this page is the diabetes-specific deep dive. **reinforces**
 - [[drug/systemic-disease/enteghad-2024-diabetes-mellitus-periodontal-periimplant-disease-review]] — narrative review of DM ↔ periodontal/peri-implant disease upgraded here to SR-level evidence. **reinforces**
-- [[implants/dambrosio-2023-systemic-diseases-medications-influence]] — umbrella on systemic diseases/medications (incl. diabetes and hypertension) ↔ implant osseointegration; complements on the implant + hypertension axis.
+- [[implants/survival/dambrosio-2023-systemic-diseases-medications-influence]] — umbrella on systemic diseases/medications (incl. diabetes and hypertension) ↔ implant osseointegration; complements on the implant + hypertension axis.
 - [[endodontics/pinto-2023-apical-periodontitis-chronic-disease-association-umbrella]] — apical periodontitis ↔ chronic systemic disease umbrella (DM among exposures).
 - [[periodontics/host-modulation/angelopoulou-2026-melatonin-adjunct-nspt-t2dm-sr-ma]] — adjunctive melatonin in T2DM periodontal therapy (management downstream of this association).
 - [[implants/peri-implantitis/sbricoli-2026-peri-implant-disease-prevalence-type2-diabetes]] — peri-implant disease prevalence in controlled T2DM (implant-side counterpart).

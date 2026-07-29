@@ -5,8 +5,8 @@ category: overviews
 date: 2026-07-06
 evidence_level: synthesis
 source_papers:
-  - wiki/implants/shenoy-2025-dental-implant-failure-retrieval-techniques-scoping.md
-  - wiki/implants/solderer-2019-removal-failed-dental-implants-revisited.md
+  - wiki/implants/survival/shenoy-2025-dental-implant-failure-retrieval-techniques-scoping.md
+  - wiki/implants/survival/solderer-2019-removal-failed-dental-implants-revisited.md
   - wiki/implants/an-2017-treatment-dental-implant-displacement-maxillary-sinus.md
   - wiki/implants/lee-2024-characteristics-impacts-implant-displacement-maxillary-sinus.md
   - wiki/implants/mahmood-hashemi-2024-causes-implant-migration-maxillary-sinus-case-series.md
@@ -46,7 +46,7 @@ For sinus-displaced implants, timing of displacement is the dominant prognostic 
 
 **Clinical question:** When a dental implant fails or is displaced, how should it be removed, and — for the specific and increasingly common scenario of maxillary sinus displacement — how should the complication be managed and prevented?
 
-The literature splits cleanly into two connected problems. The **first** is technique selection for explantation in general: across 388 studies ([[implants/shenoy-2025-dental-implant-failure-retrieval-techniques-scoping]]) and a focused 34-study Q&A review ([[implants/solderer-2019-removal-failed-dental-implants-revisited]]), the same five techniques recur — counter-torque ratchet (CTRT), trephine burs, piezosurgery, laser, and electrosurgery-induced thermoexplantation — ranked consistently by invasiveness, with **CTRT as the least traumatic first choice** and trephine burs as the common but bone-sacrificing fallback. Peri-implantitis is overwhelmingly the reason removal becomes necessary (~82%), and reinsertion after removal is broadly successful (71–100%) provided the replacement implant is appropriately sized. Zirconia implants complicate this picture: their low fracture toughness makes CTRT more likely to shatter the fixture than unscrew it.
+The literature splits cleanly into two connected problems. The **first** is technique selection for explantation in general: across 388 studies ([[implants/survival/shenoy-2025-dental-implant-failure-retrieval-techniques-scoping]]) and a focused 34-study Q&A review ([[implants/survival/solderer-2019-removal-failed-dental-implants-revisited]]), the same five techniques recur — counter-torque ratchet (CTRT), trephine burs, piezosurgery, laser, and electrosurgery-induced thermoexplantation — ranked consistently by invasiveness, with **CTRT as the least traumatic first choice** and trephine burs as the common but bone-sacrificing fallback. Peri-implantitis is overwhelmingly the reason removal becomes necessary (~82%), and reinsertion after removal is broadly successful (71–100%) provided the replacement implant is appropriately sized. Zirconia implants complicate this picture: their low fracture toughness makes CTRT more likely to shatter the fixture than unscrew it.
 
 The **second** problem is a specific, increasingly reported retrieval scenario: implants displaced into the maxillary sinus. Three papers — a Korean technique note proposing single-stage extended-window retrieval ([[implants/an-2017-treatment-dental-implant-displacement-maxillary-sinus]]), a Seoul National University cohort quantifying the sinus damage this causes ([[implants/lee-2024-characteristics-impacts-implant-displacement-maxillary-sinus]]), and a 25-year, 39-patient Iranian case series mapping *when and why* displacement happens ([[implants/mahmood-hashemi-2024-causes-implant-migration-maxillary-sinus-case-series]]) — together establish that (1) displacement is usually a site-preparation failure (inadequate residual bone, over-drilling, crestal sinus lift gone wrong), (2) **timing of displacement, not just its occurrence, determines prognosis** (post-loading displacement causes measurably worse sinus pathology than intraoperative displacement), and (3) removal via Caldwell-Luc, FESS, or a lateral bony window is uniformly effective and should not be delayed. The unifying clinical message across both problems: **prefer the least-destructive retrieval method the situation allows, and treat prevention (site-appropriate planning, sinus-lift thresholds, primary-stability protocols) as the more powerful lever than any removal technique.**
 
@@ -54,8 +54,8 @@ The **second** problem is a specific, increasingly reported retrieval scenario: 
 
 | Paper | Design | n | Key finding | Confidence |
 |---|---|---|---|---|
-| [[implants/shenoy-2025-dental-implant-failure-retrieval-techniques-scoping]] | Scoping review (PRISMA-ScR) | 388 studies | Maps failure causes + 5 retrieval techniques; trephine most common (7 studies), reverse-torque 3, piezo 2, laser 1, electrosurgery 1; success 70–100% | sr |
-| [[implants/solderer-2019-removal-failed-dental-implants-revisited]] | Narrative Q&A review | 34 studies (of 3,997 screened) | CTRT first choice (4 mm threshold, >200 Ncm → trephine); zirconia CTRT risky (fracture toughness 4–18 vs 77 MPa·m^0.5); reinsertion survival 71–100% | narrative-review |
+| [[implants/survival/shenoy-2025-dental-implant-failure-retrieval-techniques-scoping]] | Scoping review (PRISMA-ScR) | 388 studies | Maps failure causes + 5 retrieval techniques; trephine most common (7 studies), reverse-torque 3, piezo 2, laser 1, electrosurgery 1; success 70–100% | sr |
+| [[implants/survival/solderer-2019-removal-failed-dental-implants-revisited]] | Narrative Q&A review | 34 studies (of 3,997 screened) | CTRT first choice (4 mm threshold, >200 Ncm → trephine); zirconia CTRT risky (fracture toughness 4–18 vs 77 MPa·m^0.5); reinsertion survival 71–100% | narrative-review |
 | [[implants/an-2017-treatment-dental-implant-displacement-maxillary-sinus]] | Review + illustrative case | 1 case | Extended vertical lateral bony window: simultaneous implant removal + sinus graft + new implant placement in one stage; 14-month uneventful follow-up | narrative-review |
 | [[implants/lee-2024-characteristics-impacts-implant-displacement-maxillary-sinus]] | Retrospective cohort | 13 pts / 14 displacements | Post-loading displacement → opacification 3.6 vs 1.7 (p=0.019), osteitis 40% vs 0%; timing is the only independent predictor (p=0.013 both) | retrospective |
 | [[implants/mahmood-hashemi-2024-causes-implant-migration-maxillary-sinus-case-series]] | Retrospective case series (25 y, single surgeon) | 39 patients | Displacement during placement 22/39 (bone height 11, over-drilling 11, closed sinus lift 6, immediate placement 3); postop 8 (healing abutment 5, prosthetic 3); all retrieved via Caldwell-Luc, 0 complications 2–10 y | retrospective |
@@ -80,8 +80,8 @@ The **second** problem is a specific, increasingly reported retrieval scenario: 
 
 ## Related Papers
 
-- [[implants/shenoy-2025-dental-implant-failure-retrieval-techniques-scoping]] — broad failure + retrieval technique map (anchor)
-- [[implants/solderer-2019-removal-failed-dental-implants-revisited]] — technique-selection decision logic (CTRT threshold, zirconia caution, reinsertion)
+- [[implants/survival/shenoy-2025-dental-implant-failure-retrieval-techniques-scoping]] — broad failure + retrieval technique map (anchor)
+- [[implants/survival/solderer-2019-removal-failed-dental-implants-revisited]] — technique-selection decision logic (CTRT threshold, zirconia caution, reinsertion)
 - [[implants/an-2017-treatment-dental-implant-displacement-maxillary-sinus]] — single-stage extended-window sinus retrieval technique
 - [[implants/lee-2024-characteristics-impacts-implant-displacement-maxillary-sinus]] — sinus-displacement impact/prognosis quantification
 - [[implants/mahmood-hashemi-2024-causes-implant-migration-maxillary-sinus-case-series]] — 25-year cause distribution + Caldwell-Luc outcomes

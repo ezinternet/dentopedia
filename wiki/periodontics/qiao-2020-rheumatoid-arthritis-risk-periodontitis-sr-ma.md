@@ -92,6 +92,6 @@ Key observations:
 
 ## Related Papers
 
-- [[implants/esimekara-2022-dental-implants-autoimmune-diseases-sr]] — RA is one of the autoimmune diseases reviewed for implant outcomes; this paper supplies the periodontitis→RA risk direction that complements that page (reinforces).
-- [[implants/aghaloo-2019-systemic-diseases-medications-implant-osseointegration-sr]] — systemic/autoimmune disease (including RA) effects on osseointegration; provides the implant-side context for RA as a systemic comorbidity.
+- [[implants/survival/esimekara-2022-dental-implants-autoimmune-diseases-sr]] — RA is one of the autoimmune diseases reviewed for implant outcomes; this paper supplies the periodontitis→RA risk direction that complements that page (reinforces).
+- [[implants/survival/aghaloo-2019-systemic-diseases-medications-implant-osseointegration-sr]] — systemic/autoimmune disease (including RA) effects on osseointegration; provides the implant-side context for RA as a systemic comorbidity.
 - [[periodontics/jepsen-2018-periodontal-manifestations-of-systemic-diseases]] — workshop framework for periodontal–systemic disease interactions, into which the periodontitis–RA association fits.

@@ -71,11 +71,11 @@ Peri-implantitis management follows a stepwise ladder: mucositis (BoP+, no bone 
 | Spine paper | Evidence | Key finding |
 |---|---|---|
 | [[implants/rosa-2024-do-dental-implants-bone-types]] | sr-ma (49편) | Type IV 실패 RR 1.5–1.9. 상악 구치부 최고 |
-| [[implants/fan-2024-smoking-early-implant-failure-sr-ma]] | sr-ma (n=59,246) | 흡연 → 조기 실패 OR 2.59. Dose-dependent |
-| [[implants/mustapha-2022-smoking-dental-implants-sr-ma]] | sr-ma | 흡연자 실패·MBL 유의 |
-| [[implants/naseri-2020-smoking-levels-implant-failure-sr-ma]] | sr-ma (23편) | Cigarettes/day dose-dependent |
+| [[implants/survival/fan-2024-smoking-early-implant-failure-sr-ma]] | sr-ma (n=59,246) | 흡연 → 조기 실패 OR 2.59. Dose-dependent |
+| [[implants/survival/mustapha-2022-smoking-dental-implants-sr-ma]] | sr-ma | 흡연자 실패·MBL 유의 |
+| [[implants/survival/naseri-2020-smoking-levels-implant-failure-sr-ma]] | sr-ma (23편) | Cigarettes/day dose-dependent |
 | [[periodontics/apatzidou-2022-cigarette-smoking-periodontal-implant-review]] | narrative-review | 기전 — neutrophil·MMP·미생물군 |
-| [[implants/moy-2005-dental-implant-failure-rates-risk]] | retrospective (early) | 실패 위험인자 stratification 초기 cohort |
+| [[implants/survival/moy-2005-dental-implant-failure-rates-risk]] | retrospective (early) | 실패 위험인자 stratification 초기 cohort |
 
 DM 위험은 [[drug-systemic-disease-dental-management-overview]] 2절(Al-Ansari 2022, Wagner 2022). 조절 DM = 정상 동등, 비조절 OR 1.78.
 
@@ -94,7 +94,7 @@ DM 위험은 [[drug-systemic-disease-dental-management-overview]] 2절(Al-Ansari
 
 [확인] [[implants/park-2024-dental-implant-utilization-nhis-korea]] — 한국 NHIS 임플란트 활용 분석. 인구·세대별 분포·실패 양상 baseline 데이터. 한국 환자 컨설팅 시 reference.
 
-[확인] [[implants/shenoy-2025-dental-implant-failure-retrieval-techniques-scoping]] — 실패 임플란트 제거 기술 scoping review. 위험 stratification에서 실패 시 reversibility를 환자 설명에 포함.
+[확인] [[implants/survival/shenoy-2025-dental-implant-failure-retrieval-techniques-scoping]] — 실패 임플란트 제거 기술 scoping review. 위험 stratification에서 실패 시 reversibility를 환자 설명에 포함.
 
 ### 임상 ladder (위험 stratification 통합)
 
@@ -167,7 +167,7 @@ Risk Tier 결정
 - [[implants/ayoub-2024-abutment-bending-guide-one-piece-implant]] — one-piece bending guide
 - [[implants/full-arch/baki-2025-all-on-4-trefoil-five-implant-fea]] — All-on-4 vs trefoil FEA stress
 - [[implants/ozturk-2026-stress-distribution-anterior-implant-fea]] — 전치부 stress 분포
-- [[implants/song-2021-implant-complications-bruxism-patients]] — bruxism 환자 합병증
+- [[implants/survival/song-2021-implant-complications-bruxism-patients]] — bruxism 환자 합병증
 - [[implants/stilwell-2024-occlusal-considerations-implant-maintenance]] — 교합 유지관리
 
 ### 2-E. 장기 outcome — Real-world
@@ -176,7 +176,7 @@ Risk Tier 결정
 |---|---|---|
 | [[implants/kim-2026-proximal-contact-loss-implants-10years]] | retrospective 10y | Proximal Contact Loss (PCL) 10y 발생률·위험인자 |
 | [[implants/yook-2025-single-implant-effects-antagonistic-adjacent-teeth]] | retrospective | 단일 임플란트가 대합치·인접치 골에 미치는 영향 |
-| [[implants/bonsmann-2025-risk-factors-early-implant-failure-sinus-nested]] | nested case-control | 상악동거상 동시 식립 early failure 위험인자 |
+| [[implants/survival/bonsmann-2025-risk-factors-early-implant-failure-sinus-nested]] | nested case-control | 상악동거상 동시 식립 early failure 위험인자 |
 
 → 임상 적용: **PCL은 단일 임플란트 10y 추적에서 흔함**. 환자 설명 시 "양측 인접치에 contact 회복 위한 보철 조정이 5–10y 사이 필요할 수 있다" 포함.
 
@@ -295,7 +295,7 @@ peri-implant STD 발생 → Tavelli 2025 prevalence·apical shift 추적, 외과
 |---|---|---|
 | [[implants/atieh-2025-tissue-vs-bone-level-peri-implantitis-sr-ma]] | sr-ma | TL vs BL peri-implantitis RR 0.59 trend |
 | [[implants/mbl/solderer-2025-tissue-level-implant-bone-loss-factors]] | cohort | TL bone loss 위험인자 — 자세한 분석 |
-| [[implants/bonsmann-2025-risk-factors-early-implant-failure-sinus-nested]] | nested case-control | early failure 위험인자 |
+| [[implants/survival/bonsmann-2025-risk-factors-early-implant-failure-sinus-nested]] | nested case-control | early failure 위험인자 |
 | [[implants/cosola-2020-bone-tissue-level-radiological-sr]] | sr | radiological bone loss SR |
 
 ### 5-C. 치료 protocol — 갱신
@@ -362,11 +362,11 @@ ISQ 기반 loading 결정은 [[overviews/isq-loading-threshold]] · [[overviews/
 
 축 1 — 위험 stratification:
 - [[implants/rosa-2024-do-dental-implants-bone-types]]
-- [[implants/fan-2024-smoking-early-implant-failure-sr-ma]]
-- [[implants/mustapha-2022-smoking-dental-implants-sr-ma]]
-- [[implants/naseri-2020-smoking-levels-implant-failure-sr-ma]]
+- [[implants/survival/fan-2024-smoking-early-implant-failure-sr-ma]]
+- [[implants/survival/mustapha-2022-smoking-dental-implants-sr-ma]]
+- [[implants/survival/naseri-2020-smoking-levels-implant-failure-sr-ma]]
 - [[periodontics/apatzidou-2022-cigarette-smoking-periodontal-implant-review]]
-- [[implants/moy-2005-dental-implant-failure-rates-risk]]
+- [[implants/survival/moy-2005-dental-implant-failure-rates-risk]]
 - [[implants/raghavan-2025-bone-density-implant-dentistry-review]]
 - [[implants/cicciu-2023-buccal-palatal-bone-thickness-marginal]]
 - [[implants/lee-2018-unilateral-mastication-bone-density-alveolus]]
@@ -374,7 +374,7 @@ ISQ 기반 loading 결정은 [[overviews/isq-loading-threshold]] · [[overviews/
 - [[implants/premnath-2012-stress-distribution-bone-density-fea]]
 - [[implants/cosola-2020-bone-tissue-level-radiological-sr]]
 - [[implants/park-2024-dental-implant-utilization-nhis-korea]]
-- [[implants/shenoy-2025-dental-implant-failure-retrieval-techniques-scoping]]
+- [[implants/survival/shenoy-2025-dental-implant-failure-retrieval-techniques-scoping]]
 
 축 2 — 디자인:
 - [[implants/short-narrow/yu-2021-extra-short-vs-longer-implants-ma]]
@@ -398,11 +398,11 @@ ISQ 기반 loading 결정은 [[overviews/isq-loading-threshold]] · [[overviews/
 - [[implants/ayoub-2024-abutment-bending-guide-one-piece-implant]]
 - [[implants/full-arch/baki-2025-all-on-4-trefoil-five-implant-fea]]
 - [[implants/ozturk-2026-stress-distribution-anterior-implant-fea]]
-- [[implants/song-2021-implant-complications-bruxism-patients]]
+- [[implants/survival/song-2021-implant-complications-bruxism-patients]]
 - [[implants/stilwell-2024-occlusal-considerations-implant-maintenance]]
 - [[implants/kim-2026-proximal-contact-loss-implants-10years]]
 - [[implants/yook-2025-single-implant-effects-antagonistic-adjacent-teeth]]
-- [[implants/bonsmann-2025-risk-factors-early-implant-failure-sinus-nested]]
+- [[implants/survival/bonsmann-2025-risk-factors-early-implant-failure-sinus-nested]]
 
 축 3 — Drill thermal · OD:
 - [[implants/osteotomy-thermal/bento-2023-steel-versus-zirconia-drills-heat]]

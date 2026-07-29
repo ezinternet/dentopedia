@@ -341,9 +341,9 @@ NRS (Numeric Rating Scale)를 outcome으로.
 - [[drug/mronj/ghimire-2022-medically-compromised-prosthodontic-patients]] — 보철 관점 9개 질환군
 
 ### Diabetes Mellitus
-- [[drug/systemic-disease/al-ansari-2022-diabetes-mellitus-dental-implants-sr-ma]] — DM 임플란트 실패 OR 1.78 SR-MA
-- [[drug/systemic-disease/wagner-2022-diabetes-mellitus-dental-implants-sr]] — 조절 DM = 정상 동등 SR
-- [[drug/systemic-disease/shahi-2026-implant-outcomes-diabetes-mellitus-sr]] — DM implant outcome 최신 SR(2026 in-press), al-ansari 후속·정량 결과 재확인 보류
+- [[implants/survival/al-ansari-2022-diabetes-mellitus-dental-implants-sr-ma]] — DM 임플란트 실패 OR 1.78 SR-MA
+- [[implants/survival/wagner-2022-diabetes-mellitus-dental-implants-sr]] — 조절 DM = 정상 동등 SR
+- [[implants/survival/shahi-2026-implant-outcomes-diabetes-mellitus-sr]] — DM implant outcome 최신 SR(2026 in-press), al-ansari 후속·정량 결과 재확인 보류
 - [[drug/systemic-disease/maftei-2021-salivary-markers-hba1c-type2-diabetes-extraction]] — T2DM 발치 전후 타액 8종 마커·HbA1c case-control; RANKL AUC 0.999, 발치 후 HbA1c·TNF-α 유의 감소
 
 ### HbA1c 해석

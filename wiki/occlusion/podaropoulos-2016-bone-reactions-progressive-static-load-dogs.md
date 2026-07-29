@@ -74,6 +74,6 @@ The progressive loading group showed significantly higher BIC (P = 0.018). Peri-
 ## Related Papers
 
 - [[overviews/implant-occlusion-loading-biomechanics-overview]] — synthesis of implant occlusion evidence; this study provides animal-model PBL histomorphometric support
-- [[implants/song-2021-implant-complications-bruxism-patients]] — clinical counterpart examining implant complications under pathological overload (bruxism); contrasts with controlled progressive loading
+- [[implants/survival/song-2021-implant-complications-bruxism-patients]] — clinical counterpart examining implant complications under pathological overload (bruxism); contrasts with controlled progressive loading
 - [[occlusion/romanos-2003-bone-implant-interface-loading-conditions-monkey]] — related primate study on BIC under different loading conditions; methodological comparison
 - [[occlusion/podaropoulos-2020-progressive-static-load-overloading-dogs]] — companion study by same group extending to implant withstand capacity under overloading forces

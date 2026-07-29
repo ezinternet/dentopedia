@@ -250,9 +250,9 @@ Functional impact:
 
 - [[drug/systemic-disease/elhusseiny-2024-oral-health-children-chronic]] — source: pediatric CKD oral manifestations and dental protocol (Axis 1)
 - [[periodontics/he-2023-demystifying-connection-between-periodontal]] — extends Axis 1 toward adults: umbrella review of 18 SRs confirming a bidirectional CKD–periodontitis relationship and periodontal treatment's potential to improve CKD outcomes
-- [[drug/systemic-disease/guadarrama-bello-2026-bone-healing-implants-diabetes-osteoporosis-review]] — source: diabetes and osteoporosis implant bone healing and surface modification rescue (Axis 2)
+- [[implants/survival/guadarrama-bello-2026-bone-healing-implants-diabetes-osteoporosis-review]] — source: diabetes and osteoporosis implant bone healing and surface modification rescue (Axis 2)
 - [[drug/systemic-disease/sharma-2024-orofacial-complications-systemic-sclerosis]] — source: SSc orofacial complications and management (Axis 3)
-- [[drug/systemic-disease/al-ansari-2022-diabetes-mellitus-dental-implants-sr-ma]] — SR/MA quantifying diabetes implant outcomes; Guadarrama Bello 2026 supplies the mechanism
+- [[implants/survival/al-ansari-2022-diabetes-mellitus-dental-implants-sr-ma]] — SR/MA quantifying diabetes implant outcomes; Guadarrama Bello 2026 supplies the mechanism
 - [[drug/systemic-disease/enteghad-2024-diabetes-mellitus-periodontal-periimplant-disease-review]] — diabetes-peri-implant inflammation axis extended by Guadarrama Bello 2026
-- [[drug/systemic-disease/shahi-2026-implant-outcomes-diabetes-mellitus-sr]] — SR of diabetes implant outcomes; reinforces Axis 2 surface-rescue thesis
+- [[implants/survival/shahi-2026-implant-outcomes-diabetes-mellitus-sr]] — SR of diabetes implant outcomes; reinforces Axis 2 surface-rescue thesis
 - [[overviews/drug-systemic-disease-dental-management-overview]] — companion overview covering medically compromised patient management, DDI, HbA1c thresholds; this page adds CKD, diabetes/osteoporosis implant mechanisms, and SSc not covered there

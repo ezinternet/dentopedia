@@ -7,7 +7,7 @@ owner: 원장
 priority: P2
 tags: [implant, osteoporosis, osteosclerosis, bone-quality, mronj, decision-matrix, interactive]
 source_wiki:
-  - wiki/implants/kim-2026-dental-implant-osteoporosis-osteosclerosis.md
+  - wiki/implants/survival/kim-2026-dental-implant-osteoporosis-osteosclerosis.md
   - wiki/overviews/drug-mronj-antiresorptive-overview.md
 output:
   - interactives/2026-06-09_bone-quality-extremes-implant-matrix.html
@@ -19,7 +19,7 @@ output:
 
 # Input
 
-- wiki/implants/kim-2026-dental-implant-osteoporosis-osteosclerosis.md — 주 데이터(병변별 성공률, 골다공증 단기/장기 생존율, 비스포스포네이트 drug holiday)
+- wiki/implants/survival/kim-2026-dental-implant-osteoporosis-osteosclerosis.md — 주 데이터(병변별 성공률, 골다공증 단기/장기 생존율, 비스포스포네이트 drug holiday)
 - wiki/overviews/drug-mronj-antiresorptive-overview.md — MRONJ·항흡수제 맥락
 
 # Output

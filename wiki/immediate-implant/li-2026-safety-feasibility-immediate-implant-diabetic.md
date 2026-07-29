@@ -60,6 +60,6 @@ This systematic review and meta-analysis pooled 10 studies (1,350 patients, 1,62
 
 ## Related Papers
 
-- [[drug/systemic-disease/wagner-2022-diabetes-mellitus-dental-implants-sr]] — reinforces (general implant-diabetes SR, not IIP-specific; this paper narrows the question to the immediate-placement protocol)
-- [[drug/systemic-disease/al-ansari-2022-diabetes-mellitus-dental-implants-sr-ma]] — reinforces (general implant-diabetes MA; this paper adds IIP-specific stratification by glycemic control)
-- [[implants/aghaloo-2019-systemic-diseases-medications-implant-osseointegration-sr]] — applies-to (systemic-disease osseointegration risk framework, applied here specifically to IIP)
+- [[implants/survival/wagner-2022-diabetes-mellitus-dental-implants-sr]] — reinforces (general implant-diabetes SR, not IIP-specific; this paper narrows the question to the immediate-placement protocol)
+- [[implants/survival/al-ansari-2022-diabetes-mellitus-dental-implants-sr-ma]] — reinforces (general implant-diabetes MA; this paper adds IIP-specific stratification by glycemic control)
+- [[implants/survival/aghaloo-2019-systemic-diseases-medications-implant-osseointegration-sr]] — applies-to (systemic-disease osseointegration risk framework, applied here specifically to IIP)

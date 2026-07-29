@@ -12,7 +12,7 @@ pdf_filename: N/A
 source_collection: synthesis
 tags: [bone-quality, bone-density, lekholm-zarb, misch-d1-d4, type-iv-bone, primary-stability, osteoporosis, osteosclerosis, low-density-bone, overview, aging, inflammaging, osteoanabolic, teriparatide]
 source_papers:
-  - wiki/implants/kindaro-2026-parathyroid-hormone-implant-osseointegration-osteoporosis-sr.md
+  - wiki/implants/survival/kindaro-2026-parathyroid-hormone-implant-osseointegration-osteoporosis-sr.md
   - wiki/bone-biology/issa-2026-bone-biology-aging-periodontal-peri-implant-tissues.md
   - wiki/implants/rosa-2024-do-dental-implants-bone-types.md
   - wiki/implants/raghavan-2025-bone-density-implant-dentistry-review.md
@@ -23,7 +23,7 @@ source_papers:
   - wiki/implants/isq/canullo-2024-bioactive-surface-poor-bone-isq-stability.md
   - wiki/implants/osseodensification/mello-machado-2021-osseodensification-low-quality-bone-rct.md
   - wiki/implants/munjal-2015-implants-low-density-bone-d3d4.md
-  - wiki/implants/kim-2026-dental-implant-osteoporosis-osteosclerosis.md
+  - wiki/implants/survival/kim-2026-dental-implant-osteoporosis-osteosclerosis.md
   - wiki/implants/khaohoen-2023-biomaterials-dental-implants-bone-density-narrative-review.md
 relations:
   - type: extends
@@ -100,7 +100,7 @@ The classification-to-protocol map is set out by Raghavan (2025), which ties Mis
 | [[implants/osseodensification/mello-machado-2021-osseodensification-low-quality-bone-rct]] | rct (16 pts/55 impl) | Soft-bone drilling lever | OD vs conventional: IT 39 vs 32 Ncm (p<.001), ISQ equivalent, survival equal at 6mo | [확인(소표본)] |
 | [[implants/isq/canullo-2024-bioactive-surface-poor-bone-isq-stability]] | prospective | Soft-bone surface lever | In poor bone, bioactive surface avoids the T30/T45 ISQ dip → enables 45-day loading | [확인] |
 | [[implants/munjal-2015-implants-low-density-bone-d3d4]] | prospective (n=14) | D3/D4 outcome | 92.3% survival at 12mo, MBL not significant | [미검증(소표본)] |
-| [[implants/kim-2026-dental-implant-osteoporosis-osteosclerosis]] | narrative-review (30 studies) | Systemic/pathologic extension | Osteoporosis short 97.9–100% → long 82.6–94.1%; sclerotic lesion-dependent | [확인] |
+| [[implants/survival/kim-2026-dental-implant-osteoporosis-osteosclerosis]] | narrative-review (30 studies) | Systemic/pathologic extension | Osteoporosis short 97.9–100% → long 82.6–94.1%; sclerotic lesion-dependent | [확인] |
 | [[implants/khaohoen-2023-biomaterials-dental-implants-bone-density-narrative-review]] | narrative-review (119 articles) | Material × design × technique × density | D4 88.8% survival vs D-I 97.6%; low-density geometry guideline (conical, Ø≥4 mm, reverse-buttress, small pitch, deep thread); Ti gold standard, PEEK ↓stress-shielding but ↓BIC, zirconia LTD; rough-surface survives better in soft bone (97.1%) | [확인] |
 
 ## Reference — two classifications in use
@@ -181,7 +181,7 @@ Supporting papers added 2026-06-10 (determinant evidence across the four modific
 
 Supporting papers added 2026-07-10 (the pharmacologic lever and the aging axis):
 
-- [[implants/kindaro-2026-parathyroid-hormone-implant-osseointegration-osteoporosis-sr]] — SR of 12 preclinical studies: intermittent PTH/teriparatide raises BIC, BV/TV, and removal torque in osteoporotic animals; combination > monotherapy; **animal-only, no human data**, 7/12 high risk of blinding bias. The osteoanabolic counterpoint to the antiresorptive-hazard axis.
+- [[implants/survival/kindaro-2026-parathyroid-hormone-implant-osseointegration-osteoporosis-sr]] — SR of 12 preclinical studies: intermittent PTH/teriparatide raises BIC, BV/TV, and removal torque in osteoporotic animals; combination > monotherapy; **animal-only, no human data**, 7/12 high risk of blinding bias. The osteoanabolic counterpoint to the antiresorptive-hazard axis.
 - [[bone-biology/issa-2026-bone-biology-aging-periodontal-peri-implant-tissues]] — Perio 2000 review: AGE crosslinks, inflammaging, senescence/SASP, immunosenescence, osteoprogenitor exhaustion (RANKL↑/OPG↓) as the mechanism of age-related alveolar bone fragility; age alone is not a contraindication, but its effect on osseointegration is largely unstudied.
 - [[implants/osteotomy-thermal/di-stefano-2018-undersizing-tapping-bic-primary-stability-bovine-histomorphometric]] — bench: torque-depth integral quantifies undersizing → primary stability (the drilling lever).
 - [[implants/osteotomy-thermal/el-kholey-2019-drilling-technique-low-density-bone-sr]] — SR: undersized/osteotome/Piezo/OD all raise primary stability but long-term superiority weak (caution on the drilling lever).

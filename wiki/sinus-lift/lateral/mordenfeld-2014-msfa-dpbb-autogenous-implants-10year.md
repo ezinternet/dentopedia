@@ -58,4 +58,4 @@ Mordenfeld 등(2014)은 심한 후방 상악 위축 환자 20명을 대상으로
 - [[sinus-lift/lateral/starch-jensen-2017-sinus-floor-augmentation-treatment-modalities]] — MSFA 술식 가이드.
 - [[sinus-lift/lateral/del-fabbro-2025-sinus-augmentation-materials-lateral-approach]] — MSFA 이식재 최신 SR (49 RCT, 생존율 84.6–100%).
 - [[bone-regeneration/jensen-2009-bone-augmentation-localized-defects-review]] — 동시기 ITI consensus background.
-- [[implants/bonsmann-2025-risk-factors-early-implant-failure-sinus-nested]] — sinus augmentation 후 early failure 위험인자.
+- [[implants/survival/bonsmann-2025-risk-factors-early-implant-failure-sinus-nested]] — sinus augmentation 후 early failure 위험인자.

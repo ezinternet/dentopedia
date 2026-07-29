@@ -79,4 +79,4 @@ This human-only systematic review (Buzatu 2024, *Nutrients*) asks whether serum 
 
 - [[implants/vitamin-d/miron-2025-vitamin-d-deficiency-early-implant-failure]] — reinforces: independently flags vitamin D deficiency as an early-implant-failure risk factor.
 - [[implants/vitamin-d/tallon-2024-vitamin-d-osseointegration-umbrella-review]] — refines: higher-tier umbrella review reaches an inconclusive verdict; this human SR supplies the study-level human loss numbers underneath it.
-- [[implants/fan-2024-smoking-early-implant-failure-sr-ma]] — anchor: smoking as an early-failure driver; Mangano shows smoking compounds vitamin D deficiency into ~4× early-loss risk.
+- [[implants/survival/fan-2024-smoking-early-implant-failure-sr-ma]] — anchor: smoking as an early-failure driver; Mangano shows smoking compounds vitamin D deficiency into ~4× early-loss risk.

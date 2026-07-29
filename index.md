@@ -19,11 +19,11 @@ tags: []
 - [[implants/peri-implantitis/sbricoli-2026-peri-implant-disease-prevalence-type2-diabetes]] — Sbricoli 2026 · cross-sectional · 제2형 당뇨 vs 비당뇨 임플란트주위염 유병률 유의차 없음(51% vs 43%, 검정력 부족·치주병력 교란)
 - [[implants/peri-implantitis/smeets-2014-peri-implantitis-definition-etiology-review]] — Smeets 2014, peri-implantitis definition/etiology/prevention/treatment comprehensive review, prevalence up to 56%
 - [[implants/short-narrow/lee-2009-marginal-bone-single-short-implant]] — Lee 2009, short implant (<10mm) marginal bone changes 1-year follow-up, C:I ratio evaluation (n=40)
-- [[implants/esimekara-2022-dental-implants-autoimmune-diseases-sr]] — Esimekara 2022 · sr · **자가면역질환 임플란트** SR(55편/9질환): 생존율 일반인과 동등, 단 2차 Sjögren·미란성 OLP서 peri-mucositis·골소실↑ (DOI 10.1016/j.jormas.2022.01.005)
-- [[implants/aghaloo-2019-systemic-diseases-medications-implant-osseointegration-sr]] — Aghaloo 2019 · sr · ITI 합의 SR: 조절된 전신질환(당뇨·골다공증·RA·HIV)은 골유착 저하 근거 없음; SSRI/PPI 예비적 부정적; 항흡수제 ONJ 주의 (DOI 10.11607/jomi.19suppl.g3)
-- [[implants/almeida-2017-dental-implants-sjogren-syndrome-sr]] — Almeida 2017 · sr · Sjögren 증후군 임플란트 SR(6편): 생존 ~94%(평균 4년)·낮은 MBL·QoL 개선 (DOI 10.1371/journal.pone.0189507)
-- [[implants/hosseini-2024-sjogren-implant-prosthesis-5year-prospective]] — Hosseini 2024 · prospective · 원발성 Sjögren 증후군(pSS) 단일임플란트 5년 전향적 매칭대조군 연구(23 vs 24명): 생존율 100%(양군)·MBL/PPD/보철합병증 차이 없음, 단 DMFT·타액분비량·OHIP QoL은 pSS서 유의하게 나쁨 (DOI 10.1111/clr.14356)
-- [[implants/mosaddad-2023-dental-implants-systemic-sclerosis-sr]] — Mosaddad 2023 · sr · 전신경화증(scleroderma) 임플란트 SR(37명/153임플란트): 생존 89–100%, SSc 자체 영향 없음, 소구증(microstomia) 관리 핵심 (DOI 10.1002/iid3.812)
+- [[implants/survival/esimekara-2022-dental-implants-autoimmune-diseases-sr]] — Esimekara 2022 · sr · **자가면역질환 임플란트** SR(55편/9질환): 생존율 일반인과 동등, 단 2차 Sjögren·미란성 OLP서 peri-mucositis·골소실↑ (DOI 10.1016/j.jormas.2022.01.005)
+- [[implants/survival/aghaloo-2019-systemic-diseases-medications-implant-osseointegration-sr]] — Aghaloo 2019 · sr · ITI 합의 SR: 조절된 전신질환(당뇨·골다공증·RA·HIV)은 골유착 저하 근거 없음; SSRI/PPI 예비적 부정적; 항흡수제 ONJ 주의 (DOI 10.11607/jomi.19suppl.g3)
+- [[implants/survival/almeida-2017-dental-implants-sjogren-syndrome-sr]] — Almeida 2017 · sr · Sjögren 증후군 임플란트 SR(6편): 생존 ~94%(평균 4년)·낮은 MBL·QoL 개선 (DOI 10.1371/journal.pone.0189507)
+- [[implants/survival/hosseini-2024-sjogren-implant-prosthesis-5year-prospective]] — Hosseini 2024 · prospective · 원발성 Sjögren 증후군(pSS) 단일임플란트 5년 전향적 매칭대조군 연구(23 vs 24명): 생존율 100%(양군)·MBL/PPD/보철합병증 차이 없음, 단 DMFT·타액분비량·OHIP QoL은 pSS서 유의하게 나쁨 (DOI 10.1111/clr.14356)
+- [[implants/survival/mosaddad-2023-dental-implants-systemic-sclerosis-sr]] — Mosaddad 2023 · sr · 전신경화증(scleroderma) 임플란트 SR(37명/153임플란트): 생존 89–100%, SSc 자체 영향 없음, 소구증(microstomia) 관리 핵심 (DOI 10.1002/iid3.812)
 - [[implants/ruhstorfer-2024-customized-vs-conventional-healing-abutments-sr]] — Ruhstorfer 2024 · sr · **맞춤형 치유지대주(customized healing abutment)** SR(5편/190임플란트, 생존 100%): 통상형 대비 치주조직·심미 개선 경향·통증↓·단점 없음 (DOI 10.1186/s40729-024-00581-8)
 - [[implants/rios-santos-2020-one-abutment-one-time-rct]] — Ríos-Santos 2020 · rct · 다기관 RCT(147명/231임플란트): one-abutment-one-time(최종지대주 수술 시 장착, 반복 분리 안 함) vs 반복분리 — MBL/ISQ 차이 없음; 지대주 높이 2mm>1mm (DOI 10.3390/ijerph17249453)
 - [[implants/siegenthaler-2022-convex-emergence-profile-mucosal-recession-rct]] — Siegenthaler 2022 · rct · 전치부 임플란트: 볼록(convex) emergence profile이 12개월 점막퇴축 64% vs 오목(concave) 14%(OR 12.69) → 오목/평탄 권장 (DOI 10.1111/jcpe.13696)
@@ -42,7 +42,7 @@ tags: []
 - [[implants/short-narrow/walter-2023-narrow-diameter-29mm-bone-level-implant]] — Walter 2023 (전향적, n=41, 5개 센터): 스트라우만 2.9mm BLT Roxolid 전치부 단일치아 — 1년 생존율 92.7%(CI 79.0–97.6%), 성공률 89.7%, MBL −0.3mm, PES 11.6/14, 파절 0
 - [[implants/short-narrow/park-2023-narrow-regular-diameter-mandibular-overdentures]] — Park 2023 (SR+MA, 8편): 하악 피개의치 NDI vs RDI; 생존·MBL 동등, 만족도·OHRQoL은 NDI 우위 (2023)
 - [[implants/short-narrow/cao-2023-titanium-zirconium-narrow-diameter-single-crown]] — Cao 2023 (SR+MA, 7편/256 TiZr NDI): 단일크라운 Ti-Zr NDI 생존 97.5%·성공 97.2%, cpTi와 무차, 1y MBL 0.44mm (2023)
-- [[implants/kim-2026-dental-implant-osteoporosis-osteosclerosis]] — Kim 2026 (narrative review, 30편): 골다공증·골경화성 5병변 임플란트; 골다공증 단기 97.9–100%→5–10년 82.6–94.1%, 범발형 COD 66.7% vs 국소형 100% (2026)
+- [[implants/survival/kim-2026-dental-implant-osteoporosis-osteosclerosis]] — Kim 2026 (narrative review, 30편): 골다공증·골경화성 5병변 임플란트; 골다공증 단기 97.9–100%→5–10년 82.6–94.1%, 범발형 COD 66.7% vs 국소형 100% (2026)
 - [[implants/kim-2026-implant-angulation-peri-implant-bone]] — Kim 2026 (retrospective, 506 implants, 5.1y): CAD 3D 각도 측정; 비축방향 MBL 0.22 vs 축방향 0.10 mm (P<.05), 상악>하악, 비축×implant-FDP 대합 상호작용 Δ0.373 mm (2026)
 - [[implants/erdogdu-2024-abutment-angle-bone-quality-fatigue-fea]] — Erdoğdu 2024 · in-vitro FEA (3-unit bridge, 6 abutment configs × 2 bone types): 지대주 각도↑ → 응력↑·피로 강도↓; 멀티유닛 지대주 > 시멘트형; 흡수 골에서 더 심화 (DOI 10.3390/jpm14101040)
 - [[implants/full-arch/murat-2025-all-on-4-implant-angulation-load-direction-fea]] — Murat 2025 · in-vitro FEA+RSM (All-on-4, 15 configs): 전두면 BL 하중각이 피질골 응력 1위(29.8%); 임플란트 각도 2위(27.0%); 15° 경사+45° 사선 = 최소 응력; 하중 방향 최적화가 각도 못지않게 중요 (DOI 10.3389/fbioe.2025.1644776)
@@ -65,7 +65,7 @@ tags: []
 - [[implants/di-stefano-2021-stability-dental-implants-cortical-bone]] — Systematic review (13 studies): cortical bone thickness positively correlates with primary stability (ISQ, IT); bicortical anchorage = highest stability; MBL correlation inconclusive
 - [[implants/short-narrow/yu-2021-extra-short-vs-longer-implants-ma]] — Meta-analysis (21 RCTs, 2576 implants): extra-short implants (≤6mm) equivalent survival at 1–3yr; 5yr gap disappears with bone augmentation; 68% fewer biological complications
 - [[implants/mortazavi-2021-bone-loss-tissue-bone-level-implants]] — Systematic review (38 studies): BL vs TL implant MBL 비교; platform-switching·Morse taper·SLActive가 MBL 감소 핵심; 1년 내 MBL이 전체의 대부분 차지
-- [[implants/moy-2005-dental-implant-failure-rates-risk]] — 코호트(4,680개, 21년): 당뇨 RR 2.75·두경부방사선 RR 2.73·흡연 RR 1.56 유의; 고혈압·심질환·스테로이드 무관; 하악 전치부 최저 실패율(2.89%)
+- [[implants/survival/moy-2005-dental-implant-failure-rates-risk]] — 코호트(4,680개, 21년): 당뇨 RR 2.75·두경부방사선 RR 2.73·흡연 RR 1.56 유의; 고혈압·심질환·스테로이드 무관; 하악 전치부 최저 실패율(2.89%)
 - [[implants/soft-tissue/thoma-2018-soft-tissue-augmentation-periimplant-health]] — SR+MA: FGG/CTG increases keratinized tissue 3-4mm; KT <2mm → higher plaque, bleeding, MBL; ≥2mm threshold for peri-implant health
 - [[implants/soft-tissue/prpic-2026-emergence-angle-profile-implant-restorations-scoping]] — Prpic 2026 · sr · emergence angle <30°는 변연골흡수 감소에 유리할 수 있으나 근거 불확실, concave profile은 일관되게 연조직 안정과 연관(17편 스코핑)
 - [[implants/soft-tissue/strauss-2024-wide-emergence-angle-marginal-bone-loss-junctional-epithelium]] — Strauss 2024 · animal · 개 모델: 보철 emergence angle 넓을수록 MBL↑(80°군 4배)·≥60°는 접합상피 손상, <40° 권고
@@ -104,15 +104,15 @@ tags: []
 - [[implants/gehrke-2024-implant-dentistry-review-2024]] — 현대 임플란트 치의학 서술적 고찰 — 표면 처리(SLA·SLActive·UV), 지르코니아 임플란트, 디지털 가이드 수술.
 - [[implants/padhye-2020-quantitative-edentulous-posterior-maxilla]] — CBCT 후향 분석 (349개 무치악 부위, 250명): 상악 구치부 절반 이상이 폭 < 6 mm·높이 < 8 mm이며 54.14%가 경사진 상악동 저부 → 표준 임플란트 식립 전 증대술이 빈번 필요
 - [[implants/short-narrow/zhang-2024-short-vs-long-implants-sinus]] — Network meta-analysis (17 studies, 1,076 patients, 1,751 implants): SFE에서 short implant(4–8 mm) vs long(≥8 mm) 생존율 동등·MBL 단축형이 유의하게 적음.
-- [[implants/bonsmann-2025-risk-factors-early-implant-failure-sinus-nested]] — JCP 2025 다기관 nested case-control (8 독일 센터, 2016-2021, n=129 case + 273 control): sinus augmentation 후 조기 임플란트 실패 (≤12 month) — multivariable logistic regression으로 위험인자 OR 산출.
-- [[implants/caggiano-2022-smoking-cessation-periodontal-peri-implant-sr]] — SR (Salerno, Dent J 2022): 흡연 중단의 치주·peri-implant 건강 효과 — cessation은 치주 임상 지표·임플란트 결과 모두 개선; 회복 정도와 시간경과 의존.
+- [[implants/survival/bonsmann-2025-risk-factors-early-implant-failure-sinus-nested]] — JCP 2025 다기관 nested case-control (8 독일 센터, 2016-2021, n=129 case + 273 control): sinus augmentation 후 조기 임플란트 실패 (≤12 month) — multivariable logistic regression으로 위험인자 OR 산출.
+- [[implants/survival/caggiano-2022-smoking-cessation-periodontal-peri-implant-sr]] — SR (Salerno, Dent J 2022): 흡연 중단의 치주·peri-implant 건강 효과 — cessation은 치주 임상 지표·임플란트 결과 모두 개선; 회복 정도와 시간경과 의존.
 - [[implants/peri-implantitis/carra-2023-primordial-primary-prevention-peri-implant-sr-ma]] — JCP 2023 EFP/AAP Workshop SR+MA (Univ Paris, Carra): peri-implant 질환 — primordial (식립 전 위험인자 통제) + primary (식립 후 health 유지) 예방 효과; 흡연 중단·치주염 사전 관리·구강위생 강화가 peri-implant mucositis·peri-implantitis 예방 효과 입증.
-- [[implants/fan-2024-smoking-early-implant-failure-sr-ma]] — SR+MA (J Dent 2024, Fan, 32 observational studies, n=59,246 implants / 14,115 patients, 1994-2024): 흡연 → 조기 임플란트 실패 implant 단위 OR 2.59 (95% CI 2.08-3.23) — 흡연-임플란트 조기 실패 정량 anchor.
-- [[implants/mustapha-2022-smoking-dental-implants-sr-ma]] — SR+MA (Malmö Univ, Medicina 2022): 흡연 + 임플란트 — 실패율과 MBL 모두 흡연자에서 유의하게 높음; 흡연이 implant 결과에 부정적 영향 확정.
-- [[implants/naseri-2020-smoking-levels-implant-failure-sr-ma]] — JCP 2020 SR+MA (Naseri, 23편): 흡연 dose (cigarettes/day) 증가 → 임플란트 실패 위험 dose-dependent 증가; heavy smoker가 non-smoker 대비 유의하게 높은 위험 — 흡연 양 자체가 risk modifier.
-- [[implants/calciolari-2026-tobacco-smoking-smoke-free-products]] — SR+MA (Clin Oral Implants Res 2026, PROSPERO CRD42024628116, 45편/44연구): 흡연자 임플란트 생존율(implant OR 0.40, patient OR 0.43), CBL +0.64mm, peri-implantitis 발생률 증가 — 가장 크고 최신인 종합 정량 근거; smoke-free/전자담배는 근거 불충분.
-- [[implants/shenoy-2025-dental-implant-failure-retrieval-techniques-scoping]] — Scoping review (Front Oral Health 2025, Manipal): 임플란트 실패 정의·분류 + 실패 임플란트 retrieval (제거) 기술 종합 — early/late, counter-torque vs trephine vs piezo, bone-preserving minimally invasive protocols.
-- [[implants/solderer-2019-removal-failed-dental-implants-revisited]] — Narrative Q&A review (Clin Exp Dent Res 2019, 취리히대, 34편): 실패 임플란트 제거 의사결정 — CTRT(역토크 래칫)를 1차 선택(4mm 잔존 골유착 임계값, >200 Ncm면 trephine 병용), piezo·laser·electrosurgery 비교, zirconia CTRT 금기, 재식립 생존율 71–100%.
+- [[implants/survival/fan-2024-smoking-early-implant-failure-sr-ma]] — SR+MA (J Dent 2024, Fan, 32 observational studies, n=59,246 implants / 14,115 patients, 1994-2024): 흡연 → 조기 임플란트 실패 implant 단위 OR 2.59 (95% CI 2.08-3.23) — 흡연-임플란트 조기 실패 정량 anchor.
+- [[implants/survival/mustapha-2022-smoking-dental-implants-sr-ma]] — SR+MA (Malmö Univ, Medicina 2022): 흡연 + 임플란트 — 실패율과 MBL 모두 흡연자에서 유의하게 높음; 흡연이 implant 결과에 부정적 영향 확정.
+- [[implants/survival/naseri-2020-smoking-levels-implant-failure-sr-ma]] — JCP 2020 SR+MA (Naseri, 23편): 흡연 dose (cigarettes/day) 증가 → 임플란트 실패 위험 dose-dependent 증가; heavy smoker가 non-smoker 대비 유의하게 높은 위험 — 흡연 양 자체가 risk modifier.
+- [[implants/survival/calciolari-2026-tobacco-smoking-smoke-free-products]] — SR+MA (Clin Oral Implants Res 2026, PROSPERO CRD42024628116, 45편/44연구): 흡연자 임플란트 생존율(implant OR 0.40, patient OR 0.43), CBL +0.64mm, peri-implantitis 발생률 증가 — 가장 크고 최신인 종합 정량 근거; smoke-free/전자담배는 근거 불충분.
+- [[implants/survival/shenoy-2025-dental-implant-failure-retrieval-techniques-scoping]] — Scoping review (Front Oral Health 2025, Manipal): 임플란트 실패 정의·분류 + 실패 임플란트 retrieval (제거) 기술 종합 — early/late, counter-torque vs trephine vs piezo, bone-preserving minimally invasive protocols.
+- [[implants/survival/solderer-2019-removal-failed-dental-implants-revisited]] — Narrative Q&A review (Clin Exp Dent Res 2019, 취리히대, 34편): 실패 임플란트 제거 의사결정 — CTRT(역토크 래칫)를 1차 선택(4mm 잔존 골유착 임계값, >200 Ncm면 trephine 병용), piezo·laser·electrosurgery 비교, zirconia CTRT 금기, 재식립 생존율 71–100%.
 - [[implants/an-2017-treatment-dental-implant-displacement-maxillary-sinus]] — 리뷰+증례 (Maxillofac Plast Reconstr Surg 2017, 전남대): 상악동 변위 임플란트 제거(retrieval) — 원인(과기공·잔존골<4mm), Caldwell-Luc→FESS→측방 골창, 확장 골창으로 제거+골이식+재식립 1회 동시 술식, 무증상이어도 제거 권고.
 - [[implants/lee-2024-characteristics-impacts-implant-displacement-maxillary-sinus]] — 후향 코호트 (J Dent Sci 2024, 서울대, 13명/14건): 상악동 변위 임플란트의 영향 정량 — 기능부하 후 변위가 수술 중보다 opacification(3.6 vs 1.7, p=0.019)·osteitis(벽≥3mm 40%) 악화, 변위 시점만 독립 예측인자(p=0.013), 14건 모두 잔존골<5mm인데 site prep 전무; 제거 6개월 후 opacification 0.4로 소실.
 - [[implants/mahmood-hashemi-2024-causes-implant-migration-maxillary-sinus-case-series]] — 후향 케이스 시리즈 (J Dent Shiraz 2024, 테헤란 의대, 25년 39명): 상악동 변위 원인의 단계별 분포(식립 중 22/39 — 잔존골부족·과드릴링 각11, 폐쇄형 sinus lift 6, 즉시식립 3; 술후 힐링어버트먼트 5·보철 3) + 전부 Caldwell-Luc로 제거, 2–10년 무합병증; 잔존골<5mm→sinus lift 예방, 변위 후 31/39 재치료 거부.
@@ -123,7 +123,7 @@ tags: []
 - [[implants/soft-tissue/rios-osorio-2025-xcm-vs-ctg-fgg-implant-soft-tissue-sr-ma]] — 17편 RCT SR+MA: 임플란트 부위 연조직 증대 시 비가교 XCM < CTG(MT), 가교형 VCMX = CTG(MT), FGG > XCM*(KMW 1.47mm 우위)
 - [[implants/loading-protocol/zhou-2021-placement-loading-protocols-single-implants-sr]] — SR (45 publications: 13 RCT+21 prospective+11 retrospective, IJOMI 2021, jomi.8750, ITI Group 2): site-specific (anterior/posterior × maxilla/mandible) placement × loading protocol — 전치 상악 가중 생존율 97.5–99.6%; site별 protocol validation matrix 제시.
 - [[implants/loading-protocol/gallucci-2018-implant-placement-loading-protocols-partially]] — SR(69편, 5,248제목→449전문): 부분무치악 9종 배치×부하 프로토콜 가중생존율 96.0–100%, SCV/CD/CID 3단계 검증틀 도입 — ITI Type 1-4/A-B-C 명명 확립. 생존·검증등급 수치는 [[implants/gallucci-2026-current-state-of-evidence-for]]에 부분 superseded(명명법 자체는 유지).
-- [[implants/song-2021-implant-complications-bruxism-patients]] — JKAOMS Editor's Opinion (2 pages, 2021): 이갈이는 implant late failure(픽스처/스크류/보철 파절, 심한 MBL, decementation) 위험요인 — 식립 전 EMG·PSG 진단 + occlusal splint·botulinum toxin으로 사전 관리 권고; BTX와 implant 영역 교차의 짧지만 명확한 임상 권고
+- [[implants/survival/song-2021-implant-complications-bruxism-patients]] — JKAOMS Editor's Opinion (2 pages, 2021): 이갈이는 implant late failure(픽스처/스크류/보철 파절, 심한 MBL, decementation) 위험요인 — 식립 전 EMG·PSG 진단 + occlusal splint·botulinum toxin으로 사전 관리 권고; BTX와 implant 영역 교차의 짧지만 명확한 임상 권고
 - [[implants/pirc-2026-one-piece-two-piece-implants-15year-rct]] — Pirc 2026, rct, 15–17y RCT follow-up (n=60, 151 implants): one-piece Straumann SLA vs two-piece Brånemark — survival 95%, MBL 0.08 mm vs 1.53 mm favoring one-piece, but technical complications 35.4% vs 5.8% favoring two-piece
 - [[implants/chrcanovic-2025-neck-design-peri-implant-tissues-12mo-rct]] — 12-month RCT (Clin Oral Implants Res 2025): triangular vs round implant neck design × MBL, soft tissues in immediately placed implants; no significant MBL difference at 12 months
 - [[implants/bosshardt-2017-osseointegration-titanium-zirconia-review]] — Ti/TiZr/지르코니아 임플란트 골유착 생물학 서사 리뷰: TiZr = cpTi, Ti6Al4V < cpTi, SLActive > SLA 초기 BIC (2017)
@@ -134,7 +134,7 @@ tags: []
 - [[implants/peri-implantitis/bai-2024-seven-nonsurgical-methods-peri-implantitis-network]] — Bai 2024 · sr+ma (33편 RCT 네트워크 메타분석): 기계적 제거(MD) 병용 7가지 비외과 요법 — 임플란트주위염은 PBMT+MD가 PPD 1위(SUCRA 75.3%)·전신항생제(SA)+MD가 CAL/MBL 1위, 점막염은 프로바이오틱스+MD가 PPD/PLI 1위·SA+MD가 BoP 1위 (DOI 10.1371/journal.pone.0305342)
 - [[implants/full-arch/scocca-2026-zygomatic-implants-head-neck-cancer-sr-ma]] — Scocca 2026 · sr+ma · 두경부암 상악 재건 관골임플란트(ZI) 17편(294명/679 ZI): 통합 생존 97%(95%CI 94–99), 1차 절제 동시 식립 실패 2% vs 2차 9%(p=0.41, NS), 방사선치료 OR 3.42(p=0.055, NS), UW-QOL/EORTC 기능 양호 — 위키 첫 ZI 결과-수준 근거 (DOI 10.1016/j.jdent.2026.106709)
 - [[implants/short-narrow/pachiou-2026-narrow-diameter-implants-immediate-loading-sr-ma]] — Pachiou 2026 · sr+ma · 고정성 보철 좁은직경(NDI ≤3.5mm) 즉시 vs 조기/지연 하중(9편 정성/7편 정량): 임플란트 실패 차이 없음(단기 RR 1.41, 장기 RR 1.10, I²=0%), MBL·보철합병증 동등; 장기 생물학적 합병증이 즉시하중군에 많다는 very-low 신호만 (DOI 10.1016/j.jdent.2026.106795)
-- [[implants/kindaro-2026-parathyroid-hormone-implant-osseointegration-osteoporosis-sr]] — Kindaro 2026 · sr · 골다공증 동물모델 12편 전임상 SR: 간헐적 PTH(테리파라타이드, 골형성촉진제)가 BIC·BV/TV·제거토크 일관 개선, 병용(비타민D·랄록시펜·국소 스캐폴드)이 단독보다 우수 — 그러나 인체 연구 0편·7/12편 눈가림 고위험 → 실험적 보조요법 (DOI 10.1016/j.job.2026.100778)
+- [[implants/survival/kindaro-2026-parathyroid-hormone-implant-osseointegration-osteoporosis-sr]] — Kindaro 2026 · sr · 골다공증 동물모델 12편 전임상 SR: 간헐적 PTH(테리파라타이드, 골형성촉진제)가 BIC·BV/TV·제거토크 일관 개선, 병용(비타민D·랄록시펜·국소 스캐폴드)이 단독보다 우수 — 그러나 인체 연구 0편·7/12편 눈가림 고위험 → 실험적 보조요법 (DOI 10.1016/j.job.2026.100778)
 - [[implants/full-arch/cosola-2026-customized-3d-printed-titanium-subperiosteal-implants-sr-ma]] — Cosola 2026 · sr+ma(초록전용) · 맞춤형 CAD/CAM 3D프린팅 티타늄 골막하 임플란트 11편(268명/369개): ≤3년 생존 97.8%지만 전체 92.4%·6년 54.1%로 붕괴, 후기 실패의 주원인은 골유착이 아니라 연조직 노출·열개 — 선별된 환자의 무이식 salvage 옵션 (JOMS 2026;84:1084)
 - [[implants/short-narrow/yildirim-2026-short-implants-bibliometric-research-trends]] — Yildirim 2026 · narrative-review(bibliometric) · WoS 숏임플란트 626편(1994–2024) 과학지도: 연 12.69% 성장·2019 정점 후 감소, 주요 저널 COIR·IJOMI, 주요 저자 Esposito·Felice, 4개 주제군(생존, 위축 후방악 재건, 보철·생역학, vs 표준/골증대) — 연구 활동의 지도이지 임상 효과의 근거가 아님 (DOI 10.11607/jomi.11411)
 - [[implants/full-arch/la-monaca-2022-immediate-flapless-full-arch-rehabilitation]] — Retrospective 10-year cohort (n=28, 164 implants): all-on-4 vs all-on-6 implant survival (89.7% vs 99.0%), MBL, and complications (2022)
@@ -1468,13 +1468,13 @@ tags: []
 - [[drug/anticoagulants/mohamed-rohani-2025-hematological-disorders-bleeding-tendency-dental]] — Mohamed Rohani 2025 · narrative-review · 혈우병·폰빌레브란트병·백혈병·다발골수종 등 내인성 출혈경향 환자의 치과 관리와 혈액내과 협진 — 위키의 출혈 근거가 약물유발에 쏠려 있던 축을 질환유발로 확장(수치 없는 정성 자료)
 - [[drug/anticoagulants/sitthikornvanich-2026-tranexamic-acid-gauze-hemostatic-oral-surgery]] — Sitthikornvanich 2026 · in-vitro · 동결건조 즉시사용 트라넥삼산(TXA) 거즈: 2.5%가 5%와 동등(응고시간 유의 단축), TXA 87%가 1분 내 방출, 30 °C/65% RH·4 °C 180일 활성 유지 — 항응고 환자 임상 팔은 전무한 전임상 단계
 - [[drug/anticoagulants/tang-2025-chitosan-antibacterial-hemostatic-sponge-extraction]] — Tang 2025 · animal · 항응고 흰쥐 발치 모델에서 4급암모늄화 키토산/폴리도파민 스폰지(QCD)가 젤라틴 스폰지 대비 출혈량 0.011 vs 0.019 g·지혈시간 59.7 vs 87.0초 — 절대차는 혈액 8 mg·27초 수준이고 사람 데이터 없음
-- [[drug/systemic-disease/hamade-2024-hypertension-dental-implants-sr-ma]] — Hamadé 2024 · sr+ma · 24편·임플란트 21,066개: 고혈압은 임플란트 실패 위험 증가 없음(OR 1.10, p=0.671)
+- [[implants/survival/hamade-2024-hypertension-dental-implants-sr-ma]] — Hamadé 2024 · sr+ma · 24편·임플란트 21,066개: 고혈압은 임플란트 실패 위험 증가 없음(OR 1.10, p=0.671)
 - [[drug/systemic-disease/khalilurrahman-2026-raas-inhibitor-statin-periodontal-status-sr-ma]] — Khalilurrahman 2026 · sr+ma(정성 6편·정량 4편) · 심혈관질환 위험군 약물 — RAAS억제제(ACEI/ARB)는 치주상태 비일관적(2편뿐, 판정불가); 스타틴은 BOP -13.4%(p=0.007)·PD -0.38mm(p<0.00001) 유의개선(임상적 유의성은 불확실), CAL 무변화 (PMC full text)
 - [[drug/systemic-disease/perozo-2026-perioperative-hemodynamic-hypertensive-oral-surgery-protocol]] — Perozo 2026 · retrospective · 고혈압 구강수술 기저혈압이 혈역학 변동 최대인자·출혈 7배↑; 3단계 Perozo 프로토콜 제안(미검증)
 - [[drug/systemic-disease/yang-2025-tooth-extraction-hypertensive-ecg-monitoring]] — Yang 2025 · retrospective · 고혈압 발치 2,059건: 8.0% 혈압강하제 필요(술전 SBP≥159 AUC0.91), 37.2% 일과성 부정맥(전부 비치명적)
 - [[drug/systemic-disease/kumari-2025-hemodynamic-fluctuations-during-tooth-extraction]] — Kumari 2025 · prospective(n=50) · 리도카인+아드레날린 발치 중 SBP/DBP/HR 상승; 코호트는 정상혈압이라 고혈압 권고는 외삽(주의) (PMC full text)
 - [[drug/systemic-disease/liu-2024-perioperative-hypertension-implant-bone-augmentation]] — Liu 2024 · retrospective · 임플란트 동기 골증대 728명 중 26.8% 围术期 고혈압; 남성·60세↑·수술60분↑ 위험(술식별 상이, abstract-only)
-- [[drug/systemic-disease/guadarrama-bello-2026-bone-healing-implants-diabetes-osteoporosis-review]] — Guadarrama Bello 2026 · narrative-review · 당뇨·골다공증이 임플란트 주위 골치유를 손상시키는 기전 + 티타늄 표면처리 회복 전략
+- [[implants/survival/guadarrama-bello-2026-bone-healing-implants-diabetes-osteoporosis-review]] — Guadarrama Bello 2026 · narrative-review · 당뇨·골다공증이 임플란트 주위 골치유를 손상시키는 기전 + 티타늄 표면처리 회복 전략
 - [[drug/antibiotics/low-2026-dental-antibiotic-prescribing-practices-singapore]] — Low 2026 · cross-sectional · 싱가포르 치과의사 280명: 적절 처방률 6.5~97.7%(치주·구강외과 최저), 사랑니(71%)·임플란트(74%) 예방적 항생제 과처방
 - [[drug/antibiotics/kinzel-2026-german-dentists-prophylactic-antibacterial-risk-groups]] — Kinzel 2026 · cross-sectional · 독일 치과의사 537명: 심내막염·면역억제군만 예방투여 양성 trend, 당뇨·관절치환은 음성, 전군 아목시실린·클린다마이신
 - [[drug/antibiotics/nazari-2026-general-dentists-antibiotic-prescription-endodontic-shiraz]] — Nazari 2026 · cross-sectional · Shiraz 일반의 103명: 근관 항생제 지식 중상이나 면역저하 환자 69.9% 부적절 처방 등 과잉처방, 84.5% 가이드라인 무인지
@@ -1504,9 +1504,9 @@ tags: []
 - [[drug/analgesics/dan-2010-corticosteroid-administration-oral-orthognathic-surgery]] — Dan 2010 · sr+ma(초록기반) · 구강외과 코르티코스테로이드 부종·통증 유의감소(둘다 P<.0001), 감염위험증가 없음(RR 1.0041, P=.89); 악교정수술은 methylprednisolone≥85mg IV로 부종 감소, 신경재생 시사(통계미검증)
 - [[drug/analgesics/yavari-2019-submucosal-corticosteroids-postoperative-pain-rct]] — Yavari 2019 · rct · 비가역성 치수염 단일내원 근관치료 후 점막하 코르티코스테로이드 주사 DB-RCT(n=197): 덱사메타손 초기 24h 우수, 장기작용 베타메타손 72h~7일 우수, 48h 동등 — 코르티코스테로이드 전군 위약 대비 통증·QOL 유의 개선
 - [[drug/analgesics/rodrigues-2024-preemptive-dexamethasone-diclofenac-endodontic-rct]] — Rodrigues 2024 · rct · 증상성 치수염 하악구치 술전 선제투약 DB-RCT(n=84): 덱사메타손 4mg 하악치조신경차단술(IANB) 성공률 39.3% vs 디클로페낙 21.4% vs 위약 3.6%(p<.001); 술후 24~72h 두 약물 모두 위약 대비 우수
-- [[drug/systemic-disease/wagner-2022-diabetes-mellitus-dental-implants-sr]] — SR(56편): 조절 양호 당뇨 = 정상 성공률; 조절 불량(HbA1c≥9%) → 치주염↑·실패↑; 항생제+CHX 필수; 금기 아님
-- [[drug/systemic-disease/al-ansari-2022-diabetes-mellitus-dental-implants-sr-ma]] — SR+MA(89편): 당뇨 임플란트 실패 OR 1.777; T1DM>T2DM(OR 4.477); MBL +0.776mm; 상악에서만 유의
-- [[drug/systemic-disease/andrade-2021-survival-rate-peri-implant-evaluation]] — Andrade 2021 · sr+ma(5편) · 혈당조절 시 즉시하중 임플란트 생존·MBL 당뇨서 비당뇨와 차이 없음 (PMC full text)
+- [[implants/survival/wagner-2022-diabetes-mellitus-dental-implants-sr]] — SR(56편): 조절 양호 당뇨 = 정상 성공률; 조절 불량(HbA1c≥9%) → 치주염↑·실패↑; 항생제+CHX 필수; 금기 아님
+- [[implants/survival/al-ansari-2022-diabetes-mellitus-dental-implants-sr-ma]] — SR+MA(89편): 당뇨 임플란트 실패 OR 1.777; T1DM>T2DM(OR 4.477); MBL +0.776mm; 상악에서만 유의
+- [[implants/survival/andrade-2021-survival-rate-peri-implant-evaluation]] — Andrade 2021 · sr+ma(5편) · 혈당조절 시 즉시하중 임플란트 생존·MBL 당뇨서 비당뇨와 차이 없음 (PMC full text)
 - [[drug/systemic-disease/nathan-2008-translating-a1c-assay-estimated-average]] — 국제 다기관 prospective(n=507, ADAG): HbA1c–평균혈당 선형회귀식 eAG (mg/dL) = 28.7×A1C − 46.7 (R²=0.84) 확립; 연령·성별·당뇨형·인종·흡연 무관; 환자 설명 시 % → mg/dL 환산 표준
 - [[drug/systemic-disease/weykamp-2013-hba1c-review-analytical-clinical-aspects]] — 서술적 고찰(Ann Lab Med 2013): HbA1c 5측정법(IEC·CE·AC·면역·효소) 강약·표준화(NGSP/IFCC)·Hb 변이체 간섭·POC 한계 종합; chairside HbA1c 검사 적용 근거
 - [[drug/systemic-disease/chen-2022-interpretation-hba1c-analytical-methodology-hematology]] — 서술적 고찰(Exp Ther Med 2022): HbA1c 3축 간섭 프레임(측정법×생화학×혈액학); 빈혈·CKD·HbS/C/D/E·임신·약물(아스피린·비타민C·dapsone)별 위양성/위음성 방향 카탈로그 + 대안 마커(fructosamine·glycated albumin·1,5-AG·CGM-TIR)
@@ -2751,7 +2751,7 @@ tags: []
 
 ### drug (added 2026-05-28, batch f)
 
-- [[drug/systemic-disease/shahi-2026-implant-outcomes-diabetes-mellitus-sr]] — Shahriar Shahi 2026 · sr · BMC Oral Health article-in-press — DM and dental implant outcomes (successor to al-ansari-2022 MA; unedited version, full body pending publication)
+- [[implants/survival/shahi-2026-implant-outcomes-diabetes-mellitus-sr]] — Shahriar Shahi 2026 · sr · BMC Oral Health article-in-press — DM and dental implant outcomes (successor to al-ansari-2022 MA; unedited version, full body pending publication)
 - [[drug/mronj/kwon-2023-mronj-position-papers-what-changed]] — Tae-Geon Kwon 2023 (대한치과의사협회지) · narrative-review · AAOMS MRONJ 권고안 변천(2007 BRONJ→2014 MRONJ→2022 update) 해설; 2022 핵심 3변경: (1)정의에 면역조절제(Romosozumab) 추가 (2)수술 치료 전 stage(1·2·3) 확대 (3)수술 전 drug holiday 권고 삭제. ruggiero-2022 원문의 한국어 해석 레이어
 
 ### radiology (NEW category, added 2026-05-28, batch f)
@@ -3419,7 +3419,7 @@ tags: []
 - [[implants/soft-tissue/yadav-2025-soft-tissue-substitutes-patient-reported-outcomes-commentary]] — EBD commentary on SR+MA (29 studies): soft-tissue substitutes reduce post-op pain, analgesic use & surgery time vs SCTG, with equivalent satisfaction/esthetics (PROM axis) [narrative-review]
 - [[implants/soft-tissue/blaskovic-2021-peri-implant-soft-tissue-augmentation-review]] — Blašković 2021, book chapter: FGG/CTG/substitutes for peri-implant soft tissue augmentation
 - [[implants/soft-tissue/le-2022-aesthetic-contour-graft-peri-implant]] — GBR(Guided Bone Regeneration)로 순측 골 윤곽 증대('Aesthetic Contour Graft')해 임플란트 주위 연조직 출현 윤곽 개선; 연조직 이식 없이도 2-3 mm 조직 두께 확보 가능
-- [[implants/da-silva-2025-gingival-phenotype-implant-survival-sr]] — da Silva 2025 · sr · 8편: 얇은·두꺼운 phenotype 모두 5년 성공률 >91%; phenotype은 peri-implantitis/MBL 경유 간접 영향, 얇은 형이 골소실 주요 위험인자 (DOI 10.1038/s41432-025-01114-x)
+- [[implants/survival/da-silva-2025-gingival-phenotype-implant-survival-sr]] — da Silva 2025 · sr · 8편: 얇은·두꺼운 phenotype 모두 5년 성공률 >91%; phenotype은 peri-implantitis/MBL 경유 간접 영향, 얇은 형이 골소실 주요 위험인자 (DOI 10.1038/s41432-025-01114-x)
 
 ## Batch ingest (added 2026-06-15) — veneers & ceramic bonding overviews
 
@@ -3556,7 +3556,7 @@ tags: []
 - [[post-and-core/fathi-2022-prosthetic-restoration-endodontically-treated-teeth-umbrella]] — Fathi 2022 · sr+ma(umbrella, 14 SR/MA·원저 118편·표본 10,971+, PMC 풀텍스트) · 근관치료치 보철수복 성공/생존: 단일크라운·엔도크라운 최우수(엔도크라운 5yr 성공 ~94%, 크라운 5yr 생존 ~98.3%); 저위험편향 리뷰에서 파이버포스트가 금속포스트보다 성공률↑(치근파절률은 유사) — 저위험편향 SR은 14편 중 9편뿐(41.5%) (DOI 10.1155/2022/4748291)
 
 ## 임플란트·약물 — 조기 임플란트 실패 (Early Implant Failure, 보철 로딩 전) surveillance batch (added 2026-06-22)
-- [[implants/yari-2023-risk-factors-early-implant-failure]] — Yari 2023 · retrospective(임플란트 1323개/환자 738명, 조기실패 53건) · 보철 로딩 전 조기 실패 다변량 위험인자: 즉시잠정보철 OR 3.42·후방상악 2.96·4형골 2.88·치주발치부위 2.53·증대부위 2.24·흡연 1.84 (abstract-only) (DOI 10.1016/j.jormas.2023.101749)
+- [[implants/survival/yari-2023-risk-factors-early-implant-failure]] — Yari 2023 · retrospective(임플란트 1323개/환자 738명, 조기실패 53건) · 보철 로딩 전 조기 실패 다변량 위험인자: 즉시잠정보철 OR 3.42·후방상악 2.96·4형골 2.88·치주발치부위 2.53·증대부위 2.24·흡연 1.84 (abstract-only) (DOI 10.1016/j.jormas.2023.101749)
 - [[implants/full-arch/uesugi-2024-risk-factors-early-failure-all-on-four]] — Uesugi 2024 · retrospective(환자 561명/임플란트 2364개, all-on-four 즉시로딩) · 1년 생존 상악 98.9% vs 하악 99.6%; 다변량 위험인자 상악 OR 3.12·흡연 2.92, 광기능화 OR 0.51(NS) (DOI 10.3390/bioengineering11030223)
 - [[drug/antibiotics/momand-2024-antibiotic-prophylaxis-early-implant-failure]] — Momand 2024 · sr+ma(위약대조 이중맹검 RCT 7편, 환자 1859명/임플란트 3014개) · 술전 항생제 예방이 조기 실패 못 줄임 RR 0.66(NS)·NNT 143·GRADE 중간 — 통상 예방 근거 부족 (DOI 10.1186/s12903-024-04611-0)
 - [[overviews/early-implant-failure-risk-prevention-overview]] — **NEW Overview**: 조기 임플란트 실패(보철 로딩 전) 위험인자·예방 종합 (7편). EIF는 골유착 *획득* 실패(후기 실패와 구분), 발생률 임플란트 단위 ≈1~4%. 결정인자는 숙주(흡연 OR 2.59·당뇨 RR 2.75·방사선 2.73)×골질/부위(후방상악·4형골·증대/부비동부위)×술식(즉시로딩 OR 3.42). 핵심 레버는 금연·부위/골질 인지 계획·보수적 로딩이며, 통상적 항생제 예방은 무효(NNT 143)·스튜어드십상 지양 (2026-06-22)
@@ -3623,7 +3623,7 @@ tags: []
 ### New batch — 2026-06-28 ingest (implants·immediate-implant·ISQ·surface·occlusion·zirconia)
 - [[implants/loading-protocol/esposito-2013-loading-times-dental-implants-cochrane]] — Cochrane SR+MA (26 RCTs, n=1217): no significant difference between immediate/early/conventional loading for implant survival; insertion torque ≥35 Ncm prerequisite; GRADE very low (Esposito 2013)
 - [[implants/chrcanovic-2014-flapless-vs-conventional-implant-surgery-ma]] — SR+MA (23 studies): flapless surgery RR 1.75 higher failure overall, but NS in low-risk-of-bias subgroup; no MBL or infection difference (Chrcanovic 2014)
-- [[implants/popelut-2010-sponsorship-implant-failure-rate-sr]] — SR (41 trials): industry-sponsored implant studies report ~5× lower annual failure rates (OR 0.21); 63% trials never disclosed funding (Popelut 2010)
+- [[implants/survival/popelut-2010-sponsorship-implant-failure-rate-sr]] — SR (41 trials): industry-sponsored implant studies report ~5× lower annual failure rates (OR 0.21); 63% trials never disclosed funding (Popelut 2010)
 - [[implants/short-narrow/barbosa-2021-narrow-implants-one-two-piece-fea]] — FEA: 2.5 mm extra-narrow one-piece implant exceeds Ti yield strength under angled loading; 3.0 mm one-piece and 3.5 mm Morse taper two-piece safe (Barbosa 2021)
 - [[implants/musskopf-2022-minipig-intraoral-implant-model-sr-ma]] — SR+MA (55 studies): minipig intraoral implant model; mean BIC 59.88%, time-dependent osseointegration benchmarks; reference for pre-clinical study design (Musskopf 2022)
 - [[implants/mohammed-2026-bite-force-implant-stability]] — Prospective cohort (n=80, 18mo): bite force and ISQ significantly associated under immediate loading; posterior > anterior, males > females (Mohammed 2026)
@@ -3779,11 +3779,11 @@ tags: []
 - [[bone-regeneration/ridge-preservation/fok-2024-alveolar-socket-healing-evolving-knowledge]] — 발치 후 치조와 치유 종합 리뷰 + overview-of-SR(11편, 전부 AMSTAR-2 critically low); 수평 감소 29-63% vs 수직 11-22%, ARP는 완화하되 완전차단은 못함 [sr]
 
 ### implants (일반)
-- [[implants/barboza-2026-bruxism-implant-failure-umbrella-review]] — 우산리뷰(8 SR, 5 MA): 이갈이는 임플란트 지지 보철 실패의 중요 위험 인자, 한 메타분석 OR 4.68 [sr+ma, abstract-only]
-- [[implants/giok-2026-factors-implant-failure-umbrella-review]] — 우산리뷰(메타분석 25편/35개 연관성): 흡연이 관찰연구 근거 중 유일하게 highly suggestive 등급 [sr+ma, abstract-only]
+- [[implants/survival/barboza-2026-bruxism-implant-failure-umbrella-review]] — 우산리뷰(8 SR, 5 MA): 이갈이는 임플란트 지지 보철 실패의 중요 위험 인자, 한 메타분석 OR 4.68 [sr+ma, abstract-only]
+- [[implants/survival/giok-2026-factors-implant-failure-umbrella-review]] — 우산리뷰(메타분석 25편/35개 연관성): 흡연이 관찰연구 근거 중 유일하게 highly suggestive 등급 [sr+ma, abstract-only]
 - [[implants/malak-2024-implant-failure-marginal-bone-loss]] — 우산리뷰(8편 SR+MA): 경사 임플란트 MBL이 3년(MD=0.08mm)·장기(MD=0.18mm) 유의하게 더 큼(단기는 NS), 실패위험 차이 없음(RR=1.02) [sr+ma, abstract-only]
 - [[implants/dambrosio-2026-clinical-risk-medico-legal-implications]] — 관골 임플란트(ZI) 합병증 umbrella review(SR 11편, 2016–2024): 생존율 90–100%로 높으나 부비동염(2.4–27.2%)이 최다 합병증; 의료법적 사전동의 강조 [sr]
-- [[implants/kate-2016-implant-failure-a-dentists-nightmare]] — 임플란트 실패 조기/후기 분류 종합(narrative review, 6개 기존 분류체계 통합); giok-2026 umbrella review로 정량 근거 partial superseded [narrative-review]
+- [[implants/survival/kate-2016-implant-failure-a-dentists-nightmare]] — 임플란트 실패 조기/후기 분류 종합(narrative review, 6개 기존 분류체계 통합); giok-2026 umbrella review로 정량 근거 partial superseded [narrative-review]
 - [[implants/pacheco-2025-dental-implant-survival-irradiated]] — Umbrella review(SR 11편, 임플란트 73,674개): 조사골 생존율 81.52% vs 비조사골 94.64%, 전체 SR AMSTAR2 critically low [sr+ma]
 - [[implants/loading-protocol/rismanchian-2025-immediate-nonimmediate-loading-umbrella-review]] — 즉시로딩 vs 비즉시로딩 단일임플란트 umbrella review (24 SR, n=8,063명/18,373임플란트): 생존율 유의차 없음, MBL도 유의차 없음 [sr+ma]
 - [[implants/kim-2026-long-term-outcomes-short-standard-implants]] — 후향적 코호트(임플란트 84개, 평균 추적 6.52년) short(6mm) vs standard(8.5mm) 임플란트 MBL 동등(0.05 vs 0.12mm, NS); 삽입 깊이가 MBL과 유의상관(r=0.372) [retrospective]
@@ -3793,13 +3793,13 @@ tags: []
 ## Batch ingest (added 2026-07-12) — PubMed "dental implant umbrella review" search 신규 14편 (검색 49건 중 23건 기존중복·12건 무관 제외)
 
 ### implants
-- [[implants/dambrosio-2023-systemic-diseases-medications-influence]] — D'Ambrosio 2023 · sr · 우산리뷰(SR 8편, 2017–2022): 항흡수제는 골유착 영향 없음(ONJ 주의), SSRI·PPI는 실패율 부정적 신호(각 ~7.5%, ~4.5%), 당뇨는 단기연구 상충 (DOI 10.3390/dj11060146)
-- [[implants/oliveira-neto-2018-risk-bias-systematic-reviews-smokers]] — Umbrella SR(J Prosthet Dent 2018, ROBIS 적용 6편 SR+MA): 흡연자 임플란트 관련 메타분석 중 1/6만 낮은 비뚤림 위험, 5/6은 불확실/높은 위험 [sr, abstract-only]
-- [[implants/meza-mauricio-2019-diabetes-implant-failure-peri-implant]] — 당뇨(DM)-임플란트 우산리뷰(SR 12편, AMSTAR2): 실패율 메타분석 3편 모두 DM 대 비DM 유의차 없음, 임플란트주위염 위험은 증가 경향 [sr, abstract-only]
+- [[implants/survival/dambrosio-2023-systemic-diseases-medications-influence]] — D'Ambrosio 2023 · sr · 우산리뷰(SR 8편, 2017–2022): 항흡수제는 골유착 영향 없음(ONJ 주의), SSRI·PPI는 실패율 부정적 신호(각 ~7.5%, ~4.5%), 당뇨는 단기연구 상충 (DOI 10.3390/dj11060146)
+- [[implants/survival/oliveira-neto-2018-risk-bias-systematic-reviews-smokers]] — Umbrella SR(J Prosthet Dent 2018, ROBIS 적용 6편 SR+MA): 흡연자 임플란트 관련 메타분석 중 1/6만 낮은 비뚤림 위험, 5/6은 불확실/높은 위험 [sr, abstract-only]
+- [[implants/survival/meza-mauricio-2019-diabetes-implant-failure-peri-implant]] — 당뇨(DM)-임플란트 우산리뷰(SR 12편, AMSTAR2): 실패율 메타분석 3편 모두 DM 대 비DM 유의차 없음, 임플란트주위염 위험은 증가 경향 [sr, abstract-only]
 - [[implants/banerjee-2024-success-rate-dental-implants-smokers]] — Umbrella review(Cureus 2024, PROSPERO, SR 17편/MA 10편): AMSTAR2 high quality 1/17뿐이나 15/17이 흡연→실패/MBL 유의 연관 보고, 용량-반응 확인(≥10개비/일) [sr+ma]
-- [[implants/barros-2021-sjogrens-syndrome-dental-implants]] — Sjögren 임플란트 우산리뷰(SR 4편/722 implants/189명): 성공률 95.22%이나 AMSTAR-2 3편 critically-low·1편 low quality [sr+ma, abstract-only]
+- [[implants/survival/barros-2021-sjogrens-syndrome-dental-implants]] — Sjögren 임플란트 우산리뷰(SR 4편/722 implants/189명): 성공률 95.22%이나 AMSTAR-2 3편 critically-low·1편 low quality [sr+ma, abstract-only]
 - [[implants/loading-protocol/heiderich-2020-methodological-quality-loading-time-implants]] — 다중 임플란트 로딩시기 SR 21편 방법론적 질·비뚤림위험 umbrella review(AMSTAR/ROBIS): 8편 high risk of bias, low-risk 12편만 봐도 로딩시기 간 유의차 없음 [sr]
-- [[implants/zarzar-2023-implants-radiotherapy-head-neck]] — Umbrella review(SR 15편, 임플란트 24,996개): 방사선치료군 성공률 86.2% vs 비치료군 95.2%, AMSTAR2 high quality 1/15편 (partially superseded by pacheco-2025) [sr]
+- [[implants/survival/zarzar-2023-implants-radiotherapy-head-neck]] — Umbrella review(SR 15편, 임플란트 24,996개): 방사선치료군 성공률 86.2% vs 비치료군 95.2%, AMSTAR2 high quality 1/15편 (partially superseded by pacheco-2025) [sr]
 - [[implants/full-arch/merli-2018-implant-prosthetic-rehabilitation-bone-atrophy]] — 우산리뷰(SR 12편, RCT 기반, ROBIS 저위험 8/12): 짧은 임플란트(≤8mm)는 골증대 동반 긴 임플란트 대비 합병증 뚜렷이 감소 [sr, abstract-only]
 
 ### implants/surface

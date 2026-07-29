@@ -83,4 +83,4 @@ The management half of the paper is the clinically actionable core — see Resul
 ## Related Papers
 
 - [[drug/systemic-disease/enteghad-2024-diabetes-mellitus-periodontal-periimplant-disease-review]] — companion systemic-disease axis (diabetes); both chronic conditions reshape periodontal/oral-disease risk and constrain dental treatment planning.
-- [[drug/systemic-disease/hamade-2024-hypertension-dental-implants-sr-ma]] — overlapping cardiovascular/hypertension management concern (BP monitoring, adrenaline in LA) in medically-compromised patients.
+- [[implants/survival/hamade-2024-hypertension-dental-implants-sr-ma]] — overlapping cardiovascular/hypertension management concern (BP monitoring, adrenaline in LA) in medically-compromised patients.

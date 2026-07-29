@@ -79,5 +79,5 @@ Retrospective case series; 39 patients (21F/18M, age 28–73) referred over 25 y
 
 - [[implants/an-2017-treatment-dental-implant-displacement-maxillary-sinus]] — extended-bony-window single-stage removal + graft + replacement; this series is the large all-Caldwell-Luc real-world counterpart.
 - [[implants/lee-2024-characteristics-impacts-implant-displacement-maxillary-sinus]] — quantifies sinus opacification/osteitis impact and prognosis; this paper maps the causes across implantation stages.
-- [[implants/shenoy-2025-dental-implant-failure-retrieval-techniques-scoping]] — broad implant failure + retrieval technique map.
-- [[implants/solderer-2019-removal-failed-dental-implants-revisited]] — general explantation technique selection (CTRT/trephine/piezo/laser).
+- [[implants/survival/shenoy-2025-dental-implant-failure-retrieval-techniques-scoping]] — broad implant failure + retrieval technique map.
+- [[implants/survival/solderer-2019-removal-failed-dental-implants-revisited]] — general explantation technique selection (CTRT/trephine/piezo/laser).

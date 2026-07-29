@@ -120,7 +120,7 @@ Clinical takeaway: for implant patients with bruxism, use splint as first-line p
 
 | Spine paper | Evidence | Key finding |
 |---|---|---|
-| [[implants/song-2021-implant-complications-bruxism-patients]] | narrative-review (JKAOMS editorial) | early/late 프레임: 이갈이는 골유착(early)이 아니라 late failure(픽스처·스크류·보철 파절, 심한 MBL, decementation) 구동; 식립 전 EMG·PSG 스크리닝 + 스플린트/BTX 권고 |
+| [[implants/survival/song-2021-implant-complications-bruxism-patients]] | narrative-review (JKAOMS editorial) | early/late 프레임: 이갈이는 골유착(early)이 아니라 late failure(픽스처·스크류·보철 파절, 심한 MBL, decementation) 구동; 식립 전 EMG·PSG 스크리닝 + 스플린트/BTX 권고 |
 | [[implants/stilwell-2024-occlusal-considerations-implant-maintenance]] | narrative-review (BDJ) | 임플란트 파절률 ~0.5%; **치주인대 없음 → 충격흡수·고유감각 결여**; 4단계 연간 교합 점검; 이갈이 보호장치 필수 |
 | [[implants/lee-2018-unilateral-mastication-bone-density-alveolus]] | (관찰) | 편측 저작·교합 부하가 치조골 밀도에 미치는 영향 |
 

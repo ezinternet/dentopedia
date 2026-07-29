@@ -94,9 +94,9 @@ Diabetic patient, considering immediate implant
 
 | Question | Paper | Confidence | Key number |
 |---|---|---|---|
-| Is DM a contraindication? / HbA1c bands | [[drug/systemic-disease/wagner-2022-diabetes-mellitus-dental-implants-sr]] | sr | <8% normal / 8–9% precautions / ≥9% defer |
-| Overall DM failure risk & site | [[drug/systemic-disease/al-ansari-2022-diabetes-mellitus-dental-implants-sr-ma]] | sr+ma | OR 1.777; maxilla only; MBL +0.776 mm |
-| Immediate *loading* in DM2 | [[drug/systemic-disease/andrade-2021-survival-rate-peri-implant-evaluation]] | sr+ma | RR 1.00 (uncontrolled 1.08); MBL MD −0.08 mm |
+| Is DM a contraindication? / HbA1c bands | [[implants/survival/wagner-2022-diabetes-mellitus-dental-implants-sr]] | sr | <8% normal / 8–9% precautions / ≥9% defer |
+| Overall DM failure risk & site | [[implants/survival/al-ansari-2022-diabetes-mellitus-dental-implants-sr-ma]] | sr+ma | OR 1.777; maxilla only; MBL +0.776 mm |
+| Immediate *loading* in DM2 | [[implants/survival/andrade-2021-survival-rate-peri-implant-evaluation]] | sr+ma | RR 1.00 (uncontrolled 1.08); MBL MD −0.08 mm |
 | Immediate *placement* technique (molar) | [[immediate-implant/molar-septum/ragucci-2020-immediate-implant-molar-extraction-sockets]] | sr+ma | survival ~97–98%; septum anchorage key |
 | IIP-specific DM outcomes, glycemic-control gradient | [[immediate-implant/li-2026-safety-feasibility-immediate-implant-diabetic]] | sr+ma | survival RR 1.00/0.96 (NS); MBL/BOP worsen with poor control |
 

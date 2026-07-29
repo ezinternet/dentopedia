@@ -74,4 +74,4 @@ The clinical bottom line: **vitamin D appears to positively influence osseointeg
 - [[implants/vitamin-d/werny-2022-vitamin-d-osseointegration-dental-implants-sr]] — extends; this umbrella aggregates Werny's SR (the largest, 18 primary studies) and exposes its selective reporting of Mangano/Salomó-Coll.
 - [[implants/vitamin-d/buzatu-2024-vitamin-d-osseointegration-human-studies-sr]] — reinforces; independent human-focused SR pointing to the same positive-but-uncertain conclusion.
 - [[implants/vitamin-d/miron-2025-vitamin-d-deficiency-early-implant-failure]] — reinforces; newer evidence on the deficiency → early-implant-failure link the umbrella flags as the key open question.
-- [[implants/aghaloo-2019-systemic-diseases-medications-implant-osseointegration-sr]] — anchor; broader systemic-factor framing for how host conditions modulate osseointegration.
+- [[implants/survival/aghaloo-2019-systemic-diseases-medications-implant-osseointegration-sr]] — anchor; broader systemic-factor framing for how host conditions modulate osseointegration.

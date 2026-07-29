@@ -71,4 +71,4 @@ This is a negative-result paper and functions as a counterweight to the more pos
 
 - [[implants/vitamin-d/mohsen-2024-vitamin-d-deficiency-osseointegration-prospective]] — **contradicts**: Mohsen's prospective study reports a positive vitamin D → osseointegration association; this cohort finds the opposite directionality (higher vitamin D in failures, no significant correlation).
 - [[implants/vitamin-d/miron-2025-vitamin-d-deficiency-early-implant-failure]] — sibling subdomain page on vitamin D deficiency and early failure; Francis tempers a one-directional reading of the deficiency-failure link.
-- [[implants/moy-2005-dental-implant-failure-rates-risk]] — foundational implant failure rates / risk-factor anchor; situates vitamin D among multiple competing failure risk factors.
+- [[implants/survival/moy-2005-dental-implant-failure-rates-risk]] — foundational implant failure rates / risk-factor anchor; situates vitamin D among multiple competing failure risk factors.

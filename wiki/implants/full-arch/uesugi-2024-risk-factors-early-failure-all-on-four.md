@@ -44,7 +44,7 @@ In full-arch immediate-loading rehabilitation by the all-on-four concept, early 
 ## Key Contributions
 
 - First clinical evaluation of **photofunctionalisation** specifically within all-on-four full-arch immediate loading; protective trend (OR 0.51) but underpowered/NS.
-- Confirms **maxilla** and **smoking** as early-failure drivers in the highest-risk loading scenario (immediate full-arch), echoing general-placement cohorts ([[implants/yari-2023-risk-factors-early-implant-failure]]).
+- Confirms **maxilla** and **smoking** as early-failure drivers in the highest-risk loading scenario (immediate full-arch), echoing general-placement cohorts ([[implants/survival/yari-2023-risk-factors-early-implant-failure]]).
 - Shows implant geometry (length/diameter/angulation) and insertion-torque band do **not** independently predict early failure here — reorienting attention to site (maxilla) and host (smoking).
 - Provides 1-year jaw-stratified survival benchmarks for all-on-four and contextualizes them against population data (Lin: early failures = 48.1% of all lost implants).
 
@@ -76,7 +76,7 @@ Multivariate logistic regression:
 
 ## Related Papers
 
-- [[implants/yari-2023-risk-factors-early-implant-failure]] — extends (general-placement cohort; this is the immediate-loading full-arch counterpart, confirming maxilla + smoking)
-- [[implants/fan-2024-smoking-early-implant-failure-sr-ma]] — reinforces (smoking → early failure; OR 2.92 here vs pooled OR 2.59)
-- [[implants/bonsmann-2025-risk-factors-early-implant-failure-sinus-nested]] — extends (risk-factor modeling in grafted/sinus context)
+- [[implants/survival/yari-2023-risk-factors-early-implant-failure]] — extends (general-placement cohort; this is the immediate-loading full-arch counterpart, confirming maxilla + smoking)
+- [[implants/survival/fan-2024-smoking-early-implant-failure-sr-ma]] — reinforces (smoking → early failure; OR 2.92 here vs pooled OR 2.59)
+- [[implants/survival/bonsmann-2025-risk-factors-early-implant-failure-sinus-nested]] — extends (risk-factor modeling in grafted/sinus context)
 - [[drug/antibiotics/momand-2024-antibiotic-prophylaxis-early-implant-failure]] — relates (intervention side of the same outcome)

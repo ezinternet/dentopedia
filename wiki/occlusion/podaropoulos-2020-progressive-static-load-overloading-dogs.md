@@ -66,5 +66,5 @@ Both loaded groups showed significantly higher BIC than unloaded controls. Howev
 
 - [[occlusion/podaropoulos-2016-bone-reactions-progressive-static-load-dogs]] — direct predecessor: same beagle model and first author, examines progressive loading alone (without subsequent overloading); 2020 paper is the overloading extension
 - [[occlusion/romanos-2003-bone-implant-interface-loading-conditions-monkey]] — primate histomorphometric evidence of loading effects on bone-implant interface under varying load conditions
-- [[implants/song-2021-implant-complications-bruxism-patients]] — human clinical analog: implant complications in bruxers representing the real-world overloading scenario that Podaropoulos 2020 models preclinically
+- [[implants/survival/song-2021-implant-complications-bruxism-patients]] — human clinical analog: implant complications in bruxers representing the real-world overloading scenario that Podaropoulos 2020 models preclinically
 - [[overviews/implant-occlusion-loading-biomechanics-overview]] — synthesis page contextualizing progressive and overload mechanics, BIC adaptation, and crestal bone loss

@@ -54,7 +54,7 @@ Clinical algorithm: LOW risk → standard placement ± CTG; MOD → CTG or xenog
 | implants/peri-implantitis/berglundh-2018-peri-implant-diseases-conditions-consensus | consensus | 2017 World Workshop case definition |
 | implants/peri-implantitis/herrera-2023-prevention-treatment-peri-implant-efp | consensus | EFP S3 guideline — 13 SR 기반 전주기 프로토콜 |
 | implants/peri-implantitis/carra-2023-primordial-primary-prevention-peri-implant-sr-ma | sr+ma | Primordial + primary prevention 효과 |
-| implants/caggiano-2022-smoking-cessation-periodontal-peri-implant-sr | sr | 금연이 peri-implant 결과 개선 |
+| implants/survival/caggiano-2022-smoking-cessation-periodontal-peri-implant-sr | sr | 금연이 peri-implant 결과 개선 |
 | immediate-implant/martins-2024-facial-bone-wall-immediate-implant-esthetic | sr | facial bone wall ↔ recession 직접 연결 |
 
 ---
@@ -251,7 +251,7 @@ Causal chain: Thin facial bone wall → 발치 후 bundle bone 흡수 → 협측
 - [[implants/peri-implantitis/berglundh-2018-peri-implant-diseases-conditions-consensus]]
 - [[implants/peri-implantitis/herrera-2023-prevention-treatment-peri-implant-efp]]
 - [[implants/peri-implantitis/carra-2023-primordial-primary-prevention-peri-implant-sr-ma]]
-- [[implants/caggiano-2022-smoking-cessation-periodontal-peri-implant-sr]]
+- [[implants/survival/caggiano-2022-smoking-cessation-periodontal-peri-implant-sr]]
 - [[immediate-implant/esthetic-soft-tissue/martins-2024-facial-bone-wall-immediate-implant-esthetic]]
 - [[overviews/type-1a-immediate-placement-immediate-loading-decision]] — Type 1A 적응증 (자매 페이지)
 - [[overviews/cosyn-immediate-implant-4-bundle-decision]] — 4변수 술식 의사결정 (자매 페이지)

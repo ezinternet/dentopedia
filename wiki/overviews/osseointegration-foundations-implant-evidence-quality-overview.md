@@ -104,7 +104,7 @@ The intentionally excluded papers matter too: `lee-2009` (short-implant marginal
 
 **Axis 2 — Evidence-quality**
 - [[implants/musskopf-2022-minipig-intraoral-implant-model-sr-ma]] — minipig BIC norms (59.88%), I²>90% heterogeneity, low reporting quality (upstream caution)
-- [[implants/popelut-2010-sponsorship-implant-failure-rate-sr]] — sponsorship bias OR 0.21 (~5× lower failure), 63% undisclosed funding (downstream caution)
+- [[implants/survival/popelut-2010-sponsorship-implant-failure-rate-sr]] — sponsorship bias OR 0.21 (~5× lower failure), 63% undisclosed funding (downstream caution)
 
 **Related overviews (세부 주제로 이동)**
 - [[overviews/bone-quality-implant-risk-modification-overview]] — bone quality as a risk axis

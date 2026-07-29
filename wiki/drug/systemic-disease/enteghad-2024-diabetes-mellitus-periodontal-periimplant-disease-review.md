@@ -47,5 +47,5 @@ Narrative review - 역학 근거 업데이트 + 병태생리 기전 기술. (정
 당뇨-치주/임플란트주위 질환 양방향·인과 시사 [미검증]. 중증도가 대사조절과 비례 [확인]. 조절 당뇨에서 임플란트 성공 가능.
 
 ## Related Papers
-- [[drug/systemic-disease/wagner-2022-diabetes-mellitus-dental-implants-sr]] — 당뇨-임플란트 생존 SR
+- [[implants/survival/wagner-2022-diabetes-mellitus-dental-implants-sr]] — 당뇨-임플란트 생존 SR
 - [[overviews/drug-systemic-disease-dental-management-overview]] — 전신질환 치과관리

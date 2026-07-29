@@ -61,4 +61,4 @@ For Korean implant practice: every implant case should screen for and address mo
 - [[implants/peri-implantitis/derks-2015-peri-implant-health-disease-epidemiology]] — epidemiology.
 - [[implants/peri-implantitis/galarraga-vinueza-2025-peri-implant-disease-risk-factors]] — risk factors SR+MA.
 - [[implants/peri-implantitis/berglundh-2018-peri-implant-diseases-conditions-consensus]] — case definitions.
-- [[implants/caggiano-2022-smoking-cessation-periodontal-peri-implant-sr]] — cessation specifically.
+- [[implants/survival/caggiano-2022-smoking-cessation-periodontal-peri-implant-sr]] — cessation specifically.

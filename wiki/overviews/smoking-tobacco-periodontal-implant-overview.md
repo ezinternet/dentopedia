@@ -182,12 +182,12 @@ E-cigarette / smoke-free tobacco user
 ## Related Pages
 
 - [[periodontics/apatzidou-2022-cigarette-smoking-periodontal-implant-review]] — mechanism: neutrophil function, MMP-8, microbial shifts, wound healing.
-- [[implants/mustapha-2022-smoking-dental-implants-sr-ma]] — failure + MBL, both outcomes significant.
-- [[implants/fan-2024-smoking-early-implant-failure-sr-ma]] — early failure OR 2.59 (32 studies).
-- [[implants/naseri-2020-smoking-levels-implant-failure-sr-ma]] — dose-response by cigarettes/day.
-- [[implants/caggiano-2022-smoking-cessation-periodontal-peri-implant-sr]] — cessation benefit, the failure-risk cluster's mirror study.
+- [[implants/survival/mustapha-2022-smoking-dental-implants-sr-ma]] — failure + MBL, both outcomes significant.
+- [[implants/survival/fan-2024-smoking-early-implant-failure-sr-ma]] — early failure OR 2.59 (32 studies).
+- [[implants/survival/naseri-2020-smoking-levels-implant-failure-sr-ma]] — dose-response by cigarettes/day.
+- [[implants/survival/caggiano-2022-smoking-cessation-periodontal-peri-implant-sr]] — cessation benefit, the failure-risk cluster's mirror study.
 - [[sinus-lift/lateral/wang-2023-smoking-schneiderian-membrane-perforation-sinus]] — sinus membrane perforation OR 1.58 (9 studies).
-- [[implants/calciolari-2026-tobacco-smoking-smoke-free-products]] — 신규 2026: broadest SR+MA (survival + CBL + peri-implantitis), smoke-free/e-cigarette evidence gap.
+- [[implants/survival/calciolari-2026-tobacco-smoking-smoke-free-products]] — 신규 2026: broadest SR+MA (survival + CBL + peri-implantitis), smoke-free/e-cigarette evidence gap.
 - [[periodontics/ye-2026-environmental-tobacco-smoke-periodontitis-nonsmokers]] — 신규 2026: passive ETS exposure in non-smokers, OR 1.47.
 - [[oral-microbiology/la-rosa-2026-electronic-cigarette-oral-microbiota]] — 신규 2026: e-cigarette oral microbiome, GRADE very low.
 - [[overviews/early-implant-failure-risk-prevention-overview]] — broader early-failure risk-factor context beyond smoking.

@@ -50,4 +50,4 @@ PRISMA, MEDLINE/Scopus/Cochrane(1985-2021). 정량 교합접촉/마모 보고 �
 ## Related Papers
 - [[overviews/bruxism-muscle-overload-axis]] — 임플란트 과부하 축
 - [[implants/stilwell-2024-occlusal-considerations-implant-maintenance]] — 교합점검 프로토콜
-- [[implants/song-2021-implant-complications-bruxism-patients]] — bruxism late failure
+- [[implants/survival/song-2021-implant-complications-bruxism-patients]] — bruxism late failure

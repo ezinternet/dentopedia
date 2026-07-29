@@ -55,6 +55,6 @@ For non-smoking patients reporting a smoking spouse/household member or workplac
 
 ## Related Papers
 - [[periodontics/apatzidou-2022-cigarette-smoking-periodontal-implant-review]] — active-smoking mechanism review; natural companion contrasting active vs passive exposure.
-- [[implants/naseri-2020-smoking-levels-implant-failure-sr-ma]] — dose-response in active smokers; ETS study could not resolve dose-response due to data limits.
-- [[implants/calciolari-2026-tobacco-smoking-smoke-free-products]] — 2026-wave companion paper on active smoking and implants; together map the tobacco-exposure spectrum (active cigarette / smoke-free / e-cigarette / passive ETS) across periodontal and implant outcomes.
+- [[implants/survival/naseri-2020-smoking-levels-implant-failure-sr-ma]] — dose-response in active smokers; ETS study could not resolve dose-response due to data limits.
+- [[implants/survival/calciolari-2026-tobacco-smoking-smoke-free-products]] — 2026-wave companion paper on active smoking and implants; together map the tobacco-exposure spectrum (active cigarette / smoke-free / e-cigarette / passive ETS) across periodontal and implant outcomes.
 - [[overviews/smoking-tobacco-periodontal-implant-overview]] — synthesis of the full smoking/tobacco-periodontal-implant evidence cluster.

@@ -69,6 +69,6 @@ PRISMA 2020-compliant SR+MA of non-RCT clinical studies (case-control, cross-sec
 ## Related Papers
 
 - [[oral-medicine/salivary-chemosensory/ramirez-martinez-acitores-2020-antihypertensive-xerostomia-salivary-flow-sr]] — applies-to: same cardiac-medication classes (antihypertensives), distinct oral adverse-effect pathway (hyposalivation) partially overlapping with this review's proposed ARB→periodontitis mechanism.
-- [[drug/systemic-disease/hamade-2024-hypertension-dental-implants-sr-ma]] — extends: hypertension's effect on dental-implant failure (null finding) is a related but distinct clinical endpoint from hypertension-medication's effect on native-tooth periodontal status (this paper).
+- [[implants/survival/hamade-2024-hypertension-dental-implants-sr-ma]] — extends: hypertension's effect on dental-implant failure (null finding) is a related but distinct clinical endpoint from hypertension-medication's effect on native-tooth periodontal status (this paper).
 - [[bone-regeneration/tale-2026-simvastatin-guided-bone-regeneration-sr]] — statin's bone-regenerative mechanism (relevant to this paper's discussion of statin osteogenic effects via BMP-2/VEGF), studied in a GBR rather than periodontal-status context.
 - [[geriatric-dentistry/halasabalu-kalgeri-2026-polypharmacy-oral-health-elderly]] — broader polypharmacy-and-oral-health context in which cardiac medications (including RAAS inhibitors and statins) are commonly co-prescribed.

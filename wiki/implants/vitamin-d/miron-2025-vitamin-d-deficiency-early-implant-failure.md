@@ -69,5 +69,5 @@ This systematic review (Periodontology 2000, Miron et al. 2025) examined the rel
 
 - [[implants/vitamin-d/werny-2022-vitamin-d-osseointegration-dental-implants-sr]] — earlier SR on vitamin D and osseointegration; this paper extends it with a larger, more recent evidence base.
 - [[implants/vitamin-d/tallon-2024-vitamin-d-osseointegration-umbrella-review]] — umbrella review in the same subdomain; sibling synthesis.
-- [[implants/moy-2005-dental-implant-failure-rates-risk]] — foundational implant failure risk-factor study; vitamin D deficiency adds a modifiable systemic risk factor.
-- [[implants/fan-2024-smoking-early-implant-failure-sr-ma]] — SR+MA on smoking and early implant failure; parallel modifiable-risk-factor evidence for EDIF.
+- [[implants/survival/moy-2005-dental-implant-failure-rates-risk]] — foundational implant failure risk-factor study; vitamin D deficiency adds a modifiable systemic risk factor.
+- [[implants/survival/fan-2024-smoking-early-implant-failure-sr-ma]] — SR+MA on smoking and early implant failure; parallel modifiable-risk-factor evidence for EDIF.

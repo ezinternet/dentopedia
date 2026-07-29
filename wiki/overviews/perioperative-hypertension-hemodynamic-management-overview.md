@@ -7,7 +7,7 @@ type: overview
 category: [overviews]
 tags: [hypertension, hemodynamics, blood-pressure, oral-surgery, tooth-extraction, ECG-monitoring, perioperative, implant]
 source_papers:
-  - wiki/drug/systemic-disease/hamade-2024-hypertension-dental-implants-sr-ma.md
+  - wiki/implants/survival/hamade-2024-hypertension-dental-implants-sr-ma.md
   - wiki/drug/systemic-disease/kumari-2025-hemodynamic-fluctuations-during-tooth-extraction.md
   - wiki/drug/systemic-disease/liu-2024-perioperative-hypertension-implant-bone-augmentation.md
   - wiki/drug/systemic-disease/perozo-2026-perioperative-hemodynamic-hypertensive-oral-surgery-protocol.md
@@ -177,5 +177,5 @@ The **risk-factor profile shifted by augmentation approach** (overall incidence 
 - [[drug/systemic-disease/yang-2025-tooth-extraction-hypertensive-ecg-monitoring]] — supplies the actionable preoperative SBP ≥159 mmHg cutoff (AUC 0.91), the intraoperative intervention trigger, the 37.2% transient-ECG-abnormality rate, and the distinct predictor sets for BP-intervention vs ECG-abnormality.
 - [[drug/systemic-disease/kumari-2025-hemodynamic-fluctuations-during-tooth-extraction]] — provides the normotensive reference curve (peak at extraction step, postop dip below baseline) against which the hypertensive response is framed; anxiolysis rationale.
 - [[drug/systemic-disease/liu-2024-perioperative-hypertension-implant-bone-augmentation]] — quantifies perioperative-hypertension incidence (26.77%) and risk factors (male, age ≥60, time >60 min) in implant + bone-augmentation surgery, with risk profile varying by GBR / transalveolar / lateral-window approach (abstract-only caveat).
-- [[drug/systemic-disease/hamade-2024-hypertension-dental-implants-sr-ma]] — the durable-outcome anchor: stable hypertension does NOT raise implant failure odds (OR 1.100, NS, 21,066 implants) — separates intraoperative safety from long-term prognosis.
+- [[implants/survival/hamade-2024-hypertension-dental-implants-sr-ma]] — the durable-outcome anchor: stable hypertension does NOT raise implant failure odds (OR 1.100, NS, 21,066 implants) — separates intraoperative safety from long-term prognosis.
 - [[overviews/drug-systemic-disease-dental-management-overview]] — parent overview on medically compromised dental patients; this page is the cardiovascular/hemodynamic spoke (hypertension intraoperative management).

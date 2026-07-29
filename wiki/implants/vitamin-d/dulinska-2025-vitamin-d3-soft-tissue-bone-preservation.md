@@ -68,4 +68,4 @@ This page is *abstract-only — full text not retrieved from PMC*; quantitative 
 - [[implants/vitamin-d/miron-2025-vitamin-d-deficiency-early-implant-failure]] — extends: companion human evidence linking deficiency to early failure / peri-implant bone preservation.
 - [[implants/vitamin-d/buzatu-2024-vitamin-d-osseointegration-human-studies-sr]] — reinforces: SR of human studies on vitamin D and osseointegration.
 - [[implants/vitamin-d/tallon-2024-vitamin-d-osseointegration-umbrella-review]] — umbrella review synthesizing the vitamin D / osseointegration evidence.
-- [[implants/moy-2005-dental-implant-failure-rates-risk]] — anchor: foundational implant failure-risk reference for systemic/local risk factors.
+- [[implants/survival/moy-2005-dental-implant-failure-rates-risk]] — anchor: foundational implant failure-risk reference for systemic/local risk factors.

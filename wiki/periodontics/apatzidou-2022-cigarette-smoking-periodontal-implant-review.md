@@ -54,12 +54,12 @@ Epidemiologic: periodontitis risk ~2-6x; peri-implantitis risk significantly ele
 - Source data heterogeneity inherent to reviews
 
 ## Related Papers
-- [[implants/fan-2024-smoking-early-implant-failure-sr-ma]] — clinical OR.
-- [[implants/naseri-2020-smoking-levels-implant-failure-sr-ma]] — dose-response.
-- [[implants/caggiano-2022-smoking-cessation-periodontal-peri-implant-sr]] — cessation effect.
+- [[implants/survival/fan-2024-smoking-early-implant-failure-sr-ma]] — clinical OR.
+- [[implants/survival/naseri-2020-smoking-levels-implant-failure-sr-ma]] — dose-response.
+- [[implants/survival/caggiano-2022-smoking-cessation-periodontal-peri-implant-sr]] — cessation effect.
 - [[implants/peri-implantitis/galarraga-vinueza-2025-peri-implant-disease-risk-factors]] — peri-implant disease risk.
 - [[implants/peri-implantitis/derks-2015-peri-implant-health-disease-epidemiology]] — epidemiology.
-- [[implants/calciolari-2026-tobacco-smoking-smoke-free-products]] — 2026 SR+MA quantifying survival/CBL/peri-implantitis, updates the clinical evidence this review's mechanisms explain.
+- [[implants/survival/calciolari-2026-tobacco-smoking-smoke-free-products]] — 2026 SR+MA quantifying survival/CBL/peri-implantitis, updates the clinical evidence this review's mechanisms explain.
 - [[periodontics/ye-2026-environmental-tobacco-smoke-periodontitis-nonsmokers]] — extends the mechanism to passive (ETS) exposure in non-smokers.
 - [[oral-microbiology/la-rosa-2026-electronic-cigarette-oral-microbiota]] — vaping-specific microbiome counterpart.
 - [[overviews/smoking-tobacco-periodontal-implant-overview]] — synthesis of the full smoking/tobacco-periodontal-implant evidence cluster.

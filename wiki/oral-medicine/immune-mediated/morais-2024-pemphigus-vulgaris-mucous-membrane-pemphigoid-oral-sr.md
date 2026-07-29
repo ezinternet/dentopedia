@@ -68,4 +68,4 @@ Clinically: because both PV and MMP often present first in the mouth, the dentis
 
 ## Related Papers
 
-- [[implants/esimekara-2022-dental-implants-autoimmune-diseases-sr]] — sibling autoimmune-disease systematic review; covers dental-implant survival/outcomes in patients with autoimmune diseases (PV/MMP among them), the surgical-rehabilitation counterpart to this diagnostic/management page.
+- [[implants/survival/esimekara-2022-dental-implants-autoimmune-diseases-sr]] — sibling autoimmune-disease systematic review; covers dental-implant survival/outcomes in patients with autoimmune diseases (PV/MMP among them), the surgical-rehabilitation counterpart to this diagnostic/management page.

@@ -73,6 +73,6 @@ Clinically: in xerostomic patients (구강건조증), anticipate higher preventi
 
 ## Related Papers
 
-- [[implants/almeida-2017-dental-implants-sjogren-syndrome-sr]] — reinforces: implant-specific SR confirming high Sjögren's implant survival; this review broadens that finding across all modalities and adds the radiation-induced caveat.
-- [[implants/esimekara-2022-dental-implants-autoimmune-diseases-sr]] — complementary: implant outcomes in autoimmune diseases (incl. Sjögren's), consistent with the high-survival autoimmune story here.
+- [[implants/survival/almeida-2017-dental-implants-sjogren-syndrome-sr]] — reinforces: implant-specific SR confirming high Sjögren's implant survival; this review broadens that finding across all modalities and adds the radiation-induced caveat.
+- [[implants/survival/esimekara-2022-dental-implants-autoimmune-diseases-sr]] — complementary: implant outcomes in autoimmune diseases (incl. Sjögren's), consistent with the high-survival autoimmune story here.
 - [[oral-medicine/salivary-chemosensory/sijan-gobeljic-2020-sjogren-chemosensory-oral-disorders-cross-sectional]] — applies-to: supplies the chemosensory (taste/smell/OHRQoL) symptom burden specific to the Sjögren's-etiology subgroup covered here, showing taste dysfunction correlates only weakly with salivary flow itself.

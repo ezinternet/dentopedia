@@ -277,7 +277,7 @@ The remaining studies below act at the restorative/soft-tissue level.
 | Periodontitis Stage 4 vs 2 | 26.31× MBL | retrospective | [[implants/peri-implantitis/basak-2024-restoration-margin-alveolar-bone-distance-implant]] |
 | Implant diameter (larger) | 6.10× MBL | retrospective | [[implants/peri-implantitis/basak-2024-restoration-margin-alveolar-bone-distance-implant]] |
 | Implant length (greater) | 5.02× MBL | retrospective | [[implants/peri-implantitis/basak-2024-restoration-margin-alveolar-bone-distance-implant]] |
-| Thin gingival phenotype | indirect ↑ bone-loss/peri-implantitis risk (survival >91% regardless) | SR, 8 studies | [[implants/da-silva-2025-gingival-phenotype-implant-survival-sr]] |
+| Thin gingival phenotype | indirect ↑ bone-loss/peri-implantitis risk (survival >91% regardless) | SR, 8 studies | [[implants/survival/da-silva-2025-gingival-phenotype-implant-survival-sr]] |
 
 ---
 
@@ -343,7 +343,7 @@ Screw vs cement retention choice: clinically neutral on MBL — decide on retrie
 - [[implants/peri-implantitis/lin-2025-influence-of-prosthetic-designs]] — prosthetic MBL levers SR+MA
 - [[implants/peri-implantitis/soulami-2022-implant-abutment-emergence-angle-peri-implantitis-sr]] — emergence angle >30° / convex profile → peri-implantitis (SR, 3 studies)
 - [[implants/peri-implantitis/basak-2024-restoration-margin-alveolar-bone-distance-implant]] — RM-AC ≤1.5 mm → 3.42× MBL; IDRA threshold validation (retrospective)
-- [[implants/da-silva-2025-gingival-phenotype-implant-survival-sr]] — thin gingival phenotype as indirect bone-loss risk factor (SR, 8 studies)
+- [[implants/survival/da-silva-2025-gingival-phenotype-implant-survival-sr]] — thin gingival phenotype as indirect bone-loss risk factor (SR, 8 studies)
 - [[implants/peri-implantitis/hakkers-2026-reconstructive-peri-implantitis-3wall-4wall-rct]] — RCT (n=52, 1yr): reconstruction superior MBL (β=−1.65 mm) and recession (β=−1.68 mm); disease resolution equal (44% both); 3-wall defects benefit earlier; radiographic-clinical paradox documented; higher adverse events
 - [[implants/peri-implantitis/ramanauskaite-2023-guided-bone-regeneration-periimplantitis-defects-nma]] — GBR NMA
 - [[implants/peri-implantitis/monje-2025-surface-decontamination-reconstructive-peri-implantitis]] — Monje 2025 multicenter RCT: electrolytic vs H₂O₂ decontamination, no superiority

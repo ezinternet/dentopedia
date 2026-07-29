@@ -56,11 +56,11 @@ Umbrella review of 5 systematic reviews/meta-analyses (from 501 records → 119 
 
 ## Limitations
 - Umbrella-of-umbrella design pools SR-level narrative conclusions rather than re-analyzing primary data; inherits substantial heterogeneity (device types, e-liquid composition, follow-up duration, outcome definitions).
-- Search cutoff December 2022 predates larger, more recent quantitative SR+MAs (e.g., [[implants/calciolari-2026-tobacco-smoking-smoke-free-products]]) that directly assess implant survival/CBL and still find e-cigarette data insufficient to pool.
+- Search cutoff December 2022 predates larger, more recent quantitative SR+MAs (e.g., [[implants/survival/calciolari-2026-tobacco-smoking-smoke-free-products]]) that directly assess implant survival/CBL and still find e-cigarette data insufficient to pool.
 - Most underlying primary studies are periodontal- rather than peri-implant-specific; peri-implantitis conclusions are partly extrapolated/hypothetical in the source SRs.
 - Self-reported vaping status and predominantly cross-sectional primary-study designs limit causal inference.
 
 ## Related Papers
-- [[implants/calciolari-2026-tobacco-smoking-smoke-free-products]] — 2026 SR+MA quantifying smoking's implant survival/CBL/peri-implantitis effects; independently confirms e-cigarette/smoke-free implant outcome data remains insufficient to pool, consistent with this earlier umbrella review's qualitative gap.
+- [[implants/survival/calciolari-2026-tobacco-smoking-smoke-free-products]] — 2026 SR+MA quantifying smoking's implant survival/CBL/peri-implantitis effects; independently confirms e-cigarette/smoke-free implant outcome data remains insufficient to pool, consistent with this earlier umbrella review's qualitative gap.
 - [[oral-microbiology/la-rosa-2026-electronic-cigarette-oral-microbiota]] — 2026 SR on e-cigarette oral microbiome; different outcome domain but converges on "vaping is not clinically/microbiologically neutral."
 - [[overviews/smoking-tobacco-periodontal-implant-overview]] — synthesis of the broader smoking/tobacco-periodontal-implant evidence cluster.
