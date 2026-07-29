@@ -372,6 +372,9 @@ NRS (Numeric Rating Scale)를 outcome으로.
 - [[local-anesthesia/karm-2023-clinical-practice-guidelines-diagnostic-procedural-sedation]] — 2022 한국 진정 가이드 15 PICO 해설 (consensus)
 - [[local-anesthesia/hwang-2023-proposal-clinical-guidelines-local-anesthesia-dentistry]] — 한국 치과 국소마취 표준 가이드 부재 지적 proposal
 
+### 임신
+- [[oral-medicine/acog-2013-oral-health-care-during-pregnancy]] — ACOG Committee Opinion No. 569 (2013): 임신 전 기간에 걸쳐 방사선·국소마취·대부분의 약물 포함 치과치료 안전 승인; 치주치료는 조산(Preterm Birth) 감소 없음; 미치료 구강질환이 치과치료보다 위험 — 임신 중 치과치료 망설임에 대한 근거 기반 가이드라인
+
 ### 종양·이식
 - [[drug/systemic-disease/batlle-2021-oral-complaints-aml-stem-cell-transplant]] — allo-HSCT AML 구강 합병증
 
