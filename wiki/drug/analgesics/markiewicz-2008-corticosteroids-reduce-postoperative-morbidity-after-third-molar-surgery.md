@@ -17,6 +17,7 @@ relations:
     target: satpathi-2024-corticosteroids-dentistry-review
   - type: contradicts
     target: tamgadge-2025-preoperative-dexamethasone-third-molar-pain-swelling-trismus
+synthesized_in: overviews/drug-analgesics-postop-pain-overview
 ---
 
 abstract-only — publisher landing/abstract page, full text not retrieved
