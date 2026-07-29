@@ -18,6 +18,7 @@ tags: [prednisolone, corticosteroid, third-molar, postoperative-sequelae, tapere
 relations:
   - type: extends
     target: tamgadge-2025-preoperative-dexamethasone-third-molar-pain-swelling-trismus
+synthesized_in: overviews/drug-analgesics-postop-pain-overview
 ---
 
 ## Three-line Summary
