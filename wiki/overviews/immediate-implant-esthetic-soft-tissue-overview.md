@@ -209,3 +209,5 @@ Assess buccal wall + biotype + infection + gap **before** committing.
 - [[overviews/implant-placement-timing-immediate-early-delayed]] — timing synthesis (immediate vs early vs delayed).
 - [[immediate-implant/esthetic-soft-tissue/buser-2017-implant-placement-timing-post-extraction-esthetic]] — risk-factor and timing anchor.
 - [[immediate-implant/esthetic-soft-tissue/cosyn-2026-buccal-dehiscence-morphotype-regenerative-strategy-iip]] — dehiscence morphotype → regenerative strategy.
+- [[immediate-implant/gap-grafting/el-ebiary-2023-guided-immediate-implant-mixture-autogenous]] — RCT (n=24, esthetic zone, computer-guided, digital immediate provisionalization): grafting the 2–3 mm jumping gap with autogenous:xenograft 1:1 mixture vs no graft; PES significantly higher in grafted group at 6 months (13 vs 11.5, p=0.048)
+- [[immediate-implant/socket-shield/venkatraman-2023-comparison-soft-tissue-volumetric]] — RCT (n=22, maxillary incisor, immediate loading): socket shield technique (SST) vs conventional; buccal soft-tissue volumetric change by digital cast superimposition + PES over 12 months

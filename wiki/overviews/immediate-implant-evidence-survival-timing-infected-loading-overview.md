@@ -125,6 +125,16 @@ Narrative synthesis (no new pooling; heterogeneous designs). Base: 3 SR+MA (Garc
 - [[immediate-implant/root-analog/aldebes-2022-restoration-material-marginal-bone-resorption]] — RCT: crown material does not affect marginal bone resorption
 - [[immediate-implant/infected-socket/espada-salgado-2026-immediate-implant-infected-socket-scoping-review]] — infected-socket IIP: heterogeneous, non-comparative, no standardized protocol
 - [[immediate-implant/infected-socket/zhang-2024-immediate-implant-chronic-apical-infected-posterior]] — 5-yr 97.6% survival in chronic apically infected posterior sockets
+- [[implants/gallucci-2026-current-state-of-evidence-for]] — updated PROSPERO SR (140 studies, 10,456 implants, search to Jan 2024): weighted cumulative survival across all 9 placement×loading combinations in partially edentulous patients — most comprehensive contemporary evidence map for Type 1–4 × A–C protocol matrix
+- [[implants/loading-protocol/gallucci-2018-implant-placement-loading-protocols-partially]] — SR (69 publications, 5,248 titles screened): establishes the 9 placement×loading combination framework; comparative data from 15 RCTs + 7 CCTs; foundational taxonomy for protocol classification
+- [[immediate-implant/loading-protocol/shibly-2010-immediate-implants-immediate-loading-conventional]] — RCT (n=60, periodontally compromised): immediate loading vs conventional 3-month delayed loading of immediate implants; 1-year outcomes
+- [[immediate-implant/loading-protocol/shibly-2010-bone-regeneration-around-implants-in]] — 2-yr RCT (n=60, periodontally compromised): all immediate implants received allograft + collagen barrier membrane; bone regeneration outcomes at immediate vs conventional loading
+- [[immediate-implant/loading-protocol/huynh-ba-2018-immediate-loading-vs-early-conventional]] — SR (PROSPERO #49604, 9 studies) on PROMs comparing immediate vs early/conventional loading of Type 1 single-tooth implants; no meta-analysis due to instrument heterogeneity
+- [[immediate-implant/gotfredsen-2021-patient-perception-timing-concepts-implant]] — SR (35–40 RCTs/prospective): patient perception (discomfort, satisfaction, esthetics) of immediate vs early vs conventional placement and loading — PROM synthesis across all timing combinations
+- [[immediate-implant/puisys-2022-immediate-implant-placement-vs-early]] — RCT (n=50, maxillary anterior esthetic zone, intact walls): immediate placement + immediate provisioning vs early placement + GBR + delayed loading; 1-year outcomes
+- [[immediate-implant/felice-2016-immediate-immediate-delayed-post-extractive]] — 3-arm RCT (n=210): immediate / immediate-delayed (6 weeks) / delayed (4 months) single post-extraction sites; 4-month post-loading report
+- [[immediate-implant/esposito-2017-immediate-immediate-delayed-post-extractive]] — 3-arm RCT (n=210, same cohort as felice-2016): 1-year post-loading follow-up; survival and complication data at extended timepoint
+- [[immediate-implant/checchi-2017-wide-diameter-immediate-post-extractive]] — RCT (n=100, molar sites): wide-diameter (6–8 mm) immediate placement vs ARP + delayed conventional-diameter implants; 1-year post-loading
 
 ## Related Overviews
 
