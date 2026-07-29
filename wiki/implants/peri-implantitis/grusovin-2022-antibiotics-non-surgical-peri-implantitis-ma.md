@@ -5,7 +5,7 @@ year: 2022
 date: 2022-12-07
 doi: 10.3390/antibiotics11121766
 source: grusovin-2022-antibiotics-non-surgical-peri-implantitis-ma.md
-category: [periodontics]
+category: [implants/peri-implantitis]
 evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/grusovin-2022-antibiotics-non-surgical-peri-implantitis-ma.pdf
 pdf_filename: grusovin-2022-antibiotics-non-surgical-peri-implantitis-ma.pdf
@@ -46,5 +46,5 @@ Only 6 RCTs eligible. Heterogeneous antibiotic regimens and debridement protocol
 
 ## Related Papers
 - [[implants/peri-implantitis/hong-2024-peri-implantitis-treatment-protocol-flowchart]]
-- [[periodontics/kim-2024-peri-implant-diseases-consensus-korean-academy-periodontology]]
-- [[periodontics/kim-2025-management-peri-implantitis-perspectives]]
+- [[implants/peri-implantitis/kim-2024-peri-implant-diseases-consensus-korean-academy-periodontology]]
+- [[implants/peri-implantitis/kim-2025-management-peri-implantitis-perspectives]]

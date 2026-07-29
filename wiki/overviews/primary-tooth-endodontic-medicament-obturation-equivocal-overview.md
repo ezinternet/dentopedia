@@ -58,7 +58,7 @@ Three papers converge on a unified picture of primary tooth root canal managemen
 
 ## Axis 1 — Intracanal Medicament: CHX vs RG-Dent vs Ca(OH)₂
 
-Source: [[endodontics/hasan-2026-rgdent-chx-caoh2-efaecalis-invitro]] (in-vitro, n=60 premolars, 21-day E. faecalis infection model)
+Source: [[endodontics/irrigation/hasan-2026-rgdent-chx-caoh2-efaecalis-invitro]] (in-vitro, n=60 premolars, 21-day E. faecalis infection model)
 
 ### Background
 
@@ -194,7 +194,7 @@ The practical clinical flow: meet the patient → [[overviews/primary-molar-cari
 
 ## Related Papers
 
-- [[endodontics/hasan-2026-rgdent-chx-caoh2-efaecalis-invitro]] — Axis 1 source: in-vitro E. faecalis comparative medicament study (CHX vs RG-Dent vs Ca(OH)₂, 2-day vs 7-day dwell)
+- [[endodontics/irrigation/hasan-2026-rgdent-chx-caoh2-efaecalis-invitro]] — Axis 1 source: in-vitro E. faecalis comparative medicament study (CHX vs RG-Dent vs Ca(OH)₂, 2-day vs 7-day dwell)
 - [[endodontics/obturation/najjar-2019-caoh2-iodoform-vitapex-vs-zoe-pulpectomy-sr-ma]] — Axis 2 source: SR+MA of Vitapex/Metapex vs ZOE for primary pulpectomy (15 studies, 1,669 teeth)
 - [[endodontics/vpt/xiao-2026-pulpotomy-vs-pulpectomy-equivocal-primary-molars]] — Axis 3 source: propensity-matched cohort of pulpotomy vs pulpectomy for equivocal pulp status (312 molars, 156 pairs)
 - [[overviews/primary-molar-caries-pulp-restoration-decision-tree]] — companion overview covering upstream caries management, Hall technique, and reversible pulpitis pulpotomy decisions

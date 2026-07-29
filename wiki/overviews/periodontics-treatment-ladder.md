@@ -122,8 +122,8 @@ SRP 강한 권고; 전신 독시사이클린 추가 PPD 이득 0.2–0.4 mm(소)
 |---|---|---|
 | [[periodontics/host-modulation/stavropoulos-2021-periodontal-regeneration-intrabony-nma]] | sr+ma (NMA, 30 RCT, 3-20y) | 골내결손 재생 — GTR+이식재·EMD+이식재가 OFD 우위. 병용 > 단독 |
 | [[periodontics/nibali-2016-tooth-loss-furcation-involvement-sr-ma]] | sr+ma (21편) | 치근분지부 침범 — SPT 10-15y 발치 위험 2.21배. 3도 포함 대부분 보존 가능 |
-| [[periodontics/roccuzzo-2022-implants-periodontitis-history-20year-prospective]] | prospective (20y) | 치주염력 임플란트 생존 81% vs 비병력 91%. SPT 순응도 결정적 |
-| [[periodontics/marty-2024-implant-treated-periodontitis-sr-ma]] | sr+ma (10편) | 치주염력 환자 — peri-implantitis 위험 ~4.8배 |
+| [[implants/survival/roccuzzo-2022-implants-periodontitis-history-20year-prospective]] | prospective (20y) | 치주염력 임플란트 생존 81% vs 비병력 91%. SPT 순응도 결정적 |
+| [[implants/survival/marty-2024-implant-treated-periodontitis-sr-ma]] | sr+ma (10편) | 치주염력 환자 — peri-implantitis 위험 ~4.8배 |
 | [[periodontics/blyleven-2024-periodontal-implant-surgery-complications]] | retrospective (1135건) | 치주·임플란트 외과 합병증 — 술중 2.8%, 술후 15.2%. Lateral SES가 가장 강력한 예측인자 |
 | [[periodontics/lee-2017-oxysterol-periodontal-regeneration-pdlsc-alveolar-bone]] | animal + in-vitro | 오옥시스테롤(SS) → PDLSC 골분화 (LXR↔Hh) + rat 발치와 골재생 ≈ rhBMP-2 (μCT NS) |
 | [[periodontics/liu-2019-periodontal-bone-ligament-cementum-regeneration]] | sr (전임상) | 뼈-PDL-백악질 *동시* 재생 — 줄기세포+지지체, 내인성 세포유도(SDF-1α/BMP7), 유전자치료(Ad-PDGF-B), LBL 구조물; 배향성 Sharpey 섬유 생성이 핵심 난제 (PCL/PGA 섬유유도 3D 프린팅) |
@@ -257,8 +257,8 @@ SRP 강한 권고; 전신 독시사이클린 추가 PPD 이득 0.2–0.4 mm(소)
 | Spine paper | Evidence | Key finding |
 |---|---|---|
 | [[kim-2024-peri-implant-diseases-consensus-korean-academy-periodontology]] | consensus (KDA) | KDA peri-implant disease 합의안. Mucositis 43%, peri-implantitis 22% |
-| [[periodontics/kim-2025-management-peri-implantitis-perspectives]] | narrative-review | 2017 World Workshop + 2024 KDA 합의 기반 분류·치료 종설 |
-| [[periodontics/grusovin-2022-antibiotics-non-surgical-peri-implantitis-ma]] | sr+ma (6 RCT) | 비외과 peri-implantitis 항생제 adjunct — 국소 PPD −0.6 mm, BOP −0.15, 전신 PPD −1.15 mm |
+| [[implants/peri-implantitis/kim-2025-management-peri-implantitis-perspectives]] | narrative-review | 2017 World Workshop + 2024 KDA 합의 기반 분류·치료 종설 |
+| [[implants/peri-implantitis/grusovin-2022-antibiotics-non-surgical-peri-implantitis-ma]] | sr+ma (6 RCT) | 비외과 peri-implantitis 항생제 adjunct — 국소 PPD −0.6 mm, BOP −0.15, 전신 PPD −1.15 mm |
 
 **임상 ladder** — [[overviews/implants-clinical-decision-ladder]] 축 4 참조 (peri-implantitis 처치는 implants overview에서 단일하게 다룸).
 
@@ -335,7 +335,7 @@ SRP 강한 권고; 전신 독시사이클린 추가 PPD 이득 0.2–0.4 mm(소)
 - [[periodontics/non-surgical-instrumentation/ramanauskaite-2020-antiseptics-adjuncts-scaling-root-planing]] — Systematic review + meta-analysis (12 RCTs, follow-up ≥6 mo) finding that sustained-release subgingival antiseptics (gels/chips/varnish) as adjuncts t … (sr+ma, 2020)
 - [[periodontics/simpson-2022-treatment-periodontitis-glycaemic-control-people]] — Cochrane SR+MA (35 RCTs, 3249 randomised participants, mostly type 2 diabetes): periodontal treatment by subgingival instrumentation produced a modera … (sr+ma, 2022)
 - [[periodontics/stahli-2024-clinical-evaluation-novel-protocol-supportive]] — RCT (n=41 SPC patients, 1-year) comparing guided biofilm management (erythritol air-polishing + ultrasonic … (rct, 2024)
-- [[periodontics/wang-2025-ao-aap-consensus-peri-implant-diseases-conditions]] — AO/AAP 2024 international consensus (Oak Brook, Illinois) synthesizing 8 systematic reviews into unified evidence-based recommendations for peri-impla … (consensus, 2025)
+- [[implants/peri-implantitis/wang-2025-ao-aap-consensus-peri-implant-diseases-conditions]] — AO/AAP 2024 international consensus (Oak Brook, Illinois) synthesizing 8 systematic reviews into unified evidence-based recommendations for peri-impla … (consensus, 2025)
 
 ### spine (본문 인용)
 
@@ -347,15 +347,15 @@ SRP 강한 권고; 전신 독시사이클린 추가 PPD 이득 0.2–0.4 mm(소)
 - [[periodontics/meng-2024-nspt-cardiovascular-risk-markers-sr-ma]]
 - [[periodontics/host-modulation/stavropoulos-2021-periodontal-regeneration-intrabony-nma]]
 - [[periodontics/nibali-2016-tooth-loss-furcation-involvement-sr-ma]]
-- [[periodontics/roccuzzo-2022-implants-periodontitis-history-20year-prospective]]
-- [[periodontics/marty-2024-implant-treated-periodontitis-sr-ma]]
+- [[implants/survival/roccuzzo-2022-implants-periodontitis-history-20year-prospective]]
+- [[implants/survival/marty-2024-implant-treated-periodontitis-sr-ma]]
 - [[periodontics/blyleven-2024-periodontal-implant-surgery-complications]]
 - [[periodontics/manresa-2018-supportive-periodontal-therapy-cochrane-sr]]
 - [[periodontics/farooqi-2015-periodontal-maintenance-recall-interval-sr]]
 - [[periodontics/jung-2019-periodontitis-spt-disease-progression-sr]]
-- [[periodontics/kim-2024-peri-implant-diseases-consensus-korean-academy-periodontology]] — KAP consensus (한국치주과학회): peri-implantitis 정의·진단·치료 단계 통합
-- [[periodontics/kim-2025-management-peri-implantitis-perspectives]]
-- [[periodontics/grusovin-2022-antibiotics-non-surgical-peri-implantitis-ma]]
+- [[implants/peri-implantitis/kim-2024-peri-implant-diseases-consensus-korean-academy-periodontology]] — KAP consensus (한국치주과학회): peri-implantitis 정의·진단·치료 단계 통합
+- [[implants/peri-implantitis/kim-2025-management-peri-implantitis-perspectives]]
+- [[implants/peri-implantitis/grusovin-2022-antibiotics-non-surgical-peri-implantitis-ma]]
 - [[periodontics/oral-hygiene-instruction/jo-2008-management-of-dental-biofilm-through]]
 - [[periodontics/non-surgical-instrumentation/unknown-2009-non-surgical-and-surgical-periodontal]]
 - [[periodontics/apatzidou-2022-cigarette-smoking-periodontal-implant-review]]

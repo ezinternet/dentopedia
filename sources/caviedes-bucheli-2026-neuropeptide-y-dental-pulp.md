@@ -10,7 +10,7 @@ source_collection: external
 ---
 
 ## Why Ingested
-PRISMA-guided systematic review (92 studies) establishing NPY as the primary counter-regulatory neuropeptide in dental pulp, directly extending [[endodontics/caviedes-bucheli-2008-neuropeptides-dental-pulp-silent]] with receptor-level mechanistic detail (Y1/Y2 Gi/Go signalling) and stage-dependent caries expression data unavailable in the 2008 narrative review.
+PRISMA-guided systematic review (92 studies) establishing NPY as the primary counter-regulatory neuropeptide in dental pulp, directly extending [[endodontics/anatomy/caviedes-bucheli-2008-neuropeptides-dental-pulp-silent]] with receptor-level mechanistic detail (Y1/Y2 Gi/Go signalling) and stage-dependent caries expression data unavailable in the 2008 narrative review.
 
 ## Three-line Summary
 PRISMA-guided narrative synthesis of 92 studies on NPY biology in dental pulp, spanning in vitro, in vivo (rat/cat), ex vivo human tissue, and clinical observations from inception to February 2026.
@@ -79,7 +79,7 @@ NPY는 교감 혈관주위 신경섬유에서 분비되어 Gi/Go 결합 Y1/Y2 �
 5. **Functional causality unproven**: NPY quantification (picomolar range) is technically challenging; real-time dynamics during procedures remain unstudied
 
 ## 6. Related Work
-- [[endodontics/caviedes-bucheli-2008-neuropeptides-dental-pulp-silent]] — same group's 2008 foundational narrative review on all pulp neuropeptides (SP/CGRP/NPY/VIP); the 2026 paper extends with Y1/Y2 receptor pharmacology and caries-stage data
+- [[endodontics/anatomy/caviedes-bucheli-2008-neuropeptides-dental-pulp-silent]] — same group's 2008 foundational narrative review on all pulp neuropeptides (SP/CGRP/NPY/VIP); the 2026 paper extends with Y1/Y2 receptor pharmacology and caries-stage data
 - Caviedes-Bucheli & Munoz 2025 (cited repeatedly) — authors' recent companion review on pulpal autonomic innervation framework
 
 ## 7. Glossary

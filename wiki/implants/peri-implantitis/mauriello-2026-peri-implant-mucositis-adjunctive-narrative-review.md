@@ -53,6 +53,6 @@ Narrative review of nine RCTs (414 patients) testing chemical and pharmaceutical
 - Recommends standardized RCTs with longer follow-up and unified outcomes
 
 ## Related Papers
-- [[periodontics/grusovin-2022-antibiotics-non-surgical-peri-implantitis-ma]] — antibiotics MA for peri-implantitis
-- [[periodontics/kim-2024-peri-implant-diseases-consensus-korean-academy-periodontology]] — Korean consensus on peri-implant diseases
-- [[periodontics/kim-2025-management-peri-implantitis-perspectives]] — peri-implantitis management perspectives
+- [[implants/peri-implantitis/grusovin-2022-antibiotics-non-surgical-peri-implantitis-ma]] — antibiotics MA for peri-implantitis
+- [[implants/peri-implantitis/kim-2024-peri-implant-diseases-consensus-korean-academy-periodontology]] — Korean consensus on peri-implant diseases
+- [[implants/peri-implantitis/kim-2025-management-peri-implantitis-perspectives]] — peri-implantitis management perspectives

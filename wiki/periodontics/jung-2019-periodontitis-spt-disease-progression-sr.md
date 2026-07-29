@@ -59,4 +59,4 @@ Sites with CAL loss ≥2 mm: 3–20% (across studies)
 ## Related Papers
 - [[periodontics/farooqi-2015-periodontal-maintenance-recall-interval-sr]] — SPT recall interval: 3–6 months favored for tooth retention
 - [[periodontics/non-surgical-instrumentation/meseli-2016-probing-depth-srp-response-periodontitis]] — SRP response by IPD (baseline treatment outcomes)
-- [[periodontics/marty-2024-implant-treated-periodontitis-sr-ma]] — consequences of periodontitis for implant health
+- [[implants/survival/marty-2024-implant-treated-periodontitis-sr-ma]] — consequences of periodontitis for implant health

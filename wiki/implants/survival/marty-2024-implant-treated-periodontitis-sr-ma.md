@@ -5,7 +5,7 @@ year: 2024
 date: 2024-07-29
 doi: 10.3390/dj12080240
 source: marty-2024-implant-treated-periodontitis-sr-ma.md
-category: [periodontics]
+category: [implants/survival]
 evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/marty-2024-implant-treated-periodontitis-sr-ma.pdf
 pdf_filename: marty-2024-implant-treated-periodontitis-sr-ma.pdf

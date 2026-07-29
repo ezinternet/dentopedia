@@ -78,6 +78,6 @@ In vitro factorial study (Materials MDPI 2021) on zirconia crown retention with 
 - No comparison with tribochemical silica coating + silane (CoJet) alternative
 
 ## Related Papers
-- [[prosthetic-materials/alqarawi-2024-digital-taper-finish-line-temporary-crown-retention]] — provisional crown retention (digital workflow)
+- [[prosthetic-materials/tooth-preparation/alqarawi-2024-digital-taper-finish-line-temporary-crown-retention]] — provisional crown retention (digital workflow)
 - [[prosthetic-materials/tooth-preparation/vinnakota-2015-convergence-retention-multiple-unit-invitro]] — definitive crown retention, geometric
 - [[prosthetic-materials/manziuc-2023-zls-ceramic-digital-dentistry-review]] — ZLS ceramic context

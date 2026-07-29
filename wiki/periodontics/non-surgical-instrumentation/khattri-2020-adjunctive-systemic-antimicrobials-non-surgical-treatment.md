@@ -66,4 +66,4 @@ All estimates **very low certainty**. Selected long-term (≥1 yr) findings:
 ## Related Papers
 
 - [[periodontics/sanz-2020-treatment-stage-i-iii-periodontitis-efp]] — reinforces: this SR is part of the evidence base behind the EFP S3 guideline's cautious stance on routine adjunctive systemic antibiotics.
-- [[periodontics/grusovin-2022-antibiotics-non-surgical-peri-implantitis-ma]] — contrasts: parallel weak/very-low-certainty evidence for antibiotic adjuncts in a different setting (non-surgical peri-implantitis).
+- [[implants/peri-implantitis/grusovin-2022-antibiotics-non-surgical-peri-implantitis-ma]] — contrasts: parallel weak/very-low-certainty evidence for antibiotic adjuncts in a different setting (non-surgical peri-implantitis).

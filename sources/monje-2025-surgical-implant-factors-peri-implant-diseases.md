@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-이 SR은 2024년 8월 AO/AAP Consensus Conference(Oakbrook, IL)를 위해 위촉된 8편의 사전위촉 SR 중 하나로, 이미 위키에 있는 상위 합의문 [[periodontics/wang-2025-ao-aap-consensus-peri-implant-diseases-conditions]]가 인용하는 "수술적·임플란트 관련 위험요인" 근거 원본이다. 합의문의 요약 서술(implant malposition, unfavorable prosthetics 등)을 실제 OR/HR 수치와 개별 연구 단위로 뒷받침하기 위해 ingest.
+이 SR은 2024년 8월 AO/AAP Consensus Conference(Oakbrook, IL)를 위해 위촉된 8편의 사전위촉 SR 중 하나로, 이미 위키에 있는 상위 합의문 [[implants/peri-implantitis/wang-2025-ao-aap-consensus-peri-implant-diseases-conditions]]가 인용하는 "수술적·임플란트 관련 위험요인" 근거 원본이다. 합의문의 요약 서술(implant malposition, unfavorable prosthetics 등)을 실제 OR/HR 수치와 개별 연구 단위로 뒷받침하기 위해 ingest.
 
 ## Three-line Summary
 
@@ -105,7 +105,7 @@ High study heterogeneity precluded meta-analysis (qualitative synthesis only, PR
 
 ## 6. Related Work
 
-- Companion background review for [[periodontics/wang-2025-ao-aap-consensus-peri-implant-diseases-conditions]] (AO/AAP 2024 Consensus summary report), which integrates this review's findings with systemic/behavioral/prosthetic risk factors into the consensus staged-treatment framework.
+- Companion background review for [[implants/peri-implantitis/wang-2025-ao-aap-consensus-peri-implant-diseases-conditions]] (AO/AAP 2024 Consensus summary report), which integrates this review's findings with systemic/behavioral/prosthetic risk factors into the consensus staged-treatment framework.
 - Consistent with [[implants/peri-implantitis/basak-2024-restoration-margin-alveolar-bone-distance-implant]] (IDRA RM-AC ≤1.5mm → OR=3.42 for MBL), which independently corroborates the restorative-margin-distance risk signal.
 - Complements keratinized mucosa evidence in [[implants/peri-implantitis/mahardawi-2023-lack-keratinized-mucosa-peri-implantitis-sr-ma]] and [[implants/peri-implantitis/ravida-2022-keratinized-mucosa-width-peri-implant-disease-sr-ma]] — this review did not analyze KM directly but references soft-tissue-phenotype modification as a mitigation strategy for malpositioned implants.
 - Cites Monje et al. preclinical buccal-bone-thickness work (<1.5mm buccal bone → ~4mm bone loss) as mechanistic support for why malpositioned/"too-buccal" implants predispose to peri-implantitis.

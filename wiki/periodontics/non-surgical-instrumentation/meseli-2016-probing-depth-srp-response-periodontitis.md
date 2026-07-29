@@ -58,5 +58,5 @@ Key result: positive correlation between IPD and PD reduction (deeper = greater 
 
 ## Related Papers
 - [[periodontics/jung-2019-periodontitis-spt-disease-progression-sr]] — long-term stability post-SRP under SPT
-- [[periodontics/marty-2024-implant-treated-periodontitis-sr-ma]] — consequence of untreated periodontitis for implants
+- [[implants/survival/marty-2024-implant-treated-periodontitis-sr-ma]] — consequence of untreated periodontitis for implants
 - [[periodontics/farooqi-2015-periodontal-maintenance-recall-interval-sr]] — SPT recall interval after SRP

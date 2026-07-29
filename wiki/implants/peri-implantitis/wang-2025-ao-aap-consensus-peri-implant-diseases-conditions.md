@@ -5,7 +5,7 @@ year: 2025
 date: 2025-05-01
 doi: 10.1002/JPER.25-0270
 source: wang-2025-ao-aap-consensus-peri-implant-diseases-conditions.md
-category: [periodontics]
+category: [implants/peri-implantitis]
 evidence_level: consensus
 pdf_path: /Users/oracleneo/llm-wiki/papers/wang-2025-ao-aap-consensus-peri-implant-diseases-conditions.pdf
 pdf_filename: wang-2025-ao-aap-consensus-peri-implant-diseases-conditions.pdf
@@ -46,6 +46,6 @@ Consensus-based — does not generate new primary data. Reflects expert weightin
 
 ## Related Papers
 - [[hong-2024-peri-implantitis-treatment-protocol-flowchart]]
-- [[periodontics/kim-2024-peri-implant-diseases-consensus-korean-academy-periodontology]]
-- [[periodontics/kim-2025-management-peri-implantitis-perspectives]]
-- [[periodontics/grusovin-2022-antibiotics-non-surgical-peri-implantitis-ma]]
+- [[implants/peri-implantitis/kim-2024-peri-implant-diseases-consensus-korean-academy-periodontology]]
+- [[implants/peri-implantitis/kim-2025-management-peri-implantitis-perspectives]]
+- [[implants/peri-implantitis/grusovin-2022-antibiotics-non-surgical-peri-implantitis-ma]]

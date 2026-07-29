@@ -5,7 +5,7 @@ year: 2025
 date: 2025-11-01
 doi: 10.22974/jkda.2025.63.11.006
 source: kim-2025-management-peri-implantitis-perspectives.md
-category: [periodontics]
+category: [implants/peri-implantitis]
 evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/kim-2025-management-peri-implantitis-perspectives.pdf
 pdf_filename: kim-2025-management-peri-implantitis-perspectives.pdf
@@ -46,5 +46,5 @@ Narrative review; no quantitative pooling.
 
 ## Related Papers
 - [[implants/peri-implantitis/hong-2024-peri-implantitis-treatment-protocol-flowchart]]
-- [[periodontics/kim-2024-peri-implant-diseases-consensus-korean-academy-periodontology]]
-- [[periodontics/grusovin-2022-antibiotics-non-surgical-peri-implantitis-ma]]
+- [[implants/peri-implantitis/kim-2024-peri-implant-diseases-consensus-korean-academy-periodontology]]
+- [[implants/peri-implantitis/grusovin-2022-antibiotics-non-surgical-peri-implantitis-ma]]

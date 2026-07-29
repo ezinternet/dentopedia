@@ -261,7 +261,7 @@ prep 기하는 retention만이 아니라 **(a) 최종 변연 간극**과 **(b) �
 - [[prosthetic-materials/tooth-preparation/roudsari-2011-auxiliary-features-resistance-short-molars-invitro]] — 클러스터 3 retention 측면
 - [[prosthetic-materials/tooth-preparation/yang-2015-auxiliary-resistance-marginal-fitness-short-molar]] — 클러스터 3 trade-off 정량
 - [[prosthetic-materials/tooth-preparation/kharat-2015-convergence-marginal-seating-fpd-pier-abutment]] — pier abutment FPD 특수 케이스
-- [[prosthetic-materials/alqarawi-2024-digital-taper-finish-line-temporary-crown-retention]] — 클러스터 4 임시 크라운
+- [[prosthetic-materials/tooth-preparation/alqarawi-2024-digital-taper-finish-line-temporary-crown-retention]] — 클러스터 4 임시 크라운
 - [[prosthetic-materials/harb-2021-hf-nitric-acid-zirconia-crown-retention-invitro]] — 클러스터 5 지르코니아 표면처리
 - [[prosthetic-materials/manziuc-2023-zls-ceramic-digital-dentistry-review]] — ZLS ceramic 본딩 context (인접 토픽)
 - [[prosthetic-materials/habibzadeh-2024-full-ceramic-rbfdp-sr]] — RBFDP 보조 유지장치 (box·groove·pinhole) — 클러스터 3 인접

@@ -3,7 +3,7 @@ title: "Non-surgical management of peri-implantitis with photodynamic therapy: A
 stem: "srinivasan-2025-pdt-periimplantitis-nonsurgical-sr-ma"
 source: srinivasan-2025-pdt-periimplantitis-nonsurgical-sr-ma.md
 source_collection: pubmed-abstract
-category: periodontics
+category: [implants/peri-implantitis]
 year: 2025
 authors: "Srinivasan M, Kamnoedboon P, Nantanapiboon D, Papi P, Romeo U"
 doi: "10.1016/j.jdent.2025.105680"

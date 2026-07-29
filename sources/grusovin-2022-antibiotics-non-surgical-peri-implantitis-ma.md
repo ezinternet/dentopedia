@@ -43,8 +43,8 @@ Only 6 RCTs eligible. Heterogeneous antibiotic regimens and debridement protocol
 
 ## 6. Related Work
 - [[periodontics/cha-2024-peri-implantitis-treatment-protocol-flowchart]]
-- [[periodontics/kim-2024-peri-implant-diseases-consensus-korean-academy-periodontology]]
-- [[periodontics/kim-2025-management-peri-implantitis-perspectives]]
+- [[implants/peri-implantitis/kim-2024-peri-implant-diseases-consensus-korean-academy-periodontology]]
+- [[implants/peri-implantitis/kim-2025-management-peri-implantitis-perspectives]]
 
 ## 7. Glossary
 - **PPD:** Probing Pocket Depth.

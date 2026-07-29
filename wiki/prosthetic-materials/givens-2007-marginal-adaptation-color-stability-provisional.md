@@ -70,4 +70,4 @@ Take-homes: (1) the **dual-cure** material fit worst; (2) SNAP, Protemp Garant, 
 ## Related Papers
 
 - [[prosthetic-materials/sokhal-2025-surface-hardness-bis-acryl-pmma-provisional]] — paired PMC-fulltext study: bis-acryl surface hardness > PMMA. Together they cover fit/color (here) + hardness (there), showing acrylics are competitive on fit/color but softer (reinforces).
-- [[prosthetic-materials/alqarawi-2024-digital-taper-finish-line-temporary-crown-retention]] — temporary crown retention vs preparation taper/finish line.
+- [[prosthetic-materials/tooth-preparation/alqarawi-2024-digital-taper-finish-line-temporary-crown-retention]] — temporary crown retention vs preparation taper/finish line.

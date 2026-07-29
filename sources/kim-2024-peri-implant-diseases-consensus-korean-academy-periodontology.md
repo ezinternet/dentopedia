@@ -46,8 +46,8 @@ Narrative consensus, not a systematic synthesis; risk-factor estimates from hete
 
 ## 6. Related Work
 - [[periodontics/cha-2024-peri-implantitis-treatment-protocol-flowchart]]
-- [[periodontics/grusovin-2022-antibiotics-non-surgical-peri-implantitis-ma]]
-- [[periodontics/kim-2025-management-peri-implantitis-perspectives]]
+- [[implants/peri-implantitis/grusovin-2022-antibiotics-non-surgical-peri-implantitis-ma]]
+- [[implants/peri-implantitis/kim-2025-management-peri-implantitis-perspectives]]
 
 ## 7. Glossary
 - **PPD:** Probing Pocket Depth.

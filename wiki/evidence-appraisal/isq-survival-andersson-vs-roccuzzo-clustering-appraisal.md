@@ -62,7 +62,7 @@ Andersson은 단변량·비보정·군집무시·ISQ 이분화 사용; roccuzzo�
 
 ## 관련 항목
 - [[implants/isq/andersson-2019-rfa-factors-5year-neoss-survival]] — 못한 예 (방법 교정 완료)
-- [[periodontics/roccuzzo-2022-implants-periodontitis-history-20year-prospective]] — 잘한 예 (다수준 로지스틱)
+- [[implants/survival/roccuzzo-2022-implants-periodontitis-history-20year-prospective]] — 잘한 예 (다수준 로지스틱)
 - [[evidence-appraisal/darrigo-2024-common-mistakes-biostatistics]] — 군집·다중성 흔한 오류
 - [[evidence-appraisal/monaghan-2021-odds-ratios-relative-risk-absolute]] — OR 해석
 - [[evidence-appraisal/flechner-2011-pvalues-confidence-intervals-number-needed]] — CI·p 해석

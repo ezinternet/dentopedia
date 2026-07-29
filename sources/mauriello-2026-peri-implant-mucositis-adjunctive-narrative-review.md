@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-[[implants/peri-implantitis]] subcategory 첫 paper. [[periodontics/grusovin-2022-antibiotics-non-surgical-peri-implantitis-ma]] (항생제 peri-implantitis MA) 와 함께 peri-implant 질환 보조요법 evidence — PiM(역행 가능 단계)에서 보조요법 효과 정량. 답: PMPR 단독이 gold standard, 보조요법 일관된 추가 benefit 없음.
+[[implants/peri-implantitis]] subcategory 첫 paper. [[implants/peri-implantitis/grusovin-2022-antibiotics-non-surgical-peri-implantitis-ma]] (항생제 peri-implantitis MA) 와 함께 peri-implant 질환 보조요법 evidence — PiM(역행 가능 단계)에서 보조요법 효과 정량. 답: PMPR 단독이 gold standard, 보조요법 일관된 추가 benefit 없음.
 
 ## Three-line Summary
 
@@ -56,9 +56,9 @@ PiM gold standard — chlorhexidine/local antibiotics/NaOCl/probiotics/bioactive
 - 표준화된 RCT 필요 (장기 추적 + 통일된 outcome)
 
 ## 6. Related Work
-- [[periodontics/grusovin-2022-antibiotics-non-surgical-peri-implantitis-ma]] — peri-implantitis 항생제 MA
-- [[periodontics/kim-2024-peri-implant-diseases-consensus-korean-academy-periodontology]] — 한국 컨센서스
-- [[periodontics/kim-2025-management-peri-implantitis-perspectives]] — peri-implantitis 관리 perspectives
+- [[implants/peri-implantitis/grusovin-2022-antibiotics-non-surgical-peri-implantitis-ma]] — peri-implantitis 항생제 MA
+- [[implants/peri-implantitis/kim-2024-peri-implant-diseases-consensus-korean-academy-periodontology]] — 한국 컨센서스
+- [[implants/peri-implantitis/kim-2025-management-peri-implantitis-perspectives]] — peri-implantitis 관리 perspectives
 
 ## 7. Glossary
 - PiM: peri-implant mucositis (역행 가능 염증)

@@ -5,7 +5,7 @@ year: 2024
 date: 2024-12-30
 doi: 10.5051/jpis.2404630231
 source: kim-2024-peri-implant-diseases-consensus-korean-academy-periodontology.md
-category: [periodontics]
+category: [implants/peri-implantitis]
 evidence_level: consensus
 pdf_path: /Users/oracleneo/llm-wiki/papers/kim-2024-peri-implant-diseases-consensus-korean-academy-periodontology.pdf
 pdf_filename: kim-2024-peri-implant-diseases-consensus-korean-academy-periodontology.pdf
@@ -46,5 +46,5 @@ Narrative consensus, not a systematic synthesis; risk-factor estimates from hete
 
 ## Related Papers
 - [[implants/peri-implantitis/hong-2024-peri-implantitis-treatment-protocol-flowchart]]
-- [[periodontics/grusovin-2022-antibiotics-non-surgical-peri-implantitis-ma]]
-- [[periodontics/kim-2025-management-peri-implantitis-perspectives]]
+- [[implants/peri-implantitis/grusovin-2022-antibiotics-non-surgical-peri-implantitis-ma]]
+- [[implants/peri-implantitis/kim-2025-management-peri-implantitis-perspectives]]

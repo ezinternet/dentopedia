@@ -59,6 +59,6 @@ Tissue grafts associated with improved ISQ values, reduced marginal recession, b
 Combined hard + soft tissue graft: superior esthetic outcomes (PES) vs graft type alone
 
 ## Related Papers
-- [[periodontics/marty-2024-implant-treated-periodontitis-sr-ma]] — periodontitis history increases peri-implantitis risk; relevant patient selection
+- [[implants/survival/marty-2024-implant-treated-periodontitis-sr-ma]] — periodontitis history increases peri-implantitis risk; relevant patient selection
 - [[immediate-implant/esthetic-soft-tissue/buser-2017-implant-placement-timing-post-extraction-esthetic]] — ITI Type 1–4 framework, 심미부 즉시식립 narrative review.
 - [[immediate-implant/esthetic-soft-tissue/seyssens-2021-immediate-implant-connective-tissue-graft-sr-ma]] — CTG 동반 즉시식립 SR+MA(thin biotype 권장 근거).

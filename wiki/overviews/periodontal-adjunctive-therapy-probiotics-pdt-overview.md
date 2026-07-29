@@ -14,7 +14,7 @@ source_wiki:
   - wiki/periodontics/jungbauer-2026-naocl-hyaluronic-acid-subgingival-reinstrumentation-rct.md
   - wiki/periodontics/mendoca-2024-probiotics-nspt-nma.md
   - wiki/periodontics/benavides-reyes-2025-probiotics-periodontitis-ma.md
-  - wiki/periodontics/srinivasan-2025-pdt-periimplantitis-nonsurgical-sr-ma.md
+  - wiki/implants/peri-implantitis/srinivasan-2025-pdt-periimplantitis-nonsurgical-sr-ma.md
 category: [periodontics]
 evidence_level: synthesis
 tags: [probiotics, aPDT, NSPT, SRP, adjunctive-therapy, periodontal-treatment, subgingival-irrigation, clean-and-seal, NaOCl, hyaluronic-acid]
@@ -323,4 +323,4 @@ See [[periodontics/oral-hygiene-instruction/zini-2026-electric-vs-manual-toothbr
 - [[periodontics/non-surgical-instrumentation/jungbauer-2026-naocl-hyaluronic-acid-subgingival-reinstrumentation-rct]] — "clean and seal" (AA-NaOCl + cross-linked HA) adjunct to SRI in maintenance; positive ~0.5 mm PD / 0.57 mm CAL gain, doubled pocket closure — delivery-mode counterpoint to da Silveira's null irrigation
 - [[periodontics/host-modulation/mendoca-2024-probiotics-nspt-nma]] — network MA of 33 RCTs (1290 patients) ranking probiotic strains as PMPR adjuncts; *L. reuteri* the only strain with long-term benefit; very low certainty in 92% of comparisons due to star topology (9% direct evidence)
 - [[periodontics/host-modulation/benavides-reyes-2025-probiotics-periodontitis-ma]] — pairwise MA of 24 RCTs (951 participants); periodontitis PI and BOP significant, PPD non-significant overall, effects time-dependent; gingivitis null with I²=94–96% — the conservative counterweight to Mendonça's PPD estimate
-- [[periodontics/srinivasan-2025-pdt-periimplantitis-nonsurgical-sr-ma]] — SR+MA of 25 studies on aPDT adjunct to non-surgical debridement in peri-implantitis; significant 3-month BOP/PD/PI/CBL gains that do not persist at extended follow-up; partially fills the Cochrane-identified peri-implantitis gap
+- [[implants/peri-implantitis/srinivasan-2025-pdt-periimplantitis-nonsurgical-sr-ma]] — SR+MA of 25 studies on aPDT adjunct to non-surgical debridement in peri-implantitis; significant 3-month BOP/PD/PI/CBL gains that do not persist at extended follow-up; partially fills the Cochrane-identified peri-implantitis gap

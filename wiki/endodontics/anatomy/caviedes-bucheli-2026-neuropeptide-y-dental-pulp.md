@@ -5,7 +5,7 @@ year: 2026
 doi: 10.1111/iej.70192
 journal: "International Endodontic Journal"
 source: sources/caviedes-bucheli-2026-neuropeptide-y-dental-pulp.md
-category: endodontics
+category: [endodontics/anatomy]
 evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/caviedes-bucheli-2026-neuropeptide-y-dental-pulp.pdf
 pdf_filename: caviedes-bucheli-2026-neuropeptide-y-dental-pulp.pdf
@@ -85,4 +85,4 @@ This stage-dependent pattern explains the clinical observation that early pulpit
 
 ## Related Papers
 
-- [[endodontics/caviedes-bucheli-2008-neuropeptides-dental-pulp-silent]] — foundational 2008 narrative review by same group covering all pulp neuropeptides; this paper extends with receptor-level pharmacology and stage-dependent caries data
+- [[endodontics/anatomy/caviedes-bucheli-2008-neuropeptides-dental-pulp-silent]] — foundational 2008 narrative review by same group covering all pulp neuropeptides; this paper extends with receptor-level pharmacology and stage-dependent caries data

@@ -5,7 +5,7 @@ year: 2008
 journal: "Journal of Endodontics"
 volume_issue: "34(7):773-788"
 doi: "10.1016/S0099-2399(08)00257-4"
-category: endodontics
+category: [endodontics/anatomy]
 evidence_level: narrative-review
 source: sources/caviedes-bucheli-2008-neuropeptides-dental-pulp-silent.md
 source_collection: abstract-only
@@ -27,7 +27,7 @@ relations:
     target: "[[orofacial-pain/caviedes-bucheli-2025-opioid-system-orthodontic-neurogenic]]"
     note: "2025 IEJ paper by same group extends neuropeptide framework to opioid system in orthodontic pain"
   - type: extended_by
-    target: "[[endodontics/caviedes-bucheli-2026-neuropeptide-y-dental-pulp]]"
+    target: "[[endodontics/anatomy/caviedes-bucheli-2026-neuropeptide-y-dental-pulp]]"
     note: "2026 IEJ paper by same group provides focused NPY review — one of the neuropeptides covered here"
 ---
 
@@ -79,4 +79,4 @@ This 2008 review represents the foundational reference for the same group's subs
 ## Relations
 
 - Extended by [[orofacial-pain/caviedes-bucheli-2025-opioid-system-orthodontic-neurogenic]] — same group, extends framework to opioid system in orthodontic pain context
-- Extended by [[endodontics/caviedes-bucheli-2026-neuropeptide-y-dental-pulp]] — focused 2026 review of NPY, one neuropeptide covered in this foundational paper
+- Extended by [[endodontics/anatomy/caviedes-bucheli-2026-neuropeptide-y-dental-pulp]] — focused 2026 review of NPY, one neuropeptide covered in this foundational paper
