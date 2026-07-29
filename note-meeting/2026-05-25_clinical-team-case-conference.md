@@ -46,7 +46,7 @@ tags: [case-conference, dbbm, implant-failure, sop-decision, 2026-05]
 ## 분석 (원장)
 
 - [근거강함] ISQ 58은 [[implants/isq/andersson-2019-rfa-factors-5year-neoss-survival|Andersson 2019]] 권고 threshold(≥65 for immediate/early loading) 미달이었음. 3개월 시점 ISQ 60도 임계 미달.
-- [합의수준] MSFA + 즉시식립 + ISQ <65에서 정상적 osseointegration 실패 위험은 [[implants/bonsmann-2025-risk-factors-early-implant-failure-sinus-nested|Bonsmann 2025]]에서 sinus aug 후 early failure OR 상승으로 확인.
+- [합의수준] MSFA + 즉시식립 + ISQ <65에서 정상적 osseointegration 실패 위험은 [[implants/survival/bonsmann-2025-risk-factors-early-implant-failure-sinus-nested|Bonsmann 2025]]에서 sinus aug 후 early failure OR 상승으로 확인.
 - [claude해석] Bio-Gide 차폐막 단독 + buccal redness 2주 시점이 occult infection 신호였을 가능성. 위생사가 redness 보고했으나 protocol 부재로 경과관찰만 진행 — SOP에 "post-op 2-week buccal soft tissue 평가 체크리스트" 추가 필요.
 
 ## 결정
@@ -66,7 +66,7 @@ tags: [case-conference, dbbm, implant-failure, sop-decision, 2026-05]
 
 ## 결정
 
-- 흡연 dose-response 위험([[implants/naseri-2020-smoking-levels-implant-failure-sr-ma|Naseri 2020]]) 환자 설명 강화.
+- 흡연 dose-response 위험([[implants/survival/naseri-2020-smoking-levels-implant-failure-sr-ma|Naseri 2020]]) 환자 설명 강화.
 - 6개월 SPT 주기 단축(현행 6mo → 4mo).
 - 별도 케이스 — 본 컨퍼런스에서는 SPT 주기 변경만 결정, SOP 변경은 보류.
 
