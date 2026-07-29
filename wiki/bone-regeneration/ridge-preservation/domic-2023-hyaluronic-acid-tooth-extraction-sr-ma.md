@@ -5,7 +5,7 @@ year: 2023
 date: 2023-01-01
 doi: "10.1007/s00784-023-05227-4"
 source: domic-2023-hyaluronic-acid-tooth-extraction-sr-ma.md
-category: [bone-regeneration]
+category: [bone-regeneration/ridge-preservation]
 evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true

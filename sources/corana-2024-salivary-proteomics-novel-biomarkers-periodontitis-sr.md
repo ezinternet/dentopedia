@@ -15,7 +15,7 @@ text_filename: corana-2024-salivary-proteomics-novel-biomarkers-periodontitis-sr
 
 ## Why Ingested
 
-기존 위키의 타액 진단 축([[oral-medicine/li-2024-salivary-diagnostics-opportunities-challenges]], [[oral-medicine/nonaka-2023-saliva-diagnostics-salivaomics-exosomics-liquid-biopsy]])과 GCF 바이오마커 축([[overviews/gingival-crevicular-fluid-biomarker-diagnostics-overview]], [[periodontics/cosin-villanueva-2024-micrornas-gingival-crevicular-fluid-periodontal]])은 있으나, **타액 프로테오믹스로 치주염을 진단하는 어느 단백질이 실제로 재현되는가**를 정면으로 다룬 체계적 고찰이 없었다. 본 SR (13편, untargeted proteomics)은 여러 연구에서 일관되게 재현된 판별 단백질(S100A8·C3·profilin-1·fibrinogen 상승, cystatin-SN·leukocyte elastase inhibitor 감소)을 추려 [[overviews/saliva-diagnostics-and-salivary-gland-dysfunction-overview]]에 치주 진단 분기를 채우는 근거로 활용.
+기존 위키의 타액 진단 축([[oral-medicine/salivary-chemosensory/li-2024-salivary-diagnostics-opportunities-challenges]], [[oral-medicine/salivary-chemosensory/nonaka-2023-saliva-diagnostics-salivaomics-exosomics-liquid-biopsy]])과 GCF 바이오마커 축([[overviews/gingival-crevicular-fluid-biomarker-diagnostics-overview]], [[periodontics/cosin-villanueva-2024-micrornas-gingival-crevicular-fluid-periodontal]])은 있으나, **타액 프로테오믹스로 치주염을 진단하는 어느 단백질이 실제로 재현되는가**를 정면으로 다룬 체계적 고찰이 없었다. 본 SR (13편, untargeted proteomics)은 여러 연구에서 일관되게 재현된 판별 단백질(S100A8·C3·profilin-1·fibrinogen 상승, cystatin-SN·leukocyte elastase inhibitor 감소)을 추려 [[overviews/saliva-diagnostics-and-salivary-gland-dysfunction-overview]]에 치주 진단 분기를 채우는 근거로 활용.
 
 ## Three-line Summary
 
@@ -74,7 +74,7 @@ PRISMA 체계적 문헌고찰(J Periodontal Research 2024; 461건 스크리닝·
 
 - GCF as the site-specific complement to whole-saliva screening (Corana explicitly contrasts GCF's site specificity vs. saliva's whole-mouth convenience).
 - Protein-based salivary/GCF periodontal biomarker syntheses (e.g., Arroyo 2022 SR+MA on IL-1β/ICTP/PGE2; Hu & Leung 2023 mass-spec proteomics SR) — Corana focuses on **untargeted discovery** proteins rather than pre-selected cytokines.
-- Salivaomics / liquid-biopsy diagnostic framing ([[oral-medicine/nonaka-2023-saliva-diagnostics-salivaomics-exosomics-liquid-biopsy]], [[oral-medicine/li-2024-salivary-diagnostics-opportunities-challenges]]).
+- Salivaomics / liquid-biopsy diagnostic framing ([[oral-medicine/salivary-chemosensory/nonaka-2023-saliva-diagnostics-salivaomics-exosomics-liquid-biopsy]], [[oral-medicine/salivary-chemosensory/li-2024-salivary-diagnostics-opportunities-challenges]]).
 
 ## 7. Glossary
 

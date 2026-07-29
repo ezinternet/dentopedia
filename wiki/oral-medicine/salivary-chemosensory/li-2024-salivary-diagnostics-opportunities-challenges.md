@@ -5,7 +5,7 @@ year: 2024
 date: 2024-10-21
 doi: 10.7150/thno.100600
 source: li-2024-salivary-diagnostics-opportunities-challenges.md
-category: oral-medicine
+category: [oral-medicine/salivary-chemosensory]
 evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: true
@@ -68,6 +68,6 @@ Narrative comprehensive review. Saliva is ~99% water and 0.5% organic/inorganic 
 
 ## Related Papers
 
-- [[oral-medicine/nonaka-2023-saliva-diagnostics-salivaomics-exosomics-liquid-biopsy]] — companion framework review (salivaomics/exosomics/liquid biopsy + EFIRM); this paper reinforces and broadens it with a biomarker catalog and detection-hardware survey. (`relations: reinforces`)
+- [[oral-medicine/salivary-chemosensory/nonaka-2023-saliva-diagnostics-salivaomics-exosomics-liquid-biopsy]] — companion framework review (salivaomics/exosomics/liquid biopsy + EFIRM); this paper reinforces and broadens it with a biomarker catalog and detection-hardware survey. (`relations: reinforces`)
 - [[oral-medicine/salivary-chemosensory/tsuchiya-2023-covid-19-oral-sequelae-gustatory-saliva]] — saliva in the COVID-19 context.
 - [[oral-medicine/salivary-chemosensory/poudel-2026-xerostomia-dental-treatment-outcomes-sr]] — salivary flow/quantity clinical outcomes (complementary axis to molecular content).

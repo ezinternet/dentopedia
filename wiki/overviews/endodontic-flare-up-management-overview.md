@@ -48,7 +48,7 @@ The preemptive axis extends the same logic to anesthesia. Rodrigues 2024 (DB-RCT
 
 | Axis | Spine paper | Type | Key finding |
 |---|---|---|---|
-| Risk stratification | [[endodontics/ohshima-2026-factors-associated-endodontic-flare-ups-sr]] | SR+MA (n=24,320) | Flare-up incidence 2.83%; spontaneous pain RR 5.83, percussion pain RR 3.45 are dominant predictors |
+| Risk stratification | [[endodontics/visit-protocol/ohshima-2026-factors-associated-endodontic-flare-ups-sr]] | SR+MA (n=24,320) | Flare-up incidence 2.83%; spontaneous pain RR 5.83, percussion pain RR 3.45 are dominant predictors |
 | Antibiotics (negative) | [[drug/antibiotics/shamszadeh-2020-antibiotics-postoperative-endodontic-symptoms-sr]] | SR+MA (8 RCT, n=690) | Prophylactic antibiotics — no effect on pain or swelling at any time point (6–72h, all NS) |
 | Postoperative corticosteroid | [[drug/analgesics/yavari-2019-submucosal-corticosteroids-postoperative-pain-rct]] | DB-RCT (n=197) | Submucosal dexamethasone best ≤24h; long-acting betamethasone best ≥72h–7d; both > placebo |
 | Preemptive analgesia + anesthesia | [[drug/analgesics/rodrigues-2024-preemptive-dexamethasone-diclofenac-endodontic-rct]] | DB-RCT (n=84) | Preemptive dexamethasone 4mg → IANB success 39.3% vs placebo 3.6%; dex/diclofenac cut 24–72h pain |
@@ -144,7 +144,7 @@ Flare-up 발생
 
 ## Related Papers
 
-- [[endodontics/ohshima-2026-factors-associated-endodontic-flare-ups-sr]] — risk-factor SR/MA; supplies the incidence baseline and the risk hierarchy that opens the whole protocol.
+- [[endodontics/visit-protocol/ohshima-2026-factors-associated-endodontic-flare-ups-sr]] — risk-factor SR/MA; supplies the incidence baseline and the risk hierarchy that opens the whole protocol.
 - [[drug/antibiotics/shamszadeh-2020-antibiotics-postoperative-endodontic-symptoms-sr]] — the negative-evidence anchor against antibiotic prophylaxis.
 - [[drug/analgesics/yavari-2019-submucosal-corticosteroids-postoperative-pain-rct]] — postoperative corticosteroid axis; time-dependent dexamethasone vs. betamethasone.
 - [[drug/analgesics/rodrigues-2024-preemptive-dexamethasone-diclofenac-endodontic-rct]] — preemptive analgesia/anesthesia axis; the hot-tooth IANB-success evidence.

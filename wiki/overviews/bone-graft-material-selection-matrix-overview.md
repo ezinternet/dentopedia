@@ -142,11 +142,11 @@ Adjuncts (simvastatin, hyaluronic acid, platelet concentrates) may be added at l
 - [[bone-regeneration/meza-mauricio-2022-substitute-autogenous-bone-graft-horizontal]] — adding autograft to allograft = no horizontal gain benefit (SR+MA)
 - [[bone-regeneration/rokn-2011-bone-formation-two-grafting-materials]] — biphasic ceramic ≈ Bio-Oss; large particles → more inflammation
 - [[bone-regeneration/janjua-2022-autogenous-tooth-bone-grafts-narrative]] — AUTO-BG biology and outcomes
-- [[bone-regeneration/minetti-2020-alveolar-socket-preservation-autologous-graft]] — healthy vs endo-treated tooth grafts equivalent
-- [[bone-regeneration/nakajima-2026-tooth-root-graft-alveolar-preservation]] — tooth-root graft vs xenograft: vital bone vs buccal contour trade-off
+- [[bone-regeneration/ridge-preservation/minetti-2020-alveolar-socket-preservation-autologous-graft]] — healthy vs endo-treated tooth grafts equivalent
+- [[bone-regeneration/ridge-preservation/nakajima-2026-tooth-root-graft-alveolar-preservation]] — tooth-root graft vs xenograft: vital bone vs buccal contour trade-off
 - [[bone-regeneration/stricker-2021-resorption-retromolar-bone-grafts]] — 43.7% onlay-block resorption at 12 months (maxilla > mandible)
 - [[bone-regeneration/tale-2026-simvastatin-guided-bone-regeneration-sr]] — local simvastatin GBR adjunct (modest, no ISQ benefit)
-- [[bone-regeneration/domic-2023-hyaluronic-acid-tooth-extraction-sr-ma]] — HyA: late-pain benefit only, hard-tissue benefit unconfirmed
+- [[bone-regeneration/ridge-preservation/domic-2023-hyaluronic-acid-tooth-extraction-sr-ma]] — HyA: late-pain benefit only, hard-tissue benefit unconfirmed
 - [[bone-regeneration/giannotti-2023-autologous-platelet-concentrates-clinical-applications]] — PRP/PRF/CGF generations; CGF longest release
 - [[bone-regeneration/raabe-2025-defect-morphology-membrane-fixation-graft]] — 15–40% graft collapse at closure; pin fixation halves displacement
 - [[bone-regeneration/elgali-2017-guided-bone-regeneration-materials-mechanisms]] — the active membrane (osteoprogenitor recruitment, FGF-2/BMP-2)

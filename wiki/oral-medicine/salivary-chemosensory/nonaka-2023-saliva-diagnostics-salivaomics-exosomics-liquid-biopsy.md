@@ -5,7 +5,7 @@ year: 2023
 date: 2023-07-27
 doi: 10.1016/j.adaj.2023.05.006
 source: nonaka-2023-saliva-diagnostics-salivaomics-exosomics-liquid-biopsy.md
-category: oral-medicine
+category: [oral-medicine/salivary-chemosensory]
 evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: true
@@ -64,6 +64,6 @@ Narrative expert synthesis (not a systematic review). Evidence spans omics refer
 
 ## Related Papers
 
-- [[oral-medicine/li-2024-salivary-diagnostics-opportunities-challenges]] — companion salivary-diagnostics review (Theranostics) ingested in the same batch; broader biomarker/point-of-care survey that reinforces this pillar framework.
+- [[oral-medicine/salivary-chemosensory/li-2024-salivary-diagnostics-opportunities-challenges]] — companion salivary-diagnostics review (Theranostics) ingested in the same batch; broader biomarker/point-of-care survey that reinforces this pillar framework.
 - [[oral-medicine/salivary-chemosensory/tsuchiya-2023-covid-19-oral-sequelae-gustatory-saliva]] — saliva as a site of COVID-19 sequelae; contrasts with saliva as a COVID *diagnostic* medium here.
 - [[oral-medicine/salivary-chemosensory/poudel-2026-xerostomia-dental-treatment-outcomes-sr]] — salivary flow/quantity clinical outcomes; complementary axis (quantity vs molecular content).

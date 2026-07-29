@@ -79,7 +79,7 @@ Narrative synthesis, not a systematic review. The authors summarize evidence acr
 
 - [[oral-medicine/salivary-chemosensory/tsuchiya-2023-covid-19-oral-sequelae-gustatory-saliva]] — saliva as a site of COVID-19 sequelae; this review instead uses saliva as a COVID *diagnostic* medium.
 - [[oral-medicine/salivary-chemosensory/poudel-2026-xerostomia-dental-treatment-outcomes-sr]] — salivary *quantity/flow* clinical outcomes; complementary to this paper's focus on salivary *molecular content*.
-- Sibling salivary-diagnostics review ingested in the same batch: [[oral-medicine/li-2024-salivary-diagnostics-opportunities-challenges]].
+- Sibling salivary-diagnostics review ingested in the same batch: [[oral-medicine/salivary-chemosensory/li-2024-salivary-diagnostics-opportunities-challenges]].
 
 ## 7. Glossary
 

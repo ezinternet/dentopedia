@@ -15,7 +15,7 @@ text_filename: zhang-2025-intentional-replantation-periapical-periodontitis-prog
 
 ## Why Ingested
 
-위키에는 근관치료 실패 시의 옵션으로 재치료([[endodontics/visit-protocol/karaoglan-2022-single-two-visit-retreatment-periapical-rct]] 등)와 치근단수술([[endodontics/gowda-2025-guided-tissue-regeneration-surgical-endodontic-outcome-umbrella]], [[endodontics/he-2026-hemostatic-agents-periapical-surgery-sr-ma]])은 있었지만, **의도적 재식(Intentional Replantation, IR)을 다룬 페이지가 전무했다** — 발치와 임플란트 직전 경계선(extraction threshold)에 정확히 놓인 옵션인데도. 이 SR+MA(39편, 2,305치아)는 그 공백을 채우면서, "발치·임플란트 대신 뭘 더 할 수 있나"라는 치료계획 질문에 대한 구체적 답 하나에 수치를 붙인다. 단, 헤드라인 수치(생존 0.89·성공 0.78)는 **39편 중 31편이 QUIPS 종합 위험도 high risk**라는 근거 위에 서 있다는 점을 반드시 같이 읽어야 한다 — low risk 연구는 단 한 편도 없었다.
+위키에는 근관치료 실패 시의 옵션으로 재치료([[endodontics/visit-protocol/karaoglan-2022-single-two-visit-retreatment-periapical-rct]] 등)와 치근단수술([[endodontics/regenerative/gowda-2025-guided-tissue-regeneration-surgical-endodontic-outcome-umbrella]], [[endodontics/he-2026-hemostatic-agents-periapical-surgery-sr-ma]])은 있었지만, **의도적 재식(Intentional Replantation, IR)을 다룬 페이지가 전무했다** — 발치와 임플란트 직전 경계선(extraction threshold)에 정확히 놓인 옵션인데도. 이 SR+MA(39편, 2,305치아)는 그 공백을 채우면서, "발치·임플란트 대신 뭘 더 할 수 있나"라는 치료계획 질문에 대한 구체적 답 하나에 수치를 붙인다. 단, 헤드라인 수치(생존 0.89·성공 0.78)는 **39편 중 31편이 QUIPS 종합 위험도 high risk**라는 근거 위에 서 있다는 점을 반드시 같이 읽어야 한다 — low risk 연구는 단 한 편도 없었다.
 
 ## Three-line Summary
 
@@ -91,7 +91,7 @@ Two prognostic factors reached statistical significance: age (survival rate rati
 ## 6. Related Work
 
 - Distinguished by the authors from prior IR systematic reviews: one earlier review included zero studies due to overly strict two-armed-cohort inclusion criteria; another analyzed success rate only, without prognostic factors; a third (Wang et al.) identified prognostic factors but lacked appropriate statistical analysis. This review positions itself as resolving those gaps by combining formal QUIPS risk-of-bias appraisal, GRADE certainty rating, and quantitative SRR meta-analysis of prognostic factors.
-- Complements [[endodontics/gowda-2025-guided-tissue-regeneration-surgical-endodontic-outcome-umbrella]] and [[endodontics/he-2026-hemostatic-agents-periapical-surgery-sr-ma]] — both address outcomes of apical/periapical surgery, the other major surgical alternative to IR when nonsurgical retreatment fails or is contraindicated.
+- Complements [[endodontics/regenerative/gowda-2025-guided-tissue-regeneration-surgical-endodontic-outcome-umbrella]] and [[endodontics/he-2026-hemostatic-agents-periapical-surgery-sr-ma]] — both address outcomes of apical/periapical surgery, the other major surgical alternative to IR when nonsurgical retreatment fails or is contraindicated.
 - Contextualized against [[endodontics/irrigation/artaza-2024-outcome-nonsurgical-root-canal-treatment]], which reports 89% (loose)/67% (rigid) favorable outcomes for nonsurgical (re)treatment of large apical periodontitis lesions — a reminder that nonsurgical retreatment is the first-line option this review's IR population has typically already exhausted or found unsuitable.
 - Distinct from **avulsion replantation** (traumatic tooth avulsion + replantation, e.g. [[dental-trauma/kumari-2025-effect-splinting-outcomes-replantation-avulsed]]): that is an emergency response to trauma in an otherwise healthy tooth; IR is a planned, elective surgical procedure on a tooth already diseased with periapical periodontitis. The two share a verb ("replantation") but not an indication, timeline, or starting periodontal/pulpal status — do not conflate them.
 

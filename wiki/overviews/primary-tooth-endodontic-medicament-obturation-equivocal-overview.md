@@ -129,7 +129,7 @@ Only 2 high-quality studies (modified CONSORT ≥19/27 points) underlie the key 
 
 ## Axis 3 — Equivocal Pulp Status: Pulpotomy vs Pulpectomy
 
-Source: [[endodontics/xiao-2026-pulpotomy-vs-pulpectomy-equivocal-primary-molars]] (retrospective propensity-matched cohort, 312 primary molars, 156 matched pairs)
+Source: [[endodontics/vpt/xiao-2026-pulpotomy-vs-pulpectomy-equivocal-primary-molars]] (retrospective propensity-matched cohort, 312 primary molars, 156 matched pairs)
 
 ### Background
 
@@ -196,7 +196,7 @@ The practical clinical flow: meet the patient → [[overviews/primary-molar-cari
 
 - [[endodontics/hasan-2026-rgdent-chx-caoh2-efaecalis-invitro]] — Axis 1 source: in-vitro E. faecalis comparative medicament study (CHX vs RG-Dent vs Ca(OH)₂, 2-day vs 7-day dwell)
 - [[endodontics/obturation/najjar-2019-caoh2-iodoform-vitapex-vs-zoe-pulpectomy-sr-ma]] — Axis 2 source: SR+MA of Vitapex/Metapex vs ZOE for primary pulpectomy (15 studies, 1,669 teeth)
-- [[endodontics/xiao-2026-pulpotomy-vs-pulpectomy-equivocal-primary-molars]] — Axis 3 source: propensity-matched cohort of pulpotomy vs pulpectomy for equivocal pulp status (312 molars, 156 pairs)
+- [[endodontics/vpt/xiao-2026-pulpotomy-vs-pulpectomy-equivocal-primary-molars]] — Axis 3 source: propensity-matched cohort of pulpotomy vs pulpectomy for equivocal pulp status (312 molars, 156 pairs)
 - [[overviews/primary-molar-caries-pulp-restoration-decision-tree]] — companion overview covering upstream caries management, Hall technique, and reversible pulpitis pulpotomy decisions
 - [[endodontics/vpt/chawla-2026-pulpotomy-vs-pulpectomy-primary-teeth-sr-ma]] — SR+MA for confirmed irreversible pulpitis (2 studies, very low certainty; no difference); complements Axis 3 by providing the clearer-diagnosis comparator
 - [[endodontics/vpt/aapd-2024-vital-pulp-therapy-primary-teeth-guideline]] — AAPD guideline defining the ≤5-min hemostasis criterion that Axis 3 stress-tests in the equivocal zone

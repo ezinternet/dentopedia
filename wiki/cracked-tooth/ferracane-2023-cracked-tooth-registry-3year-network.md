@@ -61,7 +61,7 @@ CTS 분야 가장 큰 real-world cohort. SR/umbrella가 다루지 못한 actual 
 ## Clinical Relevance
 - 한국 임상의도 본 framework 직접 활용 가능 (분야 일반적 적용)
 - Cuspal coverage 강조는 Kaur 2026 umbrella·국제 표준과 일관
-- [[endodontics/kwak-2024-endodontic-treatment-cracked-tooth-management]] (Kwak 한국 보수적 입장)과 비교 — Ferracane은 cuspal coverage early intervention, Kwak은 unnecessary endo 회피
+- [[endodontics/diagnosis/kwak-2024-endodontic-treatment-cracked-tooth-management]] (Kwak 한국 보수적 입장)과 비교 — Ferracane은 cuspal coverage early intervention, Kwak은 unnecessary endo 회피
 
 ## Strengths and Caveats
 [prospective] 가장 큰 real-world cohort — 분야 가치 높음
@@ -74,4 +74,4 @@ CTS 분야 가장 큰 real-world cohort. SR/umbrella가 다루지 못한 actual 
 - [[cracked-tooth/li-2021-cracked-tooth-syndrome-etiology-review]] — etiology + prevention
 - [[cracked-tooth/raj-2025-cracked-tooth-syndrome-diagnostic-dilemma]] — 진단 mini
 - [[cracked-tooth/jkda-2024-62-1-003]] — Kim&Shin 진단 한계 (한국)
-- [[endodontics/kwak-2024-endodontic-treatment-cracked-tooth-management]] — Kwak endo 보수적 결정 (한국)
+- [[endodontics/diagnosis/kwak-2024-endodontic-treatment-cracked-tooth-management]] — Kwak endo 보수적 결정 (한국)

@@ -7,7 +7,7 @@ doi: 10.1007/s12663-020-01460-6
 pmid: "36274880"
 pmcid: "PMC9474760"
 source: tabrizi-2020-dental-implant-survival-postoperative-infection.md
-category: [immediate-implant]
+category: [immediate-implant/infected-socket]
 evidence_level: retrospective
 source_collection: pubmed-text
 full_text: false

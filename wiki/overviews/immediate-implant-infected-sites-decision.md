@@ -13,7 +13,7 @@ source_wiki:
   - wiki/immediate-implant/prati-2017-immediate-early-delayed-implants-endodontic-infections.md
   - wiki/immediate-implant/lee-2018-comparison-immediate-implant-placement-infected.md
   - wiki/immediate-implant/chrcanovic-2015-immediate-placement-implants-infected-sites.md
-  - wiki/immediate-implant/tabrizi-2020-dental-implant-survival-postoperative-infection.md
+  - wiki/immediate-implant/infected-socket/tabrizi-2020-dental-implant-survival-postoperative-infection.md
 category: [overviews]
 evidence_level: synthesis
 tags: [immediate-implant, infected-socket, periapical-pathology, acute-abscess, debridement, antibiotic, timing, post-op-infection, clinical-decision]
@@ -234,7 +234,7 @@ Pre-extraction assessment
 - [[immediate-implant/infected-socket/prati-2017-immediate-early-delayed-implants-endodontic-infections]] — MBL timing hierarchy
 - [[immediate-implant/infected-socket/munoz-camara-2020-immediate-implants-acute-periapical-infected]] — 100% survival prospective
 - [[immediate-implant/infected-socket/blus-2015-immediate-implants-infected-noninfected-ultrasonic]] — Piezo debridement protocol
-- [[immediate-implant/tabrizi-2020-dental-implant-survival-postoperative-infection]] — Post-op infection failure rate
+- [[immediate-implant/infected-socket/tabrizi-2020-dental-implant-survival-postoperative-infection]] — Post-op infection failure rate
 - [[immediate-implant/infected-socket/chrcanovic-2015-immediate-placement-implants-infected-sites]] — Historical SR (superseded)
 - [[immediate-implant/infected-socket/lee-2018-comparison-immediate-implant-placement-infected]] — Korean-authored SR+MA
 - [[overviews/immediate-implant-conditions]] — Parent overview: Type-1 IIP conditions and risk matrix

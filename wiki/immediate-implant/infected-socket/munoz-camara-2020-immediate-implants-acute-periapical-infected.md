@@ -83,4 +83,4 @@ Acute infection etiology in test group: infected fracture 42%, granuloma+pus 30%
 - [[immediate-implant/infected-socket/saijeva-2020-immediate-implant-placement-non-infected-sockets]] — SR+MA (9 cohorts) confirming survival equivalence across infected/non-infected
 - [[immediate-implant/infected-socket/pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma]] — 2024 SR+MA; most comprehensive update including protocol detail
 - [[immediate-implant/infected-socket/blus-2015-immediate-implants-infected-noninfected-ultrasonic]] — companion RCT cited in this paper (ref 27); acute vs chronic infection breakdown
-- [[immediate-implant/tabrizi-2020-dental-implant-survival-postoperative-infection]] — postoperative acute infection failure predictors (complementary scenario)
+- [[immediate-implant/infected-socket/tabrizi-2020-dental-implant-survival-postoperative-infection]] — postoperative acute infection failure predictors (complementary scenario)

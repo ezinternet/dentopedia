@@ -13,15 +13,15 @@ source_wiki:
   - wiki/bone-regeneration/elgali-2017-guided-bone-regeneration-materials-mechanisms.md
   - wiki/bone-regeneration/meza-mauricio-2022-substitute-autogenous-bone-graft-horizontal.md
   - wiki/bone-regeneration/janjua-2022-autogenous-tooth-bone-grafts-narrative.md
-  - wiki/bone-regeneration/minetti-2020-alveolar-socket-preservation-autologous-graft.md
-  - wiki/bone-regeneration/nakajima-2026-tooth-root-graft-alveolar-preservation.md
+  - wiki/bone-regeneration/ridge-preservation/minetti-2020-alveolar-socket-preservation-autologous-graft.md
+  - wiki/bone-regeneration/ridge-preservation/nakajima-2026-tooth-root-graft-alveolar-preservation.md
   - wiki/bone-regeneration/stricker-2021-resorption-retromolar-bone-grafts.md
   - wiki/bone-regeneration/rokn-2011-bone-formation-two-grafting-materials.md
   - wiki/bone-regeneration/elrefaei-2025-3d-printed-scaffolds-ridge-augmentation.md
   - wiki/bone-regeneration/sun-2025-3d-printed-scaffold-bone-defect-repair.md
   - wiki/bone-regeneration/giannotti-2023-autologous-platelet-concentrates-clinical-applications.md
   - wiki/bone-regeneration/tale-2026-simvastatin-guided-bone-regeneration-sr.md
-  - wiki/bone-regeneration/domic-2023-hyaluronic-acid-tooth-extraction-sr-ma.md
+  - wiki/bone-regeneration/ridge-preservation/domic-2023-hyaluronic-acid-tooth-extraction-sr-ma.md
   - wiki/bone-regeneration/raabe-2025-defect-morphology-membrane-fixation-graft.md
   - wiki/bone-regeneration/ahamed-2025-peri-implant-gaps-management-sr.md
 output_wiki:

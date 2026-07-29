@@ -138,7 +138,7 @@ CTS overview의 가장 임상적으로 중요한 부분 — **endo 진입 여부
 
 ### 입장 B: 보수적 — unnecessary endo 회피
 
-[[endodontics/kwak-2024-endodontic-treatment-cracked-tooth-management]] (Kwak, JKDA 2024, Yonsei Nature 치과의원, 균열치 특집 3번):
+[[endodontics/diagnosis/kwak-2024-endodontic-treatment-cracked-tooth-management]] (Kwak, JKDA 2024, Yonsei Nature 치과의원, 균열치 특집 3번):
 - **균열치 발견 = 자동 endo 아니다** 강조
 - 많은 case는 endo 없이 cuspal coverage·crown만으로 해결
 - Endo trigger 명확화: spontaneous pain, periapical 반응, deep crack with pulp 침범
@@ -301,7 +301,7 @@ Cluster 3의 합의("cuspal coverage는 standard")는 *무엇으로* 덮을지�
 ### Korean JKDA cluster (3편, 균열치 특집)
 - [[cracked-tooth/jkda-2024-62-1-003]] — Kim & Shin: 진단의 한계·multi-modal framework
 - [[cracked-tooth/jkda-2024-62-1-004]] — Son: QLF 적용 review
-- [[endodontics/kwak-2024-endodontic-treatment-cracked-tooth-management]] — Kwak: endo 결정의 보수적 입장 (unnecessary endo 회피)
+- [[endodontics/diagnosis/kwak-2024-endodontic-treatment-cracked-tooth-management]] — Kwak: endo 결정의 보수적 입장 (unnecessary endo 회피)
 
 ### 인접 카테고리
 - [[endodontics/]] — endo 결정·세정·해부 일반 cluster

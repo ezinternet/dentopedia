@@ -5,8 +5,8 @@ category: overviews
 evidence_level: synthesis
 tags: [saliva, salivary-gland, salivary-diagnostics, salivaomics, liquid-biopsy, xerostomia, hyposalivation, AQP5, GPCR, semaglutide, GLP-1, Sjogren, biomarkers]
 source_wiki:
-  - wiki/oral-medicine/nonaka-2023-saliva-diagnostics-salivaomics-exosomics-liquid-biopsy.md
-  - wiki/oral-medicine/li-2024-salivary-diagnostics-opportunities-challenges.md
+  - wiki/oral-medicine/salivary-chemosensory/nonaka-2023-saliva-diagnostics-salivaomics-exosomics-liquid-biopsy.md
+  - wiki/oral-medicine/salivary-chemosensory/li-2024-salivary-diagnostics-opportunities-challenges.md
   - wiki/oral-medicine/kim-2023-xerostomia-cellular-targets.md
   - wiki/drug/systemic-disease/mawardi-2023-semaglutide-associated-hyposalivation-case-series.md
   - wiki/oral-medicine/poudel-2026-xerostomia-dental-treatment-outcomes-sr.md

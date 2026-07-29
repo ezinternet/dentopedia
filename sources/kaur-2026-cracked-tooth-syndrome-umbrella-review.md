@@ -85,7 +85,7 @@ Research question (PICO): P=CTS 환자(치아 위치·crack 깊이·치수 상�
 
 ## 6. Related Work
 - [[cracked-tooth/jkda-2024-62-1-003]] — 진단 한계 (한국 review)
-- [[endodontics/kwak-2024-endodontic-treatment-cracked-tooth-management]] — 한국 endo 결정 review
+- [[endodontics/diagnosis/kwak-2024-endodontic-treatment-cracked-tooth-management]] — 한국 endo 결정 review
 - [[cracked-tooth/li-2021-cracked-tooth-syndrome-etiology-review]] — 종합 review
 - [[cracked-tooth/ferracane-2023-cracked-tooth-registry-3year-network]] — 3-year cohort
 - [[cracked-tooth/kaur-2026-cracked-tooth-syndrome-umbrella-protocol]] — protocol (별도 stem, DOI 10.1186/s13643-025-03048-y — 본 리뷰의 pre-registration protocol paper)

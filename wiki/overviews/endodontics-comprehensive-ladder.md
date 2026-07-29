@@ -111,7 +111,7 @@ AAPD 2025가 비가역 치수염에도 VPT 고려를 허용하고, 유치는 MTA
 
 | Spine paper | Evidence | Key finding |
 |---|---|---|
-| [[endodontics/kwak-2024-endodontic-treatment-cracked-tooth-management]] | narrative-review (KDA, 한국어) | Cracked tooth endo 적응증·시점. 불필요한 endo 회피 |
+| [[endodontics/diagnosis/kwak-2024-endodontic-treatment-cracked-tooth-management]] | narrative-review (KDA, 한국어) | Cracked tooth endo 적응증·시점. 불필요한 endo 회피 |
 
 **임상 ladder (cracked tooth)**:
 1. **Craze line (외부만)** → 관찰 + 교합 조정.

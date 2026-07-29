@@ -15,7 +15,7 @@ text_filename: li-2024-salivary-diagnostics-opportunities-challenges.txt
 
 ## Why Ingested
 
-같은 배치의 [[oral-medicine/nonaka-2023-saliva-diagnostics-salivaomics-exosomics-liquid-biopsy]]가 침 진단의 *프레임워크*(3-pillar)와 EFIRM 플랫폼을 다룬다면, 이 Theranostics 리뷰(2024)는 바이오마커 카탈로그(단백질·핵산·EV·대사체·호르몬)와 검출 시스템(바이오센서·마이크로플루이딕·웨어러블 구강 기기), 그리고 표준화 과제를 폭넓게 정리해 그 프레임워크를 *보강*한다. 침 바이오마커 overview 작성 시 두 리뷰가 anchor 쌍이 된다.
+같은 배치의 [[oral-medicine/salivary-chemosensory/nonaka-2023-saliva-diagnostics-salivaomics-exosomics-liquid-biopsy]]가 침 진단의 *프레임워크*(3-pillar)와 EFIRM 플랫폼을 다룬다면, 이 Theranostics 리뷰(2024)는 바이오마커 카탈로그(단백질·핵산·EV·대사체·호르몬)와 검출 시스템(바이오센서·마이크로플루이딕·웨어러블 구강 기기), 그리고 표준화 과제를 폭넓게 정리해 그 프레임워크를 *보강*한다. 침 바이오마커 overview 작성 시 두 리뷰가 anchor 쌍이 된다.
 
 ## Three-line Summary
 
@@ -72,7 +72,7 @@ Narrative comprehensive review structured around three axes: (1) saliva componen
 
 ## 6. Related Work
 
-- [[oral-medicine/nonaka-2023-saliva-diagnostics-salivaomics-exosomics-liquid-biopsy]] — companion framework review (salivaomics/exosomics/liquid biopsy + EFIRM); this paper broadens the biomarker catalog and detection-hardware survey.
+- [[oral-medicine/salivary-chemosensory/nonaka-2023-saliva-diagnostics-salivaomics-exosomics-liquid-biopsy]] — companion framework review (salivaomics/exosomics/liquid biopsy + EFIRM); this paper broadens the biomarker catalog and detection-hardware survey.
 - [[oral-medicine/salivary-chemosensory/tsuchiya-2023-covid-19-oral-sequelae-gustatory-saliva]] — saliva in COVID-19 context.
 - [[oral-medicine/salivary-chemosensory/poudel-2026-xerostomia-dental-treatment-outcomes-sr]] — salivary flow/quantity axis.
 

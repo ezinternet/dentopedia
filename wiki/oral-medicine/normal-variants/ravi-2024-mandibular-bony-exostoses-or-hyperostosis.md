@@ -5,7 +5,7 @@ year: 2024
 date: 2024-11-03
 doi: 10.7759/cureus.72941
 source: ravi-2024-mandibular-bony-exostoses-or-hyperostosis.md
-category: [oral-medicine]
+category: [oral-medicine/normal-variants]
 evidence_level: case-report
 source_collection: pubmed-text
 text_path: /Users/oracleneo/llm-wiki/papers/ravi-2024-mandibular-bony-exostoses-or-hyperostosis.txt

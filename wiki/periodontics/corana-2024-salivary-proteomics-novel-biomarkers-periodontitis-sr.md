@@ -71,5 +71,5 @@ Diagnosis of periodontitis still rests on probing and radiographs, which record 
 - [[periodontics/non-surgical-instrumentation/donertas-2026-gbt-subgingival-debridement-gcf-biomarkers]] — reinforces: treatment-responsive GCF biomarkers (Corana notes only 2/13 salivary studies tracked pre/post-therapy change).
 - [[overviews/gingival-crevicular-fluid-biomarker-diagnostics-overview]] — reinforces: GCF-side synthesis; saliva is the whole-mouth counterpart medium.
 - [[overviews/saliva-diagnostics-and-salivary-gland-dysfunction-overview]] — extends: fills the periodontal-diagnosis branch of the saliva-diagnostics overview.
-- [[oral-medicine/li-2024-salivary-diagnostics-opportunities-challenges]] — reinforces: general salivary-diagnostics opportunities/challenges framing, here made concrete for periodontitis.
-- [[oral-medicine/nonaka-2023-saliva-diagnostics-salivaomics-exosomics-liquid-biopsy]] — reinforces: salivaomics/liquid-biopsy paradigm underlying proteomic discovery.
+- [[oral-medicine/salivary-chemosensory/li-2024-salivary-diagnostics-opportunities-challenges]] — reinforces: general salivary-diagnostics opportunities/challenges framing, here made concrete for periodontitis.
+- [[oral-medicine/salivary-chemosensory/nonaka-2023-saliva-diagnostics-salivaomics-exosomics-liquid-biopsy]] — reinforces: salivaomics/liquid-biopsy paradigm underlying proteomic discovery.

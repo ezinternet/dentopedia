@@ -5,7 +5,7 @@ year: 2025
 date: 2025-12-09
 doi: 10.4103/JCDE.JCDE_691_25
 source: gowda-2025-guided-tissue-regeneration-surgical-endodontic-outcome-umbrella.md
-category: [endodontics]
+category: [endodontics/regenerative]
 evidence_level: sr+ma
 text_path: /Users/oracleneo/llm-wiki/papers/gowda-2025-guided-tissue-regeneration-surgical-endodontic-outcome-umbrella.txt
 text_filename: gowda-2025-guided-tissue-regeneration-surgical-endodontic-outcome-umbrella.txt

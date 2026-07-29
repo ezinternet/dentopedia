@@ -79,4 +79,4 @@ Only 3 CCTs included in quantitative analysis; 0 RCTs available.
 - [[immediate-implant/infected-socket/saijeva-2020-immediate-implant-placement-non-infected-sockets]] — 2020 extension with 9 studies, time-stratified analysis
 - [[immediate-implant/infected-socket/pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma]] — 2024 SR+MA, most comprehensive update
 - [[immediate-implant/infected-socket/almugeiren-2024-placement-immediate-dental-implants-extraction]] — 2024 MA with OR data for apical pathosis
-- [[immediate-implant/tabrizi-2020-dental-implant-survival-postoperative-infection]] — postoperative acute infection failure risk
+- [[immediate-implant/infected-socket/tabrizi-2020-dental-implant-survival-postoperative-infection]] — postoperative acute infection failure risk

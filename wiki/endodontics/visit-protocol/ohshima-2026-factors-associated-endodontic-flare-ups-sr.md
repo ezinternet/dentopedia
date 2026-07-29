@@ -13,7 +13,7 @@ authors:
 year: 2026
 doi: "10.1111/iej.70164"
 source: pubmed
-category: endodontics
+category: [endodontics/visit-protocol]
 evidence_level: sr+ma
 source_collection: pubmed-abstract
 date: 2026-04-23

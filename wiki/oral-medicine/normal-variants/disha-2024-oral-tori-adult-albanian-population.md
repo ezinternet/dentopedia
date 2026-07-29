@@ -5,7 +5,7 @@ year: 2024
 date: 2024-07-30
 doi: 10.3390/dj12080242
 source: disha-2024-oral-tori-adult-albanian-population.md
-category: [oral-medicine]
+category: [oral-medicine/normal-variants]
 evidence_level: cross-sectional
 source_collection: pubmed-text
 text_path: /Users/oracleneo/llm-wiki/papers/disha-2024-oral-tori-adult-albanian-population.txt
@@ -58,4 +58,4 @@ Single-center, single-examiner cross-sectional clinical study (Diamond Dental Ho
 
 ## Related Papers
 
-- [[oral-medicine/ravi-2024-mandibular-bony-exostoses-or-hyperostosis]] — case report of a lingual mandibular bony exostosis; this prevalence study contextualizes that presentation as common rather than rare, and provides population-level shape/pattern norms (e.g., bilateral solitary TM as the most frequent pattern) against which an individual case can be compared.
+- [[oral-medicine/normal-variants/ravi-2024-mandibular-bony-exostoses-or-hyperostosis]] — case report of a lingual mandibular bony exostosis; this prevalence study contextualizes that presentation as common rather than rare, and provides population-level shape/pattern norms (e.g., bilateral solitary TM as the most frequent pattern) against which an individual case can be compared.

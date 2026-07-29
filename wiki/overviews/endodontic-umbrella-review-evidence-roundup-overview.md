@@ -26,7 +26,7 @@ source_wiki:
   - wiki/endodontics/vpt/lopes-2021-vital-nonvital-pulp-therapy-primary-dentition-umbrella.md
   - wiki/endodontics/vpt/mtalsi-2026-pulpotomy-symptomatic-irreversible-pulpitis-mature-umbrella.md
   - wiki/endodontics/anatomy/puri-2024-guided-endodontics-treatment-success-umbrella.md
-  - wiki/endodontics/gowda-2025-guided-tissue-regeneration-surgical-endodontic-outcome-umbrella.md
+  - wiki/endodontics/regenerative/gowda-2025-guided-tissue-regeneration-surgical-endodontic-outcome-umbrella.md
 relations:
   - type: extends
     target: endodontic-postoperative-pain-overview
@@ -131,7 +131,7 @@ Narrative roundup (no new pooling). Base: 13 umbrella reviews + 1 case-control h
 - [[endodontics/shaping/swaminathan-2025-rotary-instrumentation-primary-teeth-cleaning-pain-umbrella]] — rotary primary pulpectomy: better fill, less early pain
 - [[endodontics/vpt/mtalsi-2026-pulpotomy-symptomatic-irreversible-pulpitis-mature-umbrella]] — mature-tooth pulpotomy: Biodentine/MTA/CEM > CH, long-term decline
 - [[endodontics/anatomy/puri-2024-guided-endodontics-treatment-success-umbrella]] — guided endodontics >95% accurate, case-series-based
-- [[endodontics/gowda-2025-guided-tissue-regeneration-surgical-endodontic-outcome-umbrella]] — GTR membrane+graft combos top surgical-endo ranking
+- [[endodontics/regenerative/gowda-2025-guided-tissue-regeneration-surgical-endodontic-outcome-umbrella]] — GTR membrane+graft combos top surgical-endo ranking
 
 ## Related Overviews
 
