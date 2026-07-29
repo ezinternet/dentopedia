@@ -14,6 +14,7 @@ tags: [methylprednisolone, third-molar, injection-route, masseter, trismus, edem
 relations:
   - type: reinforces
     target: larsen-2021-methylprednisolone-doses-split-mouth-rct
+synthesized_in: overviews/drug-analgesics-postop-pain-overview
 ---
 
 ## One-line Summary
