@@ -37,6 +37,10 @@ source_papers:
   - drug/analgesics/gholami-2021-methylprednisolone-masseter-gluteal-third-molar-rct
   - drug/analgesics/ibikunle-2016-prednisolone-qol-third-molar-rct
   - drug/analgesics/buyukkurt-2006-prednisolone-diclofenac-third-molar-rct
+  - drug/analgesics/bakri-2024-prednisolone-prescribing-styles-third-molar
+  - drug/analgesics/dan-2010-corticosteroid-administration-oral-orthognathic-surgery
+  - drug/analgesics/almeida-2019-efficacy-corticosteroids-versus-placebo-impacted
+  - drug/analgesics/markiewicz-2008-corticosteroids-reduce-postoperative-morbidity-after-third-molar-surgery
 evidence_level: synthesis
 source: synthesis
 agenda: agenda/2026-05-27_drug-overview-split.md
@@ -61,12 +65,14 @@ relations:
 > - 이상반응(Adverse Event, AE)에서 NSAID를 "위험"으로 내리지 말 것 — 제3대구치 단회 NSAID 단독이 SUCRA 안전성 최하위지만 **위약이 2위**라 노세보(nocebo, 부정적 기대) 효과가 주된 기전; AE는 경미·일시적 오심 수준(Magesty 2026 NMA, 28 RCT n=5,306, 확실성 매우 낮음~낮음). 효능 우위가 단회 AE를 압도 → NSAID 1차 유지.
 > - NSAID 안전성: 급성신손상(Acute Kidney Injury, AKI) 독립 위험(OR 1.98, Gomes 2025) → eGFR<60·고령·이뇨제 병용 시 회피하고 APAP 단독으로. 위장관 위험은 단기(≤7일) 사용에선 일반인구 무시 가능.
 > - 임플란트 환자에선 선택적 COX-2 억제제(Celecoxib·etoricoxib)가 골유착 저해 가능성 → 회피, 비선택적 Ibuprofen·Naproxen 단기는 안전(Etikala 2019, 근거 약함).
+> - **코르티코스테로이드 전체 증거 계층 (추가 4편)**: Markiewicz 2008 SR+MA(12 RCT)에서 코르티코스테로이드(Corticosteroid)는 부종(SMD 1.4 early, 1.1 late) 및 개구제한(WMD 4.1mm early, 2.7mm late) 유의 감소, 그러나 통증은 비유의(WMD 0.4–0.5 VAS). Almeida 2019 SR+MA(17편, 10 pooled)에서 동일 패턴 확인 — 통증(MD −17.38, p=0.002)·개구제한(MD 6.10, p<0.0001) 유의, 단 점막하 경로가 trismus에서 타 경로 대비 우월. Dan 2010 SR+MA는 구강외과·악교정술 포괄: 부종·통증 유의 감소(p<0.001), 감염 위험 증가 없음(RR 1.004). 결론: 코르티코스테로이드의 항부종·개구제한 효과는 다중 SR+MA에서 일관, 통증 효과는 이질적 — 통증 감소 기대로 단독 처방하는 것은 근거 부족.
+> - **프레드니솔론(Prednisolone) 용량 패턴**: Bakri 2024 RCT(n=15, split-mouth)에서 3일 테이퍼(5mg tid→bid→qd) > 단회 25mg — 개구량·부종 유의 개선, 통증은 무차이. 단회 고용량보다 3일 테이퍼가 부종·trismus 조절에 유리하다는 실마리(단 n=15, 위약군 없음으로 근거 약함).
 > - 처치별 매트릭스: 단순발치·매복치는 Opioid X + Ibuprofen/APAP alternate, 임플란트·치주는 술전 preemptive 추가, 근관치료(술전 통증)는 Ibuprofen 600 기반 + Diclofenac K 대안.
 > - 한국 임상은 미국 대비 opioid 처방 낮으나(Tramadol 정도) Tramadol도 Network MA에서 위약 동등이라 처방 정당화 어려움 — ADA opioid-sparing 원칙 동일 적용.
 
 ## Three-line Summary
 
-Synthesis of 24 papers (5 network MA, 4 SR+MA, 1 SR, 2 Cochrane overviews, 6 RCTs, 6 narrative) on postoperative dental pain management: combined ibuprofen 400 mg + acetaminophen 1000 mg is first-line with the lowest NNT ≈1.5 (Miroshnychenko 2023 network MA, 82 RCTs n=9,095; Moore 2015 Cochrane overview); opioids are not superior (hydrocodone+APAP inferior to ibuprofen+APAP at every timepoint in n=1,815 RCT; tramadol equals placebo) — ADA opioid-sparing principle; alternate dosing reduces rescue need to 15% vs 53% for concurrent (Gaballah 2025 RCT, p=0.002).
+Synthesis of 28 papers (5 network MA, 6 SR+MA, 1 SR, 2 Cochrane overviews, 7 RCTs, 7 narrative/review) on postoperative dental pain management: combined ibuprofen 400 mg + acetaminophen 1000 mg is first-line with the lowest NNT ≈1.5 (Miroshnychenko 2023 network MA, 82 RCTs n=9,095; Moore 2015 Cochrane overview); opioids are not superior (hydrocodone+APAP inferior to ibuprofen+APAP at every timepoint in n=1,815 RCT; tramadol equals placebo) — ADA opioid-sparing principle; alternate dosing reduces rescue need to 15% vs 53% for concurrent (Gaballah 2025 RCT, p=0.002).
 
 Preemptive NSAIDs do not help for impacted third molars (Costa 2015 meta, p=0.22) but benefit implant/periodontal surgery (Gousias 2025 SR+MA); a single preoperative dexamethasone 4 mg IM clearly improves third-molar pain/swelling/trismus (Tamgadge 2025 split-mouth RCT, day-7 VAS 0.4 vs 1.6, p<0.001); endodontic analgesia is time-dependent — diclofenac+APAP or ketorolac dominate at 6–8 h (MD −6.28; SMD −0.82, rescue RR 0.50) but fade by 24 h, where naproxen/Novafen sustain (Kelidari 2026 NMA; Ping 2026 SR+MA).
 
