@@ -4,7 +4,7 @@ type: agenda
 date: 2026-06-03
 status: draft
 source_wiki:
-  - wiki/implants/herrera-2023-prevention-treatment-peri-implant-efp.md
+  - wiki/implants/peri-implantitis/herrera-2023-prevention-treatment-peri-implant-efp.md
   - wiki/tmj/singh-2024-occlusal-interventions-tmd-cochrane-sr.md
   - wiki/caries/schmidt-2024-root-caries-restorative-adhesive-nma.md
   - wiki/radiology/kang-2024-national-dental-radiological-dose-management.md

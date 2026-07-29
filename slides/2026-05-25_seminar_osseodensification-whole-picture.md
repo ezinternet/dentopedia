@@ -7,7 +7,7 @@ audience: 임플란트 세미나 (동료 임상의)
 duration: 25–30분
 source_wiki:
   - wiki/overviews/osseodensification-clinical-applications.md
-  - wiki/implants/fontes-pereira-2023-osseodensification-osteotomy-alternative-sr.md
+  - wiki/implants/osseodensification/fontes-pereira-2023-osseodensification-osteotomy-alternative-sr.md
   - wiki/implants/huwais-2016-osseous-densification-novel-osteotomy-approach.md
   - wiki/sinus-lift/transcrestal/starch-jensen-2025-transcrestal-sinus-osseodensification-meta-analysis.md
 agenda: agenda/2026-05-25_osseodensification-whole-picture.md
