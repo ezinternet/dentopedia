@@ -11,6 +11,7 @@ pdf_path: /Users/oracleneo/llm-wiki/papers/ibikunle-2016-prednisolone-qol-third-
 pdf_filename: ibikunle-2016-prednisolone-qol-third-molar-rct.pdf
 source_collection: external
 tags: [prednisolone, third-molar, QoL, OHIP-14, submucosal, oral-administration]
+synthesized_in: overviews/drug-analgesics-postop-pain-overview
 ---
 
 ## One-line Summary
