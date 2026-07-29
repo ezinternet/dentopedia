@@ -5,7 +5,7 @@ year: 2021
 date: 2020-12-01
 doi: 10.1111/jcpe.13409
 source: stavropoulos-2021-periodontal-regeneration-intrabony-nma.md
-category: [periodontics]
+category: [periodontics/host-modulation]
 evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/stavropoulos-2021-periodontal-regeneration-intrabony-nma.pdf
 pdf_filename: stavropoulos-2021-periodontal-regeneration-intrabony-nma.pdf

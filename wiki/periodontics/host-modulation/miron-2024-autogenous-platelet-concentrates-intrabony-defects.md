@@ -5,7 +5,7 @@ year: 2024
 date: 2024-10-17
 doi: 10.1111/prd.12598
 source: miron-2024-autogenous-platelet-concentrates-intrabony-defects.md
-category: periodontics
+category: [periodontics/host-modulation]
 evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
@@ -92,7 +92,7 @@ The central messages: (1) as an adjunct to open flap debridement (OFD), PRF prod
 
 ## Related Papers
 
-- [[periodontics/stavropoulos-2021-periodontal-regeneration-intrabony-nma]] — reinforces: 30-RCT network meta-analysis of intrabony-defect regeneration; PRF here is the autogenous analogue whose OFD-adjunct MDs align with that CPG-grade evidence base.
-- [[periodontics/sherif-2025-iprf-vitamin-c-nonsurgical-periodontitis]] — a single iPRF RCT for which this SR+MA supplies the umbrella-level PRF context.
-- [[periodontics/miron-2024-prf-furcation-defects-sr-ma]] — reinforces: sibling PRF SR+MA extending the indication to furcation defects.
+- [[periodontics/host-modulation/stavropoulos-2021-periodontal-regeneration-intrabony-nma]] — reinforces: 30-RCT network meta-analysis of intrabony-defect regeneration; PRF here is the autogenous analogue whose OFD-adjunct MDs align with that CPG-grade evidence base.
+- [[periodontics/non-surgical-instrumentation/sherif-2025-iprf-vitamin-c-nonsurgical-periodontitis]] — a single iPRF RCT for which this SR+MA supplies the umbrella-level PRF context.
+- [[periodontics/host-modulation/miron-2024-prf-furcation-defects-sr-ma]] — reinforces: sibling PRF SR+MA extending the indication to furcation defects.
 - [[periodontics/barootchi-2024-autologous-platelet-concentrates-root-coverage]] — reinforces: sibling PRF/APC SR+MA extending the indication to root coverage.

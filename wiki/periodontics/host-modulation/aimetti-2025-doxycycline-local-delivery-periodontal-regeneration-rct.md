@@ -5,7 +5,7 @@ year: 2025
 date: 2025-01-01
 doi: 10.1111/jre.13389
 source: aimetti-2025-doxycycline-local-delivery-periodontal-regeneration-rct.md
-category: [periodontics]
+category: [periodontics/host-modulation]
 evidence_level: rct
 source_collection: pubmed-text
 full_text: true
@@ -111,7 +111,7 @@ Multivariate regression identified four independent predictors of CAL gain: trea
 
 ## Related Papers
 
-- [[periodontics/stavropoulos-2021-periodontal-regeneration-intrabony-nma]] — Network meta-analysis establishing EMD ± graft as leading regenerative approach; BOOST extends these average results with pre-surgical optimization
+- [[periodontics/host-modulation/stavropoulos-2021-periodontal-regeneration-intrabony-nma]] — Network meta-analysis establishing EMD ± graft as leading regenerative approach; BOOST extends these average results with pre-surgical optimization
 - [[periodontics/sanz-2020-treatment-stage-i-iii-periodontitis-efp]] — EFP guideline underpinning the MIST + EMD indication (step 3 therapy)
 - [[periodontics/herrera-2022-treatment-stage-iv-periodontitis-efp]] — EFP guideline for stage IV periodontitis (target population of this RCT)
 - [[periodontics/non-surgical-instrumentation/khattri-2020-adjunctive-systemic-antimicrobials-non-surgical-treatment]] — Adjunctive antimicrobials in non-surgical therapy; BOOST refines the delivery route (local) and optimal timing (pre-surgical, not during step 2)

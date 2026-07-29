@@ -5,7 +5,7 @@ year: 2025
 date: 2025-01-01
 doi: 10.1371/journal.pone.0333342
 source: milinkovic-2025-local-systemic-antibiotics-periodontal-rct.md
-category: [periodontics]
+category: [periodontics/host-modulation]
 evidence_level: rct
 source_collection: pubmed-text
 full_text: true
@@ -90,4 +90,4 @@ Within-group: p<0.001 for all parameters. Between-group: p>0.05 (no significant 
 - [[periodontics/non-surgical-instrumentation/ramanauskaite-2020-antiseptics-adjuncts-scaling-root-planing]] — this paper extends local adjunct evidence from antiseptics to locally delivered antibiotics
 - [[periodontics/non-surgical-instrumentation/smiley-2015-nonsurgical-periodontitis-srp-guideline]] — foundational NSPT guideline context for adjunctive strategies
 - [[periodontics/herrera-2022-treatment-stage-iv-periodontitis-efp]] — EFP 2022 staging/grading framework used for patient classification; provides systemic antibiotic restriction context
-- [[periodontics/barahim-2024-ozone-gel-srp-diabetic-periodontitis-rct]] — parallel local adjunct RCT paradigm (ozone vs adjunct); contrasts with antibiotic approach
+- [[periodontics/non-surgical-instrumentation/barahim-2024-ozone-gel-srp-diabetic-periodontitis-rct]] — parallel local adjunct RCT paradigm (ozone vs adjunct); contrasts with antibiotic approach

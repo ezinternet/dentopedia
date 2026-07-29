@@ -5,7 +5,7 @@ year: 2024
 date: 2024-01-01
 doi: 10.1111/prd.12583
 source: miron-2024-prf-furcation-defects-sr-ma.md
-category: periodontics
+category: [periodontics/host-modulation]
 evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
@@ -89,8 +89,8 @@ The bottom line is threefold. **Adding PRF works**: PRF on top of open flap debr
 
 ## Related Papers
 
-- [[periodontics/stavropoulos-2021-periodontal-regeneration-intrabony-nma]] — companion indication: NMA ranking biologics/grafts/membranes for **intrabony** defects; this paper covers the **furcation** indication that NMA leaves open.
+- [[periodontics/host-modulation/stavropoulos-2021-periodontal-regeneration-intrabony-nma]] — companion indication: NMA ranking biologics/grafts/membranes for **intrabony** defects; this paper covers the **furcation** indication that NMA leaves open.
 - [[periodontics/nibali-2016-tooth-loss-furcation-involvement-sr-ma]] — prognostic counterpart: furcation-involved molars lose teeth faster; this SR shows which adjuncts move class II furcations toward closure.
-- [[periodontics/aimetti-2025-doxycycline-local-delivery-periodontal-regeneration-rct]] — related: adjunctive local biomolecule delivery in periodontal regeneration, echoing Group 3's "PRF as drug carrier" finding.
-- [[periodontics/miron-2024-autogenous-platelet-concentrates-intrabony-defects]] — reinforces: same group's autologous-platelet-concentrate SR/MA for the intrabony indication.
+- [[periodontics/host-modulation/aimetti-2025-doxycycline-local-delivery-periodontal-regeneration-rct]] — related: adjunctive local biomolecule delivery in periodontal regeneration, echoing Group 3's "PRF as drug carrier" finding.
+- [[periodontics/host-modulation/miron-2024-autogenous-platelet-concentrates-intrabony-defects]] — reinforces: same group's autologous-platelet-concentrate SR/MA for the intrabony indication.
 - [[periodontics/barootchi-2024-autologous-platelet-concentrates-root-coverage]] — reinforces: sibling platelet-concentrate SR/MA for the root-coverage indication.

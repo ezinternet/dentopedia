@@ -5,7 +5,7 @@ year: 2026
 date: 2026-06-03
 doi: 10.4103/njms.njms_55_25
 source: parihar-2026-dfdba-prf-membrane-intrabony-defects-rct.md
-category: [periodontics]
+category: [periodontics/host-modulation]
 evidence_level: rct
 source_collection: pubmed-text
 pmid: "42422776"
@@ -69,6 +69,6 @@ This split-mouth, double-blinded RCT (15 patients, Stage III/IV Grade B/C period
 
 ## Related Papers
 
-- [[periodontics/miron-2024-autogenous-platelet-concentrates-intrabony-defects]] — 55-RCT SR+MA: adding PRF to a bone graft produces further significant PPD/CAL/RBF gains over graft alone; this trial is a DFDBA-specific confirmation of that pooled Group IV finding, with individually reported effect sizes.
-- [[periodontics/miron-2024-prf-furcation-defects-sr-ma]] — companion PRF SR+MA in furcation defects (same evidence family, PRF as adjunct to OFD/graft).
-- [[periodontics/sherif-2025-iprf-vitamin-c-nonsurgical-periodontitis]] — contrasting context: injectable PRF (iPRF) added to nonsurgical PMPR (no regenerative surgery) showed no added clinical benefit over PMPR alone, delineating where PRF's regenerative value does and does not apply — surgical/graft-adjunct setting (this paper) vs nonsurgical adjunct setting (no benefit).
+- [[periodontics/host-modulation/miron-2024-autogenous-platelet-concentrates-intrabony-defects]] — 55-RCT SR+MA: adding PRF to a bone graft produces further significant PPD/CAL/RBF gains over graft alone; this trial is a DFDBA-specific confirmation of that pooled Group IV finding, with individually reported effect sizes.
+- [[periodontics/host-modulation/miron-2024-prf-furcation-defects-sr-ma]] — companion PRF SR+MA in furcation defects (same evidence family, PRF as adjunct to OFD/graft).
+- [[periodontics/non-surgical-instrumentation/sherif-2025-iprf-vitamin-c-nonsurgical-periodontitis]] — contrasting context: injectable PRF (iPRF) added to nonsurgical PMPR (no regenerative surgery) showed no added clinical benefit over PMPR alone, delineating where PRF's regenerative value does and does not apply — surgical/graft-adjunct setting (this paper) vs nonsurgical adjunct setting (no benefit).
