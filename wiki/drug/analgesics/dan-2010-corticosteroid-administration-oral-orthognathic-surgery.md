@@ -15,6 +15,7 @@ tags: [corticosteroid, methylprednisolone, edema, postoperative-pain, oral-surge
 relations:
   - type: reinforces
     target: tamgadge-2025-preoperative-dexamethasone-third-molar-pain-swelling-trismus
+synthesized_in: overviews/drug-analgesics-postop-pain-overview
 ---
 
 abstract-only — full text not retrieved (paywalled joms.org/Elsevier abstract landing page saved to PDF; no Methods/Results/Discussion body or tables retrievable)
