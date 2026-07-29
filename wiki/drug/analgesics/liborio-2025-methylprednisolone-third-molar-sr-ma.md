@@ -16,6 +16,7 @@ relations:
     target: markiewicz-2008-corticosteroids-reduce-postoperative-morbidity-after-third-molar-surgery
   - type: reinforces
     target: singh-2023-dexamethasone-vs-methylprednisolone-third-molar-sr-ma
+synthesized_in: overviews/drug-analgesics-postop-pain-overview
 ---
 
 ## One-line Summary
