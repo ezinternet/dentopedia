@@ -49,5 +49,5 @@ PRISMA SR, 6 databases; 596 → 189 screened → 12 controlled trials. PROMs, su
 
 ## Related Papers
 - [[implants/surface/mohseni-2024-clinical-outcomes-zirconia-implants]] — reinforces (survival/MBL side of same intervention)
-- [[implants/pieralli-2017-clinical-outcomes-zirconia-dental-implants]] — reinforces (early zirconia implant outcomes)
+- [[implants/surface/pieralli-2017-clinical-outcomes-zirconia-dental-implants]] — reinforces (early zirconia implant outcomes)
 - [[behavioral-dentistry/patient-reported-outcomes/arunyanak-2024-patient-related-outcomes-experience-periodontics]] — reinforces (PROM methodology in implant/perio context)

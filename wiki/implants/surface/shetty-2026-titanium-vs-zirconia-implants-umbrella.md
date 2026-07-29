@@ -57,5 +57,5 @@ PRISMA-guided overview of reviews, PICOS-defined (adults, ≥2 implants, Ti vs Z
 
 ## Related Papers
 - [[implants/surface/mohseni-2024-clinical-outcomes-zirconia-implants]] — contradicts (material-level "Ti > Zr" conclusion here is undercut by Mohseni's design-stratified finding that one-piece, non-drill-prepared zirconia matches titanium at 10 years; Mohseni's SR+MA is larger, more recent, and higher evidence weight)
-- [[implants/pieralli-2017-clinical-outcomes-zirconia-dental-implants]] — earlier zirconia-only anchor SR, not included as a source SR in this umbrella review
+- [[implants/surface/pieralli-2017-clinical-outcomes-zirconia-dental-implants]] — earlier zirconia-only anchor SR, not included as a source SR in this umbrella review
 - [[overviews/zirconia-implant-clinical-outcomes]] — sibling synthesis covering zirconia implant survival/MBL/PROM in isolation; this paper adds the head-to-head titanium comparison axis

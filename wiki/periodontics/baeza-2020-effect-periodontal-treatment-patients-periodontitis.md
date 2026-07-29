@@ -59,5 +59,5 @@ This PRISMA-compliant systematic review and meta-analysis evaluated whether conv
 
 ## Related Papers
 
-- [[periodontics/meng-2024-nspt-cardiovascular-risk-markers-sr-ma]] — reinforces; both SR+MA show non-surgical periodontal therapy improves systemic inflammatory/cardiovascular risk markers (this paper adds the diabetes/HbA1c dimension via CRP).
+- [[periodontics/non-surgical-instrumentation/meng-2024-nspt-cardiovascular-risk-markers-sr-ma]] — reinforces; both SR+MA show non-surgical periodontal therapy improves systemic inflammatory/cardiovascular risk markers (this paper adds the diabetes/HbA1c dimension via CRP).
 - [[periodontics/non-surgical-instrumentation/smiley-2015-nonsurgical-periodontitis-srp-guideline]] — extends; establishes SRP efficacy on periodontal endpoints, which this review links to systemic (glycemic and inflammatory) outcomes.

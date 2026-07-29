@@ -6,7 +6,7 @@ date: 2026-06-07
 evidence_level: synthesis
 source_papers:
   - wiki/implants/surface/mohseni-2024-clinical-outcomes-zirconia-implants.md
-  - wiki/implants/pieralli-2017-clinical-outcomes-zirconia-dental-implants.md
+  - wiki/implants/surface/pieralli-2017-clinical-outcomes-zirconia-dental-implants.md
   - wiki/behavioral-dentistry/patient-reported-outcomes/arefnia-2025-patient-reported-outcomes-zirconia-implant.md
   - wiki/implants/surface/shetty-2026-titanium-vs-zirconia-implants-umbrella.md
 tags: [zirconia-implant, survival, marginal-bone-loss, PROM, synthesis]
@@ -110,9 +110,9 @@ The first split-mouth RCT comparing peri-implant microbiome evolution on zirconi
 
 ## Related Papers
 - [[implants/surface/mohseni-2024-clinical-outcomes-zirconia-implants]] — largest survival/MBL SR+MA, 10-yr CSR
-- [[implants/pieralli-2017-clinical-outcomes-zirconia-dental-implants]] — early high-quality anchor (partially superseded)
+- [[implants/surface/pieralli-2017-clinical-outcomes-zirconia-dental-implants]] — early high-quality anchor (partially superseded)
 - [[behavioral-dentistry/patient-reported-outcomes/arefnia-2025-patient-reported-outcomes-zirconia-implant]] — PRO side
-- [[implants/kniha-2026-zirconia-titanium-microbial-anterior-rct]] — split-mouth RCT (n=20, 12mo, 16S rRNA): zirconia higher alpha diversity and fewer pathogenic taxa at 12mo; beta diversity NS; exploratory microbiome baseline
+- [[implants/surface/kniha-2026-zirconia-titanium-microbial-anterior-rct]] — split-mouth RCT (n=20, 12mo, 16S rRNA): zirconia higher alpha diversity and fewer pathogenic taxa at 12mo; beta diversity NS; exploratory microbiome baseline
 - [[implants/surface/shetty-2026-titanium-vs-zirconia-implants-umbrella]] — umbrella review (SR 6편, 2014–2023): direct Ti-vs-Zr comparison, survival/success favor Ti but not design-stratified — contradicts Mohseni 2024's design-controlled equivalence finding
 - [[overviews/implants-clinical-decision-ladder]] — implant decision framework
 - [[overviews/zirconia-material-clinical-overview]] — sibling overview: zirconia **as a restorative material** (material science, LTD, survival of crowns/FPDs) — distinct from this fixture-focused page

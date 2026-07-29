@@ -15,7 +15,7 @@ text_filename: demolon-2026-periodontitis-bone-loss-signaling-pathways.txt
 
 ## Why Ingested
 
-치주 위키에는 임상·술식·재생 근거는 풍부하지만 치주인대·백악질·치조골 파괴의 **분자 신호전달 메커니즘** 전반을 다루는 페이지가 없었다. 이 2026년 Bone Research 리뷰는 NF-κB·JAK/STAT·MAPK·PI3K/Akt 4대 경로와 파골세포 분화 전사인자(NFATc1, c-Fos, c-Src)를 망라하고 신흥 치료표적(소분자 억제제·biologics·천연화합물)을 비판적으로 평가한다. [[periodontics/liu-2019-periodontal-bone-ligament-cementum-regeneration]]의 재생공학 페이지를 분자 메커니즘 측면에서 보강하고, [[periodontics/kwon-2021-current-concepts-management-periodontitis]]의 임상 관리 근거에 기계론적 배경을 제공한다.
+치주 위키에는 임상·술식·재생 근거는 풍부하지만 치주인대·백악질·치조골 파괴의 **분자 신호전달 메커니즘** 전반을 다루는 페이지가 없었다. 이 2026년 Bone Research 리뷰는 NF-κB·JAK/STAT·MAPK·PI3K/Akt 4대 경로와 파골세포 분화 전사인자(NFATc1, c-Fos, c-Src)를 망라하고 신흥 치료표적(소분자 억제제·biologics·천연화합물)을 비판적으로 평가한다. [[periodontics/host-modulation/liu-2019-periodontal-bone-ligament-cementum-regeneration]]의 재생공학 페이지를 분자 메커니즘 측면에서 보강하고, [[periodontics/kwon-2021-current-concepts-management-periodontitis]]의 임상 관리 근거에 기계론적 배경을 제공한다.
 
 ## Three-line Summary
 

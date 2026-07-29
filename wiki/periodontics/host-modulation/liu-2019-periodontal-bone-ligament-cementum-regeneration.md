@@ -5,7 +5,7 @@ year: 2019
 date: 2019-06-04
 doi: "10.3390/cells8060537"
 source: liu-2019-periodontal-bone-ligament-cementum-regeneration.md
-category: [periodontics]
+category: [periodontics/host-modulation]
 evidence_level: sr
 pmid: "31167434"
 pmcid: "PMC6628570"
@@ -68,4 +68,4 @@ This is the first systematic review to comprehensively address simultaneous rege
 ## Related Papers
 
 - [[periodontics/host-modulation/stavropoulos-2021-periodontal-regeneration-intrabony-nma]] — clinical NMA of GTR/EMD outcomes (the clinical evidence this SR's biology supports)
-- [[periodontics/lee-2017-oxysterol-periodontal-regeneration-pdlsc-alveolar-bone]] — molecular mechanism of PDLSC osteogenic differentiation (extends)
+- [[periodontics/host-modulation/lee-2017-oxysterol-periodontal-regeneration-pdlsc-alveolar-bone]] — molecular mechanism of PDLSC osteogenic differentiation (extends)

@@ -88,7 +88,7 @@ DM 위험은 [[drug-systemic-disease-dental-management-overview]] 2절(Al-Ansari
 | [[implants/lee-2018-unilateral-mastication-bone-density-alveolus]] | clinical | 일측 저작이 골밀도 비대칭 유발 |
 | [[implants/munjal-2015-implants-low-density-bone-d3d4]] | clinical | D3–D4에서 디자인 선택 권고 |
 | [[implants/premnath-2012-stress-distribution-bone-density-fea]] | FEA | 골밀도별 stress 분포 |
-| [[implants/cosola-2020-bone-tissue-level-radiological-sr]] | sr | TL vs BL 방사선 골소실 SR |
+| [[implants/mbl/cosola-2020-bone-tissue-level-radiological-sr]] | sr | TL vs BL 방사선 골소실 SR |
 
 ### 1-C. 환자 부위·인구통계학 (Korea-specific)
 
@@ -296,7 +296,7 @@ peri-implant STD 발생 → Tavelli 2025 prevalence·apical shift 추적, 외과
 | [[implants/peri-implantitis/atieh-2025-tissue-vs-bone-level-peri-implantitis-sr-ma]] | sr-ma | TL vs BL peri-implantitis RR 0.59 trend |
 | [[implants/mbl/solderer-2025-tissue-level-implant-bone-loss-factors]] | cohort | TL bone loss 위험인자 — 자세한 분석 |
 | [[implants/survival/bonsmann-2025-risk-factors-early-implant-failure-sinus-nested]] | nested case-control | early failure 위험인자 |
-| [[implants/cosola-2020-bone-tissue-level-radiological-sr]] | sr | radiological bone loss SR |
+| [[implants/mbl/cosola-2020-bone-tissue-level-radiological-sr]] | sr | radiological bone loss SR |
 
 ### 5-C. 치료 protocol — 갱신
 
@@ -372,7 +372,7 @@ ISQ 기반 loading 결정은 [[overviews/isq-loading-threshold]] · [[overviews/
 - [[implants/lee-2018-unilateral-mastication-bone-density-alveolus]]
 - [[implants/munjal-2015-implants-low-density-bone-d3d4]]
 - [[implants/premnath-2012-stress-distribution-bone-density-fea]]
-- [[implants/cosola-2020-bone-tissue-level-radiological-sr]]
+- [[implants/mbl/cosola-2020-bone-tissue-level-radiological-sr]]
 - [[implants/park-2024-dental-implant-utilization-nhis-korea]]
 - [[implants/survival/shenoy-2025-dental-implant-failure-retrieval-techniques-scoping]]
 

@@ -125,6 +125,6 @@ BRA complication types: 4 minor chippings, 1 major chipping, 1 screw access hole
 
 - [[implants/peri-implantitis/atieh-2025-tissue-vs-bone-level-peri-implantitis-sr-ma]] — SR+MA (1–5y) tissue-level vs bone-level implants; current paper extends to 15–17y
 - [[implants/mbl/mortazavi-2021-bone-loss-tissue-bone-level-implants]] — tissue vs bone level implant bone loss comparison
-- [[implants/cosola-2020-bone-tissue-level-radiological-sr]] — radiological outcomes SR for tissue vs bone level implants
+- [[implants/mbl/cosola-2020-bone-tissue-level-radiological-sr]] — radiological outcomes SR for tissue vs bone level implants
 - [[implants/peri-implantitis/derks-2015-peri-implant-health-disease-epidemiology]] — peri-implantitis epidemiology reference (13.3% overall aligns with this study's 13.25%)
 - [[implants/mbl/enkling-2013-platform-switching-bone-level-3year-rct]] — platform-switching in bone-level implants (design evolution context)

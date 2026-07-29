@@ -89,7 +89,7 @@ Sole statistically significant difference: wider lingual biologic width in BL im
 ## Related Papers
 
 - [[implants/peri-implantitis/atieh-2025-tissue-vs-bone-level-peri-implantitis-sr-ma]] — SR+MA comparing tissue-level vs bone-level implants for peri-implantitis; extends these animal findings to clinical disease outcomes
-- [[implants/cosola-2020-bone-tissue-level-radiological-sr]] — SR of radiological marginal bone changes around tissue-level vs bone-level implants; overlapping scope with radiographic endpoints vs histomorphometric endpoints here
+- [[implants/mbl/cosola-2020-bone-tissue-level-radiological-sr]] — SR of radiological marginal bone changes around tissue-level vs bone-level implants; overlapping scope with radiographic endpoints vs histomorphometric endpoints here
 - [[implants/mbl/mortazavi-2021-bone-loss-tissue-bone-level-implants]] — clinical study on marginal bone loss differences between tissue-level and bone-level implants; complements this animal histometry with clinical data
 - [[immediate-implant/esthetic-soft-tissue/parvini-2023-loading-grafting-immediate-implants-minipigs]] — minipig animal study on loading and grafting effects at immediate implant sites; comparable animal model to this study, different variables (loading/grafting vs neck design)
 - [[immediate-implant/araujo-2005-ridge-alterations-immediate-implant-dog]] — foundational dog study establishing buccal > lingual bone resorption pattern after immediate implant placement; methodological reference for this study

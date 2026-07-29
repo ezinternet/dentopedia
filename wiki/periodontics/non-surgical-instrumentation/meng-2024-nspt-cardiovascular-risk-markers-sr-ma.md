@@ -5,7 +5,7 @@ year: 2024
 date: 2024-06-11
 doi: 10.1186/s12903-024-04433-0
 source: meng-2024-nspt-cardiovascular-risk-markers-sr-ma.md
-category: [periodontics]
+category: [periodontics/non-surgical-instrumentation]
 evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/meng-2024-nspt-cardiovascular-risk-markers-sr-ma.pdf
 pdf_filename: meng-2024-nspt-cardiovascular-risk-markers-sr-ma.pdf

@@ -63,7 +63,7 @@ PRISMA-guided overview of systematic reviews. PICOS: adults with ≥2 implants (
 - AMSTAR-2 quality of included SRs ranged low-to-high; one SR (Sivaraman 2018) rated low quality.
 
 ## 6. Related Work
-Builds on and numerically overlaps with SRs already partially represented in the wiki's [[overviews/zirconia-implant-clinical-outcomes]] evidence base (via Elnayef-type findings echoed in [[implants/pieralli-2017-clinical-outcomes-zirconia-dental-implants]]-era literature), but does not include [[implants/surface/mohseni-2024-clinical-outcomes-zirconia-implants]] (published after Shetty's March 2023 search cutoff) or [[implants/pieralli-2017-clinical-outcomes-zirconia-dental-implants]] itself as a source SR — the two evidence bases are complementary, not overlapping.
+Builds on and numerically overlaps with SRs already partially represented in the wiki's [[overviews/zirconia-implant-clinical-outcomes]] evidence base (via Elnayef-type findings echoed in [[implants/surface/pieralli-2017-clinical-outcomes-zirconia-dental-implants]]-era literature), but does not include [[implants/surface/mohseni-2024-clinical-outcomes-zirconia-implants]] (published after Shetty's March 2023 search cutoff) or [[implants/surface/pieralli-2017-clinical-outcomes-zirconia-dental-implants]] itself as a source SR — the two evidence bases are complementary, not overlapping.
 
 ## 7. Glossary
 - **Ti**: titanium; **Zr**: zirconia/zirconium dioxide implant.

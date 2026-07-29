@@ -115,7 +115,7 @@ A T2DM-specific melatonin signal (Angelopoulou 2026, SR+MA, 3 RCTs, PPD SMD −1
 - [[periodontics/host-modulation/hong-2019-randomized-double-blind-placebo-controlled-multicenter]] — vitamin C/E + lysozyme (CELC/IGATAN); GI only
 - [[periodontics/host-modulation/oliveira-2024-periodontal-host-modulation-avocado-soybean]] — ASU; animal host-modulation
 - [[periodontics/host-modulation/aimetti-2025-doxycycline-local-delivery-periodontal-regeneration-rct]] — local doxycycline + regen surgery; only clinically meaningful effect
-- [[periodontics/duarte-2025-vitamin-d-periimplant-periodontal]] — vitamin D in peri-implant healing and periodontal disease; RUNX2/ALP/OPN/OCN upregulation and RANKL suppression, but hypervitaminosis D (>70 ng/mL) associated with 21.1-fold peri-implant bone loss — the cluster's only documented upper threshold
+- [[implants/vitamin-d/duarte-2025-vitamin-d-periimplant-periodontal]] — vitamin D in peri-implant healing and periodontal disease; RUNX2/ALP/OPN/OCN upregulation and RANKL suppression, but hypervitaminosis D (>70 ng/mL) associated with 21.1-fold peri-implant bone loss — the cluster's only documented upper threshold
 
 ## Related Overviews
 - [[periodontal-adjunctive-therapy-probiotics-pdt-overview]] — local/microbiome adjuncts (probiotics, aPDT)

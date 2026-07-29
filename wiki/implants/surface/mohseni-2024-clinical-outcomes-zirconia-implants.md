@@ -49,5 +49,5 @@ Systematic review + meta-analysis, 3 databases (search to June 2023) + hand sear
 - MBL 0.632–2.060 mm to 132 mo; +0.005 mm/month.
 
 ## Related Papers
-- [[implants/pieralli-2017-clinical-outcomes-zirconia-dental-implants]] — extends (updates the earlier, shorter-follow-up SR)
+- [[implants/surface/pieralli-2017-clinical-outcomes-zirconia-dental-implants]] — extends (updates the earlier, shorter-follow-up SR)
 - [[behavioral-dentistry/patient-reported-outcomes/arefnia-2025-patient-reported-outcomes-zirconia-implant]] — reinforces (patient-reported side of zirconia implants)

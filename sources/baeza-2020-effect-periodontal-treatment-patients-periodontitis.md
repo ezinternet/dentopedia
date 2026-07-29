@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-치주치료가 전신 건강(당뇨 대사조절·전신염증)에 미치는 효과의 근거를 보강하기 위해 ingest. 비외과적 치주치료(NSPT)의 심혈관 위험표지자 효과를 다룬 [[periodontics/meng-2024-nspt-cardiovascular-risk-markers-sr-ma]]를 당뇨·HbA1c·CRP 결과로 보완·확장한다.
+치주치료가 전신 건강(당뇨 대사조절·전신염증)에 미치는 효과의 근거를 보강하기 위해 ingest. 비외과적 치주치료(NSPT)의 심혈관 위험표지자 효과를 다룬 [[periodontics/non-surgical-instrumentation/meng-2024-nspt-cardiovascular-risk-markers-sr-ma]]를 당뇨·HbA1c·CRP 결과로 보완·확장한다.
 
 ## Three-line Summary
 

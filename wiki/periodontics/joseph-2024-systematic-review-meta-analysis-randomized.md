@@ -59,4 +59,4 @@ This PRISMA-conformant systematic review and meta-analysis (PROSPERO CRD42021241
 ## Related Papers
 
 - [[periodontics/non-surgical-instrumentation/smiley-2015-nonsurgical-periodontitis-srp-guideline]] — extends the general SRP efficacy guideline to periodontitis patients with concurrent systemic disease.
-- [[periodontics/meng-2024-nspt-cardiovascular-risk-markers-sr-ma]] — reinforces; that SR+MA focuses on NSPT effects on cardiovascular risk biomarkers, while this one quantifies periodontal clinical parameters (PD/CAL/BOP) in the same comorbid context.
+- [[periodontics/non-surgical-instrumentation/meng-2024-nspt-cardiovascular-risk-markers-sr-ma]] — reinforces; that SR+MA focuses on NSPT effects on cardiovascular risk biomarkers, while this one quantifies periodontal clinical parameters (PD/CAL/BOP) in the same comorbid context.

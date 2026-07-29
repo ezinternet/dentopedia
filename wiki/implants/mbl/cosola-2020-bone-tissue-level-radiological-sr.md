@@ -5,7 +5,7 @@ year: 2020
 date: 2020-09-22
 doi: 10.3390/ijerph17186920
 source: cosola-2020-bone-tissue-level-radiological-sr.md
-category: [implants]
+category: [implants/mbl]
 evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/cosola-2020-bone-tissue-level-radiological-sr.pdf
 pdf_filename: cosola-2020-bone-tissue-level-radiological-sr.pdf

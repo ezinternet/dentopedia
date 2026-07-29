@@ -97,7 +97,7 @@ SRP 강한 권고; 전신 독시사이클린 추가 PPD 이득 0.2–0.4 mm(소)
 | [[periodontics/non-surgical-instrumentation/smiley-2015-nonsurgical-periodontitis-srp-guideline]] | sr (가이드라인) | SRP 강력 권고. Doxycycline 추가 PPD 0.2-0.4 mm |
 | [[periodontics/non-surgical-instrumentation/meseli-2016-probing-depth-srp-response-periodontitis]] | prospective (1,672 pocket) | IPD=3mm 제외 전 군 PD 감소 유의. IPD ≥ 7mm 다근치 AG 유의 |
 | [[periodontics/herrera-2022-treatment-stage-iv-periodontitis-efp]] | consensus (EFP S3) | Stage IV — 치주 + 교정·보철 다학제 + 집중 SPT |
-| [[periodontics/meng-2024-nspt-cardiovascular-risk-markers-sr-ma]] | sr+ma (21 RCT) | SRP 후 CRP·IL-6·SBP 유의 감소. Lipids·DBP NS |
+| [[periodontics/non-surgical-instrumentation/meng-2024-nspt-cardiovascular-risk-markers-sr-ma]] | sr+ma (21 RCT) | SRP 후 CRP·IL-6·SBP 유의 감소. Lipids·DBP NS |
 | [[periodontics/non-surgical-instrumentation/barahim-2024-ozone-gel-srp-diabetic-periodontitis-rct]] | rct (n=24) | SRP가 T2DM + stage III에서 핵심 동력; 오존 겔 추가 시 방사선학적 골결손 개선 + 3개월 PPD·VAS 이점 (소규모) |
 
 **임상 ladder (비외과)**:
@@ -125,8 +125,8 @@ SRP 강한 권고; 전신 독시사이클린 추가 PPD 이득 0.2–0.4 mm(소)
 | [[implants/survival/roccuzzo-2022-implants-periodontitis-history-20year-prospective]] | prospective (20y) | 치주염력 임플란트 생존 81% vs 비병력 91%. SPT 순응도 결정적 |
 | [[implants/survival/marty-2024-implant-treated-periodontitis-sr-ma]] | sr+ma (10편) | 치주염력 환자 — peri-implantitis 위험 ~4.8배 |
 | [[periodontics/blyleven-2024-periodontal-implant-surgery-complications]] | retrospective (1135건) | 치주·임플란트 외과 합병증 — 술중 2.8%, 술후 15.2%. Lateral SES가 가장 강력한 예측인자 |
-| [[periodontics/lee-2017-oxysterol-periodontal-regeneration-pdlsc-alveolar-bone]] | animal + in-vitro | 오옥시스테롤(SS) → PDLSC 골분화 (LXR↔Hh) + rat 발치와 골재생 ≈ rhBMP-2 (μCT NS) |
-| [[periodontics/liu-2019-periodontal-bone-ligament-cementum-regeneration]] | sr (전임상) | 뼈-PDL-백악질 *동시* 재생 — 줄기세포+지지체, 내인성 세포유도(SDF-1α/BMP7), 유전자치료(Ad-PDGF-B), LBL 구조물; 배향성 Sharpey 섬유 생성이 핵심 난제 (PCL/PGA 섬유유도 3D 프린팅) |
+| [[periodontics/host-modulation/lee-2017-oxysterol-periodontal-regeneration-pdlsc-alveolar-bone]] | animal + in-vitro | 오옥시스테롤(SS) → PDLSC 골분화 (LXR↔Hh) + rat 발치와 골재생 ≈ rhBMP-2 (μCT NS) |
+| [[periodontics/host-modulation/liu-2019-periodontal-bone-ligament-cementum-regeneration]] | sr (전임상) | 뼈-PDL-백악질 *동시* 재생 — 줄기세포+지지체, 내인성 세포유도(SDF-1α/BMP7), 유전자치료(Ad-PDGF-B), LBL 구조물; 배향성 Sharpey 섬유 생성이 핵심 난제 (PCL/PGA 섬유유도 3D 프린팅) |
 | [[periodontics/demolon-2026-periodontitis-bone-loss-signaling-pathways]] | narrative-review | 치조골 소실 분자기전 — RANKL/OPG → NF-κB·JAK/STAT·MAPK·PI3K/Akt → NFATc1 수렴; "trained osteoclastogenesis"; denosumab·JAK억제제·천연화합물 치료 후보 |
 
 **임상 ladder (외과·재생·임플란트)**:
@@ -307,14 +307,14 @@ SRP 강한 권고; 전신 독시사이클린 추가 PPD 이득 0.2–0.4 mm(소)
 
 - [[periodontics/dolcezza-2024-rheumatoid-arthritis-periodontal-disease-sr-ma]] — SR+MA (6 RCTs; treated n=124 vs control n=131): non-surgical periodontal therapy in RA+periodontitis patients significantly lowers RA activity (DAS28 −0.56) and improves CAL (−0.41 mm); trim-and-fill −0.39/−0.30. Treatment-direction complement to the periodontitis→RA risk link. (sr+ma, 2024) — integrated into Thread A (전신질환 동반 치주염).
 - [[periodontics/demolon-2026-periodontitis-bone-loss-signaling-pathways]] — Narrative review mapping RANKL/OPG → NF-κB·JAK/STAT·MAPK·PI3K/Akt → NFATc1 osteoclastogenesis, "trained osteoclastogenesis," and therapeutic candidates (denosumab, JAK/p38 inhibitors, natural compounds). Molecular pathogenesis underpinning axis 3 regeneration. (narrative-review, 2026)
-- [[periodontics/liu-2019-periodontal-bone-ligament-cementum-regeneration]] — SR of stem-cell/scaffold/gene-therapy/LBL strategies for simultaneous bone–PDL–cementum regeneration; oriented Sharpey's fiber generation is the core challenge (PCL/PGA fiber-guiding 3D printing). Preclinical biology supporting the Stavropoulos 2021 clinical NMA. (sr, 2019)
+- [[periodontics/host-modulation/liu-2019-periodontal-bone-ligament-cementum-regeneration]] — SR of stem-cell/scaffold/gene-therapy/LBL strategies for simultaneous bone–PDL–cementum regeneration; oriented Sharpey's fiber generation is the core challenge (PCL/PGA fiber-guiding 3D printing). Preclinical biology supporting the Stavropoulos 2021 clinical NMA. (sr, 2019)
 
 ### 신규 추가 (2026-06-15)
 
 - [[periodontics/sharma-2014-endodontic-periodontal-microsurgery-for-combined]] — Narrative review of microsurgical management of combined endo-perio lesions: endodontic microsurgery + simultaneous bone grafting, membrane, papilla-preserving flap for primary closure. (narrative-review, 2014)
 - [[periodontics/jepsen-2018-periodontal-manifestations-of-systemic-diseases]] — 2017 World Workshop workgroup-3 consensus: updated classification of systemic-disease periodontal manifestations, mucogingival conditions, traumatic occlusal forces, and prosthesis/tooth-related factors. (consensus, 2018)
 - [[periodontics/herrera-2018-acute-periodontal-lesions-periodontal-abscesses]] — 2017 World Workshop review: classification frameworks for periodontal abscesses (by etiology), necrotizing periodontal diseases (by host immune status), and endo-periodontal lesions (by fractures/perforations + periodontitis status). (narrative-review, 2018)
-- [[periodontics/lee-2017-oxysterol-periodontal-regeneration-pdlsc-alveolar-bone]] — In-vitro + animal: oxysterol combination (22(S)+20(S)-hydroxycholesterol) drives PDLSC osteogenesis via LXR↔Hedgehog signaling; rat alveolar bone regeneration comparable to rhBMP-2 (μCT NS). (animal, 2017)
+- [[periodontics/host-modulation/lee-2017-oxysterol-periodontal-regeneration-pdlsc-alveolar-bone]] — In-vitro + animal: oxysterol combination (22(S)+20(S)-hydroxycholesterol) drives PDLSC osteogenesis via LXR↔Hedgehog signaling; rat alveolar bone regeneration comparable to rhBMP-2 (μCT NS). (animal, 2017)
 - [[oral-microbiology/buskermolen-2018-saliva-derived-biofilms-gingiva-model]] — In-vitro: organotypic reconstructed human gingiva + saliva-derived commensal/pathogenic multispecies biofilms → distinct host inflammatory responses; antimicrobial screening platform. (in-vitro, 2018)
 - [[periodontics/non-surgical-instrumentation/barahim-2024-ozone-gel-srp-diabetic-periodontitis-rct]] — RCT (n=24, controlled T2DM + stage III grade B): SRP+ozonated gel vs SRP alone — both arms improved CAL/PPD/HbA1c (no intergroup difference); ozone arm: significant within-group radiographic defect improvement (RLDD 3.44→2.66 mm, p=0.008) + 3-month PPD advantage (p=0.045) + less VAS pain (p=0.017). (rct, 2024)
 - [[periodontics/mucogingival-surgery-apf-fgg-ctg]] — Synthesis page: APF·FGG·CTG 3-arm selection criteria, clinical indications, evidence, and decision flow. (synthesis, 2026)
@@ -344,7 +344,7 @@ SRP 강한 권고; 전신 독시사이클린 추가 PPD 이득 0.2–0.4 mm(소)
 - [[periodontics/herrera-2022-treatment-stage-iv-periodontitis-efp]]
 - [[periodontics/non-surgical-instrumentation/smiley-2015-nonsurgical-periodontitis-srp-guideline]]
 - [[periodontics/non-surgical-instrumentation/meseli-2016-probing-depth-srp-response-periodontitis]]
-- [[periodontics/meng-2024-nspt-cardiovascular-risk-markers-sr-ma]]
+- [[periodontics/non-surgical-instrumentation/meng-2024-nspt-cardiovascular-risk-markers-sr-ma]]
 - [[periodontics/host-modulation/stavropoulos-2021-periodontal-regeneration-intrabony-nma]]
 - [[periodontics/nibali-2016-tooth-loss-furcation-involvement-sr-ma]]
 - [[implants/survival/roccuzzo-2022-implants-periodontitis-history-20year-prospective]]

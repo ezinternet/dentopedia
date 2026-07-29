@@ -57,4 +57,4 @@ The European Federation of Periodontology (EFP) S3 level clinical practice guide
 
 ## Related Papers
 - [[periodontics/herrera-2022-treatment-stage-iv-periodontitis-efp]] — companion guideline for stage IV
-- [[periodontics/meng-2024-nspt-cardiovascular-risk-markers-sr-ma]] — systemic effects of NSPT (step 2)
+- [[periodontics/non-surgical-instrumentation/meng-2024-nspt-cardiovascular-risk-markers-sr-ma]] — systemic effects of NSPT (step 2)

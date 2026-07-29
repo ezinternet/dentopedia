@@ -5,7 +5,7 @@ year: 2017
 date: 2017-12-12
 doi: 10.1186/s13287-017-0725-9
 source: lee-2017-oxysterol-periodontal-regeneration-pdlsc-alveolar-bone.md
-category: [periodontics]
+category: [periodontics/host-modulation]
 evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/lee-2017-oxysterol-periodontal-regeneration-pdlsc-alveolar-bone.pdf
 pdf_filename: lee-2017-oxysterol-periodontal-regeneration-pdlsc-alveolar-bone.pdf

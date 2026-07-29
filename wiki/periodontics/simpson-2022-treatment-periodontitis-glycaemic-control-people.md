@@ -61,4 +61,4 @@ This Cochrane systematic review and meta-analysis (2022 update, CD004714.pub4) e
 ## Related Papers
 
 - [[periodontics/non-surgical-instrumentation/smiley-2015-nonsurgical-periodontitis-srp-guideline]] — extends non-surgical SRP efficacy evidence from periodontal endpoints to a systemic glycaemic outcome (HbA1c).
-- [[periodontics/meng-2024-nspt-cardiovascular-risk-markers-sr-ma]] — complementary SR+MA on NSPT systemic effects, pairing the cardiovascular and metabolic (diabetes) impacts of periodontal therapy.
+- [[periodontics/non-surgical-instrumentation/meng-2024-nspt-cardiovascular-risk-markers-sr-ma]] — complementary SR+MA on NSPT systemic effects, pairing the cardiovascular and metabolic (diabetes) impacts of periodontal therapy.

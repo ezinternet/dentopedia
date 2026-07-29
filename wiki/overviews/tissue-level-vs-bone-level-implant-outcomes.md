@@ -78,9 +78,9 @@ The central paradox of this literature: the **highest-evidence studies find no s
 | Axis | Spine paper | Evidence | Key finding |
 |---|---|---|---|
 | 1-piece vs 2-piece — 15–17yr RCT | [[implants/pirc-2026-one-piece-two-piece-implants-15year-rct]] | RCT (60 pts, 151 implants) | 1-piece MBL 0.08 vs 2-piece 1.53 mm (p<0.001); Tech complication 35.4% vs 5.8%; overall survival 95%; trade-off: bone preservation vs technical burden |
-| Survival | [[implants/cosola-2020-bone-tissue-level-radiological-sr]] | SR (2933 implants) | >90% survival both TL and BL; no between-group difference |
+| Survival | [[implants/mbl/cosola-2020-bone-tissue-level-radiological-sr]] | SR (2933 implants) | >90% survival both TL and BL; no between-group difference |
 | Survival — 1 yr short implants | [[implants/short-narrow/lombardi-2025-bone-level-tissue-level-short-implants-maxilla]] | Case-control (71 implants) | 100% TL and BL; zero complications |
-| MBL — SR level | [[implants/cosola-2020-bone-tissue-level-radiological-sr]] | SR (17 quantitative) | No statistically significant radiological MBL group difference |
+| MBL — SR level | [[implants/mbl/cosola-2020-bone-tissue-level-radiological-sr]] | SR (17 quantitative) | No statistically significant radiological MBL group difference |
 | MBL — SR+MA level | [[implants/peri-implantitis/atieh-2025-tissue-vs-bone-level-peri-implantitis-sr-ma]] | SR+MA (5 studies, 501 implants) | No significant MBL difference at 12 or 24 months |
 | MBL — matched clinical (posterior) | [[implants/peri-implantitis/agustin-panadero-2021-tissue-level-convergent-neck-peri-implant]] | Retrospective (120 implants, 2 yr) | TL 0.31 vs BL 0.97 mm (p<0.001); 3-fold difference |
 | MBL — short implants posterior maxilla | [[implants/short-narrow/lombardi-2025-bone-level-tissue-level-short-implants-maxilla]] | Prospective case-control (1 yr) | TL 0.30 vs BL 0.55 mm (p=0.003); ΔPbR 0.25 mm less for TL |
@@ -110,7 +110,7 @@ TL and BL implants are clinically interchangeable for survival across virtually 
 
 - [[implants/pirc-2026-one-piece-two-piece-implants-15year-rct]] — RCT 15–17-year follow-up (60 pts, 151 implants): 1-piece MBL 0.08 vs 2-piece 1.53 mm; technical complications 35.4% vs 5.8%; survival 95%; longest published RCT for 1-piece vs 2-piece design; note: 2-piece group uses older-generation Brånemark TiUnite (not modern internal connection)
 - [[implants/peri-implantitis/atieh-2025-tissue-vs-bone-level-peri-implantitis-sr-ma]] — SR+MA (5 studies, 501 implants): peri-implantitis RR 0.59 and failure RR 0.59 — both directionally favoring TL but NS; highest-evidence anchor for peri-implantitis axis
-- [[implants/cosola-2020-bone-tissue-level-radiological-sr]] — SR (2933 implants, 20 qualitative / 17 quantitative studies): survival and radiological MBL no significant between-group difference; largest SR to date
+- [[implants/mbl/cosola-2020-bone-tissue-level-radiological-sr]] — SR (2933 implants, 20 qualitative / 17 quantitative studies): survival and radiological MBL no significant between-group difference; largest SR to date
 - [[implants/mbl/mortazavi-2021-bone-loss-tissue-bone-level-implants]] — SR (38 clinical trials): conceptual BL vs TL microgap framework; platform-switching and Morse taper as key MBL modifiers for BL implants; first-year MBL dominance
 - [[implants/mbl/solderer-2025-tissue-level-implant-bone-loss-factors]] — Retrospective (106 TL implants, 1–3 yr): TL MBL 0.93 mm at 1yr / 1.04 mm at 3yr; smoking and jaw of treatment as significant risk factors
 - [[implants/short-narrow/lombardi-2025-bone-level-tissue-level-short-implants-maxilla]] — Prospective case-control (71 short implants, posterior maxilla, 1 yr): TL 0.30 vs BL 0.55 mm MBL (p=0.003); thin mucosa dominant predictor; 100% survival both groups
