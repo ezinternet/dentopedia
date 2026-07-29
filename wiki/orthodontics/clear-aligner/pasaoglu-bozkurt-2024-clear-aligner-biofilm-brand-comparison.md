@@ -3,7 +3,7 @@ title: "Comparison of microbial adhesion and biofilm formation on different orth
 stem: "pasaoglu-bozkurt-2024-clear-aligner-biofilm-brand-comparison"
 source: pasaoglu-bozkurt-2024-clear-aligner-biofilm-brand-comparison.md
 source_collection: pubmed-abstract
-category: orthodontics
+category: orthodontics/clear-aligner
 year: 2024
 authors: "Pasaoglu Bozkurt A, Demirci M, Erdogan P, Kayalar E"
 doi: "10.1016/j.ajodo.2024.08.010"

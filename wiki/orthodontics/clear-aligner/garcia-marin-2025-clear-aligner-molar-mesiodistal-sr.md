@@ -3,7 +3,7 @@ title: "Predictability of mesiodistal movement of upper and lower molars with cl
 stem: "garcia-marin-2025-clear-aligner-molar-mesiodistal-sr"
 source: garcia-marin-2025-clear-aligner-molar-mesiodistal-sr.md
 source_collection: pubmed-abstract
-category: orthodontics
+category: orthodontics/clear-aligner
 year: 2025
 authors: "García-Marín C, Otero-Pregigueiro A, Iglesias-Linares A"
 doi: "10.2319/063024-507.1"

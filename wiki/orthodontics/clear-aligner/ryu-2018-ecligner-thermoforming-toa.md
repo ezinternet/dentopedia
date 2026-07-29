@@ -3,7 +3,7 @@ title: "Effects of thermoforming on the physical and mechanical properties of th
 stem: "ryu-2018-ecligner-thermoforming-toa"
 source: ryu-2018-ecligner-thermoforming-toa.md
 source_collection: pubmed-abstract
-category: orthodontics
+category: orthodontics/clear-aligner
 year: 2018
 authors: "Ryu JH, Kwon JS, Jiang HB, Cha JY, Kim KM"
 doi: "10.4041/kjod.2018.48.5.316"

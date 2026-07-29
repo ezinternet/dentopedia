@@ -5,7 +5,7 @@ year: 2025
 date: 2025-01-01
 doi: 10.1186/s12940-025-01208-0
 source: prada-2025-acetaminophen-prenatal-neurodevelopmental-disorders-sr.md
-category: [drug/antibiotics]
+category: [drug/analgesics]
 evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/prada-2025-acetaminophen-prenatal-neurodevelopmental-disorders-sr.pdf
 pdf_filename: prada-2025-acetaminophen-prenatal-neurodevelopmental-disorders-sr.pdf
