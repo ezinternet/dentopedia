@@ -14,6 +14,7 @@ tags: [methylprednisolone, third-molar, corticosteroid, split-mouth, trismus, Qo
 relations:
   - type: reinforces
     target: liborio-2025-methylprednisolone-third-molar-sr-ma
+synthesized_in: overviews/drug-analgesics-postop-pain-overview
 ---
 
 ## One-line Summary
