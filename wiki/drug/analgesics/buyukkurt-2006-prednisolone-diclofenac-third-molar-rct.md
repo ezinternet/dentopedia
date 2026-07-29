@@ -11,6 +11,7 @@ pdf_path: /Users/oracleneo/llm-wiki/papers/buyukkurt-2006-prednisolone-diclofena
 pdf_filename: buyukkurt-2006-prednisolone-diclofenac-third-molar-rct.pdf
 source_collection: external
 tags: [prednisolone, diclofenac, NSAID, third-molar, combination-therapy, trismus]
+synthesized_in: overviews/drug-analgesics-postop-pain-overview
 ---
 
 ## One-line Summary
