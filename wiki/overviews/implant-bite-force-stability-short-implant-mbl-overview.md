@@ -121,7 +121,7 @@ When bone height is limited and a short implant is indicated, the 1-year MBL dat
 
 ## Related Papers
 
-- [[implants/mohammed-2026-bite-force-implant-stability]] — primary source: BF–ISQ positive correlation, 18-month prospective cohort
+- [[implants/isq/mohammed-2026-bite-force-implant-stability]] — primary source: BF–ISQ positive correlation, 18-month prospective cohort
 - [[implants/short-narrow/lee-2009-marginal-bone-single-short-implant]] — primary source: short implant C:I vs. MBL at 1 year, retrospective
 - [[overviews/implants-isq-stability-ladder]] — ISQ threshold, measurement, loading-decision ladder; BF is a new modulating factor added by Mohammed 2026
 - [[overviews/implant-length-selection-why-not-always-short]] — short vs. standard implant selection framework; Lee 2009 adds 1-year MBL reference for C:I discussion

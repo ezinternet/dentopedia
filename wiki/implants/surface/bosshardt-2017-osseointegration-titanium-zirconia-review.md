@@ -5,7 +5,7 @@ year: 2017
 date: 2017-01-01
 doi: 10.1111/prd.12169
 source: bosshardt-2017-osseointegration-titanium-zirconia-review.md
-category: implants
+category: [implants/surface]
 evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/bosshardt-2017-osseointegration-titanium-zirconia-review.pdf
 pdf_filename: bosshardt-2017-osseointegration-titanium-zirconia-review.pdf
@@ -114,6 +114,6 @@ Unexplained marginal bone loss (not classical peri-implantitis) remains a critic
 
 ## Related Papers
 
-- [[implants/buser-2017-modern-implant-dentistry-osseointegration-50years]] — Buser (2017) review covering SLActive surface and osseointegration outcomes referenced here
+- [[implants/surface/buser-2017-modern-implant-dentistry-osseointegration-50years]] — Buser (2017) review covering SLActive surface and osseointegration outcomes referenced here
 - [[bone-regeneration/buser-2023-gbr-implant-35years-basic-principle-review]] — GBR and implant osseointegration principles by same senior author
 - [[dental-materials/zirconia]] — zirconia material properties complement this osseointegration review

@@ -16,7 +16,7 @@ source_papers:
   - wiki/bone-biology/issa-2026-bone-biology-aging-periodontal-peri-implant-tissues.md
   - wiki/implants/rosa-2024-do-dental-implants-bone-types.md
   - wiki/implants/raghavan-2025-bone-density-implant-dentistry-review.md
-  - wiki/implants/di-stefano-2021-stability-dental-implants-cortical-bone.md
+  - wiki/implants/isq/di-stefano-2021-stability-dental-implants-cortical-bone.md
   - wiki/implants/premnath-2012-stress-distribution-bone-density-fea.md
   - wiki/implants/isq/stoilov-2023-macrodesign-length-diameter-bone-quality-isq.md
   - wiki/implants/isq/chatvaratthana-2017-cortical-bone-crestal-buccolingual-isq.md
@@ -92,7 +92,7 @@ The classification-to-protocol map is set out by Raghavan (2025), which ties Mis
 | Paper | Design | Bone-quality role | Key finding | Confidence |
 |---|---|---|---|---|
 | [[implants/rosa-2024-do-dental-implants-bone-types]] | sr+ma (49 studies, 29,905 impl) | Risk stratification (Lekholm-Zarb) | Type IV ↓ survival (~1.5–1.9× failure); I=II; ISQ IV 58–65 vs I 72–80 | [확인] |
-| [[implants/di-stefano-2021-stability-dental-implants-cortical-bone]] | sr (13 studies) | Cortical thickness → stability | Thicker cortex → ↑ISQ/IT; bicortical = highest; MBL link inconclusive | [확인] |
+| [[implants/isq/di-stefano-2021-stability-dental-implants-cortical-bone]] | sr (13 studies) | Cortical thickness → stability | Thicker cortex → ↑ISQ/IT; bicortical = highest; MBL link inconclusive | [확인] |
 | [[implants/isq/chatvaratthana-2017-cortical-bone-crestal-buccolingual-isq]] | prospective | Pre-op predictor | Crestal cortical thickness = strongest ISQ predictor; thin cortex → plan delayed loading | [확인] |
 | [[implants/raghavan-2025-bone-density-implant-dentistry-review]] | narrative | Classification + protocol map | Misch D1–D4, CBCT HU; under-drill D3/D4, modify healing, design selection | [확인] |
 | [[implants/isq/stoilov-2023-macrodesign-length-diameter-bone-quality-isq]] | in-vitro | Macro-design × density | Diameter > length for ISQ; tapered superior; soft bone → drilling protocol critical | [미검증] |
@@ -177,7 +177,7 @@ Supporting papers added 2026-06-10 (determinant evidence across the four modific
 
 - [[implants/isq/al-juboori-2024-cortical-thickness-implant-stability-sr]] — SR: thicker cortical bone → higher IT/ISQ (primary + secondary stability); confirms cortical-thickness-dominance thesis.
 - [[implants/isq/nkenke-2003-implant-stability-histomorphometry-cadaver-correlation]] — cadaver: primary stability correlates with CT bone mineral density + histomorphometry (mechanistic anchor).
-- [[implants/heimes-2023-macrogeometry-primary-stability-implants-narrative-review]] — narrative review: macro-design (diameter/taper/thread/surface) as the design lever.
+- [[implants/isq/heimes-2023-macrogeometry-primary-stability-implants-narrative-review]] — narrative review: macro-design (diameter/taper/thread/surface) as the design lever.
 
 Supporting papers added 2026-07-10 (the pharmacologic lever and the aging axis):
 

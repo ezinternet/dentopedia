@@ -348,8 +348,8 @@ GRADE 확실성: 항생제의 감염 예방 효과는 **낮음**, 임플란트 �
 - [[drug/antibiotics/mendez-romero-2025-antibiotic-stewardship-dentistry-sr]] — SR+MA (23 studies): audit+feedback reduces inappropriate prescribing 70%; digital CDS most effective (sr+ma, 2025)
 - [[drug/antibiotics/mohammadpour-2025-antibiotic-prophylaxis-oral-surgery-sr]] — Scoping review (125 studies): perioperative ≤24h sufficient for OMFS; extended courses increase SSI risk (sr, 2025)
 - [[drug/antibiotics/rajan-2025-doxycycline-safety-children-dental-sr]] — SR+MA (5 studies, n=162 <8y): tooth staining 0.62% (premature infant only); supports cautious doxycycline use in children for life-threatening indications (sr+ma, 2025)
-- [[periodontics/milinkovic-2025-local-systemic-antibiotics-periodontal-rct]] — RCT (n=38): local piperacillin+tazobactam equivalent to systemic amoxicillin+metronidazole at 6 months; prefer local to minimize systemic AMR (rct, 2025)
-- [[periodontics/aimetti-2025-doxycycline-local-delivery-periodontal-regeneration-rct]] — RCT (n=60): BOOST local DOX 2 weeks pre-MIST → CAL 4.1 vs 3.2 mm, COM 83.3% vs 46.7% (NNT=2.73); repositions local antimicrobials as pre-surgical optimization tool (rct, 2025)
+- [[periodontics/host-modulation/milinkovic-2025-local-systemic-antibiotics-periodontal-rct]] — RCT (n=38): local piperacillin+tazobactam equivalent to systemic amoxicillin+metronidazole at 6 months; prefer local to minimize systemic AMR (rct, 2025)
+- [[periodontics/host-modulation/aimetti-2025-doxycycline-local-delivery-periodontal-regeneration-rct]] — RCT (n=60): BOOST local DOX 2 weeks pre-MIST → CAL 4.1 vs 3.2 mm, COM 83.3% vs 46.7% (NNT=2.73); repositions local antimicrobials as pre-surgical optimization tool (rct, 2025)
 
 ### IE Prophylaxis (1차 근거)
 - [[drug/antibiotics/wilson-2021-ie-prophylaxis-aha-scientific-statement]] — 2021 AHA, 2007 가이드라인 유지
@@ -361,8 +361,8 @@ GRADE 확실성: 항생제의 감염 예방 효과는 **낮음**, 임플란트 �
 - [[drug/antibiotics/torof-2023-antibiotic-dental-implant-procedures-sr-ma]] — 임플란트 prophylaxis
 
 ### 치주치료·국소 항생제
-- [[periodontics/aimetti-2025-doxycycline-local-delivery-periodontal-regeneration-rct]] — BOOST local DOX pre-MIST RCT
-- [[periodontics/milinkovic-2025-local-systemic-antibiotics-periodontal-rct]] — Local vs systemic perio RCT
+- [[periodontics/host-modulation/aimetti-2025-doxycycline-local-delivery-periodontal-regeneration-rct]] — BOOST local DOX pre-MIST RCT
+- [[periodontics/host-modulation/milinkovic-2025-local-systemic-antibiotics-periodontal-rct]] — Local vs systemic perio RCT
 - [[drug/antibiotics/botelho-2025-antibiotics-periodontal-treatment-umbrella]] — Umbrella review systemic abx in perio
 
 ### 상악동·구강외과

@@ -51,6 +51,6 @@ Systematic review. MEDLINE, Embase, additional databases searched through Septem
 - No between-group survival differences reported
 
 ## Related Papers
-- [[implants/atieh-2025-tissue-vs-bone-level-peri-implantitis-sr-ma]] — SR+MA (2025): TL vs BL peri-implantitis RR 0.59 (NS)
+- [[implants/peri-implantitis/atieh-2025-tissue-vs-bone-level-peri-implantitis-sr-ma]] — SR+MA (2025): TL vs BL peri-implantitis RR 0.59 (NS)
 - [[implants/mbl/mortazavi-2021-bone-loss-tissue-bone-level-implants]] — SR on risk factors for BL vs TL bone loss
 - [[implants/mbl/solderer-2025-tissue-level-implant-bone-loss-factors]] — retrospective: TL implant MBL risk factors

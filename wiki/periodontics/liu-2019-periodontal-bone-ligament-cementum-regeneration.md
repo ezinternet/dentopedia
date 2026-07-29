@@ -67,5 +67,5 @@ This is the first systematic review to comprehensively address simultaneous rege
 
 ## Related Papers
 
-- [[periodontics/stavropoulos-2021-periodontal-regeneration-intrabony-nma]] — clinical NMA of GTR/EMD outcomes (the clinical evidence this SR's biology supports)
+- [[periodontics/host-modulation/stavropoulos-2021-periodontal-regeneration-intrabony-nma]] — clinical NMA of GTR/EMD outcomes (the clinical evidence this SR's biology supports)
 - [[periodontics/lee-2017-oxysterol-periodontal-regeneration-pdlsc-alveolar-bone]] — molecular mechanism of PDLSC osteogenic differentiation (extends)

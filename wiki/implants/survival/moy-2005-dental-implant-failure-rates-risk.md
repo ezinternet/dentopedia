@@ -73,5 +73,5 @@ No absolute implant contraindication exists — diabetes requires glycemic contr
 ## Related Papers
 - [[implants/rosa-2024-do-dental-implants-bone-types]] — 골질 유형과 생존율
 - [[implants/mbl/mortazavi-2021-bone-loss-tissue-bone-level-implants]] — MBL과 임플란트 디자인
-- [[implants/di-stefano-2021-stability-dental-implants-cortical-bone]] — 피질골과 초기안정성
+- [[implants/isq/di-stefano-2021-stability-dental-implants-cortical-bone]] — 피질골과 초기안정성
 - [[implants/short-narrow/saenz-ravello-2023-short-implants-compared-to-regular]] — 위축 하악 임플란트 옵션

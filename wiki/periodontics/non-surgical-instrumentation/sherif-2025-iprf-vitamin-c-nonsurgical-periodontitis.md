@@ -5,7 +5,7 @@ year: 2025
 date: 2025-05-23
 doi: 10.1186/s12903-025-06115-x
 source: sherif-2025-iprf-vitamin-c-nonsurgical-periodontitis.md
-category: periodontics
+category: [periodontics/non-surgical-instrumentation]
 evidence_level: rct
 source_collection: pubmed-text
 full_text: true

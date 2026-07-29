@@ -98,8 +98,8 @@ The intentionally excluded papers matter too: `lee-2009` (short-implant marginal
 - [[implants/loading-protocol/heiderich-2020-methodological-quality-loading-time-implants]] — Umbrella review (21 SRs, loading time): 13 SRs immediate≈conventional, 6 favor conventional, but 8/21 (~40%) high ROBIS risk; low-risk-only still no difference — weight loading-time conclusions by SR risk-of-bias tier
 
 **Axis 1 — Osseointegration foundations**
-- [[implants/buser-2017-modern-implant-dentistry-osseointegration-50years]] — 50-year history, dual founding schools, surface benchmark, named controversies (peri-implantitis, zirconia)
-- [[implants/bosshardt-2017-osseointegration-titanium-zirconia-review]] — surface-biology mechanism, %BIC ladder (machined<TPS<SLA<SLActive), TiZr≈cpTi vs Ti6Al4V
+- [[implants/surface/buser-2017-modern-implant-dentistry-osseointegration-50years]] — 50-year history, dual founding schools, surface benchmark, named controversies (peri-implantitis, zirconia)
+- [[implants/surface/bosshardt-2017-osseointegration-titanium-zirconia-review]] — surface-biology mechanism, %BIC ladder (machined<TPS<SLA<SLActive), TiZr≈cpTi vs Ti6Al4V
 - [[implants/gaviria-2014-current-trends-dental-implants-review]] — deeper history (600 AD→Brånemark), design-parameter & surface-engineering catalog
 
 **Axis 2 — Evidence-quality**

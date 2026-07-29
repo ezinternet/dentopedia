@@ -71,6 +71,6 @@ Both E and H increased during the first ~5 years and plateaued, indicating mecha
 
 ## Related Papers
 
-- [[implants/gil-2015-progressive-plateau-root-form-osseointegration-retrieval]] — companion human retrieval study examining histomorphometric osseointegration (BIC, bone area) around the same PRF implant design; mechanical and histomorphometric data are complementary
+- [[implants/surface/gil-2015-progressive-plateau-root-form-osseointegration-retrieval]] — companion human retrieval study examining histomorphometric osseointegration (BIC, bone area) around the same PRF implant design; mechanical and histomorphometric data are complementary
 - [[implants/premnath-2012-stress-distribution-bone-density-fea]] — FEA modeling of stress distribution and bone density around implants, providing computational context for why stiffer peri-implant bone matters biomechanically
 - [[overviews/implant-occlusion-loading-biomechanics-overview]] — cross-paper synthesis on implant loading, occlusal forces, and bone adaptation including mechanical property changes

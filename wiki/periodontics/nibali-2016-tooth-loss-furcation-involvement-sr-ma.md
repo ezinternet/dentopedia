@@ -56,4 +56,4 @@ This SR+MA analyzed 21 longitudinal studies (≥3-year follow-up) examining the 
 
 ## Related Papers
 - [[periodontics/manresa-2018-supportive-periodontal-therapy-cochrane-sr]] — Cochrane SR on SPT protocols; context for maintenance phase
-- [[periodontics/stavropoulos-2021-periodontal-regeneration-intrabony-nma]] — intrabony defect regeneration outcomes, complementary evidence for periodontal prognosis
+- [[periodontics/host-modulation/stavropoulos-2021-periodontal-regeneration-intrabony-nma]] — intrabony defect regeneration outcomes, complementary evidence for periodontal prognosis

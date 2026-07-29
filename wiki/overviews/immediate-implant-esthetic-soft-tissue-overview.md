@@ -25,7 +25,7 @@ source_papers:
   - wiki/immediate-implant/esthetic-soft-tissue/staas-2026-fiipp-palatal-position-cbct-3year.md
   - wiki/immediate-implant/esthetic-soft-tissue/yang-2019-labial-bone-thickness-esthetics-iipp.md
   - wiki/immediate-implant/anatomic-assessment/kan-2011-sagittal-root-position-immediate-implant-anterior.md
-  - wiki/implants/wang-2022-buccal-emergence-profile-peri-implant-rct.md
+  - wiki/implants/peri-implantitis/wang-2022-buccal-emergence-profile-peri-implant-rct.md
   - wiki/immediate-implant/esthetic-soft-tissue/block-2009-prospective-evaluation-immediate-delayed.md
   - wiki/immediate-implant/esthetic-soft-tissue/chan-2019-randomized-controlled-trial-compare-aesthetic.md
   - wiki/immediate-implant/esthetic-soft-tissue/wang-2020-volumetric-facial-contour-changes-immediately.md
@@ -116,7 +116,7 @@ The synthesis: **case selection sets the ceiling; technique fills the room under
 | [[immediate-implant/esthetic-soft-tissue/staas-2026-fiipp-palatal-position-cbct-3year]] | Prospective multicentre CBCT (3 yr) | — | ≥2 mm palatal offset in flapless IIPP maintains buccal crest thickness/height at 3 yr; survival in expected high range; no non-palatal comparator arm | prospective |
 | [[immediate-implant/esthetic-soft-tissue/yang-2019-labial-bone-thickness-esthetics-iipp]] | Prospective cohort | — | PES/WES deteriorates as labial bone thickness decreases; clinically meaningful inflection near the 1–2 mm labial-plate threshold | prospective |
 | [[immediate-implant/anatomic-assessment/kan-2011-sagittal-root-position-immediate-implant-anterior]] | Landmark CBCT classification | — | Sagittal root position (SRP) Class I (root against labial cortex) most prevalent — structural basis for labial fenestration/protrusion risk during IIP | cross-sectional |
-| [[implants/wang-2022-buccal-emergence-profile-peri-implant-rct]] | RCT (mandibular molars, abstract-only) | 21 | Steeper emergence angle (40° vs 32°) → significantly more 12-mo gingival recession (0.63 vs 0.13 mm, p=0.006); W/H-ratio-based profile design outperforms default healing-abutment contour | rct |
+| [[implants/peri-implantitis/wang-2022-buccal-emergence-profile-peri-implant-rct]] | RCT (mandibular molars, abstract-only) | 21 | Steeper emergence angle (40° vs 32°) → significantly more 12-mo gingival recession (0.63 vs 0.13 mm, p=0.006); W/H-ratio-based profile design outperforms default healing-abutment contour | rct |
 | [[immediate-implant/esthetic-soft-tissue/block-2009-prospective-evaluation-immediate-delayed]] | Prospective RCT (2 yr) | 55 (76 recruited) | Immediate placement preserved ~1 mm more facial gingival margin vs delayed (4-month); crestal bone equivalent — timing advantage is soft-tissue, not hard-tissue | rct |
 | [[immediate-implant/esthetic-soft-tissue/chan-2019-randomized-controlled-trial-compare-aesthetic]] | RCT (12 mo) | 40 | Immediate provisional vs healing abutment: no significant difference in linear MML or papilla height; vertical crestal bone resorption higher with provisional — null on 2D metrics | rct |
 | [[immediate-implant/esthetic-soft-tissue/wang-2020-volumetric-facial-contour-changes-immediately]] | RCT + 3D volumetric analysis (12 mo) | 40 | Same cohort as Chan 2019: volumetric contour loss significantly less with provisional (11.9% vs 17.4%, P=0.04) despite null on linear metrics — **measurement method determines conclusion** | rct |
@@ -198,7 +198,7 @@ Assess buccal wall + biotype + infection + gap **before** committing.
 - [[immediate-implant/esthetic-soft-tissue/staas-2026-fiipp-palatal-position-cbct-3year]] — prospective 3-yr CBCT: ≥2 mm palatal offset maintains buccal crest thickness/height (mid-term confirmation of the position lever, no comparator arm)
 - [[immediate-implant/esthetic-soft-tissue/yang-2019-labial-bone-thickness-esthetics-iipp]] — prospective cohort: PES/WES declines below the 1–2 mm labial-plate threshold regardless of position — sets the esthetic ceiling
 - [[immediate-implant/anatomic-assessment/kan-2011-sagittal-root-position-immediate-implant-anterior]] — landmark CBCT SRP classification: Class I (root against labial cortex) most prevalent — the anatomic reason buccal fenestration risk (and the need for palatal shift) exists by default
-- [[implants/wang-2022-buccal-emergence-profile-peri-implant-rct]] — RCT (molars): steeper emergence angle (40° vs 32°) significantly worsens recession — the prosthetic mechanism that can partially offset a deep-palatal position's benefit if the emergence profile isn't deliberately designed
+- [[implants/peri-implantitis/wang-2022-buccal-emergence-profile-peri-implant-rct]] — RCT (molars): steeper emergence angle (40° vs 32°) significantly worsens recession — the prosthetic mechanism that can partially offset a deep-palatal position's benefit if the emergence profile isn't deliberately designed
 - [[overviews/implant-prosthesis-retention-screw-vs-cement-overview]] — companion overview: in premolars specifically, a palatal/lingual shift's ridge-angle discrepancy can force cement retention over screw-retained/SCRP
 
 - [[overviews/immediate-implant-decision-ladder]] — parent IIP decision ladder (timing/selection); this page is its esthetic/soft-tissue branch.

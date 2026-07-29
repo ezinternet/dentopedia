@@ -60,7 +60,7 @@ Systematic review. MEDLINE, Embase, additional databases searched through Septem
 (See wiki page for details)
 
 ## 6. Related Work
-- [[implants/atieh-2025-tissue-vs-bone-level-peri-implantitis-sr-ma]] — SR+MA (2025): TL vs BL peri-implantitis RR 0.59 (NS)
+- [[implants/peri-implantitis/atieh-2025-tissue-vs-bone-level-peri-implantitis-sr-ma]] — SR+MA (2025): TL vs BL peri-implantitis RR 0.59 (NS)
 - [[implants/mortazavi-2021-bone-loss-tissue-bone-level-implants]] — SR on risk factors for BL vs TL bone loss
 - [[implants/solderer-2025-tissue-level-implant-bone-loss-factors]] — retrospective: TL implant MBL risk factors
 

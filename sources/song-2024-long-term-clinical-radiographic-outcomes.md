@@ -15,7 +15,7 @@ text_filename: song-2024-long-term-clinical-radiographic-outcomes.txt
 
 ## Why Ingested
 
-5편 배치(임플란트 보철 margin/design ↔ MBL) 중 아시아 저널 대표편. Journal of Periodontal & Implant Science(JPIS, 한국치주과학회지)에 실린 연세대학교 치과대학병원의 872개 임플란트·12.3년 평균 추적 초장기(10년+) 후향적 코호트로, 표본크기·추적기간 면에서 이 도메인의 가장 견고한 실사용(real-world) 데이터 중 하나. 동일 저널·동일 국가(한국)의 [[implants/kim-2022-abutment-connection-mbl-survival]]과 함께 연결부 타입·임플란트 길이가 MBL/생존에 미치는 영향을 다루며, [[overviews/implant-prosthesis-misfit-connection-mbl-overview]]의 근거를 보강한다. 핵심 신규 발견은 8mm 이하 짧은 임플란트가 실패(HR 3.71) 및 병적 골소실(HR 2.00) 위험이 유의하게 높다는 것 — 기존 short-implant 우호적 문헌과 상충하는 결과라 요주의.
+5편 배치(임플란트 보철 margin/design ↔ MBL) 중 아시아 저널 대표편. Journal of Periodontal & Implant Science(JPIS, 한국치주과학회지)에 실린 연세대학교 치과대학병원의 872개 임플란트·12.3년 평균 추적 초장기(10년+) 후향적 코호트로, 표본크기·추적기간 면에서 이 도메인의 가장 견고한 실사용(real-world) 데이터 중 하나. 동일 저널·동일 국가(한국)의 [[implants/mbl/kim-2022-abutment-connection-mbl-survival]]과 함께 연결부 타입·임플란트 길이가 MBL/생존에 미치는 영향을 다루며, [[overviews/implant-prosthesis-misfit-connection-mbl-overview]]의 근거를 보강한다. 핵심 신규 발견은 8mm 이하 짧은 임플란트가 실패(HR 3.71) 및 병적 골소실(HR 2.00) 위험이 유의하게 높다는 것 — 기존 short-implant 우호적 문헌과 상충하는 결과라 요주의.
 
 ## Three-line Summary
 
@@ -96,7 +96,7 @@ Most failures (78.4%) were late and peri-implantitis-driven, reinforcing that re
 
 ## 6. Related Work
 
-- [[implants/kim-2022-abutment-connection-mbl-survival]] — 동일 국가·저널(JPIS), 연결 타입(external vs internal)이 MBL에 미치는 영향; 본 논문은 연결 타입 고정, 길이 변수를 규명
+- [[implants/mbl/kim-2022-abutment-connection-mbl-survival]] — 동일 국가·저널(JPIS), 연결 타입(external vs internal)이 MBL에 미치는 영향; 본 논문은 연결 타입 고정, 길이 변수를 규명
 - [[overviews/implant-prosthesis-misfit-connection-mbl-overview]] — 보철 부적합·연결부 → MBL 종합 개관; 본 논문의 초장기 실사용 생존/MBL 데이터로 보강
 - [[implants]] — 짧은 임플란트, 마이크로스레드, MBL 위험인자 문헌 일반
 

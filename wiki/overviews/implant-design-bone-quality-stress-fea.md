@@ -87,4 +87,4 @@ Caveat: every input here is in silico (homogeneous/isotropic bone, static single
 - [[implants/hussein-2019-thread-depth-implant-shape-stress-mandible-fea]] — taper vs cylinder peak stress.
 - [[implants/chang-2024-optimization-implant-design-bone-quality-fea]] — thread-depth optimization per bone quality.
 - [[implants/ozturk-2026-stress-distribution-anterior-implant-fea]] — anterior single-implant scenarios.
-- [[implants/heimes-2023-macrogeometry-primary-stability-implants-narrative-review]] — macrogeometry-stability counterpart to the stress trade-off.
+- [[implants/isq/heimes-2023-macrogeometry-primary-stability-implants-narrative-review]] — macrogeometry-stability counterpart to the stress trade-off.

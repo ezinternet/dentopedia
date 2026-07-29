@@ -85,6 +85,6 @@ The primary outcome was physiological bone remodeling (PBR) measured radiographi
 ## Related Papers
 
 - [[implants/short-narrow/emfietzoglou-2024-short-implants-6mm-survival-posterior-edentulism-sr]] — SR on survival of ≤6 mm short implants in posterior jaws; contextualizes 100% 1-year survival here
-- [[implants/atieh-2025-tissue-vs-bone-level-peri-implantitis-sr-ma]] — SR+MA on peri-implantitis risk: tissue vs. bone-level implants; supports tissue-level advantage found here
+- [[implants/peri-implantitis/atieh-2025-tissue-vs-bone-level-peri-implantitis-sr-ma]] — SR+MA on peri-implantitis risk: tissue vs. bone-level implants; supports tissue-level advantage found here
 - [[implants/mbl/mortazavi-2021-bone-loss-tissue-bone-level-implants]] — marginal bone loss comparison, tissue vs. bone-level implants; comparative context
 - [[implants/cosola-2020-bone-tissue-level-radiological-sr]] — radiological SR of bone and tissue-level implants; systematic evidence base for the field

@@ -51,6 +51,6 @@ In vitro bovine rib (type-IV bone mimic), 160 specimens, 4 RBH × 4 Straumann ma
 
 ## Related Papers
 - [[implants/isq/sennerby-2008-implant-stability-resonance-frequency-analysis]] — ISQ determined by bone quality + BIC + exposed length
-- [[implants/di-stefano-2021-stability-dental-implants-cortical-bone]] — cortical thickness ↔ ISQ
+- [[implants/isq/di-stefano-2021-stability-dental-implants-cortical-bone]] — cortical thickness ↔ ISQ
 - [[sinus-lift/lateral/ramirez-fernandez-2017-implant-stability-biological-hydroxyapatites-sinus]] — clinical ISQ trajectory after sinus lift
 - [[sinus-lift/transcrestal/sirinirund-2025-minimally-invasive-sinus-augmentation-review]] — RBH threshold for technique choice

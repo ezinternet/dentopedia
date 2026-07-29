@@ -64,4 +64,4 @@ Chrcanovic et al. (2014) conducted a PRISMA-compliant meta-analysis comparing fl
 
 - [[implants/loading-protocol/benic-2014-loading-protocols-single-implant-crowns-sr-ma]] — complementary SR+MA on implant loading protocols from same year
 - [[implants/peri-implantitis/berglundh-2018-peri-implant-diseases-conditions-consensus]] — consensus on peri-implant tissue conditions relevant to surgical approach outcomes
-- [[implants/buser-2017-modern-implant-dentistry-osseointegration-50years]] — historical context for evolving implant surgical protocols
+- [[implants/surface/buser-2017-modern-implant-dentistry-osseointegration-50years]] — historical context for evolving implant surgical protocols

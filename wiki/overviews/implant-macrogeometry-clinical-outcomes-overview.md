@@ -5,9 +5,9 @@ date: 2026-06-20
 status: done
 source_wiki:
   - wiki/implants/mourao-2025-tapered-vs-cylindrical-implants-early-healing-rct.md
-  - wiki/implants/chrcanovic-2025-neck-design-peri-implant-tissues-12mo-rct.md
+  - wiki/implants/peri-implantitis/chrcanovic-2025-neck-design-peri-implant-tissues-12mo-rct.md
   - wiki/implants/albrektsson-1981-osseointegrated-titanium-implants-requirements.md
-  - wiki/implants/heimes-2023-macrogeometry-primary-stability-implants-narrative-review.md
+  - wiki/implants/isq/heimes-2023-macrogeometry-primary-stability-implants-narrative-review.md
   - wiki/implants/hussein-2019-thread-depth-implant-shape-stress-mandible-fea.md
   - wiki/implants/chang-2024-optimization-implant-design-bone-quality-fea.md
   - wiki/immediate-implant/hernandez-2026-wide-thread-implant-macrogeometry-immediate.md
@@ -146,9 +146,9 @@ The Mourão (2025) RCT appraisal establishes that drilling protocol — specific
 ## Related Papers
 
 - [[implants/mourao-2025-tapered-vs-cylindrical-implants-early-healing-rct]] — primary: tapered vs cylindrical RCT appraisal; macrogeometry vs technique as primary stability driver
-- [[implants/chrcanovic-2025-neck-design-peri-implant-tissues-12mo-rct]] — primary: triangular vs round neck design RCT; 12-month null result for MBL and soft tissue
+- [[implants/peri-implantitis/chrcanovic-2025-neck-design-peri-implant-tissues-12mo-rct]] — primary: triangular vs round neck design RCT; 12-month null result for MBL and soft tissue
 - [[implants/albrektsson-1981-osseointegrated-titanium-implants-requirements]] — primary: foundational 6-prerequisite framework for osseointegration
-- [[implants/heimes-2023-macrogeometry-primary-stability-implants-narrative-review]] — supporting: macrogeometry mechanisms and primary stability; tapered + larger diameter for low-density bone
+- [[implants/isq/heimes-2023-macrogeometry-primary-stability-implants-narrative-review]] — supporting: macrogeometry mechanisms and primary stability; tapered + larger diameter for low-density bone
 - [[implants/hussein-2019-thread-depth-implant-shape-stress-mandible-fea]] — supporting: crestal stress penalty of tapered design in FEA
 - [[implants/chang-2024-optimization-implant-design-bone-quality-fea]] — supporting: thread depth optimization by bone quality; D3/D4 crestal stress reduction
 - [[implants/isq/bhattacharya-2025-macrogeometry-implant-stability-bone-markers-split-mouth-rct]] — supporting: split-mouth RCT (n=18) — healing-chamber macrogeometry seats at lower insertion torque but equivalent ISQ + lower early TNF-α; clinical confirmation of torque≠ISQ dissociation

@@ -72,4 +72,4 @@ Clinically: reach for a customized (anatomically shaped) healing abutment when y
 
 - [[implants/rios-santos-2020-one-abutment-one-time-rct]] — reinforces: both support early, stable peri-implant soft-tissue management (one-abutment/one-time vs customized healing abutment) that avoids repeated abutment disconnection or late compressive shaping.
 - [[immediate-implant/esthetic-soft-tissue/dutra-2025-customized-healing-abutments-immediate-implants]] — extends: focused customized-healing-abutment evidence specifically in the immediate-implant context this review's 4 immediate-placement studies cover.
-- [[implants/siegenthaler-2022-convex-emergence-profile-mucosal-recession-rct]] — refines: qualifies emergence-profile contouring outcomes (convex profile and mucosal recession), the mechanism customized healing abutments aim to manage.
+- [[implants/soft-tissue/siegenthaler-2022-convex-emergence-profile-mucosal-recession-rct]] — refines: qualifies emergence-profile contouring outcomes (convex profile and mucosal recession), the mechanism customized healing abutments aim to manage.

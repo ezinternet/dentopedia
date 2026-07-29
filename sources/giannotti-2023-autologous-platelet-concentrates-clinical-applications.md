@@ -79,7 +79,7 @@ Dental implantology outcomes: CGF accelerates osseointegration and improves impl
 
 - [[bone-regeneration/cho-2026-prf-bone-regeneration-mechanisms-scoping-review]] — deep PRF-specific mechanism review (osteoimmunology, macrophage polarization); this paper extends the comparison to PRP and CGF generations and adds cellular/stem-cell characterization.
 - [[bone-regeneration/chakar-2014-dbbm-bcp-platelet-lysate-rabbit]] — platelet lysate combined with bone-substitute biomaterials (animal model), a related but materials-combination angle rather than APC-generation comparison.
-- [[periodontics/miron-2024-autogenous-platelet-concentrates-intrabony-defects]], [[periodontics/miron-2024-prf-furcation-defects-sr-ma]], [[periodontics/barootchi-2024-autologous-platelet-concentrates-root-coverage]] — clinical-outcome SR/MA/NMA evidence for PRF/PRP/CGF in periodontal regeneration; this paper supplies the underlying growth-factor/cellular mechanism these clinical papers assume but do not detail.
+- [[periodontics/host-modulation/miron-2024-autogenous-platelet-concentrates-intrabony-defects]], [[periodontics/host-modulation/miron-2024-prf-furcation-defects-sr-ma]], [[periodontics/barootchi-2024-autologous-platelet-concentrates-root-coverage]] — clinical-outcome SR/MA/NMA evidence for PRF/PRP/CGF in periodontal regeneration; this paper supplies the underlying growth-factor/cellular mechanism these clinical papers assume but do not detail.
 - [[overviews/periodontal-regenerative-platelet-concentrates-overview]] — synthesis of the three sibling clinical SR/MA papers above; this paper is the mechanistic/biological counterpart.
 
 ## 7. Glossary

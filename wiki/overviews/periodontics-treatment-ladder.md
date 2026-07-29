@@ -98,7 +98,7 @@ SRP 강한 권고; 전신 독시사이클린 추가 PPD 이득 0.2–0.4 mm(소)
 | [[periodontics/non-surgical-instrumentation/meseli-2016-probing-depth-srp-response-periodontitis]] | prospective (1,672 pocket) | IPD=3mm 제외 전 군 PD 감소 유의. IPD ≥ 7mm 다근치 AG 유의 |
 | [[periodontics/herrera-2022-treatment-stage-iv-periodontitis-efp]] | consensus (EFP S3) | Stage IV — 치주 + 교정·보철 다학제 + 집중 SPT |
 | [[periodontics/meng-2024-nspt-cardiovascular-risk-markers-sr-ma]] | sr+ma (21 RCT) | SRP 후 CRP·IL-6·SBP 유의 감소. Lipids·DBP NS |
-| [[periodontics/barahim-2024-ozone-gel-srp-diabetic-periodontitis-rct]] | rct (n=24) | SRP가 T2DM + stage III에서 핵심 동력; 오존 겔 추가 시 방사선학적 골결손 개선 + 3개월 PPD·VAS 이점 (소규모) |
+| [[periodontics/non-surgical-instrumentation/barahim-2024-ozone-gel-srp-diabetic-periodontitis-rct]] | rct (n=24) | SRP가 T2DM + stage III에서 핵심 동력; 오존 겔 추가 시 방사선학적 골결손 개선 + 3개월 PPD·VAS 이점 (소규모) |
 
 **임상 ladder (비외과)**:
 1. **Stage I-II** — Full-mouth SRP 1-2회 + plaque control 교육 → 4-6w 재평가 → SPT.
@@ -120,7 +120,7 @@ SRP 강한 권고; 전신 독시사이클린 추가 PPD 이득 0.2–0.4 mm(소)
 
 | Spine paper | Evidence | Key finding |
 |---|---|---|
-| [[periodontics/stavropoulos-2021-periodontal-regeneration-intrabony-nma]] | sr+ma (NMA, 30 RCT, 3-20y) | 골내결손 재생 — GTR+이식재·EMD+이식재가 OFD 우위. 병용 > 단독 |
+| [[periodontics/host-modulation/stavropoulos-2021-periodontal-regeneration-intrabony-nma]] | sr+ma (NMA, 30 RCT, 3-20y) | 골내결손 재생 — GTR+이식재·EMD+이식재가 OFD 우위. 병용 > 단독 |
 | [[periodontics/nibali-2016-tooth-loss-furcation-involvement-sr-ma]] | sr+ma (21편) | 치근분지부 침범 — SPT 10-15y 발치 위험 2.21배. 3도 포함 대부분 보존 가능 |
 | [[periodontics/roccuzzo-2022-implants-periodontitis-history-20year-prospective]] | prospective (20y) | 치주염력 임플란트 생존 81% vs 비병력 91%. SPT 순응도 결정적 |
 | [[periodontics/marty-2024-implant-treated-periodontitis-sr-ma]] | sr+ma (10편) | 치주염력 환자 — peri-implantitis 위험 ~4.8배 |
@@ -316,7 +316,7 @@ SRP 강한 권고; 전신 독시사이클린 추가 PPD 이득 0.2–0.4 mm(소)
 - [[periodontics/herrera-2018-acute-periodontal-lesions-periodontal-abscesses]] — 2017 World Workshop review: classification frameworks for periodontal abscesses (by etiology), necrotizing periodontal diseases (by host immune status), and endo-periodontal lesions (by fractures/perforations + periodontitis status). (narrative-review, 2018)
 - [[periodontics/lee-2017-oxysterol-periodontal-regeneration-pdlsc-alveolar-bone]] — In-vitro + animal: oxysterol combination (22(S)+20(S)-hydroxycholesterol) drives PDLSC osteogenesis via LXR↔Hedgehog signaling; rat alveolar bone regeneration comparable to rhBMP-2 (μCT NS). (animal, 2017)
 - [[oral-microbiology/buskermolen-2018-saliva-derived-biofilms-gingiva-model]] — In-vitro: organotypic reconstructed human gingiva + saliva-derived commensal/pathogenic multispecies biofilms → distinct host inflammatory responses; antimicrobial screening platform. (in-vitro, 2018)
-- [[periodontics/barahim-2024-ozone-gel-srp-diabetic-periodontitis-rct]] — RCT (n=24, controlled T2DM + stage III grade B): SRP+ozonated gel vs SRP alone — both arms improved CAL/PPD/HbA1c (no intergroup difference); ozone arm: significant within-group radiographic defect improvement (RLDD 3.44→2.66 mm, p=0.008) + 3-month PPD advantage (p=0.045) + less VAS pain (p=0.017). (rct, 2024)
+- [[periodontics/non-surgical-instrumentation/barahim-2024-ozone-gel-srp-diabetic-periodontitis-rct]] — RCT (n=24, controlled T2DM + stage III grade B): SRP+ozonated gel vs SRP alone — both arms improved CAL/PPD/HbA1c (no intergroup difference); ozone arm: significant within-group radiographic defect improvement (RLDD 3.44→2.66 mm, p=0.008) + 3-month PPD advantage (p=0.045) + less VAS pain (p=0.017). (rct, 2024)
 - [[periodontics/mucogingival-surgery-apf-fgg-ctg]] — Synthesis page: APF·FGG·CTG 3-arm selection criteria, clinical indications, evidence, and decision flow. (synthesis, 2026)
 
 ### 신규 추가 (2026-06)
@@ -325,7 +325,7 @@ SRP 강한 권고; 전신 독시사이클린 추가 PPD 이득 0.2–0.4 mm(소)
 - [[periodontics/baeza-2020-effect-periodontal-treatment-patients-periodontitis]] — SR+MA of 9 RCTs: scaling and root planing in type 2 diabetics with periodontitis significantly reduced HbA1c (mean difference 0.56% … (sr+ma, 2020)
 - [[periodontics/caton-2018-classification-scheme-periodontal-periimplant-diseases]] — 2017 World Workshop (AAP/EFP) introductory paper establishing the current classification of periodontal and peri-implant diseases: periodontitis stagi … (consensus, 2018)
 - [[periodontics/non-surgical-instrumentation/cyris-2024-guided-biofilm-therapy-versus-conventional]] — Split-mouth RCT (n=60 stage III/IV periodontitis patients, treated by supervised dental students): Guided Biofilm Therapy (erythritol air-polishing + … (rct, 2024)
-- [[periodontics/deepthi-2020-ozone-therapy-periodontics-meta-analysis]] — SR+MA of 7 RCTs (n=13-113 per study) finding ozone as an adjunct to scaling and root planing produced small … (sr+ma, 2020)
+- [[periodontics/non-surgical-instrumentation/deepthi-2020-ozone-therapy-periodontics-meta-analysis]] — SR+MA of 7 RCTs (n=13-113 per study) finding ozone as an adjunct to scaling and root planing produced small … (sr+ma, 2020)
 - [[periodontics/dommisch-2026-management-periodontal-abscesses-endodontic-periodontal]] — Systematic review (no meta-analysis; 7 PICOS questions, ~21 included studies) of periodontal abscess and endodontic-periodontal lesion (EPL) managemen … (sr, 2026)
 - [[periodontics/herrera-2014-acute-periodontal-lesions]] — Narrative review (Periodontology 2000) of acute periodontal lesions … (narrative-review, 2014)
 - [[periodontics/jkda-2025-63-11-005]] — Special issue review (보훈공단 중앙보훈병원 치주과 송영우, JKDA 2025): 치주질환 치료의 근거 기반 권장사항 + 전신질환 (심혈관·당뇨) 연관성 강조. (narrative-review, 2025)
@@ -345,7 +345,7 @@ SRP 강한 권고; 전신 독시사이클린 추가 PPD 이득 0.2–0.4 mm(소)
 - [[periodontics/non-surgical-instrumentation/smiley-2015-nonsurgical-periodontitis-srp-guideline]]
 - [[periodontics/non-surgical-instrumentation/meseli-2016-probing-depth-srp-response-periodontitis]]
 - [[periodontics/meng-2024-nspt-cardiovascular-risk-markers-sr-ma]]
-- [[periodontics/stavropoulos-2021-periodontal-regeneration-intrabony-nma]]
+- [[periodontics/host-modulation/stavropoulos-2021-periodontal-regeneration-intrabony-nma]]
 - [[periodontics/nibali-2016-tooth-loss-furcation-involvement-sr-ma]]
 - [[periodontics/roccuzzo-2022-implants-periodontitis-history-20year-prospective]]
 - [[periodontics/marty-2024-implant-treated-periodontitis-sr-ma]]

@@ -15,7 +15,7 @@ text_filename: pirc-2026-one-piece-two-piece-implants-15year-rct.txt
 
 ## Why Ingested
 
-Provides rare 15–17-year RCT follow-up data comparing one-piece (Straumann SLA transmucosal) vs two-piece (Brånemark TiUnite) implants — the longest comparative RCT data currently available for this design question. Extends and contextualizes [[implants/atieh-2025-tissue-vs-bone-level-peri-implantitis-sr-ma]] (1–5y SR+MA showing TL vs BL comparable outcomes) with an ultra-long-term perspective revealing diverging technical complication profiles.
+Provides rare 15–17-year RCT follow-up data comparing one-piece (Straumann SLA transmucosal) vs two-piece (Brånemark TiUnite) implants — the longest comparative RCT data currently available for this design question. Extends and contextualizes [[implants/peri-implantitis/atieh-2025-tissue-vs-bone-level-peri-implantitis-sr-ma]] (1–5y SR+MA showing TL vs BL comparable outcomes) with an ultra-long-term perspective revealing diverging technical complication profiles.
 
 ## Three-line Summary
 
@@ -127,7 +127,7 @@ No implant fractures, screw fractures, or framework fractures in either group.
 
 ## 6. Related Work
 
-- [[implants/atieh-2025-tissue-vs-bone-level-peri-implantitis-sr-ma]] — SR+MA (1–5y) showing TL vs BL comparable peri-implantitis; current paper extends this to 15–17y
+- [[implants/peri-implantitis/atieh-2025-tissue-vs-bone-level-peri-implantitis-sr-ma]] — SR+MA (1–5y) showing TL vs BL comparable peri-implantitis; current paper extends this to 15–17y
 - [[implants/mortazavi-2021-bone-loss-tissue-bone-level-implants]] — tissue vs bone level implant bone loss comparison
 - [[implants/cosola-2020-bone-tissue-level-radiological-sr]] — radiological SR on bone vs tissue level implants
 - [[implants/derks-2015-peri-implant-health-disease-epidemiology]] — peri-implant disease prevalence reference

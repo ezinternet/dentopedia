@@ -12,7 +12,7 @@ pdf_filename: N/A
 source_collection: synthesis
 source_papers:
   - wiki/implants/chrcanovic-2014-flapless-vs-conventional-implant-surgery-ma.md
-  - wiki/implants/surendra-2025-flapless-versus-flapped-crestal-bone.md
+  - wiki/implants/mbl/surendra-2025-flapless-versus-flapped-crestal-bone.md
   - wiki/implants/tarpara-2025-flapless-flapped-clinical-outcomes-cohort.md
   - wiki/immediate-implant/pitman-2023-immediate-implant-flap-flapless-sr-ma.md
   - wiki/immediate-implant/mansouri-2025-flapless-immediate-implant-bone-grafting-sr-ma.md
@@ -80,7 +80,7 @@ Flapless (transmucosal punch) implant surgery is marketed as less traumatic, les
 ## Related Papers
 
 - [[implants/chrcanovic-2014-flapless-vs-conventional-implant-surgery-ma]] — SR+MA: flapless failure RR 1.75, vanishes in low-RoB subset; no infection/MBL difference.
-- [[implants/surendra-2025-flapless-versus-flapped-crestal-bone]] — RCT: flapless preserves significantly more crestal bone at 3/6 months (healed posterior mandible).
+- [[implants/mbl/surendra-2025-flapless-versus-flapped-crestal-bone]] — RCT: flapless preserves significantly more crestal bone at 3/6 months (healed posterior mandible).
 - [[implants/tarpara-2025-flapless-flapped-clinical-outcomes-cohort]] — cohort: no crestal-bone difference at 12 months; flapless less pain, lower 6-month PD.
 - [[immediate-implant/pitman-2023-immediate-implant-flap-flapless-sr-ma]] — SR+MA (immediate setting): flapless favors buccal tissue, small operator-dependent differences.
 - [[immediate-implant/gap-grafting/mansouri-2025-flapless-immediate-implant-bone-grafting-sr-ma]] — SR+MA: flapless immediate + gap grafting trends to better hard-tissue preservation.

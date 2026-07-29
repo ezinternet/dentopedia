@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-지르코니아 임플란트 생존·MBL 근거의 초기 high-quality SR(JDR). 최신 [[implants/mohseni-2024-clinical-outcomes-zirconia-implants]] SR+MA의 historical anchor로서, 12개월 생존율과 MBL covariate 분석을 제공.
+지르코니아 임플란트 생존·MBL 근거의 초기 high-quality SR(JDR). 최신 [[implants/surface/mohseni-2024-clinical-outcomes-zirconia-implants]] SR+MA의 historical anchor로서, 12개월 생존율과 MBL covariate 분석을 제공.
 
 ## Three-line Summary
 

@@ -6,7 +6,7 @@ date: 2025-11-01
 doi: 10.1111/clr.70068
 pmid: "41275475"
 source: chrcanovic-2025-neck-design-peri-implant-tissues-12mo-rct.md
-category: implants
+category: [implants/peri-implantitis]
 evidence_level: rct
 source_collection: pubmed-text
 full_text: false

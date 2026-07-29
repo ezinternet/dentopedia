@@ -5,7 +5,7 @@ year: 2022
 date: 2022-04-07
 doi: 10.1111/cid.13088
 source: wang-2022-buccal-emergence-profile-peri-implant-rct.md
-category: [implants]
+category: [implants/peri-implantitis]
 evidence_level: rct
 source_collection: pubmed-text
 full_text: false
@@ -67,6 +67,6 @@ Clinically: when supracrestal soft tissue is ≥2 mm at a mandibular molar, desi
 
 ## Related Papers
 
-- [[implants/siegenthaler-2022-convex-emergence-profile-mucosal-recession-rct]] — reinforces: companion RCT on emergence-profile contour (convex configuration) and buccal mucosal recession; same year, same outcome family.
+- [[implants/soft-tissue/siegenthaler-2022-convex-emergence-profile-mucosal-recession-rct]] — reinforces: companion RCT on emergence-profile contour (convex configuration) and buccal mucosal recession; same year, same outcome family.
 - [[implants/ruhstorfer-2024-customized-vs-conventional-healing-abutments-sr]] — the healing-abutment workflow that establishes the early emergence profile this trial then re-shapes at the definitive stage.
 - [[implants/peri-implantitis/soulami-2022-implant-abutment-emergence-angle-peri-implantitis-sr]] — links steeper emergence angles to peri-implantitis risk, consistent with the better margin behavior of the lower (~32°) angle here.

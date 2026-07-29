@@ -82,6 +82,6 @@ Pooled mean BIC was 59.88% (95% CI: 57.43–62.33), with significant temporal pr
 
 ## Related Papers
 
-- [[implants/bosshardt-2017-osseointegration-titanium-zirconia-review]] — osseointegration mechanisms and BIC in titanium vs zirconia (human/clinical context)
+- [[implants/surface/bosshardt-2017-osseointegration-titanium-zirconia-review]] — osseointegration mechanisms and BIC in titanium vs zirconia (human/clinical context)
 - [[implants/albrektsson-1981-osseointegrated-titanium-implants-requirements]] — original osseointegration criteria and success thresholds
 - [[implants/peri-implantitis/berglundh-2018-peri-implant-diseases-conditions-consensus]] — peri-implant tissue biology consensus

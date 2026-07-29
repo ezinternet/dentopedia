@@ -63,6 +63,6 @@ This pragmatic prospective cohort compared flapless and flapped placement of sin
 
 ## Related Papers
 
-- [[implants/surendra-2025-flapless-versus-flapped-crestal-bone]] — contradicts: an RCT (n=40) found flapless preserved significantly more crestal bone at 3 and 6 months; this cohort found no crestal difference at 12 months.
+- [[implants/mbl/surendra-2025-flapless-versus-flapped-crestal-bone]] — contradicts: an RCT (n=40) found flapless preserved significantly more crestal bone at 3 and 6 months; this cohort found no crestal difference at 12 months.
 - [[immediate-implant/pitman-2023-immediate-implant-flap-flapless-sr-ma]] — flap-vs-flapless SR+MA in the immediate-implant setting.
 - [[bone-regeneration/ridge-preservation/araujo-2009-ridge-alterations-flap-vs-flapless]] — foundational flap-vs-flapless dimensional-change comparison.

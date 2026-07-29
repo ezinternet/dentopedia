@@ -51,5 +51,5 @@ SR to Nov 2015; 4196 titles → 2 RCT + 7 prospective (326 patients, 398 implant
 - Design/material/restoration/loading: no significant MBL effect.
 
 ## Related Papers
-- [[implants/mohseni-2024-clinical-outcomes-zirconia-implants]] — partially superseded by (larger, longer follow-up update)
+- [[implants/surface/mohseni-2024-clinical-outcomes-zirconia-implants]] — partially superseded by (larger, longer follow-up update)
 - [[behavioral-dentistry/patient-reported-outcomes/arefnia-2025-patient-reported-outcomes-zirconia-implant]] — reinforces (PRO evidence for zirconia implants)

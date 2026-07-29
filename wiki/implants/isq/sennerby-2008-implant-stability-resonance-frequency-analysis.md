@@ -67,5 +67,5 @@ ISQ
 
 ## Related Papers
 - [[implants/isq/oh-2008-comparison-of-initial-implant-stability]] — ISQ 임계값 실증 연구
-- [[implants/di-stefano-2021-stability-dental-implants-cortical-bone]] — 피질골 두께 ↔ ISQ 상관관계
+- [[implants/isq/di-stefano-2021-stability-dental-implants-cortical-bone]] — 피질골 두께 ↔ ISQ 상관관계
 - [[implants/isq/seol-2017-uv-implant-resonance-frequency-early-loading]] — UV 임플란트 ISQ 추이 및 조기부하

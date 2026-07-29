@@ -74,7 +74,7 @@ External hex > Internal hex > Conical > Morse taper
 - **First-year MBL is critical**: majority of total MBL occurs in year 1 (Wu 2018: ~1.2mm yr1 vs 0.78mm over next 4 years)
 
 ## Related Papers
-- [[implants/di-stefano-2021-stability-dental-implants-cortical-bone]] — cortical bone and primary stability
+- [[implants/isq/di-stefano-2021-stability-dental-implants-cortical-bone]] — cortical bone and primary stability
 - [[implants/surface/attik-2022-comparison-of-biological-behavior-and]] — minimally invasive vs standard implant biocompatibility
 - [[implants/rosa-2024-do-dental-implants-bone-types]] — bone type effect on implant survival
 - [[prosthetic-materials/abutment-screw/kim-2019-astra-implant-dissection-solutions]] — abutment connection and screw loosening

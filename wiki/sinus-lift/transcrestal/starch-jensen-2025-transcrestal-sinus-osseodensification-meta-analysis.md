@@ -57,4 +57,4 @@ Osseodensification burs compact trabecular bone laterally instead of removing it
 - [[sinus-lift/transcrestal/stuhr-2025-long-term-stability-transcrestal-sinus-augmentation]] — TSFE long-term
 - [[sinus-lift/lateral/starch-jensen-2017-sinus-floor-augmentation-treatment-modalities]] — earlier modality review
 - [[sinus-lift/lateral/allurkar-2025-implant-stability-residual-bone-macrodesign]] — RBH + macro-design effect
-- [[implants/di-stefano-2021-stability-dental-implants-cortical-bone]] — cortical thickness drives ISQ
+- [[implants/isq/di-stefano-2021-stability-dental-implants-cortical-bone]] — cortical thickness drives ISQ

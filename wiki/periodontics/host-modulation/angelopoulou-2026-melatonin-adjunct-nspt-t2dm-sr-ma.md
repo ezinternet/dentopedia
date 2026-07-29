@@ -81,7 +81,7 @@ Pooled (2 RCTs, n=94, 8 weeks) — all favoring adjunctive melatonin; all GRADE-
 
 ## Related Papers
 
-- [[periodontics/barahim-2024-ozone-gel-srp-diabetic-periodontitis-rct]] — extends: same T2DM + periodontitis NSPT-adjunct question, local ozone gel vs systemic melatonin here.
+- [[periodontics/non-surgical-instrumentation/barahim-2024-ozone-gel-srp-diabetic-periodontitis-rct]] — extends: same T2DM + periodontitis NSPT-adjunct question, local ozone gel vs systemic melatonin here.
 - [[periodontics/oral-hygiene-instruction/lee-2020-watanabe-toothpick-method-srp-diabetic-periodontitis-rct]] — diabetic periodontitis SRP adjunct (mechanical method) — same population, different adjunct class.
 - [[periodontics/host-modulation/fernandez-2025-coenzyme-q10-nonsurgical-periodontal-sr]] — another antioxidant host-modulation NSPT adjunct.
 - [[periodontics/host-modulation/heo-2022-omega-3-fatty-acids-periodontitis-ma]] — anti-inflammatory dietary adjunct to periodontal therapy.

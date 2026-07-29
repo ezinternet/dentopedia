@@ -93,7 +93,7 @@ Oh & Chang (2008, in-vivo, 한국 임상 가이드) 가 동일 구조를 다음�
 |---|---|---|---|---|
 | **sr+ma** | [[implants/isq/tisci-2026-isq-it-mbl-survival-sr-ma]] | 48 studies (20 quant) | ISQ는 1차 안정성 보조 지표; 단독으로 MBL·생존 예측 부족 | ISQ–IT r=0.44, I²>90% |
 | **sr+ma** | [[implants/rosa-2024-do-dental-implants-bone-types]] | 49 studies, 29,905 implants | 골질이 ISQ·생존 결정; type IV 실패 RR 1.92 | D1 72–80, D4 58–65 |
-| **sr** | [[implants/di-stefano-2021-stability-dental-implants-cortical-bone]] | 13 studies | 피질골 두께 → ISQ 양의 상관 (r=0.84) | 양측피질고정 최고 |
+| **sr** | [[implants/isq/di-stefano-2021-stability-dental-implants-cortical-bone]] | 13 studies | 피질골 두께 → ISQ 양의 상관 (r=0.84) | 양측피질고정 최고 |
 | **sr** | [[implants/isq/al-juboori-2024-cortical-thickness-implant-stability-sr]] | SR | 두꺼운 피질골 → **1차·2차 안정성 모두** 향상 (IT·ISQ↑); di-Stefano 2021·Nkenke 2003 재확인, 측정법 이질성이 한계 | 피질 두께가 핵심 결정인자 |
 | **prospective(n=19)** | [[implants/isq/chatvaratthana-2017-cortical-bone-crestal-buccolingual-isq]] | 19 implants (Conelog, posterior) | **치조정 피질골 두께 r=0.885**로 ISQ의 단일 최강 예측인자; 3mm 깊이만 유의, 6·9mm 무관; 해면골 무상관 | 3mm 이내 피질골 지배 |
 | **retrospective(n=557)** | [[implants/isq/huang-2017-multivariate-regression-isq-prediction]] | 557 implants (2 brands, 2 surgeons) | T1 일반 예측인자: 골이식 여부 (β=−4~−5); T2 일반 예측인자: 직경 (β=+3.4~+4.2); 길이·성별·연령·골질 T2에서 NS | 직경과 골이식이 시스템 독립적 ISQ 인자 |

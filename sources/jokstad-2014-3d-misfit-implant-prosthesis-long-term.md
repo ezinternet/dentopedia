@@ -67,7 +67,7 @@ but prostheses with screw complications had significantly higher misfit (169 vs 
 
 ## 6. Related Work
 - [[implants/katsoulis-2017-misfit-implant-prosthesis-clinical-outcomes-sr]] — SR citing this study
-- [[implants/couso-queiruga-2025-misfit-implant-prosthesis-bone-loss]] — updates bone loss threshold to ≥0.1 mm
+- [[implants/mbl/couso-queiruga-2025-misfit-implant-prosthesis-bone-loss]] — updates bone loss threshold to ≥0.1 mm
 
 ## 7. Glossary
 - **Framework misfit / marginal gap**: deviation between prosthesis interface and implant platform when seated

@@ -5,10 +5,10 @@ category: overviews
 date: 2026-06-07
 evidence_level: synthesis
 source_papers:
-  - wiki/implants/mohseni-2024-clinical-outcomes-zirconia-implants.md
+  - wiki/implants/surface/mohseni-2024-clinical-outcomes-zirconia-implants.md
   - wiki/implants/pieralli-2017-clinical-outcomes-zirconia-dental-implants.md
   - wiki/behavioral-dentistry/patient-reported-outcomes/arefnia-2025-patient-reported-outcomes-zirconia-implant.md
-  - wiki/implants/shetty-2026-titanium-vs-zirconia-implants-umbrella.md
+  - wiki/implants/surface/shetty-2026-titanium-vs-zirconia-implants-umbrella.md
 tags: [zirconia-implant, survival, marginal-bone-loss, PROM, synthesis]
 relations:
   - type: applies-to
@@ -100,7 +100,7 @@ The first split-mouth RCT comparing peri-implant microbiome evolution on zirconi
 - MBL, PPD, PI, BoP were mixed/comparable across the 6 SRs — no consistent titanium or zirconia advantage.
 - Osseointegration timing crossover: zirconia ahead at 2 weeks (bone-to-implant contact 54–55% vs 42–52%), titanium ahead at 4 weeks (68–91% vs 62–80%).
 
-**Why this creates tension with the Thesis above**: Shetty 2026 pools older, heterogeneous SRs (through March 2023) without stratifying by implant design (one-piece vs two-piece) or coronal fabrication method (drill-prepared vs factory-finished) — precisely the two levers Mohseni 2024 identifies as the actual drivers of zirconia failure. Shetty's material-level "Ti > Zr" signal is therefore best read as reflecting an evidence base still dominated by older/two-piece/drill-prepared zirconia systems, not a fixed ceramic-vs-metal ceiling. [[implants/mohseni-2024-clinical-outcomes-zirconia-implants]] is larger (25 studies/4,017 implants vs Shetty's 6 reviews), more recent, and directly stratifies by design — it remains the stronger evidence source for this overview's clinical decision points. Relation logged as `contradicts` on Shetty's page, not `superseded_by` on Mohseni's, since Mohseni is not overturned — the two papers are answering a subtly different question (raw material comparison vs design-controlled comparison).
+**Why this creates tension with the Thesis above**: Shetty 2026 pools older, heterogeneous SRs (through March 2023) without stratifying by implant design (one-piece vs two-piece) or coronal fabrication method (drill-prepared vs factory-finished) — precisely the two levers Mohseni 2024 identifies as the actual drivers of zirconia failure. Shetty's material-level "Ti > Zr" signal is therefore best read as reflecting an evidence base still dominated by older/two-piece/drill-prepared zirconia systems, not a fixed ceramic-vs-metal ceiling. [[implants/surface/mohseni-2024-clinical-outcomes-zirconia-implants]] is larger (25 studies/4,017 implants vs Shetty's 6 reviews), more recent, and directly stratifies by design — it remains the stronger evidence source for this overview's clinical decision points. Relation logged as `contradicts` on Shetty's page, not `superseded_by` on Mohseni's, since Mohseni is not overturned — the two papers are answering a subtly different question (raw material comparison vs design-controlled comparison).
 
 ## Gaps & Future Research
 - Few studies beyond 60 months; long-term fracture/abutment-screw data sparse.
@@ -109,11 +109,11 @@ The first split-mouth RCT comparing peri-implant microbiome evolution on zirconi
 - Microbiome data (Kniha 2026) lacks subgingival sampling and clinical outcomes — dedicated longitudinal studies needed to determine if zirconia's microbiome differences translate to lower peri-implantitis risk.
 
 ## Related Papers
-- [[implants/mohseni-2024-clinical-outcomes-zirconia-implants]] — largest survival/MBL SR+MA, 10-yr CSR
+- [[implants/surface/mohseni-2024-clinical-outcomes-zirconia-implants]] — largest survival/MBL SR+MA, 10-yr CSR
 - [[implants/pieralli-2017-clinical-outcomes-zirconia-dental-implants]] — early high-quality anchor (partially superseded)
 - [[behavioral-dentistry/patient-reported-outcomes/arefnia-2025-patient-reported-outcomes-zirconia-implant]] — PRO side
 - [[implants/kniha-2026-zirconia-titanium-microbial-anterior-rct]] — split-mouth RCT (n=20, 12mo, 16S rRNA): zirconia higher alpha diversity and fewer pathogenic taxa at 12mo; beta diversity NS; exploratory microbiome baseline
-- [[implants/shetty-2026-titanium-vs-zirconia-implants-umbrella]] — umbrella review (SR 6편, 2014–2023): direct Ti-vs-Zr comparison, survival/success favor Ti but not design-stratified — contradicts Mohseni 2024's design-controlled equivalence finding
+- [[implants/surface/shetty-2026-titanium-vs-zirconia-implants-umbrella]] — umbrella review (SR 6편, 2014–2023): direct Ti-vs-Zr comparison, survival/success favor Ti but not design-stratified — contradicts Mohseni 2024's design-controlled equivalence finding
 - [[overviews/implants-clinical-decision-ladder]] — implant decision framework
 - [[overviews/zirconia-material-clinical-overview]] — sibling overview: zirconia **as a restorative material** (material science, LTD, survival of crowns/FPDs) — distinct from this fixture-focused page
 - [[overviews/zirconia-types-clinical-selection]] — sibling overview: **3Y/4Y/5Y/UHTZ grade selection** for restorations

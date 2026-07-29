@@ -53,4 +53,4 @@ This Cochrane SR (CD009376.pub2) evaluated the evidence for different SPT interv
 
 ## Related Papers
 - [[periodontics/nibali-2016-tooth-loss-furcation-involvement-sr-ma]] — tooth loss risk during SPT related to furcation involvement
-- [[periodontics/stavropoulos-2021-periodontal-regeneration-intrabony-nma]] — long-term outcomes of periodontal regenerative procedures prior to SPT
+- [[periodontics/host-modulation/stavropoulos-2021-periodontal-regeneration-intrabony-nma]] — long-term outcomes of periodontal regenerative procedures prior to SPT

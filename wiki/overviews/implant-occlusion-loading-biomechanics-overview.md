@@ -85,7 +85,7 @@ Clinical ladder: ①light occlusion as a starting point but re-check at 0.5/3/6/
 | 과부하-골소실(정량밴드·dual-pathway) | [[occlusion/mojaver-2025-occlusal-overload-peri-implant-health-sr]] | sr (80편, narrative) | MBL 0.65–3.0 mm·임플란트주위염 20–50%; 과부하×biofilm 염증 상승작용(과부하=risk modifier) |
 | 디지털 교합분석·전악 재분배(in-vivo) | [[occlusion/gozen-2025-occlusal-force-distribution-digital-analysis-implant-in-vivo]] | prospective (n=18) | 단일 구치 임플란트 수복이 전악 교합력 재분배(후방↓>전방↓, 대합·전체↑); IOS area vs OccluSense force 강한 상관(p<0.001) |
 | 교합조정 효과 천장(T-Scan, 비임플란트) | [[occlusion/jahanbin-2026-occlusal-adjustment-post-orthodontic-tscan-rct]] | rct (n=30) | 디본딩 후 CR 교합조정 → T-Scan 접촉 강도·개수 유의차 없음(settling이 상쇄); 후방균형 비유의 경향만 |
-| 식립 각도(geometry) | [[implants/kim-2026-implant-angulation-peri-implant-bone]] | retrospective (506개, 5.1y) | 비축 0.22 vs 축 0.10 mm MBL(P<.05); 상악>하악; 각도×implant-FDP 대합 상호작용 Δ0.373 mm |
+| 식립 각도(geometry) | [[implants/peri-implantitis/kim-2026-implant-angulation-peri-implant-bone]] | retrospective (506개, 5.1y) | 비축 0.22 vs 축 0.10 mm MBL(P<.05); 상악>하악; 각도×implant-FDP 대합 상호작용 Δ0.373 mm |
 | 교합양식 FEA | [[occlusion/ambili-2024-parafunctional-loading-stress-tooth-implant-fea]] · [[occlusion/yesilyurt-2021-occlusion-concepts-hybrid-abutment-zirconia-fea]] | in-vitro(FEA) | 지지방식·교합개념이 응력분포 좌우 |
 | 보철 구성 위험 | [[occlusion/berzaghi-2025-occlusion-biomechanical-risk-implant-full-arch-narrative]] | narrative | full-arch 캔틸레버·재료·부기능 위험 |
 | 재료 피로 | [[occlusion/packaeser-2025-core-material-occlusal-contact-fatigue-ceramic-crowns]] | in-vitro | 교합접촉 양상이 세라믹 크라운 피로수명 영향 |
@@ -95,7 +95,7 @@ Clinical ladder: ①light occlusion as a starting point but re-check at 0.5/3/6/
 | 실험적 로딩-골반응(점진/정적) | [[occlusion/podaropoulos-2016-bone-reactions-progressive-static-load-dogs]] · [[occlusion/podaropoulos-2020-progressive-static-load-overloading-dogs]] | animal | 점진 정적 하중이 BIC↑·과부하 저항력↑(성공률 87.5 vs 67.5%) |
 | 실험적 로딩-골반응(즉시/지연) | [[occlusion/romanos-2003-bone-implant-interface-loading-conditions-monkey]] | animal | 즉시·지연 하중 모두 무하중보다 BIC↑, 둘 사이 차이 없음 |
 | 하중 빈도 dose-response | [[occlusion/bueno-2018-cyclically-loaded-implants-loading-sessions]] | animal | 1일 세션 2배 → BIC↓ (고빈도 하중 부적응) |
-| 기능하중 시간(인체 retrieval) | [[implants/gil-2015-progressive-plateau-root-form-osseointegration-retrieval]] · [[implants/baldassarri-2012-mechanical-properties-plateau-root-form]] | retrospective | 하중 시간↑ → BIC·BAFO↑; 주위 골 탄성계수·경도 첫 ~5년 상승 후 안정 |
+| 기능하중 시간(인체 retrieval) | [[implants/surface/gil-2015-progressive-plateau-root-form-osseointegration-retrieval]] · [[implants/baldassarri-2012-mechanical-properties-plateau-root-form]] | retrospective | 하중 시간↑ → BIC·BAFO↑; 주위 골 탄성계수·경도 첫 ~5년 상승 후 안정 |
 
 ### 임상 ladder (임플란트 교합)
 
@@ -142,7 +142,7 @@ Clinical ladder: ①light occlusion as a starting point but re-check at 0.5/3/6/
 - [[occlusion/sippy-2021-condylar-incisal-guidance-canine-group-function-schemes]] — Clinical/articulator study evaluating how condylar and incisal guidance interact within canine-guided vs group-function occlusal schemes … (cross-sectional, 2021)
 - [[occlusion/velasquez-2022-occlusal-analysis-natural-dentition-sr]] — SR (10 studies) - digital occlusal analysis is more objective than articulating paper (which remains subjective) … (sr, 2022)
 - [[occlusion/singh-2026-active-tactile-sensibility-implant-natural-teeth-sr]] — SR (6편): 단일 임플란트 능동 촉각 역치 10–100 µm > 자연치 <10–50 µm; osseoperception이 기능부하로 점진 회복(즉시부하·자연치 대합 가속) — 약교합 설계의 신경생리 근거(명제 1 보강) (sr, 2026)
-- [[implants/kim-2026-implant-angulation-peri-implant-bone]] — 비축 식립 각도(CAD 3D)와 MBL 상관: 비축 0.22 vs 축 0.10 mm(P<.05), 각도×implant-FDP 대합 상호작용 Δ0.373 mm; 과부하-골소실 축에 geometry 인자 추가 (retrospective, 2026)
+- [[implants/peri-implantitis/kim-2026-implant-angulation-peri-implant-bone]] — 비축 식립 각도(CAD 3D)와 MBL 상관: 비축 0.22 vs 축 0.10 mm(P<.05), 각도×implant-FDP 대합 상호작용 Δ0.373 mm; 과부하-골소실 축에 geometry 인자 추가 (retrospective, 2026)
 - [[occlusion/didier-2026-occlusal-contacts-ios-vs-carbon-paper-concordance]] — Method caveat for the periodic-recheck lever (명제 3·ladder 3): IOS occlusogram (iTero) vs 8 µm carbon paper poor agreement (κ 0.07–0.20, 840 teeth, n=35); scanner red+orange overestimates ~70%, red-only underestimates → complementary not interchangeable, do not establish implant occlusion from IOS alone (cross-sectional, 2026)
 
 ### 실험적 로딩-골반응 축 추가 (2026-06-14)
@@ -151,7 +151,7 @@ Clinical ladder: ①light occlusion as a starting point but re-check at 0.5/3/6/
 - [[occlusion/podaropoulos-2020-progressive-static-load-overloading-dogs]] — beagle 40개: 과부하 전 점진 정적 예비하중이 임플란트 성공률을 87.5% vs 67.5%(과부하-only)로 향상 (animal, 2020)
 - [[occlusion/romanos-2003-bone-implant-interface-loading-conditions-monkey]] — Macaca 48개: 즉시·지연 기능하중 모두 무하중보다 BIC↑, 프로토콜 간 차이 없음 (animal, 2003)
 - [[occlusion/bueno-2018-cyclically-loaded-implants-loading-sessions]] — rat 경골: 1일 주기하중 세션 2배 → BIC↓ (하중 빈도 dose-response) (animal, 2018)
-- [[implants/gil-2015-progressive-plateau-root-form-osseointegration-retrieval]] — 인체 retrieval(plateau form, 120일–18년): 기능하중 시간↑ → BIC·BAFO 점진 증가 (retrospective, 2015)
+- [[implants/surface/gil-2015-progressive-plateau-root-form-osseointegration-retrieval]] — 인체 retrieval(plateau form, 120일–18년): 기능하중 시간↑ → BIC·BAFO 점진 증가 (retrospective, 2015)
 - [[implants/baldassarri-2012-mechanical-properties-plateau-root-form]] — 인체 retrieval 나노압입(n=30, 0.3–24년): 주위 피질골 탄성계수·경도 첫 ~5년 상승 후 안정 (retrospective, 2012)
 
 ## Evidence Update — Bite Force Temporal Evolution After Posterior Implant Crown Delivery

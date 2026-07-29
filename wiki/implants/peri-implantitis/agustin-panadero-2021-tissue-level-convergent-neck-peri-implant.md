@@ -5,7 +5,7 @@ year: 2021
 date: 2021-05-14
 doi: 10.3390/ijerph18105232
 source: agustin-panadero-2021-tissue-level-convergent-neck-peri-implant.md
-category: [implants]
+category: [implants/peri-implantitis]
 evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/agustin-panadero-2021-tissue-level-convergent-neck-peri-implant.pdf
 pdf_filename: agustin-panadero-2021-tissue-level-convergent-neck-peri-implant.pdf
@@ -79,6 +79,6 @@ Key conclusion: tissue-level implants with a convergent neck exhibit significant
 ## Related Papers
 
 - [[implants/mbl/mortazavi-2021-bone-loss-tissue-bone-level-implants]] — direct counterpart comparing tissue-level vs bone-level MBL from a different center; contextualizes whether TL advantage is consistent
-- [[implants/atieh-2025-tissue-vs-bone-level-peri-implantitis-sr-ma]] — SR+MA synthesizing TL vs BL peri-implantitis and bone loss evidence at the highest evidence level
+- [[implants/peri-implantitis/atieh-2025-tissue-vs-bone-level-peri-implantitis-sr-ma]] — SR+MA synthesizing TL vs BL peri-implantitis and bone loss evidence at the highest evidence level
 - [[implants/mbl/solderer-2025-tissue-level-implant-bone-loss-factors]] — examines factors influencing bone loss specifically in tissue-level implants, extending findings from this paper
 - [[implants/spinelli-2023-tissue-level-laser-lok-flapless-4year]] — 4-year tissue-level implant outcomes with flapless protocol; longer follow-up data for TL design performance

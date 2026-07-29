@@ -72,5 +72,5 @@ This PLOS ONE study from Chulalongkorn University (Bangkok) provided the first c
 ## Related Papers
 
 - [[oral-microbiology/buskermolen-2018-saliva-derived-biofilms-gingiva-model]] — gingival tissue model context; biofilm–fibroblast interactions
-- [[periodontics/deepthi-2020-ozone-therapy-periodontics-meta-analysis]] — adjunct wound-healing intervention in periodontics for comparison
+- [[periodontics/non-surgical-instrumentation/deepthi-2020-ozone-therapy-periodontics-meta-analysis]] — adjunct wound-healing intervention in periodontics for comparison
 - [[suture-wound-closure/sen-2024-sutureless-multiple-suture-third-molar-inflammation]] — clinical wound closure post-surgery where saline rinsing is commonly prescribed

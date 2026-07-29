@@ -5,7 +5,7 @@ year: 2026
 date: 2026-02-01
 doi: "10.1016/j.prosdent.2024.09.015"
 source: kim-2026-implant-angulation-peri-implant-bone.md
-category: [implants]
+category: [implants/peri-implantitis]
 evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/kim-2026-implant-angulation-peri-implant-bone.pdf
 pdf_filename: kim-2026-implant-angulation-peri-implant-bone.pdf

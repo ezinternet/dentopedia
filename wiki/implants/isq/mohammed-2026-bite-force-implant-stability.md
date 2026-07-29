@@ -5,7 +5,7 @@ year: 2026
 date: 2026-01-20
 doi: 10.1371/journal.pone.0340355
 source: mohammed-2026-bite-force-implant-stability.md
-category: [implants]
+category: [implants/isq]
 evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/mohammed-2026-bite-force-implant-stability.pdf
 pdf_filename: mohammed-2026-bite-force-implant-stability.pdf

@@ -62,4 +62,4 @@ UV 처리로 2주 이내 ISQ 급상승(예: 69→81) 및 안정성 감소(Stabil
 ## Related Papers
 - [[implants/isq/sennerby-2008-implant-stability-resonance-frequency-analysis]] — RFA·ISQ·stability dip 원리
 - [[implants/isq/oh-2008-comparison-of-initial-implant-stability]] — ISQ 임계값 (ISQ>70 즉시부하)
-- [[implants/di-stefano-2021-stability-dental-implants-cortical-bone]] — 피질골 두께 ↔ 초기안정성
+- [[implants/isq/di-stefano-2021-stability-dental-implants-cortical-bone]] — 피질골 두께 ↔ 초기안정성

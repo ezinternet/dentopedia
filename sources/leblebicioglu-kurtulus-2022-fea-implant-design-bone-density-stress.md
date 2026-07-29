@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-골밀도·cortical thickness가 일차안정성뿐 아니라 하중기 응력분포에도 영향을 줌을 FEA로 보여, [[implants/isq/al-juboori-2024-cortical-thickness-implant-stability-sr]] 및 [[implants/heimes-2023-macrogeometry-primary-stability-implants-narrative-review]] 의 macrogeometry·cortical 논의를 생체역학(응력) 축으로 확장하기 위해 인제스트. D4 저밀도골에서 응력 집중 → 저밀도골 임플란트 설계 선택의 근거.
+골밀도·cortical thickness가 일차안정성뿐 아니라 하중기 응력분포에도 영향을 줌을 FEA로 보여, [[implants/isq/al-juboori-2024-cortical-thickness-implant-stability-sr]] 및 [[implants/isq/heimes-2023-macrogeometry-primary-stability-implants-narrative-review]] 의 macrogeometry·cortical 논의를 생체역학(응력) 축으로 확장하기 위해 인제스트. D4 저밀도골에서 응력 집중 → 저밀도골 임플란트 설계 선택의 근거.
 
 ## Three-line Summary
 

@@ -5,7 +5,7 @@ year: 2022
 date: 2022-08-10
 doi: 10.1111/jcpe.13696
 source: siegenthaler-2022-convex-emergence-profile-mucosal-recession-rct.md
-category: [implants]
+category: [implants/soft-tissue]
 evidence_level: rct
 source_collection: pubmed-text
 full_text: true
@@ -70,5 +70,5 @@ According to PubMed ([DOI 10.1111/jcpe.13696](https://doi.org/10.1111/jcpe.13696
 
 ## Related Papers
 
-- [[implants/wang-2022-buccal-emergence-profile-peri-implant-rct]] — sibling RCT on buccal emergence-profile manipulation and peri-implant tissues; reinforces that the buccal/transmucosal contour shape directly affects mucosal-margin outcomes.
+- [[implants/peri-implantitis/wang-2022-buccal-emergence-profile-peri-implant-rct]] — sibling RCT on buccal emergence-profile manipulation and peri-implant tissues; reinforces that the buccal/transmucosal contour shape directly affects mucosal-margin outcomes.
 - [[implants/ruhstorfer-2024-customized-vs-conventional-healing-abutments-sr]] — SR on customized vs conventional healing abutments; this RCT *refines* it by isolating which emergence-profile shape (concave) preserves the margin, and by showing aesthetics may not require a conditioning provisional at all.

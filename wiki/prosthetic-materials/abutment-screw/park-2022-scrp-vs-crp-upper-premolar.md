@@ -73,4 +73,4 @@ SCRP is widely preferred for its retrievability and passive fit, but the narrow 
 
 - Heo et al. (2015), SCRP newly-designed abutment *(아직 위키 미수록)* — 원조 SCRP 설계 및 원리
 - [[prosthetic-materials/abutment-screw/kim-2023-bsrp-vs-scrp-prospective-multicenter]] — SCRP vs BSRP 전향적 RCT
-- [[implants/kim-2022-abutment-connection-mbl-survival]] — SCRP와 MBL 감소 연관성
+- [[implants/mbl/kim-2022-abutment-connection-mbl-survival]] — SCRP와 MBL 감소 연관성

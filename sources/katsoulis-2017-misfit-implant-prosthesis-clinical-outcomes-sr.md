@@ -63,7 +63,7 @@ tolerable misfit limit remains debated.
 - Could not perform meta-analysis
 
 ## 6. Related Work
-- [[implants/couso-queiruga-2025-misfit-implant-prosthesis-bone-loss]] — quantifies ≥0.1mm gap → bone loss threshold
+- [[implants/mbl/couso-queiruga-2025-misfit-implant-prosthesis-bone-loss]] — quantifies ≥0.1mm gap → bone loss threshold
 - [[implants/jokstad-2014-3d-misfit-implant-prosthesis-long-term]] — 19yr retrospective; 150μm average misfit, higher screw complications
 
 ## 7. Glossary

@@ -5,7 +5,7 @@ year: 2015
 date: 2014-11-04
 doi: 10.1002/jbm.b.33311
 source: gil-2015-progressive-plateau-root-form-osseointegration-retrieval.md
-category: [implants]
+category: [implants/surface]
 evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/gil-2015-progressive-plateau-root-form-osseointegration-retrieval.pdf
 pdf_filename: gil-2015-progressive-plateau-root-form-osseointegration-retrieval.pdf

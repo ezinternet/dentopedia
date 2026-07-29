@@ -45,4 +45,4 @@ Multicenter RCT, immediate vs delayed loading; follow-up at 1/4/12/24 months pos
 - Noninferiority of immediate loading NOT confirmed.
 
 ## Related Papers
-- [[implants/mohseni-2024-clinical-outcomes-zirconia-implants]] — reinforces (early-failure clustering theme in implant survival)
+- [[implants/surface/mohseni-2024-clinical-outcomes-zirconia-implants]] — reinforces (early-failure clustering theme in implant survival)

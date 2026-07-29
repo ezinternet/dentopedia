@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-임플란트 유형(tissue-level vs bone-level)과 보철 유형(단일 크라운 vs 3유닛 고정성 부분 보철)이 변연골 소실(Marginal Bone Loss, MBL)에 미치는 영향을 2년 추적한 비교 연구로, 수렴형 경부(convergent neck)를 가진 tissue-level 임플란트의 골 보존 효과를 정량화한다. [[implants/mortazavi-2021-bone-loss-tissue-bone-level-implants]]에서 제기된 tissue-level 우위 가설을 임상 데이터로 직접 뒷받침하며, [[implants/atieh-2025-tissue-vs-bone-level-peri-implantitis-sr-ma]]의 SR+MA 메타분석에 포함될 원시 데이터 유형의 대표 연구이다.
+임플란트 유형(tissue-level vs bone-level)과 보철 유형(단일 크라운 vs 3유닛 고정성 부분 보철)이 변연골 소실(Marginal Bone Loss, MBL)에 미치는 영향을 2년 추적한 비교 연구로, 수렴형 경부(convergent neck)를 가진 tissue-level 임플란트의 골 보존 효과를 정량화한다. [[implants/mortazavi-2021-bone-loss-tissue-bone-level-implants]]에서 제기된 tissue-level 우위 가설을 임상 데이터로 직접 뒷받침하며, [[implants/peri-implantitis/atieh-2025-tissue-vs-bone-level-peri-implantitis-sr-ma]]의 SR+MA 메타분석에 포함될 원시 데이터 유형의 대표 연구이다.
 
 ## Three-line Summary
 

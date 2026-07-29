@@ -15,7 +15,7 @@ text_filename: shetty-2026-titanium-vs-zirconia-implants-umbrella.txt
 
 ## Why Ingested
 
-기존 [[overviews/zirconia-implant-clinical-outcomes]]는 지르코니아 임플란트 단독 성과(Mohseni 2024 SR+MA, Pieralli 2017)만 다루고 티타늄과의 **직접 비교** umbrella review는 부재했다. 본 논문(Shetty 2026)은 6편 SR(2014–2023)을 종합한 overview of reviews로 생존율·MBL·PES 등에서 Ti > Zr 방향성을 보고해, [[implants/mohseni-2024-clinical-outcomes-zirconia-implants]]의 "설계만 좋으면 10년 티타늄과 동등" 결론과 긴장 관계를 형성한다 — 이 비교축을 overview에 보강하기 위해 인제스트.
+기존 [[overviews/zirconia-implant-clinical-outcomes]]는 지르코니아 임플란트 단독 성과(Mohseni 2024 SR+MA, Pieralli 2017)만 다루고 티타늄과의 **직접 비교** umbrella review는 부재했다. 본 논문(Shetty 2026)은 6편 SR(2014–2023)을 종합한 overview of reviews로 생존율·MBL·PES 등에서 Ti > Zr 방향성을 보고해, [[implants/surface/mohseni-2024-clinical-outcomes-zirconia-implants]]의 "설계만 좋으면 10년 티타늄과 동등" 결론과 긴장 관계를 형성한다 — 이 비교축을 overview에 보강하기 위해 인제스트.
 
 ## Three-line Summary
 
@@ -23,7 +23,7 @@ Umbrella review (overview of reviews) synthesizing 6 systematic reviews (2014–
 
 Ti showed higher survival (92.6–100% vs Zr 87.5–93.3%) and success rates in most included SRs (Elnayef 2017: Zr ~89% higher failure risk; Duan 2023 meta-analysis: survival RR 0.91, success RR 0.87 favoring Ti); MBL, PPD, PI, and BoP were largely comparable or mixed across reviews; Zr showed better esthetics in some reviews (PES) and faster early (2-week) bone apposition, reversing by 4 weeks.
 
-Qualitative narrative synthesis only (no quantitative pooling across the six SRs, no overlap/CCA analysis reported); conclusions should be read alongside [[implants/mohseni-2024-clinical-outcomes-zirconia-implants]], whose larger, more recent SR+MA attributes most zirconia failure to modifiable design factors (two-piece, drill-prepared coronal) rather than the material itself.
+Qualitative narrative synthesis only (no quantitative pooling across the six SRs, no overlap/CCA analysis reported); conclusions should be read alongside [[implants/surface/mohseni-2024-clinical-outcomes-zirconia-implants]], whose larger, more recent SR+MA attributes most zirconia failure to modifiable design factors (two-piece, drill-prepared coronal) rather than the material itself.
 
 ## 세줄요약
 
@@ -31,7 +31,7 @@ Umbrella review (overview of reviews) — 2014–2023년 SR 6편(AMSTAR-2 품질
 
 티타늄이 대부분 SR에서 생존율(92.6–100% vs 지르코니아 87.5–93.3%)·성공률 우위(Elnayef 2017: 지르코니아 실패위험 약 89% 높음; Duan 2023 메타분석 생존 RR 0.91, 성공 RR 0.87 티타늄 우세); MBL·탐침깊이·치태지수·출혈지수는 대체로 비슷하거나 결과 혼재; 지르코니아는 일부 SR에서 심미(PES) 우위 및 2주차 초기 골접촉 우세(4주차엔 역전).
 
-6편 SR 간 정량 통합(메타분석)이나 중복도(CCA) 분석 없는 정성적 서술 종합에 그침 — 더 크고 최신인 [[implants/mohseni-2024-clinical-outcomes-zirconia-implants]] SR+MA는 실패 원인을 재료 자체보다 2-piece·드릴가공 등 수정가능한 설계 요인으로 귀속시키므로 함께 해석 필요.
+6편 SR 간 정량 통합(메타분석)이나 중복도(CCA) 분석 없는 정성적 서술 종합에 그침 — 더 크고 최신인 [[implants/surface/mohseni-2024-clinical-outcomes-zirconia-implants]] SR+MA는 실패 원인을 재료 자체보다 2-piece·드릴가공 등 수정가능한 설계 요인으로 귀속시키므로 함께 해석 필요.
 
 ## 1. Document Information
 - Journal: Cureus, 2026 May 04;18(5):e108219
@@ -63,7 +63,7 @@ PRISMA-guided overview of systematic reviews. PICOS: adults with ≥2 implants (
 - AMSTAR-2 quality of included SRs ranged low-to-high; one SR (Sivaraman 2018) rated low quality.
 
 ## 6. Related Work
-Builds on and numerically overlaps with SRs already partially represented in the wiki's [[overviews/zirconia-implant-clinical-outcomes]] evidence base (via Elnayef-type findings echoed in [[implants/pieralli-2017-clinical-outcomes-zirconia-dental-implants]]-era literature), but does not include [[implants/mohseni-2024-clinical-outcomes-zirconia-implants]] (published after Shetty's March 2023 search cutoff) or [[implants/pieralli-2017-clinical-outcomes-zirconia-dental-implants]] itself as a source SR — the two evidence bases are complementary, not overlapping.
+Builds on and numerically overlaps with SRs already partially represented in the wiki's [[overviews/zirconia-implant-clinical-outcomes]] evidence base (via Elnayef-type findings echoed in [[implants/pieralli-2017-clinical-outcomes-zirconia-dental-implants]]-era literature), but does not include [[implants/surface/mohseni-2024-clinical-outcomes-zirconia-implants]] (published after Shetty's March 2023 search cutoff) or [[implants/pieralli-2017-clinical-outcomes-zirconia-dental-implants]] itself as a source SR — the two evidence bases are complementary, not overlapping.
 
 ## 7. Glossary
 - **Ti**: titanium; **Zr**: zirconia/zirconium dioxide implant.

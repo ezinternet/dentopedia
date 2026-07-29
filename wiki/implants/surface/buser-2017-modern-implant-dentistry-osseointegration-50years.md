@@ -5,7 +5,7 @@ year: 2017
 date: 2016-12-21
 doi: 10.1111/prd.12185
 source: buser-2017-modern-implant-dentistry-osseointegration-50years.md
-category: implants
+category: [implants/surface]
 evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/buser-2017-modern-implant-dentistry-osseointegration-50years.pdf
 pdf_filename: buser-2017-modern-implant-dentistry-osseointegration-50years.pdf

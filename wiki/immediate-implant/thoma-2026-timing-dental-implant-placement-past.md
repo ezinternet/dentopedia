@@ -67,5 +67,5 @@ Emerging tools:
 ## Related Papers
 - [[immediate-implant/primary-stability/kim-2016-immediately-placed-implant-without-primary]] — primary stability not always mandatory for osseointegration
 - [[immediate-implant/lee-2021-immediate-implant-placement-in-fresh]] — clinical protocol for Type 1 in fresh extraction sockets
-- [[implants/di-stefano-2021-stability-dental-implants-cortical-bone]] — IT and ISQ in relation to cortical bone (primary stability context)
+- [[implants/isq/di-stefano-2021-stability-dental-implants-cortical-bone]] — IT and ISQ in relation to cortical bone (primary stability context)
 - [[implants/isq/oh-2008-comparison-of-initial-implant-stability]] — ISQ thresholds for loading decisions

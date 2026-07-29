@@ -53,4 +53,4 @@ This study moves FEA from description to prescription by optimizing implant thre
 ## Related Papers
 - [[implants/hussein-2019-thread-depth-implant-shape-stress-mandible-fea]] — extends; from describing thread-depth stress to optimizing it.
 - [[implants/leblebicioglu-kurtulus-2022-fea-implant-design-bone-density-stress]] — reinforces; design × bone-density stress.
-- [[implants/heimes-2023-macrogeometry-primary-stability-implants-narrative-review]] — complements; macrogeometry levers for low-density bone.
+- [[implants/isq/heimes-2023-macrogeometry-primary-stability-implants-narrative-review]] — complements; macrogeometry levers for low-density bone.

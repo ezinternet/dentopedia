@@ -52,6 +52,6 @@ This finite element study links bone quality to biomechanics: under a 30° obliq
 - Thread design and angled abutments significantly affect stress.
 
 ## Related Papers
-- [[implants/heimes-2023-macrogeometry-primary-stability-implants-narrative-review]] — reinforces; macrogeometry effects, here on loading-phase stress.
+- [[implants/isq/heimes-2023-macrogeometry-primary-stability-implants-narrative-review]] — reinforces; macrogeometry effects, here on loading-phase stress.
 - [[implants/isq/al-juboori-2024-cortical-thickness-implant-stability-sr]] — reinforces; cortical-thickness importance extended to stress.
 - [[implants/isq/stoilov-2023-macrodesign-length-diameter-bone-quality-isq]] — related; macrodesign × bone quality × stability.

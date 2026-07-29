@@ -86,6 +86,6 @@ Sixty T2DM patients (20 per arm) were randomized to **control**, **SRP**, or **S
 
 - [[periodontics/baeza-2020-effect-periodontal-treatment-patients-periodontitis]] — SR+MA: SRP lowers HbA1c (~0.56%) and CRP in T2DM periodontitis; this RCT *extends* it with a toothpick-method adjunct arm.
 - [[periodontics/simpson-2022-treatment-periodontitis-glycaemic-control-people]] — Cochrane SR+MA: subgingival instrumentation lowers HbA1c ~0.43% in diabetics; *reinforces* the HbA1c magnitude seen here.
-- [[periodontics/barahim-2024-ozone-gel-srp-diabetic-periodontitis-rct]] — RCT of a different SRP adjunct (ozone gel) in T2DM stage III periodontitis.
+- [[periodontics/non-surgical-instrumentation/barahim-2024-ozone-gel-srp-diabetic-periodontitis-rct]] — RCT of a different SRP adjunct (ozone gel) in T2DM stage III periodontitis.
 - [[periodontics/oral-hygiene-instruction/rajwani-2020-manual-toothbrushing-techniques-plaque-gingivitis-sr]] — SR of manual toothbrushing techniques.
 - [[drug/systemic-disease/enteghad-2024-diabetes-mellitus-periodontal-periimplant-disease-review]] — bidirectional diabetes–periodontitis relationship.

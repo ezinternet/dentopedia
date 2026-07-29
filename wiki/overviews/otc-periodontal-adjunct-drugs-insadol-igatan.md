@@ -17,7 +17,7 @@ source_papers:
   - wiki/periodontics/oliveira-2024-periodontal-host-modulation-avocado-soybean.md
   - wiki/periodontics/park-2026-pimpinella-brachycarpa-anti-inflammatory-bone-protective.md
   - wiki/periodontics/hong-2019-randomized-double-blind-placebo-controlled-multicenter.md
-  - wiki/periodontics/sherif-2025-iprf-vitamin-c-nonsurgical-periodontitis.md
+  - wiki/periodontics/non-surgical-instrumentation/sherif-2025-iprf-vitamin-c-nonsurgical-periodontitis.md
   - wiki/periodontics/hu-2025-enzyme-protein-toothpaste-gingival-condition.md
   - wiki/periodontics/rasoolzadeh-2022-coenzyme-q10-periodontitis-sr-ma.md
   - wiki/evidence-appraisal/choi-2015-statistical-validity-insadol-clinical-effectiveness.md
@@ -88,7 +88,7 @@ A recurring theme — visible across Igatan's lysozyme, vitamin C, and the CoQ10
 | **In vitro mechanism** | Zea mays + Magnoliae suppress NF-κB·ERK1/2·iNOS, ↓NO/PGE₂/IL-1β/IL-6, synergy ([[periodontics/host-modulation/kim-2018-magnoliae-cortex-zea-mays-modulate|Kim 2018]]) | — | Plausible anti-inflammatory mechanism |
 | **Animal** | Beagle RCT: ↓GI/PPD/CAL/BoP, ↓tissue TNF-α, n=5/arm ([[periodontics/host-modulation/kim-2024-magnoliae-cortex-zea-mays-extracts|Kim 2024]]); ASU ↓bone loss in rat perio+arthritis ([[periodontics/host-modulation/oliveira-2024-periodontal-host-modulation-avocado-soybean|de Oliveira 2024]]); ISD used as **reference drug** ([[periodontics/host-modulation/park-2026-pimpinella-brachycarpa-anti-inflammatory-bone-protective|Park 2026]]) | — | Consistent preclinical benefit; ligature models |
 | **Human RCT** | (none of acceptable quality for the registered formulation) | CELC: ↓GI only (Δ−0.18, OR 2.46), **PD/CAL/PI NS**, n=100 ([[periodontics/host-modulation/hong-2019-randomized-double-blind-placebo-controlled-multicenter|Hong 2019]]) | Surrogate (gingivitis) benefit only |
-| **Component / route** | — | Local vit C + I-PRF: **no added benefit** over SRP, pain ↓ only ([[periodontics/sherif-2025-iprf-vitamin-c-nonsurgical-periodontitis|Sherif 2025]]); lysozyme **toothpaste**: GI −0.53, plaque −0.96 ([[periodontics/oral-hygiene-instruction/hu-2025-enzyme-protein-toothpaste-gingival-condition|Hu 2025]]) | Topical works > systemic tablet |
+| **Component / route** | — | Local vit C + I-PRF: **no added benefit** over SRP, pain ↓ only ([[periodontics/non-surgical-instrumentation/sherif-2025-iprf-vitamin-c-nonsurgical-periodontitis|Sherif 2025]]); lysozyme **toothpaste**: GI −0.53, plaque −0.96 ([[periodontics/oral-hygiene-instruction/hu-2025-enzyme-protein-toothpaste-gingival-condition|Hu 2025]]) | Topical works > systemic tablet |
 | **Critical appraisal** | 4 Insadol trials (1982–1994) methodologically flawed, no trial since 1994, yet 66.8% market share ([[evidence-appraisal/choi-2015-statistical-validity-insadol-clinical-effectiveness|Choi 2015]]) | — | Registered-drug evidence base insufficient |
 
 ## Key Cross-Paper Findings
@@ -119,7 +119,7 @@ A recurring theme — visible across Igatan's lysozyme, vitamin C, and the CoQ10
 - [[periodontics/host-modulation/oliveira-2024-periodontal-host-modulation-avocado-soybean]] — ASU sister compound (rat)
 - [[periodontics/host-modulation/park-2026-pimpinella-brachycarpa-anti-inflammatory-bone-protective]] — ISD (Insadol Plus) used as reference drug
 - [[periodontics/host-modulation/hong-2019-randomized-double-blind-placebo-controlled-multicenter]] — Igatan/CELC multicenter RCT
-- [[periodontics/sherif-2025-iprf-vitamin-c-nonsurgical-periodontitis]] — vitamin C component, no added benefit
+- [[periodontics/non-surgical-instrumentation/sherif-2025-iprf-vitamin-c-nonsurgical-periodontitis]] — vitamin C component, no added benefit
 - [[periodontics/oral-hygiene-instruction/hu-2025-enzyme-protein-toothpaste-gingival-condition]] — lysozyme topical, clear gingivitis effect
 - [[periodontics/host-modulation/rasoolzadeh-2022-coenzyme-q10-periodontitis-sr-ma]] — comparator nutraceutical adjunct (CoQ10)
 - [[evidence-appraisal/choi-2015-statistical-validity-insadol-clinical-effectiveness]] — critical appraisal of Insadol's trial base

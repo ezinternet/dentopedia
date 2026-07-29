@@ -15,7 +15,7 @@ text_filename: barwacz-2024-cadcam-abutment-morphology-implant-outcomes.txt
 
 ## Why Ingested
 
-기존 [[implants/soft-tissue/misch-2025-abutment-height-emergence-angle-peri-implant-bone-loss]]가 emergence angle과 변연골소실(MBL)의 상관을 다뤘고 [[implants/siegenthaler-2022-convex-emergence-profile-mucosal-recession-rct]]가 convex vs concave 프로필의 점막퇴축 위험(OR 12.6)을 보고한 바 있어, 본 Barwacz 2024 RCT를 추가해 "linear divergent(대조) vs concave(실험)" 전이형태 비교의 직접 증거를 보강한다. 본 페이지는 이번 배치에서 함께 작성되는 [[implants/soft-tissue/bressan-2024-iao-consensus-peri-implant-soft-tissues]] (IAO 컨센서스, 지대주 재료·형태 섹션)와도 교차연결된다.
+기존 [[implants/soft-tissue/misch-2025-abutment-height-emergence-angle-peri-implant-bone-loss]]가 emergence angle과 변연골소실(MBL)의 상관을 다뤘고 [[implants/soft-tissue/siegenthaler-2022-convex-emergence-profile-mucosal-recession-rct]]가 convex vs concave 프로필의 점막퇴축 위험(OR 12.6)을 보고한 바 있어, 본 Barwacz 2024 RCT를 추가해 "linear divergent(대조) vs concave(실험)" 전이형태 비교의 직접 증거를 보강한다. 본 페이지는 이번 배치에서 함께 작성되는 [[implants/soft-tissue/bressan-2024-iao-consensus-peri-implant-soft-tissues]] (IAO 컨센서스, 지대주 재료·형태 섹션)와도 교차연결된다.
 
 ## Three-line Summary
 
@@ -97,7 +97,7 @@ Clinically, transmucosal abutment macro-morphology (linear divergent vs concave)
 
 ## 6. Related Work
 
-- Siegenthaler et al. 2022 (Thoma group) — convex vs concave custom zirconia CAD/CAM abutment RCT with delayed provisionalization; found convex profiles associated with significantly higher mucosal recession (64.3% vs 14.3% concave, OR 12.6) despite predominantly thick baseline phenotype. See [[implants/siegenthaler-2022-convex-emergence-profile-mucosal-recession-rct]].
+- Siegenthaler et al. 2022 (Thoma group) — convex vs concave custom zirconia CAD/CAM abutment RCT with delayed provisionalization; found convex profiles associated with significantly higher mucosal recession (64.3% vs 14.3% concave, OR 12.6) despite predominantly thick baseline phenotype. See [[implants/soft-tissue/siegenthaler-2022-convex-emergence-profile-mucosal-recession-rct]].
 - Koutouzis, Adeinat, and Ali / Koutouzis, Ali, and AlRubaie — titanium CAD/CAM abutments (concave vs convex) with immediate cement-retained provisionalization at healed maxillary premolar sites; no significant between-group mid-facial mucosal change at 1 or 3 years, but both morphologies showed apical migration in the first 3 months that then stabilized.
 - Patil et al. — split-mouth RCT, prefabricated titanium abutment with a 0.5 mm concave macrogroove vs linear divergent control, cement-retained, second-stage connection; no significant differences in MBL, PES, PI, PD, or BOP, nor in PROMs/professional esthetic scoring.
 - Valente et al. — systematic review with meta-analysis on emergence-profile morphology, noting scarcity and methodological heterogeneity in defining concave/divergent/convex profiles across studies.

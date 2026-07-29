@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-단일 정중부 하악 임플란트의 즉시하중 안전성을 처음으로 RCT로 검증. 즉시식립/즉시하중 의사결정 근거를 보강하며 immediate loading의 적응증 한정 시나리오를 제시 — early-failure clustering 측면에서 [[implants/mohseni-2024-clinical-outcomes-zirconia-implants]]의 조기실패 패턴과 연결.
+단일 정중부 하악 임플란트의 즉시하중 안전성을 처음으로 RCT로 검증. 즉시식립/즉시하중 의사결정 근거를 보강하며 immediate loading의 적응증 한정 시나리오를 제시 — early-failure clustering 측면에서 [[implants/surface/mohseni-2024-clinical-outcomes-zirconia-implants]]의 조기실패 패턴과 연결.
 
 ## Three-line Summary
 

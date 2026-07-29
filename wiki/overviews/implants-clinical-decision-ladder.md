@@ -150,7 +150,7 @@ Risk Tier 결정
 
 | Spine paper | Evidence | Key finding |
 |---|---|---|
-| [[implants/atieh-2025-tissue-vs-bone-level-peri-implantitis-sr-ma]] | sr-ma (5편 n=501) | peri-implantitis 실패 NS but TL RR 0.59 trend |
+| [[implants/peri-implantitis/atieh-2025-tissue-vs-bone-level-peri-implantitis-sr-ma]] | sr-ma (5편 n=501) | peri-implantitis 실패 NS but TL RR 0.59 trend |
 | [[implants/mbl/solderer-2025-tissue-level-implant-bone-loss-factors]] | cohort | TL implant bone loss 위험인자 분석 |
 | [[implants/mbl/mortazavi-2021-bone-loss-tissue-bone-level-implants]] | narrative | TL vs BL 골소실 종합 |
 
@@ -293,7 +293,7 @@ peri-implant STD 발생 → Tavelli 2025 prevalence·apical shift 추적, 외과
 
 | Spine paper | Evidence | Key finding |
 |---|---|---|
-| [[implants/atieh-2025-tissue-vs-bone-level-peri-implantitis-sr-ma]] | sr-ma | TL vs BL peri-implantitis RR 0.59 trend |
+| [[implants/peri-implantitis/atieh-2025-tissue-vs-bone-level-peri-implantitis-sr-ma]] | sr-ma | TL vs BL peri-implantitis RR 0.59 trend |
 | [[implants/mbl/solderer-2025-tissue-level-implant-bone-loss-factors]] | cohort | TL bone loss 위험인자 — 자세한 분석 |
 | [[implants/survival/bonsmann-2025-risk-factors-early-implant-failure-sinus-nested]] | nested case-control | early failure 위험인자 |
 | [[implants/cosola-2020-bone-tissue-level-radiological-sr]] | sr | radiological bone loss SR |
@@ -391,7 +391,7 @@ ISQ 기반 loading 결정은 [[overviews/isq-loading-threshold]] · [[overviews/
 - [[implants/mbl/rocha-2016-platform-switching-crestal-bone-3year-rct]]
 - [[implants/mbl/messias-2019-platform-switching-mbl-5year-rct]]
 - [[implants/mbl/desai-2013-platform-switching-bone-loss-review]]
-- [[implants/atieh-2025-tissue-vs-bone-level-peri-implantitis-sr-ma]]
+- [[implants/peri-implantitis/atieh-2025-tissue-vs-bone-level-peri-implantitis-sr-ma]]
 - [[implants/mbl/solderer-2025-tissue-level-implant-bone-loss-factors]]
 - [[implants/mbl/mortazavi-2021-bone-loss-tissue-bone-level-implants]]
 - [[implants/seong-2016-external-internal-implant-connection-system]]
@@ -437,7 +437,7 @@ ISQ 기반 loading 결정은 [[overviews/isq-loading-threshold]] · [[overviews/
 - [[implants/osseodensification/kanathila-2018-insight-osseodensification-implant-stability-success]]
 - [[implants/osseodensification/koutouzis-2019-alveolar-ridge-expansion-osseodensification-multicenter-retrospective]]
 - [[implants/osseodensification/tian-2019-alveolar-ridge-expansion-osseodensification-osteotome]]
-- [[implants/di-stefano-2021-stability-dental-implants-cortical-bone]]
+- [[implants/isq/di-stefano-2021-stability-dental-implants-cortical-bone]]
 
 축 4 — 연조직:
 - [[implants/soft-tissue/thoma-2018-soft-tissue-augmentation-periimplant-health]]

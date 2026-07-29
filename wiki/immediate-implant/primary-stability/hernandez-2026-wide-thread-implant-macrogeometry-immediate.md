@@ -62,6 +62,6 @@ This systematic review synthesizes 25 studies (clinical, in vitro, finite elemen
 
 ## Related Papers
 
-- [[implants/heimes-2023-macrogeometry-primary-stability-implants-narrative-review]] — extends (general macrogeometry-stability narrative narrowed to IIP-specific outcomes)
+- [[implants/isq/heimes-2023-macrogeometry-primary-stability-implants-narrative-review]] — extends (general macrogeometry-stability narrative narrowed to IIP-specific outcomes)
 - [[implants/isq/bhattacharya-2025-macrogeometry-implant-stability-bone-markers-split-mouth-rct]] — reinforces (split-mouth RCT data on macrogeometry/stability consistent with this review's synthesis)
 - [[immediate-implant/patel-2023-immediate-vs-delayed-implant-survival-sr-ma]] — reinforces (IIP-vs-delayed survival parity cited within this review is consistent with Patel's dedicated SR+MA)

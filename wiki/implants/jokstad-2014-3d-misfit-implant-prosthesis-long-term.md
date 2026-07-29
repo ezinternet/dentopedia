@@ -61,4 +61,4 @@ Screw complications are the primary misfit sequela, not biological bone loss; mi
 
 ## Related Papers
 - [[implants/katsoulis-2017-misfit-implant-prosthesis-clinical-outcomes-sr]] — SR: 이 연구 포함하여 나사 합병증 연관성 체계적 확인
-- [[implants/couso-queiruga-2025-misfit-implant-prosthesis-bone-loss]] — 2025: ≥0.1mm 갭과 골 소실 임계값 정량화 (이 연구가 못 보인 골 소실 연관성을 확인)
+- [[implants/mbl/couso-queiruga-2025-misfit-implant-prosthesis-bone-loss]] — 2025: ≥0.1mm 갭과 골 소실 임계값 정량화 (이 연구가 못 보인 골 소실 연관성을 확인)
