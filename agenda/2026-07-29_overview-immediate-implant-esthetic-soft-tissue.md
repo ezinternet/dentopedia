@@ -1,3 +1,22 @@
+---
+title: "Overview Synthesis — 즉시식립 심미 연조직 (immediate-implant/esthetic-soft-tissue)"
+type: agenda
+date: 2026-07-29
+status: done
+source_wiki:
+  - wiki/immediate-implant/esthetic-soft-tissue/block-2009-prospective-evaluation-immediate-delayed.md
+  - wiki/immediate-implant/esthetic-soft-tissue/chan-2019-randomized-controlled-trial-compare-aesthetic.md
+  - wiki/immediate-implant/esthetic-soft-tissue/francisco-2021-timing-implant-placement-loading-esthetic.md
+  - wiki/immediate-implant/esthetic-soft-tissue/girlanda-2019-deproteinized-bovine-bone-derived-collagen.md
+  - wiki/immediate-implant/esthetic-soft-tissue/jiang-2020-hard-soft-tissue-alterations-during.md
+  - wiki/immediate-implant/esthetic-soft-tissue/kinaia-2017-soft-tissue-changes-around.md
+  - wiki/immediate-implant/esthetic-soft-tissue/wang-2020-volumetric-facial-contour-changes-immediately.md
+  - wiki/immediate-implant/esthetic-soft-tissue/weigl-2016-impact-immediately-placed-restored.md
+output_wiki:
+  - wiki/overviews/immediate-implant-esthetic-soft-tissue-overview.md
+tags: [immediate-implant, esthetic, soft-tissue, overview, synthesis]
+---
+
 # Agenda: Overview Synthesis — immediate-implant/esthetic-soft-tissue
 
 **날짜**: 2026-07-29  
