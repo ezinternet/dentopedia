@@ -5,7 +5,7 @@ year: 2022
 date: 2022-07-01
 doi: null
 source: woods-2022-does-irrigating-while-drilling-decrease.md
-category: [implants, oral-surgery]
+category: [implants/osteotomy-thermal, oral-surgery]
 evidence_level: in-vivo
 pdf_path: /Users/oracleneo/llm-wiki/papers/woods-2022-does-irrigating-while-drilling-decrease.pdf
 pdf_filename: woods-2022-does-irrigating-while-drilling-decrease.pdf
@@ -55,9 +55,9 @@ Rare in vivo (canine) validation of the irrigation + sharp-drill benefit, with h
 - 저자 산업체 disclosure(Osteocentric, DePuy Synthes) 존재 — sponsorship bias 고려.
 
 ## Related Papers
-- [[implants/timon-2019-thermal-osteonecrosis-bone-drilling-orthopedic]] — orthopedic literature review (같은 분야, irrigation 강조)
-- [[implants/sorgato-2025-drill-bit-wear-temperature]] — wear-온도 정량 (반대로 irrigation 없음)
-- [[implants/bernabeu-mira-2020-bone-heating-drilling-implant]] — drill 디자인·재질·마모 in vitro
-- [[implants/chauhan-2018-biomechanical-factors-heat-generation-osteotomy]] — dental multifactorial SR
-- [[implants/heuzeroth-2021-thermal-exposure-osteotomy-osseointegration]] — minipig in vivo, dental
-- [[implants/saxena-2024-guided-implant-drilling-bone-temperature]] — guided drilling irrigation 차단
+- [[implants/osteotomy-thermal/timon-2019-thermal-osteonecrosis-bone-drilling-orthopedic]] — orthopedic literature review (같은 분야, irrigation 강조)
+- [[implants/osteotomy-thermal/sorgato-2025-drill-bit-wear-temperature]] — wear-온도 정량 (반대로 irrigation 없음)
+- [[implants/osteotomy-thermal/bernabeu-mira-2020-bone-heating-drilling-implant]] — drill 디자인·재질·마모 in vitro
+- [[implants/osteotomy-thermal/chauhan-2018-biomechanical-factors-heat-generation-osteotomy]] — dental multifactorial SR
+- [[implants/osteotomy-thermal/heuzeroth-2021-thermal-exposure-osteotomy-osseointegration]] — minipig in vivo, dental
+- [[implants/osteotomy-thermal/saxena-2024-guided-implant-drilling-bone-temperature]] — guided drilling irrigation 차단

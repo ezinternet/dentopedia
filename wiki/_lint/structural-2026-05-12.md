@@ -37,7 +37,7 @@ Two category folders were created with underscores (`immediate_implant/`, `prost
 | `immediate-implant/thoma-2026-timing-dental-implant-placement-past` | `[[immediate-implant/primary-stability/kim-2016-immediately-placed-implant-without-primary]]` | `immediate_implant/kim-2016-...` |
 | `immediate-implant/thoma-2026-timing-dental-implant-placement-past` | `[[immediate-implant/lee-2021-immediate-implant-placement-in-fresh]]` | `immediate_implant/lee-2021-...` |
 | `implants/di-stefano-2021-stability-dental-implants-cortical-bone` | `[[immediate-implant/primary-stability/kim-2016-immediately-placed-implant-without-primary]]` | `immediate_implant/kim-2016-...` |
-| `implants/saenz-ravello-2023-short-implants-compared-to-regular` | `[[immediate-implant/primary-stability/kim-2016-immediately-placed-implant-without-primary]]` | `immediate_implant/kim-2016-...` |
+| `implants/short-narrow/saenz-ravello-2023-short-implants-compared-to-regular` | `[[immediate-implant/primary-stability/kim-2016-immediately-placed-implant-without-primary]]` | `immediate_implant/kim-2016-...` |
 | `implants/yu-2021-extra-short-implants-alternative-longer` | `[[immediate-implant/primary-stability/kim-2016-immediately-placed-implant-without-primary]]` | `immediate_implant/kim-2016-...` |
 | `implants/mortazavi-2021-bone-loss-tissue-bone-level-implants` | `[[prosthetic-materials/kim-2019-astra-implant-dissection-solutions]]` | `prosthetic_materials/kim-2019-...` |
 

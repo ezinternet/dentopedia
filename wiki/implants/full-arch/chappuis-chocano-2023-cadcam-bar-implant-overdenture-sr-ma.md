@@ -5,7 +5,7 @@ year: 2023
 date: 2023-01-01
 doi: 10.1590/1678-7757-2023-0054
 source: chappuis-chocano-2023-cadcam-bar-implant-overdenture-sr-ma.md
-category: implants
+category: implants/full-arch
 evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
@@ -83,7 +83,7 @@ The bottom line: CAD-CAM **milled titanium bars** show optimal daily clinical pe
 
 ## Related Papers
 
-- [[implants/liu-2021-immediate-delayed-loading-overdenture-mbl-sr-ma]] — reinforces: attachment-retained mandibular overdenture MBL by loading protocol; this page extends the evidence base along the bar-material axis.
-- [[implants/park-2023-narrow-regular-diameter-mandibular-overdentures]] — implant-diameter variable for mandibular overdentures (companion overdenture decision factor).
+- [[implants/full-arch/liu-2021-immediate-delayed-loading-overdenture-mbl-sr-ma]] — reinforces: attachment-retained mandibular overdenture MBL by loading protocol; this page extends the evidence base along the bar-material axis.
+- [[implants/short-narrow/park-2023-narrow-regular-diameter-mandibular-overdentures]] — implant-diameter variable for mandibular overdentures (companion overdenture decision factor).
 
 <!-- Note: requested sibling `koyama-2025-single-vs-two-implant-mandibular-overdenture-sr-ma` does not exist in wiki/implants/; link omitted to avoid a broken wikilink. -->

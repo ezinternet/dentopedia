@@ -56,7 +56,7 @@ Peri-implantitis diagnosed
 ```
 
 ## Related Papers
-- [[implants/herrera-2023-prevention-treatment-peri-implant-efp]] — EFP S3 peri-implant disease treatment guideline; authoritative standard
-- [[implants/berglundh-2018-peri-implant-diseases-conditions-consensus]] — case definitions: peri-implantitis diagnostic criteria
+- [[implants/peri-implantitis/herrera-2023-prevention-treatment-peri-implant-efp]] — EFP S3 peri-implant disease treatment guideline; authoritative standard
+- [[implants/peri-implantitis/berglundh-2018-peri-implant-diseases-conditions-consensus]] — case definitions: peri-implantitis diagnostic criteria
 - [[implants/peri-implantitis/vrazic-2026-peri-implantitis-treatment-magnesium-membrane]] — novel magnesium membrane for peri-implantitis GBR
-- [[implants/derks-2015-peri-implant-health-disease-epidemiology]] — epidemiology: 22% prevalence of peri-implantitis
+- [[implants/peri-implantitis/derks-2015-peri-implant-health-disease-epidemiology]] — epidemiology: 22% prevalence of peri-implantitis

@@ -5,7 +5,7 @@ year: 2024
 date: 2023-09-07
 doi: 10.1016/j.sdentj.2023.09.001
 source: bento-2023-steel-versus-zirconia-drills-heat.md
-category: [implants]
+category: [implants/osteotomy-thermal]
 evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/bento-2023-steel-versus-zirconia-drills-heat.pdf
 pdf_filename: bento-2023-steel-versus-zirconia-drills-heat.pdf
@@ -52,7 +52,7 @@ Quantitative pooled estimate for a specific drill-material question (Zr vs SS) �
 - in vivo 검증 부재 — 임상 의사결정의 단일 근거로 사용 부적절.
 
 ## Related Papers
-- [[implants/chakraborty-2024-implant-drill-materials-heat-osteotomy]] — broader SR on drill material vs heat (qualitative)
-- [[implants/marenzi-2018-micromorphological-structure-implant-drills]] — drill microstructure variation
-- [[implants/bernabeu-mira-2020-bone-heating-drilling-implant]] — SS vs DLC (no significant material effect overall)
-- [[implants/sorgato-2025-drill-bit-wear-temperature]] — wear-driven temperature rise (TiN coating)
+- [[implants/osteotomy-thermal/chakraborty-2024-implant-drill-materials-heat-osteotomy]] — broader SR on drill material vs heat (qualitative)
+- [[implants/osteotomy-thermal/marenzi-2018-micromorphological-structure-implant-drills]] — drill microstructure variation
+- [[implants/osteotomy-thermal/bernabeu-mira-2020-bone-heating-drilling-implant]] — SS vs DLC (no significant material effect overall)
+- [[implants/osteotomy-thermal/sorgato-2025-drill-bit-wear-temperature]] — wear-driven temperature rise (TiN coating)

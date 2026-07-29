@@ -5,7 +5,7 @@ year: 2017
 date: 2017-01-26
 doi: 10.11607/jomi.4817
 source: huwais-2017-novel-osseous-densification-osteotomy-primary-stability.md
-category: [implants]
+category: [implants/osseodensification]
 evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/huwais-2017-novel-osseous-densification-osteotomy-primary-stability.pdf
 pdf_filename: huwais-2017-novel-osseous-densification-osteotomy-primary-stability.pdf
@@ -59,11 +59,11 @@ Seventy-two osteotomies in porcine tibial plateau bone, randomised across three 
 - Exact mean ± SD and p-values are in the paywalled body of the article.
 
 ## Related Papers
-- [[implants/kanathila-2018-insight-osseodensification-implant-stability-success]] — concept review derived from this paper
-- [[implants/gaikwad-2022-osseodensification-animal-biomechanics-bic-sr-ma]] — animal SR+MA testing OD claims
-- [[implants/lima-monteiro-2024-osseodensification-biomechanics-histomorphometry-sr-ma]] — human + animal SR+MA
-- [[implants/gaspar-2022-implant-stability-osseodensification-conventional-sr-ma]] — human ISQ SR+MA
-- [[implants/kalra-2025-implant-stability-crestal-bone-osseodensification-sr-ma]] — ISQ + crestal bone level SR+MA
+- [[implants/osseodensification/kanathila-2018-insight-osseodensification-implant-stability-success]] — concept review derived from this paper
+- [[implants/osseodensification/gaikwad-2022-osseodensification-animal-biomechanics-bic-sr-ma]] — animal SR+MA testing OD claims
+- [[implants/osseodensification/lima-monteiro-2024-osseodensification-biomechanics-histomorphometry-sr-ma]] — human + animal SR+MA
+- [[implants/osseodensification/gaspar-2022-implant-stability-osseodensification-conventional-sr-ma]] — human ISQ SR+MA
+- [[implants/osseodensification/kalra-2025-implant-stability-crestal-bone-osseodensification-sr-ma]] — ISQ + crestal bone level SR+MA
 - [[sinus-lift/transcrestal/huwais-2018-transcrestal-sinus-augmentation-compaction-grafting-multicenter]] — clinical sinus application
 - [[sinus-lift/transcrestal/cobo-vazquez-2025-crestal-sinus-lift-osteotome-vs-osseodensification]] — OST vs OD crestal SR+MA
 - [[oral-surgery/bertollo-2011-drilling-bone-practicality-limitations-complications]] — drilling thermodynamics that OD addresses

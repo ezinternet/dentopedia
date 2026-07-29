@@ -5,7 +5,7 @@ year: 2021
 date: 2021-03-08
 doi: "10.1186/s12903-021-01486-3"
 source: liu-2021-immediate-delayed-loading-overdenture-mbl-sr-ma.md
-category: [implants]
+category: [implants/full-arch]
 evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/liu-2021-immediate-delayed-loading-overdenture-mbl-sr-ma.pdf
 pdf_filename: liu-2021-immediate-delayed-loading-overdenture-mbl-sr-ma.pdf
@@ -54,5 +54,5 @@ This SR+MA compared marginal bone loss between immediate and delayed loading of 
 ## Related Papers
 
 - [[immediate-implant/loading-protocol/esposito-2015-immediate-loading-vs-delayed-anterior-rct]] — immediate vs delayed loading evidence in single anterior implants
-- [[implants/abdunabi-2019-immediately-loaded-maxillary-full-arch-sr]] — immediate loading in the edentulous maxilla (full-arch fixed)
-- [[implants/benic-2014-loading-protocols-single-implant-crowns-sr-ma]] — loading protocols for single-implant crowns
+- [[implants/full-arch/abdunabi-2019-immediately-loaded-maxillary-full-arch-sr]] — immediate loading in the edentulous maxilla (full-arch fixed)
+- [[implants/loading-protocol/benic-2014-loading-protocols-single-implant-crowns-sr-ma]] — loading protocols for single-implant crowns

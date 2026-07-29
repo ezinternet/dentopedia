@@ -5,7 +5,7 @@ year: 2020
 date: 2020-09-01
 doi: "10.1016/j.jdent.2020.103386"
 source: xu-2020-short-vs-longer-implants-posterior-5year-sr-ma.md
-category: [implants]
+category: [implants/short-narrow]
 evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/xu-2020-short-vs-longer-implants-posterior-5year-sr-ma.pdf
 pdf_filename: xu-2020-short-vs-longer-implants-posterior-5year-sr-ma.pdf
@@ -51,5 +51,5 @@ SR+MA; ≥5-year observation; short vs longer implants in posterior alveolar reg
 ## Related Papers
 - [[sinus-lift/lateral/chaware-2021-short-vs-long-implant-sinus-graft-sr-ma]] — refines; adds arch dependency to the equivalence claim.
 - [[sinus-lift/lateral/thoma-2024-short-6mm-vs-long-implants-sinus-elevation-10year-rct]] — related; 10-year maxillary-sinus RCT.
-- [[implants/survival/emfietzoglou-2024-short-implants-6mm-survival-posterior-edentulism-sr]] — related; ≤6 mm survival SR.
+- [[implants/short-narrow/emfietzoglou-2024-short-implants-6mm-survival-posterior-edentulism-sr]] — related; ≤6 mm survival SR.
 - [[overviews/short-implant-vs-sinus-augmentation-decision]] — contributes the arch-dependent caveat.

@@ -5,7 +5,7 @@ year: 2015
 date: 2015-08-01
 doi: 10.2147/CCIDE.S63466
 source: stubinger-2015-piezosurgery-implant-dentistry.md
-category: [implants]
+category: [implants/osteotomy-thermal]
 evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/stubinger-2015-piezosurgery-implant-dentistry.pdf
 pdf_filename: stubinger-2015-piezosurgery-implant-dentistry.pdf
@@ -54,7 +54,7 @@ The reference clinical narrative for piezo in implant dentistry. Its claims of "
 - 학습곡선·시술시간·비용 trade-off는 indication별로 평가.
 
 ## Related Papers
-- [[implants/jain-2024-heat-generation-pain-piezosurgery-drilling]] — piezo vs 전통 drilling SR (pain ↓, heat ↑)
-- [[implants/aquilanti-2023-heat-generation-initial-osteotomy]] — piezo 발열 in vitro 정량
-- [[implants/kosior-2025-histological-histomorphometric-implant-bed-preparation]] — 5 방법 histological 비교
+- [[implants/osteotomy-thermal/jain-2024-heat-generation-pain-piezosurgery-drilling]] — piezo vs 전통 drilling SR (pain ↓, heat ↑)
+- [[implants/osteotomy-thermal/aquilanti-2023-heat-generation-initial-osteotomy]] — piezo 발열 in vitro 정량
+- [[implants/osteotomy-thermal/kosior-2025-histological-histomorphometric-implant-bed-preparation]] — 5 방법 histological 비교
 - ~~(미ingest) sinus-lift/lateral~~ — sinus elevation 카테고리

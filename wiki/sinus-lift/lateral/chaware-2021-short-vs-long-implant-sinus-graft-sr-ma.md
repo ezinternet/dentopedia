@@ -53,6 +53,6 @@ SR+MA of RCTs; 667 patients, 1595 implants (short 767 / long 835); outcomes: sur
 
 ## Related Papers
 - [[sinus-lift/lateral/toledano-2022-short-versus-standard-implants-sinus]] — reinforces; short vs standard implants at sinus-augmented sites.
-- [[implants/zhang-2024-short-vs-long-implants-sinus]] — reinforces; short vs long implants with sinus lift.
+- [[implants/short-narrow/zhang-2024-short-vs-long-implants-sinus]] — reinforces; short vs long implants with sinus lift.
 - [[sinus-lift/lateral/mester-2023-short-vs-standard-implants-sinus-floor-elevation-sr-ma]] — reinforces; ≥5-year RCT subset.
 - [[sinus-lift/lateral/aleman-2025-short-vs-long-implants-sinus-lift-5yr-sr-ma]] — reinforces; ≥5-year long-term SR-MA.

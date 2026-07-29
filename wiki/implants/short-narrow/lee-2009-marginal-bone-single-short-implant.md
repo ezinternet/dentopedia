@@ -5,7 +5,7 @@ year: 2009
 date: 2009-01-01
 doi: ""
 source: lee-2009-marginal-bone-single-short-implant.md
-category: [implants]
+category: [implants/short-narrow]
 evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/lee-2009-marginal-bone-single-short-implant.pdf
 pdf_filename: lee-2009-marginal-bone-single-short-implant.pdf
@@ -60,7 +60,7 @@ Key finding: short implants demonstrated marginal bone changes not significantly
 
 ## Related Papers
 
-- [[implants/anitua-2022-short-vs-longer-implants-single-crown]] — later RCT comparing short vs. longer single implant crowns, extends this retrospective data
-- [[implants/arbildo-vega-2025-short-vs-standard-implants-edentulous-umbrella-review]] — umbrella review synthesizing short vs. standard implant evidence; provides high-level SR+MA context
-- [[implants/alenezi-2025-short-long-implants-sinus-floor-elevation]] — short implants vs. sinus elevation, an alternative clinical scenario for short implant use
-- [[implants/barausse-2024-4mm-short-implants-posterior-atrophic-8year]] — 8-year data on ultra-short (4 mm) implants, extending follow-up far beyond this 1-year study
+- [[implants/short-narrow/anitua-2022-short-vs-longer-implants-single-crown]] — later RCT comparing short vs. longer single implant crowns, extends this retrospective data
+- [[implants/short-narrow/arbildo-vega-2025-short-vs-standard-implants-edentulous-umbrella-review]] — umbrella review synthesizing short vs. standard implant evidence; provides high-level SR+MA context
+- [[implants/short-narrow/alenezi-2025-short-long-implants-sinus-floor-elevation]] — short implants vs. sinus elevation, an alternative clinical scenario for short implant use
+- [[implants/short-narrow/barausse-2024-4mm-short-implants-posterior-atrophic-8year]] — 8-year data on ultra-short (4 mm) implants, extending follow-up far beyond this 1-year study

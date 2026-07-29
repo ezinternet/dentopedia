@@ -5,7 +5,7 @@ year: 2024
 date: 2024-06-17
 doi: "10.3390/dj12060185"
 source: emfietzoglou-2024-short-implants-6mm-survival-posterior-edentulism-sr.md
-category: [implants/survival]
+category: [implants/short-narrow]
 evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/emfietzoglou-2024-short-implants-6mm-survival-posterior-edentulism-sr.pdf
 pdf_filename: emfietzoglou-2024-short-implants-6mm-survival-posterior-edentulism-sr.pdf
@@ -49,6 +49,6 @@ Systematic review of RCTs; search to September 2023; ≥1-year post-loading; ≤
 
 ## Related Papers
 - [[sinus-lift/lateral/chaware-2021-short-vs-long-implant-sinus-graft-sr-ma]] — refines; restricts "short" to ≤6 mm.
-- [[implants/xu-2020-short-vs-longer-implants-posterior-5year-sr-ma]] — related; ≥5y posterior short-implant survival.
-- [[implants/arbildo-vega-2025-short-vs-standard-implants-edentulous-umbrella-review]] — related; umbrella synthesis.
+- [[implants/short-narrow/xu-2020-short-vs-longer-implants-posterior-5year-sr-ma]] — related; ≥5y posterior short-implant survival.
+- [[implants/short-narrow/arbildo-vega-2025-short-vs-standard-implants-edentulous-umbrella-review]] — related; umbrella synthesis.
 - [[overviews/short-implant-vs-sinus-augmentation-decision]] — sharpens the ≤6 mm definition node.

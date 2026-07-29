@@ -5,7 +5,7 @@ year: 2021
 date: 2021-04-01
 doi: 10.1186/s40729-021-00299-x
 source: arghami-2021-immediate-early-loading-hydroxyapatite-coated.md
-category: [implants]
+category: [implants/loading-protocol]
 evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/arghami-2021-immediate-early-loading-hydroxyapatite-coated.pdf
 pdf_filename: arghami-2021-immediate-early-loading-hydroxyapatite-coated.pdf
@@ -49,7 +49,7 @@ Postgraduate Periodontics Clinic, LSU. Randomization to immediate vs early (3-we
 플라즈마 분사 + 열수처리 부분 HA 코팅 임플란트는 단일치 치환에서 즉시부하·조기(3주)부하 모두 7년 생존율 95% 이상으로 임상 예측 가능. HA 코팅 장기 안정성을 뒷받침하는 드문 7년 데이터.
 
 ## Related Papers
-- [[implants/derks-2015-peri-implant-health-disease-epidemiology]] — implant survival epidemiology context
+- [[implants/peri-implantitis/derks-2015-peri-implant-health-disease-epidemiology]] — implant survival epidemiology context
 - [[immediate-implant/esthetic-soft-tissue/hamilton-2023-type1a-immediate-implant-immediate-loading-esthetic-sr-ma]] — Type 1A immediate placement+loading evidence
 
 ## Sources

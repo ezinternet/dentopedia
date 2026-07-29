@@ -15,8 +15,8 @@ source_papers:
   - wiki/bone-regeneration/manekar-2022-modern-devices-alveolar-ridge-split-expansion-sr.md
   - wiki/bone-regeneration/simion-1992-jawbone-enlargement-split-crest-gtr.md
   - wiki/bone-regeneration/vorovenci-2024-horizontal-ridge-augmentation-od-gbr-ridge-split-sr-ma.md
-  - wiki/implants/chen-2022-reverse-drilling-technique-alveolar-ridge-expansion.md
-  - wiki/implants/versah-protocols/guner-2025-osseodensification-ridge-split-implant-stability.md
+  - wiki/implants/osteotomy-thermal/chen-2022-reverse-drilling-technique-alveolar-ridge-expansion.md
+  - wiki/implants/osseodensification/guner-2025-osseodensification-ridge-split-implant-stability.md
 evidence_level: synthesis
 source: synthesis
 ---
@@ -194,8 +194,8 @@ Piezosurgery is the recurring complication-reducer (Abdallaoui 2025 ranks it as 
 - [[bone-regeneration/manekar-2022-modern-devices-alveolar-ridge-split-expansion-sr]] — 기구 선택(USG 3.40 vs MRE 2.83 mm; OM↔USG, CO-OC↔MRE, MRE=즉시식립)
 - [[bone-regeneration/simion-1992-jawbone-enlargement-split-crest-gtr]] — split-crest 원위(녹색골절+즉시식립+e-PTFE GTR), RS lineage의 출발점
 - [[bone-regeneration/enislidis-2006-staged-ridge-splitting-implant-mandible]] — 2단계 하악 corticotomy 해법(골절선 예비결정, 협측분절 골막 유경)
-- [[implants/versah-protocols/guner-2025-osseodensification-ridge-split-implant-stability]] — OD 보조 분할(상악·하악구치부 ISQ↑, 전부 ≥65; 골폭 증대는 동등) — OD는 stability 보강용
-- [[implants/chen-2022-reverse-drilling-technique-alveolar-ridge-expansion]] — in-vitro: 역회전 OD 확장 이득은 좁은 골(6.75 mm)에서만·탄성반발로 식립깊이 얕아짐 — OD 확장 claim의 한계
+- [[implants/osseodensification/guner-2025-osseodensification-ridge-split-implant-stability]] — OD 보조 분할(상악·하악구치부 ISQ↑, 전부 ≥65; 골폭 증대는 동등) — OD는 stability 보강용
+- [[implants/osteotomy-thermal/chen-2022-reverse-drilling-technique-alveolar-ridge-expansion]] — in-vitro: 역회전 OD 확장 이득은 좁은 골(6.75 mm)에서만·탄성반발로 식립깊이 얕아짐 — OD 확장 claim의 한계
 - [[bone-regeneration/ayoub-2018-ridge-splitting-horizontal-augmentation-case]] — RS 수평증대 증례 (위 SR+MA들이 pool한 technique family의 case-level 예)
 - [[overviews/bone-regeneration-protocol-ladder]] — 골재생 술식 사다리(GBR>RS>OD gain hierarchy를 증대 결정 ladder에 공급)
 - [[overviews/osseodensification-clinical-applications]] — OD 전반 의사결정(narrow-ridge spoke를 본 overview가 보강)

@@ -67,4 +67,4 @@ Katsoulis 2017 SR에서 "미스피트와 골 소실의 연관성 불명확"이�
 ## Related Papers
 - [[implants/katsoulis-2017-misfit-implant-prosthesis-clinical-outcomes-sr]] — SR: 나사 합병증 연관성 확인; 골 소실 연관성은 불명 (이 연구가 업데이트)
 - [[implants/jokstad-2014-3d-misfit-implant-prosthesis-long-term]] — 19yr: 미스피트 150μm; 나사 합병증 그룹에서 유의하게 높음
-- [[implants/bilgi-ozyetim-2025-biomechanical-comparison-implant-inclinations]] — FEA: 비평행 식립 → 응력 증가 → 보철 계면 미스피트 위험
+- [[implants/full-arch/bilgi-ozyetim-2025-biomechanical-comparison-implant-inclinations]] — FEA: 비평행 식립 → 응력 증가 → 보철 계면 미스피트 위험

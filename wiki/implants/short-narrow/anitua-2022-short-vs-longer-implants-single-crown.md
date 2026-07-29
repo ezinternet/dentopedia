@@ -5,7 +5,7 @@ year: 2022
 date: 2022-09-26
 doi: 10.1186/s40729-022-00438-y
 source: anitua-2022-short-vs-longer-implants-single-crown.md
-category: [implants]
+category: [implants/short-narrow]
 evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/anitua-2022-short-vs-longer-implants-single-crown.pdf
 pdf_filename: anitua-2022-short-vs-longer-implants-single-crown.pdf
@@ -45,6 +45,6 @@ No statistical differences. Median follow-up 31 (short) vs 35 (long) months. Pro
 Retrospective; non-randomized; single surgeon; medium follow-up. Inclusion bias possible.
 
 ## Related Papers
-- [[implants/yu-2021-extra-short-vs-longer-implants-ma]]
-- [[implants/sivolella-2025-extra-short-5-6mm-implants-5year]]
-- [[implants/barausse-2024-4mm-short-implants-posterior-atrophic-8year]]
+- [[implants/short-narrow/yu-2021-extra-short-vs-longer-implants-ma]]
+- [[implants/short-narrow/sivolella-2025-extra-short-5-6mm-implants-5year]]
+- [[implants/short-narrow/barausse-2024-4mm-short-implants-posterior-atrophic-8year]]

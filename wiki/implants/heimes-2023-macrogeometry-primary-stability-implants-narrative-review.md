@@ -51,7 +51,7 @@ Narrative review; PubMed/Embase/Cochrane search; studies screened, quality asses
 - Primary stability framed as osseointegration prerequisite.
 
 ## Related Papers
-- [[implants/gehrke-2021-healing-chambers-macrogeometry-low-density-drilling]] — reinforces; experimental macrogeometry (healing chamber) data.
+- [[implants/osteotomy-thermal/gehrke-2021-healing-chambers-macrogeometry-low-density-drilling]] — reinforces; experimental macrogeometry (healing chamber) data.
 - [[implants/isq/stoilov-2023-macrodesign-length-diameter-bone-quality-isq]] — reinforces; quantitative macrodesign-ISQ.
 - [[implants/isq/nandini-2022-cylindrical-vs-tapered-implant-isq]] — related; taper effect on ISQ.
-- [[implants/el-kholey-2019-drilling-technique-low-density-bone-sr]] — complements; the site-preparation lever.
+- [[implants/osteotomy-thermal/el-kholey-2019-drilling-technique-low-density-bone-sr]] — complements; the site-preparation lever.

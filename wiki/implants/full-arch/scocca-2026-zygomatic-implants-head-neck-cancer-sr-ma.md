@@ -5,7 +5,7 @@ year: 2026
 date: 2026-04-18
 doi: 10.1016/j.jdent.2026.106709
 source: scocca-2026-zygomatic-implants-head-neck-cancer-sr-ma.md
-category: [implants]
+category: [implants/full-arch]
 evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/scocca-2026-zygomatic-implants-head-neck-cancer-sr-ma.pdf
 pdf_filename: scocca-2026-zygomatic-implants-head-neck-cancer-sr-ma.pdf
@@ -78,6 +78,6 @@ The authors caution that high implant survival should not be equated with uncomp
 ## Related Papers
 
 - [[sinus-lift/lateral/rocha-2023-sinusitis-rate-sinus-lift-zygomatic-ma]] — extends: Rocha framed ZI only as a sinusitis-risk comparator (3.76% vs sinus lift 1.11%); this page adds the survival/QoL/RT outcome picture behind that risk.
-- [[implants/del-fabbro-2022-full-arch-tilted-axial-implants-sr-ma]] — reinforces: tilted/axial full-arch strategy for atrophic maxilla; ZI is the extreme end of the "avoid grafting via anchorage geometry" continuum.
+- [[implants/full-arch/del-fabbro-2022-full-arch-tilted-axial-implants-sr-ma]] — reinforces: tilted/axial full-arch strategy for atrophic maxilla; ZI is the extreme end of the "avoid grafting via anchorage geometry" continuum.
 - [[overviews/short-implant-vs-sinus-augmentation-decision]] — adjacent atrophic-maxilla decision framework for non-oncologic, less severe resorption.
-- [[implants/abdunabi-2019-immediately-loaded-maxillary-full-arch-sr]] — loading-strategy context for full-arch maxillary rehabilitation.
+- [[implants/full-arch/abdunabi-2019-immediately-loaded-maxillary-full-arch-sr]] — loading-strategy context for full-arch maxillary rehabilitation.

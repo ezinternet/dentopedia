@@ -84,4 +84,4 @@ This paper directly addresses the user's clinical question (what to do when the 
 ## Related Papers
 
 - [[implants/erdogdu-2024-abutment-angle-bone-quality-fatigue-fea]] — angle↑ = stress↑ = fatigue↓; multiunit > cemented at all angles
-- [[implants/murat-2025-all-on-4-implant-angulation-load-direction-fea]] — load direction dominates implant angle effect; BL oblique forces most damaging
+- [[implants/full-arch/murat-2025-all-on-4-implant-angulation-load-direction-fea]] — load direction dominates implant angle effect; BL oblique forces most damaging

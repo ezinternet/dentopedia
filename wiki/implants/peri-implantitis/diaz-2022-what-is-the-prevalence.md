@@ -54,4 +54,4 @@ Studies binned into four definition groups; Group 2 (largest weight, 53.45%) met
 
 ## Related Papers
 
-- [[implants/derks-2015-peri-implant-health-disease-epidemiology]] — 더 최신·대규모(57편) 유병률 추정치로 기존 역학 앵커를 정련(refine); 정의 의존성 문제는 여전함을 재확인.
+- [[implants/peri-implantitis/derks-2015-peri-implant-health-disease-epidemiology]] — 더 최신·대규모(57편) 유병률 추정치로 기존 역학 앵커를 정련(refine); 정의 의존성 문제는 여전함을 재확인.

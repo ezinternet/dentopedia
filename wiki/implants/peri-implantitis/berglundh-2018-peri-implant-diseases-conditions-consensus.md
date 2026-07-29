@@ -5,7 +5,7 @@ year: 2018
 date: 2018-03-01
 doi: 10.1111/jcpe.12957
 source: berglundh-2018-peri-implant-diseases-conditions-consensus.md
-category: [implants]
+category: [implants/peri-implantitis]
 evidence_level: consensus
 pdf_path: /Users/oracleneo/llm-wiki/papers/berglundh-2018-peri-implant-diseases-conditions-consensus.pdf
 pdf_filename: berglundh-2018-peri-implant-diseases-conditions-consensus.pdf
@@ -52,6 +52,6 @@ Consensus report from Workgroup 4 of the 2017 AAP/EFP World Workshop on the Clas
 | Peri-implantitis | BOP ± suppuration + progressive bone loss + increased PD |
 
 ## Related Papers
-- [[implants/derks-2015-peri-implant-health-disease-epidemiology]] — epidemiology that motivated standardisation
-- [[implants/herrera-2023-prevention-treatment-peri-implant-efp]] — EFP CPG built on these definitions
-- [[implants/galarraga-vinueza-2025-peri-implant-disease-risk-factors]] — uses 2018 definitions for prevalence estimates
+- [[implants/peri-implantitis/derks-2015-peri-implant-health-disease-epidemiology]] — epidemiology that motivated standardisation
+- [[implants/peri-implantitis/herrera-2023-prevention-treatment-peri-implant-efp]] — EFP CPG built on these definitions
+- [[implants/peri-implantitis/galarraga-vinueza-2025-peri-implant-disease-risk-factors]] — uses 2018 definitions for prevalence estimates

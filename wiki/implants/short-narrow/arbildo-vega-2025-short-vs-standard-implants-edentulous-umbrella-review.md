@@ -5,7 +5,7 @@ year: 2025
 date: 2025-09-18
 doi: "10.3389/froh.2025.1670095"
 source: arbildo-vega-2025-short-vs-standard-implants-edentulous-umbrella-review.md
-category: [implants]
+category: [implants/short-narrow]
 evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/arbildo-vega-2025-short-vs-standard-implants-edentulous-umbrella-review.pdf
 pdf_filename: arbildo-vega-2025-short-vs-standard-implants-edentulous-umbrella-review.pdf
@@ -52,6 +52,6 @@ Umbrella review; 790 records → 60 systematic reviews; outcomes survival, impla
 
 ## Related Papers
 - [[sinus-lift/lateral/chaware-2021-short-vs-long-implant-sinus-graft-sr-ma]] — reinforces; one of the pooled SRs.
-- [[implants/zhang-2024-short-vs-long-implants-sinus]] — reinforces; network MA in the same direction.
+- [[implants/short-narrow/zhang-2024-short-vs-long-implants-sinus]] — reinforces; network MA in the same direction.
 - [[sinus-lift/lateral/thoma-2024-short-6mm-vs-long-implants-sinus-elevation-10year-rct]] — related; 10-year primary data underneath the SRs.
 - [[overviews/short-implant-vs-sinus-augmentation-decision]] — top-tier evidence anchor.

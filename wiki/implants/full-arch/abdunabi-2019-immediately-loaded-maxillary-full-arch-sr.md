@@ -5,7 +5,7 @@ year: 2019
 date: 2019-03-14
 doi: "10.1590/1678-7757-2018-0600"
 source: abdunabi-2019-immediately-loaded-maxillary-full-arch-sr.md
-category: [implants]
+category: [implants/full-arch]
 evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/abdunabi-2019-immediately-loaded-maxillary-full-arch-sr.pdf
 pdf_filename: abdunabi-2019-immediately-loaded-maxillary-full-arch-sr.pdf
@@ -50,5 +50,5 @@ This systematic review evaluated immediate loading of fully implant-supported ma
 
 ## Related Papers
 
-- [[implants/liu-2021-immediate-delayed-loading-overdenture-mbl-sr-ma]] — companion: loading protocols in the edentulous mandible (overdentures)
-- [[implants/benic-2014-loading-protocols-single-implant-crowns-sr-ma]] — loading protocols for single-implant crowns
+- [[implants/full-arch/liu-2021-immediate-delayed-loading-overdenture-mbl-sr-ma]] — companion: loading protocols in the edentulous mandible (overdentures)
+- [[implants/loading-protocol/benic-2014-loading-protocols-single-implant-crowns-sr-ma]] — loading protocols for single-implant crowns

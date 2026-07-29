@@ -46,6 +46,6 @@ Separates OD's effect on primary (placement) vs secondary (3-month) stability in
 
 ## Related Papers
 - [[implants/isq/althobaiti-2023-osseodensification-conventional-drilling-isq-sr]] — OD vs conventional ISQ systematic review
-- [[implants/inchingolo-2021-osseodensification-implant-site-osteotomy-sr-ma]] — OD osteotomy SR+MA
+- [[implants/osseodensification/inchingolo-2021-osseodensification-implant-site-osteotomy-sr-ma]] — OD osteotomy SR+MA
 - [[implants/isq/al-ahmari-2022-osseodensification-conventional-low-density-jaw]] — clinical split-mouth, largely null stability finding (contrast)
 - [[overviews/implants-isq-stability-ladder]] — where this sits on the stability-evidence ladder

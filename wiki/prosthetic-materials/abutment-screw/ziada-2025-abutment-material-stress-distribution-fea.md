@@ -46,4 +46,4 @@ FEA assumptions (linear elasticity, idealized geometry, no microgaps); single bo
 
 ## Related Papers
 - [[prosthetic-materials/chan-2026-fea-cad-cam-zirconia-3d-printed-hybrid]]
-- [[implants/baki-2025-all-on-4-trefoil-five-implant-fea]]
+- [[implants/full-arch/baki-2025-all-on-4-trefoil-five-implant-fea]]

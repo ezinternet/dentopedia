@@ -51,7 +51,7 @@ Hamilton 2023 SR+MA 정량 효과: facial gap ≥2 mm +3.1 pp(p=0.04), 근관 �
 |---|---|---|
 | immediate-implant/hamilton-2023-type1a-immediate-implant-immediate-loading-esthetic-sr-ma | sr+ma | ITI 2023 consensus — selection criteria 정량화 anchor |
 | immediate-implant/wittneben-2023-immediate-implant-loaded-single-crown-sr | sr | Type 1A clinical performance — 5년 생존율/MBL/PES |
-| implants/zhou-2021-placement-loading-protocols-single-implants-sr | sr | site-specific (4부위) × placement × loading matrix |
+| implants/loading-protocol/zhou-2021-placement-loading-protocols-single-implants-sr | sr | site-specific (4부위) × placement × loading matrix |
 | immediate-implant/qian-2024-anterior-maxillary-implants-placement-loading-nma | sr+ma | 상악 전치부 전 protocol 조합 NMA |
 | immediate-implant/botros-2025-early-conventional-loading-immediate-molar | rct | 구치부 즉시식립 6주 vs 3개월 부하 |
 | immediate-implant/slagter-2021-immediate-single-implant-provisionalization-5year | prospective | Groningen 5년 IP vs 지연임시치관 |
@@ -207,7 +207,7 @@ Hamilton selection criteria의 *근거 근간*이 되는 페이지들이다.
 - [[immediate-implant/esthetic-soft-tissue/parvini-2023-loading-grafting-immediate-implants-minipigs]]
 - [[immediate-implant/esthetic-soft-tissue/hamilton-2023-type1a-immediate-implant-immediate-loading-esthetic-sr-ma]]
 - [[immediate-implant/loading-protocol/wittneben-2023-immediate-implant-loaded-single-crown-sr]]
-- [[implants/zhou-2021-placement-loading-protocols-single-implants-sr]]
+- [[implants/loading-protocol/zhou-2021-placement-loading-protocols-single-implants-sr]]
 - [[immediate-implant/qian-2024-anterior-maxillary-implants-placement-loading-nma]]
 - [[immediate-implant/loading-protocol/botros-2025-early-conventional-loading-immediate-molar]]
 - [[immediate-implant/esthetic-soft-tissue/slagter-2021-immediate-single-implant-provisionalization-5year]]

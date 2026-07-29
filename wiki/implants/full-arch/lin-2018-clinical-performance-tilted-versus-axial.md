@@ -6,7 +6,7 @@ date: 2018-10-01
 doi: 10.1111/clr.13294
 pmid: "30328193"
 source: lin-2018-clinical-performance-tilted-versus-axial.md
-category: [implants]
+category: [implants/full-arch]
 evidence_level: sr
 source_collection: pubmed-text
 text_path: /Users/oracleneo/llm-wiki/papers/lin-2018-clinical-performance-tilted-versus-axial.txt
@@ -75,6 +75,6 @@ Heterogeneity of included studies → descriptive analysis only (no meta-analysi
 
 ## Related Papers
 
-- [[implants/del-fabbro-2022-full-arch-tilted-axial-implants-sr-ma]] — 2022 SR+MA updates this; finds axial < tilted in MBL
+- [[implants/full-arch/del-fabbro-2022-full-arch-tilted-axial-implants-sr-ma]] — 2022 SR+MA updates this; finds axial < tilted in MBL
 - [[implants/mbl/del-fabbro-2014-marginal-bone-axial-tilted-sr-ma]] — 2014 SR+MA; MBL NS difference
-- [[implants/bilgi-ozyetim-2025-biomechanical-comparison-implant-inclinations]] — FEA: stress comparison at 17°/30°/45°
+- [[implants/full-arch/bilgi-ozyetim-2025-biomechanical-comparison-implant-inclinations]] — FEA: stress comparison at 17°/30°/45°

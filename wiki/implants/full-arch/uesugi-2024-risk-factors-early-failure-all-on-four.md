@@ -5,7 +5,7 @@ year: 2024
 date: 2024-02-27
 doi: "10.3390/bioengineering11030223"
 source: uesugi-2024-risk-factors-early-failure-all-on-four.md
-category: [implants]
+category: [implants/full-arch]
 evidence_level: retrospective
 source_collection: pubmed-text
 full_text: true

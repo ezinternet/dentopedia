@@ -5,7 +5,7 @@ year: 2025
 date: 2025-03-21
 doi: 10.3390/jcm14072161
 source: kosior-2025-comparative-analysis-histological-characteristics.md
-category: [implants]
+category: [implants/osteotomy-thermal]
 evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/kosior-2025-comparative-analysis-histological-characteristics.pdf
 pdf_filename: kosior-2025-comparative-analysis-histological-characteristics.pdf
@@ -59,7 +59,7 @@ In vitro comparative experimental study; 4 swine ribs, 54 implant bed preparatio
 | Speed effect (unconfounded) | 800 rpm > 1500 rpm on all 4 parameters; 800 rpm > 1200 rpm on Parameters 1 (smoothness) and 4 (cracking) |
 
 ## Related Papers
-- [[implants/kosior-2025-histological-histomorphometric-implant-bed-preparation]] — this in vitro study operationalizes and extends that SR's conclusion that optimized rotation/cooling/load allows classical drilling to match alternative bed-preparation techniques.
-- [[implants/rugova-2024-thermal-evaluation-bone-drilling-sequential]] — both papers show cooling/irrigation and reduced speed lower thermal bone damage; Rugova measures temperature directly (IR thermography) while this paper measures downstream tissue damage (fluorescence histology) — complementary evidence for the same mechanism.
-- [[implants/jung-2021-heat-development-medical-drilling-influencing]] — this paper's experimental design (speed = internal factor, cooling = external factor) directly instantiates and quantifies the factor taxonomy proposed in that narrative review.
+- [[implants/osteotomy-thermal/kosior-2025-histological-histomorphometric-implant-bed-preparation]] — this in vitro study operationalizes and extends that SR's conclusion that optimized rotation/cooling/load allows classical drilling to match alternative bed-preparation techniques.
+- [[implants/osteotomy-thermal/rugova-2024-thermal-evaluation-bone-drilling-sequential]] — both papers show cooling/irrigation and reduced speed lower thermal bone damage; Rugova measures temperature directly (IR thermography) while this paper measures downstream tissue damage (fluorescence histology) — complementary evidence for the same mechanism.
+- [[implants/osteotomy-thermal/jung-2021-heat-development-medical-drilling-influencing]] — this paper's experimental design (speed = internal factor, cooling = external factor) directly instantiates and quantifies the factor taxonomy proposed in that narrative review.
 - [[overviews/dense-bone-osteotomy-heat-reimplantation-overview]] — adds further parameter-level evidence to the drilling-heat-generation thread of this synthesis (cooling temperature as the dominant protocol variable).

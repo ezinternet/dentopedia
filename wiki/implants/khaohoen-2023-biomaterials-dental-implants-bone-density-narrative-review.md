@@ -62,4 +62,4 @@ PICO-framed literature synthesis. **P** edentulous area treated with implant sur
 
 ## Related Papers
 
-- [[implants/versah-protocols/rittipakorn-2025-clockwise-osseodensification-primary-stability-cadaveric]] — reinforces: this review supplies the bone-density rationale (why D3–D4 soft bone needs primary-stability techniques) that motivates the clockwise-OD cadaveric study's osseodensification approach.
+- [[implants/osseodensification/rittipakorn-2025-clockwise-osseodensification-primary-stability-cadaveric]] — reinforces: this review supplies the bone-density rationale (why D3–D4 soft bone needs primary-stability techniques) that motivates the clockwise-OD cadaveric study's osseodensification approach.

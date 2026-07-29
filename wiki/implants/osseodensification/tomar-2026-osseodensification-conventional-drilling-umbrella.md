@@ -5,7 +5,7 @@ year: 2026
 date: 2026-06-04
 doi: 10.1016/j.prosdent.2026.05.002
 source: tomar-2026-osseodensification-conventional-drilling-umbrella.md
-category: [implants/versah-protocols]
+category: [implants/osseodensification]
 evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/tomar-2026-osseodensification-conventional-drilling-umbrella.pdf
 pdf_filename: tomar-2026-osseodensification-conventional-drilling-umbrella.pdf
@@ -15,11 +15,11 @@ relations:
   - type: extends
     target: overviews/osseodensification-clinical-applications
   - type: reinforces
-    target: implants/kalra-2025-implant-stability-crestal-bone-osseodensification-sr-ma
+    target: implants/osseodensification/kalra-2025-implant-stability-crestal-bone-osseodensification-sr-ma
   - type: reinforces
-    target: implants/inchingolo-2021-osseodensification-implant-site-osteotomy-sr-ma
+    target: implants/osseodensification/inchingolo-2021-osseodensification-implant-site-osteotomy-sr-ma
   - type: reinforces
-    target: implants/gaspar-2022-implant-stability-osseodensification-conventional-sr-ma
+    target: implants/osseodensification/gaspar-2022-implant-stability-osseodensification-conventional-sr-ma
 ---
 
 ## Three-line Summary
@@ -65,7 +65,7 @@ Umbrella review of systematic reviews/meta-analyses; PROSPERO-registered (CRD420
 ## Related Papers
 
 - [[overviews/osseodensification-clinical-applications]] — this umbrella review provides evidence-of-evidence-level confirmation of the overview's existing OD synthesis (primary-stability-yes / MBL-survival-no pattern).
-- [[implants/kalra-2025-implant-stability-crestal-bone-osseodensification-sr-ma]] — individual SR+MA (also J Prosthet Dent) likely among the 9 included; its null crestal-bone-level finding matches this umbrella review's "no MBL advantage" conclusion.
-- [[implants/inchingolo-2021-osseodensification-implant-site-osteotomy-sr-ma]] — individual SR+MA among the 9 included sources cited in the reference list; reinforced at umbrella level.
-- [[implants/gaspar-2022-implant-stability-osseodensification-conventional-sr-ma]] — individual SR among the 9 included sources cited in the reference list; reinforced at umbrella level.
+- [[implants/osseodensification/kalra-2025-implant-stability-crestal-bone-osseodensification-sr-ma]] — individual SR+MA (also J Prosthet Dent) likely among the 9 included; its null crestal-bone-level finding matches this umbrella review's "no MBL advantage" conclusion.
+- [[implants/osseodensification/inchingolo-2021-osseodensification-implant-site-osteotomy-sr-ma]] — individual SR+MA among the 9 included sources cited in the reference list; reinforced at umbrella level.
+- [[implants/osseodensification/gaspar-2022-implant-stability-osseodensification-conventional-sr-ma]] — individual SR among the 9 included sources cited in the reference list; reinforced at umbrella level.
 - [[implants/isq/althobaiti-2023-osseodensification-conventional-drilling-isq-sr]] — individual SR cited in the reference list, likely among the 9 included.

@@ -5,7 +5,7 @@ year: 2019
 date: 2019-08-01
 doi: null
 source: hu-2019-evaluation-fluid-distribution-implant-site.md
-category: [implants]
+category: [implants/osteotomy-thermal]
 evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/hu-2019-evaluation-fluid-distribution-implant-site.pdf
 pdf_filename: hu-2019-evaluation-fluid-distribution-implant-site.pdf
@@ -63,5 +63,5 @@ In-silico CFD simulation (Flow-3D) of a 10-mm implant osteotomy prepared with a 
 
 ## Related Papers
 
-- [[implants/aquilanti-2023-heat-generation-initial-osteotomy]] — experimentally shows irrigation volume/temperature reduces osteotomy heat generation; this CFD study supplies the fluid-mechanical rationale (fluid distribution plateau at ≥60 mL/min) behind that effect.
-- [[implants/woods-2022-does-irrigating-while-drilling-decrease]] — in vivo (orthopedic model) evidence that saline irrigation while drilling reduces thermal/bone injury; this paper models the physical mechanism (fluid coverage) that would explain such a benefit.
+- [[implants/osteotomy-thermal/aquilanti-2023-heat-generation-initial-osteotomy]] — experimentally shows irrigation volume/temperature reduces osteotomy heat generation; this CFD study supplies the fluid-mechanical rationale (fluid distribution plateau at ≥60 mL/min) behind that effect.
+- [[implants/osteotomy-thermal/woods-2022-does-irrigating-while-drilling-decrease]] — in vivo (orthopedic model) evidence that saline irrigation while drilling reduces thermal/bone injury; this paper models the physical mechanism (fluid coverage) that would explain such a benefit.

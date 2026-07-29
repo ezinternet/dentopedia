@@ -43,5 +43,5 @@ British Dental Journal overview article on occlusal considerations for annual im
   4. Spatial changes (supra-eruption, drift)
 
 ## Related Papers
-- [[implants/berglundh-2018-peri-implant-diseases-conditions-consensus]] — peri-implant health definitions
-- [[implants/herrera-2023-prevention-treatment-peri-implant-efp]] — EFP prevention/treatment guidelines
+- [[implants/peri-implantitis/berglundh-2018-peri-implant-diseases-conditions-consensus]] — peri-implant health definitions
+- [[implants/peri-implantitis/herrera-2023-prevention-treatment-peri-implant-efp]] — EFP prevention/treatment guidelines

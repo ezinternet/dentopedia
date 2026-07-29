@@ -5,7 +5,7 @@ year: 2018
 date: 2018-07-01
 doi: 10.7860/JCDR/2018/35626.11749
 source: kanathila-2018-insight-osseodensification-implant-stability-success.md
-category: [implants]
+category: [implants/osseodensification]
 evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/kanathila-2018-insight-osseodensification-implant-stability-success.pdf
 pdf_filename: kanathila-2018-insight-osseodensification-implant-stability-success.pdf
@@ -55,9 +55,9 @@ Narrative review with no formal search strategy, eligibility criteria, or qualit
 - ISQ, MBL, and implant survival numbers not provided in this review.
 
 ## Related Papers
-- [[implants/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — Huwais's foundational bench study (the OD source)
-- [[implants/gaikwad-2022-osseodensification-animal-biomechanics-bic-sr-ma]] — animal SR+MA of OD outcomes
-- [[implants/lima-monteiro-2024-osseodensification-biomechanics-histomorphometry-sr-ma]] — human + animal SR+MA
-- [[implants/gaspar-2022-implant-stability-osseodensification-conventional-sr-ma]] — human ISQ SR+MA
-- [[implants/kalra-2025-implant-stability-crestal-bone-osseodensification-sr-ma]] — ISQ + crestal bone level SR+MA
+- [[implants/osseodensification/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — Huwais's foundational bench study (the OD source)
+- [[implants/osseodensification/gaikwad-2022-osseodensification-animal-biomechanics-bic-sr-ma]] — animal SR+MA of OD outcomes
+- [[implants/osseodensification/lima-monteiro-2024-osseodensification-biomechanics-histomorphometry-sr-ma]] — human + animal SR+MA
+- [[implants/osseodensification/gaspar-2022-implant-stability-osseodensification-conventional-sr-ma]] — human ISQ SR+MA
+- [[implants/osseodensification/kalra-2025-implant-stability-crestal-bone-osseodensification-sr-ma]] — ISQ + crestal bone level SR+MA
 - [[oral-surgery/bertollo-2011-drilling-bone-practicality-limitations-complications]] — thermal-damage background that OD claims to mitigate

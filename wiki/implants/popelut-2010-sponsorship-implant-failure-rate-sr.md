@@ -72,6 +72,6 @@ Univariate analysis: prosthetic design (p = 0.023) and funding source (p = 0.005
 
 ## Related Papers
 
-- [[implants/benic-2014-loading-protocols-single-implant-crowns-sr-ma]] — one of the SR/MA types drawing on implant survival data potentially affected by the sponsorship bias documented here
+- [[implants/loading-protocol/benic-2014-loading-protocols-single-implant-crowns-sr-ma]] — one of the SR/MA types drawing on implant survival data potentially affected by the sponsorship bias documented here
 - [[evidence-appraisal/anonymous-nd-systematic-review-critical-appraisal-worksheet]] — critical appraisal framework relevant to evaluating bias in the trials analyzed
 - [[evidence-appraisal/al-abedalla-2022-unusual-findings-trials-evaluating-adjuncts]] — examines unusual/suspicious findings in implant trials, a related dimension of research integrity

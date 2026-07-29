@@ -5,7 +5,7 @@ year: 2021
 date: 2021-09-01
 doi: 10.21873/invivo.12596
 source: jung-2021-heat-development-medical-drilling-influencing.md
-category: [implants]
+category: [implants/osteotomy-thermal]
 evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/jung-2021-heat-development-medical-drilling-influencing.pdf
 pdf_filename: jung-2021-heat-development-medical-drilling-influencing.pdf
@@ -56,8 +56,8 @@ Clean internal/external factor framework that other SRs implicitly use. Methodol
 - 표준 ex vivo 측정 protocol 도입이 향후 메타분석 가능성 결정.
 
 ## Related Papers
-- [[implants/chauhan-2018-biomechanical-factors-heat-generation-osteotomy]] — multifactorial 발열 SR
-- [[implants/heuzeroth-2021-thermal-exposure-osteotomy-osseointegration]] — in vivo minipig 모델
-- [[implants/timon-2019-thermal-osteonecrosis-bone-drilling-orthopedic]] — orthopedic 관점
-- [[implants/rugova-2024-thermal-evaluation-bone-drilling-sequential]] — sequential drilling 발열 검증
-- [[implants/sorgato-2025-drill-bit-wear-temperature]] — 마모-발열 정량
+- [[implants/osteotomy-thermal/chauhan-2018-biomechanical-factors-heat-generation-osteotomy]] — multifactorial 발열 SR
+- [[implants/osteotomy-thermal/heuzeroth-2021-thermal-exposure-osteotomy-osseointegration]] — in vivo minipig 모델
+- [[implants/osteotomy-thermal/timon-2019-thermal-osteonecrosis-bone-drilling-orthopedic]] — orthopedic 관점
+- [[implants/osteotomy-thermal/rugova-2024-thermal-evaluation-bone-drilling-sequential]] — sequential drilling 발열 검증
+- [[implants/osteotomy-thermal/sorgato-2025-drill-bit-wear-temperature]] — 마모-발열 정량

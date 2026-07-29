@@ -55,4 +55,4 @@ SR+MA; 1619 screened → 5 RCTs with ≥5-year follow-up; short implants vs stan
 - [[sinus-lift/lateral/chaware-2021-short-vs-long-implant-sinus-graft-sr-ma]] — refines; restricts to long-term RCTs.
 - [[sinus-lift/lateral/toledano-2022-short-versus-standard-implants-sinus]] — reinforces; short vs standard at sinus-augmented sites.
 - [[sinus-lift/lateral/aleman-2025-short-vs-long-implants-sinus-lift-5yr-sr-ma]] — reinforces; later ≥5-year SR-MA.
-- [[implants/zhang-2024-short-vs-long-implants-sinus]] — related; short vs long implants with sinus lift.
+- [[implants/short-narrow/zhang-2024-short-vs-long-implants-sinus]] — related; short vs long implants with sinus lift.

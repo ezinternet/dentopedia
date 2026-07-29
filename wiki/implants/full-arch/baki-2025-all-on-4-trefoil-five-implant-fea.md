@@ -5,7 +5,7 @@ year: 2025
 date: 2025-12-15
 doi: 10.1186/s12903-025-07404-1
 source: baki-2025-all-on-4-trefoil-five-implant-fea.md
-category: [implants]
+category: [implants/full-arch]
 evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/baki-2025-all-on-4-trefoil-five-implant-fea.pdf
 pdf_filename: baki-2025-all-on-4-trefoil-five-implant-fea.pdf

@@ -49,11 +49,11 @@ Clinical algorithm: LOW risk → standard placement ± CTG; MOD → CTG or xenog
 | implants/thoma-2018-soft-tissue-augmentation-periimplant-health | sr+ma | FGG/CTG로 KT 3–4 mm 증가; KT <2 mm 시 plaque/BoP/MBL 증가 |
 | immediate-implant/seyssens-2021-immediate-implant-connective-tissue-graft-sr-ma | sr+ma | IIP+CTG midfacial 보존 ~0.4–0.7 mm |
 | immediate-implant/azadi-2025-soft-tissue-grafting-immediate-implant-bayesian-nma | sr+ma (NMA) | CTG vs PRF·이종·동종 collagen matrix |
-| implants/derks-2015-peri-implant-health-disease-epidemiology | sr+ma | 점막염 43%·임플란트 주위염 22% prevalence |
-| implants/galarraga-vinueza-2025-peri-implant-disease-risk-factors | sr+ma | 점막염 46%·임플란트 주위염 21%; 위험지표 (치주염·흡연·당뇨·비만) |
-| implants/berglundh-2018-peri-implant-diseases-conditions-consensus | consensus | 2017 World Workshop case definition |
-| implants/herrera-2023-prevention-treatment-peri-implant-efp | consensus | EFP S3 guideline — 13 SR 기반 전주기 프로토콜 |
-| implants/carra-2023-primordial-primary-prevention-peri-implant-sr-ma | sr+ma | Primordial + primary prevention 효과 |
+| implants/peri-implantitis/derks-2015-peri-implant-health-disease-epidemiology | sr+ma | 점막염 43%·임플란트 주위염 22% prevalence |
+| implants/peri-implantitis/galarraga-vinueza-2025-peri-implant-disease-risk-factors | sr+ma | 점막염 46%·임플란트 주위염 21%; 위험지표 (치주염·흡연·당뇨·비만) |
+| implants/peri-implantitis/berglundh-2018-peri-implant-diseases-conditions-consensus | consensus | 2017 World Workshop case definition |
+| implants/peri-implantitis/herrera-2023-prevention-treatment-peri-implant-efp | consensus | EFP S3 guideline — 13 SR 기반 전주기 프로토콜 |
+| implants/peri-implantitis/carra-2023-primordial-primary-prevention-peri-implant-sr-ma | sr+ma | Primordial + primary prevention 효과 |
 | implants/caggiano-2022-smoking-cessation-periodontal-peri-implant-sr | sr | 금연이 peri-implant 결과 개선 |
 | immediate-implant/martins-2024-facial-bone-wall-immediate-implant-esthetic | sr | facial bone wall ↔ recession 직접 연결 |
 
@@ -246,11 +246,11 @@ Causal chain: Thin facial bone wall → 발치 후 bundle bone 흡수 → 협측
 - [[implants/soft-tissue/thoma-2018-soft-tissue-augmentation-periimplant-health]]
 - [[immediate-implant/esthetic-soft-tissue/seyssens-2021-immediate-implant-connective-tissue-graft-sr-ma]]
 - [[immediate-implant/esthetic-soft-tissue/azadi-2025-soft-tissue-grafting-immediate-implant-bayesian-nma]]
-- [[implants/derks-2015-peri-implant-health-disease-epidemiology]]
-- [[implants/galarraga-vinueza-2025-peri-implant-disease-risk-factors]]
-- [[implants/berglundh-2018-peri-implant-diseases-conditions-consensus]]
-- [[implants/herrera-2023-prevention-treatment-peri-implant-efp]]
-- [[implants/carra-2023-primordial-primary-prevention-peri-implant-sr-ma]]
+- [[implants/peri-implantitis/derks-2015-peri-implant-health-disease-epidemiology]]
+- [[implants/peri-implantitis/galarraga-vinueza-2025-peri-implant-disease-risk-factors]]
+- [[implants/peri-implantitis/berglundh-2018-peri-implant-diseases-conditions-consensus]]
+- [[implants/peri-implantitis/herrera-2023-prevention-treatment-peri-implant-efp]]
+- [[implants/peri-implantitis/carra-2023-primordial-primary-prevention-peri-implant-sr-ma]]
 - [[implants/caggiano-2022-smoking-cessation-periodontal-peri-implant-sr]]
 - [[immediate-implant/esthetic-soft-tissue/martins-2024-facial-bone-wall-immediate-implant-esthetic]]
 - [[overviews/type-1a-immediate-placement-immediate-loading-decision]] — Type 1A 적응증 (자매 페이지)

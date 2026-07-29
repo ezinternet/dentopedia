@@ -5,7 +5,7 @@ year: 2024
 date: 2024-08-22
 doi: 10.3390/jfb15080237
 source: soldatos-2024-temperature-changes-osseodensification-cadaver-tibiae-cw-ccw.md
-category: [implants]
+category: [implants/osseodensification]
 evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/soldatos-2024-temperature-changes-osseodensification-cadaver-tibiae-cw-ccw.pdf
 pdf_filename: soldatos-2024-temperature-changes-osseodensification-cadaver-tibiae-cw-ccw.pdf
@@ -45,7 +45,7 @@ Four-way interaction in CCW mode. 1000 RPM minimized ΔT in both modes. In CCW: 
 Ex-vivo human cadaver tibiae — not living jaw bone (no irrigation perfusion, no vascular cooling). Tibial cortical/cancellous architecture differs from maxilla/mandible. Single research group methodology — independent replication needed. No correlation to clinical outcomes (implant survival).
 
 ## Related Papers
-- [[implants/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]]
-- [[implants/chauhan-2018-biomechanical-factors-heat-generation-osteotomy]]
-- [[implants/kosior-2025-histological-histomorphometric-implant-bed-preparation]]
-- [[implants/inchingolo-2021-osseodensification-implant-site-osteotomy-sr-ma]]
+- [[implants/osseodensification/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]]
+- [[implants/osteotomy-thermal/chauhan-2018-biomechanical-factors-heat-generation-osteotomy]]
+- [[implants/osteotomy-thermal/kosior-2025-histological-histomorphometric-implant-bed-preparation]]
+- [[implants/osseodensification/inchingolo-2021-osseodensification-implant-site-osteotomy-sr-ma]]

@@ -5,7 +5,7 @@ year: 2025
 date: 2025-05-16
 doi: 10.1002/cre2.70155
 source: tao-2025-optimizing-osseodensification-drilling-implant.md
-category: [implants/versah-protocols]
+category: [implants/osseodensification]
 evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/tao-2025-optimizing-osseodensification-drilling-implant.pdf
 pdf_filename: tao-2025-optimizing-osseodensification-drilling-implant.pdf
@@ -78,7 +78,7 @@ OD produced substantially higher IT and RT than CD (both p<0.001) and left fewer
 
 ## Related Papers
 
-- [[implants/versah-protocols/mercier-2022-osseodensification-primary-stability-cadavers]] — cadaver OD primary-stability study; this in vitro paper extends it by pinning down the optimal OD spin-speed/feed/irrigation parameters those comparisons leave open.
-- [[implants/versah-protocols/moghaddas-2025-osseodensification-standard-drilling-isq-itv]] — clinical OD-vs-SD trial showing the same IT-rises-but-ISQ-does-not dissociation; this bench study reinforces that pattern under controlled CNC conditions.
-- [[implants/versah-protocols/ali-2026-osseodensification-techniques-implant-stability-maxilla]] — OD techniques and implant stability in the maxilla (Type IV-prone region where these recommended parameters apply).
-- [[implants/versah-protocols/rittipakorn-2025-clockwise-osseodensification-primary-stability-cadaveric]] — cadaveric clockwise-OD primary-stability counterpart in the OD parameter/direction literature.
+- [[implants/osseodensification/mercier-2022-osseodensification-primary-stability-cadavers]] — cadaver OD primary-stability study; this in vitro paper extends it by pinning down the optimal OD spin-speed/feed/irrigation parameters those comparisons leave open.
+- [[implants/osseodensification/moghaddas-2025-osseodensification-standard-drilling-isq-itv]] — clinical OD-vs-SD trial showing the same IT-rises-but-ISQ-does-not dissociation; this bench study reinforces that pattern under controlled CNC conditions.
+- [[implants/osseodensification/ali-2026-osseodensification-techniques-implant-stability-maxilla]] — OD techniques and implant stability in the maxilla (Type IV-prone region where these recommended parameters apply).
+- [[implants/osseodensification/rittipakorn-2025-clockwise-osseodensification-primary-stability-cadaveric]] — cadaveric clockwise-OD primary-stability counterpart in the OD parameter/direction literature.

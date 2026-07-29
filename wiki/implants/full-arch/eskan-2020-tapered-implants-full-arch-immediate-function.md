@@ -5,7 +5,7 @@ year: 2020
 date: 2020-11-20
 doi: 10.1186/s40729-020-00271-1
 source: eskan-2020-tapered-implants-full-arch-immediate-function.md
-category: [implants]
+category: [implants/full-arch]
 evidence_level: retrospective
 pmcid: PMC7680819
 source_collection: pubmed-text
@@ -73,7 +73,7 @@ According to PubMed, this multicenter retrospective from Istanbul and Sakarya ev
 
 ## Related Papers
 
-- [[implants/coskunses-2021-narrow-diameter-implants-full-arch-fixed]] — reinforces: same BLT Ti-Zr implants; similar MBL profile; extends follow-up beyond 2yr
-- [[implants/szabo-2022-all-on-four-tilted-distal-implants-mbl]] — reinforces: tilted implant full-arch context; longer follow-up shows saturation MBL kinetics
-- [[implants/mehta-2021-tilted-axial-implants-edentulous-maxilla-sr-ma]] — reinforces: tilted=axial MBL in SR+MA consistent with individual study results
+- [[implants/short-narrow/coskunses-2021-narrow-diameter-implants-full-arch-fixed]] — reinforces: same BLT Ti-Zr implants; similar MBL profile; extends follow-up beyond 2yr
+- [[implants/full-arch/szabo-2022-all-on-four-tilted-distal-implants-mbl]] — reinforces: tilted implant full-arch context; longer follow-up shows saturation MBL kinetics
+- [[implants/full-arch/mehta-2021-tilted-axial-implants-edentulous-maxilla-sr-ma]] — reinforces: tilted=axial MBL in SR+MA consistent with individual study results
 - [[overviews/tilted-axial-implant-angled-abutment-overview]] — applies-to: BLT tapered design as preferred implant for immediate full-arch loading

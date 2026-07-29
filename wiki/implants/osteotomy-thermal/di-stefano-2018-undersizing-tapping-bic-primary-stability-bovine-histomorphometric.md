@@ -5,7 +5,7 @@ year: 2018
 date: 2018-09-01
 doi: "10.4047/jap.2018.10.3.227"
 source: di-stefano-2018-undersizing-tapping-bic-primary-stability-bovine-histomorphometric.md
-category: [implants]
+category: [implants/osteotomy-thermal]
 evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/di-stefano-2018-undersizing-tapping-bic-primary-stability-bovine-histomorphometric.pdf
 pdf_filename: di-stefano-2018-undersizing-tapping-bic-primary-stability-bovine-histomorphometric.pdf
@@ -48,7 +48,7 @@ In-vitro histomorphometric study; bovine ribs; implants placed with varied under
 - Linear relations among undersizing, integral, and stability.
 
 ## Related Papers
-- [[implants/tabassum-2021-undersized-axial-compression-primary-stability]] — extends; quantifies the undersizing-stability relation.
+- [[implants/osteotomy-thermal/tabassum-2021-undersized-axial-compression-primary-stability]] — extends; quantifies the undersizing-stability relation.
 - [[implants/isq/cappare-2015-initial-bic-insertion-torque-depth-integral-in-vivo]] — related; same torque-measuring motor, in vivo BIC correlation.
 - [[implants/isq/lages-2018-isq-insertion-torque-correlation-sr]] — related; insertion torque vs ISQ.
-- [[implants/el-kholey-2019-drilling-technique-low-density-bone-sr]] — complements; undersizing among low-density drilling options.
+- [[implants/osteotomy-thermal/el-kholey-2019-drilling-technique-low-density-bone-sr]] — complements; undersizing among low-density drilling options.

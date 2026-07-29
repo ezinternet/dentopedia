@@ -5,7 +5,7 @@ year: 2025
 date: 2025-01-01
 doi: 10.1186/s12903-025-07201-w
 source: mohammadi-2025-osseodensification-conventional-low-density-bone-sr-ma.md
-category: [implants]
+category: [implants/osseodensification]
 evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/mohammadi-2025-osseodensification-conventional-low-density-bone-sr-ma.pdf
 pdf_filename: mohammadi-2025-osseodensification-conventional-low-density-bone-sr-ma.pdf
@@ -45,7 +45,7 @@ PubMed, Scopus, Web of Science, EMBASE, Google Scholar searched up to Jan 2024. 
 Only 7 studies — small evidence base. Heterogeneity in follow-up periods. Mixed implant systems and surgical protocols. PD/CBL subgroup findings hypothesis-generating, not confirmatory. Authors call for more standardized RCTs with longer follow-up.
 
 ## Related Papers
-- [[implants/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]]
-- [[implants/inchingolo-2021-osseodensification-implant-site-osteotomy-sr-ma]]
-- [[implants/gaspar-2022-implant-stability-osseodensification-conventional-sr-ma]]
-- [[implants/bergamo-2021-osseodensification-effect-implants-primary-secondary]]
+- [[implants/osseodensification/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]]
+- [[implants/osseodensification/inchingolo-2021-osseodensification-implant-site-osteotomy-sr-ma]]
+- [[implants/osseodensification/gaspar-2022-implant-stability-osseodensification-conventional-sr-ma]]
+- [[implants/osseodensification/bergamo-2021-osseodensification-effect-implants-primary-secondary]]

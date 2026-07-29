@@ -12,14 +12,14 @@ pdf_filename: N/A
 source_collection: synthesis
 tags: [severe-atrophy, graftless, short-implant, tilted-implant, zygomatic-implant, subperiosteal-implant, atrophic-maxilla, salvage, soft-tissue-failure, full-arch]
 source_papers:
-  - wiki/implants/barausse-2024-4mm-short-implants-posterior-atrophic-8year.md
+  - wiki/implants/short-narrow/barausse-2024-4mm-short-implants-posterior-atrophic-8year.md
   - wiki/sinus-lift/lateral/chaware-2021-short-vs-long-implant-sinus-graft-sr-ma.md
-  - wiki/implants/del-fabbro-2022-full-arch-tilted-axial-implants-sr-ma.md
-  - wiki/implants/scocca-2026-zygomatic-implants-head-neck-cancer-sr-ma.md
-  - wiki/implants/cosola-2026-customized-3d-printed-titanium-subperiosteal-implants-sr-ma.md
+  - wiki/implants/full-arch/del-fabbro-2022-full-arch-tilted-axial-implants-sr-ma.md
+  - wiki/implants/full-arch/scocca-2026-zygomatic-implants-head-neck-cancer-sr-ma.md
+  - wiki/implants/full-arch/cosola-2026-customized-3d-printed-titanium-subperiosteal-implants-sr-ma.md
   - wiki/sinus-lift/lateral/rocha-2023-sinusitis-rate-sinus-lift-zygomatic-ma.md
   - wiki/complete-denture/ng-2026-prosthetic-outcomes-implant-assisted-maxillary-restorations-sr-ma.md
-  - wiki/implants/yildirim-2026-short-implants-bibliometric-research-trends.md
+  - wiki/implants/short-narrow/yildirim-2026-short-implants-bibliometric-research-trends.md
 relations:
   - type: extends
     target: cosola-2026-customized-3d-printed-titanium-subperiosteal-implants-sr-ma
@@ -82,14 +82,14 @@ The defensible synthesis: **treat the ladder as strictly ordered, and climb only
 
 | Paper | Design | n | Rung | Key Finding | Confidence |
 |---|---|---|---|---|---|
-| [[implants/barausse-2024-4mm-short-implants-posterior-atrophic-8year]] | retrospective | 212 pts / 496 implants, mean 8.02 y | 1 — short | Cumulative survival 95.36% (95% CI 93.12–97.04); MBL 0.47 mm at 1 y → 0.59 mm at 10 y, no significant progression after y3; maxillary site raises failure risk (p=0.02); hygiene-visit frequency protective (p<0.001) | retrospective |
+| [[implants/short-narrow/barausse-2024-4mm-short-implants-posterior-atrophic-8year]] | retrospective | 212 pts / 496 implants, mean 8.02 y | 1 — short | Cumulative survival 95.36% (95% CI 93.12–97.04); MBL 0.47 mm at 1 y → 0.59 mm at 10 y, no significant progression after y3; maxillary site raises failure risk (p=0.02); hygiene-visit frequency protective (p<0.001) | retrospective |
 | [[sinus-lift/lateral/chaware-2021-short-vs-long-implant-sinus-graft-sr-ma]] | SR+MA | 22 RCTs / 667 pts / 1,595 implants | 1 vs graft | Survival equivalent, short/graftless vs long/grafted (RR 1.01, I²=0%) — graft confers no survival advantage | sr+ma |
-| [[implants/del-fabbro-2022-full-arch-tilted-axial-implants-sr-ma]] | SR+MA | 24 studies / 2,637 pts / 11,205 implants, 3–18 y | 2 — tilted | Implant survival 93.91%, prosthesis survival 99.31%; MBL significantly **lower around axial than tilted** implants (P<.0001); maxilla vs mandible NS (P=.17) | sr+ma |
-| [[implants/scocca-2026-zygomatic-implants-head-neck-cancer-sr-ma]] | SR+MA | 17 studies / 294 pts / 679 ZIs | 3 — zygomatic | Pooled survival 97% (95% CI 94–99, I²=42.4%); failure 2% at primary vs 9% at secondary placement (p=0.41, NS); radiotherapy OR 3.42 (0.97–12.06, p=0.055, NS); PROMs satisfactory even after RT | sr+ma |
+| [[implants/full-arch/del-fabbro-2022-full-arch-tilted-axial-implants-sr-ma]] | SR+MA | 24 studies / 2,637 pts / 11,205 implants, 3–18 y | 2 — tilted | Implant survival 93.91%, prosthesis survival 99.31%; MBL significantly **lower around axial than tilted** implants (P<.0001); maxilla vs mandible NS (P=.17) | sr+ma |
+| [[implants/full-arch/scocca-2026-zygomatic-implants-head-neck-cancer-sr-ma]] | SR+MA | 17 studies / 294 pts / 679 ZIs | 3 — zygomatic | Pooled survival 97% (95% CI 94–99, I²=42.4%); failure 2% at primary vs 9% at secondary placement (p=0.41, NS); radiotherapy OR 3.42 (0.97–12.06, p=0.055, NS); PROMs satisfactory even after RT | sr+ma |
 | [[sinus-lift/lateral/rocha-2023-sinusitis-rate-sinus-lift-zygomatic-ma]] | SR+MA | 27 studies (9 ZI / 18 SFE) | 3 — cost layer | Sinusitis 3.76% ZI vs 1.11% sinus lift overall; **sinus-slot ZI 21.62% (95% CI 9.62–36.52) vs intrasinus 4.36% vs extrasinus 0.00% (0.00–1.22)**; lateral SFE 1.35% vs transcrestal 0.00% — risk is the path, not the procedure | sr+ma |
-| [[implants/cosola-2026-customized-3d-printed-titanium-subperiosteal-implants-sr-ma]] | SR+MA (abstract-only) | 11 studies / 268 pts / 369 implants | 4 — subperiosteal | Survival 97.8% at ≤3 y; **overall pooled 92.4%; single 6-year study 54.1%**; implant exposure/dehiscence the most common adverse event and main cause of late failure; authors call it a salvage option | sr+ma |
+| [[implants/full-arch/cosola-2026-customized-3d-printed-titanium-subperiosteal-implants-sr-ma]] | SR+MA (abstract-only) | 11 studies / 268 pts / 369 implants | 4 — subperiosteal | Survival 97.8% at ≤3 y; **overall pooled 92.4%; single 6-year study 54.1%**; implant exposure/dehiscence the most common adverse event and main cause of late failure; authors call it a salvage option | sr+ma |
 | [[complete-denture/ng-2026-prosthetic-outcomes-implant-assisted-maxillary-restorations-sr-ma]] | SR+MA | 20 studies / 913 pts / 4,414 implants, median 5 y | all — cost layer | Prosthesis loss 4.6%, implant loss ~5.5%, MBL <0.8 mm — but complication-free prosthesis survival 61.9%, implant-level complication-free survival 72.2%, and **patient-level complication-free implant survival 46.5% (95% CI 21.1–72.9)**; fixed ≈ removable on survival, dominant complication differs (veneer fracture ~41% vs denture repair/reline ~91%) | sr+ma |
-| [[implants/yildirim-2026-short-implants-bibliometric-research-trends]] | bibliometric | 626 WoS articles, 1994–2024 | evidence maturity | 12.69% annual growth, output peaks 2019 then declines; top journals COIR and IJOMI; four themes (survival, atrophic posterior jaw, prosthetic/biomechanical, vs standard+augmentation). Maps research activity, not effectiveness | narrative-review |
+| [[implants/short-narrow/yildirim-2026-short-implants-bibliometric-research-trends]] | bibliometric | 626 WoS articles, 1994–2024 | evidence maturity | 12.69% annual growth, output peaks 2019 then declines; top journals COIR and IJOMI; four themes (survival, atrophic posterior jaw, prosthetic/biomechanical, vs standard+augmentation). Maps research activity, not effectiveness | narrative-review |
 
 ## Clinical Decision Points
 
@@ -145,11 +145,11 @@ Decision logic in prose:
 
 ## Related Papers
 
-- [[implants/barausse-2024-4mm-short-implants-posterior-atrophic-8year]] — rung 1; the long-term anchor (8-year cumulative survival, MBL plateau, hygiene as protective factor).
+- [[implants/short-narrow/barausse-2024-4mm-short-implants-posterior-atrophic-8year]] — rung 1; the long-term anchor (8-year cumulative survival, MBL plateau, hygiene as protective factor).
 - [[sinus-lift/lateral/chaware-2021-short-vs-long-implant-sinus-graft-sr-ma]] — rung 1 vs graft; survival equivalence (RR 1.01, I²=0%).
-- [[implants/del-fabbro-2022-full-arch-tilted-axial-implants-sr-ma]] — rung 2; tilted implants work but carry an MBL penalty vs axial.
-- [[implants/scocca-2026-zygomatic-implants-head-neck-cancer-sr-ma]] — rung 3; the wiki's first outcome-level zygomatic-implant evidence.
+- [[implants/full-arch/del-fabbro-2022-full-arch-tilted-axial-implants-sr-ma]] — rung 2; tilted implants work but carry an MBL penalty vs axial.
+- [[implants/full-arch/scocca-2026-zygomatic-implants-head-neck-cancer-sr-ma]] — rung 3; the wiki's first outcome-level zygomatic-implant evidence.
 - [[sinus-lift/lateral/rocha-2023-sinusitis-rate-sinus-lift-zygomatic-ma]] — rung 3's real cost axis; sinus-slot 21.62% vs extrasinus 0.00% sinusitis.
-- [[implants/cosola-2026-customized-3d-printed-titanium-subperiosteal-implants-sr-ma]] — rung 4; short-term success, long-term soft-tissue collapse.
+- [[implants/full-arch/cosola-2026-customized-3d-printed-titanium-subperiosteal-implants-sr-ma]] — rung 4; short-term success, long-term soft-tissue collapse.
 - [[complete-denture/ng-2026-prosthetic-outcomes-implant-assisted-maxillary-restorations-sr-ma]] — the maintenance-burden layer that applies to every rung.
-- [[implants/yildirim-2026-short-implants-bibliometric-research-trends]] — evidence-maturity map; short-implant output peaked in 2019 while the upper rungs have no comparable body of work.
+- [[implants/short-narrow/yildirim-2026-short-implants-bibliometric-research-trends]] — evidence-maturity map; short-implant output peaked in 2019 while the upper rungs have no comparable body of work.

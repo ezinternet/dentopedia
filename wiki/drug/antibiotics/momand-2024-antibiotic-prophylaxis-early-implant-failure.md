@@ -73,5 +73,5 @@ This SR+MA isolates the highest-quality evidence on a long-contested question: d
 
 - [[drug/antibiotics/torof-2023-antibiotic-dental-implant-procedures-sr-ma]] — contradicts (earlier SR+MA recommended preoperative single-dose amoxicillin; this placebo-RCT-only analysis finds no significant benefit)
 - [[implants/yari-2023-risk-factors-early-implant-failure]] — refines (early-failure risk is driven by anatomy/host/protocol, not prophylaxis)
-- [[implants/uesugi-2024-risk-factors-early-failure-all-on-four]] — relates (same outcome, immediate-loading cohort)
+- [[implants/full-arch/uesugi-2024-risk-factors-early-failure-all-on-four]] — relates (same outcome, immediate-loading cohort)
 - [[implants/fan-2024-smoking-early-implant-failure-sr-ma]] — relates (smoking, a residual confounder noted across included RCTs)

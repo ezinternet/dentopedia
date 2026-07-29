@@ -48,5 +48,5 @@ MDPI Dentistry 2026 paper (Croatian universities) combining a narrative review o
 
 ## Related Papers
 - [[implants/peri-implantitis/hong-2024-peri-implantitis-treatment-protocol-flowchart]] — comprehensive peri-implantitis treatment protocol
-- [[implants/herrera-2023-prevention-treatment-peri-implant-efp]] — EFP S3 peri-implant treatment guidelines
+- [[implants/peri-implantitis/herrera-2023-prevention-treatment-peri-implant-efp]] — EFP S3 peri-implant treatment guidelines
 - [[bone-regeneration/tallarico-2025-peri-implantitis-guided-bone-regeneration-case]] — CAD/CAM Ti-mesh GBR for peri-implantitis; contrast material

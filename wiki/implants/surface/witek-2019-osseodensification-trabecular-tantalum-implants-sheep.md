@@ -64,8 +64,8 @@ Animal model: 3 female sheep, both ilia. Within each ilium, 3 osteotomies (Regul
 - The non-significant BIC%/OD-CW results should be reported as such, not waved away with "OD is generally better."
 
 ## Related Papers
-- [[implants/trisi-2016-osseodensification-low-density-bone-sheep]] — sheep OD on standard implants, complementary
-- [[implants/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — original OD technique
-- [[implants/lopez-2017-osseodensification-spinal-surgical-hardware-fixation]] — OD outside dental (spinal hardware)
-- [[implants/padhye-2020-osseodensification-systematic-review-qualitative-analysis]] — SR that catalogs this study
-- [[implants/inchingolo-2021-osseodensification-implant-site-osteotomy-sr-ma]] — SR+MA that pools this study
+- [[implants/osseodensification/trisi-2016-osseodensification-low-density-bone-sheep]] — sheep OD on standard implants, complementary
+- [[implants/osseodensification/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — original OD technique
+- [[implants/osseodensification/lopez-2017-osseodensification-spinal-surgical-hardware-fixation]] — OD outside dental (spinal hardware)
+- [[implants/osseodensification/padhye-2020-osseodensification-systematic-review-qualitative-analysis]] — SR that catalogs this study
+- [[implants/osseodensification/inchingolo-2021-osseodensification-implant-site-osteotomy-sr-ma]] — SR+MA that pools this study

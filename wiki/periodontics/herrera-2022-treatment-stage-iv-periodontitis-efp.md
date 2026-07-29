@@ -56,4 +56,4 @@ The EFP S3 level clinical practice guideline for treatment of stage IV periodont
 
 ## Related Papers
 - [[periodontics/sanz-2020-treatment-stage-i-iii-periodontitis-efp]] — mandatory prerequisite guideline
-- [[implants/herrera-2023-prevention-treatment-peri-implant-efp]] — peri-implant disease prevention for implant rehabilitation
+- [[implants/peri-implantitis/herrera-2023-prevention-treatment-peri-implant-efp]] — peri-implant disease prevention for implant rehabilitation

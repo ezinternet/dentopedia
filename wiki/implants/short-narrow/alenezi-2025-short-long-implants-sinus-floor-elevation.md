@@ -5,7 +5,7 @@ year: 2025
 date: 2025-07-31
 doi: "10.7759/cureus.89103"
 source: alenezi-2025-short-long-implants-sinus-floor-elevation.md
-category: [implants]
+category: [implants/short-narrow]
 evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/alenezi-2025-short-long-implants-sinus-floor-elevation.pdf
 pdf_filename: alenezi-2025-short-long-implants-sinus-floor-elevation.pdf
@@ -57,5 +57,5 @@ PRISMA + Cochrane Handbook; PubMed, Scopus, Web of Science, Cochrane (inception�
 
 ## Related Papers
 - [[sinus-lift/lateral/mester-2023-short-vs-standard-implants-sinus-floor-elevation-sr-ma]] — reinforces
-- [[implants/vetromilla-2021-short-standard-implants-sinus-umbrella]] — reinforces (umbrella-level)
+- [[implants/short-narrow/vetromilla-2021-short-standard-implants-sinus-umbrella]] — reinforces (umbrella-level)
 - [[overviews/short-implant-vs-sinus-augmentation-decision]] — updates decision overview currency

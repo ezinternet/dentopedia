@@ -7,14 +7,14 @@ type: synthesis
 category: [overviews]
 tags: [narrow-diameter-implant, ndi, titanium-zirconium, anterior-maxilla, posterior, mandibular-overdenture, single-crown, bone-augmentation, immediate-loading, loading-protocol]
 source_papers:
-  - wiki/implants/zhang-2024-narrow-regular-diameter-anterior-maxilla.md
-  - wiki/implants/pachiou-2025-narrow-diameter-implants-fixed-posterior.md
-  - wiki/implants/pachiou-2026-narrow-diameter-implants-immediate-loading-sr-ma.md
-  - wiki/implants/park-2023-narrow-regular-diameter-mandibular-overdentures.md
-  - wiki/implants/cao-2023-titanium-zirconium-narrow-diameter-single-crown.md
-  - wiki/implants/witek-2021-surgical-instrumentation-narrow-wide-short-implants.md
+  - wiki/implants/short-narrow/zhang-2024-narrow-regular-diameter-anterior-maxilla.md
+  - wiki/implants/short-narrow/pachiou-2025-narrow-diameter-implants-fixed-posterior.md
+  - wiki/implants/short-narrow/pachiou-2026-narrow-diameter-implants-immediate-loading-sr-ma.md
+  - wiki/implants/short-narrow/park-2023-narrow-regular-diameter-mandibular-overdentures.md
+  - wiki/implants/short-narrow/cao-2023-titanium-zirconium-narrow-diameter-single-crown.md
+  - wiki/implants/short-narrow/witek-2021-surgical-instrumentation-narrow-wide-short-implants.md
   - wiki/implants/isq/diehl-2022-narrow-diameter-implant-stability-hyperglycemic.md
-  - wiki/implants/barbosa-2021-narrow-implants-one-two-piece-fea.md
+  - wiki/implants/short-narrow/barbosa-2021-narrow-implants-one-two-piece-fea.md
 relations:
   - type: extends
     target: pachiou-2026-narrow-diameter-implants-immediate-loading-sr-ma
@@ -109,16 +109,16 @@ Decision logic in prose:
 - **NDI vs mini-implant boundary.** Overdenture syntheses blur the <3.0 mm mini-implant vs 3.0–3.5 mm NDI distinction; outcomes may not transfer across that line.
 - **Clinical validation of the 2.5 mm FEA fracture signal.** Barbosa 2021 (FEA) predicts 2.5 mm one-piece implants will fracture under angled loading — but FEA does not account for bone remodeling, fatigue cycling, or real-world loading variation. Clinical registry data on 2.5 mm one-piece fracture rates are needed.
 - **Direct NDI-vs-(RDI+graft) head-to-head in the posterior region.** Anterior data exist (Zhang 2024); the posterior graft-avoidance comparison is still indirect.
-- **Drilling protocol optimisation for narrow implants.** [[implants/witek-2021-surgical-instrumentation-narrow-wide-short-implants]] (in-vivo sheep, 144 plateau-root-form implants, 3.5 mm narrow vs. 6.0 mm wide, 3 × 2 factorial RPM × irrigation design) shows that irrigation is most critical for narrow implants at low speed (50 RPM BIC: 30.6 ± 6.1% with irrigation vs. 19.7 ± 6.1% without; significant), whereas wide implants benefit more at higher speeds (500–1,000 RPM); BAFO was driven only by healing duration (3 vs. 6 weeks), not by any instrumentation variable. The SR/MA evidence base reviewed here does not address osteotomy protocol — pending clinical RCT translation of these diameter-specific drilling sensitivities.
+- **Drilling protocol optimisation for narrow implants.** [[implants/short-narrow/witek-2021-surgical-instrumentation-narrow-wide-short-implants]] (in-vivo sheep, 144 plateau-root-form implants, 3.5 mm narrow vs. 6.0 mm wide, 3 × 2 factorial RPM × irrigation design) shows that irrigation is most critical for narrow implants at low speed (50 RPM BIC: 30.6 ± 6.1% with irrigation vs. 19.7 ± 6.1% without; significant), whereas wide implants benefit more at higher speeds (500–1,000 RPM); BAFO was driven only by healing duration (3 vs. 6 weeks), not by any instrumentation variable. The SR/MA evidence base reviewed here does not address osteotomy protocol — pending clinical RCT translation of these diameter-specific drilling sensitivities.
 
 ## Related Papers
-- [[implants/zhang-2024-narrow-regular-diameter-anterior-maxilla]] — esthetic anterior maxilla; NDI ≈ RDI+graft, fewer soft-tissue dehiscences.
-- [[implants/pachiou-2025-narrow-diameter-implants-fixed-posterior]] — largest posterior fixed-restoration dataset; survival ~97%, technical complications dominate.
-- [[implants/pachiou-2026-narrow-diameter-implants-immediate-loading-sr-ma]] — companion SR+MA from the same group; adds the loading-timing axis (immediate vs early/delayed), no failure penalty, but a very-low-certainty long-term biological-complication signal.
-- [[implants/park-2023-narrow-regular-diameter-mandibular-overdentures]] — mandibular overdentures; equal survival, superior PROMs.
-- [[implants/cao-2023-titanium-zirconium-narrow-diameter-single-crown]] — Ti-Zr single crowns; equal to cpTi, the enabling alloy.
-- [[implants/witek-2021-surgical-instrumentation-narrow-wide-short-implants]] — in-vivo sheep study; diameter-specific RPM × irrigation interactions on BIC; extends to surgical technique dimension absent in SR/MA evidence above.
+- [[implants/short-narrow/zhang-2024-narrow-regular-diameter-anterior-maxilla]] — esthetic anterior maxilla; NDI ≈ RDI+graft, fewer soft-tissue dehiscences.
+- [[implants/short-narrow/pachiou-2025-narrow-diameter-implants-fixed-posterior]] — largest posterior fixed-restoration dataset; survival ~97%, technical complications dominate.
+- [[implants/short-narrow/pachiou-2026-narrow-diameter-implants-immediate-loading-sr-ma]] — companion SR+MA from the same group; adds the loading-timing axis (immediate vs early/delayed), no failure penalty, but a very-low-certainty long-term biological-complication signal.
+- [[implants/short-narrow/park-2023-narrow-regular-diameter-mandibular-overdentures]] — mandibular overdentures; equal survival, superior PROMs.
+- [[implants/short-narrow/cao-2023-titanium-zirconium-narrow-diameter-single-crown]] — Ti-Zr single crowns; equal to cpTi, the enabling alloy.
+- [[implants/short-narrow/witek-2021-surgical-instrumentation-narrow-wide-short-implants]] — in-vivo sheep study; diameter-specific RPM × irrigation interactions on BIC; extends to surgical technique dimension absent in SR/MA evidence above.
 - [[implants/isq/diehl-2022-narrow-diameter-implant-stability-hyperglycemic]] — prospective case–control; 3.3 mm SLActive TiZr NDI ISQ in uncontrolled T2DM; refines biological-risk decision point.
-- [[implants/barbosa-2021-narrow-implants-one-two-piece-fea]] — FEA; 2.5 mm one-piece exceeds Ti yield under 30° load (2188 MPa); 3.0 mm one-piece and 3.5 mm Morse taper safe; biomechanical floor for NDI selection.
+- [[implants/short-narrow/barbosa-2021-narrow-implants-one-two-piece-fea]] — FEA; 2.5 mm one-piece exceeds Ti yield under 30° load (2188 MPa); 3.0 mm one-piece and 3.5 mm Morse taper safe; biomechanical floor for NDI selection.
 - [[overviews/short-implant-vs-sinus-augmentation-decision]] — companion graft-avoidance overview (short-implant axis).
 - [[overviews/implant-length-selection-why-not-always-short]] — parallel dimension-selection reasoning for length.

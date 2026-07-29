@@ -5,7 +5,7 @@ year: 2015
 date: 2015-01-01
 doi: 10.1111/jcpe.12334
 source: derks-2015-peri-implant-health-disease-epidemiology.md
-category: [implants]
+category: [implants/peri-implantitis]
 evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/derks-2015-peri-implant-health-disease-epidemiology.pdf
 pdf_filename: derks-2015-peri-implant-health-disease-epidemiology.pdf
@@ -54,6 +54,6 @@ Systematic review and meta-analysis of 11 studies (15 articles) estimating popul
 - Higher bone loss threshold used in definition → lower apparent prevalence
 
 ## Related Papers
-- [[implants/berglundh-2018-peri-implant-diseases-conditions-consensus]] — standardised case definitions in response to this review's findings
-- [[implants/galarraga-vinueza-2025-peri-implant-disease-risk-factors]] — updated SR+MA (46% mucositis, 21% peri-implantitis) using 2018 definitions
-- [[implants/herrera-2023-prevention-treatment-peri-implant-efp]] — EFP guideline citing this epidemiology
+- [[implants/peri-implantitis/berglundh-2018-peri-implant-diseases-conditions-consensus]] — standardised case definitions in response to this review's findings
+- [[implants/peri-implantitis/galarraga-vinueza-2025-peri-implant-disease-risk-factors]] — updated SR+MA (46% mucositis, 21% peri-implantitis) using 2018 definitions
+- [[implants/peri-implantitis/herrera-2023-prevention-treatment-peri-implant-efp]] — EFP guideline citing this epidemiology

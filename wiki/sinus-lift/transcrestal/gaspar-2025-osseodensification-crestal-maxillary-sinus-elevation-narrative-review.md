@@ -47,7 +47,7 @@ Three RBH-stratified protocols proposed: (1) Sinus Lift I for RBH ≥6 mm, (2) S
 Narrative — no formal evidence grading. Authors heavily involved in OD development (potential conflict of interest). Protocols are proprietary (Versah Densah® burs). Long-term implant survival data still maturing.
 
 ## Related Papers
-- [[implants/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — original OD paper
+- [[implants/osseodensification/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — original OD paper
 - [[sinus-lift/transcrestal/mazor-2024-maxillary-sinus-membrane-perforation-osseodensification]]
 - [[sinus-lift/transcrestal/cobo-vazquez-2025-crestal-sinus-lift-osteotome-vs-osseodensification]]
 - [[sinus-lift/transcrestal/el-ghobashy-osseodensification-vs-osteotome-transcrestal-sinus]] — RCT OD vs osteotome

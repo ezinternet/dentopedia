@@ -21,7 +21,7 @@ source_papers:
   - wiki/implants/isq/stoilov-2023-macrodesign-length-diameter-bone-quality-isq.md
   - wiki/implants/isq/chatvaratthana-2017-cortical-bone-crestal-buccolingual-isq.md
   - wiki/implants/isq/canullo-2024-bioactive-surface-poor-bone-isq-stability.md
-  - wiki/implants/mello-machado-2021-osseodensification-low-quality-bone-rct.md
+  - wiki/implants/osseodensification/mello-machado-2021-osseodensification-low-quality-bone-rct.md
   - wiki/implants/munjal-2015-implants-low-density-bone-d3d4.md
   - wiki/implants/kim-2026-dental-implant-osteoporosis-osteosclerosis.md
   - wiki/implants/khaohoen-2023-biomaterials-dental-implants-bone-density-narrative-review.md
@@ -97,7 +97,7 @@ The classification-to-protocol map is set out by Raghavan (2025), which ties Mis
 | [[implants/raghavan-2025-bone-density-implant-dentistry-review]] | narrative | Classification + protocol map | Misch D1–D4, CBCT HU; under-drill D3/D4, modify healing, design selection | [확인] |
 | [[implants/isq/stoilov-2023-macrodesign-length-diameter-bone-quality-isq]] | in-vitro | Macro-design × density | Diameter > length for ISQ; tapered superior; soft bone → drilling protocol critical | [미검증] |
 | [[implants/premnath-2012-stress-distribution-bone-density-fea]] | in-vitro (FEA) | Stress × density | Peak stress at crestal neck; D3/D4 favors cylindrical; threaded > cylindrical stress | [미검증] |
-| [[implants/mello-machado-2021-osseodensification-low-quality-bone-rct]] | rct (16 pts/55 impl) | Soft-bone drilling lever | OD vs conventional: IT 39 vs 32 Ncm (p<.001), ISQ equivalent, survival equal at 6mo | [확인(소표본)] |
+| [[implants/osseodensification/mello-machado-2021-osseodensification-low-quality-bone-rct]] | rct (16 pts/55 impl) | Soft-bone drilling lever | OD vs conventional: IT 39 vs 32 Ncm (p<.001), ISQ equivalent, survival equal at 6mo | [확인(소표본)] |
 | [[implants/isq/canullo-2024-bioactive-surface-poor-bone-isq-stability]] | prospective | Soft-bone surface lever | In poor bone, bioactive surface avoids the T30/T45 ISQ dip → enables 45-day loading | [확인] |
 | [[implants/munjal-2015-implants-low-density-bone-d3d4]] | prospective (n=14) | D3/D4 outcome | 92.3% survival at 12mo, MBL not significant | [미검증(소표본)] |
 | [[implants/kim-2026-dental-implant-osteoporosis-osteosclerosis]] | narrative-review (30 studies) | Systemic/pathologic extension | Osteoporosis short 97.9–100% → long 82.6–94.1%; sclerotic lesion-dependent | [확인] |
@@ -183,8 +183,8 @@ Supporting papers added 2026-07-10 (the pharmacologic lever and the aging axis):
 
 - [[implants/kindaro-2026-parathyroid-hormone-implant-osseointegration-osteoporosis-sr]] — SR of 12 preclinical studies: intermittent PTH/teriparatide raises BIC, BV/TV, and removal torque in osteoporotic animals; combination > monotherapy; **animal-only, no human data**, 7/12 high risk of blinding bias. The osteoanabolic counterpoint to the antiresorptive-hazard axis.
 - [[bone-biology/issa-2026-bone-biology-aging-periodontal-peri-implant-tissues]] — Perio 2000 review: AGE crosslinks, inflammaging, senescence/SASP, immunosenescence, osteoprogenitor exhaustion (RANKL↑/OPG↓) as the mechanism of age-related alveolar bone fragility; age alone is not a contraindication, but its effect on osseointegration is largely unstudied.
-- [[implants/di-stefano-2018-undersizing-tapping-bic-primary-stability-bovine-histomorphometric]] — bench: torque-depth integral quantifies undersizing → primary stability (the drilling lever).
-- [[implants/el-kholey-2019-drilling-technique-low-density-bone-sr]] — SR: undersized/osteotome/Piezo/OD all raise primary stability but long-term superiority weak (caution on the drilling lever).
-- [[implants/tabassum-2021-undersized-axial-compression-primary-stability]] — animal: lateral + axial compression raise IT/%BIC in low-density bone.
-- [[implants/gehrke-2021-healing-chambers-macrogeometry-low-density-drilling]] — in-vitro: undersizing helps only above a density floor; macrogeometry complements.
+- [[implants/osteotomy-thermal/di-stefano-2018-undersizing-tapping-bic-primary-stability-bovine-histomorphometric]] — bench: torque-depth integral quantifies undersizing → primary stability (the drilling lever).
+- [[implants/osteotomy-thermal/el-kholey-2019-drilling-technique-low-density-bone-sr]] — SR: undersized/osteotome/Piezo/OD all raise primary stability but long-term superiority weak (caution on the drilling lever).
+- [[implants/osteotomy-thermal/tabassum-2021-undersized-axial-compression-primary-stability]] — animal: lateral + axial compression raise IT/%BIC in low-density bone.
+- [[implants/osteotomy-thermal/gehrke-2021-healing-chambers-macrogeometry-low-density-drilling]] — in-vitro: undersizing helps only above a density floor; macrogeometry complements.
 - [[implants/khaohoen-2023-biomaterials-dental-implants-bone-density-narrative-review]] — narrative review (119 articles): reinforces the material × design × technique triad for low-density bone; supplies survival-by-density (D-IV 88.8%), the low-density geometry recipe, and the Ti/zirconia/PEEK material comparison.

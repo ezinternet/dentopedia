@@ -5,7 +5,7 @@ year: 2025
 date: 2025-03-04
 doi: 10.1016/j.jebdp.2025.102132
 source: shilpi-2025-osseodensification-conventional-low-bone-sr-ma.md
-category: [implants]
+category: [implants/osseodensification]
 evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: false
@@ -65,6 +65,6 @@ The ISQ immediate p-value of 0.06 (just missing significance) and the confidence
 
 ## Related Papers
 
-- [[implants/mohammadi-2025-osseodensification-conventional-low-density-bone-sr-ma]] — Parallel 2025 SR+MA (7 studies, broader inclusion): same ISQ NS conclusion; bone density advantage limited; both studies mutually reinforce the "OD benefit is early and density-specific, not ISQ-significant" pattern
-- [[implants/gaspar-2022-implant-stability-osseodensification-conventional-sr-ma]] — Earlier SR+MA of OD vs conventional: broader scope without bone density focus
-- [[implants/versah-protocols/rittipakorn-2025-clockwise-osseodensification-primary-stability-cadaveric]] — Clockwise OD cadaveric: IT trend p=0.052; consistent with ISQ trend p=0.06 pattern across study types
+- [[implants/osseodensification/mohammadi-2025-osseodensification-conventional-low-density-bone-sr-ma]] — Parallel 2025 SR+MA (7 studies, broader inclusion): same ISQ NS conclusion; bone density advantage limited; both studies mutually reinforce the "OD benefit is early and density-specific, not ISQ-significant" pattern
+- [[implants/osseodensification/gaspar-2022-implant-stability-osseodensification-conventional-sr-ma]] — Earlier SR+MA of OD vs conventional: broader scope without bone density focus
+- [[implants/osseodensification/rittipakorn-2025-clockwise-osseodensification-primary-stability-cadaveric]] — Clockwise OD cadaveric: IT trend p=0.052; consistent with ISQ trend p=0.06 pattern across study types

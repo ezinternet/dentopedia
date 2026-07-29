@@ -95,7 +95,7 @@ The intentionally excluded papers matter too: `lee-2009` (short-implant marginal
 
 ### 신규 ingest cluster (2026-07-15)
 
-- [[implants/heiderich-2020-methodological-quality-loading-time-implants]] — Umbrella review (21 SRs, loading time): 13 SRs immediate≈conventional, 6 favor conventional, but 8/21 (~40%) high ROBIS risk; low-risk-only still no difference — weight loading-time conclusions by SR risk-of-bias tier
+- [[implants/loading-protocol/heiderich-2020-methodological-quality-loading-time-implants]] — Umbrella review (21 SRs, loading time): 13 SRs immediate≈conventional, 6 favor conventional, but 8/21 (~40%) high ROBIS risk; low-risk-only still no difference — weight loading-time conclusions by SR risk-of-bias tier
 
 **Axis 1 — Osseointegration foundations**
 - [[implants/buser-2017-modern-implant-dentistry-osseointegration-50years]] — 50-year history, dual founding schools, surface benchmark, named controversies (peri-implantitis, zirconia)

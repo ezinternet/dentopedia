@@ -5,7 +5,7 @@ year: 2023
 date: 2023-06-27
 doi: "10.1111/jopr.13726"
 source: park-2023-narrow-regular-diameter-mandibular-overdentures.md
-category: [implants]
+category: [implants/short-narrow]
 evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/park-2023-narrow-regular-diameter-mandibular-overdentures.pdf
 pdf_filename: park-2023-narrow-regular-diameter-mandibular-overdentures.pdf
@@ -53,6 +53,6 @@ Cochrane-based SR+MA. Medline, Embase, CENTRAL, Web of Science, Scopus (to July 
 - Patient satisfaction (VAS) and OHRQoL (OHIP): NDI significantly better than RDI.
 
 ## Related Papers
-- [[implants/pachiou-2025-narrow-diameter-implants-fixed-posterior]] — reinforces (NDI equivalence, fixed posterior)
+- [[implants/short-narrow/pachiou-2025-narrow-diameter-implants-fixed-posterior]] — reinforces (NDI equivalence, fixed posterior)
 - [[overviews/narrow-diameter-implants-clinical-outcomes-overview]] — overdenture axis of the NDI overview
 - [[overviews/implant-loading-protocol-prosthesis-type-overview]] — overdenture prosthesis context

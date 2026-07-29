@@ -45,5 +45,5 @@ Stress patterns sensitive to bone thickness and loading angle; identifies high-r
 Pre-publication version (article in press); FEA idealizations; not clinical outcome.
 
 ## Related Papers
-- [[implants/baki-2025-all-on-4-trefoil-five-implant-fea]]
+- [[implants/full-arch/baki-2025-all-on-4-trefoil-five-implant-fea]]
 - [[immediate-implant/esthetic-soft-tissue/yang-2019-labial-bone-thickness-esthetics-iipp]]

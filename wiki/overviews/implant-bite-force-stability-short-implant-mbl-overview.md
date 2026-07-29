@@ -122,9 +122,9 @@ When bone height is limited and a short implant is indicated, the 1-year MBL dat
 ## Related Papers
 
 - [[implants/mohammed-2026-bite-force-implant-stability]] — primary source: BF–ISQ positive correlation, 18-month prospective cohort
-- [[implants/lee-2009-marginal-bone-single-short-implant]] — primary source: short implant C:I vs. MBL at 1 year, retrospective
+- [[implants/short-narrow/lee-2009-marginal-bone-single-short-implant]] — primary source: short implant C:I vs. MBL at 1 year, retrospective
 - [[overviews/implants-isq-stability-ladder]] — ISQ threshold, measurement, loading-decision ladder; BF is a new modulating factor added by Mohammed 2026
 - [[overviews/implant-length-selection-why-not-always-short]] — short vs. standard implant selection framework; Lee 2009 adds 1-year MBL reference for C:I discussion
 - [[implants/isq/andersson-2019-rfa-factors-5year-neoss-survival]] — ISQ determinants over 5 years; Mohammed 2026 adds BF as an additional modulator
-- [[implants/barausse-2024-4mm-short-implants-posterior-atrophic-8year]] — 8-year ultra-short implant data; extends Lee 2009's 1-year MBL findings over much longer follow-up
-- [[implants/arbildo-vega-2025-short-vs-standard-implants-edentulous-umbrella-review]] — umbrella SR+MA on short vs. standard implants; high-level context for Lee 2009 single-center data
+- [[implants/short-narrow/barausse-2024-4mm-short-implants-posterior-atrophic-8year]] — 8-year ultra-short implant data; extends Lee 2009's 1-year MBL findings over much longer follow-up
+- [[implants/short-narrow/arbildo-vega-2025-short-vs-standard-implants-edentulous-umbrella-review]] — umbrella SR+MA on short vs. standard implants; high-level context for Lee 2009 single-center data

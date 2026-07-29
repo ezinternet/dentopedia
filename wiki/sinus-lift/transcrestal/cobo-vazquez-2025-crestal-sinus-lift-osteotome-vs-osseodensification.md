@@ -60,4 +60,4 @@ PRISMA 2020 systematic review of MEDLINE/PubMed, SCOPUS, and Cochrane CENTRAL up
 - [[sinus-lift/transcrestal/sirinirund-2025-minimally-invasive-sinus-augmentation-review]] — broader review on minimally invasive sinus augmentation
 - [[sinus-lift/transcrestal/stuhr-2025-long-term-stability-transcrestal-sinus-augmentation]] — long-term outcome data
 - [[sinus-lift/lateral/del-fabbro-2025-sinus-augmentation-materials-lateral-approach]] — lateral-window comparator
-- [[implants/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — Huwais foundational OD bench paper
+- [[implants/osseodensification/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — Huwais foundational OD bench paper

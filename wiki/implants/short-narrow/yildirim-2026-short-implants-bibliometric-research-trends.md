@@ -5,7 +5,7 @@ year: 2026
 date: 2026-01-01
 doi: 10.11607/jomi.11411
 source: yildirim-2026-short-implants-bibliometric-research-trends.md
-category: [implants]
+category: [implants/short-narrow]
 evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/yildirim-2026-short-implants-bibliometric-research-trends.pdf
 pdf_filename: yildirim-2026-short-implants-bibliometric-research-trends.pdf
@@ -17,7 +17,7 @@ relations:
   - type: reinforces
     target: immediate-implant/socket-shield/fang-2025-socket-shield-ai-bibliometric-analysis
   - type: extends
-    target: implants/barausse-2024-4mm-short-implants-posterior-atrophic-8year
+    target: implants/short-narrow/barausse-2024-4mm-short-implants-posterior-atrophic-8year
 ---
 
 ## Three-line Summary
@@ -96,7 +96,7 @@ Most-cited works are dominated by systematic reviews and RCTs — a high-level-e
 - [[overviews/short-implant-vs-sinus-augmentation-decision]] — this map's activity view sits atop that outcome-based decision synthesis.
 - [[overviews/implant-length-selection-why-not-always-short]] — companion decision overview on length selection.
 - [[overviews/implant-bite-force-stability-short-implant-mbl-overview]] — biomechanical/MBL synthesis for short implants.
-- [[implants/barausse-2024-4mm-short-implants-posterior-atrophic-8year]] — 4-mm extra-short long-term outcome evidence; Barausse C is a top-20 author in this map.
+- [[implants/short-narrow/barausse-2024-4mm-short-implants-posterior-atrophic-8year]] — 4-mm extra-short long-term outcome evidence; Barausse C is a top-20 author in this map.
 - [[sinus-lift/lateral/aleman-2025-short-vs-long-implants-sinus-lift-5yr-sr-ma]] — short vs long implant with sinus lift, 5-yr SR/MA (outcome evidence).
 - [[sinus-lift/lateral/chaware-2021-short-vs-long-implant-sinus-graft-sr-ma]] — short vs long implant with sinus graft, SR/MA.
 - [[sinus-lift/lateral/toledano-2022-short-versus-standard-implants-sinus]] — short vs standard implants in sinus context.

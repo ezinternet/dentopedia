@@ -5,7 +5,7 @@ year: 2021
 date: 2021-08-10
 doi: "10.4103/jips.jips_79_21"
 source: mehta-2021-tilted-axial-implants-edentulous-maxilla-sr-ma.md
-category: [implants]
+category: [implants/full-arch]
 evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/mehta-2021-tilted-axial-implants-edentulous-maxilla-sr-ma.pdf
 pdf_filename: mehta-2021-tilted-axial-implants-edentulous-maxilla-sr-ma.pdf
@@ -52,4 +52,4 @@ This systematic review and meta-analysis pooled 11 studies (7 for marginal bone 
 
 - [[immediate-implant/molar-septum/yaghmai-2025-palatal-root-socket-all-on-x]] — All-on-X immediate full-arch placement
 - [[immediate-implant/heimes-2025-immediate-implant-full-arch-rehabilitation]] — immediate full-arch rehabilitation
-- [[implants/abdunabi-2019-immediately-loaded-maxillary-full-arch-sr]] — immediate loading of maxillary full-arch prostheses
+- [[implants/full-arch/abdunabi-2019-immediately-loaded-maxillary-full-arch-sr]] — immediate loading of maxillary full-arch prostheses

@@ -5,7 +5,7 @@ year: 2021
 date: 2020-03-19
 doi: "10.1016/j.sdentj.2020.03.004"
 source: tabassum-2021-undersized-axial-compression-primary-stability.md
-category: [implants]
+category: [implants/osteotomy-thermal]
 evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/tabassum-2021-undersized-axial-compression-primary-stability.pdf
 pdf_filename: tabassum-2021-undersized-axial-compression-primary-stability.pdf
@@ -52,7 +52,7 @@ Experimental ex vivo study; 4 cadaver goat femoral condyles; 44 implants (Dyna �
 - %Bone volume: approach 2 > approach 1 in inner peri-implant zone (P<0.05).
 
 ## Related Papers
-- [[implants/yu-2022-primary-implant-stability-alternative-site-preparation-sr-ma]] — extends; SR-MA on alternative site-preparation for primary stability.
-- [[implants/slete-2018-histomorphometric-comparison-three-osteotomy-techniques]] — reinforces; histomorphometric comparison of osteotomy techniques.
-- [[implants/mello-machado-2021-osseodensification-low-quality-bone-rct]] — related; low-quality-bone osteotomy modification RCT.
-- [[implants/marzorati-2026-osseodensification-standard-osteotomy-torque-isq-sr-ma]] — related; torque/ISQ effects of densifying osteotomy.
+- [[implants/osteotomy-thermal/yu-2022-primary-implant-stability-alternative-site-preparation-sr-ma]] — extends; SR-MA on alternative site-preparation for primary stability.
+- [[implants/osteotomy-thermal/slete-2018-histomorphometric-comparison-three-osteotomy-techniques]] — reinforces; histomorphometric comparison of osteotomy techniques.
+- [[implants/osseodensification/mello-machado-2021-osseodensification-low-quality-bone-rct]] — related; low-quality-bone osteotomy modification RCT.
+- [[implants/osseodensification/marzorati-2026-osseodensification-standard-osteotomy-torque-isq-sr-ma]] — related; torque/ISQ effects of densifying osteotomy.

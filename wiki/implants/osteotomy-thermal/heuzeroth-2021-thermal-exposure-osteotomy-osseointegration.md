@@ -5,7 +5,7 @@ year: 2021
 date: 2021-02-25
 doi: 10.1111/clr.13729
 source: heuzeroth-2021-thermal-exposure-osteotomy-osseointegration.md
-category: [implants]
+category: [implants/osteotomy-thermal]
 evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/heuzeroth-2021-thermal-exposure-osteotomy-osseointegration.pdf
 pdf_filename: heuzeroth-2021-thermal-exposure-osteotomy-osseointegration.pdf
@@ -61,9 +61,9 @@ Bridges the in vitro thermal literature (which has long shown drills can exceed 
 - 단, Pippenger 등 산업계 affiliation 존재 — sponsorship bias 고려.
 
 ## Related Papers
-- [[implants/chakraborty-2024-implant-drill-materials-heat-osteotomy]] — SR on drill material vs heat
-- [[implants/marenzi-2018-micromorphological-structure-implant-drills]] — surface microstructure differences across manufacturers
-- [[implants/bernabeu-mira-2020-bone-heating-drilling-implant]] — drill design (twisted) reduces heat in vitro
-- [[implants/sorgato-2025-drill-bit-wear-temperature]] — wear–temperature relationship
-- [[implants/saxena-2024-guided-implant-drilling-bone-temperature]] — guided drilling heat SR
-- [[implants/aquilanti-2023-heat-generation-initial-osteotomy]] — rotary vs piezo at initial osteotomy
+- [[implants/osteotomy-thermal/chakraborty-2024-implant-drill-materials-heat-osteotomy]] — SR on drill material vs heat
+- [[implants/osteotomy-thermal/marenzi-2018-micromorphological-structure-implant-drills]] — surface microstructure differences across manufacturers
+- [[implants/osteotomy-thermal/bernabeu-mira-2020-bone-heating-drilling-implant]] — drill design (twisted) reduces heat in vitro
+- [[implants/osteotomy-thermal/sorgato-2025-drill-bit-wear-temperature]] — wear–temperature relationship
+- [[implants/osteotomy-thermal/saxena-2024-guided-implant-drilling-bone-temperature]] — guided drilling heat SR
+- [[implants/osteotomy-thermal/aquilanti-2023-heat-generation-initial-osteotomy]] — rotary vs piezo at initial osteotomy

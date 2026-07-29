@@ -5,7 +5,7 @@ year: 2025
 date: 2025-10-27
 doi: 10.4103/drj.drj_574_24
 source: rismanchian-2025-immediate-nonimmediate-loading-umbrella-review.md
-category: [implants]
+category: [implants/loading-protocol]
 evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/rismanchian-2025-immediate-nonimmediate-loading-umbrella-review.pdf
 pdf_filename: rismanchian-2025-immediate-nonimmediate-loading-umbrella-review.pdf
@@ -63,7 +63,7 @@ Umbrella review (PRISMA-guided) of SRs/MAs from PubMed, Scopus, Web of Science, 
 ## Related Papers
 - [[overviews/implant-failure-mbl-risk-factors-overview]] — synthesized into this cross-paper late-implant-failure/MBL risk-factor overview
 
-- [[implants/benic-2014-loading-protocols-single-implant-crowns-sr-ma]] — earlier SR+MA (11 RCTs, single-implant crowns) establishing IL≈NIL equivalence under adequate primary stability; this umbrella review reinforces that conclusion with broader, more recent evidence.
+- [[implants/loading-protocol/benic-2014-loading-protocols-single-implant-crowns-sr-ma]] — earlier SR+MA (11 RCTs, single-implant crowns) establishing IL≈NIL equivalence under adequate primary stability; this umbrella review reinforces that conclusion with broader, more recent evidence.
 - [[immediate-implant/loading-protocol/gjelvold-2021-immediate-delayed-loading-single-tooth-5year-rct]] — 5-year RCT directly cited in this review as a key long-term comparative trial (IL 100% vs NIL 95.8% survival).
 - [[immediate-implant/loading-protocol/esposito-2015-immediate-loading-vs-delayed-anterior-rct]] — related anterior-maxilla IL vs delayed placement/loading RCT.
-- [[implants/liu-2021-immediate-delayed-loading-overdenture-mbl-sr-ma]] — parallel SR+MA on IL vs delayed loading MBL, different prosthesis type (overdenture vs single crown).
+- [[implants/full-arch/liu-2021-immediate-delayed-loading-overdenture-mbl-sr-ma]] — parallel SR+MA on IL vs delayed loading MBL, different prosthesis type (overdenture vs single crown).

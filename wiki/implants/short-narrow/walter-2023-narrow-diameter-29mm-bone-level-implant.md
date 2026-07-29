@@ -4,7 +4,7 @@ authors: Christian Walter, Keyvan Sagheb, Sebastian Blatt, Marcus Oliver Klein, 
 year: 2023
 doi: 10.1186/s40729-023-00495-x
 source: sources/walter-2023-narrow-diameter-29mm-bone-level-implant.md
-category: implants/survival
+category: implants/short-narrow
 evidence_level: prospective
 date: 2023-01-01
 pdf_path: /Users/oracleneo/llm-wiki/papers/walter-2023-narrow-diameter-29mm-bone-level-implant.pdf
@@ -21,7 +21,7 @@ tags:
   - anterior
   - PES
 relations:
-  - target: implants/survival/schiegnitz-2018-narrow-diameter-implants-systematic-review
+  - target: implants/short-narrow/schiegnitz-2018-narrow-diameter-implants-systematic-review
     type: extends
     note: Provides product-specific prospective data for Schiegnitz Category 2 NDI classification
 ---
@@ -92,5 +92,5 @@ Walter et al. (2023) report the first multicenter prospective clinical data for 
 
 ## Related Papers
 
-- [[implants/survival/schiegnitz-2018-narrow-diameter-implants-systematic-review]] — SR+MA establishing Category 2 NDI (3.0–3.25 mm) survival equivalence to SDI; this study is the product-level prospective extension with the 2.9 mm two-piece design
+- [[implants/short-narrow/schiegnitz-2018-narrow-diameter-implants-systematic-review]] — SR+MA establishing Category 2 NDI (3.0–3.25 mm) survival equivalence to SDI; this study is the product-level prospective extension with the 2.9 mm two-piece design
 - [[implants/isq/faot-2019-insertion-torque-mandibular-overdenture]] — prospective study of 2.9 mm NDI for mandibular overdenture retention (different indication)

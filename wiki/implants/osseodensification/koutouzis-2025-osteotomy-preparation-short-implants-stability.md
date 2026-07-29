@@ -5,7 +5,7 @@ year: 2025
 date: 2025-02-07
 doi: 10.11607/jomi.10909
 source: koutouzis-2025-osteotomy-preparation-short-implants-stability.md
-category: [implants/versah-protocols]
+category: [implants/osseodensification]
 evidence_level: animal
 source_collection: pubmed-text
 full_text: false
@@ -71,6 +71,6 @@ Histomorphometry (N groups): NS for bone marrow space and connective tissue cont
 
 ## Related Papers
 
-- [[implants/versah-protocols/rittipakorn-2025-clockwise-osseodensification-primary-stability-cadaveric]] — Clockwise OD cadaveric tibiae: IT trend improvement; this study adds diameter as critical moderating variable
-- [[implants/versah-protocols/mercier-2022-osseodensification-primary-stability-cadavers]] — OD cadaveric mandibles: significant IT increase without diameter stratification; present study refines those findings
-- [[implants/gaikwad-2022-osseodensification-animal-biomechanics-bic-sr-ma]] — SR+MA animal/biomechanics OD data: IT/BIC advantage — present study shows diameter dependency previously unaccounted for
+- [[implants/osseodensification/rittipakorn-2025-clockwise-osseodensification-primary-stability-cadaveric]] — Clockwise OD cadaveric tibiae: IT trend improvement; this study adds diameter as critical moderating variable
+- [[implants/osseodensification/mercier-2022-osseodensification-primary-stability-cadavers]] — OD cadaveric mandibles: significant IT increase without diameter stratification; present study refines those findings
+- [[implants/osseodensification/gaikwad-2022-osseodensification-animal-biomechanics-bic-sr-ma]] — SR+MA animal/biomechanics OD data: IT/BIC advantage — present study shows diameter dependency previously unaccounted for

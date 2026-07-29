@@ -5,7 +5,7 @@ year: 2018
 date: 2018-08-01
 doi: 10.1097/ID.0000000000000767
 source: slete-2018-histomorphometric-comparison-three-osteotomy-techniques.md
-category: [implants]
+category: [implants/osteotomy-thermal]
 evidence_level: in-vivo
 pdf_path: /Users/oracleneo/llm-wiki/papers/slete-2018-histomorphometric-comparison-three-osteotomy-techniques.pdf
 pdf_filename: slete-2018-histomorphometric-comparison-three-osteotomy-techniques.pdf
@@ -60,8 +60,8 @@ Fresh porcine tibial plateau substrate. Three osteotomy groups (n = 6 each): SD 
 - BV% similarity between SD and SO (54% vs 49%) suggests the dramatic BIC difference is largely a contact-geometry artifact of how each technique presents bone to the implant thread, not a true bone-volume effect.
 
 ## Related Papers
-- [[implants/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — original OD bur publication that Slete cites as the technique source.
+- [[implants/osseodensification/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — original OD bur publication that Slete cites as the technique source.
 - [[implants/surface/lahens-2019-osseodensification-implant-surface-treatments-sheep]] — sheep in vivo extension, BIC advantage of OD persists with longer healing.
-- [[implants/mello-machado-2021-osseodensification-low-quality-bone-rct]] — patient RCT in D3/D4 bone.
-- [[implants/koutouzis-2019-alveolar-ridge-expansion-osseodensification-multicenter-retrospective]] — clinical retrospective on OD ridge expansion.
+- [[implants/osseodensification/mello-machado-2021-osseodensification-low-quality-bone-rct]] — patient RCT in D3/D4 bone.
+- [[implants/osseodensification/koutouzis-2019-alveolar-ridge-expansion-osseodensification-multicenter-retrospective]] — clinical retrospective on OD ridge expansion.
 - [[fontes-pereira-2023-osseodensification-osteotomy-alternative-sr]] — SR including Slete (Ref 2).

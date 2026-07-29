@@ -5,7 +5,7 @@ year: 2017
 date: 2017-05-01
 doi: 10.1016/j.jmbbm.2016.12.020
 source: lopez-2017-osseodensification-spinal-surgical-hardware-fixation.md
-category: [implants]
+category: [implants/osseodensification]
 evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/lopez-2017-osseodensification-spinal-surgical-hardware-fixation.pdf
 pdf_filename: lopez-2017-osseodensification-spinal-surgical-hardware-fixation.pdf
@@ -68,8 +68,8 @@ OD significantly outperformed regular drilling on all three outcomes: pullout st
 - The BAFO dip-and-recover time pattern is useful general bone-healing context, not OD-specific.
 
 ## Related Papers
-- [[implants/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — original dental OD paper
-- [[implants/trisi-2016-osseodensification-low-density-bone-sheep]] — dental OD in sheep, biomechanical
+- [[implants/osseodensification/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — original dental OD paper
+- [[implants/osseodensification/trisi-2016-osseodensification-low-density-bone-sheep]] — dental OD in sheep, biomechanical
 - [[implants/surface/witek-2019-osseodensification-trabecular-tantalum-implants-sheep]] — dental OD × porous tantalum
-- [[implants/padhye-2020-osseodensification-systematic-review-qualitative-analysis]] — SR (dental scope, excludes this study)
-- [[implants/inchingolo-2021-osseodensification-implant-site-osteotomy-sr-ma]] — SR+MA (dental scope, excludes this study)
+- [[implants/osseodensification/padhye-2020-osseodensification-systematic-review-qualitative-analysis]] — SR (dental scope, excludes this study)
+- [[implants/osseodensification/inchingolo-2021-osseodensification-implant-site-osteotomy-sr-ma]] — SR+MA (dental scope, excludes this study)

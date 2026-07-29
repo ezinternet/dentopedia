@@ -78,6 +78,6 @@ This foundational SR+MA (Del Fabbro & Ceresoli, *EJOI* 2014 Suppl) compared cres
 
 ## Related Papers
 
-- [[implants/del-fabbro-2022-full-arch-tilted-axial-implants-sr-ma]] — 2022 update; larger sample, longer follow-up; MBL axial < tilted P<.0001
-- [[implants/lin-2018-clinical-performance-tilted-versus-axial]] — SR confirming no survival difference
-- [[implants/bilgi-ozyetim-2025-biomechanical-comparison-implant-inclinations]] — FEA biomechanics at 17°/30°/45°
+- [[implants/full-arch/del-fabbro-2022-full-arch-tilted-axial-implants-sr-ma]] — 2022 update; larger sample, longer follow-up; MBL axial < tilted P<.0001
+- [[implants/full-arch/lin-2018-clinical-performance-tilted-versus-axial]] — SR confirming no survival difference
+- [[implants/full-arch/bilgi-ozyetim-2025-biomechanical-comparison-implant-inclinations]] — FEA biomechanics at 17°/30°/45°

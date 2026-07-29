@@ -5,7 +5,7 @@ year: 2019
 date: 2019-07-24
 doi: 10.7759/cureus.5226
 source: timon-2019-thermal-osteonecrosis-bone-drilling-orthopedic.md
-category: [implants, oral-surgery]
+category: [implants/osteotomy-thermal, oral-surgery]
 evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/timon-2019-thermal-osteonecrosis-bone-drilling-orthopedic.pdf
 pdf_filename: timon-2019-thermal-osteonecrosis-bone-drilling-orthopedic.pdf
@@ -54,8 +54,8 @@ Cross-specialty validation of the same physical problem treated in dental implan
 - in vivo 인체 데이터 부재 — 모든 임상 권고는 in vitro·동물 모델 외삽이라는 점 명시.
 
 ## Related Papers
-- [[implants/chauhan-2018-biomechanical-factors-heat-generation-osteotomy]] — dental multifactorial SR
-- [[implants/woods-2022-does-irrigating-while-drilling-decrease]] — orthopedic dog tibia in vivo, saline irrigation 효과
-- [[implants/jung-2021-heat-development-medical-drilling-influencing]] — medical drilling mini-review
-- [[implants/chakraborty-2024-implant-drill-materials-heat-osteotomy]] — drill 재질-발열 dental SR
-- [[implants/saxena-2024-guided-implant-drilling-bone-temperature]] — guided drilling 발열 SR
+- [[implants/osteotomy-thermal/chauhan-2018-biomechanical-factors-heat-generation-osteotomy]] — dental multifactorial SR
+- [[implants/osteotomy-thermal/woods-2022-does-irrigating-while-drilling-decrease]] — orthopedic dog tibia in vivo, saline irrigation 효과
+- [[implants/osteotomy-thermal/jung-2021-heat-development-medical-drilling-influencing]] — medical drilling mini-review
+- [[implants/osteotomy-thermal/chakraborty-2024-implant-drill-materials-heat-osteotomy]] — drill 재질-발열 dental SR
+- [[implants/osteotomy-thermal/saxena-2024-guided-implant-drilling-bone-temperature]] — guided drilling 발열 SR

@@ -92,4 +92,4 @@ The authors conclude that even at a force magnitude that is otherwise "acceptabl
 - [[overviews/implant-occlusion-loading-biomechanics-overview]] — synthesis of implant occlusion biomechanics; this study provides animal-model dose-response evidence for loading frequency thresholds
 - [[occlusion/romanos-2003-bone-implant-interface-loading-conditions-monkey]] — histomorphometric comparison of loading effects (monkey model); supports detrimental loading effects at higher loads in primary vs. secondary healing
 - [[occlusion/podaropoulos-2016-bone-reactions-progressive-static-load-dogs]] — progressive static load in dogs; complements this cyclic-load study by contrasting static vs. cyclic loading mechanisms
-- [[implants/arghami-2021-immediate-early-loading-hydroxyapatite-coated]] — immediate/early loading clinical data; this study provides basic mechanobiology underpinning the biological rationale for loading protocols
+- [[implants/loading-protocol/arghami-2021-immediate-early-loading-hydroxyapatite-coated]] — immediate/early loading clinical data; this study provides basic mechanobiology underpinning the biological rationale for loading protocols

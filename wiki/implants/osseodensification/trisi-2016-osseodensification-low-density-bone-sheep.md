@@ -5,7 +5,7 @@ year: 2016
 date: 2016-01-01
 doi: 10.1097/ID.0000000000000358
 source: trisi-2016-osseodensification-low-density-bone-sheep.md
-category: [implants]
+category: [implants/osseodensification]
 evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/trisi-2016-osseodensification-low-density-bone-sheep.pdf
 pdf_filename: trisi-2016-osseodensification-low-density-bone-sheep.pdf
@@ -66,8 +66,8 @@ The paper is widely cited as proof that OD raises bone volume in low-density bon
 - Subsequent SR/MA (Padhye 2020, Inchingolo 2021) pool this study but do not adjust for the diameter confound.
 
 ## Related Papers
-- [[implants/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — original OD technique
+- [[implants/osseodensification/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — original OD technique
 - [[implants/surface/witek-2019-osseodensification-trabecular-tantalum-implants-sheep]] — sheep OD on porous tantalum
-- [[implants/lopez-2017-osseodensification-spinal-surgical-hardware-fixation]] — OD principle outside dental
-- [[implants/padhye-2020-osseodensification-systematic-review-qualitative-analysis]] — SR that includes this study
-- [[implants/inchingolo-2021-osseodensification-implant-site-osteotomy-sr-ma]] — SR+MA that includes this study
+- [[implants/osseodensification/lopez-2017-osseodensification-spinal-surgical-hardware-fixation]] — OD principle outside dental
+- [[implants/osseodensification/padhye-2020-osseodensification-systematic-review-qualitative-analysis]] — SR that includes this study
+- [[implants/osseodensification/inchingolo-2021-osseodensification-implant-site-osteotomy-sr-ma]] — SR+MA that includes this study

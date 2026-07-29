@@ -5,7 +5,7 @@ year: 2021
 date: 2021-09-30
 doi: 10.11607/jomi.8750
 source: zhou-2021-placement-loading-protocols-single-implants-sr.md
-category: [implants]
+category: [implants/loading-protocol]
 evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/zhou-2021-placement-loading-protocols-single-implants-sr.pdf
 pdf_filename: zhou-2021-placement-loading-protocols-single-implants-sr.pdf

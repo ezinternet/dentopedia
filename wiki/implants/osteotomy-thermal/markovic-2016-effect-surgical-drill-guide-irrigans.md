@@ -5,7 +5,7 @@ year: 2016
 date: 2016-08-01
 doi: 10.2298/VSP141208041M
 source: markovic-2016-effect-surgical-drill-guide-irrigans.md
-category: [implants]
+category: [implants/osteotomy-thermal]
 evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/markovic-2016-effect-surgical-drill-guide-irrigans.pdf
 pdf_filename: markovic-2016-effect-surgical-drill-guide-irrigans.pdf
@@ -60,8 +60,8 @@ In vitro, randomized 2×2 factorial design (drill guide with/without × saline a
 - Drill-guide sleeve heat itself contributes to adjacent bone warming (conduction), reinforcing the case for guide designs that allow better irrigant access to the cortex-penetration zone.
 
 ## Related Papers
-- [[implants/saxena-2024-guided-implant-drilling-bone-temperature]] — 2024 SR synthesizing 11 studies on guided-vs-non-guided osteotomy heat; this paper is one of the underlying in vitro data points supporting its "chilled saline is the most consistent mitigation" conclusion, and adds depth-resolved (entrance/middle/bottom) granularity the SR's pooled summary does not show.
-- [[implants/heuzeroth-2021-thermal-exposure-osteotomy-osseointegration]] — guided drilling minipig model, novel drill design + irrigation reduces peak temperature below 47°C.
-- [[implants/chakraborty-2024-implant-drill-materials-heat-osteotomy]] — drill material effect on osteotomy heat generation.
-- [[implants/bento-2023-steel-versus-zirconia-drills-heat]] — drill material/design thermal comparison.
-- [[implants/sorgato-2025-drill-bit-wear-temperature]] — drill wear as an independent heat-generation factor.
+- [[implants/osteotomy-thermal/saxena-2024-guided-implant-drilling-bone-temperature]] — 2024 SR synthesizing 11 studies on guided-vs-non-guided osteotomy heat; this paper is one of the underlying in vitro data points supporting its "chilled saline is the most consistent mitigation" conclusion, and adds depth-resolved (entrance/middle/bottom) granularity the SR's pooled summary does not show.
+- [[implants/osteotomy-thermal/heuzeroth-2021-thermal-exposure-osteotomy-osseointegration]] — guided drilling minipig model, novel drill design + irrigation reduces peak temperature below 47°C.
+- [[implants/osteotomy-thermal/chakraborty-2024-implant-drill-materials-heat-osteotomy]] — drill material effect on osteotomy heat generation.
+- [[implants/osteotomy-thermal/bento-2023-steel-versus-zirconia-drills-heat]] — drill material/design thermal comparison.
+- [[implants/osteotomy-thermal/sorgato-2025-drill-bit-wear-temperature]] — drill wear as an independent heat-generation factor.

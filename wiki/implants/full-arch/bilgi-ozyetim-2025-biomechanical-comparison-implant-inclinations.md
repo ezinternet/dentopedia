@@ -7,7 +7,7 @@ doi: 10.1186/s12903-025-06610-1
 pmid: "40684102"
 pmcid: "PMC12276677"
 source: bilgi-ozyetim-2025-biomechanical-comparison-implant-inclinations.md
-category: [implants]
+category: [implants/full-arch]
 evidence_level: in-vitro
 source_collection: pubmed-text
 text_path: /Users/oracleneo/llm-wiki/papers/bilgi-ozyetim-2025-biomechanical-comparison-implant-inclinations.txt
@@ -74,6 +74,6 @@ This finite element analysis evaluated stress distribution in peri-implant bone,
 ## Related Papers
 
 - [[overviews/implants-clinical-decision-ladder]] — clinical decision framework
-- [[implants/lin-2018-clinical-performance-tilted-versus-axial]] — SR: no clinical survival difference tilted vs axial
-- [[implants/del-fabbro-2022-full-arch-tilted-axial-implants-sr-ma]] — SR+MA: axial shows lower MBL than tilted long-term
+- [[implants/full-arch/lin-2018-clinical-performance-tilted-versus-axial]] — SR: no clinical survival difference tilted vs axial
+- [[implants/full-arch/del-fabbro-2022-full-arch-tilted-axial-implants-sr-ma]] — SR+MA: axial shows lower MBL than tilted long-term
 - [[implant-occlusion-loading-biomechanics-overview]] — peri-implant loading biomechanics overview

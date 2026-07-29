@@ -5,7 +5,7 @@ year: 2022
 date: 2022-07-04
 doi: 10.1016/j.jds.2022.01.002
 source: chen-2022-reverse-drilling-technique-alveolar-ridge-expansion.md
-category: [implants]
+category: [implants/osteotomy-thermal]
 evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: true
@@ -71,4 +71,4 @@ The reverse-drilling expansion benefit was **real but conditional**: only in nar
 
 ## Related Papers
 
-- [[implants/versah-protocols/rittipakorn-2025-clockwise-osseodensification-primary-stability-cadaveric]] — cadaveric study contrasting **clockwise vs counter-clockwise** osseodensification rotation for primary stability; reinforces this paper by addressing the same reverse-drilling mechanism on the complementary outcome (stability rather than expansion).
+- [[implants/osseodensification/rittipakorn-2025-clockwise-osseodensification-primary-stability-cadaveric]] — cadaveric study contrasting **clockwise vs counter-clockwise** osseodensification rotation for primary stability; reinforces this paper by addressing the same reverse-drilling mechanism on the complementary outcome (stability rather than expansion).

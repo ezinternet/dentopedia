@@ -71,4 +71,4 @@ The classically expected IT increase with undersizing appeared but was not signi
 
 ## Related Papers
 
-- [[implants/versah-protocols/rittipakorn-2025-clockwise-osseodensification-primary-stability-cadaveric]] — cadaveric study positioning undersized drilling among primary-stability-enhancing techniques; this RCT contradicts the premise by showing undersizing raises IT but not RFA stability in immediate maxillary implants.
+- [[implants/osseodensification/rittipakorn-2025-clockwise-osseodensification-primary-stability-cadaveric]] — cadaveric study positioning undersized drilling among primary-stability-enhancing techniques; this RCT contradicts the premise by showing undersizing raises IT but not RFA stability in immediate maxillary implants.

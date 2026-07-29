@@ -102,4 +102,4 @@ For Korean implant practice considering Type 1A in maxillary aesthetic zone:
 - [[immediate-implant/infected-socket/colak-2023-immediate-implant-periapical-pathology-retrospective]] — periapical pathology + immediate.
 - [[immediate-implant/infected-socket/li-2025-immediate-implant-periodontitis-short-term-retrospective]] — periodontitis + immediate.
 - [[overviews/immediate-implant-conditions]] — immediate implant conditions synthesis (cross-cutting).
-- [[implants/galarraga-vinueza-2025-peri-implant-disease-risk-factors]] — peri-implant disease risk factors (informs case selection for any immediate protocol).
+- [[implants/peri-implantitis/galarraga-vinueza-2025-peri-implant-disease-risk-factors]] — peri-implant disease risk factors (informs case selection for any immediate protocol).

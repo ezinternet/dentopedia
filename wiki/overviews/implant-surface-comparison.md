@@ -204,7 +204,7 @@ LLM-Wiki `implants/surface/` 15편 + 횡단 인용 3편 합성 (Canullo 2024 D3/
 
 | Confidence | 출처 | 결론 |
 |---|---|---|
-| **sr** | [[implants/fontes-pereira-2023-osseodensification-osteotomy-alternative-sr]] | OD: IT 일관 상승, ISQ 가변 우위, **D3/D4 골에서 효과 최대** |
+| **sr** | [[implants/osseodensification/fontes-pereira-2023-osseodensification-osteotomy-alternative-sr]] | OD: IT 일관 상승, ISQ 가변 우위, **D3/D4 골에서 효과 최대** |
 | **sr+ma (TSFE)** | [[sinus-lift/transcrestal/starch-jensen-2025-transcrestal-sinus-osseodensification-meta-analysis]] | TSFE에서 OD ISQ 식립시·지대주연결시 유의 우위 |
 
 **구분 주의** [미검증]: OD는 **표면 처리가 아니라 osteotomy 기법**. Densah burs로 시상 절삭 없이 골을 측방 압축. 표면처리와 보완 관계. 상세는 [[overviews/sinus-lift-technique-selection]] 참조.

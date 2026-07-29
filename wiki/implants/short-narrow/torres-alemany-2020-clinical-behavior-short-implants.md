@@ -5,7 +5,7 @@ year: 2020
 date: 2020-10-12
 doi: "10.3390/jcm9103271"
 source: torres-alemany-2020-clinical-behavior-short-implants.md
-category: [implants]
+category: [implants/short-narrow]
 evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/torres-alemany-2020-clinical-behavior-short-implants.pdf
 pdf_filename: torres-alemany-2020-clinical-behavior-short-implants.pdf
@@ -49,5 +49,5 @@ PRISMA SR+MA (PROSPERO CRD42020191093). PubMed, Embase, Cochrane, Scopus, Web of
 - Peri-implant bone loss vs length / diameter / C-I ratio: no significant difference (p = 0.71 / 0.72 / 0.36).
 
 ## Related Papers
-- [[implants/xu-2020-short-standard-single-crown-posterior]] — refines (single-crown long-term survival caveat counterbalances this)
+- [[implants/short-narrow/xu-2020-short-standard-single-crown-posterior]] — refines (single-crown long-term survival caveat counterbalances this)
 - [[overviews/implant-length-selection-why-not-always-short]] — feeds the C/I-ratio nuance

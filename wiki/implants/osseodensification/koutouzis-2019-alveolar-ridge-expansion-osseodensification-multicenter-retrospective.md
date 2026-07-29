@@ -5,7 +5,7 @@ year: 2019
 date: 2019-04-01
 doi: 10.1097/ID.0000000000000898
 source: koutouzis-2019-alveolar-ridge-expansion-osseodensification-multicenter-retrospective.md
-category: [implants]
+category: [implants/osseodensification]
 evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/koutouzis-2019-alveolar-ridge-expansion-osseodensification-multicenter-retrospective.pdf
 pdf_filename: koutouzis-2019-alveolar-ridge-expansion-osseodensification-multicenter-retrospective.pdf
@@ -60,8 +60,8 @@ Retrospective chart review across multiple centers. Inclusion: patients who unde
 - Living-document note: authors' enthusiastic framing of "predictable" expansion should be balanced against this survival rate and the absence of randomization.
 
 ## Related Papers
-- [[implants/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — origin of OD; mechanistic basis cited.
+- [[implants/osseodensification/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — origin of OD; mechanistic basis cited.
 - [[immediate-implant/molar-septum/bleyan-2021-molar-septum-expansion-osseodensification-immediate-implant]] — same expansion mechanism applied to molar septa.
-- [[implants/mello-machado-2021-osseodensification-low-quality-bone-rct]] — RCT extension of OD into low-density bone.
+- [[implants/osseodensification/mello-machado-2021-osseodensification-low-quality-bone-rct]] — RCT extension of OD into low-density bone.
 - [[fontes-pereira-2023-osseodensification-osteotomy-alternative-sr]] — SR that includes this paper among the evidence on OD ridge expansion.
-- [[implants/slete-2018-histomorphometric-comparison-three-osteotomy-techniques]] — bench histomorphometry showing compacted trabecular bone around OD osteotomies.
+- [[implants/osteotomy-thermal/slete-2018-histomorphometric-comparison-three-osteotomy-techniques]] — bench histomorphometry showing compacted trabecular bone around OD osteotomies.

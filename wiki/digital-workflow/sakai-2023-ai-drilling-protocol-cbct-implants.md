@@ -47,4 +47,4 @@ AI model development study (Osaka University) using LeNet-5 deep learning to pre
 ## Related Papers
 - [[digital-workflow/revilla-leon-2021-artificial-intelligence-implant-dentistry-sr]] — SR on AI in implant dentistry
 - [[implants/raghavan-2025-bone-density-implant-dentistry-review]] — bone density classification and drilling modifications
-- [[implants/fontes-pereira-2023-osseodensification-osteotomy-alternative-sr]] — alternative drilling protocol (osseodensification)
+- [[implants/osseodensification/fontes-pereira-2023-osseodensification-osteotomy-alternative-sr]] — alternative drilling protocol (osseodensification)

@@ -5,7 +5,7 @@ year: 2024
 date: 2023-06-19
 doi: 10.1055/s-0043-1768472
 source: chakraborty-2024-implant-drill-materials-heat-osteotomy.md
-category: [implants]
+category: [implants/osteotomy-thermal]
 evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/chakraborty-2024-implant-drill-materials-heat-osteotomy.pdf
 pdf_filename: chakraborty-2024-implant-drill-materials-heat-osteotomy.pdf
@@ -53,9 +53,9 @@ Frames the drill-material-versus-heat question as currently unanswerable from ex
 - 모든 재질에서 마모 시 임계온도(47°C/1 min) 도달 가능 — irrigation·간헐 drilling·sharp drill이 더 영향력 큼.
 
 ## Related Papers
-- [[implants/bernabeu-mira-2020-bone-heating-drilling-implant]] — material (SS vs DLC) and design (straight vs twisted) compared head-to-head
-- [[implants/marenzi-2018-micromorphological-structure-implant-drills]] — surface microstructure of implant drills predicts heat/wear
-- [[implants/sorgato-2025-drill-bit-wear-temperature]] — direct wear–temperature correlation across 150 holes
-- [[implants/aquilanti-2023-heat-generation-initial-osteotomy]] — rotary vs piezo-insert temperature comparison
-- [[implants/heuzeroth-2021-thermal-exposure-osteotomy-osseointegration]] — in vivo link from drill thermal profile to BIC
-- [[implants/saxena-2024-guided-implant-drilling-bone-temperature]] — guided vs non-guided drilling heat SR
+- [[implants/osteotomy-thermal/bernabeu-mira-2020-bone-heating-drilling-implant]] — material (SS vs DLC) and design (straight vs twisted) compared head-to-head
+- [[implants/osteotomy-thermal/marenzi-2018-micromorphological-structure-implant-drills]] — surface microstructure of implant drills predicts heat/wear
+- [[implants/osteotomy-thermal/sorgato-2025-drill-bit-wear-temperature]] — direct wear–temperature correlation across 150 holes
+- [[implants/osteotomy-thermal/aquilanti-2023-heat-generation-initial-osteotomy]] — rotary vs piezo-insert temperature comparison
+- [[implants/osteotomy-thermal/heuzeroth-2021-thermal-exposure-osteotomy-osseointegration]] — in vivo link from drill thermal profile to BIC
+- [[implants/osteotomy-thermal/saxena-2024-guided-implant-drilling-bone-temperature]] — guided vs non-guided drilling heat SR

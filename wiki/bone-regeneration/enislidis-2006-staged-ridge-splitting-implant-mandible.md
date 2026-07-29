@@ -63,4 +63,4 @@ Prospective consecutive case series (technical note). 5 patients, 6 long-span ed
 
 - [[bone-regeneration/ayoub-2018-ridge-splitting-horizontal-augmentation-case]] — extends; single-stage ridge-split case that this staged protocol is designed to de-risk.
 - [[bone-regeneration/simion-1992-jawbone-enlargement-split-crest-gtr]] — reinforces; the classic split-crest origin of the deliberate-greenstick concept.
-- [[implants/versah-protocols/guner-2025-osseodensification-ridge-split-implant-stability]] — refines; modern osseodensification-assisted ridge split addressing the same width problem.
+- [[implants/osseodensification/guner-2025-osseodensification-ridge-split-implant-stability]] — refines; modern osseodensification-assisted ridge split addressing the same width problem.

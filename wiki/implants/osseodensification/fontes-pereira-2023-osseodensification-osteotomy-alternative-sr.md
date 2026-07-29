@@ -5,7 +5,7 @@ year: 2023
 date: 2023-11-11
 doi: 10.3390/jcm12227046
 source: fontes-pereira-2023-osseodensification-osteotomy-alternative-sr.md
-category: [implants]
+category: [implants/osseodensification]
 evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/fontes-pereira-2023-osseodensification-osteotomy-alternative-sr.pdf
 pdf_filename: fontes-pereira-2023-osseodensification-osteotomy-alternative-sr.pdf
@@ -54,8 +54,8 @@ Systematic review evaluating osseodensification (OD) as an alternative to conven
 
 ## Related Papers
 - [[overviews/osseodensification-clinical-applications]] — **본 SR을 spine으로 한 hub-and-spoke overview**
-- [[implants/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — original OD paper (in vitro)
-- [[implants/ortiz-2025-osseodensification-implant-dentistry-critical-review]] — updated critical review 2025
+- [[implants/osseodensification/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — original OD paper (in vitro)
+- [[implants/osseodensification/ortiz-2025-osseodensification-implant-dentistry-critical-review]] — updated critical review 2025
 - [[sinus-lift/transcrestal/starch-jensen-2025-transcrestal-sinus-osseodensification-meta-analysis]] — SR+MA for OD in sinus
 - [[implants/isq/althobaiti-2023-osseodensification-conventional-drilling-isq-sr]] — ISQ outcome SR
 - [[implants/isq/konuklu-2026-five-osteotomy-protocols-isq-rct]] — RCT (5 protocols)

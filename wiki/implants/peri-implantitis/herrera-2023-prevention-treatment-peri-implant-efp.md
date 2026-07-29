@@ -5,7 +5,7 @@ year: 2023
 date: 2023-03-31
 doi: 10.1111/jcpe.13823
 source: herrera-2023-prevention-treatment-peri-implant-efp.md
-category: [implants]
+category: [implants/peri-implantitis]
 evidence_level: consensus
 pdf_path: /Users/oracleneo/llm-wiki/papers/herrera-2023-prevention-treatment-peri-implant-efp.pdf
 pdf_filename: herrera-2023-prevention-treatment-peri-implant-efp.pdf
@@ -51,7 +51,7 @@ The EFP S3 level clinical practice guideline for prevention and treatment of per
 - **Less conclusive**: submucosal cement, absence of keratinized mucosa, occlusal overload
 
 ## Related Papers
-- [[implants/berglundh-2018-peri-implant-diseases-conditions-consensus]] — case definitions used
-- [[implants/derks-2015-peri-implant-health-disease-epidemiology]] — baseline epidemiology referenced
-- [[implants/galarraga-vinueza-2025-peri-implant-disease-risk-factors]] — risk factor SR+MA basis
+- [[implants/peri-implantitis/berglundh-2018-peri-implant-diseases-conditions-consensus]] — case definitions used
+- [[implants/peri-implantitis/derks-2015-peri-implant-health-disease-epidemiology]] — baseline epidemiology referenced
+- [[implants/peri-implantitis/galarraga-vinueza-2025-peri-implant-disease-risk-factors]] — risk factor SR+MA basis
 - [[periodontics/sanz-2020-treatment-stage-i-iii-periodontitis-efp]] — sister EFP guideline

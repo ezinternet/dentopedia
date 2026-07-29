@@ -5,7 +5,7 @@ year: 2021
 date: 2021-01-01
 doi: 10.4317/jced.57346
 source: raj-2021-analysis-factors-determining-thermal-changes.md
-category: [implants]
+category: [implants/osteotomy-thermal]
 evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/raj-2021-analysis-factors-determining-thermal-changes.pdf
 pdf_filename: raj-2021-analysis-factors-determining-thermal-changes.pdf
@@ -53,6 +53,6 @@ In-vitro factorial design on bovine femur (12 cm blocks); 72 osteotomies across 
 | Bone-necrosis threshold exceeded | None of the 12 groups (all < 47°C) |
 
 ## Related Papers
-- [[implants/chauhan-2018-biomechanical-factors-heat-generation-osteotomy]] — this in-vitro factorial study reinforces and quantifies chauhan's multi-factor SR conclusion that speed, pressure, and irrigation interact rather than act independently on osteotomy heat.
-- [[implants/bernabeu-mira-2020-bone-heating-drilling-implant]] — complementary in-vitro drill design/material/wear study (no irrigation); together the two papers cover the full set of factors chauhan's SR catalogued.
-- [[implants/jung-2021-heat-development-medical-drilling-influencing]] — mini-review of drilling heat factors, same publication year, narrower general-medical-drilling scope.
+- [[implants/osteotomy-thermal/chauhan-2018-biomechanical-factors-heat-generation-osteotomy]] — this in-vitro factorial study reinforces and quantifies chauhan's multi-factor SR conclusion that speed, pressure, and irrigation interact rather than act independently on osteotomy heat.
+- [[implants/osteotomy-thermal/bernabeu-mira-2020-bone-heating-drilling-implant]] — complementary in-vitro drill design/material/wear study (no irrigation); together the two papers cover the full set of factors chauhan's SR catalogued.
+- [[implants/osteotomy-thermal/jung-2021-heat-development-medical-drilling-influencing]] — mini-review of drilling heat factors, same publication year, narrower general-medical-drilling scope.

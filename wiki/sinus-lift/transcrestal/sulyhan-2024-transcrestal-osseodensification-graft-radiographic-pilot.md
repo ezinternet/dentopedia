@@ -51,4 +51,4 @@ Prospective pilot; 13 patients (mean age 54.7 y); posterior maxilla, RBH <8 mm, 
 ## Related Papers
 - [[sinus-lift/transcrestal/starch-jensen-2025-transcrestal-sinus-osseodensification-meta-analysis]] — reinforces; pooled transcrestal OD bone-gain evidence.
 - [[sinus-lift/transcrestal/yousry-2025-ozone-gel-osseodensification-transcrestal-sinus-rct]] — contrasts; grafted OD gain here vs graftless/ozone null dimensional change there.
-- [[implants/marzorati-2026-osseodensification-standard-osteotomy-torque-isq-sr-ma]] — related; OD torque/ISQ effects.
+- [[implants/osseodensification/marzorati-2026-osseodensification-standard-osteotomy-torque-isq-sr-ma]] — related; OD torque/ISQ effects.

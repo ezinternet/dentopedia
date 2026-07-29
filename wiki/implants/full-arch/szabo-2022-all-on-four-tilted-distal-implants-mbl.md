@@ -5,7 +5,7 @@ year: 2022
 date: 2022-05-17
 doi: 10.3390/dj10050082
 source: szabo-2022-all-on-four-tilted-distal-implants-mbl.md
-category: [implants]
+category: [implants/full-arch]
 evidence_level: retrospective
 pmcid: PMC9140184
 source_collection: pubmed-text
@@ -72,5 +72,5 @@ The bone loss kinetics followed a saturation pattern — rapid resorption in yea
 ## Related Papers
 
 - [[overviews/tilted-axial-implant-angled-abutment-overview]] — extends: adds long-term clinical MBL data per implant position to the FEA/SR framework
-- [[implants/mehta-2021-tilted-axial-implants-edentulous-maxilla-sr-ma]] — partially contradicts: SR+MA shows no difference; this study's individual-level data shows tilted>axial
-- [[implants/coskunses-2021-narrow-diameter-implants-full-arch-fixed]] — reinforces: similar MBL ranges in full-arch immediate loading, tilted not significantly worse at 2yr (different follow-up length explains discrepancy)
+- [[implants/full-arch/mehta-2021-tilted-axial-implants-edentulous-maxilla-sr-ma]] — partially contradicts: SR+MA shows no difference; this study's individual-level data shows tilted>axial
+- [[implants/short-narrow/coskunses-2021-narrow-diameter-implants-full-arch-fixed]] — reinforces: similar MBL ranges in full-arch immediate loading, tilted not significantly worse at 2yr (different follow-up length explains discrepancy)

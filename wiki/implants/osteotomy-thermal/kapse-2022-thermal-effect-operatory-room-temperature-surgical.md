@@ -5,7 +5,7 @@ year: 2022
 date: 2022-01-01
 doi: 10.4103/jisp.jisp_791_20
 source: kapse-2022-thermal-effect-operatory-room-temperature-surgical.md
-category: [implants]
+category: [implants/osteotomy-thermal]
 evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/kapse-2022-thermal-effect-operatory-room-temperature-surgical.pdf
 pdf_filename: kapse-2022-thermal-effect-operatory-room-temperature-surgical.pdf
@@ -65,7 +65,7 @@ An in vitro thermographic study using 64 goat mandible bone specimens investigat
 - Drill diameter and drilling depth (within the 4.2–5.6 mm / 10–13 mm ranges tested) were not independently significant here, but this is a narrower factor space than the multifactorial reviews and should not be over-generalized (small n=4 per subgroup, ex vivo nonvital bone, no bone-healing endpoint).
 
 ## Related Papers
-- [[implants/chauhan-2018-biomechanical-factors-heat-generation-osteotomy]] — the canonical multifactorial SR framework (irrigation "strong" factor, diameter/depth less consistent); this study directly reinforces the irrigation-dominance finding with controlled paired comparisons.
-- [[implants/aquilanti-2023-heat-generation-initial-osteotomy]] — in vitro study also found irrigant *temperature* (not volume) to be the significant cooling lever; reinforces the temperature-over-other-variables pattern in a different (rotary vs piezo) experimental context.
-- [[implants/jung-2021-heat-development-medical-drilling-influencing]] — narrative mini-review categorizing internal/external heat factors including cooling method; this study empirically tests several of those factors head-to-head.
+- [[implants/osteotomy-thermal/chauhan-2018-biomechanical-factors-heat-generation-osteotomy]] — the canonical multifactorial SR framework (irrigation "strong" factor, diameter/depth less consistent); this study directly reinforces the irrigation-dominance finding with controlled paired comparisons.
+- [[implants/osteotomy-thermal/aquilanti-2023-heat-generation-initial-osteotomy]] — in vitro study also found irrigant *temperature* (not volume) to be the significant cooling lever; reinforces the temperature-over-other-variables pattern in a different (rotary vs piezo) experimental context.
+- [[implants/osteotomy-thermal/jung-2021-heat-development-medical-drilling-influencing]] — narrative mini-review categorizing internal/external heat factors including cooling method; this study empirically tests several of those factors head-to-head.
 - [[overviews/dense-bone-osteotomy-heat-reimplantation-overview]] — cross-paper synthesis of osteotomy heat-generation literature this paper's findings feed into.

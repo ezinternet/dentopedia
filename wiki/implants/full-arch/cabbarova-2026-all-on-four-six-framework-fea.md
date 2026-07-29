@@ -5,7 +5,7 @@ year: 2026
 date: 2026-01-01
 doi: 10.1002/cre2.70277
 source: cabbarova-2026-all-on-four-six-framework-fea.md
-category: [implants]
+category: [implants/full-arch]
 evidence_level: in-vitro
 pmcid: PMC12834504
 source_collection: pubmed-text
@@ -78,5 +78,5 @@ All values in cortical bone were below the critical thresholds for bone resorpti
 
 - [[overviews/tilted-axial-implant-angled-abutment-overview]] — extends: adds framework material variable to tilted implant biomechanics picture
 - [[implants/erdogdu-2024-abutment-angle-bone-quality-fatigue-fea]] — reinforces: FEA biomechanics of full-arch implant configurations; abutment stress patterns
-- [[implants/szabo-2022-all-on-four-tilted-distal-implants-mbl]] — applies-to: FEA explains clinical MBL data; All-on-4 distal stress concentration matches Szabó's finding of tilted MBL premium
-- [[implants/coskunses-2021-narrow-diameter-implants-full-arch-fixed]] — reinforces: 6-implant clinical MBL advantage is now explained by FEA stress distribution
+- [[implants/full-arch/szabo-2022-all-on-four-tilted-distal-implants-mbl]] — applies-to: FEA explains clinical MBL data; All-on-4 distal stress concentration matches Szabó's finding of tilted MBL premium
+- [[implants/short-narrow/coskunses-2021-narrow-diameter-implants-full-arch-fixed]] — reinforces: 6-implant clinical MBL advantage is now explained by FEA stress distribution

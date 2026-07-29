@@ -5,7 +5,7 @@ year: 2024
 date: 2024-09-25
 doi: 10.7759/cureus.70216
 source: saxena-2024-guided-implant-drilling-bone-temperature.md
-category: [implants, digital-workflow]
+category: [implants/osteotomy-thermal, digital-workflow]
 evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/saxena-2024-guided-implant-drilling-bone-temperature.pdf
 pdf_filename: saxena-2024-guided-implant-drilling-bone-temperature.pdf
@@ -56,8 +56,8 @@ First focused systematic review on the guided-drilling heat penalty, separating 
 - D1 dense bone에서 효과 특히 중요 — 마찰열 절대량이 큼.
 
 ## Related Papers
-- [[implants/heuzeroth-2021-thermal-exposure-osteotomy-osseointegration]] — guided drilling in minipig, novel drill + PF reduces peak T below 47°C
-- [[implants/aquilanti-2023-heat-generation-initial-osteotomy]] — irrigation temperature effect on initial osteotomy
-- [[implants/chakraborty-2024-implant-drill-materials-heat-osteotomy]] — drill material vs heat
-- [[implants/bernabeu-mira-2020-bone-heating-drilling-implant]] — drill design/material thermal comparison
-- [[implants/sorgato-2025-drill-bit-wear-temperature]] — drill wear → heat
+- [[implants/osteotomy-thermal/heuzeroth-2021-thermal-exposure-osteotomy-osseointegration]] — guided drilling in minipig, novel drill + PF reduces peak T below 47°C
+- [[implants/osteotomy-thermal/aquilanti-2023-heat-generation-initial-osteotomy]] — irrigation temperature effect on initial osteotomy
+- [[implants/osteotomy-thermal/chakraborty-2024-implant-drill-materials-heat-osteotomy]] — drill material vs heat
+- [[implants/osteotomy-thermal/bernabeu-mira-2020-bone-heating-drilling-implant]] — drill design/material thermal comparison
+- [[implants/osteotomy-thermal/sorgato-2025-drill-bit-wear-temperature]] — drill wear → heat

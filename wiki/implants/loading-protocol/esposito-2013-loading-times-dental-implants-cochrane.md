@@ -5,7 +5,7 @@ year: 2013
 date: 2013-03-28
 doi: 10.1002/14651858.CD003878.pub5
 source: esposito-2013-loading-times-dental-implants-cochrane.md
-category: [implants]
+category: [implants/loading-protocol]
 evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/esposito-2013-loading-times-dental-implants-cochrane.pdf
 pdf_filename: esposito-2013-loading-times-dental-implants-cochrane.pdf
@@ -68,6 +68,6 @@ This 5th update of the Cochrane review on loading times for dental implants synt
 
 ## Related Papers
 
-- [[implants/benic-2014-loading-protocols-single-implant-crowns-sr-ma]] — focused SR+MA on single implant crowns (complementary scope, single-tooth restorations)
-- [[implants/aiquel-2021-timing-placement-loading-multiple-unit-sr-ma]] — more recent SR on loading timing for multiple-unit restorations
-- [[implants/arghami-2021-immediate-early-loading-hydroxyapatite-coated]] — RCT on immediate/early loading of HA-coated implants
+- [[implants/loading-protocol/benic-2014-loading-protocols-single-implant-crowns-sr-ma]] — focused SR+MA on single implant crowns (complementary scope, single-tooth restorations)
+- [[implants/loading-protocol/aiquel-2021-timing-placement-loading-multiple-unit-sr-ma]] — more recent SR on loading timing for multiple-unit restorations
+- [[implants/loading-protocol/arghami-2021-immediate-early-loading-hydroxyapatite-coated]] — RCT on immediate/early loading of HA-coated implants

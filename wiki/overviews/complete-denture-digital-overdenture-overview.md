@@ -32,8 +32,8 @@ source_wiki:
   - wiki/complete-denture/refai-2026-occlusion-disocclusion-implant-overdentures-splinted.md
   - wiki/complete-denture/sharka-2019-ohrqol-dentures-implant-overdentures.md
   - wiki/complete-denture/thu-2024-digital-complete-denture-clinical-laboratory.md
-  - wiki/implants/chappuis-chocano-2023-cadcam-bar-implant-overdenture-sr-ma.md
-  - wiki/implants/koyama-2025-single-vs-two-implant-mandibular-overdenture-sr-ma.md
+  - wiki/implants/full-arch/chappuis-chocano-2023-cadcam-bar-implant-overdenture-sr-ma.md
+  - wiki/implants/full-arch/koyama-2025-single-vs-two-implant-mandibular-overdenture-sr-ma.md
 tags: [complete-denture, overdenture, CAD-CAM, digital-denture, attachment-system, denture-adhesive, overdenture-failure, cad-cam-bar, single-implant-overdenture]
 ---
 
@@ -488,8 +488,8 @@ Patient priority:
 - [[complete-denture/lan-2025-long-term-four-implant-supported]] — long-term maxillary 4-implant IOD vs IFR outcomes
 - [[complete-denture/tayari-2024-implant-supported-overdenture-failures-sr]] — risk factors for IOD failure
 - [[complete-denture/padmanabhan-2020-single-implant-retained-overdenture-treatment]] — single-implant mandibular overdenture survival
-- [[implants/koyama-2025-single-vs-two-implant-mandibular-overdenture-sr-ma]] — 1-IOD vs 2-IOD RCT-only SR+MA: implant survival equivalent but ~2× prosthetic complications for 1-IOD → metal-framework reinforcement; updates earlier higher-survival-for-1-IOD claim
-- [[implants/chappuis-chocano-2023-cadcam-bar-implant-overdenture-sr-ma]] — CAD-CAM milled bar IODs SR+MA: milled titanium best-evidenced (ISR ~100%, complications 7.4%); PEEK/BioHPP polymer bars carry peri-implantitis signal
+- [[implants/full-arch/koyama-2025-single-vs-two-implant-mandibular-overdenture-sr-ma]] — 1-IOD vs 2-IOD RCT-only SR+MA: implant survival equivalent but ~2× prosthetic complications for 1-IOD → metal-framework reinforcement; updates earlier higher-survival-for-1-IOD claim
+- [[implants/full-arch/chappuis-chocano-2023-cadcam-bar-implant-overdenture-sr-ma]] — CAD-CAM milled bar IODs SR+MA: milled titanium best-evidenced (ISR ~100%, complications 7.4%); PEEK/BioHPP polymer bars carry peri-implantitis signal
 - [[complete-denture/prasad-2024-attachment-systems-mandibular-implant]] — attachment systems SR+MA; LOCATOR best, magnet worst
 - [[complete-denture/leao-2018-splinted-unsplinted-overdenture-attachment-systems]] — splinted vs unsplinted equivalence SR+MA
 - [[complete-denture/bi-2022-attachment-type-implant-number-overdenture]] — attachment × implant number Bayesian NMA

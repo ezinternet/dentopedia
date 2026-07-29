@@ -5,7 +5,7 @@ year: 2023
 date: 2023-07-11
 doi: 10.4103/jpbs.jpbs_100_23
 source: kavitha-2023-outcome-implant-diameter-length-distribution.md
-category: [implants/survival]
+category: [implants/short-narrow]
 evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/kavitha-2023-outcome-implant-diameter-length-distribution.pdf
 pdf_filename: kavitha-2023-outcome-implant-diameter-length-distribution.pdf
@@ -69,4 +69,4 @@ This 3D finite element study models a one-piece LEADER/ITALIA-Fix implant design
 
 - [[implants/singh-2024-influence-implant-design-length-stress]] — contradicts on direction: Singh 2024 (2D FEA, D4 bone, tapered/step designs, 6 mm vs 10 mm) found longer fixtures **consistently lowered** interface stress (vertical 188→35.44 MPa for step design); Kavitha 2023 (3D FEA, one-piece immediate-loading design, 10 mm vs 12 mm) found the **opposite direction** — a small stress increase with longer length. Different implant macrogeometry, length range, and bone model likely explain the divergence; together they show the length-stress relationship is design/context-dependent, not a fixed rule.
 - [[implants/leblebicioglu-kurtulus-2022-fea-implant-design-bone-density-stress]] — reinforces the implant-neck/crestal-cortical-layer as the consistent peak-stress location across bone densities and thread designs; this paper adds a one-piece immediate-loading system to that pattern.
-- [[implants/barbosa-2021-narrow-implants-one-two-piece-fea]] — related FEA comparing one-piece vs two-piece implants and diameter effects; useful cross-reference for interpreting this paper's diameter-null finding against a different one-piece/two-piece design contrast.
+- [[implants/short-narrow/barbosa-2021-narrow-implants-one-two-piece-fea]] — related FEA comparing one-piece vs two-piece implants and diameter effects; useful cross-reference for interpreting this paper's diameter-null finding against a different one-piece/two-piece design contrast.

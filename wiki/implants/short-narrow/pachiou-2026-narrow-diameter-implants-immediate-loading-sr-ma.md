@@ -5,7 +5,7 @@ year: 2026
 date: 2026-05-27
 doi: 10.1016/j.jdent.2026.106795
 source: pachiou-2026-narrow-diameter-implants-immediate-loading-sr-ma.md
-category: [implants]
+category: [implants/short-narrow]
 evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/pachiou-2026-narrow-diameter-implants-immediate-loading-sr-ma.pdf
 pdf_filename: pachiou-2026-narrow-diameter-implants-immediate-loading-sr-ma.pdf
@@ -66,10 +66,10 @@ This SR+MA isolates a question the prior NDI literature left tangled: for narrow
 - **Prosthetic complications <5 y**: 3 studies / 817 implants (328 IL / 489 E-DL), 5 events — narrative, comparable; GRADE VERY LOW. (≥5 y: 1 study → narrative.)
 
 ## Related Papers
-- [[implants/pachiou-2025-narrow-diameter-implants-fixed-posterior]] — extends (same group; posterior *region* axis → loading-timing axis for fixed NDIs)
-- [[implants/liu-2021-immediate-delayed-loading-overdenture-mbl-sr-ma]] — reinforces (immediate vs delayed loading, extended from overdentures to fixed NDI restorations)
-- [[implants/cao-2023-titanium-zirconium-narrow-diameter-single-crown]] — applies-to (TiZr NDI single-crown survival now viewed through loading protocol)
+- [[implants/short-narrow/pachiou-2025-narrow-diameter-implants-fixed-posterior]] — extends (same group; posterior *region* axis → loading-timing axis for fixed NDIs)
+- [[implants/full-arch/liu-2021-immediate-delayed-loading-overdenture-mbl-sr-ma]] — reinforces (immediate vs delayed loading, extended from overdentures to fixed NDI restorations)
+- [[implants/short-narrow/cao-2023-titanium-zirconium-narrow-diameter-single-crown]] — applies-to (TiZr NDI single-crown survival now viewed through loading protocol)
 - [[immediate-implant/loading-protocol/gjelvold-2021-immediate-delayed-loading-single-tooth-5year-rct]] — loading-timing evidence for single-tooth implants
-- [[implants/coskunses-2021-narrow-diameter-implants-full-arch-fixed]] — NDI full-arch fixed context
+- [[implants/short-narrow/coskunses-2021-narrow-diameter-implants-full-arch-fixed]] — NDI full-arch fixed context
 - [[overviews/narrow-diameter-implants-clinical-outcomes-overview]] — NDI outcomes synthesis
 - [[overviews/implant-loading-protocol-prosthesis-type-overview]] — loading-protocol × prosthesis-type synthesis

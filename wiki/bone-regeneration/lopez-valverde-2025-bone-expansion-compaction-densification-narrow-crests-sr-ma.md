@@ -75,9 +75,9 @@ This systematic review with meta-analysis (Frontiers in Bioeng. Biotechnol., 202
 
 ## Related Papers
 
-- [[implants/koutouzis-2019-alveolar-ridge-expansion-osseodensification-multicenter-retrospective]] — one of the 10 studies pooled here (ODT coronal expansion mean 5.2 mm); a primary input to this SR+MA's CE analysis.
-- [[implants/chen-2022-reverse-drilling-technique-alveolar-ridge-expansion]] — single-technique reverse-drilling expansion; reinforced by this pooled effect on CE.
-- [[implants/tian-2019-alveolar-ridge-expansion-osseodensification-osteotome]] — OD vs osteotome expansion; this SR+MA extends that head-to-head into a pooled estimate.
-- [[implants/kalra-2025-implant-stability-crestal-bone-osseodensification-sr-ma]] — OD stability/crestal-bone SR+MA; reinforces the ISQ-favors-OD direction (with the same heterogeneity caveat).
+- [[implants/osseodensification/koutouzis-2019-alveolar-ridge-expansion-osseodensification-multicenter-retrospective]] — one of the 10 studies pooled here (ODT coronal expansion mean 5.2 mm); a primary input to this SR+MA's CE analysis.
+- [[implants/osteotomy-thermal/chen-2022-reverse-drilling-technique-alveolar-ridge-expansion]] — single-technique reverse-drilling expansion; reinforced by this pooled effect on CE.
+- [[implants/osseodensification/tian-2019-alveolar-ridge-expansion-osseodensification-osteotome]] — OD vs osteotome expansion; this SR+MA extends that head-to-head into a pooled estimate.
+- [[implants/osseodensification/kalra-2025-implant-stability-crestal-bone-osseodensification-sr-ma]] — OD stability/crestal-bone SR+MA; reinforces the ISQ-favors-OD direction (with the same heterogeneity caveat).
 - [[bone-regeneration/simion-1992-jawbone-enlargement-split-crest-gtr]] — classic split-crest origin; the crestal-split comparator arm benchmarked here.
 - [[bone-regeneration/enislidis-2006-staged-ridge-splitting-implant-mandible]] — staged ridge split; alternative narrow-ridge pathway contrasted with expansion/densification.

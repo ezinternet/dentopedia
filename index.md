@@ -14,11 +14,11 @@ tags: []
 ## 임플란트 — 디자인·생존율·실패위험 (Implants: Design / Survival / Risk)
 - [[implants/surendra-2025-flapless-versus-flapped-crestal-bone]] — Surendra 2025 · rct · 하악 구치부 healed-ridge 단일치 (n=40): flapless가 flapped보다 치조정 골소실 유의하게 적음 (6개월 0.48 vs 0.82 mm, p<0.001), 생존율 100% (DOI 10.4103/jpbs.jpbs_1368_25)
 - [[implants/tarpara-2025-flapless-flapped-clinical-outcomes-cohort]] — Tarpara 2025 · prospective · 단일 구치부 임플란트 비무작위 코호트 (n=20, 12개월): flapless가 술후 통증·6개월 탐침깊이는 낮으나 치조정 골높이는 차이 없음 — Surendra RCT와 상충 (DOI 10.7759/cureus.82547)
-- [[implants/koyama-2025-single-vs-two-implant-mandibular-overdenture-sr-ma]] — Koyama 2025 · sr+ma · 하악 1 vs 2 임플란트 오버덴쳐: 생존율 5년까지 동등, 의치 파절·재제작·하우징 재부착은 1-IOD에서 ~2배 (DOI 10.1186/s40729-025-00647-1)
-- [[implants/chappuis-chocano-2023-cadcam-bar-implant-overdenture-sr-ma]] — Chappuis-Chocano 2023 · sr+ma · CAD-CAM 밀링 bar 오버덴쳐 10편: 임플란트 생존 ~100%, 밀링 티타늄 bar 합병증 최소·OHIP 최상, 폴리머 bar는 임플란트주위염 신호 (DOI 10.1590/1678-7757-2023-0054)
+- [[implants/full-arch/koyama-2025-single-vs-two-implant-mandibular-overdenture-sr-ma]] — Koyama 2025 · sr+ma · 하악 1 vs 2 임플란트 오버덴쳐: 생존율 5년까지 동등, 의치 파절·재제작·하우징 재부착은 1-IOD에서 ~2배 (DOI 10.1186/s40729-025-00647-1)
+- [[implants/full-arch/chappuis-chocano-2023-cadcam-bar-implant-overdenture-sr-ma]] — Chappuis-Chocano 2023 · sr+ma · CAD-CAM 밀링 bar 오버덴쳐 10편: 임플란트 생존 ~100%, 밀링 티타늄 bar 합병증 최소·OHIP 최상, 폴리머 bar는 임플란트주위염 신호 (DOI 10.1590/1678-7757-2023-0054)
 - [[implants/peri-implantitis/sbricoli-2026-peri-implant-disease-prevalence-type2-diabetes]] — Sbricoli 2026 · cross-sectional · 제2형 당뇨 vs 비당뇨 임플란트주위염 유병률 유의차 없음(51% vs 43%, 검정력 부족·치주병력 교란)
 - [[implants/peri-implantitis/smeets-2014-peri-implantitis-definition-etiology-review]] — Smeets 2014, peri-implantitis definition/etiology/prevention/treatment comprehensive review, prevalence up to 56%
-- [[implants/lee-2009-marginal-bone-single-short-implant]] — Lee 2009, short implant (<10mm) marginal bone changes 1-year follow-up, C:I ratio evaluation (n=40)
+- [[implants/short-narrow/lee-2009-marginal-bone-single-short-implant]] — Lee 2009, short implant (<10mm) marginal bone changes 1-year follow-up, C:I ratio evaluation (n=40)
 - [[implants/esimekara-2022-dental-implants-autoimmune-diseases-sr]] — Esimekara 2022 · sr · **자가면역질환 임플란트** SR(55편/9질환): 생존율 일반인과 동등, 단 2차 Sjögren·미란성 OLP서 peri-mucositis·골소실↑ (DOI 10.1016/j.jormas.2022.01.005)
 - [[implants/aghaloo-2019-systemic-diseases-medications-implant-osseointegration-sr]] — Aghaloo 2019 · sr · ITI 합의 SR: 조절된 전신질환(당뇨·골다공증·RA·HIV)은 골유착 저하 근거 없음; SSRI/PPI 예비적 부정적; 항흡수제 ONJ 주의 (DOI 10.11607/jomi.19suppl.g3)
 - [[implants/almeida-2017-dental-implants-sjogren-syndrome-sr]] — Almeida 2017 · sr · Sjögren 증후군 임플란트 SR(6편): 생존 ~94%(평균 4년)·낮은 MBL·QoL 개선 (DOI 10.1371/journal.pone.0189507)
@@ -32,20 +32,20 @@ tags: []
 - [[implants/mourao-2025-tapered-vs-cylindrical-implants-early-healing-rct]] — Mourão 2025 · rct · EBD critical summary: tapered vs cylindrical 임플란트 초기치유 RCT 평가 — tapered가 삽입토크 높고 cylindrical이 6주 ISQ/IST 높음, 술식 > 매크로지오메트리 (DOI 10.1038/s41432-025-01202-y)
 - [[implants/seong-2016-external-internal-implant-connection-system]] — Narrative review (KDA 2016): external hexagon vs internal(Morse taper) 연결부 biomechanics, microgap, platform switching, 보철 선택 가이드
 - [[implants/kim-2022-abutment-connection-mbl-survival]] — Kim 2022 · retrospective · 5년 코호트(374개, 강릉원주대): 외부 vs 내부연결 생존율 동등(93.3% vs 90.7%); 1년 MBL 외부>내부(1.23 vs 0.72mm); SCRP 사용이 MBL 감소와 유의하게 연관(p=0.027, JPIS)
-- [[implants/vetromilla-2021-short-standard-implants-sinus-umbrella]] — Vetromilla 2021 (umbrella, 7 SR/66편): short vs standard+SFE; 생존 동등(RR 1.08), short가 MBL·biologic 우위, 단 AMSTAR-2 품질 critically-low (2021)
-- [[implants/xu-2020-short-standard-single-crown-posterior]] — Xu 2020 (SR+MA, 5 RCT): 구치부 단일크라운 short(≤6mm); 단기 생존 동등·장기 열위(RR 0.94, p=.01), MBL 무차 (2020)
-- [[implants/alenezi-2025-short-long-implants-sinus-floor-elevation]] — Alenezi 2025 (SR+MA, 7 RCT/393pt): short(<8mm) vs long+SFE 위축 상악; MBL −0.26mm·biologic OR 0.39 short 우위, 생존 동등 (2025)
-- [[implants/torres-alemany-2020-clinical-behavior-short-implants]] — Torres-Alemany 2020 (SR+MA, 14편): short(≤8mm) length·diameter·C/I ratio 모두 생존·MBL에 무영향 (2020)
-- [[implants/zhang-2024-narrow-regular-diameter-anterior-maxilla]] — Zhang 2024 (SR+MA, 5편/282 NDI): 전치부 상악 NDI vs RDI+골증대; 36mo ISR 동등(RR 0.989), soft-tissue dehiscence는 RDI에 더 흔함 (2024)
-- [[implants/pachiou-2025-narrow-diameter-implants-fixed-posterior]] — Pachiou 2025 (SR+MA, 36편/2741 NDI): 구치부 고정성 보철 NDI 생존 상악 97.0%/하악 96.5%, 합병증은 technical 중심 (2025)
-- [[implants/survival/schiegnitz-2018-narrow-diameter-implants-systematic-review]] — Schiegnitz 2018 (SR+MA, 76편/12,186 NDI): 범주별 NDI 생존율 — 범주1 미니(<3mm) SDI 대비 유의 열세(OR 4.54), 범주2·3(3–3.5mm)는 SDI와 동등(OR 1.06·1.19); 골증대 회피 근거
-- [[implants/survival/walter-2023-narrow-diameter-29mm-bone-level-implant]] — Walter 2023 (전향적, n=41, 5개 센터): 스트라우만 2.9mm BLT Roxolid 전치부 단일치아 — 1년 생존율 92.7%(CI 79.0–97.6%), 성공률 89.7%, MBL −0.3mm, PES 11.6/14, 파절 0
-- [[implants/park-2023-narrow-regular-diameter-mandibular-overdentures]] — Park 2023 (SR+MA, 8편): 하악 피개의치 NDI vs RDI; 생존·MBL 동등, 만족도·OHRQoL은 NDI 우위 (2023)
-- [[implants/cao-2023-titanium-zirconium-narrow-diameter-single-crown]] — Cao 2023 (SR+MA, 7편/256 TiZr NDI): 단일크라운 Ti-Zr NDI 생존 97.5%·성공 97.2%, cpTi와 무차, 1y MBL 0.44mm (2023)
+- [[implants/short-narrow/vetromilla-2021-short-standard-implants-sinus-umbrella]] — Vetromilla 2021 (umbrella, 7 SR/66편): short vs standard+SFE; 생존 동등(RR 1.08), short가 MBL·biologic 우위, 단 AMSTAR-2 품질 critically-low (2021)
+- [[implants/short-narrow/xu-2020-short-standard-single-crown-posterior]] — Xu 2020 (SR+MA, 5 RCT): 구치부 단일크라운 short(≤6mm); 단기 생존 동등·장기 열위(RR 0.94, p=.01), MBL 무차 (2020)
+- [[implants/short-narrow/alenezi-2025-short-long-implants-sinus-floor-elevation]] — Alenezi 2025 (SR+MA, 7 RCT/393pt): short(<8mm) vs long+SFE 위축 상악; MBL −0.26mm·biologic OR 0.39 short 우위, 생존 동등 (2025)
+- [[implants/short-narrow/torres-alemany-2020-clinical-behavior-short-implants]] — Torres-Alemany 2020 (SR+MA, 14편): short(≤8mm) length·diameter·C/I ratio 모두 생존·MBL에 무영향 (2020)
+- [[implants/short-narrow/zhang-2024-narrow-regular-diameter-anterior-maxilla]] — Zhang 2024 (SR+MA, 5편/282 NDI): 전치부 상악 NDI vs RDI+골증대; 36mo ISR 동등(RR 0.989), soft-tissue dehiscence는 RDI에 더 흔함 (2024)
+- [[implants/short-narrow/pachiou-2025-narrow-diameter-implants-fixed-posterior]] — Pachiou 2025 (SR+MA, 36편/2741 NDI): 구치부 고정성 보철 NDI 생존 상악 97.0%/하악 96.5%, 합병증은 technical 중심 (2025)
+- [[implants/short-narrow/schiegnitz-2018-narrow-diameter-implants-systematic-review]] — Schiegnitz 2018 (SR+MA, 76편/12,186 NDI): 범주별 NDI 생존율 — 범주1 미니(<3mm) SDI 대비 유의 열세(OR 4.54), 범주2·3(3–3.5mm)는 SDI와 동등(OR 1.06·1.19); 골증대 회피 근거
+- [[implants/short-narrow/walter-2023-narrow-diameter-29mm-bone-level-implant]] — Walter 2023 (전향적, n=41, 5개 센터): 스트라우만 2.9mm BLT Roxolid 전치부 단일치아 — 1년 생존율 92.7%(CI 79.0–97.6%), 성공률 89.7%, MBL −0.3mm, PES 11.6/14, 파절 0
+- [[implants/short-narrow/park-2023-narrow-regular-diameter-mandibular-overdentures]] — Park 2023 (SR+MA, 8편): 하악 피개의치 NDI vs RDI; 생존·MBL 동등, 만족도·OHRQoL은 NDI 우위 (2023)
+- [[implants/short-narrow/cao-2023-titanium-zirconium-narrow-diameter-single-crown]] — Cao 2023 (SR+MA, 7편/256 TiZr NDI): 단일크라운 Ti-Zr NDI 생존 97.5%·성공 97.2%, cpTi와 무차, 1y MBL 0.44mm (2023)
 - [[implants/kim-2026-dental-implant-osteoporosis-osteosclerosis]] — Kim 2026 (narrative review, 30편): 골다공증·골경화성 5병변 임플란트; 골다공증 단기 97.9–100%→5–10년 82.6–94.1%, 범발형 COD 66.7% vs 국소형 100% (2026)
 - [[implants/kim-2026-implant-angulation-peri-implant-bone]] — Kim 2026 (retrospective, 506 implants, 5.1y): CAD 3D 각도 측정; 비축방향 MBL 0.22 vs 축방향 0.10 mm (P<.05), 상악>하악, 비축×implant-FDP 대합 상호작용 Δ0.373 mm (2026)
 - [[implants/erdogdu-2024-abutment-angle-bone-quality-fatigue-fea]] — Erdoğdu 2024 · in-vitro FEA (3-unit bridge, 6 abutment configs × 2 bone types): 지대주 각도↑ → 응력↑·피로 강도↓; 멀티유닛 지대주 > 시멘트형; 흡수 골에서 더 심화 (DOI 10.3390/jpm14101040)
-- [[implants/murat-2025-all-on-4-implant-angulation-load-direction-fea]] — Murat 2025 · in-vitro FEA+RSM (All-on-4, 15 configs): 전두면 BL 하중각이 피질골 응력 1위(29.8%); 임플란트 각도 2위(27.0%); 15° 경사+45° 사선 = 최소 응력; 하중 방향 최적화가 각도 못지않게 중요 (DOI 10.3389/fbioe.2025.1644776)
+- [[implants/full-arch/murat-2025-all-on-4-implant-angulation-load-direction-fea]] — Murat 2025 · in-vitro FEA+RSM (All-on-4, 15 configs): 전두면 BL 하중각이 피질골 응력 1위(29.8%); 임플란트 각도 2위(27.0%); 15° 경사+45° 사선 = 최소 응력; 하중 방향 최적화가 각도 못지않게 중요 (DOI 10.3389/fbioe.2025.1644776)
 - [[implants/chi-2024-customized-angled-abutment-tooth-inclination-fea]] — Chi 2024 · in-vitro FEA+strain gauge (전치부 즉시임플란트): CBCT 절치 경사도 기반 맞춤형 20–33° 지대주 vs 표준 15°; 맞춤형→축방향 응력↑·사선 응력↓; 교합 설계가 최적 지대주 결정 (DOI 10.11607/jomi.10877)
 - [[implants/sahoo-2024-finite-element-analysis-influence-implant]] — 즉시부하 임플란트 in vitro+FEA: 사선하중 시 경사(30°) 임플란트가 축방향보다 미세운동 19% 낮음(56 vs 75µm), 지대주 변위는 경사 임플란트가 항상 더 큼
 - [[implants/kavitha-2023-outcome-implant-diameter-length-distribution]] — 3D FEA(일체형 즉시하중 임플란트): 길이 10→12mm는 응력 소폭 증가(1.32→1.76 MPa), 직경 3.75→4.25mm는 응력 무영향(1.77→1.79 MPa), 넥부가 항상 최고응력부
@@ -61,9 +61,9 @@ tags: []
 - [[implants/peri-implantitis/jervoe-storm-2024-photodynamic-therapy-periodontal-periimplant-diseases]] — Jervøe-Storm 2024 (Cochrane SR): 보조 광역학치료(aPDT) 치주·주위염 — 결과수치 본문 보강 필요 [미검증]
 - [[implants/peri-implantitis/pujarern-2024-biofilm-removal-implant-airflow-erythritol]] — in-vitro(33 implants): 탄산수소나트륨(40µm) vs 에리스리톨(14µm) 에어폴리싱 — 둘 다 바이오필름 동등 제거(OD 0.130/0.129 vs 대조 0.728), 표면손상 적은 에리스리톨 선호
 - [[implants/rosa-2024-do-dental-implants-bone-types]] — Meta-analysis (49 studies, 29,905 implants): type IV bone fails 1.5–1.9× more than types I–III; types I and II equivalent; posterior maxilla highest risk
-- [[implants/saenz-ravello-2023-short-implants-compared-to-regular]] — Umbrella review: short implants (<10 mm) reduce failure, MBL, and biological complications vs. regular implants + bone augmentation in atrophic posterior mandible; evidence certainty low
+- [[implants/short-narrow/saenz-ravello-2023-short-implants-compared-to-regular]] — Umbrella review: short implants (<10 mm) reduce failure, MBL, and biological complications vs. regular implants + bone augmentation in atrophic posterior mandible; evidence certainty low
 - [[implants/di-stefano-2021-stability-dental-implants-cortical-bone]] — Systematic review (13 studies): cortical bone thickness positively correlates with primary stability (ISQ, IT); bicortical anchorage = highest stability; MBL correlation inconclusive
-- [[implants/yu-2021-extra-short-vs-longer-implants-ma]] — Meta-analysis (21 RCTs, 2576 implants): extra-short implants (≤6mm) equivalent survival at 1–3yr; 5yr gap disappears with bone augmentation; 68% fewer biological complications
+- [[implants/short-narrow/yu-2021-extra-short-vs-longer-implants-ma]] — Meta-analysis (21 RCTs, 2576 implants): extra-short implants (≤6mm) equivalent survival at 1–3yr; 5yr gap disappears with bone augmentation; 68% fewer biological complications
 - [[implants/mortazavi-2021-bone-loss-tissue-bone-level-implants]] — Systematic review (38 studies): BL vs TL implant MBL 비교; platform-switching·Morse taper·SLActive가 MBL 감소 핵심; 1년 내 MBL이 전체의 대부분 차지
 - [[implants/moy-2005-dental-implant-failure-rates-risk]] — 코호트(4,680개, 21년): 당뇨 RR 2.75·두경부방사선 RR 2.73·흡연 RR 1.56 유의; 고혈압·심질환·스테로이드 무관; 하악 전치부 최저 실패율(2.89%)
 - [[implants/soft-tissue/thoma-2018-soft-tissue-augmentation-periimplant-health]] — SR+MA: FGG/CTG increases keratinized tissue 3-4mm; KT <2mm → higher plaque, bleeding, MBL; ≥2mm threshold for peri-implant health
@@ -85,17 +85,17 @@ tags: []
 - [[implants/peri-implantitis/cafferata-2025-impaired-treg-mediated-immune-regulation]] — Cafferata 2025 · retrospective (J Clin Periodontol, 육아조직 수술군 23·발거군 23·건강 20): 임플란트주위염 육아조직의 조절T세포(Treg) 기능부전 — FOXP3↑·IL-35↑이나 NRP-1↓·TGF-β1↓, PD·VDD와 상관 → 비해소성 염증의 host-side 근거 (DOI 10.1111/jcpe.70026)
 - [[implants/peri-implantitis/galarraga-vinueza-2020-macrophage-polarization-peri-implantitis-lesions]] — Galarraga-Vinueza 2020 · cross-sectional (Clin Oral Investig, 20병소 육아조직 생검): 대식세포 M1/M2 극성화 — 대식세포 ICT의 14.4%, 진행 병소 M1>M2 유의(M1/M2 1.56), CD68·M1이 PD와 상관 → M1 우세 파괴적 염증 (DOI 10.1007/s00784-020-03556-2)
 - [[implants/ayoub-2024-abutment-bending-guide-one-piece-implant]] — 증례보고(2024): 원피스 임플란트 ABVG 신기술 — RealGuide.5·NeoBiotech 가이드로 지대주 굴곡 정확도 향상
-- [[implants/derks-2015-peri-implant-health-disease-epidemiology]] — SR+MA(11개 연구): 임플란트 주위 점막염 43%·임플란트 주위염 22%; 기능 기간·케이스 정의가 유병률 결정
-- [[implants/berglundh-2018-peri-implant-diseases-conditions-consensus]] — 2017 세계 워크숍 컨센서스: 임플란트 주위 건강·점막염·임플란트 주위염 표준 케이스 정의 확립(AAP/EFP)
-- [[implants/herrera-2023-prevention-treatment-peri-implant-efp]] — EFP S3 임플란트 주위 질환 예방·치료 지침(13개 SR): 계획→식립→유지의 전주기 표준 프로토콜
+- [[implants/peri-implantitis/derks-2015-peri-implant-health-disease-epidemiology]] — SR+MA(11개 연구): 임플란트 주위 점막염 43%·임플란트 주위염 22%; 기능 기간·케이스 정의가 유병률 결정
+- [[implants/peri-implantitis/berglundh-2018-peri-implant-diseases-conditions-consensus]] — 2017 세계 워크숍 컨센서스: 임플란트 주위 건강·점막염·임플란트 주위염 표준 케이스 정의 확립(AAP/EFP)
+- [[implants/peri-implantitis/herrera-2023-prevention-treatment-peri-implant-efp]] — EFP S3 임플란트 주위 질환 예방·치료 지침(13개 SR): 계획→식립→유지의 전주기 표준 프로토콜
 - [[implants/soft-tissue/kim-2009-blood-vessels-peri-implant-mucosa]] — 동물실험(성견 6마리, 대구외지 2009): 무피판 (Flapless) 임플란트 주위 점막 혈관 수 51.4 vs 피판 38.2개(p<0.05); 무피판이 연조직 혈관분포 유의하게 우수
 - [[implants/lee-2018-unilateral-mastication-bone-density-alveolus]] — 단면연구(CBCT, n=25, Chonnam 2018): 편측 저작측 치조골 골밀도가 반대측보다 견치·소구치·대구치 유의하게 높음(p<0.05); 하악 대구치 차이 최대(103 HU)
-- [[implants/galarraga-vinueza-2025-peri-implant-disease-risk-factors]] — SR+MA(102편, 13,030명): 점막염 46%·임플란트 주위염 21%; 치주염·흡연·당뇨·비만이 주요 위험지표
+- [[implants/peri-implantitis/galarraga-vinueza-2025-peri-implant-disease-risk-factors]] — SR+MA(102편, 13,030명): 점막염 46%·임플란트 주위염 21%; 치주염·흡연·당뇨·비만이 주요 위험지표
 - [[implants/premnath-2012-stress-distribution-bone-density-fea]] — 3D FEA(8모델): 원통형 > 나사형 응력분산; 최대 응력은 D1–D4 모두 치조정부; 저밀도 골에 원통형 설계 유리
 - [[implants/munjal-2015-implants-low-density-bone-d3d4]] — 전향적(n=14, D3/D4, 12개월): MaestroTM 생존율 92.3%; 골소실 통계적 유의차 없음; 저밀도 골 금기 아님
 - [[implants/raghavan-2025-bone-density-implant-dentistry-review]] — 서술적 고찰: Misch D1–D4·HU 기준값·저밀도 골 임플란트 술식 조정(OD·지연부하) 임상 지침
-- [[implants/fontes-pereira-2023-osseodensification-osteotomy-alternative-sr]] — SR(JCM 2023): OD vs 전통 드릴링 — 삽입토크 일관되게 향상; ISQ 가변적; D3/D4 최대 이득; 근거 수준 낮음–중등
-- [[implants/ortiz-2025-osseodensification-implant-dentistry-critical-review]] — 비판적 고찰(2025): OD 1차안정성 일관 향상; ISQ 가변; D3/D4·경치조골 거상 효과 최대; 장기 RCT 부족
+- [[implants/osseodensification/fontes-pereira-2023-osseodensification-osteotomy-alternative-sr]] — SR(JCM 2023): OD vs 전통 드릴링 — 삽입토크 일관되게 향상; ISQ 가변적; D3/D4 최대 이득; 근거 수준 낮음–중등
+- [[implants/osseodensification/ortiz-2025-osseodensification-implant-dentistry-critical-review]] — 비판적 고찰(2025): OD 1차안정성 일관 향상; ISQ 가변; D3/D4·경치조골 거상 효과 최대; 장기 RCT 부족
 - [[implants/stilwell-2024-occlusal-considerations-implant-maintenance]] — 서술적 고찰(BDJ 2024): 임플란트 유지관리 교합 점검 총론 — 임플란트 파절 0.5%; PDL 없어 과부하 위험; 4단계 연간 교합 평가 프로토콜; 이갈이 보호장치 필수
 - [[implants/kim-2026-proximal-contact-loss-implants-10years]] — cross-sectional(JPIS 2026;56:31, n=142, >10년): 인접면 접촉 소실률 53.7%; 근심 65.6%>>원심 28.3%; 구치부 위치·인접치 치주상태 불량이 유의한 위험인자
 - [[implants/james-2025-future-dental-implants-trends-technologies]] — 서술적 고찰(Cureus 2025, 2015-2025): 임플란트 미래 — 지르코니아·Ti-Zr 합금, AI·로보틱스·3D프린팅, 바이오액티브 표면, 스마트 임플란트; 비용·장기데이터 부족이 현실 장벽
@@ -103,10 +103,10 @@ tags: []
 - [[implants/peri-implantitis/vrazic-2026-peri-implantitis-treatment-magnesium-membrane]] — 서술적 고찰+증례보고(MDPI Dentistry 2026, Zagreb/Osijek): 임플란트 주위염 치료 총론 + 마그네슘막 GBR 증례 3건; 생분해성 Mg막 신개념; 예비 임상 단계
 - [[implants/gehrke-2024-implant-dentistry-review-2024]] — 현대 임플란트 치의학 서술적 고찰 — 표면 처리(SLA·SLActive·UV), 지르코니아 임플란트, 디지털 가이드 수술.
 - [[implants/padhye-2020-quantitative-edentulous-posterior-maxilla]] — CBCT 후향 분석 (349개 무치악 부위, 250명): 상악 구치부 절반 이상이 폭 < 6 mm·높이 < 8 mm이며 54.14%가 경사진 상악동 저부 → 표준 임플란트 식립 전 증대술이 빈번 필요
-- [[implants/zhang-2024-short-vs-long-implants-sinus]] — Network meta-analysis (17 studies, 1,076 patients, 1,751 implants): SFE에서 short implant(4–8 mm) vs long(≥8 mm) 생존율 동등·MBL 단축형이 유의하게 적음.
+- [[implants/short-narrow/zhang-2024-short-vs-long-implants-sinus]] — Network meta-analysis (17 studies, 1,076 patients, 1,751 implants): SFE에서 short implant(4–8 mm) vs long(≥8 mm) 생존율 동등·MBL 단축형이 유의하게 적음.
 - [[implants/bonsmann-2025-risk-factors-early-implant-failure-sinus-nested]] — JCP 2025 다기관 nested case-control (8 독일 센터, 2016-2021, n=129 case + 273 control): sinus augmentation 후 조기 임플란트 실패 (≤12 month) — multivariable logistic regression으로 위험인자 OR 산출.
 - [[implants/caggiano-2022-smoking-cessation-periodontal-peri-implant-sr]] — SR (Salerno, Dent J 2022): 흡연 중단의 치주·peri-implant 건강 효과 — cessation은 치주 임상 지표·임플란트 결과 모두 개선; 회복 정도와 시간경과 의존.
-- [[implants/carra-2023-primordial-primary-prevention-peri-implant-sr-ma]] — JCP 2023 EFP/AAP Workshop SR+MA (Univ Paris, Carra): peri-implant 질환 — primordial (식립 전 위험인자 통제) + primary (식립 후 health 유지) 예방 효과; 흡연 중단·치주염 사전 관리·구강위생 강화가 peri-implant mucositis·peri-implantitis 예방 효과 입증.
+- [[implants/peri-implantitis/carra-2023-primordial-primary-prevention-peri-implant-sr-ma]] — JCP 2023 EFP/AAP Workshop SR+MA (Univ Paris, Carra): peri-implant 질환 — primordial (식립 전 위험인자 통제) + primary (식립 후 health 유지) 예방 효과; 흡연 중단·치주염 사전 관리·구강위생 강화가 peri-implant mucositis·peri-implantitis 예방 효과 입증.
 - [[implants/fan-2024-smoking-early-implant-failure-sr-ma]] — SR+MA (J Dent 2024, Fan, 32 observational studies, n=59,246 implants / 14,115 patients, 1994-2024): 흡연 → 조기 임플란트 실패 implant 단위 OR 2.59 (95% CI 2.08-3.23) — 흡연-임플란트 조기 실패 정량 anchor.
 - [[implants/mustapha-2022-smoking-dental-implants-sr-ma]] — SR+MA (Malmö Univ, Medicina 2022): 흡연 + 임플란트 — 실패율과 MBL 모두 흡연자에서 유의하게 높음; 흡연이 implant 결과에 부정적 영향 확정.
 - [[implants/naseri-2020-smoking-levels-implant-failure-sr-ma]] — JCP 2020 SR+MA (Naseri, 23편): 흡연 dose (cigarettes/day) 증가 → 임플란트 실패 위험 dose-dependent 증가; heavy smoker가 non-smoker 대비 유의하게 높은 위험 — 흡연 양 자체가 risk modifier.
@@ -117,12 +117,12 @@ tags: []
 - [[implants/lee-2024-characteristics-impacts-implant-displacement-maxillary-sinus]] — 후향 코호트 (J Dent Sci 2024, 서울대, 13명/14건): 상악동 변위 임플란트의 영향 정량 — 기능부하 후 변위가 수술 중보다 opacification(3.6 vs 1.7, p=0.019)·osteitis(벽≥3mm 40%) 악화, 변위 시점만 독립 예측인자(p=0.013), 14건 모두 잔존골<5mm인데 site prep 전무; 제거 6개월 후 opacification 0.4로 소실.
 - [[implants/mahmood-hashemi-2024-causes-implant-migration-maxillary-sinus-case-series]] — 후향 케이스 시리즈 (J Dent Shiraz 2024, 테헤란 의대, 25년 39명): 상악동 변위 원인의 단계별 분포(식립 중 22/39 — 잔존골부족·과드릴링 각11, 폐쇄형 sinus lift 6, 즉시식립 3; 술후 힐링어버트먼트 5·보철 3) + 전부 Caldwell-Luc로 제거, 2–10년 무합병증; 잔존골<5mm→sinus lift 예방, 변위 후 31/39 재치료 거부.
 - [[overviews/failed-implant-removal-sinus-retrieval-overview]] — **NEW Overview** (5편, 2026-07-06): 실패/변위 임플란트 제거 종합 — 일반 explantation은 CTRT(4mm/>200Ncm 임계값) 1차 선택, 지르코니아는 예외(파괴인성 4–18 vs Ti 77 MPa·m^0.5), peri-implantitis가 제거원인 ~82%, 재식립 71–100%; 상악동 변위는 시점(post-loading↑opacification·osteitis)이 예후 결정, Caldwell-Luc/FESS/확장 골창 즉시제거 + 잔존골<5mm sinus lift 예방.
-- [[implants/arghami-2021-immediate-early-loading-hydroxyapatite-coated]] — 전향적 RCT 7년 (n=50, LSU): HA 코팅 임플란트 (Zimmer Tapered Screw-Vent) 즉시부하 vs 조기(3주) 부하 — 누적 생존율 98.0% (즉시 100%/조기 95.5%); 2yr↔7yr MBL 차이 없음.
+- [[implants/loading-protocol/arghami-2021-immediate-early-loading-hydroxyapatite-coated]] — 전향적 RCT 7년 (n=50, LSU): HA 코팅 임플란트 (Zimmer Tapered Screw-Vent) 즉시부하 vs 조기(3주) 부하 — 누적 생존율 98.0% (즉시 100%/조기 95.5%); 2yr↔7yr MBL 차이 없음.
 - [[implants/soft-tissue/tavelli-2025-soft-tissue-dehiscences-implant-sites-ao-aap]] — AO/AAP SR+meta-regression (221 연구, JPER 2025;96:562): peri-implant soft tissue dehiscence (PSTD) prevalence 46.2%, MREC 23.1%; 위험인자 (thin biotype·KT 부족·협측 위치·즉시식립·흡연) vs 보호인자 (≥2 mm KT·CTG·emergence profile).
 - [[implants/soft-tissue/dadlani-2024-efficacy-xenogeneic-collagen-matrices-augmenting]] — Dadlani 2024 (SR+MA, 9편/MA 6편, Clin Exp Dent Res): bone graft 없는 임플란트 연조직 증대 XCM vs 자가이식; KMW·STT 자가이식 우위 (KMW 통합 MD −0.96mm), 심미 동등·XCM 술시간/통증 우위 (2024)
 - [[implants/soft-tissue/rios-osorio-2025-xcm-vs-ctg-fgg-implant-soft-tissue-sr-ma]] — 17편 RCT SR+MA: 임플란트 부위 연조직 증대 시 비가교 XCM < CTG(MT), 가교형 VCMX = CTG(MT), FGG > XCM*(KMW 1.47mm 우위)
-- [[implants/zhou-2021-placement-loading-protocols-single-implants-sr]] — SR (45 publications: 13 RCT+21 prospective+11 retrospective, IJOMI 2021, jomi.8750, ITI Group 2): site-specific (anterior/posterior × maxilla/mandible) placement × loading protocol — 전치 상악 가중 생존율 97.5–99.6%; site별 protocol validation matrix 제시.
-- [[implants/gallucci-2018-implant-placement-loading-protocols-partially]] — SR(69편, 5,248제목→449전문): 부분무치악 9종 배치×부하 프로토콜 가중생존율 96.0–100%, SCV/CD/CID 3단계 검증틀 도입 — ITI Type 1-4/A-B-C 명명 확립. 생존·검증등급 수치는 [[implants/gallucci-2026-current-state-of-evidence-for]]에 부분 superseded(명명법 자체는 유지).
+- [[implants/loading-protocol/zhou-2021-placement-loading-protocols-single-implants-sr]] — SR (45 publications: 13 RCT+21 prospective+11 retrospective, IJOMI 2021, jomi.8750, ITI Group 2): site-specific (anterior/posterior × maxilla/mandible) placement × loading protocol — 전치 상악 가중 생존율 97.5–99.6%; site별 protocol validation matrix 제시.
+- [[implants/loading-protocol/gallucci-2018-implant-placement-loading-protocols-partially]] — SR(69편, 5,248제목→449전문): 부분무치악 9종 배치×부하 프로토콜 가중생존율 96.0–100%, SCV/CD/CID 3단계 검증틀 도입 — ITI Type 1-4/A-B-C 명명 확립. 생존·검증등급 수치는 [[implants/gallucci-2026-current-state-of-evidence-for]]에 부분 superseded(명명법 자체는 유지).
 - [[implants/song-2021-implant-complications-bruxism-patients]] — JKAOMS Editor's Opinion (2 pages, 2021): 이갈이는 implant late failure(픽스처/스크류/보철 파절, 심한 MBL, decementation) 위험요인 — 식립 전 EMG·PSG 진단 + occlusal splint·botulinum toxin으로 사전 관리 권고; BTX와 implant 영역 교차의 짧지만 명확한 임상 권고
 - [[implants/pirc-2026-one-piece-two-piece-implants-15year-rct]] — Pirc 2026, rct, 15–17y RCT follow-up (n=60, 151 implants): one-piece Straumann SLA vs two-piece Brånemark — survival 95%, MBL 0.08 mm vs 1.53 mm favoring one-piece, but technical complications 35.4% vs 5.8% favoring two-piece
 - [[implants/chrcanovic-2025-neck-design-peri-implant-tissues-12mo-rct]] — 12-month RCT (Clin Oral Implants Res 2025): triangular vs round implant neck design × MBL, soft tissues in immediately placed implants; no significant MBL difference at 12 months
@@ -132,13 +132,13 @@ tags: []
 - [[implants/peri-implantitis/kotsakis-2025-microbial-dysbiosis-titanium-release-peri-implantitis]] — Kotsakis 2025 · narrative-review (JDR Critical Review): 티타늄 입자(implant-derived Ti particles, i-TiPs)를 임플란트주위염의 abiotic exposome으로 규정, host–microbiome–biomaterial 삼각 dysbiosis 기전 종설 (DOI 10.1177/00220345241307939)
 - [[implants/peri-implantitis/monje-2025-surgical-implant-factors-peri-implant-diseases]] — Monje 2025 · sr (AO/AAP, 34편·환자 3944·임플란트 11663): 임플란트 오식립이 임플란트주위염 최강 위험인자(OR 최대 48.2), 보철변연–치조정골 거리 <1.5mm도 위험(OR 2.29), 임플란트 디자인/시스템은 일관된 우위 없음 (DOI 10.1002/JPER.24-0083)
 - [[implants/peri-implantitis/bai-2024-seven-nonsurgical-methods-peri-implantitis-network]] — Bai 2024 · sr+ma (33편 RCT 네트워크 메타분석): 기계적 제거(MD) 병용 7가지 비외과 요법 — 임플란트주위염은 PBMT+MD가 PPD 1위(SUCRA 75.3%)·전신항생제(SA)+MD가 CAL/MBL 1위, 점막염은 프로바이오틱스+MD가 PPD/PLI 1위·SA+MD가 BoP 1위 (DOI 10.1371/journal.pone.0305342)
-- [[implants/scocca-2026-zygomatic-implants-head-neck-cancer-sr-ma]] — Scocca 2026 · sr+ma · 두경부암 상악 재건 관골임플란트(ZI) 17편(294명/679 ZI): 통합 생존 97%(95%CI 94–99), 1차 절제 동시 식립 실패 2% vs 2차 9%(p=0.41, NS), 방사선치료 OR 3.42(p=0.055, NS), UW-QOL/EORTC 기능 양호 — 위키 첫 ZI 결과-수준 근거 (DOI 10.1016/j.jdent.2026.106709)
-- [[implants/pachiou-2026-narrow-diameter-implants-immediate-loading-sr-ma]] — Pachiou 2026 · sr+ma · 고정성 보철 좁은직경(NDI ≤3.5mm) 즉시 vs 조기/지연 하중(9편 정성/7편 정량): 임플란트 실패 차이 없음(단기 RR 1.41, 장기 RR 1.10, I²=0%), MBL·보철합병증 동등; 장기 생물학적 합병증이 즉시하중군에 많다는 very-low 신호만 (DOI 10.1016/j.jdent.2026.106795)
+- [[implants/full-arch/scocca-2026-zygomatic-implants-head-neck-cancer-sr-ma]] — Scocca 2026 · sr+ma · 두경부암 상악 재건 관골임플란트(ZI) 17편(294명/679 ZI): 통합 생존 97%(95%CI 94–99), 1차 절제 동시 식립 실패 2% vs 2차 9%(p=0.41, NS), 방사선치료 OR 3.42(p=0.055, NS), UW-QOL/EORTC 기능 양호 — 위키 첫 ZI 결과-수준 근거 (DOI 10.1016/j.jdent.2026.106709)
+- [[implants/short-narrow/pachiou-2026-narrow-diameter-implants-immediate-loading-sr-ma]] — Pachiou 2026 · sr+ma · 고정성 보철 좁은직경(NDI ≤3.5mm) 즉시 vs 조기/지연 하중(9편 정성/7편 정량): 임플란트 실패 차이 없음(단기 RR 1.41, 장기 RR 1.10, I²=0%), MBL·보철합병증 동등; 장기 생물학적 합병증이 즉시하중군에 많다는 very-low 신호만 (DOI 10.1016/j.jdent.2026.106795)
 - [[implants/kindaro-2026-parathyroid-hormone-implant-osseointegration-osteoporosis-sr]] — Kindaro 2026 · sr · 골다공증 동물모델 12편 전임상 SR: 간헐적 PTH(테리파라타이드, 골형성촉진제)가 BIC·BV/TV·제거토크 일관 개선, 병용(비타민D·랄록시펜·국소 스캐폴드)이 단독보다 우수 — 그러나 인체 연구 0편·7/12편 눈가림 고위험 → 실험적 보조요법 (DOI 10.1016/j.job.2026.100778)
-- [[implants/cosola-2026-customized-3d-printed-titanium-subperiosteal-implants-sr-ma]] — Cosola 2026 · sr+ma(초록전용) · 맞춤형 CAD/CAM 3D프린팅 티타늄 골막하 임플란트 11편(268명/369개): ≤3년 생존 97.8%지만 전체 92.4%·6년 54.1%로 붕괴, 후기 실패의 주원인은 골유착이 아니라 연조직 노출·열개 — 선별된 환자의 무이식 salvage 옵션 (JOMS 2026;84:1084)
-- [[implants/yildirim-2026-short-implants-bibliometric-research-trends]] — Yildirim 2026 · narrative-review(bibliometric) · WoS 숏임플란트 626편(1994–2024) 과학지도: 연 12.69% 성장·2019 정점 후 감소, 주요 저널 COIR·IJOMI, 주요 저자 Esposito·Felice, 4개 주제군(생존, 위축 후방악 재건, 보철·생역학, vs 표준/골증대) — 연구 활동의 지도이지 임상 효과의 근거가 아님 (DOI 10.11607/jomi.11411)
-- [[implants/la-monaca-2022-immediate-flapless-full-arch-rehabilitation]] — Retrospective 10-year cohort (n=28, 164 implants): all-on-4 vs all-on-6 implant survival (89.7% vs 99.0%), MBL, and complications (2022)
-- [[implants/pandey-2023-comparison-all-on-four-all-on-six]] — 3D FEA comparing All-on-Four vs All-on-Six edentulous mandible rehabilitation: All-on-6 shows markedly lower cortical bone/implant stress but slightly higher trabecular bone stress (2023)
+- [[implants/full-arch/cosola-2026-customized-3d-printed-titanium-subperiosteal-implants-sr-ma]] — Cosola 2026 · sr+ma(초록전용) · 맞춤형 CAD/CAM 3D프린팅 티타늄 골막하 임플란트 11편(268명/369개): ≤3년 생존 97.8%지만 전체 92.4%·6년 54.1%로 붕괴, 후기 실패의 주원인은 골유착이 아니라 연조직 노출·열개 — 선별된 환자의 무이식 salvage 옵션 (JOMS 2026;84:1084)
+- [[implants/short-narrow/yildirim-2026-short-implants-bibliometric-research-trends]] — Yildirim 2026 · narrative-review(bibliometric) · WoS 숏임플란트 626편(1994–2024) 과학지도: 연 12.69% 성장·2019 정점 후 감소, 주요 저널 COIR·IJOMI, 주요 저자 Esposito·Felice, 4개 주제군(생존, 위축 후방악 재건, 보철·생역학, vs 표준/골증대) — 연구 활동의 지도이지 임상 효과의 근거가 아님 (DOI 10.11607/jomi.11411)
+- [[implants/full-arch/la-monaca-2022-immediate-flapless-full-arch-rehabilitation]] — Retrospective 10-year cohort (n=28, 164 implants): all-on-4 vs all-on-6 implant survival (89.7% vs 99.0%), MBL, and complications (2022)
+- [[implants/full-arch/pandey-2023-comparison-all-on-four-all-on-six]] — 3D FEA comparing All-on-Four vs All-on-Six edentulous mandible rehabilitation: All-on-6 shows markedly lower cortical bone/implant stress but slightly higher trabecular bone stress (2023)
 
 ## 임플란트 — 표면처리·골유착 심화 (Osseointegration Theory)
 - [[implants/albrektsson-1981-osseointegrated-titanium-implants-requirements]] — 랜드마크(1981): 골유착을 직접 골-임플란트 접촉으로 정의(최초 인체 TEM)+6대 전제(재료·디자인·표면·골상태·술식·부하조건)
@@ -258,52 +258,52 @@ tags: []
 - [[overviews/nsaid-aspirin-antiplatelet-interaction-overview]] — **NEW Overview** (5편, 2026-07-16): NSAID–아스피린 항혈소판 상호작용 종합 — 특정 NSAID가 혈소판 COX-1 소수성 통로를 먼저 점유해 아스피린의 비가역적 Ser-529/530 아세틸화를 차단(하루치 심혈관 보호 소실). **순서가 전부**: 아스피린 먼저(NSAID 2시간 전)=완전보존, NSAID 먼저=차단(Catella-Lawson 2001, Yokoyama 2013). 최대방해자 이부프로펜(in-vitro 48.1%↓; 환자 TXB2 1.65→19.13 ng/mL, Renda 2006), 메페남산(22.7%), 피라졸리논(디피론 MAA가 Ser-530 결합, Hohlfeld 2008)도 간섭; 셀레콕시브·디클로페낙·록소프로펜·인도메타신·멜록시캄·아세트아미노펜 무간섭. 결정인자=COX-2 억제강도 아닌 **선택성 비율**(이부프로펜≈셀레콕시브 COX-2 억제 동등해도 셀레콕시브만 보존). 치과 진통제 ladder: 아세트아미노펜 1순위→셀레콕시브→이부프로펜 회피; 2차예방 아스피린 미중단이라 진통제 선택이 충돌회피 정공법(Patrono 2024).
 - [[overviews/sinus-lift-complications-graft-migration-sinusitis-bppv-overview]] — **NEW Overview** (6편, 2026-07-15): 상악동거상술(MSFA) 합병증 3축(이식재 이동·이물 부비동염 / 배출구 폐쇄 / BPPV). 소뼈 이종골(Bio-Oss)은 인체서 사실상 비흡수→10–20년 뒤에도 이동(Nowzari 7/7 임플란트 주위 열구), 후기(2–13년) 합병증(Rodriguez 13년째 부비동염 CT 80%·소뼈 낭종), 치료는 외과적 제거. 이물 부비동염 항생제 불응·재발(Felisati, 2차 내시경→6h 배출). 예방핵심=배출구 보존: Vaddi CBCT n=200 안전증대높이 ≈27mm(유치악)/≈23mm(무치악), ostium 47% 제1대구치부·~2.4mm. BPPV는 골절도/malleting 이석변위(Akcay 현훈력 불응; Damsaz 전향 n=112 폐쇄식 3.1% vs 능선분할 0%, p=0.509 NS) → 술전 현훈력 스크리닝·Epley. 근거 대부분 증례/소코호트. 해부·술기는 sinus-anatomy link-out.
 - [[overviews/implant-abutment-restoration-interface-material-morphology-fit-overview]] — **NEW Overview** (6편, 2026-07-15): 임플란트 지대주·보철 계면 4축(재료·형태/emergence·적합도·동향). 지대주 재료는 지르코니아 ≈ 티타늄 임상 동등(Davoudi umbrella 생존 98.6–98.8 vs 98.62–99.4%, 벤치는 Ti 압도 1454 vs 443.6N) → 심미 주도 선택. **경고**: 이 동등성은 지대주 한정 — 2편 지르코니아 임플란트체는 열등(Sterzenbach RCT 89.3% vs 100%, p=0.068이 격차 가림). 형태(linear vs concave)는 1년 무차이(Barwacz), 진짜 위험은 볼록 과윤곽(Siegenthaler OR 12.6), 진짜 레버는 KM≥2mm·연조직 두께(IAO: FGG 폭/CTG 두께). 보철 적합도 크라운 종류·재료·제작법 무차이(Dudley CAD-CAM 80.3 vs 통상 88.0µm, 120µm 내), 변동은 측정 artifact(replica +37.86µm). 동향은 티타늄→지르코니아→하이브리드·디지털 급증(Zhang 2,051편). emergence·abutment 오버뷰 link-out.
-- [[implants/chakraborty-2024-implant-drill-materials-heat-osteotomy]] — SR(Eur J Dent 2024, 11편 in vitro): drill 재질-발열 인과 결론 불가; 일관된 신호는 drill wear → 발열 — 재질보다 마모/교체주기가 임상적으로 더 중요
-- [[implants/marenzi-2018-micromorphological-structure-implant-drills]] — 인비트로(BioMed Res Int 2018, 5개 제조사 Ø2.0mm): 백색광 간섭계로 측정한 미세표면 거칠기가 제조사별 유의차 — 발열·마모·내구성 예측 가능
-- [[implants/heuzeroth-2021-thermal-exposure-osteotomy-osseointegration]] — 미니피그 in vivo(COIR 2021, n=36): 신형 drill+축약 시퀀스 → 골내 최고온도 35.4 vs 46.5°C(p=.0021), BIC 2주 44.9 vs 31.3%(p<.0001) — drill 발열 감소 → 골유착 향상 직접 증거
-- [[implants/saxena-2024-guided-implant-drilling-bone-temperature]] — SR(Cureus 2024, 11편): 가이드 드릴링이 비가이드 대비 골내 온도 유의 상승(슬리브가 saline 차단); 대부분 47°C 미만이나 1500–2000 RPM 가이드선 괴사역치 초과; 10°C saline이 가장 일관된 완화책
-- [[implants/sorgato-2025-drill-bit-wear-temperature]] — 인비트로(PLOS ONE 2025, CNC, 150 hole/set): drill 마모(SEM, TiN 코팅 손실)와 온도 상승 직접 정비례 — 제조사 권장 25–30회 이전에 이미 발열 진행
-- [[implants/bernabeu-mira-2020-bone-heating-drilling-implant]] — 인비트로(Materials 2020, 800 rpm, irrigation 없음): drill **design**(twisted < straight, p<0.01)이 **material**(SS≈DLC, NS)보다 발열에 큰 영향; initial·pilot > progressive·final
-- [[implants/aquilanti-2023-heat-generation-initial-osteotomy]] — 인비트로(J Maxillofac Oral Surg 2023, 315 prep, IR): 초기 osteotomy에서 piezo insert ΔT 53–65°C vs 회전 drill <2°C(p<0.001); 단 9.8 N 과부하 + 비회전 적용이 piezo 과대평가; 차가운 saline 효과적
-- [[implants/bento-2023-steel-versus-zirconia-drills-heat]] — SR+MA(Saudi Dent J 2024, 10편 in vitro): 지르코니아 drill이 SS drill보다 골내 온도 변화 유의하게 낮음(IV pooling) — 특정 material pair에 대한 정량적 신호
-- [[implants/chauhan-2018-biomechanical-factors-heat-generation-osteotomy]] — SR(Indian J Dent Res 2018, 34편, 1992-2015): osteotomy 발열은 multifactorial — drill 디자인·재질·마모, drilling method, irrigation, 골질 모두 작용; canonical factor framework
-- [[implants/jain-2024-heat-generation-pain-piezosurgery-drilling]] — SR(Cureus 2024, 9편): piezo가 술후 통증 유의 감소시키나 술중 골내 온도는 회전 drill보다 높음 — pain-vs-heat trade-off 명시
-- [[implants/jung-2021-heat-development-medical-drilling-influencing]] — mini-review(in vivo 2021): medical drilling 발열을 internal(drill 속성)·external(irrigation·골질) 분류; ex vivo 표준 측정법 제안
-- [[implants/kim-2019-double-spiral-condensing-screw-implant]] — 특허(등록 10-2304707, (주)해냄/김성주): 이중 스파이럴 콘덴싱 스크류 — 압착나사산부+본파우더안내홈+하부압착돔으로 측방·근단 동시 골치밀화, 단일 기구 상악동 거상; 해냄버 설계 근거 (Densah CCW 가역방향과 대비)
-- [[implants/kosior-2025-histological-histomorphometric-implant-bed-preparation]] — SR(J Clin Med 2025, 29편): 5개 bed prep 방법 조직학 비교 — 전통 drilling이 microcracks·thermal injury 최다, %BIC 최저; 적정 parameter 시 동등 가능
-- [[implants/rugova-2024-thermal-evaluation-bone-drilling-sequential]] — 인비트로(Bioengineering 2024, IR, **irrigation 없음**): pilot drill >100°C, 70°C 발열이 측방 10mm 확산 — 후속 enlarging drill(~4.2mm) 절제 반경(~2mm) 초과; ※ 정상 임상(irrigation + vital bone 혈류)에선 후속 drilling이 thermal-damaged 영역 대부분 절제 — 적용은 D1 + irrigation 부족 + 마모 drill 3중 조건 한정
-- [[implants/stubinger-2015-piezosurgery-implant-dentistry]] — 서술적 고찰(CCIDE 2015): piezo 임상 overview — 정밀·선택적 cutting, 연조직 보존, IAN lateralization·sinus elevation 적용; "열손상 회피" 주장은 aquilanti·jain SR이 반박
+- [[implants/osteotomy-thermal/chakraborty-2024-implant-drill-materials-heat-osteotomy]] — SR(Eur J Dent 2024, 11편 in vitro): drill 재질-발열 인과 결론 불가; 일관된 신호는 drill wear → 발열 — 재질보다 마모/교체주기가 임상적으로 더 중요
+- [[implants/osteotomy-thermal/marenzi-2018-micromorphological-structure-implant-drills]] — 인비트로(BioMed Res Int 2018, 5개 제조사 Ø2.0mm): 백색광 간섭계로 측정한 미세표면 거칠기가 제조사별 유의차 — 발열·마모·내구성 예측 가능
+- [[implants/osteotomy-thermal/heuzeroth-2021-thermal-exposure-osteotomy-osseointegration]] — 미니피그 in vivo(COIR 2021, n=36): 신형 drill+축약 시퀀스 → 골내 최고온도 35.4 vs 46.5°C(p=.0021), BIC 2주 44.9 vs 31.3%(p<.0001) — drill 발열 감소 → 골유착 향상 직접 증거
+- [[implants/osteotomy-thermal/saxena-2024-guided-implant-drilling-bone-temperature]] — SR(Cureus 2024, 11편): 가이드 드릴링이 비가이드 대비 골내 온도 유의 상승(슬리브가 saline 차단); 대부분 47°C 미만이나 1500–2000 RPM 가이드선 괴사역치 초과; 10°C saline이 가장 일관된 완화책
+- [[implants/osteotomy-thermal/sorgato-2025-drill-bit-wear-temperature]] — 인비트로(PLOS ONE 2025, CNC, 150 hole/set): drill 마모(SEM, TiN 코팅 손실)와 온도 상승 직접 정비례 — 제조사 권장 25–30회 이전에 이미 발열 진행
+- [[implants/osteotomy-thermal/bernabeu-mira-2020-bone-heating-drilling-implant]] — 인비트로(Materials 2020, 800 rpm, irrigation 없음): drill **design**(twisted < straight, p<0.01)이 **material**(SS≈DLC, NS)보다 발열에 큰 영향; initial·pilot > progressive·final
+- [[implants/osteotomy-thermal/aquilanti-2023-heat-generation-initial-osteotomy]] — 인비트로(J Maxillofac Oral Surg 2023, 315 prep, IR): 초기 osteotomy에서 piezo insert ΔT 53–65°C vs 회전 drill <2°C(p<0.001); 단 9.8 N 과부하 + 비회전 적용이 piezo 과대평가; 차가운 saline 효과적
+- [[implants/osteotomy-thermal/bento-2023-steel-versus-zirconia-drills-heat]] — SR+MA(Saudi Dent J 2024, 10편 in vitro): 지르코니아 drill이 SS drill보다 골내 온도 변화 유의하게 낮음(IV pooling) — 특정 material pair에 대한 정량적 신호
+- [[implants/osteotomy-thermal/chauhan-2018-biomechanical-factors-heat-generation-osteotomy]] — SR(Indian J Dent Res 2018, 34편, 1992-2015): osteotomy 발열은 multifactorial — drill 디자인·재질·마모, drilling method, irrigation, 골질 모두 작용; canonical factor framework
+- [[implants/osteotomy-thermal/jain-2024-heat-generation-pain-piezosurgery-drilling]] — SR(Cureus 2024, 9편): piezo가 술후 통증 유의 감소시키나 술중 골내 온도는 회전 drill보다 높음 — pain-vs-heat trade-off 명시
+- [[implants/osteotomy-thermal/jung-2021-heat-development-medical-drilling-influencing]] — mini-review(in vivo 2021): medical drilling 발열을 internal(drill 속성)·external(irrigation·골질) 분류; ex vivo 표준 측정법 제안
+- [[implants/osteotomy-thermal/kim-2019-double-spiral-condensing-screw-implant]] — 특허(등록 10-2304707, (주)해냄/김성주): 이중 스파이럴 콘덴싱 스크류 — 압착나사산부+본파우더안내홈+하부압착돔으로 측방·근단 동시 골치밀화, 단일 기구 상악동 거상; 해냄버 설계 근거 (Densah CCW 가역방향과 대비)
+- [[implants/osteotomy-thermal/kosior-2025-histological-histomorphometric-implant-bed-preparation]] — SR(J Clin Med 2025, 29편): 5개 bed prep 방법 조직학 비교 — 전통 drilling이 microcracks·thermal injury 최다, %BIC 최저; 적정 parameter 시 동등 가능
+- [[implants/osteotomy-thermal/rugova-2024-thermal-evaluation-bone-drilling-sequential]] — 인비트로(Bioengineering 2024, IR, **irrigation 없음**): pilot drill >100°C, 70°C 발열이 측방 10mm 확산 — 후속 enlarging drill(~4.2mm) 절제 반경(~2mm) 초과; ※ 정상 임상(irrigation + vital bone 혈류)에선 후속 drilling이 thermal-damaged 영역 대부분 절제 — 적용은 D1 + irrigation 부족 + 마모 drill 3중 조건 한정
+- [[implants/osteotomy-thermal/stubinger-2015-piezosurgery-implant-dentistry]] — 서술적 고찰(CCIDE 2015): piezo 임상 overview — 정밀·선택적 cutting, 연조직 보존, IAN lateralization·sinus elevation 적용; "열손상 회피" 주장은 aquilanti·jain SR이 반박
 - [[immediate-implant/esthetic-soft-tissue/hamilton-2023-type1a-immediate-implant-immediate-loading-esthetic-sr-ma]] — ITI Consensus SR+MA (COIR 2023 Suppl 26, Hamilton, 3,118 screened/68 included, 37.2 implants/study, 2.8y follow-up): 상악 심미부위 single tooth Type 1A (즉시식립+즉시부하) selection criteria — 엄격한 환자·부위 선정 시 high survival; facial gap >2 mm (+3.1 PP, p=0.04), 근관 감염 부재 (+2.6 PP, p=0.004), post-2012 술기 (+1.9 PP, p=0.02) 유의한 우호 인자
-- [[implants/timon-2019-thermal-osteonecrosis-bone-drilling-orthopedic]] — 서술적 고찰(Cureus 2019, 정형외과): thermal osteonecrosis 50°C critical; external irrigation이 단일 가장 중요 mitigation 변수; cross-specialty 검증
-- [[implants/woods-2022-does-irrigating-while-drilling-decrease]] — in vivo dog tibia(Iowa Orthop J 2022, Level II, 5 device): saline irrigation + sharp drill bit가 발열·급성 osteonecrosis 유의 감소; trocar-tip K-wire 최악
-- [[implants/slete-2018-histomorphometric-comparison-three-osteotomy-techniques]] — ex vivo 돼지 경골 파일럿(n=6/군 × 3군): 즉시 BIC OD 60.3% > 오스테오톰 40.7% > 표준 드릴링 16.3%; OD에서만 일관된 apical 골 압축; p-value 미보고 파일럿
-- [[implants/koutouzis-2019-alveolar-ridge-expansion-osseodensification-multicenter-retrospective]] — 다기관 후향(n=21/28 임플란트): OD 골밀도화 치조정 확장 — 3–4mm 좁은 능선 2.83±0.66mm 확장, 평균 IT 61.2±13.9 Ncm·ISQ 77; 생존율 92.8%(2 실패); 좁은 능선·trabecular 충분 시 최대 효과
-- [[implants/mello-machado-2021-osseodensification-low-quality-bone-rct]] — 이중맹검 RCT(n=16/55 임플란트, D3/D4): OD가 표준 언더사이즈 드릴링 대비 IT 39.0 vs 32.0 Ncm(p<0.001) 더 높으나 ISQ는 식립·6개월 모두 동등; 생존율 동등 — equivalence 결과
-- [[implants/kanathila-2018-insight-osseodensification-implant-stability-success]] — narrative review(J Clin Diagn Res 2018): OD 개념 정리 — Densah CCW 회전으로 골 압축·autograft, 저밀도 골 IT ~49 vs 표준 ~25 Ncm 보고. Huwais 측 인용 의존, 정량 효과는 후속 MA로 검증 필요
-- [[implants/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — 벤치(돼지 경골, n=72 osteotomy): OD vs 표준 — IT/RT 유의↑, BIC ~3× 증가, peri-osteotomy BMD 층 형성; ISQ·온도는 차이 없음(torque-ISQ 분리). 발명자 주도·in vitro·생물학적 치유 미반영
-- [[implants/huwais-2017-autografting-tool-enhanced-flute-profile]] — 특허(WO 2017/124079 A1, Huwais IP Holding/Salah Huwais): Densah/Versah 원천 특허 — 연속 음의 레이크각(negative rake angle) flute, cutting face/densifying face/land/working edge 구조로 같은 버가 절삭↔압축, stopper section piston 효과로 hydraulic autografting; 덴샤버 "날 모양" 원천 (위 벤치논문의 도구 IP)
-- [[implants/gaikwad-2022-osseodensification-animal-biomechanics-bic-sr-ma]] — SR+MA 동물 9편(JPD 2022): OD vs 표준 — IT WMD 2.27(95% CI 1.15–3.39, P<.001) 유의↑; BIC·BAFO는 3·6주 효과 양의 방향이나 P값이 0.05 일관되게 초과 → 결론 도출 불가. 저자의 'significant' 헤드라인은 CI/p-value 불일치
-- [[implants/lima-monteiro-2024-osseodensification-biomechanics-histomorphometry-sr-ma]] — SR+MA 11편(인체+동물, Quintessence Int 2024): OD 인체 ISQ MD +8.57(초기)·+4.49(2차안정성 NS); 동물 IT MD +46.79·BIC +14.0/+10.6 등 유의. NRSI 다수·연구 이질성·발명자 협조 연구 비율 높음
-- [[implants/gaspar-2022-implant-stability-osseodensification-conventional-sr-ma]] — SR+MA 인체 NRSI 3편(IJOMI 2022): OD 초기 ISQ MD 13.1(95% CI 10.0–16.1, P<.0001, I²=0%) 매우 일관, 4–6개월 MD 4.4(P<.01, I²=70%); 모두 NRSI·소표본. 인체 데이터로 OD 1차 안정성 향상 일관성 확립
-- [[implants/kalra-2025-implant-stability-crestal-bone-osseodensification-sr-ma]] — SR+MA 5편/198임플란트(JPD 2025, 저밀도 골): OD vs 표준 — ISQ 초기·추적 모두 유의↑(P<.05), CBL 변화는 차이 없음(P>.05). 표본 작고 6개월 이상 데이터 부족 — 'OD가 ISQ는 올리나 변연골 보존은 동등' 결론
-- [[implants/tian-2019-alveolar-ridge-expansion-osseodensification-osteotome]] — 동물 in vivo(atrophic 돼지 하악, n=12 임플란트, 4주): OD vs osteotome 능선 확장 — BIC 62.5% vs 31.4%(P=0.018); BAFO 차이 없음(P=0.198). 표본 6/6·관찰기간 짧음
-- [[implants/torroni-2021-osseodensification-lumbar-fixation-ovine-pedicle-screw]] — 양 척추 ex-vivo(n=8, 64 pedicle screws, 정형외과 모델): OD pullout 6주 387/12주 312 N vs R 292/212 N — OD 시간↑·R 시간↓; BAFO 차이 없음. 척추→치과 외삽 시 별도 추론 필요
-- [[implants/marzorati-2026-osseodensification-standard-osteotomy-torque-isq-sr-ma]] — SR+MA(IJOMS 2026, n=555/685): OD vs 표준 — IT 45.75 vs 38.00 Ncm(P<.001), ISQ MD 3.24(95% CI 0.72–5.95, P=0.024). ISQ 효과는 통계 유의하나 임상적으로 작음(<5); stability dip 시점 데이터 부족
-- [[implants/yu-2022-primary-implant-stability-alternative-site-preparation-sr-ma]] — SR+MA(CIDRR 2022, 17편/12 RCT): 1차안정성 ISQ — OD +10.25, osteotome +6.34, under-drilling +11.43(모두 유의), piezo +1.50 NS. OD 서브그룹 3편·CI 넓음(4.97–15.52) → Marzorati 2026 더 엄격(+3.24)과 비교 시 Yu 과대 가능성
-- [[implants/padhye-2020-osseodensification-systematic-review-qualitative-analysis]] — SR(J Oral Biol Craniofac Res 2020, 12편 ~2018.11): OD vs 표준 — IT·BIC·BAFO 평균적 증가; 12편 중 8편 동물 조직학·인간 임상 2편뿐 → 인간 장기 임상으로 외삽 어려움. 정성 분석만, 효과크기 미산출
-- [[implants/inchingolo-2021-osseodensification-implant-site-osteotomy-sr-ma]] — SR+MA(Materials 2021, n=16편 중 임상 11: 동물 8+인간 3): OD vs 표준 — IT·BIC 유의↑; CW(절삭) vs CCW(다짐) OD 간 BIC/토크 차이 있으나 BAFO는 차이 없음. MA가 동물 데이터에 한정
-- [[implants/trisi-2016-osseodensification-low-density-bone-sheep]] — 동물(양, n=2/임플란트 20, 2개월): 표준 드릴링 Ø3.8 좌측 vs OD Ø5.0 Versah 우측 — OD %BV ~30%↑·RT 우수·미세동요↓·치조정 폭경↑. 임플란트 직경 다름(3.8 vs 5.0)으로 OD 효과/직경 효과 교란
-- [[implants/lopez-2017-osseodensification-spinal-surgical-hardware-fixation]] — 동물(양, n=12 양측 paired, 경추 C2·C3·C4, 0/3/6주): OD vs 표준 — pullout 강도 유의↑(p<0.01), BIC p<0.01·BAFO p=0.024 모두 우수. 척추 hardware 모델로 치과 외삽은 별도 추론
-- [[implants/markovic-2016-effect-surgical-drill-guide-irrigans]] — 소 늑골 in vitro(2×2 요인, n=48): 드릴가이드는 골식립부 입구(entrance)에서만 발열 유의(p<0.001, 최대 +7.48°C), 냉각 5°C saline은 전 깊이에서 발열 억제(p<0.001), 모두 괴사역치(47°C) 미달
-- [[implants/hu-2019-evaluation-fluid-distribution-implant-site]] — CFD 시뮬레이션(in vitro): 관류량 ≥60 mL/min에서 임플란트 식립와 유체 분포 plateau; drill speed는 저관류량에서만 영향, feed rate는 무영향 (abstract-only)
-- [[implants/raj-2021-analysis-factors-determining-thermal-changes]] — 우골 in vitro 요인설계(TCRM 2021): 시추속도·수압·세정액온도가 절제부 발열에 상호작용 — 2000rpm/1.2kgf/실온 최고, 2500rpm/2.4kgf/냉각saline 최저, 모두 47°C 미만
-- [[implants/sener-2009-effects-irrigation-temperature-heat-control]] — 소 하악골 in vitro(COIR 2009, 3/7/12mm 깊이): 10°C saline이 25°C보다 냉각 효과 우수, 얕은 부위(entrance)가 발열 최대
-- [[implants/kosior-2025-comparative-analysis-histological-characteristics]] — in vitro 조직학(J Clin Med 2025, 드릴 3사 비교, n=54): 4°C 식염수 냉각이 모든 시스템에서 최고 골와동 품질(Hiossen 1200rpm/4°C=15.3/16), 무냉각+고속 최악(5.5/16)
-- [[implants/kapse-2022-thermal-effect-operatory-room-temperature-surgical]] — 염소 하악골 열화상 연구(in vitro): 관주액 온도(5°C vs 25°C)만 골 발열에 유의(p=0.003), 진료실 실온·드릴직경·깊이는 무효과
-- [[implants/gehrke-2020-technique-drill-design-osteotomy]] — in vivo 토끼(n=48, Sci Rep 2020): 원통형 드릴에서만 간헐(peck) 동작이 발열 유의 감소(ΔT −2.6°C, p=0.001, −37%); 원추형은 기법 무관(p=0.977); peck 간격 0→3mm/5mm/8mm 명시
-- [[implants/di-fiore-2018-continuous-intermittent-drilling-temperature]] — in vitro 소 늑골(n=80, JOI 2018): 연속 vs 간헐 기법 간 온도 차 비유의(p=0.45); 냉각 관주(6°C)만 유의(p=0.0001) — 관주 온도가 기법 선택보다 우선
-- [[implants/versah-protocols/de-agostinho-neto-2026-in-vitro-evaluation-different-implant-systems]] — 저밀도 소 늑골 in vitro (Sci Rep 2026): 기존 드릴링(SIN)/골밀도화(VERSAH)/골확장기(MAXIMUS) 3종 — 식립토크 35 vs 43.2 vs 59.6 N·cm, 경부·체부·근단부 micro-CT 미세구조 모두 유의차 없음. **단 지표가 골밀도가 아니라 골표면적/부피 비(S/V) 프록시**이고 군당 n=5–8로 검정력 부족 유력 — 초록의 p 부등호도 역방향 오기. 근단부 밀도화 질문을 판정하지 못함(미측정이지 반증 아님)
-- [[implants/batz-2019-influence-broach-design-bone-friction]] — 정형외과 THA 브로치 준정적 벤치(소 해면골, Clin Biomech 2019): 무딘 추출형·압착형이 예리한 추출형 대비 총 골밀도화 **+117%/+121% (P=.005)** — 작업 방향이 같아도 무딘 형상이면 밀도화되어 **'방향이 아니라 날 형상(geometry)'**을 지목. 밀도화 깊이(압착형 P=.001)·최대 밀도화(무딘 추출형 P=.008) 분리 가능; 예리형 마찰계수 +38%/+37%(P<.001). **치과 기구 미시험 — 기전 근거이지 치과 버 근거 아님**
+- [[implants/osteotomy-thermal/timon-2019-thermal-osteonecrosis-bone-drilling-orthopedic]] — 서술적 고찰(Cureus 2019, 정형외과): thermal osteonecrosis 50°C critical; external irrigation이 단일 가장 중요 mitigation 변수; cross-specialty 검증
+- [[implants/osteotomy-thermal/woods-2022-does-irrigating-while-drilling-decrease]] — in vivo dog tibia(Iowa Orthop J 2022, Level II, 5 device): saline irrigation + sharp drill bit가 발열·급성 osteonecrosis 유의 감소; trocar-tip K-wire 최악
+- [[implants/osteotomy-thermal/slete-2018-histomorphometric-comparison-three-osteotomy-techniques]] — ex vivo 돼지 경골 파일럿(n=6/군 × 3군): 즉시 BIC OD 60.3% > 오스테오톰 40.7% > 표준 드릴링 16.3%; OD에서만 일관된 apical 골 압축; p-value 미보고 파일럿
+- [[implants/osseodensification/koutouzis-2019-alveolar-ridge-expansion-osseodensification-multicenter-retrospective]] — 다기관 후향(n=21/28 임플란트): OD 골밀도화 치조정 확장 — 3–4mm 좁은 능선 2.83±0.66mm 확장, 평균 IT 61.2±13.9 Ncm·ISQ 77; 생존율 92.8%(2 실패); 좁은 능선·trabecular 충분 시 최대 효과
+- [[implants/osseodensification/mello-machado-2021-osseodensification-low-quality-bone-rct]] — 이중맹검 RCT(n=16/55 임플란트, D3/D4): OD가 표준 언더사이즈 드릴링 대비 IT 39.0 vs 32.0 Ncm(p<0.001) 더 높으나 ISQ는 식립·6개월 모두 동등; 생존율 동등 — equivalence 결과
+- [[implants/osseodensification/kanathila-2018-insight-osseodensification-implant-stability-success]] — narrative review(J Clin Diagn Res 2018): OD 개념 정리 — Densah CCW 회전으로 골 압축·autograft, 저밀도 골 IT ~49 vs 표준 ~25 Ncm 보고. Huwais 측 인용 의존, 정량 효과는 후속 MA로 검증 필요
+- [[implants/osseodensification/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — 벤치(돼지 경골, n=72 osteotomy): OD vs 표준 — IT/RT 유의↑, BIC ~3× 증가, peri-osteotomy BMD 층 형성; ISQ·온도는 차이 없음(torque-ISQ 분리). 발명자 주도·in vitro·생물학적 치유 미반영
+- [[implants/osseodensification/huwais-2017-autografting-tool-enhanced-flute-profile]] — 특허(WO 2017/124079 A1, Huwais IP Holding/Salah Huwais): Densah/Versah 원천 특허 — 연속 음의 레이크각(negative rake angle) flute, cutting face/densifying face/land/working edge 구조로 같은 버가 절삭↔압축, stopper section piston 효과로 hydraulic autografting; 덴샤버 "날 모양" 원천 (위 벤치논문의 도구 IP)
+- [[implants/osseodensification/gaikwad-2022-osseodensification-animal-biomechanics-bic-sr-ma]] — SR+MA 동물 9편(JPD 2022): OD vs 표준 — IT WMD 2.27(95% CI 1.15–3.39, P<.001) 유의↑; BIC·BAFO는 3·6주 효과 양의 방향이나 P값이 0.05 일관되게 초과 → 결론 도출 불가. 저자의 'significant' 헤드라인은 CI/p-value 불일치
+- [[implants/osseodensification/lima-monteiro-2024-osseodensification-biomechanics-histomorphometry-sr-ma]] — SR+MA 11편(인체+동물, Quintessence Int 2024): OD 인체 ISQ MD +8.57(초기)·+4.49(2차안정성 NS); 동물 IT MD +46.79·BIC +14.0/+10.6 등 유의. NRSI 다수·연구 이질성·발명자 협조 연구 비율 높음
+- [[implants/osseodensification/gaspar-2022-implant-stability-osseodensification-conventional-sr-ma]] — SR+MA 인체 NRSI 3편(IJOMI 2022): OD 초기 ISQ MD 13.1(95% CI 10.0–16.1, P<.0001, I²=0%) 매우 일관, 4–6개월 MD 4.4(P<.01, I²=70%); 모두 NRSI·소표본. 인체 데이터로 OD 1차 안정성 향상 일관성 확립
+- [[implants/osseodensification/kalra-2025-implant-stability-crestal-bone-osseodensification-sr-ma]] — SR+MA 5편/198임플란트(JPD 2025, 저밀도 골): OD vs 표준 — ISQ 초기·추적 모두 유의↑(P<.05), CBL 변화는 차이 없음(P>.05). 표본 작고 6개월 이상 데이터 부족 — 'OD가 ISQ는 올리나 변연골 보존은 동등' 결론
+- [[implants/osseodensification/tian-2019-alveolar-ridge-expansion-osseodensification-osteotome]] — 동물 in vivo(atrophic 돼지 하악, n=12 임플란트, 4주): OD vs osteotome 능선 확장 — BIC 62.5% vs 31.4%(P=0.018); BAFO 차이 없음(P=0.198). 표본 6/6·관찰기간 짧음
+- [[implants/osseodensification/torroni-2021-osseodensification-lumbar-fixation-ovine-pedicle-screw]] — 양 척추 ex-vivo(n=8, 64 pedicle screws, 정형외과 모델): OD pullout 6주 387/12주 312 N vs R 292/212 N — OD 시간↑·R 시간↓; BAFO 차이 없음. 척추→치과 외삽 시 별도 추론 필요
+- [[implants/osseodensification/marzorati-2026-osseodensification-standard-osteotomy-torque-isq-sr-ma]] — SR+MA(IJOMS 2026, n=555/685): OD vs 표준 — IT 45.75 vs 38.00 Ncm(P<.001), ISQ MD 3.24(95% CI 0.72–5.95, P=0.024). ISQ 효과는 통계 유의하나 임상적으로 작음(<5); stability dip 시점 데이터 부족
+- [[implants/osteotomy-thermal/yu-2022-primary-implant-stability-alternative-site-preparation-sr-ma]] — SR+MA(CIDRR 2022, 17편/12 RCT): 1차안정성 ISQ — OD +10.25, osteotome +6.34, under-drilling +11.43(모두 유의), piezo +1.50 NS. OD 서브그룹 3편·CI 넓음(4.97–15.52) → Marzorati 2026 더 엄격(+3.24)과 비교 시 Yu 과대 가능성
+- [[implants/osseodensification/padhye-2020-osseodensification-systematic-review-qualitative-analysis]] — SR(J Oral Biol Craniofac Res 2020, 12편 ~2018.11): OD vs 표준 — IT·BIC·BAFO 평균적 증가; 12편 중 8편 동물 조직학·인간 임상 2편뿐 → 인간 장기 임상으로 외삽 어려움. 정성 분석만, 효과크기 미산출
+- [[implants/osseodensification/inchingolo-2021-osseodensification-implant-site-osteotomy-sr-ma]] — SR+MA(Materials 2021, n=16편 중 임상 11: 동물 8+인간 3): OD vs 표준 — IT·BIC 유의↑; CW(절삭) vs CCW(다짐) OD 간 BIC/토크 차이 있으나 BAFO는 차이 없음. MA가 동물 데이터에 한정
+- [[implants/osseodensification/trisi-2016-osseodensification-low-density-bone-sheep]] — 동물(양, n=2/임플란트 20, 2개월): 표준 드릴링 Ø3.8 좌측 vs OD Ø5.0 Versah 우측 — OD %BV ~30%↑·RT 우수·미세동요↓·치조정 폭경↑. 임플란트 직경 다름(3.8 vs 5.0)으로 OD 효과/직경 효과 교란
+- [[implants/osseodensification/lopez-2017-osseodensification-spinal-surgical-hardware-fixation]] — 동물(양, n=12 양측 paired, 경추 C2·C3·C4, 0/3/6주): OD vs 표준 — pullout 강도 유의↑(p<0.01), BIC p<0.01·BAFO p=0.024 모두 우수. 척추 hardware 모델로 치과 외삽은 별도 추론
+- [[implants/osteotomy-thermal/markovic-2016-effect-surgical-drill-guide-irrigans]] — 소 늑골 in vitro(2×2 요인, n=48): 드릴가이드는 골식립부 입구(entrance)에서만 발열 유의(p<0.001, 최대 +7.48°C), 냉각 5°C saline은 전 깊이에서 발열 억제(p<0.001), 모두 괴사역치(47°C) 미달
+- [[implants/osteotomy-thermal/hu-2019-evaluation-fluid-distribution-implant-site]] — CFD 시뮬레이션(in vitro): 관류량 ≥60 mL/min에서 임플란트 식립와 유체 분포 plateau; drill speed는 저관류량에서만 영향, feed rate는 무영향 (abstract-only)
+- [[implants/osteotomy-thermal/raj-2021-analysis-factors-determining-thermal-changes]] — 우골 in vitro 요인설계(TCRM 2021): 시추속도·수압·세정액온도가 절제부 발열에 상호작용 — 2000rpm/1.2kgf/실온 최고, 2500rpm/2.4kgf/냉각saline 최저, 모두 47°C 미만
+- [[implants/osteotomy-thermal/sener-2009-effects-irrigation-temperature-heat-control]] — 소 하악골 in vitro(COIR 2009, 3/7/12mm 깊이): 10°C saline이 25°C보다 냉각 효과 우수, 얕은 부위(entrance)가 발열 최대
+- [[implants/osteotomy-thermal/kosior-2025-comparative-analysis-histological-characteristics]] — in vitro 조직학(J Clin Med 2025, 드릴 3사 비교, n=54): 4°C 식염수 냉각이 모든 시스템에서 최고 골와동 품질(Hiossen 1200rpm/4°C=15.3/16), 무냉각+고속 최악(5.5/16)
+- [[implants/osteotomy-thermal/kapse-2022-thermal-effect-operatory-room-temperature-surgical]] — 염소 하악골 열화상 연구(in vitro): 관주액 온도(5°C vs 25°C)만 골 발열에 유의(p=0.003), 진료실 실온·드릴직경·깊이는 무효과
+- [[implants/osteotomy-thermal/gehrke-2020-technique-drill-design-osteotomy]] — in vivo 토끼(n=48, Sci Rep 2020): 원통형 드릴에서만 간헐(peck) 동작이 발열 유의 감소(ΔT −2.6°C, p=0.001, −37%); 원추형은 기법 무관(p=0.977); peck 간격 0→3mm/5mm/8mm 명시
+- [[implants/osteotomy-thermal/di-fiore-2018-continuous-intermittent-drilling-temperature]] — in vitro 소 늑골(n=80, JOI 2018): 연속 vs 간헐 기법 간 온도 차 비유의(p=0.45); 냉각 관주(6°C)만 유의(p=0.0001) — 관주 온도가 기법 선택보다 우선
+- [[implants/osseodensification/de-agostinho-neto-2026-in-vitro-evaluation-different-implant-systems]] — 저밀도 소 늑골 in vitro (Sci Rep 2026): 기존 드릴링(SIN)/골밀도화(VERSAH)/골확장기(MAXIMUS) 3종 — 식립토크 35 vs 43.2 vs 59.6 N·cm, 경부·체부·근단부 micro-CT 미세구조 모두 유의차 없음. **단 지표가 골밀도가 아니라 골표면적/부피 비(S/V) 프록시**이고 군당 n=5–8로 검정력 부족 유력 — 초록의 p 부등호도 역방향 오기. 근단부 밀도화 질문을 판정하지 못함(미측정이지 반증 아님)
+- [[implants/osteotomy-thermal/batz-2019-influence-broach-design-bone-friction]] — 정형외과 THA 브로치 준정적 벤치(소 해면골, Clin Biomech 2019): 무딘 추출형·압착형이 예리한 추출형 대비 총 골밀도화 **+117%/+121% (P=.005)** — 작업 방향이 같아도 무딘 형상이면 밀도화되어 **'방향이 아니라 날 형상(geometry)'**을 지목. 밀도화 깊이(압착형 P=.001)·최대 밀도화(무딘 추출형 P=.008) 분리 가능; 예리형 마찰계수 +38%/+37%(P<.001). **치과 기구 미시험 — 기전 근거이지 치과 버 근거 아님**
 
 ## 임플란트 — 표면처리·골유착 (Implant Surface / Osseointegration)
 - [[implants/surface/koshy-2015-dental-implant-surfaces-overview]] — Koshy 2015, titanium implant surface modification methods (additive/subtractive) narrative overview
@@ -2147,7 +2147,7 @@ tags: []
 ### implants (added 2026-05-24)
 
 - [[implants/cicciu-2023-buccal-palatal-bone-thickness-marginal]] — Marco Cicciù 2023 · prospective · Influence of buccal and palatal bone thickness on post-surgical marginal bone changes around implants placed in posterior maxilla: a multi-centre prospective study
-- [[implants/baki-2025-all-on-4-trefoil-five-implant-fea]] — Nagehan Baki 2025 · in-vitro · Biomechanical evaluation of three full-arch immediate loading protocols in the mandible via finite element analysis: All-on-4, Trefoil, and Five-implant design
+- [[implants/full-arch/baki-2025-all-on-4-trefoil-five-implant-fea]] — Nagehan Baki 2025 · in-vitro · Biomechanical evaluation of three full-arch immediate loading protocols in the mandible via finite element analysis: All-on-4, Trefoil, and Five-implant design
 - [[implants/ozturk-2026-stress-distribution-anterior-implant-fea]] — Elif Öztürk 2026 · in-vitro · Stress distribution of an anteriorly placed single implant in different clinical scenarios: a 3D finite element analysis
 
 ### prosthetic-materials (added 2026-05-24)
@@ -2176,10 +2176,10 @@ tags: []
 
 ### implants (added 2026-05-24, batch b)
 
-- [[implants/anitua-2022-short-vs-longer-implants-single-crown]] — Eduardo Anitua 2022 · retrospective · Single-crown restorations in premolar–molar regions: short (≤ 6.5) vs longer implants: retrospective cohort study
-- [[implants/barausse-2024-4mm-short-implants-posterior-atrophic-8year]] — Carlo Barausse 2024 · retrospective · Four-mm-short implants in the rehabilitation of posterior atrophic jaws: A retrospective study on 212 patients with a mean follow-up of 8.02 years
-- [[implants/hockova-2025-short-implants-microvascular-free-flaps]] — Barbora Hocková 2025 · prospective · Quality of life of patients receiving short dental implants in microvascular free flaps: a five year prospective study
-- [[implants/sivolella-2025-extra-short-5-6mm-implants-5year]] — Stefano Sivolella et al. 2025 · retrospective · Extra-short (5–6 mm) implants under immediate loading: 5-year survival, MBL, and the impact of intermediate abutment use
+- [[implants/short-narrow/anitua-2022-short-vs-longer-implants-single-crown]] — Eduardo Anitua 2022 · retrospective · Single-crown restorations in premolar–molar regions: short (≤ 6.5) vs longer implants: retrospective cohort study
+- [[implants/short-narrow/barausse-2024-4mm-short-implants-posterior-atrophic-8year]] — Carlo Barausse 2024 · retrospective · Four-mm-short implants in the rehabilitation of posterior atrophic jaws: A retrospective study on 212 patients with a mean follow-up of 8.02 years
+- [[implants/short-narrow/hockova-2025-short-implants-microvascular-free-flaps]] — Barbora Hocková 2025 · prospective · Quality of life of patients receiving short dental implants in microvascular free flaps: a five year prospective study
+- [[implants/short-narrow/sivolella-2025-extra-short-5-6mm-implants-5year]] — Stefano Sivolella et al. 2025 · retrospective · Extra-short (5–6 mm) implants under immediate loading: 5-year survival, MBL, and the impact of intermediate abutment use
 
 ### oral-surgery (added 2026-05-24, batch b)
 
@@ -2639,8 +2639,8 @@ tags: []
 
 ### implants (added 2026-05-28, batch d)
 
-- [[implants/neiva-2018-effects-osseodensification-astra-tx-ev]] — Rodrigo Neiva 2018 · animal · Effects of osseodensification on Astra TX and EV implant systems
-- [[implants/bergamo-2021-osseodensification-effect-implants-primary-secondary]] — Edmara T. P. Bergamo 2021 · prospective · Osseodensification effect on implants primary and secondary stability: Multicenter controlled clinical trial
+- [[implants/osseodensification/neiva-2018-effects-osseodensification-astra-tx-ev]] — Rodrigo Neiva 2018 · animal · Effects of osseodensification on Astra TX and EV implant systems
+- [[implants/osseodensification/bergamo-2021-osseodensification-effect-implants-primary-secondary]] — Edmara T. P. Bergamo 2021 · prospective · Osseodensification effect on implants primary and secondary stability: Multicenter controlled clinical trial
 
 ### sinus-lift/transcrestal (added 2026-05-28, batch d)
 
@@ -2651,21 +2651,21 @@ tags: []
 
 ### implants (added 2026-05-28, batch e)
 
-- [[implants/soldatos-2024-temperature-changes-osseodensification-cadaver-tibiae-cw-ccw]] — Nikolaos Soldatos 2024 · in-vitro · Temperature Changes (ΔT) in Correlation with Number of Implant Osteotomy Preparations in Human Cadaver Tibiae, Comparing Osseodensification (OD) Burs in Clockwise (CW) versus Counterclockwise (CCW) Mode
-- [[implants/mohammadi-2025-osseodensification-conventional-low-density-bone-sr-ma]] — Maryam Mohammadi 2025 · sr+ma · Primary and secondary stability in implants placed in low-density bone using conventional vs. osseodensification technique: a systematic review and meta-analysis
+- [[implants/osseodensification/soldatos-2024-temperature-changes-osseodensification-cadaver-tibiae-cw-ccw]] — Nikolaos Soldatos 2024 · in-vitro · Temperature Changes (ΔT) in Correlation with Number of Implant Osteotomy Preparations in Human Cadaver Tibiae, Comparing Osseodensification (OD) Burs in Clockwise (CW) versus Counterclockwise (CCW) Mode
+- [[implants/osseodensification/mohammadi-2025-osseodensification-conventional-low-density-bone-sr-ma]] — Maryam Mohammadi 2025 · sr+ma · Primary and secondary stability in implants placed in low-density bone using conventional vs. osseodensification technique: a systematic review and meta-analysis
 - [[implants/kniha-2026-zirconia-titanium-microbial-anterior-rct]] — Kniha 2026 · RCT · Split-mouth RCT (n=20, 12 mo, 16S rRNA): zirconia implants showed higher microbial diversity and less pathogenic taxa at 12 months vs titanium; beta diversity equivalent; no definitive clinical superiority of either material
 
 ### implants/versah-protocols (added 2026-05-28, batch e)
 
-- [[implants/versah-protocols/versah-combined-molar-septum-expansion-sinus-lift-protocol]] — Versah LLC 2024 · narrative-review · Osseodensification Combined Upper Molar Septum Expansion with Crestal Sinus Lift Protocol
-- [[implants/versah-protocols/versah-densah-sinus-lift-i-protocol-rbh-6mm-minimum]] — Versah LLC 2024 · narrative-review · Osseodensification-Facilitated Crestal Sinus Lift Protocol I (Densah® Lift I, REV09)
-- [[implants/versah-protocols/versah-densah-sinus-lift-ii-protocol-rbh-4-5mm]] — Versah LLC 2024 · narrative-review · Osseodensification-Facilitated Crestal Sinus Lift Protocol II (Densah® LIFT II, REV08)
-- [[implants/versah-protocols/versah-idr-ii-immediate-dentoalveolar-restoration-protocol]] — Versah LLC 2024 · narrative-review · Osseodensification Immediate Dentoalveolar Restoration (IDR) II Technique (REV06)
-- [[implants/versah-protocols/versah-immediate-implant-placement-protocol]] — Versah LLC 2024 · narrative-review · Osseodensification Immediate Implant Placement Protocol
-- [[implants/versah-protocols/ali-2026-osseodensification-techniques-implant-stability-maxilla]] — Ali 2026 · RCT · Split-mouth RCT: Densah bur vs Magnetic Mallet OD in maxillary anterior zone — DB higher ISQ (70.1 vs 49.0) and labial plate thickness; bone density equivalent at 6 months
-- [[implants/versah-protocols/tao-2025-optimizing-osseodensification-drilling-implant]] — Tao 2025 · in-vitro (PFB Type IV, 48블록) · OD/Densah가 CD 대비 삽입토크↑(11.73 vs 7.77 N·m)·벽결함↓·발열↓이나 ISQ 동등(47.1 vs 46.7, NS); 권장 1500rpm/0.04mm·z/관주
-- [[implants/versah-protocols/barbera-millan-2021-primary-stability-low-density-osseodensification]] — Barberá-Millán 2021 · in-vitro (돼지경골 D4, n=55/군) · OD vs 통상 under-drilling: OD 삽입토크 21.72 vs 8.87 Ncm·ISQ 69.75 vs 65.16 모두 우월(p≤.001)
-- [[implants/versah-protocols/rittipakorn-2025-clockwise-osseodensification-primary-stability-cadaveric]] — Rittipakorn 2025 · in-vitro · Human cadaveric tibia (40 implants, D3/D4): novel clockwise OD (800 rpm) vs standard drilling — higher but NS ISQ (67.5 vs 62.9) & IT (34 vs 29.5 Ncm), tighter IQR, significant IT–ISQ correlation only in OD (ρ=0.577)
+- [[implants/osseodensification/versah-combined-molar-septum-expansion-sinus-lift-protocol]] — Versah LLC 2024 · narrative-review · Osseodensification Combined Upper Molar Septum Expansion with Crestal Sinus Lift Protocol
+- [[implants/osseodensification/versah-densah-sinus-lift-i-protocol-rbh-6mm-minimum]] — Versah LLC 2024 · narrative-review · Osseodensification-Facilitated Crestal Sinus Lift Protocol I (Densah® Lift I, REV09)
+- [[implants/osseodensification/versah-densah-sinus-lift-ii-protocol-rbh-4-5mm]] — Versah LLC 2024 · narrative-review · Osseodensification-Facilitated Crestal Sinus Lift Protocol II (Densah® LIFT II, REV08)
+- [[implants/osseodensification/versah-idr-ii-immediate-dentoalveolar-restoration-protocol]] — Versah LLC 2024 · narrative-review · Osseodensification Immediate Dentoalveolar Restoration (IDR) II Technique (REV06)
+- [[implants/osseodensification/versah-immediate-implant-placement-protocol]] — Versah LLC 2024 · narrative-review · Osseodensification Immediate Implant Placement Protocol
+- [[implants/osseodensification/ali-2026-osseodensification-techniques-implant-stability-maxilla]] — Ali 2026 · RCT · Split-mouth RCT: Densah bur vs Magnetic Mallet OD in maxillary anterior zone — DB higher ISQ (70.1 vs 49.0) and labial plate thickness; bone density equivalent at 6 months
+- [[implants/osseodensification/tao-2025-optimizing-osseodensification-drilling-implant]] — Tao 2025 · in-vitro (PFB Type IV, 48블록) · OD/Densah가 CD 대비 삽입토크↑(11.73 vs 7.77 N·m)·벽결함↓·발열↓이나 ISQ 동등(47.1 vs 46.7, NS); 권장 1500rpm/0.04mm·z/관주
+- [[implants/osseodensification/barbera-millan-2021-primary-stability-low-density-osseodensification]] — Barberá-Millán 2021 · in-vitro (돼지경골 D4, n=55/군) · OD vs 통상 under-drilling: OD 삽입토크 21.72 vs 8.87 Ncm·ISQ 69.75 vs 65.16 모두 우월(p≤.001)
+- [[implants/osseodensification/rittipakorn-2025-clockwise-osseodensification-primary-stability-cadaveric]] — Rittipakorn 2025 · in-vitro · Human cadaveric tibia (40 implants, D3/D4): novel clockwise OD (800 rpm) vs standard drilling — higher but NS ISQ (67.5 vs 62.9) & IT (34 vs 29.5 Ncm), tighter IQR, significant IT–ISQ correlation only in OD (ρ=0.577)
 
 ### periodontics (added 2026-05-28, batch e)
 
@@ -3055,7 +3055,7 @@ tags: []
 - [[implants/surface/rehner-2025-dental-implants-nanoparticle-coatings-review]] — Rehner 2025 · narrative-review: 나노입자 코팅 in vitro/in vivo — 골유착·세포부착·항균(주위염 억제) 향상
 
 #### implants — loading protocol
-- [[implants/kern-2018-single-implants-edentulous-mandible-immediate]] — Kern 2018 · rct (24mo): 하악 정중부 단일 임플란트 즉시하중 비열등성 미입증 — 즉시군 조기실패 9개 vs 지연군 1개
+- [[implants/full-arch/kern-2018-single-implants-edentulous-mandible-immediate]] — Kern 2018 · rct (24mo): 하악 정중부 단일 임플란트 즉시하중 비열등성 미입증 — 즉시군 조기실패 9개 vs 지연군 1개
 
 #### caries — prevention / nonrestorative
 - [[caries/ahovuo-saloranta-2017-pit-fissure-sealants-permanent-teeth]] — Ahovuo-Saloranta 2017 · sr+ma (CD001830.pub5; RCT 38편, 7924명): 레진계 열구전색이 무전색 대비 24개월 교합면 우식 11–51% 감소(OR 0.12, 중등도 확실성)
@@ -3091,14 +3091,14 @@ tags: []
 - [[immediate-implant/bineviciute-2024-attitudes-surgeons-immediate-implant-survey]] — Bineviciute 2024 · cross-sectional (186명 설문): 즉시식립 주 금기는 치근단병소 >5mm(91.7/96.9%), 소켓 형태 분류체계 사용 ~34–43% 불과
 
 #### implants — loading protocol / full-arch / tilted
-- [[implants/benic-2014-loading-protocols-single-implant-crowns-sr-ma]] — Benic 2014 · sr+ma (11 RCT): 단관 즉시 vs 통상 로딩 생존·MBL 5년까지 동등 — 토크 ≥20–45 Ncm 또는 ISQ ≥60–65·동시증대 불필요 조건
-- [[implants/liu-2021-immediate-delayed-loading-overdenture-mbl-sr-ma]] — Liu 2021 · sr+ma (5 RCT+2코호트·191pt): 하악 비연결형 오버덴처 즉시 vs 지연 로딩 MBL 동등, 즉시군 실패율 수치상 높음(5.03% vs 1.00%)
-- [[implants/abdunabi-2019-immediately-loaded-maxillary-full-arch-sr]] — Abdunabi 2019 · sr (4 CCT): 무치악 상악 전악 즉시 로딩 — 만족도·합병증 차이 약한 근거만, 메타분석 불가
-- [[implants/mehta-2021-tilted-axial-implants-edentulous-maxilla-sr-ma]] — Mehta 2021 · sr+ma (11편): 위축 무치악 상악 즉시 로딩에서 경사 vs 축방향 임플란트 3년 생존(RR 1.00)·MBL 동등
-- [[implants/lin-2018-clinical-performance-tilted-versus-axial]] — Lin & Eckert 2018 · sr (42편, level I–II): 무치악 경사 vs 수직 임플란트 — 생존율·MBL·보철생존·PROMs 모두 유의차 없음
+- [[implants/loading-protocol/benic-2014-loading-protocols-single-implant-crowns-sr-ma]] — Benic 2014 · sr+ma (11 RCT): 단관 즉시 vs 통상 로딩 생존·MBL 5년까지 동등 — 토크 ≥20–45 Ncm 또는 ISQ ≥60–65·동시증대 불필요 조건
+- [[implants/full-arch/liu-2021-immediate-delayed-loading-overdenture-mbl-sr-ma]] — Liu 2021 · sr+ma (5 RCT+2코호트·191pt): 하악 비연결형 오버덴처 즉시 vs 지연 로딩 MBL 동등, 즉시군 실패율 수치상 높음(5.03% vs 1.00%)
+- [[implants/full-arch/abdunabi-2019-immediately-loaded-maxillary-full-arch-sr]] — Abdunabi 2019 · sr (4 CCT): 무치악 상악 전악 즉시 로딩 — 만족도·합병증 차이 약한 근거만, 메타분석 불가
+- [[implants/full-arch/mehta-2021-tilted-axial-implants-edentulous-maxilla-sr-ma]] — Mehta 2021 · sr+ma (11편): 위축 무치악 상악 즉시 로딩에서 경사 vs 축방향 임플란트 3년 생존(RR 1.00)·MBL 동등
+- [[implants/full-arch/lin-2018-clinical-performance-tilted-versus-axial]] — Lin & Eckert 2018 · sr (42편, level I–II): 무치악 경사 vs 수직 임플란트 — 생존율·MBL·보철생존·PROMs 모두 유의차 없음
 - [[implants/del-fabbro-2014-marginal-bone-axial-tilted-sr-ma]] — Del Fabbro & Ceresoli 2014 · sr+ma (19편, n=670): 경사 vs 수직 임플란트 MBL 1년(0.34–1.14 vs 0.43–1.13 mm) — NS (P=.09); 상악 생존 97.4% < 하악 99.6%
-- [[implants/del-fabbro-2022-full-arch-tilted-axial-implants-sr-ma]] — Del Fabbro 2022 · sr+ma (24편, n=2,637, 3–18yr): 임플란트 생존 93.91%·보철 99.31%; 수직(axial) MBL < 경사(tilted) P<.0001; 악궁 무관
-- [[implants/bilgi-ozyetim-2025-biomechanical-comparison-implant-inclinations]] — Bilgi-Ozyetim 2025 · in-vitro FEA (무치악 하악 All-on-4, 17°/30°/45° × 나사/시멘트): 경사↑→응력↑이나 전 모델 안전범위; 시멘트 유지가 나사 유지보다 프레임워크 응력 3.5배↓
+- [[implants/full-arch/del-fabbro-2022-full-arch-tilted-axial-implants-sr-ma]] — Del Fabbro 2022 · sr+ma (24편, n=2,637, 3–18yr): 임플란트 생존 93.91%·보철 99.31%; 수직(axial) MBL < 경사(tilted) P<.0001; 악궁 무관
+- [[implants/full-arch/bilgi-ozyetim-2025-biomechanical-comparison-implant-inclinations]] — Bilgi-Ozyetim 2025 · in-vitro FEA (무치악 하악 All-on-4, 17°/30°/45° × 나사/시멘트): 경사↑→응력↑이나 전 모델 안전범위; 시멘트 유지가 나사 유지보다 프레임워크 응력 3.5배↓
 - [[implants/katsoulis-2017-misfit-implant-prosthesis-clinical-outcomes-sr]] — Katsoulis 2017 · sr (FOR 합의, 10편): 임플란트 보철 미스피트 → 나사 합병증 연관; 골 소실 영향 불명; 최대 허용 미스피트 한계값 미정
 - [[implants/couso-queiruga-2025-misfit-implant-prosthesis-bone-loss]] — Couso-Queiruga 2025 · retrospective (n=505, 10.6yr, Bern): 갭 ≥0.1 mm → DIB 유의 증가(3.45 vs 3.22 mm); 0.1 mm당 +0.08 mm 골소실; 흡연·치주병력 독립 위험인자
 - [[implants/jokstad-2014-3d-misfit-implant-prosthesis-long-term]] — Jokstad 2014 · retrospective (n=30, 평균 19yr): 미스피트 평균 150 μm; 골소실 상관 약함(R²=0.04); 나사 합병증군 미스피트 유의하게 높음(169 vs 134 μm, P=.005)
@@ -3239,9 +3239,9 @@ tags: []
 ### Batch ingest (added 2026-06-10) — low-density-bone osteotomy / short-implant-vs-sinus / transcrestal OD / PROM
 
 #### implants — low-density bone osteotomy & drilling technique
-- [[implants/tabassum-2021-undersized-axial-compression-primary-stability]] — Tabassum 2021 · animal (goat, 44 implants): 측방(undersized)+축방향(under-depth) 압축 결합 시 식립토크·%BIC 유의 증가, 저밀도골 대체 술식
-- [[implants/el-kholey-2019-drilling-technique-low-density-bone-sr]] — El-Kholey 2019 · sr (15편): undersized·osteotome·Piezo·OD 4술식 모두 일차안정성↑이나 장기 생존 우월 근거 약함 (일차안정성 ≠ 장기성공)
-- [[implants/gehrke-2021-healing-chambers-macrogeometry-low-density-drilling]] — Gehrke 2021 · in-vitro (120 implants, polyurethane): undersized는 PCF-20에서만 안정성↑, 최저밀도 PCF-10 한계; healing-chamber macrogeometry가 표면 잔류골 확보
+- [[implants/osteotomy-thermal/tabassum-2021-undersized-axial-compression-primary-stability]] — Tabassum 2021 · animal (goat, 44 implants): 측방(undersized)+축방향(under-depth) 압축 결합 시 식립토크·%BIC 유의 증가, 저밀도골 대체 술식
+- [[implants/osteotomy-thermal/el-kholey-2019-drilling-technique-low-density-bone-sr]] — El-Kholey 2019 · sr (15편): undersized·osteotome·Piezo·OD 4술식 모두 일차안정성↑이나 장기 생존 우월 근거 약함 (일차안정성 ≠ 장기성공)
+- [[implants/osteotomy-thermal/gehrke-2021-healing-chambers-macrogeometry-low-density-drilling]] — Gehrke 2021 · in-vitro (120 implants, polyurethane): undersized는 PCF-20에서만 안정성↑, 최저밀도 PCF-10 한계; healing-chamber macrogeometry가 표면 잔류골 확보
 
 #### sinus-lift/lateral — short implant vs sinus augmentation
 - [[sinus-lift/lateral/chaware-2021-short-vs-long-implant-sinus-graft-sr-ma]] — Chaware 2021 · sr+ma (22 RCT·667pt·1595 implants): short(graftless) vs long+sinus graft 생존율·변연골흡수 유의차 없음(I²=0%), 합병증 유형만 상이
@@ -3265,13 +3265,13 @@ tags: []
 
 #### sinus-lift/lateral & implants — short implant vs sinus augmentation (overview 보강)
 - [[sinus-lift/lateral/thoma-2024-short-6mm-vs-long-implants-sinus-elevation-10year-rct]] — Thoma 2024 · rct 10년(77pt/105impl): 6mm vs 11–15mm+SFE 생존 96.0% vs 100%(NS)·중앙 MBL 0.00mm·주위염 4.2% vs 13.3% → 단기보다 강한 장기 anchor
-- [[implants/xu-2020-short-vs-longer-implants-posterior-5year-sr-ma]] — Xu 2020 · sr+ma ≥5년: 하악 short≈long, 상악 short 생존 더 낮을 수 있음, 생물학적 합병증 적음 (부위 의존성)
+- [[implants/short-narrow/xu-2020-short-vs-longer-implants-posterior-5year-sr-ma]] — Xu 2020 · sr+ma ≥5년: 하악 short≈long, 상악 short 생존 더 낮을 수 있음, 생물학적 합병증 적음 (부위 의존성)
 - [[implants/emfietzoglou-2024-short-implants-6mm-survival-posterior-edentulism-sr]] — Emfietzoglou 2024 · sr(RCT): ≤6mm vs >6mm 거친표면, 골재생 대안으로서 생존·MBL·주위염 평가
-- [[implants/arbildo-vega-2025-short-vs-standard-implants-edentulous-umbrella-review]] — Arbildo-Vega 2025 · umbrella(60 SR): 생존·실패·보철 합병증 유의차 없음, short가 MBL·생물학적 합병증 적음(high-confidence)
+- [[implants/short-narrow/arbildo-vega-2025-short-vs-standard-implants-edentulous-umbrella-review]] — Arbildo-Vega 2025 · umbrella(60 SR): 생존·실패·보철 합병증 유의차 없음, short가 MBL·생물학적 합병증 적음(high-confidence)
 
 #### implants & implants/isq — primary stability 결정요인 (macrogeometry·undersizing·cortical bone)
 - [[implants/heimes-2023-macrogeometry-primary-stability-implants-narrative-review]] — Heimes 2023 · narrative-review: macrogeometry(직경·테이퍼·나사·거친표면)가 골접촉 면적·일차안정성 결정
-- [[implants/di-stefano-2018-undersizing-tapping-bic-primary-stability-bovine-histomorphometric]] — Di Stefano 2018 · in-vitro(소 늑골): 토크-깊이 적분이 tapped·undersized 부위에서도 BIC·안정성 반영, undersizing-안정성 선형
+- [[implants/osteotomy-thermal/di-stefano-2018-undersizing-tapping-bic-primary-stability-bovine-histomorphometric]] — Di Stefano 2018 · in-vitro(소 늑골): 토크-깊이 적분이 tapped·undersized 부위에서도 BIC·안정성 반영, undersizing-안정성 선형
 - [[implants/isq/cappare-2015-initial-bic-insertion-torque-depth-integral-in-vivo]] — Capparé 2015 · prospective(in vivo): 순간 토크측정 모터 토크/깊이 적분과 초기 BIC 상관 (webpage capture, 수치 미검증)
 - [[implants/isq/nkenke-2003-implant-stability-histomorphometry-cadaver-correlation]] — Nkenke 2003 · in-vitro(인체 cadaver, 48impl): 일차안정성-CT 골밀도·histomorphometry 상관 (고전 anchor, webpage capture)
 - [[implants/isq/al-juboori-2024-cortical-thickness-implant-stability-sr]] — Al-Juboori 2024 · sr: 두꺼운 cortical bone이 일차·이차 안정성 모두 향상(IT·ISQ 상승)
@@ -3327,9 +3327,9 @@ tags: []
 
 ### implants — tissue-level vs bone-level & loading biology
 - [[implants/elchaar-2021-tapered-self-cutting-tissue-level-minipig]] — Animal (minipig, 48 implants, 12 wk) non-inferiority: fully tapered self-cutting tissue-level implant vs Standard Plus — non-inferior BIC, superior crestal bone maintenance, 4–5× higher insertion torque [animal]
-- [[implants/lombardi-2025-bone-level-tissue-level-short-implants-maxilla]] — Prospective case–control (n=71 short implants, 1 yr, posterior maxilla): tissue-level less bone remodeling than bone-level (0.30 vs 0.55 mm, p=0.003); 100% survival both groups [retrospective]
-- [[implants/aiquel-2021-timing-placement-loading-multiple-unit-sr-ma]] — SR+MA (14 studies, ≥3 yr) placement/loading timing for multiple-unit implant FDPs: all protocols >90% survival except IPIL; DPIL vs DPDL NS (p=.227); GRADE very low [sr+ma]
-- [[implants/witek-2021-surgical-instrumentation-narrow-wide-short-implants]] — Witek/Coelho sheep study (144 implants): irrigation effect on BIC is diameter- and speed-dependent; BAFO governed by healing duration (abstract-only source) [animal]
+- [[implants/short-narrow/lombardi-2025-bone-level-tissue-level-short-implants-maxilla]] — Prospective case–control (n=71 short implants, 1 yr, posterior maxilla): tissue-level less bone remodeling than bone-level (0.30 vs 0.55 mm, p=0.003); 100% survival both groups [retrospective]
+- [[implants/loading-protocol/aiquel-2021-timing-placement-loading-multiple-unit-sr-ma]] — SR+MA (14 studies, ≥3 yr) placement/loading timing for multiple-unit implant FDPs: all protocols >90% survival except IPIL; DPIL vs DPDL NS (p=.227); GRADE very low [sr+ma]
+- [[implants/short-narrow/witek-2021-surgical-instrumentation-narrow-wide-short-implants]] — Witek/Coelho sheep study (144 implants): irrigation effect on BIC is diameter- and speed-dependent; BAFO governed by healing duration (abstract-only source) [animal]
 - [[implants/baldassarri-2012-mechanical-properties-plateau-root-form]] — Nanoindentation human retrieval (n=30, 0.3–24 y): peri-implant cortical bone modulus & hardness rise in first ~5 y then plateau [retrospective]
 - [[implants/gil-2015-progressive-plateau-root-form-osseointegration-retrieval]] — Human retrieval (n=93 plateau root form, 120 d–18 y): BIC & BAFO increase progressively with functional loading time [retrospective]
 - [[implants/zhang-2021-tissue-level-bone-level-fresh-extraction-sockets-dogs]] — Dog histomorphometry (6 dogs, 24 implants): TL vs BL in fresh sockets — no difference in vertical resorption; BL wider lingual biologic width at 1 mm subcrestal [animal]
@@ -3557,7 +3557,7 @@ tags: []
 
 ## 임플란트·약물 — 조기 임플란트 실패 (Early Implant Failure, 보철 로딩 전) surveillance batch (added 2026-06-22)
 - [[implants/yari-2023-risk-factors-early-implant-failure]] — Yari 2023 · retrospective(임플란트 1323개/환자 738명, 조기실패 53건) · 보철 로딩 전 조기 실패 다변량 위험인자: 즉시잠정보철 OR 3.42·후방상악 2.96·4형골 2.88·치주발치부위 2.53·증대부위 2.24·흡연 1.84 (abstract-only) (DOI 10.1016/j.jormas.2023.101749)
-- [[implants/uesugi-2024-risk-factors-early-failure-all-on-four]] — Uesugi 2024 · retrospective(환자 561명/임플란트 2364개, all-on-four 즉시로딩) · 1년 생존 상악 98.9% vs 하악 99.6%; 다변량 위험인자 상악 OR 3.12·흡연 2.92, 광기능화 OR 0.51(NS) (DOI 10.3390/bioengineering11030223)
+- [[implants/full-arch/uesugi-2024-risk-factors-early-failure-all-on-four]] — Uesugi 2024 · retrospective(환자 561명/임플란트 2364개, all-on-four 즉시로딩) · 1년 생존 상악 98.9% vs 하악 99.6%; 다변량 위험인자 상악 OR 3.12·흡연 2.92, 광기능화 OR 0.51(NS) (DOI 10.3390/bioengineering11030223)
 - [[drug/antibiotics/momand-2024-antibiotic-prophylaxis-early-implant-failure]] — Momand 2024 · sr+ma(위약대조 이중맹검 RCT 7편, 환자 1859명/임플란트 3014개) · 술전 항생제 예방이 조기 실패 못 줄임 RR 0.66(NS)·NNT 143·GRADE 중간 — 통상 예방 근거 부족 (DOI 10.1186/s12903-024-04611-0)
 - [[overviews/early-implant-failure-risk-prevention-overview]] — **NEW Overview**: 조기 임플란트 실패(보철 로딩 전) 위험인자·예방 종합 (7편). EIF는 골유착 *획득* 실패(후기 실패와 구분), 발생률 임플란트 단위 ≈1~4%. 결정인자는 숙주(흡연 OR 2.59·당뇨 RR 2.75·방사선 2.73)×골질/부위(후방상악·4형골·증대/부비동부위)×술식(즉시로딩 OR 3.42). 핵심 레버는 금연·부위/골질 인지 계획·보수적 로딩이며, 통상적 항생제 예방은 무효(NNT 143)·스튜어드십상 지양 (2026-06-22)
 
@@ -3570,15 +3570,15 @@ tags: []
 - [[overviews/ceraseal-bioceramic-sealer-clinical-material-synthesis]] — **NEW Overview**: 세라실(Ceraseal) 프리믹스 칼슘실리케이트 생체세라믹 실러 임상×물성·생체적합성 종합 (10편: 전향코호트 2·RCT 2·in-vitro 6). 24~36개월 치유(91~92%)·생존(93~98%)이 AH Plus gold standard와 동등(Spinelli 단일콘 36mo 92.7%/92.1%·치수염괴사 100%; Zamparini warm carrier 91.1% vs 88.6% NS); 술후통증 AH Plus>세라실(Abada RCT p<0.001); 재근관치료 제거성 우위(Shim 92.5% vs 에폭시 87.1%); 생체활성(Maharti 아파타이트·pH11.5)·set 후 무독성(Kumar 24h 96.4%). 핵심 임상 레버는 실러 선택이 아니라 정밀충전(미경화 과충전 회피); 근거 한계=추적 ≤36mo·SR/MA 부재 (2026-06-23)
 
 ### implants — Rittipakorn-2025 reference surveillance ingest (PMC full-text, added 2026-06-24)
-- [[implants/versah-protocols/moghaddas-2025-osseodensification-standard-drilling-isq-itv]] — Moghaddas 2025 · prospective · OD raised insertion torque ~37% over SD (50.3 vs 36.1 Ncm, p<0.001) but no ISQ difference at placement or 3mo; both >68
+- [[implants/osseodensification/moghaddas-2025-osseodensification-standard-drilling-isq-itv]] — Moghaddas 2025 · prospective · OD raised insertion torque ~37% over SD (50.3 vs 36.1 Ncm, p<0.001) but no ISQ difference at placement or 3mo; both >68
 - [[immediate-implant/primary-stability/sierra-rebolledo-2021-undersized-drilling-immediate-tapered-implants-maxilla]] — Sierra-Rebolledo 2021 · rct · n=30 immediate maxillary implants; undersized drilling did NOT improve stability (IT 41.36 vs 38.44 Ncm p=0.654; ISQ higher in conventional, 12wk mean 68.10)
 - [[implants/isq/ayub-2025-implant-macro-geometry-primary-stability-low-density]] — Ayub 2025 · in-vitro · 36-implant polyurethane test; Zimmer TSV highest IT/RT, Dentium Superline highest ISQ in bone types 3–4 (all p<0.001)
 - [[implants/khaohoen-2023-biomaterials-dental-implants-bone-density-narrative-review]] — Khaohoen 2023 · narrative-review · In low-density (D3–D4) bone, implant material (Ti gold standard), geometry, and surgical technique (osseodensification) jointly govern primary stability and success
-- [[implants/chen-2022-reverse-drilling-technique-alveolar-ridge-expansion]] — Chen 2022 · in-vitro · Reverse (counter-clockwise) Densah osseodensification drilling expands narrow (6.75 mm) ridges but seats implants shallower from bone stress/rebound
-- [[implants/versah-protocols/guner-2025-osseodensification-ridge-split-implant-stability]] — Guner 2025 · retrospective · OD vs conventional Esset kit in ridge-split (n=268, 65 pts): OD significantly higher ISQ in maxilla & mandibular posterior (all OD ≥65); bone gain equivalent
-- [[implants/versah-protocols/mercier-2022-osseodensification-primary-stability-cadavers]] — Mercier 2022 · in-vitro · Cadaveric mandibles (21, 58 implants): OD significantly raised IT (34.9 vs 23.6 Ncm, p=0.036) & bone density (p=0.026); OD IT ≈ Rittipakorn OD IT (34.0)
-- [[implants/versah-protocols/koutouzis-2025-osteotomy-preparation-short-implants-stability]] — Koutouzis 2025 · animal · Porcine tibia, 90 short 6mm implants: OD IT benefit only for wide (5.4mm) implants (50.0 vs 28.0 Ncm, p=0.005); narrow (4.2mm) no advantage; histomorphometry unchanged
-- [[implants/shilpi-2025-osseodensification-conventional-low-bone-sr-ma]] — Shilpi 2025 · sr+ma · 6 human RCT/NRCT, low-density bone: ISQ NS (immediate SMD 2.13 p=0.06; follow-up p=0.11); bone density significant immediately (SMD 2.14, p=0.004) but NS at 3–7mo — mirrors Mohammadi 2025
+- [[implants/osteotomy-thermal/chen-2022-reverse-drilling-technique-alveolar-ridge-expansion]] — Chen 2022 · in-vitro · Reverse (counter-clockwise) Densah osseodensification drilling expands narrow (6.75 mm) ridges but seats implants shallower from bone stress/rebound
+- [[implants/osseodensification/guner-2025-osseodensification-ridge-split-implant-stability]] — Guner 2025 · retrospective · OD vs conventional Esset kit in ridge-split (n=268, 65 pts): OD significantly higher ISQ in maxilla & mandibular posterior (all OD ≥65); bone gain equivalent
+- [[implants/osseodensification/mercier-2022-osseodensification-primary-stability-cadavers]] — Mercier 2022 · in-vitro · Cadaveric mandibles (21, 58 implants): OD significantly raised IT (34.9 vs 23.6 Ncm, p=0.036) & bone density (p=0.026); OD IT ≈ Rittipakorn OD IT (34.0)
+- [[implants/osseodensification/koutouzis-2025-osteotomy-preparation-short-implants-stability]] — Koutouzis 2025 · animal · Porcine tibia, 90 short 6mm implants: OD IT benefit only for wide (5.4mm) implants (50.0 vs 28.0 Ncm, p=0.005); narrow (4.2mm) no advantage; histomorphometry unchanged
+- [[implants/osseodensification/shilpi-2025-osseodensification-conventional-low-bone-sr-ma]] — Shilpi 2025 · sr+ma · 6 human RCT/NRCT, low-density bone: ISQ NS (immediate SMD 2.13 p=0.06; follow-up p=0.11); bone density significant immediately (SMD 2.14, p=0.004) but NS at 3–7mo — mirrors Mohammadi 2025
 
 ## 감염관리·소독·멸균 (Infection Control / Sterilization / Disinfection) — NEW category (added 2026-06-27)
 - [[infection-control/patino-marin-2025-sterilization-disinfection-dental-practices]] — Narrative review: dental sterilization/disinfection methods overview (autoclave, chemical, UV, vaporized H₂O₂, EtO, ozone), biological indicator protocols, sterile storage guidelines; Cureus 2025
@@ -3621,10 +3621,10 @@ tags: []
 - [[dental-handpiece/senpuku-2021-effects-extraoral-suction-droplets]] — Senpuku 2021 · in-vivo (실진료실, 자원자 3명) · 구강외흡인 추가 시 체어 좌후방 위치 세균 CFU가 구강내흡인 단독보다 유의하게 추가 감소, 보호효과는 체어 좌측·후방(보조인력 위치)에 국한 (DOI 10.3390/dj9070080)
 
 ### New batch — 2026-06-28 ingest (implants·immediate-implant·ISQ·surface·occlusion·zirconia)
-- [[implants/esposito-2013-loading-times-dental-implants-cochrane]] — Cochrane SR+MA (26 RCTs, n=1217): no significant difference between immediate/early/conventional loading for implant survival; insertion torque ≥35 Ncm prerequisite; GRADE very low (Esposito 2013)
+- [[implants/loading-protocol/esposito-2013-loading-times-dental-implants-cochrane]] — Cochrane SR+MA (26 RCTs, n=1217): no significant difference between immediate/early/conventional loading for implant survival; insertion torque ≥35 Ncm prerequisite; GRADE very low (Esposito 2013)
 - [[implants/chrcanovic-2014-flapless-vs-conventional-implant-surgery-ma]] — SR+MA (23 studies): flapless surgery RR 1.75 higher failure overall, but NS in low-risk-of-bias subgroup; no MBL or infection difference (Chrcanovic 2014)
 - [[implants/popelut-2010-sponsorship-implant-failure-rate-sr]] — SR (41 trials): industry-sponsored implant studies report ~5× lower annual failure rates (OR 0.21); 63% trials never disclosed funding (Popelut 2010)
-- [[implants/barbosa-2021-narrow-implants-one-two-piece-fea]] — FEA: 2.5 mm extra-narrow one-piece implant exceeds Ti yield strength under angled loading; 3.0 mm one-piece and 3.5 mm Morse taper two-piece safe (Barbosa 2021)
+- [[implants/short-narrow/barbosa-2021-narrow-implants-one-two-piece-fea]] — FEA: 2.5 mm extra-narrow one-piece implant exceeds Ti yield strength under angled loading; 3.0 mm one-piece and 3.5 mm Morse taper two-piece safe (Barbosa 2021)
 - [[implants/musskopf-2022-minipig-intraoral-implant-model-sr-ma]] — SR+MA (55 studies): minipig intraoral implant model; mean BIC 59.88%, time-dependent osseointegration benchmarks; reference for pre-clinical study design (Musskopf 2022)
 - [[implants/mohammed-2026-bite-force-implant-stability]] — Prospective cohort (n=80, 18mo): bite force and ISQ significantly associated under immediate loading; posterior > anterior, males > females (Mohammed 2026)
 - [[immediate-implant/esposito-2010-fresh-extraction-sockets-immediate-cochrane]] — Cochrane SR+MA (7 RCTs): immediate vs immediate-delayed vs delayed implant placement; no clear timing winner; early placement +aesthetics but +complications (Esposito 2010)
@@ -3633,12 +3633,12 @@ tags: []
 - [[implants/isq/chatvaratthana-2017-cortical-bone-crestal-buccolingual-isq]] — Prospective (n=19, Conelog): crestal cortical bone thickness r=0.885 with ISQ; only 3 mm depth significant; 6 mm and 9 mm depths NS (Chatvaratthana 2017)
 - [[implants/isq/lee-2024-primary-implant-stability-isq-devices-invitro]] — In vitro: Osstell Beacon+ (ISQ) vs Anycheck (IST) comparison across bone densities/implant lengths; equivalent trends, Anycheck operator-independent (Lee 2024)
 - [[implants/surface/czumbel-2019-sandblasting-implant-failure-rate-sr-ma]] — SR+MA (7 RCTs, n=722): sandblasted implants reduce failure rate 80% at 1yr / 74% at 5yr vs machined; no MBL difference (Czumbel 2019)
-- [[implants/versah-protocols/de-lima-2026-osseodensification-vs-conventional-drilling-exvivo]] — Ex vivo (n=16 bovine rib): Densah/WF osseodensification kits significantly improve insertion/removal torque vs conventional in type IV bone; ISQ and temperature NS (de Lima 2026)
+- [[implants/osseodensification/de-lima-2026-osseodensification-vs-conventional-drilling-exvivo]] — Ex vivo (n=16 bovine rib): Densah/WF osseodensification kits significantly improve insertion/removal torque vs conventional in type IV bone; ISQ and temperature NS (de Lima 2026)
 - [[implants/seijas-naya-2025-concave-straight-abutment-bone-rct]] — 24-month RCT: concave abutments reduce MBL in surgical healing phase (−0.18 vs −0.54 mm, p=0.002); height mitigates bone loss in concave group but worsens it in straight group (interaction p<0.01) (2025)
-- [[implants/szabo-2022-all-on-four-tilted-distal-implants-mbl]] — Retrospective (n=36, 288 All-on-Four implants, 3.5yr): 100% survival; tilted>axial MBL at all time points; 3.5yr maxilla 0.770 mm, mandible 0.713 mm; 14DA/24DA highest-risk positions; smoking amplifies per-position loss (Szabó 2022)
-- [[implants/coskunses-2021-narrow-diameter-implants-full-arch-fixed]] — Prospective (n=28, 37 jaws, 179 Roxolid BLT, NDI 3.3mm+standard, 2yr): CSR 99.4%, NDI 98.5%; 6-implant MBL lower than 4-implant (0.35 vs 0.63mm, P=0.006); NDI 2yr MBL 1.02mm>standard 0.44mm (P=0.035) (Coskunses 2021)
-- [[implants/eskan-2020-tapered-implants-full-arch-immediate-function]] — Retrospective (n=42, 171 BLT, 55mo): survival 97.7%; 2yr MBL 0.15mm — among lowest reported; tilted=axial MBL; NDI Ti-Zr 0 fractures at 55mo; all provisional fractures in bruxers not using night guard (Eskan 2020)
-- [[implants/cabbarova-2026-all-on-four-six-framework-fea]] — FEA (12 models, All-on-4 vs All-on-6, 6 framework materials, 150N): All-on-6 reduces stress 80–87% vs All-on-4; PEEK/PEKK highest bone stress (low E → more load transfer); Ti/Zr best distribution; FRC (Trilor/Trinia) intermediate acceptable (Cabbarova 2026)
+- [[implants/full-arch/szabo-2022-all-on-four-tilted-distal-implants-mbl]] — Retrospective (n=36, 288 All-on-Four implants, 3.5yr): 100% survival; tilted>axial MBL at all time points; 3.5yr maxilla 0.770 mm, mandible 0.713 mm; 14DA/24DA highest-risk positions; smoking amplifies per-position loss (Szabó 2022)
+- [[implants/short-narrow/coskunses-2021-narrow-diameter-implants-full-arch-fixed]] — Prospective (n=28, 37 jaws, 179 Roxolid BLT, NDI 3.3mm+standard, 2yr): CSR 99.4%, NDI 98.5%; 6-implant MBL lower than 4-implant (0.35 vs 0.63mm, P=0.006); NDI 2yr MBL 1.02mm>standard 0.44mm (P=0.035) (Coskunses 2021)
+- [[implants/full-arch/eskan-2020-tapered-implants-full-arch-immediate-function]] — Retrospective (n=42, 171 BLT, 55mo): survival 97.7%; 2yr MBL 0.15mm — among lowest reported; tilted=axial MBL; NDI Ti-Zr 0 fractures at 55mo; all provisional fractures in bruxers not using night guard (Eskan 2020)
+- [[implants/full-arch/cabbarova-2026-all-on-four-six-framework-fea]] — FEA (12 models, All-on-4 vs All-on-6, 6 framework materials, 150N): All-on-6 reduces stress 80–87% vs All-on-4; PEEK/PEKK highest bone stress (low E → more load transfer); Ti/Zr best distribution; FRC (Trilor/Trinia) intermediate acceptable (Cabbarova 2026)
 - [[dental-materials/zirconia/talmazov-2020-fea-one-piece-zirconia-implant-anterior]] — FEA: one-piece zirconia vs Ti implant anterior maxilla (3 CBCT models); zirconia lower labial-cervical bone stress in healed/reduced-bone scenarios (Talmazov 2020)
 - [[occlusion/zhou-2021-digital-occlusal-analysis-posterior-implant]] — Prospective pilot (n=32, T-Scan III, 6mo): single posterior implant bite force doubles from 2wk to 3mo then stabilizes; 3-month occlusal follow-up critical (Zhou 2021)
 
@@ -3759,7 +3759,7 @@ tags: []
 - [[artificial-intelligence/alfaraj-2026-harnessing-ai-prosthodontics-implant-dentistry]] — 보철·임플란트 AI 엄브렐러 리뷰 (11편 SR, 임플란트 식별 ~95.6%, 예후예측 62.4–80.5%, AMSTAR-2 55% critically low) [sr]
 
 ### implants/versah-protocols
-- [[implants/versah-protocols/tomar-2026-osseodensification-conventional-drilling-umbrella]] — 골밀도화(OD) vs 통상드릴링 umbrella review (SR 9편): 저밀도골에서 1차 안정성(IT/ISQ) 향상, MBL·생존율(>95%)은 유사 [sr+ma, abstract-only]
+- [[implants/osseodensification/tomar-2026-osseodensification-conventional-drilling-umbrella]] — 골밀도화(OD) vs 통상드릴링 umbrella review (SR 9편): 저밀도골에서 1차 안정성(IT/ISQ) 향상, MBL·생존율(>95%)은 유사 [sr+ma, abstract-only]
 
 ### prosthetic-materials
 - [[prosthetic-materials/tooth-preparation/dudley-2025-determinants-marginal-gap-crowns]] — 우산연구(SR 17편, in vitro 301건): 크라운 종류·재료·CAD-CAM 여부는 변연간극(79.4±22.8µm)에 무영향, 측정기구가 과대평가 원인, 120µm 기준 재확인 [sr+ma]
@@ -3785,7 +3785,7 @@ tags: []
 - [[implants/dambrosio-2026-clinical-risk-medico-legal-implications]] — 관골 임플란트(ZI) 합병증 umbrella review(SR 11편, 2016–2024): 생존율 90–100%로 높으나 부비동염(2.4–27.2%)이 최다 합병증; 의료법적 사전동의 강조 [sr]
 - [[implants/kate-2016-implant-failure-a-dentists-nightmare]] — 임플란트 실패 조기/후기 분류 종합(narrative review, 6개 기존 분류체계 통합); giok-2026 umbrella review로 정량 근거 partial superseded [narrative-review]
 - [[implants/pacheco-2025-dental-implant-survival-irradiated]] — Umbrella review(SR 11편, 임플란트 73,674개): 조사골 생존율 81.52% vs 비조사골 94.64%, 전체 SR AMSTAR2 critically low [sr+ma]
-- [[implants/rismanchian-2025-immediate-nonimmediate-loading-umbrella-review]] — 즉시로딩 vs 비즉시로딩 단일임플란트 umbrella review (24 SR, n=8,063명/18,373임플란트): 생존율 유의차 없음, MBL도 유의차 없음 [sr+ma]
+- [[implants/loading-protocol/rismanchian-2025-immediate-nonimmediate-loading-umbrella-review]] — 즉시로딩 vs 비즉시로딩 단일임플란트 umbrella review (24 SR, n=8,063명/18,373임플란트): 생존율 유의차 없음, MBL도 유의차 없음 [sr+ma]
 - [[implants/kim-2026-long-term-outcomes-short-standard-implants]] — 후향적 코호트(임플란트 84개, 평균 추적 6.52년) short(6mm) vs standard(8.5mm) 임플란트 MBL 동등(0.05 vs 0.12mm, NS); 삽입 깊이가 MBL과 유의상관(r=0.372) [retrospective]
 - [[implants/lin-2026-ten-year-outcomes-short-dental]] — Short implant(≤6mm) 8편 10년 SR+MA: 생존율 91.2%(PL)/93.7%(IL), long implant 대비 유의하게 낮으나 합병증·MBL(0.277mm)은 차이 없음 [sr+ma]
 - [[implants/ting-2017-surgical-patient-factors-affecting-marginal]] — AMSTAR 종합 SR 41편(2015년까지): 치주염·흡연·남성이 MBL 유의 증가, socket preservation은 MBL 감소, tilted/flapless는 MBL 무영향 [sr]
@@ -3798,9 +3798,9 @@ tags: []
 - [[implants/meza-mauricio-2019-diabetes-implant-failure-peri-implant]] — 당뇨(DM)-임플란트 우산리뷰(SR 12편, AMSTAR2): 실패율 메타분석 3편 모두 DM 대 비DM 유의차 없음, 임플란트주위염 위험은 증가 경향 [sr, abstract-only]
 - [[implants/banerjee-2024-success-rate-dental-implants-smokers]] — Umbrella review(Cureus 2024, PROSPERO, SR 17편/MA 10편): AMSTAR2 high quality 1/17뿐이나 15/17이 흡연→실패/MBL 유의 연관 보고, 용량-반응 확인(≥10개비/일) [sr+ma]
 - [[implants/barros-2021-sjogrens-syndrome-dental-implants]] — Sjögren 임플란트 우산리뷰(SR 4편/722 implants/189명): 성공률 95.22%이나 AMSTAR-2 3편 critically-low·1편 low quality [sr+ma, abstract-only]
-- [[implants/heiderich-2020-methodological-quality-loading-time-implants]] — 다중 임플란트 로딩시기 SR 21편 방법론적 질·비뚤림위험 umbrella review(AMSTAR/ROBIS): 8편 high risk of bias, low-risk 12편만 봐도 로딩시기 간 유의차 없음 [sr]
+- [[implants/loading-protocol/heiderich-2020-methodological-quality-loading-time-implants]] — 다중 임플란트 로딩시기 SR 21편 방법론적 질·비뚤림위험 umbrella review(AMSTAR/ROBIS): 8편 high risk of bias, low-risk 12편만 봐도 로딩시기 간 유의차 없음 [sr]
 - [[implants/zarzar-2023-implants-radiotherapy-head-neck]] — Umbrella review(SR 15편, 임플란트 24,996개): 방사선치료군 성공률 86.2% vs 비치료군 95.2%, AMSTAR2 high quality 1/15편 (partially superseded by pacheco-2025) [sr]
-- [[implants/merli-2018-implant-prosthetic-rehabilitation-bone-atrophy]] — 우산리뷰(SR 12편, RCT 기반, ROBIS 저위험 8/12): 짧은 임플란트(≤8mm)는 골증대 동반 긴 임플란트 대비 합병증 뚜렷이 감소 [sr, abstract-only]
+- [[implants/full-arch/merli-2018-implant-prosthetic-rehabilitation-bone-atrophy]] — 우산리뷰(SR 12편, RCT 기반, ROBIS 저위험 8/12): 짧은 임플란트(≤8mm)는 골증대 동반 긴 임플란트 대비 합병증 뚜렷이 감소 [sr, abstract-only]
 
 ### implants/surface
 - [[implants/surface/beckwith-2024-implant-coatings-affect-healing]] — Do Implant Coatings Affect Healing of Placed Implants? An Umbrella Review (Beckwith & Devlin, 2024) — 우산리뷰(SR 11편): 코팅이 골유착 개선/MBL 감소시킨다는 근거는 약함 [sr, abstract-only]

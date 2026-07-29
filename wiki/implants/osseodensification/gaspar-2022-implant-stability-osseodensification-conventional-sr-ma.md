@@ -5,7 +5,7 @@ year: 2022
 date: 2022-01-19
 doi: 10.11607/jomi.9132
 source: gaspar-2022-implant-stability-osseodensification-conventional-sr-ma.md
-category: [implants]
+category: [implants/osseodensification]
 evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/gaspar-2022-implant-stability-osseodensification-conventional-sr-ma.pdf
 pdf_filename: gaspar-2022-implant-stability-osseodensification-conventional-sr-ma.pdf
@@ -41,7 +41,7 @@ The headline result is at the baseline (primary stability) timepoint: a pooled m
 
 At 4–6 month follow-up the effect shrinks but remains significant: **MD = 5.99 ISQ points (95% CI 1.3–10.6, P < .0001), with I² = 73.0%** — substantial heterogeneity. The narrowing effect size is consistent with the broader OD literature (and the later Lima Monteiro 2024 SR+MA): OD's mechanical edge is largest at primary stability and partially equalises as biology catches up. The high heterogeneity at follow-up means readers should not lean on the 5.99 point estimate too heavily for individual cases.
 
-Two important caveats: (1) only 3 NRSIs were pooled — a small evidence base; (2) no RCTs were available at the search date. The authors explicitly call for RCTs to confirm consistency. For currency, [[implants/lima-monteiro-2024-osseodensification-biomechanics-histomorphometry-sr-ma]] and [[implants/kalra-2025-implant-stability-crestal-bone-osseodensification-sr-ma]] now supersede this paper as the primary evidence base, but Gaspar 2022 remains valuable as the first human-only OD ISQ synthesis.
+Two important caveats: (1) only 3 NRSIs were pooled — a small evidence base; (2) no RCTs were available at the search date. The authors explicitly call for RCTs to confirm consistency. For currency, [[implants/osseodensification/lima-monteiro-2024-osseodensification-biomechanics-histomorphometry-sr-ma]] and [[implants/osseodensification/kalra-2025-implant-stability-crestal-bone-osseodensification-sr-ma]] now supersede this paper as the primary evidence base, but Gaspar 2022 remains valuable as the first human-only OD ISQ synthesis.
 
 ## Key Contributions
 - First human-focused OD vs conventional drilling SR+MA — three NRSIs pooled.
@@ -60,11 +60,11 @@ Systematic review across five databases (PubMed, Google Scholar, LILACS, EMBASE,
 - Effect direction: both timepoints favour OD; primary-stability effect roughly 2.2× the follow-up effect.
 
 ## Related Papers
-- [[implants/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — bench foundation
-- [[implants/gaikwad-2022-osseodensification-animal-biomechanics-bic-sr-ma]] — companion animal SR+MA
-- [[implants/lima-monteiro-2024-osseodensification-biomechanics-histomorphometry-sr-ma]] — broader updated SR+MA
-- [[implants/kalra-2025-implant-stability-crestal-bone-osseodensification-sr-ma]] — newer SR+MA with crestal bone level
-- [[implants/kanathila-2018-insight-osseodensification-implant-stability-success]] — narrative concept review
+- [[implants/osseodensification/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — bench foundation
+- [[implants/osseodensification/gaikwad-2022-osseodensification-animal-biomechanics-bic-sr-ma]] — companion animal SR+MA
+- [[implants/osseodensification/lima-monteiro-2024-osseodensification-biomechanics-histomorphometry-sr-ma]] — broader updated SR+MA
+- [[implants/osseodensification/kalra-2025-implant-stability-crestal-bone-osseodensification-sr-ma]] — newer SR+MA with crestal bone level
+- [[implants/osseodensification/kanathila-2018-insight-osseodensification-implant-stability-success]] — narrative concept review
 - [[sinus-lift/transcrestal/cobo-vazquez-2025-crestal-sinus-lift-osteotome-vs-osseodensification]] — clinical sinus OD SR+MA
 - [[implants/isq/al-jetaily-2010-osstell-periotest-implant-stability-in-vitro]] — ISQ measurement methodology
 - [[implants/isq/huang-2020-isq-clinical-significance-literature-review]] — clinical interpretation of 13-point ISQ gap

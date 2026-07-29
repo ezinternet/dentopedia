@@ -5,7 +5,7 @@ year: 2023
 date: 2023-03-04
 doi: 10.4103/jisp.jisp_278_22
 source: pandey-2023-comparison-all-on-four-all-on-six.md
-category: [implants]
+category: [implants/full-arch]
 evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/pandey-2023-comparison-all-on-four-all-on-six.pdf
 pdf_filename: pandey-2023-comparison-all-on-four-all-on-six.pdf
@@ -71,7 +71,7 @@ This in vitro biomechanical study used 3D finite element analysis (FEA) to compa
 
 ## Related Papers
 
-- [[implants/cabbarova-2026-all-on-four-six-framework-fea]] — later FEA study (2026) extending the same All-on-4 vs All-on-6 comparison with 6 framework materials (Ti, Zr, PEEK, PEKK, Trilor, Trinia); reinforces this study's core finding that All-on-6 distributes stress more favorably (80–87% framework stress reduction reported), and adds that rigid frameworks (Ti/Zr) are essential regardless of implant number.
-- [[implants/szabo-2022-all-on-four-tilted-distal-implants-mbl]] — clinical (non-FEA) marginal bone loss outcomes for tilted distal implants in the All-on-Four concept.
-- [[implants/murat-2025-all-on-4-implant-angulation-load-direction-fea]] — FEA study on implant angulation and load direction effects specifically within the All-on-4 configuration.
-- [[implants/baki-2025-all-on-4-trefoil-five-implant-fea]] — FEA comparison involving All-on-4/Trefoil/five-implant configurations, extending the implant-number biomechanics question.
+- [[implants/full-arch/cabbarova-2026-all-on-four-six-framework-fea]] — later FEA study (2026) extending the same All-on-4 vs All-on-6 comparison with 6 framework materials (Ti, Zr, PEEK, PEKK, Trilor, Trinia); reinforces this study's core finding that All-on-6 distributes stress more favorably (80–87% framework stress reduction reported), and adds that rigid frameworks (Ti/Zr) are essential regardless of implant number.
+- [[implants/full-arch/szabo-2022-all-on-four-tilted-distal-implants-mbl]] — clinical (non-FEA) marginal bone loss outcomes for tilted distal implants in the All-on-Four concept.
+- [[implants/full-arch/murat-2025-all-on-4-implant-angulation-load-direction-fea]] — FEA study on implant angulation and load direction effects specifically within the All-on-4 configuration.
+- [[implants/full-arch/baki-2025-all-on-4-trefoil-five-implant-fea]] — FEA comparison involving All-on-4/Trefoil/five-implant configurations, extending the implant-number biomechanics question.

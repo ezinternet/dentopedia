@@ -6,7 +6,7 @@ date: 2023-01-01
 doi: 10.1186/s40729-023-00476-0
 source: saenz-ravello-2023-short-implants-compared-to-regular.md
 evidence_level: sr+ma
-category: [implants]
+category: [implants/short-narrow]
 pdf_path: /Users/oracleneo/llm-wiki/papers/saenz-ravello-2023-short-implants-compared-to-regular.pdf
 pdf_filename: saenz-ravello-2023-short-implants-compared-to-regular.pdf
 source_collection: external

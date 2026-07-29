@@ -5,7 +5,7 @@ year: 2021
 date: 2021-02-01
 doi: S0278-2391(20)31210-6
 source: witek-2021-surgical-instrumentation-narrow-wide-short-implants.md
-category: [implants]
+category: [implants/short-narrow]
 evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/witek-2021-surgical-instrumentation-narrow-wide-short-implants.pdf
 pdf_filename: witek-2021-surgical-instrumentation-narrow-wide-short-implants.pdf

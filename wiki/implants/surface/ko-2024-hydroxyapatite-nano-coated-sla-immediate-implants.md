@@ -45,7 +45,7 @@ SNU IRB-approved. Digital surgical guide. ISQ at placement, 4-6 wk, prosthetic p
 
 ## Related Papers
 - [[implants/atieh-2025-tissue-vs-bone-level-peri-implantitis-sr-ma]] — long-term peri-implant outcomes by implant type
-- [[implants/arghami-2021-immediate-early-loading-hydroxyapatite-coated]] — HA-coated implants long-term — 7yr RCT
+- [[implants/loading-protocol/arghami-2021-immediate-early-loading-hydroxyapatite-coated]] — HA-coated implants long-term — 7yr RCT
 
 ## Sources
 - Source: 

@@ -124,13 +124,13 @@ Risk Tier 결정
 
 | Spine paper | Evidence | Key finding |
 |---|---|---|
-| [[implants/yu-2021-extra-short-vs-longer-implants-ma]] | sr-ma (21 RCT) | ≤6mm vs ≥8mm: 1·3y 동등, 5y longer 우세 RR 0.97, augmentation+long 시 동등 |
-| [[implants/saenz-ravello-2023-short-implants-compared-to-regular]] | umbrella | 위축 하악구치 — short <10mm가 augmentation+표준 대비 합병증·MBL·실패 감소 |
-| [[implants/zhang-2024-short-vs-long-implants-sinus]] | sr-nma (17편 n=1,751) | 상악동 거상 — short 4–8mm가 단순 protocol |
-| [[implants/sivolella-2025-extra-short-5-6mm-implants-5year]] | prospective 5y | 5–6mm short 5y 생존 양호 — long-term confirmation |
-| [[implants/barausse-2024-4mm-short-implants-posterior-atrophic-8year]] | RCT 8y | 4mm short 후방 위축 8y outcome — augmentation 비열등 |
-| [[implants/anitua-2022-short-vs-longer-implants-single-crown]] | retrospective | 단일 crown short도 안전 |
-| [[implants/hockova-2025-short-implants-microvascular-free-flaps]] | case-series | Microvascular free flap 재건부 short implant — atrophic·complex 적응 확장 |
+| [[implants/short-narrow/yu-2021-extra-short-vs-longer-implants-ma]] | sr-ma (21 RCT) | ≤6mm vs ≥8mm: 1·3y 동등, 5y longer 우세 RR 0.97, augmentation+long 시 동등 |
+| [[implants/short-narrow/saenz-ravello-2023-short-implants-compared-to-regular]] | umbrella | 위축 하악구치 — short <10mm가 augmentation+표준 대비 합병증·MBL·실패 감소 |
+| [[implants/short-narrow/zhang-2024-short-vs-long-implants-sinus]] | sr-nma (17편 n=1,751) | 상악동 거상 — short 4–8mm가 단순 protocol |
+| [[implants/short-narrow/sivolella-2025-extra-short-5-6mm-implants-5year]] | prospective 5y | 5–6mm short 5y 생존 양호 — long-term confirmation |
+| [[implants/short-narrow/barausse-2024-4mm-short-implants-posterior-atrophic-8year]] | RCT 8y | 4mm short 후방 위축 8y outcome — augmentation 비열등 |
+| [[implants/short-narrow/anitua-2022-short-vs-longer-implants-single-crown]] | retrospective | 단일 crown short도 안전 |
+| [[implants/short-narrow/hockova-2025-short-implants-microvascular-free-flaps]] | case-series | Microvascular free flap 재건부 short implant — atrophic·complex 적응 확장 |
 
 [확인] **이전 ladder가 5y longer 약간 우세를 강조했으나, Sivolella 2025·Barausse 2024 장기 RCT로 위축부 short implant는 합병증·비용·환자 morbidity 측면에서 일관되게 우세**. Augmentation 회피가 가능하면 우선.
 
@@ -165,7 +165,7 @@ Risk Tier 결정
 [확인] **연결부 결정 원칙**: 내부 연결(특히 Morse taper) 우선; 단, 여러 유닛 인상 채득은 EH(transfer type)이 기술적으로 단순한 경우가 있어 case-by-case. 스크류 유지형(screw-retained)이 시멘트 잔류 위험 없이 유지관리에 유리.
 
 - [[implants/ayoub-2024-abutment-bending-guide-one-piece-implant]] — one-piece bending guide
-- [[implants/baki-2025-all-on-4-trefoil-five-implant-fea]] — All-on-4 vs trefoil FEA stress
+- [[implants/full-arch/baki-2025-all-on-4-trefoil-five-implant-fea]] — All-on-4 vs trefoil FEA stress
 - [[implants/ozturk-2026-stress-distribution-anterior-implant-fea]] — 전치부 stress 분포
 - [[implants/song-2021-implant-complications-bruxism-patients]] — bruxism 환자 합병증
 - [[implants/stilwell-2024-occlusal-considerations-implant-maintenance]] — 교합 유지관리
@@ -205,43 +205,43 @@ Risk Tier 결정
 
 | Spine paper | Evidence | Key finding |
 |---|---|---|
-| [[implants/bento-2023-steel-versus-zirconia-drills-heat]] | sr-ma (10편 in vitro) | 지르코니아 drill bone heat 유의 낮음 |
-| [[implants/sorgato-2025-drill-bit-wear-temperature]] | in vitro | Drill wear 누적이 temperature 상승 — 사용 횟수 제한 근거 |
-| [[implants/saxena-2024-guided-implant-drilling-bone-temperature]] | in vitro | Guided drilling 시 sleeve가 heat dispersion 방해 가능 |
-| [[implants/jain-2024-heat-generation-pain-piezosurgery-drilling]] | clinical | Piezo vs conventional 통증·heat 비교 |
-| [[implants/jung-2021-heat-development-medical-drilling-influencing]] | narrative | drilling heat 영향 변수 종합 |
-| [[implants/bernabeu-mira-2020-bone-heating-drilling-implant]] | review | bone heating 기전 |
-| [[implants/heuzeroth-2021-thermal-exposure-osteotomy-osseointegration]] | animal | thermal exposure → osseointegration 영향 |
-| [[implants/timon-2019-thermal-osteonecrosis-bone-drilling-orthopedic]] | narrative | thermal osteonecrosis 기전 (orthopedic 인용) |
-| [[implants/woods-2022-does-irrigating-while-drilling-decrease]] | sr | Irrigation의 heat reduction 효과 |
-| [[implants/rugova-2024-thermal-evaluation-bone-drilling-sequential]] | in vitro | Sequential drilling thermal profile |
-| [[implants/aquilanti-2023-heat-generation-initial-osteotomy]] | in vitro | Initial osteotomy heat |
-| [[implants/chakraborty-2024-implant-drill-materials-heat-osteotomy]] | in vitro | drill 재질별 heat |
-| [[implants/chauhan-2018-biomechanical-factors-heat-generation-osteotomy]] | in vitro | bone heat 변수 |
-| [[implants/marenzi-2018-micromorphological-structure-implant-drills]] | in vitro | drill 표면 morphology |
-| [[implants/slete-2018-histomorphometric-comparison-three-osteotomy-techniques]] | animal | osteotomy technique 비교 |
+| [[implants/osteotomy-thermal/bento-2023-steel-versus-zirconia-drills-heat]] | sr-ma (10편 in vitro) | 지르코니아 drill bone heat 유의 낮음 |
+| [[implants/osteotomy-thermal/sorgato-2025-drill-bit-wear-temperature]] | in vitro | Drill wear 누적이 temperature 상승 — 사용 횟수 제한 근거 |
+| [[implants/osteotomy-thermal/saxena-2024-guided-implant-drilling-bone-temperature]] | in vitro | Guided drilling 시 sleeve가 heat dispersion 방해 가능 |
+| [[implants/osteotomy-thermal/jain-2024-heat-generation-pain-piezosurgery-drilling]] | clinical | Piezo vs conventional 통증·heat 비교 |
+| [[implants/osteotomy-thermal/jung-2021-heat-development-medical-drilling-influencing]] | narrative | drilling heat 영향 변수 종합 |
+| [[implants/osteotomy-thermal/bernabeu-mira-2020-bone-heating-drilling-implant]] | review | bone heating 기전 |
+| [[implants/osteotomy-thermal/heuzeroth-2021-thermal-exposure-osteotomy-osseointegration]] | animal | thermal exposure → osseointegration 영향 |
+| [[implants/osteotomy-thermal/timon-2019-thermal-osteonecrosis-bone-drilling-orthopedic]] | narrative | thermal osteonecrosis 기전 (orthopedic 인용) |
+| [[implants/osteotomy-thermal/woods-2022-does-irrigating-while-drilling-decrease]] | sr | Irrigation의 heat reduction 효과 |
+| [[implants/osteotomy-thermal/rugova-2024-thermal-evaluation-bone-drilling-sequential]] | in vitro | Sequential drilling thermal profile |
+| [[implants/osteotomy-thermal/aquilanti-2023-heat-generation-initial-osteotomy]] | in vitro | Initial osteotomy heat |
+| [[implants/osteotomy-thermal/chakraborty-2024-implant-drill-materials-heat-osteotomy]] | in vitro | drill 재질별 heat |
+| [[implants/osteotomy-thermal/chauhan-2018-biomechanical-factors-heat-generation-osteotomy]] | in vitro | bone heat 변수 |
+| [[implants/osteotomy-thermal/marenzi-2018-micromorphological-structure-implant-drills]] | in vitro | drill 표면 morphology |
+| [[implants/osteotomy-thermal/slete-2018-histomorphometric-comparison-three-osteotomy-techniques]] | animal | osteotomy technique 비교 |
 | [[kosior-2025-histological-histomorphometric-implant-bed-preparation]] | in vitro/animal | implant bed preparation histology |
-| [[implants/stubinger-2015-piezosurgery-implant-dentistry]] | narrative | piezosurgery 적용 |
+| [[implants/osteotomy-thermal/stubinger-2015-piezosurgery-implant-dentistry]] | narrative | piezosurgery 적용 |
 
 ### 3-B. Osseodensification (OD) — Drill thermal 우회
 
 | Spine paper | Evidence | Key finding |
 |---|---|---|
-| [[implants/marzorati-2026-osseodensification-standard-osteotomy-torque-isq-sr-ma]] | sr-ma | OD vs standard — IT/ISQ 우세 |
-| [[implants/kalra-2025-implant-stability-crestal-bone-osseodensification-sr-ma]] | sr-ma | OD primary stability·crestal bone |
-| [[implants/lima-monteiro-2024-osseodensification-biomechanics-histomorphometry-sr-ma]] | sr-ma | biomechanics·histomorphometry |
-| [[implants/ortiz-2025-osseodensification-implant-dentistry-critical-review]] | critical-review | OD 임상 근거 비판적 검토 |
-| [[implants/gaspar-2022-implant-stability-osseodensification-conventional-sr-ma]] | sr-ma | primary stability 우위 |
-| [[implants/gaikwad-2022-osseodensification-animal-biomechanics-bic-sr-ma]] | sr-ma (animal) | BIC ×3 in vitro |
-| [[implants/inchingolo-2021-osseodensification-implant-site-osteotomy-sr-ma]] | sr-ma | OD osteotomy 종합 |
-| [[implants/padhye-2020-osseodensification-systematic-review-qualitative-analysis]] | sr | OD 정성 분석 |
-| [[implants/yu-2022-primary-implant-stability-alternative-site-preparation-sr-ma]] | sr-ma | OD vs 기타 alt preparation |
-| [[implants/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] | seminal | OD 개념 도입 paper |
-| [[implants/trisi-2016-osseodensification-low-density-bone-sheep]] | animal | low-density 효과 |
-| [[implants/mello-machado-2021-osseodensification-low-quality-bone-rct]] | RCT | low-quality bone OD outcome |
-| [[implants/kanathila-2018-insight-osseodensification-implant-stability-success]] | narrative | 기전 |
-| [[implants/koutouzis-2019-alveolar-ridge-expansion-osseodensification-multicenter-retrospective]] | retrospective | ridge expansion OD |
-| [[implants/tian-2019-alveolar-ridge-expansion-osseodensification-osteotome]] | clinical | osteotome ridge expansion |
+| [[implants/osseodensification/marzorati-2026-osseodensification-standard-osteotomy-torque-isq-sr-ma]] | sr-ma | OD vs standard — IT/ISQ 우세 |
+| [[implants/osseodensification/kalra-2025-implant-stability-crestal-bone-osseodensification-sr-ma]] | sr-ma | OD primary stability·crestal bone |
+| [[implants/osseodensification/lima-monteiro-2024-osseodensification-biomechanics-histomorphometry-sr-ma]] | sr-ma | biomechanics·histomorphometry |
+| [[implants/osseodensification/ortiz-2025-osseodensification-implant-dentistry-critical-review]] | critical-review | OD 임상 근거 비판적 검토 |
+| [[implants/osseodensification/gaspar-2022-implant-stability-osseodensification-conventional-sr-ma]] | sr-ma | primary stability 우위 |
+| [[implants/osseodensification/gaikwad-2022-osseodensification-animal-biomechanics-bic-sr-ma]] | sr-ma (animal) | BIC ×3 in vitro |
+| [[implants/osseodensification/inchingolo-2021-osseodensification-implant-site-osteotomy-sr-ma]] | sr-ma | OD osteotomy 종합 |
+| [[implants/osseodensification/padhye-2020-osseodensification-systematic-review-qualitative-analysis]] | sr | OD 정성 분석 |
+| [[implants/osteotomy-thermal/yu-2022-primary-implant-stability-alternative-site-preparation-sr-ma]] | sr-ma | OD vs 기타 alt preparation |
+| [[implants/osseodensification/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] | seminal | OD 개념 도입 paper |
+| [[implants/osseodensification/trisi-2016-osseodensification-low-density-bone-sheep]] | animal | low-density 효과 |
+| [[implants/osseodensification/mello-machado-2021-osseodensification-low-quality-bone-rct]] | RCT | low-quality bone OD outcome |
+| [[implants/osseodensification/kanathila-2018-insight-osseodensification-implant-stability-success]] | narrative | 기전 |
+| [[implants/osseodensification/koutouzis-2019-alveolar-ridge-expansion-osseodensification-multicenter-retrospective]] | retrospective | ridge expansion OD |
+| [[implants/osseodensification/tian-2019-alveolar-ridge-expansion-osseodensification-osteotome]] | clinical | osteotome ridge expansion |
 
 [미검증] OD는 thermal stress 낮춤이 주 effect는 아니지만, slow drilling + irrigation 보존 + autograft 효과로 결과적으로 thermal-friendly. **별도 깊이는 [[osseodensification-clinical-applications]] 참조**.
 
@@ -285,9 +285,9 @@ peri-implant STD 발생 → Tavelli 2025 prevalence·apical shift 추적, 외과
 
 | Spine paper | Evidence | Key finding |
 |---|---|---|
-| [[implants/galarraga-vinueza-2025-peri-implant-disease-risk-factors]] | sr-ma (102편 n=13,030) | Mucositis 46%, peri-implantitis 21%. 치주염·흡연 강한 위험 |
-| [[implants/derks-2015-peri-implant-health-disease-epidemiology]] | sr-ma (11편) | Mucositis 43%, peri-implantitis 22%. 기능기간↑ → 유병률↑ |
-| [[implants/carra-2023-primordial-primary-prevention-peri-implant-sr-ma]] | sr-ma (EFP/AAP) | Primordial + primary 예방 |
+| [[implants/peri-implantitis/galarraga-vinueza-2025-peri-implant-disease-risk-factors]] | sr-ma (102편 n=13,030) | Mucositis 46%, peri-implantitis 21%. 치주염·흡연 강한 위험 |
+| [[implants/peri-implantitis/derks-2015-peri-implant-health-disease-epidemiology]] | sr-ma (11편) | Mucositis 43%, peri-implantitis 22%. 기능기간↑ → 유병률↑ |
+| [[implants/peri-implantitis/carra-2023-primordial-primary-prevention-peri-implant-sr-ma]] | sr-ma (EFP/AAP) | Primordial + primary 예방 |
 
 ### 5-B. 진단·위험인자 — 갱신
 
@@ -377,13 +377,13 @@ ISQ 기반 loading 결정은 [[overviews/isq-loading-threshold]] · [[overviews/
 - [[implants/shenoy-2025-dental-implant-failure-retrieval-techniques-scoping]]
 
 축 2 — 디자인:
-- [[implants/yu-2021-extra-short-vs-longer-implants-ma]]
-- [[implants/saenz-ravello-2023-short-implants-compared-to-regular]]
-- [[implants/zhang-2024-short-vs-long-implants-sinus]]
-- [[implants/sivolella-2025-extra-short-5-6mm-implants-5year]]
-- [[implants/barausse-2024-4mm-short-implants-posterior-atrophic-8year]]
-- [[implants/anitua-2022-short-vs-longer-implants-single-crown]]
-- [[implants/hockova-2025-short-implants-microvascular-free-flaps]]
+- [[implants/short-narrow/yu-2021-extra-short-vs-longer-implants-ma]]
+- [[implants/short-narrow/saenz-ravello-2023-short-implants-compared-to-regular]]
+- [[implants/short-narrow/zhang-2024-short-vs-long-implants-sinus]]
+- [[implants/short-narrow/sivolella-2025-extra-short-5-6mm-implants-5year]]
+- [[implants/short-narrow/barausse-2024-4mm-short-implants-posterior-atrophic-8year]]
+- [[implants/short-narrow/anitua-2022-short-vs-longer-implants-single-crown]]
+- [[implants/short-narrow/hockova-2025-short-implants-microvascular-free-flaps]]
 - [[implants/mbl/strietzel-2015-platform-switching-mbl-sr-ma]]
 - [[implants/mbl/di-girolamo-2016-platform-switching-matching-sr-ma]]
 - [[implants/mbl/juan-montesinos-2022-platform-switching-conventional-sr-ma]]
@@ -396,7 +396,7 @@ ISQ 기반 loading 결정은 [[overviews/isq-loading-threshold]] · [[overviews/
 - [[implants/mbl/mortazavi-2021-bone-loss-tissue-bone-level-implants]]
 - [[implants/seong-2016-external-internal-implant-connection-system]]
 - [[implants/ayoub-2024-abutment-bending-guide-one-piece-implant]]
-- [[implants/baki-2025-all-on-4-trefoil-five-implant-fea]]
+- [[implants/full-arch/baki-2025-all-on-4-trefoil-five-implant-fea]]
 - [[implants/ozturk-2026-stress-distribution-anterior-implant-fea]]
 - [[implants/song-2021-implant-complications-bruxism-patients]]
 - [[implants/stilwell-2024-occlusal-considerations-implant-maintenance]]
@@ -405,38 +405,38 @@ ISQ 기반 loading 결정은 [[overviews/isq-loading-threshold]] · [[overviews/
 - [[implants/bonsmann-2025-risk-factors-early-implant-failure-sinus-nested]]
 
 축 3 — Drill thermal · OD:
-- [[implants/bento-2023-steel-versus-zirconia-drills-heat]]
-- [[implants/sorgato-2025-drill-bit-wear-temperature]]
-- [[implants/saxena-2024-guided-implant-drilling-bone-temperature]]
-- [[implants/jain-2024-heat-generation-pain-piezosurgery-drilling]]
-- [[implants/jung-2021-heat-development-medical-drilling-influencing]]
-- [[implants/bernabeu-mira-2020-bone-heating-drilling-implant]]
-- [[implants/heuzeroth-2021-thermal-exposure-osteotomy-osseointegration]]
-- [[implants/timon-2019-thermal-osteonecrosis-bone-drilling-orthopedic]]
-- [[implants/woods-2022-does-irrigating-while-drilling-decrease]]
-- [[implants/rugova-2024-thermal-evaluation-bone-drilling-sequential]]
-- [[implants/aquilanti-2023-heat-generation-initial-osteotomy]]
-- [[implants/chakraborty-2024-implant-drill-materials-heat-osteotomy]]
-- [[implants/chauhan-2018-biomechanical-factors-heat-generation-osteotomy]]
-- [[implants/marenzi-2018-micromorphological-structure-implant-drills]]
-- [[implants/slete-2018-histomorphometric-comparison-three-osteotomy-techniques]]
-- [[implants/kosior-2025-histological-histomorphometric-implant-bed-preparation]]
-- [[implants/stubinger-2015-piezosurgery-implant-dentistry]]
-- [[implants/marzorati-2026-osseodensification-standard-osteotomy-torque-isq-sr-ma]]
-- [[implants/kalra-2025-implant-stability-crestal-bone-osseodensification-sr-ma]]
-- [[implants/lima-monteiro-2024-osseodensification-biomechanics-histomorphometry-sr-ma]]
-- [[implants/ortiz-2025-osseodensification-implant-dentistry-critical-review]]
-- [[implants/gaspar-2022-implant-stability-osseodensification-conventional-sr-ma]]
-- [[implants/gaikwad-2022-osseodensification-animal-biomechanics-bic-sr-ma]]
-- [[implants/inchingolo-2021-osseodensification-implant-site-osteotomy-sr-ma]]
-- [[implants/padhye-2020-osseodensification-systematic-review-qualitative-analysis]]
-- [[implants/yu-2022-primary-implant-stability-alternative-site-preparation-sr-ma]]
-- [[implants/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]]
-- [[implants/trisi-2016-osseodensification-low-density-bone-sheep]]
-- [[implants/mello-machado-2021-osseodensification-low-quality-bone-rct]]
-- [[implants/kanathila-2018-insight-osseodensification-implant-stability-success]]
-- [[implants/koutouzis-2019-alveolar-ridge-expansion-osseodensification-multicenter-retrospective]]
-- [[implants/tian-2019-alveolar-ridge-expansion-osseodensification-osteotome]]
+- [[implants/osteotomy-thermal/bento-2023-steel-versus-zirconia-drills-heat]]
+- [[implants/osteotomy-thermal/sorgato-2025-drill-bit-wear-temperature]]
+- [[implants/osteotomy-thermal/saxena-2024-guided-implant-drilling-bone-temperature]]
+- [[implants/osteotomy-thermal/jain-2024-heat-generation-pain-piezosurgery-drilling]]
+- [[implants/osteotomy-thermal/jung-2021-heat-development-medical-drilling-influencing]]
+- [[implants/osteotomy-thermal/bernabeu-mira-2020-bone-heating-drilling-implant]]
+- [[implants/osteotomy-thermal/heuzeroth-2021-thermal-exposure-osteotomy-osseointegration]]
+- [[implants/osteotomy-thermal/timon-2019-thermal-osteonecrosis-bone-drilling-orthopedic]]
+- [[implants/osteotomy-thermal/woods-2022-does-irrigating-while-drilling-decrease]]
+- [[implants/osteotomy-thermal/rugova-2024-thermal-evaluation-bone-drilling-sequential]]
+- [[implants/osteotomy-thermal/aquilanti-2023-heat-generation-initial-osteotomy]]
+- [[implants/osteotomy-thermal/chakraborty-2024-implant-drill-materials-heat-osteotomy]]
+- [[implants/osteotomy-thermal/chauhan-2018-biomechanical-factors-heat-generation-osteotomy]]
+- [[implants/osteotomy-thermal/marenzi-2018-micromorphological-structure-implant-drills]]
+- [[implants/osteotomy-thermal/slete-2018-histomorphometric-comparison-three-osteotomy-techniques]]
+- [[implants/osteotomy-thermal/kosior-2025-histological-histomorphometric-implant-bed-preparation]]
+- [[implants/osteotomy-thermal/stubinger-2015-piezosurgery-implant-dentistry]]
+- [[implants/osseodensification/marzorati-2026-osseodensification-standard-osteotomy-torque-isq-sr-ma]]
+- [[implants/osseodensification/kalra-2025-implant-stability-crestal-bone-osseodensification-sr-ma]]
+- [[implants/osseodensification/lima-monteiro-2024-osseodensification-biomechanics-histomorphometry-sr-ma]]
+- [[implants/osseodensification/ortiz-2025-osseodensification-implant-dentistry-critical-review]]
+- [[implants/osseodensification/gaspar-2022-implant-stability-osseodensification-conventional-sr-ma]]
+- [[implants/osseodensification/gaikwad-2022-osseodensification-animal-biomechanics-bic-sr-ma]]
+- [[implants/osseodensification/inchingolo-2021-osseodensification-implant-site-osteotomy-sr-ma]]
+- [[implants/osseodensification/padhye-2020-osseodensification-systematic-review-qualitative-analysis]]
+- [[implants/osteotomy-thermal/yu-2022-primary-implant-stability-alternative-site-preparation-sr-ma]]
+- [[implants/osseodensification/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]]
+- [[implants/osseodensification/trisi-2016-osseodensification-low-density-bone-sheep]]
+- [[implants/osseodensification/mello-machado-2021-osseodensification-low-quality-bone-rct]]
+- [[implants/osseodensification/kanathila-2018-insight-osseodensification-implant-stability-success]]
+- [[implants/osseodensification/koutouzis-2019-alveolar-ridge-expansion-osseodensification-multicenter-retrospective]]
+- [[implants/osseodensification/tian-2019-alveolar-ridge-expansion-osseodensification-osteotome]]
 - [[implants/di-stefano-2021-stability-dental-implants-cortical-bone]]
 
 축 4 — 연조직:
@@ -445,16 +445,16 @@ ISQ 기반 loading 결정은 [[overviews/isq-loading-threshold]] · [[overviews/
 - [[implants/soft-tissue/kim-2009-blood-vessels-peri-implant-mucosa]]
 
 축 5 — Peri-implantitis:
-- [[implants/galarraga-vinueza-2025-peri-implant-disease-risk-factors]]
-- [[implants/derks-2015-peri-implant-health-disease-epidemiology]]
-- [[implants/carra-2023-primordial-primary-prevention-peri-implant-sr-ma]]
+- [[implants/peri-implantitis/galarraga-vinueza-2025-peri-implant-disease-risk-factors]]
+- [[implants/peri-implantitis/derks-2015-peri-implant-health-disease-epidemiology]]
+- [[implants/peri-implantitis/carra-2023-primordial-primary-prevention-peri-implant-sr-ma]]
 - [[implants/peri-implantitis/hong-2024-peri-implantitis-treatment-protocol-flowchart]]
 - [[periodontics/kim-2025-management-peri-implantitis-perspectives]]
 - [[implants/peri-implantitis/vrazic-2026-peri-implantitis-treatment-magnesium-membrane]]
 - [[implants/peri-implantitis/ayoub-2021-peri-implantitis-one-piece-implant-protocol]]
 
 ### Loading / primary stability
-- [[implants/arghami-2021-immediate-early-loading-hydroxyapatite-coated]]
+- [[implants/loading-protocol/arghami-2021-immediate-early-loading-hydroxyapatite-coated]]
 
 ### Cross-cutting (general dentistry / review)
 - [[implants/gehrke-2024-implant-dentistry-review-2024]]

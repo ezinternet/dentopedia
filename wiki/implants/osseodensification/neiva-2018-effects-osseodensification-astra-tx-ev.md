@@ -5,7 +5,7 @@ year: 2018
 date: 2018-10-08
 doi: 10.1111/clr.329_13358
 source: neiva-2018-effects-osseodensification-astra-tx-ev.md
-category: [implants]
+category: [implants/osseodensification]
 evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/neiva-2018-effects-osseodensification-astra-tx-ev.pdf
 pdf_filename: neiva-2018-effects-osseodensification-astra-tx-ev.pdf
@@ -45,6 +45,6 @@ Densah protocols showed substantially higher IT and RFA than R, independent of i
 Conference abstract — no peer-reviewed full paper. Small n (6 animals). Sheep ilium model, not jaw bone. No quantitative values (IT, RFA, BIC%) reported in abstract — qualitative only. 6-week timepoint only; no long-term outcome. No statistical detail beyond "substantially higher".
 
 ## Related Papers
-- [[implants/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]]
+- [[implants/osseodensification/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]]
 - [[implants/surface/lahens-2019-osseodensification-implant-surface-treatments-sheep]]
-- [[implants/inchingolo-2021-osseodensification-implant-site-osteotomy-sr-ma]]
+- [[implants/osseodensification/inchingolo-2021-osseodensification-implant-site-osteotomy-sr-ma]]

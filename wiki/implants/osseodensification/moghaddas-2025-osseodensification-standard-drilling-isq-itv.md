@@ -5,7 +5,7 @@ year: 2025
 date: 2025-01-01
 doi: 10.34172/japid.025.3475
 source: moghaddas-2025-osseodensification-standard-drilling-isq-itv.md
-category: [implants/versah-protocols]
+category: [implants/osseodensification]
 evidence_level: prospective
 source_collection: pubmed-text
 full_text: true
@@ -72,5 +72,5 @@ This prospective clinical trial compared osseodensification (OD) against standar
 
 ## Related Papers
 
-- [[implants/versah-protocols/rittipakorn-2025-clockwise-osseodensification-primary-stability-cadaveric]] — cadaveric clockwise-OD counterpart; reinforces the OD primary-stability picture with a controlled bench/cadaver model.
-- [[implants/marzorati-2026-osseodensification-standard-osteotomy-torque-isq-sr-ma]] — SR+MA pooling OD-vs-SD torque/ISQ; this trial is one clinical data point in the IT-rises-but-ISQ-may-not debate it synthesizes.
+- [[implants/osseodensification/rittipakorn-2025-clockwise-osseodensification-primary-stability-cadaveric]] — cadaveric clockwise-OD counterpart; reinforces the OD primary-stability picture with a controlled bench/cadaver model.
+- [[implants/osseodensification/marzorati-2026-osseodensification-standard-osteotomy-torque-isq-sr-ma]] — SR+MA pooling OD-vs-SD torque/ISQ; this trial is one clinical data point in the IT-rises-but-ISQ-may-not debate it synthesizes.

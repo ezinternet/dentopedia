@@ -5,7 +5,7 @@ year: 2024
 date: 2024-09-16
 doi: 10.3390/bioengineering11090928
 source: rugova-2024-thermal-evaluation-bone-drilling-sequential.md
-category: [implants]
+category: [implants/osteotomy-thermal]
 evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/rugova-2024-thermal-evaluation-bone-drilling-sequential.pdf
 pdf_filename: rugova-2024-thermal-evaluation-bone-drilling-sequential.pdf
@@ -63,10 +63,10 @@ Directly refutes the implicit clinical belief that "sequential drilling protects
 - bernabeu-mira-2020("initial/pilot > progressive/final")과 발열 분포 신호는 일치.
 
 ## Related Papers
-- [[implants/bernabeu-mira-2020-bone-heating-drilling-implant]] — initial/pilot drill 발열 > progressive/final (같은 신호)
-- [[implants/sorgato-2025-drill-bit-wear-temperature]] — irrigation 없는 조건에서 wear-온도 정량
-- [[implants/heuzeroth-2021-thermal-exposure-osteotomy-osseointegration]] — 짧은 sequence + 신형 drill이 peak T 감소 in vivo
-- [[implants/chauhan-2018-biomechanical-factors-heat-generation-osteotomy]] — multifactorial framework
-- [[implants/jung-2021-heat-development-medical-drilling-influencing]] — internal·external factor 분류
-- [[implants/aquilanti-2023-heat-generation-initial-osteotomy]] — 초기 osteotomy 발열
-- [[implants/timon-2019-thermal-osteonecrosis-bone-drilling-orthopedic]] — orthopedic thermal osteonecrosis
+- [[implants/osteotomy-thermal/bernabeu-mira-2020-bone-heating-drilling-implant]] — initial/pilot drill 발열 > progressive/final (같은 신호)
+- [[implants/osteotomy-thermal/sorgato-2025-drill-bit-wear-temperature]] — irrigation 없는 조건에서 wear-온도 정량
+- [[implants/osteotomy-thermal/heuzeroth-2021-thermal-exposure-osteotomy-osseointegration]] — 짧은 sequence + 신형 drill이 peak T 감소 in vivo
+- [[implants/osteotomy-thermal/chauhan-2018-biomechanical-factors-heat-generation-osteotomy]] — multifactorial framework
+- [[implants/osteotomy-thermal/jung-2021-heat-development-medical-drilling-influencing]] — internal·external factor 분류
+- [[implants/osteotomy-thermal/aquilanti-2023-heat-generation-initial-osteotomy]] — 초기 osteotomy 발열
+- [[implants/osteotomy-thermal/timon-2019-thermal-osteonecrosis-bone-drilling-orthopedic]] — orthopedic thermal osteonecrosis

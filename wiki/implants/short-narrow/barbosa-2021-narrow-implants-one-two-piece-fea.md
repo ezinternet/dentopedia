@@ -5,7 +5,7 @@ year: 2021
 date: 2021-02-04
 doi: 10.1371/journal.pone.0245800
 source: barbosa-2021-narrow-implants-one-two-piece-fea.md
-category: [implants]
+category: [implants/short-narrow]
 evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/barbosa-2021-narrow-implants-one-two-piece-fea.pdf
 pdf_filename: barbosa-2021-narrow-implants-one-two-piece-fea.pdf
@@ -70,7 +70,7 @@ The authors conclude that extra-narrow one-piece implants (≤2.5 mm) should be 
 
 ## Related Papers
 
-- [[implants/cao-2023-titanium-zirconium-narrow-diameter-single-crown]] — clinical outcomes of narrow-diameter titanium/zirconia implants (complements this biomechanical FEA data)
-- [[implants/baki-2025-all-on-4-trefoil-five-implant-fea]] — FEA for full-arch implant designs, same Ansys methodology
-- [[implants/bilgi-ozyetim-2025-biomechanical-comparison-implant-inclinations]] — FEA of implant inclination effects on stress distribution
+- [[implants/short-narrow/cao-2023-titanium-zirconium-narrow-diameter-single-crown]] — clinical outcomes of narrow-diameter titanium/zirconia implants (complements this biomechanical FEA data)
+- [[implants/full-arch/baki-2025-all-on-4-trefoil-five-implant-fea]] — FEA for full-arch implant designs, same Ansys methodology
+- [[implants/full-arch/bilgi-ozyetim-2025-biomechanical-comparison-implant-inclinations]] — FEA of implant inclination effects on stress distribution
 - [[implants/leblebicioglu-kurtulus-2022-fea-implant-design-bone-density-stress]] — FEA implant design and bone density stress interactions

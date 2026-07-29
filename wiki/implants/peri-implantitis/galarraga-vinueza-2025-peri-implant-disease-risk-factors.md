@@ -5,7 +5,7 @@ year: 2025
 date: 2025-01-01
 doi: 10.1002/JPER.24-0154
 source: galarraga-vinueza-2025-peri-implant-disease-risk-factors.md
-category: [implants]
+category: [implants/peri-implantitis]
 evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/galarraga-vinueza-2025-peri-implant-disease-risk-factors.pdf
 pdf_filename: galarraga-vinueza-2025-peri-implant-disease-risk-factors.pdf
@@ -58,6 +58,6 @@ AO/AAP Best-Evidence Consensus systematic review and meta-analysis of 102 studie
 **Risk indicators for peri-implantitis**: periodontitis, diabetes mellitus, smoking habits, alcohol consumption
 
 ## Related Papers
-- [[implants/derks-2015-peri-implant-health-disease-epidemiology]] — earlier SR+MA (43% mucositis, 22% peri-implantitis)
-- [[implants/berglundh-2018-peri-implant-diseases-conditions-consensus]] — case definitions applied
-- [[implants/herrera-2023-prevention-treatment-peri-implant-efp]] — EFP CPG incorporating risk factor profile
+- [[implants/peri-implantitis/derks-2015-peri-implant-health-disease-epidemiology]] — earlier SR+MA (43% mucositis, 22% peri-implantitis)
+- [[implants/peri-implantitis/berglundh-2018-peri-implant-diseases-conditions-consensus]] — case definitions applied
+- [[implants/peri-implantitis/herrera-2023-prevention-treatment-peri-implant-efp]] — EFP CPG incorporating risk factor profile

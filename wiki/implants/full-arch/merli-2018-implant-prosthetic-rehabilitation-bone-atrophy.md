@@ -5,7 +5,7 @@ year: 2018
 date: 2018-01-01
 doi: "n/a (Eur J Oral Implantol 2018;11(3):261-280; PMID 30246181)"
 source: merli-2018-implant-prosthetic-rehabilitation-bone-atrophy.md
-category: [implants]
+category: [implants/full-arch]
 evidence_level: sr
 source_collection: pubmed-text
 full_text: false
@@ -41,7 +41,7 @@ This umbrella review by Merli et al. (2018, *European Journal of Oral Implantolo
 
 The headline finding is that **short implants (≤8 mm) show notably fewer complications than long implants combined with bone augmentation** in the vertical-defect scenario, making them the preferred option when clinically feasible — though long-term follow-up data were not available at the time of this review. For technique-vs-technique comparisons (different sinus-lift approaches, different bone augmentation techniques, different membranes or bone substitutes), no approach was shown superior to another for reducing implant or prosthetic failure. A membrane appeared to improve hard-tissue regeneration in horizontal augmentation, but this did not translate into fewer failures or complications. Critically, **no RCT-based comparative data existed at all** for zygomatic implants, tilted implants, or IAN transposition — these remain evidence gaps rather than validated equivalents.
 
-This paper is retrieved as an abstract-only PubMed record (`full_text: false`); no PMC full text or PDF was available. It functions in this wiki as an earlier, broader-scope companion to [[implants/vetromilla-2021-short-standard-implants-sinus-umbrella]], which later performed a more tightly-scoped, quantitatively-pooled umbrella review specifically on short-vs-standard-implant-with-sinus-lift, reaching a directionally consistent short-implant-favoring conclusion with added GRADE certainty ratings.
+This paper is retrieved as an abstract-only PubMed record (`full_text: false`); no PMC full text or PDF was available. It functions in this wiki as an earlier, broader-scope companion to [[implants/short-narrow/vetromilla-2021-short-standard-implants-sinus-umbrella]], which later performed a more tightly-scoped, quantitatively-pooled umbrella review specifically on short-vs-standard-implant-with-sinus-lift, reaching a directionally consistent short-implant-favoring conclusion with added GRADE certainty ratings.
 
 ## Key Contributions
 
@@ -72,6 +72,6 @@ This paper is retrieved as an abstract-only PubMed record (`full_text: false`); 
 
 ## Related Papers
 
-- [[implants/vetromilla-2021-short-standard-implants-sinus-umbrella]] — narrower, later umbrella review (7 SRs, quantitatively pooled with GRADE) specifically on short vs. standard implants with sinus floor elevation; reinforces this paper's short-implant-preference conclusion with added quantitative/certainty detail.
-- [[implants/arbildo-vega-2025-short-vs-standard-implants-edentulous-umbrella-review]] — larger, more recent umbrella review (60 SRs) on short vs. standard-length implants across multiple outcomes.
+- [[implants/short-narrow/vetromilla-2021-short-standard-implants-sinus-umbrella]] — narrower, later umbrella review (7 SRs, quantitatively pooled with GRADE) specifically on short vs. standard implants with sinus floor elevation; reinforces this paper's short-implant-preference conclusion with added quantitative/certainty detail.
+- [[implants/short-narrow/arbildo-vega-2025-short-vs-standard-implants-edentulous-umbrella-review]] — larger, more recent umbrella review (60 SRs) on short vs. standard-length implants across multiple outcomes.
 - [[overviews/short-implant-vs-sinus-augmentation-decision]] — synthesis page on the short-implant-vs-augmentation decision that this paper's conclusion supports.

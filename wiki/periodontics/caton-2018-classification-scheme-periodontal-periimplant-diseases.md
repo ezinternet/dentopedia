@@ -47,5 +47,5 @@ AAP·EFP 공동 World Workshop, 분야별 SR 기반 consensus.
 치주염 stage I-IV·grade A-C 도입, peri-implant 질환 정의 확립 [확인(합의)]. 임상 진단·코딩의 국제 표준.
 
 ## Related Papers
-- [[implants/berglundh-2018-peri-implant-diseases-conditions-consensus]] — 동 workshop 임플란트주위 workgroup
+- [[implants/peri-implantitis/berglundh-2018-peri-implant-diseases-conditions-consensus]] — 동 workshop 임플란트주위 workgroup
 - [[periodontics/herrera-2022-treatment-stage-iv-periodontitis-efp]] — stage IV 치료 가이드라인

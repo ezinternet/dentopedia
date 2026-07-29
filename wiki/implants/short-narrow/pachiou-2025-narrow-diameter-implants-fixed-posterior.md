@@ -5,7 +5,7 @@ year: 2025
 date: 2025-03-29
 doi: "10.1111/jopr.14057"
 source: pachiou-2025-narrow-diameter-implants-fixed-posterior.md
-category: [implants]
+category: [implants/short-narrow]
 evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/pachiou-2025-narrow-diameter-implants-fixed-posterior.pdf
 pdf_filename: pachiou-2025-narrow-diameter-implants-fixed-posterior.pdf
@@ -54,6 +54,6 @@ PRISMA SR+MA (PROSPERO CRD42023428880). MEDLINE, Scopus, Cochrane + manual. NDI 
 - Technical complications 0–23.5%; biological comparisons not feasible.
 
 ## Related Papers
-- [[implants/cao-2023-titanium-zirconium-narrow-diameter-single-crown]] — extends (TiZr single-crown subset → broader posterior FDP)
-- [[implants/zhang-2024-narrow-regular-diameter-anterior-maxilla]] — reinforces (NDI equivalence in anterior zone)
+- [[implants/short-narrow/cao-2023-titanium-zirconium-narrow-diameter-single-crown]] — extends (TiZr single-crown subset → broader posterior FDP)
+- [[implants/short-narrow/zhang-2024-narrow-regular-diameter-anterior-maxilla]] — reinforces (NDI equivalence in anterior zone)
 - [[overviews/narrow-diameter-implants-clinical-outcomes-overview]] — posterior load-bearing axis

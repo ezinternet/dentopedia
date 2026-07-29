@@ -4,7 +4,7 @@ authors: Eik Schiegnitz, Bilal Al‐Nawas
 year: 2018
 doi: 10.1111/clr.13272
 source: sources/schiegnitz-2018-narrow-diameter-implants-systematic-review.md
-category: implants/survival
+category: implants/short-narrow
 evidence_level: sr+ma
 date: 2018-01-01
 pdf_path: /Users/oracleneo/llm-wiki/papers/schiegnitz-2018-narrow-diameter-implants-systematic-review.pdf

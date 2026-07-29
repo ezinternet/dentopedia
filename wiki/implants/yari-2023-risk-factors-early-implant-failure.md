@@ -45,7 +45,7 @@ This single-center retrospective cohort analysed 1323 implants placed in 738 pat
 ## Key Contributions
 
 - Anchors a multivariable (not single-factor) picture of early failure: anatomy (posterior maxilla, type IV bone), site history (periodontal extraction, prior augmentation), protocol (immediate provisional), and behavior (smoking) each contribute independently.
-- Quantifies **immediate provisional prosthesis** as the single strongest predictor (OR 3.42) in a general placement population — complementary to the all-on-four immediate-loading cohort ([[implants/uesugi-2024-risk-factors-early-failure-all-on-four]]).
+- Quantifies **immediate provisional prosthesis** as the single strongest predictor (OR 3.42) in a general placement population — complementary to the all-on-four immediate-loading cohort ([[implants/full-arch/uesugi-2024-risk-factors-early-failure-all-on-four]]).
 - Reproduces the smoking signal (OR 1.84) seen in pooled data ([[implants/fan-2024-smoking-early-implant-failure-sr-ma]]), but with a smaller effect once anatomy/protocol are held constant.
 - Demonstrates a vanishing narrow-implant effect after adjustment (OR 2.32, P=0.068) — a methodological caution.
 
@@ -76,7 +76,7 @@ No 95% CIs are reported in the abstract. The authors conclude early failure is m
 ## Related Papers
 
 - [[implants/fan-2024-smoking-early-implant-failure-sr-ma]] — reinforces (smoking → early failure, pooled OR 2.59 vs this cohort's adjusted OR 1.84)
-- [[implants/uesugi-2024-risk-factors-early-failure-all-on-four]] — extends (immediate-loading-specific cohort confirming maxilla + smoking)
+- [[implants/full-arch/uesugi-2024-risk-factors-early-failure-all-on-four]] — extends (immediate-loading-specific cohort confirming maxilla + smoking)
 - [[implants/bonsmann-2025-risk-factors-early-implant-failure-sinus-nested]] — extends (risk-factor modeling in sinus/grafted sites)
 - [[drug/antibiotics/momand-2024-antibiotic-prophylaxis-early-implant-failure]] — refines (intervention side: prophylaxis barely changes early-failure risk)
 - [[implants/moy-2005-dental-implant-failure-rates-risk]] — reinforces (classic implant-failure risk-factor reference)

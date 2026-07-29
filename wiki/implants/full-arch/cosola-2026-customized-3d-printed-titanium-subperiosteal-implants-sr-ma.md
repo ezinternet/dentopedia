@@ -5,7 +5,7 @@ year: 2026
 date: 2026-07-01
 doi: S0278-2391(26)00183-7
 source: cosola-2026-customized-3d-printed-titanium-subperiosteal-implants-sr-ma.md
-category: [implants]
+category: [implants/full-arch]
 evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/cosola-2026-customized-3d-printed-titanium-subperiosteal-implants-sr-ma.pdf
 pdf_filename: cosola-2026-customized-3d-printed-titanium-subperiosteal-implants-sr-ma.pdf
@@ -76,6 +76,6 @@ For the wiki's atrophic-jaw decision ladder (graft → short implant → tilted/
 - [[overviews/short-implant-vs-sinus-augmentation-decision]] — CSI extend this atrophic-jaw decision framework with a graftless salvage rung beyond short-implant vs augmentation.
 - [[overviews/peri-implant-soft-tissue-dehiscence-prevention]] — reinforces the same lesson: soft-tissue exposure/dehiscence, not osseointegration, drives late CSI failure.
 - [[overviews/vertical-ridge-augmentation-overview]] — CSI are the graftless counterpoint applied to the same severe-atrophy population that vertical augmentation targets.
-- [[implants/barausse-2024-4mm-short-implants-posterior-atrophic-8year]] — 4 mm short implants: the bone-based graftless alternative to CSI in the posterior atrophic ridge.
+- [[implants/short-narrow/barausse-2024-4mm-short-implants-posterior-atrophic-8year]] — 4 mm short implants: the bone-based graftless alternative to CSI in the posterior atrophic ridge.
 - [[sinus-lift/lateral/chaware-2021-short-vs-long-implant-sinus-graft-sr-ma]] — short-vs-graft evidence CSI sit alongside as another way to avoid augmentation.
-- [[implants/del-fabbro-2022-full-arch-tilted-axial-implants-sr-ma]] — tilted/full-arch endosseous rehabilitation, the more evidence-backed severe-atrophy option preferred before CSI salvage.
+- [[implants/full-arch/del-fabbro-2022-full-arch-tilted-axial-implants-sr-ma]] — tilted/full-arch endosseous rehabilitation, the more evidence-backed severe-atrophy option preferred before CSI salvage.

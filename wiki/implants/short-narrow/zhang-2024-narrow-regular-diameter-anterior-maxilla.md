@@ -5,7 +5,7 @@ year: 2024
 date: 2024-03-06
 doi: "10.1007/s00784-024-05588-4"
 source: zhang-2024-narrow-regular-diameter-anterior-maxilla.md
-category: [implants]
+category: [implants/short-narrow]
 evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/zhang-2024-narrow-regular-diameter-anterior-maxilla.pdf
 pdf_filename: zhang-2024-narrow-regular-diameter-anterior-maxilla.pdf
@@ -50,5 +50,5 @@ SR+MA (RCTs + cohort studies, ≥12-month follow-up), search to February 2024. N
 - Soft tissue dehiscence: most common complication, in the RDI group.
 
 ## Related Papers
-- [[implants/pachiou-2025-narrow-diameter-implants-fixed-posterior]] — reinforces (NDI equivalence in a different region)
+- [[implants/short-narrow/pachiou-2025-narrow-diameter-implants-fixed-posterior]] — reinforces (NDI equivalence in a different region)
 - [[overviews/narrow-diameter-implants-clinical-outcomes-overview]] — esthetic-zone axis of the NDI overview

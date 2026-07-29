@@ -5,7 +5,7 @@ year: 2024
 date: 2026-05-28
 doi: (manufacturer document)
 source: versah-immediate-implant-placement-protocol.md
-category: [implants/versah-protocols]
+category: [implants/osseodensification]
 evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/versah-immediate-implant-placement-protocol.pdf
 pdf_filename: versah-immediate-implant-placement-protocol.pdf
@@ -47,5 +47,5 @@ Manufacturer marketing document — not peer-reviewed. Apical-anchorage principl
 ## Related Papers
 - [[immediate-implant/molar-septum/bleyan-2021-molar-septum-expansion-osseodensification-immediate-implant]]
 - [[immediate-implant/gap-grafting/darosa-2019-immediate-dentoalveolar-restoration-osseodensification-periodontal]]
-- [[implants/versah-protocols/versah-idr-ii-immediate-dentoalveolar-restoration-protocol]]
-- [[implants/versah-protocols/versah-combined-molar-septum-expansion-sinus-lift-protocol]]
+- [[implants/osseodensification/versah-idr-ii-immediate-dentoalveolar-restoration-protocol]]
+- [[implants/osseodensification/versah-combined-molar-septum-expansion-sinus-lift-protocol]]

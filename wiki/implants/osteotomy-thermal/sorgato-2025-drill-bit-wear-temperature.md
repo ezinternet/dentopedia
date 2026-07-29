@@ -5,7 +5,7 @@ year: 2025
 date: 2025-03-19
 doi: 10.1371/journal.pone.0319492
 source: sorgato-2025-drill-bit-wear-temperature.md
-category: [implants]
+category: [implants/osteotomy-thermal]
 evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/sorgato-2025-drill-bit-wear-temperature.pdf
 pdf_filename: sorgato-2025-drill-bit-wear-temperature.pdf
@@ -58,8 +58,8 @@ Provides clean quantitative evidence that drill wear, isolated from coolant and 
 - High-volume 임상에서 drill 교체 로그 유지 권장 — 사용 횟수 추적이 thermal safety 인자.
 
 ## Related Papers
-- [[implants/bernabeu-mira-2020-bone-heating-drilling-implant]] — 50회 drilling에서 점진적 온도 상승 동일 관찰
-- [[implants/chakraborty-2024-implant-drill-materials-heat-osteotomy]] — SR가 동일한 wear–heat 신호를 일관되게 보고
-- [[implants/marenzi-2018-micromorphological-structure-implant-drills]] — drill 표면 미세구조와 tribological 거동
-- [[implants/heuzeroth-2021-thermal-exposure-osteotomy-osseointegration]] — aged drill arm 포함 in vivo
-- [[implants/aquilanti-2023-heat-generation-initial-osteotomy]] — 35회 사용까지 회전 drill wear 거의 없음 (다른 protocol)
+- [[implants/osteotomy-thermal/bernabeu-mira-2020-bone-heating-drilling-implant]] — 50회 drilling에서 점진적 온도 상승 동일 관찰
+- [[implants/osteotomy-thermal/chakraborty-2024-implant-drill-materials-heat-osteotomy]] — SR가 동일한 wear–heat 신호를 일관되게 보고
+- [[implants/osteotomy-thermal/marenzi-2018-micromorphological-structure-implant-drills]] — drill 표면 미세구조와 tribological 거동
+- [[implants/osteotomy-thermal/heuzeroth-2021-thermal-exposure-osteotomy-osseointegration]] — aged drill arm 포함 in vivo
+- [[implants/osteotomy-thermal/aquilanti-2023-heat-generation-initial-osteotomy]] — 35회 사용까지 회전 drill wear 거의 없음 (다른 protocol)

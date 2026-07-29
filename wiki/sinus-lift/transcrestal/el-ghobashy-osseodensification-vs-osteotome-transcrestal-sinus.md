@@ -47,4 +47,4 @@ Randomized clinical trial comparing osseodensification using Densah burs versus 
 ## Related Papers
 - [[sinus-lift/transcrestal/starch-jensen-2025-transcrestal-sinus-osseodensification-meta-analysis]] — SR+MA: OD higher ISQ vs OMSFE
 - [[sinus-lift/transcrestal/shalash-2023-crestal-sinus-elevation-densah-oblique]] — OD for oblique sinus floor
-- [[implants/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — original OD technique paper
+- [[implants/osseodensification/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — original OD technique paper

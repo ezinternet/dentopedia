@@ -5,7 +5,7 @@ year: 2026
 date: 2026-02-16
 doi: 10.1016/j.ijom.2026.02.008
 source: marzorati-2026-osseodensification-standard-osteotomy-torque-isq-sr-ma.md
-category: [implants]
+category: [implants/osseodensification]
 evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/marzorati-2026-osseodensification-standard-osteotomy-torque-isq-sr-ma.pdf
 pdf_filename: marzorati-2026-osseodensification-standard-osteotomy-torque-isq-sr-ma.pdf
@@ -68,8 +68,8 @@ The methodological discipline of excluding Summers osteotome and magnetic-mallet
 - For Korean clinical decision-making: this SR justifies OD as a reasonable choice in soft (D3/D4) bone and immediate-load candidates, but does NOT yet justify routine replacement of conventional drilling in normal-density bone.
 
 ## Related Papers
-- [[implants/yu-2022-primary-implant-stability-alternative-site-preparation-sr-ma]] — earlier SR with broader densification scope; OD MD 10.25 ISQ.
-- [[implants/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — original bench paper for OD.
-- [[implants/mello-machado-2021-osseodensification-low-quality-bone-rct]] — RCT in D3/D4 bone, likely included in the pool.
-- [[implants/koutouzis-2019-alveolar-ridge-expansion-osseodensification-multicenter-retrospective]] — multicenter retrospective context.
-- [[implants/slete-2018-histomorphometric-comparison-three-osteotomy-techniques]] — three-way bench comparison standard/osteotome/OD.
+- [[implants/osteotomy-thermal/yu-2022-primary-implant-stability-alternative-site-preparation-sr-ma]] — earlier SR with broader densification scope; OD MD 10.25 ISQ.
+- [[implants/osseodensification/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — original bench paper for OD.
+- [[implants/osseodensification/mello-machado-2021-osseodensification-low-quality-bone-rct]] — RCT in D3/D4 bone, likely included in the pool.
+- [[implants/osseodensification/koutouzis-2019-alveolar-ridge-expansion-osseodensification-multicenter-retrospective]] — multicenter retrospective context.
+- [[implants/osteotomy-thermal/slete-2018-histomorphometric-comparison-three-osteotomy-techniques]] — three-way bench comparison standard/osteotome/OD.

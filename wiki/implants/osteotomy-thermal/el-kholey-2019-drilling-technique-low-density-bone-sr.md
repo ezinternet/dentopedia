@@ -5,7 +5,7 @@ year: 2019
 date: 2019-10-01
 doi: "10.1097/ID.0000000000000917"
 source: el-kholey-2019-drilling-technique-low-density-bone-sr.md
-category: [implants]
+category: [implants/osteotomy-thermal]
 evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/el-kholey-2019-drilling-technique-low-density-bone-sr.pdf
 pdf_filename: el-kholey-2019-drilling-technique-low-density-bone-sr.pdf
@@ -51,7 +51,7 @@ Systematic review; MEDLINE/PubMed to April 2018; animal + clinical studies on dr
 - Weak overall evidence for enhanced osseointegration/survival in low-density bone.
 
 ## Related Papers
-- [[implants/tabassum-2021-undersized-axial-compression-primary-stability]] — refines; an experimental primary-stability gain whose long-term value this SR leaves unproven.
-- [[implants/fontes-pereira-2023-osseodensification-osteotomy-alternative-sr]] — refines; osseodensification SR whose survival claims this review qualifies.
-- [[implants/yu-2022-primary-implant-stability-alternative-site-preparation-sr-ma]] — related; later SR-MA on alternative site preparation.
+- [[implants/osteotomy-thermal/tabassum-2021-undersized-axial-compression-primary-stability]] — refines; an experimental primary-stability gain whose long-term value this SR leaves unproven.
+- [[implants/osseodensification/fontes-pereira-2023-osseodensification-osteotomy-alternative-sr]] — refines; osseodensification SR whose survival claims this review qualifies.
+- [[implants/osteotomy-thermal/yu-2022-primary-implant-stability-alternative-site-preparation-sr-ma]] — related; later SR-MA on alternative site preparation.
 - [[overviews/osseodensification-clinical-applications]] — supports the "primary stability ≠ long-term success" caution.

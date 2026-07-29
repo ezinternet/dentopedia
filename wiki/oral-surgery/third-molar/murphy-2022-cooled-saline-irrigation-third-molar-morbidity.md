@@ -61,4 +61,4 @@ Cooled irrigation significantly reduced morbidity: test patients had **lower pai
 - [[oral-surgery/third-molar/pattnayak-2024-prf-prp-third-molar-extraction-sr]] — PRF/PRP adjuncts to reduce third-molar post-op morbidity; cooled irrigation is a complementary intraoperative measure.
 - [[oral-surgery/third-molar/bailey-2020-surgical-techniques-mandibular-wisdom-teeth-sr]] — surgical-technique factors affecting third-molar outcomes.
 - [[suture-wound-closure/takadoum-2022-sutureless-socket-technique-third-molars]] — another low-morbidity third-molar wound-management approach.
-- [[implants/aquilanti-2023-heat-generation-initial-osteotomy]] — heat generation during bony drilling; the thermal rationale (cooling reduces tissue heat insult) parallels cooled-irrigation benefit.
+- [[implants/osteotomy-thermal/aquilanti-2023-heat-generation-initial-osteotomy]] — heat generation during bony drilling; the thermal rationale (cooling reduces tissue heat insult) parallels cooled-irrigation benefit.

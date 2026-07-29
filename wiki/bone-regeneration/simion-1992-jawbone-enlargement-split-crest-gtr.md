@@ -61,4 +61,4 @@ Clinical case series with biometric and histologic assessment. 5 patients with s
 
 - [[bone-regeneration/enislidis-2006-staged-ridge-splitting-implant-mandible]] — reinforced/extended by; the staged mandibular variant that predetermines the greenstick-fracture line.
 - [[bone-regeneration/ayoub-2018-ridge-splitting-horizontal-augmentation-case]] — reinforces; later single-stage ridge-split case in the same lineage.
-- [[implants/versah-protocols/guner-2025-osseodensification-ridge-split-implant-stability]] — extended by; osseodensification-assisted modern ridge split.
+- [[implants/osseodensification/guner-2025-osseodensification-ridge-split-implant-stability]] — extended by; osseodensification-assisted modern ridge split.

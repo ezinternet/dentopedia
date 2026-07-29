@@ -5,7 +5,7 @@ year: 2021
 date: 2021-04-15
 doi: 10.1038/s41598-021-87507-1
 source: yu-2021-extra-short-vs-longer-implants-ma.md
-category: [implants]
+category: [implants/short-narrow]
 evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/yu-2021-extra-short-vs-longer-implants-ma.pdf
 pdf_filename: yu-2021-extra-short-vs-longer-implants-ma.pdf
@@ -45,6 +45,6 @@ No survival difference at 1y (RR 1.002) or 3y (RR 0.996). Longer implants higher
 Heterogeneity across implant systems and protocols. Low-quality evidence on some MBL endpoints.
 
 ## Related Papers
-- [[implants/anitua-2022-short-vs-longer-implants-single-crown]]
-- [[implants/sivolella-2025-extra-short-5-6mm-implants-5year]]
-- [[implants/barausse-2024-4mm-short-implants-posterior-atrophic-8year]]
+- [[implants/short-narrow/anitua-2022-short-vs-longer-implants-single-crown]]
+- [[implants/short-narrow/sivolella-2025-extra-short-5-6mm-implants-5year]]
+- [[implants/short-narrow/barausse-2024-4mm-short-implants-posterior-atrophic-8year]]

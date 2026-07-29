@@ -55,10 +55,10 @@ Retrospective chart review of consecutive patients treated at three centres betw
 - MBL, ISQ, IT, complication categories, and subgroup analyses not extractable from available text.
 
 ## Related Papers
-- [[implants/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — bench foundation
+- [[implants/osseodensification/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — bench foundation
 - [[sinus-lift/transcrestal/cobo-vazquez-2025-crestal-sinus-lift-osteotome-vs-osseodensification]] — SR+MA citing this paper
 - [[sinus-lift/transcrestal/starch-jensen-2025-transcrestal-sinus-osseodensification-meta-analysis]] — companion meta-analysis
 - [[sinus-lift/transcrestal/sirinirund-2025-minimally-invasive-sinus-augmentation-review]] — minimally invasive review
 - [[sinus-lift/transcrestal/stuhr-2025-long-term-stability-transcrestal-sinus-augmentation]] — long-term radiographic outcomes
 - [[sinus-lift/lateral/diaz-olivares-2021-schneiderian-membrane-perforation-sinus-lift]] — comparator perforation rates from lateral window literature
-- [[implants/kanathila-2018-insight-osseodensification-implant-stability-success]] — concept review
+- [[implants/osseodensification/kanathila-2018-insight-osseodensification-implant-stability-success]] — concept review

@@ -5,7 +5,7 @@ year: 2024
 date: 2026-05-28
 doi: (manufacturer document)
 source: versah-idr-ii-immediate-dentoalveolar-restoration-protocol.md
-category: [implants/versah-protocols]
+category: [implants/osseodensification]
 evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/versah-idr-ii-immediate-dentoalveolar-restoration-protocol.pdf
 pdf_filename: versah-idr-ii-immediate-dentoalveolar-restoration-protocol.pdf
@@ -47,5 +47,5 @@ Manufacturer marketing document — not peer-reviewed. Highly operator-dependent
 ## Related Papers
 - [[immediate-implant/gap-grafting/darosa-2019-immediate-dentoalveolar-restoration-osseodensification-periodontal]]
 - [[immediate-implant/molar-septum/bleyan-2021-molar-septum-expansion-osseodensification-immediate-implant]]
-- [[implants/versah-protocols/versah-immediate-implant-placement-protocol]]
-- [[implants/versah-protocols/versah-combined-molar-septum-expansion-sinus-lift-protocol]]
+- [[implants/osseodensification/versah-immediate-implant-placement-protocol]]
+- [[implants/osseodensification/versah-combined-molar-septum-expansion-sinus-lift-protocol]]

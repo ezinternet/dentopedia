@@ -5,7 +5,7 @@ year: 2025
 date: 2025-06-01
 doi: 10.1016/j.prosdent.2024.07.011
 source: kalra-2025-implant-stability-crestal-bone-osseodensification-sr-ma.md
-category: [implants]
+category: [implants/osseodensification]
 evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/kalra-2025-implant-stability-crestal-bone-osseodensification-sr-ma.pdf
 pdf_filename: kalra-2025-implant-stability-crestal-bone-osseodensification-sr-ma.pdf
@@ -32,7 +32,7 @@ OD의 기계적 1차 안정성 이점이 변연골 보호로 이어지지 않음
 ## Summary
 Kalra and colleagues (2025, J Prosthet Dent) published the most recent human-focused systematic review and meta-analysis dedicated to osseodensification (OD) outcomes in low-density bone, the indication where OD claims its strongest clinical benefit. Pooling data from 5 studies (109 patients, 198 implants) and using JBI tools for risk-of-bias appraisal, they confirm the OD ISQ advantage and add a new, nuanced finding on crestal bone level (CBL).
 
-The ISQ result is consistent with the broader OD SR+MA literature: OD produced significantly higher ISQ values than conventional drilling at both baseline and follow-up (P < .05) — direction and significance aligned with Gaspar 2022 ([[implants/gaspar-2022-implant-stability-osseodensification-conventional-sr-ma]]) and Lima Monteiro 2024 ([[implants/lima-monteiro-2024-osseodensification-biomechanics-histomorphometry-sr-ma]]).
+The ISQ result is consistent with the broader OD SR+MA literature: OD produced significantly higher ISQ values than conventional drilling at both baseline and follow-up (P < .05) — direction and significance aligned with Gaspar 2022 ([[implants/osseodensification/gaspar-2022-implant-stability-osseodensification-conventional-sr-ma]]) and Lima Monteiro 2024 ([[implants/osseodensification/lima-monteiro-2024-osseodensification-biomechanics-histomorphometry-sr-ma]]).
 
 The novel and clinically important contribution is the **CBL null finding**: changes in crestal bone level were *not* significantly different between OD and conventional drilling at either baseline or follow-up (P > .05). This is the first SR+MA to pool CBL across OD trials and the answer is uncomfortable for OD marketing claims — the mechanical advantage in primary and secondary stability does **not** translate into measurable peri-implant bone protection over the follow-up windows captured.
 
@@ -58,11 +58,11 @@ PRISMA-guided systematic review of SCOPUS, PubMed, and Google Scholar (plus manu
 - Specific MD, 95% CI, and I² values are in the full PDF; not extractable from the front/back excerpts available here.
 
 ## Related Papers
-- [[implants/gaspar-2022-implant-stability-osseodensification-conventional-sr-ma]] — predecessor human ISQ SR+MA
-- [[implants/lima-monteiro-2024-osseodensification-biomechanics-histomorphometry-sr-ma]] — broader (human + animal) SR+MA
-- [[implants/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — Huwais foundational bench paper
-- [[implants/gaikwad-2022-osseodensification-animal-biomechanics-bic-sr-ma]] — animal-only SR+MA
-- [[implants/kanathila-2018-insight-osseodensification-implant-stability-success]] — narrative concept review
+- [[implants/osseodensification/gaspar-2022-implant-stability-osseodensification-conventional-sr-ma]] — predecessor human ISQ SR+MA
+- [[implants/osseodensification/lima-monteiro-2024-osseodensification-biomechanics-histomorphometry-sr-ma]] — broader (human + animal) SR+MA
+- [[implants/osseodensification/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — Huwais foundational bench paper
+- [[implants/osseodensification/gaikwad-2022-osseodensification-animal-biomechanics-bic-sr-ma]] — animal-only SR+MA
+- [[implants/osseodensification/kanathila-2018-insight-osseodensification-implant-stability-success]] — narrative concept review
 - [[sinus-lift/transcrestal/cobo-vazquez-2025-crestal-sinus-lift-osteotome-vs-osseodensification]] — clinical sinus OD SR+MA
 - [[implants/mbl/mortazavi-2021-bone-loss-tissue-bone-level-implants]] — context for CBL outcome interpretation
 - [[implants/isq/al-jetaily-2010-osstell-periotest-implant-stability-in-vitro]] — ISQ measurement context

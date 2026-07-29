@@ -65,8 +65,8 @@ Three patients selected for difficult sinus-lift indications (large posterior ed
 - Update this page when a prospective controlled trial of OD-crestal vs lateral window in low-RBH sinus elevation appears.
 
 ## Related Papers
-- [[implants/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — original OD technique source
-- [[implants/padhye-2020-osseodensification-systematic-review-qualitative-analysis]] — SR on OD (implant context, not sinus)
-- [[implants/inchingolo-2021-osseodensification-implant-site-osteotomy-sr-ma]] — SR+MA on OD (implant context)
-- [[implants/trisi-2016-osseodensification-low-density-bone-sheep]] — sheep biomechanics of OD relevant to ridge expansion claim
-- [[implants/lopez-2017-osseodensification-spinal-surgical-hardware-fixation]] — OD principle in orthopaedic context
+- [[implants/osseodensification/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — original OD technique source
+- [[implants/osseodensification/padhye-2020-osseodensification-systematic-review-qualitative-analysis]] — SR on OD (implant context, not sinus)
+- [[implants/osseodensification/inchingolo-2021-osseodensification-implant-site-osteotomy-sr-ma]] — SR+MA on OD (implant context)
+- [[implants/osseodensification/trisi-2016-osseodensification-low-density-bone-sheep]] — sheep biomechanics of OD relevant to ridge expansion claim
+- [[implants/osseodensification/lopez-2017-osseodensification-spinal-surgical-hardware-fixation]] — OD principle in orthopaedic context

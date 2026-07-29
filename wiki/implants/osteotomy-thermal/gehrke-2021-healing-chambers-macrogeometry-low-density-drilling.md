@@ -5,7 +5,7 @@ year: 2021
 date: 2021-07-30
 doi: "10.4103/jispcd.JISPCD_96_21"
 source: gehrke-2021-healing-chambers-macrogeometry-low-density-drilling.md
-category: [implants]
+category: [implants/osteotomy-thermal]
 evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/gehrke-2021-healing-chambers-macrogeometry-low-density-drilling.pdf
 pdf_filename: gehrke-2021-healing-chambers-macrogeometry-low-density-drilling.pdf
@@ -51,6 +51,6 @@ In-vitro; 120 implants, 6 groups (2 macrogeometries × 3 drilling techniques), n
 - Healing-chamber macrogeometry: more residual surface bone post-pullout.
 
 ## Related Papers
-- [[implants/el-kholey-2019-drilling-technique-low-density-bone-sr]] — reinforces; confirms undersized drilling alone may not secure type IV bone.
-- [[implants/tabassum-2021-undersized-axial-compression-primary-stability]] — extends; adds macrogeometry to the compression-vector story.
-- [[implants/slete-2018-histomorphometric-comparison-three-osteotomy-techniques]] — related; osteotomy-technique comparison.
+- [[implants/osteotomy-thermal/el-kholey-2019-drilling-technique-low-density-bone-sr]] — reinforces; confirms undersized drilling alone may not secure type IV bone.
+- [[implants/osteotomy-thermal/tabassum-2021-undersized-axial-compression-primary-stability]] — extends; adds macrogeometry to the compression-vector story.
+- [[implants/osteotomy-thermal/slete-2018-histomorphometric-comparison-three-osteotomy-techniques]] — related; osteotomy-technique comparison.

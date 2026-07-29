@@ -5,7 +5,7 @@ year: 2025
 date: 2025-01-01
 doi: 10.1186/s40729-025-00647-1
 source: koyama-2025-single-vs-two-implant-mandibular-overdenture-sr-ma.md
-category: implants
+category: implants/full-arch
 evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
@@ -78,5 +78,5 @@ This updates and partly overturns an earlier SR (Ahmed et al.) that had reported
 
 ## Related Papers
 
-- [[implants/park-2023-narrow-regular-diameter-mandibular-overdentures]] — implant *diameter* (narrow vs regular) variable in mandibular overdentures; complements the *number-of-implants* axis here.
-- [[implants/liu-2021-immediate-delayed-loading-overdenture-mbl-sr-ma]] — *loading-timing* and MBL in overdentures; this paper's subgroup analysis confirms loading protocol does not change the survival equivalence.
+- [[implants/short-narrow/park-2023-narrow-regular-diameter-mandibular-overdentures]] — implant *diameter* (narrow vs regular) variable in mandibular overdentures; complements the *number-of-implants* axis here.
+- [[implants/full-arch/liu-2021-immediate-delayed-loading-overdenture-mbl-sr-ma]] — *loading-timing* and MBL in overdentures; this paper's subgroup analysis confirms loading protocol does not change the survival equivalence.

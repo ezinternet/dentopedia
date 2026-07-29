@@ -55,7 +55,7 @@ On every side examined, the inferior labial artery (ILA) — a branch of the fac
 - **Specimens**: 14 sides from 7 fresh-frozen Caucasian cadaveric heads (2 female, 5 male); mean age at death 75.9 ± 10.8 years.
 - **Procedure**: standardized PRI on the mandibular buccal periosteum adjacent to the lower molars, made with a no. 15c blade under a surgical microscope.
 - **Dissection**: fat tissue lateral to the periosteum slightly dissected to expose the facial artery/its branch; diameter and closest tooth-to-artery relationship recorded; artery traced proximally to confirm origin.
-- **Evidence level**: `in-vitro` — this wiki classifies human fresh-frozen cadaver dissection studies as ex-vivo bench-type anatomical studies rather than `animal`/`in-vivo`, per the established precedent at [[implants/versah-protocols/rittipakorn-2025-clockwise-osseodensification-primary-stability-cadaveric]].
+- **Evidence level**: `in-vitro` — this wiki classifies human fresh-frozen cadaver dissection studies as ex-vivo bench-type anatomical studies rather than `animal`/`in-vivo`, per the established precedent at [[implants/osseodensification/rittipakorn-2025-clockwise-osseodensification-primary-stability-cadaveric]].
 - Abstract-only ingestion (no PMCID); no additional body-text statistics beyond mean ± SD are available.
 
 ## Results

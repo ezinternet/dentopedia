@@ -5,7 +5,7 @@ year: 2022
 date: 2022-01-01
 doi: 10.11607/jomi.9144
 source: mercier-2022-osseodensification-primary-stability-cadavers.md
-category: [implants/versah-protocols]
+category: [implants/osseodensification]
 evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: false
@@ -65,6 +65,6 @@ The OD IT value (34.9 Ncm) aligns closely with Rittipakorn 2025 clockwise OD cad
 
 ## Related Papers
 
-- [[implants/versah-protocols/rittipakorn-2025-clockwise-osseodensification-primary-stability-cadaveric]] — Clockwise OD cadaveric tibiae: OD IT 34.0 Ncm (virtually identical to 34.9 Ncm here); IT-ISQ correlation ρ=0.577
-- [[implants/gaikwad-2022-osseodensification-animal-biomechanics-bic-sr-ma]] — SR+MA of OD animal/biomechanics studies; confirms BIC and stability advantages
-- [[implants/versah-protocols/moghaddas-2025-osseodensification-standard-drilling-isq-itv]] — Clinical OD vs standard: IT and ISQ outcomes
+- [[implants/osseodensification/rittipakorn-2025-clockwise-osseodensification-primary-stability-cadaveric]] — Clockwise OD cadaveric tibiae: OD IT 34.0 Ncm (virtually identical to 34.9 Ncm here); IT-ISQ correlation ρ=0.577
+- [[implants/osseodensification/gaikwad-2022-osseodensification-animal-biomechanics-bic-sr-ma]] — SR+MA of OD animal/biomechanics studies; confirms BIC and stability advantages
+- [[implants/osseodensification/moghaddas-2025-osseodensification-standard-drilling-isq-itv]] — Clinical OD vs standard: IT and ISQ outcomes

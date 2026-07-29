@@ -5,7 +5,7 @@ year: 2021
 date: 2021-02-28
 doi: 10.3390/ma14051147
 source: inchingolo-2021-osseodensification-implant-site-osteotomy-sr-ma.md
-category: [implants]
+category: [implants/osseodensification]
 evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/inchingolo-2021-osseodensification-implant-site-osteotomy-sr-ma.pdf
 pdf_filename: inchingolo-2021-osseodensification-implant-site-osteotomy-sr-ma.pdf
@@ -65,14 +65,14 @@ PubMed-Medline-only systematic search per PRISMA. 16 papers included. The meta-a
 
 ## Living Document Notes
 - Use as the **best current pooled estimate** of OD vs conventional drilling — but treat the animal-only meta-analytic effect as a ceiling, not a clinical promise.
-- Cite alongside [[implants/padhye-2020-osseodensification-systematic-review-qualitative-analysis]] when discussing OD evidence base evolution 2018→2021.
-- For human clinical decisions, prefer the now-held human-pooled SR+MAs: [[implants/marzorati-2026-osseodensification-standard-osteotomy-torque-isq-sr-ma]] (ISQ MD 3.24, clinically small) and [[implants/lima-monteiro-2024-osseodensification-biomechanics-histomorphometry-sr-ma]] (human benefit fades by secondary stability). The animal-only ceiling on this page over-states human gains.
+- Cite alongside [[implants/osseodensification/padhye-2020-osseodensification-systematic-review-qualitative-analysis]] when discussing OD evidence base evolution 2018→2021.
+- For human clinical decisions, prefer the now-held human-pooled SR+MAs: [[implants/osseodensification/marzorati-2026-osseodensification-standard-osteotomy-torque-isq-sr-ma]] (ISQ MD 3.24, clinically small) and [[implants/osseodensification/lima-monteiro-2024-osseodensification-biomechanics-histomorphometry-sr-ma]] (human benefit fades by secondary stability). The animal-only ceiling on this page over-states human gains.
 
 ## Related Papers
-- [[implants/marzorati-2026-osseodensification-standard-osteotomy-torque-isq-sr-ma]] — supersedes (partial): human OD-only pooling, modest ISQ effect
-- [[implants/lima-monteiro-2024-osseodensification-biomechanics-histomorphometry-sr-ma]] — supersedes (partial): human ISQ fades by secondary stability
-- [[implants/padhye-2020-osseodensification-systematic-review-qualitative-analysis]] — earlier qualitative SR superseded by this one quantitatively
-- [[implants/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — primary technique source
-- [[implants/trisi-2016-osseodensification-low-density-bone-sheep]] — included sheep histology study
+- [[implants/osseodensification/marzorati-2026-osseodensification-standard-osteotomy-torque-isq-sr-ma]] — supersedes (partial): human OD-only pooling, modest ISQ effect
+- [[implants/osseodensification/lima-monteiro-2024-osseodensification-biomechanics-histomorphometry-sr-ma]] — supersedes (partial): human ISQ fades by secondary stability
+- [[implants/osseodensification/padhye-2020-osseodensification-systematic-review-qualitative-analysis]] — earlier qualitative SR superseded by this one quantitatively
+- [[implants/osseodensification/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — primary technique source
+- [[implants/osseodensification/trisi-2016-osseodensification-low-density-bone-sheep]] — included sheep histology study
 - [[implants/surface/witek-2019-osseodensification-trabecular-tantalum-implants-sheep]] — included sheep × tantalum study
-- [[implants/lopez-2017-osseodensification-spinal-surgical-hardware-fixation]] — OD principle outside dental implantology
+- [[implants/osseodensification/lopez-2017-osseodensification-spinal-surgical-hardware-fixation]] — OD principle outside dental implantology

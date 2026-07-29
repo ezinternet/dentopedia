@@ -58,7 +58,7 @@ PRISMA-reported, PROSPERO-registered (CRD42024599304) umbrella review. Literatur
 
 ## Related Papers
 
-- [[implants/koyama-2025-single-vs-two-implant-mandibular-overdenture-sr-ma]] — direct SR+MA of 17 RCTs on the same SIMO-vs-TIMO question, finding equivalent implant survival through 5 years but ~2× more prosthetic complications (denture fracture, remake, metal-housing reattachment) with SIMO; complements this umbrella review's SR-quality-appraisal layer with quantified RR estimates from primary RCTs.
+- [[implants/full-arch/koyama-2025-single-vs-two-implant-mandibular-overdenture-sr-ma]] — direct SR+MA of 17 RCTs on the same SIMO-vs-TIMO question, finding equivalent implant survival through 5 years but ~2× more prosthetic complications (denture fracture, remake, metal-housing reattachment) with SIMO; complements this umbrella review's SR-quality-appraisal layer with quantified RR estimates from primary RCTs.
 - [[complete-denture/sutariya-2021-mandibular-implant-supported-overdenture-systematic]] — related systematic review on mandibular implant-supported overdentures.
 - [[complete-denture/tayari-2024-implant-supported-overdenture-failures-sr]] — SR on implant-supported overdenture failures.
 - [[complete-denture/aung-2025-mini-dental-implants-mandibular-overdenture-sr]] — SR on mini dental implants for mandibular overdentures, an adjacent implant-number/design variable.

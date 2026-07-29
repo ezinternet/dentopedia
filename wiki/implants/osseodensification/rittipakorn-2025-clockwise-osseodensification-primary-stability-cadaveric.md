@@ -5,7 +5,7 @@ year: 2025
 date: 2025-11-12
 doi: 10.3389/fdmed.2025.1712749
 source: rittipakorn-2025-clockwise-osseodensification-primary-stability-cadaveric.md
-category: [implants/versah-protocols]
+category: [implants/osseodensification]
 evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/rittipakorn-2025-clockwise-osseodensification-primary-stability-cadaveric.pdf
 pdf_filename: rittipakorn-2025-clockwise-osseodensification-primary-stability-cadaveric.pdf
@@ -69,9 +69,9 @@ Standard 골밀도화(Osseodensification, OD)는 제조사(Versah) 지침대로 
 
 ## Related Papers
 
-- [[implants/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — original (CCW) OD concept; this CW protocol is a directional/speed variant of it.
-- [[implants/marzorati-2026-osseodensification-standard-osteotomy-torque-isq-sr-ma]] — SR+MA of standard OD vs SD torque/ISQ; this cadaveric trend reinforces the OD-raises-IT direction.
-- [[implants/mello-machado-2021-osseodensification-low-quality-bone-rct]] — OD RCT in low-quality bone (clinical counterpart).
+- [[implants/osseodensification/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — original (CCW) OD concept; this CW protocol is a directional/speed variant of it.
+- [[implants/osseodensification/marzorati-2026-osseodensification-standard-osteotomy-torque-isq-sr-ma]] — SR+MA of standard OD vs SD torque/ISQ; this cadaveric trend reinforces the OD-raises-IT direction.
+- [[implants/osseodensification/mello-machado-2021-osseodensification-low-quality-bone-rct]] — OD RCT in low-quality bone (clinical counterpart).
 - [[implants/isq/al-ahmari-2022-osseodensification-conventional-low-density-jaw]] — OD vs conventional in low-density jaw, ISQ.
 - [[implants/isq/althobaiti-2023-osseodensification-conventional-drilling-isq-sr]] — SR of OD vs conventional ISQ.
-- [[implants/versah-protocols/ali-2026-osseodensification-techniques-implant-stability-maxilla]] — OD techniques for maxillary implant stability.
+- [[implants/osseodensification/ali-2026-osseodensification-techniques-implant-stability-maxilla]] — OD techniques for maxillary implant stability.

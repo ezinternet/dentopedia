@@ -5,7 +5,7 @@ year: 2009
 date: 2009-02-05
 doi: 10.1111/j.1600-0501.2008.01643.x
 source: sener-2009-effects-irrigation-temperature-heat-control.md
-category: [implants]
+category: [implants/osteotomy-thermal]
 evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/sener-2009-effects-irrigation-temperature-heat-control.pdf
 pdf_filename: sener-2009-effects-irrigation-temperature-heat-control.pdf
@@ -55,7 +55,7 @@ Ex vivo bovine mandible segments (12 × 6 cm), drilled with thermoresistors 0.5 
 | 10°C saline irrigation | <body temp | <body temp | 36.3°C |
 
 ## Related Papers
-- [[implants/aquilanti-2023-heat-generation-initial-osteotomy]] — 14 years later, independently reconfirms that 10°C saline significantly lowers peak osteotomy temperature vs warmer saline (p<0.001); direct reinforcement of Sener's irrigation-temperature finding.
-- [[implants/woods-2022-does-irrigating-while-drilling-decrease]] — in vivo canine model confirms saline irrigation reduces both temperature rise and histologic osteonecrosis, generalizing Sener's in vitro irrigation-benefit result to a higher evidence level.
-- [[implants/bernabeu-mira-2020-bone-heating-drilling-implant]] — reports initial/shallow drilling generates more heat than deeper progressive stages, paralleling Sener's superficial > deep depth gradient.
-- [[implants/chauhan-2018-biomechanical-factors-heat-generation-osteotomy]] — narrative SR situating irrigation temperature as one of several multifactorial determinants of osteotomy heat.
+- [[implants/osteotomy-thermal/aquilanti-2023-heat-generation-initial-osteotomy]] — 14 years later, independently reconfirms that 10°C saline significantly lowers peak osteotomy temperature vs warmer saline (p<0.001); direct reinforcement of Sener's irrigation-temperature finding.
+- [[implants/osteotomy-thermal/woods-2022-does-irrigating-while-drilling-decrease]] — in vivo canine model confirms saline irrigation reduces both temperature rise and histologic osteonecrosis, generalizing Sener's in vitro irrigation-benefit result to a higher evidence level.
+- [[implants/osteotomy-thermal/bernabeu-mira-2020-bone-heating-drilling-implant]] — reports initial/shallow drilling generates more heat than deeper progressive stages, paralleling Sener's superficial > deep depth gradient.
+- [[implants/osteotomy-thermal/chauhan-2018-biomechanical-factors-heat-generation-osteotomy]] — narrative SR situating irrigation temperature as one of several multifactorial determinants of osteotomy heat.

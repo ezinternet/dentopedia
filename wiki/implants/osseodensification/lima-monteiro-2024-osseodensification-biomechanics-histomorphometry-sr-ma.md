@@ -5,7 +5,7 @@ year: 2024
 date: 2024-03-27
 doi: 10.3290/j.qi.b4656937
 source: lima-monteiro-2024-osseodensification-biomechanics-histomorphometry-sr-ma.md
-category: [implants]
+category: [implants/osseodensification]
 evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/lima-monteiro-2024-osseodensification-biomechanics-histomorphometry-sr-ma.pdf
 pdf_filename: lima-monteiro-2024-osseodensification-biomechanics-histomorphometry-sr-ma.pdf
@@ -34,7 +34,7 @@ Lima Monteiro and colleagues (2024, Quintessence International) published the br
 
 The clinically most actionable finding is **human ISQ at baseline (primary stability) — median difference of 8.57** favouring OD. An 8.57-ISQ gap is clinically meaningful: it spans roughly the difference between a "stable" implant and a "very stable" implant on the Osstell interpretive bands. However, at the secondary-stability follow-up (typically 4–6 months), the median difference shrinks to **4.49 and is no longer statistically significant** — meaning biology equalises the early mechanical advantage by the time the implant is functionally loaded. Clinically, OD's value appears concentrated in the primary-stability window, particularly relevant for immediate loading or sites with low native density.
 
-In animal models, OD's effect sizes are large (insertion torque MD 46.79, BIC MD 2.17, BAFO MD 2.11), consistent with the Huwais 2017 bench data ([[implants/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]]) but with high heterogeneity. The certainty of evidence is rated low to moderate, with risk of bias mostly moderate across included studies. Clinical RCTs of OD remain sparse and the authors call for more.
+In animal models, OD's effect sizes are large (insertion torque MD 46.79, BIC MD 2.17, BAFO MD 2.11), consistent with the Huwais 2017 bench data ([[implants/osseodensification/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]]) but with high heterogeneity. The certainty of evidence is rated low to moderate, with risk of bias mostly moderate across included studies. Clinical RCTs of OD remain sparse and the authors call for more.
 
 ## Key Contributions
 - Broadest OD SR+MA — 8 databases, 11 studies, both human and animal evidence.
@@ -60,10 +60,10 @@ PRISMA-style SR+MA. Eight databases searched through August 2021 (447 records in
 - Specific 95% CI and I² statistics in the full PDF only.
 
 ## Related Papers
-- [[implants/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — bench foundation
-- [[implants/gaikwad-2022-osseodensification-animal-biomechanics-bic-sr-ma]] — animal-only SR+MA
-- [[implants/gaspar-2022-implant-stability-osseodensification-conventional-sr-ma]] — human-only ISQ SR+MA (3 NRSIs)
-- [[implants/kalra-2025-implant-stability-crestal-bone-osseodensification-sr-ma]] — newer ISQ + CBL SR+MA
-- [[implants/kanathila-2018-insight-osseodensification-implant-stability-success]] — narrative concept review
+- [[implants/osseodensification/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — bench foundation
+- [[implants/osseodensification/gaikwad-2022-osseodensification-animal-biomechanics-bic-sr-ma]] — animal-only SR+MA
+- [[implants/osseodensification/gaspar-2022-implant-stability-osseodensification-conventional-sr-ma]] — human-only ISQ SR+MA (3 NRSIs)
+- [[implants/osseodensification/kalra-2025-implant-stability-crestal-bone-osseodensification-sr-ma]] — newer ISQ + CBL SR+MA
+- [[implants/osseodensification/kanathila-2018-insight-osseodensification-implant-stability-success]] — narrative concept review
 - [[sinus-lift/transcrestal/cobo-vazquez-2025-crestal-sinus-lift-osteotome-vs-osseodensification]] — clinical sinus OD SR+MA
 - [[implants/isq/al-jetaily-2010-osstell-periotest-implant-stability-in-vitro]] — ISQ measurement context for the 8.57-point gap

@@ -5,7 +5,7 @@ year: 2026
 date: 2026-01-01
 doi: 10.1186/s12903-026-08802-9
 source: ali-2026-osseodensification-techniques-implant-stability-maxilla.md
-category: [implants/versah-protocols]
+category: [implants/osseodensification]
 evidence_level: rct
 source_collection: pubmed-text
 full_text: true
@@ -85,5 +85,5 @@ Key mechanistic note: DB relies on rolling-sliding plastic deformation and autog
 ## Related Papers
 
 - [[implants/isq/althobaiti-2023-osseodensification-conventional-drilling-isq-sr]] — SR confirming OD superior ISQ vs conventional drilling; this RCT extends to DB vs MM comparison
-- [[implants/versah-protocols/versah-densah-sinus-lift-i-protocol-rbh-6mm-minimum]] — Versah protocol family; complementary OD application context
+- [[implants/osseodensification/versah-densah-sinus-lift-i-protocol-rbh-6mm-minimum]] — Versah protocol family; complementary OD application context
 - [[overviews/isq-loading-threshold]] — ISQ loading threshold literature reinforced by DB achieving ≥70 at placement in esthetic zone

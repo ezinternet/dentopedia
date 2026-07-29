@@ -5,7 +5,7 @@ year: 2018
 date: 2018-02-01
 doi: "10.1563/aaid-joi-D-17-00077"
 source: di-fiore-2018-continuous-intermittent-drilling-temperature.md
-category: implants
+category: implants/osteotomy-thermal
 evidence_level: in-vitro
 source_collection: pubmed-abstract
 full_text: false
@@ -69,6 +69,6 @@ Exact mean temperatures not available from abstract.
 
 ## Related Papers
 
-- [[implants/kapse-2022-thermal-effect-operatory-room-temperature-surgical]] — reinforces: irrigation temperature the only significant factor in both studies
-- [[implants/gehrke-2020-technique-drill-design-osteotomy]] — contrasting finding (in vivo rabbit): intermittent movement significantly reduces temperature for cylindrical drills; discrepancy likely reflects drill geometry or bone model differences
+- [[implants/osteotomy-thermal/kapse-2022-thermal-effect-operatory-room-temperature-surgical]] — reinforces: irrigation temperature the only significant factor in both studies
+- [[implants/osteotomy-thermal/gehrke-2020-technique-drill-design-osteotomy]] — contrasting finding (in vivo rabbit): intermittent movement significantly reduces temperature for cylindrical drills; discrepancy likely reflects drill geometry or bone model differences
 - [[overviews/osteotomy-drilling-heat-determinants-irrigation-overview]] — extends: adds direct technique-comparison evidence supporting the overview's Tier-1 irrigation > Tier-3 technique ranking

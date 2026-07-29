@@ -7,11 +7,11 @@ type: overview
 category: [overviews]
 tags: [osseodensification, densahbur, versah, sinus-lift, immediate-implant, septum-expansion, idr, protocol-selection, manufacturer-document]
 source_papers:
-  - wiki/implants/versah-protocols/versah-densah-sinus-lift-i-protocol-rbh-6mm-minimum.md
-  - wiki/implants/versah-protocols/versah-densah-sinus-lift-ii-protocol-rbh-4-5mm.md
-  - wiki/implants/versah-protocols/versah-combined-molar-septum-expansion-sinus-lift-protocol.md
-  - wiki/implants/versah-protocols/versah-idr-ii-immediate-dentoalveolar-restoration-protocol.md
-  - wiki/implants/versah-protocols/versah-immediate-implant-placement-protocol.md
+  - wiki/implants/osseodensification/versah-densah-sinus-lift-i-protocol-rbh-6mm-minimum.md
+  - wiki/implants/osseodensification/versah-densah-sinus-lift-ii-protocol-rbh-4-5mm.md
+  - wiki/implants/osseodensification/versah-combined-molar-septum-expansion-sinus-lift-protocol.md
+  - wiki/implants/osseodensification/versah-idr-ii-immediate-dentoalveolar-restoration-protocol.md
+  - wiki/implants/osseodensification/versah-immediate-implant-placement-protocol.md
 evidence_level: synthesis
 source: synthesis
 agenda: agenda/2026-06-01_versah-protocol-selection-map.md
@@ -157,19 +157,19 @@ graph TD
 ---
 
 ## Related Papers
-- [[implants/versah-protocols/versah-densah-sinus-lift-i-protocol-rbh-6mm-minimum]] — ① Sinus Lift I 카드
-- [[implants/versah-protocols/versah-densah-sinus-lift-ii-protocol-rbh-4-5mm]] — ② Sinus Lift II 카드
-- [[implants/versah-protocols/versah-combined-molar-septum-expansion-sinus-lift-protocol]] — ③ 구치 septum 확장+거상 카드
-- [[implants/versah-protocols/versah-idr-ii-immediate-dentoalveolar-restoration-protocol]] — ④ IDR II 카드
-- [[implants/versah-protocols/versah-immediate-implant-placement-protocol]] — ⑤ 즉시식립 카드
+- [[implants/osseodensification/versah-densah-sinus-lift-i-protocol-rbh-6mm-minimum]] — ① Sinus Lift I 카드
+- [[implants/osseodensification/versah-densah-sinus-lift-ii-protocol-rbh-4-5mm]] — ② Sinus Lift II 카드
+- [[implants/osseodensification/versah-combined-molar-septum-expansion-sinus-lift-protocol]] — ③ 구치 septum 확장+거상 카드
+- [[implants/osseodensification/versah-idr-ii-immediate-dentoalveolar-restoration-protocol]] — ④ IDR II 카드
+- [[implants/osseodensification/versah-immediate-implant-placement-protocol]] — ⑤ 즉시식립 카드
 - [[overviews/osseodensification-clinical-applications]] — **자매 overview (evidence 축, why)**
 - [[sinus-lift/transcrestal/starch-jensen-2025-transcrestal-sinus-osseodensification-meta-analysis]] — sub-antral SR+MA
 - [[sinus-lift/transcrestal/mazor-2024-maxillary-sinus-membrane-perforation-osseodensification]] — 천공 위험
 - [[sinus-lift/transcrestal/gaspar-2025-osseodensification-crestal-maxillary-sinus-elevation-narrative-review]] — 경치조골 OD narrative
 - [[immediate-implant/molar-septum/bleyan-2021-molar-septum-expansion-osseodensification-immediate-implant]] — septum-OD case series
 - [[immediate-implant/gap-grafting/darosa-2019-immediate-dentoalveolar-restoration-osseodensification-periodontal]] — IDR rationale
-- [[implants/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — 메커니즘 원위논문
-- [[implants/fontes-pereira-2023-osseodensification-osteotomy-alternative-sr]] — SR spine
+- [[implants/osseodensification/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — 메커니즘 원위논문
+- [[implants/osseodensification/fontes-pereira-2023-osseodensification-osteotomy-alternative-sr]] — SR spine
 - [[overviews/sinus-lift-technique-selection]] — sinus 술식 선택
 - [[overviews/immediate-implant-decision-ladder]] — 즉시식립 결정
 - [[overviews/d4-bone-densah-protocol]] — D4 chairside 인터랙티브

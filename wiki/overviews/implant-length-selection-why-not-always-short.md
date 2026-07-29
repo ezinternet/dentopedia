@@ -7,15 +7,15 @@ type: synthesis
 category: [overviews]
 tags: [implant-length, short-implant, extra-short-implant, crown-to-implant-ratio, residual-bone-height, marginal-bone-loss, survival, decision-tree, occlusal-load]
 source_papers:
-  - wiki/implants/yu-2021-extra-short-vs-longer-implants-ma.md
-  - wiki/implants/saenz-ravello-2023-short-implants-compared-to-regular.md
-  - wiki/implants/anitua-2022-short-vs-longer-implants-single-crown.md
-  - wiki/implants/barausse-2024-4mm-short-implants-posterior-atrophic-8year.md
-  - wiki/implants/sivolella-2025-extra-short-5-6mm-implants-5year.md
-  - wiki/implants/zhang-2024-short-vs-long-implants-sinus.md
+  - wiki/implants/short-narrow/yu-2021-extra-short-vs-longer-implants-ma.md
+  - wiki/implants/short-narrow/saenz-ravello-2023-short-implants-compared-to-regular.md
+  - wiki/implants/short-narrow/anitua-2022-short-vs-longer-implants-single-crown.md
+  - wiki/implants/short-narrow/barausse-2024-4mm-short-implants-posterior-atrophic-8year.md
+  - wiki/implants/short-narrow/sivolella-2025-extra-short-5-6mm-implants-5year.md
+  - wiki/implants/short-narrow/zhang-2024-short-vs-long-implants-sinus.md
   - wiki/sinus-lift/lateral/mester-2023-short-vs-standard-implants-sinus-floor-elevation-sr-ma.md
-  - wiki/implants/alenezi-2025-short-long-implants-sinus-floor-elevation.md
-  - wiki/implants/survival/kim-2026-long-term-outcomes-short-standard-implants.md
+  - wiki/implants/short-narrow/alenezi-2025-short-long-implants-sinus-floor-elevation.md
+  - wiki/implants/short-narrow/kim-2026-long-term-outcomes-short-standard-implants.md
 relations:
   - type: extends
     target: short-implant-vs-sinus-augmentation-decision
@@ -118,14 +118,14 @@ Decision logic in prose:
 - **MBL advantage of short (~0.1–0.3 mm)** is statistically robust but of uncertain long-term clinical consequence.
 
 ## Related Papers
-- [[implants/yu-2021-extra-short-vs-longer-implants-ma]] — time-horizon-dependent equivalence; the 5 y signal.
-- [[implants/saenz-ravello-2023-short-implants-compared-to-regular]] — atrophic mandible umbrella review.
-- [[implants/anitua-2022-short-vs-longer-implants-single-crown]] — single posterior crown, short is rational.
-- [[implants/barausse-2024-4mm-short-implants-posterior-atrophic-8year]] — 4 mm short, 8 y; maxilla & maintenance caveats.
-- [[implants/sivolella-2025-extra-short-5-6mm-implants-5year]] — extra-short 5 y; loading/abutment drive MBL.
-- [[implants/zhang-2024-short-vs-long-implants-sinus]] — short as the simpler posterior-maxilla protocol.
+- [[implants/short-narrow/yu-2021-extra-short-vs-longer-implants-ma]] — time-horizon-dependent equivalence; the 5 y signal.
+- [[implants/short-narrow/saenz-ravello-2023-short-implants-compared-to-regular]] — atrophic mandible umbrella review.
+- [[implants/short-narrow/anitua-2022-short-vs-longer-implants-single-crown]] — single posterior crown, short is rational.
+- [[implants/short-narrow/barausse-2024-4mm-short-implants-posterior-atrophic-8year]] — 4 mm short, 8 y; maxilla & maintenance caveats.
+- [[implants/short-narrow/sivolella-2025-extra-short-5-6mm-implants-5year]] — extra-short 5 y; loading/abutment drive MBL.
+- [[implants/short-narrow/zhang-2024-short-vs-long-implants-sinus]] — short as the simpler posterior-maxilla protocol.
 - [[sinus-lift/lateral/mester-2023-short-vs-standard-implants-sinus-floor-elevation-sr-ma]] — ≥5 y caveat.
-- [[implants/alenezi-2025-short-long-implants-sinus-floor-elevation]] — the MBL edge is measured against a grafted long arm.
-- [[implants/survival/kim-2026-long-term-outcomes-short-standard-implants]] — length-vs-length MBL equal; insertion depth, not length/C-I, is the driver.
+- [[implants/short-narrow/alenezi-2025-short-long-implants-sinus-floor-elevation]] — the MBL edge is measured against a grafted long arm.
+- [[implants/short-narrow/kim-2026-long-term-outcomes-short-standard-implants]] — length-vs-length MBL equal; insertion depth, not length/C-I, is the driver.
 - [[overviews/short-implant-vs-sinus-augmentation-decision]] — companion: the augmentation branch in detail.
 - [[overviews/implants-clinical-decision-ladder]] — where length sits in the broader implant decision ladder.

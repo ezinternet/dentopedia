@@ -5,7 +5,7 @@ year: 2021
 date: 2021-10-01
 doi: "n/a (J Prosthet Dent 2021;126(4):503-511; PII S0022-3913(20)30429-7)"
 source: vetromilla-2021-short-standard-implants-sinus-umbrella.md
-category: [implants]
+category: [implants/short-narrow]
 evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/vetromilla-2021-short-standard-implants-sinus-umbrella.pdf
 pdf_filename: vetromilla-2021-short-standard-implants-sinus-umbrella.pdf
@@ -57,5 +57,5 @@ Umbrella review of SR/MAs (Medline, Scopus, Cochrane). AMSTAR-2 methodological q
 
 ## Related Papers
 - [[sinus-lift/lateral/mester-2023-short-vs-standard-implants-sinus-floor-elevation-sr-ma]] — reinforces (RCT-level SR+MA reaching same direction)
-- [[implants/alenezi-2025-short-long-implants-sinus-floor-elevation]] — reinforces (newer RCT SR+MA)
+- [[implants/short-narrow/alenezi-2025-short-long-implants-sinus-floor-elevation]] — reinforces (newer RCT SR+MA)
 - [[overviews/short-implant-vs-sinus-augmentation-decision]] — feeds decision overview

@@ -5,7 +5,7 @@ year: 2026
 date: 2026-05-21
 doi: 10.1186/s12903-026-08742-4
 source: lin-2026-ten-year-outcomes-short-dental.md
-category: [implants/survival]
+category: [implants/short-narrow]
 evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/lin-2026-ten-year-outcomes-short-dental.pdf
 pdf_filename: lin-2026-ten-year-outcomes-short-dental.pdf
@@ -59,7 +59,7 @@ PRISMA-guided systematic review (PROSPERO CRD42024522613); PubMed, Web of Scienc
 
 ## Related Papers
 - [[overviews/implant-failure-mbl-risk-factors-overview]] — synthesized into this cross-paper late-implant-failure/MBL risk-factor overview
-- [[implants/survival/emfietzoglou-2024-short-implants-6mm-survival-posterior-edentulism-sr]] — extends; earlier RCT-only qualitative SR (same ≤6 mm definition) lacked meta-analysis and 10-year data, both supplied here.
-- [[implants/barausse-2024-4mm-short-implants-posterior-atrophic-8year]] — related; adjacent ultra-short (4 mm) long-term follow-up in atrophic posterior ridges.
-- [[implants/arbildo-vega-2025-short-vs-standard-implants-edentulous-umbrella-review]] — related; umbrella-level synthesis of short-vs-standard implant evidence.
-- [[implants/lee-2009-marginal-bone-single-short-implant]] — related; single-short-implant marginal bone loss context.
+- [[implants/short-narrow/emfietzoglou-2024-short-implants-6mm-survival-posterior-edentulism-sr]] — extends; earlier RCT-only qualitative SR (same ≤6 mm definition) lacked meta-analysis and 10-year data, both supplied here.
+- [[implants/short-narrow/barausse-2024-4mm-short-implants-posterior-atrophic-8year]] — related; adjacent ultra-short (4 mm) long-term follow-up in atrophic posterior ridges.
+- [[implants/short-narrow/arbildo-vega-2025-short-vs-standard-implants-edentulous-umbrella-review]] — related; umbrella-level synthesis of short-vs-standard implant evidence.
+- [[implants/short-narrow/lee-2009-marginal-bone-single-short-implant]] — related; single-short-implant marginal bone loss context.

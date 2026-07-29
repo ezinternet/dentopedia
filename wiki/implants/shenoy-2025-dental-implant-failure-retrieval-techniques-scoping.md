@@ -55,6 +55,6 @@ Modern minimally invasive techniques preferred for bone preservation.
 
 ## Related Papers
 - [[implants/moy-2005-dental-implant-failure-rates-risk]] — risk factors.
-- [[implants/galarraga-vinueza-2025-peri-implant-disease-risk-factors]] — peri-implant disease risk.
+- [[implants/peri-implantitis/galarraga-vinueza-2025-peri-implant-disease-risk-factors]] — peri-implant disease risk.
 - [[implants/peri-implantitis/hong-2024-peri-implantitis-treatment-protocol-flowchart]] — peri-implantitis treatment.
 - [[implants/peri-implantitis/vrazic-2026-peri-implantitis-treatment-magnesium-membrane]] — peri-implantitis treatment + Mg membrane.

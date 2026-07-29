@@ -5,7 +5,7 @@ year: 2020
 date: 2020-11-01
 doi: "n/a (J Prosthet Dent 2020;124(5):530-538; PII S0022-3913(19)30670-5)"
 source: xu-2020-short-standard-single-crown-posterior.md
-category: [implants]
+category: [implants/short-narrow]
 evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/xu-2020-short-standard-single-crown-posterior.pdf
 pdf_filename: xu-2020-short-standard-single-crown-posterior.pdf
@@ -53,6 +53,6 @@ PRISMA SR+MA (PROSPERO CRD42018112978). PubMed, EMBASE, Cochrane (before August 
 - MBL: no difference (MD 0.00; 95% CI −0.10 to 0.11; P=.94).
 
 ## Related Papers
-- [[implants/xu-2020-short-vs-longer-implants-posterior-5year-sr-ma]] — refines (same first author, ≥5y observation, longer implants; this page adds single-crown/RCT restriction)
+- [[implants/short-narrow/xu-2020-short-vs-longer-implants-posterior-5year-sr-ma]] — refines (same first author, ≥5y observation, longer implants; this page adds single-crown/RCT restriction)
 - [[overviews/implant-length-selection-why-not-always-short]] — supports caution argument
 - [[overviews/short-implant-vs-sinus-augmentation-decision]] — decision overview

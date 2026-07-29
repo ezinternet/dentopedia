@@ -62,4 +62,4 @@ Foundation for Oral Rehabilitation (FOR) 2016 합의회의 SR. 임플란트 보�
 ## Related Papers
 - [[implants/couso-queiruga-2025-misfit-implant-prosthesis-bone-loss]] — 2025 retrospective (n=505); first quantitative bone loss threshold: gap ≥0.1 mm → higher DIB
 - [[implants/jokstad-2014-3d-misfit-implant-prosthesis-long-term]] — 19yr, 3D scan: mean misfit 150 μm; screw complication group had significantly higher misfit
-- [[implants/bilgi-ozyetim-2025-biomechanical-comparison-implant-inclinations]] — FEA: angulation increases implant stress; cement-retained reduces framework stress 3.5×
+- [[implants/full-arch/bilgi-ozyetim-2025-biomechanical-comparison-implant-inclinations]] — FEA: angulation increases implant stress; cement-retained reduces framework stress 3.5×

@@ -5,7 +5,7 @@ year: 2025
 date: 2025-10-21
 doi: 10.3390/jcm14207431
 source: guner-2025-osseodensification-ridge-split-implant-stability.md
-category: [implants/versah-protocols]
+category: [implants/osseodensification]
 evidence_level: retrospective
 source_collection: pubmed-text
 full_text: true
@@ -78,7 +78,7 @@ Bone gain (NS throughout):
 
 ## Related Papers
 
-- [[implants/versah-protocols/rittipakorn-2025-clockwise-osseodensification-primary-stability-cadaveric]] — Clockwise OD in cadaveric tibiae: IT-ISQ correlation with OD; present study confirms clinical translation
-- [[implants/bergamo-2021-osseodensification-effect-implants-primary-secondary]] — RCT of OD primary/secondary stability: consistent ISQ advantages in maxilla
-- [[implants/fontes-pereira-2023-osseodensification-osteotomy-alternative-sr]] — SR on OD vs conventional: supports OD for primary stability with ISQ data
-- [[implants/mohammadi-2025-osseodensification-conventional-low-density-bone-sr-ma]] — SR+MA in low-density bone: ISQ advantage NS overall, though present study shows region-specific significance
+- [[implants/osseodensification/rittipakorn-2025-clockwise-osseodensification-primary-stability-cadaveric]] — Clockwise OD in cadaveric tibiae: IT-ISQ correlation with OD; present study confirms clinical translation
+- [[implants/osseodensification/bergamo-2021-osseodensification-effect-implants-primary-secondary]] — RCT of OD primary/secondary stability: consistent ISQ advantages in maxilla
+- [[implants/osseodensification/fontes-pereira-2023-osseodensification-osteotomy-alternative-sr]] — SR on OD vs conventional: supports OD for primary stability with ISQ data
+- [[implants/osseodensification/mohammadi-2025-osseodensification-conventional-low-density-bone-sr-ma]] — SR+MA in low-density bone: ISQ advantage NS overall, though present study shows region-specific significance

@@ -5,7 +5,7 @@ year: 2021
 date: 2021-05-28
 doi: 10.1111/cid.13007
 source: bergamo-2021-osseodensification-effect-implants-primary-secondary.md
-category: [implants]
+category: [implants/osseodensification]
 evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/bergamo-2021-osseodensification-effect-implants-primary-secondary.pdf
 pdf_filename: bergamo-2021-osseodensification-effect-implants-primary-secondary.pdf
@@ -45,7 +45,7 @@ OD outperformed SD on IT across all pairwise comparisons except short implants. 
 Not randomized despite "controlled" labeling. Only 6 weeks follow-up — no loaded-implant survival data. Healing dip in ISQ for short implants suggests OD may not overcome biomechanical limits when bone engagement is length-limited.
 
 ## Related Papers
-- [[implants/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]]
-- [[implants/inchingolo-2021-osseodensification-implant-site-osteotomy-sr-ma]]
-- [[implants/gaspar-2022-implant-stability-osseodensification-conventional-sr-ma]]
+- [[implants/osseodensification/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]]
+- [[implants/osseodensification/inchingolo-2021-osseodensification-implant-site-osteotomy-sr-ma]]
+- [[implants/osseodensification/gaspar-2022-implant-stability-osseodensification-conventional-sr-ma]]
 - [[implants/isq/althobaiti-2023-osseodensification-conventional-drilling-isq-sr]]

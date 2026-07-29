@@ -5,7 +5,7 @@ year: 2025
 date: 2025-01-15
 doi: 10.1186/s40729-025-00592-z
 source: sivolella-2025-extra-short-5-6mm-implants-5year.md
-category: [implants]
+category: [implants/short-narrow]
 evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/sivolella-2025-extra-short-5-6mm-implants-5year.pdf
 pdf_filename: sivolella-2025-extra-short-5-6mm-implants-5year.pdf
@@ -45,6 +45,6 @@ Retrospective clinical and radiological 5-year follow-up. Univariate and multiva
 Single-center retrospective; small n (56 implants); 4 failures clustered in one patient skewed loss rate.
 
 ## Related Papers
-- [[implants/anitua-2022-short-vs-longer-implants-single-crown]]
-- [[implants/yu-2021-extra-short-vs-longer-implants-ma]]
-- [[implants/barausse-2024-4mm-short-implants-posterior-atrophic-8year]]
+- [[implants/short-narrow/anitua-2022-short-vs-longer-implants-single-crown]]
+- [[implants/short-narrow/yu-2021-extra-short-vs-longer-implants-ma]]
+- [[implants/short-narrow/barausse-2024-4mm-short-implants-posterior-atrophic-8year]]

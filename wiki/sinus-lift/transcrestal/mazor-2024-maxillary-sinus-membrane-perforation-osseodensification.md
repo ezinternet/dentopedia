@@ -46,4 +46,4 @@ Cross-sectional — no causal inference on bur protocol vs other techniques. Mul
 - [[sinus-lift/transcrestal/cobo-vazquez-2025-crestal-sinus-lift-osteotome-vs-osseodensification]]
 - [[sinus-lift/transcrestal/el-ghobashy-osseodensification-vs-osteotome-transcrestal-sinus]]
 - [[sinus-lift/transcrestal/farina-2023-minimal-invasiveness-transcrestal-sinus-elevation]]
-- [[implants/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]]
+- [[implants/osseodensification/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]]

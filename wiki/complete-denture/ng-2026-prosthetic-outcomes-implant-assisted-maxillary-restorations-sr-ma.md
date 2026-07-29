@@ -87,7 +87,7 @@ For the edentulous maxilla, the fixed-vs-removable decision does **not** hinge o
 - [[complete-denture/lan-2025-long-term-four-implant-supported]] — extends: Lan pools 4-implant IOD vs IFR survival/MBL at ≥5 yr; Ng adds the complication-burden / ID-COSM lifespan dimension and finds the two modalities broadly equivalent on headline outcomes.
 - [[complete-denture/difrancesco-2021-maxillary-overdentures-four-six-implants-sr-ma]] — reinforces: DiFrancesco found 4 vs 6 splinted implants NS for maxillary OD; Ng supports "≥4 implants sufficient" for both OD (All-on-4) and fixed.
 - [[complete-denture/abou-ayash-2023-implant-supported-fixed-complete-dentures]] — reinforces: fixed is not clearly superior; here fixed ≈ removable on prosthesis loss, complication-free survival, implant loss, and MBL.
-- [[implants/del-fabbro-2022-full-arch-tilted-axial-implants-sr-ma]] — tilted/axial full-arch survival context for the All-on-4 fixed cases.
-- [[implants/abdunabi-2019-immediately-loaded-maxillary-full-arch-sr]] — immediate-loading maxilla evidence gap Ng flags as needing more RCTs.
+- [[implants/full-arch/del-fabbro-2022-full-arch-tilted-axial-implants-sr-ma]] — tilted/axial full-arch survival context for the All-on-4 fixed cases.
+- [[implants/full-arch/abdunabi-2019-immediately-loaded-maxillary-full-arch-sr]] — immediate-loading maxilla evidence gap Ng flags as needing more RCTs.
 - [[overviews/complete-denture-digital-overdenture-overview]] — overdenture synthesis this page feeds.
 - [[overviews/implant-loading-protocol-prosthesis-type-overview]] — loading-protocol × prosthesis-type synthesis this page feeds.

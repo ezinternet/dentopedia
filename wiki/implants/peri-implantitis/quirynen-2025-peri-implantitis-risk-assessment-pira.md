@@ -65,6 +65,6 @@ This retrospective study from the KU Leuven Implant Review Clinic (460 patients,
 | Fully edentulous model (n=49) | Sens 100%, Spec 51.3%, PPV 34.5%, NPV 100% |
 
 ## Related Papers
-- [[implants/galarraga-vinueza-2025-peri-implant-disease-risk-factors]] — independent AO/AAP SR+MA confirming periodontitis and smoking as consistent peri-implant-disease risk indicators, reinforcing this study's univariate findings.
+- [[implants/peri-implantitis/galarraga-vinueza-2025-peri-implant-disease-risk-factors]] — independent AO/AAP SR+MA confirming periodontitis and smoking as consistent peri-implant-disease risk indicators, reinforcing this study's univariate findings.
 - [[implants/peri-implantitis/basak-2024-restoration-margin-alveolar-bone-distance-implant]] — validates a threshold from IDRA, an existing risk tool targeting already-restored implants; contrasts with PiRA's preoperative, candidate-selection focus.
 - [[overviews/peri-implantitis-management-overview]] — synthesis page covering peri-implant disease risk factors and management; candidate for updating with the preoperative-prediction-model angle.

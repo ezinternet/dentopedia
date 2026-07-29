@@ -5,7 +5,7 @@ year: 2025
 date: 2025-10-09
 doi: 10.3390/dj13100461
 source: ortiz-2025-osseodensification-implant-dentistry-critical-review.md
-category: [implants]
+category: [implants/osseodensification]
 evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/ortiz-2025-osseodensification-implant-dentistry-critical-review.pdf
 pdf_filename: ortiz-2025-osseodensification-implant-dentistry-critical-review.pdf
@@ -43,6 +43,6 @@ Critical narrative review evaluating the evidence base for osseodensification (O
 | Long-term survival | No long-term RCT data | Very low |
 
 ## Related Papers
-- [[implants/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — foundational OD in-vitro study
-- [[implants/fontes-pereira-2023-osseodensification-osteotomy-alternative-sr]] — systematic review of OD evidence
+- [[implants/osseodensification/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — foundational OD in-vitro study
+- [[implants/osseodensification/fontes-pereira-2023-osseodensification-osteotomy-alternative-sr]] — systematic review of OD evidence
 - [[sinus-lift/transcrestal/starch-jensen-2025-transcrestal-sinus-osseodensification-meta-analysis]] — SR+MA: OD for CSFE

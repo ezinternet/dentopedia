@@ -5,7 +5,7 @@ year: 2024
 date: 2026-05-28
 doi: (manufacturer document)
 source: versah-densah-sinus-lift-ii-protocol-rbh-4-5mm.md
-category: [implants/versah-protocols]
+category: [implants/osseodensification]
 evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/versah-densah-sinus-lift-ii-protocol-rbh-4-5mm.pdf
 pdf_filename: versah-densah-sinus-lift-ii-protocol-rbh-4-5mm.pdf
@@ -47,5 +47,5 @@ Manufacturer marketing document — not peer-reviewed. Higher-risk indication (t
 ## Related Papers
 - [[sinus-lift/transcrestal/mazor-2024-maxillary-sinus-membrane-perforation-osseodensification]]
 - [[sinus-lift/transcrestal/gaspar-2025-osseodensification-crestal-maxillary-sinus-elevation-narrative-review]]
-- [[implants/versah-protocols/versah-densah-sinus-lift-i-protocol-rbh-6mm-minimum]]
-- [[implants/versah-protocols/versah-combined-molar-septum-expansion-sinus-lift-protocol]]
+- [[implants/osseodensification/versah-densah-sinus-lift-i-protocol-rbh-6mm-minimum]]
+- [[implants/osseodensification/versah-combined-molar-septum-expansion-sinus-lift-protocol]]

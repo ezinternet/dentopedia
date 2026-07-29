@@ -5,7 +5,7 @@ year: 2020
 date: 2020-11-25
 doi: "10.1038/s41598-020-77762-z"
 source: gehrke-2020-technique-drill-design-osteotomy.md
-category: implants
+category: implants/osteotomy-thermal
 evidence_level: animal
 source_collection: pubmed-text
 full_text: true
@@ -83,7 +83,7 @@ G1: 62.4 ± 5.9 → G2: 50.7 ± 4.2 (p<0.0001) → G3: 44.4 ± 3.7 → G4: 42.4 
 
 ## Related Papers
 
-- [[implants/kapse-2022-thermal-effect-operatory-room-temperature-surgical]] — reinforces: irrigation temperature is the dominant lever; this study adds the drill-geometry × technique interaction on top
-- [[implants/di-fiore-2018-continuous-intermittent-drilling-temperature]] — contrasting in vitro finding: no significant difference between continuous and intermittent at same irrigation temperature (bovine rib model)
+- [[implants/osteotomy-thermal/kapse-2022-thermal-effect-operatory-room-temperature-surgical]] — reinforces: irrigation temperature is the dominant lever; this study adds the drill-geometry × technique interaction on top
+- [[implants/osteotomy-thermal/di-fiore-2018-continuous-intermittent-drilling-temperature]] — contrasting in vitro finding: no significant difference between continuous and intermittent at same irrigation temperature (bovine rib model)
 - [[overviews/osteotomy-drilling-heat-determinants-irrigation-overview]] — extends: adds peck interval quantification and drill-type conditionality to the overview's Tier-3 "guided surgery / peck drilling" section
-- [[implants/gehrke-2021-healing-chambers-macrogeometry-low-density-drilling]] — same first author; different focus (macrogeometry in low-density bone)
+- [[implants/osteotomy-thermal/gehrke-2021-healing-chambers-macrogeometry-low-density-drilling]] — same first author; different focus (macrogeometry in low-density bone)

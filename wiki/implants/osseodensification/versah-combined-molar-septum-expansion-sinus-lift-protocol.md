@@ -5,7 +5,7 @@ year: 2024
 date: 2026-05-28
 doi: (manufacturer document)
 source: versah-combined-molar-septum-expansion-sinus-lift-protocol.md
-category: [implants/versah-protocols]
+category: [implants/osseodensification]
 evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/versah-combined-molar-septum-expansion-sinus-lift-protocol.pdf
 pdf_filename: versah-combined-molar-septum-expansion-sinus-lift-protocol.pdf
@@ -47,5 +47,5 @@ Manufacturer marketing document — not peer-reviewed. Requires precise CBCT pla
 ## Related Papers
 - [[immediate-implant/molar-septum/bleyan-2021-molar-septum-expansion-osseodensification-immediate-implant]]
 - [[sinus-lift/transcrestal/mazor-2024-maxillary-sinus-membrane-perforation-osseodensification]]
-- [[implants/versah-protocols/versah-densah-sinus-lift-ii-protocol-rbh-4-5mm]]
-- [[implants/versah-protocols/versah-immediate-implant-placement-protocol]]
+- [[implants/osseodensification/versah-densah-sinus-lift-ii-protocol-rbh-4-5mm]]
+- [[implants/osseodensification/versah-immediate-implant-placement-protocol]]

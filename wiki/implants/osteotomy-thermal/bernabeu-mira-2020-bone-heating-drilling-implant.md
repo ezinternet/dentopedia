@@ -5,7 +5,7 @@ year: 2020
 date: 2020-04-19
 doi: 10.3390/ma13081921
 source: bernabeu-mira-2020-bone-heating-drilling-implant.md
-category: [implants]
+category: [implants/osteotomy-thermal]
 evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/bernabeu-mira-2020-bone-heating-drilling-implant.pdf
 pdf_filename: bernabeu-mira-2020-bone-heating-drilling-implant.pdf
@@ -61,8 +61,8 @@ First study to decompose material, design, and wear contributions in a single co
 - **단, 본 실험은 irrigation 미사용** — 임상 절대온도는 직접 적용 불가. 상대적 비교는 유효.
 
 ## Related Papers
-- [[implants/marenzi-2018-micromorphological-structure-implant-drills]] — drill surface micromorphology by manufacturer
-- [[implants/chakraborty-2024-implant-drill-materials-heat-osteotomy]] — SR concluding material question inconclusive (consistent with this paper's NS material result)
-- [[implants/sorgato-2025-drill-bit-wear-temperature]] — wear–temperature relationship at 150-hole scale
-- [[implants/heuzeroth-2021-thermal-exposure-osteotomy-osseointegration]] — in vivo: optimized drill design + shortened sequence improves BIC
-- [[implants/aquilanti-2023-heat-generation-initial-osteotomy]] — initial osteotomy heat: rotary vs piezo
+- [[implants/osteotomy-thermal/marenzi-2018-micromorphological-structure-implant-drills]] — drill surface micromorphology by manufacturer
+- [[implants/osteotomy-thermal/chakraborty-2024-implant-drill-materials-heat-osteotomy]] — SR concluding material question inconclusive (consistent with this paper's NS material result)
+- [[implants/osteotomy-thermal/sorgato-2025-drill-bit-wear-temperature]] — wear–temperature relationship at 150-hole scale
+- [[implants/osteotomy-thermal/heuzeroth-2021-thermal-exposure-osteotomy-osseointegration]] — in vivo: optimized drill design + shortened sequence improves BIC
+- [[implants/osteotomy-thermal/aquilanti-2023-heat-generation-initial-osteotomy]] — initial osteotomy heat: rotary vs piezo

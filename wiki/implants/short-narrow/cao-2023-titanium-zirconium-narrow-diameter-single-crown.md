@@ -5,7 +5,7 @@ year: 2023
 date: 2023-05-16
 doi: "10.1016/j.bjoms.2023.05.005"
 source: cao-2023-titanium-zirconium-narrow-diameter-single-crown.md
-category: [implants]
+category: [implants/short-narrow]
 evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/cao-2023-titanium-zirconium-narrow-diameter-single-crown.pdf
 pdf_filename: cao-2023-titanium-zirconium-narrow-diameter-single-crown.pdf
@@ -53,5 +53,5 @@ PRISMA SR+MA (PROSPERO CRD42022324205). PubMed/MEDLINE, Scopus, Embase, Cochrane
 - MBL at 1 year 0.44 (0.04) mm (95% CI 0.36–0.52); MD vs cpTi 0.02 mm (95% CI −0.23 to 0.10).
 
 ## Related Papers
-- [[implants/pachiou-2025-narrow-diameter-implants-fixed-posterior]] — reinforces (material-independence of NDI survival)
+- [[implants/short-narrow/pachiou-2025-narrow-diameter-implants-fixed-posterior]] — reinforces (material-independence of NDI survival)
 - [[overviews/narrow-diameter-implants-clinical-outcomes-overview]] — material axis of the NDI overview

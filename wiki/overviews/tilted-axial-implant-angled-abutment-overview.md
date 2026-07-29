@@ -137,16 +137,16 @@ When the implant (or the tooth being replaced) is inclined, an **angled abutment
 
 ## Related Papers
 
-- [[implants/lin-2018-clinical-performance-tilted-versus-axial]] — SR: tilted ≈ axial in survival, MBL, prosthesis, PROMs (foundational equivalence claim).
+- [[implants/full-arch/lin-2018-clinical-performance-tilted-versus-axial]] — SR: tilted ≈ axial in survival, MBL, prosthesis, PROMs (foundational equivalence claim).
 - [[implants/mbl/del-fabbro-2014-marginal-bone-axial-tilted-sr-ma]] — SR+MA: MBL NS at 1 yr; founding evidence for All-on-4; maxilla higher-risk arch.
-- [[implants/del-fabbro-2022-full-arch-tilted-axial-implants-sr-ma]] — SR+MA, 3–18 yr: surv 93.91%; modest long-term MBL penalty for tilted (P<.0001).
-- [[implants/murat-2025-all-on-4-implant-angulation-load-direction-fea]] — FEA+RSM: load direction (BL) outranks implant angle; 15° tilt optimal.
-- [[implants/bilgi-ozyetim-2025-biomechanical-comparison-implant-inclinations]] — FEA: stress rises with angle but stays <550 MPa; screw 3.5× framework stress.
+- [[implants/full-arch/del-fabbro-2022-full-arch-tilted-axial-implants-sr-ma]] — SR+MA, 3–18 yr: surv 93.91%; modest long-term MBL penalty for tilted (P<.0001).
+- [[implants/full-arch/murat-2025-all-on-4-implant-angulation-load-direction-fea]] — FEA+RSM: load direction (BL) outranks implant angle; 15° tilt optimal.
+- [[implants/full-arch/bilgi-ozyetim-2025-biomechanical-comparison-implant-inclinations]] — FEA: stress rises with angle but stays <550 MPa; screw 3.5× framework stress.
 - [[implants/erdogdu-2024-abutment-angle-bone-quality-fatigue-fea]] — FEA: abutment angle ↑ → stress ↑/fatigue ↓; multiunit > cemented; resorbed bone amplifies.
 - [[implants/chi-2024-customized-angled-abutment-tooth-inclination-fea]] — FEA+strain gauge: angled-abutment effect is load-direction dependent (axial vs oblique).
 - [[overviews/implant-occlusion-loading-biomechanics-overview]] — peri-implant loading biomechanics context (occlusal control underlies the tilt/load story here).
 - [[overviews/abutment-screw-preload-joint-stability-overview]] — screw-joint/preload mechanics underlying multiunit vs cemented abutment choice on tilted implants.
-- [[implants/szabo-2022-all-on-four-tilted-distal-implants-mbl]] — retrospective: tilted > axial MBL at all time points in All-on-Four; position-specific risk (14DA/24DA).
-- [[implants/eskan-2020-tapered-implants-full-arch-immediate-function]] — BLT full-arch 55 mo: MBL 0.15 mm; lowest in literature; tilted = axial MBL; NDI 0 fractures.
-- [[implants/coskunses-2021-narrow-diameter-implants-full-arch-fixed]] — NDI Ti-Zr 2 yr: CSR 99.4%; NDI MBL higher than standard; 6-implant < 4-implant MBL.
-- [[implants/cabbarova-2026-all-on-four-six-framework-fea]] — FEA: All-on-6 vs All-on-4 × 6 materials; eliminating cantilever > material choice; PEEK/PEKK contraindicated.
+- [[implants/full-arch/szabo-2022-all-on-four-tilted-distal-implants-mbl]] — retrospective: tilted > axial MBL at all time points in All-on-Four; position-specific risk (14DA/24DA).
+- [[implants/full-arch/eskan-2020-tapered-implants-full-arch-immediate-function]] — BLT full-arch 55 mo: MBL 0.15 mm; lowest in literature; tilted = axial MBL; NDI 0 fractures.
+- [[implants/short-narrow/coskunses-2021-narrow-diameter-implants-full-arch-fixed]] — NDI Ti-Zr 2 yr: CSR 99.4%; NDI MBL higher than standard; 6-implant < 4-implant MBL.
+- [[implants/full-arch/cabbarova-2026-all-on-four-six-framework-fea]] — FEA: All-on-6 vs All-on-4 × 6 materials; eliminating cantilever > material choice; PEEK/PEKK contraindicated.

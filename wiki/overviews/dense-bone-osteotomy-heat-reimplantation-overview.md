@@ -5,13 +5,13 @@ category: overviews
 date: 2026-07-14
 evidence_level: synthesis
 source_papers:
-  - wiki/implants/chauhan-2018-biomechanical-factors-heat-generation-osteotomy.md
-  - wiki/implants/timon-2019-thermal-osteonecrosis-bone-drilling-orthopedic.md
-  - wiki/implants/kosior-2025-histological-histomorphometric-implant-bed-preparation.md
-  - wiki/implants/chakraborty-2024-implant-drill-materials-heat-osteotomy.md
-  - wiki/implants/saxena-2024-guided-implant-drilling-bone-temperature.md
-  - wiki/implants/jain-2024-heat-generation-pain-piezosurgery-drilling.md
-  - wiki/implants/bento-2023-steel-versus-zirconia-drills-heat.md
+  - wiki/implants/osteotomy-thermal/chauhan-2018-biomechanical-factors-heat-generation-osteotomy.md
+  - wiki/implants/osteotomy-thermal/timon-2019-thermal-osteonecrosis-bone-drilling-orthopedic.md
+  - wiki/implants/osteotomy-thermal/kosior-2025-histological-histomorphometric-implant-bed-preparation.md
+  - wiki/implants/osteotomy-thermal/chakraborty-2024-implant-drill-materials-heat-osteotomy.md
+  - wiki/implants/osteotomy-thermal/saxena-2024-guided-implant-drilling-bone-temperature.md
+  - wiki/implants/osteotomy-thermal/jain-2024-heat-generation-pain-piezosurgery-drilling.md
+  - wiki/implants/osteotomy-thermal/bento-2023-steel-versus-zirconia-drills-heat.md
   - wiki/implants/solderer-2019-removal-failed-dental-implants-revisited.md
   - wiki/implants/khaohoen-2023-biomaterials-dental-implants-bone-density-narrative-review.md
 tags: [dense-bone, sclerotic-bone, D1-bone, thermal-osteonecrosis, heat-generation, osteotomy, drilling-protocol, posterior-mandible, reimplantation, explantation]
@@ -50,7 +50,7 @@ D1 치밀골은 전체 생존율이 가장 높음에도(97.6%, Khaohoen) 골절�
 
 **Clinical question:** In dense/sclerotic (D1) posterior mandibular bone where an implant has failed at the same site multiple times, how should re-placement be approached to avoid another failure?
 
-The evidence splits into two threads that this wiki has not previously connected. The **first** is the biomechanics of osteotomy heat generation, established across seven papers spanning general drilling factors ([[implants/chauhan-2018-biomechanical-factors-heat-generation-osteotomy]]), cross-specialty thermal-necrosis thresholds ([[implants/timon-2019-thermal-osteonecrosis-bone-drilling-orthopedic]]), a five-technique histological comparison ([[implants/kosior-2025-histological-histomorphometric-implant-bed-preparation]]), drill-material questions ([[implants/chakraborty-2024-implant-drill-materials-heat-osteotomy]], [[implants/bento-2023-steel-versus-zirconia-drills-heat]]), guided-surgery-specific heat penalties ([[implants/saxena-2024-guided-implant-drilling-bone-temperature]]), and a piezo-vs-rotary pain/heat trade-off ([[implants/jain-2024-heat-generation-pain-piezosurgery-drilling]]). Together they establish that **dense (D1) bone amplifies drilling heat** relative to soft bone, that the classical 47°C/1-min necrosis threshold is repeatedly breached under suboptimal conditions (worn drills, high RPM, guided-sleeve irrigation blockage), and that **protocol discipline — external/chilled irrigation, intermittent drilling, drill replacement — matters more than which preparation technique is chosen** (Kosior's central finding: drilling can match laser/piezo/osteotome/osseodensification outcomes when rotation speed, cooling, and load are optimized). This reframes D1 bone risk: it is not a primary-stability problem (D1 in fact has the highest reported survival, 97.6%, [[implants/khaohoen-2023-biomaterials-dental-implants-bone-density-narrative-review]]) but a thermal-management problem.
+The evidence splits into two threads that this wiki has not previously connected. The **first** is the biomechanics of osteotomy heat generation, established across seven papers spanning general drilling factors ([[implants/osteotomy-thermal/chauhan-2018-biomechanical-factors-heat-generation-osteotomy]]), cross-specialty thermal-necrosis thresholds ([[implants/osteotomy-thermal/timon-2019-thermal-osteonecrosis-bone-drilling-orthopedic]]), a five-technique histological comparison ([[implants/osteotomy-thermal/kosior-2025-histological-histomorphometric-implant-bed-preparation]]), drill-material questions ([[implants/osteotomy-thermal/chakraborty-2024-implant-drill-materials-heat-osteotomy]], [[implants/osteotomy-thermal/bento-2023-steel-versus-zirconia-drills-heat]]), guided-surgery-specific heat penalties ([[implants/osteotomy-thermal/saxena-2024-guided-implant-drilling-bone-temperature]]), and a piezo-vs-rotary pain/heat trade-off ([[implants/osteotomy-thermal/jain-2024-heat-generation-pain-piezosurgery-drilling]]). Together they establish that **dense (D1) bone amplifies drilling heat** relative to soft bone, that the classical 47°C/1-min necrosis threshold is repeatedly breached under suboptimal conditions (worn drills, high RPM, guided-sleeve irrigation blockage), and that **protocol discipline — external/chilled irrigation, intermittent drilling, drill replacement — matters more than which preparation technique is chosen** (Kosior's central finding: drilling can match laser/piezo/osteotome/osseodensification outcomes when rotation speed, cooling, and load are optimized). This reframes D1 bone risk: it is not a primary-stability problem (D1 in fact has the highest reported survival, 97.6%, [[implants/khaohoen-2023-biomaterials-dental-implants-bone-density-narrative-review]]) but a thermal-management problem.
 
 The **second** thread addresses what "repeated failure at the same site" itself implies. [[implants/solderer-2019-removal-failed-dental-implants-revisited]] is the wiki's only paper quantifying reimplantation-survival decay with repeat attempts (88.7% → 85% → 71–100% at 2nd attempt → 50–100% at 3rd attempt) and flags a "cluster effect" — simultaneous or repeated multi-implant failure — as a signal to investigate systemic or genetic host factors before re-surgery, independent of local bone quality. It also establishes that immediate and delayed reimplantation are equivalent **given adequate bone and no infection**, and that extended buccal-plate defects require GBR staging first.
 
@@ -60,13 +60,13 @@ No single paper in this wiki tests the intersection — dense posterior-mandibul
 
 | Paper | Design | n | Key finding | Confidence |
 |---|---|---|---|---|
-| [[implants/chauhan-2018-biomechanical-factors-heat-generation-osteotomy]] | SR (narrative synthesis) | 34 studies | Heat is multifactorial (drill design/material/wear, method, irrigation, bone density, speed/load); D1 dense bone raises heat vs D4 | sr |
-| [[implants/timon-2019-thermal-osteonecrosis-bone-drilling-orthopedic]] | Narrative review (cross-specialty) | — | Critical threshold 50°C (orthopedic) vs 47°C (dental); external irrigation is the single most important mitigator | narrative-review |
-| [[implants/kosior-2025-histological-histomorphometric-implant-bed-preparation]] | PRISMA SR | 29 studies | Rotary drilling worst on microcracks/%BIC/thermal injury vs laser/piezo/osteotome/OD, but gap is protocol-mediated (speed/cooling/load) | sr |
-| [[implants/chakraborty-2024-implant-drill-materials-heat-osteotomy]] | SR (PICO) | 11 in vitro studies | Drill material vs heat inconclusive; drill wear (not material) is the consistent predictor | sr |
-| [[implants/saxena-2024-guided-implant-drilling-bone-temperature]] | SR | 11 studies | Guide sleeves block irrigation → higher peak temp; chilled (~10°C) saline + 800–1200 rpm + peck drilling mitigate, esp. D1/deep posterior sites | sr |
-| [[implants/jain-2024-heat-generation-pain-piezosurgery-drilling]] | SR | 9 studies | Piezosurgery ↓ postop pain but ↑ intraosseous temperature vs conventional rotary — trade-off | sr |
-| [[implants/bento-2023-steel-versus-zirconia-drills-heat]] | SR+MA | 10 in vitro studies | Zirconia drills → significantly lower bone temperature variation than steel (in vitro) | sr+ma |
+| [[implants/osteotomy-thermal/chauhan-2018-biomechanical-factors-heat-generation-osteotomy]] | SR (narrative synthesis) | 34 studies | Heat is multifactorial (drill design/material/wear, method, irrigation, bone density, speed/load); D1 dense bone raises heat vs D4 | sr |
+| [[implants/osteotomy-thermal/timon-2019-thermal-osteonecrosis-bone-drilling-orthopedic]] | Narrative review (cross-specialty) | — | Critical threshold 50°C (orthopedic) vs 47°C (dental); external irrigation is the single most important mitigator | narrative-review |
+| [[implants/osteotomy-thermal/kosior-2025-histological-histomorphometric-implant-bed-preparation]] | PRISMA SR | 29 studies | Rotary drilling worst on microcracks/%BIC/thermal injury vs laser/piezo/osteotome/OD, but gap is protocol-mediated (speed/cooling/load) | sr |
+| [[implants/osteotomy-thermal/chakraborty-2024-implant-drill-materials-heat-osteotomy]] | SR (PICO) | 11 in vitro studies | Drill material vs heat inconclusive; drill wear (not material) is the consistent predictor | sr |
+| [[implants/osteotomy-thermal/saxena-2024-guided-implant-drilling-bone-temperature]] | SR | 11 studies | Guide sleeves block irrigation → higher peak temp; chilled (~10°C) saline + 800–1200 rpm + peck drilling mitigate, esp. D1/deep posterior sites | sr |
+| [[implants/osteotomy-thermal/jain-2024-heat-generation-pain-piezosurgery-drilling]] | SR | 9 studies | Piezosurgery ↓ postop pain but ↑ intraosseous temperature vs conventional rotary — trade-off | sr |
+| [[implants/osteotomy-thermal/bento-2023-steel-versus-zirconia-drills-heat]] | SR+MA | 10 in vitro studies | Zirconia drills → significantly lower bone temperature variation than steel (in vitro) | sr+ma |
 | [[implants/solderer-2019-removal-failed-dental-implants-revisited]] | Narrative Q&A review | 34 studies (of 3,997 screened) | Reimplantation survival: 88.7% (1 prior failure), 85% (2 prior failures); 2nd attempt 71–100%, 3rd attempt 50–100%; cluster effect → screen systemic/genetic factors | narrative-review |
 | [[implants/khaohoen-2023-biomaterials-dental-implants-bone-density-narrative-review]] | Narrative review | 119 studies (7 with D1–D4 clinical data) | D1 bone has highest overall survival (97.6% vs D4 88.8%) — density alone does not predict failure | narrative-review |
 
@@ -92,13 +92,13 @@ No single paper in this wiki tests the intersection — dense posterior-mandibul
 
 ## Related Papers
 
-- [[implants/chauhan-2018-biomechanical-factors-heat-generation-osteotomy]] — foundational multifactor heat-generation framework (anchor)
-- [[implants/timon-2019-thermal-osteonecrosis-bone-drilling-orthopedic]] — cross-specialty threshold validation
-- [[implants/kosior-2025-histological-histomorphometric-implant-bed-preparation]] — technique comparison, protocol-mediated conclusion
-- [[implants/chakraborty-2024-implant-drill-materials-heat-osteotomy]] — drill material inconclusive, wear is key
-- [[implants/saxena-2024-guided-implant-drilling-bone-temperature]] — guided-surgery-specific heat penalty
-- [[implants/jain-2024-heat-generation-pain-piezosurgery-drilling]] — piezo vs rotary trade-off
-- [[implants/bento-2023-steel-versus-zirconia-drills-heat]] — zirconia vs steel drill material signal
+- [[implants/osteotomy-thermal/chauhan-2018-biomechanical-factors-heat-generation-osteotomy]] — foundational multifactor heat-generation framework (anchor)
+- [[implants/osteotomy-thermal/timon-2019-thermal-osteonecrosis-bone-drilling-orthopedic]] — cross-specialty threshold validation
+- [[implants/osteotomy-thermal/kosior-2025-histological-histomorphometric-implant-bed-preparation]] — technique comparison, protocol-mediated conclusion
+- [[implants/osteotomy-thermal/chakraborty-2024-implant-drill-materials-heat-osteotomy]] — drill material inconclusive, wear is key
+- [[implants/osteotomy-thermal/saxena-2024-guided-implant-drilling-bone-temperature]] — guided-surgery-specific heat penalty
+- [[implants/osteotomy-thermal/jain-2024-heat-generation-pain-piezosurgery-drilling]] — piezo vs rotary trade-off
+- [[implants/osteotomy-thermal/bento-2023-steel-versus-zirconia-drills-heat]] — zirconia vs steel drill material signal
 - [[implants/solderer-2019-removal-failed-dental-implants-revisited]] — repeated-failure-site reimplantation protocol (anchor)
 - [[implants/khaohoen-2023-biomaterials-dental-implants-bone-density-narrative-review]] — D1–D4 survival/context anchor
 - [[overviews/early-implant-failure-risk-prevention-overview]] — general (non-site-specific) EIF risk-factor synthesis

@@ -46,4 +46,4 @@ FEA idealizations; linear elasticity; bone stress relatively flat across groups 
 
 ## Related Papers
 - [[prosthetic-materials/abutment-screw/ziada-2025-abutment-material-stress-distribution-fea]]
-- [[implants/baki-2025-all-on-4-trefoil-five-implant-fea]]
+- [[implants/full-arch/baki-2025-all-on-4-trefoil-five-implant-fea]]

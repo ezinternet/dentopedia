@@ -73,6 +73,6 @@ This animal study compared two plasma-spray calcium phosphate (CaP) coatings on 
 ## Related Papers
 
 - [[implants/surface/yamada-2012-nanopolymorphic-hydroxyapatite-titanium-implant]] — nanopolymorphic HA coating on Ti implants; complements this study's plasma-spray HA characterization at the nanoscale
-- [[implants/arghami-2021-immediate-early-loading-hydroxyapatite-coated]] — clinical outcomes for HA-coated implants under early/immediate loading; applies the coating biology characterized here to clinical loading protocols
+- [[implants/loading-protocol/arghami-2021-immediate-early-loading-hydroxyapatite-coated]] — clinical outcomes for HA-coated implants under early/immediate loading; applies the coating biology characterized here to clinical loading protocols
 - [[implants/surface/witek-2019-osseodensification-trabecular-tantalum-implants-sheep]] — Witek et al. on novel implant surface/material interactions in sheep; same research group, comparable animal-model histomorphometric methodology
 - [[implants/surface/smeets-2016-implant-surface-modifications-osseointegration]] — comprehensive review of implant surface modification strategies including CaP coatings; provides the broader clinical evidence context for this study's findings

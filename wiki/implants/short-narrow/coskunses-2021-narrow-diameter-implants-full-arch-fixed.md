@@ -5,7 +5,7 @@ year: 2021
 date: 2021-04-15
 doi: 10.1186/s40729-021-00312-3
 source: coskunses-2021-narrow-diameter-implants-full-arch-fixed.md
-category: [implants]
+category: [implants/short-narrow]
 evidence_level: prospective
 pmcid: PMC8050379
 source_collection: pubmed-text
@@ -70,7 +70,7 @@ Immediate vs late loading: no significant MBL difference (consistent with broade
 
 ## Related Papers
 
-- [[implants/mehta-2021-tilted-axial-implants-edentulous-maxilla-sr-ma]] — reinforces: tilted=axial MBL at 2yr consistent with this study (0.61 vs 0.45 mm, NS)
-- [[implants/szabo-2022-all-on-four-tilted-distal-implants-mbl]] — reinforces: similar full-arch MBL range; longer follow-up reveals tilted premium
-- [[implants/eskan-2020-tapered-implants-full-arch-immediate-function]] — reinforces: immediate loading equivalence and NDI safety in full-arch
+- [[implants/full-arch/mehta-2021-tilted-axial-implants-edentulous-maxilla-sr-ma]] — reinforces: tilted=axial MBL at 2yr consistent with this study (0.61 vs 0.45 mm, NS)
+- [[implants/full-arch/szabo-2022-all-on-four-tilted-distal-implants-mbl]] — reinforces: similar full-arch MBL range; longer follow-up reveals tilted premium
+- [[implants/full-arch/eskan-2020-tapered-implants-full-arch-immediate-function]] — reinforces: immediate loading equivalence and NDI safety in full-arch
 - [[overviews/tilted-axial-implant-angled-abutment-overview]] — applies-to: NDI as additional full-arch option for atrophic cases

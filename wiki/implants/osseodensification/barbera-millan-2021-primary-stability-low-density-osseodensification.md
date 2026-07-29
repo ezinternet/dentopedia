@@ -5,7 +5,7 @@ year: 2021
 date: 2021-05-01
 doi: 10.4317/medoral.24231
 source: barbera-millan-2021-primary-stability-low-density-osseodensification.md
-category: [implants/versah-protocols]
+category: [implants/osseodensification]
 evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/barbera-millan-2021-primary-stability-low-density-osseodensification.pdf
 pdf_filename: barbera-millan-2021-primary-stability-low-density-osseodensification.pdf
@@ -66,7 +66,7 @@ This bench study placed 110 conical internal-connection implants (4×10 mm) into
 
 ## Related Papers
 
-- [[implants/versah-protocols/mercier-2022-osseodensification-primary-stability-cadavers]] — reinforces: cadaveric mandible OD vs standard drilling also raised insertion torque and bone density.
-- [[implants/versah-protocols/moghaddas-2025-osseodensification-standard-drilling-isq-itv]] — reinforces: clinical OD vs standard drilling, higher ISQ and ITV (posterior maxilla).
-- [[implants/versah-protocols/rittipakorn-2025-clockwise-osseodensification-primary-stability-cadaveric]] — related cadaveric OD primary-stability comparison.
-- [[implants/versah-protocols/ali-2026-osseodensification-techniques-implant-stability-maxilla]] — related OD techniques and implant stability in maxilla.
+- [[implants/osseodensification/mercier-2022-osseodensification-primary-stability-cadavers]] — reinforces: cadaveric mandible OD vs standard drilling also raised insertion torque and bone density.
+- [[implants/osseodensification/moghaddas-2025-osseodensification-standard-drilling-isq-itv]] — reinforces: clinical OD vs standard drilling, higher ISQ and ITV (posterior maxilla).
+- [[implants/osseodensification/rittipakorn-2025-clockwise-osseodensification-primary-stability-cadaveric]] — related cadaveric OD primary-stability comparison.
+- [[implants/osseodensification/ali-2026-osseodensification-techniques-implant-stability-maxilla]] — related OD techniques and implant stability in maxilla.

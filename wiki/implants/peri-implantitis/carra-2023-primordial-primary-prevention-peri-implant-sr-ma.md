@@ -6,7 +6,7 @@ date: 2023-02-19
 doi: 10.1111/jcpe.13790
 journal: J Clin Periodontol 50(S26):77-112
 source: carra-2023-primordial-primary-prevention-peri-implant-sr-ma.md
-category: [implants]
+category: [implants/peri-implantitis]
 evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/carra-2023-primordial-primary-prevention-peri-implant-sr-ma.pdf
 pdf_filename: carra-2023-primordial-primary-prevention-peri-implant-sr-ma.pdf
@@ -57,8 +57,8 @@ PRISMA SR+MA through Aug 2022; observational + interventional studies; ≥6 mo f
 For Korean implant practice: every implant case should screen for and address modifiable risk factors *before* placement — smoking, untreated periodontitis, uncontrolled diabetes — not just as informed-consent items but as actively-modified pre-implant care. This is the primordial-prevention argument.
 
 ## Related Papers
-- [[implants/herrera-2023-prevention-treatment-peri-implant-efp]] — EFP S3 main guideline.
-- [[implants/derks-2015-peri-implant-health-disease-epidemiology]] — epidemiology.
-- [[implants/galarraga-vinueza-2025-peri-implant-disease-risk-factors]] — risk factors SR+MA.
-- [[implants/berglundh-2018-peri-implant-diseases-conditions-consensus]] — case definitions.
+- [[implants/peri-implantitis/herrera-2023-prevention-treatment-peri-implant-efp]] — EFP S3 main guideline.
+- [[implants/peri-implantitis/derks-2015-peri-implant-health-disease-epidemiology]] — epidemiology.
+- [[implants/peri-implantitis/galarraga-vinueza-2025-peri-implant-disease-risk-factors]] — risk factors SR+MA.
+- [[implants/peri-implantitis/berglundh-2018-peri-implant-diseases-conditions-consensus]] — case definitions.
 - [[implants/caggiano-2022-smoking-cessation-periodontal-peri-implant-sr]] — cessation specifically.

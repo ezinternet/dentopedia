@@ -5,7 +5,7 @@ year: 2025
 date: 2025-01-01
 doi: 10.1038/s41598-025-01012-x
 source: hockova-2025-short-implants-microvascular-free-flaps.md
-category: [implants]
+category: [implants/short-narrow]
 evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/hockova-2025-short-implants-microvascular-free-flaps.pdf
 pdf_filename: hockova-2025-short-implants-microvascular-free-flaps.pdf
@@ -45,6 +45,6 @@ Survival 97.1% (95% CI: 80.9â€“99.6%) at 63 months. Success 88.2% (95% CI: 71.6â
 Small sample (n=13); heterogeneous flap types; no comparator arm.
 
 ## Related Papers
-- [[implants/yu-2021-extra-short-vs-longer-implants-ma]]
+- [[implants/short-narrow/yu-2021-extra-short-vs-longer-implants-ma]]
 - [[oral-surgery/cebrian-carretero-2014-free-flap-implant-guided-surgery]]
-- [[implants/barausse-2024-4mm-short-implants-posterior-atrophic-8year]]
+- [[implants/short-narrow/barausse-2024-4mm-short-implants-posterior-atrophic-8year]]

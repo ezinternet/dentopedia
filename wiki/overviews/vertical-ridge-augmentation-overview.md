@@ -137,7 +137,7 @@ collagen membrane 부가 효용은 미결(SR 차이 없음 vs RCT 수치상 유�
 
 ### 신규 ingest cluster (2026-07-15)
 
-- [[implants/merli-2018-implant-prosthetic-rehabilitation-bone-atrophy]] — Umbrella review (12 RCT-based SRs, atrophic ridges): short implants (≤8mm) fewer complications than long+augmentation; no augmentation technique superior — prefer short implants for vertical defects when feasible
+- [[implants/full-arch/merli-2018-implant-prosthetic-rehabilitation-bone-atrophy]] — Umbrella review (12 RCT-based SRs, atrophic ridges): short implants (≤8mm) fewer complications than long+augmentation; no augmentation technique superior — prefer short implants for vertical defects when feasible
 - [[implants/vertical-ridge-augmentation/ng-2025-clinical-outcomes-titanium-mesh]] — Umbrella review (8 SRs, 20 RCTs): Ti-mesh weighted vertical bone gain 4.05mm, horizontal 3.96mm, mesh exposure 24.7% (~1 in 4); most SRs low quality — effective for 3D reconstruction but exposure demands skill
 
 ### spine (본문 인용)

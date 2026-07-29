@@ -5,7 +5,7 @@ year: 2024
 date: 2024-10-13
 doi: 10.7759/cureus.71396
 source: jain-2024-heat-generation-pain-piezosurgery-drilling.md
-category: [implants]
+category: [implants/osteotomy-thermal]
 evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/jain-2024-heat-generation-pain-piezosurgery-drilling.pdf
 pdf_filename: jain-2024-heat-generation-pain-piezosurgery-drilling.pdf
@@ -55,8 +55,8 @@ First SR explicitly framing piezo vs rotary as a pain-vs-heat trade-off, with ap
 - aquilanti-2023의 in vitro 결과와 일치(piezo 발열 ↑) — 단 aquilanti는 과부하·비회전 protocol이라 절대 차이는 과대평가 가능.
 
 ## Related Papers
-- [[implants/aquilanti-2023-heat-generation-initial-osteotomy]] — 직접 in vitro 비교, piezo 발열 ↑
-- [[implants/stubinger-2015-piezosurgery-implant-dentistry]] — piezo 임상 overview
-- [[implants/saxena-2024-guided-implant-drilling-bone-temperature]] — guided drilling 발열 SR (같은 그룹)
-- [[implants/chauhan-2018-biomechanical-factors-heat-generation-osteotomy]] — multifactorial 발열 SR
-- [[implants/kosior-2025-histological-histomorphometric-implant-bed-preparation]] — bed prep 방법별 조직학적 비교
+- [[implants/osteotomy-thermal/aquilanti-2023-heat-generation-initial-osteotomy]] — 직접 in vitro 비교, piezo 발열 ↑
+- [[implants/osteotomy-thermal/stubinger-2015-piezosurgery-implant-dentistry]] — piezo 임상 overview
+- [[implants/osteotomy-thermal/saxena-2024-guided-implant-drilling-bone-temperature]] — guided drilling 발열 SR (같은 그룹)
+- [[implants/osteotomy-thermal/chauhan-2018-biomechanical-factors-heat-generation-osteotomy]] — multifactorial 발열 SR
+- [[implants/osteotomy-thermal/kosior-2025-histological-histomorphometric-implant-bed-preparation]] — bed prep 방법별 조직학적 비교

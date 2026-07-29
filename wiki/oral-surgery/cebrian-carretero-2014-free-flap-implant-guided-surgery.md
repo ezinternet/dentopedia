@@ -45,4 +45,4 @@ Guided surgery enables (1) implant positioning in the highest-quality bone regio
 Narrative review; case-illustration based; no quantitative outcome synthesis.
 
 ## Related Papers
-- [[implants/hockova-2025-short-implants-microvascular-free-flaps]]
+- [[implants/short-narrow/hockova-2025-short-implants-microvascular-free-flaps]]

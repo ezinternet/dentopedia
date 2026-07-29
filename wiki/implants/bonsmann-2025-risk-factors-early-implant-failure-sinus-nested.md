@@ -51,7 +51,7 @@ Nested case-control; 8 German centers 2016-2021; cases = implants lost within 12
 - Sinus augmentation context (not generalizable to non-sinus implants)
 
 ## Related Papers
-- [[implants/zhang-2024-short-vs-long-implants-sinus]] — short vs long implant in SFE.
+- [[implants/short-narrow/zhang-2024-short-vs-long-implants-sinus]] — short vs long implant in SFE.
 - [[overviews/sinus-lift-isq-loading-timing]] — sinus lift ISQ/loading.
 - [[overviews/sinus-lift-technique-selection]] — technique selection.
 - [[overviews/sinus-lift-lateral-2026-synthesis]] — lateral window synthesis.

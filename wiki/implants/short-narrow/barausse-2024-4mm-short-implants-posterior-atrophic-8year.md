@@ -5,7 +5,7 @@ year: 2024
 date: 2024-07-30
 doi: 10.1111/clr.14349
 source: barausse-2024-4mm-short-implants-posterior-atrophic-8year.md
-category: [implants]
+category: [implants/short-narrow]
 evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/barausse-2024-4mm-short-implants-posterior-atrophic-8year.pdf
 pdf_filename: barausse-2024-4mm-short-implants-posterior-atrophic-8year.pdf
@@ -45,6 +45,6 @@ Survival 95.36% at mean 8 years. Maxillary > mandibular failures (p=0.02). More 
 Retrospective; single-team; selection bias possible (only treated cases analyzed).
 
 ## Related Papers
-- [[implants/anitua-2022-short-vs-longer-implants-single-crown]]
-- [[implants/sivolella-2025-extra-short-5-6mm-implants-5year]]
-- [[implants/yu-2021-extra-short-vs-longer-implants-ma]]
+- [[implants/short-narrow/anitua-2022-short-vs-longer-implants-single-crown]]
+- [[implants/short-narrow/sivolella-2025-extra-short-5-6mm-implants-5year]]
+- [[implants/short-narrow/yu-2021-extra-short-vs-longer-implants-ma]]

@@ -5,7 +5,7 @@ year: 2022
 date: 2022-08-11
 doi: 10.1111/cid.13127
 source: yu-2022-primary-implant-stability-alternative-site-preparation-sr-ma.md
-category: [implants]
+category: [implants/osteotomy-thermal]
 evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/yu-2022-primary-implant-stability-alternative-site-preparation-sr-ma.pdf
 pdf_filename: yu-2022-primary-implant-stability-alternative-site-preparation-sr-ma.pdf
@@ -64,8 +64,8 @@ PRISMA-based SR; searches across MEDLINE/PubMed, Embase, Scopus, Wanfang (Chines
 - This SR is the best-known *cross-technique* comparison in the literature and is widely cited. Its inflated OD estimate should be remembered when reading downstream citations.
 
 ## Related Papers
-- [[implants/marzorati-2026-osseodensification-standard-osteotomy-torque-isq-sr-ma]] — newer OD-only SR; smaller, tighter ISQ effect; should be preferred for OD-specific decisions.
-- [[implants/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — foundational OD bench paper.
-- [[implants/mello-machado-2021-osseodensification-low-quality-bone-rct]] — RCT in D3/D4 bone.
-- [[implants/koutouzis-2019-alveolar-ridge-expansion-osseodensification-multicenter-retrospective]] — multicenter retrospective.
-- [[implants/slete-2018-histomorphometric-comparison-three-osteotomy-techniques]] — bench histomorphometry, all three drilling philosophies.
+- [[implants/osseodensification/marzorati-2026-osseodensification-standard-osteotomy-torque-isq-sr-ma]] — newer OD-only SR; smaller, tighter ISQ effect; should be preferred for OD-specific decisions.
+- [[implants/osseodensification/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — foundational OD bench paper.
+- [[implants/osseodensification/mello-machado-2021-osseodensification-low-quality-bone-rct]] — RCT in D3/D4 bone.
+- [[implants/osseodensification/koutouzis-2019-alveolar-ridge-expansion-osseodensification-multicenter-retrospective]] — multicenter retrospective.
+- [[implants/osteotomy-thermal/slete-2018-histomorphometric-comparison-three-osteotomy-techniques]] — bench histomorphometry, all three drilling philosophies.

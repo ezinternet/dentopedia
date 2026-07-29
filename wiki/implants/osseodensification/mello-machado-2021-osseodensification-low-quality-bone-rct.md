@@ -5,7 +5,7 @@ year: 2021
 date: 2021-01-11
 doi: 10.3390/app11020640
 source: mello-machado-2021-osseodensification-low-quality-bone-rct.md
-category: [implants]
+category: [implants/osseodensification]
 evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/mello-machado-2021-osseodensification-low-quality-bone-rct.pdf
 pdf_filename: mello-machado-2021-osseodensification-low-quality-bone-rct.pdf
@@ -59,8 +59,8 @@ Sixteen patients with D3 or D4 bone (Misch classification) were randomized; outc
 - Living-document note: the abstract's headline ("OD enables the healing chamber without reduction in stability") is supported by ISQ equivalence; the simultaneous IT increase is interesting but somewhat at odds with the "healing chamber = gap = lower IT" rationale and deserves cautious interpretation.
 
 ## Related Papers
-- [[implants/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — origin of OD concept.
+- [[implants/osseodensification/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — origin of OD concept.
 - [[implants/surface/lahens-2019-osseodensification-implant-surface-treatments-sheep]] — sheep ilium evidence of higher IT and BIC with OD.
-- [[implants/slete-2018-histomorphometric-comparison-three-osteotomy-techniques]] — bench histomorphometry of OD vs osteotome vs standard.
-- [[implants/koutouzis-2019-alveolar-ridge-expansion-osseodensification-multicenter-retrospective]] — OD in ridge expansion (related indication).
+- [[implants/osteotomy-thermal/slete-2018-histomorphometric-comparison-three-osteotomy-techniques]] — bench histomorphometry of OD vs osteotome vs standard.
+- [[implants/osseodensification/koutouzis-2019-alveolar-ridge-expansion-osseodensification-multicenter-retrospective]] — OD in ridge expansion (related indication).
 - [[fontes-pereira-2023-osseodensification-osteotomy-alternative-sr]] — SR pooling this RCT.

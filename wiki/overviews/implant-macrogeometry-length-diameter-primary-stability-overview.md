@@ -17,7 +17,7 @@ source_wiki:
   - wiki/implants/isq/huang-2016-influencing-factors-implant-stability-quotient.md
   - wiki/implants/isq/quesada-garcia-2012-implant-diameter-localization-prgf-stability.md
   - wiki/implants/isq/de-elio-2023-insertion-torque-resonance-frequency-tapered-parallel-implants.md
-  - wiki/implants/survival/kavitha-2023-outcome-implant-diameter-length-distribution.md
+  - wiki/implants/short-narrow/kavitha-2023-outcome-implant-diameter-length-distribution.md
   - wiki/implants/sahoo-2024-finite-element-analysis-influence-implant.md
   - wiki/implants/singh-2024-influence-implant-design-length-stress.md
 relations:
@@ -125,7 +125,7 @@ Narrative determinant synthesis (no pooled meta-analysis; heterogeneous designs)
 - [[implants/isq/huang-2016-influencing-factors-implant-stability-quotient]] — retrospective regression; diameter strongest secondary-ISQ predictor (β=0.414), length/bone NS
 - [[implants/isq/quesada-garcia-2012-implant-diameter-localization-prgf-stability]] — prospective; narrow diameter & maxilla → lower 12-wk ISQ
 - [[implants/isq/de-elio-2023-insertion-torque-resonance-frequency-tapered-parallel-implants]] — split-mouth; drill-diameter confound, RFA devices not interchangeable
-- [[implants/survival/kavitha-2023-outcome-implant-diameter-length-distribution]] — FEA; longer implant slightly raised neck stress, diameter negligible
+- [[implants/short-narrow/kavitha-2023-outcome-implant-diameter-length-distribution]] — FEA; longer implant slightly raised neck stress, diameter negligible
 - [[implants/sahoo-2024-finite-element-analysis-influence-implant]] — FEA; loading direction dominates micromotion, not geometry
 - [[implants/singh-2024-influence-implant-design-length-stress]] — FEA; longer implants lower interface stress in D4 bone
 

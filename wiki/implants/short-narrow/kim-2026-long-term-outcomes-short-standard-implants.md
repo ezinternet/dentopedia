@@ -5,7 +5,7 @@ year: 2026
 date: 2026-04-08
 doi: "10.1186/s12903-026-08341-3"
 source: kim-2026-long-term-outcomes-short-standard-implants.md
-category: [implants/survival]
+category: [implants/short-narrow]
 evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/kim-2026-long-term-outcomes-short-standard-implants.pdf
 pdf_filename: kim-2026-long-term-outcomes-short-standard-implants.pdf
@@ -67,6 +67,6 @@ Linear mixed model: insertion depth β = 0.1929, SE = 0.0543, p = 0.017 (only si
 
 ## Related Papers
 - [[overviews/implant-failure-mbl-risk-factors-overview]] — synthesized into this cross-paper late-implant-failure/MBL risk-factor overview
-- [[implants/arbildo-vega-2025-short-vs-standard-implants-edentulous-umbrella-review]] — reinforces; this long-term (6.5y) cohort supplies real-world primary data supporting the umbrella review's "survival equivalent, MBL comparable-or-better for short implants" thesis.
-- [[implants/survival/emfietzoglou-2024-short-implants-6mm-survival-posterior-edentulism-sr]] — refines; both use the strict ≤6 mm short-implant definition, but this paper adds that insertion depth — not length — is the key driver of residual MBL, qualifying the "short implants are equivalent" conclusion with a mechanistic nuance.
+- [[implants/short-narrow/arbildo-vega-2025-short-vs-standard-implants-edentulous-umbrella-review]] — reinforces; this long-term (6.5y) cohort supplies real-world primary data supporting the umbrella review's "survival equivalent, MBL comparable-or-better for short implants" thesis.
+- [[implants/short-narrow/emfietzoglou-2024-short-implants-6mm-survival-posterior-edentulism-sr]] — refines; both use the strict ≤6 mm short-implant definition, but this paper adds that insertion depth — not length — is the key driver of residual MBL, qualifying the "short implants are equivalent" conclusion with a mechanistic nuance.
 - [[overviews/implant-length-selection-why-not-always-short]] — related; contributes long-term MBL/CIR data relevant to length-selection decision-making.

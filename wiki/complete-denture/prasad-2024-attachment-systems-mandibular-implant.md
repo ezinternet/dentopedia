@@ -93,6 +93,6 @@ This 2024 SR+MA from the Journal of Prosthetic Dentistry analyzed 25 RCTs to com
 
 ## Related Papers
 
-- [[implants/liu-2021-immediate-delayed-loading-overdenture-mbl-sr-ma]] — loading protocol effects on MBL in mandibular overdentures
-- [[implants/park-2023-narrow-regular-diameter-mandibular-overdentures]] — implant diameter effects on mandibular overdenture outcomes
+- [[implants/full-arch/liu-2021-immediate-delayed-loading-overdenture-mbl-sr-ma]] — loading protocol effects on MBL in mandibular overdentures
+- [[implants/short-narrow/park-2023-narrow-regular-diameter-mandibular-overdentures]] — implant diameter effects on mandibular overdenture outcomes
 - [[complete-denture/alhajj-2017-occlusal-vertical-dimension-complete-denture-review]] — complete denture prosthodontic framework within which attachment selection occurs

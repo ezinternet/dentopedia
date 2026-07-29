@@ -190,7 +190,7 @@ ISQ와 삽입토크(IT)는 보완 지표(상관 r=0.44, I²>90%, Tisci 2026 SR+M
 
 | Spine paper | Evidence | Key finding |
 |---|---|---|
-| [[implants/versah-protocols/ali-2026-osseodensification-techniques-implant-stability-maxilla]] | rct (n=7, split-mouth, 상악 전치부) | Densah bur ISQ 70.1 vs Magnetic Mallet 49.0 (p<0.001); DB 즉시부하 임계(≥70) 달성, MM 미달; 협측 골판 두께 DB 우수; MM 2건 합병증(학습곡선 주의) |
+| [[implants/osseodensification/ali-2026-osseodensification-techniques-implant-stability-maxilla]] | rct (n=7, split-mouth, 상악 전치부) | Densah bur ISQ 70.1 vs Magnetic Mallet 49.0 (p<0.001); DB 즉시부하 임계(≥70) 달성, MM 미달; 협측 골판 두께 DB 우수; MM 2건 합병증(학습곡선 주의) |
 
 **임상 추가 함의 (kwon 2026)**:
 - 즉시식립에서 "더 공격적인 thread = 더 나은 안정성"은 **성립하지 않는다**. IT 상승은 thread–잔존 골벽 마찰에서 오며, 이 마찰이 가이드 드릴 편향(off-axis drift)을 유발.
@@ -209,7 +209,7 @@ ISQ와 삽입토크(IT)는 보완 지표(상관 r=0.44, I²>90%, Tisci 2026 SR+M
 - [[immediate-implant/molar-septum/atieh-2025-pre-extractive-vs-postextractive-immediate-molar]] — 하악 대구치 즉시식립 SR+MA (4 RCT, 82개): 발치 전 식립와 형성(pre-extractive technique)이 식립 직후 ISQ +3.39 (p<.0001, I²=0%), 중심위치 달성 RR 0.05 (p=.002); 3–6개월 ISQ 차이 소실 → **초기 ISQ 이득은 술식 기술 변수(발치 전 가이드 드릴)로 조절 가능**
 
 **OD technique head-to-head × ISQ — esthetic zone (Ali 2026, split-mouth RCT, n=7, maxillary anterior)**
-- [[implants/versah-protocols/ali-2026-osseodensification-techniques-implant-stability-maxilla]] — First direct comparison of Densah bur (DB) vs Magnetic Mallet (MM) osseodensification in the maxillary anterior esthetic zone: **primary ISQ 70.1 (DB) vs 49.0 (MM)** (p<0.001); secondary ISQ at 6 months 74.7 vs 59.8 (p=0.003). DB achieved ≥70 ISQ (early loading threshold) at placement; MM did not. Labial plate thickness significantly greater in DB (1.85 vs 1.17 mm immediately; 1.68 vs 0.98 mm at 6mo, p=0.002). Bone density and crestal width equivalent at 6 months (both NS). MM had 2 intraoperative complications (labial plate fracture + palatal crack) in thin-ridge anterior sites — steep learning curve. [rct, n=7 — preliminary but only head-to-head data]
+- [[implants/osseodensification/ali-2026-osseodensification-techniques-implant-stability-maxilla]] — First direct comparison of Densah bur (DB) vs Magnetic Mallet (MM) osseodensification in the maxillary anterior esthetic zone: **primary ISQ 70.1 (DB) vs 49.0 (MM)** (p<0.001); secondary ISQ at 6 months 74.7 vs 59.8 (p=0.003). DB achieved ≥70 ISQ (early loading threshold) at placement; MM did not. Labial plate thickness significantly greater in DB (1.85 vs 1.17 mm immediately; 1.68 vs 0.98 mm at 6mo, p=0.002). Bone density and crestal width equivalent at 6 months (both NS). MM had 2 intraoperative complications (labial plate fracture + palatal crack) in thin-ridge anterior sites — steep learning curve. [rct, n=7 — preliminary but only head-to-head data]
 
 **Augmentation material × ISQ (crestal sinus)**
 - [[implants/isq/ragher-2025-iprf-venous-blood-synthetic-graft-isq]] — 경치조골 간접 상악동거상 4-arm RCT (n=64): i-PRF buccal 70.1/mesial 74.8, NovaBone 75.9/76.4 vs 무이식 54.8/55.8, 정맥혈 56.8/61.5 (6mo); i-PRF ≡ NovaBone (NS); 정맥혈 ≡ 무이식 → **구조화 피브린 매트릭스 또는 합성 골전도 scaffold 없이는 간접 거상 후 ISQ ≥70 도달 불가**

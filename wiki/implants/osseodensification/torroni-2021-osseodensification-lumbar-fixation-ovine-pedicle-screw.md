@@ -5,7 +5,7 @@ year: 2021
 date: 2021-07-01
 doi: 10.1002/jor.24707
 source: torroni-2021-osseodensification-lumbar-fixation-ovine-pedicle-screw.md
-category: [implants]
+category: [implants/osseodensification]
 evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/torroni-2021-osseodensification-lumbar-fixation-ovine-pedicle-screw.pdf
 pdf_filename: torroni-2021-osseodensification-lumbar-fixation-ovine-pedicle-screw.pdf
@@ -64,7 +64,7 @@ Exact P-values and 95% CIs for the pullout difference are not retrievable from t
 - Clinically, the result does NOT yet justify replacing PMMA augmentation in osteoporotic lumbar fusion; it justifies an RCT.
 
 ## Related Papers
-- [[implants/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — origin of the OD concept in dental bench testing.
-- [[implants/tian-2019-alveolar-ridge-expansion-osseodensification-osteotome]] — sister dental study from the same group, ridge-expansion model.
+- [[implants/osseodensification/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — origin of the OD concept in dental bench testing.
+- [[implants/osseodensification/tian-2019-alveolar-ridge-expansion-osseodensification-osteotome]] — sister dental study from the same group, ridge-expansion model.
 - [[implants/surface/lahens-2019-osseodensification-implant-surface-treatments-sheep]] — sheep ilium OD biomechanics, complementary anatomy.
-- [[implants/koutouzis-2019-alveolar-ridge-expansion-osseodensification-multicenter-retrospective]] — clinical translation in dentistry.
+- [[implants/osseodensification/koutouzis-2019-alveolar-ridge-expansion-osseodensification-multicenter-retrospective]] — clinical translation in dentistry.

@@ -48,5 +48,5 @@ Provides a human controlled counterpoint to the OD-favorable pooled literature: 
 
 ## Related Papers
 - [[implants/isq/althobaiti-2023-osseodensification-conventional-drilling-isq-sr]] — OD ISQ systematic review (OD-favorable)
-- [[implants/inchingolo-2021-osseodensification-implant-site-osteotomy-sr-ma]] — OD osteotomy SR+MA
+- [[implants/osseodensification/inchingolo-2021-osseodensification-implant-site-osteotomy-sr-ma]] — OD osteotomy SR+MA
 - [[implants/isq/arpudaswamy-2025-osseodensification-conventional-implant-stability-rabbit]] — animal RCT showing OD secondary-stability gain (contrast)

@@ -116,7 +116,7 @@ The axes are not contradictory once framed correctly: **equivalent clinical surv
 
 ### 신규 ingest cluster (2026-07-15)
 
-- [[implants/la-monaca-2022-immediate-flapless-full-arch-rehabilitation]] — Retrospective cohort (28 pts/164 implants, ~6.5y): all-on-6 survival 99.0% vs all-on-4 89.7%, fewer biological complications (1.0% vs 10.3%, p=0.014) — 6-implant configuration better tolerates loss
+- [[implants/full-arch/la-monaca-2022-immediate-flapless-full-arch-rehabilitation]] — Retrospective cohort (28 pts/164 implants, ~6.5y): all-on-6 survival 99.0% vs all-on-4 89.7%, fewer biological complications (1.0% vs 10.3%, p=0.014) — 6-implant configuration better tolerates loss
 
 **Clinical axis:**
 - [[prosthetic-materials/toia-2021-fixed-full-arch-maxillary-prostheses]] — 3-yr RCT; 4-I non-inferior MBL, prosthetic complications 47.2%
@@ -124,8 +124,8 @@ The axes are not contradictory once framed correctly: **equivalent clinical surv
 - [[complete-denture/carames-2025-four-vs-six-implant]] — 943-patient retrospective; jaw/age predict loss, not number
 
 **Biomechanical axis:**
-- [[implants/pandey-2023-comparison-all-on-four-all-on-six]] — FEA mandible; All-on-Six markedly lower cortical/implant stress
-- [[implants/cabbarova-2026-all-on-four-six-framework-fea]] — FEA + 6 framework materials; Ti/Zr optimal, PEEK/PEKK contraindicated
+- [[implants/full-arch/pandey-2023-comparison-all-on-four-all-on-six]] — FEA mandible; All-on-Six markedly lower cortical/implant stress
+- [[implants/full-arch/cabbarova-2026-all-on-four-six-framework-fea]] — FEA + 6 framework materials; Ti/Zr optimal, PEEK/PEKK contraindicated
 
 **Related overviews:**
 - [[overviews/tilted-axial-implant-angled-abutment-overview]] — tilted-implant biomechanics underlying All-on-4

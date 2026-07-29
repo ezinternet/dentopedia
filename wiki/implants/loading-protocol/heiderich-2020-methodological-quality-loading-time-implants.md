@@ -5,7 +5,7 @@ year: 2020
 date: 2020-10-14
 doi: 10.1016/j.jdsr.2020.09.004
 source: heiderich-2020-methodological-quality-loading-time-implants.md
-category: [implants]
+category: [implants/loading-protocol]
 evidence_level: sr
 source_collection: pubmed-text
 full_text: true
@@ -62,7 +62,7 @@ Umbrella systematic review (overview of systematic reviews), PRIO-guided reporti
 | Bottom line | Restricting to low-risk-of-bias SRs only, no significant difference in implant loading time outcomes |
 
 ## Related Papers
-- [[implants/rismanchian-2025-immediate-nonimmediate-loading-umbrella-review]] — companion umbrella review (24 SRs, single-implant IL vs NIL clinical outcomes: survival, MBL); this 2020 paper supplies the risk-of-bias-stratified methodological-quality lens that the 2025 clinical-outcomes synthesis does not perform, for the earlier (pre-2019) multiple-implant SR evidence base.
-- [[implants/benic-2014-loading-protocols-single-implant-crowns-sr-ma]] — one of the earlier primary-literature SRs whose evidence-base quality this umbrella review's framework would apply to.
-- [[implants/esposito-2013-loading-times-dental-implants-cochrane]] — Cochrane-standard SR on implant loading times, an example of the type of underlying SR this umbrella review appraises for methodological rigor.
-- [[implants/liu-2021-immediate-delayed-loading-overdenture-mbl-sr-ma]] — parallel SR+MA on immediate vs delayed loading for overdentures, illustrating the arch/prosthesis-type heterogeneity this umbrella review flags as an unresolved effect modifier.
+- [[implants/loading-protocol/rismanchian-2025-immediate-nonimmediate-loading-umbrella-review]] — companion umbrella review (24 SRs, single-implant IL vs NIL clinical outcomes: survival, MBL); this 2020 paper supplies the risk-of-bias-stratified methodological-quality lens that the 2025 clinical-outcomes synthesis does not perform, for the earlier (pre-2019) multiple-implant SR evidence base.
+- [[implants/loading-protocol/benic-2014-loading-protocols-single-implant-crowns-sr-ma]] — one of the earlier primary-literature SRs whose evidence-base quality this umbrella review's framework would apply to.
+- [[implants/loading-protocol/esposito-2013-loading-times-dental-implants-cochrane]] — Cochrane-standard SR on implant loading times, an example of the type of underlying SR this umbrella review appraises for methodological rigor.
+- [[implants/full-arch/liu-2021-immediate-delayed-loading-overdenture-mbl-sr-ma]] — parallel SR+MA on immediate vs delayed loading for overdentures, illustrating the arch/prosthesis-type heterogeneity this umbrella review flags as an unresolved effect modifier.

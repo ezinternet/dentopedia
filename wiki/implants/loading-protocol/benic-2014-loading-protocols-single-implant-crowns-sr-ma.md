@@ -5,7 +5,7 @@ year: 2014
 date: 2014-03-20
 doi: "10.11607/jomi.2014suppl.g4.1"
 source: benic-2014-loading-protocols-single-implant-crowns-sr-ma.md
-category: [implants]
+category: [implants/loading-protocol]
 evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/benic-2014-loading-protocols-single-implant-crowns-sr-ma.pdf
 pdf_filename: benic-2014-loading-protocols-single-implant-crowns-sr-ma.pdf
@@ -49,6 +49,6 @@ This meta-analysis of 11 RCTs established that immediately and conventionally lo
 
 ## Related Papers
 
-- [[implants/abdunabi-2019-immediately-loaded-maxillary-full-arch-sr]] — loading protocols in the edentulous maxilla
-- [[implants/liu-2021-immediate-delayed-loading-overdenture-mbl-sr-ma]] — loading protocols for mandibular overdentures
+- [[implants/full-arch/abdunabi-2019-immediately-loaded-maxillary-full-arch-sr]] — loading protocols in the edentulous maxilla
+- [[implants/full-arch/liu-2021-immediate-delayed-loading-overdenture-mbl-sr-ma]] — loading protocols for mandibular overdentures
 - [[immediate-implant/loading-protocol/esposito-2015-immediate-loading-vs-delayed-anterior-rct]] — immediate vs delayed loading RCT (anterior)

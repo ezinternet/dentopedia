@@ -5,7 +5,7 @@ year: 2026
 date: 2026-01-05
 doi: 10.1371/journal.pone.0338078
 source: de-lima-2026-osseodensification-vs-conventional-drilling-exvivo.md
-category: [implants/versah-protocols]
+category: [implants/osseodensification]
 evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/de-lima-2026-osseodensification-vs-conventional-drilling-exvivo.pdf
 pdf_filename: de-lima-2026-osseodensification-vs-conventional-drilling-exvivo.pdf
@@ -66,8 +66,8 @@ All pairwise torque comparisons significant (p<0.05). ISQ and temperature: no si
 
 ## Related Papers
 
-- [[implants/versah-protocols/moghaddas-2025-osseodensification-standard-drilling-isq-itv]] — ISQ/ITV comparison of OD vs standard drilling; this study extends with a second OD system (WF) and adds torque/SEM
-- [[implants/versah-protocols/barbera-millan-2021-primary-stability-low-density-osseodensification]] — methodology and sample size reference for this study; low-density bone OD primary stability
-- [[implants/versah-protocols/mercier-2022-osseodensification-primary-stability-cadavers]] — cadaveric model OD primary stability; complements this bovine ex vivo model
-- [[implants/versah-protocols/rittipakorn-2025-clockwise-osseodensification-primary-stability-cadaveric]] — clockwise variant OD primary stability in cadavers
-- [[implants/versah-protocols/ali-2026-osseodensification-techniques-implant-stability-maxilla]] — OD techniques and implant stability in maxilla context
+- [[implants/osseodensification/moghaddas-2025-osseodensification-standard-drilling-isq-itv]] — ISQ/ITV comparison of OD vs standard drilling; this study extends with a second OD system (WF) and adds torque/SEM
+- [[implants/osseodensification/barbera-millan-2021-primary-stability-low-density-osseodensification]] — methodology and sample size reference for this study; low-density bone OD primary stability
+- [[implants/osseodensification/mercier-2022-osseodensification-primary-stability-cadavers]] — cadaveric model OD primary stability; complements this bovine ex vivo model
+- [[implants/osseodensification/rittipakorn-2025-clockwise-osseodensification-primary-stability-cadaveric]] — clockwise variant OD primary stability in cadavers
+- [[implants/osseodensification/ali-2026-osseodensification-techniques-implant-stability-maxilla]] — OD techniques and implant stability in maxilla context

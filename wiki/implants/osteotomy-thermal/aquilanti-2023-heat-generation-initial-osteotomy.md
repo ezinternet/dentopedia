@@ -5,7 +5,7 @@ year: 2023
 date: 2022-10-27
 doi: 10.1007/s12663-022-01800-8
 source: aquilanti-2023-heat-generation-initial-osteotomy.md
-category: [implants]
+category: [implants/osteotomy-thermal]
 evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/aquilanti-2023-heat-generation-initial-osteotomy.pdf
 pdf_filename: aquilanti-2023-heat-generation-initial-osteotomy.pdf
@@ -63,9 +63,9 @@ Direct quantification of the thermal penalty of piezo-surgical initial osteotomy
 - [확인] piezo가 부적절한 protocol에선 열손상 위험 / [미검증] manufacturer 권장 protocol 적용 시 차이 축소될 가능성.
 
 ## Related Papers
-- [[implants/bernabeu-mira-2020-bone-heating-drilling-implant]] — initial/pilot drill heat > progressive/final, design-effect
-- [[implants/chakraborty-2024-implant-drill-materials-heat-osteotomy]] — SR overview
-- [[implants/sorgato-2025-drill-bit-wear-temperature]] — wear–temperature direct correlation
-- [[implants/saxena-2024-guided-implant-drilling-bone-temperature]] — chilled saline mitigates guided heat (parallel finding)
-- [[implants/heuzeroth-2021-thermal-exposure-osteotomy-osseointegration]] — shortened sequence + novel drill ↓ peak T, ↑ BIC
-- [[implants/marenzi-2018-micromorphological-structure-implant-drills]] — surface microstructure across manufacturers
+- [[implants/osteotomy-thermal/bernabeu-mira-2020-bone-heating-drilling-implant]] — initial/pilot drill heat > progressive/final, design-effect
+- [[implants/osteotomy-thermal/chakraborty-2024-implant-drill-materials-heat-osteotomy]] — SR overview
+- [[implants/osteotomy-thermal/sorgato-2025-drill-bit-wear-temperature]] — wear–temperature direct correlation
+- [[implants/osteotomy-thermal/saxena-2024-guided-implant-drilling-bone-temperature]] — chilled saline mitigates guided heat (parallel finding)
+- [[implants/osteotomy-thermal/heuzeroth-2021-thermal-exposure-osteotomy-osseointegration]] — shortened sequence + novel drill ↓ peak T, ↑ BIC
+- [[implants/osteotomy-thermal/marenzi-2018-micromorphological-structure-implant-drills]] — surface microstructure across manufacturers

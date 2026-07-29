@@ -5,7 +5,7 @@ year: 2017
 date: 2017-07-20
 doi: "WO 2017/124079 A1 (PCT/US2017/013697; priority US 62/278,579, 2016-01-14)"
 source: huwais-2017-autografting-tool-enhanced-flute-profile.md
-category: [implants]
+category: [implants/osseodensification]
 evidence_level: patent
 pdf_path: /Users/oracleneo/llm-wiki/papers/huwais-2017-autografting-tool-enhanced-flute-profile.pdf
 pdf_filename: huwais-2017-autografting-tool-enhanced-flute-profile.pdf
@@ -36,13 +36,13 @@ PCT 특허(WO 2017/124079 A1; Huwais IP Holding LLC) — Densah/Versah 골밀도
 
 ## Summary
 
-This is the **origin patent of the Densah/Versah osseodensification bur** (인벤터 Salah Huwais), the engineering ground-truth behind everything the wiki records about Densah's "날 모양(flute profile)" and its CW=cut / CCW=densify bidirectional behaviour. It is a patent disclosure, not a clinical study — its experimental validation lives in the companion bench paper [[implants/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] and the clinical synthesis in [[overviews/osseodensification-clinical-applications]].
+This is the **origin patent of the Densah/Versah osseodensification bur** (인벤터 Salah Huwais), the engineering ground-truth behind everything the wiki records about Densah's "날 모양(flute profile)" and its CW=cut / CCW=densify bidirectional behaviour. It is a patent disclosure, not a clinical study — its experimental validation lives in the companion bench paper [[implants/osseodensification/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] and the clinical synthesis in [[overviews/osseodensification-clinical-applications]].
 
 The claimed invention is a **rotary osteotome** with a shank, a body tapering to an apical end, and a plurality of **helically spiraling flutes**. The geometric heart — and the literal "improvement" in independent claim 1 — is that the flutes are formed with a **continuously negative rake angle** along their length. Each flute has two opposing faces: a **cutting face** (defining the rake angle) and a **densifying face** (defining a heel-side angle). Between adjacent flutes a **land** carries a **working edge** along the cutting face. This dual-face geometry is exactly why one bur serves two modes: rotated so the cutting faces sweep into bone, it cuts; rotated the other way, the densifying faces and negative-rake lands burnish and compact instead of slicing.
 
 The patent also specifies the **hydraulic autografting** mechanism (spec [0147]–[0148]): bone is visco-elastic, so within the strain-hardening range (B-to-D on the strain curve) an outward (expansion-oriented) strain forms a densified crust rather than fracturing the wall. Under copious irrigation the flutes trap a slurry of bone particles, collagen and blood; the **stopper section** plugs the osteotomy with a piston-like effect, and the negative-rake flutes act impeller-like, building hydraulic pressure that deforms the side-walls outward and drives the bone slurry into them — autografting the patient's own bone with no external graft. Method claim 11 frames this at a **cutting-direction rotation of >~200 RPM**. The specification notes the same tool/method also applies to non-medical host materials (e.g. metals).
 
-**Relation to the rest of the wiki.** This patent *reinforces* the OD mechanism documented in the Huwais bench paper and the Versah protocol pages. It also makes the contrast with the alternative HaeNaem design explicit: Densah achieves bidirectionality through a single dual-face flute with a negative rake angle, whereas the HaeNaem condensing-screw patent [[implants/kim-2019-double-spiral-condensing-screw-implant]] routes bone powder to a lower compression dome and is described for a single working rotation direction — a genuinely different engineering route to the same densification goal.
+**Relation to the rest of the wiki.** This patent *reinforces* the OD mechanism documented in the Huwais bench paper and the Versah protocol pages. It also makes the contrast with the alternative HaeNaem design explicit: Densah achieves bidirectionality through a single dual-face flute with a negative rake angle, whereas the HaeNaem condensing-screw patent [[implants/osteotomy-thermal/kim-2019-double-spiral-condensing-screw-implant]] routes bone powder to a lower compression dome and is described for a single working rotation direction — a genuinely different engineering route to the same densification goal.
 
 ## Key Contributions
 
@@ -62,7 +62,7 @@ No clinical or bench measurements (patent document). Asserted design parameters/
 
 ## Related Papers
 
-- [[implants/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — companion bench study (same inventor) that experimentally validates this tool (IT↑, BIC ×3, BMD layer)
-- [[implants/kim-2019-double-spiral-condensing-screw-implant]] — alternative OD bur patent (HaeNaem condensing screw); contrasting single-direction engineering route
+- [[implants/osseodensification/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — companion bench study (same inventor) that experimentally validates this tool (IT↑, BIC ×3, BMD layer)
+- [[implants/osteotomy-thermal/kim-2019-double-spiral-condensing-screw-implant]] — alternative OD bur patent (HaeNaem condensing screw); contrasting single-direction engineering route
 - [[overviews/osseodensification-clinical-applications]] — OD evidence/clinical overview
 - [[overviews/versah-protocol-selection-map]] — Versah Densah protocol selection map

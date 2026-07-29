@@ -64,5 +64,5 @@ Not applicable — this is a narrative review with no quantitative outcomes. Use
 
 ## Related Papers
 - [[implants/surface/lahens-2019-osseodensification-implant-surface-treatments-sheep]] — modern sheep study comparing acid-etched vs machined surfaces under different drilling protocols.
-- [[implants/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — example of contemporary drilling-protocol innovation building on the surface paradigm.
-- [[implants/marzorati-2026-osseodensification-standard-osteotomy-torque-isq-sr-ma]] — current SR-grade evidence framework for technique evaluation.
+- [[implants/osseodensification/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — example of contemporary drilling-protocol innovation building on the surface paradigm.
+- [[implants/osseodensification/marzorati-2026-osseodensification-standard-osteotomy-torque-isq-sr-ma]] — current SR-grade evidence framework for technique evaluation.

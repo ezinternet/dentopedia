@@ -5,7 +5,7 @@ year: 2018
 date: 2018-06-06
 doi: 10.1155/2018/8143962
 source: marenzi-2018-micromorphological-structure-implant-drills.md
-category: [implants]
+category: [implants/osteotomy-thermal]
 evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/marenzi-2018-micromorphological-structure-implant-drills.pdf
 pdf_filename: marenzi-2018-micromorphological-structure-implant-drills.pdf
@@ -48,10 +48,10 @@ Demonstrates that drill quality cannot be inferred from macroscopic geometry alo
 
 ## Clinical Implications
 - 같은 직경·디자인 drill이라도 제조사 간 미세거칠기 차이가 발열·마모에 직결될 수 있음 — 제조사 변경 시 발열 패턴이 달라질 수 있다고 가정해야 함.
-- 본 연구는 표면 특성만 측정 — 실제 drilling 발열은 [[implants/bernabeu-mira-2020-bone-heating-drilling-implant]], [[implants/sorgato-2025-drill-bit-wear-temperature]] 등에서 검증.
+- 본 연구는 표면 특성만 측정 — 실제 drilling 발열은 [[implants/osteotomy-thermal/bernabeu-mira-2020-bone-heating-drilling-implant]], [[implants/osteotomy-thermal/sorgato-2025-drill-bit-wear-temperature]] 등에서 검증.
 
 ## Related Papers
-- [[implants/chakraborty-2024-implant-drill-materials-heat-osteotomy]] — SR concluding drill wear predicts heat more reliably than material
-- [[implants/bernabeu-mira-2020-bone-heating-drilling-implant]] — direct drilling heat by material (SS vs DLC) and design
-- [[implants/sorgato-2025-drill-bit-wear-temperature]] — wear evolution via SEM and temperature rise over 150 holes
-- [[implants/heuzeroth-2021-thermal-exposure-osteotomy-osseointegration]] — improved drill surface treatment → lower temperature and higher BIC in vivo
+- [[implants/osteotomy-thermal/chakraborty-2024-implant-drill-materials-heat-osteotomy]] — SR concluding drill wear predicts heat more reliably than material
+- [[implants/osteotomy-thermal/bernabeu-mira-2020-bone-heating-drilling-implant]] — direct drilling heat by material (SS vs DLC) and design
+- [[implants/osteotomy-thermal/sorgato-2025-drill-bit-wear-temperature]] — wear evolution via SEM and temperature rise over 150 holes
+- [[implants/osteotomy-thermal/heuzeroth-2021-thermal-exposure-osteotomy-osseointegration]] — improved drill surface treatment → lower temperature and higher BIC in vivo

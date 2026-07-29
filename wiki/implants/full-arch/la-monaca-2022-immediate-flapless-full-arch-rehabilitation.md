@@ -5,7 +5,7 @@ year: 2022
 date: 2022-09-13
 doi: 10.1111/cid.13134
 source: la-monaca-2022-immediate-flapless-full-arch-rehabilitation.md
-category: [implants]
+category: [implants/full-arch]
 evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/la-monaca-2022-immediate-flapless-full-arch-rehabilitation.pdf
 pdf_filename: la-monaca-2022-immediate-flapless-full-arch-rehabilitation.pdf
@@ -60,6 +60,6 @@ This single-center retrospective cohort study (Sapienza University of Rome, pati
 
 ## Related Papers
 
-- [[implants/del-fabbro-2022-full-arch-tilted-axial-implants-sr-ma]] — SR+MA (24 studies) found axial implants have significantly lower MBL than tilted at meta-analytic level; this single-cohort retrospective study found no significant tilted-vs-axial MBL difference, illustrating cohort-level heterogeneity beneath the pooled SR+MA signal, and adds a direct all-on-4 vs all-on-6 comparison the meta-analysis does not isolate.
-- [[implants/uesugi-2024-risk-factors-early-failure-all-on-four]] — early all-on-4 failure risk factors; this paper extends the horizon to late (up to 10-year) failures and complications.
-- [[implants/szabo-2022-all-on-four-tilted-distal-implants-mbl]] — all-on-4 tilted-implant MBL; comparable protocol context.
+- [[implants/full-arch/del-fabbro-2022-full-arch-tilted-axial-implants-sr-ma]] — SR+MA (24 studies) found axial implants have significantly lower MBL than tilted at meta-analytic level; this single-cohort retrospective study found no significant tilted-vs-axial MBL difference, illustrating cohort-level heterogeneity beneath the pooled SR+MA signal, and adds a direct all-on-4 vs all-on-6 comparison the meta-analysis does not isolate.
+- [[implants/full-arch/uesugi-2024-risk-factors-early-failure-all-on-four]] — early all-on-4 failure risk factors; this paper extends the horizon to late (up to 10-year) failures and complications.
+- [[implants/full-arch/szabo-2022-all-on-four-tilted-distal-implants-mbl]] — all-on-4 tilted-implant MBL; comparable protocol context.

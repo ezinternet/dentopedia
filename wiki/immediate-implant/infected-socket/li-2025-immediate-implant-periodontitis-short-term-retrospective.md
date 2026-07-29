@@ -68,8 +68,8 @@ Retrospective; n=95 / 234 implants; Jinan Univ Stomatological Hospital 2017-2022
 For Korean implant practice in periodontitis patients: short-term survival is favorable in Stage I-III / Grade A-B cases when immediate placement is technically feasible with appropriate grafting. Stage IV / Grade C should be treated periodontally before consideration of any immediate placement.
 
 ## Related Papers
-- [[implants/carra-2023-primordial-primary-prevention-peri-implant-sr-ma]] — primordial prevention (treat periodontitis first).
+- [[implants/peri-implantitis/carra-2023-primordial-primary-prevention-peri-implant-sr-ma]] — primordial prevention (treat periodontitis first).
 - [[immediate-implant/infected-socket/colak-2023-immediate-implant-periapical-pathology-retrospective]] — periapical immediate.
-- [[implants/galarraga-vinueza-2025-peri-implant-disease-risk-factors]] — peri-implant risk factors.
-- [[implants/herrera-2023-prevention-treatment-peri-implant-efp]] — EFP S3 guideline.
+- [[implants/peri-implantitis/galarraga-vinueza-2025-peri-implant-disease-risk-factors]] — peri-implant risk factors.
+- [[implants/peri-implantitis/herrera-2023-prevention-treatment-peri-implant-efp]] — EFP S3 guideline.
 - [[overviews/immediate-implant-conditions]] — immediate implant conditions synthesis.

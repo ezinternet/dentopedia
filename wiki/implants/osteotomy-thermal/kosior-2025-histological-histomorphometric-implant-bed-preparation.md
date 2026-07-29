@@ -5,7 +5,7 @@ year: 2025
 date: 2025-06-26
 doi: 10.3390/jcm14134538
 source: kosior-2025-histological-histomorphometric-implant-bed-preparation.md
-category: [implants]
+category: [implants/osteotomy-thermal]
 evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/kosior-2025-histological-histomorphometric-implant-bed-preparation.pdf
 pdf_filename: kosior-2025-histological-histomorphometric-implant-bed-preparation.pdf
@@ -56,11 +56,11 @@ First SR to compare all five preparation families on histological/histomorphomet
 - piezo의 thermal 이슈는 aquilanti·jain SR과 일치 — 적절 protocol 준수가 전제.
 
 ## Related Papers
-- [[implants/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — OD 원리
-- [[implants/fontes-pereira-2023-osseodensification-osteotomy-alternative-sr]] — OD SR
-- [[implants/ortiz-2025-osseodensification-implant-dentistry-critical-review]] — OD 비판적 고찰
-- [[implants/chakraborty-2024-implant-drill-materials-heat-osteotomy]] — drill 재질-발열 SR
-- [[implants/jain-2024-heat-generation-pain-piezosurgery-drilling]] — piezo SR
-- [[implants/aquilanti-2023-heat-generation-initial-osteotomy]] — piezo vs rotary in vitro
-- [[implants/rugova-2024-thermal-evaluation-bone-drilling-sequential]] — sequential drilling 발열
-- [[implants/heuzeroth-2021-thermal-exposure-osteotomy-osseointegration]] — drill protocol → BIC in vivo
+- [[implants/osseodensification/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — OD 원리
+- [[implants/osseodensification/fontes-pereira-2023-osseodensification-osteotomy-alternative-sr]] — OD SR
+- [[implants/osseodensification/ortiz-2025-osseodensification-implant-dentistry-critical-review]] — OD 비판적 고찰
+- [[implants/osteotomy-thermal/chakraborty-2024-implant-drill-materials-heat-osteotomy]] — drill 재질-발열 SR
+- [[implants/osteotomy-thermal/jain-2024-heat-generation-pain-piezosurgery-drilling]] — piezo SR
+- [[implants/osteotomy-thermal/aquilanti-2023-heat-generation-initial-osteotomy]] — piezo vs rotary in vitro
+- [[implants/osteotomy-thermal/rugova-2024-thermal-evaluation-bone-drilling-sequential]] — sequential drilling 발열
+- [[implants/osteotomy-thermal/heuzeroth-2021-thermal-exposure-osteotomy-osseointegration]] — drill protocol → BIC in vivo

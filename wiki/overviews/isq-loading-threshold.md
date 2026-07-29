@@ -146,7 +146,7 @@ Lekholm-Zarb 분류 기반. [[implants/rosa-2024-do-dental-implants-bone-types]]
 |---|---|---|---|
 | **sr+ma** | OD vs 오스테오톰/측창 (상악동) | OD 식립시·지대주연결시 ISQ 유의하게 높음 | [[sinus-lift/transcrestal/starch-jensen-2025-transcrestal-sinus-osseodensification-meta-analysis]] |
 | **sr** | OD vs 전통드릴링 (일반) | 다수 연구에서 OD 우위, but RCT RoB 높음 | [[implants/isq/althobaiti-2023-osseodensification-conventional-drilling-isq-sr]] |
-| **sr** | OD 종합 | IT 일관되게 상승, ISQ 가변적, D3/D4 효과 최대 | [[implants/fontes-pereira-2023-osseodensification-osteotomy-alternative-sr]] |
+| **sr** | OD 종합 | IT 일관되게 상승, ISQ 가변적, D3/D4 효과 최대 | [[implants/osseodensification/fontes-pereira-2023-osseodensification-osteotomy-alternative-sr]] |
 | **rct(n=100)** | OD vs 4개 대안 | **OD 일시적 상승 후 3개월에 사라짐** | [[implants/isq/konuklu-2026-five-osteotomy-protocols-isq-rct]] |
 | **rct(n=11)** | OD vs 오스테오톰 (TSFE, RBH 5–8mm) | OD 식립시 ISQ 66.17 vs 54.83 (p=0.043) | [[sinus-lift/transcrestal/el-ghobashy-osseodensification-vs-osteotome-transcrestal-sinus]] |
 | **rct(n=30)** | 친수성 테이퍼 임플란트 6주 vs 12주 부하 | 양군 97.56% 성공; 골질만 ISQ 예측 | [[implants/surface/kim-2016-hydrophilic-tapered-implant-6week-12week-loading]] |

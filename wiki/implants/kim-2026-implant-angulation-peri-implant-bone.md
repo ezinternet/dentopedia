@@ -67,4 +67,4 @@ This Kyung Hee University doctoral retrospective study asks whether implant angu
 - [[occlusion/di-fiore-2022-periimplant-bone-loss-overload-occlusal-analysis]] — contradicts/refines: occlusal-overload framing; this study supplies positive clinical evidence that off-axis geometry (not just overload magnitude) tracks MBL, where some overload analyses found weaker links.
 - [[implants/stilwell-2024-occlusal-considerations-implant-maintenance]] — reinforces: clinical occlusal-maintenance recommendations gain a quantitative MBL basis for controlling angulation and antagonist configuration.
 - [[overviews/implant-occlusion-loading-biomechanics-overview]] — relates: nonaxial loading / stress-concentration biomechanics node.
-- [[implants/mehta-2021-tilted-axial-implants-edentulous-maxilla-sr-ma]] — relates: tilted vs axial implant outcomes (full-arch context) vs this partial-edentulous single/multi-unit context.
+- [[implants/full-arch/mehta-2021-tilted-axial-implants-edentulous-maxilla-sr-ma]] — relates: tilted vs axial implant outcomes (full-arch context) vs this partial-edentulous single/multi-unit context.

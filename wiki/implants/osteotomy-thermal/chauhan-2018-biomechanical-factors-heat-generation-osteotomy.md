@@ -5,7 +5,7 @@ year: 2018
 date: 2018-01-01
 doi: 10.4103/ijdr.IJDR_119_17
 source: chauhan-2018-biomechanical-factors-heat-generation-osteotomy.md
-category: [implants]
+category: [implants/osteotomy-thermal]
 evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/chauhan-2018-biomechanical-factors-heat-generation-osteotomy.pdf
 pdf_filename: chauhan-2018-biomechanical-factors-heat-generation-osteotomy.pdf
@@ -57,10 +57,10 @@ Provides the canonical factor-list framework that subsequent SRs (chakraborty, s
 - 2015년 이전 문헌 기반 — osseodensification, 최신 piezo, guided surgery 연구는 미반영.
 
 ## Related Papers
-- [[implants/chakraborty-2024-implant-drill-materials-heat-osteotomy]] — drill 재질에 집중한 후속 SR
-- [[implants/saxena-2024-guided-implant-drilling-bone-temperature]] — guided drilling 발열 SR
-- [[implants/jain-2024-heat-generation-pain-piezosurgery-drilling]] — piezo vs 전통 drilling SR
-- [[implants/kosior-2025-histological-histomorphometric-implant-bed-preparation]] — bed prep 방법별 조직학적 차이 SR
-- [[implants/bento-2023-steel-versus-zirconia-drills-heat]] — Zr vs SS drill SR+MA
-- [[implants/jung-2021-heat-development-medical-drilling-influencing]] — medical drilling 발열 mini-review
-- [[implants/timon-2019-thermal-osteonecrosis-bone-drilling-orthopedic]] — orthopedic 관점 thermal osteonecrosis
+- [[implants/osteotomy-thermal/chakraborty-2024-implant-drill-materials-heat-osteotomy]] — drill 재질에 집중한 후속 SR
+- [[implants/osteotomy-thermal/saxena-2024-guided-implant-drilling-bone-temperature]] — guided drilling 발열 SR
+- [[implants/osteotomy-thermal/jain-2024-heat-generation-pain-piezosurgery-drilling]] — piezo vs 전통 drilling SR
+- [[implants/osteotomy-thermal/kosior-2025-histological-histomorphometric-implant-bed-preparation]] — bed prep 방법별 조직학적 차이 SR
+- [[implants/osteotomy-thermal/bento-2023-steel-versus-zirconia-drills-heat]] — Zr vs SS drill SR+MA
+- [[implants/osteotomy-thermal/jung-2021-heat-development-medical-drilling-influencing]] — medical drilling 발열 mini-review
+- [[implants/osteotomy-thermal/timon-2019-thermal-osteonecrosis-bone-drilling-orthopedic]] — orthopedic 관점 thermal osteonecrosis
