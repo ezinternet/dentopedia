@@ -5,7 +5,7 @@ year: 2014
 doi: 10.1111/jcpe.12220
 pmid: 24641003
 category: implants/soft-tissue
-source_collection: pubmed-text
+source_collection: pubmed-abstract
 full_text: false
 source_url: https://pubmed.ncbi.nlm.nih.gov/24641003/
 ---
