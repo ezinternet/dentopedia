@@ -38,6 +38,9 @@ source_papers:
   - drug/anticoagulants/elad-2026-general-dentists-anticoagulant-management-survey
   - drug/anticoagulants/radia-2026-patient-clinician-doac-knowledge-extractions
   - drug/anticoagulants/mohamed-rohani-2025-hematological-disorders-bleeding-tendency-dental
+  - drug/anticoagulants/madrid-2009-anticoagulants-oral-implant-therapy-sr
+  - drug/anticoagulants/chahine-2019-anticoagulation-dental-procedures-sr
+  - drug/anticoagulants/lee-2024-postop-bleeding-anticoagulants-dentoalveolar-cohort
   - drug/anticoagulants/dudek-2026-biphasic-calcium-sulfate-bleeding-anticoagulants
   - drug/anticoagulants/tang-2025-chitosan-antibacterial-hemostatic-sponge-extraction
 evidence_level: synthesis
