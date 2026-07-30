@@ -12,6 +12,9 @@ pdf_filename: park-2023-narrow-regular-diameter-mandibular-overdentures.pdf
 source_collection: external
 tags: [narrow-diameter-implant, mandibular-overdenture, patient-reported-outcomes, ohrqol]
 relations:
+  - type: extends
+    target: implants/short-narrow/schiegnitz-2018-narrow-diameter-implants-systematic-review
+    note: narrows Schiegnitz's general NDI-vs-SDI survival synthesis to the mandibular-overdenture indication and adds patient satisfaction/OHIP as a new outcome axis
   - type: reinforces
     target: pachiou-2025-narrow-diameter-implants-fixed-posterior
 ---
