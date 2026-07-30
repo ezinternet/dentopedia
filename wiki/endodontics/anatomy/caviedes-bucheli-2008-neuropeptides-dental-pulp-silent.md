@@ -22,13 +22,6 @@ tags:
   - pulp-necrosis
   - periapical-lesion
   - pain-pharmacology
-relations:
-  - type: extended_by
-    target: "[[orofacial-pain/caviedes-bucheli-2025-opioid-system-orthodontic-neurogenic]]"
-    note: "2025 IEJ paper by same group extends neuropeptide framework to opioid system in orthodontic pain"
-  - type: extended_by
-    target: "[[endodontics/anatomy/caviedes-bucheli-2026-neuropeptide-y-dental-pulp]]"
-    note: "2026 IEJ paper by same group provides focused NPY review — one of the neuropeptides covered here"
 ---
 
 ## Three-line Summary
