@@ -5,7 +5,7 @@ year: 2023
 doi: 10.1002/cap.10264
 pmid: 37551510
 category: implants/soft-tissue
-source_collection: pubmed-text
+source_collection: pubmed-abstract
 full_text: false
 source_url: https://pubmed.ncbi.nlm.nih.gov/37551510/
 ---
