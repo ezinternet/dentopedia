@@ -20,8 +20,9 @@ tags:
   - quality-of-life
   - rct
 relations:
-  - type: supports
+  - type: reinforces
     target: di-spirito-2022-endodontic-pain-management-overview
+    note: independent RCT confirming Di Spirito's corticosteroid-as-NSAID-adjunct claim
 ---
 
 ## Three-line Summary
