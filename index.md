@@ -3017,6 +3017,9 @@ tags: []
 ### Drug — analgesics / antiplatelet
 - [[drug/analgesics/franco-de-la-torre-2021-analgesic-efficacy-etoricoxib-following-third]] — Franco-de la Torre 2021 · sr+ma · etoricoxib 120 mg cut rescue-analgesia need vs NSAIDs (p=0.0004; vs ibuprofen 400 mg p=0.00001) after third molar surgery
 - [[drug/anticoagulants/patrono-2024-low-dose-aspirin-prevention-atherosclerotic]] — Patrono 2024 · narrative-review · low-dose aspirin (75–100 mg) irreversibly blocks platelet COX-1/TXA₂; RR 0.52, NNT 10 (secondary prevention) vs ↑GI bleeding
+- [[drug/anticoagulants/madrid-2009-anticoagulants-oral-implant-therapy-sr]] — Madrid 2009 · sr · OAT(INR 2–4) 환자 임플란트 수술 금기 아님; 비중단군 출혈 증가 없음; 국소 지혈 충분; INR↔출혈 상관 없음 (선행 기준 SR)
+- [[drug/anticoagulants/chahine-2019-anticoagulation-dental-procedures-sr]] — Chahine 2019 · sr(10편, n=1,331) · VKA·NOAC 유지가 대부분 치과 시술에서 출혈 증가 없음; 헤파린 브리징은 출혈↑; 유지+국소 지혈 권고
+- [[drug/anticoagulants/lee-2024-postop-bleeding-anticoagulants-dentoalveolar-cohort]] — Lee 2024 · retrospective(n=537, Yonsei) · 전체 6.5% 출혈; 심방세동 OR 6.05·VKI OR 3.68 최고 위험; 발치+골이식·다수 임플란트·상악 독립 술식 위험인자
 - [[drug/analgesics/abusamak-2025-perioperative-anti-inflammatory-periodontal-surgery-sr-ma]] — SR+MA (JDR Clin Trans Res 2025, PMC OA): NSAIDs vs corticosteroids perioperative analgesia after periodontal surgery — pain VAS, swelling, trismus
 - [[drug/analgesics/buesing-2019-vitamin-b12-pain-nerve-regeneration-review]] — Buesing 2019 · narrative-review · 비타민B12(메코발라민·시아노코발라민·히드록소코발라민) 신경통·신경재생 기전 및 임상: 동물실험 복수 메커니즘, 요통 IM 1000µg/d×2주 → 통증 −87%; 최적 용량 미확립 (Pain Physician)
 - [[drug/analgesics/han-2010-dexamethasone-trigeminal-neuropathic-pain-animal]] — Han et al. 2010 · animal · 악교정 임플란트 rat IAN 손상 모델: 조기 dexamethasone(25·50 mg/kg i.p.) → 기계적 이질통 예방; 이미 확립된 통증에는 무효 → 조기 투여 시기가 결정적 (J Dent Res)
@@ -3641,6 +3644,7 @@ tags: []
 - [[implants/seijas-naya-2025-concave-straight-abutment-bone-rct]] — 24-month RCT: concave abutments reduce MBL in surgical healing phase (−0.18 vs −0.54 mm, p=0.002); height mitigates bone loss in concave group but worsens it in straight group (interaction p<0.01) (2025)
 - [[implants/full-arch/szabo-2022-all-on-four-tilted-distal-implants-mbl]] — Retrospective (n=36, 288 All-on-Four implants, 3.5yr): 100% survival; tilted>axial MBL at all time points; 3.5yr maxilla 0.770 mm, mandible 0.713 mm; 14DA/24DA highest-risk positions; smoking amplifies per-position loss (Szabó 2022)
 - [[implants/short-narrow/coskunses-2021-narrow-diameter-implants-full-arch-fixed]] — Prospective (n=28, 37 jaws, 179 Roxolid BLT, NDI 3.3mm+standard, 2yr): CSR 99.4%, NDI 98.5%; 6-implant MBL lower than 4-implant (0.35 vs 0.63mm, P=0.006); NDI 2yr MBL 1.02mm>standard 0.44mm (P=0.035) (Coskunses 2021)
+- [[implants/short-narrow/anitua-2019-short-65mm-implants-fixed-prostheses-premolar-molar]] — Anitua 2019 · retrospective(n=16, 48임플란트) · 6.5mm 단축 즉시부하 100% 생존; 단축-단축 스플린팅 0.37mm < 단축-장 0.94mm 변연골소실(p<0.05)
 - [[implants/full-arch/eskan-2020-tapered-implants-full-arch-immediate-function]] — Retrospective (n=42, 171 BLT, 55mo): survival 97.7%; 2yr MBL 0.15mm — among lowest reported; tilted=axial MBL; NDI Ti-Zr 0 fractures at 55mo; all provisional fractures in bruxers not using night guard (Eskan 2020)
 - [[implants/full-arch/cabbarova-2026-all-on-four-six-framework-fea]] — FEA (12 models, All-on-4 vs All-on-6, 6 framework materials, 150N): All-on-6 reduces stress 80–87% vs All-on-4; PEEK/PEKK highest bone stress (low E → more load transfer); Ti/Zr best distribution; FRC (Trilor/Trinia) intermediate acceptable (Cabbarova 2026)
 - [[dental-materials/zirconia/talmazov-2020-fea-one-piece-zirconia-implant-anterior]] — FEA: one-piece zirconia vs Ti implant anterior maxilla (3 CBCT models); zirconia lower labial-cervical bone stress in healed/reduced-bone scenarios (Talmazov 2020)
@@ -3745,6 +3749,8 @@ tags: []
 - [[bone-regeneration/elgali-2017-guided-bone-regeneration-materials-mechanisms]] — Elgali 2017 · narrative-review · GBR 차폐막 재료·기전 — 막을 수동적 장벽이 아닌 능동적 생물학적 구획으로 재조명
 - [[bone-regeneration/sun-2025-3d-printed-scaffold-bone-defect-repair]] — Sun 2025 · narrative-review · 3D프린팅 스캐폴드 재료(금속/고분자/생체세라믹)·기공-역학 트레이드오프·바이오프린팅 기법 — 치과 특이적이 아닌 골결손 전반
 - [[bone-regeneration/tale-2026-simvastatin-guided-bone-regeneration-sr]] — Tale 2026 · sr(5편: 인체 임상 3 + 동물 2, 메타분석 불가) · GBR/임플란트 재생술식 보조제로서 국소 심바스타틴 — 치조정골소실 감소(P<0.0001)·골폭/골밀도 증가·BIC 상승, ISQ 개선은 비일관 [PMC full text]
+- [[bone-regeneration/chappuis-2018-contour-augmentation-gbr-10year-results]] — Chappuis 2018 · prospective(n=20, 10년) · 심미부 조기식립+GBR(2층 복합이식): 성공률 95%, 협측골벽 0→1.67mm, 변연골소실 0.35mm(1~10년), PES 8 — 10년 장기 안정성 확립
+- [[bone-regeneration/cha-2024-gbr-dehiscence-synthetic-vs-bovine-rct]] — Cha 2024 · RCT 비열등(n=49) · 합성골(이상성 인산칼슘)=DBBM 탈피결손 GBR 비열등; 결손고 감소 74.5% vs 63.4%, p=0.216; 1년 변연골 안정
 
 ## Batch ingest (added 2026-07-12) — implant umbrella reviews surveillance (26편)
 
@@ -3807,6 +3813,8 @@ tags: []
 - [[implants/survival/oliveira-neto-2018-risk-bias-systematic-reviews-smokers]] — Umbrella SR(J Prosthet Dent 2018, ROBIS 적용 6편 SR+MA): 흡연자 임플란트 관련 메타분석 중 1/6만 낮은 비뚤림 위험, 5/6은 불확실/높은 위험 [sr, abstract-only]
 - [[implants/survival/meza-mauricio-2019-diabetes-implant-failure-peri-implant]] — 당뇨(DM)-임플란트 우산리뷰(SR 12편, AMSTAR2): 실패율 메타분석 3편 모두 DM 대 비DM 유의차 없음, 임플란트주위염 위험은 증가 경향 [sr, abstract-only]
 - [[implants/banerjee-2024-success-rate-dental-implants-smokers]] — Umbrella review(Cureus 2024, PROSPERO, SR 17편/MA 10편): AMSTAR2 high quality 1/17뿐이나 15/17이 흡연→실패/MBL 유의 연관 보고, 용량-반응 확인(≥10개비/일) [sr+ma]
+- [[implants/zhou-2016-early-loading-splinted-implants-posterior-mandible-1year]] — Zhou 2016 · prospective multicenter(n=45, 107임플란트) · 하악 구치부 스플린팅 조기부하 12개월 100% 생존, MBL +0.08mm 골증가
+- [[implants/liu-2019-early-loading-splinted-implants-posterior-mandible-3year]] — Liu 2019 · prospective multicenter(n=40, 92임플란트, 3년) · 조기부하 스플린팅 하악 구치부 100% 생존, MBL +0.23mm 골증가(p=0.00061)
 - [[implants/survival/barros-2021-sjogrens-syndrome-dental-implants]] — Sjögren 임플란트 우산리뷰(SR 4편/722 implants/189명): 성공률 95.22%이나 AMSTAR-2 3편 critically-low·1편 low quality [sr+ma, abstract-only]
 - [[implants/loading-protocol/heiderich-2020-methodological-quality-loading-time-implants]] — 다중 임플란트 로딩시기 SR 21편 방법론적 질·비뚤림위험 umbrella review(AMSTAR/ROBIS): 8편 high risk of bias, low-risk 12편만 봐도 로딩시기 간 유의차 없음 [sr]
 - [[implants/survival/zarzar-2023-implants-radiotherapy-head-neck]] — Umbrella review(SR 15편, 임플란트 24,996개): 방사선치료군 성공률 86.2% vs 비치료군 95.2%, AMSTAR2 high quality 1/15편 (partially superseded by pacheco-2025) [sr]
@@ -3827,6 +3835,8 @@ tags: []
 
 ### complete-denture
 - [[complete-denture/sharka-2019-ohrqol-dentures-implant-overdentures]] — Umbrella SR(JBI, 8편: SR 6/SR+MA 1/MA 1, SIGN 1+~1-): 임플란트유지 오버덴처(IROD)가 통상총의치(CCD) 대비 OHRQoL·만족도 우위 [sr, abstract-only]
+- [[complete-denture/jofre-2010-splinting-mini-implants-marginal-bone-loss-rct]] — Jofre 2010 · RCT+FEA(n=45, 24개월) · 미니임플란트 바 스플린팅 0.92mm < 볼(비스플린팅) 1.43mm 변연골소실; FEA 골응력 52% 감소 확인
+- [[complete-denture/slot-2022-maxillary-bar-overdentures-four-six-implants-10year]] — Slot 2022 · RCT(n=46, 10년) · 상악 바 오버덴처 4임플란트=6임플란트 생존·MBL·만족도 동등; 골증대 상악에서 4임플란트로 충분
 
 ## Batch ingest (added 2026-07-12) — 즉시식립(IIP) 타이밍 개별 SR/MA 4편 (umbrella review 부재 확인 후 개별 SR/MA로 선회, PMC 풀텍스트 없어 PubMed 초록 기반)
 
