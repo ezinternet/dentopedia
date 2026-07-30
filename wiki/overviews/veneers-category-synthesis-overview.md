@@ -24,6 +24,9 @@ relations:
       - veneers/beuer-2025-ceramic-pcr-laminate-veneer-consensus
       - veneers/komine-2024-clinical-performance-laminate-veneers-review
       - veneers/chandode-2026-no-preparation-conventional-veneers-clinical-considerations
+      - veneers/gresnigt-2019-ceramic-laminate-veneers-ids-11year
+      - veneers/etienne-2025-ceramic-veneers-dentin-vitality-15year
+      - veneers/beier-2012-porcelain-veneers-nonvital-bruxism-20year
 ---
 
 ## 한국어 핵심요약
@@ -40,6 +43,7 @@ relations:
 > - **접착 강도 위계**: LDS 25.4 MPa > 투명 지르코니아(Translucent Zirconia, TZ) 12.1 MPa; 법랑질 기질 21.1 MPa > 복합레진 코어 11.3 MPa(Hajeer 2026 SR+MA, in-vitro, I²=98%). LDS는 HF 에칭+실란화, 지르코니아는 실리카 네트워크 없어 MDP 프라이머 의존.
 > - **파노라마 설계 방법론 진화**: 아날로그 APT(Gürel 2007) → 색 수식(Coachman 2014) → 디지털 3D-DSP·CAD-CAM PMMA 목업(Cattoni 2016) → 모두 동일한 "설계 후 삭제" 원칙.
 > - **근거 한계**: 최장 추적 SR+MA도 비교 대상이 heterogeneous(기기·술자·프로토콜), 지르코니아 장기(≥5년) 임상 데이터 없음, 교합면 비니어 RCT는 소표본(n=11).
+> - **근관치료 치아(Endodontically Treated Tooth, ETT) 라미네이트**: 현대 접착 프로토콜(IDS 등)에서는 ETT와 생활치 간 생존율 유의차 없음 — Gresnigt 2019 전향적 11년(88.1% vs 95.6%, NS) · Etienne 2025 후향적 15년(95% vs 96%, p=0.289, OR=1.68). 단, 구세대 장석계(1987–2009)로 진행한 Beier 2012(20년)에서는 ETT 유의한 실패 위험(p=0.0012) — 프로토콜 진보 전·후의 해석 분기점. 임상 핵심: ETT 금기가 아니나 ① 내부 표백으로 색조 선제 관리 ② 에나멜 보존 확인 ③ OR=1.68 감안해 신중한 증례 선택 필수.
 
 ## Three-line Summary
 
@@ -184,6 +188,7 @@ The evidence is consistent: enamel-bonded veneers outperform dentin-bonded venee
 - Preparation will require ≥50% dentin exposure at margins
 - Severe structural compromise requiring axial wall coverage
 - Posterior molar (especially ≥2nd molar) in heavy parafunction
+- ETT with severe discoloration that cannot be managed with internal bleaching + high-opacity cement
 
 When in doubt: Beuer 2025 consensus (SSRD/SEPES/PROSEC) recommends a "minimality hierarchy" — no prep > butt-joint incisal > palatal chamfer > conventional veneer prep > partial crown > full crown.
 
@@ -225,3 +230,6 @@ When in doubt: Beuer 2025 consensus (SSRD/SEPES/PROSEC) recommends a "minimality
 | Consensus: feldspathic / LRGC / LDS all recommended | [[veneers/beuer-2025-ceramic-pcr-laminate-veneer-consensus]] |
 | Composite veneer survival 88% (direct 91% > indirect 84%) | [[veneers/lim-2023-resin-composite-laminate-veneer-survival-sr-ma]] |
 | 12-yr enamel-confined feldspathic case: no failures | [[veneers/reis-2025-minimally-invasive-feldspathic-laminate-12year-followup]] |
+| ETT vs vital: 88.1% vs 95.6% (NS); IDS >50% dentin: 96.4% vs 81.8% (sig.) | [[veneers/gresnigt-2019-ceramic-laminate-veneers-ids-11year]] |
+| ETT OR=1.68 (NS, p=0.289); dentin >30% OR=4.67 (sig., p=0.033) | [[veneers/etienne-2025-ceramic-veneers-dentin-vitality-15year]] |
+| ETT significantly higher failure (p=0.0012); bruxism 7.7× risk (p=0.0004) | [[veneers/beier-2012-porcelain-veneers-nonvital-bruxism-20year]] |
