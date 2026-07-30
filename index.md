@@ -3754,6 +3754,7 @@ tags: []
 - [[bone-regeneration/tale-2026-simvastatin-guided-bone-regeneration-sr]] — Tale 2026 · sr(5편: 인체 임상 3 + 동물 2, 메타분석 불가) · GBR/임플란트 재생술식 보조제로서 국소 심바스타틴 — 치조정골소실 감소(P<0.0001)·골폭/골밀도 증가·BIC 상승, ISQ 개선은 비일관 [PMC full text]
 - [[bone-regeneration/chappuis-2018-contour-augmentation-gbr-10year-results]] — Chappuis 2018 · prospective(n=20, 10년) · 심미부 조기식립+GBR(2층 복합이식): 성공률 95%, 협측골벽 0→1.67mm, 변연골소실 0.35mm(1~10년), PES 8 — 10년 장기 안정성 확립
 - [[bone-regeneration/cha-2024-gbr-dehiscence-synthetic-vs-bovine-rct]] — Cha 2024 · RCT 비열등(n=49) · 합성골(이상성 인산칼슘)=DBBM 탈피결손 GBR 비열등; 결손고 감소 74.5% vs 63.4%, p=0.216; 1년 변연골 안정
+- [[bone-regeneration/nemcovsky-2002-buccal-dehiscence-immediate-delayed-late-maxillary-implant]] — Nemcovsky 2002 · 대조군 임상시험(n=66명, 임플란트 102개) · 즉시·지연·후기 상악 식립 시 협측 이개열 치유 비교 — **지연식립이 최우수**(결손높이감소 88.8% vs 즉시77.4%/후기75.2%); 막노출·다중임플란트 동시식립은 독립적으로 치유 악화
 
 ## Batch ingest (added 2026-07-12) — implant umbrella reviews surveillance (26편)
 
