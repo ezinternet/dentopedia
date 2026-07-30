@@ -1,0 +1,925 @@
+<!--
+---
+title: "임플란트 로딩 결정 트리 — 완전 가이드 수술 + Ko 2021"
+type: interactive
+date: 2026-07-30
+category: implants/loading-protocol
+source_wiki:
+  - wiki/implants/loading-protocol/ko-2021-immediate-loading-protocols-increase-risk.md
+  - wiki/implants/loading-protocol/gallucci-2018-implant-placement-loading-protocols-partially.md
+  - wiki/implants/loading-protocol/esposito-2013-loading-times-dental-implants-cochrane.md
+  - wiki/implants/loading-protocol/kern-2018-single-implants-edentulous-mandible-immediate.md
+  - wiki/overviews/implant-loading-protocol-prosthesis-type-overview.md
+tags: [immediate-loading, delayed-loading, decision-tree, fully-guided-surgery, ISQ, insertion-torque, Ko-2021]
+---
+-->
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>임플란트 로딩 결정 트리</title>
+<style>
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --bg:            #EFF1F5;
+  --surface:       #FFFFFF;
+  --surface-2:     #F4F6FA;
+  --ink:           #0D2137;
+  --ink-2:         #4A5C70;
+  --ink-3:         #8098B0;
+  --border:        #D2D8E2;
+  --border-2:      #BCC6D4;
+  --accent:        #1A6BB8;
+  --accent-2:      #E6F0FB;
+  --accent-hover:  #1558A0;
+  --ok:            #186B4A;
+  --ok-bg:         #EAF7F2;
+  --ok-border:     #5BB891;
+  --caution:       #A86310;
+  --caution-bg:    #FEF4E6;
+  --caution-border:#D4961E;
+  --warn:          #A82820;
+  --warn-bg:       #FDECEA;
+  --warn-border:   #D95E55;
+  --norec:         #7A4818;
+  --norec-bg:      #FDF2E8;
+  --norec-border:  #C97D3A;
+  --radius:        10px;
+  --radius-sm:     6px;
+  --shadow:        0 1px 4px rgba(13,33,55,0.07), 0 0 0 1px rgba(13,33,55,0.05);
+  --shadow-sel:    0 2px 8px rgba(26,107,184,0.15), 0 0 0 2px var(--accent);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg:            #0B1826;
+    --surface:       #132240;
+    --surface-2:     #1A2E4A;
+    --ink:           #D5E5F8;
+    --ink-2:         #7EA8CC;
+    --ink-3:         #4A6A88;
+    --border:        #243C58;
+    --border-2:      #2D4C6A;
+    --accent:        #3A90E8;
+    --accent-2:      #112038;
+    --accent-hover:  #5AABFF;
+    --ok:            #3DC486;
+    --ok-bg:         #0C2820;
+    --ok-border:     #267A52;
+    --caution:       #F0A83A;
+    --caution-bg:    #281A06;
+    --caution-border:#A87020;
+    --warn:          #F06060;
+    --warn-bg:       #2C0C0A;
+    --warn-border:   #A03028;
+    --norec:         #E0944A;
+    --norec-bg:      #251608;
+    --norec-border:  #9A5E20;
+  }
+}
+:root[data-theme="dark"] {
+  --bg:#0B1826;--surface:#132240;--surface-2:#1A2E4A;--ink:#D5E5F8;--ink-2:#7EA8CC;--ink-3:#4A6A88;
+  --border:#243C58;--border-2:#2D4C6A;--accent:#3A90E8;--accent-2:#112038;--accent-hover:#5AABFF;
+  --ok:#3DC486;--ok-bg:#0C2820;--ok-border:#267A52;
+  --caution:#F0A83A;--caution-bg:#281A06;--caution-border:#A87020;
+  --warn:#F06060;--warn-bg:#2C0C0A;--warn-border:#A03028;
+  --norec:#E0944A;--norec-bg:#251608;--norec-border:#9A5E20;
+}
+:root[data-theme="light"] {
+  --bg:#EFF1F5;--surface:#FFFFFF;--surface-2:#F4F6FA;--ink:#0D2137;--ink-2:#4A5C70;--ink-3:#8098B0;
+  --border:#D2D8E2;--border-2:#BCC6D4;--accent:#1A6BB8;--accent-2:#E6F0FB;--accent-hover:#1558A0;
+  --ok:#186B4A;--ok-bg:#EAF7F2;--ok-border:#5BB891;
+  --caution:#A86310;--caution-bg:#FEF4E6;--caution-border:#D4961E;
+  --warn:#A82820;--warn-bg:#FDECEA;--warn-border:#D95E55;
+  --norec:#7A4818;--norec-bg:#FDF2E8;--norec-border:#C97D3A;
+}
+
+body {
+  background: var(--bg);
+  color: var(--ink);
+  font-family: -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", system-ui, sans-serif;
+  min-height: 100vh;
+  padding: 24px 16px 48px;
+  line-height: 1.55;
+  font-size: 15px;
+}
+
+.wrap {
+  max-width: 680px;
+  margin: 0 auto;
+}
+
+/* ── Header ───────────────────────────────── */
+.header {
+  margin-bottom: 28px;
+}
+.header-eyebrow {
+  font-size: 11px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--ink-3);
+  font-weight: 600;
+  margin-bottom: 6px;
+}
+.header h1 {
+  font-size: 1.45rem;
+  font-weight: 700;
+  color: var(--ink);
+  line-height: 1.25;
+  text-wrap: balance;
+  margin-bottom: 8px;
+}
+.header-sub {
+  font-size: 0.85rem;
+  color: var(--ink-2);
+  line-height: 1.5;
+}
+.header-sub strong { color: var(--warn); font-weight: 600; }
+
+/* ── Progress ─────────────────────────────── */
+.progress {
+  display: flex;
+  align-items: center;
+  gap: 0;
+  margin-bottom: 28px;
+}
+.prog-step {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex: 1;
+}
+.prog-step:last-child { flex: 0; }
+.prog-dot {
+  width: 30px; height: 30px;
+  border-radius: 50%;
+  display: flex; align-items: center; justify-content: center;
+  font-size: 12px; font-weight: 700;
+  flex-shrink: 0;
+  transition: background 0.25s, border-color 0.25s, color 0.25s;
+  border: 2px solid var(--border-2);
+  background: var(--surface);
+  color: var(--ink-3);
+  position: relative;
+}
+.prog-dot.active {
+  border-color: var(--accent);
+  background: var(--accent);
+  color: #fff;
+  box-shadow: 0 0 0 4px var(--accent-2);
+}
+.prog-dot.done {
+  border-color: var(--ok-border);
+  background: var(--ok-bg);
+  color: var(--ok);
+}
+.prog-dot.done::after {
+  content: '';
+  position: absolute;
+  width: 10px; height: 6px;
+  border-left: 2px solid var(--ok);
+  border-bottom: 2px solid var(--ok);
+  transform: rotate(-45deg) translate(0px, -1px);
+}
+.prog-line {
+  flex: 1;
+  height: 2px;
+  background: var(--border);
+  margin: 0 4px;
+  transition: background 0.3s;
+}
+.prog-line.done { background: var(--ok-border); }
+.prog-label {
+  font-size: 11px;
+  color: var(--ink-3);
+  margin-top: 5px;
+  text-align: center;
+  min-width: 60px;
+}
+
+/* ── Step container ───────────────────────── */
+.step { display: none; animation: fadeIn 0.22s ease; }
+.step.active { display: block; }
+@keyframes fadeIn { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+
+.step-q {
+  font-size: 1.15rem;
+  font-weight: 700;
+  color: var(--ink);
+  margin-bottom: 18px;
+  line-height: 1.35;
+  text-wrap: balance;
+}
+.step-hint {
+  font-size: 0.82rem;
+  color: var(--ink-2);
+  margin-top: -12px;
+  margin-bottom: 18px;
+  line-height: 1.5;
+}
+
+/* ── Option cards ─────────────────────────── */
+.opts {
+  display: grid;
+  gap: 10px;
+}
+.opts.cols-2 { grid-template-columns: 1fr 1fr; }
+
+.opt {
+  background: var(--surface);
+  border: 1.5px solid var(--border);
+  border-radius: var(--radius);
+  padding: 14px 16px;
+  cursor: pointer;
+  transition: border-color 0.15s, background 0.15s, box-shadow 0.15s;
+  box-shadow: var(--shadow);
+  position: relative;
+}
+.opt:hover {
+  border-color: var(--accent);
+  background: var(--accent-2);
+  box-shadow: 0 2px 8px rgba(26,107,184,0.1);
+}
+.opt.selected {
+  border-color: var(--accent);
+  background: var(--accent-2);
+  box-shadow: var(--shadow-sel);
+}
+.opt.selected::after {
+  content: '✓';
+  position: absolute;
+  top: 10px; right: 12px;
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--accent);
+}
+.opt-icon {
+  font-size: 1.4rem;
+  margin-bottom: 6px;
+  display: block;
+  line-height: 1;
+}
+.opt-label {
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: var(--ink);
+  display: block;
+  margin-bottom: 2px;
+}
+.opt-sub {
+  font-size: 0.76rem;
+  color: var(--ink-2);
+  line-height: 1.4;
+}
+
+/* Surgical option inline warning */
+.opt.guided-warn { border-color: var(--caution-border); }
+.opt.guided-warn:hover { background: var(--caution-bg); }
+.opt.guided-warn .inline-warn {
+  display: flex;
+  align-items: flex-start;
+  gap: 6px;
+  margin-top: 8px;
+  padding: 7px 9px;
+  background: var(--caution-bg);
+  border: 1px solid var(--caution-border);
+  border-radius: 6px;
+  font-size: 0.74rem;
+  color: var(--caution);
+  line-height: 1.4;
+}
+.opt.guided-warn .inline-warn .ic { font-size: 1rem; flex-shrink: 0; margin-top: 1px; }
+
+/* ── Stability inputs ─────────────────────── */
+.stab-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 14px;
+  margin-bottom: 18px;
+}
+.stab-card {
+  background: var(--surface);
+  border: 1.5px solid var(--border);
+  border-radius: var(--radius);
+  padding: 14px 16px;
+  box-shadow: var(--shadow);
+}
+.stab-label {
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: var(--ink-2);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  margin-bottom: 6px;
+}
+.stab-full {
+  font-size: 0.72rem;
+  color: var(--ink-3);
+  margin-bottom: 10px;
+  line-height: 1.35;
+}
+.stab-val {
+  font-size: 2.4rem;
+  font-weight: 700;
+  color: var(--ink);
+  font-variant-numeric: tabular-nums;
+  line-height: 1;
+  margin-bottom: 2px;
+}
+.stab-unit {
+  font-size: 0.78rem;
+  color: var(--ink-3);
+  margin-bottom: 10px;
+}
+.stab-card input[type=range] {
+  width: 100%;
+  accent-color: var(--accent);
+  cursor: pointer;
+}
+.stab-thresholds {
+  display: flex;
+  gap: 5px;
+  flex-wrap: wrap;
+  margin-top: 8px;
+}
+.thr {
+  font-size: 0.7rem;
+  padding: 2px 7px;
+  border-radius: 4px;
+  background: var(--surface-2);
+  border: 1px solid var(--border);
+  color: var(--ink-3);
+}
+.thr.warn { background: var(--warn-bg); border-color: var(--warn-border); color: var(--warn); }
+.thr.caut { background: var(--caution-bg); border-color: var(--caution-border); color: var(--caution); }
+.thr.ok   { background: var(--ok-bg);   border-color: var(--ok-border);   color: var(--ok); }
+
+.isq-toggle {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 10px;
+  font-size: 0.82rem;
+  color: var(--ink-2);
+  cursor: pointer;
+}
+.isq-toggle input { width: 14px; height: 14px; accent-color: var(--accent); cursor: pointer; }
+
+/* ── Buttons ──────────────────────────────── */
+.btn-row {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  margin-top: 18px;
+}
+.btn {
+  padding: 11px 22px;
+  border: none;
+  border-radius: var(--radius-sm);
+  font-size: 0.92rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.15s, opacity 0.15s;
+  font-family: inherit;
+}
+.btn-primary {
+  background: var(--accent);
+  color: #fff;
+}
+.btn-primary:hover { background: var(--accent-hover); }
+.btn-secondary {
+  background: var(--surface);
+  color: var(--ink-2);
+  border: 1.5px solid var(--border);
+}
+.btn-secondary:hover { border-color: var(--border-2); color: var(--ink); }
+
+/* ── Verdict ──────────────────────────────── */
+.verdict {
+  background: var(--surface);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  overflow: hidden;
+  margin-bottom: 16px;
+}
+.verdict-rail {
+  height: 5px;
+}
+.verdict-rail.ok     { background: var(--ok-border); }
+.verdict-rail.caution{ background: var(--caution-border); }
+.verdict-rail.norec  { background: var(--norec-border); }
+.verdict-rail.contra { background: var(--warn-border); }
+
+.verdict-body { padding: 18px 20px; }
+.verdict-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  padding: 3px 10px;
+  border-radius: 4px;
+  margin-bottom: 10px;
+}
+.verdict-badge.ok     { background: var(--ok-bg);      color: var(--ok);     border: 1px solid var(--ok-border); }
+.verdict-badge.caution{ background: var(--caution-bg); color: var(--caution);border: 1px solid var(--caution-border); }
+.verdict-badge.norec  { background: var(--norec-bg);   color: var(--norec);  border: 1px solid var(--norec-border); }
+.verdict-badge.contra { background: var(--warn-bg);    color: var(--warn);   border: 1px solid var(--warn-border); }
+
+.verdict-title {
+  font-size: 1.35rem;
+  font-weight: 700;
+  color: var(--ink);
+  margin-bottom: 10px;
+  line-height: 1.25;
+  text-wrap: balance;
+}
+.verdict-reason {
+  font-size: 0.87rem;
+  color: var(--ink-2);
+  margin-bottom: 12px;
+  line-height: 1.6;
+}
+.verdict-rec {
+  font-size: 0.87rem;
+  font-weight: 600;
+  color: var(--ink);
+  margin-bottom: 14px;
+  padding: 10px 12px;
+  background: var(--surface-2);
+  border-radius: var(--radius-sm);
+  border-left: 3px solid var(--border-2);
+  line-height: 1.5;
+}
+
+/* Evidence pills */
+.evid-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+.evid-pill {
+  font-size: 0.72rem;
+  padding: 3px 9px;
+  border-radius: 4px;
+  background: var(--accent-2);
+  color: var(--accent);
+  border: 1px solid var(--border);
+  font-weight: 500;
+}
+
+/* Path summary */
+.path-summary {
+  background: var(--surface-2);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  padding: 12px 14px;
+  margin-bottom: 12px;
+  font-size: 0.8rem;
+  color: var(--ink-2);
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px 14px;
+}
+.path-item strong { color: var(--ink); font-weight: 600; }
+.path-sep { color: var(--border-2); user-select: none; }
+
+/* Reset link */
+.reset-row { text-align: center; margin-top: 10px; }
+.reset-btn {
+  background: none;
+  border: none;
+  font-size: 0.82rem;
+  color: var(--ink-3);
+  cursor: pointer;
+  text-decoration: underline;
+  font-family: inherit;
+  padding: 4px;
+}
+.reset-btn:hover { color: var(--ink-2); }
+
+/* ── Footer ───────────────────────────────── */
+.footer {
+  font-size: 0.72rem;
+  color: var(--ink-3);
+  text-align: center;
+  margin-top: 20px;
+  line-height: 1.6;
+}
+
+/* ── Responsive ───────────────────────────── */
+@media (max-width: 480px) {
+  .opts.cols-2 { grid-template-columns: 1fr; }
+  .stab-grid { grid-template-columns: 1fr; }
+  .prog-label { display: none; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .step { animation: none; }
+  * { transition-duration: 0.01ms !important; }
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <!-- Header -->
+  <div class="header">
+    <div class="header-eyebrow">임플란트 로딩 결정 트리</div>
+    <h1>즉시로딩 vs 지연로딩 — 수술 방식별 판정</h1>
+    <p class="header-sub">
+      보철 구성 → 수술 방식 → 1차 안정성 순서로 입력하면 로딩 프로토콜 권고를 산출합니다.
+      <strong>완전 가이드 수술 케이스는 Ko 2021 RCT 데이터가 적용됩니다.</strong>
+      최종 결정은 술자 판단.
+    </p>
+  </div>
+
+  <!-- Progress indicator -->
+  <div class="progress" id="prog">
+    <div>
+      <div class="prog-dot active" id="pd1">1</div>
+      <div class="prog-label">보철</div>
+    </div>
+    <div class="prog-line" id="pl1"></div>
+    <div>
+      <div class="prog-dot" id="pd2">2</div>
+      <div class="prog-label">수술</div>
+    </div>
+    <div class="prog-line" id="pl2"></div>
+    <div>
+      <div class="prog-dot" id="pd3">3</div>
+      <div class="prog-label">안정성</div>
+    </div>
+    <div class="prog-line" id="pl3"></div>
+    <div>
+      <div class="prog-dot" id="pd4">4</div>
+      <div class="prog-label">판정</div>
+    </div>
+  </div>
+
+  <!-- Step 1: Prosthesis type -->
+  <div class="step active" id="step1">
+    <p class="step-q">보철 구성을 선택하세요</p>
+    <p class="step-hint">최종 보철물이 임플란트에 가하는 하중 분산 방식을 결정합니다.</p>
+    <div class="opts cols-2">
+      <div class="opt" onclick="selectProsthesis('single-crown', this)">
+        <span class="opt-icon">👑</span>
+        <span class="opt-label">단일 임플란트 크라운</span>
+        <span class="opt-sub">단독 임플란트 지지 단관 보철</span>
+      </div>
+      <div class="opt" onclick="selectProsthesis('multi-fdp', this)">
+        <span class="opt-icon">🔗</span>
+        <span class="opt-label">다수 임플란트 고정성 국소의치</span>
+        <span class="opt-sub">2개 이상 연결·스플린팅 FDP</span>
+      </div>
+      <div class="opt" onclick="selectProsthesis('single-od', this)">
+        <span class="opt-icon">⚠️</span>
+        <span class="opt-label">단일 임플란트 오버덴처</span>
+        <span class="opt-sub">1개 임플란트 지지 탈착식 의치 (하악 정중 등)</span>
+      </div>
+      <div class="opt" onclick="selectProsthesis('multi-arch', this)">
+        <span class="opt-icon">🦷</span>
+        <span class="opt-label">다수 임플란트 오버덴처 / Full-arch</span>
+        <span class="opt-sub">2개 이상 지지 탈착식 또는 전악 고정성</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- Step 2: Surgical approach -->
+  <div class="step" id="step2">
+    <p class="step-q">수술 방식을 선택하세요</p>
+    <p class="step-hint">정적 가이드(static surgical guide)를 사용한 완전 가이드 수술 여부가 로딩 위험을 크게 바꿉니다.</p>
+    <div class="opts">
+      <div class="opt guided-warn" onclick="selectSurgical('guided', this)">
+        <span class="opt-icon">📐</span>
+        <span class="opt-label">완전 가이드 수술 (Fully Guided Surgery)</span>
+        <span class="opt-sub">정적 가이드가 드릴 전 단계·식립까지 모두 유도 (static surgical guide, guide-to-implant contact)</span>
+        <div class="inline-warn">
+          <span class="ic">⚠️</span>
+          <span><strong>Ko 2021 RCT 경고</strong> — IT &gt;20 Ncm + ISQ &gt;65 충족에도 즉시로딩 임플란트 생존율 83.4% vs 지연로딩 100% (p&lt;0.01, n=72)</span>
+        </div>
+      </div>
+      <div class="opt" onclick="selectSurgical('partial', this)">
+        <span class="opt-icon">🔧</span>
+        <span class="opt-label">부분 가이드 / 프리핸드</span>
+        <span class="opt-sub">가이드 없이 또는 파일럿 드릴만 유도 — 표준 로딩 기준 적용</span>
+      </div>
+    </div>
+    <div class="btn-row">
+      <button class="btn btn-secondary" onclick="goStep(1)">← 뒤로</button>
+    </div>
+  </div>
+
+  <!-- Step 3: Primary stability -->
+  <div class="step" id="step3">
+    <p class="step-q">식립 시 1차 안정성 측정값을 입력하세요</p>
+    <p class="step-hint">삽입 토크(Insertion Torque, IT)는 필수 입력. 임플란트 안정성 지수(Implant Stability Quotient, ISQ)는 측정한 경우만.</p>
+
+    <div class="stab-grid">
+      <!-- IT card -->
+      <div class="stab-card">
+        <div class="stab-label">삽입 토크</div>
+        <div class="stab-full">Insertion Torque (IT)</div>
+        <div class="stab-val" id="itVal">35</div>
+        <div class="stab-unit">Ncm</div>
+        <input type="range" min="0" max="70" value="35" step="1" id="itSlider" oninput="updateIT(this.value)">
+        <div class="stab-thresholds">
+          <span class="thr warn">&lt;20 금기</span>
+          <span class="thr caut">20–34 경계</span>
+          <span class="thr ok">≥35 표준</span>
+        </div>
+      </div>
+      <!-- ISQ card -->
+      <div class="stab-card">
+        <div class="stab-label">ISQ (선택)</div>
+        <div class="stab-full">Implant Stability Quotient</div>
+        <label class="isq-toggle">
+          <input type="checkbox" id="isqCheck" onchange="toggleISQ(this.checked)" checked>
+          <span>ISQ 측정됨</span>
+        </label>
+        <div id="isqInputArea">
+          <div class="stab-val" id="isqVal">70</div>
+          <div class="stab-unit">/ 100</div>
+          <input type="range" min="40" max="100" value="70" step="1" id="isqSlider" oninput="updateISQ(this.value)">
+          <div class="stab-thresholds">
+            <span class="thr warn">&lt;65 금기</span>
+            <span class="thr caut">65–69 경계</span>
+            <span class="thr ok">≥70 양호</span>
+          </div>
+        </div>
+        <div id="isqNone" style="display:none; font-size:0.8rem; color:var(--ink-3); padding-top: 6px;">
+          ISQ 미측정 — IT만으로 판정
+        </div>
+      </div>
+    </div>
+
+    <div class="btn-row">
+      <button class="btn btn-secondary" onclick="goStep(2)">← 뒤로</button>
+      <button class="btn btn-primary" onclick="runVerdict()">판정하기 →</button>
+    </div>
+  </div>
+
+  <!-- Step 4: Verdict -->
+  <div class="step" id="step4">
+    <div class="path-summary" id="pathSummary"></div>
+    <div id="verdictCard"></div>
+    <div class="reset-row">
+      <button class="reset-btn" onclick="reset()">처음부터 다시</button>
+    </div>
+  </div>
+
+  <div class="footer">
+    근거: Ko 2021 (PMID 34436812) · Gallucci 2018 (doi:10.1111/clr.13276) · Esposito 2013 (Cochrane) · Kern 2018<br>
+    교육·의사결정 보조 목적. 최종 판단은 술자.
+  </div>
+</div>
+
+<script>
+// State
+let state = { prosthesis: null, surgical: null, it: 35, isq: 70, isqMeasured: true };
+let curStep = 1;
+
+// Progress update
+function updateProg(step) {
+  [1,2,3,4].forEach(i => {
+    const dot = document.getElementById('pd' + i);
+    dot.className = 'prog-dot';
+    if (i < step) { dot.className = 'prog-dot done'; dot.textContent = ''; }
+    else if (i === step) { dot.className = 'prog-dot active'; dot.textContent = i; }
+    else { dot.textContent = i; }
+    if (i < 4) {
+      const line = document.getElementById('pl' + i);
+      line.className = 'prog-line' + (i < step ? ' done' : '');
+    }
+  });
+}
+
+function goStep(n) {
+  document.getElementById('step' + curStep).classList.remove('active');
+  curStep = n;
+  document.getElementById('step' + curStep).classList.add('active');
+  updateProg(curStep);
+}
+
+// Step 1
+function selectProsthesis(val, el) {
+  document.querySelectorAll('#step1 .opt').forEach(o => o.classList.remove('selected'));
+  el.classList.add('selected');
+  state.prosthesis = val;
+  setTimeout(() => goStep(2), 220);
+}
+
+// Step 2
+function selectSurgical(val, el) {
+  document.querySelectorAll('#step2 .opt').forEach(o => o.classList.remove('selected'));
+  el.classList.add('selected');
+  state.surgical = val;
+  setTimeout(() => goStep(3), 220);
+}
+
+// Step 3 inputs
+function updateIT(v) {
+  state.it = parseInt(v);
+  document.getElementById('itVal').textContent = v;
+  colorIT();
+}
+function colorIT() {
+  const v = state.it;
+  const el = document.getElementById('itVal');
+  el.style.color = v < 20 ? 'var(--warn)' : v < 35 ? 'var(--caution)' : 'var(--ok)';
+}
+function updateISQ(v) {
+  state.isq = parseInt(v);
+  document.getElementById('isqVal').textContent = v;
+  colorISQ();
+}
+function colorISQ() {
+  const v = state.isq;
+  const el = document.getElementById('isqVal');
+  el.style.color = v < 65 ? 'var(--warn)' : v < 70 ? 'var(--caution)' : 'var(--ok)';
+}
+function toggleISQ(checked) {
+  state.isqMeasured = checked;
+  document.getElementById('isqInputArea').style.display = checked ? '' : 'none';
+  document.getElementById('isqNone').style.display = checked ? 'none' : '';
+}
+
+// Initialize slider colors
+colorIT();
+colorISQ();
+
+// Verdict engine
+function getVerdict() {
+  const { prosthesis, surgical, it, isq, isqMeasured } = state;
+  const ISQ = isqMeasured ? isq : null;
+
+  // Gate 1: Single implant overdenture — Kern 2018
+  if (prosthesis === 'single-od') {
+    const extraRisk = surgical === 'guided' ? ' 완전 가이드 수술이 더해져 위험이 배가됩니다.' : '';
+    return {
+      level: 'contra',
+      badge: '즉시로딩 권장하지 않음',
+      title: '단일 임플란트 오버덴처 — 즉시부하 비열등성 미입증',
+      reason: `하악 정중부 단일 임플란트 오버덴처에서 즉시부하는 지연부하 대비 비열등성 입증에 실패했습니다 (Kern 2018 RCT: 조기실패 즉시 9건 vs 지연 1건, 24개월).${extraRisk}`,
+      rec: '지연로딩(3개월) 강력 권장. 즉시부하를 선택할 경우 환자에게 높은 실패 위험을 명확히 고지 필요.',
+      evidence: ['Kern 2018 (비열등성 미입증, 즉시 조기실패 9 vs 지연 1)']
+    };
+  }
+
+  // Gate 2: IT absolute minimum
+  if (it < 20) {
+    return {
+      level: 'contra',
+      badge: '즉시로딩 금기',
+      title: `삽입 토크 ${it} Ncm — 즉시로딩 최소 기준 미충족`,
+      reason: `즉시로딩의 최소 안정성 기준(IT ≥20 Ncm)에 도달하지 못했습니다. Ko 2021 RCT의 IL 적격 기준은 IT >20 Ncm + ISQ >65로, 이를 충족하지 못하면 즉시로딩 의뢰 시도 자체가 권고되지 않습니다.`,
+      rec: '지연로딩(3개월) 시행. 잠복기 후 2차 안정성 재측정 후 부하 결정.',
+      evidence: ['Ko 2021 (IL 적격 기준: IT >20 Ncm + ISQ >65)', 'Esposito 2013 Cochrane (IT ≥35 Ncm 전제)']
+    };
+  }
+
+  // Gate 3: ISQ below minimum (if measured)
+  if (ISQ !== null && ISQ < 65) {
+    return {
+      level: 'contra',
+      badge: '즉시로딩 금기',
+      title: `ISQ ${ISQ} — 즉시로딩 권장 기준 미충족`,
+      reason: `ISQ ${ISQ}은 즉시로딩 권장 임계값(≥65)에 미달합니다. Ko 2021에서 IL 적격 기준(ISQ >65 + IT >20 Ncm)을 충족하지 못한 4명은 즉시로딩 대상에서 제외됐습니다.`,
+      rec: '지연로딩(3개월) 권장. 6-8주 시점 ISQ 재측정 후 조기로딩 재검토 가능.',
+      evidence: ['Ko 2021 (ISQ ≤65 → IL 제외 기준)', 'Andersson 2019 (ISQ <70 실패 위험)']
+    };
+  }
+
+  // Gate 4: Fully guided surgery — Ko 2021 warning regardless of stability
+  if (surgical === 'guided') {
+    const isqStr = ISQ !== null ? ` / ISQ ${ISQ}` : ' (ISQ 미측정)';
+    const stabilityGood = it >= 35 && (ISQ === null || ISQ >= 70);
+    const stabilityBorderline = it >= 20 && it < 35;
+    const isqBorderline = ISQ !== null && ISQ >= 65 && ISQ < 70;
+
+    if (stabilityBorderline || isqBorderline) {
+      return {
+        level: 'caution',
+        badge: '즉시로딩 주의',
+        title: `가이드 수술 + 경계 안정성 — 지연로딩 강력 권장`,
+        reason: `IT ${it} Ncm${isqStr}: 안정성 수치가 Cochrane 기준(≥35 Ncm)에 미달하거나 ISQ가 경계 범위입니다. Ko 2021 RCT는 가이드 수술에서 IT >20 + ISQ >65 기준을 충족한 경우에도 즉시로딩 임플란트 생존율이 83.4%(ITT)에 그쳤습니다. 경계 안정성과 가이드 수술 위험이 중첩됩니다.`,
+        rec: '지연로딩(3개월) 강력 권장. 즉시로딩은 피해야 하며, 선택 시 별도의 포괄적 고위험 고지 필요.',
+        evidence: ['Ko 2021 (가이드 수술 IL 83.4% vs DL 100%, p<0.01)', 'Esposito 2013 Cochrane (IT ≥35 Ncm)']
+      };
+    }
+
+    // Stability thresholds met, but guided surgery still higher risk
+    const prosLabel = prosthesis === 'multi-fdp' || prosthesis === 'multi-arch'
+      ? '다수 임플란트 연결이 부하 분산에 유리하지만' : '단관 임플란트의 경우';
+    return {
+      level: 'caution',
+      badge: '즉시로딩 주의 — Ko 2021 경고',
+      title: `안정성 충족, 그러나 가이드 수술 즉시로딩은 유의하게 위험`,
+      reason: `IT ${it} Ncm${isqStr}: 표준 즉시로딩 기준을 충족합니다. 그러나 Ko 2021 RCT에 따르면, 완전 가이드 수술 후 즉시로딩은 이 기준을 충족하는 경우에도 1년 임플란트 생존율이 83.4%(ITT) / 90.2%(PP)에 그쳤고, 지연로딩은 100%였습니다 (p<0.01). ${prosLabel}, 디지털 가이드 수술의 누적 위치 오차가 즉시로딩 하에서 실패를 촉진하는 기전으로 추정됩니다.`,
+      rec: '지연로딩(3개월) 권장. 즉시로딩을 선택해야 한다면: 환자에게 Ko 2021 근거 고지, IT ≥50 Ncm 이상의 엄격 기준 고려, 최소 6개월 추적관찰 계획 수립.',
+      evidence: ['Ko 2021 RCT (IT>20+ISQ>65 충족에도 IL 83.4% vs DL 100%)', 'Gallucci 2018 (ITI 분류 Type 1B)']
+    };
+  }
+
+  // Gate 5: Standard surgery — apply evidence-based thresholds
+  const isqStr = ISQ !== null ? ` / ISQ ${ISQ}` : '';
+  const splinted = prosthesis === 'multi-fdp' || prosthesis === 'multi-arch';
+
+  if (it >= 35 && (ISQ === null || ISQ >= 70)) {
+    if (splinted) {
+      return {
+        level: 'ok',
+        badge: '즉시로딩 가능',
+        title: `스플린팅 구성 + 충분한 안정성 — 즉시로딩 적합`,
+        reason: `IT ${it} Ncm${isqStr}: Cochrane 기준(≥35 Ncm)을 초과합니다. 다수 임플란트 연결(cross-arch splinting)이 하중을 분산하여 즉시로딩 환경을 보완합니다. Aiquel 2021 SR+MA(다수 임플란트 FDP)에서 즉시로딩 생존율 97.2% vs 지연로딩 98.1% (p=.227).`,
+        rec: '즉시로딩 시행 가능. 잠정 보철물 교합 조정 철저히, 과부하 방지. 추적관찰 1·3·6·12개월 권장.',
+        evidence: ['Esposito 2013 Cochrane (IT ≥35 Ncm)', 'Aiquel 2021 SR+MA (DPIL=DPDL 생존율)']
+      };
+    } else {
+      return {
+        level: 'ok',
+        badge: '즉시로딩 가능',
+        title: `단관 임플란트 즉시로딩 — 안정성 기준 충족`,
+        reason: `IT ${it} Ncm${isqStr}: Cochrane 권장 기준(≥35 Ncm)을 충족하며, ISQ도 양호합니다. Benic 2014 SR+MA(단관 즉시 vs 통상: 1년 OR 0.75, 5년 MBL SMD −0.05)에서 동등성이 확인됩니다. 단, 동시 골증대술이 없을 것을 전제합니다.`,
+        rec: '즉시로딩 시행 가능. 교합 접촉 최소화, 측방 운동 시 조기 접촉 없도록 조정. 추적관찰 필수.',
+        evidence: ['Benic 2014 SR+MA (단관 즉시=통상)', 'Esposito 2013 Cochrane (IT ≥35 Ncm)']
+      };
+    }
+  }
+
+  // Borderline: IT 20–34 Ncm
+  return {
+    level: 'caution',
+    badge: '즉시로딩 주의',
+    title: `삽입 토크 ${it} Ncm — 경계 범위`,
+    reason: `Cochrane에서 즉시로딩의 전제 조건으로 명시한 IT ≥35 Ncm에 미달합니다${ISQ !== null ? ` (ISQ ${ISQ}${ISQ >= 70 ? ', ISQ는 양호)' : ', ISQ도 경계 범위)'}` : ')'}. 경계 안정성에서의 즉시로딩은 충분한 무작위 대조 근거가 없습니다.`,
+    rec: '지연로딩(3개월) 또는 조기로딩(6~8주) 고려. 조기로딩 전 ISQ 재측정 후 결정.',
+    evidence: ['Esposito 2013 Cochrane (IT ≥35 Ncm 전제 명시)', 'Andreatta 2020 (6-8주 조기로딩 프로토콜)']
+  };
+}
+
+function prosLabel(p) {
+  return { 'single-crown': '단일 크라운', 'multi-fdp': '다수 FDP', 'single-od': '단일 오버덴처', 'multi-arch': 'Full-arch/다수 OD' }[p] || p;
+}
+function surgLabel(s) { return s === 'guided' ? '완전 가이드 수술' : '부분/프리핸드'; }
+
+function runVerdict() {
+  const v = getVerdict();
+  const pathEl = document.getElementById('pathSummary');
+  const isqStr = state.isqMeasured ? `ISQ ${state.isq}` : 'ISQ 미측정';
+  pathEl.innerHTML = `
+    <span class="path-item"><strong>보철:</strong> ${prosLabel(state.prosthesis)}</span>
+    <span class="path-sep">·</span>
+    <span class="path-item"><strong>수술:</strong> ${surgLabel(state.surgical)}</span>
+    <span class="path-sep">·</span>
+    <span class="path-item"><strong>IT:</strong> ${state.it} Ncm</span>
+    <span class="path-sep">·</span>
+    <span class="path-item"><strong>${isqStr}</strong></span>
+  `;
+
+  const recHtml = v.rec ? `<div class="verdict-rec">→ ${v.rec}</div>` : '';
+  const evidHtml = v.evidence.length ? `
+    <div class="evid-list">
+      ${v.evidence.map(e => `<span class="evid-pill">${e}</span>`).join('')}
+    </div>
+  ` : '';
+
+  const levelColor = { ok: 'ok', caution: 'caution', norec: 'norec', contra: (v.badge.includes('금기') ? 'contra' : 'norec') }[v.level] || v.level;
+
+  document.getElementById('verdictCard').innerHTML = `
+    <div class="verdict">
+      <div class="verdict-rail ${levelColor}"></div>
+      <div class="verdict-body">
+        <div class="verdict-badge ${levelColor}">${v.badge}</div>
+        <div class="verdict-title">${v.title}</div>
+        <div class="verdict-reason">${v.reason}</div>
+        ${recHtml}
+        ${evidHtml}
+      </div>
+    </div>
+  `;
+
+  goStep(4);
+}
+
+function reset() {
+  state = { prosthesis: null, surgical: null, it: 35, isq: 70, isqMeasured: true };
+  document.querySelectorAll('.opt').forEach(o => o.classList.remove('selected'));
+  document.getElementById('itSlider').value = 35;
+  document.getElementById('itVal').textContent = 35;
+  document.getElementById('isqSlider').value = 70;
+  document.getElementById('isqVal').textContent = 70;
+  document.getElementById('isqCheck').checked = true;
+  document.getElementById('isqInputArea').style.display = '';
+  document.getElementById('isqNone').style.display = 'none';
+  colorIT();
+  colorISQ();
+  goStep(1);
+}
+</script>
+</body>
+</html>
