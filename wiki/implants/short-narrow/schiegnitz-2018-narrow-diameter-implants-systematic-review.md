@@ -17,10 +17,6 @@ tags:
   - meta-analysis
   - bone-augmentation-avoidance
   - overdenture
-relations:
-  - target: implants/survival/park-2023-narrow-regular-diameter-mandibular-overdentures
-    type: extended_by
-    note: Park 2023 extends to overdenture-specific NDI outcomes with later data
 ---
 
 ## Three-line Summary
