@@ -6,7 +6,7 @@ doi: "N/A"
 category: [veneers]
 pdf_path: N/A
 pdf_filename: N/A
-source_collection: external
+source_collection: pubmed-abstract
 ---
 
 ## Why Ingested
