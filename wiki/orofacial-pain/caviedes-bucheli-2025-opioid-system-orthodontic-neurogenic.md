@@ -12,6 +12,9 @@ pdf_filename: caviedes-bucheli-2025-opioid-system-orthodontic-neurogenic.pdf
 source_collection: external
 tags: [opioid, endogenous-opioid, orthodontic, neurogenic-inflammation, dental-pulp, substance-P, CGRP, beta-endorphin, enkephalin, somatostatin, endocannabinoid, nociception, orofacial-pain]
 relations:
+  - target: endodontics/anatomy/caviedes-bucheli-2008-neuropeptides-dental-pulp-silent
+    type: extends
+    note: extends the 2008 neuropeptide framework (SP/CGRP/NKA/NPY/VIP) to the endogenous opioid counter-system in orthodontic-force-induced pulp neurogenic inflammation
   - target: orofacial-pain/kim-2024-trigeminal-sensory-system-orofacial-pain
     type: extends
     note: adds antinociceptive (opioid/SST/endocannabinoid) counter-system dimension to the trigeminal nociception framework
