@@ -18,8 +18,9 @@ tags:
   - meta-analysis
   - pulpal-necrosis
 relations:
-  - type: related
+  - type: refines
     target: "[[di-spirito-2022-endodontic-pain-management-overview]]"
+    note: rules antibiotics out of the effective post-endodontic pain toolkit, narrowing the management picture Di Spirito surveys
 ---
 
 ## Three-line Summary
