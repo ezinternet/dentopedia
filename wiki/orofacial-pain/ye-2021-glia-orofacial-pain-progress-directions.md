@@ -34,7 +34,7 @@ relations:
   - target: orofacial-pain/guan-2025-cerebellin-2-trigeminal-neuropathic-pain
     type: related
     note: trigeminal neuropathic pain mechanisms
-  - target: tmj/khalifeh-2024-ianb-trismus
+  - target: tmj/khalifeh-2024-trismus-following-inferior-alveolar-nerve-block
     type: related
     note: TMJ/TMD clinical context
 ---
