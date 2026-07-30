@@ -6,7 +6,7 @@ doi: "10.1111/jerd.70016"
 category: [veneers]
 pdf_path: N/A
 pdf_filename: N/A
-source_collection: external
+source_collection: pubmed-abstract
 ---
 
 ## Why Ingested
