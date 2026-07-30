@@ -3058,6 +3058,7 @@ tags: []
 - [[implants/surface/rehner-2025-dental-implants-nanoparticle-coatings-review]] — Rehner 2025 · narrative-review: 나노입자 코팅 in vitro/in vivo — 골유착·세포부착·항균(주위염 억제) 향상
 
 #### implants — loading protocol
+- [[implants/loading-protocol/ko-2021-immediate-loading-protocols-increase-risk]] — Ko 2021 · rct (72pt, 187 임플란트, 1yr): 완전 가이드 수술 후 즉시로딩 vs 3개월 지연로딩 — 즉시로딩 임플란트 생존율 83.4%(ITT) vs 지연로딩 100%(p<0.01); MBL 차이 없음(<0.1mm); ISQ>65+IT>20Ncm 기준을 충족해도 즉시로딩은 실패 위험↑
 - [[implants/full-arch/kern-2018-single-implants-edentulous-mandible-immediate]] — Kern 2018 · rct (24mo): 하악 정중부 단일 임플란트 즉시하중 비열등성 미입증 — 즉시군 조기실패 9개 vs 지연군 1개
 
 #### caries — prevention / nonrestorative
