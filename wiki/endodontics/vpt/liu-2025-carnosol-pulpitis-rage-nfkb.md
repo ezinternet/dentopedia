@@ -20,9 +20,6 @@ tags:
   - hDPCs
   - natural-compound
   - endodontics
-relations:
-  - type: method_similarity
-    target: "[[endodontics/vpt/]]"
 ---
 
 ## Three-line Summary
