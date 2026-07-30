@@ -5,7 +5,7 @@ year: 2014
 doi: 10.1563/AAID-JOI-D-11-00236
 pmid: 25106011
 category: implants/soft-tissue
-source_collection: pubmed-text
+source_collection: pubmed-abstract
 full_text: false
 source_url: https://pubmed.ncbi.nlm.nih.gov/25106011/
 ---
