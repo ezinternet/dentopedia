@@ -5,7 +5,7 @@ year: 2021
 doi: 10.1111/cid.13055
 pmid: 34779114
 category: implants/soft-tissue
-source_collection: pubmed-text
+source_collection: pubmed-abstract
 full_text: false
 source_url: https://pubmed.ncbi.nlm.nih.gov/34779114/
 ---
