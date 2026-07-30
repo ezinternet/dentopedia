@@ -5,7 +5,7 @@ year: 2024
 doi: 10.1563/aaid-joi-D-24-00006
 pmid: 38979575
 category: implants/soft-tissue
-source_collection: pubmed-text
+source_collection: pubmed-abstract
 full_text: false
 source_url: https://pubmed.ncbi.nlm.nih.gov/38979575/
 ---
