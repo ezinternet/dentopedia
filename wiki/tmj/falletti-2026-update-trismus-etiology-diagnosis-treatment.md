@@ -23,12 +23,15 @@ tags:
   - botulinum-toxin
   - tetanus
 relations:
-  - type: related
+  - type: applies-to
     target: saini-2024-botulinum-toxin-tmd-sr-ma
-  - type: related
+    note: applies BTX-for-TMD evidence within the broader trismus management algorithm (neurological/spastic variants)
+  - type: applies-to
     target: zhu-2020-btx-painful-tmd-sr-ma
-  - type: related
+    note: applies BTX-for-TMD evidence within the broader trismus management algorithm (neurological/spastic variants)
+  - type: extends
     target: kapos-2020-temporomandibular-disorders-aetiology-diagnosis-review
+    note: expands scope from TMD specifically to the full trismus differential (neurological, structural, non-structural etiologies beyond TMJ)
 ---
 
 ## Three-line Summary
