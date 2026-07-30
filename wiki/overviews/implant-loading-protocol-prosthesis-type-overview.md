@@ -15,6 +15,7 @@ source_papers:
   - immediate-implant/donker-2025-immediate-implant-provisionalization-digital-workflow-prospective
   - implants/loading-protocol/aiquel-2021-timing-placement-loading-multiple-unit-sr-ma
   - implants/loading-protocol/esposito-2013-loading-times-dental-implants-cochrane
+  - implants/loading-protocol/ko-2021-immediate-loading-protocols-increase-risk
 evidence_level: synthesis
 source: synthesis
 relations:
@@ -35,7 +36,8 @@ relations:
 > - 임상 결정: 단관은 안정성 충족+동시 GBR 없으면 즉시부하, 미달이면 통상부하 회귀.
 > - 다수 임플란트 지지 고정성 국소의치(Multiple-unit Fixed Dental Prosthesis, FDP)(Aiquel 2021, SR+MA 14편): 지연식립-즉시부하(Delayed Placement Immediate Loading, DPIL) 97.2% vs 지연식립-지연부하(Delayed Placement Delayed Loading, DPDL) 98.1% — 동등(p=.227); 즉시식립-즉시부하(Immediate Placement Immediate Loading, IPIL)만 90% 미만 유일 해당; GRADE 근거 매우 낮음. 복수 임플란트 연결(cross-arch splinting)이 즉시부하 비열등성을 뒷받침하는 기전으로 추정.
 > - **Cochrane cross-prosthesis 종합(Esposito 2013, SR+MA, 26 RCT, n=1217환자/2120임플란트)**: 즉시·조기 vs 통상 부하 — 보철 실패(RR 1.90) 및 임플란트 실패(RR 1.50) 모두 유의차 없음; MBL 차이 −0.10 mm(통계적 유의·임상적 무의미); 전제조건: 삽입토크 ≥35 Ncm. GRADE 근거 매우 낮음(이질성 높고 비교당 RCT 희소). → 본 overview의 상위 명제(안정성 충족 시 부하 타이밍 비결정 인자)를 가장 포괄적인 Cochrane 수준에서 뒷받침.
-> - 공백: 단일 임플란트 오버덴처 즉시부하 RCT 희소, full-arch 장기(>5년) 비교 부재, 로딩 타이밍×골질(D1–D4) 교호작용 미검증.
+> - 취약 구성 3 — 완전 가이드 수술(fully guided surgery) + 즉시로딩(Ko 2021 RCT, n=72, 187 임플란트): IT >20 Ncm + 임플란트 안정성 지수(Implant Stability Quotient, ISQ) >65 기준을 충족해도 1년 임플란트 생존율 83.4%(ITT) vs 지연로딩(Delayed Loading, DL) 100% (p<0.01); 변연골 소실(Marginal Bone Loss, MBL)은 차이 없음(<0.1 mm). 디지털 가이드 수술이 표준 안정성 임계값을 보장하지 않으며, 가이드 수술 맥락에서 즉시로딩은 별도의 주의가 필요함을 시사.
+> - 공백: 단일 임플란트 오버덴처 즉시부하 RCT 희소, full-arch 장기(>5년) 비교 부재, 로딩 타이밍×골질(D1–D4) 교호작용 미검증, 가이드 수술 특이 실패 기전(누적 위치 오차) 미규명.
 > - 확신도: 단관 즉시부하·단일 오버덴처 금기 = [확인], full-arch·tilted·다수 오버덴처 = [확인], 즉시식립+즉시부하 선별 = [미검증].
 
 ## Three-line Summary
@@ -75,6 +77,7 @@ Clinical bottom line: prosthesis configuration and primary stability — not loa
 | [[immediate-implant/esthetic-soft-tissue/donker-2025-immediate-implant-provisionalization-digital-workflow-prospective]] | prospective case series | 30 (상악 심미부) | Immediate placement + provisionalization (digital) | 생존 90%(조기실패 3), PES+WES 15.4/20, MBL −0.18(M)/−0.44(D) mm, 만족도 9.2/10 | prospective |
 | [[implants/loading-protocol/aiquel-2021-timing-placement-loading-multiple-unit-sr-ma]] | sr+ma (14 studies, 21 cohort groups; 3 RCTs for MA) | 502 DPIL / 476 DPDL implants | Multiple-unit FDP (≥2 implants) | DPIL 97.2% vs DPDL 98.1% survival — **no significant difference** (p=.227); IPIL only protocol below 90% (90%); MBL numerically lower in DPIL (0.71 vs 1.68 mm) but between-study only; GRADE **very low** for all comparisons | sr+ma |
 | [[implants/loading-protocol/esposito-2013-loading-times-dental-implants-cochrane]] | sr+ma Cochrane (26 RCT, updated 2013) | 1217 patients / 2120 implants | Cross-prosthesis (single + multiple, various) | 즉시·조기 vs 통상 부하: 보철 실패 RR 1.90 (NS), 임플란트 실패 RR 1.50 (NS), MBL MD −0.10 mm (통계적 유의·임상 무의미); **삽입토크 ≥35 Ncm 전제조건**; GRADE 매우 낮음 — 포괄적 Cochrane 기반에서 "안정성 확보 시 부하 타이밍 비결정 인자" 명제 재확인 | sr+ma |
+| [[implants/loading-protocol/ko-2021-immediate-loading-protocols-increase-risk]] | rct (1y, single center) | 72 patients / 187 implants (partially edentulous) | Fully guided surgery + IL vs 3-month DL | **IL 실패 위험↑**: 임플란트 생존 IL 83.4%(ITT) / 90.2%(PP) vs DL 100% (p<0.01); MBL <0.1 mm 양군 차이 없음 — IT >20 Ncm + ISQ >65 충족해도 가이드 수술 맥락에서 즉시로딩은 유의하게 위험함 | rct |
 
 ## Clinical Decision Points
 
