@@ -15,9 +15,9 @@ relations:
 - type: extends
   target: "[[orthodontics/clear-aligner/jaber-2023-clear-aligners-complex-extraction-vs-fixed-sr]]"
   note: "Jaber 2023 covered complex/extraction clear aligner feasibility (ABO-OGS/PAR); this SR adds predicted-vs-achieved quantification for space closure specifically, using SPD meta-analysis on 14 studies."
-- type: consistent_with
+- type: refines
   target: "[[orthodontics/clear-aligner/baneshi-2024-clear-aligners-malocclusion-sr-ma]]"
-  note: "Both confirm no clear aligner superiority over fixed appliances for complex tooth movement; Baneshi focused on general malocclusion accuracy, this paper narrows to extraction space closure mechanics."
+  note: "Baneshi established CA≈FA occlusal-outcome equivalence in simple non-extraction cases; this SR narrows that claim to extraction space-closure mechanics and shows CA significantly underperforms its own predictions there."
 ---
 
 ## Three-line Summary
