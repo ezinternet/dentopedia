@@ -3456,6 +3456,7 @@ tags: []
 - [[bone-regeneration/friedmann-2022-horizontal-augmentation-gbr-dog]] — Friedmann 2022 animal (dog): ribose-crosslinked membrane (no tacking) > non-crosslinked (4-pin fixation) for horizontal augmentation new bone area (p=0.001); DBBM graft [animal]
 - [[bone-regeneration/ridge-preservation/steigmann-2022-socket-buccal-bone-classification]] — Steigmann 2022 narrative review: ST1–ST3 socket buccal bone classification + decision tree; ST1A → no ARP; ST3C → Ti-mesh/PTFE + full flap [narrative-review]
 - [[bone-regeneration/jiang-2020-bmp2-calcium-phosphate-alveolar-orthodontic]] — Jiang 2020 animal (beagle): BMP2-functionalized calcium phosphate graft → 1.61× more new bone than control during orthodontic tooth movement; DBB causes 1.87× more root resorption [animal]
+- [[bone-regeneration/benic-2014-horizontal-bone-augmentation-guided-regeneration]] — Benic & Hämmerle 2014 narrative review: 수평 GBR 결손 분류(Class 1–5)·재료선택 위계(콜라겐막+DBBM 표준; 대형결손은 자가골블록; Ti-보강 e-PTFE는 Class 3 지지벽 없을 때); Periodontology 2000 기초 참고문헌 [narrative-review]
 
 ### bone-regeneration — DBBM: modifications, adjuncts, outcomes
 - [[bone-regeneration/ridge-preservation/fischer-2022-bone-envelope-arp-dbbm-sr-ma]] — Fischer 2022 SR+MA: residual bone envelope after ARP with DBBM — standard-diameter implant feasibility without additional augmentation; IJID [sr+ma]
