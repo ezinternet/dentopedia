@@ -14,6 +14,7 @@ source_wiki:
   - wiki/immediate-implant/lee-2018-comparison-immediate-implant-placement-infected.md
   - wiki/immediate-implant/chrcanovic-2015-immediate-placement-implants-infected-sites.md
   - wiki/immediate-implant/infected-socket/tabrizi-2020-dental-implant-survival-postoperative-infection.md
+  - wiki/immediate-implant/elaskary-2024-vst-immediate-implant-infected-sockets.md
 category: [overviews]
 evidence_level: synthesis
 tags: [immediate-implant, infected-socket, periapical-pathology, acute-abscess, debridement, antibiotic, timing, post-op-infection, clinical-decision]
@@ -69,6 +70,7 @@ Absolute contraindications remain active purulence, fistula, cellulitis, and sin
 | Muñoz-Cámara 2020 | Prospective | n=100 | 100% survival; all peri-implant params NS |
 | Prati 2017 | Prospective | n=131 | Acute abscess → Early (8–12w) → MBL 0.48 mm (best) |
 | Tabrizi 2020 | Retrospective | n=980 | Post-op infection → 70.6% failure |
+| Elaskary 2024 | Prospective cohort | n=26, 41 implants | VST + 6-day protocol: 100% survival, bone/soft tissue equivalence infected vs non-infected |
 
 Evidence anchor: [[immediate-implant/infected-socket/pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma]] (SR+MA, 2024; partially supersedes Saijeva 2020, Chrcanovic 2015, Lee 2018).
 
@@ -97,6 +99,8 @@ Evidence anchor: [[immediate-implant/infected-socket/pranckeviciene-2024-immedia
 6. Primary stability IT ≥35 N·cm
 
 **Monitoring**: KGW is the one parameter consistently reduced in infected IIP (Saijeva 2020, Lee 2018). If initial KGW <2 mm, consider simultaneous free gingival graft (Free Gingival Graft, FGG) or plan secondary vestibuloplasty.
+
+**VST + 6-day decontamination variant (Elaskary 2024)**: For Type II sockets (deficient labial plate) with signs of infection (periapical radiolucency, fistulae, sinus tracts), the 6-day protocol — socket debridement/metronidazole irrigation + temporary tooth reimplantation — followed by Vestibular Socket Therapy (VST) achieved 100% 1-year survival with bone gain (apical 2.4 mm, mid 1.6 mm, crestal 0.85 mm) and minimal mucosal recession (0.29–0.51 mm), comparable to non-infected controls. This protocol addresses the specific challenge of Type II infected sockets in the esthetic zone where conventional curettage alone may be insufficient for decontamination.
 
 ---
 
@@ -237,5 +241,6 @@ Pre-extraction assessment
 - [[immediate-implant/infected-socket/tabrizi-2020-dental-implant-survival-postoperative-infection]] — Post-op infection failure rate
 - [[immediate-implant/infected-socket/chrcanovic-2015-immediate-placement-implants-infected-sites]] — Historical SR (superseded)
 - [[immediate-implant/infected-socket/lee-2018-comparison-immediate-implant-placement-infected]] — Korean-authored SR+MA
+- [[immediate-implant/elaskary-2024-vst-immediate-implant-infected-sockets]] — VST + 6-day decontamination protocol in infected Type II sockets (prospective cohort, 2024)
 - [[overviews/immediate-implant-conditions]] — Parent overview: Type-1 IIP conditions and risk matrix
 - [[overviews/immediate-implant-decision-ladder]] — Clinical decision ladder
