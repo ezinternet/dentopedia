@@ -11,6 +11,8 @@ pmcid: "PMC13080229"
 source_url: https://pmc.ncbi.nlm.nih.gov/articles/PMC13080229/
 text_path: /Users/oracleneo/llm-wiki/papers/song-2026-tapered-straight-implants-immediate-loading-3year.txt
 text_filename: song-2026-tapered-straight-implants-immediate-loading-3year.txt
+pdf_path: /Users/oracleneo/llm-wiki/papers/song-2026-tapered-straight-implants-immediate-loading-3year.pdf
+pdf_filename: song-2026-tapered-straight-implants-immediate-loading-3year.pdf
 ---
 
 ## Why Ingested
@@ -19,19 +21,19 @@ The wiki holds insertion torque thresholds (≥30 Ncm for immediate loading) dis
 
 ## Three-line Summary
 
-3-year follow-up RCT (n=28 patients, 61 implants): tapered implants showed numerically higher patient-level survival (95.8% vs 78.3%, NS) and fewer composite protocol failures vs straight implants for immediate loading in posterior jaws;
+3-year follow-up RCT (n=28 patients, 61 implants, posterior maxilla/mandible): tapered self-tapping implants (TI) vs straight implants (SI) under immediate loading; all failures confined to year 1 (1 TI, 5 SI); patient-level survival 95.8% TI vs 78.3% SI (p=0.109, NS).
 
-MBL was minimal and equivalent between groups.
+Composite immediate loading protocol failure rate more than doubled in SI (13/43) versus TI (4/36); MBL was minimal and equivalent at 3 years (TI ~0.23 mm, SI ~0.50 mm, NS); zero late failures in either group after year 1.
 
-(incomplete)
+Tapered macro-design is preferable for immediate loading in posterior sites due to more reliable primary stability; once osseointegrated, implant macro-design does not influence long-term bone or survival outcomes.
 
 ## 세줄요약
 
-3년 추적 RCT (28명, 61개): 테이퍼 임플란트는 즉시 부하 성공률에서 직선형보다 우위(프로토콜 실패 4 vs 13개), 생존율 차이는 비유의적(환자 수준 95.8% vs 78.3%);
+3년 추적 무작위대조시험 (RCT, 후방 상·하악 임플란트 61개/28명): 테이퍼형 자기절삭 임플란트 (Tapered Implant, TI) vs 직선형 임플란트 (Straight Implant, SI) 즉시 부하 비교; 모든 실패는 1년 이내 집중 (TI 1개, SI 5개); 환자 수준 생존율 TI 95.8% vs SI 78.3% (p=0.109, 비유의적).
 
-변연골 소실은 양군 모두 1mm 미만으로 유의차 없음.
+즉시 부하 프로토콜 복합 실패율 SI에서 현저히 높음 (SI 13/43 vs TI 4/36); 변연골 소실 (Marginal Bone Loss, MBL)은 3년 시점 양군 모두 미미하고 동등 (TI ~0.23 mm, SI ~0.50 mm, 비유의적); 1년 이후 후기 실패 없음.
 
-(incomplete)
+즉시 부하 시 테이퍼형 거시설계가 더 안정적인 1차 안정성 (Primary Stability) 제공으로 우위; 골유착 (Osseointegration) 성립 후에는 거시설계가 장기 골 및 생존 결과에 영향 없음.
 
 ## 1. Document Information
 
