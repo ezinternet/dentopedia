@@ -3888,3 +3888,20 @@ tags: []
 
 ### immediate-implant/gap-grafting
 - [[immediate-implant/gap-grafting/el-ebiary-2023-guided-immediate-implant-mixture-autogenous]] — RCT(n=24, 군당 12명, BMC Res Notes 2023): 상악 심미부 유도 즉시식립+디지털 즉시임시수복 시 2–3mm 틈새(jumping gap)를 자가골(Autogenous Bone)+이종골(Xenograft) 1:1 혼합 이식 vs 무이식 — 6개월 분홍심미지수(Pink Esthetic Score, PES) 이식군 유의 우수(13 vs 11.5, p=0.048), 이식군 상승(11.58→12.42)·대조군 하강(11.75→11.17)
+
+## Batch ingest (added 2026-07-31) — 루트 PDF 일괄 인제스트 (14개 중 11개 신규·3개 중복스킵)
+
+### bone-regeneration
+- [[bone-regeneration/li-2025-application-of-collagen-in-bone]] — 콜라겐(~29종) 유형·공급원·가공형태(스캐폴드·스폰지·멤브레인·하이드로젤·나노입자)·복합재 전략 총망라; FDA 승인 복합재 극소, 기계적 강도·혈관화·면역반응이 임상 이전 핵심 장벽 [narrative-review]
+- [[bone-regeneration/park-2022-collagen-membrane-fixation-ridge-volume]] — 비글견 8마리 동물실험: 함입 결손부 GBR에서 차폐막 고정(Fixation)은 전체 증대 용적에 유의한 차이 없음(p>.05); 치조정 폭 개선 효과는 차폐막 종류에 따라 달라짐(CM2-F 2.3mm vs CM2-UF 1.57mm, p<.05) [animal]
+- [[bone-regeneration/sousa-2026-distinct-healing-dynamics-xenograft]] — Bio-Oss Collagen® vs Extra Graft XG13® 두개관 쥐 GBR 모델(n=54, 7/14/28일): XG13®이 14일·28일 신생골·BV/TV·성숙콜라겐 모두 유의하게 우세(p<0.05); 초기 염증·혈관신생은 동등 [animal]
+- [[bone-regeneration/yoo-2025-early-reentry-simultaneous-gbr-peri-implant]] — 동시 GBR 후 조기 재진입 수술(2개월) vs 지연(4개월): BIC 53.80% vs 54.15%, 신생골 면적 1.98 vs 0.88 mm² (모두 NS); 조기 재진입이 골재생·골유착을 훼손하지 않으며 연조직 성숙 우세 경향 [animal]
+
+### implants/survival
+- [[implants/survival/gurbanov-2024-implants-grafted-nongrafted-sites-sr]] — 골이식부 vs 비이식부 임플란트 10년 생존율 비교 SR: ISR 이식부 96–100% vs 비이식부 91.6–94%, 유사한 장기 생존율 — 적격 연구 3편뿐, 메타분석 불가 [sr]
+
+### implants
+- [[implants/park-2025-ari-implant-severely-resorbed-ridges]] — ARi® 피질골 고정형 임플란트, 심한 전치부 치조제 흡수 2증례, 초기 고정 토크 40 N/cm², 2년 안정 (골이식 여전히 필요) [case-report]
+
+### implants/soft-tissue
+- [[implants/soft-tissue/kim-2015-hard-soft-tissue-esthetic-zone]] — 복합 결손 상악 전치부(#21) 단계적 연·경조직 재건(APF+CTG→GBR→지연 임플란트→임시치관 윤곽 조정)후 2.5년 안정 증례 [case-report]
