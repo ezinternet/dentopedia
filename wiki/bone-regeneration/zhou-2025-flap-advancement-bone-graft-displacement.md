@@ -14,6 +14,8 @@ pmcid: "PMC12341334"
 source_url: https://pmc.ncbi.nlm.nih.gov/articles/PMC12341334/
 text_path: /Users/oracleneo/llm-wiki/papers/zhou-2025-flap-advancement-bone-graft-displacement.txt
 text_filename: zhou-2025-flap-advancement-bone-graft-displacement.txt
+pdf_path: /Users/oracleneo/llm-wiki/papers/zhou-2025-flap-advancement-bone-graft-displacement.pdf
+pdf_filename: zhou-2025-flap-advancement-bone-graft-displacement.pdf
 tags: [flap-advancement, flap-tension, graft-displacement, periosteal-releasing-incision, membrane-fixation, guided-bone-regeneration, horizontal-bone-augmentation]
 relations:
   - type: extends
