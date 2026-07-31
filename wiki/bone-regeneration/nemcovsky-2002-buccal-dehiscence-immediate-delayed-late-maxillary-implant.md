@@ -13,13 +13,21 @@ source_collection: external
 tags: [GBR, buccal-dehiscence, placement-timing, immediate-implant, delayed-implant, late-implant, collagen-membrane, maxilla]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Controlled clinical trial (n=66 patients, 102 implants) comparing buccal dehiscence-defect healing across immediate, delayed, and late maxillary implant placement with collagen membrane + bone graft; delayed placement produced the best defect reduction (height 88.8%, area 95.6%), with spontaneous membrane exposure and multiple simultaneous implant placement independently predicting worse healing.
+Controlled clinical trial (n=66 patients, 102 implants) comparing buccal dehiscence-defect healing across immediate, delayed, and late maxillary implant placement with collagen membrane + bone graft.
 
-## 한줄요약
+Delayed placement produced the best defect reduction (height 88.8% vs. 77.4% immediate and 75.2% late; area 95.6% vs. 90.2% and 87.6%) — a non-monotonic result, the middle timing beating both extremes.
 
-대조군 임상시험(n=66명, 임플란트 102개): 즉시·지연·후기 상악 임플란트 식립 시 협측 이개열 결손을 콜라겐막+골이식으로 치료한 결과 비교 — 지연식립이 결손 감소율(높이 88.8%, 면적 95.6%)로 가장 우수했고, 막 노출과 다수 임플란트 동시식립은 각각 독립적으로 치유를 악화시킴.
+Spontaneous membrane exposure and multiple simultaneous implant placement each independently predicted worse healing, regardless of timing group.
+
+## 세줄요약
+
+대조군 임상시험(n=66명, 임플란트 102개): 즉시·지연·후기 상악 임플란트 식립 시 협측 이개열 결손을 콜라겐막+골이식으로 치료한 결과 비교.
+
+지연식립이 결손 감소율(높이 88.8% vs 즉시77.4%/후기75.2%, 면적 95.6% vs 90.2%/87.6%)로 가장 우수 — 양극단이 아니라 중간 시점이 승리하는 비단조적 결과.
+
+막 노출과 다수 임플란트 동시식립은 시점군과 무관하게 각각 독립적으로 치유를 악화시킴.
 
 ## Summary
 
@@ -52,4 +60,4 @@ Between-group differences statistically significant. Spontaneous cover-screw exp
 
 - [[bone-regeneration/darby-2024-resorbable-membrane-dbbm-gbr-dehiscence]] — related (Darby's centripetal-ingrowth mechanism operates within the early-placement scenario this trial found intermediate, not best, for buccal dehiscence healing)
 - [[bone-regeneration/chappuis-2018-contour-augmentation-gbr-10year-results]] — related (this trial's short-term defect-reduction-by-timing comparison sits upstream of Chappuis's single-timing 10-year durability outcome)
-- [[overviews/gbr-simultaneous-implant-placement-contour-dehiscence-overview]] — this trial's placement-timing axis is a gap the overview's 10-paper evidence base does not directly test; candidate for a future overview update
+- [[overviews/gbr-simultaneous-implant-placement-contour-dehiscence-overview]] — incorporated as the placement-timing axis (2026-07-31); flagged there as the weakest-evidence item in the synthesis (non-randomized, abstract-only, no modern replication)
