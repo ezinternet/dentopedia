@@ -14,8 +14,8 @@ pmcid: "PMC13226745"
 source_url: https://pmc.ncbi.nlm.nih.gov/articles/PMC13226745/
 text_path: /Users/oracleneo/llm-wiki/papers/seiler-2026-resorbable-scaffolds-alveolar-ridge-augmentation-sr.txt
 text_filename: seiler-2026-resorbable-scaffolds-alveolar-ridge-augmentation-sr.txt
-pdf_path: /Users/oracleneo/llm-wiki/papers/seiler-2026-resorbable-scaffolds-alveolar-ridge-augmentation-sr.txt
-pdf_filename: seiler-2026-resorbable-scaffolds-alveolar-ridge-augmentation-sr.txt
+pdf_path: /Users/oracleneo/llm-wiki/papers/seiler-2026-resorbable-scaffolds-alveolar-ridge-augmentation-sr.pdf
+pdf_filename: seiler-2026-resorbable-scaffolds-alveolar-ridge-augmentation-sr.pdf
 tags: [gbr, resorbable-scaffold, ridge-augmentation, titanium-mesh, pcl, plga, beta-tcp, barrier-membrane]
 relations:
   - type: extends
