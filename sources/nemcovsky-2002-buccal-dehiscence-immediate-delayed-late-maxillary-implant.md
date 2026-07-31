@@ -13,13 +13,21 @@ source_collection: external
 
 기존 [[overviews/gbr-simultaneous-implant-placement-contour-dehiscence-overview]]은 동시 GBR의 율속 단계가 골형성이 아니라 이식재 부피의 생존이라는 명제를 종합했으나, 그 근거 10편은 전부 함입 정도·막 고정·재료 축이었고 **"언제 식립하느냐(즉시/지연/후기)가 협측 이개열 치유에 영향을 주는가"는 다루지 않았다.** 이 2002년 논문은 바로 그 시점 축을 직접 비교한 초기 3군 대조시험이라 인제스트.
 
-## One-line Summary
+## Three-line Summary
 
-Controlled clinical trial (n=66 patients, 102 implants) comparing buccal dehiscence-defect healing across immediate (n=23), delayed (n=39), and late (n=40) maxillary implant placement with collagen membrane + bone graft; delayed placement produced the best defect reduction (height 88.8%, area 95.6%), and single-implant placement plus absence of spontaneous membrane exposure independently predicted better healing.
+Controlled clinical trial (n=66 patients, 102 implants) comparing buccal dehiscence-defect healing across immediate (n=23), delayed (n=39), and late (n=40) maxillary implant placement with collagen membrane + bone graft.
 
-## 한줄요약
+Delayed placement produced the best defect reduction (height 88.8% vs. 77.4% immediate and 75.2% late; area 95.6% vs. 90.2% and 87.6%) — a middle timing beating both extremes, not a monotonic trend.
 
-대조군 임상시험(n=66명, 임플란트 102개): 즉시(n=23)·지연(n=39)·후기(n=40) 상악 임플란트 식립 시 협측 이개열 결손을 콜라겐막+골이식으로 처리한 치유 결과 비교 — 지연식립이 결손 감소율(높이 88.8%, 면적 95.6%)로 가장 우수했고, 단일 임플란트 식립과 막 노출 부재가 독립적으로 더 나은 치유를 예측.
+Spontaneous membrane/cover-screw exposure and multiple simultaneous implant placement each independently predicted worse healing regardless of timing group.
+
+## 세줄요약
+
+대조군 임상시험(n=66명, 임플란트 102개): 즉시(n=23)·지연(n=39)·후기(n=40) 상악 임플란트 식립 시 협측 이개열 결손을 콜라겐막+골이식으로 처리한 치유 결과 비교.
+
+지연식립이 결손 감소율(높이 88.8% vs 즉시77.4%/후기75.2%, 면적 95.6% vs 90.2%/87.6%)로 가장 우수 — 양극단이 아니라 중간 시점이 승리.
+
+막 노출과 다수 임플란트 동시식립은 시점군과 무관하게 각각 독립적으로 치유를 악화시킴.
 
 ## 1. Document Information
 
