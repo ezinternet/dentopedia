@@ -3907,3 +3907,42 @@ tags: []
 
 ### implants/soft-tissue
 - [[implants/soft-tissue/kim-2015-hard-soft-tissue-esthetic-zone]] — 복합 결손 상악 전치부(#21) 단계적 연·경조직 재건(APF+CTG→GBR→지연 임플란트→임시치관 윤곽 조정)후 2.5년 안정 증례 [case-report]
+
+## Batch ingest (added 2026-08-01) — DeepSeek 마크다운 일괄 인제스트 (19개 신규)
+
+### sinus-lift/transcrestal
+- [[sinus-lift/transcrestal/manekar-2020-graftless-crestal-sinus-lift-simultaneous]] — Graftless crestal hydraulic sinus lift with simultaneous implant insertion: 100% survival at 1 year (n=26, mean bone gain 5.6 mm) (2020)
+- [[sinus-lift/transcrestal/song-2020-tenting-effect-implant-sinus-graftless]] — Tenting effect of implant on graftless sinus lift: bone formation under Schneiderian membrane (2020)
+- [[sinus-lift/transcrestal/cho-2024-crestal-sinus-augmentation-limited-bone]] — Crestal approach sinus augmentation with <4 mm bone: observational study showing viable outcomes (2024)
+
+### sinus-lift/lateral
+- [[sinus-lift/lateral/pignataro-2008-ent-assessment-sinus-lift-candidates]] — ENT pre-operative risk stratification framework for sinus lift candidates (2008)
+- [[sinus-lift/lateral/kim-2026-collagen-membrane-fibrin-sinus-perforation]] — Resorbable collagen membrane + fibrin glue handle technique for Schneiderian membrane repair (2026)
+- [[sinus-lift/lateral/paetnukroh-2024-sinus-dhdtm-dbbm-rct]] — RCT: DHDTM vs DBBM for sinus floor augmentation — volumetric and implant stability outcomes (2024)
+- [[sinus-lift/lateral/kim-2007-maxillary-sinus-volume-ct-graft-placement]] — CT-based 3D measurement of maxillary sinus volume for graft material estimation (2007)
+
+### bone-regeneration
+- [[bone-regeneration/stephan-1999-anorganic-bovine-bone-osteoblastic-attachment]] — In vitro: anorganic bovine bone supports osteoblastic cell attachment and proliferation (1999)
+- [[bone-regeneration/jiang-1999-bovine-bone-mineral-growth-factors]] — Anorganic bovine bone mineral matrix modified with growth factors enhances bone formation (in vitro) (1999)
+- [[bone-regeneration/oh-2026-narrow-alveolar-ridge-splitting-miniplates]] — Modified multistaged alveolar ridge splitting with miniplates for narrow ridges: case series (2026)
+- [[bone-regeneration/esposito-2009-horizontal-vertical-bone-augmentation-cochrane]] — Cochrane SR: horizontal and vertical bone augmentation techniques for implant treatment (2009)
+
+### implants/mbl
+- [[implants/mbl/kumar-2021-marginal-bone-level-changes-meta-analysis]] — Meta-analysis of marginal bone level changes at dental implants across loading protocols (2021)
+- [[implants/mbl/salimi-2011-platform-switching-current-results]] — Platform switching: current results and trends in marginal bone preservation (2011)
+
+### implants/isq
+- [[implants/isq/gu-2025-inter-rater-reliability-implant-stability]] — Multi-method inter-rater reliability of ISQ measurements: ICC and agreement analysis (2025)
+
+### implants/short-narrow
+- [[implants/short-narrow/lombardo-2022-short-ultrashort-implants-internal-sinus-lift]] — 5-year retrospective: short/ultra-short implants with simultaneous internal sinus lift in atrophic maxilla (2022)
+
+### implants
+- [[implants/cunha-2008-implant-location-mandibular-rpd-fea]] — FEA: implant location in mandibular distal-extension RPD affects stress distribution and displacement (2008)
+
+### implants/soft-tissue
+- [[implants/soft-tissue/bhowmick-2022-flapless-conventional-soft-tissue-esthetics]] — Flapless vs conventional flap: soft tissue response and esthetics with titanium collar implants (2022)
+- [[implants/soft-tissue/song-2026-porcine-collagen-matrix-clinical-application]] — Clinical application of porcine-derived collagen matrix for peri-implant soft tissue augmentation: case series (2026)
+
+### suture-wound-closure
+- [[suture-wound-closure/kim-2017-palatal-releasing-incision-soft-tissue-closure]] — Simple palatal releasing incision technique for tension-free minimally invasive soft tissue closure: case report (2017)
