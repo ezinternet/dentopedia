@@ -13,6 +13,20 @@ source_collection: pubmed-abstract
 
 20년 후향적 데이터로 비생활치(Nonvital tooth, ETT) 라미네이트 실패 위험을 정량화한 가장 긴 관찰 기간 연구. 기존 위키 [[veneers/gresnigt-2019-ceramic-laminate-veneers-ids-11year]] 및 [[veneers/etienne-2025-ceramic-veneers-dentin-vitality-15year]]와 상반되는 결과(ETT 유의한 실패 위험 증가, P=0.0012)를 보여 — 진단 시 결과 불일치의 원인(재료·프로토콜 차이)을 이해하는 근거로 인제스트.
 
+## Three-line Summary
+
+Retrospective clinical study (Int J Prosthodont 2012; 84 patients, 318 silicate glass-ceramic porcelain laminate veneers, Innsbruck Medical University, treatment period 1987–2009, mean observation 118 ± 63 months) using Kaplan-Meier survival analysis and Cox proportional hazards regression.
+
+Estimated survival at 5/10/20 years: 94.4%/93.5%/82.93%; ceramic fracture was the dominant failure mode (44.83% of 29 failures); nonvital (ETT) teeth had significantly higher failure risk (p=0.0012), bruxism carried a 7.7× greater failure risk (p=0.0004), and smokers showed significantly more marginal discoloration (p<0.01).
+
+The ETT failure finding contradicts more recent studies using modern IDS adhesive protocols (Gresnigt 2019, Etienne 2025), suggesting era-specific material and technique differences explain the divergence; bruxism remains the strongest identifiable patient-level risk factor across all eras.
+
+## 세줄요약
+
+줄1: 후향적 임상 연구 (Int J Prosthodont 2012); 84명·318개 장석계 자기 라미네이트 비니어(Porcelain Laminate Veneer, PLV)·Innsbruck 의과대학·1987–2009·평균 관찰 118±63개월; Kaplan-Meier + Cox 비례위험 회귀.
+줄2: 5/10/20년 추정 생존율 94.4%/93.5%/82.93%; 주요 실패 원인 세라믹 파절(44.83%); 비생활치(Nonvital Tooth, ETT) 실패 위험 유의 증가(p=0.0012), 이갈이(Bruxism) 7.7배(p=0.0004), 흡연자 변연 변색 유의 증가(p<0.01).
+줄3: ETT 소견은 최신 연구(Gresnigt 2019·Etienne 2025)와 상충 — 구세대 장석계 소재·pre-즉시 상아질 봉쇄(Immediate Dentin Sealing, IDS) 접착 기법 차이로 해석; 이갈이는 시대와 무관한 최강 환자 측 위험 인자.
+
 ## One-line Summary
 
 Retrospective study (n=318 silicate glass-ceramic PLVs, 84 patients, up to 20 years) found estimated survival of 94.4%/93.5%/82.93% at 5/10/20 years; nonvital teeth significantly higher failure risk (p=0.0012) and bruxism 7.7× greater failure risk (p=0.0004).
