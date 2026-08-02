@@ -194,6 +194,61 @@ Beyond the interrupt-or-not question, three axes now carry practical weight: app
 - UFH 환자(대개 입원 중, 반감기 짧고 aPTT로 모니터링)는 LMWH 환자보다 주의. 입원 환자 case-mix라 외래 LMWH 환자로의 일반화는 제한적.
 - 근거 등급 주의: 초록 기반 인제스트(전문 미확보), 출혈 6건뿐이라 UFH-vs-LMWH·타이밍 신호는 소수 사건에 기댄 이변량 분석이며 보정 여부가 확인되지 않았다.
 
+### 2-5. 임플란트 수술 — Implant-Specific Considerations
+
+임플란트 수술은 발치보다 침습도가 높다(골 오스테오토미·판막 거상·종종 골 이식 동반). 이 오버뷰의 일반 원칙이 발치 데이터에 집중되어 있는 반면, 아래 3편은 임플란트 맥락의 근거다.
+
+**임플란트 수술: 항응고 상태는 금기가 아니다 (Madrid 2009)**
+
+[[drug/anticoagulants/madrid-2009-anticoagulants-oral-implant-therapy-sr]] — SR 19편(1966–2008): INR 2–4 범위의 경구항응고요법 (Oral Anticoagulation Therapy, OAT) 유지 상태에서 임플란트 식립은 금기가 아니며, INR 수치 자체는 출혈 예측 인자가 아니다. 발치와 마찬가지로 **국소 지혈제가 충분**하고 **중단·브리징 불필요**. DOAC 이전 시대 선구적 SR — 이후 문헌(Chahine 2019, Lee 2024)의 베이스라인.
+
+**절차 카테고리별 권고 (Chahine 2019)**
+
+[[drug/anticoagulants/chahine-2019-anticoagulation-dental-procedures-sr]] — SR 10편(5 RCT + 5 CCT, n=1,331): VKA·NOAC 지속이 안전; 헤파린 브리징은 출혈 증가만 야기. 8개 구강 처치 카테고리별 절차 특이적 권고를 제시:
+
+| 처치 카테고리 | 권고 요점 |
+|---|---|
+| 단순 발치 (1–3치) | VKA·NOAC 지속, 국소 지혈 |
+| 복잡 발치·다수 발치 | VKA INR 확인 후 지속; NOAC 당일 아침 생략 고려 |
+| 임플란트 식립 | VKA·NOAC 지속 — 중단/브리징 불필요 |
+| 골이식 동반 임플란트 | 침습도↑ → 처방의 상담 + 개별화 |
+| 치주 수술 | 중단 불필요; TXA 양치액 추가 |
+| 근관 치료 | 중단 불필요 |
+| 보존 처치 (충전·스케일링) | 중단 불필요 |
+| 악교정 수술 | 전신마취·대량 골절단 → 처방의·마취과 협진 필수 |
+
+**임플란트 수술 후 출혈 위험 인자 정량화 (Lee 2024)**
+
+[[drug/anticoagulants/lee-2024-postop-bleeding-anticoagulants-dentoalveolar-cohort]] — 후향 코호트(n=537, 연세대 치과병원 2016–2021): 전체 출혈 6.5%, 모든 출혈 **국소 처치로 조절**. 임플란트·발치 복합 코호트에서 출혈에 유의하게 기여한 인자:
+
+| 위험 인자 | OR (95% CI) | 의미 |
+|---|---|---|
+| 심방세동 (Atrial Fibrillation, AF) | **6.051** | 항응고 적응증 중 AF가 단연 최고 위험 |
+| VKA 복용 | **3.679** | DOAC·항혈소판보다 현저히 높음 |
+| 발치 + 골이식 동반 | p=0.016 | 침습도 복합 시 출혈 증가 |
+| 다수 임플란트 식립 | 유의 | 개수가 많을수록 위험 |
+| 상악(vs 하악) | p=0.032 | 상악 혈관 분포 차이 |
+| DOAC | — | VKA보다 낮음; 항혈소판과 유사 |
+
+**임플란트 임상 적용 요약:**
+
+```
+항응고 환자 임플란트 계획
+│
+▼
+단순 임플란트 식립 (골이식 없음, 단일)
+→ §2-2 원칙 그대로 (단순 발치와 동일 관리)
+
+복합 임플란트 수술 (골이식 + 다수 식립 또는 상악)
+→ §2-2 "당일 아침 DOAC 생략" 적용 + 처방의 상담
+→ AF 기저질환 환자: 위험 가장 높음 (OR 6.051) — 처방의 필수 협진
+→ VKA 환자: INR 확인 필수; INR ≤3.5 진행, >4.0 연기
+
+모든 임플란트 환자:
+→ 중단·브리징 불필요 (Madrid 2009 + Chahine 2019 일관)
+→ 출혈 시 국소 처치로 조절 가능 (Lee 2024: 전 사례 국소 지혈 성공)
+```
+
 ---
 
 ## 3. 국소 지혈제 선택 — 근거 기반 매트릭스
@@ -404,6 +459,11 @@ TXA 제형(양치액·분말·병용·거즈), 제제 간 head-to-head 비교, �
 - [[drug/anticoagulants/yari-2023-bleeding-after-dental-extraction]] — 전향 (n=100, PCI ≤1년): 단일 vs 이중 항혈소판 비중단 발치 출혈 NS, 전부 국소 조절. (prospective, 2023) — high-risk recent-PCI evidence for §2-3.
 - [[drug/anticoagulants/al-suliman-2025-surgicel-gelfoam-post-extraction-bleeding-anticoagulant]] — 전향 split-mouth (40명): 항응고 환자 발치와에서 Surgicel(oxidized cellulose) > Gelfoam(gelatin sponge). (prospective, 2025) — dressing-choice evidence for §3.
 - [[drug/anticoagulants/patrono-2024-low-dose-aspirin-prevention-atherosclerotic]] — State-of-the-art narrative review of 30 years of low-dose aspirin (75–100 mg/day) evidence: irreversible platelet COX-1 acetylation suppresses thrombo … (narrative-review, 2024)
+
+### 임플란트 특이적 근거 (§2-5)
+- [[drug/anticoagulants/madrid-2009-anticoagulants-oral-implant-therapy-sr]] — SR 19편(1966–2008): INR 2–4 OAT 유지 상태 임플란트 식립 금기 아님; INR 수치≠출혈 예측; 국소 지혈 충분. Pre-DOAC era landmark. (sr, 2009)
+- [[drug/anticoagulants/chahine-2019-anticoagulation-dental-procedures-sr]] — SR 10편(5 RCT+5 CCT, n=1,331): VKA·NOAC 지속 안전; 헤파린 브리징 출혈 증가만; 8 처치 카테고리별 권고 (임플란트 포함). (sr, 2019)
+- [[drug/anticoagulants/lee-2024-postop-bleeding-anticoagulants-dentoalveolar-cohort]] — 후향 코호트(n=537, 연세대): 전체 출혈 6.5% 전원 국소 조절; AF OR=6.051·VKA OR=3.679 최대 위험; 발치+골이식·다수 임플란트·상악이 시술 위험인자; DOAC≈항혈소판<VKA. (retrospective, 2024)
 
 ### SR·가이드라인 (1차 근거)
 - [[drug/anticoagulants/inchingolo-2024-anticoagulation-therapy-dental-practice-sr]] — SR 25편: VKA·DOAC·항혈소판 중단 불필요; TXA 1차 지혈
