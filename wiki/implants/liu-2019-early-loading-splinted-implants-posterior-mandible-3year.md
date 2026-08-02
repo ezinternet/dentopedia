@@ -16,6 +16,16 @@ relations:
     target: zhou-2016-early-loading-splinted-implants-posterior-mandible-1year
 ---
 
+## Three-line Summary
+Prospective multicenter case series from three Chinese centers followed 40 subjects (92 implants; OsseoSpeed TX, fluoride-modified nanostructure surface) with early loading (6–8 weeks) of splinted screw-retained fixed prostheses in the posterior mandible over 36 months.
+Implant survival was 100% at 3 years, and mean marginal bone level changed by +0.23 ± 0.48 mm (gain, p=0.00061 vs. loading baseline), with statistically significant bone gain confirmed at 12, 24, and 36 months.
+Early loading of splinted fluoride-modified implants in posterior mandible appears durable at 3 years, but the absence of a control group and single-brand restriction limit generalizability beyond this specific system.
+
+## 세줄요약
+줄1: 전향적 다기관 증례 연구 (Prospective Multicenter Case Series) — 3개 중국 기관, 환자 40명(임플란트 92개), 불화물 개질 나노구조 표면 임플란트 (OsseoSpeed TX)를 하악 구치부에 식립 후 6–8주 조기부하 (Early Loading, EL) 스플린팅 고정성 보철물, 36개월 추적.
+줄2: 임플란트 생존율 (Implant Survival Rate) 100%(92/92); 36개월 변연골 수준 (Marginal Bone Level, MBL) 변화 +0.23 ± 0.48 mm(골 증가, p=0.00061) — 12·24·36개월 전 시점에서 통계적으로 유의한 골 증가 확인.
+줄3: 불화물 개질 표면의 스플린팅 조기부하 임플란트는 3년간 안전하고 안정적이나, 대조군 없음 및 단일 브랜드 제한으로 타 시스템 일반화에는 주의가 필요하다.
+
 ## One-line Summary
 Prospective multicenter (n=40 subjects, 92 implants, 3-year): 100% survival; mean MBL gain of +0.23 mm at 36 months confirming long-term safety of early loading protocol for fluoride-modified splinted implants in posterior mandible.
 
