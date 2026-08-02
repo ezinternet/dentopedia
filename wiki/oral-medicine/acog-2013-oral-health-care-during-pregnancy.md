@@ -13,6 +13,18 @@ source_collection: external
 tags: [pregnancy, oral-health, ACOG, periodontal, safety, consensus]
 ---
 
+## Three-line Summary
+ACOG Committee Opinion No. 569 (2013), a multidisciplinary consensus statement by ACOG, ADA, HRSA, and the National Maternal and Child Oral Health Resource Center, synthesizes published literature and meta-analyses on oral health throughout pregnancy; at publication, 56% of US women had not visited a dentist during pregnancy (2007–2009 data).
+
+Dental care—including radiographs, local anesthesia, and most medications—is endorsed as safe across all trimesters; periodontal treatment during pregnancy does NOT reduce preterm birth or low birth weight based on multiple meta-analyses; endocarditis prophylaxis is limited to AHA highest-risk cardiac patients only.
+
+Untreated oral disease poses greater risk to mother and fetus than dental treatment itself; maternal-to-infant Streptococcus mutans transmission via utensil sharing is a modifiable caries risk factor warranting routine counseling during prenatal dental visits.
+
+## 세줄요약
+줄1: ACOG Committee Opinion No. 569 (2013), 미국산부인과학회(ACOG)·미국치과의사협회(ADA)·HRSA 다학제 합의문; 발표 당시 미국 임산부 56%가 임신 중 치과 미방문(2007–2009).
+줄2: 치과방사선촬영·국소마취(Local Anesthesia)·대부분의 치과 약물이 전 임신 기간 안전; 임신 중 치주 치료(Periodontal Treatment)는 조산(Preterm Birth)·저체중아 감소 효과 없음(다수 메타분석); 감염성 심내막염 예방적 항생제(Endocarditis Prophylaxis)는 AHA 최고위험 환자에게만.
+줄3: 치료하지 않은 구강 질환이 치과 치료 자체보다 모태·태아에 더 큰 위험; 모자 간 뮤탄스균(Streptococcus mutans) 식기 공유 전파는 산전 치과 방문 시 상담으로 예방 가능한 우식 위험 인자.
+
 ## One-line Summary
 ACOG Committee Opinion No. 569 (2013) endorses dental care safety throughout pregnancy including radiographs, local anesthesia, and most medications, and concludes that untreated oral disease poses greater risk than dental treatment; periodontal treatment during pregnancy does not reduce preterm birth.
 
