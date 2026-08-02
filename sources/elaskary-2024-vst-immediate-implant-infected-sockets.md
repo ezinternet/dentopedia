@@ -13,6 +13,20 @@ source_collection: external
 
 감염 소켓에서의 즉시 식립 근거를 보강하기 위해 인제스트. [[immediate-implant/ebrahim-2026-vestibular-socket-therapy-immediate-implant-rct]]의 VST RCT와 짝을 이루며, 감염 type II 소켓에서 VST + 6-day protocol의 1년 코호트 데이터를 제공.
 
+## Three-line Summary
+
+Prospective cohort study (BMC Oral Health 2024; n=26 patients, 41 implants, 1-year follow-up; Group I: 13 patients/19 infected Elian Type II maxillary sockets; Group N: 13 patients/21 non-infected sockets; single operator, Alexandria, Egypt) comparing vestibular socket therapy (VST) + 6-day decontamination protocol for immediate implant placement.
+
+100% implant survival in both groups; facial bone thickness increased significantly over time in both (apical gain: infected 2.4 mm, non-infected 1.63 mm); no significant between-group differences in bone thickness or mucosal levels, except mesial papilla recession was significantly greater in the non-infected group (p<0.05).
+
+The 6-day protocol (metronidazole irrigation + temporary root reimplantation) effectively cleared infection before VST placement; small sample, single-operator design, 1-year follow-up, and non-randomized cohort design constrain generalizability.
+
+## 세줄요약
+
+줄1: 전향적 코호트 (BMC Oral Health 2024); n=26명·임플란트 41개·1년 추적; 감염군(Group I, 13명/19 sites) vs 비감염군(Group N, 13명/21 sites) 상악 Elian Type II 소켓에서 전정접근 소켓 치료(Vestibular Socket Therapy, VST) + 6-day 소독 프로토콜 즉시 식립.
+줄2: 양군 임플란트 생존율 100%; 협측 골두께 양군 모두 유의하게 증가(apical: 감염군 2.4 mm, 비감염군 1.63 mm); 골두께·점막 수준 군간 유의차 없음 — mesial papilla 후퇴만 비감염군에서 유의하게 더 큼(p<0.05).
+줄3: 6-day 프로토콜(메트로니다졸 세척 + 임시 치근 재식립)이 감염 type II 소켓 즉시 식립 전처치에 효과적임을 지지; 소표본·단일 술자·1년 추적·비무작위 코호트 설계로 일반화 제한.
+
 ## One-line Summary
 
 Prospective cohort (n=26 patients, 41 implants, 1 year) comparing VST + 6-day protocol for immediate implants in infected vs non-infected type II maxillary sockets: 100% survival in both groups with minimal soft/hard tissue differences.
