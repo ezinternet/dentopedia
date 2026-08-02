@@ -12,6 +12,16 @@ source_collection: external
 ## Why Ingested
 코르티코스테로이드 용량 최적화 근거. 기존 [[drug/markiewicz-2008-corticosteroids-reduce-postoperative-morbidity-after-third-molar-surgery]] 및 [[drug/almeida-2019-efficacy-corticosteroids-versus-placebo-impacted]]와 함께 메틸프레드니솔론 용량별 효과 비교 데이터 공백을 메움.
 
+## Three-line Summary
+Double-blind split-mouth RCT (n=52) conducted at Aalborg University Hospital (Denmark) compared intraoperative masseter IM injection of methylprednisolone 20, 30, or 40 mg vs placebo saline in patients with bilateral impacted mandibular third molars, with follow-up at days 1, 3, 7, and 30.
+No significant differences were detected between any methylprednisolone dose and placebo for pain (VAS), trismus (interincisal distance), or QoL (OHIP-14); increasing age and smoking combined with longer surgery duration were independently stronger predictors of worse outcomes (p=0.00).
+The null result across all three doses argues against routine methylprednisolone for postoperative morbidity reduction in third molar surgery, with patient factors appearing more clinically relevant than corticosteroid dosing.
+
+## 세줄요약
+줄1: 덴마크 알보르 대학병원의 이중맹검 분할구강 (Split-mouth) 무작위대조시험 (Randomized Controlled Trial, RCT) (n=52)에서 양측 하악 사랑니 발치 중 교근 (Masseter) 내 메틸프레드니솔론 (Methylprednisolone) 20/30/40 mg 또는 위약을 주사하고 1·3·7·30일 추적했다.
+줄2: 어느 용량에서도 위약 대비 통증(시각통증척도, Visual Analog Scale, VAS)·개구제한 (Trismus)·삶의 질 (OHIP-14) 차이가 유의하지 않았으며, 나이 증가와 흡연+수술 시간이 더 강한 예후 인자였다(p=0.00).
+줄3: 세 용량 모두 null 결과를 보여 용량 증가 가설을 지지하지 않으며, 사랑니 술후 이환율 감소를 위한 메틸프레드니솔론의 일상적 사용에 의문을 제기한다.
+
 ## One-line Summary
 Double-blind split-mouth RCT (n=52) comparing methylprednisolone 20/30/40 mg IM vs placebo found no significant reduction in pain, trismus, or QoL after mandibular third molar surgery, with age and smoking as stronger predictors.
 
