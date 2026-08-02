@@ -13,6 +13,20 @@ source_collection: external
 
 돼지골(Porcine Bone Xenograft, PBX)과 소골(Bovine Bone Xenograft, BBX) 간 비교 SR+MA로 인제스트. [[bone-regeneration/abushama-2025-xenograft-allograft-bone-graft-implant]]는 이종골 vs 동종골 전반을 다루나 PBX·BBX 직접 비교는 부재 — 이 논문이 그 격차를 채운다. 상악동거상술(Maxillary Sinus Floor Augmentation, MSFA)·치조제 보존술(Alveolar Ridge Preservation, ARP) 두 적응증 모두 포함.
 
+## Three-line Summary
+
+Systematic review and meta-analysis (PROSPERO CRD42024628683; Int J Implant Dent 2025; 10 studies, 452 sites: BBX 239 [MSFA 51 + ARP 188], PBX 213 [MSFA 51 + ARP 162]; PubMed, Cochrane, Web of Science, Scopus to April 2025; PRISMA-compliant) directly comparing porcine bone xenograft (PBX) vs bovine bone xenograft (BBX) in maxillary sinus floor augmentation and alveolar ridge preservation.
+
+Primary outcome newly formed bone (NFB) showed no significant difference (WMD=1.5, 95% CI −1.46–4.46, p=0.321, I²=44.6%); all secondary histomorphometric and radiographic outcomes (residual bone graft, connective tissue, vertical/horizontal/volume reduction) were also non-significant between groups.
+
+PBX is clinically comparable to BBX and represents a viable alternative particularly where bovine materials are culturally or religiously contraindicated; well-designed RCTs with long-term implant survival and graft resorption endpoints are needed.
+
+## 세줄요약
+
+줄1: 체계적 고찰+메타분석(PROSPERO CRD42024628683; Int J Implant Dent 2025); 10개 연구·452 sites: 소골(Bovine Bone Xenograft, BBX) 239(MSFA 51+ARP 188)·돼지골(Porcine Bone Xenograft, PBX) 213(MSFA 51+ARP 162); PubMed·Cochrane·Web of Science·Scopus 2025년 4월까지; PRISMA 준수.
+줄2: 1차 지표 신생골 형성률(Newly Formed Bone, NFB): 유의차 없음(WMD=1.5, 95% CI −1.46–4.46, p=0.321, I²=44.6%); 잔존 이식재·결합조직·수직/수평/용적 감소 전 2차 지표도 유의차 없음.
+줄3: PBX는 상악동 저부 거상술(Maxillary Sinus Floor Augmentation, MSFA)·치조제 보존술(Alveolar Ridge Preservation, ARP)에서 BBX의 임상적 대안; 종교·문화적 제한 상황에서 활용 근거 제공; 장기 임플란트 생존율·이식재 흡수 RCT 추가 필요.
+
 ## One-line Summary
 
 SR+MA (10 studies, MSFA+ARP, 452 sites) comparing porcine vs bovine bone xenografts: no significant difference in new bone formation, residual graft, connective tissue, or ridge dimension changes.
