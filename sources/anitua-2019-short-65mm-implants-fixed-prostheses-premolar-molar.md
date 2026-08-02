@@ -12,6 +12,14 @@ source_collection: external
 ## Why Ingested
 6.5mm 단축 임플란트의 즉시 부하 및 스플린팅 파트너 길이가 임상 결과에 미치는 영향을 후향적으로 분석. [[implants/short-narrow/anitua-2022-short-vs-longer-implants-single-crown]] 및 [[implants/short-narrow/barausse-2024-4mm-short-implants-posterior-atrophic-8year]]의 단축 임플란트 근거 체계에 추가하며, 스플린팅 인접 임플란트 길이 차이에 따른 변연골 소실 패턴을 다룬다.
 
+## Three-line Summary
+Retrospective cohort (n=16 patients, 48 implants, all 6.5mm BTI implants) comparing short-short (SS: both 6.5mm) versus short-long (SL: one 6.5mm + one longer) splinting configurations for immediately loaded two-implant fixed partial prostheses in premolar-molar regions over a mean 14-month follow-up at a private BTI center in Spain. Implant and prosthesis survival was 100% in both groups; distal marginal bone loss was significantly lower in the SS group (0.37 mm) than in the SL group (0.94 mm, p<0.05), with no significant difference in mesial bone loss. Splinting two equally short implants minimizes distal marginal bone loss compared to mixed short-long configurations, supporting biomechanically matched pairing; the small retrospective design, short follow-up (14 months), and author conflict of interest (BTI Scientific Director) limit conclusions.
+
+## 세줄요약
+줄1: 후향적 코호트 (Retrospective Cohort)(n=16, 임플란트 48개, 6.5mm 단축 임플란트 (Short Implant)): 소구치-대구치 부위 즉시 부하 (Immediate Loading) 2임플란트 고정성 국소의치 (Fixed Partial Prosthesis, FPD)에서 단축-단축 (SS) vs 단축-장 (SL) 스플린팅 구성 비교(평균 14개월, BTI, 스페인).
+줄2: 양군 임플란트·보철 생존율 100%; 원심 변연골 소실 (Distal Marginal Bone Loss) SS 0.37mm < SL 0.94mm(p<0.05); 근심 변연골 소실에는 유의차 없음.
+줄3: 동일 길이 단축 임플란트 스플린팅(SS)이 혼합 길이(SL)보다 원심 변연골 보존에 유리하나, 소규모 후향적 설계·단기 추적(14개월)·저자 이해충돌(BTI 과학이사)이 결론의 강도를 제한.
+
 ## One-line Summary
 Retrospective (n=16 patients, 48 implants, 6.5mm short): 100% implant and prosthesis survival at mean 14 months; short-short splinting showed significantly less distal marginal bone loss (0.37 mm) than short-long splinting (0.94 mm).
 
