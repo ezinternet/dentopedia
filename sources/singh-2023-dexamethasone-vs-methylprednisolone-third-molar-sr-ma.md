@@ -12,6 +12,16 @@ source_collection: external
 ## Why Ingested
 덱사메타손 vs 메틸프레드니솔론 직접 비교 SR+MA. [[drug/liborio-2025-methylprednisolone-third-molar-sr-ma]] 결론(덱사메타손이 trismus에 우월)의 선행 근거로 활용.
 
+## Three-line Summary
+PROSPERO-registered, PRISMA-compliant SR+MA (CRD42020161341) of 7 RCTs compared preemptive dexamethasone vs methylprednisolone specifically in mandibular third molar surgery, searching six databases including PubMed, CINAHL, Scopus, and Cochrane Central.
+Dexamethasone and methylprednisolone were equivalent for pain, rescue analgesia, and swelling, but dexamethasone was significantly superior for trismus reduction at postoperative day 2 (SMD −0.69 mm, 95% CI −1.01 to −0.38, p<0.0001).
+The trismus advantage of dexamethasone was the only differentiating outcome, with overall evidence rated low to moderate due to heterogeneity and unclear risk of bias in 4 of 7 studies, warranting larger standardized RCTs.
+
+## 세줄요약
+줄1: PROSPERO 등록(CRD42020161341)·PRISMA 준수 체계적 문헌고찰+메타분석 (Systematic Review + Meta-Analysis, SR+MA) (7개 무작위대조시험, Randomized Controlled Trial, RCT)에서 하악 사랑니 수술 시 선제적 덱사메타손 (Dexamethasone) vs 메틸프레드니솔론 (Methylprednisolone)을 PubMed·CINAHL·Scopus 등 6개 데이터베이스에서 비교했다.
+줄2: 통증·구제 진통제·부종은 두 약물 간 동등했으나, 덱사메타손이 술후 2일 개구제한 (Trismus) 감소에서 메틸프레드니솔론보다 통계적으로 유의하게 우월했다(표준화 평균 차이, Standardized Mean Difference, SMD −0.69 mm, 95% CI −1.01 to −0.38, p<0.0001).
+줄3: 개구제한이 유일한 차별 결과이나 전체 근거 질이 낮음-중등도이며 7개 중 4개 연구에서 비뚤림 위험이 불명확해 표준화된 대규모 무작위대조시험이 필요하다.
+
 ## One-line Summary
 SR+MA of 7 RCTs (PROSPERO CRD42020161341) found dexamethasone and methylprednisolone equivalent for pain, swelling, and rescue analgesia, but dexamethasone significantly reduced trismus more than methylprednisolone at day 2 (SMD −0.69 mm, 95% CI −1.01 to −0.38, p<0.0001).
 
