@@ -13,6 +13,14 @@ source_collection: external
 tags: [GBR, dehiscence, synthetic-bone-substitute, DBBM, biphasic-calcium-phosphate, RCT]
 ---
 
+## Three-line Summary
+Multicenter noninferiority RCT (n=49) comparing simultaneous guided bone regeneration at peri-implant dehiscences using synthetic bone substitute (biphasic calcium phosphate, SBS) versus deproteinized bovine bone mineral (DBBM), both combined with a bioabsorbable collagen membrane, across two centers in Seoul and Madrid. Defect height reduction was 74.5% (SBS) versus 63.4% (DBBM) at 6-month re-entry (p=0.216, noninferiority confirmed); complete defect resolution reached 62.5% versus 44%, and marginal bone levels remained stable through 1 year in both groups. Biphasic calcium phosphate is a clinically valid xenograft-free alternative for GBR at dehiscences, relevant for patients with religious, ethical, or disease-transmission concerns, though the small sample (n=49) and retrospective trial registration limit confidence.
+
+## 세줄요약
+줄1: 다기관 비열등성 무작위대조시험 (Randomized Controlled Trial, RCT)(n=49): 임플란트 식립 시 발생하는 협측 탈피결손 (Dehiscence)에서 합성골 대체재 (Synthetic Bone Substitute, SBS, 이상성 인산칼슘)와 탈단백 우골 무기질 (Deproteinized Bovine Bone Mineral, DBBM)을 이용한 동시 골유도재생술 (Guided Bone Regeneration, GBR)을 서울·마드리드 2기관에서 비교.
+줄2: 6개월 재진입 시 결손고 감소율 74.5%(SBS) vs 63.4%(DBBM), p=0.216으로 비열등성 확인; 완전결손 해소율 62.5% vs 44%(유의차 없음); 양군 모두 1년 변연골 (Marginal Bone) 안정.
+줄3: 이상성 인산칼슘 합성골은 종교·윤리·안전 우려가 있는 환자에서 이종골을 대체할 수 있는 임상적으로 유효한 선택지이나, 소규모(n=49) 및 소급 등록이 근거 강도를 제한.
+
 ## One-line Summary
 Multicenter noninferiority RCT (n=49): synthetic bone substitute (biphasic calcium phosphate) is noninferior to DBBM for GBR at peri-implant dehiscences; defect resolution 74.5% (SBS) vs. 63.4% (DBBM), p=0.216; marginal bone stable at 1-year in both groups.
 
