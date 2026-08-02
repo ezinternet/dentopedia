@@ -18,6 +18,16 @@ relations:
     target: chahine-2019-anticoagulation-dental-procedures-sr
 ---
 
+## Three-line Summary
+Retrospective cohort study (n=537) at Yonsei University Dental Hospital (2016–2021) using a standardized common data model to analyze post-operative bleeding in anticoagulant patients undergoing dentoalveolar surgery (extraction, periodontal flap, implant) across maintenance versus discontinuation groups.
+Overall bleeding occurred in 6.5% (35/537); within the maintenance group, atrial fibrillation (OR=6.051) and vitamin K inhibitors (OR=3.679) were the dominant independent systemic risk factors, while extraction combined with bone grafting, multiple implants, and maxillary arch involvement were significant procedure-related risks.
+All 35 bleeding episodes were controlled with local hemostatic measures; DOACs showed bleeding rates comparable to antiplatelet agents, confirming a safer profile than VKI in the maintenance setting.
+
+## 세줄요약
+줄1: 연세대학교 치과대학병원 후향적 코호트 (Retrospective Cohort) 연구 (n=537, 2016–2021): 공통 데이터 모델 (Common Data Model, CDM)을 이용해 항응고제 (Anticoagulant) 복용 환자의 치조외과술 (Dentoalveolar Surgery) 후 출혈 위험인자 분석, 유지군 (n=245)·중단군 (n=292) 비교.
+줄2: 전체 출혈률 6.5%; 항응고제 유지군에서 심방세동 (Atrial Fibrillation, AF) (OR=6.051)·비타민K억제제 (Vitamin K Inhibitor, VKI) (OR=3.679)가 최고 독립 위험인자; 발치+골이식 (p=0.016)·다수 임플란트·상악 수술 (p=0.032)은 술식 관련 독립 위험인자.
+줄3: 전체 출혈 사례 국소 지혈처치로 해결; 직접구강항응고제 (Direct Oral Anticoagulant, DOAC)는 항혈소판제 (Platelet Aggregation Inhibitor, PAI)와 유사 출혈률로 유지군에서 VKI보다 안전 프로파일 확인.
+
 ## One-line Summary
 Retrospective cohort (n=537, Yonsei): 6.5% post-op bleeding overall; atrial fibrillation (OR=6.05) and vitamin K inhibitors (OR=3.68) highest risk in maintenance group; extraction+bone graft and multiple implants increase procedure risk.
 
