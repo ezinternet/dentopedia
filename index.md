@@ -3946,3 +3946,13 @@ tags: []
 
 ### suture-wound-closure
 - [[suture-wound-closure/kim-2017-palatal-releasing-incision-soft-tissue-closure]] — Simple palatal releasing incision technique for tension-free minimally invasive soft tissue closure: case report (2017)
+
+## Batch ingest (added 2026-08-02) — DeepSeek → Claude 하이브리드 인제스트 (자가골이식 공여부 6편)
+
+### bone-regeneration
+- [[bone-regeneration/mckenna-2022-autogenous-bone-graft-site-implant-survival]] — McKenna 2022 · sr+ma · 장골능 vs 구강내 자가골이식 임플란트 생존율(23편): 구강내 우세(24개월 98.2% vs 85.9%, p<0.001), 공여부 합병증도 ICG↑
+- [[bone-regeneration/donkiewicz-2021-survival-rates-implants-autogenous-allogeneic]] — Donkiewicz 2021 · sr · 자가골 블록(AUBB) vs 동종골 블록(ALBB) 임플란트 생존율(100편): 96.23% vs 97.66%(p=0.54 NS) — ALBB가 AUBB의 실행 가능한 대안
+- [[bone-regeneration/daoud-2024-spontaneous-healing-retromolar-donor-site]] — Daoud 2024 · prospective(n=20) · 하악 후구치 공여부 자발치유 3D-CBCT 정량: 6개월 64.5%, 12개월 89.2%; 골밀도 102.5→453.9 HU 회복 — 추가 이식 불필요 지지
+- [[bone-regeneration/park-2022-previously-grafted-sinus-intraoral-donor]] — Park 2022 · case-report · 16년 전 DBBM 상악동이식 부위를 구강내 공여부로 활용한 GBR: 잔존 DBBM 3.6%, 신생골 96.4%; 2년 변연골 안정
+- [[bone-regeneration/park-2022-lateral-sinus-bony-window-gbr]] — Park 2022 · case-report(n=4) · 상악동 측방접근 시 골창을 구강내 공여부로 GBR 활용: 4증례 6개월 재진입 전례 완전 골충전, 12–24개월 안정
+- [[bone-regeneration/zufia-2022-maxillary-tuberosity-block-autograft-applications]] — Zufia 2022 · case-report(n=4) · 상악 결절 블록 자가이식편(삼중이식편 포함): 4증례 최대 6년 골·연조직 안정, 공여부 합병증 0
