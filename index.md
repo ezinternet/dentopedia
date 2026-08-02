@@ -3956,3 +3956,4 @@ tags: []
 - [[bone-regeneration/park-2022-previously-grafted-sinus-intraoral-donor]] — Park 2022 · case-report · 16년 전 DBBM 상악동이식 부위를 구강내 공여부로 활용한 GBR: 잔존 DBBM 3.6%, 신생골 96.4%; 2년 변연골 안정
 - [[bone-regeneration/park-2022-lateral-sinus-bony-window-gbr]] — Park 2022 · case-report(n=4) · 상악동 측방접근 시 골창을 구강내 공여부로 GBR 활용: 4증례 6개월 재진입 전례 완전 골충전, 12–24개월 안정
 - [[bone-regeneration/zufia-2022-maxillary-tuberosity-block-autograft-applications]] — Zufia 2022 · case-report(n=4) · 상악 결절 블록 자가이식편(삼중이식편 포함): 4증례 최대 6년 골·연조직 안정, 공여부 합병증 0
+- [[bone-regeneration/sethi-2020-onlay-bone-grafts-iliac-crest-retrospective]] — Sethi 2020 · retrospective(n=173, 869임플란트) · 장골능 피개골이식 25년 최대 추적: 전체 생존율 95%±2.7%, 200개월 >92.3%; 공여부 합병증 혈청종뿐
