@@ -19,6 +19,16 @@ relations:
 synthesized_in: overviews/drug-analgesics-postop-pain-overview
 ---
 
+## Three-line Summary
+PRISMA-compliant, PROSPERO-registered SR+MA (CRD42024512561) of 9 RCTs (2013–2023), with 5 meta-analyzed, specifically evaluated methylprednisolone in impacted third molar surgery — the first SR+MA isolating this drug from other corticosteroids.
+Methylprednisolone significantly reduced trismus at 48h (p<0.01, I²=0%) and 7d (p<0.05, I²=0%) but had no significant effect on pain (p=0.85 at 24h), and dexamethasone outperformed methylprednisolone for trismus reduction in head-to-head comparison.
+With zero heterogeneity for trismus outcomes and no adverse effects reported across included studies, the review supports methylprednisolone for trismus and edema management while recommending dexamethasone as preferred when trismus reduction is the primary clinical goal.
+
+## 세줄요약
+줄1: PRISMA 준수·PROSPERO 등록(CRD42024512561) 체계적 문헌고찰+메타분석 (Systematic Review + Meta-Analysis, SR+MA) (9개 무작위대조시험, Randomized Controlled Trial, RCT; 5개 정량 분석)에서 매복 사랑니 수술에 대한 메틸프레드니솔론 (Methylprednisolone) 효과를 해당 약물에 특화하여 처음으로 평가했다.
+줄2: 메틸프레드니솔론은 48시간(p<0.01, I²=0%)·7일(p<0.05, I²=0%) 개구제한 (Trismus) 감소에 유의한 효과를 보였으나 통증 감소 효과는 없었으며(p=0.85), 개구제한 조절에서 덱사메타손 (Dexamethasone)에 열등했다.
+줄3: 개구제한 결과의 이질성이 I²=0%로 완전 동질적이고 부작용 보고가 없어 안전성이 확인되나, 개구제한이 주요 임상 목표라면 덱사메타손을 우선 선택하도록 권장한다.
+
 ## One-line Summary
 SR+MA of 9 RCTs (PROSPERO CRD42024512561) found methylprednisolone significantly reduces trismus at 48h (p<0.01, I²=0%) and 7d (p<0.05, I²=0%) but not pain after third molar surgery; dexamethasone outperforms methylprednisolone for trismus control.
 
