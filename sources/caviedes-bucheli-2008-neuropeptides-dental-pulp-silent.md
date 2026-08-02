@@ -18,6 +18,20 @@ pdf_filename: "caviedes-bucheli-2008-neuropeptides-dental-pulp-silent.pdf"
 
 Foundational 2008 narrative review by Caviedes-Bucheli et al. — the earliest anchor paper in the series that this same group extended in 2025 (endogenous opioid system in orthodontic pain) and 2026 (Neuropeptide Y in dental pulp) IEJ reviews. Establishes the evidence base for five key neuropeptides (SP, CGRP, NKA, NPY, VIP) in dental pulp physiology, neurogenic inflammation, and periapical pathology. Essential for contextualizing the later papers' mechanistic claims. **Abstract-only: full text requires login; extracted from abstract + reference list.** See [[endodontics/anatomy/caviedes-bucheli-2026-neuropeptide-y-dental-pulp]].
 
+## Three-line Summary
+
+Narrative review (J Endod 2008; abstract-only access) synthesizing evidence on five principal dental pulp neuropeptides — Substance P (SP), Calcitonin Gene-Related Peptide (CGRP), Neurokinin A (NKA), Neuropeptide Y (NPY), and Vasoactive Intestinal Peptide (VIP) — covering pulp physiology, release during dental procedures, neuroplasticity, receptor pharmacology, and therapeutic targets.
+
+These neuropeptides govern normal pulp homeostasis and vascular regulation; their release during operative stimuli and pulpal injury initiates neurogenic inflammation that can cascade to pulp necrosis and periapical lesion expansion; receptor antagonists (NK1, NK2, CGRP-R) are proposed as pharmacologic targets for controlling pulpal and periapical inflammation.
+
+This 2008 foundational review established the neuropeptide framework that the same group extended to the endogenous opioid system (2025) and NPY specifically (2026); a key limitation is the non-systematic narrative design with literature coverage through approximately 2007.
+
+## 세줄요약
+
+줄1: 서사 문헌 고찰 (J Endod 2008; 초록만 접근); 치수의 5대 신경펩타이드(Neuropeptide) — 물질 P(Substance P, SP)·칼시토닌 유전자 관련 펩타이드(CGRP)·뉴로키닌 A(NKA)·뉴로펩타이드 Y(NPY)·혈관작용장폴리펩타이드(VIP) — 생리·방출·가소성·수용체 약리 및 치료 표적 종합.
+줄2: 신경펩타이드는 정상 치수 항상성·혈관 조절을 담당하며, 치과 처치·손상 시 방출되어 신경성 염증(Neurogenic Inflammation)을 개시; 연쇄 작용은 치수 괴사와 근첨부 병소 성장으로 이어질 수 있음; NK1·NK2·CGRP 수용체 길항제가 약리적 표적으로 제시.
+줄3: 이 2008년 기초 리뷰는 동일 저자군이 내인성 아편양 체계(2025)·뉴로펩타이드 Y(2026)로 확장한 신경펩타이드 체계의 출발점; 비체계적 서사 설계·2007년경까지의 문헌만 반영이 주요 한계.
+
 ## Paper Type
 
 Narrative review — comprehensive synthesis of neuropeptide biology in dental pulp, covering physiology, release during dental procedures, neuroplasticity, receptor pharmacology, and therapeutic targets.
