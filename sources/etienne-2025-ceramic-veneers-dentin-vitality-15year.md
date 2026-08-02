@@ -13,6 +13,20 @@ source_collection: pubmed-abstract
 
 근관치료 치아 라미네이트 비니어 적용 가능성에 대한 가장 최신(2025) 후향적 데이터. 기존 위키 [[veneers/gresnigt-2019-ceramic-laminate-veneers-ids-11year]]와 함께 ETT 생존율을 생활치와 비교한 중장기 임상 근거 쌍을 구성하며, OR=1.68(ETT 실패 위험)과 dentin exposure 3단계 층화 OR(3.47/4.67) 수치를 위키에 추가.
 
+## Three-line Summary
+
+Retrospective single-center study (JERD 2025; 189 patients, 672 lithium disilicate ceramic laminate veneers, single operator, 1–15 years, Strasbourg); dentin exposure categorized as GA1 (enamel only, n=290), GA2 (<30% dentin, n=306), GA3 (>30% dentin, n=76); ETT n=38 included; Kaplan-Meier with Odds Ratio analysis.
+
+15-year cumulative estimated survival 96% (observed 98.4%); dentin exposure >30% significantly increased failure risk (GA1 vs. GA3 p=0.033, OR=4.67); ETT survival 95.0% vs. vital 96.0% (p=0.289, NOT significant, OR=1.68); newer amine-free dual-cure cement trended toward better performance (99.6% vs. 95.5%).
+
+Enamel preservation is the primary survival determinant for ceramic laminate veneers; ETT is not a significant clinical contraindication by survival criteria but warrants careful case selection given OR=1.68, and esthetic complications from discoloration require dedicated management.
+
+## 세줄요약
+
+줄1: 단일센터 후향적 연구 (JERD 2025); 189명·672개 리튬 디실리케이트(Lithium Disilicate, LDS) 라미네이트 비니어(Laminate Veneer, LV)·단일 술자·1–15년·Strasbourg; 상아질 노출 3단계(GA1 에나멜만/GA2 <30%/GA3 >30%) 분류; ETT n=38 포함; Kaplan-Meier + Odds Ratio 분석.
+줄2: 15년 추정 누적 생존율 96%(관찰 98.4%); 상아질 >30% 노출은 실패 위험 유의 증가(GA1 vs. GA3 p=0.033, OR=4.67); ETT 95.0% vs. 생활치 96.0%(p=0.289, 유의차 없음, OR=1.68); 아민-프리 이중경화 시멘트가 경향적 우수(99.6% vs. 95.5%).
+줄3: 에나멜 보존이 LV 생존의 1차 결정 인자; ETT는 생존율 기준 유의한 금기 아니나 OR=1.68을 고려한 신중한 증례 선택 필요, 변색 관련 심미 합병증은 별도 관리 요함.
+
 ## One-line Summary
 
 Retrospective study (n=672 lithium disilicate veneers, 189 patients, up to 15 years) found 96% cumulative 15-year survival; dentin exposure >30% significantly increased failure risk (OR=4.67), while endodontic treatment did not significantly affect survival (ETT 95% vs. vital 96%, p=0.289, OR=1.68).
