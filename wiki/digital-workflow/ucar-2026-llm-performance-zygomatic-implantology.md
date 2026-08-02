@@ -13,6 +13,18 @@ source_collection: external
 tags: [AI, LLM, zygomatic-implant, chatgpt, claude, gemini]
 ---
 
+## Three-line Summary
+Prospective comparative evaluation (BMC Oral Health 2026; 38 standardized zygomatic implantology questions developed by 4 OMS expert surgeons; 5 calibrated independent raters; ICC 0.86–0.91 inter-rater reliability) assessing ChatGPT-4o, Claude 3.5, and Gemini 1.5 Pro using DISCERN, GQS, and a 5-point Accuracy Rubric.
+
+No clinically meaningful performance difference among the three models (maximum score gap ≤0.5 points on 5-point scales); Gemini 1.5 Pro scored marginally higher; all models produced readable, clinically relevant content but showed persistent variability in depth and specificity of clinical guidance.
+
+No current LLM is ready for unsupervised specialist clinical decision support; continuous expert validation, version transparency, and domain-specific benchmarking are prerequisites for integration into dental education or clinical practice.
+
+## 세줄요약
+줄1: 전향적 비교 평가 (BMC Oral Health 2026); 구강악안면외과 전문의 4인이 개발한 치근성 임플란트(Zygomatic Implant) 전문 38개 표준 질문으로 5인 평가단이 DISCERN·GQS·정확도 루브릭으로 ChatGPT-4o·Claude 3.5·Gemini 1.5 Pro 평가; 급내상관계수(Intraclass Correlation Coefficient, ICC) 0.86–0.91(우수).
+줄2: 모델 간 임상적으로 유의미한 성능 차이 없음(최대 ≤0.5점/5점 척도); Gemini 1.5 Pro가 미미하게 높은 점수; 전 모델에서 임상 심층도·특이성 가변성 지속.
+줄3: 현재 어떤 대형언어모델(Large Language Model, LLM)도 치과 임플란트 전문 임상 의사결정의 무감독 활용 불가; 교육·임상 통합 전 전문가 지속 검증·버전 투명성·영역별 벤치마킹 필수.
+
 ## One-line Summary
 Prospective rater-blinded evaluation (38 expert questions, 5 raters) found no clinically meaningful performance difference among ChatGPT-4o, Claude 3.5, and Gemini 1.5 Pro on zygomatic implantology Q&A (max difference ≤0.5 points on 5-point scales).
 
