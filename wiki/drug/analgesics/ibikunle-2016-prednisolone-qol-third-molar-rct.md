@@ -14,6 +14,16 @@ tags: [prednisolone, third-molar, QoL, OHIP-14, submucosal, oral-administration]
 synthesized_in: overviews/drug-analgesics-postop-pain-overview
 ---
 
+## Three-line Summary
+Three-arm RCT (n=186, 62 per group) from a Nigerian tertiary hospital compared oral prednisolone 40 mg, submucosal injection prednisolone 40 mg, and no prednisolone in patients undergoing third molar surgery, using OHIP-14 as the primary outcome assessed at days 1, 3, and 7.
+Both prednisolone groups showed significantly better oral health-related quality of life than controls (p<0.05); submucosal injection produced significantly less QoL deterioration than oral administration (p=0.001).
+This is the largest RCT establishing OHIP-14 as primary endpoint for M3 corticosteroid research, and the positive QoL signal for prednisolone directly contrasts with Larsen 2021's null result for methylprednisolone, suggesting drug- or route-level differences warrant further investigation.
+
+## 세줄요약
+줄1: 나이지리아 3차 병원의 3군 무작위대조시험 (Randomized Controlled Trial, RCT) (n=186, 군당 62명)에서 경구 프레드니솔론 (Prednisolone) 40 mg, 점막하 주사 (Submucosal Injection) 40 mg, 무투여 대조군을 비교하여 구강건강관련 삶의 질 (Oral Health-Related Quality of Life, OHRQoL, OHIP-14)을 주요 결과 지표로 평가했다.
+줄2: 프레드니솔론 투여군(경구·점막하 모두)은 미투여 대조군 대비 삶의 질이 유의하게 좋았으며(p<0.05), 점막하 주사군이 경구 투여군보다 삶의 질 저하가 유의하게 적었다(p=0.001).
+줄3: OHIP-14를 주요 평가 지표로 삼은 최대 규모 RCT로, 프레드니솔론의 긍정적 삶의 질 신호는 라르센(Larsen) 2021의 메틸프레드니솔론 (Methylprednisolone) null 결과와 대비되어 약물·경로별 차이에 대한 추가 연구가 필요함을 시사한다.
+
 ## One-line Summary
 Three-arm RCT (n=186) found prednisolone 40 mg (oral or submucosal) significantly improved OHRQoL vs no prednisolone after third molar surgery, with submucosal injection superior to oral administration (OHIP-14, p=0.001).
 
