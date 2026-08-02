@@ -15,6 +15,16 @@ full_text: false
 
 According to PubMed, the source article is "Immediate loading protocols increase the risk of failure of implants placed by fully guided surgery in partially edentulous jaws: A randomized clinical trial" (Clin Implant Dent Relat Res, 2021;23(5):735-744; PMID 34436812), [DOI](https://doi.org/10.1111/cid.13042). Abstract-only — full text not retrieved (Wiley, not open access).
 
+## Three-line Summary
+Single-center RCT enrolling 72 partially edentulous patients (187 implants) compared immediate loading (IL) versus 3-month delayed loading (DL) following fully guided implant surgery, with IL eligibility gated at IT >20 Ncm and ISQ >65.
+At 1-year follow-up, IL showed significantly lower survival in both ITT (83.4% implant-level) and per-protocol (90.2%) analyses versus 100% DL survival (all p<0.01), while marginal bone loss remained below 0.1 mm in both groups with no intergroup difference.
+Even when standard primary stability thresholds are met, fully guided surgery does not mitigate the higher failure risk of immediate loading; delayed loading should remain the preferred protocol for guide-assisted cases until further long-term evidence is available.
+
+## 세줄요약
+줄1: 단일 기관 무작위 대조시험 (Randomized Controlled Trial, RCT) — 부분 무치악 환자 72명(임플란트 187개)을 대상으로 완전 가이드 수술 (Fully Guided Surgery) 후 즉시로딩 (Immediate Loading, IL) 대 3개월 지연로딩 (Delayed Loading, DL)을 비교; IL 적격 기준은 삽입 토크 (Insertion Torque, IT) >20 Ncm 및 임플란트 안정성 지수 (Implant Stability Quotient, ISQ) >65.
+줄2: 1년 추적 결과 IL군 임플란트 생존율은 의향 분석 (Intention-to-Treat, ITT) 83.4%·프로토콜 준수 분석 (Per-Protocol, PP) 90.2%로 DL군 100%보다 유의하게 낮았으며(p<0.01), 변연골 소실 (Marginal Bone Loss, MBL)은 양군 모두 <0.1 mm로 차이 없었다.
+줄3: 일차 안정성 기준을 충족하더라도 완전 가이드 수술이 즉시로딩의 실패 위험을 상쇄하지 못하므로, 가이드 수술 증례에서는 지연로딩이 여전히 권장된다.
+
 ## One-line Summary
 
 RCT (n=72 patients, 187 implants) found fully guided surgery + immediate loading yielded significantly lower 1-year survival (83.4% implant-level ITT) vs. 3-month delayed loading (100%), with no difference in marginal bone loss.
