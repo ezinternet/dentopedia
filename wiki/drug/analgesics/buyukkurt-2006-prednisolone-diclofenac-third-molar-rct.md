@@ -14,6 +14,16 @@ tags: [prednisolone, diclofenac, NSAID, third-molar, combination-therapy, trismu
 synthesized_in: overviews/drug-analgesics-postop-pain-overview
 ---
 
+## Three-line Summary
+Three-arm RCT (n=45) from Turkey compared immediate postoperative IM injection of prednisolone 25 mg alone, prednisolone 25 mg combined with diclofenac, or saline control in patients undergoing lower third molar removal.
+The prednisolone+diclofenac combination was significantly superior to both prednisolone alone and control for pain at 6h, trismus at days 2 and 7, and swelling at day 7 (all p<0.05); prednisolone alone reduced swelling vs control at day 2 only.
+Results support combining a corticosteroid with an NSAID for comprehensive postoperative symptom control, though the small sample (n=45, 15 per group) and abstract-only access limit the study's generalizability.
+
+## 세줄요약
+줄1: 터키의 3군 무작위대조시험 (Randomized Controlled Trial, RCT) (n=45)에서 하악 사랑니 발치 직후 프레드니솔론 (Prednisolone) 25 mg 단독, 프레드니솔론+디클로페낙 (Diclofenac) 병용, 또는 식염수 대조군을 근육 내 주사로 비교했다.
+줄2: 프레드니솔론+디클로페낙 병용군이 6시간 통증·2·7일 개구제한 (Trismus)·7일 부종 (Swelling) 모두에서 단독군 및 대조군 대비 유의하게 우월했으며(p<0.05), 프레드니솔론 단독군은 2일 부종만 대조군 대비 유의했다.
+줄3: 코르티코스테로이드 (Corticosteroid)와 비스테로이드성 소염진통제 (Nonsteroidal Anti-inflammatory Drug, NSAID) 병용이 술후 종합 관리에 유리하나, 군당 15명의 소규모 표본과 초록만 접근 가능한 점이 일반화 한계다.
+
 ## One-line Summary
 Three-arm RCT (n=45) found prednisolone 25 mg IM + diclofenac IM combination superior to prednisolone alone and control for pain at 6h, trismus at days 2 and 7, and swelling at day 7; prednisolone alone outperformed control for swelling at day 2 only.
 
