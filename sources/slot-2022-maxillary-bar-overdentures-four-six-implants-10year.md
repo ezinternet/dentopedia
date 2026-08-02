@@ -12,6 +12,14 @@ source_collection: external
 ## Why Ingested
 상악 피개의치 지지 임플란트 수(4개 vs 6개) 비교의 10년 RCT 데이터. [[complete-denture/carames-2025-four-vs-six-implant]] 및 [[complete-denture/difrancesco-2021-maxillary-overdentures-four-six-implants-sr-ma]]의 4 vs 6 임플란트 논쟁에 장기 RCT 근거를 추가한다.
 
+## Three-line Summary
+Ten-year parallel-arm RCT (n=66 enrolled, 46 completed) in edentulous patients with atrophic maxillae who received bone augmentation (iliac crest graft) followed by randomization to four or six posterior Straumann implants supporting bar overdentures, with 10 years of post-loading follow-up. Implant survival was 100% (4-implant) and 96.7% (6-implant); marginal bone loss was 0.41 vs. 0.70 mm (not significantly different); patient satisfaction improved equally in both groups, while the 6-implant group required more new overdentures due to wear (12 vs. 7). Four posterior implants are sufficient for maxillary bar overdentures in augmented bone, though manufacturer funding (Straumann), 30% dropout, and the exclusively augmented-bone patient population limit external validity.
+
+## 세줄요약
+줄1: 10년 병렬 무작위대조시험 (Randomized Controlled Trial, RCT)(n=66 등록, 46 완료): 장골능 골이식 후 무치악 위축 상악에서 후방 임플란트 4개 vs 6개를 지지대로 한 바 피개의치 (Bar Overdenture) 비교(Straumann, University Medical Center Groningen).
+줄2: 임플란트 생존율 4개군 100% vs 6개군 96.7%; 변연골 소실 (Marginal Bone Loss, MBL) 0.41 vs 0.70mm(유의차 없음); 환자만족도 양군 동등; 6개군이 보철물 교체 더 많음(12 vs 7).
+줄3: 이식골 상악에서 4개 임플란트로 6개와 동등한 10년 결과를 얻을 수 있으나, 제조사 지원(이해충돌)·30% 탈락·이식골 한정 모집단이 외부 타당도를 제한.
+
 ## One-line Summary
 10-year RCT (n=46 completers): maxillary bar overdentures on 4 vs. 6 posterior implants showed comparable survival, bone loss, and patient satisfaction; 4 implants sufficient in augmented posterior maxilla.
 
