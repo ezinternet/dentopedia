@@ -3,6 +3,20 @@
 ## Why Ingested
 Narrative review proposing a pathophysiological mechanism for an underrecognized form of dental pain — thermal allodynia triggered by cold-to-warm ambient temperature gradient — distinct from classical dentin hypersensitivity. Clinically relevant because patients are frequently misdiagnosed and standard DH treatments fail. See [[dentin-hypersensitivity/kaur-2026-dentin-hypersensitivity-enigma-revisited]].
 
+## Three-line Summary
+
+Narrative review with three embedded clinical case descriptions (J Pain Res 2017; all female, ages 49–55; diffuse, dull, throbbing dental pain onset ~15 minutes after returning indoors from prolonged cold outdoor exposure; VAS 6–8/10; unresponsive to standard dentin hypersensitivity treatments), proposing a four-step pathophysiological mechanism for ambient thermal differential-induced dental pain.
+
+The mechanism posits that repeated cold-to-warm thermal cycling produces outward dentinal fluid shifts (140% greater velocity than cooling alone), induces phenotypic neuroplastic changes in C-fiber nociceptors, lowers TRPV1 activation threshold into the innocuous warm range via peripheral sensitization and NGF upregulation, and culminates in central sensitization producing diffuse, midline-crossing pain lasting 30 minutes to 3 hours.
+
+This thermal allodynia entity is clinically distinct from classical dentin hypersensitivity (Aδ-mediated, direct stimulus, seconds duration) and requires pulpal insulation strategies (veneers, mouthguards) rather than tubule-occlusion treatments; TRP channel antagonists are proposed as a future pharmacological avenue.
+
+## 세줄요약
+
+줄1: 3증례 임상 보고 포함 서사 고찰 (J Pain Res 2017); 전원 여성 49–55세; 한랭 야외 노출 후 실내 귀환 약 15분 뒤 시작하는 광범위·둔한·박동성 치통(시각통증척도 VAS 6–8/10), 표준 상아질 과민증(Dentin Hypersensitivity, DH) 치료에 무반응; 환경 온도차 유발 열통증 과민(Thermal Allodynia)의 4단계 병태생리 기전 제안.
+줄2: 기전: ①반복 cold→warm 온도 순환으로 상아질 외향 유액 유속 140% 증가→②C 섬유 신경가소성(Neuroplasticity) 변화→③말초 감작으로 TRPV1 활성화 역치 저하(정상 무해 온도에 반응)→④삼차신경 중추 감작(Central Sensitization)으로 30분–3시간 지속 광범위 통증.
+줄3: 이 표현형은 Aδ 섬유 매개·직접 자극·수초 지속의 고전적 DH와 임상적으로 구별; 세관 폐쇄 치료 무효, 치수 열차단(비니어·마우스가드)이 치료 핵심; 일과도성 수용체 전위(Transient Receptor Potential, TRP) 채널 길항제가 차세대 약리 표적으로 제안.
+
 ## Bibliographic Information
 - **Authors**: Anaïs Le Fur-Bonnabesse, Céline Bodéré, Cyrielle Hélou, Valérie Chevalier, Jean-Paul Goulet
 - **Title**: Dental pain induced by an ambient thermal differential: pathophysiological hypothesis
