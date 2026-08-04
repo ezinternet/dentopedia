@@ -18,6 +18,24 @@ Guard rails (why it refuses rather than warns):
   - required frontmatter mirrors scripts/lint.py so a written page can't fail
     lint after the fact.
 
+PDF fact-check (when --pdf is given — added 2026-08-04 after a live incident):
+  everything above is STRUCTURAL validation — it confirms the dump is
+  well-formed, not that DeepSeek read the paper correctly. On
+  maurice-szamburski-2025-intravenous-nsaids-perioperative-pain-narrative-review
+  DeepSeek passed every structural check while still (a) transposing two DOI
+  digits (pharmacy13010108 vs the actual pharmacy13010018) and (b)
+  paraphrasing the title instead of quoting it verbatim. Both slipped through
+  because nothing had read the PDF itself. Now, whenever --pdf is passed:
+    • DOI must appear verbatim (whitespace-insensitive) in the PDF's first
+      pages — hard error, since a wrong DOI silently defeats Step-0 dedup
+      (it would have reported "clean" even if the real DOI matched an
+      existing page).
+    • Title's significant words are checked for presence in the PDF's first
+      pages — soft WARNING only (title-wrap/hyphenation noise in PDF
+      extraction makes an exact check too brittle to hard-block on), but
+      Claude must read page 1 of the PDF and confirm title/authors verbatim
+      before writing when this fires.
+
 Two phases:
 
   1. REPORT (default — no --category):
@@ -182,6 +200,57 @@ def source_doi_map() -> dict[str, str]:
                     out.setdefault(m.group(0).rstrip(".").lower(), name[:-3])
                 break
     return out
+
+
+# ---------------------------------------------------------------- PDF fact-check
+
+
+def extract_pdf_text(pdf_path: str, max_pages: int = 5) -> str | None:
+    """First few pages of PDF text, or None if pypdf is unavailable or extraction fails."""
+    try:
+        import pypdf
+    except ImportError:
+        return None
+    try:
+        reader = pypdf.PdfReader(pdf_path)
+        text = ""
+        for page in reader.pages[:max_pages]:
+            t = page.extract_text()
+            if t:
+                text += t
+        return text
+    except Exception:
+        return None
+
+
+def verify_doi_in_pdf(pdf_text: str, doi: str) -> str | None:
+    """Hard-error string if `doi` isn't found verbatim (whitespace-insensitive) in pdf_text."""
+    norm_text = re.sub(r"\s+", "", pdf_text).lower()
+    norm_doi = re.sub(r"\s+", "", doi).lower()
+    if norm_doi and norm_doi not in norm_text:
+        return (f"doi '{doi}' not found verbatim in the PDF's first pages — DeepSeek's DOI "
+                f"extraction may be wrong (seen 2026-08-04: transposed digits, "
+                f"pharmacy13010108 vs actual pharmacy13010018). Fix the doi: field in the "
+                f"dump against the PDF and re-run.")
+    return None
+
+
+def title_mismatch_warning(page1_text: str, title: str) -> str | None:
+    """Soft warning if `title` doesn't appear verbatim (whitespace/punctuation-insensitive)
+    on the PDF's first page. DeepSeek sometimes paraphrases the title instead of quoting it
+    — a plain word-overlap check misses this, because a topic-accurate paraphrase still
+    shares vocabulary with the abstract/body ('perioperative', 'NSAIDs', ...). Squashing to
+    bare alnum and requiring a contiguous substring match is what actually catches it, the
+    same trick as verify_doi_in_pdf."""
+    norm_title = re.sub(r"[^a-z0-9]", "", title.lower())
+    norm_page1 = re.sub(r"[^a-z0-9]", "", page1_text.lower())
+    if norm_title and norm_title not in norm_page1:
+        return ("title not found verbatim on the PDF's first page — DeepSeek may have "
+                 "paraphrased it instead of quoting it (seen 2026-08-04: "
+                 "'Intravenous NSAIDs for Perioperative Pain Management' was a paraphrase of "
+                 "the real title). Read page 1 of the PDF (pypdf) and confirm the exact "
+                 "title/authors before writing.")
+    return None
 
 
 # ---------------------------------------------------------------- validation
@@ -425,6 +494,28 @@ def main() -> int:
         for e in errors:
             print(f"  ✗ {e}", file=sys.stderr)
         return 1
+
+    if args.pdf:
+        if not os.path.isfile(args.pdf):
+            print(f"ERROR: --pdf not found: {args.pdf}", file=sys.stderr)
+            return 2
+        pdf_text = extract_pdf_text(args.pdf, max_pages=5)
+        if pdf_text is None:
+            print("WARNING: could not extract PDF text for fact-check (pypdf missing or "
+                  "unreadable PDF) — DOI/title unverified against source.", file=sys.stderr)
+        else:
+            doi = info.get("doi", "")
+            if doi:
+                doi_err = verify_doi_in_pdf(pdf_text, doi)
+                if doi_err:
+                    print(f"VALIDATION FAILED: {doi_err}", file=sys.stderr)
+                    return 1
+            title = frontmatter(info["src"][1]).get("title", "").strip('"')
+            page1_text = extract_pdf_text(args.pdf, max_pages=1) or ""
+            if title:
+                title_warn = title_mismatch_warning(page1_text, title)
+                if title_warn:
+                    print(f"WARNING: {title_warn}", file=sys.stderr)
 
     if not args.category:
         report(info, brief, refs)
