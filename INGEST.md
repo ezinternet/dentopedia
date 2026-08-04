@@ -144,6 +144,24 @@ text_filename: {stem}.txt
 - `full_text: false`(초록만): Summary·Results를 초록 수준으로만 채우고 본문에 `abstract-only — full text not retrieved` 명시. `evidence_level`은 study type 그대로.
 - dedup(Step 0)은 DOI/PMCID grep 그대로. 1:1 매칭·linter는 `.txt`를 PDF와 동등한 아티팩트로 인식한다 (`scripts/lint.py`, `wiki/_lint/lint.py`에 `pubmed-text` 분기 반영, 2026-06-17).
 
+### Step 1-D — DeepSeek v2 dump 분기 (전처리본이 루트에 드롭된 경우)
+
+루트에 `===FILE: sources/...===` 구분자를 가진 `.md`가 있으면 **PDF를 직접 읽지 마라** — DeepSeek이 두 페이지를 이미 완성해 놓은 것이다. `scripts/deepseek-split.py`가 파싱·검증·`__CATEGORY__` 치환·저장을 대신한다:
+
+```bash
+python3 scripts/deepseek-split.py <dump.md>                    # 리포트: 검증 + Step0 DOI 중복 + REF_DOIS 보유 매칭
+python3 scripts/deepseek-split.py <dump.md> --category <cat> --pdf <원본.pdf>   # 두 파일 쓰기 + papers/ 복사 + PDF 팩트체크
+```
+
+Claude가 이어서 하는 것만 남는다: `## Why Ingested`, `## Related Papers`, `relations:`, supersession, Step 4–5. 스크립트는 지어낸 `[[wikilink]]`·stem 불일치·필수 필드 누락에서 **exit 1로 중단**한다 (경고 아님). 프롬프트·역할분담 전문은 `deepseek-ingest-prompt 1.md`. 구분자 없는 구형(v1, `---METADATA---`) dump는 exit 2 — 그건 종전대로 Claude가 조립한다.
+
+**PDF 팩트체크 (2026-08-04 사고 이후 필수)** — 위 구조 검증은 dump의 *형식*만 본다, DeepSeek이 논문을 *제대로 읽었는지*는 안 본다. `maurice-szamburski-2025-intravenous-nsaids-perioperative-pain-narrative-review` 건에서 구조 검증은 전부 통과했는데도 DeepSeek은 DOI 숫자 두 자리를 바꿔치기했고(`pharmacy13010108` vs 실제 `pharmacy13010018`) 제목도 verbatim 대신 의역해서 냈다 — 둘 다 아무도 PDF 원문을 안 읽어서 놓쳤다. `--pdf`를 넘기면 이제 자동으로:
+
+- **DOI**: PDF 첫 5페이지에 (공백 무시) 문자 그대로 없으면 **exit 1로 중단**. DOI는 Step0 중복탐지의 유일한 키라서 오탈자가 나면 "clean — no existing page"가 그대로 오탐 통과한다 — hard block 외엔 답이 없다.
+- **제목**: PDF 1페이지에 (공백·구두점 무시, 이어붙인 문자열로) 없으면 **WARNING만 찍고 계속 진행** (hard block 아님 — PDF 추출 시 줄바꿈·하이픈 노이즈가 있어 완전 일치를 강제하면 오탐이 잦다). WARNING이 뜨면 pypdf로 1페이지를 직접 읽어 제목·저자를 verbatim으로 대조하고 고친 뒤 커밋할 것.
+
+단어 단위 overlap 체크는 시도했다가 버렸다 — "perioperative NSAIDs management" 같은 도메인 단어는 의역된 가짜 제목이라도 논문 본문 어딘가엔 다 나오기 때문에 걸러지지 않았다. 공백 제거 후 통짜 substring 매칭(DOI 체크와 같은 트릭)만 실제로 의역을 잡아냈다.
+
 ### Step 1-A — Abstract-only PDF 분기 (페이월 랜딩/초록 저장본)
 
 가끔 받은 PDF가 전문이 아니라 **출판사 랜딩/초록 저장 페이지**(paywall, 흔히 1–2쪽, 본문 없음)다 — Step 1-T의 PMC-빈본문과 결과는 같지만 **아티팩트가 PDF**라 `source_collection: pubmed-text`를 쓸 수 없다. 이때:
