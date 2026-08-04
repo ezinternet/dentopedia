@@ -17,17 +17,13 @@ User request: papers on the implant abutment-screw **settling effect**. This in-
 
 In-vitro static-loading study (5 implant-abutment connection designs, n=10 each, 700 N vertical load) showing settling (axial displacement) increases with tapered interfaces (external butt-joint lowest 0.8 µm, internal 8° Morse-taper octagon highest 25.6 µm), and that two-piece abutments lose removal torque (preload) from settling while one-piece abutments gain it via friction.
 
-(incomplete)
-
-(incomplete)
+Steep-taper internal connections with two-piece abutments carry the highest screw-loosening risk after load; settling can also lower the occlusal table after posterior crown delivery.
 
 ## 세줄요약
 
 In-vitro 정적하중 연구(5종 임플란트-지대주 연결, 군당 n=10, 700 N 수직하중): settling(축방향 변위)은 테이퍼 계면일수록 커지고(외부 버트조인트 0.8 µm 최소 → 내부 8° Morse-taper 옥타곤 25.6 µm 최대), 2-piece 지대주는 settling으로 제거토크(preload)가 감소하나 1-piece 지대주는 마찰로 오히려 증가.
 
-(incomplete)
-
-(incomplete)
+경사형 내부연결+2-piece 지대주 조합이 부하 후 나사 풀림 위험 가장 높으며, settling으로 구치부 크라운 장착 후 교합이 낮아질 수 있어 주의 필요.
 
 ## 1. Document Information
 
