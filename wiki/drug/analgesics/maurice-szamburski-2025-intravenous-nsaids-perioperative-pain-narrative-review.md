@@ -1,14 +1,14 @@
 ---
-title: "Intravenous NSAIDs for Perioperative Pain Management: A Narrative Review"
-authors: A.M.-S. et al.
+title: "Intravenously Administered Nonsteroidal Anti-Inflammatory Drugs in Clinical Practice: A Narrative Review"
+authors: Maurice-Szamburski A, Quemeneur C, Rozier R, Cuvillon P, Ecoffey C
 year: 2025
 date: 2025-01-01
-doi: "10.3390/pharmacy13010108"
-source: am-s-2025-intravenous-nsaids-perioperative-pain-narrative-review.md
+doi: "10.3390/pharmacy13010018"
+source: maurice-szamburski-2025-intravenous-nsaids-perioperative-pain-narrative-review.md
 category: [drug/analgesics]
 evidence_level: narrative-review
-pdf_path: /Users/oracleneo/llm-wiki/papers/am-s-2025-intravenous-nsaids-perioperative-pain-narrative-review.pdf
-pdf_filename: am-s-2025-intravenous-nsaids-perioperative-pain-narrative-review.pdf
+pdf_path: /Users/oracleneo/llm-wiki/papers/maurice-szamburski-2025-intravenous-nsaids-perioperative-pain-narrative-review.pdf
+pdf_filename: maurice-szamburski-2025-intravenous-nsaids-perioperative-pain-narrative-review.pdf
 source_collection: external
 tags: [NSAIDs, IV-ibuprofen, ketorolac, perioperative-pain, opioid-sparing, multimodal-analgesia, narrative-review, preemptive-analgesia]
 relations:
