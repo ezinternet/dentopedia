@@ -1,11 +1,11 @@
 ---
-title: "Intravenous NSAIDs for Perioperative Pain Management: A Narrative Review"
-authors: A.M.-S., C.Q., R.R., P.C., C.E.
+title: "Intravenously Administered Nonsteroidal Anti-Inflammatory Drugs in Clinical Practice: A Narrative Review"
+authors: Maurice-Szamburski A, Quemeneur C, Rozier R, Cuvillon P, Ecoffey C
 year: 2025
-doi: "10.3390/pharmacy13010108"
+doi: "10.3390/pharmacy13010018"
 category: [drug/analgesics]
-pdf_path: /Users/oracleneo/llm-wiki/papers/am-s-2025-intravenous-nsaids-perioperative-pain-narrative-review.pdf
-pdf_filename: am-s-2025-intravenous-nsaids-perioperative-pain-narrative-review.pdf
+pdf_path: /Users/oracleneo/llm-wiki/papers/maurice-szamburski-2025-intravenous-nsaids-perioperative-pain-narrative-review.pdf
+pdf_filename: maurice-szamburski-2025-intravenous-nsaids-perioperative-pain-narrative-review.pdf
 source_collection: external
 ---
 
@@ -31,8 +31,8 @@ IV NSAIDs는 수술 후 아편유사제(opioid) 사용을 약 20–60% 감소시
 
 ## 1. Document Information
 
-- Journal: Pharmacy 13(1):108, 2025
-- DOI: 10.3390/pharmacy13010108
+- Journal: Pharmacy 2025, 13, 18
+- DOI: 10.3390/pharmacy13010018
 - PMID: Not reported
 - Registration: Not reported
 - Funding: Support from B.Braun Medical SAS (Saint Cloud, France), grant no: 24-0521
