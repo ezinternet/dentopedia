@@ -1508,6 +1508,7 @@ tags: []
 - [[drug/analgesics/markiewicz-2008-corticosteroids-reduce-postoperative-morbidity-after-third-molar-surgery]] — Markiewicz 2008 · sr+ma · 코르티코스테로이드 12개 RCT 메타분석(사랑니 발치): 부종·개구제한 조기·후기 모두 유의 감소(SMD 1.4→1.1, WMD 4.1mm→2.7mm), 통증은 유의차 없음(P=.07/.4) — 신규 RCT(Tamgadge 2025)와 통증 결과 상충
 - [[drug/analgesics/dan-2010-corticosteroid-administration-oral-orthognathic-surgery]] — Dan 2010 · sr+ma(초록기반) · 구강외과 코르티코스테로이드 부종·통증 유의감소(둘다 P<.0001), 감염위험증가 없음(RR 1.0041, P=.89); 악교정수술은 methylprednisolone≥85mg IV로 부종 감소, 신경재생 시사(통계미검증)
 - [[drug/analgesics/yavari-2019-submucosal-corticosteroids-postoperative-pain-rct]] — Yavari 2019 · rct · 비가역성 치수염 단일내원 근관치료 후 점막하 코르티코스테로이드 주사 DB-RCT(n=197): 덱사메타손 초기 24h 우수, 장기작용 베타메타손 72h~7일 우수, 48h 동등 — 코르티코스테로이드 전군 위약 대비 통증·QOL 유의 개선
+- [[drug/analgesics/am-s-2025-intravenous-nsaids-perioperative-pain-narrative-review]] — A.M.-S. 2025 · narrative-review · IV NSAIDs는 수술 후 아편유사제 사용을 20-60% 감소시키며, IV ibuprofen은 유리한 프로파일을 보임 (DOI 10.3390/pharmacy13010108)
 - [[drug/analgesics/rodrigues-2024-preemptive-dexamethasone-diclofenac-endodontic-rct]] — Rodrigues 2024 · rct · 증상성 치수염 하악구치 술전 선제투약 DB-RCT(n=84): 덱사메타손 4mg 하악치조신경차단술(IANB) 성공률 39.3% vs 디클로페낙 21.4% vs 위약 3.6%(p<.001); 술후 24~72h 두 약물 모두 위약 대비 우수
 - [[implants/survival/wagner-2022-diabetes-mellitus-dental-implants-sr]] — SR(56편): 조절 양호 당뇨 = 정상 성공률; 조절 불량(HbA1c≥9%) → 치주염↑·실패↑; 항생제+CHX 필수; 금기 아님
 - [[implants/survival/al-ansari-2022-diabetes-mellitus-dental-implants-sr-ma]] — SR+MA(89편): 당뇨 임플란트 실패 OR 1.777; T1DM>T2DM(OR 4.477); MBL +0.776mm; 상악에서만 유의
