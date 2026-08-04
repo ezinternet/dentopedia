@@ -1542,6 +1542,7 @@ tags: []
 - [[drug/analgesics/lupepsa-2021-low-dose-aspirin-osseointegration-rats]] — 동물(rat tibia, n=32): 저용량 아스피린(6.75mg/kg≈인체 75–80mg) 7일째 BIC 유의 저하(62.8% vs 82.7%)이나 28일째 회복(91.9%≈89.9%). 초기 골침착만 일시 지연 — 심혈관용 저용량 아스피린의 골유착 영향을 정량, 임플란트 금기 아님.
 - [[drug/analgesics/gomes-2025-nsaids-kidney-toxicity-icu-retrospective]] — 후향적 ICU(n=1,157): NSAIDs → AKI OR 1.98; 중증 AKI → 2년 생존율 악화(aHR 1.42); 신기능 취약 환자 NSAID 주의
 - [[drug/analgesics/zingel-2025-nsaids-cardiovascular-risk-inflammatory-arthritis]] — 서술적 고찰: RA·AS 환자에서 NSAIDs CV 위험 증가 없음; 전신염증 억제로 심보호 효과 가능 (Semin Arthritis Rheum 2025)
+- [[drug/analgesics/beaudart-2025-celecoxib-safety-musculoskeletal-sr-ma]] — Beaudart 2025 · sr+ma · 셀레콕십은 비선택성 NSAID보다 위십이지장 궤양 위험을 78% 감소시켰으나, 대부분의 근거 품질은 낮음 (RR 0.22, 95% CI 0.15–0.32, I² = 0%); CV 사망률은 비선택 NSAID 대비 오히려 낮음(RR 0.75)
 - [[drug/mronj/jung-2022-denosumab-mronj-osteoporosis-5year]] — 후향적코호트(n=98, 골다공증+발치): MRONJ 4.1%; denosumab 단독 vs BP+Dmab 유의차 없음; 류마티스관절염 유일한 유의 위험인자(OR 35.4); 발치 없이도 치주염에서 MRONJ 발생
 - [[drug/mronj/ruggiero-2022-aaoms-mronj-position-paper-update]] — AAOMS 2022 컨센서스: MRONJ 정의·병기 2014 동일; romosozumab 추가; drug holiday 권고 없이 논쟁 중; CTX 더 이상 권장 안 함; denosumab 중단 timing 가이드
 - [[drug/mronj/yokoo-2025-denosumab-mronj-breast-cancer-bone]] — 후향적코호트(n=324, 유방암 골전이): MRONJ 31.2%; ROC 누적 32회 임계치(AUC 0.83); 발치력 OR 4.40; 매 추가 투여당 MRONJ 오즈 4.7% 증가
