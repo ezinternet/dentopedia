@@ -103,6 +103,15 @@ jobs:
           # interactives-index 생성보다 먼저 실행해야 새 라이브 도구가 색인에 잡힘.
           python3 scripts/build-wiki-stats.py
 
+      - name: Regenerate overview volatility index
+        run: |
+          # interactives/volatility-index.html을 overview 흔들림 지수(OVI)로 재생성.
+          # daily-audit.py는 이 감사를 인자 없이 부르므로 로그만 남고 HTML은 갱신되지
+          # 않는다 — 아티팩트는 소비 시점(deploy)에 만든다는 daily-audit 원칙 그대로.
+          # git 히스토리로 thesis 편집일·유입 논문 수를 계산하므로 위 checkout
+          # fetch-depth:0 전제. interactives-index 생성보다 먼저 실행해야 색인에 잡힘.
+          python3 scripts/overview-volatility-audit.py --html
+
       - name: Regenerate interactives index from frontmatter
         run: |
           # interactives/index.html을 각 도구의 주석 frontmatter(category 등)에서
