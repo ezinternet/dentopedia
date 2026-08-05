@@ -16,7 +16,8 @@ tags: [gbr, barrier-membrane, collagen, edc-crosslink, ptfe, titanium-mesh, prog
 ## 한국어 핵심요약
 
 > [!summary] 한국어 핵심요약
-> - 골유도재생술 (Guided Bone Regeneration, GBR) 차폐막을 12편 (서술적 고찰 3 + 동물실험 5 + 임상 전향 1 + 체계적 고찰 1 + 벤치 1) 으로 종합 — 흡수성/비흡수성이라는 단일 상류 변수가 1차 임상 분기점이다.
+> - 골유도재생술 (Guided Bone Regeneration, GBR) 차폐막을 16편 (서술적 고찰 5 + 동물실험 6 + 임상 전향 1 + 체계적 고찰 2 + 벤치 1) 으로 종합 — 흡수성/비흡수성이라는 단일 상류 변수가 1차 임상 분기점이다.
+> - Benic 2014의 결손 분류(Class 1–5)가 이 페이지 전체 축의 상위 라우팅 표다: Class 1–2(소형·골벽 지지)는 흡수성 이식재+막, Class 3(골벽 지지 없음)는 DBBM+티타늄강화 e-PTFE, Class 5(수직 결손)는 자가골 블록. Esposito 2009 Cochrane SR(13 RCT)은 이 프레임을 임플란트 레벨 근거로 뒷받침: 위축 하악에서 수직증대보다 단축 임플란트가 실패(OR=5.74)·합병증(OR=4.97, p<0.05) 모두 적고, 골대체재가 자가골보다 환자 선호도 우위(장골 자가골 대비 OR=0.03) — "막을 잘 고르는 것"보다 "애초에 증대를 피할 수 있는가"가 상위 결정임을 시사.
 > - GBR은 끊김 없는 16–24주 차단 기능이 필요 — 치주재생술 (GTR) 의 4–6주보다 3~6배 길며, 가교화 안 된 천연 콜라겐막은 2–4주에 흡수되어 critically 부족하다 (Sasaki 2021). 이 시간 격차가 가교화 (crosslinking) 전략의 핵심 동기.
 > - 가교화 화학이 콜라겐막 수명을 결정: 글루타르알데히드 (GA) 는 염증·세포독성 부담, 자외선 (UV) 은 조직통합 불량, EDC (카르보디이미드) 는 효소 저항성 + 낮은 세포독성으로 현재 선호되며, 리보스 (ribose) 가교 (Ossix Plus) 는 임상 사용 가능. [확인]
 > - 차폐막 단독으로는 공간 유지 불가 — Park 2015에서 이식재 없는 막 단독군은 2주에 중앙 함몰. 위계: 막 + 이식재 > 이식재 단독 > 막 단독 > sham.
@@ -33,7 +34,7 @@ tags: [gbr, barrier-membrane, collagen, edc-crosslink, ptfe, titanium-mesh, prog
 
 ## Three-line Summary
 
-Synthesis of 12 papers (3 narrative reviews, 5 animal studies, 1 prospective trial, 1 SR, 1 bench study): GBR barrier membranes divide by a single upstream variable — resorbability — with crosslinking chemistry determining whether a collagen membrane meets the 16–24-week GBR barrier-function threshold (native collagen only lasts 2–4 weeks; EDC and ribose crosslinking extend this adequately).
+Synthesis of 16 papers (5 narrative reviews, 6 animal studies, 1 prospective trial, 2 SRs, 1 bench study): GBR barrier membranes divide by a single upstream variable — resorbability — with crosslinking chemistry determining whether a collagen membrane meets the 16–24-week GBR barrier-function threshold (native collagen only lasts 2–4 weeks; EDC and ribose crosslinking extend this adequately).
 
 Space maintenance requires graft support in all cases (membrane-alone collapses at 2 weeks; Park 2015), defect type governs membrane resorbability choice (horizontal → crosslinked collagen; vertical → non-resorbable), and for dehiscence defects the membrane's primary role may be graft containment rather than osteogenesis induction.
 
@@ -41,7 +42,7 @@ Next-generation "programmable interface" membranes targeting macrophage M1→M2 
 
 ## 세줄요약
 
-12편(서술적 고찰 3·동물 5·임상 전향 1·SR 1·벤치 1) 종합: 골유도재생술(Guided Bone Regeneration, GBR) 차폐막은 흡수성/비흡수성이라는 단일 상류 변수로 분기하며, 가교화(crosslinking) 전략이 콜라겐막의 16–24주 차단기능 충족 여부를 결정한다(천연 콜라겐은 2–4주에 흡수되어 부족, EDC·리보스 가교화가 해법).
+16편(서술적 고찰 5·동물 6·임상 전향 1·SR 2·벤치 1) 종합: 골유도재생술(Guided Bone Regeneration, GBR) 차폐막은 흡수성/비흡수성이라는 단일 상류 변수로 분기하며, 가교화(crosslinking) 전략이 콜라겐막의 16–24주 차단기능 충족 여부를 결정한다(천연 콜라겐은 2–4주에 흡수되어 부족, EDC·리보스 가교화가 해법).
 
 공간 유지는 모든 경우에 이식재가 필수(막 단독군은 2주에 함몰; Park 2015), 결손 유형이 막 선택을 결정하며(수평 → 가교화 콜라겐, 수직 → 비흡수성), 작은 이개열 결손에서 막의 역할은 골형성 촉진이 아닌 이식재 봉쇄일 수 있다.
 
@@ -338,6 +339,28 @@ Seiler 2026 (PRISMA/PROSPERO SR) shows how thin the broader evidence base still 
 
 ---
 
+### Axis 8 — Foundational Reviews and Adjacent Evidence: Defect Classification, Cochrane-Level Comparison, Collagen Biomaterials Science, and Membrane Fixation (Benic 2014, Esposito 2009, Li 2025, Park 2022)
+
+Four papers sit one level upstream or downstream of the membrane-specific axes above — they either supply the clinical/material framework the other axes assume, or test a specific procedural variable (fixation) that the earlier axes treat as settled.
+
+**Defect classification as the master routing table (Benic 2014, narrative review, Periodontology 2000)**: Benic & Hämmerle's Class 1–5 defect taxonomy is the clinical decision layer that the membrane/crosslinking axes above (1–2) plug into. It also supplies the four-origin bone graft taxonomy (autograft/allograft/xenograft/alloplast) used implicitly throughout this page, and documents that DBBM block grafts show only moderate histological new bone at periphery with residual particles unchanged at 11 years post sinus-floor augmentation — the same slow-resorption profile characterized in more depth in [[overviews/dbbm-bone-substitute-overview]].
+
+| Class | Morphology | Material of choice | Approach |
+|---|---|---|---|
+| 1 | Extraction socket, alveolar crest defect | Bone substitute + resorbable membrane | Simultaneous |
+| 2 | Peri-implant dehiscence, bone walls support volume | Particulate graft + resorbable membrane | Simultaneous |
+| 3 | Peri-implant dehiscence, no bone wall support | DBBM + Ti-reinforced e-PTFE | Simultaneous |
+| 4 | Combined horizontal + vertical | Case-dependent (Class 3 or 5 logic) | Staged or simultaneous |
+| 5 | Vertical ridge deficiency | Autogenous bone block ± graft + resorbable membrane | Staged (4–6 mo) |
+
+**Cochrane-level confirmation that avoiding augmentation can beat optimizing it (Esposito 2009 Cochrane SR, 13 RCTs)**: this SR sits one decision earlier than membrane selection — it asks whether augmentation should be attempted at all in a given case. In resorbed mandibles, vertical augmentation carried borderline-more implant failures (OR=5.74, 95% CI 0.94–35.0, p=0.06) and significantly more complications (OR=4.97, 95% CI 1.31–18.8, p<0.05) than simply using a short implant instead — complication rates in the vertical-augmentation trials ran up to 60%. Where augmentation is still needed, Esposito's pooled RCT data reinforces two conclusions already established structurally elsewhere on this page: osteodistraction outperforms inlay/interpositional grafting by 3.25 mm, and bone substitute (DBBM-class) is not inferior to autogenous bone in horizontal GBR (+0.60 mm favoring substitute) while patients strongly prefer it over iliac autograft (OR=0.03, p=0.02) — the same patient-morbidity logic that motivates avoiding extraoral donor sites in [[overviews/autogenous-bone-graft-donor-site-selection-overview]].
+
+**Collagen biomaterials science underlying the membrane class (Li 2025, narrative review)**: where Sasaki 2021 (Axis 1) classifies membranes clinically, Li 2025 supplies the materials-science layer beneath collagen membranes specifically — Type I collagen's triple-helix structure templates hydroxyapatite nucleation within mineralized fibrils, and collagen degrades via MMP-1/-2/-3/-8/-9/-13 and cathepsin K/L/S (cathepsin K being the dominant osteoclastic collagenase). Composite strategies pairing collagen with natural polymers (alginate, chitosan, silk fibroin), synthetic polymers (PCL, PLGA, PVA), and bioceramics (HA, β-TCP) mirror the inorganic-composite and synthetic-polyester membrane classes already covered in Axis 1 and Axis 7; rhBMP-2/absorbable collagen sponge (ACS) is the review's key FDA-approved precedent for a collagen-growth-factor composite reaching clinical practice, relevant context for Axis 5's next-generation programmable-membrane frontier. Evidence weight is narrative/non-systematic and orthopedic-context-dominant, so it should be read as biological grounding rather than a dental clinical-outcome source.
+
+**Membrane fixation does not universally help — and its effect is membrane-type-dependent (Park 2022, animal, 8 beagle dogs, split-mouth)**: this targeted experiment directly tests an assumption Axis 3's Friedmann 2022 finding (crosslinked membranes achieve stability without pins) already hinted at. In contained GBR box defects with particulate bone substitute, fixing two different non-cross-linked collagen membranes (CM1, CM2) with pins vs leaving them unfixed produced **no significant difference in total augmented volume** for either membrane (p>.05). One membrane (CM2) did show a fixation benefit specifically at the ridge crest (coronal width 2.3±0.1 mm fixed vs 1.57±0.27 mm unfixed, p<.05); the other (CM1) showed none. The implication: membrane fixation is not a blanket requirement in contained defects, and whether it helps depends on the specific membrane's stiffness/rigidity — surgeons should not assume routine fixation always improves predictability, echoing Friedmann 2022's finding that some crosslinked membranes achieve adequate stability without pins at all.
+
+---
+
 ## Clinical Decision Threads [미검증]
 
 **Decision Thread 1 — Defect type → membrane resorbability**
@@ -380,6 +403,10 @@ Conventional membranes have a ~26% pooled complication rate (Liu 2026). Current 
 - [[bone-regeneration/zhou-2026-metal-phenolic-electrospun-membrane-alveolar-gbr]] — In-vitro + rat alveolar defect; curcumin–strontium metal-phenolic SF/PCL electrospun membrane (Cur-Sr/SF/PCL) synergistically drives osteogenesis (Wnt/Ca/CaN), angiogenesis (VEGF/HIF-1), and M1→M2 reprogramming. Concrete realization of Liu 2026's programmable-interface thesis (Axis 5)
 - [[bone-regeneration/son-2026-plga-membrane-horizontal-ridge-gbr-prospective]] — Prospective single-arm (20 pts/21 sites); 3D-preformed resorbable PLGA membrane achieves ~3 mm horizontal augmentation, 87.2% retention, 0 exposure at 5 mo. Clinical anchor for the synthetic-resorbable Ti-mesh alternative (Axis 7)
 - [[bone-regeneration/seiler-2026-resorbable-scaffolds-alveolar-ridge-augmentation-sr]] — Systematic review (7 studies, 39 pts, 1 RCT); resorbable scaffolds (PLA/PCL/PLGA/β-TCP) a viable second-surgery-avoiding alternative to Ti-mesh, but evidence sparse/heterogeneous (no meta-analysis), degradation kinetics unreported in all 7. The evidence-base reality check for Axis 7
+- [[bone-regeneration/benic-2014-horizontal-bone-augmentation-guided-regeneration]] — Narrative review (Periodontology 2000); Class 1–5 defect classification and material-routing table; four-origin bone graft taxonomy. The master clinical framework Axis 1–2 material choices route through (Axis 8)
+- [[bone-regeneration/esposito-2009-horizontal-vertical-bone-augmentation-cochrane]] — Cochrane SR+MA (13 RCTs); short implants preferred over vertical augmentation in resorbed mandibles (OR=5.74 failures, OR=4.97 complications); bone substitute non-inferior to autogenous bone with strong patient preference (OR=0.03) — the one-decision-earlier "should we augment at all" question (Axis 8)
+- [[bone-regeneration/li-2025-application-of-collagen-in-bone]] — Narrative review; Type I collagen structure/degradation biology and composite-scaffold strategies underlying the collagen membrane class; rhBMP-2/ACS as the key FDA-approved precedent (Axis 8)
+- [[bone-regeneration/park-2022-collagen-membrane-fixation-ridge-volume]] — Animal study (8 beagles, split-mouth); membrane fixation does not improve total augmented volume for either of two non-cross-linked collagen membranes tested, but shows a membrane-type-dependent coronal-width effect — fixation is not universally necessary (Axis 8)
 
 ### Related overviews
 
