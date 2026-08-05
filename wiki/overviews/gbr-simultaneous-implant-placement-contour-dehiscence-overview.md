@@ -23,7 +23,8 @@ relations:
 ## 한국어 핵심요약
 
 > [!summary] 한국어 핵심요약
-> - 임플란트 **동시 골유도재생술 (Simultaneous Guided Bone Regeneration, GBR)** — 식립과 같은 세션에 이개열 (dehiscence) · 천공 (fenestration) 결손을 메우고 협측 윤곽을 증대하는 시나리오 — 11편으로 종합. 기존 GBR 오버뷰(차폐막 분류·막노출·이식재 클래스·치조제보존술)가 다루지 않던 **단일 술식 축**이다.
+> - 임플란트 **동시 골유도재생술 (Simultaneous Guided Bone Regeneration, GBR)** — 식립과 같은 세션에 이개열 (dehiscence) · 천공 (fenestration) 결손을 메우고 협측 윤곽을 증대하는 시나리오 — 12편으로 종합. 기존 GBR 오버뷰(차폐막 분류·막노출·이식재 클래스·치조제보존술)가 다루지 않던 **단일 술식 축**이다.
+> - **2차 수술(재진입) 시점은 조기(2개월)로 당겨도 안전하다**: 개 실험(6마리, 12부위 협측 이개열)에서 차폐막 흡수 완료 시점(~2개월) 재진입 vs 통상 4개월 재진입 비교 시 신생골·골-임플란트 접촉률(BIC)·결손 해소율 등 경조직 지표 전부 무유의차(p>0.06); 오히려 조기군에서 점막 부피·교원질 성숙도가 비유의 우세(Yoo 2025). 막이 제 역할(차단)을 다한 시점 이후엔 더 오래 묻어둘 임상적 이득이 없다는 뜻 — 조기 보철 전환이 가능할 수 있다는 신호.
 > - **핵심 명제: 동시 GBR의 율속 단계는 골형성이 아니라 이식재 부피의 생존이다.** 신생골은 결손 측벽에서 구심성 (centripetal) 으로 알아서 자라 들어온다 — 문제는 그때까지 이식재가 남아 있느냐다.
 > - **막은 골형성 촉진자가 아니라 격납 장치 (containment device)**: 개 표준화 5×3 mm 협측 이개열에서 DBBM+콜라겐막 vs DBBM 단독의 신생골·최초 골-임플란트 접촉 (first Bone-to-Implant Contact, fBIC) ·협측 골두께 모두 차이 없음 (NS); 막은 중앙부 이식재 보존 경향만 보였다 (p=0.052). 같은 실험에서 측방 절편이 중앙 절편보다 신생골 유의하게 많음 — 구심성 유입의 직접 증거 (Darby 2024).
 > - **재료는 이제 레버가 아니다 (동등성으로 수렴)**: 합성골 (이상성 인산칼슘, Biphasic Calcium Phosphate) 이 이종골 (Deproteinized Bovine Bone Mineral, DBBM) 에 비열등 — 결손고 감소 74.5% vs 63.4%, p=0.216 (Cha 2024, 다기관 비열등성 RCT n=49). 막도 마찬가지: 열탈수가교막 (Dehydrothermal Crosslinked Membrane, DCM) = 비가교막 (n=28, Lee 2015), 신규 비가교막 vs 기준막은 경향뿐 (Wessing 2016).
@@ -39,7 +40,7 @@ relations:
 
 ## Three-line Summary
 
-Synthesis of 11 papers (3 human RCTs [2 full + 1 multicenter interim], 2 prospective studies [a 10-year series and an older 3-arm non-randomized comparison], 1 retrospective CBCT study, 4 animal/ex vivo studies, 1 narrative review) on guided bone regeneration performed **simultaneously with implant placement** for peri-implant dehiscence/fenestration defects and buccal contour augmentation — the one GBR axis not covered by the existing membrane-classification, membrane-exposure, graft-material, and ridge-preservation overviews.
+Synthesis of 12 papers (3 human RCTs [2 full + 1 multicenter interim], 2 prospective studies [a 10-year series and an older 3-arm non-randomized comparison], 1 retrospective CBCT study, 5 animal/ex vivo studies, 1 narrative review) on guided bone regeneration performed **simultaneously with implant placement** for peri-implant dehiscence/fenestration defects and buccal contour augmentation — the one GBR axis not covered by the existing membrane-classification, membrane-exposure, graft-material, and ridge-preservation overviews.
 
 The unifying thesis is that new bone formation is not the rate-limiting step — bone grows centripetally from the lateral defect walls regardless of membrane presence (Darby 2024), and graft materials and membranes have converged on non-inferiority (Cha 2024; Lee 2015; Wessing 2016) — whereas **graft volume survival** is: roughly 28–45% of graft displaces during primary closure (Raabe 2025; Zhou 2025), ~50% resorbs by 6 months (Gan 2023), and non-fixed membranes leave essentially zero bone at the implant shoulder (Lee 2025).
 
@@ -47,7 +48,7 @@ Volume that survives the first year is durable — 1.67 mm of facial bone wall r
 
 ## 세줄요약
 
-임플란트 동시 골유도재생술 (Simultaneous GBR) 11편 종합 (인체 RCT 3[완결 2·다기관 중간결과 1] · 전향 2[10년 1·2002년 3군 비무작위 비교 1] · 후향 CBCT 1 · 동물/사체 4 · 서술적 고찰 1) — 기존 GBR 오버뷰 4종이 비워둔 "식립과 동시에 이개열을 메우고 협측 윤곽을 증대하는" 단일 술식 축.
+임플란트 동시 골유도재생술 (Simultaneous GBR) 12편 종합 (인체 RCT 3[완결 2·다기관 중간결과 1] · 전향 2[10년 1·2002년 3군 비무작위 비교 1] · 후향 CBCT 1 · 동물/사체 5 · 서술적 고찰 1) — 기존 GBR 오버뷰 4종이 비워둔 "식립과 동시에 이개열을 메우고 협측 윤곽을 증대하는" 단일 술식 축.
 
 핵심 명제는 율속 단계가 골형성이 아니라 **이식재 부피의 생존**이라는 것 — 신생골은 결손 측벽에서 구심성으로 유입되고 (Darby 2024) 재료·막은 비열등으로 수렴한 반면 (Cha 2024, Lee 2015, Wessing 2016), 부피는 봉합에서 28~45%, 6개월까지 약 50% 사라지며 비고정 막에서는 임플란트 견부 골이 0 mm다 (Raabe 2025, Zhou 2025, Gan 2023, Lee 2025).
 
@@ -84,6 +85,7 @@ So the thesis: **at simultaneous GBR, treat bone formation as a given and graft 
 | [[bone-regeneration/wessing-2016-noncrosslinked-collagen-membrane-dehisced-implant-rct]] | Multicenter RCT, dehisced single implants, interim | — | New non-cross-linked membrane vs reference: both gave bone gain adequate to support the implant; higher gain / lower exposure only a **trend**, not established | rct |
 | [[bone-regeneration/nemcovsky-2002-buccal-dehiscence-immediate-delayed-late-maxillary-implant]] | Controlled clinical trial (not randomized), 3 timing groups | 66 pts / 102 implants | Buccal dehiscence defect reduction **highest with delayed placement** (height 88.8% vs. immediate 77.4% / late 75.2%; area 95.6% vs. 90.2% / 87.6%); membrane exposure and multi-implant simultaneous placement independently worsened healing | prospective (older, non-randomized) |
 | [[bone-regeneration/buser-2023-gbr-implant-35years-basic-principle-review]] | Narrative review by field founders | — | PASS framework (Primary closure, Angiogenesis, Space maintenance, Stability); composite graft (autogenous chips + DBBM) standard for horizontal augmentation; placement timing types 1–4 matched to defect morphology | narrative-review |
+| [[bone-regeneration/yoo-2025-early-reentry-simultaneous-gbr-peri-implant]] | Randomized animal study (split-mouth), standardized 5×5×3 mm buccal dehiscence, EDC-crosslinked membrane + BCP | 6 dogs / 12 sites | Early (2 mo) vs late (4 mo) re-entry: **no significant difference** in new bone, BIC, defect resolution; early group non-significantly greater mucosal volume/collagen maturity; 1 late-group implant failed (fibrin incarceration) | animal |
 
 ## Clinical Decision Points
 
@@ -122,6 +124,12 @@ Practical ordering: **release the flap until it is genuinely tension-free first,
 
 Given Cha (synthetic ≈ DBBM), Lee 2015 (DCM ≈ NCM), and Wessing 2016 (trend only), material selection at this indication should be driven by non-efficacy considerations. Cha's own framing is the useful one: a synthetic biphasic calcium phosphate is the option for patients with religious, ethical, or disease-transmission concerns about xenografts, and it costs nothing in defect resolution to choose it. Membrane selection likewise reduces to handling preference and exposure tolerance — an axis owned by the membrane-exposure overview rather than this one.
 
+### 5. When to re-enter for second-stage surgery?
+
+A question none of the volume-defense literature above addresses directly: once the graft volume has been defended through closure, how long must the site stay submerged before re-entry is safe? Yoo 2025 (randomized split-mouth canine study, 6 dogs, 12 standardized buccal dehiscence sites, EDC-crosslinked membrane + BCP) tested early re-entry at 2 months — the point at which the crosslinked membrane has fully resorbed — against the conventional 4-month interval, with all specimens harvested at 5 months. No hard-tissue parameter differed significantly between groups (new bone area, BIC 53.80% vs 54.15% p>0.999, defect height resolution 68.80% vs 64.80% p=0.438); soft-tissue measures trended (non-significantly) in favor of the early group, with denser, more mature collagen architecture in the lamina propria. One late-group implant failed from fibrin incarceration — a reminder that a longer submerged interval is not automatically safer.
+
+The mechanistic read fits this overview's thesis directly: if the rate-limiting factor is graft volume survival rather than bone formation speed (Darby 2024), then once the membrane has done its job of protecting that volume through the vulnerable early window, prolonging submerged healing further adds time without adding regenerative benefit. Practical implication: **the historical 4-month convention may be longer than biologically necessary** once a crosslinked membrane (which fully resorbs by ~2 months) is used — re-entry at 2 months does not compromise the bone regenerated beneath the implant shoulder and may allow earlier transition to the prosthetic phase. This is single-study animal evidence (n=5 matched pairs after one exclusion) and should not yet be generalized to non-crosslinked membranes, which resorb on a different timeline (Sasaki 2021, [[overviews/gbr-barrier-membrane-overview]] Axis 2), or extrapolated to human healing kinetics without a clinical trial.
+
 ## Gaps & Future Research
 
 - **No human RCT on membrane fixation at this indication.** The entire fixation argument (Raabe, Zhou, Lee 2025) rests on ex vivo pig mandibles and dog models with no healing period or postoperative loading. The pin-count × containment interaction inferred above is a hypothesis generated by cross-study comparison, not a tested one.
@@ -131,6 +139,7 @@ Given Cha (synthetic ≈ DBBM), Lee 2015 (DCM ≈ NCM), and Wessing 2016 (trend 
 - **Simultaneous vs staged has no head-to-head long-term contour trial.** The choice is currently made on defect geometry and expert framework (Buser 2023) rather than comparative outcome data.
 - **Darby's null is a 6-week dog endpoint.** Concluding from it that membranes are dispensable clinically would over-read a short-term animal model whose own graft-retention trend (p=0.052) points the other way over longer horizons.
 - **The placement-timing finding is the weakest-evidence item in this synthesis.** Nemcovsky 2002 is non-randomized, was ingested from a structured abstract (not full text), and predates every fixation/case-selection tool discussed elsewhere in this page. Its "delayed beats both extremes" result has never been re-tested under a contemporary protocol (membrane fixation, CBCT-based concavity screening) — a modern RCT directly comparing timing at this indication does not exist.
+- **Re-entry timing has only animal evidence.** Yoo 2025's 2-vs-4-month re-entry comparison (§5) is a single split-mouth canine study (n=5 matched pairs); no human RCT has tested whether shortening the submerged interval after simultaneous GBR affects hard- or soft-tissue outcomes, and the finding has not been tested with non-crosslinked membranes, which resorb on a different timeline.
 
 ## Related Papers
 
