@@ -16,8 +16,8 @@
 
 - `ibikunle-2016-prednisolone-qol-third-molar-rct`  —[contradict · 반박·충돌]→  **`larsen-2021-methylprednisolone-doses-split-mouth-rct`**
   - **근거 문장**: - [[drug/analgesics/larsen-2021-methylprednisolone-doses-split-mouth-rct]] — OHIP-14 null result for methylprednisolone (contradicts; different drug)
-  - ▸ 출발(`ibikunle-2016-prednisolone-qol-third-molar-rct`) 세줄: _(세줄요약 없음 — 페이지 확인 필요)_
-  - ▸ 대상(`larsen-2021-methylprednisolone-doses-split-mouth-rct`) 세줄: _(세줄요약 없음 — 페이지 확인 필요)_
+  - ▸ 출발(`ibikunle-2016-prednisolone-qol-third-molar-rct`) 세줄: 줄1: 나이지리아 3차 병원의 3군 무작위대조시험 (Randomized Controlled Trial, RCT) (n=186, 군당 62명)에서 경구 프레드니솔론 (Prednisolone) 40 mg, 점막하 주사 (Submucosal Injection) 40 mg, 무투여 대조군을 비교하여 구강건강관련 삶의 질 (Oral Health-Related Quality of Life, OHRQoL, OHIP-14)을 주요 결과 지표로 평가했다. 줄2: 프레드니솔론 투여군(경구·점막하 모두)은 미투여 대
+  - ▸ 대상(`larsen-2021-methylprednisolone-doses-split-mouth-rct`) 세줄: 줄1: 덴마크 알보르 대학병원의 이중맹검 분할구강 (Split-mouth) 무작위대조시험 (Randomized Controlled Trial, RCT) (n=52)에서 양측 하악 사랑니 발치 중 교근 (Masseter) 내 메틸프레드니솔론 (Methylprednisolone) 20/30/40 mg 또는 위약을 주사하고 1·3·7·30일 추적했다. 줄2: 어느 용량에서도 위약 대비 통증(시각통증척도, Visual Analog Scale, VAS)·개구제한 (Trismus)·삶의 질 (OHIP-14)
 
 
 ### immediate-implant
@@ -52,7 +52,7 @@
 
 - `acog-2013-oral-health-care-during-pregnancy` [oral-medicine] (HIGH-no-target, 'conflicting evidence' · 상충 결과)
   - **근거 문장**: - Periodontal disease + preeclampsia: conflicting evidence
-  - ▸ 출발(`acog-2013-oral-health-care-during-pregnancy`) 세줄: _(세줄요약 없음 — 페이지 확인 필요)_
+  - ▸ 출발(`acog-2013-oral-health-care-during-pregnancy`) 세줄: 줄1: ACOG Committee Opinion No. 569 (2013), 미국산부인과학회(ACOG)·미국치과의사협회(ADA)·HRSA 다학제 합의문; 발표 당시 미국 임산부 56%가 임신 중 치과 미방문(2007–2009). 줄2: 치과방사선촬영·국소마취(Local Anesthesia)·대부분의 치과 약물이 전 임신 기간 안전; 임신 중 치주 치료(Periodontal Treatment)는 조산(Preterm Birth)·저체중아 감소 효과 없음(다수 메타분석); 감염성 심내막염 예방적 항생제
 
 - `gotfredsen-2021-patient-perception-timing-concepts-implant` [immediate-implant] (HIGH-far→pommer-2021-maxillary-single-tooth-timing-protocols-sr-ma, 'overturn' · 결론 뒤집음)
   - **근거 문장**: - [[immediate-implant/pommer-2021-maxillary-single-tooth-timing-protocols-sr-ma]] — same-issue companion (Clinical Oral Implants Research 2021;32(Suppl 21), ITI Consensus Conference). Pommer's SR+MA cross-tabulates placement×loading timing against clinician-measured long-term (≥3y) survival and marginal bone remodeling in maxillary single-tooth implants, finding no significant differences across a
@@ -156,8 +156,8 @@
 
 - `ibikunle-2016-prednisolone-qol-third-molar-rct` [drug/analgesics] (SOFT→larsen-2021-methylprednisolone-doses-split-mouth-rct, '대조적' · 대조)
   - **근거 문장**: QoL (OHIP-14) 엔드포인트 + 투여 경로(경구 vs 점막하 주사) 비교 RCT. [[drug/larsen-2021-methylprednisolone-doses-split-mouth-rct]]의 OHIP-14 결과(null)와 대조적으로 프레드니솔론의 QoL 개선 효과를 보고해 약물·경로 차이 논의에 직접 데이터를 제공.
-  - ▸ 출발(`ibikunle-2016-prednisolone-qol-third-molar-rct`) 세줄: _(세줄요약 없음 — 페이지 확인 필요)_
-  - ▸ 대상(`larsen-2021-methylprednisolone-doses-split-mouth-rct`) 세줄: _(세줄요약 없음 — 페이지 확인 필요)_
+  - ▸ 출발(`ibikunle-2016-prednisolone-qol-third-molar-rct`) 세줄: 줄1: 나이지리아 3차 병원의 3군 무작위대조시험 (Randomized Controlled Trial, RCT) (n=186, 군당 62명)에서 경구 프레드니솔론 (Prednisolone) 40 mg, 점막하 주사 (Submucosal Injection) 40 mg, 무투여 대조군을 비교하여 구강건강관련 삶의 질 (Oral Health-Related Quality of Life, OHRQoL, OHIP-14)을 주요 결과 지표로 평가했다. 줄2: 프레드니솔론 투여군(경구·점막하 모두)은 미투여 대
+  - ▸ 대상(`larsen-2021-methylprednisolone-doses-split-mouth-rct`) 세줄: 줄1: 덴마크 알보르 대학병원의 이중맹검 분할구강 (Split-mouth) 무작위대조시험 (Randomized Controlled Trial, RCT) (n=52)에서 양측 하악 사랑니 발치 중 교근 (Masseter) 내 메틸프레드니솔론 (Methylprednisolone) 20/30/40 mg 또는 위약을 주사하고 1·3·7·30일 추적했다. 줄2: 어느 용량에서도 위약 대비 통증(시각통증척도, Visual Analog Scale, VAS)·개구제한 (Trismus)·삶의 질 (OHIP-14)
 
 - `surendra-2025-flapless-versus-flapped-crestal-bone` [implants/mbl] (HIGH-far→paknejad-2017-flapless-immediate-implant-buccal-gap-rct, 'contradict' · 반박·충돌)
   - **근거 문장**: User requested a PubMed ingest on flapless implant placement. The wiki's flapless evidence is concentrated in the *immediate*-implant context ([[immediate-implant/pitman-2023-immediate-implant-flap-flapless-sr-ma]], [[immediate-implant/gap-grafting/mansouri-2025-flapless-immediate-implant-bone-grafting-sr-ma]], [[immediate-implant/gap-grafting/paknejad-2017-flapless-immediate-implant-buccal-gap-rc
