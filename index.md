@@ -3575,6 +3575,8 @@ tags: []
 - [[post-and-core/suksaphar-2017-survival-fracture-ett-crown-resin-sr]] — Suksaphar 2017 · sr(3편, 구치 623개, Mahidol Univ) · 근관치료된 구치에서 전부피개관과 레진 복합 수복의 파절 생존율 비교: 생존율 94–100% vs 91.9–100%, 3면 이하 소실에서 유의한 차이 없음 (DOI 10.5395/rde.2017.42.3.157)
 - [[post-and-core/intaraprasong-2024-post-endodontic-restorations-survival-fracture-cervical-lesions]] — Intaraprasong N 2024 · retrospective(175치/155명, Mahidol Univ) · 근관치료 전치의 치경부 병소(치수침범 포함)에서 레진 복합레진과 크라운의 파절 생존율 비교(85.6% vs 88%; p=0.361), 추가 치질 소실 시 파절위험 유의 증가(HR 7.25) (DOI 10.14744/eej.2023.15870)
 - [[post-and-core/carvalho-2020-endodontically-treated-teeth-restoration-adhesive-approach]] — Carvalho 2020 · narrative-review · 근관치료된 치아의 접착 수복 현재 근거 종설: 포스트 필요성 논쟁, 페룰 효과, 부분 수복 vs 완전관, 엔도크라운·포스트 없는 코어 축성 검토 — "ferrule first, post second" 프레이밍에 이의 제기(수복물 유형이 결정변수) (DOI 없음)
+- [[post-and-core/reeh-1989-reduction-tooth-stiffness-result-endodontic]] — Reeh 1989 · in-vitro(발치 상악 소구치 42개, 시험관내 비파괴 교합하중) · 근관치료보다 MOD 와동 형성(변연융선 소실)이 교두 강성을 훨씬 크게 감소시킴(근관치료 단독 ~5% vs MOD 와동 ~63% 강성 손실) (abstract-only) (DOI 10.1016/S0099-2399(89)80191-8)
+- [[post-and-core/lane-2024-survival-success-rates-endodontically-treated]] — Lane 2024 · sr(11편, narrative-only) · 근관치료 구치 수복: 전장관 vs 교두피개 온레이 생존/성공률 비교 — 온레이가 단기~중기 유리(치질보존+유사 생존율); 3/11편 비뚤림 위험 심각 (DOI 10.1922/EJPRD_2547Lane11)
 
 ## 임플란트·약물 — 조기 임플란트 실패 (Early Implant Failure, 보철 로딩 전) surveillance batch (added 2026-06-22)
 - [[implants/survival/yari-2023-risk-factors-early-implant-failure]] — Yari 2023 · retrospective(임플란트 1323개/환자 738명, 조기실패 53건) · 보철 로딩 전 조기 실패 다변량 위험인자: 즉시잠정보철 OR 3.42·후방상악 2.96·4형골 2.88·치주발치부위 2.53·증대부위 2.24·흡연 1.84 (abstract-only) (DOI 10.1016/j.jormas.2023.101749)
