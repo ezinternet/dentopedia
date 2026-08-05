@@ -1,8 +1,8 @@
-# Daily Audit — 20 audits
+# Daily Audit — 21 audits
 
 > Split out of `CLAUDE.md` on 2026-07-17 to keep that file lean. `CLAUDE.md` keeps only the invariant (*signal, not gate*) and the entry-point command; the per-audit reference lives here. Open this file when adding/changing an audit or interpreting a log in `logs/`.
 
-A single entry-point runs all 20 audits and writes their logs to `logs/`:
+A single entry-point runs all 21 audits and writes their logs to `logs/`:
 
 ```bash
 python3 scripts/daily-audit.py
@@ -12,7 +12,7 @@ python3 scripts/daily-audit.py
 
 ---
 
-## The 20 audits — 3 classic + 1 rationale (errors block) + 16 signals
+## The 21 audits — 3 classic + 1 rationale (errors block) + 17 signals
 
 | Audit | Type | Purpose |
 |---|---|---|
@@ -35,6 +35,7 @@ python3 scripts/daily-audit.py
 | `find-contradiction-candidates.py` | signal | 본문에 명시적 충돌 표현(contradict/counterpoint/반박 등)이 있으나 그 쌍에 `relations:` 타입 엣지가 **(어떤 타입이든)** 없는 논쟁 레이더 백필 후보. Tier1(키워드에 가장 가까운 wikilink로 대상 지목)·Tier2(대상 불명/너무 멂/동일 줄 비최근접/soft). 기계가 충돌을 확정하지 않고 신호만 — LLM이 두 페이지 읽고 판단해 엣지를 단다. **type_hint를 그대로 엣지로 옮기지 말 것** — 2026-07-17 전수 검토에서 contradicts 계열 지목 122건 중 실제 contradicts는 1건이었다 |
 | `content-lint.py` | signal | frontmatter lint가 못 보는 **본문 내용 규칙**을 결정론으로 검사: (A) 이중언어 세줄요약 쌍 + overview 한국어 핵심요약 콜아웃, (B) heading 태그 일관성, (C) wiki↔source cross-tier 정합(`source:` 실존·pmid 일치) |
 | `retraction-audit.py` | signal | `retraction_status: RETRACTED` 페이지가 **인용 사고를 실제로 막는 구조**인지 검사. 핵심은 **경고가 섹션 제목 안에 있는가** — QMD는 청크로 검색하므로 페이지 상단 콜아웃은 `## Results` 청크에 따라오지 않는다(사람이 페이지를 열 때만 작동하는 경고는 답변 생성 경로를 못 막는다). 그 외: 필수 3섹션(Why This Page Exists / What We Can NOT Use / What It Does Tell Us), typed 엣지 **양방향 0**(철회 논문이 overview 합성에 살아있는 관계로 조립되면 안 됨). 역방향으로 필드 누락 의심도 검출. `grep retracted`는 교정과 'canine retraction'(견인)에 걸려 못 쓰므로 기계 판독 고리는 `retraction_status:` 필드뿐 |
+| `overview-volatility-audit.py` | signal | **채점 단위가 페이지가 아니라 overview**인 유일한 감사 — 논문이 뭐라고 했는지는 안 바뀌고, 바뀌는 건 그 논문들을 묶어 내린 결론이다. 새 신호를 수집하지 않고 기존 감사 신호를 종합 단위로 롤업해 "어느 결론이 먼저 뒤집힐까"로 정렬한다. 성분: ①마지막 thesis 편집 이후 유입 논문 수(신규 신호) ②thesis 노후 ③구성 논문 간 `contradicts`×2+`refines` ④고근거(sr+ma/sr/rct) 중 7년 경과+`superseded_by` 없는 비율 ⑤최신 논문 공백. 철회 논문 포함은 점수 성분이 아니라 **하드 플래그**(점수에 녹이면 묻힌다). 두 함정이 실측으로 확인돼 대응돼 있다 — (a) 구성 논문을 `source_papers` frontmatter로만 읽으면 안 된다(2026-08-02 실측 262편 중 90편만 보유, 나머지는 본문 wikilink뿐이라 ③④⑤가 통째로 죽었다), (b) 정비 커밋(overview 10편 이상 동시 수정)을 thesis 편집으로 세면 안 된다(229편 필드 마이그레이션 하나에 전편 나이가 15~19일로 붕괴했고 ①churn도 같이 오염됐다). ②의 정규화 상한은 리포 히스토리 창에 자동 연동 — 첫 커밋이 2026-05-18이라 고정 365일 상한에서는 성분이 죽는다. 가중치·티어 경계는 캘리브레이션 전 잠정값이므로 **절대점수가 아니라 티어와 성분 내역으로 읽을 것**. `interactives/volatility-index.html`은 `--html` 로만 생성 |
 | `deviation-audit.py` | signal | `logs/ingest-deviations.md` 집계 — 동일 유형 3회 이상이면 SOP 개정 후보 출력 (Rule-of-Three trigger) |
 
 **Signals never block.** They're a mirror — the principle is that ingest pressure self-corrects via visibility, not via gates (which trigger burnout/avoidance in clinical workflows). This is a load-bearing design choice, not laziness; see *Design Principles* in `CLAUDE.md`.
