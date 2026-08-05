@@ -3960,3 +3960,8 @@ tags: []
 - [[bone-regeneration/park-2022-lateral-sinus-bony-window-gbr]] — Park 2022 · case-report(n=4) · 상악동 측방접근 시 골창을 구강내 공여부로 GBR 활용: 4증례 6개월 재진입 전례 완전 골충전, 12–24개월 안정
 - [[bone-regeneration/zufia-2022-maxillary-tuberosity-block-autograft-applications]] — Zufia 2022 · case-report(n=4) · 상악 결절 블록 자가이식편(삼중이식편 포함): 4증례 최대 6년 골·연조직 안정, 공여부 합병증 0
 - [[bone-regeneration/sethi-2020-onlay-bone-grafts-iliac-crest-retrospective]] — Sethi 2020 · retrospective(n=173, 869임플란트) · 장골능 피개골이식 25년 최대 추적: 전체 생존율 95%±2.7%, 200개월 >92.3%; 공여부 합병증 혈청종뿐
+
+## Synthesis (added 2026-08-04) — implants/soft-tissue KM 증대술 overview (기존 7편 통합)
+
+### overviews
+- [[overviews/implants-soft-tissue-km-augmentation-techniques]] — **NEW Overview** (7편, 2026-08-04): 임플란트 주위 각화점막(Keratinized Mucosa, KM) 증대술 **술식 선택 가이드** — [[overviews/keratinized-mucosa-peri-implant-health-overview]]가 "왜 필요한가"라면 이 페이지는 "**어떤 술식을 언제**". 표준(최고근거)=치조정접근판막/전정성형술(APF/V)+유리치은이식(FGG) 또는 상피하결합조직이식(SCTG), KMW 1.4–3.3mm 증가(Thoma 2014 SR·EAO 합의); 이식재 없는 대안 3종 — 부분층판막 근단변위(PTF, Bruschi 2014)·변형롤봉투판막(MRARF, Wang 2024)·플랩폴딩봉합(FFS, Jung 2021), 전부 공여부 이환율 없음이나 근거는 전향·증례 수준; 메쉬-FGG(De Greef 2023, n=2 증례, 장기근거 미비). fAPF 적용 시 KG 수축률 평균 42.43%(Han 2021, n=203 임플란트) — 목표 KMW에 1.7× 여유 필요, RA 동시시행 여부와 무관(GEE p>0.05). 심미 전치부 복잡례는 APF+CTG→GBR→식립→출현윤곽(EP) 30% 감량 임시치관 순서(Kim 2015).
