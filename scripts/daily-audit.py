@@ -2,7 +2,7 @@
 """
 LLM Wiki — Daily Audit Runner
 
-One entry-point that runs all 20 audits and writes their logs to logs/.
+One entry-point that runs all 21 audits and writes their logs to logs/.
 
 The list below is in AUDITS order — keep them in sync. (2026-07-17: the docstring said
 "14 audits" and omitted five entirely — doi-duplicate-check, overview-coverage-lint,
@@ -95,6 +95,18 @@ One retraction signal (non-blocking):
                                in either direction. Also flags pages that declare themselves
                                retracted but lack the field.
 
+One overview-volatility signal (non-blocking):
+  - overview-volatility-audit.py → overview 단위 흔들림 지수(OVI). 새 신호를 모으지 않고
+                               기존 감사들이 페이지 단위로 흩어놓은 것을 종합 단위로 롤업해
+                               "내가 내린 결론 중 어느 것이 먼저 뒤집힐까"로 정렬한다.
+                               성분: (1)마지막 thesis 편집 이후 유입 논문 (2)thesis 노후
+                               (3)구성 논문 간 contradicts/refines (4)고근거 decay 비율
+                               (5)최신 공백. 철회 논문 포함은 점수가 아니라 하드 플래그
+                               (점수에 녹이면 묻힌다). 정비 커밋(overview 10편 이상 동시
+                               수정)은 thesis 판정에서 제외 — 넣으면 229편 필드 마이그레이션
+                               하나에 전편 나이가 붕괴한다. 가중치·티어 경계는 캘리브레이션
+                               전 잠정값. HTML은 --html 로만 (아티팩트는 deploy 시점).
+
 One SOP-revision trigger (non-blocking):
   - deviation-audit.py       → reads logs/ingest-deviations.md and counts per type;
                                any type at ≥3 occurrences is flagged as an SOP revision
@@ -103,7 +115,7 @@ One SOP-revision trigger (non-blocking):
 Exit code:
     0 if all classic audits + ingest-rationale pass.
     1 if any of those fail.
-    The 16 signals never fail — they are informational (AUDITS.md: signal, not gate).
+    The 17 signals never fail — they are informational (AUDITS.md: signal, not gate).
 
 Usage:
     python3 scripts/daily-audit.py
@@ -140,6 +152,7 @@ AUDITS = [
     ("content-lint.py",                  [],          False),
     ("retraction-audit.py",              [],   False),
     ("deviation-audit.py",               [],   False),
+    ("overview-volatility-audit.py",     [],   False),
 ]
 
 
