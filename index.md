@@ -3978,3 +3978,15 @@ tags: []
 ### overviews
 - [[overviews/autogenous-bone-graft-donor-site-selection-overview]] — **NEW Overview** (7편, 2026-08-05): 자가골이식 **공여부** 선택 종합 — 재료 선택(무엇을 이식할까)과는 다른 축("어디서 채취할까"). 1차 위계는 구강내(Intraoral) > 구외(Extraoral): 구강내 자가골이 장골능 대비 전 추적시점 임플란트 생존율 우위, 24개월 격차 최대(98.2% vs 85.9%, p<0.001, McKenna 2022 SR+MA 23편); 자가골 vs 동종골 블록은 전체적으로 동등(96.23% vs 97.66% NS, Donkiewicz 2021 SR 100편). 장골능은 "열등"이 아니라 "최후수단" — Sethi 2020(173명·869임플란트·25년) 장기생존 95%±2.7%, 합병증은 혈청종뿐. **신흥 프론티어=채취가 아니라 재활용**: 상악동거상 측방골창을 인접 결손 공여골로 전용(Park 2022, 4증례, 재진입 100% 완전충전)·16년 전 이식 상악동 재채취 시 96.4% 신생 생골(Park 2022, n=1)·후구치 공여부 12개월 89.2% 자발치유(Daoud 2024)로 추가 공여부 자체를 없애는 방향. 상악결절 삼중이식편(경조직+연조직 동시 채취, Zufia 2022)도 별도 축.
 - 나머지 9편(GBR 막·이종골 생물학·능선분할, 이질적 성격)은 신규 overview 대신 **기존 4개 overview 본문에 실제 편입**: [[overviews/gbr-barrier-membrane-overview]] Axis 8에 benic-2014(결손분류 Class1–5)·esposito-2009(Cochrane SR, 단축임플란트 vs 수직증대)·li-2025(콜라겐 생체재료학)·park-2022-collagen-membrane-fixation-ridge-volume(막고정 동물실험) 추가; [[overviews/dbbm-bone-substitute-overview]] Axis 10에 stephan-1999·jiang-1999(ABB 조골세포 부착·성장인자 담체, 1999 짝논문)·sousa-2026(동일 카테고리 이종골도 조성 따라 치유역학 상이) 추가; [[overviews/gbr-simultaneous-implant-placement-contour-dehiscence-overview]] §5에 yoo-2025(2차 수술 재진입 시점 2개월 vs 4개월, 경조직 무유의차) 추가; [[overviews/ridge-split-expansion-technique-selection-overview]] §3에 oh-2026(미니플레이트 고정 다단계 분할술, 상악 양방향 확장) 추가.
+
+## Batch ingest (added 2026-08-06) — 구강점막 창상치유·공여부 관리 4편
+
+### suture-wound-closure
+- [[suture-wound-closure/lee-2026-clinical-and-histological-outcomes]] — Lee 2026 · rct (split-mouth, n=19) · 구개 FGG 공여부에서 동종 양막-융모막(Amnion-Chorion Membrane, ACM)과 콜라겐 드레싱(Collagen Dressing, CLD) 비교, 60일 추적 임상·조직학적 지표 전부 유의차 없음(동등) (abstract-only)
+
+### periodontics
+- [[periodontics/glim-2013-detrimental-dermal-wound-healing]] — Glim 2013 · narrative-review (Perspective) · 구강점막은 피부보다 면역매개체·혈관 적고 골수유래세포·재상피화·섬유아세포증식 빨라 무흉터 치유 경향 (abstract-only)
+- [[periodontics/drukala-2005-comparison-of-proliferation-and-motile]] — Drukała 2005 · in-vitro · 구강점막 각질세포가 피부 각질세포보다 이동속도 12%·증식 20% 더 빠름을 보인 체외 비교연구, 섬유아세포 조건배지가 이를 억제
+
+### periodontics/host-modulation
+- [[periodontics/host-modulation/fernandez-gutierrez-2017-streptococcus-salivarius-gingival-reepithelialization]] — Fernández-Gutiérrez 2017 · in-vitro · 유산균 39종 스크리닝, S. salivarius MS-oral-D6가 분비 세린단백분해효소로 잇몸 재상피화를 약 2.5배 촉진
