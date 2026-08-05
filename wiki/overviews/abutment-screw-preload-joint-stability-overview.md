@@ -25,6 +25,8 @@ source_papers:
   - wiki/prosthetic-materials/selvi-2025-custom-stock-abutment-fatigue-sem.md
   - wiki/prosthetic-materials/sun-2026-abutment-contamination-internal-hex-preload.md
   - wiki/prosthetic-materials/varvara-2020-retightening-preload-loss-abutment-screws.md
+  - wiki/prosthetic-materials/abutment-screw/krishnan-2013-management-abutment-screw-loosening.md
+  - wiki/prosthetic-materials/abutment-screw/ziada-2025-abutment-material-stress-distribution-fea.md
 evidence_level: synthesis
 source: synthesis
 ---
@@ -52,18 +54,20 @@ source: synthesis
 > - 맞춤 vs 기성 어버트먼트 (Selvi 2025, 200만 사이클): CAD-CAM 맞춤(custom)은 기성(stock)보다 기저 RTV가 낮으나 200만 사이클 후 전하중 유지는 동등 — 둘 다 기능 하중에 적합. 전하중 손실의 대부분이 5만–100만 사이클에 집중되므로 **초기(삽입 후 수주 내) 재조임** 권고.
 > - 연결부 기하 심화 (Microgap·Cone Angle): 모든 연결부에 하중 전부터 마이크로갭(0.15–9 µm)이 존재하고 하중 시 최대 40.5 µm로 확대(Angermair 2024, 방사광); 소원추각(<12°) friction-fit은 지대주 내측 변위로 임플란트 외벽을 변형시키나 대원추각(~45°) butt-joint는 그렇지 않음 — 변연골 응력 전달 차이의 기전적 단서.
 > - 어버트먼트 형태와 골 응력 (Aalaei 2017, FEA): 세그먼트형(분리형) 어버트먼트는 각도 하중 시 변연골 응력을 1/4로 낮추되(31 vs 126 MPa) 나사 응력은 약간 높임(430 vs 375 MPa) — 골 보호와 나사 보호 사이의 trade-off. 각도(비축성) 하중이 임상 주벡터이므로 골 보호 쪽이 유리.
+> - 어버트먼트 **재료**도 독립적 골응력 레버 (Ziada 2025, FEA): 연결부 형태 2종×재료 4종(티타늄·Co-Cr·Co-Cr-S·지르코니아) 조합 전부에서 **티타늄이 최저·최안정 von Mises 응력** — Co-Cr이 최악(사면하중 최대 99.06 MPa). 세그먼트화(Aalaei)와 재료(Ziada)는 서로 다른 두 골보호 레버.
+> - **나사가 이미 풀렸을 때의 처치**(Krishnan 2013, 서술고찰+증례): 보존적 제거(크라운+지대주+나사 일체 제거→시멘트 가열분해→35 Ncm 재체결+10분 후 재토크→당일 재합착) vs 개창법(access-hole) vs 파괴적 절단 3가지 관리법 — 이 페이지의 예방 프로토콜이 다루지 않던 "이미 풀렸을 때" 공백을 메움.
 
 ## Three-line Summary
 
-Hub synthesis of 18 prosthetic-materials papers on the implant abutment screw joint: screw loosening (~10.4% at 5 years, ~20.8% at 10 years) is driven by preload loss via two mechanisms — settling/embedment relaxation (2–10% even unloaded) and cyclic fatigue (16.1–39% total removal-torque loss) — with friction/thread roughness as the master lever (only ~8–10% of applied torque converts to preload; carbon-coated screws lose preload 329.9→253.7 N over 10 reuses, Sagheb 2023).
+Hub synthesis of 20 prosthetic-materials papers on the implant abutment screw joint: screw loosening (~10.4% at 5 years, ~20.8% at 10 years) is driven by preload loss via two mechanisms — settling/embedment relaxation (2–10% even unloaded) and cyclic fatigue (16.1–39% total removal-torque loss) — with friction/thread roughness as the master lever (only ~8–10% of applied torque converts to preload; carbon-coated screws lose preload 329.9→253.7 N over 10 reuses, Sagheb 2023).
 
 Retightening counters settling (optimal interval debated: 10 min per Nithyapriya 2018/Vinhas 2022 vs 2 min per Varvara 2020; plateau at 2nd retorque); connection-design loosening superiority is contested (SR: Morse-taper best vs Vinhas 2022: no design effect); screw geometry governs loosening independently (KSIII <25% vs TSIII 36.5–51.8%, ~35 Ncm optimal; Lee 2025); screwless taper-lock joints subside under load causing late occlusal drift (Ren 2024).
 
-Loosening control is procedural — manufacturer-specified torque with a calibrated wrench (which under-delivers 11–29.3%), clean connection, delayed retorque, and recall re-verification; PTFE tape lowers preload (avoid); GapSeal preserves it; abutment contamination drops preload even partially; custom and stock abutments are fatigue-equivalent.
+Loosening control is procedural — manufacturer-specified torque with a calibrated wrench (which under-delivers 11–29.3%), clean connection, delayed retorque, and recall re-verification; PTFE tape lowers preload (avoid); GapSeal preserves it; abutment contamination drops preload even partially; custom and stock abutments are fatigue-equivalent; titanium abutments minimize peri-implant bone stress independent of connection design (Ziada 2025); and when prevention fails, conservative crown-preserving retrieval is the first-line management route (Krishnan 2013).
 
 ## 세줄요약
 
-18편 종합: 나사 풀림(5년 ~10.4%, 10년 ~20.8%)은 전하중 손실이 원인이며, 기전은 세틀링(무하중에서도 2–10%)과 동적 피로(제거토크 손실 16.1–39%) 둘 — 마찰·조도가 핵심 레버(가해진 토크 중 ~8–10%만 전하중化; 탄소코팅 나사 10회 재사용 시 전하중 329.9→253.7 N 감소, Sagheb 2023).
+20편 종합: 나사 풀림(5년 ~10.4%, 10년 ~20.8%)은 전하중 손실이 원인이며, 기전은 세틀링(무하중에서도 2–10%)과 동적 피로(제거토크 손실 16.1–39%) 둘 — 마찰·조도가 핵심 레버(가해진 토크 중 ~8–10%만 전하중化; 탄소코팅 나사 10회 재사용 시 전하중 329.9→253.7 N 감소, Sagheb 2023).
 
 재조임이 세틀링 보상(최적 시점 논쟁: 10분 Nithyapriya 2018·Vinhas 2022 vs 2분 Varvara 2020; 2회째에 plateau); 연결부 형태의 풀림 효과 논쟁적(SR: 모스테이퍼 우위 vs Vinhas 2022: 차이 없음); 나사 설계 자체가 풀림 좌우(KSIII <25% vs TSIII 36.5–51.8%, ~35 Ncm 최적; Lee 2025); 나사 없는 순수 테이퍼락은 하중으로 침하해 후기 교합 저하(Ren 2024).
 
@@ -88,6 +92,8 @@ The abutment screw is the single most failure-prone point in a screw-retained im
 **Microgap is not a geometry that geometry abolishes.** Angermair 2024 used synchrotron phase-contrast imaging (0.1 µm resolution) on four systems and found that **every** connection — three small-angle (<12°) conical friction-fits and one ~45° butt-joint — carried a microgap *before any load was applied* (0.15–9 µm), expanding to **40.5 µm** under load. The cone angle dictated the *displacement mode*: small-angle conical joints seated deeper under load and deformed the outer implant wall, whereas the large-angle butt-joint distributed force without that wall deformation — a mechanistic link between connection design and crestal-bone stress. Marenzi 2026 found this gap also depends on delivered torque: at 25 Ncm all three tested Morse-taper systems (5°/3°/8°) showed *zero* microgap by SEM, but at 20 Ncm the smallest- and largest-angle tapers gapped more than the 5° — so taper angle and torque magnitude interact at the threshold. The settling counterpart of this is Saleh-Saber 2017's ranking — octagon < Morse 6°/11° < internal hexagon — confirming that internal geometries are *not* interchangeable for dimensional stability even when they all "settle."
 
 **Abutment architecture as a bone-protection lever (distinct from loosening).** Aalaei 2017 (3D FEA, mandibular molar, Straumann tissue-level) compared a **segmented** (two-piece abutment + coping) vs **non-segmented** (one-piece) screw-retained abutment and found a clean trade-off: under the clinically dominant 45° angular load the segmented design cut peri-implant bone stress nearly fourfold (31 vs 126 MPa; micro-strain 2400 vs 9400 µɛ) at the cost of slightly higher abutment-screw stress (430 vs 375 MPa). The two-piece junction permits micro-motion that dissipates lateral force before it reaches crestal bone — so the segmented abutment trades a little screw-stress headroom for substantial bone protection, the favorable exchange in off-axis-loaded sites.
+
+**Abutment material as a second stress-distribution lever.** Aalaei 2017 shows abutment *segmentation* redistributes stress between bone and screw; Ziada 2025 (3D FEA, star tube-in-tube vs Morse+internal-hex connections × 4 customized abutment materials — titanium, Co-Cr, Co-Cr-S, zirconia — under 200 N axial and 100 N/45° oblique loading) shows abutment *material* does the same at the peri-implant bone level. Stress concentrated in crestal cortical bone in every combination and was consistently higher under oblique than axial loading (confirming, from a different model, why off-axis load is the clinically dominant vector Aalaei 2017 also designs around), but **titanium abutments produced the lowest and most stable von Mises stress across every connection–load combination**, with Co-Cr the worst performer (peak oblique 99.06 MPa vs. titanium's lower value). Read together with Aalaei 2017, bone-stress management at the abutment level has (at least) two independent levers — segmentation and material — and titanium remains the default material choice when crestal-bone stress minimization is the priority, pending bench/clinical validation of the FEA result.
 
 **Screw design as an independent lever.** Lee 2025 dissociated torque magnitude from screw geometry in two Osstem systems: the modified **KSIII** screw (reduced head diameter, narrower thread profile, longer nominal length) held torque loss **<25% at every torque level (torque-insensitive)**, while the conventional **TSIII** lost **36.5–51.8% (~2.5–3.0× more)** and was strongly torque-dependent. **~35 Ncm gave the most stable preload**, and 40 Ncm was not protective. Pardal-Peláez 2017 echoes that screw factors matter — conical-head screws loosen less than flat-head, larger screw-joint diameter favors torque maintenance, and material ranks gold/Ti-alloy favorably; Nithyapriya 2018 ranks preload by material as **gold > Ti-alloy > surface-treated Ti > pure Ti**.
 
@@ -134,6 +140,20 @@ Note on the friction paradox: lower friction delivers *higher* preload for a giv
 7. **Prefer favorable screw factors.** Gold > Ti-alloy > surface-treated Ti > pure Ti for preload; conical-head over flat-head; larger screw-joint diameter; the KSIII-type modified geometry resists loosening across torque levels (Lee 2025, Pardal-Peláez 2017, Nithyapriya 2018).
 8. **Re-verify at recall.** Settling-driven preload loss can also lower occlusion after delivery in load-heavy molar sites (Kim 2020) — re-check torque and occlusion at 3–6 month recalls. In off-axis-loaded sites, a segmented abutment design markedly lowers crestal bone stress (Aalaei 2017).
 
+## Managing a Loosened Screw (once loosening has occurred)
+
+Everything above is prevention. Krishnan 2013 (narrative review + clinical case) addresses the question the rest of this page does not: **what do you do when the screw has already loosened?** Screw loosening is the second most common cause of implant-restoration failure after loss of osseointegration, and its causal chain is exactly the preload/settling/friction picture this overview builds — inadequate initial preload, the settling effect (2–10% loss within minutes, consistent with Pardal-Peláez 2017/Varvara 2020 above), coefficient of friction below ~0.12, external-hex geometry, and wide occlusal tables/cantilevers all raise the joint-separating force past the retained clamping force.
+
+**Three management routes, trading crown preservation against access difficulty:**
+
+| Method | Description | Crown preserved? |
+|---|---|---|
+| Conservative removal | Crown + abutment + screw removed intact, cement disintegrated (furnace heating, ~250°C), screw retorqued, crown recemented same day | Yes |
+| Access-hole retightening | Perforation through the crown (labial/occlusal/lingual — ideally recorded at cementation) to reach the screw directly | Depends on access location |
+| Destructive sectioning | Vertical cuts through the crown to force separation | No — crown discarded |
+
+The conservative route — demonstrated in the paper's case (maxillary central-incisor crown, loosened one week after cementation) — retightens to 35 Ncm followed by a **10-minute re-torque**, i.e. the same delayed-retorque logic this overview's protocol recommends, applied to a *repair* rather than an initial seating. This closes a genuine gap in the prevention-only framing above: even with correct initial procedure, screws loosen in practice, and access-preserving retrieval should be attempted before resorting to destructive sectioning.
+
 ## Abutment Subsidence (screwless taper-lock)
 
 For pure Morse-taper / taper-lock systems (no retention screw), the failure mode is not screw loosening but **progressive abutment subsidence** into the implant under occlusal load, producing late occlusal drift (Ren 2024):
@@ -165,3 +185,5 @@ For pure Morse-taper / taper-lock systems (no retention screw), the failure mode
 - [[prosthetic-materials/abutment-screw/vinhas-2022-preload-loss-implant-abutment-connection-designs]] — the contrarian: connection design did NOT govern preload maintenance across 180 implants; cyclic loading degraded all, retightening helped all — procedure over geometry.
 - [[overviews/prosthetic-materials-decision-ladder]] — parent decision ladder for crown/bridge/implant prosthesis material and retention choices; this overview supplies the screw-joint mechanics layer.
 - [[overviews/implant-occlusion-loading-biomechanics-overview]] — settling- and subsidence-driven occlusal change is why taper-lock and high-load molar occlusion must be finalized after the joint settles.
+- [[prosthetic-materials/abutment-screw/krishnan-2013-management-abutment-screw-loosening]] — narrative review + case: 3-route taxonomy for managing an *already-loosened* screw (conservative removal / access-hole retightening / destructive sectioning); conservative protocol uses the same delayed-retorque logic as this page's prevention protocol, applied to repair.
+- [[prosthetic-materials/abutment-screw/ziada-2025-abutment-material-stress-distribution-fea]] — 3D FEA: abutment material (not just connection design or segmentation) independently governs peri-implant bone stress — titanium lowest/most stable across all connection×load combinations, Co-Cr worst.
