@@ -1,0 +1,3068 @@
+TITLE: Evaluation of bone apposition on surface modified titanium implant in experimental animal model: A systematic review and meta-analysis
+DOI: 10.4103/jisp.jisp_222_22
+
+INTRODUCTION
+
+The advent of newer dental implant materials, surface structures, and designs has markedly improved their clinical application over the years. A long-term success and survival rate has been reported with the most commonly available endosseous dental implant systems.[] Adequate osseointegration appears to be a prerequisite in terms of measuring the success of a dental implant.[] As defined by Albrektsson, osseointegration is a “Direct structural and functional connection between living bone and the surface of a load-bearing titanium implant.” The implant material, implant design, implant surface characteristics, the position of the bone, surgical technique and the implant loading conditions were considered essential features for implant to osseointegrate. In order to promote tissue integration and better mechanical stability, a number of modifications have been introduced regarding implant material, design and surface characteristics.[] Titanium and its compounds have been found to be the most reliable implant material in terms of their inertness, mechanical strength, mechanical and biological stability, biocompatibility, and bone apposition characteristics.[] Numerous methods of implant surface modifications have been adopted to optimize roughness and topography of endosseous implant surfaces to maximize osseointegration. Such implants possess various surface characteristics ranging from machined/turned surfaces to surface roughness created by sandblasting, acid etching, coatings of osseoinductive materials such as hydroxyapatite (HA), calcium phosphate, ceramics or deposition of osseoinductive materials such as bone morphogenetic proteins (BMP’s), growth factors, and collagen chitosan polymers.[] Osseointegration proceeds as two events, first is primary stability or mechanical stability which usually rely on compactness and thickness of bone and implant designs, whereas the secondary stability or biological stability implies to interrelation between the exterior aspect of the implant and haemorrhagic site. Thus, a successful implant integration is dependent on the factors such as bone density and quality, implant type, design surface modifications, and various surgical procedures.[] Preclinical animal studies are carried out to analyze the biocompatibility and tissue response of newer implant materials. Pellegrini. discussed the relevance of preclinical implant animal studies to human situation and described the prediction of human trials through these studies. Prior to human clinical exposure, animal testing is conducted on a range of species from experimental mice to larger animals, for example, dogs or nonhuman primates. Preclinical trials involving smaller species are conducted to establish disease-associated research whereas large species provide information regarding tissue healing.[]
+
+The methods that were used for the experimental evaluation of the osseointegration of the implant surfaces to assess implant stability were the histomorphometric analysis of peri-implant bone. Further methods that were used for the evaluation of the bone apposition are removal torque value analysis (RTV) and the Implant stability Quotient (ISQ). ISQ is a noninvasive technique which quantifies implant stability where higher values suggest high stability, and lower values suggest implant instability.[]
+
+Although, there have been vast number of animal studies mentioned in earlier literature but still data is inconclusive and unclear as to whether which surface modifications of implant provide successful osseointegration. “Does the surface modification of dental implants have an impact on bone apposition in peri-implant area?”
+
+Hence, the objective of current systematic review and consecutive meta-analysis was to primarily appraise published evidence writings pertaining to the proposed research question conducted between 2000 and 2020 and to secondarily analyze whether surface modified dental implants show an enhanced peri-implant bone formation in comparison to machined surface in healthy experimental animal models.
+
+PICO framework and focused question
+
+This systematic review and meta-analysis was carried out on the basis of PRISMA recommendations (preferred reporting items for systematic reviews and meta-analyses). The study strategy was conducted using the PICO framework.[]
+
+The focused question was, “To assess bone apposition on surface modified titanium implant surfaces in healthy experimental animal model?”
+
+P (POPULATION): Healthy animal models with placement of titanium implant in intraoral and extraoral sites
+
+I (INTERVENTION): Surface modified implant (either subtractive or additive)
+
+C (COMPARISON): Machined (turned) implants
+
+O (OUTCOMES): Bone implant contact percentage (BIC %), (RTV = N-cm), and ISQ.
+
+MATERIALS AND METHODS
+
+Search strategy
+
+Two authors (PS and SS) independently searched the data in the following databases: PubMed, Scopus, Web of Science, and EMBASE including all studies published from 2001 to 2020 by framing a search strategy, manual search was also done for potentially relevant literature [].
+
+Protocol registration
+
+The registration number for protocol is CRD42020204907 as per PROSPERO (International prospective register of systematic reviews) database.
+
+Eligibility criteria
+
+Criteria for the inclusion and exclusion are mentioned in.
+
+Table 1
+
+Criteria for inclusion and exclusion
+
+This systematic review was confined to the literature fulfilling following inclusion criteria
+
+Language: Studies published in the English Language
+
+Current developments published during year 2000–2020
+
+Preclinical animal investigation
+
+Number and location of the implants defined
+
+Animal studies having healthy animal models with different implant surface modifications in healed sites presenting % BIC and results from biomechanical tests
+
+Presence of a control group-Machined (turned or smooth surface)
+
+Exclusion criteria
+
+Other study designs (e.g., clinical investigations,studies, cell culture models, conference papers, case reports, reviews and studies in systemically compromised and disease induced animal model such as diabetes and osteoporosis), studies in compromised host bone intentional creation of peri-implantitis, nicotine, smoking, defects with application with GFR, loaded implants, mini-implants with diameter <2.5 mm, and investigations with an unclear outcome were excluded
+
+Data extraction
+
+Titles and abstracts of studies were initially screened by two authors (PS and SS) and checked for agreement to exclude the irrelevant articles and duplicates. This was independently verified by the 3author (GSC). Data were extracted using the standardized evaluation forms. A detailed description of the literature search has been depicted in the PRISMA Flowchart [].
+
+The data extracted are:
+
+Name of author and its publication year;
+
+Type of animal model used and their number;
+
+Location of implant;
+
+Number of implants placed;
+
+Type of surface modification of implant;
+
+Follow-up time (in weeks);
+
+Outcome assessed (BIC %, RTV = Ncm, ISQ value).
+
+Figure 1
+
+Study selection. PRISMA flow diagram. Out of 2720 identified studies and after the application of the inclusion and exclusion criteria, 37 studies were included in the qualitative synthesis and 20 studies were included in the meta-analysis. N - number of articles; PRISMA - Preferred items for Systematic Reviews and Meta-Analyses
+
+Risk of bias and quality assessment
+
+Risk of bias and quality assessment of all the included studies was performed independently by two reviewers (PS, SS), by using SYRCLE RoB tool, and the bias was presented by assigning a code of “high”, “low,” or “unclear” in each of the 10 items.[] []. The Modified ARRIVE guidelines were used for quality assessment[] [].
+
+Figure 2
+
+Percentages of ROB, measured using the SYRCLE tool across all the included studies, averaged per item. ROB - risk of bias; SYRCLE - Systematic Review Center for Laboratory Animal Experimentation
+
+Table 2
+
+Checklist of ARRIVE criteria for all the included studies
+
+ARRIVE criteria
+
+Abrahmsson et al. 2008[]
+
+Bonfante et al. 2011[]
+
+Chiang et al. 2016 []
+
+Faeda et al. 2012[]
+
+Franco et al. 2008[]
+
+Froum et al. 2003 []
+
+Hallgren et al. 2003[]
+
+Huang et al. 2015[]
+
+Gehrke et al. 2016[]
+
+london et al. 2002[]
+
+Title
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+Abstract
+
+Species
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+Key findings
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+Introduction
+
+Background information
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+Reasons for animal model
+
+0
+
+1
+
+0
+
+0
+
+1
+
+0
+
+0
+
+1
+
+0
+
+0
+
+Hypothesis
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+Methods
+
+Ethical statement
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+Randomisation of animals
+
+1
+
+1
+
+0
+
+1
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+Blinding of assessor
+
+0
+
+0
+
+0
+
+1
+
+0
+
+1
+
+0
+
+0
+
+0
+
+0
+
+Anaesthesia
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+Antibiotics
+
+0
+
+1
+
+0
+
+1
+
+1
+
+1
+
+1
+
+0
+
+1
+
+0
+
+Analgesia
+
+0
+
+1
+
+0
+
+0
+
+1
+
+1
+
+1
+
+0
+
+0
+
+0
+
+Surgical Procedure
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+Reporting species
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+Housing conditions
+
+0
+
+1
+
+0
+
+1
+
+0
+
+0
+
+1
+
+0
+
+0
+
+0
+
+Implant randomisation
+
+0
+
+0
+
+0
+
+1
+
+0
+
+0
+
+0
+
+0
+
+1
+
+0
+
+Statistical methods
+
+1
+
+1
+
+1
+
+1
+
+1
+
+0
+
+1
+
+1
+
+1
+
+1
+
+Results
+
+Results reported
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+Standard error/CI
+
+1
+
+1
+
+1
+
+1
+
+1
+
+0
+
+1
+
+1
+
+1
+
+1
+
+Discussion
+
+Interpretation
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+Study limitations
+
+0
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+3 Rs reported
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+Relevance to humans
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+Funding
+
+0
+
+0
+
+0
+
+0
+
+1
+
+0
+
+1
+
+0
+
+1
+
+0
+
+Total score
+
+15
+
+20
+
+15
+
+20
+
+19
+
+16
+
+19
+
+16
+
+18
+
+15
+
+ARRIVE criteria
+
+Feada et al. 2009[]
+
+Kim et al. 2015[]
+
+Rong et al. 2009[]
+
+Schliephake et al. 2004[]
+
+Sollazzo et al. 2007 []
+
+Suzuki et al. 2010 []
+
+Yeo et al. 2008[]
+
+Title
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+Abstract
+
+Species
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+Key findings
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+Introduction
+
+Background information
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+Reasons for animal model
+
+0
+
+0
+
+1
+
+1
+
+0
+
+0
+
+0
+
+Hypothesis
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+Methods
+
+Ethical statement
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+Randomisation of animals
+
+0
+
+1
+
+1
+
+0
+
+0
+
+0
+
+0
+
+Blinding of assessor
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+Anaesthesia
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+Antibiotics
+
+0
+
+1
+
+1
+
+0
+
+1
+
+1
+
+0
+
+Analgesia
+
+0
+
+1
+
+0
+
+0
+
+0
+
+1
+
+0
+
+Surgical procedure
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+Reporting species
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+Housing conditions
+
+1
+
+1
+
+1
+
+0
+
+0
+
+0
+
+1
+
+Implant randomisation
+
+0
+
+0
+
+1
+
+1
+
+0
+
+0
+
+0
+
+Statistical methods
+
+1
+
+1
+
+1
+
+0
+
+1
+
+1
+
+1
+
+Results
+
+Results reported
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+Standard error/CI
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+Discussion
+
+Interpretation
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+Study limitations
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+3 Rs reported
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+Relevance to humans
+
+1
+
+1
+
+0
+
+1
+
+1
+
+1
+
+1
+
+Funding
+
+0
+
+1
+
+1
+
+0
+
+1
+
+0
+
+0
+
+Total score
+
+16
+
+20
+
+20
+
+16
+
+16
+
+17
+
+16
+
+ARRIVE criteria
+
+Martins et al. 2018 []
+
+Offermans et al. 2018[]
+
+Schliephake et al. 2006[]
+
+Strnad et al. 2008[]
+
+Sul et al. 2002[]
+
+Thiem et al. 2019 []
+
+Zechner et al. 2003[]
+
+Souza et al. 2019[]
+
+Aparicio et al. 2011[]
+
+De Maeztu et al. 2008[]
+
+Title
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+Abstract
+
+Species
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+Key findings
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+Introduction
+
+Background information
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+Reasons for animal model
+
+1
+
+1
+
+1
+
+0
+
+1
+
+1
+
+1
+
+1
+
+0
+
+1
+
+Hypothesis
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+Methods
+
+Ethical statement
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+Randomisation of animals
+
+1
+
+1
+
+0
+
+0
+
+1
+
+1
+
+1
+
+1
+
+0
+
+0
+
+Blinding of assessor
+
+1
+
+1
+
+0
+
+0
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+Anaesthesia
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+Antibiotics
+
+1
+
+1
+
+0
+
+0
+
+0
+
+1
+
+1
+
+1
+
+1
+
+1
+
+Analgesia
+
+1
+
+1
+
+0
+
+0
+
+1
+
+1
+
+1
+
+1
+
+1
+
+0
+
+Surgical Procedure
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+Reporting species
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+Housing conditions
+
+1
+
+1
+
+0
+
+0
+
+1
+
+1
+
+1
+
+1
+
+1
+
+0
+
+Implant randomisation
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+0
+
+1
+
+Statistical methods
+
+1
+
+1
+
+0
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+Results
+
+Results reported
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+Standard error/CI
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+Discussion
+
+Interpretation
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+Study limitations
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+3 Rs reported
+
+0
+
+0
+
+0
+
+0
+
+1
+
+1
+
+0
+
+1
+
+0
+
+0
+
+Relevance to humans
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+Funding
+
+1
+
+1
+
+0
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+Total score
+
+23
+
+23
+
+16
+
+18
+
+24
+
+24
+
+23
+
+24
+
+20
+
+20
+
+ARRIVE criteria
+
+Yurttutan et al. 2018[]
+
+Piatelli et al. 2002[]
+
+Cho and Jung 2003[]
+
+Cho and Park 2003[]
+
+De Tullio et al. 2020[]
+
+Faeda et al. 2009 []
+
+Kim et al. 2010[]
+
+Shah et al. 2016[]
+
+Ahn et al. 2009[]
+
+Koh et al. 2009[]
+
+Title
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+Abstract
+
+Species
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+Key findings
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+Introduction
+
+Background information
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+Reasons for animal model
+
+0
+
+0
+
+0
+
+0
+
+0
+
+1
+
+1
+
+0
+
+0
+
+1
+
+Hypothesis
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+Methods
+
+Ethical statement
+
+1
+
+0
+
+0
+
+0
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+Randomisation of animals
+
+1
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+1
+
+Blinding of assessor
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+Anaesthesia
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+Antibiotics
+
+1
+
+0
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+Analgesia
+
+1
+
+0
+
+0
+
+0
+
+1
+
+1
+
+1
+
+1
+
+0
+
+0
+
+Surgical procedure
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+Reporting species
+
+1
+
+0
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+Housing conditions
+
+1
+
+0
+
+0
+
+0
+
+1
+
+1
+
+1
+
+1
+
+0
+
+1
+
+Implant randomisation
+
+1
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+Statistical methods
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+Results
+
+Results reported
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+Standard error/CI
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+Discussion
+
+Interpretation
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+Study limitations
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+3 Rs reported
+
+1
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+Relevance to humans
+
+1
+
+0
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+Funding
+
+1
+
+1
+
+1
+
+1
+
+0
+
+0
+
+0
+
+1
+
+0
+
+0
+
+Total score
+
+22
+
+13
+
+16
+
+16
+
+18
+
+19
+
+19
+
+19
+
+16
+
+19
+
+Grading “0” (not reported) or “1” (reported). CI – Confidence interval
+
+Statistical analysis
+
+Statistical analysis was performed by using Metapackage tool in R programming which provide standard statistical programming methods for meta-analysis supported by R is an open source Implementation of S programming language, developed by R core Team at the University of Auckland, New Zealand. Forest plot was used to determine the summary effect for the included studies as sum of mean difference standardized mean differences (SMD) of the studies at 95% confidence interval for each of the assessed parameters for different groups of implant surfaces. A subgroup analysis was carried out at different follow-up periods (<4 weeks, 48 weeks, and more than 8 weeks). Funnel plot was drawn to evaluate the publication bias in the selected studies using Begg’s test, which showed minimal asymmetry suggesting that there was no publication bias in our analysis. For analysing the heterogeneity, a random-effects model was used. Q statistic and itsvalue were used to test whether effect sizes departed from homogeneity. Tauwas used to quantify the amount of heterogeneity and Iexpressed the proportion of dispersion due to heterogeneity.[]
+
+RESULTS
+
+Study strategy
+
+A total of 2720 articles were found by the electronic search of the databases and by the manual search. After the removal of duplicates, 2251 articles were screened for their titles and abstract. The number of articles was later curtailed to 409 for full text review. After overall assessment, 37 articles were included for qualitative synthesis and 20 studies for quantitative synthesis based on the predefined inclusion and exclusion criteria
+
+Description of the studies
+
+Details of the included studies are tabulated inand. Included studies measured the effect on BIC percentage (BIC%) around implants, RTV, ISQ on implants with machined surface and implants with modified surfaces either additive or subtractive were contemplated at different follow up periods ranging between 1 week and 12 weeks. Altogether all included articles reported placement of 1891 implants in 513 animals. Rodents (Guinea pigs) and rabbits were preferably used for the experiments. Dogs were the second most common animal used. Other animals such as pigs, foxhound, and sheep were also used in the experiment. In addition, the sites of implant placement such as intraoral site (maxilla, mandible, or both) and extraoral sites (femur, tibia, humerus, and illiac crest) were also considered.
+
+Table 3
+
+Characteristics of Included Studies
+
+Studies
+
+Animals (n)
+
+Surface type
+
+Number of implants (n)
+
+Implantation sites
+
+Follow-up weeks*
+
+Outcomes
+
+Abrahamsson, 2008[]
+
+20 dogs
+
+1. Machined 2. SLA
+
+160
+
+Mandible
+
+2 h, 4 days, 1, 2, 4, 6, 8, 12 weeks
+
+BD %, BIC %, ISQ
+
+Bonfante, 2011[]
+
+6 mongrel dogs
+
+1. Machined 2. DAE
+
+48
+
+Tibia
+
+2, 4 weeks
+
+Torque to interface failure BIC %
+
+Chiang, 2016[]
+
+12 miniature pigs
+
+1. Machined 2. SLA 3. SLAffinity
+
+36
+
+Mandible
+
+3, 6 weeks
+
+BIC %
+
+Faeda, 2012[]
+
+48 New Zealand white rabbits
+
+1. Machined2. Laser-modified surface 3. HA-coated surface
+
+72
+
+Tibia
+
+4, 8, 12 weeks
+
+BIC %, BBTs %
+
+Froum, 2003[]
+
+3 beagle dogs
+
+1. Machined2. Sandblasted surface EVL implant
+
+11
+
+Mandible
+
+12 weeks
+
+BIC %
+
+Franco, 2008[]
+
+2 mongrel dogs
+
+1. Machined2. Anodized (Ca-P enriched Ti surface)
+
+12
+
+Humerus
+
+8 weeks
+
+BIC %
+
+Hallgren, 2003[]
+
+Two studies1. Pilot study - 10 New Zealand white rabbits
+
+1. Machined2. Laser modified
+
+120
+
+Femur, Tibia
+
+12 weeks
+
+BIC %, RTV, ISQ, BA % inside the threads
+
+2. Second study - 10 New Zealand white studies
+
+Huang, 2015[]
+
+6 miniature pigs
+
+1. Machined 2. SLAffinity
+
+24
+
+Mandible
+
+3, 6 weeks
+
+BIC %
+
+Gehrke, 2016[]
+
+6 New Zealand white rabbits
+
+1. Machined 2. SLA
+
+24
+
+Tibia
+
+4 weeks
+
+BIC %, RTV
+
+London, 2002[]
+
+11 Rabbits
+
+1. Machined
+
+44
+
+Tibia
+
+8 weeks
+
+BIC %
+
+2. Dual-etched surface
+
+3. Titanium plasma spray
+
+4. HA coated
+
+Martins, 2017[]
+
+15 New Zealand white rabbits
+
+1. Machined
+
+30
+
+Tibia
+
+8 weeks
+
+BIC %, BA %
+
+2. RBM Ti
+
+3. M-Y-TZ gp
+
+Offermans, 2018[]
+
+36 New Zealand white rabbits
+
+1. Machined 2. Ti-Sr-O coating
+
+72
+
+Femoral condyle
+
+2, 12 weeks
+
+BIC %, BF %
+
+Strnad, 2008[]
+
+3 beagle dogs
+
+1. Machined 2. Alkali-modified surface
+
+24
+
+Tibia
+
+1, 3, 9, 12 weeks
+
+BIC %, ISQ
+
+Sul, 2002[]
+
+10 New Zealand white rabbits
+
+1. Machined 2. Ca test implants
+
+32
+
+Femur
+
+6 weeks
+
+BIC %, RTV
+
+Schliephake, 2006[]
+
+10 foxhounds
+
+1. Machined
+
+80
+
+Mandible
+
+4, 12 weeks
+
+Mean ISQ, RFA
+
+2. SLA
+
+3. Screw with Collagen 1 coating
+
+4. Ti implant with collegen 1 coating
+
+5. RGD peptide coating at 2 difference concentration (100, 1000 µmol/ml)
+
+6. Biomimetic calcium phosphate coating
+
+7. Composite coating of calcium phosphate and collagen
+
+8. Surface coating of collagen and chondroiton sulfate and BMP2
+
+Thiem, 2019[]
+
+36 New Zealand white rabbits
+
+1. Machined
+
+72
+
+Femur
+
+2, 4 weeks
+
+BIC %, dBF %
+
+2. SLA
+
+3. rPlas
+
+4. smPlas
+
+5. rNB-C
+
+6. smNB-C
+
+Zechner, 2003[]
+
+12 minipigs
+
+1. Machined2. HA coated
+
+72
+
+Mandible
+
+3, 6, 12 weeks
+
+BIC %
+
+3. Anodized Ti implants
+
+Souza, 2019[]
+
+10 rabbits
+
+1. Machined
+
+20
+
+Tibia
+
+3, 6 weeks
+
+ISQ, RTV
+
+2. SLA
+
+Aparicio, 2011[]
+
+6 minipigs
+
+1. Machined 2. Acid etched
+
+64
+
+Maxilla, mandible
+
+2, 4, 6, 10 weeks
+
+BIC %, pull out tests
+
+3. Grit blasted
+
+4. Grit blasted+acid etched
+
+De Maeztu, 2008[]
+
+12 beagle dogs
+
+1. Implants with CO ion implantation surface treatment
+
+72
+
+Mandibles
+
+3, 6 months
+
+BIC %
+
+2. Implants subjected to DLC coating
+
+3.Acid-etched implants
+
+4. SLA
+
+5. Anodized
+
+6. Machined
+
+Faeda, 2009[]
+
+48 New Zealand white rabbits
+
+1. Machined
+
+72
+
+Tibia
+
+4, 8, 12 weeks
+
+RTV values
+
+2. Laser modified
+
+3. HA coated
+
+Kim, 2015[]
+
+4 beagle dogs
+
+1. Machined
+
+32
+
+Mandible
+
+8 weeks
+
+BIC %
+
+2. SLA
+
+ITBD %
+
+3. Anodized
+
+4. Modi-ANO
+
+Rong, 2009[]
+
+14 white rabbits
+
+1. Machined2. Laser treated
+
+56
+
+Tibia
+
+4 weeks
+
+RTV, BIC %
+
+3. Acid etched
+
+4. Laser treated+acid etched
+
+Schliephake,
+
+10 foxhounds
+
+1. Machined
+
+40
+
+Mandible
+
+4, 12 weeks
+
+BIC %
+
+2005[]
+
+2. Implant coated with collagen 1
+
+3. Implants with Collagen 1 and RGD (100 µmol/mL)
+
+4. Implant coating with collagen 1 and RGD (1000 µmol/mL)
+
+Sollazzo, 2007[]
+
+4 white New Zealand rabbits
+
+1. Machined
+
+16
+
+Tibia
+
+4 weeks
+
+BIC %
+
+2. Anatase coating
+
+Suzuki, 2010[]
+
+16 New Zealand rabbits
+
+1. Machined
+
+64
+
+Femur
+
+2.4 weeks
+
+Torque to interface failure
+
+2. AB/AE
+
+3. AB/AE+Nanothicknessbioceramic – coated
+
+BIC %
+
+4. Plasma-sprayed calcium –phosphate
+
+Yeo, 2008[]
+
+18 New Zealand white rabbits
+
+1. Machined
+
+84
+
+Tibia
+
+0, 1, 2, 3, 4,
+
+ISQ, RTV, BIC %
+
+2. CMP coated
+
+5, 6 weeks
+
+3. Anodized
+
+4. Blasted
+
+Yurttutan, 2018(2018)[]
+
+4 sheep
+
+1. Machined
+
+64
+
+Tibia
+
+4, 12 weeks
+
+ISQ, RTV
+
+2.Implants sandblasted with AlO
+
+3. Sandblasted with TiO
+
+4. Sandblasted with SiO
+
+Piatelli, 2002(2002)[]
+
+24 New Zealand white rabbits
+
+1. Machined2. RBM surface
+
+48
+
+Femoral knee joint
+
+1, 2, 3, 4, 8 weeks
+
+BIC %
+
+Cho and Jung., 2003[]
+
+10 white rabbits
+
+1. Machined
+
+14
+
+Tibia
+
+8 weeks
+
+RTV
+
+2. Laser modified
+
+Cho and Park., 2003[]
+
+10 white rabbits
+
+1. Machined
+
+40
+
+Tibia
+
+12 weeks
+
+RTV
+
+2. Group B: 12% HF+70% HCl/H2SO4 (HCl/HSO)
+
+3. Group C: 24% HF+70% HCl/HSO
+
+4. Group D: 48% HF+70% HCl/HSO
+
+De Tullio, 2020[]
+
+4 bergamasca sheep
+
+1. Machined
+
+30
+
+Illiac crest
+
+2, 4 weeks
+
+BIC %
+
+2. SLA
+
+3. Laser treated
+
+Faeda, 2009[]
+
+24 New Zealand white rabbits
+
+1. Machined 2. Laser modified
+
+48
+
+Tibia
+
+4, 8, 12 weeks
+
+RTV
+
+Kim, 2010[]
+
+5 mongrel dogs
+
+1. Machined
+
+30
+
+Mandible
+
+3, 6,
+
+ISQ, BIC %, BD %
+
+2. SLA
+
+10 weeks
+
+3. Anodized
+
+Shah, 2016[]
+
+10 New Zealand white rabbits
+
+1. Machined
+
+20
+
+Tibia
+
+8 weeks
+
+ISQ, BIC %, RTV
+
+2. Laser modified
+
+Ahn, 2009[]
+
+4 dogs
+
+1. Machined
+
+64
+
+Femur
+
+4, 8 weeks
+
+RTV
+
+2. 20 nm TiOcoated surface
+
+3. Ca-P coated surface
+
+4. Heat treated 80 nm TiOcoated surface
+
+5. Heat treated Ca-P coated surface
+
+6. Resorbable blast media surface
+
+7. Sandblast and acid-etched surface
+
+8. Anodized RBM surface
+
+Koh, 2009[]
+
+20 New Zealand white rabbits
+
+1. Machined
+
+80
+
+Tibia
+
+2.4 weeks
+
+ISQ, RTV
+
+2. SLA
+
+3. Ca-P surface
+
+4. Anodized
+
+*Follow up - 0–12 weeks. BIC % – Bone to implant contact in percentage; ISQ – Implant stability quotient; RTV – Removal Torque Values - Ncm; BD – Bone density; BF – Bone fill volume; SLA – Sandblasted and acid etching; DAE – Double acid – etched; RBM – Resorbable blast media; EVL – One stage sandblasted surface; M-Y-TZ gp – Machined- zirconia implants with yttria; Ti-Sr-O coating – Strontium functionalized titanium coating implant; RGD – Arginylglycylaspartic acid peptide coating; TiO2 – Titanium dioxide coating; SiO2 – Silicon dioxide coating; Ca-P – Calcium phosphate coating; CMP coating – Calcium metaphosphate coating; HA – Hydroxyapetite coating; Al2O3 – Aluminium oxide coating; BMP – Bone morphogenetic protein; CO – Carbon oxygen ion implantation; DLC coating – Diamond-Like-Carbon; rPlas – Rough plasma; smPlas – Smooth plasma; NB-C – O2-Plasma spray coating; Modi-ANO - Modified anodized coating; AB/ AE – Alumina blasted/Acid etched implant; HF – Hydrofluoric acid; HCl/H2SO4 – Hydrochloric acid/sulfuric acid; BBTs – Bone between threads; BA – Bone area; RFA – Resonance frequency analysis; n – Number; dBF – dynamic Bone Formation; ITBD – Intra thread bone density
+
+Table 4
+
+Characteristics of included studies
+
+Implant surface characteristics
+
+Titanium-machined implants were evaluated in all 37 studies and analyzed as control group, whereas implant with modified surfaces was considered as the test group. Most of included studies compared more than one implant surface treatment with control group.
+
+Several methods have been used to enhance the implant surface roughness to increase surface area thereby, improving the process of osseointegration. Out of 37 included studies, 7 studies assessed sandblasted implant surfaces.[] Six studies evaluated acid etching.[] 15 studies considered sandblasted and acid-etched (SLA) implant surfaces.[] 8 studies tested anodized surfaces.[] Eight studies evaluated laser-induced alteration.[]
+
+For the additive procedures, like coating with different materials, out of 37 included studies, 4 studies evaluated HA-coated implant surfaces.[] Faeda, 2012 implanted HA coated and turned implants into the tibia of rabbit and observed BIC% and bone area after 4,8,12 weeks. They reported greater BIC% with HA-coated implants (73%) compared to turned implants (46.3%).[] Another study by Faeda, 2009 reported that implants coated with HA exhibited greater removal torque force (64 Ncm) than machined implants (33.8 N-cm) after 3 months healing period in the tibia of rabbits.[] London, 2002 suggested no advantage in BIC% of HA-coated surface (22.5%) over machined titanium surface (31.0%).[] A study by Zechner, 2003 concluded that HA-coated surfaces had higher BIC% (39%) as compared to machined surface implants (19.3%).[]
+
+Two studies evaluated calcium phosphate (CaP)-coated surface in which Ahn, 2009 suggested lower RT values for CaP coated over machined surface implants and Koh, 2009 showed no significant differences in ISQ values between 2 and 4 weeks after implant insertion. Ca-P immersed implants showed higher RTVs at 2 and 4 weeks during healing than the machined implants.[]
+
+Two studies evaluated collagen surface coating, Schliephake, 2005 evaluated that all organic coatings had significantly higher BIC% than machined surface. Schliephake, 2006 suggested that there was no correlation between BIC and RFA values for different collagen coating at various time intervals.[] One study evaluated titanium plasma spray (TPS) coating by London, 2002 who concluded that there was no advantage in BIC% to TPS surface (24%) over machined titanium surface (31.0%).[] Thiem, evaluated different plasma treated surface coating and revealed that BIC values were significantly increased in O2 plasma spray coating (r-NB-C) group in comparison to other groups.[] Offermans, 2018 evaluated the effect of strontium functionalized titanium coating implant (Ti-Sr-O) on dental implants which accelerated bone apposition and revealed significant differences following implantation periods.[] Strnad, 2008 investigated that alkali treated surfaces enhance the stability in the early stages of healing as compared to machined surface.[] Sul, 2002 showed significant increase in mean RTV and BIC% to calcium-coating implants over machined implants.[] De Maeztu, 2008 suggested statistically significant higher BIC% in implants treated with carbon oxygen ion implantation (CO ion) and diamond-like carbon (DLC) coating over the machined surface in the dog mandible model.[] In a study by Sollazzo, 2007 evaluated Anatase coating in rabbit tibia and showed higher BIC percentage (55.5%) over machined surfaces (31.8%), whereas Yeo, 2008 investigated early bone response and analyzed BIC percentage, ISQ, RT Values at various time intervals, they showed that calcium metaphosphate coating exhibited faster osseointegration and bone healing around dental implants over the turned surface in the rabbit tibia model.[]
+
+Studies were only included in meta-analysis if at least two studies per group were reported.
+
+Outcome assessment
+
+Out of 37, 28 studies measured the percentage of BIC.[] Fourteen studies examined RT values.[] Ten studies analyzed the ISQ.[] Other than these primary outcomes, two studies calculated torque to interface failure.[] Two studies evaluated the bone between threads percentage (BBT%).[] Two studies assessed the bone area percentage (BA%).[] Three studies assessed bone density (BD%).[] 1 study estimated pull-out test.[] Cumulatively, 263 figures were obtained to assess BIC%/RTV/ISQ values for the included implant surface at different follow-up intervals.
+
+Quantitative assessment of outcomes
+
+All the studies showed comparable outcomes of bone apposition around implants in healthy experimental animal models in terms of BIC%, RTV, and ISQ for both test and control groups.
+
+Bone to implant contact (BIC%)
+
+Twenty-eight studies measured the effect on BIC around implants with a machined surface and implants with subtractive surfaces. A random effect meta-analysis was conducted based on BIC in 15 studies, as shown in. The group 1.1.1 depicts 8 studies where BIC % around SLA surface and machined surface at different follow-up periods was compared showing a standard mean difference (SMD) of 15.62 (95% CI 10.32; 20.91) with considerable heterogeneity (I² = 89%) as in. Group 1.1.2 comprised four studies comparing BIC% around laser modified surface and machined implants at different follow up periods showing SMD of 15.64 (95% confidence interval [CI] 7.64;23.51) with considerable heterogeneity (I² = 89%). Group 1.1.3 comprised four studies comparing BIC% around acid etched surface and machined surface at different follow-up periods showing SMD of 13.51 (95%CI 6.24;20.78) with considerable heterogeneity (I² = 74%). Pooled data result for the group 1.1.1; 1.1.2; 1.1.3 showed significantly higher BIC than machined surface (< 0.01) []. Group 1.1.4 comprised two studies comparing sandblasted surface and machined at different follow-up periods showing SMD of 9.44 (95%CI 6.16;12.72) with low heterogeneity (I² =0%). Pooled data result for the group 1.1.4 showed that there was no statistically significant difference in BIC% when sandblasted surface was compared with machined surface (= 0.65). Group 1.1.5 comprised four studies comparing anodized surface with machined surface at different follow-up periods showed SMD of 14.23 (95%CI 2.98; 25.49) with considerable heterogeneity (I² =94%). Pooled data result for the group 1.1.5 showed significantly higher BIC than machined surface (< 0.01) [].
+
+To deal with plausible publication bias, we applied the Begg’s test for funnel plot asymmetry []. Analysis of the funnel plot-showed no asymmetry, which was further supported by the Begg’s test (< 0.01) meaning thereby that there was no publication bias in our analysis, whereas the analysis of the funnel plotandshowed minimal asymmetry.
+
+Figure 3
+
+Forest Plots of Bone to implant contact (BIC%) for the surface modified dental implant classified according to healing time. SD - Standard Deviation; IV - Inverse Variance; CI - Confidence Interval
+
+Figure 4
+
+Funnel plots showing publication bias for studies assessing BIC% for both test and control group. BIC% - Bone to implant contact in percentage
+
+Removal torque values
+
+For the statistical analyses, the same random effect model was used as for BIC analyses. Included literature ranged between 10 and 110 N-cm. Fourteen included studies measured RTV around implants with machined surface and implants with subtractive surfaces. A random effect meta-analysis was conducted for RTV for 10 studies []. Group 2.1.1 comprised two studies comparing RTV for sandblasted surface and machined surface at different follow-up periods showing a standard mean differences SMD of 6.95 (95% CI 3.25;10.65) with no heterogeneity (I² =0%). Pooled data result for this group 2.1.1 showed that there was no statistically significant difference in RTV when sandblasted surface was compared with machined surfaces (= 0.51). Group 2.1.2 included two studies comparing RTV in acid etched surface and machined surfaces at different follow up periods showing SMD of 20.36 (95% CI 14.60;26.12) with no heterogeneity (I² =0%). Pooled data result for the group 2.1.2 showed that there was no statistically significant difference in RTV when acid etched surface was compared with machined surfaces (= 0.95). Group 2.1.3 included 2 studies comparing RTV in SLA surface and smooth surface at different follow-up periods showing a SMD of 9.79 (95%CI 7.72; 11.86) with no heterogeneity (I² =0%). Pooled data result for the group 2.1.3 showed that there was no statistically significant difference in RTV when SLA surface was compared with smooth surface (= 0.53). Group 2.1.4 included 5 studies comparing RTV in laser-modified surface and smooth surface at different follow-up periods showing SMD of 15.41 (95%CI 9.31; 21.51) with considerable heterogeneity (I² = 82%). Pooled data result for this group 2.1.4 showed significantly higher RTV than smooth surfaces (< 0.01) []
+
+Analysis of the funnel plot-showed minimal asymmetry, which was further supported by the Begg’s test (> 0.01) which could be an indicator of publication bias whereas Analysis of the funnel plotshowed no asymmetry which was suggestive of no publication bias (< 0.01) [].
+
+Figure 5
+
+Forest Plots of removal torque value analysis (RTV) for the surface modified dental implants classified according to healing time. SD - Standard Deviation; IV - Inverse Variance; CI - Confidence Interval
+
+Figure 6
+
+Funnel plots showing publication bias for studies assessing removal torque value analysis (RTV) for both test and control groups
+
+Implant stability quotient
+
+Ten studies measured ISQ in implants with a machined surface and implants with subtractive surfaces. A random effect meta-analysis was conducted based on ISQ for 6 studies []. The group 3.1.1 included three studies comparing ISQ for SLA surface and turned surface at different follow-up periods showing standard mean differences (SMD) of 1.66 (95% CI 0.92;2.39) with no heterogeneity (I² =0%). Pooled data result for this group 3.1.1 showed that there was no statistically significant difference in ISQ when SLA surface was compared with turned surface (= 0.81). Group 3.1.2 included two studies comparing ISQ for sandblasted surface and machined surface at different follow-up periods showing SMD of 0.88 (95% CI-0.26;2.02) with no heterogeneity (I² =0%). Pooled data result for this group 3.1.2 showed that there was no statistically significant difference in ISQ when sandblasted surface was compared with machined surfaces (= 0.65). Group 3.1.3 included 2 studies comparing ISQ for anodized surface and machined surfaces at different follow-up periods showing SMD of 1.98 (95%CI 0.85;3.11) with no heterogeneity (I² =0%). Pooled data result for this group 3.1.3 showed that there was no statistically significant difference in ISQ when anodized surface was compared with machined surfaces (= 0.42).
+
+Analysis of the funnel plot-showed minimal asymmetry which could be an indicator of publication bias due to large heterogeneity in the data [].
+
+Figure 7
+
+Forest plots of Implant stability Quotient (ISQ) for various surface modified dental implants classified according to healing time. SD - Standard Deviation; IV - Inverse Variance; CI - Confidence Interval
+
+Figure 8
+
+Funnel plots showing the publication bias for studies assessing ISQ for both test and control groups
+
+DISCUSSION
+
+Dental implant surface modification is not a new concept, as it has been well evaluated through various animal and clinical studies. Numerous developments have been accepted with a purpose of optimizing the roughness and topography of endosseous implant surfaces to achieve predictable osseointegration.[]
+
+This review was conducted to assess whether implant surface modifications are capable of increasing peri-implant bone formation or not in comparison to machined surfaces in animal models?
+
+Thirty-seven full-text publications were reviewed as per inclusion criteria, with the follow-up intervals ranging between 1 week-12 weeks following implant placement. Histomorphometric analysis, RTV, and ISQ were assessed for peri-implant bone apposition. To sum up, current meta-analysis postulated that all implant surface modifications substantially increased bone apposition.
+
+Numerous diverse animal species were utilized in all 37 studies, indicating dissimilar dynamics of bone formation during the early period of healing.[] These well-known factors had a great impact on observed bone apposition values. Out of all included studies, 20 studies evaluated osseointegration in rabbits, 4 in pigs (included mini pigs), 9 in dogs, 2 in foxhound and 2 in sheep. A low/unclear risk of bias was established using the SYRCLE ROB tool for nearly all the studies. The prime assumption for unclear ROB was under-reporting of particular facts in relation to design of study and research methodology, which made it challenging to draw substantial conclusions. The quality of studies was determined using the ARRIVE guidelines, almost every criteria was applied on majority of the studies, though certain criteria such as randomization at the animal level and implant level were difficult to assess. Consideration of a particular animal model to human circumstances is of utmost importance for the clinical translation of an experiment, 95% of studies discussed this issue. Almost every methodological criteria was skilfully adhered to, randomization was executed in 35% at animal level and 38% at implant level in all included studies. Notably, the only criteria in which only four studies reported well were so-called “3R’s criteria (Replacement, Reduction, Refinement), wherein the focus was on a reduction in the number of animals used in research but sometimes it was not feasible due to sample size restrictions for statistical analysis.[] With this “3Rs” criteria, the aim was to develop new approaches for reduction in number of animals, like use of multiple sites in an isolated animal or using newer concepts without sacrificing the animal.
+
+All 37 articles qualified for the analysis in terms of outcome of interest such as BIC%, RTV and ISQ, a positive outcome was attained for subtractive and additive procedures over machined implant surfaces when data of all animal species were pooled together. Considering the different groups of surface modifications, pooled result of SLA, laser modified, acid etched and anodized surface exhibited substantially higher BIC% over machined surface (< 0.01). BIC% as a measure of osseointegration in all surface procedures ranged from 20% to 80% at various follow up periods. Regarding SLA surface, result was statistically significant (< 0.01) at <4 weeks, 4-8 weeks but after follow-up of >12 weeks, no statistically significant difference was found. In case of laser modified surfaces, result was statistically significant for <4 weeks and >8 weeks (< 0.01) and nonsignificant result was found in 4-8 weeks of follow-up period. While evaluating acid etched and anodized surface, statistically significant difference was found only during 4-8 weeks’ follow-up.
+
+While analyzing RTV, only laser-modified implant surfaces exhibited significant RT values over machined surfaces and subgroup analysis suggested statistically significant result at 4-8 weeks interval better than 8 weeks’ follow-up period. No statistically significant result was observed between sandblasted, acid etched, SLA, and anodized surfaces over the machined surface. Regarding ISQ, no significant differences between any of the surface modification and machined implant surfaces were observed.
+
+Only descriptive analysis was possible for additive procedures and these studies were not included in the meta-analysis due of large heterogeneity of the variables and lack of availability of two studies per group. The finding of the current review also specified a significant higher BIC percentage, RTV and ISQ values with additive procedures when compared to the machined surfaces. The present study was somewhat in accordance with the systematic review carried out by Meng, 2016.[]
+
+Limitations included the lack of homogeneity in observed outcomes due to variation in animal species used and the location of the implant at different sites.[] Hence, the above-mentioned outcomes might have been impacted thus affecting the osseointegration process. Implant installation in extraoral sites showed higher percentage of BIC for machined surface implants, whereas a decreased values were reported for intraoral sites for machined surfaces due to large heterogeneity observed in the dynamics of bone formation.[] A large variation was observed while assessing implant healing timespan which ranged between 1 week and 6 months. Although few studies reported a single time frame, while other studies assessed various time intervals.
+
+Moreover, data also presented that studies with nonstandardized protocols, missing standard deviation characters in the existing comprehended literature, lack of randomization, and differences in criteria for assessing outcomes resulted in bias. The correlation between outcomes was not possible due to the large variation in animal models, nonuniform protocols, and time of healing. Above described contributing factors made the inter-study correlation more troublesome and further complicated the translation of results.
+
+Although authors of included studies demonstrated a trend toward a better BIC for surface modified implants, accurate, consistent, and necessary attempts are required for the standardized conduction of future animal trials.
+
+CONCLUSIONS
+
+Animal models and enforcement of rough surface implants have shown amazing impact on the osseointegration process. Analysis of 37 animal studies found a higher degree of osseointegration in relation to BIC interface, RTV, and ISQ with surface modified implant surfaces, as they seem to promote bone formation around peri-implant tissue during the early stages of healing. It would be inspiring to peep into more advanced research work on healthy animal models exhibiting an impact of newer surface modifications on bone apposition around dental implants.
+
+Financial support and sponsorship
+
+Nil.
+
+Conflicts of interest
+
+There are no conflicts of interest.
