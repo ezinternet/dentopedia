@@ -11,6 +11,10 @@ pdf_path: /Users/oracleneo/llm-wiki/papers/puisys-2022-immediate-implant-placeme
 pdf_filename: puisys-2022-immediate-implant-placement-vs-early.pdf
 source_collection: external
 tags: [immediate-implant, early-implant-placement, placement-timing, esthetic-zone, pink-esthetic-score, mid-buccal-mucosal-level, socket-preservation, guided-bone-regeneration, chair-time, anterior-maxilla]
+relations:
+  - type: contradicts
+    target: immediate-implant/checchi-2017-wide-diameter-immediate-post-extractive
+    note: "opposite esthetic-outcome direction for immediate vs delayed placement — this trial found comparable-to-slightly-better PES for immediate (anterior single-tooth), checchi-2017 found significantly worse PES for immediate (molar, wide-diameter); population/intervention differ substantially, a genuine site/protocol-specific tension rather than a like-for-like conflict. Mirrors the reverse edge already on checchi-2017's page."
 ---
 
 ## Three-line Summary
