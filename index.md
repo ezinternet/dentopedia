@@ -2984,6 +2984,10 @@ tags: []
 - [[oral-surgery/nerve-injury/ma-2026-photobiomodulation-ian-hypoesthesia-third-molar-rct]] — Ma et al. 2026 · rct · 레이저 침술 vs 직접 PBM vs 가짜치료(n=60): TPD −3.2 vs −2.6 vs −0.8 mm, SWME 85% vs 80% vs 25% 개선, VAS −60% vs −48% vs −12% (808nm, 9J/site×15회)
 - [[oral-surgery/nerve-injury/lin-2007-ginkgo-biloba-nerve-regeneration-rat]] — Lin 2007 · animal · 은행잎추출물(EGb) 용량반응 rat 좌골신경 절단모델(n=120): 200>100>50 mg/kg/d 순 MNCV·CMAP·축삭지수 향상; SFI는 용량간 차이 없음 (Microsurgery)
 - [[oral-surgery/nerve-injury/zhang-2020-methylcobalamin-plcl-nerve-regeneration-conduit]] — Zhang 2020 · animal · 메코발라민 함유 PLCL 신경도관: 15% MeCbl 최적, 21일 서방형 방출, rat 10mm 좌골신경 결손 모델에서 축삭직경·수초두께 최대
+- [[oral-surgery/nerve-injury/baskaran-2024-implant-retrieval-inferior-alveolar-nerve-paresthesia-case-report]] — Baskaran 2024 · case-report · 임플란트 식립 후 2년간 지속된 하치조신경 이상감각이 임플란트 제거 후 6주 내 완전 회복된 증례 (DOI 10.7759/cureus.64001)
+- [[oral-surgery/nerve-injury/ahmad-2018-anatomical-nature-dental-paresthesia-review]] — Ahmad 2018 · narrative-review · 하치조신경 차단 후 감각저하의 해부학적 기전 및 아티카인 관련 증례 비율 59% 검토 (DOI 10.2174/1874210601812010155)
+- [[oral-surgery/nerve-injury/shavit-2014-inferior-alveolar-nerve-injuries-implant-placement-diagnosis-treatment-sr]] — Shavit 2014 · sr · 하치조신경 손상 환자 157명 분석, 조기 진단(47%) 및 48시간 이내 치료 시 완전 회복, 지연 진단(43%) 시 회복 불량 (DOI 10.5037/jomr.2014.5402)
+- [[oral-surgery/nerve-injury/doh-2018-delayed-paresthesia-ian-third-molar]] — Doh 2018 · case-report · 하악 제3대구치 발치 후 2주에 발생한 지연성 하치조신경 지각이상 증례; 5주 지속 후 완전 회복, 신경실용증으로 진단 (DOI 10.17245/jdapm.2018.18.3.177)
 
 ### Orthodontics — miniscrew/TAD
 - [[orthodontics/katyal-2024-success-rate-factors-affecting-stability]] — Katyal 2024 · sr+ma · SR+MA (14 studies, 1683 IZC screws): pooled success 92%, no age effect
