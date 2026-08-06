@@ -3994,3 +3994,17 @@ tags: []
 
 ### periodontics/host-modulation
 - [[periodontics/host-modulation/fernandez-gutierrez-2017-streptococcus-salivarius-gingival-reepithelialization]] — Fernández-Gutiérrez 2017 · in-vitro · 유산균 39종 스크리닝, S. salivarius MS-oral-D6가 분비 세린단백분해효소로 잇몸 재상피화를 약 2.5배 촉진
+
+## Batch ingest (added 2026-08-07) — 임플란트 표면처리별 BIC/골유착 비교 PMC 서베일런스 (SLA/CA/HA 등, 신규 10편)
+
+### implants/surface
+- [[implants/surface/damerau-2021-inorganic-surface-coatings-tcp-ha-periimplant]] — Damerau 2021 · sr+ma(대형동물 40편 SR+15편 MA) · TCP/HA 코팅이 비코팅 거친 티타늄 대비 BIC 우위 없음, HA는 14일에 오히려 유의하게 낮음(−6.94%p, p=.001) — yamada-2012와 contradicts
+- [[implants/surface/alshayeb-2024-bioactive-surface-modifications-dental-implants]] — Al Shayeb 2024 · sr+ma(동물 9편) · 생체활성 표면처리 BIC MD=7.29·생존기간 MD=7.52 유의 개선, 콜라겐/BMP-2 코팅이 가장 효과적
+- [[implants/surface/lopez-valverde-2022-biomolecule-based-bioactive-surfaces-osseointegration]] — López-Valverde 2022 · sr+ma(전임상 26편) · 생체분자(펩타이드·BMP·콜라겐) 코팅 BIC 개선 경향이나 이질성 I²=99%로 확신도 낮음
+- [[implants/surface/matys-2025-osseointegration-zirconia-implants-calcium-phosphate]] — Matys 2025 · sr(27편) · 지르코니아 임플란트 CaP 코팅 — 초기 골유착 BIC 개선 일관되나 장기 임상근거 부재
+- [[implants/surface/saini-2024-bone-apposition-surface-modified-titanium-animal]] — Saini 2024 · sr+ma(동물 37편) · SLA/레이저/산부식/양극산화 표면 BIC% 유의 우수(p<0.01)하나 단독 모래분사만은 BIC·RTV 유의차 없음
+- [[implants/surface/alenezi-2025-implant-silver-coatings-bone-formation]] — Alenezi 2025 · sr+ma(동물 16편) · 은(Ag) 코팅 임플란트 BIC 유의 개선(Z=2.01, p=0.04), BA·BV/TV는 유의차 없음
+- [[implants/surface/alenezi-2026-magnesium-modified-titanium-implants-osseointegration]] — Alenezi 2026 · sr+ma(전임상 11편) · Mg 코팅 티타늄 임플란트 BIC 유의 향상(Z=4.38, p<0.001), BA는 비유의
+- [[implants/surface/serbanescu-2025-nanofeatured-titanium-surfaces-dental-implants]] — Șerbănescu 2025 · sr(25편) · 나노구조 티타늄 표면 — 초기 골유착 가속되나 8-12주면 마이크로거칠기 대조군과 수렴, GRADE 확신도 낮음
+- [[implants/surface/dipalma-2026-implant-surface-characteristics-peri-implant-outcomes]] — Dipalma 2026 · sr(13편) · 표면처리는 임플란트주위 결과에 제한적·상황의존적 영향, 장기적으로는 환자·부위 위험요인이 표면유형보다 우세
+- [[implants/surface/huraib-2023-micro-threaded-laser-textured-implant-neck-peri-implant]] — Huraib 2023 · sr(15편) · 거친 미세나사산/레이저 미세조직화 임플란트 넥이 매끄러운 넥보다 변연골소실(MBL)·탐침깊이(PD) 유의하게 낮춤
