@@ -1,0 +1,158 @@
+TITLE: Influence of rough micro-threaded and laser micro-textured implant-neck on peri-implant tissues: A systematic review
+DOI: 10.1016/j.sdentj.2023.05.025
+
+1
+
+Introduction
+
+Over the past few years, the desired outcomes of dental implantation have gradually transitioned from implant longevity to maximal soft and hard tissue maintenance. The marginal bone surrounding the implant determines-implant mucosal level (,). Generally, the permissible marginal bone loss (MBL) is <1.5 mm during the first year and no more than 0.2 mm every subsequent year (). Integrating the hard and soft tissues around the implant is crucial to its longevity; hence, MBL is considered a key component influencing implant outcomes in clinical practice. A moderate MBL of less than 0.2 mm per year is widely accepted within the scope of normal physiological processes. Recent studies suggest that an early MBL ˃0.44 mm immediately after the initial 6 months of prosthesis loading indicates advancing-implant bone loss (,). Some studies disregard the criterion of 0.2 mm being the highest possible MBL per year; nevertheless, it is one of the most frequently used success evaluation standards. Some authors characterize pocket probing depth (PD) and sulcular bleeding scores as alternative parameters for objectively assessing success of prostheses ().
+
+Increased MBL may cause periodontal pocket development, which may be detrimental to the tissues surrounding implants (,). Biochemical pro-inflammatory indicators such as-implant sulcular fluid, salivary and mouth-rinse analysis of inflammation-associated molecular markers, and various metalloproteinases are all beneficial in alleviating the degree of inflammation in-implant tissues, specifically in the early inflammatory stage. These inflammatory indicators exhibit improved diagnostic sensitivity and specificity. Additionally, they can be used to determine inflammatory status—indicative of pathologic abnormalities—earlier than is revealed by clinical and radiographic examinations (). Furthermore, the geometric and surface design of the implants dictates the organization of tissues around them. A smooth two-dimensional surface may result in a flat configuration of cell attachments, resulting in wide spreading and de-differentiation. Conversely, a three-dimensional bio-activated surface promotes cell differentiation (,).
+
+Three types of surface roughness have been shown to improve the bone-implant interface. A previous study recorded that a machined or minimal surface has a roughness of 0.5 μm, moderately rough surfaces 1–2 μm, and rough surfaces ˃2 μm. Moreover, implants with moderately rough surfaces have substantially more clinical longevity than that of machined implants (). Micro-threads are retention components incorporated in the implant neck in the form of small threads (). The typical range of micro-thread roughness is 1–10 µm. The micron-level surface topography promotes more effective interlocking of the bone at the implant interface (). In a laser micro-textured surface (LMS) design, a laser ablation technique powered by a computer is applied to the implant neck to achieve 8–12 µm microgrooves (,).
+
+A rough-necked implant with micro-threads may have considerably reduced MBL compared to that associated with a polished-neck implant (). Tissue culture experiments have shown that firm adhesion of fibroblasts and osteoblasts to the LMS improves osseointegration and minimizes MBL (). Despite investigating modifications in the length and configuration of the implant neck, micro-thread geometry, and platform switching, the superiority of these novel designs or combinations has not yet been satisfactorily documented. Results regarding the most appropriate neck design for mitigating early MBL are contradictory (). Several systematic reviews have linked various implant neck designs and surface characterizations with low MBL (,,). However, there is limited data supporting the efficiency of various implant neck patterns in promoting-implant soft tissue health (,). Therefore, this review aimed to explore clinical outcomes of-implant MBL and soft tissue health following the placement of rough micro-threaded/LMS neck implants in comparison with the same outcomes associated with smooth machined-neck implants.
+
+2
+
+Methods
+
+The review was conducted in compliance with the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines (). A focused questionnaire was designed for the review following the PICOS criteria, i.e., population, intervention, comparator, outcome, and study design, as follows:
+
+2.1
+
+Structured questionnaire
+
+The questionnaire assessed differences in the clinical outcomes of-implant MBL and soft tissue health between rough micro-threaded/LMS and smooth machined-neck implants.
+
+2.2
+
+Search strategy
+
+Using EBSCO Information Services, we conducted a web-based search of databases such as PubMed, Scopus, and EMBASE, for all relevant English-language scientific papers published within the past decade (January 2013–August 2022), to document evidence-based information on the health of hard and soft tissue surrounding micro-threaded/LMS implants. The following Medical Subject Headings phrases were employed: oral implant, dental implant, dental prostheses, and teeth implant. In combination with these, the keywords implant neck, crestal bone loss, marginal bone level, rough collar design, implant collar, sulcular probing depth, clinical attachment loss, bleeding on probing,-implantitis, micro-structured, micro-grooved, micro-threaded, laser micro-texture, and Laser-Lok combined with “OR” and “AND,” were used.
+
+2.3
+
+Selection criteria for eligible studies
+
+Human clinical trials, including prospective or retrospective controlled cohort studies and RCTs, that aimed to determine the effects of rough micro-threaded/LMS implant necks on MBL, sulcular PD, and/or clinical attachment loss (CAL), were included in this review. Furthermore, only studies with ˃10 patients and an average follow-up time of at least 1 year following implant placement were included. In vitro experiments, pilot studies, review articles, technical reports, animal studies, case studies, case series trials, finite element studies, uncontrolled clinical studies, studies evaluating periodontally compromised individuals or those under medications capable of affecting gingival health, and studies with a follow-up duration of less than 1 year were excluded. Two reviewers independently pre-screened article titles and abstracts; following this, studies that fulfilled the eligibility criteria were subjected to a full-text examination. Additionally, the selected articles’ references were explored to retrieve more articles. In case of discrepancies between the reviewers, an article’s eligibility was determined by discussing with a third reviewer.
+
+2.4
+
+Quality assessment of the studies
+
+Two independent reviewers performed quality assessment of RCTs using the Cochrane Collaboration tool for determining risk of bias (RoB) (). The tool addresses seven distinct domains of RCTs: sequence generation, concealment of allocation (selection bias), blinding of the participants and investigator (performance bias), blinding of the outcome evaluator (detection bias), limited outcome data (attrition bias), inadequate reporting of the outcome (reporting bias), and other sources of bias. If all the criterion requirements were met, the RoB was considered low. If one of these requirements was not met, it was considered moderate, and if two or more criteria were lacking, it was considered high.
+
+The quality of included cohort studies was assessed using the Newcastle-Ottawa scale (NOS) (). The NOS estimates the possibility of bias using three primary components. It evaluates the selection criteria of the study population, relevant factors for comparison, and measures of outcome, assigning each component a rating out of four, two, and three stars respectively. An NOS score of six out of nine indicated high methodological quality, while a score less than or equal to four indicated poor quality. Following disagreements, a consensus was reached by discussion.
+
+2.5
+
+Data extraction
+
+The reviewers gathered information related to pre-defined outcomes of concern for eventual interpretations, and retrieved details of authors, year of publication, study design, sample size, demographic information of the participants, study population, type of implant and its loading, prevalence of-implantitis, method of outcome assessment, and follow-up period, from each included study. MBL was the primary outcome addressed, while secondary outcome measures were largely soft tissue changes, including bleeding on probing (BoP), plaque index, width of attached gingiva, gingival recession, CAL, and PD. Discrepancies were settled through discussions. Methodological issues were addressed by contacting the studies’ corresponding authors.
+
+3
+
+Results
+
+3.1
+
+Study selection
+
+illustrates the PRISMA flowchart for literature search and data retrieval. A comprehensive literature search yielded 205 articles from the electronic databases and 42 from the manual search. After removing duplicate records, 189 articles remained. After reviewing titles and abstracts, 92 studies were excluded and 97 articles qualified for the full-text review. This process eliminated uncontrolled studies, those that did not compare implant neck designs, and those with inadequate data (n = 82). Thus, six RCTs, five prospective studies, and four retrospective studies (n = 15) that fulfilled the eligibility criteria were chosen (,,,,,,,,,,,,,,).provides detailed data on soft tissue assessments from included studies. All participants of the included studies were healthy adults over the age of 18 years.
+
+Each study investigated different implants with different neck designs. The included studies were classified into two categories based on implant neck type: LMS implant necks and rough micro-threaded implant necks. Three studies (,,) evaluated the role of LMS and smooth machined-neck implants. The other 12 studies compared the clinical outcomes of implants with rough micro-threaded necks and machined necks.
+
+3.2
+
+General characteristics
+
+The overall number of participants in the included studies varied from 15 to 400. The included studies comprised participants aged 22–80 years. Two studies used computed tomography to measure MBL (,), while three used panoramic radiography (,,). Standardized periapical radiographs were used in 10 studies to evaluate changes in MBL (,,,,,,,,,). Two independent reviewers performed quality assessment of RCTs using the Cochrane Collaboration tool to determine RoB. The NOS was adopted for quality assessment of all cohort studies. Owing to the heterogeneity of studies,-analysis was not feasible.
+
+3.3
+
+Study designs
+
+Among the selected studies, six were RCTs (,,,,,). Five were prospective studies (,,,,), while four were retrospective studies (,,,). Additionally, three studies incorporating implants with LMS necks were included to assess clinical effectiveness of the design (,,).
+
+3.4
+
+Sample sizes and follow-up durations
+
+Three studies (,,) provided data with a 12-month follow-up duration, while another () had an 18-month follow-up period. Three studies (,,) had a 24-month follow-up period. The studies by,, andhad follow-up periods of 36 months, 54 months, and 60 months, respectively.
+
+3.5
+
+Surgical and prosthetic strategies
+
+Implants were installed in healed sockets in 11 studies (,,,,,,,,,,;), and in fresh sockets in four studies (,,,). The BEGO Implant System (Germany), comprising high-quality titanium surface-blasted with titanium dioxide particulates and a micro-threaded implant neck, was used in one investigation ().
+
+Four studies used Replace Straight Groovy implants (Nobel Biocare, Sweden) (,,,).used the Brånemark MkIII Groovy implant model, whereas,used Implantium (Dentium, Seoul) ().used Inhex (Mozo-Grau, Spain),used the SLActive implant system (Straumann AG, Basel, Switzerland), andused Biotech Dental Implants (Biotech International, Marseille, France).
+
+used two distinct implants, namely TLX Laser-Lok and TRX, commercialized by BioHorizons. These implants possess similar designs and surface features with a roughness of 0.72–1.34 µm. However, Laser-Lok implants have a biocompatible collar with two types of microgrooves. In another study,used two tapering implants (Silhouette BioLoK, BioHorizons) with a reversed buttress thread pattern and a 2-mm broad LMS neck.evaluated the role of Laser-Lok micro-texture on CAL and marginal bone remodeling using BioHorizons Tapered non-Laser-Lok and BioHorizons Tapered Laser-Lok (Internal) implants.
+
+3.6
+
+Prosthesis placement and loading protocols
+
+Four studies conducted immediate loading of implants (,,,). Conversely, 11 studies followed the conventional loading technique (,,,,,,,,,,).employed both immediate and conventional loading techniques. All included studies used single crowns or implant-supported fixed prostheses.
+
+fabricated screw-retained single metal-ceramic crowns. Furthermore, cemented crowns were utilized when the occlusal hole for the screw jeopardized the structural integrity of canines.used prostheses with screw-retained single crowns;fabricated crowns using zirconia abutments (NobelProcera, Nobel Biocare AB) in the smooth and rough groups. Titanium abutments (NobelProcera, Nobel Biocare AB) were placed in the scalloped group. A zirconia Procera coping (Nobel Biocare AB) was luted over the abutment to create a zirconia cover. Crowns were either cement-retained with a zirconia Procera coping, or screw-retained by fusing porcelain with the abutment.designed a temporary resin crown on the implant-supported temporary abutment in 1 h with no direct occlusal contacts. When the tissues were stabilized after 6 months, provisional abutments and ceramic crowns were replaced with final abutments and crowns. The method of retention of prostheses was not mentioned clearly in most studies.
+
+3.7
+
+Primary outcome measure - radiographic features of the-implant marginal bone loss
+
+The 10-year evaluation of MBL around implants with LMS necks was much lower than that around implants with machined necks (1.23 ± 0.21 mm vs. 2.8 ± 0.9 mm) (). Non-Laser-Lok implants presented a 2-year-implant MBL of 1.07 ± 0.30 mm as opposed to 0.49 ± 0.34 mm, which was associated with Laser-Lok microtextured implants (). The MBL upon loading of rough micro-threaded implant necks varied between 0.12 ± 0.17 mm () and 3.25 ± 0.4 mm (). On the other hand, MBL upon loading varied between 0.38 ± 0.51 mm () and 3.75 ± 0.4 mm () for machined-neck implants without micro-threaded necks. Implants with micro-threaded necks had a lower MBL than that of implants without a micro-threaded design.
+
+The 18-month-implant MBL with scalloped-neck, smooth-neck, and rough-neck surfaces was 2.01 ± 0.77 mm, 1.19 ± 0.82 mm, and 0.90 ± 0.57 mm, respectively (). After a 12-month follow-up, implants with rough micro-threaded surfaces, internal connection, and platform switching exhibited a considerably lower-implant MBL (0.12 ± 0.17 mm) than that associated with machined-neck implants without micro-threaded surfaces and with external connection and platform switching (0.38 ± 0.51 mm) (). According to, the overall amount of MBL in the smooth, rough, and scalloped groups was 1.26 ± 0.90 mm, 1.20 ± 1.1 mm, and 2.28 ± 0.97 mm, respectively (p < 0.05).
+
+3.8
+
+Secondary outcome measure - clinical soft tissue measurements
+
+summarizes data from 10 studies on clinical characteristics, such as BoP, PI, sulcular bleeding score, and PD, surrounding rough micro-threaded and machined-neck implants (,,,,,,,,,). Over 3 years of early loading, the LMS group had a lower-implant PD than that of the machined-neck group (2.3 ± 0.7 mm vs. 3.8 ± 0.8 mm). The mean gingival recession in experimental and control groups was 1.08 ± 0.4 mm and 2.46 ± 0.3 mm, respectively ().
+
+established that implants with smooth necks had a significantly lower frequency of-implantitis than that of implants without smooth necks (2.92% vs. 14.41%; p < 0.001).found that after 5–9 years of follow-up, the PD was 4.24 ± 0.49 mm in rough micro-threaded neck implants with platform switching and 4.29 ± 1.13 mm in machined-neck implants with a matched butt-joint interfacing. A CAL of 3.95 ± 1.04 mm and 3.42 ± 1.67 mm was reported with rough micro-threaded neck implants and machined-neck implants, respectively. The 5-year assessment of soft tissues surrounding implants revealed an insignificant sulcular bleeding score, PI, and PD in micro-threaded neck surfaces compared to those associated with threaded neck surfaces (). However, another study byfound that the scalloped group had increased bleeding index scores during the 5-year evaluation period compared to those of the rough surface group.
+
+3.9
+
+Synthesis of results
+
+Only studies reporting appropriate comparisons and comparable outcomes were intended for inclusion in the-analysis. However, the examined studies showed significant differences in research design, such as varied intervals from implant placement to prosthetic loading, site of implant in the alveolar region, duration of follow-up, and outcome variables. Thus, a-analysis seemed infeasible and was not carried out.
+
+3.10
+
+Quality assessment
+
+shows the RoB of the included RCTs. Four studies (67%) had a high RoB for allocation concealment and an unclear RoB (,,,). Performance bias was observed in three studies (43%) (,,). All the cohort studies included presented good quality ().shows that risk of reporting bias was low across all included RCTs. All included RCTs remarked on random sequence generation. While explicit explanations for sample attrition (100%) were included, measures to mitigate detection bias were applied only in Rothamel et al.’s study (2022).
+
+4
+
+Discussion
+
+This review emphasizes that implants with rough micro-threaded necks have considerably lower MBL than that of implants with smooth necks, and that MBL influences-implant tissue integrity. However, four studies (,,,) in this review documented insignificant differences in MBL between control and intervention groups.
+
+The site of implant loading may affect measured outcomes. Clinical follow-up studies have shown greater bone loss in the maxilla than in the mandible, despite implants being placed randomly in both regions. This is because the maxilla and mandible differ in bone quality (). Besides microgrooves, other factors influencing MBL include bone-grafting, placement of implant in fresh alveolar sockets, duration of healing, existing occlusion, angulation of implant, and loading strategy ().
+
+Although smooth-neck implants present greater plaque buildup than that associated with rough-neck implants (,,,), numerous clinical trials on the posterior alveolar region have revealed higher MBL in the former group (,,,). However, studies have shown that a considerably rough surface implant combined with supporting periodontal therapy might be able to help effectively treat individuals with periodontitis (). In all included studies, MBL surrounding machined-neck implants exceeded 3.3 mm over the 5-year follow-up period. Extensive plaque accumulation causes-implant soft tissue irritation. Disruption of the periodontal attachment might be caused by the mean surface roughness falling below 0.15–0.25 µm. Moreover, an increase in mean roughness scores proportionally leads to increased possibility of microbiological contamination; nonetheless, greater surface roughness promotes osteogenesis ().
+
+Exceptional biocompatibility and conducive biomechanical conditions of the bone-implant interface are important for implant longevity (). Recent advancements in surface treatment of implants have resulted in improved bone and periodontal tissue compatibility and maintenance. One novel technique uses laser beams to achieve micro-texture in implant necks with 8–12 µm microgrooves (). Such LMS-neck implants have a lower-implant MBL than that of machined-neck implants without micro-threads. Similarly, LMS tends to restrict CAL and favor effective attachment of the periodontal tissue, as opposed to machined micro-threads (,).
+
+Micro-threads or a roughened surface at the neck of the implant engage with the implant surface, thus supporting the crestal or marginal bone. This interlocking effectively eliminates microbial growth and shear stress at the bone-implant junction, and allows the optimal transfer of force to-implant tissues. Stable connective tissue adherence to LMS-neck implants could inhibit bacterial toxin penetration and prevent alveolar bone resorption (). Furthermore, an LMS-neck implant appears to provide better soft tissue support in the transmucosal area than that provided by a machined-neck implant in adjacent teeth with periodontitis (). Laser-Lok microchannels comprise a series of 0.7-μm concentric channels generated by laser ablation. This creates precisely designed microchannels on the implant surface, enabling adherence of fibroblasts and osteoblasts ().
+
+Screw-retained and cement-retained restorations are the most commonly used implant-supported prostheses. Owing to better-stratified ceramic and higher metal mass, cement-retained restorations have a high resistance to occlusal load. Additionally, they are esthetically pleasing due to the lack of a screw canal, eliminating the need for esthetic composite resin restorations (). Factors such as implant geometry, mechanical properties, and preliminary and long-term integrity of the implant–tissue interface influence implant design. Currently, there is no single optimal implant design standard. Nevertheless, implants can be designed to enhance strength, interfacial stability, and load transfer by utilizing various materials, surface conditioning techniques, and thread designs. Therefore, changes in implant body and surface design have been proposed to enhance prosthesis longevity in poor-quality bone by augmenting anchorage. This would reduce stress on the supporting bone by providing a greater surface area for biomechanical load distribution. The prognosis of rough surface implants with micro-threads could be improved, as they have increased bone-to-implant contact area and greater removal of torque values compared to those associated with smooth surface implants ().
+
+LMS configuration can help prevent MBL due to various factors. Firstly, fibers in the encapsulation surrounding standard endosseous implants are positioned parallel and in concentric alignment comparable to the neck surface. This alignment is significantly different from the connective tissue directly attached to the LMS, with fibers aligned perpendicular to the implant surface. Thus, collagenous fibers surrounding the LMS may help prevent crestal bone resorption (). Several authors have found statistically significant variations in MBL between implants with and without rough/micro-threaded neck surfaces (,,,). The majority of-implant MBL appears to occur within the first year of implant placement (). Cone-beam computed tomography has become the preferred approach for assessing facial bone lamella, although it underestimates the available facial bone dimensions owing to metal artifacts. Thus, the imaging data reflect only the bare minimum of clinically observed bone ().
+
+All reviewed RCTs had a short follow-up period. The RCT byhad a maximum follow-up duration of 60 months, whereas the other five clinical trials had follow-up periods in the range of 12–24 months. An appropriate-implant mucosal height, a broad band of attached gingiva, and a thick phenotype may lower the plausibility of inflammatory responses and eventual complications (). Additionally, therapeutic success can be achieved with a PD < 9 mm (). Furthermore, clinical indices used to assess the soft tissue, such as sulcular bleeding, plaque index, and PD, are not explicitly intended to assess health of the soft tissue surrounding the implants. Nonetheless, examining these parameters may provide further details of prevailing soft tissue changes ().
+
+5
+
+Conclusion
+
+Under functional loading, a rough micro-threaded implant neck can significantly reduce MBL. Furthermore, PD and MBL were much lower around LMS neck implants than they were around machined-neck and micro-threaded implants. Long-term, well-designed RCTs evaluating-implant MBL, with a follow-up duration of over 5 years following implant loading, are required.
+
+Declaration of Competing Interest
+
+The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.
