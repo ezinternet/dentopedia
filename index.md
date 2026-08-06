@@ -2823,6 +2823,10 @@ tags: []
 - [[implants/surface/plasma/yang-2021-helium-cap-zirconia-streptococcus-mutans]] — in vitro(지르코니아): 헬륨 CAP가 S.mutans 억제하나 효과 ~24h만 지속·72h 소실(시간감쇠)
 - [[implants/surface/plasma/jablonowski-2019-plasma-mucosa-side-effects-mice]] — 동물(쥐 180마리) 안전성: CAP 점막 단기 손상 여부 전임상 스크린
 
+<!-- BATCH INGEST 2026-08-07: vacuum/DBD plasma implant fixture — 2 papers (user-requested "1분 진공 플라즈마" surveillance) -->
+- [[implants/surface/plasma/cho-2025-rhbmp2-vacuum-plasma-titanium-implants-osseointegration]] — 동물(비글 4/24임플란트, 8주): 진공플라즈마+저용량rhBMP-2 병용군만 BIC(83.91%)·ITBD(81.32%) 유의↑, 플라즈마 단독은 비유의 — 플라즈마=코팅 담체 역할
+- [[implants/surface/plasma/berger-2022-dbd-plasma-vacuum-packaged-implants-sex-dependent]] — 동물(토끼 36마리, 6주): 진공밀봉 임플란트 30초 DBD플라즈마, 수컷만 BIC·골량·토크 유의↑, 암컷은 기저 골유착 이미 높아 무효과 — 성별 의존적 효과
+
 <!-- BATCH INGEST 2026-06-01: dental local anesthesia — 12 papers (buffered/modified LA cluster) → overviews/buffered-modified-local-anesthetics-overview -->
 
 ### drug (added 2026-06-01, batch g — local anesthesia)
