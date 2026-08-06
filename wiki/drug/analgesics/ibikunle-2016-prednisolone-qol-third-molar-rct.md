@@ -12,6 +12,10 @@ pdf_filename: ibikunle-2016-prednisolone-qol-third-molar-rct.pdf
 source_collection: external
 tags: [prednisolone, third-molar, QoL, OHIP-14, submucosal, oral-administration]
 synthesized_in: overviews/drug-analgesics-postop-pain-overview
+relations:
+  - type: contradicts
+    target: drug/analgesics/larsen-2021-methylprednisolone-doses-split-mouth-rct
+    note: "opposite conclusion on corticosteroid vs OHIP-14 QoL after third-molar surgery — this RCT (n=186) found prednisolone (oral/submucosal) significantly improved QoL vs no-drug control; Larsen 2021 (n=52, double-blind split-mouth) found methylprednisolone null vs placebo at all three doses (20/30/40mg). Different drug/route (prednisolone oral+submucosal vs methylprednisolone IM) and design (parallel unblinded-severity vs double-blind split-mouth) are real confounds, but both test the same corticosteroid-vs-QoL question and reach opposite statistically-supported answers — a head-on conflict, not a different-angle refinement. Already flagged in prose on both pages; this formalizes the typed edge."
 ---
 
 ## Three-line Summary
