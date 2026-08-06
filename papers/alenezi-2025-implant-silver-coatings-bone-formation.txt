@@ -1,0 +1,108 @@
+TITLE: Effects of Implant Silver Coatings on Bone Formation in Animal Models: A Systematic Review and Meta-Analysis
+DOI: 10.3390/jfb16100369
+
+1. Introduction
+
+Titanium (Ti) and its alloys are regularly used in implantable medical and dental devices because of their favorable biocompatibility, mechanical strength, and corrosion resistance [,]. Ti implants now represent the preferred modality for the restoration of edentulous spaces in dental practice [,]. Osseointegration around titanium (Ti) implants is a coordinated cascade of immune, angiogenic, and osteogenic events shaped by surgical protocol, implant surface chemistry/topography, primary stability, functional loading, and host factors [,]. However, unlike many other surgical procedures performed under strict aseptic conditions, dFental implants are immediately exposed to the complex oral environment, which is home to diverse microorganisms [,].
+
+Peri-implant infections are among the most significant complications related to dental implants, which involve inflammation of peri-implant tissues and continuing marginal bone loss [,]. These problems are more pronounced in individuals whose bone healing is compromised by diabetes, older age, or osteoporosis [,]. Numerous studies have demonstrated a strong association between peri-implant infections and implant failure, with microbial biofilms playing a pivotal role in disease initiation and progression [,]. Once an implant-related infection is established, treatment often requires surgical debridement, implant removal, prolonged antibiotic therapy and, eventually, revision surgery, which imposes substantial clinical and financial burdens on both patients and healthcare systems [,].
+
+To reduce such risks, several studies have focused on modifying implant surfaces to enhance osseointegration while minimizing bacterial colonization [,]. Nanoscale or microscale roughness could improve the adhesion and proliferation of osteoblasts, accelerating bone healing [,]. However, rougher surfaces at exposed regions can also promote bacterial attachment, potentially increasing the risk of infection [,]. Coating Ti implants with antimicrobial agents is one strategy to address this issue. Such coatings aim to provide an initial antibacterial effect during the early healing phase, when infection risk is highest, while maintaining compatibility with host tissues [].
+
+Silver (Ag) is one of the most extensively investigated antimicrobial agents for implant coatings [,]. It is active against a wide spectrum of pathogens, including many multidrug-resistant isolates, and its bactericidal properties have been attributed to multiple mechanisms: bacterial membrane disruption, reactive oxygen species generation, and inhibition of essential enzymatic systems [,]. Silver nanoparticles (Ag NPs) have enhanced antimicrobial activity compared with bulk Ag, mainly due to their large specific surface area and continuous release of Agions [,].
+
+In vitro and in vivo reports have revealed the ability of Ag-coated Ti surfaces to reduce bacterial adhesion and biofilm formation without significantly impairing osteoblast function when used at controlled concentrations [,]. For example, Ti implants modified with Ag NPs have shown significant antibacterial effects against Staphylococcus aureus while maintaining favorable cell viability and alkaline phosphatase activity in osteoblast cultures []. Preclinical models have also reported reduced peri-implant infection with Ag-coated Ti implants and bone–implant contact ratios comparable to those of uncoated controls [,].
+
+Several methods have been investigated to incorporate Ag into Ti implant surfaces, including plasma-immersion ion implantation, electrochemical deposition, and sol–gel techniques. Each method influences the release kinetics of Ag ions, which is critical for balancing antimicrobial efficacy with cytocompatibility [,]. Controlled, low-level Ag release is particularly desirable to minimize cytotoxic effects on host cells, as high local concentrations can impair osteoblast proliferation and differentiation [,].
+
+The clinical use of Ag-coated Ti implants in orthopedic applications is more established, with Ag-coated prostheses having been successfully used in tumor surgery to prevent deep infections [,]. In dentistry, however, the clinical data remain limited. Early-stage studies have suggested that Ag coatings can reduce early colonization by pathogenic bacteria, but the long-term effects on bone remodeling and implant survival remain unclear []. Despite the promising antibacterial performance of Ag, concerns persist regarding its potential cytotoxicity, systemic accumulation, and the possibility of altering local bone metabolism. Some studies have reported delayed bone healing or reduced bone–implant contact at higher Ag concentrations, highlighting the need for precise control over release profiles [,]. The cytotoxicity of AgNPs is dose- and time-dependent []; however, at appropriately low concentrations, AgNPs can enhance cell proliferation and activity [].
+
+Given these considerations, this review investigated the effects of incorporating or coating Ti implant surfaces with Ag on bone formation around implants and whether antibacterial benefits can be achieved without compromising osseointegration.
+
+2. Materials and Methods
+
+2.1. PICO Question
+
+This review was performed in accordance with the PRISMA guidelines (Preferred Reporting Items for Systematic Reviews and Meta-Analyses, INPLASY registration number: INPLASY202590035) []. Before initiating the systematic literature search, the PICO framework was defined as follows: the Population () was defined as animal models; the Intervention (I) was Ti implants modified or coated with silver; the Control (C) was defined as Ti implants without silver modifications or coatings; and the Outcome (O) was bone formation.
+
+2.2. Search Strategies
+
+The literature search was undertaken in May 2025 using three main databases: PubMed, Web of Science, and Scopus. Only studies published within the last 20 years were considered. The search strategies in all the databases included terms related to four primary aspects: bone, implant, silver, and animal studies. The search terms used for the electronic search were (“bone formation” OR “osseointegration” OR “bone growth” OR “bone development” OR “bone remodeling” OR “bone regeneration”) AND (“implants” OR “titanium implants” OR “dental implants” OR “biocompatible coated materials” OR “endosseous dental implantation” OR “bone-implant interface”) AND (“antibacterial” OR “antimicrobial” OR “infection” OR “failure” OR “Coatings” OR “silver” OR “silver nanoparticles” OR “silver coating” OR “Ag”) AND (“in vivo” OR “animals” OR “animal models” OR “animal experimentation”).
+
+2.3. Inclusion and Exclusion Criteria
+
+The eligibility criteria were (1) studies conducted on animals that evaluated the use of silver coatings with endosseous implants. (2) The silver should be incorporated into the substrate or applied as a surface coating for these implants, either prior to or at the time of insertion. (3) Measurements of bone–implant contact (BIC), bone area (BA), or bone volume (BV/TV) should be reported for the control and test groups. (4) The compared groups should have received similar implant surface treatments aside from the presence of silver in the test group. (5) Only articles published in English were included. Clinical studies or in vitro investigations were excluded. Studies that did not report BIC, BA, or BV/TV values and the number of implants used in the evaluated groups were excluded.
+
+2.4. Study Selection
+
+All studies identified in the initial search were screened for eligibility according to the prespecified inclusion criteria. Full-text retrieval was performed for studies that fulfilled these criteria and those whose titles/abstracts lacked sufficient detail to determine their eligibility.
+
+2.5. Data Extraction
+
+When available, the following variables were collected via a standardized extraction form: study title, publication year, coating method, form of silver, animal species, number of animals and implants, duration between implant placement and animal euthanasia, as well as the mean values and standard deviations for BIC, BA, and BV/TV percentages around the implants.
+
+2.6. Quality Assessment
+
+The methodological quality was evaluated using the ARRIVE 2.0 (Animal Research: Reporting of In Vivo Experiments) guidelines []. Each of the 21 items was categorized as follows: “reported” (two points) if all subitems were fully addressed, “not reported” (no points) if none were addressed, and “unclear” (one point) if some details were missing. Based on these scores, the quality coefficient was calculated for each study, which was categorized as follows: Poor (<0.5), Average (0.5–0.8), or Excellent (0.8–1).
+
+2.7. Risk of Bias in Individual Studies
+
+The risk of bias was estimated using the SYRCLE (Systematic Review Centre for Laboratory Animal Experimentation) RoB tool [].
+
+2.8. Data Analysis
+
+The continuous outcomes assessed were BIC, BA, and BV/TV. The weighted mean differences were used to generate forest plots, with the number of implants in each group serving as the statistical unit. Records with insufficiently reported outcomes of interest were excluded from the analysis. Heterogeneity between the studies was quantified using the Istatistic, which represents the percentage of total variation due to heterogeneity. When statistical heterogeneity reached significance (< 0.05), a random-effects (inverse-variance) model was used; if not, a fixed-effect model was used. Intervention effects are reported as mean differences (MDs) in percentage, along with 95% confidence intervals (CIs). The meta-analysis was completed using the Review Manager software (version 5.3.3, The Nordic Cochrane Centre, The Cochrane Collaboration).
+
+3. Results
+
+3.1. Literature Search
+
+shows an overview of the study selection process. Following database searching, screening of titles and abstracts, and removal of duplicates, the full-text articles were evaluated for eligibility. In total, 16 animal studies met the eligibility criteria and were included in both the qualitative and quantitative syntheses [,,,,,,,,,,,,,,,]. PRISMA checklist is shown in.
+
+The study characteristics of the included articles are shown in. The investigations were conducted in a range of animal models including Wistar rats, New Zealand White rabbits, Sprague–Dawley rats, Labrador dogs, beagle dogs, pigs, and Merino sheep. A variety of silver modification strategies were reported, including nanotubular structures, plasma immersion ion implantation (PIII), electrodeposition, atomic layer deposition, wet chemical plating, magnetron sputtering, and hybrid coatings. Silver was delivered in several forms, such as nanoparticles, ions, nanolayers, and silver oxide. The outcome assessment methods predominantly employed micro-computed tomography (micro-CT) and histomorphometric analysis.
+
+3.2. Quality Assessment
+
+Quality was assessed using the ARRIVE 2.0 guidelines and the results are presented inand. The calculated coefficients ranged between 0.71 and 0.93. Eight studies achieved a rating of Excellent [,,,,,,,], while the remaining eight were graded as Average. No study was categorized as Poor.
+
+3.3. Risk of Bias
+
+The assessment of the risk of bias based on the SYRCLE guide is displayed in. In most studies, the risk of bias was judged to be unclear for both allocation concealment and outcome assessor blinding. Domains related to random sequence generation and selective outcome reporting showed lower levels of concern. Overall, variability in methodological care was observed among the included studies.
+
+3.4. Meta-Analysis of Bone Formation Outcomes
+
+3.4.1. BIC
+
+The pooled analysis of BIC values () revealed a statistically significant overall effect in favor of silver-coated implants (Z = 2.01,= 0.04). Substantial heterogeneity was observed (Tau= 190.60; Chi= 555.54, df = 16 (< 0.001); I= 96%).
+
+3.4.2. BA
+
+The pooled analysis of BA () demonstrated no significant difference between silver-coated and control implants (Z = 1.09,= 0.28). Considerable heterogeneity was observed (Tau= 394.55; Chi= 3583.07, df = 22 (< 0.001); I= 99%).
+
+3.4.3. BV/TV
+
+The analysis of BV/TV () also showed no statistically significant overall difference (Z = 0.35,= 0.73). High heterogeneity was detected across studies (Tau= 112.23; Chi= 2432.44, df = 23 (< 0.001); I= 98%).
+
+4. Discussion
+
+This review evaluated the effect of Ag-coated Ti implants on bone formation around implant in animal models. Sixteen studies were included, and the pooled findings revealed that Ag coatings significantly improved BIC, while no significant differences were found for BA or BV/TV. These results indicate that Ag modifications may facilitate bone integration but do not consistently enhance overall peri-implant bone remodeling.
+
+The integration of Ag into dental implant surfaces has been primarily driven by its antimicrobial potential, as peri-implant infections are among the most prevalent reasons for implant loss. Peri-implantitis is initiated by bacterial colonization and biofilm formation on implant surfaces, leading to a cascade of host immune responses, chronic inflammation, and progressive marginal bone loss [,]. Therefore, antibacterial surface modifications are being increasingly explored to prevent early microbial colonization and reduce the incidence of biological complications. Among these modifications, Ag has emerged as a particularly attractive candidate because of its broad-spectrum antibacterial ability and relatively low tendency to develop resistance [,].
+
+At the molecular level, Ag ions exert bactericidal effects by binding to bacterial cell membranes, increasing membrane permeability, denaturing enzymes, and interfering with DNA replication []. Nanosilver particles also generate reactive oxygen species, further enhancing their antimicrobial efficacy. This potent antibacterial activity has been observed both in vitro and in vivo, with Ag-coated implants showing significantly reduced bacterial adhesion compared with unmodified Ti implants [,]. In the orthopedic field, clinical studies have confirmed reduced infection rates with Ag-coated prostheses [,] while dental research has focused on whether similar benefits can be achieved in oral implantology. Beyond antibacterial effects, Ti surfaces modified with Ag can promote early macrophage polarization from a pro-inflammatory M1 state to a pro-healing M2 phenotype, thereby moderating inflammation and supporting osteogenesis []. In parallel, sustained Ag release is associated with pro-angiogenic signaling, enhanced endothelial tube formation, and an increased microvessel density, collectively strengthening the angiogenesis–osteogenesis coupling required for durable osseointegration [].
+
+The significant improvement in BIC found in this review suggests that Ag coatings may support early osseointegration, either directly by enhancing osteoblast behavior or indirectly by suppressing bacterial competition at the interface (). Several in vivo studies have confirmed this effect. For instance, Cheng et al. [] demonstrated that Ag NP-modified nanotubular implants promoted greater BIC in rat models, while Xie et al. [] observed improved osseointegration with Ag–hydroxyapatite hybrid coatings. At the cellular level, Ag has been reported to stimulate osteoblast adhesion and proliferation at low concentrations [,]. Furthermore, recent evidence has suggested that Ag coatings may also influence immune modulation, promoting a favorable M2 macrophage phenotype that enhances osteogenesis and angiogenesis [,]. This dual antibacterial–immunomodulatory function may explain why Ag coatings improved BIC across diverse experimental conditions.
+
+In contrast, no significant differences were observed in BA or BV/TV, which is a volumetric indicator of peri-implant bone formation (and). This discrepancy between interfacial contact and bone volume suggests that the effect of Ag may be localized to the implant–bone interface rather than extending to overall bone remodeling. Several factors may account for this variability. First, the dose-dependent effects of Ag are critical: while low concentrations are osteoconductive, higher concentrations may impair osteoblast proliferation, collagen synthesis, and matrix mineralization [,]. Zhao et al. [] demonstrated that excessive nanosilver exposure reduced osteoblast activity, while Greulich et al. [] showed cytotoxicity to bone marrow stromal cells at elevated Ag doses. Second, discrepancies in coating techniques (e.g., plasma immersion ion implantation, electrodeposition, magnetron sputtering, and atomic layer deposition) lead to differences in Ag release profiles, which strongly influence biological outcomes [,]. Third, most studies used short- or medium-term follow-up, which may not capture the long-term remodeling processes critical for implant survival.
+
+These findings position Ag coatings as dual-function surfaces in implant dentistry: their primary role remains antibacterial, protecting against peri-implant infections, while also appearing to maintain or even enhance interfacial bone contact. More importantly, none of the included studies in this review reported detrimental effects on bone formation, addressing the concerns about the potential cytotoxicity of Ag. This is reassuring for clinical translation, as infection control and bone preservation are interdependent requirements for long-term implant success. Notably, peri-implantitis and marginal bone loss often coexist, particularly in patients at high risk such as those with diabetes, poor oral hygiene, or osteoporosis [,,]. For these populations, Ag-coated implants could offer a valuable adjunctive strategy to reduce complications.
+
+When comparing Ag with other antimicrobial coatings, such as zinc, copper, or chitosan, the evidence suggests that while they all provide antibacterial activity, Ag remains the most extensively studied and exhibits one of the broadest spectrum of antimicrobial efficacy [,]. However, other materials may provide additional osteogenic benefits []. Zinc (Zn) coatings on titanium implants exhibit favorable bactericidal effects attributable to Zn incorporation [], and in vivo studies suggest bacteria show limited resistance to Zn[]. Zn has also been associated with enhanced osteoblastic activity, supporting its use in bone-related applications [,]. Copper (Cu) can provide broad-spectrum antimicrobial activity []. Furthermore, Cu can be integrated into implant alloys such as Ti-6Al-4V to strengthen antibacterial performance and to enhance angiogenesis [,]. However, unlike Ag, elevated Copper ions (Cu) release has been linked to cytotoxicity, which necessitate careful control of release kinetics and coating thickness [,]. Comparative research is needed to determine whether Ag provides superior clinical benefits or whether combinations of antimicrobial and osteoinductive coatings may represent the optimal approach.
+
+The limitations of the available evidence must be acknowledged. Large discrepancies were observed in all the pooled outcomes, reflecting the differences in animal species, sample sizes, healing times, and methodological approaches (). The risk of bias was often unclear due to inadequate reporting of allocation concealment and blinding (). Moreover, peri-implantitis and marginal bone loss are long-term complications, but the included studies largely reported short-term results (≤6 months). Thus, it remains uncertain whether the antibacterial advantages of Ag coatings translate into sustained improvements in peri-implant bone stability and implant survival.
+
+Future research should prioritize long-term preclinical studies using standardized protocols and large animal models to better approximate clinical conditions. Optimization of Ag concentration, particle size, and release kinetics is necessary to balance antibacterial efficacy with cytocompatibility. Moreover, comparative clinical trials are needed to assess Ag’s effectiveness relative to other antibacterial coatings and to confirm whether the observed improvements in BIC can be translated into reduced risks of peri-implant disease and bone loss in patients.
+
+5. Conclusions
+
+This review demonstrated that Ag-coated Ti implants are associated with a significant improvement in BIC, whereas no consistent effects were observed for BA or BV/TV. These findings suggest that Ag coatings, while primarily applied for their antibacterial properties, may also support interfacial bone healing without compromising peri-implant bone formation. Further preclinical and clinical investigations are warranted to clarify the dose–response relationship, optimize coating strategies, and determine whether the antibacterial advantages of Ag coatings translate into improved peri-implant bone preservation and implant survival in dental practice.
