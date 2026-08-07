@@ -5,7 +5,7 @@ year: 2026
 date: 2026-08-07
 type: overview
 category: [overviews]
-tags: [implant-surface, SLA, SLActive, CA, UV-photofunctionalization, hydroxyapatite, hydrophilic, biological-aging, osseointegration, bone-to-implant-contact, BIC, surface-topography, magnesium-coating, silver-coating, tricalcium-phosphate, implant-neck-topography, peri-implantitis-risk]
+tags: [implant-surface, SLA, SLActive, CA, UV-photofunctionalization, hydroxyapatite, hydrophilic, biological-aging, osseointegration, bone-to-implant-contact, BIC, surface-topography, magnesium-coating, silver-coating, tricalcium-phosphate, implant-neck-topography, peri-implantitis-risk, adventitious-carbon, organic-acid, native-oxide, wavelength-dependent]
 source_papers: 
 evidence_level: synthesis
 source: synthesis
@@ -37,17 +37,24 @@ relations:
   - type: extends
     target: implants/surface/huraib-2023-micro-threaded-laser-textured-implant-neck-peri-implant
     note: "adds a new axis — implant-NECK micro-topography (distinct from body/thread surface technology) — to the surface-comparison framework"
+  - type: extends
+    target: implants/surface/wagstaffe-2019-rgd-tripeptide-adsorption-titania-surfaces
+    note: "adds the chemical identity of the hydrocarbon contamination layer (small organic acids, carboxylate-cation bridging) that sits ON TOP of the permanent TiO2 oxide layer — clarifies that 'aging' is contamination accumulation, not oxide-state change"
+  - type: extends
+    target: implants/surface/houshmand-2023-uv-photofunctionalization-sla-titanium-disks
+    note: "shows decontamination is wavelength-dependent (UVC works, UVB does not) — wettability improvement alone does not confirm the contamination layer was removed"
 ---
 
 ## 한국어 핵심요약
 
 > [!summary] 한국어 핵심요약
-> - 핵심: 임플란트 표면처리 15편 + 횡단 인용 3편 종합 — SLA·CA·UV 광기능화·골밀도화를 매트릭스로 비교.
+> - 핵심: 임플란트 표면처리 15편 + 횡단 인용 5편 종합 — SLA·CA·UV 광기능화·골밀도화를 매트릭스로 비교.
 > - SLA/SA = 임상 표준 — 8년 생존 94.8%(Kim 2020 retrospective, n=96).
 > - CA(초친수성, Osstem) = 더 안정적 — 5.2년 생존 97.3%, MBL 0.074mm(Kim 2022 retrospective, n=258); 한국에서 가장 검증된 초친수성 옵션.
 > - UV 광기능화(Photofunctionalization, UV-PF) = 위축골·복잡증례 1순위 — 복잡증례 ISQ +21.9, 7년 100% 성공(Hirota 2020 prospective).
 > - 표면처리의 진짜 기전은 친수성(접촉각)이 아니라 탄화수소(Hydrocarbon) 제거를 통한 양전하(Electropositivity) 회복 = 생물학적 노화(Biological Aging) 역전(Hayashi 2014, Minamikawa 2016 in-vitro).
 > - 탄소/티타늄(C/Ti) 비율↑ → 골아세포 부착·증식·분화 농도 의존적 감소(C/Ti=1.0에서 ALP·칼슘 무기화 >40% 감소).
+> - **근거 갱신(2026-08) — 산화막과 오염막은 다른 층**: 티타늄은 가공 직후 즉시·영구적으로 산화막(TiO₂)이 생기고 이는 사라지지 않는다 — "노화"란 그 산화막 위에 별도로 쌓이는 부착탄소오염 (Adventitious Carbon)층 얘기다. Wagstaffe 2019(XPS/STM)가 그 정체를 처음 특정: 기름·유분이 아니라 폼산·아세트산 같은 소형 유기산이 카르복실기-Ti 결합으로 화학흡착된 것. UV/플라즈마가 벗겨내는 건 산화막이 아니라 이 카르복실기-Ti 결합이며, Houshmand 2023(EDS)은 이게 파장 의존적임을 보임 — UVC는 실제로 벗겨내나 UVB는 접촉각만 개선하고 탄소는 그대로.
 > - 친수성 표면은 ISQ 절대값을 올리는 게 아니라 D3/D4 골에서 stability dip을 제거해 조기 부하 시기를 앞당김(Canullo 2024 prospective: 친수성 T45 74.97 vs SLA 73.44, p<0.05).
 > - 생물학적 노화는 4주가 아닌 6개월까지 지속 — 포장 후 6개월 이상 보관 임플란트는 골유착 손실 가능, UV-PF로 역전.
 > - 샌드블라스팅(Sandblasting) vs 머신드(Machined) 직접 비교 RCT SR+MA(Czumbel 2019, 7 RCT, 722임플란트): 샌드블라스팅이 실패율을 1년 80%(RR=0.20, I²=0%), 5년 74%(RR=0.26, I²=0%) 감소. 단 변연골소실(MBL)은 두 표면 간 유의차 없음 — **표면 거칠기는 실패율을 낮추지만 변연골 유지에는 영향을 주지 않는다**는 핵심 분리(Dissociation).
@@ -66,7 +73,7 @@ relations:
 
 ## Three-line Summary
 
-Synthesis matrix of 15 `implants/surface/` papers + 3 cross-cited across SLA/SA, hydrophilic CA/SLActive, UV photofunctionalization (UV-PF), and osseodensification (OD): SLA/SA remains the clinical standard (8y survival 94.8%, Kim 2020 retrospective n=96); hydrophilic CA/SLActive surfaces remove the D3/D4 stability dip without raising absolute ISQ (CA 5.2y 97.3% survival, MBL 0.074 mm, Kim 2022 n=258); UV-PF is first-line for atrophic/complex cases (ISQ +21.9 in complex sites, 7y 100% success, Hirota 2020 prospective).
+Synthesis matrix of 15 `implants/surface/` papers + 5 cross-cited across SLA/SA, hydrophilic CA/SLActive, UV photofunctionalization (UV-PF), and osseodensification (OD): SLA/SA remains the clinical standard (8y survival 94.8%, Kim 2020 retrospective n=96); hydrophilic CA/SLActive surfaces remove the D3/D4 stability dip without raising absolute ISQ (CA 5.2y 97.3% survival, MBL 0.074 mm, Kim 2022 n=258); UV-PF is first-line for atrophic/complex cases (ISQ +21.9 in complex sites, 7y 100% success, Hirota 2020 prospective).
 
 The dominant surface-efficacy mechanism is hydrocarbon removal reversing biological aging (C/Ti ratio rise depresses osteoblast ALP and mineralization >40%), not hydrophilicity per se (Hayashi 2014, Minamikawa 2016 in-vitro); biological aging continues up to 6 months post-packaging, making UV-PF a validated rescue for aged implants.
 
@@ -74,7 +81,7 @@ OD is an osteotomy technique (not a surface) complementary to surface choice —
 
 ## 세줄요약
 
-임플란트 표면처리 15편 + 3편 횡단인용 종합 매트릭스: SLA/SA = 임상 표준(8년 생존 94.8%, Kim 2020 n=96); 친수성(CA/SLActive) = D3/D4 골에서 stability dip 제거, 절대 ISQ 상승은 아님(CA 5.2년 97.3%, MBL 0.074 mm, Kim 2022 n=258); UV 광기능화(UV-PF) = 위축골·복잡증례 1순위(ISQ +21.9, 7년 100% 성공, Hirota 2020 전향적).
+임플란트 표면처리 15편 + 5편 횡단인용 종합 매트릭스: SLA/SA = 임상 표준(8년 생존 94.8%, Kim 2020 n=96); 친수성(CA/SLActive) = D3/D4 골에서 stability dip 제거, 절대 ISQ 상승은 아님(CA 5.2년 97.3%, MBL 0.074 mm, Kim 2022 n=258); UV 광기능화(UV-PF) = 위축골·복잡증례 1순위(ISQ +21.9, 7년 100% 성공, Hirota 2020 전향적).
 
 표면처리의 핵심 기전은 친수성이 아니라 탄화수소(Hydrocarbon) 제거를 통한 생물학적 노화(Biological Aging) 역전 — C/Ti 비율↑ 시 골아세포 ALP·무기화 >40% 감소(Hayashi 2014·Minamikawa 2016 in-vitro); 생물학적 노화는 포장 후 6개월까지 지속되므로 노화 임플란트는 UV-PF로 역전 후 사용.
 
@@ -84,7 +91,7 @@ OD is an osteotomy technique (not a surface) complementary to surface choice —
 
 ## Summary
 
-LLM-Wiki `implants/surface/` 33편+ (2026-06까지 15편+횡단인용 3편; 2026-08-07 갱신에서 10편 추가 — 코팅화학 확장 6편, 넥디자인 1편, 장기 peri-implantitis 연관 1편, 기존결론 정밀화 2편).
+LLM-Wiki `implants/surface/` 35편+ (2026-06까지 15편+횡단인용 3편; 2026-08-07 갱신에서 12편 추가 — 코팅화학 확장 6편, 넥디자인 1편, 장기 peri-implantitis 연관 1편, 기존결론 정밀화 2편, 오염 화학기전 확장 2편(횡단인용 3→5)).
 
 근거 등급(2026-08 기준): sr+ma 다수(Czumbel·Lang·Damerau·Saini·Alshayeb·López-Valverde·Alenezi×2) · sr 다수(Komatsu·Serbanescu·Dipalma·Matys·Huraib) · RCT 다수(Vílchez·Krishna·Farsiani) · Prospective(Hirota UV-PF 7년) · Retrospective 2편(Kim 2020 SA·Kim 2022 CA) · narrative-review·in-vitro·animal 다수. **장기 임상 결과는 retrospective 2편이 핵심**이며 (Kim 2020 SA 94.8% 8년, Kim 2022 CA 97.3% 5.2년), SLA→SLActive→CA→UV-PF 진화에서 각 단계의 임상 근거 차이가 크다. 2026-08 갱신으로 **CaP/HA 코팅 효능 하나가 정정**됐고(Damerau 2021), **금속/생체분자 코팅·넥디자인·장기 peri-implantitis 연관**이라는 3개 신규 축이 더해졌다.
 
@@ -115,6 +122,15 @@ LLM-Wiki `implants/surface/` 33편+ (2026-06까지 15편+횡단인용 3편; 2026
 | **in-vitro** | [[implants/surface/hayashi-2014-hydrocarbon-attenuates-osteoblast-titanium]] | **탄소/티타늄 (C/Ti) 비율↑ → 골아세포 부착·증식·분화 농도 의존적 감소**; C/Ti=1.0에서 ALP·칼슘 무기화 >40% 감소 — BIC 정체의 직접 원인 |
 | **in-vitro** | [[implants/surface/minamikawa-2016-long-term-degradation-titanium-biological]] | **티타늄 생물학적 노화는 4주가 아닌 6개월까지 지속**; 친수성보다 탄화수소 오염이 주된 노화 구동자 |
 | **in-vitro** | [[implants/surface/iwasa-2011-tio2-micro-nano-hybrid-biological-aging]] | TiO2 나노결절 (300 nm) + 마이크로피트 → UV-PF 후 7일까지 생체활성 유지; **기전은 친수성이 아닌 양전하 지속** |
+| **in-vitro** | [[implants/surface/wagstaffe-2019-rgd-tripeptide-adsorption-titania-surfaces]] | **2026-08 신규**: XPS/STM으로 "탄화수소"의 화학적 정체를 처음 특정 — 기름·유분이 아니라 폼산·아세트산 같은 소형 유기산이 카르복실기-양이온 브리징으로 화학흡착된 층; SLActive는 이 층이 SLA보다 얇아 RGD 펩타이드 흡수↑ |
+| **in-vitro** | [[implants/surface/houshmand-2023-uv-photofunctionalization-sla-titanium-disks]] | **2026-08 신규**: UVC(210nm)는 탄소·질소 유의 감소, UVB(310nm)는 접촉각만 개선(129.9°→58.9°)하고 탄소·질소는 무변화 — **습윤성 개선이 곧 탈오염 증명이 아님** |
+
+**산화막 vs 오염막 — 두 개의 다른 층 (2026-08 명확화)** [확인]: "산화됐다"는 사실 자체와 "활성화 상태"를 혼동하기 쉽다. 실제로는 층이 두 개다.
+
+1. **산화막 (TiO₂, native oxide)** — 티타늄이 가공 직후 공기에 닿는 순간 거의 즉시·영구적으로 형성. 이 층은 시간이 지나도 사라지거나 되돌아가지 않는다(Wagstaffe 2019: "inert and biocompatible protective titanium dioxide layer").
+2. **오염막 (adventitious carbon, 부착탄소)** — 그 산화막 **위에** 대기 노출 시간에 따라 쌓이는 별개의 층. 폼산·아세트산 같은 소형 유기산이 산화막 표면의 카르복실기-Ti 결합으로 붙는다(Wagstaffe 2019). 이게 4주~6개월에 걸쳐 진행되는 진짜 "노화"다(Minamikawa 2016).
+
+즉 "활성화 상태"란 **산화막은 있고 오염막은 아직 없는** 초기 상태(접촉각≈0°)를 말하는 것이지, 산화 여부 자체가 활성/비활성을 가르지 않는다. UV/플라즈마가 벗겨내는 것도 산화막이 아니라 그 위의 오염막(카르복실기-Ti 결합)이다 — UV 광자가 이 결합을 직접 해리시키거나(Roy et al 모델, Houshmand 2023 인용), 플라즈마의 반응성 산소/질소종이 같은 결합을 화학적으로 공격한다.
 
 [미검증] 임상 의미: **포장 후 6개월 이상 보관된 임플란트는 노화로 골유착 손실 가능**. UV-PF는 이를 역전.
 
@@ -306,7 +322,7 @@ LLM-Wiki `implants/surface/` 33편+ (2026-06까지 15편+횡단인용 3편; 2026
 
 ## 8. 임상 적용 한 페이지 요약
 
-**표면처리 9대 원칙** (2026-08 갱신, 7→9) [확인]:
+**표면처리 10대 원칙** (2026-08 갱신, 7→9→10) [확인]:
 
 1. **SLA/SA가 기본 표준** — 8년 94% 생존 (Kim 2020)
 2. **D3/D4 골은 친수성 표면** — Stability dip 제거 (Canullo 2024)
@@ -317,6 +333,7 @@ LLM-Wiki `implants/surface/` 33편+ (2026-06까지 15편+횡단인용 3편; 2026
 7. **암절제·방사선 환자** — 표면처리만으로 불충분
 8. **CaP/HA 코팅은 "코팅했다고 좋아진다"가 아님 (2026-08 정정)** — 이미 거친 티타늄 대비 TCP/HA 코팅의 견고한 BIC 우위는 입증되지 않았고(Damerau 2021 SR+MA), Mg/Ag 등 신흥 금속 코팅이 오히려 더 강한 근거(p<0.05~<0.001)를 보임(§2.4) — 코팅 종류가 아니라 개별 메타분석 근거로 판단
 9. **거친 표면의 장기 peri-implantitis 위험 고려** — 단기 골유착 이점과 장기(≥5년) peri-implantitis 오즈 증가가 같은 거칠기 축에서 공존할 수 있음(Dipalma 2026); 단 환자·부위 위험요인이 표면 효과보다 우세하므로 표면 선택보다 유지관리가 우선
+10. **산화막과 오염막을 혼동하지 말 것 (2026-08 신규)** — 산화막(TiO₂)은 가공 즉시·영구적으로 형성되고 사라지지 않음; "노화"는 그 위에 쌓이는 별개의 오염막(소형 유기산, Wagstaffe 2019) 얘기임. UV/플라즈마가 벗겨내는 대상도 오염막뿐이며, **접촉각(습윤성) 개선만으로 탈오염이 됐다고 단정하면 안 됨** — 같은 SLA 배치에서 UVB는 접촉각만 낮추고 탄소는 그대로였다(Houshmand 2023). 기기 파장/스펙트럼을 확인하지 않은 "UV 처리했다"는 보고는 실제 탈오염 여부가 불확실할 수 있음
 
 ---
 
@@ -397,7 +414,7 @@ LLM-Wiki `implants/surface/` 33편+ (2026-06까지 15편+횡단인용 3편; 2026
 
 **갱신 메모 (2026-06-26)**: 이번 갱신의 핵심은 **본 overview가 명시했던 두 가지 "부재" 갭이 충전**된 것 — (1) UV-PF 임상 SR+MA(Lang 2022), (2) SLA vs SLActive 직접 비교 RCT(Vílchez 2025). 임상 권장 자체는 불변(SLA 표준·친수성 D3/D4·UV-PF 위축골)이나, **근거의 질이 한 단계 상승**했고 두 신규 근거 모두 thesis를 반박이 아닌 보강 방향으로 정렬한다: UV-PF는 "절대 안정성"이 아니라 "안정성 도달 속도(OSI)"를 높이고(Lang), SLActive는 SLA 대비 절대 우위가 아니라 특정 시나리오 한정(Vílchez). 남은 갭은 SLA·SLActive·CA **3자 동시 비교** 다기관 RCT.
 
-### 신규 추가 (2026-08-07) — PMC 서베일런스, 코팅 화학·넥 디자인·장기 peri-implantitis 축 확장 (10편)
+### 신규 추가 (2026-08-07) — PMC 서베일런스, 코팅 화학·넥 디자인·장기 peri-implantitis 축 확장 + 오염 화학기전 (12편)
 
 - [[implants/surface/damerau-2021-inorganic-surface-coatings-tcp-ha-periimplant]] — **refines (overview 정정)**: 대형동물 40편 SR + 15편 pooled MA — TCP/HA 코팅이 이미 거친 비코팅 티타늄 대비 견고한 BIC 우위 없음, HA는 14일에 오히려 유의하게 열세(−6.94%p, p=.001). 본 overview가 2026-06까지 bonfante-2012·yamada-2012에 기반해 유지해온 CaP/HA 코팅 우호적 서술을 **직접 정정**(yamada-2012와 `contradicts`) — §2.2·§2.4 신설 (sr+ma, 2021)
 - [[implants/surface/dipalma-2026-implant-surface-characteristics-peri-implant-outcomes]] — **refines (갭 충전)**: 인체 비교연구 13편 SR — 단기 MBL은 표면 간 동등하나 장기 후향적 코호트는 거친 표면 peri-implantitis 오즈 증가와 연관(Ferrantino OR 4.877, Raes p<0.01), 단 환자·부위 위험요인이 표면보다 우세. 본 overview Wiki Coverage Caveat의 "peri-implantitis 장기 연관" 갭을 부분 충전 — §10 신설 (sr, 2026)
@@ -409,5 +426,7 @@ LLM-Wiki `implants/surface/` 33편+ (2026-06까지 15편+횡단인용 3편; 2026
 - [[implants/surface/alenezi-2026-magnesium-modified-titanium-implants-osseointegration]] — 전임상 11편 SR+MA — 마그네슘 코팅 BIC 유의 향상(Z=4.38, p<0.001), 코팅 화학 중 가장 강한 신호 (sr+ma, 2026)
 - [[implants/surface/alenezi-2025-implant-silver-coatings-bone-formation]] — 동물 16편 SR+MA — 은 코팅 BIC 유의 향상(Z=2.01, p=0.04), 골 부피 무해 (sr+ma, 2025)
 - [[implants/surface/matys-2025-osseointegration-zirconia-implants-calcium-phosphate]] — 27편 SR — 지르코니아 임플란트 CaP 코팅, bonfante-2012(티타늄)과 대비되는 기질-의존적 코팅 효과 패턴; `extends → bonfante-2012` (sr, 2025)
+- [[implants/surface/wagstaffe-2019-rgd-tripeptide-adsorption-titania-surfaces]] — **extends (기전 확장)**: XPS/STM — §1의 "탄화수소"가 화학적으로 무엇인지 처음 특정(폼산·아세트산 등 소형 유기산, 카르복실기-양이온 브리징); 산화막(TiO₂, 영구)과 오염막(부착탄소, 시간의존)이 별개 층임을 명확히 함; SLActive의 얇은 오염막 → 전 pH RGD 흡수↑ (in-vitro, 2019)
+- [[implants/surface/houshmand-2023-uv-photofunctionalization-sla-titanium-disks]] — **extends (기전 확장)**: EDS, 같은 SLA 배치 UVC/UVB 직접비교 — UVC는 탄소·질소 유의 감소(p<0.001), UVB는 접촉각만 개선하고 탄소·질소 무변화(p=0.171/0.785) — **습윤성 개선 ≠ 탈오염 증명**, 파장 의존적 (in-vitro, 2023)
 
-**갱신 메모 (2026-08-07)**: 이번 갱신은 이전 두 갱신(UV-PF·SLA-SLActive 갭 충전)과 성격이 다르다 — **처음으로 본 overview의 기존 결론 하나(CaP/HA 코팅의 BIC 이점)를 정정**했다(Damerau 2021). 나머지 9편은 (a) 코팅 화학 축 확장(Mg·Ag·생체분자, §2.4 신설), (b) 넥 디자인이라는 신규 독립 축(§9 신설), (c) 장기 peri-implantitis-거칠기 트레이드오프(§10 신설), (d) 기존 결론의 정밀화(샌드블라스팅 단독 vs SLA, 나노구조 지속성)로 분류된다. 핵심 thesis(탄화수소 제거=기전, 거칠기가 코팅 화학보다 지배적)는 오히려 **강화**됐다 — Damerau의 "코팅보다 기준 표면 거칠기가 우선"이라는 결론이 §1의 탄화수소/양전하 기전론과 정합적이기 때문. 남은 최대 갭: TCP/HA·Mg·Ag 코팅 전부 **인체 RCT 부재**.
+**갱신 메모 (2026-08-07)**: 이번 갱신은 이전 두 갱신(UV-PF·SLA-SLActive 갭 충전)과 성격이 다르다 — **처음으로 본 overview의 기존 결론 하나(CaP/HA 코팅의 BIC 이점)를 정정**했다(Damerau 2021). 나머지 11편은 (a) 코팅 화학 축 확장(Mg·Ag·생체분자, §2.4 신설), (b) 넥 디자인이라는 신규 독립 축(§9 신설), (c) 장기 peri-implantitis-거칠기 트레이드오프(§10 신설), (d) 기존 결론의 정밀화(샌드블라스팅 단독 vs SLA, 나노구조 지속성), (e) §1 기전의 화학적 심화(Wagstaffe·Houshmand — 산화막/오염막 구분, 파장 의존성)로 분류된다. 핵심 thesis(탄화수소 제거=기전, 거칠기가 코팅 화학보다 지배적)는 오히려 **강화**됐다 — Damerau의 "코팅보다 기준 표면 거칠기가 우선"이라는 결론이 §1의 탄화수소/양전하 기전론과 정합적이기 때문. 남은 최대 갭: TCP/HA·Mg·Ag 코팅 전부 **인체 RCT 부재**.
