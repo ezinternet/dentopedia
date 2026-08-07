@@ -100,7 +100,22 @@ COSMETIC_SUBJECT_RE = re.compile(
     # source_wiki: 경로였다. 이 스윕이 도구 4개를 가짜 STALE로 밀어 추가(2026-07-23).
     r"|^fix\(links\):"
     r"|update [\w/+-]* ?wikilinks?\b"
-    r"|wikilink paths?\b)",
+    r"|wikilink paths?\b"
+    # fix(links): 표기 변형 — 2026-07-24~30 대규모 서브카테고리 재구조화 스윕이
+    # "fix(wikilinks):"(위 패턴과 괄호 안 문자열이 달라 안 걸림)와 "refactor: batch N —
+    # ... stragglers to (correct )?subcategories"로 커밋됐다. 둘 다 diff 실측 결과
+    # 전부 [[old-path]] → [[new-path]] 1줄짜리 wikilink 재작성이거나 frontmatter
+    # category: 필드만 이동 — 본문 임상 수치 무변화. 이 버그로 2026-08-07 STALE 신호
+    # 13건 중 12건이 가짜였다(osseodensification-navigator·drill-thermal-selector 등).
+    r"|^fix\(wikilinks?\):"
+    r"|stragglers? (to|into) "
+    r"|\d+-file subcategory restructuring"
+    r"|하위 카테고리|카테고리 재구조화"
+    # "wiki(<category>): backfill contradicts edge — X vs Y" — relations 백필 스윕.
+    # (docs|fix|feat|refactor)(relations): 패턴과 같은 성격(frontmatter relations:
+    # 블록만 추가, 본문 무변화)이나 커밋 scope가 "wiki(<category>):"라 위 relations
+    # 패턴에 안 걸린다. 실측 2건(puisys-2022, ibikunle-2016) 전부 +4줄 frontmatter만.
+    r"|backfill (a )?(contradicts|reinforces|extends|refines|applies-to) edge)",
     re.IGNORECASE,
 )
 
