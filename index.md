@@ -318,6 +318,7 @@ tags: []
 - [[implants/surface/abraham-2014-historical-perspective-dental-implant-surfaces-treatments]] — narrative review(Open Dent J 2014): 임플란트 표면 발달사 — ~2500 BC 이집트 금사 결찰 → Brånemark 티타늄 골유착 → 현대 표면(machined/etched/SLA/HA/fluoride/statin). 정량적 근거 없음, 교육·맥락 자료
 - [[implants/surface/witek-2019-osseodensification-trabecular-tantalum-implants-sheep]] — 동물(양 ilium, 3주, n=3마리/18 임플란트): 표준 vs OD-CW vs OD-CCW × 다공성 트라베큘러 탄탈럼 — OD-CCW가 BAFO 유의↑, BIC 등 다른 지표 NS. 3마리·3주 한계
 - [[implants/surface/houshmand-2023-uv-photofunctionalization-sla-titanium-disks]] — In vitro(SLA 티타늄 디스크 24개, EDS): UVC(210nm)가 표면 탄소·질소 유의 감소(p<0.001)·접촉각 최저(16.4°)나, UVB(310nm)는 접촉각만 낮추고(58.9°) 탄소·질소는 대조군과 무차이 — 습윤성↔탄화수소 제거 분리 사례; Roy et al 기전(대기노출 시 카르복실기·아민기 결합) 인용
+- [[implants/surface/wagstaffe-2019-rgd-tripeptide-adsorption-titania-surfaces]] — In vitro(XPS+STM, 단결정 루타일 TiO₂ + SLA/SLActive 모형): RGD 펩타이드가 탈양성자화 카르복실기로 Ti에 결합; SLActive가 전 pH에서 SLA보다 RGD 흡수↑; **부착탄소오염의 화학적 정체를 처음 특정**(Balajka 2018 인용) — 기름/유분이 아니라 폼산·아세트산 등 소형 유기산의 카르복실기-양이온 브리징 결합; 흡착량은 표면친수성이 아니라 이 층의 치환 용이성이 결정
 
 ## 임플란트 — 비타민 D·골유착 (Vitamin D / Osseointegration) (added 2026-06-21)
 - [[implants/vitamin-d/miron-2025-vitamin-d-deficiency-early-implant-failure]] — Miron 2025 · sr · 비타민 D 결핍이 조기 임플란트 실패를 최대 4배 증가시키고, 수술 전 보충이 당뇨 등 고위험군에서도 BIC·골유착을 개선 (43편 = 동물 16 + 사람 27) (DOI 10.1111/prd.70017)
