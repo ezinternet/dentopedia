@@ -317,6 +317,7 @@ tags: []
 - [[implants/surface/lahens-2019-osseodensification-implant-surface-treatments-sheep]] — 양 장골 동물실험(n=12, 72 임플란트, machined/acid-etched): OD CW/CCW가 표준 드릴링 대비 IT(p<0.001)·BIC(CW p=0.024, CCW p=0.006) 유의 향상; CCW OD에선 표면처리 간 BIC/BAFO 차이 소실(저밀도 골에서 OD가 표면 약점 부분 보완)
 - [[implants/surface/abraham-2014-historical-perspective-dental-implant-surfaces-treatments]] — narrative review(Open Dent J 2014): 임플란트 표면 발달사 — ~2500 BC 이집트 금사 결찰 → Brånemark 티타늄 골유착 → 현대 표면(machined/etched/SLA/HA/fluoride/statin). 정량적 근거 없음, 교육·맥락 자료
 - [[implants/surface/witek-2019-osseodensification-trabecular-tantalum-implants-sheep]] — 동물(양 ilium, 3주, n=3마리/18 임플란트): 표준 vs OD-CW vs OD-CCW × 다공성 트라베큘러 탄탈럼 — OD-CCW가 BAFO 유의↑, BIC 등 다른 지표 NS. 3마리·3주 한계
+- [[implants/surface/houshmand-2023-uv-photofunctionalization-sla-titanium-disks]] — In vitro(SLA 티타늄 디스크 24개, EDS): UVC(210nm)가 표면 탄소·질소 유의 감소(p<0.001)·접촉각 최저(16.4°)나, UVB(310nm)는 접촉각만 낮추고(58.9°) 탄소·질소는 대조군과 무차이 — 습윤성↔탄화수소 제거 분리 사례; Roy et al 기전(대기노출 시 카르복실기·아민기 결합) 인용
 
 ## 임플란트 — 비타민 D·골유착 (Vitamin D / Osseointegration) (added 2026-06-21)
 - [[implants/vitamin-d/miron-2025-vitamin-d-deficiency-early-implant-failure]] — Miron 2025 · sr · 비타민 D 결핍이 조기 임플란트 실패를 최대 4배 증가시키고, 수술 전 보충이 당뇨 등 고위험군에서도 BIC·골유착을 개선 (43편 = 동물 16 + 사람 27) (DOI 10.1111/prd.70017)
