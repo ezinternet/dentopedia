@@ -2,9 +2,9 @@
 ---
 title: "약물 결정 트리 — Chairside (drug 5축 통합)"
 type: interactive
-date: 2026-07-20
+date: 2026-08-07
 status: draft
-verified: 2026-07-20
+verified: 2026-08-07
 category: drug
 agenda: agenda/2026-05-27_chairside-interactives-batch.md
 source_wiki:
@@ -22,6 +22,7 @@ notes: |
   verified 2026-07-02: drug-antibiotic-stewardship-overview 2026-07-01 추가(이란·싱가포르·독일 처방실태 3편)는 과처방 실태 근거로 stewardship 메시지 보강, 예방적 항생제 적응증·용량 임계값 무변화 재확인.
   verified 2026-07-14: drug-systemic-disease-dental-management-overview §10 신규(2026-07-14, Khalilurrahman 2026 SR-MA — RAAS 억제제·스타틴의 치주 상태 영향)는 주제가 "치주 위험 모니터링"으로, 본 툴의 5축(항응고·MRONJ·항생제·진통제·LA/DDI) 절차적 투약 결정과는 무관 — 축 5(CVD 체크박스)의 epinephrine-β차단제 DDI 로직도 별개 사안(급성 심혈관 안전 vs 만성 치주 상태)이라 변경 대상 아님. 임계값·권고 무변화 재확인.
   updated 2026-07-20: 항응고 오버뷰 2026-07-19 통합(13편) 반영 — ①Higashi 2025 DOAC trough 타이밍(Rivaroxaban 14h, Dabigatran·Apixaban 8h) ②Kaya 2025 출혈 위험 실측(Grade 3 8.1%, 국소 지혈 필수 근거) ③Lopez Silva 2025 Heparin(중단 불필요, 거즈만으로 지혈, 투여 직후 간격 확보) ④TXA 제형 사다리(분말·젤라틴+TXA 추가). Anticoagulant select에 Heparin 옵션 신설. 항생제 2026-07-15 추가 4편(bwire/esposito/kwon/liu)은 임계값 무변화 재확인.
+  updated 2026-08-07: (1) 항응고 오버뷰 §2-5 임플란트 특이적 근거(2026-08-02 추가) 반영 — Madrid 2009 SR(19편, OAT/INR 2–4 유지 시 임플란트 비금기·INR은 출혈 예측인자 아님)·Chahine 2019 SR(10편 n=1,331, 8개 시술 카테고리, VKA·NOAC 유지가 헤파린 브리징보다 안전)·Lee 2024 코호트(연세대 n=537, 유지군 AF OR=6.051·VKI OR=3.679, 발치+골이식·다수임플란트·상악 수술이 시술 위험인자, 전 출혈 국소지혈로 해결) — 축1 임플란트 분기에 반영, ref 갱신. (2) 진통제 오버뷰 코르티코스테로이드 근거층(2026-07-29 추가) 반영 — Markiewicz 2008 SR-MA(12 RCT, 부종·개구제한 유의/통증 비유의)·Almeida 2019 SR-MA(17편, 동일 패턴)·Dan 2010 SR-MA(구강악안면 전반, 감염위험 증가 없음)·Bakri 2024 RCT(n=15, 3일 프레드니솔론 테이퍼 > 단회 25mg 부종·개구량, 통증 무차이) — 축4 매복 third molar 분기에 대안 프로토콜로 반영, ref 갱신. (3) 전신질환 오버뷰 임신 섹션(ACOG 2013, 2026-07-30 추가) 반영 — 방사선·LA·대부분 약물 포함 치과치료 전 임신기 안전 승인, 치주치료 조산 감소 효과 없음, 미치료 구강질환이 치료보다 위험 — 축5 임신 분기에 반영, ref 갱신. drug-mronj·drug-antibiotic-stewardship 두 소스는 이 기간 wikilink 경로 정리(fix(wikilinks))만 있었고 임상 수치 무변화 재확인.
 ---
 -->
 <!DOCTYPE html>
@@ -239,7 +240,7 @@ function calculate(e){
 
   // ===== 축 1 — 항응고·항혈소판 =====
   {
-    let lvl='green', title='항응고·항혈소판', rec='', why='', ref='Inchingolo 2024 SR · Moldovan 2023 SR · Shah 2022 SR-MA · Kim 2024 · Izzetti 2024 · Xiang 2026 SR-MA · Dou 2025 SR-MA · Yari 2023 · Al-Suliman 2025 · Higashi 2025 · Kaya 2025 · Lopez Silva 2025 · Bergo 2026';
+    let lvl='green', title='항응고·항혈소판', rec='', why='', ref='Inchingolo 2024 SR · Moldovan 2023 SR · Shah 2022 SR-MA · Kim 2024 · Izzetti 2024 · Xiang 2026 SR-MA · Dou 2025 SR-MA · Yari 2023 · Al-Suliman 2025 · Higashi 2025 · Kaya 2025 · Lopez Silva 2025 · Bergo 2026 · Madrid 2009 SR · Chahine 2019 SR · Lee 2024 코호트';
     if (ac === 'none') {
       rec = '해당 없음 — 표준 발치 진행';
       why = '항응고·항혈소판 미복용.';
@@ -262,6 +263,9 @@ function calculate(e){
     } else if (ac === 'dapt') {
       lvl='yellow'; rec='DAPT 지속 + 심장내과 협진 + TXA 양치액';
       why='스텐트 혈전증 위험. 임의 중단 금지. 최근 스텐트(PCI ≤1년)에서도 비중단 발치 출혈 차이 없고 전부 국소 조절 가능 (Yari 2023, n=100) — 단 협진 원칙 유지.';
+    }
+    if (ac !== 'none' && proc === 'implant') {
+      why += ' 임플란트 특이적 근거: Madrid 2009 SR(19편) — OAT(INR 2–4) 유지 시 임플란트는 금기 아님, INR 수치 자체는 출혈 예측인자 아님(자가골이식·광범위피판 없는 단순 식립 한정). Chahine 2019 SR(10편, n=1,331, 8개 시술 카테고리 포함 임플란트) — VKA·NOAC 모두 유지가 헤파린 브리징보다 안전(브리징이 오히려 출혈↑, 혈전예방 이득 불명확). Lee 2024 코호트(연세대, n=537, 유지군 245/중단군 292) — 전체 출혈 6.5%(유지군 8.6% vs 중단군 4.8%), 유지군 위험인자는 심방세동(OR=6.051)·비타민K억제제(OR=3.679, DOAC·항혈소판제 대비); 시술 위험인자는 발치+골이식·다수 임플란트 동시 식립·상악 수술; 전 35건 출혈 전부 국소 지혈로 해결.';
     }
     if (ssri && (ac !== 'none')) {
       why += ' SSRI 동시 복용 — NSAID 보조 시 상부 GI 출혈 위험.';
@@ -331,7 +335,7 @@ function calculate(e){
 
   // ===== 축 4 — 진통제 =====
   {
-    let lvl='green', rec='', why='', ref='Miroshnychenko 2023 Network MA (n=9095) · Feldman 2024 RCT (n=1815) · Gaballah 2025 RCT · Gomes 2025 · Tamgadge 2025 RCT · Kelidari 2026 NMA · Ping 2026 SR-MA';
+    let lvl='green', rec='', why='', ref='Miroshnychenko 2023 Network MA (n=9095) · Feldman 2024 RCT (n=1815) · Gaballah 2025 RCT · Gomes 2025 · Tamgadge 2025 RCT · Kelidari 2026 NMA · Ping 2026 SR-MA · Markiewicz 2008 SR-MA · Almeida 2019 SR-MA · Dan 2010 SR-MA · Bakri 2024 RCT';
     let firstLine = 'Ibuprofen 400mg / Acetaminophen 1000mg alternate q4h × 48h';
     let avoidNSAID = false, reasonAvoid = [];
 
@@ -355,8 +359,8 @@ function calculate(e){
       rec=firstLine;
       why='Aspirin 항혈소판 효과 보호 — Catella-Lawson 2001, Renda 2006, Yokoyama 2013.';
     } else if (proc === 'impacted_third') {
-      rec=firstLine + ' + 술전 Dexamethasone 4mg IM 1회';
-      why='매복 third molar는 NSAID-preemptive 효과 약함 (Costa 2015 Meta, P=0.22) → 술전 NSAID 대신 술전 Dexamethasone 4mg IM 1회 권장 (Tamgadge 2025 split-mouth RCT, n=60: day7 VAS 0.4 vs 1.6, 개구량·부종 모두 개선). 술후 진통은 즉시 first dose. Opioid 금지.';
+      rec=firstLine + ' + 술전 Dexamethasone 4mg IM 1회 (주사 여건 없으면 3일 경구 프레드니솔론 테이퍼 대안)';
+      why='매복 third molar는 NSAID-preemptive 효과 약함 (Costa 2015 Meta, P=0.22) → 술전 NSAID 대신 술전 Dexamethasone 4mg IM 1회 권장 (Tamgadge 2025 split-mouth RCT, n=60: day7 VAS 0.4 vs 1.6, 개구량·부종 모두 개선). 코르티코스테로이드 계층 근거(4편 일관): Markiewicz 2008 SR-MA(12 RCT) — 부종(SMD 1.4 조기/1.1 후기)·개구제한(WMD 4.1mm 조기/2.7mm 후기) 유의 개선이나 통증은 비유의(WMD 0.4–0.5 VAS, P=.07/.4); Almeida 2019 SR-MA(17편, 10편 pooled)도 동일 패턴; Dan 2010 SR-MA(구강악안면·악교정술 포괄)는 부종·통증 유의 감소, 감염 위험 증가 없음(RR 1.004). 즉 CS의 항부종·개구제한 효과는 다중 SR-MA에서 일관되나 통증 감소만 기대해 단독 처방하는 근거는 약함. 주사 여건 없는 경우 대안: Bakri 2024 RCT(n=15, split-mouth, 위약군 없음) — 3일 경구 프레드니솔론 테이퍼(5mg tid→bid→qd)가 단회 25mg보다 개구량·부종 유의 우수(통증은 무차이) — n=15로 근거 약함. 술후 진통은 즉시 first dose. Opioid 금지.';
     } else if (proc === 'implant' || proc === 'perio_surg') {
       rec=firstLine + ' + 술전 30–60min Ibuprofen 400mg';
       why='Gousias 2025 SR-MA: 치주·임플란트 preemptive analgesia 효과 있음. COX-2 selective는 골유착 우려 (Etikala 2019) — 회피.';
@@ -373,11 +377,11 @@ function calculate(e){
 
   // ===== 축 5 — 국소마취·동반약 점검 =====
   {
-    let lvl='green', rec='', why='', ref='Karm 2017 RCT · Uritu 2025 SR · Colibasanu 2025 DDI · Pyo 2026';
+    let lvl='green', rec='', why='', ref='Karm 2017 RCT · Uritu 2025 SR · Colibasanu 2025 DDI · Pyo 2026 · ACOG 2013';
     if (preg === 'pregnant') {
       lvl='yellow';
       rec='Lidocaine 2% + Epinephrine 1:200,000. Felypressin 금기.';
-      why='Uritu 2025 SR: 임신 시 felypressin (옥시토신 작용) 절대 금기. 1:100,000–200,000 epinephrine만 안전.';
+      why='Uritu 2025 SR: 임신 시 felypressin (옥시토신 작용) 절대 금기. 1:100,000–200,000 epinephrine만 안전. 치료 자체의 안전성: ACOG 2013 Committee Opinion No.569(다학제 합의) — 방사선·국소마취·대부분 약물 포함 치과치료는 전 임신기 안전 승인; 임신 중 치주치료가 조산·저체중아 감소로 이어진다는 근거는 없음(다수 메타분석); 미치료 구강질환이 치과치료 자체보다 모태·태아에 더 위험 — 임신을 이유로 필요한 치료를 미루지 말 것.';
     } else if (cv) {
       lvl='yellow';
       rec='Lidocaine 2% + Epinephrine 1:200,000 (1:80,000 회피)';
