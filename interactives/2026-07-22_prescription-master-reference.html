@@ -2,10 +2,18 @@
 ---
 title: "처방 한 장으로 끝 — 치과 처방 결정 레퍼런스"
 type: interactive
-date: 2026-07-22
+date: 2026-08-07
 status: done
+verified: 2026-08-07
 category: drug
 agenda: agenda/2026-07-22_prescription-master-reference.md
+notes: |
+  updated 2026-08-07: 항응고 오버뷰 §2-5 임플란트 특이적 근거(Madrid 2009 SR·Chahine 2019 SR·
+  Lee 2024 코호트) → 항응고·항혈소판 발치 항목에 반영. 진통제 오버뷰 코르티코스테로이드
+  근거층(Markiewicz 2008·Almeida 2019·Dan 2010 SR-MA·Bakri 2024 RCT) → 매복 제3대구치
+  술전약 항목에 반영. 전신질환 오버뷰 임신 섹션(ACOG 2013) → 임신·수유 항목에 "치료 자체"
+  행 신설. schmidt-2021·camps-font-2024 2026-07-24 변경은 서브카테고리 relocate(경로만,
+  본문 무변화) 재확인 — 반영 불필요.
 source_wiki:
   - wiki/overviews/drug-clinical-decision-ladder.md
   - wiki/overviews/drug-antibiotic-odontogenic-pain-overview.md
@@ -19,8 +27,8 @@ source_wiki:
   - wiki/drug/antibiotics/kwon-2023-microbial-isolates-antibiotic-sensitivity-odontogenic.md
   - wiki/periodontics/alharbi-2019-management-acute-periodontal-abscess-mimicking.md
   - wiki/periodontics/herrera-2014-acute-periodontal-lesions.md
-  - wiki/oral-surgery/schmidt-2021-pericoronitis-management-antibiotic-prescribing-recommendations.md
-  - wiki/oral-surgery/camps-font-2024-antibiotic-prophylaxis-dry-socket-nma.md
+  - wiki/oral-surgery/third-molar/schmidt-2021-pericoronitis-management-antibiotic-prescribing-recommendations.md
+  - wiki/oral-surgery/third-molar/camps-font-2024-antibiotic-prophylaxis-dry-socket-nma.md
 tags: [drug, antibiotics, analgesics, prescription, chairside, reference]
 ---
 -->
@@ -311,11 +319,13 @@ const CARDS = [
           '<b>술후 24시간 초과 연장 금지</b> — >72시간은 오히려 SSI 증가, >7일은 지연 SSI 유의 증가.'],
    src:['De Angelis 2025 SR','Camps-Font 2024 NMA (16 RCT)','Mohammadpour 2025 스코핑 (125편)'], lvl:'m'},
   {l:'술전약', v:'yes', vt:'NSAID가 아니라 코르티코스테로이드',
-   dose:'<em>Dexamethasone 4 mg IM 1회 · 술전</em>',
+   dose:'<em>Dexamethasone 4 mg IM 1회 · 술전</em> (주사 여건 없으면 3일 경구 프레드니솔론 테이퍼)',
    notes:['술전 NSAID(preemptive)는 제3대구치에서 <b>효과 없음</b> (p=0.2227) — 술후 통증 peak가 12–24h라 술전 dose가 그 시점을 못 덮는다.',
           '반면 술전 dexamethasone 4 mg IM 1회는 통증·개구량·부종 모두 개선: day7 VAS <b>0.4 vs 1.6</b> (p&lt;0.001), 개구 3.5 vs 2.7 cm, day7 부종 2.1 vs 2.8 cm. 이상반응 없음.',
-          '약동학 정합: dexamethasone 발현 3–4시간 → 술전 투여해야 술후 peak를 커버.'],
-   src:['Costa 2015 Meta (n=420)','Tamgadge 2025 split-mouth RCT (n=60)'], lvl:'m'},
+          '약동학 정합: dexamethasone 발현 3–4시간 → 술전 투여해야 술후 peak를 커버.',
+          '<b>코르티코스테로이드 계층 근거(4편 일관)</b>: 12 RCT SR-MA에서 부종(SMD 1.4 조기/1.1 후기)·개구제한(WMD 4.1mm 조기/2.7mm 후기) 유의 개선이나 통증은 비유의(WMD 0.4–0.5 VAS, P=.07/.4) — 다른 SR-MA(17편)도 동일 패턴, 구강악안면·악교정술 포괄 SR-MA는 감염위험 증가 없음(RR 1.004)도 확인. 즉 통증 감소만 기대해 단독 처방하는 근거는 약함.',
+          '주사 여건 없으면: RCT(n=15, split-mouth, 위약군 없음) — 3일 경구 프레드니솔론 테이퍼(5mg tid→bid→qd)가 단회 25mg보다 개구량·부종 유의 우수, 통증은 무차이 — n=15로 근거 약함.'],
+   src:['Costa 2015 Meta (n=420)','Tamgadge 2025 split-mouth RCT (n=60)','Markiewicz 2008 SR-MA','Almeida 2019 SR-MA','Dan 2010 SR-MA','Bakri 2024 RCT'], lvl:'m'},
   {l:'진통제', v:'yes', vt:'단순 발치와 동일 + day 3까지',
    dose:'<em>Ibuprofen 400 / APAP 1000 교대 q4h</em> — day 3까지 연장',
    notes:['단회 NSAID 이상반응 순위는 대부분 <b>노세보</b> — NMA에서 약리적으로 불활성인 위약이 “위해” 2위였다. 이 수치로 NSAID를 1차에서 내리지 말 것.'],
@@ -329,8 +339,9 @@ const CARDS = [
    dose:'와파린(VKA): <em>INR ≤ 3.5</em> → 중단 없이 진행 · 3.5–4.0 선택적 연기 · &gt;4.0 모든 선택적 처치 연기',
    notes:['처치 24–72시간 전 INR 확인.',
           'DOAC — 침습도 최소 시술에서 <b>지속·단기중단 모두 허용</b>. 출혈을 결정하는 건 중단 여부가 아니라 <b>시술 침습도</b>(3치 초과·판막거상·골삭제).',
-          'DAPT 변경 전엔 심장내과 협진 — 단 스텐트 1년 내 비중단 발치도 안전.'],
-   src:['Inchingolo 2024 SR','Xiang 2026 SR+MA (n=8,663)','Yari 2023 (n=100)'], lvl:'s'},
+          'DAPT 변경 전엔 심장내과 협진 — 단 스텐트 1년 내 비중단 발치도 안전.',
+          '<b>임플란트 특이적</b>: SR(19편) — OAT(INR 2–4) 유지 시 임플란트는 금기 아님, INR은 출혈 예측인자 아님(자가골이식·광범위피판 없는 단순 식립 한정). SR(10편, n=1,331, 8개 시술 카테고리 포함 임플란트) — VKA·NOAC 모두 유지가 헤파린 브리징보다 안전. 코호트(연세대, n=537) — 유지군 위험인자는 심방세동(OR=6.051)·비타민K억제제(OR=3.679); 시술 위험인자는 발치+골이식·다수 임플란트·상악 수술; 전 35건 출혈 국소 지혈로 해결.'],
+   src:['Inchingolo 2024 SR','Xiang 2026 SR+MA (n=8,663)','Yari 2023 (n=100)','Madrid 2009 SR','Chahine 2019 SR','Lee 2024 코호트'], lvl:'s'},
   {l:'지혈', v:'yes', vt:'TXA가 지렛대',
    dose:'<em>트라넥삼산(TXA) 4.8% 양치액 10 mL × 2분 · 1일 4회 · 7일</em> (삼키지 않도록 지도)',
    notes:['출혈 <b>50–60% 감소</b> — 드레싱 선택보다 효과 크기가 크다.',
@@ -657,6 +668,11 @@ const CARDS = [
 
 {tab:'spec', g:'특수환자', t:'임신 · 수유', pill:'세 축 모두 바뀐다',
  rows:[
+  {l:'치료 자체', v:'yes', vt:'미루지 않는다',
+   dose:'방사선·국소마취·대부분의 약물 포함 <em>치과치료는 전 임신기 안전</em>',
+   notes:['ACOG Committee Opinion No.569(다학제 합의) — 치주치료가 조산·저체중아 감소로 이어진다는 근거는 없음(다수 메타분석)이지만, <b>미치료 구강질환이 치과치료 자체보다 모태·태아에 더 위험</b> — 임신을 이유로 필요한 치료를 미루지 말 것.',
+          '심내막염 예방적 항생제는 AHA 최고위험군 심장질환 환자에 한정, 임신 자체가 적응증 아님.'],
+   src:['ACOG 2013'], lvl:'s'},
   {l:'진통제', v:'case', vt:'APAP 1차',
    dose:'<em>Acetaminophen 1차</em> · <em>Ibuprofen은 임신 후기(≥30주) 금기</em>',
    notes:[], src:['Drug 결정 사다리 Theme D'], lvl:'m'},
