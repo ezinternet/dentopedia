@@ -108,14 +108,18 @@ COSMETIC_SUBJECT_RE = re.compile(
     # category: 필드만 이동 — 본문 임상 수치 무변화. 이 버그로 2026-08-07 STALE 신호
     # 13건 중 12건이 가짜였다(osseodensification-navigator·drill-thermal-selector 등).
     r"|^fix\(wikilinks?\):"
-    r"|stragglers? (to|into) "
+    r"|\bstragglers?\b"
     r"|\d+-file subcategory restructuring"
     r"|하위 카테고리|카테고리 재구조화"
     # "wiki(<category>): backfill contradicts edge — X vs Y" — relations 백필 스윕.
     # (docs|fix|feat|refactor)(relations): 패턴과 같은 성격(frontmatter relations:
     # 블록만 추가, 본문 무변화)이나 커밋 scope가 "wiki(<category>):"라 위 relations
     # 패턴에 안 걸린다. 실측 2건(puisys-2022, ibikunle-2016) 전부 +4줄 frontmatter만.
-    r"|backfill (a )?(contradicts|reinforces|extends|refines|applies-to) edge)",
+    r"|backfill (a )?(contradicts|reinforces|extends|refines|applies-to) edge"
+    # "docs(<category>): relocate <stem> -> <new-category>" — 2026-07-24 개별 파일
+    # relocate 스윕. git이 구경로 삭제+신경로 신규작성으로 기록해 겉보기엔 "new file"
+    # diff지만 내용은 100% 동일(실측: yein-2026, +76줄 신규 = 원문 그대로 이동).
+    r"|^docs\([\w/-]+\): relocate )",
     re.IGNORECASE,
 )
 
@@ -169,7 +173,14 @@ def git_date_from_cache(cache: dict, relpath: str, skip_cosmetic: bool = False):
     for d, subject in entries:
         if not COSMETIC_SUBJECT_RE.search(subject):
             return d or None
-    return entries[-1][0] or None
+    # 전 항목이 cosmetic — 흔히 "docs(<cat>): relocate X -> Y" 단독 스윕처럼, git log가
+    # rename을 구경로 삭제+신경로 신규작성으로 기록해(--follow 미사용, glob 기반 캐시)
+    # 신경로에는 relocate 커밋 1건만 잡히는 경우다. 과거엔 entries[-1](가장 오래된
+    # cosmetic)로 폴백했는데, 단일 항목이면 entries[-1] == entries[0] == 그 relocate
+    # 커밋 자신이라 폴백이 무의미해져 최근 날짜를 그대로 반환 → 가짜 STALE(2026-08-07
+    # 실측: kim-2026·yein-2026 등 8개 도구). "실제 내용 변경 증거 없음"이 곧 "STALE
+    # 아님"이므로 None을 반환해 이 소스를 비교에서 제외한다.
+    return None
 
 
 def main():
