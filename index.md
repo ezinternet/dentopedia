@@ -961,6 +961,11 @@ tags: []
 - [[periodontics/barootchi-2024-autologous-platelet-concentrates-root-coverage]] — Barootchi 2024 · sr+ma (NMA, 109 RCT · RT1 치은퇴축 4712 · 3188명): CAF에 더한 APC 중 PRF만 평균 근면피복 +6.12%(p=0.02), PRP·CGF 무의미; baseline KTW 클수록 PRF 효과↑, KTW·GT는 개선 못함 · DOI 10.1111/prd.12614
 - [[periodontics/non-surgical-instrumentation/unknown-2009-non-surgical-and-surgical-periodontal]] — Evidence-based hierarchy: non-surgical therapy primary, surgery adjunctive only; mandatory re-evaluation 4–6 weeks post-SRP before surgical consideration; SPT required indefinitely
 - [[periodontics/oral-hygiene-instruction/jo-2008-management-of-dental-biofilm-through]] — Professional oral health care demonstrably improves patient's plaque control ability; paradigm shift from passive cleaning to active capability enhancement; baseline assessment guides SPT frequency
+- [[periodontics/oral-hygiene-instruction/cho-2018-professional-mechanical-tooth-cleaning-preventive-maintenance-interval]] — Cho 2018 · prospective · PMTC 중심 예방관리프로그램에서 4주간 점진적 개선, 3개월 추적 시 악화 → 1개월 관리주기가 적정 (n=33, p<0.001) (DOI none)
+- [[periodontics/oral-hygiene-instruction/choi-2013-dental-plaque-control-ohi-domestic-literature-sr]] — Choi 2013 · sr · 국내 문헌 16편 고찰: 치면착색제 활용 반복 구강위생교습(OHI)이 치면세균막지수를 유의하게 개선(최대 74% 감소, p<0.001), 전문가 치면세마와 병행 시 효과 증대 (DOI none) · superseded_by choi-2017 (partial)
+- [[periodontics/oral-hygiene-instruction/choi-2017-dental-plaque-control-oral-hygiene-education-korea-sr]] — Choi 2017 · sr · 한국 PMPR+OHE 문헌 22편 고찰: 1~2주 간격 4~5회 방문 최적, 착색제 교육 효과 우수, 치면세균막 38~94% 감소, 치주낭 깊이 2.25 mm 감소 (DOI 10.17135/jdhs.2017.17.2.87)
+- [[periodontics/oral-hygiene-instruction/lee-2024-single-tuft-plaque-removal-sr]] — Lee 2024 · sr · 첨단칫솔은 대구치 인접면과 교정장치 주변에서 일반칫솔보다 우수한 치면세균막 제거 효과(p<0.05)를 보였으나, 치실·치간칫솔과 유의한 차이는 없었고 사용률은 5.6%에 불과함 (DOI 10.11149/jkaoh.2024.48.4.216)
+- [[periodontics/oral-hygiene-instruction/nam-2005-new-worn-toothbrush-plaque-removal]] — Nam SJ 2005 · rct · 새 칫솔이 3개월 사용 칫솔보다 전악 구강에서 15.1%, 인접면에서 20.6% 더 높은 치면세균막 제거율을 보임 (DOI none)
 - [[periodontics/sanz-2020-treatment-stage-i-iii-periodontitis-efp]] — EFP S3 지침(15개 SR): 1–3기 치주염 단계적 치료(행동변화→SRP±보조→수술→SPT); GRADE 기반 권고
 - [[periodontics/herrera-2022-treatment-stage-iv-periodontitis-efp]] — EFP S3 지침(13개 SR): 4기 치주염 다학제 재활(교정·보철·임플란트) + 집중 SPT; Sanz 2020의 후속 가이드라인
 - [[periodontics/meng-2024-nspt-cardiovascular-risk-markers-sr-ma]] — SR+MA(21개 RCT): 치주 비수술치료 후 CRP·IL-6·SBP 유의 감소; 지질·DBP는 유의미한 변화 없음
@@ -2369,6 +2374,7 @@ tags: []
 
 ## 치과 역사 (Dental History)
 - [[dental-history/jkda-2025-63-8-006]] — Historical article (Goodface Mi 치과 변웅래, JKDA 2025): 함석태(1889-?) — 첫 한국인 정규 치과대학 졸업자·등록 치과의사·한성치과의사회 창립(일본 단체 대항). 일제강점기 한국 치과 자주성 anchor
+- [[dental-history/choi-2026-opening-future-innovation-convergence-oral-health]] — Choi 2026 · narrative-review · 대한예방치과·구강보건학회장 사설로 학술지 비전과 3대 학술 방향(예방연구 확장, 인재 양성, 융합·글로벌 네트워크)을 제시 (DOI 10.11149/jkaoh.2026.50.2.55)
 
 ## 종합 (Overviews) — 임상 의사결정 ladder
 
