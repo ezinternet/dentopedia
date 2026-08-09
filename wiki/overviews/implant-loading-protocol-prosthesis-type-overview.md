@@ -16,6 +16,7 @@ source_papers:
   - implants/loading-protocol/aiquel-2021-timing-placement-loading-multiple-unit-sr-ma
   - implants/loading-protocol/esposito-2013-loading-times-dental-implants-cochrane
   - implants/loading-protocol/ko-2021-immediate-loading-protocols-increase-risk
+  - implants/loading-protocol/ravindran-2010-flapless-implant-surgery-soft-tissue
 evidence_level: synthesis
 source: synthesis
 relations:
@@ -78,6 +79,7 @@ Clinical bottom line: prosthesis configuration and primary stability — not loa
 | [[implants/loading-protocol/aiquel-2021-timing-placement-loading-multiple-unit-sr-ma]] | sr+ma (14 studies, 21 cohort groups; 3 RCTs for MA) | 502 DPIL / 476 DPDL implants | Multiple-unit FDP (≥2 implants) | DPIL 97.2% vs DPDL 98.1% survival — **no significant difference** (p=.227); IPIL only protocol below 90% (90%); MBL numerically lower in DPIL (0.71 vs 1.68 mm) but between-study only; GRADE **very low** for all comparisons | sr+ma |
 | [[implants/loading-protocol/esposito-2013-loading-times-dental-implants-cochrane]] | sr+ma Cochrane (26 RCT, updated 2013) | 1217 patients / 2120 implants | Cross-prosthesis (single + multiple, various) | 즉시·조기 vs 통상 부하: 보철 실패 RR 1.90 (NS), 임플란트 실패 RR 1.50 (NS), MBL MD −0.10 mm (통계적 유의·임상 무의미); **삽입토크 ≥35 Ncm 전제조건**; GRADE 매우 낮음 — 포괄적 Cochrane 기반에서 "안정성 확보 시 부하 타이밍 비결정 인자" 명제 재확인 | sr+ma |
 | [[implants/loading-protocol/ko-2021-immediate-loading-protocols-increase-risk]] | rct (1y, single center) | 72 patients / 187 implants (partially edentulous) | Fully guided surgery + IL vs 3-month DL | **IL 실패 위험↑**: 임플란트 생존 IL 83.4%(ITT) / 90.2%(PP) vs DL 100% (p<0.01); MBL <0.1 mm 양군 차이 없음 — IT >20 Ncm + ISQ >65 충족해도 가이드 수술 맥락에서 즉시로딩은 유의하게 위험함 | rct |
+| [[implants/loading-protocol/ravindran-2010-flapless-implant-surgery-soft-tissue]] | prospective (180d) | 20 (전치부, 무판막 술식 공통) | Single-piece IL vs two-piece DL (both flapless) | 성공률 80% vs 90%(NS); **papilla (PPI) day 60에 IL 우위**(2.00 vs 1.00, p<0.05)나 DL이 day 120–180에 추격 — Gjelvold 2021의 "1년차 DL papilla 우위가 5년차 소실"과 반대 방향(초기엔 IL papilla 우위, 장기 수렴)이나 **결과 방향 자체는 "papilla 차이는 일시적, 시간이 지나면 수렴"으로 일관** | prospective |
 
 ## Clinical Decision Points
 
@@ -111,6 +113,7 @@ Clinical bottom line: prosthesis configuration and primary stability — not loa
 - [[immediate-implant/esthetic-soft-tissue/donker-2025-immediate-implant-provisionalization-digital-workflow-prospective]] — 디지털 즉시식립+즉시 임시보철 prospective
 - [[implants/loading-protocol/aiquel-2021-timing-placement-loading-multiple-unit-sr-ma]] — 다수 임플란트 지지 고정성 국소의치 로딩 타이밍 SR+MA (ITI S5 동반 논문)
 - [[implants/loading-protocol/esposito-2013-loading-times-dental-implants-cochrane]] — Cochrane SR+MA (26 RCT, 2013): 즉시/조기 vs 통상 부하 cross-prosthesis 종합; 삽입토크 ≥35 Ncm 전제 하 차이 없음, GRADE 매우 낮음
+- [[implants/loading-protocol/ravindran-2010-flapless-implant-surgery-soft-tissue]] — 전치부 무판막 IL vs DL prospective (n=20, 180일): papilla day-60 IL 우위 후 DL 추격 — Gjelvold의 "papilla 차이는 시간에 따라 수렴" 패턴의 초기·소규모 선행 근거
 
 ## Related Overviews
 
