@@ -12,6 +12,7 @@ source_papers:
   - wiki/implants/hussein-2019-thread-depth-implant-shape-stress-mandible-fea.md
   - wiki/implants/chang-2024-optimization-implant-design-bone-quality-fea.md
   - wiki/implants/ozturk-2026-stress-distribution-anterior-implant-fea.md
+  - wiki/implants/cunha-2008-implant-location-mandibular-rpd-fea.md
 ---
 
 ## 한국어 핵심요약
@@ -62,6 +63,7 @@ Caveat: every input here is in silico (homogeneous/isotropic bone, static single
 | Hussein 2019 | 3D FEA, mandible | tapered vs cylinder × thread depth | crestal cortical peak; tapered > cylinder peak von Mises (all bone types) | in-vitro |
 | Chang 2024 | 3D FEA, optimization | thread pitch/depth × D2/D3/D4 | deeper thread cuts crestal stress ~40% & displacement ≥9% in D3/D4; negligible in D2 | in-vitro |
 | Öztürk 2026 | 3D FEA, anterior | bone availability × load angle × restoration | scenario-dependent stress for single anterior implant | in-vitro |
+| Cunha 2008 | 2D FEA, mandibular RPD | implant location (mesial/central/distal) in Kennedy Class I distal-extension RPD | mesial placement best relieves abutment-tooth stress; central placement minimizes RPD displacement; **internal thread region is the stress riser regardless of location** — a distinct clinical context (implant as RPD abutment, not fixed prosthesis) reinforcing Invariant 1 from a position rather than macro-design axis | in-vitro |
 
 ## Clinical Decision Points
 1. **Expect crestal cortical stress concentration regardless of design** — protect the crest (avoid overload, control C/I ratio, occlusal scheme per [[overviews/implant-occlusion-loading-biomechanics-overview]]). [확인]
@@ -88,3 +90,4 @@ Caveat: every input here is in silico (homogeneous/isotropic bone, static single
 - [[implants/chang-2024-optimization-implant-design-bone-quality-fea]] — thread-depth optimization per bone quality.
 - [[implants/ozturk-2026-stress-distribution-anterior-implant-fea]] — anterior single-implant scenarios.
 - [[implants/isq/heimes-2023-macrogeometry-primary-stability-implants-narrative-review]] — macrogeometry-stability counterpart to the stress trade-off.
+- [[implants/cunha-2008-implant-location-mandibular-rpd-fea]] — 2D FEA, implant-supported RPD context: implant position (not design) as the variable; mesial placement favors abutment protection, central favors RPD stability; internal-thread stress concentration is location-independent.
