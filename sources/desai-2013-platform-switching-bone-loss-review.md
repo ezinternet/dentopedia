@@ -2,7 +2,7 @@
 title: "Platform switching: A panacea for bone loss??"
 authors: Desai MH, Patil VA
 year: 2013
-doi: 10.4103/0972-124X.119282
+doi: 10.4103/0972-124X.119296
 category: [implants]
 pdf_path: /Users/oracleneo/llm-wiki/papers/desai-2013-platform-switching-bone-loss-review.pdf
 pdf_filename: desai-2013-platform-switching-bone-loss-review.pdf
@@ -30,7 +30,7 @@ PS는 미세간극(microgap)을 치조정 골에서 멀리 이동시키고 응�
 - **Authors**: Desai MH, Patil VA
 - **Year**: 2013
 - **Journal**: J Indian Soc Periodontol 2013;17(5):681-685
-- **DOI**: 10.4103/0972-124X.119282
+- **DOI**: 10.4103/0972-124X.119296
 - **Study type**: narrative-review
 - **Category**: implants
 
