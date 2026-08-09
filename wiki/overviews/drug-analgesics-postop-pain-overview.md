@@ -4,7 +4,7 @@ authors: synthesis (llm-wiki)
 year: 2026
 date: 2026-05-27
 category: [overviews]
-tags: [analgesics, NSAIDs, ibuprofen, acetaminophen, paracetamol, opioid, postoperative-pain, third-molar, endodontic-pain, preemptive-analgesia, overview]
+tags: [analgesics, NSAIDs, ibuprofen, acetaminophen, paracetamol, opioid, postoperative-pain, third-molar, endodontic-pain, preemptive-analgesia, overview, celecoxib, COX-2, IV-NSAIDs]
 source_papers:
   - drug/miroshnychenko-2023-dental-extraction-pain-network-meta
   - drug/feldman-2024-nonopioid-opioid-third-molar-rct
@@ -41,6 +41,8 @@ source_papers:
   - drug/analgesics/dan-2010-corticosteroid-administration-oral-orthognathic-surgery
   - drug/analgesics/almeida-2019-efficacy-corticosteroids-versus-placebo-impacted
   - drug/analgesics/markiewicz-2008-corticosteroids-reduce-postoperative-morbidity-after-third-molar-surgery
+  - drug/analgesics/maurice-szamburski-2025-intravenous-nsaids-perioperative-pain-narrative-review
+  - drug/analgesics/beaudart-2025-celecoxib-safety-musculoskeletal-sr-ma
 evidence_level: synthesis
 source: synthesis
 agenda: agenda/2026-05-27_drug-overview-split.md
@@ -166,6 +168,20 @@ p=0.002, 명확한 차이.
 
 ---
 
+## 3-ter. 정맥투여(IV) NSAIDs — 경구 불가 시
+
+[근거중간] **Maurice-Szamburski 2025 Narrative Review** (최근 10년 문헌, 유럽 승인·임상 중심) — 전신마취·진정 하 시술처럼 경구 투여가 불가능한 상황에서 IV NSAID가 opioid-sparing 대안이 된다:
+
+- **술후 opioid 사용량 20–60% 감소** (다수 메타분석 pooled).
+- **IV Ibuprofen이 가장 유리한 프로파일** — IV Paracetamol 대비 여러 수술 맥락에서 동등~우수한 진통(예: VAS 24h 1±1.05 vs 2±2.25, p=0.006), 이상반응은 유사(13.7% vs 14.5%).
+- **Preemptive IV Ibuprofen이 24h opioid 사용 45% 감소** (위약 대비, p<0.001) — 본 overview §4의 "Third molar preemptive NSAID 무효"(Costa 2015, 경구)와 상충하는 것처럼 보이나, 전신마취 하 대수술(비-치과 general surgery) 데이터가 대부분이라 third molar에 직접 외삽 불가 — **투여 경로(IV vs 경구) 자체의 약동학 차이**(빠른 혈중농도 도달)가 두 결과의 방향 차이를 설명할 가능성.
+- IV Ibuprofen+Paracetamol 고정용량 병용이 단독보다 우수(SPID48 23.4 vs 9.5mm, p<0.001) — §1의 경구 Ibuprofen+APAP 병용 원칙과 일관.
+- 소아(6세 미만)·직접비교 RCT 데이터는 여전히 부족.
+
+→ 임상 적용 [미검증]: **경구 섭취가 불가능한 경우**(전신마취 하 다수 발치, 진정 시술, 수술 직후 오심)에 한해 IV NSAID(주로 병원 기반 치과)를 opioid 대신 고려. 일반 외래 치과 시술은 대부분 경구 투여가 가능하므로 §1의 경구 프로토콜이 여전히 1차. 국내 IV NSAID 제형 허가 범위는 처방 전 확인 필요.
+
+---
+
 ## 4. Preemptive Analgesia — 시술별 효과 차이
 
 [확인] **Costa 2015 Meta** (third molar, 6 RCTs, n=420) — preemptive **NSAID** 효과 **유의하지 않음** (P=0.2227).
@@ -239,6 +255,10 @@ p=0.002, 명확한 차이.
 
 [확인] **Zingel 2025** narrative — 염증성 관절염(RA·AS) 환자에서 NSAIDs가 CV 위험을 증가시키지 않으며 오히려 전신염증 억제로 심보호 가능성 시사. RA 환자 치과 처치 시 NSAID 처방 안전성 참고. **단, MRONJ 위험인자**이기도 함 → [[drug-mronj-antiresorptive-overview]].
 
+[근거낮음] **Beaudart 2025 Umbrella Review** (16개 SR, 전부 RCT 기반, OA·RA·강직성척추염) — Celecoxib(선택적 COX-2)를 정량적으로 평가: **위장관 안전성이 비선택적 NSAID보다 명확히 우수**(위십이지장궤양 RR 0.22, 95% CI 0.15–0.32, moderate certainty — 이 리뷰의 유일한 moderate 등급 결과), **심혈관 사망률도 오히려 낮음**(RR 0.75 vs 비선택적 NSAID, p=0.04 — Zingel 2025의 "NSAID가 RA/AS에서 CV 위험 증가 안 함" 방향과 일관), **신장 이상반응도 위약보다 낮음**(RR 0.79). 단 **포함된 16개 SR 중 14개가 AMSTAR-2 critically low 품질**로, GI 궤양을 제외한 모든 결과는 GRADE low certainty — 방향성은 참고하되 확정적 결론으로 취급 금지.
+
+→ 임상 적용 [미검증]: Celecoxib이 위장관 위험 환자(위궤양 병력·고령)에선 비선택적 NSAID보다 유리한 선택지일 수 있으나(근거: moderate), 이는 근골격계(비-치과) 인구 데이터이며 §6-4의 **임플란트 골유착 저해 우려(Etikala 2019)는 그대로 적용** — GI 안전성 이점과 골유착 위험은 서로 다른 축이므로 임플란트 환자에서 celecoxib을 GI 이유로 선택하지 말 것.
+
 ### 6-3. 위장관
 [확인] **Rainsford 2009** — Ibuprofen OTC dose(800–1,200mg/day)는 처방 dose(1,800–2,400mg/day) 대비 위장관 부작용 낮음. 단기 사용 (≤7일)에서 위험 매우 낮음.
 
@@ -307,6 +327,8 @@ p=0.002, 명확한 차이.
 | NSAID가 AKI 독립 위험인자 (OR 1.98) | 중간 (ICU retrospective) | Gomes 2025 |
 | COX-2 selective가 임플란트 골유착 저해 가능 | 낮음 (narrative, 임상 근거 부족) | Etikala 2019 |
 | Ibuprofen OTC dose 단기 안전 | 강함 (review) | Rainsford 2009 |
+| IV NSAID이 opioid 사용 20–60% 감소 (경구 불가 시) | 중간 (narrative review, 비-치과 수술 데이터 다수) | Maurice-Szamburski 2025 |
+| Celecoxib GI 안전성 우수(RR 0.22), CV·신장은 비열등~우수 | GI만 중간, 나머지 낮음 (umbrella review 16 SR, 14/16 critically low) | Beaudart 2025 |
 
 ---
 
@@ -354,6 +376,10 @@ p=0.002, 명확한 차이.
 - [[drug/analgesics/etikala-2019-nsaids-periodontal-implant-therapy-review]] — COX-2 골유착 우려
 - [[drug/analgesics/gomes-2025-nsaids-kidney-toxicity-icu-retrospective]] — NSAID AKI OR 1.98
 - [[drug/analgesics/zingel-2025-nsaids-cardiovascular-risk-inflammatory-arthritis]] — RA·AS 환자 NSAID CV 안전
+- [[drug/analgesics/beaudart-2025-celecoxib-safety-musculoskeletal-sr-ma]] — Celecoxib umbrella review: GI 안전 우수(moderate), CV·신장 비열등(low certainty), 14/16 SR critically low
+
+### 투여 경로 (Route)
+- [[drug/analgesics/maurice-szamburski-2025-intravenous-nsaids-perioperative-pain-narrative-review]] — IV NSAID narrative review: opioid 20–60%↓, IV Ibuprofen이 가장 유리한 프로파일, 경구 불가 시 대안
 
 ### 인접 overview
 - [[drug-clinical-decision-ladder]] — drug 카테고리 허브
