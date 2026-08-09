@@ -183,6 +183,7 @@ SRP 강한 권고; 전신 독시사이클린 추가 PPD 이득 0.2–0.4 mm(소)
 | [[periodontics/manresa-2018-supportive-periodontal-therapy-cochrane-sr]] | sr (Cochrane) | 전문의 vs 비전문의·항균 보조·광치료 등 비교 RCT 극히 제한 |
 | [[periodontics/farooqi-2015-periodontal-maintenance-recall-interval-sr]] | sr (8편 코호트) | 3-6mo 단기 주기 → 치아보존 유리. 일률적 권고 근거 부족 |
 | [[periodontics/jung-2019-periodontitis-spt-disease-progression-sr]] | sr (17편 5-15y) | 10/14 연구 CAL 손실 ≤ 0.5mm 안정. 구강위생불량·흡연·SPT 불순응이 진행 예측 |
+| [[periodontics/oral-hygiene-instruction/cho-2018-professional-mechanical-tooth-cleaning-preventive-maintenance-interval]] | prospective (한국, n=33) | 자가관리 미확립 시 **1개월 주기**가 실증적으로 뒷받침됨 — 4주 PMTC로 개선된 치면세균막·치은지수가 3개월째 유의 악화(치면세균막 −11.24, p<0.05), 6개월째 부분 회복만; 설문 54.5%가 1개월 선호 |
 
 **임상 ladder (SPT cadence)**:
 1. **Stage I + Grade A + 비흡연 + good hygiene** → SPT 6mo.
@@ -190,6 +191,7 @@ SRP 강한 권고; 전신 독시사이클린 추가 PPD 이득 0.2–0.4 mm(소)
 3. **Stage III-IV + Grade C 또는 흡연 미중단 또는 당뇨 조절 불량** → SPT 2-3mo.
 4. **임플란트 + 치주염력** → SPT 3mo 종신 (Roccuzzo 2022).
 5. **SPT 순응도 불량 (no-show 빈번)** → recall 시스템 강화, 책임 동의서, 환자 교육 재실시.
+6. **자가관리 기술 미확립 (치료 초기·최근 위생교육)** → 재교육 목적의 **1개월 주기**로 단축 후 기술 안정화되면 표준 cadence로 전환 (Cho 2018).
 
 > **SPT 중 치면세균막관리 방식**: 유지치주 단계에서는 에어폴리싱/GBT가 편안함·시술시간·치질 보존에서 가장 적합(Stähli 2024 RCT, 1년 임상 동등) — 술식·분말·치은연하 안전은 [[overviews/professional-biofilm-management-gbt-air-polishing-overview]]. [근거중간]
 
@@ -295,6 +297,10 @@ SRP 강한 권고; 전신 독시사이클린 추가 PPD 이득 0.2–0.4 mm(소)
 - [ ] `wiki/overviews/mucogingival-surgery-outcomes.md` — APF·FGG·CTG long-term RCT 메타 분석.
 
 ## Related Papers
+
+### 신규 추가 (2026-08-09)
+
+- [[periodontics/oral-hygiene-instruction/cho-2018-professional-mechanical-tooth-cleaning-preventive-maintenance-interval]] — Korean prospective study (n=33): 4주 PMTC로 치면세균막·치은지수 개선되나 3개월째 유의 악화, 6개월째 부분 회복만 — 자가관리 미확립 환자에서 1개월 SPT 주기의 실증 근거 (prospective, 2018) — 축 5 SPT에 통합.
 
 ### 신규 추가 (2026-07-03)
 
