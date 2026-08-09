@@ -4028,3 +4028,14 @@ tags: []
 - [[implants/mbl/bhatt-2025-effect-platform-switching-peri-implant]] — Bhatt 2025 · rct(구치부 단일임플란트 60명, PS 30 vs PM 30, 12개월) · CBL PS 0.32mm vs PM 0.81mm(p<0.001), PD·BOP도 PS 우세 경향(NS)
 - [[implants/mbl/attia-2025-influence-platform-switching-marginal-bone]] — Attia 2025 · retrospective(즉시식립 37명, PS 21 vs PM 16, 6개월~23년) · 근심측 MBL PS 0.26mm vs PM 0.75mm(p=0.044), 회귀분석서 PM이 근심골소실 유의 증가(β=2.11, p=0.039); 원심측·성공률은 무차이
 - [[implants/mbl/yadav-2025-finite-element-analysis-platform-switching]] — Yadav 2025 · in-vitro(FEA, 상악D3·하악D2, 축방향·30°사방향 200N) · PS가 치조정 피질골·해면골 응력 일관되게 감소(특히 사방향)하나 임플란트·지대주·나사 응력은 증가(사방향서 지대주 응력 약 2배)
+
+## Batch ingest (added 2026-08-09, batch b) — implant platform switching PMC 서베일런스 확장 (신규 7편, 큐레이션)
+
+### implants/mbl
+- [[implants/mbl/schwarz-2013-implant-abutment-connection-platform-switching]] — Schwarz 2013 · consensus(Camlog Foundation, SR 2편 종합) · 임플란트-지대주 연결·미세간극 위치·PS의 치조정골 영향 합의문 — subcrestal 미세간극이 거친面 골피개 유지에 유리, PS가 변연골소실 최소화 경향 확인
+- [[implants/mbl/gupta-2019-platform-switching-technique-crestal-bone]] — Gupta 2019 · sr(정성적, 2005-2017, 메타분석 없음) · PS 기전(염증침윤 측방 이동)·임상근거 서술적 종합 — 풀링 수치 없이 임상 상황 허용 시 PS 사용 권고
+- [[implants/mbl/salamanca-2017-dental-implant-marginal-bone-level]] — Salamanca 2017 · retrospective(51명/60임플란트, 1년) · "골이득/간극감소" 방식으로 측정 — 수직 골이득 PS 0.93mm vs PM 0.23mm(p<0.05); 수평은 PS 우세하나 비유의
+- [[implants/mbl/sahabi-2013-biomechanical-effects-platform-switching-two]] — Sahabi 2013 · in-vitro(FEA, XiVE·3i 2개 임플란트 시스템, 축방향·사방향 100N) · PS가 치조정골 응력 낮추나 임플란트-지대주 계면 응력 증가 — yadav-2025가 12년 후 재현한 동일 트레이드오프의 원조 데이터
+- [[implants/mbl/alrabeah-2016-effect-platform-switching-metal-ion]] — Alrabeah 2016 · in-vitro(가속부식, 1% 젖산) · PM이 PS보다 V·Al·Co·Cr·Mo 금속이온 방출 약 2배 많음(p<0.05) — 부식 기전을 PS 골보존 효과의 새 축으로 추가
+- [[implants/mbl/chien-2016-effect-platform-switching-periimplant-crevicular]] — Chien 2016 · prospective(split-mouth 14명, 초기치유 1·2·4·6주 PICF 사이토카인) · PD·IL-6·MIP-1β는 양군 유사, 단 TNF-α는 PS가 1주차에 오히려 3배 높음(p=0.005) — 염증침윤 거리이동 가설에 대한 반례성 소견
+- [[implants/mbl/rossi-2015-randomized-clinical-investigation-titanium-implants]] — Rossi 2015 · rct(PS 21 vs 표준 18, 6개월) · PS와 표준 임플란트 간 변연골수준 유의차 없음 — PS 이점을 못 찾은 소수 RCT 중 하나, juan-montesinos-2022 SR+MA와 contradicts
