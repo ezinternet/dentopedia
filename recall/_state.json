@@ -1,38 +1,38 @@
 {
   "sinus-lift-technique-selection::q1": {
-    "box": 3,
-    "due": "2026-07-21",
-    "last": "2026-07-14"
+    "box": 4,
+    "due": "2026-08-24",
+    "last": "2026-08-08"
   },
   "sinus-lift-technique-selection::q2": {
-    "box": 3,
-    "due": "2026-07-21",
-    "last": "2026-07-14"
+    "box": 4,
+    "due": "2026-08-24",
+    "last": "2026-08-08"
   },
   "sinus-lift-technique-selection::q3": {
-    "box": 2,
-    "due": "2026-07-18",
-    "last": "2026-07-15"
+    "box": 1,
+    "due": "2026-08-09",
+    "last": "2026-08-08"
   },
   "adhesive-bonding-strategies-overview::q1": {
-    "box": 1,
-    "due": "2026-07-29",
-    "last": null
+    "box": 2,
+    "due": "2026-08-11",
+    "last": "2026-08-08"
   },
   "adhesive-bonding-strategies-overview::q2": {
-    "box": 1,
-    "due": "2026-07-29",
-    "last": null
+    "box": 2,
+    "due": "2026-08-11",
+    "last": "2026-08-08"
   },
   "adhesive-bonding-strategies-overview::q3": {
-    "box": 1,
-    "due": "2026-07-29",
-    "last": null
+    "box": 2,
+    "due": "2026-08-11",
+    "last": "2026-08-08"
   },
   "behavioral-dentistry-overview::q1": {
-    "box": 1,
-    "due": "2026-07-29",
-    "last": null
+    "box": 2,
+    "due": "2026-08-11",
+    "last": "2026-08-08"
   },
   "behavioral-dentistry-overview::q2": {
     "box": 1,
