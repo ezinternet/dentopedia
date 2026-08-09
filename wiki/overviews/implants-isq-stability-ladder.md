@@ -236,6 +236,11 @@ ISQ와 삽입토크(IT)는 보완 지표(상관 r=0.44, I²>90%, Tisci 2026 SR+M
 **기기 비교 — Osstell vs Anycheck (in vitro)**
 - [[implants/isq/lee-2024-primary-implant-stability-isq-devices-invitro]] — in-vitro (n=60, IS-III Active Neobiotech, polyurethane 15/30PCF, Seoul National University 2024): ISQ(Osstell Beacon+) vs IST(Anycheck); 두 기기 골밀도·길이 반응 동등(R²↑); Anycheck 측정자 독립적(표준 토크); 저밀도골(15 PCF) 길이 증가 효과 유의, 중밀도골(30 PCF) 10mm 이상 한계체감 — 축 1 기기 비교표 보강.
 
+## Related Papers (added 2026-08-09)
+
+**검사자간 신뢰도 (inter-rater reliability) — ISQ vs ISV vs 조직계측**
+- [[implants/isq/gu-2025-inter-rater-reliability-implant-stability]] — animal study (비글 1마리/임플란트 6개, 훈련된 검사자 5명, ICC): 조직계측(ITBD 0.854·BIC 0.806)이 최고 신뢰도, **ISQ 0.774로 비침습 도구 중 최고**(양호 기준 ≥0.75 충족), 방사선 0.638, **ISV(EasyCheck) 0.447로 유일하게 기준 미달** — 검사자가 바뀌는 다기관·종단 연구에서 ISQ를 표준 도구로 써야 하는 근거. Herrero-Climent 2013의 검사자내(intra-rater) ICC 0.97과 짝을 이뤄 ISQ 신뢰도를 검사자내·검사자간 양쪽에서 확인.
+
 ## Related interactives
 
 - [[interactives/2026-06-02_isq-rfa-loading-simulator-v1]] — ISQ·RFA 통합 시뮬레이터 (측정 → 궤적 → 부하결정)
