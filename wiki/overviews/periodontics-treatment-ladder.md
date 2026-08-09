@@ -184,6 +184,7 @@ SRP 강한 권고; 전신 독시사이클린 추가 PPD 이득 0.2–0.4 mm(소)
 | [[periodontics/farooqi-2015-periodontal-maintenance-recall-interval-sr]] | sr (8편 코호트) | 3-6mo 단기 주기 → 치아보존 유리. 일률적 권고 근거 부족 |
 | [[periodontics/jung-2019-periodontitis-spt-disease-progression-sr]] | sr (17편 5-15y) | 10/14 연구 CAL 손실 ≤ 0.5mm 안정. 구강위생불량·흡연·SPT 불순응이 진행 예측 |
 | [[periodontics/oral-hygiene-instruction/cho-2018-professional-mechanical-tooth-cleaning-preventive-maintenance-interval]] | prospective (한국, n=33) | 자가관리 미확립 시 **1개월 주기**가 실증적으로 뒷받침됨 — 4주 PMTC로 개선된 치면세균막·치은지수가 3개월째 유의 악화(치면세균막 −11.24, p<0.05), 6개월째 부분 회복만; 설문 54.5%가 1개월 선호 |
+| [[periodontics/oral-hygiene-instruction/choi-2017-dental-plaque-control-oral-hygiene-education-korea-sr]] | sr (한국 문헌 22편, 1990–2015) | 국내 PMPR+구강위생교육 최적 규격 = **1–2주 간격 4–5회 방문**; 착색제 기반 개별교육이 구두·모형교육보다 우수(PHP +24.1 vs +2.8); 국내 문헌엔 RCT 부재가 근거수준 한계 |
 
 **임상 ladder (SPT cadence)**:
 1. **Stage I + Grade A + 비흡연 + good hygiene** → SPT 6mo.
@@ -301,6 +302,7 @@ SRP 강한 권고; 전신 독시사이클린 추가 PPD 이득 0.2–0.4 mm(소)
 ### 신규 추가 (2026-08-09)
 
 - [[periodontics/oral-hygiene-instruction/cho-2018-professional-mechanical-tooth-cleaning-preventive-maintenance-interval]] — Korean prospective study (n=33): 4주 PMTC로 치면세균막·치은지수 개선되나 3개월째 유의 악화, 6개월째 부분 회복만 — 자가관리 미확립 환자에서 1개월 SPT 주기의 실증 근거 (prospective, 2018) — 축 5 SPT에 통합.
+- [[periodontics/oral-hygiene-instruction/choi-2017-dental-plaque-control-oral-hygiene-education-korea-sr]] — 국내 문헌 22편 SR (1990–2015): PMPR+OHE 최적 규격 1–2주 간격 4–5회, 착색제 기반 개별교육 우위, 국내 RCT 부재가 근거 한계 (sr, 2017) — 축 5 SPT에 통합, farooqi-2015의 한국 특이적 대응.
 
 ### 신규 추가 (2026-07-03)
 
