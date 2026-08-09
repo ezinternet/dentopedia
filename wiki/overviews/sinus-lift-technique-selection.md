@@ -76,6 +76,7 @@ CBCT RBH 측정
 ├─ RBH 3–4mm: 측방창 거상 + 2단계 (식립 지연)
 │   └─ 동시식립 시도 가능하나 위험 증가
 ├─ RBH <3mm: 측방창 거상 + 2단계 protocol 표준
+│   └─ 신흥 대안: 전용 경치조골 키트 + 2단계로도 가능 (Cho 2024, n=11 소규모 후향적 — 표준 대체 아닌 옵션)
 └─ 단임플란트(≤6mm) 옵션: 상악동거상 회피, RBH 5–7mm에서 동등 생존
 ```
 
@@ -90,6 +91,7 @@ CBCT RBH 측정
 | **case-report** | [[sinus-lift/transcrestal/liu-2018-endoscopically-controlled-flapless-transcrestal-sinus]] | RBH 3.5mm에서도 내시경 보조 TSFE 가능 (특수기법) | 식립 ISQ 72.6 |
 | **sr+ma (n=14 RCTs)** | [[sinus-lift/lateral/toledano-2022-short-versus-standard-implants-sinus]] | 단임플란트(≤6mm) = 표준+거상 동등; MBL 더 적음 | 901 implants |
 | **sr+ma (17편, n=1,259 implants)** | [[sinus-lift/lateral/shah-2022-survival-rate-dental-implant-placed]] | 직접법(측방창) vs 간접법(치조정/골절단기·풍선·피에조) **formal head-to-head 생존율 비교** — 96.9%(337개) vs 97.0%(922개), 통계적 유의차 없음 | 6+13 studies, I²=0% |
+| **retrospective (n=11)** | [[sinus-lift/transcrestal/cho-2024-crestal-sinus-augmentation-limited-bone]] | **RBH <3mm에서도 전용 경치조골 키트로 TSFE 가능** — 골높이 2.1→8.8mm(+6.7mm, p<0.001), 천공 0건, 2단계(평균 202일 치유); 기존 "<3mm=측방창 표준" 문턱을 도전하나 소규모·대조군·임플란트 생존데이터 부재 | 서울성모병원 |
 
 [확인] **5mm가 critical threshold**. 단, OD 도입 시 4mm까지 TSFE 가능 영역 확장. **모든 술식 생존율 97–99% 동등**이라는 위 결론은 그동안 narrative-review·개별 SR 인용에 의존했는데, Shah 2022가 처음으로 직접법·간접법 양쪽을 대칭적 random-effects 비율 메타분석으로 직접 head-to-head 검증해(I²=0%, 양쪽 모두 저이질성) 정식 근거를 제공한다 — RBH 기준 기법 선택이라는 이 페이지의 핵심 원칙(원칙 2·3)을 통계적으로 뒷받침.
 
@@ -115,6 +117,8 @@ CBCT RBH 측정
 | **sr+ma (18 studies)** [[sinus-lift/transcrestal/guo-2020-non-grafted-platelet-concentrations-grafted-transcrestal-sinus]] | TSFE 1년 생존율: **비이식 97% vs 혈소판농축물 99%, 유의차 없음** |
 | **sr+ma (22 studies, 864 implants)** [[sinus-lift/transcrestal/duan-2017-graft-free-maxillary-sinus-floor-elevation-sr-ma]] | 무이식 거상(측방창+경치조골) 동시식립 **생존율 97.9%, 수직 골증대 3.8mm**; VBG 최대 결정인자 = 즉시 돌출 임플란트 길이(PILi, R² 83.9%) |
 | **sr+ma (14 studies, 2,119 sites)** [[sinus-lift/transcrestal/huang-2026-graftless-transcrestal-sinus-membrane-perforation-ma]] | **무이식 경치조골 거상 슈나이더막 천공 1% (95% CI 0–6%)**·12개월 조기실패 1%·술후 부비동염/비출혈 0건; 천공 이질성의 66.9%를 **술식**이 설명(잔존골 높이 무관) — 모터구동 OD 34% vs 전통 OSFE 0% (GRADE 매우 낮음) |
+| **retrospective (49 implants/26명)** [[sinus-lift/transcrestal/song-2020-tenting-effect-implant-sinus-graftless]] | **임플란트 텐팅 효과** 자체가 신생골 형성 견인 — 정점 상방 골형성 39.1%(텐트형 80.4% 우세), **신생골 높이가 임플란트 돌출길이와 유의한 양의 상관**(p<0.001); 실패 3예 전부 잔존골 1차 안정성 부족 — **이식재가 아니라 1차 안정성이 성패 결정** | 생존 93.5% |
+| **prospective (26개 임플란트/17명, RBH 4–8mm)** [[sinus-lift/transcrestal/manekar-2020-graftless-crestal-sinus-lift-simultaneous]] | **수압식(hydraulic) 무이식 CHSL**(CAS kit) 동시식립 — 1년 생존 **100%**, 골높이 6.5→11.7mm(+5.6mm), 천공 0건; 텐팅된 막 아래 혈병만으로 골형성 — 기계적 텐팅(Song 2020)과 수압 텐팅 두 하위술식 모두 이식재 없이 수렴 | 토크 32Ncm |
 
 [확인] **잔존골이 임플란트 길이의 약 50% 이상 확보되면 이식재 불요**. PRF/혈액응고만으로 endo-sinus bone gain 가능. 단, OD 적용 시 골밀도화로 자가골 효과 동시 발생. **천공 안전성은 술식 의존적**: graftless TSFE의 통합 천공률은 1%로 낮으나(Huang 2026 SR+MA, 14편/2,119부위) 이 안전성은 전통 osteotome(OSFE 천공 0%)에 한정되며, **모터구동 골밀도화(motor-driven OD)는 34% 천공**으로 술식이 잔존골 높이보다 천공의 지배적 결정인자(이질성의 66.9% 설명)다 — graftless라는 사실보다 *어떤* 경치조골 술식인지가 천공 위험을 좌우한다. [미검증]
 
@@ -274,6 +278,12 @@ CBCT에서 반드시 확인할 6항목:
 - 만성 부비동염 환자 거상술 결과
 
 ## Related Papers
+
+### 신규 추가 (2026-08-09)
+
+- [[sinus-lift/transcrestal/song-2020-tenting-effect-implant-sinus-graftless]] — Retrospective (49 implants/26명): 임플란트 텐팅 효과가 골형성 견인 — 정점상방 골형성 39.1%, 돌출길이-신생골높이 유의 상관(p<0.001); 실패 전부 1차안정성 부족. (retrospective, 2020)
+- [[sinus-lift/transcrestal/manekar-2020-graftless-crestal-sinus-lift-simultaneous]] — Prospective (26개 임플란트/17명, RBH 4–8mm): 수압식 무이식 CHSL(CAS kit) 동시식립 1년 생존 100%, 골높이 +5.6mm, 천공 0건. (prospective, 2020)
+- [[sinus-lift/transcrestal/cho-2024-crestal-sinus-augmentation-limited-bone]] — Retrospective (n=11, RBH <3mm): 전용 경치조골 키트로 골높이 2.1→8.8mm(+6.7mm), 천공 0건, 2단계(202일) — "<3mm=측방창 표준" 문턱에 신흥 대안 제시 (소규모, 대조군·임플란트생존 데이터 없음). (retrospective, 2024)
 
 ### 신규 추가 (2026-07-23)
 
