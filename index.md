@@ -3955,7 +3955,9 @@ tags: []
 - [[bone-regeneration/esposito-2009-horizontal-vertical-bone-augmentation-cochrane]] — Cochrane SR: horizontal and vertical bone augmentation techniques for implant treatment (2009)
 
 ### implants/mbl
+- [[implants/mbl/canullo-2007-platform-switching-immediate-extraction-sockets]] — Proof-of-concept case series (n=9, 10 implants): largest PS offset in this wiki's cluster (1.0mm/side), bone resorption 0.78±0.36mm vs 1.7mm reference (2007)
 - [[implants/mbl/gupta-2019-platform-switching-crestal-bone-loss-sr]] — Narrative review compiling actual PS abutment/implant offset dimensions across 9 studies; cites Hürzeler 2007's 0.45mm/side "sufficient" threshold claim (2019)
+- [[implants/mbl/hurzeler-2007-peri-implant-bone-level-platform-switched]] — Prospective non-randomized trial (PS 14 vs non-PS 8): 1yr crestal bone -0.22mm vs -2.02mm (P≤.0001); 0.45mm/side abutment reduction concluded "sufficient" (2007)
 - [[implants/mbl/kumar-2021-marginal-bone-level-changes-meta-analysis]] — Meta-analysis of marginal bone level changes at dental implants across loading protocols (2021)
 - [[implants/mbl/lazzara-2006-platform-switching-new-concept]] — Foundational paper coining "platform switching": accidental narrow-abutment restorations (1991 inventory gap) showed less crestal bone loss (2006)
 - [[implants/mbl/salimi-2011-platform-switching-current-results]] — Platform switching: current results and trends in marginal bone preservation (2011)
