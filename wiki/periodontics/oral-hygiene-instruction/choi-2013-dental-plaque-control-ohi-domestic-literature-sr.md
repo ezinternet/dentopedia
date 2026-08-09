@@ -18,6 +18,9 @@ relations:
     target: jo-2008-management-of-dental-biofilm-through
 ---
 
+> [!note] Partially superseded → [[periodontics/oral-hygiene-instruction/choi-2017-dental-plaque-control-oral-hygiene-education-korea-sr]]
+> Same first author's 2017 domestic review widens the literature base from 16 studies (1993–2012) to 22 studies (1990–2015) on the identical PMPR+OHE/OHI question. This 2013 page's OHI-specific synthesis (disclosing-agent efficacy, 4-session optimum) still stands as a narrower, still-cited reading — see the 2017 page for the current best domestic-evidence synthesis.
+
 ## Three-line Summary
 
 (1) This is a domestic systematic literature review (n=16 studies) examining the effect of oral hygiene instruction (OHI) as an adjunct to professional and self-performed plaque control/removal on periodontal parameters in Korean adults, children, and elderly populations, spanning studies published from 1993 to 2012.
