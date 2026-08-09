@@ -1,13 +1,20 @@
 ---
 title: "Post-and-Core / Fiber Post — Sequential Decision Overview for the Endodontically Treated Tooth (포스트앤코어·파이버포스트 결정 종합)"
 type: synthesis
-date: 2026-06-22
+date: 2026-08-08
 status: done
 source_wiki:
   - wiki/post-and-core/alenezi-2024-endodontically-treated-teeth-post-placement-survival.md
   - wiki/post-and-core/al-dabbagh-2024-circumferential-ferrule-fiber-posts-survival.md
   - wiki/post-and-core/naumann-2017-ferrule-first-post-second-systematic-review.md
   - wiki/post-and-core/tsintsadze-2022-survival-rates-glass-fiber-metal-posts.md
+  - wiki/post-and-core/reeh-1989-reduction-tooth-stiffness-result-endodontic.md
+  - wiki/post-and-core/carvalho-2020-endodontically-treated-teeth-restoration-adhesive-approach.md
+  - wiki/post-and-core/lane-2024-survival-success-rates-endodontically-treated.md
+  - wiki/post-and-core/suksaphar-2017-survival-fracture-ett-crown-resin-sr.md
+  - wiki/post-and-core/intaraprasong-2024-post-endodontic-restorations-survival-fracture-cervical-lesions.md
+  - wiki/post-and-core/phengudom-2021-survival-fracture-endodontic-anterior.md
+  - wiki/post-and-core/spielman-2012-restorative-outcomes-endodontically-treated-teeth-pearl-network.md
   - wiki/post-and-core/wang-2019-fiber-posts-vs-metal-posts-severely-damaged.md
   - wiki/post-and-core/van-landuyt-2025-rct-glass-fiber-versus-metal-posts.md
   - wiki/post-and-core/hawthan-2023-survival-fixed-prosthetics-vital-nonvital.md
@@ -36,6 +43,12 @@ tags: [post-and-core, fiber-post, ferrule, endocrown, endodontically-treated-tee
 > - **생역학 앵커**: 파이버포스트 FEA 응력분포 분석이 탄성계수(elastic modulus)를 상아질에 정합시키는 monoblock 개념의 생역학적 근거를 제공 (susita-2026).
 > - **근거 수준**: 임상 비교의 군간 차이는 대체로 비유의(NS)이고 in-vitro/FEA 비중이 큼 → 효과크기보다 *방향성·실패양상*으로 해석.
 > - **임상 결론**: 충분한 치질·ferrule이 남으면 포스트 생략 또는 엔도크라운; 포스트가 필요하면 ferrule 확보를 최우선으로 하고, 재료는 치근파절 위험을 낮추는 파이버(또는 modulus-정합) 포스트를 기본값으로 한다. 심한 손상(≤2벽)에서는 파이버 우위가 통계적으로도 성립한다 (Wang 2019).
+> - **[2026-08-08 추가] 근관치료 자체는 치아를 약화하지 않는다**: in-vitro 하중 실험(Reeh 1989, n=42 소구치)에서 근관치료 전 과정이 치아 강성(cuspal stiffness)을 5%만 감소시킨 반면, MOD cavity 삭제는 63%를 감소시켰다. **치아 약화의 원인은 근관치료가 아니라 수복를 위한 cavity 삭제**, 특히 marginal ridge 소실이다 — 치질 보존 수복 전략(onlay, endocrown)의 핵심 생물역학적 근거.
+> - **[2026-08-08 추가] 접착 수복 시 포스트 필요성은 재료에 따라 다르다**: 접착 세라믹(bonded ceramic crown)으로 수복 시 in vitro 연구들은 포스트 없는 접근이 파국적 파절을 오히려 줄인다고 보고하나, PFM 크라운 RCT에서는 포스트 식립군이 성공률이 높다. 즉 포스트 필요 여부는 크라운 재료(접착형 vs 시멘트형)와 독립적으로 판단할 수 없다 (Carvalho 2020, narrative review).
+> - **[2026-08-08 추가] 구치부 ETT: onlay ≈ full crown, 단 치질 보존 우위**: SR(Lane 2024, 11편)에서 구치부 ETT의 온레이(onlay) 생존율이 full veneer crown과 중단기(2~3년) 범위에서 중첩되며, 치질 삭제량 감소가 온레이의 명백한 이점이다. 단 장기(5~10년) 데이터는 crown 중심이며 비교가 어렵다.
+> - **[2026-08-08 추가] 최소~중등도 손상 ETT: 직접 레진도 viable option**: 구치부(Suksaphar 2017, 3편, n=623)에서 최대 3면 손상까지 직접 레진과 크라운 생존율 동등(94-100% vs 91.9-100%). 전치부 cervical lesion(Intaraprasong 2024, n=175, 평균 32.9개월)에서도 단순 1면 손상에 레진 96.15% vs 크라운 100%로 동등 — 다만 추가 치질 소실 시 파절 위험 7.25배(HR 7.25, 95% CI 1.68-31.30).
+> - **[2026-08-08 추가] 전치부: 크라운 > 레진, 단 선택 기준 있음**: 전향 코호트(Phengudom 2021, n=263, 평균 38개월)에서 전치부 crown(99.1%) > 직접 레진(90.4%, P<0.01). 레진에서 파절 위험인자: cervical wall <3벽(HR 8.95), 치근 두께-근관 폭 비 <1:1:1(HR 12.98), 구치부 지지 소실(HR 9.05), 이갈이(HR 19.37). 이 인자들이 없으면 레진도 크라운과 동등.
+> - **[2026-08-08 추가] 실제 개원가 3~5년 데이터**: PEARL Network 후향 코호트(Spielman 2012, n=1,298, 64개 개원 치과)에서 수복 실패율 13.9%(95% CI 12.1-15.8%). 성공 예측인자: 구치부, full-coverage 수복, 인접면 접촉 유지, 건전한 치주 상태, 전문의 근관치료. 이 데이터는 대학병원이 아닌 일반 개원가 기반이라 임상 현실 반영도 높음.
 
 ## Three-line Summary
 
@@ -67,10 +80,13 @@ Restoring an endodontically treated tooth is repeatedly mis-framed as "which pos
 
 | Step | Question | Evidence-based answer |
 |---|---|---|
-| 1 | Post needed? | Adjunct, not protagonist — 7/8 prospective studies show no independent post benefit (Naumann 2017); yes only if substantial coronal loss (Alenezi); if ferrule remains, consider endocrown (Mously; Lenz) |
+| 0 | What actually weakens the tooth? | Endodontic treatment itself: ~5% stiffness loss. MOD cavity: ~63% loss. Marginal ridge preservation is the key structural decision (Reeh 1989) |
+| 1 | Post needed? | Adjunct, not protagonist — 7/8 prospective studies show no independent post benefit (Naumann 2017); yes only if substantial coronal loss (Alenezi); if ferrule remains, consider endocrown (Mously; Lenz). Post necessity also depends on crown material: bonded ceramic = post often unnecessary; PFM = post improves success (Carvalho 2020) |
+| 1b | Coverage extent? | Minimal-moderate loss, posterior: onlay ≈ full crown survival with less tooth sacrifice (Lane 2024; Suksaphar 2017). Anterior: crown > resin composite overall (99.1% vs 90.4%, Phengudom 2021), but resin valid if ≥3 walls, normal occlusion, no parafunction |
 | 2 | Ferrule present? | Preserve circumferential ferrule — strongest modifiable predictor (Al-Dabbagh, RR 1.28; Naumann 2017). Vital > nonvital prognosis; no-post nonvital crown is worst subgroup (Hawthan 2023) |
-| 3 | Which material? | Fiber ≈ metal across the spectrum (NS; Tsintsadze, Van Landuyt), but fiber significantly better in severely damaged ≤2-wall teeth (RR 0.57, P=.04; Wang 2019) → otherwise choose by failure mode |
+| 3 | Which post material? | Fiber ≈ metal across the spectrum (NS; Tsintsadze, Van Landuyt), but fiber significantly better in severely damaged ≤2-wall teeth (RR 0.57, P=.04; Wang 2019) → otherwise choose by failure mode |
 | — | Why fiber/endocrown default | Repairable failure vs catastrophic root fracture; modulus matching (Van Landuyt; Lenz; susita FEA). Customized: zirconia ≈ cast, PEEK/PEKK debonds, FRC fails repairably (Yuen 2025) |
+| — | Real-world failure baseline | ~13.9% failure at 3-5yr in general practice (Spielman 2012, n=1,298). Success predictors: full-coverage crown, proximal contacts, periodontal health, specialist endodontics |
 
 ## Related Papers
 
@@ -93,9 +109,86 @@ Restoring an endodontically treated tooth is repeatedly mis-framed as "which pos
 - [[post-and-core/izadi-2020-core-materials-fracture-resistance-parapost]] — in-vitro fracture: FRC > ParaPost (P<0.001), core material irrelevant
 - [[post-and-core/goutam-2022-luxacore-photocore-coremax-fracture-parapost]] — near-duplicate replication of Izadi 2020 (FRC > ParaPost)
 
+### 2026-08-08 추가 cluster (7편)
+
+- [[post-and-core/reeh-1989-reduction-tooth-stiffness-result-endodontic]] — biomechanical anchor: endodontics ~5% stiffness loss, MOD cavity ~63%; marginal ridge is the key (in vitro, n=42)
+- [[post-and-core/carvalho-2020-endodontically-treated-teeth-restoration-adhesive-approach]] — adhesive approach review: post necessity depends on crown material; partial coverage viable; contradictory evidence on postless bonded ceramics
+- [[post-and-core/lane-2024-survival-success-rates-endodontically-treated]] — posterior ETT: onlay ≈ full crown survival (SR, 11 studies), tooth-structure conservation advantage
+- [[post-and-core/suksaphar-2017-survival-fracture-ett-crown-resin-sr]] — posterior ETT: direct resin ≈ crown for ≤3-surface loss (SR, 3 studies, n=623)
+- [[post-and-core/intaraprasong-2024-post-endodontic-restorations-survival-fracture-cervical-lesions]] — anterior cervical lesion ETT: resin = crown for simple lesions; additional loss → HR 7.25 (n=175, 32.9mo)
+- [[post-and-core/phengudom-2021-survival-fracture-endodontic-anterior]] — anterior ETT: crown 99.1% > resin 90.4% overall; risk factors identify resin-safe cases (n=263, 38mo)
+- [[post-and-core/spielman-2012-restorative-outcomes-endodontically-treated-teeth-pearl-network]] — PEARL Network real-world 3-5yr failure: 13.9%; full coverage + proximal contacts = success predictors (n=1,298, 64 practices)
+
 ## Related Overviews
 - [[cracked-tooth-syndrome-overview]] — fracture in structurally compromised teeth
 - [[lithium-disilicate-inlay-onlay-evidence]] — partial-coverage / ceramic restoration of compromised teeth
+
+## Evidence Update — Coronal Structure Loss Is the Dominant Risk Factor, Not Root Canal Treatment (2026-08-08)
+
+**Reeh 1989** (in vitro, n=42 intact maxillary bicuspids) is the biomechanical anchor for the entire "preserve tooth structure" argument. Sequential endodontic and restorative steps were applied and cuspal stiffness measured non-destructively after each step:
+
+| Procedure | Stiffness reduction |
+|---|---|
+| Endodontic access + instrumentation + obturation | ~5% |
+| Occlusal cavity preparation | ~20% |
+| MOD cavity preparation | ~63% |
+
+Root canal therapy by itself is biomechanically inconsequential — marginal ridge removal is the event that drives cuspal weakening. This reframes the clinical rationale for partial-coverage restorations (onlays, endocrowns): they protect the tooth by preserving the marginal ridges that endodontics did not touch. Note: built from abstract only; full-text not retrieved.
+
+[[post-and-core/reeh-1989-reduction-tooth-stiffness-result-endodontic]]
+
+---
+
+## Evidence Update — Crown vs Partial Coverage vs Direct Resin: When Is Each Appropriate? (2026-08-08)
+
+Three converging lines of evidence:
+
+**1. Adhesive restoration context (Carvalho 2020, narrative review)**: Whether a post is needed depends on the *crown material and luting strategy*, not just tooth structure. In-vitro studies using bonded ceramic crowns favor post-free approaches (fewer catastrophic fractures); RCTs using PFM crowns show higher success *with* posts (84% vs 95% at 4 years). Partial restorations (onlays, endocrowns) show comparable clinical survival to full crowns (94-100% vs 91.9-100%), consistent with Reeh 1989's biomechanical rationale. Bottom line: evaluate "post needed?" in the context of the planned crown material.
+
+[[post-and-core/carvalho-2020-endodontically-treated-teeth-restoration-adhesive-approach]]
+
+**2. Posterior ETT: onlay ≈ full crown in short-to-midterm (Lane 2024, SR, 11 studies, 2-10yr)**: Onlay survival 95-100% (2yr) / 90.7-100% (3yr); full crown 87.8-97.7% (2-10yr) — ranges overlap throughout, no meta-analysis possible. Authors favor onlays for tooth-structure conservation. Long-term (5-10yr) data is crown-dominant; the comparison weakens over time.
+
+[[post-and-core/lane-2024-survival-success-rates-endodontically-treated]]
+
+**3. Minimal-to-moderate damage: direct resin is a viable option (Suksaphar 2017, SR, 3 studies, n=623 posterior ETT)**: Crown survival 94-100% vs direct resin composite 91.9-100% — not significantly different for teeth with up to 3-surface coronal loss. Generalization is limited by confounding by indication and study heterogeneity; not a blanket equivalence claim.
+
+[[post-and-core/suksaphar-2017-survival-fracture-ett-crown-resin-sr]]
+
+---
+
+## Evidence Update — Anterior ETT and Cervical Lesions: Risk Stratification for Restoration Choice (2026-08-08)
+
+**Phengudom 2021** (retrospective cohort, n=263 anterior ETT, mean 38 months; Mahidol University):
+- Crown: 99.1% survival vs direct resin: 90.4% (P<0.01)
+- Fracture risk factors for resin composite: <3 cervical walls (HR 8.95; 95% CI 1.43–56.01), root dentin thickness-to-canal width <1:1:1 (HR 12.98; 95% CI 1.55–108.73), loss of posterior support (HR 9.05; 95% CI 1.68–48.77), parafunction (HR 19.37; 95% CI 2.25–166.71)
+- When none of these risk factors are present → direct resin survival equivalent to crown
+- Palatal cervical wall in maxillary anteriors is a protective factor
+
+**Intaraprasong 2024** (retrospective cohort, n=175 anterior ETT with cervical lesions and pulpal involvement; mean 32.9 months):
+- Resin composite (n=125) vs crown (n=50): no significant survival difference (85.6% vs 88%, P=0.361)
+- For single-surface cervical lesions: resin 96.15% vs crown 100% (equivalent)
+- Additional tooth structure loss (class III/IV or contralateral class V): HR 7.25 (95% CI 1.68–31.30, P=0.008)
+- Clinical implication: direct resin is appropriate for simple cervical lesions; extra caution when additional coronal loss is present
+
+[[post-and-core/phengudom-2021-survival-fracture-endodontic-anterior]]
+[[post-and-core/intaraprasong-2024-post-endodontic-restorations-survival-fracture-cervical-lesions]]
+
+---
+
+## Evidence Update — General Practice Outcomes: Real-World 3-5 Year Failure Rate (2026-08-08)
+
+**Spielman 2012** (PEARL Network, retrospective cohort, n=1,298 patients, 64 general dental practices, 3-5yr follow-up):
+- Overall restorative failure rate: **13.9%** (181/1,298; 95% CI 12.1-15.8%)
+  - Replacement needed: 6.2%; replaced: 4.4%; crack/fracture: 3.4%
+- Multivariate predictors of **success**: molars, full-coverage crown, presence of proximal contacts, good periodontal health, specialist-performed endodontics, older patient age, non-Hispanic ethnicity
+- This is private-practice (not academic center) data — the failure rate is likely more representative of real-world outcomes than university-based studies
+
+Clinical implication: ~1 in 7 ETT restorations fails within 3-5 years in general practice settings; full-coverage restorations and preserved proximal contacts are the modifiable predictors. Aligns with Naumann 2017's emphasis on cavity-wall preservation and Spielman's finding that full-crown coverage independently predicts success.
+
+[[post-and-core/spielman-2012-restorative-outcomes-endodontically-treated-teeth-pearl-network]]
+
+---
 
 ## Evidence Update — Parapost Microleakage: Sealer Choice vs Time-Dependent Interface Degradation
 
