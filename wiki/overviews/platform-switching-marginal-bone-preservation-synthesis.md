@@ -6,6 +6,7 @@ date: 2026-08-09
 category: [overviews]
 tags: [platform-switching, marginal-bone-loss, crestal-bone, biologic-width, implant-abutment-junction, peri-implant, FEA, overview]
 source_papers:
+  - implants/mbl/lazzara-2006-platform-switching-new-concept
   - implants/mbl/salimi-2011-platform-switching-current-results
   - implants/mbl/desai-2013-platform-switching-bone-loss-review
   - implants/mbl/enkling-2013-platform-switching-bone-level-3year-rct
@@ -24,34 +25,34 @@ relations:
 ## 한국어 핵심요약
 
 > [!summary] 한국어 핵심요약
-> - 핵심 명제: 플랫폼 스위칭(Platform Switching, PLS — 임플란트보다 좁은 지대주를 얹는 방식)은 변연골 소실(Marginal Bone Loss, MBL)을 **일관되게, 반복적으로** 줄인다 — SR+MA 3편·RCT 3편·서술리뷰 2편, 8편 전부 같은 방향.
+> - 핵심 명제: 플랫폼 스위칭(Platform Switching, PLS — 임플란트보다 좁은 지대주를 얹는 방식)은 변연골 소실(Marginal Bone Loss, MBL)을 **일관되게, 반복적으로** 줄인다 — SR+MA 3편·RCT 3편·서술리뷰 3편(origin 논문 포함), 9편 전부 같은 방향.
 > - **기전 (Desai 2013, Salimi 2011)**: 임플란트-지대주 접합부(IAJ)의 염증성 결합조직대(microgap)를 치조정에서 내측·치관측으로 이동시켜 생물학적 폭경(biologic width) 재형성 자극을 감소; 유한요소분석(FEA)에서는 응력 정점이 골-임플란트 계면에서 나사 중심부로 이동.
 > - **크기(magnitude)는 연구마다 다르나 방향은 만장일치**: Strietzel 2015(SR+MA, 22편)는 PS 0.49mm vs PM 1.01mm(가중평균차 약 0.5mm); Di Girolamo 2016(SR+MA, 15 RCT/1,439개)은 "PS가 더 나쁜 결과를 보인 연구 0편"; Juan-Montesinos 2022(SR+MA, 9편/937개)는 MD 0.255mm(p<0.05); RCT 3편(Enkling 2013 3년·Rocha 2016 3년 0.28 vs 0.68mm·Messias 2019 5년 0.23mm 차이)도 전부 유의하게 PS 우위.
 > - **생존율은 무차이**: 모든 연구가 PS와 PM 간 임플란트 생존율에 유의차 없음을 일관되게 보고 — PS의 이득은 골 보존이지 생존 자체가 아니다.
 > - **탐침깊이(probing depth)는 PS에서 소폭 증가 경향**: Juan-Montesinos 2022에서 MD 0.082mm(비유의)이나 sensitivity 분석(1편 제외)에서 유의(0.190mm)로 전환 — 골 보존 이득이 약간의 탐침깊이 증가를 동반할 수 있음, 방향은 아직 완전히 확정적이지 않음.
-> - **역사적 흐름**: Salimi 2011·Desai 2013(서술리뷰, 기전 제안 단계) → Enkling 2013·Rocha 2016(개별 RCT로 검증) → Strietzel 2015·Di Girolamo 2016(첫 SR+MA로 정량 확정) → Messias 2019(5년 장기 확증) → Juan-Montesinos 2022(최신 SR+MA로 재확인). 15년에 걸쳐 가설→검증→정량화→장기확증의 교과서적 근거 축적 경로.
+> - **역사적 흐름**: **플랫폼 스위칭은 애초부터 설계된 기법이 아니었다** — Lazzara & Porter 2006이 origin point: 1991년 광경 임플란트 출시 당시 매칭 지대주 재고 부족으로 우연히 협경 지대주가 얹힌 케이스들에서 골소실이 더 적다는 사후 방사선 관찰이 출발점(우연한 발견 → 사후 명명·가설화). Salimi 2011·Desai 2013(서술리뷰, 기전 정교화 단계) → Enkling 2013·Rocha 2016(개별 RCT로 검증) → Strietzel 2015·Di Girolamo 2016(첫 SR+MA로 정량 확정) → Messias 2019(5년 장기 확증) → Juan-Montesinos 2022(최신 SR+MA로 재확인). 20년에 걸쳐 우연한 관찰→명명→기전화→검증→정량화→장기확증의 흐름.
 > - **임상 적용**: 심미구역·협착 치조제(<3mm)·짧은 임플란트·골높이 제한 상황에서 PS 우선 고려(Salimi 2011의 적응증 제안이 이후 문헌으로 뒷받침됨). 즉시부하와의 조합 근거는 초기(2011)엔 불충분했으나 이후 문헌은 아직 이 위키에 별도 종합되지 않음 — gap.
 > - **근거 한계**: 절대적 MBL 감소치(0.2~0.5mm)는 통계적으로 유의하나 임상적으로 작다 — Albrektsson 성공기준(1년 <1.5mm) 안에서의 미세조정에 가깝다. 이질성(heterogeneity)이 SR+MA마다 보고방식이 달라 직접 비교가 어렵다.
 
 ## Three-line Summary
 
-Synthesis of 8 papers on platform switching (PLS) and marginal bone loss (MBL): three SR+MA (Strietzel 2015, 22 studies: PS 0.49mm vs PM 1.01mm weighted mean; Di Girolamo 2016, 15 RCTs/1,439 implants: zero studies favored PM; Juan-Montesinos 2022, 9 studies/937 implants: MD 0.255mm, p<0.05) and three RCTs (Enkling 2013, 3yr; Rocha 2016, 3yr, PS 0.28 vs PM 0.68mm, p=0.002; Messias 2019, 5yr equivalence trial, PS 0.23mm lower, p=0.025) converge unanimously: PLS reduces MBL, with no significant difference in implant survival.
+Synthesis of 9 papers on platform switching (PLS) and marginal bone loss (MBL), including the 2006 origin paper that coined the term: three SR+MA (Strietzel 2015, 22 studies: PS 0.49mm vs PM 1.01mm weighted mean; Di Girolamo 2016, 15 RCTs/1,439 implants: zero studies favored PM; Juan-Montesinos 2022, 9 studies/937 implants: MD 0.255mm, p<0.05) and three RCTs (Enkling 2013, 3yr; Rocha 2016, 3yr, PS 0.28 vs PM 0.68mm, p=0.002; Messias 2019, 5yr equivalence trial, PS 0.23mm lower, p=0.025) converge unanimously: PLS reduces MBL, with no significant difference in implant survival.
 
 The mechanism (Desai 2013, Salimi 2011, both narrative/FEA-based) is a coronal-and-inward shift of the implant-abutment junction's inflammatory microgap away from crestal bone, redistributing biomechanical stress from the bone-implant interface toward the abutment screw center.
 
-The evidence accumulated textbook-style over 15 years — mechanism proposed (2011-2013) → individual RCTs (2013, 2016) → first meta-analyses (2015-2016) → long-term equivalence trial (2019) → confirmatory meta-analysis (2022) — with one soft caveat: probing depth showed a small, borderline-significant increase with PLS in the most recent meta-analysis, suggesting the bone-preservation benefit may not be entirely free.
+Platform switching was not designed from the outset for bone preservation — it originated as an accidental clinical observation (Lazzara & Porter 2006): a 1991 prosthetic-component inventory gap forced many wide-diameter implants to be restored with narrower "standard" abutments, and retrospective radiographic follow-up of these unintentionally platform-switched cases showed less-than-expected crestal bone loss. The evidence accumulated textbook-style over the following two decades — accidental observation and naming (2006) → mechanism proposed (2011-2013) → individual RCTs (2013, 2016) → first meta-analyses (2015-2016) → long-term equivalence trial (2019) → confirmatory meta-analysis (2022) — with one soft caveat: probing depth showed a small, borderline-significant increase with PLS in the most recent meta-analysis, suggesting the bone-preservation benefit may not be entirely free.
 
 ## 세줄요약
 
-플랫폼 스위칭(Platform Switching, PLS)과 변연골 소실(MBL) 관련 8편 종합 — SR+MA 3편(Strietzel 2015, 22편: PS 0.49mm vs PM 1.01mm; Di Girolamo 2016, 15 RCT/1,439개: PM이 더 나은 연구 0편; Juan-Montesinos 2022, 9편/937개: MD 0.255mm, p<0.05)과 RCT 3편(Enkling 2013 3년; Rocha 2016 3년, PS 0.28 vs PM 0.68mm, p=0.002; Messias 2019 5년 동등성시험, PS 0.23mm 적음, p=0.025)이 만장일치로 수렴: PLS는 MBL을 줄이며, 임플란트 생존율은 유의차 없음.
+플랫폼 스위칭(Platform Switching, PLS)과 변연골 소실(MBL) 관련 9편 종합(용어를 최초 명명한 2006년 origin 논문 포함) — SR+MA 3편(Strietzel 2015, 22편: PS 0.49mm vs PM 1.01mm; Di Girolamo 2016, 15 RCT/1,439개: PM이 더 나은 연구 0편; Juan-Montesinos 2022, 9편/937개: MD 0.255mm, p<0.05)과 RCT 3편(Enkling 2013 3년; Rocha 2016 3년, PS 0.28 vs PM 0.68mm, p=0.002; Messias 2019 5년 동등성시험, PS 0.23mm 적음, p=0.025)이 만장일치로 수렴: PLS는 MBL을 줄이며, 임플란트 생존율은 유의차 없음.
 
 기전(Desai 2013, Salimi 2011, 서술리뷰·FEA 기반)은 임플란트-지대주 접합부의 염증성 미세간극을 치조정에서 치관측·내측으로 이동시켜 생역학적 응력을 골-임플란트 계면에서 지대주 나사 중심부로 재분산시키는 것.
 
-근거는 15년에 걸쳐 교과서적으로 축적됐다 — 기전 제안(2011-2013) → 개별 RCT(2013·2016) → 첫 메타분석(2015-2016) → 장기 동등성시험(2019) → 재확증 메타분석(2022) — 단, 최신 메타분석에서 탐침깊이가 PLS에서 소폭·경계적 유의 증가를 보여 골보존 이득이 완전히 "공짜"는 아닐 수 있음을 시사.
+플랫폼 스위칭은 처음부터 골보존을 노리고 설계된 기법이 아니었다 — 1991년 부품 재고 부족으로 우연히 협경 지대주가 얹힌 케이스들의 사후 방사선 관찰(Lazzara & Porter 2006)에서 출발한 우연한 발견이다. 근거는 이후 20년에 걸쳐 교과서적으로 축적됐다 — 우연한 관찰·명명(2006) → 기전 제안(2011-2013) → 개별 RCT(2013·2016) → 첫 메타분석(2015-2016) → 장기 동등성시험(2019) → 재확증 메타분석(2022) — 단, 최신 메타분석에서 탐침깊이가 PLS에서 소폭·경계적 유의 증가를 보여 골보존 이득이 완전히 "공짜"는 아닐 수 있음을 시사.
 
 ## Thesis
 
-Platform switching is one of the few implant design questions in this wiki where the evidence base is genuinely convergent rather than contested. Eight papers spanning 2011–2022, three meta-analyses, and three independent RCTs with follow-up out to 5 years all point the same direction: placing a narrower abutment on a wider implant platform (PLS) reduces marginal bone loss relative to platform-matched (PM) restorations, without a survival penalty.
+Platform switching is one of the few implant design questions in this wiki where the evidence base is genuinely convergent rather than contested. Nine papers spanning 2006–2022, three meta-analyses, and three independent RCTs with follow-up out to 5 years all point the same direction: placing a narrower abutment on a wider implant platform (PLS) reduces marginal bone loss relative to platform-matched (PM) restorations, without a survival penalty.
 
 **The mechanism is two-layered.** Biologically, the implant-abutment junction (IAJ) — where the peri-implant inflammatory infiltrate concentrates — is shifted inward and coronally, away from the crestal bone that would otherwise remodel to re-establish biologic width around it (Desai 2013, Salimi 2011). Biomechanically, finite-element analyses cited in both narrative reviews show PLS shifts the peak stress concentration from the bone-implant interface toward the center of the implant-abutment screw complex, reducing the bending load transmitted to crestal bone. Neither mechanism has been directly confirmed with histology in the papers this wiki holds — both are inferred from FEA and radiographic correlation — but the two independent lines of reasoning are consistent with each other and with the clinical numbers below.
 
@@ -59,7 +60,7 @@ Platform switching is one of the few implant design questions in this wiki where
 
 **One emerging caveat tempers the otherwise unanimous picture.** Juan-Montesinos 2022 — the newest SR+MA — found probing depth increased slightly more with PLS (MD 0.082 mm, not significant overall, but reaching significance at MD 0.190 mm in a one-study-removed sensitivity analysis). This is the first hint in this evidence base that PLS's bone-preservation benefit might not be entirely without a soft-tissue trade-off. It is not yet a settled finding — a single meta-analysis, borderline in the primary analysis — but it is worth flagging as the one loose thread in an otherwise convergent literature.
 
-**Historical arc.** The evidence accumulated in a textbook sequence rare enough to be worth naming explicitly: mechanism proposed on narrative/FEA grounds (Salimi 2011, Desai 2013) → individually tested in RCTs (Enkling 2013, Rocha 2016) → quantitatively confirmed by the first meta-analyses (Strietzel 2015, Di Girolamo 2016) → confirmed at long-term follow-up by an equivalence trial (Messias 2019) → reconfirmed by a newer, better-designed meta-analysis (Juan-Montesinos 2022). Each stage tested and did not overturn the prior stage's conclusion — a genuine convergence, not merely a repeated claim.
+**Historical arc.** Platform switching was not conceived from the start as a bone-preservation technique — it was discovered by accident. Lazzara & Porter 2006, the origin paper for this entire cluster, describes how a 1991 prosthetic-component inventory gap at Implant Innovations forced many early wide-diameter (5.0/6.0 mm) implants to be restored with "standard" (4.1 mm) healing abutments and prosthetic components purely because matching-diameter parts were not yet available. Retrospective radiographic follow-up of these unintentionally platform-switched cases showed smaller-than-expected crestal bone loss compared to conventionally matched-diameter restorations — the observation that gave the technique its name and its first mechanistic hypothesis (IAJ repositioned inward and away from crestal bone). Everything downstream of that accidental finding is a textbook sequence rare enough to be worth naming explicitly: naming and hypothesis (Lazzara & Porter 2006) → mechanism elaborated on narrative/FEA grounds (Salimi 2011, Desai 2013) → individually tested in RCTs (Enkling 2013, Rocha 2016) → quantitatively confirmed by the first meta-analyses (Strietzel 2015, Di Girolamo 2016) → confirmed at long-term follow-up by an equivalence trial (Messias 2019) → reconfirmed by a newer, better-designed meta-analysis (Juan-Montesinos 2022). Each stage tested and did not overturn the prior stage's conclusion — a genuine convergence, not merely a repeated claim, but one that started as a byproduct of supply-chain constraints rather than deliberate design.
 
 **Bottom line:** platform switching is a well-evidenced, low-risk technique choice for marginal bone preservation, with the strongest indications being esthetic-zone implants, narrow ridges (<3 mm), limited bone height, and short implants (Salimi 2011's original indication list, not contradicted by later literature). The absolute magnitude of benefit (0.2–0.5 mm) is statistically robust but clinically modest — within Albrektsson's <1.5 mm/year-1 success threshold either way — so PLS should be framed as an incremental bone-preservation refinement, not a decision that changes whether an implant succeeds.
 
@@ -75,6 +76,7 @@ Platform switching is one of the few implant design questions in this wiki where
 | [[implants/mbl/enkling-2013-platform-switching-bone-level-3year-rct]] | rct (3yr, multicenter) | — | Significantly less bone loss, maintained to 36mo | — | Survival NS |
 | [[implants/mbl/desai-2013-platform-switching-bone-loss-review]] | narrative-review | — | Mechanistic framework: IAJ microgap shift + FEA stress redistribution | — | No original data |
 | [[implants/mbl/salimi-2011-platform-switching-current-results]] | narrative-review | — | Compiled range 0.05–1.4 mm vs ~1.67 mm PM; indications: esthetic zone, narrow ridge <3mm, short implants | — | No original data (foundational, 2011) |
+| [[implants/mbl/lazzara-2006-platform-switching-new-concept]] | narrative-review (retrospective radiographic observation) | — | Accidental narrow-abutment cases (1991 inventory gap) showed less-than-expected crestal bone loss; coined "platform switching" | — | No original quantitative data reported in abstract (origin paper, 2006) |
 
 ## Clinical Decision Points
 
@@ -93,6 +95,7 @@ Platform switching is one of the few implant design questions in this wiki where
 
 ## Related Papers
 
+- [[implants/mbl/lazzara-2006-platform-switching-new-concept]] — true origin paper (2006): "platform switching" coined after accidental narrow-abutment restorations (1991 component inventory gap) showed less-than-expected crestal bone loss; abstract-only ingest, no PDF/PMC full text available
 - [[implants/mbl/salimi-2011-platform-switching-current-results]] — foundational 2011 narrative review: mechanism (IAJ microgap shift + FEA stress redistribution), compiled early clinical range (0.05–1.4mm PS vs ~1.67mm PM), indication list (esthetic zone, narrow ridge, short implants)
 - [[implants/mbl/desai-2013-platform-switching-bone-loss-review]] — narrative short communication: same mechanistic framework, no original data
 - [[implants/mbl/enkling-2013-platform-switching-bone-level-3year-rct]] — multicenter 3-year RCT: PS significantly less bone loss, maintained throughout follow-up, survival NS
