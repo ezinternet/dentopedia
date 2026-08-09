@@ -5,7 +5,7 @@ year: 2026
 date: 2026-06-04
 type: overview
 category: [overviews]
-tags: [suture, wound-closure, primary-closure, secondary-closure, sutureless, third-molar, tension-free-closure, flap-advancement, periosteal-releasing-incision, GBR, titanium-mesh, cyanoacrylate, tissue-adhesive, suture-pattern, biomechanics, free-gingival-graft, sling-suture, mandible, mental-nerve, facial-artery, diode-laser, double-flap-incision]
+tags: [suture, wound-closure, primary-closure, secondary-closure, sutureless, third-molar, tension-free-closure, flap-advancement, periosteal-releasing-incision, GBR, titanium-mesh, cyanoacrylate, tissue-adhesive, suture-pattern, biomechanics, free-gingival-graft, sling-suture, mandible, mental-nerve, facial-artery, diode-laser, double-flap-incision, palatal-releasing-incision, amnion-chorion-membrane, donor-site-healing]
 source_papers:
 evidence_level: synthesis
 source: synthesis
@@ -37,7 +37,7 @@ relations:
 
 ## Three-line Summary
 
-Synthesis of 23 papers (10 RCTs, 1 SR, 2 prospective, 2 case-report, 5 in-vitro, 1 retrospective, 1 animal, 1 narrative-review) on suture and wound-closure decisions stratified by a single upstream variable — wound tension — which bifurcates into two clinical contexts with opposite optimization goals.
+Synthesis of 25 papers (11 RCTs, 1 SR, 2 prospective, 3 case-report, 5 in-vitro, 1 retrospective, 1 animal, 1 narrative-review) on suture and wound-closure decisions stratified by a single upstream variable — wound tension — which bifurcates into two clinical contexts with opposite optimization goals.
 
 In low-tension extraction sockets, technique is outcome-agnostic: sutureless is safe (Takadoum 2022 multicentric n=94, complete equivalence; Kumar/Sen: less trismus/swelling), smokers carry 3.65× complication risk regardless of closure method, and suture pattern matters more than suture-vs-no-suture for adjacent tooth periodontal outcomes (sling better than single interrupted, PPD p=0.041, Aghdashi 2020).
 
@@ -45,7 +45,7 @@ In high-tension GBR/augmentation sites, closure engineering determines regenerat
 
 ## 세줄요약
 
-23편 종합(RCT 10, SR 1, 전향적 2, case-report 2, in-vitro 5, 후향적 1, animal 1, narrative-review 1) — 봉합·창상폐쇄 결정은 단일 상류 변수인 창상 장력(wound tension)에 의해 정반대 최적화 목표를 가진 두 맥락으로 분기한다.
+25편 종합(RCT 11, SR 1, 전향적 2, case-report 3, in-vitro 5, 후향적 1, animal 1, narrative-review 1) — 봉합·창상폐쇄 결정은 단일 상류 변수인 창상 장력(wound tension)에 의해 정반대 최적화 목표를 가진 두 맥락으로 분기한다.
 
 저장력 발치와: 봉합 유무는 결과에 무관 — 무봉합(sutureless)은 안전하며 초기 이환도 동등 이상(Takadoum 2022 완전 동등, Kumar/Sen trismus·부종 감소); 흡연자는 폐쇄 방식과 무관하게 합병증 3.65배↑; 봉합 시 패턴 선택(sling > single interrupted, PPD p=0.041, Aghdashi 2020)이 봉합 유무보다 인접치 치주에 영향.
 
@@ -55,7 +55,7 @@ In high-tension GBR/augmentation sites, closure engineering determines regenerat
 
 ## Summary
 
-이 overview는 `wiki/suture-wound-closure/`의 23편을 횡단 합성한다. 근거 등급은 **RCT 10편**(aghdashi 2020, kumar 2022, pachipulusu 2018, sen 2024, takadoum 2022, attia 2023, shakiliyeva 2025, ogata 2013, shahnaz 2017, bahaa 2022) · **SR 1편**(plonka 2017) · **prospective 2편**(moslemi 2016, shakibaie 2023) · **case-report 2편**(wang 2024, stankovic 2018) · **in-vitro 5편**(knoell 2011, look 2022, marsidi 2020, pabst 2024, iwanaga 2019) · **후향적 1편**(kim 2015) · **animal 1편**(raabe 2025, ex-vivo porcine) · **narrative-review 1편**(hur 2025, abstract-only rationale)으로 구성된다. 이 카테고리에는 SR+MA가 아직 없다 — 따라서 최강 결론도 "일관된 다수 RCT" 수준에 머문다. [확인 — 등급 분포는 리포지토리 계측]
+이 overview는 `wiki/suture-wound-closure/`의 25편을 횡단 합성한다. 근거 등급은 **RCT 11편**(aghdashi 2020, kumar 2022, pachipulusu 2018, sen 2024, takadoum 2022, attia 2023, shakiliyeva 2025, ogata 2013, shahnaz 2017, bahaa 2022, lee 2026) · **SR 1편**(plonka 2017) · **prospective 2편**(moslemi 2016, shakibaie 2023) · **case-report 3편**(wang 2024, stankovic 2018, kim 2017) · **in-vitro 5편**(knoell 2011, look 2022, marsidi 2020, pabst 2024, iwanaga 2019) · **후향적 1편**(kim 2015) · **animal 1편**(raabe 2025, ex-vivo porcine) · **narrative-review 1편**(hur 2025, abstract-only rationale)으로 구성된다. 이 카테고리에는 SR+MA가 아직 없다 — 따라서 최강 결론도 "일관된 다수 RCT" 수준에 머문다. [확인 — 등급 분포는 리포지토리 계측]
 
 핵심 thesis: **봉합 술식 선택은 단일 스펙트럼이 아니라, 정반대 최적화 목표를 가진 두 임상 맥락으로 분기한다.**
 
@@ -130,8 +130,9 @@ In high-tension GBR/augmentation sites, closure engineering determines regenerat
 | **retrospective** | [[suture-wound-closure/kim-2015-clinical-study-flap-advancement-without-vertical]] | 34명/40부위 | 수직절개 생략 + 광범위PRI + 선택적 안면근이완 | 전부위 ≥7mm 전진·무장력폐쇄; 지연Ti-mesh노출 2/40(임시가철성보철 착용자, 보철중단 후 자연폐쇄) | 6개월 장기통증·감각이상·감염 0례 |
 | **case-report** | [[suture-wound-closure/wang-2024-poncho-technique-titanium-mesh-bone-regeneration]] | 23 sites/5명 | 변형 Poncho(다층 이중봉합) | 무사치유 95.7%(1/23 부분열개); Landry 치유지수 3→4.69 | 30일 추적 |
 | **prospective** | [[suture-wound-closure/shakibaie-2023-roll-in-envelope-flap-holding-suture]] | 10 | Roll-in envelope vs holding suture | RIE가 임플란트 주위 점막 두께 약 3배 | — |
+| **case-series** | [[suture-wound-closure/kim-2017-palatal-releasing-incision-soft-tissue-closure]] | 4 (상악) | 구개측 이완절개 (구개 감장 절개술) | 협측 골막이완 완전 생략, 전례 무장력 일차폐쇄, 부종·혈종·통증 최소 | 정성적 평가만 |
 
-**합성 결론** [확인 — RCT 4편 + 보조 case series/후향적]: 고장력 부위에서 **무장력 폐쇄 ≠ 옵션, 곧 재생 성패**. 성능 순위는 **CALF > DFI ≈ MPRI > 단순PRI**(bahaa 4군 RCT, 하악 부분무치악 대상이라 직접 관련성 높음) — 단순PRI는 골증대 면에서 4기법 중 가장 약하다. DFI 단독비교(ogata)도 PRI보다 전진량·이환도 모두 우수. 설측 노출 위험엔 CALF(attia), 수직절개 자체를 피하려면 광범위PRI+안면근이완(kim)도 대안이나 임시보철 압박에 취약. 기구 측면에선 다이오드레이저가 메스보다 이환도 낮음(shahnaz RCT, moslemi 사례군) — 단 하악구치부 특이 데이터는 아님(모슬레미 전상악, 샤나즈 부위비명시). mesh 위 안정성은 다층봉합(wang Poncho)으로 보강.
+**합성 결론** [확인 — RCT 4편 + 보조 case series/후향적]: 고장력 부위에서 **무장력 폐쇄 ≠ 옵션, 곧 재생 성패**. 성능 순위는 **CALF > DFI ≈ MPRI > 단순PRI**(bahaa 4군 RCT, 하악 부분무치악 대상이라 직접 관련성 높음) — 단순PRI는 골증대 면에서 4기법 중 가장 약하다. DFI 단독비교(ogata)도 PRI보다 전진량·이환도 모두 우수. 설측 노출 위험엔 CALF(attia), 수직절개 자체를 피하려면 광범위PRI+안면근이완(kim 2015)도 대안이나 임시보철 압박에 취약. 협측 절개 자체를 피하는 또 다른 접근은 **구개측**에서 이완하는 것 — 치조제 분할·소량 GBR에 국한된 상악 증례 4건(case-series, kim 2017)이지만 협측 골막이완을 완전히 생략해 부종·혈종·통증이 최소였다는 방향은 일관된다; 단 하악·구개점막이 얇은 경우 적용 불가로 §2.3의 CALF/DFI/PRI 비교와 적응증이 겹치지 않는 별도 옵션으로 취급해야 한다. 기구 측면에선 다이오드레이저가 메스보다 이환도 낮음(shahnaz RCT, moslemi 사례군) — 단 하악구치부 특이 데이터는 아님(모슬레미 전상악, 샤나즈 부위비명시). mesh 위 안정성은 다층봉합(wang Poncho)으로 보강.
 
 ### 2.4 절개 "기법"보다 봉합이 좌우하는 것 — 이식재 안정성
 
@@ -166,8 +167,9 @@ In high-tension GBR/augmentation sites, closure engineering determines regenerat
 | Confidence | 출처 | n | 결론 |
 |---|---|---|---|
 | **rct** | [[suture-wound-closure/shakiliyeva-2025-conventional-modified-sling-suture-free-gingival-graft]] | 52 | **변형 sling 봉합은 이식편 수축 이득 없음**; gingival unit transfer(GUT)가 봉합법과 무관하게 수축 적음(p<0.05); GUT+일반봉합이 각화조직폭 증가 최대 |
+| **rct** (pilot, split-mouth) | [[suture-wound-closure/lee-2026-clinical-and-histological-outcomes]] | 19명/38부위 | **공여부(donor site) 드레싱**: 동종 양막-융모막(ACM) vs 콜라겐 드레싱(CLD) — 창상면적·상피화·통증·조직학(상피두께·염증세포·콜라겐밀도) **전 지표 무차이** | 60일 추적, 전부 NS |
 
-**합성 결론** [확인]: 유리치은이식에서 결과를 가르는 건 봉합 기교가 아니라 **이식편 채취·디자인(GUT)**. 1.2의 aghdashi(sling 우월)와 묶으면 일관된 메타-교훈이 도출된다 — **봉합 패턴은 "안정화 도구"일 뿐, 결과의 1차 결정자는 그 위/아래의 조직·창상 조건**이다.
+**합성 결론** [확인]: 유리치은이식에서 결과를 가르는 건 봉합 기교가 아니라 **이식편 채취·디자인(GUT)**. 1.2의 aghdashi(sling 우월)와 묶으면 일관된 메타-교훈이 도출된다 — **봉합 패턴은 "안정화 도구"일 뿐, 결과의 1차 결정자는 그 위/아래의 조직·창상 조건**이다. 이 결론은 수여부(recipient site)·이식편 자체에 관한 것이고, **공여부(donor site) 드레싱 선택은 별개 축**이다 — lee 2026(pilot split-mouth RCT)은 구개 공여부에서 생물학적 드레싱(ACM)이 표준 콜라겐 드레싱보다 우월하지 않음을(임상·조직학 전 지표 무차이) 보여, "더 비싼/생물학적 재료가 항상 낫다"는 가정에 대한 반증 사례로 기능한다 — 단 파일럿(n=19) 표본은 소소~중등도 차이 검출력이 제한적이다.
 
 ---
 
@@ -189,6 +191,7 @@ In high-tension GBR/augmentation sites, closure engineering determines regenerat
     │      안면동맥 분지(ILA, 평균2.72mm) 위험구역, 골막 하방 비침범 (iwanaga 2019)
     │      대량전진 시 이신경 위치 우선 확인 권장 (hur 2025 MPRI rationale, outcome데이터 없음)
     ├─ 기법 성능: CALF > DFI ≈ MPRI > 단순PRI (bahaa 2022 하악 4군 RCT, 골증대 기준)
+    ├─ 상악 소량 GBR·치조제분할이면 협측 절개 자체를 피하는 구개측 이완절개도 대안 (kim 2017, case-series n=4 — 하악·얇은 구개점막 부적용)
     ├─ 설측 mesh 노출 위험 → 설측 관상전진피판 CALF (attia, 노출 0%)
     ├─ 이식재 안정성 = 절개기법이 아니라 골막매트리스봉합(PS) 여부가 결정 (raabe 2025)
     ├─ 패턴: pulley(견인) + lattice(분산); horizontal mattress 회피
@@ -237,6 +240,8 @@ In high-tension GBR/augmentation sites, closure engineering determines regenerat
 - [[suture-wound-closure/look-2022-novel-superficial-suture-pattern-tensile-strength]] — Lindeque locking 파단하중 최고
 - [[suture-wound-closure/pabst-2024-cyanoacrylate-tissue-adhesive-coronally-advanced-flap]] — cyanoacrylate 면접착 + 봉합 병용 8.50 N
 - [[suture-wound-closure/shakiliyeva-2025-conventional-modified-sling-suture-free-gingival-graft]] — FGG: 채취술식(GUT)>봉합패턴
+- [[suture-wound-closure/kim-2017-palatal-releasing-incision-soft-tissue-closure]] — 구개측 이완절개로 협측 골막이완 완전 생략 (case-series n=4)
+- [[suture-wound-closure/lee-2026-clinical-and-histological-outcomes]] — FGG 공여부 드레싱: ACM vs 콜라겐 무차이 (pilot split-mouth RCT n=19)
 
 ### Cross-category links
 - [[overviews/gbr-barrier-membrane-exposure-axis]] — 노출=중심 실패모드 (이 overview의 §2와 직접 연동)
