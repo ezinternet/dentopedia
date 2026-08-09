@@ -2912,6 +2912,7 @@ tags: []
 - [[suture-wound-closure/bahaa-2022-evaluation-bone-gain-horizontal-ridge]] — Bahaa 2022 · rct · 4군 RCT(n=40)로 PRI·DFI·MPRI·CALF 골증대 직접비교 — CALF 최고(4.12mm)·PRI 최저(2.60mm), P<0.001 (abstract-only)
 - [[suture-wound-closure/iwanaga-2019-releasing-incisions-buccal-periosteum-adjacent]] — Iwanaga 2019 · in-vitro · 사체연구(n=7): 하악 골막이완절개 시 안면동맥 분지가 제1·2대구치 부위에서 골막에 최근접(평균직경 2.72mm) — 골막 하방 침범 금지가 안전핵심 (abstract-only)
 - [[suture-wound-closure/stankovic-2018-use-acellular-collagen-matrix-closure]] — Stankovic 2018 · case-report · GBR 창상을 콜라겐매트릭스(Mucograft)로 덮어 골막이완절개 자체를 생략하는 기법 제안 (abstract-only, 정량결과 없음)
+- [[suture-wound-closure/jeevitha-2025-tissue-adhesives-vs-sutures-periodontal-flap-sr-ma]] — Jeevitha 2025 · sr+ma (PMC full text) · 치주판막수술 조직접착제 vs 봉합 SR+MA(RCT 10편/255명) — 통합 창상치유지수 유의차 없음(SMD −0.50, p=0.29, I²=94%)이나 통증·심미성은 접착제가 일관 우세; 카테고리 최초 SR+MA
 
 ## 임플란트 — 수직 골증대술 (Implants: Vertical Ridge Augmentation)
 - [[implants/vertical-ridge-augmentation/alshikh-2026-titanium-mesh-peek-mesh-horizontal-ridge-rct]] — Alshikh 2026 · rct · 수평골증대(14명/28부위) prebent Ti vs 맞춤 PEEK 메시: 선형증대 동등, PEEK 골량·흡수량↑(비율흡수 ~동일)
