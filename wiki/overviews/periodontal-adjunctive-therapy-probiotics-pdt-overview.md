@@ -291,6 +291,14 @@ See [[periodontics/oral-hygiene-instruction/sooampon-2026-dc-red-33-erythrosine-
 
 See [[periodontics/oral-hygiene-instruction/zini-2026-electric-vs-manual-toothbrush-children-plaque-rct]].
 
+### Probiotic Mechanism Candidate — Fernandez-Gutierrez 2017
+
+A high-throughput in-vitro scratch-assay screen of 39 lactic acid bacteria on gingival epithelial cells (Ca9-22 line) found *Streptococcus salivarius* MS-oral-D6 the strongest stimulator of re-epithelialization (~2.5-fold vs untreated), traced to a secreted >180 kDa serine protease — not the lactic/acetic acid fermentation byproducts usually invoked for probiotic effects. *P. gingivalis* W83 significantly suppressed re-epithelialization in the same assay, serving as a negative-control benchmark.
+
+**Relevance to this overview**: this is a candidate *mechanism* paper, not a clinical trial — it offers a plausible cellular-level explanation for why probiotic adjuncts (§Probiotics as NSPT Adjunct) might accelerate soft-tissue healing after non-surgical instrumentation, but the strain (*S. salivarius* MS-oral-D6) is different from the strains used in Kim 2026 (Lactobacillus PB01 + Enterococcus EB10) and Jeon 2026 (OraCMU) — the mechanism is a hypothesis for the class of intervention, not a confirmed explanation for either clinical RCT's specific result. Entirely in-vitro; no animal or human confirmation of the purified protein's effect exists yet.
+
+See [[periodontics/host-modulation/fernandez-gutierrez-2017-streptococcus-salivarius-gingival-reepithelialization]].
+
 ## Gaps & Limitations
 
 1. **Short follow-up**: Kim 2026 (12 weeks) and Jeon 2026 (8 weeks) do not address microbiological relapse, recolonization by pathogens, or durability of BoP improvement after probiotic discontinuation.
@@ -324,3 +332,4 @@ See [[periodontics/oral-hygiene-instruction/zini-2026-electric-vs-manual-toothbr
 - [[periodontics/host-modulation/mendoca-2024-probiotics-nspt-nma]] — network MA of 33 RCTs (1290 patients) ranking probiotic strains as PMPR adjuncts; *L. reuteri* the only strain with long-term benefit; very low certainty in 92% of comparisons due to star topology (9% direct evidence)
 - [[periodontics/host-modulation/benavides-reyes-2025-probiotics-periodontitis-ma]] — pairwise MA of 24 RCTs (951 participants); periodontitis PI and BOP significant, PPD non-significant overall, effects time-dependent; gingivitis null with I²=94–96% — the conservative counterweight to Mendonça's PPD estimate
 - [[implants/peri-implantitis/srinivasan-2025-pdt-periimplantitis-nonsurgical-sr-ma]] — SR+MA of 25 studies on aPDT adjunct to non-surgical debridement in peri-implantitis; significant 3-month BOP/PD/PI/CBL gains that do not persist at extended follow-up; partially fills the Cochrane-identified peri-implantitis gap
+- [[periodontics/host-modulation/fernandez-gutierrez-2017-streptococcus-salivarius-gingival-reepithelialization]] — in-vitro mechanism candidate for probiotic adjunct effects: *S. salivarius* secreted serine protease accelerates gingival re-epithelialization ~2.5-fold; different strain from either clinical RCT, hypothesis-level only
