@@ -4023,4 +4023,5 @@ tags: []
 - [[implants/surface/alenezi-2026-magnesium-modified-titanium-implants-osseointegration]] — Alenezi 2026 · sr+ma(전임상 11편) · Mg 코팅 티타늄 임플란트 BIC 유의 향상(Z=4.38, p<0.001), BA는 비유의
 - [[implants/surface/serbanescu-2025-nanofeatured-titanium-surfaces-dental-implants]] — Șerbănescu 2025 · sr(25편) · 나노구조 티타늄 표면 — 초기 골유착 가속되나 8-12주면 마이크로거칠기 대조군과 수렴, GRADE 확신도 낮음
 - [[implants/surface/dipalma-2026-implant-surface-characteristics-peri-implant-outcomes]] — Dipalma 2026 · sr(13편) · 표면처리는 임플란트주위 결과에 제한적·상황의존적 영향, 장기적으로는 환자·부위 위험요인이 표면유형보다 우세
+- [[implants/surface/trisi-2003-bone-implant-contact-machined-dual-acid-etched]] — Trisi 2003 · prospective(인체 split-surface, n=11) · 이중 산부식 표면 BIC 47.81% vs 기계가공 19.00%(2개월, P<0.001), 저밀도골에서 격차 더 확대
 - [[implants/surface/huraib-2023-micro-threaded-laser-textured-implant-neck-peri-implant]] — Huraib 2023 · sr(15편) · 거친 미세나사산/레이저 미세조직화 임플란트 넥이 매끄러운 넥보다 변연골소실(MBL)·탐침깊이(PD) 유의하게 낮춤
