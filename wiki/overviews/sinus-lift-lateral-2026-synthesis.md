@@ -1,6 +1,6 @@
 ---
 title: "Lateral-Window Maxillary Sinus Floor Elevation — Schneiderian Membrane Perforation Risk and Repair: 2026 Synthesis"
-authors: synthesis page (compiled by Claude from 37 wiki entries ingested 2026-05-20, 2026-06-15, and 2026-06-16)
+authors: synthesis page (compiled by Claude from 40 wiki entries ingested 2026-05-20, 2026-06-15, 2026-06-16, and 2026-08-09)
 year: 2026
 date: 2026-06-16
 category: overviews
@@ -16,7 +16,7 @@ relations:
 ## 한국어 핵심요약
 
 > [!summary] 한국어 핵심요약
-> - 측방창(Lateral Window) 상악동거상술(Sinus Floor Elevation, SFE)에서 슈나이더막(Schneiderian Membrane) 천공(Sinus Membrane Perforation, SMP)·부비동염·이식재·PRF를 다룬 37편 종합(5개 cluster).
+> - 측방창(Lateral Window) 상악동거상술(Sinus Floor Elevation, SFE)에서 슈나이더막(Schneiderian Membrane) 천공(Sinus Membrane Perforation, SMP)·부비동염·이식재·PRF를 다룬 40편 종합(5개 cluster).
 > - **수리된 천공은 임플란트 식립 금기가 아님** — Soares 2024 SR+MA(130연구)에서 적절히 수리된 SMP의 임플란트 손실 4%(95% CI 2–8%)로 온전막과 통계적 동등, 천공 크기는 손실 예측 안 함(p=0.86); Sala 2024(6,860 임플란트)도 OR 1.35 비유의로 독립 확인.
 > - **격벽(septa)이 지배적 해부학적 위험** — Henriques 2022: 부비동의 33.2%에 격벽(86% 횡방향, 표준 창 절골선을 가로지르는 형태); Yang 2024: 천공 OR 4.03; Nemati 2023 다변량 모델 위험비(Hazard Ratio, HR) 8.07. 약 3개 중 1개 부비동이 수정 접근 필요.
 > - **점액저류낭(Mucous Retention Cyst, MRC)이 단일 최강 SMP 예측인자** — Nemati 2023: HR 27.75로 격벽(8.07)·흡연(25.0)을 같은 모델에서 능가.
@@ -33,7 +33,7 @@ relations:
 
 ## Three-line Summary
 
-A 2026 synthesis of 37 wiki pages on lateral-window maxillary sinus floor elevation (SFE), organized into 5 clusters: membrane perforation repair, preoperative perforation prediction (anatomy/CBCT/behavior), procedural variants and timing, sinusitis prevention/management, and graft-material/PRF selection.
+A 2026 synthesis of 40 wiki pages on lateral-window maxillary sinus floor elevation (SFE), organized into 5 clusters: membrane perforation repair, preoperative perforation prediction (anatomy/CBCT/behavior), procedural variants and timing, sinusitis prevention/management, and graft-material/PRF selection.
 
 Core findings: a competently repaired Schneiderian membrane perforation (SMP) is not a contraindication to implant placement — pooled implant loss ~4% (95% CI 2–8%), OR 1.35 NS (Soares 2024 SR+MA, 130 studies; Sala 2024, 6,860 implants); septa (OR 4.03, HR 8.07) and mucous retention cysts (HR 27.75) are the dominant anatomical perforation predictors, smoking the dominant modifiable predictor (OR 1.58); preoperative chronic sinusitis outranks membrane perforation as the infection-prevention priority (Kozuma 2017: all 8 complications occurred in chronic-sinusitis-positive sinuses); PRF added to DBBM reliably improves histomorphometric new bone formation (+7–12%) without an ISQ-at-loading benefit.
 
@@ -41,14 +41,14 @@ Practical decision rules: ≤10 mm perforations — seal with PRF (biologically 
 
 ## 세줄요약
 
-측방창(Lateral Window) 상악동거상술(Sinus Floor Elevation, SFE) 37편 종합(5개 클러스터) — 슈나이더막 천공(Sinus Membrane Perforation, SMP)·부비동염·술식 변형·이식재/PRF 보조.
+측방창(Lateral Window) 상악동거상술(Sinus Floor Elevation, SFE) 40편 종합(5개 클러스터) — 슈나이더막 천공(Sinus Membrane Perforation, SMP)·부비동염·술식 변형·이식재/PRF 보조.
 
 수리된 천공은 임플란트 식립 금기가 아님(임플란트 손실 ~4%, OR 1.35 비유의; Soares 2024 SR+MA 130편, Sala 2024 6,860개); 격벽(OR 4.03, HR 8.07)·점액저류낭(HR 27.75)이 해부학적 최대 위험인자, 흡연이 가변적 최대 위험인자(OR 1.58); 술전 만성부비동염이 막천공보다 감염 예방 우선변수(Kozuma 2017 합병증 전건이 만성부비동염 양성군에서 발생); PRF+DBBM 시 신생골 +7–12% 일관되나 ISQ 이득 없음.
 
 의사결정 규칙: ≤10 mm 천공 → PRF seal(콜라겐 동등 이상); >10 mm → tack 고정 콜라겐+동시이식(Tian 2026); 측방창 골절단은 회전 bur 대신 피에조(Lee 2023 NMA: SMP 10%↑마다 생존 OR 55%↓); 술전 CBCT를 골구내복합체(OMC)까지 판독하고 만성부비동염은 이비인후과 협진 후 시행.
 
 ## Scope
-This overview synthesizes 37 wiki pages under `wiki/sinus-lift/lateral/` (20 from 2026-05-20, 14 added 2026-06-15, 3 added 2026-06-16). The cluster centers on the lateral-window approach to maxillary SFE and five converging questions: how often does the Schneiderian membrane tear, what predicts a tear before the bur touches the lateral wall, what repair makes the tear clinically inconsequential, how do we prevent and manage postoperative sinusitis, and which graft material and adjuncts optimize histomorphometric outcomes.
+This overview synthesizes 40 wiki pages under `wiki/sinus-lift/lateral/` (20 from 2026-05-20, 14 added 2026-06-15, 3 added 2026-06-16, 3 added 2026-08-09). The cluster centers on the lateral-window approach to maxillary SFE and five converging questions: how often does the Schneiderian membrane tear, what predicts a tear before the bur touches the lateral wall, what repair makes the tear clinically inconsequential, how do we prevent and manage postoperative sinusitis, and which graft material and adjuncts optimize histomorphometric outcomes.
 
 ## Cluster 1 — Repair of Schneiderian membrane perforations
 
@@ -60,6 +60,7 @@ Within repair materials, the field has shifted toward platelet concentrates laye
 
 - **PRF vs collagen, head-to-head animal evidence.** Aricioglu 2017 (rabbit, n=42 sinuses) found histologic healing of PRF membrane equivalent to collagen membrane at intentional perforation. Xin 2020 (animal RCT, n=24) was stronger: A-PRF outperformed collagen — complete membrane re-formation by week 1 and significantly more new bone at weeks 1 and 4 (p<0.0001).
 - **L-PRF in case series.** Pinto 2018 (single case, lateral window) and Malzoni 2021 (9 large perforations) used L-PRF + Bio-Oss/collagen with no failures at 3–5 yr follow-up. Koleilat 2023 reports a similar PRF + collagen sandwich during incidental pseudocyst-related perforation.
+- **Handle-design collagen membrane + fibrin glue, medically compromised case.** Kim 2026 (single case, 71F, osteoporosis on denosumab) describes a non-PRF repair variant: a resorbable collagen membrane (Bio-Gide) cut with a protruding "handle" tab for one-handed intrasinus positioning during a 5–7 mm perforation repair, with fibrin glue serving two roles — binding the particulate graft (Bio-Oss + rhBMP-2) into a cohesive mass, and fixing the repositioned bony window without titanium tacks. Graft height was stable at 6 months (13.3 mm from 15.2 mm post-op), no complications. The tack-free fixation is the notable design choice for patients where screw fixation into anti-resorptive-exposed bone carries theoretical concern — a niche but clinically reasoned variant on the collagen-membrane repair family, independent of the PRF-based approaches above.
 - **e-PRF alone as the membrane.** Estrin 2025 (prospective multicenter case series, 22 patients / 31 implants) used extended-PRF *as the sole* barrier in lateral-window SFE — 6-month vertical sinus height 12.3 mm, intra-sinus bone gain 8.0 mm, **100% survival**. This is the strongest signal that biological membranes can fully replace xenogenic ones in selected cases.
 - **Large (>10 mm) perforations.** Tian 2026 describes a technique-note solution: a collagen membrane tacked to the mesial and lateral sinus walls, allowing simultaneous grafting (and, when residual ridge permits, simultaneous implant placement) in scenarios that historically forced an abort/re-entry.
 
@@ -131,6 +132,17 @@ Kozuma 2017 (retrospective cohort, 109 patients, 121 sinuses, 252 implants) esta
 
 The clinical protocol Kozuma proposes: mandatory preoperative rhinologic workup (SNOT-20 + nasal endoscopy + CT paranasal sinuses) → ENT referral if chronic sinusitis diagnosed → macrolide therapy (clarithromycin ≥12 weeks) or FESS to achieve clearance → confirm resolution → only then proceed to augmentation. Removable denture pressure over the grafted sinus should be avoided postoperatively.
 
+### The Pignataro framework: when ENT involvement is mandatory, and what it can and cannot fix
+
+Pignataro 2008 (Italian position paper, expert opinion — no original clinical data) is the foundational source for the ENT-collaboration model this cluster's other papers build on and reference throughout as "the Pignataro taxonomy." It proposes a 3-step ENT management sequence for sinus-lift candidates: **preventive-diagnostic** (nasal endoscopy + CT when sinus pathology is suspected), **preventive-therapeutic** (FESS to correct reversible contraindications *before* SFE), and **diagnostic-therapeutic** (postoperative sinusitis surveillance and management). Its central clinical contribution is a binary contraindication taxonomy that still organizes later consensus papers in this cluster:
+
+| Type | Conditions | Path forward |
+|---|---|---|
+| Reversible (FESS-correctable) | OMC anatomical variants, chronic rhinosinusitis, nasal polyposis, oro-antral fistula | Correct via FESS (or, per Suzuki-Yamazaki 2020 below, medical management), then proceed to SFE |
+| Irreversible (absolute contraindication) | Cystic fibrosis, Kartagener's syndrome, primary immunodeficiency, sinonasal malignancy | SFE precluded |
+
+As expert opinion with no original incidence data, Pignataro 2008's specific numbers cannot be cited — but the *framework* is what later papers operationalize with data: Kozuma 2017 supplies the multivariate evidence that preoperative chronic sinusitis (a "reversible" condition in Pignataro's schema) is the dominant risk factor once actually measured, and Gulbey 2026 (Cluster 2) supplies the CBCT-based OMC-variant detection that the "preventive-diagnostic" step calls for. Read this way, Pignataro 2008 is the organizing skeleton the rest of Cluster 4 fills in with numbers.
+
 ### High-risk patients: ENT stratification before sinus lift
 
 Suzuki-Yamazaki 2020 (case report, n=1, 48M with septal deviation + concha bullosa + Haller cell + allergic rhinitis — the Pignataro "reversible contraindication" classification) describes a noninvasive medical prevention protocol for patients who decline FESS:
@@ -182,6 +194,12 @@ The BCP-vs-DBBM axis above compares a synthetic ceramic against a bovine xenogra
 
 **Evidence-strength caveat — this is the weakest entry in the cluster.** The other Cluster 5 entries are SR+MAs pooling 5 and 10 RCTs (Almutairi 2025; Alkandari 2025) or a 30-patient split-mouth design with within-patient control (Motimath 2026). Paetnukroh 2024 is a **single, small (n=24), single-center, parallel-group RCT with 6-month follow-up and no histologic evaluation** — so there is no new-bone-percentage or residual-graft figure comparable to the histomorphometric numbers that anchor the rest of this cluster, and volumetric stability at 6 months cannot speak to the multi-year horizons implicit elsewhere on this page. Parallel-group allocation also leaves it more exposed to inter-patient anatomical variation than Motimath's split-mouth design. dpDTM is therefore a **promising signal warranting replication, not a practice-changing result**, and it should not yet be presented to patients as evidentially equivalent to DBBM, whose sinus-augmentation track record spans decades and thousands of implants.
 
+### Graft volume planning — how much material is needed, not just which material
+
+All four papers above answer "which graft material" — Kim 2007 (Korean case-control, CT volumetry, n=19 patients/20 sinuses) answers a prerequisite practical question the cluster otherwise skips: **how much** graft to prepare or harvest. Using automated CT volume analysis at three clinically standard augmentation heights (5, 10, 15 mm from sinus floor), edentulous sinuses required significantly more graft volume than dentulous sinuses at every height — 0.56 vs 0.41 cm³ (5 mm, p=0.027), 2.35 vs 1.76 cm³ (10 mm, p=0.018), 4.85 vs 3.80 cm³ (15 mm, p=0.044), a ~36% difference at 15 mm. The likely mechanism is post-extraction sinus pneumatization enlarging the edentulous sinus, consistent with (though not directly tested against) Schriber 2019's pneumatization data in Cluster 2. Kim 2007 also tabulates graft-material resorption rates from the contemporary literature (iliac autograft ~50%, mandibular autograft less, DBBM xenograft ~20%) to convert a target final volume into an as-placed harvest/order quantity.
+
+**Where this fits.** This is planning-stage arithmetic, not a material-superiority claim — it answers "how much of whatever material I choose do I need at this patient's edentulous/dentulous status and target height," a question every material-selection decision above (DBBM, BCP, dpDTM, ± PRF) still has to answer downstream. The 2007 vintage and single small Korean cohort (n=19) limit generalizability, and the linear cross-sectional-surface assumption is a stated methodological simplification — but no other paper in this wiki's sinus-lift literature supplies a comparable graft-quantity reference table, so it remains the practical anchor for this specific question until superseded.
+
 ### Synthesis [미검증]
 
 PRF (both L-PRF and A-PRF) reliably improves histomorphometric new bone formation when added to DBBM, with consistent effect across SR+MA and split-mouth RCT levels of evidence. The benefit is biologically real but does not translate to ISQ advantage at the time of loading. BCP outperforms DBBM in new bone formation and resorbability, but the clinical bottom line on implant survival requires a separate evidence base. For clinicians choosing between graft materials: BCP is a credible synthetic alternative to DBBM when maximizing histomorphometric new bone is the goal; PRF adjunction is a low-cost enhancement that consistently boosts new bone formation regardless of which xenograft base is used.
@@ -232,6 +250,7 @@ These are working hypotheses from the synthesis, not protocol.
 - [[sinus-lift/lateral/pinto-2018-leukocyte-platelet-rich-fibrin-sinus-membrane]] — L-PRF case
 - [[sinus-lift/lateral/malzoni-2021-lprf-schneiderian-membrane-large-perforations]] — 9-case L-PRF series
 - [[sinus-lift/lateral/koleilat-2023-prf-collagen-sinus-membrane-repair]] — pseudocyst-related perforation case
+- [[sinus-lift/lateral/kim-2026-collagen-membrane-fibrin-sinus-perforation]] — handle-design collagen membrane + fibrin glue, tack-free window fixation; osteoporotic/denosumab case
 
 **Cluster 2 — Anatomy, CBCT risk prediction, and behavior**
 - [[sinus-lift/lateral/henriques-2022-maxillary-sinus-septa-prevalence-sr-ma]] — septa prevalence SR+MA (62 studies; 33.2% per sinus, 86% transverse)
@@ -268,6 +287,7 @@ These are working hypotheses from the synthesis, not protocol.
 - [[sinus-lift/transcrestal/farina-2023-effectiveness-morbidity-costs-transcrestal-lateral-rbh]] — RCT re-analysis (RBH-stratified): both reach median 100% totCON%; at RBH ≥4 mm tSFE wins chair time/cost/morbidity, at RBH <4 mm trade-off (tSFE early pain vs lSFE bruising/cost)
 
 **Cluster 4 — Sinusitis prevention and management**
+- [[sinus-lift/lateral/pignataro-2008-ent-assessment-sinus-lift-candidates]] — foundational ENT-collaboration framework: 3-step management sequence + reversible/irreversible contraindication taxonomy that later papers in this cluster operationalize
 - [[sinus-lift/lateral/kozuma-2017-chronic-sinusitis-sinus-augmentation-infection]] — preop chronic sinusitis → #1 risk for infection + implant loss
 - [[sinus-lift/lateral/sakuma-2020-maxillary-sinus-ostium-edema-cbct]] — transient MSO narrowing post-LSFE; 19.4% infundibulum occlusion at 1 week, resolves by 9 months, zero sinusitis
 - [[sinus-lift/lateral/suzuki-yamazaki-2020-sinusitis-prevention-sinus-lift-high-risk]] — fluticasone + LTRA + antibiotics protocol for Pignataro reversible-contraindication patients
@@ -278,3 +298,4 @@ These are working hypotheses from the synthesis, not protocol.
 - [[sinus-lift/lateral/motimath-2026-xenograft-prf-sinus-histomorphometric]] — split-mouth RCT (n=30): A-PRF+DBBM → 42.8% vs 31.2% new bone (p=0.001), 100% survival both groups
 - [[sinus-lift/lateral/paetnukroh-2024-sinus-dhdtm-dbbm-rct]] — RCT (n=24, 6 mo): human tooth-derived dpDTM vs DBBM → volumetric reduction NS (120.33 vs 108.51 mm³, p=0.690), ISQ ~70 both, no failures; mesial height −1.08 vs −0.58 mm (p=0.04) but 0.5 mm magnitude and unreplicated at mid/distal
 - [[sinus-lift/lateral/del-fabbro-2025-sinus-augmentation-materials-lateral-approach]] — SR (49 RCTs, 1,722 augmentations): implant survival 84.6–100% with no significant difference among DBBM, autogenous ± DBBM, and synthetic HA/β-TCP → choose graft on biological risk, source, and cost, not survival; long-term bone-stability data insufficient across all classes
+- [[sinus-lift/lateral/kim-2007-maxillary-sinus-volume-ct-graft-placement]] — CT volumetric case-control (n=19/20 sinuses): edentulous sinuses need significantly more graft volume than dentulous at every height (5/10/15 mm), ~36% more at 15 mm; graft-quantity planning reference, independent of material choice
