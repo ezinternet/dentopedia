@@ -4021,3 +4021,10 @@ tags: []
 - [[implants/surface/serbanescu-2025-nanofeatured-titanium-surfaces-dental-implants]] — Șerbănescu 2025 · sr(25편) · 나노구조 티타늄 표면 — 초기 골유착 가속되나 8-12주면 마이크로거칠기 대조군과 수렴, GRADE 확신도 낮음
 - [[implants/surface/dipalma-2026-implant-surface-characteristics-peri-implant-outcomes]] — Dipalma 2026 · sr(13편) · 표면처리는 임플란트주위 결과에 제한적·상황의존적 영향, 장기적으로는 환자·부위 위험요인이 표면유형보다 우세
 - [[implants/surface/huraib-2023-micro-threaded-laser-textured-implant-neck-peri-implant]] — Huraib 2023 · sr(15편) · 거친 미세나사산/레이저 미세조직화 임플란트 넥이 매끄러운 넥보다 변연골소실(MBL)·탐침깊이(PD) 유의하게 낮춤
+
+## Batch ingest (added 2026-08-09) — implant platform switching PMC 서베일런스 (신규 3편)
+
+### implants/mbl
+- [[implants/mbl/bhatt-2025-effect-platform-switching-peri-implant]] — Bhatt 2025 · rct(구치부 단일임플란트 60명, PS 30 vs PM 30, 12개월) · CBL PS 0.32mm vs PM 0.81mm(p<0.001), PD·BOP도 PS 우세 경향(NS)
+- [[implants/mbl/attia-2025-influence-platform-switching-marginal-bone]] — Attia 2025 · retrospective(즉시식립 37명, PS 21 vs PM 16, 6개월~23년) · 근심측 MBL PS 0.26mm vs PM 0.75mm(p=0.044), 회귀분석서 PM이 근심골소실 유의 증가(β=2.11, p=0.039); 원심측·성공률은 무차이
+- [[implants/mbl/yadav-2025-finite-element-analysis-platform-switching]] — Yadav 2025 · in-vitro(FEA, 상악D3·하악D2, 축방향·30°사방향 200N) · PS가 치조정 피질골·해면골 응력 일관되게 감소(특히 사방향)하나 임플란트·지대주·나사 응력은 증가(사방향서 지대주 응력 약 2배)
