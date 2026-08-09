@@ -17,13 +17,14 @@ source_papers:
   - wiki/immediate-implant/pitman-2023-immediate-implant-flap-flapless-sr-ma.md
   - wiki/immediate-implant/mansouri-2025-flapless-immediate-implant-bone-grafting-sr-ma.md
   - wiki/bone-regeneration/ridge-preservation/araujo-2009-ridge-alterations-flap-vs-flapless.md
+  - wiki/implants/soft-tissue/bhowmick-2022-flapless-conventional-soft-tissue-esthetics.md
 tags: [flapless, flapped, crestal-bone-loss, marginal-bone-loss, implant-failure, minimally-invasive, postoperative-pain, overview]
 ---
 
 ## 한국어 핵심요약
 
 > [!summary] 한국어 핵심요약
-> - 이 페이지는 무피판(flapless) vs 피판(flapped) 임플란트 수술을 다룬 6편을 **3축**(① 임플란트 실패율 ② 치조정/변연골 ③ 술후 통증·연조직)으로 묶은 spine이다. 결론은 결과 변수마다 우열이 갈린다는 것 — "flapless가 낫다/나쁘다"는 단일 답이 없다.
+> - 이 페이지는 무피판(flapless) vs 피판(flapped) 임플란트 수술을 다룬 7편을 **3축**(① 임플란트 실패율 ② 치조정/변연골 ③ 술후 통증·연조직)으로 묶은 spine이다. 결론은 결과 변수마다 우열이 갈린다는 것 — "flapless가 낫다/나쁘다"는 단일 답이 없다.
 > - **실패율**: 23편 메타분석(Chrcanovic 2014)에서 flapless가 실패 상대위험 75%↑(RR 1.75, 95% CI 1.07–2.86, p=0.03)였으나, **비뚤림 위험 낮은 5편만 보면 유의성 소실** — 신호 대부분이 저질 연구에서 나옴. [확인]
 > - 즉 "flapless가 실패를 늘린다"는 명제는 **2014년 시점의 약한 근거**이고, CBCT·가이드 도입 이후 술식과는 다른 시대 데이터임을 명시해야 함. [미검증]
 > - **치조정골은 RCT와 코호트가 정면충돌**: Surendra 2025 RCT(n=40, 하악 구치, 치유된 치조제)는 flapless가 6개월 골소실 0.48 vs 0.82 mm로 **유의하게 적게**(p<0.001) 보존; Tarpara 2025 코호트(n=20, 부하 후 12개월)는 **치조정 골높이 차이 전혀 없음**. [확인]
@@ -36,7 +37,7 @@ tags: [flapless, flapped, crestal-bone-loss, marginal-bone-loss, implant-failure
 
 ## Three-line Summary
 
-Synthesis of 6 papers comparing flapless versus flapped implant surgery along 3 axes — implant failure, crestal/marginal bone, and postoperative pain/soft tissue — showing the verdict is outcome-dependent: flapless failure risk (RR 1.75, Chrcanovic 2014) disappears in low-risk-of-bias studies; an RCT (Surendra 2025) shows ~40% less crestal bone loss at 6 months while a 12-month cohort (Tarpara 2025) finds no difference.
+Synthesis of 7 papers comparing flapless versus flapped implant surgery along 3 axes — implant failure, crestal/marginal bone, and postoperative pain/soft tissue — showing the verdict is outcome-dependent: flapless failure risk (RR 1.75, Chrcanovic 2014) disappears in low-risk-of-bias studies; an RCT (Surendra 2025) shows ~40% less crestal bone loss at 6 months while a 12-month cohort (Tarpara 2025) finds no difference.
 
 Flapless consistently halves early postoperative pain (VAS day 3: 3.1 vs 5.7) and improves short-term soft tissue, while in the immediate-implant setting flapless trends toward buccal tissue preservation with small operator-dependent differences.
 
@@ -44,7 +45,7 @@ Flapless extraction alone does not preserve the ridge (Araujo 2009 dog histology
 
 ## 세줄요약
 
-무피판 vs 피판 임플란트 수술 6편을 3축(실패율·치조정골·통증/연조직)으로 종합 — 결과 변수별로 우열이 갈린다: 실패율 우려(RR 1.75)는 저질 연구 의존이라 약하고, 치조정골은 RCT(flapless 6개월 ~40% 덜 소실)와 12개월 코호트(차이없음)가 충돌한다.
+무피판 vs 피판 임플란트 수술 7편을 3축(실패율·치조정골·통증/연조직)으로 종합 — 결과 변수별로 우열이 갈린다: 실패율 우려(RR 1.75)는 저질 연구 의존이라 약하고, 치조정골은 RCT(flapless 6개월 ~40% 덜 소실)와 12개월 코호트(차이없음)가 충돌한다.
 
 술후 통증은 flapless가 일관 절반(VAS day 3: 3.1 vs 5.7)이고 단기 연조직도 유리하며, 즉시식립 맥락에서는 협측 조직 보존에 경향적 우위지만 효과는 작고 술자 의존적이다.
 
@@ -58,7 +59,7 @@ Flapless (transmucosal punch) implant surgery is marketed as less traumatic, les
 
 **Axis 2 — Crestal/marginal bone (the live controversy).** Two 2025 papers in healed posterior ridges reach opposite conclusions. Surendra 2025 (RCT, n=40, posterior mandible) found flapless preserved significantly more crestal bone at both 3 months (0.32 vs 0.56 mm) and 6 months (0.48 vs 0.82 mm, both p<0.001) — roughly 40% less loss — with 100% survival in both arms, attributing the advantage to preserved periosteal blood supply. Tarpara 2025 (prospective non-randomized cohort, n=20, 12 months post-load) found no crestal bone height difference at any time point. The two are formally tagged as contradicting each other. The reconciliation: the flapless bone-preservation benefit, where present, is early and small in magnitude, measured by short-term 2D radiography in a small RCT, and may converge by 12 months; the cohort's null is at a later, loaded time point but carries selection bias.
 
-**Axis 3 — Postoperative pain and soft tissue (flapless's clearest win).** Tarpara 2025 showed flapless roughly halved early pain (VAS day 3: 3.1 vs 5.7; day 7: 0.5 vs 2.4; both p=0.001) and produced shallower 6-month probing depths, though the probing-depth difference disappeared by 12 months and stayed within physiological range. This early-comfort, soft-tissue benefit without a long-term hard-tissue penalty is the most consistent and clinically tangible flapless advantage.
+**Axis 3 — Postoperative pain and soft tissue (flapless's clearest win).** Tarpara 2025 showed flapless roughly halved early pain (VAS day 3: 3.1 vs 5.7; day 7: 0.5 vs 2.4; both p=0.001) and produced shallower 6-month probing depths, though the probing-depth difference disappeared by 12 months and stayed within physiological range. This early-comfort, soft-tissue benefit without a long-term hard-tissue penalty is the most consistent and clinically tangible flapless advantage. Bhowmick 2022 (prospective split-mouth, n=10 patients/20 titanium-collar implants, within-patient control — the strongest design in this axis) directly corroborates: flapless sites had significantly lower probing depth at 3 months (p<0.05) and a higher patient-rated esthetic VAS score (7.62 vs 6.85, p=0.05), with equivalent plaque/gingival/bleeding indices between sides — the split-mouth design rules out the inter-patient confounding that limits Tarpara's cohort comparison.
 
 **Immediate-implant context (a distinct setting).** The above is healed-ridge data. In fresh sockets, Pitman 2023 (SR+MA, RCTs only, Cosyn group) found flapless tends to favor buccal hard/soft tissue preservation with small, operator-dependent clinical/esthetic differences, and Mansouri 2025 (SR+MA, RCTs only) found flapless immediate placement with peri-implant gap grafting trends toward better hard-tissue preservation (notably jump space ≥2 mm). Both are limited by few RCTs.
 
@@ -82,6 +83,7 @@ Flapless (transmucosal punch) implant surgery is marketed as less traumatic, les
 - [[implants/chrcanovic-2014-flapless-vs-conventional-implant-surgery-ma]] — SR+MA: flapless failure RR 1.75, vanishes in low-RoB subset; no infection/MBL difference.
 - [[implants/mbl/surendra-2025-flapless-versus-flapped-crestal-bone]] — RCT: flapless preserves significantly more crestal bone at 3/6 months (healed posterior mandible).
 - [[implants/tarpara-2025-flapless-flapped-clinical-outcomes-cohort]] — cohort: no crestal-bone difference at 12 months; flapless less pain, lower 6-month PD.
+- [[implants/soft-tissue/bhowmick-2022-flapless-conventional-soft-tissue-esthetics]] — split-mouth RCT-grade prospective (n=10/20 implants): flapless lower 3-month PD (p<0.05), higher esthetic VAS (p=0.05), equivalent plaque/gingival/bleeding indices — within-patient corroboration of Axis 3.
 - [[immediate-implant/pitman-2023-immediate-implant-flap-flapless-sr-ma]] — SR+MA (immediate setting): flapless favors buccal tissue, small operator-dependent differences.
 - [[immediate-implant/gap-grafting/mansouri-2025-flapless-immediate-implant-bone-grafting-sr-ma]] — SR+MA: flapless immediate + gap grafting trends to better hard-tissue preservation.
 - [[bone-regeneration/ridge-preservation/araujo-2009-ridge-alterations-flap-vs-flapless]] — animal histology: flapless extraction does not by itself preserve the ridge.
