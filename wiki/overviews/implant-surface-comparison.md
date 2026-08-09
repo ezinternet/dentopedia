@@ -43,6 +43,9 @@ relations:
   - type: extends
     target: implants/surface/houshmand-2023-uv-photofunctionalization-sla-titanium-disks
     note: "shows decontamination is wavelength-dependent (UVC works, UVB does not) — wettability improvement alone does not confirm the contamination layer was removed"
+  - type: reinforces
+    target: implants/surface/trisi-2003-bone-implant-contact-machined-dual-acid-etched
+    note: "early human split-surface histomorphometry (2003, n=11) — dual acid-etched BIC 47.81% vs machined 19.00% at just 2 months, gap widening in low-density bone; the historical human-data anchor for the roughened-vs-machined direction this overview and czumbel-2019 (failure-rate RCT SR+MA) already establish"
 ---
 
 ## 한국어 핵심요약
@@ -428,5 +431,9 @@ LLM-Wiki `implants/surface/` 35편+ (2026-06까지 15편+횡단인용 3편; 2026
 - [[implants/surface/matys-2025-osseointegration-zirconia-implants-calcium-phosphate]] — 27편 SR — 지르코니아 임플란트 CaP 코팅, bonfante-2012(티타늄)과 대비되는 기질-의존적 코팅 효과 패턴; `extends → bonfante-2012` (sr, 2025)
 - [[implants/surface/wagstaffe-2019-rgd-tripeptide-adsorption-titania-surfaces]] — **extends (기전 확장)**: XPS/STM — §1의 "탄화수소"가 화학적으로 무엇인지 처음 특정(폼산·아세트산 등 소형 유기산, 카르복실기-양이온 브리징); 산화막(TiO₂, 영구)과 오염막(부착탄소, 시간의존)이 별개 층임을 명확히 함; SLActive의 얇은 오염막 → 전 pH RGD 흡수↑ (in-vitro, 2019)
 - [[implants/surface/houshmand-2023-uv-photofunctionalization-sla-titanium-disks]] — **extends (기전 확장)**: EDS, 같은 SLA 배치 UVC/UVB 직접비교 — UVC는 탄소·질소 유의 감소(p<0.001), UVB는 접촉각만 개선하고 탄소·질소 무변화(p=0.171/0.785) — **습윤성 개선 ≠ 탈오염 증명**, 파장 의존적 (in-vitro, 2023)
+
+### 신규 추가 (2026-08-09)
+
+- [[implants/surface/trisi-2003-bone-implant-contact-machined-dual-acid-etched]] — reinforces: 인체 split-surface 조직계측학(n=11, 후상악) — 이중 산부식 BIC 47.81% vs 기계가공 19.00%, 2개월만에 유의차(P<0.001), 저밀도골에서 격차 더 확대. czumbel-2019(실패율 SR+MA)보다 앞선 초기 인체 BIC 데이터 — 거친 표면 우위 방향의 역사적 앵커; abstract-only ingest (prospective, 2003)
 
 **갱신 메모 (2026-08-07)**: 이번 갱신은 이전 두 갱신(UV-PF·SLA-SLActive 갭 충전)과 성격이 다르다 — **처음으로 본 overview의 기존 결론 하나(CaP/HA 코팅의 BIC 이점)를 정정**했다(Damerau 2021). 나머지 11편은 (a) 코팅 화학 축 확장(Mg·Ag·생체분자, §2.4 신설), (b) 넥 디자인이라는 신규 독립 축(§9 신설), (c) 장기 peri-implantitis-거칠기 트레이드오프(§10 신설), (d) 기존 결론의 정밀화(샌드블라스팅 단독 vs SLA, 나노구조 지속성), (e) §1 기전의 화학적 심화(Wagstaffe·Houshmand — 산화막/오염막 구분, 파장 의존성)로 분류된다. 핵심 thesis(탄화수소 제거=기전, 거칠기가 코팅 화학보다 지배적)는 오히려 **강화**됐다 — Damerau의 "코팅보다 기준 표면 거칠기가 우선"이라는 결론이 §1의 탄화수소/양전하 기전론과 정합적이기 때문. 남은 최대 갭: TCP/HA·Mg·Ag 코팅 전부 **인체 RCT 부재**.
