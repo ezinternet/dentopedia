@@ -13,7 +13,9 @@ pmid: "28478869"
 source_url: https://pubmed.ncbi.nlm.nih.gov/28478869/
 text_path: /Users/oracleneo/llm-wiki/papers/mello-2017-immediate-fresh-extraction-vs-delayed-healed-socket-sr-ma.txt
 text_filename: mello-2017-immediate-fresh-extraction-vs-delayed-healed-socket-sr-ma.txt
-tags: []
+tags: [immediate-implant, delayed-implant, extraction-socket, survival, meta-analysis, superseded]
+superseded_by: immediate-implant/garcia-sanchez-2022-immediate-vs-delayed-implant-placement-sr-ma
+superseded_scope: full
 relations:
   - type: contradicts
     target: lang-2012-immediate-implant-survival-success-sr
@@ -24,6 +26,9 @@ relations:
   - type: contradicts
     target: pommer-2021-maxillary-single-tooth-timing-protocols-sr-ma
 ---
+
+> [!warning] Superseded (full) → [[immediate-implant/garcia-sanchez-2022-immediate-vs-delayed-implant-placement-sr-ma]]
+> Garcia-Sanchez 2022 SR+MA (Clin Oral Implants Res, Q1: 6편 head-to-head RCT, Q2: 53편 혼합)가 더 높은 증거 수준(RCT 기반)으로 동일한 임상 질문에 답하여 "즉시식립 vs 지연식립 생존율 유의차 없음"을 결론지었다. 이 페이지(관찰연구 중심 30편, IIP 95.21% vs 지연 98.38%, p=.001)의 생존율 차이 경고는 RCT 메타분석에서 재현되지 않았다 — 즉시식립-지연식립 비교의 임상 근거는 garcia-sanchez-2022를 우선 인용할 것. (set 2026-08-11)
 
 ## Three-line Summary
 
