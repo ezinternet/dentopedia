@@ -40,6 +40,7 @@ Addresses a real engineering limitation: direct-discharge plasma (implant as ele
 ## Methodology
 
 - Vortex vs direct plasma on Ti; hydrophilicity, surface chemistry, morphology; osteoblast activity.
+- **Device parameters (added 2026-08-10):** ACTILINK reborn (Plasmapp) vacuum plasma device — Ti coupons in a sealed container, diaphragm pump to ~10 torr base pressure, sinusoidal 100 kHz / ~3 kV peak-to-peak power. **Direct plasma discharge: 15 s. Vortex (magnetic-field) plasma discharge: 30 s.** No external gas (uses residual chamber air).
 
 ## Results
 
@@ -49,5 +50,5 @@ Addresses a real engineering limitation: direct-discharge plasma (implant as ele
 
 ## Related Papers
 
-- [[implants/surface/plasma/lee-h-2022-dbd-plasma-titanium-implant-osseointegration]] — DBD plasma device.
-- [[implants/surface/plasma/kahm-2024-vacuum-plasma-surface-treatment-osseointegration]] — Plasmapp device (in vivo).
+- [[implants/surface/plasma/lee-h-2022-dbd-plasma-titanium-implant-osseointegration]] — DBD plasma device, same Plasmapp family, 60 s total treatment.
+- [[implants/surface/plasma/kahm-2024-vacuum-plasma-surface-treatment-osseointegration]] — Plasmapp device (in vivo), 60 s cycle.
