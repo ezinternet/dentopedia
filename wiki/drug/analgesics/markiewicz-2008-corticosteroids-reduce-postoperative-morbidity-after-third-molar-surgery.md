@@ -11,7 +11,9 @@ pdf_path: /Users/oracleneo/llm-wiki/papers/markiewicz-2008-corticosteroids-reduc
 pdf_filename: markiewicz-2008-corticosteroids-reduce-postoperative-morbidity-after-third-molar-surgery.pdf
 source_collection: external
 full_text: false
-tags: [corticosteroids, dexamethasone, methylprednisolone, third-molar, postoperative-morbidity, edema, trismus, pain, meta-analysis, systematic-review]
+superseded_by: drug/analgesics/canellas-2022-corticosteroids-third-molar-nma
+superseded_scope: full
+tags: [corticosteroids, dexamethasone, methylprednisolone, third-molar, postoperative-morbidity, edema, trismus, pain, meta-analysis, systematic-review, superseded]
 relations:
   - type: reinforces
     target: satpathi-2024-corticosteroids-dentistry-review
@@ -19,6 +21,9 @@ relations:
     target: tamgadge-2025-preoperative-dexamethasone-third-molar-pain-swelling-trismus
 synthesized_in: overviews/drug-analgesics-postop-pain-overview
 ---
+
+> [!warning] Superseded (full) → [[drug/analgesics/canellas-2022-corticosteroids-third-molar-nma]]
+> Canellas 2022 NMA (Br J Oral Maxillofac Surg, 61 RCT, 3561명)가 5종 코르티코스테로이드 (Corticosteroid, CS)를 약제·용량·투여경로별로 직접 비교 — 덱사메타손 (Dexamethasone) 8mg 점막하주사·경구가 부종 최강 효과이며, 술 후 1·2일차 통증도 유의하게 감소함을 보여 이 페이지의 "CS 통증 무효과" 결론을 뒤집음. 더 큰 표본(61 vs 12 RCT), 약제 간 직접 비교, 통증 결론 번복 — 세 가지 축 모두에서 대체됨. 제3대구치 발치 후 CS 선택 근거는 canellas-2022를 우선할 것. (set 2026-08-11)
 
 abstract-only — publisher landing/abstract page, full text not retrieved
 
