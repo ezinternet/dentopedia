@@ -11,8 +11,13 @@ evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/moore-2015-single-dose-oral-analgesics-cochrane-overview.pdf
 pdf_filename: moore-2015-single-dose-oral-analgesics-cochrane-overview.pdf
 source_collection: external
-tags: [Cochrane, single-dose, postoperative-pain, NNT, ibuprofen, acetaminophen, APAP, codeine, tramadol, opioid, overview-of-reviews]
+superseded_by: drug/analgesics/miroshnychenko-2023-dental-extraction-pain-network-meta
+superseded_scope: partial
+tags: [Cochrane, single-dose, postoperative-pain, NNT, ibuprofen, acetaminophen, APAP, codeine, tramadol, opioid, overview-of-reviews, superseded]
 ---
+
+> [!warning] Superseded (partial) → [[drug/analgesics/miroshnychenko-2023-dental-extraction-pain-network-meta]]
+> Miroshnychenko 2023 NMA(J Dent Res, 82 RCTs, 9,095명)가 발치 후 진통제 비교를 업데이트 — 이부프로펜+APAP 병용이 가장 효과적(중등~고 확실도), 코데인 60mg·트라마돌은 위약과 유의차 없음. moore-2015는 NNT 프레임워크로 개념적 이해에 여전히 유용하지만, 최신 수치 근거는 miroshnychenko-2023을 인용할 것. (set 2026-08-11)
 
 ## Three-line Summary
 
