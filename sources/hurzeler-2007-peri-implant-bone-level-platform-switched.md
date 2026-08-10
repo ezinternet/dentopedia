@@ -4,7 +4,7 @@ authors: Hürzeler M, Fickl S, Zuhr O, Wachtel HC
 year: 2007
 doi: 10.1016/j.joms.2007.03.024
 category: [implants/mbl]
-source_collection: pubmed-text
+source_collection: pubmed-abstract
 full_text: false
 pmid: "17586347"
 source_url: https://pubmed.ncbi.nlm.nih.gov/17586347/
