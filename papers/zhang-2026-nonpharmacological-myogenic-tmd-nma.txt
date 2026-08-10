@@ -1,0 +1,60 @@
+Title: Comparative effectiveness of nonpharmacological therapies for adult myogenic temporomandibular disorders: a network meta-analysis of randomized trials
+Authors: Zhang Lei, Liu Minghe, Li Xiaojing, Zhao Chanyuan
+Journal: BMC Oral Health, 2026;26(1)
+DOI: 10.1186/s12903-026-09044-5
+PMID: 42365270
+PMCID: PMC13422282
+Published: 2026-06-27
+
+Source: PubMed Central full text retrieved 2026-08-11
+
+---
+
+Background
+
+Nonpharmacological therapies are widely used for adult myogenic temporomandibular disorders (TMD), but their comparative effectiveness for pain and mandibular function remains uncertain.
+
+Methods
+
+MEDLINE (via PubMed), Embase, Cochrane Central Register of Controlled Trials (CENTRAL), Web of Science, and Google Scholar were searched from inception through October 31, 2025, without language restrictions. Randomized controlled trials enrolling adults (≥18 years) with myogenic TMD were included if they compared at least one predefined nonpharmacological modality (including photobiomodulation therapy [PBMT], manual therapy [MT], exercise therapy [EX], occlusal splint therapy [OST], acupuncture [ACU], electrotherapy [ELEC], combined therapy [COMB], cognitive behavioral therapy [CBT], central neuromodulation, or extracorporeal shock wave therapy) with sham or placebo control, usual care or no-treatment control, or another predefined active nonpharmacological modality. Primary outcomes were pain and maximum mouth opening (MMO), extracted at short-term assessment closest to completion of intervention. Effects summarized as SMDs with 95% CIs using frequentist random-effects NMA. Treatments ranked via SUCRA. Risk of bias: RoB 2.0.
+
+Results
+
+41 RCTs (2021 participants) included; published 2000–2025, median 2019. 20 single-blind, 14 double-blind, 7 open-label. Inter-rater agreement: κ=0.82 (screening), κ=0.89 (extraction), κ=0.86 (RoB).
+
+Pain (41 studies, 2021 participants):
+SUCRA rankings: PBMT 88.9%, MT 79.9%, COMB 72.5%, ACU ~48%, OST ~37%, EX ~32%, CON ~28%, ELEC ~33%, CBT 6.9%.
+
+PBMT significantly reduced pain vs:
+- CBT: SMD −2.00 (95% CI −2.99 to −1.00)
+- ELEC: SMD −1.64 (−2.55, −0.73)
+- CON: SMD −1.49 (−2.07, −0.91)
+- OST: SMD −1.43 (−2.29, −0.56)
+- ACU: SMD −1.07 (−1.93, −0.21)
+
+MT significant vs:
+- CBT: SMD −1.73 (−2.71, −0.75)
+- EX: SMD −1.37 (−2.26, −0.49)
+- CON: SMD −1.23 (−1.92, −0.54)
+- OST: SMD −1.16 (−2.10, −0.22)
+
+Inconsistency detected: ELEC vs MT comparison (p<0.05).
+
+Maximum mouth opening (31 studies, 1463 participants):
+SUCRA rankings: MT 92.9%, COMB 75.2%, ELEC 58.7%, CON 19.7%.
+
+MT significantly better than:
+- CON: SMD 2.79 (1.33, 4.26)
+- PBMT: SMD 2.23 (0.19, 4.28)
+- ACU: SMD 2.01 (0.12, 3.90)
+- EX: SMD 1.85 (0.05, 3.64)
+
+No significant inconsistency for MMO. Egger's test p<0.05 for MMO (possible publication bias — MT ranking for MMO should be interpreted with caution).
+
+Risk of bias: 22 studies low risk, 19 some concerns.
+
+Conclusion
+
+Among adults with myogenic TMD, PBMT showed the most favorable short-term comparative profile for pain relief, whereas MT ranked highest for improving maximum mouth opening. These findings support targeted selection of specific nonpharmacological modalities, prioritizing PBMT when pain reduction predominates and MT when restoration of mandibular mobility is the primary goal.
+
+PROSPERO: CRD420261278458
