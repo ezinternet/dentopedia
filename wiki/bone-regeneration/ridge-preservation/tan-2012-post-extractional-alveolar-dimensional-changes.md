@@ -10,8 +10,13 @@ evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/tan-2012-post-extractional-alveolar-dimensional-changes.pdf
 pdf_filename: tan-2012-post-extractional-alveolar-dimensional-changes.pdf
 source_collection: external
-tags: [systematic-review, ridge-resorption, post-extraction, dimensional-change, EAO-consensus]
+superseded_by: bone-regeneration/ridge-preservation/couso-queiruga-2021-post-extraction-dimensional-changes-systematic
+superseded_scope: partial
+tags: [systematic-review, ridge-resorption, post-extraction, dimensional-change, EAO-consensus, superseded]
 ---
+
+> [!warning] Superseded (partial) → [[bone-regeneration/ridge-preservation/couso-queiruga-2021-post-extraction-dimensional-changes-systematic]]
+> Couso-Queiruga 2021 SR+MA(28편, 20편 풀링; PROSPERO CRD42020178857)가 발치 후 비보존(unassisted) 치유의 치조제 위축을 정량화 — 비구치: 수평 −2.73 mm, 구치: 수평 −3.03 mm. tan-2012는 EAO 합의 SR(20편 가중평균)로 개념적 기준 데이터 역할은 유지하지만, 현행 풀링 수치는 couso-queiruga-2021을 인용할 것. (set 2026-08-11)
 
 ## Three-line Summary
 
