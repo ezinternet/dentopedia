@@ -1,0 +1,62 @@
+Title: Influence of Final Irrigation on Calcium Silicate-Based Sealer Dentinal Tubular Penetration: A Systematic Review
+PMID: 42355262 | PMCID: PMC13304298 | DOI: 10.3390/ma19122682
+Journal: Materials (Basel), 2026-06
+Authors: Gómez-González J, Fernández-Negrete D, Sanz JL, Ghilotti J, Folguera S, Lozano A
+
+1. Introduction
+
+Irrigation constitutes one of the fundamental pillars of root canal treatment. The complex anatomy of root canal systems renders irrigation indispensable for the removal of organic tissue, dissolution of pulpal remnants, reduction in bacterial load, and facilitation of the proper action of endodontic sealers.
+
+Various liquid solutions are used as irrigants in endodontics: primary irrigants with antimicrobial activity (sodium hypochlorite (NaOCl) and chlorhexidine (CHX)); chelating irrigants for smear layer removal (17% EDTA, citric acid, and HEBP); irrigants with detergent/surfactant action (QMix); and other less frequently used irrigants (hydrogen peroxide, MTAD, liquid ozone), plus 7% maleic acid, glycolic acid, apple cider vinegar, chitosan nanoparticles, and peracetic acid.
+
+Activation methods include manual activation, sonic activation, passive ultrasonic irrigation (PUI), rotary mechanical activation, apical negative pressure irrigation, laser activation, heat activation, and lentulo spiral activation.
+
+The most widely known endodontic sealers used during root canal filling are zinc oxide–eugenol (ZOE), resin-based sealers, calcium silicate-based sealers (CSSs), zinc phosphate, and calcium hydroxide-based sealers. An increasing number of published studies have investigated CSSs for root canal filling owing to their favorable characteristics — biocompatibility, bioactivity, dentinal tubule penetration, suitable physical properties — though their outcomes continue to be compared with resin-based sealers or ZOE.
+
+Sealer penetration into dentinal tubules is assessed primarily with high-resolution/fluorescence microscopy: confocal laser scanning microscopy (CLSM, most frequently used), scanning electron microscopy (SEM), fluorescence microscopy (FM), and micro-CT. ImageJ is the most used image-analysis software. Sealers are commonly mixed with fluorescent dyes (Rhodamine B widely used, though concerns exist about dye leaching/overestimation with CSSs; calcium-sensitive dyes such as Fluo-3 have been proposed as alternatives). Typical CLSM-measured variables: penetration depth, percentage of tubule penetration, penetration area, 3D penetration volume, fluorescence intensity, penetration distribution/pattern. Push-out bond strength (PBS/POBS) is another method used to evaluate sealer penetration effectiveness.
+
+CSS dentinal tubular penetration may be affected by the chemical/physical conditions created by the final irrigation protocol — smear layer removal, residual moisture, dentin surface changes, irrigant activation systems. Numerous in vitro studies have assessed the effect of irrigants and activation methods on CSS penetration, but findings are difficult to interpret collectively due to marked heterogeneity in tooth type, irrigation sequence, activation method, sealer formulation, filling technique, fluorescent dye, microscopy method, and penetration outcome parameters. Hence this systematic review to synthesize the available evidence and identify methodological trends/inconsistencies.
+
+2. Materials and Methods
+
+2.1 Protocol and Registration: Followed PRISMA 2020. Registered in OSF (DOI: 10.17605/OSF.IO/5HTVN).
+
+2.2 Search Strategy and Eligibility: PICOS question — (P) Extracted teeth; (I) root canal treatment with a specific irrigation method + filling with CSSs; (C) an alternative irrigation method; (O) dentinal tubular penetration/adaptation of the CSS; (S) in vitro study. Research question: How does the final irrigation method influence CSS dentinal tubular penetration in extracted teeth? No controlled vocabulary (MeSH/Emtree) used, to keep consistency across databases. Literature search conducted October 2025 in MEDLINE, Scopus, Embase, Web of Science, and SciELO.
+
+2.3 Study Screening: Records exported to Mendeley for duplicate removal; title/abstract screening then full-text assessment by 2 reviewers (J.G.-G. and J.L.S.), disagreements resolved with a third reviewer (A.L.).
+
+2.4 Data Extraction: By 2 reviewers (J.G.-G. and A.L.) into standardized tables — methodological variables (author/year, tooth type, sample size/grouping, instrumentation, final irrigation protocol, sealer(s), filling technique) and outcome variables (author/year, penetration assessment method/parameters, main results).
+
+2.5 Quality Assessment: QUIN (Quality Assessment Tool for In Vitro Studies) — 12-item checklist; each item scored 2 (adequate), 1 (unclear/inadequate), 0 (not reported/high risk). Overall score classified as low risk (>70%), moderate (50–70%), high risk (<50%).
+
+3. Results
+
+3.1 Study Selection: 82 potentially eligible articles identified; 12 duplicates discarded. First screening excluded 52 articles not meeting eligibility. 18 studies deemed eligible for full-text retrieval. Secondary manual reference-list search yielded 3 additional studies. Total: 21 articles included.
+
+3.2 Quality Assessment: All studies rated low risk of bias by QUIN criteria.
+
+3.3 Study Methodology and Results: Extracted data on methodology and results are summarized in the paper's tables (not reproduced verbatim here).
+
+4. Discussion
+
+4.1 Interpretation of Main Findings: Final irrigation may affect CSS penetration, but the magnitude/direction of effect varied substantially across studies, preventing identification of a clearly superior irrigation protocol or activation method.
+
+Activation methods evaluated: conventional irrigation, PUI, laser-assisted activation, sonic activation, XP-Endo Finisher, heat activation, others. Activation methods generally showed better penetration outcomes than conventional irrigation but results were inconsistent — some studies favored laser activation, others PUI or XP-Endo Finisher — likely due to differences in devices, activation times, irrigant volumes, sequences, sealer formulations, obturation techniques, and outcome assessment methods.
+
+Final irrigation protocols evaluated: saline, EDTA, NaOCl combined with HEBP, maleic acid, glycolic acid, apple cider vinegar, chitosan nanoparticles, QMix, citric acid, chlorhexidine. EDTA and NaOCl-based protocols were most frequently investigated and often associated with favorable penetration, but this is not definitive evidence of superiority given differences in irrigation sequence, concentration, final rinse, drying protocol, sealer type, and assessment method.
+
+A recurrent trend: sealer penetration was generally greater in the coronal and middle thirds than the apical third — possibly explained by lower dentinal tubule density, smaller canal diameter, and less favorable irrigant exchange/smear-layer removal apically. This should be interpreted cautiously given differing penetration parameters used across studies (max/mean penetration depth, penetration area/percentage, POBS, etc.).
+
+4.2 Methodological Considerations: The effect of a final irrigant cannot be isolated from the complete irrigation protocol — some studies used distilled water or saline after the final irrigant, others did not apply an additional rinse. Activation methods may modify irrigant effect by improving distribution/fluid movement/smear-layer removal, but activation protocols were not standardized across studies. Moisture control is a relevant factor for CSSs (which require moisture to set and interact chemically with dentin) — residual moisture, drying procedures, paper-point use after final irrigation may influence penetration/adaptation/physicochemical behavior.
+
+4.3 Risk of Bias and Overall Confidence: Although all included studies were classified as low risk of bias by the global QUIN score, this should be interpreted cautiously — individual domains scored 0/1 did not necessarily change the global category. Domain-level weaknesses (incomplete reporting, unclear allocation, variable sample sizes, inconsistent outcome measures) may still reduce confidence. Overall confidence in the evidence was judged limited, given exclusive in vitro inclusion, use of dentinal tubular penetration as a laboratory surrogate outcome, substantial methodological heterogeneity, inconsistent outcome measures, variable sample/group sizes, and inability to perform quantitative synthesis (meta-analysis not possible). Findings should be interpreted as general laboratory trends rather than high-certainty evidence.
+
+4.4 Clinical Implications and Limitations: Available evidence supports the importance of final irrigation protocols that promote smear layer removal and dentin surface conditioning before CSS obturation. NaOCl and EDTA remain the most investigated irrigants; activation may be an adjunctive strategy to improve distribution/penetration under laboratory conditions. The review does not support recommending one specific irrigant/chelating agent/activation system as superior.
+
+Limitations: (1) all included studies are in vitro — no clinical outcomes assessed; dentinal tubule penetration is a laboratory parameter not a direct surrogate for clinical success (prior studies report no significant correlation between sealer penetration and sealability/interfacial adaptation to root dentin); (2) all included studies used single-rooted teeth/single roots, limiting applicability to multi-rooted/complex canal systems; (3) sample sizes varied considerably; (4) included studies differed in tooth type, instrumentation protocol, irrigation sequence, activation method, sealer formulation, obturation technique, fluorescent dye, microscopy system, image-analysis software, and penetration outcome parameters, reducing comparability; (5) free-text search strategy without controlled vocabulary (MeSH/Emtree) may have limited retrieval of some indexed records, though intentionally broad/sensitivity-oriented.
+
+4.5 Future Perspectives: Reduce methodological heterogeneity — larger samples, standardized instrumentation protocols, clearly defined final irrigation sequences, controlled activation parameters, standardized drying procedures, consistent obturation techniques; include multi-rooted and more anatomically complex canal systems; standardize outcome assessment (define penetration parameters, report microscopy settings, image-analysis procedures, dye selection, examiner calibration); use PRILE 2021 reporting guidelines for in vitro dental/laboratory endodontic research to improve transparency and reproducibility. Clarify whether laboratory penetration differences relate meaningfully to clinical outcomes.
+
+5. Conclusions
+
+Available in vitro evidence suggests final irrigation protocols may influence CSS dentinal tubular penetration, particularly protocols promoting smear layer removal and adequate dentin surface conditioning. NaOCl- and EDTA-based protocols were most frequently investigated and commonly associated with favorable penetration outcomes; however, due to substantial methodological heterogeneity, no specific irrigant, chelating agent, or activation technique can currently be considered superior. Dentinal tubular penetration remains a laboratory outcome and should not be directly extrapolated to clinical success. Future research should focus on standardized methodologies, more complex root canal anatomies, and clinically relevant outcomes.

@@ -1,0 +1,81 @@
+Title: Evaluation of various obturation techniques with AH Plus Jet sealer in simulated C-shaped canals
+PMID: 42223545 | PMCID: PMC13226752 | DOI: 10.1007/s44445-026-00124-4
+Journal: The Saudi Dental Journal, 2026-06
+Authors: Gharechahi M, Mehrjouei M, Moradi S, Kazemian A, Hoseinzadeh M
+
+Introduction
+
+C-shaped root canal systems, most frequently observed in mandibular first and second molars, represent a significant challenge in endodontics because of their unusual and complex morphology. These canals are characterized by fins, webs, and irregular cross-sections that change from the pulp chamber to the apex, making disinfection and three-dimensional obturation technically challenging.
+
+A critical determinant of endodontic success is the quality of obturation. Voids compromise the seal and provide pathways for bacterial leakage, which is a primary cause of treatment failure. In C-shaped canals, the anatomical complexity predisposes to incomplete filling and increased void formation. Voids allow bacterial contamination, impairing periapical healing and predisposing to reinfection. Clinical studies have linked poorly adapted obturation with persistence of apical periodontitis and less favorable long-term outcomes. Therefore, minimizing voids is a clinically significant objective that directly impacts long-term treatment success and prevention of reinfection.
+
+Among endodontic sealers, epoxy resin–based formulations are widely accepted because of their strong adhesion to dentin, dimensional stability, long working time, and effective sealing ability. AH Plus (Dentsply De Trey, Germany) has long been considered the gold standard, due to its handling properties and long-term stability. A newer formulation, AH Plus Jet, is packaged in premixed syringes with adjustable tips, which simplifies delivery, enhances infection control, and reduces operator variability. A preliminary investigation suggests that AH Plus Jet demonstrates reduced microleakage compared with AH Plus; however, evidence regarding its performance in C-shaped canals remains limited.
+
+The obturation technique also exerts a crucial influence on sealing quality. Warm vertical compaction (WVC), warm vertical hybrid compaction (HC), and cold lateral compaction (CLC) differ in their capacity to adapt gutta-percha and sealer to complex canal surfaces. WVC softens gutta-percha and promotes flow into fins, isthmuses, and lateral spaces, while compaction pressure helps reduce sealer thickness and minimize voids. HC aims to combine the better flow of thermal methods with the control of lateral compaction, and lateral compaction remains a clinically conventional method due to its simplicity and predictability. In C-shaped canals, where cross-sections are broad and irregular, the influence of obturation method becomes even more pronounced. Wisawawatin et al. compared sealer penetration and gap volumes using different sealers and techniques in C-shaped canals and found no significant differences. However, their study did not include AH Plus Jet, and the differences in viscosity, flow behavior, heat responsiveness, and handling of this sealer may lead to altered adaptation and void formation under the same techniques. Therefore, in the present investigation, the authors assessed both the quality of obturation using a digital optical microscope and the obturation time — a clinically relevant metric reflecting procedural efficiency — using AH Plus Jet with three techniques. Employing standardized 3D-printed replicas of C1-configuration canals allowed them to isolate the effects of obturation method while minimizing anatomical variability. The null hypothesis was that no significant differences would be observed among the three techniques in either sealing quality or time.
+
+Methods
+
+Sample selection
+
+Fifteen human mandibular molars with fused roots were obtained. To identify teeth with C1 anatomy as per the categorization proposed by Fan et al., a cone beam computed tomography (CBCT) scan was taken using the Planmeca ProMax 3D Classic system. The axial sections of the scans were examined using MicroDicom software, with a thickness of 0.125 mm and pixel size of 0.125. Ultimately, a tooth exhibiting a C1 shape across its canal was chosen.
+
+Root canal preparation
+
+Following access cavity preparation, three K-files #10 were introduced into the mesial, distal, and middle regions of the canal to determine the working length. The sample was decoronated, resulting in a remaining root length of 10 mm. The canal was prepared with M3 Pro Gold rotary systems up to size #30/0.04 utilizing an Endomotor at a speed of 350 rpm and a torque of 1–2 Ncm. To assure patency, a K-file size #10 was applied by passive pressure.
+
+The anti-curvature approach was employed in the isthmus. H-files sizes #15–25 were inserted into the canal and extracted by applying pressure on the buccal wall to avoid strip perforation. After each file, 2 mL NaOCl 1% was used. Final irrigation was done with 10 mL EDTA 17% and 2 mL saline. The canal was dried with paper points.
+
+3D printing of the C-shaped canal replicas
+
+The sample underwent CBCT scanning in high-resolution mode (75 μm). The tooth structure was reconstructed using Planmeca Romexis 6.2 software and saved in .stl format. The 3D model was printed using an AccuFab-L4K 3D printer with SG100 resin.
+
+The sample size was determined through a power analysis (α = 0.05, power = 0.8), resulting in 10 specimens per group. A total of thirty replicas were produced at 4K resolution.
+
+C-shaped replicas obturation
+
+The replicas were filled with AH Plus Jet sealer (Dentsply De Trey, Konstanz, Germany) using cold lateral compaction (CLC), warm vertical compaction (WVC), or warm vertical hybrid compaction (HC). Root canal preparation and obturation were performed by an endodontist who had undergone calibration sessions to standardize the clinical protocol, under the supervision of a senior endodontist with more than 10 years of clinical experience. The duration for filling each replica was documented. Subsequently, all the samples were incubated at a temperature of 37°C under conditions of 100% humidity for a week, to ensure the sealer setting.
+
+Measuring sealer and void percentage
+
+The samples were sectioned into thirds using a 0.3 mm disc from a CNC cutting machine at distances of 2 mm, 5 mm, and 7 mm from the apex. The sections were then imaged using a stereomicroscope at a magnification of 32x. The images were analyzed using DinoCapture 2.0 software. The areas occupied by the filling materials and the voids were represented as percentages of the total area.
+
+Statistical analysis
+
+Data were analyzed using SPSS version 23.0. Comparisons of void percentage, filling material percentage, and treatment time among groups were performed using one-way ANOVA. When significant differences were detected, pairwise comparisons were conducted with the LSD post-hoc test. A significance threshold of P < 0.05 was adopted for all analyses.
+
+Results
+
+Gutta-percha, sealer, and void percentages differed significantly between the groups in all sections, except for the sealer percentage in the middle section (P < 0.05). The LSD post-hoc test revealed that the CLC technique showed significantly higher gutta-percha (84.12 ± 5.76%) and lower sealer (15.38 ± 5.77%) percentages in the apical section compared to other groups (p < 0.05). However, the WVC technique showed a significantly higher gutta-percha percentage in the middle (92.82 ± 1.72%) and coronal (97.89 ± 0.38%) sections compared to other techniques (P < 0.05). Moreover, the WVC technique led to a significantly lower sealer percentage in the coronal section (1.47 ± 0.39%; P < 0.05).
+
+Table 1 — Mean ± SD of filling materials and void percentages in apical, middle, and coronal thirds between obturation techniques (WVC / CLC / HC; P value; effect size):
+- Gutta-percha Apical: 73.46±7.29 / 84.12±5.76 / 78.21±2.56; P<0.001; effect size 0.405
+- Gutta-percha Middle: 92.82±1.72 / 89.85±3.58 / 89.72±0.76; P=0.009; effect size 0.294
+- Gutta-percha Coronal: 97.89±0.38 / 94.02±1.24 / 95.87±0.93; P<0.001; effect size 0.766
+- Sealer Apical: 25.09±7.24 / 15.38±5.77 / 20.77±2.41; P=0.002; effect size 0.364
+- Sealer Middle: 6.14±1.85 / 7.90±3.59 / 8.81±0.66; P=0.053; effect size 0.196
+- Sealer Coronal: 1.47±0.39 / 3.02±1.13 / 3.39±0.79; P<0.001; effect size 0.525
+- Void Apical: 1.45±0.55 / 1.00±0.21 / 1.00±0.43; P=0.036; effect size 0.218
+- Void Middle: 1.03±0.37 / 2.24±0.39 / 1.46±0.38; P<0.001; effect size 0.652
+- Void Coronal: 0.62±0.11 / 2.95±0.36 / 0.72±0.31; P<0.001; effect size 0.940
+
+Regarding the void percentage, the CLC group and the HC group showed a significantly lower void percentage in the apical section than the WVC group (P < 0.05), though the effect size suggests only a modest impact (0.218). In the middle section, the void percentage in the CLC group was significantly higher than that of the other techniques (P < 0.05; effect size 0.652). Additionally, the HC group had a higher void percentage compared to the WVC group (P < 0.05). In the coronal section, the CLC group displayed a significantly higher void percentage than the other groups (P < 0.05; effect size 0.940).
+
+Treatment time for CLC (482.50 ± 6.20 s) was significantly higher compared to other groups (P < 0.001). The treatment time for the HC technique (341.00 ± 19.12 s) was also significantly higher compared to the WVC technique (168.00 ± 24.29 s; P < 0.001).
+
+Discussion
+
+The present study evaluated three established obturation techniques — CLC, WVC, and HC — in 3D-printed replicas of C-shaped canals with C1 configuration filled with AH Plus Jet sealer. The main outcomes were void percentage, distribution of filling materials, and obturation time. The C1 configuration was selected because it is the most frequently observed among C-shaped morphologies (approximately 40–54% at the orifice level), and its broad ribbon-like, uninterrupted canal anatomy presents considerable challenges for achieving a homogenous, void-free obturation.
+
+Methodological standardization is a prerequisite for valid comparison of obturation techniques, particularly in teeth with complex morphologies such as C-shaped canals. The use of 3D-printed replicas in this study facilitated standardization and ensured an adequate and uniform sample size.
+
+Voids in the apical third are particularly critical, as they compromise the apical seal — the primary barrier against periapical contamination. In the present study, the void percentage differences within the apical third were statistically significant; however, the effect size analysis revealed that the clinical impact was negligible. The relatively low void percentage in the WVC group may be attributed to compaction with the Fast Pack device, though the predictability of heat conduction and adaptation to the canal walls remains limited in this method, particularly in wide ribbon-shaped canals. In contrast, the utilization of injectable gutta-percha in WVC contributed to the significantly lower void percentage and higher gutta-percha content observed in the middle and coronal thirds. The use of auxiliary gutta-percha cones in the HC technique may help improve the consistency of warm compaction protocols; however, in the present study this approach yielded only negligible improvement in apical obturation quality.
+
+Voids in the middle and coronal thirds also contribute to reinfection risk by facilitating coronal leakage. The lowest void percentages in the middle and coronal thirds were observed with the WVC technique, and in the coronal section its performance was comparable to that of HC. Samples obturated using CLC exhibited a progressive increase in void percentage from apical to coronal regions, consistent with prior literature reporting inferior filling quality with CLC, particularly in canals prepared with greater taper.
+
+Across all groups, the gutta-percha percentage in the apical third was consistently lower than in the middle and coronal regions. Optimal obturation is characterized by a substantial proportion of gutta-percha with a minimal sealer layer, as gutta-percha is dimensionally stable whereas sealer is more prone to dissolution and shrinkage over time. This pattern highlights that a reduced gutta-percha-to-sealer ratio, particularly in the apical region, may predispose the filling to microleakage and compromise long-term seal.
+
+Limitations: (1) in vitro investigation, precluding assessment of long-term clinical performance under dynamic physiological conditions; (2) only C1 configurations were evaluated, limiting generalizability to C2/C3 morphologies; periodontal ligament and periapical tissue pressures were not simulated, so sealer extrusion was not evaluated; (3) 3D-printed resin replicas differ from dentin in thermal conductivity and mechanical characteristics (absence of dentinal tubules) which may influence sealer penetration, setting behavior, and heat transfer during warm compaction; (4) biological responses (periapical tissue irritation/inflammation) were not assessed.
+
+Conclusion
+
+Differences in void percentage among the groups were negligible in the apical third. In contrast, significant differences were observed in the middle and coronal thirds, leading to rejection of the null hypothesis. The WVC technique achieved the lowest void percentages in these regions while also requiring the shortest treatment time. Nonetheless, these results should be validated in long-term clinical trials.

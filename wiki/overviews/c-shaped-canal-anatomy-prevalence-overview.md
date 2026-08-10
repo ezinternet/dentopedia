@@ -19,6 +19,7 @@ source_wiki:
   - wiki/endodontics/anatomy/yousefi-2025-cshaped-canal-prevalence-cbct-sr-ma.md
   - wiki/endodontics/anatomy/biswas-2023-see-through-c-case-series.md
   - wiki/endodontics/anatomy/wei-2025-cshaped-mandibular-first-molar-case.md
+  - wiki/endodontics/gharechahi-2026-ahplus-jet-obturation-cshaped-canals.md
 ---
 
 ## 한국어 핵심요약
@@ -35,7 +36,8 @@ source_wiki:
 > - 병인: Hertwig 상피초(HERS)의 협측/설측 융합 실패로 발생 — 유전적(외상 아님), 아시아 우세·높은 양측성(70~81%)과 일치.
 > - 위험 핵심: radicular-groove 부위 얇은 벽(최소 0.26 mm)이 strip-perforation(천공) 위험을 만듦 → 보수적 성형, 오목부(concavity)의 과도한 측방 기구조작보다 underfill을 수용.
 > - 임상 takeaway: 치료 전 CBCT(놓친 근관 1개당 치근단 병변 odds 약 3.66배↑), 현미경 시야, 초음파 활성 NaOCl+17% EDTA로 isthmus 화학 소독, 열가소성/연속파 충전.
-> - 본 컬렉션 한계: 모두 해부/유병률 연구 — C형 vs 비-C형 대구치의 장기 치아생존 outcome 데이터 없음.
+> - **충전(obturation) 근거 신규 추가 (2026-07)**: Gharechahi 2026 (in-vitro, C1형 3D프린팅 레플리카 30개) — AH Plus Jet 실러로 냉측방가압(CLC)·연속파가압(WVC)·하이브리드가압(HC) 3술식 비교 시 **WVC가 중앙·치관 1/3에서 기공률 최저 + 충전시간 최단(168초 vs CLC 483초)**; 치근단 1/3 차이는 통계적으로만 유의(효과크기 작음). 본 컬렉션 최초의 "C형에서 어떻게 충전하는가" 데이터이나 3D프린팅 레진 레플리카(상아세관 無)·생존 outcome 없음이라는 한계는 유지.
+> - 본 컬렉션 한계: 유병률·해부 연구가 주를 이루며 첫 충전-기법 데이터(Gharechahi 2026)가 추가됐으나, C형 vs 비-C형 대구치의 장기 치아생존 outcome 데이터는 여전히 없음.
 
 ## Three-line Summary
 
@@ -150,11 +152,11 @@ The danger of C-shaped anatomy is not just "extra canals" but **thin dentin over
 
 **4. Isthmus disinfection — ultrasonics + chemistry.** The fins and isthmuses between the C's limbs are mechanically inaccessible, so disinfection is chemical: both case reports used **NaOCl + 17% EDTA with ultrasonic/sonic activation** (Biswas: 5.25% NaOCl; Wei: 3% NaOCl), and Fernandes 2014's management section calls for small-file exploration (#8/10/15) plus ultrasonic/sonic-assisted debridement of fins. Microscope ("see-through C", Biswas) for direct visualization of multiple/atypical orifices.
 
-**5. Obturation.** Thermoplasticized / continuous-wave techniques to fill the irregular connected lumen three-dimensionally (Biswas: Thermafil; Song 2008: continuous-wave over lateral condensation; Fernandes 2014: modified obturation for 3-D fill).
+**5. Obturation.** Thermoplasticized / continuous-wave techniques to fill the irregular connected lumen three-dimensionally (Biswas: Thermafil; Song 2008: continuous-wave over lateral condensation; Fernandes 2014: modified obturation for 3-D fill). Gharechahi 2026 provides the collection's first head-to-head *obturation-technique* data specifically in a C1-configuration model: filling standardized 3D-printed C1 replicas with AH Plus Jet sealer, warm vertical compaction (WVC) gave the lowest void percentage in the middle and coronal thirds and the shortest obturation time (168 s vs 483 s for cold lateral compaction), though apical-third differences among techniques were statistically significant but of only modest effect size. This is consistent with — and gives obturation-specific teeth to — this page's general thermoplastic/continuous-wave recommendation, but it is a resin-replica in-vitro study (no dentinal tubules, no periapical-tissue pressure simulated, no survival outcome), so it refines technique rationale rather than establishing a clinical obturation-outcome verdict for C-shaped canals.
 
 ## Open Questions / Gaps
 
-- **No PDRN/biologic or outcome-survival data** in this collection — every study is anatomical/prevalence or short case follow-up (1-year). Long-term tooth-survival outcomes of C-shaped vs non-C-shaped molars are not covered by the papers we hold.
+- **No PDRN/biologic or outcome-survival data** in this collection — every study is anatomical/prevalence, short case follow-up (1-year), or (as of Gharechahi 2026) in-vitro obturation-technique bench work. Long-term tooth-survival outcomes of C-shaped vs non-C-shaped molars are not covered by the papers we hold, and Gharechahi 2026's void-percentage/obturation-time findings are lab-only surrogates, not a survival endpoint.
 - **Counting-method heterogeneity** (per-tooth vs per-patient, Melton vs Fan) is the dominant source of between-study variance and is not fully resolved even by the SR+MA — direct cross-study prevalence comparison should be made cautiously.
 - **Premolar evidence is thin and discordant** (Yu's 1.1% vs Brea's 19.2% overall) — premolar C-shaped epidemiology is less settled than the molar story.
 
@@ -173,4 +175,5 @@ The danger of C-shaped anatomy is not just "extra canals" but **thin dentin over
 - [[endodontics/anatomy/pertek-hatipoglu-2025-radicular-grooves-cshaped-taurodontism-premolars]] — 20-country mandibular 1st-premolar dataset; C-shaped 10% (Asia 19%), co-quantifies radicular grooves & taurodontism; shared developmental pathway
 - [[endodontics/anatomy/tulegenova-2025-cshaped-canal-second-mandibular-premolar-sr-ma]] — SR+MA mandibular 2nd premolar ~1% pooled; confirms 1st PM ≫ 2nd PM gradient; South-America-highest deviation
 - [[endodontics/anatomy/biswas-2023-see-through-c-case-series]] — microscope-guided C1/C2 management; MTA apical plug rescue
+- [[endodontics/gharechahi-2026-ahplus-jet-obturation-cshaped-canals]] — first obturation-technique data in a C1 model: warm vertical compaction gives lowest void % (middle/coronal thirds) and fastest fill time with AH Plus Jet sealer, in 3D-printed replicas
 - [[endodontics/anatomy/wei-2025-cshaped-mandibular-first-molar-case]] — rare bilateral first-molar C-shape; first 4-canal-in-one-C-root report

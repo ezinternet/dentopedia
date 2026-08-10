@@ -1738,6 +1738,13 @@ tags: []
 - [[endodontics/gaafar-2025-inflammatory-response-neosealer-ceraseal-fibroblasts]] — Gaafar 2025 · in-vitro · CeraSeal > NeoSEALER Flo for HGF biocompatibility; both bioceramics dose-dependently cytotoxic/pro-inflammatory, AH Plus highest cytokines
 - [[endodontics/dahikar-2026-bioceramic-vs-epoxy-resin-sealer-postoperative-pain-umbrella]] — Dahikar 2026 · sr+ma(umbrella, SR 7편·RCT 63편, de novo 재메타분석, PMC 풀텍스트) · 바이오세라믹 실러가 에폭시레진 실러 대비 통계적으로 유의하나 임상적으로 미미한 통증 감소(24h SMD −0.15, 48h SMD −0.29), 그 이후 차이 없음 (DOI 10.3389/fdmed.2025.1749298)
 
+### Sealer-product batch (added 2026-07-11, PubMed full-text)
+- [[endodontics/gharechahi-2026-ahplus-jet-obturation-cshaped-canals]] — Gharechahi 2026 · in-vitro · AH Plus Jet + warm vertical compaction gives lowest void % and fastest obturation time (168s) in 3D-printed C1 C-shaped canal replicas
+- [[endodontics/gomez-gonzalez-2026-calcium-silicate-sealer-dentinal-tubule-irrigation-sr]] — Gómez-González 2026 · sr · Final-irrigation SR (21 in-vitro studies): NaOCl/EDTA most-investigated and favorable for calcium-silicate-sealer dentinal tubular penetration, but no single irrigant/activation protocol proven superior
+- [[endodontics/kamath-2025-hedp-triton-dislodgement-ahplus-ceraseal]] — Kamath 2025 · in-vitro · Dual Rinse HEDP gives highest push-out bond strength for both AH Plus (8.98 MPa) and CeraSeal (11.36 MPa) vs Triton and saline, with FTIR showing better dentin preservation
+- [[endodontics/sarilaksmi-2026-intact-mta-sealer-gutta-percha-surface-modification]] — Sarilaksmi 2026 · in-vitro · Plasma+CPC surface treatment hydrophilizes gutta-percha (contact angle 113°→22°) to enable additive-free intact MTA as a sealer, sealing ability comparable to ZnO reference
+- [[endodontics/fahmy-2026-polydopamine-gutta-percha-bioceramic-sealer]] — Fahmy 2026 · in-vitro · Polydopamine-coated gutta-percha + bioceramic sealer lowers apical dye penetration (3.04 vs 4.30mm), eliminates SEM interfacial gaps by day 28, and improves wettability (28.8° vs 77.4°) vs uncoated gutta-percha
+
 ## 근관치료 — GP 콘 소독·교차오염 (Endodontics: GP Cone Decontamination / Cross-infection)
 - [[endodontics/aucinaite-2025-naocl-chx-gutta-percha-cone-decontamination-sr]] — NaOCl vs CHX for gutta-percha cone decontamination (SR, 7 in vitro studies)
 - [[endodontics/raheja-2025-naocl-silver-chitosan-nanoparticle-gp-cone-disinfection]] — NaOCl vs silver/chitosan nanoparticles for gutta-percha cone disinfection (AFM, in vitro)
