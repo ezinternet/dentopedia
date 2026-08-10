@@ -10,8 +10,13 @@ evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/mehta-2021-tilted-axial-implants-edentulous-maxilla-sr-ma.pdf
 pdf_filename: mehta-2021-tilted-axial-implants-edentulous-maxilla-sr-ma.pdf
 source_collection: external
-tags: [tilted-implant, axial-implant, edentulous-maxilla, immediate-loading, all-on-4, marginal-bone-loss]
+tags: [tilted-implant, axial-implant, edentulous-maxilla, immediate-loading, all-on-4, marginal-bone-loss, superseded]
+superseded_by: implants/full-arch/del-fabbro-2022-full-arch-tilted-axial-implants-sr-ma
+superseded_scope: partial
 ---
+
+> [!warning] Superseded (partial) → [[implants/full-arch/del-fabbro-2022-full-arch-tilted-axial-implants-sr-ma]]
+> Del Fabbro 2022 SR+MA (JOMI, 24편, 5,594 경사 (Tilted)+5,611 수직 (Axial) 임플란트, 3~18년 추적)는 동일한 임상 질문(경사 vs 수직 임플란트 전악 수복 변연골소실 (Marginal Bone Loss, MBL)·생존율)에서 훨씬 큰 표본으로 **수직 임플란트 주위 MBL이 경사 대비 유의하게 낮음(P<.0001)**을 확인함 — 이 페이지(7편, MBL 유의차 없음 P=0.69)의 MBL 결론을 직접 반박. 악궁(상악 vs 하악) 차이가 MBL에 영향 없음(P=.17)으로 상악 제한 결과에도 동일 결론 적용됨. 즉시 로딩 (Immediate Loading) 특이성은 부분 잔류 — 변연골소실 근거는 del-fabbro-2022를 우선 인용할 것. (set 2026-08-11)
 
 ## Three-line Summary
 
