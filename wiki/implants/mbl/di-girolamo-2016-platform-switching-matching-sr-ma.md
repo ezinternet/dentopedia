@@ -10,8 +10,13 @@ evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/di-girolamo-2016-platform-switching-matching-sr-ma.pdf
 pdf_filename: di-girolamo-2016-platform-switching-matching-sr-ma.pdf
 source_collection: external
-tags: []
+superseded_by: implants/peri-implantitis/lin-2025-influence-of-prosthetic-designs
+superseded_scope: partial
+tags: [platform-switching, marginal-bone-loss, implant, systematic-review, meta-analysis]
 ---
+
+> [!warning] Superseded (partial) → [[implants/peri-implantitis/lin-2025-influence-of-prosthetic-designs]]
+> Lin 2025 AO/AAP SR+MA(J Periodontol, 93편)가 platform switching 20편을 포함해 종합; 이 di-girolamo-2016은 2016년 이전 15 RCT 한정. 현행 플랫폼 스위칭 MBL 근거는 lin-2025를 인용할 것. (set 2026-08-11)
 
 ## Three-line Summary
 
