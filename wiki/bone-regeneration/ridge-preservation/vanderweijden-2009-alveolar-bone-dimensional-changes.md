@@ -10,8 +10,13 @@ evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/vanderweijden-2009-alveolar-bone-dimensional-changes.pdf
 pdf_filename: vanderweijden-2009-alveolar-bone-dimensional-changes.pdf
 source_collection: external
-tags: [ridge-resorption, extraction-socket, dimensional-change, weighted-mean, baseline-data]
+superseded_by: bone-regeneration/ridge-preservation/couso-queiruga-2021-post-extraction-dimensional-changes-systematic
+superseded_scope: full
+tags: [ridge-resorption, extraction-socket, dimensional-change, weighted-mean, baseline-data, superseded]
 ---
+
+> [!warning] Superseded (full) → [[bone-regeneration/ridge-preservation/couso-queiruga-2021-post-extraction-dimensional-changes-systematic]]
+> Couso-Queiruga 2021 SR+MA (J Clin Periodontol, PROSPERO 등록, 28편·20편 풀링)가 동일한 임상 질문(처치 없는 발치 후 치조제 흡수)을 더 많은 연구·정식 메타분석·치아 유형별(비대구치 vs 대구치) 층화로 재정량화 — 비대구치 임상 수평 손실 −2.73 mm (95% CI 2.36–3.11), 대구치 수평 −3.61 mm. 이 페이지(12편, 가중평균만, MA 미시행, 3.87 mm 단일 추정치)의 단일 수치가 치아 유형 특이적 추정치로 대체됨. 발치 후 무처치 흡수 기준 수치는 couso-queiruga-2021을 우선 인용할 것. (set 2026-08-11)
 
 ## Three-line Summary
 
