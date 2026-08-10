@@ -3,7 +3,7 @@ title: "Platform switching: A panacea for bone loss??"
 authors: Desai MH, Patil VA
 year: 2013
 date: 2013-10-01
-doi: 10.4103/0972-124X.119282
+doi: 10.4103/0972-124X.119296
 source: desai-2013-platform-switching-bone-loss-review.md
 category: [implants/mbl]
 evidence_level: narrative-review

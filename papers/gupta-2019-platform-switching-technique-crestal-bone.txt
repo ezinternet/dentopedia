@@ -1,0 +1,333 @@
+I
+
+The overall success of dental implant depends on the presence of good amount and quality of bone around the implants, especially the crestal bone. However, early peri-implant bone loss has been commonly observed. Adell.[] were the first to quantify the marginal bone loss during the 1year of prosthetic loading.
+
+Initial crestal bone loss results in increased bacterial accumulation and secondary peri-implantitis which can further result in loss of bone support, which in turn can lead to occlusal overload and crestal bone loss ultimately resulting in implant failure. Further marginal bone loss affects the gingival contours and in turn results in loss of interproximal papilla.[]
+
+Albrektsson.[] found that the installation of two-piece implants healing in a submerged modality resulted in a crestal bone loss of 1.5–2.0 mm after 1 year of loading. Moreover, in experimental studies in dogs, a crestal bone remodeling with a resorption of 2 mm has been verified.[] Clinicians, researchers, and implant companies have, thus, dedicated time to finding ways to control the crestal bone loss that occurs after abutment connection.
+
+At the Toronto Conference,[] the consensus with respect to bone loss around the implant was that bone loss of up to approximately 2 mm during the 1year of implant function is acceptable, and at this level, the implant is regarded as successful. There have been many reports on studies to ascertain the causes of bone loss around implants and clinical techniques to prevent it. Some of the published reports state that the platform switching (PLS) technique, a technique in which an abutment that is one size smaller than the implant platform is placed which prevents bone loss around the implant.[] Such a connection shifts the perimeter of the implant-abutment junction (IAJ) inward toward the central axis of the implant. The crestal bone loss can be reduced by repositioning the outer edge of the implant-abutment interface horizontally inward and away from the outer edge of the implant platform.
+
+Therefore, crestal bone preservation should be thought of even before the treatment planning for implant placement. Various approaches have been described in the literature to prevent the crestal bone loss. PLS is one of them. This paper, therefore, reviewed the literature regarding PLS and its impact on the crestal bone.
+
+MM
+
+PubMed and Google Scholar search was done to find out the studies related to PLS for crestal bone preservation. A literature search was done from 2005 to 2017. Keywords used for the search were “crestal bone preservation,” “crestal bone loss,” “PLS,” “small diameter abutments, “immediate implant placement and PLS,” and “loading in implants.”
+
+Exclusion criteria
+
+Unpublished papers, letters to the editor, historical reviews, and case reports published in languages other than English
+
+Studies with no results
+
+Studies for which the abstracts were only available and the full article was yet to be published.
+
+Statistical analysis
+
+The collected data were revised, coded, tabulated, and introduced to a PC using Statistical Package for Scientific Studies for Windows SPSS 20, IBM, Armonk, NY, USA. Comparison between two quantitative variables was carried out by unpaired Student's-test for independent samples. The different experimental times were compared using analysis of variance test. A value of= 0.05 or less was considered for statistical significance.
+
+R
+
+Platform switching and crestal bone loss
+
+The concept of PLS has been considered in various articles including case reports and original studies.[] These case reports and some clinical findings suggested preservation of the peri-implant crestal bone and superior soft-tissue conditions around PLS implants. However, there is a lack of scientific evidence regarding the biological mechanism by which this is achieved. It is necessary to clarify the causal relationship and mechanism of prevention of crestal bone resorption around PLS implants. A certain level of stable bone around the implant neck is a prerequisite for achieving support and long-lasting, optimal, and stable gingival contours. In clinical settings, the incorporation of the PLS concept into the implant treatment and an understanding of the biologic width facilitates the preservation of crestal bone. Ericsson.[] indicated that bone is always encircled by approximately 1 mm of healthy connective tissue, so it can be assumed that crestal bone remodeling takes place to create space between the bone and inflammatory cell tissue (ICT) to establish a biological seal.
+
+PLS refers to the use of a smaller diameter abutment on a larger diameter implant collar. This type of connection shifts the perimeter of the IAJ inward toward the central axis of the implant. Lazzara and Porter[] have hypothesized that shifting the IAJ inward also shifts the inflammatory cell infiltrate inward and away from the crestal bone.
+
+In short, (1) inward movement of the IAJ is believed to shift the inflammatory cell infiltrate toward the central axis of the implant and away from the adjacent crestal bone; (2) connective tissue thickens laterally, which increases blood flow around that area; and (3) ICT is confined above the level of the implant platform. These changes protect crestal bone (i.e., bone around the implant shoulder) from ICT. As a result, the biologic width does not decrease to cover up the ICT (i.e., to establish a biological seal), and as such, there is no bone remodeling (i.e., crestal bone loss).[]
+
+As of July 2009, there are nine reports on humans studies[] [] with respect to the effect of PLS in the prevention of early bone loss. Most of these reports conclude that PLS has a positive effect on the preservation of crestal bone loss. In the studies in humans, bone loss around the top of the implant was measured by means of digital X-ray, and the longest observation period was approximately 2 years. The Biomet 3i implant system was used in the majority of the studies (6 of the 9 reports). It was Biomet 3i that established the concept of PLS.
+
+Table 1
+
+Studies relating the platform switching and bone loss
+
+Authors published year
+
+Number of patients age (mean±SD)
+
+Number of implant (control)
+
+Type of implant (manufacture)
+
+Bone resorption/bone change (unit: mm)
+
+PLS (abutment/implant) unit: mm
+
+Gender ratio
+
+Canullo.[]
+
+22
+
+22 (11)
+
+Global implant (Sweden and Martina)
+
+Test: overall: 0.3±0.157
+
+50±14.46
+
+13 male, 9 female
+
+M: 0.25±0.123 (0.07-0.47)
+
+5.5/5.5
+
+3.8/5.5
+
+D: 0.36±0.157 (0.09-0.8)
+
+Control: Overall: 1.19±0.138
+
+M: 1.13±1.25 (0.58-1.85)
+
+D: 1.25±0.404 (0.62-1.8)
+
+Calvo-Guirado.[]
+
+50
+
+61 (no control)
+
+Certain Prevail (Biomet 3i)
+
+M: 0.08±0.53
+
+4.1/4.8
+
+D: 0.09±0.65
+
+39.64±6.06
+
+25 male, 25 female
+
+Prosper., 2009[]
+
+60
+
+360 (180)
+
+Winxix (Winxix Ltd)
+
+Percentage of implants with no crestal bone loss: (test vs. control)
+
+53.9±6.8
+
+3.3/3.8
+
+12 months: 98.3% versus 66.1%
+
+32 male, 28 Female
+
+3.8/4.5
+
+(<0.001)
+
+Rodríguez-Ciurana.[]
+
+37
+
+82 (no control)
+
+Certain Prevail (Biomet 3i)
+
+M: 0.7±0.57
+
+No data
+
+4.1/4.8
+
+D: 0.55±0.52
+
+5.0/5.8
+
+17 male, 20 female
+
+4.1/5.0
+
+3.4/4.1
+
+Calvo Guirado.[]
+
+18
+
+105 (no control)
+
+Certain Prevail (Biomet 3i)
+
+0.6±1.0 (−2.6-0.8)
+
+55.97±7.25
+
+4.1/4.8
+
+3 male, 15 female
+
+4.1/5
+
+Cappiello.[]
+
+45
+
+131 (56)
+
+Certain Prevail (Biomet 3i)
+
+Test: 1.05±0.22
+
+Control: 1.78±026
+
+No data
+
+4.1/4.8
+
+Bone loss: Test: 0.95±0.32 (0.6-1.2)
+
+No data
+
+4.1/4.1
+
+Control: 1.67±0.37 (1.3-2.1)
+
+Canullo and Rasperini[]
+
+9
+
+10 (no control)
+
+10 (no control) TSATM Series
+
+M 0.57 (0.002±1.02)
+
+45.9
+
+5 Defcon (defcon
+
+D 1.01 (0.230±1.592)
+
+implant system)
+
+2 male, 7 female
+
+4.0/6.0
+
+Hürzeler.[]
+
+15
+
+22 (8)
+
+Osseotite External
+
+Bone level change (base line-12 months)
+
+55.3
+
+HEX (Biomet 3i)
+
+7 male, 8 female
+
+Test: −0.09±0.65−0.22±0.53
+
+4.1/5.0
+
+Mean: −0.12±0.40
+
+Control: −1.73±0.4−2.02±0.49
+
+4.1/4.1
+
+Calvo Guirado.[]
+
+10
+
+10 (no control)
+
+Certain Prevail (Biomet 3i)
+
+Mean bone loss
+
+No data
+
+4.1/4.8
+
+Central incisor: M 0.05, D 0.07
+
+3 male, 7 female
+
+3.8/4.1
+
+Lateral incisor: M 0.07, D 0.06
+
+Overall: Less 1.0 mm
+
+PLS=Platform switching, SD=Standard deviation
+
+Immediate implant placement
+
+Canullo.[] reported on short-term bone level response around single, immediately placed and provisionalized PLS implants (maxillary only) using data from two different sites. The mean follow-up period was 25 months, and the average bone resorption level in the PLS group (0.3 ± 0.16 mm) was smaller than that in the non-PLS group (1.19 ± 0.35 mm), and this difference was statistically significant (< 0.005).
+
+Calvo-Guirado.[] also reported on bone level response around single, immediately placed and provisionalized implants in the anterior region and first premolar of maxillae. The mean follow-up period was 12 months, and the average mesial and distal aspect bone resorption level in the PLS group was 0.08 ± 0.53 mm and 0.09 ± 0.65 mm, respectively. There was no control group in this study, and the data used were from one site only. The authors concluded that minimal crestal bone resorption was recorded and altered when the PLS technique was used.
+
+Canullo and Rasperini[] evaluated soft- and hard-tissue responses to single, immediately placed and provisionalized PLS implants in the anterior and posterior regions of maxillae. Bone resorption around the implants was 0.78 ± 0.36 mm, which is significantly lower than the mean reference value of 1.7 mm. Notably, in this report, the mean values of bone resorption were compared to mean reference values instead of a control group. This study suggests that single, immediately placed and provisionalized implants (maxillary only) using the PLS technique can provide peri-implant hard tissue stability with soft tissue and papillae preservation during the 18–36-month follow-up period.
+
+Baumgarten.[] described the PLS technique and its use in situations requiring shorter implants, where implants are placed in esthetic zones, and where a larger implant is desirable but prosthetic space is limited. They also stated that a sufficient tissue depth (approximately 3 mm or more) is necessary to accommodate an adequate biologic width. They concluded that PLS helps in preventing the anticipated bone loss and also preserve crestal bone.
+
+Gardner[] discussed the changes that occur when an implant is placed in the bone and presented a case study using platform-switched implants. He described that PLS can limit osseous and esthetic changes around the implants. Although PLS can effectively control circumferential bone loss around dental implants, he concluded that this concept needed further investigation. Furthermore, he noted several disadvantages such as the need for components with similar designs (the screw access hole must be uniform) and the need for enough space to develop a proper emergence profile.
+
+Comparison of platform- and nonplatform-switched implants
+
+Salamanca. conducted a study to observe the changes in vertical and horizontal marginal bone levels in platform-switched and platform-matched dental implants in 51 patients who received 60 dental implants over a period of 1 year. Measurement was performed between the implant shoulder and the most apical and horizontal marginal defect by periapical radiographs to examine the changes of peri-implant alveolar bone before and 12 months after prosthodontic restoration delivery. These marginal bone measurements showed a bone gain of 0.23 ± 0.58 mm in the vertical gap and 0.22 ± 0.53 mm in the horizontal gap of platform matching, while in PLS, a bone gain of 0.93 ± 1 mm (< 0.05) in the vertical gap and 0.50 ± 0.56 mm in the horizontal gap was found. It was concluded that PLS seemed to be more effective for a better peri-implant alveolar bone vertical and horizontal gap reduction at 1 year.[]
+
+Hürzeler.[] compared crestal bone loss around platform-switched and nonplatform-switched implants. They found that the mean crestal bone loss was 0.22 mm in platform-switched implants and 2.02 mm in nonplatform-switched implants. They also concluded that reduction of the abutment of 0.45 mm on each side is sufficient to avoid peri-implant bone loss. Another study by Cappiello.[] found that vertical bone loss for the platform-switched cases varied between 0.6 and 1.2 mm (mean: 0.95 ± 0.32 mm), while for the cases without PLS, the bone loss was between 1.3 and 2.1 mm (mean: 1.67 ± 0.37 mm). An average of 1–2 mm of bone loss occurs in nonplatform-switched implants, while minimal bone loss occurs in platform-switched implants. Thus, all preliminary evidences in literature suggest that the anticipated bone loss that occurs around two-stage hexed implants may be reduced or eliminated when implants are restored with smaller diameter abutments, a practice termed as “PLS.”
+
+Platform switching effect with respect to interimplant distance
+
+Rodriquez-Ciurana.[] evaluated adjacent PLS implants placed <3 mm apart to determine whether they demonstrated less three-dimensional bone resorption than that previously reported around non-PLS implants.
+
+The study used 41 pairs (adjacent placement) of implants and measured horizontal and vertical bone resorption as well as bone peak. Mean vertical bone resorption was 0.62 mm, and horizontal bone resorption was 0.60 mm. The bone peak extended coronally (0.24 mm) beyond an imaginary line connecting the two implant/abutment interfaces. The authors concluded that the PLS technique can help to preserve peri-implant bone and retain the interproximal bone peak compared to conventional (non-PLS) implant restorations.
+
+Finite element analysis
+
+As of July 2009, there are five finite element analysis (FEA)-related reports with respect to PLS.[]
+
+The implant models used in FEA could be classified into two groups based on abutment joint type, namely, butt joint (e.g., Replace Select and 3i threaded implant) and taper joint (e.g., Straumann, ASTRA, and Ankylos). Many of these studies examined vertical and diagonal loads on implants. The angles of the diagonal loads were between 158 and 308, and the loads were between 10 N and 250 N, which is a wide range.
+
+The objectives of the reports varied slightly: Canay and Akça[] examined stress distribution in abutments of Ankylos implants of different diameters and emergence profiles.
+
+In all Ankylos implants, the diameter of the abutment is smaller than that of the implant platform, and as such, their design is based on the PLS concept (in other words, there was no control). By contrast, Schrotenboer.[] and Maeda.[] simply evaluated the biomechanical advantages of implants with butt joints in relation to PLS.
+
+D
+
+In the current study, over a period of almost a year, it could be demonstrated that implants restored according to the PLS concept experienced significantly less marginal bone loss than implants with matching implant abutment diameters.
+
+Having reviewed the available literature, it has been confirmed that PLS is a major contributing factor in limiting crestal bone resorption. Certain biological width is necessary to maintain the soft tissues and hard tissues. In PLS, the IAJ is shifted inward. This will not only shift the inflammatory infiltrate inward away from the crestal bone but also provide an additional horizontal biological width, hence preserving the crestal bone. At the same time, the microgap is shifted away from the crestal bone, decreasing the probability of resorption.[]
+
+The etiology of bone remodeling was believed to be dependent on the localized inflammation of the peri-implant soft tissue.[]
+
+This view was been supported, especially in view of the microgap at the IAJ inflammatory cell infiltrate of the abutment, where it is always possible to detect bacterial infiltration, as reported by Jansen.[]
+
+This infiltrate was extended vertically for about 0.5–0.75 mm coronal to the IAJ and 0.5–0.75 apical to the IAJ. The ICT never ended in contact with the bone but was separated from it by an approximately 1 mm wide layer of healthy connective tissue.
+
+More recently, Warren.[] reported that crestal bone resorption of 1.0–1.5 mm may occur almost immediately after implant loading. These findings are in accordance with the results of other authors Weng.[]
+
+The PLS concept is a recent approach which focused on controlling or decreasing the horizontal component of the bone loss; it refers to the use of a smaller diameter abutment on a larger diameter implant platform. Such a connection shifts the perimeter of the IAJ inward toward the central axis of the implant to preserve marginal bone from stress concentration. It is also believed that inward movement of IAJ shifts the inflammatory cell infiltration to the central axis of the implant and away from the adjacent crestal bone which is thought to restrict crestal bone resorption. Moreover, crestal bone loss and soft tissue stability are influenced by the abutment collar length which controls the final crown margin location and the subsequent esthetic outcome.[]
+
+All studies comparing the platform-switched and nonplatform-switched implants suggested that platform switched implants result in lesser marginal bone resorption.
+
+Implant-abutment interface is a very important criterion for implant success. PLS increases the distance between IAJ and the crestal bone, thereby increasing microgap to crestal bone distance, hence preserving the crestal bone, but it does not affect the width of the microgap. Precision fit of implant-abutment connection in Morse taper or internal hex implants offers an additional advantage of reduced microgap. Hence, the introduction of combination of Morse taper connection and PLS can be a boon to implant dentistry.
+
+One study reported that peri-implant probing around implant is a good prediction of crestal bone loss.[] In addition, there is scientific evidence of correlation between the levels of the bone at the probing penetration.[]
+
+C
+
+The concept of crestal bone loss around the implant plays an important role for the overall success rate. PLS helps to prevent the bone loss around the implants, and thus this concept can be used in clinical practice.
+
+Financial support and sponsorship
+
+Nil.
+
+Conflicts of interest
+
+There are no conflicts of interest.

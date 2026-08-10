@@ -1,0 +1,117 @@
+I
+
+Dental implants are a widely accepted treatment modality for the rehabilitation of edentulous spaces, with high survival rates. However, crestal bone loss (CBL) remains a concern and can jeopardize esthetic and functional outcomes.[] While several factors contribute to bone resorption around implants—such as surgical trauma, microgap positioning, and inflammatory infiltration—prosthetic design elements, including platform switching (PS), have gained increasing attention for their role in preserving peri-implant bone.[]
+
+PS involves using a smaller diameter abutment on a larger diameter implant platform. This configuration is hypothesized to move the implant-abutment microgap inward, thereby distancing it from the bone crest and reducing inflammatory bone resorption.[] Severaland animal studies have supported this theory.[] Furthermore, systematic reviews and meta-analyses suggest that PS may offer superior outcomes in terms of marginal bone preservation compared to platform matching (PM).[]
+
+Despite the theoretical and preliminary clinical evidence, few prospective clinical trials have directly compared PS and PM over extended periods with standardized methodologies. In addition, the effect of PS on associated clinical parameters like probing depth (PD), plaque index (PI), and bleeding on probing (BOP) remains underexplored in controlled settings.[]
+
+MM
+
+Study design and sample size
+
+This was a prospective, randomized controlled clinical trial conducted at the Department of Periodontology and Implant Dentistry over 18 months. Based on a power calculation (α =0.05, β =0.20), a sample size of 60 patients (30 per group) was determined to detect a minimum difference of 0.3 mm in marginal bone loss.
+
+Inclusion criteria
+
+Age between 20 and 60 years
+
+Systemically healthy individuals
+
+Single posterior missing tooth (mandible or maxilla)
+
+Adequate bone volume without grafting
+
+Signed informed consent.
+
+Exclusion criteria
+
+Smokers (>10 cigarettes/day)
+
+History of periodontitis
+
+Bruxism or parafunctional habits
+
+Bisphosphonate or steroid therapy
+
+Uncontrolled systemic diseases.
+
+Implants and procedure
+
+All patients received titanium, screw-type implants (4.5 mm diameter, 10 mm length). PS group implants received abutments of 3.5 mm diameter; PM group implants received abutments of 4.5 mm diameter. All surgeries were performed by a single experienced surgeon under local anesthesia using a flapless approach when feasible.
+
+Healing abutments were placed after 3 months, followed by final restorations at 4 months post-placement.
+
+Radiographic and clinical assessment
+
+Standardized periapical radiographs using a paralleling technique were taken at baseline (prosthesis placement), 6 months, and 12 months. Marginal bone level was measured from the implant shoulder to the first bone-to-implant contact on mesial and distal sides using ImageJ software.
+
+Clinical parameters including PD, PI, and BOP were assessed at 6 and 12 months using a UNC-15 periodontal probe.
+
+Statistical analysis
+
+Data were analyzed using SPSS version 25 (IBM Corp., Armonk, NY, USA).
+
+R
+
+Participant characteristics
+
+All 60 participants (32 males, 28 females) completed the 12-month follow-up. Mean age was 42.6 ± 8.3 years. No significant differences in age, gender distribution, or implant location were noted between the two groups (> 0.05).
+
+Marginal bone loss
+
+At 6 months, mean CBL was 0.19 ± 0.10 mm in the PS group and 0.54 ± 0.16 mm in the PM group. At 12 months, the PS group exhibited 0.32 ± 0.15 mm bone loss versus 0.81 ± 0.22 mm in the PM group (< 0.001) [].
+
+Table 1
+
+Mean marginal bone loss at different time points
+
+Time point
+
+PS Group (mm)
+
+PM Group (mm)
+
+P
+
+6 months
+
+0.19±0.10
+
+0.54±0.16
+
+<0.001
+
+12 months
+
+0.32±0.15
+
+0.81±0.22
+
+<0.001
+
+Clinical parameters
+
+At 12 months, mean PD was 2.5 ± 0.6 mm in the PS group and 2.9 ± 0.7 mm in the PM group (= 0.08). BOP was observed in 10% of PS sites compared to 17% in PM sites (= 0.21). PI scores were comparable across groups.
+
+Complications
+
+Two patients in the PM group showed early signs of mucositis. No implant failures were recorded in either group.
+
+D
+
+This 12-month clinical trial demonstrates that PS significantly reduces CBL around dental implants compared to platform matching. These findings align with previous reports suggesting the biomechanical and biological advantages of the PS concept.[]
+
+One proposed mechanism for this advantage is the lateral displacement of the inflammatory infiltrate at the implant-abutment junction away from the bone crest, thereby mitigating bone remodeling.[] Furthermore, PS may reduce stress concentration in crestal bone regions by altering force distribution, which could account for the observed preservation.[]
+
+The observed difference in marginal bone loss (0.49 mm) is clinically relevant, given that annual CBL >0.2 mm after the first year may compromise long-term implant prognosis.[] Our results are consistent with systematic reviews by Atieh. and Strietzel., which found a mean bone loss reduction of ~0.3–0.5 mm in PS implants over 1 year.[]
+
+Although PD and BOP were lower in the PS group, the differences did not reach statistical significance, likely due to the small sample size and short duration. Nevertheless, the trend supports the potential peri-implant soft tissue benefits of PS.[]
+
+C
+
+PS significantly reduces peri-implant CBL over a 12-month period compared to platform matching. These findings support the integration of PS in routine implant protocols for enhanced marginal bone preservation and potentially improved long-term prognosis.
+
+Conflicts of interest
+
+There are no conflicts of interest.
