@@ -2013,6 +2013,7 @@ tags: []
 - [[tmj/gurgel-2023-mad-vs-mma-upper-airway-3d-cbct]] — 후향적 CBCT (MAD vs MMA): MAD=시계방향 회전·상부 구인두 확장; MMA=반시계방향·전체 상기도 더 큰 확장 (BMC Oral Health 2023)
 - [[tmj/wang-2024-tmj-ovd-elevation-occlusal-loss-rats]] — 동물 연구 (쥐, 8주): OVD 증가는 교합 상실보다 과두 연골 손상 더 빠르고 심함; 연골하골 회복 지연 (J Oral Rehabil 2024)
 - [[tmj/haggman-henrikson-2017-pharmacological-orofacial-pain-sr-ma]] — SR+NMA (57 RCT): TMD-관절에 NSAIDs/IA corticosteroid·hyaluronate; TMD-근육에 cyclobenzaprine; BMS에 clonazepam·capsaicin — GRADE 근거 낮음 (J Oral Rehabil 2017)
+- [[tmj/al-hamed-2026-pharmacological-intraarticular-tmd-nma]] — SR+NMA (23 RCT, 1264명): 관절내 TMD(원판 변위·골관절염) 약물치료 — DD에 MESNA·HA 장기 효과, OA에 글루코사민+HA 장기 통증·개구량; 전반 근거 확실성 매우 낮음 (Odontology 2026)
 - [[tmj/gonzalez-sanchez-2023-tmj-physiotherapy-treatment-sr]] — SR (15 RCT): 수기치료+운동치료 병용이 TMD 물리치료 중 최선; 모든 physiotherapy 모달리티 효과적 (J Clin Med 2023)
 - [[tmj/koole-2019-spray-stretch-technique-mouth-opening]] — 전향 임상연구 (n=121: 통증 60+대조 61): vapocoolant 분사신장이 최대개구량(MMO) 즉시 증가, 통증군>대조군(P<.001); 통증 없는 stretch 대안 (J Prosthet Dent 2019, 초록 기반)
 - [[tmj/pal-2014-trends-management-myofascial-pain]] — Narrative review (악안면): 마스티케이션 근막통 2단계 치료 알고리즘 — 분사신장·교합스플린트·물리치료(초음파·TENS·LLLT)·트리거포인트 주사·근이완제·TCA·BTX (Natl J Maxillofac Surg 2014, 전문)
