@@ -42,6 +42,7 @@ The cluster's null-but-honest data point. Direction favors plasma (higher BA, bo
 
 - 18 SLA implants, untreated vs VP, in femurs of 6 rabbits; 4-week sacrifice.
 - Endpoints: BIC, bone area ratio (BA), bone volume (micro-CT), ISQ.
+- **Device (added 2026-08-10):** ACTILINK™ mini (Plasmapp Co., Ltd.) — implant seated in device slot, ~10 s vacuum pump-down, then **VP-treated for 60 s** at ~5 Torr, DBD configuration (packaging as dielectric barrier, device body as powered electrode). No external gas.
 
 ## Results
 
@@ -56,3 +57,4 @@ The cluster's null-but-honest data point. Direction favors plasma (higher BA, bo
 - [[implants/surface/plasma/nevins-2023-gas-plasma-titanium-implant-osseointegration]] — foxhound, significant at specific timepoints.
 - [[implants/surface/plasma/naujokat-2019-cold-argon-plasma-osseointegration-pigs]] — pig, modest gains.
 - [[implants/surface/plasma/pesce-2020-photo-plasma-activation-titanium-sr-ma]] — meta-analysis.
+- [[implants/surface/plasma/stacchi-2025-vacuum-plasma-early-implant-stability-rct]] / [[implants/surface/plasma/kim-2025-plasma-surface-treatment-implant-stability-retrospective]] / [[implants/surface/plasma/lee-h-2022-dbd-plasma-titanium-implant-osseointegration]] — same Korean chairside vacuum-DBD device family (Plasmapp/MegaGen), all ~50-60 s cycles — see [[overviews/plasma-surface-treatment-dental-implants]] device-parameter table.
