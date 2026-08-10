@@ -3957,6 +3957,7 @@ tags: []
 - [[sinus-lift/lateral/kim-2026-collagen-membrane-fibrin-sinus-perforation]] — Resorbable collagen membrane + fibrin glue handle technique for Schneiderian membrane repair (2026)
 - [[sinus-lift/lateral/paetnukroh-2024-sinus-dhdtm-dbbm-rct]] — RCT: DHDTM vs DBBM for sinus floor augmentation — volumetric and implant stability outcomes (2024)
 - [[sinus-lift/lateral/kim-2007-maxillary-sinus-volume-ct-graft-placement]] — CT-based 3D measurement of maxillary sinus volume for graft material estimation (2007)
+- [[sinus-lift/lateral/schiavo-di-flaviano-2024-schneiderian-perforation-implant-survival-sr-ma]] — SR+MA: 슈나이데리안막 천공 수복 후 임플란트 생존율 97.1% vs 비천공 97.7%, 유의차 없음 (OR=0.78, I²=0%); n=5,052개 임플란트 (2024)
 
 ### bone-regeneration
 - [[bone-regeneration/stephan-1999-anorganic-bovine-bone-osteoblastic-attachment]] — In vitro: anorganic bovine bone supports osteoblastic cell attachment and proliferation (1999)
