@@ -12,8 +12,8 @@ pdf_filename: pimenta-barros-2025-leukoplakia-malignant-transformation-sr-ma.pdf
 source_collection: external
 tags: [leukoplakia, malignant-transformation, opmd, systematic-review, meta-analysis, dysplasia, risk-factors]
 relations:
-  - type: extends
-    target: aguirre-urizar-2021-leukoplakia-malignant-transformation-sr-ma
+  - type: supersedes
+    target: oral-medicine/opmd/aguirre-urizar-2021-leukoplakia-malignant-transformation-sr-ma
   - type: reinforces
     target: sapkota-2024-oral-leukoplakia-recurrence-malignant
 ---
