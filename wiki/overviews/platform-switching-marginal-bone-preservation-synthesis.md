@@ -15,6 +15,10 @@ source_papers:
   - implants/mbl/strietzel-2015-platform-switching-mbl-sr-ma
   - implants/mbl/messias-2019-platform-switching-mbl-5year-rct
   - implants/mbl/juan-montesinos-2022-platform-switching-conventional-sr-ma
+  - implants/mbl/hurzeler-2007-peri-implant-bone-level-platform-switched
+  - implants/mbl/canullo-2007-platform-switching-immediate-extraction-sockets
+  - implants/mbl/rodriguez-ciurana-2009-interimplant-distance-platform-switched-bone-crest
+  - implants/mbl/gupta-2019-platform-switching-crestal-bone-loss-sr
 evidence_level: synthesis
 source: synthesis
 relations:
@@ -33,6 +37,7 @@ relations:
 > - **역사적 흐름**: **플랫폼 스위칭은 애초부터 설계된 기법이 아니었다** — Lazzara & Porter 2006이 origin point: 1991년 광경 임플란트 출시 당시 매칭 지대주 재고 부족으로 우연히 협경 지대주가 얹힌 케이스들에서 골소실이 더 적다는 사후 방사선 관찰이 출발점(우연한 발견 → 사후 명명·가설화). Salimi 2011·Desai 2013(서술리뷰, 기전 정교화 단계) → Enkling 2013·Rocha 2016(개별 RCT로 검증) → Strietzel 2015·Di Girolamo 2016(첫 SR+MA로 정량 확정) → Messias 2019(5년 장기 확증) → Juan-Montesinos 2022(최신 SR+MA로 재확인). 20년에 걸쳐 우연한 관찰→명명→기전화→검증→정량화→장기확증의 흐름.
 > - **임상 적용**: 심미구역·협착 치조제(<3mm)·짧은 임플란트·골높이 제한 상황에서 PS 우선 고려(Salimi 2011의 적응증 제안이 이후 문헌으로 뒷받침됨). 즉시부하와의 조합 근거는 초기(2011)엔 불충분했으나 이후 문헌은 아직 이 위키에 별도 종합되지 않음 — gap.
 > - **근거 한계**: 절대적 MBL 감소치(0.2~0.5mm)는 통계적으로 유의하나 임상적으로 작다 — Albrektsson 성공기준(1년 <1.5mm) 안에서의 미세조정에 가깝다. 이질성(heterogeneity)이 SR+MA마다 보고방식이 달라 직접 비교가 어렵다.
+> - **[2026-08-10 추가] 얼마나 벌려야 하나(offset magnitude)**: 기존 9편은 전부 "PS 했다/안 했다"만 비교했지 오프셋 크기 자체는 다루지 않았음 — 신규 4편(Hürzeler 2007·Canullo & Rasperini 2007·Rodríguez-Ciurana 2009·이들을 엮은 Gupta 2019 리뷰)이 실제 편측 미스매치 수치를 공급. Hürzeler 2007: **편측 0.45mm 축소가 골소실 방지에 "충분"**하다는, 이 위키에서 가장 구체적인 임계값 주장(단, 소규모·비무작위·단일 오프셋 시험). Canullo 2007은 1.0mm(가장 큰 값)도 효과 있었음을 보고(대조군 없는 증례군). 그러나 어느 연구도 오프셋 크기를 독립변수로 통제한 용량-반응 시험은 아니므로, **검증된 최소 임계값이나 dose-response 곡선은 여전히 확립되지 않음**. Rodríguez-Ciurana 2009는 별개로 임플란트 간 거리(<3mm 근접배치에서도 PS가 골첨부 보존) 데이터도 제공 — 오프셋 크기 질문과 혼동 금지.
 
 ## Three-line Summary
 
@@ -78,6 +83,21 @@ Platform switching is one of the few implant design questions in this wiki where
 | [[implants/mbl/salimi-2011-platform-switching-current-results]] | narrative-review | — | Compiled range 0.05–1.4 mm vs ~1.67 mm PM; indications: esthetic zone, narrow ridge <3mm, short implants | — | No original data (foundational, 2011) |
 | [[implants/mbl/lazzara-2006-platform-switching-new-concept]] | narrative-review (retrospective radiographic observation) | — | Accidental narrow-abutment cases (1991 inventory gap) showed less-than-expected crestal bone loss; coined "platform switching" | — | No original quantitative data reported in abstract (origin paper, 2006) |
 
+## Offset Magnitude — How Much Mismatch Is Needed?
+
+**[Added 2026-08-10, 4 papers]** Every study above compares PS (any offset) vs PM (zero offset) — none stratifies by *how much* offset. Four newly ingested papers close part of that gap by reporting the actual per-side horizontal mismatch (half the implant-minus-abutment diameter difference) tested in individual primary studies, rather than only the PS-vs-PM outcome number.
+
+| Study | Per-side offset | Design | Bone outcome |
+|---|---|---|---|
+| [[implants/mbl/hurzeler-2007-peri-implant-bone-level-platform-switched]] | 0.45 mm (5mm implant/4.1mm abutment) | prospective, non-randomized, n=14 vs 8 | PS -0.22mm vs non-PS -2.02mm at 1yr (P≤.0001); authors conclude 0.45mm/side "seems sufficient" |
+| [[implants/mbl/rodriguez-ciurana-2009-interimplant-distance-platform-switched-bone-crest]] | 0.35–0.45 mm (4 diameter pairs) | prospective, n=37 patients | M 0.7±0.57mm, D 0.55±0.52mm (offset dataset, per Gupta 2019's table) |
+| [[implants/mbl/canullo-2007-platform-switching-immediate-extraction-sockets]] | 1.0 mm (6mm implant/4mm abutment) — largest in this cluster | case series, n=9, uncontrolled | 0.78±0.36mm aggregate vs 1.7mm reference (P≤.005) |
+| [[implants/mbl/gupta-2019-platform-switching-crestal-bone-loss-sr]] | compiles 9 studies, mostly 0.25–0.45mm/side | narrative review | all 9 favored PS; no dose-response analysis performed by the review itself |
+
+**What this does and does not establish.** Hürzeler 2007's 0.45 mm/side "sufficient" conclusion is the closest thing in this wiki's evidence base to a stated minimum-effective threshold — but it is a single small (n=14 vs 8) non-randomized, single-offset, 1-year study; the claim was never dose-response tested against smaller offsets within that trial. Canullo & Rasperini 2007 shows an offset roughly double that (1.0mm/side) also worked, in an uncontrolled case series that confounds PS with immediate placement and immediate loading. Across the compiled studies, offsets from 0.15mm to 1.0mm all reportedly reduced bone loss relative to platform matching — but because no single study varied offset magnitude as its own independent variable, **the wiki still cannot state a validated minimum-effective mismatch or a dose-response curve.** The practical range actually used across implant systems and primary studies clusters at 0.25–0.45mm/side; 1.0mm is an outlier, not a typical design choice.
+
+**A distinct, easy-to-conflate "distance" question**: [[implants/mbl/rodriguez-ciurana-2009-interimplant-distance-platform-switched-bone-crest]]'s primary finding is not abutment-offset magnitude but *inter-implant* spacing — 41 pairs of adjacent PS implants placed <3mm apart (closer than Tarnow et al. 2000's classic 3mm rule for non-PS implants) still preserved a measurable interproximal bone peak (0.24mm coronal to the imaginary IAJ-to-IAJ line), extending [[implants/mbl/tarnow-2000-inter-implant-distance-crestal-bone-height]]'s rule to platform-switched implants. This is a separate clinical question from "how much narrower should one abutment be" and should not be conflated with it.
+
 ## Clinical Decision Points
 
 1. **Default to platform switching when the restorative system allows it** — the bone-preservation benefit is well-replicated (3 SR+MA, 3 RCTs, all directionally consistent) and carries no survival penalty in any study this wiki holds.
@@ -88,7 +108,8 @@ Platform switching is one of the few implant design questions in this wiki where
 
 ## Gaps & Future Research
 
-- No paper in this cluster directly tests PLS combined with immediate loading with adequate power — Salimi 2011 flagged this as unresolved in 2011, and no newer synthesis in this wiki closes the gap.
+- **[Partially closed 2026-08-10]** How much horizontal mismatch is needed was previously an unaddressed question — 4 newly ingested papers ([[implants/mbl/hurzeler-2007-peri-implant-bone-level-platform-switched]], [[implants/mbl/canullo-2007-platform-switching-immediate-extraction-sockets]], [[implants/mbl/rodriguez-ciurana-2009-interimplant-distance-platform-switched-bone-crest]], [[implants/mbl/gupta-2019-platform-switching-crestal-bone-loss-sr]]) now supply per-study offset dimensions (see § Offset Magnitude above) and one specific threshold claim (0.45mm/side, Hürzeler 2007). Still open: no study within this wiki varies offset magnitude as its own controlled independent variable, so a true dose-response curve or validated minimum-effective threshold remains unestablished.
+- No paper in this cluster directly tests PLS combined with immediate loading with adequate power — Salimi 2011 flagged this as unresolved in 2011, and no newer synthesis in this wiki closes the gap. (Canullo & Rasperini 2007 combines PS + immediate placement + immediate loading in one uncontrolled case series, but cannot isolate PS's independent contribution.)
 - The probing-depth trade-off signal (Juan-Montesinos 2022) rests on one meta-analysis with a non-significant primary estimate; needs independent replication before treating it as a real cost of PLS.
 - Mechanism (IAJ microgap shift, FEA stress redistribution) is inferred from radiographic/computational evidence, not directly confirmed by histology in any paper this wiki holds.
 - Heterogeneous MBL magnitude reporting across meta-analyses (0.255 mm to ~0.5 mm difference) makes it hard to state a single "expected benefit" number for patient counseling; use ranges, not point estimates.
@@ -105,6 +126,10 @@ Platform switching is one of the few implant design questions in this wiki where
 - [[implants/mbl/messias-2019-platform-switching-mbl-5year-rct]] — 5-year equivalence RCT (n=128 implants): PS 0.23mm lower, equivalence rejected in PS's favor
 - [[implants/mbl/juan-montesinos-2022-platform-switching-conventional-sr-ma]] — SR+MA (9 studies, 937 implants): MD 0.255mm less MBL; first signal of borderline PD increase with PS
 - [[implants/mbl/kumar-2021-marginal-bone-level-changes-meta-analysis]] — cross-referenced as a borrowed side-finding in [[overviews/implant-failure-mbl-risk-factors-overview]] (PS 0.01–0.95mm vs conventional ~1.67mm, I²=99.8% between-study contrast); this page is the dedicated synthesis that overview explicitly deferred to
+- [[implants/mbl/hurzeler-2007-peri-implant-bone-level-platform-switched]] — prospective non-randomized trial: source of the 0.45mm/side "sufficient" offset-magnitude claim, PS -0.22mm vs non-PS -2.02mm at 1yr
+- [[implants/mbl/canullo-2007-platform-switching-immediate-extraction-sockets]] — case series: largest offset tested in this cluster (1.0mm/side), combines PS with immediate placement/loading
+- [[implants/mbl/rodriguez-ciurana-2009-interimplant-distance-platform-switched-bone-crest]] — prospective: offset dataset (0.35–0.45mm/side) plus a distinct inter-implant-distance finding extending Tarnow 2000's 3mm rule to PS implants
+- [[implants/mbl/gupta-2019-platform-switching-crestal-bone-loss-sr]] — narrative review compiling offset dimensions across 9 primary studies; the entry point that surfaced the three papers above
 
 ## Related Overviews
 
