@@ -2819,7 +2819,7 @@ tags: []
 - [[implants/surface/plasma/lee-2022-plasma-contaminated-zirconia-gingivalis-osteoblast]] — in vitro(지르코니아): NTP 60초는 P.gingivalis 억제+골모세포↑, 300초+는 세균부착 오히려↑(비단조)
 
 <!-- BATCH INGEST 2026-05-31 (2nd): plasma surface treatment — 11 more papers incl. 3 human (Stacchi RCT, Kwon RCT, Kim retrospective) -->
-- [[implants/surface/plasma/stacchi-2025-vacuum-plasma-early-implant-stability-rct]] — 사람 split-mouth RCT(24명/48임플란트): 진공플라즈마 60·90일 ISQ 유의↑(P=0.04,0.03), 절대차 작음, 토크 차이 없음
+- [[implants/surface/plasma/stacchi-2025-vacuum-plasma-early-implant-stability-rct]] — 사람 split-mouth RCT(24명/48임플란트): 진공플라즈마(Plasma X Motion, MegaGen, DBD 3kV/<13mbar/~50초) 60·90일 ISQ 유의↑(P=0.04,0.03), 절대차 작음, 토크 차이 없음
 - [[implants/surface/plasma/kwon-2024-actlink-plasma-rct-osseointegration-bone-regeneration]] — 사람 RCT(28명, SLA±플라즈마): 안정성·골결손 차이 없음, 변연골 변화만 유의↑(혼재 결과)
 - [[implants/surface/plasma/kim-2025-plasma-surface-treatment-implant-stability-retrospective]] — 사람 후향코호트(47명/73임플란트, 단일군): ISQ 78.97→83.74(8주,p<0.001)·stability dip 없음; 저ISQ·하악·짧은 fixture 이득 최대
 - [[implants/surface/plasma/danna-2015-atmospheric-pressure-plasma-implant-osseointegration]] — 동물(비글 7마리): 80초 APP texture Ti 6주 BIC만 유의↑(P<0.001), CaP·3주·BAFO 무효 — 표면·시점 의존
