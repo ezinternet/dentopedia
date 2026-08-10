@@ -4,7 +4,7 @@ authors: Rodríguez-Ciurana X, Vela-Nebot X, Segalà-Torres M, Calvo-Guirado JL,
 year: 2009
 doi: unknown
 category: [implants/mbl]
-source_collection: pubmed-text
+source_collection: pubmed-abstract
 full_text: false
 pmid: "19408476"
 source_url: https://pubmed.ncbi.nlm.nih.gov/19408476/
