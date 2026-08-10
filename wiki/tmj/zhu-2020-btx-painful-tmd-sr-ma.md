@@ -10,8 +10,13 @@ evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/zhu-2020-btx-painful-tmd-sr-ma.pdf
 pdf_filename: zhu-2020-btx-painful-tmd-sr-ma.pdf
 source_collection: external
-tags: [botulinum-toxin, btx-a, tmd, myofascial-pain, meta-analysis]
+superseded_by: tmj/saini-2024-botulinum-toxin-tmd-sr-ma
+superseded_scope: partial
+tags: [botulinum-toxin, btx-a, tmd, myofascial-pain, meta-analysis, superseded]
 ---
+
+> [!warning] Superseded (partial) → [[tmj/saini-2024-botulinum-toxin-tmd-sr-ma]]
+> Saini 2024 SR+MA(PLoS ONE, 더 큰 증거기반)가 동일 질문(BTX for painful TMD)을 업데이트 — zhu-2020(20 RCT)의 결론(BTX-A가 근막 통증 유의 감소, MMO 개선은 유의하지 않음)을 확인·확장. 현행 BTX-A TMD 근거 인용은 saini-2024를 우선할 것. (set 2026-08-11)
 
 ## Three-line Summary
 
