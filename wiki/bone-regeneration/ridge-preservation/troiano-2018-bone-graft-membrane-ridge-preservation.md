@@ -10,8 +10,13 @@ evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/troiano-2018-bone-graft-membrane-ridge-preservation.pdf
 pdf_filename: troiano-2018-bone-graft-membrane-ridge-preservation.pdf
 source_collection: external
-tags: [alveolar-ridge-preservation, bone-graft, resorbable-membrane, meta-analysis, tsa, gbr]
+tags: [alveolar-ridge-preservation, bone-graft, resorbable-membrane, meta-analysis, tsa, gbr, superseded]
+superseded_by: bone-regeneration/ridge-preservation/canullo-2021-arp-biomaterials-dimensional-nma
+superseded_scope: full
 ---
+
+> [!warning] Superseded (full) → [[bone-regeneration/ridge-preservation/canullo-2021-arp-biomaterials-dimensional-nma]]
+> Canullo 2021 SR+NMA (Clin Oral Investig, 88편 RCT, 2805명, 3073 발치와; 검색 2021년 3월까지)가 동일한 임상 질문(이식재 ± 차폐막 치조제보존술 vs 자연치유)을 7편 연구보다 압도적으로 큰 규모와 네트워크 메타분석으로 재답해, 모든 이식재가 수평·수직 위축을 유의하게 감소시킴을 확인하고 재료별 순위(이종골 XG·동종골 AG 우위)를 추가 제시함. 이 페이지(7편, 수평 −2.19 mm, 수직 −1.72 mm)의 core 결론은 Canullo 2021에 완전히 포함된다 — 치조제보존술 이식재 근거는 canullo-2021을 우선 인용할 것. (set 2026-08-11)
 
 ## Three-line Summary
 
