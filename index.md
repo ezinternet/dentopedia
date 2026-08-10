@@ -76,7 +76,7 @@ tags: []
 - [[implants/juan-montesinos-2022-platform-switching-conventional-sr-ma]] — SR+MA(9편, PS 475 vs 일반 462): PS 골소실 MD 0.255 mm 유의하게 적음; 탐침깊이 NS
 - [[implants/enkling-2013-platform-switching-bone-level-3year-rct]] — 3년 RCT: PS군 변연골 소실 PM 대비 유의하게 낮음; 2피스 임플란트 PS 골보존 효과 확인
 - [[implants/rocha-2016-platform-switching-crestal-bone-3year-rct]] — 다기관 RCT(n=63, 135 임플란트, 3년): PS 0.28 mm vs PM 0.68 mm(p=0.002); 하악 후방부 PS 우위
-- [[implants/messias-2019-platform-switching-mbl-5year-rct]] — 등가성 RCT 5년(n=60, 128 임플란트): 생존율 96.6%; PS MBL 0.23 mm 낮음(p=0.025); 비동등 선언
+- [[implants/messias-2019-platform-switching-mbl-5year-rct]] — 등가성 RCT 5년(n=60, 128 임플란트): 생존율 96.6%; PS MBL 0.23 mm 낮음(p=0.025); 비동등 선언 ⚠️ superseded by juan-montesinos-2022
 - [[implants/cosola-2020-bone-tissue-level-radiological-sr]] — SR(20편 질적/17편 정량, 2933 임플란트): BL·TL 생존율 >90%; 방사선적 MBL 그룹간 유의차 없음
 - [[implants/atieh-2025-tissue-vs-bone-level-peri-implantitis-sr-ma]] — SR+MA(5편, 501 임플란트, 2025): TL 치주염 RR 0.59·실패 RR 0.59 — 유의차 없음; TL·BL 임상결과 유사
 - [[implants/solderer-2025-tissue-level-implant-bone-loss-factors]] — 후향적(n=106, 1년/59개 3년): TL 임플란트 MBL 1년 0.93 mm·3년 1.04 mm; 흡연·치료 악궁이 주요 위험인자
