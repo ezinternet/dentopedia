@@ -1,0 +1,131 @@
+Title: Influence of Schneiderian Membrane Perforation on Implant Survival Rate: Systematic Review and Meta-Analysis
+Authors: Schiavo-Di Flaviano V, Egido-Moreno S, González-Navarro B, Velasco-Ortega E, López-López J, Monsalve-Guil L
+Journal: Journal of Clinical Medicine, 2024;13(13):3751
+DOI: 10.3390/jcm13133751
+PMID: 38999315
+PMCID: PMC11242322
+Published: 2024-06-27
+
+Source: PubMed Central full text retrieved 2026-08-11
+
+---
+
+1. Introduction
+
+Implant rehabilitation of the posterior maxilla can be a challenge for the professional due to the pneumatization of the maxillary sinus or bone resorption after tooth loss. The insufficient bone height can condition the correct placement of the implants; in these cases, it may be necessary to implement techniques that help us increase the bone availability, such as guided bone regeneration using resorbable and non-resorbable membranes, block graft, and bone distraction, among others, being that the sinus lift is one of the most-performed techniques.
+
+Sinus lift is a well-documented and accepted technique in posterior maxilla rehabilitation and was introduced by Tatum H and Boyne and James in the 1980s. The open technique consists of preparing a window on the lateral aspect of the maxillary sinus and subsequently releasing and elevating the Schneiderian membrane, allowing the space between the membrane and the bone to be filled with graft material.
+
+Schneiderian membrane perforation is the most frequent complication during a sinus lift and can occur in between 7% and 56% of cases. There are various factors, both anatomical and technical, that influence the perforation, including the thickness of the membrane, previous sinus pathology, the presence of sinus septa, existing perforations, the design of the osteotomy, inadequate management of the membrane, and/or the surgeons experience. Different techniques have been described to solve perforations, such as membrane suturing and the use of collagen membranes and fibrin glues, among others.
+
+Fugazzotto and Vlassis proposed a classification for perforations according to size and the difficulty of reparation. Class I perforations are those that occur in the upper part of the osteotomy; the separation of the membrane from the bone will eventually close due to membrane folding upon itself. Class II occurs close to the lateral or lower walls of the osteotomy and its treatment is more complex. Class III perforations are located right in the center of the osteotomy window and are frequently preexisting.
+
+The most frequent postoperative complications associated with sinus elevation that we can find are acute sinusitis, infection, and loss of graft material; the last of which, according to some studies, is greater in sinuses with perforated membranes. For this reason, some authors believe that there may be a relationship between perforation of the membrane during sinus lift and implant failure.
+
+The aim of this systematic review and meta-analysis is to establish whether perforation of Schneiderian membrane and its repair during maxillary sinus lift results in a lower implant survival rate compared to sinus elevations where the membrane has not been perforated.
+
+2. Materials and Methods
+
+2.1. Data Sources and Search Criteria
+
+The following review was written using PRISMA guidelines.
+
+PICO question: Does perforation of Schneiderian membrane cause an increased risk of implant failure?
+(P) Patient/Problem: perforation of Schneiderian membrane during sinus lift
+(I) Intervention: Membrane repair
+(C) Control: Sinus elevations without perforation of the membrane
+(O) Result: decreased survival rate
+
+Search: Medline/Pubmed, Scopus, Web of Science, May 2024
+MeSH: "Sinus floor Augmentation" AND ("Schneiderian membrane" OR "Maxillary Sinus Membrane" OR "Sinus Augmentation" OR "Sinus Lift" OR "Sinus Floor Elevation") AND ("Perforation Repair" OR "Schneiderian membrane perforation" OR "maxillary sinus membrane perforation") AND ("Implant survival")
+
+2.2. Inclusion and Exclusion Criteria
+
+Inclusion:
+- Prospective and retrospective in vivo human studies
+- Lateral window technique with graft material
+- Membrane perforation occurred + repair technique described
+- Follow-up ≥6 months after prosthesis placement
+- RCTs, non-RCTs, cohort, case-control, case series
+
+Exclusion:
+- Reviews, systematic reviews, meta-analyses
+- Animal studies, case reports
+- Transcrestal technique
+- No graft material used
+- Absence of implant count or graft type specification
+
+2.3. Data Extraction
+
+Information extracted: authors, year, study design, patients, graft material, number of sinus lifts, number of perforated sinuses, repair material, perforation incidence, implants placed, failed implants.
+
+2.4. Risk of Bias
+
+Newcastle-Ottawa Scale for nonrandomized studies. Assessed on selection of study groups, comparability of groups, ascertainment of outcome.
+
+2.5. Statistical Analysis
+
+Variable: implant survival rate in perforated vs non-perforated sinuses.
+Software: Review Manager 5.4
+Method: Binary random effects; odds ratio (OR) with 95% CI
+Significance: p < 0.05
+Heterogeneity: I² interpreted per Cochrane Handbook (0-40% unimportant, 30-60% moderate, 50-90% substantial, 75-100% considerable)
+Subgroup analysis: one-stage vs two-stage implants in perforated and non-perforated sinuses
+
+3. Results
+
+Search: 283 titles PubMed, 91 Scopus, 28 Web of Science; 95 duplicates removed; 15 non-English excluded; 26 full-text reviewed; 10 included qualitatively; 7 in meta-analysis.
+
+Study designs (n=10): 5 retrospective cohort, 2 case-control, 2 case series, 1 clinical trial.
+
+Total: 1,666 patients; 2,229 sinus lifts; 5,052 implants (range 18-1,588 per study).
+Mean follow-up: 25.15 months (range 6-98 months).
+
+Perforation incidence: 635 sinuses (mean 29.42%).
+
+Graft materials: xenograft most common (7/10 studies), followed by alloplast, autologous bone, allograft.
+
+Repair materials (perforated cases): collagen membrane (7/10), fibrin glue (2), demineralized human cortical bone, vicryl suture (2), Bichat fat ball, block graft, oxidized cellulose (Surgicel), palatal connective tissue graft, PRF membranes.
+
+Risk of bias (NOS): 2 studies scored 7 stars, 4 studies scored 6 stars (low risk); 1 study scored 5 points.
+
+Meta-analysis results:
+
+Non-perforated sinuses: 1,224 sinus lifts; 2,725 implants; 62 failures; ISR 97.7%
+Perforated sinuses (repaired): 480 sinus lifts; 1,044 implants; 30 failures; ISR 97.1%
+OR = 0.78 (95% CI 0.49-2.23); p = 0.28; I-heterogeneity = 0%; p-heterogeneity = 0.42
+
+Subgroup analysis (perforated sinuses):
+One-stage vs two-stage: RR = 1.00 (CI 0.94-1.07; p = 0.95); I² = 0%; p = 0.98
+
+Subgroup analysis (non-perforated sinuses):
+One-stage vs two-stage: RR = 0.99 (CI 0.96-1.02; p = 0.60); I² = 19%; p = 0.27
+
+Postoperative complications: sinusitis, infection, rhinorrhea, graft necrosis (6 articles did not specify).
+
+4. Discussion
+
+Lateral sinus window elevation is a well-known and predictable technique for implant rehabilitation. The perforation rate of 29.42% is consistent with the reported 16-56% range.
+
+Repair classification (Fugazzotto and Vlassis): Class I (upper osteotomy) - can self-close; Class II (lateral/lower walls) - more complex; Class III (center, often pre-existing) - managed similarly to Class II.
+
+Overall ISR in perforated (repaired) sinuses: 97.1% - comparable to non-perforated 97.7%.
+
+Hernandez-Alfaro et al. found perforation size matters: <5mm ISR 97.14%, 5-10mm 91.89%, >10mm 74.14%.
+
+de Almeida-Ferreira et al. (745 sinuses, 1,588 implants): ISR 97.1% perforated vs 97.7% non-perforated; small perforations (97.7%) = same as non-perforated.
+
+These results confirm Diaz-Olivares et al. SR+MA: ISR 97.71% perforated vs 98.88% non-perforated.
+
+Al-Moraissi et al. found statistically significant difference (89.65% vs 97.51%) but included both lateral and crestal approaches.
+
+Histology (Testori et al.): 22-26% vital bone in perforated sinuses using collagen membranes.
+Froum et al.: higher vital bone in perforated (26.3 ± 6.3%) vs non-perforated (19.1 ± 13.7%) - possible explanation: collagen membrane acts as barrier, improving graft containment.
+
+5. Conclusions
+
+- Schneiderian membrane perforation occurs in up to 30.5% of lateral sinus lifts
+- Different materials and techniques allow successful membrane repair
+- Perforation, when repaired, does not negatively influence implant survival rate (OR=0.78, p=0.28, I²=0%)
+- Membrane perforation should not be a reason to abort the procedure nor an absolute contraindication to implant placement
+- One-stage vs two-stage placement shows no survival difference in perforated sinuses
