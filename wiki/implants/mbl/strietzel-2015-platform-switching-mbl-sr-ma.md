@@ -10,8 +10,13 @@ evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/strietzel-2015-platform-switching-mbl-sr-ma.pdf
 pdf_filename: strietzel-2015-platform-switching-mbl-sr-ma.pdf
 source_collection: external
-tags: []
+superseded_by: implants/peri-implantitis/lin-2025-influence-of-prosthetic-designs
+superseded_scope: partial
+tags: [platform-switching, marginal-bone-loss, implant, systematic-review, meta-analysis]
 ---
+
+> [!warning] Superseded (partial) → [[implants/peri-implantitis/lin-2025-influence-of-prosthetic-designs]]
+> Lin 2025 AO/AAP SR+MA(J Periodontol, 93편 연구)가 platform switching을 포함한 7가지 보철 설계 인자를 종합 — 20편의 플랫폼 스위칭 연구를 포함해 PS가 PM 대비 유의하게 MBL 감소(p<0.0001)를 확인. 이 strietzel-2015는 2013년 이전 데이터 한정이므로, 플랫폼 스위칭 MBL에 대한 현행 최고 증거는 lin-2025를 인용할 것. (set 2026-08-11)
 
 ## Three-line Summary
 
