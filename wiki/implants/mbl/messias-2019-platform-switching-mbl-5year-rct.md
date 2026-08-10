@@ -10,8 +10,13 @@ evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/messias-2019-platform-switching-mbl-5year-rct.pdf
 pdf_filename: messias-2019-platform-switching-mbl-5year-rct.pdf
 source_collection: external
-tags: []
+superseded_by: implants/mbl/juan-montesinos-2022-platform-switching-conventional-sr-ma
+superseded_scope: full
+tags: [platform-switching, platform-matching, marginal-bone-loss, rct, implant, peri-implant, equivalence-trial, superseded]
 ---
+
+> [!warning] Superseded (full) → [[implants/mbl/juan-montesinos-2022-platform-switching-conventional-sr-ma]]
+> Juan-Montesinos 2022 SR+MA (J Clin Med, 9편, 플랫폼 스위칭 (Platform Switching, PS) 475개 vs 일반 플랫폼 462개)가 이 단일 RCT보다 높은 증거 수준(SR+MA > 단일 RCT)으로 같은 임상 질문에 답함 — PS에서 변연골소실 (Marginal Bone Loss, MBL) MD 0.255 mm 유의하게 적음 (p<0.05). 이 페이지(5년 RCT, 128 임플란트, PS 0.23 mm 우위)의 단일 연구 수준 결론은 9편을 종합한 SR+MA로 대체됨. PS 선택 임상 근거는 juan-montesinos-2022를 우선 인용할 것. (set 2026-08-11)
 
 ## Three-line Summary
 
