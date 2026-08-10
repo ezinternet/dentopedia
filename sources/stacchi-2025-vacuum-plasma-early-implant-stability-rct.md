@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-플라즈마 배치 2차(2026-05-31)의 **사람 RCT 핵심 근거**. 기존 [[wiki/overviews/plasma-surface-treatment-dental-implants]]의 최대 약점이 "사람 임상·하중·생존 데이터 0편"이었는데, 이 split-mouth RCT가 그 공백을 직접 메운다. [[wiki/implants/surface/plasma/kahm-2024-vacuum-plasma-surface-treatment-osseointegration]]의 동물 vacuum plasma 결과를 사람에서 검증.
+플라즈마 배치 2차(2026-05-31)의 **사람 RCT 핵심 근거**. 기존 [[wiki/overviews/plasma-surface-treatment-dental-implants]]의 최대 약점이 "사람 임상·하중·생존 데이터 0편"이었는데, 이 split-mouth RCT가 그 공백을 직접 메운다. [[wiki/implants/surface/plasma/kahm-2024-vacuum-plasma-surface-treatment-osseointegration]]의 동물 vacuum plasma 결과를 사람에서 검증. 사용자 질문("메가젠 제품은 진공 1분이라고 배웠는데 맞나")에 답하기 위해 원문 Methods(2026-08-10)를 재확인 — Plasma X Motion 장치 파라미터(진공도·전압·처리시간)가 원 요약에 빠져 있었어서 §3에 추가.
 
 ## Three-line Summary
 
@@ -45,6 +45,7 @@ Vacuum plasma activation is a safe, easy-to-use chairside adjunct that accelerat
 
 - 24 patients, two contralateral implants each (one plasma-treated, one control).
 - Vacuum plasma immediately before insertion. ISQ at placement and 7/14/21/28/42/60/90 days.
+- **Device parameters (Plasma X® Motion, MegaGen Implant Co., Ltd.; Gyeongbuk, South Korea):** implant placed in a sealed plastic chamber; vacuum pump reduces internal pressure to below 10 torr (<13 mbar); implant then auto-connected to a high-voltage electrode delivering up to 3 kV in a dielectric barrier discharge (DBD) configuration, generating low-pressure plasma. **No external gas introduced** — closed-system discharge, unlike argon-fed vacuum-chamber designs. **Each treatment cycle lasted approximately 50 seconds.**
 
 ## 4. Key Results and Benchmarks
 
@@ -69,3 +70,4 @@ Vacuum plasma activation is a safe, easy-to-use chairside adjunct that accelerat
 
 - Vacuum plasma = 진공 플라즈마. ISQ = implant stability quotient (임플란트 안정성 지수). RFA = resonance frequency analysis.
 - Split-mouth = 동일 환자 내 좌우 대조 설계.
+- DBD = dielectric barrier discharge (유전체 장벽 방전) — 이 장치의 진공 저압 방전 방식; 외부가스 주입 없이 밀폐챔버 자체 방전으로 약 50초 만에 처리를 끝냄. [[wiki/implants/surface/plasma/becker-2019-lpp-app-plasma-proinflammatory-cytokines]]의 LPP(아르곤 가스 채움, 15분, Diener Femto PCCE)와는 설계가 다른 별개 진공 플라즈마 장치 계열임 — "진공=오래 걸린다"는 일반화는 장치설계에 따라 성립하지 않을 수 있음.
