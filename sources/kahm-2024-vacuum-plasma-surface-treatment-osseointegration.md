@@ -45,6 +45,7 @@ VP 처리군에서 골면적비·골량·ISQ 모두 수치상 높았으나, 어�
 
 - 18 SLA implants; untreated vs vacuum-plasma (VP) treated; placed in femurs of 6 rabbits.
 - Sacrifice at 4 weeks. Endpoints: BIC and bone area ratio (BA) histology, bone volume + ISQ (micro-CT/RFA).
+- **Device parameters (added 2026-08-10, re-checked PDF for a user question on vacuum-plasma treatment times):** ACTILINK™ mini (Plasmapp Co., Ltd., Daejeon, South Korea). Implant inserted into device slot; vacuum formed by 10 s pumping to ~5 Torr; **VP-treated for 60 s**. DBD configuration — polyethylene packaging as dielectric barrier, device metal body as powered electrode, implant grounded via pumping outlet. No external gas.
 
 ## 4. Key Results and Benchmarks
 
@@ -68,3 +69,4 @@ VP 처리군에서 골면적비·골량·ISQ 모두 수치상 높았으나, 어�
 
 - Vacuum plasma (VP) = 진공 플라즈마. ISQ = implant stability quotient (임플란트 안정성 지수).
 - BA = bone area ratio (골면적비); SLA = sand-blasted, large-grit, acid-etched.
+- DBD = dielectric barrier discharge (유전체 장벽 방전). ACTILINK™ mini = Plasmapp사(社)의 체어사이드 진공 플라즈마 장비, 60초/사이클.
