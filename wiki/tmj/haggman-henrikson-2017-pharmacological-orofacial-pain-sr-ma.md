@@ -10,8 +10,13 @@ evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/haggman-henrikson-2017-pharmacological-orofacial-pain-sr-ma.pdf
 pdf_filename: haggman-henrikson-2017-pharmacological-orofacial-pain-sr-ma.pdf
 source_collection: external
-tags: [tmd, bms, pharmacological-treatment, nma, nsaids, cyclobenzaprine, clonazepam, capsaicin, hyaluronate, corticosteroid, grade, orofacial-pain]
+superseded_by: tmj/al-hamed-2026-pharmacological-intraarticular-tmd-nma
+superseded_scope: partial
+tags: [tmd, bms, pharmacological-treatment, nma, nsaids, cyclobenzaprine, clonazepam, capsaicin, hyaluronate, corticosteroid, grade, orofacial-pain, superseded]
 ---
+
+> [!warning] Superseded (partial) → [[tmj/al-hamed-2026-pharmacological-intraarticular-tmd-nma]]
+> Al-Hamed 2026 SR+NMA (Odontology, 23 RCT, 1264명)가 관절내 악관절증 (Intra-articular TMD, iTMD) 약물치료 성분을 원판 변위·골관절염 소그룹별로 업데이트 — haggman-henrikson-2017의 TMD-관절 성분(15편)을 더 큰 근거기반으로 대체. TMD-근육 성분(cyclobenzaprine) 및 구강작열감증후군 (Burning Mouth Syndrome, BMS) 성분(clonazepam·capsaicin)은 al-hamed-2026 범위 밖으로 이 페이지에서 여전히 유효. 관절내 TMD 약물 선택 근거 인용은 al-hamed-2026을 우선할 것. (set 2026-08-11)
 
 ## Three-line Summary
 
