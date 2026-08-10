@@ -16,6 +16,8 @@ relations:
     target: bone-regeneration/ridge-preservation/avila-ortiz-2019-alveolar-ridge-preservation-interventions
   - type: supersedes
     target: bone-regeneration/ridge-preservation/bassir-2018-alveolar-ridge-preservation-meta-analysis
+  - type: supersedes
+    target: bone-regeneration/ridge-preservation/troiano-2018-bone-graft-membrane-ridge-preservation
 ---
 
 ## Three-line Summary
