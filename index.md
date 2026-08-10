@@ -1994,6 +1994,7 @@ tags: []
 - [[tmj/cimino-2025-counselling-vs-splint-tmd-neck-pain-rct]] — RCT n=51, 교합안정장치 추가 vs 상담 단독: 목통증 VAS(-7~8mm)·NDI(-3~4점) 양군 동등 개선, 군간 차이 없음(p>0.57)
 - [[tmj/zhang-2020-occlusal-splint-tmd-rct-sr]] — RCT SR: 교합안정장치(Occlusal Splint)가 무처치 대비 통증 감소; 플라시보 장치 대비 우월성 근거 낮음 (Acta Odontol Scand 2020)
 - [[tmj/zhang-2021-exercise-vs-splint-tmd-sr-ma]] — SR+MA: 운동치료가 교합안정장치와 동등한 통증 감소; MMO 개선 일부 우위 (Ann Palliat Med 2021)
+- [[tmj/zhang-2026-nonpharmacological-myogenic-tmd-nma]] — NMA(BMC Oral Health 2026, 41 RCT, 2021명, 근육성 악관절증): PBMT 통증 1위(SUCRA 88.9%; vs OST SMD −1.43), MT 개구량 1위(92.9%); 운동·안정장치 대조군 대비 유의차 없음
 - [[tmj/singh-2024-occlusal-interventions-tmd-cochrane-sr]] — Cochrane SR: 교합 중재 전반 근거 매우 낮음; 비가역적 교합처치 강력 반대 (Cochrane 2024)
 - [[tmj/ijoms-2023-arthrocentesis-conservative-tmd-sr-ma]] — SR+MA(7 RCT, 448명): 관절천자(Arthrocentesis) MMO +1.12mm 유의 개선(p=0.001); 임상적 차이는 제한적 (IJOMS 2023)
 - [[tmj/zhang-2024-arthrocentesis-injectable-agent-tmd-sr]] — SR: 관절천자 + 히알루론산(HA) 가장 근거 충분; PRP 신흥 옵션; 스테로이드 반복 주의 (BMC Oral Health 2024)
