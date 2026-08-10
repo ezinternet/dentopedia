@@ -6,7 +6,7 @@ date: 2022-07-01
 doi: 10.1177/23800844211034831
 source: al-abedalla-2022-unusual-findings-trials-evaluating-adjuncts.md
 category: [evidence-appraisal]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/al-abedalla-2022-unusual-findings-trials-evaluating-adjuncts.pdf
 pdf_filename: al-abedalla-2022-unusual-findings-trials-evaluating-adjuncts.pdf
 source_collection: external

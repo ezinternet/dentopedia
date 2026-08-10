@@ -6,7 +6,7 @@ date: 2022-01-01
 doi: 10.1111/clr.13956
 source: sanz-2022-keratinized-mucosa-around-implants-consensus.md
 category: [implants/soft-tissue]
-confidence: consensus
+evidence_level: consensus
 pdf_path: /Users/oracleneo/llm-wiki/papers/sanz-2022-keratinized-mucosa-around-implants-consensus.pdf
 pdf_filename: sanz-2022-keratinized-mucosa-around-implants-consensus.pdf
 source_collection: external
@@ -107,7 +107,7 @@ The consensus establishes **KT < 2 mm** as the operative threshold for "inadequa
 
 ## Related Papers
 
-- [[implants/thoma-2021-soft-tissue-management-implants-eao-consensus]] — companion EAO 2021 consensus on soft-tissue management around implants; broader scope covering augmentation timing and flap design
-- [[implants/thoma-2018-soft-tissue-augmentation-periimplant-health]] — SR on soft-tissue augmentation procedures for peri-implant health; underpins recommendations in this consensus
+- [[implants/soft-tissue/thoma-2021-soft-tissue-management-implants-eao-consensus]] — companion EAO 2021 consensus on soft-tissue management around implants; broader scope covering augmentation timing and flap design
+- [[implants/soft-tissue/thoma-2018-soft-tissue-augmentation-periimplant-health]] — SR on soft-tissue augmentation procedures for peri-implant health; underpins recommendations in this consensus
 - [[implants/peri-implantitis/roccuzzo-2025-keratinized-mucosa-peri-implant-20year-mandible]] — 20-year retrospective data on KM around mandibular implants; long-term clinical evidence supporting this consensus's threshold statements
-- [[implants/jensen-2023-iti-consensus-bone-dimensions-soft-tissue]] — ITI 2023 consensus on bone dimensions and soft tissue; complementary consensus covering bone-level context for soft-tissue management
+- [[implants/soft-tissue/jensen-2023-iti-consensus-bone-dimensions-soft-tissue]] — ITI 2023 consensus on bone dimensions and soft tissue; complementary consensus covering bone-level context for soft-tissue management

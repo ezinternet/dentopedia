@@ -6,7 +6,7 @@ date: 2022-10-04
 doi: 10.1111/jcpe.13734
 source: parvini-2023-loading-grafting-immediate-implants-minipigs.md
 category: [immediate-implant/esthetic-soft-tissue]
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/parvini-2023-loading-grafting-immediate-implants-minipigs.pdf
 pdf_filename: parvini-2023-loading-grafting-immediate-implants-minipigs.pdf
 source_collection: external
@@ -90,6 +90,6 @@ This histomorphometric animal study by Parvini et al. (2023) tested whether imme
 ## Related Papers
 
 - [[overviews/type-1a-immediate-placement-immediate-loading-decision]] — clinical decision framework this study provides histological support for
-- [[immediate-implant/seyssens-2022-immediate-implant-socket-grafting-sr-ma]] — SR+MA on gap grafting at immediate implants; this animal study adds a controlled histologic dataset
+- [[immediate-implant/gap-grafting/seyssens-2022-immediate-implant-socket-grafting-sr-ma]] — SR+MA on gap grafting at immediate implants; this animal study adds a controlled histologic dataset
 - [[overviews/immediate-implant-soft-tissue-gap-grafting-material-choice]] — synthesis page on gap grafting material selection; fBIC finding here (grafting → more apical fBIC) is relevant
-- [[immediate-implant/sanz-2017-bone-graft-gap-immediate-implant-rct]] — RCT on gap grafting at immediate implants; complementary clinical-level evidence
+- [[immediate-implant/gap-grafting/sanz-2017-bone-graft-gap-immediate-implant-rct]] — RCT on gap grafting at immediate implants; complementary clinical-level evidence

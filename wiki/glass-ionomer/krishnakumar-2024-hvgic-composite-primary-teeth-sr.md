@@ -6,7 +6,7 @@ date: 2024-02-01
 doi: "10.5005/jp-journals-10005-2757"
 source: krishnakumar-2024-hvgic-composite-primary-teeth-sr.md
 category: glass-ionomer
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/krishnakumar-2024-hvgic-composite-primary-teeth-sr.pdf
 pdf_filename: krishnakumar-2024-hvgic-composite-primary-teeth-sr.pdf
 source_collection: external

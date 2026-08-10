@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1186/s12903-025-06372-w
 journal: BMC Oral Health 2025;25:957
 source: raafa-2025-novel-fully-guided-technique-botulinum.md
-confidence: rct
+evidence_level: rct
 category: botulinum-toxin
 pdf_path: /Users/oracleneo/llm-wiki/papers/raafa-2025-novel-fully-guided-technique-botulinum.pdf
 pdf_filename: raafa-2025-novel-fully-guided-technique-botulinum.pdf

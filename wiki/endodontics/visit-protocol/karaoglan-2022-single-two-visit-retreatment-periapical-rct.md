@@ -6,7 +6,7 @@ date: 2022-04-30
 doi: 10.1111/iej.13758
 source: karaoglan-2022-single-two-visit-retreatment-periapical-rct.md
 category: [endodontics/visit-protocol]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/karaoglan-2022-single-two-visit-retreatment-periapical-rct.pdf
 pdf_filename: karaoglan-2022-single-two-visit-retreatment-periapical-rct.pdf
 source_collection: external

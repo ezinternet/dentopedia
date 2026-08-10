@@ -6,7 +6,7 @@ date: 2025-10-11
 doi: 10.1007/s12223-025-01324-x
 source: salah-2025-microbiota-based-therapies-oral-health.md
 category: [oral-microbiology]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 text_path: /Users/oracleneo/llm-wiki/papers/salah-2025-microbiota-based-therapies-oral-health.txt
 text_filename: salah-2025-microbiota-based-therapies-oral-health.txt
@@ -98,8 +98,8 @@ Emerging therapies reviewed include:
 
 ## Related Papers
 
-- [[oral-microbiology/index]] — oral microbiome ecology and dysbiosis framework
-- [[periodontics/index]] — periodontitis management context for red complex relevance
-- [[caries/index]] — caries ecology and S. mutans cariogenic mechanisms
-- [[halitosis/index]] — VSC production and halitosis microbiota associations
-- [[oral-medicine/mucositis/index]] — OMT pilot in pediatric oncology mucositis prevention context
+- [[index]] — oral microbiome ecology and dysbiosis framework
+- [[index]] — periodontitis management context for red complex relevance
+- [[index]] — caries ecology and S. mutans cariogenic mechanisms
+- [[index]] — VSC production and halitosis microbiota associations
+- [[index]] — OMT pilot in pediatric oncology mucositis prevention context

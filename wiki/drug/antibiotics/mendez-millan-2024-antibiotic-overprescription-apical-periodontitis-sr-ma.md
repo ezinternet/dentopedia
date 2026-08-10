@@ -7,7 +7,7 @@ doi: 10.3390/antibiotics13040289
 journal: Antibiotics 13:289
 source: mendez-millan-2024-antibiotic-overprescription-apical-periodontitis-sr-ma.md
 category: [drug/antibiotics]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/mendez-millan-2024-antibiotic-overprescription-apical-periodontitis-sr-ma.pdf
 pdf_filename: mendez-millan-2024-antibiotic-overprescription-apical-periodontitis-sr-ma.pdf
 source_collection: external
@@ -42,7 +42,7 @@ SR+MA documenting the systematic over-prescription of antibiotics by dentists fo
 SR+MA of cross-sectional/prescribing studies of dentists' antibiotic choice in AP indication.
 
 ## Results
-[근거강함] Antibiotic prescription rate for AP exceeds guideline-indicated threshold by a wide margin in pooled data.
+[확인] Antibiotic prescription rate for AP exceeds guideline-indicated threshold by a wide margin in pooled data.
 
 ## Limitations
 - Heterogeneity in study designs and prescribing definitions
@@ -53,8 +53,8 @@ SR+MA of cross-sectional/prescribing studies of dentists' antibiotic choice in A
 For Korean dental practice: when treating symptomatic AP (or chronic AP requiring retreatment), the first-line intervention is *endodontic management* — pulp removal, irrigation, intra-canal medication, root canal obturation, or apical surgery as appropriate. Antibiotics indicated only for systemic involvement (fever, cellulitis, lymphadenopathy, swelling threatening airway, immunocompromised host) per ESE 2018 / AAE 2017 positions.
 
 ## Related Papers
-- [[drug/di-spirito-2022-endodontic-pain-management-overview]] — endodontic pain.
-- [[drug/sbricoli-2024-antibiotic-prescribing-habits-dentistry-survey]] — Italian prescribing patterns.
-- [[drug/sandulescu-2024-antibiotic-prescribing-dental-best-practices-review]] — implementation best practices.
-- [[drug/thompson-2023-dental-antibiotic-stewardship-core-outcome-set]] — stewardship outcomes.
-- [[drug/vidovic-juras-2024-antibiotic-prophylaxis-dental-procedures]] — prophylaxis review.
+- [[drug/analgesics/di-spirito-2022-endodontic-pain-management-overview]] — endodontic pain.
+- [[drug/antibiotics/sbricoli-2024-antibiotic-prescribing-habits-dentistry-survey]] — Italian prescribing patterns.
+- [[drug/antibiotics/sandulescu-2024-antibiotic-prescribing-dental-best-practices-review]] — implementation best practices.
+- [[drug/antibiotics/thompson-2023-dental-antibiotic-stewardship-core-outcome-set]] — stewardship outcomes.
+- [[drug/mronj/vidovic-juras-2024-antibiotic-prophylaxis-dental-procedures]] — prophylaxis review.

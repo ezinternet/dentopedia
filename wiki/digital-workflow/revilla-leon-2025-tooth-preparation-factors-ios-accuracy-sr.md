@@ -6,7 +6,7 @@ date: 2025-11-01
 doi: J Prosthet Dent 2025;134(5):1555.e1-1555.e20
 source: revilla-leon-2025-tooth-preparation-factors-ios-accuracy-sr.md
 category: [digital-workflow]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/revilla-leon-2025-tooth-preparation-factors-ios-accuracy-sr.pdf
 pdf_filename: revilla-leon-2025-tooth-preparation-factors-ios-accuracy-sr.pdf
 source_collection: external

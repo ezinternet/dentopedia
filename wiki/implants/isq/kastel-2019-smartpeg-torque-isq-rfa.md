@@ -6,7 +6,7 @@ date: 2019-01-01
 doi: 10.1186/s40729-019-0195-1
 journal: International Journal of Implant Dentistry 5:42
 source: kastel-2019-smartpeg-torque-isq-rfa.md
-confidence: in-vitro
+evidence_level: in-vitro
 category: [implants/isq]
 pdf_path: /Users/oracleneo/llm-wiki/papers/kastel-2019-smartpeg-torque-isq-rfa.pdf
 pdf_filename: kastel-2019-smartpeg-torque-isq-rfa.pdf

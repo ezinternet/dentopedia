@@ -6,7 +6,7 @@ date: 2018-01-01
 doi: 10.1002/14651858.CD009376.pub2
 source: manresa-2018-supportive-periodontal-therapy-cochrane-sr.md
 category: [periodontics]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/manresa-2018-supportive-periodontal-therapy-cochrane-sr.pdf
 pdf_filename: manresa-2018-supportive-periodontal-therapy-cochrane-sr.pdf
 source_collection: external
@@ -53,4 +53,4 @@ This Cochrane SR (CD009376.pub2) evaluated the evidence for different SPT interv
 
 ## Related Papers
 - [[periodontics/nibali-2016-tooth-loss-furcation-involvement-sr-ma]] — tooth loss risk during SPT related to furcation involvement
-- [[periodontics/stavropoulos-2021-periodontal-regeneration-intrabony-nma]] — long-term outcomes of periodontal regenerative procedures prior to SPT
+- [[periodontics/host-modulation/stavropoulos-2021-periodontal-regeneration-intrabony-nma]] — long-term outcomes of periodontal regenerative procedures prior to SPT

@@ -6,7 +6,7 @@ date: 2018-12-19
 doi: 10.1111/idj.12456
 source: ji-2018-three-key-factors-influencing-bacterial.md
 category: [infection-control]
-confidence: cross-sectional
+evidence_level: cross-sectional
 source_collection: pubmed-text
 pmid: "30565215"
 pmcid: "PMC9379084"

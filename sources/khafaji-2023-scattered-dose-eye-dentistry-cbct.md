@@ -40,7 +40,7 @@ Cureus 2023;15(8):e43113 · Mawya Khafaji, Ghaidaa H. Albadawi · 2023 · DOI: 1
 phantom 연구(OSL/TLD) SR, PRISMA, 2010-2022. 653→5편.
 
 ## 4. Key Results and Benchmarks
-안구 산란선량 0.103-8.3 mSv, 배경방사선보다 높고 변동 큼 [합의수준]. FOV 축소·선량기준치 필요.
+안구 산란선량 0.103-8.3 mSv, 배경방사선보다 높고 변동 큼 [확인]. FOV 축소·선량기준치 필요.
 
 ## 5. Limitations and Future Work
 포함 5편 phantom 한정, 실제 환자 변동 미반영.

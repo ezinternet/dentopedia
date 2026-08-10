@@ -6,7 +6,7 @@ date: 2025-05-19
 doi: "10.1111/iej.14264"
 source: nosrat-2025-endodontist-gp-nsrct-clinical-approaches-cohort.md
 category: [practice-management]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/nosrat-2025-endodontist-gp-nsrct-clinical-approaches-cohort.pdf
 pdf_filename: nosrat-2025-endodontist-gp-nsrct-clinical-approaches-cohort.pdf
 source_collection: external

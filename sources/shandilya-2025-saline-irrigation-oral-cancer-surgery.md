@@ -15,7 +15,7 @@ text_filename: shandilya-2025-saline-irrigation-oral-cancer-surgery.txt
 
 ## Why Ingested
 
-구강암 수술 중 생리식염수 세정(Saline Irrigation)의 효과에 대한 임상 근거가 부족한 상황에서, 이 전향적 연구는 설득력 있는 세포학적 증거를 제공한다. 수술 직후 상처 오염을 55%에서 7.6%로 줄였다는 정량적 결과는 [[oral-surgery/al-aroomi-2025-cgf-third-molar-postop-sr]]의 창상 치유 맥락과 연결되며, 세정 프로토콜의 근거 기반을 보강한다.
+구강암 수술 중 생리식염수 세정(Saline Irrigation)의 효과에 대한 임상 근거가 부족한 상황에서, 이 전향적 연구는 설득력 있는 세포학적 증거를 제공한다. 수술 직후 상처 오염을 55%에서 7.6%로 줄였다는 정량적 결과는 [[oral-surgery/third-molar/al-aroomi-2025-cgf-third-molar-postop-sr]]의 창상 치유 맥락과 연결되며, 세정 프로토콜의 근거 기반을 보강한다.
 
 ## Three-line Summary
 

@@ -6,7 +6,7 @@ date: 2023-01-21
 doi: 10.7759/cureus.34032
 journal: Cureus 2023;15(1):e34032
 source: fatani-2023-approach-gummy-smile-treatment-botulinum.md
-confidence: narrative-review
+evidence_level: narrative-review
 category: botulinum-toxin
 pdf_path: /Users/oracleneo/llm-wiki/papers/fatani-2023-approach-gummy-smile-treatment-botulinum.pdf
 pdf_filename: fatani-2023-approach-gummy-smile-treatment-botulinum.pdf

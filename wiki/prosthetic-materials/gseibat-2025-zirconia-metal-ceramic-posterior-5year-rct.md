@@ -6,7 +6,7 @@ date: 2024-12-01
 doi: 10.1111/jopr.14078
 source: gseibat-2025-zirconia-metal-ceramic-posterior-5year-rct.md
 category: [prosthetic-materials]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/gseibat-2025-zirconia-metal-ceramic-posterior-5year-rct.pdf
 pdf_filename: gseibat-2025-zirconia-metal-ceramic-posterior-5year-rct.pdf
 source_collection: external

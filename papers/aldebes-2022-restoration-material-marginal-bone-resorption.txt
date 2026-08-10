@@ -1,0 +1,113 @@
+Effect of restoration material on marginal bone resorption around modified anatomic zirconia dental implants: A randomised controlled trial
+
+Aldebes A, Al-Khanati NM, Al Kayat NA, Alkhouli F, Al-Nerabieah J
+Ann Med Surg (Lond). 2022
+DOI: 10.1016/j.amsu.2022.104313
+PMID: 36045765
+PMCID: PMC9422372
+Source: PubMed Central full text (JATS), retrieved via PubMed MCP get_full_text_article
+
+ABSTRACT
+
+Objective
+
+The primary aim of this study was to determine the effect of implant-supported porcelain-fused-to-metal (PFM) and indirect-composite-resin (ICR) fixed dental prostheses on peri-implant marginal bone resorption (MBR) in custom-made anatomic modified zirconia dental implants.
+
+Methods
+
+A prospective randomized controlled clinical trial was conducted. Participants with premolars indicated for dental extractions were recruited into this study to receive a single-unit implant-supported fixed dental prosthesis. Modified anatomic zirconia implants with thorny-retentive surfaces were placed and loaded randomly after 3 months with either PFM or ICR crowns. Participants were recalled after 12 and 18 months for radiographic evaluation of peri-implant MBR. Implants survival was also reported.
+
+Results
+
+18 out of 20 zirconia implants were included in all study phases. 18-month survival rate was 90%. After 12 months of implant placement, the mean MBR values were 0.53 (±0.21) mm and 0.60 (±0.14) mm in the ICR group compared to 0.67 (±0.16) mm and 0.61 (±0.27) mm in the PFM group. In the 18-month follow-up, the mean MBR values were 0.61 (±0.27) and 0.67 (±0.16) mm in the ICR group compared to 0.77 (±0.29) and 0.77 (±0.27) mm in the PFM group. No significant differences were found in MBR mean values between study groups at 12- and 18-month follow-up points.
+
+Conclusion
+
+This study showed that PFM and ICR crowns were viable zirconia-implant-supported restorations with no preference regarding MBR after 18 months. Nevertheless, long-term evaluations are warranted.
+
+Highlights
+- Custom-made zirconia implants with new design of their macro-retentive features (thorns) were used in this clinical study.
+- They showed success rate of 90% with all failures occurred early before loading.
+- Peri-implant marginal bone resorption (MBR) ranged within acceptable values after 12 and 18 months.
+- No significant differences in MBRs were seen between implant-supported metal-ceramic and indirect composite restorations.
+
+FULL TEXT
+
+1. Introduction
+
+Since Per-Ingvar Brånemark, the founder of modern dental implantology, introduced osseointegrated dental implants, implant therapy has become the most preserved technique for the replacement of hopeless and missing teeth. When applicable, immediate placement of dental implants into fresh extraction sockets may have some advantages over delayed implantation, i.e., more alveolar bone preservation, better soft tissues healing, less time-consuming, and lower costs. However, this should be performed with caution. If not carefully chosen, some cases may not survive because of low stability and subsequent potential micromovement of the dental implant. Primary stability is the absence of dental implant mobility after placement due to its mechanical engagement with the surrounding bone. Many factors can influence the primary stability of dental implants. These mainly include bone density, bone dimensions, implant design, and the surgical procedure. Poor bone quality and quantity have been indicated as primary risk factors for implant failure. Moreover, implant design has been reported as a critical parameter for attaining primary stability. Immediate placement of dental implants with conventional implant design can create a gap between the implant surface and bone that usually needs to be managed. The use of custom-made implant that mimics the original individual's tooth can potentially overcome this issue.
+
+Guizzardi et al. and Franchi et al. have identified that sandblasted implant surfaces promote peri-implant osteogenesis by enhancing the growth metabolic activity of osteoblasts. Surface topography and roughness positively influence the healing process by promoting favorable cell surface interactions. Titanium has high strength, resistance to corrosion, long-term clinical success, and good biocompatibility. However, titanium dental implants possess unaesthetic color. Also, allergic reactions to titanium have been reported. Zirconia appears to be a suitable implant material due to its tooth-like color, mechanical properties, biocompatibility and low plaque affinity. Zirconia dental implants could be alternative to titanium implants that may show dark unfavorable shade through peri-implant soft tissues. Oliva et al. found that zirconia has a sufficient capacity to reduce plaque on the implant and surrounding tissues and consequently is important in contributing towards soft tissue healing and implant success at bone level. This may reduce the likelihood of peri-implant bone resorption. There is little evidence regarding anatomic zirconia implants and, to the best of our knowledge, no previous studies evaluated the effect of restoration material on bone resorption around these dental implants. Hereby, the present study aimed to evaluate the survival of modified custom-made anatomic zirconia implants, and to assess the marginal bone loss around these implants after being loaded with two different types of crown restorations.
+
+2. Materials and methods
+
+The present study was a prospective, single-center, randomized clinical trial (RCT) comparing two types of anatomic-zirconia-implant-supported fixed prostheses and their effect on marginal bone level. The study was conducted between May 2019 and January 2020 at the Faculty of Dental Medicine (Damascus University, Damascus, Syria). The participants were enrolled in this RCT and treated according to study protocol, which was reviewed and approved by Research Ethics Committee of Damascus University (Registration No. 2019-1593). It was also registered in ISRCTN88677526, a primary RCT registry recognised by the World Health Organization. This work has been reported in line with the CONSORT criteria. Detailed informed consent was obtained from all study participants.
+
+Inclusion criteria: 1. Good general and oral health; 2. Age more than 18 years; 3. Clear indication for premolar tooth extraction; 4. Absence of acute local inflammation in the extraction area; 5. Premolar root length of at least 10 mm; 6. Type-2 or type-3 bone density; 7. Buccal cortical bone thickness of at least 1 mm.
+
+Exclusion criteria: smoking, systemic diseases that may negatively influence implants osseointegration (e.g. uncontrolled diabetes), pregnancy, poor oral hygiene, age more than 60 years, and inadequate bone dimensions.
+
+Patients were assessed for eligibility via thorough medical history, clinical, and radiographic evaluation. Cone-beam computed tomography (CBCT) image was used to evaluate premolar shape, root length, and bone dimensions. In order to fabricate a custom-made anatomic zirconia implant, premolar was atraumatically extracted, disinfected, and scanned with an optical scanner (Ceramill Map 400 Scanner; Amann Girrbach GmbH; Pforzheim, Germany). The stereolithography (STL) scan file was processed via exocad Matera software (V2.3; exocad GmbH; Darmstadt, Germany). Multiple alterations in the three-dimensional (3D) design were done. First, the buccal aspect of the root was minimally reduced (0.5 mm) to preserve buccal cortical bone. Multiple macro-retentive thorns on the apical two thirds of mesial and distal root surfaces were added. The implant was designed as one-piece implant by building a fused abutment coronally.
+
+Computer-aided design and computer-aided manufacturing (CAD/CAM) system was implemented to grind down the anatomic implants from the processed STL file using yttria-stabilized tetragonal zirconia polycrystal (Y-TZP) blocks. The implant surface was roughened by sandblasting. Zirconia implant was then subjected to sintering temperature of 1500°C for 8 h. Ultrasonic deionized water bath was used for cleaning, alcohol (90%) for disinfection, and autoclaving (121°C for 30 min at pressure of 15psi) was the method of implant sterilization.
+
+Next patient visit was 3-4 days after dental extraction. On this visit, the patient was instructed to rinse with 0.12% chlorhexidine gluconate mouthwash for 30 s before surgery. The surgical site was further rubbed with 1.5% povidone-iodine solution. 4% articaine with 1:100,000 adrenaline was administered via local infiltration. Surgical team followed strict aseptic procedures. All surgeries were performed by the same surgeon and surgical team. The extraction socket was curetted and flushed with sterile saline to remove the granular tissue. Socket bleeding was induced with the curette before implant placement. The anatomic zirconia implant was placed in its recipient socket with flapless technique by finger pressure first. Implant insertion was completed by gentle hammering with a surgical mallet. The socket was never drilled. Periotest was used immediately after implant placement to evaluate the primary stability. Implant primary stability was considered good when periotest values were negative. Moreover, periapical x-ray was taken after implant placement to be used as a baseline measurement of marginal bone level. All patients received the same postoperative instructions and medical prescription. Post-surgical medications included amoxicillin/clavulanate 1000 mg/62.5 mg tablet (twice per day for 5 days), paracetamol 1,000 mg tablet (three times per day for 2 days), and 1.5% povidone-iodine oral mouthwash (twice a day for one week). Patients were kept on soft diet for a month post-surgery. Instructions to keep good oral hygiene was thoroughly provided. Patients were also instructed to avoid applying any pressure (e.g., by tongue) to the implant or surgical site.
+
+After a healing period of three months, patients received their implant-supported crown restorations. A random number table was generated and used to assign osseointegrated anatomic zirconia implants randomly into the study groups according to restoration material. Implants were either assigned to porcelain-fused-to-metal (PFM) crown or indirect composite resin (ICR) crown groups. For PFM crowns, the metal substructure was casted with lost-wax technique, clinically tested, and sent back to the laboratory for ceramics build-up. Heavy-body paste from a modular composite system (GRADIA PLUS; GC Corporation, Tokyo, Japan) was used to construct the ICR crowns. In both study groups, clinical trial of the final crown was done assessing the proximal contact points/areas with dental floss, the crown edges with a dental probe, and the occlusion with articulating papers. Stability of the crown was also confirmed in lateral and anterior jaw movements. All crowns were cemented using self-cured glass-ionomer cement (GC Fuji I; GC Corporation, Tokyo, Japan). After crown fixation, two separate prosthodontists re-evaluated and endorsed the crown restoration clinically and radiographically.
+
+Implants were radiographically followed up for 18 months. Digital periapical X-ray images with paralleling technique were taken after 12 and 18 months. The standardized imaging technique permitted repeatability and accuracy in measuring marginal bone resorption (MBR) around implants. MBR was measured from both the mesial and distal aspects of the implant. MBRs were calculated by deducting the reference baseline marginal bone levels from follow-up bone levels. Marginal bone levels were measured on periapical radiographs after being calibrated by implants' known heights using Adobe Photoshop CC software (V19.1; Adobe Inc, San Jose, California, USA).
+
+Sample size was determined based on pilot study results using G*Power software (V3.1; Universität Kiel, Germany). Data were mainly presented as means (±SD) and were analyzed by Statistical Package for Scientific Studies software (SPSS V26; IBM, Armonk, NY, USA). Independent t-tests were used to present comparisons in MBR mean values between the two groups. Statistical significance level was set at P < 0.05.
+
+3. Results
+
+After being assessed for eligibility, 20 participants (7 males and 13 females) were enrolled in the present trial. Early implant failure occurred in 2 cases. A total of 18 modified anatomic zirconia implants (n = 18) were included in all study phases. 66.7% of participants were females. Participants aged between 21 and 56 years, with a mean age of 35.2 (±10.7). Indications of premolars extraction were untreatable root caries, fracture, or perforation. Zirconia implants mostly replaced maxillary premolars (83.3%), in the position of first (44.4%) and second (55.6%) premolars. Implant length ranged between 10 and 14 mm with a mean length of 12.2 (±1.3). All included implants had good primary stability where PTVs were negative. Marginal bone level ranged between 9 and 14.4 mm at baseline. There were no statistical differences between study groups at baseline in any of these variables.
+
+Implant loading was done after 3 months where the 18 zirconia implants (n = 18) randomly received 9 PFM and 9 ICR crown restorations. MBR from the mesial and distal implants sides ranged from 0.2 to 1.2 mm after 18 months. Differences in mean mesial and distal MBR between PFM group and ICR group were statistically insignificant at 12-month follow-up point (P = 0.91 and P = 0.27 respectively). A similar trend was found at 18-month follow-up assessment. Differences in mean MBR from the mesial and distal aspects between PFM group and ICR group were not significant after 18 months (P = 0.36 and P = 0.25 respectively). No major complications at the implant, peri-implant, and prosthetic levels were presented at the 12- and 18-month follow-up visits.
+
+4. Discussion
+
+CAD/CAM systems have been applied clinically in many fields. Zirconia dental implants are one of these applications that have been recently introduced. With the introduction of this type of implants, the need for clinical studies investigating its performance has significantly increased. Hereby, the present study aimed to present the short-term survival rate of modified anatomic zirconia implants, and radiographically assess these implants after being loaded with two different types of crown restorations. The assessed modified thorny-surfaced anatomic zirconia dental implants were found to have predictable survival with an acceptable marginal bone loss after 18 months.
+
+Pirker et al. introduced a zirconia implant which was root-analogue, truly anatomic implant. They added oval macro-retentions on the proximal implant surfaces that yielded better primary stability. In the present study, roughened, sintered, custom-made, root-analogue, single-rooted, one-piece, modified zirconia dental implants with thorn-like macro-retentions were used. Al Qahtani et al. showed better clinical performance of zirconia implants when their surfaces were roughened by sandblasting before sintering. Therefore, this approach was chosen in this study. Moreover, the per-mucosal part of the one-piece implant was custom-made to fit the anatomical site, and to improve tissues healing. Bacterial accumulation and leakage from the implant-abutment connection, and its harmful effects on MBR were neutralized by the one-piece design of this zirconia implant.
+
+The MBR in this study ranged from 0.2 to 1.2 mm 18 months after implant placement. All MBR values were located within the acceptable ranges. Criteria of successful dental implants allow a bone loss of 1-1.5 mm in the first year after implant placement. Furthermore, implants success can be confirmed when no pain, discomfort, dysaesthesia, implant mobility, peri-implant infection, or continuous radiolucency were present.
+
+In the present study, 18-month success rate of the modified anatomic zirconia dental implants was 90%, where 2 out of 20 implants were lost. After 18 months, the remaining 18 implants fulfilled the success criteria at the implant, peri-implant, and prosthetic levels as reviewed by Papaspyridakos et al. No pain, mobility, continuous radiolucency, bone loss of more than 1.5 mm, or peri-implant infection were seen. All failures occurred early before loading. This was in line with Bradley et al., who performed a monocenter cohort study with 5-year follow-up period. They reported a survival rate of 94.3% with all lost implants failed before definitive restoration. Zirconia implants were also reported to be successful in patients with bruxism. Success and survival of zirconia implants were not significantly affected when placed in bruxer group of patients. However, all included participants of this study were non-bruxer.
+
+The decision to choose the crown restoration material is important because its potential effect on bone behavior. In implant-supported cement-retained fixed prosthesis, the loading force is distributed from the crown through the cement, abutment, and implant body to the bone. Although better bond strength to Y-TZP can be found with other luting agents, glass-ionomer cement was used in this study because of its characteristics, e.g., low modulus of elasticity. Additionally, restorative materials with lower modulus of elasticity have greater ability to absorb occlusal forces and therefore transmit lower forces and stress to the bone. Elsayed et al. suggested to use a solid abutment, e.g., zirconia abutment with a composite resin crown restoration. They found that this combination showed the most favorable and the best tested situation withstanding normal occlusal forces. Composite resin restorations bonded to zirconia abutments were found to possess damping behavior similar to normal teeth. However, the results of the present study showed that composite crowns had no positive or negative effects on crestal bone resorption when compared to metal-ceramic restorations. PFM crowns were chosen in this study as control because they are considered the golden standard to which other restorations can be compared. No significant differences between study groups indicate that both PFM and ICR crowns were viable zirconia-implant-supported restorations in regard to MBR.
+
+Eligibility criteria of this RCT included good oral hygiene and absence of systemic diseases. Smokers were not included in the present study. Smokers were reported to have 140% more implant failure risk than non-smokers. Further, smoking can increase peri-implant MBR annual rates. Strict fixed oral hygiene and maintenance instructions were given to all participants in study groups equally. Dentists are capable of improving their patients general and oral health-related attitudes and behaviors. Plaque control and good oral hygiene could have a more efficient role in preserving peri-implant marginal bone than the type of restoration material itself. This may potentially interpret the results of this study where no differences in MBRs were found between PFM and ICR groups.
+
+This study had some limitations. The design of this RCT was not split-mouth. Implementing a split-mouth design would have improved the study power and eliminated the effect of confounding subjective variables, e.g., age and gender. Nevertheless, the study results revealed that the differences in these baseline demographics and their effect were neglectable (P > 0.05). Moreover, lack of patient's acceptability and operator's sufficient experience regarding a treatment modality could cause it, even if viable, to be ignored. Anatomic zirconia dental implant was not usual treatment modality in the study's geographic scope. Therefore, authors had to gain experience and overcome many methodological challenges regarding different aspects of this treatment. Furthermore, anatomic implants replacing multi-rooted and/or curved teeth can be very challenging. The sample of this study was limited to cases with single-rooted or fused-rooted straight premolars. So, the results cannot necessarily be generalizable to different cases or other implant positions, e.g., molar position.
+
+5. Conclusion
+
+Within the limitations of this study, it can be concluded that modified thorny-surfaced anatomic zirconia dental implants were a viable treatment option with acceptable crestal bone loss after 18 months. Implants loaded with resin crowns showed peri-implant crestal bone resorption after 18 months comparable to implants with PFM restorations. However, long-term studies assessing the performance of this type of implants are warranted.
+
+Ethical approval
+
+The trial was conducted in accordance with the Declaration of Helsinki. Study protocol was approved by Research Ethics Committee of Damascus University (Registration No. 2019-1593).
+
+Sources of funding
+
+This paper received no specific grant from any funding agency in the public, commercial, or not-for-profit sectors.
+
+Author contribution
+
+Each named author has substantially contributed to conducting this research and drafting this manuscript.
+
+Declaration of competing interest
+
+A.A. and J.A.N. are "Modified Zirconia Dental Implants" patent holders (patent no. 6133) licensed to Directorate of Commercial and Industrial Property Protection (Damascus, Syria); N.M.A., N.A.K., F.A. declare no conflict of interest, financial or otherwise.
+
+Registration of research studies
+
+Registry: ISRCTN
+Registration ID: ISRCTN88677526
+
+Provenance and peer review
+
+Not commissioned, externally peer-reviewed.
+
+--- End of retrieved text ---

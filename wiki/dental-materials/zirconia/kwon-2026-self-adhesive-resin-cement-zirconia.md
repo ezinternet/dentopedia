@@ -6,7 +6,7 @@ date: 2026-01-29
 doi: 10.3390/jfb17020070
 source: kwon-2026-self-adhesive-resin-cement-zirconia.md
 category: [dental-materials/zirconia]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/kwon-2026-self-adhesive-resin-cement-zirconia.pdf
 pdf_filename: kwon-2026-self-adhesive-resin-cement-zirconia.pdf
 source_collection: external

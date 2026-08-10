@@ -6,7 +6,7 @@ date: 2025-06-23
 doi: "10.1111/cid.70075"
 source: monje-2025-surface-decontamination-reconstructive-peri-implantitis.md
 category: [implants/peri-implantitis]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/monje-2025-surface-decontamination-reconstructive-peri-implantitis.pdf
 pdf_filename: monje-2025-surface-decontamination-reconstructive-peri-implantitis.pdf
 source_collection: external

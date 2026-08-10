@@ -1,0 +1,114 @@
+Title: Management Strategies for Immature Teeth with Pulp Necrosis: An Umbrella Review of Systematic Reviews
+Authors: Asgary S, Shamszadeh S, Nosrat A, Aminoshariae A, Sabeti M
+Journal: Iranian Endodontic Journal, 2024;19(4):242-253
+PMID: 39469509
+PMCID: PMC11512712
+DOI: 10.22037/iej.v19i4.46292
+Source: PubMed Central full text (get_full_text_article)
+
+Abstract:
+Introduction: This review evaluates the effectiveness of treatment modalities for immature teeth with pulp necrosis, focusing on calcium hydroxide (CH) and mineral trioxide aggregate (MTA) apexification, as well as regenerative endodontic treatments (RETs). Recent advancements and clinical outcomes are highlighted.
+
+Materials and Methods: A comprehensive search of MEDLINE (PubMed), Embase, Cochrane Library, Scopus, and grey literature was conducted from inception to July 2024. Systematic reviews and meta-analyses (SR/MAs) assessing apexification and RET outcomes in immature teeth with pulp necrosis were included. Studies were selected based on predefined criteria, and data on study design, interventions, and outcomes were extracted. Methodological quality was evaluated using the AMSTAR-2 tool.
+
+Results: 31 SR/MAs were included. The quality ranged from critically low to low, except one rated as high. MTA apexification was more effective than CH for faster apical barrier formation, though overall success rates were similar. MTA is preferred for its efficiency, but standardized protocols are needed, and tooth discoloration was noted as a potential complication. RET generally outperforms apexification in root maturation, with platelet concentrates like platelet-rich plasma (PRP) and platelet-rich fibrin (PRF) showing promising results; PRP was associated with greater root length, while PRF showed superior apical healing. Variability in RET outcomes was noted due to the lack of standardized protocols. Comparative studies of RET versus apexification showed no significant differences in survival or overall success rates. RET often provides better apical closure and root development, though results vary. Both approaches are viable, but more research with standardized protocols and larger samples is needed to establish definitive clinical advantages.
+
+Conclusions: MTA apexification and RET are viable alternatives to CH apexification, with RET showing greater potential for root development and apical healing. Future research should focus on developing standardized protocols and uniform RET guidelines, and evaluating long-term outcomes to establish efficacy and safety.
+
+Full Text:
+
+Introduction
+
+Managing immature permanent teeth with pulp necrosis remains a significant challenge in endodontics and pediatric dentistry due to the complexities associated with incomplete root development. Traditional treatment approaches, such as apexification, have been employed to manage these challenges by facilitating root canal therapy and inducing apical closure.
+
+Calcium Hydroxide (CH) Apexification
+
+CH apexification has been a longstanding method for managing immature teeth with pulp necrosis. This technique involves placing CH within the root canal to stimulate the formation of a calcified barrier at the root apex. While effective in disinfecting the root canal system and inducing apical closure, CH apexification typically requires extended treatment periods, ranging from 9 to 24 months. The extended use of intracanal application of CH can weaken the tooth structure, increasing the risk of cervical root fractures and potentially compromising the long-term prognosis of the treated tooth.
+
+Mineral Trioxide Aggregate (MTA) Apexification
+
+In response to the limitations of CH apexification, MTA, a calcium silicate-based cement (CSC), emerged as a promising alternative. The MTA-apical plug technique involves placing MTA or other calcium silicate-based cements (CSCs) at the root apex to create an artificial barrier and facilitate root canal obturation. CSCs offer several advantages over CH, including shorter treatment time and better biocompatibility, which facilitates favorable interactions with periapical tissues and supports healing. Despite these benefits, MTA and other CSCs do not notably enhance root formation or dentin wall thickening, and tooth discoloration remains a drawback.
+
+Regenerative Endodontic Treatments (RET)
+
+RET represents a paradigm shift in the management of immature teeth with pulp necrosis. Unlike apexification strategies that focus on forming a calcified barrier, RET aims to regenerate the pulp-dentin complex. This biologically based approach usually results in continued root development and thickening of dentin walls by revitalizing the tooth. RETs, often utilizing platelet concentrates (PCs) such as platelet-rich plasma (PRP) and platelet-rich fibrin (PRF), have shown promising results in root maturation. However, inconsistent outcomes and a lack of standardized protocols emphasize the need for further research to refine treatment strategies and achieve consistent success.
+
+Objectives of the Review
+
+This review aims to critically assess and compare the effectiveness of different management strategies for immature teeth with pulp necrosis, specifically focusing on CH apexification, MTA apexification, and RETs. By synthesizing evidence from systematic reviews and meta-analyses (SR/MAs), this umbrella review seeks to: (1) evaluate the efficacy of CH versus MTA apexification and RETs; (2) highlight recent advancements and their impact on treatment outcomes; (3) identify gaps in the current evidence base and suggest directions for future research.
+
+Materials and Methods
+
+Protocol: Conducted based on a high-quality methodological review and the Cochrane Handbook.
+
+Search Strategy and Databases: Comprehensive systematic search up to July 2024 across MEDLINE (PubMed), Embase, Cochrane Library, Scopus. No language restrictions. Keywords included "immature necrotic teeth," "apexification," "calcium hydroxide," "mineral trioxide aggregate," "regenerative endodontic treatments," and "clinical outcomes." Manual search of reference lists also performed.
+
+Eligibility Criteria: SR/MA evaluating outcomes related to apexification and REPs for immature teeth with pulp necrosis, published in peer-reviewed journals with comprehensive data on clinical outcomes. Excluded: case reports, case series, observational/experimental studies, opinion articles, and SR/MA lacking sufficient outcome data.
+
+Study Selection and Data Extraction: Two reviewers (S.A. and S.S.) independently performed selection and extraction; discrepancies resolved by discussion. Data collected: study type (SR/MA), detailed description of apexification and RET techniques/protocols/materials, and clinical/radiographic outcomes (survival/success rates, periapical healing, apical barrier formation time, apical foramen width, apical closure, root development, dentinal wall thickness, pulp vitality, adverse effects/complications).
+
+Quality Assessment: AMSTAR-2 tool used, assessing 16 domains; overall confidence rated 'critically low', 'low', 'moderate', or 'high' per AMSTAR-2 decision rules.
+
+Limitations: Variations in study designs, differences in outcome measures, and quality of evidence across studies.
+
+Results
+
+Search Results: 1100 papers initially retrieved. After screening titles/abstracts and removing duplicates, 250 underwent full-text review. 31 SR/MAs included in final analysis.
+
+Study Characteristics: 12 systematic reviews (SRs) and 19 SR/MAs among the 31 studies. Included RCTs, clinical studies, observational studies, case series/reports. Publication years 2011-2024. Age range in some reviews 6-58 years. Heterogeneity in design and outcome measures precluded meta-analysis at the umbrella-review level.
+
+Summary of Evidence
+
+(i) Apexification with Different Materials: Five SR/MA (3 SR/MA, 2 SR) evaluated CH, MTA, and other CSCs for apexification in immature permanent teeth (studies 17-21). Outcomes: success rates, apical closure, time to apical barrier formation. Three SR/MAs reported similar success rates for MTA vs CH. Two SR/MAs found comparable apical closure between MTA and CH. Regarding apical barrier formation time, MTA had superior (faster) results in 2 SR/MAs. Overall, MTA demonstrated equivalent clinical outcomes to CH with faster apical barrier formation, making it a preferred material for apexification. Variability in results highlights the need for standardized protocols.
+
+(ii) RET with Different Scaffolds: 19 studies (8 SRs, 11 SR/MAs) explored scaffolds — blood clot (BC), platelet concentrates (PCs), autologous PCs (APCs), platelet pellet (PP), BC+collagen, collagen/Placentrex, FGF-2, PLGA, chitosan, PC/collagen, mesenchymal stem cell transplantation (studies 21-39). Outcomes: survival/success rates, pulp vitality, periapical healing, apical closure, dentinal wall thickness, root length. PCs are promising scaffolds, offering superior periapical healing compared to BCs in some studies, but PCs and BCs led to similar overall success rates in most studies. Pulp vitality: 3 studies found no significant difference PC vs BC, 1 favored PC. Apical closure: 4 studies similar, 2 favored PC. Dentinal wall thickness/root length: 4 of 5 meta-analyses found no significant difference, 1 favored PC. Overall quality of evidence remains limited.
+
+RET vs Apexification (11 reviews: 3 SRs, 8 SR/MAs; studies referenced across the paper): RET demonstrates superior root development compared to apexification while maintaining similar overall success rates and periapical healing in most comparisons. For apical closure, evidence was inconsistent (2 studies no significant difference, 1 meta-analysis found a difference). Meschi found no significant difference in success between mature and immature teeth. Discoloration and pulp vitality responses favored RET in some studies. Kahler's review, notably, supported apexification as offering greater clinical success and healing compared to RET, though without meta-analysis (interpret with caution).
+
+Comparison of Techniques: MTA and RET emerged as superior alternatives to CH apexification, primarily due to reduced treatment times and enhanced biocompatibility. MTA provided more predictable apical barrier formation; RET showed greater potential for root maturation and regeneration of vital tissues. Lack of standardized RET protocols caused variability in outcomes.
+
+Adverse Effects: CH apexification most commonly associated with cervical root fractures and prolonged treatment duration. MTA associated with tooth discoloration (aesthetic, non-threatening). RET showed variability in success rates and lacked long-term data on complications.
+
+Quality Assessment (AMSTAR-2): All SRs followed PICO principles, conducted comprehensive literature searches, provided essential study characteristics, and used independent dual-reviewer screening/extraction. Only 8 studies provided a list of excluded studies. Not all meta-analyses assessed risk-of-bias impact on outcome measures. Overall methodological quality assessed as "critically low to low," except one study (ref 43, Torabinejad-type comparison) rated as "high."
+
+Selected findings by study (representative):
+- Shaik et al. 2021: compared MTA, CSC, CH for apexification; MTA and CSC superior to CH for apical barrier formation time; no significant difference in overall clinical outcomes.
+- Nicoloso et al. 2017: MTA superior apical barrier formation vs CH in SR; similar success rates in some studies.
+- Lin et al. 2016 and Chala et al. 2011: MTA achieved faster apical barrier formation with comparable clinical success to CH.
+- Panda et al. 2022: compared MTA, MTA/collagen, CH for apexification (no meta-analysis); inconsistent periapical healing results.
+- Kiaipour and Priya: compared BC vs PC scaffolds in RET SRs; mixed/contradictory findings — some studies favored PC for periapical healing, root length, apical closure, dentinal wall thickness; others found no difference.
+- Panda et al. 2020: APC vs BC — APC showed greater apical closure and vitality response with comparable success rates; similar root length/dentinal wall thickness.
+- Yang et al. 2024 and Tang et al. 2022: PC comparable to BC and other scaffolds for pulp vitality, root development, apical closure.
+- Sabeti et al. 2023: emphasized PRP, PRF, PP, BC/collagen, BC/FGF-2 superiority over BC for periapical healing and root development.
+- Vatankhah et al. 2024: high clinical success with RET using BC, PRP, or PRF; BC resulted in higher vitality rates; PRF showed highest periapical healing rate (not statistically significant).
+- Li et al. 2023: high success with RETs, no significant difference between immature and mature teeth.
+- Shaik et al. 2021 (RET review): high success rates for immature teeth RET, significant apical closure and root length gains.
+- Ríos-Osorio et al. 2023 and Pecci-Lloret et al. 2022: compared scaffolds without meta-analysis; inconsistent PRP/PRF vs BC superiority.
+- Kharchi et al. 2020: non-antibiotic disinfection RET, satisfactory outcomes, no meta-analysis.
+- Ong et al. 2020: comprehensive SR/MA — survival 97.3%, healing 93.0%; root development unpredictable.
+- Alghamdi et al. 2020 and Metlerska et al. 2019: supported PRP/PRF superiority over BC in certain aspects; recommended more RCTs.
+- Lolato et al. 2016: BC vs PC — similar pulp vitality and periapical healing; PC superior for apical barrier formation time, root length, dentinal wall thickness.
+- Antunes et al. 2016: case report/series review of RET; evidence of root development and periapical healing, no meta-analysis.
+- Swaikat et al. 2023: survival 93.8% (384 cases), success 88.3% (411 cases) comparing BC to PC.
+
+RET vs Apexification comparative studies (11 reviews): Priya found inconsistent root development results; Swaikat and Stefanidou found greater root length/dentin thickness with RET (Swaikat: similar success rate); Panda, Meschi, Nicoloso, Torabinejad found similar success in immature teeth over 12 months; Widbiller found RET more effective for apical closure and root length/dentinal wall thickness with comparable periapical healing/success; Tong and Xie found RET superior for root development with comparable periapical healing; Kahler supported apexification's superior clinical success and healing (no meta-analysis, caution advised).
+
+Discussion
+
+The management of immature teeth with pulp necrosis remains challenging, with traditional and contemporary approaches presenting distinct advantages/limitations. This umbrella review synthesizes evidence on CH apexification, MTA apexification, and RETs.
+
+CH Apexification: Long-established for apical closure; well-established calcified barrier formation, but drawbacks include extended treatment duration (often >1 year, problematic for young patient adherence) and increased risk of cervical root fractures compromising structural integrity/long-term prognosis.
+
+MTA Apexification: Favored over CH for reduced treatment time (apical barrier formation within months) and favorable periapical healing. However, does not enhance root development or dentin wall thickness, potentially compromising long-term structural integrity. Tooth discoloration is mainly cosmetic but limits use in aesthetic zones (anterior teeth). Alternative bioceramics (Biodentine, calcium-enriched mixture/CEM cement) explored for reduced discoloration risk; newer MTA formulations and barrier materials (collagen matrices, dentin bonding agents) proposed to mitigate staining.
+
+RETs: Significant advancement, shifting focus from apical closure to comprehensive root development. Continued root development and dentin wall thickening offer distinct advantages over apexification. PRP and PRF frequently used, showing promise for root length and apical healing respectively. Success limited by absence of standardized protocols; variability in outcomes attributed to differences in procedural techniques, patient selection, materials. Widespread adoption requires standardized treatment guidelines and further research.
+
+Comparative Analysis and Clinical Implications: MTA and RETs stand out as superior alternatives to CH apexification due to reduced treatment times and higher success rates. MTA provides more predictable apical barrier formation; RET offers potential for root maturation and tooth revitalization. Lack of standardized RET protocols leads to outcome variability.
+
+Limitations and Future Directions: Included studies show biases/limitations — variability in design, sample sizes, methodologies affecting generalizability; inadequate reporting of randomization; potential selection biases; differences in outcome measurement; possible publication bias toward positive findings. Future research should focus on long-term RET studies, standardized protocols, clear success criteria, long-term survival/functionality, patient-reported outcomes, and larger comparative studies with traditional apexification in diverse populations. The clinical advantage of RET-induced root development on overall long-term tooth survival remains unclear and warrants further study.
+
+Conclusion
+
+While CH apexification remains a reliable method, MTA and RETs offer superior alternatives with significant potential for improved outcomes. This umbrella review highlights significant advancements in managing immature teeth with pulp necrosis. RETs offer a promising alternative to traditional apexification, with potential for better long-term outcomes and tooth revitalization. Integration of RETs into mainstream clinical practice requires further protocol refinement and deeper understanding of long-term efficacy. Future research should focus on standardized outcome measures and long-term follow-up studies essential for establishing RET's reliability and reproducibility.
+
+[Note: Tables 1-4 (detailed per-study data on apexification materials, RET scaffolds, RET-vs-apexification comparisons, and AMSTAR-2 domain-by-domain scoring for all 31 included SR/MAs) are present in the original PMC full text but omitted here for brevity; key extracted findings are summarized above and in the wiki page.]

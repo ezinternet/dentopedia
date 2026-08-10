@@ -44,6 +44,7 @@ Vortex plasma는 친수성 증가·탄소 감소·골모세포 부착/활성을 
 
 - Vortex plasma (magnetic field, controlled space) vs direct plasma discharge on Ti.
 - Hydrophilicity, surface chemistry, morphology; osteoblast activity.
+- **Device parameters (added 2026-08-10, re-checked PDF for a user question on vacuum-plasma treatment times):** vacuum plasma treatment device (ACTILINK reborn, Plasmapp Co., Ltd., Daejeon). Ti coupons placed in a specially designed container, airtight seal against silicone base; diaphragm pump evacuates to a base pressure of ~10 torr. Sinusoidal power at 100 kHz, peak-to-peak voltage ~3 kV. **Direct plasma treatment: 15 s. Vortex plasma treatment: 30 s.** No external/inert gas — vacuum plasma uses only residual air, unlike atmospheric-pressure jet/chamber designs that require argon/nitrogen supply.
 
 ## 4. Key Results and Benchmarks
 
@@ -61,4 +62,4 @@ Vortex plasma는 친수성 증가·탄소 감소·골모세포 부착/활성을 
 
 ## 7. Glossary
 
-- Vortex plasma = 자기장 기반 균일 플라즈마(저자 명명). Direct discharge = 임플란트를 전극으로 한 직접 방전.
+- Vortex plasma = 자기장 기반 균일 플라즈마(저자 명명), 30초. Direct discharge = 임플란트를 전극으로 한 직접 방전, 15초.

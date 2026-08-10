@@ -4,7 +4,7 @@ authors: synthesis page (compiled by Claude from 5 wiki entries ingested 2026-06
 year: 2026
 date: 2026-06-21
 category: overviews
-confidence: synthesis
+evidence_level: synthesis
 source_collection: internal
 tags: [overview, spray-and-stretch, vapocoolant, myofascial-pain, trigger-point, tmd, masticatory, dry-needling, mouth-opening, physical-therapy, transferable-evidence]
 source: synthesis

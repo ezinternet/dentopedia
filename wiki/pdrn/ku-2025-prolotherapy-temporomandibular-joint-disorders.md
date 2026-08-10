@@ -6,7 +6,7 @@ date: 2025-12-01
 doi: 10.5125/jkaoms.2025.51.6.354
 source: ku-2025-prolotherapy-temporomandibular-joint-disorders.md
 category: [pdrn]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/ku-2025-prolotherapy-temporomandibular-joint-disorders.pdf
 pdf_filename: ku-2025-prolotherapy-temporomandibular-joint-disorders.pdf
 source_collection: external

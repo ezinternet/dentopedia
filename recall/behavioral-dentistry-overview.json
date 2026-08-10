@@ -1,0 +1,49 @@
+{
+  "overview": "behavioral-dentistry-overview",
+  "date": "2026-07-23",
+  "title": "행동치의학 종합 — 리콜",
+  "source_wiki": [
+    "wiki/overviews/behavioral-dentistry-overview.md"
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "q": "동기면담(MI)의 효과에 관한 근거의 뉘앙스는?",
+      "opts": [
+        "MI는 모든 대상에서 균일하게 강한 효과",
+        "의료 일반에선 견고(Lundahl 2013 OR 1.55)하나 성인 구강건강으로 좁히면 약화(Cartes-Velasquez 2024: BoP −6.41pp만 유의, 치태·치은지수 비유의); 영유아 우식 예방엔 효과 있음",
+        "MI는 치과에서 효과가 없다",
+        "MI는 세션 횟수가 많을수록만 효과"
+      ],
+      "ans": 1,
+      "rat": "MI는 의료 일반에서 견고(Lundahl 2013 SR+MA 48 RCT, OR 1.55), 치과 한정 RCT도 5/5 양성(Kay 2016). 그러나 성인 구강건강으로 좁히면 약화 — BoP −6.41pp만 유의, 치태·치은지수 비유의(Cartes-Velasquez 2024). 영유아 우식(ECC) 예방엔 효과 있으나(Jahanshahi 2022) 세션 횟수보다 quality·≥3년 추적이 결정.",
+      "cite": "overviews/behavioral-dentistry-overview"
+    },
+    {
+      "id": "q2",
+      "q": "효과(efficacy)와 정착(implementation)의 관계는?",
+      "opts": [
+        "효과가 있으면 자동으로 정착된다",
+        "별개다 — 위생사 95%가 MI를 쓰지만 실제 환자 변화엔 회의적(Rogers 2022); 계획행동이론(TPB) 3요소(태도·규범·지각된 통제)가 사용을 예측",
+        "정착은 효과와 무관하게 항상 실패",
+        "MI는 정착이 쉽다"
+      ],
+      "ans": 1,
+      "rat": "효과와 정착은 별개 — 위생사 95%가 MI를 쓰지만 실제 환자 변화엔 회의적(Rogers 2022). 계획행동이론(TPB) 3요소(태도·규범·지각된 통제)가 사용을 예측 → 교육·환경 설계 lever. 커뮤니케이션이 의사-환자 관계(DPR)의 최대 결정요인(Choi 2024: communication > trust).",
+      "cite": "overviews/behavioral-dentistry-overview"
+    },
+    {
+      "id": "q3",
+      "q": "선택지가 갈리는 결정(임플란트·심미)에서 필수적인 것은?",
+      "opts": [
+        "술자가 단독으로 최적안을 결정",
+        "공유의사결정(SDM)과 기대관리 — 소셜미디어發 비현실적 기대를 투명한 소통·사전동의로 정렬하지 않으면 인지부조화·불만·술자 소진으로 귀결(Dawood 2025)",
+        "환자 기대는 관리 대상이 아니다",
+        "PRO는 술식 성공과 동일한 척도"
+      ],
+      "ans": 1,
+      "rat": "선택지가 갈리는 결정엔 공유의사결정(SDM)+기대관리 필수 — 소셜미디어發 비현실적 기대를 투명한 소통·사전동의로 정렬 안 하면 인지부조화·불만·술자 소진(Dawood 2025, Elwyn 2025). 환자보고결과(PRO)는 술식 성공(생존·치유)과 다른 성공 척도이나, OHRQoL 측정도구의 치과 영역 validation은 아직 부족(Doğramacı 2023).",
+      "cite": "overviews/behavioral-dentistry-overview"
+    }
+  ]
+}

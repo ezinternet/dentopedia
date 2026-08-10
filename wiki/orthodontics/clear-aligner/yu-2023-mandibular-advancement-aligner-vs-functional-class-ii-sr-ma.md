@@ -6,7 +6,7 @@ date: 2023-06-01
 doi: 10.7518/hxkq.2023.2022453
 source: yu-2023-mandibular-advancement-aligner-vs-functional-class-ii-sr-ma.md
 category: [orthodontics/clear-aligner]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: false
 pmid: "37277797"

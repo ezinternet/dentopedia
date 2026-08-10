@@ -6,7 +6,7 @@ date: 2022-07-21
 doi: 10.3390/ma15145068
 source: hajjaj-2022-cleaning-methods-zirconia-sbs.md
 category: [dental-materials/zirconia]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/hajjaj-2022-cleaning-methods-zirconia-sbs.pdf
 pdf_filename: hajjaj-2022-cleaning-methods-zirconia-sbs.pdf
 source_collection: external

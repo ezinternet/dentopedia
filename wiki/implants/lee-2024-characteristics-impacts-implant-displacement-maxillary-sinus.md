@@ -6,7 +6,7 @@ date: 2024-10-22
 doi: 10.1016/j.jds.2024.10.013
 source: lee-2024-characteristics-impacts-implant-displacement-maxillary-sinus.md
 category: [implants]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 full_text: true
 pmid: "40224111"
@@ -69,5 +69,5 @@ Retrospective cohort (IRB ERI24010; Oct 2020–Jan 2024) of patients whose displ
 ## Related Papers
 
 - [[implants/an-2017-treatment-dental-implant-displacement-maxillary-sinus]] — companion Korean paper on the extended-bony-window removal technique; this study adds the impact/outcome quantification and prognostic predictors.
-- [[implants/shenoy-2025-dental-implant-failure-retrieval-techniques-scoping]] — broad implant failure + retrieval map; this is the sinus-displacement scenario with graded (retrospective) evidence.
-- [[implants/solderer-2019-removal-failed-dental-implants-revisited]] — general explantation technique selection; complements this sinus-specific retrieval scenario.
+- [[implants/survival/shenoy-2025-dental-implant-failure-retrieval-techniques-scoping]] — broad implant failure + retrieval map; this is the sinus-displacement scenario with graded (retrospective) evidence.
+- [[implants/survival/solderer-2019-removal-failed-dental-implants-revisited]] — general explantation technique selection; complements this sinus-specific retrieval scenario.

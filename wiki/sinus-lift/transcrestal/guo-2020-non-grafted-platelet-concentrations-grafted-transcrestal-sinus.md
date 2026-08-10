@@ -6,7 +6,7 @@ date: 2020-04-03
 doi: 10.1038/s41598-020-62407-y
 journal: Scientific Reports 10:5935
 source: guo-2020-non-grafted-platelet-concentrations-grafted-transcrestal-sinus.md
-confidence: sr+ma
+evidence_level: sr+ma
 category: [sinus-lift/transcrestal]
 pdf_path: /Users/oracleneo/llm-wiki/papers/guo-2020-non-grafted-platelet-concentrations-grafted-transcrestal-sinus.pdf
 pdf_filename: guo-2020-non-grafted-platelet-concentrations-grafted-transcrestal-sinus.pdf

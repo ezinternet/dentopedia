@@ -6,7 +6,7 @@ date: 2025-05-21
 doi: 10.3390/jfb16050190
 source: dinkova-2025-local-hemostasis-oral-surgery-review.md
 category: [oral-surgery]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/dinkova-2025-local-hemostasis-oral-surgery-review.pdf
 pdf_filename: dinkova-2025-local-hemostasis-oral-surgery-review.pdf
 source_collection: external
@@ -50,4 +50,4 @@ Narrative review of 51 studies (1990–2023) evaluating 국소지혈제 (local h
 | Topical TXA | 80% ↓ hemorrhagic events in anticoagulated patients |
 
 ## Related Papers
-- [[drug/moldovan-2023-anticoagulant-oral-surgery-bleeding-sr]] — continuation vs discontinuation of anticoagulants
+- [[drug/anticoagulants/moldovan-2023-anticoagulant-oral-surgery-bleeding-sr]] — continuation vs discontinuation of anticoagulants

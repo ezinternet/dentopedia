@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1186/s12929-025-01131-z
 source: iqbal-2025-chatgpt-healthcare-umbrella-review.md
 category: [digital-workflow]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/iqbal-2025-chatgpt-healthcare-umbrella-review.pdf
 pdf_filename: iqbal-2025-chatgpt-healthcare-umbrella-review.pdf
 source_collection: external
@@ -58,7 +58,7 @@ PRISMA-compliant umbrella review (Journal of Biomedical Science 2025) synthesisi
 
 **Specialty coverage**: radiology, neurosurgery, gastroenterology, **public health dentistry**, ophthalmology
 
-## Clinical Implications [claude해석]
+## Clinical Implications [미검증]
 - The 12/17 low-quality AMSTAR-2 rating is a strong caution against citing single ChatGPT-in-healthcare SRs without inspecting methodology
 - For dental practice: public health dentistry coverage exists but is thin — direct chairside LLM evidence is patient-question-focused (see [[digital-workflow/zhang-2025-llm-patient-instructions-dentistry-sr-ma]])
 - Ethical/legal/accuracy concerns frequently raised but rarely operationalised in included SRs — policy gap

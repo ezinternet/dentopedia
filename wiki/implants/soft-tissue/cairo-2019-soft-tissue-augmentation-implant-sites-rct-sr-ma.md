@@ -6,7 +6,7 @@ date: 2019-11-15
 doi: 10.1111/cid.12861
 source: cairo-2019-soft-tissue-augmentation-implant-sites-rct-sr-ma.md
 category: [implants/soft-tissue]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/cairo-2019-soft-tissue-augmentation-implant-sites-rct-sr-ma.pdf
 pdf_filename: cairo-2019-soft-tissue-augmentation-implant-sites-rct-sr-ma.pdf
 source_collection: external
@@ -67,7 +67,7 @@ The authors concluded that soft-tissue augmentation improves peri-implant soft-t
 
 ## Related Papers
 
-- [[implants/montero-2022-soft-tissue-substitutes-vs-autogenous-keratinized-mucosa-sr]] — later SR comparing substitutes vs autogenous grafts for keratinized mucosa; extends Cairo 2019 findings
-- [[implants/stefanini-2023-soft-tissue-augmentation-peri-implant-sr]] — 2023 SR on soft-tissue augmentation around implants; updates and refines Cairo 2019 evidence
-- [[implants/thoma-2018-soft-tissue-augmentation-periimplant-health]] — companion SR evaluating peri-implant health outcomes of augmentation (same evidence period)
+- [[implants/soft-tissue/montero-2022-soft-tissue-substitutes-vs-autogenous-keratinized-mucosa-sr]] — later SR comparing substitutes vs autogenous grafts for keratinized mucosa; extends Cairo 2019 findings
+- [[implants/soft-tissue/stefanini-2023-soft-tissue-augmentation-peri-implant-sr]] — 2023 SR on soft-tissue augmentation around implants; updates and refines Cairo 2019 evidence
+- [[implants/soft-tissue/thoma-2018-soft-tissue-augmentation-periimplant-health]] — companion SR evaluating peri-implant health outcomes of augmentation (same evidence period)
 - [[overviews/keratinized-mucosa-peri-implant-health-overview]] — synthesis overview integrating KT/STT augmentation evidence with peri-implant health outcomes

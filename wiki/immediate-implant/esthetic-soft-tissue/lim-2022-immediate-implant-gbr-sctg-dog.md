@@ -6,7 +6,7 @@ date: 2022-04-01
 doi: 10.5051/jpis.2104040202
 source: lim-2022-immediate-implant-gbr-sctg-dog.md
 category: [immediate-implant/esthetic-soft-tissue]
-confidence: animal
+evidence_level: animal
 source_collection: pubmed-text
 full_text: true
 pmid: "35505577"
@@ -70,4 +70,4 @@ The directional finding is a **division of labor by vertical level**: SCTG build
 - [[immediate-implant/esthetic-soft-tissue/seyssens-2021-immediate-implant-connective-tissue-graft-sr-ma]] — clinical SR/MA favoring SCTG at IIP; this canine study supplies the histometric mechanism (coronal soft-tissue build) behind that preference.
 - [[immediate-implant/esthetic-soft-tissue/de-angelis-2021-soft-tissue-augmentation-immediate-implant-sr-ma]] — clinical SR/MA on soft-tissue augmentation at IIP; extended here with a within-animal GBR vs SCTG vs combination histologic comparison.
 - [[immediate-implant/esthetic-soft-tissue/rondone-2024-tissue-grafts-immediate-implant-sr-ma]] — more recent SR/MA on tissue grafts at IIP; consistent with SCTG benefit shown histometrically here.
-- [[immediate-implant/liu-2023-collagen-immediate-implant-soft-hard-tissue-sr-ma]] — SR/MA on combined collagen-based soft + hard tissue management at IIP; contrasts with the non-additive GBR+SCTG signal found here.
+- [[immediate-implant/gap-grafting/liu-2023-collagen-immediate-implant-soft-hard-tissue-sr-ma]] — SR/MA on combined collagen-based soft + hard tissue management at IIP; contrasts with the non-additive GBR+SCTG signal found here.

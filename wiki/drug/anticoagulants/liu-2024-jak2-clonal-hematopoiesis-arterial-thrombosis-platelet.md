@@ -7,7 +7,7 @@ doi: ""
 journal: Blood (THROMBOSIS AND HEMOSTASIS)
 source: liu-2024-jak2-clonal-hematopoiesis-arterial-thrombosis-platelet.md
 category: [drug/anticoagulants]
-confidence: in-vivo
+evidence_level: in-vivo
 pdf_path: /Users/oracleneo/llm-wiki/papers/liu-2024-jak2-clonal-hematopoiesis-arterial-thrombosis-platelet.pdf
 pdf_filename: liu-2024-jak2-clonal-hematopoiesis-arterial-thrombosis-platelet.pdf
 source_collection: external
@@ -31,7 +31,7 @@ JAK2V617F는 활성화 혈소판 표현형과 강화된 동맥혈전증을 유�
 ## Summary
 Translational research demonstrating that the JAK2V617F mutation — a hallmark driver of myeloproliferative neoplasms and a frequent finding in clonal hematopoiesis of indeterminate potential (CHIP) — increases arterial thrombosis risk through platelet activation and platelet-leukocyte cross talk. Combines mouse models with human CHIP cohort data.
 
-[claude해석] **Direct dental relevance is minimal.** This is included in the drug/ folder as part of the antithrombotic/thrombosis-mechanism knowledge base because CHIP is increasingly recognized as a shared risk factor for cardiovascular thrombosis in aging patients — exactly the dental cohort with elevated antiplatelet/anticoagulant use. The paper does not change current dental practice but explains why some patients with no traditional CV risk factors still present with thrombotic disease and end up on antithrombotic therapy.
+[미검증] **Direct dental relevance is minimal.** This is included in the drug/ folder as part of the antithrombotic/thrombosis-mechanism knowledge base because CHIP is increasingly recognized as a shared risk factor for cardiovascular thrombosis in aging patients — exactly the dental cohort with elevated antiplatelet/anticoagulant use. The paper does not change current dental practice but explains why some patients with no traditional CV risk factors still present with thrombotic disease and end up on antithrombotic therapy.
 
 [wiki-living-document] CHIP screening is not yet clinical. If/when CHIP screening enters routine cardiology workups, this paper provides the mechanistic underpinning that may inform individualized antithrombotic decisions — and indirectly, perioperative dental management.
 
@@ -52,6 +52,6 @@ JAK2V617F clonal hematopoiesis → activated platelet phenotype → enhanced art
 - No dental-specific implications
 
 ## Related Papers
-- [[drug/shah-2022-perioperative-antiplatelet-therapy-sr-ma]] — perioperative APT.
-- [[drug/uspstf-2022-aspirin-cardiovascular-disease-prevention]] — primary prevention.
-- [[drug/lu-2018-warfarin-antiplatelet-dental-extraction-management]] — dental extraction with antithrombotic.
+- [[drug/anticoagulants/shah-2022-perioperative-antiplatelet-therapy-sr-ma]] — perioperative APT.
+- [[drug/anticoagulants/uspstf-2022-aspirin-cardiovascular-disease-prevention]] — primary prevention.
+- [[drug/anticoagulants/lu-2018-warfarin-antiplatelet-dental-extraction-management]] — dental extraction with antithrombotic.

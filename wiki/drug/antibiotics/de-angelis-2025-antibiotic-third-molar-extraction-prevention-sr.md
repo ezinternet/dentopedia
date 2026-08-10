@@ -7,7 +7,7 @@ doi: 10.3390/dj13030107
 journal: Dent J 13:107
 source: de-angelis-2025-antibiotic-third-molar-extraction-prevention-sr.md
 category: [drug/antibiotics]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/de-angelis-2025-antibiotic-third-molar-extraction-prevention-sr.pdf
 pdf_filename: de-angelis-2025-antibiotic-third-molar-extraction-prevention-sr.pdf
 source_collection: external
@@ -41,7 +41,7 @@ SR on antibiotic prophylaxis in third-molar extraction. Confirms that prophylaxi
 SR of antibiotic prophylaxis RCTs/cohorts in third molar extraction.
 
 ## Results
-[합의수준] Prophylaxis marginal in simple extractions; modest in surgical/impacted extractions; NNT remains high (25 for dry socket per Camps-Font NMA), arguing against routine prescription in healthy patients.
+[확인] Prophylaxis marginal in simple extractions; modest in surgical/impacted extractions; NNT remains high (25 for dry socket per Camps-Font NMA), arguing against routine prescription in healthy patients.
 
 ## Limitations
 - SR without NMA (Camps-Font 2024 provides the NMA)
@@ -51,7 +51,7 @@ SR of antibiotic prophylaxis RCTs/cohorts in third molar extraction.
 For Korean dental practice: routine antibiotic prophylaxis for simple third molar extraction in healthy adults is not justified. For complex impacted cases (Pell-Gregory III/C, anatomically high-risk), consider preoperative single-dose amoxicillin 2g — but the NNT remains high and the AMR argument increasingly weighs against it.
 
 ## Related Papers
-- [[oral-surgery/camps-font-2024-antibiotic-prophylaxis-dry-socket-nma]] — NMA companion.
-- [[drug/lodi-2021-antibiotics-tooth-extraction-cochrane-sr]] — Cochrane companion.
-- [[oral-surgery/bailey-2020-surgical-techniques-mandibular-wisdom-teeth-sr]] — surgical technique SR.
-- [[drug/sandulescu-2024-antibiotic-prescribing-dental-best-practices-review]] — best practices.
+- [[oral-surgery/third-molar/camps-font-2024-antibiotic-prophylaxis-dry-socket-nma]] — NMA companion.
+- [[drug/antibiotics/lodi-2021-antibiotics-tooth-extraction-cochrane-sr]] — Cochrane companion.
+- [[oral-surgery/third-molar/bailey-2020-surgical-techniques-mandibular-wisdom-teeth-sr]] — surgical technique SR.
+- [[drug/antibiotics/sandulescu-2024-antibiotic-prescribing-dental-best-practices-review]] — best practices.

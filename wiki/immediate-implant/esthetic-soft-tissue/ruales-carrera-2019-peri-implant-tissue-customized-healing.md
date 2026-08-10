@@ -6,7 +6,7 @@ date: 2019-07-03
 doi: 10.1111/jerd.12512
 source: ruales-carrera-2019-peri-implant-tissue-customized-healing.md
 category: [immediate-implant/esthetic-soft-tissue]
-confidence: case-report
+evidence_level: case-report
 pdf_path: /Users/oracleneo/llm-wiki/papers/ruales-carrera-2019-peri-implant-tissue-customized-healing.pdf
 pdf_filename: ruales-carrera-2019-peri-implant-tissue-customized-healing.pdf
 source_collection: external

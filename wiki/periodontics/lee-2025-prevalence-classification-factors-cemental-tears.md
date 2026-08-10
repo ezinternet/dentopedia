@@ -6,7 +6,7 @@ date: 2025-09-30
 doi: "10.1111/iej.70042"
 source: lee-2025-prevalence-classification-factors-cemental-tears.md
 category: [periodontics]
-confidence: cross-sectional
+evidence_level: cross-sectional
 source_collection: pubmed-text
 full_text: true
 pmid: "41028944"

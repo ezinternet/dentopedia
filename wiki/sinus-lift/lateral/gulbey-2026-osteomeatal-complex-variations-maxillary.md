@@ -6,7 +6,7 @@ date: 2026-01-08
 doi: 10.1111/cid.70121
 source: gulbey-2026-osteomeatal-complex-variations-maxillary.md
 category: sinus-lift/lateral
-confidence: cross-sectional
+evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/gulbey-2026-osteomeatal-complex-variations-maxillary.pdf
 pdf_filename: gulbey-2026-osteomeatal-complex-variations-maxillary.pdf
 source_collection: external

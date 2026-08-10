@@ -7,7 +7,7 @@ doi: 10.1111/prd.12502
 pmid: "37855164"
 source: mizraji-2023-barrier-membranes-gbr-overview.md
 category: [bone-regeneration]
-confidence: narrative-review
+evidence_level: narrative-review
 text_path: /Users/oracleneo/llm-wiki/papers/mizraji-2023-barrier-membranes-gbr-overview.txt
 text_filename: mizraji-2023-barrier-membranes-gbr-overview.txt
 source_collection: pubmed-text

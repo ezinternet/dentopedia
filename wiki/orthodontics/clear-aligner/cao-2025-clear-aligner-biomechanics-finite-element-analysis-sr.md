@@ -6,7 +6,7 @@ date: 2025-07-02
 doi: "10.1186/s12903-025-06295-6"
 source: cao-2025-clear-aligner-biomechanics-finite-element-analysis-sr.md
 category: [orthodontics/clear-aligner]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "40604856"

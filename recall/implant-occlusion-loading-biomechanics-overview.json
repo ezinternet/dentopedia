@@ -1,0 +1,49 @@
+{
+  "overview": "implant-occlusion-loading-biomechanics-overview",
+  "date": "2026-07-23",
+  "title": "임플란트 교합·하중 생역학 — 리콜",
+  "source_wiki": [
+    "wiki/overviews/implant-occlusion-loading-biomechanics-overview.md"
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "q": "골유착 임플란트 교합 설계의 핵심 전제는?",
+      "opts": [
+        "임플란트는 치주인대(PDL)가 있어 자연치처럼 완충된다",
+        "PDL이 없어 교합력이 완충도 감지도 되지 않으므로 설계 목표는 하중 최소화·분산(Stilwell 2024, 파절률 ~0.5%)",
+        "임플란트는 하중이 클수록 골유착이 강해진다",
+        "교합 설계는 임플란트 예후와 무관하다"
+      ],
+      "ans": 1,
+      "rat": "골유착 임플란트는 PDL이 없어 교합력이 완충도 감지도 안 됨 → 설계 목표는 하중 최소화·분산(Stilwell 2024, 파절률 ~0.5%). 임플란트 교합접촉은 부하 후 6–12개월에 변동(대개 인접 자연치 대비 상대 저위교합). 과부하-골소실 연관은 시사되나 근거 질 낮음 — Mojaver 2025는 기계적 과부하 × biofilm의 dual-pathway(과부하는 위험증폭 인자) 제시, 인과 미확정.",
+      "cite": "overviews/implant-occlusion-loading-biomechanics-overview"
+    },
+    {
+      "id": "q2",
+      "q": "약교합(light occlusion) 전략의 시간적 한계는?",
+      "opts": [
+        "약교합은 영구적으로 유지된다",
+        "상대 교합력을 낮추나 시간이 지나며 유지되지 않고 교합력이 계속 증가(Zhang 2022, T-Scan III) → 장기 추적 필수",
+        "약교합은 교합력을 오히려 높인다",
+        "약교합은 즉시 정상 교합으로 회복된다"
+      ],
+      "ans": 1,
+      "rat": "약교합은 상대 교합력을 낮추나(4.91→10.34% vs 정상 10.45→18.15%) 시간이 지나며 유지되지 않고 교합력 계속 증가(Zhang 2022, n=50, T-Scan III) → 장기 추적 필수. 비축(nonaxial) 식립은 MBL 측정 가능 인자(비축 0.22 vs 축방향 0.10mm, Kim 2026), 대합치가 임플란트 보철일 때 페널티 최대.",
+      "cite": "overviews/implant-occlusion-loading-biomechanics-overview"
+    },
+    {
+      "id": "q3",
+      "q": "단일 구치 임플란트 수복의 교합 재점검 범위는?",
+      "opts": [
+        "해당 임플란트 국소만 점검하면 충분",
+        "단일 구치 임플란트도 교합력을 전악으로 재분배(후방↓>전방↓; Gözen 2025) → 재점검은 국소가 아닌 전악 범위로",
+        "전치부만 점검",
+        "교합 재점검은 불필요하다"
+      ],
+      "ans": 1,
+      "rat": "단일 구치 임플란트 수복도 교합력을 전악으로 재분배(후방↓>전방↓, 대합·전체↑; Gözen 2025 in-vivo n=18) → 재점검은 전악 범위로. IOS는 접촉 위치(where), OccluSense는 힘 크기(how hard) — 강하게 상관하나 호환은 아님. 점진·정적 하중은 BIC↑(적응), 고빈도 하중은 BIC↓(부적응)의 mechanostat 해석.",
+      "cite": "overviews/implant-occlusion-loading-biomechanics-overview"
+    }
+  ]
+}

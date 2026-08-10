@@ -6,7 +6,7 @@ date: 2019-10-06
 doi: 10.12998/wjcc.v7.i19.2986
 source: al-obaida-2019-comparison-perceived-pain-patients-satisfaction.md
 category: [local-anesthesia]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: true
 pmid: "31624746"

@@ -6,7 +6,7 @@ date: 2023-07-25
 doi: 10.1038/s41598-023-38894-0
 source: kim-2023-multichannel-oral-irrigator-periodontal-microbiome-rct.md
 category: [interdental-cleaning]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: true
 pmid: "37491575"

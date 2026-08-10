@@ -7,7 +7,7 @@ doi: 10.1016/j.jfma.2018.08.019
 journal: J Formos Med Assoc
 source: lu-2018-warfarin-antiplatelet-dental-extraction-management.md
 category: [drug/anticoagulants]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/lu-2018-warfarin-antiplatelet-dental-extraction-management.pdf
 pdf_filename: lu-2018-warfarin-antiplatelet-dental-extraction-management.pdf
 source_collection: external
@@ -51,7 +51,7 @@ Retrospective chart review; outcomes: bleeding rate, INR levels, regimen continu
 | DAPT (16/24) | higher than monotherapy but controllable |
 | Control no antithrombotic (1,088/1,472) | baseline |
 
-[합의수준] Authors recommend continuation of warfarin (INR<4.0) and antiplatelet therapy through dental extractions.
+[확인] Authors recommend continuation of warfarin (INR<4.0) and antiplatelet therapy through dental extractions.
 
 ## Limitations
 - Single center, retrospective, no randomization
@@ -60,9 +60,9 @@ Retrospective chart review; outcomes: bleeding rate, INR levels, regimen continu
 - Heparin bridging arm small; statistical comparison constrained
 
 ## Related Papers
-- [[drug/inchingolo-2024-anticoagulation-therapy-dental-practice-sr]] — modern SR overall.
-- [[drug/moldovan-2023-anticoagulant-oral-surgery-bleeding-sr]] — anticoagulant + oral surgery bleeding SR.
-- [[drug/kim-2000-dental-patients-systemic-disease-general-hospital]] — 1999 Korean OMFS case where pre-procedural coagulation screening was missed; this paper provides the modern positive case for non-interruption.
-- [[drug/lim-2020-antithrombotic-gi-endoscopy-korean-guideline]] — Korean cross-discipline guideline; similar logic.
-- [[drug/krishnan-2024-bleeding-uninterrupted-single-dual-antiplatelet]] — Indian DAPT comparative study.
-- [[drug/guardieiro-2023-chitosan-cellulose-hemostasis-dapt-rct]] — local hemostatic methods comparison in DAPT.
+- [[drug/anticoagulants/inchingolo-2024-anticoagulation-therapy-dental-practice-sr]] — modern SR overall.
+- [[drug/anticoagulants/moldovan-2023-anticoagulant-oral-surgery-bleeding-sr]] — anticoagulant + oral surgery bleeding SR.
+- [[drug/anticoagulants/kim-2000-dental-patients-systemic-disease-general-hospital]] — 1999 Korean OMFS case where pre-procedural coagulation screening was missed; this paper provides the modern positive case for non-interruption.
+- [[drug/anticoagulants/lim-2020-antithrombotic-gi-endoscopy-korean-guideline]] — Korean cross-discipline guideline; similar logic.
+- [[drug/anticoagulants/krishnan-2024-bleeding-uninterrupted-single-dual-antiplatelet]] — Indian DAPT comparative study.
+- [[drug/anticoagulants/guardieiro-2023-chitosan-cellulose-hemostasis-dapt-rct]] — local hemostatic methods comparison in DAPT.

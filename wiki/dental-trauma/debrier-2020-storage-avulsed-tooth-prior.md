@@ -6,7 +6,7 @@ date: 2020-06-15
 doi: 10.1111/edt.12564
 source: debrier-2020-storage-avulsed-tooth-prior.md
 category: [dental-trauma]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: false
 pmid: "32344468"

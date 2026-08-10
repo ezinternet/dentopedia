@@ -6,7 +6,7 @@ date: 2022-09-12
 doi: 10.4103/jcd.jcd_234_22
 source: singh-2022-cshaped-canal-second-molars-indian-cbct.md
 category: [endodontics/anatomy]
-confidence: cross-sectional
+evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/singh-2022-cshaped-canal-second-molars-indian-cbct.pdf
 pdf_filename: singh-2022-cshaped-canal-second-molars-indian-cbct.pdf
 source_collection: external

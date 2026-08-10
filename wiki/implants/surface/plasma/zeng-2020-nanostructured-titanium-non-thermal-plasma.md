@@ -6,7 +6,7 @@ date: 2020-05-16
 doi: 10.3390/ijms21103533
 source: zeng-2020-nanostructured-titanium-non-thermal-plasma.md
 category: [implants/surface/plasma]
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/zeng-2020-nanostructured-titanium-non-thermal-plasma.pdf
 pdf_filename: zeng-2020-nanostructured-titanium-non-thermal-plasma.pdf
 source_collection: external

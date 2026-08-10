@@ -6,7 +6,7 @@ date: 2015-05-01
 doi: 10.1016/j.jdent.2015.05.001
 source: astvaldsdottir-2015-posterior-resin-composite-longevity-sr.md
 category: ['resin']
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/astvaldsdottir-2015-posterior-resin-composite-longevity-sr.pdf
 pdf_filename: astvaldsdottir-2015-posterior-resin-composite-longevity-sr.pdf
 source_collection: external

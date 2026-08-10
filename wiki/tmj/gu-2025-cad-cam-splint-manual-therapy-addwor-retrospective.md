@@ -7,7 +7,7 @@ doi: 10.22514/jofph.2025.055
 pmcid: "PMC12520436"
 source: gu-2025-cad-cam-splint-manual-therapy-addwor-retrospective.md
 category: [tmj]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 full_text: true
 text_path: /Users/oracleneo/llm-wiki/papers/gu-2025-cad-cam-splint-manual-therapy-addwor-retrospective.txt

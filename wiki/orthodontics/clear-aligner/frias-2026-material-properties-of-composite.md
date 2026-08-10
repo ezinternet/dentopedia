@@ -6,7 +6,7 @@ date: 2026-06-02
 doi: 10.3390/biom16060822
 source: frias-2026-material-properties-of-composite.md
 category: [orthodontics/clear-aligner]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/frias-2026-material-properties-of-composite.pdf
 pdf_filename: frias-2026-material-properties-of-composite.pdf
 source_collection: external

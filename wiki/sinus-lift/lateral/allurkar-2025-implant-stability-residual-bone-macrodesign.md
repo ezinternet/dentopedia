@@ -6,7 +6,7 @@ date: 2025-01-31
 doi: 10.6026/973206300210040
 journal: Bioinformation 21(1):40-43
 source: allurkar-2025-implant-stability-residual-bone-macrodesign.md
-confidence: in-vitro
+evidence_level: in-vitro
 category: [sinus-lift/lateral]
 pdf_path: /Users/oracleneo/llm-wiki/papers/allurkar-2025-implant-stability-residual-bone-macrodesign.pdf
 pdf_filename: allurkar-2025-implant-stability-residual-bone-macrodesign.pdf
@@ -51,6 +51,6 @@ In vitro bovine rib (type-IV bone mimic), 160 specimens, 4 RBH × 4 Straumann ma
 
 ## Related Papers
 - [[implants/isq/sennerby-2008-implant-stability-resonance-frequency-analysis]] — ISQ determined by bone quality + BIC + exposed length
-- [[implants/di-stefano-2021-stability-dental-implants-cortical-bone]] — cortical thickness ↔ ISQ
+- [[implants/isq/di-stefano-2021-stability-dental-implants-cortical-bone]] — cortical thickness ↔ ISQ
 - [[sinus-lift/lateral/ramirez-fernandez-2017-implant-stability-biological-hydroxyapatites-sinus]] — clinical ISQ trajectory after sinus lift
 - [[sinus-lift/transcrestal/sirinirund-2025-minimally-invasive-sinus-augmentation-review]] — RBH threshold for technique choice

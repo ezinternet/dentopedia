@@ -6,7 +6,7 @@ date: 2022-11-14
 doi: 10.1111/cid.13154
 source: qian-2023-iip-buccal-bone-dehiscence-anterior-maxilla.md
 category: [immediate-implant/esthetic-soft-tissue]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/qian-2023-iip-buccal-bone-dehiscence-anterior-maxilla.pdf
 pdf_filename: qian-2023-iip-buccal-bone-dehiscence-anterior-maxilla.pdf
 source_collection: external
@@ -45,4 +45,4 @@ Small n; 1-year follow-up; no comparator group.
 ## Related Papers
 - [[immediate-implant/esthetic-soft-tissue/pohl-2022-iipp-anterior-maxilla-buccal-dehiscence-pilot]]
 - [[immediate-implant/esthetic-soft-tissue/nassani-2025-immediate-vs-delayed-implant-bony-defect-commentary]]
-- [[immediate-implant/trombelli-2024-bioarp-bone-dehiscence-immediate-implant]]
+- [[immediate-implant/gap-grafting/trombelli-2024-bioarp-bone-dehiscence-immediate-implant]]

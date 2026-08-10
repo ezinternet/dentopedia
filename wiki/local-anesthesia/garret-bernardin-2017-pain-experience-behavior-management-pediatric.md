@@ -6,7 +6,7 @@ date: 2017-02-15
 doi: 10.1155/2017/7941238
 source: garret-bernardin-2017-pain-experience-behavior-management-pediatric.md
 category: [local-anesthesia]
-confidence: prospective
+evidence_level: prospective
 source_collection: pubmed-text
 full_text: true
 pmid: "28293129"

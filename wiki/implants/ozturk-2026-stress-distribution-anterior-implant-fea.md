@@ -6,7 +6,7 @@ date: 2026-04-15
 doi: 10.1186/s12903-026-08405-4
 source: ozturk-2026-stress-distribution-anterior-implant-fea.md
 category: [implants]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/ozturk-2026-stress-distribution-anterior-implant-fea.pdf
 pdf_filename: ozturk-2026-stress-distribution-anterior-implant-fea.pdf
 source_collection: external
@@ -45,5 +45,5 @@ Stress patterns sensitive to bone thickness and loading angle; identifies high-r
 Pre-publication version (article in press); FEA idealizations; not clinical outcome.
 
 ## Related Papers
-- [[implants/baki-2025-all-on-4-trefoil-five-implant-fea]]
+- [[implants/full-arch/baki-2025-all-on-4-trefoil-five-implant-fea]]
 - [[immediate-implant/esthetic-soft-tissue/yang-2019-labial-bone-thickness-esthetics-iipp]]

@@ -6,7 +6,7 @@ date: 2026-06-12
 doi: 10.11607/jomi.11349
 source: shirani-2026-computer-assisted-vs-freehand-implant-placement-sr-ma.md
 category: [digital-workflow]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/shirani-2026-computer-assisted-vs-freehand-implant-placement-sr-ma.pdf
 pdf_filename: shirani-2026-computer-assisted-vs-freehand-implant-placement-sr-ma.pdf
 source_collection: external

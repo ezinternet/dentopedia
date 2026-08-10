@@ -6,7 +6,7 @@ date: 2025-08-30
 doi: 10.62347/RHSD5636
 source: samani-2025-nsaids-endodontic-postoperative-network.md
 category: [drug/analgesics]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/samani-2025-nsaids-endodontic-postoperative-network.pdf
 pdf_filename: samani-2025-nsaids-endodontic-postoperative-network.pdf
 source_collection: external
@@ -52,6 +52,6 @@ Network meta-analysis. Databases: Scopus, PubMed, Google Scholar (searched to Fe
 | 72 h | −0.64 | 73.1 |
 
 ## Related Papers
-- [[drug/smith-2017-nsaids-postoperative-endodontic-pain]] — earlier SR+MA focused on 6 h, preop-pain subgroup
-- [[drug/di-spirito-2022-endodontic-pain-management-overview]] — integrated pharmacological + technical overview
-- [[drug/pak-2011-root-canal-pain-prevalence-severity]] — baseline pain natural history without medication focus
+- [[drug/analgesics/smith-2017-nsaids-postoperative-endodontic-pain]] — earlier SR+MA focused on 6 h, preop-pain subgroup
+- [[drug/analgesics/di-spirito-2022-endodontic-pain-management-overview]] — integrated pharmacological + technical overview
+- [[endodontics/pak-2011-root-canal-pain-prevalence-severity]] — baseline pain natural history without medication focus

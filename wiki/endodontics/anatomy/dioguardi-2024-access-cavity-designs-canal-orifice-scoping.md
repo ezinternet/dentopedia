@@ -6,7 +6,7 @@ date: 2024-09-07
 doi: 10.1002/cre2.70013
 journal: Clinical and Experimental Dental Research 10:e70013
 source: dioguardi-2024-access-cavity-designs-canal-orifice-scoping.md
-confidence: sr
+evidence_level: sr
 category: [endodontics/anatomy]
 pdf_path: /Users/oracleneo/llm-wiki/papers/dioguardi-2024-access-cavity-designs-canal-orifice-scoping.pdf
 pdf_filename: dioguardi-2024-access-cavity-designs-canal-orifice-scoping.pdf

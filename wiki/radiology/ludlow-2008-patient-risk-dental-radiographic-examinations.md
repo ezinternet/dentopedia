@@ -7,7 +7,7 @@ doi: 10.14219/jada.archive.2008.0339
 pmid: "18762634"
 source: ludlow-2008-patient-risk-dental-radiographic-examinations.md
 category: [radiology]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: false
 text_path: /Users/oracleneo/llm-wiki/papers/ludlow-2008-patient-risk-dental-radiographic-examinations.txt

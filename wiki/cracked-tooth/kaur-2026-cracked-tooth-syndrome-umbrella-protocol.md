@@ -6,7 +6,7 @@ date: 2026-01-01
 doi: 10.1186/s13643-025-03048-y
 journal: Systematic Reviews 15:41
 source: kaur-2026-cracked-tooth-syndrome-umbrella-protocol.md
-confidence: synthesis
+evidence_level: synthesis
 category: [cracked-tooth]
 pdf_path: /Users/oracleneo/llm-wiki/papers/kaur-2026-cracked-tooth-syndrome-umbrella-protocol.pdf
 pdf_filename: kaur-2026-cracked-tooth-syndrome-umbrella-protocol.pdf
@@ -46,8 +46,8 @@ Manipal 치과대학 Systematic Reviews 15:41 2026년 사전 등록 프로토콜
 
 ## Strengths and Caveats
 [synthesis] Protocol — primary data 없음
-[근거강함] 본 protocol 등록은 분야 standard
-[claude해석] Protocol과 actual review 사이 deviation은 항상 존재 — 비교 필요
+[확인] 본 protocol 등록은 분야 standard
+[미검증] Protocol과 actual review 사이 deviation은 항상 존재 — 비교 필요
 
 ## Related Papers
 - [[cracked-tooth/kaur-2026-cracked-tooth-syndrome-umbrella-review]] — actual umbrella review

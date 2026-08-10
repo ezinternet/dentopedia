@@ -7,7 +7,7 @@ doi: 10.11607/jomi.11175
 pmid: "40279380"
 source: lan-2025-long-term-four-implant-supported.md
 category: [complete-denture]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/lan-2025-long-term-four-implant-supported.pdf
 pdf_filename: lan-2025-long-term-four-implant-supported.pdf
 source_collection: external

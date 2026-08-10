@@ -15,9 +15,10 @@ source_papers:
   - wiki/bone-regeneration/manekar-2022-modern-devices-alveolar-ridge-split-expansion-sr.md
   - wiki/bone-regeneration/simion-1992-jawbone-enlargement-split-crest-gtr.md
   - wiki/bone-regeneration/vorovenci-2024-horizontal-ridge-augmentation-od-gbr-ridge-split-sr-ma.md
-  - wiki/implants/chen-2022-reverse-drilling-technique-alveolar-ridge-expansion.md
-  - wiki/implants/versah-protocols/guner-2025-osseodensification-ridge-split-implant-stability.md
-confidence: synthesis
+  - wiki/implants/osteotomy-thermal/chen-2022-reverse-drilling-technique-alveolar-ridge-expansion.md
+  - wiki/implants/osseodensification/guner-2025-osseodensification-ridge-split-implant-stability.md
+  - wiki/bone-regeneration/oh-2026-narrow-alveolar-ridge-splitting-miniplates.md
+evidence_level: synthesis
 source: synthesis
 ---
 
@@ -32,12 +33,14 @@ source: synthesis
 > - 상악 vs 하악: 상악은 점탄성·낮은 피질밀도(D2–D4)로 분할이 더 예측 가능, 하악(D1–D2)은 두꺼운 피질로 녹색골절(greenstick fracture) 제어가 어려워 협측분절 완전골절(malfracture) 위험 → 하악 치밀골은 **2단계 또는 지연식립** 권장(Lin 2023).
 > - 2단계 고전 해법(Enislidis 2006): 1차 협측 피질골절단(corticotomy)으로 골절선을 미리 정하고 40일 치유 후 분할, 협측분절을 골막 유경피판으로 유지 → 6개월 17개 임플란트 전부 안정·부하 성공(소규모 n=5, case-report 수준).
 > - 기구 선택(Manekar 2022 SR+MA): 초음파/피에조(USG)가 골폭 증가 3.40 mm로 전동확장기(Motorized Ridge Expander, MRE) 2.83 mm보다 큼(p<0.0001)이나 생존은 동등(~98%) — USG는 골이동술(osteo-mobilization, 지연식립), MRE는 최소침습 골응축(osteo-condensation, 즉시식립)에 적합. GRADE는 very low.
+> - **같은 가족의 인접 술식 — 치조제 유래 골편 셸(bone shell, Pohl 2023)**: 나이프에지 치조제의 **치관측 분절 자체를 측방으로 이동**시켜 자가 셸로 쓰는 술식(공여부와 수여부가 일치). 심한 전방 하악 수평 위축 5명·20부위에서 치조정 1 mm 아래 **3.6 ± 0.76 mm**, 5 mm 아래 3.4 ± 0.92 mm 증대 — 위 서열의 치조제 분할술(3.66 mm)과 사실상 같은 급이고 골유도재생술(4.04 mm)보다 약간 낮다. 20부위 전부 단계식립 가능 골량 회복, 추가 경조직 이식 필요는 2/20뿐. **가장 큰 술식적 함의: 공여부=수여부이므로 골막이완절개(Periosteal Releasing Incision, PRI)나 판막 전진 없이 일차폐쇄가 가능**했다고 보고 — 판막 장력 문제 자체를 우회한다. 단 **초록 수준 근거·n=5/20·대조군 없음**으로 위 SR+MA들과 같은 무게로 읽으면 안 된다. [확인(수치)/미검증(비교 우열)]
 > - OD 보조 분할(Guner 2025 후향, n=268): OD가 분할 맥락에서 상악·하악구치부 ISQ를 유의하게 높이고(전부 ISQ ≥65 달성) 골폭 증대는 동등 — 즉 OD는 폭을 더 늘리진 않아도 저밀도골 1차 안정성을 보강. 단 in-vitro(Chen 2022)는 OD 확장 이득이 좁은 골(6.75 mm)에서만 나타나고 탄성반발로 식립깊이가 얕아지는 trade-off를 보임.
 > - 합병증·안전 경고: 주된 술중 위험은 협측판 골절(buccal plate fracture, 4–10%)·열개(dehiscence)이며 골폭 <3 mm에서 급증(Lin 2023); 과도한 OD 압축은 혈류 감소·발열로 임플란트 실패를 유발할 수 있음(Rizk 2024 RCT 3건 실패, López-Valverde 2025 인용). 임상근거 전반은 비무작위 위주·GRADE 낮음 → 동의서에 근거 수준 명시 권장.
+> - **2단계 해법의 현대화 — 미니플레이트 고정(Oh 2026, 증례 3)**: Enislidis 2006의 corticotomy 예비절단에 간헐적 수평 골절단 + 티타늄 미니플레이트/미니스크류 고정을 더한 변형 다단계 분할술. 협측판 조절파절 방지 + 협측·구개측 양방향 확장(상악)까지 가능해 협착 <4mm 극협착 치조제에도 적용, 3예 전부 최대 24개월 골유착·합병증 없음 — 단 하드웨어 제거 재수술이 필요하고 근거는 증례 수준.
 
 ## Three-line Summary
 
-Hub synthesis of 10 wiki pages (4 SR+MA, 1 qualitative SR, 1 SR+MA on staging, 2 classic case-series, 1 in-vitro bench, 1 retrospective) on alveolar ridge split/expansion for horizontal augmentation of the narrow crest; ridge split reliably delivers ~3.3–3.7 mm width gain and ~98–99% implant survival without a donor site (Lin 2023 SR+MA).
+Hub synthesis of 11 wiki pages (4 SR+MA, 1 qualitative SR, 1 SR+MA on staging, 3 case series [2 classic + 1 modern miniplate-fixation], 1 in-vitro bench, 1 retrospective) on alveolar ridge split/expansion for horizontal augmentation of the narrow crest; ridge split reliably delivers ~3.3–3.7 mm width gain and ~98–99% implant survival without a donor site (Lin 2023 SR+MA).
 
 The bone-gain hierarchy vs alternatives is GBR 4.04 > RS 3.66 > OD 2.15 mm (Vorovenci 2024, P=0.002), but survival is technique-independent (~99%) across all three modalities, so selection hinges on starting crest width (RS for ≤3 mm, OD for low-density D3–D4), staging (one-stage favoured SMD ~0.89 but low-certainty, Khanum 2024; two-stage for dense mandible), grafting threshold (≥3 mm → expansion alone, <3 mm → selective graft, Abdallaoui 2025), and device (piezo/USG larger gain, MRE enables immediate placement, Manekar 2022).
 
@@ -45,7 +48,7 @@ Buccal plate fracture (4–10%) and dehiscence are the main intraoperative risks
 
 ## 세줄요약
 
-10개 위키 페이지 종합 — 치조제 분할·확장술(Alveolar Ridge Split, ARS/RS)은 공여부 없이 폭 +3.3–3.7 mm·생존율 ~98–99%를 신뢰성 있게 달성하며(Lin 2023 SR+MA), 대안 대비 골증대량 서열은 골유도재생술(GBR) 4.04 > 치조제 분할술(RS) 3.66 > 골밀도화(OD) 2.15 mm이나(Vorovenci 2024, P=0.002) 생존율은 세 술식 모두 ~99%로 동등하다.
+11개 위키 페이지 종합 — 치조제 분할·확장술(Alveolar Ridge Split, ARS/RS)은 공여부 없이 폭 +3.3–3.7 mm·생존율 ~98–99%를 신뢰성 있게 달성하며(Lin 2023 SR+MA), 대안 대비 골증대량 서열은 골유도재생술(GBR) 4.04 > 치조제 분할술(RS) 3.66 > 골밀도화(OD) 2.15 mm이나(Vorovenci 2024, P=0.002) 생존율은 세 술식 모두 ~99%로 동등하다.
 
 술식 선택 기준: 시작 골폭(가장 좁으면 RS, 저밀도골 D3–D4이면 OD), 단계(1단계 SMD ~0.89로 우세하나 근거 낮음, 하악 치밀골은 2단계·지연식립), 이식 여부(≥3 mm 단독, <3 mm 선택적 이식, Abdallaoui 2025), 기구(피에조 폭 증대 큼, 전동확장기(MRE) 즉시식립 적합, Manekar 2022).
 
@@ -121,12 +124,14 @@ Khanum 2024 is the first SR+MA to directly pool one-stage (split + implant in th
 
 The mandible is the principal exception that pulls toward **two-stage**. Lin 2023 spells out the difficulty gradient: the maxilla gains more width (thicker, more viscoelastic buccal wall; D2/D3/D4) and is more predictable, whereas the dense mandible (D1/D2) makes the greenstick fracture poorly controllable — so a delayed/two-stage approach is recommended in the mandible and whenever ridge width <3 mm. Enislidis 2006 is the canonical two-stage solution: a **first-stage buccal corticotomy predetermines the fracture line**, and after 40 days the ridge is split with the buccal segment kept **periosteally pedicled** (perfusion shifting internal→external) — 100% planned fractures and 100% 6-month implant stability/loading in 5 patients (17 implants), albeit case-report-level evidence.
 
+**Oh 2026** (case series, n=3) extends the same two-stage philosophy with a second control mechanism beyond corticotomy: intermittent **horizontal** osteotomies every 2–3 mm (rather than one continuous sagittal cut) combined with rigid **titanium miniplate/miniscrew fixation** of the expanded buccal segment during consolidation. This converts the single-attempt greenstick expansion that risks malfracture in dense bone into an incremental, hardware-stabilized process — and, unlike Enislidis 2006's mandible-only case series, Oh 2026 demonstrates **bidirectional** buccal + palatal expansion in the maxilla for extremely narrow ridges (<4 mm), extending the staged-with-fixation approach beyond unidirectional mandibular indications. Autogenous bone chips from the osteotomy trimming filled the resulting gaps, avoiding a second donor site. All 3 cases (2 maxillary posterior, 1 mandibular posterior) achieved osseointegration with no complications at up to 24 months, though hardware removal requires a second minor procedure and the evidence remains case-series level, like Enislidis 2006 before it.
+
 | Factor | Favours ONE-STAGE | Favours TWO-STAGE |
 |---|---|---|
 | Pooled effect | one-stage superior, SMD ~0.89 (Khanum 2024, low-certainty) | — |
 | Jaw / bone density | maxilla, D2–D4 (viscoelastic, predictable split — Lin 2023) | **dense mandible D1–D2** (greenstick uncontrollable, malfracture risk — Lin 2023, Enislidis 2006) |
 | Ridge width | adequate residual width, sufficient primary stability achievable | **<3 mm**, thin/dense crest (Lin 2023) |
-| Fracture control | thin maxillary cortex spreads as greenstick | corticotomy predetermines fracture line, periosteal pedicle preserves perfusion (Enislidis 2006) |
+| Fracture control | thin maxillary cortex spreads as greenstick | corticotomy predetermines fracture line, periosteal pedicle preserves perfusion (Enislidis 2006); intermittent horizontal cuts + miniplate fixation give incremental, hardware-controlled expansion (Oh 2026) |
 | Treatment time / surgeries | fewer (one surgery, immediate implant) | longer (two surgeries, ~40-day interval) |
 
 ---
@@ -193,8 +198,10 @@ Piezosurgery is the recurring complication-reducer (Abdallaoui 2025 ranks it as 
 - [[bone-regeneration/manekar-2022-modern-devices-alveolar-ridge-split-expansion-sr]] — 기구 선택(USG 3.40 vs MRE 2.83 mm; OM↔USG, CO-OC↔MRE, MRE=즉시식립)
 - [[bone-regeneration/simion-1992-jawbone-enlargement-split-crest-gtr]] — split-crest 원위(녹색골절+즉시식립+e-PTFE GTR), RS lineage의 출발점
 - [[bone-regeneration/enislidis-2006-staged-ridge-splitting-implant-mandible]] — 2단계 하악 corticotomy 해법(골절선 예비결정, 협측분절 골막 유경)
-- [[implants/versah-protocols/guner-2025-osseodensification-ridge-split-implant-stability]] — OD 보조 분할(상악·하악구치부 ISQ↑, 전부 ≥65; 골폭 증대는 동등) — OD는 stability 보강용
-- [[implants/chen-2022-reverse-drilling-technique-alveolar-ridge-expansion]] — in-vitro: 역회전 OD 확장 이득은 좁은 골(6.75 mm)에서만·탄성반발로 식립깊이 얕아짐 — OD 확장 claim의 한계
+- [[bone-regeneration/oh-2026-narrow-alveolar-ridge-splitting-miniplates]] — 미니플레이트 고정 변형 다단계 분할술(증례 3): 간헐적 수평 골절단 + 강성 고정, 상악 양방향(협·구개측) 확장까지 — Enislidis 2006 2단계 계보의 현대적 확장, 근거는 여전히 증례 수준
+- [[implants/osseodensification/guner-2025-osseodensification-ridge-split-implant-stability]] — OD 보조 분할(상악·하악구치부 ISQ↑, 전부 ≥65; 골폭 증대는 동등) — OD는 stability 보강용
+- [[implants/osteotomy-thermal/chen-2022-reverse-drilling-technique-alveolar-ridge-expansion]] — in-vitro: 역회전 OD 확장 이득은 좁은 골(6.75 mm)에서만·탄성반발로 식립깊이 얕아짐 — OD 확장 claim의 한계
 - [[bone-regeneration/ayoub-2018-ridge-splitting-horizontal-augmentation-case]] — RS 수평증대 증례 (위 SR+MA들이 pool한 technique family의 case-level 예)
 - [[overviews/bone-regeneration-protocol-ladder]] — 골재생 술식 사다리(GBR>RS>OD gain hierarchy를 증대 결정 ladder에 공급)
 - [[overviews/osseodensification-clinical-applications]] — OD 전반 의사결정(narrow-ridge spoke를 본 overview가 보강)
+- [[bone-regeneration/pohl-2023-bone-shell-technique-relocated-crestal]] — 치조제 치관측 분절을 측방 이동시켜 자가 셸로 쓰는 공여부-없는 수평증대(5명·20부위, 3.6 mm gain, PRI·판막전진 불필요); 초록 수준·무대조 — 위 서열의 동급 후보이나 근거 무게는 낮음

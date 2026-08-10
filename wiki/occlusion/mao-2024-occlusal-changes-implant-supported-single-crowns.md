@@ -6,7 +6,7 @@ date: 2024-01-01
 doi: 10.1016/j.jdent.2024.105000
 source: mao-2024-occlusal-changes-implant-supported-single-crowns.md
 category: [occlusion]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/mao-2024-occlusal-changes-implant-supported-single-crowns.pdf
 pdf_filename: mao-2024-occlusal-changes-implant-supported-single-crowns.pdf
 source_collection: external
@@ -43,7 +43,7 @@ Charite Berlin 보철과 SR+MA. 임플란트 지지 단관의 부하 후 1년간
 PubMed/Embase/Cochrane, RCT/CCT(≥10명) 포함.
 
 ## Results
-부하 후 1년에 걸쳐 임플란트 단관 교합접촉 변화(인접 자연치 대비 상대 저위교합 경향) [합의수준]. 구체 effect는 본문 보강.
+부하 후 1년에 걸쳐 임플란트 단관 교합접촉 변화(인접 자연치 대비 상대 저위교합 경향) [확인]. 구체 effect는 본문 보강.
 
 ## Related Papers
 - [[implants/stilwell-2024-occlusal-considerations-implant-maintenance]] — 연간 교합점검

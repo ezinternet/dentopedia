@@ -3,7 +3,7 @@ title: "Overview: Dental Radiographic Effective Doses as Natural-Background Equi
 type: synthesis
 category: overviews
 date: 2026-06-25
-confidence: synthesis
+evidence_level: synthesis
 source_papers:
   - wiki/radiology/lee-2021-dental-imaging-doses-web-dose-calculator.md
   - wiki/radiology/benchimol-2018-collimation-panoramic-effective-dose-reduction.md

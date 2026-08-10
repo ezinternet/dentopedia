@@ -5,7 +5,7 @@ authors: synthesis
 year: 2026
 date: 2026-07-01
 category: overviews
-confidence: synthesis
+evidence_level: synthesis
 source_collection: synthesis
 source_papers:
   - wiki/local-anesthesia/kucukkurt-2026-comparison-five-anesthetic-delivery.md
@@ -21,21 +21,23 @@ tags: [local-anesthesia, cclad, the-wand, sta, needle-free, computerized-anesthe
 relations:
   - type: extends
     target: kucukkurt-2026-comparison-five-anesthetic-delivery
+  - type: refines
+    target: garret-bernardin-2017-pain-experience-behavior-management-pediatric
 ---
 
 ## 한국어 핵심요약
 
 > [!summary] 한국어 핵심요약
 > - 핵심 명제: "바늘없는/압력조절/컴퓨터제어 마취 전달장치(CCLAD·The Wand·STA·needle-free jet injector 등)가 통증을 줄인다"는 통념은 **연구설계 엄격도에 반비례**한다 — 가장 크고 엄격한 5군 RCT(Küçükkurt 2026, n=200)는 주사통증 자체에서 5개 시스템 간 유의차 없음(p=0.380)을 보고.
-> - 명제1: 구개침윤 5-arm 직접비교(CDS·수동압력주사·스프링압력주사·바늘없는분사·CCLAD)에서 통증강도 차이는 모두 Hedges g<0.20(무시할 수준) — 단 공포감소는 스프링압력주사(PCJ)가 최대(ΔVAS −2.7), 맥박상승은 CCLAD가 최대(Küçükkurt 2026, RCT n=200). [근거강함]
-> - 명제2: 장비의 작동원리를 환자에게 사전 설명해도 불안·통증이 줄지 않음(NS) — "컴퓨터제어"라는 브랜딩·설명 자체는 활성 성분이 아님(Rizzo-Lorenzo 2020, RCT n=68). [근거강함]
+> - 명제1: 구개침윤 5-arm 직접비교(CDS·수동압력주사·스프링압력주사·바늘없는분사·CCLAD)에서 통증강도 차이는 모두 Hedges g<0.20(무시할 수준) — 단 공포감소는 스프링압력주사(PCJ)가 최대(ΔVAS −2.7), 맥박상승은 CCLAD가 최대(Küçükkurt 2026, RCT n=200). [확인]
+> - 명제2: 장비의 작동원리를 환자에게 사전 설명해도 불안·통증이 줄지 않음(NS) — "컴퓨터제어"라는 브랜딩·설명 자체는 활성 성분이 아님(Rizzo-Lorenzo 2020, RCT n=68). [확인]
 > - 명제3: 그러나 소아 crossover 연구에서는 The Wand가 전통 syringe 대비 통증·심박수·행동 모두에서 일관되게 우위(Garret-Bernardin 2017, n=67) — 성인 구개침윤과 소아 협측주사는 다른 결과를 보이는 맥락 의존성.
 > - 명제4: 수복치료에서 STA는 **주사 자체의 통증은 줄이지 못하지만**(NS, p=0.59) 수복 시술 중 통증·만족도·향후 선호는 유의하게 개선(p<0.001/0.04) — 이득이 "주사 순간"이 아니라 "이후 시술 전체"에 있음(Al-Obaida 2019, RCT n=80).
 > - 명제5: 외과 발치(매복 제3대구치)에서 STA(WANDSTA)는 IANB보다 발현이 빠르지만(2.2분↑) 거상 시 통증이 오히려 높고 장협신경 추가블록 필요율도 높음(50% vs 23.3%) — device가 외과 마취의 만능 대안은 아님(Ramanathan 2023, RCT n=60, abstract-only).
 > - 명제6: 임플란트 수술 전후비교 코호트는 STA가 통증을 극적으로 낮춘다고 보고하나(1.6 vs 7.9/10, p<0.0001) 비맹검·회상편향 위험이 큰 최약체 근거등급(Grassi 2017, prospective n=45, abstract-only) — 다른 명제들과 신뢰도 격차 큼.
 > - 명제7: 치주기구조작에서 컴퓨터제어 침습마취는 통증강도는 표면겔과 동등하지만 보충마취 필요율을 압도적으로 낮춤(24% vs 100%, p<0.001) — 1차 통증 대신 "추가마취 회피"가 실질 이득(Cabral 2026, RCT n=76).
 > - 명제8: 주사 자체를 없애는 대안 경로도 존재 — needle-free 점막부착 패치(90% 무주사 완료, Adami 2021)와 컴퓨터구동 골내마취(QuickSleeper5, 4% articaine 협측침윤 대비 성공률 100% vs 70.8%, Park 2024)는 "주사를 덜 아프게" 대신 "주사 경로를 바꾸는" 전략.
-> - 중심 긴장점: device 우위 주장은 **1차 통증강도**(가장 엄격히 측정되는 지표)에서는 잘 재현되지 않고, **공포·불안·보충마취 필요율·시술후 만족도** 같은 2차/심리적 지표에서 더 일관되게 나타난다. 임상적 가치는 "덜 아프다"보다 "덜 무섭고 덜 재주사한다"에 가깝다. [claude해석]
+> - 중심 긴장점: device 우위 주장은 **1차 통증강도**(가장 엄격히 측정되는 지표)에서는 잘 재현되지 않고, **공포·불안·보충마취 필요율·시술후 만족도** 같은 2차/심리적 지표에서 더 일관되게 나타난다. 임상적 가치는 "덜 아프다"보다 "덜 무섭고 덜 재주사한다"에 가깝다. [미검증]
 > - 임상 적용: device를 "통증 감소 도구"로 홍보하지 말 것(엄격 RCT 반증); "공포 감소·보충마취 회피·소아 협조도 개선" 도구로는 근거 견고. 외과 발치의 1차 대안으로는 부적합(보충블록 필요율↑).
 
 ## Three-line Summary
@@ -62,16 +64,16 @@ Clinical bottom line: market these devices as anxiety-reduction and supplemental
 
 핵심 명제 8개:
 
-1. **가장 크고 엄격한 5군 직접비교 RCT는 5개 전달시스템(CDS·수동압력·스프링압력·바늘없는분사·CCLAD) 간 주사통증에 유의차 없음(p=0.380, 모든 Hedges g<0.20).** — Küçükkurt 2026, RCT(n=200, 5-arm). [근거강함]
-2. **장비 작동원리에 대한 사전 정보제공 자체는 불안·통증을 줄이지 않는다 — "컴퓨터제어"라는 설명·안심 효과는 활성 성분이 아니다.** — Rizzo-Lorenzo 2020, RCT(n=68). [근거강함]
+1. **가장 크고 엄격한 5군 직접비교 RCT는 5개 전달시스템(CDS·수동압력·스프링압력·바늘없는분사·CCLAD) 간 주사통증에 유의차 없음(p=0.380, 모든 Hedges g<0.20).** — Küçükkurt 2026, RCT(n=200, 5-arm). [확인]
+2. **장비 작동원리에 대한 사전 정보제공 자체는 불안·통증을 줄이지 않는다 — "컴퓨터제어"라는 설명·안심 효과는 활성 성분이 아니다.** — Rizzo-Lorenzo 2020, RCT(n=68). [확인]
 3. **그러나 소아 crossover 연구에서는 The Wand가 전통 syringe 대비 통증·심박수·행동 모두에서 일관되게 우위 — 성인 구개침윤(명제1)과 소아 협측주사(본 명제)는 결과가 다르다.** — Garret-Bernardin 2017, prospective crossover split-mouth(n=67). [프로토콜상 강함이나 비맹검 가능성]
-4. **수복치료에서 STA는 주사 자체의 통증은 못 줄이지만(NS) 수복 시술 중 통증·만족도·향후 선호는 유의 개선 — 이득이 "주사 순간"이 아니라 "시술 전체 경험"에 있다.** — Al-Obaida 2019, RCT(n=80). [근거강함]
+4. **수복치료에서 STA는 주사 자체의 통증은 못 줄이지만(NS) 수복 시술 중 통증·만족도·향후 선호는 유의 개선 — 이득이 "주사 순간"이 아니라 "시술 전체 경험"에 있다.** — Al-Obaida 2019, RCT(n=80). [확인]
 5. **외과 발치(매복 제3대구치)에서 STA(WANDSTA)는 IANB보다 발현이 빠르지만 거상 시 통증이 오히려 높고 장협신경 추가블록 필요율도 높다(50% vs 23.3%) — device가 외과 마취를 완전 대체하지 못한다.** — Ramanathan 2023, RCT(n=60). [abstract-only, 세부방법 미확인]
 6. **임플란트 수술 전후비교 코호트는 STA가 통증을 극적으로 낮춘다고 보고하나(1.6 vs 7.9/10) 비맹검·회상편향 위험이 큰 최약체 근거등급이다.** — Grassi 2017, prospective cohort(n=45). [abstract-only, 대조군 없는 within-patient recall 설계]
-7. **치주기구조작에서 컴퓨터제어 침습마취는 통증강도는 표면겔과 동등하지만 보충마취 필요율을 압도적으로 낮춘다(24% vs 100%, p<0.001) — 실질 이득은 "재주사 회피".** — Cabral 2026, RCT(n=76). [근거강함]
+7. **치주기구조작에서 컴퓨터제어 침습마취는 통증강도는 표면겔과 동등하지만 보충마취 필요율을 압도적으로 낮춘다(24% vs 100%, p<0.001) — 실질 이득은 "재주사 회피".** — Cabral 2026, RCT(n=76). [확인]
 8. **주사 경로 자체를 바꾸는 대안도 존재 — needle-free 점막부착 패치(90% 무주사 완료)와 컴퓨터구동 골내마취(성공률 100% vs 4% articaine 침윤 70.8%)는 "주사를 덜 아프게"가 아니라 "주사를 다른 경로로 대체"하는 전략이다.** — Adami 2021(prospective cohort, n=58); Park 2024(retrospective, n=48). [in-vivo~retrospective, 대조 설계 상이]
 
-→ **중심 긴장점**: 명제 1·2(엄격 RCT, 대형 표본)는 device의 1차 통증 우위를 반증하지만, 명제 3·4·7(맥락별 2차 지표)은 device의 실질 가치를 뒷받침한다. 명제 5·6은 device가 "만능 해법"이 아니며 특히 비맹검·전후비교 설계일수록 과대평가 위험이 큼을 보여준다. [claude해석]
+→ **중심 긴장점**: 명제 1·2(엄격 RCT, 대형 표본)는 device의 1차 통증 우위를 반증하지만, 명제 3·4·7(맥락별 2차 지표)은 device의 실질 가치를 뒷받침한다. 명제 5·6은 device가 "만능 해법"이 아니며 특히 비맹검·전후비교 설계일수록 과대평가 위험이 큼을 보여준다. [미검증]
 
 ## Evidence Map
 

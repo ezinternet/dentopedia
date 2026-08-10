@@ -5,7 +5,7 @@ year: 2026
 date: 2026-06-27
 source: overview
 category: [overviews]
-confidence: synthesis
+evidence_level: synthesis
 source_collection: synthesis
 tags: [prosthetic-materials, screw-retained, cement-retained, scrp, retention]
 ---
@@ -80,9 +80,9 @@ Finally, Leung et al. (2022), a narrative review of seven luting-cement families
 
 ## Related Papers
 
-- [[prosthetic-materials/park-2022-scrp-vs-crp-upper-premolar]] — Retrospective CBCT (47 pts): defines the *anatomic feasibility ceiling* of SCRP (52% first / 78.8% second maxillary premolar) and RA as the predictor forcing CRP.
-- [[prosthetic-materials/kim-2023-bsrp-vs-scrp-prospective-multicenter]] — Prospective multicenter RCT (64 implants): SCRP vs detachable BSRP — equal 100% survival/MBL, complication patterns differ (BSRP screw loosening vs SCRP screw fracture).
-- [[prosthetic-materials/lee-2021-cement-vs-cementless-screw-retained-fea]] — FEA: cement-retained generates ~60% higher implant and ~71% higher bone stress than cementless screw-retained; cement model concentrates stress at implant neck.
-- [[prosthetic-materials/lee-2025-screwless-hook-retained-implant-fea]] — FEA of SCRP vs SRP vs novel screwless HRP: SCRP highest fixture stress; HRP/SRP lower and equivalent, bone stress equal across all three.
+- [[prosthetic-materials/abutment-screw/park-2022-scrp-vs-crp-upper-premolar]] — Retrospective CBCT (47 pts): defines the *anatomic feasibility ceiling* of SCRP (52% first / 78.8% second maxillary premolar) and RA as the predictor forcing CRP.
+- [[prosthetic-materials/abutment-screw/kim-2023-bsrp-vs-scrp-prospective-multicenter]] — Prospective multicenter RCT (64 implants): SCRP vs detachable BSRP — equal 100% survival/MBL, complication patterns differ (BSRP screw loosening vs SCRP screw fracture).
+- [[prosthetic-materials/abutment-screw/lee-2021-cement-vs-cementless-screw-retained-fea]] — FEA: cement-retained generates ~60% higher implant and ~71% higher bone stress than cementless screw-retained; cement model concentrates stress at implant neck.
+- [[prosthetic-materials/abutment-screw/lee-2025-screwless-hook-retained-implant-fea]] — FEA of SCRP vs SRP vs novel screwless HRP: SCRP highest fixture stress; HRP/SRP lower and equivalent, bone stress equal across all three.
 - [[prosthetic-materials/leung-2022-update-on-dental-luting]] — Narrative review of 7 luting-cement families: governs the cement-retained branch (substrate-matched agent selection; no single ideal cement).
 - [[overviews/prosthetic-materials-decision-ladder]] — Broader prosthetic-materials decision ladder this retention-mode framework feeds into.

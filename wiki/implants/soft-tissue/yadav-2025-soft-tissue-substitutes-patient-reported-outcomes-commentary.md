@@ -6,7 +6,7 @@ date: 2025-02-14
 doi: 10.1038/s41432-025-01121-y
 source: yadav-2025-soft-tissue-substitutes-patient-reported-outcomes-commentary.md
 category: [implants/soft-tissue]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/yadav-2025-soft-tissue-substitutes-patient-reported-outcomes-commentary.pdf
 pdf_filename: yadav-2025-soft-tissue-substitutes-patient-reported-outcomes-commentary.pdf
 source_collection: external
@@ -74,7 +74,7 @@ Negative WMD = substitute favored (less pain, less analgesic use, shorter surger
 
 ## Related Papers
 
-- [[implants/oh-2024-keratinized-mucosa-augmentation-functioning-implants-sr-ma]] — SR+MA on keratinized mucosa augmentation outcomes around functioning implants; provides clinical endpoint context this commentary's PROM data complements
-- [[implants/montero-2022-soft-tissue-substitutes-vs-autogenous-keratinized-mucosa-sr]] — SR directly comparing soft tissue substitutes vs autogenous grafts for keratinized mucosa; clinical outcome counterpart to PROM evidence here
-- [[implants/sanz-2022-keratinized-mucosa-around-implants-consensus]] — consensus on keratinized mucosa requirements around implants; contextualizes why augmentation is performed and what patient burden the substitute approach reduces
+- [[implants/soft-tissue/oh-2024-keratinized-mucosa-augmentation-functioning-implants-sr-ma]] — SR+MA on keratinized mucosa augmentation outcomes around functioning implants; provides clinical endpoint context this commentary's PROM data complements
+- [[implants/soft-tissue/montero-2022-soft-tissue-substitutes-vs-autogenous-keratinized-mucosa-sr]] — SR directly comparing soft tissue substitutes vs autogenous grafts for keratinized mucosa; clinical outcome counterpart to PROM evidence here
+- [[implants/soft-tissue/sanz-2022-keratinized-mucosa-around-implants-consensus]] — consensus on keratinized mucosa requirements around implants; contextualizes why augmentation is performed and what patient burden the substitute approach reduces
 - [[overviews/keratinized-mucosa-peri-implant-health-overview]] — cross-paper synthesis on keratinized mucosa and peri-implant health; PROM advantage of substitutes updates the clinical decision layer of this overview

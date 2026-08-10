@@ -1,0 +1,590 @@
+Title: Temporomandibular joint arthritis in rheumatic diseases patients: which are the effective rehabilitative approaches for pain relief? A systematic review
+Authors: Aiello V, Ferrillo M, Marotta N, Agostini F, Curci C, Calafiore D, Fortunato L, Ammendolia A, Longo UG, de Sire A
+Journal: BMC Musculoskeletal Disorders
+PMID: 39966784
+PMCID: PMC11834569
+DOI: 10.1186/s12891-024-08196-1
+Source: PubMed Central (PMC), retrieved via PubMed MCP get_full_text_article
+Extraction note: Tables 1-3 and Fig. 1 (PRISMA flow diagram) were flattened into run-on prose by PMC text extraction — cell/row boundaries are not preserved and numeric superscript citation markers render as empty brackets "[]" or "[,]" or "[–]" throughout. Reproduced verbatim below; do not attempt to re-infer table structure here (analysis with table reconstruction lives in sources/ and wiki/).
+
+ABSTRACT
+
+Background
+
+Temporomandibular disorders (TMD) are a set of musculoskeletal conditions involving the temporomandibular joint, masticatory muscles, and/or associated structures, characterized by symptoms as pain, joint stiffness with limited mouth opening, and joint sounds as crepitus. Rheumatic diseases (RD) are a heterogeneous group of conditions affecting the musculoskeletal system, including temporomandibular joint (TMJ). To date, there is a lack of systematic reviews that properly investigated the efficacy of conservative approaches in reducing pain in rheumatic patients affected by TMJ arthritis. Therefore, this systematic review aimed to evaluate the effectiveness of rehabilitative approaches in pain relief in rheumatic patients with TMJ arthritis.
+
+Methods
+
+PubMed, Scopus, and Web of Science were searched from inception until February 25th, 2024, to identify studies including patients with diagnosis of rheumatic disease affecting the temporomandibular joint who underwent specific rehabilitative approaches to reduce pain intensity. The risk of bias of studies was assessed using the Joanna Briggs Institute (JBI) Critical Appraisal Checklist.
+
+Results
+
+Out of 479 search results, 115 duplicates were removed, and 364 studies were considered as eligible for inclusion and screened for title and abstract. Out of these, we included 19 papers for full-text screening. Then, 5 papers were included in the synthesis by this systematic review. Four studies assessed patients affected by rheumatoid arthritis, one systemic sclerodermia, and one included patients affected by ankylosing spondylitis, psoriatic arthritis, Sjogren's syndrome, fibromyalgia, common variable immunodeficiency, and chronic polyarthritis. In the included studies, the interventions consisted of intraarticular TMJ injection of corticosteroids performed with or without anesthetics, or irrigation in three studies, dextrose subcutaneous TMJ perineural injection, and lower-level laser therapy (LLLT).
+
+Conclusions
+
+This systematic review showed that rehabilitative approaches (e.g., intra-articular injections and LLLT) might be effective in terms of pain relief in TMD RD-related. However, the heterogeneity of the rehabilitative approaches performed, and the low quality of the included studies do not allow to draw certain conclusions regarding the efficacy of these approaches. Further high-quality studies are mandatory to improve the robustness of the efficacy of the different rehabilitative techniques for pain relief in TMD patients affected by rheumatic diseases.
+
+FULL TEXT
+
+Introduction
+
+Temporomandibular disorders (TMD) are a set of musculoskeletal conditions involving the temporomandibular joint, masticatory muscles, and/or associated structures []. TMD symptoms include joint sounds, pain, and restrictions in mandibular movements, and cause difficulty in performing basic daily activities as chewing, swallowing, and talking [].
+
+Myofascial pain, disc displacement, arthralgia, and degenerative joint disease are possible TMD subtypes []. Degenerative joint diseases are characterized by deterioration and abrasion of TMJ soft and hard tissues, subchondral bone remodeling, and symptoms that include pain, joint stiffness with limited mouth opening, and joint sounds as crepitus []. Etiology of degenerative joint disease has been accepted as multifactorial, with several risk factors that include genetics, muscle or joints disturbance, anatomical factors, trauma, and systemic conditions as rheumatic diseases (RDs) [,].
+
+RDs are a heterogeneous group of conditions involving the musculoskeletal system, including tendons, ligaments, muscles, bones, and connective tissues []. RDs affect health-related quality of life (HRQoL) and daily functioning and can cause high morbidity in the affected patient [].
+
+The World Health Organization has reported rheumatic and musculoskeletal diseases among the main causes of disability [,]. Moreover, it has been estimated that RDs entail enormous financial costs, with Europe bearing almost 200 billion per year [].
+
+Among RDs, rheumatoid arthritis (RA), systemic lupus erythematosus (SLE), ankylosing spondylitis (AS), juvenile idiopathic arthritis (JIA), psoriatic arthritis (PA), osteoarthritis (OA), and systemic sclerosis (SSc) can cause inflammatory rheumatic arthritis, which represent rheumatic conditions solely confined to joints [,]. The TMJ could be involved in RDs, even in early stages of the disease [,].
+
+Rheumatologists and dentists should evaluate patients with RDs for TMJ involvement and diagnosis should be performed through clinical assessment and radiological evaluation, in order to confirm the osseous changes in the affected TMJ, including osteophyte formation, flattening or deformity of the condylar head, cortical erosion and irregularities, joint space reduction, and subcortical cysts [].
+
+Decreasing joint pain and improving joint function represent the main goals of rehabilitative approaches, which include behavioral therapy, physical therapy, exercises, occlusal splints, TMJ injections, laser therapy, transcutaneous electrical nerve stimulation (TENS), and extracorporeal shockwave therapy [–].
+
+To date, there is a lack of systematic reviews that properly investigated the efficacy of conservative and minimally invasive approaches in reducing pain in rheumatic patients affected by TMJ arthritis.
+
+Therefore, the present systematic review aimed to evaluate the effectiveness of rehabilitative approaches in pain relief in rheumatic patients with TMJ arthritis.
+
+Materials and methods
+
+Eligibility criteria
+
+This systematic review followed the focused question: 'Are the rehabilitative approaches effective in reducing pain in patients affected by rheumatic disease involving the TMJ?'. All studies were assessed for eligibility according to the following participants, intervention, comparison, outcomes, and study design (PICOs) model:
+
+- Participants: patients with a diagnosis of rheumatic disease involving the temporomandibular joint;
+
+- Intervention: rehabilitative approaches aimed at reducing pain;
+
+- Comparison: placebo, sham treatments, or the approaches considered as interventions;
+
+- Outcome: pain intensity at the TMJ, using visual analogue scale (VAS) or numerical rating scale (NRS).
+
+- Study design: case series, cohort study, cross-sectional study, and randomized control trials (RCTs).
+
+Only studies that evaluated and compared the effectiveness of rehabilitative approaches in pain relief in patients with TMJ RD using conservative approaches were included. Moreover, only studies providing data at the end of the intervention were included. Exclusion criteria were: (1) children or adolescents during growth; (2) history of TMJ trauma; (3) patients with congenital abnormality or neoplastic conditions in TMJ region; (4) cross-over study design; (5) studies written in a language different from English; (6) full-text unavailability (i.e., posters and conference abstracts); (7) studies involving animals.
+
+Search strategy
+
+PubMed, Scopus, and Web of Science databases were systematically searched for articles published from the inception until February 25th, 2024 following the strategy described by Table. Furthermore, a manual search of the references of previous systematic reviews on similar topic was conducted as well.
+
+Table 1
+
+Search strategy
+
+PubMed
+
+("rheumatic diseases" OR "autoimmunity" OR "connective tissue diseases" OR "rheumatoid arthritis" OR "psoriatic arthritis" OR "systemic lupus erythematosus" OR "spondyloarthritis" OR "juvenile idiopathic arthritis" OR "systemic sclerosis" OR "Sjögren's syndrome" OR "idiopathic inflammatory myopathies") AND ("temporomandibular joint disorder" OR "temporomandibular disorder" OR "temporomandibular dysfunction" OR "temporomandibular joint dysfunction syndrome" OR "TMD" OR "temporomandibular joint" OR "TMJ" OR "TMJD" OR "craniomandibular disorder" OR "craniomandibular disorder" OR "craniomandibular dysfunction" OR "Craniomandibular dysfunctions" OR "temporomandibular joint dysfunction" OR "myofascial pain dysfunction syndrome") AND ("rehabilitation "[MeSH Terms] OR "rehabilitation"[All Fields] OR "exercise"[MeSH Terms] OR "exercise"[All Fields] OR "physical exercise" OR "physiotherapy" OR "physical therapy" OR "massotherapy" OR "manual therapy" OR "stretching exercises" OR "resistance training" OR "Physical agent modalities" OR "magnetic therapy" OR "thermal therapy" OR "balneotherapy" OR "electrical stimulation" OR "transcutaneous electrical nerve stimulation" OR "TENS" OR "laser" OR "laser therapy" OR "ultrasound therapy" OR "ultrasound" OR "ultrasonic" OR "shockwave" OR "shockwave therapy" OR "diathermy" OR "ESWT" OR "thermotherapy" OR "heat therapy" OR "hyperthermia" OR "cryotherapy" OR "splint" OR "oxygen-ozone" OR "ozone" OR "oxygen-ozone therapy" OR "hydrotherapy" OR "acupuncture" OR "needling" OR "injection" OR "corticosteroid" OR "lidocaine" OR "hyaluronic acid" OR "intra-articular injection" OR "arthrocentesis" OR "PRP" OR "platelet")
+
+Scopus
+
+TITLE-ABS-KEY((("rheumatic diseases" OR "connective tissue diseases" OR "rheumatoid arthritis" OR "psoriatic arthritis" OR "systemic lupus erythematosus" OR "spondyloarthritis" OR "juvenile idiopathic arthritis" OR "systemic sclerosis" OR "Sjogren" OR "idiopathic inflammatory myopathies") AND ("temporomandibular disorder" OR "temporomandibular joint disorder") AND ("rehabilitation" OR "exercise" OR "physiotherapy" OR "physical therapy" OR "manual therapy" OR "magnetic therapy" OR "thermal therapy" OR "balneotherapy" OR "electrical stimulation" OR "TENS" OR "laser" OR "ultrasound" OR "ultrasonic" OR "shockwave" OR "shockwave therapy" OR "thermotherapy" OR "splint" OR "ozone" OR "hydrotherapy" OR "acupuncture" OR "needling" OR "injection" OR "corticosteroid" OR "lidocaine" OR "hyaluronic acid" OR "intra-articular injection" OR "arthrocentesis" OR "PRP" OR "platelet")))
+
+Web of Science
+
+(("rheumatic diseases" OR "connective tissue diseases" OR "rheumatoid arthritis" OR "psoriatic arthritis" OR "systemic lupus erythematosus" OR "spondyloarthritis" OR "juvenile idiopathic arthritis" OR "systemic sclerosis" OR "Sjogren" OR "idiopathic inflammatory myopathies") AND ("temporomandibular disorder" OR "temporomandibular joint disorder") AND ("rehabilitation" OR "exercise" OR "physiotherapy" OR "physical therapy" OR "manual therapy" OR "Physical agent modalities" OR "magnetic therapy" OR "thermal therapy" OR "balneotherapy" OR "electrical stimulation" OR "transcutaneous electrical nerve stimulation" OR "TENS" OR "laser" OR "laser therapy" OR "ultrasound" OR "ultrasonic" OR "shockwave" OR "shockwave therapy" OR "diathermy" OR "ESWT" OR "thermotherapy" OR "heat therapy" OR "hyperthermia" OR "cryotherapy" OR "splint" OR "ozone" OR "hydrotherapy" OR "acupuncture" OR "needling" OR "injection" OR "corticosteroid" OR "lidocaine" OR "hyaluronic acid" OR "intra-articular injection" OR "arthrocentesis" OR "PRP" OR "platelet"))
+
+This systematic review was conducted according to the guidance of Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines and the Cochrane Handbook for Systematic Reviews of Interventions [,]. Systematic review protocol has been registered on the International Prospective Register of Systematic Reviews (PROSPERO) with number CRD42024517524.
+
+Data extraction
+
+Data were extracted by two independent reviewers using a data-extraction form developed for the review based on Microsoft Excel sheet. After a manual exclusion of the duplicates, a hierarchical method was used in the study evaluation following the PICOs model. In case of disagreement, the consensus was achieved through a third reviewer. Extracted data items included the number of original studies in the review, publication year, Nationality, study design, sample size and characteristics (e.g., age and population type), nature of the included interventions and control, outcomes measured (pain intensity), and main findings.
+
+Quality assessment
+
+The risk of bias was assessed by two reviewers using the Joanna Briggs Institute (JBI) Critical Appraisal Checklist. Any disagreement was discussed until a consensus was reached with a third reviewer. Moreover, we used the GRADE (Grading of Recommendations, Assessment, Development, and Evaluations) approach [] to test quality of the evidence.
+
+Results
+
+Study characteristics
+
+Out of 479 search results (PubMed: 189 records; Scopus: 266 records; Web of Science: 24 records), 115 duplicates were removed, and 364 studies were considered as eligible for inclusion and screened for title and abstract. Out of these, we included 19 papers for full-text screening. Then, 3 papers were not retrieved while 11 articles not respecting eligibility criteria were excluded by this systematic review.
+
+Thus, 5 papers [–] were included in the synthesis, as depicted by 2020 PRISMA Flow Diagram (see Fig.for further details). The main characteristics of the included papers are described in detail by Table.
+
+Fig. 1
+
+PRISMA 2020 flow diagram
+
+Table 2
+
+Main characteristics of the studies included in the present systematic review
+
+Authors, Journal, and Year
+
+Population (M/F)
+
+Age
+
+Study design
+
+Rheumatic diagnosis
+
+Systemic therapy
+
+Intervention
+
+Comparison group
+
+Outcomes
+
+Time-points
+
+Main findings in terms of primary outcome
+
+Alstergren et al. Acta Odontol Scand. 1996
+
+= 22 (3/19)
+
+54.70 ± 13.10 years
+
+Prospective controlled study
+
+- Specific inflammatory joint disease:
+
+Rheumatoid arthritis (= 9),
+
+Ankylosing spondylitis (= 4),
+
+Psoriatic arthritis (= 1),
+
+Sjogren's syndrome (= 1),
+
+Common variable immunodeficiency (= 1)
+
+- Unspecific inflammatory joint disease:
+
+Chronic unspecific polyarthritis (= 2)
+
+Chronic unspecific monoarthritis (= 2),
+
+Fibromyalgia (= 2)
+
+NSAIDs
+
+Intra-articular GC injection with a 0.5-07 ml of a solution of acetate ester of methylprednisolone (40 mg/ml), lidocaine hydrochloride (10 mg/ml), and sodium chloride after diagnostic aspiration and analysis of joint fluid.
+
+Healthy subjects (= 6)
+
+- VAS pain
+
+- Pain on mandibular movement (PM)
+
+- Pain threshold, and tolerance N/cm
+
+- Subjective treatment effect (STR)
+
+- MVM
+
+- Neuropeptide-Y-like Immunoreactivity (NPY-LI)
+
+Baseline and randomly
+
+either 2–3 weeks (median, 3 weeks; 14 patients) or 4–6 weeks later (median, 6 weeks; 8 patients).
+
+Patients with specific inflammatory joint disease treated with GC injection showed a statistically significant improvement of VAS and STR at both time points, and a reduction of PM and pain threshold at 2–3 weeks (< 0.05)
+
+This group also showed a statistically significant reduction in the TMJ level of NPY-LI at 2–3 weeks (< 0.05).
+
+In the patients with unspecific inflammatory joint disease there was also a similar improvement but not on a statistically significant level.
+
+Trieger et al.
+
+J Oral Maxillofac Surg. 1999
+
+= 12 (0/12)
+
+45.2 ± 9.2 years
+
+Case series
+
+Rheumatoid arthritis
+
+Not specified
+
+Two 21-gauge needles were triangulated into the joint
+
+TMJ was irrigated with 200 mL lactated Ringer's solution over 20 to 30 min, then 8 mg of dexamethasone was injected.
+
+N/A
+
+- VAS pain
+
+- Maximal incisal opening (MIO),
+
+- Joint noise, recorded as early or late click and crepitus.
+
+- ESR
+
+Data were collected at baseline and every 2 weeks for 6 weeks
+
+Overall change in VAS was significant (< 0.0 L); the mean decrease was − 4.17 ± 2.52.
+
+Patients with lower ESR and age showed better results in terms of VAS reduction. Changes in MIO over time were significant (= 0.05).
+
+Elshoura et al. Egypt Rheumatol. 2020
+
+= 11 (0/11)
+
+45.4 ± 9.9 years
+
+Prospective cohort study
+
+Rheumatoid arthritis
+
+NSAIDs (= 11)
+
+MTX (= 3)
+
+Leflunomide and hydroxychloroquine (= 5)
+
+Anti-TNF-a (etanercept) (= 3)
+
+From 4 to 6 subcutaneous perineural injection therapy of
+
+5% dextrose and 8.4% sodium bicarbonate solution, with a total of 2–4 cc per TMJ.
+
+N/A
+
+- TMJ VAS pain at rest and at MVM
+
+- Disease activity score (DAS28)
+
+- Modified health assessment questionnaire (MHAQ)
+
+- Functional assessment of the TMJ with the Fonseca's questionnaire
+
+- Musculoskeletal Ultrasound
+
+Data were collected at baseline and at 4 weeks follow-up
+
+There was a significant improvement in VAS for TMJ pain after the procedure at rest and at the maximum mouth opening (< 0.01).
+
+Tenderness and Fonesca׳s scores significantly improved (< 0.01), while maximum mouth opening and ultrasound did not differ significantly from baseline (> 0.05)
+
+Benli et al. Cranio. 2021
+
+= 31
+
+49.93 ± 6.23 years
+
+Randomized controlled trial
+
+Systemic lupus erythematosus
+
+NSAIDs and more than 15 mg of prednisone
+
+Low Level Laser Therapy (LLLT) on masseter and anterior temporalis muscles, two sessions per week for one month. Wavelength = 808 nm (infrared), energy density = 70 J/cm2, total energy = 1.9 J.
+
+Placebo (wavelength 660 nm) (= 30)
+
+Control (= 30)
+
+- VAS pain intensity
+
+- Chewing performance using the artificial test food (ATF), as geometric mean diameter (GMD) values of crushed artificial test food
+
+Data were collected before the laser therapy (T0), immediately after the therapy (T1), and at 1-month follow-up (T2)
+
+LLLT group showed that VAS was reduced in test and placebo groups at T1 (< 0.001), whereas the control group remained in the same median value (= 0.368).
+
+In study group a significant reduction in chewing impairment (6283.7 ± 257.2 μm) at T1 and T2 compared with placebo (7076.9 ± 384.4 μm) and control (7224.3 ± 286 μm) (< 0.05) was detected.
+
+Kroese et al. Clin Rheumatol. 2021
+
+= 35 (4/31)
+
+54 (38–62) years median
+
+Prospective cohort study
+
+Rheumatoid arthritis
+
+Not specified
+
+TMJ injection with GC, methylprednisolone
+
+(40 mg/mL) and lidocaine (10 mg/mL) for a total volume of 0.7–0.8 mL
+
+N/A
+
+- TMJ pain at rest using VAS or NRS
+
+- MVM
+
+- Degree of anterior open bite (AOB)
+
+- Laboratory tests (ESR, CRP, serotonin, IL-1β)
+
+Data were collected at baseline (T0), after a median of 3.1 weeks (T1) and 21 patients were visited also at a median of 6.3 weeks (T2)
+
+TMJ pain intensity significantly decreased while MVM significantly increased between T0 and T1. These improvements were lost at T2.
+
+No differences were found in AOB between time points. Pain changes were not related with laboratory exams
+
+Values are presented as mean ± standard deviation and maximum-minimum (range). Abbreviations: M = male; F = female; TMJ = temporomandibular joint; MXT = methotrexate; NSAID = non-steroidal anti-inflammatory drug; GC = Glucocorticoid; N/A = Not applicable; VAS = Visual Analogue Scale; NRS = numerical rating scale; MVM = maximum voluntary mouth opening; ESR = erythrocyte sedimentation rate; CRP = C-reactive protein; TNF-a = tumor necrosis factor alfa
+
+These studies were published between 1996 and 2021, two studies were carried out in Europe (2 in Sweden [,] one in Turkey [], one was carried out in Egypt [], and one in USA [].
+
+Number of patients included ranged from 11 [] to 91 [] subjects. Four studies assessed patients affected by RA [–,], one SLE [], and one included patients with AS, PA, Sjogren 'syndrome (SS), fibromyalgia, common variable immunodeficiency (CVID), and chronic polyarthritis [].
+
+In the included studies, the interventions consisted of intra-articular TMJ injection of corticosteroids [,,] performed with or without anesthetics, or irrigation in three studies, dextrose subcutaneous TMJ perineural injection [], and Low-Level Laser Therapy (LLLT) []. Only 2 studies included a control group [,]. Patients were also treated with systemic drugs for the rheumatic diseases, as NSAIDS, GC, methotrexate, leflunomide, hydroxychloroquine and etanercept. The follow up ranged from 2 weeks from baseline [] up to 6 weeks [].
+
+Main findings of the included studies
+
+Alstergren et al. [] assessed the effects of GC (methylprednisolone 40 mg/ml) and lidocaine intraarticular injections in a cohort of 22 patients (29 TMJ) affected by rheumatic diseases. Patients were divided in specific or unspecific inflammatory joint disease and randomly evaluated at 2–3 weeks follow up or 4–6 weeks follow up. Authors found that GC injections reduced pain at rest and subjective symptoms (STR) at 2–3 weeks and 4–6 weeks follow up (VAS respectively reduced from 5.9 ± 2.8 to 3.3 ± 1.7 p-value < 0.001 and from 7.0 ± 1.0 to 5.1 ± 2.3 p-value < 0.05). Moreover, the pain during movement improved at 2–3 weeks follow up (from 4.1 ± 0.7 to 2.4 ± 1.7 p-value < 0.05), but the improvement was significant only in the group with specific inflammatory diagnosis (RA, AS, PA, SS and CVID). They analyzed Neuropeptide-Y-like Immunoreactivity (NPY-LI) in the joint fluid of the patients (comparing it with a control group of healthy subjects) and showed a significant reduction in patients affected by specific inflammatory joint disease at 2–3 weeks follow (p-value < 0.05).
+
+Trieger et al. [] performed a preliminary study on 12 female patients with TMJ complaints affected by RA, showing that TMJ arthrocentesis followed by intraarticular GC injection (dexamethasone 8 mg/2 ml) was an effective treatment in reducing pain at 2,4 and 6 weeks follow up (mean decrease − 4.17 ± 2.52 p-value < 0.01). Results showed a better analgesic effect in both younger patients and patients with lower erythrocyte sedimentation rate (ESR) at baseline.
+
+Elshoura et al. [] analyzed 11 females affected by RA, who underwent from 4 to 6 subcutaneous perineural injection therapy of 5% dextrose and 8.4% sodium bicarbonate solution, around the auriculotemporal inflamed nerve and its site of constriction. At 4 weeks follow up VAS at rest was reduced from a median of 5 (0–8) to 3 (0–8) (p-value < 0.001), while VAS at max mouth opening was reduced from a median value of 7 (3–10) to 5 (1–10) (p-value < 0.001).
+
+Benli et al. [] performed a single-blinded- RCT in order to evaluate the effect of LLLT in myogenic TMD patients affected by SLE. The study group was composed of 31 individuals, while 30 patients were treated with lower wavelength laser therapy (sham) and 30 controls with no treatment. They enrolled only patients with at least 5 of VAS and evaluated pain before the laser therapy (T0), immediately after the therapy (T1), and at 1-month follow-up (T2). Authors showed that at T1 a VAS was reduced in test and sham groups (median respectively of 5 (4–7) and 7(6–8) compared to a baseline of 8 (7–9) p-value < 0.001), whereas only in the study group results showed a significant reduction in chewing impairment (6283.7 ± 257.2 μm) at T1 and T2 compared with placebo (7076.9 ± 384.4 μm) and control (7224.3 ± 286 μm) (p-value < 0.05).
+
+In the Kroese et al. study [], 35 subjects affected by RA with painful TMJ were treated with a single TMJ injection with GC (methylprednisolone 40 mg/ml) and lidocaine injection, with a follow up of a median of 3.1 weeks (T1) and 6.3 weeks (T2). A second injection was performed at T1 in 21 patients. The treatment reduced significantly pain at 3 weeks (median from 3 to 2, p-value < 0.01), however these benefits were not present at 6 weeks follow up. No side effects have been reported in each included study.
+
+Evidence of quality and risk of bias
+
+In the present systematic review, we used the JBI Critical Appraisal Checklist for randomized controlled trial, for quasi-experimental studies, and for case series to assess the risk of bias of the included studies, as depicted by Table. It showed that Benli et al. [] had a total score of 11/13 with a high GRADE [], Alstergren et al. [] had a total score of 7/9 with a moderate GRADE [], Trieger et al. [] had a total score of 6/10 with a low GRADE [], and both Elshoura et al. [] and Kroeseet al. [] reported a total score of 8/10 with a moderate GRADE [].
+
+Table 3
+
+Joanna Briggs Institute Critical Appraisal Checklist for the included studies
+
+Joanna Briggs Institute Critical Appraisal Checklist for randomized controlled trials
+
+Authors, Journal, and Year
+
+Q1
+
+Q2
+
+Q3
+
+Q4
+
+Q5
+
+Q6
+
+Q7
+
+Q8
+
+Q9
+
+Q10
+
+Q11
+
+Q12
+
+Q13
+
+Total score
+
+Benli et al. Cranio. 2021
+
+Y
+
+Y
+
+Y
+
+Y
+
+N
+
+U
+
+Y
+
+Y
+
+Y
+
+Y
+
+Y
+
+Y
+
+Y
+
+11
+
+Legend: Q1 = Was true randomization used for assignment of participants to treatment groups?; Q2 = Was allocation to treatment groups concealed?; Q3 = Were treatment groups similar at the baseline?; Q4 = Were participants blind to treatment assignment?; Q5 = Were those delivering treatment blind to treatment assignment?; Q6 = Were outcomes assessors blind to treatment assignment?; Q7 = Were treatment groups treated identically other than the intervention of interest?; Q8 = Was follow up complete and if not, were differences between groups in terms of their follow up adequately described and analyzed?; Q9 = Were participants analyzed in the groups to which they were randomized?; Q10 = Were outcomes measured in the same way for treatment groups?; Q11 = Were outcomes measured in a reliable way?; Q12 = Was appropriate statistical analysis used?; Q13 = Was the trial design appropriate, and any deviations from the standard RCT design (individual randomization, parallel groups) accounted for in the conduct and analysis of the trial?. N = no, Y = yes; U = unclear; N/A = not applicable.
+
+Joanna Briggs Institute Critical Appraisal Checklist for quasi-experimental studies
+
+Authors, Journal, and Year
+
+Q1
+
+Q2
+
+Q3
+
+Q4
+
+Q5
+
+Q6
+
+Q7
+
+Q8
+
+Q9
+
+Total score
+
+Alstergren et al. Acta Odontol Scand. 1996
+
+Y
+
+N
+
+N
+
+Y
+
+Y
+
+Y
+
+Y
+
+Y
+
+Y
+
+7
+
+Legend: Q1 = Is it clear in the study what is the 'cause' and what is the 'effect' (i.e. there is no confusion about which variable comes first)?; Q2 = Were the participants included in any comparisons similar?; Q3 = Were the participants included in any comparisons receiving similar treatment/care, other than the exposure or intervention of interest?; Q4 = Was there a control group?; Q5 = Were there multiple measurements of the outcome both pre and post the intervention/exposure?; Q6 = Was follow up complete and if not, were differences between groups in terms of their follow up adequately described and analyzed?; Q7 = Were the outcomes of participants included in any comparisons measured in the same way?; Q8 = Were outcomes measured in a reliable way?; Q9 = Was appropriate statistical analysis used?. N = no, Y = yes; U = unclear; N/A = not applicable.
+
+Joanna Briggs Institute Critical Appraisal for case series
+
+Authors, Journal, and Year
+
+Q1
+
+Q2
+
+Q3
+
+Q4
+
+Q5
+
+Q6
+
+Q7
+
+Q8
+
+Q9
+
+Q10
+
+Total score
+
+Trieger et al.
+
+J Oral Maxillofac Surg. 1999
+
+N
+
+N
+
+U
+
+Y
+
+U
+
+N
+
+Y
+
+Y
+
+Y
+
+Y
+
+6
+
+Elshoura et al. Egypt Rheumatol. 2020
+
+Y
+
+Y
+
+Y
+
+U
+
+U
+
+Y
+
+Y
+
+Y
+
+Y
+
+Y
+
+8
+
+Kroese et al. Clin Rheumatol. 2021
+
+Y
+
+Y
+
+Y
+
+U
+
+U
+
+Y
+
+Y
+
+Y
+
+Y
+
+Y
+
+8
+
+Joanna Briggs Institute Critical Appraisal Checklist for Case Control Studies: Q1 = Were there clear criteria for inclusion in the case series?; Q2 = Was the condition measured in a standard, reliable way for all participants included in the case series?; Q3 = Were valid methods used for identification of the condition for all participants included in the case series?; Q4 = Did the case series have consecutive inclusion of participants?; Q5 = Did the case series have complete inclusion of participants?; Q6 = Was there clear reporting of the demographics of the participants in the study?; Q7 = Was there clear reporting of clinical information of the participants?; Q8 = Were the outcomes or follow up results of cases clearly reported?; Q9 = Was there clear reporting of the presenting site(s)/clinic(s) demographic information?; Q10 = Was statistical analysis appropriate?. N = no, Y = yes; U = unclear; N/A = not applicable
+
+Discussion
+
+RDs are systemic disorders that involve the musculoskeletal system and may impair many of the diarthrodial joints, and the TMJ is often involved early in the course of the disease [,].
+
+TMJ degenerative diseases are frequently overlooked by both practitioners and patients, especially when systemic treatments are focused on other joints. However, TMJ impairment may lead to severe sequelae and disabilities that affect patient's quality of life, thus an early diagnosis and a timely and appropriate management are warranted. To date, several diagnostic methods was used to define the different causes TMJ, also in term of pathological and molecular mechanisms, using modern models of Artificial Intelligence [–].
+
+A recent systematic review by Hysa et al. [] (including 56 papers) synthetized the prevalence of TMDs in patients affected by immune-mediated rheumatic diseases and evaluated the risk factors for their development. Among the several RDs affecting adult patients, the RA was reported as the disease that gathered most of the evidence on TMJ involvement. Due to the different measure of outcome assessment found in the literature, the authors reported a prevalence of TMJ impairment (in terms of pain and findings detectable at physical examination) ranging between 8% and 70%. Interestingly, the authors reported that TMJ symptoms seem to occur within 5 years from the RA onset, and the number of involved joints, global pain, and TNFα plasmatic concentration were identified as predictors. Several studies [–] reported that TMJ erosion detected by computerized tomography (CT) [] or conventional radiography [] is correlated with the RA disease activity and severity. To date, exercise, physical agent modalities, and intraarticular injection are recommended in several rheumatic diseases [,]. In this context, Maddali Bongi et al. evaluated the effects of two different 12-weeks rehabilitation protocols in a sample of patients affected by SSc and TMJ impairment. More in details, 22 subjects were randomly assigned to Group 1 (home exercises for TMJ, masticatory, mimic, and cervical spine muscles) and 25 subjects to Group 2 (home exercises and combined physiotherapeutic procedures performed by a physiotherapist). The authors showed that both rehabilitation protocols were effective in mouth opening, neck mobility, and pain, with higher improvements in Group 2, suggesting that the physiotherapist could personalize the exercises inducing better therapeutic effects.
+
+Results from the present systematic review suggest that intra-articular injections of steroid represent a second line strategy in rheumatic diseases [], but their usefulness in terms of reducing paint at short and long term is still debated [,]. The paper by Vallon et al. compared the effects of intra-articular injections of steroid to non-steroid agents (sodiumhyaluronate or saline) into the TMJs of 21 RA patients []. The authors concluded that signs and symptoms were improved at the long-term follow-up (12 years). Specifically, two thirds of patients reported no TMJ tenderness or pain during function. Moreover, the long-term progression of joint destruction was low as no severe destructive or mutilating abnormality were found radiologically [].
+
+At the light of our results, intraarticular injections of corticosteroid, with or without lidocaine, may represent an effective approach in reducing pain in patients affected by RD and TMD, at both short and long term [,,]. On other hand, positive effects of these treatment were supported by two low-quality studies. It well known that the systemic and articular manifestation of inflammatory process in RDs involve also the TMJ as condylar diarthrosis [,]. In addition, some inflammatory markers of rheumatic diseases have been linked to the progression of TMJ diseases [,]. For this reason, all the included studies demonstrated that the use of corticosteroids with high potency and structural characteristics, such as methylprednisolone and desametaxone, are effective in reducing pain. Moreover, only one study investigated the effectiveness of perineural injection of dextrose/sodium bicarbonate solution and of LLLT [,], making not possible recommendation on the use of these two techniques in management of TMD RD patients. On the other hand, at the light of results, both perineural injection and LLLT seem to be effective in pain management [,].
+
+To the best of our knowledge, this is the first systematic review that analyze the effects of different conservative approaches in RD patients with TMD. A key advantage of our study is the assessment of papers quality, in terms both of risk of bias and strength of the evidence to give to the clinician a more scientific approach at TMD-RDs and the comprehensive search strategy on three different databases.
+
+However, this systematic review has several limitations. Firstly, we would like to underline the low number of included studies that could negatively affect the clinical relevance of the study. However, this research adopted strict eligibility criteria and, at the same time, the investigated topic is not so present in the scientific literature. Secondly, the included studies evaluated different interventions. Thirdly, the low quality of the included studies and the risk of bias do not allow to draw a certain conclusion regarding the real efficacy of the analyzed treatment. Thus, a quantitative synthesis was not drawn due to the heterogeneity of the rehabilitative protocols and the heterogeneity of conditions, interventions, and outcomes made not possible to perform a meta-analysis.
+
+However, this is the first systematic review in the scientific literature that summarized the evidence on the effectiveness of rehabilitative approaches in RD patients affected by TMJ arthritis.
+
+Conclusion
+
+Taken together, findings of this systematic review showed that rehabilitative approaches (e.g., intra-articular injections and LLLT) might be effective in reducing pain in RD patients affected by TMD, albeit the low quality of the included studies might affect these results. Indeed, further high-quality studies assessing larger samples are needed to better characterize the efficacy of rehabilitative approaches in these subjects.
+
+In conclusion, conservative and rehabilitative treatments seemed not only to reduce pain, but also to improve mouth function, and quality of life, and could be taken into consideration for a multidisciplinary approach for the management of RD-related TMD patients.

@@ -6,16 +6,26 @@ date: 2026-07-11
 doi: ""
 source: ""
 category: [practice-management]
-confidence: synthesis
+evidence_level: synthesis
 source_collection: internal
 tags: [team-management, feedback, johari-window, hr, sop]
 ---
 
-## One-line Summary
-Internal operating manual for a three-phase team feedback system (upward anonymous → 1:1 named → peer) grounded in the Johari Window, for a ~20-person dental hygienist team.
+## Three-line Summary
 
-## 한줄요약
-조하리의 창에 기반한 3단계 팀 피드백 시스템(상향 익명 → 1:1 실명 → 수평) 운영 매뉴얼 — 위생사 약 20명, 실장·파트 혼합 구조.
+Internal clinic operating manual for a three-phase team feedback system (Phase 1 upward anonymous → Phase 2 named 1:1 → Phase 3 peer), grounded in the Johari Window, for a ~20-person dental hygienist team with a mixed lead/part structure.
+
+Feedback shrinks the blind spot and self-disclosure shrinks the hidden area; the system starts from the leader (director) self-disclosing and receiving anonymous upward feedback, then progresses to named 1:1 lead feedback, then part-level peer feedback.
+
+Core design principles — the leader receives first, target behavior not personality, close the loop (collect → filter → announce change → act), vertical anonymous / horizontal named, and bottlenecks replicate top-down.
+
+## 세줄요약
+
+위생사 약 20명(실장·파트 혼합)을 위한, 조하리의 창에 기반한 3단계 팀 피드백 시스템 운영 매뉴얼 — Phase 1 상향 익명 → Phase 2 1:1 실명 → Phase 3 수평.
+
+피드백은 맹점을, 자기개방은 숨긴 창을 줄인다는 역학을 적용 — 리더(원장)의 자기개방과 익명 상향 피드백에서 출발해 실장 1:1 실명 피드백을 거쳐 파트 단위 수평 피드백으로 확산.
+
+핵심 설계 원칙 — 리더가 먼저 받는다, 성격이 아니라 행동, 루프를 닫는다(수집→선별→변경 공표→실행), 수직은 익명·수평은 실명, 병목은 위에서 아래로 복제된다.
 
 ## Summary
 피드백은 맹점을, 자기개방은 숨긴 창을 줄인다는 조하리의 창 역학을 팀 운영에 적용한 내부 SOP. 리더(원장)의 자기개방과 익명 상향 피드백에서 출발해, 실장 1:1 실명 상호 피드백을 거쳐 파트 단위 수평 피드백으로 확산한다. 핵심 설계 원칙은 "리더가 먼저 받는다", "성격이 아니라 행동", "루프를 닫는다", "수직은 익명·수평은 실명", "병목은 위에서 아래로 복제된다".

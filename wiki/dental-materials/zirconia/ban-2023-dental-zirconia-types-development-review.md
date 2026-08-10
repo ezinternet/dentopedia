@@ -6,7 +6,7 @@ date: 2023-01-01
 doi: 10.4012/dmj.2022-243
 source: ban-2023-dental-zirconia-types-development-review.md
 category: [dental-materials/zirconia]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/ban-2023-dental-zirconia-types-development-review.pdf
 pdf_filename: ban-2023-dental-zirconia-types-development-review.pdf
 source_collection: external
@@ -50,7 +50,7 @@ Narrative review from Dental Materials Journal 2023. Author: Ban S, Aichi Gakuin
 - Clinical implication: 3Y-TZP for posterior FPDs; 5Y/6Y for monolithic anterior crowns
 
 ## Related Papers
-- [[dental-materials/blatz-2018-resin-bonding-high-strength-ceramics-review]] — resin bonding for high-strength ceramics including zirconia
-- [[dental-materials/warreth-2020-all-ceramic-restorations-narrative-review]] — classification and clinical use of all-ceramic restorations
+- [[dental-materials/ceramic/blatz-2018-resin-bonding-high-strength-ceramics-review]] — resin bonding for high-strength ceramics including zirconia
+- [[dental-materials/ceramic/warreth-2020-all-ceramic-restorations-narrative-review]] — classification and clinical use of all-ceramic restorations
 - [[inlay/kermanshah-2020-fracture-load-inlay-retained-ceramic-fdp]] — fracture load comparison of zirconia vs ZrLS in FDP connectors
 - [[inlay/bomicke-2025-3ytzp-inlay-enamel-wear-5year]] — 3Y-TZP opposing enamel wear

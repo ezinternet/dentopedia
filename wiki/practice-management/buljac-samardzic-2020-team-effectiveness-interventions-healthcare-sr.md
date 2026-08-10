@@ -6,7 +6,7 @@ date: 2020-01-08
 doi: 10.1186/s12960-019-0411-3
 source: buljac-samardzic-2020-team-effectiveness-interventions-healthcare-sr.md
 category: [practice-management]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "31915007"
@@ -15,9 +15,6 @@ source_url: https://pmc.ncbi.nlm.nih.gov/articles/PMC6950792/
 text_path: /Users/oracleneo/llm-wiki/papers/buljac-samardzic-2020-team-effectiveness-interventions-healthcare-sr.txt
 text_filename: buljac-samardzic-2020-team-effectiveness-interventions-healthcare-sr.txt
 tags: []
-relations:
-  - type: reinforces
-    target: dental-workforce-delegation-skill-mix-overview
 ---
 
 ## Three-line Summary

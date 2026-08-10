@@ -13,7 +13,7 @@ text_filename: thereza-bussolaro-2026-cbct-ian-predictive-factors-sr-ma.txt
 
 ## Why Ingested
 
-기존 [[oral-surgery/li-2022-ian-position-nerve-injury-sr-ma]]는 파노라마 방사선 기반 IAN canal 위치 분류에 의존하는 반면, 본 SR+MA (Thereza-Bussolaro 2026)는 CBCT 단층 영상에서 검출 가능한 8가지 해부학적 특징의 Odds Ratio를 정량화해 임상적 위험 예측을 한 단계 진전시킨다.
+기존 [[oral-surgery/nerve-injury/li-2022-ian-position-nerve-injury-sr-ma]]는 파노라마 방사선 기반 IAN canal 위치 분류에 의존하는 반면, 본 SR+MA (Thereza-Bussolaro 2026)는 CBCT 단층 영상에서 검출 가능한 8가지 해부학적 특징의 Odds Ratio를 정량화해 임상적 위험 예측을 한 단계 진전시킨다.
 
 ## Three-line Summary
 

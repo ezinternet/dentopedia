@@ -6,7 +6,7 @@ date: 2026-01-28
 doi: 10.1111/ocr.70088
 source: didier-2026-occlusal-contacts-ios-vs-carbon-paper-concordance.md
 category: [occlusion]
-confidence: cross-sectional
+evidence_level: cross-sectional
 source_collection: pubmed-text
 full_text: true
 pmid: "41603766"

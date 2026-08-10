@@ -6,7 +6,7 @@ date: 2019-01-01
 doi: "n/a (Dent Res J 2019;16(3):200-207)"
 source: hussein-2019-thread-depth-implant-shape-stress-mandible-fea.md
 category: [implants]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/hussein-2019-thread-depth-implant-shape-stress-mandible-fea.pdf
 pdf_filename: hussein-2019-thread-depth-implant-shape-stress-mandible-fea.pdf
 source_collection: external
@@ -49,4 +49,4 @@ This FEA examines how implant body shape and thread depth distribute load in the
 ## Related Papers
 - [[implants/leblebicioglu-kurtulus-2022-fea-implant-design-bone-density-stress]] — reinforces; design × bone-density stress FEA.
 - [[implants/chang-2024-optimization-implant-design-bone-quality-fea]] — related; thread-depth optimization across bone qualities.
-- [[implants/heimes-2023-macrogeometry-primary-stability-implants-narrative-review]] — complements; taper aids stability but can raise crestal stress.
+- [[implants/isq/heimes-2023-macrogeometry-primary-stability-implants-narrative-review]] — complements; taper aids stability but can raise crestal stress.

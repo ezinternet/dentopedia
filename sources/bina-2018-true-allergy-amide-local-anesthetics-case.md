@@ -53,14 +53,14 @@ True amide allergy is extremely rare (most reactions are to metabisulfite/methyl
 
 ## 4. Key Results and Benchmarks
 
-[근거강함] (reported case facts):
+[확인] (reported case facts):
 - Adequate anesthesia achieved for maxillary infiltration across all visits; extractions and restorations completed with no-to-minimal discomfort.
 - Root canal therapy required supplemental **intrapulpal** DPH (0.5–1.0 mL) — pulpal anesthesia incomplete with infiltration alone in some teeth.
 - **Postoperative complication**: after visit 1 (8 mL DPH), 24 h diffuse right facial swelling; presented to ER at 48 h — CBC normal, CT unremarkable, afebrile, no infection; resolved within 24 h. → max volume thereafter limited to 5 mL/visit.
 - **Drowsiness** ~15 min after administration (visit 1), resolved by end of procedure.
 - Mild burning on injection at every visit.
 
-[claude해석] (generalization beyond this case): literature cited reports DPH duration 15–75 min; adequate anesthesia for erupted/minimally impacted third molars ~80% of the time (operator-judged); DPH is less effective than lidocaine for pulpal anesthesia. The single-case efficacy is encouraging but not a substitute for controlled trials, and outcomes were subjectively assessed (no EPT).
+[미검증] (generalization beyond this case): literature cited reports DPH duration 15–75 min; adequate anesthesia for erupted/minimally impacted third molars ~80% of the time (operator-judged); DPH is less effective than lidocaine for pulpal anesthesia. The single-case efficacy is encouraging but not a substitute for controlled trials, and outcomes were subjectively assessed (no EPT).
 
 ## 5. Limitations and Future Work
 

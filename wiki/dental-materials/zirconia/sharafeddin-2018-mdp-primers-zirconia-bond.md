@@ -6,7 +6,7 @@ date: 2018-03-01
 doi: N/A
 source: sharafeddin-2018-mdp-primers-zirconia-bond.md
 category: [dental-materials/zirconia]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/sharafeddin-2018-mdp-primers-zirconia-bond.pdf
 pdf_filename: sharafeddin-2018-mdp-primers-zirconia-bond.pdf
 source_collection: external

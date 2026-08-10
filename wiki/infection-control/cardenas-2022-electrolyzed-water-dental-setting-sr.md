@@ -6,7 +6,7 @@ date: 2022-12-09
 doi: 10.1186/s12903-022-02528-0
 source: cardenas-2022-electrolyzed-water-dental-setting-sr.md
 category: [infection-control]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 pmid: "36494635"
 pmcid: "PMC9733258"

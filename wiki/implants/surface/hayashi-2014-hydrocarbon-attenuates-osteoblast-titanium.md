@@ -6,7 +6,7 @@ date: 2014-07-01
 doi: 10.1177/0022034514536578
 source: hayashi-2014-hydrocarbon-attenuates-osteoblast-titanium.md
 category: [implants/surface]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/hayashi-2014-hydrocarbon-attenuates-osteoblast-titanium.pdf
 pdf_filename: hayashi-2014-hydrocarbon-attenuates-osteoblast-titanium.pdf
 source_collection: external

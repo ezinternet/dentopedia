@@ -7,7 +7,7 @@ doi: 10.3390/tropicalmed9020031
 journal: Trop Med Infect Dis 9:31
 source: sandulescu-2024-antibiotic-prescribing-dental-best-practices-review.md
 category: [drug/antibiotics]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/sandulescu-2024-antibiotic-prescribing-dental-best-practices-review.pdf
 pdf_filename: sandulescu-2024-antibiotic-prescribing-dental-best-practices-review.pdf
 source_collection: external
@@ -42,15 +42,15 @@ Multidisciplinary narrative review (infectious disease + dentistry + microbiolog
 Narrative review combining ID and dental stewardship literature with implementation science.
 
 ## Results
-[합의수준] Implementation best practices: indication required; default to narrow spectrum; minimum effective duration; integration with electronic prescribing; audit + feedback cycles.
+[확인] Implementation best practices: indication required; default to narrow spectrum; minimum effective duration; integration with electronic prescribing; audit + feedback cycles.
 
 ## Limitations
 - Narrative not systematic
 - Implementation evidence still maturing
 
 ## Related Papers
-- [[drug/thompson-2023-dental-antibiotic-stewardship-core-outcome-set]] — outcome set.
-- [[drug/vidovic-juras-2024-antibiotic-prophylaxis-dental-procedures]] — prophylaxis.
-- [[drug/sbricoli-2024-antibiotic-prescribing-habits-dentistry-survey]] — habits baseline.
-- [[drug/sutej-2024-antibiotic-prescribing-trends-dentistry-croatia]] — trends.
-- [[drug/bazsefidpay-2023-antibiotic-restrictive-use-adherence-recommendation]] — Swedish adherence.
+- [[drug/antibiotics/thompson-2023-dental-antibiotic-stewardship-core-outcome-set]] — outcome set.
+- [[drug/mronj/vidovic-juras-2024-antibiotic-prophylaxis-dental-procedures]] — prophylaxis.
+- [[drug/antibiotics/sbricoli-2024-antibiotic-prescribing-habits-dentistry-survey]] — habits baseline.
+- [[drug/antibiotics/sutej-2024-antibiotic-prescribing-trends-dentistry-croatia]] — trends.
+- [[drug/antibiotics/bazsefidpay-2023-antibiotic-restrictive-use-adherence-recommendation]] — Swedish adherence.

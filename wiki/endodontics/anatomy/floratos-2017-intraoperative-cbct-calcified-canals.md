@@ -6,7 +6,7 @@ date: 2017-11-27
 doi: 10.1155/2017/1265701
 journal: Case Reports in Dentistry 2017:1265701
 source: floratos-2017-intraoperative-cbct-calcified-canals.md
-confidence: case-report
+evidence_level: case-report
 category: [endodontics/anatomy]
 pdf_path: /Users/oracleneo/llm-wiki/papers/floratos-2017-intraoperative-cbct-calcified-canals.pdf
 pdf_filename: floratos-2017-intraoperative-cbct-calcified-canals.pdf

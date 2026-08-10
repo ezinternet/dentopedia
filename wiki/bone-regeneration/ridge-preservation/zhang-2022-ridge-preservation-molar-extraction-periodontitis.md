@@ -6,7 +6,7 @@ date: 2022-12-22
 doi: 10.1186/s12903-022-02544-0
 source: zhang-2022-ridge-preservation-molar-extraction-periodontitis.md
 category: [bone-regeneration/ridge-preservation]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/zhang-2022-ridge-preservation-molar-extraction-periodontitis.pdf
 pdf_filename: zhang-2022-ridge-preservation-molar-extraction-periodontitis.pdf
 source_collection: external

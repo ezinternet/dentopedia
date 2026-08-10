@@ -6,7 +6,7 @@ date: 2025-09-09
 doi: 10.1177/00220345251363837
 source: zheng-2025-silver-diamine-fluoride-vs-varnish-caries-prevention-rct.md
 category: [caries]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/zheng-2025-silver-diamine-fluoride-vs-varnish-caries-prevention-rct.pdf
 pdf_filename: zheng-2025-silver-diamine-fluoride-vs-varnish-caries-prevention-rct.pdf
 source_collection: external

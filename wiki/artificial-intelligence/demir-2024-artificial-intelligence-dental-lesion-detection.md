@@ -6,7 +6,7 @@ date: 2024-12-09
 doi: "10.3390/diagnostics14232768"
 source: demir-2024-artificial-intelligence-dental-lesion-detection.md
 category: [artificial-intelligence]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "39682676"

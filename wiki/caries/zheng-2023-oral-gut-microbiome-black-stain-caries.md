@@ -8,7 +8,7 @@ pmid: "37065128"
 pmcid: "PMC10103904"
 source: zheng-2023-oral-gut-microbiome-black-stain-caries.md
 category: [caries]
-confidence: cross-sectional
+evidence_level: cross-sectional
 source_collection: pubmed-text
 text_path: /Users/oracleneo/llm-wiki/papers/zheng-2023-oral-gut-microbiome-black-stain-caries.txt
 text_filename: zheng-2023-oral-gut-microbiome-black-stain-caries.txt

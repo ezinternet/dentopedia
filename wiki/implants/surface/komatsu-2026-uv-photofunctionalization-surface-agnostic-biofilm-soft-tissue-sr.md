@@ -6,7 +6,7 @@ date: 2026-06-17
 doi: 10.1186/s40729-026-00695-1
 source: komatsu-2026-uv-photofunctionalization-surface-agnostic-biofilm-soft-tissue-sr.md
 category: [implants/surface]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: false
 pmid: "42310175"
@@ -74,6 +74,6 @@ Its central reframing: UV-PF is a **surface-agnostic physicochemical reactivatio
 - [[implants/surface/dorigatti-de-avila-2015-uv-photofunctionalization-bacterial-biofilm]] — bacterial/biofilm interface evidence this SR aggregates and extends.
 - [[implants/surface/ogawa-2025-3d-theory-osseointegration-material-topography]] — aging/topography theory this SR operationalizes as "surface-agnostic".
 - [[implants/surface/hirota-2020-uv-photofunctionalization-dental-implant-7year]] — long-term clinical UV-PF outcomes.
-- [[implants/surface/pesce-2020-photo-plasma-activation-titanium-sr-ma]] — adjacent SR+MA on photo/plasma surface activation.
+- [[implants/surface/plasma/pesce-2020-photo-plasma-activation-titanium-sr-ma]] — adjacent SR+MA on photo/plasma surface activation.
 - [[implants/surface/iwasa-2011-tio2-micro-nano-hybrid-biological-aging]] — biological-aging mechanism.
 - [[overviews/plasma-surface-treatment-dental-implants]] — candidate overview anchor.

@@ -8,7 +8,7 @@ pmid: "38661760"
 pmcid: "PMC12594213"
 source: garcia-2023-teledentistry-acceptability-latino-rural-virginia.md
 category: [practice-management]
-confidence: cross-sectional
+evidence_level: cross-sectional
 source_collection: pubmed-text
 full_text: true
 source_url: https://pmc.ncbi.nlm.nih.gov/articles/PMC12594213/
@@ -18,6 +18,8 @@ tags: []
 relations:
   - type: refines
     target: scheerman-2024-systematic-umbrella-review-effects-teledentistry
+  - type: refines
+    target: lee-2024-teledentistry-utilisation-australia-sr-ma
 ---
 
 > [!note] DOI not indexed in PubMed; cite PMID 38661760. J Health Care Poor Underserved 2023;34(4):1353–1365.

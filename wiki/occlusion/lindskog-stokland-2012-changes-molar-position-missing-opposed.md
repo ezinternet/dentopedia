@@ -6,7 +6,7 @@ date: 2012-02-01
 doi: 10.1111/j.1365-2842.2011.02252.x
 source: lindskog-stokland-2012-changes-molar-position-missing-opposed.md
 category: [occlusion]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/lindskog-stokland-2012-changes-molar-position-missing-opposed.pdf
 pdf_filename: lindskog-stokland-2012-changes-molar-position-missing-opposed.pdf
 source_collection: external

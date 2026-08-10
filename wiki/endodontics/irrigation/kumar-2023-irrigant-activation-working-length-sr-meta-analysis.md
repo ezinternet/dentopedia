@@ -6,7 +6,7 @@ date: 2023-01-26
 doi: 10.14744/eej.2022.87587
 journal: European Endodontic Journal 8(1):1-19
 source: kumar-2023-irrigant-activation-working-length-sr-meta-analysis.md
-confidence: sr+ma
+evidence_level: sr+ma
 category: [endodontics/irrigation]
 pdf_path: /Users/oracleneo/llm-wiki/papers/kumar-2023-irrigant-activation-working-length-sr-meta-analysis.pdf
 pdf_filename: kumar-2023-irrigant-activation-working-length-sr-meta-analysis.pdf

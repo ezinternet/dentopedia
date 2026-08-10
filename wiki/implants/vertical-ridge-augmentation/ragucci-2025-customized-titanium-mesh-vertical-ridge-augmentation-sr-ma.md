@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1186/s40729-025-00643-5
 source: ragucci-2025-customized-titanium-mesh-vertical-ridge-augmentation-sr-ma.md
 category: [implants/vertical-ridge-augmentation]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/ragucci-2025-customized-titanium-mesh-vertical-ridge-augmentation-sr-ma.pdf
 pdf_filename: ragucci-2025-customized-titanium-mesh-vertical-ridge-augmentation-sr-ma.pdf
 source_collection: external

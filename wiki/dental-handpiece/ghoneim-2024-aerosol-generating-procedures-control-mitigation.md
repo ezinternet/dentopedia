@@ -6,7 +6,7 @@ date: 2024-02-01
 doi: ""
 source: ghoneim-2024-aerosol-generating-procedures-control-mitigation.md
 category: [dental-handpiece]
-confidence: consensus
+evidence_level: consensus
 source_collection: pubmed-text
 full_text: false
 pmid: "38505316"

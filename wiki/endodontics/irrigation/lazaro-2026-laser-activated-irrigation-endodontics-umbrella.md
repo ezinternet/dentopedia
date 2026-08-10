@@ -8,7 +8,7 @@ pmid: "41833582"
 pmcid: "PMC13000699"
 source: lazaro-2026-laser-activated-irrigation-endodontics-umbrella.md
 category: endodontics/irrigation
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 text_path: /Users/oracleneo/llm-wiki/papers/lazaro-2026-laser-activated-irrigation-endodontics-umbrella.txt

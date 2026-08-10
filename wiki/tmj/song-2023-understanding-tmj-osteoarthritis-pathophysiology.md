@@ -6,7 +6,7 @@ date: 2023-03-31
 doi: 10.22974/jkda.2023.61.5.004
 source: song-2023-understanding-tmj-osteoarthritis-pathophysiology.md
 category: [tmj]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/song-2023-understanding-tmj-osteoarthritis-pathophysiology.pdf
 pdf_filename: song-2023-understanding-tmj-osteoarthritis-pathophysiology.pdf
 source_collection: external

@@ -41,7 +41,7 @@ Journal: Antibiotics 2024;13:189
 Questionnaire administered to Italian dentists; analyzed prescribing habits, indication appropriateness, AMR awareness.
 
 ## 4. Key Results
-[합의수준] Overprescription patterns identified; indications often diverge from guideline recommendations; AMR awareness does not translate to behavior change.
+[확인] Overprescription patterns identified; indications often diverge from guideline recommendations; AMR awareness does not translate to behavior change.
 
 ## 5. Limitations
 - Self-report bias (questionnaire)

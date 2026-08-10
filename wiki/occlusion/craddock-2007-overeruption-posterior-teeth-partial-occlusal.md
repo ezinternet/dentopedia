@@ -6,13 +6,13 @@ date: 2007-03-16
 doi: 10.1111/j.1365-2842.2007.01686.x
 source: craddock-2007-overeruption-posterior-teeth-partial-occlusal.md
 category: [occlusion]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/craddock-2007-overeruption-posterior-teeth-partial-occlusal.pdf
 pdf_filename: craddock-2007-overeruption-posterior-teeth-partial-occlusal.pdf
 source_collection: external
 tags: [overeruption, partial-occlusal-contact, tipping, unopposed-tooth, posterior-teeth, occlusion]
 relations:
-  - type: reinforces
+  - type: contradicts
     target: livas-2016-fixed-retention-unopposed-molar-overeruption
   - type: reinforces
     target: kiliaridis-2000-vertical-position-rotation-tipping-molars
@@ -74,6 +74,6 @@ Note: only abstract-level detail available from the source PDF (publisher landin
 
 ## Related Papers
 
-- [[occlusion/livas-2016-fixed-retention-unopposed-molar-overeruption]] — reinforces: both show that residual/partial situations do not reliably arrest eruptive drift, supporting active retention/management over reliance on incidental contact.
+- [[occlusion/livas-2016-fixed-retention-unopposed-molar-overeruption]] — **contradicts**: the two disagree on what partial contact does. This paper finds partially opposed teeth over-erupt much like fully unopposed ones and argues for proactive replacement; Livas found partial-contact controls moved only ~0.1 mm and treats monitoring as a defensible default. (The earlier `reinforces` gloss here — that both show residual contact fails to arrest drift — misread Livas, whose controls barely moved.)
 - [[occlusion/craddock-2004-incidence-overeruption-occlusal-interferences-unopposed]] — companion paper by the same group quantifying the incidence/extent of overeruption and resulting occlusal interferences in unopposed posterior teeth; this 2007 paper extends it to the partial-contact scenario.
 - [[overviews/unopposed-tooth-overeruption-overview]] — feeds the "what modulates overeruption" synthesis: provides the evidence that partial occlusal contact is NOT a protective modulator.

@@ -45,6 +45,7 @@ This small trial (28 patients, short follow-up) suggests plasma may influence ma
 
 - 28 patients randomized to SLA (control) or SLA/plasma. Recall at 1 and 3 months; second-stage surgery at 4 months.
 - Outcomes: buccal bone defects, implant stability, marginal bone change (periapical radiographs).
+- **Device parameters (added 2026-08-10, re-checked PDF for a user question on vacuum-plasma treatment times):** ACTILINK system (Plasmapp Co., Ltd., Daejeon). Implant mounted on fixture-driver holder, electrically grounded; tube lowers to seal out ambient air; vacuum <10 torr formed by pumping; ~3 kV supplied to power electrode → DBD plasma discharge on implant surface; residual impurities then removed by further pumping. **"This process takes about 1 min"** (paper's own wording) for the full vacuum+discharge+pump-out cycle. No external gas.
 
 ## 4. Key Results and Benchmarks
 
@@ -66,4 +67,4 @@ This small trial (28 patients, short follow-up) suggests plasma may influence ma
 ## 7. Glossary
 
 - SLA = sand-blasted, large-grit, acid-etched. Marginal bone change = 변연골 변화.
-- ACTLINK = 상용 플라즈마 표면처리 장비.
+- ACTLINK/ACTILINK = Plasmapp사(社)의 체어사이드 진공 플라즈마 장비 계열(전체 표기 "ACTILINK"), DBD 방식, 사이클당 약 1분.

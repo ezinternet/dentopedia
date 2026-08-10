@@ -6,7 +6,7 @@ date: 2010-01-01
 doi: 10.1111/j.1600-0501.2010.02060.x
 journal: Clinical Oral Implants Research 2010
 source: covani-2010-alveolar-ridge-remodelling-single-tooth.md
-confidence: prospective
+evidence_level: prospective
 category: [immediate-implant]
 pdf_path: /Users/oracleneo/llm-wiki/papers/covani-2010-alveolar-ridge-remodelling-single-tooth.pdf
 pdf_filename: covani-2010-alveolar-ridge-remodelling-single-tooth.pdf

@@ -49,7 +49,7 @@ source_collection: external
 소규모; 단기 추적.
 
 ## 6. Related Work
-- [[immediate-implant/sanz-2017-bone-graft-gap-immediate-implant-rct]] — related
+- [[immediate-implant/gap-grafting/sanz-2017-bone-graft-gap-immediate-implant-rct]] — related
 
 ## 7. Glossary
 tuberosity autograft: 상악 결절 자가골; xenograft: 이종골; buccal defect: 협측 결손

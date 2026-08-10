@@ -6,7 +6,7 @@ date: 2022-02-21
 doi: 10.2186/jpr.JPR_D_21_00333
 source: kondo-2022-current-perspectives-residual-ridge.md
 category: [bone-biology]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/kondo-2022-current-perspectives-residual-ridge.pdf
 pdf_filename: kondo-2022-current-perspectives-residual-ridge.pdf
 source_collection: external

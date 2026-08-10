@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: "10.1177/23743735251342611"
 source: elias-2025-successful-handling-patient-complaints.md
 category: complaint-management
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/elias-2025-successful-handling-patient-complaints.pdf
 pdf_filename: elias-2025-successful-handling-patient-complaints.pdf
 source_collection: external

@@ -7,7 +7,7 @@ doi: 10.1001/jama.2022.4983
 journal: JAMA 327(16):1577-1584
 source: uspstf-2022-aspirin-cardiovascular-disease-prevention.md
 category: [drug/anticoagulants]
-confidence: consensus
+evidence_level: consensus
 pdf_path: /Users/oracleneo/llm-wiki/papers/uspstf-2022-aspirin-cardiovascular-disease-prevention.pdf
 pdf_filename: uspstf-2022-aspirin-cardiovascular-disease-prevention.pdf
 source_collection: external
@@ -36,7 +36,7 @@ USPSTF 2022 권고문(JAMA 327:1577): ASPREE·ARRIVE·ASCEND 기반 저용량 �
 
 Driven by new evidence (ASPREE, ARRIVE, ASCEND trials, 2018) showing bleeding harms (GI, intracranial) increase with age and now outweigh the small CVD risk reduction at and above 60. The prior CRC chemoprevention argument is downgraded based on more recent data.
 
-[claude해석] Dental implications: any new aspirin started after 2022 in adults ≥60 should be questioned (likely already in current practice if discontinuation indicated). However, patients already established on aspirin for secondary prevention (post-MI, post-stroke, post-stent) are *not* affected by this — the recommendation only addresses *primary* prevention initiation. For dental management of patients on long-standing aspirin, continue to follow non-interruption protocol (see related papers).
+[미검증] Dental implications: any new aspirin started after 2022 in adults ≥60 should be questioned (likely already in current practice if discontinuation indicated). However, patients already established on aspirin for secondary prevention (post-MI, post-stroke, post-stent) are *not* affected by this — the recommendation only addresses *primary* prevention initiation. For dental management of patients on long-standing aspirin, continue to follow non-interruption protocol (see related papers).
 
 ## Key Contributions
 - Major reversal of the 2016 USPSTF aspirin recommendation.
@@ -59,8 +59,8 @@ USPSTF systematic review covering: CVD event effects, CV/all-cause mortality, CR
 - Does not address dental procedure management; relevant only as background for the patient's medication landscape.
 
 ## Related Papers
-- [[drug/catella-lawson-2001-cyclooxygenase-inhibitors-aspirin-nejm]] — COX inhibitors and aspirin antiplatelet pharmacology.
-- [[drug/renda-2006-celecoxib-ibuprofen-aspirin-antiplatelet]] — celecoxib/ibuprofen/aspirin antiplatelet interactions.
-- [[drug/hohlfeld-2008-pyrazolinone-aspirin-antiplatelet-pharmacology]] — pyrazolinone-aspirin pharmacology.
-- [[drug/lu-2018-warfarin-antiplatelet-dental-extraction-management]] — patient on aspirin for established indication; dental extraction outcomes.
-- [[drug/shah-2022-perioperative-antiplatelet-therapy-sr-ma]] — perioperative APT SR+MA.
+- [[drug/anticoagulants/catella-lawson-2001-cyclooxygenase-inhibitors-aspirin-nejm]] — COX inhibitors and aspirin antiplatelet pharmacology.
+- [[drug/anticoagulants/renda-2006-celecoxib-ibuprofen-aspirin-antiplatelet]] — celecoxib/ibuprofen/aspirin antiplatelet interactions.
+- [[drug/anticoagulants/hohlfeld-2008-pyrazolinone-aspirin-antiplatelet-pharmacology]] — pyrazolinone-aspirin pharmacology.
+- [[drug/anticoagulants/lu-2018-warfarin-antiplatelet-dental-extraction-management]] — patient on aspirin for established indication; dental extraction outcomes.
+- [[drug/anticoagulants/shah-2022-perioperative-antiplatelet-therapy-sr-ma]] — perioperative APT SR+MA.

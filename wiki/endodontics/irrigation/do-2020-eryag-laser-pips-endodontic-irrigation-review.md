@@ -6,7 +6,7 @@ date: 2020-06-21
 doi: 10.34172/jlms.2020.53
 source: do-2020-eryag-laser-pips-endodontic-irrigation-review.md
 category: [endodontics/irrigation]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/do-2020-eryag-laser-pips-endodontic-irrigation-review.pdf
 pdf_filename: do-2020-eryag-laser-pips-endodontic-irrigation-review.pdf
 source_collection: external

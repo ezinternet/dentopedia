@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1186/s12903-025-07288-1
 source: lamichhane-2025-crown-margins-marginal-adaptation-periodontal.md
 category: [periodontics]
-confidence: cross-sectional
+evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/lamichhane-2025-crown-margins-marginal-adaptation-periodontal.pdf
 pdf_filename: lamichhane-2025-crown-margins-marginal-adaptation-periodontal.pdf
 source_collection: external

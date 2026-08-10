@@ -6,7 +6,7 @@ date: 2025-11-07
 doi: 10.1016/j.adaj.2025.08.015
 source: mojaver-2025-supportive-peri-implant-therapy-efficacy-sr.md
 category: [implants/peri-implantitis]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/mojaver-2025-supportive-peri-implant-therapy-efficacy-sr.pdf
 pdf_filename: mojaver-2025-supportive-peri-implant-therapy-efficacy-sr.pdf
 source_collection: external

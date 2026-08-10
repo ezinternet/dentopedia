@@ -6,7 +6,7 @@ date: 2024-02-05
 doi: 10.1186/s12903-024-03904-8
 source: ghobadi-2024-effect-virtual-reality-reducing-patients.md
 category: [behavioral-dentistry/dental-anxiety]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: true
 pmid: "38317209"

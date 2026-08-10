@@ -6,7 +6,7 @@ date: 2017-11-01
 doi: N/A
 source: mohammadi-bassir-2017-grinding-overglazing-polishing-zirconia.md
 category: [dental-materials/zirconia]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/mohammadi-bassir-2017-grinding-overglazing-polishing-zirconia.pdf
 pdf_filename: mohammadi-bassir-2017-grinding-overglazing-polishing-zirconia.pdf
 source_collection: external

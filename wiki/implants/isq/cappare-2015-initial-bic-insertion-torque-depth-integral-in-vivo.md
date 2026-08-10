@@ -6,7 +6,7 @@ date: 2015-04-15
 doi: "10.1111/cid.12294"
 source: cappare-2015-initial-bic-insertion-torque-depth-integral-in-vivo.md
 category: [implants/isq]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/cappare-2015-initial-bic-insertion-torque-depth-integral-in-vivo.pdf
 pdf_filename: cappare-2015-initial-bic-insertion-torque-depth-integral-in-vivo.pdf
 source_collection: external
@@ -46,6 +46,6 @@ In vivo clinical study; implants placed with an instantaneous torque-measuring m
 - Intra-operative bone-quality + primary-stability quantification supported. (Pooled coefficients to verify in full text.) [미검증]
 
 ## Related Papers
-- [[implants/di-stefano-2018-undersizing-tapping-bic-primary-stability-bovine-histomorphometric]] — applies-to; bench formalization of the same torque-integral–BIC link.
+- [[implants/osteotomy-thermal/di-stefano-2018-undersizing-tapping-bic-primary-stability-bovine-histomorphometric]] — applies-to; bench formalization of the same torque-integral–BIC link.
 - [[implants/isq/lages-2018-isq-insertion-torque-correlation-sr]] — related; insertion torque vs ISQ correlation.
 - [[implants/isq/nkenke-2003-implant-stability-histomorphometry-cadaver-correlation]] — related; stability–histomorphometry correlation.

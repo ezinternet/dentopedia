@@ -14,7 +14,7 @@ text_filename: bulaqi-2015-dynamic-nature-abutment-screw-retightening.txt
 
 ## Why Ingested
 
-기존 settling-effect 클러스터([[prosthetic-materials/kim-2020-axial-displacements-removal-torque-changes]] static-loading settling, [[prosthetic-materials/ren-2024-morse-taper-abutment-subsidence-locking-force]] subsidence, [[prosthetic-materials/pardal-pelaez-2017-preload-loss-abutment-screws-dynamic-fatigue]] dynamic fatigue)는 세틀링이펙트의 *결과*(preload 손실량·removal torque 변화)는 측정하지만 *왜* 세틀링이 일어나고 *재조임(retightening)이 왜 그것을 회복시키는지*의 메커니즘은 비워둔다. 본 FEA 논문은 마찰계수(coefficient of friction)와 표면 거칠기가 settling effect를 어떻게 구동하는지, 그리고 retightening이 settling을 줄이되 preload는 거의 못 올리는 이유를 동역학 시뮬레이션으로 설명해 그 메커니즘 공백을 채운다. [[prosthetic-materials/nithyapriya-2018-factors-loss-preload-dental-implants]]의 "factors of preload loss" 서술을 정량적 메커니즘으로 보강.
+기존 settling-effect 클러스터([[prosthetic-materials/abutment-screw/kim-2020-axial-displacements-removal-torque-changes]] static-loading settling, [[prosthetic-materials/abutment-screw/ren-2024-morse-taper-abutment-subsidence-locking-force]] subsidence, [[prosthetic-materials/abutment-screw/pardal-pelaez-2017-preload-loss-abutment-screws-dynamic-fatigue]] dynamic fatigue)는 세틀링이펙트의 *결과*(preload 손실량·removal torque 변화)는 측정하지만 *왜* 세틀링이 일어나고 *재조임(retightening)이 왜 그것을 회복시키는지*의 메커니즘은 비워둔다. 본 FEA 논문은 마찰계수(coefficient of friction)와 표면 거칠기가 settling effect를 어떻게 구동하는지, 그리고 retightening이 settling을 줄이되 preload는 거의 못 올리는 이유를 동역학 시뮬레이션으로 설명해 그 메커니즘 공백을 채운다. [[prosthetic-materials/abutment-screw/nithyapriya-2018-factors-loss-preload-dental-implants]]의 "factors of preload loss" 서술을 정량적 메커니즘으로 보강.
 
 ## Three-line Summary
 

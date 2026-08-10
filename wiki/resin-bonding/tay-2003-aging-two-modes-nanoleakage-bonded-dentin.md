@@ -6,7 +6,7 @@ date: 2003-07-01
 doi: 10.1177/154405910308200710
 source: tay-2003-aging-two-modes-nanoleakage-bonded-dentin.md
 category: [resin-bonding]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: false
 pmid: "12821715"

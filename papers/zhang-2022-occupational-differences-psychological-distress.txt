@@ -1,0 +1,28 @@
+TITLE: Occupational Differences in Psychological Distress Between Chinese Dentists and Dental Nurses.
+AUTHORS: Zhang Y, Yan L, Long H, Yang L, Wang J, Liu Y, Pu J, Liu L, Zhong X, Xin J.
+YEAR: 2022
+DOI: 10.3389/fpsyg.2022.923626
+PMID: 35846642
+PMCID: PMC9285401
+============================================================
+Introduction
+
+Mental health is a significant proposition related to social, psychological, behavioral, and biological factors. Dentistry has many stress elements in clinical practice, such as a noisy medical environment, difficult work postures, prolonged surgical procedures, narrow operating space, and a desire for technical perfection. There are few studies that have focused on the comparison between dentists and dental nurses in psychological distress. Therefore, this study aimed to survey the occupational differences in psychological distress between Chinese dentists and dental nurses and explore respective influencing factors.
+
+Materials and Methods
+
+The data was collected from a cross-sectional survey conducted by the Chongqing Stomatological Association between February and March 2021 in 11 provinces of China. The self-administered questionnaire comprised five parts: demographics; the Chinese General Health Questionnaire-12 (psychological distress, cutoff >=4); the Chinese Maslach Burnout Inventory (22 items, three domains); the Consultants' Mental Health Questionnaire (job stress/satisfaction); and career-choice-regret items.
+
+Results
+
+3,020 valid questionnaires (1,855 dentists, 1,165 dental nurses) from 180 institutions in 11 Chinese provinces. Overall psychological distress 23.8%; dentists 25.7% vs dental nurses 20.8% (4.9 percentage-point gap, p=0.003). Burnout prevalence: dentists 28.9% vs dental nurses 23.6%.
+
+Multivariable analysis: for DENTISTS, risk factors for psychological distress were lower income, burnout (OR 2.171), high job stress (OR 3.017, highest OR), career-choice regret (OR 2.05), and lack of sufficient personal time (OR 1.735). For DENTAL NURSES, risk factors were age >=35 (OR 2.069), lower income, longer working hours (>55h/week OR 2.433), burnout (OR 1.772), high job stress (OR 3.37, highest OR), low job satisfaction (OR 1.742), lack of sufficient personal time (OR 2.347), and poor medical environment (OR 2.2).
+
+Common risk factors across both roles: lower income, burnout, high job stress, lack of sufficient personal time. Nurses had MORE distinct risk factors than dentists (age, working hours, job satisfaction, medical environment all significant for nurses but not dentists).
+
+Discussion/Limitations: Dentists tend to be more educated, work longer hours, undertake more teaching, and have higher seniority/income than dental nurses; this may explain their higher psychological distress. Nurses' non-mutual "subordinate" collaborative relationship with dentists, and older nurses' mismatched expectations for professional development, are discussed as contributing factors. Limitations: selection bias (only 11 of China's provinces), self-report questionnaire, cross-sectional design precludes causal inference.
+
+Conclusion
+
+Psychological distress was relatively high among dental medical staff overall, with dentists showing HIGHER prevalence than dental nurses, but dental nurses having MORE distinct risk factors requiring attention. Both dentist- and nurse-specific strategies are needed.

@@ -6,7 +6,7 @@ date: 2025-12-08
 doi: 10.1016/j.ortho.2025.101110
 source: zhang-2025-clear-aligner-based-multidisciplinary.md
 category: [orthodontics/clear-aligner]
-confidence: case-report
+evidence_level: case-report
 pdf_path: /Users/oracleneo/llm-wiki/papers/zhang-2025-clear-aligner-based-multidisciplinary.pdf
 pdf_filename: zhang-2025-clear-aligner-based-multidisciplinary.pdf
 source_collection: external

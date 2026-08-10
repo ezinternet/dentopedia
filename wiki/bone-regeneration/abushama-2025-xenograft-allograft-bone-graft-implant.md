@@ -6,7 +6,7 @@ date: 2025-07-22
 doi: 10.12688/f1000research.163924.1
 source: abushama-2025-xenograft-allograft-bone-graft-implant.md
 category: [bone-regeneration]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "40951319"
@@ -71,6 +71,6 @@ Across clinical (gingival/plaque index, probing depth), radiographic (marginal b
 ## Related Papers
 
 - [[bone-regeneration/rao-2026-allogeneic-bone-plug-versus-dbbm-gbr-pilot-rct]] — reinforces: single pilot RCT found allogeneic bone plug and DBBM statistically equivalent on vital bone and dimensional stability in GBR; this SR extends that equivalence finding across a broader set of indications (immediate/delayed implant, ARP, sinus augmentation).
-- [[immediate-implant/zaki-2021-bone-substitute-materials-immediate-implant-sr-ma]] — related but distinct question: BSM (mixed xenograft/allograft/alloplast) vs no-BSM gap grafting at immediate implants, quantifying buccal-bone and esthetic benefit; this review instead compares xenograft vs allograft head-to-head.
+- [[immediate-implant/gap-grafting/zaki-2021-bone-substitute-materials-immediate-implant-sr-ma]] — related but distinct question: BSM (mixed xenograft/allograft/alloplast) vs no-BSM gap grafting at immediate implants, quantifying buccal-bone and esthetic benefit; this review instead compares xenograft vs allograft head-to-head.
 - [[bone-regeneration/ridge-preservation/avila-ortiz-2014-alveolar-ridge-preservation-systematic-review]] — SR+MA concluding flap elevation + membrane + xenograft/allograft is the "optimal" ARP protocol, without distinguishing material superiority between the two — consistent with this review's interchangeability conclusion.
 - [[overviews/dbbm-bone-substitute-overview]] — DBBM synthesis overview incorporates this paper into Axis 9 (xenograft-vs-allograft equivalence), lifting the single Rao 2026 pilot RCT to SR level across immediate/delayed implant, ARP, and sinus augmentation.

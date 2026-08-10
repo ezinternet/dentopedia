@@ -6,7 +6,7 @@ date: 2014-01-01
 doi: 10.2174/1874210601408010050
 source: abraham-2014-historical-perspective-dental-implant-surfaces-treatments.md
 category: [implants/surface]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/abraham-2014-historical-perspective-dental-implant-surfaces-treatments.pdf
 pdf_filename: abraham-2014-historical-perspective-dental-implant-surfaces-treatments.pdf
 source_collection: external
@@ -64,5 +64,5 @@ Not applicable — this is a narrative review with no quantitative outcomes. Use
 
 ## Related Papers
 - [[implants/surface/lahens-2019-osseodensification-implant-surface-treatments-sheep]] — modern sheep study comparing acid-etched vs machined surfaces under different drilling protocols.
-- [[implants/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — example of contemporary drilling-protocol innovation building on the surface paradigm.
-- [[implants/marzorati-2026-osseodensification-standard-osteotomy-torque-isq-sr-ma]] — current SR-grade evidence framework for technique evaluation.
+- [[implants/osseodensification/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — example of contemporary drilling-protocol innovation building on the surface paradigm.
+- [[implants/osseodensification/marzorati-2026-osseodensification-standard-osteotomy-torque-isq-sr-ma]] — current SR-grade evidence framework for technique evaluation.

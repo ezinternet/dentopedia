@@ -1,0 +1,128 @@
+TITLE: Effect of a Novel Adaptive Handle Design on the Ergonomic Performance of Periodontal Curettes in Dental Hygienists with and without Musculoskeletal Disorders: A Pilot Clinical Study.
+AUTHORS: Wink C, et al.
+YEAR: 2024
+DOI: 10.3390/dj12080253
+PMID: 39195097
+PMCID: PMC11352665
+============================================================
+1. Introduction
+
+Musculoskeletal disorders (MSDs) and other repetitive stress injuries (RSIs) are common in hygienists, especially in those who work full time or who have practiced clinically over many years [,,,,,,,,,,,]. Most hygienists report symptoms consistent with musculoskeletal overloading or long-term chronic injury []. Thus, it comes as no surprise that many hygienists can only work part-time due to pain and disability from work-related MSDs, which adversely affect their ability to instrument effectively [,,].
+
+The majority of dentists also report musculoskeletal pain and dysfunction [,,,,,,,,,,,,,,,,,,], and many eventually reduce working hours or retire because of work-related musculoskeletal disorders []. This situation affects the personal and professional aspects of dental clinicians’ lives. One study estimated that up to 48.1% of dental clinicians experience MSD-related insomnia and stress-related conditions. Moreover, 6.4–46.5% of these individuals report a prevalence of frequent pain, and 33% report a reduced ability to work. Poor sleep, frequent, recurrent, and severe stress, and multi-site pain all adversely affect dentists and their ability to work []. In addition to causing disability, pain, and suffering, these conditions also have considerable detrimental effects on the financial well-being of dental clinicians, resulting in an estimated annual loss of earnings of USD131 million [].
+
+Throughout their training, dental clinicians are taught how to best fit their hands and fingers to rigid dental tools whose shapes are not adapted to the actual anatomy of the hands and fingers. The need to maintain non-anatomical and non-ergonomic positions over long periods of repetitive, high-force, and precise instrumentation may well be an important contributor to musculoskeletal discomfort and injury in these clinicians. In this study, the investigators evaluated the ergonomic performance of a dental hand instrument specifically designed to conform to the shape of the hand and the fingers, and to divert some of the forces of instrumentation to the larger muscles and surfaces of the hand.
+
+The goals of this in vivo study were to (1) compare the ergonomic performance of three periodontal curettes with different handle designs and materials and to (2) compare these outcomes in hygienists with and without MSDs.
+
+2. Materials and Methods
+
+This protocol was granted exempt status after review by the University of California, Irvine’s IRB, as only de-identified data were collected and used.
+
+2.1. Testers
+
+Ten right-handed hygienists, with a minimum of 5 years of clinical practice for at least 3 days per week, were recruited for this study. Study participants were recruited by phone calls, e-mails, and text messages. They were all experienced current or previous periodontal instrumentation instructors at local Schools of Dental Hygiene (University of Southern California, West Coast University, Cypress College, Cerritos College, San Juaquin Valley College, and Concorde College Schools of Dental Hygiene). Five of the testers had not experienced any injuries or known disorders of their fingers, hands, or wrists within 6 months of study begin. The remaining 5 testers had been diagnosed with an instrumentation-related ongoing musculoskeletal disorder (MSD), repetitive stress injury (RSI), or chronic pain/problems in their hands.
+
+The inclusion criteria for all testers were as follows:
+
+The inclusion criteria for the MSD group were as follows:
+
+The exclusion criteria for all testers were as follows:
+
+2.2. Protocol
+
+Hygienists in each of the two groups (“MSD” and “no MSD”) were randomized for sequences of instrument use by means of research randomizer software (randomizer.org, last accessed on 14 August 2023). Each clinician tested all 3 of the curette models, (Barnhart 5/6), working sequentially on 3 typodont models, and scaling 1 model with each type of curette. Because of concerns about potential fatigue overlap between study segments, a rest period between each segment was incorporated into the protocol. The duration of this rest period has been validated in a prior study [], which found that a 20 min break allows all evaluation parameters to return to baseline. Because the adaptive handle was new to all the testers, they were shown a 20 s instructional video demonstrating its use. Then, the hygienists were given 5 min to accustom themselves to the instruments and to ask questions of the supervising hygienist. Each curette was sharpened by the same experienced dental hygiene instructor each time before it was used.
+
+The typodont models were prepared for this study precisely eighteen hours before use because artificial calculus increases in hardness over time. The artificial biofilm (Occlude Green Marking Spray, Pascal International, Bellevue, WA 98009, USA) and calculus (Dental Calculus Set, Kilgore International Inc., Coldwater, MI 49036, USA) were applied supra- and sub-gingivally to 32 artificial typodont teeth by the same researcher in a standardized fashion. Once the artificial calculus had hardened, the teeth were mounted in a typodont model, which was then attached to a manikin (Kilgore International Inc., Coldwater, MI 49036, USA). Each manikin was fixed onto an adjustable clinical dental chair. The hygienists were allowed to change their seating position and adjust the typodont position as needed throughout the study. Because each adjustment temporarily affected the surface electromyography (sEMG) traces that were being recorded during instrumentation, the researchers observing the clinicians noted the time of each adjustment. This allowed the resultant disruptions in the sEMG trace to be identified during data extraction and analysis.
+
+The testers were instructed to complete periodontal instrumentation as if they were working on a live patient. They scaled each typodont for a total of 8 min, spending 1 min instrumenting each typodont segment, with the goal of removing as many of the simulated plaque and calculus deposits as possible during this time. The same scaling sequence was maintained for each of the 3 scalers: (1) lower anterior sextant facial surfaces, (2) lower anterior sextant lingual surfaces, (3) upper anterior sextant facial surfaces, (4) upper anterior sextant lingual surfaces, (5) lower right sextant buccal surfaces, (6) lower left sextant buccal surfaces, (7) upper right sextant buccal surfaces, and (8) upper right sextant lingual surfaces.
+
+2.3. Instruments
+
+The characteristics of the 3 universal curettes (Barnhart 5/6) with stainless steel tips that were used in this study are presented in, and representative photos of the curettes during testing are shown in. A brief description of each instrument tested is provided below:
+
+Curette A: a prototype universal curette (Barnhart 5/6), whose novel handle design features a flexible, universally adjustable core which allows the instrument handle to adapt to the curvature of the hand and fingers. A silicone overlay of the handle provides a cushioned, thermally insulated grip. The prototype was fabricated in our Engineering and Materials Science laboratory.
+
+Curette B: a widely used conventional universal curette (Barnhart 5/6) with a rigid resin handle (Paradise Dental Technologies, Missoula, MT 59808, USA).
+
+Curette C: a widely used conventional universal curette (Barnhart 5/6) featuring a cushioned, thermally insulated, silicone-covered rigid handle (Iris 4696-500 0619, Benco Dental, Pittston, PA, USA).
+
+The testers could not be blinded regarding the different instruments that they were testing because of the characteristic appearance of each scaler. However, all data extraction and analysis were performed by a blinded researcher.
+
+2.4. VAS Surveys and Open-Ended Comments
+
+Immediately after the end of each arm of the clinical study, the clinicians were asked to complete 3 hard-copy VAS surveys assessing the following variables for each instrument on a scale of 0–10 (0—best, 10—worst):
+
+Finally, the questionnaires asked the testers to provide open-ended comments and to state whether they preferred any specific instrument and why.
+
+2.5. Surface Electromyography
+
+Surface EMG (sEMG) has been used over many years to assess muscle work. This technique allows researchers to chart the action potentials that are related to the activities performed by specific muscles [,,,,]. It is especially useful for evaluating work during instrumentation, as many of the major muscles used to perform tasks such as scaling are readily accessible using surface electrodes. In this study, 4 muscles that are specifically used for gripping and manipulating dental instruments were targeted: the Abductor Pollicis Brevis (APB), the First Dorsal Interosseous (FDI), the Flexor Pollicis Longus (FPL), and the Extensor Digitorum Communis (EDC) [,,,,,,]. Surface electrodes (FREEEMG, ©BTS Engineering, Quincy, MA 02169, USA) were affixed to the hand/arm above these muscles (), and the electric action potentials generated during instrumentation were transmitted wirelessly to a Dell laptop via a USB-port dongle that connected with proprietary software on the laptop computer (FREEEMG, ©BTS Engineering, Quincy, MA 02169, USA).
+
+In order to quantify muscle work accurately, a reference value must be established that permits the subsequent normalization of action potential data from each sEMG electrode. For this reason, after live muscle function tests had been completed, to ensure that each electrode had been placed in the correct position on each muscle [,,], the testers were asked to perform 15 s maximum voluntary isometric contractions (MVC) for each muscle separately. This trace was considered as 100% activity for that muscle and became the baseline against which all subsequent data for that muscle were normalized [,,,].
+
+After correct electrode positioning had been confirmed and MVC data collected, sEMG signals from all 4 muscles were recorded while the testers completed the standard scaling protocol. Once the clinical testing had been completed, data processing and extraction proceeded as follows: (1) raw sEMG signals were rectified and filtered using a second-order Butterworth filter with 10 Hz high-pass cutoff frequency using BTS EMG analyzersoftware (FREEEMG, ©BTS Engineering, Quincy, MA 02169, USA), and (2) total muscle activity expended by each muscle and by all muscles combined during scaling was calculated for each instrument from the integrated EMG curve [,,]. One blinded investigator pre-calibrated to 95% reproducibility over a total of 50 measurements analyzed the sEMG, fatigue and comfort data.
+
+2.6. Statistical Analysis
+
+Standard SPSS 19 statistics software (IBM, Armonk, NY, USA) was used to perform data analysis by means of a General Linear Model (GLIM) with pairwise tests for differences between instruments, followed by Tukey’s post hoc test. The level of significance was set at< 0.05.
+
+3. Results
+
+All testers completed this study in full compliance with the protocol. The ten female testers ranged in age from 32 to 70 years (mean age 48.1 years), whereby those without MSDs ranged in age from 32 to 55 years (mean age 41 years), and those with MSDs ranged in age from 45 to 70 years (mean age 54 years).
+
+3.1. Comfort, Fatigue, and Tactile Feedback (and)
+
+3.1.1. Hygienists with No MSDs ()
+
+Clinicians’ scores for tactile sensitivity did not differ significantly between the three test instruments. Adaptive Curette A performed significantly better than the rigid Curettes B and C in all “comfort” and “fatigue” categories. The silicone-covered Curette C performed significantly better than the resin Curette B with regard to comfort in the palm.
+
+Figure 3
+
+Mean instrumentation-related VAS scores (S.D.) from hygienists with no MSDs, where 0 is best and 10 is worst. Lines indicate statistically significant differences, with **** indicating< 0.001; *** indicating< 0.005; ** indicating< 0.01; and * indicating< 0.05.
+
+Figure 4
+
+Mean instrumentation-related VAS scores (S.D.) from hygienists with MSDs, where 0 is best and 10 is worst. Lines indicate statistically significant differences, with **** indicating< 0.001; *** indicating< 0.005; and ** indicating< 0.01.
+
+3.1.2. Hygienists with MSDs ()
+
+In this group of hygienists, clinicians’ scores for tactile sensitivity did not differ significantly between the three test instruments. Adaptive Curette A performed significantly better than Curette B in all “comfort and fatigue” categories in hygienists with MSDs. While these testers experienced less instrumentation-related fatigue after using the adaptive silicone Curette A vs. the rigid silicone Curette C, the difference did not reach significance. Curette C performed significantly better than the resin Curette B with regard to comfort in the palm.
+
+3.1.3. Comfort and Fatigue in Hygienists with MSDs vs. Hygienists without MSDs
+
+On average, mean comfort across all instruments was 57–74% worse (mean 68%) in hygienists with MSDs than in those without ().
+
+On average, mean fatigue across all instruments was 97–100% worse (mean 99%) in hygienists with MSDs than in those without ().
+
+3.2. Mean Muscle Work ()
+
+Mean total muscle work expended to complete the standard scaling task was significantly greater in hygienists with MSDs than in those without, independent of which curette was used. In healthy testers, significantly less muscle work was expended using the adaptive Curette A than rigid Curettes B or C. In testers with MSDs, clinicians also expended less muscle work using Curette A, and used the most muscle work using Curette B, but in these testers the differences did not reach significance. The standard deviations in this group of testers were considerable, measuring up to 28%.
+
+Figure 5
+
+Mean instrumentation-related muscle work (S.D.) in hygienists with and without MSDs. Lines indicate statistically significant differences, with **** indicating< 0.001; and *** indicating< 0.005.
+
+3.3. Tester Comments
+
+Testers’ comments are shown in.
+
+4. Discussion
+
+The goal of this study was to investigate muscle work, fatigue, comfort, and tactile feedback related to a standardized scaling task by dental hygienists using three different curettes. Furthermore, this study is one of the first to investigate the role of MSDs in the ergonomic performance of dental instruments.
+
+Previous studies investigating the ergonomic performance of dental hand instruments have evaluated variables such as specific features to spread instrumentation forces over larger areas [,,,,,,], often by increasing the area of contact between the hand and the tool handle [,,,,,,]. Some studies have reported on the effects of modified instrument weight, balance, shape, size, and surface properties [,,,,,,]. However, the long-standing rigid handle design was always maintained in these studies. Recently, two papers for the first time reported on the ergonomic performance of an innovative bendable handle design, which allows the instrument to adapt to the shape of each clinician’s individual hand. The authors reported that this modification significantly improved all ergonomic outcomes during dental hand instrumentation [,].
+
+The adaptive handle tested in this study incorporates into its design the known parameters that mitigate the musculoskeletal stressors inherent to dental hand instruments. Additionally, the adaptive instrument includes ergonomically favorable design features that have been incorporated into other, non-dental hand tools. For example, many studies have shown that, the greater the area of contact between a hand tool and the operator’s grasp, the more favorable will be the transfer of forces from the hand to the target surface [,,,,,]. Moreover, it is a well-known tenet of mechanics that spreading forces over a larger surface area reduces force/area, which will serve to reduce stress on the hands and fingers during instrument use [,,]. Both of these design features are incorporated into the adaptive curette, whose bendable design allows the instrument to adapt closely to the shape of the hand and fingers, providing a larger area of contact between the hand and the instrument than can be achieved using conventional, rigid instruments. Moreover, the adaptive curette spreads instrumentation weight and forces beyond the usual areas of the hand and finger, additionally receiving support from the sides and upper surface of the index finger, as well as the back of the hand. This reduces loading per unit of area, spreading and reducing stress on the fingers and the hand during instrumentation. These features most likely contributed to the less work per time and reduced total work required to complete the set scaling task in this study, as well as the decreased fatigue and improved comfort reported associated with the use of an adaptive curette design in this study.
+
+A wide range of dental and non-dental studies have determined that both objective and subjective measurements are necessary for meaningful testing of the effects of instrument design on ergonomic performance [,,]. Thus, ergonomic evaluations typically include neurophysiological mapping and quantification of specific muscle work, as well as validated semi-quantitative VAS markers of fatigue or comfort and unstructured user comments and assessments. The validity of this study’s mixed design is evidenced by the excellent overall agreement between the various evaluation tools that were used. The surface EMG measurements evidenced reduced work during instrumentation using the prototype adaptive curette. These findings were paralleled by the results of semi-quantitative VAS questionnaires, in which hygienists predominantly reported better comfort and less overall fatigue associated with the prototype adaptive curette vs. the rigid curettes. Moreover, rigid Curette C, which features a silicone-covered, larger-diameter handle than rigid Curette B, tended to perform better than Curette B with regard to work, comfort, and fatigue, although the differences achieved significance only with regard to comfort in the palm of the hand. These findings are in excellent agreement with the results of other studies supporting the use of wider, silicone-covered handles for dental hand instruments [,,,,,]. Moreover, they echo the findings of two recent studies which reported a better ergonomic performance by the prototype adaptive instrument vs. (i) a narrower-diameter, rigid, conventional stainless-steel instrument [] and (ii) conventional curettes with rigid stainless steel, resin, or silicone handles [].
+
+This is one of the first published studies comparing instrumentation-related muscle work, comfort, fatigue, and tactile feedback not just between different instrument handle designs, but also in testers with and without MSDs. Because MSDs are very common in dental clinicians, and because they affect their ability to work and their quality of life, it is incumbent upon us to develop a better understanding of the causes, effects, and potential mitigations of these conditions. This knowledge should lead to better approaches for preventing and addressing work-related MSDs in dental clinicians. Both the numerical (muscle work) and semi-quantitative (comfort, fatigue, and tactile feedback) results of this study demonstrated that hygienists with MSDs perform almost double the amount of work to complete a set scaling task as their healthy colleagues. They also experience approximately twice the fatigue and half the comfort while completing the same instrumentation task These trends were seen regardless of the type of curette handle that was used, although these variables differed considerably between the various curette designs, with Cthe adaptive curette providing the most favorable ergonomic outcomes.
+
+In summary, a novel adaptive design for dental curettes, which integrates state-of-the-art knowledge from a wide range of disciplines, may improve the ergonomic performance of dental hand instruments. Moreover, this study determined that dental clinicians with MSDs may require considerably more muscle work and experience poorer comfort and greater fatigue than their healthy counterparts.
+
+The limitations of this study include the inability to blind the testers, and the use of mannikins for testing. The mannikins did, however, have the substantial advantage of providing a standardized testing substrate. Additional clinical studies with expanded investigational scope, sample size, and duration are now under way. Additional evaluation criteria have been added. They include investigations into the effect of the adaptive handle design on instrumentation efficacy and speed, as well as hand, wrist, and body positioning during instrumentation.
+
+5. Practical Implication and Conclusions
+
+(1) A novel adaptive handle design for dental hand instruments may be significantly more comfortable, require significantly less muscle work, and cause significantly less fatigue related to periodontal scaling while maintaining excellent tactile feedback. (2) Individuals with MSDs may work considerably harder and develop greater fatigue and discomfort when they perform the same clinical tasks as their healthy colleagues. (3) Extensive studies are now under way to solidify these initial findings and to develop a better understanding of novel design features to support musculoskeletal health in dental clinicians and others engaging in repetitive work with hand tools.

@@ -6,7 +6,7 @@ date: 2025-09-04
 doi: 10.1007/s00784-025-06505-z
 source: jung-2025-flossing-performance-plaque-removal.md
 category: [interdental-cleaning]
-confidence: prospective
+evidence_level: prospective
 source_collection: pubmed-text
 full_text: true
 pmid: "40906204"
@@ -18,6 +18,8 @@ tags: [dental-floss, flossing-technique, plaque-removal, interdental-cleaning, F
 relations:
   - type: reinforces
     target: min-2024-brushing-flossing-mouthrinsing-plaque-microbiota
+  - type: extends
+    target: interdental-cleaning-devices-synthesis
 ---
 
 ## Three-line Summary

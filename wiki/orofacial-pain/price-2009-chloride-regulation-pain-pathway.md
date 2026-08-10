@@ -6,7 +6,7 @@ date: 2009-04-01
 doi: "10.1016/j.brainresrev.2008.12.015"
 source: price-2009-chloride-regulation-pain-pathway.md
 category: [orofacial-pain]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/price-2009-chloride-regulation-pain-pathway.pdf
 pdf_filename: price-2009-chloride-regulation-pain-pathway.pdf
 source_collection: external
@@ -56,4 +56,4 @@ The chloride/GABA-A disinhibition mechanism is the molecular rationale for topic
 
 - [[orofacial-pain/wilke-2020-chloride-underrated-ion-nociceptors]] — extends this central/spinal chloride account to peripheral DRG nociceptors.
 - [[orofacial-pain/pathirathna-2005-t-type-calcium-gaba-neurosteroids]] — complementary endogenous (neurosteroid) modulation of GABA-A + T-type Ca²⁺ in peripheral analgesia.
-- [[oral-medicine/jaaskelainen-2018-burning-mouth-syndrome-neuropathic-pain]] — clinical BMS subtype whose "decreased central inhibition" maps onto this disinhibition mechanism.
+- [[oral-medicine/burning-mouth-syndrome/jaaskelainen-2018-burning-mouth-syndrome-neuropathic-pain]] — clinical BMS subtype whose "decreased central inhibition" maps onto this disinhibition mechanism.

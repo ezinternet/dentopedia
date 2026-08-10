@@ -6,7 +6,7 @@ date: 2021-10-01
 doi: "10.1111/clr.13798"
 source: thoma-2021-soft-tissue-management-implants-eao-consensus.md
 category: [implants/soft-tissue]
-confidence: consensus
+evidence_level: consensus
 pdf_path: /Users/oracleneo/llm-wiki/papers/thoma-2021-soft-tissue-management-implants-eao-consensus.pdf
 pdf_filename: thoma-2021-soft-tissue-management-implants-eao-consensus.pdf
 source_collection: external

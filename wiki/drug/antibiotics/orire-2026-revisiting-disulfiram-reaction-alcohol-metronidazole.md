@@ -6,7 +6,7 @@ date: 2026-04-01
 doi: 10.1097/OLQ.0000000000002276
 source: orire-2026-revisiting-disulfiram-reaction-alcohol-metronidazole.md
 category: [drug/antibiotics]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/orire-2026-revisiting-disulfiram-reaction-alcohol-metronidazole.pdf
 pdf_filename: orire-2026-revisiting-disulfiram-reaction-alcohol-metronidazole.pdf
 source_collection: external
@@ -62,6 +62,6 @@ This focused review pooled 11 studies (PubMed, EMBASE, Cochrane CENTRAL; Jan 197
 
 ## Related Papers
 
-- [[drug/feldman-2023-metronidazole-disulfiram-reaction-case-control]] — reinforces: independent ED case-control study (n=36) finding no disulfiram-like reaction with metronidazole + ethanol.
-- [[drug/thornhill-2019-adverse-reactions-oral-antibiotics-dentists]] — antibiotic adverse-reaction counseling context in dentistry.
+- [[drug/antibiotics/feldman-2023-metronidazole-disulfiram-reaction-case-control]] — reinforces: independent ED case-control study (n=36) finding no disulfiram-like reaction with metronidazole + ethanol.
+- [[drug/antibiotics/thornhill-2019-adverse-reactions-oral-antibiotics-dentists]] — antibiotic adverse-reaction counseling context in dentistry.
 - [[overviews/drug-antibiotic-stewardship-overview]] — dental antibiotic prescribing/counseling hub.

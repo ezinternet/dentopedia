@@ -6,7 +6,7 @@ date: 2019-07-04
 doi: 10.1038/s41598-019-46157-0
 source: lee-2019-monte-carlo-paediatric-panoramic-dose-reduction.md
 category: [radiology]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/lee-2019-monte-carlo-paediatric-panoramic-dose-reduction.pdf
 pdf_filename: lee-2019-monte-carlo-paediatric-panoramic-dose-reduction.pdf
 source_collection: external

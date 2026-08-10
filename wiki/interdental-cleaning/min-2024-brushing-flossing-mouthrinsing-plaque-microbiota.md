@@ -6,7 +6,7 @@ date: 2024-05-17
 doi: 10.1186/s12903-024-04362-y
 source: min-2024-brushing-flossing-mouthrinsing-plaque-microbiota.md
 category: [interdental-cleaning]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 text_path: /Users/oracleneo/llm-wiki/papers/min-2024-brushing-flossing-mouthrinsing-plaque-microbiota.txt
 text_filename: min-2024-brushing-flossing-mouthrinsing-plaque-microbiota.txt

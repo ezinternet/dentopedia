@@ -12,7 +12,7 @@ source_collection: external
 
 ## Why Ingested
 
-즉시 식립 시 buccal 결손 socket의 차폐막·연조직 전략 선택을 다루는 [[overviews/immediate-implant-soft-tissue-gap-grafting-material-choice]]를 보강. modified VST(pericardium membrane)가 open-flap GBR 대비 buccal bone은 동등하나 PES(특히 mesial/distal papilla)에서 유의 우위를 보인 RCT로, [[immediate-implant/stagnaro-borgia-2022-immediate-implant-buccal-defect-tuberosity-rct]]의 buccal 결손 즉시 식립 근거와 짝을 이룸.
+즉시 식립 시 buccal 결손 socket의 차폐막·연조직 전략 선택을 다루는 [[overviews/immediate-implant-soft-tissue-gap-grafting-material-choice]]를 보강. modified VST(pericardium membrane)가 open-flap GBR 대비 buccal bone은 동등하나 PES(특히 mesial/distal papilla)에서 유의 우위를 보인 RCT로, [[immediate-implant/gap-grafting/stagnaro-borgia-2022-immediate-implant-buccal-defect-tuberosity-rct]]의 buccal 결손 즉시 식립 근거와 짝을 이룸.
 
 ## Three-line Summary
 
@@ -39,7 +39,7 @@ Alexandria Univ RCT (n=20, Type II socket, 상악 비구치): modified VST (심�
 RCT; n=20 환자/20 implants (각 군 10, 단일 비구치 상악, Elian Type II socket CBCT 확인); 1:1 무작위배정, opaque sealed envelope; 술자 외 blinding; primary buccal bone thickness 6mo (CBCT, 0/3/6mm 레벨); secondary buccal bone height, volumetric change(IOS STL), PES, mSBI; Mann-Whitney U / independent t-test / Friedman.
 
 ## 4. Key Results
-[근거강함]
+[확인]
 - Buccal bone thickness: 두 군 baseline→3,6mo 유의 증가, 군간 차이 없음 (all p>0.05)
 - Buccal bone height: 두 군 유의 증가(p<0.001), 군간 차이 없음 (baseline은 불균형 p=0.02)
 - PES 6mo: VST 12.78±0.83 vs GBR 11.56±1.24 (p=0.03); mesial papilla(p=0.01)·distal papilla(p=0.004) 우수

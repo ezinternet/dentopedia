@@ -6,7 +6,7 @@ date: 2025-09-24
 doi: "10.3389/fdmed.2025.1661369"
 source: gardelis-2025-implant-surface-modifications-peri-implantitis.md
 category: [implants/peri-implantitis]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/gardelis-2025-implant-surface-modifications-peri-implantitis.pdf
 pdf_filename: gardelis-2025-implant-surface-modifications-peri-implantitis.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2023-10-30
 doi: ""
 source: abu-alfaraj-2023-osseointegration-strategies-implantology-review.md
 category: [implants/surface]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/abu-alfaraj-2023-osseointegration-strategies-implantology-review.pdf
 pdf_filename: abu-alfaraj-2023-osseointegration-strategies-implantology-review.pdf
 source_collection: external

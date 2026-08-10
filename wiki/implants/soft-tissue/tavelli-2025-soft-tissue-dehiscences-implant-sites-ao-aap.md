@@ -6,7 +6,7 @@ date: 2025-03-12
 doi: 10.1002/JPER.24-0119
 source: tavelli-2025-soft-tissue-dehiscences-implant-sites-ao-aap.md
 category: [implants/soft-tissue]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/tavelli-2025-soft-tissue-dehiscences-implant-sites-ao-aap.pdf
 pdf_filename: tavelli-2025-soft-tissue-dehiscences-implant-sites-ao-aap.pdf
 source_collection: external
@@ -48,9 +48,9 @@ Systematic search per AO/AAP standards. 221 eligible studies included. Mixed-eff
 임플란트 주위 연조직 dehiscence는 'disease 없음'에도 매우 흔함 (PSTD ~46%). 식립 전 risk assessment + 필요 시 CTG·SCTG·KT 증대 술식 적용으로 예방. AO/AAP consensus급 reference.
 
 ## Related Papers
-- [[implants/thoma-2018-soft-tissue-augmentation-periimplant-health]] — soft tissue augmentation 효과 SR+MA
+- [[implants/soft-tissue/thoma-2018-soft-tissue-augmentation-periimplant-health]] — soft tissue augmentation 효과 SR+MA
 - [[immediate-implant/esthetic-soft-tissue/seyssens-2021-immediate-implant-connective-tissue-graft-sr-ma]] — CTG가 dehiscence 예방에 어떻게 작용하는지
-- [[implants/herrera-2023-prevention-treatment-peri-implant-efp]] — EFP S3 guideline
+- [[implants/peri-implantitis/herrera-2023-prevention-treatment-peri-implant-efp]] — EFP S3 guideline
 
 ## Sources
 - Source: 

@@ -6,7 +6,7 @@ date: 2024-01-04
 doi: 10.1002/JPER.23-0527
 source: stahli-2024-clinical-evaluation-novel-protocol-supportive.md
 category: [periodontics]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/stahli-2024-clinical-evaluation-novel-protocol-supportive.pdf
 pdf_filename: stahli-2024-clinical-evaluation-novel-protocol-supportive.pdf
 source_collection: external

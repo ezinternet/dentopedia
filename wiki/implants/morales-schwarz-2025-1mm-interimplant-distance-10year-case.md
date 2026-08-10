@@ -8,7 +8,7 @@ pmid: "39890702"
 pmcid: "PMC11785880"
 source: morales-schwarz-2025-1mm-interimplant-distance-10year-case.md
 category: [implants]
-confidence: case-report
+evidence_level: case-report
 source_collection: pubmed-text
 text_path: /Users/oracleneo/llm-wiki/papers/morales-schwarz-2025-1mm-interimplant-distance-10year-case.txt
 text_filename: morales-schwarz-2025-1mm-interimplant-distance-10year-case.txt
@@ -71,5 +71,5 @@ Tarnow 2000의 3 mm IID 권고는 외부 헥스, 비-플랫폼 스위칭 골수�
 ≥3 mm IID still recommended. Revision requires prospective data on more cases.
 
 ## Related Papers
-- [[implants/tarnow-2000-inter-implant-distance-crestal-bone-height]] — foundational 3 mm rule (this case challenges its universality)
+- [[implants/mbl/tarnow-2000-inter-implant-distance-crestal-bone-height]] — foundational 3 mm rule (this case challenges its universality)
 - [[implants/joshi-2025-implant-tooth-proximity-sr-ma]] — tooth side: ≥1.5 mm guideline

@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-Adds the HSV-triggered immune-mediated ulcerative disease erythema multiforme to oral-medicine, linking the herpes axis [[oral-medicine/coppola-2023-herpetic-gingivostomatitis-sr]] with the oral-ulcer differential in [[oral-medicine/mills-2017-aphthous-stomatitis-oral-medicine-review]].
+Adds the HSV-triggered immune-mediated ulcerative disease erythema multiforme to oral-medicine, linking the herpes axis [[oral-medicine/coppola-2023-herpetic-gingivostomatitis-sr]] with the oral-ulcer differential in [[oral-medicine/aphthous-stomatitis/mills-2017-aphthous-stomatitis-oral-medicine-review]].
 
 ## Three-line Summary
 

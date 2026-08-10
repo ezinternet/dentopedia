@@ -6,7 +6,7 @@ date: 2025-08-01
 doi: 10.7717/peerj.19900
 source: giri-2025-calcified-canal-management-sr.md
 category: [endodontics/anatomy]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/giri-2025-calcified-canal-management-sr.pdf
 pdf_filename: giri-2025-calcified-canal-management-sr.pdf
 source_collection: external

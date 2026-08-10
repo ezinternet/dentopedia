@@ -6,7 +6,7 @@ date: 2023-10-01
 doi: 10.1002/mbo3.1381
 source: lueyar-2023-dynamic-interactions-between-candida-albicans.md
 category: [oral-microbiology]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: true
 pmid: "37877656"

@@ -1,0 +1,96 @@
+Title: Comparison of the effects of two different styles of orally prescribing prednisolone on postoperative sequelae of surgical extraction of an impacted mandibular third molar: a single-blind randomized study
+
+Authors: Bakri MMH, Alabdali FH, Mahzari RH, Rajhi TJ, Gohal NM, Sufyani RA, Hezam AA, Qurishi AA, Bakri HM, Ali FM
+Journal: Journal of the Korean Association of Oral and Maxillofacial Surgeons, 2024;50(1):27-34
+DOI: 10.5125/jkaoms.2024.50.1.27
+PMID: 38419518
+PMCID: PMC10910002
+Source: https://pmc.ncbi.nlm.nih.gov/articles/PMC10910002/
+
+Abstract
+
+Objectives
+Surgical intervention for removal of an impacted third molar can lead to significant pain and swelling. Corticosteroids show promise for mitigating postoperative sequelae across various surgical contexts. The use of corticosteroids following minor oral surgery, though controversial, has already been proven effective. However, little research has explored peroral prescription of corticosteroids despite its convenience for outpatients and for non-surgeons like implantologists and periodontists and others who don't have access to needle injections. The aim of this study was to address a void in the literature by comparing the effects of two styles of preoral administration of prednisolone after surgical removal of the mandibular third molar and to determine which style minimizes postoperative sequelae.
+
+Materials and Methods
+A randomized, split-mouth clinical study was conducted to investigate the efficacy of two different styles of preoral prednisolone in mitigating postoperative sequelae following surgical extraction of impacted mandibular third molars. Fifteen participants were enrolled in the study. Random selection was used to determine the prescription style for the right and left mandibular arch. Group A included those who received a single dose of prednisolone 25 mg, while group B received prednisolone 5 mg postoperatively for a period of three days (5 mg three times/day on the first postoperative day, 5 mg twice/day on the second postoperative day; 5 mg once/day on the third postoperative day).
+
+Results
+There was a significant difference in the distance between the corner of the mouth and tragus, which decreased with the time interval with respect to group B when compared to group A.
+
+Conclusion
+The present study showed that a three-day tapered dose of prednisolone postoperatively was more effective in reducing post-extraction sequelae than a single-dose regimen.
+
+Full Text
+
+I. Introduction
+
+Impacted mandibular third molars, a prevalent condition affecting up to 35% of the population, often necessitate surgical extraction. In the United States alone, this procedure accounts for over 2 million extractions annually. However, the aftermath of such interventions can include substantial postoperative sequelae, including pain, swelling, trismus, and infection. Among these, pain is the most pervasive, and is often severe, lingering for several days. Swelling can hinder essential functions such as eating and speaking, while trismus, characterized by limited jaw movement, can impede oral hygiene practices. Although rare, infection is a grave concern following third molar extraction.
+
+Prednisolone, a corticosteroid known for its anti-inflammatory and immunosuppressive properties, has exhibited promise in mitigating postoperative sequelae across various surgical contexts, including third molar extraction. While the precise mechanism remains unclear, prednisolone likely dampens the inflammatory response after surgery, which could diminish pain, swelling, and trismus. Furthermore, prednisolone's immune-suppressive properties could potentially aid in preventing postoperative infections.
+
+Numerous investigations have explored the utility of prednisolone for alleviating postoperative sequelae after third molar extraction, with a spectrum of different outcomes. Some studies emphasized the effectiveness of prednisolone in this context; Bierne and Holland's study in 1993 demonstrated that patients administered prednisolone experienced significantly reduced pain and swelling compared to their counterparts. Similarly, Jepsen and Andreasen in 1991 observed decreased pain and trismus in prednisolone-treated patients.
+
+However, other studies failed to establish significant benefits of prednisolone administration. Ozok and Uslu in 2007 found no discernible disparities in pain or swelling between prednisolone-treated and untreated patients. Similarly, Yilmaz and Ozturk in 2004 reported no substantial differences in pain, swelling, or trismus.
+
+Several factors potentially influence the efficacy of prednisolone in ameliorating postoperative sequelae after third molar extraction: the dosage of prednisolone, the duration of treatment, and the timing of administration. Optimal dosage remains controversial, with conflicting findings regarding higher doses over lower doses. Similarly, there is no consensus on the ideal treatment duration, with studies demonstrating the efficacy of both shorter and longer treatment courses. Additionally, the time context of prednisolone administration is noteworthy, with studies supporting its preoperative and postoperative use. This study aims to compare two prescribing styles of prednisolone and determine which one leads to fewer postoperative complications.
+
+II. Materials and Methods
+
+1. Study design
+
+A randomized split-mouth clinical study was conducted to investigate the efficacy of prednisolone in mitigating postoperative sequelae following surgical extraction of impacted mandibular third molars. The study was employed at Jazan University College of Dentistry clinics from January to June 2023 and used a within-subject design, with each participant serving as their own control by comparing two different treatment approaches within the same individual.
+
+All methods for this study were carried out in compliance with the Declaration of Helsinki. The study adhered to ethical guidelines and obtained appropriate ethical approval from the Institutional Review Board (IRB) and the Standing Committee for Scientific Research - Jazan University (HAPO-10-Z-001) with reference No. REC-44/07/505. Informed consent was obtained from each participant before participation in the study.
+
+Sample size was calculated based on a previously published study by Al-Shamiri et al. Finally, 15 participants were enrolled in the study: eight females and seven males. Inclusion criteria included age between 18 to 30 years, good health status, and the presence of impacted mandibular third molars necessitating surgical extraction (right and left side) with complete root formation. All impacted cases were Class II, Position B on Pell and Gregory classification. The researcher used the envelope system to decide whether to initially operate on the left or right side. The surgical extraction procedure was performed unilaterally, with a minimum of 21 days before surgical extraction on the opposite side.
+
+The study excluded participants with a history of thromboembolic or cardiovascular events, hypertension, gastrointestinal tract ulcers, diabetes, glaucoma, active bacterial/fungal/viral infections, or psychosis, as well as those taking anti-inflammatory medications and women who were pregnant or lactating.
+
+Randomization was performed via computer-generated sequence to allocate participants into group A (single dose) or group B (tapered dose).
+
+2. Procedure
+
+A single qualified oral and maxillofacial surgeon, blinded to group enrollment, performed surgery for every patient. Anesthesia was achieved locally using mepivacaine 2%/epinephrine 1:100,000 to block the inferior alveolar, lingual, and buccal nerves. Three-sided mucoperiosteal flaps were reflected, buccal bone guttering was carried out under irrigation, and tooth division was performed as necessary; the third molar was removed, the flap repositioned and sutured with 3/0 black silk. Every patient received standard postoperative instructions and analgesics (ibuprofen 400 mg three times a day for 3 days).
+
+3. Intervention
+
+Participants in group A received a single dose of prednisolone 25 mg, while those in group B received prednisolone 5 mg postoperatively for three days (5 mg three times/day on the first postoperative day, 5 mg twice/day on the second postoperative day; 5 mg once/day on the third postoperative day). The intervention was administered in a single-blind fashion — the researchers who collected the data were blinded to treatment allocation.
+
+4. Data collection
+
+Parameters included maximum mouth opening, facial swelling (from the corner of the mouth to the tragus [COM-TRG], and the canthus to the mandibular angle), and pain intensity (VAS). Measurements were taken preoperatively, immediately postoperatively, and on postoperative days 1, 3, and 7.
+
+5. Data analysis
+
+IBM SPSS Statistics (ver. 22) was used. Shapiro-Wilk test assessed normality; unpaired t-tests compared numerical measurements between groups; chi-square test analyzed pain intensity between groups. Significance threshold p<0.05.
+
+III. Results
+
+1. Mouth opening: No significant difference at baseline. Postoperatively on day 1, 3, and 7, group B (tapered dosage) showed significantly more mouth opening than group A.
+
+2. Facial swelling (COM-TRG, corner of the mouth to tragus): A statistically significant difference in the decrease in distance over time was observed favoring group B over group A.
+
+3. Canthus-mandibular angle distance: A statistically significant difference was observed between group B and group A in the decrease over time, favoring group B.
+
+4. Pain VAS: No statistically significant difference was observed in pain parameters at any time interval between group A and group B.
+
+IV. Discussion
+
+The surgical removal of an impacted third molar can lead to considerable pain and swelling. Inflammation involves histamine, bradykinin, and serotonin release causing vasodilation and increased capillary permeability. Glucocorticosteroids suppress this inflammatory cascade (capillary dilation, edema formation, fibrin deposition, leukocyte migration, phagocytosis).
+
+Prednisone and its active form, prednisolone, are significantly more potent (five to six times) than hydrocortisone naturally produced by the body. Clinical improvement can be observed as early as 3 hours after administration, with peak effectiveness reached within 6 to 12 hours.
+
+Steroids are typically administered before or around the time of surgery. Corticosteroid treatment may not be necessary for all third-molar extractions; it should be considered for technically challenging cases (impaction level, need for bone removal, patient age/sex). Because steroids carry systemic side effects (endocrine, behavioral, visual; hypertension, chronic infection, osteoporosis, impaired glucose tolerance at high doses), unreasonable use should be avoided.
+
+Methylprednisolone is five times more potent than hydrocortisone without mineralocorticoid action. Al-Khateeb et al. compared dexamethasone and methylprednisolone and concluded the methylprednisolone group experienced greater reductions in pain and trismus; other studies have also found methylprednisolone reduces swelling and pain after third molar extraction, making it a commonly preferred steroid for this procedure.
+
+Different routes of steroid administration were discussed: IV gives immediate blood levels but limited sustainability at high dose (risk of rebound swelling); IM offers prolonged anti-inflammatory effect but increased adrenal-suppression risk; oral dosing is convenient, rapidly and almost completely absorbed, matching parenteral efficacy. Methylprednisolone has an intermediate half-life of 18-30 hours. Corticosteroid therapy needs to extend for a minimum of three days, since swelling in steroid-treated patients often peaks on postoperative day 3. Effective corticosteroid doses generally fall within 80-625 mg hydrocortisone-equivalent (16-125 mg methylprednisolone-equivalent); methylprednisolone doses ≤40 mg do not cause adverse systemic effects.
+
+In the present study, 5 mg of prednisolone was given every 8 hours immediately postoperatively, then tapered over the following two days — more effective for minimizing facial swelling than a single-dose regimen, with no observed side effects. Findings should be confirmed with a larger sample.
+
+V. Conclusion
+
+A 3-day tapered regimen of prednisolone given postoperatively was more effective for reducing post-extraction sequelae (swelling, trismus) than a single-dose regimen; no significant difference was found for pain.
+
+[Retrieved via PubMed Central full-text API, 2026-07-26. Some in-text citation markers and figure/table references from the original PMC XML were not preserved in this plain-text extraction.]

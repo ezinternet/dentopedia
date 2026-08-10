@@ -6,7 +6,7 @@ date: 2025-03-12
 doi: 10.1002/JPER.24-0083
 source: monje-2025-surgical-implant-factors-peri-implant-diseases.md
 category: [implants/peri-implantitis]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/monje-2025-surgical-implant-factors-peri-implant-diseases.pdf
 pdf_filename: monje-2025-surgical-implant-factors-peri-implant-diseases.pdf
 source_collection: external
@@ -34,7 +34,7 @@ High heterogeneity precluded meta-analysis (qualitative synthesis only); the cli
 
 ## Summary
 
-This AO/AAP-commissioned systematic review (companion background evidence for [[periodontics/wang-2025-ao-aap-consensus-peri-implant-diseases-conditions]]) asked two focused questions: (1) what surgical-related factors (implant 3D position, surgical technique, staging, grafting, insertion torque) affect onset/progression of peri-implant disease, and (2) what implant-related factors (macro-design, micro-design, system) do the same. Searching MEDLINE/PubMed and Cochrane Library through October 2023, screening 4296 records down to 34 included studies (21 surgical-factor, 13 implant-factor), the authors performed a narrative/qualitative synthesis only — heterogeneity in case definitions and exposures across studies precluded meta-analysis.
+This AO/AAP-commissioned systematic review (companion background evidence for [[implants/peri-implantitis/wang-2025-ao-aap-consensus-peri-implant-diseases-conditions]]) asked two focused questions: (1) what surgical-related factors (implant 3D position, surgical technique, staging, grafting, insertion torque) affect onset/progression of peri-implant disease, and (2) what implant-related factors (macro-design, micro-design, system) do the same. Searching MEDLINE/PubMed and Cochrane Library through October 2023, screening 4296 records down to 34 included studies (21 surgical-factor, 13 implant-factor), the authors performed a narrative/qualitative synthesis only — heterogeneity in case definitions and exposures across studies precluded meta-analysis.
 
 The headline finding: **implant malposition** in three dimensions (bucco-lingual, apico-coronal, mesio-distal relative to bone envelope and adjacent implants/teeth) is consistently and sometimes very strongly associated with peri-implantitis, but not with peri-implant mucositis. Effect sizes ranged widely (OR 2.6–48.2) but pointed the same direction across independent retrospective cohorts and case-control studies. Bone regeneration at implant placement carried a smaller incremental risk, particularly when the regeneration itself failed. For implant-related (design/system) factors, the review found no consistent evidence that any specific macro-design, micro-design, or implant system outperforms another — but flagged a short (<1.5mm) restorative-margin-to-crestal-bone distance as a plausible predisposing factor, favoring tissue-level implant designs or transmucosal abutments over deeply subcrestal bone-level restorations.
 
@@ -89,7 +89,7 @@ No implant macro-design, micro-design, or system demonstrated consistent superio
 
 ## Related Papers
 
-- [[periodontics/wang-2025-ao-aap-consensus-peri-implant-diseases-conditions]] — the AO/AAP 2024 Consensus summary this review was commissioned to support; integrates this review's surgical/implant-factor findings with systemic, behavioral, and prosthetic risk factors into the consensus staged-treatment algorithm.
+- [[implants/peri-implantitis/wang-2025-ao-aap-consensus-peri-implant-diseases-conditions]] — the AO/AAP 2024 Consensus summary this review was commissioned to support; integrates this review's surgical/implant-factor findings with systemic, behavioral, and prosthetic risk factors into the consensus staged-treatment algorithm.
 - [[implants/peri-implantitis/basak-2024-restoration-margin-alveolar-bone-distance-implant]] — independently corroborates the <1.5mm restorative-margin-to-crestal-bone risk threshold (RM-AC ≤1.5mm → OR=3.42 for MBL) identified here.
 - [[implants/peri-implantitis/pirc-2026-emergence-profile-angle-peri-implant]] — extends the prosthetic-design angle: emergence profile angle adjustment as a mitigation for peri-implant health, mechanistically related to the malposition/restorative-margin findings here.
 - [[implants/peri-implantitis/mahardawi-2023-lack-keratinized-mucosa-peri-implantitis-sr-ma]] and [[implants/peri-implantitis/ravida-2022-keratinized-mucosa-width-peri-implant-disease-sr-ma]] — this review references soft-tissue phenotype modification as a complementary mitigation strategy for malpositioned/buccally-exposed implants.

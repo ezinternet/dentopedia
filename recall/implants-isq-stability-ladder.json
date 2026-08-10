@@ -1,0 +1,49 @@
+{
+  "overview": "implants-isq-stability-ladder",
+  "date": "2026-07-23",
+  "title": "임플란트 안정성 지수(ISQ) 사다리 — 리콜",
+  "source_wiki": [
+    "wiki/overviews/implants-isq-stability-ladder.md"
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "q": "조기/즉시 부하(early/immediate loading)의 ISQ 임계값은?",
+      "opts": [
+        "식립 시 ISQ ≥50",
+        "식립 시 ISQ ≥70 또는 4–6주 healing 후 ISQ ≥65",
+        "식립 시 ISQ ≥40이면 항상 즉시부하 가능",
+        "healing 후 ISQ ≥55"
+      ],
+      "ans": 1,
+      "rat": "식립 시 ISQ ≥70 또는 4–6주 healing 후 ISQ ≥65가 조기/즉시 부하의 임계(Andersson 2019 + Bavetta 2024). 즉시 임시는 여기에 1차 안정성 ≥35 Ncm 추가(전치 단일치).",
+      "cite": "overviews/implants-isq-stability-ladder"
+    },
+    {
+      "id": "q2",
+      "q": "ISQ와 강한 상관을 보이는 골 인자는? (Chatvaratthana 2017, n=19)",
+      "opts": [
+        "9mm 깊이의 해면골 밀도",
+        "치조정에서 3mm 이내 피질골 두께(r=0.885); 6·9mm 깊이와 해면골은 무관",
+        "임플란트 전체 길이의 피질골 접촉",
+        "근단부 피질골 두께"
+      ],
+      "ans": 1,
+      "rat": "Chatvaratthana 2017: 치조정 3mm 이내 피질골 두께만 ISQ와 강한 상관(r=0.885), 6·9mm 및 해면골은 무관. 따라서 CBCT로 식립 전 치조정 피질골을 평가하면 ISQ 예측 가능. 피질골·macro-design이 ISQ 주 결정인자, 길이·직경 영향은 상대적으로 약함(직경은 T2 ISQ 예측인자).",
+      "cite": "overviews/implants-isq-stability-ladder"
+    },
+    {
+      "id": "q3",
+      "q": "상악동거상술(MSFA)·골유도재생술(GBR) 동반 및 Type IV bone에서의 ISQ 임계값 보정은?",
+      "opts": [
+        "보정 없이 동일 임계값 적용",
+        "MSFA/GBR 동반 시 +3, Type IV bone에서 +2 보정",
+        "MSFA/GBR 시 −3, Type IV에서 −2",
+        "Type IV bone에서는 ISQ를 측정하지 않는다"
+      ],
+      "ans": 1,
+      "rat": "MSFA·GBR 동반 시 ISQ 임계값 +3, Type IV bone에서 +2 보정. 측정은 근·원·협·설 4방향, 1방향만 평균과 ≥10 차이 나면 재측정. 저밀도골엔 tapered design + 골밀도화(OD) 보조 고려.",
+      "cite": "overviews/implants-isq-stability-ladder"
+    }
+  ]
+}

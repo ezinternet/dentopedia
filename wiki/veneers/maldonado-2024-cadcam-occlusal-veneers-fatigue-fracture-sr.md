@@ -6,7 +6,7 @@ date: 2024-06-18
 doi: 10.17219/dmp/157347
 source: maldonado-2024-cadcam-occlusal-veneers-fatigue-fracture-sr.md
 category: veneers
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/maldonado-2024-cadcam-occlusal-veneers-fatigue-fracture-sr.pdf
 pdf_filename: maldonado-2024-cadcam-occlusal-veneers-fatigue-fracture-sr.pdf
 source_collection: external
@@ -96,4 +96,4 @@ Key finding: both material classes are mechanically viable for posterior occlusa
 - [[veneers/ali-2023-conventional-minimally-invasive-veneers-sr]] — minimally invasive veneer preparation context
 - [[veneers/el-mowafy-2018-glass-ceramic-veneer-materials-narrative-review]] — material properties narrative review
 - [[dental-erosion/kanzow-2016-etiology-pathogenesis-dental-erosion]] — etiology of tooth wear relevant to occlusal veneer indications
-- [[dental-materials/almashaan-2023-lithium-disilicate-survival-sr]] — lithium disilicate clinical survival data
+- [[dental-materials/ceramic/almashaan-2023-lithium-disilicate-survival-sr]] — lithium disilicate clinical survival data

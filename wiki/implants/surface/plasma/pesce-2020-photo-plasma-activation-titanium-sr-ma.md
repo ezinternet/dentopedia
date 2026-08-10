@@ -6,7 +6,7 @@ date: 2020-09-02
 doi: 10.3390/jcm9092817
 source: pesce-2020-photo-plasma-activation-titanium-sr-ma.md
 category: [implants/surface/plasma]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/pesce-2020-photo-plasma-activation-titanium-sr-ma.pdf
 pdf_filename: pesce-2020-photo-plasma-activation-titanium-sr-ma.pdf
 source_collection: external

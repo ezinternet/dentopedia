@@ -2,7 +2,7 @@
 title: "Non-Pharmacological Dental Anxiety Management: Hypnosis vs Virtual Reality"
 date: 2026-07-03
 category: [overviews]
-confidence: synthesis
+evidence_level: synthesis
 tags: [dental-anxiety, hypnosis, virtual-reality, behavioral-dentistry, non-pharmacological]
 source_wiki:
   - wiki/behavioral-dentistry/dental-anxiety/cernega-2022-efficacy-hypnosis-dental-anxiety-phobia.md

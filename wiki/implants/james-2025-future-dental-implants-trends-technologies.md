@@ -6,7 +6,7 @@ date: 2025-08-18
 doi: 10.7759/cureus.90380
 source: james-2025-future-dental-implants-trends-technologies.md
 category: [implants]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/james-2025-future-dental-implants-trends-technologies.pdf
 pdf_filename: james-2025-future-dental-implants-trends-technologies.pdf
 source_collection: external

@@ -7,7 +7,7 @@ doi: not-available
 pmid: "16161743"
 source: balshi-2005-rfa-immediately-loaded-maxillary-mandibular.md
 category: [implants/isq]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/balshi-2005-rfa-immediately-loaded-maxillary-mandibular.pdf
 pdf_filename: balshi-2005-rfa-immediately-loaded-maxillary-mandibular.pdf
 source_collection: external

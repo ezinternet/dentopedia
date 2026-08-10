@@ -6,7 +6,7 @@ date: 2026-01-01
 doi: 10.1111/cid.70147
 source: song-2026-tapered-straight-implants-immediate-loading-3year.md
 category: [implants/isq]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: true
 pmid: "41981962"
@@ -14,6 +14,8 @@ pmcid: "PMC13080229"
 source_url: https://pmc.ncbi.nlm.nih.gov/articles/PMC13080229/
 text_path: /Users/oracleneo/llm-wiki/papers/song-2026-tapered-straight-implants-immediate-loading-3year.txt
 text_filename: song-2026-tapered-straight-implants-immediate-loading-3year.txt
+pdf_path: /Users/oracleneo/llm-wiki/papers/song-2026-tapered-straight-implants-immediate-loading-3year.pdf
+pdf_filename: song-2026-tapered-straight-implants-immediate-loading-3year.pdf
 tags: [tapered-implant, straight-implant, immediate-loading, insertion-torque, ISQ, MBL, survival, posterior, RCT, macro-design]
 relations:
   - type: extends

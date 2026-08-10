@@ -6,7 +6,7 @@ date: 2026-04-30
 doi: 10.4103/JCDE.JCDE_226_26
 source: singh-2026-precision-endodontics-nanorobots-targeted-antimicrobial.md
 category: [endodontics/irrigation]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/singh-2026-precision-endodontics-nanorobots-targeted-antimicrobial.pdf
 pdf_filename: singh-2026-precision-endodontics-nanorobots-targeted-antimicrobial.pdf
 source_collection: external

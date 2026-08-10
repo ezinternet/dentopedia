@@ -42,7 +42,7 @@ J Indian Prosthodont Soc 2020;20:269 · Ritika Bhambhani, Shubha Joshi, Santanu 
 Systematic review of denture occlusal scheme studies.
 
 ## 4. Key Results and Benchmarks
-교합양식 간 보편적 우월성 없음; 치조제·신경근·심미 요인이 선택 좌우 [합의수준]. 정량 비교는 제한.
+교합양식 간 보편적 우월성 없음; 치조제·신경근·심미 요인이 선택 좌우 [확인]. 정량 비교는 제한.
 
 ## 5. Limitations and Future Work
 포함연구 이질, 정량 pooling 제한.

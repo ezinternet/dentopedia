@@ -6,7 +6,7 @@ date: 2023-11-27
 doi: 10.1136/bmj-2023-076226
 source: yao-2023-chronic-tmd-pain-sr-nma-bmj.md
 category: [tmj]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/yao-2023-chronic-tmd-pain-sr-nma-bmj.pdf
 pdf_filename: yao-2023-chronic-tmd-pain-sr-nma-bmj.pdf
 source_collection: external

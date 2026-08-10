@@ -1,0 +1,49 @@
+{
+  "overview": "mandibular-anesthesia-efficacy-ladder",
+  "date": "2026-07-23",
+  "title": "하악 마취 효능 사다리 — 리콜",
+  "source_wiki": [
+    "wiki/overviews/mandibular-anesthesia-efficacy-ladder.md"
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "q": "증상성 비가역 치수염(hot tooth) 하악 제1대구치의 1차 마취 선택은?",
+      "opts": [
+        "IANB만 유일한 선택",
+        "4% articaine 협측침윤(BI)이 2% lidocaine IANB와 성공률 동등(RR 1.06, moderate certainty, Saatchi 2025) — 침윤이 더 간단·저침습",
+        "골내마취만 성공한다",
+        "표면마취로 충분하다"
+      ],
+      "ans": 1,
+      "rat": "증상성 비가역 치수염 하악 제1대구치에서 4% articaine 협측침윤(BI)은 2% lidocaine IANB와 성공률 동등(RR 1.06, moderate certainty; Saatchi 2025 SR+MA 5 RCT), 침윤이 더 간단·저침습. 소아도 동일(articaine BI가 lignocaine IANB 대안, OR 1.02 NS, Yu 2021).",
+      "cite": "overviews/mandibular-anesthesia-efficacy-ladder"
+    },
+    {
+      "id": "q2",
+      "q": "IANB 단독 실패 시 보강 전략은?",
+      "opts": [
+        "동일 IANB를 반복한다",
+        "보충주사(SUPP, RR 2.02)와 1차 병용주사(COMB, RR 1.86) 모두 IANB 단독보다 유의 우월하고 서로 동등(Rujirawan 2025 NMA); 골내마취(QuickSleeper5)는 성공률 100%로 1차 대안",
+        "전신마취로 전환",
+        "보강은 효과가 없다"
+      ],
+      "ans": 1,
+      "rat": "IANB 단독 실패 시 보충주사(SUPP, RR 2.02)·1차 병용주사(COMB, RR 1.86) 모두 IANB 단독보다 유의 우월하고 서로 동등 — 술자 숙련·상황으로 선택(Rujirawan 2025 NMA 28 RCT). 골내마취(lidocaine QuickSleeper5)는 보충 없이 성공률 100% vs articaine BI 70.8%(P<0.001, Park 2024) → IO를 1차 대안으로.",
+      "cite": "overviews/mandibular-anesthesia-efficacy-ladder"
+    },
+    {
+      "id": "q3",
+      "q": "마취제 선택(articaine vs mepivacaine)과 아산화질소 진정의 소아 주의점은?",
+      "opts": [
+        "articaine이 성공률에서 명확히 우월",
+        "articaine는 성공률은 동등하나 시술후 통증을 유의 감소(MD 0.59, p<0.001); N2O 진정 성공률은 성인(99.9%)>소아(91.9%, p=0.002) — 소아 낮은 성공률 사전 고지",
+        "mepivacaine이 통증을 더 줄인다",
+        "N2O는 소아에서 성공률이 더 높다"
+      ],
+      "ans": 1,
+      "rat": "articaine는 mepivacaine 대비 성공률 동등이나 시술후 통증 유의 감소(MD 0.59, p<0.001; Alkandari 2024) — 우위는 성공률이 아닌 통증·침윤 효율. N2O-O2 흡입진정 성공률 94.9%, 성인 99.9% > 소아 91.9%(p=0.002, Rossit 2021) → 소아 낮은 성공률 사전 고지.",
+      "cite": "overviews/mandibular-anesthesia-efficacy-ladder"
+    }
+  ]
+}

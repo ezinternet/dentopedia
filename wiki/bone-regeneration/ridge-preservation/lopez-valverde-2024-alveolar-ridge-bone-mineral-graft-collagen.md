@@ -6,7 +6,7 @@ date: 2024-06-03
 doi: 10.3390/bioengineering11060565
 source: lopez-valverde-2024-alveolar-ridge-bone-mineral-graft-collagen.md
 category: [bone-regeneration/ridge-preservation]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/lopez-valverde-2024-alveolar-ridge-bone-mineral-graft-collagen.pdf
 pdf_filename: lopez-valverde-2024-alveolar-ridge-bone-mineral-graft-collagen.pdf
 source_collection: external

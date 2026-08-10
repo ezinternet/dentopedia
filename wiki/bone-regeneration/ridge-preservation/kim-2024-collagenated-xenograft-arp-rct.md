@@ -6,7 +6,7 @@ date: 2024-08-08
 doi: 10.1016/j.identj.2024.07.015
 source: kim-2024-collagenated-xenograft-arp-rct.md
 category: [bone-regeneration/ridge-preservation]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/kim-2024-collagenated-xenograft-arp-rct.pdf
 pdf_filename: kim-2024-collagenated-xenograft-arp-rct.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2021-11-09
 doi: 10.4103/jips.jips_158_21
 source: sutariya-2021-mandibular-implant-supported-overdenture-systematic.md
 category: [complete-denture]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/sutariya-2021-mandibular-implant-supported-overdenture-systematic.pdf
 pdf_filename: sutariya-2021-mandibular-implant-supported-overdenture-systematic.pdf
 source_collection: external

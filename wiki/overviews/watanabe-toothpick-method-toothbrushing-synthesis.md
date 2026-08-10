@@ -4,7 +4,7 @@ authors: synthesis page (compiled by Claude from 7 wiki entries, ingested 2026-0
 year: 2026
 date: 2026-06-19
 category: overviews
-confidence: synthesis
+evidence_level: synthesis
 source_collection: internal
 tags: [overview, toothpick-method, watanabe-method, toothbrushing, plaque-control, gingivitis, peri-implant-mucositis, interdental-papilla, oral-hygiene, claude-synthesis]
 source: synthesis
@@ -13,6 +13,8 @@ relations:
     target: morita-1998-toothpick-method-bass-supragingival-plaque-rct
   - type: extends
     target: rajwani-2020-manual-toothbrushing-techniques-plaque-gingivitis-sr
+  - type: refines
+    target: el-haddad-2026-toothpick-use-interdental-papilla-loss-cross-sectional
 ---
 
 ## 한국어 핵심요약
@@ -55,12 +57,12 @@ The method's distinctive claim is a **dual mechanism**: it is not only a plaque-
 
 | Paper | Design | Population | Toothpick-method finding |
 |---|---|---|---|
-| [[periodontics/morita-1998-toothpick-method-bass-supragingival-plaque-rct]] | RCT, n=20 | dental students | **Origin RCT** (Watanabe coauthor): TPM removed significantly more **proximal** plaque than Bass |
-| [[periodontics/ishikawa-1995-toothpick-method-instruction-frequency-community-perio]] | community comparative, 1 yr | town residents | TPM instruction **3× > 1×**: only repeated instruction improved gingival redness/swelling + CPITN |
-| [[periodontics/mun-2013-toothpick-method-dental-hygiene-mental-disorders-rct]] | RCT, n=73 | mental-disorder patients | TPM as one component of a video+brochure+TPM program → plaque index ↓ (P<0.0001); isolated effect not separable |
-| [[periodontics/rajwani-2020-manual-toothbrushing-techniques-plaque-gingivitis-sr]] | SR, 13 studies | adults | **No manual technique proven superior** (excess heterogeneity); TPM tested in only 1 study (Morita) where it beat Bass |
-| [[periodontics/lee-2020-watanabe-toothpick-method-srp-diabetic-periodontitis-rct]] | RCT, n=60 | T2DM periodontitis | SRP + weekly professional TPM vs SRP alone: **BOP −16.5% vs −7.3%**; only TPM arm cut **serum endotoxin** (−0.78 EU/mL, p=0.003) |
-| [[periodontics/kim-2025-toothpick-method-cibotium-peri-implant-mucositis-rct]] | RCT, n=60 | peri-implant mucositis | All arms TPM-delivered; **saline-TPM (mechanical only) increased 5/12 bacteria** — needs an antimicrobial agent (CB extract / CHX) |
+| [[periodontics/oral-hygiene-instruction/morita-1998-toothpick-method-bass-supragingival-plaque-rct]] | RCT, n=20 | dental students | **Origin RCT** (Watanabe coauthor): TPM removed significantly more **proximal** plaque than Bass |
+| [[periodontics/oral-hygiene-instruction/ishikawa-1995-toothpick-method-instruction-frequency-community-perio]] | community comparative, 1 yr | town residents | TPM instruction **3× > 1×**: only repeated instruction improved gingival redness/swelling + CPITN |
+| [[periodontics/oral-hygiene-instruction/mun-2013-toothpick-method-dental-hygiene-mental-disorders-rct]] | RCT, n=73 | mental-disorder patients | TPM as one component of a video+brochure+TPM program → plaque index ↓ (P<0.0001); isolated effect not separable |
+| [[periodontics/oral-hygiene-instruction/rajwani-2020-manual-toothbrushing-techniques-plaque-gingivitis-sr]] | SR, 13 studies | adults | **No manual technique proven superior** (excess heterogeneity); TPM tested in only 1 study (Morita) where it beat Bass |
+| [[periodontics/oral-hygiene-instruction/lee-2020-watanabe-toothpick-method-srp-diabetic-periodontitis-rct]] | RCT, n=60 | T2DM periodontitis | SRP + weekly professional TPM vs SRP alone: **BOP −16.5% vs −7.3%**; only TPM arm cut **serum endotoxin** (−0.78 EU/mL, p=0.003) |
+| [[implants/peri-implantitis/kim-2025-toothpick-method-cibotium-peri-implant-mucositis-rct]] | RCT, n=60 | peri-implant mucositis | All arms TPM-delivered; **saline-TPM (mechanical only) increased 5/12 bacteria** — needs an antimicrobial agent (CB extract / CHX) |
 | [[interdental-cleaning/el-haddad-2026-toothpick-use-interdental-papilla-loss-cross-sectional]] | cross-sectional, n=69 | toothpick users | **Wooden toothpick** (NOT the brushing method): overuse → interdental papilla loss / black triangles |
 
 **What the evidence supports.**
@@ -90,10 +92,10 @@ The method's distinctive claim is a **dual mechanism**: it is not only a plaque-
 
 ## Related Papers
 
-- [[periodontics/morita-1998-toothpick-method-bass-supragingival-plaque-rct]] — origin RCT (TPM > Bass, proximal plaque)
-- [[periodontics/ishikawa-1995-toothpick-method-instruction-frequency-community-perio]] — instruction frequency (repeated > single)
-- [[periodontics/mun-2013-toothpick-method-dental-hygiene-mental-disorders-rct]] — special-needs application
-- [[periodontics/rajwani-2020-manual-toothbrushing-techniques-plaque-gingivitis-sr]] — technique-comparison SR (no method superior)
-- [[periodontics/lee-2020-watanabe-toothpick-method-srp-diabetic-periodontitis-rct]] — diabetic periodontitis adjunct (bleeding, endotoxin)
-- [[periodontics/kim-2025-toothpick-method-cibotium-peri-implant-mucositis-rct]] — peri-implant mucositis (agent vehicle)
+- [[periodontics/oral-hygiene-instruction/morita-1998-toothpick-method-bass-supragingival-plaque-rct]] — origin RCT (TPM > Bass, proximal plaque)
+- [[periodontics/oral-hygiene-instruction/ishikawa-1995-toothpick-method-instruction-frequency-community-perio]] — instruction frequency (repeated > single)
+- [[periodontics/oral-hygiene-instruction/mun-2013-toothpick-method-dental-hygiene-mental-disorders-rct]] — special-needs application
+- [[periodontics/oral-hygiene-instruction/rajwani-2020-manual-toothbrushing-techniques-plaque-gingivitis-sr]] — technique-comparison SR (no method superior)
+- [[periodontics/oral-hygiene-instruction/lee-2020-watanabe-toothpick-method-srp-diabetic-periodontitis-rct]] — diabetic periodontitis adjunct (bleeding, endotoxin)
+- [[implants/peri-implantitis/kim-2025-toothpick-method-cibotium-peri-implant-mucositis-rct]] — peri-implant mucositis (agent vehicle)
 - [[interdental-cleaning/el-haddad-2026-toothpick-use-interdental-papilla-loss-cross-sectional]] — wooden-toothpick harm (papilla loss) — naming counterpoint

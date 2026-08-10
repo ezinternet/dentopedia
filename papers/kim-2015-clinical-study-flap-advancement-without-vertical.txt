@@ -1,0 +1,17 @@
+SOURCE: PubMed abstract (full text not retrieved — no PMC; paywalled)
+PMID: 26394348 | DOI: 10.11607/jomi.3586
+Kim Y, Kim TK, Leem DH.
+"Clinical Study of a Flap Advancement Technique Without Vertical Incision for Guided Bone Regeneration."
+Int J Oral Maxillofac Implants. 2015;30(5):1113-1118.
+
+== ABSTRACT (full) ==
+The aim of this study was to introduce a novel method of flap advancement without a vertical releasing incision for guided bone regeneration (GBR) and to discuss its clinical outcomes.
+
+This retrospective study involved patients who had received GBR for dental implants between April 2012 and April 2013. In all patients, a typical midcrestal incision was made on the edentulous alveolar ridge, and a sulcular incision was extended to the adjacent two teeth; however, no vertical incision was performed. Instead, a wide periosteal releasing incision and an additional releasing incision that selectively cut part of the facial expression muscles (the orbicularis oris or the buccinator) were used. Postoperative complications, such as swelling, pain, paresthesia, signs of infection, and membrane exposure, were evaluated at 1, 2, 4, 12, and 24 weeks after surgery.
+
+Forty sites in 34 patients were evaluated. At all surgical sites, flap advancement of more than 7 mm was attained, and clinically passive primary closure was achieved. All patients experienced slight or mild postoperative swelling without functional limitation or discomfort during mouth opening, eye opening, and swallowing. No long-lasting pain (more than a week), paresthesia, or signs of infection occurred during the follow-up period of 6 months. However, delayed exposure of titanium mesh after 4 months was observed in two patients who had used a provisional removable prosthesis. Within 2 weeks, the exposures closed spontaneously after prosthesis use was halted and careful daily dressing was undertaken.
+
+The flap advancement technique presented in this study easily enables clinically passive primary closure, and there was no obvious failure of primary closure. This technique could be used successfully in GBR procedures.
+
+Study type: Retrospective clinical study. No comparator arm (single-technique case series analysis).
+MeSH (inferred): Bone Regeneration, Guided Tissue Regeneration/methods, Surgical Flaps, Dental Implants, Wound Closure Techniques, Periosteum/surgery, Titanium.

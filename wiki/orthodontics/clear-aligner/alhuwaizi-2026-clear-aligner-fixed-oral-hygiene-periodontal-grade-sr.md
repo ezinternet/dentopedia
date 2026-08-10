@@ -6,7 +6,7 @@ date: 2026-04-03
 doi: 10.1093/ejo/cjaf100
 source: alhuwaizi-2026-clear-aligner-fixed-oral-hygiene-periodontal-grade-sr.md
 category: [orthodontics/clear-aligner]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: false
 pmid: "42163541"

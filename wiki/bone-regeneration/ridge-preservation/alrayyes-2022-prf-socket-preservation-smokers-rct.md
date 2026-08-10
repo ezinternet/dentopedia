@@ -6,7 +6,7 @@ date: 2022-10-03
 doi: 10.3390/diagnostics12102403
 source: alrayyes-2022-prf-socket-preservation-smokers-rct.md
 category: [bone-regeneration/ridge-preservation]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/alrayyes-2022-prf-socket-preservation-smokers-rct.pdf
 pdf_filename: alrayyes-2022-prf-socket-preservation-smokers-rct.pdf
 source_collection: external

@@ -6,11 +6,14 @@ date: 2026-07-03
 doi: N/A
 source: N/A
 category: overviews
-confidence: synthesis
+evidence_level: synthesis
 pdf_path: N/A
 pdf_filename: N/A
 source_collection: synthesis
 tags: [tmd, tmj, splint, exercise, arthrocentesis, bruxism, bmj-2023, cochrane, decision-ladder, overview, physiotherapy, pharmacotherapy, quality-of-life, myogenous, mad, ovd, unilateral-chewing, condyle-morphology, tinnitus, fea, chewing-side-preference, tmj-osteoarthritis, home-exercise, myofascial-pain, network-meta-analysis, lidocaine-injection]
+relations:
+  - type: refines
+    target: valenzuela-fuenzalida-2026-arthrocentesis-vs-other-modalities-tmd-sr-ma
 ---
 
 ## 한국어 핵심요약
@@ -50,26 +53,26 @@ TMD 34편(SR+MA·가이드라인 27 + 편측저작·과두·이명 5 + TMJ OA �
 본 페이지는 wiki/tmj/ 34편을 10축으로 정리: ①역학·진단, ②비약물 보존(운동·스플린트), ③약물 치료, ④만성 통증 NMA (BMJ 2023), ⑤중재(arthrocentesis), ⑥이갈이, ⑦BTX·대안(별도 overview 연결), ⑧TMJ 골관절염, ⑨삶의 질·MAD/VD 특수 주제, ⑩편측저작·과두 형태 변화·이명.
 
 핵심 명제 14개:
-1. **TMD pooled 유병률 31%; 여성·청년 우세; 비생물학적 요인(심리·사회) 중요** — Valesan 2021, Kapos 2020 (OPPERA). [근거강함]
-2. **만성 TMD 최고 근거 치료: CBT+바이오피드백(RD 36%), 하악 가동화(36%), 수기 트리거포인트(32%)** — Yao 2023 NMA (233 RCT, BMJ). [근거강함]
-3. **BMJ 2023 Rapid Recommendation: 보존적·비약물 1차; 스플린트 conditional; 침습 제한적** — BMJ 2023 guideline. [근거강함]
-4. **스플린트 vs 운동 동등 (또는 운동 우위)** — Zhang 2021 SR+MA. [근거강함]
-4-1. **환자교육·자기관리(ED/SM) 단독은 다른 비수술 치료보다 단기 통증(SMD 0.67)·HRQoL(SMD 0.61)에서 열세일 수 있으나 전반적 우열 불일치; 모든 근거 very low~low (저위험 RCT 0/47)** — Ferland 2026 SR+MA (47 RCT, n=3,238). [합의수준]
+1. **TMD pooled 유병률 31%; 여성·청년 우세; 비생물학적 요인(심리·사회) 중요** — Valesan 2021, Kapos 2020 (OPPERA). [확인]
+2. **만성 TMD 최고 근거 치료: CBT+바이오피드백(RD 36%), 하악 가동화(36%), 수기 트리거포인트(32%)** — Yao 2023 NMA (233 RCT, BMJ). [확인]
+3. **BMJ 2023 Rapid Recommendation: 보존적·비약물 1차; 스플린트 conditional; 침습 제한적** — BMJ 2023 guideline. [확인]
+4. **스플린트 vs 운동 동등 (또는 운동 우위)** — Zhang 2021 SR+MA. [확인]
+4-1. **환자교육·자기관리(ED/SM) 단독은 다른 비수술 치료보다 단기 통증(SMD 0.67)·HRQoL(SMD 0.61)에서 열세일 수 있으나 전반적 우열 불일치; 모든 근거 very low~low (저위험 RCT 0/47)** — Ferland 2026 SR+MA (47 RCT, n=3,238). [확인]
 4-2. **ADDwR에서 신규 일체형 Mono-Block 전방재위치장치(ARS)가 트윈블록보다 관절잡음(T6 82.1% vs 54.4%, p=0.001)·편안함·안정성 우월; 통증·MMO·CBCT 위치는 동등; 두 ARS 모두 관절원판 지속 정복 못 함** — Liu 2026 RCT (n=118, open-label). [참고수준 — RCT, open-label·6개월]
-5. **Cochrane 2024 — 교합 중재 evidence quality 매우 낮음~낮음; modest benefit; 교합조정 미지지** — Singh 2024 Cochrane. [근거강함]
-6. **약물 치료: TMD-joint — NSAIDs/IA corticosteroid·hyaluronate; TMD-muscle — cyclobenzaprine; BMS — clonazepam·capsaicin. 전반적 GRADE 낮음** — Häggman-Henrikson 2017 NMA. [합의수준]
+5. **Cochrane 2024 — 교합 중재 evidence quality 매우 낮음~낮음; modest benefit; 교합조정 미지지** — Singh 2024 Cochrane. [확인]
+6. **약물 치료: TMD-joint — NSAIDs/IA corticosteroid·hyaluronate; TMD-muscle — cyclobenzaprine; BMS — clonazepam·capsaicin. 전반적 GRADE 낮음** — Häggman-Henrikson 2017 NMA. [확인]
 6-1. **TMD-MPS 처방·주사 순위(베이지안 NMA, 14 RCT·674명): 리도카인주사·허혈성압박 SUCRA 최상위(91.7%·88.7%)이나 기본치료 직접비교 RCT 0편으로 근거 매우낮음; PRP·레이저는 근거 낮음; 경구 근이완제는 유의차 없음** — Ma 2026 (BMC Oral Health, 中 간쑤중의약대학). [참고수준 — 간접비교 위주, RCT 9/14 고위험 편향]
-7. **Arthrocentesis 보존 실패 시 MMO +1.12mm 유의 개선; HA·스테로이드 부가 강화** — IJOMS 2023 SR+MA, Zhang 2024 SR. [합의수준]
-7-1. **관절천자 단독의 *우월성*은 비교군 확장 시 입증 안 됨: 32 RCT(n=1247) SR+MA에서 통증(VAS) 차이 없음(MD −0.25, p=0.55), MMO/MIO는 비교군 우세 — 보조 옵션이지 결정적 치료 아님 (GRADE very low)** — Valenzuela-Fuenzalida 2026 SR+MA. [합의수준 — 단, 극단적 이질성]
-7-2. **부가 주입제는 별개로 근거 우위: i-PRF 병용은 통증 VAS −1.62·MMO +5.03mm 유의, TSA로 결정적·충분검정력 확인 (GRADE moderate)** — Bader Alzamanan 2026 SR+MA+TSA (9 RCT, n=320). [합의수준]
+7. **Arthrocentesis 보존 실패 시 MMO +1.12mm 유의 개선; HA·스테로이드 부가 강화** — IJOMS 2023 SR+MA, Zhang 2024 SR. [확인]
+7-1. **관절천자 단독의 *우월성*은 비교군 확장 시 입증 안 됨: 32 RCT(n=1247) SR+MA에서 통증(VAS) 차이 없음(MD −0.25, p=0.55), MMO/MIO는 비교군 우세 — 보조 옵션이지 결정적 치료 아님 (GRADE very low)** — Valenzuela-Fuenzalida 2026 SR+MA. [확인 — 단, 극단적 이질성]
+7-2. **부가 주입제는 별개로 근거 우위: i-PRF 병용은 통증 VAS −1.62·MMO +5.03mm 유의, TSA로 결정적·충분검정력 확인 (GRADE moderate)** — Bader Alzamanan 2026 SR+MA+TSA (9 RCT, n=320). [확인]
 7-3. **관절천자 메타분석 풀링 추정치 해석 주의: 기전이 다른 비교군을 I²=85–98% 이질성·mm척도 SMD·혼합진단으로 통합하면 임상적 해석 불가 — random-effects가 정당화 못 함** — Fuentes-Barría 2026 Letter. [방법론 caveat]
-8. **수면이갈이 — 스플린트·biofeedback 우위; 약물·BTX 보조** — Minakuchi 2022 SR. [합의수준]
-9. **TMJ 골관절염 — CT gold standard; 보존 우선; 피질골 연속성(미란·낭종)이 편평화보다 진단적** — Song 2023, Kim 2023 (KDA). [합의수준]
+8. **수면이갈이 — 스플린트·biofeedback 우위; 약물·BTX 보조** — Minakuchi 2022 SR. [확인]
+9. **TMJ 골관절염 — CT gold standard; 보존 우선; 피질골 연속성(미란·낭종)이 편평화보다 진단적** — Song 2023, Kim 2023 (KDA). [확인]
 9-1. **TMJ OA(임상+방사선 이중확진) 아형에서 6개월 가정 물리치료(온열·마사지·스트레칭·관절가동·강화운동)만으로 통증·Helkimo 기능지수가 중증→경증으로 유의 개선(p=0.001), NSAID 사용 미미 — Cochrane이 근거불충분으로 배제했던 "TMJ OA + 운동치료" 공백을 메우는 전향적 데이터** — Macías-Hernández 2022 (JKAOMS, n=15명·26관절, 단일군 전후비교, 대조군 없음). [참고수준 — prospective, no control]
-10. **TMD 환자 모든 그룹에서 QoL 크게 저하; 근육형·관절통형이 디스크변위형보다 심각** — Pigozzi 2021 SR+MA (n=3,829). [합의수준]
-11. **OVD 증가는 교합 상실보다 TMJ 연골 손상 빠르고 심각; 새 구치부 수복 후 TMJ 증상 모니터링 필요** — Wang 2024 (동물), Zhang 2024 CBCT (임상 1y; TMJ 유의 변화 없음). [합의수준]
-12. **습관적 편측저작측이 TMD 통증측과 일치(Kappa=0.767); 통증측에서 과로각 더 가파르고(50.5° vs 45.5°) 측방유도각 더 평평** — Santana-Mora 2021 (n=24, 교합치료 이력 없는 정상교합). [합의수준]
-13. **TMD 환자의 이명은 편측저작 선호와 유의하게 연관(90.7% vs 76.0%); 이명 발생측이 습관적 저작측과 일치(동측성)** — Ma 2025 (n=285). [합의수준]
+10. **TMD 환자 모든 그룹에서 QoL 크게 저하; 근육형·관절통형이 디스크변위형보다 심각** — Pigozzi 2021 SR+MA (n=3,829). [확인]
+11. **OVD 증가는 교합 상실보다 TMJ 연골 손상 빠르고 심각; 새 구치부 수복 후 TMJ 증상 모니터링 필요** — Wang 2024 (동물), Zhang 2024 CBCT (임상 1y; TMJ 유의 변화 없음). [확인]
+12. **습관적 편측저작측이 TMD 통증측과 일치(Kappa=0.767); 통증측에서 과로각 더 가파르고(50.5° vs 45.5°) 측방유도각 더 평평** — Santana-Mora 2021 (n=24, 교합치료 이력 없는 정상교합). [확인]
+13. **TMD 환자의 이명은 편측저작 선호와 유의하게 연관(90.7% vs 76.0%); 이명 발생측이 습관적 저작측과 일치(동측성)** — Ma 2025 (n=285). [확인]
 14. **하악 편위(facial asymmetry) 환자가 편측 대구치 교합 시 TMJ 응력 최고 — 전돌/후퇴보다 위험도 높음; 비편위측 저작이 응력을 더 올림** — Zheng 2025 FEA (n=35 patient models). [참고수준 — FEA, 소규모]
 
 ## Results
@@ -158,7 +161,7 @@ TMD 34편(SR+MA·가이드라인 27 + 편측저작·과두·이명 5 + TMJ OA �
 3. **부가 약물(부가 주입제가 핵심 가치)** — Hyaluronic acid (HA)·corticosteroid 근거 우위(Zhang 2024). **i-PRF 병용은 통증·MMO 모두 유의 개선 + TSA로 근거 결정적(GRADE moderate)** — Bader Alzamanan 2026; 12개월 추적에서 i-PRF는 유지, 천자 단독은 6개월 후 감쇠(Isik RCT). → 부가 주입제 없는 순수 천자보다 부가 주입형 천자를 선호.
 4. **단계적 확장** — 실패 시 arthroscopy → open surgery (OMFS 의뢰).
 
-**오판 패턴**: "교합조정·교합거상이 TMD 1차 치료" — Cochrane 2024 + BMJ 2023 모두 미지지. 비가역 치료는 보존 실패 후 단계적. [근거강함]
+**오판 패턴**: "교합조정·교합거상이 TMD 1차 치료" — Cochrane 2024 + BMJ 2023 모두 미지지. 비가역 치료는 보존 실패 후 단계적. [확인]
 
 **메타분석 해석 주의 (Fuentes-Barría 2026)**: 위 천자 SR+MA들은 I²=85–98%의 극단적 이질성 속에 기전이 다른 비교군(스플린트·물리치료·PRP/HA·관절경·천자 변형)을 통합하고, mm 단위 결과에 표준화평균차(SMD)를 쓰며, 이질적 진단(디스크변위·OA·관절통)을 섞었다. 이 경우 통계적으로 유의한 큰 효과조차 study 간 분산의 산물일 수 있고 무선효과모형이 이를 정당화하지 못한다. **읽는 법**: Valenzuela-Fuenzalida의 "천자 우월성 없음"과 IJOMS 2023의 "+1.12mm"는 둘 다 고이질성 풀링 추정치이므로 *방향성*은 신뢰하되 효과크기는 신중히. 반면 Bader Alzamanan의 i-PRF 결과는 단일 비교(천자+i-PRF vs 천자/대조) + TSA로 비교적 해석 가능성이 높다.
 
@@ -214,6 +217,21 @@ TMD 34편(SR+MA·가이드라인 27 + 편측저작·과두·이명 5 + TMJ OA �
 
 **연결**: OA의 arthrocentesis는 축 3(IJOMS 2023 SR+MA)의 근거와 일치 — HA·스테로이드 부가가 근거 우위. OA는 그 적응증을 "퇴행성 골변화 확인 후"로 구체화.
 
+### 축 8-b — 염증성·자가면역 관절염 (JIA · RA · PsA — 별도 overview로 연결)
+
+축 8이 **퇴행성**(기계적 부하 → 연골하골 파괴)이라면 이 축은 **염증성·자가면역**이다 — 기전(활막/부착부염 주도)·진단(MRI·US)·치료(류마티스내과 전신치료 위의 국소 보조층)가 전부 다른 트랙이라 축 1–5의 기능성 TMD 사다리를 그대로 적용하면 안 된다.
+
+| Spine paper | Evidence | Key finding |
+|---|---|---|
+| [[tmj/pawlaczyk-kamienska-2026-facial-asymmetry-mandibular-hypomobility-jia-tmj]] | narrative-review | JIA의 TMJ 침범은 흔히 **무증상** — 안면비대칭(23–41%)·개구 편위(최대 62%)·MMO<40mm가 선별 신호. MMO 단독은 TMJ 관절염 유무를 구분 못 함 |
+| [[tmj/chana-2026-ultrasound-tmj-juvenile-idiopathic-arthritis-sr]] | sr (8편, GRADE) | 소아 US 민감도 21–85%, 급성 염증에서 **0% 두 건**(Weiss κ=0.00, Zwir 0%) → **음성 US는 배제 못 함**; MRI가 기준 |
+| [[tmj/tenorio-2026-ultrasonography-tmj-rheumatoid-arthritis-scoping-review]] | sr (5편/154명) | 성인 RA는 삼출에 강하고(단일연구 92.4%) 디스크·골에 약함(72%·53%) — **JIA와 최적 표적이 뒤집힘**; 술자 의존성이 최대 한계 |
+| [[tmj/aiello-2025-tmj-arthritis-rheumatic-diseases-rehabilitative-pain-relief-sr]] | sr (479→5편) | 국소 치료 근거 거의 없음(대조군 2/5, RCT 1편); 스테로이드 효과 **~6주에 소실**; 전신치료와의 상호작용 미분석 |
+| [[tmj/bernardi-2024-psoriatic-arthritis-tmj-pathogenesis-gender-differences]] | narrative-review | PsA는 부착부염·IL-17/22/23 주도로 **미란+증식성 골변화 공존**; 감별은 **미란 위치**(OA 중심부만 vs PsA 중심·변연); 항TNF의 **턱뼈 골괴사** 보고 |
+| [[tmj/ravelo-2025-tmj-replacement-degenerative-disease-sr]] | sr (16편/760명) | 전치환술 — 적응증에 JIA·RA 포함(퇴행성·염증성 579명); 개구 24.3→40.7mm이나 **GRADE 16편 전부 low·대조군 없음·수술 시점 근거 없음** |
+
+**임상 함의**: 증상·초음파·전신 활성도·치료반응이 서로 어긋나므로(네 고리가 각각 끊어짐) 기능성 TMD의 "증상 보고 → 보존 → 재평가" 사다리가 작동하지 않는다. JIA 아동은 **증상이 없어도** 얼굴 대칭·개구로를 보고, 음성 US로 안심시키지 말며, 건선·RA 환자의 새 TMJ 증상은 스플린트가 아니라 **협진 대화**다. 상세·근거 전문은 [[overviews/tmj-inflammatory-arthritis-overview]].
+
 ### 축 9 — 삶의 질 · MAD/VD 특수 주제
 
 | Spine paper | Evidence | Key finding |
@@ -257,7 +275,7 @@ TMD 34편(SR+MA·가이드라인 27 + 편측저작·과두·이명 5 + TMJ OA �
 6. **연령 의존성 (De Carli 2023 rat)**: 성장기에 편측 교합 기능 저하 시 과두 단면적 발달 장애. 소아·청소년기 편측저작 교정이 성인보다 과두 발달 면에서 중요할 수 있음.
 
 **근거 한계**:
-- Santana-Mora 2021 n=24 소규모; Ma 2022·2025 단면연구(인과 불명); De Carli 2023 동물 실험(인체 외삽 제한); Zheng 2025 FEA 초록 기반·소규모 하위군(편위 n=9). 모두 [합의수준] 이하.
+- Santana-Mora 2021 n=24 소규모; Ma 2022·2025 단면연구(인과 불명); De Carli 2023 동물 실험(인체 외삽 제한); Zheng 2025 FEA 초록 기반·소규모 하위군(편위 n=9). 모두 [확인] 이하.
 - 이명 기제(auriculotemporal nerve 압박, petrotympanic fissure 경유 염증, 신경혈관 변화)는 가설적 — 인과 확인 없음.
 
 **TMD-이명 자체를 깊이 다루는 전용 overview**: [[overviews/tmd-tinnitus-somatosensory-association-overview]] — 이 축의 이명 관련 부분(Ma 2025 편측저작-이명 상관)을 6편(narrative 3·sr 1·sr+ma 2: Ralli 2017·Bousema 2018·Dipalma 2025·Saczuk 2024·Michiels 2023·Dapuzzo 2024)으로 기전·연관성·진단·치료 4축 해상도로 심화. 핵심: Bousema의 정량 메타분석은 전체 근거를 GRADE 낮음으로 판정(narrative-review의 OR 7.3·8배 유병률 수치는 상한선으로 해석 필요), Dapuzzo의 RCT-only 메타분석(OR 0.26)이 가장 견고한 치료 근거.
@@ -309,16 +327,16 @@ TMD 34편(SR+MA·가이드라인 27 + 편측저작·과두·이명 5 + TMJ OA �
 - [[overviews/drug-clinical-decision-ladder]] — TMD 약물
 
 확신도 등급 (2026-06-15 업데이트):
-- 축 1 역학·진단 = [근거강함] (SR+MA + OPPERA 코호트)
-- 축 2 비약물 보존 = [근거강함] (BMJ/Cochrane + 3 SRs); 단 ED/SM 단독·ARS 설계 비교는 [합의수준](Ferland 2026 모두 very low~low, Liu 2026 open-label·6개월)
-- 축 3 약물 = [합의수준] (GRADE 낮음; Häggman-Henrikson NMA)
-- 축 4 만성 통증 NMA = [근거강함] (BMJ 2023, 233 RCTs)
-- 축 5 arthrocentesis = [합의수준] — 천자 단독 우월성은 비교군 확장 시 미입증(Valenzuela-Fuenzalida 2026, GRADE very low); i-PRF 부가는 TSA로 결정적(Bader Alzamanan 2026, GRADE moderate); 단 풀링 추정치는 극단적 이질성으로 해석 주의(Fuentes-Barría 2026)
-- 축 6 이갈이 = [합의수준]
-- 축 7 BTX = [합의수준] (혼재)
-- 축 8 TMJ 골관절염 = [합의수준] (KDA narrative 2편)
-- 축 9 QoL·MAD/VD = [합의수준] (QoL: SR+MA; VD: 동물 + 소규모 임상)
-- 축 10 편측저작·과두·이명 = [합의수준-하] (단면연구 + 동물 + FEA; 소규모; 인과 미확인)
+- 축 1 역학·진단 = [확인] (SR+MA + OPPERA 코호트)
+- 축 2 비약물 보존 = [확인] (BMJ/Cochrane + 3 SRs); 단 ED/SM 단독·ARS 설계 비교는 [확인](Ferland 2026 모두 very low~low, Liu 2026 open-label·6개월)
+- 축 3 약물 = [확인] (GRADE 낮음; Häggman-Henrikson NMA)
+- 축 4 만성 통증 NMA = [확인] (BMJ 2023, 233 RCTs)
+- 축 5 arthrocentesis = [확인] — 천자 단독 우월성은 비교군 확장 시 미입증(Valenzuela-Fuenzalida 2026, GRADE very low); i-PRF 부가는 TSA로 결정적(Bader Alzamanan 2026, GRADE moderate); 단 풀링 추정치는 극단적 이질성으로 해석 주의(Fuentes-Barría 2026)
+- 축 6 이갈이 = [확인]
+- 축 7 BTX = [확인] (혼재)
+- 축 8 TMJ 골관절염 = [확인] (KDA narrative 2편)
+- 축 9 QoL·MAD/VD = [확인] (QoL: SR+MA; VD: 동물 + 소규모 임상)
+- 축 10 편측저작·과두·이명 = [확인-하] (단면연구 + 동물 + FEA; 소규모; 인과 미확인)
 
 ## Wikilinks — 신규 5편
 

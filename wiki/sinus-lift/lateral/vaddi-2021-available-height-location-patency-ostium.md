@@ -8,7 +8,7 @@ pmid: "34621651"
 pmcid: "PMC8479432"
 source: vaddi-2021-available-height-location-patency-ostium.md
 category: [sinus-lift/lateral]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 full_text: true
 source_url: https://pmc.ncbi.nlm.nih.gov/articles/PMC8479432/
@@ -22,9 +22,21 @@ relations:
     target: sinus-lift/lateral/kim-2019-maxillary-implants-otolaryngologist-perspective
 ---
 
-## 한줄요약
+## Three-line Summary
 
-후향적 콘빔CT(Cone-Beam CT, CBCT) 연구 (112명, 200개 부비동)에서 상악동공(Ostium) 위치·개통성을 평가해 "동저-자연공 높이 − 점막비후 높이"로 계산되는 안전 거상 높이(치아 있는 경우 ~27.05mm, 무치악 ~23.40mm)를 제시함.
+Retrospective CBCT study (112 patients, 200 sinonasal complexes: 100 dentate, 100 edentulous; University of Connecticut) evaluating maxillary sinus ostium location and patency to define how high the sinus floor can be safely elevated without blocking ostiomeatal-complex (OMC) drainage.
+
+Subtracting mean mucosal-thickening height from mean sinus-floor-to-ostium height yields a calculated "safe augmentation height" of ~27.05 mm (dentate) and ~23.40 mm (edentulous); the ostium lay near the first-molar region in 47% of sinuses, with excellent inter-rater reliability (Krippendorff α 0.89–0.98).
+
+The safe height is well above typical implant lengths but shrinks case-by-case with greater mucosal pathology — supporting preoperative CBCT assessment of ostium height and mucosal thickening before lateral-window sinus augmentation.
+
+## 세줄요약
+
+후향적 콘빔CT(Cone-Beam CT, CBCT) 연구(112명, 200개 부비동복합체: 유치악 100·무치악 100; 코네티컷대) — 상악동공(Ostium) 위치·개통성을 평가해 골이식 시 상악동저를 개구비도복합체(OMC) 배액을 막지 않고 얼마나 안전하게 거상할 수 있는지 규명.
+
+"동저–자연공 높이 − 점막비후 높이"로 계산한 안전 거상 높이는 유치악 ~27.05mm·무치악 ~23.40mm; 자연공은 47%에서 제1대구치 부위에 위치했고 평가자간 신뢰도가 우수(Krippendorff α 0.89–0.98).
+
+안전 높이는 통상 임플란트 길이보다 충분히 높으나 점막 병변이 클수록 증례별로 줄어듦 — 측방접근 상악동거상 전 CBCT로 자연공 높이·점막비후를 평가할 근거.
 
 ## Summary
 

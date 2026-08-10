@@ -6,7 +6,7 @@ date: 2024-05-01
 doi: 10.1016/j.dental.2024.02.026
 source: cesar-2024-dental-zirconia-15years-material-processing.md
 category: [dental-materials/zirconia]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/cesar-2024-dental-zirconia-15years-material-processing.pdf
 pdf_filename: cesar-2024-dental-zirconia-15years-material-processing.pdf
 source_collection: external
@@ -87,5 +87,5 @@ Cesar et al. (2024) provide a landmark synthesis of 15 years of dental zirconia 
 - [[dental-materials/zirconia/chopra-2024-mechanical-characteristics-zirconia-dentistry]] — mechanical properties deep-dive (transformation toughening, LTD, fatigue)
 - [[dental-materials/zirconia/kwon-2024-strength-limiting-defects-zirconia-cad-cam]] — CAD/CAM milling defects and their role in fracture
 - [[dental-materials/zirconia/ban-2023-dental-zirconia-types-development-review]] — complementary types review
-- [[dental-materials/warreth-2020-all-ceramic-restorations-narrative-review]] — broader all-ceramic context
+- [[dental-materials/ceramic/warreth-2020-all-ceramic-restorations-narrative-review]] — broader all-ceramic context
 - [[dental-materials/zirconia/aswal-2023-cadcam-zirconia-lithium-disilicate-crowns-sr-ma]] — clinical SR+MA comparing zirconia vs lithium disilicate crowns

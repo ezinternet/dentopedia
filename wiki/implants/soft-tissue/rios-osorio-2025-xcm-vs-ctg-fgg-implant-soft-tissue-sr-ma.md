@@ -6,7 +6,7 @@ date: 2025-08-21
 doi: 10.5051/jpis.2500260013
 source: rios-osorio-2025-xcm-vs-ctg-fgg-implant-soft-tissue-sr-ma.md
 category: implants/soft-tissue
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/rios-osorio-2025-xcm-vs-ctg-fgg-implant-soft-tissue-sr-ma.pdf
 pdf_filename: rios-osorio-2025-xcm-vs-ctg-fgg-implant-soft-tissue-sr-ma.pdf
 source_collection: external

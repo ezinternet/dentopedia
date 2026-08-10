@@ -6,7 +6,7 @@ date: 2024-05-23
 doi: 10.3390/dj12060157
 source: mauro-2024-tmj-management-whats-new-scoping.md
 category: [tmj]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/mauro-2024-tmj-management-whats-new-scoping.pdf
 pdf_filename: mauro-2024-tmj-management-whats-new-scoping.pdf
 source_collection: external

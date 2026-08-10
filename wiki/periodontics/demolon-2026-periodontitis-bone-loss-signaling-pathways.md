@@ -6,7 +6,7 @@ date: 2026-01-03
 doi: "10.1038/s41413-025-00478-1"
 source: demolon-2026-periodontitis-bone-loss-signaling-pathways.md
 category: [periodontics]
-confidence: narrative-review
+evidence_level: narrative-review
 pmid: "41484074"
 pmcid: "PMC12764867"
 source_collection: pubmed-text
@@ -79,6 +79,6 @@ Periodontitis affects ~700 million people worldwide (~11% of the global populati
 
 ## Related Papers
 
-- [[periodontics/liu-2019-periodontal-bone-ligament-cementum-regeneration]] — regenerative engineering strategies for PDL/bone/cementum (this review provides the molecular "why" for those strategies)
+- [[periodontics/host-modulation/liu-2019-periodontal-bone-ligament-cementum-regeneration]] — regenerative engineering strategies for PDL/bone/cementum (this review provides the molecular "why" for those strategies)
 - [[periodontics/kwon-2021-current-concepts-management-periodontitis]] — clinical management overview (this review provides the molecular underpinning)
-- [[periodontics/lee-2017-oxysterol-periodontal-regeneration-pdlsc-alveolar-bone]] — PDLSC-based regeneration; oxysterol targets Hedgehog/LXR upstream of bone formation
+- [[periodontics/host-modulation/lee-2017-oxysterol-periodontal-regeneration-pdlsc-alveolar-bone]] — PDLSC-based regeneration; oxysterol targets Hedgehog/LXR upstream of bone formation

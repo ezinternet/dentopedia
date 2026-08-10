@@ -8,7 +8,7 @@ pmid: "35019769"
 pmcid: "PMC8754113"
 source: plummer-2022-listerine-mouthwash-oropharyngeal-microbiota.md
 category: [oral-microbiology]
-confidence: rct
+evidence_level: rct
 text_path: /Users/oracleneo/llm-wiki/papers/plummer-2022-listerine-mouthwash-oropharyngeal-microbiota.txt
 text_filename: plummer-2022-listerine-mouthwash-oropharyngeal-microbiota.txt
 source_collection: pubmed-text

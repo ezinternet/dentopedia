@@ -6,7 +6,7 @@ date: 2020-04-09
 doi: 10.11607/prd.4467
 source: ostman-2020-macro-hybrid-implant-anterior-postextraction.md
 category: [immediate-implant/esthetic-soft-tissue]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/ostman-2020-macro-hybrid-implant-anterior-postextraction.pdf
 pdf_filename: ostman-2020-macro-hybrid-implant-anterior-postextraction.pdf
 source_collection: external
@@ -47,4 +47,4 @@ Single-arm (no comparator); industry-related implant design; short-to-mid-term f
 ## Related Papers
 - [[immediate-implant/chu-2020-itrt-platform-switched-subcrestal-angle-correction]]
 - [[immediate-implant/esthetic-soft-tissue/galve-huertas-2024-inverted-body-shift-design-pilot]]
-- [[immediate-implant/galve-huertas-2026-inverted-body-shift-vs-conical-rct]]
+- [[immediate-implant/primary-stability/galve-huertas-2026-inverted-body-shift-vs-conical-rct]]

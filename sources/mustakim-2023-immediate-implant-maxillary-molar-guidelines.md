@@ -15,7 +15,7 @@ text_filename: mustakim-2023-immediate-implant-maxillary-molar-guidelines.txt
 
 ## Why Ingested
 
-Maxillary-molar immediate placement is uniquely hard (wide socket, poor bone, sinus proximity) and our existing molar pages lacked an explicit two-axis case-selection scheme tying socket morphology AND vertical bone to surgical decisions. This Seoul National University retrospective (106 patients, 148 implants) gives a concrete maxillary-molar guideline — an ABH grade (A/B/C, socket-lifting decision) crossed with an interradicular-septum type (I/II/III, graft/wide-implant decision) — that extends the molar-socket classification framing in [[immediate-implant/smith-2013-classification-molar-extraction-immediate-implant]] into the maxillary sinus context, and complements the CBCT septum-anatomy planning in [[immediate-implant/deporter-2021-cbct-immediate-maxillary-molar-implant]].
+Maxillary-molar immediate placement is uniquely hard (wide socket, poor bone, sinus proximity) and our existing molar pages lacked an explicit two-axis case-selection scheme tying socket morphology AND vertical bone to surgical decisions. This Seoul National University retrospective (106 patients, 148 implants) gives a concrete maxillary-molar guideline — an ABH grade (A/B/C, socket-lifting decision) crossed with an interradicular-septum type (I/II/III, graft/wide-implant decision) — that extends the molar-socket classification framing in [[immediate-implant/molar-septum/smith-2013-classification-molar-extraction-immediate-implant]] into the maxillary sinus context, and complements the CBCT septum-anatomy planning in [[immediate-implant/molar-septum/deporter-2021-cbct-immediate-maxillary-molar-implant]].
 
 ## Three-line Summary
 

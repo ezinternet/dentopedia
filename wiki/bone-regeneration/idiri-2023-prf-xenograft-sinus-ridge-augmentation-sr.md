@@ -6,7 +6,7 @@ date: 2023-07-23
 doi: 10.3390/jfb14070389
 source: idiri-2023-prf-xenograft-sinus-ridge-augmentation-sr.md
 category: [bone-regeneration]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/idiri-2023-prf-xenograft-sinus-ridge-augmentation-sr.pdf
 pdf_filename: idiri-2023-prf-xenograft-sinus-ridge-augmentation-sr.pdf
 source_collection: external

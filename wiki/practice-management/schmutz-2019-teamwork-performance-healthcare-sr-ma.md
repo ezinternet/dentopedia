@@ -6,7 +6,7 @@ date: 2019-09-12
 doi: 10.1136/bmjopen-2018-028280
 source: schmutz-2019-teamwork-performance-healthcare-sr-ma.md
 category: [practice-management]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "31515415"
@@ -16,7 +16,7 @@ text_path: /Users/oracleneo/llm-wiki/papers/schmutz-2019-teamwork-performance-he
 text_filename: schmutz-2019-teamwork-performance-healthcare-sr-ma.txt
 tags: []
 relations:
-  - type: reinforces
+  - type: applies-to
     target: dental-workforce-delegation-skill-mix-overview
 ---
 

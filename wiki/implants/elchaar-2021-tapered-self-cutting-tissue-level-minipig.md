@@ -6,7 +6,7 @@ date: 2021-04-16
 doi: 10.1007/s00784-021-03912-w
 source: elchaar-2021-tapered-self-cutting-tissue-level-minipig.md
 category: [implants]
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/elchaar-2021-tapered-self-cutting-tissue-level-minipig.pdf
 pdf_filename: elchaar-2021-tapered-self-cutting-tissue-level-minipig.pdf
 source_collection: external
@@ -91,7 +91,7 @@ No fibrous encapsulation; no peri-implant inflammation at any site.
 
 ## Related Papers
 
-- [[implants/atieh-2025-tissue-vs-bone-level-peri-implantitis-sr-ma]] — SR+MA demonstrating tissue-level implant advantage in crestal bone level preservation; this minipig study provides supporting pre-clinical mechanistic data for TLX within the tissue-level category
-- [[implants/mortazavi-2021-bone-loss-tissue-bone-level-implants]] — comparative bone loss analysis around tissue vs bone level implants; contextualizes the fBIC differences observed here
-- [[implants/cosola-2020-bone-tissue-level-radiological-sr]] — radiological SR on bone/tissue-level crestal bone behavior; provides the radiographic clinical translation counterpart to this histomorphometric animal study
-- [[implants/solderer-2025-tissue-level-implant-bone-loss-factors]] — factors modifying bone loss around tissue-level implants; relevant for understanding when TLX crestal bone advantages may be amplified or diminished clinically
+- [[implants/peri-implantitis/atieh-2025-tissue-vs-bone-level-peri-implantitis-sr-ma]] — SR+MA demonstrating tissue-level implant advantage in crestal bone level preservation; this minipig study provides supporting pre-clinical mechanistic data for TLX within the tissue-level category
+- [[implants/mbl/mortazavi-2021-bone-loss-tissue-bone-level-implants]] — comparative bone loss analysis around tissue vs bone level implants; contextualizes the fBIC differences observed here
+- [[implants/mbl/cosola-2020-bone-tissue-level-radiological-sr]] — radiological SR on bone/tissue-level crestal bone behavior; provides the radiographic clinical translation counterpart to this histomorphometric animal study
+- [[implants/mbl/solderer-2025-tissue-level-implant-bone-loss-factors]] — factors modifying bone loss around tissue-level implants; relevant for understanding when TLX crestal bone advantages may be amplified or diminished clinically

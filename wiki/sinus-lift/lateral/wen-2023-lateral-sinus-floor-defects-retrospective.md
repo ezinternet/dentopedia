@@ -6,7 +6,7 @@ date: 2023-08-01
 doi: 10.1111/clr.14149
 source: wen-2023-lateral-sinus-floor-defects-retrospective.md
 category: sinus-lift/lateral
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/wen-2023-lateral-sinus-floor-defects-retrospective.pdf
 pdf_filename: wen-2023-lateral-sinus-floor-defects-retrospective.pdf
 source_collection: external

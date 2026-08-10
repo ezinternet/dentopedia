@@ -1,0 +1,1881 @@
+INTRODUCTION
+
+Surgical endodontic treatment, also known as endodontic microsurgery or apical surgery, is performed when conventional root canal therapy fails to resolve periapical pathology. It aims to eliminate persistent intraradicular or extraradicular infection and promote periapical healing through the surgical removal of infected tissue and the retrograde sealing of the root apex.[] Despite advancements in surgical techniques and magnification tools, achieving consistent and predictable periapical healing remains a challenge, particularly in large periapical lesions or lesions with cortical plate perforation.[]
+
+Guided tissue regeneration (GTR) has emerged as a biologically driven technique designed to facilitate selective cell repopulation at the site of periapical defects, thereby enhancing regenerative healing.[] GTR involves the placement of a biocompatible barrier membrane, with or without bone graft materials, to prevent the in-growth of epithelial and connective tissue cells into the healing site and to promote the proliferation of periodontal ligament cells and osteoblasts.[] Originally developed in periodontics, GTR has been increasingly applied in endodontic microsurgery, particularly in cases with through-and-through lesions or compromised bony walls.[]
+
+The rationale for incorporating GTR into surgical endodontics lies in its potential to stimulate new bone formation and accelerate periapical healing, ultimately improving the success rate of apical surgeries.[] Numerous biomaterials such as collagen membranes, expanded polytetrafluoroethylene (e-PTFE), resorbable and non-resorbable barriers have been investigated alongside grafting materials such as xenografts, allografts, and platelet concentrates.[] These adjuncts have expanded the armamentarium of endodontic microsurgery by enabling clinicians to manage complex defects, such as through-and-through lesions or apicomarginal defects, that were previously associated with poor prognosis.
+
+Importantly, regenerative approaches are not limited to structural bone replacement. Platelet concentrates such as platelet-rich fibrin (PRF) and concentrated growth factors (CGF) contribute biologically active molecules that enhance angiogenesis, accelerate soft-tissue healing, and improve integration of graft materials. Similarly, collagen membranes serve both as a physical barrier to epithelial downgrowth and as a bioactive scaffold guiding tissue repair. Collectively, these materials aim to shift the healing cascade from repair (scar tissue formation) toward true regeneration, thereby reducing recurrence of periapical pathology and improving functional outcomes.
+
+Despite these advantages, significant heterogeneity in clinical protocols, case selection, lesion types, and outcome assessment criteria continues to obscure definitive conclusions on the comparative efficacy of different GTR strategies. This variability complicates the translation of evidence into routine clinical decision-making and highlights the need for high-quality comparative studies.
+
+Previous systematic reviews and meta-analyses have assessed the outcomes of GTR in apical surgery, but discrepancies in findings and variations in methodological quality have led to inconsistent recommendations.[] Some studies suggest improved outcomes with GTR, while others report no significant advantage over conventional surgery.[] These divergent findings necessitate a higher-level synthesis of evidence to guide clinical decision-making. Furthermore, differences in inclusion criteria, risk of bias assessment, and outcome reporting make it difficult for practitioners to derive clear clinical recommendations.
+
+An umbrella review, which synthesizes findings from multiple systematic reviews and meta-analyses, offers a higher level of evidence by providing a consolidated and comparative overview of the literature. Such an approach can highlight areas of consensus, identify inconsistencies, evaluate the quality and credibility of existing reviews, and map evidence gaps requiring further primary research.
+
+Although multiple systematic reviews have assessed regenerative adjuncts and related protocols in surgical endodontics, the evidence remains fragmented and often discordant. Prior reviews differ in eligibility criteria (lesion types and defect morphology), outcome definitions (clinical success versus radiographic healing), imaging modalities (periapical radiographs versus cone beam computed tomography [CBCT]), and minimum follow-up thresholds, which complicates interpretation and guideline development. In addition, overlapping primary studies across reviews raise the risk of double-counting and biased syntheses, while comprehensive head-to-head comparisons across membranes, grafts, and biologic combinations are sparse. To address these gaps, there is a need for an umbrella review which could collate and critically appraise the totality of secondary evidence, quantify overlap among reviews, and benchmark methodological credibility.
+
+Given the growing interest in biologically enhanced endodontic surgery and the need for evidence-based treatment guidelines, this umbrella review aims to comprehensively synthesize data from existing systematic reviews and meta-analyses. By evaluating the quality, consistency, and strength of available evidence, we seek to clarify the effect of different materials used for GTR on the success rate of the procedure.
+
+METHODS
+
+Review design and objective
+
+This umbrella review was conducted to synthesize and critically appraise the existing body of systematic reviews and meta-analyses evaluating the impact of GTR on the clinical and radiographic outcomes of surgical endodontic treatment. The review adhered to the Preferred Reporting Items for Systematic Reviews and Meta-analyses (PRISMA) 2020 guidelines to ensure transparency, methodological rigor, and reproducibility.[] The study protocol was not registered.
+
+Population intervention comparator outcome framework and research question
+
+The review was structured around a clearly defined population intervention comparator outcome framework. The population (P) included patients undergoing surgical endodontic treatment. The intervention (I) involved the application of GTR techniques using barrier membranes or regenerative biomaterials. The comparator (C) included conventional apical surgery without GTR or alternative GTR materials. The primary outcome (O) was the clinical and radiographic success rate of the procedure. The research question was formulated as:
+
+The primary outcome for this umbrella review andnetwork meta-analysis (NMA) was defined as treatment success, operationalized as the absence of clinical signs and symptoms (pain, sinus tract, swelling, or tenderness) combined with radiographic evidence of complete or incomplete periapical healing. This definition was standardized across studies by accepting criteria most frequently reported in the included trials (e.g. Rud and Molven criteria, Gutmann and Harrison criteria, or modified PENN CBCT criteria). To ensure comparability, only trials reporting at least 12-month follow-up were considered for the primary NMA dataset.
+
+Search strategy and information sources
+
+A comprehensive literature search was conducted in four major electronic databases: MEDLINE (via PubMed), Scopus, Embase, and Web of Science, covering studies published from inception to July 2025. The search strategy combined both controlled vocabulary (MeSH terms) and free-text keywords related to GTR and surgical endodontics. Boolean operators were used to combine the following core terms: (“guided tissue regeneration” OR “GTR” OR “barrier membrane”) AND (“endodontic surgery” OR “apical surgery” OR “periapical surgery”) AND (“systematic review” OR “meta-analysis”). Filters were applied to restrict the results to English-language articles and review articles relevant to the field of dentistry and endodontics []. In addition, a manual search of reference lists and gray literature was performed to ensure completeness of the evidence base. All retrieved records were imported into EndNote X7.7 (Clarivate Analytics, Philadelphia, PA, USA) for reference management and to remove duplicate entries.
+
+Supplementary Table 1
+
+Search strategy
+
+Database
+
+Search terms/keywords
+
+Filters applied
+
+Results retrieved
+
+PubMed (MEDLINE)
+
+(“guided tissue regeneration” OR “GTR” OR “barrier membrane”) AND (“endodontic surgery” OR “apical surgery” OR “periapical surgery”) AND (“systematic review” OR “meta-analysis”)
+
+Publication dates: Inception-July 2025Language: EnglishArticle type: Systematic Reviews, Meta-analyses
+
+13
+
+Scopus
+
+TITLE-ABS-KEY(“guided tissue regeneration” OR “GTR” OR “barrier membrane”) AND TITLE-ABS-KEY(“endodontic surgery” OR “apical surgery” OR “periapical surgery”) AND TITLE-ABS-KEY(“systematic review” OR “meta-analysis”)
+
+Year: Inception-July 2025Document type: ReviewSubject area: DentistryLanguage: English
+
+15
+
+Embase
+
+(“guided tissue regeneration”/exp OR “GTR” OR “barrier membrane”) AND (“endodontic surgery”/exp OR “apical surgery” OR “periapical surgery”) AND (“systematic review”/exp OR “meta-analysis”)
+
+Year: Inception-July 2025Language: EnglishStudy type: Review articles
+
+12
+
+Web of Science
+
+TS=(“guided tissue regeneration” OR “GTR” OR “barrier membrane”) AND TS=(“endodontic surgery” OR “apical surgery” OR “periapical surgery”) AND TS=(“systematic review” OR “meta-analysis”)
+
+Year: Inception-July 2025Document type: Review ArticlesResearch domain: DentistryLanguage: English
+
+21
+
+Eligibility criteria
+
+Systematic reviews and meta-analyses were included if they evaluated the role of GTR in the context of surgical endodontic procedures in human subjects. Eligible reviews had to report on clinical or radiographic outcomes such as healing rates, success/failure rates, or complication profiles. Studies that compared GTR with non-GTR approaches or among various GTR materials (e.g., resorbable collagen membranes, e-PTFE, xenografts, and PRF) were considered. Reviews focusing solely on non-surgical endodontic therapy, implant regeneration, periodontal surgery, or animal/in vitro models were excluded. In addition, narrative reviews, scoping reviews, and individual clinical trials not part of a systematic review were excluded. Titles, abstracts, and full texts were independently screened by two reviewers (A.G., P.C.), and discrepancies were resolved through discussion or by consultation with a third reviewer (Y.H.N.).
+
+Credibility assessment of included meta-analyses
+
+The credibility of each included meta-analysis was systematically assessed across seven domains that have been previously validated in evidence synthesis research. These included: (1) Whether the summary effect estimate was statistically significant; (2) whether the largest included study yielded a statistically significant result; (3) whether the number of true positive or true negative events exceeded 1000; (4) the presence of substantial heterogeneity as defined by a Higgins’² value >50%; (5) evidence of small-study effects using Deeks’ test with a< 0.10; (6) whether the 95% prediction interval excluded the null value; and (7) presence of excess significance bias, assessed using the test for excess significance (< 0.10) where the observed number (O) of significant studies was greater than the expected number (E).
+
+Based on these criteria, each meta-analysis was categorized into one of four levels of evidence credibility: Convincing (Class I), highly suggestive (Class II), suggestive (Class III), or weak/non-significant evidence. This stratification allowed for a more nuanced interpretation of the robustness of evidence across multiple systematic reviews.[]
+
+Assessment of study overlap using corrected covered area
+
+To evaluate the redundancy and degree of overlap among the included systematic reviews, the Corrected Covered Area (CCA) was calculated. The CCA is a validated metric that quantifies the overlap in primary studies across multiple reviews. The calculation was performed using the GROOVE (Graphical Representation of Overlap for OVErviews) tool, employing the formula: CCA = (–)/(rc –)
+
+Whereis the total number of primary studies included across all reviews,is the number of unique index publications (rows), andis the number of included systematic reviews (columns).[]
+
+The extent of overlap was interpreted as follows: A CCA value of 0%–5% indicatedoverlap, 6%–10% as, 11%–15% as, and values above 15% as. In addition to the CCA, pairwise overlap was also evaluated by computing the percentage of primary studies in one review that were also found in another. Any pairs of reviews demonstrating >40% overlap were flagged, and when appropriate, such reviews were excluded from quantitative synthesis to minimize bias due to data duplication. This approach ensured that the final evidence synthesis was both valid and non-redundant.
+
+Study selection
+
+This study was designed as an umbrella review with an embeddedNMA. The overlap analysis (CCA = 13.46%, “high”) demonstrated substantial redundancy across reviews, confirming the need to consolidate data at the level of original trials. Accordingly, all primary studies included within the eligible reviews were re-extracted, deduplicated, and compiled into a new dataset. This dataset formed the basis of aNMA, allowing us to (i) integrate evidence across all reviews without double-counting, (ii) directly compare multiple GTR interventions, and (iii) evaluate comparative effects using a unified analytic framework. Thus, our workflow proceeded in three linked stages: Umbrella review – identification and appraisal of systematic reviews/meta-analyses. Overlap quantification – assessment of redundancy across reviews using GROOVE (CCA),NMA – extraction of primary study data from reviews, followed by synthesis in a network framework.
+
+Data extraction
+
+Data extraction was conducted independently by two reviewers using a standardized, pre-tested extraction form designed to capture all relevant characteristics of the included systematic reviews and meta-analyses. Any disagreements between the reviewers were resolved through discussion and consensus, with arbitration by a third reviewer when necessary. The primary aim of data extraction was to obtain comprehensive information on study design, population characteristics, lesion types, surgical protocols, regenerative interventions, and clinical outcomes related to GTR in surgical endodontic treatment.
+
+For each included review, details such as the first author’s name, year of publication, study design, and the number of primary studies included were recorded. The type and size of periapical lesions addressed were noted, including four-wall defects, apico-marginal lesions, and through-and-through defects. Lesion dimensions, where reported, were categorized as small (<5 mm), moderate (5–10 mm), or large (>10 mm). Information on tooth type and location – such as maxillary or mandibular arch and anterior or posterior dentition – was extracted when specified. The nature of the surgical endodontic technique used was also documented, including whether the procedure involved periapical surgery, apicoectomy, microsurgical approaches using magnification, ultrasonic retro-preparation, or the use of biocompatible root-end filling materials such as MTA or SuperEBA.
+
+Particular emphasis was placed on the type of regenerative techniques (RT) used. These included resorbable membranes (e.g., collagen-based membranes such as Bio-Gide®), non-resorbable membranes (e.g., e-PTFE), bone grafts (xenografts like Bio-Oss®, alloplasts like calcium sulfate, or synthetic substitutes like beta-tricalcium phosphate), autologous platelet concentrates (APCs) (e.g., PRF, platelet-rich plasma [PRP], injectable PRF), and their combinations. Reviews that compared GTR techniques with conventional surgical endodontic approaches without regeneration were specifically noted.
+
+Outcome-specific data were also carefully extracted. This included clinical and radiographic success rates, the method of healing assessment (e.g. Rud and Molven criteria, modified PENN three-dimensional [3D] CBCT scoring), and follow-up periods, which typically ranged from 6 months to 5 years. Dropout rates were documented when reported. Clinical success was generally defined as the absence of symptoms, while radiographic success referred to complete or incomplete periapical bone healing. Some studies provided volumetric assessments using CBCT software such as ITK-SNAP to quantify osseous fill and cortical regeneration.
+
+In addition, the extracted data included prognostic factors associated with healing outcomes. These factors included lesion size and configuration, tooth type and location, biomaterial used, and whether a membrane and graft were used in combination. The influence of surgical technique (e.g., use of magnification or ultrasonic instruments) and materials (e.g., collagen membranes, bone grafts, or autologous concentrates) on treatment outcomes was also recorded. Where reviews presented pooled data in the form of relative risk (RR), odds ratio (OR), or effect size (with 95% confidence intervals [CIs]), these were extracted separately for each intervention comparison.
+
+Risk of bias assessment in included systematic reviews
+
+The risk of bias within the included systematic reviews was assessed using the Risk of Bias in Systematic Reviews (ROBIS) tool.[] ROBIS is a structured instrument specifically developed to evaluate the ROBIS that address questions of effectiveness, diagnosis, prognosis, or etiology. The tool does not assess general methodological quality but focuses on potential biases introduced during the review process.
+
+The ROBIS tool comprises three phases: An initial relevance assessment (optional), followed by the evaluation of four domains – (1) Study eligibility criteria, (2) identification and selection of studies, (3) data collection and appraisal, and (4) synthesis and findings. Each domain includes multiple signaling questions to aid judgment, and the risk of bias in each domain is categorized as low, high, or unclear. Finally, an overall risk of bias judgment is assigned for each systematic review.
+
+Two reviewers (A.G., P.C.) independently applied the ROBIS tool, and discrepancies in assessment were resolved through discussion or by consulting a third senior reviewer (Y.H.N.). This process enabled the classification of reviews into those with high internal validity and those requiring cautious interpretation due to potential methodological flaws.
+
+Quantitative synthesis
+
+Stata Statistical Software (version 17, StataCorp, College Station, TX, USA) was used to perform the NMA under a frequentist random-effects model.[] The analysis synthesized direct and indirect evidence from eligible comparisons of GTR interventions in endodontic surgery. Network geometry was visualized to display the relationships between interventions, with node size reflecting the number of studies per intervention and edge thickness corresponding to the number of direct comparisons. Effect estimates were expressed as ORs with 95% CIs, and network forest plots were generated to illustrate these comparisons. Assessment of inconsistency was carried out using loop-specific inconsistency factors and net heat plots. Treatment rankings were calculated using the surface under the cumulative ranking curve (SUCRA) method, and results were visualized through SUCRA rankograms and radial SUCRA plots. A network league table was constructed to present pairwise treatment effects among all interventions. Publication bias was assessed using comparison-adjusted funnel plots. Model fit and study influence were examined using leverage versus residual deviance plots.
+
+Certainty assessment
+
+The CINeMA (Confidence in NMA) framework was used to assess the certainty of evidence across all treatment comparisons.[] Based on the GRADE approach, CINeMA evaluates six domains: Within-study bias, across-studies bias, indirectness, imprecision, heterogeneity, and incoherence. Each domain was assessed using relevant tools such as the Cochrane RoB 2.0 for bias and τ²/² statistics for heterogeneity. Confidence ratings were categorized as high, moderate, low, or very low.
+
+Incoherence was explored using node-splitting and loop-specific inconsistency models, while small-study effects were assessed through comparison-adjusted funnel plots. Judgments were made using the CINeMA web application () and were independently verified by two reviewers (A.S.A and N.N.) with discrepancies resolved through consensus.
+
+RESULTS
+
+Study selection
+
+A total of 61 records were identified through electronic database searches (PubMed, Scopus, Embase, and Web of Science). After removal of 47 duplicate records using EndNote X7.7 (Clarivate Analytics, Philadelphia, PA, USA), 14 unique records remained and were subjected to title and abstract screening. No records were excluded at this stage.
+
+All 14 records were retrieved for full-text assessment. Upon evaluation, none were excluded based on the inclusion and exclusion criteria. As a result, all 14 studies met the eligibility criteria and were included in the final umbrella review.
+
+A flow diagram detailing the study selection process is provided in, in accordance with PRISMA 2020 guidelines.
+
+Figure 1
+
+Preferred Reporting Items for Systematic Reviews and Meta-analyses flow diagram
+
+Credibility assessment of the included meta-analyses
+
+A total of 27 effect estimates were identified across the included systematic reviews and meta-analyses.[] Each estimate was assessed for credibility using the predefined seven-domain criteria. Of these, five estimates demonstrated suggestive evidence (Class III). These included the findings by Sumangali. regarding the use of collagen membranes in combination with bovine-derived hydroxyapatite and four effect estimates reported by Deng. (2016) which involved comparisons of bone replacement analogs and RT in various clinical scenarios namely, analogs only versus control, combination therapy versus control, through-and-through lesions treated with RT versus control, and large periapical lesions treated with RT versus control[] [and].
+
+The remaining 22 effect estimates were classified as weak evidence (Class IV). None of the included meta-analyses met the stringent criteria for convincing (Class I) or highly suggestive (Class II) evidence. This overall grading reflects considerable variability in study quality, sample size limitations, and inconsistency in outcome reporting across the primary studies synthesized in these reviews [Supplementary Tablesand].
+
+Supplementary Table 2
+
+Criteria for credibility assessment
+
+Credibility of evidence
+
+Criteria
+
+Convincing evidence (class I)
+
+Sample size >1000,<50%, no inherent small study effects 95% prediction interval excluding the null value, significant summary estimate and largest study estimate and absence of excess significance bias
+
+Highly suggestive (class II)
+
+<50%, no inherent small study effects, 95% prediction interval excluding the null value, significant summary estimate, and largest study estimate and absence of excess significance bias
+
+Suggestive evidence (class III)
+
+<50%, no inherent small study effects, 95% prediction interval excluding the null value, significant summary estimate, and largest study estimate
+
+Weak evidence (class IV)
+
+Summary estimate <0.05
+
+Supplementary Table 3
+
+Credibility assessment of the included meta-analyses
+
+Included meta-analysis
+
+Summary estimate (random effect)*
+
+Pooled Sample size >1000
+
+Largest study estimate<0.05
+
+<50%
+
+Small study effects
+
+95% prediction interval excludes the null value
+
+Overall credibility
+
+Alvaro Zubizarreta-Macho., 2022
+
+++
+
+−
+
+Stassen., 1994+
+
++
+
++
+
+−
+
+Weak evidence (class IV)
+
+Ananad Sumangali., 2021b (Use of e-PTFE membranes alone)
+
+NS
+
+−
+
+Pecora., 1995−
+
+Not applicable
+
++
+
+−
+
+Weak evidence (class IV)
+
+Ananad Sumangali., 2021b (Use of collagen membranes alone)
+
+++
+
+−
+
+Dominiak., 2009+
+
++
+
++
+
+−
+
+Weak evidence (class IV)
+
+Ananad Sumangali., 2021b (Use of collagen membranes plus bovine- derived hydroxyapatite)
+
++++
+
+−
+
+Chen., 2016+
+
++
+
++
+
++
+
+Suggestive evidence (class III)
+
+Ananad Sumangali., 2021b (Use of APCs alone)
+
+++
+
+−
+
+Dominiak., 2009+
+
++
+
++
+
+−
+
+Weak evidence (class IV)
+
+Golchin Jabbari., 2021 (success rate in RES group)
+
++
+
+−
+
+von Arx., 2014−
+
++
+
+−
+
+−
+
+Weak evidence (class IV)
+
+Golchin Jabbari., 2021 (success rate in EMS group)
+
+NS
+
+−
+
+Taschieri., 2007−
+
++
+
+−
+
+−
+
+Weak evidence (class IV)
+
+Igor Tsesis., 2011 (GTR vs. control –tooth based analysis)
+
+++
+
+−
+
+Taschieri., 2007+
+
++
+
+−
+
+−
+
+Weak evidence (class IV)
+
+Igor Tsesis., 2011 (GTR vs. control –patient based analysis)
+
+++
+
+−
+
+Taschieri., 2007+
+
++
+
+−
+
+−
+
+Weak evidence (class IV)
+
+Mohammad Sabeti., 2025 (Bone graft only)
+
+NS
+
+−
+
+Dominiak., 2009−
+
++
+
+−
+
+−
+
+Weak evidence class IV)
+
+Mohammad Sabeti., 2025 (Bone graft with membrane)
+
+NS
+
+−
+
+Taschieri., 2007−
+
++
+
+−
+
+−
+
+Weak evidence (class IV)
+
+Mohammad Sabeti., 2025 (Membrane only)
+
+NS
+
+−
+
+Dominiak., 2009−
+
++
+
+−
+
+−
+
+Weak evidence (class IV)
+
+Mohammad Sabeti., 2025 (Concentrated Growth Factor Only)
+
+NS
+
+−
+
+Dhamija., 2020−
+
++
+
+−
+
+−
+
+Weak evidence (class IV)
+
+Mohammad Sabeti., 2025 (Concentrated Growth Factor with Bone Graft)
+
+NS
+
+−
+
+Dominiak., 2009−
+
++
+
+−
+
+−
+
+Weak evidence (class IV)
+
+Nader Muthanna., 2025 (Non-resorbable membrane alone)
+
+NS
+
+−
+
+Tobon., 2002−
+
+Not applicable
+
+−
+
+−
+
+Weak evidence (Class IV)
+
+Nader Muthanna., 2025 (Resorbable membrane alone)
+
+NS
+
+−
+
+Dominiak., 2009+
+
++
+
+−
+
+−
+
+Weak evidence (Class IV)
+
+Nader Muthanna., 2025 (Bovine- bone derived hydroxyapatite plus collagen membrane)
+
++++
+
+−
+
+Chen and Shen 2016+
+
++
+
+−
+
+−
+
+Weak evidence (Class IV)
+
+Nader Muthanna., 2025 (Bone graft alone)
+
+NS
+
+−
+
+Albagle., 2023−
+
++
+
+−
+
+−
+
+Weak evidence (Class IV)
+
+Nader Muthanna., 2025 (APCs alone)
+
+NS
+
+−
+
+Dhamija., 2020−
+
++
+
+−
+
+−
+
+Weak evidence (Class IV)
+
+Richard Flynn., 2024
+
++++
+
+−
+
+Dominiak., 2009−
+
++
+
+−
+
+Not reported
+
+Weak evidence (Class IV)
+
+T.J. Liu., 2021
+
++++
+
+−
+
+Dominiak., 2009+
+
++
+
+−
+
++
+
+Weak evidence (Class IV)
+
+Yang Deng., 2015 (Membrane only vs. Control)
+
+NS
+
+−
+
+Dominiak., 2009+
+
++
+
+−
+
+−
+
+Weak evidence (Class IV)
+
+Yang Deng., 2015 (Bone replacement analogues only vs. control)
+
+++
+
+−
+
+Dominiak., 2009+
+
++
+
+−
+
++
+
+Suggestive evidence (Class III)
+
+Yang Deng., 2015 (Combination vs. Control)
+
++++
+
+−
+
+Taschieri., 2008a+
+
++
+
+−
+
++
+
+Suggestive evidence (Class III)
+
+Yang Deng., 2015 (Through and through lesion: RT vs. Control)
+
+++
+
+−
+
+Taschieri., 2008a+
+
++
+
+−
+
++
+
+Suggestive evidence (Class III)
+
+Yang Deng., 2015 (4 wall lesion: RT vs. Control)
+
+++
+
+−
+
+Dominiak., 2009+
+
++
+
+−
+
+−
+
+Weak evidence (Class IV)
+
+Yang Deng., 2015 (Large lesion: RT vs. Control)
+
+++
+
+−
+
+Taschieri., 2008a+
+
++
+
+−
+
++
+
+Suggestive evidence (Class III)
+
+NS: Not significant, RT: Regenerative techniques, APCs: Autologous platelet concentrates
+
+Corrected covered area matrix
+
+To assess the redundancy of primary studies across the included systematic reviews, the degree of overlap was evaluated using the CCA metric. A total of 48 unique primary studies were extracted from 14 systematic reviews. Using the GROOVE tool, the computed CCA was 13.46%, indicating a high degree of overlap among the included reviews [].
+
+This high level of redundancy suggests that several systematic reviews have included overlapping sets of primary studies, particularly in evaluations of GTR using collagen membranes, bone grafts, or combinations thereof. Such overlap necessitated data extraction from the primary studies rather than the original meta-analyses during quantitative synthesis to avoid overrepresentation of findings and to preserve the validity of the umbrella-level conclusions [].
+
+Characteristics of included studies
+
+The included studies encompassed various designs, such as systematic reviews and meta-analyses, focusing on GTR in endodontic surgery. Lesions were predominantly complex, including four-wall, apicomarginal, and through-and-through defects often larger than 5 mm (di Lauro., 2023; Deng., 2016).[] These were treated in both maxillary and mandibular teeth, although molars were sometimes excluded due to anatomical challenges.[] Surgical methods ranged from standard periapical surgeries to modern microsurgical techniques using ultrasonic retro-tips, magnification, and MTA for root-end filling[] [].
+
+GTR techniques varied, employing resorbable membranes (collagen), non-resorbable membranes (e-PTFE), bone grafts like Bio-Oss and calcium sulfate, and APCs (PRF/PRP) (Liu., 2021; Sumangali.,).[] Several studies showed that combining membranes and grafts resulted in superior healing, whereas others, like Jabbari., 2021, focused on comparing surgical methods without detailing regenerative materials[] [].
+
+Outcome assessment was typically a composite of clinical resolution (absence of pain, swelling, sinus tract, and tenderness) plus radiographic healing (complete/incomplete). Most legacy trials used periapical radiographs with Rud–Molven/Gutmann-Harrison criteria, whereas more recent studies employed CBCT-based assessments (including modified PENN and volumetric/density measures). Because 3D imaging can detect residual defects not apparent on two-dimensional (2D) radiographs, imaging modality likely acted as an effect modifier. We therefore specified sensitivity analyses by modality and follow-up threshold, recognizing that studies with ≥12 months predominated with a subset extending to 24–60 months. Attrition reporting remained inconsistent.
+
+Across reviews and primary trials, recurring prognostic factors included lesion size and configuration (through-and-through/apicomarginal vs. contained four-wall), tooth location (maxilla vs. mandible; anterior/premolar vs. molar), and the type/combination of biomaterials. Signals favored membrane + graft approaches, particularly collagen + bovine HA in large or non-contained defects, whereas contained four-wall lesions often demonstrated high baseline healing with smaller incremental gains from adjuncts. Taken together, these features indicate that defect morphology is a plausible effect modifier and that case selection and local anatomy should guide the decision to deploy regenerative adjuncts.
+
+Success rates ranged from 60% to 100%, with higher outcomes observed in four-wall defects and cases treated with combined regenerative strategies (Deng.; Muthanna., 2025).[] Healing was most favorable when membranes and bone grafts were used together. Assessment tools included clinical signs and radiographic measures such as CBCT and Rud and Molven’s classification.[] Follow-up durations typically spanned 1–5 years, though dropout reporting varied across studies[] [].
+
+Prognostic factors affecting outcomes included lesion size, lesion type, tooth location, and biomaterial type. Favorable results were particularly noted with collagen membranes used in combination with bovine-derived bone grafts.[] Overall, the collective evidence supports the use of GTR with membrane and graft combinations as a predictable and effective strategy for managing complex periapical lesions [].
+
+Table 1
+
+Characteristics of included studies
+
+First author and year
+
+Study design
+
+Number of studies included
+
+Type and size of lesion
+
+Tooth type or location
+
+Endodontic surgical technique used
+
+GTR technique used
+
+Sánchez-Torreset, 2014[]
+
+Systematic review
+
+25 articles: 2 meta-analyses, 8 reviews, 13 prospective studies, and 2 retrospective studies
+
+4-wall defects, through-and-through lesions and apicomarginal defects; many lesions >5 mm
+
+Both maxillary and mandibular anterior, premolar, and molar teeth
+
+Periapical surgery with GTR; specifics varied across studies but generally included lesion debridement, root-end resection, and retrograde filling
+
+Combination of bone grafts and barrier membranes; some studies used either bone graft or membrane alone
+
+di Lauro, 2023[]
+
+Systematic review
+
+14 studies – 9 RCTs; 5 controlled clinical trials
+
+Persistent periapical lesions, but details on specific lesion size were not consistently reported across all included studies
+
+Maxillary anterior teeth
+
+Microsurgical endodontic technique using ultrasonic retro-tips and MTA for root-end filling
+
+Guided tissue regeneration was not used in all cases; collagen membrane applied in selected defects
+
+Zubizarreta-Macho, 2022[]
+
+Systematic review and network meta-analysis
+
+11 studies – RCTs
+
+Apical and apico-marginal lesions, including through-and-through and multi-wall defects
+
+Varied; not restricted to a specific tooth type
+
+RES, including apicoectomy and retrograde filling
+
+MB, bone graft (Os), PL, and combinations (e.g., MB + Os)
+
+Sumangali, 2021a[]
+
+Systematic review and meta-analysis
+
+9 studies – RCTs
+
+Included four-wall defects, through-and-through lesions, and apicomarginal defects
+
+Maxillary and mandibular teeth; anterior, premolars, and molars included, depending on study
+
+Standard periapical surgery involving debridement and access to the periapical area
+
+Use of barrier membranes such as Gore-Tex, Bio-Gide, polyglactin-910, and autogenous periosteal grafts
+
+Sumangali, 2021b[]
+
+Systematic review and meta-analysis
+
+11 studies – RCTs
+
+Persistent periapical lesions; five studies included moderate to large lesions (>5 mm)
+
+Teeth from all four quadrants included
+
+Apicectomy with root-end resection in all included trials
+
+Included use of barrier membranes like collagen and e-PTFE either alone or in combination
+
+Rosen, 2023[]
+
+Systematic review
+
+4 studies- 3 RCTs and a prospective cohort study
+
+Endodontic-periodontal lesions with apicomarginal communication; lesion sizes ranged from 56.3mm² to 115.5 mm²
+
+Mostly unspecified; only one study specified about half were posterior teeth (premolars/molars)
+
+Modern technique using magnification (microscope or loupes), root-end resection, ultrasonic preparation, root-end filling
+
+Varied – resorbable membranes, collagen sponges, PRF/PRP membranes, periosteal grafts; used either alone or in combination
+
+Jabbari, 2021[]
+
+Systematic review and meta-analysis
+
+7 studies – 3 prospective nonrandomized clinical study, 1 RCTs, Prospective case study, and prospective case study
+
+Apical lesions; specific dimensions not provided
+
+Not distinctly stratified by tooth type in this review
+
+EMS group used magnification, ultrasonic root-end prep, MTA/SuperEBA as filling materials
+
+Not reported or applicable in this review
+
+Tsesis, 2011[]
+
+Systematic review and meta-analysis
+
+5 studies – RCTs
+
+Both small (<10 mm) and large (≥10 mm) periapical lesions; through-and-through and four-wall lesions were considered
+
+Not specified in detail; endodontically treated teeth with apical periodontitis included
+
+Modern techniques involving ultrasonic root-end preparation and biocompatible root-end filling materials
+
+Barrier membranes (resorbable or nonresorbable), sometimes with grafting
+
+Sabeti, 2025[]
+
+Systematic review and meta-analysis
+
+12 studies – RCTs
+
+All cases had through-and-through periapical lesions; lesion size not precisely quantified
+
+Anterior and premolar teeth in the maxillary region
+
+Microsurgical periapical surgery using ultrasonic retro-preparation and MTA retrofilling
+
+Collagen membrane was applied in the test group to cover the defect
+
+Muthanna, 2025[]
+
+Systematic review and meta-analysis of RCTs
+
+16 studies – RCTs
+
+Included confined, through-and-through, and apico-marginal lesions with sizes from 0.04 mm² to >10 mm
+
+Permanent teeth with various root configurations; exact tooth location varied across studies
+
+SRCT, including periapical curettage and root-end filling
+
+Guided tissue regeneration using membranes (resorbable and nonresorbable), bone grafts, and autologous platelet concentrates
+
+Montero-Miralles, 2021[]
+
+Narrative review
+
+30 studies
+
+Focus on large periapical and through-and-through lesions requiring regenerative support
+
+Not restricted to specific tooth type or location
+
+EMS using magnification and micro-instruments
+
+GTR with or without membranes and bone grafts in selected lesions
+
+Flynn, 2024[]
+
+Prospective cohort study
+
+8 studies – RCTs
+
+Periapical lesions ≥10 mm in diameter were included, encompassing apical or through-and-through defects
+
+Lesions were predominantly in anterior and premolar teeth; molars were excluded due to anatomical complexity
+
+Microsurgical technique with ultrasonic retro-preparation and MTA retrograde filling under a dental operating microscope
+
+In the test group, resorbable collagen membranes were used to cover the bone defects after debridement and root-end filling
+
+Liu, 2021[]
+
+Systematic review and meta-analysis
+
+11 studies – RCTs
+
+Included only endodontic periapical lesions; most were medium to large in size, >5 mm in diameter
+
+Included different tooth types; no specific location predominated
+
+Standardized root-end surgery performed by experienced clinicians
+
+Included guided tissue regeneration with e-PTFE membranes, collagen membranes, and combinations with bone grafts
+
+Deng, 2016[]
+
+Systematic review and meta-analysis
+
+8 studies – RCTs
+
+Lesions included 4-wall, tunnel (through and through), apico-marginal, and large lesions ≥10 mm in diameter
+
+Not specified consistently across studies
+
+Apical surgery with standard periapical debridement and retrograde filling
+
+Membrane-only, bone replacement analogue-only, and combination of both
+
+PRP: Platelet-rich plasma, GTR: Guided tissue regeneration, MB: Membrane alone, PL: Platelet-rich plasma, SRCT: Surgical root canal treatment, e-PTFE: Expanded polytetrafluoroethylene, MTA: Mineral trioxide aggregate, PRF: Platelet-rich fibrin, RCT: Randomized controlled trials, EMS: Endodontic microsurgery
+
+Table 2
+
+Regenerative materials and outcomes assessed
+
+First author and year
+
+Regenerative materials used
+
+Clinical and radiographic success
+
+Healing of periapical region
+
+Outcome assessment method used
+
+Follow-up period and dropouts
+
+Prognostic factors identified
+
+Inference
+
+Sánchez-Torres, 2014[]
+
+Bio-Oss, BioGide, OsteoGen, GoreTex, Surgiplaster, PRP, Polyglactin 910, Healiguide
+
+Ranged from 60% to 100% depending on technique and lesion type
+
+More predictable in 4-wall defects; through-and-through and apicomarginal lesions had less predictable healing but showed improvement with combined GTR use
+
+Radiographic, clinical, and in one study histological evaluation was assessed
+
+Follow-up periods generally 12 months; one study had attrition bias due to dropouts
+
+Lesion size>5 mm, lesion type (through-and-through and apicomarginal worse than 4-wall), tooth location (lower teeth worse prognosis), periodontal involvement, and evaluation criteria used
+
+Combined GTR techniques significantly improve healing outcomes, especially in complex lesions like through-and-through or apicomarginal defects. Barrier membranes and graft materials enhance predictability
+
+di Lauro, 2023[]
+
+Resorbable membranes (e.g., collagen), non-resorbable membranes (e.g., PTFE), xenografts (Bio-Oss), autologous platelet concentrates (PRF, PRP), and synthetic grafts (β-TCP)
+
+Overall success rate was 81%; 84.6% for Bio-Oss, 76.5% for Emdogain group
+
+Complete or incomplete healing occurred in most cases; healing evaluated via modified PENN 3D criteria
+
+CBCT using modified PENN 3D CBCT criteria for healing assessment
+
+Mean follow-up was 2.3±0.8 years; no dropouts were reported
+
+Lesion size, biomaterial type (Bio-Oss vs. Emdogain), and tooth location (maxilla vs. mandible) were identified as prognostic factors influencing healing outcomes
+
+Favorable healing was associated with smaller lesion size, maxillary location, and use of Bio-Oss as the regenerative material
+
+Zubizarreta-Macho, 2022[]
+
+Collagen membranes, hydroxyapatite grafts, platelet-rich plasma
+
+MB+Os had the highest healing success (OR=3.67 vs. control; P<0.05); most other techniques showed no significant difference
+
+Best outcomes observed with membrane+bone graft (MB+Os); complete healing defined per Rud and Molven criteria
+
+Clinical and radiographic assessment, including 2D and 3D imaging, bone density measurements
+
+Follow-up ranged from 6 to 24 months; dropout details not consistently reported
+
+Use of membrane with bone graft significantly improved healing; lesion complexity influenced success
+
+Combined use of membrane and bone graft (MB+Os) enhances the success of periapical healing postendodontic surgery compared to control or single techniques
+
+Sumangali, 2021a[]
+
+Bio-Oss, OsteoGen, calcium sulfate, PRP, Surgiplaster, and others
+
+Ranged from 60% to 100% depending on material and defect type; higher success observed with GTR + graft
+
+Best outcomes in four-wall defects and through-and-through lesions with combined regenerative approaches
+
+Clinical and radiographic assessments; one study used histological evaluation
+
+Follow-up is mostly short; long-term (1 year or more) rarely conducted; dropout data not uniformly reported
+
+Location of tooth, amount of bone loss, type of defect, and periodontal status
+
+Combining bone regenerative biomaterials with GTR techniques enhances healing outcomes in periapical surgery, particularly in complex lesions
+
+Sumangali, 2021b[]
+
+Collagen membranes, bovine-derived hydroxyapatite, e-PTFE membranes, calcium sulfate, APC-PRP, and PRF
+
+Significantly higher success rate in regenerative groups versus controls, especially with material combinations
+
+Enhanced healing was observed in regenerative groups, particularly when multiple materials were combined
+
+Based on clinical signs and radiographic evidence of healing (complete/incomplete)
+
+Minimum follow-up of 1 year; specific dropouts not reported
+
+Larger lesion size (>5 mm) is associated with delayed healing; better outcomes with material combinations
+
+Regenerative approaches improve apicectomy outcomes, and combined use of materials offers superior healing benefits
+
+Rosen, 2023[]
+
+Materials included IRM, MTA, Super EBA for root filling; calcium sulfate, collagen tape, PRF/PRP for GTR enhancement
+
+Combined complete and incomplete healing in 82.4% cases; failure in 4.8%; clinical symptoms used to define failure
+
+Complete healing in 58.4%, scar tissue in 24%, uncertain in 12.8%, failure in 4.8%; healing assessed both clinically and radiographically
+
+Rud and Molven criteria for radiographic healing; clinical symptoms assessed via signs like pain, sinus tract, swelling
+
+Follow-up ranged from 12 to 60 months; no specific dropout details, but only 153/174 teeth were analyzed
+
+No consistent patient, tooth, or operative factor was significantly associated with prognosis across studies
+
+GTR may enhance outcomes but lacks sufficient evidence due to heterogeneity and absence of direct GTR versus non-GTR comparisons
+
+Jabbari, 2021[]
+
+EMS group included MTA and SuperEBA; RES used resin-based adhesives
+
+EMS group showed 93.05% success; RES group showed 80.16% success
+
+EMS demonstrated higher predictability in apical healing than RES
+
+Clinical and radiographic criteria across included studies; success defined per tooth
+
+Ranged from 12 to 96 months; dropouts not explicitly mentioned
+
+Use of MTA and microsurgical technique favored better outcomes in the EMS group
+
+EMS achieved superior and more predictable clinical outcomes compared to RES in the treatment of periapical lesions
+
+Tsesis, 2011[]
+
+Resorbable membranes, nonresorbable membranes, calcium sulfate, and xenogeneic bone graft (e.g., Bio-Oss)
+
+GTR showed a trend toward better outcomes, but differences were not statistically significant (OR≈0.48–0.49; P>0.05)
+
+More favorable in GTR group, especially for large or through-and-through lesions
+
+Rud and Molven radiographic criteria; clinical signs and symptoms considered failures
+
+Minimum follow-up of 1 year required; individual dropout rates not reported
+
+Lesion size, lesion type, and membrane type (resorbable better than nonresorbable) significantly influenced healing outcomes
+
+GTR may enhance healing in large or through-and-through lesions, particularly when resorbable membranes are used, although more large-scale trials are needed
+
+Sabeti, 2025[]
+
+Bio-Gidecollagen membrane alone (no graft used)
+
+Test group had significantly higher radiographic healing scores and clinical success compared to the control
+
+GTR group showed enhanced osseous fill and cortical plate regeneration compared to non-GTR
+
+CBCT with volumetric and density analysis using ITK-SNAP software
+
+12-month follow-up; no dropouts reported
+
+Application of collagen membrane significantly improved bone healing in through-and-through defects
+
+The study supports the use of collagen membranes in microsurgical endodontics to enhance bone regeneration in challenging lesions
+
+Muthanna, 2025[]
+
+Collagen membranes, e-PTFE, bovine bone-derived hydroxyapatite, PRP, PRF, i-PRF, and synthetic grafts
+
+GTR showed significantly improved healing in both 2D (RR 0.50) and 3D (RR 0.36) assessments
+
+Significantly enhanced in through-and-through lesions and moderately improved in confined lesions
+
+2D imaging (Rud/Molven criteria) and 3D CBCT (Modified PENN criteria)
+
+All studies had a minimum 12-month follow-up; dropout data were limited or not clearly reported
+
+Lesion type and biomaterial combination influenced healing; collagen membrane + bovine grafts were most effective
+
+GTR significantly enhances SRCT outcomes, especially in through-and-through lesions using collagen membranes with bone grafts
+
+Montero-Miralles, 2021[]
+
+Bioceramics like MTA, EndoSequence, Totalfill, and bone grafts such as Bio-Oss with collagen membranes
+
+Success rates ranged from 75.9% to 94.1% across included studies
+
+Most studies demonstrated effective healing even without GTR; GTR helpful in large or communicating lesions
+
+Periapical radiographs and CBCT in clinical studies reviewed
+
+Follow-up periods ranged from 12 months to 5 years; dropouts not uniformly reported
+
+Use of MTA, lesion size, type of defect (e.g., through-and-through), and presence of GTR
+
+While microsurgery alone shows high success, biomaterials like MTA and selective GTR enhance healing in large or complex defects
+
+Flynn, 2024[]
+
+Collagen membrane (Bio-Gide) and DFDBA were applied in GTR group
+
+Success rate in GTR group was 91.7%, compared to 78.3% in the non-GTR group at 12 months
+
+GTR group showed significantly more complete bone fill and better periapical healing than the non-GTR group
+
+Radiographic healing assessed using modified PENN criteria; clinical symptoms were also evaluated
+
+Follow-up period was 12 months; two dropouts occurred, one from each group
+
+Use of regenerative techniques was a key prognostic factor for improved healing, while tooth type and lesion size showed no significant impact
+
+Use of bone grafting, with or without membranes, significantly enhances healing outcomes following apical surgery
+
+Liu, 2021[]
+
+Collagen membranes, bovine-derived hydroxyapatite, e-PTFE membranes, calcium sulphate, and autologous platelet concentrates (PRF/PRP)
+
+Combined success defined as the absence of symptoms and complete/incomplete radiographic healing; significantly higher in the regenerative group (RR: 0.42;<0.001)
+
+Significantly improved with combined use of collagen membrane and bone graft; moderate with APCs or collagen alone; negligible with e-PTFE alone
+
+Combined clinical signs and radiographic criteria (Rud., Molven., Gutmann and Harrison)
+
+One-year follow-up for all included RCTs; dropouts not clearly detailed
+
+Lesion size >5 mm negatively influenced healing; medium and large lesions benefited most from collagen + hydroxyapatite combination
+
+Regenerative techniques, especially collagen membranes with bone grafts, significantly improve healing after endodontic surgery; e-PTFE offers limited benefit
+
+Deng, 2016[]
+
+e-PTFE membrane, collagen membrane, calcium sulfate, bovine bone mineral, PRP, hydroxylapatite
+
+Significant improvement in healing for bone analogue-only (RR 0.48, 95% CI 0.23–0.98) and combination group (RR 0.41, 95% CI 0.22–0.77); membrane-only group showed no significant effect
+
+Enhanced healing noted especially in through-and-through and large lesions with regenerative techniques
+
+Success=absence of symptoms and complete radiographic healing; failure=clinical signs or incomplete radiographic resolution
+
+All included studies had at least 1 year follow-up; dropout rates ranged from 0 to 4 cases per study
+
+Lesion type (through and through and large lesions≥10 mm) and material used (bone analogue or combination) affected prognosis
+
+Use of bone replacement analogues, alone or in combination with membranes, improves periapical healing outcomes, especially in large or tunnel-type lesions; membranes alone offer no significant benefit
+
+RR: Relative risk, OR: Odds ratio, CBCT: Cone-beam computed tomography, DFDBA: Demineralized freeze-dried bone allograft, PRP: Platelet-rich plasma, GTR: Guided tissue regeneration, e-PTFE: Expanded polytetrafluoroethylene, MTA: Mineral trioxide aggregate, PRF: Platelet-rich fibrin, EMS: Endodontic microsurgery, RES: Root-end surgery, CI: Confidence interval, MB: Membrane alone, PL: Platelet-rich plasma, RCT: Randomized controlled trials, APCs: Autologous platelet concentrates, SRCT: Surgical root canal treatment
+
+Quality assessment of included systematic reviews
+
+The included 14 systematic reviews were evaluated using the ROBIS tool, which assessed four key domains (D1–D4) and provided an overall judgment of risk of bias for each review. Out of the 14 included studies, seven systematic reviews, including those by Sumangali., Sánchez-Torres., di Lauro., Rosen., Jabbari., and Flynn., were assessed as having a high overall risk of bias primarily due to high or unclear judgments in domains such as identification and selection of studies (D2) and synthesis and findings (D4).[] In contrast, the remaining seven studies by Zubizarreta-Macho., Tsesis., Sabeti., Muthanna., Montero-Miralles. (2021), Liu., and Deng. demonstrated low overall risk of bias, with consistently low-risk ratings across most or all assessed domains[] [and].
+
+Figure 2
+
+Risk of bias assessment-risk of bias in systematic reviews tool
+
+Quantitative synthesis
+
+Network geometry
+
+Network geometry plot depicts the pairwise comparisons of various GTR interventions []. The figure illustrates the direct and indirect comparisons among 16 regenerative materials used in surgical endodontic treatment. Each node represents a specific intervention, and the thickness of the connecting lines reflects the number of studies comparing the connected treatments. The size of each node represents the number of studies in which that particular intervention was evaluated. Notably, collagen membranes (H), xenogenic Bio-Oss collagen graft (M), and APCs (A) appear frequently and are central within the network, indicating a high volume of comparative evidence involving these interventions.
+
+Figure 3
+
+Network plot. A = Autologous platelet concentrates; B = Bio-resorbable polylactic acid membrane; C = Bovine bone hydroxyapatite; D = Concentrated growth factors (CGF) + Hydroxyapatite; E = CGF + Xenogenic Bio-Oss collagen graft; F = Calcium sulphate graft; G = Collagen-based bone graft; H = Collagen membranes; I = Collagen membranes + Bovine-derived hydroxyapatite; J = Control; K = Hydroxyapatite; L = platelet-rich plasma; M = Xenogenic Bio-Oss collagen graft; O = Expanded polytetrafluoroethylene (e-PTFE) membranes; P = e-PTFE membranes + Hydroxyapatite
+
+Network forest plots
+
+The network forest plots presented in Supplementary Figures-display the pairwise comparisons of various GTR materials and their combinations against control or each other. Each forest plot illustrates the estimated ORs on a logarithmic scale, accompanied by 95% CIs and prediction intervals (PrI) offering insight into both effect magnitude and the certainty of estimates.
+
+Among the comparisons, several interventions showed a trend toward improved outcomes compared to controls. Notably, collagen membranes combined with bovine-derived hydroxyapatite (I) and CGF combinations (E, D) were consistently associated with favorable ORs, although wide confidence and prediction intervals reflected limited precision. For instance, the combination of e-PTFE membranes and hydroxyapatite (P) demonstrated ORs suggesting benefit in some comparisons []. Similarly, several combinations involving APCs (A), such as APCs with Bio-Oss or collagen membranes, showed potential improvement, but again with considerable variability [Supplementary Figures-].
+
+In contrast, some comparisons, such as collagen-based bone graft (G) or calcium sulphate graft (F) versus control, showed no significant benefit or had estimates close to null, highlighting the inconsistency in performance among individual biomaterials [Supplementary Figures-].
+
+Assessment of inconsistency
+
+illustrates the loop-specific inconsistency analysis using inconsistency factors (IFs) and their corresponding 95% CIs. This analysis evaluates the agreement between direct and indirect evidence within closed triangular or quadrilateral loops of the network. Overall, the network displayed a low level of inconsistency, as evidenced by the modest IF values and narrow CIs across most loops.
+
+The highest inconsistency factors were observed in the loops D–F–O (IF = 0.117; 95% CI: 0.092–0.131), E–J–K (IF = 0.109; 95% CI: 0.087–0.120), and K–M–O (IF = 0.093; 95% CI: 0.084–0.105), suggesting minor discordance between direct and indirect estimates in these specific comparisons. However, even in these loops, the inconsistency values remained below 0.15, indicating an acceptable range of agreement for clinical interpretation. The majority of loops, including those involving commonly used interventions such as collagen membranes (H), APCs (A), and Bio-Oss (M), showed very low inconsistency (e.g. IF < 0.04), reinforcing the robustness of the network model.
+
+Notably, all but one loop showed heterogeneity values of 0, confirming a high degree of precision in the effect estimates across studies. Only the D–F–I loop reported non-zero heterogeneity (0.081), though its inconsistency factor (0.025) still fell within a negligible range.
+
+presents the net heat plot, which visualizes pairwise inconsistencies within the NMA of GTR interventions. Each square represents a direct comparison between two interventions, with the size of the square reflecting the contribution (weight) of the comparison to the overall network, and the color indicating the degree of inconsistency.
+
+The color gradient spans from blue (low inconsistency) to red (high inconsistency). Overall, the network exhibits low inconsistency, as the vast majority of comparisons appear in shades of blue. A few comparisons demonstrate mild to moderate inconsistency, indicated by isolated patches of yellow or red. Notably, increased inconsistency is observed in comparisons involving collagen-based combinations and APCs (A, I, M) or e-PTFE membranes (O) with complex combinations, such as comparisons between H and M or K and N. However, these inconsistencies are sparse and isolated, suggesting they may be attributed to clinical heterogeneity or methodological variability in a small subset of trials.
+
+The largest and most heavily weighted comparisons, shown by larger blue squares, involve frequently studied interventions such as collagen membranes (H), Bio-Oss (M), and control (J), and reassuringly, these dominant nodes exhibit minimal inconsistency. This reinforces the robustness and internal consistency of the network model.
+
+Figure 4
+
+Netheat plot A = Autologous platelet concentrates; B = Bio-resorbable polylactic acid membrane; C = Bovine bone hydroxyapatite; D = Concentrated growth factors (CGF) + Hydroxyapatite; E = CGF + Xenogenic Bio-Oss collagen graft; F = Calcium sulphate graft; G = Collagen-based bone graft; H = Collagen membranes; I = Collagen membranes + Bovine-derived hydroxyapatite; J = Control; K = Hydroxyapatite; L = platelet-rich plasma; M = Xenogenic Bio-Oss collagen graft; O = Expanded polytetrafluoroethylene (e-PTFE) membranes; P = e-PTFE membranes + Hydroxyapatite
+
+Relative treatment effects: Network league table
+
+presents the network league table, which displays the estimated ORs and 95% CIs for all pairwise comparisons among the 16 regenerative interventions included in the NMA. Each cell represents the relative effect of the treatment in the row compared to the treatment in the column. An OR <1 favors the treatment in the row, while an OR >1 favors the treatment in the column.
+
+The comparison clearly identifies e-PTFE membranes combined with hydroxyapatite as the most effective intervention. It significantly outperformed most other treatments, including control (OR = 0.13; 95% CI: 0.02–0.98), APCs (OR = 0.49; 95% CI: 0.23–1.05), and collagen-based bone grafts (OR = 0.59; 95% CI: 0.09–3.93), although the wide CIs in some comparisons suggest imprecision. This finding is consistent with its highest SUCRA value (84.4%) and top-ranking position. Assuming a plausible baseline success rate of 70% in controls (typical of contemporary apical surgery without GTR), this translates into an absolute risk difference (ARD) of +21% (95% CI: +1% to +38%) corresponding to a number needed to treat (NNT) ≈5 (95% CI: 3–100).
+
+Other combination strategies such as CGF + Xenogenic Bio-Oss collagen graft (OR vs. control = 0.26; 95% CI: 0.07–0.97) (ARD ≈ +18% (95% CI: +1% to +33%), NNT ≈ 6), collagen membranes + bovine-derived hydroxyapatite (OR = 0.33; 95% CI: 0.22–0.50) (ARD ≈ +15% [95% CI: +7% to +22%], NNT ≈ 7), and CGF + hydroxyapatite (OR = 0.22; 95% CI: 0.01–4.02) (ARD +21%; 95% CI +30% to −33%, NNT ≈ 5) also demonstrated strong comparative efficacy. Notably, most of these interventions yielded ORs <1.00 against control and several monotherapies, supporting the effectiveness of regenerative strategies that combine barrier membranes and graft materials.
+
+In contrast, control, collagen membranes (Ossix-plus), and bioresorbable polylactic acid membranes occupied the lower tiers of the efficacy ranking. For example, when compared to e-PTFE + hydroxyapatite, the control group exhibited a nearly 8-fold higher odds of unfavorable outcome (OR = 7.72; 95% CI: 1.02–58.53). Similarly, collagen membranes (Ossix-plus) showed worse outcomes when compared to high-performing interventions such as CGF combinations or hydroxyapatite, often with ORs exceeding 2.0.
+
+Supplementary Table 4
+
+Network league table
+
+16
+
+15
+
+14
+
+13
+
+12
+
+11
+
+10
+
+9
+
+8
+
+0.13 (0.02–0.98)
+
+0.15 (0.02–1.41)
+
+0.16 (0.01–2.49)
+
+0.19 (0.02–2.31)
+
+0.21 (0.03–1.70)
+
+0.23 (0.03–1.92)
+
+0.25 (0.03–2.30)
+
+0.26 (0.03–2.41)
+
+0.27 (0.03–2.31)
+
+0.26 (0.07–0.97)
+
+0.29 (0.05–1.56)
+
+0.32 (0.03–3.06)
+
+0.38 (0.05–2.75)
+
+0.42 (0.10–1.72)
+
+0.45 (0.10–2.02)
+
+0.49 (0.10–2.43)
+
+0.51 (0.10–2.62)
+
+0.53 (0.11–2.43)
+
+0.33 (0.22–0.50)
+
+0.38 (0.13–1.13)
+
+0.42 (0.06–2.78)
+
+0.50 (0.11–2.23)
+
+0.55 (0.29–1.03)
+
+0.59 (0.27–1.29)
+
+0.64 (0.23–1.79)
+
+0.66 (0.23–1.89)
+
+0.69 (0.30–1.57)
+
+0.22 (0.01–4.02)
+
+0.25 (0.01–5.42)
+
+0.27 (0.01–8.46)
+
+0.33 (0.01–8.47)
+
+0.36 (0.02–6.82)
+
+0.39 (0.02–7.67)
+
+0.42 (0.02–8.80)
+
+0.43 (0.02–9.28)
+
+0.45 (0.02–9.06)
+
+0.22 (0.01–4.02)
+
+0.25 (0.01–5.42)
+
+0.27 (0.01–8.46)
+
+0.33 (0.01–8.47)
+
+0.36 (0.02–6.82)
+
+0.39 (0.02–7.67)
+
+0.42 (0.02–8.80)
+
+0.43 (0.02–9.28)
+
+0.45 (0.02–9.06)
+
+0.39 (0.12–1.33)
+
+0.45 (0.09–2.19)
+
+0.49 (0.05–4.54)
+
+0.59 (0.09–3.93)
+
+0.64 (0.17–2.43)
+
+0.69 (0.18–2.75)
+
+0.76 (0.16–3.56)
+
+0.78 (0.16–3.70)
+
+0.81 (0.19–3.40)
+
+0.47 (0.26–0.82)
+
+0.53 (0.17–1.65)
+
+0.58 (0.08–4.02)
+
+0.70 (0.15–3.25)
+
+0.76 (0.36–1.62)
+
+0.82 (0.34–1.97)
+
+0.89 (0.30–2.67)
+
+0.92 (0.30–2.82)
+
+0.95 (0.37–2.43)
+
+0.49 (0.23–1.05)
+
+0.55 (0.15–1.98)
+
+0.61 (0.08–4.53)
+
+0.73 (0.14–3.77)
+
+0.80 (0.33–1.95)
+
+0.86 (0.31–2.40)
+
+0.94 (0.28–3.17)
+
+0.97 (0.28–3.35)
+
+APCs
+
+0.51 (0.19–1.36)
+
+0.57 (0.14–2.34)
+
+0.63 (0.08–5.12)
+
+0.76 (0.13–4.30)
+
+0.83 (0.27–2.50)
+
+0.89 (0.27–2.90)
+
+0.97 (0.25–3.76)
+
+Calcium sulphate graft
+
+1.04 (0.30–3.59)
+
+0.52 (0.20–1.36)
+
+0.59 (0.15–2.39)
+
+0.65 (0.08–5.10)
+
+0.78 (0.14–4.44)
+
+0.85 (0.29–2.47)
+
+0.92 (0.28–2.98)
+
+Xenogenic Bio-Oss collagen graft
+
+1.03 (0.27–4.00)
+
+1.07 (0.32–3.61)
+
+0.57 (0.28–1.14)
+
+0.64 (0.19–2.17)
+
+0.70 (0.10–5.15)
+
+0.85 (0.17–4.16)
+
+0.93 (0.39–2.21)
+
+Bovine bone hydroxyapatite
+
+1.09 (0.34–3.54)
+
+1.12 (0.34–3.66)
+
+1.16 (0.42–3.25)
+
+0.61 (0.36–1.04)
+
+0.69 (0.22–2.19)
+
+0.76 (0.11–5.19)
+
+0.91 (0.19–4.29)
+
+Collagen membranes-Bio Gide
+
+1.08 (0.45–2.56)
+
+1.17 (0.41–3.39)
+
+1.21 (0.40–3.66)
+
+1.25 (0.51–3.06)
+
+0.67 (0.16–2.87)
+
+0.76 (0.13–4.39)
+
+0.83 (0.08–8.83)
+
+PRP
+
+1.09 (0.23–5.13)
+
+1.18 (0.24–5.77)
+
+1.28 (0.23–7.30)
+
+1.32 (0.23–7.52)
+
+1.37 (0.27–7.07)
+
+0.81 (0.12–5.20)
+
+0.91 (0.11–7.66)
+
+Bio-resorbable polylactic acid membrane
+
+1.20 (0.11–12.82)
+
+1.32 (0.19–9.00)
+
+1.42 (0.19–10.36)
+
+1.55 (0.20–12.18)
+
+1.59 (0.20–12.99)
+
+1.65 (0.22–12.34)
+
+0.88 (0.32–2.47)
+
+Collagen membranes-Ossix plus
+
+1.10 (0.13–9.20)
+
+1.32 (0.23–7.65)
+
+1.44 (0.46–4.56)
+
+1.56 (0.46–5.26)
+
+1.69 (0.42–6.87)
+
+1.75 (0.43–7.13)
+
+1.81 (0.50–6.48)
+
+Control
+
+1.13 (0.41–3.16)
+
+1.24 (0.19–8.01)
+
+1.50 (0.35–6.42)
+
+1.63 (0.97–2.77)
+
+1.76 (0.88–3.52)
+
+1.92 (0.74–4.99)
+
+1.98 (0.74–5.30)
+
+2.05 (0.95–4.40)
+
+16
+
+7
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0.13 (0.02–0.98)
+
+0.28 (0.03–2.26)
+
+0.33 (0.03–3.49)
+
+0.59 (0.02–20.17)
+
+0.59 (0.02–20.17)
+
+0.39 (0.05–3.02)
+
+0.50 (0.05–5.60)
+
+e-PTFE membranes + Hydroxyapatite
+
+0.26 (0.07–0.97)
+
+0.55 (0.13–2.32)
+
+0.65 (0.11–3.95)
+
+1.17 (0.05–28.00)
+
+1.17 (0.05–28.00)
+
+0.77 (0.19–3.05)
+
+CGF + Xenogenic Bio-Oss collagen graft
+
+1.98 (0.18–22.06)
+
+0.33 (0.22–0.50)
+
+0.72 (0.37–1.40)
+
+0.85 (0.24–3.06)
+
+1.52 (0.08–28.53)
+
+1.52 (0.08–28.53)
+
+Collagen membranes + Bovine derived hydroxyapatite
+
+1.30 (0.33–5.17)
+
+2.59 (0.33–20.20)
+
+0.22 (0.01–4.02)
+
+0.47 (0.02–9.08)
+
+0.56 (0.02–13.01)
+
+1.00 (0.02–59.99)
+
+CGF + Hydroxyapatite
+
+0.66 (0.04–12.28)
+
+0.85 (0.04–20.45)
+
+1.70 (0.05–58.05)
+
+0.22 (0.01–4.02)
+
+0.47 (0.02–9.08)
+
+0.56 (0.02–13.01)
+
+Hydroxyapatite
+
+1.00 (0.02–59.99)
+
+0.66 (0.04–12.28)
+
+0.85 (0.04–20.45)
+
+1.70 (0.05–58.05)
+
+0.39 (0.12–1.33)
+
+0.85 (0.22–3.25)
+
+Collagen based bone graft
+
+1.79 (0.08–41.92)
+
+1.79 (0.08–41.92)
+
+1.18 (0.33–4.25)
+
+1.53 (0.25–9.29)
+
+3.04 (0.29–32.34)
+
+0.47 (0.26–0.82)
+
+e-PTFE membranes
+
+1.18 (0.31–4.52)
+
+2.12 (0.11–40.68)
+
+2.12 (0.11–40.68)
+
+1.39 (0.71–2.71)
+
+1.81 (0.43–7.59)
+
+3.59 (0.44–29.11)
+
+0.49 (0.23–1.05)
+
+1.05 (0.41–2.67)
+
+1.24 (0.29–5.21)
+
+2.22 (0.11–44.76)
+
+2.22 (0.11–44.76)
+
+1.46 (0.64–3.34)
+
+1.90 (0.41–8.75)
+
+3.77 (0.43–32.76)
+
+0.51 (0.19–1.36)
+
+1.09 (0.35–3.33)
+
+1.28 (0.27–6.08)
+
+2.30 (0.11–49.15)
+
+2.30 (0.11–49.15)
+
+1.51 (0.53–4.31)
+
+1.97 (0.38–10.14)
+
+3.90 (0.42–36.66)
+
+0.52 (0.20–1.36)
+
+1.12 (0.37–3.36)
+
+1.32 (0.28–6.21)
+
+2.37 (0.11–49.51)
+
+2.37 (0.11–49.51)
+
+1.56 (0.56–4.34)
+
+2.03 (0.41–10.01)
+
+4.02 (0.44–37.22)
+
+0.57 (0.28–1.14)
+
+1.22 (0.51–2.93)
+
+1.44 (0.36–5.70)
+
+2.58 (0.13–51.20)
+
+2.58 (0.13–51.20)
+
+1.70 (0.77–3.71)
+
+2.21 (0.49–9.86)
+
+4.38 (0.52–36.92)
+
+0.61 (0.36–1.04)
+
+1.31 (0.62–2.80)
+
+1.55 (0.41–5.85)
+
+2.78 (0.15–52.81)
+
+2.78 (0.15–52.81)
+
+1.83 (0.97–3.43)
+
+2.38 (0.58–9.71)
+
+4.72 (0.59–37.96)
+
+0.67 (0.16–2.87)
+
+1.44 (0.31–6.72)
+
+1.70 (0.25–11.30)
+
+3.04 (0.12–78.44)
+
+3.04 (0.12–78.44)
+
+2.00 (0.45–8.89)
+
+2.60 (0.36–18.63)
+
+5.16 (0.43–61.62)
+
+0.81 (0.12–5.20)
+
+1.73 (0.25–12.07)
+
+2.04 (0.22–18.95)
+
+3.67 (0.12–113.73)
+
+3.67 (0.12–113.73)
+
+2.41 (0.36–16.11)
+
+3.13 (0.33–30.07)
+
+6.22 (0.40–96.43)
+
+0.88 (0.32–2.47)
+
+1.90 (0.61–5.94)
+
+2.24 (0.46–11.00)
+
+4.02 (0.18–87.54)
+
+4.02 (0.18–87.54)
+
+2.64 (0.89–7.83)
+
+3.43 (0.64–18.37)
+
+6.82 (0.71–65.36)
+
+Control
+
+2.15 (1.21–3.81)
+
+2.54 (0.75–8.57)
+
+4.55 (0.25–83.20)
+
+4.55 (0.25–83.20)
+
+2.99 (1.99–4.48)
+
+3.89 (1.03–14.67)
+
+7.72 (1.02–58.53)
+
+CGF: Concentrated growth factor, e-PTFE: Expanded polytetrafluoroethylene
+
+Treatment ranking and surface under the cumulative ranking curve
+
+presents the SUCRA rankograms for the 16 regenerative interventions evaluated in the NMA, whereasdepicts the corresponding radial SUCRA plot. The SUCRA value, which ranges from 0% to 100%, reflects the probability that a treatment ranks among the most effective options.
+
+Among all interventions, e-PTFE membranes combined with hydroxyapatite (P) exhibited the highest SUCRA value of 84.4% and achieved Rank 1, indicating the greatest probability of being the most effective treatment. This was followed by CGF + Xenogenic Bio-Oss collagen graft (E) with a SUCRA of 73.2% (Rank 2), and collagen membranes + bovine-derived hydroxyapatite (I) with a SUCRA of 70.8% (Rank 3). Other top-ranking interventions included CGF + hydroxyapatite (D) and hydroxyapatite alone (K), with SUCRA values of 67.4% and 67.8%, respectively.
+
+Conversely, control (J) had the lowest SUCRA score (12.2%), ranking 16, followed by collagen membranes (Ossix-plus) (H) and bioresorbable polylactic acid membrane (B), suggesting relatively limited effectiveness compared to other regenerative strategies.
+
+The radial SUCRA plot [] visually confirms these rankings, with top-performing interventions clustered toward the green outer circle, indicating higher efficacy.
+
+Figure 5
+
+Surface under the cumulative probability curve rankograms. SUCRA: Surface under the cumulative probability curve, APCs: Autologous platelet concentrates, CGF: Concentrated growth factors, PRP: Platelet-rich plasma, e-PTFE: Expanded polytetrafluoroethylene
+
+Leverage plot
+
+displays a leverage versus residual deviance plot, where each point represents a study in the NMA. The x-axis corresponds to the square root of the average residual deviance across the arms of each study, whereas the y-axis shows the average leverage across study arms. Most of the studies cluster below a leverage of 2 and a residual deviance of √ 1.5, suggesting acceptable model fit and low influence. A very few points lie outside the curved confidence boundaries, indicating potential outliers or influential studies [].
+
+Assessment of publication bias
+
+The netfunnel plot displays the standard error of effect size (y-axis) against the effect size centered at the comparison-specific pooled effect (x-axis) for all pairwise comparisons in the NMA. The symmetrical, inverted funnel shape with most data points evenly distributed around the vertical line at zero indicates minimal small-study effects or publication bias. Although some dispersion exists, there is no evident asymmetry or clustering of points outside the triangular region, suggesting that the results are unlikely to be significantly biased by selective reporting or study size []. However, many treatment contrasts are informed by few and/or small trials. This limits the power of funnel plot-based diagnostics in a network. Therefore, the absence of asymmetry should be interpreted.
+
+Figure 6
+
+Net funnel plot A = Autologous platelet concentrates; B = Bio-resorbable polylactic acid membrane; C = Bovine bone hydroxyapatite; D = Concentrated growth factors (CGF) + Hydroxyapatite; E = CGF + Xenogenic Bio-Oss collagen graft; F = Calcium sulphate graft; G = Collagen-based bone graft; H = Collagen membranes; I = Collagen membranes + Bovine-derived hydroxyapatite; J = Control; K = Hydroxyapatite; L = platelet-rich plasma; M = Xenogenic Bio-Oss collagen graft; O = Expanded polytetrafluoroethylene (e-PTFE) membranes; P = e-PTFE membranes + Hydroxyapatite
+
+Certainty assessment
+
+The CINeMA (Confidence in NMA) evaluation provides an assessment of the confidence in the effect estimates derived from the NMA across six domains: Within-study bias, across-studies bias, indirectness, imprecision, heterogeneity, and incoherence. According to the current analysis, out of 27 comparisons evaluated, the comparisons involving collagen membranes + bovine-derived hydroxyapatite versus control and collagen membranes versus e-PTFE membranes were rated as “high confidence.” These ratings were based on consistent evidence from multiple studies, low risk of bias, absence of significant heterogeneity or incoherence, and narrow CIs. The high confidence in these estimates reinforces their robustness and clinical reliability, especially when considering their repeatability across different settings and study designs [].
+
+In addition, a few other comparisons such as APCs versus collagen membranes + bovine derived hydroxyapatite, APCs versus Control, Bovine bone hydroxyapatite versus collagen membranes + bovine derived hydroxyapatite, bovine bone hydroxyapatite versus Control, CGF + Xenogenic Bio-Oss collagen graft versus Control, calcium sulphate graft versus control, collagen-based bone graft versus control, collagen membranes versus collagen membranes + bovine-derived hydroxyapatite, collagen membranes versus e-PTFE membranes, collagen membranes versus e-PTFE membranes + Hydroxyapatite, collagen membranes + bovine-derived hydroxyapatite versus collagen membranes, collagen membranes + bovine-derived hydroxyapatite versus e-PTFE membranes, control versus Xenogenic Bio-Oss collagen graft, control versus collagen membranes, control versus e-PTFE membranes + Hydroxyapatite, collagen membranes versus e-PTFE membranes, CGF + Xenogenic Bio-Oss collagen graft versus collagen membranes received moderate confidence ratings due to minor concerns in domains like imprecision or heterogeneity [].
+
+Comparisons involving APF or CGF versus collagen membranes or platelet-based interventions generally scored lower due to concerns about imprecision. The presence of wide CIs for some nodes in the network limited the interpretability of the effect sizes. Incoherence was generally low, suggesting consistency between direct and indirect estimates [].
+
+DISCUSSION
+
+The present umbrella review and NMA evaluated and hierarchically ranked 16 GTR interventions based on their comparative efficacy in treating complex periapical lesions through endodontic surgery. The use of a NMA framework allowed for simultaneous direct and indirect comparisons, enhancing interpretability across a broader set of regenerative strategies than what pairwise comparisons typically permit. The SUCRA-based ranking highlighted substantial variability in effectiveness among the interventions, with the most efficacious treatments consistently comprising a combination of barrier membranes and bone grafts.
+
+The highest-ranked intervention in the network was the combination of e-PTFE membranes with hydroxyapatite, which attained a SUCRA score of 84.4% and demonstrated significant superiority in pairwise comparisons, including an OR of 0.13 (95% CI: 0.02–0.98) when compared to the control. This strong performance can be attributed to the mechanical stability and space maintenance offered by the non-resorbable e-PTFE membrane, which prevents epithelial downgrowth alongside the osteoconductive and biocompatible properties of hydroxyapatite that support new bone formation.[] Such synergistic effects align with findings from Deng. and Sumangali., who both reported improved healing in through-and-through and large lesions when treated with this dual approach. Similarly, the combination of CGF and Xenogenic Bio-Oss collagen graft, ranked second with a SUCRA of 73.2%, performed strongly in odds-based comparisons and was shown to enhance healing outcomes through both scaffold support and autologous biological stimulation.[] Zubizarreta-Macho. demonstrated that CGF not only enhances angiogenesis but also delivers sustained release of growth factors, which is particularly beneficial in promoting tissue regeneration within surgically prepared periapical lesions.[]
+
+The third-ranking intervention, collagen membrane combined with bovine-derived hydroxyapatite, had a SUCRA of 70.8% and also showed robust comparative efficacy (OR = 0.33; 95% CI: 0.22–0.50). This combination has been repeatedly highlighted in clinical andstudies for its ability to facilitate primary wound closure, clot stabilization, and guided osteogenesis. Notably, the superior outcomes of combination therapies over monotherapies underscore the importance of a multimodal regenerative approach in managing compromised bony architecture, especially in apicomarginal or non-contained defects. Hydroxyapatite alone and CGF combined with hydroxyapatite ranked closely behind, with SUCRA values of 67.8% and 67.4%, respectively. While hydroxyapatite as a monotherapy lacks the compartmentalization function provided by membranes, its capacity to act as a scaffold for osteoblast migration explains its intermediate efficacy. When coupled with CGF, the addition of growth factors appears to improve clinical outcomes, though the benefit is still modest compared to membrane-graft combinations.
+
+Interventions like collagen membranes alone and APCs in isolation occupied a mid-tier position in the network. Collagen membranes, while useful in confined defects, degrade quickly and may lack sufficient rigidity to prevent soft tissue collapse, particularly in wide defects. Studies by Montero-Miralles. emphasized that collagen membranes are most effective when paired with a bone graft, thereby supporting their middling performance in the absence of such adjuncts.[] APCs, including PRF and CGF, though biologically active, are heavily dependent on preparation protocols and patient-specific variability, limiting their standalone predictability. Bio-Oss and collagen-based bone grafts also displayed average effectiveness. Their inability to prevent soft-tissue ingrowth without concurrent membrane placement likely limited their regenerative capacity, despite good biocompatibility.[]
+
+Calcium sulphate graft, bio-resorbable polylactic acid membranes, and collagen membranes such as Ossix-plus ranked near the bottom of the hierarchy. These materials, although resorbable and commercially accessible, suffer from drawbacks such as inconsistent degradation rates, limited structural integrity, and insufficient biological stimulation. Studies by Liu. and Flynn. reported moderate to poor outcomes when these biomaterials were used as monotherapies.[] The control group, which represented periapical surgery without any regenerative adjunct, performed the worst overall with the lowest SUCRA value (12.2%). This clearly reinforces the necessity of adjunctive RT in improving healing outcomes, especially in defects lacking all bony walls or in cases involving recurrent periapical pathology.
+
+The league table revealed that most high-ranking interventions yielded ORs below 1 when compared to control or other monotherapies, signifying a consistent treatment benefit. In particular, e-PTFE combined with hydroxyapatite outperformed nearly all comparators, including CGF, collagen-based bone grafts, and APCs, albeit with wider CIs in some cases reflecting limited sample sizes. On the contrary, interventions like bio-resorbable membranes and Ossix-plus consistently showed ORs above 1 when compared to more effective strategies, indicating a relatively higher risk of treatment failure. The narrow range of inconsistency factors across the network, all below 0.15, indicates strong coherence between direct and indirect comparisons, enhancing confidence in the ranking results. The majority of triangular and quadrilateral loops showed minimal heterogeneity, with only a single loop reporting non-zero heterogeneity (0.081), yet even this demonstrated an inconsistency factor of just 0.025, which remains within acceptable limits.
+
+Visual inspection of the net heat plot further confirmed the internal consistency of the network. Most comparisons appeared in blue, indicating low inconsistency, particularly those involving widely studied interventions such as collagen membranes, Bio-Oss, and control. Isolated areas of mild inconsistency were observed in complex combinations, such as e-PTFE membranes or collagen-based constructs with autologous concentrates, suggesting potential clinical heterogeneity in study populations, surgical protocols, or lesion types. The leverage plot showed that the network model fit was adequate, with most studies clustering below the threshold of residual deviance and leverage suggesting that no single study disproportionately influenced the network estimates.
+
+Publication bias assessment using the netfunnel plot showed a symmetrical distribution centered around the pooled effect estimates, suggesting minimal small-study effects or selective reporting bias. The inclusion of 48 primary studies from 14 systematic reviews, with overlapping contributions assessed using the CCA, ensured that the quantitative synthesis was not disproportionately influenced by duplicated data. Extraction at the primary study level further enhanced the accuracy of network estimates. However, despite these strengths, it must be acknowledged that the majority of effect estimates were classified as weak (Class IV), with only five demonstrating suggestive evidence (Class III), and none reaching Class I or II. This reflects the overall heterogeneity in study design, variability in lesion characteristics, and lack of standardized outcome reporting.
+
+In summary, this NMA provides evidence that regenerative strategies employing both barrier membranes and grafting materials yield the most predictable outcomes in endodontic surgery. The combination of e-PTFE membranes with hydroxyapatite appears to be the most effective intervention, followed by CGF and xenogenic collagen-based grafts. Treatments that rely solely on membranes, grafts, or autologous biologics without appropriate combinatorial support rank lower in effectiveness. These findings support a tailored, multimodal approach in clinical decision-making for surgical endodontics, particularly when managing large or non-contained lesions. Future randomized controlled trials should aim to directly compare top-performing interventions using standardized protocols, longer follow-up durations, and radiographic as well as patient-reported outcomes to strengthen the evidence base and enhance clinical translation.
+
+Recent syntheses completely get along with our central finding that regenerative adjuncts outperform surgery alone, with the most reproducible benefits observed for membrane-plus-graft strategies. A recent meta-analysis by Muthanna. reported superior healing on both 2D and 3D assessments and repeatedly favored collagen membrane with bovine hydroxyapatite, concordant with our high-ranking combinations and the class-level advantage of combination therapy.[] Similarly, Sabeti. 2025 identified CGF plus graft as yielding the best results around 12 months, which accords with our network’s performance of biologic-augmented grafts (CGF with xenogenic collagen graft) while highlighting the limitations of short follow-up and modest sample sizes.[]
+
+Our placement of e-PTFE plus hydroxyapatite at the top of the league table refines rather than contradicts prior evidence. Zubizarreta-Macho. ranked membrane plus graft (MB + Os) highest overall but did not isolate e-PTFE plus HA as uniquely superior.[] In contrast, ourNMA indicates a potential incremental advantage for e-PTFE plus HA, albeit with moderate certainty and imprecision. These findings prioritize head-to-head randomized trials against leading collagen-based combinations to determine whether the apparent edge persists under uniform protocols and longer follow-up.
+
+A major strength of this study lies in its comprehensive methodology, and its use of a NMA framework provided a robust comparative assessment of 16 different GTR interventions, facilitating both direct and indirect comparisons that would not have been possible through conventional pairwise meta-analysis. Furthermore, data were extracted at the primary study level to prevent overrepresentation due to overlapping sources, and quantitative evaluation of study redundancy using the CCA ensured methodological rigor. Consistency diagnostics, including loop-specific inconsistency factors, net heat plots, and leverage analyses, confirmed the internal validity of the model, while the SUCRA rankings offered clinically meaningful insights into treatment hierarchy, reinforcing the reliability and translational value of the findings.
+
+Despite its strengths, this review is not without limitations. The majority of the effect estimates included in the synthesis were rated as weak (Class IV) due to small sample sizes, methodological heterogeneity, and limited reporting quality across primary studies. Significant variation existed in lesion classification, surgical techniques, biomaterial properties, and follow-up periods, which could confound treatment effects and limit generalizability. Some interventions were evaluated in relatively few studies, resulting in wide CIs and imprecise estimates. In addition, although publication bias was minimal based on funnel plot symmetry, the potential for selective outcome reporting in source studies cannot be entirely excluded. Most of the included reviews also lacked standardized outcome measures such as CBCT-based volumetric assessment or validated clinical success criteria, thereby constraining the interpretability and comparability of the pooled results. Although previous literature emphasizes that through-and-through defects and large lesions (≥10 mm) are associated with poorer prognoses, our analysis could not stratify outcomes by lesion morphology because individual patient-level data were not available. Nonetheless, many of the primary studies contributing to the NMA reported that regenerative adjuncts, especially membrane + graft combinations, were most beneficial in complex lesions with compromised bony walls, whereas four-wall defects often healed predictably even without GTR. Thus, while our findings suggest that defect configuration may act as an effect modifier, this relationship remains indirect in the current synthesis and warrants confirmation in future RCTs with lesion-type-specific reporting. The assumptions of transitivity and consistency may be threatened if key effect modifiers such as defect size/configuration, imaging modality, operator experience, and follow-up duration are unevenly distributed across comparisons.
+
+Future research should prioritize the design and implementation of high-quality randomized controlled trials that directly compare top-ranking GTR interventions, particularly e-PTFE membranes with hydroxyapatite, and CGF-based graft combinations. These studies should employ standardized protocols for biomaterial preparation and application, consistent lesion classification systems, and clearly defined clinical and radiographic outcome measures with long-term follow-up. Inclusion of patient-centered outcomes such as pain, healing time, and quality of life will further strengthen the clinical relevance of findings.
+
+CONCLUSIONS AND CLINICAL RECOMMENDATIONS
+
+Comparing the relative effectiveness of various GTR techniques in endodontic surgery, the following conclusions could be drawn:
+
+The combination of e-PTFE membranes with hydroxyapatite demonstrates the highest probability of clinical success and should be considered the most effective GTR intervention based on current evidence
+
+Regenerative strategies that combine barrier membranes with bone grafts consistently outperform single-component therapies in terms of periapical healing and treatment predictability
+
+Collagen membranes combined with bovine-derived hydroxyapatite and CGF-based xenografts also show strong clinical potential and rank among the top-performing interventions
+
+Use of membranes alone or grafts without barrier support demonstrates intermediate efficacy, with variable outcomes depending on defect configuration and surgical technique
+
+APCs such as PRF and CGF show promise, especially in combination therapies, but exhibit inconsistent results when used alone
+
+Resorbable membranes like Ossix-plus and polylactic acid variants showed lower efficacy, particularly in large or non-contained lesions, and should be selected with caution
+
+Control groups (surgical intervention without any regenerative adjuncts) consistently exhibited the lowest success rates, highlighting the necessity of incorporating regenerative biomaterials in periapical surgery.
+
+CINeMA framework shows moderate certainty in most of the comparisons due to imprecision, heterogeneity, and limited sample sizes. Although specific material rankings remain tentative and reassuring, definitive guidance will require confirmation through future high-quality, well-designed randomized controlled trials.
+
+Conflicts of interest
+
+There are no conflicts of interest.
+
+Supplementary Figure 1
+
+Corrected covered area (CCA) matrix to check overlap of studies between systematic reviews
+
+Supplementary Figure 2
+
+Risk of bias summary graph – Risk of bias in systematic reviews tool
+
+Supplementary Figure 3
+
+Network forest plot - pairwise comparisons – 1. CI: Confidence interval, PrI: Prediction interval
+
+Supplementary Figure 4
+
+Network forest plot - pairwise comparisons – 2. CI: Confidence interval, PrI: Prediction interval
+
+Supplementary Figure 5
+
+Network forest plot - pairwise comparisons – 3. CI: Confidence interval, PrI: Prediction interval
+
+Supplementary Figure 6
+
+Network forest plot- pairwise comparisons -4. CI: Confidence interval, PrI: Prediction interval
+
+Supplementary Figure 7
+
+Network forest plot - pairwise comparisons – 5. CI: Confidence interval, PrI: Prediction interval
+
+Supplementary Figure 8
+
+Loop-specific inconsistency plot. IF: Inconsistency factor, CI: Confidence interval
+
+Supplementary Figure 9
+
+Radial surface under the cumulative probability curve plot. SUCRA: Surface under the cumulative probability curve, APCs: Autologous platelet concentrates, CGF: Concentrated growth factors, PRP: Platelet-rich plasma, e-PTFE: Expanded polytetrafluoroethylene
+
+Supplementary Figure 10
+
+Leverage plot
+
+Supplementary Figure 11
+
+Confidence in network meta-analysis plot for certainty assessment

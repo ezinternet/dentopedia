@@ -57,7 +57,7 @@ SR+MA following PRISMA. 798 studies identified; 5 RCTs/controlled studies includ
 (See wiki page for details)
 
 ## 6. Related Work
-- [[implants/cosola-2020-bone-tissue-level-radiological-sr]] — SR on BL vs TL radiological MBL outcomes
+- [[implants/mbl/cosola-2020-bone-tissue-level-radiological-sr]] — SR on BL vs TL radiological MBL outcomes
 - [[implants/mortazavi-2021-bone-loss-tissue-bone-level-implants]] — SR on bone loss factors TL vs BL
 - [[implants/solderer-2025-tissue-level-implant-bone-loss-factors]] — retrospective: TL implant risk factors for MBL
 

@@ -6,7 +6,7 @@ date: 2026-04-15
 doi: 10.3390/dj14040236
 source: prpic-2026-emergence-angle-profile-implant-restorations-scoping.md
 category: implants/soft-tissue
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "42041689"

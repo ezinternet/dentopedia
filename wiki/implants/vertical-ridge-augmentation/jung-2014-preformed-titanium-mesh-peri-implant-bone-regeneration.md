@@ -6,7 +6,7 @@ date: 2014-08-01
 doi: 10.5125/jkaoms.2014.40.4.181
 source: jung-2014-preformed-titanium-mesh-peri-implant-bone-regeneration.md
 category: [implants/vertical-ridge-augmentation]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/jung-2014-preformed-titanium-mesh-peri-implant-bone-regeneration.pdf
 pdf_filename: jung-2014-preformed-titanium-mesh-peri-implant-bone-regeneration.pdf
 source_collection: external

@@ -1,0 +1,122 @@
+Functional outcomes of total temporomandibular joint replacement with customized prostheses: a clinical case series
+
+PMID: 41466547
+PMCID: PMC12766021
+DOI: 10.5125/jkaoms.2025.51.6.397
+Source: PubMed Central (PMC), retrieved via PubMed MCP get_full_text_article
+
+Authors: Guzmán Gonzalo Martinovic, Radnic Josefina Silva, Riquelme Sofía Escobar, Cazenave Juan Pablo Salinas, Gómez Paola Lillo, Maldonado Jaime Mayorga, Álvarez Carlos Plaza, Hausdorf Karen Danke
+
+Abstract
+
+Objectives
+
+To report the clinical and functional outcomes of patients undergoing total temporomandibular joint (TMJ) replacement with customized prostheses.
+
+Materials and Methods
+
+Six female patients treated between 2018 and 2024 for advanced TMJ pathology—severe osteoarthritis (n=5) or condylar osteochondroma (n=1)—were included. All underwent unilateral total joint replacement using customized prostheses planned with cone-beam computed tomography and magnetic resonance imaging. Interincisal mouth opening (IMO), pain (visual analog scale), jaw function (JF), and dietary intake (DI), assessed through a Likert-type psychometric scale, were recorded preoperatively and during a minimum follow-up of 24 months.
+
+Results
+
+All patients showed postoperative improvement. Median JF decreased from 6.5 to 3.5, DI from 8 to 1.5, and pain from 7 to 2. Postoperative IMO averaged 32 to 33 mm. One patient required revision for screw displacement without long-term functional compromise.
+
+Conclusion
+
+Customized TMJ prostheses proved safe and effective, demonstrating consistent improvements in pain, mandibular function, and dietary capacity in patients with severe joint disease. This approach represents a reliable therapeutic option when combined with individualized surgical planning.
+
+Full Text
+
+I. Introduction
+
+The temporomandibular joint (TMJ) plays a critical role in essential functions such as mastication, swallowing, speech, and airway maintenance. Constantly subjected to mechanical loading, it also serves as a growth center during childhood. In advanced stages of joint pathology, total joint replacement (TJR) with a customized prosthesis may represent the only viable therapeutic approach, particularly when restoring anatomical structure and function, or correcting esthetic deformities such as posterior vertical deficiency, often in conjunction with orthognathic surgery indicated for functional or esthetic purposes.
+
+Indications for total TMJ replacement include congenital malformations, severe osteoarthritis, ankylosis, severe inflammatory disease such as rheumatoid arthritis, and idiopathic condylar resorption, trauma, neoplasms, and failed prior reconstructions. These conditions may present with a constellation of symptoms, including chronic pain, restricted mandibular mobility, progressive deviation of the dental midline, and persistent headaches, all of which significantly compromise quality of life.
+
+Early diagnosis of temporomandibular disorders (TMDs) is feasible, but it is often underperformed due to the subtlety of initial clinical signs. However, advanced disease is typically characterized by limited mouth opening, reduced lateral excursions, pain on jaw function (JF), and mandibular deviation or progressive mandibular retrusion. Magnetic resonance imaging (MRI) aids in the evaluation of soft tissue and internal joint derangements, while cone-beam computed tomography (CBCT) remains the gold standard for precise assessment of osseous structures.
+
+Initial management of TMD typically involves conservative strategies such as pharmacological therapy, physiotherapy, and occlusal splints. In refractory cases, surgical interventions, including arthrocentesis, arthroscopy, arthroplasty, or TJR, may be required. Among these, TJR has demonstrated high safety and efficacy, with advantages such as decreased morbidity, elimination of donor-site grafts, shorter operative time, and a lower risk of postoperative resorption. These benefits translate into improved pain control, mandibular function, and overall patient well-being. Recent advances in three-dimensional imaging and computer-aided surgical planning have enabled the development of patient-specific prostheses, enhancing surgical precision and prosthetic adaptation.
+
+This clinical case series aims to present the functional and clinical outcomes observed in patients with severe TMJ pathology treated with TJR using customized prosthetic devices. Particular consideration is given to postoperative changes in mandibular range of motion, functional performance, dietary intake (DI), and pain levels.
+
+II. Materials and Methods
+
+1. Patient information
+
+This case series comprises six female patients (100%) with a mean age of 56.5±13.28 years, who underwent total TMJ replacement at the Maxillofacial Surgery Department of the Hospital Militar de Santiago between September 2018 and February 2024. All patients presented advanced and destructive TMJ pathology, including severe osteoarthritis (n=5; 83.3%) and condylar Osteochondroma (n=1; 16.7%). Half of the patients (50.0%) had a history of one or more previous TMJ surgeries prior to undergoing TJR. The laterality of involvement was 55.6% on the left side and 44.4% on the right side.
+
+2. Clinical findings
+
+All cases exhibited pronounced structural degeneration of the TMJ, with clinical manifestations such as chronic mandibular pain, marked limitation in mouth opening, deviation of the dental midline, and impaired mastication. Additional symptoms included persistent headaches and progressive mandibular retrusion in selected patients. Diagnosis was established through comprehensive clinical examination and supported by imaging modalities including MRI and CBCT, which were essential not only for confirming surgical indications but also for enabling accurate, patient-specific three-dimensional prosthetic planning. Furthermore, all patients underwent evaluation and management of associated muscular conditions until achieving muscular stability before surgery.
+
+Clinical data were collected preoperatively (ranging from 1 month to 1 week before surgery) and during postoperative follow-up, with a minimum observation period of 24 months. Four clinical variables were evaluated:
+
+- Interincisal mouth opening (IMO): was measured in millimeters using the TheraBite Jaw Motion Rehabilitation System (Atos Medical AB).
+- Jaw function (JF): Self-assessed by patients using a Likert-type psychometric scale (LTPS)
+- Dietary intake (DI): Also evaluated via LTPS
+- Pain: Quantified using a visual analog scale (VAS)
+
+The scales were interpreted as follows:
+
+JF (LTPS)
+- 0 to 3 = Normal movements (ability to chew freely/effortless chewing)
+- 4 to 7 = Minimal impairment in JF - restricted protrusion movements (Can chew with minimal discomfort)
+- 8 to 9 = Severe impairment (Can perform minimal protrusion/strenuous chewing)
+- 10 = No movements
+
+DI (LTPS)
+- 0 to 3 = Ability to chew food of any consistency
+- 4 to 7 = Can chew solid foods with minimal discomfort
+- 8 to 9 = Difficulty in chewing solid foods. Can consume semi solid foods with minimal discomfort
+- 10 = Only liquids
+
+VAS: 0 = No pain; 10 = Worst imaginable pain
+
+3. Therapeutic interventions
+
+All procedures were carried out by a team of four maxillofacial surgeons (G.M., P.L., J.M., and C.P.). Each patient underwent total TMJ replacement using customized prosthetic systems from TMJ Customized Prosthesis (ARTFIX Implants) and TMJ Prosthesis System (CPMH Digital), which were designed based on CBCT data.
+
+The same operative and perioperative protocol was performed in all cases. In two patients, prosthetic replacement was carried out in combination with bimaxillary orthognathic surgery (Le Fort I and bilateral sagittal split osteotomy). All procedures were performed in a central operating room under general anesthesia, with skin asepsis using povidone-iodine. Four to six QuickFix screws (DePuy Synthes) were placed in the attached gingiva of the maxilla and mandible for subsequent intermaxillary fixation with wire loops. The surgical field was prepared with a 3M Ioban 2 antimicrobial incise drape. Local anesthetic infiltration in the preauricular region was performed with 1 cartridge (1.8 mL) of lidocaine 2% with epinephrine 1:100,000.
+
+An endaural approach was performed on the affected side, with blunt dissection through tissue planes to the TMJ until the zygomatic arch was identified. Subperiosteal dissection and capsulotomy were carried out, followed by discectomy. The fossa cutting and drilling guide was positioned, osteotomy of the articular eminence performed, and perforations marked. An ipsilateral submandibular approach was then made, with dissection through planes to the pterygomasseteric sling, incision and subperiosteal dissection, and connection with the superior approach. The condylar cutting and drilling guide was positioned, and osteotomy with piezoelectric instrumentation performed according to the surgical plan, followed by removal of the condylar segment. The glenoid component was placed and fixed with four screws, and the condylar component was fixed with six to nine locking screws. The surgical field was irrigated, hemostasis achieved, intermaxillary fixation removed, and mandibular dynamics checked. The prosthesis was irrigated with gentamicin solution, and the joint was covered with an autologous abdominal fat graft harvested by the plastic surgery team. Layered closure was performed with 4-0 Vicryl, and skin was sutured with 5-0 nylon.
+
+Postoperative care included relative rest, a soft/pureed diet, continuous local cold application, and chlorhexidine 0.12% mouth rinse three times daily. Analgesia consisted of intravenous metamizole 1 g plus ketorolac 10 mg, and paracetamol 1 g every 8 hours. Additional medications included cefazolin 1 g every 12 hours, dexamethasone 4 mg every 8 hours, and ondansetron 8 mg/4 mL. Kinesiotherapy specific to joint prostheses was initiated one week after surgery, following the hospital protocol for neuromuscular re-education, edema control, and training of mandibular opening and closing patterns.
+
+III. Results
+
+Functional outcomes at 24 months postoperatively are summarized. All evaluated clinical parameters demonstrated notable improvement:
+
+- IMO: Postoperative mean measurements were 32 mm passively and 33 mm with gentle force. Preoperative values were not consistently documented, limiting direct comparison.
+- JF: Median score improved from 6.5 preoperatively to 3.5 postoperatively.
+- DI: Median score improved from 8.0 to 1.5.
+- Pain (VAS): Median score decreased from 7 to 2.
+
+All patients exhibited favorable postoperative courses without major complications. One case required surgical revision at six months due to screw displacement; however, this did not result in any functional impairment.
+
+IV. Discussion
+
+TMD in older adults, particularly those over 65, frequently present as degenerative joint disease. Radiographic evidence suggests that between 45% and 70% of individuals in this age group show degenerative changes in the TMJ, although most remain minimally symptomatic. In cases with clinical manifestations, the disease course is often self-limiting, with symptoms resolving within 5-8 years after the initial diagnosis, while approximately 15% of patients experience progression of the degenerative process. A higher prevalence among females has been consistently reported, a trend reflected in our case series, where all patients were women with a mean age of 56.5 years.
+
+Patient-reported outcomes related to JF and DI were evaluated using the LTPS, as described by Bhargava et al. In our cohort, JF improved by 3 points (from 6.5 to 3.5), and DI improved by 6.5 points (from 8 to 1.5). These outcomes are in line with Bhargava, who reported a 4.2-point (54.5%) improvement in JF and a 5.6-point (55.6%) improvement in DI. Similarly, Wolford et al. documented comparable functional gains following total TMJ replacement.
+
+Pain, assessed using the VAS, showed a 5-point reduction, mirroring findings by Gonzalez-Perez et al., who reported a decrease from 5.9 to 1 over a five-year follow-up. Bhargava described a 75% reduction in postoperative pain, while Wolford et al. noted a statistically significant 3-point decrease (p<0.001). These data support the sustained analgesic benefits associated with total TMJ replacement.
+
+Postoperative IMO reached mean values of 33 mm, although preoperative records were unavailable, precluding a direct comparison. Nonetheless, these values fall within the functional range reported in the literature. For example, Bhargava observed a mean increase of 30.48 mm in patients with severe ankylosis; Gonzalez-Perez et al. documented a 0.7 cm (20%) increase; and Wolford et al. reported an improvement from 25.8 mm to 36.2 mm.
+
+Concerning surgical history, a systematic review by Johnson et al. found that patients with two or fewer prior arthrotomies achieved a 63.1% subjective improvement in parameters such as pain, JF, and DI, compared to those with multiple prior surgeries. The number of previous interventions was proposed as a prognostic factor for treatment outcomes. In our series, three patients had a history of prior TMJ surgeries, yet no apparent correlation with poorer outcomes was observed, likely attributable to the limited sample size.
+
+Regarding prosthetic design, all patients received customized prostheses. Although stock devices are more readily available, they are associated with higher risks of instability, dislocation, and inadequate adaptation to host bone, especially in anatomically complex cases. Custom-made prostheses offer superior integration with residual bone structures, a critical advantage in patients with compromised bone quality or multiple failed reconstructions. These devices reduce the risk of mechanical failure and enhance functional outcomes by addressing the anatomical limitations inherent in standard prosthetic designs. In line with this, alternative reconstructive approaches have also been reported. For example, Bai et al. described a TMJ capsule suspension technique to stabilize the neocondyle during TMJ reconstruction with a free fibular flap, highlighting complementary strategies for complex joint reconstruction.
+
+The most frequently reported complications associated with TMJ prosthetic surgery include facial nerve injury, prosthetic infection, heterotopic ossification, hypersensitivity reactions, and severe intraoperative hemorrhage. In our series, only one patient experienced a complication: persistent pain at six months postoperatively. For evaluation, a CBCT of the area was requested, which revealed the displacement of the condylar screw. To resolve the condition, the screw was removed under general anesthesia using the same surgical approach previously employed. The screw was identified and extracted without complications. Subsequently, thorough irrigation of the joint was performed with 0.9% saline solution. No other clinically relevant findings were observed upon inspection. Anti-inflammatory medication and an antibiotic regimen were prescribed, along with complementary kinesiotherapy. Full functional recovery and resolution of symptoms was achieved.
+
+A recent systematic review by Ravelo et al. confirmed that customized TMJ prostheses represent a reliable therapeutic option for degenerative joint disease, reporting survival rates close to 97% and consistent improvements in pain, function, and interincisal opening. Long-term follow-up studies, such as the 14-year evaluation of the TMJ Concepts patient-fitted prosthesis by Wolford et al., further support the safety, effectiveness, and durability of these devices. Similarly, in a clinical analysis by Olate et al., patients treated exclusively with custom-made ARTFIX Implants prostheses demonstrated significant improvements in mouth opening, pain reduction, and functional outcomes, with a high success rate and no prosthetic failures reported during follow-up. In line with these findings, our case series with customized ARTFIX Implants devices also showed marked improvement in IMO, DI, JF, and VAS. Furthermore, despite using prostheses from different commercial brands, both systems share common design features; for instance, the manufacturer of CPMH Digital prostheses specifies a "titanium fossa with sintered polyethylene insert" and interchangeable locking screws for stable fixation. These similarities in design and materials may help explain the consistent favorable outcomes in IMO, DI, JF, and VAS observed in our series.
+
+However, this study has several limitations inherent to its design. As a retrospective case series, the small sample size, relatively limited follow-up duration, and absence of consistent preoperative data on mouth opening hinder comprehensive comparative analysis. Additionally, no statistical tests were applied to assess the significance of observed outcomes, due to the descriptive nature of the study.
+
+For future research, we recommend expanding the sample size and extending the follow-up period to more thoroughly assess the long-term stability and clinical effectiveness of TMJ prostheses. Furthermore, implementing a standardized protocol for the measurement of interincisal opening, JF, and pain would enhance the reproducibility and objectivity of outcome assessment, contributing to a more robust evaluation of treatment efficacy.
+
+V. Conclusion
+
+Total TMJ replacement using customized prostheses proved to be a safe and effective treatment modality for patients with severe joint pathology. This intervention resulted in marked improvements in IMO, JF, DI, and pain perception, as reported by patients through standardized evaluation scales.
+
+Although the small sample size limits the generalizability of these findings, the outcomes are consistent with current literature and reinforce the clinical value of this therapeutic approach. Further research involving larger patient cohorts, extended follow-up periods, and the use of standardized assessment protocols is essential to validate and expand upon these preliminary results.

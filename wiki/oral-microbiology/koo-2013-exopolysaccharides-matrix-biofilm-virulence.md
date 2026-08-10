@@ -6,7 +6,7 @@ date: 2013-12-01
 doi: "10.1177/0022034513504218"
 source: koo-2013-exopolysaccharides-matrix-biofilm-virulence.md
 category: [oral-microbiology]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/koo-2013-exopolysaccharides-matrix-biofilm-virulence.pdf
 pdf_filename: koo-2013-exopolysaccharides-matrix-biofilm-virulence.pdf
 source_collection: external

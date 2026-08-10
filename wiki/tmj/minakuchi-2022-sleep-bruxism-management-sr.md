@@ -6,7 +6,7 @@ date: 2022-01-01
 doi: 10.1016/j.jdsr.2021.12.001
 source: minakuchi-2022-sleep-bruxism-management-sr.md
 category: [tmj]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/minakuchi-2022-sleep-bruxism-management-sr.pdf
 pdf_filename: minakuchi-2022-sleep-bruxism-management-sr.pdf
 source_collection: external

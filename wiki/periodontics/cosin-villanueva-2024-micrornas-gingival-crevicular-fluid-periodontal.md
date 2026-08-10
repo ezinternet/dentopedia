@@ -6,7 +6,7 @@ date: 2024-07-29
 doi: 10.3390/ijms25158274
 source: cosin-villanueva-2024-micrornas-gingival-crevicular-fluid-periodontal.md
 category: [periodontics]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "39125843"
@@ -70,4 +70,4 @@ The recurrently studied and clinically relevant miRNAs are **miR-146a, miR-200b 
 
 ## Related Papers
 
-- [[periodontics/donertas-2026-gbt-subgingival-debridement-gcf-biomarkers]] — extends the same GCF-biomarker theme from proteins/cytokines to the epigenetic (miRNA) layer
+- [[periodontics/non-surgical-instrumentation/donertas-2026-gbt-subgingival-debridement-gcf-biomarkers]] — extends the same GCF-biomarker theme from proteins/cytokines to the epigenetic (miRNA) layer

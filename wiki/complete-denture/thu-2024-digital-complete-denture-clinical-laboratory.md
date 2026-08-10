@@ -6,7 +6,7 @@ date: 2024-11-01
 doi: 10.1016/j.prosdent.2023.10.016
 source: thu-2024-digital-complete-denture-clinical-laboratory.md
 category: [complete-denture]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/thu-2024-digital-complete-denture-clinical-laboratory.pdf
 pdf_filename: thu-2024-digital-complete-denture-clinical-laboratory.pdf
 source_collection: external

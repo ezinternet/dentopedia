@@ -3,7 +3,7 @@
 
 논문 1편 추가부터 사이트 반영까지의 표준 작업 절차. 본인 참고용.
 
-작성: 2026-05-21 · v1 / 개정: 2026-06-23 · v2
+작성: 2026-05-21 · v1 / 개정: 2026-06-23 · v2 / 2026-07-15 · v3 / 2026-07-19 · v3.1 (relations: 방향 규칙 추가, 같은 날 두 번 뒤집힘 — 최종: 발행연도 무관·내용 관계로 판단) / 2026-07-20 · v3.2 (daily-audit 15→20종 정정, superseded_by SSOT 이원화 명시 — 필드는 INGEST.md·판단사다리는 evidence-ladder.md, §1-ter/evidence-ladder.md 상호 참조 정정)
 
 ---
 
@@ -13,10 +13,10 @@
 PDF                                      GitHub
  ↓                                         ↑
 papers/  →  sources/  →  wiki/    →    git push
-            (영문 요약)   (영문 + 한줄요약)        ↓
+            (영문 요약)   (영문 + 세줄요약)        ↓
                                        GitHub Actions
                                          ↓ (자동)
-                                  ezinternet.github.io/dentopedia/
+                             ezinternet.github.io/dentopedia/
 ```
 
 - **3-tier 구조**: 원본 PDF → 영문 summary → wiki page
@@ -49,46 +49,52 @@ Cowork 세션 열고 한 줄:
 papers/ 폴더에 새로 들어온 PDF들 다 ingest해줘
 ```
 
-Claude가 자동 수행 (CLAUDE.md Step 1~4):
+Claude가 자동 수행 (**전체 절차는 `INGEST.md` Step 0~5** — 2026-07-15 CLAUDE.md에서 분리):
 
 1. PDF 텍스트 추출 (pypdf, 15페이지)
 2. 표준 stem으로 rename (`{author}-{year}-{title-5-words}.pdf`)
-3. `sources/{stem}.md` 작성 (영문 요약, 7섹션)
-4. `wiki/{category}/{stem}.md` 작성 (영문 wiki + 한줄요약 + frontmatter)
+3. `sources/{stem}.md` 작성 (영문 요약, 7섹션 + `## Why Ingested`)
+4. `wiki/{category}/{stem}.md` 작성 (영문 wiki + bilingual **Three-line Summary + 세줄요약** + frontmatter)
 5. `index.md`의 해당 카테고리에 한 줄 entry 추가
+
+2편 이상 일괄 인제스트는 subagent 병렬(PHASE 1) 후 부모가 직렬 finalize(PHASE 2) — `INGEST.md` 참조. PHASE 2의 `scripts/ingest-one.py --finish <stem>`가 **파일별 git commit + push + qmd 재색인**까지 자동 수행하므로, 아래 Step 3~5의 수동 lint·commit·push는 단일 논문 수동 인제스트나 문제 진단용 fallback이다.
 
 ### Step 3 — 로컬 lint 점검 (선택, 권장)
 
 ```bash
 cd ~/llm-wiki
-python3 scripts/lint.py                          # frontmatter 필수 9개 필드
+python3 scripts/lint.py                          # frontmatter 필수 필드 (evidence_level 포함)
 python3 scripts/orphan-check.py                  # PDF ↔ sources 1:1 매칭
 python3 scripts/find-no-wiki.py                  # 모든 paper에 wiki 페이지
+python3 scripts/operations-lint.py               # OPERATIONS cross-link chain
 python3 scripts/supersession-audit.py --ci       # 깨진 링크·배너 desync → exit 1
 ```
 
-4개 모두 ✅이면 GitHub Actions도 통과 확신. `--ci`는 decay 후보는 무시하고 hard error(dangling / desync / transitivity chain)만 잡는다.
+5개 모두 ✅이면 GitHub Actions도 통과 확신. `--ci`는 decay 후보는 무시하고 hard error(dangling / desync / transitivity chain)만 잡는다.
+
+전체 20종 audit(에러 4 + 신호 16)을 한 번에 돌리려면:
+
+```bash
+python3 scripts/daily-audit.py                   # 20 audit 단일 진입점 → logs/ 기록
+```
 
 ### Step 4 — git commit + push
 
+> **파일별 개별 커밋이 표준이다** (전역 규칙 + `INGEST.md` PHASE 2). 정상 인제스트 경로에서는 `ingest-one.py --finish`가 이걸 자동 처리하므로 아래는 수동 fallback일 때만 쓴다. 수동일 때도 `git add -A` 한 방 커밋 대신 파일별로 나눠 커밋한다:
+
 ```bash
 cd ~/llm-wiki
-git add -A
-git commit -m "Add: {paper title or category summary}"
+git add sources/{stem}.md && git commit -m "sources: add {stem}"
+git add wiki/{category}/{stem}.md && git commit -m "wiki({category}): add {stem}"
+git add index.md && git commit -m "index: link {stem}"
 git push origin main
-```
-
-한 줄 압축:
-
-```bash
-cd ~/llm-wiki && git add -A && git commit -m "Add new paper(s)" && git push
 ```
 
 ### Step 5 — 자동 deploy 확인
 
 push 후 1~2분, 다음 확인:
 
-- Actions: https://github.com/ezinternet/llm-wiki/actions — 두 workflow 모두 ✅
+- Actions: https://github.com/ezinternet/dentopedia/actions — 두 workflow 모두 ✅
 - 사이트: https://ezinternet.github.io/dentopedia/ — 새 페이지가 explorer + graph 노드에 반영
 
 ---
@@ -131,7 +137,9 @@ PMC 없는 건(Elsevier·JOMI 등)은 Unpaywall·self-archive를 더 탐색 → 
 
 ## 1-ter. Supersession 판단 — ingest 시 결론 충돌 처리 (2026-06-23 추가)
 
-> **이 위키의 핵심 가치.** 논문은 누구나 쌓는다. "옛 결론과 새 결론이 충돌할 때 어느 쪽이 현재 정설인가"의 지도(`superseded_by`)만이 이 위키 고유의 자산이다. 이게 없으면 검색 시 2018년·2024년 논문이 동등한 무게로 튀어나와 모순 더미가 된다. CLAUDE.md `superseded_by:` 스펙(영어)을 임상 판단 순서로 풀어쓴 것.
+> **이 위키의 핵심 가치.** 논문은 누구나 쌓는다. "옛 결론과 새 결론이 충돌할 때 어느 쪽이 현재 정설인가"의 지도(`superseded_by`)만이 이 위키 고유의 자산이다. 이게 없으면 검색 시 2018년·2024년 논문이 동등한 무게로 튀어나와 모순 더미가 된다.
+
+> **SSOT 안내.** 이 섹션은 필드 스펙과 판단 사다리를 임상 판단 순서로 엮어 풀어쓴 human-facing 버전이다 — 프론트매터 필드 정의(`superseded_by:`/`superseded_scope:`, 배너 포맷)의 단일 출처는 **`INGEST.md`**, "어느 등급이 어느 등급을 이기나"의 판단 사다리는 **`references/evidence-ladder.md`**. 두 파일이 바뀌면 이 절차 설명도 같이 갱신한다.
 
 **새 논문 인제스트마다 한 번 묻는다: "이게 기존 어느 페이지의 결론을 흔드나?"** forward-only — 과거 전수조사는 안 함, 들어올 때 한 번만 판단.
 
@@ -177,7 +185,7 @@ frontmatter:
 superseded_by: tisci-2026-isq-it-mbl-survival-sr-ma   # 새 stem, >1이면 콤마
 superseded_scope: full                                 # full | partial
 ```
-본문 최상단(frontmatter 직후, `## One-line Summary` 앞) 배너 — **왜 대체됐는지 수치를 적어** 나중에 1초 검증 가능하게:
+본문 최상단(frontmatter 직후, `## Three-line Summary` / `## 세줄요약` 앞) 배너 — **왜 대체됐는지 수치를 적어** 나중에 1초 검증 가능하게:
 ```markdown
 > [!warning] Superseded (full) → [[tisci-2026-isq-it-mbl-survival-sr-ma]]
 > 48-study SR+MA (r=0.44, p<0.001) overturns this 12-study NS result. (set 2026-06-23)
@@ -193,6 +201,16 @@ superseded_scope: full                                 # full | partial
 
 ---
 
+## 1-quater. `relations:` 방향 — 발행연도 무관, 내용 관계로 판단 (2026-07-19, 같은 날 두 번 뒤집힘 — 최종 정리)
+
+> 필드 전체 스펙(vocabulary 5종·순환 참조 금지 등)의 SSOT는 **`INGEST.md`**다.
+
+**결론: `type:`(extends/reinforces/refines/contradicts/applies-to)은 두 논문의 발행연도 선후와 무관하다.** 판단 기준은 "이 논문의 결과가 저 논문의 주장을 확장/보강/한정/반박/적용하는가"라는 **내용 관계**뿐이다. 유일하게 남는 제약은 기계적인 것 하나 — `target`은 이미 `wiki/`에 존재하는 stem이어야 한다(없는 페이지는 못 가리킴). 같은 배치로 병렬 인제스트되는 형제 논문끼리는 서로의 파일이 아직 디스크에 없으므로 typed edge를 못 달고 `## Related Papers` 프로즈로만 남긴다 — 이건 발행연도와 무관하게 항상 적용되는 규칙이다.
+
+**같은 날 있었던 시행착오** (참고용, 재논쟁 방지): 골막이완절개 8편 인제스트 중 typed edge 하나(`ogata-2013 extends→ plonka-2017`)가 이상해 보여서 "발행연도 선후가 축이어야 한다"는 규칙으로 고쳤다가, 기존 위키 전체를 `relations-audit.py`로 훑어보니 typed edge 2,432개 중 **815개(33.5%)가 그 규칙을 위반**했고 — 심지어 INGEST.md 자체의 예시 코드 절반도 위반이었다. 즉 발행연도 축은 이 위키의 실제 관례였던 적이 없었다. 최종적으로 "내용 관계면 충분, 발행연도 무관"으로 정리했고, 그 과정에서 제거했던 typed edge 4개(ogata-2013·bahaa-2022·pohl-2023·hur-2025)는 원복했다.
+
+---
+
 ## 2. 자동화 수준별 옵션
 
 | 옵션 | 사용자 작업 | Trade-off |
@@ -202,6 +220,32 @@ superseded_scope: full                                 # full | partial
 | **C. ingest-watcher 활용** | PDF 떨어뜨림만 | 가장 자동화. watcher 기능 범위 사전 확인 필요 |
 
 `.claude/scripts/ingest-watcher.log` 존재 — watcher가 셋업되어 있음. 기능 범위 확인 필요.
+
+### 검색 색인 — 자동인 것과 아닌 것 (2026-07-17 실측)
+
+세 옵션 모두 **논문 인제스트만** 자동으로 재색인한다. 그 외 편집은 **아무것도 자동이 아니다.**
+
+| 경로 | 재색인 |
+|---|---|
+| 논문 인제스트 (`ingest-one.py --finish`, watcher 포함) | ✅ 자동 |
+| **위키/오버뷰/agenda/note-meeting 손수정** | ❌ **수동** |
+| 감사·로그·interactives·scripts 변경 | 불필요 (색인 대상 아님) |
+
+**규칙: `wiki/`·`sources/`·`agenda/`·`note-meeting/`의 `.md`를 손으로 고쳤으면 그날 안에 한 번.**
+
+```bash
+cd /Users/oracleneo/llm-wiki && qmd update && qmd embed
+# 완료 신호는 오직: "All content hashes already have embeddings"
+```
+
+파일별이 아니라 **리포 전체**를 훑으므로 그날 한 번이면 그날 편집분이 다 들어간다.
+
+**흔한 오해 3가지:**
+- *"`embed-until-done` launchd 잡이 알아서 하지 않나?"* — 아니다. 큰 백로그를 끝까지 드레인하는 용도(단일 pass가 ~30분에 세션 만료로 죽으므로)이고, `RunAtLoad` + 완료 시 정지다. **주기 잡이 아니고 `qmd update`는 아예 안 돈다.**
+- *"`qmd update`가 '5667 files need vectors'라는데 백로그가 쌓인 건가?"* — 아니다. 그 숫자는 전체 파일 수라 항상 저렇게 나온다. 진짜 백로그는 `qmd status`의 `Pending:`.
+- *"안 돌려도 페이지는 고쳐졌으니 괜찮지 않나?"* — 아니다. **검색이 고치기 전 내용을 계속 내놓는다.** 페이지는 맞는데 답이 틀리는, 어떤 감사에도 안 잡히는 실패다. 2026-07-17에 철회 논문 페이지를 고쳐놓고 빠뜨려 10시간 동안 철회 경고 없는 옛 청크가 검색됐다.
+
+**왜 자동화하지 않았나** (2026-07-17 검토): 커밋 로그 실측 결과 색인 대상을 고친 55일 중 23일(42%)이 그날 인제스트가 없어 노출됐으나, 이는 **영구 누락이 아니라 지연**이다 — 다음 인제스트가 결국 쓸어담고, 7월엔 인제스트가 잦아 그 창이 짧았다. 재색인은 git에 흔적을 안 남기고 `embed-until-done.log`엔 타임스탬프가 없어 **실제 누락은 측정 불가**다. 42%는 "놓친 날"이 아니라 "노출된 날"이므로, 이 숫자로 훅·주기잡을 만들면 근거 없이 자동화를 늘리는 것. 진짜 위험은 **"위키를 크게 고쳤는데 그날 논문이 안 들어온 날"**이며 그건 습관으로 막는 게 싸다.
 
 ---
 
@@ -276,7 +320,7 @@ python3 scripts/supersession-audit.py --ci
 
 원인: 새 wiki/{category}/{stem}.md frontmatter에 필수 필드 누락 또는 잘못된 값.
 
-필수 9개 필드:
+필수 필드:
 
 ```yaml
 ---
@@ -286,13 +330,13 @@ year: YYYY
 doi: 10.xxxx/xxxx
 source: {stem}.md
 category: [category-folder]
-confidence: sr+ma           # 또는 rct/prospective/retrospective/...
+evidence_level: sr+ma       # (구 confidence:, 2026-07-15 rename) 또는 rct/prospective/...
 pdf_path: /Users/oracleneo/llm-wiki/papers/{stem}.pdf
 pdf_filename: {stem}.pdf
 ---
 ```
 
-`confidence` 값은 12개 중 하나 (sr+ma, sr, rct, prospective, retrospective, cross-sectional, case-report, in-vivo, animal, in-vitro, narrative-review, consensus).
+`evidence_level` 값의 전체 목록(13개 study type + 4개 non-research 라벨)은 `INGEST.md`가 단일 출처. lint는 `evidence_level:`과 legacy `confidence:` 두 키를 모두 인식하며 `evidence_level`을 우선한다(2026-07-15 패치).
 
 ### Quartz Build 실패
 
@@ -342,14 +386,9 @@ YAML 특수문자: `:` `[` `]` `{` `}` `&` `*` `#` `?` `|` `-` `<` `>` `=` `!` `
    ```
    papers/ 폴더 전체 ingest해줘. 카테고리별로 분류해서.
    ```
-3. Claude가 일괄 처리 후 결과 보고
-4. 로컬 lint 3개 돌려서 확인
-5. 한 commit으로 push:
-   ```bash
-   git add -A
-   git commit -m "Bulk ingest: {N papers} — {category overview}"
-   git push
-   ```
+3. Claude가 일괄 처리 후 결과 보고 (subagent 병렬 PHASE 1 → 부모 직렬 PHASE 2, `INGEST.md` 참조)
+4. 로컬 lint 돌려서 확인 (`daily-audit.py` 또는 Step 3의 5종)
+5. 커밋·푸시는 PHASE 2의 `ingest-one.py --finish`가 **파일별로** 자동 수행한다. 수동 fallback이 필요하면 위 Step 4처럼 파일별로 나눠 커밋(`git add -A` 한 방 커밋 금지 — 전역 규칙).
 
 ### 카테고리 분류 가이드
 
@@ -413,7 +452,10 @@ URL 그대로 휴대폰 브라우저에서 접속. Quartz가 모바일 반응형
 | 파일 | 용도 |
 |---|---|
 | `CLAUDE.md` | Claude 에이전트 행동 규약 (글로벌 + 프로젝트) |
+| `INGEST.md` | 논문 인제스트 파이프라인 (Step 0~5, 필드 정의, `evidence_level:` vocabulary SSOT) |
 | `SOP.md` (이 파일) | 본인 참고용 운영 절차 |
+| `wiki/_meta/categories.md` | 카테고리 목록·서브카테고리 라우팅 SSOT |
+| `references/evidence-ladder.md` | supersession 판단 규칙 + `rob:` 필드 |
 | `index.md` | 카테고리별 페이지 목록 (legacy, lint trigger 대상) |
 | `wiki/index.md` | Quartz 홈페이지 (frontmatter 필수, 자동 deploy 대상) |
 | `papers/` | 원본 PDF (gitignore — GitHub에 안 올라감) |
@@ -422,7 +464,8 @@ URL 그대로 휴대폰 브라우저에서 접속. Quartz가 모바일 반응형
 | `quartz/` | Quartz 정적 사이트 생성기 + config |
 | `.github/workflows/lint.yml` | frontmatter / 1:1 / no-wiki 검사 |
 | `.github/workflows/deploy-pages.yml` | Quartz 빌드 + GitHub Pages 게시 |
-| `scripts/lint.py` | frontmatter 9 필드 검사 (wiki/) |
+| `scripts/daily-audit.py` | 20종 audit 단일 진입점 (에러 4 + 신호 16) → logs/ |
+| `scripts/lint.py` | frontmatter 필수 필드 검사 (wiki/) |
 | `scripts/orphan-check.py` | PDF ↔ sources 1:1 매칭 |
 | `scripts/find-no-wiki.py` | paper마다 wiki 페이지 존재 검사 |
 | `scripts/operations-lint.py` | OPERATIONS frontmatter cross-link 검사 |
@@ -437,7 +480,7 @@ URL 그대로 휴대폰 브라우저에서 접속. Quartz가 모바일 반응형
 
 ## 8. 환경 정보 — 최초 셋업 (참고)
 
-- GitHub repo: https://github.com/ezinternet/llm-wiki
+- GitHub repo: https://github.com/ezinternet/dentopedia
 - 사이트: https://ezinternet.github.io/dentopedia/
 - Quartz 버전: v4.5.2
 - Node.js: 22 (GitHub Actions에서)
@@ -452,7 +495,10 @@ URL 그대로 휴대폰 브라우저에서 접속. Quartz가 모바일 반응형
 # wiki 폴더로 이동
 cd ~/llm-wiki
 
-# lint 4종 한 번에
+# 전체 20종 audit 한 번에 (권장)
+python3 scripts/daily-audit.py
+
+# 또는 핵심 error lint 4종만
 python3 scripts/lint.py && python3 scripts/orphan-check.py && python3 scripts/find-no-wiki.py && python3 scripts/operations-lint.py
 
 # 변경 확인
@@ -506,7 +552,11 @@ fix 절차: 로컬에서 `python3 scripts/supersession-audit.py --stdout` 실행
 
 ## 2-quinquies. 근거 등급 단일 참조 (v2 추가)
 
-등급 정의·supersession 규칙은 **`references/evidence-ladder.md`** 가 유일한 출처다. `confidence:` 값 선택, supersession 판단 기준, `rob:` 보조 필드 모두 이 파일 참조. CLAUDE.md·SOP.md 내 인라인 설명은 요약이고, 충돌 시 `evidence-ladder.md` 우선.
+**두 축의 SSOT를 구분한다** (2026-07-15):
+- **값 목록** (`evidence_level:`에 뭘 쓸 수 있나 — 13 study type + 4 non-research) → **`INGEST.md`** 의 vocabulary 표가 단일 출처.
+- **supersession 판단 규칙** (어느 등급이 어느 등급을 이기나) + 보조 `rob:` 필드 → **`references/evidence-ladder.md`**.
+
+CLAUDE.md·SOP.md 내 인라인 설명은 요약이고, 값 목록은 `INGEST.md`, 판단 규칙은 `evidence-ladder.md` 우선. (필드명은 `evidence_level:`, 구 `confidence:`는 grandfather.)
 
 RoB 필드 (옵션, rct 이상 논문에서 동등 등급 충돌 시 판단 보조):
 ```yaml
@@ -558,4 +608,4 @@ quartz/
 
 ---
 
-마지막 업데이트: 2026-06-23 · v2 (6개 개선 반영: supersession CI·OPERATIONS 정책·근거사다리 통합·transitivity chain·버전 drift)
+마지막 업데이트: 2026-07-15 · v3 (2026-07 개편 반영: INGEST.md 분리 포인터·`evidence_level:` rename·파일별 커밋 표준화·15종 daily-audit·Three-line/세줄요약 용어·값목록 SSOT를 INGEST.md로 분리·주요 파일표 갱신)

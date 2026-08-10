@@ -6,7 +6,7 @@ date: 2022-08-01
 doi: "10.1016/j.heliyon.2022.e10064"
 source: abduo-2022-proximal-contact-loss-qualitative-systematic.md
 category: [food-impaction]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/abduo-2022-proximal-contact-loss-qualitative-systematic.pdf
 pdf_filename: abduo-2022-proximal-contact-loss-qualitative-systematic.pdf
 source_collection: external

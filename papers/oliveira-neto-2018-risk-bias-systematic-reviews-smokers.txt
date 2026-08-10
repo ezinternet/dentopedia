@@ -1,0 +1,29 @@
+Title: Risk of bias assessment of systematic reviews regarding dental implant placement in smokers: An umbrella systematic review.
+
+Authors: de Oliveira-Neto OB, Barbosa FT, de Sousa-Rodrigues CF, de Lima FJC
+
+Journal: The Journal of Prosthetic Dentistry. 2018;120(2):198-203.
+
+PMID: 29724548
+DOI: 10.1016/j.prosdent.2017.12.026
+
+Source: PubMed (abstract only — full text not retrieved; Elsevier, not open access, no PMC ID available)
+Retrieved via PubMed MCP get_article_metadata, 2026-07-12.
+
+--- ABSTRACT ---
+
+Although dental implant treatment has a high success rate, patient-related factors may cause implant failure. In this context, smoking is associated with adverse effects on implant osseointegration. In spite of systematic reviews addressing this topic, the risk of bias in these reviews must be assessed to inform readers whether the studies were conducted with methodological rigor and whether their recommendations are viable in daily clinical practice.
+
+The purpose of this umbrella systematic review was to assess the risk of bias of systematic reviews regarding dental implant placement in smokers.
+
+Systematic review articles with meta-analysis regarding dental implant placement in smokers were eligible for this study. The following were excluded: articles in which implant survival or failure rate was not the primary outcome; articles in which implant survival or failure rate was not related to smokers; and duplicated articles. The search was performed by 2 independent reviewers on MEDLINE (PubMed), Scopus, Web of Science, LILACS, DARE-Cochrane, and SIGLE via OpenGrey. Non-peer-reviewed literature was sought on SIGLE via OpenGrey without language restrictions. Reviewers read titles and/or abstracts to select potential eligible studies, and articles initially selected were read fully. A third reviewer was consulted in cases of disagreement. References of the selected articles were also screened to identify articles of potential interest. The last search was performed on April 29, 2017. Risk of bias assessment was performed with the Risk of Bias in Systematic Reviews (ROBIS) tool.
+
+Of the initial 2539 results, 6 systematic reviews with meta-analysis were eligible for the umbrella review (kappa=0.90; very good agreement). All studies were published in the last 11 years. One meta-analysis (16.7%) presented low risk of bias, 3 (50.0%) were assessed as of unclear risk of bias, and 2 (33.3%) received a score of high risk of bias according to the assessment with the ROBIS tool, which also indicated that the criteria most commonly not met were study eligibility criteria and identification and selection of studies.
+
+Five of the 6 included meta-analyses had a risk of bias (high or unclear). Therefore, their conclusions and recommendations required careful review. Future meta-analyses must focus especially on study eligibility criteria and identification and selection of studies.
+
+--- METADATA ---
+
+MeSH terms: Alveolar Bone Loss; Databases, Factual; Dental Implantation, Endosseous; Dental Implants; Dental Restoration Failure; Humans; Smokers; Treatment Outcome
+Article types: Journal Article; Meta-Analysis; Systematic Review
+Language: eng

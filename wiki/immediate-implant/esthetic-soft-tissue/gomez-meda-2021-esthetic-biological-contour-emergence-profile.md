@@ -6,7 +6,7 @@ date: 2021-01-20
 doi: 10.1111/jerd.12714
 source: gomez-meda-2021-esthetic-biological-contour-emergence-profile.md
 category: [immediate-implant/esthetic-soft-tissue]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/gomez-meda-2021-esthetic-biological-contour-emergence-profile.pdf
 pdf_filename: gomez-meda-2021-esthetic-biological-contour-emergence-profile.pdf
 source_collection: external

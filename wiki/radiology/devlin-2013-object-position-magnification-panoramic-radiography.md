@@ -6,7 +6,7 @@ date: 2013-01-01
 doi: 10.1259/dmfr/29951683
 source: devlin-2013-object-position-magnification-panoramic-radiography.md
 category: [radiology]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/devlin-2013-object-position-magnification-panoramic-radiography.pdf
 pdf_filename: devlin-2013-object-position-magnification-panoramic-radiography.pdf
 source_collection: external

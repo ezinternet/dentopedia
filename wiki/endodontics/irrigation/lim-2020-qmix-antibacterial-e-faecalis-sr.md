@@ -6,7 +6,7 @@ date: 2020-01-01
 doi: 10.5395/rde.2020.45.e23
 source: lim-2020-qmix-antibacterial-e-faecalis-sr.md
 category: [endodontics/irrigation]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/lim-2020-qmix-antibacterial-e-faecalis-sr.pdf
 pdf_filename: lim-2020-qmix-antibacterial-e-faecalis-sr.pdf
 source_collection: external

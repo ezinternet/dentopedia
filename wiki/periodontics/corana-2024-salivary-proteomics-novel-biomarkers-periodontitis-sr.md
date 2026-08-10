@@ -6,7 +6,7 @@ date: 2024-12-02
 doi: "10.1111/jre.13357"
 source: corana-2024-salivary-proteomics-novel-biomarkers-periodontitis-sr.md
 category: [periodontics]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "39620241"
@@ -68,8 +68,8 @@ Diagnosis of periodontitis still rests on probing and radiographs, which record 
 
 - [[periodontics/cosin-villanueva-2024-micrornas-gingival-crevicular-fluid-periodontal]] — extends: GCF miRNA biomarkers to the whole-saliva protein layer of the same diagnostic question.
 - [[periodontics/fadli-2024-oral-gingival-crevicular-fluid-jawbone-turnover]] — reinforces: GCF molecular markers of periodontal bone turnover; complementary compartment to saliva.
-- [[periodontics/donertas-2026-gbt-subgingival-debridement-gcf-biomarkers]] — reinforces: treatment-responsive GCF biomarkers (Corana notes only 2/13 salivary studies tracked pre/post-therapy change).
+- [[periodontics/non-surgical-instrumentation/donertas-2026-gbt-subgingival-debridement-gcf-biomarkers]] — reinforces: treatment-responsive GCF biomarkers (Corana notes only 2/13 salivary studies tracked pre/post-therapy change).
 - [[overviews/gingival-crevicular-fluid-biomarker-diagnostics-overview]] — reinforces: GCF-side synthesis; saliva is the whole-mouth counterpart medium.
 - [[overviews/saliva-diagnostics-and-salivary-gland-dysfunction-overview]] — extends: fills the periodontal-diagnosis branch of the saliva-diagnostics overview.
-- [[oral-medicine/li-2024-salivary-diagnostics-opportunities-challenges]] — reinforces: general salivary-diagnostics opportunities/challenges framing, here made concrete for periodontitis.
-- [[oral-medicine/nonaka-2023-saliva-diagnostics-salivaomics-exosomics-liquid-biopsy]] — reinforces: salivaomics/liquid-biopsy paradigm underlying proteomic discovery.
+- [[oral-medicine/salivary-chemosensory/li-2024-salivary-diagnostics-opportunities-challenges]] — reinforces: general salivary-diagnostics opportunities/challenges framing, here made concrete for periodontitis.
+- [[oral-medicine/salivary-chemosensory/nonaka-2023-saliva-diagnostics-salivaomics-exosomics-liquid-biopsy]] — reinforces: salivaomics/liquid-biopsy paradigm underlying proteomic discovery.

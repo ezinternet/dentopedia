@@ -6,7 +6,7 @@ date: 2022-05-16
 doi: "10.3390/medicina58050665"
 source: igna-2022-diagnostic-insight-of-dental-pulp.md
 category: endodontics/diagnosis
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/igna-2022-diagnostic-insight-of-dental-pulp.pdf
 pdf_filename: igna-2022-diagnostic-insight-of-dental-pulp.pdf
 source_collection: external

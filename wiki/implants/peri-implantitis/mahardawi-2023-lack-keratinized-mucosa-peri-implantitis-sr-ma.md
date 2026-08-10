@@ -6,7 +6,7 @@ date: 2023-03-06
 doi: 10.1038/s41598-023-30890-8
 source: mahardawi-2023-lack-keratinized-mucosa-peri-implantitis-sr-ma.md
 category: [implants/peri-implantitis]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/mahardawi-2023-lack-keratinized-mucosa-peri-implantitis-sr-ma.pdf
 pdf_filename: mahardawi-2023-lack-keratinized-mucosa-peri-implantitis-sr-ma.pdf
 source_collection: external
@@ -78,6 +78,6 @@ GRADE evidence certainty: **moderate**, limited by the cross-sectional design of
 ## Related Papers
 
 - [[implants/peri-implantitis/roccuzzo-2025-keratinized-mucosa-peri-implant-20year-mandible]] — 20-year prospective mandible cohort independently confirming KM width's role in peri-implant health; reinforces this SR+MA's pooled finding
-- [[implants/galarraga-vinueza-2025-peri-implant-disease-risk-factors]] — broader peri-implant disease risk factor review; KM is one component; this SR+MA provides the dedicated quantitative OR for KM specifically
+- [[implants/peri-implantitis/galarraga-vinueza-2025-peri-implant-disease-risk-factors]] — broader peri-implant disease risk factor review; KM is one component; this SR+MA provides the dedicated quantitative OR for KM specifically
 - [[implants/peri-implantitis/jepsen-2015-primary-prevention-periimplantitis-managing-mucositis]] — prevention framework for peri-implant diseases; KM adequacy at implant placement is a modifiable preventive target per this SR+MA's conclusions
 - [[implants/peri-implantitis/diaz-2022-what-is-the-prevalence]] — peri-implantitis prevalence SR; corroborates the wide prevalence range (6.68–62.3%) seen across case definitions in this review

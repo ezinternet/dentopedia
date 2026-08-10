@@ -6,7 +6,7 @@ date: 2026-02-01
 doi: "10.1002/cre2.70293"
 source: lee-2026-residual-pericervical-apical-dentine-vertical.md
 category: [endodontics/shaping]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 full_text: true
 pmid: "41632903"

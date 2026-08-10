@@ -1,0 +1,84 @@
+An Umbrella Review of Systematic Reviews and Meta-Analyses Evaluating the Success Rate of Prosthetic Restorations on Endodontically Treated Teeth
+
+Fathi A, Ebadian B, Nasrollahi Dezaki S, Mardasi N, Mosharraf R, Isler S, Sadat Tabatabaei S.
+International Journal of Dentistry, 2022;2022:4748291.
+PMID: 35242190 | PMCID: PMC8888057 | DOI: 10.1155/2022/4748291
+
+ABSTRACT
+
+Materials and Methods
+The electronic search was conducted in the MEDLINE/PubMed, Cochrane, and Google Scholar databases until November 2020, regardless of language limitations. The inclusion criterion was as follows: S/M-R regarding prosthetic restorations in endodontically treated teeth. Three qualified researchers evaluated the inclusion criteria and bias risk. The fourth investigator was referred to when facing any doubtfulness.
+
+Results
+From 43 achieved S/M-R, 14 studies were selected for this inquiry. Primary extracted information included success rate, survival rate, and postendodontic failure rate. Five S/M-R had a moderate risk of bias, and nine S/M-R had a low risk of bias and were considered strong clinical evidence in this examination. According to the low-risk reports, the success rate of fiber posts was higher than that of metal posts; the rate of root fracture in metallic and fiber posts was alike; the failure rate for fiber posts was comparable to fixed partial dentures or single crowns; the construction of endocrowns was likely to perform better than intracanal posts, composite resin, or inlay/onlay restorations.
+
+Conclusion
+It appears that with practice and experience, deciding which type of restoration to choose changes. In dental restorations associated with root canal therapy, the single crowns are likely to be a proper option. Nevertheless, due to the heterogeneity of the studies, more clinical assessments are required to achieve more specific findings in this field.
+
+1. INTRODUCTION
+
+Endodontic therapy is a routine and standard dental treatment. Through endodontic therapy, tooth material is unavoidably sacrificed, and the tooth is weakened. It is thereby apparent that ET (endodontically treated) teeth require restoration. Determining the proper restoration for an endodontically treated tooth is associated with the number of vital teeth, anatomical situation, occlusal pressure, and restorative and aesthetic necessities of the tooth. In general, benefits can be achieved through both traditional direct restorations and prosthetic restorations such as crowns, fixed partial dentures, removable partial dentures, and mixed removable-fixed prostheses, with or without post placement.
+
+The application of posts has been widely discussed in dentistry for a long time, and they are commonly suggested when the amount of remaining hard tissue is crucial. Popular post systems consist of both cast and prefabricated posts with a broad order of substances. The use of different posts requires applying particular principles. Recently, fiber-reinforced posts have been introduced in addition to traditional metal posts to preserve teeth with a small amount of residual structure. Since mechanical properties of the whole system, including post, cement, and dentine should be homogenous, engaging in fiber posts cemented and reconstructed by composite resin material is likely to ensure a good performance.
+
+When it is impossible to use implants, removable or fixed dentures, restoring ET teeth is more critical. Results of a systematic examination showed that the retention, satisfaction, and cost-effectiveness of restored teeth with a single crown or implant are higher than fixed or removable dentures. However, other systematic studies have found no significant difference between the survival rate of restored ET teeth with single crowns and implants.
+
+Based on several current systematic reviews, endodontically treated (ET) teeth present a predicted survival rate of 87% within eight to ten years. Different epidemic-related studies (over one million cases) obtained a survival rate of 97% in ET teeth after eight years.
+
+One of the most influential and determining factors for the success of endodontic therapy is whether a periapical injury exists prior to treatment. Other circumscribing parameters include the amount of root filling in association with the root crown, pulp status before therapy, post-endodontic coronal restoration, and proximal contacts. It is assumed that molars exhibit significantly lower survival rates than other teeth; other elements examined include age, kind of post, root filling mass, and number of sessions until end of endodontic therapy, though confirmation of their influence is weak or uncertain.
+
+Despite the abundance of systematic/meta-analytic reviews (S/M-R) in this area, a lack of consensus is seen among specialists and information gaps cause failures in clinical practice. Cochrane proposed a new kind of study called the umbrella (S/M) review, in which findings from multiple S/M-R are combined into one text to increase confidence in decision-making. The purpose of this overview was to find S/M-R determining ET teeth restoration success and evaluate the quality level of studies on the success of ET teeth treatment methods.
+
+2. MATERIALS AND METHODS
+
+2.1 Search Strategy
+Electronic search was conducted in PubMed/MEDLINE, Cochrane, and Google Scholar databases until November 2020 without language limitation. The research included S/M-R and their references that examined the success of prosthetic procedures in ET teeth.
+
+PICO: Population = teeth that received root canal treatment. Intervention = restorations for ET teeth. No control/comparison. Outcome = survival rate and failure rate of restored ET teeth.
+
+Conducted per PRISMA guidance. AMSTAR2 was used to calculate risk of bias of included S/M-R. Selected keywords included "prosthetic restorations" and "endodontically treated teeth." Exclusion criteria: duplicate reviews, comments, editorials.
+
+2.2 Data Collection Process
+Data collected by three independent trained researchers (kappa = 1.0). Extracted information: prosthesis type, success, and survival rate. Disagreements resolved by discussion; unresolved cases referred to a fourth investigator.
+
+2.3 Bias Risk Assessment
+16 AMSTAR2 questions used. 8–11 positive responses = low risk of bias; 4–7 positive = moderate risk; <3 positive = high risk. Assessed by two investigators (kappa = 0.9); disagreements resolved by discussion or referred to a third investigator.
+
+3. RESULTS
+
+3.1 Screening of S/M-R
+Initial search: 43 articles (36 PubMed/MEDLINE, 5 Cochrane, 2 manual search). After title/abstract/inclusion screening: 17 studies. After full-text review: 14 S/M-R included. Together these 14 reviews comprised 118 original studies, analyzed in three groups — prosthesis, success rate, and ET teeth failure rate.
+
+3.2 Risk of Bias Assessment
+Using AMSTAR2: 5 S/M-R had moderate risk of bias; 9 S/M-R had low risk of bias (41.5% of surveys were low-risk). Low-risk S/M-R were considered to provide the most reliable clinical evidence.
+
+3.3 Characteristics of Systematic Reviews
+General information (authors, year, number/type of studies, analysis type, research period, interventions, outcomes, risk of bias, main results) tabulated for each of the 14 S/M-R.
+
+3.4 General Sample Analysis
+
+Success rate of prosthetic restorations on ET teeth: 3 S/M-R, 22 studies (1 RCT, 12 in vitro, 6 clinical trials, 4 prospective, 1 retrospective) compared success rate. One study: 5-year success rate for endocrowns ~77% vs conventional crowns ~94%. Sedrez-Porto et al. and Ploumaki et al.: success rates of 92%, 79%, and 66% for single crowns, and fixed and removable prostheses, respectively.
+
+Success rate of single crowns in ET teeth restored with or without posts: 3 S/M-R, 34 studies. Ploumaki et al.: success rates of single crowns without posts 94%, with posts 92%, with cast post-and-core 93%, with prefabricated posts 94%. Sarkis-Onofre et al.: success rate of elastic (fiber) posts 71.8–100%. Girotto et al.: most frequently used posts were prefabricated (45.8%) then metal (16.7%); time and training cited as factors in post-type choice.
+
+Survival rate of single crowns on ET teeth: 8 S/M-R (48 RCT, 13 in vitro, 10 clinical trials, 2 prospective studies). Al-Dabbagh: overall 5-year survival rates for endocrowns 91.4% vs conventional crowns 98.3%. Suksaphar et al.: crown survival 94%, composite resin survival 91%. Stavropoulou and Koidis: 10-year survival rates for crowns 81% vs direct restorations 63%. Suksaphar et al.: survival against fracture nearly the same for composite resin or crowns. Wang et al.: survival rate of fiber posts significantly higher than metal posts, especially for teeth with more than two crowned (missing) walls at medium-term follow-up. Figueiredo et al.: survival rates of metal posts 90% vs fiber posts 83.9%. Heydecke and Peters: cast post-and-core survival rate 87.2–88.1%. Naumann et al.: ferrule increases survival rate of ET teeth by preserving cavity walls. Sarkis-Onofre et al.: teeth without ferrule showed higher variation in survival rate (0–97%) vs teeth with ferrule.
+
+Failure rate: 6 S/M-R, 48 studies (14 RCT, 11 in vitro, 13 clinical trials, 3 prospective, 7 cohort). Wang et al.: success rate, post-debonding rate, or root fracture rate between fiber posts and metal posts not significantly different. Figueiredo et al.: rate of root fractures in metal and fiber posts similar; rate of root fractures in prefabricated metal posts and carbon fiber posts was twice as high as metal posts and fiberglass posts. Heydecke and Peters: failure rate between direct posts and direct post-and-cores not significantly different. Sorrentino et al.: most frequent failures in single crowns and fixed prostheses caused by separation of the fiber post, lack of single-crown retention, and marginal clefts. Sedrez-Porto et al.: failure rate in endocrowns reported higher than conventional methods. Ploumaki et al.: post-debonding was the most common cause of failure.
+
+4. DISCUSSION
+
+Due to controversy among studies on the success rate of endodontically treated teeth, the purpose of this umbrella review was to compare clinical evidence for success/failure rates of restorations in ET teeth. Targets included fixed/removable prostheses and posts. Data from 14 S/M-R, comprising 118 studies and more than 10,971 samples altogether, categorized by restoration type.
+
+Successful single crowns on ET teeth were reported in 22 of 118 studies. In 34 studies, success rate of single crowns with vs without posts was compared. The five-year success rate of the endocrown system was 94%. Survival rate of ET teeth associated with remaining crown structure and type of restorative material — both play an important role in long-term dental survival. Based on clinical studies, a single crown is the best treatment for ET teeth, but high-quality clinical evidence is limited.
+
+Four studies addressed fixed and removable prostheses; 34 studies reported post-restoration success. Success rate for ET teeth after six years was 92–94%. Success rate for fixed and removable prostheses was 78% and 66% respectively. In general, single crowns perform better than other prosthetic restorations — because dental stresses in fixed and removable dentures exceed those in single crowns. Removable dentures should also be reinforced with posts.
+
+Success rate for prefabricated posts was higher than cast/core posts; clinically, dentists engage cast/core posts when dealing with moderate-to-high tissue loss. Findings from various studies show nonmetallic fiber posts work better than metal posts, though overall evidence in this area is relatively weak and should be interpreted cautiously.
+
+AMSTAR2 was used to assess S/M-R quality/bias; during assessment, the Funding Sources parameter was frequently not indicated in the text, so more attention to this issue is recommended in future articles. Despite study limitations, results from several systematic reviews were evaluated comprehensively, attempting to resolve some controversies among their results. More investigation is recommended to draw more reliable conclusions for clinicians.
+
+5. CONCLUSION
+
+It appears that one of the most reliable ways to restore ET teeth is to apply single crowns and endocrowns. However, more consistent studies are required to present the reported findings more confidently. Even considering the potential for bias, the level of evidence available for the use of this clinical method is high.
+
+[Attribution: According to PubMed, this article is Fathi A, Ebadian B, Nasrollahi Dezaki S, Mardasi N, Mosharraf R, Isler S, Sadat Tabatabaei S. "An Umbrella Review of Systematic Reviews and Meta-Analyses Evaluating the Success Rate of Prosthetic Restorations on Endodontically Treated Teeth." Int J Dent. 2022;2022:4748291. DOI: https://doi.org/10.1155/2022/4748291]

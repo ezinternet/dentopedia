@@ -6,7 +6,7 @@ date: 2022-12-01
 doi: 10.1186/s40729-022-00456-w
 source: de-angelis-2022-ridge-preservation-spontaneous-healing-volumetric.md
 category: [bone-regeneration/ridge-preservation]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/de-angelis-2022-ridge-preservation-spontaneous-healing-volumetric.pdf
 pdf_filename: de-angelis-2022-ridge-preservation-spontaneous-healing-volumetric.pdf
 source_collection: external

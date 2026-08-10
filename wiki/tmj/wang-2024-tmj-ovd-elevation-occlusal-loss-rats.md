@@ -6,7 +6,7 @@ date: 2024-05-23
 doi: 10.1111/joor.13739
 source: wang-2024-tmj-ovd-elevation-occlusal-loss-rats.md
 category: [tmj]
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/wang-2024-tmj-ovd-elevation-occlusal-loss-rats.pdf
 pdf_filename: wang-2024-tmj-ovd-elevation-occlusal-loss-rats.pdf
 source_collection: external

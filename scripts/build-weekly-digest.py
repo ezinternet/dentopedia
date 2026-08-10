@@ -90,7 +90,7 @@ def parse(relpath):
     return {
         "stem": Path(relpath).stem, "cat": cat,
         "title": f("title"), "year": f("year"),
-        "conf": f("confidence"),
+        "conf": f("evidence_level") or f("confidence"),
         "superseded_by": f("superseded_by"),
         "conflicts": conflicts, "ko": ko,
     }

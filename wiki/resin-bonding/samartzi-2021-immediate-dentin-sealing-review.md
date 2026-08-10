@@ -6,7 +6,7 @@ date: 2021-06-18
 doi: 10.2147/CCIDE.S307939
 source: samartzi-2021-immediate-dentin-sealing-review.md
 category: [resin-bonding]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/samartzi-2021-immediate-dentin-sealing-review.pdf
 pdf_filename: samartzi-2021-immediate-dentin-sealing-review.pdf
 source_collection: external

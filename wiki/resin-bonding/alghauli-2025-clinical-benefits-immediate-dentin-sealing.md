@@ -6,11 +6,14 @@ date: 2025-10-01
 doi: 10.1016/j.prosdent.2024.04.014
 source: alghauli-2025-clinical-benefits-immediate-dentin-sealing.md
 category: [resin-bonding]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/alghauli-2025-clinical-benefits-immediate-dentin-sealing.pdf
 pdf_filename: alghauli-2025-clinical-benefits-immediate-dentin-sealing.pdf
 source_collection: external
 tags: [ids, indirect-restoration, clinical-outcome, survival, postoperative-sensitivity, sr-ma]
+relations:
+  - type: contradicts
+    target: josic-2022-ids-postoperative-sensitivity-sr-ma
 ---
 
 ## Three-line Summary
@@ -62,8 +65,8 @@ The IDS-favorable POS result directly contradicts Josic 2022 SR+MA (4 studies, G
 - [[resin-bonding/samartzi-2021-immediate-dentin-sealing-review]] — narrative review predating both SR+MAs.
 - [[resin-bonding/magne-2005-immediate-dentin-sealing-fundamental-procedure]] — IDS concept originating paper.
 
-## 임상 적용 [claude해석]
+## 임상 적용 [미검증]
 
-- [근거강함, 단 conflict 존재] IDS 보호 효과는 SR+MA 수준에서 임상 outcome (complication·survival) 지지.
-- [합의수준] POS reduction은 Alghauli 2025와 Josic 2022 정면 충돌; "결론 미정" 상태로 환자 설명 권장.
-- [claude해석] IDS 시행이 cost-benefit 면에서 inlay/onlay/veneer protocol에 표준 inclusion할 만함; 다만 POS 감소를 환자에게 약속하지는 말 것.
+- [확인, 단 conflict 존재] IDS 보호 효과는 SR+MA 수준에서 임상 outcome (complication·survival) 지지.
+- [확인] POS reduction은 Alghauli 2025와 Josic 2022 정면 충돌; "결론 미정" 상태로 환자 설명 권장.
+- [미검증] IDS 시행이 cost-benefit 면에서 inlay/onlay/veneer protocol에 표준 inclusion할 만함; 다만 POS 감소를 환자에게 약속하지는 말 것.

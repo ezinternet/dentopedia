@@ -6,7 +6,7 @@ date: 2022-12-01
 doi: 10.1002/14651858.CD005296.pub4
 source: mergoni-2022-single-versus-multiple-visits-cochrane-sr.md
 category: [endodontics/visit-protocol]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/mergoni-2022-single-versus-multiple-visits-cochrane-sr.pdf
 pdf_filename: mergoni-2022-single-versus-multiple-visits-cochrane-sr.pdf
 source_collection: external

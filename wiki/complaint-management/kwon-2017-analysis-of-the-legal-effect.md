@@ -6,7 +6,7 @@ date: 2017-07-01
 doi: "10.5999/aps.2017.44.4.283"
 source: kwon-2017-analysis-of-the-legal-effect.md
 category: complaint-management
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/kwon-2017-analysis-of-the-legal-effect.pdf
 pdf_filename: kwon-2017-analysis-of-the-legal-effect.pdf
 source_collection: external

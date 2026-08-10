@@ -6,7 +6,7 @@ date: 2026-07-10
 doi: N/A
 source: N/A
 category: overviews
-confidence: synthesis
+evidence_level: synthesis
 pdf_path: N/A
 pdf_filename: N/A
 source_collection: internal
@@ -17,14 +17,14 @@ tags: [peri-implantitis, peri-implant-mucositis, prevalence, decontamination, GB
 
 > [!summary] 한국어 핵심요약
 > - 임플란트주위염 (Peri-implantitis) 10편을 역학·예방·치료·보철해부학적 위험인자로 종합한 페이지로, 임플란트 기능의 장기 최대 위협을 다룬다.
-> - 유병률: 환자 단위 19.53% (95% CI 12.87–26.19), 임플란트 단위 12.53% — 진단 기준 (탐침깊이 PD 임계값) 이 유병률 산포를 좌우하지 생물학 자체는 아니며, 기능 기간과 유의 연관 없음 (Diaz 2022 SR+MA 57편). [근거강함]
+> - 유병률: 환자 단위 19.53% (95% CI 12.87–26.19), 임플란트 단위 12.53% — 진단 기준 (탐침깊이 PD 임계값) 이 유병률 산포를 좌우하지 생물학 자체는 아니며, 기능 기간과 유의 연관 없음 (Diaz 2022 SR+MA 57편). [확인]
 > - 1차 예방의 핵심 전략 메시지: 임플란트주위 점막염 (Peri-implant Mucositis) 관리가 곧 임플란트주위염의 1차 예방 — 점막염은 가역적, 임플란트주위염은 비가역적 (Jepsen 2015).
 > - 탐침시출혈 (Bleeding on Probing, BoP) 이 건강 vs 염증을 구분하는 1차 임상 징후이고, 정기 지지치료 (SPT) 부재가 진행 위험을 높인다.
-> - 점막염 관리: 전문가 기계적 치면세균막 제거 (PMPR) 가 gold standard이며, 보조제 (CHX·국소 항생제·NaOCl·프로바이오틱스) 는 PMPR 단독 대비 일관된 추가 이득 없음 (Mauriello 2026). [합의수준]
-> - 외과적 표면 제염 (decontamination): 기계적·화학적·물리적 (레이저 등) 프로토콜 중 명확히 우월한 단일 방법 없음 — EFP S3 가이드라인의 "특정 방법 권고 불가" 입장을 정량 지지 (Baima 2022 SR+MA 16 RCT). [근거강함]
+> - 점막염 관리: 전문가 기계적 치면세균막 제거 (PMPR) 가 gold standard이며, 보조제 (CHX·국소 항생제·NaOCl·프로바이오틱스) 는 PMPR 단독 대비 일관된 추가 이득 없음 (Mauriello 2026). [확인]
+> - 외과적 표면 제염 (decontamination): 기계적·화학적·물리적 (레이저 등) 프로토콜 중 명확히 우월한 단일 방법 없음 — EFP S3 가이드라인의 "특정 방법 권고 불가" 입장을 정량 지지 (Baima 2022 SR+MA 16 RCT). [확인]
 > - 재건 수술: 포위형 (contained) 골내 결손에는 골유도재생술 (GBR) 이 비재건 대비 양호한 결손 충전·골 수준 이득 (Ramanauskaite 2023 NMA); 항균광역학치료 (aPDT) 는 저확실성 보조 (Jervoe-Storm 2024 Cochrane).
 > - **Hakkers 2026 신규 (단일맹검 RCT, n=52, 1년, 3·4벽 결손)**: 재건 수술(자가골+이종골+콜라겐막)이 개방소파술 대비 방사선학적 MBL 개선(β=−1.65 mm, p<0.001)과 협측 연조직 퇴축 감소(β=−1.68 mm, p<0.001)에서 유의한 이점; 그러나 PPD·BoP·SoP·복합 질환 해소율(양군 모두 약 44%)에 차이 없음 → 방사선학적 개선 ≠ 임상적 질환 해소 (역설). 3벽 결손은 T3–T6 조기 이점, 4벽 결손은 T12에만 이점. 재건 군의 부작용(통증·구강건조·금속 맛·두통) 유의하게 많음 → 환자 상담 필수.
-> - 보철 디자인이 변연골소실 (MBL) 을 유의하게 줄이는 조절 가능 레버 (Lin 2025 AO/AAP SR+MA 93편): 플랫폼 스위칭 (p<0.0001) · 원추형 내부 연결 (p<0.0001) · 어버트먼트 높이 ≥2mm (p<0.0001) · one-abutment-one-time (p<0.0001) · 비스플린트 (p=0.04). [근거강함]
+> - 보철 디자인이 변연골소실 (MBL) 을 유의하게 줄이는 조절 가능 레버 (Lin 2025 AO/AAP SR+MA 93편): 플랫폼 스위칭 (p<0.0001) · 원추형 내부 연결 (p<0.0001) · 어버트먼트 높이 ≥2mm (p<0.0001) · one-abutment-one-time (p<0.0001) · 비스플린트 (p=0.04). [확인]
 > - 중립 (MBL에 무영향): 나사 vs 시멘트 유지 (p=0.51), 치관-임플란트 비 (p=0.32) — 유지 방식은 MBL이 아니라 재제거 용이성 (retrievability)·교합으로 결정한다.
 > - 결정 framework: BoP만 (골소실 없음) = 점막염 → PMPR + SPT, BoP + 골소실 = 임플란트주위염 → 비외과 우선 → 3–6개월 후 불충분하면 외과 (포위형 결손 → GBR 재건, 비포위형/수평 소실 → 절제형/접근 수술).
 > - 치료계획 단계 예방: 플랫폼 스위칭 + 원추형 연결 선택, 어버트먼트 높이 ≥2mm 유지, 불필요한 어버트먼트 교체 회피, emergence angle <30° + 오목/직선 emergence profile 설계.
@@ -104,12 +104,12 @@ Three papers, read together, trace a mechanistic arc from the disease's foundati
 - Patient-level: 19.53% (95% CI 12.87–26.19)
 - Implant-level: 12.53% (95% CI 11.67–13.39)
 - Definition dependence: PD threshold increases prevalence (24.69% with PD criterion vs 17.56% without; NS difference — diagnostic criteria, not biology, drive the spread)
-- Function time: not significantly associated with prevalence (p=0.82 patient-level) [근거강함]
+- Function time: not significantly associated with prevalence (p=0.82 patient-level) [확인]
 
 **Jepsen 2015 (European Workshop consensus):**
 - Mucositis (점막염): weighted mean 43% (CI 32–54%)
 - Peri-implantitis: 22% (CI 14–30%)
-- Note: older pooled estimates; Diaz 2022 is the more current meta-analytic value [합의수준]
+- Note: older pooled estimates; Diaz 2022 is the more current meta-analytic value [확인]
 
 **Sbricoli 2026 (cross-sectional, 70 subjects/227 implants; 35 T2DM vs 35 non-DM) — diabetes as a prevalence modifier:**
 - No statistically significant difference in peri-implant disease (80% vs 77%, p=0.99), mucositis (51% vs 63%, p=0.47), or peri-implantitis (51% vs 43%, p=0.63) between well-controlled T2DM and non-diabetic patients, at either subject or implant level (implant-level peri-implantitis 34% vs 35%, p=0.91)
@@ -130,7 +130,7 @@ Key principles:
 **Mauriello 2026 (narrative review, 9 RCTs, n=414):**
 - Professional mechanical plaque removal (PMPR) is the gold standard for mucositis management
 - Adjunctive agents (CHX, local antibiotics, NaOCl, probiotics, bioactive agents): within-group improvement but NO consistent statistically significant added benefit over PMPR alone
-- Clinical bottom line: establish PMPR protocol first; adjunctives do not substitute for mechanical removal [합의수준]
+- Clinical bottom line: establish PMPR protocol first; adjunctives do not substitute for mechanical removal [확인]
 
 **Brunello 2026 (systematic review, 21 studies — 19 RCTs + 2 NRCTs, n=1068):** reinforces Mauriello with systematic evidence — all non-surgical protocols *including mechanical debridement alone* reduced BoP; mucositis resolution ranged 9%–100% across studies; adjuncts gave only minor 6-month gains; only one-third of studies had low risk of bias and heterogeneity precluded a network meta-analysis. Same conclusion: mechanical debridement is the backbone, adjuncts add little. [근거중간]
 
@@ -163,10 +163,10 @@ The seven adjuncts (each combined with MD, vs MD alone): laser, photobiomodulati
 **Baima 2022 (SR+MA, 16 RCTs, 22 manuscripts):**
 - Compared mechanical, chemical, and physical (laser, etc.) implant surface decontamination during surgical peri-implantitis treatment
 - **No single protocol demonstrated clear superiority** on clinical or radiographic outcomes
-- EFP S3 guideline's "cannot recommend a specific decontamination method" position is quantitatively supported by this analysis [근거강함]
+- EFP S3 guideline's "cannot recommend a specific decontamination method" position is quantitatively supported by this analysis [확인]
 
 Adjunctive aPDT (antimicrobial photodynamic therapy):
-- Jervoe-Storm 2024 (Cochrane SR): low certainty evidence; modest short-term benefit trend; does not replace mechanical debridement [합의수준]
+- Jervoe-Storm 2024 (Cochrane SR): low certainty evidence; modest short-term benefit trend; does not replace mechanical debridement [확인]
 
 ---
 
@@ -230,7 +230,7 @@ Key findings:
 | Screw vs cement retention | 0.51 |
 | Crown-to-implant ratio | 0.32 |
 
-[근거강함] — The platform switching, conical connection, abutment height, and one-abutment-one-time findings carry strong statistical support from a 93-study meta-analysis.
+[확인] — The platform switching, conical connection, abutment height, and one-abutment-one-time findings carry strong statistical support from a 93-study meta-analysis.
 
 ---
 
@@ -277,7 +277,7 @@ The remaining studies below act at the restorative/soft-tissue level.
 | Periodontitis Stage 4 vs 2 | 26.31× MBL | retrospective | [[implants/peri-implantitis/basak-2024-restoration-margin-alveolar-bone-distance-implant]] |
 | Implant diameter (larger) | 6.10× MBL | retrospective | [[implants/peri-implantitis/basak-2024-restoration-margin-alveolar-bone-distance-implant]] |
 | Implant length (greater) | 5.02× MBL | retrospective | [[implants/peri-implantitis/basak-2024-restoration-margin-alveolar-bone-distance-implant]] |
-| Thin gingival phenotype | indirect ↑ bone-loss/peri-implantitis risk (survival >91% regardless) | SR, 8 studies | [[implants/da-silva-2025-gingival-phenotype-implant-survival-sr]] |
+| Thin gingival phenotype | indirect ↑ bone-loss/peri-implantitis risk (survival >91% regardless) | SR, 8 studies | [[implants/survival/da-silva-2025-gingival-phenotype-implant-survival-sr]] |
 
 ---
 
@@ -343,7 +343,7 @@ Screw vs cement retention choice: clinically neutral on MBL — decide on retrie
 - [[implants/peri-implantitis/lin-2025-influence-of-prosthetic-designs]] — prosthetic MBL levers SR+MA
 - [[implants/peri-implantitis/soulami-2022-implant-abutment-emergence-angle-peri-implantitis-sr]] — emergence angle >30° / convex profile → peri-implantitis (SR, 3 studies)
 - [[implants/peri-implantitis/basak-2024-restoration-margin-alveolar-bone-distance-implant]] — RM-AC ≤1.5 mm → 3.42× MBL; IDRA threshold validation (retrospective)
-- [[implants/da-silva-2025-gingival-phenotype-implant-survival-sr]] — thin gingival phenotype as indirect bone-loss risk factor (SR, 8 studies)
+- [[implants/survival/da-silva-2025-gingival-phenotype-implant-survival-sr]] — thin gingival phenotype as indirect bone-loss risk factor (SR, 8 studies)
 - [[implants/peri-implantitis/hakkers-2026-reconstructive-peri-implantitis-3wall-4wall-rct]] — RCT (n=52, 1yr): reconstruction superior MBL (β=−1.65 mm) and recession (β=−1.68 mm); disease resolution equal (44% both); 3-wall defects benefit earlier; radiographic-clinical paradox documented; higher adverse events
 - [[implants/peri-implantitis/ramanauskaite-2023-guided-bone-regeneration-periimplantitis-defects-nma]] — GBR NMA
 - [[implants/peri-implantitis/monje-2025-surface-decontamination-reconstructive-peri-implantitis]] — Monje 2025 multicenter RCT: electrolytic vs H₂O₂ decontamination, no superiority

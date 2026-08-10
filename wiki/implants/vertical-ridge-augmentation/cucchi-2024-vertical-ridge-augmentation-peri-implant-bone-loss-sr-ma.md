@@ -6,7 +6,7 @@ date: 2024-01-01
 doi: 10.1111/cid.13282
 source: cucchi-2024-vertical-ridge-augmentation-peri-implant-bone-loss-sr-ma.md
 category: [implants/vertical-ridge-augmentation]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/cucchi-2024-vertical-ridge-augmentation-peri-implant-bone-loss-sr-ma.pdf
 pdf_filename: cucchi-2024-vertical-ridge-augmentation-peri-implant-bone-loss-sr-ma.pdf
 source_collection: external

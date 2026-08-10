@@ -6,7 +6,7 @@ date: 2024-06-17
 doi: "10.3390/dj12060183"
 source: torra-moneny-2024-connective-tissue-grafts-immediate-implant-sr-ma.md
 category: [immediate-implant/esthetic-soft-tissue]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/torra-moneny-2024-connective-tissue-grafts-immediate-implant-sr-ma.pdf
 pdf_filename: torra-moneny-2024-connective-tissue-grafts-immediate-implant-sr-ma.pdf
 source_collection: external
@@ -55,4 +55,4 @@ This RCT-only meta-analysis (5 RCTs, 245 subjects; 4 pooled) evaluated connectiv
 - [[immediate-implant/esthetic-soft-tissue/seyssens-2021-immediate-implant-connective-tissue-graft-sr-ma]] — reinforces: CTG reduces midfacial recession
 - [[immediate-implant/esthetic-soft-tissue/aldhohrah-2022-soft-tissue-augmentation-immediate-delayed-sctg-sr-ma]] — SCTG SR+MA with significant BTT/MGL/PES gains
 - [[immediate-implant/esthetic-soft-tissue/fettouh-2024-soft-tissue-volume-midfacial-gingival-immediate-implant]] — RCT: CTG vs bone graft vs healing abutment
-- [[implants/thoma-2021-soft-tissue-management-implants-eao-consensus]] — EAO consensus on soft-tissue augmentation
+- [[implants/soft-tissue/thoma-2021-soft-tissue-management-implants-eao-consensus]] — EAO consensus on soft-tissue augmentation

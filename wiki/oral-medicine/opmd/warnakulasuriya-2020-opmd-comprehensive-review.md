@@ -6,7 +6,7 @@ date: 2020-01-01
 doi: 10.1016/j.oraloncology.2019.104550
 source: warnakulasuriya-2020-opmd-comprehensive-review.md
 category: [oral-medicine/opmd]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/warnakulasuriya-2020-opmd-comprehensive-review.pdf
 pdf_filename: warnakulasuriya-2020-opmd-comprehensive-review.pdf
 source_collection: external

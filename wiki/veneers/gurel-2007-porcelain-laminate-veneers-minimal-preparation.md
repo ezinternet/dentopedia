@@ -6,7 +6,7 @@ date: 2007-04-01
 doi: 10.1016/j.cden.2007.03.007
 source: gurel-2007-porcelain-laminate-veneers-minimal-preparation.md
 category: [veneers]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/gurel-2007-porcelain-laminate-veneers-minimal-preparation.pdf
 pdf_filename: gurel-2007-porcelain-laminate-veneers-minimal-preparation.pdf
 source_collection: external

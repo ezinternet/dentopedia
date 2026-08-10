@@ -6,17 +6,24 @@ date: 2026-07-10
 doi: N/A
 source: N/A
 category: overviews
-confidence: synthesis
+evidence_level: synthesis
 pdf_path: N/A
 pdf_filename: N/A
 source_collection: synthesis
-tags: [orofacial-pain, trigeminal-neuralgia, post-traumatic-trigeminal-neuropathy, ptn, nerve-injury, carbamazepine, dentist-awareness, overview]
+tags: [orofacial-pain, trigeminal-neuralgia, post-traumatic-trigeminal-neuropathy, ptn, nerve-injury, carbamazepine, dentist-awareness, local-anesthesia-complications, facial-palsy, overview]
+relations:
+  - type: extends
+    target: villegas-diaz-2024-trigeminal-neuralgia-therapeutic-strategies-restore
+  - type: extends
+    target: ghafoor-2023-neurological-complications-local-anesthesia-dentistry
+  - type: reinforces
+    target: trigeminal-injury-neuropathic-pain-cascade-overview
 ---
 
 ## 한국어 핵심요약
 
 > [!summary] 한국어 핵심요약
-> - 핵심 명제: 신경병성 구강안면통증 (neuropathic orofacial pain)을 치성통증 (odontogenic pain)으로 오진하면 죄 없는 치아에 불필요한 근관치료·발치가 가해진다 — 이 위키의 임상 위험 안전망. wiki 4편(TN SR·PTTN SR·치과의사 인식 조사·하악 감각이상 리뷰)을 진단-치료-예방-의료법 축으로 통합. (기전은 [[overviews/bms-orofacial-pain-neuropathic-mechanism-overview]] 참조, 여기는 임상 페이지)
+> - 핵심 명제: 신경병성 구강안면통증 (neuropathic orofacial pain)을 치성통증 (odontogenic pain)으로 오진하면 죄 없는 치아에 불필요한 근관치료·발치가 가해진다 — 이 위키의 임상 위험 안전망. wiki 6편(TN SR·TN 치료 narrative·PTTN SR·치과의사 인식 조사·하악 감각이상 리뷰·LA 신경학적 합병증 리뷰)을 진단-치료-예방-의료법 축으로 통합. (기전은 [[overviews/bms-orofacial-pain-neuropathic-mechanism-overview]]·[[overviews/trigeminal-injury-neuropathic-pain-cascade-overview]] 참조, 여기는 임상 페이지)
 > - 삼차신경통 (Trigeminal Neuralgia, TN)의 성격: 안면·구강점막 유발점 (trigger zone)을 가벼운 접촉·저작·양치질이 건드리면 순간적인 전기충격성 발작통 — 치통과 혼동되기 쉽다 (Khan 2023).
 > - TN 1차 약물: 카르바마제핀 (Carbamazepine, 0.4–1.2 g/day)·옥스카르바제핀 (Oxcarbazepine, 0.9–1.8 g/day). 2차는 라모트리진·바클로펜, 난치성엔 보툴리눔독소 A (25–75 U)·정맥 리도카인. 혈관압박형(classical) TN의 1차 수술은 미세혈관감압술 (Microvascular Decompression, MVD) (Khan 2023, SR). [근거: SR, 카르바마제핀 외 대부분 저근거]
 > - 외상후 삼차신경병증 (Post-traumatic Trigeminal Neuropathy, PTTN/PTN)의 성격: 신경외상 후 3개월 이상 지속되는 지속적·작열·박동성 편측통 — 발작성 TN과 달리 연속통이며 이질통 (allodynia) 동반 (Alkhutari 2023, SR).
@@ -25,11 +32,13 @@ tags: [orofacial-pain, trigeminal-neuralgia, post-traumatic-trigeminal-neuropath
 > - 하악 구치부 시술 후 감각이상 (Altered Sensation): 임플란트 후 이환율 0–55%(연구설계 의존, 후향 설문이 과대추정), 주로 하치조신경 (Inferior Alveolar Nerve, IAN)·이신경 (Mental Nerve), 대부분 6개월 내 자연회복; 예방은 하악관 위 안전대 (safety zone) ≥2 mm(파노라마)·≥1 mm(CT) (Baek 2010, narrative-review).
 > - 치과의사 인식 공백 (dentist-awareness gap): 이탈리아 치과의 634명 중 29%가 PTTN 존재를 모르고 80%+가 교육받은 적 없으나 70%가 의심 사례 경험 — 대부분 비가역 치료(재근관·치근단절제·발치)로 대응, 3명 중 1명만 통증 전문의 의뢰 (Viscuso 2025, cross-sectional).
 > - 예방·의뢰 원칙: 치성 원인이 검사·영상에서 확인 안 되는 지속통이면 비가역 치료 전에 신경병증을 의심하고 진단적 국소마취 검사·CBCT·신경병증 선별검사 후 의뢰. IAN 근접 하악 구치부·근관 과충전(sealer extrusion)·과계측이 위험 (Alkhutari 2023, Baek 2010).
-> - 임상 결론: 유발점·발작성이면 TN(→약물+신경과), 시술 후 지속통이면 PTTN(→비가역 치료 중단·통증전문의 의뢰) — 두 신경병성 통증을 치통과 감별하는 것이 죄 없는 치아를 지키는 첫 단계다. [근거: SR 2편·단면조사 1편·서사리뷰 1편]
+> - TN 치료 사다리 독립 보강 (Villegas-Díaz 2024, narrative-review): 별개 문헌이 카르바마제핀(100–1200 mg/일) 1차·거의 100% 증상감소를 재확인하고, 수술 modality를 수치로 대비한다 — 미세혈관감압술 (MVD) 초기 성공률 92.7%(사망률 0.7%·연 2% 재발) vs 고주파 근절제술(Radiofrequency Rhizotomy) 즉시완화 97%이나 5년 재발 42%. 발생률 4.3/10만/년(여:남 5.9:3.4). 저자 입장: 치과에서는 약물요법이 중심, 수술은 약물저항성 사례로 한정. (narrative라 근거등급은 Khan SR보다 낮음 — 사다리를 *보강*하되 뒤집지 않음)
+> - 국소마취 (Local Anesthesia, LA) 자체가 신경학적 합병증을 낼 수 있다 (Ghafoor 2023, narrative-review) — PTTN·감각이상과 구별되는 **별도 의인성 축**: ① 안면마비 (Facial Palsy/Bell's Palsy) — 하치조신경전달마취 (IANB) 후 가장 흔한 신경학적 합병증(즉시형=이하선 내 안면신경 침윤, 지연형=교감신경혈관연축·바이러스재활성화). ② 안구 합병증 — 복시·안검하수·일과성/영구 실명(우발적 혈관내 주입 → 중경막동맥 → 안동맥 경로, 또는 익돌근정맥총→해면정맥동 경로로 CN III/VI 압박). ③ 감각이상 — 4% 아티카인/프릴로카인에서 위험 7.3배(Garisto). *단, Cureus 서술리뷰라 발생률이 아닌 인지·기전 수준으로 취급.*
+> - 임상 결론: 유발점·발작성이면 TN(→약물+신경과), 시술 후 지속통이면 PTTN(→비가역 치료 중단·통증전문의 의뢰) — 두 신경병성 통증을 치통과 감별하는 것이 죄 없는 치아를 지키는 첫 단계다. [근거: SR 2편·narrative-review 2편·단면조사 1편]
 
 ## Three-line Summary
 
-Clinical synthesis of 4 papers on neuropathic orofacial pain: TN (paroxysmal, trigger-evoked, first-line carbamazepine/oxcarbazepine, MVD surgery for classical vascular-compression TN) and PTTN (continuous post-injury pain ≥3 months; endodontics = 8% of iatrogenic nerve injuries), plus altered-sensation risk after posterior-mandibular implant surgery (IAN/mental nerve, 0–55% incidence, most resolving in 6 months) and a dentist-awareness gap (29% unaware PTTN exists, >80% never trained).
+Clinical synthesis of 6 papers on neuropathic orofacial pain: TN (paroxysmal, trigger-evoked, first-line carbamazepine/oxcarbazepine, MVD surgery for classical vascular-compression TN — corroborated by an independent narrative review with MVD-vs-rhizotomy durability numbers) and PTTN (continuous post-injury pain ≥3 months; endodontics = 8% of iatrogenic nerve injuries), plus altered-sensation risk after posterior-mandibular implant surgery (IAN/mental nerve, 0–55% incidence, most resolving in 6 months), the transient neurological complications of local anesthesia itself (facial palsy, ocular events, agent-dependent paresthesia), and a dentist-awareness gap (29% unaware PTTN exists, >80% never trained).
 
 The unifying imperative is distinguishing neuropathic from odontogenic pain: PTTN is repeatedly mislabeled atypical odontalgia and managed by irreversible retreatment/extraction — a pattern documented in 71.7% of practitioners who encountered PTTN cases yet only ~1 in 3 referred to a pain specialist.
 
@@ -37,7 +46,7 @@ Clinically: trigger-evoked paroxysmal pain → TN (pharmacology + neurology refe
 
 ## 세줄요약
 
-치과 관련 신경병성 구강안면통증 wiki 4편 종합 — TN(발작성·유발점·1차 카르바마제핀/옥스카르바제핀·MVD 수술)과 PTTN(시술 후 지속통; 근관치료가 의인성 신경손상의 8%), 하악 구치부 임플란트 후 감각이상(IAN/이신경, 0–55%, 대부분 6개월 내 회복), 치과의사 인식 공백(29%가 PTTN 모름·>80%가 교육 미경험)을 통합.
+치과 관련 신경병성 구강안면통증 wiki 6편 종합 — TN(발작성·유발점·1차 카르바마제핀/옥스카르바제핀·MVD 수술; 독립 narrative-review가 MVD-근절제술 내구성 수치로 보강)과 PTTN(시술 후 지속통; 근관치료가 의인성 신경손상의 8%), 하악 구치부 임플란트 후 감각이상(IAN/이신경, 0–55%, 대부분 6개월 내 회복), 국소마취 자체의 일과성 신경학적 합병증(안면마비·안구합병증·약제의존 감각이상), 치과의사 인식 공백(29%가 PTTN 모름·>80%가 교육 미경험)을 통합.
 
 PTTN은 비전형 치통으로 오진되어 재근관·발치 같은 비가역 치료로 대응되는 패턴이 반복됨(PTTN 경험 71.7% 중 통증전문의 의뢰는 1/3에 불과); 경보 원칙: 치성 원인이 확인 안 되는 지속통이면 비가역 치료 전에 신경병증을 의심할 것.
 
@@ -67,10 +76,12 @@ This is the **clinical** trigeminal-pain page; for the molecular substrate (chlo
 
 | 축 (axis) | Spine paper | Type | Key finding |
 |---|---|---|---|
-| Neuralgia — diagnosis & therapy | [[oral-medicine/khan-2023-trigeminal-neuralgia-therapeutic-approach-sr]] | sr | Paroxysmal trigger-evoked TN; first-line carbamazepine 0.4–1.2 g/day / oxcarbazepine 0.9–1.8 g/day; 2nd-line lamotrigine/baclofen; BTX-A 25–75 U & IV lidocaine refractory; MVD first-line surgery for classical TN |
-| Neuropathy — iatrogenic (endodontic) | [[oral-medicine/alkhutari-2023-post-traumatic-trigeminal-neuropathy-endodontic-sr]] | sr | Endodontics = 6–8% of trigeminal nerve injuries; onset 3–48 mo post-RCT; female mid-40s; non-odontogenic pain misdiagnosed as AO/PDAP; mandibular apices near IAN canal/mental foramen |
-| Nerve injury — implant/surgery | [[oral-surgery/baek-2010-literature-review-altered-sensation-mandibular]] | narrative-review | Altered sensation 0–55% after posterior-mandibular implant (design-dependent); IAN/mental nerve; mostly transient (≤6 mo); safety zone ≥2 mm panoramic/≥1 mm CT; microneuroanastomosis indications; medicolegal cases |
-| Dentist awareness — the gap | [[oral-medicine/viscuso-2025-dentist-awareness-post-traumatic-trigeminal-neuropathic-pain-survey]] | cross-sectional | 634 dentists: 28.7% unaware PTTN exists, >80% untaught, 71.7% encountered a case; default irreversible treatment (retreatment/apicectomy/extraction), only ~1 in 3 referred; unawareness propagates (p<0.05) |
+| Neuralgia — diagnosis & therapy | [[oral-medicine/trigeminal-neuralgia/khan-2023-trigeminal-neuralgia-therapeutic-approach-sr]] | sr | Paroxysmal trigger-evoked TN; first-line carbamazepine 0.4–1.2 g/day / oxcarbazepine 0.9–1.8 g/day; 2nd-line lamotrigine/baclofen; BTX-A 25–75 U & IV lidocaine refractory; MVD first-line surgery for classical TN |
+| Neuralgia — therapy corroboration | [[oral-medicine/trigeminal-neuralgia/villegas-diaz-2024-trigeminal-neuralgia-therapeutic-strategies-restore]] | narrative-review | Independent (non-SR) corroboration of carbamazepine-first ladder (100–1200 mg/day, ~100% relief); MVD 92.7% success (0.7% mortality, 2%/yr recurrence) vs radiofrequency rhizotomy 97% immediate but 42% 5-yr recurrence; incidence 4.3/100k/yr (F:M 5.9:3.4); pharmacology-first stance for dental practice |
+| Iatrogenic — LA neurological complications | [[local-anesthesia/ghafoor-2023-neurological-complications-local-anesthesia-dentistry]] | narrative-review | Nerve-by-nerve map of LA complications: facial (Bell's) palsy = most frequent after IANB (immediate parotid-anatomic vs delayed vasospasm/viral); ocular (diplopia/ptosis/blindness) via inadvertent intravascular MMA→ophthalmic-artery spread; paresthesia 7.3× with 4% articaine (Garisto). Case-report-level, not incidence |
+| Neuropathy — iatrogenic (endodontic) | [[oral-medicine/trigeminal-neuralgia/alkhutari-2023-post-traumatic-trigeminal-neuropathy-endodontic-sr]] | sr | Endodontics = 6–8% of trigeminal nerve injuries; onset 3–48 mo post-RCT; female mid-40s; non-odontogenic pain misdiagnosed as AO/PDAP; mandibular apices near IAN canal/mental foramen |
+| Nerve injury — implant/surgery | [[oral-surgery/nerve-injury/baek-2010-literature-review-altered-sensation-mandibular]] | narrative-review | Altered sensation 0–55% after posterior-mandibular implant (design-dependent); IAN/mental nerve; mostly transient (≤6 mo); safety zone ≥2 mm panoramic/≥1 mm CT; microneuroanastomosis indications; medicolegal cases |
+| Dentist awareness — the gap | [[oral-medicine/trigeminal-neuralgia/viscuso-2025-dentist-awareness-post-traumatic-trigeminal-neuropathic-pain-survey]] | cross-sectional | 634 dentists: 28.7% unaware PTTN exists, >80% untaught, 71.7% encountered a case; default irreversible treatment (retreatment/apicectomy/extraction), only ~1 in 3 referred; unawareness propagates (p<0.05) |
 | Mechanism (cross-reference) | [[overviews/bms-orofacial-pain-neuropathic-mechanism-overview]] | synthesis | Molecular substrate of trigeminal neuropathic pain — chloride disinhibition (NKCC1/KCC2), small-fiber neuropathy, neurosteroid/T-type Ca²⁺ axis, **plus (2026-07-10 update)** the Sp5C central-sensitization circuit (Kim 2024, explains TN's continuous-pain phase) and the peripheral PTNP cascade (Korczeniewska 2022, chemokines→ion channels→satellite glial cells; ~3% of nerve injuries progress to PTNP) |
 
 ## Clinical Decision Points
@@ -85,16 +96,20 @@ This is the **clinical** trigeminal-pain page; for the molecular substrate (chlo
 
 5. **Iatrogenic-injury prevention — implant/oral surgery.** Maintain a safety zone **≥2 mm above the mandibular canal on panoramic and ≥1 mm on CT**, and account for the mental-nerve anterior loop (place implants mesial to it) (Baek 2010). Most altered sensation is transient (≤6 months); persistent anesthesia >3 months or dysesthesia >4 months without improvement are indications for microneurosurgical referral (Baek 2010). Document consent — nerve injury carries medicolegal exposure (Baek 2010).
 
-6. **Do not over-medicate a misdiagnosis.** Because carbamazepine works for TN, a symptomatic response does not by itself confirm the tooth is innocent — but a paroxysmal trigger-evoked history plus a negative dental work-up should shift management from the operatory to pharmacotherapy + referral (Khan 2023).
+6. **Do not over-medicate a misdiagnosis.** Because carbamazepine works for TN, a symptomatic response does not by itself confirm the tooth is innocent — but a paroxysmal trigger-evoked history plus a negative dental work-up should shift management from the operatory to pharmacotherapy + referral (Khan 2023). The dentist-facing therapeutic ladder is corroborated by an independent narrative review (carbamazepine 100–1200 mg/day first-line; surgery reserved for medication-refractory cases; MVD > radiofrequency rhizotomy on durability — 2%/yr vs 42%/5-yr recurrence) (Villegas-Díaz 2024).
+
+7. **Distinguish transient LA-injection neurological complications from true nerve injury.** Not every post-injection neurological sign is PTTN. Dental local anesthesia can produce *self-limiting* complications by vascular/anatomic routes: facial (Bell's-type) palsy is the most frequent neurological event after IANB (immediate onset = anesthetic reaching the facial nerve within the parotid; delayed = sympathetic vasospasm/viral reactivation), and ocular complications (diplopia, ptosis, transient blindness) arise from inadvertent intravascular spread up the middle-meningeal→ophthalmic-artery pathway (Ghafoor 2023). Recognize these, reassure and observe the transient ones, protect the eye during any orbital involvement, and separate them from a persisting paresthesia/dysesthesia that signals genuine nerve trauma — the latter follows the concentration-risk signal (7.3× with 4% articaine) and enters the PTTN/altered-sensation pathway above (Ghafoor 2023). *Caveat: these are case-report-level mechanisms, not validated incidence figures.*
 
 ## Related Papers
 
-- [[oral-medicine/khan-2023-trigeminal-neuralgia-therapeutic-approach-sr]] — TN diagnosis & pharmacologic/surgical ladder (spine: neuralgia axis)
-- [[oral-medicine/alkhutari-2023-post-traumatic-trigeminal-neuropathy-endodontic-sr]] — endodontic PTTN quantified (spine: iatrogenic neuropathy axis)
-- [[oral-medicine/viscuso-2025-dentist-awareness-post-traumatic-trigeminal-neuropathic-pain-survey]] — dentist-awareness/referral gap (spine: recognition axis)
-- [[oral-surgery/baek-2010-literature-review-altered-sensation-mandibular]] — altered sensation after mandibular implant surgery; safety zone & microneurosurgery (spine: nerve-injury/prevention axis)
+- [[oral-medicine/trigeminal-neuralgia/khan-2023-trigeminal-neuralgia-therapeutic-approach-sr]] — TN diagnosis & pharmacologic/surgical ladder (spine: neuralgia axis)
+- [[oral-medicine/trigeminal-neuralgia/villegas-diaz-2024-trigeminal-neuralgia-therapeutic-strategies-restore]] — independent narrative-review corroboration of the carbamazepine-first ladder; adds MVD-vs-rhizotomy durability numbers and a pharmacology-first-for-dentists editorial stance (spine: neuralgia therapy axis)
+- [[local-anesthesia/ghafoor-2023-neurological-complications-local-anesthesia-dentistry]] — LA-injection neurological complications nerve-by-nerve (facial palsy, ocular, paresthesia) — the transient iatrogenic axis to distinguish from true PTTN/nerve injury (spine: iatrogenic axis)
+- [[oral-medicine/trigeminal-neuralgia/alkhutari-2023-post-traumatic-trigeminal-neuropathy-endodontic-sr]] — endodontic PTTN quantified (spine: iatrogenic neuropathy axis)
+- [[oral-medicine/trigeminal-neuralgia/viscuso-2025-dentist-awareness-post-traumatic-trigeminal-neuropathic-pain-survey]] — dentist-awareness/referral gap (spine: recognition axis)
+- [[oral-surgery/nerve-injury/baek-2010-literature-review-altered-sensation-mandibular]] — altered sensation after mandibular implant surgery; safety zone & microneurosurgery (spine: nerve-injury/prevention axis)
 - [[overviews/bms-orofacial-pain-neuropathic-mechanism-overview]] — mechanistic backbone of trigeminal neuropathic pain (why the neuropathic branch behaves as it does; this clinical page is its bedside counterpart). As of 2026-07-10 also covers the Sp5C circuit anatomy behind TN's continuous-pain phase and the peripheral PTNP injury cascade (Kim 2024, Korczeniewska 2022)
-- [[oral-medicine/jaaskelainen-2018-burning-mouth-syndrome-neuropathic-pain]] — sibling trigeminal neuropathic-pain entity (BMS) in the same orofacial-pain differential
+- [[oral-medicine/burning-mouth-syndrome/jaaskelainen-2018-burning-mouth-syndrome-neuropathic-pain]] — sibling trigeminal neuropathic-pain entity (BMS) in the same orofacial-pain differential
 
 ## Bottom Line (한 줄 결론)
 

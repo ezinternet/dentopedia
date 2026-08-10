@@ -8,7 +8,7 @@ pmid: "39202537"
 pmcid: "PMC11356457"
 source: park-2024-surgical-drainage-simultaneous-sinus-floor.md
 category: [sinus-lift/lateral]
-confidence: case-report
+evidence_level: case-report
 source_collection: pubmed-text
 text_path: /Users/oracleneo/llm-wiki/papers/park-2024-surgical-drainage-simultaneous-sinus-floor.txt
 text_filename: park-2024-surgical-drainage-simultaneous-sinus-floor.txt

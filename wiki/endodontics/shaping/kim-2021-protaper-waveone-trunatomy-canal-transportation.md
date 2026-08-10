@@ -6,7 +6,7 @@ date: 2021-10-19
 doi: 10.1186/s12903-021-01854-z
 source: kim-2021-protaper-waveone-trunatomy-canal-transportation.md
 category: [endodontics/shaping]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/kim-2021-protaper-waveone-trunatomy-canal-transportation.pdf
 pdf_filename: kim-2021-protaper-waveone-trunatomy-canal-transportation.pdf
 source_collection: external

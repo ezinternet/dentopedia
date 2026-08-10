@@ -6,7 +6,7 @@ date: 2022-01-01
 doi: 10.1016/j.jdent.2022.104273
 source: chan-2022-professionally-applied-fluoride-older-adults.md
 category: [geriatric-dentistry]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/chan-2022-professionally-applied-fluoride-older-adults.pdf
 pdf_filename: chan-2022-professionally-applied-fluoride-older-adults.pdf
 source_collection: external
@@ -42,7 +42,7 @@ SR+MA(임상시험 7편, 5개 데이터베이스 2021년 12월까지, Cochrane R
 5개 DB(~2021.12), 비교군 있는 임상시험 7편. Cochrane RoB.
 
 ## Results
-38% SDF 근관면 우식 예방분율 25-71%, 24개월 정지율 42%(95%CI 33-49); NaF varnish 64%·APF 32% 예방 [근거강함~합의수준].
+38% SDF 근관면 우식 예방분율 25-71%, 24개월 정지율 42%(95%CI 33-49); NaF varnish 64%·APF 32% 예방 [확인].
 
 ## Related Papers
 - [[caries/meyer-lueckel-2019-intervene-root-caries-process-sr-ma]] — 근관면 우식 개입 위계

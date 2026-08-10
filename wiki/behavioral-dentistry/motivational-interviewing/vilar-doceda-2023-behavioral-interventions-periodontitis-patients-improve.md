@@ -6,7 +6,7 @@ date: 2023-03-15
 doi: 10.3390/jcm12062276
 source: vilar-doceda-2023-behavioral-interventions-periodontitis-patients-improve.md
 category: [behavioral-dentistry/motivational-interviewing]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/vilar-doceda-2023-behavioral-interventions-periodontitis-patients-improve.pdf
 pdf_filename: vilar-doceda-2023-behavioral-interventions-periodontitis-patients-improve.pdf
 source_collection: external

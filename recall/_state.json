@@ -1,17 +1,722 @@
 {
   "sinus-lift-technique-selection::q1": {
-    "box": 2,
-    "due": "2026-07-12",
-    "last": "2026-07-09"
+    "box": 4,
+    "due": "2026-08-24",
+    "last": "2026-08-08"
   },
   "sinus-lift-technique-selection::q2": {
-    "box": 2,
-    "due": "2026-07-12",
-    "last": "2026-07-09"
+    "box": 4,
+    "due": "2026-08-24",
+    "last": "2026-08-08"
   },
   "sinus-lift-technique-selection::q3": {
     "box": 1,
-    "due": "2026-07-10",
-    "last": "2026-07-09"
+    "due": "2026-08-09",
+    "last": "2026-08-08"
+  },
+  "adhesive-bonding-strategies-overview::q1": {
+    "box": 2,
+    "due": "2026-08-11",
+    "last": "2026-08-08"
+  },
+  "adhesive-bonding-strategies-overview::q2": {
+    "box": 2,
+    "due": "2026-08-11",
+    "last": "2026-08-08"
+  },
+  "adhesive-bonding-strategies-overview::q3": {
+    "box": 2,
+    "due": "2026-08-11",
+    "last": "2026-08-08"
+  },
+  "behavioral-dentistry-overview::q1": {
+    "box": 2,
+    "due": "2026-08-11",
+    "last": "2026-08-08"
+  },
+  "behavioral-dentistry-overview::q2": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "behavioral-dentistry-overview::q3": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "bms-orofacial-pain-neuropathic-mechanism-overview::q1": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "bms-orofacial-pain-neuropathic-mechanism-overview::q2": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "bms-orofacial-pain-neuropathic-mechanism-overview::q3": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "bone-quality-implant-risk-modification-overview::q1": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "bone-quality-implant-risk-modification-overview::q2": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "bone-quality-implant-risk-modification-overview::q3": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "bone-regeneration-protocol-ladder::q1": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "bone-regeneration-protocol-ladder::q2": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "bone-regeneration-protocol-ladder::q3": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "bruxism-muscle-overload-axis::q1": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "bruxism-muscle-overload-axis::q2": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "bruxism-muscle-overload-axis::q3": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "conservative-access-cavity-biomechanics-overview::q1": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "conservative-access-cavity-biomechanics-overview::q2": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "conservative-access-cavity-biomechanics-overview::q3": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "dental-materials-decision-ladder::q1": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "dental-materials-decision-ladder::q2": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "dental-materials-decision-ladder::q3": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "dentin-hypersensitivity-overview::q1": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "dentin-hypersensitivity-overview::q2": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "dentin-hypersensitivity-overview::q3": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "direct-resin-restoration-adhesion-placement-overview::q1": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "direct-resin-restoration-adhesion-placement-overview::q2": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "direct-resin-restoration-adhesion-placement-overview::q3": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "drug-analgesics-postop-pain-overview::q1": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "drug-analgesics-postop-pain-overview::q2": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "drug-analgesics-postop-pain-overview::q3": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "drug-antibiotic-stewardship-overview::q1": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "drug-antibiotic-stewardship-overview::q2": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "drug-antibiotic-stewardship-overview::q3": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "drug-anticoagulant-antiplatelet-perioperative-overview::q1": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "drug-anticoagulant-antiplatelet-perioperative-overview::q2": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "drug-anticoagulant-antiplatelet-perioperative-overview::q3": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "drug-clinical-decision-ladder::q1": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "drug-clinical-decision-ladder::q2": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "drug-clinical-decision-ladder::q3": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "drug-mronj-antiresorptive-overview::q1": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "drug-mronj-antiresorptive-overview::q2": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "drug-mronj-antiresorptive-overview::q3": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "drug-systemic-disease-dental-management-overview::q1": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "drug-systemic-disease-dental-management-overview::q2": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "drug-systemic-disease-dental-management-overview::q3": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "early-implant-failure-risk-prevention-overview::q1": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "early-implant-failure-risk-prevention-overview::q2": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "early-implant-failure-risk-prevention-overview::q3": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "evidence-appraisal-toolkit::q1": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "evidence-appraisal-toolkit::q2": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "evidence-appraisal-toolkit::q3": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "immediate-implant-decision-ladder::q1": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "immediate-implant-decision-ladder::q2": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "immediate-implant-decision-ladder::q3": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "implant-occlusion-loading-biomechanics-overview::q1": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "implant-occlusion-loading-biomechanics-overview::q2": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "implant-occlusion-loading-biomechanics-overview::q3": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "implant-surface-comparison::q1": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "implant-surface-comparison::q2": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "implant-surface-comparison::q3": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "implants-clinical-decision-ladder::q1": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "implants-clinical-decision-ladder::q2": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "implants-clinical-decision-ladder::q3": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "implants-isq-stability-ladder::q1": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "implants-isq-stability-ladder::q2": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "implants-isq-stability-ladder::q3": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "interdental-cleaning-devices-synthesis::q1": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "interdental-cleaning-devices-synthesis::q2": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "interdental-cleaning-devices-synthesis::q3": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "isq-loading-threshold::q1": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "isq-loading-threshold::q2": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "isq-loading-threshold::q3": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "keratinized-mucosa-peri-implant-health-overview::q1": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "keratinized-mucosa-peri-implant-health-overview::q2": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "keratinized-mucosa-peri-implant-health-overview::q3": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "mandibular-anesthesia-efficacy-ladder::q1": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "mandibular-anesthesia-efficacy-ladder::q2": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "mandibular-anesthesia-efficacy-ladder::q3": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "odontogenic-maxillary-sinusitis-overview::q1": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "odontogenic-maxillary-sinusitis-overview::q2": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "odontogenic-maxillary-sinusitis-overview::q3": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "oral-medicine-decision-ladder::q1": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "oral-medicine-decision-ladder::q2": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "oral-medicine-decision-ladder::q3": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "oral-surgery-decision-ladder::q1": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "oral-surgery-decision-ladder::q2": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "oral-surgery-decision-ladder::q3": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "osseodensification-clinical-applications::q1": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "osseodensification-clinical-applications::q2": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "osseodensification-clinical-applications::q3": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "peri-implant-soft-tissue-dehiscence-prevention::q1": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "peri-implant-soft-tissue-dehiscence-prevention::q2": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "peri-implant-soft-tissue-dehiscence-prevention::q3": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "peri-implantitis-management-overview::q1": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "peri-implantitis-management-overview::q2": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "peri-implantitis-management-overview::q3": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "periodontal-adjunctive-therapy-probiotics-pdt-overview::q1": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "periodontal-adjunctive-therapy-probiotics-pdt-overview::q2": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "periodontal-adjunctive-therapy-probiotics-pdt-overview::q3": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "periodontics-treatment-ladder::q1": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "periodontics-treatment-ladder::q2": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "periodontics-treatment-ladder::q3": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "prosthetic-materials-decision-ladder::q1": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "prosthetic-materials-decision-ladder::q2": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "prosthetic-materials-decision-ladder::q3": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "pulpal-neurogenic-inflammation-counter-systems-overview::q1": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "pulpal-neurogenic-inflammation-counter-systems-overview::q2": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "pulpal-neurogenic-inflammation-counter-systems-overview::q3": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "reis-2024-biomimetic-restorative-myths-narrative::q1": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "reis-2024-biomimetic-restorative-myths-narrative::q2": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "reis-2024-biomimetic-restorative-myths-narrative::q3": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "root-coverage-surgery-graft-adjunct-outcome-overview::q1": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "root-coverage-surgery-graft-adjunct-outcome-overview::q2": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "root-coverage-surgery-graft-adjunct-outcome-overview::q3": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "short-implant-vs-sinus-augmentation-decision::q1": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "short-implant-vs-sinus-augmentation-decision::q2": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "short-implant-vs-sinus-augmentation-decision::q3": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "sinus-lift-isq-loading-timing::q1": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "sinus-lift-isq-loading-timing::q2": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "sinus-lift-isq-loading-timing::q3": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "sinus-lift-lateral-2026-synthesis::q1": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "sinus-lift-lateral-2026-synthesis::q2": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "sinus-lift-lateral-2026-synthesis::q3": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "smoking-tobacco-periodontal-implant-overview::q1": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "smoking-tobacco-periodontal-implant-overview::q2": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "smoking-tobacco-periodontal-implant-overview::q3": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "tmd-management-evidence-ladder::q1": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "tmd-management-evidence-ladder::q2": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "tmd-management-evidence-ladder::q3": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "trigeminal-neuralgia-neuropathy-overview::q1": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "trigeminal-neuralgia-neuropathy-overview::q2": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "trigeminal-neuralgia-neuropathy-overview::q3": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "trismus-limited-mouth-opening-overview::q1": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "trismus-limited-mouth-opening-overview::q2": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "trismus-limited-mouth-opening-overview::q3": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "vital-pulp-therapy-decision-ladder::q1": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "vital-pulp-therapy-decision-ladder::q2": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
+  },
+  "vital-pulp-therapy-decision-ladder::q3": {
+    "box": 1,
+    "due": "2026-07-29",
+    "last": null
   }
 }

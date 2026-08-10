@@ -6,7 +6,7 @@ date: 2023-05-22
 doi: 10.1111/cid.13225
 journal: Clinical Implant Dentistry and Related Research 25(5):967-973
 source: yu-2023-immediate-delayed-sinus-pseudocyst-rct.md
-confidence: rct
+evidence_level: rct
 category: [sinus-lift/pseudocyst]
 pdf_path: /Users/oracleneo/llm-wiki/papers/yu-2023-immediate-delayed-sinus-pseudocyst-rct.pdf
 pdf_filename: yu-2023-immediate-delayed-sinus-pseudocyst-rct.pdf
@@ -55,8 +55,8 @@ Single-center prospective RCT, Peking University. 33 sinus augmentation procedur
 - 측방창 접근 한정 — 경치조골 접근에는 별도 검증 필요
 
 ## Strengths and Caveats
-[근거강함] RCT 디자인, primary outcome으로 조직형태계측 사용
-[claude해석] 33개 sinus는 통계적 power 제한 — 두 군 간 효과 크기가 작아도 통계 유의차 못 잡을 가능성
+[확인] RCT 디자인, primary outcome으로 조직형태계측 사용
+[미검증] 33개 sinus는 통계적 power 제한 — 두 군 간 효과 크기가 작아도 통계 유의차 못 잡을 가능성
 [미검증] 12개월 이상 장기 추적 데이터 부재
 
 ## Related Papers

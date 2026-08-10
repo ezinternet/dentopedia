@@ -6,7 +6,7 @@ date: 2025-08-27
 doi: 10.3390/biomimetics10090571
 source: ho-2025-plasma-titanium-contaminants-biocompatibility.md
 category: [implants/surface/plasma]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/ho-2025-plasma-titanium-contaminants-biocompatibility.pdf
 pdf_filename: ho-2025-plasma-titanium-contaminants-biocompatibility.pdf
 source_collection: external

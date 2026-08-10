@@ -6,7 +6,7 @@ date: 2019-01-01
 doi: "10.1177/0022034518800014"
 source: urquhart-2019-nonrestorative-treatments-caries-network-meta-analysis.md
 category: [caries]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/urquhart-2019-nonrestorative-treatments-caries-network-meta-analysis.pdf
 pdf_filename: urquhart-2019-nonrestorative-treatments-caries-network-meta-analysis.pdf
 source_collection: external

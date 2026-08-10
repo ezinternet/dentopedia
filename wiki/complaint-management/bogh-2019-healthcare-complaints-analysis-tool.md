@@ -6,7 +6,7 @@ date: 2019-11-04
 doi: "10.1136/bmjopen-2019-033638"
 source: bogh-2019-healthcare-complaints-analysis-tool.md
 category: complaint-management
-confidence: cross-sectional
+evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/bogh-2019-healthcare-complaints-analysis-tool.pdf
 pdf_filename: bogh-2019-healthcare-complaints-analysis-tool.pdf
 source_collection: external

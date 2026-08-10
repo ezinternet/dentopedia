@@ -6,7 +6,7 @@ date: 2026-05-26
 doi: N/A
 source: N/A
 category: overviews
-confidence: synthesis
+evidence_level: synthesis
 pdf_path: N/A
 pdf_filename: N/A
 source_collection: synthesis
@@ -17,13 +17,13 @@ tags: [bone-regeneration, arp, ridge-preservation, gbr, socket-seal, graft, memb
 
 > [!summary] 한국어 핵심요약
 > - 발치 후 치조제 보존술 (Alveolar Ridge Preservation, ARP) 의사결정을 4축 — 자연 치유 흡수량 · ARP 효과 크기 · 이식재 (Graft) 비교 · 차폐막/판막/연조직 봉쇄 (Soft Tissue Seal) 조합 — 으로 분해한 ladder다.
-> - 축 1 (자연 치유): 발치 후 6개월에 수평 폭 −3.79 mm (29–63%), 수직 협측 높이 −1.24~1.67 mm 흡수 — 수평 흡수가 수직보다 압도적으로 크다. [근거강함]
-> - 축 2 (ARP 효과): ARP는 자연 치유 대비 수평 흡수를 1.86~2.19 mm 줄인다 (Bassir 2018, Troiano 2018 SR+MA). 즉시 식립 불가 + 4–6개월 healing 필요 발치 → ARP 수행이 1차 권고. [근거강함]
-> - 축 3 (이식재): allograft·xenograft·alloplast 간 임상 outcome 차이는 미미하며, 이종골 골이식재 (Bio-Oss, DBBM) = 자가골 (Autogenous bone) 수준 — 재료 선택은 비용·흡수 프로파일 기준. [합의수준]
-> - 축 4 (차폐막/봉쇄): 콜라겐 차폐막 + DBBM이 표준 조합. 자가 연조직 이식 (특히 유리치은이식 Free Gingival Graft, FGG) 이 심미부위 협/설측 높이 보존에 최우수. [근거강함]
+> - 축 1 (자연 치유): 발치 후 6개월에 수평 폭 −3.79 mm (29–63%), 수직 협측 높이 −1.24~1.67 mm 흡수 — 수평 흡수가 수직보다 압도적으로 크다. [확인]
+> - 축 2 (ARP 효과): ARP는 자연 치유 대비 수평 흡수를 1.86~2.19 mm 줄인다 (Bassir 2018, Troiano 2018 SR+MA). 즉시 식립 불가 + 4–6개월 healing 필요 발치 → ARP 수행이 1차 권고. [확인]
+> - 축 3 (이식재): allograft·xenograft·alloplast 간 임상 outcome 차이는 미미하며, 이종골 골이식재 (Bio-Oss, DBBM) = 자가골 (Autogenous bone) 수준 — 재료 선택은 비용·흡수 프로파일 기준. [확인]
+> - 축 4 (차폐막/봉쇄): 콜라겐 차폐막 + DBBM이 표준 조합. 자가 연조직 이식 (특히 유리치은이식 Free Gingival Graft, FGG) 이 심미부위 협/설측 높이 보존에 최우수. [확인]
 > - 결정 트리: 협측골 온전 (4벽 socket) → flapless + Bio-Col (DBBM + 콜라겐 막), 협측 결손 (1–2벽) → 판막 거상 + DBBM + dPTFE 막 (4–6주 후 제거), 심미부위 결손 → 여기에 FGG/결합조직이식 (CTG) 추가.
 > - 이식재 선택 세부: 일반 케이스 = DBBM (Bio-Oss) + 콜라겐 막, 비용 민감 = β-TCP (합성골, 근거 다소 약함), 자가치아입자 (APDM, Smart Dentin Grinder chairside) = DBBM 대등 (Feng 2024 SR+MA).
-> - 흔한 오판: "막이 노출되면 실패다" — dPTFE는 애초에 노출 디자인이며, 콜라겐은 노출 시 빨리 분해되므로 1차 봉합 또는 punch graft 봉쇄가 필요하다. [근거강함]
+> - 흔한 오판: "막이 노출되면 실패다" — dPTFE는 애초에 노출 디자인이며, 콜라겐은 노출 시 빨리 분해되므로 1차 봉합 또는 punch graft 봉쇄가 필요하다. [확인]
 > - 임상 takeaway: 발치 후 임플란트 계획이 있으면 자연 치유만으로는 수평 폭이 가장 흔히 부족해지므로, 협측 thin (협측골 두께 BBT < 1 mm) 부위에서는 ARP의 이득이 가장 크다.
 > - 본 페이지는 발치 후 ARP에 집중하며, 이미 흡수된 능선을 재건하는 수평·수직 골증대 (GBR) 와 즉시 식립 결정 ladder는 별도 페이지로 위임한다.
 
@@ -48,11 +48,11 @@ Clinical takeaway: socket-defect-driven decision tree — intact 4-wall socket �
 발치 후 치조제 보존은 치과의사가 가장 자주 마주하는 외과 결정 중 하나. 4축으로 분해된다 — (1) 자연 치유 시 어느 정도 흡수되나, (2) ARP가 그 흡수를 얼마나 줄이나, (3) graft material 간 차이는 있나, (4) flap·membrane·soft tissue seal 조합을 어떻게 선택하나. 각 축의 spine evidence + 임상 임계값을 정리한다.
 
 핵심 명제 5개:
-1. **자연 치유 6개월 — 수평 폭 −3.8 mm (29-63%), 수직 협측 −1.2 mm (11-22%) 흡수. 수평 흡수가 수직보다 압도적** — Tan 2012 SR, Vanderweijden 2009 SR, Couso-Queiruga 2021 SR+MA. [근거강함]
-2. **ARP는 자연 치유 대비 수평 흡수 1.86-2.19 mm 감소** — Bassir 2018 SR+MA (21편), Troiano 2018 SR+MA + TSA (7편), Avila-Ortiz 2014/2019 SR+MA. [근거강함]
-3. **Graft material 간 차이 적음 — allograft·xenograft·alloplast 비교 임상 outcome 유의차 미미. Bio-Oss = 자가골** — Majzoub 2019 SR, Akbarzadeh-Baghban 2009 SR+MA, Pezzella 2026 β-TCP SR. [합의수준]
-4. **Membrane + graft 조합 (특히 dPTFE 또는 collagen + DBBM) 이 자연치유 대비 width −1.18 mm, height −1.35 mm 감소** — Atieh 2021 Cochrane update (16 RCT). [근거강함]
-5. **Soft tissue seal (특히 free gingival graft, FGG) — 심미부위 협/설측 높이 보존 최우수** — Lopez-Pacheco 2021 SR+MA (6 RCT), Del-Fabbro 2022 NMA. [근거강함]
+1. **자연 치유 6개월 — 수평 폭 −3.8 mm (29-63%), 수직 협측 −1.2 mm (11-22%) 흡수. 수평 흡수가 수직보다 압도적** — Tan 2012 SR, Vanderweijden 2009 SR, Couso-Queiruga 2021 SR+MA. [확인]
+2. **ARP는 자연 치유 대비 수평 흡수 1.86-2.19 mm 감소** — Bassir 2018 SR+MA (21편), Troiano 2018 SR+MA + TSA (7편), Avila-Ortiz 2014/2019 SR+MA. [확인]
+3. **Graft material 간 차이 적음 — allograft·xenograft·alloplast 비교 임상 outcome 유의차 미미. Bio-Oss = 자가골** — Majzoub 2019 SR, Akbarzadeh-Baghban 2009 SR+MA, Pezzella 2026 β-TCP SR. [확인]
+4. **Membrane + graft 조합 (특히 dPTFE 또는 collagen + DBBM) 이 자연치유 대비 width −1.18 mm, height −1.35 mm 감소** — Atieh 2021 Cochrane update (16 RCT). [확인]
+5. **Soft tissue seal (특히 free gingival graft, FGG) — 심미부위 협/설측 높이 보존 최우수** — Lopez-Pacheco 2021 SR+MA (6 RCT), Del-Fabbro 2022 NMA. [확인]
 
 ## Key Contributions
 
@@ -68,7 +68,7 @@ Clinical takeaway: socket-defect-driven decision tree — intact 4-wall socket �
 
 ### 축 1 — 자연 치유 baseline (Natural Socket Healing)
 
-**핵심 수치**: 발치 후 6개월 자연 치유 — 수평 폭 −3.79 mm (가중평균), 수직 협측 높이 −1.24-1.67 mm. 수평이 수직보다 훨씬 크다. [근거강함]
+**핵심 수치**: 발치 후 6개월 자연 치유 — 수평 폭 −3.79 mm (가중평균), 수직 협측 높이 −1.24-1.67 mm. 수평이 수직보다 훨씬 크다. [확인]
 
 | Spine paper | Evidence | Key finding |
 |---|---|---|
@@ -77,11 +77,11 @@ Clinical takeaway: socket-defect-driven decision tree — intact 4-wall socket �
 | [[couso-queiruga-2021-post-extraction-dimensional-changes-systematic]] | sr+ma (28편 / 20 pooled) | 비대구치 수평 2.5-2.7 mm, 협측 수직 1.7 mm. 시간별 흡수 곡선 정량화 |
 | [[bone-regeneration/ridge-preservation/trombelli-2008-modeling-remodeling-human-extraction-sockets]] | in-vivo (27 biopsy) | 발치 2-4w 육아조직 → 6w 잠정 기질 + 직조골 |
 
-**임상 함의**: 발치 후 임플란트 계획이 있다면 — 자연 치유만으로는 가장 흔히 수평 폭이 부족해진다. 협측 thin (BBT < 1mm) 부위에서 손실 더 큼. [근거강함]
+**임상 함의**: 발치 후 임플란트 계획이 있다면 — 자연 치유만으로는 가장 흔히 수평 폭이 부족해진다. 협측 thin (BBT < 1mm) 부위에서 손실 더 큼. [확인]
 
 ### 축 2 — ARP의 효과 크기 (How much does ARP help?)
 
-**1차 권고**: 즉시 식립 불가하고 4-6개월 healing이 필요한 발치 → ARP 수행. 자연 치유 대비 수평 흡수 1.86-2.19 mm 감소. [근거강함]
+**1차 권고**: 즉시 식립 불가하고 4-6개월 healing이 필요한 발치 → ARP 수행. 자연 치유 대비 수평 흡수 1.86-2.19 mm 감소. [확인]
 
 | Spine paper | Evidence | Key finding |
 |---|---|---|
@@ -100,7 +100,7 @@ Clinical takeaway: socket-defect-driven decision tree — intact 4-wall socket �
 
 ### 축 3 — Graft Material 비교 (Material Choice)
 
-**1차 권고**: Bio-Oss (DBBM) 또는 동등 이종골 + collagen membrane이 가장 evidence-rich. 합성골 (β-TCP) 가용성 좋으나 흡수 가변적. 자가골은 이종골 대비 임상 outcome 차이 미미. [합의수준]
+**1차 권고**: Bio-Oss (DBBM) 또는 동등 이종골 + collagen membrane이 가장 evidence-rich. 합성골 (β-TCP) 가용성 좋으나 흡수 가변적. 자가골은 이종골 대비 임상 outcome 차이 미미. [확인]
 
 | Spine paper | Evidence | Key finding |
 |---|---|---|
@@ -120,7 +120,7 @@ Clinical takeaway: socket-defect-driven decision tree — intact 4-wall socket �
 
 ### 축 4 — Membrane · Flap · Soft Tissue Seal
 
-**1차 권고**: Collagen 막 + DBBM이 표준. 1차 봉합 가능하면 flap 거상. 심미부위는 flapless + soft tissue seal (FGG 또는 punch) 고려. dPTFE 막 (Cytoplast) 은 노출 시에도 작동, 4-6주 제거 prerequisite. [근거강함]
+**1차 권고**: Collagen 막 + DBBM이 표준. 1차 봉합 가능하면 flap 거상. 심미부위는 flapless + soft tissue seal (FGG 또는 punch) 고려. dPTFE 막 (Cytoplast) 은 노출 시에도 작동, 4-6주 제거 prerequisite. [확인]
 
 | Spine paper | Evidence | Key finding |
 |---|---|---|
@@ -136,7 +136,7 @@ Clinical takeaway: socket-defect-driven decision tree — intact 4-wall socket �
 3. 심미부위 + 협측 결손 → flap + DBBM + dPTFE 막 + 추가 FGG / CTG (soft tissue seal).
 4. 다중 발치 + 인접 치아 영향 우려 → flap, GBR principle (4 walls rebuilding) 적용.
 
-**오판 패턴**: "막 노출되면 실패" — dPTFE는 노출 디자인. Collagen은 노출 시 빨리 분해되니 1차 봉합 또는 punch graft seal. [근거강함]
+**오판 패턴**: "막 노출되면 실패" — dPTFE는 노출 디자인. Collagen은 노출 시 빨리 분해되니 1차 봉합 또는 punch graft seal. [확인]
 
 ### 추가 — 즉시 식립과 인접 (Adjacent topic)
 
@@ -217,11 +217,11 @@ Clinical takeaway: socket-defect-driven decision tree — intact 4-wall socket �
 - [ ] 즉시 식립 결정 ladder는 별도 페이지로 분리 작업 필요.
 
 확신도 등급 글로벌:
-- 축 1 자연치유 baseline = [근거강함] (다수 SR + histology).
-- 축 2 ARP 효과 크기 = [근거강함] (다수 SR+MA, Cochrane).
-- 축 3 graft 비교 = [합의수준] (재료 간 큰 차이 없음이 metaphor적으로 robust).
-- 축 4 membrane/flap/seal = [근거강함] (SR+MA + 장기 prospective).
-- 한국 가용성·비용 = [미검증]+[claude해석].
+- 축 1 자연치유 baseline = [확인] (다수 SR + histology).
+- 축 2 ARP 효과 크기 = [확인] (다수 SR+MA, Cochrane).
+- 축 3 graft 비교 = [확인] (재료 간 큰 차이 없음이 metaphor적으로 robust).
+- 축 4 membrane/flap/seal = [확인] (SR+MA + 장기 prospective).
+- 한국 가용성·비용 = [미검증]+[미검증].
 
 ## Evidence Update — Minimally Invasive Implant Bone Regeneration: Three Emerging Techniques (Porczyk 2026)
 

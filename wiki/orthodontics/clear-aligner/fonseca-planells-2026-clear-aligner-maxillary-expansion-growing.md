@@ -6,7 +6,7 @@ date: 2026-04-30
 doi: 10.1186/s40510-026-00620-7
 source: fonseca-planells-2026-clear-aligner-maxillary-expansion-growing.md
 category: [orthodontics/clear-aligner]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "42060239"

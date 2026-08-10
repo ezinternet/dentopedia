@@ -6,7 +6,7 @@ date: 2023-02-20
 doi: 10.3390/ijerph20043726
 source: ren-2023-oral-irrigator-plaque-gingivitis-efficacy-safety-rct.md
 category: [interdental-cleaning]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: true
 pmid: "36834421"

@@ -6,7 +6,7 @@ date: 2018-01-01
 doi: 10.5582/ddt.2018.01003
 source: khongkhunthian-2018-anesthetic-rice-nanogel-pain-reduction.md
 category: [local-anesthesia]
-confidence: in-vivo
+evidence_level: in-vivo
 pdf_path: /Users/oracleneo/llm-wiki/papers/khongkhunthian-2018-anesthetic-rice-nanogel-pain-reduction.pdf
 pdf_filename: khongkhunthian-2018-anesthetic-rice-nanogel-pain-reduction.pdf
 source_collection: external
@@ -44,7 +44,7 @@ This in-vivo study tested whether a novel mucoadhesive delivery vehicle — a na
 In-vivo clinical efficacy trial. n=100 healthy volunteers (25-60 y). Buccal-mucosa needle-insertion pain model. Test: RNG with 5%/20% LH or PH. Negative control: RNG base (placebo). Positive control: commercial anesthetic gels A/B/C. Outcomes: pain measurements after needle insertion + patient satisfaction/preference.
 
 ## Results
-Placebo pain significantly higher than all anesthetic groups. Anesthetic RNG groups had lower pain than commercial gels, most pronounced for 20% formulations. Patient satisfaction favored high-drug-content RNG > low-content > placebo. (Note: paper reports directional/significance findings; full effect sizes with 95% CI are limited in the source.) [합의수준]
+Placebo pain significantly higher than all anesthetic groups. Anesthetic RNG groups had lower pain than commercial gels, most pronounced for 20% formulations. Patient satisfaction favored high-drug-content RNG > low-content > placebo. (Note: paper reports directional/significance findings; full effect sizes with 95% CI are limited in the source.) [확인]
 
 ## Related Papers
 - [[local-anesthesia/karkoutly-2024-topical-anesthetics-lidocaine-benzocaine-emla-ianb]] — RCT comparing lidocaine/benzocaine/EMLA topical agents for IANB; this paper extends the comparison to the formulation/delivery-vehicle axis

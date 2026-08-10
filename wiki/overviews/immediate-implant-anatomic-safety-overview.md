@@ -6,7 +6,7 @@ date: 2026-06-29
 doi: N/A
 source: N/A
 category: overviews
-confidence: synthesis
+evidence_level: synthesis
 pdf_path: N/A
 pdf_filename: N/A
 source_collection: synthesis
@@ -23,14 +23,14 @@ tags: [immediate-implant, cbct, incisive-canal, inferior-alveolar-canal, lingual
 
 > [!summary] 한국어 핵심요약
 > - 이 페이지는 즉시식립(Immediate Implant Placement, IIP)을 **부위별 해부 안전역**으로 묶은 spine이다. 핵심 관점: IIP 실패의 상당 부분은 골재생이 아니라 **수술 전 해부 평가 누락**(신경 침범·피질판 천공·협측판 흡수) — 그래서 술전 CBCT가 선택이 아니라 필수.
-> - **상악 전치부 — 절치관(Incisive Canal, IC)**: CBCT 정량(Al-Amery 2015, n=90)에서 IC 평균 길이 16.33 mm·폭 3.85 mm, 전방골 두께 평균 7.63 mm. 구개측 경사식립 시 IC 침범이 식립 실패·감각이상 원인. [근거강함]
-> - 절치관은 **민족차** 존재 — 몽골로이드는 서구인보다 길고 더 경사·만곡 → 서구 norm으로 계획하면 IC 침범 위험 과소평가. 한국인 환자 계획 시 주의. [claude해석]
-> - **하악 구치부 — 하치조관(Inferior Alveolar Canal, IAC) + 설측 천공(Lingual Plate Perforation, LPP)**: SR+MA(Behfarnia 2025, 12편 CBCT, 1,834명)에서 치근첨–IAC 거리 제2소구치 5.14 / 제1대구치 6.32 / **제2대구치 4.65 mm**(가장 짧음). [근거강함]
-> - 제2대구치는 **이중 위험 부위** — IAC에 가장 가깝고(4.65 mm) 동시에 언더컷(U형) 치조제가 73%로 설측판 천공 위험 최고. ≥2 mm IAC 안전역 + 단면 형태 CBCT 평가 필수. [근거강함]
-> - **협측 갭·협측판(Greenstein 2013)**: jumping distance <2 mm는 대개 자발 골충전(개방 또는 contour용 DBBM 선택), **≥2 mm는 DBBM 이식 권고**. 협측판 두께 >2 mm는 수직흡수 적으나 <1–2 mm는 증대 권고. IIP 후 약 1/3에서 ~1 mm 협측 퇴축. [합의수준]
-> - **1차 안정성은 골이식이 아니라 잔존(치근첨 너머) 천연골이 결정**: 파일럿 RCT(Askin Ekinci 2026, n=28)에서 갭 골이식은 초기 안정성 개선 안 함, 치유부가 식립토크·ISQ 유의 우위, 가상 골-임플란트 접촉(virtual BIC)은 **비이식 즉시식립군에서만** 초기 ISQ와 상관 → 갭이식은 dimensional/심미 목적이지 안정성 목적 아님. [근거강함]
-> - 즉 해부 평가의 임상 함의가 한 줄로 연결됨: **소켓 너머 천연골 engagement가 안정성을 만들고**, 그 천연골 영역에 IC·IAC·설측 언더컷이 놓여 있으므로 해부 안전역 = 안정성 확보역. [claude해석]
-> - **결과 비교의 방법론 경고(Pannuti 2026)**: 무치악 상악 로딩 타이밍 연구는 PRO/ClinRO 측정도구가 표준화 안 됨(VAS가 80%, ClinRO 12종 난립, 5편 중 1편만 평가자 보정) → IIP 부위·프로토콜 간 환자중심 결과 비교는 현재 신뢰도 제한. [근거강함]
+> - **상악 전치부 — 절치관(Incisive Canal, IC)**: CBCT 정량(Al-Amery 2015, n=90)에서 IC 평균 길이 16.33 mm·폭 3.85 mm, 전방골 두께 평균 7.63 mm. 구개측 경사식립 시 IC 침범이 식립 실패·감각이상 원인. [확인]
+> - 절치관은 **민족차** 존재 — 몽골로이드는 서구인보다 길고 더 경사·만곡 → 서구 norm으로 계획하면 IC 침범 위험 과소평가. 한국인 환자 계획 시 주의. [미검증]
+> - **하악 구치부 — 하치조관(Inferior Alveolar Canal, IAC) + 설측 천공(Lingual Plate Perforation, LPP)**: SR+MA(Behfarnia 2025, 12편 CBCT, 1,834명)에서 치근첨–IAC 거리 제2소구치 5.14 / 제1대구치 6.32 / **제2대구치 4.65 mm**(가장 짧음). [확인]
+> - 제2대구치는 **이중 위험 부위** — IAC에 가장 가깝고(4.65 mm) 동시에 언더컷(U형) 치조제가 73%로 설측판 천공 위험 최고. ≥2 mm IAC 안전역 + 단면 형태 CBCT 평가 필수. [확인]
+> - **협측 갭·협측판(Greenstein 2013)**: jumping distance <2 mm는 대개 자발 골충전(개방 또는 contour용 DBBM 선택), **≥2 mm는 DBBM 이식 권고**. 협측판 두께 >2 mm는 수직흡수 적으나 <1–2 mm는 증대 권고. IIP 후 약 1/3에서 ~1 mm 협측 퇴축. [확인]
+> - **1차 안정성은 골이식이 아니라 잔존(치근첨 너머) 천연골이 결정**: 파일럿 RCT(Askin Ekinci 2026, n=28)에서 갭 골이식은 초기 안정성 개선 안 함, 치유부가 식립토크·ISQ 유의 우위, 가상 골-임플란트 접촉(virtual BIC)은 **비이식 즉시식립군에서만** 초기 ISQ와 상관 → 갭이식은 dimensional/심미 목적이지 안정성 목적 아님. [확인]
+> - 즉 해부 평가의 임상 함의가 한 줄로 연결됨: **소켓 너머 천연골 engagement가 안정성을 만들고**, 그 천연골 영역에 IC·IAC·설측 언더컷이 놓여 있으므로 해부 안전역 = 안정성 확보역. [미검증]
+> - **결과 비교의 방법론 경고(Pannuti 2026)**: 무치악 상악 로딩 타이밍 연구는 PRO/ClinRO 측정도구가 표준화 안 됨(VAS가 80%, ClinRO 12종 난립, 5편 중 1편만 평가자 보정) → IIP 부위·프로토콜 간 환자중심 결과 비교는 현재 신뢰도 제한. [확인]
 > - **갭**: 한국인 IC normative CBCT 데이터 부재, 협측판 두께 임계의 인체 장기 RCT 부족, virtual BIC–안정성 상관의 대규모 검증 미흡, 로딩 타이밍 PROM 표준 미정립.
 
 ## Three-line Summary
@@ -80,10 +80,10 @@ Immediate implant placement (IIP) puts an implant into a fresh extraction socket
 
 ## Related Papers
 
-- [[immediate-implant/al-amery-2015-cbct-maxillary-incisive-canal-immediate-implants]] — CBCT normative IC dimensions (16.33 mm length), ethnic variation, anterior maxilla.
-- [[immediate-implant/behfarnia-2025-anatomic-immediate-implant-mandibular-posterior]] — SR+MA: 2nd molar closest to IAC (4.65 mm) and most undercut (73%); double-risk site.
-- [[immediate-implant/greenstein-2013-managing-buccal-gap-immediate-implant]] — buccal gap <2 vs ≥2 mm grafting threshold; buccal plate thickness rules.
-- [[immediate-implant/askinekinci-2026-bic-surface-immediate-implant-stability]] — pilot RCT: grafting does not improve primary stability; native BIC drives early ISQ only ungrafted.
-- [[immediate-implant/pannuti-2026-loading-timing-edentulous-maxilla-pro]] — SR: non-standardized PROM/CROM limits maxillary loading-timing outcome comparison.
+- [[immediate-implant/anatomic-assessment/al-amery-2015-cbct-maxillary-incisive-canal-immediate-implants]] — CBCT normative IC dimensions (16.33 mm length), ethnic variation, anterior maxilla.
+- [[immediate-implant/anatomic-assessment/behfarnia-2025-anatomic-immediate-implant-mandibular-posterior]] — SR+MA: 2nd molar closest to IAC (4.65 mm) and most undercut (73%); double-risk site.
+- [[immediate-implant/gap-grafting/greenstein-2013-managing-buccal-gap-immediate-implant]] — buccal gap <2 vs ≥2 mm grafting threshold; buccal plate thickness rules.
+- [[immediate-implant/primary-stability/askinekinci-2026-bic-surface-immediate-implant-stability]] — pilot RCT: grafting does not improve primary stability; native BIC drives early ISQ only ungrafted.
+- [[immediate-implant/loading-protocol/pannuti-2026-loading-timing-edentulous-maxilla-pro]] — SR: non-standardized PROM/CROM limits maxillary loading-timing outcome comparison.
 - [[overviews/immediate-implant-conditions]] — companion: immediate-implant feasibility conditions, failure risk, esthetic outcome matrix.
 - [[overviews/maxillary-molar-palatal-root-socket-iip]] — related anatomic anchorage synthesis (maxillary molar palatal root socket).

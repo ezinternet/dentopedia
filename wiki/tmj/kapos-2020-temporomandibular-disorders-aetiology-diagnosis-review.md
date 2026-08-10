@@ -6,7 +6,7 @@ date: 2020-11-01
 doi: 10.1111/ors.12473
 source: kapos-2020-temporomandibular-disorders-aetiology-diagnosis-review.md
 category: [tmj]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/kapos-2020-temporomandibular-disorders-aetiology-diagnosis-review.pdf
 pdf_filename: kapos-2020-temporomandibular-disorders-aetiology-diagnosis-review.pdf
 source_collection: external

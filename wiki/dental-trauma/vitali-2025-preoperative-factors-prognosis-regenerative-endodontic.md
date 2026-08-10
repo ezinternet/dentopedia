@@ -6,7 +6,7 @@ date: 2025-08-31
 doi: 10.1111/iej.70025
 source: vitali-2025-preoperative-factors-prognosis-regenerative-endodontic.md
 category: [dental-trauma]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: false
 pmid: "40887721"

@@ -6,7 +6,7 @@ date: 2022-04-11
 doi: 10.1186/s40729-022-00414-6
 source: werny-2022-vitamin-d-osseointegration-dental-implants-sr.md
 category: [implants/vitamin-d]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "35403929"
@@ -75,4 +75,4 @@ Human evidence is thin and weaker. The key clinical signal is Mangano's finding 
 
 - [[implants/vitamin-d/tallon-2024-vitamin-d-osseointegration-umbrella-review]] — umbrella review that aggregates SRs on this same question; this SR is one of the foundational inputs it builds on (reinforces).
 - [[implants/vitamin-d/miron-2025-vitamin-d-deficiency-early-implant-failure]] — extends the human early-implant-failure signal (Mangano) that this SR first surfaced.
-- [[implants/moy-2005-dental-implant-failure-rates-risk]] — classic implant-failure risk-factor anchor; vitamin D deficiency adds a candidate modifiable risk to that framework.
+- [[implants/survival/moy-2005-dental-implant-failure-rates-risk]] — classic implant-failure risk-factor anchor; vitamin D deficiency adds a candidate modifiable risk to that framework.

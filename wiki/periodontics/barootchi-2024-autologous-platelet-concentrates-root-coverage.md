@@ -6,7 +6,7 @@ date: 2024-01-01
 doi: 10.1111/prd.12614
 source: barootchi-2024-autologous-platelet-concentrates-root-coverage.md
 category: periodontics
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "39403998"
@@ -75,6 +75,6 @@ Two clinically decisive qualifiers emerged. First, the PRF benefit was **effect-
 
 ## Related Papers
 
-- [[periodontics/sherif-2025-iprf-vitamin-c-nonsurgical-periodontitis]] — reinforces: sibling PRF (iPRF) efficacy evidence in a different periodontal application (non-surgical periodontitis).
+- [[periodontics/non-surgical-instrumentation/sherif-2025-iprf-vitamin-c-nonsurgical-periodontitis]] — reinforces: sibling PRF (iPRF) efficacy evidence in a different periodontal application (non-surgical periodontitis).
 - [[oral-surgery/al-maawi-2021-prf-extraction-socket-healing-sr]] — reinforces: PRF soft-/hard-tissue healing SR in the extraction-socket context; complementary PRF adjunct evidence.
 - [[periodontics/mucogingival-surgery-apf-fgg-ctg]] — extends: this NMA supplies the "when can PRF substitute for CTG" quantitative layer to the mucogingival technique-selection framework (PRF viable where baseline KTW is adequate).

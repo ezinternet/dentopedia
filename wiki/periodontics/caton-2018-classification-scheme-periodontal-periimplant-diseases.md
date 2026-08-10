@@ -6,7 +6,7 @@ date: 2018-01-01
 doi: 10.1111/jcpe.12935
 source: caton-2018-classification-scheme-periodontal-periimplant-diseases.md
 category: [periodontics]
-confidence: consensus
+evidence_level: consensus
 pdf_path: /Users/oracleneo/llm-wiki/papers/caton-2018-classification-scheme-periodontal-periimplant-diseases.pdf
 pdf_filename: caton-2018-classification-scheme-periodontal-periimplant-diseases.pdf
 source_collection: external
@@ -44,8 +44,8 @@ AAP·EFP 공동 2017 World Workshop의 도입 논문. 1999 분류를 대체하�
 AAP·EFP 공동 World Workshop, 분야별 SR 기반 consensus.
 
 ## Results
-치주염 stage I-IV·grade A-C 도입, peri-implant 질환 정의 확립 [근거강함(합의)]. 임상 진단·코딩의 국제 표준.
+치주염 stage I-IV·grade A-C 도입, peri-implant 질환 정의 확립 [확인(합의)]. 임상 진단·코딩의 국제 표준.
 
 ## Related Papers
-- [[implants/berglundh-2018-peri-implant-diseases-conditions-consensus]] — 동 workshop 임플란트주위 workgroup
+- [[implants/peri-implantitis/berglundh-2018-peri-implant-diseases-conditions-consensus]] — 동 workshop 임플란트주위 workgroup
 - [[periodontics/herrera-2022-treatment-stage-iv-periodontitis-efp]] — stage IV 치료 가이드라인

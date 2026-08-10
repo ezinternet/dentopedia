@@ -15,7 +15,7 @@ text_filename: hassanein-2025-arginine-glutamine-radiation-oral-mucositis-rct.tx
 
 ## Why Ingested
 
-The wiki's oral-mucosal-disease coverage centers on oral lichen planus, RAS, BMS, and OPMD but holds no page on radiation-induced oral mucositis (RIOM) — a major HNC radiotherapy toxicity. This triple-blind RCT extends the oral-medicine symptom-management theme exemplified by [[oral-medicine/belenguer-guallar-2014-recurrent-aphthous-stomatitis-review]] (which discusses topical amino-acid/anti-inflammatory adjuncts for oral ulceration) by providing the first head-to-head evidence that L-arginine oral suspension is non-inferior to the better-established L-glutamine for RIOM severity, pain, weight maintenance, and OHRQoL.
+The wiki's oral-mucosal-disease coverage centers on oral lichen planus, RAS, BMS, and OPMD but holds no page on radiation-induced oral mucositis (RIOM) — a major HNC radiotherapy toxicity. This triple-blind RCT extends the oral-medicine symptom-management theme exemplified by [[oral-medicine/aphthous-stomatitis/belenguer-guallar-2014-recurrent-aphthous-stomatitis-review]] (which discusses topical amino-acid/anti-inflammatory adjuncts for oral ulceration) by providing the first head-to-head evidence that L-arginine oral suspension is non-inferior to the better-established L-glutamine for RIOM severity, pain, weight maintenance, and OHRQoL.
 
 ## Three-line Summary
 

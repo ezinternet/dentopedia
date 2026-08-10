@@ -6,7 +6,7 @@ date: 2016-01-15
 doi: "10.3945/an.115.009365"
 source: moynihan-2016-sugars-dental-caries-threshold-intake.md
 category: [caries]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/moynihan-2016-sugars-dental-caries-threshold-intake.pdf
 pdf_filename: moynihan-2016-sugars-dental-caries-threshold-intake.pdf
 source_collection: external

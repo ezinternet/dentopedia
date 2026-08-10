@@ -6,7 +6,7 @@ date: 2023-09-01
 doi: 10.1002/cre2.787
 source: shekarian-2023-cshaped-canals-three-rooted-mandibular-iranian.md
 category: [endodontics/anatomy]
-confidence: cross-sectional
+evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/shekarian-2023-cshaped-canals-three-rooted-mandibular-iranian.pdf
 pdf_filename: shekarian-2023-cshaped-canals-three-rooted-mandibular-iranian.pdf
 source_collection: external

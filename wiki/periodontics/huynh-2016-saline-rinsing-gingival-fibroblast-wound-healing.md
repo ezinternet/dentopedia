@@ -6,7 +6,7 @@ date: 2016-07-21
 doi: 10.1371/journal.pone.0159843
 source: huynh-2016-saline-rinsing-gingival-fibroblast-wound-healing.md
 category: [periodontics]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/huynh-2016-saline-rinsing-gingival-fibroblast-wound-healing.pdf
 pdf_filename: huynh-2016-saline-rinsing-gingival-fibroblast-wound-healing.pdf
 source_collection: external
@@ -72,5 +72,5 @@ This PLOS ONE study from Chulalongkorn University (Bangkok) provided the first c
 ## Related Papers
 
 - [[oral-microbiology/buskermolen-2018-saliva-derived-biofilms-gingiva-model]] — gingival tissue model context; biofilm–fibroblast interactions
-- [[periodontics/deepthi-2020-ozone-therapy-periodontics-meta-analysis]] — adjunct wound-healing intervention in periodontics for comparison
+- [[periodontics/non-surgical-instrumentation/deepthi-2020-ozone-therapy-periodontics-meta-analysis]] — adjunct wound-healing intervention in periodontics for comparison
 - [[suture-wound-closure/sen-2024-sutureless-multiple-suture-third-molar-inflammation]] — clinical wound closure post-surgery where saline rinsing is commonly prescribed

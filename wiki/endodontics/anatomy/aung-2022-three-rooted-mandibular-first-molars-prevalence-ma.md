@@ -6,7 +6,7 @@ date: 2022-03-30
 doi: 10.1155/2022/9411076
 source: aung-2022-three-rooted-mandibular-first-molars-prevalence-ma.md
 category: endodontics/anatomy
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "35386547"

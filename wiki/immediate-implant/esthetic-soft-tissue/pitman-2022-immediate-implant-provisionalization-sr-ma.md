@@ -6,7 +6,7 @@ date: 2022-06-23
 doi: 10.1111/jcpe.13686
 source: pitman-2022-immediate-implant-provisionalization-sr-ma.md
 category: [immediate-implant/esthetic-soft-tissue]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/pitman-2022-immediate-implant-provisionalization-sr-ma.pdf
 pdf_filename: pitman-2022-immediate-implant-provisionalization-sr-ma.pdf
 source_collection: external
@@ -42,5 +42,6 @@ PubMed/Medline/Cochrane systematic search; RCT and prospective studies.
 5-year survival ~97% in both groups. Immediate provisional benefits soft tissue esthetics. Jumping gap management remains critical for hard tissue outcomes.
 
 ## Related Papers
-- [[immediate-implant/wittneben-2023-immediate-implant-loaded-single-crown-sr]] — related
+- [[immediate-implant/loading-protocol/wittneben-2023-immediate-implant-loaded-single-crown-sr]] — related
 - [[immediate-implant/esthetic-soft-tissue/gaddale-2024-immediate-implant-loading-esthetic-tissue-sr-ma]] — related
+- [[immediate-implant/esthetic-soft-tissue/kinaia-2017-soft-tissue-changes-around]] — together with qin-2023 and sutariya-2022, partially supersedes this earlier (2017) SR+MA's provisionalization-vs-not sub-analysis specifically; Kinaia's separate IIP-vs-CIP and gingival-biotype findings are untouched by this paper.

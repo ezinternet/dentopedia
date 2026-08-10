@@ -6,7 +6,7 @@ date: 2020-01-01
 doi: 10.1016/j.jdsr.2020.01.002
 source: zhu-2020-btx-painful-tmd-sr-ma.md
 category: [tmj]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/zhu-2020-btx-painful-tmd-sr-ma.pdf
 pdf_filename: zhu-2020-btx-painful-tmd-sr-ma.pdf
 source_collection: external

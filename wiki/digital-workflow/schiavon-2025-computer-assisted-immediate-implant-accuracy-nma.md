@@ -6,7 +6,7 @@ date: 2025-08-01
 doi: 10.1111/jre.70010
 source: schiavon-2025-computer-assisted-immediate-implant-accuracy-nma.md
 category: [digital-workflow]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/schiavon-2025-computer-assisted-immediate-implant-accuracy-nma.pdf
 pdf_filename: schiavon-2025-computer-assisted-immediate-implant-accuracy-nma.pdf
 source_collection: external

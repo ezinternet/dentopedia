@@ -6,7 +6,7 @@ date: 2008-03-26
 doi: 10.1111/j.1600-0501.2007.01501.x
 source: lai-2008-rfa-iti-osteotome-sinus-elevation-without-graft.md
 category: [sinus-lift/transcrestal]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/lai-2008-rfa-iti-osteotome-sinus-elevation-without-graft.pdf
 pdf_filename: lai-2008-rfa-iti-osteotome-sinus-elevation-without-graft.pdf
 source_collection: external

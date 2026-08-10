@@ -6,7 +6,7 @@ date: 2016-01-06
 doi: "10.1136/bmjqs-2015-004596"
 source: gillespie-2016-healthcare-complaints-analysis-tool.md
 category: complaint-management
-confidence: cross-sectional
+evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/gillespie-2016-healthcare-complaints-analysis-tool.pdf
 pdf_filename: gillespie-2016-healthcare-complaints-analysis-tool.pdf
 source_collection: external

@@ -7,7 +7,7 @@ doi: 10.1016/j.prosdent.2025.11.042
 pmid: "41421946"
 source: bhattacharya-2025-macrogeometry-implant-stability-bone-markers-split-mouth-rct.md
 category: implants/isq
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: false
 text_path: /Users/oracleneo/llm-wiki/papers/bhattacharya-2025-macrogeometry-implant-stability-bone-markers-split-mouth-rct.txt

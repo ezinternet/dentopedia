@@ -6,7 +6,7 @@ date: 2014-11-01
 doi: "10.4103/0972-0707.144571"
 source: sharma-2014-endodontic-periodontal-microsurgery-for-combined.md
 category: periodontics
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/sharma-2014-endodontic-periodontal-microsurgery-for-combined.pdf
 pdf_filename: sharma-2014-endodontic-periodontal-microsurgery-for-combined.pdf
 source_collection: external

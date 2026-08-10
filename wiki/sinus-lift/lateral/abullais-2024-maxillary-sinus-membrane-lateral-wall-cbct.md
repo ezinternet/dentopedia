@@ -6,7 +6,7 @@ date: 2024-03-25
 doi: 10.1371/journal.pone.0298403
 source: abullais-2024-maxillary-sinus-membrane-lateral-wall-cbct.md
 category: sinus-lift/lateral
-confidence: cross-sectional
+evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/abullais-2024-maxillary-sinus-membrane-lateral-wall-cbct.pdf
 pdf_filename: abullais-2024-maxillary-sinus-membrane-lateral-wall-cbct.pdf
 source_collection: external

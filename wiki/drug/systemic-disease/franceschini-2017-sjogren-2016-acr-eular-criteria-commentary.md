@@ -6,7 +6,7 @@ date: 2017-01-01
 doi: 10.1186/s12916-017-0837-1
 source: franceschini-2017-sjogren-2016-acr-eular-criteria-commentary.md
 category: [drug/systemic-disease]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/franceschini-2017-sjogren-2016-acr-eular-criteria-commentary.pdf
 pdf_filename: franceschini-2017-sjogren-2016-acr-eular-criteria-commentary.pdf
 source_collection: external
@@ -44,4 +44,4 @@ Editorial commentary.
 New criteria more objective and reproducible; better suited for clinical trial patient selection. Less sensitive for early/seronegative pSS.
 
 ## Related Papers
-- [[drug/shiboski-2016-acr-eular-sjogren-classification-criteria]] — related
+- [[drug/systemic-disease/shiboski-2016-acr-eular-sjogren-classification-criteria]] — related

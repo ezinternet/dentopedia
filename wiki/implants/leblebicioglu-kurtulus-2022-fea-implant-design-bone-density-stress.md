@@ -6,7 +6,7 @@ date: 2022-05-23
 doi: "10.1111/jopr.13539"
 source: leblebicioglu-kurtulus-2022-fea-implant-design-bone-density-stress.md
 category: [implants]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/leblebicioglu-kurtulus-2022-fea-implant-design-bone-density-stress.pdf
 pdf_filename: leblebicioglu-kurtulus-2022-fea-implant-design-bone-density-stress.pdf
 source_collection: external
@@ -52,6 +52,6 @@ This finite element study links bone quality to biomechanics: under a 30° obliq
 - Thread design and angled abutments significantly affect stress.
 
 ## Related Papers
-- [[implants/heimes-2023-macrogeometry-primary-stability-implants-narrative-review]] — reinforces; macrogeometry effects, here on loading-phase stress.
+- [[implants/isq/heimes-2023-macrogeometry-primary-stability-implants-narrative-review]] — reinforces; macrogeometry effects, here on loading-phase stress.
 - [[implants/isq/al-juboori-2024-cortical-thickness-implant-stability-sr]] — reinforces; cortical-thickness importance extended to stress.
 - [[implants/isq/stoilov-2023-macrodesign-length-diameter-bone-quality-isq]] — related; macrodesign × bone quality × stability.

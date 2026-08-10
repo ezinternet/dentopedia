@@ -6,7 +6,7 @@ date: 2024-11-01
 doi: 10.1186/s12903-024-05101-z
 source: cui-2024-elastodontic-appliance-mechanical-characterization-fea.md
 category: [orthodontics/myofunctional]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: true
 pmid: "39487402"

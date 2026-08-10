@@ -35,7 +35,7 @@ Observational; "early" 정의 이질; 인과성 미확인.
 PubMed/Embase/Scopus/WoS/Cochrane through June 2024; observational studies on smoking and early implant failure; 21 cohort studies for MA at implant level.
 
 ## 4. Key Results
-[근거강함] Implant level: OR 2.59 (2.08-3.23) for early failure in smokers vs non-smokers. Patient-level data also significant.
+[확인] Implant level: OR 2.59 (2.08-3.23) for early failure in smokers vs non-smokers. Patient-level data also significant.
 
 ## 5. Limitations
 - Observational

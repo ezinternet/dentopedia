@@ -1,0 +1,118 @@
+Title: Burnout in healthcare professionals
+Authors: Maluleka MM, Bulo FN, Nair A, Von Pressentin KB
+Journal: South African Family Practice. 2026 Mar 2;68(1):e1-e5
+DOI: 10.4102/safp.v68i1.6235
+PMID: 41773402
+PMCID: PMC13058559
+Institution: Department of Family Medicine and Primary Healthcare, Faculty of Medicine, Sefako Makgatho Health Sciences University, Pretoria, South Africa
+
+ABSTRACT:
+Burnout is a work-related syndrome recognised by the World Health Organization and included in the International Classification of Diseases 11th revision (ICD-11) as resulting from chronic workplace stress that has not been successfully managed. Characterised by emotional exhaustion, depersonalisation, and a reduced sense of professional accomplishment, it predominantly affects healthcare professionals exposed to sustained emotional and organisational demands at the workplace. Global evidence indicates that nearly half of practising clinicians experience burnout, with higher prevalence in emergency medicine, anaesthesiology, surgical subspecialties, radiology, internal medicine, family medicine, and primary healthcare, as well as among registrars and students. Burnout is closely associated with depression, anxiety, substance use, and increased suicide risk, while compromising patient safety through elevated rates of diagnostic and medication errors. Contributing factors include excessive workloads, administrative burden, limited autonomy, poor work-life balance, and misalignment of personal and institutional values. This article aims to provide readers with evidence-based strategies to help themselves or to support a colleague who may be experiencing burnout.
+
+FULL TEXT:
+
+Introduction:
+Burnout is recognised by WHO in ICD-11 as a "syndrome conceptualised as resulting from chronic workplace stress that has not been successfully managed." It is NOT classified as a medical condition, but remains a significant occupational health concern.
+
+Three core dimensions:
+1. Emotional exhaustion (feelings of energy depletion)
+2. Depersonalisation (increased mental distance, negativity, or cynicism towards work)
+3. Reduced sense of personal accomplishment or professional efficacy
+
+Predominantly affects human service professions, especially healthcare.
+
+Epidemiology:
+- PubMed: 33,000+ burnout studies; >half published 2020-2025
+- ~50% (nearly half) of healthcare providers experience burnout globally
+- Higher prevalence: urology, emergency medicine, anaesthesiology, surgical subspecialties, radiology, internal medicine
+- Medical students: >50% affected during academic journey; linked to psychological decline and suicidal thoughts
+- Gender: some studies suggest women more affected; large SRs show no definitive gender difference
+- Outpatient vs inpatient: outpatient providers report more EE; DP and reduced PA do not differ significantly
+
+Individual impact:
+- Depression, anxiety, substance use, increased suicide risk
+- Linked to depression (particularly when compounded by underlying mental health disorders)
+- Cognitive impairment, fatigue, low energy
+
+Patient safety impact:
+- Higher rates of medication errors and diagnostic errors
+- Reduced physician-patient rapport, poorer patient outcomes
+
+Health system impact:
+- Reduced productivity, lower job satisfaction
+- Absenteeism, presenteeism, higher staff turnover
+- Jeopardises SDG-3 (Good Health and Well-being)
+
+Contributing Factors (South African context particularly):
+The South African healthcare system faces:
+- Fiscal austerity: budget cuts, hiring freezes, overcrowded facilities
+- Workplace violence (verbal/physical from patients/relatives) → erodes morale
+- Xenophobia → hostile environment for foreign healthcare workers
+
+General risk factors:
+- Long working hours, heavy administrative burden, excessive EHR use
+- Poor work-life balance, productivity pressure, inadequate leadership support
+- Lack of meaningful work, poor collegial support
+- Misalignment of personal and organisational values
+- Limited flexibility/autonomy in scheduling
+
+Relationship with Depression:
+- Overlap: fatigue, low energy, negativity, functional impairment
+- Key distinction: burnout is WORK-SPECIFIC; depression can exist independently of occupational stress
+- Burnout may predispose to depression; can coexist
+- Important NOT to conflate them for treatment/screening purposes
+
+Clinical Assessment:
+Validated tools:
+- Maslach Burnout Inventory (MBI) — most commonly used
+- Copenhagen Burnout Inventory (CBI)
+- Oldenburg Burnout Inventory (OLBI)
+- Professional Quality of Life Scale (ProQOL)
+- Single-Item Burnout Measure
+- Mini-Z survey
+
+MBI-HSS (Human Services Survey): 22 self-report items, 0-6 scale
+- EE subscale: 9 items, score 0-54 → HIGH BURNOUT threshold: EE ≥ 27
+- DP subscale: 5 items, score 0-30 → HIGH BURNOUT threshold: DP ≥ 10
+- PA subscale: 8 items, score 0-48 → HIGH BURNOUT threshold: PA ≤ 33
+
+Prevention Framework:
+Primary (prevent onset): healthy staffing, flexible rosters, EHR optimisation, leadership training, redesign on-call schedules
+Secondary (detect/intervene early): regular MBI screening, stress-management training, early counselling, rapid referral to employee assistance
+Tertiary (treat/rehabilitate): psychological care, return-to-work plans, peer support, occupational health-led reintegration
+
+ABC Approach (complementary framework, grounded in emotional intelligence):
+A — Applying: self-awareness; recognise personal abilities, performance limits, stress signals; remain empathetic
+B — Balancing: equilibrium across family, social, spiritual, leisure domains; sustainable work-life balance
+C — Cultivating: healthy routines, consistency, lifestyle choices for long-term performance
+
+Individual management strategies:
+Mindfulness, meditation, gratitude journaling, regular exercise, self-care, stress-management programmes → strengthen resilience
+
+Organisational strategies:
+Aligning institutional and individual values, fair compensation, streamlining electronic documentation, delegating non-clinical tasks, flexible work arrangements (part-time, remote consultations)
+
+Practical strategies:
+- Connect with peers, friends, family (buffer against burnout)
+- Reconnect with professional purpose (improves engagement, resilience)
+- Mentorship: novice ↔ end-of-career knowledge exchange
+- Set limits: learn to say no, avoid chronic overload
+- Regular short breaks (better than infrequent extended leave)
+- Periodic digital disconnection → mindfulness, reduced EE
+
+South Africa specific: SADAG (South African Depression and Anxiety Group) resources:
+- Suicide Crisis Helpline: 0800 567 567
+- Substance Abuse Helpline: 0800 12 13 14
+- 180+ nationwide peer/support groups
+
+Global policy frameworks mentioned:
+- European Commission: mental health recommendations for essential workers
+- Australia: "Every Doctor, Every Setting Framework" (national clinician well-being prioritisation)
+- WONCA: supports clinician well-being, equitable compensation, purposeful professional growth
+
+Prognosis:
+- When recognised early + managed: FAVORABLE — measurable improvements in clinician well-being and patient care
+- If unaddressed: escalates to depression, substance misuse, suicide
+
+Conclusion:
+Burnout is reversible when recognized early. Establishing supportive, adequately resourced workplaces that promote resilience and professional satisfaction is vital for clinician well-being and patient safety.

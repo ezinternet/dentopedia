@@ -6,7 +6,7 @@ date: 2024-02-18
 doi: 10.19723/j.issn.1671-167X.2024.01.015
 source: liu-2024-perioperative-hypertension-implant-bone-augmentation.md
 category: [drug/systemic-disease]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 full_text: false
 pmid: "38318902"

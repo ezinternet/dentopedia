@@ -6,7 +6,7 @@ date: 2019-05-03
 doi: 10.1371/journal.pone.0216428
 source: czumbel-2019-sandblasting-implant-failure-rate-sr-ma.md
 category: [implants/surface]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/czumbel-2019-sandblasting-implant-failure-rate-sr-ma.pdf
 pdf_filename: czumbel-2019-sandblasting-implant-failure-rate-sr-ma.pdf
 source_collection: external

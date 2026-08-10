@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: "10.1016/j.jobcr.2025.10.011"
 source: hashemian-2025-tip-distance-conversion-cytotoxicity.md
 category: [resin]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: true
 pmid: "41210521"

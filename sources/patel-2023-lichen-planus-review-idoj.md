@@ -49,7 +49,7 @@ LP는 만성 재발성; 구강 LP 완치 불가. 스테로이드 국소 도포�
 치료 RCT 부족.
 
 ## 6. Related Work
-- [[oral-medicine/srivastava-2022-oral-lichen-planus-diagnosis-management-review]] — related
+- [[oral-medicine/lichen-planus/srivastava-2022-oral-lichen-planus-diagnosis-management-review]] — related
 
 ## 7. Glossary
 Wickham striae: 위컴선조; Koebner phenomenon: 쾨브너 현상; interface dermatitis: 경계부 피부염

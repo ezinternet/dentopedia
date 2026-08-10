@@ -6,7 +6,7 @@ date: 2019-04-09
 doi: 10.1371/journal.pone.0215099
 source: jablonowski-2019-plasma-mucosa-side-effects-mice.md
 category: [implants/surface/plasma]
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/jablonowski-2019-plasma-mucosa-side-effects-mice.pdf
 pdf_filename: jablonowski-2019-plasma-mucosa-side-effects-mice.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2024-05-16
 doi: "10.3390/jfb15050132"
 source: agarwal-2024-irrigating-solutions-dentin-microhardness-sr-ma.md
 category: [endodontics/irrigation]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/agarwal-2024-irrigating-solutions-dentin-microhardness-sr-ma.pdf
 pdf_filename: agarwal-2024-irrigating-solutions-dentin-microhardness-sr-ma.pdf
 source_collection: external

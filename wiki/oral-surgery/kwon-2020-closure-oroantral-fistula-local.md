@@ -6,7 +6,7 @@ date: 2020-01-01
 doi: 10.5125/jkaoms.2020.46.1.58
 source: kwon-2020-closure-oroantral-fistula-local.md
 category: oral-surgery
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/kwon-2020-closure-oroantral-fistula-local.pdf
 pdf_filename: kwon-2020-closure-oroantral-fistula-local.pdf
 source_collection: external
@@ -96,6 +96,6 @@ All OAF cases presented were treated successfully with complete closure using th
 
 ## Related Papers
 
-- [[oral-medicine/lin-2024-odontogenic-maxillary-sinusitis-expert-consensus]] — OMS expert consensus: FESS sequencing, sinus-lift OMS prevention; this paper provides the OAF-specific surgical closure detail
-- [[oral-medicine/kim-2019-definition-management-odontogenic-maxillary]] — OMS definition and management framework; this paper extends with flap technique specifics
-- [[oral-medicine/psillas-2020-odontogenic-maxillary-sinusitis-comprehensive-review]] — comprehensive OMS review; complementary ENT perspective on sinusitis management before/after OAF closure
+- [[oral-medicine/odontogenic-sinusitis/lin-2024-odontogenic-maxillary-sinusitis-expert-consensus]] — OMS expert consensus: FESS sequencing, sinus-lift OMS prevention; this paper provides the OAF-specific surgical closure detail
+- [[oral-medicine/odontogenic-sinusitis/kim-2019-definition-management-odontogenic-maxillary]] — OMS definition and management framework; this paper extends with flap technique specifics
+- [[oral-medicine/odontogenic-sinusitis/psillas-2020-odontogenic-maxillary-sinusitis-comprehensive-review]] — comprehensive OMS review; complementary ENT perspective on sinusitis management before/after OAF closure

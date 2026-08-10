@@ -6,7 +6,7 @@ date: 2021-02-01
 doi: 10.3390/ijerph18031295
 source: samohyl-2021-non-attendance-dental-preventive-care-students.md
 category: [practice-management]
-confidence: cross-sectional
+evidence_level: cross-sectional
 source_collection: pubmed-text
 full_text: true
 pmid: "33535551"

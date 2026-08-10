@@ -6,7 +6,7 @@ date: 2023-12-14
 doi: 10.1007/s12663-023-02036-w
 source: yari-2023-bleeding-after-dental-extraction.md
 category: [drug/anticoagulants]
-confidence: prospective
+evidence_level: prospective
 source_collection: pubmed-text
 full_text: false
 pmid: "38601241"

@@ -6,7 +6,7 @@ date: 2023-09-14
 doi: 10.1016/j.identj.2023.07.007
 source: gan-2023-alveolar-bone-morphology-gbr-anterior-maxilla.md
 category: [bone-regeneration]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/gan-2023-alveolar-bone-morphology-gbr-anterior-maxilla.pdf
 pdf_filename: gan-2023-alveolar-bone-morphology-gbr-anterior-maxilla.pdf
 source_collection: external

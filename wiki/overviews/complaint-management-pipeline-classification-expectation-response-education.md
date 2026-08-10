@@ -3,7 +3,7 @@ title: "Overview: Patient Complaint Management — Classification → Expectatio
 type: synthesis
 category: overviews
 date: 2026-06-12
-confidence: synthesis
+evidence_level: synthesis
 source_papers:
   - wiki/complaint-management/reader-2014-patient-complaints-healthcare-taxonomy.md
   - wiki/complaint-management/gillespie-2016-healthcare-complaints-analysis-tool.md
@@ -120,9 +120,9 @@ For a dental practice translating this evidence into operating procedure:
 8. **Write settlement agreements for content, not ritual.** In Korean precedents only 26.5% of covenant-not-to-sue settlements actually barred a later claim — enforceability turns on what the agreement *says* (scope, waived claims, consideration), and goodwill free re-treatment is not credited against compensation (Kwon 2017). For surgical dentistry, the recurring liability grounds are concrete and pre-emptable: culture and treat infection promptly, refer when indicated, document infection control, and obtain explicit preoperative consent covering infection risk — a missing infection-consent is independently actionable (Park 2016). At the macro level, East Asian malpractice claims mostly settle and judged cases lean physician-favorable (Taniguchi 2023, JP 75.8%), but that tilt does not dilute the case-level grounds.
 
 ## Gaps & Future Research
-- **No dental-specific HCAT validation.** Classification evidence is hospital/nursing-derived; transferability to private dental complaints is interpretive [claude해석]. A dental HCAT adaptation is an open opportunity.
-- **No controlled CODE outcome data.** Elias 2025 is descriptive; effectiveness vs usual training is untested [추정].
-- **Korean context now partial.** Korean court-precedent evidence on settlement-agreement validity and SSI liability is now in (Kwon 2017, Park 2016), and Japanese national trends add an East Asian macro frame (Taniguchi 2023) — but all three are plastic-surgery / cross-specialty, applied to dentistry by analogy of shared civil-law structure [claude해석]. Korean *dental*-specific complaint epidemiology and consumer-dispute pathways remain uncovered — see [[practice-management/ha-2023-dentist-issues-constitutional-court-decisions]] for adjacent Korean legal material.
+- **No dental-specific HCAT validation.** Classification evidence is hospital/nursing-derived; transferability to private dental complaints is interpretive [미검증]. A dental HCAT adaptation is an open opportunity.
+- **No controlled CODE outcome data.** Elias 2025 is descriptive; effectiveness vs usual training is untested [미검증].
+- **Korean context now partial.** Korean court-precedent evidence on settlement-agreement validity and SSI liability is now in (Kwon 2017, Park 2016), and Japanese national trends add an East Asian macro frame (Taniguchi 2023) — but all three are plastic-surgery / cross-specialty, applied to dentistry by analogy of shared civil-law structure [미검증]. Korean *dental*-specific complaint epidemiology and consumer-dispute pathways remain uncovered — see [[practice-management/ha-2023-dentist-issues-constitutional-court-decisions]] for adjacent Korean legal material.
 - **Sentiment analytics are language-bound.** Zheng 2025's emotional-language model is Chinese-trained; a Korean complaint-text model would need separate development.
 - **Weak causal designs on the response side.** Li 2024 and most response-axis studies are pre/post or case studies; the field lacks RCT-level evidence that a given response protocol changes resolution rates.
 

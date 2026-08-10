@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1186/s12903-025-06060-9
 source: wei-2025-cshaped-mandibular-first-molar-case.md
 category: [endodontics/anatomy]
-confidence: case-report
+evidence_level: case-report
 pdf_path: /Users/oracleneo/llm-wiki/papers/wei-2025-cshaped-mandibular-first-molar-case.pdf
 pdf_filename: wei-2025-cshaped-mandibular-first-molar-case.pdf
 source_collection: external

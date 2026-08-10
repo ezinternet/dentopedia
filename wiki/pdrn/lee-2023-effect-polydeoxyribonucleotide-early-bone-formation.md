@@ -6,7 +6,7 @@ date: 2023-10-09
 doi: 10.1038/s41598-023-43213-8
 source: lee-2023-effect-polydeoxyribonucleotide-early-bone-formation.md
 category: [pdrn]
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/lee-2023-effect-polydeoxyribonucleotide-early-bone-formation.pdf
 pdf_filename: lee-2023-effect-polydeoxyribonucleotide-early-bone-formation.pdf
 source_collection: external

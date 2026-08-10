@@ -1,0 +1,31 @@
+Title: Trismus Following Inferior Alveolar Nerve Block: A Case Report
+Authors: Khalifeh B, Simonian K, Houmani M, El-Outa A, Khalil W
+Journal: Cureus
+Year: 2024
+DOI: 10.7759/cureus.73394
+PMID: 39659340
+PMCID: PMC11630894
+
+[Full text retrieved from PubMed Central — PMC11630894]
+
+CASE: 59-year-old female, no significant medical history. Routine restorative treatment tooth 47; IANB administered twice (~3.4cc Persocaine® — 2% lidocaine + 1:100,000 epinephrine). 12 hours later: right lower face oedema, mouth opening 18mm, lateral movement 9mm right / 3mm left, pain on TMJ + medial pterygoid palpation.
+
+6 MECHANISMS OF IANB-RELATED TRISMUS:
+1. Accidental medial pterygoid muscle penetration → muscle spasm
+2. Intramuscular hematoma (inferior alveolar a/v injury → pterygomandibular space hematoma)
+3. Needle-track infection (delayed onset 2–3 days)
+4. Myotoxicity from local anesthetic
+5. Barbed needle tip tearing muscle fibers on withdrawal
+6. Large volume injection into restricted space → tissue expansion
+
+MANAGEMENT TIMELINE:
+Day 1–7: warm application + jaw exercises + Muscerol 2 (paracetamol+orphenadrine) + ibuprofen 400mg + aescin 20mg → Day 7: oedema resolved, NO improvement in mouth opening (18mm)
+Day 8–12: IM Difen B12® (diclofenac + beclomethasone + cyanocobalamin) ×5 days + Augmentin® Day 10 → oedema resolved but opening worsened to 13mm (forced exercise)
+Day 12–50: increased exercise frequency → progressive improvement: 15mm(D12), 17mm(D13), 19mm(D14), 28mm(D30), 42mm(D50) → full recovery maintained at 1-month follow-up
+
+KEY POINTS:
+- Normal mouth opening: 35–60 mm (women ≥35mm, men ≥40mm)
+- Acute iatrogenic trismus: resolves typically 2–6 weeks (range 4–20 weeks)
+- Chronic trismus risk: delayed management → scar tissue → permanent restriction
+- Dexamethasone evidence: submucosal 4mg reduces post-third-molar oedema; submucosal route superior to IM for trismus per Kaewkumnert et al.
+- Early, progressive jaw exercise is cornerstone of recovery

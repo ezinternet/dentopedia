@@ -7,7 +7,7 @@ doi: 10.1016/j.jdent.2025.105857
 pmid: "40460969"
 source: terra-2025-effect-at-home-agents-nma.md
 category: [tooth-whitening]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 text_path: /Users/oracleneo/llm-wiki/papers/terra-2025-effect-at-home-agents-nma.txt
 text_filename: terra-2025-effect-at-home-agents-nma.txt

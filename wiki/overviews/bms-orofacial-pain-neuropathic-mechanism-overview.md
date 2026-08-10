@@ -6,7 +6,7 @@ date: 2026-07-10
 doi: N/A
 source: synthesis
 category: [overviews]
-confidence: synthesis
+evidence_level: synthesis
 pdf_path: N/A
 pdf_filename: N/A
 source_collection: synthesis
@@ -48,7 +48,7 @@ relations:
 > - 임상적으로 BMS는 말초형(말초 lidocaine 차단·국소 clonazepam 반응)과 중추형(국소치료 무반응, 우울·불안 동반, 선조체 도파민 결핍)으로 나뉘며 개인 내 중첩한다 (jaaskelainen-2018) — 아형이 치료 분기를 결정한다.
 > - 말초형의 객관적 근거: 혀 생검에서 신경섬유밀도 (Intraepithelial Nerve Fiber Density, IENFD) 30~60% 감소 + TRPV1·P2X3·NGF 발현 변화 + Nav1.7 과발현 + 정량감각검사 (Quantitative Sensory Testing, QST) 냉각 역치 이상 (kouri-2024, PRISMA SR).
 > - 기전→치료 다리: 국소 clonazepam(GABA-A 작용제)의 말초형 반응성은 "탈억제 회복" 논리(price-2009)와 직접 연결되고, T-type/neurosteroid 축은 BMS의 새 표적 후보를 시사한다 — 단 말초 Cl⁻·T-type 표적 진통제는 아직 전임상 단계.
-> - 근거 등급: 임상 substrate는 SR 1편(kouri-2024)·권위 리뷰(jaaskelainen-2018)로 비교적 견고, 분자 기전 3편은 narrative review·동물실험이라 [claude해석]으로 임상 외삽은 가설 수준. BMS 진단·치료 결정은 [[oral-medicine-decision-ladder]]를 1차로 본다.
+> - 근거 등급: 임상 substrate는 SR 1편(kouri-2024)·권위 리뷰(jaaskelainen-2018)로 비교적 견고, 분자 기전 3편은 narrative review·동물실험이라 [미검증]으로 임상 외삽은 가설 수준. BMS 진단·치료 결정은 [[oral-medicine-decision-ladder]]를 1차로 본다.
 
 ## Three-line Summary
 
@@ -86,7 +86,7 @@ Synaptic inhibition by GABA-A and glycine receptors is carried by Cl⁻ flux, so
 
 ## 4. The clinical phenotype — BMS as neuropathic pain
 
-[[oral-medicine/jaaskelainen-2018-burning-mouth-syndrome-neuropathic-pain]] (NeuPSIG/IASP review) concludes primary BMS is a neuropathic condition with neurophysiologically verifiable lesions, and proposes a clinically actionable **two-subtype model**:
+[[oral-medicine/burning-mouth-syndrome/jaaskelainen-2018-burning-mouth-syndrome-neuropathic-pain]] (NeuPSIG/IASP review) concludes primary BMS is a neuropathic condition with neurophysiologically verifiable lesions, and proposes a clinically actionable **two-subtype model**:
 
 - **Peripheral** type — responds to peripheral lidocaine blocks and **topical clonazepam**; small-fiber/trigeminal involvement on QST, electrogustatometry, epithelial nerve fiber density.
 - **Central** type — does **not** respond to local treatment; associated with psychiatric comorbidity and deficient striatal dopamine (neurotransmitter-PET).
@@ -94,7 +94,7 @@ Synaptic inhibition by GABA-A and glycine receptors is carried by Cl⁻ flux, so
 
 Its unifying hypothesis: in postmenopausal women, decline in neuroprotective gonadal hormones plus rising stress hormones renders small fibers and basal ganglia vulnerable to neurotoxic damage — dovetailing with the neurosteroid axis of Section 3.
 
-[[oral-medicine/kouri-2024-small-fiber-neuropathy-burning-mouth-syndrome]] (PRISMA SR, PROSPERO CRD42024555839) quantifies the peripheral arm: across 8 biopsy studies, **30–60% reduction in tongue/intraepithelial nerve fiber density**, with increased TRPV1⁺/NGF⁺/P2X3⁺ fibers, **Nav1.7 overexpression**, slight Nav1.9 mRNA underexpression, increased artemin mRNA, and QST abnormalities (reduced cool detection and cold-pain thresholds) in 7 studies. It establishes small fiber neuropathy (SFN) as a core BMS mechanism (heterogeneity precluded meta-analysis; causality not established).
+[[oral-medicine/burning-mouth-syndrome/kouri-2024-small-fiber-neuropathy-burning-mouth-syndrome]] (PRISMA SR, PROSPERO CRD42024555839) quantifies the peripheral arm: across 8 biopsy studies, **30–60% reduction in tongue/intraepithelial nerve fiber density**, with increased TRPV1⁺/NGF⁺/P2X3⁺ fibers, **Nav1.7 overexpression**, slight Nav1.9 mRNA underexpression, increased artemin mRNA, and QST abnormalities (reduced cool detection and cold-pain thresholds) in 7 studies. It establishes small fiber neuropathy (SFN) as a core BMS mechanism (heterogeneity precluded meta-analysis; causality not established).
 
 ## 5. Mechanism → clinical bridge
 
@@ -117,7 +117,7 @@ Only **~3% of trigeminal nerve injuries progress to PTNP** (3.3% after facial fr
 ## 8. Evidence grading & gaps
 
 - **Clinical substrate** (peripheral SFN in BMS): relatively firm — 1 PRISMA SR (kouri-2024) + an authoritative NeuPSIG review (jaaskelainen-2018). Still observational/cross-sectional; no causal proof, no meta-analytic pooling.
-- **Molecular mechanism** (Sections 1–3): two narrative reviews (price-2009, wilke-2020) + one animal study (pathirathna-2005). Extrapolating these to human BMS therapy is **[claude해석]** — a plausible mechanistic scaffold, not clinical evidence.
+- **Molecular mechanism** (Sections 1–3): two narrative reviews (price-2009, wilke-2020) + one animal study (pathirathna-2005). Extrapolating these to human BMS therapy is **[미검증]** — a plausible mechanistic scaffold, not clinical evidence.
 - **Circuit anatomy & PTNP cascade** (Sections 6–7): two narrative reviews (kim-2024, korczeniewska-2022), no primary data in kim-2024, and korczeniewska-2022 is largely extrapolated from non-trigeminal (spinal/DRG) injury models by the authors' own admission. Treat both as a plausible mechanistic scaffold connecting Sections 1–3 to a concrete circuit and a post-traumatic clinical entity, not as direct clinical evidence.
 - **Translational gap**: subtype assignment needs neurophysiologic testing unavailable in most dental settings; peripheral Cl⁻/T-type analgesics are not clinically available.
 - **For decisions**, defer to [[oral-medicine-decision-ladder]] (BMS) or [[overviews/trigeminal-neuralgia-neuropathy-overview]] (TN/PTTN); this page exists to explain *why* those clinical branches behave as they do.
@@ -127,8 +127,8 @@ Only **~3% of trigeminal nerve injuries progress to PTNP** (3.3% after facial fr
 - [[orofacial-pain/price-2009-chloride-regulation-pain-pathway]] — central disinhibition substrate (NKCC1/KCC2, E_Cl); spinal.
 - [[orofacial-pain/wilke-2020-chloride-underrated-ion-nociceptors]] — peripheral inversion; nociceptor Cl⁻-channel repertoire (TMEM16A).
 - [[orofacial-pain/pathirathna-2005-t-type-calcium-gaba-neurosteroids]] — neurosteroid → T-type Ca²⁺ block as primary peripheral analgesia; GABA-A amplifies.
-- [[oral-medicine/jaaskelainen-2018-burning-mouth-syndrome-neuropathic-pain]] — BMS peripheral vs central subtype model; treatment-response split.
-- [[oral-medicine/kouri-2024-small-fiber-neuropathy-burning-mouth-syndrome]] — PRISMA SR quantifying SFN in BMS (30–60% IENFD loss; Nav1.7/TRPV1).
+- [[oral-medicine/burning-mouth-syndrome/jaaskelainen-2018-burning-mouth-syndrome-neuropathic-pain]] — BMS peripheral vs central subtype model; treatment-response split.
+- [[oral-medicine/burning-mouth-syndrome/kouri-2024-small-fiber-neuropathy-burning-mouth-syndrome]] — PRISMA SR quantifying SFN in BMS (30–60% IENFD loss; Nav1.7/TRPV1).
 - [[orofacial-pain/kim-2024-trigeminal-sensory-system-orofacial-pain]] — trigeminal ganglion/Sp5 circuit anatomy; Sp5C central-sensitization substrate shared across neuropathic pain, TN, headache, BMS.
 - [[orofacial-pain/korczeniewska-2022-pathophysiology-post-traumatic-trigeminal-neuropathic]] — peripheral PTNP cascade (chemokines, ion channels, SGC activation); Cav3.2/miR-32-5p link back to Section 3's T-type axis.
 - [[oral-medicine-decision-ladder]] — clinical BMS diagnosis/treatment ladder (this page is its mechanistic backbone).

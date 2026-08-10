@@ -6,7 +6,7 @@ date: 2022-06-01
 doi: 10.1016/j.ijom.2021.11.012
 source: henriques-2022-maxillary-sinus-septa-prevalence-sr-ma.md
 category: [sinus-lift/lateral]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/henriques-2022-maxillary-sinus-septa-prevalence-sr-ma.pdf
 pdf_filename: henriques-2022-maxillary-sinus-septa-prevalence-sr-ma.pdf
 source_collection: external

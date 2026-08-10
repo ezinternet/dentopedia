@@ -6,7 +6,7 @@ date: 2018-07-09
 doi: 10.1111/jcpe.12985
 journal: Journal of Clinical Periodontology 45(9):1128-1139
 source: farina-2018-morbidity-transcrestal-lateral-sinus-floor-elevation.md
-confidence: rct
+evidence_level: rct
 category: [sinus-lift/transcrestal]
 pdf_path: /Users/oracleneo/llm-wiki/papers/farina-2018-morbidity-transcrestal-lateral-sinus-floor-elevation.pdf
 pdf_filename: farina-2018-morbidity-transcrestal-lateral-sinus-floor-elevation.pdf

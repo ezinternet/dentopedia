@@ -15,7 +15,7 @@ text_filename: viscuso-2025-dentist-awareness-post-traumatic-trigeminal-neuropat
 
 ## Why Ingested
 
-삼차신경통 치과 감시 인제스트 — 치과의의 외상후 삼차신경병성 통증(Post-Traumatic Trigeminal Neuropathic pain, PTTN) 인지 부족이 오진→불필요·비가역 치료(불필요한 근관재치료·치근단절제술·발치)를 유발하는 동인임을 정량화. n=634 이탈리아 치과의 설문에서 29%가 PTTN 존재조차 모르고, 80%+가 학부/대학원에서 교육받은 적 없으며, 70%가 임상에서 의심 사례를 겪었으나 3명 중 1명만 통증 전문의에 의뢰. 기존 neuropathic 통증 페이지 [[oral-medicine/jaaskelainen-2018-burning-mouth-syndrome-neuropathic-pain]]의 삼차신경 신경병성 통증 기전을 임상 인지·오진 측면에서 보강하며, 종합 페이지 [[overviews/bms-orofacial-pain-neuropathic-mechanism-overview]]의 orofacial 신경병성 통증 인식 갭에 실증 근거를 추가. (지정된 sibling alkhutari-2023-... · khan-2023-...는 위키에 미존재하여 실존 페이지로 대체 링크함.)
+삼차신경통 치과 감시 인제스트 — 치과의의 외상후 삼차신경병성 통증(Post-Traumatic Trigeminal Neuropathic pain, PTTN) 인지 부족이 오진→불필요·비가역 치료(불필요한 근관재치료·치근단절제술·발치)를 유발하는 동인임을 정량화. n=634 이탈리아 치과의 설문에서 29%가 PTTN 존재조차 모르고, 80%+가 학부/대학원에서 교육받은 적 없으며, 70%가 임상에서 의심 사례를 겪었으나 3명 중 1명만 통증 전문의에 의뢰. 기존 neuropathic 통증 페이지 [[oral-medicine/burning-mouth-syndrome/jaaskelainen-2018-burning-mouth-syndrome-neuropathic-pain]]의 삼차신경 신경병성 통증 기전을 임상 인지·오진 측면에서 보강하며, 종합 페이지 [[overviews/bms-orofacial-pain-neuropathic-mechanism-overview]]의 orofacial 신경병성 통증 인식 갭에 실증 근거를 추가. (지정된 sibling alkhutari-2023-... · khan-2023-...는 위키에 미존재하여 실존 페이지로 대체 링크함.)
 
 ## Three-line Summary
 
@@ -77,7 +77,7 @@ Web-based cross-sectional survey of 634 Italian dentists: 29% were unaware that 
 
 ## 6. Related Work
 
-- Reinforces the neuropathic-pain framing of orofacial pain in [[oral-medicine/jaaskelainen-2018-burning-mouth-syndrome-neuropathic-pain]] and [[oral-medicine/kouri-2024-small-fiber-neuropathy-burning-mouth-syndrome]].
+- Reinforces the neuropathic-pain framing of orofacial pain in [[oral-medicine/burning-mouth-syndrome/jaaskelainen-2018-burning-mouth-syndrome-neuropathic-pain]] and [[oral-medicine/burning-mouth-syndrome/kouri-2024-small-fiber-neuropathy-burning-mouth-syndrome]].
 - Feeds the awareness/recognition-gap thread of [[overviews/bms-orofacial-pain-neuropathic-mechanism-overview]].
 - Nixdorf et al. (cited within): ~3.4% of root-canal patients develop PTTN.
 

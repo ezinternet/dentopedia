@@ -6,7 +6,7 @@ date: 2019-03-01
 doi: 10.1016/j.jcms.2018.12.011
 source: naujokat-2019-cold-argon-plasma-osseointegration-pigs.md
 category: [implants/surface/plasma]
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/naujokat-2019-cold-argon-plasma-osseointegration-pigs.pdf
 pdf_filename: naujokat-2019-cold-argon-plasma-osseointegration-pigs.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2021-03-15
 doi: 10.1186/s40729-021-00298-y
 source: munakata-2021-sinus-membrane-thickness-edentulous-cbct.md
 category: sinus-lift/lateral
-confidence: cross-sectional
+evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/munakata-2021-sinus-membrane-thickness-edentulous-cbct.pdf
 pdf_filename: munakata-2021-sinus-membrane-thickness-edentulous-cbct.pdf
 source_collection: external

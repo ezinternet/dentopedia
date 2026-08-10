@@ -6,7 +6,7 @@ date: 2024-04-01
 doi: "10.1007/s40520-024-02739-1"
 source: ponzo-2024-presbygeusia-narrative-review.md
 category: [geriatric-dentistry]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: true
 pmid: "38558357"

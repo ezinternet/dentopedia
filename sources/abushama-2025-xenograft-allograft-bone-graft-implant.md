@@ -82,7 +82,7 @@ PROSPERO 등록 체계적 문헌고찰(PRISMA; RoB2/ROBINS-I)로, 즉시식립(6
 
 - Cites the historical rationale for jumping-gap/jumping-distance management in immediate implant placement (gaps >2 mm requiring grafting) and Achondo's (2004) taxonomy of graft materials (autograft, allograft, xenograft, alloplast, platelet concentrates).
 - Situates Bio-Oss (bovine xenograft) and porcine xenograft (Gen-Os) against allogeneic materials such as acellular dermal matrix (ADM) and demineralized freeze-dried bone allograft (DFDBA) as the two natural (non-autogenous, non-synthetic) graft classes compared.
-- Related wiki pages: [[bone-regeneration/rao-2026-allogeneic-bone-plug-versus-dbbm-gbr-pilot-rct]] (single RCT, allograft vs DBBM equivalence in GBR), [[immediate-implant/zaki-2021-bone-substitute-materials-immediate-implant-sr-ma]] (SR+MA of BSM vs no-BSM gap grafting at immediate implants), [[bone-regeneration/ridge-preservation/avila-ortiz-2014-alveolar-ridge-preservation-systematic-review]] (xenograft/allograft both cited as part of "optimal" ARP protocol).
+- Related wiki pages: [[bone-regeneration/rao-2026-allogeneic-bone-plug-versus-dbbm-gbr-pilot-rct]] (single RCT, allograft vs DBBM equivalence in GBR), [[immediate-implant/gap-grafting/zaki-2021-bone-substitute-materials-immediate-implant-sr-ma]] (SR+MA of BSM vs no-BSM gap grafting at immediate implants), [[bone-regeneration/ridge-preservation/avila-ortiz-2014-alveolar-ridge-preservation-systematic-review]] (xenograft/allograft both cited as part of "optimal" ARP protocol).
 
 ## 7. Glossary
 

@@ -7,7 +7,7 @@ doi: 10.3390/antibiotics13090873
 journal: Antibiotics 13:873
 source: sutej-2024-antibiotic-prescribing-trends-dentistry-croatia.md
 category: [drug/antibiotics]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/sutej-2024-antibiotic-prescribing-trends-dentistry-croatia.pdf
 pdf_filename: sutej-2024-antibiotic-prescribing-trends-dentistry-croatia.pdf
 source_collection: external
@@ -42,7 +42,7 @@ Croatian national 10-year prescription dataset (2014-2023) analyzed for dental a
 National prescription claims data 2014-2023; class breakdown, prescriber demographic.
 
 ## Results
-[근거강함] Specific trend figures in paper; characterizes prescribing class shifts and volume change over the decade.
+[확인] Specific trend figures in paper; characterizes prescribing class shifts and volume change over the decade.
 
 ## Limitations
 - Single country, claims-data limitations
@@ -50,7 +50,7 @@ National prescription claims data 2014-2023; class breakdown, prescriber demogra
 - Indication-level granularity limited
 
 ## Related Papers
-- [[drug/sbricoli-2024-antibiotic-prescribing-habits-dentistry-survey]] — Italian survey.
-- [[drug/thompson-2023-dental-antibiotic-stewardship-core-outcome-set]] — stewardship outcome set.
-- [[drug/sandulescu-2024-antibiotic-prescribing-dental-best-practices-review]] — best practices.
-- [[drug/vidovic-juras-2024-antibiotic-prophylaxis-dental-procedures]] — Croatian companion review on prophylaxis.
+- [[drug/antibiotics/sbricoli-2024-antibiotic-prescribing-habits-dentistry-survey]] — Italian survey.
+- [[drug/antibiotics/thompson-2023-dental-antibiotic-stewardship-core-outcome-set]] — stewardship outcome set.
+- [[drug/antibiotics/sandulescu-2024-antibiotic-prescribing-dental-best-practices-review]] — best practices.
+- [[drug/mronj/vidovic-juras-2024-antibiotic-prophylaxis-dental-procedures]] — Croatian companion review on prophylaxis.

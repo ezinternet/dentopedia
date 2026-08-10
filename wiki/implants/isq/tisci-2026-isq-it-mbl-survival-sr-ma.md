@@ -6,7 +6,7 @@ date: 2026-04-22
 doi: 10.1111/cid.70156
 source: tisci-2026-isq-it-mbl-survival-sr-ma.md
 category: [implants/isq]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/tisci-2026-isq-it-mbl-survival-sr-ma.pdf
 pdf_filename: tisci-2026-isq-it-mbl-survival-sr-ma.pdf
 source_collection: external

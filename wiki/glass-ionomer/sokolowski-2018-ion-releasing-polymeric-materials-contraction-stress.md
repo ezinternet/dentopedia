@@ -6,7 +6,7 @@ date: 2018-01-01
 doi: 10.3390/polym10101093
 source: sokolowski-2018-ion-releasing-polymeric-materials-contraction-stress.md
 category: glass-ionomer
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: true
 pmid: "30961019"

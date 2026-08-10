@@ -6,7 +6,7 @@ date: 2020-01-01
 doi: 10.1155/2020/8832500
 journal: International Journal of Dentistry 2020
 source: andreatta-2020-simplified-loading-protocol-neoss-1year.md
-confidence: prospective
+evidence_level: prospective
 category: [implants/isq]
 pdf_path: /Users/oracleneo/llm-wiki/papers/andreatta-2020-simplified-loading-protocol-neoss-1year.pdf
 pdf_filename: andreatta-2020-simplified-loading-protocol-neoss-1year.pdf

@@ -6,7 +6,7 @@ date: 2022-06-03
 doi: "10.3390/ijerph19116870"
 source: teja-2022-herbal-agents-edta-smear-layer-removal-sr.md
 category: [endodontics/irrigation]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/teja-2022-herbal-agents-edta-smear-layer-removal-sr.pdf
 pdf_filename: teja-2022-herbal-agents-edta-smear-layer-removal-sr.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2023-01-01
 doi: 10.3390/ijms24065466
 source: kincses-2023-ceramic-dentin-thickness-luting-intrapulpal-temperature-inlay.md
 category: [inlay]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/kincses-2023-ceramic-dentin-thickness-luting-intrapulpal-temperature-inlay.pdf
 pdf_filename: kincses-2023-ceramic-dentin-thickness-luting-intrapulpal-temperature-inlay.pdf
 source_collection: external
@@ -38,7 +38,7 @@ Clinically, ensuring adequate remaining dentin thickness and selecting appropria
 In-vitro 온도측정(thermocouple), 세라믹/상아질 두께·레진 합착제 변수.
 
 ## Results
-치수내 온도상승이 세라믹·상아질 두께 및 합착제 유형에 의존 [합의수준/미검증(수치)]. 얇을수록 열위험 ↑.
+치수내 온도상승이 세라믹·상아질 두께 및 합착제 유형에 의존 [확인, 다만 구체적 수치는 미검증]. 얇을수록 열위험 ↑.
 
 ## Related Papers
 - [[inlay/griffis-2022-tooth-cusp-preservation-lithium-disilicate-onlay-fatigue]] — 세라믹 온레이

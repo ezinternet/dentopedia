@@ -6,7 +6,7 @@ date: 2014-01-01
 doi: "10.2319/093013-716.1"
 source: marquezan-2014-cortical-thickness-miniscrew-stability-sr-ma.md
 category: [orthodontics]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/marquezan-2014-cortical-thickness-miniscrew-stability-sr-ma.pdf
 pdf_filename: marquezan-2014-cortical-thickness-miniscrew-stability-sr-ma.pdf
 source_collection: external

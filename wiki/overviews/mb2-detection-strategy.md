@@ -6,7 +6,7 @@ category: [overviews]
 date: 2026-05-18
 tags: [MB2, maxillary-molar, CBCT, DOM, ultrasonic, prevalence, canal-detection, overview]
 source_papers: 
-confidence: synthesis
+evidence_level: synthesis
 source: synthesis
 ---
 

@@ -12,7 +12,7 @@ source_collection: external
 
 ## Why Ingested
 
-[[immediate-implant/sanz-2017-bone-graft-gap-immediate-implant-rct]]가 즉시 식립 buccal gap의 graft 충전 효과를 다뤘다면, 본 RCT는 gap 충전(allograft)을 양 군에 고정한 채 *차폐막* 변수(자가 DDBM vs e-PRF)만 분리해 비교한다 — 같은 Mansoura/Elsheikh 그룹의 [[immediate-implant/elsheikh-2023-prf-xenograft-alloplastic-immediate-implant]] PRF 적용 근거를 차폐막 관점으로 확장하며, 두 자가 생물학적 차폐막이 24개월 동등(둘 다 100% 생존)함을 보강.
+[[immediate-implant/gap-grafting/sanz-2017-bone-graft-gap-immediate-implant-rct]]가 즉시 식립 buccal gap의 graft 충전 효과를 다뤘다면, 본 RCT는 gap 충전(allograft)을 양 군에 고정한 채 *차폐막* 변수(자가 DDBM vs e-PRF)만 분리해 비교한다 — 같은 Mansoura/Elsheikh 그룹의 [[immediate-implant/gap-grafting/elsheikh-2023-prf-xenograft-alloplastic-immediate-implant]] PRF 적용 근거를 차폐막 관점으로 확장하며, 두 자가 생물학적 차폐막이 24개월 동등(둘 다 100% 생존)함을 보강.
 
 ## Three-line Summary
 
@@ -39,7 +39,7 @@ Both autologous biological membranes (DDBM and e-PRF) are equivalent for mandibu
 RCT; n=40 (각 군 20, 단일 임플란트), 비복원성 하악 대구치 → 즉시 식립(IS II Active, Neobiotech), 최소 35Ncm; lottery 무작위배정, sealed envelope; 평가자·통계자 blinding; ISQ(Osstell, 0/3/6/12mo), PPD, MBL·골밀도(CBCT 0/3/12/24mo); Mann-Whitney U / Friedman, effect size r.
 
 ## 4. Key Results
-[근거강함]
+[확인]
 - Implant survival 100% (24mo)
 - ISQ: 두 군 시간경과 유의 증가(p<0.001), 군간 차이 없음(all p>0.05); 12mo dentine 78 vs e-PRF 79
 - PPD: 군간 차이 없음, 24mo 둘 다 ~3.25mm (건강 범위, <3.5mm)
@@ -54,7 +54,7 @@ RCT; n=40 (각 군 20, 단일 임플란트), 비복원성 하악 대구치 → �
 - 장기(5-10년) 추적 필요
 
 ## 6. Related Work
-- [[immediate-implant/elsheikh-2023-prf-xenograft-alloplastic-immediate-implant]] — PRF + immediate implant grafting.
+- [[immediate-implant/gap-grafting/elsheikh-2023-prf-xenograft-alloplastic-immediate-implant]] — PRF + immediate implant grafting.
 - [[immediate-implant/esthetic-soft-tissue/bajaj-2025-cgf-enriched-bone-graft-iipp-rct]] — platelet concentrate(CGF) IIP RCT.
 - [[overviews/immediate-implant-soft-tissue-gap-grafting-material-choice]] — gap grafting material 선택.
 

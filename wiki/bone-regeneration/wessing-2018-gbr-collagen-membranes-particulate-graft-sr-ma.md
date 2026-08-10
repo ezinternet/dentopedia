@@ -6,7 +6,7 @@ date: 2018-01-01
 doi: 10.11607/jomi.5461
 source: wessing-2018-gbr-collagen-membranes-particulate-graft-sr-ma.md
 category: [bone-regeneration]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/wessing-2018-gbr-collagen-membranes-particulate-graft-sr-ma.pdf
 pdf_filename: wessing-2018-gbr-collagen-membranes-particulate-graft-sr-ma.pdf
 source_collection: external
@@ -65,4 +65,4 @@ The key practical findings: implant survival was **similar for simultaneous vs s
 - [[bone-regeneration/ridge-preservation/majzoub-2019-influence-different-grafting-materials]] — single-study grafting-material comparison; this SR+MA pools the particulate-graft + membrane evidence.
 - [[bone-regeneration/ridge-preservation/choi-2017-single-double-layer-collagen-membrane-arp]] — collagen membrane design (single vs double layer); relevant to the cross-linking/exposure trade-off.
 - [[bone-regeneration/ridge-preservation/avila-ortiz-2019-alveolar-ridge-preservation-interventions]] — broader ridge-preservation/augmentation evidence base.
-- [[implants/jensen-2023-iti-consensus-bone-dimensions-soft-tissue]] — ITI consensus endorsing simultaneous GBR over dehiscence defects, consistent with the simultaneous-placement recommendation here.
+- [[implants/soft-tissue/jensen-2023-iti-consensus-bone-dimensions-soft-tissue]] — ITI consensus endorsing simultaneous GBR over dehiscence defects, consistent with the simultaneous-placement recommendation here.

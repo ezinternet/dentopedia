@@ -7,7 +7,7 @@ doi: 10.1590/1807-3107bor-2021.vol35.0131
 journal: "Braz Oral Res 35:e131"
 source: adami-2021-needle-free-mucoadhesive-patch-anesthesia-cohort.md
 category: [local-anesthesia]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/adami-2021-needle-free-mucoadhesive-patch-anesthesia-cohort.pdf
 pdf_filename: adami-2021-needle-free-mucoadhesive-patch-anesthesia-cohort.pdf
 source_collection: external
@@ -35,9 +35,9 @@ The needle-free patch is feasible as primary anesthesia for medium-complexity vi
 
 ## Summary
 
-[근거강함] (for the cohort's descriptive outcomes) A Brazilian prospective single-arm clinical cohort testing a needle-free **tri-layered mucoadhesive patch** (drug-release + mucoadhesive + backing layers; lidocaine + prilocaine HCl 1:1, 30 mg/patch) as primary pre-operative anesthesia for medium-complexity dental work. Two patches per patient (vestibular + palatal/lingual) were applied to the involved teeth and left in place throughout. In **90% of the 58 cases the procedure was completed with the patch alone — no injection**. Mean onset was ~13.2 min, peak effect within 15–25 min, useful duration 50–90 min, and no side effects appeared during, at 2 h, or across 6 months.
+[확인] (for the cohort's descriptive outcomes) A Brazilian prospective single-arm clinical cohort testing a needle-free **tri-layered mucoadhesive patch** (drug-release + mucoadhesive + backing layers; lidocaine + prilocaine HCl 1:1, 30 mg/patch) as primary pre-operative anesthesia for medium-complexity dental work. Two patches per patient (vestibular + palatal/lingual) were applied to the involved teeth and left in place throughout. In **90% of the 58 cases the procedure was completed with the patch alone — no injection**. Mean onset was ~13.2 min, peak effect within 15–25 min, useful duration 50–90 min, and no side effects appeared during, at 2 h, or across 6 months.
 
-[claude해석] The clinically interesting points: (1) the patch directly addresses **needle-phobia** — 59% of the cohort were needle-phobic/anxious (82% of them women), and every one of the 6 supplemental-injection cases was in this group, yet they reportedly did not feel the needle (patch worked as an effective pre-anesthetic). (2) Counterintuitively, **all mandibular cases were completed without supplementation** despite denser mandibular bone — attributed to mental/incisive nerve diffusion. The major caveat is the design: one-arm, open-label, no comparator, convenience sample, subjective (non-EPT) onset endpoint — so this demonstrates feasibility and a favorable safety profile, not comparative efficacy versus conventional injection. It cannot anesthetize nonvital/endodontic teeth (excluded) and is positioned for medium-complexity restorative/periodontal procedures, not surgery or deep pulpal anesthesia.
+[미검증] The clinically interesting points: (1) the patch directly addresses **needle-phobia** — 59% of the cohort were needle-phobic/anxious (82% of them women), and every one of the 6 supplemental-injection cases was in this group, yet they reportedly did not feel the needle (patch worked as an effective pre-anesthetic). (2) Counterintuitively, **all mandibular cases were completed without supplementation** despite denser mandibular bone — attributed to mental/incisive nerve diffusion. The major caveat is the design: one-arm, open-label, no comparator, convenience sample, subjective (non-EPT) onset endpoint — so this demonstrates feasibility and a favorable safety profile, not comparative efficacy versus conventional injection. It cannot anesthetize nonvital/endodontic teeth (excluded) and is positioned for medium-complexity restorative/periodontal procedures, not surgery or deep pulpal anesthesia.
 
 ## Key Contributions
 
@@ -57,7 +57,7 @@ The needle-free patch is feasible as primary anesthesia for medium-complexity vi
 
 ## Results
 
-[근거강함]
+[확인]
 
 | Outcome | Value |
 |---|---|
@@ -72,8 +72,8 @@ The needle-free patch is feasible as primary anesthesia for medium-complexity vi
 | Side effects (during / 2 h / 6 mo) | None |
 | Mandibular cases supplemented | 0% |
 
-[claude해석] Onset (~13 min) is slightly slower than conventional injection but acceptable given the needle-free benefit. Because there is no control arm and the endpoint is subjective, treat the 90% injection-free rate as feasibility evidence in a selected (vital-tooth, medium-complexity, healthy-adult) population rather than a head-to-head efficacy claim. Authors note manufacture upscaling and long-term stability are still required before product validation.
+[미검증] Onset (~13 min) is slightly slower than conventional injection but acceptable given the needle-free benefit. Because there is no control arm and the endpoint is subjective, treat the 90% injection-free rate as feasibility evidence in a selected (vital-tooth, medium-complexity, healthy-adult) population rather than a head-to-head efficacy claim. Authors note manufacture upscaling and long-term stability are still required before product validation.
 
 ## Related Papers
 
-- [[drug/zhou-2023-pregnancy-physiology-oral-local-anesthesia-review]] — extends: that review flags needle-free/topical patch formulations as promising-but-understudied; this cohort provides the clinical data point, relevant to the injection-pain-and-anxiety problem (including in pregnancy, where minimizing injection pain is emphasized).
+- [[local-anesthesia/zhou-2023-pregnancy-physiology-oral-local-anesthesia-review]] — extends: that review flags needle-free/topical patch formulations as promising-but-understudied; this cohort provides the clinical data point, relevant to the injection-pain-and-anxiety problem (including in pregnancy, where minimizing injection pain is emphasized).

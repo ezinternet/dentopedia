@@ -6,7 +6,7 @@ date: 2022-09-01
 doi: "10.1186/s12903-022-02424-7"
 source: jiang-2022-desensitizing-agents-permeability-cytotoxicity.md
 category: [dentin-hypersensitivity]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/jiang-2022-desensitizing-agents-permeability-cytotoxicity.pdf
 pdf_filename: jiang-2022-desensitizing-agents-permeability-cytotoxicity.pdf
 source_collection: external

@@ -1,0 +1,97 @@
+[FULL TEXT — PubMed Central PMC11805238. PMID 39926723. DOI 10.4103/jpbs.jpbs_1125_24]
+
+TITLE: A Clinical Study on Evaluation of Vertical Accuracy of Interocclusal Registration Materials in Centric Relation
+  (Note: PubMed/PMC render this title with a garbled tail "—AnStudy" appended — an extraction artifact, apparently a mangled remnant of "An In Vivo Study" or similar subtitle merged into a JATS heading element. The clean title above is used per the ingest instruction; the raw PubMed rendering is preserved here only as this parenthetical, not substituted into the record.)
+AUTHORS: Tank B, Shah RJ, Marwaha G, Chauhan N, Chheda E, Shah O
+JOURNAL: Journal of Pharmacy & Bioallied Sciences. 2024 Dec 12; 16(Suppl 4):S3824-S3826.
+DOI: 10.4103/jpbs.jpbs_1125_24
+
+EXTRACTION NOTE (this paragraph only — not part of the article, added once here per pipeline convention): This is a 3-page supplement-issue article. The PMC full-text extraction returned via the PubMed MCP tool has two artifacts, reproduced verbatim below rather than corrected: (1) section headings were returned as single drop-cap letters only — "I" (Introduction), "M" (Materials and Methods), "R" (Results), "D" (Discussion), "C" (Conclusion) — the rest of each heading word was lost upstream in the extraction, not by this pipeline; (2) isolated leading characters appear stripped elsewhere in the body by the same mechanism, e.g. "value is 0.84" where a leading "p" was likely dropped, and "The present study" appears as "The presentstudy". A right-side numeric results table (Table 2, referenced by the Results text but not returned as a distinct table by the extraction) was NOT recovered — only Table 1 (left-side means/SDs) survived intact in the extracted body. Several inline citation markers rendered as empty brackets "[]" in the source extraction — left as-is. No numeric unit (e.g. "mm") for the vertical-distance measurements is stated anywhere in the extracted text; the instrument is stated as a "digital vernier caliper".
+
+ABSTRACT
+
+Background: The precise recording and transfer of maxillo-mandibular relationships are pivotal in prosthetic treatments.
+
+Aims and Objectives: To evaluate the efficacy of four bite registration materials: alu wax, hard wax, polyvinylsiloxane, and bis-acrylic resin, in accurately recording, maintaining, and reproducing the vertical interocclusal relationship on either side of the dentition.
+
+Materials and Methods: Thirty subjects within the age group of 20–45 years were selected. The difference in the reading of the vertical distance with the material and at maximum intercuspation is calculated individually for each record on the left and right sides.
+
+Results: On the right side, the lowest mean was observed in MIP and the highest in hard wax. On the left side, the lowest mean was observed in MIP, while the highest was in alu wax. Among the four bite registration materials evaluated, Luxabite and Jetbite exhibited the highest mean accuracy scores.
+
+Conclusions: Closure on interocclusal record material and bite release produce vertical discrepancies. Waxes showed the most, and bis-acrylic Luxabite and addition silicones showed the least dimensional distortion vertically.
+
+---
+
+I
+
+The accurate recording and subsequent transfer of the maxillo-mandibular relationship to an articulator are crucial for the success of any prosthetic treatment.[] A crucial factor in this evaluation is the dimensional stability of the chosen material. Minimizing this deformation becomes paramount, as excessive dimensional changes can compromise the accuracy of mounted casts in the articulator.[] This investigation assessed the efficacy of four distinct bite registration materials (alu wax, hard wax, polyvinylsiloxane, and bis-acrylic resin) in accurately recording, maintaining, and reproducing the vertical interocclusal relationship on either side of the dentition.[]
+
+M
+
+Study design: The presentstudy was conducted in the Department of Prosthodontics, Govt Dental College and Hospital, Ahmedabad, Gujarat, India. The ethical clearance for the study was obtained from the Institutional Ethical Committee (Government Dental College and Hospital IEC GDCH/PROS.2/2021). Undergraduate and postgraduate dental students volunteered for the study. Thirty subjects within the age group 20–45 years were selected without any gender bias. Each subject underwent interocclusal registrations in centric relation with all four materials. Maxillary and mandibular casts were articulated with maximum intercuspation on the Hanau Wide Vue articulator. Each subject underwent interocclusal registrations in a centric relationship with all four materials. The interocclusal records were meticulously positioned on the occlusal surface of the maxillary cast, with the Lucia jig firmly in place, ensuring precise alignment before seating the mandibular cast over the records. The parameter selected was the vertical distance between the two predefined points, measured using a digital vernier caliper. The difference in reading of the vertical distance with the two materials and at maximum intercuspation is calculated individually for each record on the left and right sides.
+
+Recording centric relation using alu wax (Group 1): A double thickness of alu wax was then positioned in the mouth alongside the jig, capturing the occlusal contact at centric relation. Once the alu wax hardened completely, it was carefully removed and stored in a container of water for preservation.
+
+Bite registration using hard wax (Group 2): Upon complete hardening of the wax, the bite registration was gently extracted from the oral cavity and preserved in a suitable storage environment to maintain its integrity until subsequent analysis.
+
+Centric relation registration with polyvinylsiloxane (Jetbite) (Group 3): The Jetbite® system utilizes premixed polyvinylsiloxane (PVS) in auto-mix cartridges equipped with a dedicated spiral mixing tip and a spreader tip for optimized material manipulation.
+
+Centric relation registration with Luxabite bis-acrylic resin (Group 4): The Luxabite® bis-acrylic resin is dispensed through a dedicated 4:1 ratio dual-cartridge system into an auto-mixing gun provided by the manufacturer.
+
+R
+
+Data analyses were done using SPSS 22.0 (SPSS Inc., Chicago, IL). The level of significance was set at< 0.05. The normality of the data was assessed using Shapiro–Wilkinson test and descriptive statistics was performed to analyze mean and standard deviation. Intergroup analysis was done using Mann–Whitney U test and ANOVA, followed by Fisher's LSDanalysis. Comparison of MIP on the right and left sides showed statistically no significant difference on either side.value is 0.84. One-way ANOVA analysis showed a statistically significant difference for the right side on intergroup comparisons. Results showed statistically significant difference using Fisher's LSDtest, with the lowest mean observed in MIP and the highest in hard wax.shows mean and standard deviation on the left side for all four groups. The lowest mean was observed in MIP while the highest in alu wax. A statistically significant difference was seen on the left side in intergroup comparison (< 0.05). Results also show a significant difference on intergroup comparison between alu wax and MIP on either side, whereas no significant difference was seen on intergroup comparison between hard wax and MIP, Jetbite and MIP, and Luxabite and MIP [].
+
+Table 1
+
+Comparison of mean and SD of all materials on the left side
+
+Mean
+
+SD
+
+MIP
+
+48.05
+
+9.01
+
+ALU
+
+54.28
+
+8.98
+
+HARD
+
+58.48
+
+9.42
+
+JET
+
+50.24
+
+8.95
+
+LUX
+
+50.11
+
+8.94
+
+Graph 1
+
+Comparison of mean and SD of all materials on the right and left sides
+
+D
+
+In this study, comparison between four different materials was done on the right and left sides. Among the four bite registration materials evaluated, Luxabite and Jetbite exhibited the highest mean accuracy scores, while hard wax yielded the lowest. This disparity might be attributed to the high viscosity of waxes, hindering their ability to faithfully capture intricate surface details. This observation aligns with previous research conducted.[] The high accuracy of polyvinylsiloxane is attributed to its addition polymerization reaction, which minimizes dimensional changes due to the absence of by-products. This finding aligns with numerous studies.[] Among the evaluated materials, Jetbite emerged as the most accurate and dimensionally stable, while hard wax exhibited the lowest performance.
+
+C
+
+Selecting the optimal interocclusal recording material necessitates careful consideration of both dimensional stability and minimal deformation. Clinicians must weigh the inherent properties of each material as per the patient. Closure on interocclusal record material and bite release produce vertical discrepancies. Waxes showed the most, and bis-acrylic Luxabite and addition silicones showed the least dimensional distortion vertically.
+
+Conflicts of interest
+
+There are no conflicts of interest.

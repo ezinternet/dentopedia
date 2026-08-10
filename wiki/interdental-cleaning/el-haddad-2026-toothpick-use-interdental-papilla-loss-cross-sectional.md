@@ -6,7 +6,7 @@ date: 2026-05-21
 doi: 10.3290/j.qi.b6912614
 source: el-haddad-2026-toothpick-use-interdental-papilla-loss-cross-sectional.md
 category: [interdental-cleaning]
-confidence: cross-sectional
+evidence_level: cross-sectional
 source_collection: pubmed-text
 full_text: false
 pmid: "41716131"
@@ -69,6 +69,6 @@ Wooden toothpicks are one of the most widely used interdental-cleaning tools, bu
 
 ## Related Papers
 
-- [[periodontics/lee-2020-watanabe-toothpick-method-srp-diabetic-periodontitis-rct]] — opposite-direction "toothpick": the Watanabe *brushing* method that stimulates gingival healing (this paper is about the *wooden* toothpick that damages papilla; same word, unrelated).
-- [[periodontics/rajwani-2020-manual-toothbrushing-techniques-plaque-gingivitis-sr]] — manual toothbrushing technique SR including the toothpick (Watanabe) *brushing* method.
+- [[periodontics/oral-hygiene-instruction/lee-2020-watanabe-toothpick-method-srp-diabetic-periodontitis-rct]] — opposite-direction "toothpick": the Watanabe *brushing* method that stimulates gingival healing (this paper is about the *wooden* toothpick that damages papilla; same word, unrelated).
+- [[periodontics/oral-hygiene-instruction/rajwani-2020-manual-toothbrushing-techniques-plaque-gingivitis-sr]] — manual toothbrushing technique SR including the toothpick (Watanabe) *brushing* method.
 - [[food-impaction/liang-2020-prevalence-associated-factors-retrospective]] — interproximal contact / papilla and food-impaction context.

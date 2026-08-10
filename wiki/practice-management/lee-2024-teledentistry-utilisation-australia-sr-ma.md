@@ -6,7 +6,7 @@ date: 2024-07-24
 doi: 10.1016/j.jdent.2024.105265
 source: lee-2024-teledentistry-utilisation-australia-sr-ma.md
 category: [practice-management]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: false
 pmid: "39059707"

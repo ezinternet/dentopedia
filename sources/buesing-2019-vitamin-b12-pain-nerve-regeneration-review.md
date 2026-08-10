@@ -12,7 +12,7 @@ source_collection: external
 
 ## Why Ingested
 
-Covers mechanisms and clinical evidence for methylcobalamin/cyanocobalamin/hydroxycobalamin (vitamin B12) in neuropathic pain and nerve regeneration — supports B12 use as adjunct for iatrogenic inferior alveolar nerve (IAN) paresthesia after third molar extraction or implant surgery. Supplies the pharmacological mechanism behind the medical-adjunct arm of [[overviews/ian-nerve-injury-management-overview]], where B12 is listed as an adjunct without a mechanistic anchor, and complements the treatment-efficacy evidence in [[oral-surgery/keykha-2024-iatrogenic-paresthesia-mandibular-treatment-sr]].
+Covers mechanisms and clinical evidence for methylcobalamin/cyanocobalamin/hydroxycobalamin (vitamin B12) in neuropathic pain and nerve regeneration — supports B12 use as adjunct for iatrogenic inferior alveolar nerve (IAN) paresthesia after third molar extraction or implant surgery. Supplies the pharmacological mechanism behind the medical-adjunct arm of [[overviews/ian-nerve-injury-management-overview]], where B12 is listed as an adjunct without a mechanistic anchor, and complements the treatment-efficacy evidence in [[oral-surgery/nerve-injury/keykha-2024-iatrogenic-paresthesia-mandibular-treatment-sr]].
 
 ## Three-line Summary
 

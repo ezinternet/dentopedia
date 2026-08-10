@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1016/j.identj.2024.07.1216
 source: mously-2024-anterior-endocrowns-alternative-core-crown.md
 category: [post-and-core]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "39306490"

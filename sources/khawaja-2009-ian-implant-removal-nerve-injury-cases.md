@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-Earliest case series demonstrating that early implant removal (within 36 h) promotes IAN recovery — foundational evidence for the implant-related nerve injury management algorithm. Complements [[oral-surgery/lee-2015-inferior-alveolar-nerve-injury-management]] by providing the primary case-based rationale for the 36-hour intervention window.
+Earliest case series demonstrating that early implant removal (within 36 h) promotes IAN recovery — foundational evidence for the implant-related nerve injury management algorithm. Complements [[oral-surgery/nerve-injury/lee-2015-inferior-alveolar-nerve-injury-management]] by providing the primary case-based rationale for the 36-hour intervention window.
 
 ## Three-line Summary
 

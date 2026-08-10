@@ -6,7 +6,7 @@ date: 2026-06-16
 doi: 10.1007/s40368-026-01221-y
 source: gizani-2026-restorative-mih-primary-permanent-molars-sr.md
 category: [caries]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/gizani-2026-restorative-mih-primary-permanent-molars-sr.pdf
 pdf_filename: gizani-2026-restorative-mih-primary-permanent-molars-sr.pdf
 source_collection: external

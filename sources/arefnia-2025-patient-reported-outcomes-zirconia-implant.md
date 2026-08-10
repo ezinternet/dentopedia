@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-지르코니아 임플란트 근거가 생존율·MBL([[implants/mohseni-2024-clinical-outcomes-zirconia-implants]], [[implants/pieralli-2017-clinical-outcomes-zirconia-dental-implants]]) 중심이라 환자 관점이 비어 있었음. 본 SR은 PRO/PROM 축을 채워 지르코니아 임플란트 evidence를 환자보고결과 카테고리로 확장.
+지르코니아 임플란트 근거가 생존율·MBL([[implants/surface/mohseni-2024-clinical-outcomes-zirconia-implants]], [[implants/surface/pieralli-2017-clinical-outcomes-zirconia-dental-implants]]) 중심이라 환자 관점이 비어 있었음. 본 SR은 PRO/PROM 축을 채워 지르코니아 임플란트 evidence를 환자보고결과 카테고리로 확장.
 
 ## Three-line Summary
 

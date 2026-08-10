@@ -6,7 +6,7 @@ date: 2015-01-01
 doi: 10.61872/sdj-2015-03-149
 source: filo-2015-frequency-anatomy-retromolar-canal-implications.md
 category: [local-anesthesia]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 full_text: false
 pmid: "26168686"

@@ -6,7 +6,7 @@ date: 2026-05-11
 doi: 10.1007/s00784-026-06901-z
 source: he-2026-polymerizable-inhibitor-shrinkage-stress.md
 category: [resin]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: true
 pmid: "42108310"

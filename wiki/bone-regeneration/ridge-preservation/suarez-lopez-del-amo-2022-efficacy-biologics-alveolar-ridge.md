@@ -6,7 +6,7 @@ date: 2022-04-04
 doi: 10.1002/JPER.22-0069
 source: suarez-lopez-del-amo-2022-efficacy-biologics-alveolar-ridge.md
 category: [bone-regeneration/ridge-preservation]
-confidence: consensus
+evidence_level: consensus
 pdf_path: /Users/oracleneo/llm-wiki/papers/suarez-lopez-del-amo-2022-efficacy-biologics-alveolar-ridge.pdf
 pdf_filename: suarez-lopez-del-amo-2022-efficacy-biologics-alveolar-ridge.pdf
 source_collection: external

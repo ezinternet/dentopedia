@@ -6,7 +6,7 @@ date: 2023-01-01
 doi: 10.4103/jispcd.JISPCD_265_21
 source: rosas-diaz-2023-rfa-mapping-nanostructured-hydroxyapatite.md
 category: [implants/isq]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/rosas-diaz-2023-rfa-mapping-nanostructured-hydroxyapatite.pdf
 pdf_filename: rosas-diaz-2023-rfa-mapping-nanostructured-hydroxyapatite.pdf
 source_collection: external
@@ -86,4 +86,4 @@ Subgroup analysis revealed that larger diameter (4.3 mm), longer implants (>10 m
 
 - [[overviews/implants-isq-stability-ladder]] — generalized ISQ ladder and primary→secondary stability dip framework; this paper adds nano-HA surface-specific week-by-week data
 - [[overviews/isq-loading-threshold]] — loading decision thresholds based on ISQ; this paper's week 8–10 recovery plateau is relevant for early-loading protocol timing with nano-HA implants
-- [[implants/arghami-2021-immediate-early-loading-hydroxyapatite-coated]] — immediate/early loading outcomes for hydroxyapatite-coated implants; complements this paper's stability timeline with clinical loading results
+- [[implants/loading-protocol/arghami-2021-immediate-early-loading-hydroxyapatite-coated]] — immediate/early loading outcomes for hydroxyapatite-coated implants; complements this paper's stability timeline with clinical loading results

@@ -6,7 +6,7 @@ date: 2025-06-03
 doi: 10.1186/s12903-025-06076-1
 source: yang-2025-tooth-extraction-hypertensive-ecg-monitoring.md
 category: [drug/systemic-disease]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 full_text: true
 pmid: "40462087"

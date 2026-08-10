@@ -6,7 +6,7 @@ date: 2025-12-01
 doi: 10.22974/jkda.2025.63.12.001
 source: yook-2025-single-implant-effects-antagonistic-adjacent-teeth.md
 category: [implants]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/yook-2025-single-implant-effects-antagonistic-adjacent-teeth.pdf
 pdf_filename: yook-2025-single-implant-effects-antagonistic-adjacent-teeth.pdf
 source_collection: external

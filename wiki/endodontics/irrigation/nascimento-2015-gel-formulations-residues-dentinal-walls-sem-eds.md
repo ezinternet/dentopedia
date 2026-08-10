@@ -6,7 +6,7 @@ date: 2015-03-24
 doi: "10.1002/jemt.22500"
 source: nascimento-2015-gel-formulations-residues-dentinal-walls-sem-eds.md
 category: [endodontics/irrigation]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/nascimento-2015-gel-formulations-residues-dentinal-walls-sem-eds.pdf
 pdf_filename: nascimento-2015-gel-formulations-residues-dentinal-walls-sem-eds.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2011-01-01
 doi: ""
 source: ballo-2011-dental-implant-surfaces-physicochemical-biological.md
 category: [implants/surface]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/ballo-2011-dental-implant-surfaces-physicochemical-biological.pdf
 pdf_filename: ballo-2011-dental-implant-surfaces-physicochemical-biological.pdf
 source_collection: external

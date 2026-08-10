@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1038/s41598-025-89744-0
 source: gaballah-2025-ibuprofen-paracetamol-concurrent-alternate-rct.md
 category: [drug/analgesics]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/gaballah-2025-ibuprofen-paracetamol-concurrent-alternate-rct.pdf
 pdf_filename: gaballah-2025-ibuprofen-paracetamol-concurrent-alternate-rct.pdf
 source_collection: external
@@ -48,6 +48,6 @@ Design: Single-center, double-masked, parallel-group RCT. n=56, impacted mandibu
 - Moderate complexity subgroup: paradoxically higher VAS in Group B (unexplained; possibly chance finding in small n)
 
 ## Related Papers
-- [[drug/feldman-2024-nonopioid-opioid-third-molar-rct]] — ibuprofen+APAP vs opioid; every 4–6h PRN dosing
-- [[drug/miroshnychenko-2023-dental-extraction-pain-network-meta]] — NMA: ibuprofen+APAP best for extraction pain
-- [[drug/samani-2025-nsaids-endodontic-postoperative-network]] — dosing timing in endodontic pain (8–72h timepoints)
+- [[drug/analgesics/feldman-2024-nonopioid-opioid-third-molar-rct]] — ibuprofen+APAP vs opioid; every 4–6h PRN dosing
+- [[drug/analgesics/miroshnychenko-2023-dental-extraction-pain-network-meta]] — NMA: ibuprofen+APAP best for extraction pain
+- [[drug/analgesics/samani-2025-nsaids-endodontic-postoperative-network]] — dosing timing in endodontic pain (8–72h timepoints)

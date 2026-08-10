@@ -7,7 +7,7 @@ doi: 10.1016/j.adaj.2020.06.019
 pmid: "32979952"
 source: johnson-2020-intraoral-radiograph-dose-collimation-thyroid-shielding.md
 category: [radiology]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: false
 text_path: /Users/oracleneo/llm-wiki/papers/johnson-2020-intraoral-radiograph-dose-collimation-thyroid-shielding.txt

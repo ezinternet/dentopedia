@@ -6,7 +6,7 @@ date: 2020-11-04
 doi: "10.1002/14651858.CD003067.pub5"
 source: kashbour-2020-sealants-versus-fluoride-varnishes-decay.md
 category: [caries]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: false
 pmid: "33142363"

@@ -6,7 +6,7 @@ date: 2025-05-10
 doi: "10.3390/jfb16050173"
 source: ferreira-2025-clear-aligners-toxic-chemicals-systematic-review.md
 category: [orthodontics/clear-aligner]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "40422837"

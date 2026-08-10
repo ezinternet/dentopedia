@@ -6,7 +6,7 @@ date: 2022-03-10
 doi: 10.1371/journal.pone.0265076
 source: dudding-2022-clinical-observational-analysis-aerosol-emissions.md
 category: [infection-control]
-confidence: prospective
+evidence_level: prospective
 source_collection: pubmed-text
 pmid: "35271682"
 pmcid: "PMC8912243"

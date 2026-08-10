@@ -6,7 +6,7 @@ date: 2014-12-01
 doi: 10.1186/s40510-014-0058-5
 source: kiriakou-2014-evidence-based-dentistry-skills-interpret.md
 category: evidence-appraisal
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/kiriakou-2014-evidence-based-dentistry-skills-interpret.pdf
 pdf_filename: kiriakou-2014-evidence-based-dentistry-skills-interpret.pdf
 source_collection: external

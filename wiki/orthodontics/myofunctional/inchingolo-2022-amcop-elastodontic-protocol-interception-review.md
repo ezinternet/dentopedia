@@ -6,7 +6,7 @@ date: 2022-01-16
 doi: 10.3390/ijerph19020988
 source: inchingolo-2022-amcop-elastodontic-protocol-interception-review.md
 category: [orthodontics/myofunctional]
-confidence: case-report
+evidence_level: case-report
 source_collection: pubmed-text
 full_text: true
 pmid: "35055811"

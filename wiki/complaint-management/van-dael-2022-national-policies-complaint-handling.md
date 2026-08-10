@@ -6,11 +6,14 @@ date: 2022-01-01
 doi: "10.1177/01410768221098247"
 source: van-dael-2022-national-policies-complaint-handling.md
 category: complaint-management
-confidence: cross-sectional
+evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/van-dael-2022-national-policies-complaint-handling.pdf
 pdf_filename: van-dael-2022-national-policies-complaint-handling.pdf
 source_collection: external
 tags: [response, policy, system, quality-improvement]
+relations:
+  - type: reinforces
+    target: gillespie-2025-complaint-handlers-bind-defensive
 ---
 
 ## Three-line Summary

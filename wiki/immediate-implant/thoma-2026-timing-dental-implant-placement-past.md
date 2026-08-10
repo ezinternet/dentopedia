@@ -5,7 +5,7 @@ year: 2026
 date: 2026-01-01
 doi: 10.1111/jre.70088
 source: thoma-2026-timing-dental-implant-placement-past.md
-confidence: narrative-review
+evidence_level: narrative-review
 category: [immediate-implant]
 pdf_path: /Users/oracleneo/llm-wiki/papers/thoma-2026-timing-dental-implant-placement-past.pdf
 pdf_filename: thoma-2026-timing-dental-implant-placement-past.pdf
@@ -65,7 +65,7 @@ Emerging tools:
 - **Soft tissue augmentation**: CTG, volume-stable collagen matrices → reduce Type 1 esthetic risk
 
 ## Related Papers
-- [[immediate-implant/kim-2016-immediately-placed-implant-without-primary]] — primary stability not always mandatory for osseointegration
+- [[immediate-implant/primary-stability/kim-2016-immediately-placed-implant-without-primary]] — primary stability not always mandatory for osseointegration
 - [[immediate-implant/lee-2021-immediate-implant-placement-in-fresh]] — clinical protocol for Type 1 in fresh extraction sockets
-- [[implants/di-stefano-2021-stability-dental-implants-cortical-bone]] — IT and ISQ in relation to cortical bone (primary stability context)
+- [[implants/isq/di-stefano-2021-stability-dental-implants-cortical-bone]] — IT and ISQ in relation to cortical bone (primary stability context)
 - [[implants/isq/oh-2008-comparison-of-initial-implant-stability]] — ISQ thresholds for loading decisions

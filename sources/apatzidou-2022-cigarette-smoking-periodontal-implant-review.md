@@ -35,7 +35,7 @@ Most comprehensive mechanism-focused reference for the smoking–periodontium ax
 Narrative review with mechanistic + epidemiologic synthesis (Periodontology 2000 format).
 
 ## 4. Key Results
-[합의수준]
+[확인]
 - Smoking → ↑ neutrophil dysfunction, ↑ MMPs, ↓ wound healing
 - Subgingival microbiome shift (deep sequencing data)
 - Tissue homeostasis imbalance

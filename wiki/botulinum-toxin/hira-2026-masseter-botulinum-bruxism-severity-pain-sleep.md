@@ -9,7 +9,7 @@ text_path: /Users/oracleneo/llm-wiki/papers/hira-2026-masseter-botulinum-bruxism
 text_filename: hira-2026-masseter-botulinum-bruxism-severity-pain-sleep.txt
 source: hira-2026-masseter-botulinum-bruxism-severity-pain-sleep.md
 category: [botulinum-toxin]
-confidence: prospective
+evidence_level: prospective
 source_collection: pubmed-text
 full_text: false
 tags: [bruxism, sleep-quality, PSQI, BDI]

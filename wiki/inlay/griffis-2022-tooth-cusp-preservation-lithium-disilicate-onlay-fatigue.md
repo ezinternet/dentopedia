@@ -6,7 +6,7 @@ date: 2022-01-01
 doi: 10.1111/jerd.12666
 source: griffis-2022-tooth-cusp-preservation-lithium-disilicate-onlay-fatigue.md
 category: [inlay]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/griffis-2022-tooth-cusp-preservation-lithium-disilicate-onlay-fatigue.pdf
 pdf_filename: griffis-2022-tooth-cusp-preservation-lithium-disilicate-onlay-fatigue.pdf
 source_collection: external
@@ -41,7 +41,7 @@ The in-vitro design limits direct clinical translation; specific cycle numbers a
 In-vitro fatigue resistance testing, 교두 보존 vs 삭제 온레이.
 
 ## Results
-교두 보존 온레이가 양호한 피로저항 [합의수준/미검증(수치)]. 보존적 형성 권고.
+교두 보존 온레이가 양호한 피로저항 [확인, 다만 구체적 수치는 미검증]. 보존적 형성 권고.
 
 ## Related Papers
 - [[inlay/wang-2025-foundation-restoration-onlay-mandibular-molar-endodontic-fea]] — 온레이 FEA

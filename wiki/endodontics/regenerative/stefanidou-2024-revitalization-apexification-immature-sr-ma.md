@@ -6,7 +6,7 @@ date: 2024-05-15
 doi: 10.7759/cureus.60357
 source: stefanidou-2024-revitalization-apexification-immature-sr-ma.md
 category: [endodontics/regenerative]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/stefanidou-2024-revitalization-apexification-immature-sr-ma.pdf
 pdf_filename: stefanidou-2024-revitalization-apexification-immature-sr-ma.pdf
 source_collection: external

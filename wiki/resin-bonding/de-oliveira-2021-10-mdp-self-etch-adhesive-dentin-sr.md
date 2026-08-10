@@ -6,7 +6,7 @@ date: 2021-09-01
 doi: 10.2341/20-053-LIT
 source: de-oliveira-2021-10-mdp-self-etch-adhesive-dentin-sr.md
 category: [resin-bonding]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: false
 pmid: "35486508"

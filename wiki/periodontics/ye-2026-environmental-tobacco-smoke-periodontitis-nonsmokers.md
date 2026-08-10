@@ -6,7 +6,7 @@ date: 2026-03-03
 doi: 10.1186/s12903-026-08025-y
 source: ye-2026-environmental-tobacco-smoke-periodontitis-nonsmokers.md
 category: [periodontics]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/ye-2026-environmental-tobacco-smoke-periodontitis-nonsmokers.pdf
 pdf_filename: ye-2026-environmental-tobacco-smoke-periodontitis-nonsmokers.pdf
 source_collection: external
@@ -41,7 +41,7 @@ This is the first SR+MA to isolate ETS exposure's association with periodontitis
 PubMed, EMBASE, Web of Science, Cochrane Library searched for English-language publications to June 9, 2025. 14 studies / 115,925 adults (18+) meta-analyzed for OR of periodontitis and tooth loss vs ETS exposure. Subgroup analyses: region, age, sex, exposure-assessment method (self-report vs cotinine), adjustment for diabetes/oral hygiene, study recency.
 
 ## Results
-[근거강함, 관찰연구 기반] Periodontitis: OR 1.47 (95% CI 1.22-1.76), significant. Tooth loss: OR 1.03 (95% CI 0.80-1.31), null. Cotinine-based assessment showed stronger association than self-report. Men: significant; women: null. Studies from 2015 onward showed somewhat weaker effects than earlier studies (possibly better confounder control or publication-bias artifact in earlier literature). Age-stratified subgroup analysis not feasible due to inconsistent reporting.
+[확인, 관찰연구 기반] Periodontitis: OR 1.47 (95% CI 1.22-1.76), significant. Tooth loss: OR 1.03 (95% CI 0.80-1.31), null. Cotinine-based assessment showed stronger association than self-report. Men: significant; women: null. Studies from 2015 onward showed somewhat weaker effects than earlier studies (possibly better confounder control or publication-bias artifact in earlier literature). Age-stratified subgroup analysis not feasible due to inconsistent reporting.
 
 ## Limitations
 - Predominantly cross-sectional — causality/temporal sequence unresolved (reverse causation considered but judged unlikely).
@@ -55,6 +55,6 @@ For non-smoking patients reporting a smoking spouse/household member or workplac
 
 ## Related Papers
 - [[periodontics/apatzidou-2022-cigarette-smoking-periodontal-implant-review]] — active-smoking mechanism review; natural companion contrasting active vs passive exposure.
-- [[implants/naseri-2020-smoking-levels-implant-failure-sr-ma]] — dose-response in active smokers; ETS study could not resolve dose-response due to data limits.
-- [[implants/calciolari-2026-tobacco-smoking-smoke-free-products]] — 2026-wave companion paper on active smoking and implants; together map the tobacco-exposure spectrum (active cigarette / smoke-free / e-cigarette / passive ETS) across periodontal and implant outcomes.
+- [[implants/survival/naseri-2020-smoking-levels-implant-failure-sr-ma]] — dose-response in active smokers; ETS study could not resolve dose-response due to data limits.
+- [[implants/survival/calciolari-2026-tobacco-smoking-smoke-free-products]] — 2026-wave companion paper on active smoking and implants; together map the tobacco-exposure spectrum (active cigarette / smoke-free / e-cigarette / passive ETS) across periodontal and implant outcomes.
 - [[overviews/smoking-tobacco-periodontal-implant-overview]] — synthesis of the full smoking/tobacco-periodontal-implant evidence cluster.

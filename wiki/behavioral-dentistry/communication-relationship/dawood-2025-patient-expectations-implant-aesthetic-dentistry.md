@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1038/s41415-025-8725-0
 source: dawood-2025-patient-expectations-implant-aesthetic-dentistry.md
 category: behavioral-dentistry/communication-relationship
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/dawood-2025-patient-expectations-implant-aesthetic-dentistry.pdf
 pdf_filename: dawood-2025-patient-expectations-implant-aesthetic-dentistry.pdf
 source_collection: external
@@ -54,5 +54,5 @@ This is the domain-specific application of the communication/SDM principles to t
 ## Related Papers
 - [[behavioral-dentistry/communication-relationship/elwyn-2025-shared-decision-making-primer-clinicians]] — shared decisions to set realistic expectations.
 - [[behavioral-dentistry/communication-relationship/ho-2025-overview-dentist-patient-communication-quality]] — communication strategies/consent.
-- [[implants/index]] — clinical implant outcomes expectations are measured against.
+- [[index]] — clinical implant outcomes expectations are measured against.
 - [[overviews/behavioral-dentistry-overview]] — category synthesis.

@@ -6,7 +6,7 @@ date: 2025-04-01
 doi: 10.1111/cns.70368
 source: ke-2025-trpc4-trigeminal-neuropathic-pain-mice.md
 category: [orofacial-pain]
-confidence: animal
+evidence_level: animal
 source_collection: pubmed-text
 full_text: true
 pmid: "40202077"
@@ -76,5 +76,5 @@ This mouse study establishes Transient Receptor Potential Canonical 4 (TRPC4) �
 - [[orofacial-pain/pathirathna-2005-t-type-calcium-gaba-neurosteroids]] — another calcium-channel (T-type Ca²⁺) axis in orofacial/trigeminal nociception; TRPC4 extends the calcium-channel mechanistic cluster with a distinct (TRP-family, ligand/mechanically gated) cation channel.
 - [[orofacial-pain/wilke-2020-chloride-underrated-ion-nociceptors]] — chloride-channel axis in nociceptor excitability; complementary ion-channel mechanism alongside TRPC4's calcium axis.
 - [[orofacial-pain/price-2009-chloride-regulation-pain-pathway]] — NKCC1/KCC2 chloride homeostasis in pain pathways; same ion-channel mechanistic family as this paper, different ion.
-- [[oral-medicine/alkhutari-2023-post-traumatic-trigeminal-neuropathy-endodontic-sr]] — clinical SR on post-traumatic trigeminal neuropathy after dental/endodontic procedures; this paper provides a candidate molecular mechanism (TRPC4-Ca²⁺-ERK/P38-ATF2) for the neuropathic pain observed clinically after trigeminal nerve injury.
+- [[oral-medicine/trigeminal-neuralgia/alkhutari-2023-post-traumatic-trigeminal-neuropathy-endodontic-sr]] — clinical SR on post-traumatic trigeminal neuropathy after dental/endodontic procedures; this paper provides a candidate molecular mechanism (TRPC4-Ca²⁺-ERK/P38-ATF2) for the neuropathic pain observed clinically after trigeminal nerve injury.
 - [[overviews/bms-orofacial-pain-neuropathic-mechanism-overview]] — cross-paper synthesis of orofacial-pain neuropathic mechanisms; TRPC4 is a new candidate axis to incorporate alongside chloride and T-type calcium channels.

@@ -6,7 +6,7 @@ date: 2025-12-21
 doi: 10.7759/cureus.99792
 source: zailai-2025-bulk-fill-vs-conventional-composites-clinical-sr-ma.md
 category: [resin]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/zailai-2025-bulk-fill-vs-conventional-composites-clinical-sr-ma.pdf
 pdf_filename: zailai-2025-bulk-fill-vs-conventional-composites-clinical-sr-ma.pdf
 source_collection: external

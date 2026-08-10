@@ -6,7 +6,7 @@ date: 2022-01-01
 doi: 10.1186/s40729-022-00453-z
 source: fischer-2022-bone-envelope-arp-dbbm-sr-ma.md
 category: [bone-regeneration/ridge-preservation]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/fischer-2022-bone-envelope-arp-dbbm-sr-ma.pdf
 pdf_filename: fischer-2022-bone-envelope-arp-dbbm-sr-ma.pdf
 source_collection: external

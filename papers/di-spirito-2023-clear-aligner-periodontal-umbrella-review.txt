@@ -1,0 +1,51 @@
+Title: Impact of Clear Aligners versus Fixed Appliances on Periodontal Status of Patients Undergoing Orthodontic Treatment: A Systematic Review of Systematic Reviews
+Authors: Federica Di Spirito, Francesco D'Ambrosio, Davide Cannatà, Vincenzo D'Antò, Francesco Giordano, Stefano Martina
+Journal: Healthcare (Basel)
+Year: 2023
+DOI: 10.3390/healthcare11091340
+PMID: 37174882
+PMCID: PMC10178428
+Source: https://pmc.ncbi.nlm.nih.gov/articles/PMC10178428/
+
+DESIGN: Umbrella review (systematic review of systematic reviews with meta-analyses)
+N SRs included: 4
+N total patients: 2,042 (clear aligner: 978; fixed: 1,064; ages 10–51)
+Outcomes: Plaque Index (PI), Gingival Index (GI), BOP/SBI, PPD, Gingival Recession
+
+KEY NUMERICAL FINDINGS:
+Plaque Index:
+- Short-term (2–3 months): CA better (MD −0.35 to −0.69)
+- Mid-term (6–9 months): CA superior (MD −0.91 to −1.10)
+- Long-term (≥12 months): no significant difference
+
+Gingival Index:
+- Short-term: CA better (MD −0.24 to −0.37)
+- Mid-term: small advantage CA (MD −0.14)
+- Long-term: no significant difference
+
+PPD:
+- Short/mid-term: CA modest improvement (MD −0.26 to −0.42)
+- Long-term: CA limited worsening (MD −0.45 to −0.93)
+
+Sulcus Bleeding Index:
+- Short-term: CA superior (SMD −0.44 to −0.49)
+- Mid-term: CA favored (SMD −0.91)
+
+Gingival Recession:
+- CA stable at 3 months; fixed showed significant recession increase
+
+OVERALL CONCLUSION:
+"The impact of orthodontic treatment with clear aligners and fixed appliances on periodontal health should be considered comparable"
+Differences "practically negligible in a clinical setting" (< 1 mm PPD; < 1 point for ordinal indices)
+
+AMSTAR 2:
+- High quality: 1 (Crego-Ruiz 2023)
+- Moderate quality: 1 (Jiang 2018)
+- Low quality: 2 (Lu 2018, Wu 2022)
+
+LIMITATIONS:
+- High heterogeneity across SRs
+- Overlapping primary studies across SRs
+- Heterogeneous follow-up timing
+- No CAL data
+- Recession evidence limited to short-term single study

@@ -1,0 +1,49 @@
+{
+  "overview": "conservative-access-cavity-biomechanics-overview",
+  "date": "2026-07-23",
+  "title": "보존적 접근와동 생역학 — 리콜",
+  "source_wiki": [
+    "wiki/overviews/conservative-access-cavity-biomechanics-overview.md"
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "q": "풀링 메타분석은 보존적 접근와동(CEC)의 파절저항 이득을 보고하는데 가장 통제된 체외연구 3편은 차이 없음(P>0.05)을 보고한다. 이 모순을 푸는 핵심 조절변수는?",
+      "opts": [
+        "치아의 상악/하악 위치",
+        "변연능선(marginal ridge) 보존 여부 — 모두 온전할 때만 이득이 유의하고 1개라도 소실되면 소멸",
+        "사용한 NiTi 기구의 종류",
+        "근관 세정액의 농도"
+      ],
+      "ans": 1,
+      "rat": "Ballester 2021(33편 MA): CEC·트러스는 변연능선이 모두 온전할 때만 TEC보다 유의(P<0.05), 1개라도 소실 시 이득 소멸(P>0.05). 풀링 MA(Motiwala 2022 SUCRA 51.4% vs 15.3%; Mrinalini 2024 SMD 2.61)가 이 조절변수를 층화하지 않아 평균이 나온 것 — Mrinalini I²=92%가 그 서명.",
+      "cite": "overviews/conservative-access-cavity-biomechanics-overview"
+    },
+    {
+      "id": "q2",
+      "q": "무효과를 보고한 체외연구 3편(Barbosa·Lima·Rover)이 이득을 못 잡은 유력한 이유는?",
+      "opts": [
+        "표본 수가 너무 많아서",
+        "모두 수복 후 하중을 걸었고, 수복만으로 건전치 강도의 약 72%가 회복되어 접근구 차이를 덮음(Saeed 2021)",
+        "발치치가 아니라 임상 치아를 써서",
+        "근관장을 측정하지 않아서"
+      ],
+      "ans": 1,
+      "rat": "Saeed 2021은 수복만으로 건전치 강도 ~72% 회복을 교란 요인으로 지목. 수복이 대부분의 강도를 회복시키면 잔여 접근구 효과가 n=10 군에서 검출 한계 아래로 떨어진다.",
+      "cite": "overviews/conservative-access-cavity-biomechanics-overview"
+    },
+    {
+      "id": "q3",
+      "q": "이 페이지의 핵심 비대칭(이득 vs 대가)을 옳게 요약한 것은?",
+      "opts": [
+        "이득도 대가도 모두 조건부다",
+        "이득은 무조건부이고 대가는 조건부다",
+        "이득은 조건부(변연능선·확대·수복상태)이고, 대가(미형성 근관면·충전 공극·근관 미발견)는 무조건부·재현적이다",
+        "이득도 대가도 임상적으로 무의미하다"
+      ],
+      "ans": 2,
+      "rat": "이득은 변연능선 온전·DOM+초음파·수복상태 등 여러 조건이 맞아야 측정되지만, 미형성 근관 표면적·충전 공극 증가는 살펴본 모든 연구에서 나타났다. CEC without DOM+초음파 트로핑은 근관 미발견률 유의 증가(Ballester 2021). 전부 in vitro, 임상 RCT 0편.",
+      "cite": "overviews/conservative-access-cavity-biomechanics-overview"
+    }
+  ]
+}

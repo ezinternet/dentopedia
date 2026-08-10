@@ -6,7 +6,7 @@ date: 2025-02-01
 doi: N/A
 source: wang-2025-crown-vs-porcelain-inlay-cracked-teeth-rct.md
 category: [cracked-tooth]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: false
 pmid: "40275667"
@@ -17,6 +17,8 @@ tags: [cracked-tooth, full-crown, porcelain-inlay, post-endodontic-restoration, 
 relations:
   - type: reinforces
     target: zhang-2024-cracked-teeth-treatment-outcomes-sr-ma
+  - type: contradicts
+    target: ferracane-2023-cracked-tooth-registry-3year-network
 ---
 
 ## Three-line Summary

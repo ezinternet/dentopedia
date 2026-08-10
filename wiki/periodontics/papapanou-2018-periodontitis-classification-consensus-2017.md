@@ -6,7 +6,7 @@ date: 2018-06-01
 doi: 10.1002/JPER.17-0721
 source: papapanou-2018-periodontitis-classification-consensus-2017.md
 category: [periodontics]
-confidence: consensus
+evidence_level: consensus
 pdf_path: /Users/oracleneo/llm-wiki/papers/papapanou-2018-periodontitis-classification-consensus-2017.pdf
 pdf_filename: papapanou-2018-periodontitis-classification-consensus-2017.pdf
 source_collection: external
@@ -44,5 +44,5 @@ Systematic literature search + international Delphi expert consensus.
 New classification replaces 1999 system. Stage IV: tooth loss attributable to periodontitis + mastication dysfunction. Grading incorporates systemic disease impact.
 
 ## Related Papers
-- [[periodontics/smiley-2015-nonsurgical-periodontitis-srp-guideline]] — related
+- [[periodontics/non-surgical-instrumentation/smiley-2015-nonsurgical-periodontitis-srp-guideline]] — related
 - [[periodontics/manresa-2018-supportive-periodontal-therapy-cochrane-sr]] — related

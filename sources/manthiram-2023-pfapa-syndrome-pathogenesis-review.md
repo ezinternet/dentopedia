@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-Introduces PFAPA — the commonest childhood periodic-fever syndrome featuring recurrent aphthous stomatitis — linking the oral-ulcer differential in [[oral-medicine/mills-2017-aphthous-stomatitis-oral-medicine-review]] and [[oral-medicine/belenguer-guallar-2014-recurrent-aphthous-stomatitis-review]] to a systemic autoinflammatory cause.
+Introduces PFAPA — the commonest childhood periodic-fever syndrome featuring recurrent aphthous stomatitis — linking the oral-ulcer differential in [[oral-medicine/aphthous-stomatitis/mills-2017-aphthous-stomatitis-oral-medicine-review]] and [[oral-medicine/aphthous-stomatitis/belenguer-guallar-2014-recurrent-aphthous-stomatitis-review]] to a systemic autoinflammatory cause.
 
 ## Three-line Summary
 

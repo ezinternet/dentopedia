@@ -6,7 +6,7 @@ date: 1999-01-01
 doi: 10.1016/S0109-5641(99)00070-6
 source: kosmac-1999-grinding-sandblasting-flexural-strength-zirconia.md
 category: [dental-materials/zirconia]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/kosmac-1999-grinding-sandblasting-flexural-strength-zirconia.pdf
 pdf_filename: kosmac-1999-grinding-sandblasting-flexural-strength-zirconia.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2013-01-29
 doi: 10.1002/ca.22221
 source: lin-2013-transverse-cervical-nerve-implications-dental.md
 category: [local-anesthesia]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: false
 pmid: "23362053"

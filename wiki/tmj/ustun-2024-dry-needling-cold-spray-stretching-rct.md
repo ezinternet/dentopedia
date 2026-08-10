@@ -6,7 +6,7 @@ date: 2024-03-08
 doi: 10.1002/jum.16445
 source: ustun-2024-dry-needling-cold-spray-stretching-rct.md
 category: [tmj]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: false
 pmid: "38459670"

@@ -6,7 +6,7 @@ date: 2015-09-10
 doi: 10.3290/j.jad.a34592
 source: venturini-2015-hf-acid-concentration-feldspathic-ceramic-bond.md
 category: [resin-bonding]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/venturini-2015-hf-acid-concentration-feldspathic-ceramic-bond.pdf
 pdf_filename: venturini-2015-hf-acid-concentration-feldspathic-ceramic-bond.pdf
 source_collection: external

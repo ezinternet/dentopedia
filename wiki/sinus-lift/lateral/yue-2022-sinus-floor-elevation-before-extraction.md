@@ -6,7 +6,7 @@ date: 2022-11-15
 doi: 10.1155/2022/8143765
 source: yue-2022-sinus-floor-elevation-before-extraction.md
 category: sinus-lift/lateral
-confidence: case-report
+evidence_level: case-report
 pdf_path: /Users/oracleneo/llm-wiki/papers/yue-2022-sinus-floor-elevation-before-extraction.pdf
 pdf_filename: yue-2022-sinus-floor-elevation-before-extraction.pdf
 source_collection: external

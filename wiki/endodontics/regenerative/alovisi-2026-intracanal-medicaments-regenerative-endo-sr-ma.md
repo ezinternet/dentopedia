@@ -6,7 +6,7 @@ date: 2026-03-01
 doi: 10.1111/iej.70135
 source: alovisi-2026-intracanal-medicaments-regenerative-endo-sr-ma.md
 category: [endodontics/regenerative]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/alovisi-2026-intracanal-medicaments-regenerative-endo-sr-ma.pdf
 pdf_filename: alovisi-2026-intracanal-medicaments-regenerative-endo-sr-ma.pdf
 source_collection: external

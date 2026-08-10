@@ -6,7 +6,7 @@ date: 2018-08-03
 doi: 10.1186/s12903-018-0592-5
 source: yeh-2018-estimated-radiation-risk-cancer-dental.md
 category: [radiology]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: true
 pmid: "30075771"

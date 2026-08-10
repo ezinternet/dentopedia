@@ -6,7 +6,7 @@ date: 2025-05-09
 doi: 10.1111/jre.13409
 source: krajewski-2025-nspt-subgingival-microbiota-sr-ma.md
 category: [oral-microbiology]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 text_path: /Users/oracleneo/llm-wiki/papers/krajewski-2025-nspt-subgingival-microbiota-sr-ma.txt
 text_filename: krajewski-2025-nspt-subgingival-microbiota-sr-ma.txt

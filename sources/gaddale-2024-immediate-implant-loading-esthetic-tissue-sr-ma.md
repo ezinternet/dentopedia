@@ -49,7 +49,7 @@ PRISMA 기반 SR+MA; RCT 위주 포함.
 추적 기간 다양; 술식 표준화 부족.
 
 ## 6. Related Work
-- [[immediate-implant/wittneben-2023-immediate-implant-loaded-single-crown-sr]] — related
+- [[immediate-implant/loading-protocol/wittneben-2023-immediate-implant-loaded-single-crown-sr]] — related
 - [[immediate-implant/esthetic-soft-tissue/pitman-2022-immediate-implant-provisionalization-sr-ma]] — related
 
 ## 7. Glossary

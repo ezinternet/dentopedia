@@ -6,7 +6,7 @@ date: 2026-05-20
 doi: 10.1016/j.jdent.2026.106762
 source: bani-hani-2026-pediatric-zirconia-crowns-luting-agents-rct.md
 category: [caries]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: false
 pmid: "42155884"

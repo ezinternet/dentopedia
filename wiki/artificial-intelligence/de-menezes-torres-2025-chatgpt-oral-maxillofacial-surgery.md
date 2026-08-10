@@ -6,7 +6,7 @@ date: 2025-03-24
 doi: 10.1016/j.bjoms.2025.03.006
 source: de-menezes-torres-2025-chatgpt-oral-maxillofacial-surgery.md
 category: [artificial-intelligence]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: false
 pmid: "40251084"

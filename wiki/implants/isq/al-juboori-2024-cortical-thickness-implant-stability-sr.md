@@ -6,7 +6,7 @@ date: 2024-12-30
 doi: "10.5037/jomr.2024.15402"
 source: al-juboori-2024-cortical-thickness-implant-stability-sr.md
 category: [implants/isq]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/al-juboori-2024-cortical-thickness-implant-stability-sr.pdf
 pdf_filename: al-juboori-2024-cortical-thickness-implant-stability-sr.pdf
 source_collection: external

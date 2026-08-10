@@ -6,7 +6,7 @@ date: 2025-09-01
 doi: 10.1186/s12903-025-06777-7
 source: al-suliman-2025-surgicel-gelfoam-post-extraction-bleeding-anticoagulant.md
 category: [drug/anticoagulants]
-confidence: prospective
+evidence_level: prospective
 source_collection: pubmed-text
 full_text: true
 pmid: "40890693"

@@ -6,7 +6,7 @@ date: 2025-06-17
 doi: "10.3390/polym17121681"
 source: delgado-2025-thermoplastics-clear-aligners-review.md
 category: [orthodontics/clear-aligner]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: true
 pmid: "40574208"

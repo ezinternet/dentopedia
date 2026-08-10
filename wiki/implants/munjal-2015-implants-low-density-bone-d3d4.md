@@ -6,7 +6,7 @@ date: 2015-01-01
 doi: 10.4103/0976-237X.149290
 source: munjal-2015-implants-low-density-bone-d3d4.md
 category: [implants]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/munjal-2015-implants-low-density-bone-d3d4.pdf
 pdf_filename: munjal-2015-implants-low-density-bone-d3d4.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2025-07-11
 doi: 10.1371/journal.pone.0327006
 source: hasheminia-2025-mb2-prevalence-maxillary-molar-iranian-sr.md
 category: [endodontics/anatomy]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/hasheminia-2025-mb2-prevalence-maxillary-molar-iranian-sr.pdf
 pdf_filename: hasheminia-2025-mb2-prevalence-maxillary-molar-iranian-sr.pdf
 source_collection: external

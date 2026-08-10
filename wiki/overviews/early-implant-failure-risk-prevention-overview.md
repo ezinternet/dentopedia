@@ -3,15 +3,15 @@ title: "Overview: Early Implant Failure (before prosthetic loading) — Risk Fac
 type: synthesis
 category: overviews
 date: 2026-06-22
-confidence: synthesis
+evidence_level: synthesis
 source_papers:
-  - wiki/implants/yari-2023-risk-factors-early-implant-failure.md
-  - wiki/implants/uesugi-2024-risk-factors-early-failure-all-on-four.md
+  - wiki/implants/survival/yari-2023-risk-factors-early-implant-failure.md
+  - wiki/implants/full-arch/uesugi-2024-risk-factors-early-failure-all-on-four.md
   - wiki/drug/antibiotics/momand-2024-antibiotic-prophylaxis-early-implant-failure.md
-  - wiki/implants/fan-2024-smoking-early-implant-failure-sr-ma.md
-  - wiki/implants/naseri-2020-smoking-levels-implant-failure-sr-ma.md
-  - wiki/implants/bonsmann-2025-risk-factors-early-implant-failure-sinus-nested.md
-  - wiki/implants/moy-2005-dental-implant-failure-rates-risk.md
+  - wiki/implants/survival/fan-2024-smoking-early-implant-failure-sr-ma.md
+  - wiki/implants/survival/naseri-2020-smoking-levels-implant-failure-sr-ma.md
+  - wiki/implants/survival/bonsmann-2025-risk-factors-early-implant-failure-sinus-nested.md
+  - wiki/implants/survival/moy-2005-dental-implant-failure-rates-risk.md
 tags: [early-implant-failure, risk-factors, osseointegration, smoking, immediate-loading, antibiotic-prophylaxis, bone-quality, maxilla]
 ---
 
@@ -47,19 +47,19 @@ Routine preoperative antibiotic prophylaxis does NOT meaningfully reduce EIF: RR
 
 **Clinical question:** What predicts early implant failure (EIF, before prosthetic loading), and what — if anything — prevents it?
 
-EIF is mechanistically distinct from late failure: it reflects a **failure to achieve osseointegration**, not its later breakdown by peri-implantitis or overload. Across a general-placement cohort ([[implants/yari-2023-risk-factors-early-implant-failure]]), an immediate-loading full-arch cohort ([[implants/uesugi-2024-risk-factors-early-failure-all-on-four]]), pooled smoking data ([[implants/fan-2024-smoking-early-implant-failure-sr-ma]], [[implants/naseri-2020-smoking-levels-implant-failure-sr-ma]]), a grafted/sinus nested case-control ([[implants/bonsmann-2025-risk-factors-early-implant-failure-sinus-nested]]), and a classic long-term cohort ([[implants/moy-2005-dental-implant-failure-rates-risk]]), the same determinants recur: **smoking, diabetes/radiation, posterior maxilla, low-density (type IV) bone, compromised/grafted sites, and immediate loading.** On the prevention side, the highest-quality synthesis ([[drug/antibiotics/momand-2024-antibiotic-prophylaxis-early-implant-failure]]) shows routine antibiotic prophylaxis barely moves EIF (RR 0.66, NS; NNT 143). The actionable levers are therefore **host optimization (smoking cessation, glycemic control), site/bone-aware planning, and conservative loading** — not antibiotics.
+EIF is mechanistically distinct from late failure: it reflects a **failure to achieve osseointegration**, not its later breakdown by peri-implantitis or overload. Across a general-placement cohort ([[implants/survival/yari-2023-risk-factors-early-implant-failure]]), an immediate-loading full-arch cohort ([[implants/full-arch/uesugi-2024-risk-factors-early-failure-all-on-four]]), pooled smoking data ([[implants/survival/fan-2024-smoking-early-implant-failure-sr-ma]], [[implants/survival/naseri-2020-smoking-levels-implant-failure-sr-ma]]), a grafted/sinus nested case-control ([[implants/survival/bonsmann-2025-risk-factors-early-implant-failure-sinus-nested]]), and a classic long-term cohort ([[implants/survival/moy-2005-dental-implant-failure-rates-risk]]), the same determinants recur: **smoking, diabetes/radiation, posterior maxilla, low-density (type IV) bone, compromised/grafted sites, and immediate loading.** On the prevention side, the highest-quality synthesis ([[drug/antibiotics/momand-2024-antibiotic-prophylaxis-early-implant-failure]]) shows routine antibiotic prophylaxis barely moves EIF (RR 0.66, NS; NNT 143). The actionable levers are therefore **host optimization (smoking cessation, glycemic control), site/bone-aware planning, and conservative loading** — not antibiotics.
 
 ## Evidence Map
 
 | Paper | Design | n | Key finding (EIF) | Confidence |
 |---|---|---|---|---|
-| [[implants/yari-2023-risk-factors-early-implant-failure]] | Retrospective cohort | 1323 implants / 738 pts | MV predictors: immediate provisional OR 3.42, posterior maxilla 2.96, type IV bone 2.88, periodontal-site 2.53, augmented site 2.24, smoking 1.84 | retrospective |
-| [[implants/uesugi-2024-risk-factors-early-failure-all-on-four]] | Retrospective cohort | 561 pts / 2364 implants | All-on-four immediate loading: maxilla OR 3.12, smoking OR 2.92; photofunctionalisation OR 0.51 (NS) | retrospective |
+| [[implants/survival/yari-2023-risk-factors-early-implant-failure]] | Retrospective cohort | 1323 implants / 738 pts | MV predictors: immediate provisional OR 3.42, posterior maxilla 2.96, type IV bone 2.88, periodontal-site 2.53, augmented site 2.24, smoking 1.84 | retrospective |
+| [[implants/full-arch/uesugi-2024-risk-factors-early-failure-all-on-four]] | Retrospective cohort | 561 pts / 2364 implants | All-on-four immediate loading: maxilla OR 3.12, smoking OR 2.92; photofunctionalisation OR 0.51 (NS) | retrospective |
 | [[drug/antibiotics/momand-2024-antibiotic-prophylaxis-early-implant-failure]] | SR+MA (7 placebo RCTs) | 1859 pts / 3014 implants | Prophylaxis vs placebo RR 0.66 (NS), RD -0.007, NNT 143, GRADE moderate | sr+ma |
-| [[implants/fan-2024-smoking-early-implant-failure-sr-ma]] | SR+MA (32 studies) | 59,246 implants | Smoking → EIF implant-level OR 2.59 (95% CI 2.08-3.23) | sr+ma |
-| [[implants/naseri-2020-smoking-levels-implant-failure-sr-ma]] | SR+MA (23 studies) | — | Dose-dependent: heavy smokers > non-smokers | sr+ma |
-| [[implants/bonsmann-2025-risk-factors-early-implant-failure-sinus-nested]] | Nested case-control (8 centers) | 129 cases / 273 controls | Risk factors for ≤12-mo failure after sinus augmentation | retrospective |
-| [[implants/moy-2005-dental-implant-failure-rates-risk]] | Cohort (21 y) | 4680 implants | Diabetes RR 2.75, head/neck radiation RR 2.73, smoking RR 1.56; lowest failure anterior mandible (2.89%) | retrospective |
+| [[implants/survival/fan-2024-smoking-early-implant-failure-sr-ma]] | SR+MA (32 studies) | 59,246 implants | Smoking → EIF implant-level OR 2.59 (95% CI 2.08-3.23) | sr+ma |
+| [[implants/survival/naseri-2020-smoking-levels-implant-failure-sr-ma]] | SR+MA (23 studies) | — | Dose-dependent: heavy smokers > non-smokers | sr+ma |
+| [[implants/survival/bonsmann-2025-risk-factors-early-implant-failure-sinus-nested]] | Nested case-control (8 centers) | 129 cases / 273 controls | Risk factors for ≤12-mo failure after sinus augmentation | retrospective |
+| [[implants/survival/moy-2005-dental-implant-failure-rates-risk]] | Cohort (21 y) | 4680 implants | Diabetes RR 2.75, head/neck radiation RR 2.73, smoking RR 1.56; lowest failure anterior mandible (2.89%) | retrospective |
 
 ## Clinical Decision Points
 
@@ -79,12 +79,12 @@ EIF is mechanistically distinct from late failure: it reflects a **failure to ac
 
 ## Related Papers
 
-- [[implants/yari-2023-risk-factors-early-implant-failure]] — general-placement multivariable risk model (anchor)
-- [[implants/uesugi-2024-risk-factors-early-failure-all-on-four]] — immediate-loading full-arch cohort
+- [[implants/survival/yari-2023-risk-factors-early-implant-failure]] — general-placement multivariable risk model (anchor)
+- [[implants/full-arch/uesugi-2024-risk-factors-early-failure-all-on-four]] — immediate-loading full-arch cohort
 - [[drug/antibiotics/momand-2024-antibiotic-prophylaxis-early-implant-failure]] — prevention (antibiotic prophylaxis null result)
-- [[implants/fan-2024-smoking-early-implant-failure-sr-ma]] — smoking pooled effect
-- [[implants/naseri-2020-smoking-levels-implant-failure-sr-ma]] — smoking dose-response
-- [[implants/bonsmann-2025-risk-factors-early-implant-failure-sinus-nested]] — sinus-augmentation context
-- [[implants/moy-2005-dental-implant-failure-rates-risk]] — classic long-term risk-factor cohort
+- [[implants/survival/fan-2024-smoking-early-implant-failure-sr-ma]] — smoking pooled effect
+- [[implants/survival/naseri-2020-smoking-levels-implant-failure-sr-ma]] — smoking dose-response
+- [[implants/survival/bonsmann-2025-risk-factors-early-implant-failure-sinus-nested]] — sinus-augmentation context
+- [[implants/survival/moy-2005-dental-implant-failure-rates-risk]] — classic long-term risk-factor cohort
 - [[overviews/vitamin-d-osseointegration-implant-overview]] — host-factor cross-link (vitamin D & osseointegration)
 - [[overviews/implants-clinical-decision-ladder]] — broader implant decision synthesis

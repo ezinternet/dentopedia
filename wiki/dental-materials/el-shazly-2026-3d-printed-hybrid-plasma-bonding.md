@@ -6,7 +6,7 @@ date: 2026-01-01
 doi: 10.1038/s41598-026-43647-w
 source: el-shazly-2026-3d-printed-hybrid-plasma-bonding.md
 category: [dental-materials]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/el-shazly-2026-3d-printed-hybrid-plasma-bonding.pdf
 pdf_filename: el-shazly-2026-3d-printed-hybrid-plasma-bonding.pdf
 source_collection: external

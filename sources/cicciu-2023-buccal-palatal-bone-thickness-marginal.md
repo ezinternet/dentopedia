@@ -46,7 +46,7 @@ Submerged healing only (no functional loading); 3-month follow-up; manual probe 
 
 ## 6. Related Work
 - [[immediate-implant/esthetic-soft-tissue/yang-2019-labial-bone-thickness-esthetics-iipp]]
-- [[immediate-implant/shafizadeh-2021-alveolar-bone-thickness-healthy-sr]]
+- [[immediate-implant/anatomic-assessment/shafizadeh-2021-alveolar-bone-thickness-healthy-sr]]
 
 ## 7. Glossary
 - **IIP:** Immediate Implant Placement — placement at the time of tooth extraction.

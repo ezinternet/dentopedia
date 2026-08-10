@@ -6,7 +6,7 @@ date: 2022-11-23
 doi: 10.3390/polym14235084
 source: comba-2022-post-fatigue-fracture-resistance-lithium-disilicate.md
 category: inlay
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/comba-2022-post-fatigue-fracture-resistance-lithium-disilicate.pdf
 pdf_filename: comba-2022-post-fatigue-fracture-resistance-lithium-disilicate.pdf
 source_collection: external

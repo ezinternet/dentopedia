@@ -6,7 +6,7 @@ date: 2010-01-01
 doi: 10.1007/BF03190294
 source: farman-2010-panoramic-ccd-storage-phosphor-film.md
 category: [radiology]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/farman-2010-panoramic-ccd-storage-phosphor-film.pdf
 pdf_filename: farman-2010-panoramic-ccd-storage-phosphor-film.pdf
 source_collection: external

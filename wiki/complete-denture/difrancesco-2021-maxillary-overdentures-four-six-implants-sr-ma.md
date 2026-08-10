@@ -6,7 +6,7 @@ date: 2021-05-12
 doi: 10.1186/s12903-021-01572-6
 source: difrancesco-2021-maxillary-overdentures-four-six-implants-sr-ma.md
 category: [complete-denture]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/difrancesco-2021-maxillary-overdentures-four-six-implants-sr-ma.pdf
 pdf_filename: difrancesco-2021-maxillary-overdentures-four-six-implants-sr-ma.pdf
 source_collection: external

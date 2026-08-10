@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1016/j.joen.2025.03.004
 source: brochado-martins-2025-cbct-outcomes-endodontic-treatment-retreatment.md
 category: [radiology]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/brochado-martins-2025-cbct-outcomes-endodontic-treatment-retreatment.pdf
 pdf_filename: brochado-martins-2025-cbct-outcomes-endodontic-treatment-retreatment.pdf
 source_collection: external
@@ -44,7 +44,7 @@ CBCT로 평가한 근관치료/재치료 결과와 예후인자 SR+MA. loose/str
 PubMed/Embase/WOS(~2024.3), 19편. RoB·GRADE, meta-analysis+meta-regression.
 
 ## Results
-치유율 loose 87%(81-91)/strict 36%(22-53); 성공률 loose 85%/strict 45% [근거강함]. strict 기준이 치근단 방사선 loose와 유사 - 루틴 CBCT 추적 회의.
+치유율 loose 87%(81-91)/strict 36%(22-53); 성공률 loose 85%/strict 45% [확인]. strict 기준이 치근단 방사선 loose와 유사 - 루틴 CBCT 추적 회의.
 
 ## Related Papers
 - [[radiology/tay-2022-influence-cbct-endodontic-treatment-planning]] — CBCT 정당화와 대비

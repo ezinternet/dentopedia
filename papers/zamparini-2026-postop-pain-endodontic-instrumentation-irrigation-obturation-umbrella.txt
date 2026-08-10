@@ -1,0 +1,138 @@
+Title: Post-Operative Pain After Endodontic Instrumentation, Irrigation and Obturation: An Umbrella Review of Systematic Reviews Published from 2016 to 2025
+Authors: Fausto Zamparini, Andrea Spinelli, Gioia Quadrini, Maria Giovanna Gandolfi, Carlo Prati
+Journal: Journal of Clinical Medicine, 2026;15(12)
+DOI: 10.3390/jcm15124775
+PMID: 42355943
+PMCID: PMC13301676
+Source: PubMed Central full text (retrieved via PubMed MCP get_full_text_article)
+
+ABSTRACT
+
+The objective was to synthesize and critically appraise systematic reviews with meta-analysis evaluating the association between irrigation, instrumentation, and obturation procedures and post-operative endodontic pain. An umbrella review was conducted following PRISMA guidelines. Electronic searches identified systematic reviews published between 2016 and 2025. Eligible studies are systematic reviews that include meta-analyses, published in English and correlating the presence of post-operative pain in 3 different critical stages of root canal treatments, namely irrigation, instrumentation and obturation. Methodological quality was assessed using the AMSTAR 2 tool. Outcomes included pain prevalence and intensity at different time points. Out of 368 records, 25 systematic reviews with meta-analysis met the inclusion criteria: 9 on irrigation, 8 on instrumentation, and 8 on obturation. NaOCl concentrations, irrigant activation, and intracanal cryotherapy were repeatedly reported as being associated with reduced short-term post-operative pain. For instrumentation, most reviews reported lower pain with rotary systems, but two studies found no difference or favored reciprocating kinematics. Apical patency did not appear to increase pain and foraminal enlargement may increase early pain. No clinically consistent differences were observed between bioceramic/calcium silicate-based and resin-based sealers, although calcium silicate sealers seem to support periapical healing. However, the certainty of these findings was limited by heterogeneity, methodological weaknesses, and overlap among primary studies. Methodological limitations were identified across reviews, mainly related to no protocol registration (n = 4), incomplete reporting of excluded studies with justification (n = 11), limited assessment of publication bias, and poor reporting of funding sources for primary studies. Based on current evidence, irrigation, instrumentation, and obturation procedures may influence short-term post-operative pain. However, these findings remain tentative because of heterogeneity, methodological weaknesses, variable review quality, and overlap among primary studies. Further high-quality reviews and clinical trials are needed.
+
+1. Introduction
+
+Post-operative pain (POP) is a common and clinically relevant outcome following endodontic treatment, with reported prevalence ranging from mild discomfort to severe pain requiring analgesic intervention. POP after endodontic treatment is multifactorial and may be influenced by several patient-related, anatomical and biological variables, including preoperative pain status, pulpal and periapical diagnosis, systemic health, immune response, psychological factors, medication intake and occlusal status.
+
+However, POP related to root canal treatment may also depend on treatment-related events, such as apical extrusion of the endodontic infected smear layer, irrigant solutions, obturation material, and instrumentation beyond the apical limit.
+
+Despite significant advancements in instruments, materials, and clinical protocols, a considerable proportion of patients still experience POP after root canal therapy. This symptom may negatively affect patient satisfaction and perceived quality of care, and quality of life overall, emphasizing the clinical relevance of effective strategies for pain prevention and management.
+
+Several clinical variables have been investigated for their potential role in modulating POP. These include the type and concentration of irrigants, irrigation delivery systems, instrumentation techniques, apical preparation size, obturation materials, and use of intracanal medicaments or adjunctive strategies.
+
+Over the past 10 years, endodontics has experienced significant technological and procedural advancements, including the introduction of bioceramic materials, reciprocating instrumentation systems, novel irrigation strategies and activation techniques. These innovations have substantially modified clinical protocols and may influence periapical tissue response and the incidence of post-operative pain. A high number of randomized clinical trials and systematic reviews have explored whether modifications of these parameters can reduce the incidence and severity of post-operative pain. The available evidence remains, unfortunately, fragmented.
+
+Systematic reviews and meta-analyses often report inconsistent findings, partly due to differences in study design, pain assessment methods, follow-up durations, and methodological quality. This substantial heterogeneity among reviews limits the ability to draw definitive clinical recommendations.
+
+Umbrella reviews may offer a comprehensive framework for evidence synthesis by integrating and critically appraising findings from multiple systematic review and meta-analysis. In endodontics, only few recent umbrella reviews have been published focusing on the growing use and documentation of new hydraulic sealers and their relation with POP. Critical gaps emerge when we consider the instrumentation and irrigation protocols related to post-operative pain, as these phases are highly related to POP and other frequent complications (i.e., flare-up).
+
+Therefore, the aim of this umbrella review was to synthesize evidence from systematic reviews and meta-analyses published over the past 10 years regarding post-operative pain associated with three procedural phases of endodontic treatment: irrigation protocols, instrumentation techniques, and obturation strategies.
+
+2. Materials and Methods
+
+2.1. Study Design, Protocol Registration and Reporting Guidelines
+
+This study was conducted as an umbrella review of systematic reviews and meta-analyses evaluating post-operative pain following endodontic treatment. The analysis followed PRISMA guidelines and the recommendations for umbrella reviews proposed by Choi et al. 2023. The study protocol was registered in PROSPERO (Protocol CRD420261331928, 6 March 2026).
+
+2.2. Research Question (PIOS)
+
+"What is the available evidence, derived from systematic reviews and meta-analyses, regarding the prevalence, intensity, and factors associated with post-operative pain in patients undergoing non-surgical endodontic treatment?"
+Population: Patients undergoing non-surgical endodontic treatment.
+Intervention: Endodontic treatment, techniques, or clinical strategies aimed at preventing or reducing post-operative pain (instrumentation, irrigation, obturation).
+Outcome: Intensity and duration of post-operative pain.
+Study design: Systematic reviews and meta-analyses.
+
+2.3. Eligibility Criteria
+
+Only systematic reviews with meta-analysis were included, to focus on quantitatively synthesized evidence and improve comparability across procedural domains.
+
+2.4. Search Strategy
+
+Electronic search performed in PubMed/MEDLINE, Scopus, and Web of Science. Conceptual blocks combined with AND (pain-related terms, endodontic treatment terms, procedure-related terms, study-design terms). MeSH terms included "Pain," "Pain, Postoperative," "Endodontics," "Root Canal Therapy," "Dental Pulp Diseases," "Periapical Diseases," "Root Canal Irrigants," "Sodium Hypochlorite," "Chlorhexidine," "Root Canal Filling Materials," "Dental Instruments." Free-text terms included "postoperative pain," "postendodontic pain," "post-obturation pain," "interappointment pain," "flare-up," "analgesic consumption," "symptomatic apical periodontitis." Searches restricted to 2016–2025, English language. Manual search of relevant endodontic/dental journals also performed.
+
+2.5. Study Selection
+
+Two reviewers independently screened titles/abstracts and full texts; disagreements resolved by discussion or a third reviewer.
+
+2.6. Data Extraction
+
+Data extracted by 2 independent reviewers with pilot calibration: first author, year, pain-related factor, sample size, indication, publication period of included studies, pain measurement method, main outcomes, quality of evidence, limitations. Reviews classified by main procedural block: irrigation, instrumentation, or obturation.
+
+2.7. Quality Assessment
+
+AMSTAR-2 checklist used to assess methodological quality of included SRs (not used for GRADE certainty of underlying clinical evidence). Items rated Yes/Partial Yes/No. Critical domains: protocol registration, adequacy of literature search, justification for excluding studies, appropriate risk-of-bias method, adequacy of meta-analytical methods, consideration of risk of bias in interpretation, publication bias assessment.
+
+2.8. Data Synthesis and Overlap Analysis
+
+Qualitative narrative synthesis performed due to heterogeneity. Citation matrix constructed (primary studies x systematic reviews); corrected covered area (CCA) calculated to quantify overlap: slight (0–5%), moderate (6–10%), high (11–15%), very high (>15%).
+
+3. Results
+
+3.1. Study Selection
+
+368 records identified; 204 duplicates removed; 164 screened by title/abstract; 113 excluded (lab studies, non-endodontic, non-PIOS, case series/commentaries/reviews, unavailable, no meta-analysis). 51 full-text reports assessed; 26 excluded (laser interventions, children, occlusion, single- vs multiple-visit treatment, primary teeth, pharmacological pain management, no comparisons, vital pulp therapy, intracanal medicaments). 25 systematic reviews with meta-analysis included in final analysis: 9 irrigation, 8 instrumentation, 8 obturation.
+
+Protocol registration reported in most reviews; 4 reviews did not report registration. Number of primary studies per review ranged from 3-4 to >20. Risk-of-bias assessment performed in all reviews (mostly Cochrane RoB/RoB2; one used JBI Critical Appraisal Tool). Funding reported in a minority of reviews.
+
+3.2. PIOS 1: POP and Irrigation Protocols (9 SRs)
+
+Investigated factors: irrigant concentration, irrigant activation techniques, irrigant type comparison, intracanal cryotherapy.
+
+- Irrigant concentration: 2 SRs reported higher POP prevalence with higher NaOCl concentrations (≥5%) vs lower (1.0–3.0%).
+- Activation techniques: ultrasonic/agitation techniques reduced POP at earlier time points (6–48h) vs conventional syringe irrigation.
+- Irrigant type comparison: 1 SR found no significant difference in POP between NaOCl and chlorhexidine.
+- Intracanal cryotherapy: 4 SRs reported lower pain in early post-op period (6–24h) vs conventional irrigation; one SR reported cryotherapy reduced POP specifically in symptomatic apical periodontitis at 24h. Differences tended to disappear at 48–72h and 7 days.
+
+Conclusion for this domain: lower NaOCl concentrations, irrigant activation protocols, and intracanal cryotherapy may be associated with reduced short-term POP (first 24–48h), but findings are low- to moderate-certainty trends, not definitive recommendations.
+
+3.3. PIOS 2: POP and Instrumentation Protocols (8 SRs)
+
+Factors: apical patency, foraminal enlargement, different instrumentation systems.
+
+- Apical patency vs non-patency (2 SRs): maintaining patency may reduce or not increase POP at 24/48h, though not always statistically significant.
+- Foraminal enlargement (1 SR, necrotic teeth): higher POP during first post-op days vs conventional treatment.
+- Instrumentation systems (5 SRs; manual, rotary, reciprocating, mechanical NiTi): several SRs reported lower POP incidence/intensity with rotary systems vs reciprocating/manual; but 1 SR found no significant difference rotary vs reciprocating, and 1 SR found lower POP with reciprocating kinematics.
+
+Conclusion: instrumentation protocols may influence short-term POP, but direction of effect not uniform; rotary (especially multi-file) systems frequently but not consistently associated with lower pain; apical patency does not increase POP and may reduce early pain.
+
+3.4. PIOS 3: POP and Obturation Protocols (8 SRs)
+
+Most SRs compared bioceramic sealers vs epoxy resin-based sealers. Majority found no significant POP differences between sealer types, particularly at delayed follow-up (3–7 days). Some SRs reported slightly lower pain with bioceramic sealers at 24h (not consistent). Most recent review including bioactive glass-based sealers found no significant POP difference at 24h/48h/7 days vs epoxy resin-based sealers. Other comparisons (zinc oxide–eugenol, calcium silicate-based, calcium hydroxide-based sealers) similarly showed no clinically significant POP differences.
+
+Conclusion: no clinically consistent POP difference between bioceramic/calcium silicate-based and resin-based sealers, especially at delayed follow-up; certainty low-to-moderate; limited by risk of bias, small samples, protocol variability.
+
+3.5. Methodological Quality (AMSTAR-2)
+
+Heterogeneous methodological quality. 4 SRs lacked PROSPERO/public registration. List of excluded studies with justification missing in 11 SRs. Risk-of-bias assessed in all SRs but only partially per AMSTAR-2 criteria in several; publication bias often not assessed; funding sources inconsistently reported.
+
+3.6. Overlap Assessment (CCA)
+
+- Irrigation: 9 SRs, 36 unique primary studies, 68 total occurrences → CCA 11.1% (high overlap).
+- Instrumentation: 8 SRs, 47 unique primary studies, 88 total occurrences → CCA 12.5% (high overlap).
+- Obturation: 8 SRs, 43 unique primary studies, 96 total occurrences → CCA 17.6% (very high overlap).
+
+High/very high overlap means concordant findings across reviews in these domains should not be considered fully independent confirmation — several reviews draw on substantially the same primary study pool, especially in obturation.
+
+4. Discussion
+
+POP is also influenced by patient-related/preoperative factors (out of scope here): baseline pathological status, systemic health, psychological status, medication intake.
+
+Irrigation: NaOCl remains first-choice irrigant for antimicrobial activity, tissue dissolution, availability, cost. Two included SRs found lower short-term POP with lower NaOCl concentrations vs higher — clinically relevant but interpret cautiously (heterogeneous pain assessment/follow-up/certainty). NaOCl extrusion risk (rare but serious: swelling, hematoma, necrosis) and dentin structural weakening from higher concentrations support reducing concentration (1–3%) and considering chlorhexidine (CHX) as adjunct/final irrigant in highly infected roots with resorbed/irregular apical morphology — though only 1 included SR compared NaOCl vs CHX directly for POP and found no significant difference, so evidence does not yet support CHX specifically for POP reduction.
+
+Cryotherapy: 4 SRs reported lower pain in early post-op period (6–24h) vs conventional irrigation — contrasts with protocols favoring irrigant activation for improved NaOCl penetration in highly infected cases; future work should examine cryotherapy's effect on cleaning efficacy vs POP.
+
+Machine-assisted irrigation activation (e.g., sonic) enhances flow/distribution especially in the apical third vs manual techniques (conventional needle irrigation, manual dynamic activation); reported lower pain levels, plausibly via improved debris removal/irrigant exchange, reduced vapor lock, and reduced extrusion pressure — mechanisms plausible but not directly tested in included reviews.
+
+Instrumentation: reciprocating single-file and rotary NiTi systems allow faster, more efficient shaping with lower fracture risk, but their relationship to apical debris extrusion and consequent POP is debated with controversial findings. In this umbrella review, most of the 5 systems-comparison SRs favored rotary (esp. multi-file) for lower POP, but 1 found no difference and 1 favored reciprocating — differences plausibly relate to file kinematics, shaping sequence, instrument count, taper, cutting efficiency, apical debris extrusion, though this remains indirect. Apical patency (small file maintaining patency) may preserve working length, prevent apical blockage, and aid irrigant delivery — but repeated file passage beyond the apex risks mechanical irritation and debris/irrigant extrusion, especially with higher microbial/inflammatory burden. Foraminal enlargement (intentional widening) may amplify these risks; 2 SRs suggest apical patency reduces POP at 24/48h while foraminal enlargement increases POP in first post-op days. Reduced-taper preparation may theoretically influence debris extrusion/flare-up risk.
+
+Obturation: hydraulic calcium silicate sealers (HCSC) and premixed bioceramics support use in wide/irregular apexes and periapical lesions, with similar healing/survival vs epoxy resin-based sealers, but higher tendency for periapical extrusion (warm and cold techniques). A recent umbrella review found no POP difference by sealer type due to high heterogeneity; this review similarly found a slightly lower POP tendency with hydraulic sealers over a narrower 10-year window, but heterogeneity remains large and evidence needs more standardized SRs; cold vs warm technique comparison for HCSC/premixed sealers could not be analyzed (too few trials).
+
+Methodological quality across included SRs showed weaknesses: absent protocol registration, incomplete/non-reproducible search strategies, lack of exclusion justification, insufficient risk-of-bias consideration in interpretation — contributing to overall evidence uncertainty.
+
+Overlap: irrigation and instrumentation domains show high overlap (CCA 11.1%, 12.5%); obturation shows very high overlap (CCA 17.6%) — meaning conclusions, especially in obturation, should be interpreted cautiously as potentially redundant rather than independently confirmed.
+
+Limitations: marked heterogeneity in methodological quality, eligibility criteria, baseline diagnoses, treatment protocols, pain assessment methods, follow-up periods, denominators, reporting standards. Most evidence is short-term; long-term data for newer materials/techniques limited. No standardized pain-assessment terminology across trials. High overlap (esp. obturation) limits independence of agreement across reviews. Certainty-of-evidence judgments were extracted as reported by included reviews, not reassessed de novo with GRADE at the umbrella level — so associations should be read as tentative directional patterns from heterogeneous, partially overlapping secondary evidence, not stable comparative conclusions or practice recommendations.
+
+5. Conclusions
+
+Within the limits of this umbrella review: lower NaOCl concentrations, irrigant activation protocols, and intracanal cryotherapy were the procedural factors most associated with reduced short-term POP after non-surgical root canal treatment. Instrumentation protocols may also influence POP, but comparisons of rotary/reciprocating/manual systems were heterogeneous with no definitive kinematic superiority established. No clinically relevant POP differences were observed between bioceramic/calcium silicate-based and resin-based sealers, but very high primary-study overlap in this domain limits interpretation as independent confirmation. Findings should be read as trends from partially redundant secondary evidence, not independent confirmation. Future high-quality SRs and adequately powered clinical trials with standardized pain outcomes, clear baseline diagnoses, and consistent follow-up are needed.

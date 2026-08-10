@@ -6,7 +6,7 @@ date: 2023-10-14
 doi: 10.1007/s12663-023-02017-z
 source: ramanathan-2023-efficacy-reliability-single-tooth-anesthesia.md
 category: [local-anesthesia]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: false
 pmid: "38312977"
@@ -15,6 +15,11 @@ source_url: https://pmc.ncbi.nlm.nih.gov/articles/PMC10831014/
 text_path: /Users/oracleneo/llm-wiki/papers/ramanathan-2023-efficacy-reliability-single-tooth-anesthesia.txt
 text_filename: ramanathan-2023-efficacy-reliability-single-tooth-anesthesia.txt
 tags: []
+relations:
+  - type: applies-to
+    target: malamed-2011-mandibular-nerve-block-passe
+  - type: extends
+    target: haas-2011-alternative-mandibular-nerve-block-techniques
 ---
 
 ## Three-line Summary

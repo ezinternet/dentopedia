@@ -49,8 +49,8 @@ BMS는 신경병증·호르몬(에스트로겐 감소)·심리적 고통의 복�
 원인론적 표준화 부족; 단일 치료법 효과 제한.
 
 ## 6. Related Work
-- [[oral-medicine/canfora-2026-burning-mouth-syndrome-management-review]] — related
-- [[oral-medicine/chmieliauskaite-2020-burning-mouth-syndrome-icd11-rename-delphi]] — related
+- [[oral-medicine/burning-mouth-syndrome/canfora-2026-burning-mouth-syndrome-management-review]] — related
+- [[oral-medicine/burning-mouth-syndrome/chmieliauskaite-2020-burning-mouth-syndrome-icd11-rename-delphi]] — related
 
 ## 7. Glossary
 BMS: Burning Mouth Syndrome 구강작열감증후군; small fiber neuropathy: 소섬유신경병증; primary vs secondary BMS: 원발성 vs 속발성

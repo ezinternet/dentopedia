@@ -6,7 +6,7 @@ date: 2011-12-01
 doi: 10.1111/j.1524-4725.2011.02125.x
 source: knoell-2011-basic-lattice-stitch-quantitative-efficacy.md
 category: [suture-wound-closure]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/knoell-2011-basic-lattice-stitch-quantitative-efficacy.pdf
 pdf_filename: knoell-2011-basic-lattice-stitch-quantitative-efficacy.pdf
 source_collection: external

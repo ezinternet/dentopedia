@@ -6,7 +6,7 @@ date: 2025-10-04
 doi: 10.3390/jcm14197038
 source: hajaj-2025-marginal-tooth-preparation-periodontal-health.md
 category: [periodontics]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/hajaj-2025-marginal-tooth-preparation-periodontal-health.pdf
 pdf_filename: hajaj-2025-marginal-tooth-preparation-periodontal-health.pdf
 source_collection: external

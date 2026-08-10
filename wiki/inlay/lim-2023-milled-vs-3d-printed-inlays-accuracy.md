@@ -6,7 +6,7 @@ date: 2023-01-01
 doi: 10.1055/s-0042-1758796
 source: lim-2023-milled-vs-3d-printed-inlays-accuracy.md
 category: [inlay]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/lim-2023-milled-vs-3d-printed-inlays-accuracy.pdf
 pdf_filename: lim-2023-milled-vs-3d-printed-inlays-accuracy.pdf
 source_collection: external

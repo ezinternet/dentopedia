@@ -6,7 +6,7 @@ date: 2023-07-13
 doi: 10.1186/s12903-023-03124-6
 source: altayar-2023-cbct-maxillary-sinus-septa-yemeni.md
 category: sinus-lift/lateral
-confidence: cross-sectional
+evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/altayar-2023-cbct-maxillary-sinus-septa-yemeni.pdf
 pdf_filename: altayar-2023-cbct-maxillary-sinus-septa-yemeni.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2023-01-01
 doi: 10.14744/eej.2022.26918
 source: rios-osorio-2023-paradigm-inflammatory-radicular-cyst-biological.md
 category: [endodontics/diagnosis]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: true
 pmid: "36748442"

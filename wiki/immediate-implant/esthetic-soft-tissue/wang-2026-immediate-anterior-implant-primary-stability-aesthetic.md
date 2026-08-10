@@ -6,7 +6,7 @@ date: 2026-01-01
 doi: 10.1097/MD.0000000000048502
 source: wang-2026-immediate-anterior-implant-primary-stability-aesthetic.md
 category: [immediate-implant/esthetic-soft-tissue]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 full_text: true
 pmid: "42116334"

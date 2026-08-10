@@ -6,7 +6,7 @@ date: 2025-03-21
 doi: 10.7759/cureus.80938
 source: varadan-2025-multisonic-ultrasonic-irrigant-biofilm-sr.md
 category: [endodontics/irrigation]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/varadan-2025-multisonic-ultrasonic-irrigant-biofilm-sr.pdf
 pdf_filename: varadan-2025-multisonic-ultrasonic-irrigant-biofilm-sr.pdf
 source_collection: external

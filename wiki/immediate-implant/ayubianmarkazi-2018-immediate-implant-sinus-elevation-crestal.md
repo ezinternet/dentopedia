@@ -6,7 +6,7 @@ date: 2018-10-01
 doi: 10.15171/japid.2018.011
 source: ayubianmarkazi-2018-immediate-implant-sinus-elevation-crestal.md
 category: immediate-implant
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/ayubianmarkazi-2018-immediate-implant-sinus-elevation-crestal.pdf
 pdf_filename: ayubianmarkazi-2018-immediate-implant-sinus-elevation-crestal.pdf
 source_collection: external

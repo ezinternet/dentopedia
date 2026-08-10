@@ -6,7 +6,7 @@ date: 2022-11-16
 doi: 10.1055/s-0041-1735442
 source: abo-alazm-2022-ids-universal-adhesive-pulp-pressure.md
 category: [resin-bonding]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/abo-alazm-2022-ids-universal-adhesive-pulp-pressure.pdf
 pdf_filename: abo-alazm-2022-ids-universal-adhesive-pulp-pressure.pdf
 source_collection: external
@@ -64,9 +64,9 @@ Adhesives:
 - [[resin-bonding/hardan-2022-immediate-dentin-sealing-sr-ma]] — SR+MA includes universal adhesive subgroup.
 - [[resin-bonding/etiennot-2025-mdp-saliva-contaminated-dentin]] — MDP chemical bonding advantage in another context.
 
-## 임상 적용 [claude해석]
+## 임상 적용 [미검증]
 
-- [근거강함, in-vitro] Universal adhesive로도 IDS 효과 재현 — Magne 시대 OptiBond FL 한정 권고를 universal로 확장 가능.
-- [합의수준] MDP 함유 universal (GLUMA Bond Universal, Single Bond Universal, Clearfil Universal Bond 등) 우선 선택 — MDP-free universal은 IDS 효과 약화.
-- [claude해석] 6mo Weibull 감소는 IDS도 long-term degradation을 피하지 못함을 보여줌 → 임상 follow-up 시 marginal integrity 정기 점검 권장.
-- [claude해석] Simulated pulp pressure 조건이 vital tooth 임상 상황 근사이나, 실제 dentinal fluid composition·pulpal immune response 미반영 → 임상 outcome 외삽 시 주의.
+- [확인, in-vitro] Universal adhesive (GLUMA Bond Universal, iBOND Self-Etch)로도 IDS 효과 재현 — 본 연구가 직접 측정한 24h·6mo µTBS 결과.
+- [미검증] MDP 함유 universal 우선 선택 가능성 시사 — 단, 본 연구는 GLUMA Bond Universal 1종만 검증했으며 Single Bond Universal·Clearfil Universal Bond 등 타 MDP 함유 제품으로의 일반화는 미검증. MDP-free universal(iBOND SE)은 IDS 효과가 상대적으로 약함(본 연구 결과).
+- [미검증] 6mo Weibull 감소는 IDS도 long-term degradation을 피하지 못함을 보여줌 → 임상 follow-up 시 marginal integrity 정기 점검 권장.
+- [미검증] Simulated pulp pressure 조건이 vital tooth 임상 상황 근사이나, 실제 dentinal fluid composition·pulpal immune response 미반영 → 임상 outcome 외삽 시 주의.

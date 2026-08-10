@@ -6,7 +6,7 @@ date: 2022-08-03
 doi: 10.3390/ma15155348
 source: lee-2022-plasma-contaminated-zirconia-gingivalis-osteoblast.md
 category: [implants/surface/plasma]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/lee-2022-plasma-contaminated-zirconia-gingivalis-osteoblast.pdf
 pdf_filename: lee-2022-plasma-contaminated-zirconia-gingivalis-osteoblast.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2013-01-01
 doi: 10.1111/jcpe.12010
 source: bitto-2013-adenosine-receptor-polynucleotides-pdrn-periodontitis.md
 category: [pdrn]
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/bitto-2013-adenosine-receptor-polynucleotides-pdrn-periodontitis.pdf
 pdf_filename: bitto-2013-adenosine-receptor-polynucleotides-pdrn-periodontitis.pdf
 source_collection: external

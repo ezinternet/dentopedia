@@ -6,7 +6,7 @@ date: 2025-01-06
 doi: 10.1111/jcpe.14129
 source: urban-2025-collagen-membrane-vertical-ridge-ptfe-mesh-rct.md
 category: [implants/vertical-ridge-augmentation]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/urban-2025-collagen-membrane-vertical-ridge-ptfe-mesh-rct.pdf
 pdf_filename: urban-2025-collagen-membrane-vertical-ridge-ptfe-mesh-rct.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2026-05-29
 doi: 10.3389/froh.2026.1854046
 source: ardila-2026-intracanal-medicaments-enterococcus-faecalis-sr.md
 category: [endodontics/irrigation]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/ardila-2026-intracanal-medicaments-enterococcus-faecalis-sr.pdf
 pdf_filename: ardila-2026-intracanal-medicaments-enterococcus-faecalis-sr.pdf
 source_collection: external

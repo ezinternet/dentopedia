@@ -6,7 +6,7 @@ date: 2024-01-01
 doi: 10.7759/cureus.73360
 source: alkandari-2024-articaine-versus-mepivacaine-ianb-irreversible-pulpitis.md
 category: [local-anesthesia]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/alkandari-2024-articaine-versus-mepivacaine-ianb-irreversible-pulpitis.pdf
 pdf_filename: alkandari-2024-articaine-versus-mepivacaine-ianb-irreversible-pulpitis.pdf
 source_collection: external
@@ -41,7 +41,7 @@ IANB 성공률 동등(OR 0.92, NS); articaine가 시술 후 통증강도 유의�
 PubMed/Scopus/WOS/Cochrane(~2024.9). RCT. random-effects, OR/MD.
 
 ## Results
-5 RCT/568명. 성공률 OR 0.92(0.69-1.21, NS); 통증강도 articaine 우위 MD 0.59(0.31-0.86, p<0.001); 중증통증 NS [근거강함].
+5 RCT/568명. 성공률 OR 0.92(0.69-1.21, NS); 통증강도 articaine 우위 MD 0.59(0.31-0.86, p<0.001); 중증통증 NS [확인].
 
 ## Related Papers
 - [[local-anesthesia/saatchi-2025-articaine-buccal-infiltration-mandibular-irreversible-pulpitis]] — articaine vs lidocaine

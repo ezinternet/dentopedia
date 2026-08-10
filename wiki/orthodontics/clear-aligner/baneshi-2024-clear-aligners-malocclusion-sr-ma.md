@@ -6,7 +6,7 @@ date: 2024-12-16
 doi: 10.1016/j.jebdp.2024.102081
 source: baneshi-2024-clear-aligners-malocclusion-sr-ma.md
 category: [orthodontics/clear-aligner]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: false
 pmid: "39947778"

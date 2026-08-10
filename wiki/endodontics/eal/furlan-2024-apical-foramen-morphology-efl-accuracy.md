@@ -6,7 +6,7 @@ date: 2024-05-02
 doi: 10.1055/s-0044-1782214
 journal: European Journal of Dentistry 18(4):1101-1106
 source: furlan-2024-apical-foramen-morphology-efl-accuracy.md
-confidence: in-vitro
+evidence_level: in-vitro
 category: [endodontics/eal]
 pdf_path: /Users/oracleneo/llm-wiki/papers/furlan-2024-apical-foramen-morphology-efl-accuracy.pdf
 pdf_filename: furlan-2024-apical-foramen-morphology-efl-accuracy.pdf

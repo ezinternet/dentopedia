@@ -6,7 +6,7 @@ date: 2024-07-08
 doi: 10.1016/j.prosdent.2024.05.038
 source: zheng-2024-dentin-conditioners-bond-strength-sr.md
 category: [resin-bonding]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: false
 pmid: "38981805"

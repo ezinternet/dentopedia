@@ -15,7 +15,7 @@ text_filename: ke-2025-trpc4-trigeminal-neuropathic-pain-mice.txt
 
 ## Why Ingested
 
-기존 orofacial-pain 카테고리의 이온채널 축은 염소이온 (Chloride, Cl⁻) 채널([[orofacial-pain/wilke-2020-chloride-underrated-ion-nociceptors]], [[orofacial-pain/price-2009-chloride-regulation-pain-pathway]])과 T형 칼슘채널 ([[orofacial-pain/pathirathna-2005-t-type-calcium-gaba-neurosteroids]])로 구성되어 있었다. 본 논문(Ke 2026, CION 마우스 모델)은 TRPC4라는 **양이온(Ca²⁺ 투과성 TRP) 채널**을 삼차신경절 (Trigeminal Ganglion, TG) 통증 기전에 추가하여 이온채널 축을 확장한다. 또한 임상적 삼차신경병증을 다룬 [[oral-medicine/alkhutari-2023-post-traumatic-trigeminal-neuropathy-endodontic-sr]] (치과치료 후 외상성 삼차신경병증)에 분자기전 근거를 제공하며, [[overviews/bms-orofacial-pain-neuropathic-mechanism-overview]] 종합에 새로운 채널 후보를 편입시킨다.
+기존 orofacial-pain 카테고리의 이온채널 축은 염소이온 (Chloride, Cl⁻) 채널([[orofacial-pain/wilke-2020-chloride-underrated-ion-nociceptors]], [[orofacial-pain/price-2009-chloride-regulation-pain-pathway]])과 T형 칼슘채널 ([[orofacial-pain/pathirathna-2005-t-type-calcium-gaba-neurosteroids]])로 구성되어 있었다. 본 논문(Ke 2026, CION 마우스 모델)은 TRPC4라는 **양이온(Ca²⁺ 투과성 TRP) 채널**을 삼차신경절 (Trigeminal Ganglion, TG) 통증 기전에 추가하여 이온채널 축을 확장한다. 또한 임상적 삼차신경병증을 다룬 [[oral-medicine/trigeminal-neuralgia/alkhutari-2023-post-traumatic-trigeminal-neuropathy-endodontic-sr]] (치과치료 후 외상성 삼차신경병증)에 분자기전 근거를 제공하며, [[overviews/bms-orofacial-pain-neuropathic-mechanism-overview]] 종합에 새로운 채널 후보를 편입시킨다.
 
 ## Three-line Summary
 

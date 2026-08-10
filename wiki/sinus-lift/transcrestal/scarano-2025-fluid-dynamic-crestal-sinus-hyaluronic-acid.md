@@ -6,7 +6,7 @@ date: 2025-05-12
 doi: 10.3390/ma18102230
 source: scarano-2025-fluid-dynamic-crestal-sinus-hyaluronic-acid.md
 category: [sinus-lift/transcrestal]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/scarano-2025-fluid-dynamic-crestal-sinus-hyaluronic-acid.pdf
 pdf_filename: scarano-2025-fluid-dynamic-crestal-sinus-hyaluronic-acid.pdf
 source_collection: external

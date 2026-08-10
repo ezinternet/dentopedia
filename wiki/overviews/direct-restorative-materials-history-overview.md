@@ -3,17 +3,15 @@ title: "치과 직접충전재 발달사 — Silicate·Amalgam에서 Composite·
 authors: Synthesis
 year: 2026
 date: 2026-07-03
-confidence: synthesis
+evidence_level: synthesis
 category: [overviews]
 source_collection: synthesis
 tags: [history, direct-restorative, amalgam, composite-resin, glass-ionomer, bis-gma, bowen, acid-etch, light-curing, bulk-fill, bioactive, alkasite, adhesive-evolution]
 relations:
   - type: extends
     target: ferracane-2024-historical-perspective-dental-composite-restorative
-  - type: reinforces
+  - type: refines
     target: ge-2024-gic-clinical-application-restorative-preventive
-  - type: reinforces
-    target: breschi-2025-adhesive-dentistry-evolution-review
 ---
 
 > [!summary] 한국어 핵심요약

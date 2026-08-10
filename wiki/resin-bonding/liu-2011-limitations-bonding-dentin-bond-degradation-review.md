@@ -6,7 +6,7 @@ date: 2011-08-01
 doi: 10.1177/0022034510391799
 source: liu-2011-limitations-bonding-dentin-bond-degradation-review.md
 category: [resin-bonding]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: false
 pmid: "21220360"

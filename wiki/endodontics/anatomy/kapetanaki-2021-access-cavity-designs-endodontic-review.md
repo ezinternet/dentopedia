@@ -6,7 +6,7 @@ date: 2021-08-06
 doi: 10.5395/rde.2021.46.e46
 source: kapetanaki-2021-access-cavity-designs-endodontic-review.md
 category: [endodontics/anatomy]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/kapetanaki-2021-access-cavity-designs-endodontic-review.pdf
 pdf_filename: kapetanaki-2021-access-cavity-designs-endodontic-review.pdf
 source_collection: external
@@ -54,3 +54,4 @@ Literature review evaluating traditional 근관 접근와동 (Traditional Endodo
 - [[endodontics/anatomy/ribeiro-2022-guided-endodontics-static-dynamic-review]] — static vs dynamic guided endodontics
 - [[endodontics/anatomy/wu-2025-mb2-prevalence-maxillary-molar-han-cbct-sr]] — CBCT for canal anatomy assessment
 - [[endodontics/anatomy/hasheminia-2025-mb2-prevalence-maxillary-molar-iranian-sr]] — MB2 Iranian prevalence
+- [[overviews/conservative-access-cavity-biomechanics-overview]] — 2026 synthesis (9 papers) refines this review's "conflicting/insufficient" fracture-resistance verdict into a conditional-benefit finding (real advantage, but only with intact marginal ridges + magnification); this page's practical caution against broadly replacing TEC still holds — no clinical/RCT data exists in either source

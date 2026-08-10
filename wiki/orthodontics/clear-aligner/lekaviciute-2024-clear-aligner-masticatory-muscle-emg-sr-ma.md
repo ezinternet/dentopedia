@@ -6,7 +6,7 @@ date: 2024-08-01
 doi: 10.1093/ejo/cjae030
 source: lekaviciute-2024-clear-aligner-masticatory-muscle-emg-sr-ma.md
 category: [orthodontics/clear-aligner]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "38943433"

@@ -6,7 +6,7 @@ date: 2026-04-28
 doi: "10.4041/kjod25.269"
 source: bortoli-2026-aligner-retention-gingival-margin-design.md
 category: [orthodontics/clear-aligner]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: true
 pmid: "42045106"

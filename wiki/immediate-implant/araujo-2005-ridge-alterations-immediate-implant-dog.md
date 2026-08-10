@@ -6,7 +6,7 @@ date: 2005-06-01
 doi: 10.1111/j.1600-051X.2005.00726.x
 source: araujo-2005-ridge-alterations-immediate-implant-dog.md
 category: [immediate-implant]
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/araujo-2005-ridge-alterations-immediate-implant-dog.pdf
 pdf_filename: araujo-2005-ridge-alterations-immediate-implant-dog.pdf
 source_collection: external

@@ -104,7 +104,7 @@ Cl⁻ 이온이 핵심 매개체로 확인됨.
 ## 6. Related Work
 
 - Buskermolen et al. 2018: Saliva-derived biofilm model in gingival tissue — [[oral-microbiology/buskermolen-2018-saliva-derived-biofilms-gingiva-model]]
-- Deepthi et al. 2020: Ozone therapy in periodontics (adjunct wound-healing intervention) — [[periodontics/deepthi-2020-ozone-therapy-periodontics-meta-analysis]]
+- Deepthi et al. 2020: Ozone therapy in periodontics (adjunct wound-healing intervention) — [[periodontics/non-surgical-instrumentation/deepthi-2020-ozone-therapy-periodontics-meta-analysis]]
 - Sen et al. 2024: Sutureless vs suture wound healing post-third molar (clinical wound closure context) — [[suture-wound-closure/sen-2024-sutureless-multiple-suture-third-molar-inflammation]]
 
 ## 7. Glossary

@@ -6,7 +6,7 @@ date: 2023-12-04
 doi: 10.3390/dj11120280
 source: manfredini-2023-polydeoxyribonucleotides-pre-clinical-findings-bone-healing.md
 category: [pdrn]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/manfredini-2023-polydeoxyribonucleotides-pre-clinical-findings-bone-healing.pdf
 pdf_filename: manfredini-2023-polydeoxyribonucleotides-pre-clinical-findings-bone-healing.pdf
 source_collection: external

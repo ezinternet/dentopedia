@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-기존 [[periodontics/smiley-2015-nonsurgical-periodontitis-srp-guideline]] ADA 가이드라인이 SRP 보조요법들을 서로 직접 비교하지 않은 공백을, 동일한 1차 연구를 사용한 네트워크 메타분석으로 보강·확장한다. 또한 [[evidence-appraisal/shin-wj-2015-systematic-review-meta-analysis-introduction]]의 NMA·SUCRA·출판편향 방법론을 실제 치주 임상 질문에 적용한 사례로 근거평가 측면에서도 유용하다.
+기존 [[periodontics/non-surgical-instrumentation/smiley-2015-nonsurgical-periodontitis-srp-guideline]] ADA 가이드라인이 SRP 보조요법들을 서로 직접 비교하지 않은 공백을, 동일한 1차 연구를 사용한 네트워크 메타분석으로 보강·확장한다. 또한 [[evidence-appraisal/shin-wj-2015-systematic-review-meta-analysis-introduction]]의 NMA·SUCRA·출판편향 방법론을 실제 치주 임상 질문에 적용한 사례로 근거평가 측면에서도 유용하다.
 
 ## Three-line Summary
 

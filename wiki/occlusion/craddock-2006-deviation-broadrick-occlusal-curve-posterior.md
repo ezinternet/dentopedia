@@ -6,7 +6,7 @@ date: 2006-06-01
 doi: 10.1111/j.1365-2842.2005.01587.x
 source: craddock-2006-deviation-broadrick-occlusal-curve-posterior.md
 category: [occlusion]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/craddock-2006-deviation-broadrick-occlusal-curve-posterior.pdf
 pdf_filename: craddock-2006-deviation-broadrick-occlusal-curve-posterior.pdf
 source_collection: external

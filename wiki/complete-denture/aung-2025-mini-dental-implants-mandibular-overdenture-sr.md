@@ -6,7 +6,7 @@ date: 2025-04-21
 doi: 10.1186/s12903-025-05961-z
 source: aung-2025-mini-dental-implants-mandibular-overdenture-sr.md
 category: [complete-denture]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/aung-2025-mini-dental-implants-mandibular-overdenture-sr.pdf
 pdf_filename: aung-2025-mini-dental-implants-mandibular-overdenture-sr.pdf
 source_collection: external

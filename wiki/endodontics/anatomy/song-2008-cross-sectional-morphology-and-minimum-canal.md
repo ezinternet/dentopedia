@@ -5,7 +5,7 @@ year: 2008
 doi: ""
 date: 2008-01-01
 source: song-2008-cross-sectional-morphology-and-minimum-canal.md
-confidence: cross-sectional
+evidence_level: cross-sectional
 category: [endodontics/anatomy]
 pdf_path: /Users/oracleneo/llm-wiki/papers/song-2008-cross-sectional-morphology-and-minimum-canal.pdf
 pdf_filename: song-2008-cross-sectional-morphology-and-minimum-canal.pdf

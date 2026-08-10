@@ -6,11 +6,11 @@ date: 2025-06-01
 doi: 10.5037/jomr.2025.16205
 source: stacchi-2025-vacuum-plasma-early-implant-stability-rct.md
 category: [implants/surface/plasma]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/stacchi-2025-vacuum-plasma-early-implant-stability-rct.pdf
 pdf_filename: stacchi-2025-vacuum-plasma-early-implant-stability-rct.pdf
 source_collection: external
-tags: [plasma, vacuum-plasma, human-rct, ISQ, early-stability, split-mouth, chairside]
+tags: [plasma, vacuum-plasma, human-rct, ISQ, early-stability, split-mouth, chairside, DBD, MegaGen, device-parameters]
 relations:
   - type: refines
     target: pesce-2020-photo-plasma-activation-titanium-sr-ma
@@ -40,10 +40,12 @@ The strongest human evidence in the cluster. A proper controlled split-mouth RCT
 
 - Controlled human RCT (split-mouth) of pre-insertion plasma — fills the clinical gap.
 - Full early ISQ trajectory; significance at 60/90 d.
+- **Device parameters (added 2026-08-10) directly answer "how long does a vacuum plasma cycle take for a commercial chairside device":** the MegaGen Plasma X Motion runs a **~50-second** cycle under deep vacuum (<10 torr / <13 mbar) with a 3 kV dielectric barrier discharge (DBD) and no external gas — a fundamentally different design from [[implants/surface/plasma/becker-2019-lpp-app-plasma-proinflammatory-cytokines]]'s LPP arm (argon-filled chamber, 15 min, Diener Femto PCCE). "Vacuum" alone does not predict treatment duration — discharge design (DBD vs low-power glow discharge) does.
 
 ## Methodology
 
-- 24 patients, contralateral plasma vs control implants. Plasma X Motion (MegaGen). ISQ at placement, 7/14/21/28/42/60/90 d.
+- 24 patients, contralateral plasma vs control implants. ISQ at placement, 7/14/21/28/42/60/90 d.
+- **Plasma X® Motion (MegaGen Implant Co., Ltd.):** implant in a sealed chamber; vacuum pump to <10 torr (<13 mbar); auto-connected to a 3 kV DBD electrode, no external gas introduced (closed-system discharge). **Cycle duration ≈50 seconds.**
 
 ## Results
 
@@ -58,3 +60,4 @@ The strongest human evidence in the cluster. A proper controlled split-mouth RCT
 - [[implants/surface/plasma/kahm-2024-vacuum-plasma-surface-treatment-osseointegration]] — animal vacuum plasma (NS).
 - [[implants/surface/plasma/kwon-2024-actlink-plasma-rct-osseointegration-bone-regeneration]] — human RCT (stability NS).
 - [[implants/surface/plasma/kim-2025-plasma-surface-treatment-implant-stability-retrospective]] — human retrospective.
+- [[implants/surface/plasma/becker-2019-lpp-app-plasma-proinflammatory-cytokines]] — the wiki's other device-parameter data point for vacuum/low-pressure plasma (LPP: argon, 15 min, Diener Femto PCCE) — contrast shows vacuum-plasma treatment time is device-design-dependent, not a fixed function of pressure regime.

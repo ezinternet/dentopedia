@@ -6,7 +6,7 @@ date: 2013-11-01
 doi: 10.4317/medoral.19120
 journal: Medicina Oral Patologia Oral y Cirugia Bucal 18(6):e877-882
 source: herrero-climent-2013-osstell-isq-reliability-icc.md
-confidence: cross-sectional
+evidence_level: cross-sectional
 category: [implants/isq]
 pdf_path: /Users/oracleneo/llm-wiki/papers/herrero-climent-2013-osstell-isq-reliability-icc.pdf
 pdf_filename: herrero-climent-2013-osstell-isq-reliability-icc.pdf

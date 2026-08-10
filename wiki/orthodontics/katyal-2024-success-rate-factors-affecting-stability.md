@@ -6,7 +6,7 @@ date: 2024-01-01
 doi: 10.1093/ejo/cjae074
 source: katyal-2024-success-rate-factors-affecting-stability.md
 category: [orthodontics]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/katyal-2024-success-rate-factors-affecting-stability.pdf
 pdf_filename: katyal-2024-success-rate-factors-affecting-stability.pdf
 source_collection: external

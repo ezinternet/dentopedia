@@ -6,7 +6,7 @@ date: 2025-09-25
 doi: 10.3390/biomedicines13102343
 source: lyu-2025-underwater-discharge-plasma-root-canal-rct.md
 category: [endodontics/cold-plasma]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/lyu-2025-underwater-discharge-plasma-root-canal-rct.pdf
 pdf_filename: lyu-2025-underwater-discharge-plasma-root-canal-rct.pdf
 source_collection: external

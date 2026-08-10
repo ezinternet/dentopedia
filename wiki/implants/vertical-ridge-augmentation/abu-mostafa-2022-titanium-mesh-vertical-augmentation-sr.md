@@ -7,7 +7,7 @@ doi: 10.5005/jp-journals-10024-3444
 pmid: "37125527"
 source: abu-mostafa-2022-titanium-mesh-vertical-augmentation-sr.md
 category: [implants/vertical-ridge-augmentation]
-confidence: sr
+evidence_level: sr
 text_path: /Users/oracleneo/llm-wiki/papers/abu-mostafa-2022-titanium-mesh-vertical-augmentation-sr.txt
 text_filename: abu-mostafa-2022-titanium-mesh-vertical-augmentation-sr.txt
 source_collection: pubmed-text

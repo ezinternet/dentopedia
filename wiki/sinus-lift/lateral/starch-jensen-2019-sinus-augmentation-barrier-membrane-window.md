@@ -6,12 +6,16 @@ date: 2019-01-01
 doi: 10.5037/jomr.2019.10401
 journal: Journal of Oral & Maxillofacial Research 2019;10(4):e1
 source: starch-jensen-2019-sinus-augmentation-barrier-membrane-window.md
-confidence: sr+ma
+evidence_level: sr+ma
 category: [sinus-lift/lateral]
 pdf_path: /Users/oracleneo/llm-wiki/papers/starch-jensen-2019-sinus-augmentation-barrier-membrane-window.pdf
 pdf_filename: starch-jensen-2019-sinus-augmentation-barrier-membrane-window.pdf
 source_collection: external
 tags: [sinus-lift, barrier-membrane, lateral-window, gbr, implant-survival, rct, meta-analysis]
+relations:
+  - type: contradicts
+    target: wallace-2003-effect-maxillary-sinus-augmentation-survival
+    note: "This 6-RCT SR+MA found no significant implant-survival difference with vs without lateral-window membrane coverage, directly conflicting with Wallace 2003's earlier meta-regression finding that membrane coverage was associated with higher survival."
 ---
 
 ## Three-line Summary
@@ -52,3 +56,4 @@ SR+MA (6 RCT): 측창 상악동 거상술 시 차폐막 피개 vs 비피개 — 
 - [[sinus-lift/lateral/del-fabbro-2025-sinus-augmentation-materials-lateral-approach]] — 이식재 종류에 따른 결과
 - [[sinus-lift/lateral/diaz-olivares-2021-schneiderian-membrane-perforation-sinus-lift]] — 천공 수복 시 차폐막 역할
 - [[sinus-lift/lateral/starch-jensen-2017-sinus-floor-augmentation-treatment-modalities]] — 술식 선택 알고리즘
+- [[sinus-lift/lateral/wallace-2003-effect-maxillary-sinus-augmentation-survival]] — **contradicts**: Wallace 2003의 메타회귀는 측창 차폐막 피개 시 생존율이 유의하게 높다고 보고 — 본 SR+MA(6 RCT)의 "무의미" 결론과 정반대

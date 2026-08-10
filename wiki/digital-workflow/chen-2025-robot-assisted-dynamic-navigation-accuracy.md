@@ -6,7 +6,7 @@ date: 2025-02-02
 doi: "10.1111/clr.14420"
 source: chen-2025-robot-assisted-dynamic-navigation-accuracy.md
 category: [digital-workflow]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/chen-2025-robot-assisted-dynamic-navigation-accuracy.pdf
 pdf_filename: chen-2025-robot-assisted-dynamic-navigation-accuracy.pdf
 source_collection: external

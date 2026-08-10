@@ -6,7 +6,7 @@ date: 2021-12-29
 doi: 10.3390/ma15010238
 source: friedmann-2022-horizontal-augmentation-gbr-dog.md
 category: [bone-regeneration]
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/friedmann-2022-horizontal-augmentation-gbr-dog.pdf
 pdf_filename: friedmann-2022-horizontal-augmentation-gbr-dog.pdf
 source_collection: external

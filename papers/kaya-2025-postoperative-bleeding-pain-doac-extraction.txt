@@ -1,0 +1,2288 @@
+Title: Evaluation of postoperative bleeding and pain following tooth extraction in patients using direct oral anticoagulants: a prospective case-control study with blinded evaluation
+DOI: 10.1186/s12903-025-07126-4
+PMID: 41188797 / PMCID: PMC12584346
+Source: PubMed Central full text
+
+== ABSTRACT ==
+Background
+
+Patients prescribed anticoagulants, even a seemingly uncomplicated extraction can pose a significant clinical risk of protracted or substantial bleeding. The aim of this study was to evaluate postoperative bleeding, pain scores, and oral healing parameters in patients undergoing tooth extractions while continuing direct oral anticoagulant (DOAC) therapy, compared to healthy controls.
+
+Methods
+
+A prospective, single-blind case-control study was conducted involving 211 patients receiving DOAC therapy (apixaban, dabigatran, edoxaban, rivaroxaban) and 219 healthy control participants without anticoagulant therapy. Postoperative bleeding was assessed using a five-level bleeding grade on day 7, alongside pain evaluation via the Visual Analog Scale (VAS) and clinical assessment of erythema, edema, suppuration, and bone exposure. The data were analysed using Chi-square, Kruskal-Wallis H and Mann-Whitney U tests. Significance level was considered as 0.05.
+
+Results
+
+Minimal postoperative bleeding was observed in most patients, regardless of anticoagulation status. However, higher bleeding grades were more common in the DOAC group, particularly among rivaroxaban (grade 2–2 in 6.9% and grade 3 in 13.8%) and edoxaban (3.6% and 7.3%, respectively) takers. Pain scores were similar across groups (mean VAS: case group 4.01 ± 2.01, control group 3.95 ± 2.04;= 0.848). Erythema/edema rates did not significantly differ between groups (= 0.930), whereas bone exposure was more frequent in the DOAC group (= 0.039). No significant differences in suppuration rates were found (= 0.548).
+
+Conclusions
+
+Continuing DOAC therapy during tooth extractions appears clinically safe when meticulous surgical techniques and local hemostatic measures are employed. Although bleeding severity may vary among different DOACs, overall outcomes remain manageable. These findings support an individualized, risk-based perioperative approach rather than routine anticoagulant discontinuation.
+
+== FULL TEXT ==
+Background
+
+Tooth extractions are among the most common minor oral surgical procedures and typically carry a low risk of serious postoperative complications []. However, for patients who are taking anticoagulant medication, even an apparently straightforward extraction can pose a significant clinical risk of prolonged or excessive bleeding. Successful management of these patients requires an in-depth understanding of haemostasis, meticulous surgical technique and awareness of how different medications affect coagulation [–].
+
+In recent years, there has been a notable shift in the use of anticoagulant medications, with direct oral anticoagulants (DOACs), such as apixaban, dabigatran, edoxaban and rivaroxaban, being adopted more widely in clinical practice and replacing the previously dominant vitamin K antagonists [–]. These medications are appealing choices for many patients due to their predictable pharmacokinetics, fixed dosing regimens, and the absence of a need for routine blood monitoring. These agents work by selectively inhibiting critical factors in the coagulation cascade [–]. Specifically, dabigatran inhibits thrombin directly, while apixaban, edoxaban and rivaroxaban target factor Xa. Despite the advantages of using DOACs, concerns and clinical uncertainties persist regarding their use during dental extractions [–].
+
+Several studies currently advocate the safety of uncomplicated dental extractions in patients taking DOACs, provided adequate local hemostatic measures are implemented [,,–]. However, factors such as patient-specific characteristics, the specifics of the surgical procedure and the presence of comorbid conditions have been shown to affect bleeding risk [–]. Notably, there is a lack of real-world evidence detailing the severity and clinical characteristics of bleeding in these patients compared to healthy individuals.
+
+Postoperative pain is another significant consideration. The Visual Analog Scale (VAS) is a method of measuring patients’ subjective pain experiences after oral surgery that is both standardized and widely accepted [–]. Furthermore, post-extraction healing outcomes, including erythema, oedema, suppuration and bone exposure, offer valuable insights into tissue response and potential complications in patients who continue anticoagulant therapy [].
+
+Well-designed studies are needed to determine the surgical outcomes of patients on DOAC therapy relative to those not receiving anticoagulant treatment. Based on, this study aimed to evaluate and compare the extent of postoperative bleeding, pain levels, and healing parameters between patients on DOAC therapy (apixaban, dabigatran, edoxaban, rivaroxaban) and non-anticoagulated individuals. It is anticipated that these findings will contribute to the formulation of safe dental care studies for patients who are also prescribed anticoagulation medication. The null hypothesis (H0) was that there would be no statistically significant difference in postoperative bleeding between the case and control groups.
+
+Methods
+
+Study design and followed checklists
+
+This study was designed as a prospective observational case-control study. It was conducted in accordance with the STROBE (Strengthening the Reporting of Observational Studies in Epidemiology) guidelines and checklist []. The research protocol was carried out at the Department of Oral and Maxillofacial Surgery at Bursa Uludağ University between years July 2022 and July 2024.
+
+Ethical approval and informed consent
+
+Ethical approval for this study's research protocol was provided by the Clinical Research Ethics Committee of Bursa Uludağ University Faculty of Medicine on 13/06/2022, with decision number 12/26. The study protocol was also conducted in accordance with the World Medical Association (WMA) Declaration of Helsinki ethical principles for medical research involving human participants, including research using identifiable human material or data []. Verbal and written informed consent forms were approved by all patients included in the study.
+
+Sample size and power analysis
+
+An a priori power analysis was conducted using G*Power software (version 3.1.9.7, University of Düsseldorf, Germany) to estimate the statistical power of the study based on the planned sample size. Assuming an effect size of w = 0.2 for categorical outcomes, such as postoperative bleeding grades (representing a small-to-medium effect), with an alpha level of 0.05 (two-tailed) and a total sample size of 350 participants, the study has a power greater than 0.95 to detect statistically significant differences between groups using the chi-squared test.
+
+For continuous variables, such as pain scores (VAS), assuming a small-to-medium effect size (Cohen’s d = 0.4) and equal group sizes, the study has a statistical power of approximately 0.95 when using a two-tailed independent samples t-test at a significance level of 0.05.
+
+These estimates suggest that the planned sample size of over 350 participants provide sufficient power to detect clinically meaningful differences in both the primary outcome measure (bleeding) and the secondary outcome measures (pain and wound healing), even in the presence of small to moderate effect sizes.
+
+Participants
+
+As this study was designed as a case-control study, the participants were divided into two groups: “cases” and “controls”. The case group comprised adult patients (aged ≥ 18) patients receiving one of the following DOACs: apixaban, dabigatran, edoxaban or rivaroxaban. The control group consisted of healthy individuals who were not receiving any form of anticoagulant or antiplatelet therapy. Eligibility criteria were set out in detail below, with each group meeting its own specific characteristics.
+
+Eligibility criteria
+
+Given the distinct pathophysiological and pharmacological profiles of the case and control groups - namely, the use of DOACs in patients versus the absence of anticoagulant medication in the control group - the inclusion and exclusion criteria were defined separately. This stratification was employed to enhance methodological rigor, ensure group comparability regarding relevant confounders and preserve the internal validity of the study. The group-specific eligibility criteria are outlined below.
+
+Inclusion criteria of the cases
+
+Adults aged 18 years or older
+
+Cases requiring single tooth extraction
+
+Cases requiring anticoagulation therapy
+
+Currently using one of the following DOACs: apixaban, dabigatran, edoxaban, or rivaroxaban
+
+Scheduled for a single tooth extraction under local anesthesia
+
+Able and willing to provide written informed consent
+
+Exclusion criteria of the cases
+
+Concomitant use of other anticoagulant or antiplatelet agents (e.g., warfarin, aspirin, clopidogrel)
+
+History of recent thromboembolic events (< 3 months) requiring treatment modification
+
+Uncontrolled systemic diseases (e.g., uncontrolled diabetes mellitus, severe liver or kidney dysfunction)
+
+Active infection at the extraction site
+
+Known allergy to local anesthetics
+
+Pregnancy or breastfeeding
+
+History of head and neck radiotherapy or bisphosphonate use
+
+Inability to comply with postoperative follow-up
+
+Patients requiring surgical flap elevation or osteotomy
+
+Inclusion criteria of the controls
+
+Adults aged 18 years or older
+
+Cases requiring single tooth extraction
+
+Cases not using DOACs
+
+Not currently taking any anticoagulant or antiplatelet medications
+
+Scheduled for a single tooth extraction under local anesthesia
+
+Able and willing to provide written informed consent
+
+Exclusion criteria of the controls
+
+Use of any anticoagulant, antiplatelet, or hemostatic medications within the past 4 weeks
+
+Presence of uncontrolled systemic disease (e.g., uncontrolled diabetes mellitus, hypertension)
+
+Active infection at the extraction site
+
+Known allergy to local anesthetics
+
+Pregnancy or breastfeeding
+
+History of head and neck radiotherapy or bisphosphonate use
+
+Inability to comply with postoperative follow-up
+
+Patients requiring surgical flap elevation or osteotomy
+
+Surgical procedure and postoperative surgical management
+
+All dental extractions were performed by an experienced oral and maxillofacial surgeon with at least eight years’ experience, using a standardized protocol to minimize intra-operator variability. Also, the oral surgeon who performed all the extractions was unaware of the patients’ group allocation (case or control) at the time of surgery. Prior to the procedure, patients rinsed with a 0.12% chlorhexidine gluconate solution for 30 s to reduce the microbial load in their mouths. Local anesthesia was administered using 2% lidocaine with 1:80,000 epinephrine via buccal infiltration, and palatal or lingual infiltration when necessary. For multirooted teeth, atraumatic extraction was prioritized using periodontal forceps and elevators to minimize socket trauma and preserve alveolar bone integrity. Surgical flaps were not raised, and no osteotomy was performed. Where root fracture occurred, minimal instrumentation was used to retrieve fragments without excessive socket manipulation.
+
+Following the extraction procedure, hemostasis was achieved by placing a sterile gauze pad over the socket and applying direct pressure for 30 min. The socket was then visually assessed for any signs of persistent bleeding. If bleeding was present, a second cycle of gauze compression was applied. Local hemostatic agents (e.g. oxidized cellulose or gelatin sponge) were not routinely used in order to observe the natural course of hemostasis under the influence of anticoagulant therapy. No sutures were placed. Patients were observed for a minimum of 30 min after the procedure. In accordance with contemporary studies, direct oral anticoagulant (DOAC) therapy was continued without interruption during the perioperative period. Standardized postoperative instructions were provided to all patients. These included avoiding vigorous rinsing, physical exertion and hot foods for the first 24 h. Patients were instructed to use paracetamol (500–1000 mg) as required, as analgesic prescriptions excluded NSAIDs.
+
+Outcome measures
+
+All outcome assessments were conducted at a standardized postoperative follow-up visit on day 7 following tooth/teeth extraction. The clinical evaluations were conducted in a dedicated outpatient surgical clinic by the same oral surgeon, who was unaware of the patients’ group assignments (case or control). Prior to the study, the examiner underwent joint calibration sessions using clinical photographs and standardized forms to ensure intra-examiner reliability in bleeding grade and wound healing assessments. The data were recorded using structured case report forms that had been designed for the study.
+
+Postoperative bleeding scoring
+
+The classification of bleeding was undertaken using a predefined five-level ordinal scale, based on clinical observation and patient-reported history over the first postoperative week. Patients were asked a series of structured questions regarding bleeding episodes, including the timing, duration, and any interventions applied. Intraoral examination was used to confirm the presence of residual signs of bleeding, including the presence of a clot, discoloration, and fibrin coverage. The five levels comprised [,]:
+
+Grade 0: No bleeding
+
+Grade 1: Excess clot formation in the socket, no treatment required
+
+Grade 2-1: Hemostasis achieved by compressing the wound longer than 30 min
+
+Grade 2-2: Oozing hemorrhage observed on or after the next day of the procedure, with hemostasis being achieved by simple compression
+
+Grade 3: Hemorrhage requiring treatment other than wound compression, such as application of compression brace and/or electrome coagulation
+
+Pain intensity scoring
+
+Pain intensity was assessed using a 10 cm horizontal VAS, on which patients marked their perceived average pain level during the first week after surgery. The left end of the scale was labelled “0 = no pain” and the right end “10 = worst imaginable pain” [–]. VAS sheets were provided at the follow-up visit and patients were instructed to report their average pain rather than their peak pain. Scores were measured in millimeters from the “0” anchor to the patient’s mark.
+
+Clinical healing parameters
+
+Soft tissue healing was evaluated via an intraoral clinical examination. For each patient, the presence or absence of the following findings was recorded: erythema, oedema, suppuration and bone exposure [,].
+
+i.
+
+Erythema was defined as localized mucosal redness within 5 mm of the socket margin.
+
+ii.
+
+Edema was defined as visible swelling, with or without fluctuation.
+
+iii.
+
+Suppuration was defined as visible or expressed purulent discharge.
+
+iv.
+
+Bone exposure was defined as visible alveolar bone not covered by mucosa. All findings were documented using a binary scale (present/absent) and, when applicable, supplemented with intraoral photographs.
+
+Blinding
+
+The study was designed as a prospective case-control study with a blinded operator and blinded outcome assessor. The oral surgeon who performed all extractions was unaware of the patients’ group allocation (case or control) at the time of the surgical procedure. Consequently, the postoperative evaluation on day 7 was conducted by the same clinician, who was also blinded to group assignment. The utilisation of medication and the systemic history of the patient were documented by a dental secretary. These records were kept confidential and undisclosed to both the surgeon and the assessor during the intervention and evaluation. The implementation of patient blinding was not a viable option on account of the configuration of the study plan and the ongoing utilisation of anticoagulant medication.
+
+Statistical analysis
+
+All statistical analyses were performed using Statistical Package for the Social Sciences (SPSS) 22.0 software version (IBM Corp., Armonk, NY, USA). Descriptive statistics were reported as mean ± standard deviation (SD) for continuous variables, and as frequencies and percentages for categorical variables. Appropriate parametric or non-parametric tests were selected based on the distribution of continuous and categorical variables. The normality of continuous variables was assessed using Kolmogorov-Smirnov tests. Additionally, skewness and kurtosis values, along with histogram graphs, were observed. In this context, non-parametric tests were used for non-normally distributed data. The significance level was set at< 0.05.
+
+Intergroup comparisons of pain levels between different anticoagulant drug groups and control groups were performed using the Kruskal-Wallis H and Mann-Whitney U tests. Chi-square tests were used for comparisons related to bleeding grades. Gender distribution was also analyzed using the Chi-Square test. Additionally, differences between case and control groups in terms of complications and patient characteristics were analyzed using the Chi-Square test.
+
+Results
+
+599 patients were evaluated, and after checking whether they met the specified eligibility criteria, 430 patients met the study procedures. Of these patients, 211 formed the case group, while 219 formed the control group (Fig.).
+
+Fig. 1
+
+Flow diagram of the study procedures
+
+Tablepresented the baseline characteristics of the 430 participants enrolled in the study. Of these, 211 (49.1%) constituted the case group and 219 (50.9%) served as healthy controls. Within the case group, DOAC use was distributed as follows: apixaban in 69 participants (16.0%), dabigatran in 29 (6.7%), edoxaban in 55 (12.8%), and rivaroxaban in 58 (13.5%). The sample was nearly sex-balanced, comprising 212 males (49.3%) and 218 females (50.7%). A previous tooth-extraction history was reported by 261 individuals (60.7%), whereas 169 (39.3%) had no such history. Comorbidities were present in 81 participants (18.8%).
+
+Table 1
+
+Baseline demographic, clinical and treatment characteristics of the study population
+
+Variables
+
+n
+
+%
+
+Study groups
+
+Case
+
+211
+
+49.1
+
+Control
+
+219
+
+50.9
+
+Total
+
+430
+
+100.0
+
+Study groups (with subgroups)
+
+Case (patients receiving apixaban)
+
+69
+
+16.0
+
+Case (patients receiving dabigatran)
+
+29
+
+6.7
+
+Case (patients receiving edoxaban)
+
+55
+
+12.8
+
+Case (patients receiving rivaroxaban)
+
+58
+
+13.5
+
+Control (healthy participants)
+
+219
+
+50.9
+
+Total
+
+430
+
+100.0
+
+Sex
+
+Male
+
+212
+
+49.3
+
+Female
+
+218
+
+50.7
+
+Total
+
+430
+
+100.0
+
+Previous tooth extractions
+
+Present
+
+261
+
+60.7
+
+Absent
+
+169
+
+39.3
+
+Total
+
+430
+
+100.0
+
+Comorbidity
+
+Present
+
+81
+
+18.8
+
+Absent
+
+349
+
+81.2
+
+Total
+
+430
+
+100.0
+
+Erythema/edema
+
+Present
+
+317
+
+73.7
+
+Absent
+
+113
+
+26.3
+
+Total
+
+430
+
+100.0
+
+Bone exposure
+
+Present
+
+13
+
+3.0
+
+Absent
+
+417
+
+97.0
+
+Total
+
+430
+
+100.0
+
+Suppuration
+
+Present
+
+14
+
+3.3
+
+Absent
+
+416
+
+96.7
+
+Total
+
+430
+
+100.0
+
+Bleeding grades
+
+0
+
+261
+
+60.7
+
+1
+
+116
+
+27.0
+
+2 − 1
+
+27
+
+6.3
+
+2–2
+
+9
+
+2.1
+
+3
+
+17
+
+4.0
+
+Total
+
+430
+
+100.0
+
+number,percentage
+
+On the clinical examination, erythema or oedema was the most common finding, observed in 317 participants (73.7%); bone exposure (13 participants, 3.0%) and suppuration (14 participants, 3.3%) were uncommon. The bleeding-grade distribution showed that most participants had grade 0 (= 261, 60.7%) or 1 (= 116, 27.0%), while higher grades were infrequent [grade 2 − 1: 27 (6.3%); grade 2–2: 9 (2.1%) and grade 3: 17 (4.0%)]. These data indicate a cohort with predominantly low-to-moderate bleeding risk, balanced sex representation, and limited severe clinical complications (Table).
+
+As detailed in Table, the case and control groups were closely matched across most baseline variables. Sex distribution was balanced, with men comprising 46.9% (= 99) of cases and 51.6% (= 113) of controls, while women accounted for 53.1% (= 112) and 48.4% (= 106), respectively. A previous tooth-extraction history was reported by roughly three-fifths of participants in both groups (59.7% vs. 61.6%). Comorbidity prevalence was similarly low (18.0% in cases vs. 19.6% in controls). Oral examination findings revealed comparable rates of erythema/edema (73.9% vs. 73.5%). Bone exposure, although infrequent overall, was over three-times more common in the case group (4.7% vs. 1.4%). Suppuration remained rare in both cohorts (< 4%). These patterns indicate that the two study arms were broadly comparable, with the notable exception of bone exposure.
+
+Table 2
+
+Cross-tabulation of sex, previous tooth-extraction history, comorbidity, and oral clinical findings between participants
+
+Variables
+
+Study Groups
+
+Case
+
+Control
+
+Total
+
+n
+
+%
+
+n
+
+%
+
+n
+
+%
+
+Sex
+
+Male
+
+99
+
+46.9
+
+113
+
+51.6
+
+212
+
+49.3
+
+Female
+
+112
+
+53.1
+
+106
+
+48.4
+
+218
+
+50.7
+
+Total
+
+211
+
+100.0
+
+219
+
+100.0
+
+430
+
+100.0
+
+Previous tooth extractions
+
+Present
+
+126
+
+59.7
+
+135
+
+61.6
+
+261
+
+60.7
+
+Absent
+
+85
+
+40.3
+
+84
+
+38.4
+
+169
+
+39.3
+
+Total
+
+211
+
+100.0
+
+219
+
+100.0
+
+430
+
+100.0
+
+Comorbidity
+
+Present
+
+38
+
+18.0
+
+43
+
+19.6
+
+81
+
+18.8
+
+Absent
+
+173
+
+82.0
+
+176
+
+80.4
+
+349
+
+81.2
+
+Total
+
+211
+
+100.0
+
+219
+
+100.0
+
+430
+
+100.0
+
+Erythema/edema
+
+Present
+
+156
+
+73.9
+
+161
+
+73.5
+
+317
+
+73.7
+
+Absent
+
+55
+
+26.1
+
+58
+
+26.5
+
+113
+
+26.3
+
+Total
+
+211
+
+100.0
+
+219
+
+100.0
+
+430
+
+100.0
+
+Bone exposure
+
+Present
+
+10
+
+4.7
+
+3
+
+1.4
+
+13
+
+3.0
+
+Absent
+
+201
+
+95.3
+
+216
+
+98.6
+
+417
+
+97.0
+
+Total
+
+211
+
+100.0
+
+219
+
+100.0
+
+430
+
+100.0
+
+Suppuration
+
+Present
+
+8
+
+3.8
+
+6
+
+2.7
+
+14
+
+3.3
+
+Absent
+
+203
+
+96.2
+
+213
+
+97.3
+
+416
+
+96.7
+
+Total
+
+211
+
+100.0
+
+219
+
+100.0
+
+430
+
+100.0
+
+number,percentage
+
+430 participants ranged from 23 to 80 years (oldest controls 79 y; oldest cases 80 y). Overall, patients receiving DOACs (55.6 ± 10.5 years) were slightly older than untreated controls (51.7 ± 9.1 years) (Table) (Welch t = 4.14,< 0.0001). When four DOAC subgroups were examined separately, median ages clustered tightly around 56 years, but a Kruskal-Wallis comparison across the five groups (four DOAC + controls) still reached significance (H = 17.5,= 0.0016), driven mainly by the younger control group.
+
+Table 3
+
+Age distribution of study participants
+
+Groups
+
+n
+
+Mean ± SD (year)
+
+Median (year)
+
+Range (year)
+
+Case (patients receiving apixaban)
+
+69
+
+55.2 ± 11.1
+
+56
+
+28–78
+
+Case (patients receiving dabigatran)
+
+29
+
+55.5 ± 11.6
+
+57
+
+24–80
+
+Case (patients receiving edoxaban)
+
+55
+
+56.3 ± 11.0
+
+56
+
+34–80
+
+Case (patients receiving rivaroxaban)
+
+58
+
+55.5 ± 8.8
+
+56
+
+37–73
+
+Control (healthy participants)
+
+219
+
+51.7 ± 9.1
+
+51
+
+23–79
+
+number,Standard Deviation
+
+In all DOAC subgroups, at least half of the patients were ≥ 56 y, whereas controls had a median of 51 y. Age ranges overlapped broadly (minimum 24–37 y, maximum 73–80 y) and no DOAC showed an extreme age skew. Thus, cases constitute a modestly older cohort, with small but statistically detectable age heterogeneity among individual agents (Table).
+
+Tablecompared the distribution of sex between the case group and the healthy controls. Males accounted for 46.9% of cases (= 99) and 51.6% of controls (= 113), while females represented 53.1% (= 112) and 48.4% (= 106), respectively. A Pearson χ² test indicated that this difference was not statistically significant (χ²=1.004, df = 1,= 0.316) (Table; Fig.).
+
+Table 4
+
+Sex distribution of participants with associated pearson χ² test
+
+Groups
+
+Male(%)
+
+Female(%)
+
+Total
+
+Chi-Square test
+
+χ2
+
+p
+
+Case
+
+99 (46.9)
+
+112 (53.1)
+
+211
+
+1.004
+
+0.316
+
+Control
+
+113 (51.6)
+
+106 (48.4)
+
+219
+
+Total
+
+212 (49.3)
+
+218 (50.7)
+
+430
+
+number,percentage
+
+Fig. 2
+
+Number of male and female participants in the case and control groups
+
+Tablecontrasted two background characteristics between case and controls. A history of tooth extraction was reported by 126 participants in the case group (59.7%) and 135 in the control group (61.6%). Absence of extraction history was noted in 85 cases (40.3%) versus 84 controls (38.4%). The difference was not statistically significant (χ²=0.167,= 0.683).
+
+Table 5
+
+Distribution of previous tooth-extraction history and comorbidity status
+
+Patient characteristics
+
+Groups
+
+Present(%)
+
+Absent(%)
+
+Total
+
+Chi-Square test
+
+χ2
+
+p
+
+Previous tooth extractions
+
+Case
+
+126 (59.7)
+
+85 (40.3)
+
+211
+
+0.167
+
+0.683
+
+Control
+
+135 (61.6)
+
+84 (38.4)
+
+219
+
+Total
+
+261 (60.7)
+
+169 (39.3)
+
+430
+
+Comorbidity
+
+Case
+
+38 (18.0)
+
+173 (82.0)
+
+211
+
+0.203
+
+0.652
+
+Control
+
+43 (19.6)
+
+176 (80.4)
+
+219
+
+Total
+
+81 (18.8)
+
+349 (81.2)
+
+430
+
+number,percentage
+
+Comorbid conditions were present in 38 cases (18.0%) and 43 controls (19.6%), while the remainder of each group had no recorded comorbidity (82.0% and 80.4%, respectively). This comparison likewise showed no meaningful between-group disparity (χ²=0.203,= 0.652).
+
+Tablecompared the occurrence of different complications between cases and controls. Erythema/edema was absent in roughly one quarter of participants in both groups (26.1% vs. 26.5%); the difference was negligible (χ²=0.008,= 0.930). Suppuration was similarly uncommon and evenly distributed (3.8% vs. 2.7%; χ²=0.361,= 0.548). In contrast, bone exposure was detected more than three-fold more often in cases than controls (4.7% vs. 1.4%), and this disparity reached statistical significance (χ²=4.266,= 0.039) (Table; Fig.).
+
+Table 6
+
+Frequency of erythema/edema, bone exposure and suppuration in participants
+
+Complications
+
+Groups
+
+Presentn (%)
+
+Absentn (%)
+
+Total
+
+Chi-Square test
+
+χ2
+
+p
+
+Erythema/edema
+
+Case
+
+156 (73.9)
+
+55 (26.1)
+
+211
+
+0.008
+
+0.930
+
+Control
+
+161 (73.5)
+
+58 (26.5)
+
+219
+
+Total
+
+317 (73.7)
+
+113 (26.3)
+
+430
+
+Bone exposure
+
+Case
+
+10 (4.7)
+
+201 (95.3)
+
+211
+
+4.266
+
+0.039*
+
+Control
+
+3 (1.4)
+
+216 (98.6)
+
+219
+
+Total
+
+13 (3.0)
+
+417 (97.0)
+
+430
+
+Suppuration
+
+Case
+
+8 (3.8)
+
+203 (96.2)
+
+211
+
+0.361
+
+0.548
+
+Control
+
+6 (2.7)
+
+213 (97.3)
+
+219
+
+Total
+
+14 (3.3)
+
+416 (96.7)
+
+430
+
+number,percentage
+
+*indicates statistical significance
+
+Fig. 3
+
+Number of oral complications in the case and control groups
+
+Across the five study groups -apixaban (= 69), dabigatran (29), edoxaban (55), rivaroxaban (58) and healthy controls (219)- baseline profiles were largely similar: males comprised roughly half of each group (46–52%), 53.4–65.5% of participants reported a prior tooth extraction, and comorbidity rates clustered between 14.5% and 24.1%. Erythema/edema was the most prevalent oral finding in every arm (62.1–79.3%), while suppuration was uncommon (< 8%) and entirely absent among edoxaban takers. Bone exposure showed the only marked divergence, occurring in 13.8% of dabigatran users and 9.1% of edoxaban takers versus 1.4% of apixaban takers and controls and 0% of rivaroxaban takers (Table).
+
+Table 7
+
+Distribution of sex, previous tooth-extraction history, comorbidity and oral clinical findings
+
+Variables
+
+Study groups (with subgroups)
+
+Patients receiving apixaban
+
+Patients receiving dabigatran
+
+Patients receiving edoxaban
+
+Patients receiving rivaroxaban
+
+Control
+
+Total
+
+n
+
+%
+
+n
+
+%
+
+n
+
+%
+
+n
+
+%
+
+n
+
+%
+
+n
+
+%
+
+Sex
+
+Male
+
+32
+
+46.4
+
+15
+
+51.7
+
+25
+
+45.5
+
+27
+
+46.6
+
+113
+
+51.6
+
+212
+
+49.3
+
+Female
+
+37
+
+53.6
+
+14
+
+48.3
+
+30
+
+54.5
+
+31
+
+53.4
+
+106
+
+48.4
+
+218
+
+50.7
+
+Total
+
+69
+
+100.0
+
+29
+
+100.0
+
+55
+
+100.0
+
+58
+
+100.0
+
+219
+
+100.0
+
+430
+
+100.0
+
+Previous tooth extractions
+
+Present
+
+42
+
+60.9
+
+17
+
+58.6
+
+36
+
+65.5
+
+31
+
+53.4
+
+135
+
+61.6
+
+261
+
+60.7
+
+Absent
+
+27
+
+39.1
+
+12
+
+41.4
+
+19
+
+34.5
+
+27
+
+46.6
+
+84
+
+38.4
+
+169
+
+39.3
+
+Total
+
+69
+
+100.0
+
+29
+
+100.0
+
+55
+
+100.0
+
+58
+
+100.0
+
+219
+
+100.0
+
+430
+
+100.0
+
+Comorbidity
+
+Present
+
+12
+
+17.4
+
+7
+
+24.1
+
+8
+
+14.5
+
+11
+
+19.0
+
+43
+
+19.6
+
+81
+
+18.8
+
+Absent
+
+57
+
+82.6
+
+22
+
+75.9
+
+47
+
+85.5
+
+47
+
+81.0
+
+176
+
+80.4
+
+349
+
+81.2
+
+Total
+
+69
+
+100.0
+
+29
+
+100.0
+
+55
+
+100.0
+
+58
+
+100.0
+
+219
+
+100.0
+
+430
+
+100.0
+
+Erythema/edema
+
+Present
+
+54
+
+78.3
+
+18
+
+62.1
+
+38
+
+69.1
+
+46
+
+79.3
+
+161
+
+73.5
+
+317
+
+73.7
+
+Absent
+
+15
+
+21.7
+
+11
+
+37.9
+
+17
+
+30.9
+
+12
+
+20.7
+
+58
+
+26.5
+
+113
+
+26.3
+
+Total
+
+69
+
+100.0
+
+29
+
+100.0
+
+55
+
+100.0
+
+58
+
+100.0
+
+219
+
+100.0
+
+430
+
+100.0
+
+Bone exposure
+
+Present
+
+1
+
+1.4
+
+4
+
+13.8
+
+5
+
+9.1
+
+0
+
+0.0
+
+3
+
+1.4
+
+13
+
+3.0
+
+Absent
+
+68
+
+98.6
+
+25
+
+86.2
+
+50
+
+90.9
+
+58
+
+100.0
+
+216
+
+98.6
+
+417
+
+97.0
+
+Total
+
+69
+
+100.0
+
+29
+
+100.0
+
+55
+
+100.0
+
+58
+
+100.0
+
+219
+
+100.0
+
+430
+
+100.0
+
+Suppuration
+
+Present
+
+5
+
+7.2
+
+1
+
+3.4
+
+0
+
+0.0
+
+2
+
+3.4
+
+6
+
+2.7
+
+14
+
+3.3
+
+Absent
+
+64
+
+92.8
+
+28
+
+96.6
+
+55
+
+100.0
+
+56
+
+96.6
+
+213
+
+97.3
+
+416
+
+96.7
+
+Total
+
+69
+
+100.0
+
+29
+
+100.0
+
+55
+
+100.0
+
+58
+
+100.0
+
+219
+
+100.0
+
+430
+
+100.0
+
+number,percentage
+
+Only one of the six baseline or oral variables showed a group-dependent pattern. Across the five medication groups, bone exposure differed significantly (χ²=18.42,< 0.001), whereas sex, previous tooth extractions, comorbidity, erythema/edema and suppuration were all comparable (> 0.05), indicating that anticoagulant class was associated with bone exposure but not with the other parameters examined (Table).
+
+Table 8
+
+Relationship between different variables and medication use group
+
+Variables
+
+Chi-square test (χ²)
+
+p
+
+Sex
+
+1.84
+
+0.765
+
+Previous tooth extractions
+
+2.51
+
+0.643
+
+Comorbidity
+
+1.12
+
+0.891
+
+Erythema/edema
+
+2.49
+
+0.645
+
+Bone exposure
+
+18.42
+
+< 0.001*
+
+Suppuration
+
+6.23
+
+0.183
+
+*indicates statistical significance
+
+Bleeding grades differed between study groups. In healthy controls, nearly three-quarters graded 0 (160/219, 73.1%) and no participant reached the most severe grades (grade 2–2 or 3). By contrast, case group showed a broader spread: only half graded 0 (101/211, 47.9%), while 4.3% recorded grade 2–2 and 8.1% grade 3. Within DOAC subgroups, rivaroxaban users displayed the greatest proportion of high grades (grade 2–2 in 6.9% and grade 3 in 13.8%), followed by edoxaban (3.6% and 7.3%, respectively). Dabigatran users exhibited no grade 2–2 or 3 events, and apixaban users fell between these extremes. Overall, severe bleeding grades clustered almost exclusively among DOAC-treated cases -particularly rivaroxaban- whereas controls remained largely at the lowest grade (Table; Fig.).
+
+Table 9
+
+Distribution of bleeding-grade categories (0, 1, 2 − 1, 2–2, 3) in cases and healthy controls
+
+Study groups and subgroups
+
+Bleeding grades
+
+0
+
+1
+
+2 − 1
+
+2–2
+
+3
+
+n
+
+%
+
+n
+
+%
+
+n
+
+%
+
+n
+
+%
+
+n
+
+%
+
+Study groups
+
+Case
+
+101
+
+47.9
+
+63
+
+29.9
+
+21
+
+10.0
+
+9
+
+4.3
+
+17
+
+8.1
+
+Control
+
+160
+
+73.1
+
+53
+
+24.2
+
+6
+
+2.7
+
+0
+
+0.0
+
+0
+
+0.0
+
+Total
+
+261
+
+60.7
+
+116
+
+27.0
+
+27
+
+6.3
+
+9
+
+2.1
+
+17
+
+4.0
+
+Study groups (with subgroups)
+
+Patients receiving apixaban
+
+35
+
+50.7
+
+15
+
+21.7
+
+11
+
+15.9
+
+3
+
+4.3
+
+5
+
+7.2
+
+Patients receiving dabigatran
+
+18
+
+62.1
+
+9
+
+31.0
+
+2
+
+6.9
+
+0
+
+0.0
+
+0
+
+0.0
+
+Patients receiving edoxaban
+
+26
+
+47.3
+
+19
+
+34.5
+
+4
+
+7.3
+
+2
+
+3.6
+
+4
+
+7.3
+
+Patients receiving rivaroxaban
+
+22
+
+37.9
+
+20
+
+34.5
+
+4
+
+6.9
+
+4
+
+6.9
+
+8
+
+13.8
+
+Control
+
+160
+
+73.1
+
+53
+
+24.2
+
+6
+
+2.7
+
+0
+
+0.0
+
+0
+
+0.0
+
+Total
+
+261
+
+60.7
+
+116
+
+27.0
+
+27
+
+6.3
+
+9
+
+2.1
+
+17
+
+4.0
+
+Fig. 4
+
+Number of postoperative bleeding grades across the study groups
+
+Bleeding severity distributions differed markedly between the cases and healthy controls. Almost three-quarters of controls achieved a grade 0 (160/219, 73.1%), whereas fewer than half of cases did so (101/211, 47.9%). Grades indicating mild bleeding (grade 1) were comparable (29.9% in cases vs. 24.2% in controls). Higher-risk categories were confined almost entirely to the case group: grades 2 − 1, 2–2 and occurred in 10.0%, 4.3% and 8.1% of cases, respectively, but were absent or rare among controls (2.7%, 0% and 0%). A Pearson χ² test confirmed a significant overall difference in distributions (χ²=48.40,< 0.001) (Table).
+
+Table 10
+
+Distribution of bleeding-grade categories (0, 1, 2 − 1, 2–2, 3) in cases and controls
+
+Bleeding grades
+
+Case (= 211)
+
+%
+
+Control (= 219)
+
+%
+
+Chi-square test
+
+χ²
+
+p
+
+0
+
+101
+
+47.9
+
+160
+
+73.1
+
+48.40
+
+< 0.001*
+
+1
+
+63
+
+29.9
+
+53
+
+24.2
+
+2 − 1
+
+21
+
+10.0
+
+6
+
+2.7
+
+2–2
+
+9
+
+4.3
+
+0
+
+0.0
+
+3
+
+17
+
+8.1
+
+0
+
+0.0
+
+number,percentage
+
+*indicates statistical significance
+
+Tableshowed bleeding-grades varied markedly across the four DOAC subgroups and healthy controls (χ²=47.2,< 0.001). Controls were concentrated in grade 0 (73.1%) and exhibited virtually no high-grade bleeding. In contrast, DOAC users displayed broader, drug-specific patterns: rivaroxaban had the greatest share of severe grades (≥ 2 − 1) at 27.6% -including the highest proportion of grade 3 (13.8%)- followed by apixaban (27.4%) and edoxaban (18.2%). Dabigatran users showed the mildest profile, with 62.1% in grade 0 and no participants in grades 2–2 or 3. These findings indicate that bleeding severity is not uniform across DOAC classes, being particularly elevated with rivaroxaban and, to a lesser extent, edoxaban and apixaban, whereas controls largely remain at the lowest grade.
+
+Table 11
+
+Percentage distribution of bleeding-grade categories in cases and controls
+
+Subgroups
+
+Grade 0 (%)
+
+Grade 1 (%)
+
+Grade 2 − 1 (%)
+
+Grade 2–2 (%)
+
+Grade 3 (%)
+
+Chi-Square test
+
+χ2
+
+p
+
+Apixaban
+
+50.7
+
+21.7
+
+15.9
+
+4.3
+
+7.2
+
+47.2
+
+< 0.001*
+
+Dabigatran
+
+62.1
+
+31.0
+
+6.9
+
+0.0
+
+0.0
+
+Edoxaban
+
+47.3
+
+34.5
+
+7.3
+
+3.6
+
+7.3
+
+Rivaroxaban
+
+37.9
+
+34.5
+
+6.9
+
+6.9
+
+13.8
+
+Control
+
+73.1
+
+24.2
+
+2.7
+
+0.0%
+
+0.0
+
+percentage
+
+*indicates statistical significance
+
+Tablecontrasted postoperative pain grades between case group and healthy controls. Two groups showed virtually identical central tendencies (mean ± SD: 4.01 ± 2.01 vs. 3.95 ± 2.04; medians = 3 and 4, respectively) and dispersion (range 1–10 in both). A Mann-Whitney U test confirmed that the slight numeric difference was not statistically significant (z=–0.191,= 0.848), indicating comparable pain experiences across main study groups.
+
+Table 12
+
+Postoperative pain scores in case group and healthy controls
+
+Study groups
+
+Pain scores
+
+Mann-Whitney U test
+
+n
+
+Mean
+
+Median
+
+Minimum
+
+Maximum
+
+SD
+
+Mean rank
+
+z
+
+p
+
+Case
+
+211
+
+4.01
+
+3
+
+1
+
+10
+
+2.01
+
+216.65
+
+0.191
+
+0.848
+
+Control
+
+219
+
+3.95
+
+4
+
+1
+
+10
+
+2.04
+
+214.39
+
+Total
+
+430
+
+3.98
+
+4
+
+1
+
+10
+
+2.02
+
+-
+
+number,Standard deviation
+
+Post-operative pain did not differ significantly among the four DOAC subgroups and the healthy control group (Kruskal–Wallis H = 2.2,= 0.689). Mean pain scores ranged narrowly from 3.90 (dabigatran, rivaroxaban) to 4.22 (apixaban), with identical or near-identical medians (3–4) and overlapping dispersions (SD ≈ 2.0; range 1–10). Mean rank ordering placed apixaban highest (234.6) and edoxaban lowest (206.8), yet these differences lacked statistical significance, indicating comparable pain experiences irrespective of anticoagulant class or control status (Table).
+
+Table 13
+
+Post-operative pain scores in patients receiving apixaban, dabigatran, edoxaban, Rivaroxaban and healthy controls
+
+Subgroups
+
+Pain scores
+
+Kruskal-Wallis H test
+
+n
+
+Mean
+
+Median
+
+Minimum
+
+Maximum
+
+SD
+
+Mean rank
+
+H
+
+p
+
+Patients receiving apixaban
+
+69
+
+4.22
+
+4
+
+2
+
+9
+
+1.80
+
+234.59
+
+2.2
+
+0.689
+
+Patients receiving dabigatran
+
+29
+
+3.90
+
+3
+
+1
+
+10
+
+1.95
+
+210.16
+
+Patients receiving edoxaban
+
+55
+
+3.95
+
+4
+
+1
+
+9
+
+2.26
+
+206.77
+
+Patients receiving rivaroxaban
+
+58
+
+3.90
+
+3
+
+1
+
+10
+
+2.07
+
+207.91
+
+Control
+
+219
+
+3.95
+
+4
+
+1
+
+10
+
+2.04
+
+214.39
+
+Total
+
+430
+
+3.98
+
+4
+
+1
+
+10
+
+2.02
+
+-
+
+number,Standard deviation
+
+Discussion
+
+The introduction of direct oral anticoagulants (DOACs), including apixaban, dabigatran, edoxaban and rivaroxaban, has had a significant impact on the management of anticoagulation in clinical practice, including dental treatments. In comparison with established vitamin K antagonists, these novel agents offer several advantages [,–]. Firstly, they exhibit more predictable pharmacological effects. Secondly, they permit fixed dosing without the necessity for routine blood monitoring. Thirdly, they are associated with a reduced number of food and drug interactions. Direct oral anticoagulants (DOACs) are pharmaceutical compounds that function by selectively targeting specific elements within the coagulation cascade. This is achieved by either inhibiting factor Xa or thrombin, thereby offering a more targeted approach to anticoagulation therapy [,–].
+
+Notwithstanding the practical advantages associated with the utilization of DOACs, concerns have been raised by dental professionals, most notably regarding the risk of excessive bleeding following tooth extractions. Whilst some studies advocate for the feasibility of minor oral surgical procedures to be conducted in the absence of DOAC therapy, provided that adequate local measures are implemented, there is a paucity of comprehensive data to substantiate this assertion [,,–]. The paucity of detailed information regarding postoperative bleeding severity, pain levels, and wound healing in patients on DOACs in dentistry literature is a matter of concern. In this context, the present study was conceived with the objective of addressing this knowledge gap by conducting a thorough evaluation of postoperative bleeding, pain scores, and local healing parameters in patients receiving DOAC therapy, in comparison with healthy individuals who were not taking any anticoagulants. The objective of this prospective case-control study was to evaluate postoperative bleeding, pain levels, and soft tissue healing outcomes in patients receiving DOACs and undergoing tooth extraction, compared with a healthy control group. Given the increasing utilization of direct oral anticoagulants (DOACs), particularly among elderly patients who frequently require dental treatment, there is a significant need to comprehend the perioperative management of these medications.
+
+A significant strength of the present study is the comparable distribution of key baseline characteristics, such as comorbidity status and prior tooth extraction history, between the case and control groups. The absence of significant differences in these variables suggests that potential confounding effects related to systemic health conditions or previous surgical experiences were minimized. This balance serves to enhances the internal validity of the comparative analyses, thereby enabling a more reliable attribution of postoperative outcomes, particularly bleeding and pain, to anticoagulation status as opposed to underlying patient-related factors. Such homogeneity in baseline profiles is often lacking in observational studies and represents a methodological advantage that supports the robustness of the findings. Furthermore, the distribution of male and female participants in both the case and control groups is another significant strength of this study. The absence of substantial disparities in sex proportions serves to minimize the potential for confounding variables, given that sex has been demonstrated to exert influence on factors such as pain perception, bleeding risk, and wound healing. Maintaining this balance is pivotal in ensuring the interpretation of postoperative findings with greater confidence, as any observed differences are more likely attributable to anticoagulant use rather than sex-based physiological differences. This meticulous matching process serves to enhance the rigor of the study, thereby supporting the credibility of the results obtained.
+
+The main findings of the current study indicated that the majority of patients, regardless of their anticoagulation status, experienced minimal bleeding. The results demonstrate unequivocally that higher bleeding grades were predominantly observed in the case group, reflecting a more severe postoperative bleeding profile among anticoagulant users. While almost three-quarters of the control group showed no bleeding, only around half of the case group achieved a grade 0. Furthermore, severe bleeding categories (grades 3 and 2–2) were almost exclusively confined to the case cohort. These results highlight the increased bleeding risk associated with anticoagulation therapy and emphasize the importance of personalized hemostatic strategies for this patient group. Additionally, patients receiving DOACs exhibited higher bleeding grades overall, with rivaroxaban and edoxaban users demonstrating the most severe cases. This indicates that the risk of bleeding is inconsistent across DOACs, highlighting the need for individualized preoperative risk evaluation rather than a universal approach. The increased frequency of bleeding complications observed in patients treated with rivaroxaban may be due to the fact that rivaroxaban slightly prolongs prothrombin and partial thromboplastin times [–].
+
+Similar to the present study, Inokoshi et al. [] found that, in their study of elderly patients receiving anticoagulant therapy, the highest rate of postoperative bleeding after dental extraction was observed in the rivaroxaban group (32.4%), followed by the apixaban group (18.2%), the warfarin group (17.3%), and the edoxaban group (5.7%). The authors also stated that multiple comparisons using the false discovery rate method revealed that postoperative bleeding was significantly higher among rivaroxaban users than among edoxaban or dabigatran users. Also, Morimoto et al. [] reported that patients with prolonged prothrombin times who were taking rivaroxaban were at higher risk of bleeding. In their systematic review and meta-analysis, Bensi et al. [] reported that patients receiving DOACs may have a threefold increased risk of postoperative bleeding following oral surgery procedures. The authors also noted that rivaroxaban was associated with a higher bleeding risk than other DOACs. Berton et al. [] reported that three out of five patients experiencing clinically significant bleeding events while taking DOACs were taking rivaroxaban, suggesting an increased risk of bleeding associated with rivaroxaban. Similarly, Hiroshi et al. [] reported in their study that the incidence of bleeding after tooth extraction was 1.65% in patients treated with dabigatran and 3.41% in patients treated with rivaroxaban, according to their tooth-based analysis. The authors noted that, as in the current study, patients treated with rivaroxaban reported higher rates of postoperative bleeding, though this difference was not statistically significant.
+
+This study evaluated postoperative bleeding events and postoperative pain scores. A review of the literature revealed that, although bleeding grades were the main factor considered in patients taking DOACs following tooth extraction surgery, this study also assessed pain using VAS scoring. Despite the observed differences in bleeding grades, the pain levels exhibited a high degree of similarity between the groups. Analysis showed that both DOAC users and the control group reported moderate pain, with no statistically significant difference between the two groups. This suggests that continuing anticoagulant therapy does not exacerbate postoperative pain perception, supporting the hypothesis that pain is predominantly associated with surgical trauma rather than anticoagulation status. Berton et al. [] also found no statistically significant differences in postoperative pain VAS values between patients taking vitamin K antagonists or DOACs.
+
+The present study examined postoperative bleeding and pain, as well as various oral healing outcomes, offering a more comprehensive perspective on patient recovery. Analysis revealed no significant differences in soft tissue healing indicators, such as erythema and oedema, between the two groups. This suggests that DOAC therapy does not impede mucosal healing. Of particular interest was the finding that bone exposure was more prevalent among patients prescribed DOACs, particularly dabigatran and edoxaban. This increased occurrence could be attributed to minor alterations in the local blood supply or delayed soft tissue closure, underlining the importance of precise surgical technique and careful handling of tissues. Also, the higher incidence of bone exposure observed in some DOAC subgroups may be related to impaired clot stability and delayed socket epithelialization associated with continuous anticoagulation. As stable clot formation is pivotal to the process of early wound coverage, even minor disturbances in hemostasis have the potential to result in a prolonged period of bone visibility. While this finding did not necessarily result in significant complications, it underscores the necessity for meticulous postoperative monitoring in patients receiving anticoagulant therapy. While most existing studies have focused primarily on the risk of hemorrhaging, incorporating these additional healing parameters provides valuable context and highlights the broader impact of anticoagulant therapy on surgical outcomes in the oral cavity. Taken together, these findings offer preliminary insights into the dynamics of healing following tooth extraction in patients receiving anticoagulant therapy, a topic that has received comparatively little attention in the literature.
+
+A notable strength of this case-control study is its robust design, which incorporates prospective data collection, a single-blind approach and standardized surgical protocols. However, given the case-control nature of the study, it is important to note that the STROBE checklist and work preparation guidelines were also followed. Comparing the present study with the existing literature highlights the advantages of the relatively large sample size and detailed subgroup analyses. These analyses provide valuable insights into the specific effects of different DOAC agents on postoperative outcomes. Another strength of the current study is the use of a bleeding grading that distinguishes between prolonged hemostasis achieved on the extraction day (Grade 2 − 1) and delayed oozing occurring on or after the following day (Grade 2–2). This subdivision provides a more precise characterization of immediate versus delayed bleeding events, which may have different clinical implications for patient monitoring and postoperative instructions. Compared with the previous studies evaluating post-extraction bleeding under DOAC therapy [,,,], the current work was distinguished by its relatively larger sample size, study design, and detailed subgroup analyses, thereby providing more granular insights into the effects of individual DOACs.
+
+The present study had several limitations. Firstly, patients were not categorized according to their kidney or liver function. It is known that these functions affect the pharmacokinetics of DOACs and increase the risk of bleeding. Conversely, patients were categorized exclusively as having or not having comorbidities. While the main aim of this study was not to investigate comorbidities, future studies are recommended to classify comorbidities and expand analyses to include further investigation of bleeding-related details. Furthermore, the seven-day follow-up period may not have been long enough to detect late-onset complications such as delayed bleeding or secondary infections. Another limitation of the present study is that neither the location nor the type of extracted tooth was standardized. In addition to the highly selective eligibility criteria, standardizing the type and number of teeth extracted could have significantly reduced the sample size of this study. Although the current study focused on single tooth extractions, incorporating extractions from various types and regions of teeth could introduce bias with respect to postoperative bleeding events, pain perception and other identified clinical parameters. This constitutes a limitation of the present study, and future study designs should aim to standardize tooth type and region as much as possible. On the other hand, whilst the present study concentrated exclusively on single-tooth extractions to guarantee procedural standardization and minimize confounding, it is recommended that future studies also include patients undergoing multiple extractions or procedures involving different tooth types and surgical complexities. The external validity of the results would be enhanced by such research, which would also provide further insight into cumulative bleeding risk and analgesic needs in more complex clinical scenarios.
+
+A further limitation of the present study is that it was conducted at a single center. This is a significant limitation in terms of the comparability of the results obtained in this study with those obtained in other centers and consequently limits the generalizability of the current findings to larger populations. In this context, the design of prospective, large sample, and multicenter studies is of significance and is recommended. It is also recommended that subsequent studies endeavor to prolong the duration of follow-up periods, with the objective of more accurately assessing late complications and attaining a more profound comprehension of the clinical ramifications of bone exposure. In addition, the investigation of the use of local hemostatic agents or additional intraoperative measures in patients taking higher-risk DOACs has the potential to refine clinical studies. In addition, considering the significant developments in decision support mechanisms based on artificial intelligence and machine learning, it is important to evaluate the use of DOACs in patients with different dental and medical preoperative parameters, particularly in terms of outcomes such as postoperative bleeding grading, pain score, and oral complications, and to plan a decision tree that could assist clinicians in this context.
+
+The findings of this study suggest that dental extractions can be safely performed in patients who are continuing to take direct oral anticoagulants (DOACs), provided that meticulous surgical techniques and local hemostatic measures are employed. However, clinicians should remain vigilant, particularly when treating rivaroxaban and edoxaban users, and be prepared to promptly manage potential bleeding complications. This study provides substantial evidence in support of personalized perioperative planning for anticoagulated patients requiring dental extractions. It emphasizes the importance of balancing the risk of bleeding with the benefits of uninterrupted anticoagulation.
+
+Conclusions
+
+Within the limitations of the current study, the present study provides comprehensive evidence that dental extractions can generally be performed safely in patients continuing DOAC therapy, if careful surgical techniques and appropriate local hemostatic measures are implemented. Despite a higher incidence of postoperative bleeding, particularly among rivaroxaban and edoxaban users, the overall bleeding events remained within acceptable clinical parameters. The observation that comparable pain scores and soft tissue healing outcomes were recorded between the two groups lends further credence to the hypothesis that uninterrupted anticoagulant therapy does not adversely affect patient comfort or mucosal recovery. These findings support the implementation of an individualized, risk-based approach to perioperative management, as opposed to the utilization of a uniform protocol for all anticoagulated patients. The necessity for future multicenter studies with longer follow-up periods and stratified analyses based on specific DOAC types and patient comorbidities is evident to further refine clinical studies and enhance patient safety.

@@ -6,7 +6,7 @@ date: 2010-01-01
 doi: ""
 source: rezaei-2010-comparison-stresses-fiber-parapost-casting.md
 category: [post-and-core]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: true
 pmid: "23130023"

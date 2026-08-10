@@ -41,7 +41,7 @@ Journal of Endodontics 2025;51(6):687-706 · Joao Filipe Brochado Martins, Athin
 PubMed/Embase/WOS(~2024.3), 19편. RoB·GRADE, meta-analysis+meta-regression.
 
 ## 4. Key Results and Benchmarks
-치유율 loose 87%(81-91)/strict 36%(22-53); 성공률 loose 85%/strict 45% [근거강함]. strict 기준이 치근단 방사선 loose와 유사 - 루틴 CBCT 추적 회의.
+치유율 loose 87%(81-91)/strict 36%(22-53); 성공률 loose 85%/strict 45% [확인]. strict 기준이 치근단 방사선 loose와 유사 - 루틴 CBCT 추적 회의.
 
 ## 5. Limitations and Future Work
 기준 정의 이질, 관찰연구 포함.

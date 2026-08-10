@@ -6,7 +6,7 @@ date: 2025-05-16
 doi: 10.3390/toxins17050249
 journal: Toxins 2025;17(5):249
 source: coelho-2025-botulinum-toxin-bruxism-overview.md
-confidence: narrative-review
+evidence_level: narrative-review
 category: botulinum-toxin
 pdf_path: /Users/oracleneo/llm-wiki/papers/coelho-2025-botulinum-toxin-bruxism-overview.pdf
 pdf_filename: coelho-2025-botulinum-toxin-bruxism-overview.pdf

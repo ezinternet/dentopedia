@@ -6,7 +6,7 @@ date: 2023-06-19
 doi: 10.11607/jomi.10112
 source: qin-2023-immediate-implant-provisionalization-maxillary-esthetic-sr-ma.md
 category: [immediate-implant/esthetic-soft-tissue]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/qin-2023-immediate-implant-provisionalization-maxillary-esthetic-sr-ma.pdf
 pdf_filename: qin-2023-immediate-implant-provisionalization-maxillary-esthetic-sr-ma.pdf
 source_collection: external
@@ -46,6 +46,7 @@ PRISMA. RCT only inclusion. Random-effects MA on midfacial mucosal level, second
 ## Related Papers
 - [[immediate-implant/esthetic-soft-tissue/pitman-2022-immediate-implant-provisionalization-sr-ma]] — 동일 주제 SR+MA (Cosyn 그룹)
 - [[immediate-implant/esthetic-soft-tissue/sutariya-2022-soft-tissue-immediate-provisionalization-sr-ma]] — soft tissue PES SR+MA
+- [[immediate-implant/esthetic-soft-tissue/kinaia-2017-soft-tissue-changes-around]] — together with pitman-2022 and sutariya-2022, partially supersedes this earlier (2017) SR+MA's provisionalization-vs-not sub-analysis; Kinaia's separate IIP-vs-CIP and gingival-biotype findings are untouched.
 
 ## Sources
 - Source: 

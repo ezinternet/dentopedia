@@ -6,7 +6,7 @@ date: 2022-01-11
 doi: 10.3390/ma15020533
 source: nucera-2022-composite-attachments-clear-aligners-sr.md
 category: [orthodontics/clear-aligner]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "35057250"

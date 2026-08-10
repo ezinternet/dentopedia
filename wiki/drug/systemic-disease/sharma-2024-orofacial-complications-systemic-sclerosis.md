@@ -6,7 +6,7 @@ date: 2024-05-22
 doi: 10.1177/00220345241249408
 source: sharma-2024-orofacial-complications-systemic-sclerosis.md
 category: [drug/systemic-disease]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: true
 pmid: "38779873"
@@ -72,4 +72,4 @@ Narrative (non-systematic) review — no search strategy, pooled estimates, or q
 - [[drug/systemic-disease/shiboski-2016-acr-eular-sjogren-classification-criteria]] — reinforces: SSc carries secondary Sjögren's (≤14%); classification criteria define the sicca overlap.
 - [[drug/systemic-disease/franceschini-2017-sjogren-2016-acr-eular-criteria-commentary]] — Sjögren classification commentary, relevant to the SSc–Sjögren overlap.
 - [[drug/systemic-disease/legoff-2017-sjogren-classification-criteria-comparison]] — Sjögren criteria comparison.
-- [[drug/systemic-disease/shahi-2026-implant-outcomes-diabetes-mellitus-sr]] — contrast: another medically compromised population where implant outcomes hinge on disease control and risk assessment.
+- [[implants/survival/shahi-2026-implant-outcomes-diabetes-mellitus-sr]] — contrast: another medically compromised population where implant outcomes hinge on disease control and risk assessment.

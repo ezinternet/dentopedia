@@ -6,7 +6,7 @@ date: 2024-05-18
 doi: 10.1186/s12903-024-04365-9
 source: min-2024-essential-oil-mouthrinses-plaque-microbiome.md
 category: [oral-microbiology]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 text_path: /Users/oracleneo/llm-wiki/papers/min-2024-essential-oil-mouthrinses-plaque-microbiome.txt
 text_filename: min-2024-essential-oil-mouthrinses-plaque-microbiome.txt

@@ -7,7 +7,7 @@ doi: 10.11607/prd.6373
 pmid: "37471156"
 source: chacon-2024-cross-linked-collagen-tenting-screws-vra.md
 category: [implants/vertical-ridge-augmentation]
-confidence: case-report
+evidence_level: case-report
 text_path: /Users/oracleneo/llm-wiki/papers/chacon-2024-cross-linked-collagen-tenting-screws-vra.txt
 text_filename: chacon-2024-cross-linked-collagen-tenting-screws-vra.txt
 source_collection: pubmed-text

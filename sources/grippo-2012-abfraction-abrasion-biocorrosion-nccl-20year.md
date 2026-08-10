@@ -40,14 +40,14 @@ Landmark narrative review proposing "biocorrosion" to supplant "erosion" and a r
 - Catalogs modifying factors: saliva, tongue action, tooth form/composition/microstructure, mobility, positional prominence.
 
 ## 3. Methodology and Architecture
-- Narrative 20-year literature synthesis (no systematic protocol). [근거강함] for provenance of the schema; content itself is expert synthesis.
+- Narrative 20-year literature synthesis (no systematic protocol). [확인] for provenance of the schema; content itself is expert synthesis.
 
 ## 4. Key Results and Benchmarks
 - No quantitative outcomes; conceptual framework. Clinical significance: comprehensive history + precise terminology + schema → identify and treat etiology of root surface lesions; preventive measures when causative/modifying factors detected.
 
 ## 5. Limitations and Future Work
 - Conceptual review without empirical pooling; piezoelectric contribution to dentin biocorrosion remains weakly evidenced.
-- [미검증→확인됨] Ingested copy is a webpage capture (abstract + references); body text unavailable in PDF.
+- [확인] Ingested copy is a webpage capture (abstract + references); body text unavailable in PDF.
 
 ## 6. Related Work
 - Grippo 1991 (abfraction classification 원전), Grippo & Simring 1995 (Dental erosion revisited), Grippo 2004 (attrition/abrasion/corrosion/abfraction revisited).

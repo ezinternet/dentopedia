@@ -6,7 +6,7 @@ date: 2018-01-01
 doi: 10.1186/s40510-018-0225-1
 source: mohammed-2018-miniscrew-anatomical-site-failure-sr-ma.md
 category: [orthodontics]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/mohammed-2018-miniscrew-anatomical-site-failure-sr-ma.pdf
 pdf_filename: mohammed-2018-miniscrew-anatomical-site-failure-sr-ma.pdf
 source_collection: external

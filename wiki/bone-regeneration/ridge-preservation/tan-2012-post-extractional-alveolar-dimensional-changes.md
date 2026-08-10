@@ -6,7 +6,7 @@ date: 2011-12-28
 doi: 10.1111/j.1600-0501.2011.02375.x
 source: tan-2012-post-extractional-alveolar-dimensional-changes.md
 category: [bone-regeneration/ridge-preservation]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/tan-2012-post-extractional-alveolar-dimensional-changes.pdf
 pdf_filename: tan-2012-post-extractional-alveolar-dimensional-changes.pdf
 source_collection: external

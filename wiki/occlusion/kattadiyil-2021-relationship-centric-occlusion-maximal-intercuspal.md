@@ -6,7 +6,7 @@ date: 2021-04-01
 doi: 10.1111/jopr.13316
 source: kattadiyil-2021-relationship-centric-occlusion-maximal-intercuspal.md
 category: [occlusion]
-confidence: consensus
+evidence_level: consensus
 source_collection: pubmed-text
 full_text: false
 pmid: "33783091"

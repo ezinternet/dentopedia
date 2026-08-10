@@ -7,7 +7,7 @@ doi: "10.1111/clr.13673"
 pmid: "33017060"
 source: cucchi-2021-dptfe-titanium-mesh-vertical-ridge-rct.md
 category: [implants/vertical-ridge-augmentation]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: false
 text_path: /Users/oracleneo/llm-wiki/papers/cucchi-2021-dptfe-titanium-mesh-vertical-ridge-rct.txt

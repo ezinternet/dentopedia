@@ -6,7 +6,7 @@ date: 2015-01-01
 doi: 10.2341/14-095-BL
 source: tjaderhane-2015-dentin-bonding-can-we-make-it-last-review.md
 category: [resin-bonding]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/tjaderhane-2015-dentin-bonding-can-we-make-it-last-review.pdf
 pdf_filename: tjaderhane-2015-dentin-bonding-can-we-make-it-last-review.pdf
 source_collection: external

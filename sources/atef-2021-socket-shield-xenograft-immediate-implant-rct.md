@@ -54,7 +54,7 @@ Socket shield provides superior buccal dimensional preservation over xenograft a
 
 ## 6. Related Work
 - [[immediate-implant/socket-shield/gharpure-2022-socket-shield-conventional-implant-sr-ma]] — related
-- [[immediate-implant/wittneben-2023-immediate-implant-loaded-single-crown-sr]] — related
+- [[immediate-implant/loading-protocol/wittneben-2023-immediate-implant-loaded-single-crown-sr]] — related
 
 ## 7. Glossary
 socket shield technique: 소켓실드 기법(치근 협측 절편 보존); xenograft: 이종골(소유래 탈회골); facial mucosal recession: 협측 점막 퇴축

@@ -6,7 +6,7 @@ date: 2022-01-01
 doi: 10.1038/s41368-022-00206-z
 source: wei-2022-regenerative-endodontic-expert-consensus.md
 category: [endodontics/regenerative]
-confidence: consensus
+evidence_level: consensus
 pdf_path: /Users/oracleneo/llm-wiki/papers/wei-2022-regenerative-endodontic-expert-consensus.pdf
 pdf_filename: wei-2022-regenerative-endodontic-expert-consensus.pdf
 source_collection: external

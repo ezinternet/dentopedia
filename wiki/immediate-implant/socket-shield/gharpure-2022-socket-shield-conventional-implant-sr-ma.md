@@ -6,7 +6,7 @@ date: 2022-02-01
 doi: N/A
 source: gharpure-2022-socket-shield-conventional-implant-sr-ma.md
 category: [immediate-implant/socket-shield]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/gharpure-2022-socket-shield-conventional-implant-sr-ma.pdf
 pdf_filename: gharpure-2022-socket-shield-conventional-implant-sr-ma.pdf
 source_collection: external

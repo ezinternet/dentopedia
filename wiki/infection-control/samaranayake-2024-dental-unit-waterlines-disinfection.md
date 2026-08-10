@@ -6,7 +6,7 @@ date: 2024-11-01
 doi: 10.1016/j.identj.2024.07.1269
 source: samaranayake-2024-dental-unit-waterlines-disinfection.md
 category: [infection-control]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 pmid: "39515931"
 pmcid: "PMC11583879"

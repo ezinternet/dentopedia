@@ -6,7 +6,7 @@ date: 2020-10-30
 doi: 10.1111/jcpe.13397
 source: seyssens-2021-immediate-implant-connective-tissue-graft-sr-ma.md
 category: [immediate-implant/esthetic-soft-tissue]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/seyssens-2021-immediate-implant-connective-tissue-graft-sr-ma.pdf
 pdf_filename: seyssens-2021-immediate-implant-connective-tissue-graft-sr-ma.pdf
 source_collection: external
@@ -47,7 +47,7 @@ Thin biotype 또는 협측 골 결손 risk가 있는 IIP에서 CTG 동반이 mid
 
 ## Related Papers
 - [[immediate-implant/esthetic-soft-tissue/azadi-2025-soft-tissue-grafting-immediate-implant-bayesian-nma]] — soft tissue graft NMA — CTG vs 대체재
-- [[immediate-implant/seyssens-2022-immediate-implant-socket-grafting-sr-ma]] — Cosyn 시리즈 — socket grafting
+- [[immediate-implant/gap-grafting/seyssens-2022-immediate-implant-socket-grafting-sr-ma]] — Cosyn 시리즈 — socket grafting
 - [[immediate-implant/esthetic-soft-tissue/pitman-2022-immediate-implant-provisionalization-sr-ma]] — Cosyn 시리즈 — immediate provisionalization
 
 ## Sources

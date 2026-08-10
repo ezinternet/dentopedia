@@ -1,0 +1,102 @@
+Title: Cleaning Effectiveness and Postoperative Pain Associated With Rotary Instrumentation in Primary Teeth: An Umbrella Review of Systematic Evidence
+Authors: Kavitha Swaminathan, Sushmita Shan, Esther Kirubakaran, Vaishnavi Padmanabhan, Ramanathan Ravi, Selvakumar Haridoss
+Journal: Cureus, 2025;17(7):e87369
+PMID: 40772175
+PMCID: PMC12325778
+DOI: 10.7759/cureus.87369
+Publication date: 2025-07-06
+
+Abstract:
+Rotary instrumentation in primary teeth pulpectomy is gaining popularity due to its potential to improve procedural efficiency and clinical outcomes. While existing systematic reviews and meta-analyses (SRMAs) have explored rotary techniques, comparative evaluations of specific clinical endpoints, particularly cleaning effectiveness and postoperative pain, remain fragmented. This umbrella review synthesised evidence from SRMAs assessing rotary versus manual instrumentation in primary teeth, focusing on these two critical outcomes. A comprehensive literature search was conducted across six databases and grey literature until May 2025. Two eligible SRMAs were included: one addressed both cleaning effectiveness and postoperative pain, while the other focused solely on cleaning outcomes. Owing to clinical and statistical heterogeneity, meta-analysis was not feasible. Methodological quality appraisal using AMSTAR-2 rated one review as high confidence and the other as low confidence. According to the GRADE assessment, the certainty of evidence was low for cleaning effectiveness and moderate for postoperative pain, primarily due to inconsistency and imprecision. The findings suggest that rotary instrumentation may offer advantages in obturation quality and postoperative comfort in primary teeth. However, the limited number of high-confidence SRMAs and heterogeneity in outcome reporting underscore the need for standardised research protocols in pediatric endodontics.
+
+=== Full Text ===
+
+Introduction and background
+
+Primary teeth endodontics aims to preserve the health, function, and integrity of primary teeth until their natural exfoliation. This is especially critical as primary teeth play a vital role in maintaining arch integrity, phonation, mastication, and guidance of permanent successors. Traditional hand instrumentation in primary teeth pulpectomy is often time-consuming, operator-dependent, and uncomfortable for young patients, leading to procedural fatigue and potential behavioral challenges during treatment. With the introduction of nickel-titanium (NiTi) rotary instruments in pediatric dentistry, significant improvements have been noted in shaping ability, reduction of chairside time, and procedural predictability, thereby improving patient compliance and clinical outcomes.
+
+Several systematic reviews and meta-analyses have compared rotary versus manual instrumentation in primary teeth, focusing on various parameters such as instrumentation time, obturation quality, and apical debris extrusion. Chugh et al. highlighted the improved obturation quality with rotary systems, whereas Gala et al. emphasised reduced postoperative pain and procedural efficiency. However, many of these studies are limited by methodological inconsistencies, in vitro designs, or broad outcome scopes, often lacking a comprehensive synthesis of clinically relevant endpoints such as postoperative pain and cleaning efficacy. Two important outcome measures in pulpectomy are cleaning effectiveness, the ability to remove necrotic tissue and debris from the root canal and postoperative pain, a key indicator of patient comfort and procedural success. Cleaning effectiveness is often inferred from obturation quality, which reflects how completely and homogeneously the canal is filled, and may also be influenced by apical debris extrusion, the unintended pushing of debris beyond the root apex that can provoke inflammation or pain. A growing body of literature indicates that rotary instrumentation may provide superior debridement and fewer procedural errors, yet the quantitative evidence supporting these benefits in primary teeth, particularly concerning cleaning effectiveness and patient-reported pain, remains fragmented and inconclusive.
+
+In contrast to the umbrella analysis by Patnana et al., which provided a broad overview of clinical outcomes associated with rotary and manual instrumentation in pediatric endodontics, the present review specifically addresses two core outcomes: cleaning effectiveness and postoperative pain in primary teeth. Furthermore, our study incorporates a more rigorous methodological appraisal using both AMSTAR-2 and GRADE frameworks, alongside a quantitative assessment of review overlap via the corrected covered area (CCA). These additions enhance the reliability and specificity of our findings, offering clearer clinical implications for primary tooth pulpectomy.
+
+Review
+
+Materials and methods
+
+This umbrella review was conducted following the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines. The protocol was registered with the International Prospective Register of Systematic Reviews (PROSPERO; ID: CRD42024590194).
+
+Literature Search
+
+A comprehensive search was performed across six major databases: PubMed, Scopus, Cochrane Library, Web of Science, Google Scholar, and OpenGrey. The final search was executed on May 26, 2025. The search strategy used a combination of keywords and Medical Subject Headings (MeSH) terms including "pulpectomy," "primary teeth," "rotary instrumentation," "manual instrumentation," "cleaning effectiveness," and "postoperative pain." Boolean operators (AND/OR) were used to combine terms, and search filters were applied for language (English), study type (systematic reviews and meta-analyses), and human studies.
+
+Eligibility Criteria
+
+Studies were selected based on the PICOS framework. The population included children undergoing pulpectomy in primary teeth. The intervention was rotary instrumentation, compared against manual or hand instrumentation. The primary outcomes assessed were cleaning effectiveness and postoperative pain. Only systematic reviews and meta-analyses (SRMAs) that included randomised controlled trials (RCTs) conducted on primary teeth were eligible for inclusion. In vitro studies, narrative reviews, and studies involving permanent teeth were excluded.
+
+Study Selection and Data Extraction
+
+All retrieved records were imported into Rayyan for screening. Two independent reviewers performed title and abstract screening, followed by full-text assessment. Discrepancies were resolved through discussion or consultation with a third reviewer. Data were extracted into a standardised Excel sheet, including author details, publication year, sample characteristics, outcome measures, and statistical findings. Cleaning effectiveness was operationalised through obturation quality (e.g., optimal fill, absence of voids), while postoperative pain was measured at defined intervals (6 hours, 12 hours, 24 hours).
+
+Methodological Quality Appraisal
+
+The quality of the included systematic reviews was appraised using a measurement tool to assess systematic reviews (AMSTAR-2), which is a validated instrument for evaluating systematic reviews that include randomised or non-randomised studies of healthcare interventions. AMSTAR-2 includes 16 domains, of which 7 are considered critical (e.g., protocol registration, adequacy of the literature search, assessment of risk of bias, and methods for meta-analysis). Each item was evaluated independently by two reviewers, with disagreements resolved through discussion. Reviews were classified as high, moderate, low, or critically low confidence based on the presence of critical and non-critical weaknesses, as per AMSTAR-2 guidance.
+
+Certainty of Evidence Assessment
+
+The certainty of evidence for each outcome was assessed using the grading of recommendations assessment, development and evaluation (GRADE) framework. This approach evaluates five domains-risk of bias, inconsistency, indirectness, imprecision, and publication bias-for each outcome of interest. Based on this appraisal, the quality of evidence was categorised as high, moderate, low, or very low. Two reviewers independently performed the GRADE assessment, with consensus reached through discussion.
+
+Data Synthesis and Analysis
+
+A quantitative synthesis (meta-analysis) was planned for outcomes reported across multiple SRMAs. However, due to considerable heterogeneity in definitions, measurement units, and comparators, a meta-analysis was not performed for cleaning effectiveness and postoperative pain.
+
+Results
+
+Study Selection
+
+The initial search yielded 287 records from six databases and one register. After removing 22 duplicates and 51 records excluded by automation tools, 214 records were screened. Following title and abstract review, 42 full-text articles were assessed for eligibility. Ultimately, two systematic reviews and meta-analyses (SRMAs) met the inclusion criteria for this umbrella review. A PRISMA 2020 flowchart summarises the selection process.
+
+Study Characteristics
+
+The two included SRMAs, Khadmi et al. and Faghihian et al., evaluated outcomes related to rotary versus manual instrumentation in pulpectomy of primary teeth. While all included meta-analyses of randomised controlled trials (RCTs), each focused on different outcomes. Khadmi et al. assessed both cleaning effectiveness and postoperative pain, and Faghihian et al. exclusively analysed cleaning effectiveness. The rotary systems assessed in the included studies varied (e.g., ProTaper, Kedo-S), and outcome measures were defined in terms of obturation quality and postoperative pain evaluated at specific intervals (6 hours, 24 hours, and 48 hours).
+
+Quality Assessment (AMSTAR-2)
+
+The methodological quality of the two included systematic reviews and meta-analyses (SRMAs) was evaluated using the AMSTAR-2 tool. Khadmi et al. was rated as high quality, with low risk of bias across all domains, including a comprehensive literature search, duplicate study selection, risk of bias assessment, and reporting of funding. Faghihian et al. was rated as low confidence, primarily due to the absence of a registered protocol, lack of funding disclosure, and partial risk of bias integration in synthesis.
+
+Synthesis of Results
+
+Due to the methodological heterogeneity, pooled analysis was not feasible. Instead, a CCA heatmap was created to visualise study overlap. The CCA between the two reviews was calculated to be 0.15, indicating low overlap in included studies (all 7 studies in Faghihian et al. were also included in Khadmi et al.). The overall certainty of evidence for cleaning effectiveness and postoperative pain was assessed using the GRADE framework. The GRADE assessment rated the certainty of evidence as 'Low' for cleaning effectiveness and 'Moderate' for postoperative pain due to inconsistency and imprecision in the underlying studies.
+
+Table 1 - Key characteristics of included systematic reviews and meta-analyses:
+
+Khadmi I et al. 2025 - "Different outcomes of rotary and manual instrumentation in primary teeth pulpectomy: a systematic review and meta-analysis" - European Archives of Paediatric Dentistry - SRMA, 47 trials / 2936 sample, age 3-12y. Rotary systems: WaveOne, ProTaper Next, Hyflex EDM, K3, ProDesign Logic, Kedo S, RaCe, Prime Pedo, ProTaper Universal, HERO Shaper, Pedo-Flex, Kedo-SG, Pro-AF Baby Gold, S2 ProTaper, Mtwo, Fanta AF Baby, Flexicon X7, Hyflex CM, Rotary Flex Master, XP-endo Shaper, ProTaper Gold, Revo-S, WaveOne GOLD, LightSpeed LSX, etc. Comparator: manual K files, Kedo-SH hand files, H files, manual NiTi K files. Both outcomes reported. Cleaning effectiveness: obturation quality via subgroup analysis (Root/Teeth units) + void presence, meta-analysed. Postoperative pain: binary pain-absence at 6h/24h/48h using Wong-Baker FACES, Modified Wong-Baker, Four-point pain intensity scales. Obturation materials: primarily ZOE and Metapex; few studies used Ca(OH)2 + ZOE. Effect sizes (cleaning): Root OR=1.66 (95% CI 1.25-2.21, p=0.0005, I²=49%); Teeth OR=2.62 (95% CI 2.00-3.44, p<0.00001, I²=0%); Voids OR=4.29 (95% CI 2.34-7.87, p<0.00001, I²=22%). Effect sizes (pain): 6h OR=3.37 (95% CI 2.40-4.74, p=0.00001, I²=11%); 24h OR=2.23 (95% CI 1.40-3.54, p=0.0007, I²=38%); 48h OR=2.27 (95% CI 1.29-3.99, p=0.004, I²=0%). Risk of bias tool: RoB 2.0. Summary: rotary instruments reduced instrumentation and obturation time; postoperative pain incidence significantly lower with rotary at 6/24/48h; no significant difference in clinical success at 3 and 6 months. AMSTAR-2: High confidence.
+
+Faghihian R et al. 2022 - "Rotary versus manual instrumentation for root canal preparation in primary teeth: a systematic review and meta-analysis of clinical trials" - Contemporary Clinical Dentistry - SRMA of clinical trials, 7 articles / 341 sample, age 3-9y. Rotary systems: ProTaper, K3, Mtwo, Hyflex-CM, Kedo-S, FlexMaster, LightSpeed LSX. Comparator: manual K files. Cleaning effectiveness reported (obturation quality: optimum/overfilled/underfilled; canal preparation efficacy; radiographic success); postoperative pain not reported. Obturation materials: ZOE in most studies, not explicitly stated for all trials. Effect sizes: Optimum obturation OR=3.53 (95% CI 1.79-6.97); Overfilled OR=0.58 (95% CI 0.27-1.26); Underfilled OR=0.45 (95% CI 0.19-1.11). Risk of bias tool: RoB 2.0. Summary: rotary techniques reduced instrumentation time by 1.79 minutes vs manual; rotary files did not decrease risk of underfilling/overfilling vs manual; all included articles at high risk of bias due to lack of allocation concealment. AMSTAR-2: Low confidence.
+
+Table 2 - AMSTAR-2 domain-level assessment: Both reviews scored Yes on PICO components, justification of study designs, comprehensive literature search, duplicate study selection, duplicate data extraction, list of excluded studies with justification, adequate description of included studies, risk of bias assessment, appropriate meta-analytical methods, consideration of RoB in interpretation, explained heterogeneity, and conflict of interest declaration. Both scored No on protocol registration prior to review, funding source reporting, and publication bias assessment. Both scored Partial on assessment of RoB impact on meta-analysis results. Overall confidence: Khadmi et al. = High; Faghihian et al. = Low.
+
+Table 3 - GRADE summary of findings:
+- Cleaning effectiveness: 2 studies (RCTs), no serious risk-of-bias limitations, serious inconsistency, not serious indirectness, serious imprecision, publication bias undetected → Quality of evidence: Low.
+- Postoperative pain: 1 study (RCT), no serious risk-of-bias limitations, not serious inconsistency, not serious indirectness, not serious imprecision, publication bias undetected → Quality of evidence: Moderate.
+
+Discussion
+
+Despite notable advancements in primary teeth endodontics, the optimal instrumentation strategy for primary teeth remains a subject of clinical debate. Conventional manual files, though familiar and widely adopted, are often criticised for prolonged treatment duration and variability in obturation outcomes, particularly in younger, less cooperative patients. In contrast, rotary instrumentation offers mechanical precision and efficiency, potentially enhancing procedural consistency and reducing chairside time. This umbrella review was undertaken to bridge the gap by synthesising high-level evidence focused solely on cleaning effectiveness and postoperative pain.
+
+Khadmi et al. and Faghihian et al. reported improvements in obturation quality and reduced pain levels with rotary techniques, suggesting a more efficient and child-friendly approach. Although a consistent trend toward improved clinical parameters was observed with rotary instrumentation, the limited number of included SRMAs and outcome variability necessitate cautious interpretation. Khadmi et al. provided temporal data for pain outcomes (6h, 12h, 24h), adding depth to the assessment. The AMSTAR-2 and GRADE tools confirmed high methodological rigor for one review and low for the other, with evidence certainty ranging from low (cleaning effectiveness) to moderate (postoperative pain).
+
+An additional variable that may have influenced clinical outcomes is the type of obturation material used. In most included studies, Zinc Oxide Eugenol (ZOE) was the most commonly employed material. Several recent trials, particularly in Khadmi et al., also utilised Metapex, an iodoform-based calcium hydroxide paste. A few studies used combinations such as Calcium Hydroxide with ZOE. The variability in obturation materials may partially account for differences in postoperative pain and obturation quality, although this was not systematically analysed in either SRMA. Future meta-analyses may benefit from stratifying outcomes based on obturation material.
+
+The clinical applicability of findings is influenced not only by instrumentation type but also by operator experience and setting. In low-resource environments, access to NiTi rotary instruments, training programs, and endodontic equipment may be limited, affecting implementation of standardised treatment protocols. Studies have reported variations in instrumentation adoption among practitioners due to economic and logistical constraints.
+
+Variability in outcomes such as pain and obturation quality could be influenced by subjective measurement tools and inconsistent follow-up durations; the scales and time-points used for postoperative pain were not standardised across studies. Bonzanini et al. (2021) cautioned about the risk of canal transportation with rotary systems in curved canals, a reminder that technique sensitivity and case selection remain critical.
+
+Strengths: clearly defined protocol (PROSPERO ID: CRD42024590194), duplicate screening and quality assessment, use of validated tools (AMSTAR-2 and GRADE), and focus on pediatric outcomes (particularly pain). Limitations: small number of eligible SRMAs (only 2) and inability to conduct pooled effect size estimations due to heterogeneity.
+
+Future research should prioritise development of core outcome sets for pediatric endodontic trials, with standardised pain metrics and consistent obturation evaluation protocols. Well-designed, multicenter RCTs are needed to provide more homogeneous data and facilitate high-certainty meta-analyses.
+
+Conclusions
+
+This umbrella review synthesised high-level evidence from two systematic reviews and meta-analyses on the effectiveness of rotary instrumentation in primary tooth pulpectomy, specifically focusing on cleaning quality and postoperative pain. While the findings favour rotary systems in terms of obturation quality and reduced postoperative discomfort, the conclusions must be interpreted cautiously due to methodological heterogeneity and variations in obturating materials across included studies. Zinc oxide-eugenol was the most commonly used obturation material, but several trials employed alternatives such as metapex and calcium hydroxide combinations, which may have influenced radiographic and clinical outcomes. The CCA value of 0.15 indicates low overlap between reviews, further highlighting the fragmented nature of the current evidence base. Future randomised controlled trials should adopt standardised pain scales such as the Wong-Baker Faces or FLACC scale, ensure consistent time-point assessments for pain outcomes, utilise core outcome sets specific to primary endodontics, and establish calibration protocols for evaluating obturation quality. Additionally, greater emphasis is needed on real-world implementation factors such as operator experience and resource availability, particularly in low-resource settings.
+
+Keywords: amstar 2, cleaning effectiveness, meta-analysis, pediatric dentistry, postoperative pain, pulpectomy, rotary instrumentation, systematic review, umbrella review

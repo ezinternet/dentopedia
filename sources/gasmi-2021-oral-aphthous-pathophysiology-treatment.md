@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-Adds a pathophysiology-plus-treatment-ladder reference for aphthous ulcers, complementing [[oral-medicine/belenguer-guallar-2014-recurrent-aphthous-stomatitis-review]] and [[oral-medicine/manfredini-2021-recurrent-aphthous-stomatitis-treatment]].
+Adds a pathophysiology-plus-treatment-ladder reference for aphthous ulcers, complementing [[oral-medicine/aphthous-stomatitis/belenguer-guallar-2014-recurrent-aphthous-stomatitis-review]] and [[oral-medicine/aphthous-stomatitis/manfredini-2021-recurrent-aphthous-stomatitis-treatment]].
 
 ## Three-line Summary
 

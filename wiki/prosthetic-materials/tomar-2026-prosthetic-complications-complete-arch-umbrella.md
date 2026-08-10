@@ -6,7 +6,7 @@ date: 2026-07-01
 doi: 10.1016/j.prosdent.2026.03.013
 source: tomar-2026-prosthetic-complications-complete-arch-umbrella.md
 category: [prosthetic-materials]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/tomar-2026-prosthetic-complications-complete-arch-umbrella.pdf
 pdf_filename: tomar-2026-prosthetic-complications-complete-arch-umbrella.pdf
 source_collection: external
@@ -68,7 +68,7 @@ AMSTAR-2 confidence of the 7 included reviews: 1 high (Wong 2018), 5 moderate (D
 
 ## Related Papers
 
-- [[prosthetic-materials/khurshid-2025-screw-vs-cement-crown-complications]] — prospective single-crown screw- vs cement-retained complication comparison; this umbrella review extends the same retention-type biological-complication pattern (cement > screw for peri-implant disease) to the complete-arch context.
-- [[prosthetic-materials/hamed-2020-screw-vs-cement-implant-sr]] — SR (12 studies) on screw vs cement implant restorations; reinforces no significant survival difference between retention types, consistent with this umbrella review's finding.
+- [[prosthetic-materials/abutment-screw/khurshid-2025-screw-vs-cement-crown-complications]] — prospective single-crown screw- vs cement-retained complication comparison; this umbrella review extends the same retention-type biological-complication pattern (cement > screw for peri-implant disease) to the complete-arch context.
+- [[prosthetic-materials/abutment-screw/hamed-2020-screw-vs-cement-implant-sr]] — SR (12 studies) on screw vs cement implant restorations; reinforces no significant survival difference between retention types, consistent with this umbrella review's finding.
 - [[prosthetic-materials/laumbacher-2021-zirconia-prosthetic-restorations-long-term-sr]] — summary of 38 SRs on zirconia restorations; reinforces that veneering-ceramic chipping is the most frequent technical complication and that monolithic zirconia outperforms veneered zirconia, now confirmed statistically (P<.05) at the complete-arch level by this paper.
-- [[prosthetic-materials/tomar-2025-cement-vs-screw-zirconia-crown-sr-ma]] — SR+MA on cement vs screw zirconia crowns; same first author's prior single-unit-level work, extended here to full-arch prostheses.
+- [[prosthetic-materials/abutment-screw/tomar-2025-cement-vs-screw-zirconia-crown-sr-ma]] — SR+MA on cement vs screw zirconia crowns; same first author's prior single-unit-level work, extended here to full-arch prostheses.

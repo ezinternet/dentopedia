@@ -6,7 +6,7 @@ date: 2014-06-20
 doi: 10.1371/journal.pone.0100624
 source: chrcanovic-2014-flapless-vs-conventional-implant-surgery-ma.md
 category: [implants]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/chrcanovic-2014-flapless-vs-conventional-implant-surgery-ma.pdf
 pdf_filename: chrcanovic-2014-flapless-vs-conventional-implant-surgery-ma.pdf
 source_collection: external
@@ -62,6 +62,6 @@ Chrcanovic et al. (2014) conducted a PRISMA-compliant meta-analysis comparing fl
 
 ## Related Papers
 
-- [[implants/benic-2014-loading-protocols-single-implant-crowns-sr-ma]] — complementary SR+MA on implant loading protocols from same year
-- [[implants/berglundh-2018-peri-implant-diseases-conditions-consensus]] — consensus on peri-implant tissue conditions relevant to surgical approach outcomes
-- [[implants/buser-2017-modern-implant-dentistry-osseointegration-50years]] — historical context for evolving implant surgical protocols
+- [[implants/loading-protocol/benic-2014-loading-protocols-single-implant-crowns-sr-ma]] — complementary SR+MA on implant loading protocols from same year
+- [[implants/peri-implantitis/berglundh-2018-peri-implant-diseases-conditions-consensus]] — consensus on peri-implant tissue conditions relevant to surgical approach outcomes
+- [[implants/surface/buser-2017-modern-implant-dentistry-osseointegration-50years]] — historical context for evolving implant surgical protocols

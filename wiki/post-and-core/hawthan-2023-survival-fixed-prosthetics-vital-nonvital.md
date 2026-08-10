@@ -7,7 +7,7 @@ doi: 10.1111/jopr.13735
 pmid: "37455556"
 source: hawthan-2023-survival-fixed-prosthetics-vital-nonvital.md
 category: post-and-core
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: false
 tags: []

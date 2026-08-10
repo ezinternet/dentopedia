@@ -6,7 +6,7 @@ date: 2026-02-27
 doi: 10.1155/crid/5525524
 source: lin-2026-biomimetic-adhesive-cracked-tooth-single-visit.md
 category: cracked-tooth
-confidence: case-report
+evidence_level: case-report
 pdf_path: /Users/oracleneo/llm-wiki/papers/lin-2026-biomimetic-adhesive-cracked-tooth-single-visit.txt
 pdf_filename: lin-2026-biomimetic-adhesive-cracked-tooth-single-visit.txt
 source_collection: pubmed-text

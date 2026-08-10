@@ -6,7 +6,7 @@ date: 2024-01-01
 doi: 10.1016/j.sdentj.2023.12.007
 journal: The Saudi Dental Journal, 36 (2024) 428–442
 source: rosa-2024-do-dental-implants-bone-types.md
-confidence: sr+ma
+evidence_level: sr+ma
 category: implants
 pdf_path: /Users/oracleneo/llm-wiki/papers/rosa-2024-do-dental-implants-bone-types.pdf
 pdf_filename: rosa-2024-do-dental-implants-bone-types.pdf

@@ -6,7 +6,7 @@ date: 2024-12-13
 doi: 10.1111/cid.13427
 source: estrin-2025-extended-prf-lateral-window-sinus.md
 category: sinus-lift/lateral
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/estrin-2025-extended-prf-lateral-window-sinus.pdf
 pdf_filename: estrin-2025-extended-prf-lateral-window-sinus.pdf
 source_collection: external

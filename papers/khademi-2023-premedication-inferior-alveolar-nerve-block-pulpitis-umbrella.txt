@@ -1,0 +1,67 @@
+Title: Effect of premedication on the success of inferior alveolar nerve block in patients diagnosed with irreversible pulpitis: An umbrella review
+
+PMID: 37483905
+PMCID: PMC10361269
+Journal: Dental Research Journal (Isfahan), 2023;20:75
+Authors: Abbasali Khademi, Pedram Iranmanesh, Neda Mosayebi, Mahboobeh Heydari, Shervin Bagherieh
+
+ABSTRACT
+Successful management of pain during endodontic treatment is essential for both patients and dentists. Achieving adequate pulp anesthesia in mandibular molars is a significant concern for patients with irreversible pulpitis during endodontic treatment. The increased sensitization of nociceptors due to inflammation decreases the success of inferior alveolar nerve block (IANB). The main focus is on reducing inflammation before delivery of local anesthesia to increase the success of anesthetic drugs. This umbrella review aimed to revise, qualify and summarize the existing body of evidence on the effect of premedication on IANB in patients with irreversible pulpitis. A literature search was conducted using electronic databases (PubMed, Scopus, the Web of Science, and the Cochrane Library) with no date restriction until September 2021 to identify the relevant studies. All the cross-references of the selected studies and grey literature were also screened. Four systematic reviews assessing the effect of premedication on the success of IANB were selected. A conclusion was drawn that premedication with >400 mg of ibuprofen can positively affect the success of IANB.
+
+INTRODUCTION
+A systematic review is a method of study that uses scientific ways to identify and collect quantitative or quantitative findings of all studies related to a question at the highest level required in health research. Successful management of pain during endodontic treatment is essential for both patients and dentists. Achieving adequate pulp anesthesia is a significant concern for patients with irreversible pulpitis during endodontic treatment. Practitioners commonly use the inferior alveolar nerve block (IANB) technique to achieve pulp anesthesia in mandibular teeth. Researchers observed that the IANB failure rate was between 43% and 83% in patients with irreversible pulpitis. The researchers have mainly related IANB failure in teeth with irreversible pulpitis to inflammation in the pulp. Inflammation occurs through the production of prostaglandins, which are involved in causing and enhancing pain, from arachidonic acid in cell membranes by cyclooxygenase enzymes. The increased sensitization of nociceptors due to inflammation decreases the success of IANB. The main focus is on reducing inflammation before delivery of local anesthesia to increase the success of anesthetic drugs. It has been suggested that reducing prostaglandin levels may increase the local anesthetic effects. This umbrella review aimed to revise, qualify and summarize the existing body of evidence on the effect of premedication on IANB in patients diagnosed with irreversible pulpitis in molar teeth.
+
+MATERIALS AND METHODS
+This umbrella review was undertaken following PRISMA guidelines; protocol registered in PROSPERO (CRD42021286004).
+
+Review question (PICO): Does premedication (I) improve the success rate of IANB (O) compared to placebo (C) in adult patients (P) diagnosed with irreversible pulpitis in molar teeth?
+
+Sources: PubMed (MEDLINE), Scopus, Web of Science, and Cochrane Library of systematic reviews reviewed up to September 15, 2021. No date restrictions; English only. Hand search of reference lists; OpenGrey, ProQuest, WorldCat searched for grey literature.
+
+Eligibility criteria: included records had to report the anesthetic solution used and the premedication drug, and clarify the method of checking proper anesthesia (no response to electric pulp tester (EPT), no pain during access cavity preparation or instrumentation). Excluded: network meta-analyses, literature/critical reviews, letters to editor, case reports/series, observational or clinical studies.
+
+Study selection: two reviewers (S.B., N.M.) independently screened titles/abstracts and full texts; disagreements resolved by a third reviewer (A.K.).
+
+Data extraction: first author, search date, publication date, methods, methodological quality tool used, results (number of studies, meta-analysis), conclusions — extracted independently by two reviewers.
+
+Risk of bias: AMSTAR 2 (16-item checklist, 7 critical domains: items 2, 7, 9, 11, 13, 14, 15). Confidence rated critically low / low / moderate / high.
+
+Choice of best body of evidence: Jadad decision algorithm applied when premedication addressed by more than one systematic review with discordant conclusions, to select the systematic review offering the best body of evidence.
+
+RESULTS
+Literature search: initial search yielded 29 reviews; 9 duplicates removed; 16 excluded after title/abstract screening; 4 shortlisted for full-text retrieval; all 4 systematic reviews included (Nagendrababu, de Geus, Shirvani, Karapinar-Kazandag).
+
+Characteristics: of 4 selected systematic reviews, 3 performed meta-analysis (Shirvani 2017, Nagendrababu 2018, de Geus 2019); the other (Karapinar-Kazandag 2019) was a systematic review without meta-analysis. Number of RCTs included ranged 7–35. Databases searched per review ranged 2–7; only one review (de Geus) searched grey literature. At least two researchers performed data extraction and risk-of-bias assessment in each included review. Anesthetic solution used in most primary studies: 2% lidocaine with 1:100,000 epinephrine.
+
+Findings by review:
+- Nagendrababu (2018): ibuprofen >400 mg most effective premedication for increasing anesthesia success; 50 mg diclofenac and 10 mg ketorolac followed ibuprofen in effectiveness.
+- de Geus (2019): focused solely on ibuprofen premedication; single dose 1 h before treatment increased success by 79% vs placebo (placebo success rate ~20%) and reduced pain intensity.
+- Shirvani (2017): preemptive analgesics can induce superior intraoperative analgesia in irreversible pulpitis; co-administration strategies and choice of anesthetic solution may be predictors of effect; no association found between different timing/dosage of analgesics and treatment effect.
+- Karapinar-Kazandag (2019): ibuprofen and some other NSAIDs may contribute to IANB success more than acetaminophen; oral ketamine can reduce number of anesthetic cartridges needed and significantly lowers postoperative pain.
+
+Summary table (Author/year, search period, databases, n studies, n patients, quality tool, method, findings):
+- Shirvani (2017): up to March 2015; Cochrane, PubMed, Science Direct, Scopus, Google Scholar; 16 studies; 1900 patients; Cochrane RoB tool; MA; Findings: indomethacin, meloxicam, piroxicam, diclofenac potassium, acetaminophen+opioid.
+- Nagendrababu (2018): up to September 2017; PubMed, EBSCOhost, Scopus; 13 studies; 1174 patients; Cochrane RoB tool; MA; Findings: ibuprofen (>400 mg).
+- de Geus (2019): up to August 2017; PubMed, Scopus, Web of Science, LILACS, BBO, Cochrane Library, SIGLE, grey literature; 7 studies; NR patients; Cochrane RoB tool; MA; Findings: ibuprofen.
+- Karapinar-Kazandag (2019): up to April 2018; Cochrane Library, PubMed; 35 studies; NR patients; Cochrane RoB tool; SR (no MA); Findings: ibuprofen, ketamine (oral).
+
+Risk of bias (AMSTAR 2): excellent inter-examiner reliability (kappa = 0.91; 95% CI 0.89–0.92). Two reviews rated "high quality" (Nagendrababu 2018, de Geus 2019), two rated "low quality" (Shirvani 2017, Karapinar-Kazandag 2019). Major concerns: literature search strategy (no study fully satisfied AMSTAR 2 criteria) and funding-source declaration (none of the selected studies reported this item).
+
+Choice of best body of evidence: of the four studies, three addressed the same question (one only compared ibuprofen vs placebo); three included overlapping trials but Nagendrababu (2018) had higher AMSTAR 2 quality. By the Jadad algorithm, Nagendrababu (2018) was categorized as the best body of evidence.
+
+DISCUSSION
+The umbrella review sought to identify the best premedication for successful mandibular local anesthesia in adults with irreversible pulpitis requiring root canal treatment. The authors had planned a meta-analysis if the four included reviews disagreed, but since the best-evidence review (Nagendrababu) and the other reviews all concluded that premedication with 400 mg ibuprofen significantly improves IANB success, they judged no additional meta-analysis was needed — the umbrella review itself performs a qualitative/narrative synthesis, not a quantitative pooling across the four SRs.
+
+Quality of systematic reviews: two rated "high" (Nagendrababu, de Geus), two rated "low" (Shirvani, Karapinar-Kazandag) via AMSTAR 2.
+
+Strengths: three electronic databases searched; two independent reviewers for selection/extraction; only SRs of RCTs included (highest evidence level); PROSPERO registration.
+
+Limitations: heterogeneity among primary RCTs (geographic location, sample size, operator experience, criteria for diagnosing irreversible pulpitis, anesthetic volume, vasoconstrictor concentration, injection rate); language restriction to English (selection bias); inconsistent outcome criteria across primary RCTs (pulp sensitivity test e.g., cold test/EPT vs patient-reported VAS discomfort during access/pulp removal), causing interpretive uncertainty.
+
+Concluding remarks:
+- Ample evidence that premedication with ibuprofen >400 mg is associated with higher IANB success.
+- Limited studies support opioid use in irreversible pulpitis patients undergoing RCT.
+- Acetaminophen is an alternative for patients who cannot use NSAIDs (e.g., aspirin allergy) but is less effective than ibuprofen for IANB success.
+- Ibuprofen <400 mg has no significant effect on IANB success.
+
+Financial support: Nil. Conflicts of interest: none declared.

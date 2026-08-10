@@ -6,7 +6,7 @@ date: 2022-11-21
 doi: 10.34172/jlms.2022.50
 source: asnaashari-2022-cap-calcium-hydroxide-triple-antibiotic-efaecalis.md
 category: [endodontics/cold-plasma]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/asnaashari-2022-cap-calcium-hydroxide-triple-antibiotic-efaecalis.pdf
 pdf_filename: asnaashari-2022-cap-calcium-hydroxide-triple-antibiotic-efaecalis.pdf
 source_collection: external

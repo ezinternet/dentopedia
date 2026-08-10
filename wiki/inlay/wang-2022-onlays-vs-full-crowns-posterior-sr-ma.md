@@ -6,7 +6,7 @@ date: 2022-01-01
 doi: 10.1186/s13005-022-00337-y
 source: wang-2022-onlays-vs-full-crowns-posterior-sr-ma.md
 category: [inlay]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/wang-2022-onlays-vs-full-crowns-posterior-sr-ma.pdf
 pdf_filename: wang-2022-onlays-vs-full-crowns-posterior-sr-ma.pdf
 source_collection: external

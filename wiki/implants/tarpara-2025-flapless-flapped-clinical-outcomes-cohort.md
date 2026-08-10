@@ -6,7 +6,7 @@ date: 2025-04-18
 doi: "10.7759/cureus.82547"
 source: tarpara-2025-flapless-flapped-clinical-outcomes-cohort.md
 category: [implants]
-confidence: prospective
+evidence_level: prospective
 source_collection: pubmed-text
 full_text: true
 pmid: "40390720"
@@ -63,6 +63,6 @@ This pragmatic prospective cohort compared flapless and flapped placement of sin
 
 ## Related Papers
 
-- [[implants/surendra-2025-flapless-versus-flapped-crestal-bone]] — contradicts: an RCT (n=40) found flapless preserved significantly more crestal bone at 3 and 6 months; this cohort found no crestal difference at 12 months.
+- [[implants/mbl/surendra-2025-flapless-versus-flapped-crestal-bone]] — contradicts: an RCT (n=40) found flapless preserved significantly more crestal bone at 3 and 6 months; this cohort found no crestal difference at 12 months.
 - [[immediate-implant/pitman-2023-immediate-implant-flap-flapless-sr-ma]] — flap-vs-flapless SR+MA in the immediate-implant setting.
 - [[bone-regeneration/ridge-preservation/araujo-2009-ridge-alterations-flap-vs-flapless]] — foundational flap-vs-flapless dimensional-change comparison.

@@ -39,7 +39,7 @@ Clinically, smoking is not an absolute contraindication but is a well-quantified
 Three databases searched (MEDLINE/OVID, EMBASE, Cochrane CENTRAL) to May 2024, updated March 2025. Studies reporting implant failure/survival in tobacco smokers or smoke-free product users vs non-smokers with ≥1 year post-loading follow-up (1 to 17 years across studies) were included; CBL and biological complications also extracted. Random-effects (DerSimonian-Laird) meta-analysis of OR for survival, α = 0.01.
 
 ## 4. Key Results
-[근거강함] 41 of 44 studies addressed cigarette smoking specifically. Implant-level survival OR 0.40 (95% CI 0.27-0.61, p<0.001); patient-level survival OR 0.43 (95% CI 0.20-0.90, p=0.02); CBL +0.64 mm (95% CI 0.29-0.99, p<0.001) in smokers vs non-smokers. Majority of studies report higher peri-implantitis incidence in smokers. GRADE quality of evidence: low. Data on smoke-free tobacco and e-cigarette users insufficient for pooled analysis.
+[확인] 41 of 44 studies addressed cigarette smoking specifically. Implant-level survival OR 0.40 (95% CI 0.27-0.61, p<0.001); patient-level survival OR 0.43 (95% CI 0.20-0.90, p=0.02); CBL +0.64 mm (95% CI 0.29-0.99, p<0.001) in smokers vs non-smokers. Majority of studies report higher peri-implantitis incidence in smokers. GRADE quality of evidence: low. Data on smoke-free tobacco and e-cigarette users insufficient for pooled analysis.
 
 ## 5. Limitations
 - All included studies observational; GRADE-rated low quality of evidence.

@@ -6,7 +6,7 @@ date: 2018-02-21
 doi: 10.1371/journal.pone.0191942
 source: kruly-2018-low-shrinkage-vs-methacrylate-resin-ma.md
 category: [resin]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/kruly-2018-low-shrinkage-vs-methacrylate-resin-ma.pdf
 pdf_filename: kruly-2018-low-shrinkage-vs-methacrylate-resin-ma.pdf
 source_collection: external

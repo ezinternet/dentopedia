@@ -6,7 +6,7 @@ date: 2026-06-06
 doi: N/A
 source: N/A
 category: overviews
-confidence: synthesis
+evidence_level: synthesis
 pdf_path: N/A
 pdf_filename: N/A
 source_collection: internal
@@ -70,7 +70,7 @@ In traumatized immature permanent teeth (IPT), thin dentinal walls and the large
 | Pooled survival | 97.1% | 97.8% | NS |
 | Pooled success | 94.6% | 91.3% | NS |
 
-Evidence level: LOW (predominantly case series/retrospective). [근거강함 for the finding itself; design limitation acknowledged]
+Evidence level: LOW (predominantly case series/retrospective). [확인 for the finding itself; design limitation acknowledged]
 
 ---
 
@@ -82,7 +82,7 @@ Both Panda 2022 and Stefanidou 2024 report the same conclusion:
 - **Dentin wall thickness increase**: revitalization significantly > apexification (p statistically significant, both SR+MA)
 - Survival/success rates: no significant difference
 
-Clinical implication: for a child with an immature traumatized or carious necrotic permanent tooth, REP is the biologically superior choice when the primary goal is structural root completion. [합의수준]
+Clinical implication: for a child with an immature traumatized or carious necrotic permanent tooth, REP is the biologically superior choice when the primary goal is structural root completion. [확인]
 
 ---
 
@@ -91,7 +91,7 @@ Clinical implication: for a child with an immature traumatized or carious necrot
 Meschi 2023 (IEJ SR+MA, pulp necrosis + apical periodontitis):
 - Clinical symptom resolution: high in revitalization
 - Periapical radiographic healing: favorable
-- Application in mature teeth: possible but limited evidence [합의수준]
+- Application in mature teeth: possible but limited evidence [확인]
 
 Apical periodontitis alone does not disqualify a case from REP — adequate disinfection is the critical factor.
 
@@ -110,7 +110,7 @@ Session 1 (1.5% NaOCl): significant total bacterial load reduction maintained th
 Session 2 (17% EDTA): further maintained disinfection + smear layer removal.
 
 **LPRF (leukocyte and platelet-rich fibrin) as scaffold: NOT recommended.**
-2/14 LPRF cases required retreatment; 2 additional had persistent apical periodontitis at 3-year recall. The control (no LPRF) group showed full clinical and radiographic healing. [합의수준]
+2/14 LPRF cases required retreatment; 2 additional had persistent apical periodontitis at 3-year recall. The control (no LPRF) group showed full clinical and radiographic healing. [확인]
 
 Standard protocol:
 - Disinfection: 1.5% NaOCl + 17% EDTA across two sessions

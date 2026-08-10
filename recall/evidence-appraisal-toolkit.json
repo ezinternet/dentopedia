@@ -1,0 +1,49 @@
+{
+  "overview": "evidence-appraisal-toolkit",
+  "date": "2026-07-23",
+  "title": "근거 비판적 평가 도구상자 — 리콜",
+  "source_wiki": [
+    "wiki/overviews/evidence-appraisal-toolkit.md"
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "q": "메타분석에서 이질성(I²) 해석의 핵심 룰은?",
+      "opts": [
+        "I²는 클수록 근거가 강하다",
+        "I²<25%면 pooling 의미 있음, I²>75%면 pooled effect는 거의 무의미해 subgroup·메타회귀로 가야 함",
+        "I²는 표본 크기를 뜻한다",
+        "I²>75%여도 pooled effect를 그대로 인용"
+      ],
+      "ans": 1,
+      "rat": "I²<25%면 pooling 의미 있음, I²>75%면 pooled effect는 거의 무의미해 subgroup·메타회귀로 가야 함. 출판편향: funnel plot 비대칭 + Egger p<0.10이면 의심 — SR이 PROSPERO 등록·a priori PICO·독립 reviewer 2인을 갖췄다 가정 말고 Methods 직접 확인. wiki의 SR+MA 결론을 무비판 인용하지 않는 living-document 원칙의 backbone.",
+      "cite": "overviews/evidence-appraisal-toolkit"
+    },
+    {
+      "id": "q2",
+      "q": "효과측정치와 연구 디자인의 매핑, 그리고 환자 상담 룰은?",
+      "opts": [
+        "모든 디자인에서 OR을 쓴다",
+        "RCT(binary)는 RR·ARR·NNT, time-to-event는 HR·Kaplan-Meier, 환자-대조군은 OR만 가능; 상담 시 OR/HR을 ARR/NNT로 변환('흡연자 100명당 약 7명 더 실패')",
+        "환자-대조군에서 RR을 직접 계산",
+        "HR은 예후 정확도를 뜻한다"
+      ],
+      "ans": 1,
+      "rat": "효과측정치→디자인: RCT(binary)는 RR·ARR·NNT, time-to-event는 HR·Kaplan-Meier, 환자-대조군은 OR만 가능. 환자 상담: OR/HR을 ARR 또는 NNT로 변환('실패위험 HR 2.5'가 아니라 '흡연자 100명당 약 7명 더 실패'). 흔한 오류 중 하나가 HR을 예후 정확도로 오해하는 것.",
+      "cite": "overviews/evidence-appraisal-toolkit"
+    },
+    {
+      "id": "q3",
+      "q": "치과 연구에서 가장 흔한 통계 검정 미스는?",
+      "opts": [
+        "ANOVA를 3군 이상에 쓰는 것",
+        "한 환자의 양측 임플란트를 독립표본처럼 t-test로 비교 — 실제로는 paired·mixed model 필요",
+        "binary 2×2에 chi-square를 쓰는 것",
+        "time-to-event에 log-rank를 쓰는 것"
+      ],
+      "ans": 1,
+      "rat": "치과 최빈 미스는 한 환자의 양측 임플란트를 독립표본처럼 t-test로 비교(실제론 paired·mixed model 필요). 검정 선택: 연속+2군 독립은 t-test/Mann-Whitney, paired는 paired t/Wilcoxon, ≥3군은 ANOVA/Kruskal-Wallis, binary 2×2는 chi-square/Fisher, time-to-event는 log-rank. 흔한 오류엔 불멸시간편향(조기 vs 지연부하 후향비교)도 포함.",
+      "cite": "overviews/evidence-appraisal-toolkit"
+    }
+  ]
+}

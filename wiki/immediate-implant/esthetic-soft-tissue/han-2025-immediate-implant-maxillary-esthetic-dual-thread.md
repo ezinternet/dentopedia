@@ -6,7 +6,7 @@ date: 2025-03-04
 doi: 10.5051/jpis.2404240212
 source: han-2025-immediate-implant-maxillary-esthetic-dual-thread.md
 category: [immediate-implant/esthetic-soft-tissue]
-confidence: prospective
+evidence_level: prospective
 source_collection: pubmed-text
 full_text: true
 pmid: "40350771"
@@ -69,7 +69,7 @@ This Seoul National University prospective single-arm study (n=20, 17 analyzed) 
 
 ## Related Papers
 
-- [[immediate-implant/stanley-2020-five-thread-guideline-predicting-primary]] — extends: applies thread-based primary-stability reasoning to a specific dual-thread macrodesign clinically.
+- [[immediate-implant/primary-stability/stanley-2020-five-thread-guideline-predicting-primary]] — extends: applies thread-based primary-stability reasoning to a specific dual-thread macrodesign clinically.
 - [[immediate-implant/esthetic-soft-tissue/samet-2023-immediate-placement-loading-esthetic-zone]] — reinforces: independent esthetic-zone IIP data with stable soft tissue/MBL.
 - [[immediate-implant/esthetic-soft-tissue/hamilton-2023-type1a-immediate-implant-immediate-loading-esthetic-sr-ma]] — SR/MA context for Type 1 immediate placement esthetic outcomes.
 - [[immediate-implant/esthetic-soft-tissue/yang-2019-labial-bone-thickness-esthetics-iipp]] — labial/buccal bone thickness as esthetic determinant, parallel to this study's CBCT buccal-bone tracking.

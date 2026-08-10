@@ -6,7 +6,7 @@ date: 2024-05-24
 doi: 10.1038/s41415-024-7407-7
 source: stilwell-2024-occlusal-considerations-implant-maintenance.md
 category: [implants]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/stilwell-2024-occlusal-considerations-implant-maintenance.pdf
 pdf_filename: stilwell-2024-occlusal-considerations-implant-maintenance.pdf
 source_collection: external
@@ -43,5 +43,5 @@ British Dental Journal overview article on occlusal considerations for annual im
   4. Spatial changes (supra-eruption, drift)
 
 ## Related Papers
-- [[implants/berglundh-2018-peri-implant-diseases-conditions-consensus]] — peri-implant health definitions
-- [[implants/herrera-2023-prevention-treatment-peri-implant-efp]] — EFP prevention/treatment guidelines
+- [[implants/peri-implantitis/berglundh-2018-peri-implant-diseases-conditions-consensus]] — peri-implant health definitions
+- [[implants/peri-implantitis/herrera-2023-prevention-treatment-peri-implant-efp]] — EFP prevention/treatment guidelines

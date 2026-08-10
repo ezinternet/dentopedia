@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-치주치료(SRP/subgingival instrumentation)가 단순 구강 결과를 넘어 전신 대사 지표(HbA1c)를 임상적으로 의미 있게 개선한다는 최고 등급(Cochrane SR+MA) 근거로, 당뇨 환자의 치주관리 정당화에 핵심. [[periodontics/smiley-2015-nonsurgical-periodontitis-srp-guideline]]의 비외과적 SRP 효과 근거를 전신 건강(혈당 조절) 측면으로 확장하며, [[periodontics/meng-2024-nspt-cardiovascular-risk-markers-sr-ma]]의 NSPT 전신영향 주제와 짝을 이룬다.
+치주치료(SRP/subgingival instrumentation)가 단순 구강 결과를 넘어 전신 대사 지표(HbA1c)를 임상적으로 의미 있게 개선한다는 최고 등급(Cochrane SR+MA) 근거로, 당뇨 환자의 치주관리 정당화에 핵심. [[periodontics/non-surgical-instrumentation/smiley-2015-nonsurgical-periodontitis-srp-guideline]]의 비외과적 SRP 효과 근거를 전신 건강(혈당 조절) 측면으로 확장하며, [[periodontics/non-surgical-instrumentation/meng-2024-nspt-cardiovascular-risk-markers-sr-ma]]의 NSPT 전신영향 주제와 짝을 이룬다.
 
 ## Three-line Summary
 

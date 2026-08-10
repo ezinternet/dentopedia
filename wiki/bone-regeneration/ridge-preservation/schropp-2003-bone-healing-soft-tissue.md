@@ -6,7 +6,7 @@ date: 2003-08-01
 doi: ""
 source: schropp-2003-bone-healing-soft-tissue.md
 category: [bone-regeneration/ridge-preservation]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/schropp-2003-bone-healing-soft-tissue.pdf
 pdf_filename: schropp-2003-bone-healing-soft-tissue.pdf
 source_collection: external

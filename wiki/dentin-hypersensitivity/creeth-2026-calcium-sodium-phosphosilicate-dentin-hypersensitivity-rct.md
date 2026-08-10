@@ -6,7 +6,7 @@ date: 2026-04-19
 doi: 10.1016/j.jdent.2026.106710
 source: creeth-2026-calcium-sodium-phosphosilicate-dentin-hypersensitivity-rct.md
 category: [dentin-hypersensitivity]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: false
 pmid: "42013973"

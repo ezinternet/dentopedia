@@ -6,7 +6,7 @@ date: 2025-12-18
 doi: "10.1007/s10856-025-06997-x"
 source: jadhav-2026-dental-implant-surface-review.md
 category: [implants/surface]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/jadhav-2026-dental-implant-surface-review.pdf
 pdf_filename: jadhav-2026-dental-implant-surface-review.pdf
 source_collection: external

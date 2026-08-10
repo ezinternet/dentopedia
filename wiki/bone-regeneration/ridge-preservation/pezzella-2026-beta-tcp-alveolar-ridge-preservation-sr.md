@@ -6,7 +6,7 @@ date: 2026-01-01
 doi: 10.3390/jfb17050247
 source: pezzella-2026-beta-tcp-alveolar-ridge-preservation-sr.md
 category: [bone-regeneration/ridge-preservation]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/pezzella-2026-beta-tcp-alveolar-ridge-preservation-sr.pdf
 pdf_filename: pezzella-2026-beta-tcp-alveolar-ridge-preservation-sr.pdf
 source_collection: external

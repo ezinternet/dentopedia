@@ -40,7 +40,7 @@ Journal of Oral Rehabilitation 2025 (Tohoku Univ) · Itt Assoratgoon, Ramadhan H
 PRISMA-P, PROSPERO 등록. 비영어·증례·동물·SR 제외. 1867→12편.
 
 ## 4. Key Results and Benchmarks
-식립 6개월 내 교합접촉 변화가 흔함 [합의수준]. 과부하 관리 술식 다양하나 표준화 부족.
+식립 6개월 내 교합접촉 변화가 흔함 [확인]. 과부하 관리 술식 다양하나 표준화 부족.
 
 ## 5. Limitations and Future Work
 포함 12편, 측정·보철설계 이질, 정량 pooling 제한.

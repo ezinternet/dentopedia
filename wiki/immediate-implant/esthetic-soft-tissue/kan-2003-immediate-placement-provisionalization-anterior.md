@@ -6,7 +6,7 @@ date: 2003-01-01
 doi: N/A
 source: kan-2003-immediate-placement-provisionalization-anterior.md
 category: [immediate-implant/esthetic-soft-tissue]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/kan-2003-immediate-placement-provisionalization-anterior.pdf
 pdf_filename: kan-2003-immediate-placement-provisionalization-anterior.pdf
 source_collection: external

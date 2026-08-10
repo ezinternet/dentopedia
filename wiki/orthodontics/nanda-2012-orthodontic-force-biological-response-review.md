@@ -6,7 +6,7 @@ date: 2012-01-01
 doi: 10.4103/2278-0203.94769
 source: nanda-2012-orthodontic-force-biological-response-review.md
 category: [orthodontics]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/nanda-2012-orthodontic-force-biological-response-review.pdf
 pdf_filename: nanda-2012-orthodontic-force-biological-response-review.pdf
 source_collection: external

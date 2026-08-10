@@ -1,0 +1,108 @@
+Title: A comparative analysis of older patients with chewing difficulties due to temporomandibular disorders and tooth loss
+
+Authors: Jeon Hye-Mi, Kim So-Yeun, Ahn Yong-Woo, Ok Soo-Min, Jeong Sung-Hee, Ju Hye-Min
+Journal: Journal of Dental Sciences
+PMID: 39873035
+PMCID: PMC11763206
+DOI: 10.1016/j.jds.2024.07.001
+Source: PubMed Central (PMC) full text, retrieved via PubMed MCP get_full_text_article
+
+Abstract
+
+Background/purpose
+
+Chewing difficulty can contribute to psychological stress, which reduces the quality of life for older adults. The purpose of this study was to investigate and analyze the severity of masticatory discomfort, stress response, and sleep disturbance in older patients experiencing masticatory discomfort due to tooth loss or temporomandibular disorders (TMD), to find the further treatment direction for these patients.
+
+Materials and methods
+
+A total of 392 patients aged 50 years and older with mastication difficulties were analyzed. Two group of patients, those seeking prosthetic treatment due to tooth loss (n = 193) and those who were referred due to TMD-related pain discomfort (n = 199), were identified. Numeric rating scale (NRS), stress response inventory (SRI), and insomnia severity index (ISI) were used as tools to measure patients' subjective chewing discomfort, stress response, and sleep status.
+
+Results
+
+Chewing discomfort and age were found to be much higher in the prosthetic group than in the TMD group. The TMD group had significantly higher scores in five SRI parameters (tension, anger, depression, fatigue, and frustration) as well as total score and a higher percentage of clinical insomnia compared to prosthetic patients.
+
+Conclusion
+
+Since the number of remaining teeth has a significant impact on the masticatory discomfort severity, restoring the occlusion through prosthodontic treatment is important to improve masticatory function. In patients with TMD, it is necessary to assess stress response and sleep quality, and a multidisciplinary treatment approach may be necessary to effectively address masticatory discomfort.
+
+Full Text
+
+Introduction
+
+One of the main reasons for dental treatment is restoration of oral function. Mastication is the main function of the oral cavity, and it is essential for chewing and swallowing food. The masticatory structures consist of the masticatory muscles, the temporomandibular joint (TMJ), and the occlusion of the teeth. Normal mastication is dependent on the harmony between these structures. The reduced masticatory ability due to tooth loss or temporomandibular disorders (TMDs) has been found to be associated with impairments in digestion, nutrition, social interaction, cognition, and quality of life, especially in older adults.
+
+Several studies have reported that chewing ability was found to decrease significantly with an increasing tooth loss. In particular, it has been reported that absent posterior tooth is associated with impaired chewing ability, and loss of these teeth is positively correlated with age. TMD-related joint impairment also causes reduced chewing ability. TMD is a collective term for several clinical problems that involve masticatory muscles, TMJ, or both. Pain associated with the masticatory muscles or TMJ during chewing or mouth opening are the most common signs and symptoms of TMD. Age is considered a risk factor for TMD, with older people presenting with a higher prevalence of TMD. In a study by Kurita et al. that analyzed factors affecting the score of chewing ability (SCA) in patients with TMD, age was found to be a statistically significant factor, with SCA scores dropping significantly in patients over 50 years of age.
+
+Many studies have reported that TMD and tooth loss are associated with psychological stress. TMD has a complicated multifactorial etiology, and psychological factors play important roles in the generation, development, and outcome of TMD. Previous studies have reported that patients with missing or misshapen teeth feel as if they have lost a part of their body, and that the loss and discomfort manifests itself in the form of stress.
+
+Moreover, psychological factors can influence sleep quality. Sleep is an essential element of survival, by maintaining homeostasis of physical health and mental functions. A lower quality of sleep can lead to the development of somatization, obsessive compulsive disorder, depression, and anxiety, suggesting that insomnia is highly correlated with psychological problems. In addition, lack of sleep leads to a mentally sensitive state, making it difficult to control emotions and increasing the intensity of pain experienced by the patient.
+
+Although there are studies on the relationship between TMD and stress and sleep quality and the relationship between tooth loss and stress and sleep quality, to our knowledge, comparative studies between the two groups are rare. In this study, we evaluated the patients who complained of chewing difficulty, categorized them into TMD and tooth loss groups, and compared and evaluated the degree of masticatory discomfort, stress response, sleep quality, and oral condition of each group. Based on these findings, we could suggest treatment approaches for elderly patients who complain of masticatory discomfort based on its cause.
+
+Materials and methods
+
+The research protocol was approved by the Ethics Committee of Pusan National University Hospital (PNUH; approval no. 2009-002-094) and informed consent was obtained.
+
+Study sample
+
+This study was conducted from June 2018 through September 2020. The study included a total of 392 patients aged 50 years and older who visited the Dental Clinic Center at Pusan National University Hospital because they had difficulty chewing. Exclusion criteria were as follows: (1) patients with history of facial and jaw fracture, and orthognathic surgery, (2) patients who had a history of psychiatric conditions, (3) patients who had neurologic impairment or diseases (e.g., stroke, tumor, trauma, or epilepsy), (4) patients who had other systemic muscular disorders (e.g., fibromyalgia, rheumatoid arthritis). Patients were categorized into two groups: those seeking prosthetic treatment for tooth loss (193, Prosthetic group) and those referred for discomfort related to temporomandibular joint pain (199, TMD group). The Prosthetic group were free of TMD signs and symptoms. The TMD group consisted of 199 persons; each subject's clinical signs and symptoms were examined based on the Research Diagnostic Criteria for Temporomandibular Disorders (RDC/TMD) axis I guidelines.
+
+Assessment of variables
+
+Chewing ability was defined as an individual's own assessment, evaluated by chewing difficulty using numeric rating scale (NRS) from 0 to 10. The number of missing posterior teeth was recorded. Pontics of bridges were considered the same as remaining teeth, but the tooth stump and coping were excluded. The occlusal condition was classified using Eichner's index: Class A equates to contact in all 4 support zones (minimum one tooth in contact in both premolar and molar regions on each side); Class B contains 3 (B1), 2 (B2), 1 (B3) support zones, or loss of all supporting zones but support in the anterior tooth (B4); Class C has no contact at any support zone.
+
+Questionnaires
+
+Psychological profile and sleep quality were assessed with self-report instruments administered at the initial evaluation before diagnosis, in the waiting room.
+
+Insomnia
+
+Insomnia was assessed using the Insomnia Severity Index (ISI), a reliable and valid instrument, with a validated Korean version (Cho et al., 2014). Patients rated each item on a 5-point scale (0 = not at all to 4 = absolutely); total scores range 0-28, with higher scores indicating more severe insomnia. Score interpretation: 0-7 "grade 0", 8-14 "grade 1", 15-21 "grade 2", 22-28 "grade 3". A cutoff score of 15 was used as the threshold for clinically significant insomnia; a score below 8 defines remission after treatment.
+
+Psychological profiles
+
+Psychological profiles were evaluated using the Stress Response Inventory (SRI), developed by Ko et al. in Korean to measure stress levels. It includes seven symptom dimensions: tension (6 items), aggression (4 items), somatization (3 items), anger (6 items), depression (8 items), fatigue (5 items), frustration (7 items) — 39 items total, each on a 5-point Likert scale (0 = not at all to 4 = absolutely). Global score ranges 0-156, higher = more severe stress response.
+
+Statistical analysis
+
+Normality was tested with the Kolmogorov-Smirnov test. Differences between prosthetic and TMD groups for continuous variables were analyzed with independent t-test or Wilcoxon rank sum test; categorical variables with chi-square or Fisher exact test. Logistic regression (adjusted for age, sex, Eichner's class) tested contributions of group to NRS, ISI, SRI, and interaction effects. Significance threshold p < 0.05. Analyses conducted with R version 4.0.5.
+
+Results
+
+Comparison of demographic and clinical features
+
+Average age of TMD patients was significantly less than that of prosthetic patients. The prosthetic group reported significantly higher NRS scores than the TMD group (p < 0.001). Severe chewing discomfort (NRS ≥7) incidence was significantly higher in the prosthetic group (36.3%) than the TMD group (12.1%). TMD prevalence was about three times higher in women (77.4%) than men (22.6%). In the prosthetic group, women were about 1.5 times more prevalent (60.6%) than men (39.4%) (p < 0.001).
+
+Missing posterior teeth and occlusal condition
+
+The prosthetic group had lost a mean of 6.5 ± 5.2 posterior teeth, significantly higher than the 1.5 ± 3.1 teeth of the TMD group (p < 0.001). Eichner's classification distribution: TMD group — Class A 85.9%, B 12.1%, C 2.0%; Prosthetic group — Class A 31.6%, B 47.2%, C 21.2%. Distribution significantly different between groups (p < 0.001).
+
+Comparison of the ISI and SRI scores
+
+Average ISI score was significantly higher in the TMD group than the prosthetic group (p < 0.001). In the prosthetic group, 32.7% reported mild-to-severe insomnia symptoms (ISI ≥8) and 9.9% had clinically significant insomnia (ISI ≥15). The TMD group had significantly higher prevalence (47.8% and 13.6% respectively) (p = 0.015).
+
+SRI scores were significantly higher in the TMD group across five subscales (tension, anger, depression, fatigue, frustration) as well as total score.
+
+Comparison of NRS, ISI, and SRI scores by sex
+
+In the TMD group, women scored significantly higher than men in four subscales (tension, somatization, fatigue, frustration) and total score; no significant sex difference in severe chewing discomfort or clinically significant insomnia prevalence. In the prosthetic group, women had significantly higher prevalence of clinically significant insomnia (13.7% vs 3.9% in men) and higher frustration subscale scores (p = 0.044); no significant sex difference in severe chewing discomfort.
+
+Logistic regression
+
+For severe chewing discomfort (NRS ≥7), the prosthetic group was more susceptible than the TMD group. For clinically significant insomnia, the TMD group was more susceptible than the prosthetic group. Interaction-effect analysis found sex had a statistically significant effect on severe chewing discomfort (p = 0.041): female prosthetic patients were more susceptible to chewing discomfort than TMD patients.
+
+Discussion
+
+Changes in coordination of masticatory structures (teeth, TMJ, neuromuscular system) affect masticatory ability. A positive association exists between number of functional teeth / posterior occlusal support and chewing ability (Johansson et al., Zeng et al., Hatch et al., Ikebe et al.). This study found the prosthetic group had significantly fewer remaining posterior teeth than the TMD group, and was older — tooth loss reflects cumulative outcome of caries/periodontal disease over the life course and correlates with aging. The prosthetic group reported significantly more severe chewing discomfort, suggesting reduced occlusal support from posterior tooth loss contributes more to chewing discomfort than TMD pain — supporting maintenance of natural teeth as important for masticatory function.
+
+The TMD group scored significantly higher on SRI (tension, anger, depression, fatigue, frustration, total). Psychological factors (depression, anxiety, fatigue, stress) play an important role in TMD development/progression, and conversely TMD-related pain can itself induce psychological distress; chronic TMD pain involves central factors (dysfunction of central pain inhibitory system, impaired psychological health, sleep deterioration) with increased pain sensitivity, anxiety, depression, and stress.
+
+Insomnia is one of the most common sleep disturbances among older adults and is associated with chronic pain and psychological factors (Wilson et al.: chronic pain + major depression + insomnia → serious pain-related psychosocial impairment; Dragioti et al.: chronic pain group had higher clinical insomnia prevalence via ISI). TMD patients in this study had higher clinical insomnia and SRI scores than the prosthetic group, consistent with pain as the primary TMD symptom.
+
+Gender effect: women scored higher than men on tension, somatization, fatigue, frustration, and total SRI in the TMD group; in the prosthetic group, women scored higher on frustration and had significantly higher clinical insomnia rates. Women have higher rates of chronic pain, insomnia, and psychological disorders than men; TMD is more prevalent in women (reported 3:1 female:male). This study found 77.4% women in the TMD group vs 60.6% in the prosthetic group — consistent with more SRI subscales showing female-male differences in the TMD group. Interaction-effect logistic regression showed severe chewing discomfort was generally more likely in the prosthetic group than TMD group, with a significant sex correlation particularly for women.
+
+Limitations: single study site, limited total patient number; further studies needed across wider populations/conditions. Only SRI (psychological) and ISI (sleep) tools were used; more multifactorial analyses possible with additional tools.
+
+Conclusion: maintaining a reasonable number of healthy natural teeth is the best guarantee of good masticatory ability with increasing age. Psychological stress and sleep quality should be routinely considered in TMD patients presenting with chewing discomfort to improve outcomes, especially in women.
+
+Declaration of competing interest: No potential conflicts of interest relevant to this article are reported.

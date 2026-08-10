@@ -19,7 +19,7 @@ In vitro study (n=32) comparing settling effect (axial displacement) across four
 
 octagon showed consistently the least settling and internal hexagon the most.
 
-(incomplete)
+Settling plateaued after the second 30 Ncm application (3rd–5th repetitions added no significant displacement), so connection geometry — not repeated tightening — dominates settling risk.
 
 ## 세줄요약
 
@@ -27,7 +27,7 @@ octagon showed consistently the least settling and internal hexagon the most.
 
 팔각형이 가장 적은 안착량, 내부 육각형이 가장 큰 안착량을 보였다.
 
-(incomplete)
+안착 효과는 2회째 30 Ncm 조임 후 고원(plateau)에 도달(3~5회차는 유의한 추가 변위 없음) — 반복 조임보다 연결부 기하학이 안착 위험을 결정.
 
 ## 1. Document Information
 

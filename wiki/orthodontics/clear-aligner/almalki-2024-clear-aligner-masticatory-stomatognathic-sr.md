@@ -6,7 +6,7 @@ date: 2024-03-19
 doi: 10.1186/s12903-024-04029-8
 source: almalki-2024-clear-aligner-masticatory-stomatognathic-sr.md
 category: [orthodontics/clear-aligner]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "38504207"

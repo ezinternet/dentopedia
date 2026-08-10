@@ -6,7 +6,7 @@ date: 2021-01-01
 doi: 10.2341/19-107-LIT
 source: fan-2021-inlay-onlay-overlay-long-term-sr-ma.md
 category: ['inlay']
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/fan-2021-inlay-onlay-overlay-long-term-sr-ma.pdf
 pdf_filename: fan-2021-inlay-onlay-overlay-long-term-sr-ma.pdf
 source_collection: external

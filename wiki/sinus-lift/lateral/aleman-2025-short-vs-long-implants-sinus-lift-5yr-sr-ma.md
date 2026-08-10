@@ -6,7 +6,7 @@ date: 2025-03-01
 doi: "n/a (P R Health Sci J 2025;44(1):54-62)"
 source: aleman-2025-short-vs-long-implants-sinus-lift-5yr-sr-ma.md
 category: [sinus-lift/lateral]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/aleman-2025-short-vs-long-implants-sinus-lift-5yr-sr-ma.pdf
 pdf_filename: aleman-2025-short-vs-long-implants-sinus-lift-5yr-sr-ma.pdf
 source_collection: external
@@ -51,4 +51,4 @@ SR+MA; 4 databases, 2016–2024; 7 RCTs with ≥5-year follow-up; short vs long 
 - [[sinus-lift/lateral/mester-2023-short-vs-standard-implants-sinus-floor-elevation-sr-ma]] — extends; both ≥5-year RCT syntheses.
 - [[sinus-lift/lateral/chaware-2021-short-vs-long-implant-sinus-graft-sr-ma]] — reinforces; mixed-follow-up RCT pool.
 - [[sinus-lift/lateral/toledano-2022-short-versus-standard-implants-sinus]] — related; short vs standard at sinus sites.
-- [[implants/zhang-2024-short-vs-long-implants-sinus]] — related.
+- [[implants/short-narrow/zhang-2024-short-vs-long-implants-sinus]] — related.

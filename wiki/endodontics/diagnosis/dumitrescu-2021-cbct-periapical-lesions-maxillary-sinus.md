@@ -6,7 +6,7 @@ date: 2021-08-19
 doi: "10.3390/medicina57080840"
 source: dumitrescu-2021-cbct-periapical-lesions-maxillary-sinus.md
 category: [endodontics/diagnosis]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/dumitrescu-2021-cbct-periapical-lesions-maxillary-sinus.pdf
 pdf_filename: dumitrescu-2021-cbct-periapical-lesions-maxillary-sinus.pdf
 source_collection: external
@@ -69,6 +69,6 @@ Dumitrescu et al. (2021) recruited 50 systemically healthy adults with chronic m
 
 ## Related Papers
 - [[endodontics/diagnosis/karamifar-2020-endodontic-periapical-lesion-an-overview]] — narrative overview of periapical lesion etiology/diagnosis that this study extends with quantitative CBCT + IHC data
-- [[oral-medicine/psillas-2020-odontogenic-maxillary-sinusitis-comprehensive-review]] — comprehensive OMS review; this paper provides MSMT quantification data supporting the periapical-lesion-as-OMS-driver thesis
-- [[oral-medicine/lin-2024-odontogenic-maxillary-sinusitis-expert-consensus]] — expert consensus on OMS management; the MSMT threshold data here informs diagnostic imaging criteria
-- [[oral-medicine/kim-2019-definition-management-odontogenic-maxillary]] — OMS definition/management; this paper reinforces the periapical etiology arm
+- [[oral-medicine/odontogenic-sinusitis/psillas-2020-odontogenic-maxillary-sinusitis-comprehensive-review]] — comprehensive OMS review; this paper provides MSMT quantification data supporting the periapical-lesion-as-OMS-driver thesis
+- [[oral-medicine/odontogenic-sinusitis/lin-2024-odontogenic-maxillary-sinusitis-expert-consensus]] — expert consensus on OMS management; the MSMT threshold data here informs diagnostic imaging criteria
+- [[oral-medicine/odontogenic-sinusitis/kim-2019-definition-management-odontogenic-maxillary]] — OMS definition/management; this paper reinforces the periapical etiology arm

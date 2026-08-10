@@ -6,7 +6,7 @@ date: 2022-05-18
 doi: 10.2334/josnusd.22-0036
 source: kodaira-2022-resin-bonding-titanium-adhesive-monomers-review.md
 category: [resin-bonding]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/kodaira-2022-resin-bonding-titanium-adhesive-monomers-review.pdf
 pdf_filename: kodaira-2022-resin-bonding-titanium-adhesive-monomers-review.pdf
 source_collection: external

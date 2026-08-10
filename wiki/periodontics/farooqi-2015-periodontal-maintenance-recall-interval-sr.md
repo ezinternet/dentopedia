@@ -6,7 +6,7 @@ date: 2015-10-01
 doi: 10.1016/j.jebdp.2015.10.001
 source: farooqi-2015-periodontal-maintenance-recall-interval-sr.md
 category: [periodontics]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/farooqi-2015-periodontal-maintenance-recall-interval-sr.pdf
 pdf_filename: farooqi-2015-periodontal-maintenance-recall-interval-sr.pdf
 source_collection: external
@@ -54,5 +54,5 @@ All 8 studies assessed compliance with a recommended 3–6 month PM interval as 
 
 ## Related Papers
 - [[periodontics/jung-2019-periodontitis-spt-disease-progression-sr]] — disease stability under SPT; smoking and compliance as predictors
-- [[periodontics/meseli-2016-probing-depth-srp-response-periodontitis]] — SRP baseline response; determines maintenance needs
-- [[periodontics/marty-2024-implant-treated-periodontitis-sr-ma]] — consequences of inadequate maintenance for implant patients
+- [[periodontics/non-surgical-instrumentation/meseli-2016-probing-depth-srp-response-periodontitis]] — SRP baseline response; determines maintenance needs
+- [[implants/survival/marty-2024-implant-treated-periodontitis-sr-ma]] — consequences of inadequate maintenance for implant patients

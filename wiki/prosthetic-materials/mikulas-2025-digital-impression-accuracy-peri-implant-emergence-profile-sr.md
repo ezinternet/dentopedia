@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1111/clr.14441
 source: mikulas-2025-digital-impression-accuracy-peri-implant-emergence-profile-sr.md
 category: prosthetic-materials
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "40219691"

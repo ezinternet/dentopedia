@@ -1,0 +1,49 @@
+{
+  "overview": "sinus-lift-isq-loading-timing",
+  "date": "2026-07-23",
+  "title": "상악동거상 후 ISQ·부하 타이밍 — 리콜",
+  "source_wiki": [
+    "wiki/overviews/sinus-lift-isq-loading-timing.md"
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "q": "상악동거상술 후 ISQ 기반 부하 결정 기준은?",
+      "opts": [
+        "ISQ >50이면 즉시 부하",
+        "<60 지연부하(4–6개월 추가관찰), 60–70 조기부하+면밀 모니터링, >70 즉시/조기부하 고려(Oh 2008); 단일 값보다 경시적 추적(serial ISQ)이 중요",
+        "ISQ 값은 부하 결정과 무관",
+        "항상 6개월 지연부하"
+      ],
+      "ans": 1,
+      "rat": "ISQ 부하 결정: <60 지연부하(4–6개월 추가관찰), 60–70 조기부하+면밀 모니터링, >70 즉시/조기부하 고려(Oh 2008). 단일 값보다 경시적 추적(serial ISQ)이 중요 — 상승추세=골유착 진행, 하강=조기경보(Sennerby 2008). 안정성 딥은 상악동 케이스에서도 발생(증대부 Type IV), 2–4주 딥엔 부하 금지·3–4주 후 재측정.",
+      "cite": "overviews/sinus-lift-isq-loading-timing"
+    },
+    {
+      "id": "q2",
+      "q": "2단계 측창법(LSA)에서 이식재 종류에 따른 부하 가능 시점은?",
+      "opts": [
+        "이식재 종류와 무관하게 즉시 부하",
+        "6개월 치유 후 식립 → 식립 직후 ISQ 60 초반(즉시부하 불가); 우골유래골(BBM)군은 3개월에 ISQ 73(부하 가능), 합성골(β-TCP)군은 6개월 대기(Ramirez-Fernandez 2017)",
+        "합성골이 더 빨리 부하 가능",
+        "식립 직후 ISQ 80 이상"
+      ],
+      "ans": 1,
+      "rat": "2단계 측창법(LSA): 6개월 이식재 치유 후 식립 → 식립 직후 ISQ 60 초반(즉시부하 불가) → 우골유래골(BBM)군은 3개월에 ISQ 73(부하 가능), 합성골(β-TCP)군은 6개월 대기(Ramirez-Fernandez 2017). 식립 4개월이면 이식재 종류 무관 비증대 자연골과 통계적 동등(p=0.789, Jelusic 2014).",
+      "cite": "overviews/sinus-lift-isq-loading-timing"
+    },
+    {
+      "id": "q3",
+      "q": "경치조골 상악동거상 동시식립(TSFE)에서 조기부하 조건은?",
+      "opts": [
+        "잔존골고와 무관하게 즉시부하",
+        "식립 즉시 ISQ ≥70이면 12주(3개월) 조기부하 가능(Liu 2018, RBH 3.5mm에서 ISQ 72.6), 60대면 추가 대기",
+        "TSFE는 조기부하 금기",
+        "ISQ 50이면 조기부하 가능"
+      ],
+      "ans": 1,
+      "rat": "경치조골 동시식립(TSFE): 식립 즉시 ISQ ≥70이면 12주(3개월) 조기부하 가능(Liu 2018, RBH 3.5mm에서 ISQ 72.6), 60대면 추가 대기. 증대부는 Type IV 골이라 1차 안정성이 낮을 수 있으므로 2–4주 딥 구간 부하 금지, 3–4주 후 ISQ 재측정이 원칙.",
+      "cite": "overviews/sinus-lift-isq-loading-timing"
+    }
+  ]
+}

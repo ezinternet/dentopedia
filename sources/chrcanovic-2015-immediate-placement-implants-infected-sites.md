@@ -73,10 +73,10 @@ SR (PubMed 706건 → 28편 포함, 동물+임상), 스웨덴/브라질; 치주�
 
 ## 6. Related Work
 
-- [[immediate-implant/prati-2017-immediate-early-delayed-implants-endodontic-infections]] — cites this as ref 15
-- [[immediate-implant/saijeva-2020-immediate-implant-placement-non-infected-sockets]] — SR+MA superseding this with more evidence
-- [[immediate-implant/pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma]] — 2024 update; most comprehensive
-- [[immediate-implant/blus-2015-immediate-implants-infected-noninfected-ultrasonic]] — co-published in same journal issue
+- [[immediate-implant/infected-socket/prati-2017-immediate-early-delayed-implants-endodontic-infections]] — cites this as ref 15
+- [[immediate-implant/infected-socket/saijeva-2020-immediate-implant-placement-non-infected-sockets]] — SR+MA superseding this with more evidence
+- [[immediate-implant/infected-socket/pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma]] — 2024 update; most comprehensive
+- [[immediate-implant/infected-socket/blus-2015-immediate-implants-infected-noninfected-ultrasonic]] — co-published in same journal issue
 
 ## 7. Glossary
 

@@ -42,7 +42,7 @@ preemptive 진통제 vs 위약 술후 1·3·6·8·24·72시간 통증 (SMD) 평�
 - Population: open flap debridement, gingival augmentation, implant site development, implant placement
 
 ## 4. Key Results
-[근거강함] Preemptive analgesia significantly reduces pain vs placebo at several timepoints in periodontal/implant surgery contexts (specifics in paper).
+[확인] Preemptive analgesia significantly reduces pain vs placebo at several timepoints in periodontal/implant surgery contexts (specifics in paper).
 
 ## 5. Limitations
 - Heterogeneity in preemptive drug, timing, dose

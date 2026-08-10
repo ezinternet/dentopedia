@@ -15,7 +15,7 @@ text_filename: jang-2025-flapless-immediate-implant-low-primary-stability.txt
 
 ## Why Ingested
 
-[[immediate-implant/kim-2016-immediately-placed-implant-without-primary]] already shows a single immediate implant with no primary stability can osseointegrate; this 16-case retrospective extends that anecdote into a cohort with a 100% survival rate at 65 months, directly testing whether the insertion-torque/ISQ thresholds emphasized by [[immediate-implant/stanley-2020-five-thread-guideline-predicting-primary]] are hard prerequisites or merely favorable conditions for immediate flapless placement.
+[[immediate-implant/primary-stability/kim-2016-immediately-placed-implant-without-primary]] already shows a single immediate implant with no primary stability can osseointegrate; this 16-case retrospective extends that anecdote into a cohort with a 100% survival rate at 65 months, directly testing whether the insertion-torque/ISQ thresholds emphasized by [[immediate-implant/primary-stability/stanley-2020-five-thread-guideline-predicting-primary]] are hard prerequisites or merely favorable conditions for immediate flapless placement.
 
 ## Three-line Summary
 
@@ -84,7 +84,7 @@ Retrospective case series (16 flapless immediate SLA implants, ITV <10 Ncm and m
 ## 6. Related Work
 
 - Cited within: BIC reduction (~10%) in early immediate-socket healing vs healed ridge; Balleri et al. (osseointegrated ISQ mean 69, range 57–82); Becker et al. (low initial ISQ <60 rises during healing, high ISQ slightly falls); Albrektsson et al. (1986 Toronto success criteria, MBL <1.5 mm yr1 / <0.2 mm/yr).
-- Wiki relations: extends [[immediate-implant/kim-2016-immediately-placed-implant-without-primary]] (single no-primary-stability case → cohort); refines [[immediate-implant/stanley-2020-five-thread-guideline-predicting-primary]] (ITV/stability thresholds reframed as favorable not mandatory); reinforces [[immediate-implant/witoonkitvanich-2025-immediate-implant-stability-maxilla-mandible]] (ISQ trajectory and arch differences).
+- Wiki relations: extends [[immediate-implant/primary-stability/kim-2016-immediately-placed-implant-without-primary]] (single no-primary-stability case → cohort); refines [[immediate-implant/primary-stability/stanley-2020-five-thread-guideline-predicting-primary]] (ITV/stability thresholds reframed as favorable not mandatory); reinforces [[immediate-implant/primary-stability/witoonkitvanich-2025-immediate-implant-stability-maxilla-mandible]] (ISQ trajectory and arch differences).
 
 ## 7. Glossary
 

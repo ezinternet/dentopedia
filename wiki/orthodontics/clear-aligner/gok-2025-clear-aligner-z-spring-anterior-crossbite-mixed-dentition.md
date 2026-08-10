@@ -6,7 +6,7 @@ date: 2025-08-28
 doi: 10.2319/022125-154.1
 source: gok-2025-clear-aligner-z-spring-anterior-crossbite-mixed-dentition.md
 category: [orthodontics/clear-aligner]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: false
 pmid: "41015409"

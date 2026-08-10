@@ -6,7 +6,7 @@ date: 2018-03-08
 doi: 10.1159/000486429
 source: ekstrand-2018-icdas-coronal-caries-sr-ma.md
 category: [caries]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/ekstrand-2018-icdas-coronal-caries-sr-ma.pdf
 pdf_filename: ekstrand-2018-icdas-coronal-caries-sr-ma.pdf
 source_collection: external

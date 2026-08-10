@@ -6,7 +6,7 @@ date: 2018-06-26
 doi: 10.1186/s40729-018-0128-4
 source: luz-2018-maxillary-sinus-3d-cbct-evaluation.md
 category: digital-workflow
-confidence: cross-sectional
+evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/luz-2018-maxillary-sinus-3d-cbct-evaluation.pdf
 pdf_filename: luz-2018-maxillary-sinus-3d-cbct-evaluation.pdf
 source_collection: external

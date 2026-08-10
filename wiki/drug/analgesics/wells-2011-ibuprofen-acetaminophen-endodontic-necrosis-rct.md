@@ -7,7 +7,7 @@ doi: 10.1016/j.joen.2011.08.011
 journal: J Endod 37(12):1608-1612
 source: wells-2011-ibuprofen-acetaminophen-endodontic-necrosis-rct.md
 category: [drug/analgesics]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/wells-2011-ibuprofen-acetaminophen-endodontic-necrosis-rct.pdf
 pdf_filename: wells-2011-ibuprofen-acetaminophen-endodontic-necrosis-rct.pdf
 source_collection: external
@@ -42,7 +42,7 @@ Prospective randomized double-blind RCT in 71 emergency endodontic patients with
 Prospective double-blind RCT; n=71; ibuprofen 600mg q6h vs ibuprofen 600mg + APAP 1000mg q6h post emergency debridement.
 
 ## Results
-[근거강함] Combination → significantly less pain + less rescue medication use.
+[확인] Combination → significantly less pain + less rescue medication use.
 
 ## Limitations
 - Small (n=71), single-center
@@ -53,8 +53,8 @@ Prospective double-blind RCT; n=71; ibuprofen 600mg q6h vs ibuprofen 600mg + APA
 For Korean endodontic emergency practice: combination ibuprofen + APAP is the protocol of first choice for symptomatic necrosis cases. Single-NSAID monotherapy is inferior.
 
 ## Related Papers
-- [[drug/moore-2015-single-dose-oral-analgesics-cochrane-overview]] — NNT framework.
-- [[drug/vatankhah-2023-ibuprofen-diclofenac-endodontic-pain-rct]] — ibuprofen vs diclofenac.
-- [[drug/di-spirito-2022-endodontic-pain-management-overview]] — endodontic pain.
-- [[drug/samani-2025-nsaids-endodontic-postoperative-network]] — endodontic NMA.
-- [[drug/gaballah-2025-ibuprofen-paracetamol-concurrent-alternate-rct]] — dosing pattern RCT.
+- [[drug/analgesics/moore-2015-single-dose-oral-analgesics-cochrane-overview]] — NNT framework.
+- [[drug/analgesics/vatankhah-2023-ibuprofen-diclofenac-endodontic-pain-rct]] — ibuprofen vs diclofenac.
+- [[drug/analgesics/di-spirito-2022-endodontic-pain-management-overview]] — endodontic pain.
+- [[drug/analgesics/samani-2025-nsaids-endodontic-postoperative-network]] — endodontic NMA.
+- [[drug/analgesics/gaballah-2025-ibuprofen-paracetamol-concurrent-alternate-rct]] — dosing pattern RCT.

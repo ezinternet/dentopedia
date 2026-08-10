@@ -6,7 +6,7 @@ date: 2021-01-01
 doi: 10.4047/jap.2021.13.4.216
 source: yesilyurt-2021-occlusion-concepts-hybrid-abutment-zirconia-fea.md
 category: [occlusion]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/yesilyurt-2021-occlusion-concepts-hybrid-abutment-zirconia-fea.pdf
 pdf_filename: yesilyurt-2021-occlusion-concepts-hybrid-abutment-zirconia-fea.pdf
 source_collection: external
@@ -41,7 +41,7 @@ Occlusion concept selection directly influences biomechanical risk in implant-su
 3D finite element analysis, 교합개념별 하중.
 
 ## Results
-교합개념이 임플란트 보철·abutment 응력분포에 영향 [claude해석/미검증(수치)].
+교합개념이 임플란트 보철·abutment 응력분포에 영향 [미검증].
 
 ## Related Papers
 - [[occlusion/ambili-2024-parafunctional-loading-stress-tooth-implant-fea]] — 부기능 FEA

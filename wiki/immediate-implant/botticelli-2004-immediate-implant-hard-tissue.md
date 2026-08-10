@@ -6,7 +6,7 @@ date: 2004-10-01
 doi: 10.1111/j.1600-051X.2004.00565.x
 source: botticelli-2004-immediate-implant-hard-tissue.md
 category: [immediate-implant]
-confidence: in-vivo
+evidence_level: in-vivo
 pdf_path: /Users/oracleneo/llm-wiki/papers/botticelli-2004-immediate-implant-hard-tissue.pdf
 pdf_filename: botticelli-2004-immediate-implant-hard-tissue.pdf
 source_collection: external

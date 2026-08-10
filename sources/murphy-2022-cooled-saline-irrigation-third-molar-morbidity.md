@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-Part of a recent third-molar / post-operative-morbidity collection. This Evidence-Based Dentistry summary review appraises a split-mouth RCT showing cooled (4°C/10°C) saline irrigation reduces pain, trismus and swelling after third molar surgery — a low-cost intraoperative measure that complements the morbidity-reduction adjuncts in [[oral-surgery/pattnayak-2024-prf-prp-third-molar-extraction-sr]] and the surgical-technique evidence in [[oral-surgery/bailey-2020-surgical-techniques-mandibular-wisdom-teeth-sr]].
+Part of a recent third-molar / post-operative-morbidity collection. This Evidence-Based Dentistry summary review appraises a split-mouth RCT showing cooled (4°C/10°C) saline irrigation reduces pain, trismus and swelling after third molar surgery — a low-cost intraoperative measure that complements the morbidity-reduction adjuncts in [[oral-surgery/third-molar/pattnayak-2024-prf-prp-third-molar-extraction-sr]] and the surgical-technique evidence in [[oral-surgery/third-molar/bailey-2020-surgical-techniques-mandibular-wisdom-teeth-sr]].
 
 ## Three-line Summary
 

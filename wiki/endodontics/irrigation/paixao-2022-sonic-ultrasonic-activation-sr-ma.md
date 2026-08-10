@@ -6,7 +6,7 @@ date: 2022-01-01
 doi: 10.1080/00016357.2022.2061591
 source: paixao-2022-sonic-ultrasonic-activation-sr-ma.md
 category: [endodontics/irrigation]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/paixao-2022-sonic-ultrasonic-activation-sr-ma.pdf
 pdf_filename: paixao-2022-sonic-ultrasonic-activation-sr-ma.pdf
 source_collection: external

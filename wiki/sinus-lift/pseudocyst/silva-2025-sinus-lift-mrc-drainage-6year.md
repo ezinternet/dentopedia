@@ -6,7 +6,7 @@ date: 2025-12-19
 doi: 10.7759/cureus.99624
 journal: Cureus 17(12):e99624
 source: silva-2025-sinus-lift-mrc-drainage-6year.md
-confidence: case-report
+evidence_level: case-report
 category: [sinus-lift/pseudocyst]
 pdf_path: /Users/oracleneo/llm-wiki/papers/silva-2025-sinus-lift-mrc-drainage-6year.pdf
 pdf_filename: silva-2025-sinus-lift-mrc-drainage-6year.pdf
@@ -54,8 +54,8 @@ USP Ribeirão Preto + ARDEC 협력 case. Single case지만 6년 longitudinal·hi
 
 ## Strengths and Caveats
 [case-report] n=1 — 일반화 한계
-[근거강함] 6년 추적 + 조직학 — 매우 드문 datapoint
-[claude해석] Cureus는 lower-tier journal이지만 case report로서 longitudinal data 가치
+[미검증] 6년 추적 + 조직학 — 드문 datapoint이지만 n=1 case report라 근거 강도로 볼 수 없음
+[미검증] Cureus는 lower-tier journal이지만 case report로서 longitudinal data 가치
 [미검증] 다수 case에서 같은 결과 재현 여부
 
 ## Related Papers

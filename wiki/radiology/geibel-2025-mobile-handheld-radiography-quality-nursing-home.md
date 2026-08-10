@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1111/ger.70023
 source: geibel-2025-mobile-handheld-radiography-quality-nursing-home.md
 category: [radiology]
-confidence: prospective
+evidence_level: prospective
 source_collection: pubmed-text
 full_text: true
 pmid: "41002018"

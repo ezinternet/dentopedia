@@ -6,7 +6,7 @@ date: 2023-01-01
 doi: 10.1016/j.prosdent.2023.07.021
 source: tajti-2023-monolithic-zirconia-metal-ceramic-implant-crowns-sr-ma.md
 category: [prosthetic-materials]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/tajti-2023-monolithic-zirconia-metal-ceramic-implant-crowns-sr-ma.pdf
 pdf_filename: tajti-2023-monolithic-zirconia-metal-ceramic-implant-crowns-sr-ma.pdf
 source_collection: external

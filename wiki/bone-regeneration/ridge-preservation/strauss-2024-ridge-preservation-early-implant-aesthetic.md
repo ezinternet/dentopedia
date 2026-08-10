@@ -6,7 +6,7 @@ date: 2023-12-17
 doi: 10.1111/cid.13297
 source: strauss-2024-ridge-preservation-early-implant-aesthetic.md
 category: [bone-regeneration/ridge-preservation]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/strauss-2024-ridge-preservation-early-implant-aesthetic.pdf
 pdf_filename: strauss-2024-ridge-preservation-early-implant-aesthetic.pdf
 source_collection: external

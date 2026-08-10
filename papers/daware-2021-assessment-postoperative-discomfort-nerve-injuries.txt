@@ -1,0 +1,708 @@
+Title: 
+            Assessment of postoperative discomfort and nerve injuries after surgical removal of mandibular third molar: A prospective study - PMC
+        
+
+Source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8144789/
+
+---
+
+[Skip to main content](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8144789/#main-content)
+An official website of the United States government
+Official websites use .gov A .gov website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS A lock ( Lock Locked padlock icon ) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.
+- 
+
+
+
+
+
+
+
+
+
+
+
+    [Dashboard](https://www.ncbi.nlm.nih.gov/myncbi/)
+
+
+
+- 
+
+
+
+
+
+
+
+
+
+
+
+    [Publications](https://www.ncbi.nlm.nih.gov/myncbi/collections/bibliography/)
+
+
+
+- 
+
+
+
+
+
+
+
+
+
+
+
+    [Account settings](https://www.ncbi.nlm.nih.gov/account/settings/)
+
+
+
+- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Log out
+
+
+
+
+
+
+
+
+
+[Dashboard](https://www.ncbi.nlm.nih.gov/myncbi/)
+[Publications](https://www.ncbi.nlm.nih.gov/myncbi/collections/bibliography/)
+[Account settings](https://www.ncbi.nlm.nih.gov/account/settings/)
+Primary site navigation
+Logged in as:
+- 
+
+
+
+
+
+
+
+
+
+
+    [Dashboard](https://www.ncbi.nlm.nih.gov/myncbi/)
+
+
+
+- 
+
+
+
+
+
+
+
+
+
+
+    [Publications](https://www.ncbi.nlm.nih.gov/myncbi/collections/bibliography/)
+
+
+
+- 
+
+
+
+
+
+
+
+
+
+
+    [Account settings](https://www.ncbi.nlm.nih.gov/account/settings/)
+
+
+
+[Dashboard](https://www.ncbi.nlm.nih.gov/myncbi/)
+[Publications](https://www.ncbi.nlm.nih.gov/myncbi/collections/bibliography/)
+[Account settings](https://www.ncbi.nlm.nih.gov/account/settings/)
+- 
+
+                            [Journal List](https://www.ncbi.nlm.nih.gov/journals/)
+
+
+- 
+
+                            [User Guide](https://www.ncbi.nlm.nih.gov/about/userguide/)
+
+
+[Journal List](https://www.ncbi.nlm.nih.gov/journals/)
+[User Guide](https://www.ncbi.nlm.nih.gov/about/userguide/)
+- 
+
+
+
+
+- 
+                        https://doi.org/10.4103/jfmpc.jfmpc_280_19
+
+- 
+                             https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8144789/pdf/JFMPC-10-1712.pdf
+
+- 
+
+
+
+
+
+- 
+
+
+
+
+- 
+
+
+
+
+
+
+
+          PERMALINK
+
+
+
+
+                  Copy
+
+[PMC Disclaimer](https://www.ncbi.nlm.nih.gov/about/disclaimer/)
+[PMC Copyright Notice](https://www.ncbi.nlm.nih.gov/about/copyright/)
+[10.4103/jfmpc.jfmpc_280_19](https://doi.org/10.4103/jfmpc.jfmpc_280_19)
+- [Search in PMC](https://pmc.ncbi.nlm.nih.gov/search/?term="J%20Family%20Med%20Prim%20Care"[jour])
+- [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term="J%20Family%20Med%20Prim%20Care"[jour])
+- [View in NLM Catalog](https://www.ncbi.nlm.nih.gov/nlmcatalog?term="J%20Family%20Med%20Prim%20Care"[Title%20Abbreviation])
+- [Add to search](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8144789/?term="J%20Family%20Med%20Prim%20Care"[jour])
+[Search in PMC](https://pmc.ncbi.nlm.nih.gov/search/?term="J%20Family%20Med%20Prim%20Care"[jour])
+[Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term="J%20Family%20Med%20Prim%20Care"[jour])
+[View in NLM Catalog](https://www.ncbi.nlm.nih.gov/nlmcatalog?term="J%20Family%20Med%20Prim%20Care"[Title%20Abbreviation])
+[Add to search](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8144789/?term="J%20Family%20Med%20Prim%20Care"[jour])
+
+[Surendra N Daware](https://pubmed.ncbi.nlm.nih.gov/?term="Daware%20SN"[Author])
+
+### Surendra N Daware
+[Surendra N Daware](https://pubmed.ncbi.nlm.nih.gov/?term="Daware%20SN"[Author])
+[Ramdas Balakrishna](https://pubmed.ncbi.nlm.nih.gov/?term="Balakrishna%20R"[Author])
+
+### Ramdas Balakrishna
+[Ramdas Balakrishna](https://pubmed.ncbi.nlm.nih.gov/?term="Balakrishna%20R"[Author])
+[Suryakant C Deogade](https://pubmed.ncbi.nlm.nih.gov/?term="Deogade%20SC"[Author])
+
+### Suryakant C Deogade
+[Suryakant C Deogade](https://pubmed.ncbi.nlm.nih.gov/?term="Deogade%20SC"[Author])
+[Yogesh S Ingole](https://pubmed.ncbi.nlm.nih.gov/?term="Ingole%20YS"[Author])
+
+### Yogesh S Ingole
+[Yogesh S Ingole](https://pubmed.ncbi.nlm.nih.gov/?term="Ingole%20YS"[Author])
+[Sushant M Patil](https://pubmed.ncbi.nlm.nih.gov/?term="Patil%20SM"[Author])
+
+### Sushant M Patil
+[Sushant M Patil](https://pubmed.ncbi.nlm.nih.gov/?term="Patil%20SM"[Author])
+[Dinesh M Naitam](https://pubmed.ncbi.nlm.nih.gov/?term="Naitam%20DM"[Author])
+
+### Dinesh M Naitam
+[Dinesh M Naitam](https://pubmed.ncbi.nlm.nih.gov/?term="Naitam%20DM"[Author])
+- Author information
+- Article notes
+- Copyright and License information
+Address for correspondence: Dr. Suryakant C. Deogade, Shivgiri - 404, Himalaya Empire, Fulmati Lay Out, Babulkheda, Nagpur, Maharashtra – 440 027, India. E-mail: dr_deogade@yahoo.co.in
+Received 2019 Apr 3; Revised 2019 Aug 23; Accepted 2021 Jan 14; Issue date 2021 Apr.
+This is an open access journal, and articles are distributed under the terms of the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 License, which allows others to remix, tweak, and build upon the work non-commercially, as long as appropriate credit is given and the new creations are licensed under the identical terms.
+[PMC Copyright notice](https://www.ncbi.nlm.nih.gov/about/copyright/)
+[34123917](https://pubmed.ncbi.nlm.nih.gov/34123917/)
+
+### Introduction:
+The surgical removal of mandibular third molar (M3) teeth may result in a number of complications including pain, swelling, bleeding, alveolar osteitis or nerve dysfunction. Most of these problems are temporary, but in some cases, nerve paresthesia may become permanent and lead to functional problems.
+
+### Aims and Objectives:
+This study aims at measuring the clinical severity of pain, swelling, muscle trismus, infection, dry socket and any nerve injury-related paresthesia after surgical removal of M3. It also assesses the validity of the postoperative symptom severity and identifies the most frequent occurrences and postoperative complications.
+
+### Material and Methods:
+The prospective study data was collected from 163 patients visiting the Department of Oral and Maxillofacial Surgery, for surgical extraction of impacted M3. Postoperative assessment was done after 1 week at the time of suture removal for pain, swelling, wound closure, postoperative bleeding, dry socket, infection, paresthesia and trismus. Pain intensity in the form of visual analogue scale, clinical swelling determination using thread measure, trismus assessment by differences in mouth opening, paresthesia/anesthesia by questioning about tongue, chin and lip sensibility and performing neurosensory tests like 2-point discrimination, pin prick and light touch. Patients with neurosensory disturbance were followed for 6 months.
+
+### Results:
+This study confirmed the previously reported prevalence rates of neurological deficit and demonstrated 2% incidence of lingual nerve injury where no symptom lasted for more than 12 weeks. Inferior alveolar nerve paresthesia not reported in case series. Most of the patients reported with mild pain, mild swelling and trismus at seventh postoperative day at the time of suture removal.
+
+### Conclusion:
+Although third molar surgery is a secure and low morbidity procedure, the risk of complications will always exist and it increases with increased surgical difficulty, hence the patient should always be educated about the risks and benefits of surgery in order to ensure adequate surgical management of impacted M3.
+Keywords: Complication, inferior alveolar nerve, lingual nerve, nerve injury, third molar surgery
+
+The dental arches usually undergo antero-posterior growth trying to accommodate for all the permanent molars especially the third molars that are known to be the last to erupt. Many problems are associated with their eruption like tenderness, swelling or infection and a considerable number of them become buried in the jaw bone that requires surgical interventions for its removal.[[1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8144789/#ref1)] Impacted mandibular third molars (M[3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8144789/#ref3)) are often associated with pericoronitis, periodontitis, cystic lesions, neoplasm, pathologic root resorption and can cause detrimental effects on adjacent tooth. The patient's journey starts when they present with pain, recurrent swelling or recurrent infection in the third molar area.[[2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8144789/#ref2)] Many impacted M3 remain asymptomatic for years but are often surgically extracted to prevent development of future complications and pathologic conditions. The surgical removal of third molar teeth may result in a number of complications including pain, swelling, bleeding, alveolar osteitis (dry socket) or nerve dysfunction. Most of these problems are temporary, but in some cases, nerve paresthesia may become permanent and lead to functional problems.[3]
+Neurosensory deficit is a potential permanent complication of M3 surgery.[[4](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC[8](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8144789/#ref8)144[7](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8144789/#ref7)89/#ref4),[5](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8144789/#ref5),[6](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8144789/#ref6)] The inferior alveolar nerve (IAN) and lingual nerve (LN) (both are sensory branches of trigeminal nerve) are anatomically closer to the surgical site and are always held at risk to injury while surgical removal of M3. Even the chorda tympani, a branch of the facial nerve runs with the LN supplying the taste sensation of the same area is at the risk. Many a times patients approach nearby general physicians with the complaint of numbness in lower lip and altered taste sensation or loss of taste. Injury to IAN affects the cutaneous somatic sensation of the lower lip and injury to LN affects the sensation of the anterior two-third of the tongue of the ipsilateral side. The prevalence of IAN injury was reported to be 0.2% to 8.4% and for that of LN to be 0.1% to 22% in the general population.[7] In the United States more than 11 million patients reported pain, swelling, bruising and malaise due to third molar extraction and more than 11000 people sustained permanent paresthesia as a consequence of nerve injury during the surgery.[8]
+Older patients are at greater risk of postoperative complications and permanent sequelae. Older age was also reported to be a risk factor of IAN injury as in older age bone is not as expandable as in the younger ones, thus inducing more pressure onto nerve while elevation of root.[[7](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC814478[9](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8144789/#ref9)/#ref7)] Hence, it is not only important to know the mechanism of the nerve injury to predict the recovery but for formulating the treatment plan also. Nerve injuries can be temporary or permanent, being classified as neuropraxia, axonotmesis, and neurotmesis. Clinically, sensory disturbances presents as hypoesthesia, hyperesthesia, anesthesia and dysesthesia (painful anesthesia).[9] These sensory disturbances can be troublesome causing problems with speech and mastication and may adversely affect the patient's quality of life. They also constitute one of the most frequent causes of complaints and litigation.[[10](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8144789/#ref10)]
+This study aims at measuring the clinical severity of pain, swelling, muscle trismus, infection, dry socket and any nerve injury-related paresthesia after m M3 surgery. It also aims to identify the risk factors for severe discomfort after M3 surgery and assess the validity of the postoperative symptom severity. It deals with identifying the most frequent occurrences and postoperative complications and preventing them or lessens their intensity.
+
+The prospective study was approved by ethical committee and data was collected from 163 patients, visiting the Department of Oral and Maxillofacial Surgery, for surgical extraction of impacted mandibular third molar. In this study, preoperative predictive variables were recorded with data record of name, age, gender, site of surgery, reasons for seeking third molar removal, maximum interincisal distance, type of impaction, difficulty index of tooth removal and preoperative linear measurements of landmarks distances such as tragus to corner of mouth, tragus to pogonion and lateral corner of eye to angle of mandible for comparison of swelling in postoperative period. Postoperative assessment was done after 1 week at the time of suture removal for pain, swelling, wound closure, postoperative bleeding, dry socket, infection, paresthesia and trismus. Pain intensity was recorded in the form of visual analogue scale, clinical swelling determination using thread measure, trismus assessment was done by differences in mouth opening, and paresthesia/anesthesia by questioning about tongue, chin and lip sensibility and performing neurosensory tests like 2- point discrimination, pin prick and light touch. Patients with neurosensory disturbance were followed for 6 months.
+
+1. Preoperative assessment was done with data record of name, age, gender, site of surgery, reasons for seeking third molar removal, maximum interincisal distance (in mm) and type of impaction (Pell and Gregory and Winter classification) and these classifications were used to predict the difficulty index of tooth removal, preoperative thread measurements of landmarks distances such as tragus to corner of mouth, tragus to pogonion and lateral corner of eye to angle of mandible for swelling assessment.
+2. Intraoperative assessment of time taken for surgery (in minutes), type of odontectomy, any intraoperative complication.
+3. Postoperative assessment after 1 week at the time of suture removal for pain, swelling, wound closure, postoperative bleeding, dry socket, infection, paresthesia and trismus assessment. Pain intensity was recorded in the form of visual analogue scale (VAS), clinical swelling determination was done using thread measure, trismus assessment by differences in mouth opening, paresthesia/anesthesia assessment by questioning about patient's tongue, chin and lip sensibility and performing clinical neurosensory tests. In the event of inferior alveolar nerve sensory impairment detection, the affected area was mapped and 2- point discrimination, pin prick and light touch were assessed. Pain was assessed clinically using a 10 cm long, horizontal visual analog scale marked as marking 0-10 values, where 0 was considered as no pain and 10 was considered as worst pain. When patient marked scale between '1-3', pain level was considered as mild, at 4–6 level pain was considered as moderate, at 7-9 level pain was considered as severe. Thus, pain perception of patient was assessed. Swelling assessment by preoperative thread measurements of landmarks distances such as tragus to corner of mouth, tragus to pogonion and lateral corner of eye to angle of mandible and comparing these measurements with postoperative measurements at postoperative visit of patient. Presence of infection was defined by purulent discharge at the extraction site or painful induration and lymphadenopathy.
+Preoperative assessment was done with data record of name, age, gender, site of surgery, reasons for seeking third molar removal, maximum interincisal distance (in mm) and type of impaction (Pell and Gregory and Winter classification) and these classifications were used to predict the difficulty index of tooth removal, preoperative thread measurements of landmarks distances such as tragus to corner of mouth, tragus to pogonion and lateral corner of eye to angle of mandible for swelling assessment.
+Intraoperative assessment of time taken for surgery (in minutes), type of odontectomy, any intraoperative complication.
+Postoperative assessment after 1 week at the time of suture removal for pain, swelling, wound closure, postoperative bleeding, dry socket, infection, paresthesia and trismus assessment. Pain intensity was recorded in the form of visual analogue scale (VAS), clinical swelling determination was done using thread measure, trismus assessment by differences in mouth opening, paresthesia/anesthesia assessment by questioning about patient's tongue, chin and lip sensibility and performing clinical neurosensory tests. In the event of inferior alveolar nerve sensory impairment detection, the affected area was mapped and 2- point discrimination, pin prick and light touch were assessed. Pain was assessed clinically using a 10 cm long, horizontal visual analog scale marked as marking 0-10 values, where 0 was considered as no pain and 10 was considered as worst pain. When patient marked scale between '1-3', pain level was considered as mild, at 4–6 level pain was considered as moderate, at 7-9 level pain was considered as severe. Thus, pain perception of patient was assessed. Swelling assessment by preoperative thread measurements of landmarks distances such as tragus to corner of mouth, tragus to pogonion and lateral corner of eye to angle of mandible and comparing these measurements with postoperative measurements at postoperative visit of patient. Presence of infection was defined by purulent discharge at the extraction site or painful induration and lymphadenopathy.
+
+Trismus was assessed by comparing preoperative and postoperative interincisal distance and differences in mouth opening was noted. [[Figure 1a](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8144789/#F1)] Wound closure was recorded as poor, fair or good depending on the status of wound healing and approximation at the time of suture removal at the seventh day postoperative visit of the patient. Dry socket was recorded as a complication in patients who presented with dull aching pain in an inflamed tooth socket. Postoperative bleeding was recorded in patients who presented with blood loss from socket at the postoperative visit. Nerve injury was assessed by using different neurosensory tests such as pin prick test, light-touch assessment and two point discrimination.
+
+#### Figure 1.
+[Open in a new tab](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8144789/figure/F1/)
+(a) Trismus was assessed by measuring interincisal distance (b) Two.point discrimination test. (c) Light touch assessment
+At the postoperative visit, each patient was specifically asked if there was any difference in sensation of lower lip or chin between operated and unoperated sides. Also specific questions were asked about accidental biting of lips, drooling/food running down the chin and burning, painful or tingling sensations. For nerve injury assessment following clinical neurosensory tests was used. Before and during testing the subject was asked to close the eyes and tests were performed. Two point discrimination test (TPD) – in this neurosensory test, the probes of caliper device were drawn across the surface of skin or mucosa at constant pressure and patient was asked whether one or two points are felt. One at a time blunt dual probes were applied to the skin or mucosa and the subject was asked to raise his left hand if two points were sensed. The minimum separation that was consistently reported as two points was termed as two point discrimination threshold. The separation distance at which subject was capable of distinguishing two points in five or six trials was recorded for that particular zone. Whenever incorrect answers were given, the probe with next large separation distance was selected. Whenever correct answers were given, probe with next smaller separation distance was selected. [[Figure 1b](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8144789/#F1)] Pin prick test (PP) – In this test, a sharp dental probe was applied to the skin in a quick pricking movement and pain perception of the patient was assessed. Each test area was pricked three times bilaterally and subject was asked if any difference was felt between the sides. Sensation was checked by pricking tongue, mucosa, lip and skin over chin region.
+Paresthesia was defined as any postoperative change in sensitivity of tissues innervated by the trigeminal nerve after test evaluation. Light touch assessement (LT) – This method was used for testing by gently touching (Tactile stimulation) the skin and evaluating the detection threshold of the patient. For this test, cotton stick was used to perform the test. Stimuli were applied at a random and area of anesthesia was mapped by moving outward in small steps until stimulus is felt. [[Figure 1c](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8144789/#F1)]
+
+The prospective study data were collected from 16[3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8144789/#F4) patients, visiting the Department of Oral and Maxillofacial Surgery, for assessment of postoperative discomfort and nerve injuries after surgical extraction of mandibular third molar. Of 163 patients, 108 were male patients and 55 were female patients. About 48% patients were in the age group between [2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8144789/#F3)5 and 30 years whereas 33% patients in less than 25 years age group. Reasons for seeking third molar tooth removal was pericoronitis in 41% of cases followed by 33% of cases with chronic irreversible pulpitis. In this series, 66% of patients reported with mild pain and 32% patients with no pain by postsurgery day 7, whereas only 1% patients reported with moderate and only 1% with severe pain on the visual analog scale [[Graph 1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8144789/#F2)]. Most of the patients reported with mild pain, mild swelling and trismus at seventh postoperative day at the time of suture removal. The mean difference in preoperative and postoperative mouth opening and swelling assessment was found to be statistically significant in this study. [Graphs 2 and 3]
+
+### Graph 1.
+[Open in a new tab](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8144789/figure/F2/)
+Distribution of sample reporting pain post-surgery day seven on visual analog scale
+
+### Graph 2.
+[Open in a new tab](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8144789/figure/F3/)
+Mean of preoperative and postoperative mouth opening at seventh day of surgery
+
+### Graph 3.
+[Open in a new tab](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8144789/figure/F4/)
+Mean of preoperative and postoperative swelling assessment at seventh day of surgery
+Postoperative complications like dry socket, infection, postoperative bleeding was not reported in the study. Lingual nerve injury was reported in 4 patients (2%) of 163 cases in the study group. Inferior alveolar nerve paresthesia was not reported in case series. [[Table 1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8144789/#T1)] Syncope was reported as intraoperative complication in 2 patients of the study group but these patients not reported with any significant postoperative complication.
+
+### Table 1.
+Distribution of postoperative nerve injuries
+[Open in a new tab](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8144789/table/T1/)
+
+### Statistical analysis
+Null Hypothesis: There is no significant difference in the pre and post mean value of different parameters i.e. μ1 = μ2.
+Alternate Hypothesis: There is a significant difference in the pre and post mean value of different parameters i.e. μ1 ≠ μ2.
+Level of Significance: α = 0.05
+Statistical tests used: Wilcoxon Signed Ranks Test
+Decision Criterion: We compared the P Value with the level of significance. If P < 0.05, we rejected the null hypothesis and accepted the alternate hypothesis. If P ≥ 0.05, we accepted the null hypothesis.
+
+Lower third molar extraction is one of the most common procedures performed in Oral and Maxillofacial Surgery units.[[11](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8[14](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8144789/#ref14)4789/#ref11)] Although the extraction of impacted M3 is a common dental procedure, it can present difficulties.[[12](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8144789/#ref12)] Surgical extraction of third molars is often accompanied by pain, swelling, trismus, injury to IAN and LN and general oral dysfunction during the healing phase.[[13](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8144789/#ref13)] Although careful attention to surgical details, including proper patient preparation, asepsis, meticulous management of hard and soft tissue, control may help to reduce this rate of complications; however; it has not been proven to eliminated them.[14]
+Injury to IAN and LN result in total loss (anesthesia) or at least reduction of mechanoreception and nociception (hypoaesthesia) of the supplying region. Severe compression or transection of nerve may initiate neural degeneration and demyelination. When the nerve is partially or totally severed, a neuroma will be formed as an attempt of healing. Taste loss as a collateral damage of the chorda tympani from an LN injury, may be a disturbing symptom of the affected individual. Taste sensation is received by the special sensory component of both the facial nerve (anterior two-third of tongue) and the glossopharyngeal nerve, and the olfactory sensation contributes significantly the interpretation of the taste in the higher center.
+It is interesting to note in the Asian population that the effect of taste loss on one side of the anterior two-third of tongue appears to impact on the individuals quality of life than people in western countries. Many Asian cultures consider tasting of food to be an important aspect of life. The complication of taste loss from a lower third molar surgery shall not be overlooked. Since IAN and LN deficit affect sensation, it is important to understand the impact of the affected individual from their perspective. It was found that the perceived general health-related quality of life of the affected individuals was worse than the normal individuals.[[15](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8144789/#ref15)] Interestingly, of the two components in the measurement; the mental health component was significantly affected when a permanent nerve injury existed while the physical health component was not much affected. It indicates IAN or LN deficit themselves may not affect much the actual physical function of the individual, but it causes a large negative impact on their psychology. The patients with persistent third molar surgery-induced LN or IAN deficit were having more depression symptoms and were less satisfied in life when compared to normal individuals.[[[16](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8144789/#ref16)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8144789/#ref16)] It is shocking to note that older patients (over 40 years) had more severe depression symptoms when compared to the younger counterparts when IAN or LN injury occurred.[16] Many patients and surgeons might consider a third molar surgery to be a minor oral surgery without much risk, or did not expect the outcome of the risk. The unhappy patients with nerve injury may take medico-legal action for the compensation when these unpleasant complications occur.[[17](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8144789/#ref17)]
+
+Oral surgical procedures can vary in difficulty and in the degree of trauma caused to the surrounding tissue, as the Oral and Maxillofacial Surgeon performs a more invasive or difficult procedure, there will be an increased amount of trauma to the surgical site as well as the surrounding tissues.[[18](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC81[4](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8144789/#ref4)4789/#ref18)] Most third molar surgeries are performed without intra- or postoperative difficulties; however, sometimes this common procedure can result in several complications. In all surgical procedures, proper preoperative planning and the blending of surgical technique with surgical principles is of paramount importance for decreasing the incidence of complications.[[19](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8144789/#ref19)] In the present study, 48% of the patients were in the age group of 25 and 30 years followed by 33% of patients who were less than 25 years of age and these compare favorably with study conducted by Grossi et al.[[20](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8144789/#ref20)] The present study demonstrates 2% incidence of lingual nerve injury where no symptom lasted for more than 12 weeks. Two males and two females were reported with lingual nerve injury. Of 4 patients, 1 patient did not come for follow up. Inferior alveolar nerve paresthesia was not reported in our case series. Bataineh A et al.[4] showed postoperative lingual nerve paresthesia occurred in 2.6% patients. There was a highly significant increase in the incidence associated with rising of a lingual flap. The incidence of inferior alveolar nerve paresthesia was (3.9%). The results of this study concluded that the elevation of lingual flaps and the experience of the operator are significant factors contributing to lingual and inferior alveolar nerve paresthesia, respectively.
+Valmeseda-Castellon E et al.[[21](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8144789/#ref21)] demonstrated 2.0% incidence of temporary lingual nerve damage, though no symptom lasted more than 13 weeks. They concluded that anatomical factors such as lingual inclination of third molar, surgical maneuvers such as lingual flap retraction and vertical tooth sectioning, and surgeons inexperience all increase the risk of lingual nerve damage, although permanent damage seemed to be very rare. In our case series patients with class II location of mandibular third molar were 96% and these results were consistent with study conducted by Grossi et al.[[20](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8144789/#ref20)] where they found it as 85%. Considering angulation of third molars in our case series, tooth with vertical angulations were reported as 32% and mesioangular as 31% and this also corroborate with the same study where they also reported 28.2% for mesioangular and 28.2% for vertical.
+Grossi et al.[[20](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8144789/#ref20)] demonstrated that the mean difference of mouth opening was 8.9 mm and the results of our case series reported mean difference in mouth opening as 8.067 mm. The reduction in mean mouth opening from pre-op to post-op was found to be statistically significant in our case series (P < 0.001). Francois Blondeau et al.[[[3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8144789/#ref3)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8144789/#ref3)] demonstrated the overall complication rate of 6.9% consisting of 20 cases of alveolitis, 12 cases of infection and 6 cases of paresthesia of the inferior alveolar nerve. Of the 6 neurosensory deficits, 3 resolved and 3 were permanent. The risk factors associated with permanent neurosensory deficit were female sex, Pell and Gregory IC or IIC classification of impaction, and age greater than 24 years. The risk of postoperative alveolitis and infection was also greater among women.[3]
+
+## Discussion
+In the present study, we did not come across with alveolitis, infection, and inferior alveolar paresthesia in the study group. Most of the patients were reported with mild pain, mild swelling and trismus at the seventh postoperative day at the time of suture removal. The mean difference in preoperative and postoperative swelling assessment was found to be statistically significant (P < 0.001). Lingual nerve injury was reported in 4 patients of 163 cases in our study group. Of these four patients, two female patient's age was greater than 30 years but as two males were also affected in our case series, the study doesn't support the female sex predilection for nerve injury as there was equal incidence of nerve injury in both sexes. Syncope was reported as intraoperative complication in 2 patients of our study group but these patients not reported with any significant postoperative complication.
+The study of White RP et al.[[[22](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8144789/#ref22)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8144789/#ref22)] showed that, on postsurgery day 1, 54% of the patients reported the worst pain experienced during the last 24 hours as severe, but only 20% reported their average pain over that period as severe. By postsurgery day 7, 15% of patients still reported their worst pain as severe; 5% reported average pain as severe. Median sensory levels of pain on the Gracely scales were “moderate” for days 1 and 2 after surgery, decreasing to “very weak” by day 7.[22] In our case series, 66% of patients reported with mild pain and 32% patients with no pain by postsurgery day 7, whereas only 1% patients reported with moderate and only 1% with severe pain on the visual analog scale.
+
+## Conclusions
+In the light of the existing evidence, adequate preoperative evaluation of the patient and meticulous surgical technique are of paramount importance to diminish the incidence of complications. Although third molar surgery is a secure and low morbidity procedure, the risk of complications will always exist and it increases with increased surgical difficulty, hence the patient should always be educated about the risks and benefits of surgery to ensure adequate surgical management of impacted mandibular third molar.
+
+### Financial support and sponsorship
+Nil.
+
+### Conflicts of interest
+There are no conflicts of interest.
+
+- 
+1.Kafas P, Jerjes W, Hopper C, Dalabiras S. Complications following lower third molar surgery in specific age group- A prospective study. Surg J. 2007;2:50–4. [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Surg%20J&title=Complications%20following%20lower%20third%20molar%20surgery%20in%20specific%20age%20group-%20A%20prospective%20study&author=P%20Kafas&author=W%20Jerjes&author=C%20Hopper&author=S%20Dalabiras&volume=2&publication_year=2007&pages=50-4&)]
+- 
+2.Jerjes W, Upile T, Kafas P, Abbas S, Rob J, Mccarthy E, et al.  Third molar surgery: The patient's and the clinician's perspective. Int Arch Med. 2009;2:32. doi: 10.1186/1755-7682-2-32. [[DOI](https://doi.org/10.1186/1755-7682-2-32)] [[PMC free article](https://www.ncbi.nlm.nih.gov/articles/PMC2772836/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/19852848/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Int%20Arch%20Med&title=Third%20molar%20surgery:%20The%20patient's%20and%20the%20clinician's%20perspective&author=W%20Jerjes&author=T%20Upile&author=P%20Kafas&author=S%20Abbas&author=J%20Rob&volume=2&publication_year=2009&pages=32&pmid=19852848&doi=10.1186/1755-7682-2-32&)]
+- 
+3.Blondeau F, Daniel NG. Extraction of impacted mandibular third molars: Postoperative complications and their risk factors. J Can Dent Assoc. 2007;73:325. [[PubMed](https://pubmed.ncbi.nlm.nih.gov/17484797/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Can%20Dent%20Assoc&title=Extraction%20of%20impacted%20mandibular%20third%20molars:%20Postoperative%20complications%20and%20their%20risk%20factors&author=F%20Blondeau&author=NG%20Daniel&volume=73&publication_year=2007&pages=325&pmid=17484797&)]
+- 
+4.Bataineh AB. Sensory nerve impairment following mandibular third molar surgery. J Oral Maxillofac Surg. 2001;59:1012–7. doi: 10.1053/joms.2001.25827. discussion 1017. [[DOI](https://doi.org/10.1053/joms.2001.25827)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/11526568/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Oral%20Maxillofac%20Surg&title=Sensory%20nerve%20impairment%20following%20mandibular%20third%20molar%20surgery&author=AB%20Bataineh&volume=59&publication_year=2001&pages=1012-7&pmid=11526568&doi=10.1053/joms.2001.25827&)]
+- 
+5.Cheung LK, Leung YY, Chow LK, Wong MC, Chan EK, Fok YH. Incidence of neurosensory deficits and recovery after lower third molar surgery: A prospective clinical study of 4338 cases. Int J Oral Maxillofac Surg. 2010;39:320–6. doi: 10.1016/j.ijom.2009.11.010. [[DOI](https://doi.org/10.1016/j.ijom.2009.11.010)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/20061121/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Int%20J%20Oral%20Maxillofac%20Surg&title=Incidence%20of%20neurosensory%20deficits%20and%20recovery%20after%20lower%20third%20molar%20surgery:%20A%20prospective%20clinical%20study%20of%204338%20cases&author=LK%20Cheung&author=YY%20Leung&author=LK%20Chow&author=MC%20Wong&author=EK%20Chan&volume=39&publication_year=2010&pages=320-6&pmid=20061121&doi=10.1016/j.ijom.2009.11.010&)]
+- 
+6.Lee CT, Zhang S, Leung YY, Li SK, Tsang CC, Chu CH. Patients' satisfaction and prevalence of complications on surgical extraction of third molar. Patient Prefer Adherence. 2015;9:257–63. doi: 10.2147/PPA.S76236. [[DOI](https://doi.org/10.2147/PPA.S76236)] [[PMC free article](https://www.ncbi.nlm.nih.gov/articles/PMC4332291/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/25709411/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Patient%20Prefer%20Adherence&title=Patients'%20satisfaction%20and%20prevalence%20of%20complications%20on%20surgical%20extraction%20of%20third%20molar&author=CT%20Lee&author=S%20Zhang&author=YY%20Leung&author=SK%20Li&author=CC%20Tsang&volume=9&publication_year=2015&pages=257-63&pmid=25709411&doi=10.2147/PPA.S76236&)]
+-
+
+7.Leung YY, Cheung LK. Risk factors of neurosensory deficits in lower third molar surgery: A literature review of prospective studies. Int J Oral Maxillofac Surg. 2011;40:1–10. doi: 10.1016/j.ijom.2010.09.005. [[DOI](https://doi.org/10.1016/j.ijom.2010.09.005)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/21035310/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Int%20J%20Oral%20Maxillofac%20Surg&title=Risk%20factors%20of%20neurosensory%20deficits%20in%20lower%20third%20molar%20surgery:%20A%20literature%20review%20of%20prospective%20studies&author=YY%20Leung&author=LK%20Cheung&volume=40&publication_year=2011&pages=1-10&pmid=21035310&doi=10.1016/j.ijom.2010.09.005&)]
+- 
+8.Friedman JW. The prophylactic extraction of third molars: A public health hazard. Am J Public Health. 2007;97:1554–9. doi: 10.2105/AJPH.2006.100271. [[DOI](https://doi.org/10.2105/AJPH.2006.100271)] [[PMC free article](https://www.ncbi.nlm.nih.gov/articles/PMC1963310/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/17666691/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Am%20J%20Public%20Health&title=The%20prophylactic%20extraction%20of%20third%20molars:%20A%20public%20health%20hazard&author=JW%20Friedman&volume=97&publication_year=2007&pages=1554-9&pmid=17666691&doi=10.2105/AJPH.2006.100271&)]
+- 
+9.Gomes AC, Vasconcelos BC, Silva ED, Silva LC. Lingual nerve damage after mandibular third molar surgery: A randomized clinical trial. J Oral Maxillofac Surg. 2005;63:1443–6. doi: 10.1016/j.joms.2005.06.012. [[DOI](https://doi.org/10.1016/j.joms.2005.06.012)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/16182911/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Oral%20Maxillofac%20Surg&title=Lingual%20nerve%20damage%20after%20mandibular%20third%20molar%20surgery:%20A%20randomized%20clinical%20trial&author=AC%20Gomes&author=BC%20Vasconcelos&author=ED%20Silva&author=LC%20Silva&volume=63&publication_year=2005&pages=1443-6&pmid=16182911&doi=10.1016/j.joms.2005.06.012&)]
+- 
+10.Loescher AR, Smith KG, Robinson PP. Nerve damage and third molar removal. Dent Update. 2003;30:375–82. doi: 10.12968/denu.2003.30.7.375. [[DOI](https://doi.org/10.12968/denu.2003.30.7.375)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/14558203/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Dent%20Update&title=Nerve%20damage%20and%20third%20molar%20removal&author=AR%20Loescher&author=KG%20Smith&author=PP%20Robinson&volume=30&publication_year=2003&pages=375-82&pmid=14558203&doi=10.12968/denu.2003.30.7.375&)]
+- 
+11.Bui CH, Seldin EB, Dodson TB. Types, frequencies, and risk factors for complications after third molar extraction. J Oral Maxillofac Surg. 2003;61:1379–89. doi: 10.1016/j.joms.2003.04.001. [[DOI](https://doi.org/10.1016/j.joms.2003.04.001)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/14663801/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Oral%20Maxillofac%20Surg&title=Types,%20frequencies,%20and%20risk%20factors%20for%20complications%20after%20third%20molar%20extraction&author=CH%20Bui&author=EB%20Seldin&author=TB%20Dodson&volume=61&publication_year=2003&pages=1379-89&pmid=14663801&doi=10.1016/j.joms.2003.04.001&)]
+- 
+12.Barreiro-Torres J, Diniz-Freitas M, Lago-Méndez L, Gude-Sampedro F, Gándara-Rey J, García-García A. Evaluation of the surgical difficulty in lower third molar extraction. Med Oral Patol Oral Cir Bucal. 2010;15:e869–74. doi: 10.4317/medoral.15.e869. [[DOI](https://doi.org/10.4317/medoral.15.e869)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/20526272/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Med%20Oral%20Patol%20Oral%20Cir%20Bucal&title=Evaluation%20of%20the%20surgical%20difficulty%20in%20lower%20third%20molar%20extraction&author=J%20Barreiro-Torres&author=M%20Diniz-Freitas&author=L%20Lago-M%C3%A9ndez&author=F%20Gude-Sampedro&author=J%20G%C3%A1ndara-Rey&volume=15&publication_year=2010&pages=e869-74&pmid=20526272&doi=10.4317/medoral.15.e869&)]
+-
+
+13.Susarla SM, Blaeser BF, Magalnick D. Third molar surgery and associated complications. Oral Maxillofac Surg Clin North Am. 2003;15:177–86. doi: 10.1016/S1042-3699(02)00102-4. [[DOI](https://doi.org/10.1016/S1042-3699(02)00102-4)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/18088673/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Oral%20Maxillofac%20Surg%20Clin%20North%20Am&title=Third%20molar%20surgery%20and%20associated%20complications&author=SM%20Susarla&author=BF%20Blaeser&author=D%20Magalnick&volume=15&publication_year=2003&pages=177-86&pmid=18088673&doi=10.1016/S1042-3699(02)00102-4&)]
+- 
+14.Jerjes W, El-Maaytah M, Swinson B, Banu B, Upile T, D'Sa S, et al.  Experience versus complication rate in third molar surgery. Head Face Med. 2006;2:14. doi: 10.1186/1746-160X-2-14. [[DOI](https://doi.org/10.1186/1746-160X-2-14)] [[PMC free article](https://www.ncbi.nlm.nih.gov/articles/PMC1481631/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/16725024/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Head%20Face%20Med&title=Experience%20versus%20complication%20rate%20in%20third%20molar%20surgery&author=W%20Jerjes&author=M%20El-Maaytah&author=B%20Swinson&author=B%20Banu&author=T%20Upile&volume=2&publication_year=2006&pages=14&pmid=16725024&doi=10.1186/1746-160X-2-14&)]
+- 
+15.Leung YY, McGrath C, Cheung LK. Trigeminal neurosensory deficit and patient reported outcome measures: The effect on quality of life? PLoS One. 2013;8:e77391. doi: 10.1371/journal.pone.0077391. doi: 10.1371/journal.pone. 0077391. [[DOI](https://doi.org/10.1371/journal.pone.0077391)] [[PMC free article](https://www.ncbi.nlm.nih.gov/articles/PMC3812273/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/24204820/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=PLoS%20One&title=Trigeminal%20neurosensory%20deficit%20and%20patient%20reported%20outcome%20measures:%20The%20effect%20on%20quality%20of%20life?&author=YY%20Leung&author=C%20McGrath&author=LK%20Cheung&volume=8&publication_year=2013&pages=e77391&pmid=24204820&doi=10.1371/journal.pone.0077391&)]
+- 
+16.Leung YY, Lee TC, Ho SM, Cheung LK. Trigeminal neurosensory deficit and patient reported outcome measures: The effect on life satisfaction and depression symptoms? PLoS One. 2013;8:e72891. doi: 10.1371/journal.pone.0072891. doi: 10.1371/journal.pone. 0072891. [[DOI](https://doi.org/10.1371/journal.pone.0072891)] [[PMC free article](https://www.ncbi.nlm.nih.gov/articles/PMC3757017/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/24009712/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=PLoS%20One&title=Trigeminal%20neurosensory%20deficit%20and%20patient%20reported%20outcome%20measures:%20The%20effect%20on%20life%20satisfaction%20and%20depression%20symptoms?&author=YY%20Leung&author=TC%20Lee&author=SM%20Ho&author=LK%20Cheung&volume=8&publication_year=2013&pages=e72891&pmid=24009712&doi=10.1371/journal.pone.0072891&)]
+- 
+17.Leung YY, Cheung LK. Longitudinal treatment outcomes of microsurgical treatment of neurosensory deficit after lower third molar surgery: A prospective case series? PLoS One. 2016;11:e0150149. doi: 10.1371/journal.pone.0150149. doi: 10.1371/journal.pone.0150149. [[DOI](https://doi.org/10.1371/journal.pone.0150149)] [[PMC free article](https://www.ncbi.nlm.nih.gov/articles/PMC4778935/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/26942439/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=PLoS%20One&title=Longitudinal%20treatment%20outcomes%20of%20microsurgical%20treatment%20of%20neurosensory%20deficit%20after%20lower%20third%20molar%20surgery:%20A%20prospective%20case%20series?&author=YY%20Leung&author=LK%20Cheung&volume=11&publication_year=2016&pages=e0150149&pmid=26942439&doi=10.1371/journal.pone.0150149&)]
+-
+
+18.Buyukkurt MC, Gungormus M, Kaya O. The effect of a single dose prednisolone with and without diclofenac on pain, trismus, and swelling after removal of mandibular third molars. J Oral Maxillofac Surg. 2006;64:1761–6. doi: 10.1016/j.joms.2005.11.107. [[DOI](https://doi.org/10.1016/j.joms.2005.11.107)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/17113442/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Oral%20Maxillofac%20Surg&title=The%20effect%20of%20a%20single%20dose%20prednisolone%20with%20and%20without%20diclofenac%20on%20pain,%20trismus,%20and%20swelling%20after%20removal%20of%20mandibular%20third%20molars&author=MC%20Buyukkurt&author=M%20Gungormus&author=O%20Kaya&volume=64&publication_year=2006&pages=1761-6&pmid=17113442&doi=10.1016/j.joms.2005.11.107&)]
+- 
+19.Contar CM, de Oliveira P, Kanegusuku K, Berticelli RD, Azevedo-Alanis LR, Machado MA. Complications in third molar removal: A retrospective study of 588 patients. Med Oral Patol Oral Cir Bucal. 2010;15:e74–8. doi: 10.4317/medoral.15.e74. [[DOI](https://doi.org/10.4317/medoral.15.e74)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/19767694/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Med%20Oral%20Patol%20Oral%20Cir%20Bucal&title=Complications%20in%20third%20molar%20removal:%20A%20retrospective%20study%20of%20588%20patients&author=CM%20Contar&author=P%20de%20Oliveira&author=K%20Kanegusuku&author=RD%20Berticelli&author=LR%20Azevedo-Alanis&volume=15&publication_year=2010&pages=e74-8&pmid=19767694&doi=10.4317/medoral.15.e74&)]
+- 
+20.Grossi GB, Maiorana C, Garramone RA, Borgonovo A, Creminelli L, Santoro F. Assessing postoperative discomfort after third molar surgery: A prospective study. J Oral Maxillofac Surg. 2007;65:901–17. doi: 10.1016/j.joms.2005.12.046. [[DOI](https://doi.org/10.1016/j.joms.2005.12.046)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/17448840/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Oral%20Maxillofac%20Surg&title=Assessing%20postoperative%20discomfort%20after%20third%20molar%20surgery:%20A%20prospective%20study&author=GB%20Grossi&author=C%20Maiorana&author=RA%20Garramone&author=A%20Borgonovo&author=L%20Creminelli&volume=65&publication_year=2007&pages=901-17&pmid=17448840&doi=10.1016/j.joms.2005.12.046&)]
+- 
+21.Valmeseda-Castellon E, Berini-Aytes L, Gay-Escoda C. Lingual nerve damage after third molar extraction. Oral Surg Oral Med Oral Pathol Oral Radiol Endod. 2000;90:567–73. doi: 10.1067/moe.2000.110034. [[DOI](https://doi.org/10.1067/moe.2000.110034)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/11077378/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Oral%20Surg%20Oral%20Med%20Oral%20Pathol%20Oral%20Radiol%20Endod&title=Lingual%20nerve%20damage%20after%20third%20molar%20extraction&author=E%20Valmeseda-Castellon&author=L%20Berini-Aytes&author=C%20Gay-Escoda&volume=90&publication_year=2000&pages=567-73&pmid=11077378&doi=10.1067/moe.2000.110034&)]
+- 
+22.White RP, Jr, Shugars DA, Shafer DM, Laskin DM, Buckley MJ, Phillips C. Recovery after third molar surgery: Clinical and health related quality of life Outcomes. J Oral Maxillofac Surg. 2003;61:535–44. doi: 10.1053/joms.2003.50106. [[DOI](https://doi.org/10.1053/joms.2003.50106)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/12730831/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Oral%20Maxillofac%20Surg&title=Recovery%20after%20third%20molar%20surgery:%20Clinical%20and%20health%20related%20quality%20of%20life%20Outcomes&author=RP%20White&author=DA%20Shugars&author=DM%20Shafer&author=DM%20Laskin&author=MJ%20Buckley&volume=61&publication_year=2003&pages=535-44&pmid=12730831&doi=10.1053/joms.2003.50106&)]
+[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Surg%20J&title=Complications%20following%20lower%20third%20molar%20surgery%20in%20specific%20age%20group-%20A%20prospective%20study&author=P%20Kafas&author=W%20Jerjes&author=C%20Hopper&author=S%20Dalabiras&volume=2&publication_year=2007&pages=50-4&)
+[DOI](https://doi.org/10.1186/1755-7682-2-32)
+[PMC free article](https://www.ncbi.nlm.nih.gov/articles/PMC2772836/)
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/19852848/)
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Int%20Arch%20Med&title=Third%20molar%20surgery:%20The%20patient's%20and%20the%20clinician's%20perspective&author=W%20Jerjes&author=T%20Upile&author=P%20Kafas&author=S%20Abbas&author=J%20Rob&volume=2&publication_year=2009&pages=32&pmid=19852848&doi=10.1186/1755-7682-2-32&)
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/17484797/)
+[Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Can%20Dent%20Assoc&title=Extraction%20of%20impacted%20mandibular%20third%20molars:%20Postoperative%20complications%20and%20their%20risk%20factors&author=F%20Blondeau&author=NG%20Daniel&volume=73&publication_year=2007&pages=325&pmid=17484797&)
+[DOI](https://doi.org/10.1053/joms.2001.25827)
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/11526568/)
+[Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Oral%20Maxillofac%20Surg&title=Sensory%20nerve%20impairment%20following%20mandibular%20third%20molar%20surgery&author=AB%20Bataineh&volume=59&publication_year=2001&pages=1012-7&pmid=11526568&doi=10.1053/joms.2001.25827&)
+[DOI](https://doi.org/10.1016/j.ijom.2009.11.010)
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/20061121/)
+[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Int%20J%20Oral%20Maxillofac%20Surg&title=Incidence%20of%20neurosensory%20deficits%20and%20recovery%20after%20lower%20third%20molar%20surgery:%20A%20prospective%20clinical%20study%20of%204338%20cases&author=LK%20Cheung&author=YY%20Leung&author=LK%20Chow&author=MC%20Wong&author=EK%20Chan&volume=39&publication_year=2010&pages=320-6&pmid=20061121&doi=10.1016/j.ijom.2009.11.010&)
+[DOI](https://doi.org/10.2147/PPA.S76236)
+[PMC free article](https://www.ncbi.nlm.nih.gov/articles/PMC4332291/)
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/25709411/)
+[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Patient%20Prefer%20Adherence&title=Patients'%20satisfaction%20and%20prevalence%20of%20complications%20on%20surgical%20extraction%20of%20third%20molar&author=CT%20Lee&author=S%20Zhang&author=YY%20Leung&author=SK%20Li&author=CC%20Tsang&volume=9&publication_year=2015&pages=257-63&pmid=25709411&doi=10.2147/PPA.S76236&)
+[DOI](https://doi.org/10.1016/j.ijom.2010.09.005)
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/21035310/)
+[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Int%20J%20Oral%20Maxillofac%20Surg&title=Risk%20factors%20of%20neurosensory%20deficits%20in%20lower%20third%20molar%20surgery:%20A%20literature%20review%20of%20prospective%20studies&author=YY%20Leung&author=LK%20Cheung&volume=40&publication_year=2011&pages=1-10&pmid=21035310&doi=10.1016/j.ijom.2010.09.005&)
+[DOI](https://doi.org/10.2105/AJPH.2006.100271)
+[PMC free article](https://www.ncbi.nlm.nih.gov/articles/PMC1963310/)
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/17666691/)
+[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Am%20J%20Public%20Health&title=The%20prophylactic%20extraction%20of%20third%20molars:%20A%20public%20health%20hazard&author=JW%20Friedman&volume=97&publication_year=2007&pages=1554-9&pmid=17666691&doi=10.2105/AJPH.2006.100271&)
+[DOI](https://doi.org/10.1016/j.joms.2005.06.012)
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/16182911/)
+[Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Oral%20Maxillofac%20Surg&title=Lingual%20nerve%20damage%20after%20mandibular%20third%20molar%20surgery:%20A%20randomized%20clinical%20trial&author=AC%20Gomes&author=BC%20Vasconcelos&author=ED%20Silva&author=LC%20Silva&volume=63&publication_year=2005&pages=1443-6&pmid=16182911&doi=10.1016/j.joms.2005.06.012&)
+[DOI](https://doi.org/10.12968/denu.2003.30.7.375)
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/14558203/)
+[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Dent%20Update&title=Nerve%20damage%20and%20third%20molar%20removal&author=AR%20Loescher&author=KG%20Smith&author=PP%20Robinson&volume=30&publication_year=2003&pages=375-82&pmid=14558203&doi=10.12968/denu.2003.30.7.375&)
+[DOI](https://doi.org/10.1016/j.joms.2003.04.001)
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/14663801/)
+[Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Oral%20Maxillofac%20Surg&title=Types,%20frequencies,%20and%20risk%20factors%20for%20complications%20after%20third%20molar%20extraction&author=CH%20Bui&author=EB%20Seldin&author=TB%20Dodson&volume=61&publication_year=2003&pages=1379-89&pmid=14663801&doi=10.1016/j.joms.2003.04.001&)
+
+[DOI](https://doi.org/10.4317/medoral.15.e869)
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/20526272/)
+[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Med%20Oral%20Patol%20Oral%20Cir%20Bucal&title=Evaluation%20of%20the%20surgical%20difficulty%20in%20lower%20third%20molar%20extraction&author=J%20Barreiro-Torres&author=M%20Diniz-Freitas&author=L%20Lago-M%C3%A9ndez&author=F%20Gude-Sampedro&author=J%20G%C3%A1ndara-Rey&volume=15&publication_year=2010&pages=e869-74&pmid=20526272&doi=10.4317/medoral.15.e869&)
+[DOI](https://doi.org/10.1016/S1042-3699(02)00102-4)
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/18088673/)
+[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Oral%20Maxillofac%20Surg%20Clin%20North%20Am&title=Third%20molar%20surgery%20and%20associated%20complications&author=SM%20Susarla&author=BF%20Blaeser&author=D%20Magalnick&volume=15&publication_year=2003&pages=177-86&pmid=18088673&doi=10.1016/S1042-3699(02)00102-4&)
+[DOI](https://doi.org/10.1186/1746-160X-2-14)
+[PMC free article](https://www.ncbi.nlm.nih.gov/articles/PMC1481631/)
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/16725024/)
+[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Head%20Face%20Med&title=Experience%20versus%20complication%20rate%20in%20third%20molar%20surgery&author=W%20Jerjes&author=M%20El-Maaytah&author=B%20Swinson&author=B%20Banu&author=T%20Upile&volume=2&publication_year=2006&pages=14&pmid=16725024&doi=10.1186/1746-160X-2-14&)
+[DOI](https://doi.org/10.1371/journal.pone.0077391)
+[PMC free article](https://www.ncbi.nlm.nih.gov/articles/PMC3812273/)
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/24204820/)
+[Google Scholar](https://scholar.google.com/scholar_lookup?journal=PLoS%20One&title=Trigeminal%20neurosensory%20deficit%20and%20patient%20reported%20outcome%20measures:%20The%20effect%20on%20quality%20of%20life?&author=YY%20Leung&author=C%20McGrath&author=LK%20Cheung&volume=8&publication_year=2013&pages=e77391&pmid=24204820&doi=10.1371/journal.pone.0077391&)
+[DOI](https://doi.org/10.1371/journal.pone.0072891)
+[PMC free article](https://www.ncbi.nlm.nih.gov/articles/PMC3757017/)
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/24009712/)
+[Google Scholar](https://scholar.google.com/scholar_lookup?journal=PLoS%20One&title=Trigeminal%20neurosensory%20deficit%20and%20patient%20reported%20outcome%20measures:%20The%20effect%20on%20life%20satisfaction%20and%20depression%20symptoms?&author=YY%20Leung&author=TC%20Lee&author=SM%20Ho&author=LK%20Cheung&volume=8&publication_year=2013&pages=e72891&pmid=24009712&doi=10.1371/journal.pone.0072891&)
+[DOI](https://doi.org/10.1371/journal.pone.0150149)
+[PMC free article](https://www.ncbi.nlm.nih.gov/articles/PMC4778935/)
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/26942439/)
+[Google Scholar](https://scholar.google.com/scholar_lookup?journal=PLoS%20One&title=Longitudinal%20treatment%20outcomes%20of%20microsurgical%20treatment%20of%20neurosensory%20deficit%20after%20lower%20third%20molar%20surgery:%20A%20prospective%20case%20series?&author=YY%20Leung&author=LK%20Cheung&volume=11&publication_year=2016&pages=e0150149&pmid=26942439&doi=10.1371/journal.pone.0150149&)
+[DOI](https://doi.org/10.1016/j.joms.2005.11.107)
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/17113442/)
+[Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Oral%20Maxillofac%20Surg&title=The%20effect%20of%20a%20single%20dose%20prednisolone%20with%20and%20without%20diclofenac%20on%20pain,%20trismus,%20and%20swelling%20after%20removal%20of%20mandibular%20third%20molars&author=MC%20Buyukkurt&author=M%20Gungormus&author=O%20Kaya&volume=64&publication_year=2006&pages=1761-6&pmid=17113442&doi=10.1016/j.joms.2005.11.107&)
+[DOI](https://doi.org/10.4317/medoral.15.e74)
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/19767694/)
+[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Med%20Oral%20Patol%20Oral%20Cir%20Bucal&title=Complications%20in%20third%20molar%20removal:%20A%20retrospective%20study%20of%20588%20patients&author=CM%20Contar&author=P%20de%20Oliveira&author=K%20Kanegusuku&author=RD%20Berticelli&author=LR%20Azevedo-Alanis&volume=15&publication_year=2010&pages=e74-8&pmid=19767694&doi=10.4317/medoral.15.e74&)
+[DOI](https://doi.org/10.1016/j.joms.2005.12.046)
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/17448840/)
+
+## References
+[Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Oral%20Maxillofac%20Surg&title=Assessing%20postoperative%20discomfort%20after%20third%20molar%20surgery:%20A%20prospective%20study&author=GB%20Grossi&author=C%20Maiorana&author=RA%20Garramone&author=A%20Borgonovo&author=L%20Creminelli&volume=65&publication_year=2007&pages=901-17&pmid=17448840&doi=10.1016/j.joms.2005.12.046&)
+[DOI](https://doi.org/10.1067/moe.2000.110034)
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/11077378/)
+[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Oral%20Surg%20Oral%20Med%20Oral%20Pathol%20Oral%20Radiol%20Endod&title=Lingual%20nerve%20damage%20after%20third%20molar%20extraction&author=E%20Valmeseda-Castellon&author=L%20Berini-Aytes&author=C%20Gay-Escoda&volume=90&publication_year=2000&pages=567-73&pmid=11077378&doi=10.1067/moe.2000.110034&)
+[DOI](https://doi.org/10.1053/joms.2003.50106)
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/12730831/)
+[Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Oral%20Maxillofac%20Surg&title=Recovery%20after%20third%20molar%20surgery:%20Clinical%20and%20health%20related%20quality%20of%20life%20Outcomes&author=RP%20White&author=DA%20Shugars&author=DM%20Shafer&author=DM%20Laskin&author=MJ%20Buckley&volume=61&publication_year=2003&pages=535-44&pmid=12730831&doi=10.1053/joms.2003.50106&)
+Articles from Journal of Family Medicine and Primary Care are provided here courtesy of Wolters Kluwer -- Medknow Publications
+
+## ACTIONS
+- 
+                     [View on publisher site](https://doi.org/10.4103/jfmpc.jfmpc_280_19)
+
+- 
+                    [PDF (929.2 KB)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8144789/pdf/JFMPC-10-1712.pdf)
+
+- 
+
+
+                       Cite
+
+
+- 
+
+
+
+
+                            Collections
+
+
+- 
+
+
+                        Permalink
+
+
+
+
+
+          PERMALINK
+
+
+
+
+                  Copy
+
+
+
+
+
+[View on publisher site](https://doi.org/10.4103/jfmpc.jfmpc_280_19)
+[PDF (929.2 KB)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8144789/pdf/JFMPC-10-1712.pdf)
+
+## Cite
+- 
+
+
+            Copy
+
+
+- 
+          [Download .nbib
+                .nbib](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8144789/)
+
+- 
+
+
+
+  Format:
+
+
+
+        AMA
+
+
+
+        APA
+
+
+
+        MLA
+
+
+
+        NLM
+
+
+
+
+
+[Download .nbib
+                .nbib](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8144789/)
+
+## Add to Collections
+[Please try again](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8144789/)
+[NCBI on X (formerly known as Twitter)](https://twitter.com/ncbi)
+[NCBI on Facebook](https://www.facebook.com/ncbi.nlm)
+[NCBI on LinkedIn](https://www.linkedin.com/company/ncbinlm)
+[NCBI on GitHub](https://github.com/ncbi)
+[NCBI RSS feed](https://ncbiinsights.ncbi.nlm.nih.gov/)
+Connect with NLM
+[NLM on X (formerly known as Twitter)](https://twitter.com/nlm_nih)
+[NLM on Facebook](https://www.facebook.com/nationallibraryofmedicine)
+[NLM on YouTube](https://www.youtube.com/user/NLMNIH)
+National Library of Medicine 8600 Rockville Pike Bethesda, MD 20894
+- 
+
+
+
+
+
+
+
+
+
+
+    [Web Policies](https://www.nlm.nih.gov/web_policies.html)
+
+
+
+- 
+
+
+
+
+
+
+
+
+
+
+    [FOIA](https://www.nih.gov/institutes-nih/nih-office-director/office-communications-public-liaison/freedom-information-act-office)
+
+
+
+- 
+
+
+
+
+
+
+
+
+
+
+    [HHS Vulnerability Disclosure](https://www.hhs.gov/vulnerability-disclosure-policy/index.html)
+
+
+
+[Web Policies](https://www.nlm.nih.gov/web_policies.html)
+[FOIA](https://www.nih.gov/institutes-nih/nih-office-director/office-communications-public-liaison/freedom-information-act-office)
+[HHS Vulnerability Disclosure](https://www.hhs.gov/vulnerability-disclosure-policy/index.html)
+- 
+
+
+
+
+
+
+
+
+
+
+    [Help](https://support.nlm.nih.gov/)
+
+
+
+- 
+
+
+
+
+
+
+
+
+
+
+    [Accessibility](https://www.nlm.nih.gov/accessibility.html)
+
+
+
+- 
+
+
+
+
+
+
+
+
+
+
+    [Careers](https://www.nlm.nih.gov/careers/careers.html)
+
+
+
+[Help](https://support.nlm.nih.gov/)
+[Accessibility](https://www.nlm.nih.gov/accessibility.html)
+[Careers](https://www.nlm.nih.gov/careers/careers.html)
+- 
+
+
+
+
+
+
+
+
+
+
+    [NLM](https://www.nlm.nih.gov/)
+
+
+
+- 
+
+
+
+
+
+
+
+
+
+
+    [NIH](https://www.nih.gov/)
+
+
+
+- 
+
+
+
+
+
+
+
+
+
+
+    [HHS](https://www.hhs.gov/)
+
+
+
+- 
+
+
+
+
+
+
+
+
+
+
+    [USA.gov](https://www.usa.gov/)
+
+
+
+[NLM](https://www.nlm.nih.gov/)
+[NIH](https://www.nih.gov/)
+[HHS](https://www.hhs.gov/)
+[USA.gov](https://www.usa.gov/)
+

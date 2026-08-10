@@ -6,7 +6,7 @@ date: 2018-12-17
 doi: 10.1002/14651858.CD003877.pub5
 source: ashley-2018-sedation-children-undergoing-dental-treatment.md
 category: [behavioral-dentistry/dental-anxiety]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: false
 pmid: "30566228"

@@ -6,7 +6,7 @@ date: 2021-03-07
 doi: 10.3390/polym13050814
 source: hardan-2021-universal-adhesive-dentin-bond-sr-ma.md
 category: [resin-bonding]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/hardan-2021-universal-adhesive-dentin-bond-sr-ma.pdf
 pdf_filename: hardan-2021-universal-adhesive-dentin-bond-sr-ma.pdf
 source_collection: external

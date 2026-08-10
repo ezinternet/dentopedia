@@ -9,7 +9,7 @@ pmcid: "PMC11353764"
 source_url: https://pmc.ncbi.nlm.nih.gov/articles/PMC11353764/
 source: sa-2024-conservative-invasive-tmd-disc-displacement-sr.md
 category: [tmj]
-confidence: sr
+evidence_level: sr
 text_path: /Users/oracleneo/llm-wiki/papers/sa-2024-conservative-invasive-tmd-disc-displacement-sr.txt
 text_filename: sa-2024-conservative-invasive-tmd-disc-displacement-sr.txt
 source_collection: pubmed-text

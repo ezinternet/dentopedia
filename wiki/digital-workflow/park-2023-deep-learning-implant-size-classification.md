@@ -6,7 +6,7 @@ date: 2023-10-05
 doi: 10.1038/s41598-023-42385-7
 source: park-2023-deep-learning-implant-size-classification.md
 category: [digital-workflow]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/park-2023-deep-learning-implant-size-classification.pdf
 pdf_filename: park-2023-deep-learning-implant-size-classification.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2024-11-15
 doi: 10.3390/dj12110364
 journal: Dentistry Journal 12(11):364
 source: vidovic-juras-2024-antibiotic-prophylaxis-dental-procedures.md
-confidence: narrative-review
+evidence_level: narrative-review
 category: [drug/mronj]
 pdf_path: /Users/oracleneo/llm-wiki/papers/vidovic-juras-2024-antibiotic-prophylaxis-dental-procedures.pdf
 pdf_filename: vidovic-juras-2024-antibiotic-prophylaxis-dental-procedures.pdf
@@ -67,5 +67,5 @@ Clinical implication: routine antibiotic prophylaxis for prosthetic joint patien
 - Common misconception: many clinicians still prescribe AP for prosthetic joints without evidence basis
 
 ## Related Papers
-- [[drug/wilson-2021-ie-prophylaxis-aha-scientific-statement]] — AHA 2021 statement: 4 IE high-risk categories; protocol details
-- [[drug/ufcd-2019-medically-complex-patients-management-guidelines]] — Section 18: Prosthetic joints — AP not routinely recommended
+- [[drug/antibiotics/wilson-2021-ie-prophylaxis-aha-scientific-statement]] — AHA 2021 statement: 4 IE high-risk categories; protocol details
+- [[drug/mronj/ufcd-2019-medically-complex-patients-management-guidelines]] — Section 18: Prosthetic joints — AP not routinely recommended

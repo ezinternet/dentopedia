@@ -6,7 +6,7 @@ date: 2022-04-19
 doi: 10.1002/cre2.594
 source: soulami-2022-implant-abutment-emergence-angle-peri-implantitis-sr.md
 category: implants/peri-implantitis
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/soulami-2022-implant-abutment-emergence-angle-peri-implantitis-sr.pdf
 pdf_filename: soulami-2022-implant-abutment-emergence-angle-peri-implantitis-sr.pdf
 source_collection: external

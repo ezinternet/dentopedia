@@ -6,7 +6,7 @@ date: 2011-09-01
 doi: 10.14219/jada.archive.2011.0341
 source: haas-2011-alternative-mandibular-nerve-block-techniques.md
 category: [local-anesthesia]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: false
 pmid: "21881056"

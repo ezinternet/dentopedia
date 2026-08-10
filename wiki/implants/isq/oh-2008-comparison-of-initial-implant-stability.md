@@ -6,7 +6,7 @@ date: 2008-01-01
 doi: ""
 source: oh-2008-comparison-of-initial-implant-stability.md
 category: [implants/isq]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/oh-2008-comparison-of-initial-implant-stability.pdf
 pdf_filename: oh-2008-comparison-of-initial-implant-stability.pdf
 source_collection: external

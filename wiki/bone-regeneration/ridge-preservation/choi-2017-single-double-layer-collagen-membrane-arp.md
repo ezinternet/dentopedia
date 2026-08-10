@@ -6,7 +6,7 @@ date: 2017-12-01
 doi: 10.5051/jpis.2017.47.6.372
 source: choi-2017-single-double-layer-collagen-membrane-arp.md
 category: [bone-regeneration/ridge-preservation]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/choi-2017-single-double-layer-collagen-membrane-arp.pdf
 pdf_filename: choi-2017-single-double-layer-collagen-membrane-arp.pdf
 source_collection: external

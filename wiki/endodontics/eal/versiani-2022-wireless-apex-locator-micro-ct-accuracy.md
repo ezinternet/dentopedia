@@ -6,7 +6,7 @@ date: 2022-01-01
 doi: 10.1016/j.joen.2022.06.011
 journal: Journal of Endodontics 2022;48:1152-1160
 source: versiani-2022-wireless-apex-locator-micro-ct-accuracy.md
-confidence: in-vivo
+evidence_level: in-vivo
 category: [endodontics/eal]
 pdf_path: /Users/oracleneo/llm-wiki/papers/versiani-2022-wireless-apex-locator-micro-ct-accuracy.pdf
 pdf_filename: versiani-2022-wireless-apex-locator-micro-ct-accuracy.pdf

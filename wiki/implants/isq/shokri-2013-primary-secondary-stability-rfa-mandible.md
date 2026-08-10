@@ -6,7 +6,7 @@ date: 2013-04-15
 doi: 10.1155/2013/506968
 source: shokri-2013-primary-secondary-stability-rfa-mandible.md
 category: [implants/isq]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/shokri-2013-primary-secondary-stability-rfa-mandible.pdf
 pdf_filename: shokri-2013-primary-secondary-stability-rfa-mandible.pdf
 source_collection: external

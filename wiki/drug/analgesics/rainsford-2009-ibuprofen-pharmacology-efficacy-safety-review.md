@@ -7,7 +7,7 @@ doi: 10.1007/s10787-009-0016-x
 journal: Inflammopharmacology 17:275-342
 source: rainsford-2009-ibuprofen-pharmacology-efficacy-safety-review.md
 category: [drug/analgesics]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/rainsford-2009-ibuprofen-pharmacology-efficacy-safety-review.pdf
 pdf_filename: rainsford-2009-ibuprofen-pharmacology-efficacy-safety-review.pdf
 source_collection: external
@@ -44,7 +44,7 @@ The drug's anti-inflammatory + analgesic + antipyretic effects are linked to dos
 Narrative review across pharmacology, clinical efficacy, and safety literature through 2009.
 
 ## Results
-[합의수준]
+[확인]
 | Dose range | Indication | Safety position |
 |---|---|---|
 | 800-1,200mg/day (OTC) | Acute pain, fever, mild inflammation | Comparable to paracetamol |
@@ -60,8 +60,8 @@ Mechanism: COX-1 + COX-2 inhibition → ↓ prostanoid → anti-inflammatory + a
 For Korean dental acute pain: 400mg q6h (1,600mg/day total) sits between OTC and prescription dose ranges and falls within the safety profile this review describes. Avoid extended-duration prescription-dose courses in patients with GI, renal, or CV risk factors without explicit indication.
 
 ## Related Papers
-- [[drug/moore-2015-single-dose-oral-analgesics-cochrane-overview]] — clinical NNT framework.
-- [[drug/kotowska-rodziewicz-2023-nsaids-role-dentistry-review]] — NSAIDs in dentistry.
-- [[drug/gomes-2025-nsaids-kidney-toxicity-icu-retrospective]] — modern renal toxicity data.
-- [[drug/etikala-2019-nsaids-periodontal-implant-therapy-review]] — periodontal/implant NSAIDs.
-- [[drug/samani-2025-nsaids-endodontic-postoperative-network]] — endodontic NMA.
+- [[drug/analgesics/moore-2015-single-dose-oral-analgesics-cochrane-overview]] — clinical NNT framework.
+- [[drug/analgesics/kotowska-rodziewicz-2023-nsaids-role-dentistry-review]] — NSAIDs in dentistry.
+- [[drug/analgesics/gomes-2025-nsaids-kidney-toxicity-icu-retrospective]] — modern renal toxicity data.
+- [[drug/analgesics/etikala-2019-nsaids-periodontal-implant-therapy-review]] — periodontal/implant NSAIDs.
+- [[drug/analgesics/samani-2025-nsaids-endodontic-postoperative-network]] — endodontic NMA.

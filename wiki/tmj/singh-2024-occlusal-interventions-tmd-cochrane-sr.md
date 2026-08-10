@@ -6,7 +6,7 @@ date: 2024-09-01
 doi: 10.1002/14651858.CD012850.pub2
 source: singh-2024-occlusal-interventions-tmd-cochrane-sr.md
 category: [tmj]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/singh-2024-occlusal-interventions-tmd-cochrane-sr.pdf
 pdf_filename: singh-2024-occlusal-interventions-tmd-cochrane-sr.pdf
 source_collection: external

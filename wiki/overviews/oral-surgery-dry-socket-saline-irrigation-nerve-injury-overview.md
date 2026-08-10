@@ -6,15 +6,15 @@ date: 2026-07-07
 doi: ""
 source: ""
 category: [overviews]
-confidence: synthesis
+evidence_level: synthesis
 source_collection: internal
 tags: [oral-surgery, dry-socket, alveolar-osteitis, chlorhexidine, saline-irrigation, nerve-injury, orthognathic, lllt]
 relations:
-  - type: reinforces
+  - type: applies-to
     target: rodriguez-sanchez-2017-chlorhexidine-alveolar-osteitis-third
-  - type: reinforces
+  - type: applies-to
     target: shandilya-2025-saline-irrigation-oral-cancer-surgery
-  - type: reinforces
+  - type: refines
     target: yaniv-klein-2026-orthognathic-surgery-nerve-injuries-treatment
 ---
 
@@ -54,7 +54,7 @@ The existing `oral-surgery-decision-ladder` overview covers 22 papers on third m
 
 ## Axis 1 — Chlorhexidine for Alveolar Osteitis Prevention
 
-**Source**: [[oral-surgery/rodriguez-sanchez-2017-chlorhexidine-alveolar-osteitis-third]] — Rodríguez Sánchez et al. 2017, SR+MA, JOMS
+**Source**: [[oral-surgery/third-molar/rodriguez-sanchez-2017-chlorhexidine-alveolar-osteitis-third]] — Rodríguez Sánchez et al. 2017, SR+MA, JOMS
 
 Alveolar osteitis (dry socket) occurs in approximately 20–30% of mandibular third molar extractions and is characterized by breakdown of the blood clot, severe pain, and delayed healing. Chlorhexidine in various forms has been proposed as a prophylactic adjunct.
 
@@ -147,7 +147,7 @@ Oral cavity SCC resection + neck dissection complete
 
 ## Axis 3 — Treatment of Orthognathic Surgery-Related Trigeminal Nerve Injury
 
-**Source**: [[oral-surgery/yaniv-klein-2026-orthognathic-surgery-nerve-injuries-treatment]] — Yaniv-Klein et al. 2026, retrospective cohort, JOFPH
+**Source**: [[oral-surgery/nerve-injury/yaniv-klein-2026-orthognathic-surgery-nerve-injuries-treatment]] — Yaniv-Klein et al. 2026, retrospective cohort, JOFPH
 
 Orthognathic surgery involves osteotomies in close proximity to the inferior alveolar nerve (IAN/CN V3) and, to a lesser extent, the infraorbital nerve (CN V2). Neurosensory deficit is a recognized complication but incidence in large cohorts and comparative treatment data are sparse.
 
@@ -187,7 +187,7 @@ Orthognathic surgery involves osteotomies in close proximity to the inferior alv
 - **LLLT is the most promising available modality**: 75% subjective improvement vs 33% without treatment is a clinically meaningful difference, though the retrospective design, small n (17 affected), and absence of randomization prevent causal inference. LLLT should be offered early post-operatively where available.
 - **No modality achieves complete sensory restoration**: patients should be counseled that improvement, not cure, is the realistic goal. Spontaneous partial recovery also occurs (33% no-treatment arm).
 - **Operative time as surrogate**: longer operative time (230 vs 198 min median) in affected patients suggests neural traction during prolonged retraction may be a contributing mechanism — a modifiable risk factor worth attention.
-- **No standardized protocol exists**: this is an explicit finding of the study and mirrors the gap documented in [[oral-surgery/lee-2015-inferior-alveolar-nerve-injury-management]] for third-molar IAN injury. Prospective RCTs are needed.
+- **No standardized protocol exists**: this is an explicit finding of the study and mirrors the gap documented in [[oral-surgery/nerve-injury/lee-2015-inferior-alveolar-nerve-injury-management]] for third-molar IAN injury. Prospective RCTs are needed.
 - **Early intervention principle**: while not formally tested in this cohort, the broader neuroregenerative literature supports earlier onset of physical/laser therapy to leverage the window of maximal plasticity.
 
 ### Decision Branch
@@ -228,9 +228,14 @@ All three interventions share the property of being **additive to standard care*
 
 ## Related Papers
 
-- [[oral-surgery/rodriguez-sanchez-2017-chlorhexidine-alveolar-osteitis-third]] — SR+MA, CHX for AO prevention (Axis 1 primary source)
+
+### 신규 ingest cluster (2026-07-15)
+
+- [[oral-surgery/nerve-injury/daware-2021-assessment-postoperative-discomfort-nerve-injuries]] — Prospective cohort (n=163 impacted M3): transient lingual nerve injury 2.45% (all resolved by 12wk), 0% IAN paresthesia/dry socket/infection — surgical extraction low-morbidity but warrants neurosensory counseling
+
+- [[oral-surgery/third-molar/rodriguez-sanchez-2017-chlorhexidine-alveolar-osteitis-third]] — SR+MA, CHX for AO prevention (Axis 1 primary source)
 - [[oral-surgery/shandilya-2025-saline-irrigation-oral-cancer-surgery]] — prospective cohort, saline irrigation in oral cancer surgery (Axis 2 primary source)
-- [[oral-surgery/yaniv-klein-2026-orthognathic-surgery-nerve-injuries-treatment]] — retrospective cohort, orthognathic nerve injury treatment (Axis 3 primary source)
+- [[oral-surgery/nerve-injury/yaniv-klein-2026-orthognathic-surgery-nerve-injuries-treatment]] — retrospective cohort, orthognathic nerve injury treatment (Axis 3 primary source)
 - [[overviews/oral-surgery-decision-ladder]] — companion overview covering third molar IAN risk, coronectomy, PRF, LLLT post-extraction, hemostasis, deep neck infection (22 papers; does not overlap with CHX-AO prevention, saline cancer irrigation, or orthognathic nerve injury treatment)
-- [[oral-surgery/lee-2015-inferior-alveolar-nerve-injury-management]] — single case report of IAN neuropraxia after third molar extraction; same "no standardized protocol" gap as Axis 3
-- [[oral-surgery/al-aroomi-2025-cgf-third-molar-postop-sr]] — SR on CGF in third molar surgery; context for post-operative wound healing interventions
+- [[oral-surgery/nerve-injury/lee-2015-inferior-alveolar-nerve-injury-management]] — single case report of IAN neuropraxia after third molar extraction; same "no standardized protocol" gap as Axis 3
+- [[oral-surgery/third-molar/al-aroomi-2025-cgf-third-molar-postop-sr]] — SR on CGF in third molar surgery; context for post-operative wound healing interventions

@@ -6,7 +6,7 @@ date: 2024-01-15
 doi: 10.1002/cre2.849
 source: blyleven-2024-periodontal-implant-surgery-complications.md
 category: periodontics
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/blyleven-2024-periodontal-implant-surgery-complications.pdf
 pdf_filename: blyleven-2024-periodontal-implant-surgery-complications.pdf
 source_collection: external

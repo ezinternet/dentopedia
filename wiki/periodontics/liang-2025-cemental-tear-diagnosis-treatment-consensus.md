@@ -6,7 +6,7 @@ date: 2025-08-22
 doi: "10.1038/s41368-025-00381-9"
 source: liang-2025-cemental-tear-diagnosis-treatment-consensus.md
 category: [periodontics]
-confidence: consensus
+evidence_level: consensus
 source_collection: pubmed-text
 full_text: true
 pmid: "40846694"

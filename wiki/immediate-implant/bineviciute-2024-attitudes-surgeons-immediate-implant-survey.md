@@ -6,7 +6,7 @@ date: 2024-06-28
 doi: "10.5037/jomr.2024.15203"
 source: bineviciute-2024-attitudes-surgeons-immediate-implant-survey.md
 category: [immediate-implant]
-confidence: cross-sectional
+evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/bineviciute-2024-attitudes-surgeons-immediate-implant-survey.pdf
 pdf_filename: bineviciute-2024-attitudes-surgeons-immediate-implant-survey.pdf
 source_collection: external
@@ -50,6 +50,6 @@ This cross-sectional survey of 186 Lithuanian oral surgeons and periodontists ex
 
 ## Related Papers
 
-- [[immediate-implant/pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma]] — evidence on periapical pathology and immediate placement
-- [[immediate-implant/pavlovic-2022-interradicular-septum-morphology-molar-iip]] — socket/septum morphology classification
-- [[immediate-implant/smith-2013-classification-molar-extraction-immediate-implant]] — molar extraction socket classification
+- [[immediate-implant/infected-socket/pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma]] — evidence on periapical pathology and immediate placement
+- [[immediate-implant/molar-septum/pavlovic-2022-interradicular-septum-morphology-molar-iip]] — socket/septum morphology classification
+- [[immediate-implant/molar-septum/smith-2013-classification-molar-extraction-immediate-implant]] — molar extraction socket classification

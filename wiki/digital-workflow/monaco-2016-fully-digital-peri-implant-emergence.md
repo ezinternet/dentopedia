@@ -6,7 +6,7 @@ date: 2016-12-01
 doi: 10.1111/clr.12599
 source: monaco-2016-fully-digital-peri-implant-emergence.md
 category: [digital-workflow]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/monaco-2016-fully-digital-peri-implant-emergence.pdf
 pdf_filename: monaco-2016-fully-digital-peri-implant-emergence.pdf
 source_collection: external

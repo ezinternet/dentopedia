@@ -6,7 +6,7 @@ date: 2026-02-27
 doi: 10.1111/jerd.70130
 source: malgaj-2026-cantilever-zirconia-rbfdp-alumina-coating.md
 category: [dental-materials/zirconia]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/malgaj-2026-cantilever-zirconia-rbfdp-alumina-coating.pdf
 pdf_filename: malgaj-2026-cantilever-zirconia-rbfdp-alumina-coating.pdf
 source_collection: external

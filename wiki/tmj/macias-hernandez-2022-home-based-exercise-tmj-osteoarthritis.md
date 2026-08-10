@@ -6,7 +6,7 @@ date: 2022-02-28
 doi: "10.5125/jkaoms.2022.48.1.50"
 source: macias-hernandez-2022-home-based-exercise-tmj-osteoarthritis.md
 category: [tmj]
-confidence: prospective
+evidence_level: prospective
 source_collection: pubmed-text
 full_text: true
 pmid: "35221307"

@@ -6,7 +6,7 @@ date: 2022-05-26
 doi: 10.1186/s12903-022-02223-0
 source: shokry-2022-zirconia-crown-primer-cement-retention.md
 category: [dental-materials/zirconia]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/shokry-2022-zirconia-crown-primer-cement-retention.pdf
 pdf_filename: shokry-2022-zirconia-crown-primer-cement-retention.pdf
 source_collection: external
@@ -46,4 +46,4 @@ In vitro retention strength study comparing three complete primer-cement systems
 ## Related Papers
 - [[dental-materials/zirconia/kwon-2026-self-adhesive-resin-cement-zirconia]] — self-adhesive cements comparison
 - [[dental-materials/zirconia/sharafeddin-2018-mdp-primers-zirconia-bond]] — Z-Prime vs universal adhesive
-- [[dental-materials/blatz-2018-resin-bonding-high-strength-ceramics-review]] — bonding review
+- [[dental-materials/ceramic/blatz-2018-resin-bonding-high-strength-ceramics-review]] — bonding review

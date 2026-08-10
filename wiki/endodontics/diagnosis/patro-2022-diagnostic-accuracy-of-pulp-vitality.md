@@ -6,7 +6,7 @@ date: 2022-08-04
 doi: "10.3390/ijerph19159599"
 source: patro-2022-diagnostic-accuracy-of-pulp-vitality.md
 category: endodontics/diagnosis
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/patro-2022-diagnostic-accuracy-of-pulp-vitality.pdf
 pdf_filename: patro-2022-diagnostic-accuracy-of-pulp-vitality.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2023-04-01
 doi: 10.22974/jkda.2023.61.4.005
 source: hwang-2023-proposal-clinical-guidelines-local-anesthesia-dentistry.md
 category: [local-anesthesia]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/hwang-2023-proposal-clinical-guidelines-local-anesthesia-dentistry.pdf
 pdf_filename: hwang-2023-proposal-clinical-guidelines-local-anesthesia-dentistry.pdf
 source_collection: external
@@ -37,7 +37,7 @@ A short position paper from a Korean OMS academic, arguing for the development o
 
 - Documents the standardization gap in Korean dental local anesthesia practice.
 - Articulates the scope a future guideline must cover.
-- Pairs with [[drug/karm-2023-clinical-practice-guidelines-diagnostic-procedural-sedation]] as a "sedation has a guideline; local anesthesia does not" message in the same JKDA issue.
+- Pairs with [[local-anesthesia/karm-2023-clinical-practice-guidelines-diagnostic-procedural-sedation]] as a "sedation has a guideline; local anesthesia does not" message in the same JKDA issue.
 
 ## Methodology
 
@@ -49,4 +49,4 @@ No primary outcomes. The contribution is institutional rather than empirical.
 
 ## Related Papers
 
-- [[drug/karm-2023-clinical-practice-guidelines-diagnostic-procedural-sedation]] — paired sedation guideline introduction in the same JKDA issue
+- [[local-anesthesia/karm-2023-clinical-practice-guidelines-diagnostic-procedural-sedation]] — paired sedation guideline introduction in the same JKDA issue

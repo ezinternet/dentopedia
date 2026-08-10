@@ -6,7 +6,7 @@ date: 2024-04-23
 doi: 10.4103/jips.jips_18_24
 source: tayari-2024-implant-supported-overdenture-failures-sr.md
 category: [complete-denture]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/tayari-2024-implant-supported-overdenture-failures-sr.pdf
 pdf_filename: tayari-2024-implant-supported-overdenture-failures-sr.pdf
 source_collection: external

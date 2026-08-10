@@ -6,7 +6,7 @@ date: 2020-05-01
 doi: 10.4317/medoral.23175
 source: witek-2020-boronized-surface-osseointegration.md
 category: [implants/surface]
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/witek-2020-boronized-surface-osseointegration.pdf
 pdf_filename: witek-2020-boronized-surface-osseointegration.pdf
 source_collection: external

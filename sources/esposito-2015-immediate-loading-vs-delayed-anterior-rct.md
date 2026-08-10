@@ -46,7 +46,7 @@ No significant differences in failure rates or main esthetic/clinical outcomes b
 
 ## 6. Related Work
 - [[immediate-implant/esthetic-soft-tissue/nassani-2025-immediate-vs-delayed-implant-bony-defect-commentary]]
-- [[immediate-implant/ragucci-2020-immediate-implant-molar-extraction-sockets]]
+- [[immediate-implant/molar-septum/ragucci-2020-immediate-implant-molar-extraction-sockets]]
 
 ## 7. Glossary
 - **IIP:** Immediate Implant Placement — placement at the time of tooth extraction.

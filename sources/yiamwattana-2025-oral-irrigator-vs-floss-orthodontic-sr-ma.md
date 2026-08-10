@@ -14,7 +14,7 @@ text_filename: yiamwattana-2025-oral-irrigator-vs-floss-orthodontic-sr-ma.txt
 
 ## Why Ingested
 
-SR+MA testing whether an oral irrigator / water flosser (added to toothbrushing) beats dental floss for plaque and bleeding control in fixed-orthodontic patients — directly addresses the floss-vs-device interdental-cleaning question in the highest-risk plaque-retention population. Pairs with [[periodontics/liu-2026-powered-manual-toothbrushes-orthodontic-sr-ma]] (toothbrush type in the same orthodontic-hygiene domain) as the "interdental adjunct" arm of the orthodontic oral-hygiene evidence base.
+SR+MA testing whether an oral irrigator / water flosser (added to toothbrushing) beats dental floss for plaque and bleeding control in fixed-orthodontic patients — directly addresses the floss-vs-device interdental-cleaning question in the highest-risk plaque-retention population. Pairs with [[periodontics/oral-hygiene-instruction/liu-2026-powered-manual-toothbrushes-orthodontic-sr-ma]] (toothbrush type in the same orthodontic-hygiene domain) as the "interdental adjunct" arm of the orthodontic oral-hygiene evidence base.
 
 > Note: **abstract-only** — full text not retrieved (no PMC open access). All numbers below are extracted verbatim from the PubMed abstract.
 
@@ -73,8 +73,8 @@ SR+MA (적격 4편, 메타분석 3편) — 고정식 교정 환자에서 칫솔�
 
 ## 6. Related Work
 
-- [[periodontics/liu-2026-powered-manual-toothbrushes-orthodontic-sr-ma]] — toothbrush-type arm of the same orthodontic oral-hygiene question.
-- [[periodontics/rajwani-2020-manual-toothbrushing-techniques-plaque-gingivitis-sr]] — manual brushing technique evidence (general).
+- [[periodontics/oral-hygiene-instruction/liu-2026-powered-manual-toothbrushes-orthodontic-sr-ma]] — toothbrush-type arm of the same orthodontic oral-hygiene question.
+- [[periodontics/oral-hygiene-instruction/rajwani-2020-manual-toothbrushing-techniques-plaque-gingivitis-sr]] — manual brushing technique evidence (general).
 
 ## 7. Glossary
 

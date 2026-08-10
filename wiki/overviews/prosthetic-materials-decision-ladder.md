@@ -6,7 +6,7 @@ date: 2026-05-26
 doi: N/A
 source: N/A
 category: overviews
-confidence: synthesis
+evidence_level: synthesis
 pdf_path: N/A
 pdf_filename: N/A
 source_collection: synthesis
@@ -17,15 +17,15 @@ tags: [prosthetic-materials, zirconia, lithium-disilicate, screw-vs-cement, over
 
 > [!summary] 한국어 핵심요약
 > - 핵심 명제: 보철 재료 결정을 4축 — 단관 재료 (리튬디실리케이트 (Lithium Disilicate, LDS) vs 지르코니아 vs 도재용착주조관 (PFM))·나사 vs 시멘트 유지·오버덴쳐 어태치먼트·지대주 (abutment) 디자인 — 으로 구조화. prosthetic-materials 32편 spine.
-> - 축 1 단관 재료: 단일체 (monolithic) LDS 5년 생존 98.5%로 최고, 지르코니아·PFM 97.1%로 유사. 단일체 디자인이 베니어 (veneered) 대비 칩핑 (chipping) 유의 감소 (Pjetursson 2026 SR+MA, 64편 11,560 crowns). [근거강함]
+> - 축 1 단관 재료: 단일체 (monolithic) LDS 5년 생존 98.5%로 최고, 지르코니아·PFM 97.1%로 유사. 단일체 디자인이 베니어 (veneered) 대비 칩핑 (chipping) 유의 감소 (Pjetursson 2026 SR+MA, 64편 11,560 crowns). [확인]
 > - 단관 ladder: 전치부 심미 → 단일체 LDS (e.max) 또는 4Y-PSZ, 구치부 강도 → 단일체 3Y-TZP 또는 4Y-PSZ, 3-unit 브릿지 → 단일체 3Y-TZP (Waltenberger 2025 S3 명시), 전악 → 3Y-TZP 또는 PFM.
 > - 축 2 나사 vs 시멘트: 1차 권장은 나사 유지 — 시멘트 잔류 (excess cement)로 인한 임플란트주위염 (peri-implantitis) 회피 + 회수 가능. 나사가 6개월 변연골소실 (MBL) SMD −0.63 낮고 합병증 46% 감소 (Tomar 2025). 단 나사풀림 (loosening) 18% (적정토크 35 Ncm·교합조정으로 감소).
 > - 시멘트 적응증: 나사 접근구가 심미 부담 (전치부 각진 지대주)이고 지대주가 충분히 retentive (≥4mm height)하며 시멘트 마진이 치은연상 (epigingival)일 때.
 > - 축 3 오버덴쳐 어태치먼트: 하악 무치악은 2 implant + 볼 (ball) 어태치먼트가 1차 (합병증 최소, McGill consensus 합치). 좁은 악간공간은 로케이터 (Locator), 환자만족 우선은 텔레스코픽 (단 MBL 큼). 자석 (magnet)은 열위로 회피.
-> - 상악 오버덴쳐: 4 implant vs 6 implant 생존·합병증·만족도 모두 유의차 없음 (NS) — 환자 부담·외과시간 고려 시 4 implant + splinted bar가 합리적 (DiFrancesco 2021). [근거강함]
+> - 상악 오버덴쳐: 4 implant vs 6 implant 생존·합병증·만족도 모두 유의차 없음 (NS) — 환자 부담·외과시간 고려 시 4 implant + splinted bar가 합리적 (DiFrancesco 2021). [확인]
 > - 축 4 지대주 디자인: 1차 선택은 티타늄 (Ti) 또는 Ti-base (응력분포 일관, Ziada 2025 유한요소분석 (FEA)). 지르코니아 지대주는 전치부 심미용이나 고하중 부위 회피. 지대주 삭제 수렴각 (TOC)은 현실적으로 10–22° (Tiu 2015).
 > - 오판 패턴: ① "베니어가 심미 우월" (단일체가 칩핑 유의 감소·심미 차이 미미), ② "상악 6 implant가 더 안전" (4 vs 6 NS).
-> - 근거 한계: 축 1–3은 [근거강함] (다수 SR+MA), 축 4 지대주·삭제는 [합의수준] (FEA·단면연구·narrative 혼합).
+> - 근거 한계: 축 1–3은 [확인] (다수 SR+MA), 축 4 지대주·삭제는 [확인] (FEA·단면연구·narrative 혼합).
 
 ## Three-line Summary
 
@@ -48,11 +48,11 @@ Two common misjudgments: "veneered ceramic is esthetically superior" (monolithic
 본 페이지는 wiki/prosthetic-materials/ 32 paper의 4-axis spine. 일반 치과재료 (zirconia 접착·CAD/CAM·아말감)는 [[overviews/dental-materials-decision-ladder]] 참조. 본 페이지는 보철 (단관·브릿지·오버덴쳐·임플란트 보철) 결정만 다룸.
 
 핵심 명제 5개:
-1. **단일체 리튬 디실리케이트 5y 생존 98.5% — 단관 최고. 지르코니아·PFM 97.1% 유사. 단일체 디자인이 베니어 대비 칩핑 유의 감소** — Pjetursson 2026 SR+MA (64편, 11,560 crowns). [근거강함]
-2. **임플란트 단관 screw vs cement — 6mo screw MBL 0.63 SMD 낮음. 장기 동등. screw 합병증 46% 감소** — Tomar 2025 SR+MA (7편, 334 implants, 3-10y). [근거강함]
-3. **하악 임플란트 overdenture — ball attachment 보철 합병증 ½ (vs locator·magnet). 변연골 차이 없음** — Sutariya 2021 SR+MA (RCT 6편), Aung 2025 SR+MA (MDI). [근거강함]
-4. **상악 overdenture 4 implant vs 6 implant — 임플란트·보철 생존, 합병증, 환자만족도 모두 NS** — DiFrancesco 2021 SR+MA (15편, 1-10y). [근거강함]
-5. **DGI/DGZMK S3 — 단관 LDS/지르코니아 권고 (3y 생존 96-97%). 단위 브릿지·전악 수복은 3Y-TZP만 근거 충분** — Waltenberger 2025 S3 가이드라인. [합의수준]
+1. **단일체 리튬 디실리케이트 5y 생존 98.5% — 단관 최고. 지르코니아·PFM 97.1% 유사. 단일체 디자인이 베니어 대비 칩핑 유의 감소** — Pjetursson 2026 SR+MA (64편, 11,560 crowns). [확인]
+2. **임플란트 단관 screw vs cement — 6mo screw MBL 0.63 SMD 낮음. 장기 동등. screw 합병증 46% 감소** — Tomar 2025 SR+MA (7편, 334 implants, 3-10y). [확인]
+3. **하악 임플란트 overdenture — ball attachment 보철 합병증 ½ (vs locator·magnet). 변연골 차이 없음** — Sutariya 2021 SR+MA (RCT 6편), Aung 2025 SR+MA (MDI). [확인]
+4. **상악 overdenture 4 implant vs 6 implant — 임플란트·보철 생존, 합병증, 환자만족도 모두 NS** — DiFrancesco 2021 SR+MA (15편, 1-10y). [확인]
+5. **DGI/DGZMK S3 — 단관 LDS/지르코니아 권고 (3y 생존 96-97%). 단위 브릿지·전악 수복은 3Y-TZP만 근거 충분** — Waltenberger 2025 S3 가이드라인. [확인]
 
 ## Results
 
@@ -76,16 +76,16 @@ Two common misjudgments: "veneered ceramic is esthetically superior" (monolithic
 4. **단위 브릿지 (3-unit)** → 단일체 3Y-TZP (Waltenberger 2025 S3 명시).
 5. **전악 수복** → 3Y-TZP 또는 PFM. Polymer-infiltrated ceramic 금기.
 
-**오판 패턴**: "베니어가 심미 우월" — Pjetursson 2026 + Laumbacher 2021이 단일체가 칩핑 유의 감소. 심미 차이 미미 시 단일체 권장. [근거강함]
+**오판 패턴**: "베니어가 심미 우월" — Pjetursson 2026 + Laumbacher 2021이 단일체가 칩핑 유의 감소. 심미 차이 미미 시 단일체 권장. [확인]
 
 ### 축 2 — Screw vs Cement Retention (임플란트 보철)
 
 | Spine paper | Evidence | Key finding |
 |---|---|---|
-| [[prosthetic-materials/tomar-2025-cement-vs-screw-zirconia-crown-sr-ma]] | sr+ma (7편 334 imp, 3-10y) | Screw 6mo MBL SMD −0.63 낮음. 장기 NS. 합병증 46% ↓ |
-| [[prosthetic-materials/hamed-2020-screw-vs-cement-implant-sr]] | sr (12편) | 생존 동등. 생물학적 합병증 cement↑, 기계적 합병증 screw↑ |
-| [[prosthetic-materials/khurshid-2025-screw-vs-cement-crown-complications]] | prospective (100명 12mo) | Screw loosening 18% > cement 4%. 변연·시멘트 용해 cement↑ |
-| [[prosthetic-materials/kim-2019-astra-implant-dissection-solutions]] | narrative-review | Astra screw loosening 예방 — 35 Ncm 토크·교합력 조절 |
+| [[prosthetic-materials/abutment-screw/tomar-2025-cement-vs-screw-zirconia-crown-sr-ma]] | sr+ma (7편 334 imp, 3-10y) | Screw 6mo MBL SMD −0.63 낮음. 장기 NS. 합병증 46% ↓ |
+| [[prosthetic-materials/abutment-screw/hamed-2020-screw-vs-cement-implant-sr]] | sr (12편) | 생존 동등. 생물학적 합병증 cement↑, 기계적 합병증 screw↑ |
+| [[prosthetic-materials/abutment-screw/khurshid-2025-screw-vs-cement-crown-complications]] | prospective (100명 12mo) | Screw loosening 18% > cement 4%. 변연·시멘트 용해 cement↑ |
+| [[prosthetic-materials/abutment-screw/kim-2019-astra-implant-dissection-solutions]] | narrative-review | Astra screw loosening 예방 — 35 Ncm 토크·교합력 조절 |
 
 **임상 ladder (screw vs cement)**:
 1. **1차 권장: screw retention** — Excess cement → peri-implantitis 위험 회피 (Hamed 2020). 회수 가능.
@@ -111,16 +111,16 @@ Two common misjudgments: "veneered ceramic is esthetically superior" (monolithic
 5. **Mini implant (MDI) overdenture** — 좁은 ridge에 옵션. ball·bar·ERA 동등 (Aung 2025).
 6. **Magnet attachment** — Patel 2025 + Sutariya 2021 모두 열위. 1차 회피.
 
-**오판 패턴**: "상악 6 implant가 더 안전" — DiFrancesco 2021 SR+MA가 4 vs 6 NS. 환자 부담·외과 시간 고려 시 4가 합리적. [근거강함]
+**오판 패턴**: "상악 6 implant가 더 안전" — DiFrancesco 2021 SR+MA가 4 vs 6 NS. 환자 부담·외과 시간 고려 시 4가 합리적. [확인]
 
 ### 축 4 — Abutment 디자인 (FEA · Material · Connection)
 
 | Spine paper | Evidence | Key finding |
 |---|---|---|
 | [[prosthetic-materials/chan-2026-fea-cad-cam-zirconia-3d-printed-hybrid]] | in-vitro (FEA) | CAD/CAM Zr crown + 3D-printed hybrid abutment — custom abutment 응력 −90%, Ti-base −27% |
-| [[prosthetic-materials/ziada-2025-abutment-material-stress-distribution-fea]] | in-vitro (FEA) | Internal connection × abutment material — Ti가 일관된 응력 분포. Co-Cr·Zr 비교 |
-| [[prosthetic-materials/tiu-2015-clinical-tooth-preparations-measuring-sr]] | sr (23편) | 권장 TOC 1960s 2-5° → 현재 10-22°. in-mouth 측정 평균 11-22° |
-| [[prosthetic-materials/abdulla-2018-convergence-all-ceramic-crowns-dubai-practice]] | cross-sectional | All-ceramic prep TOC 평균 MD 21° |
+| [[prosthetic-materials/abutment-screw/ziada-2025-abutment-material-stress-distribution-fea]] | in-vitro (FEA) | Internal connection × abutment material — Ti가 일관된 응력 분포. Co-Cr·Zr 비교 |
+| [[prosthetic-materials/tooth-preparation/tiu-2015-clinical-tooth-preparations-measuring-sr]] | sr (23편) | 권장 TOC 1960s 2-5° → 현재 10-22°. in-mouth 측정 평균 11-22° |
+| [[prosthetic-materials/tooth-preparation/abdulla-2018-convergence-all-ceramic-crowns-dubai-practice]] | cross-sectional | All-ceramic prep TOC 평균 MD 21° |
 | [[prosthetic-materials/habibzadeh-2024-full-ceramic-rbfdp-sr]] | sr (14편 3-10y) | RBFDP 생존 76-100%. Cantilever > fixed-fixed. e.max ZirCAD 등 |
 | [[prosthetic-materials/kasem-2025-frc-vs-zirconia-cantilever-irfdp-36month]] | rct (36mo) | Zr vs FRC cantilever IR-FDP — 생존 97.5%, 성공 96.6% NS |
 | [[dental-materials/zirconia/malgaj-2026-cantilever-zirconia-rbfdp-alumina-coating]] | rct (8y, 64 RBFDP) | 캔틸레버 지르코니아 RBFDP — 비침습 나노알루미나코팅(NAC) 유지율 88.4% ≈ 분사연마(APA) 89.1% (p=0.99), 보철 생존 100% |
@@ -159,19 +159,19 @@ Two common misjudgments: "veneered ceramic is esthetically superior" (monolithic
 - [[prosthetic-materials/waltenberger-2025-zirconia-implant-dentistry-guideline]]
 - [[prosthetic-materials/laumbacher-2021-zirconia-prosthetic-restorations-long-term-sr]]
 - [[prosthetic-materials/manziuc-2023-zls-ceramic-digital-dentistry-review]]
-- [[prosthetic-materials/tomar-2025-cement-vs-screw-zirconia-crown-sr-ma]]
-- [[prosthetic-materials/hamed-2020-screw-vs-cement-implant-sr]]
-- [[prosthetic-materials/khurshid-2025-screw-vs-cement-crown-complications]]
-- [[prosthetic-materials/kim-2019-astra-implant-dissection-solutions]]
+- [[prosthetic-materials/abutment-screw/tomar-2025-cement-vs-screw-zirconia-crown-sr-ma]]
+- [[prosthetic-materials/abutment-screw/hamed-2020-screw-vs-cement-implant-sr]]
+- [[prosthetic-materials/abutment-screw/khurshid-2025-screw-vs-cement-crown-complications]]
+- [[prosthetic-materials/abutment-screw/kim-2019-astra-implant-dissection-solutions]]
 - [[complete-denture/sutariya-2021-mandibular-implant-supported-overdenture-systematic]]
 - [[complete-denture/patel-2025-implant-overdenture-attachment-systems-sr-ma]]
 - [[complete-denture/aung-2025-mini-dental-implants-mandibular-overdenture-sr]]
 - [[complete-denture/difrancesco-2021-maxillary-overdentures-four-six-implants-sr-ma]]
 - [[complete-denture/tayari-2024-implant-supported-overdenture-failures-sr]]
 - [[prosthetic-materials/chan-2026-fea-cad-cam-zirconia-3d-printed-hybrid]]
-- [[prosthetic-materials/ziada-2025-abutment-material-stress-distribution-fea]]
-- [[prosthetic-materials/tiu-2015-clinical-tooth-preparations-measuring-sr]]
-- [[prosthetic-materials/abdulla-2018-convergence-all-ceramic-crowns-dubai-practice]]
+- [[prosthetic-materials/abutment-screw/ziada-2025-abutment-material-stress-distribution-fea]]
+- [[prosthetic-materials/tooth-preparation/tiu-2015-clinical-tooth-preparations-measuring-sr]]
+- [[prosthetic-materials/tooth-preparation/abdulla-2018-convergence-all-ceramic-crowns-dubai-practice]]
 - [[prosthetic-materials/habibzadeh-2024-full-ceramic-rbfdp-sr]]
 - [[prosthetic-materials/kasem-2025-frc-vs-zirconia-cantilever-irfdp-36month]]
 - [[dental-materials/zirconia/malgaj-2026-cantilever-zirconia-rbfdp-alumina-coating]]
@@ -185,7 +185,7 @@ Two common misjudgments: "veneered ceramic is esthetically superior" (monolithic
 - [[overviews/implants-clinical-decision-ladder]] — 임플란트 디자인
 
 확신도 등급:
-- 축 1 단관 재료 = [근거강함] (Pjetursson 2026 64편 + 다수 RCT).
-- 축 2 screw vs cement = [근거강함] (Tomar 2025 SR+MA + Hamed 2020).
-- 축 3 overdenture = [근거강함] (다수 SR+MA).
-- 축 4 abutment·prep = [합의수준] (FEA + cross-sectional + narrative review 혼합).
+- 축 1 단관 재료 = [확인] (Pjetursson 2026 64편 + 다수 RCT).
+- 축 2 screw vs cement = [확인] (Tomar 2025 SR+MA + Hamed 2020).
+- 축 3 overdenture = [확인] (다수 SR+MA).
+- 축 4 abutment·prep = [확인] (FEA + cross-sectional + narrative review 혼합).

@@ -6,7 +6,7 @@ date: 2014-04-02
 doi: 10.5125/jkaoms.2014.40.2.50
 source: gaviria-2014-current-trends-dental-implants-review.md
 category: implants
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/gaviria-2014-current-trends-dental-implants-review.pdf
 pdf_filename: gaviria-2014-current-trends-dental-implants-review.pdf
 source_collection: external
@@ -123,4 +123,4 @@ See design parameters and surface modification sections above. No primary data; 
 
 ## Related Papers
 
-- [[implants/buser-2017-modern-implant-dentistry-osseointegration-50years]] — extends: Buser (2017) 50-year osseointegration retrospective provides later clinical evidence base
+- [[implants/surface/buser-2017-modern-implant-dentistry-osseointegration-50years]] — extends: Buser (2017) 50-year osseointegration retrospective provides later clinical evidence base

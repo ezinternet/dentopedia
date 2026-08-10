@@ -6,7 +6,7 @@ date: 2022-09-27
 doi: 10.1111/jopr.13603
 source: goldstein-2022-centric-relation-needed-reference-position.md
 category: [occlusion]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: false
 pmid: "36074517"

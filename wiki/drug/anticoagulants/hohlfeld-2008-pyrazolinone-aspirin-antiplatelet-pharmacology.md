@@ -6,7 +6,7 @@ date: 2008-01-01
 doi: 10.1111/j.1538-7836.2007.02786.x
 source: hohlfeld-2008-pyrazolinone-aspirin-antiplatelet-pharmacology.md
 category: [drug/anticoagulants]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/hohlfeld-2008-pyrazolinone-aspirin-antiplatelet-pharmacology.pdf
 pdf_filename: hohlfeld-2008-pyrazolinone-aspirin-antiplatelet-pharmacology.pdf
 source_collection: external
@@ -55,7 +55,7 @@ This in vitro study from Heinrich-Heine-Universität Düsseldorf is the first to
 - Docking: MAA hydrogen-bonds serine-530 in the COX-1 hydrophobic channel, blocking covalent acetylation by aspirin
 
 ## Related Papers
-- [[drug/catella-lawson-2001-cyclooxygenase-inhibitors-aspirin-nejm]] — landmark RCT establishing ibuprofen–aspirin interaction in humans
-- [[drug/renda-2006-celecoxib-ibuprofen-aspirin-antiplatelet]] — RCT in OA+IHD patients; celecoxib safe
-- [[drug/yokoyama-2013-nsaids-antiplatelet-aspirin-interaction]] — in vitro screen of 9 NSAIDs
-- [[drug/kotowska-rodziewicz-2023-nsaids-role-dentistry-review]] — NSAIDs in dentistry, including COX mechanism overview
+- [[drug/anticoagulants/catella-lawson-2001-cyclooxygenase-inhibitors-aspirin-nejm]] — landmark RCT establishing ibuprofen–aspirin interaction in humans
+- [[drug/anticoagulants/renda-2006-celecoxib-ibuprofen-aspirin-antiplatelet]] — RCT in OA+IHD patients; celecoxib safe
+- [[drug/anticoagulants/yokoyama-2013-nsaids-antiplatelet-aspirin-interaction]] — in vitro screen of 9 NSAIDs
+- [[drug/analgesics/kotowska-rodziewicz-2023-nsaids-role-dentistry-review]] — NSAIDs in dentistry, including COX mechanism overview

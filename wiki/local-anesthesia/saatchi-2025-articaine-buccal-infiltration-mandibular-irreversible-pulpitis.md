@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1007/s00784-025-06229-0
 source: saatchi-2025-articaine-buccal-infiltration-mandibular-irreversible-pulpitis.md
 category: [local-anesthesia]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/saatchi-2025-articaine-buccal-infiltration-mandibular-irreversible-pulpitis.pdf
 pdf_filename: saatchi-2025-articaine-buccal-infiltration-mandibular-irreversible-pulpitis.pdf
 source_collection: external
@@ -43,7 +43,7 @@ Articaine buccal infiltration is a valid IANB alternative for mandibular first m
 5개 DB, RCT만(1 cartridge BI vs 1 cartridge IANB). RoB2, fixed-effects MA, GRADE.
 
 ## Results
-780→5 RCT. 성공률 RR 1.06(95%CI 0.93-1.20, I²=24.5%), 유의차 없음 [근거강함]. certainty moderate. 추가 RCT 필요.
+780→5 RCT. 성공률 RR 1.06(95%CI 0.93-1.20, I²=24.5%), 유의차 없음 [확인]. certainty moderate. 추가 RCT 필요.
 
 ## Related Papers
 - [[overviews/drug-anesthesia-sedation-korean-guidelines-overview]] — 마취·진정 한국 가이드라인

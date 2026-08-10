@@ -6,7 +6,7 @@ date: 2024-09-17
 doi: "10.1016/j.jds.2024.09.017"
 source: chang-2024-optimization-implant-design-bone-quality-fea.md
 category: [implants]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/chang-2024-optimization-implant-design-bone-quality-fea.pdf
 pdf_filename: chang-2024-optimization-implant-design-bone-quality-fea.pdf
 source_collection: external
@@ -53,4 +53,4 @@ This study moves FEA from description to prescription by optimizing implant thre
 ## Related Papers
 - [[implants/hussein-2019-thread-depth-implant-shape-stress-mandible-fea]] — extends; from describing thread-depth stress to optimizing it.
 - [[implants/leblebicioglu-kurtulus-2022-fea-implant-design-bone-density-stress]] — reinforces; design × bone-density stress.
-- [[implants/heimes-2023-macrogeometry-primary-stability-implants-narrative-review]] — complements; macrogeometry levers for low-density bone.
+- [[implants/isq/heimes-2023-macrogeometry-primary-stability-implants-narrative-review]] — complements; macrogeometry levers for low-density bone.

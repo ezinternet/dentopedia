@@ -6,7 +6,7 @@ date: 2026-07-10
 doi: N/A
 source: N/A
 category: overviews
-confidence: synthesis
+evidence_level: synthesis
 pdf_path: N/A
 pdf_filename: N/A
 source_collection: synthesis
@@ -16,7 +16,9 @@ tags: [dbbm, bone-substitute, bcp, prf, l-prf, a-prf, prp, prgf, growth-factor, 
 ## 한국어 핵심요약
 
 > [!summary] 한국어 핵심요약
-> - 14편(동물·전향·RCT·SR·SR+MA) 종합. 탈단백 우골 광물질(Deproteinized Bovine Bone Mineral, DBBM)은 탁월한 골전도 공간유지 재료이나 흡수가 느려 신생골 형성이 열등하다 — 부피 안정성과 신생골 형성의 trade-off가 핵심.
+> - 17편(동물·전향·RCT·SR·SR+MA·in-vitro) 종합. 탈단백 우골 광물질(Deproteinized Bovine Bone Mineral, DBBM)은 탁월한 골전도 공간유지 재료이나 흡수가 느려 신생골 형성이 열등하다 — 부피 안정성과 신생골 형성의 trade-off가 핵심.
+> - **세포 수준 기전 근거(1999)**: 무기질 우골(Anorganic Bovine Bone, ABB, DBBM의 원형)이 조골세포 부착·증식을 지지한다는 최초 정량 시험관 증거(Stephan 1999) + PDGF-BB가 ABB 흡착 후에도 생물학적 활성을 유지해 조골세포 증식을 유의 촉진(IGF-I는 무효, Jiang 1999) — Axis 1의 "골전도 지지체" 명제의 세포생물학적 토대.
+> - **같은 "이종골" 라벨도 조성 따라 치유 속도 다르다**: 콜라겐 함량이 다른 두 우골 이종골(Bio-Oss Collagen ~10% 콜라겐 vs Extra Graft XG13 ~25% 콜라겐)을 쥐 두개관 결손에서 직접 비교 시 14·28일 신생골·BV/TV 모두 XG13이 유의 우세(Sousa 2026) — 초기 염증·혈관신생은 동등한데 후기 결과가 갈림. Li 2023(Axis 8, 입자크기)은 "같은 재료 내 변수는 무해"를 보였지만, Sousa 2026은 "다른 제품 간 조성 차이는 유해할 수 있다"는 반대 방향 신호 — 제품명이 아니라 조성표를 확인해야 하는 이유.
 > - 역설적 소견: DBBM 단독은 초기 신생골을 오히려 억제할 수 있다 — 쥐 두개골 4주 모델에서 DBBM 단독이 무이식(공백) 대조군보다 신생골 적음(p=0.025, Fujioka-Kobayashi 2022).
 > - 이상성 인산칼슘(Biphasic Calcium Phosphate, BCP)이 DBBM보다 신생골↑·잔존입자↓ — 토끼 6주서 신생골 +70%·잔존 −60%(Chakar 2014); 상악동 RCT SR+MA서 신생골 +3.48%·잔존 −8.41%(Alkandari 2025).
 > - 최고 근거 보조제는 백혈구-혈소판풍부피브린(L-PRF): DBBM에 추가 시 신생골 +7.07%·잔존 −7.93%(잔존 I²=0%, 기전적 일관성, Almutairi 2025 SR+MA 5 RCT).
@@ -32,7 +34,7 @@ tags: [dbbm, bone-substitute, bcp, prf, l-prf, a-prf, prp, prgf, growth-factor, 
 
 ## Three-line Summary
 
-Synthesis of 14 papers (animal models, prospective series, RCTs, SRs, SR+MAs) on DBBM and bone substitute adjuncts: DBBM's slow resorption preserves volume but can paradoxically suppress early new bone formation (DBBM alone < empty control at 4 weeks, p=0.025, Fujioka-Kobayashi 2022); BCP (60% HA/40% β-TCP) consistently outperforms DBBM on new bone in rabbit models (+70%, Chakar 2014) and in clinical sinus SR+MA (+3.48% new bone, −8.41% residual graft, Alkandari 2025); DBBM particle size (large 1–2 mm vs small 0.25–1 mm) does NOT affect histomorphometry in sinus elevation (all outcomes NS, Li 2023 SR+MA), so it is not a material-selection lever.
+Synthesis of 17 papers (animal models, in-vitro studies, prospective series, RCTs, SRs, SR+MAs) on DBBM and bone substitute adjuncts: DBBM's slow resorption preserves volume but can paradoxically suppress early new bone formation (DBBM alone < empty control at 4 weeks, p=0.025, Fujioka-Kobayashi 2022); BCP (60% HA/40% β-TCP) consistently outperforms DBBM on new bone in rabbit models (+70%, Chakar 2014) and in clinical sinus SR+MA (+3.48% new bone, −8.41% residual graft, Alkandari 2025); DBBM particle size (large 1–2 mm vs small 0.25–1 mm) does NOT affect histomorphometry in sinus elevation (all outcomes NS, Li 2023 SR+MA), so it is not a material-selection lever.
 
 Platelet-concentrate adjuncts are subtype-specific, not a class effect: L-PRF+DBBM yields +7.07% new bone and −7.93% residual graft (I²=0% for residual graft, Almutairi 2025 SR+MA, 5 RCTs), and the broader PRP/PRF/PRGF SR+MA (Zhang 2025, 16 studies, n=372) confirms +5.92% new bone / −1.93 residual graft overall but shows the residual-graft reduction is driven by PRF/PRGF and NOT replicated by PRP; neither L-PRF nor any platelet concentrate improves implant stability (ISQ/RFA) or survival; DBBM is contraindicated as a solo graft in sites undergoing simultaneous orthodontic tooth movement (root resorption 1.87× control, Jiang 2020).
 
@@ -40,7 +42,7 @@ Clinical bottom line: routine sinus augmentation should use DBBM as first line (
 
 ## 세줄요약
 
-14편(동물·전향·RCT·SR·SR+MA) 종합: DBBM의 느린 흡수는 부피를 보존하지만 초기 신생골 형성을 역설적으로 억제할 수 있음(DBBM 단독 < 무이식 대조군 4주, p=0.025, Fujioka-Kobayashi 2022); BCP는 토끼 모델서 신생골 +70%(Chakar 2014), 임상 상악동 SR+MA서 +3.48% 신생골·−8.41% 잔존(Alkandari 2025)으로 일관되게 DBBM 초과; DBBM 입자 크기(대 1–2mm vs 소 0.25–1mm)는 상악동거상 조직학 결과에 유의 영향 없음(모두 NS, Li 2023) — 재료 선택 기준 아님.
+17편(동물·in-vitro·전향·RCT·SR·SR+MA) 종합: DBBM의 느린 흡수는 부피를 보존하지만 초기 신생골 형성을 역설적으로 억제할 수 있음(DBBM 단독 < 무이식 대조군 4주, p=0.025, Fujioka-Kobayashi 2022); BCP는 토끼 모델서 신생골 +70%(Chakar 2014), 임상 상악동 SR+MA서 +3.48% 신생골·−8.41% 잔존(Alkandari 2025)으로 일관되게 DBBM 초과; DBBM 입자 크기(대 1–2mm vs 소 0.25–1mm)는 상악동거상 조직학 결과에 유의 영향 없음(모두 NS, Li 2023) — 재료 선택 기준 아님.
 
 혈소판 농축물 보조제는 계열 효과가 아니라 아형 특이적: L-PRF+DBBM +7.07% 신생골·−7.93% 잔존(잔존 I²=0%, Almutairi 2025), 더 넓은 PRP·PRF·PRGF SR+MA(Zhang 2025, 16편 n=372)는 전체 +5.92% 신생골·−1.93 잔존이나 잔존 감소는 PRF·PRGF에서만 유의하고 PRP는 아님; L-PRF도 전체 혈소판 농축물도 임플란트 안정성(ISQ/RFA)·생존율에는 무효; 동시 교정이동 부위에 DBBM 단독 금기(치근흡수 1.87배, Jiang 2020).
 
@@ -193,7 +195,17 @@ This axis adds two SRs that reframe DBBM against two references the earlier axes
 
 The important nuance, and the reason this is a distinct axis rather than a footnote to survival data: **a successful, surviving implant on a dimensionally stable ridge does not certify that the underlying xenograft has resorbed or biologically integrated without late foreign-body reaction.** These are different endpoints measured at different times — exactly the endpoint-disaggregation lens Axis 7 applies to residual-graft vs vital-bone (dimensional/contour stability can mask internal remodeling differences). Here the disaggregation runs on the time axis: DBBM's defining slow resorption (Axis 1), an asset for volume stability, is simultaneously the mechanistic root of its multi-year non-resorption/foreign-body/migration risk. Autogenous bone remains the gold standard where feasible; porcine xenografts and PRF derivatives are flagged as promising better-resorbing alternatives pending long-term RCTs. Because complication incidence is likely underreported (the review names the "Proteus Phenomenon" of selective positive publication) and rests on GRADE-low evidence, this is a calibrated caution — not a contraindication — that warrants transparent risk communication and informed consent, and that can tip material choice toward faster-turnover options in patients for whom indefinite xenograft persistence is a specific concern.
 
-## Clinical Decision Threads [claude해석]
+### Axis 10 — Cellular Mechanistic Basis and Product-Specific Healing Variability (Stephan 1999, Jiang 1999, Sousa 2026)
+
+The nine axes above operate at the tissue/histomorphometric level (new bone %, residual graft %, implant survival). Three papers add a cellular mechanistic foundation and a cautionary product-specificity finding.
+
+**Cellular basis for osteoconduction (Stephan 1999, in vitro)**: this is the earliest and most basic evidence in this overview — a direct test of whether anorganic bovine bone (ABB, the sintered deproteinized bovine bone mineral commercially known as DBBM/Bio-Oss) actually supports osteoblast attachment and proliferation at the cellular level. Primary neonatal rat calvarial osteoblasts attached to ABB in a time-dependent manner (significantly more cells at 180 min vs 15/90 min, p<0.05) and proliferated in a dose-dependent manner (100 mg ABB > 10 mg, p<0.05), with SEM confirming cells transitioning from round to flattened, spread morphology with cytoplasmic processes extending into ABB surface pores. This is the cellular-level "why" underlying Axis 1's characterization of DBBM as a genuine osteoconductive scaffold, not merely an inert filler.
+
+**Growth-factor carrier capacity (Jiang 1999, in vitro, direct companion to Stephan 1999)**: the same group tested whether ABB could additionally serve as a growth-factor delivery vehicle. Both PDGF-BB and IGF-I adsorbed to ABB in a concentration-dependent manner, with IGF-I binding ~10-fold more tightly (only ~10% released by day 10, vs ~50% for PDGF-BB) — yet PDGF-BB-loaded ABB significantly enhanced osteoblast proliferation (p<0.05) while IGF-I-loaded ABB did not, despite its higher affinity. Binding affinity and biological effect dissociate: the growth factor that stays bound longest is not the one that drives proliferation. This early (1999) proof-of-concept anticipated the modern growth-factor-functionalized graft strategies now seen at the clinical level in Axis 6 (Jiang 2020's BMP2-functionalized BioCaP) and the collagen-composite delivery systems reviewed in Axis 8 (Li 2025).
+
+**Same graft category, different healing dynamics (Sousa 2026, animal, 54 Wistar rats)**: this is the axis's cautionary counterpoint. Two commercially distinct collagen-containing bovine xenografts — Bio-Oss Collagen® (~90% HA/~10% collagen) and Extra Graft XG13® (~75% HA/~25% collagen) — were compared head-to-head in 5-mm rat calvarial critical-size defects at 7/14/28 days. Early inflammatory and angiogenic responses were equivalent between the two materials, but XG13® showed significantly greater new bone formation at 14 and 28 days (histomorphometry, p<0.05), higher BV/TV on micro-CT (14d p<0.0001; 28d p<0.05), lower porosity, and more mature collagen by 28 days (p<0.01). Both products fall under the identical clinical category — "collagenated bovine xenograft" — yet diverge statistically on multiple healing parameters. This is the mirror image of Axis 8's Li 2023 finding: where Li 2023 showed a within-material variable (particle size) does *not* change outcome, Sousa 2026 shows a between-product variable (collagen fraction, and whatever unmeasured manufacturing differences accompany it) *can* change outcome even within the same nominal category. Practical implication: clinicians should not treat "collagenated bovine xenograft" as a single interchangeable material class based on category label alone — as with the xenograft-vs-allograft equivalence caveat in Axis 9, the product-level details matter more than the category-level ones. Caveat: micro-CT cannot distinguish new bone from residual graft in this model, and the 28-day endpoint does not capture long-term remodeling, so this is preclinical signal, not a clinical product ranking.
+
+## Clinical Decision Threads [미검증]
 
 **Thread 1 — Routine extraction socket ARP: choosing between DBBM and C-DBBM**
 
@@ -243,3 +255,6 @@ Because bovine xenograft does not meaningfully resorb (Axis 1) and can trigger l
 - [[sinus-lift/lateral/zhang-2025-platelet-bone-enhancers-dbbm-sinus]] — SR+MA 16 studies (n=372): PRP/PRF/PRGF adjuncts to DBBM in two-stage sinus lift — +5.92% new bone, −1.93 residual graft overall, but residual-graft reduction driven by PRF/PRGF and NOT PRP; no ISQ/survival effect → refines Axis 4 into enhancer-subtype-specific guidance
 - [[bone-regeneration/abushama-2025-xenograft-allograft-bone-graft-implant]] — SR 12 studies (n=395): xenograft vs allograft across immediate/delayed implant, ARP, sinus — no consistent significant difference → lifts Rao 2026 equivalence to SR level, material choice is a non-efficacy decision (Axis 9)
 - [[bone-regeneration/inchingolo-2025-bovine-xenograft-longterm-histological-clinical]] — SR 11 studies: long-term bovine-xenograft outcomes — GRADE moderate for implant survival but LOW for long-term complications (migration, chronic inflammation, foreign-body reaction at 2–13 years); autograft is the gold standard → long-term safety as a distinct endpoint (Axis 9)
+- [[bone-regeneration/stephan-1999-anorganic-bovine-bone-osteoblastic-attachment]] — In vitro: ABB supports time-dependent osteoblast attachment and dose-dependent proliferation — cellular mechanistic basis for DBBM osteoconduction (Axis 10)
+- [[bone-regeneration/jiang-1999-bovine-bone-mineral-growth-factors]] — In vitro (companion to Stephan 1999): PDGF-BB and IGF-I adsorb to ABB; PDGF-BB (not higher-affinity IGF-I) retains mitogenic activity — binding affinity and biological effect dissociate (Axis 10)
+- [[bone-regeneration/sousa-2026-distinct-healing-dynamics-xenograft]] — Animal (54 rats): two collagen-containing bovine xenografts of the same clinical category show significantly different new bone formation and BV/TV — product composition matters within a nominal category (Axis 10)

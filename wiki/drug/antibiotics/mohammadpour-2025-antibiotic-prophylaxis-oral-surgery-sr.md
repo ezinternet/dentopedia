@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1186/s12903-025-07237-y
 source: mohammadpour-2025-antibiotic-prophylaxis-oral-surgery-sr.md
 category: [drug/antibiotics]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "41286855"
@@ -110,10 +110,10 @@ First-line agents across procedures are amoxicillin (2 g single preoperative dos
 
 ## Related Papers
 
-- [[drug/de-angelis-2025-antibiotic-third-molar-extraction-prevention-sr]] — Third molar extraction AP SR; this review extends to full OMFS spectrum
-- [[drug/torof-2023-antibiotic-dental-implant-procedures-sr-ma]] — Implant AP SR+MA; this review contextualizes within broader OMFS evidence
-- [[drug/vidovic-juras-2024-antibiotic-prophylaxis-dental-procedures]] — AP for dental procedures broadly; this review adds OMFS/surgical fracture focus
-- [[drug/mendez-romero-2025-antibiotic-stewardship-dentistry-sr]] — AMS in dentistry SR; aligned stewardship conclusions
-- [[drug/loper-2025-prophylactic-antibiotics-infective-endocarditis-dental-sr]] — Endocarditis prophylaxis for dental procedures (complementary indication)
-- [[drug/diaz-2025-antibiotics-sinus-lift-infection-umbrella]] — Antibiotic use in sinus lift; overlapping with maxillofacial surgery scope
-- [[drug/sandulescu-2024-antibiotic-prescribing-dental-best-practices-review]] — Best practices in antibiotic prescribing; general framework aligned with this review's stewardship conclusions
+- [[drug/antibiotics/de-angelis-2025-antibiotic-third-molar-extraction-prevention-sr]] — Third molar extraction AP SR; this review extends to full OMFS spectrum
+- [[drug/antibiotics/torof-2023-antibiotic-dental-implant-procedures-sr-ma]] — Implant AP SR+MA; this review contextualizes within broader OMFS evidence
+- [[drug/mronj/vidovic-juras-2024-antibiotic-prophylaxis-dental-procedures]] — AP for dental procedures broadly; this review adds OMFS/surgical fracture focus
+- [[drug/antibiotics/mendez-romero-2025-antibiotic-stewardship-dentistry-sr]] — AMS in dentistry SR; aligned stewardship conclusions
+- [[drug/antibiotics/loper-2025-prophylactic-antibiotics-infective-endocarditis-dental-sr]] — Endocarditis prophylaxis for dental procedures (complementary indication)
+- [[drug/antibiotics/diaz-2025-antibiotics-sinus-lift-infection-umbrella]] — Antibiotic use in sinus lift; overlapping with maxillofacial surgery scope
+- [[drug/antibiotics/sandulescu-2024-antibiotic-prescribing-dental-best-practices-review]] — Best practices in antibiotic prescribing; general framework aligned with this review's stewardship conclusions

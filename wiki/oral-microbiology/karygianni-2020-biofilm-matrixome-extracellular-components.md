@@ -6,7 +6,7 @@ date: 2020-08-01
 doi: "10.1016/j.tim.2020.03.016"
 source: karygianni-2020-biofilm-matrixome-extracellular-components.md
 category: [oral-microbiology]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/karygianni-2020-biofilm-matrixome-extracellular-components.pdf
 pdf_filename: karygianni-2020-biofilm-matrixome-extracellular-components.pdf
 source_collection: external

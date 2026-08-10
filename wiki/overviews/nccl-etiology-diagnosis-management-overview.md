@@ -7,7 +7,7 @@ doi: N/A
 source: N/A
 type: synthesis
 category: overviews
-confidence: synthesis
+evidence_level: synthesis
 pdf_path: N/A
 pdf_filename: N/A
 source_collection: synthesis
@@ -29,6 +29,9 @@ source_papers:
   - wiki/nccl/dioguardi-2024-abfraction-theory-controversy-scoping-review.md
   - wiki/resin-bonding/yurdaguven-2025-universal-adhesives-nccl-24month-rct.md
 tags: [nccl, abfraction, biocorrosion, monitoring, universal-adhesive, selective-enamel-etching, occlusion, overview]
+relations:
+  - type: refines
+    target: dioguardi-2024-abfraction-theory-controversy-scoping-review
 ---
 
 ## 한국어 핵심요약
@@ -66,10 +69,10 @@ When restoration is required, success depends not on composite type but on the a
 ## Thesis
 NCCL 임상 질문은 두 갈래다 — (1) 무엇이 원인이고 어떻게 진단하나, (2) 관찰할 것인가 수복할 것인가, 수복한다면 어떻게 하나. 현재 best evidence의 결론:
 
-- 병인은 단일 기전이 아니라 stress(abfraction)·friction(abrasion)·biocorrosion(erosion)의 case-specific 조합이다. [합의수준]
-- "교합응력→abfraction"이 모든 NCCL의 주원인이라는 강한 주장은 임상적으로 미입증이다. SR 근거가 정면으로 갈린다: 임상연구 SR(Senna 2012·Silva 2013)은 연관 약함/결론불가, abfraction 키워드 SR(Duangthip 2017)은 81% 연관(단 lab/FEA 가중·응력단독 원인 임상입증 전무), 최신 PRISMA-ScR scoping(Dioguardi 2024)은 6편만으로 확정·반박 모두 불가로 정리. 초미세구조(SEM)에선 microfracture 증거 일부 관찰. **종합: lab은 응력집중을 보이나 in-vivo 인과는 미입증.** [합의수준 — SR 충돌]
-- 무증상·생활치·기능정상 병변은 침습 처치 전 최소 6개월 monitoring. 진행예방 목적의 교합조정·예방적 수복은 적응증이 아니다. [합의수준]
-- 수복 적응증: 진행, 과민증, 심미, 구조적 위협, 음식물 정체. composite resin이 1차 재료이며, **성공은 composite 종류가 아니라 접착 시스템·술자 술기에 좌우**된다. [근거강함 — RCT]
+- 병인은 단일 기전이 아니라 stress(abfraction)·friction(abrasion)·biocorrosion(erosion)의 case-specific 조합이다. [확인]
+- "교합응력→abfraction"이 모든 NCCL의 주원인이라는 강한 주장은 임상적으로 미입증이다. SR 근거가 정면으로 갈린다: 임상연구 SR(Senna 2012·Silva 2013)은 연관 약함/결론불가, abfraction 키워드 SR(Duangthip 2017)은 81% 연관(단 lab/FEA 가중·응력단독 원인 임상입증 전무), 최신 PRISMA-ScR scoping(Dioguardi 2024)은 6편만으로 확정·반박 모두 불가로 정리. 초미세구조(SEM)에선 microfracture 증거 일부 관찰. **종합: lab은 응력집중을 보이나 in-vivo 인과는 미입증.** [확인 — SR 충돌]
+- 무증상·생활치·기능정상 병변은 침습 처치 전 최소 6개월 monitoring. 진행예방 목적의 교합조정·예방적 수복은 적응증이 아니다. [확인]
+- 수복 적응증: 진행, 과민증, 심미, 구조적 위협, 음식물 정체. composite resin이 1차 재료이며, **성공은 composite 종류가 아니라 접착 시스템·술자 술기에 좌우**된다. [확인 — RCT]
 
 ## Evidence Map
 

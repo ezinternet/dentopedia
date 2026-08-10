@@ -2,7 +2,7 @@
 title: "Correlation of anthropometric methods with standard method of recording the vertical dimension of occlusion: A systematic review and meta-analysis"
 authors: Goyal N, Kaurani P, Goyal A, Karuveettil V, Gutjahr G, Janakiram C, et al.
 year: 2026
-doi: J Prosthet Dent 2026;135(3):528-538
+doi: "10.1016/j.prosdent.2025.04.029"
 category: [complete-denture]
 pdf_path: /Users/oracleneo/llm-wiki/papers/goyal-2026-anthropometric-methods-vertical-dimension-occlusion-sr-ma.pdf
 pdf_filename: goyal-2026-anthropometric-methods-vertical-dimension-occlusion-sr-ma.pdf

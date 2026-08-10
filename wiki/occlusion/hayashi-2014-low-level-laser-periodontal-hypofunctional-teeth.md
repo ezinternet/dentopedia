@@ -6,7 +6,7 @@ date: 2014-06-13
 doi: 10.1371/journal.pone.0100066
 source: hayashi-2014-low-level-laser-periodontal-hypofunctional-teeth.md
 category: [occlusion]
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/hayashi-2014-low-level-laser-periodontal-hypofunctional-teeth.pdf
 pdf_filename: hayashi-2014-low-level-laser-periodontal-hypofunctional-teeth.pdf
 source_collection: external

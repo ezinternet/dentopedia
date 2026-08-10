@@ -6,7 +6,7 @@ date: 2022-11-25
 doi: 10.3390/biom12121753
 source: korczeniewska-2022-pathophysiology-post-traumatic-trigeminal-neuropathic.md
 category: [orofacial-pain]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: true
 pmid: "36551181"
@@ -79,4 +79,4 @@ Narrative (non-systematic) literature review — no PRISMA protocol, no reported
 
 - [[overviews/trigeminal-neuralgia-neuropathy-overview]] — covers PTNP clinically (diagnosis, iatrogenic incidence by cause) but defers mechanism; this paper supplies the missing peripheral pathophysiology.
 - [[orofacial-pain/wilke-2020-chloride-underrated-ion-nociceptors]] — reviews the DRG/primary-afferent chloride-channel repertoire underlying nociceptor excitability; this paper extends the peripheral ion-channel-plasticity story to the trigeminal-injury-specific Na+/K+/T-type Ca2+ channel changes that chloride-focused reviews do not cover.
-- [[oral-surgery/lee-2015-inferior-alveolar-nerve-injury-management]] — case report of IAN neuropraxia after third-molar extraction managed with early topical/systemic steroid protocol to full recovery; this paper's inflammatory-priming/peripheral-sensitization mechanism provides the biological rationale for why prompt anti-inflammatory intervention after exactly this class of iatrogenic injury may prevent progression to chronic PTNP.
+- [[oral-surgery/nerve-injury/lee-2015-inferior-alveolar-nerve-injury-management]] — case report of IAN neuropraxia after third-molar extraction managed with early topical/systemic steroid protocol to full recovery; this paper's inflammatory-priming/peripheral-sensitization mechanism provides the biological rationale for why prompt anti-inflammatory intervention after exactly this class of iatrogenic injury may prevent progression to chronic PTNP.

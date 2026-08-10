@@ -6,7 +6,7 @@ date: 2024-07-30
 doi: 10.3290/j.jad.b5748881
 source: wolff-2024-direct-composite-restorations-permanent-teeth.md
 category: [resin]
-confidence: consensus
+evidence_level: consensus
 pdf_path: /Users/oracleneo/llm-wiki/papers/wolff-2024-direct-composite-restorations-permanent-teeth.pdf
 pdf_filename: wolff-2024-direct-composite-restorations-permanent-teeth.pdf
 source_collection: external

@@ -45,8 +45,8 @@ Reported successful integration and prosthetic loading without distal cantilever
 Case-level evidence; technique-sensitive; lacks comparative outcome data.
 
 ## 6. Related Work
-- [[immediate-implant/liu-2024-maxillary-immediate-molar-palatal-root-socket]]
-- [[immediate-implant/smith-2013-classification-molar-extraction-immediate-implant]]
+- [[immediate-implant/molar-septum/liu-2024-maxillary-immediate-molar-palatal-root-socket]]
+- [[immediate-implant/molar-septum/smith-2013-classification-molar-extraction-immediate-implant]]
 
 ## 7. Glossary
 - **IIP:** Immediate Implant Placement — placement at the time of tooth extraction.

@@ -6,7 +6,7 @@ date: 2025-04-25
 doi: 10.1111/jopr.14061
 source: fouda-2025-accuracy-digital-workflow-implant-fullarch.md
 category: [digital-workflow]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: true
 pmid: "40285405"
@@ -61,4 +61,4 @@ This in-vitro study tested whether a fully digital workflow (TRIOS 5 intraoral s
 
 - [[digital-workflow/buhl-2025-intraoral-scanner-full-arch-accuracy-invitro]] — upstream in-vitro evidence of IOS full-arch trueness limitations (50–200 µm range across devices) that this study's scanning-error findings corroborate and extend into downstream framework passivity.
 - [[digital-workflow/vitai-2023-intraoral-scanner-complete-arch-sr-network-ma]] — SR+network MA ranking IOS complete-arch scanning accuracy; provides broader device-comparison context for the single-scanner (TRIOS 5) findings here.
-- [[implants/del-fabbro-2022-full-arch-tilted-axial-implants-sr-ma]] — clinical full-arch implant prosthesis outcomes literature; this paper's misfit findings offer a mechanistic bench-side explanation for prosthetic complications (screw loosening, framework chipping) reported in such clinical full-arch series.
+- [[implants/full-arch/del-fabbro-2022-full-arch-tilted-axial-implants-sr-ma]] — clinical full-arch implant prosthesis outcomes literature; this paper's misfit findings offer a mechanistic bench-side explanation for prosthetic complications (screw loosening, framework chipping) reported in such clinical full-arch series.

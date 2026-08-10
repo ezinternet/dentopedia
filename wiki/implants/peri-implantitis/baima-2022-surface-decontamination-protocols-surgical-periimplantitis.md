@@ -6,7 +6,7 @@ date: 2022-01-01
 doi: 10.1111/clr.13992
 source: baima-2022-surface-decontamination-protocols-surgical-periimplantitis.md
 category: [implants/peri-implantitis]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/baima-2022-surface-decontamination-protocols-surgical-periimplantitis.pdf
 pdf_filename: baima-2022-surface-decontamination-protocols-surgical-periimplantitis.pdf
 source_collection: external
@@ -44,8 +44,8 @@ University of Turin/Complutense 주도 SR+MA. 외과적 주위염 치료에서 �
 RCT만 포함, 2인 독립 스크리닝·추출·RoB. 가능 시 random-effects meta-analysis.
 
 ## Results
-22편/16 RCT 포함(기계·화학·물리 제염). 어느 프로토콜도 임상·방사선 지표에서 일관된 우월성 없음 [합의수준]. 구체적 pooled effect는 본문 추가 추출 필요 [미검증].
+22편/16 RCT 포함(기계·화학·물리 제염). 어느 프로토콜도 임상·방사선 지표에서 일관된 우월성 없음 [확인]. 구체적 pooled effect는 본문 추가 추출 필요 [미검증].
 
 ## Related Papers
-- [[implants/herrera-2023-prevention-treatment-peri-implant-efp]] — EFP S3가 미권고한 제염법 근거
+- [[implants/peri-implantitis/herrera-2023-prevention-treatment-peri-implant-efp]] — EFP S3가 미권고한 제염법 근거
 - [[implants/peri-implantitis/hong-2024-peri-implantitis-treatment-protocol-flowchart]] — 주위염 치료 flowchart

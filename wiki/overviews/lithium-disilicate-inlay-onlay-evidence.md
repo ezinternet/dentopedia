@@ -6,7 +6,7 @@ date: 2026-05-26
 doi: N/A
 source: N/A
 category: overviews
-confidence: synthesis
+evidence_level: synthesis
 pdf_path: N/A
 pdf_filename: N/A
 source_collection: synthesis
@@ -18,14 +18,14 @@ tags: [inlay, onlay, partial-coverage, lithium-disilicate, e-max, cad-cam, 3d-pr
 > [!summary] 한국어 핵심요약
 > - 후방부 부분피개 수복(인레이·온레이·overlay) 13편을 4축(장기 임상성적·재료 비교·와동/디자인·제작방식)으로 종합한 결정 ladder.
 > - 결론 한 줄: 리튬디실리케이트(Lithium Disilicate, e.max)가 10년 95% 이상 생존으로 1선, CAD/CAM 간접레진은 5–7년에 격차 벌어지며 장기 열위, 풀크라운보다 부분피개가 치질보존·예후 모두 우위.
-> - 축1 장기 생존[근거강함]: LiDiSi 인레이/온레이 10년 95.6%(인레이 93.9% < 온레이 98.3%, 대구치 위험↑, Malament 2021 n=551); 간접 RBC(레진)는 7.8년 84.9% vs LiDiSi 96.8%로 연간실패율 5배 차이(Lempel 2023).
+> - 축1 장기 생존[확인]: LiDiSi 인레이/온레이 10년 95.6%(인레이 93.9% < 온레이 98.3%, 대구치 위험↑, Malament 2021 n=551); 간접 RBC(레진)는 7.8년 84.9% vs LiDiSi 96.8%로 연간실패율 5배 차이(Lempel 2023).
 > - 축2 재료 직접 비교: 1–2년 단기 split-mouth RCT에서는 e.max vs 나노세라믹/하이브리드 차이 NS(Hassan 2024, Souza 2021) — 단기 RCT만 보고 "차이 없다" 판단 금지, 후향 7년+에서 격차 벌어짐.
-> - 축3 와동/디자인[합의수준]: Overlay(cusp coverage) > 박스형 인레이 파절강도, 즉시상아질봉쇄(Immediate Dentin Sealing, IDS) 사전 권고(Hofsteenge 2023); 풀크라운 vs 부분피개는 부분피개가 동등 또는 우위 + 치질 보존(Wang 2022, Prott 2025).
+> - 축3 와동/디자인[확인]: Overlay(cusp coverage) > 박스형 인레이 파절강도, 즉시상아질봉쇄(Immediate Dentin Sealing, IDS) 사전 권고(Hofsteenge 2023); 풀크라운 vs 부분피개는 부분피개가 동등 또는 우위 + 치질 보존(Wang 2022, Prott 2025).
 > - 와동 결정 ladder: ①단순 Class II(MO/DO, 협설 정상)→인레이 가능, 가능하면 온레이로 확장 ②MOD+cusp 1개↑ 약화→온레이/overlay 필수, 인레이 금기 ③Endo 후 충분한 치질→엔도크라운 또는 overlay ④다수치 결손+지지치질 충분→지르코니아 IRFPD(전통 FDP 동등 강도).
 > - 오판 패턴: "이만큼 깎이면 그냥 풀크라운" — 풀크라운은 치질·치수 손실↑, 부분피개가 동등/우위.
 > - 축4 제작방식[미검증]: 3D 프린팅 인레이 적합도가 밀링 그룹과 임상 허용 한계 내 유사(Lim 2023) — 단일 in-vitro, 장기 임상 부재.
 > - IRFPD: 지르코니아 IRFPD는 672N으로 전통 FDP 동등, 지르코니아강화 리튬실리케이트는 391N으로 유의하게 약함 → 후자 권장 안 함(Kermanshah 2020, in-vitro 한정).
-> - 확신도: 축1 [근거강함](다수 후향 ≥7년+SR+MA), 축2 단기 [근거강함]/장기 [합의수준], 축3 [합의수준], 축4 [미검증].
+> - 확신도: 축1 [확인](다수 후향 ≥7년+SR+MA), 축2 단기 [확인]/장기 [확인], 축3 [확인], 축4 [미검증].
 
 ## Three-line Summary
 
@@ -48,10 +48,10 @@ CAD/CAM 간접레진은 5–7년에 격차 벌어지며 장기적 열위. 풀크
 Inlay/onlay 카테고리 wiki 13편을 합쳐 4축으로 정리: ①장기 임상성적, ②재료 간 비교, ③와동/디자인, ④제작방식(밀링 vs 프린팅 vs FPD). 일반인용 결론보다는 "어떤 케이스에 무엇을 골라야 하는가" 결정 ladder 위주.
 
 핵심 명제 6개:
-1. **리튬디실리케이트 인레이/온레이는 10년 95% 이상 생존** — Malament 2021 후향 (n=551, 10년 95.6%, 인레이 93.9%/온레이 98.3%) [근거강함]
-2. **간접 RBC(레진)는 5년까지는 세라믹과 유사하나 7년+에서 격차 벌어짐** — Lempel 2023 (7.8년 LiDiSi 96.8% vs RBC 84.9%, 연간실패율 5배 차이), Bresser 2023 SR+MA. [근거강함]
-3. **풀크라운 vs 부분피개 — 부분피개가 생존·합병증·치질보존 모두 동등하거나 우위** — Wang 2022 SR+MA, Prott 2025 scoping. [합의수준]
-4. **와동 디자인 — Overlay(cusp coverage) > 박스형 인레이; IDS(즉시상아질봉쇄) 사전 권고** — Hofsteenge 2023 in-vitro+FEA. [합의수준]
+1. **리튬디실리케이트 인레이/온레이는 10년 95% 이상 생존** — Malament 2021 후향 (n=551, 10년 95.6%, 인레이 93.9%/온레이 98.3%) [확인]
+2. **간접 RBC(레진)는 5년까지는 세라믹과 유사하나 7년+에서 격차 벌어짐** — Lempel 2023 (7.8년 LiDiSi 96.8% vs RBC 84.9%, 연간실패율 5배 차이), Bresser 2023 SR+MA. [확인]
+3. **풀크라운 vs 부분피개 — 부분피개가 생존·합병증·치질보존 모두 동등하거나 우위** — Wang 2022 SR+MA, Prott 2025 scoping. [확인]
+4. **와동 디자인 — Overlay(cusp coverage) > 박스형 인레이; IDS(즉시상아질봉쇄) 사전 권고** — Hofsteenge 2023 in-vitro+FEA. [확인]
 5. **CAD/CAM 밀링 vs 3D 프린팅 — 적합도 차이는 임상적 한계 아래** — Lim 2023 in-vitro (4그룹 비교, 임상 수용 범위). [미검증]
 6. **IRFPD(인레이 retained FDP) — 지르코니아 IRFPD는 전통 FDP와 동등 강도, 지르코니아강화 리튬실리케이트는 유의하게 약함** — Kermanshah 2020 in-vitro. [in-vitro 한정]
 
@@ -67,7 +67,7 @@ Inlay/onlay 카테고리 wiki 13편을 합쳐 4축으로 정리: ①장기 임�
 | [[inlay/bresser-2023-intracoronal-restorations-longevity-sr-ma]] | sr+ma (12편, 1-7y) | 4재료 비교 — 간접 RBC 실패율↑, 금·LiDiSi 우위, 루사이트 양호 |
 | [[inlay/fan-2021-inlay-onlay-overlay-long-term-sr-ma]] | sr+ma | 5년: 레진 91% / 세라믹 89%; 10년: 세라믹 89%로 장기 안정 |
 
-**임상 함의**: 후방부 광범위 우식·crack·MOD 케이스에 선택지 1순위는 LiDiSi 부분피개. 간접 RBC는 5년 이내 임시적·경제적 케이스에 한정. [근거강함]
+**임상 함의**: 후방부 광범위 우식·crack·MOD 케이스에 선택지 1순위는 LiDiSi 부분피개. 간접 RBC는 5년 이내 임시적·경제적 케이스에 한정. [확인]
 
 ### 축 2 — 재료 간 직접 비교 (Head-to-head RCT)
 
@@ -77,7 +77,7 @@ Inlay/onlay 카테고리 wiki 13편을 합쳐 4축으로 정리: ①장기 임�
 | [[inlay/souza-2021-lithium-disilicate-vs-resin-composite-cadcam-onlay]] | rct (split-mouth, n=20, 1y) | e.max CAD vs Lava Ultimate — 1년 임상 NS; e.max 광택·색 일부 저하 |
 | [[inlay/bustamante-2020-ceramic-hybrid-composite-onlays-sr-ma]] | sr+ma (29 정성/27 정량) | 전체 생존 94.2%, 복합레진 온레이 < 세라믹, 추적기간/재료가 주요 예측자 |
 
-**임상 함의**: 1–2년 단기 RCT는 재료 차이가 안 보이지만, 후향 7년 이상에서 격차 벌어짐. 단기 RCT만 보고 "차이 없다" 판단 금지. [claude해석]
+**임상 함의**: 1–2년 단기 RCT는 재료 차이가 안 보이지만, 후향 7년 이상에서 격차 벌어짐. 단기 RCT만 보고 "차이 없다" 판단 금지. [미검증]
 
 ### 축 3 — 와동/디자인/구조
 
@@ -93,9 +93,9 @@ Inlay/onlay 카테고리 wiki 13편을 합쳐 4축으로 정리: ①장기 임�
 1. **Class II 단순(MO/DO, 협설 정상)** → 인레이 가능 (단 대구치 위험 ↑ — Malament). 가능하면 온레이로 확장.
 2. **MOD + cusp 1개 이상 약화** → 온레이/overlay 필수. 인레이 금기.
 3. **Endo 처치 후 + 충분한 치질** → 엔도크라운 또는 overlay (풀크라운 보다 보존적).
-4. **다수치 결손 + 인접 supporting 치질 충분** → 지르코니아 IRFPD 고려(전통 FDP 동등 강도). 지르코니아강화 리튬실리케이트 IRFPD는 권장 안 함. [근거강함]
+4. **다수치 결손 + 인접 supporting 치질 충분** → 지르코니아 IRFPD 고려(전통 FDP 동등 강도). 지르코니아강화 리튬실리케이트 IRFPD는 권장 안 함. [확인]
 
-**오판 패턴**: "이만큼 깎이면 그냥 풀크라운으로 가자" — Wang 2022 + Prott 2025가 부분피개의 동등 또는 우위 생존을 시사. 풀크라운은 치질·치수 모두 손실↑. [합의수준]
+**오판 패턴**: "이만큼 깎이면 그냥 풀크라운으로 가자" — Wang 2022 + Prott 2025가 부분피개의 동등 또는 우위 생존을 시사. 풀크라운은 치질·치수 모두 손실↑. [확인]
 
 **MOD box 파절 nuance**: Sirikatitham 2026 (34편 in-vitro scoping)은 internal MOD box가 *대구치* overlay의 파절하중을 낮추고(LDS-MOD overlay 1,295–1,326N < non-MOD 1,406–4,995N) 파절 양상을 악화시키지만 *소구치*에서는 효과가 미미하다는 tooth-type-dependent gradient를 정리한다 — 단 모든 디자인이 최대 교합력(소구치 392N·대구치 602N)을 상회하므로 설계 선택은 절대 파절수치보다 안착 안정성·접착 지지를 우선해야 한다. [in-vitro 한정]
 
@@ -123,9 +123,9 @@ Inlay/onlay 카테고리 wiki 13편을 합쳐 4축으로 정리: ①장기 임�
 - [[overviews/zirconia-types-clinical-selection]] — 지르코니아 IRFPD 선택
 
 확신도 등급:
-- 축 1 장기 생존 = [근거강함] (다수 후향 ≥7년 + SR+MA).
-- 축 2 재료 직접 비교 = [근거강함] 단기 / [합의수준] 장기.
-- 축 3 와동·구조 = [합의수준] in-vitro 위주, 임상은 SR+MA scoping.
+- 축 1 장기 생존 = [확인] (다수 후향 ≥7년 + SR+MA).
+- 축 2 재료 직접 비교 = [확인] 단기 / [확인] 장기.
+- 축 3 와동·구조 = [확인] in-vitro 위주, 임상은 SR+MA scoping.
 - 축 4 제작 방식 = [미검증] (단일 in-vitro).
 
 ## Related Papers

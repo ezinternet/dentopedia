@@ -6,7 +6,7 @@ date: 2023-02-07
 doi: 10.1111/cdoe.12817
 source: kitsaras-2023-theoretical-methodological-approaches-oral-health-behaviour.md
 category: [behavioral-dentistry/motivational-interviewing]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: false
 pmid: "36749671"

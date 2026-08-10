@@ -6,7 +6,7 @@ date: 2020-06-17
 doi: 10.34172/joddd.2020.028
 source: nisar-2020-collagen-plug-socket-preservation.md
 category: [bone-regeneration/ridge-preservation]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/nisar-2020-collagen-plug-socket-preservation.pdf
 pdf_filename: nisar-2020-collagen-plug-socket-preservation.pdf
 source_collection: external

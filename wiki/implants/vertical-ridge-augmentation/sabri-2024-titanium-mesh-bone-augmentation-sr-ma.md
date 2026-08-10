@@ -7,7 +7,7 @@ doi: ""
 pmid: "39283219"
 source: sabri-2024-titanium-mesh-bone-augmentation-sr-ma.md
 category: [implants/vertical-ridge-augmentation]
-confidence: sr+ma
+evidence_level: sr+ma
 text_path: /Users/oracleneo/llm-wiki/papers/sabri-2024-titanium-mesh-bone-augmentation-sr-ma.txt
 text_filename: sabri-2024-titanium-mesh-bone-augmentation-sr-ma.txt
 source_collection: pubmed-text

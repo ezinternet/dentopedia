@@ -6,7 +6,7 @@ date: 2022-01-01
 doi: 10.1016/j.prosdent.2022.11.026
 source: zhang-2022-two-occlusal-patterns-posterior-implant-crowns-prospective.md
 category: [occlusion]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/zhang-2022-two-occlusal-patterns-posterior-implant-crowns-prospective.pdf
 pdf_filename: zhang-2022-two-occlusal-patterns-posterior-implant-crowns-prospective.pdf
 source_collection: external
@@ -41,7 +41,7 @@ Implant-protected light occlusion reduces immediate loading but does not prevent
 12-month prospective clinical study, 교합분석(occlusal contact).
 
 ## Results
-약교합군 상대 교합력 4.91±3.52→10.34±4.35%, 정상군 10.45±4.32→18.15±4.80%; 약교합 접촉시간이 유의하게 늦음(P<.001); 비대칭지수 정상범위(10%) 유지; 약교합군 만족도 우위. 약교합으로 force·contact time을 낮추는 효과는 시간에 따라 불안정 [근거강함]. implant-protected occlusion 개념의 임상 검증.
+약교합군 상대 교합력 4.91±3.52→10.34±4.35%, 정상군 10.45±4.32→18.15±4.80%; 약교합 접촉시간이 유의하게 늦음(P<.001); 비대칭지수 정상범위(10%) 유지; 약교합군 만족도 우위. 약교합으로 force·contact time을 낮추는 효과는 시간에 따라 불안정 [확인]. implant-protected occlusion 개념의 임상 검증.
 
 ## Related Papers
 - [[occlusion/mao-2024-occlusal-changes-implant-supported-single-crowns]] — SR+MA

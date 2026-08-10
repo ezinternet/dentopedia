@@ -6,7 +6,7 @@ date: 2024-01-11
 doi: 10.1016/j.prosdent.2023.12.002
 source: al-dabbagh-2024-circumferential-ferrule-fiber-posts-survival.md
 category: [post-and-core]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: false
 pmid: "38216376"

@@ -6,11 +6,16 @@ date: 2024-03-31
 doi: 10.1055/s-0044-1779424
 source: pujarern-2024-biofilm-removal-implant-airflow-erythritol.md
 category: [implants/peri-implantitis]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/pujarern-2024-biofilm-removal-implant-airflow-erythritol.pdf
 pdf_filename: pujarern-2024-biofilm-removal-implant-airflow-erythritol.pdf
 source_collection: external
 tags: [air-polishing, erythritol, sodium-bicarbonate, biofilm, decontamination, in-vitro]
+relations:
+  - type: extends
+    target: peri-implantitis-management-overview
+  - type: reinforces
+    target: baima-2022-surface-decontamination-protocols-surgical-periimplantitis
 ---
 
 ## Three-line Summary

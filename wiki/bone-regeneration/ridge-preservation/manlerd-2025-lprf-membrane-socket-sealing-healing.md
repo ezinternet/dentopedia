@@ -6,7 +6,7 @@ date: 2025-10-22
 doi: 10.1055/s-0045-1812061
 source: manlerd-2025-lprf-membrane-socket-sealing-healing.md
 category: [bone-regeneration/ridge-preservation]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 pmid: "41125096"
 pmcid: "PMC13337283"

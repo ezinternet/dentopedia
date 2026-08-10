@@ -6,7 +6,7 @@ date: 2025-05-06
 doi: 10.1186/s12906-025-04900-3
 source: kim-2025-toothpick-method-cibotium-peri-implant-mucositis-rct.md
 category: [implants/peri-implantitis]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: true
 pmid: "40329262"

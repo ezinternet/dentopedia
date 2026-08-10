@@ -4,7 +4,7 @@ authors: synthesis page (compiled by Claude from 11 wiki entries, ingested throu
 year: 2026
 date: 2026-05-22
 category: overviews
-confidence: synthesis
+evidence_level: synthesis
 source_collection: internal
 tags: [overview, peri-implant, soft-tissue-dehiscence, PSTD, mucosal-recession, keratinized-tissue, CTG, ao-aap, claude-synthesis]
 source: synthesis
@@ -49,12 +49,12 @@ Clinical algorithm: LOW risk → standard placement ± CTG; MOD → CTG or xenog
 | implants/thoma-2018-soft-tissue-augmentation-periimplant-health | sr+ma | FGG/CTG로 KT 3–4 mm 증가; KT <2 mm 시 plaque/BoP/MBL 증가 |
 | immediate-implant/seyssens-2021-immediate-implant-connective-tissue-graft-sr-ma | sr+ma | IIP+CTG midfacial 보존 ~0.4–0.7 mm |
 | immediate-implant/azadi-2025-soft-tissue-grafting-immediate-implant-bayesian-nma | sr+ma (NMA) | CTG vs PRF·이종·동종 collagen matrix |
-| implants/derks-2015-peri-implant-health-disease-epidemiology | sr+ma | 점막염 43%·임플란트 주위염 22% prevalence |
-| implants/galarraga-vinueza-2025-peri-implant-disease-risk-factors | sr+ma | 점막염 46%·임플란트 주위염 21%; 위험지표 (치주염·흡연·당뇨·비만) |
-| implants/berglundh-2018-peri-implant-diseases-conditions-consensus | consensus | 2017 World Workshop case definition |
-| implants/herrera-2023-prevention-treatment-peri-implant-efp | consensus | EFP S3 guideline — 13 SR 기반 전주기 프로토콜 |
-| implants/carra-2023-primordial-primary-prevention-peri-implant-sr-ma | sr+ma | Primordial + primary prevention 효과 |
-| implants/caggiano-2022-smoking-cessation-periodontal-peri-implant-sr | sr | 금연이 peri-implant 결과 개선 |
+| implants/peri-implantitis/derks-2015-peri-implant-health-disease-epidemiology | sr+ma | 점막염 43%·임플란트 주위염 22% prevalence |
+| implants/peri-implantitis/galarraga-vinueza-2025-peri-implant-disease-risk-factors | sr+ma | 점막염 46%·임플란트 주위염 21%; 위험지표 (치주염·흡연·당뇨·비만) |
+| implants/peri-implantitis/berglundh-2018-peri-implant-diseases-conditions-consensus | consensus | 2017 World Workshop case definition |
+| implants/peri-implantitis/herrera-2023-prevention-treatment-peri-implant-efp | consensus | EFP S3 guideline — 13 SR 기반 전주기 프로토콜 |
+| implants/peri-implantitis/carra-2023-primordial-primary-prevention-peri-implant-sr-ma | sr+ma | Primordial + primary prevention 효과 |
+| implants/survival/caggiano-2022-smoking-cessation-periodontal-peri-implant-sr | sr | 금연이 peri-implant 결과 개선 |
 | immediate-implant/martins-2024-facial-bone-wall-immediate-implant-esthetic | sr | facial bone wall ↔ recession 직접 연결 |
 
 ---
@@ -69,7 +69,7 @@ Clinical algorithm: LOW risk → standard placement ± CTG; MOD → CTG or xenog
 | MREC (mucosal recession) | **23.1%** | 임플란트 platform/abutment margin 노출 |
 | ML apical shift (mucosal level) | 정량값 변동 | follow-up에 따라 |
 
-핵심: *질환이 없는* (disease-free) 코호트에서도 절반 가까이 dehiscence 발생. PSTD를 "예외적 합병증"이 아니라 *기대 가능한 자연 진행*으로 봐야 함. [근거강함]
+핵심: *질환이 없는* (disease-free) 코호트에서도 절반 가까이 dehiscence 발생. PSTD를 "예외적 합병증"이 아니라 *기대 가능한 자연 진행*으로 봐야 함. [확인]
 
 **위험인자 (multi-level mixed-effects regression)**:
 1. Thin biotype (≤1 mm)
@@ -86,22 +86,22 @@ Clinical algorithm: LOW risk → standard placement ± CTG; MOD → CTG or xenog
 4. 연조직 volume augmentation
 5. 비흡연
 
-**Galarraga-Vinueza 2025 (sr+ma, 102편, 13030명)** — Tavelli와 거의 동일한 prevalence (점막염 46%, 임플란트 주위염 21%). 위험인자도 일치 (치주염·흡연·당뇨·비만). 두 SR이 *수렴된 결론*을 제시. [근거강함]
+**Galarraga-Vinueza 2025 (sr+ma, 102편, 13030명)** — Tavelli와 거의 동일한 prevalence (점막염 46%, 임플란트 주위염 21%). 위험인자도 일치 (치주염·흡연·당뇨·비만). 두 SR이 *수렴된 결론*을 제시. [확인]
 
-**Derks 2015 (sr+ma, 11편)** — 더 이전 데이터지만 prevalence 일관 (점막염 43%, 임플란트 주위염 22%). PSTD는 disease 진행과 *부분적으로 별개 현상* — disease 없이도 발생. [근거강함]
+**Derks 2015 (sr+ma, 11편)** — 더 이전 데이터지만 prevalence 일관 (점막염 43%, 임플란트 주위염 22%). PSTD는 disease 진행과 *부분적으로 별개 현상* — disease 없이도 발생. [확인]
 
 ---
 
 ## Cluster 2 — KT/soft tissue 양이 결정적인 이유
 
-**Thoma 2018 (sr+ma)** — Free gingival graft (FGG)/CTG로 KT 3–4 mm 증가; KT <2 mm 시 plaque/BoP/MBL 증가. *KT 2 mm가 임상 임계값*. [근거강함]
+**Thoma 2018 (sr+ma)** — Free gingival graft (FGG)/CTG로 KT 3–4 mm 증가; KT <2 mm 시 plaque/BoP/MBL 증가. *KT 2 mm가 임상 임계값*. [확인]
 
 KT가 PSTD prevention의 핵심인 이유:
 - KT 부족 → 자기 위생 관리 어려움 → plaque 축적 → 점막염 → MBL → mucosal recession → PSTD
 - KT 부족 → 협측 mobile mucosa가 임플란트로 견인 → mechanical recession
 - Thin biotype + thin KT → buccal bone resorption 노출 → dehiscence
 
-Thoma 2018은 *식립 전·후 KT 평가와 증대가 PSTD 예방의 1차 술식*임을 SR+MA로 입증. [근거강함]
+Thoma 2018은 *식립 전·후 KT 평가와 증대가 PSTD 예방의 1차 술식*임을 SR+MA로 입증. [확인]
 
 ---
 
@@ -111,7 +111,7 @@ Thoma 2018은 *식립 전·후 KT 평가와 증대가 PSTD 예방의 1차 술식
 
 **Azadi 2025 (sr+ma, Bayesian NMA, 21 RCT)** — CTG vs PRF vs 이종 collagen matrix vs 동종 — *통계적으로 CTG의 우위 marginal*. SUCRA 순위에서 CTG가 MIBL/KTW/STT/PH/MGML 1위, *단층 이종 collagen matrix가 PES 1위*. 
 
-해석 [claude해석]: CTG는 여전히 gold standard이지만, 환자 부담 (2차 수술부)을 고려하면 *thin biotype*이 아닌 경우 이종 collagen matrix (Mucograft, Geistlich 등)로 대체 가능. ITI Group "porcine collagen matrix as CTG alternative" 권고와 일치.
+해석 [미검증]: CTG는 여전히 gold standard이지만, 환자 부담 (2차 수술부)을 고려하면 *thin biotype*이 아닌 경우 이종 collagen matrix (Mucograft, Geistlich 등)로 대체 가능. ITI Group "porcine collagen matrix as CTG alternative" 권고와 일치.
 
 ---
 
@@ -134,13 +134,13 @@ Thoma 2018은 *식립 전·후 KT 평가와 증대가 PSTD 예방의 1차 술식
 
 **Martins 2024 (sr)** — Facial bone wall <1 mm → alveolus 흡수↑ → mucosal recession 위험↑. PSTD의 *해부학적 근간*은 협측 골판.
 
-Causal chain: Thin facial bone wall → 발치 후 bundle bone 흡수 → 협측 골 결손 → 협측 점막 지지 상실 → mucosal recession → PSTD. [근거강함]
+Causal chain: Thin facial bone wall → 발치 후 bundle bone 흡수 → 협측 골 결손 → 협측 점막 지지 상실 → mucosal recession → PSTD. [확인]
 
 따라서 PSTD 예방은 *연조직 술식 + 골 보존 술식*의 결합이 필요. CTG만으로는 부족 — SG (socket grafting)·GBR·correct implant position이 함께.
 
 ---
 
-## PSTD 예방·관리 알고리즘 [claude해석]
+## PSTD 예방·관리 알고리즘 [미검증]
 
 ### 단계 1 — 식립 전 Risk Assessment
 
@@ -206,7 +206,7 @@ Causal chain: Thin facial bone wall → 발치 후 bundle bone 흡수 → 협측
 
 ---
 
-## Knowledge Gaps & 한계 [claude해석]
+## Knowledge Gaps & 한계 [미검증]
 
 1. **PSTD 정량 분류 표준화 부족** — Tavelli 2025는 ≥3 grading 시스템 (Sculean, Zucchelli, Belser) 혼재 사용을 보고. 한 시스템 채택 필요.
 2. **장기 (≥10년) PSTD 진행 데이터 sparse** — 대부분 12–60mo. 10년+ 자연사 불명.
@@ -215,7 +215,7 @@ Causal chain: Thin facial bone wall → 발치 후 bundle bone 흡수 → 협측
 5. **임플란트 표면 (HA·zirconia·UV)이 PSTD risk에 미치는 영향** 직접 SR 없음.
 6. **Tavelli 2025의 PSTD 정의가 disease-free 한정** — 실제 임상에서 disease 동반 case에서의 dehiscence는 prevalence 더 높을 가능성.
 
-## 임상 권고 요약 [claude해석]
+## 임상 권고 요약 [미검증]
 
 - PSTD는 *기대 가능한 자연 진행*. 환자 동의 시 prevalence 46%를 사전 고지.
 - *식립 전 KT 평가*가 가장 cost-effective 예방 — KT <2 mm 시 식립 전 FGG 강력 권고.
@@ -228,7 +228,7 @@ Causal chain: Thin facial bone wall → 발치 후 bundle bone 흡수 → 협측
 
 ## Cluster 6 — 수술 접근법과 유두 보존: VST vs Open-flap (Type II socket) (2026 신규)
 
-[[immediate-implant/ebrahim-2026-vestibular-socket-therapy-immediate-implant-rct]] (BMC Oral Health 2026, RCT, n=20, 상악 비구치 Type II socket, 6mo):
+[[immediate-implant/gap-grafting/ebrahim-2026-vestibular-socket-therapy-immediate-implant-rct]] (BMC Oral Health 2026, RCT, n=20, 상악 비구치 Type II socket, 6mo):
 
 - 동일 graft/막 조건에서 **수술 접근법만 차이** — VST(전정부 터널, 유두 절개 없음) vs open-flap GBR.
 - 협측 골 두께·높이는 군간 동등.
@@ -242,16 +242,16 @@ Causal chain: Thin facial bone wall → 발치 후 bundle bone 흡수 → 협측
 | Type II socket, space maintenance 중요 (gap 크거나 fenestration) | Open-flap GBR + collagen/d-PTFE membrane (더 긴 space 유지) |
 
 ## Related Pages
-- [[implants/tavelli-2025-soft-tissue-dehiscences-implant-sites-ao-aap]]
-- [[implants/thoma-2018-soft-tissue-augmentation-periimplant-health]]
+- [[implants/soft-tissue/tavelli-2025-soft-tissue-dehiscences-implant-sites-ao-aap]]
+- [[implants/soft-tissue/thoma-2018-soft-tissue-augmentation-periimplant-health]]
 - [[immediate-implant/esthetic-soft-tissue/seyssens-2021-immediate-implant-connective-tissue-graft-sr-ma]]
 - [[immediate-implant/esthetic-soft-tissue/azadi-2025-soft-tissue-grafting-immediate-implant-bayesian-nma]]
-- [[implants/derks-2015-peri-implant-health-disease-epidemiology]]
-- [[implants/galarraga-vinueza-2025-peri-implant-disease-risk-factors]]
-- [[implants/berglundh-2018-peri-implant-diseases-conditions-consensus]]
-- [[implants/herrera-2023-prevention-treatment-peri-implant-efp]]
-- [[implants/carra-2023-primordial-primary-prevention-peri-implant-sr-ma]]
-- [[implants/caggiano-2022-smoking-cessation-periodontal-peri-implant-sr]]
+- [[implants/peri-implantitis/derks-2015-peri-implant-health-disease-epidemiology]]
+- [[implants/peri-implantitis/galarraga-vinueza-2025-peri-implant-disease-risk-factors]]
+- [[implants/peri-implantitis/berglundh-2018-peri-implant-diseases-conditions-consensus]]
+- [[implants/peri-implantitis/herrera-2023-prevention-treatment-peri-implant-efp]]
+- [[implants/peri-implantitis/carra-2023-primordial-primary-prevention-peri-implant-sr-ma]]
+- [[implants/survival/caggiano-2022-smoking-cessation-periodontal-peri-implant-sr]]
 - [[immediate-implant/esthetic-soft-tissue/martins-2024-facial-bone-wall-immediate-implant-esthetic]]
 - [[overviews/type-1a-immediate-placement-immediate-loading-decision]] — Type 1A 적응증 (자매 페이지)
 - [[overviews/cosyn-immediate-implant-4-bundle-decision]] — 4변수 술식 의사결정 (자매 페이지)

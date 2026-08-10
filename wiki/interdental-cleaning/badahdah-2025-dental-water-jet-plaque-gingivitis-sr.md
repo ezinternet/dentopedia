@@ -6,7 +6,7 @@ date: 2025-02-12
 doi: 10.3390/healthcare13040396
 source: badahdah-2025-dental-water-jet-plaque-gingivitis-sr.md
 category: [interdental-cleaning]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "39997271"

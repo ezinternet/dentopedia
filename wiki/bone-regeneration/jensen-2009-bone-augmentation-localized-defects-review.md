@@ -7,7 +7,7 @@ doi: null
 pmid: 19885447
 source: jensen-2009-bone-augmentation-localized-defects-review.md
 category: bone-regeneration
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/jensen-2009-bone-augmentation-localized-defects-review.pdf
 pdf_filename: jensen-2009-bone-augmentation-localized-defects-review.pdf
 source_collection: external

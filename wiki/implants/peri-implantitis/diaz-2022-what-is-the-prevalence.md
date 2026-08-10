@@ -6,7 +6,7 @@ date: 2022-12-01
 doi: 10.1186/s12903-022-02493-8
 source: diaz-2022-what-is-the-prevalence.md
 category: [implants/peri-implantitis]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/diaz-2022-what-is-the-prevalence.pdf
 pdf_filename: diaz-2022-what-is-the-prevalence.pdf
 source_collection: external
@@ -54,4 +54,4 @@ Studies binned into four definition groups; Group 2 (largest weight, 53.45%) met
 
 ## Related Papers
 
-- [[implants/derks-2015-peri-implant-health-disease-epidemiology]] — 더 최신·대규모(57편) 유병률 추정치로 기존 역학 앵커를 정련(refine); 정의 의존성 문제는 여전함을 재확인.
+- [[implants/peri-implantitis/derks-2015-peri-implant-health-disease-epidemiology]] — 더 최신·대규모(57편) 유병률 추정치로 기존 역학 앵커를 정련(refine); 정의 의존성 문제는 여전함을 재확인.

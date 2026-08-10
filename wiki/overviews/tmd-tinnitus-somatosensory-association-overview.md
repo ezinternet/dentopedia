@@ -6,7 +6,7 @@ date: 2026-07-10
 doi: N/A
 source: N/A
 category: overviews
-confidence: synthesis
+evidence_level: synthesis
 pdf_path: N/A
 pdf_filename: N/A
 source_collection: internal
@@ -114,7 +114,7 @@ This RCT-level finding is corroborated by two lower-rigor but consistent sources
 - [[overviews/tmd-management-evidence-ladder]] — parent TMD management ladder; its Axis 10 (unilateral chewing/condyle morphology/tinnitus) is deepened by this dedicated overview
 
 확신도 등급:
-- 기전(Axis 1, Ralli·Saczuk) = [합의수준] (narrative, 동물실험+임상관찰 수렴).
+- 기전(Axis 1, Ralli·Saczuk) = [확인] (narrative, 동물실험+임상관찰 수렴).
 - 연관성(Axis 2) = 연구별 상이 — Bousema [근거수준-낮음 명시], Dipalma·Saczuk [참고수준] (서술적/비뚤림위험 미보정).
 - 진단(Axis 3, Michiels·Saczuk·Ralli) = [참고수준] (michiels abstract-only, 나머지 narrative).
-- 치료(Axis 4, Dapuzzo) = [합의수준] (RCT-only SR+MA, 5편이나 일관된 방향).
+- 치료(Axis 4, Dapuzzo) = [확인] (RCT-only SR+MA, 5편이나 일관된 방향).

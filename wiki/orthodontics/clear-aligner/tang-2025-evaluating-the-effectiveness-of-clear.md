@@ -6,7 +6,7 @@ date: 2025-04-24
 doi: "10.1186/s12903-025-06012-3"
 source: tang-2025-evaluating-the-effectiveness-of-clear.md
 category: [orthodontics/clear-aligner]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/tang-2025-evaluating-the-effectiveness-of-clear.pdf
 pdf_filename: tang-2025-evaluating-the-effectiveness-of-clear.pdf
 source_collection: external

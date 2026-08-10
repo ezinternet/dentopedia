@@ -6,7 +6,7 @@ date: 2023-05-18
 doi: 10.1186/s12903-023-02991-3
 source: cicciu-2023-buccal-palatal-bone-thickness-marginal.md
 category: [implants]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/cicciu-2023-buccal-palatal-bone-thickness-marginal.pdf
 pdf_filename: cicciu-2023-buccal-palatal-bone-thickness-marginal.pdf
 source_collection: external
@@ -46,4 +46,4 @@ Submerged healing only (no functional loading); 3-month follow-up; manual probe 
 
 ## Related Papers
 - [[immediate-implant/esthetic-soft-tissue/yang-2019-labial-bone-thickness-esthetics-iipp]]
-- [[immediate-implant/shafizadeh-2021-alveolar-bone-thickness-healthy-sr]]
+- [[immediate-implant/anatomic-assessment/shafizadeh-2021-alveolar-bone-thickness-healthy-sr]]

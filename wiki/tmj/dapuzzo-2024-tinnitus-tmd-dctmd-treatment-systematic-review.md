@@ -6,7 +6,7 @@ date: 2024-07-17
 doi: 10.1111/joor.13796
 source: dapuzzo-2024-tinnitus-tmd-dctmd-treatment-systematic-review.md
 category: [tmj]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "39020483"

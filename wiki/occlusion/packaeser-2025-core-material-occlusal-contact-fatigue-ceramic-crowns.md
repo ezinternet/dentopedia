@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1016/j.jmbbm.2025.106891
 source: packaeser-2025-core-material-occlusal-contact-fatigue-ceramic-crowns.md
 category: [occlusion]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/packaeser-2025-core-material-occlusal-contact-fatigue-ceramic-crowns.pdf
 pdf_filename: packaeser-2025-core-material-occlusal-contact-fatigue-ceramic-crowns.pdf
 source_collection: external
@@ -43,7 +43,7 @@ Occlusal contact pattern is a clinically modifiable factor in crown longevity, i
 In-vitro fatigue testing, monolithic ceramic crowns, 교합접촉 패턴·코어 변수.
 
 ## Results
-코어 재료·교합접촉 양상이 피로수명에 유의 영향 [합의수준/미검증(수치)]. 접촉 분포 최적화가 파절 저감.
+코어 재료·교합접촉 양상이 피로수명에 유의 영향 [확인, 다만 구체적 수치는 미검증]. 접촉 분포 최적화가 파절 저감.
 
 ## Related Papers
 - [[overviews/bruxism-muscle-overload-axis]] — 보철 파절 축

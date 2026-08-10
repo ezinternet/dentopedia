@@ -6,7 +6,7 @@ date: 2026-04-29
 doi: 10.3290/j.qi.b6881272
 source: elhaddad-2026-cervical-margin-relocation-periodontal-restorative.md
 category: [resin-bonding]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: false
 pmid: "41631460"

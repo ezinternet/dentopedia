@@ -6,7 +6,7 @@ date: 2025-11-11
 doi: 10.7759/cureus.96558
 source: abdallaoui-2025-transverse-ridge-expansion-bone-grafting-sr.md
 category: [bone-regeneration]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "41393660"

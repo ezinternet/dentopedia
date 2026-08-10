@@ -7,7 +7,7 @@ doi: 10.1111/jerd.13119
 pmid: "37571973"
 source: lenz-2023-endocrown-core-crown-biomechanical-sr.md
 category: [post-and-core]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: false
 tags: [endocrown, core-crown, post-core, biomechanics, endodontically-treated-teeth, FEA, fatigue, fracture-resistance]

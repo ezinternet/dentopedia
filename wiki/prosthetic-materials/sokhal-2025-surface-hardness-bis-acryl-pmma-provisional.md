@@ -6,7 +6,7 @@ date: 2025-04-30
 doi: 10.7759/cureus.83269
 source: sokhal-2025-surface-hardness-bis-acryl-pmma-provisional.md
 category: [prosthetic-materials]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: true
 pmid: "40453262"
@@ -70,4 +70,4 @@ This well-powered laboratory study (160 specimens, ADA spec. no. 27 dies) ranked
 ## Related Papers
 
 - [[prosthetic-materials/givens-2007-marginal-adaptation-color-stability-provisional]] — the SNAP (PEMA acrylic) study on marginal fit + color stability; pairs with this hardness study to show acrylics are competitive on fit/color but softer than bis-acryl (reinforces).
-- [[prosthetic-materials/alqarawi-2024-digital-taper-finish-line-temporary-crown-retention]] — temporary crown retention vs preparation taper/finish line.
+- [[prosthetic-materials/tooth-preparation/alqarawi-2024-digital-taper-finish-line-temporary-crown-retention]] — temporary crown retention vs preparation taper/finish line.

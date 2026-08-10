@@ -6,7 +6,7 @@ date: 2025-12-01
 doi: 10.5051/jpis.2403600180
 source: park-2025-maxillary-sinus-hypoplasia-implant-review.md
 category: [sinus-lift/lateral]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/park-2025-maxillary-sinus-hypoplasia-implant-review.pdf
 pdf_filename: park-2025-maxillary-sinus-hypoplasia-implant-review.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2004-03-27
 doi: 10.1038/sj.bdj.4811082
 source: craddock-2004-incidence-overeruption-occlusal-interferences-unopposed.md
 category: [occlusion]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/craddock-2004-incidence-overeruption-occlusal-interferences-unopposed.pdf
 pdf_filename: craddock-2004-incidence-overeruption-occlusal-interferences-unopposed.pdf
 source_collection: external

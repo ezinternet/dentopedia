@@ -7,7 +7,7 @@ doi: 10.1016/j.bjoms.2024.05.006
 journal: British Journal of Oral & Maxillofacial Surgery 62(8):685-703
 source: kadkhodazadeh-2024-transcrestal-maxillary-sinus-elevation-sr-ma.md
 category: [sinus-lift/transcrestal]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: false
 pmid: "39098575"
@@ -20,6 +20,9 @@ relations:
     target: starch-jensen-2025-transcrestal-sinus-osseodensification-meta-analysis
   - type: reinforces
     target: huang-2026-graftless-transcrestal-sinus-membrane-perforation-ma
+  - type: refines
+    target: shah-2022-survival-rate-dental-implant-placed
+    note: "This RCT-only SR+MA (17 RCTs, 10 meta-analyzed) restricted to hand-osteotome transcrestal lifts finds 100% pooled survival (95% CI 99-100%) -- tighter and higher than Shah 2022's broader indirect/osteotome-only subset (97.1%, 95% CI 95.8-98.4%, 9 mostly-observational studies spanning osteotome + antral balloon + piezosurgery). CIs do not overlap. Both agree transcrestal/indirect survival is very high; read as this RCT-restricted, narrower-technique analysis refining/narrowing Shah's broader real-world estimate (evidence-tier and scope difference), not a genuine clinical disagreement -- not typed contradicts."
 ---
 
 ## Three-line Summary
@@ -65,3 +68,4 @@ Databases: PubMed, Web of Science, Embase, Scopus to 21 Feb 2024. Inclusion: RCT
 - [[sinus-lift/transcrestal/starch-jensen-2025-transcrestal-sinus-osseodensification-meta-analysis]] — reinforces; both report high survival, but Starch-Jensen contrasts osseodensification vs osteotome/lateral while this anchors overall transcrestal survival.
 - [[sinus-lift/transcrestal/huang-2026-graftless-transcrestal-sinus-membrane-perforation-ma]] — reinforces; quantifies the membrane-perforation endpoint this SR flags qualitatively for hand osteotomes.
 - [[sinus-lift/transcrestal/farina-2018-morbidity-transcrestal-lateral-sinus-floor-elevation]] — extends the morbidity discussion to a transcrestal-vs-lateral frame.
+- [[sinus-lift/lateral/shah-2022-survival-rate-dental-implant-placed]] — **refines**: this RCT-only, hand-osteotome-restricted estimate (100%, 95% CI 99–100%) is tighter and higher than Shah 2022's broader indirect/osteotome-only subset (97.1%, 95% CI 95.8–98.4%, mostly observational); CIs don't overlap, but both agree survival is very high — read as a rigor/scope refinement, not a contradiction.

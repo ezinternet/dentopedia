@@ -6,7 +6,7 @@ date: 2026-03-30
 doi: 10.4103/JCDE.JCDE_41_26
 source: kaur-2026-dentin-hypersensitivity-enigma-revisited.md
 category: [dentin-hypersensitivity]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/kaur-2026-dentin-hypersensitivity-enigma-revisited.pdf
 pdf_filename: kaur-2026-dentin-hypersensitivity-enigma-revisited.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2025-04-01
 doi: 10.23804/ejpd.2025.2230
 source: ortu-2025-removable-devices-palatal-expansion-rct.md
 category: [orthodontics/myofunctional]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: false
 pmid: "40165619"

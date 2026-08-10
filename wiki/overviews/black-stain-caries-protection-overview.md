@@ -6,7 +6,7 @@ date: 2026-06-27
 doi: N/A
 source: N/A
 category: overviews
-confidence: synthesis
+evidence_level: synthesis
 pdf_path: N/A
 pdf_filename: N/A
 source_collection: synthesis
@@ -14,7 +14,7 @@ tags: [black-stain, EBS, caries, actinomyces, iron-sulfide, microbiome, gut-micr
 relations:
   - type: extends
     target: zyla-2015-black-stain-dental-caries-review
-  - type: reinforces
+  - type: extends
     target: mousa-2022-black-stain-caries-children-sr-ma
 ---
 

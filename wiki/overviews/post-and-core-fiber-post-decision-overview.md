@@ -1,13 +1,20 @@
 ---
 title: "Post-and-Core / Fiber Post — Sequential Decision Overview for the Endodontically Treated Tooth (포스트앤코어·파이버포스트 결정 종합)"
 type: synthesis
-date: 2026-06-22
+date: 2026-08-08
 status: done
 source_wiki:
   - wiki/post-and-core/alenezi-2024-endodontically-treated-teeth-post-placement-survival.md
   - wiki/post-and-core/al-dabbagh-2024-circumferential-ferrule-fiber-posts-survival.md
   - wiki/post-and-core/naumann-2017-ferrule-first-post-second-systematic-review.md
   - wiki/post-and-core/tsintsadze-2022-survival-rates-glass-fiber-metal-posts.md
+  - wiki/post-and-core/reeh-1989-reduction-tooth-stiffness-result-endodontic.md
+  - wiki/post-and-core/carvalho-2020-endodontically-treated-teeth-restoration-adhesive-approach.md
+  - wiki/post-and-core/lane-2024-survival-success-rates-endodontically-treated.md
+  - wiki/post-and-core/suksaphar-2017-survival-fracture-ett-crown-resin-sr.md
+  - wiki/post-and-core/intaraprasong-2024-post-endodontic-restorations-survival-fracture-cervical-lesions.md
+  - wiki/post-and-core/phengudom-2021-survival-fracture-endodontic-anterior.md
+  - wiki/post-and-core/spielman-2012-restorative-outcomes-endodontically-treated-teeth-pearl-network.md
   - wiki/post-and-core/wang-2019-fiber-posts-vs-metal-posts-severely-damaged.md
   - wiki/post-and-core/van-landuyt-2025-rct-glass-fiber-versus-metal-posts.md
   - wiki/post-and-core/hawthan-2023-survival-fixed-prosthetics-vital-nonvital.md
@@ -18,8 +25,9 @@ source_wiki:
   - wiki/post-and-core/rezaei-2010-comparison-stresses-fiber-parapost-casting.md
   - wiki/post-and-core/izadi-2020-core-materials-fracture-resistance-parapost.md
   - wiki/post-and-core/goutam-2022-luxacore-photocore-coremax-fracture-parapost.md
+  - wiki/post-and-core/alkahtani-2010-root-canal-sealers-timing-parapost.md
 category: [post-and-core]
-confidence: synthesis
+evidence_level: synthesis
 tags: [post-and-core, fiber-post, ferrule, endocrown, endodontically-treated-teeth, glass-fiber, failure-mode, parapost]
 ---
 
@@ -36,43 +44,62 @@ tags: [post-and-core, fiber-post, ferrule, endocrown, endodontically-treated-tee
 > - **생역학 앵커**: 파이버포스트 FEA 응력분포 분석이 탄성계수(elastic modulus)를 상아질에 정합시키는 monoblock 개념의 생역학적 근거를 제공 (susita-2026).
 > - **근거 수준**: 임상 비교의 군간 차이는 대체로 비유의(NS)이고 in-vitro/FEA 비중이 큼 → 효과크기보다 *방향성·실패양상*으로 해석.
 > - **임상 결론**: 충분한 치질·ferrule이 남으면 포스트 생략 또는 엔도크라운; 포스트가 필요하면 ferrule 확보를 최우선으로 하고, 재료는 치근파절 위험을 낮추는 파이버(또는 modulus-정합) 포스트를 기본값으로 한다. 심한 손상(≤2벽)에서는 파이버 우위가 통계적으로도 성립한다 (Wang 2019).
+> - **[2026-08-08 추가] 근관치료 자체는 치아를 약화하지 않는다**: in-vitro 하중 실험(Reeh 1989, n=42 소구치)에서 근관치료 전 과정이 치아 강성(cuspal stiffness)을 5%만 감소시킨 반면, MOD cavity 삭제는 63%를 감소시켰다. **치아 약화의 원인은 근관치료가 아니라 수복을 위한 cavity 삭제**, 특히 marginal ridge 소실이다 — 치질 보존 수복 전략(onlay, endocrown)의 핵심 생물역학적 근거.
+> - **[2026-08-08 추가] 접착 수복 시 포스트 필요성은 재료에 따라 다르다**: 접착 세라믹(bonded ceramic crown)으로 수복 시 in vitro 연구들은 포스트 없는 접근이 파국적 파절을 오히려 줄인다고 보고하나, PFM 크라운 RCT에서는 포스트 식립군이 성공률이 높다. 즉 포스트 필요 여부는 크라운 재료(접착형 vs 시멘트형)와 독립적으로 판단할 수 없다 (Carvalho 2020, narrative review).
+> - **[2026-08-08 추가] 구치부 ETT: onlay ≈ full crown, 단 치질 보존 우위**: SR(Lane 2024, 11편)에서 구치부 ETT의 온레이(onlay) 생존율이 full veneer crown과 중단기(2~3년) 범위에서 중첩되며, 치질 삭제량 감소가 온레이의 명백한 이점이다. 단 장기(5~10년) 데이터는 crown 중심이며 비교가 어렵다.
+> - **[2026-08-08 추가] 최소~중등도 손상 ETT: 직접 레진도 viable option**: 구치부(Suksaphar 2017, 3편, n=623)에서 최대 3면 손상까지 직접 레진과 크라운 생존율 동등(94-100% vs 91.9-100%). 전치부 cervical lesion(Intaraprasong 2024, n=175, 평균 32.9개월)에서도 단순 1면 손상에 레진 96.15% vs 크라운 100%로 동등 — 다만 추가 치질 소실 시 파절 위험 7.25배(HR 7.25, 95% CI 1.68-31.30).
+> - **[2026-08-08 추가] 전치부: 크라운 > 레진, 단 선택 기준 있음**: 전향 코호트(Phengudom 2021, n=263, 평균 38개월)에서 전치부 crown(99.1%) > 직접 레진(90.4%, P<0.01). 레진에서 파절 위험인자: cervical wall <3벽(HR 8.95), 치근 두께-근관 폭 비 <1:1:1(HR 12.98), 구치부 지지 소실(HR 9.05), 이갈이(HR 19.37). 이 인자들이 없으면 레진도 크라운과 동등.
+> - **[2026-08-08 추가] 실제 개원가 3~5년 데이터**: PEARL Network 후향 코호트(Spielman 2012, n=1,298, 64개 개원 치과)에서 수복 실패율 13.9%(95% CI 12.1-15.8%). 성공 예측인자: 구치부, full-coverage 수복, 인접면 접촉 유지, 건전한 치주 상태, 전문의 근관치료. 이 데이터는 대학병원이 아닌 일반 개원가 기반이라 임상 현실 반영도 높음.
 
 ## Three-line Summary
 
-Synthesis of 14 post-and-core papers: post placement improves survival vs no-post (Alenezi 2024, 7,330 ETTs, P<0.001) but only conditional on coronal tissue loss; a circumferential ferrule is the strongest modifiable predictor (Al-Dabbagh 2024, RR 1.28), and 7/8 long-term studies found no independent post benefit — "ferrule first, post second" (Naumann 2017).
+Synthesis of 22 post-and-core papers: what actually weakens an ETT is coronal cavity preparation, not endodontics itself — MOD cavities cost ~63% cuspal stiffness vs ~5% for root canal treatment alone (Reeh 1989) — which is why post placement, ferrule preservation, and coverage extent (crown vs onlay vs direct resin) all outrank post material as decisions.
 
-Glass-fiber and metal post survival is statistically equivalent across the full ETT spectrum (Tsintsadze 2022 SR+MA: 92.8% vs 78.1%, NS; Van Landuyt 2025 15-yr RCT: 68.5% vs 53.6%, NS), but for severely damaged teeth with ≤2 coronal walls fiber posts survive significantly better (Wang 2019, GRADE high, RR 0.57, P=.04).
+Post placement improves pooled survival over no-post (Alenezi 2024, 7,330 ETTs, P<0.001) but only conditional on coronal loss, and 7/8 long-term studies found no independent post benefit once ferrule is preserved (Naumann 2017); when coronal loss is minimal-to-moderate, onlays and even direct resin composite match crown survival while conserving structure (Lane 2024; Suksaphar 2017; Phengudom 2021), with real-world 3–5yr failure around 13.9% in general practice (Spielman 2012).
 
-The decisive clinical difference is failure mode: rigid metal posts cause catastrophic unrestorable root fractures; fiber posts and endocrowns fail repairably — a difference more important than the non-significant survival numbers, supported by FEA confirming elastic-modulus matching distributes rather than concentrates stress.
+Among post materials, glass-fiber and metal are statistically equivalent overall (Tsintsadze 2022; Van Landuyt 2025) but fiber wins significantly in severely damaged ≤2-wall teeth (Wang 2019); the decisive clinical difference throughout is failure mode — rigid posts fail catastrophically by root fracture, fiber posts and endocrowns fail repairably — consistent with FEA showing elastic-modulus matching distributes rather than concentrates stress.
 
 ## 세줄요약
 
-근관치료치(Endodontically Treated Tooth, ETT) 수복 14편 종합 — 포스트는 무포스트 대비 생존 향상(P<0.001)이나 치질소실 조건부; 원주형 ferrule이 재료보다 강한 가변 예후인자(RR 1.28); 5년 이상 전향연구 8편 중 7편이 포스트 독립효과 없음 — "ferrule 먼저, 포스트는 보조"(Naumann 2017).
+근관치료치(Endodontically Treated Tooth, ETT) 수복 22편 종합 — 치아를 실제로 약화시키는 것은 근관치료 자체(강성 손실 ~5%)가 아니라 수복을 위한 MOD cavity 삭제(~63%)이며(Reeh 1989), 이 때문에 포스트 여부·ferrule 보존·수복 범위(크라운 vs 온레이 vs 직접레진) 결정이 모두 포스트 재료 선택보다 우선한다.
 
-글라스파이버와 금속 포스트는 전체 ETT 스펙트럼에서 통계적으로 동등(Tsintsadze 2022 SR+MA: 92.8% vs 78.1%, NS; Van Landuyt 2025 15년 RCT: 68.5% vs 53.6%, NS)이나, 잔존 치벽 ≤2벽 심한 손상 치아에서는 파이버 유의 우위(Wang 2019, GRADE high, RR 0.57, P=.04).
+포스트는 무포스트 대비 생존 향상(Alenezi 2024, P<0.001)이나 치질소실 조건부이며, ferrule이 보존되면 5년 이상 전향연구 8편 중 7편이 포스트 독립효과 없음(Naumann 2017); 치질 소실이 경미~중등도면 온레이·직접레진도 크라운과 생존율 동등하며 치질을 보존(Lane 2024; Suksaphar 2017; Phengudom 2021), 실제 개원가 3~5년 실패율은 약 13.9%(Spielman 2012).
 
-결정적 차이는 실패 양상 — 금속/강성 포스트는 치근파절(root fracture)로 파국·수복 불가; 파이버포스트·엔도크라운은 복구 가능; 유한요소분석(FEA)이 상아질 탄성계수 정합으로 응력 분산을 뒷받침.
+포스트 재료는 글라스파이버 ≈ 금속(전체 스펙트럼, Tsintsadze 2022; Van Landuyt 2025)이나 ≤2벽 심한 손상에서는 파이버 유의 우위(Wang 2019); 시종일관 결정적 차이는 실패 양상 — 강성 포스트는 치근파절로 파국적, 파이버·엔도크라운은 복구 가능 — 이는 탄성계수 정합이 응력을 분산시킨다는 FEA와 일관.
 
 ## Thesis
 
-Restoring an endodontically treated tooth is repeatedly mis-framed as "which post material?" The evidence reframes it as a three-step sequence in which material is the *last* and *least* decisive step:
+Restoring an endodontically treated tooth is repeatedly mis-framed as "which post material?" The evidence reframes it as a sequence in which material is the *last* and *least* decisive step — and the step that precedes all of them is recognizing what actually weakens the tooth.
 
-1. **Does the tooth need a post at all?** Post placement improves pooled clinical survival over no-post restorations (Alenezi 2024) — but the benefit is conditional on how much coronal tooth structure is lost. The post is an *adjunct*, not the protagonist: in the landmark long-term review (≥5-yr prospective studies only), **7 of 8 studies found no independent benefit from post placement**, and the authors concluded ferrule and cavity-wall preservation — not the post — are the predominant survival factors ("Ferrule comes first, post is second"; Naumann 2017). With adequate remaining structure, a post adds little and may weaken the root. When a ferrule remains, an anterior **endocrown** matches post-core-crown biomechanics and fails more repairably (Mously 2025); a 31-study biomechanical SR spanning molars, premolars, and anteriors confirms endocrowns equal or exceed (post-)core-crown survival under fatigue and monotonic load, with lower stress in the restorative material/luting cement and more favorable failure modes (Lenz 2023) — making "no conventional post" a legitimate first option.
+0. **What weakens the tooth is cavity preparation, not root canal treatment.** In vitro sequential loading (Reeh 1989, n=42 intact maxillary bicuspids) found endodontic access + instrumentation + obturation reduced cuspal stiffness by only ~5%, while an MOD cavity reduced it by ~63% — marginal ridge removal, not endodontics, is the mechanical event that matters. This is the biomechanical premise underlying every downstream decision toward tissue-conserving restorations (onlays, endocrowns, even direct resin).
+1. **Does the tooth need a post at all — and if not, does it need full coverage?** Post placement improves pooled clinical survival over no-post restorations (Alenezi 2024) — but the benefit is conditional on how much coronal tooth structure is lost, and on the planned crown material: in-vitro data with bonded ceramic crowns favor post-free approaches (fewer catastrophic fractures), while PFM-crown RCTs show higher success *with* a post (84% vs 95% at 4 yr) — so "post needed?" cannot be answered independent of the restoration material (Carvalho 2020). The post itself is an *adjunct*, not the protagonist: in the landmark long-term review (≥5-yr prospective studies only), **7 of 8 studies found no independent benefit from post placement**, and the authors concluded ferrule and cavity-wall preservation — not the post — are the predominant survival factors ("Ferrule comes first, post is second"; Naumann 2017). Once minimal-to-moderate coronal loss is confirmed, coverage extent itself becomes a decision: posterior onlays match full-crown survival in the short-to-midterm while sacrificing less structure (Lane 2024, SR of 11 studies, ranges overlapping through 2–3 yr; long-term 5–10 yr data remains crown-dominant), and for ≤3-surface posterior loss even direct resin composite is statistically equivalent to a crown (Suksaphar 2017, 94–100% vs 91.9–100%). Anteriorly the calculus flips by default — crown 99.1% clearly beats direct resin 90.4% (Phengudom 2021, n=263) — but resin is restored to parity when none of four identified risk factors are present (<3 cervical walls, root-thickness:canal-width <1:1:1, lost posterior support, parafunction), and simple single-surface cervical lesions show resin ≈ crown even in a pulpally-involved anterior cohort (Intaraprasong 2024, n=175) provided no *additional* structure is lost (HR 7.25 if it is). When a ferrule remains, an anterior **endocrown** matches post-core-crown biomechanics and fails more repairably (Mously 2025); a 31-study biomechanical SR spanning molars, premolars, and anteriors confirms endocrowns equal or exceed (post-)core-crown survival under fatigue and monotonic load, with lower stress in the restorative material/luting cement and more favorable failure modes (Lenz 2023) — making "no conventional post" a legitimate first option.
 2. **Preserve the ferrule.** A circumferential ferrule is the single strongest *modifiable* longevity predictor (RR 1.28 in direct analysis; Al-Dabbagh 2024), consistent with Naumann 2017 placing ferrule above the post in the survival hierarchy — it outweighs which post is chosen. Conserving 1.5–2 mm of sound circumferential dentin is the highest-yield decision in the whole sequence. Tooth status itself also carries prognostic weight: a 26-study SR found vital abutments survive significantly better than nonvital ones (FDP 84.9% vs 81.3%, P=.049), and among nonvital teeth a **no-post single crown is the lowest-survival subgroup (85.7% at 5 yr)** while fiber post + all-ceramic crown is the highest (95.0%) (Hawthan 2023).
 3. **Then, and only then, material — and material barely matters statistically, except in severely damaged teeth.** Across the full ETT spectrum, glass-fiber and metal posts show no statistically significant survival difference (Tsintsadze 2022 SR+MA; Van Landuyt 2025 15-yr RCT). But when the analysis is restricted to **severely damaged teeth with ≤2 remaining coronal walls**, an RCT-only SR+MA (4 RCTs, GRADE high for survival) finds fiber posts survive significantly *better* than metal (RR 0.57, 95% CI 0.33–0.97, P=.04), with no difference in root-fracture rate — countering the old notion that stiffer metal posts protect the root (Wang 2019). What otherwise separates the materials is **failure mode**: rigid metal/cast posts concentrate stress and fail by catastrophic, unrestorable root fracture, whereas fiber posts (and endocrowns) fail in repairable ways (Lenz 2023). This failure-mode logic extends to *customized nonmetallic* systems: a 12-study/829-tooth SR found CAD/CAM zirconia comparable to cast metal, PEEK/PEKK prone to debonding, and individually formed fiber-reinforced composites (EverStick, Ribbond) favorably (repairably) failing (Yuen 2025). The FEA literature (susita-2026) explains why — matching post elastic modulus to dentin distributes stress rather than concentrating it at the post-dentin interface (the "monoblock" rationale). Bench data on the specific **ParaPost** (titanium) system corroborate this: photoelastic analysis shows the rigid ParaPost concentrates stress apically (vertical) and cervically (oblique) while fiber and cast posts distribute it evenly (Rezaei 2010), and paired fracture-resistance studies find pooled FRC-post specimens significantly out-resist ParaPost specimens (397.6 vs 265.6 N, P<0.001, Izadi 2020; replicated 380.1 vs 262.8 N, Goutam 2022) — with the core build-up material (Photo Core / LuxaCore / Core Max II) making no difference, reinforcing that the post, not the core resin, governs mechanical behavior.
 
-**Bottom line:** decide post-vs-no-post on remaining structure (the post is an adjunct, ferrule the protagonist — Naumann 2017), protect the ferrule above all, and default to fiber (or modulus-matched) posts / endocrowns not because they survive longer on paper — though in the severely damaged tooth they measurably do (Wang 2019) — but because when they do fail, the tooth is salvageable. Read this body of evidence by failure mode and direction of effect, not by between-group p-values (mostly NS) — and note the heavy reliance on in-vitro/FEA data.
+**Bottom line:** decide post-vs-no-post — and crown-vs-onlay-vs-resin — on remaining structure and marginal-ridge status (the post is an adjunct, ferrule the protagonist — Naumann 2017), protect the ferrule above all, and default to fiber (or modulus-matched) posts / endocrowns not because they survive longer on paper — though in the severely damaged tooth they measurably do (Wang 2019) — but because when they do fail, the tooth is salvageable. Real-world general-practice data puts the baseline failure rate at ~13.9% over 3–5 yr, with full-coverage restoration, proximal contacts, periodontal health, and specialist-performed endodontics independently predicting success (Spielman 2012, n=1,298, 64 practices) — a reminder that this decision tree operates on top of, not instead of, basic restorative fundamentals. Read this body of evidence by failure mode and direction of effect, not by between-group p-values (mostly NS) — and note the heavy reliance on in-vitro/FEA data.
 
 ## Decision Framework
 
 | Step | Question | Evidence-based answer |
 |---|---|---|
-| 1 | Post needed? | Adjunct, not protagonist — 7/8 prospective studies show no independent post benefit (Naumann 2017); yes only if substantial coronal loss (Alenezi); if ferrule remains, consider endocrown (Mously; Lenz) |
+| 0 | What actually weakens the tooth? | Endodontic treatment itself: ~5% stiffness loss. MOD cavity: ~63% loss. Marginal ridge preservation is the key structural decision (Reeh 1989) |
+| 1 | Post needed? | Adjunct, not protagonist — 7/8 prospective studies show no independent post benefit (Naumann 2017); yes only if substantial coronal loss (Alenezi); if ferrule remains, consider endocrown (Mously; Lenz). Post necessity also depends on crown material: bonded ceramic = post often unnecessary; PFM = post improves success (Carvalho 2020) |
+| 1b | Coverage extent? | Minimal-moderate loss, posterior: onlay ≈ full crown survival with less tooth sacrifice (Lane 2024; Suksaphar 2017). Anterior: crown > resin composite overall (99.1% vs 90.4%, Phengudom 2021), but resin valid if ≥3 walls, normal occlusion, no parafunction |
 | 2 | Ferrule present? | Preserve circumferential ferrule — strongest modifiable predictor (Al-Dabbagh, RR 1.28; Naumann 2017). Vital > nonvital prognosis; no-post nonvital crown is worst subgroup (Hawthan 2023) |
-| 3 | Which material? | Fiber ≈ metal across the spectrum (NS; Tsintsadze, Van Landuyt), but fiber significantly better in severely damaged ≤2-wall teeth (RR 0.57, P=.04; Wang 2019) → otherwise choose by failure mode |
+| 3 | Which post material? | Fiber ≈ metal across the spectrum (NS; Tsintsadze, Van Landuyt), but fiber significantly better in severely damaged ≤2-wall teeth (RR 0.57, P=.04; Wang 2019) → otherwise choose by failure mode |
 | — | Why fiber/endocrown default | Repairable failure vs catastrophic root fracture; modulus matching (Van Landuyt; Lenz; susita FEA). Customized: zirconia ≈ cast, PEEK/PEKK debonds, FRC fails repairably (Yuen 2025) |
+| — | Real-world failure baseline | ~13.9% failure at 3-5yr in general practice (Spielman 2012, n=1,298). Success predictors: full-coverage crown, proximal contacts, periodontal health, specialist endodontics |
 
 ## Related Papers
+
+### 2026-07-07 추가
+
+- [[post-and-core/alkahtani-2010-root-canal-sealers-timing-parapost]] — sealer/cementation-timing irrelevant to ParaPost microleakage; leakage increases with time regardless (adds a temporal dimension to "ferrule first, post second")
+
+### 신규 ingest cluster (2026-07-15)
+
+- [[post-and-core/fathi-2022-prosthetic-restoration-endodontically-treated-teeth-umbrella]] — Umbrella review (14 SR/MA, >10,971 samples): conventional crown 5-yr survival ~98.3% vs endocrown ~91.4%, fiber posts > metal in low-bias reviews — favor single crowns/endocrowns and fiber posts (moderate confidence)
+
 - [[post-and-core/alenezi-2024-endodontically-treated-teeth-post-placement-survival]] — post vs no-post survival
 - [[post-and-core/naumann-2017-ferrule-first-post-second-systematic-review]] — landmark: ferrule first, post second (7/8 studies no post benefit)
 - [[post-and-core/mously-2024-anterior-endocrowns-alternative-core-crown]] — endocrown as post-core-crown alternative
@@ -88,12 +115,22 @@ Restoring an endodontically treated tooth is repeatedly mis-framed as "which pos
 - [[post-and-core/izadi-2020-core-materials-fracture-resistance-parapost]] — in-vitro fracture: FRC > ParaPost (P<0.001), core material irrelevant
 - [[post-and-core/goutam-2022-luxacore-photocore-coremax-fracture-parapost]] — near-duplicate replication of Izadi 2020 (FRC > ParaPost)
 
+### 2026-08-08 추가 cluster (7편)
+
+- [[post-and-core/reeh-1989-reduction-tooth-stiffness-result-endodontic]] — biomechanical anchor: endodontics ~5% stiffness loss, MOD cavity ~63%; marginal ridge is the key (in vitro, n=42)
+- [[post-and-core/carvalho-2020-endodontically-treated-teeth-restoration-adhesive-approach]] — adhesive approach review: post necessity depends on crown material; partial coverage viable; contradictory evidence on postless bonded ceramics
+- [[post-and-core/lane-2024-survival-success-rates-endodontically-treated]] — posterior ETT: onlay ≈ full crown survival (SR, 11 studies), tooth-structure conservation advantage
+- [[post-and-core/suksaphar-2017-survival-fracture-ett-crown-resin-sr]] — posterior ETT: direct resin ≈ crown for ≤3-surface loss (SR, 3 studies, n=623)
+- [[post-and-core/intaraprasong-2024-post-endodontic-restorations-survival-fracture-cervical-lesions]] — anterior cervical lesion ETT: resin = crown for simple lesions; additional loss → HR 7.25 (n=175, 32.9mo)
+- [[post-and-core/phengudom-2021-survival-fracture-endodontic-anterior]] — anterior ETT: crown 99.1% > resin 90.4% overall; risk factors identify resin-safe cases (n=263, 38mo)
+- [[post-and-core/spielman-2012-restorative-outcomes-endodontically-treated-teeth-pearl-network]] — PEARL Network real-world 3-5yr failure: 13.9%; full coverage + proximal contacts = success predictors (n=1,298, 64 practices)
+
 ## Related Overviews
 - [[cracked-tooth-syndrome-overview]] — fracture in structurally compromised teeth
 - [[lithium-disilicate-inlay-onlay-evidence]] — partial-coverage / ceramic restoration of compromised teeth
 
-## Evidence Update — Parapost Microleakage: Sealer Choice vs Time-Dependent Interface Degradation
+## Evidence Update — Parapost Microleakage: Sealer Choice vs Time-Dependent Interface Degradation (2026-07-07)
 
 Alkahtani 2010 (in vitro fluid-filtration, n=70 single-rooted teeth; 2×2 factorial: eugenol vs AH26 sealer × immediate vs delayed post cementation) found that **neither sealer type nor cementation timing** significantly affected ParaPost microleakage. Instead, leakage increased significantly over time (24 h → 2 months → 3 months) in all groups, with persistent voids at the resin–dentin interface. The clinical implication: for resin-cemented posts, the ferrule and long-term resin–dentin bond durability outweigh sealer selection. This extends the overview's "ferrule first, post second" principle by adding a temporal dimension — even optimally designed restorations degrade at the interface over months.
 
-- [[post-and-core/alkahtani-2010-root-canal-sealers-timing-parapost]] — evidence that sealer choice and post-timing are not the key microleakage determinants; time-dependent interface degradation is.
+[[post-and-core/alkahtani-2010-root-canal-sealers-timing-parapost]]

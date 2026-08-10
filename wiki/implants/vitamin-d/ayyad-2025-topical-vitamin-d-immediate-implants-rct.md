@@ -6,7 +6,7 @@ date: 2025-07-05
 doi: 10.1186/s12903-025-06465-6
 source: ayyad-2025-topical-vitamin-d-immediate-implants-rct.md
 category: [implants/vitamin-d]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: true
 pmid: "40618145"

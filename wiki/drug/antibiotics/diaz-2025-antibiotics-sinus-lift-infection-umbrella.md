@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1186/s12903-025-07465-2
 source: diaz-2025-antibiotics-sinus-lift-infection-umbrella.md
 category: [drug/antibiotics]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "41413511"
@@ -128,7 +128,7 @@ For infection management, Allevi et al. 2022 reported that endoscopic sinus surg
 ## Related Papers
 
 - [[sinus-lift/lateral/kozuma-2017-chronic-sinusitis-sinus-augmentation-infection]] — SFE 후 만성 부비동염 감염 관리 패턴 (본 umbrella review가 상위 근거로 보강)
-- [[drug/torof-2023-antibiotic-dental-implant-procedures-sr-ma]] — 임플란트 시술 전반 항생제 SR/MA (SFE 특화 umbrella review와 상호 보완)
-- [[drug/de-angelis-2025-antibiotic-third-molar-extraction-prevention-sr]] — 발치 후 항생제 예방 SR (같은 항균제 관리 체계 맥락)
-- [[drug/sandulescu-2024-antibiotic-prescribing-dental-best-practices-review]] — 치과 항생제 처방 모범 사례
+- [[drug/antibiotics/torof-2023-antibiotic-dental-implant-procedures-sr-ma]] — 임플란트 시술 전반 항생제 SR/MA (SFE 특화 umbrella review와 상호 보완)
+- [[drug/antibiotics/de-angelis-2025-antibiotic-third-molar-extraction-prevention-sr]] — 발치 후 항생제 예방 SR (같은 항균제 관리 체계 맥락)
+- [[drug/antibiotics/sandulescu-2024-antibiotic-prescribing-dental-best-practices-review]] — 치과 항생제 처방 모범 사례
 - [[sinus-lift/lateral/derbishi-2026-maxillary-sinus-augmentation-implant-survival-sr-ma]] — 상악동거상술 임플란트 생존율 SR/MA (감염과 생존율 연계)

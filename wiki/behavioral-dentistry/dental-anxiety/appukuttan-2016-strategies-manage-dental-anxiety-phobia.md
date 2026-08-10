@@ -6,7 +6,7 @@ date: 2016-03-10
 doi: 10.2147/CCIDE.S63626
 source: appukuttan-2016-strategies-manage-dental-anxiety-phobia.md
 category: [behavioral-dentistry/dental-anxiety]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: true
 pmid: "27022303"

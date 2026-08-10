@@ -6,7 +6,7 @@ date: 2024-08-27
 doi: 10.1177/11795565241271689
 source: elhusseiny-2024-oral-health-children-chronic.md
 category: [drug/systemic-disease]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: true
 pmid: "39206206"
@@ -83,4 +83,4 @@ The management half of the paper is the clinically actionable core — see Resul
 ## Related Papers
 
 - [[drug/systemic-disease/enteghad-2024-diabetes-mellitus-periodontal-periimplant-disease-review]] — companion systemic-disease axis (diabetes); both chronic conditions reshape periodontal/oral-disease risk and constrain dental treatment planning.
-- [[drug/systemic-disease/hamade-2024-hypertension-dental-implants-sr-ma]] — overlapping cardiovascular/hypertension management concern (BP monitoring, adrenaline in LA) in medically-compromised patients.
+- [[implants/survival/hamade-2024-hypertension-dental-implants-sr-ma]] — overlapping cardiovascular/hypertension management concern (BP monitoring, adrenaline in LA) in medically-compromised patients.

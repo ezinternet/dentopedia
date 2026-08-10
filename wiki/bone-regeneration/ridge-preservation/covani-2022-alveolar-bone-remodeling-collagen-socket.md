@@ -6,7 +6,7 @@ date: 2022-04-29
 doi: 10.3390/jcm11092493
 source: covani-2022-alveolar-bone-remodeling-collagen-socket.md
 category: [bone-regeneration/ridge-preservation]
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/covani-2022-alveolar-bone-remodeling-collagen-socket.pdf
 pdf_filename: covani-2022-alveolar-bone-remodeling-collagen-socket.pdf
 source_collection: external

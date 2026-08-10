@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: "S0022-3913(25)00456-1 (J Prosthet Dent, in press)"
 source: fang-2025-socket-shield-ai-bibliometric-analysis.md
 category: [immediate-implant/socket-shield]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/fang-2025-socket-shield-ai-bibliometric-analysis.pdf
 pdf_filename: fang-2025-socket-shield-ai-bibliometric-analysis.pdf
 source_collection: external

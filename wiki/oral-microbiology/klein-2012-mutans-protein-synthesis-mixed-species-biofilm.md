@@ -6,7 +6,7 @@ date: 2012-09-25
 doi: "10.1371/journal.pone.0045795"
 source: klein-2012-mutans-protein-synthesis-mixed-species-biofilm.md
 category: [oral-microbiology]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/klein-2012-mutans-protein-synthesis-mixed-species-biofilm.pdf
 pdf_filename: klein-2012-mutans-protein-synthesis-mixed-species-biofilm.pdf
 source_collection: external

@@ -1,0 +1,113 @@
+Remodeling of the crestal alveolar bone is considered to be a physiological process following implant placement. In previous years, numerous preclinical and clinical studies have identified potential confounding biological, technical, and biomechanical factors that may contribute to this unavoidable event. Subsequently, implant designs and surgical protocols were modified to help the clinician maintain marginal bone.
+
+The aim of the present consensus report was to critically address the available evidence reporting on the impact of implant–abutment connection, positioning of the machined collar/microgap, and platform switching on crestal bone level changes.
+
+Group discussion and consensus
+
+To prepare group discussions, competent clinicians and researchers (referred to as “experts”) from various countries with a focus on implant therapy were appointed and provided with two systematic reviews in advance of the consensus meeting:
+
+This International Expert Meeting took place in Rome, Italy in January (18th and 19th) 2013 and was organized and supported by the Camlog Foundation (Basel, Switzerland).
+
+At the beginning of the meeting, the authors presented both systematic reviews in detail (i.e., methodology, results, conclusions) to the experts. Subsequently, the participants were separated into two working groups (Fig.). Discussions and the formulation of consensus statements within groups were each directed by one chairperson and one secretary. The statements, elaborated by the members of the working groups, were presented and discussed in plenary sessions and revised according to the suggestions made by the audience. Finally, consensus statements, clinical recommendations, and implications for future research were approved.
+
+Schwarz F, Hegewald A, Becker J. Impact of implant-abutment connection and positioning of the machined collar/microgap on crestal bone level changes (Schwarz et al.).
+
+Strietzel FP, Neumann K, Hertel M. Impact of platform switching on marginal peri-implant bone level changes (Strietzel et al.).
+
+Figure 1
+
+Members of working group. (a) Insertion depth/Implant–abutment connection. Chairperson: Gil Alcoforado. Secretaries: Katja Nelson, Alex Schär. Rapporteur: Frank Schwarz. Participants: Luis Aracil, Thomas Barth, Alfonso Baruffaldi, Jürgen Becker, Stephan Beuer, Claudio Cacaci, Wong Chanchai, Luca Cordaro, Laszlo Csato, Ben Derksen, Rolf Ewers, Manuel Gómez, Hans-Jürgen Hartmann, Helfried Hulla, Peter Hunt, Gerhard Iglhaut, Attila Kámán, Martin Keweloh, Alfons Kiener, Axel Kirsch, Henning Lehmann Bastian, Carlo Maiorana, Piotr Majewski, Ralf Masur, Timothy Patrick McVaney, Andreas Meschenmoser, Werner Millesi, Eric Normand, Toshiyuki Oshima, Frank Palm, Torsten E. Reichert, Lutz Ricken, Robert Sader, José Vincente Sanz, Georg Christoph Scheiderbauer, Alexander Schramm, Vojtech Slezacek, Ralf Smeets, Andres Stricker, Hendrik Terheyden, Wilfried Wagner, Fumihiko Watanabe, Daniel Wismeijer, Manfred Wolf. (b) Platform switching. Chairperson: Thomas Taylor. Secretary: Florian Beuer. Rapporteur: Frank Peter Strietzel. Participants: Karl-Ludwig Ackermann, Rodrigo Andrés Garcia, Isaac Angel, Mario Beretta, Sven Marcus Beschnidt, Sergio de Paoli, Kerem Dedeoglu, Antoine Diss, Fernando Guerra, Christian Hammächer, Arndt Happe, Frederic Hermann, Detlef Hildebrand, András Huszák, Matthias Kern, Gerald Krennmair, Yasemin Kulak Ozkan, Jan Märkle, Marc Mongeot, Gerhard Neuendorff, Selim Pamuk, Françoise Peters, Mariano Sanz Alonso, Paul Sipos, Michael Stimmelmayr, Maciej Stupka, Peter Thoolen, Carsten Urbild, Pieter van Elsas, Stefan Wolfart.
+
+Impact of implant-abutment connection and positioning of the machined collar/microgap on crestal bone level changes. Schwarz et al. ()
+
+Focused question
+
+What is the impact of implant–abutment configuration and the positioning of the machined collar/microgap on crestal bone level changes?
+
+Major findings and conclusions
+
+A supracrestal positioning of the machined collar at both one- and two-piece implants was associated with less crestal bone level changes than a subcrestal positioning of the smooth–rough border. When evaluating the positioning of the microgap at two-piece implants relative to the alveolar crest, data synthesis has identified that a subcrestal position may be favored over an epicrestal insertion of the implant neck. At the time being, the impact of the implant–abutment connection lacks documentation.
+
+Consensus statements regarding positioning of the machined collar
+
+Placing the smooth part of the implant below the alveolar crest may lead to bone loss.
+
+The currently available evidence does not allow for any conclusive statements regarding the impact of potential confounding factors (e.g., clinical experience of the clinician; surgical and anatomical parameters, such as soft-tissue thickness and vascularization, dis- and reassembly of the abutment, interproximal bone height at neighboring teeth, bone quality, prosthetic concepts, and loading protocol) on bone remodeling.
+
+Clinical recommendations regarding positioning of the machined collar
+
+Under the aspect of limiting peri-implant bone remodeling, the clinician is advised to avoid any subcrestal positioning of smooth implant parts.
+
+Accordingly, if existent, the smooth–rough border should at best coincide with the adjacent alveolar bone and determine the insertion depth at both one- and two-piece implants.
+
+Consensus statements regarding positioning of the microgap
+
+Placing the microgap of the evaluated two-part implants in a subcrestal position (at least 1 mm) may be associated with a higher amount of bone loss during the remodeling process than implants placed in an epi- or supracrestal position.
+
+However, despite a more pronounced bone remodeling, the subcrestal positioning of the microgap may help to retain the bony coverage of the rough surface.
+
+Clinical recommendations regarding positioning of the microgap
+
+When attempting to retain crestal bone levels coronal to the implant shoulder, the clinician may favor a subcrestal over either an epi- or supracrestal positioning of the neck.
+
+Under the consideration of the detrimental impact of a smooth neck on bone remodeling, a subcrestal positioning of the shoulder may be limited to entirely roughened two-part implants.
+
+Consensus statements regarding implant–abutment connection
+
+The impact of the implant–abutment connection lacks documentation and may not allow for any robust conclusions.
+
+Crestal bone remodeling has been observed for either internal and external, or conical and butt–joint connections.
+
+Some evidence suggests that microbial leakage may occur irrespective of the design of the implant–abutment connection.
+
+Clinical recommendations regarding implant–abutment connection
+
+The clinician is advised to choose a stable implant–abutment complex to minimize the potential impact of micromovement and microbial leakage on crestal bone remodeling.
+
+Implications for future research
+
+There is a need for more well-designed, randomized, parallel-arm controlled clinical trials to further evaluate the impact of implant–abutment configuration and the positioning of the machined collar/microgap on crestal bone level changes in humans.
+
+The potential influence of relevant confounding clinical factors should be carefully addressed.
+
+Impact of platform switching on marginal peri-implant bone level changes. Strietzel et al. ()
+
+Focused question
+
+Is there an impact of platform switching on marginal bone level changes around endosseous implants?
+
+Major findings and conclusions
+
+Due to heterogeneity of the included studies, their results should be interpreted cautiously.
+
+However, within the limits of the recently available publications on randomized controlled clinical trials and prospective clinical cohort studies, the tendency revealing from the studies’ results favors the platform switching technique to prevent or minimize peri-implant marginal bone loss, compared with implants with platform matching abutments. Further investigations should consider a uniform and comparable study design, either excluding or exactly documenting possible confounding factors.
+
+Consensus statements regarding platform switching
+
+Platform switching is one therapeutic concept that has been proposed to preserve crestal bone levels around dental implants. The biological bases of this concept are as follows:
+
+Although there is evidence to support these histological outcomes from experimental animal studies, the clinical outcomes evaluated in human studies have not clearly shown the beneficial effect of this concept. However, the trend is generally positive.
+
+So far, no negative effects of platform switching have been published. There are some concerns about situations with a small volume of soft-tissue thickness as well as the limitations of two-dimensional radiological measurements provided in most studies.
+
+There was a high degree of heterogeneity among the selected studies, because the factors that influence bone levels were not balanced between the groups.
+
+Two concerns were expressed that the long-term effect of platform switching on soft-tissue health and the biomechanical stability of the implant–abutment connection are currently unknown.
+
+Clinical recommendations regarding platform switching
+
+Considering the evidence available so far, clinical recommendations regarding indications for platform switching cannot be stated clearly.
+
+Platform-switched restorations may be suitable for use in all indications where platform-matched restorations can be used at the clinician’s discretion.
+
+Implications for future research
+
+Further investigations should consider an uniform and comparable study design, either excluding or exactly documenting possible confounding factors (e.g., patient and site characteristics, implant/abutment geometry, dimension of the horizontal offset, surgical technique, prosthetic protocol, maintenance care).
+
+Conflict of interests
+
+The authors and members of the working groups declare that they have no conflict of interests related to this consensus report. Alex Schaer, Frank Schwarz, and Thomas Taylor are members of the Camlog Foundation Board. Katja Nelson is a consultant to Camlog Biotechnologies AG.
+
+Source of funding
+
+This Consensus Meeting was supported by an unrestricted grant of the Camlog Foundation, Basel, Switzerland.

@@ -15,7 +15,7 @@ text_filename: foroughi-2025-bridging-oral-systemic-health-periodontal.txt
 
 ## Why Ingested
 
-[[periodontics/donertas-2026-gbt-subgingival-debridement-gcf-biomarkers]] measures individual GCF inflammatory biomarkers (IL-1β, MMP-8) after subgingival debridement; this broad narrative review supplies the upstream framework — which oral/salivary/blood/GCF biomarkers matter, why (IL-1β/TNF-α/RANKL-OPG/microbial DNA), and which emerging point-of-care platforms (lateral flow, biosensors, microfluidics) could turn those single-marker measurements into multiplex chairside risk stratification. It also anchors the pathogen mechanisms already held in [[oral-microbiology/hajishengallis-2014-porphyromonas-gingivalis-host-manipulation]] and [[oral-microbiology/lamont-2014-polymicrobial-synergy-dysbiosis-inflammatory]] into the diagnostics/biomarker thread.
+[[periodontics/non-surgical-instrumentation/donertas-2026-gbt-subgingival-debridement-gcf-biomarkers]] measures individual GCF inflammatory biomarkers (IL-1β, MMP-8) after subgingival debridement; this broad narrative review supplies the upstream framework — which oral/salivary/blood/GCF biomarkers matter, why (IL-1β/TNF-α/RANKL-OPG/microbial DNA), and which emerging point-of-care platforms (lateral flow, biosensors, microfluidics) could turn those single-marker measurements into multiplex chairside risk stratification. It also anchors the pathogen mechanisms already held in [[oral-microbiology/hajishengallis-2014-porphyromonas-gingivalis-host-manipulation]] and [[oral-microbiology/lamont-2014-polymicrobial-synergy-dysbiosis-inflammatory]] into the diagnostics/biomarker thread.
 
 ## Three-line Summary
 
@@ -84,7 +84,7 @@ Selected quantitative claims reproduced from cited sources (the review does not 
 
 - Keystone-pathogen and dysbiosis mechanism: [[oral-microbiology/hajishengallis-2014-porphyromonas-gingivalis-host-manipulation]], [[oral-microbiology/lamont-2014-polymicrobial-synergy-dysbiosis-inflammatory]], [[oral-microbiology/hajishengallis-2012-psd-model-periodontal-disease]].
 - *F. nucleatum* systemic/cancer link: [[oral-microbiology/mcilvanna-2021-fusobacterium-nucleatum-oral-cancer]].
-- GCF biomarker measurement after therapy: [[periodontics/donertas-2026-gbt-subgingival-debridement-gcf-biomarkers]].
+- GCF biomarker measurement after therapy: [[periodontics/non-surgical-instrumentation/donertas-2026-gbt-subgingival-debridement-gcf-biomarkers]].
 
 ## 7. Glossary
 

@@ -6,7 +6,7 @@ date: 2024-01-01
 doi: 10.1038/s41405-024-00275-8
 source: karkoutly-2024-topical-anesthetics-lidocaine-benzocaine-emla-ianb.md
 category: [local-anesthesia]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/karkoutly-2024-topical-anesthetics-lidocaine-benzocaine-emla-ianb.pdf
 pdf_filename: karkoutly-2024-topical-anesthetics-lidocaine-benzocaine-emla-ianb.pdf
 source_collection: external
@@ -44,7 +44,7 @@ This triple-blinded, three-arm RCT in 45 schoolchildren (6-10 y, 15 per arm) com
 Triple-blinded, parallel, active-controlled RCT. n=45 children (6-10 y), 3 arms of 15. G1: 20% benzocaine gel (control); G2: 8% lidocaine gel; G3: 5% EMLA cream. Each 0.3 mL applied via cotton swab for 2 min, then IANB. Primary outcomes: pulse rate, FLACC, Wong-Baker FACES.
 
 ## Results
-FLACC: G2 (lidocaine) 2.20 ± 1.86, NS (p=0.806). Wong-Baker FACES: NS (p=0.593). Post-IANB pulse: G3 (EMLA) 102.40 ± 14.28, NS (p=0.351). Pulse change from baseline: NS (p=0.638). Conclusion: 8% lidocaine gel not superior to 20% benzocaine or 5% EMLA. [근거강함]
+FLACC: G2 (lidocaine) 2.20 ± 1.86, NS (p=0.806). Wong-Baker FACES: NS (p=0.593). Post-IANB pulse: G3 (EMLA) 102.40 ± 14.28, NS (p=0.351). Pulse change from baseline: NS (p=0.638). Conclusion: 8% lidocaine gel not superior to 20% benzocaine or 5% EMLA. [확인]
 
 ## Related Papers
 - [[local-anesthesia/subramanian-2023-comparative-two-topical-anesthetic-agents-pediatric]] — pediatric RCT reporting benzocaine > lignocaine; this stricter triple-blind RCT finds no agent difference (contradicts)

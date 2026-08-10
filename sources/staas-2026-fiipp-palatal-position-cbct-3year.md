@@ -46,7 +46,7 @@ No comparator arm with non-palatal positioning; flapless requires specific anato
 
 ## 6. Related Work
 - [[immediate-implant/esthetic-soft-tissue/yang-2019-labial-bone-thickness-esthetics-iipp]]
-- [[immediate-implant/kan-2011-sagittal-root-position-immediate-implant-anterior]]
+- [[immediate-implant/anatomic-assessment/kan-2011-sagittal-root-position-immediate-implant-anterior]]
 
 ## 7. Glossary
 - **IIP:** Immediate Implant Placement — placement at the time of tooth extraction.

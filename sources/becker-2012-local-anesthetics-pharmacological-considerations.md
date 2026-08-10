@@ -55,7 +55,7 @@ Narrative review (not systematic). Synthesizes classic pharmacokinetic studies (
 
 ## 4. Key Results and Benchmarks
 
-### Maximum doses & properties (Becker & Reed Table 2) [합의수준]
+### Maximum doses & properties (Becker & Reed Table 2) [확인]
 
 | Formulation | Max dose mg/kg (total mg) | Elimination t½β (min) | Pulpal duration (infiltration / block) | Soft-tissue duration |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ Narrative review (not systematic). Synthesizes classic pharmacokinetic studies (
 † Articaine 7 mg/kg in US package insert; Canadian insert suggests 5 mg/kg for children; 500 mg total inferred at 70 kg.
 ‡ Bupivacaine not FDA-approved for children <16; total ~90 mg.
 
-### Other quantitative anchors [합의수준]
+### Other quantitative anchors [확인]
 
 - **Lidocaine toxicity**: signs may start at serum >5 µg/mL; convulsive seizures generally >10 µg/mL. 400 mg lidocaine submucosal stays well below toxic serum levels (~10-cartridge historical limit).
 - **Peak serum**: 20–30 min post-injection (alone); delayed/reduced by adding 1:200,000 epinephrine.

@@ -6,7 +6,7 @@ date: 1975-09-01
 doi: 10.1016/0022-3913(75)90103-1
 source: sheppard-1975-vertical-dimension-measurements-cephalometric.md
 category: [complete-denture]
-confidence: in-vivo
+evidence_level: in-vivo
 pdf_path: /Users/oracleneo/llm-wiki/papers/sheppard-1975-vertical-dimension-measurements-cephalometric.pdf
 pdf_filename: sheppard-1975-vertical-dimension-measurements-cephalometric.pdf
 source_collection: external

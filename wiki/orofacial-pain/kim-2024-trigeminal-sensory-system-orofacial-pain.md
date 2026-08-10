@@ -6,7 +6,7 @@ date: 2024-10-21
 doi: 10.3390/ijms252011306
 source: kim-2024-trigeminal-sensory-system-orofacial-pain.md
 category: [orofacial-pain]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: true
 pmid: "39457088"
@@ -75,4 +75,4 @@ Qualitative synthesis (no primary data). Key points: TG neuron subtypes correlat
 - [[orofacial-pain/price-2009-chloride-regulation-pain-pathway]] — NKCC1/KCC2 chloride regulation operates within the same Sp5 inhibitory circuitry this review describes as central sensitization's disinhibition component
 - [[orofacial-pain/pathirathna-2005-t-type-calcium-gaba-neurosteroids]] — T-type Ca²⁺ channel/neurosteroid modulation is one of the VGCC mechanisms this review implicates in peripheral sensitization and Sp5 LTP
 - [[overviews/bms-orofacial-pain-neuropathic-mechanism-overview]] — this paper's system-wide anatomical/synaptic framework and its four-disease clinical synthesis are directly relevant source material for updating this overview
-- [[oral-medicine/khan-2023-trigeminal-neuralgia-therapeutic-approach-sr]] — this review's TN pathophysiology (vascular compression, demyelination, ephaptic transmission, Sp5 central sensitization) underlies the clinical management approaches surveyed there
+- [[oral-medicine/trigeminal-neuralgia/khan-2023-trigeminal-neuralgia-therapeutic-approach-sr]] — this review's TN pathophysiology (vascular compression, demyelination, ephaptic transmission, Sp5 central sensitization) underlies the clinical management approaches surveyed there

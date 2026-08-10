@@ -6,7 +6,7 @@ date: 2017-01-01
 doi: 10.32542/implantology.20170009
 journal: Implantology 2017;21(2):110-127
 source: seol-2017-uv-implant-resonance-frequency-early-loading.md
-confidence: case-report
+evidence_level: case-report
 category: [implants/isq]
 pdf_path: /Users/oracleneo/llm-wiki/papers/seol-2017-uv-implant-resonance-frequency-early-loading.pdf
 pdf_filename: seol-2017-uv-implant-resonance-frequency-early-loading.pdf
@@ -62,4 +62,4 @@ UV 처리로 2주 이내 ISQ 급상승(예: 69→81) 및 안정성 감소(Stabil
 ## Related Papers
 - [[implants/isq/sennerby-2008-implant-stability-resonance-frequency-analysis]] — RFA·ISQ·stability dip 원리
 - [[implants/isq/oh-2008-comparison-of-initial-implant-stability]] — ISQ 임계값 (ISQ>70 즉시부하)
-- [[implants/di-stefano-2021-stability-dental-implants-cortical-bone]] — 피질골 두께 ↔ 초기안정성
+- [[implants/isq/di-stefano-2021-stability-dental-implants-cortical-bone]] — 피질골 두께 ↔ 초기안정성

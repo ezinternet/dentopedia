@@ -1,0 +1,84 @@
+Effect of renin–angiotensin–aldosterone system inhibitor and statin medication on periodontal status of patients at risk of cardiovascular disease: a systematic review and meta-analysis
+
+Khalilurrahman ZA, Anjani SK, Sulijaya B, Haerani N, Lessang R, Harsas NA, Rahdewati H
+Saudi Dental Journal, 2026 Mar 9. DOI: 10.1007/s44445-026-00135-1
+PMID: 41801622, PMCID: PMC12972301
+
+Purpose
+
+Among the various risks of cardiovascular disease, hypertension and hypercholesterolemia are the greatest risks. Renin–angiotensin–aldosterone system inhibitor medication, consisting of angiotensin converting enzyme inhibitors and angiotensin receptor blockers, as well as statins, is used to treat hypertension and hypercholesterolemia, respectively. The effect of this medication on inflammatory reactions has been demonstrated by various studies, as well as its effect on periodontal tissue. This study aims to determine the effect of renin–angiotensin–aldosterone system inhibitor medication and statins on the periodontal status of patients at risk of cardiovascular disease.
+
+Methods
+
+Search for studies through electronic databases using the Preferred Reporting Items for Systematic Reviews and Meta-Analysis 2020 guidelines. Studies that met the inclusion criteria are included and assessed for risk of bias and then meta-analysed.
+
+Results
+
+Qualitative synthesis showed inconsistent results regarding the effect of RAAS inhibitors on periodontal status. Meta-analysis between the statin group compared with other interventions such as diet found that the mean bleeding on probing index found a statistically significant difference with a mean difference of -13.4% (95% CI:[-23.08;-3.72], p = 0.007), the mean clinical attachment loss did not show any significant difference with a mean difference of -0.16 mm (95% CI: [-0.40;-0.07], p = 0.17), and mean probing depth there was a statistically significant difference between groups with a mean difference of -0.38 mm (95% CI:[-0.53;-0.23], p < 0.00001).
+
+Conclusion
+
+The effect of renin–angiotensin–aldosterone system inhibitor medication in the form of angiotensin converting enzyme inhibitors and angiotensin receptor blockers in hypertensive patients on periodontal status showed inconsistent results and statin medication systemically could improve periodontal status, bleeding on probing index, and probing depth in patients with hypercholesterolemia.
+
+Highlights
+
+- ACEI and ARBs' effect on periodontal status in hypertensive patients showed inconsistent results.
+- Statin effect on periodontal status in hypercholesterolemia patients showed that it could improve the bleeding on probing index and the probing depth.
+
+Introduction
+
+Cardiovascular diseases represent a major group of diseases and remain the leading cause of mortality worldwide. The World Heart Federation, in its latest report, World Health Report 2023, reported that the estimated number of deaths due to cardiovascular disease continues to increase and reached 18.6 million people in 2019. The most common cardiovascular diseases globally are ischemic heart disease/coronary heart disease, intracerebral hemorrhage, ischemic stroke, hypertensive heart disease, and so on. Some of the considerable risk factors for cardiovascular disease include increased blood pressure or hypertension, high levels of LDL cholesterol or hypercholesterolemia, obesity, smoking habits, and family history.
+
+International clinical guidelines widely recommend that pharmacological management of cardiovascular diseases include renin-angiotensin system (RAS)-acting agents, beta-blockers, antithrombotic agents, and lipid-lowering drugs. The drugs that are most commonly used as therapy for cardiovascular diseases are antihypertensive drugs such as angiotensin II receptor blockers (ARBs) and angiotensin-converting enzyme inhibitors (ACEI), which are included in the class of renin–angiotensin–aldosterone system (RAAS) inhibitors, as well as lipid-lowering agents such as statins.
+
+Periodontitis is one of the periodontal diseases that causes progressive damage to the periodontal tissue, resulting from inflammation of the periodontal tissue, with the main features of clinical attachment loss (CAL), radiographic loss of alveolar bones, the formation of periodontal pockets, and bleeding. Cardiovascular disease has been linked to periodontitis because periodontal disease has pathogenic pathways similar to cardiovascular disease — via direct invasion of periodontopathic pathogens into blood vessels, and indirectly via release of inflammatory cytokines into the circulation, both of which can contribute to formation, maturation, and exacerbation of atheromatous plaques. A WHF/EFP consensus report states that patients with periodontitis may be at risk for endothelial dysfunction, coronary heart disease, and various other cardiovascular diseases; periodontal treatment is associated with reduced incidence of acute cardiovascular events.
+
+The effect of the RAAS inhibitor group as an antihypertensive drug on the inflammatory process: ACEI and ARBs groups could reduce inflammatory markers by suppressing release of pro-inflammatory cytokines (e.g. ARBs inhibiting TNF-α and IL-6 secretion). In contrast, Rodrigues et al. reported ACEI use was linked to a higher prevalence and greater severity of periodontitis, and Kim et al. reported antihypertensive drugs can induce oral microbiota dysbiosis in periodontitis patients.
+
+A prior SR+MA by Bertl et al. found statins show a positive effect on periodontitis treatment because, in addition to lowering blood cholesterol, they have bone-promoting, anti-inflammatory, and antibacterial features (suppressing IL-1β, IL-6, TNF-α; promoting osteoblast differentiation via BMP-2/VEGF upregulation). Contrary results: Kwon et al. found systemic statin use increases periodontitis risk 1.32-fold.
+
+Materials and methods
+
+Retrospective observational systematic review and meta-analysis per PRISMA 2020 guidelines. PROSPERO registration CRD42024583905.
+
+Inclusion criteria: studies on the effect of ACEI, ARBs, or statins on periodontal status of patients at risk of cardiovascular disease (hypertension or hypercholesterolemia); English-language; last 10 years; outcomes = periodontal index (BOP, plaque index, gingiva index), clinical attachment loss, probing depth; systemic administration of ACEIs/ARBs/statins; clinical study/clinical trial/RCT designs. Exclusion: review study models, participants with other systemic diseases.
+
+Search: PubMed, ProQuest, EBSCO, SpringerLink. PICO: Population = hypertension or hypercholesterolemia patients; Intervention = ACEI, ARBs, or statins; Comparison = other medicated comparison; Outcome = primary periodontal status (BOP, PI, GI, CAL, PD), secondary = periodontal disease diagnosis.
+
+Selection via Rayyan platform, two blinded reviewers, no disagreements. Risk of bias via ROBINS-I (non-randomized studies). Data synthesis qualitative and quantitative (RevMan), pooled effect estimates presented as overall mean with forest plots.
+
+Results
+
+6,669 records identified (5,141 PubMed, 925 ProQuest, 504 EBSCO, 99 SpringerLink). After 427 duplicates removed, 6,242 screened by title; 6,226 excluded; 16 by abstract (2 excluded); 14 full-text assessed. 5 excluded (no periodontal status reported), 1 excluded (LDL-level grouping only), 2 excluded (no hypercholesterolemia diagnosis). 6 studies included in qualitative synthesis. 1 excluded from quantitative synthesis (no mean/SD), 1 lacked comparative group. Quantitative synthesis (meta-analysis) performed on 4 studies.
+
+Risk of bias: 4 studies low risk, 2 studies medium risk.
+
+Qualitative synthesis (6 studies: Ari et al., Magán-Fernández et al., Rad et al., Rodrigues et al., Sayar et al., Ustaoğlu et al.) — extracted authors, year, study design, medication type/duration, participant n, periodontal parameters (BOP, PI, GI, CAL, PD), periodontal disease characteristics, outcomes. No studies reported marginal bone loss. None used the 2017 Workshop periodontal/peri-implant classification.
+
+RAAS inhibitor effect on hypertensive patients: only 2 studies (Rodrigues et al., Ustaoğlu et al.) — inconsistent results, effect undetermined.
+
+Quantitative synthesis (statins, 4 studies via RevMan 5.4, 95% CI):
+- Bleeding on probing (BOP) index: 3 studies, mean difference -13.4% (95% CI -23.08 to -3.72, p=0.007) — statistically significant.
+- Clinical attachment loss (CAL): 4 studies, mean difference -0.16 mm (95% CI -0.40 to -0.07 [reported inconsistently in text as -0.40;-0.07 vs abstract wording], p=0.17) — not significant.
+- Probing depth (PD): 4 studies, mean difference -0.38 mm (95% CI -0.53 to -0.23, p<0.00001) — statistically significant, though not deemed clinically significant given magnitude.
+- Plaque index and gingival index not quantitatively pooled (different indices per study).
+
+Discussion
+
+RAAS inhibitor / hypertension: Rodrigues et al. (case-control; ACEI users mean tx duration 7.5y vs non-ACEI 6.1y; combination antihypertensive therapy in both groups) found all periodontal parameters (BOP, PI, CAL, PD) significantly worse in ACEI group vs control, though PD/CAL differences (0.47mm/0.26mm) were not clinically significant. Ustaoğlu et al. (cross-sectional; single-drug therapy, ~3-3.5y duration) found no significant difference between ACEI and other antihypertensives except GI (ARBs 1.38 vs CCB 1.78, difference only 0.4 points, not clinically significant). Inconsistency attributed to differing treatment duration, combination vs single-drug therapy, and study design (case-control vs cross-sectional).
+
+Supporting literature: Chatzopoulos et al. (retrospective cohort) found periodontitis (stage III/IV) patients had higher ACEI consumption than periodontally healthy patients; multivariable regression showed 4.847× greater periodontitis risk with ACEI use (ramipril, enalapril, lisinopril significant among 5 ACEIs tested). Wang et al. (case-control, elderly) found 1.64× greater periodontitis risk with ACEI. Pająk-Łysek et al. found 3.32× greater periodontitis risk with ARBs after confounder adjustment.
+
+Proposed mechanisms: ACEI-related kinin activity increase (implicated in cough/angioedema) may act as pro-inflammatory mediator in periodontal disease; ACEI may potentiate Th1 polarization via IL-12 production through kinin B2 receptor activation on dendritic cells. ARB-associated hyposalivation (a recognized ARB adverse effect) may increase periodontal disease susceptibility.
+
+Statins / hypercholesterolemia: 3 of 4 studies (Sayar et al., Rad et al., Ari et al.) found significant periodontal parameter differences between statin and diet/normolipidemic groups. BOP significant only in Ari et al. GI significant and directionally consistent in Rad et al. and Ari et al. (higher in normolipidemic healthy-periodontal group). PI significant in Sayar et al. and Ari et al. CAL significant only in Sayar et al. (lower in statin vs diet group). PD significant in Sayar et al. (statin < diet, but not vs normolipidemic) and Ari et al. (statin < normolipidemic in periodontitis patients, but not vs diet). Magán-Fernández et al. found no significant mean differences but multivariate regression showed 0.8mm CAL reduction in statin group; no significant lipid-profile/periodontal-status association.
+
+Meta-analysis found 2 significant parameters: BOP index (13.40% reduction, p=0.007) and PD (0.38mm reduction, p<0.00001, statistically but not clinically significant — no universally established MCID for PD/BOP exists; authors note a 1mm PD reduction may be clinically meaningful only when crossing the 4mm pathologic/3mm healthy threshold per 2017 classification).
+
+Comparison to prior literature: Muniz et al. SR+MA on statins as periodontal-therapy adjuvant (systemic/dentifrice/local routes) — systemic statin showed improvement in only 1/3 studies for PD; dentifrice atorvastatin improved CAL, PD, BOP in 1 study; local statin meta-analysis showed PD reduction 1.93mm and CAL gain 1.82mm at 6 months (high heterogeneity). Greethurst et al. found local statin adjunct to non-surgical periodontal therapy improved PD, CAL, infrabony defect, radiographic bone loss. Differences from present study: prior studies used statin as adjunct after periodontal treatment in systemically healthy patients, not as systemic hypercholesterolemia therapy in at-risk patients.
+
+Mechanistic support: statins reduce pro-inflammatory markers (IL-8, IL-6, TNF-α, IL-1β), show in vitro antibacterial activity against Gram-positive/negative bacteria, and (Dalcico et al.) simvastatin reduced iNOS, RANK, RANKL and increased OPG in periodontal tissue. Tabrizi et al. SR+MA found systemic statin therapy significantly decreased CRP, TNF-α, IL-6, IL-1.
+
+Conclusions
+
+RAAS inhibitor (ACEI/ARB) effects on periodontal status in hypertensive patients were inconsistent across the evidence base. Systemic statin therapy was associated with improvements in periodontal parameters — specifically bleeding on probing and probing depth — in patients with hypercholesterolemia, though clinical significance of the probing-depth effect is uncertain.

@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1111/cid.70053
 journal: Clinical Implant Dentistry and Related Research 2025;27:e70053
 source: del-fabbro-2025-sinus-augmentation-materials-lateral-approach.md
-confidence: sr
+evidence_level: sr
 category: [sinus-lift/lateral]
 pdf_path: /Users/oracleneo/llm-wiki/papers/del-fabbro-2025-sinus-augmentation-materials-lateral-approach.pdf
 pdf_filename: del-fabbro-2025-sinus-augmentation-materials-lateral-approach.pdf

@@ -6,7 +6,7 @@ date: 2026-05-02
 doi: 10.1038/s41598-026-50332-5
 source: eraydin-tufek-2026-nonsurgical-peri-implantitis-multiarm-rct.md
 category: [implants/peri-implantitis]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: false
 pmid: "42069893"

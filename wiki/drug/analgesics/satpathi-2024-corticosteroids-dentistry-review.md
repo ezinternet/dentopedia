@@ -6,7 +6,7 @@ date: 2024-09-21
 doi: 10.4103/jpbs.jpbs_870_24
 journal: Journal of Pharmacy and Bioallied Sciences 16(Suppl 4):S3034-S3036
 source: satpathi-2024-corticosteroids-dentistry-review.md
-confidence: narrative-review
+evidence_level: narrative-review
 category: [drug/analgesics]
 pdf_path: /Users/oracleneo/llm-wiki/papers/satpathi-2024-corticosteroids-dentistry-review.pdf
 pdf_filename: satpathi-2024-corticosteroids-dentistry-review.pdf
@@ -71,5 +71,5 @@ Patients on long-term systemic corticosteroids (≥5mg prednisolone/day >2 weeks
 - Overcautious prescribing concern: do NOT use systemic corticosteroids for minor extractions without indication
 
 ## Related Papers
-- [[drug/ufcd-2019-medically-complex-patients-management-guidelines]] — Section 11: corticosteroid use + adrenal insufficiency protocol
-- [[drug/ghimire-2022-medically-compromised-prosthodontic-patients]] — steroid users: delayed healing, drug holiday considerations
+- [[drug/mronj/ufcd-2019-medically-complex-patients-management-guidelines]] — Section 11: corticosteroid use + adrenal insufficiency protocol
+- [[drug/mronj/ghimire-2022-medically-compromised-prosthodontic-patients]] — steroid users: delayed healing, drug holiday considerations

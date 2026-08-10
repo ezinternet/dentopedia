@@ -7,7 +7,7 @@ doi: 10.1002/14651858.CD010794.pub2
 journal: Cochrane Database Syst Rev
 source: moore-2015-otc-oral-analgesics-cochrane-overview.md
 category: [drug/analgesics]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/moore-2015-otc-oral-analgesics-cochrane-overview.pdf
 pdf_filename: moore-2015-otc-oral-analgesics-cochrane-overview.pdf
 source_collection: external
@@ -53,6 +53,6 @@ Cochrane overview, single-dose, OTC-restricted.
 - 2015 evidence base
 
 ## Related Papers
-- [[drug/moore-2015-single-dose-oral-analgesics-cochrane-overview]] — broader companion overview.
-- [[drug/rainsford-2009-ibuprofen-pharmacology-efficacy-safety-review]] — ibuprofen review.
-- [[drug/miroshnychenko-2023-dental-extraction-pain-network-meta]] — dental NMA.
+- [[drug/analgesics/moore-2015-single-dose-oral-analgesics-cochrane-overview]] — broader companion overview.
+- [[drug/analgesics/rainsford-2009-ibuprofen-pharmacology-efficacy-safety-review]] — ibuprofen review.
+- [[drug/analgesics/miroshnychenko-2023-dental-extraction-pain-network-meta]] — dental NMA.

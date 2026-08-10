@@ -6,7 +6,7 @@ date: 2024-08-14
 doi: 10.1371/journal.pone.0305342
 source: bai-2024-seven-nonsurgical-methods-peri-implantitis-network.md
 category: [implants/peri-implantitis]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/bai-2024-seven-nonsurgical-methods-peri-implantitis-network.pdf
 pdf_filename: bai-2024-seven-nonsurgical-methods-peri-implantitis-network.pdf
 source_collection: external
@@ -66,14 +66,14 @@ This network meta-analysis (NMA) pooled 33 RCTs (2004–2023, PROSPERO CRD420234
 | PM | BoP reduction (2nd) | Probiotics+MD | 75.7% | 0.60 (0.14–1.06) | Yes |
 | PM | PLI reduction (6 RCTs) | Probiotics+MD | 83.2% | — | No pairwise comparison significant |
 
-**Key pattern**: SA+MD is the strongest performer for bone/attachment-level outcomes (CAL, MBL) in PI and for BoP in PM, but the 2023 EFP S3 guideline (Herrera et al., [[implants/herrera-2023-prevention-treatment-peri-implant-efp]]) recommends against routine systemic antibiotic use for peri-implant disease due to patient/public-health risk — the authors explicitly flag this tension and recommend prioritizing other adjuncts, especially for PM and mild PI. Probiotics+MD ranks first by SUCRA for PM soft-tissue outcomes (PPD, PLI) but did not reach statistical significance vs MD alone for PPD — consistent with a narrative-review finding (below) that chemical/pharmaceutical PM adjuncts show within-group but not consistently significant added benefit over mechanical debridement alone.
+**Key pattern**: SA+MD is the strongest performer for bone/attachment-level outcomes (CAL, MBL) in PI and for BoP in PM, but the 2023 EFP S3 guideline (Herrera et al., [[implants/peri-implantitis/herrera-2023-prevention-treatment-peri-implant-efp]]) recommends against routine systemic antibiotic use for peri-implant disease due to patient/public-health risk — the authors explicitly flag this tension and recommend prioritizing other adjuncts, especially for PM and mild PI. Probiotics+MD ranks first by SUCRA for PM soft-tissue outcomes (PPD, PLI) but did not reach statistical significance vs MD alone for PPD — consistent with a narrative-review finding (below) that chemical/pharmaceutical PM adjuncts show within-group but not consistently significant added benefit over mechanical debridement alone.
 
 Publication bias assessed as low via funnel-plot symmetry.
 
 ## Related Papers
 
 - [[implants/peri-implantitis/mauriello-2026-peri-implant-mucositis-adjunctive-narrative-review]] — narrative review of chemical/pharmaceutical PM adjuncts (chlorhexidine, local antibiotics, sodium hypochlorite, probiotics); its conclusion of no consistent statistically significant benefit for probiotics over PMPR alone is reinforced by this NMA's PM PPD finding (probiotics+MD SUCRA-first but SMD 0.37, 95% CI −0.23–0.97, NS vs MD alone).
-- [[implants/herrera-2023-prevention-treatment-peri-implant-efp]] — EFP S3-level guideline; its caution against routine systemic antibiotics for peri-implant disease directly qualifies this NMA's SA+MD top-SUCRA rankings for CAL/MBL/BoP.
+- [[implants/peri-implantitis/herrera-2023-prevention-treatment-peri-implant-efp]] — EFP S3-level guideline; its caution against routine systemic antibiotics for peri-implant disease directly qualifies this NMA's SA+MD top-SUCRA rankings for CAL/MBL/BoP.
 - [[implants/peri-implantitis/jervoe-storm-2024-photodynamic-therapy-periodontal-periimplant-diseases]] — Cochrane review of adjunctive PDT for periodontal/peri-implant disease; provides broader evidence context for the PDT arm in this NMA.
 - [[implants/peri-implantitis/eraydin-tufek-2026-nonsurgical-peri-implantitis-multiarm-rct]] — multi-arm RCT of nonsurgical PI treatments (glycine air-abrasion, chlorhexidine, ozone), a newer direct-comparison trial complementing this NMA's indirect-evidence rankings.
 - [[implants/peri-implantitis/brunello-2026-nonsurgical-peri-implant-mucositis-sr]] — systematic review of nonsurgical PM therapy effectiveness, extending the mucositis-focused evidence base this NMA also addresses.

@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-하악 구치부 임플란트 식립 후 발생하는 감각이상(altered sensation / paresthesia)의 이환율, 원인, 경과, 치료에 대한 체계적 문헌 고찰이며, 국내 구강악안면외과 전문 석사논문으로서 한국 임상 맥락의 데이터(치과의사 설문 포함)를 포함한다. 기존 [[oral-surgery/lee-2015-inferior-alveolar-nerve-injury-management]] 페이지가 단일 증례(제3대구치 발거 후 IAN 손상)를 다루는 반면, 이 논문은 임플란트-특이적 IAN/정신신경/설신경 손상을 이환율 관점에서 종합한다.
+하악 구치부 임플란트 식립 후 발생하는 감각이상(altered sensation / paresthesia)의 이환율, 원인, 경과, 치료에 대한 체계적 문헌 고찰이며, 국내 구강악안면외과 전문 석사논문으로서 한국 임상 맥락의 데이터(치과의사 설문 포함)를 포함한다. 기존 [[oral-surgery/nerve-injury/lee-2015-inferior-alveolar-nerve-injury-management]] 페이지가 단일 증례(제3대구치 발거 후 IAN 손상)를 다루는 반면, 이 논문은 임플란트-특이적 IAN/정신신경/설신경 손상을 이환율 관점에서 종합한다.
 
 ## Three-line Summary
 

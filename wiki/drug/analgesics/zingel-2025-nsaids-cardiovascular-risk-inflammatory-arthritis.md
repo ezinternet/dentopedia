@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1016/j.semarthrit.2025.152550
 source: zingel-2025-nsaids-cardiovascular-risk-inflammatory-arthritis.md
 category: [drug/analgesics]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/zingel-2025-nsaids-cardiovascular-risk-inflammatory-arthritis.pdf
 pdf_filename: zingel-2025-nsaids-cardiovascular-risk-inflammatory-arthritis.pdf
 source_collection: external
@@ -50,5 +50,5 @@ Narrative review. Registry data (Oslo RA registry) and other observational data.
 | AS patients | Not increased; possible ↓ cardioprotective effect |
 
 ## Related Papers
-- [[drug/kotowska-rodziewicz-2023-nsaids-role-dentistry-review]] — NSAIDs in dentistry: mechanisms and contraindications including CV
-- [[drug/gomes-2025-nsaids-kidney-toxicity-icu-retrospective]] — NSAID renal toxicity (the other main safety concern)
+- [[drug/analgesics/kotowska-rodziewicz-2023-nsaids-role-dentistry-review]] — NSAIDs in dentistry: mechanisms and contraindications including CV
+- [[drug/analgesics/gomes-2025-nsaids-kidney-toxicity-icu-retrospective]] — NSAID renal toxicity (the other main safety concern)

@@ -6,7 +6,7 @@ date: 2023-10-12
 doi: 10.1016/j.dental.2023.10.008
 source: ge-2023-glass-ionomer-secondary-caries-sr-ma.md
 category: [caries]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/ge-2023-glass-ionomer-secondary-caries-sr-ma.pdf
 pdf_filename: ge-2023-glass-ionomer-secondary-caries-sr-ma.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2024-07-11
 doi: "10.1128/msphere.00778-23"
 source: momeni-2024-intraspecies-interactions-streptococcus-mutans.md
 category: [oral-microbiology]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: true
 pmid: "38990043"
@@ -19,6 +19,8 @@ relations:
     target: bowen-2011-streptococcus-mutans-glucosyltransferases
   - type: reinforces
     target: koo-2013-exopolysaccharides-matrix-biofilm-virulence
+  - type: extends
+    target: klein-2012-mutans-protein-synthesis-mixed-species-biofilm
 ---
 
 ## Three-line Summary

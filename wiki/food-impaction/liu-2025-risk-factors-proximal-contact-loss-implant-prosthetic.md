@@ -6,7 +6,7 @@ date: 2025-12-17
 doi: 10.1186/s12903-025-07480-3
 source: liu-2025-risk-factors-proximal-contact-loss-implant-prosthetic.md
 category: [food-impaction]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 full_text: true
 pmid: "41402875"

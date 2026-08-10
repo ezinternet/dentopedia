@@ -6,7 +6,7 @@ date: 2021-12-03
 doi: 10.3290/j.jad.b2288275
 source: leyva-del-rio-2021-heated-hf-feldspathic-lithium-disilicate-bond.md
 category: [resin-bonding]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/leyva-del-rio-2021-heated-hf-feldspathic-lithium-disilicate-bond.pdf
 pdf_filename: leyva-del-rio-2021-heated-hf-feldspathic-lithium-disilicate-bond.pdf
 source_collection: external

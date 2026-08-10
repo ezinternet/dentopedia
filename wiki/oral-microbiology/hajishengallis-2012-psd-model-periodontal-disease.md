@@ -6,7 +6,7 @@ date: 2012-12-01
 doi: "10.1111/j.2041-1014.2012.00663.x"
 source: hajishengallis-2012-psd-model-periodontal-disease.md
 category: [oral-microbiology]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/hajishengallis-2012-psd-model-periodontal-disease.pdf
 pdf_filename: hajishengallis-2012-psd-model-periodontal-disease.pdf
 source_collection: external

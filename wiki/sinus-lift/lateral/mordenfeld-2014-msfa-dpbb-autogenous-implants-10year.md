@@ -6,7 +6,7 @@ date: 2012-10-15
 doi: 10.1111/cid.12008
 source: mordenfeld-2014-msfa-dpbb-autogenous-implants-10year.md
 category: sinus-lift/lateral
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/mordenfeld-2014-msfa-dpbb-autogenous-implants-10year.pdf
 pdf_filename: mordenfeld-2014-msfa-dpbb-autogenous-implants-10year.pdf
 source_collection: external
@@ -35,7 +35,7 @@ Mordenfeld 등(2014)은 심한 후방 상악 위축 환자 20명을 대상으로
 ## Key Contributions
 - MSFA + 80:20 DPBB/자가골 mix의 가장 긴 임상 follow-up (10년).
 - "First 2 years critical" 메시지 — 임플란트가 이 시기를 통과하면 장기 결과 우수.
-- 흡연·증대골 여부가 10년 MBL/ISQ/pocket depth에 유의차 없음 — graft가 적절히 성숙하면 흡연·증대 자체는 결정적 risk가 아님 [claude해석: 단, n이 작아 흡연 subgroup 검정력 낮음].
+- 흡연·증대골 여부가 10년 MBL/ISQ/pocket depth에 유의차 없음 — graft가 적절히 성숙하면 흡연·증대 자체는 결정적 risk가 아님 [미검증: 단, n이 작아 흡연 subgroup 검정력 낮음].
 - Graft height의 흡수 시간 곡선(3개월–2년에 집중, 이후 안정) → 술 후 영상 추적의 임상 timeline 근거.
 
 ## Methodology
@@ -58,4 +58,4 @@ Mordenfeld 등(2014)은 심한 후방 상악 위축 환자 20명을 대상으로
 - [[sinus-lift/lateral/starch-jensen-2017-sinus-floor-augmentation-treatment-modalities]] — MSFA 술식 가이드.
 - [[sinus-lift/lateral/del-fabbro-2025-sinus-augmentation-materials-lateral-approach]] — MSFA 이식재 최신 SR (49 RCT, 생존율 84.6–100%).
 - [[bone-regeneration/jensen-2009-bone-augmentation-localized-defects-review]] — 동시기 ITI consensus background.
-- [[implants/bonsmann-2025-risk-factors-early-implant-failure-sinus-nested]] — sinus augmentation 후 early failure 위험인자.
+- [[implants/survival/bonsmann-2025-risk-factors-early-implant-failure-sinus-nested]] — sinus augmentation 후 early failure 위험인자.

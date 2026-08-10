@@ -6,7 +6,7 @@ date: 2025-01-08
 doi: 10.1186/s12903-024-05349-5
 source: el-shishiny-2025-ntpp-primary-root-canal-disinfection.md
 category: [endodontics/cold-plasma]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/el-shishiny-2025-ntpp-primary-root-canal-disinfection.pdf
 pdf_filename: el-shishiny-2025-ntpp-primary-root-canal-disinfection.pdf
 source_collection: external
@@ -78,5 +78,5 @@ NTPP achieved the highest log CFU reduction (4.06 ± 0.88) and 98.79% colony cou
 
 - [[endodontics/cold-plasma/el-shishiny-2025-ntpp-primary-root-canal-disinfection]] — (this page; anchor for endodontics/cold-plasma category)
 - [[endodontics/vpt/aapd-2024-vital-pulp-therapy-primary-teeth-guideline]] — AAPD 2024 guideline for primary tooth pulp therapy (clinical context)
-- [[endodontics/irrigation/jungbauer-2021-cold-atmospheric-plasma-antimicrobial-sr]] — broad SR on cold atmospheric plasma antimicrobial efficacy (background evidence for NTPP)
+- [[implants/surface/plasma/jungbauer-2021-cold-atmospheric-plasma-antimicrobial-sr]] — broad SR on cold atmospheric plasma antimicrobial efficacy (background evidence for NTPP)
 - [[endodontics/vpt/smail-faugeron-2018-pulp-treatment-primary-teeth-cochrane]] — Cochrane review on primary tooth pulp treatment (reference comparator context)

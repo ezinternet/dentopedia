@@ -6,7 +6,7 @@ date: 2024-10-01
 doi: "10.1038/s41598-024-75709-2"
 source: demir-2024-surface-treatments-bonding-dentin-elemental.md
 category: resin-bonding
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/demir-2024-surface-treatments-bonding-dentin-elemental.pdf
 pdf_filename: demir-2024-surface-treatments-bonding-dentin-elemental.pdf
 source_collection: external

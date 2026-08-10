@@ -6,7 +6,7 @@ date: 2025-03-20
 doi: "10.1016/j.prosdent.2025 (PII S0022-3913(25)00208-2; PMID 40118683)"
 source: deniz-2025-dual-cure-self-adhesive-cement-cytotoxicity.md
 category: resin
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/deniz-2025-dual-cure-self-adhesive-cement-cytotoxicity.pdf
 pdf_filename: deniz-2025-dual-cure-self-adhesive-cement-cytotoxicity.pdf
 source_collection: external

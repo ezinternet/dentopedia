@@ -6,7 +6,7 @@ date: 2024-06-01
 doi: "10.1016/j.dental.2024.05.014"
 source: elfarraj-2024-irrigants-tooth-dentin-infrared-spectroscopy-slr.md
 category: [endodontics/irrigation]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/elfarraj-2024-irrigants-tooth-dentin-infrared-spectroscopy-slr.pdf
 pdf_filename: elfarraj-2024-irrigants-tooth-dentin-infrared-spectroscopy-slr.pdf
 source_collection: external

@@ -15,7 +15,7 @@ text_filename: ye-2021-mandibular-third-molar-impaction-pathologies.txt
 
 ## Why Ingested
 
-하악 제3대구치 매복 형태(연조직/골매복, Pell & Gregory 위치, Winter 경사도)와 세 가지 주요 병변—치관주위염 (Pericoronitis), 하악 제2대구치 (M2M) 원심 우식, M2M 원심 치주병변—의 연관성을 동시 분석한 후향 연구로, 발치 적응증 결정 근거를 직접 제공한다. [[oral-surgery/damico-2025-third-molar-surgical-indications-guidelines]]의 가이드라인 권고를 실증적 데이터로 보강하며, 연령별 병변 패턴 차이(청년층 → 치관주위염 우세, 중년 이상 → 우식·치주병변 증가)를 수치로 제시한다.
+하악 제3대구치 매복 형태(연조직/골매복, Pell & Gregory 위치, Winter 경사도)와 세 가지 주요 병변—치관주위염 (Pericoronitis), 하악 제2대구치 (M2M) 원심 우식, M2M 원심 치주병변—의 연관성을 동시 분석한 후향 연구로, 발치 적응증 결정 근거를 직접 제공한다. [[oral-surgery/third-molar/damico-2025-third-molar-surgical-indications-guidelines]]의 가이드라인 권고를 실증적 데이터로 보강하며, 연령별 병변 패턴 차이(청년층 → 치관주위염 우세, 중년 이상 → 우식·치주병변 증가)를 수치로 제시한다.
 
 ## Three-line Summary
 
@@ -126,7 +126,7 @@ deeper mesio-angular/horizontal impaction was associated with M2M distal periodo
 - Studies cited confirming vertical angulation → pericoronitis association
 - Studies confirming mesio-angular 43°–73° and CEJ distance 6–15 mm → M2M distal caries
 - Literature on ERR and mesio-angular/horizontal M3M association
-- [[oral-surgery/damico-2025-third-molar-surgical-indications-guidelines]]: Contemporary evidence-based guidelines for M3M extraction indications — this study provides the impaction-pattern granularity underlying those recommendations
+- [[oral-surgery/third-molar/damico-2025-third-molar-surgical-indications-guidelines]]: Contemporary evidence-based guidelines for M3M extraction indications — this study provides the impaction-pattern granularity underlying those recommendations
 
 ## 7. Glossary
 

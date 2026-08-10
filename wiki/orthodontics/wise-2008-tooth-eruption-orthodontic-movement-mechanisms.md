@@ -6,7 +6,7 @@ date: 2008-05-01
 doi: 10.1177/154405910808700510
 source: wise-2008-tooth-eruption-orthodontic-movement-mechanisms.md
 category: [orthodontics]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/wise-2008-tooth-eruption-orthodontic-movement-mechanisms.pdf
 pdf_filename: wise-2008-tooth-eruption-orthodontic-movement-mechanisms.pdf
 source_collection: external

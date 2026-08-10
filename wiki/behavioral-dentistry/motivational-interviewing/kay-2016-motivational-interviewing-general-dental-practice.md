@@ -6,7 +6,7 @@ date: 2016-12-16
 doi: 10.1038/sj.bdj.2016.952
 source: kay-2016-motivational-interviewing-general-dental-practice.md
 category: behavioral-dentistry/motivational-interviewing
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/kay-2016-motivational-interviewing-general-dental-practice.pdf
 pdf_filename: kay-2016-motivational-interviewing-general-dental-practice.pdf
 source_collection: external

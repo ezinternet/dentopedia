@@ -39,7 +39,7 @@ ETS 노출은 치주염과 유의하게 연관(OR 1.47, 95% CI 1.22–1.76)되�
 PubMed, EMBASE, Web of Science, Cochrane Library searched for English-language publications to June 9, 2025. 14 studies, 115,925 adults (18+) included. OR with 95% CI as main effect measure; subgroup analyses by region, age, sex, exposure-assessment method (self-report vs cotinine), adjustment for diabetes/oral hygiene, and study recency.
 
 ## 4. Key Results
-[근거강함, 관찰연구 기반] ETS exposure vs periodontitis: OR 1.47 (95% CI 1.22-1.76), significant. ETS exposure vs tooth loss: OR 1.03 (95% CI 0.80-1.31), null. Cotinine-based assessment > self-report in association strength. Men: significant association; women: no association. Studies ≥2015 showed somewhat weaker effects than earlier studies (possible confounding control improvement or publication bias in earlier literature). Substantial heterogeneity present; age-stratified subgroup analysis not possible due to inconsistent reporting.
+[확인, 관찰연구 기반] ETS exposure vs periodontitis: OR 1.47 (95% CI 1.22-1.76), significant. ETS exposure vs tooth loss: OR 1.03 (95% CI 0.80-1.31), null. Cotinine-based assessment > self-report in association strength. Men: significant association; women: no association. Studies ≥2015 showed somewhat weaker effects than earlier studies (possible confounding control improvement or publication bias in earlier literature). Substantial heterogeneity present; age-stratified subgroup analysis not possible due to inconsistent reporting.
 
 ## 5. Limitations
 - Predominantly cross-sectional design — causality/temporality cannot be established (reverse causation considered unlikely but not excluded).

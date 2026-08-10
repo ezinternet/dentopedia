@@ -200,12 +200,6 @@ def main() -> int:
               "Split it or use the Files API.", file=sys.stderr)
         return 1
 
-    try:
-        import anthropic
-    except ImportError:
-        print("error: pip install anthropic", file=sys.stderr)
-        return 1
-
     categories = discover_categories()
     if not categories:
         print(f"error: no categories found under {WIKI}", file=sys.stderr)
@@ -213,6 +207,12 @@ def main() -> int:
     if args.category and args.category not in categories:
         print(f"warning: '{args.category}' is not an existing wiki category",
               file=sys.stderr)
+
+    try:
+        import anthropic
+    except ImportError:
+        print("error: pip install anthropic", file=sys.stderr)
+        return 1
 
     pdf_b64 = base64.standard_b64encode(pdf_path.read_bytes()).decode("ascii")
 

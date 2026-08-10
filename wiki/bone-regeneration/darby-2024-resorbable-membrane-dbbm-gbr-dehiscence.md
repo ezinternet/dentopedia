@@ -6,7 +6,7 @@ date: 2024-06-01
 doi: 10.1007/s00784-024-05748-6
 source: darby-2024-resorbable-membrane-dbbm-gbr-dehiscence.md
 category: [bone-regeneration]
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/darby-2024-resorbable-membrane-dbbm-gbr-dehiscence.pdf
 pdf_filename: darby-2024-resorbable-membrane-dbbm-gbr-dehiscence.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2017-12-27
 doi: 10.1371/journal.pone.0190293
 source: chatvaratthana-2017-cortical-bone-crestal-buccolingual-isq.md
 category: [implants/isq]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/chatvaratthana-2017-cortical-bone-crestal-buccolingual-isq.pdf
 pdf_filename: chatvaratthana-2017-cortical-bone-crestal-buccolingual-isq.pdf
 source_collection: external

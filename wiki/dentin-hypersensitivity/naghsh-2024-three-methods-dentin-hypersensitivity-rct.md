@@ -6,7 +6,7 @@ date: 2024-03-20
 doi: "10.1016/j.identj.2024.03.013"
 source: naghsh-2024-three-methods-dentin-hypersensitivity-rct.md
 category: [dentin-hypersensitivity]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/naghsh-2024-three-methods-dentin-hypersensitivity-rct.pdf
 pdf_filename: naghsh-2024-three-methods-dentin-hypersensitivity-rct.pdf
 source_collection: external

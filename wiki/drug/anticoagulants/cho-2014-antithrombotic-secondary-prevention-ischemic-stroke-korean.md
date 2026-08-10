@@ -7,7 +7,7 @@ doi: 10.12786/bn.2014.7.2.76
 journal: Brain NeuroRehabil 7(2):76-85
 source: cho-2014-antithrombotic-secondary-prevention-ischemic-stroke-korean.md
 category: [drug/anticoagulants]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/cho-2014-antithrombotic-secondary-prevention-ischemic-stroke-korean.pdf
 pdf_filename: cho-2014-antithrombotic-secondary-prevention-ischemic-stroke-korean.pdf
 source_collection: external
@@ -33,7 +33,7 @@ Clinical implication: this review explains the indication side of antiplatelet/a
 ## Summary
 Korean-language narrative review from Pusan National University Department of Neurology covering pharmacological secondary prevention of ischemic stroke. Key clinical principle: choice between antiplatelet vs anticoagulant depends on stroke etiology — antiplatelet for non-cardioembolic (large artery atherosclerosis, small vessel), anticoagulant for cardioembolic (atrial fibrillation, prosthetic valve).
 
-[claude해석] Dental relevance: a patient walks in with "I'm on aspirin/clopidogrel/warfarin because of my stroke." This review explains *why* — it's the indication side, not the dental management side. Cross-reference with Lim 2020 (Korean GI perioperative) and Lu 2018 / Inchingolo 2024 SR for the dental-procedural side. Particularly useful when consulting the patient's neurologist before elective dental surgery.
+[미검증] Dental relevance: a patient walks in with "I'm on aspirin/clopidogrel/warfarin because of my stroke." This review explains *why* — it's the indication side, not the dental management side. Cross-reference with Lim 2020 (Korean GI perioperative) and Lu 2018 / Inchingolo 2024 SR for the dental-procedural side. Particularly useful when consulting the patient's neurologist before elective dental surgery.
 
 ## Key Contributions
 - Korean-language stroke-secondary-prevention pharmacology reference.
@@ -55,8 +55,8 @@ Narrative review of stroke secondary prevention RCT and guideline literature thr
 - Does not address perioperative management
 
 ## Related Papers
-- [[drug/lim-2020-antithrombotic-gi-endoscopy-korean-guideline]] — Korean perioperative companion (GI).
-- [[drug/lu-2018-warfarin-antiplatelet-dental-extraction-management]] — dental extraction with same drug classes.
-- [[drug/uspstf-2022-aspirin-cardiovascular-disease-prevention]] — primary prevention (different population).
-- [[drug/inchingolo-2024-anticoagulation-therapy-dental-practice-sr]] — dental anticoagulation SR.
-- [[drug/shah-2022-perioperative-antiplatelet-therapy-sr-ma]] — perioperative APT.
+- [[drug/anticoagulants/lim-2020-antithrombotic-gi-endoscopy-korean-guideline]] — Korean perioperative companion (GI).
+- [[drug/anticoagulants/lu-2018-warfarin-antiplatelet-dental-extraction-management]] — dental extraction with same drug classes.
+- [[drug/anticoagulants/uspstf-2022-aspirin-cardiovascular-disease-prevention]] — primary prevention (different population).
+- [[drug/anticoagulants/inchingolo-2024-anticoagulation-therapy-dental-practice-sr]] — dental anticoagulation SR.
+- [[drug/anticoagulants/shah-2022-perioperative-antiplatelet-therapy-sr-ma]] — perioperative APT.

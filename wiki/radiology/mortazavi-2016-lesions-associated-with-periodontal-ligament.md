@@ -6,7 +6,7 @@ date: 2016-12-01
 doi: "10.5624/isd.2016.46.4.229"
 source: mortazavi-2016-lesions-associated-with-periodontal-ligament.md
 category: radiology
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/mortazavi-2016-lesions-associated-with-periodontal-ligament.pdf
 pdf_filename: mortazavi-2016-lesions-associated-with-periodontal-ligament.pdf
 source_collection: external

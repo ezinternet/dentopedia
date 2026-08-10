@@ -6,7 +6,7 @@ date: 2021-12-01
 doi: 10.1016/j.jebdp.2021.101644
 source: schmutzler-2021-cleaning-removable-dental-prostheses-sr.md
 category: [complete-denture]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/schmutzler-2021-cleaning-removable-dental-prostheses-sr.pdf
 pdf_filename: schmutzler-2021-cleaning-removable-dental-prostheses-sr.pdf
 source_collection: external

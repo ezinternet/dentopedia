@@ -6,7 +6,7 @@ date: 2003-12-01
 doi: unknown
 journal: Journal of the Canadian Dental Association 69(11):726-731
 source: tay-2003-dentin-adhesives-hydrophilic.md
-confidence: narrative-review
+evidence_level: narrative-review
 category: [resin-bonding]
 pdf_path: /Users/oracleneo/llm-wiki/papers/tay-2003-dentin-adhesives-hydrophilic.pdf
 pdf_filename: tay-2003-dentin-adhesives-hydrophilic.pdf

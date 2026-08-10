@@ -6,7 +6,7 @@ date: 1999-05-21
 doi: 10.1126/science.284.5418.1318
 source: costerton-1999-bacterial-biofilms-persistent-infections.md
 category: [oral-microbiology]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/costerton-1999-bacterial-biofilms-persistent-infections.pdf
 pdf_filename: costerton-1999-bacterial-biofilms-persistent-infections.pdf
 source_collection: external

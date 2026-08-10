@@ -6,7 +6,7 @@ date: 2006-05-10
 doi: 10.1093/ejo/cjl001
 source: murray-2006-tissue-cellular-molecular-orthodontic-100years.md
 category: [orthodontics]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/murray-2006-tissue-cellular-molecular-orthodontic-100years.pdf
 pdf_filename: murray-2006-tissue-cellular-molecular-orthodontic-100years.pdf
 source_collection: external

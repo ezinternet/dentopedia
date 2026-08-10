@@ -45,9 +45,9 @@ Pooled implant survival ~97–98%, comparable to delayed protocols. Heterogeneit
 Heterogeneity in implant systems and surgical protocols. Limited long-term (>5 yr) data.
 
 ## 6. Related Work
-- [[immediate-implant/smith-2013-classification-molar-extraction-immediate-implant]]
-- [[immediate-implant/pavlovic-2022-interradicular-septum-morphology-molar-iip]]
-- [[immediate-implant/milenkovic-2022-interradicular-septum-classification-iip]]
+- [[immediate-implant/molar-septum/smith-2013-classification-molar-extraction-immediate-implant]]
+- [[immediate-implant/molar-septum/pavlovic-2022-interradicular-septum-morphology-molar-iip]]
+- [[immediate-implant/molar-septum/milenkovic-2022-interradicular-septum-classification-iip]]
 - [[immediate-implant/deporter-2021-cbct-immediate-maxillary-molar-implant-planning]]
 
 ## 7. Glossary

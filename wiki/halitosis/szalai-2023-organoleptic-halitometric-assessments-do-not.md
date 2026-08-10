@@ -6,7 +6,7 @@ date: 2023-09-01
 doi: 10.1016/j.jebdp.2023.101862
 source: szalai-2023-organoleptic-halitometric-assessments-do-not.md
 category: [halitosis]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/szalai-2023-organoleptic-halitometric-assessments-do-not.pdf
 pdf_filename: szalai-2023-organoleptic-halitometric-assessments-do-not.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1016/j.prosdent.2025.xx.xxx
 journal: Journal of Prosthetic Dentistry (online ahead of print)
 source: ji-2025-socket-shield-conventional-network-ma.md
-confidence: sr+ma
+evidence_level: sr+ma
 category: [immediate-implant/socket-shield]
 pdf_path: /Users/oracleneo/llm-wiki/papers/ji-2025-socket-shield-conventional-network-ma.pdf
 pdf_filename: ji-2025-socket-shield-conventional-network-ma.pdf
@@ -54,9 +54,9 @@ SST 분야의 첫 본격 network MA. 기존 pairwise MA (Lin 2022, Gharpure 2022
 - 합병증 패턴 (Blaschke 2020·Velasco 2021)도 동시 평가
 
 ## Strengths and Caveats
-[근거강함] Network MA는 분야 최고 evidence-level
-[합의수준] SST esthetic 우월 신호는 pairwise MA와 일관
-[claude해석] NMA의 transitivity 가정 위반 시 결과 왜곡 — 본문 sensitivity analysis 검토 필요
+[확인] Network MA는 분야 최고 evidence-level
+[확인] SST esthetic 우월 신호는 pairwise MA와 일관
+[미검증] NMA의 transitivity 가정 위반 시 결과 왜곡 — 본문 sensitivity analysis 검토 필요
 [미검증] 2025 online ahead of print — 최종 publication 후 변경 가능
 
 ## Related Papers

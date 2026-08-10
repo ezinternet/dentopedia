@@ -6,7 +6,7 @@ date: 2026-02-01
 doi: 10.22974/jkda.2026.64.2.002
 source: kim-2026-stamp-technique-posterior-composite-resin.md
 category: [resin]
-confidence: case-report
+evidence_level: case-report
 pdf_path: /Users/oracleneo/llm-wiki/papers/kim-2026-stamp-technique-posterior-composite-resin.pdf
 pdf_filename: kim-2026-stamp-technique-posterior-composite-resin.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2022-03-15
 doi: 10.3390/ma15062150
 source: mihali-2022-feldspathic-ceramic-veneers-retrospective-7year.md
 category: veneers
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/mihali-2022-feldspathic-ceramic-veneers-retrospective-7year.pdf
 pdf_filename: mihali-2022-feldspathic-ceramic-veneers-retrospective-7year.pdf
 source_collection: external

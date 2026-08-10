@@ -34,7 +34,7 @@ SR+MA (Medicina 2022, Malmö Univ): 흡연 + 임플란트
 SR+MA per PRISMA on smoking and implant outcomes (survival + MBL).
 
 ## 4. Key Results
-[근거강함] Smokers: higher implant failure rate, more MBL vs non-smokers.
+[확인] Smokers: higher implant failure rate, more MBL vs non-smokers.
 
 ## 5. Limitations
 - Observational base

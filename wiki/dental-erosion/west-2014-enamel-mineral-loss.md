@@ -6,7 +6,7 @@ date: 2014-06-01
 doi: "10.1016/S0300-5712(14)50002-4"
 source: west-2014-enamel-mineral-loss.md
 category: [dental-erosion]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/west-2014-enamel-mineral-loss.pdf
 pdf_filename: west-2014-enamel-mineral-loss.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2018-01-01
 doi: 10.17219/dmp/90729
 source: el-mowafy-2018-glass-ceramic-veneer-materials-narrative-review.md
 category: [veneers]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/el-mowafy-2018-glass-ceramic-veneer-materials-narrative-review.pdf
 pdf_filename: el-mowafy-2018-glass-ceramic-veneer-materials-narrative-review.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2020-02-08
 doi: 10.1155/2020/5824369
 source: dioguardi-2020-management-instrument-sterilization-workflow-endodontics.md
 category: [infection-control]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 pmid: "32148504"
 pmcid: "PMC7035513"

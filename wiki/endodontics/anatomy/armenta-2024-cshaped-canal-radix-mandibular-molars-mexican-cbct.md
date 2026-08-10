@@ -6,7 +6,7 @@ date: 2024-07-10
 doi: 10.3390/dj12070212
 source: armenta-2024-cshaped-canal-radix-mandibular-molars-mexican-cbct.md
 category: [endodontics/anatomy]
-confidence: cross-sectional
+evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/armenta-2024-cshaped-canal-radix-mandibular-molars-mexican-cbct.pdf
 pdf_filename: armenta-2024-cshaped-canal-radix-mandibular-molars-mexican-cbct.pdf
 source_collection: external

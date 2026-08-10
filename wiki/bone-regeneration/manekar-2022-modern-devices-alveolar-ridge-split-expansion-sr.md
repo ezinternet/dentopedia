@@ -6,7 +6,7 @@ date: 2022-07-22
 doi: 10.4103/njms.njms_423_21
 source: manekar-2022-modern-devices-alveolar-ridge-split-expansion-sr.md
 category: [bone-regeneration]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "38273919"
@@ -83,4 +83,4 @@ The clinical bottom line is a device-to-biology mapping: **USG is the precise os
 - [[bone-regeneration/ayoub-2018-ridge-splitting-horizontal-augmentation-case]] — extends: scales the single-case horizontal ridge-split augmentation rationale to a pooled 24-study, 1287-implant device-comparison evidence base.
 - [[bone-regeneration/simion-1992-jawbone-enlargement-split-crest-gtr]] — the chisel split-crest + GTR origin technique that this SR cites as the ARSE foundation; quantifies the modern-device successors.
 - [[bone-regeneration/enislidis-2006-staged-ridge-splitting-implant-mandible]] — staged mandibular ridge split with deliberate buccal corticotomy; conceptually the osteo-mobilization (OM) family that this SR maps to USG.
-- [[implants/chen-2022-reverse-drilling-technique-alveolar-ridge-expansion]] — related motorized/drill-based ridge-expansion approach (osteo-condensation family).
+- [[implants/osteotomy-thermal/chen-2022-reverse-drilling-technique-alveolar-ridge-expansion]] — related motorized/drill-based ridge-expansion approach (osteo-condensation family).

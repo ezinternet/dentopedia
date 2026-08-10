@@ -6,7 +6,7 @@ date: 2019-03-07
 doi: 10.3390/ma12050790
 source: carrilho-2019-mdp-adhesive-interface-stability-sr.md
 category: [resin-bonding]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "30866488"

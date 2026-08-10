@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1186/s40729-025-00639-1
 source: ogawa-2025-3d-theory-osseointegration-material-topography.md
 category: [implants/surface]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/ogawa-2025-3d-theory-osseointegration-material-topography.pdf
 pdf_filename: ogawa-2025-3d-theory-osseointegration-material-topography.pdf
 source_collection: external

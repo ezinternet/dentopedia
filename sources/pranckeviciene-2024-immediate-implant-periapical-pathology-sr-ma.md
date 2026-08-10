@@ -48,7 +48,7 @@ PRISMA. PubMed/Cochrane/Embase etc. Risk of bias assessed. Random-effects meta-a
 만성 치근단 병변이라도 atraumatic 발치 + curettage + 항생제 prophylaxis 동반 시 즉시식립 적응증 가능. 단, acute 감염·purulent exudate·sinus 천공은 금기. 본 SR이 'periapical pathology = 절대 금기'라는 통념을 완화.
 
 ## 6. Related Work
-- [[immediate-implant/colak-2023-immediate-implant-periapical-pathology-retrospective]] — 감염치 IIP retrospective
+- [[immediate-implant/infected-socket/colak-2023-immediate-implant-periapical-pathology-retrospective]] — 감염치 IIP retrospective
 - [[immediate-implant/esthetic-soft-tissue/hamilton-2023-type1a-immediate-implant-immediate-loading-esthetic-sr-ma]] — endodontic infection이 selection criteria에 미치는 영향
 
 ## 7. Limitations and Future Work

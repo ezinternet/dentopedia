@@ -6,7 +6,7 @@ date: 2021-02-19
 doi: 10.1111/odi.13810
 source: aguirre-urizar-2021-leukoplakia-malignant-transformation-sr-ma.md
 category: [oral-medicine/opmd]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/aguirre-urizar-2021-leukoplakia-malignant-transformation-sr-ma.pdf
 pdf_filename: aguirre-urizar-2021-leukoplakia-malignant-transformation-sr-ma.pdf
 source_collection: external

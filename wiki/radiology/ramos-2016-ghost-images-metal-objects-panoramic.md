@@ -6,7 +6,7 @@ date: 2016-03-01
 doi: 10.5624/isd.2016.46.1.63
 source: ramos-2016-ghost-images-metal-objects-panoramic.md
 category: [radiology]
-confidence: case-report
+evidence_level: case-report
 pdf_path: /Users/oracleneo/llm-wiki/papers/ramos-2016-ghost-images-metal-objects-panoramic.pdf
 pdf_filename: ramos-2016-ghost-images-metal-objects-panoramic.pdf
 source_collection: external

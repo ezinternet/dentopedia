@@ -6,7 +6,7 @@ date: 2026-05-29
 doi: N/A
 source: N/A
 category: overviews
-confidence: synthesis
+evidence_level: synthesis
 pdf_path: N/A
 pdf_filename: N/A
 source_collection: synthesis
@@ -46,25 +46,25 @@ graft 미세변수는 대체로 등가: 막 단층 vs 이중층 골 보존 차�
 ## Summary
 이 페이지는 Jung-Chul Park(박정철) 그룹이 변수를 하나씩 분리해 검증한 open-healing ARP 연작(봉합·막 층수·graft 압축력)을, 더 넓은 ARP 효능·비판·부위 근거와 엮어 "무엇이 결과를 좌우하는가"로 재정렬한다. Open-healing은 발치와에 graft + 흡수성 막을 넣되 1차 봉합 없이 막을 의도적으로 노출시켜 치유시키는 최소침습 접근이다.
 
-전 근거 in-vitro 아님, 임상 연구지만 대부분 소규모 RCT/전향 연구이고 환자중심결과(PROM)가 비어 있다. 따라서 결론 방향은 [합의수준], 개별 임상 외삽은 [claude해석]로 둔다.
+전 근거 in-vitro 아님, 임상 연구지만 대부분 소규모 RCT/전향 연구이고 환자중심결과(PROM)가 비어 있다. 따라서 결론 방향은 [확인], 개별 임상 외삽은 [미검증]로 둔다.
 
 ## Results
 
 ### 축 1 — 술기가 실제로 움직이는 것은 골이 아니라 연조직(KT)
 무판막(flapless)·개방치유가 ARP의 연조직 lever다. Lee 2018(SR+MA, 11편)에서 판막거상 vs 무판막은 골 폭·높이 차이가 없었고(NS), 결정적 차이는 각화치은(keratinized gingiva width, KGW) — 판막거상이 무판막보다 평균 3.21 mm 더 소실(WMD −3.21, 95% CI −4.10~−2.33, p<0.00001). 즉 골 치수는 거의 동일하니 연조직 보존이 술식 선택의 기준이 된다.
 
-같은 방향의 술기 근거가 셋 더 쌓인다. Park 2016(RCT, n=14)에서 hidden X suture는 기존 X suture 대비 협측 KT를 유의하게 더 보존했고, 점막치은경계(MGJ)를 설측으로 끌지 않았다(X suture −1.56 mm vs hidden X +0.25 mm). Barboza 2014(RCT)는 의도적으로 노출시킨 d-PTFE 막 자체가 KT를 +6.6~7.1 mm 증가(대조군 +1.4~2.5 mm)시켜, 노출막을 KT 증대 도구로 재해석했다. Ionescu 2022(전향, n=104·135발치)는 무판막 개방치유(DBBM+노출 콜라겐막)로 5년 임플란트 생존 98.5%·성공 94.8%, CBCT 3D 치조제 보존을 입증해 개방치유 프로토콜 자체의 임상 타당성을 뒷받침했다. [합의수준]
+같은 방향의 술기 근거가 셋 더 쌓인다. Park 2016(RCT, n=14)에서 hidden X suture는 기존 X suture 대비 협측 KT를 유의하게 더 보존했고, 점막치은경계(MGJ)를 설측으로 끌지 않았다(X suture −1.56 mm vs hidden X +0.25 mm). Barboza 2014(RCT)는 의도적으로 노출시킨 d-PTFE 막 자체가 KT를 +6.6~7.1 mm 증가(대조군 +1.4~2.5 mm)시켜, 노출막을 KT 증대 도구로 재해석했다. Ionescu 2022(전향, n=104·135발치)는 무판막 개방치유(DBBM+노출 콜라겐막)로 5년 임플란트 생존 98.5%·성공 94.8%, CBCT 3D 치조제 보존을 입증해 개방치유 프로토콜 자체의 임상 타당성을 뒷받침했다. [확인]
 
 ### 축 2 — Graft-side 미세 변수는 대체로 등가, 압축력 신호는 불일치
 막 층수는 무의미했다. Choi 2017(무작위 파일럿, n=11 대구치)에서 콜라겐 막 단층(SL) vs 이중층(DL)은 수평·수직 보존과 치유에서 차이 없음(폭 감소 SL −1.7 vs DL −1.8 mm) — 둘 다 적합.
 
-Graft 압축력은 신호가 갈린다. Cho 2017(RCT, 완료 20)은 더 큰 압축력이 치조제 보존은 동등하게 유지하면서 신생골 형성 비율을 유의하게 높였다(P<0.05). 그러나 같은 그룹의 후속 Lee 2020(RCT, 완료 12)은 대구치에서 DBBM에 5 N vs 30 N을 가했을 때 신생골·ISQ·임플란트 주위 골수준 모두 차이 없었고(P>0.05), 잔존 graft 입자 크기만 달랐다. 두 결과의 충돌은 재료(일반 graft vs 입자형 DBBM)·부위(전방 포함 vs 대구치)·압축력 조작(test/control vs 5/30 N 정량)의 차이로 설명 가능 — "압축력↑ → 신생골↑"은 보편 법칙이 아니라 특정 조건부 신호다. [claude해석]
+Graft 압축력은 신호가 갈린다. Cho 2017(RCT, 완료 20)은 더 큰 압축력이 치조제 보존은 동등하게 유지하면서 신생골 형성 비율을 유의하게 높였다(P<0.05). 그러나 같은 그룹의 후속 Lee 2020(RCT, 완료 12)은 대구치에서 DBBM에 5 N vs 30 N을 가했을 때 신생골·ISQ·임플란트 주위 골수준 모두 차이 없었고(P>0.05), 잔존 graft 입자 크기만 달랐다. 두 결과의 충돌은 재료(일반 graft vs 입자형 DBBM)·부위(전방 포함 vs 대구치)·압축력 조작(test/control vs 5/30 N 정량)의 차이로 설명 가능 — "압축력↑ → 신생골↑"은 보편 법칙이 아니라 특정 조건부 신호다. [미검증]
 
 ### 축 3 — 부위·해부가 결과의 상한을 정한다
-Arroteia 2025(후방부 4군 RCT, n=22/군)에서 graft(±티타늄 막)는 수직 보존을 개선했지만 수평 소실은 전 군에서 유의하게 발생했다 — 후방 발치와에서 협측판 흡수는 술기로 완전히 막지 못한다. Avila-Ortiz 2019(SR+MA, 22 RCT, 9 modality)는 대부분 modality가 자연치유 대비 치수 소실을 줄이지만 단일 우월 modality는 없고 PROM 비교는 불가능하다고 결론 — modality 미세 선택보다 "ARP를 하느냐"가 1차 변수임을 시사. [근거강함](SR+MA)
+Arroteia 2025(후방부 4군 RCT, n=22/군)에서 graft(±티타늄 막)는 수직 보존을 개선했지만 수평 소실은 전 군에서 유의하게 발생했다 — 후방 발치와에서 협측판 흡수는 술기로 완전히 막지 못한다. Avila-Ortiz 2019(SR+MA, 22 RCT, 9 modality)는 대부분 modality가 자연치유 대비 치수 소실을 줄이지만 단일 우월 modality는 없고 PROM 비교는 불가능하다고 결론 — modality 미세 선택보다 "ARP를 하느냐"가 1차 변수임을 시사. [확인](SR+MA)
 
 ### 축 4 — "통계적 치수 보존 ≠ 환자 이득"
-Adams 2022(BDJ, narrative review + 2 증례)는 수정주의적 균형추다. 5~13년 후 xenograft가 섬유 포함·만성 감염·peri-implantitis 양상으로 실패한 자가 진료 증례를 제시하며, 통계적 dimensional preservation이 장기 환자 이득으로 자동 환원되지 않는다고 경고한다. 근거 등급은 낮지만(증례) Atieh Cochrane의 "very low certainty"와 결이 맞아 적응증 축소의 논거로 인용 가치가 있다. [claude해석]
+Adams 2022(BDJ, narrative review + 2 증례)는 수정주의적 균형추다. 5~13년 후 xenograft가 섬유 포함·만성 감염·peri-implantitis 양상으로 실패한 자가 진료 증례를 제시하며, 통계적 dimensional preservation이 장기 환자 이득으로 자동 환원되지 않는다고 경고한다. 근거 등급은 낮지만(증례) Atieh Cochrane의 "very low certainty"와 결이 맞아 적응증 축소의 논거로 인용 가치가 있다. [미검증]
 
 ## 임상 의사결정 ladder (open-healing ARP)
 

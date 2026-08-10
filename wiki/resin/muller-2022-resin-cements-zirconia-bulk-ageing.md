@@ -6,7 +6,7 @@ date: 2022-03-16
 doi: "10.3390/ma15062186"
 source: muller-2022-resin-cements-zirconia-bulk-ageing.md
 category: resin
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/muller-2022-resin-cements-zirconia-bulk-ageing.pdf
 pdf_filename: muller-2022-resin-cements-zirconia-bulk-ageing.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2025-05-09
 doi: 10.1016/j.identj.2025.04.004
 source: wang-2025-mucoperiosteal-flap-healing-vertical-bone-titanium-mesh.md
 category: [implants/vertical-ridge-augmentation]
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/wang-2025-mucoperiosteal-flap-healing-vertical-bone-titanium-mesh.pdf
 pdf_filename: wang-2025-mucoperiosteal-flap-healing-vertical-bone-titanium-mesh.pdf
 source_collection: external

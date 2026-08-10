@@ -6,7 +6,7 @@ date: 2026-07-01
 doi: N/A
 source: N/A
 category: overviews
-confidence: synthesis
+evidence_level: synthesis
 pdf_path: N/A
 pdf_filename: N/A
 source_collection: synthesis
@@ -54,21 +54,21 @@ Four clinical questions organize the evidence. **(1) Are ultrathin occlusal vene
 
 **핵심 명제 (Evidence Propositions)**
 
-1. **Ultrathin (0.5 mm) occlusal veneers withstand physiologic posterior loads across every CAD/CAM material class.** Al-Akhali et al. (2017), an in-vitro study of 64 premolars with enamel-only 0.5 mm fissure / 0.8 mm cusp preparations, recorded 100% survival after 1.2 million cycles at 98 N for lithium disilicate (e.max CAD), ZLS (Suprinity), PICN (Enamic), and PMMA (Telio) — establishing that the *minimally invasive* geometry itself is not the weak link. [근거강함 — in-vitro]
+1. **Ultrathin (0.5 mm) occlusal veneers withstand physiologic posterior loads across every CAD/CAM material class.** Al-Akhali et al. (2017), an in-vitro study of 64 premolars with enamel-only 0.5 mm fissure / 0.8 mm cusp preparations, recorded 100% survival after 1.2 million cycles at 98 N for lithium disilicate (e.max CAD), ZLS (Suprinity), PICN (Enamic), and PMMA (Telio) — establishing that the *minimally invasive* geometry itself is not the weak link. [확인 — in-vitro]
 
-2. **Ceramic outperforms polymer on static fracture, but material type is non-significant for clinical survival.** Al-Akhali et al. (2017) found LD > PICN and LD > PMMA (P ≤ 0.015), yet the two clinical studies show no material effect on survival: Schlichting et al. (2022) RCT reported 3-year Kaplan-Meier survival of ceramic 100% vs composite 84.7% (P = .124, NS), and Ferrando-Cascales et al. (2023) found ceramic 93.1% vs composite 86.3% (p = 0.107, NS). Maldonado et al. (2024) concurred that fracture resistance is comparable between CAD/CAM composite and LD. [근거강함 — RCT + 후향 + SR 수렴]
+2. **Ceramic outperforms polymer on static fracture, but material type is non-significant for clinical survival.** Al-Akhali et al. (2017) found LD > PICN and LD > PMMA (P ≤ 0.015), yet the two clinical studies show no material effect on survival: Schlichting et al. (2022) RCT reported 3-year Kaplan-Meier survival of ceramic 100% vs composite 84.7% (P = .124, NS), and Ferrando-Cascales et al. (2023) found ceramic 93.1% vs composite 86.3% (p = 0.107, NS). Maldonado et al. (2024) concurred that fracture resistance is comparable between CAD/CAM composite and LD. [확인 — RCT + 후향 + SR 수렴]
 
 3. **The minimum-thickness threshold is unsettled between 0.5 and 1.0 mm and depends on substrate.** Sasse et al. (2015) found only the 0.7/1.0 mm group survived undamaged (100%), while thin 0.3/0.6 mm enamel-only fell to 12.5% survival — arguing a 0.7/1.0 mm minimum. Essam et al. (2023) validated 0.5 mm LD (fracture loads 962–1277 N with APF/HF/Monobond) as sufficient for molar forces, and Maldonado et al. (2024) recommended composite < 1 mm and LD 0.7–1.5 mm. The safe minimum therefore ranges ~0.5–1.0 mm by material, substrate, and parafunction. [상충 — 미해결]
 
-4. **Bonding to dentin or composite compensates for thin ceramic; enamel-only thin restorations are the failure-prone case.** Sasse et al. (2015) showed dentin- and composite-bonded groups significantly outperformed enamel-only in thin/medium ceramics (p ≤ 0.05; dentin vs composite NS), with thin enamel-only surviving only 12.5% vs ~50% on dentin/composite. This tempers the "bond only to enamel" ideal when preparations are ultra-minimal. [근거강함 — in-vitro]
+4. **Bonding to dentin or composite compensates for thin ceramic; enamel-only thin restorations are the failure-prone case.** Sasse et al. (2015) showed dentin- and composite-bonded groups significantly outperformed enamel-only in thin/medium ceramics (p ≤ 0.05; dentin vs composite NS), with thin enamel-only surviving only 12.5% vs ~50% on dentin/composite. This tempers the "bond only to enamel" ideal when preparations are ultra-minimal. [확인 — in-vitro]
 
-5. **Surface conditioning ranks Monobond etch & prime ≥ HF ≫ APF, and APF is contraindicated at 0.5 mm in parafunction.** Essam et al. (2023) recorded fracture loads at 0.5 mm of Monobond 1277 N > HF 1166 N > APF 962 N (surface-treatment p = 0.002), with HF/Monobond producing Mode I (crack, bond intact) failures and APF producing Mode II (debonding). Monobond etch & prime is thus a biologically safer HF substitute of equal or better performance. Composite restorations are conditioned by airborne-particle abrasion + silane (Schlichting 2022). [근거강함 — in-vitro]
+5. **Surface conditioning ranks Monobond etch & prime ≥ HF ≫ APF, and APF is contraindicated at 0.5 mm in parafunction.** Essam et al. (2023) recorded fracture loads at 0.5 mm of Monobond 1277 N > HF 1166 N > APF 962 N (surface-treatment p = 0.002), with HF/Monobond producing Mode I (crack, bond intact) failures and APF producing Mode II (debonding). Monobond etch & prime is thus a biologically safer HF substitute of equal or better performance. Composite restorations are conditioned by airborne-particle abrasion + silane (Schlichting 2022). [확인 — in-vitro]
 
-6. **Failures are predominantly minor, repairable chipping — the additive philosophy's decisive advantage.** Schlichting et al. (2022) reported zero complete failures; all 5 failures were partial chipping in composite, all restorable. Ferrando-Cascales et al. (2023) had 21/212 complications, of which 18 were minor chipping repaired directly (1 debonding, 1 tooth fracture, 2 secondary caries). [근거강함]
+6. **Failures are predominantly minor, repairable chipping — the additive philosophy's decisive advantage.** Schlichting et al. (2022) reported zero complete failures; all 5 failures were partial chipping in composite, all restorable. Ferrando-Cascales et al. (2023) had 21/212 complications, of which 18 were minor chipping repaired directly (1 debonding, 1 tooth fracture, 2 secondary caries). [확인]
 
 7. **Posterior/occlusal location is the dominant failure predictor — not material, parafunction score, or bite guard.** Ferrando-Cascales et al. (2023), a 5-year full-mouth adhesive rehabilitation series (8 patients, 212 restorations, 90.1% overall survival), found occlusal restorations survived 79.1% vs palatal 100% and vestibular 94.1%; posterior location was the only significant predictor (HR 0.143, 95% CI 0.034–0.601, p = 0.008), while TWES grade, parafunction, and bite guard were NS. [후향 — 소표본]
 
-8. **Laser retrieval is safe for e.max and zirconia but high-risk for highly-condensed lithium silicate.** El-Sheikh et al. (2024) debonded 0.5 mm occlusal veneers with an Er,Cr:YSGG laser in statistically equal time across materials (~87 s, p = 0.995), but e.max and Katana zirconia emerged 100% intact while GC Initial LiSi was 60% damaged (20% cracked, 40% fractured) — a retrieval/reuse caution specific to that crystal architecture. [근거강함 — in-vitro]
+8. **Laser retrieval is safe for e.max and zirconia but high-risk for highly-condensed lithium silicate.** El-Sheikh et al. (2024) debonded 0.5 mm occlusal veneers with an Er,Cr:YSGG laser in statistically equal time across materials (~87 s, p = 0.995), but e.max and Katana zirconia emerged 100% intact while GC Initial LiSi was 60% damaged (20% cracked, 40% fractured) — a retrieval/reuse caution specific to that crystal architecture. [확인 — in-vitro]
 
 ### 임상 결정 지점 (Decision Points)
 

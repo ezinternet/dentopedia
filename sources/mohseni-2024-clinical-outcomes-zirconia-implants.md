@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-지르코니아 임플란트 생존·MBL 근거의 최신(2023 검색) SR+MA. 기존 [[implants/pieralli-2017-clinical-outcomes-zirconia-dental-implants]](2015 검색, 12mo 중심)를 10년 CSR·25편 규모로 확장·갱신하고, PRO 측면 [[behavioral-dentistry/patient-reported-outcomes/arefnia-2025-patient-reported-outcomes-zirconia-implant]]와 짝.
+지르코니아 임플란트 생존·MBL 근거의 최신(2023 검색) SR+MA. 기존 [[implants/surface/pieralli-2017-clinical-outcomes-zirconia-dental-implants]](2015 검색, 12mo 중심)를 10년 CSR·25편 규모로 확장·갱신하고, PRO 측면 [[behavioral-dentistry/patient-reported-outcomes/arefnia-2025-patient-reported-outcomes-zirconia-implant]]와 짝.
 
 ## Three-line Summary
 

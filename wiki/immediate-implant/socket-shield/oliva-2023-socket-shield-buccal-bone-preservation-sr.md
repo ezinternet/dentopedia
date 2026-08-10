@@ -6,7 +6,7 @@ date: 2023-04-01
 doi: 10.5051/jpis.2203780189
 journal: Journal of Periodontal & Implant Science 53(2):99-?
 source: oliva-2023-socket-shield-buccal-bone-preservation-sr.md
-confidence: sr
+evidence_level: sr
 category: [immediate-implant/socket-shield]
 pdf_path: /Users/oracleneo/llm-wiki/papers/oliva-2023-socket-shield-buccal-bone-preservation-sr.pdf
 pdf_filename: oliva-2023-socket-shield-buccal-bone-preservation-sr.pdf
@@ -57,9 +57,9 @@ SST 분야의 핵심 정량 데이터를 제공하는 SR. JPIS 게재로 한국 
 - 단, 17 studies 중 long-term RCT는 7편 — high-quality evidence는 제한
 
 ## Strengths and Caveats
-[근거강함] 17 studies, 656 implants — 분야 강력한 SR
-[합의수준] BBPR·MBL·PES 우월은 Velasco 2021·Lin 2022 등과 일관
-[claude해석] 정량 수치 (BBPR 0.32 vs 1.05) 환자 설명·동의서에 직접 활용 가능
+[확인] 17 studies, 656 implants — 분야 강력한 SR
+[확인] BBPR·MBL·PES 우월은 Velasco 2021·Lin 2022 등과 일관
+[미검증] 정량 수치 (BBPR 0.32 vs 1.05) 환자 설명·동의서에 직접 활용 가능
 [미검증] Long-term (≥5년) outcome은 본 SR도 제한적
 
 ## Related Papers

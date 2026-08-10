@@ -6,7 +6,7 @@ date: 2026-06-15
 doi: 10.7759/cureus.110871
 source: bader-alzamanan-2026-arthrocentesis-iprf-tmd-meta-tsa.md
 category: [tmj]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "42306021"

@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-Adds a cost-aware comparative-efficacy lens to OLP therapy that the efficacy-only Cochrane review [[oral-medicine/lodi-2020-oral-lichen-planus-corticosteroids-cochrane]] omits, and complements [[oral-medicine/srivastava-2022-oral-lichen-planus-diagnosis-management-review]].
+Adds a cost-aware comparative-efficacy lens to OLP therapy that the efficacy-only Cochrane review [[oral-medicine/lichen-planus/lodi-2020-oral-lichen-planus-corticosteroids-cochrane]] omits, and complements [[oral-medicine/lichen-planus/srivastava-2022-oral-lichen-planus-diagnosis-management-review]].
 
 ## Three-line Summary
 

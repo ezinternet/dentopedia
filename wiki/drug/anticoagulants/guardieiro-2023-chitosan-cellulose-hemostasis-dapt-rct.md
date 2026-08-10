@@ -7,7 +7,7 @@ doi: 10.1016/j.jebdp.2023.101863
 journal: J Evid Based Dent Pract 23(3):101863
 source: guardieiro-2023-chitosan-cellulose-hemostasis-dapt-rct.md
 category: [drug/anticoagulants]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/guardieiro-2023-chitosan-cellulose-hemostasis-dapt-rct.pdf
 pdf_filename: guardieiro-2023-chitosan-cellulose-hemostasis-dapt-rct.pdf
 source_collection: external
@@ -39,7 +39,7 @@ Within-person, single-blind randomized study comparing **chitosan-based local he
 Single-blind, within-person randomized; DAPT patients undergoing dental extractions; primary outcome bleeding time, secondary outcome healing.
 
 ## Results
-[근거강함] Chitosan superior to cellulose oxidized gauze in:
+[확인] Chitosan superior to cellulose oxidized gauze in:
 - Bleeding time (significantly shorter)
 - Healing quality
 
@@ -52,8 +52,8 @@ Single-blind, within-person randomized; DAPT patients undergoing dental extracti
 For DAPT patients undergoing extraction without antiplatelet interruption, chitosan-based hemostats (e.g., HemCon, ChitoFlex) are a defensible upgrade over standard Surgicel where available — particularly when DAPT has been kept on board per current SR-level consensus (see related).
 
 ## Related Papers
-- [[drug/lu-2018-warfarin-antiplatelet-dental-extraction-management]] — Taiwan DAPT cohort.
-- [[drug/krishnan-2024-bleeding-uninterrupted-single-dual-antiplatelet]] — India uninterrupted DAPT.
-- [[drug/shah-2022-perioperative-antiplatelet-therapy-sr-ma]] — perioperative APT.
+- [[drug/anticoagulants/lu-2018-warfarin-antiplatelet-dental-extraction-management]] — Taiwan DAPT cohort.
+- [[drug/anticoagulants/krishnan-2024-bleeding-uninterrupted-single-dual-antiplatelet]] — India uninterrupted DAPT.
+- [[drug/anticoagulants/shah-2022-perioperative-antiplatelet-therapy-sr-ma]] — perioperative APT.
 - [[oral-surgery/dinkova-2025-local-hemostasis-oral-surgery-review]] — local hemostasis review.
-- [[drug/inchingolo-2024-anticoagulation-therapy-dental-practice-sr]] — anticoagulation in dentistry SR.
+- [[drug/anticoagulants/inchingolo-2024-anticoagulation-therapy-dental-practice-sr]] — anticoagulation in dentistry SR.

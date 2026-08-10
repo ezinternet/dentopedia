@@ -7,7 +7,7 @@ doi: 10.1038/s41432-025-01152-5
 journal: Evid Based Dent 26:80-82
 source: nassani-2025-immediate-vs-delayed-implant-bony-defect-commentary.md
 category: [immediate-implant/esthetic-soft-tissue]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/nassani-2025-immediate-vs-delayed-implant-bony-defect-commentary.pdf
 pdf_filename: nassani-2025-immediate-vs-delayed-implant-bony-defect-commentary.pdf
 source_collection: external
@@ -48,7 +48,7 @@ Ten-year CBCT and clinical outcomes were acceptable in both groups. The commenta
 UMCG single-center; 10-year follow-up; n=40 patients with failing tooth + buccal bony defect ≥5 mm; randomized; CBCT outcome assessment.
 
 ## Results (Original RCT)
-[근거강함] 10-year outcomes acceptable in both groups; immediate + GBR + delayed provisionalization viable for ≥5 mm buccal defects.
+[확인] 10-year outcomes acceptable in both groups; immediate + GBR + delayed provisionalization viable for ≥5 mm buccal defects.
 
 ## Limitations
 - Original RCT single-center
@@ -62,6 +62,6 @@ For Korean implant practice: in carefully selected aesthetic-zone cases with ≥
 ## Related Papers
 - Meijer et al. JPeriodontol 2025;96:151-163 (original RCT).
 - [[overviews/immediate-implant-conditions]] — immediate implant conditions synthesis.
-- [[immediate-implant/colak-2023-immediate-implant-periapical-pathology-retrospective]] — periapical pathology + immediate.
-- [[immediate-implant/li-2025-immediate-implant-periodontitis-short-term-retrospective]] — periodontitis + immediate.
-- [[immediate-implant/bouffleur-2026-open-vs-closed-healing-immediate-implant-rct]] — open vs closed healing.
+- [[immediate-implant/infected-socket/colak-2023-immediate-implant-periapical-pathology-retrospective]] — periapical pathology + immediate.
+- [[immediate-implant/infected-socket/li-2025-immediate-implant-periodontitis-short-term-retrospective]] — periodontitis + immediate.
+- [[immediate-implant/esthetic-soft-tissue/bouffleur-2026-open-vs-closed-healing-immediate-implant-rct]] — open vs closed healing.

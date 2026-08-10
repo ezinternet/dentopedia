@@ -6,7 +6,7 @@ date: 2024-04-12
 doi: 10.7759/cureus.58128
 source: alam-2024-supracrestal-tissue-attachment-biologic-width.md
 category: [periodontics]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/alam-2024-supracrestal-tissue-attachment-biologic-width.pdf
 pdf_filename: alam-2024-supracrestal-tissue-attachment-biologic-width.pdf
 source_collection: external

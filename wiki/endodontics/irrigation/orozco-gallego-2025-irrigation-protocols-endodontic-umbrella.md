@@ -6,7 +6,7 @@ date: 2025-06-18
 doi: 10.3390/dj13060273
 journal: Dentistry Journal 13(6):273
 source: orozco-gallego-2025-irrigation-protocols-endodontic-umbrella.md
-confidence: sr+ma
+evidence_level: sr+ma
 category: [endodontics/irrigation]
 pdf_path: /Users/oracleneo/llm-wiki/papers/orozco-gallego-2025-irrigation-protocols-endodontic-umbrella.pdf
 pdf_filename: orozco-gallego-2025-irrigation-protocols-endodontic-umbrella.pdf

@@ -6,7 +6,7 @@ date: 2021-04-01
 doi: 10.1016/j.prosdent.2020.02.023
 source: taylor-2021-longevity-complete-dentures-sr-ma.md
 category: [complete-denture]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/taylor-2021-longevity-complete-dentures-sr-ma.pdf
 pdf_filename: taylor-2021-longevity-complete-dentures-sr-ma.pdf
 source_collection: external

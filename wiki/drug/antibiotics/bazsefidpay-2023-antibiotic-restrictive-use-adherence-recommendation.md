@@ -7,7 +7,7 @@ doi: 10.1186/s12903-023-03534-6
 journal: BMC Oral Health 23:818
 source: bazsefidpay-2023-antibiotic-restrictive-use-adherence-recommendation.md
 category: [drug/antibiotics]
-confidence: cross-sectional
+evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/bazsefidpay-2023-antibiotic-restrictive-use-adherence-recommendation.pdf
 pdf_filename: bazsefidpay-2023-antibiotic-restrictive-use-adherence-recommendation.pdf
 source_collection: external
@@ -42,14 +42,14 @@ Swedish Karolinska Institutet observational study assessing adherence to restric
 Adherence audit + complication monitoring within Swedish restrictive prescribing context.
 
 ## Results
-[합의수준] Restrictive prescribing safe; adherence variable across dentists/practices.
+[확인] Restrictive prescribing safe; adherence variable across dentists/practices.
 
 ## Limitations
 - Single country; Sweden has long-established restrictive prescribing culture
 - Observational
 
 ## Related Papers
-- [[drug/sandulescu-2024-antibiotic-prescribing-dental-best-practices-review]] — best practices.
-- [[drug/thompson-2023-dental-antibiotic-stewardship-core-outcome-set]] — stewardship.
-- [[drug/sbricoli-2024-antibiotic-prescribing-habits-dentistry-survey]] — habits.
-- [[drug/sutej-2024-antibiotic-prescribing-trends-dentistry-croatia]] — trends.
+- [[drug/antibiotics/sandulescu-2024-antibiotic-prescribing-dental-best-practices-review]] — best practices.
+- [[drug/antibiotics/thompson-2023-dental-antibiotic-stewardship-core-outcome-set]] — stewardship.
+- [[drug/antibiotics/sbricoli-2024-antibiotic-prescribing-habits-dentistry-survey]] — habits.
+- [[drug/antibiotics/sutej-2024-antibiotic-prescribing-trends-dentistry-croatia]] — trends.

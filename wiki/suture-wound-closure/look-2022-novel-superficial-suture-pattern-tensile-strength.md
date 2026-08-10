@@ -6,7 +6,7 @@ date: 2022-11-01
 doi: 10.1016/j.injury.2022.10.012
 source: look-2022-novel-superficial-suture-pattern-tensile-strength.md
 category: [suture-wound-closure]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/look-2022-novel-superficial-suture-pattern-tensile-strength.pdf
 pdf_filename: look-2022-novel-superficial-suture-pattern-tensile-strength.pdf
 source_collection: external

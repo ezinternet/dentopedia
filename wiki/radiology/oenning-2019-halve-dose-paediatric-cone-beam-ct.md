@@ -6,7 +6,7 @@ date: 2019-03-29
 doi: 10.1038/s41598-019-41949-w
 source: oenning-2019-halve-dose-paediatric-cone-beam-ct.md
 category: [radiology]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/oenning-2019-halve-dose-paediatric-cone-beam-ct.pdf
 pdf_filename: oenning-2019-halve-dose-paediatric-cone-beam-ct.pdf
 source_collection: external

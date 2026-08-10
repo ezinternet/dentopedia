@@ -6,7 +6,7 @@ date: 2022-07-27
 doi: 10.3390/bioengineering9080346
 source: hardan-2022-treatment-tooth-wear-using-direct.md
 category: [prosthetic-materials]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/hardan-2022-treatment-tooth-wear-using-direct.pdf
 pdf_filename: hardan-2022-treatment-tooth-wear-using-direct.pdf
 source_collection: external

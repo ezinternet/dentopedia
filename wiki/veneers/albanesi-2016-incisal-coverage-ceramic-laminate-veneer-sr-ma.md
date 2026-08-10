@@ -6,7 +6,7 @@ date: 2016-09-01
 doi: 10.1016/j.jdent.2016.06.004
 source: albanesi-2016-incisal-coverage-ceramic-laminate-veneer-sr-ma.md
 category: [veneers]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/albanesi-2016-incisal-coverage-ceramic-laminate-veneer-sr-ma.pdf
 pdf_filename: albanesi-2016-incisal-coverage-ceramic-laminate-veneer-sr-ma.pdf
 source_collection: external

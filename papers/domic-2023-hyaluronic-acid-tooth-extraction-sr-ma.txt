@@ -1,0 +1,163 @@
+Title: Hyaluronic acid in tooth extraction: a systematic review and meta-analysis of preclinical and clinical trials
+Authors: Domic D, Bertl K, Lang T, et al.
+Journal: Clinical Oral Investigations, 2023
+PMID: 37963982
+PMCID: PMC10713798
+DOI: 10.1007/s00784-023-05227-4
+Source: PubMed Central (PMC) full text via PubMed MCP get_full_text_article, retrieved 2026-07-12
+
+Abstract
+
+Objectives
+
+To assess whether in animals or patients with >= 1 tooth extracted, hyaluronic acid (HyA) application results in superior healing and/or improved complication management compared to any other treatment or no treatment.
+
+Materials and methods
+
+Three databases were searched until April 2022. The most relevant eligibility criteria were (1) local application of HyA as adjunct to tooth extraction or as treatment of alveolar osteitis, and (2) reporting of clinical, radiographic, histological, or patient-reported data. New bone formation and/or quality were considered main outcome parameters in preclinical studies, while pain, swelling, and trismus were defined as main outcome parameters in clinical studies.
+
+Results
+
+Five preclinical and 22 clinical studies (1062 patients at final evaluation) were included. In preclinical trials, HyA was applied into the extraction socket. Although a positive effect of HyA was seen in all individual studies on bone formation, this effect was not confirmed by meta-analysis. In clinical studies, HyA was applied into the extraction socket or used as spray or mouthwash. HyA application after non-surgical extraction of normally erupted teeth may have a positive effect on soft tissue healing. Based on meta-analyses, HyA application after surgical removal of lower third molars (LM3) resulted in significant reduction in pain perception 7 days postoperatively compared to either no additional wound manipulation or the application of a placebo/carrier. Early post-operative pain, trismus, and extent of swelling were unaffected.
+
+Conclusions
+
+HyA application may have a positive effect in pain reduction after LM3 removal, but not after extraction of normally erupted teeth.
+
+Clinical relevance
+
+HyA application may have a positive effect in pain reduction after surgical LM3 removal, but it does not seem to have any impact on other complications or after extraction of normally erupted teeth. Furthermore, it seems not to reduce post-extraction alveolar ridge modeling, even though preclinical studies show enhanced bone formation.
+
+Full Text
+
+Introduction
+
+Although the healing process following tooth extraction is commonly uneventful, any subsequent pain may compromise patients' well-being, while complications may also occur. For example, surgical extraction of semi-/fully impacted third molars is regularly associated with significant pain, swelling, and trismus, which are aggravated in case of development of alveolar osteitis (AO) -- also called dry socket. AO is considered one of the most frequent complications of tooth extraction occurring in 20 to 35% of the cases of surgical extraction of lower third molars (LM3), and in 1.4 to 5% of (non-surgical) extraction of regularly erupted teeth. Besides such early complications, which negatively affect patients' quality of life, compromised extraction socket healing may also lead to significant hard tissue defects, either at the extraction site or at the neighboring teeth. For example, it has been reported that deep periodontal defects, e.g., probing pocket depths >= 7 mm, at the distal aspect of the second molar occur in almost every fourth patient after extraction of impacted LM3.
+
+To reduce patient morbidity and improve soft and hard tissue healing of extraction sockets, as well as for the treatment of early complications (e.g., AO), various materials and/or surgical techniques have been tested (e.g., application of collagen sponges, gels, blood derivates, various grafting materials). Increasing attention is recently put on hyaluronic acid (HyA), due to its anti-inflammatory and antibacterial properties and its positive effects on soft and hard tissue healing. Specifically, preclinical studies have demonstrated a positive effect, histologically, on the healing of bone and periodontal defects after HyA application. Based on the results of the meta-analyses of a systematic review of clinical trials on surgical extraction of third molars, significantly reduced pain on the third and seventh postoperative day, but not on trismus, was reported in groups receiving HyA-based products. In this context, a comprehensive assessment of the available preclinical and clinical evidence on the effect of HyA application in connection with tooth extraction in general, including the prevalence, extent, and/or management of complications is missing. Therefore, the present systematic review addressed the following PICOS (population, intervention, comparison, outcomes, and study design) question: "In animals/patients having >= 1 tooth extracted, does application of HyA alone or combined with other products/carriers result in superior soft-/hard tissue healing, reduced morbidity, reduced complication rate, and/or improved complication management compared to any other treatment or no treatment?".
+
+Material and methods
+
+Study protocol and study registration
+
+The present work followed available guidelines for performing systematic reviews of preclinical and clinical studies (PRISMA). Both protocols were registered at PROSPERO, i.e., one for the preclinical (CRD42021266190) and one for the clinical trials (CRD42021266183).
+
+Information sources, literature search, and eligibility criteria
+
+The literature search was performed in 3 databases (Ovid (MEDLINE and CENTRAL), EMBASE, and Pubmed) on October 14, 2021, and updated on April 7, 2022. After removing duplicates, titles and abstracts were screened for eligibility by 2 reviewers (DD, TL) and kappa values were calculated. Any ambiguity was resolved with a third author (KB). Studies were included if (a) written in English or German language, (b) full text was available, and (c) clinical, radiographic, or histological data were provided. Additional inclusion criteria for preclinical studies: (a) randomized and non-randomized controlled experiments, (b) local application of a HyA-based product alone or in combination with another product in >= 1 group after extraction of >= 1 tooth. Additional inclusion criteria for clinical studies: (a) RCT, controlled trial (CT), or case series with a minimum of 10 patients, (b) local application of a HyA-based product alone or in combination with another product in >= 1 group either after extraction of >= 1 tooth or as treatment of AO of >= 1 tooth.
+
+Data collection and extraction
+
+Two authors (DD, KB) independently extracted data twice; disagreement resolved with a third author (AS). Extracted preclinical data: first author, publication year, study design, treatment model, treatment site, species, HyA application form, treatment groups, follow-up period, outcome parameters, funding. Extracted clinical data: first author, publication year, study design, patient characteristics (gender, age, health, smoking status), site-specific inclusion criteria, number of sites at baseline/last follow-up, treatment groups, product details, application form, follow-up period, postoperative medication, outcome parameters, clinical setting, funding. HyA product details also summarized: trade name, manufacturer, concentration, chemical form, application form.
+
+Risk of bias assessment
+
+Preclinical trials: SYRCLE's RoB tool (10 criteria, quality score = % positively scored items). RCTs: Cochrane RoB 2.0 tool (6 domains: low/some concerns/high). Non-randomized trials: ROBINS-I tool (8 domains: low/moderate/serious/critical/no information). Assessment by 2 reviewers (DD, KB), consensus with third author (AS) when needed; one author (DD) repeated the assessment.
+
+Synthesis of results and statistical analysis
+
+Preclinical main outcomes: new bone formation and bone volume per tissue volume (BV/TV). Clinical main outcomes: pain, trismus, swelling. Pairwise meta-analysis performed when >= 2 randomized studies with comparable design existed; limited to RCTs. Test groups (HyA) compared to either negative control (no additional treatment) or placebo/carrier control. Restricted maximum likelihood for heterogeneity (tau^2), Knapp-Hartung SE adjustment for small study numbers. Mean difference, SE, 95% CI calculated; split-mouth data treated as dependent (correlation = 0.5). Chi-square test for heterogeneity (p < 0.1 = significant); I^2 test for extent of heterogeneity; 95% prediction interval calculated when >= 3 comparable studies. Analysis: STATA/IC 17.0 for Mac.
+
+Quality of evidence (GRADE)
+
+GRADEpro GDT software used to grade certainty of meta-analytic evidence for both preclinical and clinical trials.
+
+Results
+
+Study selection and characteristics
+
+147 potential references identified; after deduplication, 90 studies screened by title/abstract. 57 removed, 33 for full-text analysis. After excluding 6 more (product type mismatch or incorrect study design), 5 preclinical and 22 clinical studies included. Full-text screening agreement: Cohen's kappa = 1 (100%); final enrollment agreement: kappa = 0.61 (84.9%).
+
+In all preclinical trials, HyA was applied into the tooth socket after extraction of regularly erupted teeth. Clinical trials divided into 3 groups by treatment indication: (1) surgical removal of LM3 (RCT n=10, CT n=1); (2) extraction of regularly erupted teeth (RCT n=7, non-randomized split-mouth n=1, prospective case series n=1); (3) treatment of AO (RCT n=1, prospective case series n=1).
+
+Study population
+
+Preclinical: 2 studies used 5-11 Holtzman or 5-6 Wistar rats; 3 studies used beagle dogs (20 dogs total). Rat studies: HyA applied in healthy or diabetic animal extraction sockets. Dog studies: HyA applied in infected extraction sockets.
+
+Clinical studies: LM3 removal group -- 603 patients at final evaluation, 306 HyA sites, 370 control sites. Regularly erupted teeth extraction group -- 349 patients, 226 HyA sites, 257 control sites. AO treatment group -- 110 patients, 90 HyA sites, 20 control sites. Most patients systemically healthy; one study each on chronic liver disease or diabetic patients; 4 studies did not report health status. Smoking status reported in 12 studies (8 non-smokers only, 2 <=10 cig/day, 2 mixed); 10 studies did not report smoking status.
+
+LM3 studies: teeth asymptomatic, predominantly vertically or half impacted, allowing primary wound closure. Regularly erupted teeth studies: half included only single-rooted teeth, half included molars or any tooth type. AO studies: all tooth types meeting Blum et al. (2002) AO criteria.
+
+Study intervention
+
+Preclinical: HyA applied as gel into extraction socket directly after extraction, alone (n=3) or with absorbable collagen sponge (n=2).
+
+Clinical (n=19 studies): HyA applied as gel intra-operatively or post-operatively into/at extraction site, alone (n=13) or with a carrier (absorbable collagen sponge n=3, leukocyte-/platelet-rich fibrin n=2, bone substitutes n=1). Remaining 3 studies: HyA as spray 3x/day for 1 week (n=2) or mouthwash (n=1).
+
+HyA information
+
+11 commercial, 2 self-made, 2 unknown-origin HyA products used across 5 preclinical + 22 clinical studies. All preclinical studies used gel form. Clinical studies: gel (n=15), spray (n=2), mouthwash (n=1), combined with sponge (n=3) or bone substitute (n=1). Concentration ranged 0.2% (spray) to 2.5% (self-combined sponge); concentration unreported in 5 studies. Chemical form (cross-linked vs non-cross-linked) not reported in 16 studies; 10 studies used non-cross-linked, 1 study combined both.
+
+Clinical setting and funding details
+
+Preclinical trials: funded by independent single or multiple research grants. Clinical: one multicenter study (8 centers), rest single-department university setting. 11 studies did not report funding; 9 studies funded by department (3 of these also received HyA gel from manufacturer); 1 study funded by 3 research foundations.
+
+Reported outcome variables and follow-up
+
+Preclinical: bone formation assessed 14 days to 3 months postop by various methods; 1 study also assessed BMP-2 and osteopontin levels; 4 studies reported no side effects, 1 did not report.
+
+Clinical (LM3 removal): pain (VAS), swelling, trismus most frequently assessed; less frequent: prolonged bleeding, soft tissue dehiscence, mucosal healing speed, AO/wound infection rate, inflammation/oxidative stress/wound healing markers.
+
+Clinical (regularly erupted teeth): 3 studies used socket/soft-tissue healing scores, 3 assessed new bone formation/alveolar dimensional changes, 3 assessed pain, 1 assessed AO rate.
+
+Clinical (AO treatment): both studies focused on pain and adverse reactions.
+
+Most clinical studies reported no side effects; 6 did not mention presence/absence. One study (0.8% HyA gel after LM3 removal) reported significantly prolonged bleeding time vs control, but within physiological hemostasis timeframe -- not considered an adverse event.
+
+Summary of results of individual studies
+
+All preclinical studies: HyA test groups showed significantly better results vs control in >=1 bone-formation parameter (histologic/radiologic/immunohistochemical), independent of socket condition (healthy/infected) or control type.
+
+Clinical LM3 removal: 4/10 studies reporting pain showed significant HyA advantage at >=1 postop timepoint; 4/7 studies on swelling and 3/9 studies on trismus showed significant HyA advantage.
+
+Regularly erupted teeth extraction: 3/4 studies on soft tissue healing showed significantly improved healing with HyA. 1 study reported improved bone formation at 30 days; 1 study reported decreased alveolar-diameter reduction up to 21 days; 2 studies reported no difference or significant disadvantage for HyA on alveolar dimensional changes. Pain reported in 6 studies, only 2 showed significant HyA benefit.
+
+AO treatment: 1 study reported significantly lower postop pain with HyA vs alvogyl; second study had no control group.
+
+Synthesis of results
+
+Preclinical -- BV/TV: 2 studies provided data for BV/TV at 3 months postop (HyA + collagen sponge vs collagen sponge alone). No significant difference overall (effect size 9.57; 95% CI -86.22 to 105.36; p=0.42); significant heterogeneity (I^2=89.89%, p<0.01).
+
+Clinical -- Pain 2-3 days after LM3 removal (4 RCTs): no significant difference (effect size 0.52; 95% CI -0.34 to 1.38; p=0.15); no heterogeneity (I^2=0.00%, p=0.37). Subgroup vs negative control: effect size 0.44 (95% CI -3.24 to 4.12; p=0.37). Subgroup vs placebo/carrier: effect size 0.78 (95% CI -7.67 to 9.24; p=0.45). Neither significant.
+
+Clinical -- Pain 7 days after LM3 removal (5 RCTs): significantly lower pain in HyA group (effect size 0.32; 95% CI 0.12 to 0.51; p=0.01); no heterogeneity (I^2=0.00%, p=0.84). Subgroup vs negative control (3 studies): effect size 0.27 (95% CI -0.05 to 0.60; p=0.07) -- not significant. Subgroup vs placebo/carrier (2 studies): effect size 0.53 (95% CI -0.48 to 1.54; p=0.09) -- not significant.
+
+Clinical -- Swelling 2-3 days after LM3 removal (2 RCTs): no significant difference (effect size -2.08; 95% CI -23.73 to 19.58; p=0.44); significant heterogeneity (I^2=87.94%, p<0.01).
+
+Clinical -- Swelling 7 days after LM3 removal: no significant difference (effect size 1.75; 95% CI -14.38 to 17.89; p=0.40); significant heterogeneity (I^2=66.86%, p=0.08). No subgroup analysis possible (limited studies).
+
+Clinical -- Trismus 2-3 days after LM3 removal (3 RCTs): no significant difference (effect size 1.31; 95% CI -0.65 to 3.26; p=0.10); no heterogeneity (I^2=25.86%, p=0.37). Subgroup vs negative control (2 studies): effect size 1.33 (95% CI -7.25 to 9.91; p=0.30) -- not significant; only 1 study for placebo/carrier subgroup.
+
+Clinical -- Trismus 7 days after LM3 removal (5 RCTs): no significant difference (effect size 1.08; 95% CI -0.97 to 3.12; p=0.22); significant heterogeneity (I^2=55.99%, p=0.07). Subgroup vs negative control (4 studies): effect size 0.51 (95% CI -0.29 to 1.32; p=0.14) -- not significant; only 1 study for placebo/carrier subgroup.
+
+Risk of bias assessment
+
+Preclinical: quality score ranged 20-40%; only baseline characteristics reporting and "other sources of bias" judged low risk across all studies.
+
+RCTs: some concerns (n=13) or low risk (n=5). None deviated from intended intervention. 5 RCTs had some concerns in randomization process; ~half had some concerns in missing outcome data, outcome measurement, and selective reporting. Non-randomized studies: low risk (n=3), some concerns (n=1).
+
+Quality of evidence (GRADE)
+
+Preclinical BV/TV at 3 months: low certainty. Clinical: moderate certainty for pain perception and trismus; low certainty for swelling.
+
+Discussion
+
+HyA has anti-inflammatory, anti-edematous, osteoinductive, and pro-angiogenic properties, thus appears to improve wound healing. This systematic review provides a comprehensive assessment of preclinical and clinical evidence on HyA application with tooth extraction. Overall, HyA application with surgical LM3 removal may have a positive effect on pain reduction during the first postoperative week: meta-analysis of 5 clinical studies showed statistically significant reduced pain perception 7 days postoperatively vs control (no additional wound manipulation or placebo/carrier). HyA did not impact swelling or trismus after LM3 removal, or outcomes after non-surgical extraction of normally erupted teeth.
+
+This positive 7-day pain effect adds to a previous systematic review on the same indication, which found significant pain reduction on both day 3 and day 7 -- the discrepancy at day 3 attributed to 2 additional included studies and exclusion of a non-randomized study that strongly favored HyA in the earlier review. Mechanistically, HyA downregulates production/expression of prostaglandin E, bradykinin, and substance P (all involved in pain transmission), partly explaining pain reduction. However, this anti-inflammatory effect did not translate to reduced swelling/trismus in either this or the earlier review -- results should be interpreted cautiously given small study numbers and lack of standardization in swelling assessment and surgical technique (e.g., surgical difficulty, flap design often unreported).
+
+Lack of significant pain benefit in non-surgical extraction of regularly erupted teeth (4 of 5 studies) may reflect differing healing modes: "closed" healing after surgical LM3 removal vs "open" healing after regular extraction, where lack of primary closure/carrier may cause fast HyA wash-out. Whether a carrier could improve HyA action is unclear (only 1 study tested this, found no difference). Since uncomplicated extraction is generally low-pain, any HyA benefit may be hard to detect. Notably, the one comparative AO-management study found significantly reduced postoperative pain with HyA (no primary closure, no carrier) vs alvogyl.
+
+Some regularly-erupted-teeth studies also assessed soft/hard tissue healing: 3/4 studies found a positive soft-tissue-healing effect with HyA (time-to-closure and/or healing scores). In contrast, 3 comparative studies found intra-/post-operative HyA gel had no positive effect on alveolar dimensional changes at 3-4 month follow-up; in one study, following ridge preservation with collagen-enriched deproteinized bovine bone mineral and collagen matrix socket sealing, HyA gel applied 3x/day for 1 week onto the matrix was associated with significantly MORE horizontal bone loss at the coronal aspect. This apparent contradiction with preclinical findings (where HyA enhanced bone healing in healthy/diabetic rat sockets and in infected dog sockets, alone or with collagen sponge or deproteinized bovine bone mineral) may reflect that both BV/TV meta-analysis studies used a late healing timepoint (3 months) in the dog model, where bone healing is already advanced regardless of treatment. Notably, BV/TV in the HyA group was similar to a comparator group treated with rhBMP-2, a known potent bone-enhancing agent. HyA's positive bone-healing effect has also been shown in other preclinical critical-size-defect models. No study on LM3 removal assessed healing at the distal aspect of the second molar, a site often associated with deep periodontal defects after impacted LM3 extraction.
+
+On alveolar osteitis (AO/dry socket) rate reduction, reporting was too limited to draw conclusions. HyA is generally considered safe with no side effects when applied topically (though it may cause significant adverse events if injected into tissues). Only 1 study reported prolonged bleeding time (within physiological hemostasis, not an adverse event); no other studies reported side effects/complications.
+
+No conclusions can be drawn on optimal HyA formulation (low vs high concentration, non-cross-linked vs cross-linked, gel vs spray) or application mode (with/without carrier, frequency) -- insufficient standardization/reporting across studies.
+
+Overall, only a limited number of well-designed randomized preclinical/clinical trials could be identified and meta-analyzed, resulting in overall low-to-moderate certainty of evidence. Future studies should better standardize HyA product/dosage/application reporting and use longer follow-up. Future updated systematic reviews with more studies should also consider comparing parallel-arm vs split-mouth designs in meta-analysis (not feasible here due to very few split-mouth studies), particularly relevant for pain-perception outcomes.
+
+Conclusion
+
+Intra-surgical application of HyA with surgical LM3 removal resulted in significant reduction in pain perception 7 days postoperatively; early postoperative pain, trismus, and swelling extent were unaffected. HyA application may have a positive effect on soft tissue healing after non-surgical extraction of normally erupted teeth, but does not seem to reduce post-extraction alveolar ridge modeling/dimensional change, even though preclinical evidence indicates HyA may enhance bone formation.
+
+[End of retrieved full text via PubMed MCP / PMC. Reference lists and figures/tables not reproduced in this plain-text extraction.]

@@ -6,7 +6,7 @@ date: 2021-07-14
 doi: 10.3390/ma14143920
 source: comba-2021-chemical-bonding-cubic-zirconia.md
 category: [dental-materials/zirconia]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/comba-2021-chemical-bonding-cubic-zirconia.pdf
 pdf_filename: comba-2021-chemical-bonding-cubic-zirconia.pdf
 source_collection: external
@@ -39,4 +39,4 @@ In vitro investigation of chemical-based bonding techniques on cubic (5Y-PSZ) hi
 ## Related Papers
 - [[dental-materials/zirconia/ban-2023-dental-zirconia-types-development-review]] — 3Y→5Y→6Y zirconia evolution
 - [[dental-materials/zirconia/jo-2018-liners-primers-zirconia-tensile-bond]] — glass-ceramic liners vs MDP
-- [[dental-materials/blatz-2018-resin-bonding-high-strength-ceramics-review]] — CoJet/Rocatec review
+- [[dental-materials/ceramic/blatz-2018-resin-bonding-high-strength-ceramics-review]] — CoJet/Rocatec review

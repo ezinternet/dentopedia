@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-BMS를 말초/중추 신경병성 통증으로 보는 [[oral-medicine/canfora-2025-burning-mouth-syndrome-pathogenesis-review]] 및 [[oral-medicine/jaaskelainen-2018-burning-mouth-syndrome-neuropathic-pain]]의 "탈억제(disinhibition)" 기전을 분자 수준에서 뒷받침하는 기초 substrate. GABA/glycine 억제가 NKCC1/KCC2 음이온 수송체에 의존하는 Cl⁻ 기울기에 좌우된다는 원리는 BMS topical clonazepam(GABA-A 작용제) 반응성과 직접 연결된다.
+BMS를 말초/중추 신경병성 통증으로 보는 [[oral-medicine/burning-mouth-syndrome/canfora-2025-burning-mouth-syndrome-pathogenesis-review]] 및 [[oral-medicine/burning-mouth-syndrome/jaaskelainen-2018-burning-mouth-syndrome-neuropathic-pain]]의 "탈억제(disinhibition)" 기전을 분자 수준에서 뒷받침하는 기초 substrate. GABA/glycine 억제가 NKCC1/KCC2 음이온 수송체에 의존하는 Cl⁻ 기울기에 좌우된다는 원리는 BMS topical clonazepam(GABA-A 작용제) 반응성과 직접 연결된다.
 
 ## Three-line Summary
 

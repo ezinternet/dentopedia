@@ -6,7 +6,7 @@ date: 2017-08-01
 doi: 10.1016/j.jcms.2017.05.005
 source: aricioglu-2017-prf-sinus-membrane-perforation-animal.md
 category: [sinus-lift/lateral]
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/aricioglu-2017-prf-sinus-membrane-perforation-animal.pdf
 pdf_filename: aricioglu-2017-prf-sinus-membrane-perforation-animal.pdf
 source_collection: external

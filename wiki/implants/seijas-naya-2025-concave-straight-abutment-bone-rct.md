@@ -6,7 +6,7 @@ date: 2025-12-30
 doi: 10.1111/clr.70085
 source: seijas-naya-2025-concave-straight-abutment-bone-rct.md
 category: [implants]
-confidence: rct
+evidence_level: rct
 pmid: "41466524"
 pmcid: "PMC13051409"
 source_collection: pubmed-text
@@ -14,7 +14,7 @@ text_path: /Users/oracleneo/llm-wiki/papers/seijas-naya-2025-concave-straight-ab
 text_filename: seijas-naya-2025-concave-straight-abutment-bone-rct.txt
 tags: [abutment-shape, abutment-height, concave-abutment, marginal-bone-loss, bone-remodeling, rct]
 relations:
-  - type: reinforces
+  - type: refines
     target: abutment-emergence-profile-peri-implant-tissue-overview
 ---
 

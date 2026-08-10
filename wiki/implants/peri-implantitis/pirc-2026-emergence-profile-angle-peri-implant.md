@@ -6,7 +6,7 @@ date: 2026-06-01
 doi: 10.1111/jerd.70109
 source: pirc-2026-emergence-profile-angle-peri-implant.md
 category: [implants/peri-implantitis]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/pirc-2026-emergence-profile-angle-peri-implant.pdf
 pdf_filename: pirc-2026-emergence-profile-angle-peri-implant.pdf
 source_collection: external

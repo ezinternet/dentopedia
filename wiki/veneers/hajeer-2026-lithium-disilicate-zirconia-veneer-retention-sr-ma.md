@@ -6,7 +6,7 @@ date: 2026-03-30
 doi: 10.1007/s44445-026-00156-w
 source: hajeer-2026-lithium-disilicate-zirconia-veneer-retention-sr-ma.md
 category: [veneers]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/hajeer-2026-lithium-disilicate-zirconia-veneer-retention-sr-ma.pdf
 pdf_filename: hajeer-2026-lithium-disilicate-zirconia-veneer-retention-sr-ma.pdf
 source_collection: external

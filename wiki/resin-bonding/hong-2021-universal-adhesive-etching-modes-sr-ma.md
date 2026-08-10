@@ -6,11 +6,14 @@ date: 2021-05-01
 doi: 10.21037/apm-21-890
 source: hong-2021-universal-adhesive-etching-modes-sr-ma.md
 category: [resin-bonding]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/hong-2021-universal-adhesive-etching-modes-sr-ma.pdf
 pdf_filename: hong-2021-universal-adhesive-etching-modes-sr-ma.pdf
 source_collection: external
 tags: []
+relations:
+  - type: contradicts
+    target: doshi-2023-universal-adhesive-nccl-strategy-sr-ma
 ---
 
 ## Three-line Summary

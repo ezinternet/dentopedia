@@ -6,7 +6,7 @@ date: 2016-09-01
 doi: 10.1097/MD.0000000000004223
 source: dou-2016-halitosis-helicobacter-pylori-meta-analysis.md
 category: [halitosis]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/dou-2016-halitosis-helicobacter-pylori-meta-analysis.pdf
 pdf_filename: dou-2016-halitosis-helicobacter-pylori-meta-analysis.pdf
 source_collection: external

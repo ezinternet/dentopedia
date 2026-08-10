@@ -6,7 +6,7 @@ date: 2025-04-01
 doi: 10.1016/j.jdent.2025.105648
 source: lee-2025-ai-dentistry-emerging-applications-narrative.md
 category: [digital-workflow]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/lee-2025-ai-dentistry-emerging-applications-narrative.pdf
 pdf_filename: lee-2025-ai-dentistry-emerging-applications-narrative.pdf
 source_collection: external
@@ -57,7 +57,7 @@ Narrative review (Journal of Dentistry April 2025) organising AI applications ar
 - Workflow optimisation
 - Patient-administrative interface improvements
 
-## Clinical Implications [claude해석]
+## Clinical Implications [미검증]
 - The practice-management pillar is the most underleveraged in Korean clinics — most AI conversation focuses on diagnostic AI
 - VR/simulation deployment maturity hinges on hardware cost curves and integrated curriculum design
 - Data privacy under Korean PIPA (개인정보 보호법) requires explicit consent flows for AI training data — implementation gap

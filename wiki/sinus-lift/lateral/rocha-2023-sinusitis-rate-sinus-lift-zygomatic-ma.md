@@ -6,7 +6,7 @@ date: 2023-06-02
 doi: 10.1007/s10006-023-01159-1
 source: rocha-2023-sinusitis-rate-sinus-lift-zygomatic-ma.md
 category: [sinus-lift/lateral]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/rocha-2023-sinusitis-rate-sinus-lift-zygomatic-ma.pdf
 pdf_filename: rocha-2023-sinusitis-rate-sinus-lift-zygomatic-ma.pdf
 source_collection: external

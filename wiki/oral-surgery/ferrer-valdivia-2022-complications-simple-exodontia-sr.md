@@ -6,7 +6,7 @@ date: 2022-12-14
 doi: 10.17219/dmp/144596
 source: ferrer-valdivia-2022-complications-simple-exodontia-sr.md
 category: [oral-surgery]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/ferrer-valdivia-2022-complications-simple-exodontia-sr.pdf
 pdf_filename: ferrer-valdivia-2022-complications-simple-exodontia-sr.pdf
 source_collection: external
@@ -58,6 +58,6 @@ Complication categories:
 Key risk factors: surgeon inexperience, prolonged surgery duration, excessive tissue trauma
 
 ## Related Papers
-- [[oral-surgery/bailey-2020-surgical-techniques-mandibular-wisdom-teeth-sr]] — Cochrane review on surgical third molar techniques and postoperative outcomes
-- [[oral-surgery/camps-font-2024-antibiotic-prophylaxis-dry-socket-nma]] — Antibiotic prophylaxis for dry socket after lower third molar extraction
-- [[oral-surgery/rosa-2024-laser-therapy-dry-socket-sr]] — Laser therapy for dry socket treatment
+- [[oral-surgery/third-molar/bailey-2020-surgical-techniques-mandibular-wisdom-teeth-sr]] — Cochrane review on surgical third molar techniques and postoperative outcomes
+- [[oral-surgery/third-molar/camps-font-2024-antibiotic-prophylaxis-dry-socket-nma]] — Antibiotic prophylaxis for dry socket after lower third molar extraction
+- [[oral-surgery/third-molar/rosa-2024-laser-therapy-dry-socket-sr]] — Laser therapy for dry socket treatment

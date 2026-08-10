@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-[[orofacial-pain/price-2009-chloride-regulation-pain-pathway]]·[[orofacial-pain/wilke-2020-chloride-underrated-ion-nociceptors]]가 정리한 GABA-A 의존 말초 통각 조절을, 신경활성 스테로이드(neurosteroid)라는 내인성 조절자 + T-type Ca²⁺ 통로 축으로 보강하는 동물 실험. 폐경 후 여성에서 호발하는 BMS의 "성호르몬·신경스테로이드 저하" 가설([[oral-medicine/jaaskelainen-2018-burning-mouth-syndrome-neuropathic-pain]])과 분자 접점.
+[[orofacial-pain/price-2009-chloride-regulation-pain-pathway]]·[[orofacial-pain/wilke-2020-chloride-underrated-ion-nociceptors]]가 정리한 GABA-A 의존 말초 통각 조절을, 신경활성 스테로이드(neurosteroid)라는 내인성 조절자 + T-type Ca²⁺ 통로 축으로 보강하는 동물 실험. 폐경 후 여성에서 호발하는 BMS의 "성호르몬·신경스테로이드 저하" 가설([[oral-medicine/burning-mouth-syndrome/jaaskelainen-2018-burning-mouth-syndrome-neuropathic-pain]])과 분자 접점.
 
 ## Three-line Summary
 

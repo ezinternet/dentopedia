@@ -6,7 +6,7 @@ date: 2024-05-01
 doi: 10.1016/j.ijom.2023.11.009
 source: deng-2024-posterior-open-wound-healing-immediate-implant.md
 category: [immediate-implant/esthetic-soft-tissue]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/deng-2024-posterior-open-wound-healing-immediate-implant.pdf
 pdf_filename: deng-2024-posterior-open-wound-healing-immediate-implant.pdf
 source_collection: external
@@ -68,7 +68,7 @@ Note: the available PDF is the ScienceDirect landing page (abstract + section sn
 
 ## Related Papers
 
-- [[immediate-implant/zhou-2024-open-closed-flap-collagen-membrane-immediate-implant]] — also studies open-wound management in IIP (open vs closed flap with collagen membrane); Deng contrasts open-wound *sealing materials* rather than flap design.
+- [[immediate-implant/gap-grafting/zhou-2024-open-closed-flap-collagen-membrane-immediate-implant]] — also studies open-wound management in IIP (open vs closed flap with collagen membrane); Deng contrasts open-wound *sealing materials* rather than flap design.
 - [[immediate-implant/esthetic-soft-tissue/elgendi-2025-peri-implant-soft-tissue-conditioning]] — CAD-CAM socket-sealing abutment as another open-socket sealing/soft-tissue-conditioning approach for posterior immediate implants.
 - [[immediate-implant/araujo-2019-socket-healing-immediate-implant-review]] — biologic basis of socket healing with/without immediate implant placement (cited reference).
 - [[immediate-implant/esthetic-soft-tissue/donker-2025-immediate-implant-provisionalization-digital-workflow-prospective]] — alternative soft-tissue sealing via immediate provisionalization workflow.

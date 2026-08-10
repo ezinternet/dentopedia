@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1016/j.jdent.2025.106071
 source: kumar-2025-nutritional-status-dry-mouth-older-adults.md
 category: [geriatric-dentistry]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/kumar-2025-nutritional-status-dry-mouth-older-adults.pdf
 pdf_filename: kumar-2025-nutritional-status-dry-mouth-older-adults.pdf
 source_collection: external
@@ -41,7 +41,7 @@ SR+MA(14편 — 횡단11·환자대조2·코호트1, 4개 DB 2024년 12월까지
 4개 DB(~2024.12), 14편(횡단11·환자대조2·코호트1). random-effects. PROSPERO.
 
 ## Results
-13/14 연구가 구강건조-영양실조 유의 연관; xerostomia 38%(22-57), malnutrition 55%(34-74), I² 높음 [합의수준]. 진단기준 표준화 필요.
+13/14 연구가 구강건조-영양실조 유의 연관; xerostomia 38%(22-57), malnutrition 55%(34-74), I² 높음 [확인]. 진단기준 표준화 필요.
 
 ## Related Papers
 - [[geriatric-dentistry/dibello-2022-oral-frailty-indicators-adverse-health-outcomes]] — 타액 장애 영역

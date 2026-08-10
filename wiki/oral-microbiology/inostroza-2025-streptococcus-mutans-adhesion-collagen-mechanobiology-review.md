@@ -6,7 +6,7 @@ date: 2025-11-12
 doi: 10.1080/1040841X.2025.2584074
 source: inostroza-2025-streptococcus-mutans-adhesion-collagen-mechanobiology-review.md
 category: [oral-microbiology]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: false
 pmid: "41221851"

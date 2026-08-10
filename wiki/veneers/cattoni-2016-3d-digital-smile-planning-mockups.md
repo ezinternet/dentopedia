@@ -6,7 +6,7 @@ date: 2016-06-01
 doi: 10.1155/2016/6282587
 source: cattoni-2016-3d-digital-smile-planning-mockups.md
 category: [veneers]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/cattoni-2016-3d-digital-smile-planning-mockups.pdf
 pdf_filename: cattoni-2016-3d-digital-smile-planning-mockups.pdf
 source_collection: external

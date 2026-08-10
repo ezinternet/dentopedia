@@ -66,7 +66,7 @@ Clinical implications: low-concentration CHX formulation effective for patients 
 
 ## 6. Related Work
 
-- [[periodontics/james-2017-chlorhexidine-mouthrinse-adjunctive-gingival]] — Cochrane SR+MA; 이 RCT 포함 데이터
+- [[periodontics/oral-hygiene-instruction/james-2017-chlorhexidine-mouthrinse-adjunctive-gingival]] — Cochrane SR+MA; 이 RCT 포함 데이터
 
 ## 7. Glossary
 

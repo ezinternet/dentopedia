@@ -6,7 +6,7 @@ date: 2018-01-01
 doi: 10.1186/s13063-018-2879-x
 source: zhao-2018-transalveolar-osteotome-sinus-floor-rct-protocol.md
 category: [sinus-lift/transcrestal]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/zhao-2018-transalveolar-osteotome-sinus-floor-rct-protocol.pdf
 pdf_filename: zhao-2018-transalveolar-osteotome-sinus-floor-rct-protocol.pdf
 source_collection: external

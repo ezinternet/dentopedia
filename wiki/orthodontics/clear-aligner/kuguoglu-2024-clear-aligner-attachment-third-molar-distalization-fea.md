@@ -6,7 +6,7 @@ date: 2024-11-14
 doi: 10.4041/kjod24.202
 source: kuguoglu-2024-clear-aligner-attachment-third-molar-distalization-fea.md
 category: [orthodontics/clear-aligner]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: true
 pmid: "39849968"

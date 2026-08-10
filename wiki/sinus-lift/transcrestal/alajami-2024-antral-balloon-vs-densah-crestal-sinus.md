@@ -6,7 +6,7 @@ date: 2024-01-01
 doi: 10.1186/s12903-024-04609-8
 source: alajami-2024-antral-balloon-vs-densah-crestal-sinus.md
 category: [sinus-lift/transcrestal]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/alajami-2024-antral-balloon-vs-densah-crestal-sinus.pdf
 pdf_filename: alajami-2024-antral-balloon-vs-densah-crestal-sinus.pdf
 source_collection: external

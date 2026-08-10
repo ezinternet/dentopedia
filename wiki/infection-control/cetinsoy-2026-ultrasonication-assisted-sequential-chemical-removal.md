@@ -6,7 +6,7 @@ date: 2026-04-01
 doi: "10.1111/cid.70131"
 source: cetinsoy-2026-ultrasonication-assisted-sequential-chemical-removal.md
 category: [infection-control]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: false
 pmid: "41800478"

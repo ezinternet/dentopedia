@@ -6,7 +6,7 @@ date: 2024-05-04
 doi: "10.3390/biomimetics9050276"
 source: sulyhan-2024-transcrestal-osseodensification-graft-radiographic-pilot.md
 category: [sinus-lift/transcrestal]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/sulyhan-2024-transcrestal-osseodensification-graft-radiographic-pilot.pdf
 pdf_filename: sulyhan-2024-transcrestal-osseodensification-graft-radiographic-pilot.pdf
 source_collection: external
@@ -51,4 +51,4 @@ Prospective pilot; 13 patients (mean age 54.7 y); posterior maxilla, RBH <8 mm, 
 ## Related Papers
 - [[sinus-lift/transcrestal/starch-jensen-2025-transcrestal-sinus-osseodensification-meta-analysis]] — reinforces; pooled transcrestal OD bone-gain evidence.
 - [[sinus-lift/transcrestal/yousry-2025-ozone-gel-osseodensification-transcrestal-sinus-rct]] — contrasts; grafted OD gain here vs graftless/ozone null dimensional change there.
-- [[implants/marzorati-2026-osseodensification-standard-osteotomy-torque-isq-sr-ma]] — related; OD torque/ISQ effects.
+- [[implants/osseodensification/marzorati-2026-osseodensification-standard-osteotomy-torque-isq-sr-ma]] — related; OD torque/ISQ effects.

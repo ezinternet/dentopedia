@@ -6,7 +6,7 @@ date: 2024-01-06
 doi: 10.3390/jcm13020332
 journal: Journal of Clinical Medicine 13(2):332
 source: nosaka-2024-sinus-elevation-radiopaque-lesions-review.md
-confidence: narrative-review
+evidence_level: narrative-review
 category: [sinus-lift/pseudocyst]
 pdf_path: /Users/oracleneo/llm-wiki/papers/nosaka-2024-sinus-elevation-radiopaque-lesions-review.pdf
 pdf_filename: nosaka-2024-sinus-elevation-radiopaque-lesions-review.pdf
@@ -62,8 +62,8 @@ This serves as the "step zero" diagnostic gate before treatment decisions, with 
 - 한국 임상 적용: 영상 판독 표준·ENT 협진 표준은 한국과 유사
 
 ## Strengths and Caveats
-[합의수준] 일본 임상 표준 review — 한국과 유사
-[claude해석] "Faintly radiopaque"의 정량적 기준은 모호 — 임상가 경험에 의존
+[미검증] 일본 임상 표준에 근거한 review — 한국 임상과의 유사성은 저자가 명시한 바 없는 추정
+[미검증] "Faintly radiopaque"의 정량적 기준은 모호 — 임상가 경험에 의존
 [미검증] Review로 primary data 부재 — RCT·cohort보다 evidence level 낮음
 
 ## Related Papers

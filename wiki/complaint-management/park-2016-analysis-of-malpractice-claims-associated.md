@@ -6,7 +6,7 @@ date: 2016-12-01
 doi: "10.3346/jkms.2016.31.12.1963"
 source: park-2016-analysis-of-malpractice-claims-associated.md
 category: complaint-management
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/park-2016-analysis-of-malpractice-claims-associated.pdf
 pdf_filename: park-2016-analysis-of-malpractice-claims-associated.pdf
 source_collection: external

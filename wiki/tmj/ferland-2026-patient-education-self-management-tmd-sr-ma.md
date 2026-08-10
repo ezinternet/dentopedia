@@ -6,7 +6,7 @@ date: 2026-03-19
 doi: 10.1111/joor.70187
 source: ferland-2026-patient-education-self-management-tmd-sr-ma.md
 category: [tmj]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "41858088"

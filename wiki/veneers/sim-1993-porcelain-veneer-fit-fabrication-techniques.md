@@ -6,7 +6,7 @@ date: 1993-01-01
 doi: N/A
 source: sim-1993-porcelain-veneer-fit-fabrication-techniques.md
 category: [veneers]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/sim-1993-porcelain-veneer-fit-fabrication-techniques.pdf
 pdf_filename: sim-1993-porcelain-veneer-fit-fabrication-techniques.pdf
 source_collection: external

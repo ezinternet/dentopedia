@@ -3,7 +3,7 @@ title: "Implant-Supported Prosthesis Ceramic Material Selection — Survival, Fa
 type: synthesis
 category: [overviews]
 date: 2026-07-03
-confidence: synthesis
+evidence_level: synthesis
 source_papers:
   - wiki/dental-materials/zirconia/le-2023-three-types-all-ceramic-posterior-3year-rct.md
   - wiki/prosthetic-materials/pjetursson-2023-implant-fdp-material-design-outcomes-sr-ma.md

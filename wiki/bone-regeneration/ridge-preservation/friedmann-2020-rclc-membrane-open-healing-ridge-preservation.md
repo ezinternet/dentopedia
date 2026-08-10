@@ -8,7 +8,7 @@ pmid: "33350180"
 pmcid: "PMC7758302"
 source: friedmann-2020-rclc-membrane-open-healing-ridge-preservation.md
 category: [bone-regeneration/ridge-preservation]
-confidence: prospective
+evidence_level: prospective
 text_path: /Users/oracleneo/llm-wiki/papers/friedmann-2020-rclc-membrane-open-healing-ridge-preservation.txt
 text_filename: friedmann-2020-rclc-membrane-open-healing-ridge-preservation.txt
 source_collection: pubmed-text

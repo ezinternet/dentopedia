@@ -6,7 +6,7 @@ date: 2024-01-13
 doi: "10.7759/cureus.52199"
 source: nautiyal-2024-prevalence-keratosis-oral-cavity.md
 category: [oral-medicine/normal-variants]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 full_text: true
 pmid: "38347988"
@@ -18,8 +18,6 @@ tags: [morsicatio-buccarum, cheek-biting, frictional-keratosis, tobacco-pouch-ke
 relations:
   - type: extends
     target: gupta-2023-prevalence-distribution-oral-mucosal-nepal
-  - type: reinforces
-    target: oral-mucosal-normal-variants-prevalence-diagnosis-overview
 ---
 
 ## Three-line Summary

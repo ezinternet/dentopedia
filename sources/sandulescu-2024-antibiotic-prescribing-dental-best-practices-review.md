@@ -41,7 +41,7 @@ stewardship 구현 가이드.
 Narrative review with implementation focus.
 
 ## 4. Key Results
-[합의수준] Best practices covering indication, class, duration, route, integration with electronic prescribing.
+[확인] Best practices covering indication, class, duration, route, integration with electronic prescribing.
 
 ## 5. Limitations
 - Narrative review

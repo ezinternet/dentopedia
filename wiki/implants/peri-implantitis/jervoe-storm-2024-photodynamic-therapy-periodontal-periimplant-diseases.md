@@ -6,7 +6,7 @@ date: 2024-01-01
 doi: 10.1002/14651858.CD011778.pub2
 source: jervoe-storm-2024-photodynamic-therapy-periodontal-periimplant-diseases.md
 category: [implants/peri-implantitis]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/jervoe-storm-2024-photodynamic-therapy-periodontal-periimplant-diseases.pdf
 pdf_filename: jervoe-storm-2024-photodynamic-therapy-periodontal-periimplant-diseases.pdf
 source_collection: external
@@ -43,8 +43,8 @@ Cochrane review로 aPDT 보조요법의 치주·임플란트주위 효과를 GRA
 Cochrane SR — RCT 포함, RoB2·GRADE. (본 페이지는 결과 수치 본문 추가 추출 필요)
 
 ## Results
-aPDT 보조효과는 단기·저certainty 경향으로 알려짐 [claude해석]. 구체적 effect size·certainty 등급은 full-text 결과 섹션 추출로 보강 필요 [미검증].
+aPDT 보조효과는 단기·저certainty 경향으로 알려짐 [미검증]. 구체적 effect size·certainty 등급은 full-text 결과 섹션 추출로 보강 필요 [미검증].
 
 ## Related Papers
-- [[implants/herrera-2023-prevention-treatment-peri-implant-efp]] — 비외과 보조요법 위치
-- [[implants/baima-2022-surface-decontamination-protocols-surgical-periimplantitis]] — 외과 제염과 보조요법 대비
+- [[implants/peri-implantitis/herrera-2023-prevention-treatment-peri-implant-efp]] — 비외과 보조요법 위치
+- [[implants/peri-implantitis/baima-2022-surface-decontamination-protocols-surgical-periimplantitis]] — 외과 제염과 보조요법 대비

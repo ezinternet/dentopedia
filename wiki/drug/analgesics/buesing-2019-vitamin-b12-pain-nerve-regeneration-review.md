@@ -7,7 +7,7 @@ doi: ""
 journal: "Pain Physician 2019;22:E45-E52"
 source: buesing-2019-vitamin-b12-pain-nerve-regeneration-review.md
 category: [drug/analgesics]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/buesing-2019-vitamin-b12-pain-nerve-regeneration-review.pdf
 pdf_filename: buesing-2019-vitamin-b12-pain-nerve-regeneration-review.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2026-04-24
 doi: 10.1111/prd.70047
 source: brunello-2026-nonsurgical-peri-implant-mucositis-sr.md
 category: [implants/peri-implantitis]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: false
 pmid: "42032437"
@@ -71,4 +71,4 @@ This systematic review asked how clinical parameters change in implants affected
 ## Related Papers
 
 - [[implants/peri-implantitis/mauriello-2026-peri-implant-mucositis-adjunctive-narrative-review]] — extends: this SR adds systematic RoB-appraised evidence to the narrative review of adjunctive measures, reinforcing that adjuncts add little over mechanical debridement.
-- [[implants/carra-2023-primordial-primary-prevention-peri-implant-sr-ma]] — complements the prevention-focused SR+MA on the treatment side of peri-implant mucositis.
+- [[implants/peri-implantitis/carra-2023-primordial-primary-prevention-peri-implant-sr-ma]] — complements the prevention-focused SR+MA on the treatment side of peri-implant mucositis.

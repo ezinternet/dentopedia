@@ -6,7 +6,7 @@ date: 2023-07-21
 doi: 10.1038/s41598-023-39089-3
 source: han-2023-software-automated-tooth-preparation-evaluation.md
 category: [digital-workflow]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/han-2023-software-automated-tooth-preparation-evaluation.pdf
 pdf_filename: han-2023-software-automated-tooth-preparation-evaluation.pdf
 source_collection: external

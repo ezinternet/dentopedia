@@ -6,7 +6,7 @@ date: 2024-06-20
 doi: 10.1007/s40265-024-02048-x
 journal: Drugs 2024;84(7):779-809
 source: de-la-torre-canales-2024-botulinum-toxin-a-myogenous.md
-confidence: sr+ma
+evidence_level: sr+ma
 category: botulinum-toxin
 pdf_path: /Users/oracleneo/llm-wiki/papers/de-la-torre-canales-2024-botulinum-toxin-a-myogenous.pdf
 pdf_filename: de-la-torre-canales-2024-botulinum-toxin-a-myogenous.pdf

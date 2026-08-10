@@ -6,7 +6,7 @@ date: 2024-08-01
 doi: 10.25122/jml-2024-0178
 source: khries-2024-identifying-barriers-pediatric-dental-appointments.md
 category: [practice-management]
-confidence: cross-sectional
+evidence_level: cross-sectional
 source_collection: pubmed-text
 full_text: true
 pmid: "39539426"

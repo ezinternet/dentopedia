@@ -6,7 +6,7 @@ date: 2021-01-01
 doi: 10.1002/14651858.CD005620.pub3
 source: worthington-2021-composite-vs-amalgam-cochrane-sr.md
 category: ['resin']
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/worthington-2021-composite-vs-amalgam-cochrane-sr.pdf
 pdf_filename: worthington-2021-composite-vs-amalgam-cochrane-sr.pdf
 source_collection: external

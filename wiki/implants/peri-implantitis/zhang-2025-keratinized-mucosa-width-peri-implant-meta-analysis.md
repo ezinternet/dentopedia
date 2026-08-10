@@ -6,7 +6,7 @@ date: 2025-02-17
 doi: 10.1186/s12903-025-05680-5
 source: zhang-2025-keratinized-mucosa-width-peri-implant-meta-analysis.md
 category: [implants/peri-implantitis]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/zhang-2025-keratinized-mucosa-width-peri-implant-meta-analysis.pdf
 pdf_filename: zhang-2025-keratinized-mucosa-width-peri-implant-meta-analysis.pdf
 source_collection: external

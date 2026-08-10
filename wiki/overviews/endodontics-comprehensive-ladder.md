@@ -6,7 +6,7 @@ date: 2026-05-26
 doi: N/A
 source: N/A
 category: overviews
-confidence: synthesis
+evidence_level: synthesis
 pdf_path: N/A
 pdf_filename: N/A
 source_collection: synthesis
@@ -17,16 +17,16 @@ tags: [endodontics, vital-pulp-therapy, regenerative-endodontics, dpc, pulpotomy
 
 > [!summary] 한국어 핵심요약
 > - 핵심 명제: 근관 의사결정을 4축(생활치수요법(Vital Pulp Therapy, VPT)·재생근관치료(Regenerative Endodontic Procedure, REP)·균열치·유치 치수치료)으로 묶은 21편 결정 사다리, 술기 깊이는 하위 카테고리로 위임.
-> - VPT 1차 재료는 Biodentine 또는 MTA, Ca(OH)₂는 대안적으로만 — Hatipoglu 2025 Bayesian NMR(21 RCT 1733명): Biodentine OR 4.41, MTA OR 3.02 vs Ca(OH)₂. [근거강함]
+> - VPT 1차 재료는 Biodentine 또는 MTA, Ca(OH)₂는 대안적으로만 — Hatipoglu 2025 Bayesian NMR(21 RCT 1733명): Biodentine OR 4.41, MTA OR 3.02 vs Ca(OH)₂. [확인]
 > - "Ca(OH)₂가 표준 1차 약"은 오판 — ESE 2019·AAPD 2024/2025·Hatipoglu 2025 모두 Biodentine·MTA 1차.
 > - AAPD 2025(영구치 VPT 최초 가이드라인): 비가역 치수염도 case 신중 선택 시 VPT(full pulpotomy) 고려 가능.
 > - 유치: MTA pulpotomy 1차 권고(성공 약 93%, Smail-Faugeron 2018 Cochrane), Formocresol(85–92%) 대안 허용.
 > - VPT 사다리: 노출 없는 가역 치수염→IPC, 기계적 노출<1mm+출혈통제→DPC, 우식노출+출혈통제 곤란→partial pulpotomy(Cvek), 성숙치 깊은 노출→full pulpotomy, 실패→통상 근관치료 전환.
-> - REP: 미성숙 비활력 영구치+치근단 치주염에서 apexification보다 1차 — 생존·성공 동등하면서 치근 길이·상아질 벽 두께 보존 우위(Stefanidou·Panda·Meschi SR+MA). [근거강함]
+> - REP: 미성숙 비활력 영구치+치근단 치주염에서 apexification보다 1차 — 생존·성공 동등하면서 치근 길이·상아질 벽 두께 보존 우위(Stefanidou·Panda·Meschi SR+MA). [확인]
 > - REP 프로토콜: NaOCl 1.5% 세정(고농도는 stem cell 손상)+TAP/DAP 최소농도 1mg/mL(착색 방지)+혈전 유도+MTA 차폐, 성공률 85–90%.
 > - "REP 성공률 낮다"는 오판 — SR+MA 다수가 apexification과 동등+치근 형태 우위.
 > - 균열치 사다리: craze line→관찰·교합조정, fractured cusp→수복/onlay, cracked(증상 무)→banding 후 monitoring, cracked+치수증상→근관+crown, split·수직치근파절→발치.
-> - 확신도: VPT·REP = [근거강함], 균열치 = [합의수준](narrative), 나노로봇 등 미래 = [추정](현 임상 적용 없음).
+> - 확신도: VPT·REP = [확인], 균열치 = [확인](narrative), 나노로봇 등 미래 = [미검증](현 임상 적용 없음).
 
 ## Three-line Summary
 
@@ -49,11 +49,11 @@ AAPD 2025가 비가역 치수염에도 VPT 고려를 허용하고, 유치는 MTA
 본 페이지는 wiki/endodontics/ (top-level 7) + wiki/endodontics/regenerative/ (6) + wiki/endodontics/vpt/ (8) = 21 paper의 4-axis spine. Endodontics는 sub-category가 풍부 (anatomy·eal·irrigation) — 본 overview는 결정·치료 ladder 위주, 술기 깊이는 sub-category 페이지로 위임.
 
 핵심 명제 5개:
-1. **DPC·pulpotomy 1차 재료는 Biodentine 또는 MTA. Ca(OH)₂는 대안적으로만** — Hatipoglu 2025 Bayesian NMR (RCT 21편 1733명, Biodentine OR 4.41, MTA OR 3.02 vs Ca(OH)₂), Duncan 2019 ESE position. [근거강함]
-2. **AAPD 2025 — 영구치 비가역 치수염도 VPT 고려 가능. 단 case 신중 선택** — AAPD 2025 guideline (영구치 VPT 최초 가이드라인). [합의수준]
-3. **유치 — MTA pulpotomy 1차 권고 (성공 ~93%). Formocresol 대안 허용** — AAPD 2024 유치 VPT, Smail-Faugeron 2018 Cochrane. [근거강함]
-4. **미성숙 비활력 영구치 — Revitalization (REP) > Apexification — 치근 길이·상아질 벽 두께 보존** — Stefanidou 2024 SR+MA, Panda 2022 SR+MA, Meschi 2023 SR+MA. [근거강함]
-5. **REP 임상 프로토콜 — NaOCl 1.5% 세정 + TAP/DAP 약물 + 혈전 유도 + MTA 차폐. 성공률 85-90%** — Wei 2022 중국 expert consensus, AAE 2021. [합의수준]
+1. **DPC·pulpotomy 1차 재료는 Biodentine 또는 MTA. Ca(OH)₂는 대안적으로만** — Hatipoglu 2025 Bayesian NMR (RCT 21편 1733명, Biodentine OR 4.41, MTA OR 3.02 vs Ca(OH)₂), Duncan 2019 ESE position. [확인]
+2. **AAPD 2025 — 영구치 비가역 치수염도 VPT 고려 가능. 단 case 신중 선택** — AAPD 2025 guideline (영구치 VPT 최초 가이드라인). [확인]
+3. **유치 — MTA pulpotomy 1차 권고 (성공 ~93%). Formocresol 대안 허용** — AAPD 2024 유치 VPT, Smail-Faugeron 2018 Cochrane. [확인]
+4. **미성숙 비활력 영구치 — Revitalization (REP) > Apexification — 치근 길이·상아질 벽 두께 보존** — Stefanidou 2024 SR+MA, Panda 2022 SR+MA, Meschi 2023 SR+MA. [확인]
+5. **REP 임상 프로토콜 — NaOCl 1.5% 세정 + TAP/DAP 약물 + 혈전 유도 + MTA 차폐. 성공률 85-90%** — Wei 2022 중국 expert consensus, AAE 2021. [확인]
 
 ## Results
 
@@ -81,7 +81,7 @@ AAPD 2025가 비가역 치수염에도 VPT 고려를 허용하고, 유치는 MTA
 5. **유치 (primary)** → MTA pulpotomy 1차. Formocresol 대안. Ca(OH)₂ IPC.
 6. **실패·증상 지속** → 통상 근관치료로 전환.
 
-**오판 패턴**: "Ca(OH)₂가 표준 1차 약" — Hatipoglu 2025 NMR + ESE 2019 + AAPD 2024/2025 모두 Biodentine·MTA 1차. Ca(OH)₂는 대안. [근거강함]
+**오판 패턴**: "Ca(OH)₂가 표준 1차 약" — Hatipoglu 2025 NMR + ESE 2019 + AAPD 2024/2025 모두 Biodentine·MTA 1차. Ca(OH)₂는 대안. [확인]
 
 ### 축 2 — Regenerative Endodontics (REP / Revitalization)
 
@@ -105,13 +105,13 @@ AAPD 2025가 비가역 치수염에도 VPT 고려를 허용하고, 유치는 MTA
 6. **성숙치 + 비활력** → 통상 근관치료가 1차. REP는 제한적 적응 (Meschi 2023).
 7. **외상 미성숙 영구치** → REP 또는 MTA 근단 폐쇄 (case-by-case, Zhou 2022).
 
-**오판 패턴**: "REP 성공률 낮다" — Stefanidou 2024 + Panda 2022 + Meschi 2023 SR+MA가 생존·성공 apexification과 동등 + 치근 형태 우위. [근거강함]
+**오판 패턴**: "REP 성공률 낮다" — Stefanidou 2024 + Panda 2022 + Meschi 2023 SR+MA가 생존·성공 apexification과 동등 + 치근 형태 우위. [확인]
 
 ### 축 3 — Cracked Tooth Management
 
 | Spine paper | Evidence | Key finding |
 |---|---|---|
-| [[endodontics/kwak-2024-endodontic-treatment-cracked-tooth-management]] | narrative-review (KDA, 한국어) | Cracked tooth endo 적응증·시점. 불필요한 endo 회피 |
+| [[endodontics/diagnosis/kwak-2024-endodontic-treatment-cracked-tooth-management]] | narrative-review (KDA, 한국어) | Cracked tooth endo 적응증·시점. 불필요한 endo 회피 |
 
 **임상 ladder (cracked tooth)**:
 1. **Craze line (외부만)** → 관찰 + 교합 조정.
@@ -128,7 +128,7 @@ AAPD 2025가 비가역 치수염에도 VPT 고려를 허용하고, 유치는 MTA
 | [[endodontics/irrigation/singh-2026-precision-endodontics-nanorobots-targeted-antimicrobial]] | narrative-review | 나노로봇 — 자기유도 바이오필름 파괴, 광열 항균, 조직재생 (preliminary) |
 | [[endodontics/sarilaksmi-2026-intact-mta-sealer-gutta-percha-surface-modification]] | in-vitro | 첨가제 없는 순수 MTA를 근관 실러로 사용 — 거타퍼차 표면을 플라즈마+CPC로 친수화(접촉각 113°→22°)해 계면 적합. 첨가제 유래 세포독성(축 1의 시판 MTA 실러 우려)을 원천 회피하는 재료공학적 대안 (preliminary) |
 
-**임상 함의** — 미래 가능성. 현 단계 임상 적용 없음. [추정]
+**임상 함의** — 미래 가능성. 현 단계 임상 적용 없음. [미검증]
 
 ## Phase 2 확장 후보 (Stub)
 
@@ -145,10 +145,10 @@ AAPD 2025가 비가역 치수염에도 VPT 고려를 허용하고, 유치는 MTA
 - [[overviews/oral-surgery-decision-ladder]] — Coronectomy (endo와 인접)
 
 확신도 등급:
-- 축 1 VPT = [근거강함] (Hatipoglu 2025 NMR + Cochrane + ESE/AAPD consensus).
-- 축 2 REP = [근거강함] (다수 SR+MA + AAE/Chinese consensus).
-- 축 3 cracked tooth = [합의수준] (narrative review).
-- 축 4 미래 = [추정] (preliminary).
+- 축 1 VPT = [확인] (Hatipoglu 2025 NMR + Cochrane + ESE/AAPD consensus).
+- 축 2 REP = [확인] (다수 SR+MA + AAE/Chinese consensus).
+- 축 3 cracked tooth = [확인] (narrative review).
+- 축 4 미래 = [미검증] (preliminary).
 
 ## Additional Spokes — Endo sub-categories (anatomy·eal·irrigation)
 

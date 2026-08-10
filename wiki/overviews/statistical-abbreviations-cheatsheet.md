@@ -6,7 +6,7 @@ date: 2026-05-23
 doi: null
 source: null
 category: evidence-appraisal
-confidence: synthesis
+evidence_level: synthesis
 pdf_path: null
 pdf_filename: null
 source_collection: internal

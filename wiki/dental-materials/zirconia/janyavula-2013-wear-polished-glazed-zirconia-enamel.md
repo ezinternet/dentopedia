@@ -6,7 +6,7 @@ date: 2013-01-01
 doi: 10.1016/S0022-3913(13)60005-0
 source: janyavula-2013-wear-polished-glazed-zirconia-enamel.md
 category: [dental-materials/zirconia]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/janyavula-2013-wear-polished-glazed-zirconia-enamel.pdf
 pdf_filename: janyavula-2013-wear-polished-glazed-zirconia-enamel.pdf
 source_collection: external

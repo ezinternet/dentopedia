@@ -6,7 +6,7 @@ date: 2018-06-06
 doi: 10.1590/1807-3107bor-2018.vol32.0065
 source: siqueira-2018-unprepared-root-canal-surface-areas.md
 category: [endodontics/shaping]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/siqueira-2018-unprepared-root-canal-surface-areas.pdf
 pdf_filename: siqueira-2018-unprepared-root-canal-surface-areas.pdf
 source_collection: external

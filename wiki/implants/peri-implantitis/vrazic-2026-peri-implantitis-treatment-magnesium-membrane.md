@@ -6,7 +6,7 @@ date: 2026-02-13
 doi: 10.3390/dj14020112
 source: vrazic-2026-peri-implantitis-treatment-magnesium-membrane.md
 category: [implants/peri-implantitis]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/vrazic-2026-peri-implantitis-treatment-magnesium-membrane.pdf
 pdf_filename: vrazic-2026-peri-implantitis-treatment-magnesium-membrane.pdf
 source_collection: external
@@ -48,5 +48,5 @@ MDPI Dentistry 2026 paper (Croatian universities) combining a narrative review o
 
 ## Related Papers
 - [[implants/peri-implantitis/hong-2024-peri-implantitis-treatment-protocol-flowchart]] — comprehensive peri-implantitis treatment protocol
-- [[implants/herrera-2023-prevention-treatment-peri-implant-efp]] — EFP S3 peri-implant treatment guidelines
+- [[implants/peri-implantitis/herrera-2023-prevention-treatment-peri-implant-efp]] — EFP S3 peri-implant treatment guidelines
 - [[bone-regeneration/tallarico-2025-peri-implantitis-guided-bone-regeneration-case]] — CAD/CAM Ti-mesh GBR for peri-implantitis; contrast material

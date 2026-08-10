@@ -15,7 +15,7 @@ text_filename: milinkovic-2025-local-systemic-antibiotics-periodontal-rct.txt
 
 ## Why Ingested
 
-Fills a direct gap in the wiki's coverage of adjunctive antibiotic strategies during 비외과적 치주치료 (Non-Surgical Periodontal Therapy, NSPT): we have papers on antiseptics and ozone adjuncts but no head-to-head RCT comparing 국소 항생제 (local antibiotics, LA) vs 전신 항생제 (systemic antibiotics, SA). This RCT introduces piperacillin + tazobactam as a locally delivered alternative with equivalent 6-month outcomes, directly extending [[periodontics/ramanauskaite-2020-antiseptics-adjuncts-scaling-root-planing]] and contextualizing the systemic-antibiotic restrictiveness now encoded in EFP guidelines.
+Fills a direct gap in the wiki's coverage of adjunctive antibiotic strategies during 비외과적 치주치료 (Non-Surgical Periodontal Therapy, NSPT): we have papers on antiseptics and ozone adjuncts but no head-to-head RCT comparing 국소 항생제 (local antibiotics, LA) vs 전신 항생제 (systemic antibiotics, SA). This RCT introduces piperacillin + tazobactam as a locally delivered alternative with equivalent 6-month outcomes, directly extending [[periodontics/non-surgical-instrumentation/ramanauskaite-2020-antiseptics-adjuncts-scaling-root-planing]] and contextualizing the systemic-antibiotic restrictiveness now encoded in EFP guidelines.
 
 ## Three-line Summary
 

@@ -1,0 +1,24 @@
+Title: Implant prosthetic rehabilitation in partially edentulous patients with bone atrophy. An umbrella review based on systematic reviews of randomised controlled trials.
+
+Authors: Merli M, Moscatelli M, Pagliaro U, Mariotti G, Merli I, Nieri M
+
+Journal: European Journal of Oral Implantology. 2018;11(3):261-280.
+
+PMID: 30246181
+DOI: not available (identifiers.doi returned null via PubMed metadata; only pmid and pii ["855979"] present)
+
+Abstract:
+
+To summarise systematic reviews that assess the effects of different interventions for implant prosthetic rehabilitation in partially edentulous patients with the presence of bone atrophy.
+
+Only systematic reviews of randomised controlled trials (RCTs) dealing with partially edentulous adult patients presenting bone defects were included. Treatments of interest were bone augmentation procedures, use of short, tilted or zygomatic implants, sinus lift and transposition of the inferior alveolar nerve. Outcome variables considered were: prosthetic and implant failure, complications, radiological and clinical peri-implant bone level variation, aesthetic and functional satisfaction, and vestibular peri-implant soft tissue recession. A search of systematic reviews of RCTs selected from MEDLINE, the Cochrane Database of Systematic Review, and the Prospero register published in the past 5 years (May 2012 - May 2017) was performed. Systematic reviews were also manually searched. Independent data extraction by two authors using predefined data fields, including ROBIS risk of bias, was executed.
+
+A total of 12 systematic reviews of RCTs were identified for inclusion in the overview. Eight reviews were considered at low risk of bias. Short implants (≤ 8 mm) were associated with a notable decrease in complications compared to long implants with bone augmentation procedures. Many trials compared different sinus lift procedures and different bone augmentation techniques. None of these indicated that one procedure could reduce prosthetic or implant failures when compared to the other. The use of a membrane can contribute to the regeneration of the hard tissue in horizontal augmentation. Different membranes or bone substitutes did not give substantially different results. No data are available regarding comparisons involving zygomatic implants or tilted implants or transposition of the alveolar nerve.
+
+Overall, the evidence is not sufficiently robust to determine the best treatment for implant prosthetic rehabilitation in partially edentulous patients presenting bone atrophy. In terms of vertical defects, if the short implants can be used they should be used because the number of complications are reduced compared to longer implants with sinus lift or bone augmentation. Nevertheless, caution should be exercised because long-term follow-up studies were not available. No conclusions can be drawn regarding the comparison between different vertical bone augmentation techniques in atrophic posterior mandible because quantitative meta-analyses were not performed. With regards to horizontal defects, the use of a membrane appears to increase the regeneration of the hard tissue but no differences were detected in prosthesis or implant failures or in complications.
+
+Keywords: bone regeneration; dental implants; overview of systematic review; umbrella review
+
+MeSH terms: Alveolar Ridge Augmentation; Atrophy; Bone Substitutes; Dental Implantation, Endosseous; Dental Implants; Humans; Jaw, Edentulous, Partially; Mouth, Edentulous; Randomized Controlled Trials as Topic
+
+Article types: Journal Article; Systematic Review

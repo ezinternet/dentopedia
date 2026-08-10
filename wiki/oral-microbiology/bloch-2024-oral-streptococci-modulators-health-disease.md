@@ -6,7 +6,7 @@ date: 2024-03-01
 doi: "10.3389/fcimb.2024.1357631"
 source: bloch-2024-oral-streptococci-modulators-health-disease.md
 category: [oral-microbiology]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/bloch-2024-oral-streptococci-modulators-health-disease.pdf
 pdf_filename: bloch-2024-oral-streptococci-modulators-health-disease.pdf
 source_collection: external

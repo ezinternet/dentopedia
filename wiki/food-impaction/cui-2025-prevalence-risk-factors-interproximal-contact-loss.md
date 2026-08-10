@@ -6,7 +6,7 @@ date: 2025-09-26
 doi: "10.1186/s12903-025-06783-9"
 source: cui-2025-prevalence-risk-factors-interproximal-contact-loss.md
 category: [food-impaction]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 full_text: true
 pmid: "41013537"

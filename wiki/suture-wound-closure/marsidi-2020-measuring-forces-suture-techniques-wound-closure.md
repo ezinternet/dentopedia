@@ -6,7 +6,7 @@ date: 2020-06-16
 doi: 10.1016/j.jss.2020.05.033
 source: marsidi-2020-measuring-forces-suture-techniques-wound-closure.md
 category: [suture-wound-closure]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/marsidi-2020-measuring-forces-suture-techniques-wound-closure.pdf
 pdf_filename: marsidi-2020-measuring-forces-suture-techniques-wound-closure.pdf
 source_collection: external

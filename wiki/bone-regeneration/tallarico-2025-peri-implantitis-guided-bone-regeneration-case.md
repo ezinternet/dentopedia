@@ -6,7 +6,7 @@ date: 2025-07-22
 doi: 10.3390/reports8030118
 journal: Reports 8(3):118
 source: tallarico-2025-peri-implantitis-guided-bone-regeneration-case.md
-confidence: case-report
+evidence_level: case-report
 category: [bone-regeneration]
 pdf_path: /Users/oracleneo/llm-wiki/papers/tallarico-2025-peri-implantitis-guided-bone-regeneration-case.pdf
 pdf_filename: tallarico-2025-peri-implantitis-guided-bone-regeneration-case.pdf
@@ -67,4 +67,4 @@ Case report demonstrating a fully digital, prosthetically driven workflow for im
 
 ## Related Papers
 - [[implants/surface/kim-2022-ca-implant-superhydrophilic-surface-long-term]] — hydrophilic surface long-term outcomes
-- [[implants/thoma-2018-soft-tissue-augmentation-periimplant-health]] — soft tissue graft for peri-implant health
+- [[implants/soft-tissue/thoma-2018-soft-tissue-augmentation-periimplant-health]] — soft tissue graft for peri-implant health

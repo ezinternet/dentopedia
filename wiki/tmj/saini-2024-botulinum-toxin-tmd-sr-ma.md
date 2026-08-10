@@ -6,7 +6,7 @@ date: 2024-01-01
 doi: 10.1371/journal.pone.0300157
 source: saini-2024-botulinum-toxin-tmd-sr-ma.md
 category: [tmj]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/saini-2024-botulinum-toxin-tmd-sr-ma.pdf
 pdf_filename: saini-2024-botulinum-toxin-tmd-sr-ma.pdf
 source_collection: external

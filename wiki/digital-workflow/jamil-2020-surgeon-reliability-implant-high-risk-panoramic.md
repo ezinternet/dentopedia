@@ -6,7 +6,7 @@ date: 2020-04-06
 doi: 10.1186/s12903-020-01093-8
 source: jamil-2020-surgeon-reliability-implant-high-risk-panoramic.md
 category: digital-workflow
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/jamil-2020-surgeon-reliability-implant-high-risk-panoramic.pdf
 pdf_filename: jamil-2020-surgeon-reliability-implant-high-risk-panoramic.pdf
 source_collection: external
@@ -62,4 +62,4 @@ Panoramic-only safety in posterior implant planning relies on surgeon conservati
 ## Related Papers
 - [[sinus-lift/lateral/ananda-2015-anatomical-considerations-first-maxillary-molar]] — 동일한 후방 상악 region 의 anatomic constraints
 - [[implants/padhye-2020-quantitative-edentulous-posterior-maxilla]] — 후방 상악 quantitative anatomy
-- [[immediate-implant/deporter-2021-cbct-immediate-maxillary-molar-implant]] — 후방 상악 immediate implant CBCT planning
+- [[immediate-implant/molar-septum/deporter-2021-cbct-immediate-maxillary-molar-implant]] — 후방 상악 immediate implant CBCT planning

@@ -6,7 +6,7 @@ date: 2021-07-23
 doi: 10.3390/cancers13153696
 source: lorini-2021-opmd-overview-risk-factors-therapies.md
 category: [oral-medicine/opmd]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/lorini-2021-opmd-overview-risk-factors-therapies.pdf
 pdf_filename: lorini-2021-opmd-overview-risk-factors-therapies.pdf
 source_collection: external

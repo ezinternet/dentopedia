@@ -6,7 +6,7 @@ date: 2024-01-01
 doi: 10.1186/s12903-024-04858-7
 source: zhang-2024-arthrocentesis-injectable-agent-tmd-sr.md
 category: [tmj]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/zhang-2024-arthrocentesis-injectable-agent-tmd-sr.pdf
 pdf_filename: zhang-2024-arthrocentesis-injectable-agent-tmd-sr.pdf
 source_collection: external

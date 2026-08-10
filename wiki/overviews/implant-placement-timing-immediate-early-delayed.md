@@ -6,7 +6,7 @@ date: 2026-06-28
 doi: N/A
 source: synthesis
 category: overviews
-confidence: synthesis
+evidence_level: synthesis
 pdf_path: N/A
 pdf_filename: N/A
 source_collection: synthesis
@@ -66,22 +66,22 @@ A fourth comparison — **immediate-delayed (4–8 wk soft-tissue healing only, 
 | [[immediate-implant/esthetic-soft-tissue/buser-2017-implant-placement-timing-post-extraction-esthetic]] | narrative-review | esthetic zone | "When immediate, when early, when late?" — the canonical decision framework. |
 | [[immediate-implant/esthetic-soft-tissue/chen-2014-esthetic-outcomes-immediate-early-implant]] | (esthetic outcomes) | esthetic zone | Esthetic outcomes by timing; early placement favorable risk profile. |
 | [[immediate-implant/thoma-2026-timing-dental-implant-placement-past]] | narrative-review | — | Contemporary perspective on placement timing (past/present/future). |
-| [[immediate-implant/pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma]] | sr+ma | — | Periapical pathology at the immediate site — a key contraindication modifier. |
+| [[immediate-implant/infected-socket/pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma]] | sr+ma | — | Periapical pathology at the immediate site — a key contraindication modifier. |
 | [[immediate-implant/bineviciute-2024-attitudes-surgeons-immediate-implant-survey]] | cross-sectional | 186 clinicians | Real-world criteria: periapical lesion >5 mm dominant contraindication; low socket-classification uptake. |
 | [[immediate-implant/qian-2024-anterior-maxillary-implants-placement-loading-nma]] | sr+ma (NMA) | anterior maxilla | Network ranking of placement × loading combinations. |
 | [[immediate-implant/esthetic-soft-tissue/samet-2023-immediate-placement-loading-esthetic-zone]] | (narrative) | esthetic zone | Combined placement + loading decision context. |
 | [[immediate-implant/esthetic-soft-tissue/peitsinis-2025-implant-placement-timing-loading-protocols]] | (review) | — | Timing × loading protocol interplay. |
-| [[immediate-implant/meijer-2024-immediate-implant-bony-defect-10year-rct]] | rct | 10-yr | Even bony-defect sockets reach delayed-equivalent 10-yr outcomes with immediate + GBR + deferred provisional (operator-dependent). |
+| [[immediate-implant/gap-grafting/meijer-2024-immediate-implant-bony-defect-10year-rct]] | rct | 10-yr | Even bony-defect sockets reach delayed-equivalent 10-yr outcomes with immediate + GBR + deferred provisional (operator-dependent). |
 | [[immediate-implant/esposito-2010-fresh-extraction-sockets-immediate-cochrane]] | sr+ma Cochrane (7 RCT, 2010) | n=126 (immediate vs delayed comparison) | Immediate vs immediate-delayed vs delayed in fresh sockets — immediate vs delayed: no significant differences (2 RCTs); **immediate-delayed vs delayed: better esthetics at 2y (RR=1.68) BUT 4× more complications at 5y (RR=4.20)**; bone substitutes acceptable in place of autogenous graft; all studies high risk of bias, underpowered. |
 
 ## Clinical Decision Points
 
-1. **Esthetic-zone single tooth, intact buccal plate, no apical infection, thick phenotype** → immediate (Type 1) is reasonable and time-efficient; pair with gap graft ± CTG. [근거강함, selected cases]
-2. **Esthetic zone but thin/compromised plate, soft-tissue deficiency, or any apical lesion** → favor **early (Type 2/3)**: equivalent survival, less marginal bone loss than immediate, lower wound-failure risk. [근거강함]
-3. **Periapical lesion > 5 mm / active infection** → dominant real-world contraindication to immediate; debride and place early/delayed (Bineviciute 2024; Pranckeviciene 2024). [합의수준]
-4. **Large bony defect but expertise + GBR available** → immediate + GBR + deferred provisional can still reach delayed-equivalent 10-yr outcomes (Meijer 2024) — but this is operator-dependent, not a default. [근거강함, conditional]
-5. **When esthetics are paramount and the site is not ideal** → the Tonetti RCT is the cautionary anchor: immediate placement tripled augmentation need and inadequate-PES rate vs delayed. [근거강함]
-6. **Immediate-delayed (4–8 wk) as a "safer immediate" compromise** → the Cochrane review (Esposito 2010) cautions against this framing: better 2-year esthetics (RR=1.68) are offset by 4× more complications at 5 years (RR=4.20). Bone substitutes are acceptable when autogenous graft is not preferred. All comparisons based on few underpowered high-bias RCTs — treat as signal, not definitive evidence. [합의수준 — GRADE 매우 낮음]
+1. **Esthetic-zone single tooth, intact buccal plate, no apical infection, thick phenotype** → immediate (Type 1) is reasonable and time-efficient; pair with gap graft ± CTG. [확인, selected cases]
+2. **Esthetic zone but thin/compromised plate, soft-tissue deficiency, or any apical lesion** → favor **early (Type 2/3)**: equivalent survival, less marginal bone loss than immediate, lower wound-failure risk. [확인]
+3. **Periapical lesion > 5 mm / active infection** → dominant real-world contraindication to immediate; debride and place early/delayed (Bineviciute 2024; Pranckeviciene 2024). [확인]
+4. **Large bony defect but expertise + GBR available** → immediate + GBR + deferred provisional can still reach delayed-equivalent 10-yr outcomes (Meijer 2024) — but this is operator-dependent, not a default. [확인, conditional]
+5. **When esthetics are paramount and the site is not ideal** → the Tonetti RCT is the cautionary anchor: immediate placement tripled augmentation need and inadequate-PES rate vs delayed. [확인]
+6. **Immediate-delayed (4–8 wk) as a "safer immediate" compromise** → the Cochrane review (Esposito 2010) cautions against this framing: better 2-year esthetics (RR=1.68) are offset by 4× more complications at 5 years (RR=4.20). Bone substitutes are acceptable when autogenous graft is not preferred. All comparisons based on few underpowered high-bias RCTs — treat as signal, not definitive evidence. [확인 — GRADE 매우 낮음]
 
 ## Gaps & Future Research
 

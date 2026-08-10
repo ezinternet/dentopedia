@@ -6,7 +6,7 @@ date: 2024-07-10
 doi: 10.5051/jpis.2400800040
 source: ko-2024-arp-implant-vertical-positioning-isq.md
 category: implants/isq
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/ko-2024-arp-implant-vertical-positioning-isq.pdf
 pdf_filename: ko-2024-arp-implant-vertical-positioning-isq.pdf
 source_collection: external

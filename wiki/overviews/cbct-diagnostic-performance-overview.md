@@ -6,7 +6,7 @@ date: 2026-06-06
 doi: N/A
 source: N/A
 category: overviews
-confidence: synthesis
+evidence_level: synthesis
 pdf_path: N/A
 pdf_filename: N/A
 source_collection: internal
@@ -61,7 +61,7 @@ Radiation dose optimization is covered separately in [[overviews/dental-imaging-
 | Specificity | 79.3% | 49–96% |
 | Effective dose | 34–1073 µSv | — |
 
-Interpretation: CBCT reliably detects most ERR cases but false negatives occur (~22%) particularly in early/small lesions. The wide dose range (34–1073 µSv) across units means device choice matters as much as FOV selection. [근거강함]
+Interpretation: CBCT reliably detects most ERR cases but false negatives occur (~22%) particularly in early/small lesions. The wide dose range (34–1073 µSv) across units means device choice matters as much as FOV selection. [확인]
 
 ### 2. Endodontic Treatment Planning — Tay 2022 (SR, 16 studies)
 
@@ -69,13 +69,13 @@ Interpretation: CBCT reliably detects most ERR cases but false negatives occur (
 - Direction of change: predominantly prescribing additional intervention (endodontic treatment, extractions)
 - Greatest impact: high-difficulty cases (retreatment, suspected vertical root fracture, complex anatomy)
 
-Clinical implication: CBCT is not a routine diagnostic for every endodontic case; highest yield in high-difficulty and retreatment cases. [합의수준]
+Clinical implication: CBCT is not a routine diagnostic for every endodontic case; highest yield in high-difficulty and retreatment cases. [확인]
 
 ### 3. Endodontic Treatment Outcome Assessment — Brochado-Martins 2025 (SR+MA, 19 studies)
 
 - CBCT-assessed periapical healing: **87% (loose criteria) vs 36% (strict criteria)**
 - Under strict CBCT criteria, success rates appear substantially lower than periapical radiograph assessment
-- Conclusion: **routine CBCT for treatment outcome follow-up may be unnecessary** and overcounts apparent failures due to strict criteria [합의수준]
+- Conclusion: **routine CBCT for treatment outcome follow-up may be unnecessary** and overcounts apparent failures due to strict criteria [확인]
 
 This has two clinical implications:
 1. Do not use CBCT routinely to evaluate endodontic healing — periapical radiograph sufficient for most follow-up
@@ -88,7 +88,7 @@ Justified CBCT applications in oral implantology:
 - Preoperative planning (virtual implant placement)
 - Peroperative transfer (surgical guides, navigation, 3D printing)
 
-Dose quantification: effective dose = approximately **2–200× panoramic radiograph equivalents** even for similar indications, depending on unit and protocol. Segmentation/linear accuracy: ~200 µm achievable but up to 5× worse with motion or metal artefacts. [합의수준]
+Dose quantification: effective dose = approximately **2–200× panoramic radiograph equivalents** even for similar indications, depending on unit and protocol. Segmentation/linear accuracy: ~200 µm achievable but up to 5× worse with motion or metal artefacts. [확인]
 
 ---
 
@@ -106,7 +106,7 @@ Decision-support charts by specialty (FOV and voxel selection):
 | Endodontics | Small (single tooth) | 0.076–0.2 mm |
 | Paediatric/orthodontics | Medium–large | 0.2–0.4 mm |
 
-Device parameter spread (11 countries, 87 units): tube voltage 50–120 kV, current 1–17 mA, DAP 10–5600 mGy·cm², effective dose ~3–500 µSv. This spread underscores that unit and protocol selection — not just anatomical indication — determines actual patient dose. [합의수준]
+Device parameter spread (11 countries, 87 units): tube voltage 50–120 kV, current 1–17 mA, DAP 10–5600 mGy·cm², effective dose ~3–500 µSv. This spread underscores that unit and protocol selection — not just anatomical indication — determines actual patient dose. [확인]
 
 ---
 
@@ -116,7 +116,7 @@ Device parameter spread (11 countries, 87 units): tube voltage 50–120 kV, curr
 - Scattered dose to eye lens from dental CBCT: **0.103–8.3 mSv**
 - Varies with FOV size, exposure parameters, dosimeter type, and scanner model
 - Threshold for lens opacity: ~0.5 Gy (cumulative); single dental CBCT exposures are below threshold but occupational/repeated exposure warrants awareness
-- Recommendation: dose reference levels and optimization protocols needed for eye dose [합의수준]
+- Recommendation: dose reference levels and optimization protocols needed for eye dose [확인]
 
 ---
 

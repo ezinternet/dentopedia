@@ -76,37 +76,118 @@ COSMETIC_SUBJECT_RE = re.compile(
     r"|한국어 핵심요약|한줄요약|세줄요약"
     r"|cross-link"
     r"|\bwire\b.*(reinforces|contradicts|refines|extends|applies-to|relation)"
-    r"|recategorize|\bdedup\b|\breorg\b)",
+    r"|add relations edge"
+    # frontmatter-only 기계 작업 — tags:/confidence: 필드만 바꿈, 본문 임상 수치 무변화.
+    # (2026-07-14 repo-wide 태그 마이그레이션 커밋들이 도구 18개를 가짜 STALE로 밀어 추가)
+    r"|mechanical migration"
+    r"|\btag scheme\b|\btag brackets?\b|confidence-tag"
+    r"|de-inflate|(audit \+ )?de-inflate legacy confidence tags"
+    r"|legacy [\w/ +-]*\btags?\b"
+    r"|recategorize|\bdedup\b|\breorg\b"
+    # confidence → evidence_level 필드 리네임 (2026-07-15, 위키 전역 43개 커밋 469~6 files)
+    # — frontmatter 필드명만 바뀜, 본문 임상 수치 무변화.
+    r"|confidence\s*→\s*evidence_level"
+    # (relations) 스코프 커밋 — 개별 엣지 추가/제거/재라벨링 전부 포함. 이 저장소 컨벤션상
+    # relations 스코프면 예외 없이 typed-edge(frontmatter relations: 리스트)만 건드리고
+    # 도구가 인용하는 본문 임상 수치는 안 바뀐다. docs(relations):/fix(relations):/
+    # feat(relations):/refactor(relations): 전부 해당 (2026-07-17/18 재라벨링 12건이 계기).
+    r"|^(docs|fix|feat|refactor)\(relations\):"
+    # wikilink 경로 이관 커밋 — 카테고리 서브폴더 이동(예: dental-materials/ →
+    # dental-materials/ceramic/, implants/ → implants/mbl+survival/) 후 참조 경로만
+    # 일괄 갱신한다. 본문 임상 수치는 한 글자도 안 바뀐다 — 실측: 2026-07-21 스윕의
+    # kasem-2025·moy-2005·laumacher-2025는 각각 1줄(±1), implants-clinical-decision-ladder
+    # 20줄, drug-antibiotic-stewardship-overview 48줄이 전부 [[...]] 또는 frontmatter
+    # source_wiki: 경로였다. 이 스윕이 도구 4개를 가짜 STALE로 밀어 추가(2026-07-23).
+    r"|^fix\(links\):"
+    r"|update [\w/+-]* ?wikilinks?\b"
+    r"|wikilink paths?\b"
+    # fix(links): 표기 변형 — 2026-07-24~30 대규모 서브카테고리 재구조화 스윕이
+    # "fix(wikilinks):"(위 패턴과 괄호 안 문자열이 달라 안 걸림)와 "refactor: batch N —
+    # ... stragglers to (correct )?subcategories"로 커밋됐다. 둘 다 diff 실측 결과
+    # 전부 [[old-path]] → [[new-path]] 1줄짜리 wikilink 재작성이거나 frontmatter
+    # category: 필드만 이동 — 본문 임상 수치 무변화. 이 버그로 2026-08-07 STALE 신호
+    # 13건 중 12건이 가짜였다(osseodensification-navigator·drill-thermal-selector 등).
+    r"|^fix\(wikilinks?\):"
+    r"|\bstragglers?\b"
+    r"|\d+-file subcategory restructuring"
+    r"|하위 카테고리|카테고리 재구조화"
+    # "wiki(<category>): backfill contradicts edge — X vs Y" — relations 백필 스윕.
+    # (docs|fix|feat|refactor)(relations): 패턴과 같은 성격(frontmatter relations:
+    # 블록만 추가, 본문 무변화)이나 커밋 scope가 "wiki(<category>):"라 위 relations
+    # 패턴에 안 걸린다. 실측 2건(puisys-2022, ibikunle-2016) 전부 +4줄 frontmatter만.
+    r"|backfill (a )?(contradicts|reinforces|extends|refines|applies-to) edge"
+    # "docs(<category>): relocate <stem> -> <new-category>" — 2026-07-24 개별 파일
+    # relocate 스윕. git이 구경로 삭제+신경로 신규작성으로 기록해 겉보기엔 "new file"
+    # diff지만 내용은 100% 동일(실측: yein-2026, +76줄 신규 = 원문 그대로 이동).
+    r"|^docs\([\w/-]+\): relocate )",
     re.IGNORECASE,
 )
 
 
-def git_date(relpath: str, skip_cosmetic: bool = False):
-    """파일의 마지막 커밋 날짜(YYYY-MM-DD). 추적 안 됨/git 실패 시 None.
+def build_git_log_cache(path_glob: str) -> dict:
+    """git log 한 번으로 path_glob 하위 모든 파일의 커밋 이력을 수집.
 
-    skip_cosmetic=True면 cosmetic 커밋(요약 재포맷·cross-link·relations 배선 등)을 건너뛰고
-    마지막 '실질' 변경일을 돌려준다 — 대량 포맷팅 커밋이 근거를 도구보다 새것으로
-    보이게 하는 오탐지를 막기 위함. 근거(source_wiki) 날짜 계산에만 적용한다.
+    반환: {relpath: [(date_str, subject), ...]}  — newest-first 순서.
+    파일마다 git log를 개별 호출하면 파일 수 × timeout 만큼 걸리는 문제를 해결.
     """
     try:
         out = subprocess.run(
-            ["git", "log", "--format=%cd%x00%s", "--date=short", "--", relpath],
-            cwd=ROOT, capture_output=True, text=True, timeout=30, check=True,
-        ).stdout.strip()
-    except (subprocess.CalledProcessError, subprocess.TimeoutExpired, FileNotFoundError):
-        return None
-    entries = [line.split("\x00", 1) for line in out.splitlines() if "\x00" in line]
+            [
+                "git", "log",
+                "--format=%cd%x00%s%x00%x01",  # date \0 subject \0 \1 (레코드 구분자)
+                "--date=short",
+                "--name-only",
+                "--", path_glob,
+            ],
+            cwd=ROOT, capture_output=True, text=True, timeout=120,
+        ).stdout
+    except Exception:
+        return {}
+
+    cache: dict[str, list] = {}
+    current_date = None
+    current_subject = None
+    for line in out.splitlines():
+        if "\x00" in line:
+            # 헤더 라인: "date\0subject\0\1"
+            parts = line.split("\x00")
+            current_date = parts[0].strip()
+            current_subject = parts[1].strip() if len(parts) > 1 else ""
+        elif line.startswith("\x01") or not line.strip():
+            continue
+        elif current_date is not None:
+            # 파일 경로 라인
+            relpath = line.strip()
+            if relpath:
+                cache.setdefault(relpath, []).append((current_date, current_subject))
+    return cache
+
+
+def git_date_from_cache(cache: dict, relpath: str, skip_cosmetic: bool = False):
+    """캐시에서 파일의 마지막 커밋 날짜 반환. 없으면 None."""
+    entries = cache.get(relpath, [])
     if not entries:
         return None
     if not skip_cosmetic:
         return entries[0][0] or None
-    for d, subject in entries:  # newest → oldest
+    for d, subject in entries:
         if not COSMETIC_SUBJECT_RE.search(subject):
             return d or None
-    return entries[-1][0] or None  # 전부 cosmetic이면 생성(가장 오래된) 커밋일 사용
+    # 전 항목이 cosmetic — 흔히 "docs(<cat>): relocate X -> Y" 단독 스윕처럼, git log가
+    # rename을 구경로 삭제+신경로 신규작성으로 기록해(--follow 미사용, glob 기반 캐시)
+    # 신경로에는 relocate 커밋 1건만 잡히는 경우다. 과거엔 entries[-1](가장 오래된
+    # cosmetic)로 폴백했는데, 단일 항목이면 entries[-1] == entries[0] == 그 relocate
+    # 커밋 자신이라 폴백이 무의미해져 최근 날짜를 그대로 반환 → 가짜 STALE(2026-08-07
+    # 실측: kim-2026·yein-2026 등 8개 도구). "실제 내용 변경 증거 없음"이 곧 "STALE
+    # 아님"이므로 None을 반환해 이 소스를 비교에서 제외한다.
+    return None
 
 
 def main():
+    # 두 번의 git log로 interactives/ 와 wiki/ 전체 이력을 한꺼번에 캐시
+    tool_cache = build_git_log_cache("interactives/*.html")
+    wiki_cache = build_git_log_cache("wiki/**/*.md")
+
     results = []
     for p in sorted(INTERACTIVES.glob("*.html")):
         if p.name in SKIP:
@@ -119,7 +200,7 @@ def main():
             results.append({"tool": p.name, "verdict": "NO_SOURCE", "detail": "source_wiki 비어있음"})
             continue
 
-        tool_date = git_date(f"interactives/{p.name}")
+        tool_date = git_date_from_cache(tool_cache, f"interactives/{p.name}")
         newer, broken = [], []
         for s in sources:
             s = s.strip()
@@ -129,7 +210,7 @@ def main():
             if not sp.exists():
                 broken.append(s)
                 continue
-            sd = git_date(s, skip_cosmetic=True)
+            sd = git_date_from_cache(wiki_cache, s, skip_cosmetic=True)
             if tool_date and sd and sd > tool_date:
                 newer.append({"src": s, "src_date": sd})
 

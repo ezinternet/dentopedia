@@ -45,20 +45,49 @@ CUTOFF_DATE = date(2026, 5, 27)
 CUTOFF_TS = datetime.combine(CUTOFF_DATE, datetime.min.time()).timestamp()
 
 
-def ingest_ts(path: str) -> float:
-    """Unix ts of the commit that first ADDED this source (grandfather proxy).
-    Falls back to filesystem mtime if the file is untracked or git is unavailable."""
+def build_first_add_cache() -> dict:
+    """One-shot git log over all of sources/ → {basename: unix_ts}.
+
+    Runs a single subprocess instead of one per file, so 500+ sources finish
+    in ~1 s instead of potentially timing out per file.
+
+    Format parsed: lines alternate between "%at" (timestamp) and the filename
+    from --name-only --diff-filter=A.
+    """
+    cache: dict[str, float] = {}
     try:
         out = subprocess.run(
-            ["git", "log", "--diff-filter=A", "--follow", "--format=%at", "--", path],
-            cwd=WIKI_ROOT, capture_output=True, text=True, timeout=15,
+            [
+                "git", "log",
+                "--diff-filter=A",
+                "--name-only",
+                "--format=%at",
+                "--", "sources/*.md",
+            ],
+            cwd=WIKI_ROOT, capture_output=True, text=True, timeout=120,
         )
-        stamps = [l for l in out.stdout.split("\n") if l.strip()]
-        if stamps:
-            return float(stamps[-1])  # last line = earliest (first add)
+        ts = None
+        for line in out.stdout.splitlines():
+            line = line.strip()
+            if not line:
+                continue
+            if line.isdigit():
+                ts = float(line)
+            elif ts is not None and line.startswith("sources/"):
+                fname = os.path.basename(line)
+                # keep the EARLIEST (first) add timestamp per file
+                if fname not in cache or ts < cache[fname]:
+                    cache[fname] = ts
     except Exception:
         pass
-    return os.path.getmtime(path)
+    return cache
+
+
+def ingest_ts(fname: str, cache: dict) -> float:
+    """Return first-add ts from cache, falling back to filesystem mtime."""
+    if fname in cache:
+        return cache[fname]
+    return os.path.getmtime(os.path.join(SOURCES_DIR, fname))
 
 WHY_HEADER_RE = re.compile(r"^##\s+Why Ingested\s*$", re.MULTILINE)
 WIKILINK_RE = re.compile(r"\[\[[^\]]+\]\]")
@@ -115,11 +144,13 @@ def main() -> int:
     skipped = 0
     errors: list[str] = []
 
+    first_add = build_first_add_cache()
+
     for fname in sorted(os.listdir(SOURCES_DIR)):
         if not fname.endswith(".md"):
             continue
         path = os.path.join(SOURCES_DIR, fname)
-        if ingest_ts(path) < CUTOFF_TS:
+        if ingest_ts(fname, first_add) < CUTOFF_TS:
             skipped += 1
             continue
         checked += 1

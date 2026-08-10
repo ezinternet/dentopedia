@@ -15,7 +15,7 @@ text_filename: bragues-2024-oral-mucositis-children-cancer-management-sr.txt
 
 ## Why Ingested
 
-The wiki's oral mucosal-disease coverage in `oral-medicine` (aphthous stomatitis, lichen planus, BMS) had no entry on cancer-therapy-induced oral mucositis — a high-incidence (40–100%) inflammatory condition distinct from those entities. This SR fills that gap and pairs with [[oral-medicine/dean-2022-oral-chronic-gvhd-review]], which covers the adjacent oncology context (oral chronic GVHD after hematopoietic stem cell transplantation); both deal with debilitating oral mucosal injury in the cancer/transplant patient, but mucositis is the acute antineoplastic-therapy lesion whereas chronic oral GVHD is the late immunologic one. According to PubMed ([DOI](https://doi.org/10.3390/cancers16081548)).
+The wiki's oral mucosal-disease coverage in `oral-medicine` (aphthous stomatitis, lichen planus, BMS) had no entry on cancer-therapy-induced oral mucositis — a high-incidence (40–100%) inflammatory condition distinct from those entities. This SR fills that gap and pairs with [[oral-medicine/immune-mediated/dean-2022-oral-chronic-gvhd-review]], which covers the adjacent oncology context (oral chronic GVHD after hematopoietic stem cell transplantation); both deal with debilitating oral mucosal injury in the cancer/transplant patient, but mucositis is the acute antineoplastic-therapy lesion whereas chronic oral GVHD is the late immunologic one. According to PubMed ([DOI](https://doi.org/10.3390/cancers16081548)).
 
 ## Three-line Summary
 

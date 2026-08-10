@@ -6,7 +6,7 @@ date: 2021-04-18
 doi: "10.1016/j.sdentj.2021.04.004"
 source: defreitas-2021-bioactive-toothpastes-dentin-hypersensitivity-sr.md
 category: [dentin-hypersensitivity]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/defreitas-2021-bioactive-toothpastes-dentin-hypersensitivity-sr.pdf
 pdf_filename: defreitas-2021-bioactive-toothpastes-dentin-hypersensitivity-sr.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2013-10-18
 doi: 10.1016/j.jpor.2013.09.001
 source: miyazaki-2013-current-status-zirconia-restoration-review.md
 category: [dental-materials/zirconia]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/miyazaki-2013-current-status-zirconia-restoration-review.pdf
 pdf_filename: miyazaki-2013-current-status-zirconia-restoration-review.pdf
 source_collection: external

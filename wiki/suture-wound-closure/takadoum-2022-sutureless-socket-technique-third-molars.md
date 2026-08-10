@@ -6,7 +6,7 @@ date: 2022-06-26
 doi: 10.1186/s12903-022-02287-y
 source: takadoum-2022-sutureless-socket-technique-third-molars.md
 category: [suture-wound-closure]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/takadoum-2022-sutureless-socket-technique-third-molars.pdf
 pdf_filename: takadoum-2022-sutureless-socket-technique-third-molars.pdf
 source_collection: external

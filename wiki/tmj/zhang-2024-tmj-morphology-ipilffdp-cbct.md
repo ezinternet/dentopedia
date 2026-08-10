@@ -6,7 +6,7 @@ date: 2024-11-01
 doi: 10.1186/s12903-024-05187-5
 source: zhang-2024-tmj-morphology-ipilffdp-cbct.md
 category: [tmj]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/zhang-2024-tmj-morphology-ipilffdp-cbct.pdf
 pdf_filename: zhang-2024-tmj-morphology-ipilffdp-cbct.pdf
 source_collection: external
@@ -55,6 +55,7 @@ This retrospective CBCT study is the first to quantitatively evaluate TMJ morpho
 | TMD adverse events | None at 1 year |
 
 ## Related Papers
+- [[tmj/wang-2024-tmj-ovd-elevation-occlusal-loss-rats]] — the animal counterweight to this paper's null: in adult rats, OVD elevation produced *faster and more severe condylar cartilage damage* than occlusal loss. The two do **not** contradict each other and neither qualifies the other — they measure different things on the same clinical question. CBCT (this study) images bone morphology and cannot visualise cartilage at all, so a null here is not evidence against Wang's cartilage finding; conversely Wang's occlusal-plate model is a sustained, proportionally large malposition in rats, whereas the VD increase here averaged ~2 mm in humans (within Abduo's ≤5 mm threshold) over 1 year in TMJ-symptom-free patients. Read together they bound the question rather than settle it: no gross morphological penalty at clinical VD doses, cartilage-level effect in humans untested. Left as a prose link deliberately — this is an orthogonal-axis pair, which `relations:` has no correct type for (see INGEST.md on the rejected 6th type).
 - [[tmj/zhang-2024-arthrocentesis-injectable-agent-tmd-sr]] — TMD treatment SR; context for TMD risk management
 - [[tmj/valesan-2021-tmd-prevalence-sr-ma]] — TMD prevalence reference
 - [[tmj/bmj-2023-tmd-chronic-pain-management-guideline]] — conservative management guideline

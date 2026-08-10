@@ -6,7 +6,7 @@ date: 2016-01-01
 doi: "10.2147/CCIDE.S63465"
 source: nascimento-2016-abfraction-etiology-diagnosis-treatment.md
 category: nccl
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/nascimento-2016-abfraction-etiology-diagnosis-treatment.pdf
 pdf_filename: nascimento-2016-abfraction-etiology-diagnosis-treatment.pdf
 source_collection: external

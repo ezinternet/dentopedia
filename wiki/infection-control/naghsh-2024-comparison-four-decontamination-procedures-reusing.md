@@ -6,7 +6,7 @@ date: 2024-06-14
 doi: "10.1016/j.sdentj.2024.06.013"
 source: naghsh-2024-comparison-four-decontamination-procedures-reusing.md
 category: [infection-control]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: true
 pmid: "39176159"

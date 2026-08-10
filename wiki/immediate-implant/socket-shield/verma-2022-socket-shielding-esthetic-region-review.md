@@ -6,7 +6,7 @@ date: 2022-08-18
 doi: "10.1016/j.jobcr.2022.08.004"
 source: verma-2022-socket-shielding-esthetic-region-review.md
 category: [immediate-implant/socket-shield]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/verma-2022-socket-shielding-esthetic-region-review.pdf
 pdf_filename: verma-2022-socket-shielding-esthetic-region-review.pdf
 source_collection: external

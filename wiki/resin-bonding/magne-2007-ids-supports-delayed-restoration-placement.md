@@ -6,7 +6,7 @@ date: 2007-09-01
 doi: 10.1016/S0022-3913(07)60052-3
 source: magne-2007-ids-supports-delayed-restoration-placement.md
 category: [resin-bonding]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/magne-2007-ids-supports-delayed-restoration-placement.pdf
 pdf_filename: magne-2007-ids-supports-delayed-restoration-placement.pdf
 source_collection: external
@@ -67,8 +67,8 @@ Clinically: a sealed prep can sit with provisional for 1–3 months without requ
 - [[resin-bonding/hardan-2022-immediate-dentin-sealing-sr-ma]] — SR+MA inclusion.
 - [[resin-bonding/abo-alazm-2022-ids-universal-adhesive-pulp-pressure]] — universal adhesive aging (6mo).
 
-## 임상 적용 [claude해석]
+## 임상 적용 [미검증]
 
-- [근거강함, in-vitro] IDS는 12주 provisional까지 bond 안정 — lab 일정 변동·환자 cancellation에 대한 안전 마진.
-- [합의수준] SE Bond는 DDS protocol에 절대 부적합 (1.81 MPa는 retention 불가) → SE adhesive 사용 시 IDS 필수.
-- [claude해석] IDS-7W peak µTBS는 collagen 안정화 + resin coating 성숙의 시너지로 추정; provisional period 1.5–2개월이 이상적이라는 임상 가설 지지. 다만 long-term clinical outcome data 없음.
+- [확인, in-vitro] IDS는 12주 provisional까지 bond 안정 — lab 일정 변동·환자 cancellation에 대한 안전 마진.
+- [미검증] SE Bond는 DDS protocol에서 부적합할 가능성이 높음 (1.81 MPa는 retention 기준 미달) → SE adhesive 사용 시 IDS가 권장됨 (단일 in-vitro 연구 소견이며, 일반 임상 컨센서스로 검증된 것은 아님).
+- [미검증] IDS-7W peak µTBS는 collagen 안정화 + resin coating 성숙의 시너지로 추정; provisional period 1.5–2개월이 이상적이라는 임상 가설 지지. 다만 long-term clinical outcome data 없음.

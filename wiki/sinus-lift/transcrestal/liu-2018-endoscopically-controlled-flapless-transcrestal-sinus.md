@@ -6,7 +6,7 @@ date: 2018-04-01
 doi: 10.1097/MD.0000000000010608
 journal: Medicine 97(15):e0608
 source: liu-2018-endoscopically-controlled-flapless-transcrestal-sinus.md
-confidence: case-report
+evidence_level: case-report
 category: [sinus-lift/transcrestal]
 pdf_path: /Users/oracleneo/llm-wiki/papers/liu-2018-endoscopically-controlled-flapless-transcrestal-sinus.pdf
 pdf_filename: liu-2018-endoscopically-controlled-flapless-transcrestal-sinus.pdf

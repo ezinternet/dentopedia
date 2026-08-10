@@ -6,7 +6,7 @@ date: 2026-06-03
 doi: N/A
 source: N/A
 category: overviews
-confidence: synthesis
+evidence_level: synthesis
 pdf_path: N/A
 pdf_filename: N/A
 source_collection: synthesis
@@ -16,7 +16,7 @@ relations:
     target: btx-orofacial-applications-overview
   - type: extends
     target: tmd-management-evidence-ladder
-  - type: reinforces
+  - type: refines
     target: song-2021-implant-complications-bruxism-patients
   - type: applies-to
     target: stilwell-2024-occlusal-considerations-implant-maintenance
@@ -58,13 +58,13 @@ Clinical takeaway: for implant patients with bruxism, use splint as first-line p
 
 핵심 명제 7개:
 
-1. **이갈이는 흔하고, 그 핵심 병리는 "근육이 만든 힘 vs 그 힘을 받는 구조의 내성"의 불균형이다.** TMD 어떤 sign/symptom pooled 유병률 ~31% — Valesan 2021 SR+MA. [근거강함]
-2. **힘은 가장 약한 구조로 방전된다 — 동일 상류, 다른 하류.** 같은 이갈이가 환자에 따라 TMJ 통증, 치아 균열, 또는 임플란트 파절로 나타난다. 이건 인과 모형이지 통계 명제가 아니다. [claude해석]
-3. **하류 ① 관절·근육 — 보존(운동·스플린트)이 1차, BTX는 placebo 우위이나 표준치료 대비 동등.** Zhang 2021(운동≥스플린트), de-la-torre-canales 2024 umbrella(BoNT-A>placebo, ≈standard). [근거강함 / 합의수준]
-4. **하류 ② 치아·보철 — 이갈이는 cracked tooth 병인 인자이며, 보철 재료 선택·마모를 좌우한다.** Li 2021(병인), Ferracane 2023(registry), Alfrisany 2019(zirconia 마모). [합의수준]
-5. **하류 ③ 임플란트 — 이갈이는 골유착(초기)이 아니라 late failure(픽스처·스크류·보철 파절, MBL)를 구동한다.** 임플란트엔 치주인대가 없어 충격흡수·고유감각이 없다. Song 2021, Stilwell 2024(파절률 ~0.5%, no PDL). [합의수준]
-6. **세 중재는 사슬의 다른 지점에 작용한다.** 스플린트=하류 완충/분산, 교합조정=접촉 재형성(TMD 근거 매우 낮음·미지지 — Singh 2024 Cochrane), BoNT-A=상류(근육) 힘 생성 차단. [근거강함]
-7. **핵심 역설 — BoNT-A는 과부하 힘을 줄이지만 바로 그 골을 약화시킨다.** Deng 2023(동물): BTX 마비 → BV/TV↓·BIC↓. 과부하 보호가 가장 필요한 임플란트 bruxer에서 BoNT-A는 양날의 검. [동물 근거강함 / 사람 미검증]
+1. **이갈이는 흔하고, 그 핵심 병리는 "근육이 만든 힘 vs 그 힘을 받는 구조의 내성"의 불균형이다.** TMD 어떤 sign/symptom pooled 유병률 ~31% — Valesan 2021 SR+MA. [확인]
+2. **힘은 가장 약한 구조로 방전된다 — 동일 상류, 다른 하류.** 같은 이갈이가 환자에 따라 TMJ 통증, 치아 균열, 또는 임플란트 파절로 나타난다. 이건 인과 모형이지 통계 명제가 아니다. [미검증]
+3. **하류 ① 관절·근육 — 보존(운동·스플린트)이 1차, BTX는 placebo 우위이나 표준치료 대비 동등.** Zhang 2021(운동≥스플린트), de-la-torre-canales 2024 umbrella(BoNT-A>placebo, ≈standard). [확인]
+4. **하류 ② 치아·보철 — 이갈이는 cracked tooth 병인 인자이며, 보철 재료 선택·마모를 좌우한다.** Li 2021(병인), Ferracane 2023(registry), Alfrisany 2019(zirconia 마모). [확인]
+5. **하류 ③ 임플란트 — 이갈이는 골유착(초기)이 아니라 late failure(픽스처·스크류·보철 파절, MBL)를 구동한다.** 임플란트엔 치주인대가 없어 충격흡수·고유감각이 없다. Song 2021, Stilwell 2024(파절률 ~0.5%, no PDL). [확인]
+6. **세 중재는 사슬의 다른 지점에 작용한다.** 스플린트=하류 완충/분산, 교합조정=접촉 재형성(TMD 근거 매우 낮음·미지지 — Singh 2024 Cochrane), BoNT-A=상류(근육) 힘 생성 차단. [확인]
+7. **핵심 역설 — BoNT-A는 과부하 힘을 줄이지만 바로 그 골을 약화시킨다.** Deng 2023(동물): BTX 마비 → BV/TV↓·BIC↓. 과부하 보호가 가장 필요한 임플란트 bruxer에서 BoNT-A는 양날의 검. [확인 (동물 데이터), 사람 적용은 미검증]
 
 ## Results
 
@@ -114,13 +114,13 @@ Clinical takeaway: for implant patients with bruxism, use splint as first-line p
 | [[inlay/fan-2021-inlay-onlay-overlay-long-term-sr-ma]] | sr+ma | inlay/onlay 장기 생존 — parafunction이 실패 인자 |
 | [[dental-materials/zirconia/bomicke-2026-ceramic-crowns-sleep-bruxism-rct]] | rct (n=109, 3y) | EMG 확진 수면이갈이 × 모놀리식 LDS/지르코니아 대구치 단일관 — 교합장치 미사용에도 기술적 합병증·생존·성공 모두 SB 영향 NS (기술 합병증 0건) |
 
-요약: 이갈이는 보철 **재료·설계 의사결정의 입력 변수**다. Bruxer에서 veneered ceramic보다 monolithic, 단일치 균열 위험 인지, 교합력 분산 설계가 따라온다. 단 **반직관적 nuance**: Bömicke 2026 RCT(n=109, 3년)는 EMG 확진 수면이갈이가 교합장치 없이도 모놀리식 LDS·지르코니아 *대구치 단일관*의 기술 합병증·생존을 단기(3년)에 유의하게 악화시키지 않았다고 보고 — 충분 두께(교합 ≥1.3mm) 모놀리식 단일관에 한정된 신호이며, 다단위 보철·임플란트·장기(>3년) 피로 파절에는 외삽 금지(저자 명시). [근거강함, 단 단기·단일관 한정]
+요약: 이갈이는 보철 **재료·설계 의사결정의 입력 변수**다. Bruxer에서 veneered ceramic보다 monolithic, 단일치 균열 위험 인지, 교합력 분산 설계가 따라온다. 단 **반직관적 nuance**: Bömicke 2026 RCT(n=109, 3년)는 EMG 확진 수면이갈이가 교합장치 없이도 모놀리식 LDS·지르코니아 *대구치 단일관*의 기술 합병증·생존을 단기(3년)에 유의하게 악화시키지 않았다고 보고 — 충분 두께(교합 ≥1.3mm) 모놀리식 단일관에 한정된 신호이며, 다단위 보철·임플란트·장기(>3년) 피로 파절에는 외삽 금지(저자 명시). [확인, 단 단기·단일관 한정]
 
 ### 하류 ③ — 임플란트 (late failure)
 
 | Spine paper | Evidence | Key finding |
 |---|---|---|
-| [[implants/song-2021-implant-complications-bruxism-patients]] | narrative-review (JKAOMS editorial) | early/late 프레임: 이갈이는 골유착(early)이 아니라 late failure(픽스처·스크류·보철 파절, 심한 MBL, decementation) 구동; 식립 전 EMG·PSG 스크리닝 + 스플린트/BTX 권고 |
+| [[implants/survival/song-2021-implant-complications-bruxism-patients]] | narrative-review (JKAOMS editorial) | early/late 프레임: 이갈이는 골유착(early)이 아니라 late failure(픽스처·스크류·보철 파절, 심한 MBL, decementation) 구동; 식립 전 EMG·PSG 스크리닝 + 스플린트/BTX 권고 |
 | [[implants/stilwell-2024-occlusal-considerations-implant-maintenance]] | narrative-review (BDJ) | 임플란트 파절률 ~0.5%; **치주인대 없음 → 충격흡수·고유감각 결여**; 4단계 연간 교합 점검; 이갈이 보호장치 필수 |
 | [[implants/lee-2018-unilateral-mastication-bone-density-alveolus]] | (관찰) | 편측 저작·교합 부하가 치조골 밀도에 미치는 영향 |
 
@@ -139,16 +139,16 @@ Clinical takeaway: for implant patients with bruxism, use splint as first-line p
 가장 비직관적이고 임상 결정에 직접 영향을 주는 합류점:
 
 - **논리적 매력**: 이갈이가 임플란트 late failure를 과부하로 구동한다면(Song 2021), 근육 힘을 줄이는 BoNT-A는 합리적 사전 중재로 보인다.
-- **함정**: Deng 2023(rat femoral) — BTX 유도 마비는 BV/TV↓·porosity↑·BIC↓(특히 smooth surface). 즉 BoNT-A는 과부하가 위협하는 바로 그 골유착을 동시에 약화시킨다. [동물 근거강함]
+- **함정**: Deng 2023(rat femoral) — BTX 유도 마비는 BV/TV↓·porosity↑·BIC↓(특히 smooth surface). 즉 BoNT-A는 과부하가 위협하는 바로 그 골유착을 동시에 약화시킨다. [확인 (동물실험)]
 - **사람 데이터 공백**: BoNT-A가 사람 임플란트 골유착에 미치는 영향은 [미검증]. 동물 신호를 무시할 수도, 사람에 그대로 외삽할 수도 없다.
-- **실무 결론**: 임플란트 bruxer에서 **스플린트를 1차 보호로**, BoNT-A는 식립 골유착 기간을 피하고(예: 골유착 완료 후) 순응도 실패·중증에 한해 escalation. 식립과 동시기 마스세터 BoNT-A는 동물 근거상 신중. [claude해석]
+- **실무 결론**: 임플란트 bruxer에서 **스플린트를 1차 보호로**, BoNT-A는 식립 골유착 기간을 피하고(예: 골유착 완료 후) 순응도 실패·중증에 한해 escalation. 식립과 동시기 마스세터 BoNT-A는 동물 근거상 신중. [미검증]
 
 ### 오판 패턴
 
-- "이갈이는 임플란트 골유착을 방해한다" — 아니다. early failure 아닌 **late** failure(과부하)다 — Song 2021. [합의수준]
-- "교합조정이 이갈이·TMD를 고친다" — Singh 2024 Cochrane + BMJ 2023 모두 미지지; 비가역 치료를 1차로 쓰지 말 것. [근거강함]
-- "BoNT-A는 bruxer에 안전한 보호" — 마스세터 위축·temporalis 보상·골유착 동물 부정 신호. 특히 임플란트 환자에서 단순 "안전" 라벨 금지. [근거강함(부작용) / 미검증(사람 골유착)]
-- "BTX가 이갈이에 효과 있다(SR 다수)" — SR은 많으나 13/14가 AMSTAR-2 critically low, GRADE 성공 0/14 — Coelho 2025. SR 개수 ≠ 근거 질. [근거강함]
+- "이갈이는 임플란트 골유착을 방해한다" — 아니다. early failure 아닌 **late** failure(과부하)다 — Song 2021. [확인]
+- "교합조정이 이갈이·TMD를 고친다" — Singh 2024 Cochrane + BMJ 2023 모두 미지지; 비가역 치료를 1차로 쓰지 말 것. [확인]
+- "BoNT-A는 bruxer에 안전한 보호" — 마스세터 위축·temporalis 보상·골유착 동물 부정 신호. 특히 임플란트 환자에서 단순 "안전" 라벨 금지. [확인 (부작용), 사람 골유착 영향은 미검증]
+- "BTX가 이갈이에 효과 있다(SR 다수)" — SR은 많으나 13/14가 AMSTAR-2 critically low, GRADE 성공 0/14 — Coelho 2025. SR 개수 ≠ 근거 질. [확인]
 
 ## Phase 2 확장 후보 (Stub)
 
@@ -164,8 +164,8 @@ Clinical takeaway: for implant patients with bruxism, use splint as first-line p
 - [[overviews/zirconia-types-clinical-selection]] — 하류 ② 보철 재료 선택
 
 확신도 등급:
-- 인과축 모형 = [claude해석] (병태생리 통합; 개별 link는 근거 등급 상이)
-- 하류 ① TMD 보존 = [근거강함], BTX = [합의수준]
-- 하류 ② 치아·보철 = [합의수준]
-- 하류 ③ 임플란트 late failure = [합의수준] (narrative/editorial 기반; 상관성 "controversial"로 명시됨)
-- BoNT-A 골유착 역설 = 동물 [근거강함] / 사람 [미검증]
+- 인과축 모형 = [미검증] (병태생리 통합; 개별 link는 근거 등급 상이)
+- 하류 ① TMD 보존 = [확인], BTX = [확인]
+- 하류 ② 치아·보철 = [확인]
+- 하류 ③ 임플란트 late failure = [확인] (narrative/editorial 기반; 상관성 "controversial"로 명시됨)
+- BoNT-A 골유착 역설 = 동물 [확인] / 사람 [미검증]

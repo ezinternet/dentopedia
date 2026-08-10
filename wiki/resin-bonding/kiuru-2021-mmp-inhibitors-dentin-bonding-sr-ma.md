@@ -6,7 +6,7 @@ date: 2021-05-27
 doi: 10.1155/2021/9949699
 source: kiuru-2021-mmp-inhibitors-dentin-bonding-sr-ma.md
 category: [resin-bonding]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "34135969"

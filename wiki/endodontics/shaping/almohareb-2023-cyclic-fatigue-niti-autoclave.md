@@ -6,7 +6,7 @@ date: 2023-01-20
 doi: 10.7717/peerj.14656
 source: almohareb-2023-cyclic-fatigue-niti-autoclave.md
 category: [endodontics/shaping]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/almohareb-2023-cyclic-fatigue-niti-autoclave.pdf
 pdf_filename: almohareb-2023-cyclic-fatigue-niti-autoclave.pdf
 source_collection: external

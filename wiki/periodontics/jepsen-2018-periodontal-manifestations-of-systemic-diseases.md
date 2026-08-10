@@ -6,7 +6,7 @@ date: 2018-06-01
 doi: "10.1002/JPER.17-0733"
 source: jepsen-2018-periodontal-manifestations-of-systemic-diseases.md
 category: periodontics
-confidence: consensus
+evidence_level: consensus
 pdf_path: /Users/oracleneo/llm-wiki/papers/jepsen-2018-periodontal-manifestations-of-systemic-diseases.pdf
 pdf_filename: jepsen-2018-periodontal-manifestations-of-systemic-diseases.pdf
 source_collection: external

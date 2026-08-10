@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1111/cid.70007
 journal: Clinical Implant Dentistry and Related Research 2025;27:e70007
 source: scaini-2025-lateral-sinus-floor-elevation-ridge-augmentation.md
-confidence: narrative-review
+evidence_level: narrative-review
 category: [sinus-lift/lateral]
 pdf_path: /Users/oracleneo/llm-wiki/papers/scaini-2025-lateral-sinus-floor-elevation-ridge-augmentation.pdf
 pdf_filename: scaini-2025-lateral-sinus-floor-elevation-ridge-augmentation.pdf

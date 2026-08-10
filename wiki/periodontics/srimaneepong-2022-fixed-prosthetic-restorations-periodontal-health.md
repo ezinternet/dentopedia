@@ -6,7 +6,7 @@ date: 2022-02-01
 doi: 10.3390/jfb13010015
 source: srimaneepong-2022-fixed-prosthetic-restorations-periodontal-health.md
 category: [periodontics]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/srimaneepong-2022-fixed-prosthetic-restorations-periodontal-health.pdf
 pdf_filename: srimaneepong-2022-fixed-prosthetic-restorations-periodontal-health.pdf
 source_collection: external

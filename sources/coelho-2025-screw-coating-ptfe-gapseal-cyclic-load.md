@@ -18,7 +18,7 @@ relations:
 
 ## Why Ingested
 
-Prior page [[prosthetic-materials/coelho-2024-preload-removal-torque-screw-coatings-laboratory]] tested PTFE vs GapSeal under static (non-cyclic) conditions. This 2025 follow-up by the same group adds the critical clinical dimension of cyclic loading (ISO 14801: 300,000 cycles, 37 °C distilled water, simulating 1 year of chewing), revealing that cyclic loading reverses PTFE's RTV deficit — making it the highest-RTV coating under oral simulation despite consistently lowering preload. Extends and qualifies the 2024 finding.
+Prior page [[prosthetic-materials/abutment-screw/coelho-2024-preload-removal-torque-screw-coatings-laboratory]] tested PTFE vs GapSeal under static (non-cyclic) conditions. This 2025 follow-up by the same group adds the critical clinical dimension of cyclic loading (ISO 14801: 300,000 cycles, 37 °C distilled water, simulating 1 year of chewing), revealing that cyclic loading reverses PTFE's RTV deficit — making it the highest-RTV coating under oral simulation despite consistently lowering preload. Extends and qualifies the 2024 finding.
 
 ## Three-line Summary
 
@@ -97,7 +97,7 @@ PTFE의 RTV 역전은 파쇄된 PTFE 파편의 기계적 맞물림으로 추정�
 
 ## 6. Related Work
 
-- Coelho 2024 (same group, nCL only): [[prosthetic-materials/coelho-2024-preload-removal-torque-screw-coatings-laboratory]]
+- Coelho 2024 (same group, nCL only): [[prosthetic-materials/abutment-screw/coelho-2024-preload-removal-torque-screw-coatings-laboratory]]
 - GapSeal peri-implantitis prevention studies (Hager & Werken application basis)
 - Chen et al. — PTFE thermal-spray coating reduced coefficient of friction and increased preload (contrasting methodology)
 - Biscoping et al. — KieroSeal nCL; Rathe et al. — KieroSeal at varying torques (related silicone sealing gel literature)

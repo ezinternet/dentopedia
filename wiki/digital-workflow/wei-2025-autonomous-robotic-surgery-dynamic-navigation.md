@@ -6,7 +6,7 @@ date: 2025-08-20
 doi: "10.1111/clr.70024"
 source: wei-2025-autonomous-robotic-surgery-dynamic-navigation.md
 category: [digital-workflow]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/wei-2025-autonomous-robotic-surgery-dynamic-navigation.pdf
 pdf_filename: wei-2025-autonomous-robotic-surgery-dynamic-navigation.pdf
 source_collection: external

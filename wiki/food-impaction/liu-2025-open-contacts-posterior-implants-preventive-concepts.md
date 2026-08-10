@@ -6,7 +6,7 @@ date: 2025-09-03
 doi: 10.1016/j.jds.2025.08.035
 source: liu-2025-open-contacts-posterior-implants-preventive-concepts.md
 category: [food-impaction]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: true
 pmid: "41585145"

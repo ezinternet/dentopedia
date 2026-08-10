@@ -6,7 +6,7 @@ date: 2015-03-01
 doi: 10.7599/hmr.2015.35.1.9
 source: shin-wj-2015-systematic-review-meta-analysis-introduction.md
 category: evidence-appraisal
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/shin-wj-2015-systematic-review-meta-analysis-introduction.pdf
 pdf_filename: shin-wj-2015-systematic-review-meta-analysis-introduction.pdf
 source_collection: external

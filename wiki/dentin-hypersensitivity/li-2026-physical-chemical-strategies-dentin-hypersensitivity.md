@@ -6,7 +6,7 @@ date: 2025-09-23
 doi: "10.1016/j.jare.2025.09.041"
 source: li-2026-physical-chemical-strategies-dentin-hypersensitivity.md
 category: [dentin-hypersensitivity]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/li-2026-physical-chemical-strategies-dentin-hypersensitivity.pdf
 pdf_filename: li-2026-physical-chemical-strategies-dentin-hypersensitivity.pdf
 source_collection: external

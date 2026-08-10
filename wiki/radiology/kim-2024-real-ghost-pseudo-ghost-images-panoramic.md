@@ -6,7 +6,7 @@ date: 2024-02-06
 doi: 10.5624/isd.20230256
 source: kim-2024-real-ghost-pseudo-ghost-images-panoramic.md
 category: [radiology]
-confidence: case-report
+evidence_level: case-report
 pdf_path: /Users/oracleneo/llm-wiki/papers/kim-2024-real-ghost-pseudo-ghost-images-panoramic.pdf
 pdf_filename: kim-2024-real-ghost-pseudo-ghost-images-panoramic.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2025-12-18
 doi: 10.3390/life15121939
 source: inchingolo-2025-elastodontic-pharyngeal-airway-functional-treatment.md
 category: [orthodontics/myofunctional]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 full_text: true
 pmid: "41465876"

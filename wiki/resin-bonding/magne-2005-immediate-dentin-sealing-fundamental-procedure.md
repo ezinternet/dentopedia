@@ -6,7 +6,7 @@ date: 2005-01-01
 doi: 10.1111/j.1708-8240.2005.tb00103.x
 source: magne-2005-immediate-dentin-sealing-fundamental-procedure.md
 category: [resin-bonding]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/magne-2005-immediate-dentin-sealing-fundamental-procedure.pdf
 pdf_filename: magne-2005-immediate-dentin-sealing-fundamental-procedure.pdf
 source_collection: external
@@ -60,8 +60,8 @@ Narrative review of >30 articles on dentin bonding for indirect restorations; in
 - [[resin-bonding/samartzi-2021-immediate-dentin-sealing-review]] — later narrative review.
 - [[resin-bonding/josic-2022-ids-postoperative-sensitivity-sr-ma]] — POS claim challenged.
 
-## 임상 적용 [claude해석]
+## 임상 적용 [미검증]
 
-- [근거강함, 개념 정의] IDS protocol 표준 reference.
-- [합의수준] Filled adhesive resin liner 병용은 후속 임상 textbook 다수가 채택.
-- [claude해석] 본 paper의 "decreased dentin sensitivity" claim은 in-vivo RCT가 아니라 in-vitro permeability 추론에 기반 → [[resin-bonding/josic-2022-ids-postoperative-sensitivity-sr-ma]] 와 [[resin-bonding/alghauli-2025-clinical-benefits-immediate-dentin-sealing]] 간 충돌의 원시 origin.
+- [확인, 개념 정의] IDS protocol 표준 reference.
+- [미검증] Filled adhesive resin liner 병용은 후속 임상 textbook 다수에서 채택된 것으로 보인다(본 논문이 직접 검증한 것은 아님).
+- [미검증] 본 paper의 "decreased dentin sensitivity" claim은 in-vivo RCT가 아니라 in-vitro permeability 추론에 기반 → [[resin-bonding/josic-2022-ids-postoperative-sensitivity-sr-ma]] 와 [[resin-bonding/alghauli-2025-clinical-benefits-immediate-dentin-sealing]] 간 충돌의 원시 origin.

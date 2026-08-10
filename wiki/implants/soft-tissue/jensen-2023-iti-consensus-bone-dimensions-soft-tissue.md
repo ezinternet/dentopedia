@@ -6,7 +6,7 @@ date: 2023-07-20
 doi: 10.1111/clr.14154
 source: jensen-2023-iti-consensus-bone-dimensions-soft-tissue.md
 category: [implants/soft-tissue]
-confidence: consensus
+evidence_level: consensus
 pdf_path: /Users/oracleneo/llm-wiki/papers/jensen-2023-iti-consensus-bone-dimensions-soft-tissue.pdf
 pdf_filename: jensen-2023-iti-consensus-bone-dimensions-soft-tissue.pdf
 source_collection: external
@@ -62,6 +62,6 @@ For soft tissue: single-implant peri-implant bone and clinical parameters (probi
 ## Related Papers
 
 - [[implants/cicciu-2023-buccal-palatal-bone-thickness-marginal]] — single-study evidence on buccal/palatal bone thickness and marginal bone, contextualized by this consensus' BBW <1.5 mm threshold.
-- [[implants/thoma-2018-soft-tissue-augmentation-periimplant-health]] — soft tissue augmentation and peri-implant health; consensus' STA review extends this medium/long-term.
-- [[implants/tavelli-2025-soft-tissue-dehiscences-implant-sites-ao-aap]] — peri-implant soft tissue dehiscence management, the indication for CTG augmentation discussed here.
+- [[implants/soft-tissue/thoma-2018-soft-tissue-augmentation-periimplant-health]] — soft tissue augmentation and peri-implant health; consensus' STA review extends this medium/long-term.
+- [[implants/soft-tissue/tavelli-2025-soft-tissue-dehiscences-implant-sites-ao-aap]] — peri-implant soft tissue dehiscence management, the indication for CTG augmentation discussed here.
 - [[bone-regeneration/ridge-preservation/choi-2017-single-double-layer-collagen-membrane-arp]] — collagen membrane GBR evidence relevant to the simultaneous-GBR recommendation.

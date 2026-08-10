@@ -7,7 +7,7 @@ doi: ""
 journal: "Anesth Prog 59(2)"
 source: becker-2012-local-anesthetics-pharmacological-considerations.md
 category: [local-anesthesia]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/becker-2012-local-anesthetics-pharmacological-considerations.pdf
 pdf_filename: becker-2012-local-anesthetics-pharmacological-considerations.pdf
 source_collection: external
@@ -39,11 +39,11 @@ Narrative CE 평론(Anesth Prog 2012): 치과 국소마취 Na⁺채널 기전, �
 
 This is the foundational pharmacology reference for the wiki's local-anesthesia cluster — a Becker & Reed continuing-education review covering mechanism, kinetics, maximum doses, and toxicity for the agents used in dentistry. It is the substrate that makes the clinical-outcome LA pages interpretable.
 
-[합의수준] **Mechanism**: LAs block the Na⁺ channel preferentially in its activated/inactivated states; small rapid-firing fibers are most sensitive (autonomic > sensory > motor; pain > pressure). **Onset is governed by pKa** via Henderson-Hasselbalch — all dental LAs have pKa > 7.4, so most molecules are cationic (water-soluble) at injection; inflamed/infected tissue (low pH) shifts further toward the cationic form, explaining hard-to-anesthetize hot teeth. Bupivacaine (pKa 8.1) has the slowest onset. **Duration tracks protein binding** (bupivacaine 95% vs mepivacaine 55%). **Potency tracks lipid solubility** (bupivacaine 0.5% vs articaine 4%).
+[확인] **Mechanism**: LAs block the Na⁺ channel preferentially in its activated/inactivated states; small rapid-firing fibers are most sensitive (autonomic > sensory > motor; pain > pressure). **Onset is governed by pKa** via Henderson-Hasselbalch — all dental LAs have pKa > 7.4, so most molecules are cationic (water-soluble) at injection; inflamed/infected tissue (low pH) shifts further toward the cationic form, explaining hard-to-anesthetize hot teeth. Bupivacaine (pKa 8.1) has the slowest onset. **Duration tracks protein binding** (bupivacaine 95% vs mepivacaine 55%). **Potency tracks lipid solubility** (bupivacaine 0.5% vs articaine 4%).
 
-[합의수준] **Metabolism**: amides hepatic, esters plasma-esterase. Articaine is an amide whose ester side chain gives plasma-esterase clearance (t½ 20–40 min vs >90 min for other amides) — lower systemic-toxicity risk during long appointments.
+[확인] **Metabolism**: amides hepatic, esters plasma-esterase. Articaine is an amide whose ester side chain gives plasma-esterase clearance (t½ 20–40 min vs >90 min for other amides) — lower systemic-toxicity risk during long appointments.
 
-[claude해석] This page underpins the epinephrine-concentration evidence in [[drug/karm-2017-lidocaine-epinephrine-200000-third-molar]] (it explains why >1:200,000 epinephrine adds no onset/duration benefit for IANB) and the buffered-LA RCTs (it explains the pH/pKa onset mechanism those papers manipulate by raising cartridge pH).
+[미검증] This page underpins the epinephrine-concentration evidence in [[drug/analgesics/karm-2017-lidocaine-epinephrine-200000-third-molar]] (it explains why >1:200,000 epinephrine adds no onset/duration benefit for IANB) and the buffered-LA RCTs (it explains the pH/pKa onset mechanism those papers manipulate by raising cartridge pH).
 
 ## Key Contributions
 
@@ -59,7 +59,7 @@ Narrative (non-systematic) CE review synthesizing landmark pharmacokinetic studi
 
 ## Results
 
-### Maximum doses & properties (Table 2) [합의수준]
+### Maximum doses & properties (Table 2) [확인]
 
 | Formulation | Max dose mg/kg (total mg) | t½β (min) | Pulpal (infiltration / block) | Soft-tissue |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ Narrative (non-systematic) CE review synthesizing landmark pharmacokinetic studi
 † Articaine 7 mg/kg (US insert); 5 mg/kg children (Canadian insert); 500 mg total inferred at 70 kg.
 ‡ Bupivacaine not FDA-approved <16 y; ~90 mg total.
 
-### Toxicity anchors [합의수준]
+### Toxicity anchors [확인]
 
 - **Lidocaine**: toxicity signs may start serum >5 µg/mL; convulsive seizures generally >10 µg/mL. Peak serum 20–30 min; reduced/delayed by 1:200,000 epinephrine.
 - **Paresthesia** (Garisto, 248 US cases, ~95% mandibular blocks, 89% lingual): **7.3× with 4% articaine, 3.6× with 4% prilocaine** vs other LAs → favor lower-concentration agents for nerve blocks; reserve 4% for infiltration.
@@ -89,10 +89,10 @@ Narrative (non-systematic) CE review synthesizing landmark pharmacokinetic studi
 
 ## Related Papers
 
-- [[drug/karm-2017-lidocaine-epinephrine-200000-third-molar]] — RCT support for the "1:200,000 epinephrine adds no benefit over 1:100,000 for blocks" principle stated here.
-- [[drug/kalra-2024-buffered-lidocaine-articaine-extraction-rct]] — buffered LA; this page supplies the pH/pKa onset mechanism it exploits.
-- [[drug/karunakar-2024-buffered-precooled-lidocaine-ianb-pulpitis]] — buffered/precooled lidocaine onset.
-- [[drug/hamad-2025-buffered-lidocaine-infiltration-extraction-rct]] — buffered lidocaine infiltration.
-- [[drug/gandhi-2022-preheated-buffered-lignocaine-ianb-pulpitis-rct]] — preheated buffered lignocaine.
-- [[drug/li-2023-articaine-lidocaine-adverse-effects-pediatric-ma]] — pediatric articaine safety, contextualized by the 4% paresthesia caveat here.
+- [[drug/analgesics/karm-2017-lidocaine-epinephrine-200000-third-molar]] — RCT support for the "1:200,000 epinephrine adds no benefit over 1:100,000 for blocks" principle stated here.
+- [[local-anesthesia/kalra-2024-buffered-lidocaine-articaine-extraction-rct]] — buffered LA; this page supplies the pH/pKa onset mechanism it exploits.
+- [[local-anesthesia/karunakar-2024-buffered-precooled-lidocaine-ianb-pulpitis]] — buffered/precooled lidocaine onset.
+- [[local-anesthesia/hamad-2025-buffered-lidocaine-infiltration-extraction-rct]] — buffered lidocaine infiltration.
+- [[local-anesthesia/gandhi-2022-preheated-buffered-lignocaine-ianb-pulpitis-rct]] — preheated buffered lignocaine.
+- [[local-anesthesia/li-2023-articaine-lidocaine-adverse-effects-pediatric-ma]] — pediatric articaine safety, contextualized by the 4% paresthesia caveat here.
 </content>

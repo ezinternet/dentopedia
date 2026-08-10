@@ -6,7 +6,7 @@ date: 2022-01-01
 doi: 10.4081/ejtm.2022.10813
 source: aliabadi-2022-antibiotic-use-endodontic-treatment-pregnancy.md
 category: [drug/antibiotics]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/aliabadi-2022-antibiotic-use-endodontic-treatment-pregnancy.pdf
 pdf_filename: aliabadi-2022-antibiotic-use-endodontic-treatment-pregnancy.pdf
 source_collection: external
@@ -62,6 +62,6 @@ This narrative review addresses a common but under-guided scenario: pregnant pat
 
 ## Related Papers
 
-- [[drug/zhou-2023-pregnancy-physiology-oral-local-anesthesia-review]] — reinforces: detailed local-anesthesia-in-pregnancy physiology and agent choice.
-- [[drug/orire-2026-revisiting-disulfiram-reaction-alcohol-metronidazole]] — metronidazole (listed here as an intracanal agent) alcohol-interaction context.
+- [[local-anesthesia/zhou-2023-pregnancy-physiology-oral-local-anesthesia-review]] — reinforces: detailed local-anesthesia-in-pregnancy physiology and agent choice.
+- [[drug/antibiotics/orire-2026-revisiting-disulfiram-reaction-alcohol-metronidazole]] — metronidazole (listed here as an intracanal agent) alcohol-interaction context.
 - [[overviews/drug-antibiotic-stewardship-overview]] — applies-to: dental antibiotic prescribing principles, here applied to pregnancy.

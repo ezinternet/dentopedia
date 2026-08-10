@@ -6,7 +6,7 @@ date: 2022-09-05
 doi: 10.1111/clr.13993
 journal: Clinical Oral Implants Research 33(11):1098-1113
 source: fu-2022-pseudocyst-removal-retainment-msfa-cohort.md
-confidence: retrospective
+evidence_level: retrospective
 category: [sinus-lift/pseudocyst]
 pdf_path: /Users/oracleneo/llm-wiki/papers/fu-2022-pseudocyst-removal-retainment-msfa-cohort.pdf
 pdf_filename: fu-2022-pseudocyst-removal-retainment-msfa-cohort.pdf
@@ -50,14 +50,14 @@ Antral Pseudocyst (AP) 발견 시 술자 결정: 제거 vs 잔존. 본 후향 �
 - 합병증 차이는 본문 Table 참조 (감염·sinusitis episode 분포)
 
 ## Decision Tree Implications
-- **소형 AP·임상 무증상**: LC 옵션이 less invasive — 본 연구 근거로 시도 가능 [합의수준]
+- **소형 AP·임상 무증상**: LC 옵션이 less invasive — 본 연구 근거로 시도 가능 [확인]
 - **대형 (>20mm) MRC**: 본 연구 cohort에 충분히 포함 안 됨 — 별도 판단 (Lee 2024 등 참조)
 - **낭종이 lateral window 시야 가림·천공 위험**: 제거 우선
 
 ## Strengths and Caveats
-[claude해석] n=26는 통계적 결론보다 case series 수준의 임상적 통찰로 활용
+[미검증] n=26는 통계적 결론보다 case series 수준의 임상적 통찰로 활용
 [미검증] 5년 이후 장기 implant survival·grafted bone resorption 데이터 부재
-[근거강함] 3D volumetric 측정으로 hard/soft tissue 동시 평가는 강점
+[확인] 3D volumetric 측정으로 hard/soft tissue 동시 평가는 강점
 
 ## Related Papers
 - [[sinus-lift/pseudocyst/yu-2023-immediate-delayed-sinus-pseudocyst-rct]] — when 결정 (RCT)

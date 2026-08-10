@@ -49,8 +49,8 @@ RCT; 20명; 추적 12개월; CBCT로 협측 골 두께 측정.
 소규모; 단기 추적.
 
 ## 6. Related Work
-- [[immediate-implant/stagnaro-borgia-2022-immediate-implant-buccal-defect-tuberosity-rct]] — related
-- [[immediate-implant/wittneben-2023-immediate-implant-loaded-single-crown-sr]] — related
+- [[immediate-implant/gap-grafting/stagnaro-borgia-2022-immediate-implant-buccal-defect-tuberosity-rct]] — related
+- [[immediate-implant/loading-protocol/wittneben-2023-immediate-implant-loaded-single-crown-sr]] — related
 
 ## 7. Glossary
 jumping gap: 임플란트-치조벽 틈새; DBBM: Deproteinized Bovine Bone Mineral 탈단백 소유래골; CBCT: Cone Beam CT

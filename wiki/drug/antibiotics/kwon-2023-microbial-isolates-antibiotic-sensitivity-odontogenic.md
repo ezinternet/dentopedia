@@ -6,7 +6,7 @@ date: 2023-08-31
 doi: 10.5125/jkaoms.2023.49.4.198
 source: kwon-2023-microbial-isolates-antibiotic-sensitivity-odontogenic.md
 category: [drug/antibiotics]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 full_text: true
 pmid: "37641902"

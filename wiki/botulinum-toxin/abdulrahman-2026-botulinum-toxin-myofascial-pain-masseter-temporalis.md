@@ -9,7 +9,7 @@ text_path: /Users/oracleneo/llm-wiki/papers/abdulrahman-2026-botulinum-toxin-myo
 text_filename: abdulrahman-2026-botulinum-toxin-myofascial-pain-masseter-temporalis.txt
 source: abdulrahman-2026-botulinum-toxin-myofascial-pain-masseter-temporalis.md
 category: [botulinum-toxin]
-confidence: prospective
+evidence_level: prospective
 source_collection: pubmed-text
 full_text: false
 tags: [myofascial-pain, long-term, 2-year]

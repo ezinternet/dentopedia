@@ -6,7 +6,7 @@ date: 2023-10-01
 doi: 10.1186/s12998-023-00489-x
 source: menendez-torre-2023-dry-needling-vs-manual-therapy-tmd-nma.md
 category: [tmj]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/menendez-torre-2023-dry-needling-vs-manual-therapy-tmd-nma.pdf
 pdf_filename: menendez-torre-2023-dry-needling-vs-manual-therapy-tmd-nma.pdf
 source_collection: external

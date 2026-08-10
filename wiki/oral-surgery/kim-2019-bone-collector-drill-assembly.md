@@ -6,7 +6,7 @@ date: 2019-10-30
 doi: "KR 10-2327565 B1 (출원 10-2019-0136020)"
 source: kim-2019-bone-collector-drill-assembly.md
 category: [oral-surgery]
-confidence: patent
+evidence_level: patent
 pdf_path: /Users/oracleneo/llm-wiki/papers/kim-2019-bone-collector-drill-assembly.pdf
 pdf_filename: kim-2019-bone-collector-drill-assembly.pdf
 source_collection: external
@@ -34,7 +34,7 @@ This is an instrument design patent (no clinical outcome data); its wiki value i
 
 ## Summary
 
-This is the second **(주)해냄 (HaeNaem Co.)** patent (companion to the condensing screw [[implants/kim-2019-double-spiral-condensing-screw-implant]], same inventor Kim Seong-ju). It is a **granted** patent (B1) for a 자가골 (autogenous bone) harvesting drill, not a clinical study.
+This is the second **(주)해냄 (HaeNaem Co.)** patent (companion to the condensing screw [[implants/osteotomy-thermal/kim-2019-double-spiral-condensing-screw-implant]], same inventor Kim Seong-ju). It is a **granted** patent (B1) for a 자가골 (autogenous bone) harvesting drill, not a clinical study.
 
 Conventional bone collectors use a rigid transparent collection cup pushed by an elastic member toward the wound; this exerts a large pressure (P) on the surgical site and causes patient pain, and insertion depth is hard to judge. The invention replaces the rigid cup with an **opaque elastic stopper sleeve (탄성스토퍼, 120)** carrying a thin, larger-diameter **folding band (접힘밴드, 125)** in its middle. As the drill body cuts into the alveolar bone, the band folds and bulges radially in proportion to the insertion depth — giving the surgeon an external, visible depth readout — and at the preset maximum depth the upper and lower folding grooves (상부접힘홈 127 / 하부접힘홈 126) meet as a stop. Harvested bone and blood are gathered through a **collection hole (수집공, 113)** in the drill body. The stated advantages are easier reading of collected volume and insertion depth plus reduced patient pain versus rigid-cup designs.
 
@@ -57,5 +57,5 @@ No clinical or bench measurements (patent document). Asserted effects only: easi
 
 ## Related Papers
 
-- [[implants/kim-2019-double-spiral-condensing-screw-implant]] — companion (주)해냄 / Kim Seong-ju patent (condensing screw / HaeNaem OD bur)
+- [[implants/osteotomy-thermal/kim-2019-double-spiral-condensing-screw-implant]] — companion (주)해냄 / Kim Seong-ju patent (condensing screw / HaeNaem OD bur)
 - [[oral-surgery/al-maawi-2021-prf-extraction-socket-healing-sr]] — adjunct biologic context for socket/graft healing

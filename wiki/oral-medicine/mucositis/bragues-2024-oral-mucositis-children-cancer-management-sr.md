@@ -6,7 +6,7 @@ date: 2024-04-12
 doi: 10.3390/cancers16081548
 source: bragues-2024-oral-mucositis-children-cancer-management-sr.md
 category: [oral-medicine/mucositis]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/bragues-2024-oral-mucositis-children-cancer-management-sr.txt
 pdf_filename: bragues-2024-oral-mucositis-children-cancer-management-sr.txt
 source_collection: pubmed-text

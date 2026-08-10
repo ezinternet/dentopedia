@@ -3,7 +3,7 @@ title: "Overview: Dental Workforce Delegation, Skill-Mix & Team Communication"
 type: synthesis
 category: overviews
 date: 2026-06-27
-confidence: synthesis
+evidence_level: synthesis
 source_collection: synthesis
 source_papers:
   - wiki/practice-management/chen-2024-dental-hygienist-autonomy-care-utilization.md

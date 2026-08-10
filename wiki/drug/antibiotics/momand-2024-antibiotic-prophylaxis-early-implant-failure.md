@@ -6,7 +6,7 @@ date: 2024-07-25
 doi: "10.1186/s12903-024-04611-0"
 source: momand-2024-antibiotic-prophylaxis-early-implant-failure.md
 category: [drug/antibiotics]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "39054434"
@@ -72,6 +72,6 @@ This SR+MA isolates the highest-quality evidence on a long-contested question: d
 ## Related Papers
 
 - [[drug/antibiotics/torof-2023-antibiotic-dental-implant-procedures-sr-ma]] — contradicts (earlier SR+MA recommended preoperative single-dose amoxicillin; this placebo-RCT-only analysis finds no significant benefit)
-- [[implants/yari-2023-risk-factors-early-implant-failure]] — refines (early-failure risk is driven by anatomy/host/protocol, not prophylaxis)
-- [[implants/uesugi-2024-risk-factors-early-failure-all-on-four]] — relates (same outcome, immediate-loading cohort)
-- [[implants/fan-2024-smoking-early-implant-failure-sr-ma]] — relates (smoking, a residual confounder noted across included RCTs)
+- [[implants/survival/yari-2023-risk-factors-early-implant-failure]] — refines (early-failure risk is driven by anatomy/host/protocol, not prophylaxis)
+- [[implants/full-arch/uesugi-2024-risk-factors-early-failure-all-on-four]] — relates (same outcome, immediate-loading cohort)
+- [[implants/survival/fan-2024-smoking-early-implant-failure-sr-ma]] — relates (smoking, a residual confounder noted across included RCTs)

@@ -6,7 +6,7 @@ date: 2021-01-01
 doi: ""
 source: el-ghobashy-osseodensification-vs-osteotome-transcrestal-sinus.md
 category: [sinus-lift/transcrestal]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/el-ghobashy-osseodensification-vs-osteotome-transcrestal-sinus.pdf
 pdf_filename: el-ghobashy-osseodensification-vs-osteotome-transcrestal-sinus.pdf
 source_collection: external
@@ -47,4 +47,4 @@ Randomized clinical trial comparing osseodensification using Densah burs versus 
 ## Related Papers
 - [[sinus-lift/transcrestal/starch-jensen-2025-transcrestal-sinus-osseodensification-meta-analysis]] — SR+MA: OD higher ISQ vs OMSFE
 - [[sinus-lift/transcrestal/shalash-2023-crestal-sinus-elevation-densah-oblique]] — OD for oblique sinus floor
-- [[implants/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — original OD technique paper
+- [[implants/osseodensification/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — original OD technique paper

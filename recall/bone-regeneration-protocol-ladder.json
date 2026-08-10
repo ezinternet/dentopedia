@@ -1,0 +1,49 @@
+{
+  "overview": "bone-regeneration-protocol-ladder",
+  "date": "2026-07-23",
+  "title": "골재생 프로토콜 사다리(ARP) — 리콜",
+  "source_wiki": [
+    "wiki/overviews/bone-regeneration-protocol-ladder.md"
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "q": "발치 후 자연 치유 시 흡수 양상과 치조제 보존술(ARP)의 효과 크기는?",
+      "opts": [
+        "수직 흡수가 수평보다 크고 ARP는 효과 없음",
+        "6개월에 수평 폭 −3.79mm(수평이 수직보다 압도적)로 흡수, ARP는 수평 흡수를 1.86–2.19mm 줄임(Bassir 2018, Troiano 2018)",
+        "자연 치유로 골량이 오히려 증가",
+        "ARP는 수직 높이만 보존하고 수평 폭은 못 지킴"
+      ],
+      "ans": 1,
+      "rat": "자연 치유: 6개월 수평 폭 −3.79mm(29–63%), 수직 협측 −1.24~1.67mm — 수평 흡수가 압도적. ARP는 자연 치유 대비 수평 흡수 1.86–2.19mm 감소(Bassir 2018, Troiano 2018 SR+MA). 즉시식립 불가 + 4–6개월 healing 필요 발치 → ARP 1차 권고. 협측 thin(BBT<1mm)에서 이득 최대.",
+      "cite": "overviews/bone-regeneration-protocol-ladder"
+    },
+    {
+      "id": "q2",
+      "q": "ARP 이식재(graft) 선택에 관한 근거는?",
+      "opts": [
+        "자가골이 이종골보다 임상 결과가 확실히 우월",
+        "allograft·xenograft·alloplast 간 임상 결과 차이 미미, 이종골(Bio-Oss/DBBM)=자가골 수준 — 재료는 비용·흡수 프로파일 기준으로 선택",
+        "합성골(β-TCP)이 항상 1순위",
+        "이식재 없이 자연 치유가 가장 낫다"
+      ],
+      "ans": 1,
+      "rat": "이식재 간 임상 결과 차이 미미, 이종골(Bio-Oss/DBBM)=자가골 수준 → 비용·흡수 프로파일 기준 선택. 일반 케이스 = DBBM+콜라겐 막, 비용 민감 = β-TCP(근거 다소 약함), 자가치아입자(APDM chairside)=DBBM 대등(Feng 2024). 콜라겐 차폐막+DBBM이 표준 조합.",
+      "cite": "overviews/bone-regeneration-protocol-ladder"
+    },
+    {
+      "id": "q3",
+      "q": "'차폐막이 노출되면 실패다'라는 통념에 대한 옳은 판단은?",
+      "opts": [
+        "모든 막 노출은 곧 재생 실패다",
+        "dPTFE는 애초에 노출 디자인이며, 콜라겐은 노출 시 빨리 분해되므로 1차 봉합 또는 punch graft 봉쇄가 필요 — 막 종류에 따라 다름",
+        "노출되면 즉시 막을 제거하고 재수술",
+        "콜라겐 막은 노출되어도 문제없다"
+      ],
+      "ans": 1,
+      "rat": "'막 노출=실패'는 오판. dPTFE는 애초 노출 디자인(4–6주 후 제거), 콜라겐은 노출 시 빨리 분해되므로 1차 봉합·punch graft 봉쇄 필요. 결정 트리: 4벽 socket→flapless Bio-Col(DBBM+콜라겐), 1–2벽 결손→판막거상+DBBM+dPTFE, 심미부 결손→FGG/CTG 추가.",
+      "cite": "overviews/bone-regeneration-protocol-ladder"
+    }
+  ]
+}

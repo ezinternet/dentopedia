@@ -6,7 +6,7 @@ date: 2024-08-01
 doi: 10.1111/jcpe.13988
 source: ko-2024-adjunctive-effect-polydeoxyribonucleotide-bone-formation.md
 category: [pdrn]
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/ko-2024-adjunctive-effect-polydeoxyribonucleotide-bone-formation.pdf
 pdf_filename: ko-2024-adjunctive-effect-polydeoxyribonucleotide-bone-formation.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2015-01-01
 doi: "10.1186/s13104-015-1479-z"
 source: friele-2015-complaint-handling-healthcare-expectation.md
 category: complaint-management
-confidence: cross-sectional
+evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/friele-2015-complaint-handling-healthcare-expectation.pdf
 pdf_filename: friele-2015-complaint-handling-healthcare-expectation.pdf
 source_collection: external

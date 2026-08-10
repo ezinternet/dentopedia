@@ -6,7 +6,7 @@ date: 2022-07-27
 doi: 10.1155/2022/1614739
 source: ohyama-2022-novel-management-severe-odontogenic-maxillary.md
 category: [sinus-lift/lateral]
-confidence: case-report
+evidence_level: case-report
 source_collection: pubmed-text
 full_text: true
 pmid: "35935340"

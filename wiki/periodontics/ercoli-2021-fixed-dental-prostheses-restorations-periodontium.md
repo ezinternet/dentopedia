@@ -6,7 +6,7 @@ date: 2020-11-19
 doi: 10.1111/jopr.13292
 source: ercoli-2021-fixed-dental-prostheses-restorations-periodontium.md
 category: [periodontics]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/ercoli-2021-fixed-dental-prostheses-restorations-periodontium.pdf
 pdf_filename: ercoli-2021-fixed-dental-prostheses-restorations-periodontium.pdf
 source_collection: external

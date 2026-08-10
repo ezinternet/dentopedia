@@ -6,7 +6,7 @@ date: 2024-12-02
 doi: "10.1111/jcpe.14091"
 source: yu-2025-autonomous-robotic-versus-dynamic-navigation.md
 category: [digital-workflow]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/yu-2025-autonomous-robotic-versus-dynamic-navigation.pdf
 pdf_filename: yu-2025-autonomous-robotic-versus-dynamic-navigation.pdf
 source_collection: external

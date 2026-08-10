@@ -6,7 +6,7 @@ date: 2026-06-28
 doi: N/A
 source: synthesis
 category: overviews
-confidence: synthesis
+evidence_level: synthesis
 pdf_path: N/A
 pdf_filename: N/A
 source_collection: synthesis
@@ -103,8 +103,8 @@ Patient-consent–ready numbers, strongest source first:
 | Buccal mucosal recession (RCT) | 0.18 mm | 0.52 mm (xenograft) | −0.34 mm | Atef 2021 (rct) |
 | Buccal bone mean diff (MA) | — | — | −0.5 mm favoring SST | Gharpure 2022 (sr+ma) |
 
-[근거강함] BBPR·MBL·PES 우월 방향은 Oliva 2023·Velasco 2021·Gharpure 2022·Atef 2021에서 일관 — direction of effect is robust.
-[claude해석] 환자 설명용: "협측 골판 흡수가 약 1 mm에서 0.3 mm로, 3배가량 줄어듭니다." 단, point estimate는 case-series 비중이 커 절대값보다 방향성으로 전달.
+[확인] BBPR·MBL·PES 우월 방향은 Oliva 2023·Velasco 2021·Gharpure 2022·Atef 2021에서 일관 — direction of effect is robust.
+[미검증] 환자 설명용: "협측 골판 흡수가 약 1 mm에서 0.3 mm로, 3배가량 줄어듭니다." 단, point estimate는 case-series 비중이 커 절대값보다 방향성으로 전달.
 
 ## Complication Profile
 
@@ -115,17 +115,17 @@ The headline trade-off. Reported complication rates diverge by review scope and 
 - **Complication taxonomy** (Lin 2022): shield mobility, infection, internal/external exposure, coronal/apical migration, apical resorption.
 - **Complication-free survival**: 90.5% (Ogawa 2022).
 
-[합의수준] 실드 노출·이동이 SST 특유의 주 합병증이며 술자 숙련도 의존적. 합병증이 발생해도 implant survival 자체는 높게 유지(98.6% Oliva)되나, 미용 실패·재수술 위험이 본질적 비용.
+[확인] 실드 노출·이동이 SST 특유의 주 합병증이며 술자 숙련도 의존적. 합병증이 발생해도 implant survival 자체는 높게 유지(98.6% Oliva)되나, 미용 실패·재수술 위험이 본질적 비용.
 
 ## Biomechanics (in-vitro)
 
 A finite element analysis ([[immediate-implant/socket-shield/neves-2023-socket-shield-stress-distribution-fea]]) modeled a maxillary central incisor implant crown under combined oblique loads (100 N lingual + 25.5 N incisal) comparing three buccal-wall conditions: socket shield (2.0-mm dentin fragment), heterologous bone graft, and a fully bone-embedded control. Both SST and bone graft transmitted **higher peri-implant bone stress than the control**, and the **socket shield produced the highest stress concentration** in peri-implant tissues.
 
-[claude해석] This is the mechanistic bridge to the complication profile: the shield that protects the buccal plate clinically also concentrates load at the peri-implant interface, a plausible driver of shield migration/resorption. [미검증] FEA is idealized (static loads, assumed material properties, no biological remodeling) and stress ≠ clinical failure — treat as hypothesis-generating, not as a contraindication.
+[미검증] This is the mechanistic bridge to the complication profile: the shield that protects the buccal plate clinically also concentrates load at the peri-implant interface, a plausible driver of shield migration/resorption. [미검증] FEA is idealized (static loads, assumed material properties, no biological remodeling) and stress ≠ clinical failure — treat as hypothesis-generating, not as a contraindication.
 
 ## Decision Framework
 
-**1차 권고** — esthetic-zone single immediate implant에서 협측 골판 보존이 critical하고 다른 옵션(CTG·이종골)으로 부족할 때, **숙련 술자에 한해** SST 고려. [근거강함: 방향성] / [미검증: 장기 예측성]
+**1차 권고** — esthetic-zone single immediate implant에서 협측 골판 보존이 critical하고 다른 옵션(CTG·이종골)으로 부족할 때, **숙련 술자에 한해** SST 고려. [확인: 방향성] / [미검증: 장기 예측성]
 
 When SST is reasonable:
 - Anterior maxilla, high esthetic demand, thin/intact buccal plate at risk of resorption.
@@ -142,12 +142,12 @@ Alternatives and trade-offs:
 - **CTG + immediate provisional**: standard esthetic-zone soft-tissue play; well-evidenced, no retained root.
 - **SST**: best buccal/PES numbers, worst complication-pattern uncertainty.
 
-**Graft vs no-graft inside the shield** — whether SST still needs a simultaneous jumping-gap graft is unsettled. Gurbuz 2024 (RCT, non-grafted socket; abstract-only) directly addresses this, supporting a graft-optional shield, consistent with the "minimally invasive, graft-optional" framing in Verma 2022. [추정 — 전문 미입수; 수치는 ingest 후 확정]
+**Graft vs no-graft inside the shield** — whether SST still needs a simultaneous jumping-gap graft is unsettled. Gurbuz 2024 (RCT, non-grafted socket; abstract-only) directly addresses this, supporting a graft-optional shield, consistent with the "minimally invasive, graft-optional" framing in Verma 2022. [미검증 — 전문 미입수; 수치는 ingest 후 확정]
 
 ## Indication Expansion (frontier, low evidence)
 
 - **Posterior / lower molar**: feasible as proof of principle ([[immediate-implant/socket-shield/simuntis-2025-socket-shield-lower-molar-case]]) — single case, no cohort confirmation. [미검증]
-- **Orthodontic extraction sites**: paired RCT (n=26) suggests ridge preservation when an orthodontically-moved tooth's buccal root is retained ([[immediate-implant/socket-shield/zhang-2026-socket-shield-orthodontic-premolar-rct]]); shield-removal timing depends on tooth-movement rate. [근거강함 within-design / 추정 generalizability]
+- **Orthodontic extraction sites**: paired RCT (n=26) suggests ridge preservation when an orthodontically-moved tooth's buccal root is retained ([[immediate-implant/socket-shield/zhang-2026-socket-shield-orthodontic-premolar-rct]]); shield-removal timing depends on tooth-movement rate. [확인 (연구 설계 내), 일반화는 미검증]
 
 ## Open Questions
 

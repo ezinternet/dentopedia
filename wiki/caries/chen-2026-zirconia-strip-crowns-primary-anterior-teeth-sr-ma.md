@@ -6,7 +6,7 @@ date: 2026-01-30
 doi: 10.1186/s12903-026-07759-z
 source: chen-2026-zirconia-strip-crowns-primary-anterior-teeth-sr-ma.md
 category: [caries]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "41612344"
@@ -66,5 +66,5 @@ Sensitivity analyses (leave-one-out) showed no material change to effect estimat
 
 ## Related Papers
 
-- [[wiki/caries/chavhan-2026-zirconia-vs-ssc-primary-dentition-sr-ma]] — reinforces: companion SR+MA in primary **molars** comparing PZC vs stainless steel crown (equivalent retention, better gingival health/esthetics for PZC); this paper extends the PZC evidence base to **anterior** teeth against a different comparator (RCSC), completing the primary-dentition PZC decision picture.
-- [[wiki/caries/bani-hani-2026-pediatric-zirconia-crowns-luting-agents-rct]] — related: RCT on PZC cementation/luting-agent choice in primary incisors; addresses a downstream technique question (how to cement PZC) once PZC is selected as the restoration of choice per this SR+MA's effectiveness findings.
+- [[caries/chavhan-2026-zirconia-vs-ssc-primary-dentition-sr-ma]] — reinforces: companion SR+MA in primary **molars** comparing PZC vs stainless steel crown (equivalent retention, better gingival health/esthetics for PZC); this paper extends the PZC evidence base to **anterior** teeth against a different comparator (RCSC), completing the primary-dentition PZC decision picture.
+- [[caries/bani-hani-2026-pediatric-zirconia-crowns-luting-agents-rct]] — related: RCT on PZC cementation/luting-agent choice in primary incisors; addresses a downstream technique question (how to cement PZC) once PZC is selected as the restoration of choice per this SR+MA's effectiveness findings.

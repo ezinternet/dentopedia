@@ -46,8 +46,8 @@ Narrative review; no quantitative pooling.
 
 ## 6. Related Work
 - [[periodontics/cha-2024-peri-implantitis-treatment-protocol-flowchart]]
-- [[periodontics/kim-2024-peri-implant-diseases-consensus-korean-academy-periodontology]]
-- [[periodontics/grusovin-2022-antibiotics-non-surgical-peri-implantitis-ma]]
+- [[implants/peri-implantitis/kim-2024-peri-implant-diseases-consensus-korean-academy-periodontology]]
+- [[implants/peri-implantitis/grusovin-2022-antibiotics-non-surgical-peri-implantitis-ma]]
 
 ## 7. Glossary
 - **PPD:** Probing Pocket Depth.

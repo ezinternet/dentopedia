@@ -6,7 +6,7 @@ date: 2025-12-08
 doi: 10.1016/j.ortho.2025.101091
 source: ye-2025-combined-use-of-miniscrews.md
 category: [orthodontics/clear-aligner]
-confidence: case-report
+evidence_level: case-report
 pdf_path: /Users/oracleneo/llm-wiki/papers/ye-2025-combined-use-of-miniscrews.pdf
 pdf_filename: ye-2025-combined-use-of-miniscrews.pdf
 source_collection: external

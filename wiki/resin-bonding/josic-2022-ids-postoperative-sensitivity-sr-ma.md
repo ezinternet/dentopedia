@@ -6,7 +6,7 @@ date: 2022-01-01
 doi: 10.1111/jerd.12841
 source: josic-2022-ids-postoperative-sensitivity-sr-ma.md
 category: [resin-bonding]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/josic-2022-ids-postoperative-sensitivity-sr-ma.pdf
 pdf_filename: josic-2022-ids-postoperative-sensitivity-sr-ma.pdf
 source_collection: external
@@ -65,8 +65,8 @@ The conflict with [[resin-bonding/alghauli-2025-clinical-benefits-immediate-dent
 - [[resin-bonding/hardan-2022-immediate-dentin-sealing-sr-ma]] — in-vitro bond strength (no POS outcome).
 - [[resin-bonding/samartzi-2021-immediate-dentin-sealing-review]] — narrative review predating.
 
-## 임상 적용 [claude해석]
+## 임상 적용 [미검증]
 
-- [근거강함] IDS의 POS reduction 임상 증거는 GRADE low — 환자 설명 시 "IDS가 술후 시린 느낌을 줄여준다"는 단정 회피.
-- [합의수준, conflict] alghauli-2025와 직접 충돌 → "결론 미정" 입장 유지.
-- [claude해석] Bond strength·gap formation 이점은 in-vitro 일관 → IDS 시행 자체는 정당화되지만 POS 마케팅은 부적절. living-document 원칙 ([[feedback_wiki-living-document]]) — Magne 시대 narrative claim을 무비판적으로 옮기지 않음.
+- [확인] IDS의 POS reduction 임상 증거는 GRADE low — 환자 설명 시 "IDS가 술후 시린 느낌을 줄여준다"는 단정 회피.
+- [확인, conflict] alghauli-2025와 직접 충돌 → "결론 미정" 입장 유지.
+- [미검증] Bond strength·gap formation 이점은 in-vitro 일관 → IDS 시행 자체는 정당화되지만 POS 마케팅은 부적절. living-document 원칙 ([[feedback_wiki-living-document]]) — Magne 시대 narrative claim을 무비판적으로 옮기지 않음.

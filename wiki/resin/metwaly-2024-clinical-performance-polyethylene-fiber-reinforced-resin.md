@@ -6,7 +6,7 @@ date: 2024-10-01
 doi: 10.1186/s12903-024-05009-8
 source: metwaly-2024-clinical-performance-polyethylene-fiber-reinforced-resin.md
 category: [resin]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/metwaly-2024-clinical-performance-polyethylene-fiber-reinforced-resin.pdf
 pdf_filename: metwaly-2024-clinical-performance-polyethylene-fiber-reinforced-resin.pdf
 source_collection: external

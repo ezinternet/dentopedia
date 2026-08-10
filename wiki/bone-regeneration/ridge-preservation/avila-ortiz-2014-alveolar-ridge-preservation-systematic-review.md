@@ -6,7 +6,7 @@ date: 2014-06-03
 doi: 10.1177/0022034514541127
 source: avila-ortiz-2014-alveolar-ridge-preservation-systematic-review.md
 category: [bone-regeneration/ridge-preservation]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/avila-ortiz-2014-alveolar-ridge-preservation-systematic-review.pdf
 pdf_filename: avila-ortiz-2014-alveolar-ridge-preservation-systematic-review.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2022-11-09
 doi: 10.7717/peerj-cs.1147
 source: alabdulkarim-2022-predicting-no-shows-dental-appointments.md
 category: [practice-management]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 full_text: true
 pmid: "36426240"

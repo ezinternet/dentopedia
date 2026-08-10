@@ -6,7 +6,7 @@ date: 2024-08-15
 doi: 10.1186/s12903-024-04682-z
 source: wolf-2024-maxillary-canines-root-canal-configuration-sr-ma.md
 category: endodontics/anatomy
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "39143543"

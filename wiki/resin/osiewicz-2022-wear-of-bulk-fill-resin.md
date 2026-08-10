@@ -6,7 +6,7 @@ date: 2022-01-01
 doi: 10.1016/j.dental.2021.12.138
 source: osiewicz-2022-wear-of-bulk-fill-resin.md
 category: [resin]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/osiewicz-2022-wear-of-bulk-fill-resin.pdf
 pdf_filename: osiewicz-2022-wear-of-bulk-fill-resin.pdf
 source_collection: external

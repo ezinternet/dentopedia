@@ -1,0 +1,41 @@
+Title: An update on trismus: etiology, diagnosis and treatment
+Authors: Falletti M, Cuccarelli M, Evangelisti E, Zampogna A, Patera M, Truini A, Romeo U, Suppa A
+Journal: Frontiers in Neurology
+Year: 2026
+DOI: 10.3389/fneur.2026.1758417
+PMID: 41952852
+PMCID: PMC13053315
+
+[Full text retrieved from PubMed Central — PMC13053315]
+
+Trismus, commonly known as "lockjaw," is a clinical condition characterised by a persistent, involuntary restriction in the ability to open the mouth due to tonic contraction or spasm of the masticatory muscles. This narrative review proposes a novel etiological classification distinguishing neurological from non-neurological causes and introduces a stepwise diagnostic and management algorithm.
+
+ETIOLOGICAL CLASSIFICATION:
+
+Neurological — CNS Structural: TBI/DAI, brain tumours, stroke, MS, CNS infections (meningitis, encephalitis)
+Neurological — CNS Non-structural: Parkinson's/PSP/CBD, status epilepticus, oromandibular dystonia, drug-induced (phenothiazines, metoclopramide, fluoxetine, tricyclics), Wilson's disease, uremic encephalopathy, hemimasticatory spasm, functional disorder, catatonia
+Neurological — PNS Structural: trigeminal nerve lesions (V3 iatrogenic injury), tumours of masticator space
+Neurological — PNS Non-structural: tetanus (tetanospasmin blocks GABA/glycine), heavy metal poisoning (Pb/Hg)
+Non-neurological — Structural: TMJ disorders, tumours, trauma, orofacial infections (pericoronitis, periapical abscess, deep fascial space, peritonsillar abscess, osteomyelitis), mandibular/maxillary fractures, post-surgical oedema/hematoma, radiation therapy fibrosis, prolonged immobility, burns, autoimmune (RA, scleroderma, temporal arteritis), congenital malformations
+Non-neurological — Non-structural: hypocalcaemia, hypomagnesaemia, malignant hyperthermia (succinylcholine/halothane masseter spasm), drug-induced (etomidate), muscle contractures, myofascial pain syndrome
+
+DIAGNOSIS:
+- Trismus: interincisal distance < 35 mm (normal 40–60 mm)
+- Red flags: airway compromise, deep neck space infections, tetanus, CNS infections, intracranial lesions
+- Clinical history, physical exam (interincisal distance, TMJ function, jaw ROM, cranial nerve assessment)
+- Instrumental: MRI/CT, nerve conduction + trigeminal reflex, EMG, EEG, USS, FEES, jaw tracking
+
+TREATMENT:
+- NSAIDs + muscle relaxants (acute uncomplicated trismus)
+- Discontinue offending drugs
+- Correct metabolic disturbances
+- Tetanus: immunoglobulin + supportive care
+- Orofacial infections: antibiotics + surgical drainage
+- BoNT-A: neurological trismus or non-neurological without structural restriction; inhibits ACh at NMJ
+- Baclofen (GABA-B agonist): neurological spastic trismus (stroke, DAI, CP, MS); oral or intrathecal
+- Physical therapy: passive stretching + jaw mobilisation exercises; multiple daily sessions
+- Coronoidectomy: extra-articular trismus (temporalis fibrosis, post-radiation); requires postoperative PT
+- Myotomy: muscular contracture; less predictable
+- Free vascularized flap reconstruction: advanced fibrosis/post-oncologic cases
+
+PROGNOSIS: Self-limiting in most cases, resolves within 2 weeks; post-RT fibrosis protracted course

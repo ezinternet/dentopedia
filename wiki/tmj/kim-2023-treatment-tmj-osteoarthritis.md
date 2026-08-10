@@ -6,7 +6,7 @@ date: 2023-03-31
 doi: 10.22974/jkda.2023.61.5.003
 source: kim-2023-treatment-tmj-osteoarthritis.md
 category: [tmj]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/kim-2023-treatment-tmj-osteoarthritis.pdf
 pdf_filename: kim-2023-treatment-tmj-osteoarthritis.pdf
 source_collection: external

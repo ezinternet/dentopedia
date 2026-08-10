@@ -45,13 +45,13 @@ Class I most prevalent. Establishes that the typical anterior tooth root sits ag
 Original cohort population-specific; CBCT voxel precision limits sub-mm interpretation.
 
 ## 6. Related Work
-- [[immediate-implant/habib-2024-srp-decision-making-immediate-implant-cbct]]
-- [[immediate-implant/kong-2020-srp-maxillary-anterior-korean-population]]
-- [[immediate-implant/espinoza-espinoza-2023-srp-alveolar-wall-thickness-peruvian]]
-- [[immediate-implant/rodrigues-2022-srp-periodontal-phenotype-anterior-maxillary]]
-- [[immediate-implant/rodrigues-2022-srp-brazilian-anterior-bone-housing-isd]]
-- [[immediate-implant/abdul-2024-srp-maxillary-mandibular-anterior-cbct]]
-- [[immediate-implant/petaibunlue-2019-anterior-arch-root-position-angulation]]
+- [[immediate-implant/anatomic-assessment/habib-2024-srp-decision-making-immediate-implant-cbct]]
+- [[immediate-implant/anatomic-assessment/kong-2020-srp-maxillary-anterior-korean-population]]
+- [[immediate-implant/anatomic-assessment/espinoza-espinoza-2023-srp-alveolar-wall-thickness-peruvian]]
+- [[immediate-implant/anatomic-assessment/rodrigues-2022-srp-periodontal-phenotype-anterior-maxillary]]
+- [[immediate-implant/anatomic-assessment/rodrigues-2022-srp-brazilian-anterior-bone-housing-isd]]
+- [[immediate-implant/anatomic-assessment/abdul-2024-srp-maxillary-mandibular-anterior-cbct]]
+- [[immediate-implant/anatomic-assessment/petaibunlue-2019-anterior-arch-root-position-angulation]]
 
 ## 7. Glossary
 - **IIP:** Immediate Implant Placement — placement at the time of tooth extraction.

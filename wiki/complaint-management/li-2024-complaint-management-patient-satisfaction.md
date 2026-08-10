@@ -6,7 +6,7 @@ date: 2024-01-01
 doi: "10.1097/MD.0000000000037275"
 source: li-2024-complaint-management-patient-satisfaction.md
 category: complaint-management
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/li-2024-complaint-management-patient-satisfaction.pdf
 pdf_filename: li-2024-complaint-management-patient-satisfaction.pdf
 source_collection: external

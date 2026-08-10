@@ -6,7 +6,7 @@ date: 2024-04-30
 doi: 10.1186/s12903-024-04314-6
 source: el-sheikh-2024-laser-debonding-ultrathin-occlusal-veneers.md
 category: veneers
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/el-sheikh-2024-laser-debonding-ultrathin-occlusal-veneers.pdf
 pdf_filename: el-sheikh-2024-laser-debonding-ultrathin-occlusal-veneers.pdf
 source_collection: external
@@ -72,4 +72,4 @@ Key findings: debonding time was statistically equivalent across all three mater
 - [[veneers/maldonado-2024-cadcam-occlusal-veneers-fatigue-fracture-sr]] — fracture/fatigue performance of occlusal veneers; different failure mode but same material range
 - [[veneers/al-akhali-2017-fracture-resistance-ceramic-polymer-occlusal]] — fracture resistance of ceramic and polymer-based occlusal veneers; context for mechanical behavior of same materials
 - [[veneers/sasse-2015-restoration-thickness-bonding-surface-fracture]] — thickness and bonding surface effects on fracture resistance of lithium disilicate occlusal veneers
-- [[dental-materials/zirconia/blatz-2018-resin-bonding-high-strength-ceramics-review]] — resin bonding protocols for high-strength ceramics; underlies cementation method used here
+- [[dental-materials/ceramic/blatz-2018-resin-bonding-high-strength-ceramics-review]] — resin bonding protocols for high-strength ceramics; underlies cementation method used here

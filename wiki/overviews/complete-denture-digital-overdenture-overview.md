@@ -3,7 +3,7 @@ title: "Complete Dentures & Implant-Supported Overdentures — Digital Fabricati
 category: [overviews]
 type: overview
 date: 2026-06-18
-confidence: synthesis
+evidence_level: synthesis
 source_wiki:
   - wiki/complete-denture/abou-ayash-2023-implant-supported-fixed-complete-dentures.md
   - wiki/complete-denture/alhajj-2017-occlusal-vertical-dimension-complete-denture-review.md
@@ -12,6 +12,7 @@ source_wiki:
   - wiki/complete-denture/fayad-2025-vertical-dimension-determination-prosthodontics-review.md
   - wiki/complete-denture/goyal-2026-anthropometric-methods-vertical-dimension-occlusion-sr-ma.md
   - wiki/complete-denture/jafarpour-2024-cadcam-versus-traditional-complete-dentures.md
+  - wiki/complete-denture/jofre-2010-splinting-mini-implants-marginal-bone-loss-rct.md
   - wiki/complete-denture/khorasani-2024-3d-printed-vs-milled-complete.md
   - wiki/complete-denture/koay-2024-comparative-effectiveness-denture-adhesives.md
   - wiki/complete-denture/lan-2025-long-term-four-implant-supported.md
@@ -23,14 +24,18 @@ source_wiki:
   - wiki/complete-denture/schmutzler-2021-cleaning-removable-dental-prostheses-sr.md
   - wiki/complete-denture/sheppard-1975-vertical-dimension-measurements-cephalometric.md
   - wiki/complete-denture/shu-2021-systematic-review-meta-analysis-denture-adhesives.md
+  - wiki/complete-denture/slot-2022-maxillary-bar-overdentures-four-six-implants-10year.md
   - wiki/complete-denture/sousa-2021-denture-microwave-disinfection-stomatitis-sr-ma.md
   - wiki/complete-denture/srinivasan-2021-cad-cam-removable-complete-dentures.md
   - wiki/complete-denture/sutariya-2021-mandibular-implant-supported-overdenture-systematic.md
   - wiki/complete-denture/tayari-2024-implant-supported-overdenture-failures-sr.md
   - wiki/complete-denture/taylor-2021-longevity-complete-dentures-sr-ma.md
+  - wiki/complete-denture/milic-lemic-2025-single-two-implant-mandibular-overdenture-umbrella-review.md
+  - wiki/complete-denture/refai-2026-occlusion-disocclusion-implant-overdentures-splinted.md
+  - wiki/complete-denture/sharka-2019-ohrqol-dentures-implant-overdentures.md
   - wiki/complete-denture/thu-2024-digital-complete-denture-clinical-laboratory.md
-  - wiki/implants/chappuis-chocano-2023-cadcam-bar-implant-overdenture-sr-ma.md
-  - wiki/implants/koyama-2025-single-vs-two-implant-mandibular-overdenture-sr-ma.md
+  - wiki/implants/full-arch/chappuis-chocano-2023-cadcam-bar-implant-overdenture-sr-ma.md
+  - wiki/implants/full-arch/koyama-2025-single-vs-two-implant-mandibular-overdenture-sr-ma.md
 tags: [complete-denture, overdenture, CAD-CAM, digital-denture, attachment-system, denture-adhesive, overdenture-failure, cad-cam-bar, single-implant-overdenture]
 ---
 
@@ -39,8 +44,8 @@ tags: [complete-denture, overdenture, CAD-CAM, digital-denture, attachment-syste
 > - **디지털 vs 전통 제작**: 밀링(Milling) CAD/CAM 의치는 굴곡강도·표면조도에서 우수하고, 유지력도 전통보다 높다(p=0.015). 3D 프린팅은 적합 정밀도에서 우수하지만 유지력이 전통보다 낮을 수 있다(Avelino 2024). 환자 만족도·OHRQoL은 세 방법 모두 동등. 디지털 워크플로우는 의자 시간 205–233분 절감, 비용도 낮으나 보더 몰딩 인상(Border-Molded Impression)과 시적 의치 단계 생략 시 유지력 상실(37.5%)·재제작(31.3%) 위험 증가.
 > - **간소화 vs 전통 제작**: 간소화 기법(2–4회 내원)은 전통 기법(5–6회) 대비 임상 시간 77분·비용 $86 절감, 6개월 이내 환자 만족도 동등(Sanjeevan 2021). 10년 장기 추적에서도 만족도 차이 없음.
 > - **고정성 vs 가철성 임플란트 보철**: 임플란트 지지 고정성 완전의치(Implant-supported Fixed Complete Denture, IFCD, g=1.68)와 임플란트 피개의치(Implant-Supported Overdenture, IOD, g=1.26)는 모두 큰 치료 효과를 보이며 전체 환자보고결과(dPRO)에서 유의한 차이 없음(p=.165). 의치 안정성만 IFCD가 유의하게 우수(ES 차이 2.37, p=.032) (Abou-Ayash 2023). 장기 데이터(≥5년, 상악 4임플란트): IFCD가 임플란트(98.5%)·보철물(99.9%) 생존율 높으나 변연골 흡수(Marginal Bone Loss, MBL)는 더 많음(−1.20 vs −0.27 mm) (Lan 2025).
-> - **임플란트 수**: 하악 단일 임플란트 IOD 5년 생존율 91.93%·10년 84.62% — 저비용 최소침습 옵션으로 유효(Padmanabhan 2020). **단일(1-IOD) vs 2개(2-IOD) 직접 비교 17편 RCT SR+MA: 임플란트 생존율은 5년까지 동등하나, 의치 파절·재제작·메탈하우징 재부착 같은 보철 합병증은 1-IOD에서 약 2배 잦음(5Y RR 2.10/2.57/2.31); 리라이닝·O-ring 교체는 차이 없음 → 구조강도 부족이 원인이므로 1-IOD 의치상에 금속 보강 권고(FEA: 하우징 인장응력 −61.8%) (Koyama 2025).** 하악 2임플란트 IOD는 단일보다 dPRO가 유의하게 높음(ES 차이 0.73, p<.001). 상악은 최소 4임플란트 필요; 상악 4임플란트 + 금속 보강 + 전체 구개 피개가 보철 실패 최저(8.33%) (Tayari 2024).
-> - **어태치먼트 시스템**: 바(Bar)·텔레스코픽(Telescopic) vs 볼(Ball)·LOCATOR — 스플린트 여부는 MBL·합병증·생존율에 유의한 차이 없음(Leao 2018, Prasad 2024). 보철 합병증 순위(적은 순): LOCATOR < Telescopic < Bar < Ball < 마그넷(Magnet); 마그넷은 7.4배 높은 보철 합병증 → 일상 사용 비권고. 4임플란트 바·텔레스코픽만 2임플란트 LOCATOR보다 MBL 유의하게 낮음(Bi 2022). **바(splinted) 선택 시 재료도 결정 변수 — CAD-CAM 밀링 티타늄 bar가 가장 근거가 탄탄(임플란트 생존 ~100%, bar 합병증 7.4%, MBL 0.324 mm, OHIP/만족도 최상); PEEK/BioHPP 폴리머 bar는 임플란트주위염 신호 → 회피 또는 감시 (Chappuis-Chocano 2023).**
+> - **임플란트 수**: 하악 단일 임플란트 IOD 5년 생존율 91.93%·10년 84.62% — 저비용 최소침습 옵션으로 유효(Padmanabhan 2020). **단일(1-IOD) vs 2개(2-IOD) 직접 비교 17편 RCT SR+MA: 임플란트 생존율은 5년까지 동등하나, 의치 파절·재제작·메탈하우징 재부착 같은 보철 합병증은 1-IOD에서 약 2배 잦음(5Y RR 2.10/2.57/2.31); 리라이닝·O-ring 교체는 차이 없음 → 구조강도 부족이 원인이므로 1-IOD 의치상에 금속 보강 권고(FEA: 하우징 인장응력 −61.8%) (Koyama 2025).** 하악 2임플란트 IOD는 단일보다 dPRO가 유의하게 높음(ES 차이 0.73, p<.001). 상악은 최소 4임플란트 필요; 상악 4임플란트 + 금속 보강 + 전체 구개 피개가 보철 실패 최저(8.33%) (Tayari 2024). **상악 4개 vs 6개 직접비교 10년 무작위대조시험 (Randomized Controlled Trial, RCT): 4개군 임플란트 생존율 100%(6개군 96.7%), 변연골 소실 (Marginal Bone Loss, MBL) 0.41 vs 0.70mm(유의차 없음), 만족도 동등 — 오히려 마모로 인한 의치 재제작이 6개군에서 더 많았다(12 vs 7). 즉 임플란트를 더 심어도 보철 유지관리 부담은 줄지 않는다. 단 전 증례가 장골능 골이식 (Iliac Crest Graft) 후 상악이고 제조사(Straumann) 지원·30% 탈락이므로, 자연골 위축 상악에 그대로 옮기지 말 것 (Slot 2022).**
+> - **어태치먼트 시스템**: 바(Bar)·텔레스코픽(Telescopic) vs 볼(Ball)·LOCATOR — 스플린트 여부는 MBL·합병증·생존율에 유의한 차이 없음(Leao 2018, Prasad 2024). **단 이 동등성은 표준직경 임플란트 근거이며 미니임플란트 (Mini-implant)에는 성립하지 않는다 — 비스플린트 시 최대 골응력이 2배(유한요소분석 (Finite Element Analysis, FEA) −118 vs −56.8 MPa), 24개월 MBL 1.43 vs 0.92mm, 수직(각형) 골흡수가 유의하게 더 많음(p<0.05) → 미니임플란트에서는 바 스플린팅 (Bar Splinting)이 생물학적 기본값 (Jofre 2010).** 보철 합병증 순위(적은 순): LOCATOR < Telescopic < Bar < Ball < 마그넷(Magnet); 마그넷은 7.4배 높은 보철 합병증 → 일상 사용 비권고. 4임플란트 바·텔레스코픽만 2임플란트 LOCATOR보다 MBL 유의하게 낮음(Bi 2022). **바(splinted) 선택 시 재료도 결정 변수 — CAD-CAM 밀링 티타늄 bar가 가장 근거가 탄탄(임플란트 생존 ~100%, bar 합병증 7.4%, MBL 0.324 mm, OHIP/만족도 최상); PEEK/BioHPP 폴리머 bar는 임플란트주위염 신호 → 회피 또는 감시 (Chappuis-Chocano 2023).**
 > - **의치 접착제**: 크림(Cream)·파우더(Powder) 접착제는 유지력(Kapur 지수), 교합력(Bite Force)을 유의하게 향상(중등도 근거); 스트립·쿠션은 유의한 효과 없음(Koay 2024). 전체적으로 접착제는 유지력 SMD 1.34, 교합력 SMD 0.98, 저작 기능 SMD 0.72 향상(Shu 2021).
 > - **유지관리**: 기계적(칫솔)+화학적(알칼리 과산화물) 병용 세정이 단독 방법보다 생물막 제거에 우수(Schmutzler 2021). 마이크로웨이브 소독은 nystatin 국소 항진균 치료와 동등한 의치성 구내염(Denture Stomatitis, DS) 치료 효과(저확실성 근거)(Sousa 2021).
 > - **수직교합고경(OVD) 결정**: 단일 방법은 없으며 사전·사후 발치 다중 기법 병용이 표준(Alhajj 2017, Fayad 2025). 안면·손가락 인체계측(Anthropometric)이 표준 OVD와 높은 상관(엄지 길이 r≈0.63)이지만 이질성(I²=99%)이 매우 높아 보조 수단에 그침(Goyal 2026). OVD 과다(+5mm)는 부정적 심리 지표 상승, 과소(−3mm)는 교합력 감소(Matsuda 2014).
@@ -169,7 +174,24 @@ The strongest direct comparison cleanly dissociates survival from maintenance bu
 - 4-implant overdentures: implant survival rate near 100% in delayed loading (Bi 2022)
 - 4-bar and 4-telescopic overdentures show significantly less MBL than 2-locator overdentures — the only significant peri-implant difference across attachment combinations
 - Maxillary arch requires minimum 4 implants for IOD; 2-implant maxillary IOD carries high implant failure (Tayari 2024)
-- 6-implant maxillary IOD: lowest implant failure but higher prosthetic maintenance burden
+- 6-implant maxillary IOD: lowest implant failure, but adding implants beyond 4 does not reduce — and in the one long-term RCT actually increased — the prosthetic maintenance burden (Slot 2022, below)
+
+**Maxillary 4 vs 6 implants head-to-head (Slot 2022, 10-year RCT, n = 66 enrolled / 46 completed):**
+
+The longest randomized comparison of maxillary bar-overdenture implant number turns the "minimum 4" recommendation from an inference off failure-rate tables into a directly sourced number:
+
+| Outcome at 10 years | 4 posterior implants | 6 posterior implants |
+|---|---|---|
+| Implant survival | **100%** | 96.7% |
+| MBL from baseline | **0.41 ± 0.37 mm** | 0.70 ± 1.07 mm (p = NS) |
+| New overdentures made (excessive wear) | **7** | 12 |
+| Patient satisfaction (VAS) | Improved from baseline | Improved from baseline; no between-group difference |
+| Peri-implant clinical scores | No significant between-group difference | |
+
+- **The extra two implants bought nothing measurable.** Survival, MBL, peri-implant clinical parameters, and satisfaction were all statistically indistinguishable; the authors conclude four posterior implants are sufficient for a maxillary bar overdenture in augmented bone.
+- **Prosthetic maintenance ran the opposite way to intuition**: the 6-implant group needed *more* new overdentures for wear (12 vs 7), not fewer. This puts an actual number on the previously vague "6-implant = lowest implant failure but higher prosthetic maintenance" framing — the maintenance penalty is real and lands on the prosthesis, not the implants. The trial does not explain the direction and remakes were not a powered endpoint, so it should not be over-read; but at minimum the data give no support for treating extra implants as insurance against prosthetic maintenance.
+- **Two caveats bound how far this transfers.** (1) *Population*: every patient had an atrophic maxilla reconstructed with an iliac crest graft, so the implant bed is grafted, not native. This does NOT establish that 4 implants suffice in an untreated, poor-quality Type III/IV native maxilla — which is precisely the population Tayari 2024's elevated maxillary failure rate describes. (2) *Funding and attrition*: Straumann-funded with COI disclosed, and 30% dropout (66 → 46) over 10 years, which biases the result toward surviving/compliant patients.
+- **Practical steer**: 4 is the planning default for a maxillary bar overdenture. Treat 6 as a response to a specific anatomic or biomechanical argument (implant distribution, cantilever length, opposing natural dentition), not as generic insurance — it has not been shown to reduce implant loss or prosthetic maintenance.
 
 ### Failure Risk Factors (Tayari 2024, 20 studies, 2018–2023)
 
@@ -198,6 +220,26 @@ The most actionable finding is **equivalence**: splinted (bar) and unsplinted (b
 - Biological complications (splinted vs unsplinted): P = .902
 
 This finding removes a key rationale for mandatory bar use. Attachment choice can be individualized based on cost, hygiene access, inter-implant angulation, and patient preference without compromising clinical outcomes.
+
+### Boundary Condition — The Splinting Equivalence Does Not Extend to Mini-Implants (Jofre 2010)
+
+The equivalence above rests on an unstated assumption: neither the Leao 2018 nor the Prasad 2024 evidence reports any stratification or subgroup by implant diameter, so "splinting is biologically optional" is an unqualified sentence built on conventional-diameter fixtures. Jofre 2010 (parallel-arm RCT + FEA, n = 45 edentulous patients, 90 mini-implants, anterior mandible, flapless, immediate loading, 24 months) tests exactly the case that assumption silently excludes — and it does not reproduce equivalence:
+
+| | Splinted (bar) | Unsplinted (ball) |
+|---|---|---|
+| FEA peak peri-implant bone stress | −56.8 MPa | −118 MPa (**2×**) |
+| MBL at 24 months | 0.92 ± 0.75 mm | 1.43 ± 1.26 mm |
+| Vertical (angular/dehiscence-type) resorption | Less prevalent | **Significantly more prevalent** (χ², P < .05) |
+
+**Read together, this is a scope limit on the equivalence claim, not a contradiction of it.** The pooled MD of −0.11 mm and Jofre's ~0.5 mm gap are not measuring the same biomechanical situation:
+
+- The FEA arm supplies the mechanism the clinical arms alone cannot: splinting cuts peak peri-implant bone stress by 52%. That redistribution is worth little when each fixture already has enough cross-section to hold peak stress well inside physiologic bone tolerance — the standard-diameter case, and the reason splinted and unsplinted converge in the pooled SRs.
+- Shrink the diameter and the same occlusal load is transferred across a much smaller implant–bone interface, so peak stress is already elevated *before* any attachment decision is made. Splinting's stress redistribution then moves that value across a threshold that matters, and the effect becomes visible at bone level — including a change in resorption *morphology* (vertical/angular defects rather than uniform crestal remodeling), which is a stress-concentration signature rather than ordinary remodeling.
+- Both group means still sit at or under the 1.5 mm biologic failure threshold cited above, but the unsplinted mini-implant mean (1.43 mm) is effectively at that threshold at only 24 months, while the splinted mean (0.92 mm) leaves headroom for the following decade.
+
+**Therefore**: "attachment choice needs no biologic justification" holds for standard-diameter implants and must not be carried over to mini-implants. With mini-implants, splinting is the biologically defensible default; unsplinted ball/LOCATOR attachments on mini-implants remain a legitimate choice on cost, hygiene-access, or angulation grounds, but it is a deliberate trade against measurably higher peri-implant stress rather than a free choice.
+
+**Strength of this caveat**: Jofre 2010 is a single small RCT (n = 45), 24-month follow-up, no reported implant survival, and immediately loaded throughout. It cannot and does not outweigh the pooled equivalence within the pooled evidence's own population. Its force comes from the FEA-plus-clinical pairing — a stated mechanism whose predicted direction is then observed clinically. What it establishes is a boundary on the equivalence claim, not its reversal.
 
 ### Prosthetic Complication Hierarchy (Prasad 2024, 25 RCTs — best evidence)
 
@@ -437,6 +479,12 @@ Priorities:
 Splinting: bar (splinted) vs others (unsplinted) = equivalent
 biological and implant outcomes (P = .902) — do NOT mandate bar
 for biological reasons; use clinical/cost criteria
+│
+└── EXCEPTION — MINI-IMPLANTS → prefer splinted bar
+    └── The equivalence above is standard-diameter evidence only.
+        Unsplinted mini-implants carry 2× peak bone stress
+        (FEA −118 vs −56.8 MPa), more 24-mo MBL (1.43 vs 0.92 mm),
+        and significantly more vertical resorption (Jofre 2010)
 ```
 
 ### Fixed vs Removable Decision
@@ -466,6 +514,14 @@ Patient priority:
 
 ## Related Papers
 
+### 신규 ingest cluster — 임플란트 피개의치 implant number·occlusal scheme·OHRQoL (2026-07-15, 3편)
+
+세 편은 "임플란트 추가 자체가 큰 도약, 그 이후 설계(임플란트 개수·splinting)는 하드 아웃컴 차이 작음" 원칙을 강화한다:
+
+- [[complete-denture/milic-lemic-2025-single-two-implant-mandibular-overdenture-umbrella-review]] — Umbrella (7 SR, AMSTAR-2 none high): 단일 임플란트 피개의치(SIMO)가 표준 2-임플란트(TIMO)와 comparable — 한 SR은 SIMO가 실패·MBL 모두 우세, 다른 SR은 TIMO가 1·5년 임플란트 실패·O-ring 교체 더 많음. 단일 임플란트는 더 단순한 viable 대안이나 근거질 low. (sr, 2025)
+- [[complete-denture/refai-2026-occlusion-disocclusion-implant-overdentures-splinted]] — 3-arm RCT (n=36, T-Scan): 두 임플란트군이 통상의치 대비 교합/이개 시간 유의 단축(OT CD 0.52 vs IB 0.35 vs IW 0.29s, group p<0.001, η²=0.79); **splinting(용접바 IW) vs 비splint(볼 IB)는 무차이**(OT p=0.06) → attachment는 단순성·유지관리·비용으로 결정. (rct, 2026)
+- [[complete-denture/sharka-2019-ohrqol-dentures-implant-overdentures]] — Umbrella (8 SR, JBI): 임플란트 유지 피개의치(IROD)가 통상의치(CCD)보다 OHRQoL·만족도 우세, 특히 임플란트 원하거나 통상의치 적응 불가 환자서 뚜렷. (sr, 2019)
+
 - [[complete-denture/taylor-2021-longevity-complete-dentures-sr-ma]] — conventional complete denture longevity baseline (10.1 yr)
 - [[complete-denture/srinivasan-2021-cad-cam-removable-complete-dentures]] — comprehensive CAD/CAM SR+MA (73 studies); mechanical and clinical outcomes
 - [[complete-denture/jafarpour-2024-cadcam-versus-traditional-complete-dentures]] — CAD/CAM vs traditional: patient outcomes, clinician satisfaction, cost
@@ -477,10 +533,12 @@ Patient priority:
 - [[complete-denture/lan-2025-long-term-four-implant-supported]] — long-term maxillary 4-implant IOD vs IFR outcomes
 - [[complete-denture/tayari-2024-implant-supported-overdenture-failures-sr]] — risk factors for IOD failure
 - [[complete-denture/padmanabhan-2020-single-implant-retained-overdenture-treatment]] — single-implant mandibular overdenture survival
-- [[implants/koyama-2025-single-vs-two-implant-mandibular-overdenture-sr-ma]] — 1-IOD vs 2-IOD RCT-only SR+MA: implant survival equivalent but ~2× prosthetic complications for 1-IOD → metal-framework reinforcement; updates earlier higher-survival-for-1-IOD claim
-- [[implants/chappuis-chocano-2023-cadcam-bar-implant-overdenture-sr-ma]] — CAD-CAM milled bar IODs SR+MA: milled titanium best-evidenced (ISR ~100%, complications 7.4%); PEEK/BioHPP polymer bars carry peri-implantitis signal
+- [[implants/full-arch/koyama-2025-single-vs-two-implant-mandibular-overdenture-sr-ma]] — 1-IOD vs 2-IOD RCT-only SR+MA: implant survival equivalent but ~2× prosthetic complications for 1-IOD → metal-framework reinforcement; updates earlier higher-survival-for-1-IOD claim
+- [[implants/full-arch/chappuis-chocano-2023-cadcam-bar-implant-overdenture-sr-ma]] — CAD-CAM milled bar IODs SR+MA: milled titanium best-evidenced (ISR ~100%, complications 7.4%); PEEK/BioHPP polymer bars carry peri-implantitis signal
 - [[complete-denture/prasad-2024-attachment-systems-mandibular-implant]] — attachment systems SR+MA; LOCATOR best, magnet worst
 - [[complete-denture/leao-2018-splinted-unsplinted-overdenture-attachment-systems]] — splinted vs unsplinted equivalence SR+MA
+- [[complete-denture/jofre-2010-splinting-mini-implants-marginal-bone-loss-rct]] — RCT + FEA boundary condition on that equivalence: with mini-implants, unsplinted doubles peak bone stress (−118 vs −56.8 MPa) and raises 24-mo MBL (1.43 vs 0.92 mm) with significantly more vertical resorption
+- [[complete-denture/slot-2022-maxillary-bar-overdentures-four-six-implants-10year]] — 10-year RCT, maxillary bar overdenture on 4 vs 6 posterior implants in augmented bone: 4 is sufficient (100% vs 96.7% survival, MBL NS), and the 6-implant group needed MORE overdenture remakes (12 vs 7)
 - [[complete-denture/bi-2022-attachment-type-implant-number-overdenture]] — attachment × implant number Bayesian NMA
 - [[complete-denture/sutariya-2021-mandibular-implant-supported-overdenture-systematic]] — mandibular IOD attachment comparison SR+MA
 - [[complete-denture/shu-2021-systematic-review-meta-analysis-denture-adhesives]] — DA efficacy: retention SMD 1.34, bite force SMD 0.98

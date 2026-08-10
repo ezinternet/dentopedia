@@ -8,20 +8,21 @@ category: [overviews]
 tags: [short-implant, sinus-augmentation, sinus-floor-elevation, posterior-maxilla, survival, marginal-bone-loss, PROM, decision-tree]
 source_papers:
   - wiki/sinus-lift/lateral/toledano-2022-short-versus-standard-implants-sinus.md
-  - wiki/implants/zhang-2024-short-vs-long-implants-sinus.md
+  - wiki/implants/short-narrow/zhang-2024-short-vs-long-implants-sinus.md
   - wiki/sinus-lift/lateral/chaware-2021-short-vs-long-implant-sinus-graft-sr-ma.md
   - wiki/sinus-lift/lateral/mester-2023-short-vs-standard-implants-sinus-floor-elevation-sr-ma.md
   - wiki/sinus-lift/lateral/aleman-2025-short-vs-long-implants-sinus-lift-5yr-sr-ma.md
   - wiki/sinus-lift/lateral/derbishi-2026-maxillary-sinus-augmentation-implant-survival-sr-ma.md
   - wiki/behavioral-dentistry/patient-reported-outcomes/menini-2025-proms-sinus-lift-procedures-sr-ma.md
   - wiki/sinus-lift/lateral/thoma-2024-short-6mm-vs-long-implants-sinus-elevation-10year-rct.md
-  - wiki/implants/xu-2020-short-vs-longer-implants-posterior-5year-sr-ma.md
-  - wiki/implants/emfietzoglou-2024-short-implants-6mm-survival-posterior-edentulism-sr.md
-  - wiki/implants/arbildo-vega-2025-short-vs-standard-implants-edentulous-umbrella-review.md
-  - wiki/implants/alenezi-2025-short-long-implants-sinus-floor-elevation.md
-  - wiki/implants/vetromilla-2021-short-standard-implants-sinus-umbrella.md
-  - wiki/implants/xu-2020-short-standard-single-crown-posterior.md
-  - wiki/implants/torres-alemany-2020-clinical-behavior-short-implants.md
+  - wiki/implants/short-narrow/xu-2020-short-vs-longer-implants-posterior-5year-sr-ma.md
+  - wiki/implants/short-narrow/emfietzoglou-2024-short-implants-6mm-survival-posterior-edentulism-sr.md
+  - wiki/implants/short-narrow/arbildo-vega-2025-short-vs-standard-implants-edentulous-umbrella-review.md
+  - wiki/implants/short-narrow/alenezi-2025-short-long-implants-sinus-floor-elevation.md
+  - wiki/implants/short-narrow/vetromilla-2021-short-standard-implants-sinus-umbrella.md
+  - wiki/implants/short-narrow/xu-2020-short-standard-single-crown-posterior.md
+  - wiki/implants/short-narrow/torres-alemany-2020-clinical-behavior-short-implants.md
+  - wiki/implants/short-narrow/lombardo-2022-short-ultrashort-implants-internal-sinus-lift.md
 ---
 
 ## 한국어 핵심요약
@@ -57,7 +58,7 @@ The decision shifts from survival to four gates: (1) residual bone height — RB
 ## Thesis
 The clinical question is no longer "does the short implant survive as well as the grafted long implant?" — six independent meta-analyses answer that with a consistent **yes** (survival equivalent, all non-significant). The dataset's strongest and most reproducible signal is that **short implants lose less marginal bone**, and they avoid the morbidity and PROM burden of sinus augmentation. The decision therefore shifts to four real discriminators: residual bone height, crown-to-implant ratio / occlusal load, the long-term (≥5 y) evidence gap, and patient preference for lower morbidity.
 
-Two cautions keep this from collapsing into "always place short": (1) the pooled long-term (≥5 y) subset is thin and low-certainty — Mester 2023 found standard+SFE *numerically* higher survival (RR 0.97, p=0.07) and Alemán 2025 graded 5 of 7 RCTs at high risk of bias — though the single best long-term anchor, **Thoma 2024's 10-year multi-centre RCT, shows 96.0% vs 100% survival and median 0.00 mm MBL in both arms**, materially strengthening the durability case; (2) very low RBH or unfavorable C/I ratio can push beyond the short-implant comfort zone, where sinus augmentation (survival benchmark >97%, Derbishi 2026) remains the reliable fallback. The strongest single statements are now two umbrella-level syntheses converging on the same answer: **Arbildo-Vega 2025** (60 SRs) and **Vetromilla 2021** (7 SRs, 66 studies) both report equivalent survival with short implants favored on MBL and biological complications — Vetromilla adding the explicit AMSTAR-2 caveat that this signal rests on critically-low/low quality reviews. The most current RCT-only synthesis, **Alenezi 2025** (7 RCTs, 393 pt, search to June 2025), reproduces the pattern: equivalent survival, short implants better on MBL (MD −0.26 mm) and biological complications (OR 0.39). [claude해석]
+Two cautions keep this from collapsing into "always place short": (1) the pooled long-term (≥5 y) subset is thin and low-certainty — Mester 2023 found standard+SFE *numerically* higher survival (RR 0.97, p=0.07) and Alemán 2025 graded 5 of 7 RCTs at high risk of bias — though the single best long-term anchor, **Thoma 2024's 10-year multi-centre RCT, shows 96.0% vs 100% survival and median 0.00 mm MBL in both arms**, materially strengthening the durability case; (2) very low RBH or unfavorable C/I ratio can push beyond the short-implant comfort zone, where sinus augmentation (survival benchmark >97%, Derbishi 2026) remains the reliable fallback. The strongest single statements are now two umbrella-level syntheses converging on the same answer: **Arbildo-Vega 2025** (60 SRs) and **Vetromilla 2021** (7 SRs, 66 studies) both report equivalent survival with short implants favored on MBL and biological complications — Vetromilla adding the explicit AMSTAR-2 caveat that this signal rests on critically-low/low quality reviews. The most current RCT-only synthesis, **Alenezi 2025** (7 RCTs, 393 pt, search to June 2025), reproduces the pattern: equivalent survival, short implants better on MBL (MD −0.26 mm) and biological complications (OR 0.39). [미검증]
 
 ## Evidence Map
 
@@ -78,6 +79,7 @@ Two cautions keep this from collapsing into "always place short": (1) the pooled
 | **Alenezi 2025** | SR+MA RCT (to Jun 2025) | 7 RCT / 393 pt / 474 impl | OR 0.96 (0.74–1.25) NS | short lower, MD −0.26 (p<.001) | biological compl. OR 0.39 fewer short (p=.02) | sr+ma |
 | Xu 2020 (single-crown) | SR+MA (RCT) | 5 RCT | short-term NS; long-term short poorer (RR 0.94, p=.01) | NS (MD 0.00) | nonsplinted single crowns — caution | sr+ma |
 | Torres-Alemany 2020 | SR+MA | 14 quant | — | no sig. effect of length/diameter/(C/I) on MBL | no sig. effect of C/I on implant loss (p=0.9) | sr+ma |
+| Lombardo 2022 | Retrospective, 5-yr | 79 pt / 155 impl (Bicon 5/6/8mm) | 94.84% overall (5mm 93.75%, 6mm 94.00%, 8mm 100%) | CBL −0.36mm/5yr | **hybrid option at RBH<5mm boundary**: ultra-short (5mm) + simultaneous *internal* (transcrestal) sinus lift, mean RCBH 4.45→9.25mm (placement)→5.25mm (5yr); membrane perforation 7.74%, no attributable loss; single-crown, VAS satisfaction 8.2→9.0 | retrospective |
 
 ## Clinical Decision Points
 
@@ -96,10 +98,11 @@ flowchart TD
 ```
 
 Decision logic in prose:
-1. **RBH is the first gate.** With ~5–6 mm or more, a 6–8 mm short implant is placeable and is the lower-morbidity default. Below ~4–5 mm, sinus augmentation becomes the more dependable route (Derbishi 2026 survival >97%). [합의수준]
-2. **Crown-to-implant ratio / occlusal load is the second gate.** Favorable C/I and load → short implant. Heavy bruxism, unfavorable C/I, or long spans bias toward augmentation + longer implants, though survival data still do not penalize short implants. Notably, **Torres-Alemany 2020** found C/I ratio had no significant effect on implant loss (p=0.9) or MBL (p=0.36), so an elevated C/I ratio alone is a weak reason to reject a short implant — the gate is really occlusal load/parafunction, not the geometric ratio per se. One scenario does warrant caution: **Xu 2020** showed that nonsplinted short single crowns (≤6 mm) in the posterior region had poorer long-term survival (RR 0.94, p=.01), so splinting or augmentation should be weighed for isolated short single crowns. [claude해석]
-3. **Patient priorities break ties.** When both are technically viable, short implants win on morbidity, cost, treatment time, and post-op pain; augmentation wins on the longer published track record. [합의수준]
-4. **If augmenting, choose approach by RBH and morbidity.** Transcrestal is associated with less post-op discomfort than the lateral window (Menini 2025); reserve the lateral window for very low RBH or large lifts. [합의수준 / PROM abstract-only — 미검증]
+1. **RBH is the first gate.** With ~5–6 mm or more, a 6–8 mm short implant is placeable and is the lower-morbidity default. Below ~4–5 mm, sinus augmentation becomes the more dependable route (Derbishi 2026 survival >97%). [확인]
+1b. **The <5 mm boundary is not strictly binary — a hybrid option exists.** Lombardo 2022 (retrospective, 5-yr, mean RCBH 4.45 mm) shows ultra-short (5 mm) implants combined with a *simultaneous internal* (transcrestal, not lateral-window) sinus lift can be a predictable single-crown option right at this boundary — 94.84% overall survival, stable 5-year crestal bone (−0.36 mm), with membrane perforation (7.74%) not translating to implant loss. This is a smaller-scale, single-center, no-control-group case series (not SR/MA-level like the rest of this table), so it should be read as a viable third path at the boundary rather than a replacement for the RBH-gate logic above — but it is a lower-morbidity alternative to lateral-window augmentation worth considering before defaulting straight to "F" in the flowchart. [미검증 — single retrospective series]
+2. **Crown-to-implant ratio / occlusal load is the second gate.** Favorable C/I and load → short implant. Heavy bruxism, unfavorable C/I, or long spans bias toward augmentation + longer implants, though survival data still do not penalize short implants. Notably, **Torres-Alemany 2020** found C/I ratio had no significant effect on implant loss (p=0.9) or MBL (p=0.36), so an elevated C/I ratio alone is a weak reason to reject a short implant — the gate is really occlusal load/parafunction, not the geometric ratio per se. One scenario does warrant caution: **Xu 2020** showed that nonsplinted short single crowns (≤6 mm) in the posterior region had poorer long-term survival (RR 0.94, p=.01), so splinting or augmentation should be weighed for isolated short single crowns. [미검증]
+3. **Patient priorities break ties.** When both are technically viable, short implants win on morbidity, cost, treatment time, and post-op pain; augmentation wins on the longer published track record. [확인]
+4. **If augmenting, choose approach by RBH and morbidity.** Transcrestal is associated with less post-op discomfort than the lateral window (Menini 2025); reserve the lateral window for very low RBH or large lifts. [확인 / PROM abstract-only — 미검증]
 
 ## Gaps & Future Research
 - **Long-term (≥5 y) evidence is improving but still narrow.** Pooled ≥5 y SR/MAs rest on few high-RoB RCTs (Mester 5, Alemán 7); Thoma 2024 now adds a 10-year multi-centre RCT (96.0% vs 100% survival, 0.00 mm median MBL) that strongly supports durability, but it carries 21% drop-out and a single-trial sample. More powered decade-horizon RCTs remain the key missing piece.
@@ -110,7 +113,7 @@ Decision logic in prose:
 
 ## Related Papers
 - [[sinus-lift/lateral/toledano-2022-short-versus-standard-implants-sinus]] — short ≤6 mm vs standard+SFE; survival equal, MBL favors short.
-- [[implants/zhang-2024-short-vs-long-implants-sinus]] — network MA across short / immediate-SFE / delayed-SFE.
+- [[implants/short-narrow/zhang-2024-short-vs-long-implants-sinus]] — network MA across short / immediate-SFE / delayed-SFE.
 - [[sinus-lift/lateral/chaware-2021-short-vs-long-implant-sinus-graft-sr-ma]] — 22-RCT pool, survival equivalent (I²=0%).
 - [[sinus-lift/lateral/mester-2023-short-vs-standard-implants-sinus-floor-elevation-sr-ma]] — ≥5 y subset, short favored on MBL & biological complications.
 - [[sinus-lift/lateral/aleman-2025-short-vs-long-implants-sinus-lift-5yr-sr-ma]] — ≥5 y, high-RoB, imprecise estimate (certainty caveat).
@@ -118,11 +121,12 @@ Decision logic in prose:
 - [[sinus-lift/transcrestal/kadkhodazadeh-2024-transcrestal-maxillary-sinus-elevation-sr-ma]] — transcrestal survival anchor for the "RBH adequate for transcrestal" branch: pooled 100% (95% CI 99–100%) across 17 RCTs (hand-osteotome perforation/vertigo caveat).
 - [[behavioral-dentistry/patient-reported-outcomes/menini-2025-proms-sinus-lift-procedures-sr-ma]] — PROM axis: graftless/transcrestal lower morbidity.
 - [[sinus-lift/lateral/thoma-2024-short-6mm-vs-long-implants-sinus-elevation-10year-rct]] — 10-year RCT: the long-term anchor (96.0% vs 100%, 0.00 mm MBL).
-- [[implants/arbildo-vega-2025-short-vs-standard-implants-edentulous-umbrella-review]] — umbrella review of 60 SRs: high-confidence equivalence + short-implant MBL advantage.
-- [[implants/vetromilla-2021-short-standard-implants-sinus-umbrella]] — umbrella review (7 SRs, 66 studies): equivalence + short MBL/biologic advantage, with AMSTAR-2 quality ceiling.
-- [[implants/alenezi-2025-short-long-implants-sinus-floor-elevation]] — most current RCT SR+MA (to Jun 2025): short lower MBL (−0.26 mm) & biological complications, equal survival.
-- [[implants/xu-2020-short-standard-single-crown-posterior]] — nonsplinted short single crowns: poorer long-term survival caveat.
-- [[implants/torres-alemany-2020-clinical-behavior-short-implants]] — C/I ratio, length, diameter have no significant effect on loss/MBL.
-- [[implants/xu-2020-short-vs-longer-implants-posterior-5year-sr-ma]] — ≥5y, arch-dependent caveat (maxilla may favor long).
-- [[implants/emfietzoglou-2024-short-implants-6mm-survival-posterior-edentulism-sr]] — strict ≤6 mm survival SR.
+- [[implants/short-narrow/arbildo-vega-2025-short-vs-standard-implants-edentulous-umbrella-review]] — umbrella review of 60 SRs: high-confidence equivalence + short-implant MBL advantage.
+- [[implants/short-narrow/vetromilla-2021-short-standard-implants-sinus-umbrella]] — umbrella review (7 SRs, 66 studies): equivalence + short MBL/biologic advantage, with AMSTAR-2 quality ceiling.
+- [[implants/short-narrow/alenezi-2025-short-long-implants-sinus-floor-elevation]] — most current RCT SR+MA (to Jun 2025): short lower MBL (−0.26 mm) & biological complications, equal survival.
+- [[implants/short-narrow/xu-2020-short-standard-single-crown-posterior]] — nonsplinted short single crowns: poorer long-term survival caveat.
+- [[implants/short-narrow/torres-alemany-2020-clinical-behavior-short-implants]] — C/I ratio, length, diameter have no significant effect on loss/MBL.
+- [[implants/short-narrow/xu-2020-short-vs-longer-implants-posterior-5year-sr-ma]] — ≥5y, arch-dependent caveat (maxilla may favor long).
+- [[implants/short-narrow/lombardo-2022-short-ultrashort-implants-internal-sinus-lift]] — retrospective 5-yr case series (n=79/155 implants): hybrid boundary option — ultra-short (5mm) implants + simultaneous internal (transcrestal) sinus lift at RBH<5mm, 94.84% survival, stable crestal bone.
+- [[implants/short-narrow/emfietzoglou-2024-short-implants-6mm-survival-posterior-edentulism-sr]] — strict ≤6 mm survival SR.
 - [[overviews/sinus-lift-technique-selection]] — companion overview on augmentation technique choice.

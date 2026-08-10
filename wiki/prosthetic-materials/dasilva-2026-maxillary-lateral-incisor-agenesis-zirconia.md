@@ -6,7 +6,7 @@ date: 2026-01-01
 doi: 10.1111/jerd.70080
 source: dasilva-2026-maxillary-lateral-incisor-agenesis-zirconia.md
 category: [prosthetic-materials]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/dasilva-2026-maxillary-lateral-incisor-agenesis-zirconia.pdf
 pdf_filename: dasilva-2026-maxillary-lateral-incisor-agenesis-zirconia.pdf
 source_collection: external
@@ -62,6 +62,6 @@ The FEA found all configurations mechanically safe under a 100 N oblique load (f
 ## Related Papers
 
 - [[dental-materials/zirconia/talmazov-2020-fea-one-piece-zirconia-implant-anterior]] — earlier single-material FEA comparing one-piece zirconia vs titanium implants in the anterior maxilla; this paper extends that design into a three-way TT/TH/ZZ comparison with a companion systematic review.
-- [[prosthetic-materials/sterzenbach-2025-hybrid-abutment-crowns-zirconia-titanium-implants]] — clinical/prosthetic comparison of hybrid abutment crowns on zirconia vs titanium implants; complements this paper's FEA-level TH group findings with real-world technical/esthetic outcome data.
+- [[prosthetic-materials/abutment-screw/sterzenbach-2025-hybrid-abutment-crowns-zirconia-titanium-implants]] — clinical/prosthetic comparison of hybrid abutment crowns on zirconia vs titanium implants; complements this paper's FEA-level TH group findings with real-world technical/esthetic outcome data.
 - [[overviews/zirconia-implant-clinical-outcomes]] — cross-paper synthesis of zirconia implant survival/marginal bone loss trends; this paper's zero-zirconia-implant-in-MLIA finding is a specific gap within that broader survival literature.
-- [[implants/barbosa-2021-narrow-implants-one-two-piece-fea]] — FEA of narrow/extra-narrow one- vs two-piece implants; relevant context for this paper's narrow-diameter (3.0 mm) stress-distribution findings.
+- [[implants/short-narrow/barbosa-2021-narrow-implants-one-two-piece-fea]] — FEA of narrow/extra-narrow one- vs two-piece implants; relevant context for this paper's narrow-diameter (3.0 mm) stress-distribution findings.

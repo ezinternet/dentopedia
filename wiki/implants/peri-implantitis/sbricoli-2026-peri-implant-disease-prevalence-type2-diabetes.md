@@ -6,7 +6,7 @@ date: 2026-01-01
 doi: 10.1002/cre2.70352
 source: sbricoli-2026-peri-implant-disease-prevalence-type2-diabetes.md
 category: implants/peri-implantitis
-confidence: cross-sectional
+evidence_level: cross-sectional
 source_collection: pubmed-text
 full_text: true
 pmid: "42035463"

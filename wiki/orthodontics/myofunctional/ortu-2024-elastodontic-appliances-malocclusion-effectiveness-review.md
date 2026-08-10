@@ -6,7 +6,7 @@ date: 2024-02-01
 doi: 10.23804/ejpd.2024.2030
 source: ortu-2024-elastodontic-appliances-malocclusion-effectiveness-review.md
 category: [orthodontics/myofunctional]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: false
 pmid: "38353510"

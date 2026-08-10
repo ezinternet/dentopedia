@@ -9,7 +9,7 @@ text_path: /Users/oracleneo/llm-wiki/papers/angelo-2026-incobotulinumtoxina-stan
 text_filename: angelo-2026-incobotulinumtoxina-standardized-protocol-myogenous-tmd.txt
 source: angelo-2026-incobotulinumtoxina-standardized-protocol-myogenous-tmd.md
 category: [botulinum-toxin]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 full_text: true
 tags: [tmj, myogenous-tmd, xeomin, incobotulinumtoxinA]

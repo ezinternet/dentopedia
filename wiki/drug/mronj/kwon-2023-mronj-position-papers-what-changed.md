@@ -6,7 +6,7 @@ date: 2023-06-01
 doi: 10.22974/jkda.2023.61.7.001
 source: kwon-2023-mronj-position-papers-what-changed.md
 category: [drug/mronj]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/kwon-2023-mronj-position-papers-what-changed.pdf
 pdf_filename: kwon-2023-mronj-position-papers-what-changed.pdf
 source_collection: external
@@ -41,7 +41,7 @@ Korean clinician review of how the AAOMS jaw-osteonecrosis position papers evolv
 - Narrative review comparing successive AAOMS position papers.
 
 ## Results
-- **Definition (2022)**: immune modulators (e.g., Romosozumab) added as potentially ONJ-related medications. [claude해석] Romosozumab is mechanistically a sclerostin inhibitor (anabolic), so its inclusion is about observed ONJ association, not antiresorptive class membership.
+- **Definition (2022)**: immune modulators (e.g., Romosozumab) added as potentially ONJ-related medications. [미검증] Romosozumab is mechanistically a sclerostin inhibitor (anabolic), so its inclusion is about observed ONJ association, not antiresorptive class membership.
 - **Treatment (2022)**: operative therapy now indicated across **all stages (1, 2, 3)** — a shift from reserving surgery for advanced disease.
 - **Drug holiday (2022)**: pre-surgical drug holiday to prevent MRONJ is **no longer supported/identified** in the 2022 paper.
 - Statements grounded in strict literature review; weakly-evidenced positions were revised.
@@ -51,7 +51,7 @@ Korean clinician review of how the AAOMS jaw-osteonecrosis position papers evolv
 - Position-paper recommendations partly rest on low-level evidence.
 
 ## Related Papers
-- [[drug/ruggiero-2022-aaoms-mronj-position-paper-update]] — primary AAOMS 2022 paper interpreted here
-- [[drug/baghalipour-2025-mronj-prevention-management-review]] — MRONJ prevention/management review
-- [[drug/li-2024-antiresorptive-implants-mronj-sr]] — antiresorptives + implants MRONJ SR
-- [[drug/jung-2022-denosumab-mronj-osteoporosis-5year]] — denosumab MRONJ in osteoporosis
+- [[drug/mronj/ruggiero-2022-aaoms-mronj-position-paper-update]] — primary AAOMS 2022 paper interpreted here
+- [[drug/mronj/baghalipour-2025-mronj-prevention-management-review]] — MRONJ prevention/management review
+- [[drug/mronj/li-2024-antiresorptive-implants-mronj-sr]] — antiresorptives + implants MRONJ SR
+- [[drug/mronj/jung-2022-denosumab-mronj-osteoporosis-5year]] — denosumab MRONJ in osteoporosis

@@ -6,7 +6,7 @@ date: 2019-09-30
 doi: 10.5037/jomr.2019.10306
 source: majzoub-2019-influence-different-grafting-materials.md
 category: [bone-regeneration/ridge-preservation]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/majzoub-2019-influence-different-grafting-materials.pdf
 pdf_filename: majzoub-2019-influence-different-grafting-materials.pdf
 source_collection: external

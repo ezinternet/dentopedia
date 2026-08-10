@@ -6,7 +6,7 @@ date: 2023-01-01
 doi: 10.1186/s40729-023-00510-1
 source: shalash-2023-crestal-sinus-elevation-densah-oblique.md
 category: [sinus-lift/transcrestal]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/shalash-2023-crestal-sinus-elevation-densah-oblique.pdf
 pdf_filename: shalash-2023-crestal-sinus-elevation-densah-oblique.pdf
 source_collection: external
@@ -54,5 +54,5 @@ Prospective clinical study evaluating osseodensification crestal sinus floor ele
 
 ## Related Papers
 - [[sinus-lift/transcrestal/starch-jensen-2025-transcrestal-sinus-osseodensification-meta-analysis]] — SR+MA showing OD higher ISQ vs OMSFE
-- [[implants/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — original OD paper
+- [[implants/osseodensification/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — original OD paper
 - [[sinus-lift/transcrestal/gaspar-2025-osseodensification-crestal-maxillary-sinus-elevation-narrative-review]] — narrative review of OD for sinus

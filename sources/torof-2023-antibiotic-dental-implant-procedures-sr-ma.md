@@ -41,7 +41,7 @@ SR+MA (Univ Wolverhampton, Medicina 2023, PRISMA-P/PROSPERO): 임플란트 식�
 PRISMA-P SR+MA of RCTs of antibiotic use for dental implant placement; PROSPERO registered.
 
 ## 4. Key Results
-[근거강함] Preoperative single-dose amoxicillin 2g reduces early implant failure; postoperative continuation no incremental benefit.
+[확인] Preoperative single-dose amoxicillin 2g reduces early implant failure; postoperative continuation no incremental benefit.
 
 ## 5. Limitations
 - RCT heterogeneity (dose, duration, antibiotic class)

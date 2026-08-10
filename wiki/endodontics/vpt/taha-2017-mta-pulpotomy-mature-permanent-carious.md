@@ -6,7 +6,7 @@ date: 2015-12-30
 doi: 10.1111/iej.12605
 source: taha-2017-mta-pulpotomy-mature-permanent-carious.md
 category: [endodontics/vpt]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/taha-2017-mta-pulpotomy-mature-permanent-carious.pdf
 pdf_filename: taha-2017-mta-pulpotomy-mature-permanent-carious.pdf
 source_collection: external

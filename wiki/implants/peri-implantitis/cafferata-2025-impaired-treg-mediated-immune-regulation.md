@@ -6,7 +6,7 @@ date: 2025-08-26
 doi: 10.1111/jcpe.70026
 source: cafferata-2025-impaired-treg-mediated-immune-regulation.md
 category: implants/peri-implantitis
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 full_text: true
 pmid: "40856197"

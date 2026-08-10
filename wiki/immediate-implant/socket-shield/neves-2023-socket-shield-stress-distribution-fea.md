@@ -6,7 +6,7 @@ date: 2023-07-01
 doi: "10.4103/jisp.jisp_356_22"
 source: neves-2023-socket-shield-stress-distribution-fea.md
 category: [immediate-implant/socket-shield]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/neves-2023-socket-shield-stress-distribution-fea.pdf
 pdf_filename: neves-2023-socket-shield-stress-distribution-fea.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2020-10-17
 doi: 10.1111/jcpe.13390
 source: couso-queiruga-2021-post-extraction-dimensional-changes-systematic.md
 category: [bone-regeneration/ridge-preservation]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/couso-queiruga-2021-post-extraction-dimensional-changes-systematic.pdf
 pdf_filename: couso-queiruga-2021-post-extraction-dimensional-changes-systematic.pdf
 source_collection: external

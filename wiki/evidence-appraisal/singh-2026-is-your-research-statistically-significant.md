@@ -6,7 +6,7 @@ date: 2026-05-29
 doi: "10.4103/JCDE.JCDE_504_26"
 source: singh-2026-is-your-research-statistically-significant.md
 category: evidence-appraisal
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/singh-2026-is-your-research-statistically-significant.pdf
 pdf_filename: singh-2026-is-your-research-statistically-significant.pdf
 source_collection: external

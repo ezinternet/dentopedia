@@ -6,7 +6,7 @@ date: 2026-05-26
 doi: N/A
 source: N/A
 category: overviews
-confidence: synthesis
+evidence_level: synthesis
 pdf_path: N/A
 pdf_filename: N/A
 source_collection: synthesis
@@ -17,10 +17,10 @@ tags: [behavioral-dentistry, motivational-interviewing, mi, patient-communicatio
 
 > [!summary] 한국어 핵심요약
 > - 본 페이지의 핵심 명제: 행동치의학은 외과·재료 결정과 다른 차원으로, 환자 행동변화·정기 내원(attendance)·커뮤니케이션 quality가 치료 결과를 좌우하는 동기면담 (Motivational Interviewing, MI)·커뮤니케이션·attendance 3축 decision ladder다.
-> - 축 1 — 동기면담 (MI): 영유아 우식 (Early Childhood Caries, ECC) 예방은 SR+MA 수준 효과 (Jahanshahi 2022, 6 RCT, n=2,776) — 세션 횟수보다 quality가 결정, ≥3년 추적 필요. [근거강함]
+> - 축 1 — 동기면담 (MI): 영유아 우식 (Early Childhood Caries, ECC) 예방은 SR+MA 수준 효과 (Jahanshahi 2022, 6 RCT, n=2,776) — 세션 횟수보다 quality가 결정, ≥3년 추적 필요. [확인]
 > - 성인 MI는 7 RCT 모두 치주 outcome이며 치은출혈 (Bleeding on Probing, BoP)만 -6.41pp 유의, plaque·gingival index는 무의미 (Cartes-Velasquez 2024) — "효과 결론 보류"이지 "효과 없음"이 아니다.
-> - 일반 의료 MI는 OR 1.55 (95% CI 1.40-1.71)로 짧은 상담 (brief MI)에서도 작동 (Lundahl 2013, 48 RCT, n=9,618) — 모든 환자에 30분이 필요하진 않다. [근거강함]
-> - 축 2 — 커뮤니케이션: 치과 커뮤니케이션 스킬 26개 × 4 범주 (generic·case-specific·time-specific·emerging) framework (Khalifah 2019, SR 50편) — 단 교육법 비교 evidence는 부재. [합의수준]
+> - 일반 의료 MI는 OR 1.55 (95% CI 1.40-1.71)로 짧은 상담 (brief MI)에서도 작동 (Lundahl 2013, 48 RCT, n=9,618) — 모든 환자에 30분이 필요하진 않다. [확인]
+> - 축 2 — 커뮤니케이션: 치과 커뮤니케이션 스킬 26개 × 4 범주 (generic·case-specific·time-specific·emerging) framework (Khalifah 2019, SR 50편) — 단 교육법 비교 evidence는 부재. [확인]
 > - 커뮤니케이션 ladder: 신입은 generic+case-specific 습득, 5년 이상은 emerging skill인 공유의사결정 (Shared Decision-Making, SDM)·informed consent 강화로 단계화.
 > - 축 3 — attendance: 영국 인구 약 1/3이 통증 있을 때만 오는 통증-only attender이나 전환 개입의 evidence는 단 3편 SR로 매우 빈약 (Currie 2021).
 > - Currie 2021 미래 설계 4축: 치과의사 커뮤니케이션 · 치과의사-환자 관계 · 인식(perception, 비용→예방·투자로 frame 전환) · 비용(보험·접근성).
@@ -51,10 +51,10 @@ MI는 ECC 예방에 SR+MA 수준 효과(Jahanshahi 2022, 6 RCT, n=2,776) + 일�
 행동치의학은 임상 외과·재료 결정과 다른 차원의 의사결정 — **환자 행동 변화·정기 attendance·커뮤니케이션 quality**가 결국 치료 outcome을 좌우. wiki/behavioral-dentistry/ 5 paper의 3-axis spine.
 
 핵심 명제 4개:
-1. **MI는 영유아 우식 (ECC) 예방에 SR+MA 수준 효과 — 6 RCT (n=2,776). 세션 횟수보다 quality가 결정, ≥3년 follow-up 필요** — Jahanshahi 2022 SR+MA. [근거강함]
-2. **성인 MI의 oral outcome — 7 RCT 전부 치주, BoP만 -6.41pp 유의. Plaque·gingival index NS. 성인 효과 결론 보류** — Cartes-Velasquez 2024 SR+MA. [합의수준]
-3. **MI 일반 의료에서 OR 1.55 (1.40-1.71). 짧은 상담에서도 작동. Dental outcome도 효과 영역** — Lundahl 2013 SR+MA (48 RCT n=9,618). [근거강함]
-4. **치과 커뮤니케이션 스킬 26개 × 4 범주 (generic·case-specific·time-specific·emerging) framework. 교육법 비교 evidence 부재** — Khalifah 2019 SR (50편). [합의수준]
+1. **MI는 영유아 우식 (ECC) 예방에 SR+MA 수준 효과 — 6 RCT (n=2,776). 세션 횟수보다 quality가 결정, ≥3년 follow-up 필요** — Jahanshahi 2022 SR+MA. [확인]
+2. **성인 MI의 oral outcome — 7 RCT 전부 치주, BoP만 -6.41pp 유의. Plaque·gingival index NS. 성인 효과 결론 보류** — Cartes-Velasquez 2024 SR+MA. [확인]
+3. **MI 일반 의료에서 OR 1.55 (1.40-1.71). 짧은 상담에서도 작동. Dental outcome도 효과 영역** — Lundahl 2013 SR+MA (48 RCT n=9,618). [확인]
+4. **치과 커뮤니케이션 스킬 26개 × 4 범주 (generic·case-specific·time-specific·emerging) framework. 교육법 비교 evidence 부재** — Khalifah 2019 SR (50편). [확인]
 
 ## Results
 
@@ -73,7 +73,7 @@ MI는 ECC 예방에 SR+MA 수준 효과(Jahanshahi 2022, 6 RCT, n=2,776) + 일�
 4. **MI 교육** — 치과의사·위생사 모두 1-2일 워크숍으로 기본 skill 습득 가능. Rollnick textbook + 임상 supervision.
 5. **시간 제약 케이스** → "짧은 MI (brief MI)" 5분 형태도 효과 (Lundahl 2013). 모든 환자에 30분 불필요.
 
-**오판 패턴**: "성인에게 MI는 효과 없다" — Cartes-Velasquez 2024는 7편만 있고 모두 치주 outcome. 효과 결론 보류이지 부정 아님. Lundahl 2013은 의료 일반에서 효과 확정. [합의수준]
+**오판 패턴**: "성인에게 MI는 효과 없다" — Cartes-Velasquez 2024는 7편만 있고 모두 치주 outcome. 효과 결론 보류이지 부정 아님. Lundahl 2013은 의료 일반에서 효과 확정. [확인]
 
 ### 축 2 — Patient-Dentist Communication Skills Framework
 
@@ -130,8 +130,8 @@ MI는 ECC 예방에 SR+MA 수준 효과(Jahanshahi 2022, 6 RCT, n=2,776) + 일�
 - [[overviews/patient-consultation-communication-protocol]] — 상담 encounter 6단계 시간축 재합성 (이 ladder의 시간축 자매 페이지)
 
 확신도 등급:
-- 축 1 MI (소아·일반 의료) = [근거강함] (Jahanshahi 2022 + Lundahl 2013).
-- 축 1 MI (성인 치주) = [합의수준] (Cartes-Velasquez 2024 결론 보류).
-- 축 2 커뮤니케이션 framework = [합의수준] (Khalifah 2019 SR, 교육법 비교 부재).
-- 축 3 attendance = [합의수준] (Currie 2021 evidence 빈약 명시).
-- 한국 임상 적용 = [claude해석].
+- 축 1 MI (소아·일반 의료) = [확인] (Jahanshahi 2022 + Lundahl 2013).
+- 축 1 MI (성인 치주) = [확인] (Cartes-Velasquez 2024 결론 보류).
+- 축 2 커뮤니케이션 framework = [확인] (Khalifah 2019 SR, 교육법 비교 부재).
+- 축 3 attendance = [확인] (Currie 2021 evidence 빈약 명시).
+- 한국 임상 적용 = [미검증].

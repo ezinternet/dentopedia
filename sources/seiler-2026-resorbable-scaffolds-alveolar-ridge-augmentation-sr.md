@@ -11,6 +11,8 @@ pmcid: "PMC13226745"
 source_url: https://pmc.ncbi.nlm.nih.gov/articles/PMC13226745/
 text_path: /Users/oracleneo/llm-wiki/papers/seiler-2026-resorbable-scaffolds-alveolar-ridge-augmentation-sr.txt
 text_filename: seiler-2026-resorbable-scaffolds-alveolar-ridge-augmentation-sr.txt
+pdf_path: /Users/oracleneo/llm-wiki/papers/seiler-2026-resorbable-scaffolds-alveolar-ridge-augmentation-sr.pdf
+pdf_filename: seiler-2026-resorbable-scaffolds-alveolar-ridge-augmentation-sr.pdf
 ---
 
 ## Why Ingested
@@ -27,11 +29,11 @@ high risk of bias; degradation kinetics unreported in every study).
 
 ## 세줄요약
 
-체계적 문헌고찰(7개 임상연구, 환자 39명·치조제 45부위): resorbable scaffold(PLA/PCL/PLGA/β-TCP)는 2차 mesh 제거 수술을 피할 수 있는 conventional 골이식 대안으로 보이나, RCT 1편·대부분 증례군에 이질성이 커 메타분석 불가하고 비뚤림 위험이 높으며 모든 연구에서 분해속도(degradation time)가 보고되지 않았다.
+체계적 문헌고찰(PRISMA-P/PROSPERO; 7개 임상연구, 환자 39명·치조제 45부위, RCT 1편 포함): 흡수성 스캐폴드 (Resorbable Scaffold, RS; PLA/PCL/PLGA/β-TCP) 치조제 증대 효능·안전성 평가.
 
-(incomplete)
+보고된 연구에서 4/7편 임플란트 생존율 (Implant Survival Rate, ISR) 100%, 평균 초기 고정 35 Ncm; 그러나 이질성으로 메타분석 불가, 비뚤림 위험 보통~높음, 7편 전체에서 분해속도 (Degradation Kinetics) 미보고.
 
-(incomplete)
+2차 제거 수술을 피할 수 있는 티타늄 메쉬 대안으로 가능성 있으나 근거 수준이 낮고 분해속도·CBCT 체적 및 조직형태계측 포함한 표준화된 대규모 무작위 대조 임상시험 (Randomized Controlled Trial, RCT) 필요.
 
 ## 1. Document Information
 

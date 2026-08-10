@@ -6,7 +6,7 @@ date: 2024-01-01
 doi: 10.1007/s41999-023-00930-7
 source: li-2024-prevalence-oral-frailty-older-adults.md
 category: [geriatric-dentistry]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/li-2024-prevalence-oral-frailty-older-adults.pdf
 pdf_filename: li-2024-prevalence-oral-frailty-older-adults.pdf
 source_collection: external
@@ -41,7 +41,7 @@ oral frailty 유병률을 평가도구별로 정밀 추정한 SR+MA(24%, pre-fra
 10개 DB(~2023.9), 18편. random-effects, 하위군·메타회귀, 출판편의 검정.
 
 ## Results
-OF 24%(95%CI 20-28), pre-frailty 57%(52-61); 여성·병원·중국에서 높음 [근거강함]. 도구별 큰 차이.
+OF 24%(95%CI 20-28), pre-frailty 57%(52-61); 여성·병원·중국에서 높음 [확인]. 도구별 큰 차이.
 
 ## Related Papers
 - [[geriatric-dentistry/zhu-2024-prevalence-unfavourable-outcome-oral-frailty]] — 유병률·결과

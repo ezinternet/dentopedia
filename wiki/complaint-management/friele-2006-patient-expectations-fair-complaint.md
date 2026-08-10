@@ -6,7 +6,7 @@ date: 2006-08-18
 doi: "10.1186/1472-6963-6-106"
 source: friele-2006-patient-expectations-fair-complaint.md
 category: complaint-management
-confidence: cross-sectional
+evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/friele-2006-patient-expectations-fair-complaint.pdf
 pdf_filename: friele-2006-patient-expectations-fair-complaint.pdf
 source_collection: external

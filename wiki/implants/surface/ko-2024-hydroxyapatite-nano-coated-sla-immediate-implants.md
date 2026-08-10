@@ -6,7 +6,7 @@ date: 2024-06-01
 doi: 10.1186/s40729-024-00549-8
 source: ko-2024-hydroxyapatite-nano-coated-sla-immediate-implants.md
 category: [implants/surface]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/ko-2024-hydroxyapatite-nano-coated-sla-immediate-implants.pdf
 pdf_filename: ko-2024-hydroxyapatite-nano-coated-sla-immediate-implants.pdf
 source_collection: external
@@ -44,8 +44,8 @@ SNU IRB-approved. Digital surgical guide. ISQ at placement, 4-6 wk, prosthetic p
 상악 구치부 즉시식립처럼 1차 안정성 확보가 어려운 부위에서 HA 나노코팅이 osseointegration 가속화를 통해 implant stability dip을 완화할 가능성. 코팅 표면처리 비교 RCT는 드묾.
 
 ## Related Papers
-- [[implants/atieh-2025-tissue-vs-bone-level-peri-implantitis-sr-ma]] — long-term peri-implant outcomes by implant type
-- [[implants/arghami-2021-immediate-early-loading-hydroxyapatite-coated]] — HA-coated implants long-term — 7yr RCT
+- [[implants/peri-implantitis/atieh-2025-tissue-vs-bone-level-peri-implantitis-sr-ma]] — long-term peri-implant outcomes by implant type
+- [[implants/loading-protocol/arghami-2021-immediate-early-loading-hydroxyapatite-coated]] — HA-coated implants long-term — 7yr RCT
 
 ## Sources
 - Source: 

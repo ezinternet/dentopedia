@@ -6,7 +6,7 @@ date: 2026-01-06
 doi: 10.1016/j.prosdent.2025.12.028
 source: fan-2026-fixed-dahl-restorations-localized-tooth-wear-sr-ma.md
 category: [occlusion]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: false
 pmid: "41500883"

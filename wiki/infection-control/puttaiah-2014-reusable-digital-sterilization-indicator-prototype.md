@@ -6,7 +6,7 @@ date: 2014-09-01
 doi: 10.5005/jp-journals-10024-1591
 source: puttaiah-2014-reusable-digital-sterilization-indicator-prototype.md
 category: [infection-control]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 text_path: /Users/oracleneo/llm-wiki/papers/puttaiah-2014-reusable-digital-sterilization-indicator-prototype.txt
 text_filename: puttaiah-2014-reusable-digital-sterilization-indicator-prototype.txt

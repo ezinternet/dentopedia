@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-EFP S3 가이드라인([[periodontics/sanz-2020-treatment-stage-i-iii-periodontitis-efp]])이 항생제 보조요법을 일상적 사용으로 권장하지 않는 근거의 핵심 1차 자료로, 본 Cochrane SR+MA(45 RCT)는 SRP에 전신 항생제를 더해도 효과가 매우 낮은 확실성·임상적으로 미미함을 보여 항생제 스튜어드십 의사결정을 뒷받침한다. 임플란트 주위염 항생제 근거([[periodontics/grusovin-2022-antibiotics-non-surgical-peri-implantitis-ma]])와 짝을 이뤄 비외과적 항생제 보조요법 전반의 약한 근거 기반을 대비한다.
+EFP S3 가이드라인([[periodontics/sanz-2020-treatment-stage-i-iii-periodontitis-efp]])이 항생제 보조요법을 일상적 사용으로 권장하지 않는 근거의 핵심 1차 자료로, 본 Cochrane SR+MA(45 RCT)는 SRP에 전신 항생제를 더해도 효과가 매우 낮은 확실성·임상적으로 미미함을 보여 항생제 스튜어드십 의사결정을 뒷받침한다. 임플란트 주위염 항생제 근거([[implants/peri-implantitis/grusovin-2022-antibiotics-non-surgical-peri-implantitis-ma]])와 짝을 이뤄 비외과적 항생제 보조요법 전반의 약한 근거 기반을 대비한다.
 
 ## Three-line Summary
 

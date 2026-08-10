@@ -6,7 +6,7 @@ date: 2026-04-01
 doi: "10.1002/cre2.70323"
 source: alkhani-2026-optical-coherence-tomography-detection-dental.md
 category: [endodontics/diagnosis]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "41802171"

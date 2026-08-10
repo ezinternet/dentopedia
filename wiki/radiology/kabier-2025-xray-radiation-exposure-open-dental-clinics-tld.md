@@ -7,7 +7,7 @@ doi: "10.1016/j.apradiso.2025.112186"
 pmid: "40967160"
 source: kabier-2025-xray-radiation-exposure-open-dental-clinics-tld.md
 category: [radiology]
-confidence: prospective
+evidence_level: prospective
 source_collection: pubmed-text
 full_text: false
 tags: [occupational-dose, TLD, lead-apron, open-clinic, dentist, assistant]

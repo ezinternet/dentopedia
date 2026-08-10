@@ -1,0 +1,49 @@
+{
+  "overview": "adhesive-bonding-strategies-overview",
+  "date": "2026-07-23",
+  "title": "접착 결합 전략 — 리콜",
+  "source_wiki": [
+    "wiki/overviews/adhesive-bonding-strategies-overview.md"
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "q": "접착 결합력을 좌우하는 핵심 요소는?",
+      "opts": [
+        "접착제의 도포 길이(시간)",
+        "격리(오염 차단)·시스템 선택·표면 전처리 — 길이가 아니라 전처리가 in-vitro 내구성을 결정",
+        "광중합기의 밝기만",
+        "레진의 색조"
+      ],
+      "ans": 1,
+      "rat": "접착 결합력은 격리(오염 차단)·시스템 선택·표면 전처리가 좌우하며, 길이가 아니라 전처리가 in-vitro 내구성을 결정. 노화: Clearfil SE Bond는 mechanical cycling 10만 cycle부터 µTBS 유의 저하(Daneshkazemi 2013) → 단기 측정만으론 위험, 장기 5년+ 관점 필요.",
+      "cite": "overviews/adhesive-bonding-strategies-overview"
+    },
+    {
+      "id": "q2",
+      "q": "타액 오염된 상아질에서 접착 시스템별 대처는?",
+      "opts": [
+        "모든 접착제가 오염에 영향받지 않는다",
+        "2-step 자가부식(Clearfil SE Bond 2)은 오염 상아질에서도 강도 유지하나, 1-step 유니버설(Universal Bond Quick)은 Katana Cleaner 등 decontamination 후에야 결합력 회복(Etiennot 2025)",
+        "1-step 유니버설이 오염에 가장 강하다",
+        "오염되면 무조건 재수복"
+      ],
+      "ans": 1,
+      "rat": "2-step 자가부식(Clearfil SE Bond 2)은 오염 상아질에서도 강도 유지, 1-step 유니버설(Universal Bond Quick)은 decontamination(Katana Cleaner) 후에야 회복(Etiennot 2025). 세라믹-레진시멘트는 실란→건조→본딩 sequence + 러버댐 격리가 핵심. 3D 프린팅 크라운은 알루미나 분사로 밀링 재료와 동등 결합(Kagaoan 2024).",
+      "cite": "overviews/adhesive-bonding-strategies-overview"
+    },
+    {
+      "id": "q3",
+      "q": "무HEMA/유니버설 접착제와 자가접착 레진시멘트의 최신 근거는?",
+      "opts": [
+        "무HEMA 접착제는 내구성이 크게 떨어진다",
+        "HEMA/BPA-free·2-step 무HEMA 유니버설은 Clearfil SE Bond 2 수준 내구성 도달 가능(50k thermocycle); 자가접착 시멘트는 MDP/CaF 함유가 지르코니아 결합 우위(Mahrous 2020)",
+        "MDP는 지르코니아 결합에 무효",
+        "papain 탈단백은 결합을 약화시킨다"
+      ],
+      "ans": 1,
+      "rat": "HEMA/BPA-free·2-step 무HEMA 유니버설 접착제는 Clearfil SE Bond 2 수준 내구성 도달 가능(50k thermocycle); 침식 상아질엔 papain 탈단백이 self-etch µTBS 향상·안정화(Tang 2024, Sirirangsee 2025). 자가접착 레진시멘트는 MDP/CaF 함유가 비-MDP보다 지르코니아 결합 우위(Mahrous 2020).",
+      "cite": "overviews/adhesive-bonding-strategies-overview"
+    }
+  ]
+}

@@ -6,7 +6,7 @@ date: 2013-01-01
 doi: 10.1111/j.1365-2710.2012.01373.x
 source: yokoyama-2013-nsaids-antiplatelet-aspirin-interaction.md
 category: [drug/anticoagulants]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/yokoyama-2013-nsaids-antiplatelet-aspirin-interaction.pdf
 pdf_filename: yokoyama-2013-nsaids-antiplatelet-aspirin-interaction.pdf
 source_collection: external
@@ -59,7 +59,7 @@ This in vitro Japanese study screened nine clinically available NSAIDs for their
 - No NSAID interfered when aspirin was given first (all conditions: aspirin→NSAID = no effect)
 
 ## Related Papers
-- [[drug/catella-lawson-2001-cyclooxygenase-inhibitors-aspirin-nejm]] — human RCT establishing timing-dependent ibuprofen–aspirin interaction
-- [[drug/renda-2006-celecoxib-ibuprofen-aspirin-antiplatelet]] — clinical RCT confirming ibuprofen interference in OA+IHD patients; celecoxib safe
-- [[drug/hohlfeld-2008-pyrazolinone-aspirin-antiplatelet-pharmacology]] — dipyrone/pyrazolinone class also interferes
-- [[drug/kotowska-rodziewicz-2023-nsaids-role-dentistry-review]] — clinical NSAIDs guide in dentistry
+- [[drug/anticoagulants/catella-lawson-2001-cyclooxygenase-inhibitors-aspirin-nejm]] — human RCT establishing timing-dependent ibuprofen–aspirin interaction
+- [[drug/anticoagulants/renda-2006-celecoxib-ibuprofen-aspirin-antiplatelet]] — clinical RCT confirming ibuprofen interference in OA+IHD patients; celecoxib safe
+- [[drug/anticoagulants/hohlfeld-2008-pyrazolinone-aspirin-antiplatelet-pharmacology]] — dipyrone/pyrazolinone class also interferes
+- [[drug/analgesics/kotowska-rodziewicz-2023-nsaids-role-dentistry-review]] — clinical NSAIDs guide in dentistry

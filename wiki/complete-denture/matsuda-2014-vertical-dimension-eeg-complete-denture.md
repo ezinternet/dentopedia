@@ -6,7 +6,7 @@ date: 2014-04-01
 doi: 10.1016/j.jpor.2014.01.003
 source: matsuda-2014-vertical-dimension-eeg-complete-denture.md
 category: [complete-denture]
-confidence: in-vivo
+evidence_level: in-vivo
 pdf_path: /Users/oracleneo/llm-wiki/papers/matsuda-2014-vertical-dimension-eeg-complete-denture.pdf
 pdf_filename: matsuda-2014-vertical-dimension-eeg-complete-denture.pdf
 source_collection: external

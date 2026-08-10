@@ -6,7 +6,7 @@ date: 2020-01-01
 doi: 10.4047/jap.2020.12.4.189
 source: turker-2020-surface-treatments-cad-cam-resin.md
 category: [dental-materials]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/turker-2020-surface-treatments-cad-cam-resin.pdf
 pdf_filename: turker-2020-surface-treatments-cad-cam-resin.pdf
 source_collection: external
@@ -37,5 +37,5 @@ In vitro comparison of five surface treatments on two polymer-containing CAD/CAM
 - Laser: no consistent advantage
 
 ## Related Papers
-- [[dental-materials/blatz-2018-resin-bonding-high-strength-ceramics-review]] — CoJet/Rocatec recommended
+- [[dental-materials/ceramic/blatz-2018-resin-bonding-high-strength-ceramics-review]] — CoJet/Rocatec recommended
 - [[dental-materials/zirconia/comba-2021-chemical-bonding-cubic-zirconia]] — chemical bonding approaches

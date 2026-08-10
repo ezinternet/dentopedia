@@ -6,7 +6,7 @@ date: 2026-05-21
 doi: 10.3290/j.qi.b7011446
 source: mauriello-2026-peri-implant-mucositis-adjunctive-narrative-review.md
 category: [implants/peri-implantitis]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/mauriello-2026-peri-implant-mucositis-adjunctive-narrative-review.pdf
 pdf_filename: mauriello-2026-peri-implant-mucositis-adjunctive-narrative-review.pdf
 source_collection: external
@@ -53,6 +53,6 @@ Narrative review of nine RCTs (414 patients) testing chemical and pharmaceutical
 - Recommends standardized RCTs with longer follow-up and unified outcomes
 
 ## Related Papers
-- [[periodontics/grusovin-2022-antibiotics-non-surgical-peri-implantitis-ma]] — antibiotics MA for peri-implantitis
-- [[periodontics/kim-2024-peri-implant-diseases-consensus-korean-academy-periodontology]] — Korean consensus on peri-implant diseases
-- [[periodontics/kim-2025-management-peri-implantitis-perspectives]] — peri-implantitis management perspectives
+- [[implants/peri-implantitis/grusovin-2022-antibiotics-non-surgical-peri-implantitis-ma]] — antibiotics MA for peri-implantitis
+- [[implants/peri-implantitis/kim-2024-peri-implant-diseases-consensus-korean-academy-periodontology]] — Korean consensus on peri-implant diseases
+- [[implants/peri-implantitis/kim-2025-management-peri-implantitis-perspectives]] — peri-implantitis management perspectives

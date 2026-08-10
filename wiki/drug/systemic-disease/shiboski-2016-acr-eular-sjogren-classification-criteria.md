@@ -6,7 +6,7 @@ date: 2016-10-10
 doi: 10.1002/art.39859
 source: shiboski-2016-acr-eular-sjogren-classification-criteria.md
 category: [drug/systemic-disease]
-confidence: cross-sectional
+evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/shiboski-2016-acr-eular-sjogren-classification-criteria.pdf
 pdf_filename: shiboski-2016-acr-eular-sjogren-classification-criteria.pdf
 source_collection: external
@@ -44,5 +44,5 @@ Multinational cohort data-driven analysis (n=6,608) + expert consensus.
 New criteria superior to AECG in sensitivity/specificity. Anti-SSA/Ro highest weighted item. Validated across three independent cohorts.
 
 ## Related Papers
-- [[drug/franceschini-2017-sjogren-2016-acr-eular-criteria-commentary]] — related
-- [[drug/legoff-2017-sjogren-classification-criteria-comparison]] — related
+- [[drug/systemic-disease/franceschini-2017-sjogren-2016-acr-eular-criteria-commentary]] — related
+- [[drug/systemic-disease/legoff-2017-sjogren-classification-criteria-comparison]] — related

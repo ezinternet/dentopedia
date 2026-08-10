@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1186/s12903-025-07229-y
 journal: BMC Oral Health 25:1830
 source: fu-2025-antral-pseudocyst-management-lsfe.md
-confidence: retrospective
+evidence_level: retrospective
 category: [sinus-lift/pseudocyst]
 pdf_path: /Users/oracleneo/llm-wiki/papers/fu-2025-antral-pseudocyst-management-lsfe.pdf
 pdf_filename: fu-2025-antral-pseudocyst-management-lsfe.pdf
@@ -64,9 +64,9 @@ Zhongshan Hospital Fudan University, Shanghai. 점액낭종이 있어도 implant
 | Membrane 손상 위험·환자 거부 | Untreated 도 안전 옵션 (단 graft loss 감수) |
 
 ## Strengths and Caveats
-[합의수준] LSFE 시 소형 AP는 implant survival 자체에 영향 미미 — 다수 cohort·SR과 일치
-[근거강함] 3-arm 비교는 결정 트리에서 흡인이라는 중간 옵션의 정량적 효과 보여줌
-[claude해석] -2~-4%p의 volume 차이가 장기 prosthetic 결과에 임상적 의미가 있는지는 별도 검증 필요
+[확인] LSFE 시 소형 AP는 implant survival 자체에 영향 미미 — 다수 cohort·SR과 일치
+[확인] 3-arm 비교는 결정 트리에서 흡인이라는 중간 옵션의 정량적 효과 보여줌
+[미검증] -2~-4%p의 volume 차이가 장기 prosthetic 결과에 임상적 의미가 있는지는 별도 검증 필요
 [미검증] 6개월 outcome — 장기 MBL·prosthetic loading 후 변화 미평가
 
 ## Related Papers

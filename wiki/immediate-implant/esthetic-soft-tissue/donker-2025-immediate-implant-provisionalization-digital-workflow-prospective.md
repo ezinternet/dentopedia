@@ -6,7 +6,7 @@ date: 2025-07-16
 doi: "10.1111/cid.70079"
 source: donker-2025-immediate-implant-provisionalization-digital-workflow-prospective.md
 category: [immediate-implant/esthetic-soft-tissue]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/donker-2025-immediate-implant-provisionalization-digital-workflow-prospective.pdf
 pdf_filename: donker-2025-immediate-implant-provisionalization-digital-workflow-prospective.pdf
 source_collection: external
@@ -55,5 +55,5 @@ This prospective case series applied a fully digital workflow — integrated int
 ## Related Papers
 
 - [[immediate-implant/esthetic-soft-tissue/staas-2026-fiipp-palatal-position-cbct-3year]] — same group, palatal 3D positioning of immediate implants
-- [[immediate-implant/meijer-2024-immediate-implant-bony-defect-10year-rct]] — long-term immediate-implant outcomes (Groningen)
+- [[immediate-implant/gap-grafting/meijer-2024-immediate-implant-bony-defect-10year-rct]] — long-term immediate-implant outcomes (Groningen)
 - [[immediate-implant/esthetic-soft-tissue/slagter-2021-immediate-single-implant-provisionalization-5year]] — immediate provisionalization outcomes

@@ -2,8 +2,8 @@
 title: "The soft tissue esthetic outcome with and without immediate provisionalization in immediate implants: A systematic review and meta-analysis"
 authors: Sutariya PV, Mehta SP, Upadhyay HH, Pathan MR, Patel SR, Bhatia YA
 year: 2022
-doi: 10.4103/jips.jips_399_21
-journal: "J Indian Prosthodont Soc 2022;22(2):142-153"
+doi: 10.4103/jips.jips_227_21
+journal: "J Indian Prosthodont Soc 2022;22(1):2-12"
 category: [immediate-implant/esthetic-soft-tissue]
 pdf_path: /Users/oracleneo/llm-wiki/papers/sutariya-2022-soft-tissue-immediate-provisionalization-sr-ma.pdf
 pdf_filename: sutariya-2022-soft-tissue-immediate-provisionalization-sr-ma.pdf
@@ -30,8 +30,8 @@ index, papilla recession, midfacial mucosal recession 보조 평가; GRADE 적�
 - **Title**: The soft tissue esthetic outcome with and without immediate provisionalization in immediate implants: A systematic review and meta-analysis
 - **Authors**: Sutariya PV, Mehta SP, Upadhyay HH, Pathan MR, Patel SR, Bhatia YA
 - **Year**: 2022
-- **Journal**: J Indian Prosthodont Soc 2022;22(2):142-153
-- **DOI**: 10.4103/jips.jips_399_21
+- **Journal**: J Indian Prosthodont Soc 2022;22(1):2-12
+- **DOI**: 10.4103/jips.jips_227_21
 - **Study Type**: sr+ma
 - **Category**: immediate-implant
 

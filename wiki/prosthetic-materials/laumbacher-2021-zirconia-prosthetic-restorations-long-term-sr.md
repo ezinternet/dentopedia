@@ -6,7 +6,7 @@ date: 2021-08-01
 doi: 10.1016/j.jdent.2021.103723
 source: laumbacher-2021-zirconia-prosthetic-restorations-long-term-sr.md
 category: [prosthetic-materials]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/laumbacher-2021-zirconia-prosthetic-restorations-long-term-sr.pdf
 pdf_filename: laumbacher-2021-zirconia-prosthetic-restorations-long-term-sr.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2022-08-29
 doi: "10.3390/jfb13030134"
 source: tsujimoto-2022-two-step-hema-free-universal-adhesive-durability.md
 category: resin-bonding
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/tsujimoto-2022-two-step-hema-free-universal-adhesive-durability.pdf
 pdf_filename: tsujimoto-2022-two-step-hema-free-universal-adhesive-durability.pdf
 source_collection: external

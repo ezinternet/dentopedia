@@ -6,7 +6,7 @@ date: 2015-08-13
 doi: 10.1259/bjr.20150559
 source: hidalgo-rivas-2015-low-dose-cbct-anterior-maxilla-children.md
 category: [radiology]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/hidalgo-rivas-2015-low-dose-cbct-anterior-maxilla-children.pdf
 pdf_filename: hidalgo-rivas-2015-low-dose-cbct-anterior-maxilla-children.pdf
 source_collection: external

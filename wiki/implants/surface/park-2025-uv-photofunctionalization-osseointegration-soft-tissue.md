@@ -6,7 +6,7 @@ date: 2025-06-08
 doi: 10.2186/jpr.JPR_D_24_00086
 source: park-2025-uv-photofunctionalization-osseointegration-soft-tissue.md
 category: [implants/surface]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/park-2025-uv-photofunctionalization-osseointegration-soft-tissue.pdf
 pdf_filename: park-2025-uv-photofunctionalization-osseointegration-soft-tissue.pdf
 source_collection: external

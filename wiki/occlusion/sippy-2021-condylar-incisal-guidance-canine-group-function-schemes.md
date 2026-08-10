@@ -6,7 +6,7 @@ date: 2021-01-01
 doi: 10.4103/jips.jips_183_21
 source: sippy-2021-condylar-incisal-guidance-canine-group-function-schemes.md
 category: [occlusion]
-confidence: cross-sectional
+evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/sippy-2021-condylar-incisal-guidance-canine-group-function-schemes.pdf
 pdf_filename: sippy-2021-condylar-incisal-guidance-canine-group-function-schemes.pdf
 source_collection: external
@@ -41,7 +41,7 @@ Occlusal scheme selection (canine guidance vs group function) should account for
 과두유도·절치유도 측정, 견치유도/군기능 비교(articulator/clinical).
 
 ## Results
-과두·절치 유도 조합이 구치 이개량에 영향 [claude해석]. 구체 수치는 본문 보강.
+과두·절치 유도 조합이 구치 이개량에 영향 [미검증]. 구체 수치는 본문 보강.
 
 ## Related Papers
 - [[overviews/bruxism-muscle-overload-axis]] — 교합 설계 논의

@@ -6,7 +6,7 @@ date: 2022-01-01
 doi: 10.1007/s12070-021-02439-6
 source: gargava-2022-deep-neck-space-infection-150-cases.md
 category: [oral-surgery]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/gargava-2022-deep-neck-space-infection-150-cases.pdf
 pdf_filename: gargava-2022-deep-neck-space-infection-150-cases.pdf
 source_collection: external

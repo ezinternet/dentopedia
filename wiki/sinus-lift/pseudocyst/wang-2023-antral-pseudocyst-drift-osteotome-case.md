@@ -6,12 +6,15 @@ date: 2023-01-24
 doi: 10.3390/jcm12030920
 journal: Journal of Clinical Medicine 12(3):920
 source: wang-2023-antral-pseudocyst-drift-osteotome-case.md
-confidence: case-report
+evidence_level: case-report
 category: [sinus-lift/pseudocyst]
 pdf_path: /Users/oracleneo/llm-wiki/papers/wang-2023-antral-pseudocyst-drift-osteotome-case.pdf
 pdf_filename: wang-2023-antral-pseudocyst-drift-osteotome-case.pdf
 source_collection: external
 tags: [maxillary-sinus, antral-pseudocyst, osteotome-sinus-elevation, transcrestal, drift, simultaneous-implant, literature-review]
+relations:
+  - type: extends
+    target: nosaka-2024-sinus-elevation-radiopaque-lesions-review
 ---
 
 ## Three-line Summary
@@ -50,8 +53,8 @@ Lateral 접근 중심의 sinus pseudocyst literature에서 드문 transcrestal (
 
 ## Strengths and Caveats
 [case-report] n=1
-[claude해석] Drift 메커니즘은 추정 — sinus 내 정압 변화·점막 신전
-[근거강함] 문헌 검토로 transcrestal-AP 문헌 부족 자체를 입증
+[미검증] Drift 메커니즘은 추정 — sinus 내 정압 변화·점막 신전
+[확인] 문헌 검토로 transcrestal-AP 문헌 부족 자체를 입증
 
 ## Related Papers
 - [[sinus-lift/pseudocyst/anitua-2021-mucous-cysts-pseudocysts-implants-sr]] — lateral 중심 SR

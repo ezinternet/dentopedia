@@ -6,7 +6,7 @@ date: 2018-10-01
 doi: 10.4047/jap.2018.10.5.374
 source: jo-2018-liners-primers-zirconia-tensile-bond.md
 category: [dental-materials/zirconia]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/jo-2018-liners-primers-zirconia-tensile-bond.pdf
 pdf_filename: jo-2018-liners-primers-zirconia-tensile-bond.pdf
 source_collection: external
@@ -39,4 +39,4 @@ In vitro study comparing silica-based glass-ceramic liners (P-containing and P-f
 ## Related Papers
 - [[dental-materials/zirconia/sharafeddin-2018-mdp-primers-zirconia-bond]] — Z-Prime Plus vs universal adhesive
 - [[dental-materials/zirconia/comba-2021-chemical-bonding-cubic-zirconia]] — chemical bonding to cubic zirconia
-- [[dental-materials/blatz-2018-resin-bonding-high-strength-ceramics-review]] — comprehensive bonding review
+- [[dental-materials/ceramic/blatz-2018-resin-bonding-high-strength-ceramics-review]] — comprehensive bonding review

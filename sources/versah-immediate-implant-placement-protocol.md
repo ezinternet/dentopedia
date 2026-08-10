@@ -51,8 +51,8 @@ Protocol outcome: primary stability provided by apical socket (not coronal walls
 Manufacturer marketing document — not peer-reviewed. Apical-anchorage principle requires sufficient apical bone (not all socket morphologies). Allograft selection ratio (70/30) not validated against alternatives in this document.
 
 ## 6. Related Work
-- [[immediate-implant/bleyan-2021-molar-septum-expansion-osseodensification-immediate-implant]]
-- [[immediate-implant/darosa-2019-immediate-dentoalveolar-restoration-osseodensification-periodontal]]
+- [[immediate-implant/molar-septum/bleyan-2021-molar-septum-expansion-osseodensification-immediate-implant]]
+- [[immediate-implant/gap-grafting/darosa-2019-immediate-dentoalveolar-restoration-osseodensification-periodontal]]
 - [[implants/versah-protocols/versah-idr-ii-immediate-dentoalveolar-restoration-protocol]]
 - [[implants/versah-protocols/versah-combined-molar-septum-expansion-sinus-lift-protocol]]
 

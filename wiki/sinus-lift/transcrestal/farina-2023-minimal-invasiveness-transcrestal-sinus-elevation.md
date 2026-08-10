@@ -6,7 +6,7 @@ date: 2022-08-01
 doi: 10.1111/prd.12464
 source: farina-2023-minimal-invasiveness-transcrestal-sinus-elevation.md
 category: sinus-lift/transcrestal
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/farina-2023-minimal-invasiveness-transcrestal-sinus-elevation.pdf
 pdf_filename: farina-2023-minimal-invasiveness-transcrestal-sinus-elevation.pdf
 source_collection: external

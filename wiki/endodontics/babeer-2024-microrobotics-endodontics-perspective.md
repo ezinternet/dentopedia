@@ -6,7 +6,7 @@ date: 2024-04-01
 doi: "10.1111/iej.14082"
 source: babeer-2024-microrobotics-endodontics-perspective.md
 category: [endodontics]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/babeer-2024-microrobotics-endodontics-perspective.pdf
 pdf_filename: babeer-2024-microrobotics-endodontics-perspective.pdf
 source_collection: external

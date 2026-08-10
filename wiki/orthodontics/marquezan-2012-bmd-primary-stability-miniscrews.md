@@ -6,7 +6,7 @@ date: 2012-01-01
 doi: "10.2319/031811-192.1"
 source: marquezan-2012-bmd-primary-stability-miniscrews.md
 category: [orthodontics]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/marquezan-2012-bmd-primary-stability-miniscrews.pdf
 pdf_filename: marquezan-2012-bmd-primary-stability-miniscrews.pdf
 source_collection: external

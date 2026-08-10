@@ -6,7 +6,7 @@ date: 2023-05-09
 doi: 10.3390/biomedicines11051401
 source: muniz-2023-nonthermal-plasma-endodontics-review.md
 category: [endodontics/cold-plasma]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/muniz-2023-nonthermal-plasma-endodontics-review.pdf
 pdf_filename: muniz-2023-nonthermal-plasma-endodontics-review.pdf
 source_collection: external

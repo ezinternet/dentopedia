@@ -6,7 +6,7 @@ date: 2021-12-15
 doi: 10.1007/s00784-021-04277-w
 source: wagner-2022-cold-atmospheric-plasma-implant-materials.md
 category: [implants/surface/plasma]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/wagner-2022-cold-atmospheric-plasma-implant-materials.pdf
 pdf_filename: wagner-2022-cold-atmospheric-plasma-implant-materials.pdf
 source_collection: external

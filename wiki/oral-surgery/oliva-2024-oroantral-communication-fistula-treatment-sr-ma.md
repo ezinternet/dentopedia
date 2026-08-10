@@ -6,7 +6,7 @@ date: 2024-05-20
 doi: 10.3390/dj12050147
 source: oliva-2024-oroantral-communication-fistula-treatment-sr-ma.md
 category: oral-surgery
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/oliva-2024-oroantral-communication-fistula-treatment-sr-ma.pdf
 pdf_filename: oliva-2024-oroantral-communication-fistula-treatment-sr-ma.pdf
 source_collection: external
@@ -95,6 +95,6 @@ This 2024 systematic review and network meta-analysis (PRISMA-compliant) searche
 
 ## Related Papers
 
-- [[oral-medicine/psillas-2020-odontogenic-maxillary-sinusitis-comprehensive-review]] — OMS comprehensive review: OAC as the primary pathway for odontogenic sinusitis; this NMA extends by quantifying best closure method
-- [[oral-medicine/lin-2024-odontogenic-maxillary-sinusitis-expert-consensus]] — OMS expert consensus: addresses FESS sequencing after OAC closure; this paper provides the surgical closure evidence base
-- [[oral-medicine/kim-2019-definition-management-odontogenic-maxillary]] — OMS management: OAC/OAF as risk factor for odontogenic sinusitis development; this NMA completes the prevention–closure loop
+- [[oral-medicine/odontogenic-sinusitis/psillas-2020-odontogenic-maxillary-sinusitis-comprehensive-review]] — OMS comprehensive review: OAC as the primary pathway for odontogenic sinusitis; this NMA extends by quantifying best closure method
+- [[oral-medicine/odontogenic-sinusitis/lin-2024-odontogenic-maxillary-sinusitis-expert-consensus]] — OMS expert consensus: addresses FESS sequencing after OAC closure; this paper provides the surgical closure evidence base
+- [[oral-medicine/odontogenic-sinusitis/kim-2019-definition-management-odontogenic-maxillary]] — OMS management: OAC/OAF as risk factor for odontogenic sinusitis development; this NMA completes the prevention–closure loop

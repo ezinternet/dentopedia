@@ -6,11 +6,14 @@ date: 2022-01-01
 doi: 10.3233/THC-220048
 source: al-ahmari-2022-osseodensification-conventional-low-density-jaw.md
 category: [implants/isq]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/al-ahmari-2022-osseodensification-conventional-low-density-jaw.pdf
 pdf_filename: al-ahmari-2022-osseodensification-conventional-low-density-jaw.pdf
 source_collection: external
 tags: [implants, isq, osseodensification, low-density-bone, split-mouth]
+relations:
+  - type: refines
+    target: althobaiti-2023-osseodensification-conventional-drilling-isq-sr
 ---
 
 ## Three-line Summary
@@ -45,5 +48,5 @@ Provides a human controlled counterpoint to the OD-favorable pooled literature: 
 
 ## Related Papers
 - [[implants/isq/althobaiti-2023-osseodensification-conventional-drilling-isq-sr]] — OD ISQ systematic review (OD-favorable)
-- [[implants/inchingolo-2021-osseodensification-implant-site-osteotomy-sr-ma]] — OD osteotomy SR+MA
+- [[implants/osseodensification/inchingolo-2021-osseodensification-implant-site-osteotomy-sr-ma]] — OD osteotomy SR+MA
 - [[implants/isq/arpudaswamy-2025-osseodensification-conventional-implant-stability-rabbit]] — animal RCT showing OD secondary-stability gain (contrast)

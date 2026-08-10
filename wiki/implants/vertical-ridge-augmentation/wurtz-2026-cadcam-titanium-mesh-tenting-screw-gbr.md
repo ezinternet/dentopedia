@@ -8,7 +8,7 @@ pmid: "41860153"
 pmcid: "PMC13003723"
 source: wurtz-2026-cadcam-titanium-mesh-tenting-screw-gbr.md
 category: [implants/vertical-ridge-augmentation]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 text_path: /Users/oracleneo/llm-wiki/papers/wurtz-2026-cadcam-titanium-mesh-tenting-screw-gbr.txt
 text_filename: wurtz-2026-cadcam-titanium-mesh-tenting-screw-gbr.txt

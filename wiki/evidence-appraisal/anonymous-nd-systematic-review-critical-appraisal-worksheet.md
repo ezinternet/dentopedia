@@ -6,7 +6,7 @@ date: 2026-05-22
 doi: null
 source: anonymous-nd-systematic-review-critical-appraisal-worksheet.md
 category: evidence-appraisal
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/anonymous-nd-systematic-review-critical-appraisal-worksheet.pdf
 pdf_filename: anonymous-nd-systematic-review-critical-appraisal-worksheet.pdf
 source_collection: external

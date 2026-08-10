@@ -6,7 +6,7 @@ date: 2016-04-04
 doi: 10.1007/s00784-016-1815-2
 source: bassetti-2016-soft-tissue-augmentation-second-stage-sr.md
 category: [implants/soft-tissue]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/bassetti-2016-soft-tissue-augmentation-second-stage-sr.pdf
 pdf_filename: bassetti-2016-soft-tissue-augmentation-second-stage-sr.pdf
 source_collection: external
@@ -14,8 +14,6 @@ tags: []
 relations:
   - type: reinforces
     target: zhang-2025-expert-consensus-km-augmentation-second-stage
-  - type: reinforces
-    target: keratinized-mucosa-peri-implant-health-overview
   - type: refines
     target: sanz-2022-keratinized-mucosa-around-implants-consensus
 ---
@@ -96,7 +94,7 @@ The review evaluated two distinct goals: (1) increasing **keratinized mucosa (KM
 
 ## Related Papers
 
-- [[implants/zhang-2025-expert-consensus-km-augmentation-second-stage]] — 2025 expert consensus on KM augmentation at second-stage; built on this SR as foundational evidence; provides updated technique hierarchy
-- [[implants/sanz-2022-keratinized-mucosa-around-implants-consensus]] — EAO consensus on KM around implants; broader scope (not limited to second-stage); higher-level evidence synthesis
-- [[implants/montero-2022-soft-tissue-substitutes-vs-autogenous-keratinized-mucosa-sr]] — SR comparing soft-tissue substitutes vs autogenous KM grafts with more RCT data than available to Bassetti 2016; directly updates XCM vs FGG comparison
+- [[implants/soft-tissue/zhang-2025-expert-consensus-km-augmentation-second-stage]] — 2025 expert consensus on KM augmentation at second-stage; built on this SR as foundational evidence; provides updated technique hierarchy
+- [[implants/soft-tissue/sanz-2022-keratinized-mucosa-around-implants-consensus]] — EAO consensus on KM around implants; broader scope (not limited to second-stage); higher-level evidence synthesis
+- [[implants/soft-tissue/montero-2022-soft-tissue-substitutes-vs-autogenous-keratinized-mucosa-sr]] — SR comparing soft-tissue substitutes vs autogenous KM grafts with more RCT data than available to Bassetti 2016; directly updates XCM vs FGG comparison
 - [[overviews/keratinized-mucosa-peri-implant-health-overview]] — Cross-paper synthesis of KM width, peri-implant health, and augmentation decision framework

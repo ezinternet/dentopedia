@@ -6,7 +6,7 @@ date: 2025-05-19
 doi: 10.5005/jp-journals-10024-3828
 source: pandey-2025-monitoring-patient-anxiety-pain-physiological-rct.md
 category: behavioral-dentistry/dental-anxiety
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/pandey-2025-monitoring-patient-anxiety-pain-physiological-rct.pdf
 pdf_filename: pandey-2025-monitoring-patient-anxiety-pain-physiological-rct.pdf
 source_collection: external

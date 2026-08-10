@@ -6,7 +6,7 @@ date: 2024-08-17
 doi: 10.7759/cureus.67061
 source: alkhurayji-2024-factors-patient-failure-attend-dental.md
 category: [practice-management]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 full_text: true
 pmid: "39286712"

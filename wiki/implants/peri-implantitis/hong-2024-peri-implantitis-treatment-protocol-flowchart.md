@@ -6,7 +6,7 @@ date: 2024-01-04
 doi: 10.5051/jpis.2303360168
 source: hong-2024-peri-implantitis-treatment-protocol-flowchart.md
 category: [implants/peri-implantitis]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/hong-2024-peri-implantitis-treatment-protocol-flowchart.pdf
 pdf_filename: hong-2024-peri-implantitis-treatment-protocol-flowchart.pdf
 source_collection: external
@@ -56,7 +56,7 @@ Peri-implantitis diagnosed
 ```
 
 ## Related Papers
-- [[implants/herrera-2023-prevention-treatment-peri-implant-efp]] — EFP S3 peri-implant disease treatment guideline; authoritative standard
-- [[implants/berglundh-2018-peri-implant-diseases-conditions-consensus]] — case definitions: peri-implantitis diagnostic criteria
+- [[implants/peri-implantitis/herrera-2023-prevention-treatment-peri-implant-efp]] — EFP S3 peri-implant disease treatment guideline; authoritative standard
+- [[implants/peri-implantitis/berglundh-2018-peri-implant-diseases-conditions-consensus]] — case definitions: peri-implantitis diagnostic criteria
 - [[implants/peri-implantitis/vrazic-2026-peri-implantitis-treatment-magnesium-membrane]] — novel magnesium membrane for peri-implantitis GBR
-- [[implants/derks-2015-peri-implant-health-disease-epidemiology]] — epidemiology: 22% prevalence of peri-implantitis
+- [[implants/peri-implantitis/derks-2015-peri-implant-health-disease-epidemiology]] — epidemiology: 22% prevalence of peri-implantitis

@@ -6,7 +6,7 @@ date: 2023-09-01
 doi: "10.1111/cid.13269"
 source: kyaw-2023-effect-chemical-electrochemical-decontamination-protocols.md
 category: [infection-control]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: false
 pmid: "37654160"

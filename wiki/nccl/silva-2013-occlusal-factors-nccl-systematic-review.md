@@ -6,7 +6,7 @@ date: 2013-01-01
 doi: "10.1016/j.jdent.2012.10.018"
 source: silva-2013-occlusal-factors-nccl-systematic-review.md
 category: nccl
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/silva-2013-occlusal-factors-nccl-systematic-review.pdf
 pdf_filename: silva-2013-occlusal-factors-nccl-systematic-review.pdf
 source_collection: external

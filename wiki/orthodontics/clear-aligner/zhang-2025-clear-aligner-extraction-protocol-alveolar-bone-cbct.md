@@ -6,7 +6,7 @@ date: 2025-09-18
 doi: 10.4041/kjod25.095
 source: zhang-2025-clear-aligner-extraction-protocol-alveolar-bone-cbct.md
 category: [orthodontics/clear-aligner]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 full_text: true
 pmid: "40962368"
@@ -39,7 +39,7 @@ Mandibular anterior teeth suffered more severe bone loss than maxillary anterior
 
 ## Summary
 
-This large retrospective cohort (n=281 adults) used pre- and post-treatment CBCT to quantify alveolar bone height/thickness changes and anterior root resorption across three clear aligner extraction protocols: non-extraction (NE, n=186), two-premolar-extraction in both arches (TPE, n=59), and two-premolar-extraction in the maxilla combined with one-lower-incisor-extraction in the mandible (OLIE, n=36). Unlike prior literature (e.g., [[wiki/orthodontics/clear-aligner/jaber-2023-clear-aligners-complex-extraction-vs-fixed-sr]]), which compares clear aligners to fixed appliances *within* the same extraction type, this study compares *different extraction types within clear aligner therapy alone* — a design gap the authors note had not previously been addressed at scale, particularly for the rare OLIE protocol.
+This large retrospective cohort (n=281 adults) used pre- and post-treatment CBCT to quantify alveolar bone height/thickness changes and anterior root resorption across three clear aligner extraction protocols: non-extraction (NE, n=186), two-premolar-extraction in both arches (TPE, n=59), and two-premolar-extraction in the maxilla combined with one-lower-incisor-extraction in the mandible (OLIE, n=36). Unlike prior literature (e.g., [[orthodontics/clear-aligner/jaber-2023-clear-aligners-complex-extraction-vs-fixed-sr]]), which compares clear aligners to fixed appliances *within* the same extraction type, this study compares *different extraction types within clear aligner therapy alone* — a design gap the authors note had not previously been addressed at scale, particularly for the rare OLIE protocol.
 
 Alveolar bone loss (height and/or thickness) was common across all three groups, including NE, but was consistently more pronounced with extraction. TPE carried a distinct risk profile centered on the lingual/palatal aspect: lingual alveolar bone height loss exceeding 2 mm and torque loss (lingual crown tipping beyond planned values) during anterior retraction, especially in mandibular incisors — a problem that persisted even with power ridges, overcorrection, and multi-week wear protocols. OLIE carried a different risk profile centered on interproximal space: the highest interproximal contact point-to-alveolar-crest (ICP-AC) distances of all groups, crossing thresholds associated with open gingival embrasures (OGE). Root resorption of canines was greater in both extraction groups (TPE, OLIE) than NE. Across nearly all indices, mandibular anterior teeth showed more severe bone loss than maxillary anterior teeth, attributed to the mandible's thinner buccolingual bone envelope.
 

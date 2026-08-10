@@ -6,7 +6,7 @@ date: 2019-03-01
 doi: 10.1002/jbm.b.34154
 source: lahens-2019-osseodensification-implant-surface-treatments-sheep.md
 category: [implants/surface]
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/lahens-2019-osseodensification-implant-surface-treatments-sheep.pdf
 pdf_filename: lahens-2019-osseodensification-implant-surface-treatments-sheep.pdf
 source_collection: external
@@ -56,7 +56,7 @@ Twelve adult sheep had six implants per animal placed bilaterally in the ilium. 
 - Short follow-up (12 weeks); no MBL or long-term stability data.
 
 ## Related Papers
-- [[implants/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — origin of the OD/Densah bur technique that this study tests in vivo.
-- [[implants/slete-2018-histomorphometric-comparison-three-osteotomy-techniques]] — porcine bench histomorphometry of OD vs osteotome vs standard drilling.
-- [[implants/mello-machado-2021-osseodensification-low-quality-bone-rct]] — translates the OD-in-soft-bone hypothesis into a human RCT.
+- [[implants/osseodensification/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — origin of the OD/Densah bur technique that this study tests in vivo.
+- [[implants/osteotomy-thermal/slete-2018-histomorphometric-comparison-three-osteotomy-techniques]] — porcine bench histomorphometry of OD vs osteotome vs standard drilling.
+- [[implants/osseodensification/mello-machado-2021-osseodensification-low-quality-bone-rct]] — translates the OD-in-soft-bone hypothesis into a human RCT.
 - [[fontes-pereira-2023-osseodensification-osteotomy-alternative-sr]] — SR including this paper in the evidence base.

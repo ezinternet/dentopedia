@@ -6,7 +6,7 @@ date: 2022-02-28
 doi: 10.1371/journal.pone.0264475
 source: musskopf-2022-minipig-intraoral-implant-model-sr-ma.md
 category: [implants]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/musskopf-2022-minipig-intraoral-implant-model-sr-ma.pdf
 pdf_filename: musskopf-2022-minipig-intraoral-implant-model-sr-ma.pdf
 source_collection: external
@@ -82,6 +82,6 @@ Pooled mean BIC was 59.88% (95% CI: 57.43–62.33), with significant temporal pr
 
 ## Related Papers
 
-- [[implants/bosshardt-2017-osseointegration-titanium-zirconia-review]] — osseointegration mechanisms and BIC in titanium vs zirconia (human/clinical context)
+- [[implants/surface/bosshardt-2017-osseointegration-titanium-zirconia-review]] — osseointegration mechanisms and BIC in titanium vs zirconia (human/clinical context)
 - [[implants/albrektsson-1981-osseointegrated-titanium-implants-requirements]] — original osseointegration criteria and success thresholds
-- [[implants/berglundh-2018-peri-implant-diseases-conditions-consensus]] — peri-implant tissue biology consensus
+- [[implants/peri-implantitis/berglundh-2018-peri-implant-diseases-conditions-consensus]] — peri-implant tissue biology consensus

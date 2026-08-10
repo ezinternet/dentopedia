@@ -6,7 +6,7 @@ date: 2010-09-08
 doi: 10.1002/14651858.CD005968.pub3
 source: esposito-2010-fresh-extraction-sockets-immediate-cochrane.md
 category: [immediate-implant]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/esposito-2010-fresh-extraction-sockets-immediate-cochrane.pdf
 pdf_filename: esposito-2010-fresh-extraction-sockets-immediate-cochrane.pdf
 source_collection: external

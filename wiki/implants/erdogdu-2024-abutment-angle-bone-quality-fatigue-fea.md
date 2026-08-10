@@ -8,7 +8,7 @@ pmid: "39452546"
 pmcid: "PMC11508474"
 source: erdogdu-2024-abutment-angle-bone-quality-fatigue-fea.md
 category: [implants]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 text_path: /Users/oracleneo/llm-wiki/papers/erdogdu-2024-abutment-angle-bone-quality-fatigue-fea.txt
 text_filename: erdogdu-2024-abutment-angle-bone-quality-fatigue-fea.txt
@@ -89,4 +89,4 @@ This FEA study is one of the few to jointly analyze stress distribution AND fati
 ## Related Papers
 
 - [[implants/chi-2024-customized-angled-abutment-tooth-inclination-fea]] — customized abutments designed for tooth inclination; axial vs oblique loading determines winner
-- [[implants/murat-2025-all-on-4-implant-angulation-load-direction-fea]] — load direction × implant angle interaction; frontal BL load is more detrimental than implant angle alone
+- [[implants/full-arch/murat-2025-all-on-4-implant-angulation-load-direction-fea]] — load direction × implant angle interaction; frontal BL load is more detrimental than implant angle alone

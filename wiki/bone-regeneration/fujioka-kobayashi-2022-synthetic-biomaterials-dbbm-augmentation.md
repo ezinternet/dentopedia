@@ -6,7 +6,7 @@ date: 2022-09-10
 doi: 10.3390/ijms231810516
 source: fujioka-kobayashi-2022-synthetic-biomaterials-dbbm-augmentation.md
 category: [bone-regeneration]
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/fujioka-kobayashi-2022-synthetic-biomaterials-dbbm-augmentation.pdf
 pdf_filename: fujioka-kobayashi-2022-synthetic-biomaterials-dbbm-augmentation.pdf
 source_collection: external

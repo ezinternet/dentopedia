@@ -6,7 +6,7 @@ date: 2026-05-20
 doi: 10.1016/j.cpsurg.2026.102062
 source: su-2026-peri-implantitis-bone-defects-regenerative-strategies.md
 category: [implants/peri-implantitis]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/su-2026-peri-implantitis-bone-defects-regenerative-strategies.pdf
 pdf_filename: su-2026-peri-implantitis-bone-defects-regenerative-strategies.pdf
 source_collection: external

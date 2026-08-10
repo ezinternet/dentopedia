@@ -1,0 +1,159 @@
+Tooth Root-Derived Graft Promotes Complete Bone Replacement in Alveolar Ridge Preservation: Comparative Study with a Collagenic Xenograft in Dogs
+
+Nakajima Y, Iida T, Minetti E, et al. 2026. J Funct Biomater.
+PMID: 41745539. PMCID: PMC12942420. DOI: 10.3390/jfb17020077.
+Source: PubMed Central full text (get_full_text_article), retrieved via PubMed MCP.
+
+ABSTRACT
+
+Background: Autogenous tooth-derived grafts have been proposed as an alternative to xenografts for alveolar ridge preservation, offering biological similarity to bone and potentially more favorable remodeling. This study compared the healing outcomes of a collagenated xenograft, and a tooth-derived graft prepared with an automated processing device. Methods: Six Beagle dogs underwent bilateral extraction of the third and fourth mandibular premolars. Each animal contributed two sockets grafted with root-derived particulate prepared using an automated device for tooth cleaning, grinding, and demineralization, and two sockets grafted with a collagenated xenograft, all covered by a collagen membrane. After 3 months, histological sections were analyzed to assess crestal dimensions and the relative proportions of mature (lamellar) and immature bone (woven/parallel fibered), residual graft material, and soft tissues. Results: Lingual crest height did not differ between groups, whereas the buccal crest was slightly higher at xenograft sites compared with the tooth-graft sites. The tooth-graft group exhibited significantly fewer residual particles (0.5 ± 1.1%) and a higher proportion of total bone (65.6 ± 9.1%) compared with the xenograft group, which showed 19.7 ± 16.0% graft remnants (p = 0.032). Corticalization at the socket entrance was observed predominantly in the tooth-graft sites. No inflammatory infiltrates were detected in the examined section. Conclusions: Tooth-derived grafts promoted an almost complete replacement by vital bone with minimal residual material, whereas xenografts provided slightly better buccal contour preservation but resulted in regenerated tissues containing persistent graft particles. The biological differences observed may have implications for subsequent implant placement.
+
+1. Introduction
+
+The extraction of a tooth triggers processes that physiologically lead to bone resorption of the alveolar-supporting structure. The volumetric reductions following tooth extraction were measured and ranged from 1.67 to 2.03 mm vertically and 3.87 mm horizontally. Alveolar bone resorption occurs mainly during the first year.
+
+More than 40 years ago, Dahlin suggested the use of a membrane to guide biological processes by excluding soft tissues from bone defects during regeneration. It has also been proposed to use bone substitutes in particulate form to maintain space during healing.
+
+Bone grafting materials currently used for alveolar ridge preservation include autografts, allografts, xenografts, and alloplastic substitutes, each characterized by distinct biological and remodeling properties. Among these, xenografts are widely employed due to their availability and volume stability, although their slow resorption may result in persistent residual particles.
+
+Ridge preservation procedures may contribute to maintaining the volume and increasing the possibility of implant placement. Numerous animal studies have been conducted to investigate the biological behavior of grafting materials. The placement of various autogenous, allogenic, or xenogeneic biomaterials in extraction sites has been extensively analyzed from both clinical and histomorphometric perspectives. In a meta-analysis evaluating regenerated bone and preserved volumes, no biomaterial was found to be superior to the others for the analyzed parameters.
+
+The latest innovation in graft materials consists of collagen coating, which has been proposed to facilitate cellular adhesion and biomaterial resorption. This approach aims to overcome the limited resorption of some biomaterials, which may delay their replacement by newly formed bone while acting primarily as a scaffold for regeneration.
+
+Due to its composition, the tooth has been considered a potential graft material with osteoinductive and osteoconductive properties. Dentin consists of approximately 65% hydroxyapatite, ten times denser than that found in bone, and 35% organic components, mainly type I collagen and proteins identical or similar to those present in bone. The higher density of tooth-derived materials compared to bone may result in a slower resorption rate, which could be advantageous during bone healing by supporting gradual remodeling and replacement.
+
+More than 50 years ago, the osteoinductive properties of dentin were demonstrated by the formation of bone tissue following implantation of dentin granules into muscle tissue in animal models. More recent studies have identified the presence of bone morphogenetic protein-2 (BMP-2) in teeth, which promotes osteoblastic differentiation by inducing mesenchymal cell commitment.
+
+Numerous studies have investigated the clinical outcomes of tooth-derived grafts produced using chairside devices. One medical device is fully automated in the fragmentation, decontamination, and demineralization of teeth, producing an autologous biomaterial that can be used immediately in the same patient. The clinical performance of this material has been evaluated in multiple clinical studies, including multicenter investigations conducted over time. However, a histological comparison between extraction sockets filled with a graft derived exclusively from the tooth root (dentin-based particulate) and those treated with a collagenated xenograft has not yet been performed. Therefore, the aim of this study was to compare, in an animal model, the healing outcomes of socket preservation using a collagenated xenograft or a tooth root graft processed with an automated tooth-transforming device.
+
+2. Materials and Methods
+
+2.1. Ethical Statement
+
+All experimental procedures were carried out in accordance with the European Directive 2010/63/EU concerning the protection of animals used for scientific purposes. The protocol was reviewed and approved by the Ethical Committee of the Rof Codina Foundation and by the regional authority (Xunta de Galicia) under authorization code 01/20/LU-001 of 8 April 2020. The study was performed in accordance with the ARRIVE reporting standards. The experiment was initiated in June 2023.
+
+2.2. Experimental Animals
+
+Six adult female Beagle dogs, approximately six years old and weighing on average 11.5 kg, were used. Animals were obtained from Isoquimen (Barcelona, Spain) and underwent a three-week quarantine before the start of the study. All procedures and housing were carried out at the CeBioVet research facility in Lugo, Spain.
+
+2.3. Experimental Design
+
+Following bilateral extraction of the third and fourth mandibular premolars, the mesial sockets were grafted with either a xenogeneic or an autologous tooth-derived material. Both sites were covered with a collagen membrane, and two sockets were treated with each graft type. Animals were euthanized after a three-month healing period.
+
+2.4. Sample Size
+
+An a priori sample size calculation was performed using G*Power (v3.1.9.7), assuming a repeated-measures design with two within-animal treatment conditions, an alpha of 0.05, power of 80%, and a large effect size (Cohen's dz ≈ 1.0). Required number of animals was six. Each dog contributed four post-extraction sockets (two per graft type), resulting in 24 experimental sites (12 per group).
+
+2.5. Randomization, Allocation Concealment, and Blinding
+
+Randomization was performed digitally by an investigator (DB) not involved in surgery. Treatment assignments were sealed in opaque envelopes opened only after extraction. Histological sections were coded to maintain blinding.
+
+2.6. Biomaterials
+
+OsteOXenon (BIOTECK, Arcugnano, VI, Italy): cortical-cancellous natural equine bone granules (0.25–1.0 mm), enzyme-deantigenated with preserved bone collagen.
+
+Heart (BIOTECK): resorbable collagen membrane made of natural equine pericardium (20 × 20 mm; thickness 0.2–0.4 mm).
+
+Tooth root graft: root granules obtained through fragmentation, demineralization, and detoxification using the Tooth Transformer automated device (Tooth Transformer srl, Milan, Italy). Demineralization reduces the inorganic component of dentin superficially, while detoxification eliminates organic residues and potential bacterial contamination. Processed granules retain natural hydroxyapatite, collagen, and non-collagenous proteins; treatment increases surface wettability and cell adhesion via exposed collagen fibers and enlarged dentinal tubules.
+
+2.7. Equipment for Tooth Graft Production
+
+Following extraction, the clinical crown was removed with a high-speed diamond bur under irrigation. The remaining root was sectioned into ~1–3 mm fragments and placed into the automated device (conical surgical-steel blades, factory-preset non-modifiable parameters — fully automated, non-operator-adjustable). The demineralized tooth graft material was ready ~25 minutes after tooth extraction and immediately placed into the sockets in the same surgical session.
+
+2.8. Anesthesia
+
+Intramuscular premedication: medetomidine (10 µg/kg) + morphine (0.3 mg/kg). Induction: IV propofol (2 mg/kg). Maintenance: isoflurane 1–1.5% in oxygen. Physiological parameters monitored throughout.
+
+2.9. Surgical Procedures
+
+Full-thickness flaps raised bilaterally at 3rd/4th premolars; teeth hemisected and extracted; crown portion eliminated (only roots used for graft production, no enamel). Alveoli randomly filled with xenograft or tooth graft, covered with collagen membrane without fixation. Semi-submerged closure with interrupted 4-0 Vicryl sutures.
+
+2.10. Housing and Husbandry
+
+Daily veterinary monitoring; no clinical signs requiring additional analgesia. Softened commercial diet during healing. Postoperative analgesia: buprenorphine (0.01 mg/kg q8h IM); meloxicam (0.2 mg/kg IV pre-op, then 0.1 mg/kg PO daily x2 days). Antimicrobial prophylaxis: cefazolin (20 mg/kg IV) + cefovecin (8 mg/kg SC). Wound care: daily inspection week 1, then chlorhexidine 0.12% cleaning 3x/week. No adverse events.
+
+2.11. Euthanasia
+
+Three months post-surgery, animals were euthanized with IV sodium pentobarbital overdose (200 mg/kg).
+
+2.12. Histological Preparation
+
+Fixation in 10% buffered formaldehyde, dehydration, embedding in light-curing resin (Technovit 7200 VLC). Sectioning along buccolingual plane with precision band saw; ground/polished to ~50 µm; stained with Levai–Laczkó technique.
+
+2.13. Clinical Evaluation
+
+UNC probe measured buccolingual socket width and buccal/lingual bone crest vertical levels relative to socket floor. Buccal bone thickness measured 1 mm apical to crest with Iwanson caliper.
+
+2.14. Histological and Morphometric Analysis
+
+Eclipse microscope (Nikon) with NIS-Elements D 5.11.00 software. Reference angle of 9° from vertical plane of mandibular base adopted to reproduce natural mandible inclination.
+
+2.15. Data Analysis
+
+Animal was the primary experimental unit; the vertical discrepancy between lingual and buccal bone peaks (L–B) was averaged at the dog level per treatment. Shapiro–Wilk normality test; paired t-test or Wilcoxon matched-pairs signed-rank test as appropriate. Significance α = 0.05. Primary outcomes: L–B discrepancy and total bone percentage within ROI. GraphPad Prism v10.6.1 used for analysis.
+
+3. Results
+
+3.1. Clinical Evaluations
+
+No anesthesia-related adverse events or surgical complications (excessive bleeding, wound dehiscence, membrane exposure, infection, local inflammation) were observed. Of 24 extraction sockets, 23 were available for analysis (one excluded due to buccal bone fracture after extraction). Final: 12 sockets with tooth root graft, 11 with collagenated xenograft.
+
+Baseline dimensions were comparable between groups. Buccal depths: 8.2 ± 0.8 mm (tooth root graft) vs 8.3 ± 0.7 mm (xenograft). Lingual depths: 8.5 ± 0.6 mm vs 8.7 ± 0.8 mm. Bucco-lingual/mesio-distal diameters no different. Buccal bone wall consistently thin (~0.7–0.8 mm) in both groups — baseline equivalence confirmed.
+
+3.2. Histological Qualitative Evaluation
+
+After 3 months, both groups showed newly formed bone within alveolar sockets. No inflammatory infiltrates or multinucleated giant cells detected in either group.
+
+Xenograft sites: internal portion of alveoli in some specimens largely occupied by residual graft granules; others showed larger regions of new bone intermingled with residual granules. Newly formed bone showed irregular trabeculae in close contact with granule surfaces. In the coronal region, numerous xenograft granules remained embedded in fibrous connective tissue, often interfering with complete closure of the alveolar entrance.
+
+Tooth root graft sites: alveoli predominantly filled with newly formed bone, several areas showing advanced maturation and early corticalization, especially coronally. Intertrabecular spaces in the coronal portion sometimes filled with immature fibrovascular tissue, distinct from overlying mucosal connective tissue. In most specimens, the coronal entrance appeared completely sealed by mature, corticalized bone. Only one residual granule resembling dentin remnants was observed, surrounded by newly formed bone.
+
+3.3. Histological Quantitative Evaluation
+
+Clinical discrepancy between lingual and buccal crest depths was negligible (0.1 mm) — no correction factors applied to histological measurements.
+
+After 3 months: lingual crest height (L–X) identical in both groups (14.8 ± 1.8 mm). Buccal crest (B–X): small but statistically significant difference — 11.8 ± 1.7 mm (tooth root graft) vs 12.3 ± 1.8 mm (xenograft), p = 0.031. Vertical discrepancy L–B: 3.0 ± 1.2 mm (tooth root graft) vs 2.5 ± 0.5 mm (xenograft) — not statistically significant.
+
+Histomorphometry: Tooth-grafted sites — 34.1 ± 13.0% immature bone, 31.5 ± 16.1% mature bone, total bone 65.6 ± 9.1%; residual graft material almost absent (0.5 ± 1.1%); soft tissue 33.9 ± 9.4%. Xenograft sites — total bone 57.8 ± 17.2% (32.1 ± 11.7% immature + 25.7 ± 6.7% mature); substantial graft remnants (19.7 ± 16.0%). Difference in residual biomaterial between groups statistically significant (p = 0.032).
+
+Most peripheral bone extension beyond the L–B line greater in xenograft group (0.52 ± 0.23 mm) vs tooth graft group (0.20 ± 0.12 mm; p < 0.0001).
+
+Coronal region: tooth root graft group had higher proportion of total bone (59.8 ± 14.8%) vs xenograft group (42.3 ± 16.2%), not statistically significant (p = 0.239). Mature/immature bone proportions not significantly different (p = 0.317, p = 0.269). No graft material observed in tooth root graft group coronally; xenograft sites showed measurable residual graft coronally (20.3 ± 16.5%), statistically significant (p = 0.044). Soft tissue proportion not significantly different (p = 0.562).
+
+4. Discussion
+
+4.1. Overview of Main Findings
+
+Healing proceeded uneventfully in all animals; the two grafting materials produced distinct patterns of ridge remodeling. Baseline dimensions were comparable between groups, confirming that differences at 3 months reflect biological behavior of materials rather than anatomical variation. Lingual crest height was identical between groups at endpoint, suggesting lingual aspect stability regardless of graft material. Main changes occurred at the buccal aspect, with xenograft group showing a slightly higher crest than tooth root graft group. A tendency toward slightly greater vertical L–B discrepancy was observed in the tooth root graft group (not statistically significant), suggesting two distinct healing modes: bone-formation-driven (tooth root graft) vs partly supported by persistent residual biomaterial (xenograft).
+
+4.2. Histological and Biological Interpretation
+
+Tooth-derived particle sites showed a high bone proportion (~two-thirds of tissue) combined with near-complete absence of residual graft. Xenograft sites showed slightly lower total bone and substantial graft remnants (~one-fifth of tissue volume) — consistent with human clinical studies showing tooth-derived materials associated with limited residual graft and high vital bone percentages. Higher total bone in tooth root graft group was largely attributable to greater mature bone proportion (partly pre-existing lingual cortical bone included in ROI in both groups equally) — consistent with a trend toward faster maturation in tooth-graft sites, though none of the mature/woven/total bone differences reached statistical significance. Near-complete replacement of tooth root graft by vital bone may relate to dentin's intrinsic composition (type I collagen, non-collagenous proteins, growth factors preserved by demineralization), supporting early osteoblastic activity and faster graft turnover. Xenografts provide an osteoconductive scaffold with slower resorption kinetics — persistence contributes to ridge preservation but yields hybrid tissue containing both new bone and biomaterial particles, corresponding to slightly better vertical buccal maintenance.
+
+4.3. Vital Bone Regeneration vs. Hybrid Bone Regeneration
+
+Tooth root grafting yielded regenerated sites composed almost entirely of vital bone with virtually no residual biomaterial; xenografts yielded a more stable buccal profile but substantial long-lasting particles, forming a hybrid-type bone. Clinical relevance remains to be clarified, but composition of the regenerated site may influence later remodeling and implant osseointegration — several observed differences were qualitative and not statistically significant. The use of slowly resorbing biomaterials has been associated with impaired implant osseointegration when placed six months after sinus floor elevation elsewhere in the literature; residual xenograft particles/degradation products in contact with implant surfaces limited new bone formation progression in those contexts. Sound new bone may be biologically favorable vs. hybrid bone with residual non-resorbed biomaterial, though this interpretation is speculative and not directly assessed in the present study.
+
+4.4. Coronal Maturation and Corticalization
+
+Tooth-derived material sites showed higher coronal bone proportion vs xenograft-treated sites, but not statistically significant (p = 0.239) with considerable intra-group variability — interpret as trend, not definitive effect. Persistence of non-resorbed graft particles in the most coronal portion (where implant placement is typically planned) may potentially hinder osseointegration, though implants were not placed in this study. Xenografts tended to preserve buccal contour slightly better than tooth root grafts — volume stability and biological quality do not necessarily coincide, raising the possibility of combining advantages (e.g., adjunctive cortical lamina on the buccal surface).
+
+4.5. Emerging Strategies for Alveolar Ridge Preservation
+
+Alternative strategies for ridge maintenance and vital-bone formation post-extraction include temporary separation of periosteum from underlying buccal bone (interposition of thin barriers — high-density PTFE membranes or cortical laminae — between buccal bone plate and elevated flap) to mechanically shield buccal bone during early healing.
+
+4.6. Biological Safety and Biocompatibility of the Tooth Root Graft
+
+Graft was prepared from the animals' own extracted teeth (crowns/enamel removed); initial manipulation was non-sterile, with sterility re-established once particulate entered the processing device (fully controlled decontamination environment). Despite non-sterile preliminary steps, tooth-graft sites healed uneventfully with no inflammatory infiltrates — confirms biocompatibility of the autogenous tooth root matrix and effectiveness of the device's decontamination protocol, consistent with results from human studies. Coherence between clinical measurements and histological findings, despite the study being exploratory, supports observation validity.
+
+4.7. Methodological and Biological Strengths
+
+Within-animal design minimizes biological variability, allowing reliable comparison under identical healing conditions. Histological composition analysis provides comprehensive view of the regenerative process — differences in ridge preservation and in biological quality of newly formed tissues. Tooth root graft group: regenerated tissue largely vital bone with clear coronal corticalization. Xenograft group: hybrid bone with numerous graft remnants. Use of tooth-derived graft from the animals' own extracted teeth is another strength; device processing cycle re-established sterility despite non-sterile preliminary handling.
+
+4.8. Study Limitations
+
+Limited number of animals (ethical constraint) reduces power to detect subtle differences. Single healing interval (3 months) reflects early-to-intermediate healing only, not long-term remodeling. Histological analysis based on a single section per site — does not capture 3D complexity. No ungrafted control sockets (precludes comparison with spontaneous healing; additional groups would have reduced within-animal comparison power or required more animals). Inflammatory assessment limited to conventional histology (no immunohistochemistry for low-grade/focal infiltrates). No direct physicochemical characterization of the processed tooth graft was performed (previously reported for demineralized dentin matrices elsewhere, but absent here). Dog model extrapolation to humans should be cautious — findings are hypothesis-generating, not directly transferable to clinical protocols. Future work: longer follow-up, 3D volumetric analyses (micro-CT), implant-based validation models.
+
+5. Conclusions
+
+Within the limits of this animal study, tooth root–derived grafts resulted in regenerated tissues largely composed of vital bone with minimal residual graft material, whereas xenografts were associated with a higher proportion of persistent particles while providing slightly better buccal contour preservation. Both grafting approaches supported uneventful healing; regenerated tissues differed mainly in composition rather than in quantitatively proven bone outcomes, reflecting distinct biological remodeling patterns. These differences were largely qualitative and should be interpreted with caution given the limited sample size and absence of implant placement. Further investigations incorporating region-specific analyses, 3D volumetric assessments, and implant-based validation are required.

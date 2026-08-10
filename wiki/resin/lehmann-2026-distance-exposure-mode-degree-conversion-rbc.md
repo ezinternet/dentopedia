@@ -6,7 +6,7 @@ date: 2026-01-01
 doi: 10.3390/ma19071390
 source: lehmann-2026-distance-exposure-mode-degree-conversion-rbc.md
 category: [resin]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: true
 pmid: "41976674"

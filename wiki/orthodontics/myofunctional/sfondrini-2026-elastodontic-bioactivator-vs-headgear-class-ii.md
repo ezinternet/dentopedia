@@ -6,7 +6,7 @@ date: 2026-01-19
 doi: 10.3390/jcm15020804
 source: sfondrini-2026-elastodontic-bioactivator-vs-headgear-class-ii.md
 category: [orthodontics/myofunctional]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 full_text: true
 pmid: "41598741"

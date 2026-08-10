@@ -6,7 +6,7 @@ date: 2026-01-01
 doi: 10.1002/cre2.70265
 source: tabone-2026-clear-aligner-oral-microbiome-sr.md
 category: [orthodontics/clear-aligner]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "41849703"

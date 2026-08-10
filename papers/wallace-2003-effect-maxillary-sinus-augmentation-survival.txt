@@ -1,0 +1,47 @@
+Title: Effect of maxillary sinus augmentation on the survival of endosseous dental implants. A systematic review.
+
+Authors: Stephen S. Wallace, Stuart J. Froum
+
+Journal: Annals of Periodontology. 2003 Dec;8(1):328-343.
+
+DOI: 10.1902/annals.2003.8.1.328
+PMID: 14971260
+PMC: not available (no open-access full text; pre-PMC-mandate era journal)
+Source: PubMed (structured abstract retrieved via PubMed MCP get_article_metadata; get_full_text_article returned no PMC record — full text not retrievable, abstract-only ingest)
+
+--- ABSTRACT (structured, as indexed in PubMed) ---
+
+Background: Grafting the floor of the maxillary sinus has become the most common surgical intervention for increasing alveolar bone height prior to the placement of endosseous dental implants in the posterior maxilla. Outcomes of this procedure may be affected by specific surgical techniques, simultaneous versus delayed implant placement, use of barrier membranes over the lateral window, selection of graft material, and the surface characteristics and the length and width of the implants.
+
+Objective: The primary objective of this systematic review was to determine the efficacy of the sinus augmentation procedure and compare the results achieved with various surgical techniques, grafting materials, and implants.
+
+Focused question: In patients requiring dental implant placement, what is the effect on implant survival of maxillary sinus augmentation versus implant placement in the non-grafted posterior maxilla?
+
+Search strategy: MEDLINE, the Cochrane Oral Health Group Specialized Trials Register, and the Database of Abstracts and Reviews of Effectiveness were searched for articles published through April 2003. Hand searches were performed on Clinical Oral Implants Research, International Journal of Oral and Maxillofacial Implants, and the International Journal of Periodontics & Restorative Dentistry, and the bibliographies of all relevant papers and review articles. Researchers, journal editors, and industry sources were contacted for pertinent unpublished data accepted for publication.
+
+Selection criteria: Human studies with a minimum of 20 interventions, a minimum follow-up period of 1-year loading, an outcome measurement of implant survival, and published in English, regardless of evidence level, were considered. Studies involving multiple simultaneous interventions (e.g., simultaneous ridge augmentation) and studies with missing data that could not be supplied by the authors were excluded.
+
+Data analysis: Where adequate data were available, subgroups of dissimilar interventions (e.g., surgical techniques, graft materials, implant surfaces, membranes) were isolated and subjected to meta-regression, a form of meta-analysis.
+
+Results:
+1. Forty-three studies were identified: 3 randomized controlled clinical trials (RCTs), 5 controlled trials (CTs), 12 case series (CS), and 23 retrospective analyses (RA). Thirty-four were lateral window interventions, 5 were osteotome interventions, 2 were localized management of the sinus floor, and 2 involved the crestal core technique.
+2. Meta-regression was performed to determine the effect of the variables of block versus particulate grafting techniques, implant surface, graft material, and the use of a membrane over the lateral window.
+3. The survival rate of implants placed in sinuses augmented with the lateral window technique varied between 61.7% and 100%, with an average survival rate of 91.8%.
+4. Implant survival rates reported in this systematic review compare favorably to reported survival rates for implants placed in the non-grafted posterior maxilla.
+5. Rough-surfaced implants have a higher survival rate than machine-surfaced implants when placed in grafted sinuses.
+6. Implants placed in sinuses augmented with particulate grafts show a higher survival rate than those placed in sinuses augmented with block grafts.
+7. Implant survival rates were higher when a membrane was placed over the lateral window.
+8. The utilization of grafts consisting of 100% autogenous bone, or the inclusion of autogenous bone as a component of a composite graft, did not affect implant survival.
+9. There was no statistical difference between the covariates of simultaneous versus delayed implant placement, types of rough-surfaced implants, length of follow-up, year of publication, and the evidence level of the study.
+
+Limitations noted by authors: Insufficient data were present to statistically evaluate the effects of smoking, residual crestal bone height, screw versus press-fit implant design, or the effect of implant surface micromorphology other than machined versus rough surfaces. There are insufficient data to recommend the use of platelet-rich plasma in sinus graft surgery.
+
+MeSH terms: Bone Transplantation; Consensus; Dental Implantation, Endosseous; Dental Implants; Dental Prosthesis Retention; Dental Restoration Failure; Humans; Maxilla; Maxillary Sinus; Oral Surgical Procedures, Preprosthetic.
+
+Article types: Journal Article; Meta-Analysis; Systematic Review.
+
+Citation: Ann Periodontol. 2003 Dec;8(1):328-43.
+
+--- END ABSTRACT ---
+
+Note: This is an abstract-only ingest. No PMC full text exists for this article (checked via PubMed MCP get_full_text_article / get_copyright_status — not open access, source: not_available). Full-text tables, complete meta-regression statistics, and per-study data are not available beyond what is reported in this structured abstract.

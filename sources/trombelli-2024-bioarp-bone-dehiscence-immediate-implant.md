@@ -45,7 +45,7 @@ Reported successful dehiscence resolution and acceptable peri-implant bone outco
 Case-level evidence; no comparator; operator-dependent.
 
 ## 6. Related Work
-- [[immediate-implant/grenzi-2026-spal-peri-implant-bone-dehiscence-iip]]
+- [[immediate-implant/gap-grafting/grenzi-2026-spal-peri-implant-bone-dehiscence-iip]]
 - [[immediate-implant/esthetic-soft-tissue/qian-2023-iip-buccal-bone-dehiscence-anterior-maxilla]]
 
 ## 7. Glossary

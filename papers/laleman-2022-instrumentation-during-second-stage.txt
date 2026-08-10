@@ -1,0 +1,16 @@
+TITLE: Instrumentation during the second stage of periodontal therapy: a European survey.
+AUTHORS: Laleman I, et al.
+YEAR: 2022
+DOI: 10.1007/s00784-022-04442-9
+PMID: 35306609
+PMCID: N/A
+============================================================
+To gather practice-based information about instrumentation during the second stage of periodontal therapy among the members of the European Federation of Periodontology.
+
+This survey was conducted to investigate periodontal instrumentation (e.g., frequency, instruments, their maintenance) during the second stage of periodontal therapy.
+
+Questionnaires from 2008 responders actively involved in periodontal therapy (general dental practitioners, periodontists, and dental hygienists) were analyzed. The frequency of use of hand and mechanical instruments was similar during the second stage of periodontal therapy and 94.4% of the participants combined both. The most popular hand instruments were Gracey curettes, and the preferred mechanical devices were ultrasonic scalers. For the latter, mostly the combination of standard and micro/slim inserts was preferred (42.4%) over solely standard inserts (32.1%) or micro/slim inserts (25.5%). The wear of hand instruments was sytematically checked by 46.1% of the respondents and the wear of the inserts by 41.3%. The more experienced the dental professional, the more frequent the wear of the instruments and inserts was checked.
+
+The most popular periodontal instrumentation technique in clinical practice during the second stage of periodontal therapy is a combination of hand and mechanical instruments.
+
+Clinicians should check the wear of their instruments systematically to have the most performant instruments possible for periodontal instrumentation.

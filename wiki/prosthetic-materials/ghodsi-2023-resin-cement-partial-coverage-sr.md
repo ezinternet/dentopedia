@@ -6,7 +6,7 @@ date: 2023-06-17
 doi: 10.1002/cre2.761
 source: ghodsi-2023-resin-cement-partial-coverage-sr.md
 category: [prosthetic-materials]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/ghodsi-2023-resin-cement-partial-coverage-sr.pdf
 pdf_filename: ghodsi-2023-resin-cement-partial-coverage-sr.pdf
 source_collection: external
@@ -67,4 +67,4 @@ Narrative SR of 68 articles (1991–2023) providing resin cement selection crite
 - [[prosthetic-materials/habibzadeh-2024-full-ceramic-rbfdp-sr]] — adhesive resin cement use in full-ceramic RBFDPs
 - [[prosthetic-materials/manziuc-2023-zls-ceramic-digital-dentistry-review]] — ZLS ceramic cementation procedures
 - [[dental-materials/zirconia/kwon-2026-self-adhesive-resin-cement-zirconia]] — self-adhesive resin cement to zirconia
-- [[prosthetic-materials/khurshid-2025-screw-vs-cement-crown-complications]] — screw vs cement crown decisions
+- [[prosthetic-materials/abutment-screw/khurshid-2025-screw-vs-cement-crown-complications]] — screw vs cement crown decisions

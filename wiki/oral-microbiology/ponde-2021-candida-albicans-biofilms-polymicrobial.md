@@ -6,7 +6,7 @@ date: 2021-01-01
 doi: "10.1080/1040841X.2020.1843400"
 source: ponde-2021-candida-albicans-biofilms-polymicrobial.md
 category: [oral-microbiology]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/ponde-2021-candida-albicans-biofilms-polymicrobial.pdf
 pdf_filename: ponde-2021-candida-albicans-biofilms-polymicrobial.pdf
 source_collection: external

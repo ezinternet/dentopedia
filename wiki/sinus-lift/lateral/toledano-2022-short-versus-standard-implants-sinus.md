@@ -5,7 +5,7 @@ year: 2022
 date: 2022-01-01
 doi: 10.1007/s00784-022-04628-1
 source: toledano-2022-short-versus-standard-implants-sinus.md
-confidence: sr+ma
+evidence_level: sr+ma
 category: [sinus-lift/lateral]
 pdf_path: /Users/oracleneo/llm-wiki/papers/toledano-2022-short-versus-standard-implants-sinus.pdf
 pdf_filename: toledano-2022-short-versus-standard-implants-sinus.pdf
@@ -54,6 +54,6 @@ Meta-analysis of 14 RCTs comparing short implants (≤6 mm, no sinus lift) vs. s
 - Reduced surgical complexity, patient morbidity, and treatment cost
 
 ## Related Papers
-- [[implants/saenz-ravello-2023-short-implants-compared-to-regular]] — mandible counterpart; same theme
-- [[implants/yu-2021-extra-short-vs-longer-implants-ma]] — broader meta-analysis (both jaws, ≤6 mm vs. ≥8 mm)
-- [[implants/di-stefano-2021-stability-dental-implants-cortical-bone]] — cortical bone and stability context
+- [[implants/short-narrow/saenz-ravello-2023-short-implants-compared-to-regular]] — mandible counterpart; same theme
+- [[implants/short-narrow/yu-2021-extra-short-vs-longer-implants-ma]] — broader meta-analysis (both jaws, ≤6 mm vs. ≥8 mm)
+- [[implants/isq/di-stefano-2021-stability-dental-implants-cortical-bone]] — cortical bone and stability context

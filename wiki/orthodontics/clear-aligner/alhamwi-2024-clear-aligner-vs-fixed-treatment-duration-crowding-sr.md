@@ -6,7 +6,7 @@ date: 2024-04-12
 doi: 10.1007/s00784-024-05629-y
 source: alhamwi-2024-clear-aligner-vs-fixed-treatment-duration-crowding-sr.md
 category: [orthodontics/clear-aligner]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: false
 pmid: "38607436"

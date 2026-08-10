@@ -6,7 +6,7 @@ date: 2024-05-27
 doi: 10.1007/s00784-024-05732-0
 source: wang-2024-association-between-halitosis-and.md
 category: [halitosis]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/wang-2024-association-between-halitosis-and.pdf
 pdf_filename: wang-2024-association-between-halitosis-and.pdf
 source_collection: external

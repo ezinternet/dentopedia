@@ -6,7 +6,7 @@ date: 2024-11-01
 doi: "10.1186/s12903-024-05106-8"
 source: cotert-2024-desensitizing-agents-zirconia-bond-strength.md
 category: [resin-bonding]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/cotert-2024-desensitizing-agents-zirconia-bond-strength.pdf
 pdf_filename: cotert-2024-desensitizing-agents-zirconia-bond-strength.pdf
 source_collection: external

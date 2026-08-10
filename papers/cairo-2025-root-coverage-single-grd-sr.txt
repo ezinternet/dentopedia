@@ -1,0 +1,27 @@
+ABSTRACT ONLY — full text not available via PMC.
+
+Title: Clinician- and patient-reported outcomes following the surgical treatment of single gingival recession defects: A systematic review.
+Authors: Cairo F, Couso-Queiruga E, Barbato L, Rupe C, Stuhr S, Chambrone L, Avila-Ortiz G.
+Journal: Periodontology 2000. 2025.
+DOI: 10.1111/prd.12641
+PMID: 40693671
+PROSPERO: CRD517050
+
+OBJECTIVE: To analyze the effect of root coverage surgical therapy for the treatment of single gingival recession defects (GRD) in terms of clinician- and patient-reported outcomes (CROs and PROs), with emphasis on esthetic perception.
+
+METHODS: PRISMA 2020-compliant systematic review. RCTs reporting outcomes of root coverage for single GRDs. Primary outcomes: root coverage esthetic scores (RES) and patient-reported esthetic perception/satisfaction (VAS). Data extracted and categorized; risk of bias assessed.
+
+RESULTS:
+- 58 articles from 50 different RCTs selected
+- 1820 subjects with 2219 single GRDs treated
+
+Key findings:
+- Root coverage and gingival phenotype modification therapy positively influenced both RES and patient-reported esthetic values
+- CAF + sCTG (bilaminar) > CAF alone (monolaminar) for both RES and VAS values
+- CAF + soft tissue substitutes: beneficial effect on VAS only (not RES)
+- Lateral flap displacement > coronal flap displacement for RES values
+- Meta-regression: statistically significant positive association between mean root coverage percentage and RES (greater %RC → higher RES)
+- Association between patient-reported esthetic perception and MRC was NOT statistically significant
+- Dentinal hypersensitivity substantially reduced with surgical root coverage regardless of modality
+
+CONCLUSIONS: Surgical therapy for single GRDs had a positive effect on both clinician-reported esthetic scores and patient-reported esthetic perception and satisfaction. Bilaminar techniques (CAF+sCTG) are generally associated with superior results.

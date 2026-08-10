@@ -6,7 +6,7 @@ date: 2021-09-01
 doi: 10.1055/s-0041-1735903
 source: de-moraes-melo-neto-2021-centric-relation-condylar-reproducibility-sr.md
 category: [complete-denture]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "34921385"

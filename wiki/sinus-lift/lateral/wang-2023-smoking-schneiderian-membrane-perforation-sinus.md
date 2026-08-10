@@ -6,7 +6,7 @@ date: 2022-10-14
 doi: 10.1111/cid.13146
 source: wang-2023-smoking-schneiderian-membrane-perforation-sinus.md
 category: [sinus-lift/lateral]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/wang-2023-smoking-schneiderian-membrane-perforation-sinus.pdf
 pdf_filename: wang-2023-smoking-schneiderian-membrane-perforation-sinus.pdf
 source_collection: external
@@ -14,7 +14,7 @@ tags: [smoking, schneiderian-membrane, perforation, sinus-lift, risk-factor, odd
 relations:
   - type: extends
     target: diaz-olivares-2021-schneiderian-membrane-perforation-sinus-lift
-  - type: reinforces
+  - type: extends
     target: sinus-lift-lateral-2026-synthesis
 ---
 

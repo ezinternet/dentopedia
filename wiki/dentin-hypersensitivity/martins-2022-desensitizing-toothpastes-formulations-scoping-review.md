@@ -6,7 +6,7 @@ date: 2022-01-01
 doi: "10.1590/1678-7757-2021-0410"
 source: martins-2022-desensitizing-toothpastes-formulations-scoping-review.md
 category: [dentin-hypersensitivity]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/martins-2022-desensitizing-toothpastes-formulations-scoping-review.pdf
 pdf_filename: martins-2022-desensitizing-toothpastes-formulations-scoping-review.pdf
 source_collection: external

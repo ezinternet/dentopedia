@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.3205/dgkh000592
 source: shunmugavelu-2025-intracanal-medications-periapical-abscess-sr.md
 category: [endodontics/irrigation]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/shunmugavelu-2025-intracanal-medications-periapical-abscess-sr.pdf
 pdf_filename: shunmugavelu-2025-intracanal-medications-periapical-abscess-sr.pdf
 source_collection: external

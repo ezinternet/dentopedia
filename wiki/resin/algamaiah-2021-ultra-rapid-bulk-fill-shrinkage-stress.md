@@ -6,7 +6,7 @@ date: 2021-03-06
 doi: "10.1016/j.dental.2021.02.012"
 source: algamaiah-2021-ultra-rapid-bulk-fill-shrinkage-stress.md
 category: [resin]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: false
 pmid: "33685651"

@@ -6,7 +6,7 @@ date: 2024-06-07
 doi: 10.1016/j.jdsr.2024.05.004
 source: li-2024-zirconia-surface-treatments-monomers-nma.md
 category: [resin-bonding]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "38938474"

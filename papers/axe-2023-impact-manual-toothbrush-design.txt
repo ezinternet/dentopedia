@@ -1,0 +1,80 @@
+Impact of manual toothbrush design on plaque removal efficacy
+
+Authors: Axe A, Mueller WD, Rafferty H, Lang T, Gaengler P.
+Journal: BMC Oral Health. 2023;23(1):796
+DOI: 10.1186/s12903-023-03518-6
+PMID: 37880662
+PMCID: PMC10601269
+Source: PubMed Central full text (get_full_text_article), retrieved via PubMed MCP.
+
+Abstract
+
+Background: Effective dental plaque removal is essential for oral health. Different toothbrush parameters including head-size, filament-diameter and interdent-height and different brushing movements like horizontal, rotating and vertical may affect plaque removal efficacy. The purpose of the study was to examine plaque removal efficacy of different design parameters of manual toothbrushes.
+
+Methods: Eight manual toothbrushes were tested using a validated robot test to examine efficacy of toothbrush on replicated human teeth. Characteristics tested were: (i) head-size, (ii) filament-diameter, (iii) cutting-height, (iv) hardness, (v) interdental-height. Each test ran five times in horizontal, rotating, vertical movements. Simulated Plaque removal was evaluated using automated plaque planimetry: 30 fields/tooth, 13 areas representing buccal, lingual, proximal tooth sites. The Kolmogorov-Smirnov-test was applied to test tooth surface variables for normal distribution of plaque removal values. Parameters were analysed by independent two-sample t-test to assess mean differences. Where null hypothesis of normality was rejected, the Wilcoxon-Mann-Whitney-U-test was used.
+
+Results: Plaque removal was significantly better with toothbrush having smaller head-size (compact vs. full-size); smaller filament-diameter (0.12 mm vs. 0.15 mm); larger cutting-height (12 mm vs. 9 mm); softer filaments (0.15 or 0.18 mm vs. 0.23 mm) and greater interdent-height difference (8.5/11 mm vs. 10/11 mm).
+
+Conclusions: Manual brushes allowing filaments free to flex with longer, softer and/or having a difference in filament length overall removed significantly more simulated plaque as compared to more standard flat trim, stiff brushes with shorter, harder bristles and a larger head size. While limited by the in vitro nature of the study design, this indicates that the advances in toothbrush design can further enhance plaque removal.
+
+Full Text
+
+Background
+
+Dental plaque is one of the etiologic or predisposing factors for development of dental caries and plaque-associated periodontal diseases. Mechanical removal of plaque through toothbrushing is considered to be generally recommended to avoid plaque-associated diseases or tooth decay.
+
+Effective plaque removal depends on various factors like adequate brushing time, brushing technique, force of brushing, etc. that varies from individual to individual. Toothbrush innovations try to compensate for inadequate brushing time and technique by creating toothbrushes with an increased plaque removal design compared to the conventional flat trimmed toothbrushes created in the early 20th century. These advancements have given rise to brushes with differing parameters including different bristle amounts, arrangements, lengths and diameter, varying head designs and lengths.
+
+Numerous studies have been conducted to determine the plaque removal efficacy of manual toothbrush parameters. Both clinical and in vitro testing have yielded results indicating that differing bristle configuration, such as criss-cross and angled bristles, impacts plaque removal. A clinical study showed that a toothbrush with softer, tapered, cross-angled bristles was more efficacious at plaque removal compared to a toothbrush with standard (medium) bristles. In other studies, criss-cross bristle configurations have proved advantageous compared to standard straight bristles, showing effective plaque removal from the smooth surfaces of teeth as well as gingival margin and interproximal surfaces. Furthermore, a meta review of clinical data showed that angled bristles are more efficacious than standard flat trimmed brushes. In contrast, a systematic review found little to no difference between tapered or end-rounded filaments concerning to plaque removal efficacy.
+
+While clinical testing yields valuable results when measuring plaque removal by toothbrushes, laboratory testing of toothbrush efficacy for simulated plaque removal using a calibrated and clinically validated robot simulation model allows results to be reproducible through standardisation of brushing movement, force and time.
+
+In this current study, a validated robot simulation model was used to assess the simulated plaque removal efficacy of different toothbrush designs using three different brushing movements: vertical, horizontal and rotating movements. The design parameters tested included variations in head-size, cutting-height, hardness, filament diameter and interdental-height difference.
+
+Methods
+
+This study was carried out at a Germany-based research facility. The 6-axis Robot FS002N (Kawasaki Robotics, Akashi, Hyogo, Japan) was programmed to repeat the most commonly observed brushing movements of uninstructed individuals: horizontal (amplitude 5 mm), vertical (10 mm) and rotating (diameter 10 mm) individually in series, with five runs for each movement at a brushing force of 3.5 N. This allowed the robot to undertake a clinically validated in vitro test to assess the effects of bristle configuration on KaVo artificial plastic teeth. These are replicated from natural human dentition and included four incisors, one canine, two premolars and three molars placed in anatomical positions within a mounting plate to represent mandibular human dentition. The teeth were covered in simulated plaque, designed to mimic the adherent properties of natural plaque, consisting of a specialized red, inorganic formula to help assess plaque removal.
+
+Simulated plaque removal was calculated at 30 planimetrical fields by computer-assisted optical automatic plaque planimetry (APP). This works by rotating each test tooth in front of a high definition focusing analysis camera for computer assisted processing. Mean simulated plaque reduction was ascertained by measuring simulated plaque levels pre- and post-brushing at seven variables of tooth surfaces: all buccal tooth sites; all lingual tooth sites; buccal and, separately, lingual risk fields near the gum line and interproximally between the teeth (ABCDF fields); all mesial sites; all distal sites and total mean simulated plaque reduction at all 30 planimetrical fields. The 'W' fields, which usually sit below the gum line, were analysed and included in the 'all sites' assessments but are not presented separately.
+
+Eight Dr Best toothbrushes (Haleon, formerly GSK Consumer Healthcare, Brentford, UK) with end-rounded nylon filaments, differing properties were used. These toothbrushes were named: S1: R5 Compact Head; S2: R5 Full Head, Medium hard, 12 mm tuft height, 0.23 mm filament diameter; S3: R5 Full Head, Extra Soft, 0.12 mm filament diameter; S4: R5 Full Head, Soft, 0.15 mm filament diameter; S5: R5 Full Head, Medium hard, 9 mm tuft height; S6: R5 Full Head, Soft, 0.18 mm filament diameter; S7: G5 Interdental cut, tuft heights 10 and 11 mm; S8: G5 Interdental cut, tuft heights 8.5 and 11 mm.
+
+The following parameters were tested to assess cleaning simulated plaque removal efficacy of the differing configurations: Head-Size (S1 vs. S2); Filament-Diameter (S3 vs. S4); Tuft Cutting-Height (S5 vs. S2); Hardness (S2 vs. S4; S2 vs. S6; S4 vs. S6) and Interdental Tuft-Height Difference (S7 vs. S8).
+
+Statistical testing
+
+Statistical testing of the data was completed by the ORMED Institute using IBM SPSS Statistics Premium, release 24. The Kolmogorov-Smirnov-test (one sample test) was applied to test the 13 variables of tooth surfaces for normal distribution of simulated plaque removal values (alpha = 0.10). The null hypothesis of normality was rejected for 4 of 13 parameters/surfaces (buccal, lingual, buccal W and total); these were analysed by Wilcoxon-Mann-Whitney-U-test, the remaining 9 by independent two-sample t-test (with Levene's test for equality of variances). Significance level for all two-tailed tests: alpha = 0.05.
+
+Results
+
+Head size (S1 compact vs S2 full head): For horizontal movements, S1 showed greater simulated plaque removal than S2 in 4 of 7 fields (total area score 82.42% vs 77.89%, p<0.05). For vertical movements, S2 was better in 5 of 7 fields (total 75.86% vs 70.91%, p<0.05). For rotating movements, both brushes were statistically similar.
+
+Filament diameter (S3 extra soft 0.12mm vs S4 soft 0.15mm): S3 was significantly better in horizontal movement (6/7 fields; total 86.75% vs 75.66%, p<0.05) and rotational movement (total 79.98% vs 72.63%, p<0.05). Vertical movement showed similar results between brushes except distal field.
+
+Cutting height (S2 12mm vs S5 9mm): S2 (larger cutting height) was significantly better across all three movements — horizontal (total 68.11% vs 47.22%, p<0.01), rotating (total 62.33% vs 57.96%, p<0.05), vertical (total 67.94% vs 51.57%, p<0.05), though S5 showed advantages in isolated lingual/buccal fields for vertical movement.
+
+Hardness (S2 medium hard vs S4 soft vs S6 soft): S4 (soft) removed significantly more simulated plaque than S2 in horizontal (total 68.11% vs 75.66%) and rotating (total 62.33% vs 72.63%) movements; no difference in vertical movement. S6 (soft) was significantly better than S2 in rotating movement overall (total 62.33% vs 77.32%, p<0.05). Between the two soft brushes (S4 vs S6), results were mixed by tooth surface (S4 better buccal/lingual, S6 better mesial/distal), with S6 significantly better only in Total area for rotating movement.
+
+Interdental height difference (S7 10/11mm vs S8 8.5/11mm): For horizontal movement, S7 was better in total area (71.37% vs 68.81%, p<0.05) though S8 was better in some risk fields (ABCDF buccal/lingual). For rotating and vertical movements, S8 (larger interdental cut) was significantly better across all areas including total (rotational 81.29% vs 66.47%; vertical 73.65% vs 66.95%; p<0.01).
+
+No deformation of bristles was observed following testing.
+
+Discussion
+
+Mechanical plaque removal by regular tooth brushing facilitates the prevention of plaque-associated oral diseases and their sequelae. Laboratory testing of different toothbrush design parameters for their cleaning efficacy is essential for the development of new prototypes; however statistically significant in vitro differences should be interpreted cautiously regarding clinical implications, since real-world brushing mixes horizontal, vertical and circular scrubbing movements that vary between individuals.
+
+The simulated plaque removal was most efficient with rotating movements (as used in the modified Bass technique and reflected in oscillating-rotating power toothbrushes) across all design parameters tested. For rotating movements, the best-performing toothbrush characteristics were: compact head, smaller filament diameter (0.12mm vs 0.15mm), larger tuft height (12mm vs 9mm), soft bristles (0.15/0.18mm vs 0.23mm filament diameter), and a greater difference between tuft heights (8.5/11.0mm vs 10/11mm).
+
+The head-size results were inconclusive/movement-dependent: S2 (full head) was significantly more effective than S1 (compact) in vertical movements, but the reverse was true in horizontal movements, and they performed similarly in rotating movements — indicating brushing movement importance when instructing patients on technique. This also suggests the rotating modified Bass method may be generally recommended, but supplementary horizontal/vertical movements could help in patients with localized plaque accumulation, taking care regarding dental erosion risk from overly aggressive horizontal movements.
+
+The authors note this is (to their knowledge) the first English-literature study assessing all these design parameters together with different brushing movements in a single robot-based study using automated plaque planimetry.
+
+Limitations: This is an in vitro study using a robot to perform brushing movements — complementary in vivo studies (clinical plaque indices, planimetrical plaque indices, blinded photographic assessment) are needed to confirm how movement and toothbrush characteristics affect real-world plaque removal.
+
+Conclusion
+
+This robot-brushing in vitro study showed that overall, filaments that were longer, softer, and/or had a difference between filament length showed greater simulated plaque removal compared to short and hard filaments as found in a standard flat-trim, stiff toothbrush with a larger head. This study could provide further insights leading to improvements in toothbrush design and performance; further studies are needed to assess clinical differences between toothbrush parameters.
+
+Funding: Study sponsored by Haleon (formerly GSK Consumer Healthcare). Authors Axe, Mueller, Rafferty are Haleon employees (Dr Best brand manufacturer); Lang and Gaengler are affiliated with ORMED Institute, University of Witten/Herdecke, which performed the independent statistical analysis/testing.
+
+Retraction status: No retraction or erratum notice found in the retrieved metadata or full text; this is a standard peer-reviewed original research article.

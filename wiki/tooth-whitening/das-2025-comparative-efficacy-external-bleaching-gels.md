@@ -7,7 +7,7 @@ doi: 10.1007/s00784-025-06614-9
 pmid: "41171485"
 source: das-2025-comparative-efficacy-external-bleaching-gels.md
 category: [tooth-whitening]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 text_path: /Users/oracleneo/llm-wiki/papers/das-2025-comparative-efficacy-external-bleaching-gels.txt
 text_filename: das-2025-comparative-efficacy-external-bleaching-gels.txt

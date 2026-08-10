@@ -7,7 +7,7 @@ doi: 10.1111/eos.70007
 pmid: "39994703"
 source: al-shareef-2025-black-stain-bacterial-origin-review.md
 category: [caries]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: external
 full_text: false
 pdf_path: /Users/oracleneo/llm-wiki/papers/al-shareef-2025-black-stain-bacterial-origin-review.txt

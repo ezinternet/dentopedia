@@ -14,7 +14,7 @@ text_filename: liu-2025-water-flossing-adjunct-nspt-periodontitis-rct.txt
 
 ## Why Ingested
 
-First RCT we hold testing daily home-use **water flossing** as an adjunct to **non-surgical periodontal therapy (NSPT)** in *actual stage I-II periodontitis* patients (not the orthodontic-hygiene population), reporting a clinical benefit plus a 16S rRNA subgingival-microbiome angle — distinct from [[interdental-cleaning/yiamwattana-2025-oral-irrigator-vs-floss-orthodontic-sr-ma]], whose oral-irrigator-vs-floss comparison in orthodontic patients found no superiority over floss. It extends [[periodontics/smiley-2015-nonsurgical-periodontitis-srp-guideline]] by characterizing a home-care adjunct layered on top of SRP. (abstract-only — full text not retrieved; no PMC OA.)
+First RCT we hold testing daily home-use **water flossing** as an adjunct to **non-surgical periodontal therapy (NSPT)** in *actual stage I-II periodontitis* patients (not the orthodontic-hygiene population), reporting a clinical benefit plus a 16S rRNA subgingival-microbiome angle — distinct from [[interdental-cleaning/yiamwattana-2025-oral-irrigator-vs-floss-orthodontic-sr-ma]], whose oral-irrigator-vs-floss comparison in orthodontic patients found no superiority over floss. It extends [[periodontics/non-surgical-instrumentation/smiley-2015-nonsurgical-periodontitis-srp-guideline]] by characterizing a home-care adjunct layered on top of SRP. (abstract-only — full text not retrieved; no PMC OA.)
 
 ## Three-line Summary
 
@@ -79,7 +79,7 @@ adding an herb-containing mouthrinse further altered microbiota but gave no extr
 ## 6. Related Work
 
 - [[interdental-cleaning/yiamwattana-2025-oral-irrigator-vs-floss-orthodontic-sr-ma]] — oral irrigator vs floss in orthodontic patients (NS, abstract-only); contrast population/comparator.
-- [[periodontics/smiley-2015-nonsurgical-periodontitis-srp-guideline]] — SRP-based NSPT guideline that this home-care adjunct layers onto.
+- [[periodontics/non-surgical-instrumentation/smiley-2015-nonsurgical-periodontitis-srp-guideline]] — SRP-based NSPT guideline that this home-care adjunct layers onto.
 - [[interdental-cleaning/thomassen-2025-airfloss-essential-oils-vs-floss-rct]] — air-floss + essential oils vs floss RCT (equivalent), a related powered-interdental device comparison.
 
 ## 7. Glossary

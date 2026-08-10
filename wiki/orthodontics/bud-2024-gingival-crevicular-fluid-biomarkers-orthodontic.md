@@ -6,7 +6,7 @@ date: 2024-12-04
 doi: 10.3390/medicina60122004
 source: bud-2024-gingival-crevicular-fluid-biomarkers-orthodontic.md
 category: [orthodontics]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: true
 pmid: "39768884"
@@ -80,4 +80,4 @@ Narrative (non-systematic) review; no meta-analysis or pooled effect sizes. Elec
 - [[orthodontics/krishnan-2006-cellular-molecular-tissue-orthodontic-force]] — cellular/molecular tissue response to orthodontic force
 - [[orthodontics/nanda-2012-orthodontic-force-biological-response-review]] — biological response to orthodontic force
 - [[orthodontics/li-2021-periodontium-orthodontic-tooth-movement-biomechanics]] — periodontal biomechanics of OTM
-- [[periodontics/donertas-2026-gbt-subgingival-debridement-gcf-biomarkers]] — GCF biomarkers as a periodontal-monitoring fluid (shared methodology)
+- [[periodontics/non-surgical-instrumentation/donertas-2026-gbt-subgingival-debridement-gcf-biomarkers]] — GCF biomarkers as a periodontal-monitoring fluid (shared methodology)

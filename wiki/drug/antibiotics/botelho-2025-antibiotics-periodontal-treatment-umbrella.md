@@ -6,7 +6,7 @@ date: 2025-06-19
 doi: 10.3389/fcimb.2025.1601464
 source: botelho-2025-antibiotics-periodontal-treatment-umbrella.md
 category: [drug/antibiotics]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "40535546"
@@ -107,9 +107,9 @@ Rosenberg's Fail-Safe Number (FSN) analysis of 215 meta-analyses showed that for
 
 ## Related Papers
 
-- [[drug/sandulescu-2024-antibiotic-prescribing-dental-best-practices-review]] — best-practice review on antibiotic prescribing in dentistry; this umbrella review provides the highest-level evidence base for those recommendations
-- [[drug/bazsefidpay-2023-antibiotic-restrictive-use-adherence-recommendation]] — antibiotic restrictive use and adherence to recommendations; stewardship framing reinforced by this umbrella review
-- [[drug/thompson-2023-dental-antibiotic-stewardship-core-outcome-set]] — core outcome set for dental antibiotic stewardship; this review's outcome critique aligns
-- [[drug/mendez-millan-2024-antibiotic-overprescription-apical-periodontitis-sr-ma]] — antibiotic overprescription in endodontics; parallel stewardship argument in a different indication
-- [[drug/de-angelis-2025-antibiotic-third-molar-extraction-prevention-sr]] — antibiotic prophylaxis in third molar extraction; another dental antibiotic indication under scrutiny
-- [[drug/etikala-2019-nsaids-periodontal-implant-therapy-review]] — NSAIDs in periodontal therapy; complementary non-antibiotic adjunct perspective
+- [[drug/antibiotics/sandulescu-2024-antibiotic-prescribing-dental-best-practices-review]] — best-practice review on antibiotic prescribing in dentistry; this umbrella review provides the highest-level evidence base for those recommendations
+- [[drug/antibiotics/bazsefidpay-2023-antibiotic-restrictive-use-adherence-recommendation]] — antibiotic restrictive use and adherence to recommendations; stewardship framing reinforced by this umbrella review
+- [[drug/antibiotics/thompson-2023-dental-antibiotic-stewardship-core-outcome-set]] — core outcome set for dental antibiotic stewardship; this review's outcome critique aligns
+- [[drug/antibiotics/mendez-millan-2024-antibiotic-overprescription-apical-periodontitis-sr-ma]] — antibiotic overprescription in endodontics; parallel stewardship argument in a different indication
+- [[drug/antibiotics/de-angelis-2025-antibiotic-third-molar-extraction-prevention-sr]] — antibiotic prophylaxis in third molar extraction; another dental antibiotic indication under scrutiny
+- [[drug/analgesics/etikala-2019-nsaids-periodontal-implant-therapy-review]] — NSAIDs in periodontal therapy; complementary non-antibiotic adjunct perspective

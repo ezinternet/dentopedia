@@ -6,7 +6,7 @@ date: 2020-01-01
 doi: 10.3290/j.ohpd.a44679
 source: mortazavi-2020-drug-related-halitosis-systematic.md
 category: [halitosis]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/mortazavi-2020-drug-related-halitosis-systematic.pdf
 pdf_filename: mortazavi-2020-drug-related-halitosis-systematic.pdf
 source_collection: external

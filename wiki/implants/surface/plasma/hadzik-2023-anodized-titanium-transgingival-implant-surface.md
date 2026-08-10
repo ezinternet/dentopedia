@@ -6,7 +6,7 @@ date: 2023-01-01
 doi: 10.3390/jfb14010034
 source: hadzik-2023-anodized-titanium-transgingival-implant-surface.md
 category: [implants/surface/plasma]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/hadzik-2023-anodized-titanium-transgingival-implant-surface.pdf
 pdf_filename: hadzik-2023-anodized-titanium-transgingival-implant-surface.pdf
 source_collection: external

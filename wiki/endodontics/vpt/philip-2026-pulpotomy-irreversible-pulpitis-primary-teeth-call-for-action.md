@@ -6,7 +6,7 @@ date: 2026-04-11
 doi: 10.1007/s40368-026-01199-7
 source: philip-2026-pulpotomy-irreversible-pulpitis-primary-teeth-call-for-action.md
 category: [endodontics/vpt]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/philip-2026-pulpotomy-irreversible-pulpitis-primary-teeth-call-for-action.pdf
 pdf_filename: philip-2026-pulpotomy-irreversible-pulpitis-primary-teeth-call-for-action.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2023-04-10
 doi: 10.3390/toxins15040278
 journal: Toxins 2023;15(4):278
 source: gonzalez-perez-2023-botulinum-toxin-percutaneous-needle-electrolysis.md
-confidence: rct
+evidence_level: rct
 category: botulinum-toxin
 pdf_path: /Users/oracleneo/llm-wiki/papers/gonzalez-perez-2023-botulinum-toxin-percutaneous-needle-electrolysis.pdf
 pdf_filename: gonzalez-perez-2023-botulinum-toxin-percutaneous-needle-electrolysis.pdf

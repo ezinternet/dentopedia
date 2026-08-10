@@ -6,7 +6,7 @@ date: 2021-01-01
 doi: 10.1563/aaid-joi-D-19-00292
 source: salgar-2021-osseodensified-crestal-sinus-window-alternative-lateral.md
 category: [sinus-lift/transcrestal]
-confidence: case-report
+evidence_level: case-report
 pdf_path: /Users/oracleneo/llm-wiki/papers/salgar-2021-osseodensified-crestal-sinus-window-alternative-lateral.pdf
 pdf_filename: salgar-2021-osseodensified-crestal-sinus-window-alternative-lateral.pdf
 source_collection: external
@@ -65,8 +65,8 @@ Three patients selected for difficult sinus-lift indications (large posterior ed
 - Update this page when a prospective controlled trial of OD-crestal vs lateral window in low-RBH sinus elevation appears.
 
 ## Related Papers
-- [[implants/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — original OD technique source
-- [[implants/padhye-2020-osseodensification-systematic-review-qualitative-analysis]] — SR on OD (implant context, not sinus)
-- [[implants/inchingolo-2021-osseodensification-implant-site-osteotomy-sr-ma]] — SR+MA on OD (implant context)
-- [[implants/trisi-2016-osseodensification-low-density-bone-sheep]] — sheep biomechanics of OD relevant to ridge expansion claim
-- [[implants/lopez-2017-osseodensification-spinal-surgical-hardware-fixation]] — OD principle in orthopaedic context
+- [[implants/osseodensification/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — original OD technique source
+- [[implants/osseodensification/padhye-2020-osseodensification-systematic-review-qualitative-analysis]] — SR on OD (implant context, not sinus)
+- [[implants/osseodensification/inchingolo-2021-osseodensification-implant-site-osteotomy-sr-ma]] — SR+MA on OD (implant context)
+- [[implants/osseodensification/trisi-2016-osseodensification-low-density-bone-sheep]] — sheep biomechanics of OD relevant to ridge expansion claim
+- [[implants/osseodensification/lopez-2017-osseodensification-spinal-surgical-hardware-fixation]] — OD principle in orthopaedic context

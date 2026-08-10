@@ -6,7 +6,7 @@ date: 2025-01-24
 doi: 10.3390/medicina61020210
 source: lolos-2025-zirconia-restorations-5year-retrospective.md
 category: [dental-materials/zirconia]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/lolos-2025-zirconia-restorations-5year-retrospective.pdf
 pdf_filename: lolos-2025-zirconia-restorations-5year-retrospective.pdf
 source_collection: external
@@ -53,5 +53,5 @@ Both ZrO₂ single crowns and FDPs showed high 5-year survival rates. FDPs had a
 
 ## Related Papers
 - [[dental-materials/zirconia/aswal-2023-cadcam-zirconia-lithium-disilicate-crowns-sr-ma]] — esthetic complications OR 16.88 in CAD/CAM SR+MA
-- [[dental-materials/saravi-2021-cadcam-all-ceramic-fdp-clinical-sr-ma]] — CAD/CAM all-ceramic FDP SR+MA
-- [[dental-materials/almashaan-2023-lithium-disilicate-survival-sr]] — LDS survival SR for comparison
+- [[dental-materials/ceramic/saravi-2021-cadcam-all-ceramic-fdp-clinical-sr-ma]] — CAD/CAM all-ceramic FDP SR+MA
+- [[dental-materials/ceramic/almashaan-2023-lithium-disilicate-survival-sr]] — LDS survival SR for comparison

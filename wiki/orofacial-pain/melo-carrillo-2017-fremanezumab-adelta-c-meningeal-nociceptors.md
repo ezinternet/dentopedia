@@ -6,7 +6,7 @@ date: 2017-11-01
 doi: 10.1523/JNEUROSCI.2211-17.2017
 source: melo-carrillo-2017-fremanezumab-adelta-c-meningeal-nociceptors.md
 category: [orofacial-pain]
-confidence: animal
+evidence_level: animal
 source_collection: pubmed-text
 text_path: /Users/oracleneo/llm-wiki/papers/melo-carrillo-2017-fremanezumab-adelta-c-meningeal-nociceptors.txt
 text_filename: melo-carrillo-2017-fremanezumab-adelta-c-meningeal-nociceptors.txt

@@ -1,0 +1,49 @@
+{
+  "overview": "bruxism-muscle-overload-axis",
+  "date": "2026-07-23",
+  "title": "이갈이 근육 과부하 축 — 리콜",
+  "source_wiki": [
+    "wiki/overviews/bruxism-muscle-overload-axis.md"
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "q": "이 페이지가 이갈이(bruxism)를 개념화하는 핵심 명제는?",
+      "opts": [
+        "이갈이는 독립적인 국소 질환이다",
+        "이갈이는 공통 상류 인자 — 과도한 저작근 힘이 충분한 완충(PDL·임플란트 주위)을 못 만나면 가장 약한 구조(TMJ·치아·임플란트)로 방전된다",
+        "이갈이는 임플란트에만 영향을 준다",
+        "이갈이는 치료가 불가능하다"
+      ],
+      "ans": 1,
+      "rat": "이갈이는 공통 상류 인자로, 힘이 완충을 못 만나면 가장 약한 구조로 방전 — 하류 3갈래: ①TMJ·근육 ②치아·보철(교모·균열치·파절) ③임플란트(픽스처·스크류 파절·MBL). 세 중재의 작용 지점이 다름: 스플린트=하류 완충, 교합조정=접촉 재형성(비가역), BoNT-A=상류 근육 힘 차단.",
+      "cite": "overviews/bruxism-muscle-overload-axis"
+    },
+    {
+      "id": "q2",
+      "q": "이갈이 임플란트 환자에서 보툴리눔 독소(BoNT-A) 사용의 핵심 역설은?",
+      "opts": [
+        "BoNT-A는 부작용이 전혀 없다",
+        "BoNT-A는 과부하 힘을 줄이지만 동시에 바로 그 골유착을 손상시킨다(Deng 2023 동물: BV/TV↓·BIC↓) — 사람 데이터는 미검증",
+        "BoNT-A는 골유착을 촉진한다",
+        "BoNT-A는 표준치료보다 확실히 우월하다"
+      ],
+      "ans": 1,
+      "rat": "핵심 역설: BoNT-A는 과부하 힘을 줄이지만 동시에 골유착을 손상(Deng 2023 동물: BV/TV↓·BIC↓, 사람 데이터 미검증). 따라서 임플란트 이갈이 환자는 스플린트를 1차 보호로, BoNT-A는 골유착 기간을 피하고 순응도 실패·중증에 한해 escalation. BoNT-A는 placebo 우위이나 표준치료와 동등(de-la-torre-canales 2024).",
+      "cite": "overviews/bruxism-muscle-overload-axis"
+    },
+    {
+      "id": "q3",
+      "q": "이갈이 임플란트 실패의 성격과 예방 스크리닝은?",
+      "opts": [
+        "초기 골유착 실패가 주된 문제",
+        "골유착(초기)이 아니라 late failure(과부하)가 문제(Song 2021); 식립 전 이갈이 스크리닝(반복 보철 파절력·교근비대·linea alba·교모·EMG/PSG)이 표준 단계가 되어야 함",
+        "이갈이는 임플란트 실패와 무관하다",
+        "임플란트는 PDL이 있어 충격흡수가 된다"
+      ],
+      "ans": 1,
+      "rat": "임플란트 합병증은 골유착(초기)이 아니라 late failure(과부하; Song 2021). PDL이 없어 충격흡수·고유감각 결여(Stilwell 2024), 파절률 ~0.5%. 식립 전 이갈이 스크리닝(반복 보철 파절력·교근비대·linea alba·교모·EMG/PSG)이 표준 단계가 되어야 함. 교합조정은 TMD 근거 매우 낮음·비지지(Singh 2024 Cochrane).",
+      "cite": "overviews/bruxism-muscle-overload-axis"
+    }
+  ]
+}

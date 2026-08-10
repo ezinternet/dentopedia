@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1186/s12903-025-06946-8
 source: yousefi-2025-cshaped-canal-prevalence-cbct-sr-ma.md
 category: [endodontics/anatomy]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/yousefi-2025-cshaped-canal-prevalence-cbct-sr-ma.pdf
 pdf_filename: yousefi-2025-cshaped-canal-prevalence-cbct-sr-ma.pdf
 source_collection: external

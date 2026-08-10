@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1111/cid.13399
 source: gaspar-2025-osseodensification-crestal-maxillary-sinus-elevation-narrative-review.md
 category: [sinus-lift/transcrestal]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/gaspar-2025-osseodensification-crestal-maxillary-sinus-elevation-narrative-review.pdf
 pdf_filename: gaspar-2025-osseodensification-crestal-maxillary-sinus-elevation-narrative-review.pdf
 source_collection: external
@@ -47,7 +47,7 @@ Three RBH-stratified protocols proposed: (1) Sinus Lift I for RBH ≥6 mm, (2) S
 Narrative — no formal evidence grading. Authors heavily involved in OD development (potential conflict of interest). Protocols are proprietary (Versah Densah® burs). Long-term implant survival data still maturing.
 
 ## Related Papers
-- [[implants/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — original OD paper
+- [[implants/osseodensification/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — original OD paper
 - [[sinus-lift/transcrestal/mazor-2024-maxillary-sinus-membrane-perforation-osseodensification]]
 - [[sinus-lift/transcrestal/cobo-vazquez-2025-crestal-sinus-lift-osteotome-vs-osseodensification]]
 - [[sinus-lift/transcrestal/el-ghobashy-osseodensification-vs-osteotome-transcrestal-sinus]] — RCT OD vs osteotome

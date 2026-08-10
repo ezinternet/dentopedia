@@ -6,7 +6,7 @@ date: 2025-08-03
 doi: 10.1111/ipd.70026
 source: muller-bolla-2025-zirconia-vs-ssc-primary-molars-split-mouth-rct.md
 category: [caries]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: false
 pmid: "40754667"

@@ -42,7 +42,7 @@ Reported successful bone-volume restoration on the buccal aspect, primary closur
 Case-level evidence (n=2); operator skill demanding.
 
 ## 6. Related Work
-- [[immediate-implant/trombelli-2024-bioarp-bone-dehiscence-immediate-implant]]
+- [[immediate-implant/gap-grafting/trombelli-2024-bioarp-bone-dehiscence-immediate-implant]]
 - [[immediate-implant/esthetic-soft-tissue/qian-2023-iip-buccal-bone-dehiscence-anterior-maxilla]]
 
 ## 7. Glossary

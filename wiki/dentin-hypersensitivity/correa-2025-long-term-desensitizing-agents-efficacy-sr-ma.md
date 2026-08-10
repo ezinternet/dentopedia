@@ -6,7 +6,7 @@ date: 2025-10-24
 doi: 10.1016/j.jdent.2025.106186
 source: correa-2025-long-term-desensitizing-agents-efficacy-sr-ma.md
 category: [dentin-hypersensitivity]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: false
 pmid: "41139001"

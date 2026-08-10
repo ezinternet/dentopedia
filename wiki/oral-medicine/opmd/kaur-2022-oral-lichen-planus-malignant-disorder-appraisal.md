@@ -6,7 +6,7 @@ date: 2022-01-01
 doi: 10.1111/odi.13787
 source: kaur-2022-oral-lichen-planus-malignant-disorder-appraisal.md
 category: [oral-medicine/opmd]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/kaur-2022-oral-lichen-planus-malignant-disorder-appraisal.pdf
 pdf_filename: kaur-2022-oral-lichen-planus-malignant-disorder-appraisal.pdf
 source_collection: external

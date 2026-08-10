@@ -6,7 +6,7 @@ date: 2026-03-02
 doi: 10.2319/072725-633.1
 source: meade-2026-invisalign-lite-efficacy-retrospective.md
 category: [orthodontics/clear-aligner]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 full_text: false
 pmid: "41771498"

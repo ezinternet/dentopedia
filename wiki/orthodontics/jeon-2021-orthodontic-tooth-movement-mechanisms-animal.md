@@ -6,7 +6,7 @@ date: 2021-04-16
 doi: 10.3390/jcm10081733
 source: jeon-2021-orthodontic-tooth-movement-mechanisms-animal.md
 category: [orthodontics]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/jeon-2021-orthodontic-tooth-movement-mechanisms-animal.pdf
 pdf_filename: jeon-2021-orthodontic-tooth-movement-mechanisms-animal.pdf
 source_collection: external

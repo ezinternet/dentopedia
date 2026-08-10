@@ -6,7 +6,7 @@ date: 2021-01-01
 doi: 10.1186/s40729-021-00346-7
 journal: International Journal of Implant Dentistry 2021;7:46
 source: diaz-olivares-2021-schneiderian-membrane-perforation-sinus-lift.md
-confidence: sr+ma
+evidence_level: sr+ma
 category: [sinus-lift/lateral]
 pdf_path: /Users/oracleneo/llm-wiki/papers/diaz-olivares-2021-schneiderian-membrane-perforation-sinus-lift.pdf
 pdf_filename: diaz-olivares-2021-schneiderian-membrane-perforation-sinus-lift.pdf

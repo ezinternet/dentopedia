@@ -6,7 +6,7 @@ date: 2017-11-01
 doi: 10.1016/j.joen.2017.06.023
 source: torabinejad-2017-ret-mta-apical-plug-sr-ma.md
 category: [endodontics/regenerative]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/torabinejad-2017-ret-mta-apical-plug-sr-ma.pdf
 pdf_filename: torabinejad-2017-ret-mta-apical-plug-sr-ma.pdf
 source_collection: external

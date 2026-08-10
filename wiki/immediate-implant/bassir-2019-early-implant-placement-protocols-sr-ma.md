@@ -6,7 +6,7 @@ date: 2019-05-01
 doi: "10.1002/JPER.18-0338"
 source: bassir-2019-early-implant-placement-protocols-sr-ma.md
 category: [immediate-implant]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/bassir-2019-early-implant-placement-protocols-sr-ma.pdf
 pdf_filename: bassir-2019-early-implant-placement-protocols-sr-ma.pdf
 source_collection: external

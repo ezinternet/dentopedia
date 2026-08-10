@@ -6,7 +6,7 @@ date: 2024-12-04
 doi: 10.1186/s12903-024-05133-5
 source: manor-2024-cbct-prognostic-factors-sinus-perforation.md
 category: sinus-lift/lateral
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/manor-2024-cbct-prognostic-factors-sinus-perforation.pdf
 pdf_filename: manor-2024-cbct-prognostic-factors-sinus-perforation.pdf
 source_collection: external

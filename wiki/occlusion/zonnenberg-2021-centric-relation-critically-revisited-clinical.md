@@ -6,7 +6,7 @@ date: 2021-07-03
 doi: 10.1111/joor.13215
 source: zonnenberg-2021-centric-relation-critically-revisited-clinical.md
 category: [occlusion]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: false
 pmid: "34164832"

@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-The crown-prep geometry hub [[overviews/crown-preparation-geometry-convergence-resistance-retention]] is built largely on TOC/retention in-vitro studies; it needed the canonical narrative-review that distills the whole scientific basis into a numbered guideline set (TOC, O-C dimension, O-C:F-L ratio, auxiliary features, finish lines). This Goodacre 2001 review is the most-cited synthesis of complete-coverage prep principles and anchors the historic-to-evidence transition that [[prosthetic-materials/tiu-2015-clinical-tooth-preparations-measuring-sr]] later quantified.
+The crown-prep geometry hub [[overviews/crown-preparation-geometry-convergence-resistance-retention]] is built largely on TOC/retention in-vitro studies; it needed the canonical narrative-review that distills the whole scientific basis into a numbered guideline set (TOC, O-C dimension, O-C:F-L ratio, auxiliary features, finish lines). This Goodacre 2001 review is the most-cited synthesis of complete-coverage prep principles and anchors the historic-to-evidence transition that [[prosthetic-materials/tooth-preparation/tiu-2015-clinical-tooth-preparations-measuring-sr]] later quantified.
 
 ## Three-line Summary
 

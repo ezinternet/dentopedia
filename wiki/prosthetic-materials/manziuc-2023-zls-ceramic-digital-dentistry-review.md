@@ -6,7 +6,7 @@ date: 2023-12-08
 doi: 10.3390/medicina59122135
 source: manziuc-2023-zls-ceramic-digital-dentistry-review.md
 category: [prosthetic-materials]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/manziuc-2023-zls-ceramic-digital-dentistry-review.pdf
 pdf_filename: manziuc-2023-zls-ceramic-digital-dentistry-review.pdf
 source_collection: external
@@ -75,7 +75,7 @@ Comprehensive literature review of Zirconia-Reinforced Lithium Silicate (ZLS) ce
 - Standard bonding protocol (HF etch + silane + resin cement) applies
 
 ## Related Papers
-- [[dental-materials/almashaan-2023-lithium-disilicate-survival-sr]] — lithium disilicate survival
+- [[dental-materials/ceramic/almashaan-2023-lithium-disilicate-survival-sr]] — lithium disilicate survival
 - [[prosthetic-materials/laumacher-2025-lithium-disilicate-single-crowns-overview-sr]] — lithium disilicate single crown overview
 - [[dental-materials/zirconia/aswal-2023-cadcam-zirconia-lithium-disilicate-crowns-sr-ma]] — CAD/CAM zirconia vs lithium disilicate
 - [[prosthetic-materials/ghodsi-2023-resin-cement-partial-coverage-sr]] — resin cement selection

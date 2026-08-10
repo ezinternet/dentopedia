@@ -6,7 +6,7 @@ date: 2013-01-01
 doi: unknown
 journal: Dental Research Journal 10(2):202
 source: daneshkazemi-2013-clearfil-se-bond-mechanical-thermal.md
-confidence: in-vitro
+evidence_level: in-vitro
 category: [resin-bonding]
 pdf_path: /Users/oracleneo/llm-wiki/papers/daneshkazemi-2013-clearfil-se-bond-mechanical-thermal.pdf
 pdf_filename: daneshkazemi-2013-clearfil-se-bond-mechanical-thermal.pdf

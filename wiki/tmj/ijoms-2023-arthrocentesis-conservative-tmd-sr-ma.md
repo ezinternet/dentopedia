@@ -6,7 +6,7 @@ date: 2023-01-01
 doi: 10.1016/j.ijom.2022.10.008
 source: ijoms-2023-arthrocentesis-conservative-tmd-sr-ma.md
 category: [tmj]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/ijoms-2023-arthrocentesis-conservative-tmd-sr-ma.pdf
 pdf_filename: ijoms-2023-arthrocentesis-conservative-tmd-sr-ma.pdf
 source_collection: external

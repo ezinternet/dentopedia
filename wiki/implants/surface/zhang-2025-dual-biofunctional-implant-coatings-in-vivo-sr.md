@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1016/j.jdsr.2026.02.002
 source: zhang-2025-dual-biofunctional-implant-coatings-in-vivo-sr.md
 category: [implants/surface]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/zhang-2025-dual-biofunctional-implant-coatings-in-vivo-sr.pdf
 pdf_filename: zhang-2025-dual-biofunctional-implant-coatings-in-vivo-sr.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2011-09-09
 doi: 
 source: bertollo-2011-drilling-bone-practicality-limitations-complications.md
 category: [oral-surgery]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/bertollo-2011-drilling-bone-practicality-limitations-complications.pdf
 pdf_filename: bertollo-2011-drilling-bone-practicality-limitations-complications.pdf
 source_collection: external
@@ -58,7 +58,7 @@ Numerical results in the extracted text are limited to thermal-necrosis threshol
 Drill-geometry-specific effect sizes for dental implant osteotomy were not extractable from the available text.
 
 ## Related Papers
-- [[implants/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — compaction-drilling alternative that bypasses heat-generation paradigm
-- [[implants/kanathila-2018-insight-osseodensification-implant-stability-success]] — review of compaction drilling for implants
-- [[implants/lima-monteiro-2024-osseodensification-biomechanics-histomorphometry-sr-ma]] — SR+MA of osseodensification outcomes
-- [[implants/gaikwad-2022-osseodensification-animal-biomechanics-bic-sr-ma]] — animal-model SR+MA of osseodensification
+- [[implants/osseodensification/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — compaction-drilling alternative that bypasses heat-generation paradigm
+- [[implants/osseodensification/kanathila-2018-insight-osseodensification-implant-stability-success]] — review of compaction drilling for implants
+- [[implants/osseodensification/lima-monteiro-2024-osseodensification-biomechanics-histomorphometry-sr-ma]] — SR+MA of osseodensification outcomes
+- [[implants/osseodensification/gaikwad-2022-osseodensification-animal-biomechanics-bic-sr-ma]] — animal-model SR+MA of osseodensification

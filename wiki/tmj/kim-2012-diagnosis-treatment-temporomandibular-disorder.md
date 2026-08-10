@@ -7,7 +7,7 @@ doi: ""
 journal: "대한치과의사협회지 (J Korean Dent Assoc) 50(5)"
 source: kim-2012-diagnosis-treatment-temporomandibular-disorder.md
 category: [tmj]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/kim-2012-diagnosis-treatment-temporomandibular-disorder.pdf
 pdf_filename: kim-2012-diagnosis-treatment-temporomandibular-disorder.pdf
 source_collection: external
@@ -65,7 +65,7 @@ Narrative clinical review — no systematic search, no quantitative synthesis. A
 
 ## Results
 
-[claude해석] No primary outcomes — this is a clinical guide. The article positions itself as a practical bridge for dentists who recognize TMD as a major oral disease but lack equipment, prior knowledge, or confidence to manage it in-clinic. Most recommended interventions (NSAIDs, splint, trigger point injection, arthrocentesis) can be performed at outpatient level.
+[미검증] No primary outcomes — this is a clinical guide. The article positions itself as a practical bridge for dentists who recognize TMD as a major oral disease but lack equipment, prior knowledge, or confidence to manage it in-clinic. Most recommended interventions (NSAIDs, splint, trigger point injection, arthrocentesis) can be performed at outpatient level.
 
 ## Classification → Treatment Map
 
@@ -83,7 +83,7 @@ Narrative clinical review — no systematic search, no quantitative synthesis. A
 
 ## Limitations (Critical Reading)
 
-[claude해석] As a 2012 narrative review by a single author, this paper precedes:
+[미검증] As a 2012 narrative review by a single author, this paper precedes:
 - **DC/TMD (2014)** — Diagnostic Criteria for TMD, the current research-grade case definition.
 - **Singh 2024 Cochrane SR (occlusal interventions)** — strong recommendation *against* irreversible occlusal work; the splint protocol in this paper aligns, but the term "occlusal stabilization" should be understood as reversible appliance therapy, not occlusal adjustment.
 - **BMJ 2023 chronic TMD pain guideline** — supports conservative first-line; conditional BTX-A in refractory myofascial pain.

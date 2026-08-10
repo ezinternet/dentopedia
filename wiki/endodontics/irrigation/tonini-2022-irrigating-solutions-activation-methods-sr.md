@@ -6,7 +6,7 @@ date: 2022-01-31
 doi: 10.3389/froh.2022.838043
 journal: Frontiers in Oral Health 3:838043
 source: tonini-2022-irrigating-solutions-activation-methods-sr.md
-confidence: sr
+evidence_level: sr
 category: [endodontics/irrigation]
 pdf_path: /Users/oracleneo/llm-wiki/papers/tonini-2022-irrigating-solutions-activation-methods-sr.pdf
 pdf_filename: tonini-2022-irrigating-solutions-activation-methods-sr.pdf

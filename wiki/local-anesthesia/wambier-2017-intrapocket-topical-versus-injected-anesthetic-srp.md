@@ -6,7 +6,7 @@ date: 2017-11-01
 doi: 10.1016/j.adaj.2017.05.034
 source: wambier-2017-intrapocket-topical-versus-injected-anesthetic-srp.md
 category: [local-anesthesia]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/wambier-2017-intrapocket-topical-versus-injected-anesthetic-srp.pdf
 pdf_filename: wambier-2017-intrapocket-topical-versus-injected-anesthetic-srp.pdf
 source_collection: external
@@ -44,7 +44,7 @@ This systematic review with meta-analysis evaluated pain control during scaling 
 SR+MA. 6 databases, RCTs only, comparing intrapocket vs injectable anesthetic during SRP. Primary outcome: risk/intensity of pain. Quality: Cochrane risk-of-bias tool; meta-analysis restricted to low/unclear-risk studies. 976 identified → 6 in qualitative synthesis.
 
 ## Results
-Pain intensity: injected < topical gel (P=.03). Rescue anesthetic: injected < topical (P<.0001). Patient preference: no difference (P=.09). Risk of developing pain: similar between injected and topical. [근거강함]
+Pain intensity: injected < topical gel (P=.03). Rescue anesthetic: injected < topical (P<.0001). Patient preference: no difference (P=.09). Risk of developing pain: similar between injected and topical. [확인]
 
 ## Related Papers
 - [[local-anesthesia/khongkhunthian-2018-anesthetic-rice-nanogel-pain-reduction]] — topical-anesthetic efficacy (formulation axis); extended here to periodontal SRP context

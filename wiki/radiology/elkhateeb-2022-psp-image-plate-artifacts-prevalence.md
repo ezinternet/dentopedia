@@ -6,7 +6,7 @@ date: 2022-01-14
 doi: 10.12998/wjcc.v10.i2.437
 source: elkhateeb-2022-psp-image-plate-artifacts-prevalence.md
 category: [radiology]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 full_text: true
 pmid: "35097068"

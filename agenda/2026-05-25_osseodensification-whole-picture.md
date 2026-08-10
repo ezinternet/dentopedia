@@ -7,8 +7,8 @@ owner: 원장
 priority: P1
 tags: [osseodensification, densahbur, implants, overview, interactive, slide]
 source_wiki:
-  - wiki/implants/fontes-pereira-2023-osseodensification-osteotomy-alternative-sr.md
-  - wiki/implants/huwais-2017-novel-osseous-densification-osteotomy-primary-stability.md
+  - wiki/implants/osseodensification/fontes-pereira-2023-osseodensification-osteotomy-alternative-sr.md
+  - wiki/implants/osseodensification/huwais-2017-novel-osseous-densification-osteotomy-primary-stability.md
   - wiki/implants/isq/althobaiti-2023-osseodensification-conventional-drilling-isq-sr.md
   - wiki/implants/isq/konuklu-2026-five-osteotomy-protocols-isq-rct.md
   - wiki/sinus-lift/transcrestal/starch-jensen-2025-transcrestal-sinus-osseodensification-meta-analysis.md
@@ -27,8 +27,8 @@ Fontes Pereira et al. 2023 (JCM, SR, PMID 38002660)의 4-application taxonomy를
 
 근거가 될 기존 wiki 페이지:
 
-- wiki/implants/fontes-pereira-2023-osseodensification-osteotomy-alternative-sr.md — **spine SR**, 4 적용 시나리오 taxonomy
-- wiki/implants/huwais-2017-novel-osseous-densification-osteotomy-primary-stability.md — OD 메커니즘 원위논문 (in vitro)
+- wiki/implants/osseodensification/fontes-pereira-2023-osseodensification-osteotomy-alternative-sr.md — **spine SR**, 4 적용 시나리오 taxonomy
+- wiki/implants/osseodensification/huwais-2017-novel-osseous-densification-osteotomy-primary-stability.md — OD 메커니즘 원위논문 (in vitro)
 - wiki/implants/isq/althobaiti-2023-osseodensification-conventional-drilling-isq-sr.md — ISQ outcome SR
 - wiki/implants/isq/konuklu-2026-five-osteotomy-protocols-isq-rct.md — 최근 RCT
 - wiki/sinus-lift/transcrestal/starch-jensen-2025-transcrestal-sinus-osseodensification-meta-analysis.md — sub-antral 적용 SR+MA
@@ -65,4 +65,4 @@ Fontes Pereira et al. 2023 (JCM, SR, PMID 38002660)의 4-application taxonomy를
 
 # References
 
-- [[wiki/implants/fontes-pereira-2023-osseodensification-osteotomy-alternative-sr]]
+- [[wiki/implants/osseodensification/fontes-pereira-2023-osseodensification-osteotomy-alternative-sr]]

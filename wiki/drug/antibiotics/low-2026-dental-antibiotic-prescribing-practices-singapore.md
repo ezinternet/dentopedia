@@ -6,7 +6,7 @@ date: 2026-06-02
 doi: 10.1016/j.identj.2026.109654
 source: low-2026-dental-antibiotic-prescribing-practices-singapore.md
 category: drug/antibiotics
-confidence: cross-sectional
+evidence_level: cross-sectional
 source_collection: pubmed-text
 full_text: true
 pmid: "42229148"
@@ -24,6 +24,8 @@ relations:
     target: mendez-romero-2025-antibiotic-stewardship-dentistry-sr
   - type: applies-to
     target: sandulescu-2024-antibiotic-prescribing-dental-best-practices-review
+  - type: applies-to
+    target: de-angelis-2025-antibiotic-third-molar-extraction-prevention-sr
 ---
 
 ## Three-line Summary

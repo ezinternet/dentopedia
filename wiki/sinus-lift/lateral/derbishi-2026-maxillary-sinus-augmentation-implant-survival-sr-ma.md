@@ -6,7 +6,7 @@ date: 2026-02-08
 doi: "10.7759/cureus.103201"
 source: derbishi-2026-maxillary-sinus-augmentation-implant-survival-sr-ma.md
 category: [sinus-lift/lateral]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/derbishi-2026-maxillary-sinus-augmentation-implant-survival-sr-ma.pdf
 pdf_filename: derbishi-2026-maxillary-sinus-augmentation-implant-survival-sr-ma.pdf
 source_collection: external

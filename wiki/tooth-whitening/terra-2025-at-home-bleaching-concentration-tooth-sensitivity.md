@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1016/j.jdent.2025.105891
 source: terra-2025-at-home-bleaching-concentration-tooth-sensitivity.md
 category: [tooth-whitening]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: false
 pmid: "40484311"

@@ -6,7 +6,7 @@ date: 2026-03-27
 doi: 10.1016/j.rpth.2026.103419
 source: xiang-2026-continuous-interrupted-doac-minimal-bleeding-sr-ma.md
 category: [drug/anticoagulants]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "42027304"

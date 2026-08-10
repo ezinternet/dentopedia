@@ -1,8 +1,10 @@
 # Ingest Paper — Reference
 
-## Confidence Vocabulary
+## Evidence Level Vocabulary
 
-Pick the **single best label**:
+`evidence_level:` (wiki pages only — renamed from `confidence:` 2026-07-15; pre-existing pages that still say `confidence:` are grandfathered, do not bulk-migrate them). Pick the **single best label**.
+
+Study types, roughly highest → lowest evidence weight:
 
 | Value | Applies to |
 |---|---|
@@ -18,34 +20,28 @@ Pick the **single best label**:
 | `in-vitro` | Bench / laboratory study |
 | `narrative-review` | Narrative review, perspective, expert commentary |
 | `consensus` | Consensus statement / position paper |
+| `synthesis` | Multi-paper wiki/overviews synthesis page — not an external study type |
+
+Non-research document labels (administrative/legal/engineering primary sources, not on the evidence ladder):
+
+| Value | Applies to |
+|---|---|
+| `regulation` | Korean health-insurance regulation — MOHW notice/decree/amendment (고시·훈령·개정) |
+| `official-qa` | Official Q&A from MOHW/HIRA (유권해석) |
+| `manual` | Practical guidebook / 실무편람 |
+| `patent` | Patent disclosure (공개/등록특허공보) |
+
+`in-vivo` vs `rct` note: a randomized-order crossover on human *testers* (operator-ergonomics, method-comparison) is `in-vivo`, not `rct` — `rct` is reserved for patient/disease-outcome allocation trials. `in-vitro` vs `in-vivo`: a manikin/typodont/bench setup with no living subject is `in-vitro` even if the paper's own prose says "in vivo study" loosely.
+
+Full vocabulary + supersession-judgment rules: INGEST.md § `evidence_level:` vocabulary.
 
 ---
 
-## Category List
+## Category
 
-| Folder | Korean | Classify when… |
-|---|---|---|
-| `implants` | 임플란트 | Implant design, bone type, survival, failure risk, MBL, soft tissue |
-| `implants/isq` | 임플란트·ISQ | ISQ/RFA measurement, stability dip, loading thresholds |
-| `implants/surface` | 임플란트·표면처리 | SLA, CA, UV surface tech, osseointegration |
-| `bone-regeneration` | 골재생 | GBR, ridge preservation, socket management, peri-implantitis GBR |
-| `immediate-implant` | 즉시식립 | Immediate implant placement protocols, outcomes, esthetic risk |
-| `sinus-lift/lateral` | 상악동거상술·측방 | Lateral window approach |
-| `sinus-lift/transcrestal` | 상악동거상술·경치조골 | Transcrestal (osteotome/balloon/OD) approaches |
-| `endodontics/eal` | 근관치료·근관장측정 | EAL accuracy, working length, apex locator |
-| `endodontics/irrigation` | 근관치료·세정 | Irrigant activation (PUI, ANP, sonic, laser) |
-| `endodontics/anatomy` | 근관치료·해부 | Canal morphology, access cavity, MB2, CBCT-guided access |
-| `periodontics` | 치주치료 | Periodontal disease, regeneration, SPT |
-| `dental-materials` | 치과재료 | Impression materials, zirconia, ceramics (general) |
-| `digital-workflow` | 디지털워크플로우 | IOS accuracy, CBCT, CAD/CAM, guided surgery |
-| `resin` | 레진 | Composite resin, polymerization, shrinkage |
-| `resin-bonding` | 레진접착 | Adhesive systems, bonding, dentin adhesion |
-| `prosthetic-materials` | 보철재료 | Screw vs cement retention, zirconia crowns, CAD/CAM prosthetics |
-| `drug` | 전신질환·약물 | Systemic disease, drug interactions, MRONJ, anticoagulants |
-| `oral-surgery` | 구강외과 | Extractions, nerve injuries, surgical complications, coronectomy |
-| `inlay` | 인레이 | Inlay/onlay restorations, ceramic inlays |
+**Full list lives at [wiki/_meta/categories.md](../../../wiki/_meta/categories.md) — single source of truth. Do not copy it here.** A condensed table used to live in this section; it drifted (missing `implants/peri-implantitis` and others — self-flagged in `logs/ingest-deviations.md`, 2026-07-12 `fathi-2024-electronic-cigarettes-peri-implantitis-umbrella-review` entry) and was removed rather than re-synced, per CLAUDE.md's explicit anti-duplication rule for this exact list.
 
-**Classify by method/procedure, not by disease or anatomy.**
+Classify by **method/procedure**, not disease/anatomy. Read categories.md's `Includes` column carefully — several categories carve specific sub-cases out to a sibling folder (e.g. dental-handpiece ↔ periodontics ↔ infection-control on aerosol/ultrasonic-scaler topics; check the carve-out note before assuming the obvious folder). Boundary calls escalate to Opus (SKILL.md Step 4).
 
 ---
 
@@ -63,8 +59,18 @@ pdf_filename: {stem}.pdf
 source_collection: external
 ---
 
-## One-line Summary
-{Study type, n, key finding in one English sentence.}
+## Why Ingested
+{1–2 sentences: why this paper, now (gap / conflict / new evidence / requested / current case). At least one [[wiki/category/stem]] wikilink to a page this reinforces, contradicts, or extends. Look up the target via `qmd query` — never grep/find/ls over wiki/.}
+
+## Three-line Summary
+(Line 1: study type, n, context — what was studied)
+(Line 2: primary result / key finding with numbers)
+(Line 3: clinical implication or key limitation)
+
+## 세줄요약
+(줄1: 연구유형·n·맥락 — 연구 대상/설계)
+(줄2: 핵심 결과/수치)
+(줄3: 임상적 의미 또는 핵심 한계)
 
 ## 1. Document Information
 - **Journal**: Journal Name Year;Vol(No):Pages
@@ -97,6 +103,12 @@ source_collection: external
 - **TERM**: definition
 ```
 
+`## Why Ingested` is **mandatory** for papers ingested on/after 2026-05-27 (lint-enforced by `scripts/ingest-rationale-lint.py`). Pre-cutoff sources are grandfathered — no backfill.
+
+**PubMed-text variant** (full text pulled via PubMed MCP, no PDF): replace `source_collection: external` → `pubmed-text`; drop `pdf_path`/`pdf_filename`; add `full_text:` (`false` if abstract-only), `pmid:`, `pmcid:` (if any), `source_url:`, `text_path:`/`text_filename:` pointing at `papers/{stem}.txt`. See INGEST.md Step 1-T.
+
+**Abstract-only PDF variant** (paywalled landing page, no body text): keep `source_collection: external` + `pdf_path`/`pdf_filename`, add `full_text: false`, and state `abstract-only — full text not retrieved` above the Three-line Summary. See INGEST.md Step 1-A.
+
 ---
 
 ## Wiki Template
@@ -110,15 +122,22 @@ date: YYYY-MM-DD
 doi: 10.XXXX/xxxxx
 source: {stem}.md
 category: [category-folder]
-confidence: {confidence-label}
+evidence_level: {evidence-level-label}
 pdf_path: /Users/oracleneo/llm-wiki/papers/{stem}.pdf
 pdf_filename: {stem}.pdf
 source_collection: external
 tags: [keyword1, keyword2, keyword3]
 ---
 
-## 한줄요약
-{Korean one-liner: study type, n, key finding. Use 한국어 (English, 약어) notation.}
+## Three-line Summary
+(Line 1: study type, n, context — what was studied)
+(Line 2: primary result / key finding with numbers)
+(Line 3: clinical implication or key limitation)
+
+## 세줄요약
+(줄1: 연구유형·n·맥락 — 연구 대상/설계)
+(줄2: 핵심 결과/수치)
+(줄3: 임상적 의미 또는 핵심 한계)
 
 ## Summary
 {English paragraph, 3–5 sentences. State study design, population, key result, clinical implication.}
@@ -139,30 +158,17 @@ tags: [keyword1, keyword2, keyword3]
 - [[category/stem]] — {relationship description}
 ```
 
+`date:` — publication date `YYYY-MM-DD`; `YYYY-01-01` if only the year is known; ingest date if neither is recoverable from the paper.
+
+**PubMed-text / abstract-only variants apply here too** — same artifact-field substitution as the Sources Template above (INGEST.md says sources/·wiki/ frontmatter get the same swap). Don't write `pdf_path`/`pdf_filename` for a paper that has no PDF.
+
+**Optional frontmatter — judgment calls, not mechanical fill-in, add only when they genuinely apply:**
+
+- `superseded_by: {newer-stem}` + `superseded_scope: full|partial` — set on the **older** page when a new page overturns its clinical bottom line, plus a `[!warning]`/`[!note]` banner at the top of the body. INGEST.md § `superseded_by:`.
+- `relations:` — typed edges to existing wiki stems, found via `qmd query` (never grep/find/ls). Five types: `extends` / `reinforces` / `contradicts` / `refines` / `applies-to` — **no 6th type** (a `complements` type was tested and rejected 2026-07-17). `reinforces` must be *independent* confirmation — a page can never `reinforces` its own source material (circular). `target` must already exist as a wiki stem; sibling papers in the same parallel-ingest batch can't typed-edge each other (use prose `## Related Papers` instead, a later ingest can add the edge). Full vocabulary, the circular-`reinforces` rule, and the direction-doesn't-track-publication-date caveat: INGEST.md § `relations:` — read it before typing an edge, don't guess from memory or from how strong the target looks.
+
 ---
 
-## Index Section Headers
+## Index
 
-Match category to the correct `##` section heading in `index.md`:
-
-| Category | Index Section Header |
-|---|---|
-| `implants` | `## 임플란트 — 디자인·생존율·실패위험` |
-| `implants/isq` | `## 임플란트 — ISQ·안정성 (Implants: ISQ / Stability)` |
-| `implants/surface` | `## 임플란트 — 표면처리·골유착 심화` |
-| `bone-regeneration` | `## 골재생 (Bone Regeneration)` |
-| `immediate-implant` | `## 즉시식립 (Immediate Implant)` |
-| `sinus-lift/lateral` | `## 상악동거상술 — 측방창 접근 (Sinus Lift: Lateral)` |
-| `sinus-lift/transcrestal` | `## 상악동거상술 — 경치조골 접근 (Sinus Lift: Transcrestal)` |
-| `endodontics/eal` | `## 근관치료 — 근관장 측정 (Endodontics: EAL / Working Length)` |
-| `endodontics/irrigation` | `## 근관치료 — 세정·활성화 (Endodontics: Irrigation)` |
-| `endodontics/anatomy` | `## 근관치료 — 해부·접근·진단 (Endodontics: Anatomy / Access / Detection)` |
-| `periodontics` | `## 치주치료 (Periodontics)` |
-| `dental-materials` | `## 치과재료 (Dental Materials)` |
-| `digital-workflow` | `## 디지털 워크플로우 (Digital Workflow)` |
-| `resin` | `## 레진 (Resin)` |
-| `resin-bonding` | `## 레진접착 (Resin Bonding)` |
-| `prosthetic-materials` | `## 보철재료 (Prosthetic Materials)` |
-| `drug` | `## 전신질환·약물 (Drug / Systemic Medicine)` |
-| `oral-surgery` | `## 구강외과 (Oral Surgery)` |
-| `inlay` | `## 인레이 (Inlay)` |
+`index.md` entries go under the section heading matching the paper's category. Read `index.md` directly and match by category — no separate lookup table here; categories/headings change often enough that a synced copy would drift the same way the category list above did.

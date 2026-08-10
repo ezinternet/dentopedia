@@ -6,7 +6,7 @@ date: 2026-01-01
 doi: 10.1155/bmri/5326872
 source: sheykhian-2026-survival-biological-complications-ceramic-veneered.md
 category: [prosthetic-materials]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/sheykhian-2026-survival-biological-complications-ceramic-veneered.pdf
 pdf_filename: sheykhian-2026-survival-biological-complications-ceramic-veneered.pdf
 source_collection: external
@@ -70,6 +70,6 @@ The authors position this SR+MA as more focused than prior implant-FDP meta-anal
 
 ## Related Papers
 
-- [[wiki/prosthetic-materials/pjetursson-2023-implant-fdp-material-design-outcomes-sr-ma]] — broader SR+MA of posterior implant-supported multi-unit FDPs by material (PFM/veneered Zr/monolithic Zr/LDS); this Sheykhian 2026 paper narrows that evidence to the screw-retained ceramic-veneered subgroup specifically, refining the veneered-zirconia chipping/fracture signal Pjetursson 2023 already identified.
-- [[wiki/prosthetic-materials/hamed-2020-screw-vs-cement-implant-sr]] — SR on screw vs cement retention showing no overall survival difference but divergent complication profiles (cement → more biological, screw → more mechanical complications); complements this paper's screw-only complication breakdown.
-- [[wiki/prosthetic-materials/laumbacher-2021-zirconia-prosthetic-restorations-long-term-sr]] — long-term SR on zirconia prosthetic restorations generally, relevant background for the zirconia-framework material context.
+- [[prosthetic-materials/pjetursson-2023-implant-fdp-material-design-outcomes-sr-ma]] — broader SR+MA of posterior implant-supported multi-unit FDPs by material (PFM/veneered Zr/monolithic Zr/LDS); this Sheykhian 2026 paper narrows that evidence to the screw-retained ceramic-veneered subgroup specifically, refining the veneered-zirconia chipping/fracture signal Pjetursson 2023 already identified.
+- [[prosthetic-materials/abutment-screw/hamed-2020-screw-vs-cement-implant-sr]] — SR on screw vs cement retention showing no overall survival difference but divergent complication profiles (cement → more biological, screw → more mechanical complications); complements this paper's screw-only complication breakdown.
+- [[prosthetic-materials/laumbacher-2021-zirconia-prosthetic-restorations-long-term-sr]] — long-term SR on zirconia prosthetic restorations generally, relevant background for the zirconia-framework material context.

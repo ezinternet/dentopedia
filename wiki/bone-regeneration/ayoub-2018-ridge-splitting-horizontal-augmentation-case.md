@@ -6,7 +6,7 @@ date: 2018-07-24
 doi: ""
 source: ayoub-2018-ridge-splitting-horizontal-augmentation-case.md
 category: [bone-regeneration]
-confidence: case-report
+evidence_level: case-report
 pdf_path: /Users/oracleneo/llm-wiki/papers/ayoub-2018-ridge-splitting-horizontal-augmentation-case.pdf
 pdf_filename: ayoub-2018-ridge-splitting-horizontal-augmentation-case.pdf
 source_collection: external

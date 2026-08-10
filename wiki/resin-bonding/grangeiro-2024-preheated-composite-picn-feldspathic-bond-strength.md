@@ -6,7 +6,7 @@ date: 2023-06-20
 doi: 10.3290/j.jad.b4279775
 source: grangeiro-2024-preheated-composite-picn-feldspathic-bond-strength.md
 category: [resin-bonding]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/grangeiro-2024-preheated-composite-picn-feldspathic-bond-strength.pdf
 pdf_filename: grangeiro-2024-preheated-composite-picn-feldspathic-bond-strength.pdf
 source_collection: external

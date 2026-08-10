@@ -6,7 +6,7 @@ date: 2024-01-12
 doi: 10.2186/jpr.JPR_D_23_00151
 source: komine-2024-clinical-performance-laminate-veneers-review.md
 category: veneers
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/komine-2024-clinical-performance-laminate-veneers-review.pdf
 pdf_filename: komine-2024-clinical-performance-laminate-veneers-review.pdf
 source_collection: external

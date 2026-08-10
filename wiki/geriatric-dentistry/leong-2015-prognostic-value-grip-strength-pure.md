@@ -6,7 +6,7 @@ date: 2015-07-18
 doi: 10.1016/S0140-6736(14)62000-6
 source: leong-2015-prognostic-value-grip-strength-pure.md
 category: [geriatric-dentistry]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/leong-2015-prognostic-value-grip-strength-pure.pdf
 pdf_filename: leong-2015-prognostic-value-grip-strength-pure.pdf
 source_collection: external

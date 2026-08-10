@@ -6,7 +6,7 @@ date: 2015-12-21
 doi: 10.1111/jcpe.12497
 source: nibali-2016-tooth-loss-furcation-involvement-sr-ma.md
 category: [periodontics]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/nibali-2016-tooth-loss-furcation-involvement-sr-ma.pdf
 pdf_filename: nibali-2016-tooth-loss-furcation-involvement-sr-ma.pdf
 source_collection: external
@@ -56,4 +56,4 @@ This SR+MA analyzed 21 longitudinal studies (≥3-year follow-up) examining the 
 
 ## Related Papers
 - [[periodontics/manresa-2018-supportive-periodontal-therapy-cochrane-sr]] — Cochrane SR on SPT protocols; context for maintenance phase
-- [[periodontics/stavropoulos-2021-periodontal-regeneration-intrabony-nma]] — intrabony defect regeneration outcomes, complementary evidence for periodontal prognosis
+- [[periodontics/host-modulation/stavropoulos-2021-periodontal-regeneration-intrabony-nma]] — intrabony defect regeneration outcomes, complementary evidence for periodontal prognosis

@@ -6,7 +6,7 @@ date: 2026-04-01
 doi: 10.5051/jpis.2501980099
 source: lim-2026-reentry-sinus-elevation-membrane-perforation.md
 category: [sinus-lift/lateral]
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/lim-2026-reentry-sinus-elevation-membrane-perforation.pdf
 pdf_filename: lim-2026-reentry-sinus-elevation-membrane-perforation.pdf
 source_collection: external

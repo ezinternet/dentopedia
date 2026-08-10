@@ -6,7 +6,7 @@ date: 2022-06-01
 doi: 10.30476/DENTJODS.2021.87985.1303
 source: jahanshahi-2022-motivational-interviewing-prevent-early-childhood.md
 category: behavioral-dentistry/motivational-interviewing
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/jahanshahi-2022-motivational-interviewing-prevent-early-childhood.pdf
 pdf_filename: jahanshahi-2022-motivational-interviewing-prevent-early-childhood.pdf
 source_collection: external

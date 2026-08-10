@@ -6,7 +6,7 @@ date: 2024-05-15
 doi: 10.1155/2024/3263011
 source: elizalde-mota-2024-bartee-bio-col-ridge-preservation-xenograft.md
 category: [bone-regeneration/ridge-preservation]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/elizalde-mota-2024-bartee-bio-col-ridge-preservation-xenograft.pdf
 pdf_filename: elizalde-mota-2024-bartee-bio-col-ridge-preservation-xenograft.pdf
 source_collection: external
@@ -30,7 +30,7 @@ With only n=7 per arm the study is critically underpowered to detect moderate di
 n=7/군으로 통계 검출력 매우 부족 — 동등성 결론은 신중히 해석 필요; 소켓 형태 불문 6개월 후 임플란트 식립 가능한 치조제 유지는 양 군 모두 확인.
 
 ## Summary
-Elizalde-Mota 등(2024, UPAEP)은 socket 형태에 따라 두 가지 ARP 프로토콜을 사용한 인체 longitudinal 연구를 시행했다: 결손 buccal/lingual wall이 있는 경우 Bartee(dPTFE 노출막, 21일 후 제거), 4벽이 intact한 경우 Bio-Col(coronal 1/4 collagen plug + tissue adhesive). 양 군에서 InterOss® 이종골을 사용했고 6개월 CBCT/트레핀 biopsy로 평가. 결과: 양 군 모두 수직·수평 흡수가 비슷하게 통제됐고 차이는 통계적으로 유의하지 않았다. 임상적으로는 "socket 형태에 맞춰 프로토콜을 다르게 가져가도 ARP 효과는 동등하게 확보된다"는 메시지 [claude해석: 다만 n=7/arm으로 underpowered, 특히 신생골 차이(31% vs 13%)는 sample 부족으로 NS — 진정한 동등성 결론 아님].
+Elizalde-Mota 등(2024, UPAEP)은 socket 형태에 따라 두 가지 ARP 프로토콜을 사용한 인체 longitudinal 연구를 시행했다: 결손 buccal/lingual wall이 있는 경우 Bartee(dPTFE 노출막, 21일 후 제거), 4벽이 intact한 경우 Bio-Col(coronal 1/4 collagen plug + tissue adhesive). 양 군에서 InterOss® 이종골을 사용했고 6개월 CBCT/트레핀 biopsy로 평가. 결과: 양 군 모두 수직·수평 흡수가 비슷하게 통제됐고 차이는 통계적으로 유의하지 않았다. 임상적으로는 "socket 형태에 맞춰 프로토콜을 다르게 가져가도 ARP 효과는 동등하게 확보된다"는 메시지 [미검증: 다만 n=7/arm으로 underpowered, 특히 신생골 차이(31% vs 13%)는 sample 부족으로 NS — 진정한 동등성 결론 아님].
 
 ## Key Contributions
 - Bartee vs Bio-Col 직접 비교 — 두 명명 프로토콜이 임상에서 흔히 혼용되는데, 결과 동등성에 대한 1차 임상 자료.

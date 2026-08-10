@@ -6,13 +6,13 @@ date: 2026-06-15
 doi: N/A
 source: N/A
 category: overviews
-confidence: synthesis
+evidence_level: synthesis
 pdf_path: N/A
 pdf_filename: N/A
 source_collection: synthesis
 tags: [ceramic-bonding, hf-etching, silane, contamination, resin-cement, lithium-disilicate, feldspathic, overview]
 relations:
-  - type: reinforces
+  - type: refines
     target: alammar-2022-zirconia-bonding-durability-clinical-outcomes-sr
 ---
 
@@ -174,7 +174,7 @@ All groups declined significantly after 5,000 thermal cycles, but rank order was
 
 ---
 
-## Clinical Protocol Summary [claude 해석]
+## Clinical Protocol Summary [미검증 — Claude 해석]
 
 *This step-by-step protocol is a working clinical hypothesis derived from synthesis of the 9 papers. It does not replace individual manufacturer instructions. All evidence is in vitro.*
 
@@ -238,6 +238,11 @@ All nine studies in this overview address **silica-based ceramics** (feldspathic
 ---
 
 ## Related Papers
+
+
+### 신규 ingest cluster (2026-07-15)
+
+- [[dental-materials/zirconia/nasri-2025-surface-conditioning-zirconia-bonding-umbrella]] — Umbrella review (8 SRs, 233 studies, 6/8 low ROBIS): airborne-particle abrasion (APA) + 10-MDP primer the most validated zirconia bonding protocol; NAC/laser immature — APA+10-MDP is the standard
 
 - [[resin-bonding/venturini-2015-hf-acid-concentration-feldspathic-ceramic-bond]] — HF concentration (1–10%) and long-term bond durability to feldspathic ceramic; minimum 3% threshold
 - [[resin-bonding/leyva-del-rio-2021-heated-hf-feldspathic-lithium-disilicate-bond]] — heated HF (70°C) benefit selective to lithium disilicate only

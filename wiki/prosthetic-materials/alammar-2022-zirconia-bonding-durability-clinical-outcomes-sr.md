@@ -6,7 +6,7 @@ date: 2022-09-26
 doi: 10.11607/ijp.6871
 source: alammar-2022-zirconia-bonding-durability-clinical-outcomes-sr.md
 category: [prosthetic-materials]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/alammar-2022-zirconia-bonding-durability-clinical-outcomes-sr.pdf
 pdf_filename: alammar-2022-zirconia-bonding-durability-clinical-outcomes-sr.pdf
 source_collection: external

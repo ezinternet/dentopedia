@@ -6,7 +6,7 @@ date: 2023-12-07
 doi: 10.3389/fbioe.2023.1309503
 source: zhao-2023-enhancing-dentin-bonding-quality-acetone.md
 category: [resin-bonding]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/zhao-2023-enhancing-dentin-bonding-quality-acetone.pdf
 pdf_filename: zhao-2023-enhancing-dentin-bonding-quality-acetone.pdf
 source_collection: external

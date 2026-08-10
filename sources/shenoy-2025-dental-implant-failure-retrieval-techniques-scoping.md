@@ -35,7 +35,7 @@ Scoping review (Front Oral Health 2025, Manipal): 임플란트
 Scoping review per PRISMA-ScR; encompassing failure definitions, classifications, retrieval techniques.
 
 ## 4. Key Results
-[합의수준] Retrieval technique selection by failure type, implant location, bone quality. Modern minimally invasive techniques (piezo, reverse-torque) preserve bone better than aggressive trephine in many cases.
+[확인] Retrieval technique selection by failure type, implant location, bone quality. Modern minimally invasive techniques (piezo, reverse-torque) preserve bone better than aggressive trephine in many cases.
 
 ## 5. Limitations
 - Scoping not systematic

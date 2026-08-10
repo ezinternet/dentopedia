@@ -6,7 +6,7 @@ date: 2026-04-04
 doi: 10.1007/s00276-026-03870-6
 source: turker-2026-maxillary-sinus-septa-perforation-risk.md
 category: sinus-lift/lateral
-confidence: cross-sectional
+evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/turker-2026-maxillary-sinus-septa-perforation-risk.pdf
 pdf_filename: turker-2026-maxillary-sinus-septa-perforation-risk.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2021-01-01
 doi: 10.1016/j.prosdent.2020.09.020
 source: malament-2021-lithium-disilicate-partial-coverage-109year.md
 category: [inlay]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/malament-2021-lithium-disilicate-partial-coverage-109year.pdf
 pdf_filename: malament-2021-lithium-disilicate-partial-coverage-109year.pdf
 source_collection: external

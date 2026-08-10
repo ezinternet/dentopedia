@@ -1,0 +1,332 @@
+TITLE: Effect of different anticoagulants and antiplatelets on intraoral bleeding time during professional oral hygiene session.
+AUTHORS: Pesce P, et al.
+YEAR: 2024
+DOI: 10.1186/s12903-024-04738-0
+PMID: 39154023
+PMCID: PMC11330009
+============================================================
+Introduction
+
+Individuals with thromboembolic disease, prosthetic valves, or coagulation issues are frequently prescribed anticoagulants and/or antiaggregants. Managing patients undergoing anticoagulation, poses a unique challenge in dental procedures due to the heightened susceptibility to prolonged bleeding []. Oral hygiene procedures on a non-coagulated patient can cause bleeding which can worry both the patient and the operator, especially in the case of procedures such as scaling and root planning.
+
+The probability of experiencing bleeding complications is influenced by the type of anticoagulant and by drug dosage. Over time, two primary types of blood thinners have been commonly employed: antiplatelet medications, such as acetylsalicylic acid, and classical anticoagulants such as warfarin (VKA: vitamin K antagonists). Each of these drugs operates through distinct mechanisms, affecting the coagulation cascade in their unique ways. While acetylsalicylic acid primarily inhibits platelet aggregation, warfarin exerts its anticoagulant effects by interfering with the synthesis of vitamin K-dependent clotting factors.
+
+It is crucial for healthcare providers to carefully consider the patient’s medical history, underlying conditions, and lifestyle factors when selecting an anticoagulant/antiaggregant therapy. A personalized approach helps optimizing the balance between preventing thrombosis and minimizing the risk of bleeding complications. As medical knowledge continues to evolve, ongoing research may reveal even more tailored and effective anticoagulation strategies.
+
+Routine dental procedures or simple tooth extractions generally do not carry a significant risk of bleeding when the international normalized ratio (INR) is < 2.5 [,]. However, dental surgery like dental implantology is increasingly used [,] and there is limited information regarding the combined use of these medications or the utilization of newer oral anticoagulants (NOAC) [].
+
+Since their introduction in 2010, new NOAC such as DTI: direct thrombin inhibitors (dabigatran) AntiXa: directa factor Xa inhibitors (endoxaban, apixaban, rivaroxaban) have gained popularity, especially among older adults, for their advantages over VKA, such as a shorter half-life and the absence of a need for laboratory testing. These newer agents offer a promising alternative to traditional options, often providing more predictable and efficient anticoagulation with fewer dietary restrictions. Two major studies, the Randomized Evaluation of Long-Term Anticoagulation Therapy (RELY) and Apixaban for Reduction in Stroke Other Thromboembolic Events in Atrial Fibrillation (ARISTOTLE), have indicated that the rates of postoperative bleeding following dental procedures are comparable between patients taking warfarin and those taking NOAC [–].
+
+A retrospective study by Rubino et al. [] indicated a minimal occurrence of postoperative bleeding events in individuals undergoing invasive periodontal procedures, irrespective of whether they were on antiplatelet or anticoagulant medications, maintained or discontinued the medication, had a medical comorbidity, or were smokers. Additionally, the study highlighted the need for additional research specifically examining the use of NOAC.
+
+Darvish et al. [] in a recent systematic review examines perioperative bleeding risks in patients on direct oral anticoagulants during oral surgical procedures. A thorough search yielded 11 relevant clinical studies from the past decade. Results varied, with some suggesting minimal complications with new oral anticoagulants use and others finding no significant difference between continuation or discontinuation of the drugs during basic dental procedures. Overall, minor oral surgeries seem safe for patients on new oral anticoagulants therapy, but the debate over whether to continue or discontinue anticoagulants during oral surgeries remains unresolved and warrants further investigation.
+
+Dealing with the effect of antiplatelets and anticoagulants in the oral cavity, some investigators have examined the impact of antiplatelet drugs on bleeding on probing (BOP). In 2002, Schrodi et al. [] evaluated the effect of acetylsalicylic acid in patients without periodontal disease, finding that a dose of 325 mg/day for one week increased the percentage of BOP. Similarly, in 2004, Royzman et al. [] studied patients with gingivitis and found that administering 81 to 325 mg/day of acetylsalicylic acid (Aspirin) for one week significantly increased the percentage of BOP. On the contrary Almiñana-Pastor et al. [] did not find any correlation among the use of anticoagulants and the BOP.
+
+Ivy was the first author to propose a test to evaluate bleeding time. In this method the patient’s arm is positioned at heart level, and a blood pressure cuff is inflated to 40 mmHg. Following alcohol cleansing, a standardized device is used to create a 10 mm long and 1 mm deep incision on the volar forearm. A timer is employed to blot the blood twice a minute, and the timer is stopped when there is no further bleeding after blotting. Time greater than 10 min in the IVY method raise concerns about coagulopathy []. Any abnormalities observed would necessitate further evaluation, with particular attention to the coagulation pathway under consideration. At the moment the International Normalized Ratio (INR) is used to monitor anticoagulant activity in patients assuming VKA. It represents the ratio between prothrombin time (PT) and a standard PT, adjusted for the International Sensitivity Index (ISI). On the contrary, NOAC do not alter or slightly alter routine tests. Specifically used test are: for DTI the suggest test to monitor its efficacy is the diluted Thrombin Time, dTT and the Ecarin Clotting Time, ECT; for the Antixa is the anti–factor Xa assay.
+
+The aim of the present study was to evaluate the bleeding time of patients in therapy with different anticoagulants and antiplatelets adapting the Ivy test to the oral environment. The null hypothesis tested was that no differences existed in bleeding time in patients in therapy with different anticoagulants and antiplatelets.
+
+Materials and methods
+
+The present cross-sectional study was approved by the local ethical committee (CERA 2024/08). Patients were recruited from dental clinics during their professional oral hygiene sessions. They were thoroughly informed about the study protocol, the aim of the investigation, and asked if they were willing to participate. Each patient was recruited after signing a written informed consent.
+
+They had no heavy calculus and were on regular follow-up (biannual dental hygiene maintenance). If they met the selection criteria for the study,
+
+Inclusion criteria were adult patients on regular follow-up, without heavy calculus and without contraindications to the planned oral hygiene procedures, presenting natural teeth or teeth supported restorations, in therapy with any anticoagulant or antiplatelet.
+
+Exclusion criteria were age < 18 years, pregnant or lactating women, myocardial infarct, within the last 6 months, immunosuppression, uncontrolled diabetes, radiation of the head and neck region, periodontitis patients. Completely edentulous patients or patients with implant-supported restorations were excluded.
+
+In addition, a cohort of 16 healthy patients was included as control group.
+
+Patients were asked to rinse the mouth holding for 1 min a chlorhexidine mouthwash []. After that a periodontal calibrated probe (PCP UNC 15, Hu-Friedy) was used to evaluate the gingival bleeding on probing starting from the vestibular side of element 1.6 to 2.6 by an expert operator (DP).
+
+The first site manifesting bleeding underwent bleeding time assessment by adapting the Ivy test. A chronometer was started at the onset of bleeding by another operator (LP), and subsequently, every 15 s, gentle pressure was applied with sterile gauze to facilitate spontaneous hemostasis of the lesion. The timing of bleeding cessation (consisting in the Ivy time) was meticulously recorded.
+
+After that, a professional oral hygiene procedure was performed using ultrasonic mechanical instrumentation (PS – EMS), followed by dental polishing with a paste (Cleanic, Kerr) and a rubber cup by an expert dental hygienist (LP). A scaler was used, if needed, to remove interproximal calculus. The session concluded with motivation for maintaining oral hygiene.
+
+Patients were divided according to the therapy used:
+
+Conventional anticoagulants
+
+VKA: vitamin K antagonists (warfarin, acenocoumarol).
+
+NOAC
+
+DTI: direct thrombin inhibitors (dabigatran).
+
+AntiXa: directa factor Xa inhibitors (endoxaban, apixaban, rivaroxaban).
+
+Antiplatelets
+
+SAPT: single anti-platelet therapy (acetylsalicylic acid or clopidogrel).
+
+DAPT: dual anti-platelet therapy (acetylsalicylic acid and clopidogrel).
+
+Control
+
+No anticoagulants or antiplatelets
+
+Reason for drug use, dosage, time from the last intake and bleeding time – Ivy time (in seconds) were registered using an excell file (Excell, Microsoft Corp.)
+
+Statistical analysis was performed by an operator blinded to the group belonging. We could not assume gaussian distribution of variables due to the small sample size of certain subgroups, therefore non-parametric tests for all analyses were used. Data and plots were reported as medians [interquartile range] if not otherwise stated. Differences between groups were investigated with Kruskal-Wallis test followed by Dunn’s post-hoc correction for multiple comparisons or two-way ANOVA followed by Dunnett post-hoc. Significance was assumed at an alpha level of 0.05.
+
+Results
+
+Ninety-three patients were included in the present research as reported in Table.
+
+Table 1
+
+Demographic information of the included patients. M: men; W: women
+
+Category
+
+Groups
+
+of patients (M/W)
+
+MeanAge (range) in years
+
+Conventional Anticoagulants
+
+VKA
+
+27 (4/23)
+
+62 (35–90)
+
+NOAC
+
+DTI
+
+15 (2/13)
+
+58 (40–83)
+
+NOAC
+
+AntiXa
+
+13 (2/11)
+
+60 (40–91)
+
+Antiplatelet
+
+SAPT
+
+12 (9/3)
+
+56 (40–74)
+
+Antiplatelet
+
+DAPT
+
+12 (12/0)
+
+56 (40–74)
+
+Control
+
+Control
+
+14 (5/9)
+
+49 (20–60)
+
+Reason for drug use is reported in Table. The mean reason for drug intake was atrial fibrillation, the second one was myocardial or cerebral ischemia.
+
+Table 2
+
+Number of patients included in each group, name of the drug used and reason for anticoagulant/antiaggregant therapy
+
+Groups
+
+Drugs (of patients)
+
+Atrial fibrillation
+
+Ischemia
+
+Deep vein thrombosis
+
+Valvulopathy
+
+Others
+
+Conventional Anticoagulants
+
+WARFARIN (24)
+
+ACENOCOUMAROL (4)
+
+11
+
+2
+
+13
+
+2
+
+NOAC
+
+DABIGATRAN (15), APIXABAN (8), RIVAROXABAM (5)
+
+23
+
+4
+
+1
+
+Antiplatelets
+
+CARDIOASPIRIN (9),
+
+CLOPIDOGREL (2)
+
+CARDIOASPIRIN + CLOPIDOGREL (12)
+
+17
+
+2
+
+1
+
+3
+
+TOTAL
+
+34
+
+23
+
+15
+
+3
+
+4
+
+The mean bleeding time for each group is reported in Table.
+
+Table 3
+
+Bleeding mean time and range for each group
+
+DRUG
+
+Bleeding Duration/time
+
+CATEGORY
+
+Group
+
+Mean (seconds)
+
+Range (seconds)
+
+Conventional Anticoagulants
+
+VKA
+
+203
+
+(140–281)
+
+NOAC
+
+DTI
+
+120
+
+(60–155)
+
+AntiXa
+
+98
+
+(74–160)
+
+Antiplatelets
+
+SAPT
+
+105
+
+(50–120)
+
+DAPT
+
+190
+
+(143–240)
+
+Control
+
+50
+
+(39–61)
+
+A statistically significant difference was present among control and DTI (= 0.004), VKA (< 0.001), DAPT (< 0.001) as shown in Fig..
+
+Fig. 1
+
+Bleeding time for each group and statistical significance (seconds)
+
+The median time elapsed from last drug dose was 5 h, therefore patients were further classified in those that took the drug less than 5 h before the procedure versus > = 5 h (Fig.). There were no differences within categories of drugs between patients that took the last dose before or after 5 h from the start of procedure.
+
+Fig. 2
+
+Bleeding time for group divided for time from intake (minutes)
+
+Discussion
+
+Thanks to advances in medical research and new therapeutic strategies, individuals with cardiovascular diseases have now increased life expectancies and the number of adult patients in therapy with anticoagulants and/or antiplatelets seeking for dental care is significantly increased compared to a few decades ago [].
+
+Anticoagulant and antiplatelet medication might constitute a challenge for dentists and dental hygienists since possible prolonged bleeding might interfere with dental procedures. The adaptation of the Ivy test in the oral environment has been successful because this method was able to highlight differences among the groups and significant differences compared to the control group.
+
+The outcomes of the present investigation highlighted a different bleeding time among the groups analyzed. VKA patients presented the longest bleeding period. Patients taking VKA had a bleeding time that was more than 2 times higher than that of healthy subjects with a statistically significant difference.
+
+VKA present challenges due to adverse effects and interactions with certain drugs and foods. Additionally, while their antithrombotic effects typically commence 48–72 h post-administration, the reduction of coagulation factors doesn’t manifest until five days into treatment []. Consequently, the clinical utilization of these medications is complicated by the necessity for meticulous monitoring of their activity. Anticoagulants necessitate precise monitoring and dosage adjustments to achieve the desired therapeutic outcome while minimizing the risks associated with both excessive anticoagulation (leading to increased risk of bleeding) and inadequate anticoagulation (resulting in increased risk of thrombosis).
+
+The principal used VKA are acenocoumarol and warfarin.
+
+Acenocoumarol is a VKA with a relatively short half-life of 8–10 h, it is typically prescribed once daily and in our research induced the longest bleeding time, followed by warfarin.
+
+Warfarin stands as the most prescribed medication for anticoagulation. It boasts an extended duration of action, characterized by a half-life spanning of 48–72 h.
+
+For VKA, the most invasive therapies (surgical) should be performed when the International Normalized Ratio (INR) is below 2.5, ensuring adherence to the therapeutic cardiologic range and avoiding the need to suspend anticoagulant therapy.
+
+When the intake time was analyzed, VKA seemed not to be influenced. Both groups (intake < 5 h or > 5 h) presented a bleeding time of more than 200 s.
+
+NOAC (DTI and AntiXa) analyzed in this research were apixabam, rivaroxabam and dabigatran.
+
+Rivaroxaban and apixabam are administered orally as selective factor Xa inhibitors, boasting close to 100% absorption rates. Although clinical data remain limited, insights into their metabolism and potential drug interactions are primarily derived from nonclinical studies. Routine monitoring is unnecessary for these medications, similar to dabigatran [,].
+
+Dabigatran serves as a potent inhibitor of free thrombin, thrombin bound to fibrin, and platelet aggregation induced by thrombin, effectively preventing thrombus formation. Its primary indication lies in elective total hip or knee replacement surgery, and also in the prevention of stroke and systemic embolism in adults with non-valvular atrial fibrillation []. Notably, it does not necessitate strict monitoring [,,]. Administered orally, the recommended dosage consists of two daily doses of 110 mg. Plasma peak concentrations are typically achieved between 30 min and two hours following administration. With a bioavailability of 5–6%, the half-life after single and multiple dosing spans 8 and 17 h, respectively []. The majority of the drug (80%) is excreted in urine.
+
+In the present investigation among NOAC, patients assuming rivaroxabam presented the longest bleeding period followed by dabigatran and apixaban.
+
+Even though no statistically significant differences were noted, it is interesting to observe a tendency to reduced bleeding time 5 h after drug intake. This suggests that if a patient undergoes surgery in the early hours after medication intake, there is maximum anticoagulation effect, leading to a heightened risk of bleeding. Conversely, if treated shortly before the next dose, the risk is diminished, if not almost negligible. Authors can speculate that the optimal period for surgical treatment of these patients could be 2–3 h before the next dose, without the need to temporarily suspend the medication.
+
+Regarding antiplatelet, the drugs analyzed were Acetylsalicylic acid and clopidogrel.
+
+Acetylsalicylic acid is absorbed in the stomach and reaches the bloodstream within 10 min, attaining peak plasma concentration between 30 and 40 min []. Acetylsalicylic acid functions by deactivating the enzyme cyclo-oxygenase, essential for thromboxane synthesis within platelets, thereby diminishing platelet activation and aggregation []. Conversely, clopidogrel serves as an adenosine diphosphate (ADP) antagonist, exerting its effects by irreversibly blocking the ADP receptor on the platelet membrane, leading to alterations in platelet morphology and decreased aggregation []. Furthermore, dual antiplatelet therapy (DAPT), comprising Acetylsalicylic acid /clopidogrel or Acetylsalicylic acid /P2Y12 inhibitor, is commonly employed in patients with cardiovascular disease. According to guidelines from the American College of Cardiology Foundation and the American Heart Association, DAPT may be recommended for the secondary prevention of acute coronary events and post-stent placement []. Patients taking Acetylsalicylic acid or clopidogrel had almost the same bleeding time, conversely patients taking a combination of the two drugs presented an almost double bleeding time [].
+
+In the present study, during professional oral hygiene procedures, no significant bleeding episodes have been observed in patients taking antiplatelets, even in cases of dual antiplatelet therapy. However, it is crucial to emphasize that local hemostasis was performed using gauze tamponade (a primary and effective measure). Still, the surgeon can enhance it with the use of sutures, local hemostatic drugs, and, if necessary, defined cauterizations.
+
+Similar results suggesting the continuation of the therapy are present in the recent literature. Sandhu et al. [] examined the outcomes of dental extractions in patients who continued oral anticoagulants and oral antiplatelets without discontinuation. Local haemostatic measures were employed, and patients were followed up via telephone clinic. Out of 513 surgical episodes involving 1,001 dental extractions, 95.9% of patients experienced no post-operative bleeding. Only 4.1% reported bleeding requiring further intervention, all managed with local measures and without hospital admission. The study underscores the rarity of significant bleeding complications when oral anticoagulants and oral antiplatelets are continued during dental extractions.
+
+López-Galindo [] in a systematic review compared postoperative bleeding complications in patients undergoing dental extraction under different anticoagulant therapies. Seven studies involving 931 patients on direct oral anticoagulants, vitamin K antagonists, and no anticoagulant therapy were analyzed. Minor bleeding, immediate or delayed, was the most common complication across all groups. These findings suggest that direct oral anticoagulants are safe for dental extractions without requiring therapy alteration. However, further research is needed to assess the necessity of modifying direct oral anticoagulants regimens for dental surgical procedures.
+
+Manfredini et al. [] employing a comprehensive search methodology following PRISMA-ScR guidelines, suggested that altering drug dosage during surgery is not advisable due to the higher risks of thromboembolism from discontinuation outweighing the hemorrhagic risks. The review underscores the importance of maintaining treatment continuity during oral surgery to prevent adverse outcomes.
+
+Several authors have also looked for ways to mitigate the risk of bleeding after oral surgery. Zaib et al. [] assessed the efficacy of local tranexamic acid application in reducing postoperative bleeding risk in dental procedures for anticoagulated patients. They highlight the favorable outcomes of local tranexamic acid application in managing postoperative bleeding in dental procedures for anticoagulated patients, offering valuable insights into potential therapeutic interventions in this context.
+
+Other authors analyzed the use of Autologous Platelet Concentrates or leucocyte-and platelet-rich fibrin (L-PRF) as hemostatic agents. Campana et al. [] in a systematic review aimed to assess the effectiveness of autologous platelet concentrates (APCs) as hemostatic agents following tooth extraction in patients on anticoagulant therapy. The findings suggested that APCs may reduce post-operative bleeding, shorten hemostasis time, alleviate pain, and promote faster wound healing in patients on anticoagulant therapy. Similar results were obtained by Berton et al. [] that in a clinical study assessed L-PRF’s efficacy as a hemostatic agent in patients on VKAs or DOACs undergoing single tooth extraction suggesting that L-PRF can be safely used in such patients, minimizing bleeding risk and facilitating smooth post-operative outcomes.
+
+Limits of the present research must be acknowledged. First of all, a power analysis was not conducted as no similar studies were found in the scientific literature. Secondarily, periodontal health parameters including bleeding on probing, probing depth or plaque index were not recorded, even if it must be reported that all the patients were included in a strict follow-up recall regimen and were evaluated at the time of their biannual professional oral hygiene session.
+
+Conclusions
+
+Based on the present outcomes, an increased risk of prolonged bleeding emerged in patients taking VKA and DAPT. However, the bleeding did not interfere with the oral hygiene session. The optimal period for dental treatment of these patients should be 2–3 h before the next dose, without the need to temporarily suspend the medication. The Ivy test, adapted for the oral environment, could be successfully used to evaluate patients’ bleeding time.

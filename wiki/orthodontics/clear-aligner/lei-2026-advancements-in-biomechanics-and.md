@@ -6,7 +6,7 @@ date: 2026-02-01
 doi: 10.7518/hxkq.2025.2025379
 source: lei-2026-advancements-in-biomechanics-and.md
 category: [orthodontics/clear-aligner]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/lei-2026-advancements-in-biomechanics-and.pdf
 pdf_filename: lei-2026-advancements-in-biomechanics-and.pdf
 source_collection: external

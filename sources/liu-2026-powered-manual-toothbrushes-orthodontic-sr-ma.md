@@ -15,7 +15,7 @@ text_filename: liu-2026-powered-manual-toothbrushes-orthodontic-sr-ma.txt
 
 ## Why Ingested
 
-New 2026 SR+MA (European Journal of Orthodontics, search to Nov 2025) settling whether powered toothbrushes (PTBs) beat manual (MTBs) for plaque/gingivitis control specifically in fixed-appliance orthodontic patients — a population at high plaque-retention risk where four prior SRs (last updated 2021) gave conflicting verdicts. Extends the wiki's plaque-control evidence in [[periodontics/jo-2008-management-of-dental-biofilm-through]] from professional-care biofilm management to the home-care toothbrush-type question in the orthodontic context, and pairs with the OTM-periodontium biology in [[orthodontics/li-2021-periodontium-orthodontic-tooth-movement-biomechanics]] (why FA plaque control matters for periodontal stability during tooth movement). According to PubMed; DOI: https://doi.org/10.1093/ejo/cjag026
+New 2026 SR+MA (European Journal of Orthodontics, search to Nov 2025) settling whether powered toothbrushes (PTBs) beat manual (MTBs) for plaque/gingivitis control specifically in fixed-appliance orthodontic patients — a population at high plaque-retention risk where four prior SRs (last updated 2021) gave conflicting verdicts. Extends the wiki's plaque-control evidence in [[periodontics/oral-hygiene-instruction/jo-2008-management-of-dental-biofilm-through]] from professional-care biofilm management to the home-care toothbrush-type question in the orthodontic context, and pairs with the OTM-periodontium biology in [[orthodontics/li-2021-periodontium-orthodontic-tooth-movement-biomechanics]] (why FA plaque control matters for periodontal stability during tooth movement). According to PubMed; DOI: https://doi.org/10.1093/ejo/cjag026
 
 ## Three-line Summary
 
@@ -81,7 +81,7 @@ SR+MA (23편 / 39비교, 고정성 교정장치 환자): 전동칫솔(PTB)이 �
 
 ## 6. Related Work
 
-- [[periodontics/jo-2008-management-of-dental-biofilm-through]] — biofilm/plaque control via professional care; this SR addresses the home-care toothbrush-type axis of plaque control.
+- [[periodontics/oral-hygiene-instruction/jo-2008-management-of-dental-biofilm-through]] — biofilm/plaque control via professional care; this SR addresses the home-care toothbrush-type axis of plaque control.
 - [[orthodontics/li-2021-periodontium-orthodontic-tooth-movement-biomechanics]] — periodontium biology during OTM; motivates why FA-patient plaque control matters for periodontal stability.
 
 ## 7. Glossary

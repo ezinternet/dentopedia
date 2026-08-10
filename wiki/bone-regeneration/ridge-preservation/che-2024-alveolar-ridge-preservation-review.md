@@ -6,7 +6,7 @@ date: 2024-08-01
 doi: 10.22974/jkda.2024.62.8.001
 source: che-2024-alveolar-ridge-preservation-review.md
 category: [bone-regeneration/ridge-preservation]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/che-2024-alveolar-ridge-preservation-review.pdf
 pdf_filename: che-2024-alveolar-ridge-preservation-review.pdf
 source_collection: external

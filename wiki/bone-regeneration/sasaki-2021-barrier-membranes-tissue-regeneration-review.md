@@ -6,7 +6,7 @@ date: 2021-05-29
 doi: 10.1080/26415275.2021.1925556
 source: sasaki-2021-barrier-membranes-tissue-regeneration-review.md
 category: [bone-regeneration]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/sasaki-2021-barrier-membranes-tissue-regeneration-review.pdf
 pdf_filename: sasaki-2021-barrier-membranes-tissue-regeneration-review.pdf
 source_collection: external

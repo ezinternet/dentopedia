@@ -6,7 +6,7 @@ date: 2026-01-01
 doi: 10.1111/clr.70106
 source: araujo-2026-buccal-gap-width-alveolar-reduction-iip-cbct.md
 category: [immediate-implant/esthetic-soft-tissue]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 full_text: true
 pmid: "41823398"

@@ -6,7 +6,7 @@ date: 2021-09-15
 doi: 10.5051/jpis.2007100355
 source: pickert-2022-cbct-evaluation-dimensional-hard-tissue.md
 category: [bone-regeneration/ridge-preservation]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/pickert-2022-cbct-evaluation-dimensional-hard-tissue.pdf
 pdf_filename: pickert-2022-cbct-evaluation-dimensional-hard-tissue.pdf
 source_collection: external

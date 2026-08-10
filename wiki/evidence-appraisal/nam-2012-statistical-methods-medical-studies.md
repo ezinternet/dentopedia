@@ -6,7 +6,7 @@ date: 2012-06-01
 doi: 10.5124/jkma.2012.55.6.573
 source: nam-2012-statistical-methods-medical-studies.md
 category: evidence-appraisal
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/nam-2012-statistical-methods-medical-studies.pdf
 pdf_filename: nam-2012-statistical-methods-medical-studies.pdf
 source_collection: external

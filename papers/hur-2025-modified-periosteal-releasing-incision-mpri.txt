@@ -1,0 +1,26 @@
+SOURCE: PubMed abstract (full text not retrieved — no PMC; abstract-only)
+PMID: 39701124 | DOI: 10.1563/aaid-joi-D-24-00118
+Hur Y, Lee P, Ogata Y, Jeong YN, Sohn DS.
+"Modified Periosteal Releasing Incision (MPRI) for Primary Closure: Visualization of the Mental Nerve."
+J Oral Implantol. 2025 Feb 1;51(1):21-26.
+
+Authors' affiliations (per journal record): Yong Hur, Po Lee, Yumi Ogata, Y Natalie Jeong — Department of
+Periodontology, Tufts University School of Dental Medicine, Boston, MA; Dong-Seok Sohn — Department of
+Dentistry and Oral and Maxillofacial Surgery, Catholic University Hospital of Daegu, Republic of Korea.
+
+== ABSTRACT (full) ==
+Periodontal surgery often requires flap advancement for adequate coverage of the surgical site with
+tension-free primary closure essential for successful outcomes. Although the periosteal releasing
+incision is frequently performed, it may necessitate deeper or more incisions, which could result in
+consequences such as edema, bleeding, paresthesia, and discomfort for the patient. To address these
+issues, the modified periosteal releasing incision was proposed to minimize trauma into the submucosa.
+In this paper, we update the technique, emphasizing its application in visualizing the mental nerve to
+avoid nerve damage during significant flap advancement in the posterior mandible. The technique provides
+an alternative approach to traditional techniques, ensuring patient safety and improving surgical
+outcomes. Future research is needed to explore its benefits and applications in various clinical
+scenarios.
+
+Study type: Technique description / technical note. No patient-level n, outcome measures, complication
+counts, or statistical data are reported in the abstract — this is a technique-rationale/update paper,
+not an efficacy study. Article type per PubMed: Journal Article (not indexed as an RCT).
+MeSH: not retrieved (abstract-only ingestion; full PubMed record not fetched).

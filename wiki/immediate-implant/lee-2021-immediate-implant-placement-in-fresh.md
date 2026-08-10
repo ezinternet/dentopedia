@@ -5,7 +5,7 @@ year: 2021
 doi: 10.5125/jkaoms.2021.47.1.57
 date: 2021-01-01
 source: lee-2021-immediate-implant-placement-in-fresh.md
-confidence: narrative-review
+evidence_level: narrative-review
 category: immediate-implant
 pdf_path: /Users/oracleneo/llm-wiki/papers/lee-2021-immediate-implant-placement-in-fresh.pdf
 pdf_filename: lee-2021-immediate-implant-placement-in-fresh.pdf
@@ -172,4 +172,4 @@ Tooth extraction candidate
 **Clinical Opinion/Case-Based Series** — Establishes feasibility and timing benefits; lacks prospective randomized comparison with delayed placement for outcome equivalence
 
 ---
-**Related**: [[immediate-implant/kim-2016-immediately-placed-implant-without-primary]] | [[implants/isq/oh-2008-comparison-of-initial-implant-stability]]
+**Related**: [[immediate-implant/primary-stability/kim-2016-immediately-placed-implant-without-primary]] | [[implants/isq/oh-2008-comparison-of-initial-implant-stability]]

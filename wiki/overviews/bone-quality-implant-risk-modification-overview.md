@@ -6,24 +6,24 @@ date: 2026-07-10
 doi: N/A
 source: synthesis
 category: [overviews]
-confidence: synthesis
+evidence_level: synthesis
 pdf_path: N/A
 pdf_filename: N/A
 source_collection: synthesis
 tags: [bone-quality, bone-density, lekholm-zarb, misch-d1-d4, type-iv-bone, primary-stability, osteoporosis, osteosclerosis, low-density-bone, overview, aging, inflammaging, osteoanabolic, teriparatide]
 source_papers:
-  - wiki/implants/kindaro-2026-parathyroid-hormone-implant-osseointegration-osteoporosis-sr.md
+  - wiki/implants/survival/kindaro-2026-parathyroid-hormone-implant-osseointegration-osteoporosis-sr.md
   - wiki/bone-biology/issa-2026-bone-biology-aging-periodontal-peri-implant-tissues.md
   - wiki/implants/rosa-2024-do-dental-implants-bone-types.md
   - wiki/implants/raghavan-2025-bone-density-implant-dentistry-review.md
-  - wiki/implants/di-stefano-2021-stability-dental-implants-cortical-bone.md
+  - wiki/implants/isq/di-stefano-2021-stability-dental-implants-cortical-bone.md
   - wiki/implants/premnath-2012-stress-distribution-bone-density-fea.md
   - wiki/implants/isq/stoilov-2023-macrodesign-length-diameter-bone-quality-isq.md
   - wiki/implants/isq/chatvaratthana-2017-cortical-bone-crestal-buccolingual-isq.md
   - wiki/implants/isq/canullo-2024-bioactive-surface-poor-bone-isq-stability.md
-  - wiki/implants/mello-machado-2021-osseodensification-low-quality-bone-rct.md
+  - wiki/implants/osseodensification/mello-machado-2021-osseodensification-low-quality-bone-rct.md
   - wiki/implants/munjal-2015-implants-low-density-bone-d3d4.md
-  - wiki/implants/kim-2026-dental-implant-osteoporosis-osteosclerosis.md
+  - wiki/implants/survival/kim-2026-dental-implant-osteoporosis-osteosclerosis.md
   - wiki/implants/khaohoen-2023-biomaterials-dental-implants-bone-density-narrative-review.md
 relations:
   - type: extends
@@ -32,7 +32,7 @@ relations:
     target: issa-2026-bone-biology-aging-periodontal-peri-implant-tissues
   - type: extends
     target: rosa-2024-do-dental-implants-bone-types
-  - type: reinforces
+  - type: refines
     target: raghavan-2025-bone-density-implant-dentistry-review
   - type: reinforces
     target: khaohoen-2023-biomaterials-dental-implants-bone-density-narrative-review
@@ -80,10 +80,10 @@ The clinical question this page answers: **"Given this bone quality, what is the
 
 Best-evidence bottom line:
 
-1. **Type IV (low-density, thin cortical, posterior maxilla) is an independent failure risk factor; types I/II are equivalent and type III intermediate.** — Rosa 2024 SR+MA (49 studies, 29,905 implants). [근거강함]
-2. **Stability is a cortical-engagement phenomenon: crestal cortical thickness is the strongest ISQ predictor; deep cancellous bone does not substitute.** — Chatvaratthana 2017 (CBCT prospective), Di Stefano 2021 SR (13 studies). The SR-level synthesis by Al-Juboori (2024) independently confirms thicker cortical bone raises both primary and secondary stability (higher insertion torque and ISQ), and the mechanistic floor under all of this is the Nkenke (2003) human-cadaver study (48 stepped-cylinder implants), which correlated primary stability directly with CT bone mineral density and histomorphometry. [합의수준]
-3. **In soft bone the modification levers (under-drilling, tapered macro-design, diameter > length, osseodensification, bioactive surface, delayed loading) converge toward preserving/creating primary stability** — and macro-design differences attenuate in soft foam, so drilling protocol matters *more*, not less. — Stoilov 2023, Premnath 2012, Mello-Machado 2021, Canullo 2024. [합의수준~claude해석] Khaohoen (2023), a 119-article narrative review, frames these as three jointly-acting axes — **material × design × surgical technique** — and stresses that in D3/D4 *no single factor suffices*: material choice, optimized geometry, and an appropriate technique must be combined to secure primary stability and osseointegration. [합의수준]
-4. **Systemic and pathologic bone is the same axis extended in time and biology**: osteoporosis is healthy-comparable short-term but declines long-term (82.6–94.1% at 5–10y); osteosclerotic lesions add overheating/intralesional-failure risk. — Kim 2026 narrative review. [합의수준]
+1. **Type IV (low-density, thin cortical, posterior maxilla) is an independent failure risk factor; types I/II are equivalent and type III intermediate.** — Rosa 2024 SR+MA (49 studies, 29,905 implants). [확인]
+2. **Stability is a cortical-engagement phenomenon: crestal cortical thickness is the strongest ISQ predictor; deep cancellous bone does not substitute.** — Chatvaratthana 2017 (CBCT prospective), Di Stefano 2021 SR (13 studies). The SR-level synthesis by Al-Juboori (2024) independently confirms thicker cortical bone raises both primary and secondary stability (higher insertion torque and ISQ), and the mechanistic floor under all of this is the Nkenke (2003) human-cadaver study (48 stepped-cylinder implants), which correlated primary stability directly with CT bone mineral density and histomorphometry. [확인]
+3. **In soft bone the modification levers (under-drilling, tapered macro-design, diameter > length, osseodensification, bioactive surface, delayed loading) converge toward preserving/creating primary stability** — and macro-design differences attenuate in soft foam, so drilling protocol matters *more*, not less. — Stoilov 2023, Premnath 2012, Mello-Machado 2021, Canullo 2024. [미검증] Khaohoen (2023), a 119-article narrative review, frames these as three jointly-acting axes — **material × design × surgical technique** — and stresses that in D3/D4 *no single factor suffices*: material choice, optimized geometry, and an appropriate technique must be combined to secure primary stability and osseointegration. [확인]
+4. **Systemic and pathologic bone is the same axis extended in time and biology**: osteoporosis is healthy-comparable short-term but declines long-term (82.6–94.1% at 5–10y); osteosclerotic lesions add overheating/intralesional-failure risk. — Kim 2026 narrative review. [확인]
 
 The classification-to-protocol map is set out by Raghavan (2025), which ties Misch D1–D4 to CBCT Hounsfield-unit ranges (D1 >1250, D2 850–1250, D3 350–850, D4 150–350 HU) and prescribes undersized osteotomy + extended healing for D3/D4 and significant modification (including osseodensification) for D4. The four modification levers below are not equally well-evidenced: El-Kholey (2019), an SR of 15 studies, found that undersized, osteotome, Piezosurgery, and osseodensification drilling all raise primary stability in low-density bone, yet long-term survival was comparable to conventional drilling and the supporting evidence was graded weak — primary-stability gain should not be read as a survival proxy.
 
@@ -91,17 +91,17 @@ The classification-to-protocol map is set out by Raghavan (2025), which ties Mis
 
 | Paper | Design | Bone-quality role | Key finding | Confidence |
 |---|---|---|---|---|
-| [[implants/rosa-2024-do-dental-implants-bone-types]] | sr+ma (49 studies, 29,905 impl) | Risk stratification (Lekholm-Zarb) | Type IV ↓ survival (~1.5–1.9× failure); I=II; ISQ IV 58–65 vs I 72–80 | [근거강함] |
-| [[implants/di-stefano-2021-stability-dental-implants-cortical-bone]] | sr (13 studies) | Cortical thickness → stability | Thicker cortex → ↑ISQ/IT; bicortical = highest; MBL link inconclusive | [합의수준] |
-| [[implants/isq/chatvaratthana-2017-cortical-bone-crestal-buccolingual-isq]] | prospective | Pre-op predictor | Crestal cortical thickness = strongest ISQ predictor; thin cortex → plan delayed loading | [합의수준] |
-| [[implants/raghavan-2025-bone-density-implant-dentistry-review]] | narrative | Classification + protocol map | Misch D1–D4, CBCT HU; under-drill D3/D4, modify healing, design selection | [합의수준] |
-| [[implants/isq/stoilov-2023-macrodesign-length-diameter-bone-quality-isq]] | in-vitro | Macro-design × density | Diameter > length for ISQ; tapered superior; soft bone → drilling protocol critical | [claude해석] |
-| [[implants/premnath-2012-stress-distribution-bone-density-fea]] | in-vitro (FEA) | Stress × density | Peak stress at crestal neck; D3/D4 favors cylindrical; threaded > cylindrical stress | [claude해석] |
-| [[implants/mello-machado-2021-osseodensification-low-quality-bone-rct]] | rct (16 pts/55 impl) | Soft-bone drilling lever | OD vs conventional: IT 39 vs 32 Ncm (p<.001), ISQ equivalent, survival equal at 6mo | [근거강함(소표본)] |
-| [[implants/isq/canullo-2024-bioactive-surface-poor-bone-isq-stability]] | prospective | Soft-bone surface lever | In poor bone, bioactive surface avoids the T30/T45 ISQ dip → enables 45-day loading | [합의수준] |
-| [[implants/munjal-2015-implants-low-density-bone-d3d4]] | prospective (n=14) | D3/D4 outcome | 92.3% survival at 12mo, MBL not significant | [claude해석(소표본)] |
-| [[implants/kim-2026-dental-implant-osteoporosis-osteosclerosis]] | narrative-review (30 studies) | Systemic/pathologic extension | Osteoporosis short 97.9–100% → long 82.6–94.1%; sclerotic lesion-dependent | [합의수준] |
-| [[implants/khaohoen-2023-biomaterials-dental-implants-bone-density-narrative-review]] | narrative-review (119 articles) | Material × design × technique × density | D4 88.8% survival vs D-I 97.6%; low-density geometry guideline (conical, Ø≥4 mm, reverse-buttress, small pitch, deep thread); Ti gold standard, PEEK ↓stress-shielding but ↓BIC, zirconia LTD; rough-surface survives better in soft bone (97.1%) | [합의수준] |
+| [[implants/rosa-2024-do-dental-implants-bone-types]] | sr+ma (49 studies, 29,905 impl) | Risk stratification (Lekholm-Zarb) | Type IV ↓ survival (~1.5–1.9× failure); I=II; ISQ IV 58–65 vs I 72–80 | [확인] |
+| [[implants/isq/di-stefano-2021-stability-dental-implants-cortical-bone]] | sr (13 studies) | Cortical thickness → stability | Thicker cortex → ↑ISQ/IT; bicortical = highest; MBL link inconclusive | [확인] |
+| [[implants/isq/chatvaratthana-2017-cortical-bone-crestal-buccolingual-isq]] | prospective | Pre-op predictor | Crestal cortical thickness = strongest ISQ predictor; thin cortex → plan delayed loading | [확인] |
+| [[implants/raghavan-2025-bone-density-implant-dentistry-review]] | narrative | Classification + protocol map | Misch D1–D4, CBCT HU; under-drill D3/D4, modify healing, design selection | [확인] |
+| [[implants/isq/stoilov-2023-macrodesign-length-diameter-bone-quality-isq]] | in-vitro | Macro-design × density | Diameter > length for ISQ; tapered superior; soft bone → drilling protocol critical | [미검증] |
+| [[implants/premnath-2012-stress-distribution-bone-density-fea]] | in-vitro (FEA) | Stress × density | Peak stress at crestal neck; D3/D4 favors cylindrical; threaded > cylindrical stress | [미검증] |
+| [[implants/osseodensification/mello-machado-2021-osseodensification-low-quality-bone-rct]] | rct (16 pts/55 impl) | Soft-bone drilling lever | OD vs conventional: IT 39 vs 32 Ncm (p<.001), ISQ equivalent, survival equal at 6mo | [확인(소표본)] |
+| [[implants/isq/canullo-2024-bioactive-surface-poor-bone-isq-stability]] | prospective | Soft-bone surface lever | In poor bone, bioactive surface avoids the T30/T45 ISQ dip → enables 45-day loading | [확인] |
+| [[implants/munjal-2015-implants-low-density-bone-d3d4]] | prospective (n=14) | D3/D4 outcome | 92.3% survival at 12mo, MBL not significant | [미검증(소표본)] |
+| [[implants/survival/kim-2026-dental-implant-osteoporosis-osteosclerosis]] | narrative-review (30 studies) | Systemic/pathologic extension | Osteoporosis short 97.9–100% → long 82.6–94.1%; sclerotic lesion-dependent | [확인] |
+| [[implants/khaohoen-2023-biomaterials-dental-implants-bone-density-narrative-review]] | narrative-review (119 articles) | Material × design × technique × density | D4 88.8% survival vs D-I 97.6%; low-density geometry guideline (conical, Ø≥4 mm, reverse-buttress, small pitch, deep thread); Ti gold standard, PEEK ↓stress-shielding but ↓BIC, zirconia LTD; rough-surface survives better in soft bone (97.1%) | [확인] |
 
 ## Reference — two classifications in use
 
@@ -112,31 +112,31 @@ The classification-to-protocol map is set out by Raghavan (2025), which ties Mis
 | D3 | III | Thin cortical + fine trabecular | 70–75 | Anterior maxilla / posterior mandible |
 | D4 | IV | Thin cortical + sparse trabecular | 58–65 | **Posterior maxilla** |
 
-ISQ bands from Rosa 2024; the two systems are not a perfect 1:1 map (Misch is density/HU-oriented, Lekholm-Zarb is cortical/trabecular morphology) — use whichever the source uses and do not over-convert. [claude해석]
+ISQ bands from Rosa 2024; the two systems are not a perfect 1:1 map (Misch is density/HU-oriented, Lekholm-Zarb is cortical/trabecular morphology) — use whichever the source uses and do not over-convert. [미검증]
 
 ## Clinical Decision Points — modification ladder by tier
 
 **Dense bone (D1 / type I–II)**
 - Risk: overheating during osteotomy, stress-shielding, low vascularity. Premnath FEA: highest crestal stress with threaded design.
-- Modify: full (or slightly under-) drilling is *not* needed — avoid over-compression; copious irrigation, sharp drills, consider two-stage to manage heat. Survival is the reference standard (I = II). [합의수준]
+- Modify: full (or slightly under-) drilling is *not* needed — avoid over-compression; copious irrigation, sharp drills, consider two-stage to manage heat. Survival is the reference standard (I = II). [확인]
 
 **Intermediate (D3 / type III)**
 - Risk: moderate primary-stability shortfall.
-- Modify: tapered design, slight under-preparation, ISQ check before deciding loading timing. [합의수준]
+- Modify: tapered design, slight under-preparation, ISQ check before deciding loading timing. [확인]
 
 **Soft bone (D4 / type IV — posterior maxilla)** — the high-risk tier
 - Risk: low primary stability, ~1.5–1.9× failure (Rosa 2024); thin crestal cortex predicts low ISQ (Chatvaratthana 2017). Survival drops with density: D-I 97.6% → D-II 96.2% → D-III 96.5% → **D-IV 88.8%** (Khaohoen 2023).
 - Modify (stackable levers):
   - *Material*: titanium (cpTi E≈104 GPa, Ti-6Al-4V ≈110 GPa, Ti-Zr/Roxolid ≈96 GPa) remains the gold standard. PEEK (E≈3–4 GPa, bone-like) lowers stress-shielding but has inferior osseointegration (lower BIC, less osteoblast differentiation); zirconia (1-piece ~95%, 2-piece not recommended; Ø should exceed 3.25 mm) is esthetic/metal-free but subject to low-temperature degradation (aging). Rough-surface implants survive better than machined in low-density bone (97.1%) (Khaohoen 2023).
   - *Drilling*: under-preparation / osseodensification — Mello-Machado RCT shows OD raises IT (39 vs 32 Ncm) with equivalent ISQ and 6-mo survival; macro-design differences attenuate in soft bone, so protocol dominates (Stoilov 2023). Undersizing is a titratable lever, not a binary: Di Stefano (2018), on bovine ribs, showed the intra-operative torque-depth integral tracks bone-to-implant contact and primary stability with a linear undersizing→stability relation, so the osteotomy can be tuned to a target stability. Tabassum (2021), a goat-cadaver study (44 implants), decomposed compression into lateral (undersized diameter) and axial (under-depth) vectors — both independently raised insertion torque, and undersized diameter drove the %BIC gain. But there is a density floor: Gehrke (2021), an in-vitro polyurethane study (120 implants), found undersized osteotomy improved stability only in the denser PCF-20 blocks and failed to rescue the lowest-density PCF-10 — drilling modification alone cannot secure the very softest bone.
-  - *Macro-design*: tapered, prioritize **diameter over length** (Stoilov 2023). Khaohoen (2023) gives a concrete low-density geometry recipe: conical shape, diameter ≥4 mm, length 9–11 mm, reverse-buttress/self-tapping threads, pitch lower than standard, and thread depth higher than standard (a hybrid apical-conical + crestal-cylindrical body gave the highest primary stability). The narrative review by Heimes (2023) frames diameter, conical/tapered shape, thread design, and surface roughness as the controllable macrogeometry levers that increase bone-contact area, most valuable precisely when bone quality is poor and site preparation alone is insufficient — and Gehrke (2021) adds that healing-chamber macrogeometry retains more surface bone after pullout, a complementary lever to drilling. FEA favors cylindrical for stress in D3/D4 (Premnath 2012) — note this conflicts with the clinical primary-stability preference for tapered; FEA optimizes stress distribution, clinical data optimizes initial fixation. [claude해석/미검증]
+  - *Macro-design*: tapered, prioritize **diameter over length** (Stoilov 2023). Khaohoen (2023) gives a concrete low-density geometry recipe: conical shape, diameter ≥4 mm, length 9–11 mm, reverse-buttress/self-tapping threads, pitch lower than standard, and thread depth higher than standard (a hybrid apical-conical + crestal-cylindrical body gave the highest primary stability). The narrative review by Heimes (2023) frames diameter, conical/tapered shape, thread design, and surface roughness as the controllable macrogeometry levers that increase bone-contact area, most valuable precisely when bone quality is poor and site preparation alone is insufficient — and Gehrke (2021) adds that healing-chamber macrogeometry retains more surface bone after pullout, a complementary lever to drilling. FEA favors cylindrical for stress in D3/D4 (Premnath 2012) — note this conflicts with the clinical primary-stability preference for tapered; FEA optimizes stress distribution, clinical data optimizes initial fixation. [미검증]
   - *Surface*: bioactive/hydrophilic surface avoids the early ISQ dip and can permit 45-day loading (Canullo 2024).
   - *Loading*: thin crestal cortex / low ISQ → default to delayed loading; do not force early loading on ISQ < ~65 (cross-ref [[overviews/implants-isq-stability-ladder]]).
 
 **Systemic / pathologic bone (extends the axis)**
-- *Osteoporosis* (systemic low turnover/density): short-term survival healthy-comparable but long-term decline to 82.6–94.1% (5–10y) with greater MBL → long-term follow-up is the lever; oral bisphosphonates not a contraindication, drug holiday only high-risk (see [[overviews/drug-mronj-antiresorptive-overview]]). [합의수준]
-- *Osteosclerotic lesions* (focal high density): overheating + intralesional-placement failure; florid COD 66.7% vs localized 100%; condensing osteitis / idiopathic osteosclerosis OK when stable; cementoblastoma needs resection first; hypercementosis fails on residual tissue (Kim 2026). Two-stage placement + careful drilling. [합의수준]
-- *Aging* (the time axis the D1–D4 grid cannot see): Issa 2026 assembles the mechanism — AGE crosslinks up to 10× higher with roughly 80% loss of bone strength between age 20 and 80, inflammaging plus cellular senescence (3× more senescent cells in aged mice; SA-β-gal⁺ periodontal ligament cells drive horizontal bone loss), immunosenescence (blunted neutrophil phagocytosis/NETs, M1-shifted macrophages, Th1/Th17 expansion), osteocyte TGF-β dysregulation, and osteoprogenitor exhaustion with an osteogenesis→adipogenesis shift (RANKL↑, OPG↓). Parabiosis and chimera experiments show the aged *immune milieu itself* impairs bone repair. The clinical translation is deliberately modest: **chronological age alone is not a contraindication** to implants or regeneration — but the effect of aging on alveolar-bone healing and osseointegration specifically is largely unstudied, and osteoporosis' effect on peri-implant bone remains unresolved. Treat age as a reason to widen the healing margin and lengthen follow-up, not as a reason to decline. [narrative-review; 기전 근거강함, 임상 번역 미검증]
+- *Osteoporosis* (systemic low turnover/density): short-term survival healthy-comparable but long-term decline to 82.6–94.1% (5–10y) with greater MBL → long-term follow-up is the lever; oral bisphosphonates not a contraindication, drug holiday only high-risk (see [[overviews/drug-mronj-antiresorptive-overview]]). [확인]
+- *Osteosclerotic lesions* (focal high density): overheating + intralesional-placement failure; florid COD 66.7% vs localized 100%; condensing osteitis / idiopathic osteosclerosis OK when stable; cementoblastoma needs resection first; hypercementosis fails on residual tissue (Kim 2026). Two-stage placement + careful drilling. [확인]
+- *Aging* (the time axis the D1–D4 grid cannot see): Issa 2026 assembles the mechanism — AGE crosslinks up to 10× higher with roughly 80% loss of bone strength between age 20 and 80, inflammaging plus cellular senescence (3× more senescent cells in aged mice; SA-β-gal⁺ periodontal ligament cells drive horizontal bone loss), immunosenescence (blunted neutrophil phagocytosis/NETs, M1-shifted macrophages, Th1/Th17 expansion), osteocyte TGF-β dysregulation, and osteoprogenitor exhaustion with an osteogenesis→adipogenesis shift (RANKL↑, OPG↓). Parabiosis and chimera experiments show the aged *immune milieu itself* impairs bone repair. The clinical translation is deliberately modest: **chronological age alone is not a contraindication** to implants or regeneration — but the effect of aging on alveolar-bone healing and osseointegration specifically is largely unstudied, and osteoporosis' effect on peri-implant bone remains unresolved. Treat age as a reason to widen the healing margin and lengthen follow-up, not as a reason to decline. [narrative-review; 기전 확인, 임상 번역 미검증]
 
 **Pharmacologic modification of bone quality — the lever that does not exist yet**
 The four levers above (drilling, macro-design, surface, loading) all modify the *implant–site interaction*. A fifth lever would modify the *bone itself*. **Kindaro 2026** (systematic review, 12 preclinical studies, osteoporotic rat/rabbit models) is the wiki's first page on that possibility: intermittent parathyroid hormone (PTH 1–34 / teriparatide), an osteoanabolic agent, consistently raised bone-to-implant contact, BV/TV, and removal torque versus osteoporotic controls, with thicker trabeculae and lower porosity. Pre-operative dosing outperformed a short 1-week post-operative course; local delivery (PTH-functionalised bioglass) restored BIC and biomechanical stability to healthy-animal levels; and combinations — PTH + vitamin D, PTH + raloxifene (anabolic plus antiresorptive), PTH + low-magnitude high-frequency loading — consistently beat monotherapy.
@@ -145,11 +145,11 @@ The reason this is *not* a clinical recommendation must be stated as plainly as 
 
 ## Misconception patterns
 
-- "More cancellous bone depth compensates for thin cortex." — No: 6–9 mm deep cancellous bone does not substitute for crestal cortical engagement (Chatvaratthana 2017). [합의수준]
-- "Longer implant fixes soft bone." — Diameter beats length for ISQ in soft bone (Stoilov 2023). [claude해석]
-- "Osseodensification guarantees better outcomes in D4." — It raises insertion torque, but ISQ (more correlated with osseointegration) was equal to conventional; survival equal at 6 mo on a 16-patient RCT (Mello-Machado 2021). Treat as a stability-preservation option, not a survival upgrade. [근거강함(소표본)]
-- "Osteoporosis = high implant failure." — Short-term comparable to healthy; the risk is long-term and bone-quality-driven, separate from drug/MRONJ risk (Kim 2026). [합의수준]
-- "Old age is itself a contraindication / a bone-quality diagnosis." — No. Issa 2026 concludes increased age alone does not contraindicate implants or regeneration; the aging effect on osseointegration specifically has barely been studied. Age raises biological plausibility of impaired healing, not a measured risk figure. [합의수준]
+- "More cancellous bone depth compensates for thin cortex." — No: 6–9 mm deep cancellous bone does not substitute for crestal cortical engagement (Chatvaratthana 2017). [확인]
+- "Longer implant fixes soft bone." — Diameter beats length for ISQ in soft bone (Stoilov 2023). [미검증]
+- "Osseodensification guarantees better outcomes in D4." — It raises insertion torque, but ISQ (more correlated with osseointegration) was equal to conventional; survival equal at 6 mo on a 16-patient RCT (Mello-Machado 2021). Treat as a stability-preservation option, not a survival upgrade. [확인(소표본)]
+- "Osteoporosis = high implant failure." — Short-term comparable to healthy; the risk is long-term and bone-quality-driven, separate from drug/MRONJ risk (Kim 2026). [확인]
+- "Old age is itself a contraindication / a bone-quality diagnosis." — No. Issa 2026 concludes increased age alone does not contraindicate implants or regeneration; the aging effect on osseointegration specifically has barely been studied. Age raises biological plausibility of impaired healing, not a measured risk figure. [확인]
 - "Teriparatide/PTH can be used to improve osseointegration in osteoporotic patients." — Not supported. Every study in Kindaro 2026 is an animal model; no human data exist. The consistent preclinical BIC/removal-torque gains are a hypothesis, and prescribing on them would invert the evidence hierarchy this wiki runs on. [미검증]
 
 ## Gaps & Future Research
@@ -177,14 +177,14 @@ Supporting papers added 2026-06-10 (determinant evidence across the four modific
 
 - [[implants/isq/al-juboori-2024-cortical-thickness-implant-stability-sr]] — SR: thicker cortical bone → higher IT/ISQ (primary + secondary stability); confirms cortical-thickness-dominance thesis.
 - [[implants/isq/nkenke-2003-implant-stability-histomorphometry-cadaver-correlation]] — cadaver: primary stability correlates with CT bone mineral density + histomorphometry (mechanistic anchor).
-- [[implants/heimes-2023-macrogeometry-primary-stability-implants-narrative-review]] — narrative review: macro-design (diameter/taper/thread/surface) as the design lever.
+- [[implants/isq/heimes-2023-macrogeometry-primary-stability-implants-narrative-review]] — narrative review: macro-design (diameter/taper/thread/surface) as the design lever.
 
 Supporting papers added 2026-07-10 (the pharmacologic lever and the aging axis):
 
-- [[implants/kindaro-2026-parathyroid-hormone-implant-osseointegration-osteoporosis-sr]] — SR of 12 preclinical studies: intermittent PTH/teriparatide raises BIC, BV/TV, and removal torque in osteoporotic animals; combination > monotherapy; **animal-only, no human data**, 7/12 high risk of blinding bias. The osteoanabolic counterpoint to the antiresorptive-hazard axis.
+- [[implants/survival/kindaro-2026-parathyroid-hormone-implant-osseointegration-osteoporosis-sr]] — SR of 12 preclinical studies: intermittent PTH/teriparatide raises BIC, BV/TV, and removal torque in osteoporotic animals; combination > monotherapy; **animal-only, no human data**, 7/12 high risk of blinding bias. The osteoanabolic counterpoint to the antiresorptive-hazard axis.
 - [[bone-biology/issa-2026-bone-biology-aging-periodontal-peri-implant-tissues]] — Perio 2000 review: AGE crosslinks, inflammaging, senescence/SASP, immunosenescence, osteoprogenitor exhaustion (RANKL↑/OPG↓) as the mechanism of age-related alveolar bone fragility; age alone is not a contraindication, but its effect on osseointegration is largely unstudied.
-- [[implants/di-stefano-2018-undersizing-tapping-bic-primary-stability-bovine-histomorphometric]] — bench: torque-depth integral quantifies undersizing → primary stability (the drilling lever).
-- [[implants/el-kholey-2019-drilling-technique-low-density-bone-sr]] — SR: undersized/osteotome/Piezo/OD all raise primary stability but long-term superiority weak (caution on the drilling lever).
-- [[implants/tabassum-2021-undersized-axial-compression-primary-stability]] — animal: lateral + axial compression raise IT/%BIC in low-density bone.
-- [[implants/gehrke-2021-healing-chambers-macrogeometry-low-density-drilling]] — in-vitro: undersizing helps only above a density floor; macrogeometry complements.
+- [[implants/osteotomy-thermal/di-stefano-2018-undersizing-tapping-bic-primary-stability-bovine-histomorphometric]] — bench: torque-depth integral quantifies undersizing → primary stability (the drilling lever).
+- [[implants/osteotomy-thermal/el-kholey-2019-drilling-technique-low-density-bone-sr]] — SR: undersized/osteotome/Piezo/OD all raise primary stability but long-term superiority weak (caution on the drilling lever).
+- [[implants/osteotomy-thermal/tabassum-2021-undersized-axial-compression-primary-stability]] — animal: lateral + axial compression raise IT/%BIC in low-density bone.
+- [[implants/osteotomy-thermal/gehrke-2021-healing-chambers-macrogeometry-low-density-drilling]] — in-vitro: undersizing helps only above a density floor; macrogeometry complements.
 - [[implants/khaohoen-2023-biomaterials-dental-implants-bone-density-narrative-review]] — narrative review (119 articles): reinforces the material × design × technique triad for low-density bone; supplies survival-by-density (D-IV 88.8%), the low-density geometry recipe, and the Ti/zirconia/PEEK material comparison.

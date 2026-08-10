@@ -40,7 +40,7 @@ source_collection: external
 Clinical practice guideline (consensus statement); reviewed evidence on warfarin, DOAC, aspirin, clopidogrel, DAPT around endoscopic procedures with bleeding risk stratification.
 
 ## 4. Key Results
-[합의수준] Korean GI guideline framework:
+[확인] Korean GI guideline framework:
 - Low bleeding risk procedure + low thrombotic risk → may continue agent
 - High bleeding risk procedure → discontinue agent with bridging if thrombotic risk high
 - Procedure-specific recommendations for each antithrombotic class

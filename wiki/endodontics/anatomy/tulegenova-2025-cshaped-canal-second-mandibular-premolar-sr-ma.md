@@ -6,7 +6,7 @@ date: 2025-10-01
 doi: 10.4103/ijdr.ijdr_682_24
 source: tulegenova-2025-cshaped-canal-second-mandibular-premolar-sr-ma.md
 category: [endodontics/anatomy]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/tulegenova-2025-cshaped-canal-second-mandibular-premolar-sr-ma.pdf
 pdf_filename: tulegenova-2025-cshaped-canal-second-mandibular-premolar-sr-ma.pdf
 source_collection: external

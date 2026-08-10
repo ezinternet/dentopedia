@@ -6,7 +6,7 @@ date: 2024-05-01
 doi: 10.1016/j.joen.2024.02.013
 source: aminoshariae-2024-ai-endodontic-education-scoping.md
 category: [digital-workflow]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/aminoshariae-2024-ai-endodontic-education-scoping.pdf
 pdf_filename: aminoshariae-2024-ai-endodontic-education-scoping.pdf
 source_collection: external
@@ -55,7 +55,7 @@ The 10 AI domains identified:
 9. Progress evaluation and personalised education
 10. Calibration and standardisation
 
-## Clinical/Educational Implications [claude해석]
+## Clinical/Educational Implications [미검증]
 - For Korean dental education: AI-augmented preclinical phantom training is the most actionable near-term application — minimal regulatory friction
 - AI-based calibration would address inter-instructor variability in endodontic teaching, but requires institutional buy-in for standard ground truth
 - Real-time clinical guidance use in students raises supervision and liability questions in Korean dental practice acts — pending regulatory clarity

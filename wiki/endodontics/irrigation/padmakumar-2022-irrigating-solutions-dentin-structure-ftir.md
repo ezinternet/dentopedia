@@ -6,7 +6,7 @@ date: 2022-10-12
 doi: 10.3390/jfb13040197
 source: padmakumar-2022-irrigating-solutions-dentin-structure-ftir.md
 category: [endodontics/irrigation]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/padmakumar-2022-irrigating-solutions-dentin-structure-ftir.pdf
 pdf_filename: padmakumar-2022-irrigating-solutions-dentin-structure-ftir.pdf
 source_collection: external

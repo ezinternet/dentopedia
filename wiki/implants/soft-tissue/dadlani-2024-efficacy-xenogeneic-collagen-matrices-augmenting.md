@@ -6,7 +6,7 @@ date: 2024-08-01
 doi: 10.1002/cre2.937
 source: dadlani-2024-efficacy-xenogeneic-collagen-matrices-augmenting.md
 category: [implants/soft-tissue]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "39104130"
@@ -57,6 +57,6 @@ SR+MA (PRISMA; PROSPERO CRD42023455643). PubMed, Scopus, Cochrane CENTRAL + manu
 - Aesthetics comparable; XCM lower morbidity, analgesic need, and surgical time. CMX/XCM resorption (shrinkage) is a recurring caveat.
 
 ## Related Papers
-- [[implants/montero-2022-soft-tissue-substitutes-vs-autogenous-keratinized-mucosa-sr]] — reinforces (FGG > substitutes for KMW)
-- [[implants/cairo-2019-soft-tissue-augmentation-implant-sites-rct-sr-ma]] — extends (CTG vs XCM around implants)
-- [[implants/tavelli-2025-soft-tissue-dehiscences-implant-sites-ao-aap]] — soft tissue augmentation as protective factor for peri-implant dehiscence
+- [[implants/soft-tissue/montero-2022-soft-tissue-substitutes-vs-autogenous-keratinized-mucosa-sr]] — reinforces (FGG > substitutes for KMW)
+- [[implants/soft-tissue/cairo-2019-soft-tissue-augmentation-implant-sites-rct-sr-ma]] — extends (CTG vs XCM around implants)
+- [[implants/soft-tissue/tavelli-2025-soft-tissue-dehiscences-implant-sites-ao-aap]] — soft tissue augmentation as protective factor for peri-implant dehiscence

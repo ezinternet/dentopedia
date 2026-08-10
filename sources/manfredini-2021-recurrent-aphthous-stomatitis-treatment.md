@@ -49,7 +49,7 @@ PubMed 검색 기반 서술적 고찰.
 RCT 부족; 장기 안전성 자료 미흡.
 
 ## 6. Related Work
-- [[oral-medicine/belenguer-guallar-2014-recurrent-aphthous-stomatitis-review]] — related
+- [[oral-medicine/aphthous-stomatitis/belenguer-guallar-2014-recurrent-aphthous-stomatitis-review]] — related
 
 ## 7. Glossary
 RAS: Recurrent Aphthous Stomatitis 재발성 아프타 구내염; minor/major/herpetiform: 경증/중증/포진형 아프타; amlexanox: 암렉사녹스

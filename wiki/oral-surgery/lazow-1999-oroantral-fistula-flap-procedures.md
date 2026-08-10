@@ -6,7 +6,7 @@ date: 1999-06-01
 doi: 10.1016/S1043-1810(99)80037-2
 source: lazow-1999-oroantral-fistula-flap-procedures.md
 category: oral-surgery
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/lazow-1999-oroantral-fistula-flap-procedures.pdf
 pdf_filename: lazow-1999-oroantral-fistula-flap-procedures.pdf
 source_collection: external
@@ -121,6 +121,6 @@ Two universal principles frame every repair:
 
 ## Related Papers
 
-- [[oral-medicine/psillas-2020-odontogenic-maxillary-sinusitis-comprehensive-review]] — OMS pathophysiology and diagnosis; this page provides the surgical closure technique detail absent in that review
-- [[oral-medicine/lin-2024-odontogenic-maxillary-sinusitis-expert-consensus]] — expert consensus on OMS management including FESS sequencing; Lazow 1999 provides the flap-closure procedural substrate
-- [[oral-medicine/kim-2019-definition-management-odontogenic-maxillary]] — definition and management of OMS; OAF closure is a key component of OMS treatment addressed here
+- [[oral-medicine/odontogenic-sinusitis/psillas-2020-odontogenic-maxillary-sinusitis-comprehensive-review]] — OMS pathophysiology and diagnosis; this page provides the surgical closure technique detail absent in that review
+- [[oral-medicine/odontogenic-sinusitis/lin-2024-odontogenic-maxillary-sinusitis-expert-consensus]] — expert consensus on OMS management including FESS sequencing; Lazow 1999 provides the flap-closure procedural substrate
+- [[oral-medicine/odontogenic-sinusitis/kim-2019-definition-management-odontogenic-maxillary]] — definition and management of OMS; OAF closure is a key component of OMS treatment addressed here

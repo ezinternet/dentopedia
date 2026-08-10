@@ -6,17 +6,15 @@ date: 2026-07-07
 doi: ""
 source: ""
 category: [overviews]
-confidence: synthesis
+evidence_level: synthesis
 source_collection: internal
 tags: [caries, remineralization, hydroxyapatite, orthodontics, clear-aligner, zirconia-crown, pediatric]
 relations:
-  - type: reinforces
-    target: butera-2023-zinc-hydroxyapatite-enamel-dentin-remineralization
-  - type: reinforces
+  - type: refines
     target: hamdi-2024-orthodontic-adhesives-enamel-remineralization
-  - type: reinforces
+  - type: refines
     target: unal-2025-clear-aligner-attachment-remineralization-diagnodent
-  - type: reinforces
+  - type: applies-to
     target: chen-2026-zirconia-strip-crowns-primary-anterior-teeth-sr-ma
 ---
 
@@ -102,7 +100,7 @@ Chen 2026 (SR+MA, 9 RCTs, n=1,746 primary anterior teeth, children 3–6y, PROSP
 | Plaque accumulation | 0.08 | <0.001 | PZC far superior |
 | Antagonist tooth wear | **7.58** | <0.001 | RCSC strongly favoured |
 
-The zirconia hardness mismatch is the decisive trade-off: PZC (경도 Zn-CHA 1000–1400 HV) vs natural enamel (300–400 HV). When PZC opposes a primary or permanent tooth, accelerated antagonist wear is a real risk.
+The zirconia hardness mismatch is the decisive trade-off: PZC (zirconia hardness 1000–1400 HV) vs natural enamel (300–400 HV). When PZC opposes a primary or permanent tooth, accelerated antagonist wear is a real risk.
 
 **Case-selection algorithm:**
 

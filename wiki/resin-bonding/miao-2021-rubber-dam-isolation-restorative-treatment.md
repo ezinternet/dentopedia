@@ -6,7 +6,7 @@ date: 2021-05-01
 doi: 10.1002/14651858.CD009858.pub3
 source: miao-2021-rubber-dam-isolation-restorative-treatment.md
 category: [resin-bonding]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/miao-2021-rubber-dam-isolation-restorative-treatment.pdf
 pdf_filename: miao-2021-rubber-dam-isolation-restorative-treatment.pdf
 source_collection: external
@@ -60,4 +60,4 @@ This Cochrane review (update of the 2016 version, `.pub3`) assesses whether rubb
 ## Related Papers
 
 - [[resin-bonding/miao-2021-rubber-dam-isolation-restorative-treatment]] — anchors moisture/contamination control as a methodological prerequisite for adhesive restoration survival.
-- [[dental-materials/ghimire-2022-medically-compromised-prosthodontic-patients]] — shares operative isolation/moisture-control considerations in restorative workflows.
+- [[drug/mronj/ghimire-2022-medically-compromised-prosthodontic-patients]] — shares operative isolation/moisture-control considerations in restorative workflows.

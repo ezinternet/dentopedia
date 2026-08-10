@@ -15,7 +15,7 @@ text_filename: vinhas-2022-preload-loss-implant-abutment-connection-designs.txt
 
 ## Why Ingested
 
-Extends the screw-mechanics evidence anchored by [[prosthetic-materials/velez-2020-implant-connection-abutment-design-screw]] by directly testing whether *connection design* (external vs internal) governs preload maintenance. The clinically actionable finding — re-tightening the retaining screw a few minutes after insertion measurably restores preload (sedimentation/embedment relaxation), and connection design itself does NOT determine preload retention — reinforces why the retightening step matters more than the choice of connection geometry.
+Extends the screw-mechanics evidence anchored by [[prosthetic-materials/abutment-screw/velez-2020-implant-connection-abutment-design-screw]] by directly testing whether *connection design* (external vs internal) governs preload maintenance. The clinically actionable finding — re-tightening the retaining screw a few minutes after insertion measurably restores preload (sedimentation/embedment relaxation), and connection design itself does NOT determine preload retention — reinforces why the retightening step matters more than the choice of connection geometry.
 
 ## Three-line Summary
 

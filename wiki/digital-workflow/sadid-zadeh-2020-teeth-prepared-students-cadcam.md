@@ -6,7 +6,7 @@ date: 2020-03-16
 doi: 10.21815/JDE.019.178
 source: sadid-zadeh-2020-teeth-prepared-students-cadcam.md
 category: [digital-workflow]
-confidence: cross-sectional
+evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/sadid-zadeh-2020-teeth-prepared-students-cadcam.pdf
 pdf_filename: sadid-zadeh-2020-teeth-prepared-students-cadcam.pdf
 source_collection: external

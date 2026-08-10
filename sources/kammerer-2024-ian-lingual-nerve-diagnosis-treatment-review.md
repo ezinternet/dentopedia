@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-Most comprehensive recent scoping review (2024) covering IAN and lingual nerve injury — risk factors, diagnosis (neurosensory tests, imaging), conservative vs surgical management. Central reference for the wiki's IAN injury cluster. Extends and contextualizes [[oral-surgery/lee-2015-inferior-alveolar-nerve-injury-management]].
+Most comprehensive recent scoping review (2024) covering IAN and lingual nerve injury — risk factors, diagnosis (neurosensory tests, imaging), conservative vs surgical management. Central reference for the wiki's IAN injury cluster. Extends and contextualizes [[oral-surgery/nerve-injury/lee-2015-inferior-alveolar-nerve-injury-management]].
 
 ## Three-line Summary
 
@@ -112,7 +112,7 @@ Scoping review framework:
 - Seddon classification of nerve injuries (neuropraxia/axonotmesis/neurotmesis)
 - WHO guidelines: comprehensive injury examination framework
 - Schlereth et al.: neuropathic pain criteria
-- [[oral-surgery/lee-2015-inferior-alveolar-nerve-injury-management]]
+- [[oral-surgery/nerve-injury/lee-2015-inferior-alveolar-nerve-injury-management]]
 
 ## 7. Glossary
 

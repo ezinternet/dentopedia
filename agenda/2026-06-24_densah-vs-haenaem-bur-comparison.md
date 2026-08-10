@@ -8,12 +8,12 @@ priority: P2
 tags: [osseodensification, densah, haenaem, versah, bur-comparison, interactive]
 source_wiki:
   - wiki/sinus-lift/transcrestal/changrani-2024-haenaem-zero-bone-loss-indirect-sinus-lift.md
-  - wiki/implants/versah-protocols/rittipakorn-2025-clockwise-osseodensification-primary-stability-cadaveric.md
-  - wiki/implants/soldatos-2024-temperature-changes-osseodensification-cadaver-tibiae-cw-ccw.md
-  - wiki/implants/huwais-2017-novel-osseous-densification-osteotomy-primary-stability.md
-  - wiki/implants/gaspar-2022-implant-stability-osseodensification-conventional-sr-ma.md
-  - wiki/implants/fontes-pereira-2023-osseodensification-osteotomy-alternative-sr.md
-  - wiki/implants/versah-protocols/versah-densah-sinus-lift-i-protocol-rbh-6mm-minimum.md
+  - wiki/implants/osseodensification/rittipakorn-2025-clockwise-osseodensification-primary-stability-cadaveric.md
+  - wiki/implants/osseodensification/soldatos-2024-temperature-changes-osseodensification-cadaver-tibiae-cw-ccw.md
+  - wiki/implants/osseodensification/huwais-2017-novel-osseous-densification-osteotomy-primary-stability.md
+  - wiki/implants/osseodensification/gaspar-2022-implant-stability-osseodensification-conventional-sr-ma.md
+  - wiki/implants/osseodensification/fontes-pereira-2023-osseodensification-osteotomy-alternative-sr.md
+  - wiki/implants/osseodensification/versah-densah-sinus-lift-i-protocol-rbh-6mm-minimum.md
   - wiki/overviews/osseodensification-clinical-applications.md
 output_wiki:
   - interactives/densah-vs-haenaem-bur-comparison.html
@@ -26,12 +26,12 @@ output_wiki:
 # Input
 
 - wiki/sinus-lift/transcrestal/changrani-2024-haenaem-zero-bone-loss-indirect-sinus-lift.md — HaeNaem Zero Bone Loss Kit CW-OD 간접거상 단일군 연구; 2024-11-21 정정 후 **철회(RETRACTED)** — 본문유지+RETRACTED 배너로 정책예외 보관
-- wiki/implants/versah-protocols/rittipakorn-2025-clockwise-osseodensification-primary-stability-cadaveric.md — CW 골밀도화 1차 안정성 cadaveric 근거
-- wiki/implants/soldatos-2024-temperature-changes-osseodensification-cadaver-tibiae-cw-ccw.md — CW vs CCW 회전방향에 따른 발열 차이
-- wiki/implants/huwais-2017-novel-osseous-densification-osteotomy-primary-stability.md — Densah(Versah) OD 원리 원전
-- wiki/implants/gaspar-2022-implant-stability-osseodensification-conventional-sr-ma.md — OD vs 통상 드릴 안정성 SR+MA(근거강도)
-- wiki/implants/fontes-pereira-2023-osseodensification-osteotomy-alternative-sr.md — OD 대안 술식 SR(근거강도)
-- wiki/implants/versah-protocols/versah-densah-sinus-lift-i-protocol-rbh-6mm-minimum.md — Densah 경치조골 상악동거상 프로토콜(적응증)
+- wiki/implants/osseodensification/rittipakorn-2025-clockwise-osseodensification-primary-stability-cadaveric.md — CW 골밀도화 1차 안정성 cadaveric 근거
+- wiki/implants/osseodensification/soldatos-2024-temperature-changes-osseodensification-cadaver-tibiae-cw-ccw.md — CW vs CCW 회전방향에 따른 발열 차이
+- wiki/implants/osseodensification/huwais-2017-novel-osseous-densification-osteotomy-primary-stability.md — Densah(Versah) OD 원리 원전
+- wiki/implants/osseodensification/gaspar-2022-implant-stability-osseodensification-conventional-sr-ma.md — OD vs 통상 드릴 안정성 SR+MA(근거강도)
+- wiki/implants/osseodensification/fontes-pereira-2023-osseodensification-osteotomy-alternative-sr.md — OD 대안 술식 SR(근거강도)
+- wiki/implants/osseodensification/versah-densah-sinus-lift-i-protocol-rbh-6mm-minimum.md — Densah 경치조골 상악동거상 프로토콜(적응증)
 - wiki/overviews/osseodensification-clinical-applications.md — OD 임상 적용 종합
 
 # Output

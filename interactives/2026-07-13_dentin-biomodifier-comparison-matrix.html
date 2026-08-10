@@ -1,0 +1,314 @@
+<!--
+---
+title: "Dentin Biomodifier 20종 비교 매트릭스"
+type: interactive
+date: 2026-07-13
+status: done
+category: resin-bonding
+agenda: agenda/2026-07-13_dentin-biomodifier-comparison-matrix.md
+source_wiki:
+  - wiki/resin-bonding/el-alaoui-2026-dentin-biomodification-resin-composite-umbrella.md
+  - wiki/overviews/resin-dentin-bond-durability-degradation-overview.md
+tags: [resin-bonding, dentin-biomodification, comparison-matrix]
+---
+-->
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Dentin Biomodifier 20종 비교 매트릭스</title>
+<style>
+  :root{
+    --ink:#1a1f24; --sub:#5a646e; --line:#d9dee3; --bg:#fbfcfd;
+    --natural:#0d8a6a; --natural-bg:#e9f7f1;
+    --physical:#1f6feb; --physical-bg:#eef4ff;
+    --chemical:#b5541f; --chemical-bg:#fdf0e7;
+    --pos:#1a7f37; --pos-bg:#e6f4ea;
+    --neg:#c0392b; --neg-bg:#fdecea;
+    --mix:#9a6a00; --mix-bg:#fff4e0;
+    --none:#5a646e; --none-bg:#f2f5f8;
+    --nodata:#b0b8bf; --nodata-bg:#fafbfc;
+    --warn:#b54708; --warn-bg:#fff4e6; --warn-line:#f0c089;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);
+    font-family:"Pretendard","Apple SD Gothic Neo","Malgun Gothic",system-ui,sans-serif;
+    line-height:1.6; -webkit-font-smoothing:antialiased;}
+  .wrap{max-width:1180px;margin:0 auto;padding:32px 24px 64px;}
+  header h1{font-size:1.5rem;margin:0 0 4px;letter-spacing:-.01em;}
+  header .sub{color:var(--sub);font-size:.92rem;margin:0 0 4px;}
+  header .src{color:var(--sub);font-size:.8rem;}
+  .bottom-line{margin:20px 0 16px;padding:16px 18px;border-radius:10px;
+    background:#fff;border:1px solid var(--line);border-left:4px solid var(--ink);
+    font-size:.95rem;}
+  .bottom-line b{color:var(--ink);}
+  .caveat{margin:0 0 26px;padding:14px 18px;border-radius:10px;
+    background:var(--warn-bg);border:1px solid var(--warn-line);font-size:.88rem;color:#5a3a10;}
+  .caveat b{color:var(--warn);}
+  h2{font-size:1.08rem;margin:32px 0 12px;padding-bottom:6px;border-bottom:1px solid var(--line);}
+  .legend{display:flex;flex-wrap:wrap;gap:10px;margin-bottom:16px;font-size:.78rem;color:var(--sub);}
+  .legend span.lg{display:inline-flex;align-items:center;gap:4px;}
+  .controls{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:8px;}
+  .controls-row{margin-bottom:14px;}
+  .chip{border:1px solid var(--line);background:#fff;border-radius:999px;
+    padding:6px 14px;font-size:.82rem;cursor:pointer;color:var(--sub);user-select:none;}
+  .chip.active{background:var(--ink);color:#fff;border-color:var(--ink);}
+  .searchbox{width:100%;max-width:320px;padding:7px 12px;border:1px solid var(--line);
+    border-radius:8px;font-size:.85rem;margin-bottom:14px;background:#fff;color:var(--ink);}
+  table{width:100%;border-collapse:collapse;font-size:.83rem;background:#fff;
+    border:1px solid var(--line);border-radius:8px;overflow:hidden;}
+  th,td{padding:9px 10px;text-align:left;vertical-align:top;border-bottom:1px solid var(--line);}
+  thead th{background:#f2f5f8;font-size:.76rem;letter-spacing:.02em;color:var(--sub);
+    position:sticky;top:0;}
+  tbody tr:last-child td{border-bottom:none;}
+  tbody tr:hover{background:#fafbfc;}
+  tbody tr.hidden{display:none;}
+  .tag{display:inline-block;padding:2px 8px;border-radius:999px;font-size:.72rem;font-weight:600;white-space:nowrap;}
+  .tag.natural{background:var(--natural-bg);color:var(--natural);}
+  .tag.physical{background:var(--physical-bg);color:var(--physical);}
+  .tag.chemical{background:var(--chemical-bg);color:var(--chemical);}
+  .eff{display:inline-flex;align-items:center;gap:4px;padding:2px 8px;border-radius:6px;
+    font-size:.76rem;font-weight:600;white-space:nowrap;}
+  .eff.pos{background:var(--pos-bg);color:var(--pos);}
+  .eff.neg{background:var(--neg-bg);color:var(--neg);}
+  .eff.mix{background:var(--mix-bg);color:var(--mix);}
+  .eff.none{background:var(--none-bg);color:var(--none);}
+  .eff.nodata{background:var(--nodata-bg);color:var(--nodata);}
+  .ready{display:inline-block;font-size:.74rem;color:var(--sub);white-space:nowrap;}
+  .n{color:var(--sub);font-size:.78rem;}
+  .note{font-size:.8rem;color:#3a4249;}
+  .foot{margin-top:28px;padding-top:14px;border-top:1px solid var(--line);
+    font-size:.76rem;color:var(--sub);}
+  @media (max-width:640px){table{font-size:.76rem;} th,td{padding:6px 7px;}}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<header>
+  <h1>Dentin Biomodifier 20종 비교 매트릭스</h1>
+  <p class="sub">9편 SR(7편 MA, 175개 원저 연구) 종합 · 천연 7 · 물리 7 · 화학 6종 · 51개 실험 setup</p>
+  <p class="src">근거: wiki/resin-bonding/el-alaoui-2026-dentin-biomodification-resin-composite-umbrella.md (El Alaoui 2026, Int Dent J, PMC full text)</p>
+</header>
+
+<div class="bottom-line">
+  <b>Bottom line:</b> 천연 agent는 전부 <b>무해하거나 이로움</b>(포도씨추출물·chitosan·리보플라빈이 장기 결합강도 개선)이나 임상 승인 전 단계.
+  물리적 agent 중 <b>scrubbing·air abrasion만 오늘 chairside 적용 가능</b>하고 NTAP는 가장 강력하지만 장비 제한.
+  화학적 agent는 대부분 해로움 — 특히 <b>NaOCl·HOCl은 상아질 전처치로 권장되지 않음</b>. 에탄올 습윤접착만 예외적으로 유리.
+</div>
+
+<div class="caveat">
+  <b>⚠ 중복도 주의(CCA):</b> 전체 SR 간 중복도는 낮음(CCA=1.52%, slight)이나, NTAP를 다룬 두 SR 간 중복도는 <b>57.9%(very high)</b> —
+  같은 원저 연구가 반복 집계되어 NTAP의 우수성이 과대평가됐을 가능성이 있음. 아래 표에서 NTAP 행은 이 caveat을 감안해 해석할 것.
+</div>
+
+<h2>Evidence Map <span class="n">(카테고리·적용가능성 필터, 검색창으로 agent명·소견 검색)</span></h2>
+
+<div class="legend">
+  <span class="lg"><span class="eff pos">▲ 개선</span></span>
+  <span class="lg"><span class="eff neg">▼ 저하</span></span>
+  <span class="lg"><span class="eff mix">◆ 상반/불확실</span></span>
+  <span class="lg"><span class="eff none">● 유의차 없음</span></span>
+  <span class="lg"><span class="eff nodata">— 보고 없음</span></span>
+</div>
+
+<input class="searchbox" id="search" type="text" placeholder="검색 (예: NTAP, chitosan, NaOCl, riboflavin)">
+<div class="controls controls-row" id="filters-cat">
+  <span class="chip active" data-f="all">전체</span>
+  <span class="chip" data-f="natural">천연 (7)</span>
+  <span class="chip" data-f="physical">물리 (7)</span>
+  <span class="chip" data-f="chemical">화학 (6)</span>
+</div>
+<div class="controls controls-row" id="filters-ready">
+  <span class="chip active" data-r="all">적용가능성: 전체</span>
+  <span class="chip" data-r="ready">오늘 chairside 가능</span>
+  <span class="chip" data-r="investigational">연구/규제 단계</span>
+  <span class="chip" data-r="not-recommended">권장 안 됨</span>
+</div>
+
+<table id="matrix">
+  <thead>
+    <tr>
+      <th>Agent</th>
+      <th>범주</th>
+      <th>단기<br><span class="n">(&lt;3mo)</span></th>
+      <th>중기<br><span class="n">(3–12mo)</span></th>
+      <th>장기<br><span class="n">(≥12mo)</span></th>
+      <th>임상 적용가능성</th>
+      <th>비고</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr data-cat="natural" data-ready="investigational">
+      <td><b>Baicalein</b></td><td><span class="tag natural">천연</span></td>
+      <td><span class="eff pos">▲ 개선</span></td><td><span class="eff pos">▲ 개선</span></td><td><span class="eff nodata">—</span></td>
+      <td class="ready">연구 단계</td>
+      <td class="note">미치료 대조군 대비 우수, 농도 무관하게 일관</td>
+    </tr>
+    <tr data-cat="natural" data-ready="investigational">
+      <td><b>Chitosan / CS-NPs</b></td><td><span class="tag natural">천연</span></td>
+      <td><span class="eff pos">▲ 개선</span></td><td><span class="eff pos">▲ 개선</span></td><td><span class="eff pos">▲ 개선</span></td>
+      <td class="ready">연구/규제승인 필요</td>
+      <td class="note">즉시: self-etch SMD −0.75(I²35%); 중장기: etch-and-rinse SMD −1.24(I²50%) — self-etch는 장기 이점 없음</td>
+    </tr>
+    <tr data-cat="natural" data-ready="investigational">
+      <td><b>Cocoa Seed Extract (CSE)</b></td><td><span class="tag natural">천연</span></td>
+      <td><span class="eff nodata">—</span></td><td><span class="eff none">● 무효과</span></td><td><span class="eff none">● 무효과</span></td>
+      <td class="ready">연구 단계</td>
+      <td class="note">무처치 대비 유의차 없음(p=0.23) — GSE와 달리 축합 PAC 함량 낮음</td>
+    </tr>
+    <tr data-cat="natural" data-ready="investigational">
+      <td><b>Grape Seed Extract (GSE)</b></td><td><span class="tag natural">천연</span></td>
+      <td><span class="eff nodata">—</span></td><td><span class="eff pos">▲ 개선</span></td><td><span class="eff pos">▲ 개선</span></td>
+      <td class="ready">연구 단계</td>
+      <td class="note">중기 MD 8.29(I²96%), 장기 MD 13.88(I²46%) — 천연 agent 중 최우수, PAC 고농도 기전</td>
+    </tr>
+    <tr data-cat="natural" data-ready="investigational">
+      <td><b>Green Tea Extract (GTE)</b></td><td><span class="tag natural">천연</span></td>
+      <td><span class="eff nodata">—</span></td><td><span class="eff none">● 무효과</span></td><td><span class="eff pos">▲ 개선</span></td>
+      <td class="ready">연구 단계</td>
+      <td class="note">중기는 고이질성으로 무효과, 장기는 뚜렷한 개선</td>
+    </tr>
+    <tr data-cat="natural" data-ready="investigational">
+      <td><b>EGCG</b></td><td><span class="tag natural">천연</span></td>
+      <td><span class="eff nodata">—</span></td><td><span class="eff none">● 무효과</span></td><td><span class="eff none">● 무효과</span></td>
+      <td class="ready">연구 단계</td>
+      <td class="note">무처치 대비 유의차 없음(p=0.95)</td>
+    </tr>
+    <tr data-cat="natural" data-ready="investigational">
+      <td><b>Riboflavin</b></td><td><span class="tag natural">천연</span></td>
+      <td><span class="eff pos">▲ 개선</span></td><td><span class="eff pos">▲ 개선</span></td><td><span class="eff nodata">—</span></td>
+      <td class="ready">연구/규제승인 필요</td>
+      <td class="note">단기 MD −8.49(I²89%), 중기 MD −10.23(I²96%); 광활성화형이 비활성화형보다 우수; 안과용은 FDA승인, 치과는 미승인</td>
+    </tr>
+    <tr data-cat="physical" data-ready="investigational">
+      <td><b>Non-Thermal Atmospheric Plasma (NTAP)</b></td><td><span class="tag physical">물리</span></td>
+      <td><span class="eff mix">◆ 상반</span></td><td><span class="eff nodata">—</span></td><td><span class="eff pos">▲ 개선</span></td>
+      <td class="ready">연구 단계 (장비 제한)</td>
+      <td class="note">장기 SMD 최대 3.28(He&gt;Ar); 단, NTAP 2개 SR 간 중복도 CCA 57.9%(very high) — 위 caveat 참조</td>
+    </tr>
+    <tr data-cat="physical" data-ready="ready">
+      <td><b>Scrubbing</b></td><td><span class="tag physical">물리</span></td>
+      <td><span class="eff pos">▲ 개선</span></td><td><span class="eff pos">▲ 개선</span></td><td><span class="eff nodata">—</span></td>
+      <td class="ready">✅ chairside 가능</td>
+      <td class="note">즉시·중기 모두 유의 개선, 별도 장비 불필요 — 오늘 적용 가능한 2대 물리 기법 중 하나</td>
+    </tr>
+    <tr data-cat="physical" data-ready="ready">
+      <td><b>Air Abrasion</b></td><td><span class="tag physical">물리</span></td>
+      <td><span class="eff mix">◆ 불확실</span></td><td><span class="eff nodata">—</span></td><td><span class="eff nodata">—</span></td>
+      <td class="ready">✅ chairside 가능</td>
+      <td class="note">SMD −0.75이나 95%CI가 0을 포함(−1.79~0.29, I²92%) — 효과크기는 불확실하나 저렴·상용 장비로 적용 가능</td>
+    </tr>
+    <tr data-cat="physical" data-ready="investigational">
+      <td><b>LASER (Er:YAG / Er,Cr:YSGG)</b></td><td><span class="tag physical">물리</span></td>
+      <td><span class="eff mix">◆ 상반</span></td><td><span class="eff nodata">—</span></td><td><span class="eff nodata">—</span></td>
+      <td class="ready">연구 단계 (장비 고가)</td>
+      <td class="note">1개 SR: 즉시 유의 저하(I²56%); 다른 SR(Erbium 한정, SBS): Er:YAG·Er,Cr:YSGG 모두 개선, Er:YAG가 우수 — 결과 상반</td>
+    </tr>
+    <tr data-cat="physical" data-ready="investigational">
+      <td><b>Warm Air Blow</b></td><td><span class="tag physical">물리</span></td>
+      <td><span class="eff nodata">—</span></td><td><span class="eff nodata">—</span></td><td><span class="eff nodata">—</span></td>
+      <td class="ready">근거 불충분</td>
+      <td class="note">즉시·중기 평가됐으나 pooled effect 미보고</td>
+    </tr>
+    <tr data-cat="physical" data-ready="investigational">
+      <td><b>Electric Current</b></td><td><span class="tag physical">물리</span></td>
+      <td><span class="eff nodata">—</span></td><td><span class="eff nodata">—</span></td><td><span class="eff nodata">—</span></td>
+      <td class="ready">근거 불충분</td>
+      <td class="note">1개 SR에서 평가됐으나 결합강도 결과 미보고</td>
+    </tr>
+    <tr data-cat="physical" data-ready="investigational">
+      <td><b>Ozone</b></td><td><span class="tag physical">물리</span></td>
+      <td><span class="eff nodata">—</span></td><td><span class="eff nodata">—</span></td><td><span class="eff nodata">—</span></td>
+      <td class="ready">근거 불충분</td>
+      <td class="note">상아질 소독 목적 평가, 결합강도 결과 미보고</td>
+    </tr>
+    <tr data-cat="chemical" data-ready="not-recommended">
+      <td><b>Dentin Desensitizers</b></td><td><span class="tag chemical">화학</span></td>
+      <td><span class="eff neg">▼ 저하</span></td><td><span class="eff nodata">—</span></td><td><span class="eff neg">▼ 저하</span></td>
+      <td class="ready">⛔ 권장 안 됨</td>
+      <td class="note">즉시·장기 모두 유의 저하(SMD 0.96, I²80%) — 민감도 완화와 결합강도 손실의 trade-off 고려 필요</td>
+    </tr>
+    <tr data-cat="chemical" data-ready="investigational">
+      <td><b>DMSO</b></td><td><span class="tag chemical">화학</span></td>
+      <td><span class="eff nodata">—</span></td><td><span class="eff nodata">—</span></td><td><span class="eff pos">▲ 개선</span></td>
+      <td class="ready">⚠ 접착방식 의존적</td>
+      <td class="note">etch-and-rinse는 장기 안정성 개선(용량비의존), self-etch는 논란; 천연 추출물 침투 용매로도 활용 가능</td>
+    </tr>
+    <tr data-cat="chemical" data-ready="ready">
+      <td><b>Ethanol Wet Bonding</b></td><td><span class="tag chemical">화학</span></td>
+      <td><span class="eff pos">▲ 개선</span></td><td><span class="eff nodata">—</span></td><td><span class="eff nodata">—</span></td>
+      <td class="ready">✅ chairside 가능</td>
+      <td class="note">즉시 SMD −1.41(저이질성) — 특수 장비 불필요, 기존 임상 술식으로 이미 적용 중</td>
+    </tr>
+    <tr data-cat="chemical" data-ready="not-recommended">
+      <td><b>Hypochlorous Acid (HOCl)</b></td><td><span class="tag chemical">화학</span></td>
+      <td><span class="eff neg">▼ 저하</span></td><td><span class="eff nodata">—</span></td><td><span class="eff nodata">—</span></td>
+      <td class="ready">⛔ 권장 안 됨</td>
+      <td class="note">고농도·장시간 노출일수록 결합강도 저하 심화; 탈단백이 꼭 필요하면 NaOCl보다는 상대적으로 낫고 2-step self-etch가 1-step보다 유리</td>
+    </tr>
+    <tr data-cat="chemical" data-ready="not-recommended">
+      <td><b>Sodium Hypochlorite (NaOCl)</b></td><td><span class="tag chemical">화학</span></td>
+      <td><span class="eff neg">▼ 저하</span></td><td><span class="eff nodata">—</span></td><td><span class="eff nodata">—</span></td>
+      <td class="ready">⛔ 권장 안 됨</td>
+      <td class="note">무처치 대비 uTBS 저하, HOCl보다 더 해로움 — 상아질 결합 전 탈단백제로 사용 지양</td>
+    </tr>
+    <tr data-cat="chemical" data-ready="investigational">
+      <td><b>Glycolic Acid</b></td><td><span class="tag chemical">화학</span></td>
+      <td><span class="eff nodata">—</span></td><td><span class="eff nodata">—</span></td><td><span class="eff nodata">—</span></td>
+      <td class="ready">근거 불충분</td>
+      <td class="note">1개 SR에서 평가됐으나 결과 미보고 (근거 부재)</td>
+    </tr>
+  </tbody>
+</table>
+
+<div class="foot">
+  근거: <code>wiki/resin-bonding/el-alaoui-2026-dentin-biomodification-resin-composite-umbrella.md</code> (El Alaoui 2026, umbrella review, PROSPERO CRD42024588804)
+  및 <code>wiki/overviews/resin-dentin-bond-durability-degradation-overview.md</code> §7.
+  이 표는 in vitro 근거의 chairside 빠른 조회용 요약이며, 임상 적용 전 각 agent의 규제 승인 상태를 반드시 확인할 것. 임상 판단을 대체하지 않음.
+</div>
+
+</div>
+<script>
+(function(){
+  const rows = Array.from(document.querySelectorAll('#matrix tbody tr'));
+  const catChips = Array.from(document.querySelectorAll('#filters-cat .chip'));
+  const readyChips = Array.from(document.querySelectorAll('#filters-ready .chip'));
+  const search = document.getElementById('search');
+  let activeCat = 'all';
+  let activeReady = 'all';
+
+  function apply(){
+    const q = search.value.trim().toLowerCase();
+    rows.forEach(r=>{
+      const cat = r.getAttribute('data-cat');
+      const ready = r.getAttribute('data-ready');
+      const matchesCat = activeCat === 'all' || cat === activeCat;
+      const matchesReady = activeReady === 'all' || ready === activeReady;
+      const matchesSearch = !q || r.textContent.toLowerCase().includes(q);
+      r.classList.toggle('hidden', !(matchesCat && matchesReady && matchesSearch));
+    });
+  }
+
+  catChips.forEach(c=>{
+    c.addEventListener('click', ()=>{
+      catChips.forEach(x=>x.classList.remove('active'));
+      c.classList.add('active');
+      activeCat = c.getAttribute('data-f');
+      apply();
+    });
+  });
+  readyChips.forEach(c=>{
+    c.addEventListener('click', ()=>{
+      readyChips.forEach(x=>x.classList.remove('active'));
+      c.classList.add('active');
+      activeReady = c.getAttribute('data-r');
+      apply();
+    });
+  });
+  search.addEventListener('input', apply);
+})();
+</script>
+</body>
+</html>

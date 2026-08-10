@@ -6,7 +6,7 @@ date: 2024-06-18
 doi: 10.1007/s12663-024-02240-2
 source: khanum-2024-one-stage-vs-two-stage-ridge-splitting-sr-ma.md
 category: [bone-regeneration]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: false
 pmid: "41306229"
@@ -17,6 +17,8 @@ text_filename: khanum-2024-one-stage-vs-two-stage-ridge-splitting-sr-ma.txt
 relations:
   - type: refines
     target: enislidis-2006-staged-ridge-splitting-implant-mandible
+  - type: reinforces
+    target: simion-1992-jawbone-enlargement-split-crest-gtr
 tags: []
 ---
 

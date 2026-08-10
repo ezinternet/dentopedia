@@ -6,7 +6,7 @@ date: 2026-03-18
 doi: 10.1016/j.mtbio.2026.103045
 source: zhou-2026-metal-phenolic-electrospun-membrane-alveolar-gbr.md
 category: [bone-regeneration]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: true
 pmid: "41938139"

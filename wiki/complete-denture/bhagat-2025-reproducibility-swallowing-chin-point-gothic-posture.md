@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.4103/jpbs.jpbs_787_25
 source: bhagat-2025-reproducibility-swallowing-chin-point-gothic-posture.md
 category: [complete-denture]
-confidence: in-vivo
+evidence_level: in-vivo
 source_collection: pubmed-text
 full_text: true
 pmid: "41164589"

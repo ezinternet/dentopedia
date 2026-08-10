@@ -1,0 +1,72 @@
+Evaluation of occlusion and disocclusion time in immediately loaded implant overdentures retained by two splinted versus non-splinted interforaminal implants: A randomized clinical trial
+
+Refai OM, Abdelfattah Mohamed AM, Ali El-Fiky AM
+BMC Oral Health. 2026;26(1).
+PMID: 42332660 | PMCID: PMC13289338 | DOI: 10.1186/s12903-026-08855-w
+Source: PubMed / PMC full text (https://pmc.ncbi.nlm.nih.gov/articles/PMC13289338/)
+
+== ABSTRACT ==
+Background: Mandibular complete dentures often lack stability, leading to prolonged occlusion and disocclusion times. Immediate-loading implant overdentures can improve functional control, but evidence comparing splinted and non-splinted two-implant overdentures is limited. This randomized clinical trial aimed to evaluate occlusion and disocclusion times in patients receiving immediately loaded mandibular overdentures retained by two implants, comparing ball attachments and intraoral welded bar attachments, with conventional complete dentures serving as the control group.
+
+Methods: Thirty-six completely edentulous patients were randomized into three equal groups (n = 12 each): conventional complete dentures (CD), two-implant overdentures retained with ball attachments (IB), and two-implant overdentures retained with an intraoral welded bar (IW). Occlusion (OT) and right and left disocclusion times (DR, DL) were measured using the T-Scan system on the day of implant placement (T1) and after three months (T2). Data were normally distributed; Mixed ANOVA was used to assess the effects of time, treatment, and their interaction. Paired t-tests were additionally used for within-group comparisons. Post hoc Tukey tests were performed for pairwise comparisons, with Bonferroni correction applied for multiple testing. Statistical significance was set at p < 0.05.
+
+Results: At T1, the CD group exhibited significantly longer occlusion time (OT: 0.52 ± 0.07 s), right disocclusion time (DR: 0.57 ± 0.04 s), and left disocclusion time (DL: 0.58 ± 0.04 s) compared with the IB (OT: 0.35 ± 0.06 s; DR: 0.40 ± 0.04 s; DL: 0.40 ± 0.02 s) and IW (OT: 0.29 ± 0.02 s; DR: 0.36 ± 0.03 s; DL: 0.42 ± 0.01 s) groups (p < 0.001), indicating that implant-supported overdentures achieved more efficient occlusal contacts. No significant differences were observed between IB and IW. At T2, the pattern persisted, with the CD group showing a significant reduction in OT, DR, and DL over time (p < 0.05), reflecting improved OT and DT of CD, whereas both implant overdenture groups maintained stable OT and DT.
+
+Conclusions: Within three months of follow-up, immediately loaded mandibular overdentures retained by two implants showed similar OT and DT for IW and IB, while both groups showed shorter times compared to CD under the tested conditions.
+
+Trial registration: ClinicalTrials.gov NCT06376019, registered prospectively 19/04/2024.
+
+== INTRODUCTION (key points) ==
+- Full-arch implant-supported prostheses are optimal for edentulous patients but limited by systemic/surgical/financial constraints; conventional complete dentures remain widely used but mandibular ones suffer poor stability from residual ridge resorption.
+- McGill Consensus: two-implant mandibular overdenture in interforaminal region (with possible immediate loading) = standard of care.
+- Attachment systems: unsplinted (ball) vs splinted (bar). Ball = strong retention, ease of use, accommodates minor angulation, but wear/retention loss over time. Bar/clip = strong retention, effective distribution, but higher cost and technique-sensitive.
+- Loading timing: Brånemark recommended delayed loading; immediate loading now allows provisional prosthesis within 48 h with high success when stability sufficient.
+- Intraoral welding (introduced by Dr. Pierluigi Mondani, 1970s): rigid splinting of titanium implants intraorally, enhances primary stability, minimizes micromotion, improves load distribution.
+- T-Scan system: objective digital measurement of occlusion time (OT) and disocclusion time (DT). Shorter OT = faster/more simultaneous tooth contact (better occlusal equilibration); shorter DT = reduced muscle activity in excursions, less TMJ stress.
+- No prior study evaluated OT/DT via T-Scan in immediately loaded mandibular overdentures comparing splinted (welded bar) vs unsplinted (ball).
+- Primary outcome: OT/DT difference between IB and IW. Secondary: vs CD.
+
+== MATERIALS AND METHODS ==
+- Design: parallel RCT, CONSORT 2010. Registered ClinicalTrials.gov (NCT06376019), start 25/04/2024, completed 15/09/2024.
+- n = 36 completely edentulous, 12 per group, from governmental institution.
+- Sample size: 95% CI, 80% power, α 5% (MedCalc 12.3), based on Kabbua P et al. (maximum occlusal contact force). Mean difference 5.28%, SD 5.79%, effect size 0.97.
+- Randomization: computer-generated list (Random Alloc); 1:1:1 ratio via opaque sealed envelopes; allocation by postgraduate student.
+- Blinding: participants and clinicians NOT blinded (visible prosthetic differences); only T-Scan operator blinded.
+- All received conventional maxillary complete dentures. Mandibular: CD = conventional complete denture; IB = immediately loaded overdenture with ball attachments; IW = immediately loaded overdenture with intraoral welded bar.
+- Occlusal scheme standardized: lingualized balanced occlusion for all.
+- Inclusion: Class I maxillomandibular relationship, adequate inter-arch space, sufficient bone width/height in interforaminal region, non-smokers.
+- Exclusion: uncontrolled systemic disease (e.g., diabetes), heavy smoking, TMD, extensive bone grafting need, pregnancy, bisphosphonates, limited mouth opening.
+- Denture fabrication: alginate primary + ZOE secondary impressions, facebow/protrusive/centric relation on semi-adjustable articulator, lingualized balanced occlusion, heat-cured acrylic, compression molding, lab remounting.
+- Implant surgery: mandibular denture duplicated into clear acrylic surgical stent with radiopaque markers at canine regions. CBCT for bone quality/quantity; bone density 800-1200 HU (D1-D2).
+- Implants in mandibular canine/interforaminal regions, equidistant from midline, inter-implant distance ~20 ± 2 mm. Paralleling pins, angulation < 10°. Open-flap. Implants IS-III ACTIVE (Neobiotech, South Korea), 4.0 mm diameter × 10 mm length, torque 35-40 Ncm for immediate loading.
+- IB group: ball abutments (3.5 mm diameter, 11.5 mm height). Relief space in denture, resilient soft liner (Promedica Soft liner) applied.
+- IW group: titanium standard abutments; 2 mm readymade rounded cross-section titanium bar (Guilin Woodpecker) adapted parallel to ridge crest, 2 mm from crest. Intraoral welding (JD Weld) at 1 pulse, 0.37% power, water coolant. Relief space + resilient liner.
+- T-Scan III (Tekscan): OT, DR (right disocclusion), DL (left disocclusion) measured at T1 (implant placement day) and T2 (3 months). Sensor ~100 μm, upright standardized head position. Center-of-force concept for occlusal correction, target 50% ± 2% each side. 4 repetitions each. Single blinded calibrated operator.
+- OT defined: interval from first tooth contact to maximum intercuspation during closure. DT defined: onset of excursive movement to complete posterior separation.
+- Statistics: SPSS 21. Shapiro-Wilk = normal. Mixed ANOVA with Greenhouse-Geisser (time × treatment). Paired t-test intra-group. Post hoc Tukey. Bonferroni correction. p < 0.05.
+
+== RESULTS ==
+- 36 participants: 20 female, 16 male, age 53-70.
+- Mixed ANOVA: significant differences among groups and between intervals (p < 0.001) for OT, DR, DL, plus significant group × time interaction.
+  - OT: Groups F=62.561 p<0.001 partial eta² 0.791; Time F=47.70 p<0.001 eta² 0.603; Group×Time F=13.181 p<0.001 eta² 0.444.
+  - DR: Groups F=142.909 p<0.001 eta² 0.896; Time F=71.38 p<0.001 eta² 0.767; Group×Time F=8.777 p<0.001 eta² 0.347.
+  - DL: Groups F=78.290 p<0.001 eta² 0.826; Time F=40.390 p<0.001 eta² 0.550; Group×Time F=16.15 p<0.001 eta² 0.418.
+- Post hoc Tukey: significant CD vs IB (p<0.001) and CD vs IW (p<0.001). NO significant difference IB vs IW (OT Q=3.29 p=0.06; DR Q=2.8 p=0.13; DL Q=3.05 p=0.09). Pattern persisted at T2 (CD vs IB p<0.001; CD vs IW p<0.001; IB vs IW NS).
+- Paired t-test: significant change over time ONLY in CD group; IB and IW no significant change.
+
+Mean ± SD (seconds):
+OT: T1 CD 0.52±0.07, IB 0.35±0.06, IW 0.29±0.02; T2 CD 0.47±0.07, IB 0.33±0.03, IW 0.28±0.02. CD T=-1.91 p=0.04 (significant); IB T=-1.22 p=0.12; IW T=0.39 p=0.35.
+DR: T1 CD 0.57±0.04, IB 0.40±0.04, IW 0.36±0.03; T2 CD 0.51±0.05, IB 0.38±0.05, IW 0.33±0.04. CD T=-3.01 p=0.005 (significant); IB T=-1.08 p=0.14; IW T=-1.5 p=0.07.
+DL: T1 CD 0.58±0.04, IB 0.42±0.01, IW 0.40±0.02; T2 CD 0.52±0.04, IB 0.41±0.03, IW 0.37±0.04. CD T=-4.1 p=0.0008 (significant); IB T=-1.5 p=0.07; IW T=-1.5 p=0.07.
+
+== DISCUSSION (key points) ==
+- Null hypothesis partially rejected: significant differences IW/IB vs CD, but NO significant difference IW vs IB.
+- Both implant groups showed shorter OT/DT than CD -> greater occlusal efficiency/stability from rigid implant foundation vs tissue-supported CD (resilient compressible mucosa needs settling/adaptation time).
+- IW slightly lower OT/DT than IB but not significant: in two-implant overdentures, force distribution largely controlled by supporting bone and denture base, limiting additional splinting effect. Small diameter, rounded cross-section, flexible titanium bar may explain why splinting gave no advantage.
+- Clinical implication: splinting of two implants in overdenture may not provide clear functional advantage; attachment selection can be based on simplicity, maintenance, cost.
+- OT/DT values (OT 0.29-0.52 s, DR 0.33-0.57 s, DL 0.37-0.58 s) consistent with earlier studies.
+- CD improved (OT/DT decreased) over 3 months due to denture base settling, tissue adaptation, improved stability. IW/IB stable (already short from rigid foundation).
+- Limitations: sample size calculated on maximum occlusal force not OT/DT; incomplete blinding (only T-Scan assessor blinded); implant stability by insertion torque not ISQ (no Osstell); short 3-month follow-up; no patient-reported outcomes or full functional simulation; intraoral welding is technique-sensitive.
+
+== CONCLUSION ==
+Within three months, immediately loaded mandibular two-implant overdentures showed similar occlusion and disocclusion times for splinted (intraoral welded bar) and non-splinted (ball) attachments, while both attachment types gave shorter times than a conventional complete denture.

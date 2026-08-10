@@ -6,7 +6,7 @@ date: 2023-01-15
 doi: 10.3390/jcm12020689
 source: radej-2023-condylar-displacement-malocclusion-cr-mip-sr.md
 category: [tmj]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/radej-2023-condylar-displacement-malocclusion-cr-mip-sr.pdf
 pdf_filename: radej-2023-condylar-displacement-malocclusion-cr-mip-sr.pdf
 source_collection: external

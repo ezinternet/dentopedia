@@ -6,7 +6,7 @@ date: 2026-04-23
 doi: 10.1016/j.jdsr.2026.04.004
 source: fuentes-barria-2026-heterogeneity-tmd-meta-analytic-interpretability.md
 category: [tmj]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: true
 pmid: "42064356"

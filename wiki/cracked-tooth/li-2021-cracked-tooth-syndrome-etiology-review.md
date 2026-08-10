@@ -6,7 +6,7 @@ date: 2021-12-15
 doi: 10.1155/2021/3788660
 journal: Pain Research and Management 2021:3788660
 source: li-2021-cracked-tooth-syndrome-etiology-review.md
-confidence: narrative-review
+evidence_level: narrative-review
 category: [cracked-tooth]
 pdf_path: /Users/oracleneo/llm-wiki/papers/li-2021-cracked-tooth-syndrome-etiology-review.pdf
 pdf_filename: li-2021-cracked-tooth-syndrome-etiology-review.pdf
@@ -53,8 +53,8 @@ CTS의 종합 review로 etiology 중심. 부적절 endo·deep restoration 등 �
 
 ## Strengths and Caveats
 [narrative-review] Primary data 없음
-[합의수준] 4축 framework는 분야 통용
-[claude해석] Iatrogenic 강조는 시술자에게 self-reflection 기회 — overtreatment·invasive 술식 경계
+[미검증] 4축 framework는 본 리뷰가 채택한 종합 구성 — 분야 전반의 통용 여부는 확인되지 않음
+[미검증] Iatrogenic 강조는 시술자에게 self-reflection 기회 — overtreatment·invasive 술식 경계
 [미검증] Etiology별 relative contribution 정량화 부족
 
 ## Related Papers

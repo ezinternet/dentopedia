@@ -6,13 +6,13 @@ date: 2026-07-07
 doi: ""
 source: ""
 category: [overviews]
-confidence: synthesis
+evidence_level: synthesis
 source_collection: internal
 tags: [implants, isq, primary-stability, arp, bone-density, macrogeometry, insertion-torque]
 relations:
-  - type: reinforces
+  - type: refines
     target: ko-2024-arp-implant-vertical-positioning-isq
-  - type: reinforces
+  - type: refines
     target: ayub-2025-implant-macro-geometry-primary-stability-low-density
 ---
 
@@ -143,4 +143,4 @@ Beyond the two levers covered above — ARP placement position and implant macro
 - [[implants/isq/andersson-2019-rfa-factors-5year-neoss-survival]] — ISQ ≥65 loading threshold over 5 years; contextualizes Ko 2024's ISQ ≥70 criterion
 - [[implants/isq/bavetta-2019-insertion-torque-isq-immediate-loading-extraction-socket]] — torque–ISQ decoupling in fresh extraction sockets; independent illustration of the same pattern Ko 2024 quantified with r=0.415
 - [[bone-regeneration/ridge-preservation]] — ARP methodology, DBBM-C efficacy, dimensional preservation; underpins Ko 2024's graft protocol
-- [[implants/versah-protocols/rittipakorn-2025-clockwise-osseodensification-primary-stability-cadaveric]] — complementary axis: surgical technique (osseodensification) as a third lever for primary stability in low-density bone alongside macro-geometry and placement position
+- [[implants/osseodensification/rittipakorn-2025-clockwise-osseodensification-primary-stability-cadaveric]] — complementary axis: surgical technique (osseodensification) as a third lever for primary stability in low-density bone alongside macro-geometry and placement position

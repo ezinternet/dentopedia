@@ -6,7 +6,7 @@ date: 2025-01-15
 doi: 10.1007/s00784-025-06155-1
 source: ayan-2025-home-use-desensitizing-agents-dentin-hypersensitivity-rct.md
 category: dentin-hypersensitivity
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: true
 pmid: "39810073"

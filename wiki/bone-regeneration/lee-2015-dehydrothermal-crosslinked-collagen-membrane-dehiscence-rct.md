@@ -6,7 +6,7 @@ date: 2015-12-01
 doi: 10.5051/jpis.2015.45.6.229
 source: lee-2015-dehydrothermal-crosslinked-collagen-membrane-dehiscence-rct.md
 category: [bone-regeneration]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/lee-2015-dehydrothermal-crosslinked-collagen-membrane-dehiscence-rct.pdf
 pdf_filename: lee-2015-dehydrothermal-crosslinked-collagen-membrane-dehiscence-rct.pdf
 source_collection: external

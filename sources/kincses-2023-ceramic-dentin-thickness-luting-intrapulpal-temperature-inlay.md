@@ -40,7 +40,7 @@ Int J Mol Sci 2023;24:5466 · D. Kincses, D. Jordaki, D. Szebeni, S. Kunsagi-Mat
 In-vitro 온도측정(thermocouple), 세라믹/상아질 두께·레진 합착제 변수.
 
 ## 4. Key Results and Benchmarks
-치수내 온도상승이 세라믹·상아질 두께 및 합착제 유형에 의존 [합의수준/미검증(수치)]. 얇을수록 열위험 ↑.
+치수내 온도상승이 세라믹·상아질 두께 및 합착제 유형에 의존 [확인, 다만 구체적 수치는 미검증]. 얇을수록 열위험 ↑.
 
 ## 5. Limitations and Future Work
 in-vitro, 혈류·치수 방어기전 미반영.

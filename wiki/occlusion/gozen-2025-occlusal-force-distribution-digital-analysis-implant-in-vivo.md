@@ -6,7 +6,7 @@ date: 2025-05-26
 doi: 10.1186/s12903-025-06205-w
 source: gozen-2025-occlusal-force-distribution-digital-analysis-implant-in-vivo.md
 category: [occlusion]
-confidence: in-vivo
+evidence_level: in-vivo
 source_collection: pubmed-text
 full_text: true
 pmid: "40420258"

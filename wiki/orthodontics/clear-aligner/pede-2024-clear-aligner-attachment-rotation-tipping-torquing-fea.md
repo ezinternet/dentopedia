@@ -6,7 +6,7 @@ date: 2024-09-17
 doi: 10.4103/jos.jos_199_23
 source: pede-2024-clear-aligner-attachment-rotation-tipping-torquing-fea.md
 category: [orthodontics/clear-aligner]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: true
 pmid: "39450220"

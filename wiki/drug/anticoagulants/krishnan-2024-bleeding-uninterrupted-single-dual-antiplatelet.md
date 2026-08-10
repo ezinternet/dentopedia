@@ -7,7 +7,7 @@ doi: ""
 journal: Ann Maxillofac Surg 14(2):137
 source: krishnan-2024-bleeding-uninterrupted-single-dual-antiplatelet.md
 category: [drug/anticoagulants]
-confidence: cross-sectional
+evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/krishnan-2024-bleeding-uninterrupted-single-dual-antiplatelet.pdf
 pdf_filename: krishnan-2024-bleeding-uninterrupted-single-dual-antiplatelet.pdf
 source_collection: external
@@ -47,7 +47,7 @@ Both groups: extractions completed without clinically significant bleeding; loca
 - No long-term follow-up
 
 ## Related Papers
-- [[drug/lu-2018-warfarin-antiplatelet-dental-extraction-management]] — Taiwan cohort, all regimens.
-- [[drug/guardieiro-2023-chitosan-cellulose-hemostasis-dapt-rct]] — chitosan vs cellulose hemostatic in DAPT.
-- [[drug/inchingolo-2024-anticoagulation-therapy-dental-practice-sr]] — modern SR.
-- [[drug/shah-2022-perioperative-antiplatelet-therapy-sr-ma]] — perioperative APT SR+MA.
+- [[drug/anticoagulants/lu-2018-warfarin-antiplatelet-dental-extraction-management]] — Taiwan cohort, all regimens.
+- [[drug/anticoagulants/guardieiro-2023-chitosan-cellulose-hemostasis-dapt-rct]] — chitosan vs cellulose hemostatic in DAPT.
+- [[drug/anticoagulants/inchingolo-2024-anticoagulation-therapy-dental-practice-sr]] — modern SR.
+- [[drug/anticoagulants/shah-2022-perioperative-antiplatelet-therapy-sr-ma]] — perioperative APT SR+MA.

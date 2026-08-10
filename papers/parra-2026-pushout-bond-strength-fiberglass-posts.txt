@@ -1,0 +1,55 @@
+Push-Out Bond Strength of Prefabricated Fiberglass Posts in Endodontically Treated Teeth After Two Intracanal Cleaning Protocols
+
+Parra J, Montoya G, Garzón H, Escudero M. Cureus. 2026;18(3):e105466. doi: 10.7759/cureus.105466. PMID: 42005158. PMCID: PMC13091686.
+
+Introduction
+
+For the rehabilitation of endodontically treated teeth that have lost a large amount of their dental structure, fiberglass posts have been used as an alternative to classic metal posts because their modulus of elasticity is similar to that of dentin, which allows better distribution of occlusal stresses along the axis of the root dentin. To cement a post, the tooth must first undergo an intracanal cleaning process as part of the endodontic treatment protocol. This procedure increases the permeability of the dentin and improves the penetration of the adhesive monomers between the demineralized collagen fibers, which results in a better-quality hybrid layer.
+
+Due to its antimicrobial properties and mechanism of action, sodium hypochlorite (NaOCl) has remained one of the most widely used endodontic intracanal irrigation agents. However, various studies have shown that NaOCl does not produce the desired antibacterial effect when used alone, but its effectiveness improves upon manual, mechanical, ultrasonic or laser activation. Owing to anatomical variations in root canals, mechanical and ultrasonic activation have been proposed to help clean remote areas of the root canal not adequately cleaned by conventional irrigation.
+
+Dual self-adhesive cements are considered the first choice for cementation of fiberglass posts since, compared with photoactivated systems, they do not require conventional adhesive systems, allow greater control over humidity in less-visible canal areas, and have a longer working time. However, there is insufficient evidence on whether the intracanal cleaning system affects the adhesive strength of posts.
+
+This study investigated the adhesive resistance of fiberglass posts cemented in endodontically treated teeth after intracanal cleaning with NaOCl via two protocols: mechanical activation using a rotary brush-type attachment (Versa Brush, Vista Apex) and ultrasonic activation using a Biosonic S1 scaler (Coltene).
+
+Materials and Methods
+
+An in vitro experimental study determined the adhesive resistance of precast fiberglass post interfaces cemented with self-adhesive cement in endodontically treated human premolars irrigated with NaOCl, using push-out displacement tests.
+
+Sample size was calculated with G*Power (v3.1.9.7) and Student's t-test: 14 sample bodies (7 per group) were needed for an effect size of 1.78 (group averages 18.96±4.36 vs 18±3.12 MPa for mechanical vs ultrasonic activation), power 0.8, alpha 0.05.
+
+Fourteen human premolars were acquired (approved by the Institutional Committee for Review of Human Ethics, Faculty of Health, Universidad del Valle, Cali, Colombia). Roots were endodontically prepared to a working length of 1 mm from the radiographic apex with a #35 apical file, using the step-back technique with 5% NaOCl irrigation, sealed with gutta-percha and MTA Fillapex cement, then temporarily sealed with Teflon/Coltosol and stored in dark humid containers at room temperature.
+
+After storage, crowns were removed 2 mm above the amelocemental junction; canals were unblocked leaving 4 mm apical gutta-percha seal, then shaped for a DT Light-Post IllusionX-RO #1 fiberglass post system (RDT Dental, Saint-Égrève, France).
+
+Samples were randomly divided into two groups of seven teeth each:
+- Group one (ultrasonic activation): canal cleaned with 10 ml of 5% NaOCl, activated with a Biosonic S1 scaler (28±3 kHz) tip #1 for 20 seconds, then irrigated with 20 ml sterile water to neutralize. Excess moisture removed with paper tips; post cleaned with isopropyl alcohol; TheraCem (BISCO, Inc., Schaumburg, Illinois, USA) cement injected apical-to-coronal; post seated and photoactivated 30 seconds (Ultradent Valo lamp, 1200 mW/cm2).
+- Group two (mechanical activation): canal cleaned with 10 ml of 5% NaOCl, activated with a low-speed rotational canal brush (Versa Brush) for 10 seconds, then irrigated with 20 ml sterile water. Same cementation protocol with TheraCem thereafter.
+
+All samples were aged in distilled water at 36°C for 30 days. Four cuts (2.5 mm thick each) were made per tooth (IsoMet 1000, Buehler), yielding three root discs (cervical, middle, apical) per tooth — 21 samples per group, 42 total.
+
+Push-out tests were performed on a universal testing machine (Instron Model 3366) in the apical-to-cervical direction with a 1 mm-diameter cylindrical plunger at 0.5 mm/min until post dislodgement. Stereomicroscopy (Stemi 2000C, Carl Zeiss) determined failure type after post removal. Two-factor ANOVA analyzed differences among zone and irrigation-activation type for maximum load resistance (MPa), with 95% CI and 5% significance level.
+
+Results
+
+Group one (ultrasonic activation) showed higher maximum strength (mean 13.60±5.10 MPa, median 13.09 [10.49-16.62]) compared with group two (mechanical activation, mean 11.62±4.13 MPa, median 11.21 [9.46-13.29]), though the difference was not statistically significant (p=0.1745).
+
+By root third: mechanical activation apical-third mean resistance was 12.10±5.25 MPa (median 11.56 [9.46-14.24]); ultrasonic activation apical-third mean resistance was 15.00±3.11 MPa (median 15.11 [12.47-17.78]) — the highest value among all cuts in either group, without statistically significant between-group difference.
+
+Cervical: mechanical 11.71±1.92 MPa vs ultrasonic 12.28±4.33 MPa. Middle: mechanical 11.03±4.98 MPa vs ultrasonic 13.51±7.35 MPa.
+
+Failure types observed: adhesive to dentin (AD), adhesive to post (AP), cohesive to dentin (CD), cohesive to post (CP). Both groups showed higher prevalence of adhesive failure, with some cohesive failures also observed.
+
+Discussion
+
+Adhesive strengths of TheraCem-cemented fiberglass posts were evaluated after NaOCl irrigation activated mechanically vs ultrasonically. Ultrasonic activation produced higher (though not statistically significant) resistance values, consistent with 2024 findings (Elfarraj et al.) that hypochlorite effectiveness improves with sonic/ultrasonic activation because these devices better access difficult-to-reach canal areas. Van der Sluis et al. (2007) linked ultrasonic activation duration/NaOCl concentration to complete dentin-layer removal; Aveiro et al. (2020) found ultrasonic activation increases irrigant solution heat, increasing collagen dissolution and dentin-tubule penetration — consistent with this study's highest resistance value (15 MPa) occurring in the ultrasonic group's apical disc.
+
+Apical cuts showed higher adhesive resistance in both groups, possibly because cement is thinnest apically, allowing greater post-to-dentin wall contact — consistent with Kahnamouei et al., who reported up to 16.72 MPa apically vs 4.38 MPa cervically. Mahrous et al. (2020) reported TheraCem exhibits high bond strength regardless of substrate, attributed to micromechanical penetration (inorganic dental material exchanged for synthetic resin) as its fundamental adhesion mechanism. Goracci et al. (2004) noted push-out tests are safer/more effective than microtensile testing for adhesive-strength measurement (less sample loss, easier, uniform load distribution).
+
+Failure-type findings are consistent with prior literature: García et al. (2019) reported adhesive failure predominance (90.9% across three cements); Moreno-Preciado et al. (2016) found 52.2% adhesive-to-dentin failure using eviction tests of fiberglass posts under different cementation protocols.
+
+Main limitation: the compressive-strength difference between bone and the artificial supports used; considered non-critical given the study's experimental nature.
+
+Conclusions
+
+The ultrasonic activation group showed higher average maximum-load resistance than the mechanical activation group, suggesting an advantage for ultrasound in adhesive strength, though the difference was not statistically significant — the two methods can be considered comparable within the limits of this study. Both groups showed greatest resistance in the apical third. In cases where apical-third cleaning is critical, ultrasonic activation may be preferred.

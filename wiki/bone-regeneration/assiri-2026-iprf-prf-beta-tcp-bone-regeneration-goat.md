@@ -6,7 +6,7 @@ date: 2026-01-22
 doi: 10.1007/s44445-025-00112-0
 source: assiri-2026-iprf-prf-beta-tcp-bone-regeneration-goat.md
 category: [bone-regeneration]
-confidence: animal
+evidence_level: animal
 source_collection: pubmed-text
 pmid: "41566115"
 pmcid: "PMC12824068"

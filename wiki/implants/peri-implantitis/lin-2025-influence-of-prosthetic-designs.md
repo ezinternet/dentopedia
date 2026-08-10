@@ -6,7 +6,7 @@ date: 2025-03-12
 doi: 10.1002/JPER.24-0144
 source: lin-2025-influence-of-prosthetic-designs.md
 category: [implants/peri-implantitis]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/lin-2025-influence-of-prosthetic-designs.pdf
 pdf_filename: lin-2025-influence-of-prosthetic-designs.pdf
 source_collection: external
@@ -63,4 +63,4 @@ PECOS-framed question; pooled weighted mean difference via inverse-variance meta
 
 ## Related Papers
 
-- [[implants/mortazavi-2021-bone-loss-tissue-bone-level-implants]] — 임플란트 타입(조직수준 vs 골수준) 축의 MBL 논의를 보철 디자인 전 영역으로 확장(extends).
+- [[implants/mbl/mortazavi-2021-bone-loss-tissue-bone-level-implants]] — 임플란트 타입(조직수준 vs 골수준) 축의 MBL 논의를 보철 디자인 전 영역으로 확장(extends).

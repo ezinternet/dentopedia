@@ -6,7 +6,7 @@ date: 2022-01-06
 doi: 10.1007/s00784-021-04361-1
 source: yassir-2022-cat-vs-fat-overview-systematic-reviews.md
 category: [orthodontics/clear-aligner]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: false
 pmid: "34993617"

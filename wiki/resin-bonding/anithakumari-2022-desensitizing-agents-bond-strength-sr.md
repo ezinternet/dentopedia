@@ -6,7 +6,7 @@ date: 2022-10-13
 doi: "10.4103/jcd.jcd_248_21"
 source: anithakumari-2022-desensitizing-agents-bond-strength-sr.md
 category: [resin-bonding]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/anithakumari-2022-desensitizing-agents-bond-strength-sr.pdf
 pdf_filename: anithakumari-2022-desensitizing-agents-bond-strength-sr.pdf
 source_collection: external

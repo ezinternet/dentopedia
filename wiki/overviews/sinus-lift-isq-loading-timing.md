@@ -7,7 +7,7 @@ type: overview
 category: [overviews]
 tags: [ISQ, sinus-lift, loading-timing, RBH, two-stage, TSFE, stability-dip, osseodensification]
 source_papers: 
-confidence: synthesis
+evidence_level: synthesis
 source: synthesis
 ---
 

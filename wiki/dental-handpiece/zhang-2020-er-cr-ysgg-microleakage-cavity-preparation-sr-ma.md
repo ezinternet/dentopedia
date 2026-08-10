@@ -6,7 +6,7 @@ date: 2020-10-06
 doi: "10.1186/s12903-020-01252-x"
 source: zhang-2020-er-cr-ysgg-microleakage-cavity-preparation-sr-ma.md
 category: [dental-handpiece]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "33023550"

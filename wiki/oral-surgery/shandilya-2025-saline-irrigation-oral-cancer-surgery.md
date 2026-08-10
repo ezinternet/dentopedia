@@ -6,7 +6,7 @@ date: 2025-02-01
 doi: 10.31557/APJCP.2025.26.2.657
 source: shandilya-2025-saline-irrigation-oral-cancer-surgery.md
 category: [oral-surgery]
-confidence: prospective
+evidence_level: prospective
 text_path: /Users/oracleneo/llm-wiki/papers/shandilya-2025-saline-irrigation-oral-cancer-surgery.txt
 text_filename: shandilya-2025-saline-irrigation-oral-cancer-surgery.txt
 source_collection: pubmed-text
@@ -79,4 +79,4 @@ Only perineural invasion was significantly associated with lavage positivity (p=
 
 ## Related Papers
 
-- [[oral-surgery/al-aroomi-2025-cgf-third-molar-postop-sr]] — post-operative wound healing context; saline irrigation is a standard component of post-surgical protocols
+- [[oral-surgery/third-molar/al-aroomi-2025-cgf-third-molar-postop-sr]] — post-operative wound healing context; saline irrigation is a standard component of post-surgical protocols

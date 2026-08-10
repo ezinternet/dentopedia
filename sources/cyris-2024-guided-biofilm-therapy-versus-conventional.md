@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-기존 [[periodontics/jo-2008-management-of-dental-biofilm-through]] 및 [[periodontics/smiley-2015-nonsurgical-periodontitis-srp-guideline]]의 SRP 중심 NSPT 근거에 더해, 저연마 분말 에어폴리싱 기반 GBT 프로토콜이 전통적 기구 조합과 임상적으로 동등한지를 직접 비교한 RCT가 필요했다. 본 연구(Cyris 2024)는 stage III/IV 환자에서 두 프로토콜의 포켓 폐쇄·PPD 감소가 동등하고 GBT가 시술시간만 단축됨을 보여, NSPT 기구 선택의 근거를 보강한다.
+기존 [[periodontics/oral-hygiene-instruction/jo-2008-management-of-dental-biofilm-through]] 및 [[periodontics/non-surgical-instrumentation/smiley-2015-nonsurgical-periodontitis-srp-guideline]]의 SRP 중심 NSPT 근거에 더해, 저연마 분말 에어폴리싱 기반 GBT 프로토콜이 전통적 기구 조합과 임상적으로 동등한지를 직접 비교한 RCT가 필요했다. 본 연구(Cyris 2024)는 stage III/IV 환자에서 두 프로토콜의 포켓 폐쇄·PPD 감소가 동등하고 GBT가 시술시간만 단축됨을 보여, NSPT 기구 선택의 근거를 보강한다.
 
 ## Three-line Summary
 

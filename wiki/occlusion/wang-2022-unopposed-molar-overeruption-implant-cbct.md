@@ -6,7 +6,7 @@ date: 2022-12-03
 doi: 10.1186/s12903-022-02619-y
 source: wang-2022-unopposed-molar-overeruption-implant-cbct.md
 category: [occlusion]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 full_text: true
 pmid: "36463135"

@@ -27,6 +27,7 @@ Usage:
 """
 
 import os
+import re
 import sys
 import unicodedata
 
@@ -44,17 +45,35 @@ def _stem_nfc(fname: str) -> str:
     return unicodedata.normalize("NFC", os.path.splitext(fname)[0])
 
 
+def _source_collection(fname: str) -> str:
+    """sources/{fname}의 source_collection 값을 반환. 없으면 빈 문자열."""
+    path = os.path.join(SOURCES_DIR, fname)
+    try:
+        with open(path, encoding="utf-8") as f:
+            content = f.read(2000)
+    except OSError:
+        return ""
+    m = re.search(r"^source_collection:\s*(.+)$", content, re.MULTILINE)
+    if m:
+        return m.group(1).strip().strip('"').strip("'")
+    return ""
+
+
 def main():
     pdfs = {
         _stem_nfc(f)
         for f in os.listdir(PAPERS_DIR)
         if f.endswith(".pdf") or f.endswith(".txt")
     }
-    srcs = {
+
+    # pubmed-abstract sources는 로컬 아티팩트(PDF/txt)가 없는 초록 전용 인제스트 — 1:1 체크 면제
+    all_src_fnames = [f for f in os.listdir(SOURCES_DIR) if f.endswith(".md")]
+    abstract_only_stems = {
         _stem_nfc(f)
-        for f in os.listdir(SOURCES_DIR)
-        if f.endswith(".md")
+        for f in all_src_fnames
+        if _source_collection(f) == "pubmed-abstract"
     }
+    srcs = {_stem_nfc(f) for f in all_src_fnames} - abstract_only_stems
 
     # CI short-circuit: PDFs are gitignored, so a CI checkout never has the
     # full papers/ set sources/ was ingested against. This holds regardless

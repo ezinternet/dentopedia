@@ -136,3 +136,185 @@
       "Influence of resin cement shade on esthetic outcomes in ceramic veneers: a systematic review" — Front Dent Med
 - [x] PMID 42319482 | RCT | OA:none | fluoride-topical | edat 2026/06/20 — INGESTED 2026-06-20 → wiki/caries/bhandari-2026-saliva-substitute-fluoride-varnish-radiation-caries-rct
       "A randomized controlled trial comparing the effect of salivary substitute and fluoride varnish on radiation caries in irradiated head and neck cancer patients" — Support Care Cancer
+- [ ] PMID 42437817 | RCT | OA:none | periodontics/soft-tissue | edat 2026/07/13
+      "De-epithelialized gingival unit graft for phenotype modification & root coverage RCT" — Clin Oral Investig
+- [ ] PMID 42436455 | SR | OA:none | resin-bonding | edat 2026/07/11
+      "Adhesive bonding to dentin in aging & diabetes: scoping review" — BMC Oral Health
+- [ ] PMID 42435072 | RCT | OA:none | periodontics | edat 2026/07/11
+      "Intrabony defects: bone graft+collagen membrane, apically incised CAF vs papilla preservation RCT" — Clin Oral Investig
+- [ ] PMID 42429331 | RCT | OA:none | bone-regeneration/ridge-preservation | edat 2025/11/25
+      "ARP using controlled-release erythropoietin RCT" — J Craniofac Surg
+- [ ] PMID 42427341 | SR | OA:none | geriatric-dentistry | edat 2026/01/01
+      "Xylitol gum/candies oral health in older/disabled SR" — Spec Care Dentist
+- [ ] PMID 42426686 | SR+MA | OA:none | periodontics | edat 2026/07/09
+      "L-PRF adjunct to OFD in periodontal intrabony defects SR+MA" — BMC Oral Health
+- [ ] PMID 42421793 | SR+MA | OA:none | periodontics | edat 2026/06/24
+      "Biodegradable vs conventional toothbrushes biofilm control SR+MA" — Front Oral Health
+- [ ] PMID 42420971 | SR | OA:none | endodontics/irrigation | edat 2026/07/09
+      "Root canal disinfectants on E. faecalis biofilms SR" — BMC Oral Health
+- [ ] PMID 42420969 | SR | OA:none | orthodontics | edat 2026/07/08
+      "Anterior intrusion mechanics for adult deep bite SR" — BMC Oral Health
+- [ ] PMID 42418809 | SR | OA:none | caries | edat 2026/08/01
+      "Remineralizing white-spot lesions in primary teeth with varnishes SR" — Clin Exp Dent Res
+- [ ] PMID 42402583 | SR+MA | OA:none | endodontics/vpt | edat 2026/07/06
+      "Chitosan pulpotomy medicaments vs conventional in primary teeth SR+MA" — BMC Oral Health
+- [ ] PMID 42399926 | SR | OA:none | caries | edat 2026/07/03
+      "How dietary interventions impact oral conditions SR" — BMC Oral Health
+- [ ] PMID 42395591 | SR+MA | OA:none | behavioral-dentistry/dental-anxiety | edat 2026/07/02
+      "AI/digital tech interventions for dental anxiety SR+MA" — Depress Anxiety
+- [ ] PMID 42393673 | RCT | OA:none | implants/isq | edat 2026/07/03
+      "Implant stability using three osteotomy techniques RCT" — BMC Oral Health
+- [ ] PMID 42393662 | SR+MA | OA:none | periodontics | edat 2026/07/03
+      "Periodontitis as independent CVD risk factor SR+MA" — BMC Oral Health
+- [ ] PMID 42391459 | SR | OA:none | endodontics | edat 2026/06/08
+      "Biomarker-based classification of periapical tissue healing SR" — Eur Endod J
+- [ ] PMID 42390492 | RCT | OA:none | sinus-lift/transcrestal | edat 2026/07/01
+      "Biomaterials & intra-sinus bone change, indirect sinus augmentation RCT" — J Indian Prosthodont Soc
+- [x] PMID 42384081 | SR | OA:PMC PMC13323817 | periodontics | edat 2026/07/01
+      "Resveratrol on periodontal disease control SR" — Oral Health Prev Dent
+- [ ] PMID 42381124 | RCT | OA:none | implants | edat 2026/08/01
+      "Peri-implant tissue stability: GBR bioceramic vs xenograft 1yr cohort" — Clin Implant Dent Relat Res
+- [ ] PMID 42380842 | SR | OA:none | dental-materials/zirconia | edat 2026/07/01
+      "FEA stress distribution in posterior zirconia implants SR" — BMC Oral Health
+- [ ] PMID 42377571 | retrospective | OA:none | endodontics/anatomy | edat 2026/06/30
+      "C-shaped canal (MSM) & radix entomolaris (MFM) CBCT association" — Clin Oral Investig
+- [ ] PMID 42377201 | RCT | OA:none | post-and-core | edat 2026/06/29
+      "3D-printed resin endocrowns/FCC vs SSC primary molars RCT" — J Indian Soc Pedod Prev Dent
+- [ ] PMID 42377200 | RCT | OA:none | caries | edat 2026/06/29
+      "Hybrid resin/nanohybrid/SSC primary second molars RCT" — J Indian Soc Pedod Prev Dent
+- [ ] PMID 42377199 | RCT | OA:none | caries | edat 2026/06/29
+      "Saliva absorbers vs rubber dam vs cotton rolls isolation children RCT" — J Indian Soc Pedod Prev Dent
+- [ ] PMID 42377198 | RCT | OA:none | caries | edat 2026/06/29
+      "Biotic-based toothpastes in children with special needs RCT" — J Indian Soc Pedod Prev Dent
+- [ ] PMID 42377197 | RCT | OA:none | behavioral-dentistry/dental-anxiety | edat 2026/06/29
+      "Music therapy during pediatric exodontia RCT" — J Indian Soc Pedod Prev Dent
+- [ ] PMID 42377196 | RCT | OA:none | behavioral-dentistry/dental-anxiety | edat 2026/06/29
+      "Tell-Show-Do variants for dental anxiety in children RCT" — J Indian Soc Pedod Prev Dent
+- [ ] PMID 42376854 | in-vitro | OA:none | orthodontics/myofunctional | edat 2026/06/30
+      "Cytotoxicity of pre-orthodontic trainer appliances on gingival fibroblasts" — Turk J Orthod
+- [ ] PMID 42374383 | RCT | OA:none | immediate-implant | edat 2026/06/29
+      "Extended PRF vs allograft in immediate implant placement RCT" — BMC Oral Health
+- [ ] PMID 42374130 | RCT | OA:none | local-anesthesia | edat 2026/06/29
+      "IV etomidate vs propofol sedation for uncooperative children RCT" — Sci Rep
+- [ ] PMID 42360612 | SR | OA:none | artificial-intelligence | edat 2026/06/26
+      "AI-assisted histopath grading of oral epithelial dysplasia SR" — Head Neck Pathol
+- [ ] PMID 42358973 | SR+MA | OA:none | periodontics | edat 2026/06/10
+      "Biomarkers differentiating diabetic vs chronic periodontitis SR+MA" — Front Immunol
+- [ ] PMID 42356145 | SR | OA:none | oral-microbiology | edat 2026/06/10
+      "Oral-gut microbiome connection in periodontitis SR" — Medicina (Kaunas)
+- [ ] PMID 42356103 | SR+MA | OA:none | orthodontics/clear-aligner | edat 2026/06/04
+      "Clear aligners vs fixed appliances OHRQoL SR+MA" — Medicina (Kaunas)
+- [ ] PMID 42355439 | in-vivo | OA:none | orthodontics/myofunctional | edat 2026/05/28
+      "Airway changes after prefab myofunctional appliance, Class II div 1" — Life (Basel)
+- [ ] PMID 42352289 | SR | OA:none | orthodontics/clear-aligner | edat 2026/06/02
+      "Composite resins for orthodontic attachments in clear aligner therapy SR" — Biomolecules
+- [ ] PMID 42348534 | SR+MA | OA:none | implants/peri-implantitis | edat 2026/06/25
+      "Adjunctive antibiotics vs non-antibiotic after debridement for peri-implantitis SR+MA" — PLoS One
+- [ ] PMID 42345256 | SR | OA:none | periodontics | edat 2026/06/25
+      "Association between ankylosing spondylitis & periodontitis SR" — Oral Health Prev Dent
+- [ ] PMID 42339863 | RCT | OA:none | bone-regeneration | edat 2026/06/22
+      "Implants in atrophic ridges: collagenated xenogeneic vs autogenous 4yr RCT" — Braz Oral Res
+- [ ] PMID 42337524 | RCT | OA:none | implants/soft-tissue | edat 2026/06/23
+      "Fascia lata allograft vs SCTG for peri-implant mucosal augmentation RCT" — BMC Oral Health
+- [x] PMID 42335349 | RCT | OA:PMC PMC13290012 | interdental-cleaning | edat 2026/06/01
+      "3D-printed cleaning splints for approximal biofilm removal (IDB) RCT" — Clin Exp Dent Res
+- [x] PMID 42334533 | RCT | OA:PMC PMC13291275 | orthodontics/clear-aligner | edat 2026/06/23
+      "Canine retraction with/without palatal power arm, in-house clear aligners RCT" — Prog Orthod
+- [ ] PMID 42332742 | SR | OA:none | oral-medicine | edat 2026/06/22
+      "Food allergies & oral manifestations SR" — BMC Oral Health
+- [x] PMID 42332660 | RCT | OA:PMC PMC13289338 | complete-denture | edat 2026/06/22
+      "Occlusion/disocclusion time: splinted vs non-splinted 2-implant overdentures RCT" — BMC Oral Health
+- [ ] PMID 42330087 | narrative-review | OA:none | orthodontics | edat 2026/06/02
+      "Malocclusion management in mixed dentition: evidence review" — J Vis Exp
+- [ ] PMID 42330054 | SR+MA | OA:none | behavioral-dentistry/dental-anxiety | edat 2026/06/02
+      "Non-pharm behavior guidance for dental anxiety in autistic children SR+MA" — J Vis Exp
+- [x] PMID 42322443 | RCT | OA:PMC PMC13283190 | dentin-hypersensitivity | edat 2026/06/20
+      "8% arginine + low-level laser for dentin hypersensitivity RCT" — Lasers Med Sci
+- [x] PMID 41877071 | RCT | OA:PMC PMC13134079 | implant-iip-loading | edat 2026/03/24 — ALREADY INGESTED (dup, checkbox synced 2026-07-24) → wu-2026-immediate-provisionalization-natural-crown-frc
+      "Effect of immediate provisionalization using natural crowns with fiber splints on gingival contour and esthetic outcomes after immediate implant placement: a randomized clinical trial." — BMC Oral Health
+- [x] PMID 41862887 | SR+MA | OA:PMC PMC13126965 | implant-iip-loading | edat 2026/03/20 — ALREADY INGESTED (dup, checkbox synced 2026-07-24) → zadikian-2026-open-healing-immediate-implant-mucosa
+      "Impact of an open healing approach on peri-implant mucosa following immediate implant placement with transmucosal provisionalization: a systematic review and meta-analysis." — BMC Oral Health
+- [x] PMID 41574557 | SR | OA:PMC PMC12828728 | implant-iip-loading | edat 2026/02/01 — INGESTED 2026-07-24 → wiki/implants/gallucci-2026-current-state-of-evidence-for
+      "Current State of Evidence for Implant Placement and Loading in Partially Edentulous Patients: A Systematic Review." — Clin Implant Dent Relat Res
+- [x] PMID 39622908 | SR+MA | OA:none | implant-iip-loading | edat 2024/12/02 — ALREADY INGESTED (dup, confirmed 2026-07-25 by exact author/DOI/date match) → gaddale-2024-immediate-implant-loading-esthetic-tissue-sr-ma
+      "Soft and hard tissue changes following immediate implant placement and immediate loading in aesthetic zone-a systematic review and meta-analysis." — Evid Based Dent
+- [x] PMID 40626839 | RCT | OA:none | implant-iip-loading | edat 2025/01/01 — ALREADY INGESTED (dup, confirmed 2026-07-25 by exact title/topic match) → bajaj-2025-cgf-enriched-bone-graft-iipp-rct
+      "Comparative evaluation of immediate implant placement and provisionalization (IIPP) with and without a concentrated growth factor-enriched bone graft: A randomized controlled trial." — Dent Med Probl
+- [x] PMID 39054170 | SR | OA:none | implant-iip-loading | edat 2024/07/25 — ALREADY INGESTED (dup, confirmed 2026-07-25 by exact title/journal match) → qian-2024-anterior-maxillary-implants-placement-loading-nma
+      "Comparison of implant placement and loading protocols for single anterior maxillary implants: A systematic review and network meta-analysis." — J Prosthet Dent
+- [x] PMID 38180330 | SR | OA:none | implant-iip-loading | edat 2024/09/01 — ALREADY INGESTED (dup, confirmed 2026-07-25 by exact title match) → martins-2024-facial-bone-wall-immediate-implant-esthetic
+      "Is the facial bone wall critical to achieving esthetic outcomes in immediate implant placement with immediate restoration? A systematic review." — Adv Clin Exp Med
+- [ ] PMID 38693759 | RCT | OA:none | implant-iip-loading | edat 2024/05/01
+      "Immediate versus early loading of immediately placed bone-level tapered dental implants with hydrophilic surface in full arch maxillary rehabilitation: A pilot randomized clinical trial with 2-year follow-up." — Clin Implant Dent Relat Res
+- [x] PMID 38109387 | RCT | OA:none | implant-iip-loading | edat 2023/12/18 — INGESTED 2026-07-25 → wiki/immediate-implant/socket-shield/venkatraman-2023-comparison-soft-tissue-volumetric
+      "Comparison of Soft Tissue Volumetric Changes and Pink Esthetics After Immediate Implant Placement with Socket Shield and Conventional Techniques: A Randomized Controlled Trial." — Int J Prosthodont
+- [x] PMID 37957760 | RCT | OA:PMC PMC10644537 | implant-iip-loading | edat 2023/11/13 — INGESTED 2026-07-24 → wiki/immediate-implant/gap-grafting/el-ebiary-2023-guided-immediate-implant-mixture-autogenous
+      "Guided immediate implant with and without using a mixture of autogenous and xeno bone grafts in the dental esthetic zone. A randomized clinical trial." — BMC Res Notes
+- [x] PMID 37750531 | SR+MA | OA:none | implant-iip-loading | edat 2023/09/01 — ALREADY INGESTED (dup, confirmed 2026-07-25 by exact title match) → wittneben-2023-immediate-implant-loaded-single-crown-sr
+      "Clinical performance of immediately placed and immediately loaded single implants in the esthetic zone: A systematic review and meta-analysis." — Clin Oral Implants Res
+- [x] PMID 37750515 | SR+MA | OA:none | implant-iip-loading | edat 2023/09/01 — ALREADY INGESTED (dup, confirmed 2026-07-25 by exact title match) → hamilton-2023-type1a-immediate-implant-immediate-loading-esthetic-sr-ma
+      "Selection criteria for immediate implant placement and immediate loading for single tooth replacement in the maxillary esthetic zone: A systematic review and meta-analysis." — Clin Oral Implants Res
+- [x] PMID 37279220 | SR+MA | OA:none | implant-iip-loading | edat unknown — ALREADY INGESTED (dup, confirmed 2026-07-25 by exact title/DOI match, jomi.10112) → qin-2023-immediate-implant-provisionalization-maxillary-esthetic-sr-ma
+      "Immediate Implant Placement With or Without Immediate Provisionalization in the Maxillary Esthetic Zone: A Systematic Review and Meta-analysis." — Int J Oral Maxillofac Implants
+- [x] PMID 35734911 | SR+MA | OA:none | implant-iip-loading | edat 2022/07/15 — ALREADY INGESTED (dup, confirmed 2026-07-25 by exact title/author/journal match) → pitman-2022-immediate-implant-provisionalization-sr-ma
+      "Immediate implant placement with or without immediate provisionalization: A systematic review and meta-analysis." — J Clin Periodontol
+- [x] PMID 35318752 | RCT | OA:none | implant-iip-loading | edat 2022/04/07 — INGESTED 2026-07-25 → wiki/immediate-implant/puisys-2022-immediate-implant-placement-vs-early
+      "Immediate implant placement vs. early implant treatment in the esthetic area. A 1-year randomized clinical trial." — Clin Oral Implants Res
+- [x] PMID 36510942 | SR+MA | OA:PMC PMC8884353 | implant-iip-loading | edat 2022/01/01 — ALREADY INGESTED (dup, checkbox synced 2026-07-24) → sutariya-2022-soft-tissue-immediate-provisionalization-sr-ma
+      "The soft tissue esthetic outcome with and without immediate provisionalization in immediate implants: A systematic review and meta-analysis." — J Indian Prosthodont Soc
+- [x] PMID 34642992 | SR | OA:none | implant-iip-loading | edat 2021/10/01 — INGESTED 2026-07-25 → wiki/immediate-implant/gotfredsen-2021-patient-perception-timing-concepts-implant
+      "Patient's perception of timing concepts in implant dentistry: A systematic review." — Clin Oral Implants Res
+- [x] PMID 34642986 | SR+MA | OA:none | implant-iip-loading | edat 2021/10/01 — ALREADY INGESTED (dup, confirmed 2026-07-25 by exact pmid match in existing frontmatter) → pommer-2021-maxillary-single-tooth-timing-protocols-sr-ma
+      "Long-term outcomes of maxillary single-tooth implants in relation to timing protocols of implant placement and loading: Systematic review and meta-analysis." — Clin Oral Implants Res
+- [x] PMID 34642985 | SR | OA:none | implant-iip-loading | edat 2021/10/01 — INGESTED 2026-07-25 → wiki/immediate-implant/esthetic-soft-tissue/francisco-2021-timing-implant-placement-loading-esthetic
+      "Is the timing of implant placement and loading influencing esthetic outcomes in single-tooth implants?-A systematic review." — Clin Oral Implants Res
+- [x] PMID 34411212 | SR | OA:none | implant-iip-loading | edat 2021/01/01 — ALREADY INGESTED (dup, confirmed 2026-07-25 by exact title/author/DOI match) → zhou-2021-placement-loading-protocols-single-implants-sr
+      "Placement and Loading Protocols for Single Implants in Different Locations: A Systematic Review." — Int J Oral Maxillofac Implants
+- [x] PMID 33141935 | RCT | OA:PMC PMC7839711 | implant-iip-loading | edat 2020/11/25 — ALREADY INGESTED (dup, checkbox synced 2026-07-24) → slagter-2021-immediate-single-implant-provisionalization-5year
+      "Immediate placement of single implants with or without immediate provisionalization in the maxillary aesthetic region: A 5-year comparative study." — J Clin Periodontol
+- [x] PMID 32542725 | RCT | OA:none | implant-iip-loading | edat 2020/06/28 — INGESTED 2026-07-25 → wiki/immediate-implant/esthetic-soft-tissue/jiang-2020-hard-soft-tissue-alterations-during
+      "Hard and soft tissue alterations during the healing stage of immediate implant placement and provisionalization with or without connective tissue graft: A randomized clinical trial." — J Clin Periodontol
+- [x] PMID 31846073 | RCT | OA:none | implant-iip-loading | edat 2020/01/09 — INGESTED 2026-07-25 → wiki/immediate-implant/esthetic-soft-tissue/wang-2020-volumetric-facial-contour-changes-immediately (relations: refines chan-2019, same/overlapping cohort)
+      "Volumetric facial contour changes of immediately placed implants with and without immediate provisionalization." — J Periodontol
+- [x] PMID 31292983 | RCT | OA:none | implant-iip-loading | edat 2019/08/25 — INGESTED 2026-07-25 → wiki/immediate-implant/esthetic-soft-tissue/chan-2019-randomized-controlled-trial-compare-aesthetic
+      "A randomized controlled trial to compare aesthetic outcomes of immediately placed implants with and without immediate provisionalization." — J Clin Periodontol
+- [x] PMID 30693399 | RCT | OA:none | implant-iip-loading | edat 2019/01/28 — INGESTED 2026-07-25 → wiki/immediate-implant/esthetic-soft-tissue/girlanda-2019-deproteinized-bovine-bone-derived-collagen
+      "Deproteinized bovine bone derived with collagen improves soft and bone tissue outcomes in flapless immediate implant approach and immediate provisionalization: a randomized clinical trial." — Clin Oral Investig
+- [x] PMID 30328205 | SR | OA:none | implant-iip-loading | edat 2018/10/01 — INGESTED 2026-07-25 → wiki/immediate-implant/loading-protocol/huynh-ba-2018-immediate-loading-vs-early-conventional (relations: reinforces qian-2024, Opus-reviewed no-supersession)
+      "Immediate loading vs. early/conventional loading of immediately placed implants in partially edentulous patients from the patients' perspective: A systematic review." — Clin Oral Implants Res
+- [x] PMID 30328194 | SR | OA:none | implant-iip-loading | edat 2018/10/01 — INGESTED 2026-07-25 → wiki/implants/gallucci-2018-implant-placement-loading-protocols-partially (superseded_by gallucci-2026, partial scope)
+      "Implant placement and loading protocols in partially edentulous patients: A systematic review." — Clin Oral Implants Res
+- [x] PMID 28517971 | SR+MA | OA:none | implant-iip-loading | edat 2017/05/18 — INGESTED 2026-07-25 → wiki/immediate-implant/esthetic-soft-tissue/kinaia-2017-soft-tissue-changes-around (superseded_by pitman-2022/qin-2023/sutariya-2022, partial scope — 3rd analysis only)
+      "Soft Tissue Changes Around Immediately Placed Implants: A Systematic Review and Meta-Analyses With at Least 12 Months of Follow-Up After Functional Loading." — J Periodontol
+- [ ] PMID 27861657 | SR+MA | OA:none | implant-iip-loading | edat 2016/01/01
+      "Soft and Hard Tissue Changes Following Immediate Placement or Immediate Restoration of Single-Tooth Implants in the Esthetic Zone: A Systematic Review and Meta-Analysis." — Int J Oral Maxillofac Implants
+- [ ] PMID 25496243 | RCT | OA:none | implant-iip-loading | edat 2014/12/12
+      "Impact of placement and restoration timing on single-implant esthetic outcome - a randomized clinical trial." — Clin Oral Implants Res
+- [ ] PMID 24502689 | SR | OA:none | implant-iip-loading | edat 2014/02/06
+      "A systematic review on the innervation of peri-implant tissues with special emphasis on the influence of implant placement and loading protocols." — Clin Oral Implants Res
+- [x] PMID 26669545 | RCT | OA:none | implant-iip-loading | edat 2015/01/01 — ALREADY INGESTED (dup, confirmed 2026-07-25 by exact title/author match) → esposito-2015-immediate-loading-vs-delayed-anterior-rct
+      "Immediate loading of post-extractive versus delayed placed single implants in the anterior maxilla: outcome of a pragmatic multicenter randomised controlled trial 1-year after loading." — Eur J Oral Implantol
+- [ ] PMID 24502614 | SR | OA:none | implant-iip-loading | edat 2014/02/06
+      "Immediate placement of dental implants in the esthetic zone: a systematic review and pooled analysis." — J Periodontol
+- [ ] PMID 22509755 | SR+MA | OA:none | implant-iip-loading | edat 2012/04/17
+      "Effect of the timing of restoration on implant marginal bone loss: a systematic review." — J Periodontol
+- [x] PMID 20977611 | RCT | OA:none | implant-iip-loading | edat 2010/10/26 — INGESTED 2026-07-25 → wiki/immediate-implant/loading-protocol/shibly-2010-immediate-implants-immediate-loading-conventional
+      "Immediate implants with immediate loading vs. conventional loading: 1-year randomized clinical trial." — Clin Implant Dent Relat Res
+- [x] PMID 20681808 | RCT | OA:none | implant-iip-loading | edat 2010/08/03 — INGESTED 2026-07-25 → wiki/immediate-implant/loading-protocol/shibly-2010-bone-regeneration-around-implants-in
+      "Bone regeneration around implants in periodontally compromised patients: a randomized clinical trial of the effect of immediate implant with immediate loading." — J Periodontol
+- [ ] PMID 20369102 | SR+MA | OA:none | implant-iip-loading | edat 2010/01/01
+      "Immediate placement or immediate restoration/loading of single implants for molar tooth replacement: a systematic review and meta-analysis." — Int J Oral Maxillofac Implants
+- [x] PMID 19835754 | RCT | OA:none | implant-iip-loading | edat 2009/11/01 — INGESTED 2026-07-25 → wiki/immediate-implant/esthetic-soft-tissue/block-2009-prospective-evaluation-immediate-delayed
+      "Prospective evaluation of immediate and delayed provisional single tooth restorations." — J Oral Maxillofac Surg
+- [ ] PMID 27314123 | SR | OA:none | implant-iip-loading | edat 2016/01/01
+      "Single implants in dorsal areas - A systematic review." — Eur J Oral Implantol
+
+Found by manual PDF discovery (not the original scout search), 2026-07-25 — same topic, added retroactively:
+- [x] PMID 27722222 | RCT | OA:none | implant-iip-loading | edat 2016/01/01 — INGESTED 2026-07-25 → wiki/immediate-implant/felice-2016-immediate-immediate-delayed-post-extractive
+      "Immediate, immediate-delayed (6 weeks) and delayed (4 months) post-extractive single implants: 4-month post-loading data from a randomised controlled trial." — Eur J Oral Implantol 2016;9(3):233-247
+- [x] PMID 28327692 | RCT | OA:none | implant-iip-loading | edat 2017/01/01 — INGESTED 2026-07-25 → wiki/immediate-implant/esposito-2017-immediate-immediate-delayed-post-extractive (same 210-pt cohort as 27722222, 1-year follow-up of the 4-month report above)
+      "Immediate, immediate-delayed (6 weeks) and delayed (4 months) post-extractive single implants: 1-year post-loading data from a randomised controlled trial." — Eur J Oral Implantol 2017;10(1):11-26
+- [x] PMID 27314114 | SR | OA:none | implant-iip-loading | edat 2016/01/01 — INGESTED 2026-07-25 → wiki/immediate-implant/esthetic-soft-tissue/weigl-2016-impact-immediately-placed-restored
+      "The impact of immediately placed and restored single-tooth implants on hard and soft tissues in the anterior maxilla." — Eur J Oral Implantol 2016;9 Suppl 1:S89-106
+- [x] PMID 28944355 | RCT | OA:none | implant-iip-loading | edat 2017/01/01 — INGESTED 2026-07-25 → wiki/immediate-implant/checchi-2017-wide-diameter-immediate-post-extractive (relations: contradicts puisys-2022-immediate-implant-placement-vs-early — molar/wide-diameter, opposite esthetic direction)
+      "Wide diameter immediate post-extractive implants vs delayed placement of normal-diameter implants in preserved sockets in the molar region: 1-year post-loading outcome of a randomised controlled trial." — Eur J Oral Implantol 2017;10(3):263-278

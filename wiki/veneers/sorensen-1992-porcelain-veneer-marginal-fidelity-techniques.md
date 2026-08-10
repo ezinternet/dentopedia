@@ -6,7 +6,7 @@ date: 1992-01-01
 doi: 10.1016/0022-3913(92)90040-H
 source: sorensen-1992-porcelain-veneer-marginal-fidelity-techniques.md
 category: [veneers]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/sorensen-1992-porcelain-veneer-marginal-fidelity-techniques.pdf
 pdf_filename: sorensen-1992-porcelain-veneer-marginal-fidelity-techniques.pdf
 source_collection: external

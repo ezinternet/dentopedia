@@ -6,7 +6,7 @@ date: 2023-02-01
 doi: 10.5005/jp-journals-10024-3472
 source: ali-2023-cadcam-restoration-failure-reasons-sr-ma.md
 category: [dental-materials]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/ali-2023-cadcam-restoration-failure-reasons-sr-ma.pdf
 pdf_filename: ali-2023-cadcam-restoration-failure-reasons-sr-ma.pdf
 source_collection: external

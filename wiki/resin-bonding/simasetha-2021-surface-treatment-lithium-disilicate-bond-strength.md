@@ -6,7 +6,7 @@ date: 2021-12-17
 doi: 10.1055/s-0041-1735908
 source: simasetha-2021-surface-treatment-lithium-disilicate-bond-strength.md
 category: [resin-bonding]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/simasetha-2021-surface-treatment-lithium-disilicate-bond-strength.pdf
 pdf_filename: simasetha-2021-surface-treatment-lithium-disilicate-bond-strength.pdf
 source_collection: external

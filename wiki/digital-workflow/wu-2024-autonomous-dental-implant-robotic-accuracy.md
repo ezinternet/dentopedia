@@ -6,7 +6,7 @@ date: 2024-08-01
 doi: "10.1016/j.prosdent.2024.07.020"
 source: wu-2024-autonomous-dental-implant-robotic-accuracy.md
 category: [digital-workflow]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/wu-2024-autonomous-dental-implant-robotic-accuracy.pdf
 pdf_filename: wu-2024-autonomous-dental-implant-robotic-accuracy.pdf
 source_collection: external

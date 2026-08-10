@@ -6,7 +6,7 @@ date: 2025-02-10
 doi: 10.1111/clr.14408
 source: misch-2025-abutment-height-emergence-angle-peri-implant-bone-loss.md
 category: implants/soft-tissue
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 full_text: true
 pmid: "39927705"

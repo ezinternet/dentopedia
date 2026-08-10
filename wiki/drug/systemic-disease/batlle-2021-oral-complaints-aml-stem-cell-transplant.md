@@ -6,7 +6,7 @@ date: 2021-09-01
 doi: 10.4317/medoral.24647
 source: batlle-2021-oral-complaints-aml-stem-cell-transplant.md
 category: [drug/systemic-disease]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/batlle-2021-oral-complaints-aml-stem-cell-transplant.pdf
 pdf_filename: batlle-2021-oral-complaints-aml-stem-cell-transplant.pdf
 source_collection: external
@@ -44,4 +44,4 @@ Retrospective cohort; single center.
 High oral complication burden in allo-HSCT. Oral GVHD requires coordinated dental-oncology management. Pre-HSCT oral health optimization is key.
 
 ## Related Papers
-- [[drug/shiboski-2016-acr-eular-sjogren-classification-criteria]] — related
+- [[drug/systemic-disease/shiboski-2016-acr-eular-sjogren-classification-criteria]] — related

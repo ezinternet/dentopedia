@@ -1,0 +1,16 @@
+Title: Long-term outcomes of maxillary single-tooth implants in relation to timing protocols of implant placement and loading: Systematic review and meta-analysis
+Authors: Pommer B, Danzinger M, Leite Aiquel L, Pitta J, Haas R
+Journal: Clinical Oral Implants Research, Vol 32, Suppl 21, Pages 56-66
+Date: 2021-10-01
+DOI: 10.1111/clr.13838
+PMID: 34642986
+
+Abstract:
+
+The aim of the present systematic literature review was to determine whether long-term treatment results with single-tooth implants may differ depending on the timing of implant placement in relation to tooth extraction (immediate IP/early EP/delayed DP) and the timing of prosthetic loading (immediate IL/early EL/delayed DL).
+
+Electronic and manual searches were performed to identify studies reporting on long-term results (survival rate and/or marginal bone resorption after ≥3 years) of maxillary single-tooth implants in the aesthetic zone using defined placement and loading protocols. Comparative trials were subjected to meta-analyses whilst data from single-arm studies were pooled to evaluate differences between timing protocols.
+
+A total of 7 controlled trials were considered for meta-analyses: immediate loading was compared to delayed loading in 3 studies on immediate placement (IPIL vs. IPDL, p=.306) and in 2 studies on delayed placement (DPIL vs. DPDL, p=1.000) whilst 2 studies compared early versus delayed placement with delayed loading (EPDL vs. DPDL, p=.600), however, without significant differences. Pooled data analysis of 29 studies (965 implants) did not show differences between timing of placement or loading as well as marginal bone remodelling. No impact of the one abutment - one time concept, flap design and simultaneous bone or soft tissue augmentation could be established.
+
+Insufficient data are available for meta-analytic comparison of all combinations of implant placement and loading protocols.

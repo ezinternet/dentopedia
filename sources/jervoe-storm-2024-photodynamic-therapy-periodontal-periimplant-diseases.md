@@ -40,7 +40,7 @@ Cochrane Database of Systematic Reviews 2024, Issue 7 · Jervoe-Storm PM, Bunke 
 Cochrane SR — RCT 포함, RoB2·GRADE. (본 페이지는 결과 수치 본문 추가 추출 필요)
 
 ## 4. Key Results and Benchmarks
-aPDT 보조효과는 단기·저certainty 경향으로 알려짐 [claude해석]. 구체적 effect size·certainty 등급은 full-text 결과 섹션 추출로 보강 필요 [미검증].
+aPDT 보조효과는 단기·저certainty 경향으로 알려짐 [미검증]. 구체적 effect size·certainty 등급은 full-text 결과 섹션 추출로 보강 필요 [미검증].
 
 ## 5. Limitations and Future Work
 결과 수치 미확인(초록·TOC 기반 ingest) — 검증 필요. 추적기간·기기 이질성.

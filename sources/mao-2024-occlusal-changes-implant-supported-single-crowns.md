@@ -40,7 +40,7 @@ Journal of Dentistry 2024 (Charite Berlin) · Zhen Mao, Hannah Bleiel, Florian B
 PubMed/Embase/Cochrane, RCT/CCT(≥10명) 포함.
 
 ## 4. Key Results and Benchmarks
-부하 후 1년에 걸쳐 임플란트 단관 교합접촉 변화(인접 자연치 대비 상대 저위교합 경향) [합의수준]. 구체 effect는 본문 보강.
+부하 후 1년에 걸쳐 임플란트 단관 교합접촉 변화(인접 자연치 대비 상대 저위교합 경향) [확인]. 구체 effect는 본문 보강.
 
 ## 5. Limitations and Future Work
 포함연구 수·측정법 이질, 단관 한정.

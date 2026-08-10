@@ -6,7 +6,7 @@ date: 2026-02-01
 doi: 10.5051/jpis.2403300165
 source: kim-2026-proximal-contact-loss-implants-10years.md
 category: [implants]
-confidence: cross-sectional
+evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/kim-2026-proximal-contact-loss-implants-10years.pdf
 pdf_filename: kim-2026-proximal-contact-loss-implants-10years.pdf
 source_collection: external
@@ -50,4 +50,4 @@ Cross-sectional study (Pusan National University Dental Hospital) evaluating pro
 
 ## Related Papers
 - [[implants/stilwell-2024-occlusal-considerations-implant-maintenance]] — occlusal/maintenance monitoring framework; annual 4-step protocol
-- [[implants/herrera-2023-prevention-treatment-peri-implant-efp]] — EFP peri-implant disease prevention and maintenance guidelines
+- [[implants/peri-implantitis/herrera-2023-prevention-treatment-peri-implant-efp]] — EFP peri-implant disease prevention and maintenance guidelines

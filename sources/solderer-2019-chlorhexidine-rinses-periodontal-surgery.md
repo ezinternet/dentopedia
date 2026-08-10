@@ -68,7 +68,7 @@ SR (11편) — 치주·임플란트 수술 후 CHX 가글은 1주 치태 29–86
 
 ## 6. Related Work
 
-- [[periodontics/james-2017-chlorhexidine-mouthrinse-adjunctive-gingival]] — Cochrane; 비수술 CHX 효능
+- [[periodontics/oral-hygiene-instruction/james-2017-chlorhexidine-mouthrinse-adjunctive-gingival]] — Cochrane; 비수술 CHX 효능
 
 ## 7. Glossary
 

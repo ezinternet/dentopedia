@@ -6,7 +6,7 @@ date: 2016-05-01
 doi: 10.3892/etm.2016.3124
 source: xu-2016-sclerostin-wnt-occlusal-hypofunction-alveolar-bone.md
 category: [bone-biology]
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/xu-2016-sclerostin-wnt-occlusal-hypofunction-alveolar-bone.pdf
 pdf_filename: xu-2016-sclerostin-wnt-occlusal-hypofunction-alveolar-bone.pdf
 source_collection: external

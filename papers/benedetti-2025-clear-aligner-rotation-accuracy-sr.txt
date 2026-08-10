@@ -1,0 +1,42 @@
+Title: Evaluating the Clinical Success of Clear Aligners for Rotational Tooth Movements in Adult Patients: A Systematic Review
+Authors: Giulia Benedetti, Nicolò Sicca, Gaia Lopponi, Claudia Dettori, Alessio Verdecchia, Enrico Spinas
+Journal: Dentistry Journal (Basel)
+Year: 2025
+DOI: 10.3390/dj13100440
+PMID: 41149087
+PMCID: PMC12564582
+Source: https://pmc.ncbi.nlm.nih.gov/articles/PMC12564582/
+
+DESIGN: Systematic review (PRISMA), 12 studies (1 RCT, 11 non-randomized)
+Databases: PubMed, Scopus, Embase, Web of Science, Cochrane, LILACs, Ovid, ClinicalTrials.gov, ProQuest (through July 2025)
+Population: Adults ≥18 years, full permanent dentition, clear aligner therapy only, 3D digital superimposition for accuracy measurement, pre-refinement outcomes only
+
+OVERALL ROTATIONAL ACCURACY: 36–85%, average ~65%
+
+ACCURACY BY TOOTH TYPE:
+- Incisors: 35.1–90% (higher predictability; maxillary centrals > laterals)
+- Canines: ~36–58% (poorest performance; maxillary canines ~50%; ~4.5° lack of correction)
+- Premolars: 54–83% (~2.2–4.6° lack of correction)
+- Molars: 74–85% (most reliable; first > second molars; ~0.4–2.3° error)
+
+SECONDARY FINDINGS:
+- Attachments (11/12 studies used them): inconsistent benefit; "true impact remains uncertain"
+- IPR (only Kravitz isolated this): highest accuracy 43% with IPR but not statistically significant
+- Staging: most used 2°/aligner; literature suggests <1.5°/aligner improves accuracy
+- Wear schedule: predominantly 14 days
+- Aligner material: Invisalign SmartTrack (multilayer polyurethane) most studied; superior force maintenance vs single-layer polymers
+
+GRADE: RCT = moderate certainty; non-randomized = low certainty
+Risk of bias: No studies at low overall risk (ROBINS-I); "some concerns" for RCT (RoB 2)
+
+CONCLUSIONS:
+"Limited yet improving predictability in rotational movements"
+Attachments and IPR "may contribute but lack consistent validation"
+"Well-designed RCTs with standardized protocols are required"
+
+LIMITATIONS:
+- Only 1 RCT, 11 non-randomized retrospective
+- Heterogeneity precluded meta-analysis
+- No standardized compliance assessment
+- Adult patients only (no adolescents)
+- High risk of bias across nearly all included studies

@@ -6,7 +6,7 @@ date: 2019-01-01
 doi: 10.4103/jisp.jisp_656_18
 source: rodriguez-2019-long-term-risks-complications-bovine.md
 category: [sinus-lift/lateral]
-confidence: case-report
+evidence_level: case-report
 source_collection: pubmed-text
 full_text: true
 pmid: "31543624"
@@ -15,6 +15,9 @@ source_url: https://pmc.ncbi.nlm.nih.gov/articles/PMC6737859/
 text_path: /Users/oracleneo/llm-wiki/papers/rodriguez-2019-long-term-risks-complications-bovine.txt
 text_filename: rodriguez-2019-long-term-risks-complications-bovine.txt
 tags: []
+relations:
+  - type: reinforces
+    target: sartori-2003-msfa-bio-oss-10year-case-report
 ---
 
 ## Three-line Summary

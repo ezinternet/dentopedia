@@ -6,7 +6,7 @@ date: 2023-10-01
 doi: 10.1111/prd.12539
 source: buser-2023-gbr-implant-35years-basic-principle-review.md
 category: [bone-regeneration]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/buser-2023-gbr-implant-35years-basic-principle-review.pdf
 pdf_filename: buser-2023-gbr-implant-35years-basic-principle-review.pdf
 source_collection: external

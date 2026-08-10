@@ -6,7 +6,7 @@ date: 2023-11-02
 doi: 10.3390/bioengineering10111275
 source: tsolakis-2023-orthodontic-tooth-movement-molecular-narrative.md
 category: [orthodontics]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/tsolakis-2023-orthodontic-tooth-movement-molecular-narrative.pdf
 pdf_filename: tsolakis-2023-orthodontic-tooth-movement-molecular-narrative.pdf
 source_collection: external

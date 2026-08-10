@@ -6,7 +6,7 @@ date: 2021-01-01
 doi: 10.1259/dmfr.20210084
 source: ozaki-2021-cbct-effective-dose-monte-carlo-simulation.md
 category: [radiology]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/ozaki-2021-cbct-effective-dose-monte-carlo-simulation.pdf
 pdf_filename: ozaki-2021-cbct-effective-dose-monte-carlo-simulation.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2016-07-01
 doi: 10.1016/j.jdent.2016.07.011
 source: angeletaki-2016-direct-vs-indirect-inlay-onlay-sr-ma.md
 category: ['inlay']
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/angeletaki-2016-direct-vs-indirect-inlay-onlay-sr-ma.pdf
 pdf_filename: angeletaki-2016-direct-vs-indirect-inlay-onlay-sr-ma.pdf
 source_collection: external

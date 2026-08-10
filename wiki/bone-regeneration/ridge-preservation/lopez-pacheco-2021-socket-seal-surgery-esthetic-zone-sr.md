@@ -6,7 +6,7 @@ date: 2021-01-01
 doi: 10.1186/s40729-021-00294-2
 source: lopez-pacheco-2021-socket-seal-surgery-esthetic-zone-sr.md
 category: [bone-regeneration/ridge-preservation]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/lopez-pacheco-2021-socket-seal-surgery-esthetic-zone-sr.pdf
 pdf_filename: lopez-pacheco-2021-socket-seal-surgery-esthetic-zone-sr.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2019-03-01
 doi: 10.4103/jisp.jisp_400_18
 source: kollati-2019-cerabone-prf-socket-preservation-rct.md
 category: [bone-regeneration/ridge-preservation]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/kollati-2019-cerabone-prf-socket-preservation-rct.pdf
 pdf_filename: kollati-2019-cerabone-prf-socket-preservation-rct.pdf
 source_collection: external

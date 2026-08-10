@@ -6,7 +6,7 @@ date: 2023-06-20
 doi: 10.3724/zdxbyxb-2023-0066
 source: zheng-2023-unilateral-chewing-tmj-structure-tmd-review.md
 category: [tmj]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/zheng-2023-unilateral-chewing-tmj-structure-tmd-review.pdf
 pdf_filename: zheng-2023-unilateral-chewing-tmj-structure-tmd-review.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2011-06-01
 doi: 10.1097/JTO.0b013e31821b10ab
 source: barraclough-2011-hazard-ratios-clinicians-biostatistics-primer.md
 category: evidence-appraisal
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/barraclough-2011-hazard-ratios-clinicians-biostatistics-primer.pdf
 pdf_filename: barraclough-2011-hazard-ratios-clinicians-biostatistics-primer.pdf
 source_collection: external

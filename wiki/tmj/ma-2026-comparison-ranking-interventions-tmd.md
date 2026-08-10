@@ -6,7 +6,7 @@ date: 2026-04-20
 doi: "10.1186/s12903-026-08373-9"
 source: ma-2026-comparison-ranking-interventions-tmd.md
 category: [tmj]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "42010612"

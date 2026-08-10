@@ -15,7 +15,7 @@ text_filename: damario-2025-recurrent-aphthous-stomatitis-treatments-review.txt
 
 ## Why Ingested
 
-[[oral-medicine/manfredini-2021-recurrent-aphthous-stomatitis-treatment]] already covers RAS management, but this 2025 review adds a focused 10-year (2013–2023) RCT-only synthesis (45 trials) that emphasizes the rising evidence for non-pharmacological options (LLLT, omega-3, natural mucoadhesives) over corticosteroids — reinforcing and extending the treatment-ladder picture. It also complements [[oral-medicine/gasmi-2021-oral-aphthous-pathophysiology-treatment]]'s pathophysiology-anchored treatment account with comparative pain-outcome data per modality.
+[[oral-medicine/aphthous-stomatitis/manfredini-2021-recurrent-aphthous-stomatitis-treatment]] already covers RAS management, but this 2025 review adds a focused 10-year (2013–2023) RCT-only synthesis (45 trials) that emphasizes the rising evidence for non-pharmacological options (LLLT, omega-3, natural mucoadhesives) over corticosteroids — reinforcing and extending the treatment-ladder picture. It also complements [[oral-medicine/aphthous-stomatitis/gasmi-2021-oral-aphthous-pathophysiology-treatment]]'s pathophysiology-anchored treatment account with comparative pain-outcome data per modality.
 
 ## Three-line Summary
 
@@ -92,8 +92,8 @@ Double-blind studies provided the more robust evidence; LLLT, omega-3, and curcu
 
 ## 6. Related Work
 
-- Confirms and extends [[oral-medicine/manfredini-2021-recurrent-aphthous-stomatitis-treatment]] (RAS treatment/management) with a larger RCT-only evidence base.
-- Complements [[oral-medicine/gasmi-2021-oral-aphthous-pathophysiology-treatment]] (pathophysiology + treatment) and [[oral-medicine/belenguer-guallar-2014-recurrent-aphthous-stomatitis-review]] / [[oral-medicine/mills-2017-aphthous-stomatitis-oral-medicine-review]] (RAS overviews).
+- Confirms and extends [[oral-medicine/aphthous-stomatitis/manfredini-2021-recurrent-aphthous-stomatitis-treatment]] (RAS treatment/management) with a larger RCT-only evidence base.
+- Complements [[oral-medicine/aphthous-stomatitis/gasmi-2021-oral-aphthous-pathophysiology-treatment]] (pathophysiology + treatment) and [[oral-medicine/aphthous-stomatitis/belenguer-guallar-2014-recurrent-aphthous-stomatitis-review]] / [[oral-medicine/aphthous-stomatitis/mills-2017-aphthous-stomatitis-oral-medicine-review]] (RAS overviews).
 
 ## 7. Glossary
 

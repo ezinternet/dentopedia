@@ -6,7 +6,7 @@ date: 2025-06-30
 doi: 10.4103/jisppd.jisppd_55_25
 source: agarwal-2025-impact-mouthguards-prevention-dentofacial-injuries.md
 category: [dental-trauma]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: false
 pmid: "40586455"

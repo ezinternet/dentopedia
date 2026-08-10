@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-임플란트 수술 후 하치조신경(IAN) 손상의 분류·진단·치료 프로토콜을 체계화한 foundational narrative review. [[oral-surgery/baek-2010-literature-review-altered-sensation-mandibular]]와 함께 wiki oral-surgery 신경 손상 컬렉션의 핵심 참고 문헌으로, 5단계 시간대별 관리 알고리즘(수술 중 → 1주 → 12주)을 제공해 임상 의사결정 근거로 활용.
+임플란트 수술 후 하치조신경(IAN) 손상의 분류·진단·치료 프로토콜을 체계화한 foundational narrative review. [[oral-surgery/nerve-injury/baek-2010-literature-review-altered-sensation-mandibular]]와 함께 wiki oral-surgery 신경 손상 컬렉션의 핵심 참고 문헌으로, 5단계 시간대별 관리 알고리즘(수술 중 → 1주 → 12주)을 제공해 임상 의사결정 근거로 활용.
 
 ## Three-line Summary
 

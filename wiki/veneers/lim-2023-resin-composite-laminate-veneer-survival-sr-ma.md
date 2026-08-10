@@ -6,11 +6,14 @@ date: 2023-12-01
 doi: 10.1016/j.jebdp.2023.101911
 source: lim-2023-resin-composite-laminate-veneer-survival-sr-ma.md
 category: [veneers]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/lim-2023-resin-composite-laminate-veneer-survival-sr-ma.pdf
 pdf_filename: lim-2023-resin-composite-laminate-veneer-survival-sr-ma.pdf
 source_collection: external
 tags: []
+relations:
+  - type: extends
+    target: klein-2025-ceramic-laminate-veneer-survival-complications-sr-ma
 ---
 
 ## Three-line Summary

@@ -6,7 +6,7 @@ date: 2022-01-01
 doi: 10.1111/cid.13080
 source: ravida-2022-keratinized-mucosa-width-peri-implant-disease-sr-ma.md
 category: [implants/peri-implantitis]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/ravida-2022-keratinized-mucosa-width-peri-implant-disease-sr-ma.pdf
 pdf_filename: ravida-2022-keratinized-mucosa-width-peri-implant-disease-sr-ma.pdf
 source_collection: external
@@ -84,5 +84,5 @@ Positive MD = KMW≥2 mm group has lower outcome value (better result). All diff
 
 - [[implants/peri-implantitis/mahardawi-2023-lack-keratinized-mucosa-peri-implantitis-sr-ma]] — later SR+MA on the same KMW question; compare inclusion criteria and GRADE ratings
 - [[implants/peri-implantitis/zhang-2025-keratinized-mucosa-width-peri-implant-meta-analysis]] — more recent meta-analysis with updated studies; may include additional evidence
-- [[implants/peri-implantitis/sanz-2022-keratinized-mucosa-around-implants-consensus]] — expert consensus on KMW around implants published same year; contextualizes clinical recommendations
+- [[implants/soft-tissue/sanz-2022-keratinized-mucosa-around-implants-consensus]] — expert consensus on KMW around implants published same year; contextualizes clinical recommendations
 - [[implants/peri-implantitis/roccuzzo-2025-keratinized-mucosa-peri-implant-20year-mandible]] — 20-year mandibular implant data providing long-term observational context for KMW outcomes

@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-Maxillary molar 즉시식립 (immediate implant placement, IIP)에서 임상적으로 구개근 소켓 (palatal root socket)에 식립하는 전략의 생역학적·생물학적 근거를 제공하는 기초 연구. [[immediate-implant/liu-2024-maxillary-immediate-molar-palatal-root-socket]]가 임상적으로 권고하는 "구개근 소켓 식립"이 왜 작동하는지를 마우스 모델에서 변형률(strain)·골세포 사멸·PDL 유래 Wnt 반응 세포 차원에서 설명한다. 또한 [[immediate-implant/araujo-2019-socket-healing-immediate-implant-review]]의 소켓 치유 개괄에 분자 메커니즘 층위를 더한다.
+Maxillary molar 즉시식립 (immediate implant placement, IIP)에서 임상적으로 구개근 소켓 (palatal root socket)에 식립하는 전략의 생역학적·생물학적 근거를 제공하는 기초 연구. [[immediate-implant/molar-septum/liu-2024-maxillary-immediate-molar-palatal-root-socket]]가 임상적으로 권고하는 "구개근 소켓 식립"이 왜 작동하는지를 마우스 모델에서 변형률(strain)·골세포 사멸·PDL 유래 Wnt 반응 세포 차원에서 설명한다. 또한 [[immediate-implant/araujo-2019-socket-healing-immediate-implant-review]]의 소켓 치유 개괄에 분자 메커니즘 층위를 더한다.
 
 ## Three-line Summary
 

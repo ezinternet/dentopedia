@@ -17,7 +17,7 @@ text_filename: farina-2026-pmpr-biofilm-gingivitis-sr-ma.txt
 
 ## Why Ingested
 
-"Oral prophylaxis" 요청의 두 번째 코어 논문. 21st European Workshop on Periodontology(EFP) Working Group 1 SR로, [[periodontics/lamont-2018-routine-scale-and-polish-periodontal-health]](저위험 성인 루틴 프로필락시스 무효)과 대비되는 **established gingivitis 치료 맥락**에서 PMPR의 역할을 규명한다 — OHI가 1차, PMPR은 OHI에 대한 adjunct일 때만 이득. 또한 [[periodontics/cyris-2024-guided-biofilm-therapy-versus-conventional]]·[[overviews/professional-biofilm-management-gbt-air-polishing-overview]]의 air-polishing vs rubber-cup 논쟁에 SR+MA 근거(동등 효능·짧은 시간)를 더한다. PMC full text 확보.
+"Oral prophylaxis" 요청의 두 번째 코어 논문. 21st European Workshop on Periodontology(EFP) Working Group 1 SR로, [[periodontics/non-surgical-instrumentation/lamont-2018-routine-scale-and-polish-periodontal-health]](저위험 성인 루틴 프로필락시스 무효)과 대비되는 **established gingivitis 치료 맥락**에서 PMPR의 역할을 규명한다 — OHI가 1차, PMPR은 OHI에 대한 adjunct일 때만 이득. 또한 [[periodontics/non-surgical-instrumentation/cyris-2024-guided-biofilm-therapy-versus-conventional]]·[[overviews/professional-biofilm-management-gbt-air-polishing-overview]]의 air-polishing vs rubber-cup 논쟁에 SR+MA 근거(동등 효능·짧은 시간)를 더한다. PMC full text 확보.
 
 ## Three-line Summary
 

@@ -1,0 +1,49 @@
+{
+  "overview": "immediate-implant-decision-ladder",
+  "date": "2026-07-23",
+  "title": "즉시식립 결정 사다리 — 리콜",
+  "source_wiki": [
+    "wiki/overviews/immediate-implant-decision-ladder.md"
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "q": "발치와의 jumping gap과 협설 위치에 관한 즉시식립 원칙은?",
+      "opts": [
+        "gap은 항상 저절로 채워지므로 grafting 불필요",
+        "Jumping gap ≥2mm는 grafting 권고(협측 골흡수 유의 감소), 협측에서 ≥2mm 구개측 위치가 buccal crest 보존의 결정인자",
+        "임플란트를 협측에 최대한 붙여 식립",
+        "gap 크기와 무관하게 즉시부하"
+      ],
+      "ans": 1,
+      "rat": "Jumping gap ≥2mm grafting 권고 — 협측 골흡수 유의 감소(Seyssens 2022 SR+MA, Sanz 2017 −0.46 vs −0.84mm). 협측에서 ≥2mm 구개측 positioning이 buccal crest 보존 결정인자(Staas 2026). 식립 전 CBCT로 치근 시상위치(SRP) 분류, Class I이라도 천공 위험 높으면 palatal trajectory.",
+      "cite": "overviews/immediate-implant-decision-ladder"
+    },
+    {
+      "id": "q2",
+      "q": "즉시식립에서 축경 드릴링(undersized drilling, UD)이 1차 안정성에 미치는 영향은?",
+      "opts": [
+        "UD가 IT·ISQ 모두 확실히 올린다",
+        "UD는 삽입토크(IT)를 약간↑(41.4 vs 38.4 Ncm, NS)하나 RFA/ISQ는 오히려 통상군이 모든 시점 우위 — IT와 ISQ는 호환 surrogate 아님",
+        "UD는 ISQ만 올리고 IT는 낮춘다",
+        "UD는 즉시식립에서 항상 금기"
+      ],
+      "ans": 1,
+      "rat": "Sierra-Rebolledo 2021 RCT: 발치와에서 UD는 IT 약간↑(NS)지만 ISQ는 통상군이 모든 시점 우위 → IT·ISQ는 호환 surrogate 아님. 단 낮은/없는 1차 안정성도 절대 금기 아님 — Jang 2025: IT<10 Ncm·ISQ<55 시작에서 ISQ 42.2→68.7 상승·65개월 생존 100%. 'ISQ 절대값보다 상승 궤적'.",
+      "cite": "overviews/immediate-implant-decision-ladder"
+    },
+    {
+      "id": "q3",
+      "q": "치근단 병변(periapical pathology)이 있는 발치와의 즉시식립에 대한 옳은 판단은?",
+      "opts": [
+        "병변이 있으면 무조건 치조제 보존술(ARP) 후 지연식립",
+        "적극 debridement + 술전 amoxicillin 2g 동반 시 비감염치와 동등(Pranckeviciene 2024) — '병변 있으면 무조건 ARP'는 오판",
+        "병변 socket에는 임플란트 식립 자체가 금기",
+        "항생제 없이 즉시식립해도 결과 동일"
+      ],
+      "ans": 1,
+      "rat": "Pranckeviciene 2024: 치근단 병변 socket도 적극 debridement + 술전 amoxicillin 2g 동반 시 비감염치와 동등. '병변 있으면 무조건 ARP'는 오판. 단 상악동 병변 연관 socket은 예외 — 상악 전치 즉시식립 실패 3건 전부 상악동 병변 연관(Aung 2024)이므로 지연식립+거상.",
+      "cite": "overviews/immediate-implant-decision-ladder"
+    }
+  ]
+}

@@ -4,14 +4,14 @@ authors: synthesis page (compiled by Claude from JKDA DH 특집 3편 + NCCL/adhe
 year: 2026
 date: 2026-05-27
 category: overviews
-confidence: synthesis
+evidence_level: synthesis
 source_collection: internal
 tags: [overview, dentin-hypersensitivity, DH, hydrodynamic-theory, NCCL, treatment-ladder, postop-sensitivity, korean-clinical-application]
 source: synthesis
 relations:
   - type: extends
     target: kaur-2026-dentin-hypersensitivity-enigma-revisited
-  - type: reinforces
+  - type: extends
     target: correa-2025-long-term-desensitizing-agents-efficacy-sr-ma
   - type: reinforces
     target: qiu-2026-stannous-fluoride-toothpaste-dentin-hypersensitivity-rct
@@ -78,9 +78,9 @@ Odontoblast / pulp 신경 자극
 짧고 날카로운 통증 (Sharp Brief Pain)
 ```
 
-**Synthesis [claude해석]:** Hydrodynamic theory는 단일 가설이지만 분야 합의에 가깝다. 임상 의사결정의 본질적 결과 — **치료의 두 축은 "관 폐쇄 (tubule occlusion)" 또는 "신경 탈민감화 (nerve desensitization)"** — 본 이론에서 자연 도출된다. 모든 treatment option (KNO3·NovaMin·arginine·varnish·laser·resin sealant)은 이 두 축 중 하나 또는 둘에 작용한다. [근거강함]
+**Synthesis [미검증]:** Hydrodynamic theory는 단일 가설이지만 분야 합의에 가깝다. 임상 의사결정의 본질적 결과 — **치료의 두 축은 "관 폐쇄 (tubule occlusion)" 또는 "신경 탈민감화 (nerve desensitization)"** — 본 이론에서 자연 도출된다. 모든 treatment option (KNO3·NovaMin·arginine·varnish·laser·resin sealant)은 이 두 축 중 하나 또는 둘에 작용한다. [확인]
 
-[[dentin-hypersensitivity/kaur-2026-dentin-hypersensitivity-enigma-revisited]] extends the mechanism picture beyond hydrodynamics: peripheral sensitization via upregulated TRP receptors (TRPV1), substance P, and CGRP explains persistent symptoms even after tubule occlusion, and odontoblasts — which express TRP family members and voltage-gated Na channels — may act as primary mechanosensory transducers before nerve activation. This neuroplasticity layer predicts why tubule-occlusion alone sometimes fails and nerve-desensitization agents (potassium nitrate) remain necessary adjuncts. [합의수준: narrative, 임상 근거 부분적]
+[[dentin-hypersensitivity/kaur-2026-dentin-hypersensitivity-enigma-revisited]] extends the mechanism picture beyond hydrodynamics: peripheral sensitization via upregulated TRP receptors (TRPV1), substance P, and CGRP explains persistent symptoms even after tubule occlusion, and odontoblasts — which express TRP family members and voltage-gated Na channels — may act as primary mechanosensory transducers before nerve activation. This neuroplasticity layer predicts why tubule-occlusion alone sometimes fails and nerve-desensitization agents (potassium nitrate) remain necessary adjuncts. [확인: narrative, 임상 근거 부분적]
 
 ### DH vs 균열치 (cracked tooth) 감별
 
@@ -92,7 +92,7 @@ Odontoblast / pulp 신경 자극
 | 영상 | 보통 정상 (NCCL 동반 가능) | 보통 정상 (CBCT도 직접 시각화 어려움) |
 | 위치 | 치경부·교합면 | 특정 cusp 또는 전체 치관 |
 
-[claude해석] DH와 cracked tooth가 동반될 수 있음 — 환자가 "씹을 때 시리다"고 하면 [[overviews/cracked-tooth-syndrome-overview]] framework 병행 검토 필요.
+[미검증] DH와 cracked tooth가 동반될 수 있음 — 환자가 "씹을 때 시리다"고 하면 [[overviews/cracked-tooth-syndrome-overview]] framework 병행 검토 필요.
 
 ---
 
@@ -122,9 +122,9 @@ Odontoblast / pulp 신경 자극
 - Acidic diet 회피: citrus, vinegar, carbonated drinks
 - Bruxism guard (이갈이 동반 시) — [[botulinum-toxin/jkda-2025-63-6-002]] 참조
 
-**Synthesis [claude해석]:** Ladder의 핵심은 "**conservative first, escalate only if fails**". 한국 임상에서 환자가 처음 외래 방문 시 자가요법 (KNO3 toothpaste·올바른 브러싱 교육) 4-8주 → 재평가가 default. 즉시 laser나 restoration으로 가는 것은 overtreatment risk. 단, 환자가 자가요법 이미 시도했거나 결손 (NCCL 깊은) 동반 시 2차/3차로 직진 가능.
+**Synthesis [미검증]:** Ladder의 핵심은 "**conservative first, escalate only if fails**". 한국 임상에서 환자가 처음 외래 방문 시 자가요법 (KNO3 toothpaste·올바른 브러싱 교육) 4-8주 → 재평가가 default. 즉시 laser나 restoration으로 가는 것은 overtreatment risk. 단, 환자가 자가요법 이미 시도했거나 결손 (NCCL 깊은) 동반 시 2차/3차로 직진 가능.
 
-[합의수준] 분야 전반의 consensus framework. 단 각 옵션의 head-to-head RCT는 부분적 — 환자 선호·접근성·비용도 결정 인자.
+[확인] 분야 전반의 consensus framework. 단 각 옵션의 head-to-head RCT는 부분적 — 환자 선호·접근성·비용도 결정 인자.
 
 ### Quantitative evidence behind each ladder rung
 
@@ -132,15 +132,15 @@ The JKDA ladder is a consensus skeleton; the following papers add the numbers th
 
 **1차 (at-home toothpaste).** The at-home rung rests on tubule-occluding bioactive dentifrices: a 15-RCT systematic review by deFreitas (2021) found that even low-concentration bioactive compounds (2.5–7.5%) reduce DH whether applied at-home or in-office, supporting bioactive-glass toothpaste as a viable conservative first step — though mixed risk of bias tempers the strength. Martins (2022), a scoping review of 138 RCTs cataloguing 368 toothpaste formulations, maps the at-home option space rather than ranking it: potassium compounds (19%) and calcium sodium phosphosilicate (10%) dominate the active ingredients, with sodium monofluorophosphate (29%) and sodium fluoride (22%) the leading fluoride forms — a useful inventory when matching a product to a patient. Ramli (2022), a narrative review built on the same hydrodynamic foundation, reframes the whole ladder around a key clinical truth: durable relief depends less on any single agent than on a motivated patient paired with a knowledgeable clinician selecting across the tubule-occluding and nerve-modulating axes.
 
-Three 2026-era RCTs now supply the head-to-head efficacy the at-home rung previously lacked, and they converge on one message: an **active tubule-occluding toothpaste beats a plain fluoride toothpaste**, so the conservative first step is not "any fluoride paste" but a deliberately chosen active. Qiu (2026), two examiner-blind parallel RCTs (Study 1 n=104, Study 2 n=113), found twice-daily anhydrous 0.454% **stannous fluoride (SnF₂)** superior to standard fluoride toothpaste on Schiff, tactile threshold, and all four LMS pain domains at Day 28 and Day 56 (all p<0.05; e.g. Study 1 Day 56 Schiff Δ −2.25 vs −0.31, tactile Δ +60.07 g vs +2.70 g), crossing the ADA ≥20% clinical-meaningfulness threshold by Day 28. Creeth (2026), an 8-week examiner-blind RCT (217 screened / 215 completed), showed a 5% **calcium sodium phosphosilicate (CSPS / NovaMin)** toothpaste significantly superior to a conventional NaF-silica toothpaste on both Schiff and Yeaple tactile threshold at every timepoint (all between-arm p<0.001), with significant onset **after just 3 days** and relief growing progressively to 8 weeks — a concrete answer to the common "how fast will it work?" question. A shared caveat qualifies both: examiner-assessed superiority did **not** reliably translate into a between-arm DHEQ quality-of-life difference (Creeth: NS; Qiu: significant in Study 1 only), a reminder to set realistic patient-experience expectations. Ayan (2025), a six-arm head-to-head RCT (150 analyzed, 25/arm, 8 weeks) with triple-instrument triangulation (DHEQ-15 + Schiff SSS + VAS), benchmarked five home-use agents against a standard fluoride control: **all five (CPP-ACP, arginine, NovaMin, propolis, potassium nitrate) beat plain fluoride**, with **CPP-ACP (GC Tooth Mousse, brushing + nightly finger inunction) the most effective** by week 8 (baseline→8wk change DHEQ-15 56.68±17.87, VAS 6.52±1.48, SSS 2.32±0.56; ranking CPP-ACP > arginine ≈ KNO3 > NovaMin ≈ propolis > control). Tellingly, the fluoride control significantly reduced Schiff/VAS but **not** DHEQ-15 quality of life (p=0.068), and fluoride-free propolis matched fluoride-co-used potassium nitrate — evidence that the desensitizing active, not the fluoride co-use, drives the benefit. [근거강함 RCT ×3, 단 8주 지평 — 장기 순위는 Corrêa 2025 참조]
+Three 2026-era RCTs now supply the head-to-head efficacy the at-home rung previously lacked, and they converge on one message: an **active tubule-occluding toothpaste beats a plain fluoride toothpaste**, so the conservative first step is not "any fluoride paste" but a deliberately chosen active. Qiu (2026), two examiner-blind parallel RCTs (Study 1 n=104, Study 2 n=113), found twice-daily anhydrous 0.454% **stannous fluoride (SnF₂)** superior to standard fluoride toothpaste on Schiff, tactile threshold, and all four LMS pain domains at Day 28 and Day 56 (all p<0.05; e.g. Study 1 Day 56 Schiff Δ −2.25 vs −0.31, tactile Δ +60.07 g vs +2.70 g), crossing the ADA ≥20% clinical-meaningfulness threshold by Day 28. Creeth (2026), an 8-week examiner-blind RCT (217 screened / 215 completed), showed a 5% **calcium sodium phosphosilicate (CSPS / NovaMin)** toothpaste significantly superior to a conventional NaF-silica toothpaste on both Schiff and Yeaple tactile threshold at every timepoint (all between-arm p<0.001), with significant onset **after just 3 days** and relief growing progressively to 8 weeks — a concrete answer to the common "how fast will it work?" question. A shared caveat qualifies both: examiner-assessed superiority did **not** reliably translate into a between-arm DHEQ quality-of-life difference (Creeth: NS; Qiu: significant in Study 1 only), a reminder to set realistic patient-experience expectations. Ayan (2025), a six-arm head-to-head RCT (150 analyzed, 25/arm, 8 weeks) with triple-instrument triangulation (DHEQ-15 + Schiff SSS + VAS), benchmarked five home-use agents against a standard fluoride control: **all five (CPP-ACP, arginine, NovaMin, propolis, potassium nitrate) beat plain fluoride**, with **CPP-ACP (GC Tooth Mousse, brushing + nightly finger inunction) the most effective** by week 8 (baseline→8wk change DHEQ-15 56.68±17.87, VAS 6.52±1.48, SSS 2.32±0.56; ranking CPP-ACP > arginine ≈ KNO3 > NovaMin ≈ propolis > control). Tellingly, the fluoride control significantly reduced Schiff/VAS but **not** DHEQ-15 quality of life (p=0.068), and fluoride-free propolis matched fluoride-co-used potassium nitrate — evidence that the desensitizing active, not the fluoride co-use, drives the benefit. [확인 RCT ×3, 단 8주 지평 — 장기 순위는 Corrêa 2025 참조]
 
 **2차 (in-office sealing) — laser vs chemical.** The laser rung is the most quantified by recent evidence, and the picture is consistent: laser helps but does not clearly beat chemical agents over time. The systematic review by Shan (2021) showed low-level light therapy outperforms placebo (SMD 1.09→2.86) yet offers no advantage over fluoride, and Faraoni (2023) found high- and low-output lasers equivalent with no standardized protocol established. Two RCTs put the time-course on this: Forouzande (2022), a 5-arm single-session trial (55 patients/165 teeth), found Er,Cr:YSGG laser alone or combined with Gluma reduced DH more than 5% NaF varnish across 6 months — yet all five arms produced significant relief from baseline; Naghsh (2024) found a 980-nm diode laser gave the lowest VAS at 1 month but converged with Gluma and combination arms by 3 months. The synthesis: laser earns a short-term edge that erodes as chemical agents catch up, reinforcing the ladder's "escalate only if fails" logic rather than a laser-first stance.
 
-**2차 — tubule-occlusion mechanism and Gluma safety.** SEM and bench work explain *why* the sealing rung works and flag its one safety caveat. Joshi (2013) showed under SEM that both NovaMin (a bioactive-glass mineral layer) and Gluma (intratubular precipitation) increase tubule occlusion after a single application versus untreated control — the morphological basis for the occlusion mechanism. But the glutaraldehyde in Gluma carries a pulpal cost: Jiang (2022) found GLUMA only occludes tubules and cuts permeability in the presence of simulated dentinal fluid (its mechanism is protein precipitation-dependent) yet is cytotoxic to cells beneath the dentin disc, whereas an NaF/fumed-silica gel was biocompatible but rebounded in permeability; Scheffel (2015) confirmed in a transdentinal odontoblast model that glutaraldehyde reduces pulp-side cell viability in a concentration-dependent manner. Clinical signal [claude해석]: near vital pulp, mind Gluma concentration and exposure — its efficacy is real but fluid-dependent and concentration-toxic.
+**2차 — tubule-occlusion mechanism and Gluma safety.** SEM and bench work explain *why* the sealing rung works and flag its one safety caveat. Joshi (2013) showed under SEM that both NovaMin (a bioactive-glass mineral layer) and Gluma (intratubular precipitation) increase tubule occlusion after a single application versus untreated control — the morphological basis for the occlusion mechanism. But the glutaraldehyde in Gluma carries a pulpal cost: Jiang (2022) found GLUMA only occludes tubules and cuts permeability in the presence of simulated dentinal fluid (its mechanism is protein precipitation-dependent) yet is cytotoxic to cells beneath the dentin disc, whereas an NaF/fumed-silica gel was biocompatible but rebounded in permeability; Scheffel (2015) confirmed in a transdentinal odontoblast model that glutaraldehyde reduces pulp-side cell viability in a concentration-dependent manner. Clinical signal [미검증]: near vital pulp, mind Gluma concentration and exposure — its efficacy is real but fluid-dependent and concentration-toxic.
 
 **Cross-cutting materials view.** Li (2026) reframes the entire ladder around one unifying mechanism — sealing exposed tubules — and organizes therapies into physical (laser), chemical (mineralizing/occluding), and synergistic classes, spotlighting biomimetic mineralization as the emerging direction; it supplies the materials-science depth behind the clinical ladder.
 
-**Long-term ranking — the decisive SR+MA.** Corrêa (2025), the only systematic review + meta-analysis here restricted to **long-term (≥6 month)** efficacy, anchors the whole ladder's escalation logic: **glutaraldehyde and low-level laser (LLLT) hold the strongest durable effect**, while **adhesive systems and calcium-phosphate (CPP-ACP) agents show no significant long-term benefit** despite their short-term/head-to-head performance (Ayan 2025). This is the central efficacy-vs-safety tension of the in-office rung — the two most durable agents (Gluma, LLLT) are exactly the ones carrying caveats (Gluma's concentration-dependent pulp cytotoxicity, Scheffel 2015; LLLT's lack of a standardized protocol and no superiority over fluoride, Shan 2021). Practically: **short-term relief does not guarantee durability** — set patient expectations, and weight long-term-proven agents when persistence matters, balanced against Gluma's safety profile. [근거강함 SR+MA, abstract-only here]
+**Long-term ranking — the decisive SR+MA.** Corrêa (2025), the only systematic review + meta-analysis here restricted to **long-term (≥6 month)** efficacy, anchors the whole ladder's escalation logic: **glutaraldehyde and low-level laser (LLLT) hold the strongest durable effect**, while **adhesive systems and calcium-phosphate (CPP-ACP) agents show no significant long-term benefit** despite their short-term/head-to-head performance (Ayan 2025). This is the central efficacy-vs-safety tension of the in-office rung — the two most durable agents (Gluma, LLLT) are exactly the ones carrying caveats (Gluma's concentration-dependent pulp cytotoxicity, Scheffel 2015; LLLT's lack of a standardized protocol and no superiority over fluoride, Shan 2021). Practically: **short-term relief does not guarantee durability** — set patient expectations, and weight long-term-proven agents when persistence matters, balanced against Gluma's safety profile. [확인 SR+MA, abstract-only here]
 
 ---
 
@@ -164,7 +164,7 @@ DH는 환자의 자연 발생만이 아니라 **수복 후 발생 (postoperative
 - **E&R 우월**: 중기 (12-36개월) 유지율, 변연 적합·착색, 2차 우식
 - **SE 우월**: **술후 sensitivity 낮음**
 
-→ NCCL 수복 시 long-term 결과와 postop sensitivity 사이 trade-off. 환자가 sensitivity 경향이 있거나 NCCL이 깊지 않으면 SE 우선 고려. [근거강함]
+→ NCCL 수복 시 long-term 결과와 postop sensitivity 사이 trade-off. 환자가 sensitivity 경향이 있거나 NCCL이 깊지 않으면 SE 우선 고려. [확인]
 
 [[resin-bonding/oza-2022-universal-adhesive-nccl-rct-2year]] · [[resin-bonding/doshi-2023-universal-adhesive-nccl-strategy-sr-ma]] 도 같은 framework 보강.
 
@@ -175,7 +175,7 @@ DH는 환자의 자연 발생만이 아니라 **수복 후 발생 (postoperative
 4. **Insufficient proximal contact** → 음식 잔류·자극
 5. **Over-etching of dentin** (E&R 선택 시) → 신경 자극
 
-**Synthesis [claude해석]:** Kim 2022 framework은 표준이지만 bulk fill resin 발달로 incremental 필요성 일부 감소. 핵심은 **adhesive technique과 slow curing** — bulk fill을 쓰더라도 이 두 축은 유효. NCCL 수복 시 SE adhesive가 postop sensitivity 측면에서 안전한 default.
+**Synthesis [미검증]:** Kim 2022 framework은 표준이지만 bulk fill resin 발달로 incremental 필요성 일부 감소. 핵심은 **adhesive technique과 slow curing** — bulk fill을 쓰더라도 이 두 축은 유효. NCCL 수복 시 SE adhesive가 postop sensitivity 측면에서 안전한 default.
 
 ---
 
@@ -218,15 +218,15 @@ DH는 환자의 자연 발생만이 아니라 **수복 후 발생 (postoperative
 ## Strengths and Gaps
 
 ### 강점
-- [합의수준] Hydrodynamic theory + treatment ladder는 분야 consensus
-- [근거강함] [[resin-bonding/assis-2023-acid-etching-universal-adhesive-nccl-sr-ma]] SR+MA — NCCL adhesive 선택의 정량 evidence
-- [합의수준] iatrogenic DH 예방 framework은 보존과 임상 표준
+- [확인] Hydrodynamic theory + treatment ladder는 분야 consensus
+- [확인] [[resin-bonding/assis-2023-acid-etching-universal-adhesive-nccl-sr-ma]] SR+MA — NCCL adhesive 선택의 정량 evidence
+- [확인] iatrogenic DH 예방 framework은 보존과 임상 표준
 
 ### 약점·gap
 - [미검증] DH treatment 옵션의 head-to-head RCT 부분적 — toothpaste·varnish·laser 정량 비교 부족
-- [claude해석] Korean cohort DH 유병률·외래 분포 데이터 없음 — JKDA 특집은 narrative review
+- [미검증] Korean cohort DH 유병률·외래 분포 데이터 없음 — JKDA 특집은 narrative review
 - [미검증] QLF·CBCT의 DH 진단 보조 활용 RCT 없음
-- [claude해석] 단가 (NovaMin·arginine toothpaste 한국 가용성·보험 적용) 별도 확인 필요
+- [미검증] 단가 (NovaMin·arginine toothpaste 한국 가용성·보험 적용) 별도 확인 필요
 
 ### 향후 보강 필요
 - Korean cohort DH 외래 분포·환자 특성 데이터
@@ -250,7 +250,7 @@ DH는 환자의 자연 발생만이 아니라 **수복 후 발생 (postoperative
 
 ### 신규 ingest cluster — laser·desensitizer·toothpaste 정량 근거 (2026-06-07, 11편)
 
-**Synthesis [claude해석]:** 본 batch는 기존 JKDA narrative ladder의 두 치료 축(tubule occlusion / nerve desensitization)에 정량 근거를 채운다. (1) **Laser**: [[dentin-hypersensitivity/shan-2021-low-level-light-therapy-dentin-hypersensitivity-sr-ma]] (LLLT placebo 대비 SMD 1.09→2.86, 단 fluoride 외 우월성 없음 [근거강함])와 [[dentin-hypersensitivity/faraoni-2023-laser-therapy-dentin-hypersensitivity-sr-ma]] (고·저출력 동등, 표준 프로토콜 미확립 [근거강함])가 메타수준 근거를 제공하고, RCT [[dentin-hypersensitivity/forouzande-2022-fluoride-gluma-laser-dentin-hypersensitivity]]·[[dentin-hypersensitivity/naghsh-2024-three-methods-dentin-hypersensitivity-rct]]는 laser가 단기 우월하나 3–6개월에 chemical agent와 수렴함을 보인다 [합의수준]. (2) **Tubule-occlusion 기전·안전성**: [[dentin-hypersensitivity/joshi-2013-novamin-gluma-dentinal-tubule-occlusion-sem]] + [[dentin-hypersensitivity/jiang-2022-desensitizing-agents-permeability-cytotoxicity]] + [[dentin-hypersensitivity/scheffel-2015-transdentinal-cytotoxicity-glutaraldehyde-odontoblast]]는 Gluma(글루타르알데히드)의 효과가 치수액 의존적이고 농도의존적 세포독성을 동반함을 보여 **vital pulp 인접 시 농도·노출 주의** 신호 [claude해석]. (3) **At-home 치약**: [[dentin-hypersensitivity/defreitas-2021-bioactive-toothpastes-dentin-hypersensitivity-sr]] (저농도 bioactive glass 효과 [합의수준]) + [[dentin-hypersensitivity/martins-2022-desensitizing-toothpastes-formulations-scoping-review]] (368 제형 지도: 포타슘·CSP·MFP/NaF 주류)가 1차 at-home 옵션 카탈로그를 보강. (4) [[dentin-hypersensitivity/ramli-2022-successful-dentin-hypersensitivity-treatment-strategies]]·[[dentin-hypersensitivity/li-2026-physical-chemical-strategies-dentin-hypersensitivity]]는 관리 전략·재료기전 narrative.
+**Synthesis [미검증]:** 본 batch는 기존 JKDA narrative ladder의 두 치료 축(tubule occlusion / nerve desensitization)에 정량 근거를 채운다. (1) **Laser**: [[dentin-hypersensitivity/shan-2021-low-level-light-therapy-dentin-hypersensitivity-sr-ma]] (LLLT placebo 대비 SMD 1.09→2.86, 단 fluoride 외 우월성 없음 [확인])와 [[dentin-hypersensitivity/faraoni-2023-laser-therapy-dentin-hypersensitivity-sr-ma]] (고·저출력 동등, 표준 프로토콜 미확립 [확인])가 메타수준 근거를 제공하고, RCT [[dentin-hypersensitivity/forouzande-2022-fluoride-gluma-laser-dentin-hypersensitivity]]·[[dentin-hypersensitivity/naghsh-2024-three-methods-dentin-hypersensitivity-rct]]는 laser가 단기 우월하나 3–6개월에 chemical agent와 수렴함을 보인다 [확인]. (2) **Tubule-occlusion 기전·안전성**: [[dentin-hypersensitivity/joshi-2013-novamin-gluma-dentinal-tubule-occlusion-sem]] + [[dentin-hypersensitivity/jiang-2022-desensitizing-agents-permeability-cytotoxicity]] + [[dentin-hypersensitivity/scheffel-2015-transdentinal-cytotoxicity-glutaraldehyde-odontoblast]]는 Gluma(글루타르알데히드)의 효과가 치수액 의존적이고 농도의존적 세포독성을 동반함을 보여 **vital pulp 인접 시 농도·노출 주의** 신호 [미검증]. (3) **At-home 치약**: [[dentin-hypersensitivity/defreitas-2021-bioactive-toothpastes-dentin-hypersensitivity-sr]] (저농도 bioactive glass 효과 [확인]) + [[dentin-hypersensitivity/martins-2022-desensitizing-toothpastes-formulations-scoping-review]] (368 제형 지도: 포타슘·CSP·MFP/NaF 주류)가 1차 at-home 옵션 카탈로그를 보강. (4) [[dentin-hypersensitivity/ramli-2022-successful-dentin-hypersensitivity-treatment-strategies]]·[[dentin-hypersensitivity/li-2026-physical-chemical-strategies-dentin-hypersensitivity]]는 관리 전략·재료기전 narrative.
 
 - [[dentin-hypersensitivity/correa-2025-long-term-desensitizing-agents-efficacy-sr-ma]] — SR+MA (≥6개월 장기): Gluma·LLLT 장기효과 1위, 접착·CPP-ACP는 장기 유의효과 없음 — 에스컬레이션 근거의 핵심
 - [[dentin-hypersensitivity/shan-2021-low-level-light-therapy-dentin-hypersensitivity-sr-ma]] — SR+MA: LLLT placebo 대비 효과, fluoride 외 우월성 없음
@@ -268,7 +268,7 @@ DH는 환자의 자연 발생만이 아니라 **수복 후 발생 (postoperative
 
 ### 신규 ingest cluster — at-home desensitizer RCTs (2026-07-01, 3편)
 
-**Synthesis [claude해석]:** 이 batch는 1차(at-home) 치약 rung에 그동안 부족했던 head-to-head RCT 근거를 채운다. 세 편이 하나로 수렴한다 — **활성 tubule-occluding 치약 > 표준 불소치약**이므로 conservative first step은 "아무 불소치약"이 아니라 의도적으로 고른 활성성분 치약이어야 한다. Qiu 2026·Creeth 2026이 각각 불화주석·인산칼슘나트륨규산염 단일제제로 표준 불소치약 대비 우월성을 정량화하고(모두 examiner endpoint 군간 p<0.001), Ayan 2025가 5종 head-to-head로 순위(CPP-ACP 최고)를 제공한다. 공통 caveat: examiner 우월성이 DHEQ 삶의질 군간 차이로 항상 이어지지는 않으며(Creeth NS, Qiu Study 1만 유의, Ayan 대조군 DHEQ 무변화), 세 편 모두 ≤8주 지평이라 장기 순위는 여전히 [[dentin-hypersensitivity/correa-2025-long-term-desensitizing-agents-efficacy-sr-ma]]가 anchor. [근거강함 RCT]
+**Synthesis [미검증]:** 이 batch는 1차(at-home) 치약 rung에 그동안 부족했던 head-to-head RCT 근거를 채운다. 세 편이 하나로 수렴한다 — **활성 tubule-occluding 치약 > 표준 불소치약**이므로 conservative first step은 "아무 불소치약"이 아니라 의도적으로 고른 활성성분 치약이어야 한다. Qiu 2026·Creeth 2026이 각각 불화주석·인산칼슘나트륨규산염 단일제제로 표준 불소치약 대비 우월성을 정량화하고(모두 examiner endpoint 군간 p<0.001), Ayan 2025가 5종 head-to-head로 순위(CPP-ACP 최고)를 제공한다. 공통 caveat: examiner 우월성이 DHEQ 삶의질 군간 차이로 항상 이어지지는 않으며(Creeth NS, Qiu Study 1만 유의, Ayan 대조군 DHEQ 무변화), 세 편 모두 ≤8주 지평이라 장기 순위는 여전히 [[dentin-hypersensitivity/correa-2025-long-term-desensitizing-agents-efficacy-sr-ma]]가 anchor. [확인 RCT]
 
 - [[dentin-hypersensitivity/qiu-2026-stannous-fluoride-toothpaste-dentin-hypersensitivity-rct]] — RCT ×2 (n=104, n=113): 무수 0.454% 불화주석(SnF₂) 치약이 표준 불소치약 대비 Schiff·촉각역치·LMS 통증 4영역 모두 Day 28·56 우월 (모두 p<0.05; Study 1 Day 56 Schiff Δ −2.25 vs −0.31, 촉각 Δ +60.07 vs +2.70 g); ADA ≥20% 임상유의차 Day 28 도달
 - [[dentin-hypersensitivity/creeth-2026-calcium-sodium-phosphosilicate-dentin-hypersensitivity-rct]] — RCT (n=215 완료): 5% 인산칼슘나트륨규산염(CSPS/NovaMin) 치약이 표준 NaF-실리카 대비 Schiff·Yeaple 모든 시점 우월 (군간 p<0.001), **3일 만에 유의 onset**, 8주까지 효과 증가; DHEQ 군간 차이는 NS
@@ -285,8 +285,15 @@ DH는 환자의 자연 발생만이 아니라 **수복 후 발생 (postoperative
 
 ## Bottom Line (한 줄 결론)
 
-[근거강함] DH 메커니즘은 hydrodynamic theory (관내 유체 이동) — 모든 treatment의 두 축은 **관 폐쇄** 또는 **신경 탈민감화**.
+[확인] DH 메커니즘은 hydrodynamic theory (관내 유체 이동) — 모든 treatment의 두 축은 **관 폐쇄** 또는 **신경 탈민감화**.
 
-[합의수준] 외래 ladder는 **at-home (KNO3·NovaMin·arginine) 4-8주 → in-office sealing (varnish·oxalate·laser·resin) → restorative**. Conservative first가 default, escalate only if fails.
+[확인] 외래 ladder는 **at-home (KNO3·NovaMin·arginine) 4-8주 → in-office sealing (varnish·oxalate·laser·resin) → restorative**. Conservative first가 default, escalate only if fails.
 
-[claude해석] iatrogenic DH (Class II composite postop, NCCL restoration) 예방은 **adhesive technique + slow curing**이 핵심. NCCL adhesive 선택은 long-term (E&R 우위) vs postop sensitivity (SE 우위) trade-off — 환자 sensitivity 경향 시 SE 우선. Cracked tooth와 동반 case는 [[overviews/cracked-tooth-syndrome-overview]] framework 병행 필수.
+[미검증] iatrogenic DH (Class II composite postop, NCCL restoration) 예방은 **adhesive technique + slow curing**이 핵심. NCCL adhesive 선택은 long-term (E&R 우위) vs postop sensitivity (SE 우위) trade-off — 환자 sensitivity 경향 시 SE 우선. Cracked tooth와 동반 case는 [[overviews/cracked-tooth-syndrome-overview]] framework 병행 필수.
+
+## Related Papers
+
+### 신규 ingest cluster (2026-07-15)
+
+- [[dentin-hypersensitivity/barbosa-2026-arginine-low-level-laser-dentin-hypersensitivity-rct]] — Double-blind RCT (54/120 teeth, 4 arms): all arms cut sensitivity (Schiff 5.0→1.9, p<0.001) but NO between-group difference — neither 660nm PBM nor arginine beats fluoride/hygiene control (strong placebo effect)
+

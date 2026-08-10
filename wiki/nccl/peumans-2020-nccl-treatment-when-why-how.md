@@ -7,7 +7,7 @@ doi: ""
 pmid: "31994534"
 source: peumans-2020-nccl-treatment-when-why-how.md
 category: nccl
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/peumans-2020-nccl-treatment-when-why-how.pdf
 pdf_filename: peumans-2020-nccl-treatment-when-why-how.pdf
 source_collection: external

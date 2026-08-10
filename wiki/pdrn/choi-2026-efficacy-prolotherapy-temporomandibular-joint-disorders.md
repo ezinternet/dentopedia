@@ -6,7 +6,7 @@ date: 2026-01-12
 doi: 10.22514/jofph.2025.062
 source: choi-2026-efficacy-prolotherapy-temporomandibular-joint-disorders.md
 category: [pdrn]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/choi-2026-efficacy-prolotherapy-temporomandibular-joint-disorders.pdf
 pdf_filename: choi-2026-efficacy-prolotherapy-temporomandibular-joint-disorders.pdf
 source_collection: external

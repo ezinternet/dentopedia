@@ -1,0 +1,222 @@
+<!--
+---
+title: "사랑니 발치 약물 프로토콜 결정 트리"
+type: interactive
+date: 2026-07-29
+status: done
+category: drug/analgesics
+agenda: agenda/2026-07-29_corticosteroid-third-molar-interactives.md
+source_wiki:
+  - wiki/drug/analgesics/buyukkurt-2006-prednisolone-diclofenac-third-molar-rct.md
+  - wiki/drug/analgesics/costa-2015-preemptive-nsaids-third-molar-pain-meta.md
+  - wiki/drug/analgesics/ibikunle-2016-prednisolone-qol-third-molar-rct.md
+  - wiki/drug/analgesics/gholami-2021-methylprednisolone-masseter-gluteal-third-molar-rct.md
+  - wiki/drug/analgesics/larsen-2021-methylprednisolone-doses-split-mouth-rct.md
+  - wiki/drug/analgesics/singh-2023-dexamethasone-vs-methylprednisolone-third-molar-sr-ma.md
+  - wiki/drug/analgesics/liborio-2025-methylprednisolone-third-molar-sr-ma.md
+  - wiki/overviews/drug-analgesics-postop-pain-overview.md
+tags: [third-molar, decision-tree, analgesics, corticosteroid, NSAID, prescribing, interactive]
+---
+-->
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>사랑니 발치 약물 프로토콜 결정 트리</title>
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:-apple-system,BlinkMacSystemFont,'Helvetica Neue',sans-serif;color:#1a1a18;background:#f5f4f0;padding:1.5rem}
+h1{font-size:18px;font-weight:500;margin-bottom:4px}
+.subtitle{font-size:12px;color:#888780;margin-bottom:1.5rem}
+.wrap{display:flex;flex-direction:column;gap:0}
+.node{border-radius:8px;padding:10px 14px;font-size:13px;line-height:1.5;position:relative}
+.node-q{background:#f1efe8;border:1px solid #b4b2a9;font-weight:500;font-size:13px}
+.node-q .label{font-size:10px;font-weight:400;color:#888780;text-transform:uppercase;letter-spacing:.04em;margin-bottom:2px}
+.badge{display:inline-block;padding:2px 7px;border-radius:10px;font-size:11px;font-weight:500;white-space:nowrap;margin-right:3px}
+.b-green{background:#EAF3DE;color:#3B6D11}
+.b-blue{background:#E6F1FB;color:#185FA5}
+.b-amber{background:#FAEEDA;color:#854F0B}
+.b-purple{background:#EEEDFE;color:#3C3489}
+.b-gray{background:#f1efe8;color:#5f5e5a}
+.branch-row{display:flex;gap:12px;margin-top:0}
+.branch{flex:1;display:flex;flex-direction:column;gap:0}
+.branch-label{font-size:11px;font-weight:500;padding:3px 10px;border-radius:6px 6px 0 0;text-align:center}
+.bl-yes{background:#EAF3DE;color:#27500A}
+.bl-no{background:#FCEBEB;color:#791F1F}
+.bl-neutral{background:#f1efe8;color:#5f5e5a}
+.drug-box{background:#fff;border:0.5px solid #d3d1c7;border-radius:8px;padding:9px 12px}
+.drug-box.highlight{border-color:#1D9E75;border-width:1.5px}
+.drug-name{font-size:12px;font-weight:500;margin-bottom:4px}
+.drug-detail{font-size:11px;color:#5f5e5a;line-height:1.5}
+.ref{font-size:10px;color:#888780;margin-top:3px;font-style:italic}
+.out-row{display:flex;gap:10px}
+.out-col{flex:1}
+.section-gap{height:20px}
+.step-label{font-size:10px;color:#888780;text-transform:uppercase;letter-spacing:.05em;margin-bottom:8px;font-weight:500}
+.connector{height:12px;display:flex;align-items:center;justify-content:center}
+.connector::before{content:'';display:block;width:1px;height:100%;background:#b4b2a9}
+.fork-stem{height:10px;display:flex;justify-content:center}
+.fork-stem::before{content:'';display:block;width:1px;background:#b4b2a9}
+.spacer{height:10px}
+.sources{margin-top:1.5rem;padding-top:1rem;border-top:0.5px solid #d3d1c7;font-size:11px;color:#888780;line-height:1.6}
+</style>
+</head>
+<body>
+<h1>사랑니 발치 약물 프로토콜 결정 트리</h1>
+<p class="subtitle">Third Molar Surgery Drug Selection · LLM-Wiki 임상 도구 · 2026-07-29</p>
+
+<div class="wrap">
+
+<p class="step-label">Step 1 — 금기 확인</p>
+
+<div class="node node-q">
+  <div class="label">금기 스크리닝</div>
+  코르티코스테로이드(Corticosteroid) 금기가 있는가?<br>
+  <span style="font-size:11px;color:#5f5e5a">(조절 안 된 DM, 활동성 감염, 위궤양, 면역억제, 임신 1/3분기)</span>
+</div>
+
+<div class="branch-row" style="margin-top:0">
+  <div style="flex:1">
+    <div class="fork-stem"></div>
+    <div class="branch-label bl-yes">예 — 금기</div>
+    <div class="drug-box">
+      <div class="drug-name"><span class="badge b-amber">스테로이드 제외</span></div>
+      <div class="drug-detail">
+        비스테로이드성 항염제(NSAIDs) 단독<br>
+        이부프로펜(Ibuprofen) 400mg 또는 디클로페낙(Diclofenac) 50mg<br>
+        술전 선제 + 술후 규칙 투여 (8h 간격)<br>
+        + 아세트아미노펜(Acetaminophen) PRN 병용 가능
+      </div>
+      <div class="ref">Costa 2015 — NSAID preemptive (weak evidence)</div>
+    </div>
+  </div>
+  <div style="flex:1">
+    <div class="fork-stem"></div>
+    <div class="branch-label bl-no">아니오 — 진행</div>
+    <div class="drug-box" style="border-color:#185FA5">
+      <div class="drug-name"><span class="badge b-blue">Step 2로 →</span></div>
+      <div class="drug-detail">코르티코스테로이드 선택 분기로 진행</div>
+    </div>
+  </div>
+</div>
+
+<div class="section-gap"></div>
+<p class="step-label">Step 2 — 임상 우선 목표 선택</p>
+
+<div class="node node-q">
+  <div class="label">임상 우선순위</div>
+  이 환자에서 가장 중요한 술후 목표는?
+</div>
+<div class="spacer"></div>
+
+<div class="out-row">
+  <div class="out-col">
+    <div class="drug-box highlight">
+      <div class="drug-name"><span class="badge b-blue">A</span> 개구제한(Trismus) 최소화</div>
+      <div class="drug-detail">
+        <span class="badge b-green">덱사메타손(Dexamethasone) 4 mg</span><br>
+        경로: IV / IM / 점막하(Submucosal)<br>
+        타이밍: 마취 시 또는 직전 <strong>선제</strong> 투여<br>
+        근거: Dexa &gt; MP (SMD −0.69mm, p&lt;0.0001)
+      </div>
+      <div class="ref">Singh 2023 SR+MA (7 RCT); Libório 2025 I²=0%</div>
+    </div>
+  </div>
+  <div class="out-col">
+    <div class="drug-box highlight">
+      <div class="drug-name"><span class="badge b-blue">B</span> 통증 + 전반적 불편감</div>
+      <div class="drug-detail">
+        <span class="badge b-purple">프레드니솔론(Prednisolone) 25–40 mg + 디클로페낙(Diclofenac) IM</span><br>
+        경로: 술직후 근주(IM) 병용<br>
+        타이밍: 술직후 즉시<br>
+        효과: 통증 6h, trismus day2&7, swelling day7 모두 유의
+      </div>
+      <div class="ref">Buyukkurt 2006 RCT n=45</div>
+    </div>
+  </div>
+  <div class="out-col">
+    <div class="drug-box highlight">
+      <div class="drug-name"><span class="badge b-blue">C</span> QoL 회복 속도</div>
+      <div class="drug-detail">
+        <span class="badge b-purple">프레드니솔론(Prednisolone) 40 mg 점막하 주사</span><br>
+        경로: 봉합 전 술부 점막하<br>
+        타이밍: 봉합 직전<br>
+        효과: 구강건강관련 삶의 질(OHRQoL, OHIP-14) 유의 개선<br>
+        점막하 &gt; 경구(p=0.001)
+      </div>
+      <div class="ref">Ibikunle 2016 RCT n=186</div>
+    </div>
+  </div>
+</div>
+
+<div class="section-gap"></div>
+<p class="step-label">Step 3 — NSAID 병용 여부</p>
+
+<div class="node node-q">
+  <div class="label">병용 결정</div>
+  비스테로이드성 항염제(NSAIDs) 병용이 가능한가?<br>
+  <span style="font-size:11px;color:#5f5e5a">(신기능 정상, 위장 문제 없음, 혈소판 기능 이상 없음, 출혈 위험 낮음)</span>
+</div>
+<div class="spacer"></div>
+
+<div class="branch-row">
+  <div style="flex:1">
+    <div class="fork-stem"></div>
+    <div class="branch-label bl-yes">병용 가능</div>
+    <div class="drug-box">
+      <div class="drug-name"><span class="badge b-green">권장 조합</span></div>
+      <div class="drug-detail">
+        스테로이드 (A 또는 B 선택) + 디클로페낙(Diclofenac) 50mg 경구/IM<br>
+        술전 디클로페낙 선제 + 술후 규칙 복용 (8h 간격)<br>
+        → 통증 조절 시너지, trismus 추가 감소
+      </div>
+      <div class="ref">Buyukkurt 2006 — combination superior for pain/trismus/swelling</div>
+    </div>
+  </div>
+  <div style="flex:1">
+    <div class="fork-stem"></div>
+    <div class="branch-label bl-no">NSAID 제한</div>
+    <div class="drug-box">
+      <div class="drug-name"><span class="badge b-amber">스테로이드 단독</span></div>
+      <div class="drug-detail">
+        스테로이드 (A/B/C 선택) + 아세트아미노펜(Acetaminophen) 500–1000mg<br>
+        술후 4–6h 간격 규칙 복용<br>
+        → 통증 조절은 NSAID 병용보다 약하나 항염 효과 유지
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="section-gap"></div>
+<p class="step-label">빠른 참조 — 약물별 핵심 결론</p>
+<div class="out-row">
+  <div class="out-col">
+    <div class="drug-box">
+      <div class="drug-name">덱사메타손(Dexamethasone)</div>
+      <div class="drug-detail">Trismus 최우선 약물<br>선제 투여 필수<br><span style="color:#A32D2D">메틸프레드니솔론(MP)보다 trismus 유의 우위</span></div>
+    </div>
+  </div>
+  <div class="out-col">
+    <div class="drug-box">
+      <div class="drug-name">메틸프레드니솔론(Methylprednisolone)</div>
+      <div class="drug-detail">Pain/Swelling: Dexa와 동등<br><span style="color:#A32D2D">단독 RCT 2건 null (Larsen 2021, Gholami 2021)</span><br>Trismus에선 2순위</div>
+    </div>
+  </div>
+  <div class="out-col">
+    <div class="drug-box">
+      <div class="drug-name">프레드니솔론(Prednisolone)</div>
+      <div class="drug-detail">QoL·통증에 강점<br>점막하 경로 우선<br>NSAID 병용 시 시너지 최대</div>
+    </div>
+  </div>
+</div>
+
+</div>
+
+<div class="sources">
+  <strong>근거 논문:</strong> Singh 2023 (PROSPERO CRD42020161341) · Libório 2025 (PROSPERO CRD42024512561) · Larsen 2021 · Gholami 2021 · Ibikunle 2016 · Buyukkurt 2006 · Costa 2015<br>
+  <strong>위키 경로:</strong> wiki/drug/analgesics/ · 생성: 2026-07-29
+</div>
+
+</body>
+</html>

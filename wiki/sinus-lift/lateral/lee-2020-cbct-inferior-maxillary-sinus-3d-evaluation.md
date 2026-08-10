@@ -6,7 +6,7 @@ date: 2020-12-03
 doi: 10.1038/s41598-020-78156-x
 source: lee-2020-cbct-inferior-maxillary-sinus-3d-evaluation.md
 category: [sinus-lift/lateral]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/lee-2020-cbct-inferior-maxillary-sinus-3d-evaluation.pdf
 pdf_filename: lee-2020-cbct-inferior-maxillary-sinus-3d-evaluation.pdf
 source_collection: external

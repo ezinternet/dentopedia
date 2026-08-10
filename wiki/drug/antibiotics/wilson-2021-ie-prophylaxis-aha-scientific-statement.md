@@ -6,7 +6,7 @@ date: 2021-05-18
 doi: 10.1161/CIR.0000000000000969
 journal: Circulation 143:e963-e978
 source: wilson-2021-ie-prophylaxis-aha-scientific-statement.md
-confidence: consensus
+evidence_level: consensus
 category: [drug/antibiotics]
 pdf_path: /Users/oracleneo/llm-wiki/papers/wilson-2021-ie-prophylaxis-aha-scientific-statement.pdf
 pdf_filename: wilson-2021-ie-prophylaxis-aha-scientific-statement.pdf
@@ -72,6 +72,6 @@ Amoxicillin 2g 단일 투여(시술 30–60분 전)가 표준 1차 선택; 저/�
 - **Good oral health maintenance** emphasized as more protective than AP for low/moderate-risk patients
 
 ## Related Papers
-- [[drug/vidovic-juras-2024-antibiotic-prophylaxis-dental-procedures]] — broader AP review; prosthetic joints no longer routine
-- [[drug/gupta-2022-dental-management-cardiovascular-disease]] — CVD management; IE prophylaxis in context
-- [[drug/ufcd-2019-medically-complex-patients-management-guidelines]] — Section 16: IE protocol; high-risk criteria
+- [[drug/mronj/vidovic-juras-2024-antibiotic-prophylaxis-dental-procedures]] — broader AP review; prosthetic joints no longer routine
+- [[drug/anticoagulants/gupta-2022-dental-management-cardiovascular-disease]] — CVD management; IE prophylaxis in context
+- [[drug/mronj/ufcd-2019-medically-complex-patients-management-guidelines]] — Section 16: IE protocol; high-risk criteria

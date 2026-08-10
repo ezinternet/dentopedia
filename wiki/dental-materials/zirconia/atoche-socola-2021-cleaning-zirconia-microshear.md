@@ -6,7 +6,7 @@ date: 2021-01-01
 doi: 10.4047/jap.2021.13.4.237
 source: atoche-socola-2021-cleaning-zirconia-microshear.md
 category: [dental-materials/zirconia]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/atoche-socola-2021-cleaning-zirconia-microshear.pdf
 pdf_filename: atoche-socola-2021-cleaning-zirconia-microshear.pdf
 source_collection: external

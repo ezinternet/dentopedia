@@ -7,7 +7,7 @@ doi: 10.1007/s00784-018-2761-y
 pmid: "30535817"
 source: solderer-2019-chlorhexidine-rinses-periodontal-surgery.md
 category: [periodontics]
-confidence: sr
+evidence_level: sr
 source_collection: external
 pdf_path: /Users/oracleneo/llm-wiki/papers/solderer-2019-chlorhexidine-rinses-periodontal-surgery.txt
 pdf_filename: solderer-2019-chlorhexidine-rinses-periodontal-surgery.txt
@@ -67,5 +67,5 @@ CHX reduces plaque 29–86% and bleeding up to 73% at 1 week vs placebo; 0.12% c
 
 ## Related Papers
 
-- [[periodontics/james-2017-chlorhexidine-mouthrinse-adjunctive-gingival]] — Cochrane; 비수술 CHX 효능
-- [[periodontics/figuero-2019-adjunctive-antiplaque-chemical-agents-gingivitis]] — 항균 가글 NMA 전체 비교
+- [[periodontics/oral-hygiene-instruction/james-2017-chlorhexidine-mouthrinse-adjunctive-gingival]] — Cochrane; 비수술 CHX 효능
+- [[periodontics/oral-hygiene-instruction/figuero-2019-adjunctive-antiplaque-chemical-agents-gingivitis]] — 항균 가글 NMA 전체 비교

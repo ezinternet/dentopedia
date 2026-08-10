@@ -7,7 +7,7 @@ doi: 10.2344/0003-3006-62.2.57
 journal: Anesth Prog 62(2):57-63
 source: costa-2015-preemptive-nsaids-third-molar-pain-meta.md
 category: [drug/analgesics]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/costa-2015-preemptive-nsaids-third-molar-pain-meta.pdf
 pdf_filename: costa-2015-preemptive-nsaids-third-molar-pain-meta.pdf
 source_collection: external
@@ -33,7 +33,7 @@ SR+MA(Anesth Prog 2015; 6편 RCT 확인, 4편 정량분석 가능, n=298): 제3�
 ## Summary
 Meta-analysis testing the common clinical hypothesis that giving an oral NSAID *before* third molar surgery reduces postoperative pain via central sensitization blockade. Six RCTs identified (n=420 subjects), four with usable numeric data included in pooled analysis (n=298). Result: **no statistically significant difference** between preemptive NSAID and control (P=0.2227).
 
-[claude해석] This negative finding has been partially challenged by subsequent SRs (Gousias 2025 in periodontal/implant surgery; Lin et al. periodontal/oral surgery contexts). The current best interpretation: preemptive NSAID is unlikely to be transformative for third molar surgery specifically, but may have small benefit in certain other dental surgical contexts. The simpler practical position — give NSAID + APAP at the time of expected anesthetic wear-off (or pre-emptively for convenience) — remains defensible.
+[미검증] This negative finding has been partially challenged by subsequent SRs (Gousias 2025 in periodontal/implant surgery; Lin et al. periodontal/oral surgery contexts). The current best interpretation: preemptive NSAID is unlikely to be transformative for third molar surgery specifically, but may have small benefit in certain other dental surgical contexts. The simpler practical position — give NSAID + APAP at the time of expected anesthetic wear-off (or pre-emptively for convenience) — remains defensible.
 
 ## Key Contributions
 - Tests a widely held clinical assumption rigorously.
@@ -46,7 +46,7 @@ Meta-analysis testing the common clinical hypothesis that giving an oral NSAID *
 - Low risk of bias (Cochrane criteria); high methodological heterogeneity
 
 ## Results
-[근거강함] Preemptive NSAID vs comparator: pooled effect NS (P=0.2227).
+[확인] Preemptive NSAID vs comparator: pooled effect NS (P=0.2227).
 
 ## Limitations
 - Only 4 RCTs in pooled analysis — limited power
@@ -54,7 +54,7 @@ Meta-analysis testing the common clinical hypothesis that giving an oral NSAID *
 - Doesn't separate pre-op-only vs pre+post dosing
 
 ## Related Papers
-- [[drug/gousias-2025-preemptive-analgesia-periodontal-implant-sr-ma]] — preemptive in periodontal/implant SR+MA (2025).
-- [[drug/miroshnychenko-2023-dental-extraction-pain-network-meta]] — dental NMA (postoperative regimen ranking).
-- [[drug/watson-2022-acetaminophen-codeine-ibuprofen-third-molar-sr-ma]] — third molar specific.
-- [[drug/moore-2015-single-dose-oral-analgesics-cochrane-overview]] — single-dose framework.
+- [[drug/analgesics/gousias-2025-preemptive-analgesia-periodontal-implant-sr-ma]] — preemptive in periodontal/implant SR+MA (2025).
+- [[drug/analgesics/miroshnychenko-2023-dental-extraction-pain-network-meta]] — dental NMA (postoperative regimen ranking).
+- [[drug/analgesics/watson-2022-acetaminophen-codeine-ibuprofen-third-molar-sr-ma]] — third molar specific.
+- [[drug/analgesics/moore-2015-single-dose-oral-analgesics-cochrane-overview]] — single-dose framework.

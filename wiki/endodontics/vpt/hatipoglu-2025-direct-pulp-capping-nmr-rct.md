@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1016/j.jdent.2025.106073
 source: hatipoglu-2025-direct-pulp-capping-nmr-rct.md
 category: [endodontics/vpt]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/hatipoglu-2025-direct-pulp-capping-nmr-rct.pdf
 pdf_filename: hatipoglu-2025-direct-pulp-capping-nmr-rct.pdf
 source_collection: external

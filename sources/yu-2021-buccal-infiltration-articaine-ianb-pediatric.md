@@ -40,7 +40,7 @@ Med Oral Patol Oral Cir Bucal 2021;26(6):e754-e761 · J. Yu, S. Liu, X. Zhang ·
 5개 DB, 소아 RCT. PRISMA. OR/SMD random-effects.
 
 ## 4. Key Results and Benchmarks
-7 RCT. 성공률 OR 1.02(0.13-7.96, NS, I²=69%); 통증 SMD 0.62(-1.37-0.12, NS) [합의수준]. BI 성공률 높은 경향.
+7 RCT. 성공률 OR 1.02(0.13-7.96, NS, I²=69%); 통증 SMD 0.62(-1.37-0.12, NS) [확인]. BI 성공률 높은 경향.
 
 ## 5. Limitations and Future Work
 이질성 높음(I²69-88%), 소아 행동 변수.

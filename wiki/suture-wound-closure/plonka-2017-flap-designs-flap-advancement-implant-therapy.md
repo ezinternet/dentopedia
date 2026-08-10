@@ -6,7 +6,7 @@ date: 2017-01-01
 doi: 10.1097/ID.0000000000000510
 source: plonka-2017-flap-designs-flap-advancement-implant-therapy.md
 category: [suture-wound-closure]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/plonka-2017-flap-designs-flap-advancement-implant-therapy.pdf
 pdf_filename: plonka-2017-flap-designs-flap-advancement-implant-therapy.pdf
 source_collection: external
@@ -59,4 +59,4 @@ This systematic/comprehensive review provides the organizing framework for the w
 - [[suture-wound-closure/attia-2023-coronally-advanced-lingual-flap-titanium-mesh]] — CALF is a major-advancement (≥7 mm) lingual technique instantiating this taxonomy.
 - [[suture-wound-closure/wang-2024-poncho-technique-titanium-mesh-bone-regeneration]] — modified Poncho technique for major advancement over Ti-mesh; another instance of the major-advancement stratum.
 - [[suture-wound-closure/moslemi-2016-periosteal-releasing-incision-diode-laser-gbr]] — device-level execution of the periosteal-releasing-incision maneuver this review quantifies.
-- [[suture-wound-closure/lee-2018-flap-management-alveolar-ridge-preservation]] — adjacent flap-management evidence.
+- [[bone-regeneration/ridge-preservation/lee-2018-flap-management-alveolar-ridge-preservation]] — adjacent flap-management evidence.

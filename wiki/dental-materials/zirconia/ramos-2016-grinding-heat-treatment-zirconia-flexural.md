@@ -6,7 +6,7 @@ date: 2016-01-01
 doi: 10.1590/1807-3107BOR-2016.vol30.0012
 source: ramos-2016-grinding-heat-treatment-zirconia-flexural.md
 category: [dental-materials/zirconia]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/ramos-2016-grinding-heat-treatment-zirconia-flexural.pdf
 pdf_filename: ramos-2016-grinding-heat-treatment-zirconia-flexural.pdf
 source_collection: external

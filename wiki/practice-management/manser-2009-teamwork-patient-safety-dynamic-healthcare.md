@@ -6,16 +6,13 @@ date: 2009-02-01
 doi: 10.1111/j.1399-6576.2008.01717.x
 source: manser-2009-teamwork-patient-safety-dynamic-healthcare.md
 category: [practice-management]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: false
 pmid: "19032571"
 source_url: https://pubmed.ncbi.nlm.nih.gov/19032571/
 text_path: /Users/oracleneo/llm-wiki/papers/manser-2009-teamwork-patient-safety-dynamic-healthcare.txt
 text_filename: manser-2009-teamwork-patient-safety-dynamic-healthcare.txt
-relations:
-  - type: reinforces
-    target: dental-workforce-delegation-skill-mix-overview
 tags: []
 ---
 

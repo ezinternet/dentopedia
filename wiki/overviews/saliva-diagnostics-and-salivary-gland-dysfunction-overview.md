@@ -2,11 +2,11 @@
 title: "Saliva & the Salivary Gland: Diagnostic Medium and Secretory Dysfunction — Overview"
 date: 2026-07-03
 category: overviews
-confidence: synthesis
+evidence_level: synthesis
 tags: [saliva, salivary-gland, salivary-diagnostics, salivaomics, liquid-biopsy, xerostomia, hyposalivation, AQP5, GPCR, semaglutide, GLP-1, Sjogren, biomarkers]
 source_wiki:
-  - wiki/oral-medicine/nonaka-2023-saliva-diagnostics-salivaomics-exosomics-liquid-biopsy.md
-  - wiki/oral-medicine/li-2024-salivary-diagnostics-opportunities-challenges.md
+  - wiki/oral-medicine/salivary-chemosensory/nonaka-2023-saliva-diagnostics-salivaomics-exosomics-liquid-biopsy.md
+  - wiki/oral-medicine/salivary-chemosensory/li-2024-salivary-diagnostics-opportunities-challenges.md
   - wiki/oral-medicine/kim-2023-xerostomia-cellular-targets.md
   - wiki/drug/systemic-disease/mawardi-2023-semaglutide-associated-hyposalivation-case-series.md
   - wiki/oral-medicine/poudel-2026-xerostomia-dental-treatment-outcomes-sr.md
@@ -101,3 +101,11 @@ Saliva occupies two distinct but coupled clinical roles. As a **diagnostic mediu
 ## Related Overviews
 
 - [[autoimmune-disease-dental-treatment-overview]] — Sjögren's and other autoimmune contexts for salivary dysfunction.
+
+## Related Papers
+
+### 신규 ingest cluster (2026-07-15)
+
+- [[oral-medicine/salivary-chemosensory/alhejoury-2021-artificial-saliva-xerostomia-narrative-review]] — Narrative review: sialogogue/substitute catalogue (pilocarpine 5–10mg 3–4×/day, cevimeline 30mg/day, electrostimulation 3–4× flow) — practical options list, not graded evidence
+- [[oral-medicine/salivary-chemosensory/sardellitti-2023-xerostomia-pharmacological-traditional-medicine-overview]] — Narrative overview (2012–2021): no drug class or traditional medicine has robust xerostomia efficacy; ~30% incidence at ≥65y (61% with polypharmacy) — persistent guideline void
+

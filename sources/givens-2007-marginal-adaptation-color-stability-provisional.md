@@ -14,7 +14,7 @@ text_filename: givens-2007-marginal-adaptation-color-stability-provisional.txt
 
 ## Why Ingested
 
-사용자가 아크릴레진 임시치아 재료 중 **SNAP**(Parkell, polyethyl methacrylate) 제품 관련 논문을 요청. SNAP을 직접 다룬 논문은 모두 PMC 전문이 없어(2000년대 JPD/J Prosthodont 초록만), 그중 SNAP을 대조군으로 두고 물성을 정면 비교한 이 논문을 초록 기반(abstract-only)으로 ingest. bis-acryl(Protemp Garant·Integrity·Luxatemp Solar) vs PMMA/PEMA(SNAP)의 변연적합·색안정성 근거로, PMC 전문판인 [[prosthetic-materials/sokhal-2025-surface-hardness-bis-acryl-pmma-provisional]](표면경도)와 짝을 이뤄 "아크릴 임시치아 vs bis-acryl" 물성 대비를 완성한다. 기존 [[prosthetic-materials/alqarawi-2024-digital-taper-finish-line-temporary-crown-retention]](임시치관 유지력)와도 연결.
+사용자가 아크릴레진 임시치아 재료 중 **SNAP**(Parkell, polyethyl methacrylate) 제품 관련 논문을 요청. SNAP을 직접 다룬 논문은 모두 PMC 전문이 없어(2000년대 JPD/J Prosthodont 초록만), 그중 SNAP을 대조군으로 두고 물성을 정면 비교한 이 논문을 초록 기반(abstract-only)으로 ingest. bis-acryl(Protemp Garant·Integrity·Luxatemp Solar) vs PMMA/PEMA(SNAP)의 변연적합·색안정성 근거로, PMC 전문판인 [[prosthetic-materials/sokhal-2025-surface-hardness-bis-acryl-pmma-provisional]](표면경도)와 짝을 이뤄 "아크릴 임시치아 vs bis-acryl" 물성 대비를 완성한다. 기존 [[prosthetic-materials/tooth-preparation/alqarawi-2024-digital-taper-finish-line-temporary-crown-retention]](임시치관 유지력)와도 연결.
 
 ## Three-line Summary
 
@@ -71,7 +71,7 @@ SNAP은 자가중합 bis-acryl과 대등하게 낮은 변연오차·우수한 �
 ## 6. Related Work
 
 - [[prosthetic-materials/sokhal-2025-surface-hardness-bis-acryl-pmma-provisional]] — paired PMC-fulltext study on surface hardness (bis-acryl > PMMA); together they cover fit/color + hardness.
-- [[prosthetic-materials/alqarawi-2024-digital-taper-finish-line-temporary-crown-retention]] — temporary crown retention vs preparation geometry.
+- [[prosthetic-materials/tooth-preparation/alqarawi-2024-digital-taper-finish-line-temporary-crown-retention]] — temporary crown retention vs preparation geometry.
 
 ## 7. Glossary
 

@@ -6,7 +6,7 @@ date: 2023-08-23
 doi: 10.3390/genes14091669
 source: giannotti-2023-autologous-platelet-concentrates-clinical-applications.md
 category: [bone-regeneration]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 pmid: "37761809"
 pmcid: "PMC10530962"
@@ -71,6 +71,6 @@ Narrative literature review (no PRISMA flow diagram, database list, or systemati
 ## Related Papers
 
 - [[bone-regeneration/cho-2026-prf-bone-regeneration-mechanisms-scoping-review]] — PRF-only mechanistic deep-dive (osteoimmunology, macrophage M1→M2 polarization); this paper extends the comparison across all three APC generations (PRP/PRF/CGF) and adds CGF-specific cellular characterization.
-- [[periodontics/miron-2024-autogenous-platelet-concentrates-intrabony-defects]] — clinical SR/MA of PRF/APC in intrabony defects; this paper supplies the growth-factor/cellular mechanism underlying those clinical outcomes.
+- [[periodontics/host-modulation/miron-2024-autogenous-platelet-concentrates-intrabony-defects]] — clinical SR/MA of PRF/APC in intrabony defects; this paper supplies the growth-factor/cellular mechanism underlying those clinical outcomes.
 - [[periodontics/barootchi-2024-autologous-platelet-concentrates-root-coverage]] — network meta-analysis finding PRF, but not PRP or CGF, significantly improves root coverage — a clinical finding this paper's release-kinetics data (PRF's more sustained release than PRP, at lower per-generation cellular complexity than CGF) helps rationalize.
 - [[overviews/periodontal-regenerative-platelet-concentrates-overview]] — synthesis of three sibling clinical SR/MA/NMA papers on APCs in periodontal regeneration; this paper is the mechanistic/biological counterpart to that clinical evidence map.

@@ -6,7 +6,7 @@ date: 2025-04-04
 doi: "10.1111/cid.70024"
 source: soldini-2025-reconstructive-therapy-peri-implantitis-rct.md
 category: [implants/peri-implantitis]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/soldini-2025-reconstructive-therapy-peri-implantitis-rct.pdf
 pdf_filename: soldini-2025-reconstructive-therapy-peri-implantitis-rct.pdf
 source_collection: external

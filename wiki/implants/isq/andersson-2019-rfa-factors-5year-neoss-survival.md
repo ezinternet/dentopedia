@@ -6,7 +6,7 @@ date: 2019-01-01
 doi: 10.1155/2019/3209872
 journal: International Journal of Dentistry 2019
 source: andersson-2019-rfa-factors-5year-neoss-survival.md
-confidence: retrospective
+evidence_level: retrospective
 category: [implants/isq]
 pdf_path: /Users/oracleneo/llm-wiki/papers/andersson-2019-rfa-factors-5year-neoss-survival.pdf
 pdf_filename: andersson-2019-rfa-factors-5year-neoss-survival.pdf
@@ -59,4 +59,4 @@ Large retrospective study of 745 Neoss implants (334 patients), ≥5-year follow
 
 ## Related Papers
 - [[implants/isq/andreatta-2020-simplified-loading-protocol-neoss-1year]] — same Neoss system, simplified 6-8wk loading protocol
-- [[periodontics/roccuzzo-2022-implants-periodontitis-history-20year-prospective]] — multilevel logistic regression (clustering-adjusted) contrast
+- [[implants/survival/roccuzzo-2022-implants-periodontitis-history-20year-prospective]] — multilevel logistic regression (clustering-adjusted) contrast

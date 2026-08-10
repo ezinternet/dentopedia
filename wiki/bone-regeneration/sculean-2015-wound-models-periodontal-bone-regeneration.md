@@ -6,7 +6,7 @@ date: 2015-01-01
 doi: 10.1111/prd.12091
 source: sculean-2015-wound-models-periodontal-bone-regeneration.md
 category: [bone-regeneration]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/sculean-2015-wound-models-periodontal-bone-regeneration.pdf
 pdf_filename: sculean-2015-wound-models-periodontal-bone-regeneration.pdf
 source_collection: external

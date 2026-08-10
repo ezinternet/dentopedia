@@ -6,7 +6,7 @@ date: 2022-02-07
 doi: "10.1007/s11914-022-00722-1"
 source: roberts-2022-demineralization-attrition-erosion-abfraction-nccl.md
 category: nccl
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/roberts-2022-demineralization-attrition-erosion-abfraction-nccl.pdf
 pdf_filename: roberts-2022-demineralization-attrition-erosion-abfraction-nccl.pdf
 source_collection: external

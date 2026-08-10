@@ -6,7 +6,7 @@ date: 2016-05-01
 doi: 10.1097/MD.0000000000003662
 source: chen-2016-diagnosis-treatment-odontogenic-cutaneous-sinus.md
 category: [endodontics/anatomy]
-confidence: case-report
+evidence_level: case-report
 pdf_path: /Users/oracleneo/llm-wiki/papers/chen-2016-diagnosis-treatment-odontogenic-cutaneous-sinus.pdf
 pdf_filename: chen-2016-diagnosis-treatment-odontogenic-cutaneous-sinus.pdf
 source_collection: external

@@ -1,0 +1,78 @@
+In Vitro Effects of Chlorhexidine and Isopropyl Alcohol Conditioning Agents on Immediate and Late Bond Strength of Fiber Posts Dentin
+
+Emami Arjomand M, Nasoohi N, Shabani M. Frontiers in Dentistry. 2024;21:13. doi: 10.18502/fid.v21i13.15374. PMID: 38919768. PMCID: PMC11196390.
+
+Abstract
+
+This study assessed the effect of chlorhexidine (CHX) and isopropyl alcohol (IA) on immediate and late pushout bond strength (PBS) of fiber posts to dentin.
+
+In this in vitro study, 54 single-canal premolars were endodontically treated, and randomly assigned to 3 groups (N=18) for root dentin conditioning with distilled water (control), 2% CHX, and 70% IA after post space preparation. Fiber posts were cemented with TheraCem self-adhesive cement, and each group was subdivided into two subgroups (N=9) for PBS measurement immediately after bonding, and after 5000 thermal cycles (5-55°C). The roots were then sectioned, and their PBS was measured. The mode of failure was evaluated under a stereomicroscope at ×40 magnification. Data were analyzed by repeated measures ANOVA and Tukey's test (alpha=0.05).
+
+The highest PBS was noted in the IA group (21.12 MPa) after 24 hours and the lowest PBS belonged to the control group after thermocycling (7.48 MPa). The immediate and post-thermocycling PBS were significantly lower in the control group than the CHX group (P<0.05). The PBS in both the control and CHX groups was lower than that in the IA group (P<0.001). Regardless of the type of detergent, a significant reduction in PBS was observed after thermocycling (P<0.003). The PBS significantly decreased from the cervical towards the apical region in all groups (P<0.001).
+
+According to the results, application of IA before the self-adhesive cement effectively improved the immediate and late PBS, and was significantly more effective than CHX.
+
+Full Text
+
+Introduction
+
+The quality of coronal restoration is an important parameter in reconstruction of endodontically treated teeth, and provision of an optimal-quality restoration is often a challenging task. Currently, a variety of tooth-colored intracanal post systems such as fiber posts are available for reconstruction of endodontically treated teeth. Most clinical fractures of fiber posts are due to poor occlusal adjustment and subsequent fracture in the space between the root and intracanal post. A number of factors may affect post retention such as the shape and design of the post, the length and diameter of the post, type of cement, and crown preparation design after cementing the post. In restorative procedures, chlorhexidine (CHX) as an antimicrobial agent is commonly used for treatment and conditioning of root canal dentin to prevent the collapse of collagen fibers.
+
+According to Durski et al, CHX inhibits endogenous factors such as matrix metalloproteinases, and stabilizes the dentin-composite hybridization as such. They also reported significantly higher pushout bond strength (PBS) when CHX was used in the root canal system before cementation of intracanal post compared with no application of CHX. Nonetheless, no consensus has been reached in this regard. Other chemicals, such as alcohols, are used for dentin treatment to control its moisture level, improve the penetration depth of resin monomers, prevent the collapse of collagen fibrils, and subsequently improve adhesion. Isopropyl alcohol (IA) has less polarity than ethanol, and therefore removes less moisture from the dentinal tubules, which in turn improves the degree of conversion and adhesion.
+
+Durability of bonding is usually assessed by measuring the bond strength of resin cements to dentin over time by applying aging methods such as thermocycling. Self-adhesive cements are one-step application cements with reportedly equal or even superior bonding efficiency than other resin-based cements. The manufacturers suggest that the dentin surface should not be too dry when applying self-adhesive cements. However, number of studies on optimal dentin preparation protocol for application of such cements is limited. Moreover, there is a gap of information about the effects of CHX and IA before the cementation of fiber posts. Thus, this study aimed to assess the effect of CHX and IA on immediate and late PBS of fiber posts to dentin. The null hypothesis of the study was that no significant difference would be found in PBS of fiber posts to dentin following the application of distilled water, CHX and IA.
+
+Materials and Methods
+
+This in vitro experimental study evaluated 54 single-rooted and single-canal mandibular premolars. The study protocol was approved by the ethics committee of the university (IR.IAU.DENTAL.REC.1399.021).
+
+The sample size was calculated to be 9 in each of the 6 subgroups according to a study by Lecardelli et al, using ANOVA power analysis feature of PASS 11 considering alpha=0.05, beta=0.2, mean standard deviation of PBS to be 9.1, and effect size of 0.52.
+
+The teeth were decoronated perpendicular to their longitudinal axis and parallel to the cementoenamel junction (CEJ). The root canals were instrumented with ProTaper rotary system by using SX, S1, S2, F1, and F2 files by the crown down technique. The root canals were rinsed with 2.5% sodium hypochlorite and 17% EDTA. Finally, the canals were obturated with gutta-percha and AH26 epoxy resin-based sealer by the lateral compaction technique. After root canal obturation, the orifice was temporarily sealed with Cavit. The teeth were incubated at 37°C and 100% humidity for 48 hours. Subsequently, Peeso reamers #1, #2, and #3 were used at low speed (500-800 rpm) to prepare the post space with 7 mm length as measured from the CEJ. The roots were then randomly assigned to 3 groups (N=18) of control, CHX, and IA.
+
+To measure the PBS, each group was subdivided into two subgroups (N=9) of immediate PBS (after 24 hours) and late PBS measured after thermocycling. In the CHX group, the post space was irrigated with 2% CHX. Distilled water was used for this purpose in the control group, and 70% IA was used in the IA group. A 27-gauge needle was used for irrigation, and irrigation was performed for 60 seconds in all groups. The root dentin of the post space was then dried with gentle air spray and paper points. Next, #2 fiber posts were cut to 3 mm above the CEJ, cleaned with 70% ethanol, and completely air-dried.
+
+TheraCem self-adhesive cement (Bisco Inc, Schaumburg, Ill) was used to cement the fiber posts to root canal dentin according to the manufacturer's instructions. After cementation, all teeth were light-cured for 60 seconds from the occlusal surface with a minimum light intensity of 800 mW/cm2.
+
+Core build-up was performed by composite resin (Estelite Sigma Quick) applied with 3 mm thickness to cover the dentin and fiber post, and the teeth were then incubated in a dark chamber containing distilled water at 37°C for 24 hours.
+
+Thermocycling was then performed to simulate the aging process. The groups underwent 5000 thermal cycles between 5°-55°C with a dwell time of 10 seconds, to simulate 6 months of clinical service. The roots were mounted in metal molds containing self-cure acrylic resin. Next, three sections with 1±0.1 mm thickness were made perpendicular to the longitudinal axis of each root 1 mm below the CEJ.
+
+A universal testing machine with a punching pin was then used to measure the PBS in the cervical (1 mm), middle (0.9 mm) and apical (0.8 mm) sections by applying 500 N force in an apico-cervical direction with a cross-head speed of 0.5 mm/minute.
+
+The mode of failure was evaluated under a stereomicroscope at ×40 magnification, and classified into 5 categories: adhesive between the post and cement, mixed 1 (0%-50% of post surface covered with cement), mixed 2 (50%-100% covered), adhesive between the cement and dentin (enveloped post), and cohesive within the cement. Data were analyzed by repeated measures ANOVA and Tukey's test. P<0.05 was considered statistically significant.
+
+Results
+
+The effects of CHX and IA on immediate and late PBS of fiber posts to dentin were evaluated in 54 single-canal mandibular premolars (6 subgroups of 9). The highest PBS was noted in the IA group (21.12 MPa) after 24 hours, and the lowest PBS belonged to the control group after thermocycling (7.48 MPa). Tukey's test showed that the immediate (24 hours) and late (after thermocycling) PBS values in all root sections in the IA group were significantly higher than the values in the CHX and control groups (P<0.001).
+
+Repeated measures ANOVA showed a significant reduction in PBS after thermocycling in all three groups and in all root sections, irrespective of the type of conditioning agent used (P<0.003). Pairwise comparisons between the root sections in all samples showed that the mean PBS significantly decreased from the cervical towards the apical region regardless of the type of conditioning agent and thermocycling (P<0.001).
+
+Regarding failure mode, inspection under a stereomicroscope at x40 magnification revealed that the most common failure mode was adhesive between the cement and root dentin (post covered by cement, enveloped).
+
+Table 1 — Mean PBS values (MPa) of fiber post to dentin in different root sections:
+Control — Immediate PBS: Coronal 16.66±1.91, Middle 12.80±2.44, Apical 7.73±2.35. Late PBS (after thermocycling): Coronal 13.22±2.41, Middle 9.61±1.70, Apical 7.48±1.20.
+Chlorhexidine — Immediate PBS: Coronal 17.75±2.97, Middle 14.34±3.13, Apical 10.75±2.63. Late PBS: Coronal 17.04±1.19, Middle 14.13±1.81, Apical 10.04±2.41.
+Isopropyl alcohol — Immediate PBS: Coronal 21.12±1.54, Middle 19.40±2.29, Apical 15.80±3.23. Late PBS: Coronal 20.25±1.48, Middle 19.45±2.27, Apical 15.30±2.86.
+
+Table 2 — Frequency of failure modes (N=9 per subgroup): predominantly adhesive failure at the cement-dentin interface across all groups and timepoints.
+
+Discussion
+
+This study assessed the effect of CHX and IA on immediate and late PBS of fiber posts to dentin. The null hypothesis was rejected: both immediate and late PBS were significantly different among the three groups and significantly higher in the IA group than the CHX and control groups.
+
+Dual-cure self-adhesive cement (TheraCem) was used for cementation. Self-adhesive cements with mild acidic properties cause demineralization and limited hybridization of dentin; several studies report higher bond strength values with these cements than multi-phase cements, likely due to the chemical reaction with dentin hydroxyapatite. Their one-step application avoids errors such as air entrapment seen with multi-stage cements. Their setting reaction is an acid-base reaction in aqueous media, so manufacturers recommend avoiding over-drying of the dentin surface — making moisture control by IA particularly relevant for self-adhesive cements.
+
+Complete removal of moisture from dentin significantly decreases bond strength, since water is essential to maintain collagen network integrity, which allows resin monomer penetration. Prior studies (Bitter et al., Cecchin et al.) used ethanol to control dentin moisture and found higher bonding durability than CHX/distilled-water groups. Lecardelli et al. showed IA outperformed CHX and distilled water in bonding durability at 24 hours and 6 months, attributed to IA's lower polarity relative to ethanol, which removes less water from dentinal tubules and increases wettability, improving degree of conversion.
+
+CHX inhibits matrix metalloproteinases (MMPs) in the hybrid layer, preserving bond strength, and can increase dentin wettability via its positive ion charge. This explains why CHX outperformed the distilled-water control. However, in self-adhesive cements that do not require dentin etching, CHX appears less effective than on etched dentin, possibly due to chlorine-compound formation from CHX reacting with hydroxyapatite phosphate ions.
+
+PBS decreased from cervical to apical region in all groups regardless of conditioning agent — consistent with Durski et al. and Conte et al. — attributed to limited access to the apical region, incomplete smear-layer removal, incomplete cement penetration, and limited light penetration for polymerization, plus differing dentinal tubule density along the root.
+
+Bond strength decreased in all groups after thermocycling, most in the control group, attributed to hydrolysis at the cement-dentin interface and time-limited MMP inhibition by CHX (efficacy reportedly decreasing after 12 months in vitro; a clinical study found 2% CHX effective for up to 6 months).
+
+Limitations: in vitro design limits direct clinical generalization. Future work should examine combined CHX+IA conditioning and other adhesive/cement systems.
+
+Conclusion
+
+Application of isopropyl alcohol before self-adhesive cement (TheraCem) cementation effectively improved immediate (24-hour) and late (post-thermocycling) pushout bond strength of fiber posts to root dentin, and was significantly more effective than chlorhexidine conditioning.

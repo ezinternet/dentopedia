@@ -6,14 +6,16 @@ date: 2026-07-07
 doi: ""
 source: ""
 category: [overviews]
-confidence: synthesis
+evidence_level: synthesis
 source_collection: internal
 tags: [complete-denture, digital-denture, cad-cam, cost-effectiveness, workflow, consensus]
 relations:
-  - type: reinforces
+  - type: refines
     target: feng-2025-expert-consensus-digital-complete-denture
-  - type: reinforces
+  - type: applies-to
     target: muehlemann-2025-cost-efficiency-digital-conventional-denture
+  - type: contradicts
+    target: jafarpour-2024-cadcam-versus-traditional-complete-dentures
 ---
 
 > [!summary] 한국어 핵심요약

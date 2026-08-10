@@ -6,7 +6,7 @@ date: 2026-06-18
 doi: "10.1016/j.dental.2026.06.008"
 source: yeloglu-akbuar-2026-self-adhesive-flowable-physical-properties.md
 category: [resin]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: false
 pmid: "42315366"

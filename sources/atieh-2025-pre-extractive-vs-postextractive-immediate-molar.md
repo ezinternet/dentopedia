@@ -15,7 +15,7 @@ text_filename: atieh-2025-pre-extractive-vs-postextractive-immediate-molar.txt
 
 ## Why Ingested
 
-발치 전 식립와 형성법(pre-extractive approach)이 하악 대구치 즉시식립 ISQ와 식립 위치에 미치는 영향을 직접 비교한 RCT가 부재했던 간극을 메운다. [[immediate-implant/bleyan-2021-molar-septum-expansion-osseodensification-immediate-implant]]의 골밀도화 프로토콜과 비교해 inter-radicular septum 활용 전략의 근거 폭을 넓히며, 하악 대구치 ISQ 임계값 근거로도 활용 가능.
+발치 전 식립와 형성법(pre-extractive approach)이 하악 대구치 즉시식립 ISQ와 식립 위치에 미치는 영향을 직접 비교한 RCT가 부재했던 간극을 메운다. [[immediate-implant/molar-septum/bleyan-2021-molar-septum-expansion-osseodensification-immediate-implant]]의 골밀도화 프로토콜과 비교해 inter-radicular septum 활용 전략의 근거 폭을 넓히며, 하악 대구치 ISQ 임계값 근거로도 활용 가능.
 
 ## Three-line Summary
 

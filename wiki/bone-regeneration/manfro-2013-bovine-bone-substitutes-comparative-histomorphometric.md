@@ -6,7 +6,7 @@ date: 2013-08-02
 doi: 10.1007/s12663-013-0554-z
 source: manfro-2013-bovine-bone-substitutes-comparative-histomorphometric.md
 category: bone-regeneration
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/manfro-2013-bovine-bone-substitutes-comparative-histomorphometric.pdf
 pdf_filename: manfro-2013-bovine-bone-substitutes-comparative-histomorphometric.pdf
 source_collection: external

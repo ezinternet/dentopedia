@@ -6,7 +6,7 @@ date: 2026-05-15
 doi: 10.3390/dj14050304
 source: vankos-2026-digital-conventional-implant-impressions-edentulous.md
 category: [digital-workflow]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/vankos-2026-digital-conventional-implant-impressions-edentulous.pdf
 pdf_filename: vankos-2026-digital-conventional-implant-impressions-edentulous.pdf
 source_collection: external

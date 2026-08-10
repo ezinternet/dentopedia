@@ -6,11 +6,14 @@ date: 2024-08-09
 doi: 10.1007/s10006-024-01287-2
 source: sen-2024-sutureless-multiple-suture-third-molar-inflammation.md
 category: [suture-wound-closure]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/sen-2024-sutureless-multiple-suture-third-molar-inflammation.pdf
 pdf_filename: sen-2024-sutureless-multiple-suture-third-molar-inflammation.pdf
 source_collection: external
 tags: []
+relations:
+  - type: contradicts
+    target: takadoum-2022-sutureless-socket-technique-third-molars
 ---
 
 ## Three-line Summary

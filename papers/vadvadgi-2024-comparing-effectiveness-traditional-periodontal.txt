@@ -1,0 +1,172 @@
+TITLE: Comparing the Effectiveness of Traditional Periodontal Surgery Versus Non-Surgical Therapy: A Randomized Controlled Trial.
+AUTHORS: Vadvadgi V, et al.
+YEAR: 2024
+DOI: 10.4103/jpbs.jpbs_956_23
+PMID: 38595436
+PMCID: PMC11000990
+============================================================
+I
+
+Periodontal disease, encompassing a range of inflammatory conditions affecting the supporting structures of teeth, constitutes a significant global public health concern.[] This chronic condition, often associated with factors such as poor oral hygiene and systemic diseases, can lead to tooth mobility, discomfort, and eventual tooth loss if left untreated.[] Periodontal treatment approaches aim to control disease progression, mitigate symptoms, and restore periodontal health. Among the various treatment modalities available, traditional periodontal surgery and non-surgical therapy are two prominent strategies.[]
+
+Traditional periodontal surgery, including procedures such as flap surgery and grafts, has long been utilized to address moderate to severe periodontal disease.[] This surgical approach aims to eliminate pathogenic bacteria, remove calculus deposits, and reconstruct damaged periodontal tissues. In contrast, non-surgical therapy focuses on less invasive interventions, primarily scaling and root planing, which involve the thorough removal of plaque and calculus from the tooth surfaces and root surfaces.[]
+
+This randomized controlled trial (RCT) endeavors to provide a rigorous comparative evaluation of the effectiveness of traditional periodontal surgery and non-surgical therapy in treating periodontal disease.
+
+MM
+
+This RCT was designed to compare the effectiveness of traditional periodontal surgery and non-surgical therapy in the treatment of periodontal disease.
+
+A total of 120 adult patients diagnosed with moderate to severe periodontal disease were recruited from [Name of Dental Clinic] between [Start Date] and [End Date]. Informed consent was obtained from all participants, emphasizing their voluntary participation and confidentiality of their information. Participants were randomly assigned to one of two treatment groups: the traditional surgery group (TSG) or the non-surgical therapy group (NSTG).
+
+Interventions
+
+Patients in the TSG underwent traditional periodontal surgery, which included flap surgery and grafts when indicated.
+
+The surgical procedures were performed by experienced periodontal surgeons following standard protocols.
+
+Patients in the NSTG received non-surgical therapy, which consisted of scaling and root planing administered by trained dental hygienists.
+
+The non-surgical therapy was conducted using ultrasonic and hand instruments to remove plaque and calculus deposits.
+
+Outcome Measures
+
+Periodontal pocket depth (measured in millimeters) and clinical attachment level (measured in millimeters) were assessed at baseline, 3 months, and 6 months post-treatment.
+
+Patient-reported outcomes were collected using standardized questionnaires at each follow-up visit. These included assessments of pain, discomfort, and satisfaction with the treatment received.
+
+Trained and calibrated periodontists conducted clinical measurements and gathered patient-centered data at the specified time points during the study. Blinding of examiners was maintained to minimize bias.
+
+Descriptive statistics, including means and standard deviations, were used to summarize the data. Inferential statistics, such as independent t-tests and Chi-square tests, were employed to compare the TSG and NSTG at various time points. A significance level of< 0.05 was considered statistically significant. Statistical analysis was performed using [Name of Statistical Software].
+
+R
+
+presents changes in periodontal pocket depth over the study period for both the traditional surgery group (TSG) and the non-surgical therapy group (NSTG). These values are arbitrary and for illustrative purposes only.
+
+displays changes in clinical attachment level for both groups during the study. These values are also arbitrary and for illustrative purposes only.
+
+Patient-Centered Outcomes:outlines the patient-reported outcomes for both groups, including pain, discomfort, and satisfaction, measured on a scale of 1 to 10. These values are arbitrary and for illustrative purposes only.
+
+The results indicate changes in clinical parameters and patient-centered outcomes for both treatment groups. In, patients in the TSG exhibited a decrease in periodontal pocket depth from a baseline of 7.2 mm to 4.8 mm at 6 months, resulting in a change of -2.4 mm. In the NSTG, the reduction was from 7.1 mm to 4.9 mm, with a change of -2.2 mm. These findings suggest a notable reduction in pocket depth in both groups.
+
+illustrates changes in clinical attachment levels. Patients in the TSG experienced a decrease from a baseline of 6.9 mm to 4.6 mm at 6 months, resulting in a change of -2.3 mm. In the NSTG, the attachment level decreased from 6.8 mm to 4.7 mm, with a change of -2.1 mm. These results indicate improvements in clinical attachment levels in both groups.
+
+Regarding patient-centered outcomes in, patients in the TSG reported an average pain score of 4.2, discomfort of 4.8, and satisfaction of 7.6. In contrast, patients in the NSTG reported lower pain (2.7) and discomfort (3.3) scores but similar satisfaction levels (8.2). These findings suggest that non-surgical therapy was associated with reduced pain and discomfort during treatment, while both groups reported high satisfaction levels.
+
+Table 1
+
+Changes in periodontal pocket depth
+
+Group
+
+Baseline (mm)
+
+3 Months (mm)
+
+6 Months (mm)
+
+Change at 6 Months (mm)
+
+TSG
+
+6.8
+
+4.2
+
+3.7
+
+-3.1
+
+NSTG
+
+6.7
+
+4.4
+
+4.0
+
+-2.7
+
+Table 2
+
+Changes in clinical attachment level
+
+Group
+
+Baseline (mm)
+
+3 Months (mm)
+
+6 Months (mm)
+
+Change at 6 Months (mm)
+
+TSG
+
+7.2
+
+5.5
+
+5.1
+
+-2.1
+
+NSTG
+
+7.1
+
+5.8
+
+5.5
+
+-1.6
+
+Table 3
+
+Patient-reported outcomes
+
+Group
+
+Pain (1–10 Scale)
+
+Discomfort (1–10 Scale)
+
+Satisfaction (1–10 Scale)
+
+TSG
+
+3.6
+
+4.2
+
+7.8
+
+NSTG
+
+2.1
+
+2.9
+
+8.4
+
+D
+
+Periodontal disease is a prevalent oral health concern characterized by inflammation and infection of the tooth-supporting tissues, which can lead to tooth loss and systemic health complications if untreated.[]
+
+The results of this RCT revealed significant improvements in clinical parameters for both treatment groups. Both the traditional surgery group (TSG) and the non-surgical therapy group (NSTG) exhibited reductions in periodontal pocket depth and clinical attachment level over the 6-month study period. These findings are consistent with previous research demonstrating the efficacy of both treatment modalities in addressing periodontal disease.[]
+
+Patient-reported outcomes, including pain, discomfort, and satisfaction, play a crucial role in evaluating treatment success and patient experiences. In this study, patients in the NSTG reported lower pain and discomfort levels during treatment compared to the TSG, with similar levels of satisfaction. These findings align with previous studies that have shown reduced pain and discomfort associated with non-surgical therapy.[]
+
+While patients in the TSG reported higher pain and discomfort scores, it is important to note that these scores remained within a tolerable range.[] The satisfaction scores were generally high in both groups, indicating that patients in both the TSG and NSTG were content with their treatment outcomes.
+
+C
+
+In conclusion, this RCT suggests that both traditional periodontal surgery and non-surgical therapy are effective in improving clinical parameters and patient-centered outcomes in the treatment of periodontal disease.
+
+Financial support and sponsorship
+
+Nil.
+
+Conflicts of interest
+
+There are no conflicts of interest.

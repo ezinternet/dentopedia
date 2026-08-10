@@ -6,7 +6,7 @@ date: 2014-01-01
 doi: 10.2174/1874210601408010066
 journal: The Open Dentistry Journal 2014;8(Suppl 1-M4):66-76
 source: tomlin-2014-ridge-preservation-implant-therapy-review.md
-confidence: narrative-review
+evidence_level: narrative-review
 category: [bone-regeneration/ridge-preservation]
 pdf_path: /Users/oracleneo/llm-wiki/papers/tomlin-2014-ridge-preservation-implant-therapy-review.pdf
 pdf_filename: tomlin-2014-ridge-preservation-implant-therapy-review.pdf

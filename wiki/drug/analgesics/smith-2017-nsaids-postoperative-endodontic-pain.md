@@ -6,7 +6,7 @@ date: 2017-01-01
 doi: 10.1016/j.joen.2016.09.010
 source: smith-2017-nsaids-postoperative-endodontic-pain.md
 category: [drug/analgesics]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/smith-2017-nsaids-postoperative-endodontic-pain.pdf
 pdf_filename: smith-2017-nsaids-postoperative-endodontic-pain.pdf
 source_collection: external
@@ -51,6 +51,6 @@ PICO: preoperative-pain patients undergoing initial orthograde endodontic treatm
 15 studies included; all moderate-to-high risk of bias. Adverse events mild and transient.
 
 ## Related Papers
-- [[drug/pak-2011-root-canal-pain-prevalence-severity]] — establishes baseline pain prevalence/severity before and after RCT
-- [[drug/di-spirito-2022-endodontic-pain-management-overview]] — integrates pharmacological + technical recommendations
-- [[drug/samani-2025-nsaids-endodontic-postoperative-network]] — updated network MA covering 8–72 h timepoints
+- [[endodontics/pak-2011-root-canal-pain-prevalence-severity]] — establishes baseline pain prevalence/severity before and after RCT
+- [[drug/analgesics/di-spirito-2022-endodontic-pain-management-overview]] — integrates pharmacological + technical recommendations
+- [[drug/analgesics/samani-2025-nsaids-endodontic-postoperative-network]] — updated network MA covering 8–72 h timepoints

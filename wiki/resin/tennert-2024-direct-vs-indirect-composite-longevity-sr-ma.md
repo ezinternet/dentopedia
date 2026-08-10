@@ -6,11 +6,14 @@ date: 2024-08-09
 doi: 10.1016/j.dental.2024.07.033
 source: tennert-2024-direct-vs-indirect-composite-longevity-sr-ma.md
 category: ['resin']
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/tennert-2024-direct-vs-indirect-composite-longevity-sr-ma.pdf
 pdf_filename: tennert-2024-direct-vs-indirect-composite-longevity-sr-ma.pdf
 source_collection: external
 tags: [composite, longevity, direct, indirect, posterior, RCT]
+relations:
+  - type: contradicts
+    target: josic-2023-direct-indirect-resin-longevity-sr-ma
 ---
 
 ## Three-line Summary

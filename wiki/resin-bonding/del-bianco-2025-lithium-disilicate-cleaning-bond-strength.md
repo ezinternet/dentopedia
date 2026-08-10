@@ -6,7 +6,7 @@ date: 2023-11-06
 doi: 10.3290/j.jad.b4874329
 source: del-bianco-2025-lithium-disilicate-cleaning-bond-strength.md
 category: [resin-bonding]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/del-bianco-2025-lithium-disilicate-cleaning-bond-strength.pdf
 pdf_filename: del-bianco-2025-lithium-disilicate-cleaning-bond-strength.pdf
 source_collection: external
@@ -68,6 +68,6 @@ HFSEP ≈ SEP ≈ HF (no significant difference, p>0.05). All inferior groups si
 
 ## Related Papers
 
-- [[resin-bonding/radhi-2023-lithium-disilicate-cleaning-resin-cement]] — direct predecessor: LiSi cleaning protocols
-- [[resin-bonding/al-akhali-2025-zirconia-cleaning-bonding-duration]] — parallel topic for zirconia decontamination
+- [[dental-materials/ceramic/radhi-2023-lithium-disilicate-cleaning-resin-cement]] — direct predecessor: LiSi cleaning protocols
+- [[dental-materials/zirconia/al-akhali-2025-zirconia-cleaning-bonding-duration]] — parallel topic for zirconia decontamination
 - [[resin-bonding/simasetha-2021-surface-treatment-lithium-disilicate-bond-strength]] — chemical bonding strategies for LiSi

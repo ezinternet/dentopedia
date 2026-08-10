@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1186/s12903-025-06215-8
 source: wang-2025-foundation-restoration-onlay-mandibular-molar-endodontic-fea.md
 category: [inlay]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/wang-2025-foundation-restoration-onlay-mandibular-molar-endodontic-fea.pdf
 pdf_filename: wang-2025-foundation-restoration-onlay-mandibular-molar-endodontic-fea.pdf
 source_collection: external
@@ -43,7 +43,7 @@ Foundation 수복이 응력 분산 및 잔존 치질 보호를 향상; 전피개
 3D FEA, 하악 제1대구치 mesial 결손 모델, 4종 온레이(전/부분피개 × foundation 유무), 수직 600N·사면 200N.
 
 ## Results
-foundation 수복이 응력분산·잔존조직 보호 향상; 전피개 > 부분피개; 과도 교합력서 onlay-over-foundation 주의; 사면하중이 접착층·잔존조직에 가장 파괴적 [근거강함(모델 내)/미검증(임상)].
+foundation 수복이 응력분산·잔존조직 보호 향상; 전피개 > 부분피개; 과도 교합력서 onlay-over-foundation 주의; 사면하중이 접착층·잔존조직에 가장 파괴적 [확인 (FEA 모델 내), 임상 적용은 미검증].
 
 ## Related Papers
 - [[inlay/griffis-2022-tooth-cusp-preservation-lithium-disilicate-onlay-fatigue]] — 온레이 피로

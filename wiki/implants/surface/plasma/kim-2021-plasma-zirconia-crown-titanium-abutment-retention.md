@@ -6,7 +6,7 @@ date: 2021-04-30
 doi: 10.3390/ma14092352
 source: kim-2021-plasma-zirconia-crown-titanium-abutment-retention.md
 category: [implants/surface/plasma]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/kim-2021-plasma-zirconia-crown-titanium-abutment-retention.pdf
 pdf_filename: kim-2021-plasma-zirconia-crown-titanium-abutment-retention.pdf
 source_collection: external

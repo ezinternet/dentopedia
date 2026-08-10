@@ -6,7 +6,7 @@ date: 2018-05-17
 doi: 10.3390/dj6020014
 source: neelakantan-2018-endodontic-microbiology-editorial.md
 category: endodontics
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/neelakantan-2018-endodontic-microbiology-editorial.pdf
 pdf_filename: neelakantan-2018-endodontic-microbiology-editorial.pdf
 source_collection: external

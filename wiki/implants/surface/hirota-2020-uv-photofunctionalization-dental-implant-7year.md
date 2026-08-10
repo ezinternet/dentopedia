@@ -6,7 +6,7 @@ date: 2020-08-24
 doi: 10.3390/jcm9092733
 source: hirota-2020-uv-photofunctionalization-dental-implant-7year.md
 category: [implants/surface]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/hirota-2020-uv-photofunctionalization-dental-implant-7year.pdf
 pdf_filename: hirota-2020-uv-photofunctionalization-dental-implant-7year.pdf
 source_collection: external

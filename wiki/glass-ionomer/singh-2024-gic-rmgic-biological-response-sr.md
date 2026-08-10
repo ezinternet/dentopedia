@@ -6,7 +6,7 @@ date: 2024-11-01
 doi: "10.5395/rde.2024.49.e41"
 source: singh-2024-gic-rmgic-biological-response-sr.md
 category: glass-ionomer
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/singh-2024-gic-rmgic-biological-response-sr.pdf
 pdf_filename: singh-2024-gic-rmgic-biological-response-sr.pdf
 source_collection: external

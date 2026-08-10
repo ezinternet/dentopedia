@@ -6,7 +6,7 @@ date: 2008-11-24
 doi: 10.1186/1472-6831-8-32
 source: turkyilmaz-2008-bone-density-implant-stability-success.md
 category: [implants/isq]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/turkyilmaz-2008-bone-density-implant-stability-success.pdf
 pdf_filename: turkyilmaz-2008-bone-density-implant-stability-success.pdf
 source_collection: external
@@ -62,5 +62,5 @@ Turkyilmaz & McGlumphy retrospectively analyzed 300 implants in 111 patients to 
 ## Related Papers
 
 - [[implants/isq/chatvaratthana-2017-cortical-bone-crestal-buccolingual-isq]] — refines the bone-density → ISQ link to cortical-bone thickness via CBCT
-- [[implants/di-stefano-2021-stability-dental-implants-cortical-bone]] — reinforces cortical bone as the dominant driver of primary stability
+- [[implants/isq/di-stefano-2021-stability-dental-implants-cortical-bone]] — reinforces cortical bone as the dominant driver of primary stability
 - [[overviews/implants-isq-stability-ladder]] — synthesis page placing this study's ~46.5 (failed) vs ~67 (successful) ISQ rungs on the stability ladder

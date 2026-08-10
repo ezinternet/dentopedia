@@ -7,7 +7,7 @@ doi: ""
 pmid: "29178704"
 source: duangthip-2017-occlusal-stress-nccl-abfraction-sr.md
 category: nccl
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/duangthip-2017-occlusal-stress-nccl-abfraction-sr.pdf
 pdf_filename: duangthip-2017-occlusal-stress-nccl-abfraction-sr.pdf
 source_collection: external

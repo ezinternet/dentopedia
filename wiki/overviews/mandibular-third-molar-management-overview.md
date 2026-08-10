@@ -5,7 +5,7 @@ year: 2026
 date: 2026-06-27
 source: overview
 category: [overviews]
-confidence: synthesis
+evidence_level: synthesis
 source_collection: synthesis
 tags: [oral-surgery, third-molar, impaction, pericoronitis, extraction-indication]
 ---
@@ -97,8 +97,13 @@ The four papers sit at mixed evidence levels: Ye 2021 is a single-center **retro
 
 ## Related Papers
 
-- [[oral-surgery/ye-2021-mandibular-third-molar-impaction-pathologies]] — Retrospective (432 M3Ms): quantifies the impaction pathology burden (pericoronitis 82.4%, M2M distal caries 18.8%, periodontal pathology 14.8%) and shows impaction morphology predicts which pathology occurs — the empirical basis for risk-stratified indication.
-- [[oral-surgery/sun-2026-third-molar-health-management-expert-consensus]] — Expert consensus: the 3-tier extraction-indication framework (definite pathologic / therapeutic / prophylactic) with shared decision-making and surveillance for low-risk asymptomatic teeth; also recommends CGF for sockets with distal bone deficiency.
-- [[oral-surgery/schmidt-2021-pericoronitis-management-antibiotic-prescribing-recommendations]] — Review + SR: pericoronitis management ladder (local irrigation/debridement first → operculectomy → extraction from 2nd episode), with antibiotics reserved for spread/systemic signs despite ~75% of dentists over-prescribing.
-- [[oral-surgery/al-aroomi-2025-cgf-third-molar-postop-sr]] — SR of 11 RCTs: CGF in the socket improves pain, analgesic use, bone fill, and distal-M2M periodontal parameters after extraction; swelling/trismus/alveolar-osteitis effects uncertain — the post-extraction morbidity-reduction input.
+
+### 신규 ingest cluster (2026-07-15)
+
+- [[oral-surgery/third-molar/firoozi-2022-nonpharmacological-interventions-third-molar-pain-sr]] — Umbrella + network MA (19 SRs): ozone best early pain (SMD −0.84), PRF best late pain (SMD −1.03), LLLT weakest early (SMD −0.32) — PRF/ozone rank highest but unclear bias, need RCTs
+
+- [[oral-surgery/third-molar/ye-2021-mandibular-third-molar-impaction-pathologies]] — Retrospective (432 M3Ms): quantifies the impaction pathology burden (pericoronitis 82.4%, M2M distal caries 18.8%, periodontal pathology 14.8%) and shows impaction morphology predicts which pathology occurs — the empirical basis for risk-stratified indication.
+- [[oral-surgery/third-molar/sun-2026-third-molar-health-management-expert-consensus]] — Expert consensus: the 3-tier extraction-indication framework (definite pathologic / therapeutic / prophylactic) with shared decision-making and surveillance for low-risk asymptomatic teeth; also recommends CGF for sockets with distal bone deficiency.
+- [[oral-surgery/third-molar/schmidt-2021-pericoronitis-management-antibiotic-prescribing-recommendations]] — Review + SR: pericoronitis management ladder (local irrigation/debridement first → operculectomy → extraction from 2nd episode), with antibiotics reserved for spread/systemic signs despite ~75% of dentists over-prescribing.
+- [[oral-surgery/third-molar/al-aroomi-2025-cgf-third-molar-postop-sr]] — SR of 11 RCTs: CGF in the socket improves pain, analgesic use, bone fill, and distal-M2M periodontal parameters after extraction; swelling/trismus/alveolar-osteitis effects uncertain — the post-extraction morbidity-reduction input.
 - [[overviews/third-molar-ian-risk-protocol]] — Companion overview covering the orthogonal axis: pre-extraction inferior alveolar nerve (IAN) injury risk assessment (OPG Rood & Shehab signs → CBCT) and surgical technique selection (coronectomy vs total extraction). Read alongside this page when the chosen action is extraction of a deep/high-risk M3M.

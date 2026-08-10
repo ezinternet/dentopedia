@@ -6,7 +6,7 @@ date: 2024-10-01
 doi: "10.1177/00220345241266519"
 source: sapkota-2024-oral-leukoplakia-recurrence-malignant.md
 category: [oral-medicine/opmd]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/sapkota-2024-oral-leukoplakia-recurrence-malignant.pdf
 pdf_filename: sapkota-2024-oral-leukoplakia-recurrence-malignant.pdf
 source_collection: external

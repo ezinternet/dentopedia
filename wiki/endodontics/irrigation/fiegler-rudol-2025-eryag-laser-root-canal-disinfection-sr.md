@@ -6,7 +6,7 @@ date: 2025-02-26
 doi: 10.3390/dj13030101
 source: fiegler-rudol-2025-eryag-laser-root-canal-disinfection-sr.md
 category: [endodontics/irrigation]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/fiegler-rudol-2025-eryag-laser-root-canal-disinfection-sr.pdf
 pdf_filename: fiegler-rudol-2025-eryag-laser-root-canal-disinfection-sr.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2024-03-01
 doi: 10.1007/s00784-024-05595-5
 source: de-oliveira-2024-otc-bleaching-color-adverse-effects.md
 category: [tooth-whitening]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: false
 pmid: "38430338"

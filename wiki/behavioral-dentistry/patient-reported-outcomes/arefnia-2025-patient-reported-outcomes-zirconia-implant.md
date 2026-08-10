@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: "10.1186/s41687-025-00839-8"
 source: arefnia-2025-patient-reported-outcomes-zirconia-implant.md
 category: [behavioral-dentistry/patient-reported-outcomes]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/arefnia-2025-patient-reported-outcomes-zirconia-implant.pdf
 pdf_filename: arefnia-2025-patient-reported-outcomes-zirconia-implant.pdf
 source_collection: external
@@ -48,6 +48,6 @@ PRISMA SR, 6 databases; 596 → 189 screened → 12 controlled trials. PROMs, su
 - High overall satisfaction; high instrument heterogeneity.
 
 ## Related Papers
-- [[implants/mohseni-2024-clinical-outcomes-zirconia-implants]] — reinforces (survival/MBL side of same intervention)
-- [[implants/pieralli-2017-clinical-outcomes-zirconia-dental-implants]] — reinforces (early zirconia implant outcomes)
+- [[implants/surface/mohseni-2024-clinical-outcomes-zirconia-implants]] — reinforces (survival/MBL side of same intervention)
+- [[implants/surface/pieralli-2017-clinical-outcomes-zirconia-dental-implants]] — reinforces (early zirconia implant outcomes)
 - [[behavioral-dentistry/patient-reported-outcomes/arunyanak-2024-patient-related-outcomes-experience-periodontics]] — reinforces (PROM methodology in implant/perio context)

@@ -6,7 +6,7 @@ date: 2024-08-01
 doi: 10.1093/ejo/cjae029
 source: hendrickx-2024-ai-cephalometric-analysis-manual-tracing.md
 category: [artificial-intelligence]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "38895901"

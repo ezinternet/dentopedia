@@ -6,7 +6,7 @@ date: 2026-02-18
 doi: 10.1016/j.jdent.2026.106582
 source: chen-2026-root-caries-toothpastes-network-meta-analysis.md
 category: [caries]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/chen-2026-root-caries-toothpastes-network-meta-analysis.pdf
 pdf_filename: chen-2026-root-caries-toothpastes-network-meta-analysis.pdf
 source_collection: external

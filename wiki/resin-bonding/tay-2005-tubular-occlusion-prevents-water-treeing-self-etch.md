@@ -6,7 +6,7 @@ date: 2005-10-01
 doi: 10.1177/154405910508401004
 source: tay-2005-tubular-occlusion-prevents-water-treeing-self-etch.md
 category: [resin-bonding]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: false
 pmid: "16183786"

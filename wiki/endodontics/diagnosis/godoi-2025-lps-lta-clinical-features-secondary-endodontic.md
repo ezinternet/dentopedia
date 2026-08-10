@@ -6,7 +6,7 @@ date: 2025-06-04
 doi: 10.1111/aej.12963
 source: godoi-2025-lps-lta-clinical-features-secondary-endodontic.md
 category: endodontics/diagnosis
-confidence: cross-sectional
+evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/godoi-2025-lps-lta-clinical-features-secondary-endodontic.pdf
 pdf_filename: godoi-2025-lps-lta-clinical-features-secondary-endodontic.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2014-06-10
 doi: 10.1016/j.apmr.2014.05.021
 source: martin-pintado-2014-spray-stretch-postneedling-soreness-rct.md
 category: [tmj]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: false
 pmid: "24928191"

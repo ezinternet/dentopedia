@@ -6,7 +6,7 @@ date: 2023-02-28
 doi: 10.1111/jerd.13027
 source: shakibaie-2023-roll-in-envelope-flap-holding-suture.md
 category: [suture-wound-closure]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/shakibaie-2023-roll-in-envelope-flap-holding-suture.pdf
 pdf_filename: shakibaie-2023-roll-in-envelope-flap-holding-suture.pdf
 source_collection: external
@@ -57,6 +57,6 @@ This prospective case series addresses peri-implant soft-tissue management rathe
 
 ## Related Papers
 
-- [[suture-wound-closure/lee-2018-flap-management-alveolar-ridge-preservation]] — flap-management context; RIE extends the closure/soft-tissue theme toward phenotype (thickness) outcomes.
+- [[bone-regeneration/ridge-preservation/lee-2018-flap-management-alveolar-ridge-preservation]] — flap-management context; RIE extends the closure/soft-tissue theme toward phenotype (thickness) outcomes.
 - [[suture-wound-closure/attia-2023-coronally-advanced-lingual-flap-titanium-mesh]] — sibling flap-design study, but for major GBR/Ti-mesh closure rather than soft-tissue thickening (contrast in goal).
 - [[suture-wound-closure/plonka-2017-flap-designs-flap-advancement-implant-therapy]] — systematic-review flap-design taxonomy.

@@ -6,7 +6,7 @@ date: 2024-07-12
 doi: 10.5051/jpis.2401300065
 source: yadav-2024-nasopalatine-canal-morphology-cbct.md
 category: radiology
-confidence: cross-sectional
+evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/yadav-2024-nasopalatine-canal-morphology-cbct.pdf
 pdf_filename: yadav-2024-nasopalatine-canal-morphology-cbct.pdf
 source_collection: external

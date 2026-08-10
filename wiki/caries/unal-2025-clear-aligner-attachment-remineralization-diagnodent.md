@@ -6,7 +6,7 @@ date: 2025-12-11
 doi: 10.1186/s12903-025-07497-8
 source: unal-2025-clear-aligner-attachment-remineralization-diagnodent.md
 category: [caries]
-confidence: prospective
+evidence_level: prospective
 source_collection: pubmed-text
 full_text: true
 pmid: "41382095"

@@ -1,0 +1,170 @@
+Title: To do or not to do extraction in temporomandibular joint pain: a systematic review background and rationale
+Authors: Aggarwal Pratish, Bhagat Bhushan, Ambildhok Kadambari, Bhate Kalyani, Desai Ritvi, Bhagat Shubhangi B
+Journal: Journal of the Korean Association of Oral and Maxillofacial Surgeons (JKAOMS)
+PMID: 41755378
+PMCID: PMC12959259
+DOI: 10.5125/jkaoms.2026.52.1.3
+Source: PubMed Central (PMC) full text, retrieved via PubMed MCP get_full_text_article
+
+Abstract:
+The effect of dental extraction on temporomandibular joint (TMJ) pain remains controversial in oral surgery practice and has important implications for treatment planning in patients with temporomandibular disorders (TMDs). This systematic review evaluated whether third molar or other dental extractions are associated with changes in TMJ pain or TMD symptoms compared with non-extraction or pre-extraction controls. A protocol-registered review was conducted in accordance with PRISMA 2020 guidelines. PubMed/MEDLINE, Cochrane Library, Scopus, Web of Science, ScienceDirect, Google Scholar, ClinicalTrials.gov, and Clinical Trials Registry-India were searched up to August 2025. Human studies enrolling patients with clinically diagnosed TMD and comparing extraction with non-extraction approaches were included. Primary outcomes were TMJ pain, function, and patient-reported quality of life. Risk of bias was assessed using RoB 2.0 and ROBINS-I/NOS, and random-effects meta-analysis with GRADE certainty assessment was performed when appropriate. Eight studies met inclusion criteria, of which six were included in quantitative synthesis. Dental extraction was associated with a significant reduction in TMJ pain or symptoms (pooled risk ratio/odds ratio=0.49; 95% confidence interval 0.31-0.66; p<0.00001; I2=34%) with low-to-moderate certainty of evidence. Dental extraction may reduce TMJ pain in selected patients; however, individualized clinical judgment and further high-quality randomized controlled trials are required.
+
+I. Introduction
+
+Temporomandibular disorders (TMDs) comprise a diverse group of musculoskeletal and neuromuscular conditions that affect the temporomandibular joint (TMJ), masticatory muscles, and related supporting structures. They are among the most prevalent causes of non-dental orofacial pain, affecting 5%-12% of the general population, with a higher incidence in women between 20 and 40 years of age. Common clinical manifestations include TMJ pain, joint sounds, restricted mandibular movements, and functional impairment, which can significantly affect quality of life.
+
+The aetiology of TMD is multifactorial, encompassing structural, functional, and psychosocial components. Occlusal discrepancies, parafunctional habits, psychosocial stress, and genetic predispositions have all been implicated. Within orthodontics, one of the most debated factors is the role of premolar extraction during comprehensive treatment planning. Historically, extraction therapy was proposed as a means to alleviate crowding and correct malocclusions; however, concerns have been raised regarding its potential association with TMD onset or aggravation.
+
+Evidence on this association remains inconclusive. Some studies suggest that extraction may predispose patients to altered occlusal relationships, mandibular retrusion, or changes in condylar position, thereby contributing to TMJ dysfunction. Conversely, other investigations report no significant link between extraction-based orthodontic treatment and the development or progression of TMD. This divergence of findings has fuelled ongoing controversy and clinical uncertainty. Although the orthodontic extraction debate often focuses on premolar removal, the currently available clinical evidence linking extraction to TMJ pain largely arises from third molar extraction studies. Therefore, conclusions must primarily be interpreted within the context of third molar removal rather than orthodontic premolar extraction.
+
+Considering the high prevalence of TMD and its significant effect on patient quality of life, it is clinically important to determine whether extraction therapy has any impact on TMJ health. While orthodontic premolar extraction has historically been debated in relation to TMDs, much of the available empirical evidence instead arises from studies evaluating third molar extraction. These procedures differ substantially in indication, biomechanics, surgical trauma, and postoperative course. Recognizing this distinction is essential to ensure that conclusions remain aligned with the underlying evidence base.
+
+This systematic review aims to critically evaluate the relationship between extraction and non-extraction orthodontic approaches and the development or worsening of TMJ pain, with the goal of guiding evidence-based orthodontic and prosthodontic decision-making.
+
+II. Methodology
+
+1. Protocol and registration
+
+This systematic review was conducted in accordance with the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) 2020 guidelines. The review protocol was registered prospectively in the International Prospective Register of Systematic Reviews (PROSPERO, CRD420250655883).
+
+2. Eligibility criteria
+
+Third molar extraction studies were included because they represent the largest available body of evidence examining extraction-related TMJ outcomes. Studies limited to surgical management of TMJ disorders were excluded to isolate the effect of dental extraction on TMJ pain. Case reports and case series were excluded due to their inability to support comparative inference.
+
+3. Inclusion criteria
+
+Studies evaluating third molar extraction or other extractions where TMJ pain/TMD outcomes were assessed (short-term morbidity or long-term diagnosis). Comparator can be no extraction, pre-extraction baseline, or non-extraction controls.
+
+4. Exclusion criteria
+
+Studies were excluded if they primarily evaluated surgical management of TMDs such as arthrocentesis, arthroscopy, open joint procedures, or TMJ replacement because these interventions do not isolate the effect of dental extraction on TMJ pain. In addition, case reports and case series were excluded due to the absence of a comparator group and their limited ability to support causal or comparative inference. Finally, studies that did not report TMJ/TMD-related outcomes (e.g., TMJ pain, joint sounds, mandibular function measures, validated RDC/TMD or DC/TMD diagnosis, or patient-reported symptom outcomes) were excluded.
+
+5. Information sources and search strategy
+
+A comprehensive electronic search was conducted across PubMed/MEDLINE, Cochrane Library, Scopus (Elsevier), Web of Science (Clarivate), and ScienceDirect (Elsevier). Additional searches included Google Scholar (for gray literature), ClinicalTrials.gov, and the Clinical Trials Registry-India (CTRI). Searches covered literature published up to August 2025, with no language restrictions.
+
+The search strategy combined controlled vocabulary (MeSH) and free-text terms such as: "temporomandibular joint pain," "TMD," "extraction," "tooth extraction," "premolar extraction," "orthodontics," "non-extraction," "occlusal therapy," "facial pain." Boolean operators ("AND," "OR"), truncation, and database-specific filters were applied.
+
+6. Study selection
+
+All retrieved records were exported into Zotero and screened for duplicates. Two independent reviewers performed a two-stage screening: (1) title and abstract review, and (2) full-text review. Discrepancies were resolved by consensus or arbitration from a third reviewer.
+
+7. Data extraction
+
+Data were extracted independently by two reviewers using a pre-piloted extraction form. Extracted information included bibliographic details, study design, sample characteristics, intervention/comparator details, outcomes (pain scores, functional measures, patient-reported outcomes, occlusal/morphological changes, treatment stability, adverse effects), follow-up duration, and key findings (effect sizes, CIs, p-values).
+
+8. Risk of bias (RoB) and quality assessment
+
+RoB 2.0 (Cochrane) was applied for RCTs, ROBINS-I (Cochrane) for non-randomized studies, and the Newcastle-Ottawa Scale (NOS) for observational studies. Overall certainty of evidence was evaluated using GRADE.
+
+9. Data synthesis
+
+Qualitative narrative synthesis was provided for all included studies. Quantitative meta-analysis was performed with RevMan Web (Cochrane) where sufficient homogeneity existed. For continuous outcomes, mean differences (MDs) or standardized mean differences (SMDs) with 95% CIs were calculated; for dichotomous outcomes, risk ratios (RRs) with 95% CI. A random-effects model was applied. Outcomes were coded so that effect estimates <1 favored extraction only when the outcome represented persistence/presence of TMJ pain/TMD symptoms; where studies reported symptom improvement (e.g., responders), effect direction was inverted (1/RR or 1/OR) to maintain a common interpretation.
+
+10. Assessment of heterogeneity and publication bias
+
+Heterogeneity assessed using chi-square test (p<0.10 indicating significance) and quantified with I2 statistic. Substantial heterogeneity (I2>50%) explored via subgroup analyses (age group, type of extraction, type of non-extraction intervention, follow-up duration). Sensitivity analyses excluding high-RoB studies. Publication bias evaluated with funnel plots and Egger's test if >=10 studies included.
+
+III. Results
+
+1. Study selection
+
+Eight studies met eligibility criteria. Designs: two RCTs, one prospective cohort study, two retrospective/matched cohort studies, two cross-sectional studies, and one systematic review. Sample sizes ranged from 42 participants to over 34,000 individuals. Follow-up durations varied from baseline-only cross-sectional assessments to a maximum of six years in longitudinal cohorts.
+
+2. Population characteristics
+
+Most studies focused on young to middle-aged adults, with female predominance in several cohorts. Populations included university students, patients referred for oral surgery, orthodontic or TMD patient groups, and large insurance-based cohorts.
+
+3. Interventions and comparators
+
+Of the eight included studies, six primarily evaluated third molar extraction, one assessed therapeutic extraction of supraerupted maxillary third molars in TMD patients, and no randomized trials specifically evaluated orthodontic premolar extraction, with comparators being either non-extracted individuals or no surgical intervention. One RCT specifically evaluated the role of extraction of supraerupted/distoverted maxillary molars in TMD patients as part of multiphase therapy. Another RCT compared mandibular support methods during extraction (device vs. manual), indirectly addressing iatrogenic TMJ loading.
+
+4. Pain outcomes
+
+Gururaj et al. reported a 96% reduction in pain symptoms in patients undergoing extraction of supraerupted/distoverted molars compared with non-extraction therapy (p<0.05). Conversely, Munawar et al. observed short-term increases in pain after mandibular third molar surgery, with myofascial pain present in 69% of cases at 1 week; some cases persisted up to 6 months (p<0.005). Huang et al. found a non-significant increase in TMD incidence post-extraction (RR 1.4, 95% CI 0.9-2.2), while Huang and Rue demonstrated a significant association, with an adjusted RR of 1.6 (95% CI 1.3-2.0), suggesting that approximately 23% of TMD cases could be attributable to extraction. Barbosa et al. further supported a link, with ORs ranging from 1.30 to 2.15 across diagnostic subgroups (p=0.041-0.006).
+
+5. Functional outcomes
+
+Functional improvements were most evident in the RCT by Gururaj et al., where extraction led to significant reductions in joint clicking, headache, and neck pain. Munawar et al. found early postoperative functional limitations, with trismus observed in 92% of surgical cases at 1 week, though most symptoms diminished over time. Uppgaard et al. reported no significant difference in functional outcomes between extraction performed with device-assisted mandibular support vs. manual support, though fully impacted molars predicted higher postoperative pain (OR 3.44; p=0.004).
+
+6. Patient-reported outcomes
+
+Gururaj et al. noted improved patient satisfaction in the extraction group. Barbosa et al. reported that students with a history of third molar removal had higher odds of reporting TMD symptoms.
+
+7. Morphological and occlusal outcomes
+
+Cohort studies by Huang and colleagues did not demonstrate major long-term occlusal or morphological changes attributable to extraction, although short-term shifts in condylar loading or position could not be excluded.
+
+8. Short-term postoperative TMJ morbidity and longer-term TMJ outcomes
+
+Short-term TMJ morbidity was primarily observed following prophylactic or routine third molar surgery. Longer-term outcomes assessed incident or persistent TMJ disorders beyond the immediate postoperative period showed mixed findings, with some cohort studies reporting a modest increase in TMJ disorder diagnoses and others showing no statistically significant association.
+
+9. Prophylactic vs. therapeutic extraction contexts
+
+Prophylactic third molar removal was more frequently associated with transient postoperative TMJ symptoms, whereas therapeutic extraction in patients with established TMD (e.g., removal of supraerupted or interfering molars) was associated with improvement in pain and related symptoms.
+
+10. Third molar vs. orthodontic extraction
+
+The evidence base was dominated by third molar extraction studies, with limited direct evidence addressing orthodontic premolar extraction. Consequently, TMJ outcomes reported in this review largely reflect third-molar-related interventions and cannot be directly extrapolated to orthodontic extraction contexts.
+
+11. Adverse effects
+
+Munawar et al. documented persistent TMD symptoms in a minority of cases up to 6 months post-extraction; found no difference in pain outcomes between mandibular support techniques, but highlighted impaction severity as a predictor of adverse events.
+
+12. Evidence synthesis
+
+The systematic review by Damasceno et al., which included seven clinical studies, estimated ORs between 1.81 and 2.15 and a RR of approximately 2.1 for TMD after extraction. Six of the seven studies suggested an increased risk, though certainty of evidence was rated low to moderate due to heterogeneity, varied diagnostic criteria, and inconsistent follow-up durations.
+
+13. RoB in cross-sectional studies
+
+DeAngelis et al. was rated at moderate risk (small sample size, absence of non-response reporting, lack of adjustment for confounding). Barbosa et al. benefited from a large sample size (n=1,381) and validated RDC/TMD diagnostic criteria, adjusted for key confounders (sex and age), resulting in a low-to-moderate risk rating.
+
+14. RoB in cohort studies
+
+Huang et al. and Huang and Rue both achieved low-to-moderate risk ratings (large population-based cohorts, representative samples, appropriate matching, adjustment for confounding; but reliance on insurance registry data introduced potential misclassification). Munawar et al. was rated moderate-to-high risk (small sample size, limited confounder control, shorter follow-up). Uppgaard et al., a multisite RCT analyzed in a cohort-like framework, was judged low RoB (strong sample selection, balanced confounders through randomization, validated outcome measurement, excellent retention >95%).
+
+15. Quantitative synthesis
+
+The meta-analysis of six eligible studies yielded a pooled RR/OR of 0.49 (95% CI: 0.31-0.66), favouring predominantly third molar extraction in the management of TMJ pain. Patients who underwent predominantly third molar extraction were about 51% less likely to experience TMJ pain or related symptoms compared with those managed with non-extraction approaches. Result statistically significant (Z=5.49, p<0.00001). Statistical heterogeneity was moderate (I2=34%), chi2=10.20 (p=0.07). REML-derived tau2 was low (0.01). Despite statistical significance, overall certainty of evidence for most outcomes was low or moderate primarily due to observational study designs and heterogeneity.
+
+Largest contributors to weight were Huang and Rue (29.5%), Gururaj et al. (27.6%), and Barbosa et al. (25.4%). Smaller studies such as Munawar et al. carried little weight (<5%), though Munawar et al. suggested a higher short-term risk (RR=5.00) with a wide confidence interval reducing its influence on the pooled result.
+
+16. Clinical interpretation
+
+The pooled analysis suggests that extraction, predominantly third molar extraction, in therapeutic contexts may be associated with reduced TMJ pain, while short-term postoperative morbidity remains common. Moderate heterogeneity highlights that patient selection, type of extraction (therapeutic vs. third molar prophylactic), and outcome definitions may influence findings. Evidence indicates a protective effect of predominantly third molar extraction on TMJ pain outcomes, though results should be interpreted with caution given study heterogeneity, varying diagnostic criteria, and the predominance of observational data. High-quality, extraction-specific RCTs are needed to confirm these findings.
+
+IV. Discussion
+
+This systematic review and meta-analysis evaluated the association between extraction and TMJ pain. The pooled analysis of six eligible studies demonstrated that extraction was associated with a significantly lower risk of TMJ pain (RR/OR=0.49, 95% CI 0.31-0.66; p<0.00001). Despite moderate heterogeneity (I2=34%), the findings suggest that extraction, particularly when performed in therapeutic contexts, may have a protective role against TMJ-related symptoms.
+
+1. Comparison with previous literature and SRMAs
+
+A meta-analysis by Kim et al. found no significant association between orthodontic treatment involving extraction and the development of TMD. Luther concluded that orthodontic extractions do not reliably predict TMD onset, emphasizing multifactorial etiology of TMDs. These findings differ from this review's pooled analysis, which demonstrated a significant protective effect of extraction.
+
+A systematic review by Jerjes et al. reported that third molar removal was frequently associated with short-term postoperative TMJ pain and dysfunction, but long-term adverse effects were not consistently observed. Damasceno et al. synthesized seven clinical studies and concluded that third molar extraction may increase the risk of TMD, with pooled ORs ranging from 1.81 to 2.15. This review's results diverge from Damasceno et al., as therapeutic extractions (e.g., supraerupted molars in Gururaj et al.) appear to improve symptoms and reduce long-term TMD risk.
+
+Differences may be explained by: (1) study selection - Damasceno et al. included predominantly observational designs with heterogeneous diagnostic methods, whereas this review incorporated recent RCT evidence; (2) population focus - earlier SRMAs emphasized orthodontic extractions or prophylactic third molar removal, while this synthesis captured both prophylactic and therapeutic contexts; (3) follow-up duration - short-term morbidity was common across reviews, but this analysis highlighted long-term symptom relief in select subgroups.
+
+While earlier SRMAs largely argued for a neutral or harmful role of extraction in TMD outcomes, these findings suggest a more nuanced picture: extraction may exacerbate symptoms in the immediate postoperative period, yet reduce long-term TMJ pain when performed in appropriate therapeutic contexts.
+
+2. Clinical implications
+
+Extraction should not be universally discouraged in patients with TMJ symptoms. Carefully indicated extractions (such as removal of supraerupted or interfering molars) may offer significant symptomatic relief. Patients must be counselled on the likelihood of short-term postoperative morbidity, particularly in cases of impacted or surgically difficult extractions.
+
+Pericoronitis was variably reported or implied in several third molar studies, particularly those involving partially erupted mandibular third molars. Recurrent pericoronitis may contribute to altered mandibular movement patterns, protective muscle splinting, and increased masticatory muscle activity, which can exacerbate TMJ symptoms. In such cases, extraction may serve a therapeutic role by eliminating a chronic inflammatory source, whereas prophylactic removal in asymptomatic teeth may be associated primarily with short-term postoperative morbidity.
+
+Third molar extraction differs substantially from orthodontic premolar extraction in terms of surgical invasiveness, indication, neuromuscular loading, and postoperative recovery. Consequently, the present conclusions should not be extrapolated indiscriminately to all forms of dental extraction, particularly elective orthodontic premolar removal.
+
+The high prevalence of early postoperative trismus (92%) and myofascial pain (69%) reported by Munawar et al. highlights that short-term TMJ-related morbidity following third molar surgery is common rather than exceptional, likely reflecting prolonged mouth opening, surgical difficulty, and transient muscular hyperactivity. Most symptoms decreased over subsequent follow-up, supporting the interpretation that early postoperative TMJ morbidity is usually transient, though a small subset of patients may experience persistent symptoms.
+
+3. Strengths and limitations
+
+This review adhered to a registered PROSPERO protocol and PRISMA 2020 guidelines, incorporating both narrative and quantitative synthesis. Inclusion of RCTs alongside large cohort datasets enhanced robustness. Limitations include reliance on heterogeneous diagnostic criteria (RDC/TMD, DC/TMD), predominance of observational data, and the fact that most included studies examined third molar extraction rather than orthodontic premolar removal. Evidence for orthodontic premolar extraction was minimal/absent. Most outcomes were graded as low or very low certainty using GRADE; conclusions should be interpreted as suggestive rather than confirmatory.
+
+4. Future directions
+
+Future SRMAs should stratify analyses by extraction type (therapeutic vs. prophylactic, premolar vs. third molar) and by follow-up duration (short-term morbidity vs. long-term risk). Well-designed RCTs using standardized DC/TMD diagnostic criteria are needed to confirm the causal relationship. Advanced imaging (e.g., CBCT) and patient-centered outcomes (OHIP scores, quality of life) should be integrated.
+
+V. Conclusion
+
+Compared with earlier systematic reviews and meta-analyses that largely reported extraction to be neutral or potentially harmful to TMJ outcomes, this meta-analysis suggests that extraction (predominantly third molar extraction) may be associated with reduced TMJ pain in carefully selected therapeutic contexts. Nevertheless, this potential benefit is accompanied by a predictable burden of short-term postoperative morbidity. Extraction does not appear to uniformly worsen TMJ outcomes; however, these findings are largely derived from third molar studies and should not be generalized to other extraction types, particularly orthodontic premolar extractions, for which high-quality evidence remains limited. Most evidence concerns third molar extraction, with mixed long-term associations with TMD incidence but consistent evidence of short-term postoperative TMJ/masticatory morbidity. In therapeutic scenarios (e.g., supraerupted/distoverted molars in TMD patients), extraction may improve symptoms. Evidence for orthodontic premolar extraction and TMJ pain is insufficient to draw conclusions.

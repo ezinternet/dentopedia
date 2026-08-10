@@ -6,7 +6,7 @@ date: 2024-11-04
 doi: 10.4041/kjod24.082
 source: bruni-2024-clear-aligner-maxillary-expansion-mixed-dentition.md
 category: [orthodontics/clear-aligner]
-confidence: prospective
+evidence_level: prospective
 source_collection: pubmed-text
 full_text: true
 pmid: "40104852"

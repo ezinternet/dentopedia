@@ -10,7 +10,7 @@ source_collection: external
 ---
 
 ## Why Ingested
-치주염의 비외과적 치료(SRP)에 대한 부가요법 근거를 보강하기 위해 ingest. SRP 단독 가이드라인을 다룬 [[periodontics/smiley-2015-nonsurgical-periodontitis-srp-guideline]]와 대비되며, 오존 부가효과가 작고 이질성이 높아 부가요법의 한계를 보여주는 근거로 활용.
+치주염의 비외과적 치료(SRP)에 대한 부가요법 근거를 보강하기 위해 ingest. SRP 단독 가이드라인을 다룬 [[periodontics/non-surgical-instrumentation/smiley-2015-nonsurgical-periodontitis-srp-guideline]]와 대비되며, 오존 부가효과가 작고 이질성이 높아 부가요법의 한계를 보여주는 근거로 활용.
 
 ## Three-line Summary
 

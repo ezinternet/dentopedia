@@ -49,7 +49,7 @@ source_collection: external
 새 분류의 임상 적용 장기 검증 필요.
 
 ## 6. Related Work
-- [[periodontics/smiley-2015-nonsurgical-periodontitis-srp-guideline]] — related
+- [[periodontics/non-surgical-instrumentation/smiley-2015-nonsurgical-periodontitis-srp-guideline]] — related
 - [[periodontics/manresa-2018-supportive-periodontal-therapy-cochrane]] — related
 
 ## 7. Glossary

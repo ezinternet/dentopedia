@@ -6,7 +6,7 @@ date: 2020-01-01
 doi: 10.1590/1678-7757-2019-0248
 source: baeza-2020-effect-periodontal-treatment-patients-periodontitis.md
 category: [periodontics]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/baeza-2020-effect-periodontal-treatment-patients-periodontitis.pdf
 pdf_filename: baeza-2020-effect-periodontal-treatment-patients-periodontitis.pdf
 source_collection: external
@@ -59,5 +59,5 @@ This PRISMA-compliant systematic review and meta-analysis evaluated whether conv
 
 ## Related Papers
 
-- [[periodontics/meng-2024-nspt-cardiovascular-risk-markers-sr-ma]] — reinforces; both SR+MA show non-surgical periodontal therapy improves systemic inflammatory/cardiovascular risk markers (this paper adds the diabetes/HbA1c dimension via CRP).
-- [[periodontics/smiley-2015-nonsurgical-periodontitis-srp-guideline]] — extends; establishes SRP efficacy on periodontal endpoints, which this review links to systemic (glycemic and inflammatory) outcomes.
+- [[periodontics/non-surgical-instrumentation/meng-2024-nspt-cardiovascular-risk-markers-sr-ma]] — reinforces; both SR+MA show non-surgical periodontal therapy improves systemic inflammatory/cardiovascular risk markers (this paper adds the diabetes/HbA1c dimension via CRP).
+- [[periodontics/non-surgical-instrumentation/smiley-2015-nonsurgical-periodontitis-srp-guideline]] — extends; establishes SRP efficacy on periodontal endpoints, which this review links to systemic (glycemic and inflammatory) outcomes.

@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1016/j.prosdent.2024.12.001
 source: hjerppe-2025-minimally-invasive-glassceramic-fullmouth-12year.md
 category: [prosthetic-materials]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/hjerppe-2025-minimally-invasive-glassceramic-fullmouth-12year.pdf
 pdf_filename: hjerppe-2025-minimally-invasive-glassceramic-fullmouth-12year.pdf
 source_collection: external
@@ -55,4 +55,4 @@ Prospective cohort. n=20 patients requiring full-mouth rehabilitation. Minimally
 ## Related Papers
 - [[inlay/abdulrahman-2021-lithium-disilicate-clinical-success-retrospective]] — LD survival by restoration type (87,203 restorations)
 - [[inlay/malament-2021-lithium-disilicate-partial-coverage-109year]] — 10.9yr LD partial coverage survival
-- [[dental-materials/warreth-2020-all-ceramic-restorations-narrative-review]] — narrative review of all-ceramic restoration types
+- [[dental-materials/ceramic/warreth-2020-all-ceramic-restorations-narrative-review]] — narrative review of all-ceramic restoration types

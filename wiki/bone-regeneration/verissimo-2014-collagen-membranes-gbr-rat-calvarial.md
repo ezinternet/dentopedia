@@ -6,7 +6,7 @@ date: 2015-01-01
 doi: 10.1177/1535370214549518
 source: verissimo-2014-collagen-membranes-gbr-rat-calvarial.md
 category: [bone-regeneration]
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/verissimo-2014-collagen-membranes-gbr-rat-calvarial.pdf
 pdf_filename: verissimo-2014-collagen-membranes-gbr-rat-calvarial.pdf
 source_collection: external

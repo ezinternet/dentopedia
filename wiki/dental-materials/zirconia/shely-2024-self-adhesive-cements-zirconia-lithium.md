@@ -6,7 +6,7 @@ date: 2024-06-05
 doi: 10.3390/jcm13113330
 source: shely-2024-self-adhesive-cements-zirconia-lithium.md
 category: [dental-materials/zirconia]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/shely-2024-self-adhesive-cements-zirconia-lithium.pdf
 pdf_filename: shely-2024-self-adhesive-cements-zirconia-lithium.pdf
 source_collection: external

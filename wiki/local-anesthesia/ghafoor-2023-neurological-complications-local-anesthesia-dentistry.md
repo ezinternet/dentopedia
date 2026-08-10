@@ -6,7 +6,7 @@ date: 2023-12-19
 doi: 10.7759/cureus.50790
 source: ghafoor-2023-neurological-complications-local-anesthesia-dentistry.md
 category: [local-anesthesia]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: true
 pmid: "38239523"
@@ -82,7 +82,7 @@ The mandibular nerve block (MNB, IANB) is described as the most-used and clinica
 - **Hypersensitivity/allergy**: type I (IgE) and type IV (T-cell) reactions; overall adverse-outcome prevalence 0.1-1%, with true allergy representing <1% of these.
 - **Toxicity/overdose**: biphasic CNS reaction (early: dizziness, confusion, anxiety; progressing to drowsiness, tinnitus, diplopia, circumoral numbness, muscle twitching, tremor, seizure, respiratory arrest) and biphasic cardiovascular reaction (initial stimulation, then vasodilation/myocardial depression, bradycardia, cardiac arrest at high blood levels). Prevention: aspiration, slow injection, weight-based max-dose awareness, patient monitoring during onset.
 - **Paresthesia**: prolonged anesthesia beyond expected duration from needle trauma; patients reporting an initial electric-shock sensation during injection may be at higher risk of developing persistent anesthesia. **More frequent with 4% solutions (articaine, prilocaine)** than lower-concentration agents — attributed to concentration, clinician preference, and commercial articaine's routine combination with epinephrine (which is not typically added to other common dental LAs, potentially compounding neurotoxicity risk). This mirrors the 4%-agent paresthesia signal already documented in [[local-anesthesia/becker-2012-local-anesthetics-pharmacological-considerations]] (7.3× risk with 4% articaine, 3.6× with 4% prilocaine, per Garisto et al.).
-- **Trigeminal neuralgia (TN)**: briefly discussed as a neuralgia complication category — >85% classical TN (vascular compression at the dorsal root entry zone, typically by the superior cerebellar artery), remainder secondary TN (multiple sclerosis or space-occupying lesion). This is a minor tangent relative to the wiki's dedicated [[overviews/trigeminal-neuralgia-neuropathy-overview]] synthesis and [[oral-medicine/khan-2023-trigeminal-neuralgia-therapeutic-approach-sr]].
+- **Trigeminal neuralgia (TN)**: briefly discussed as a neuralgia complication category — >85% classical TN (vascular compression at the dorsal root entry zone, typically by the superior cerebellar artery), remainder secondary TN (multiple sclerosis or space-occupying lesion). This is a minor tangent relative to the wiki's dedicated [[overviews/trigeminal-neuralgia-neuropathy-overview]] synthesis and [[oral-medicine/trigeminal-neuralgia/khan-2023-trigeminal-neuralgia-therapeutic-approach-sr]].
 
 ### Facial nerve (CN VII) complications — the paper's central gap-filling contribution
 
@@ -106,5 +106,5 @@ The mandibular nerve block (MNB, IANB) is described as the most-used and clinica
 
 - [[local-anesthesia/becker-2012-local-anesthetics-pharmacological-considerations]] — pharmacological/toxicological foundation this paper's paresthesia and toxicity discussion draws on and extends into the neurological-complication domain (mechanism of nerve injury, not just dosing).
 - [[local-anesthesia/hwang-2023-proposal-clinical-guidelines-local-anesthesia-dentistry]] — Korean position paper calling for standardized dental LA guidelines; this review's complication catalog is exactly the content domain such a guideline would need to formalize.
-- [[oral-surgery/keykha-2024-iatrogenic-paresthesia-mandibular-treatment-sr]] — systematic review of treatment modalities for late iatrogenic IAN/lingual-nerve paresthesia; this paper documents the mechanism/etiology side of the same clinical phenomenon (needle trauma, hematoma, high-concentration-agent risk) that Keykha's SR addresses from the treatment side.
+- [[oral-surgery/nerve-injury/keykha-2024-iatrogenic-paresthesia-mandibular-treatment-sr]] — systematic review of treatment modalities for late iatrogenic IAN/lingual-nerve paresthesia; this paper documents the mechanism/etiology side of the same clinical phenomenon (needle trauma, hematoma, high-concentration-agent risk) that Keykha's SR addresses from the treatment side.
 - [[overviews/trigeminal-neuralgia-neuropathy-overview]] — this review's brief TN mention (classical vs secondary, dorsal-root-entry-zone compression) is a minor tangent; the overview provides the full therapeutic synthesis.

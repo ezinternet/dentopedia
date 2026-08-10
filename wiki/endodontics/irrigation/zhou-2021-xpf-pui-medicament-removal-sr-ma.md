@@ -6,7 +6,7 @@ date: 2021-06-04
 doi: 10.1186/s12903-021-01644-7
 source: zhou-2021-xpf-pui-medicament-removal-sr-ma.md
 category: [endodontics/irrigation]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/zhou-2021-xpf-pui-medicament-removal-sr-ma.pdf
 pdf_filename: zhou-2021-xpf-pui-medicament-removal-sr-ma.pdf
 source_collection: external

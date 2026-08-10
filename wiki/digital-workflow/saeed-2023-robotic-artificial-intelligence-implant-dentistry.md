@@ -6,7 +6,7 @@ date: 2023-08-09
 doi: 10.7759/cureus.43209
 source: saeed-2023-robotic-artificial-intelligence-implant-dentistry.md
 category: [digital-workflow]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/saeed-2023-robotic-artificial-intelligence-implant-dentistry.pdf
 pdf_filename: saeed-2023-robotic-artificial-intelligence-implant-dentistry.pdf
 source_collection: external

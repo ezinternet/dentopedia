@@ -6,7 +6,7 @@ date: 2024-03-01
 doi: 10.3390/prosthesis6020027
 journal: Prosthesis 6:357-371
 source: bavetta-2024-isq-osstell-osseo-device-comparison.md
-confidence: prospective
+evidence_level: prospective
 category: [implants/isq]
 pdf_path: /Users/oracleneo/llm-wiki/papers/bavetta-2024-isq-osstell-osseo-device-comparison.pdf
 pdf_filename: bavetta-2024-isq-osstell-osseo-device-comparison.pdf

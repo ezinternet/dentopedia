@@ -6,7 +6,7 @@ date: 2025-06-30
 doi: 10.5037/jomr.2025.16201
 journal: Journal of Oral & Maxillofacial Research 16(2):e1
 source: starch-jensen-2025-transcrestal-sinus-osseodensification-meta-analysis.md
-confidence: sr+ma
+evidence_level: sr+ma
 category: [sinus-lift/transcrestal]
 pdf_path: /Users/oracleneo/llm-wiki/papers/starch-jensen-2025-transcrestal-sinus-osseodensification-meta-analysis.pdf
 pdf_filename: starch-jensen-2025-transcrestal-sinus-osseodensification-meta-analysis.pdf
@@ -57,4 +57,4 @@ Osseodensification burs compact trabecular bone laterally instead of removing it
 - [[sinus-lift/transcrestal/stuhr-2025-long-term-stability-transcrestal-sinus-augmentation]] — TSFE long-term
 - [[sinus-lift/lateral/starch-jensen-2017-sinus-floor-augmentation-treatment-modalities]] — earlier modality review
 - [[sinus-lift/lateral/allurkar-2025-implant-stability-residual-bone-macrodesign]] — RBH + macro-design effect
-- [[implants/di-stefano-2021-stability-dental-implants-cortical-bone]] — cortical thickness drives ISQ
+- [[implants/isq/di-stefano-2021-stability-dental-implants-cortical-bone]] — cortical thickness drives ISQ

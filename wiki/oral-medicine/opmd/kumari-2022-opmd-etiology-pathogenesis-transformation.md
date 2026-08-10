@@ -6,7 +6,7 @@ date: 2022-04-20
 doi: 10.3389/fphar.2022.825266
 source: kumari-2022-opmd-etiology-pathogenesis-transformation.md
 category: [oral-medicine/opmd]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/kumari-2022-opmd-etiology-pathogenesis-transformation.pdf
 pdf_filename: kumari-2022-opmd-etiology-pathogenesis-transformation.pdf
 source_collection: external

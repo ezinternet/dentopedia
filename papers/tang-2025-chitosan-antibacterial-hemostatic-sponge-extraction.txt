@@ -1,0 +1,38 @@
+Chitosan-based antibacterial hemostatic sponge for uncontrollable tooth extraction bleeding in anticoagulated patients.
+
+Tang R, Zheng L, Chi S, Wei L, Wang X, Ma X.
+
+Colloids and surfaces. B, Biointerfaces (Colloids Surf B Biointerfaces). 2025 Nov 27;259:115325.
+DOI: 10.1016/j.colsurfb.2025.115325
+PMID: 41330272
+PII: S0927-7765(25)00832-X
+PMCID: none (abstract-only ingest; full text not retrieved)
+Article types: Journal Article
+Language: eng
+
+Affiliations:
+- Rongxia Tang — Department of Stomatology, Guangdong Provincial People's Hospital's Nanhai Hospital, Foshan 528200, China; Department of Stomatology, Guangdong Provincial People's Hospital (Guangdong Academy of Medical Sciences), Southern Medical University, Guangzhou 510080, China.
+- Lu Zheng — School of Light Industry and Engineering, South China University of Technology, Guangzhou 510640, China.
+- Shangfei Chi — Department of Stomatology, The First Affiliated Hospital of Guangdong Pharmaceutical University, Guangzhou 510080, China.
+- Lu Wei — Department of Stomatology, Guangdong Provincial People's Hospital (Guangdong Academy of Medical Sciences), Southern Medical University, Guangzhou 510080, China.
+- Xiaoying Wang — School of Light Industry and Engineering, South China University of Technology, Guangzhou 510640, China. (corresponding: xyw@scut.edu.cn)
+- Xiao Ma — Department of Stomatology, Guangdong Provincial People's Hospital (Guangdong Academy of Medical Sciences), Southern Medical University, Guangzhou 510080, China. (corresponding: maxiao@gdph.org.cn)
+
+
+ABSTRACT (verbatim, PubMed record)
+
+Anticoagulant therapy substantially increases the risk of post-extraction hemorrhage by impairing hemostasis. In this study, we designed a quaternized carboxymethyl chitosan/polydopamine composite hemostatic sponge (QCD) that combines mechanical robustness and biocompatibility. Compared with the Gel group, QCD exhibits markedly enhanced in vitro hemostatic and antibacterial performance; the quaternary ammonium modification confers potent antibacterial activity tailored to the complex oral environment and mitigates infection risk. In vivo, tooth extraction test in anticoagulated rats showed that QCD (blood loss 0.011 ± 0.001 g, hemostasis time 59.667 ± 4.163 s) significantly outperformed a commercial gelatin sponge (0.019 ± 0.001 g, 87.000 ± 4.082 s) in hemostasis. This superiority was attributable to its rapid blood absorption and enhanced adhesion of blood cells and platelets, which together promoted clot formation. These results suggest that QCD may serve as a practical and promising approach for managing post-extraction hemorrhage in anticoagulated patients.
+
+
+KEYWORDS
+Coagulation disorders; Hemostatic sponges; Post-extraction bleeding; Quaternized carboxymethyl chitosan
+
+
+MeSH TERMS
+Chitosan; Animals; Anti-Bacterial Agents; Tooth Extraction; Hemostatics; Rats; Anticoagulants; Humans; Rats, Sprague-Dawley; Male; Hemorrhage; Microbial Sensitivity Tests; Polymers; Indoles
+
+
+INGEST NOTE (added by wiki, not part of the source record)
+No PMCID exists for this record; full text was not retrieved. All content in sources/ and wiki/ derives from the abstract and structured metadata above.
+The MeSH terms confirm the in vivo work is in Rats, Sprague-Dawley (Male) — despite the title's phrase "in anticoagulated patients", no human subjects were studied. The "Humans" MeSH tag reflects indexing of the clinical framing/background, not a human study arm.
+Reported precision (three decimal places on a ~60-second hemostasis measurement) is the authors' own and is reproduced here verbatim without correction.

@@ -8,7 +8,7 @@ pmid: "39877792"
 pmcid: "PMC11774551"
 source: khalil-2024-posterior-maxillary-teeth-sinus-mucosal-thickening.md
 category: [sinus-lift/lateral]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 tags: [mucosal-thickening, posterior-teeth, CBCT, periapical-lesion, periodontitis, root-proximity, odontogenic]
 relations:

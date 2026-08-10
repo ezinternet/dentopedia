@@ -1,0 +1,105 @@
+The effectiveness of adjunctive measures in managing peri-implant mucositis: an umbrella review
+
+Chuachamsai S, Acharya A, Fischer K, Nibali L, Ho D, Pelekos G.
+International Journal of Implant Dentistry. 2022 Jun 8;8(1):26.
+DOI: 10.1186/s40729-022-00426-2
+PMID: 35674882
+PMCID: PMC9177933
+Source: PubMed Central (PMC) full text, retrieved via PubMed MCP get_full_text_article.
+
+Abstract
+
+Objectives
+The purpose of this umbrella review was to gather and summarize the data from published systematic reviews (SRs) that compared non-surgical mechanical debridement (NSMD) with and without the use of adjunctive treatments on the management of peri-implant mucositis (PIM).
+
+Materials and methods
+A protocol was developed and registered in PROSPERO (CRD42021254350) before the systematic search for the SRs. Seven electronic databases, including Cochrane Library, Embase (via Ovid), MEDLINE (via Pubmed), Proquest, Prospero, Scopus and Web of Science, were searched for published reviews. The search for unpublished and informally published reviews was further attempted in the last four databases. The methodological quality of the included reviews was assessed using AMSTAR 2.
+
+Results
+Twelve included SRs assessed clinical studies published between 2014 and 2020, including a total of seventeen primary clinical trials. All SRs summarized data from individual studies and provided a narrative conclusion regarding the effectiveness of the adjunctive treatments. Only six SRs performed a meta-analysis (MA) of additional benefits of the adjunctive therapy for PIM, with results indicating no significant difference between the different treatment modalities. The overall confidence was adjudged ranging from critically low to low using AMSTAR 2 and significant additional benefits of any adjunctive treatments in comparison with NSMD were not apparent.
+
+Conclusion
+Overall, the reviewed evidence did not support the use of adjunctive treatments for improvement of clinical outcomes in PM management as compared to NSMD alone.
+
+Full Text
+
+Introduction
+
+Peri-implant mucositis (PIM) is defined as inflammation of peri-implant mucosa without evidence of continuing marginal bone loss after initial bone remodeling, whereas peri-implantitis is defined as inflammation of peri-implant mucosa and additional marginal bone loss after initial bone healing. Bacterial biofilm is the primary etiological agent in peri-implant mucositis and peri-implantitis. Considering that peri-implant mucositis precedes peri-implantitis, treatment of peri-implant mucositis is considered as the primary preventive modality for peri-implantitis. The resolution of peri-implant mucositis may be achieved effectively by professional non-surgical mechanical debridement (NSMD) and enhanced oral hygiene practice (EOH). In addition, adjunctive treatments, including air-polishing, laser and photodynamics, antiseptics, and antibiotics, have been proposed to improve the outcomes of this treatment. Several systematic reviews (SRs) and meta-analyses (MA) have analyzed the effect of various adjunctive treatments compared to NSMD alone.
+
+SRs provide a comprehensive synthesis of all available evidence (clinical studies) related to a specific intervention. This type of evidence synthesis focuses on a narrow review question, typically of direct comparison between two therapies and provides the highest level of evidence to designate health care decisions. However, with the increasing number of systematic reviews and meta-analyses, treatment decisions can entail reading several systematic reviews. Therefore, it is appropriate to conduct an overview of reviews or "umbrella review" to compile data from multiple systematic reviews to support health care decision-making.
+
+Umbrella reviews use a systematic method similar to systematic reviews, to compile information from systematic reviews instead of individual studies. In addition, umbrella reviews may examine different interventions for a particular disease, while systematic reviews usually focus on a single intervention. The comparison of similar systematic reviews can indicate the consistent or conflicting nature of evidence and addresses the knowledge gap in available evidence for future research. The present umbrella review aimed to gather and summarize the data from published systematic reviews that compared NSMD with adjunctive treatments and NSMD alone for managing PIM.
+
+Material and methods
+
+The protocol was developed and registered on PROSPERO (CRD42021254350) before the systematic search for the systematic reviews. The SRs included in this umbrella review reported a comparison of the effectiveness of NSMD combined with adjunctive interventions versus NSMD alone. The eligibility criteria and search strategy were constructed with the aid of PICOS elements.
+
+Search strategy
+Seven electronic databases, including Cochrane Library, Embase (via Ovid), MEDLINE (via Pubmed), Proquest, Prospero, Scopus and Web of Science, were identified for published reviews. The search for unpublished and informally published reviews was further attempted in the last four databases. The search term "(peri-implant OR periimplant) AND (mucositis OR disease* OR infect* OR inflammation) AND (treatment OR therapy* OR intervention OR management OR managing OR instrumentation OR "plaque removal" OR intervention)" was used to search for title, abstract and keywords when applicable. Two search strategies were applied for each database: a keyword search with a document-type filter for reviews or systematic reviews, and a keyword search without a document-type filter but with the additional "systematic review" term incorporated into the original search term. Combining two search strategies ensures comprehensiveness of the results since the search with a document-type filter might be of limited sensitivity, and some electronic databases such as Embase could not provide a search filter to identify systematic reviews successfully. The search was restricted to the English language. All seven electronic databases were searched for relevant reviews with a publication date until September 15th, 2021. The references, journal title, study title, authors, years of publication and abstract of searched results were exported to an EndNote library. Duplicates were removed before constructing the final list for review selection.
+
+Review selection and additional searches
+The review selection included two steps: screening by title/abstract, then screening by full-text appraisal against a table of eligibility criteria. All steps were performed independently by two reviewers (SC and AA); disparities were settled by consensus and consultation with a third independent reviewer (GP).
+
+Eligible systematic reviews were required to include primary studies of adult patients diagnosed with peri-implant mucositis. SRs that exclusively appraised treatment for peri-implantitis were excluded. Included systematic reviews summarized the outcome of primary studies and may also have synthesized the data using descriptive analysis or meta-analysis. The primary studies included in the potential SRs were assessed against PICO elements using the same table of eligibility criteria. Irrelevant studies were identified and excluded. The SRs included in this umbrella review contain a minimum of one eligible primary study.
+
+Cohen's kappa was used to calculate inter-rater agreement. The inter-rater agreement for the title/abstract screening was 99.84% (kappa 0.97); for full-text selection it was 95% (kappa 0.89). Hand-searching of reference lists of included systematic reviews was also carried out to identify additional relevant systematic reviews.
+
+Data collection
+One reviewer (SC) performed data collection systematically; data were entered into a spreadsheet and checked by the other reviewer (AA), with disparities resolved by consensus. All included SRs were extracted for data on general characteristics, clinical and methodological characteristics, synthesized results and conclusion. Data on primary studies reported in the selected systematic reviews were also extracted for bibliographic details, clinical/methodology characteristics, results/conclusion, and quality assessment (risk of bias).
+
+Data were cross-checked with original articles or other systematic reviews to correct reporting errors or complete unclear information. Where original reviewers did not provide overall risk-of-bias for a primary study, the Cochrane handbook algorithm was applied, summarized as low, unclear, or high based on the greatest risk present in key domains.
+
+Assessment of methodological quality of systematic reviews
+Included SRs were assessed using AMSTAR 2, which is widely used to appraise systematic reviews including randomized or non-randomized trials of healthcare interventions. Overall confidence was rated based on flaws in seven critical and nine non-critical domains: high (no critical flaw, at most one non-critical flaw), moderate (no critical flaw, more than one non-critical flaw), low (one critical flaw), or critically low (more than one critical flaw). Assessment was performed independently by two reviewers (SC and AA), with disparities settled by consensus.
+
+Data synthesis
+Because most SRs did not provide a definitive conclusion on outcome measurements (e.g., bleeding on probing or probing depth) but instead tabulated data from primary studies, a vote-counting method was applied, presenting the ratio of primary studies for each outcome parameter. A minimum of three primary studies in each SR was required to conclude the effect of adjunctive interventions; the adjunctive treatment was considered an additional benefit if more than two-thirds of the primary studies presented significant positive results.
+
+Results
+
+Description of included systematic reviews
+The final list of 701 search results was constructed after de-duplication. Title/abstract screening excluded 679 references. Of 22 references for full-text screening, ten were excluded. Twelve SRs were included, all published outside the Cochrane Database of Systematic Reviews (CDSR), from 2015 to 2020.
+
+The PICO frameworks in the included SRs differed. Some included populations with PIM and peri-implantitis, or compared different adjunctive treatments. Only one SR had a specific focus population and adjunctive treatment (adjunctive laser and photodynamic therapy for PIM). Eight SRs reviewed a specific adjunctive intervention for both peri-implant mucositis and peri-implantitis, encompassing antiseptics, probiotics, air-polishing, and laser/photodynamic treatment. Two SRs reviewed all adjunctive treatments for PIM specifically, and one reviewed all adjunctive interventions for both PIM and peri-implantitis.
+
+AMSTAR 2 assessment: seven systematic reviews were scored "low" in overall confidence, and five were scored "critically low." The most common critical flaw was lack of interpretation of risk of bias when discussing results (nine SRs). The second most frequent flaw was lack of publication bias assessment (five SRs). Two SRs did not present the list of excluded studies with reasons for exclusion, and two did not use appropriate methods for statistical combination when performing meta-analysis.
+
+Description of primary studies included in SRs
+Included SRs assessed clinical studies published between 2014 and 2020, comprising 17 clinical trials (CTs): 16 randomized controlled trials (RCTs) and one controlled clinical trial (CCT). Twelve SRs included two to ten relevant CTs, with substantial overlap of primary studies across SRs (presented as a citation network in the original figure). Risk of bias varied from low to high across trials; different tools were used across SRs (most used the original Cochrane risk-of-bias tool, one used the updated version, one used its own criteria). Notably, risk-of-bias ratings for the same primary study sometimes differed between SRs even when using the same tool.
+
+Interventions and comparators in included primary studies
+- Antiseptics: five RCTs. Chlorhexidine gluconate (gel, solution, or spray) at 0.12%, 0.2%, or 0.5% concentrations; application periods 10 days to 12 weeks.
+- Probiotics: six RCTs, mostly lozenges dissolved in the mouth (one study used a probiotic mixture applied in the peri-implant sulcus plus lozenges); administration time 3 weeks to 3 months.
+- Air-polishing: one RCT and one CCT, both using glycine powder air-polishing applied submucosally for five seconds per implant site.
+- Laser and photodynamic treatment: two RCTs, both using a diode laser in pulse mode for 30 seconds per surface, with differing wavelength/power settings.
+- Antibiotics: two RCTs — one systemic (azithromycin, 5 days), one local (tetracycline HCl fibers in the peri-implant sulcus for 10 days).
+
+All controlled trials compared the adjunctive treatment against NSMD (hand or ultrasonic instrumentation), polishing (paste and rubber cup), or both; some studies incorporated adjuncts (e.g., photodynamic therapy, hydrogen peroxide, CHX+CPC rinse, CHX rinse) into their control treatment protocol as well.
+
+Data analysis in included SRs
+All included SRs summarized individual-study data and provided narrative conclusions. Six SRs performed meta-analysis for additional benefit of adjunctive treatment; these showed no significant difference in probing depth, bleeding on probing, clinical attachment level, or plaque index between control (conventional/NSMD) and test (NSMD + adjunctive) groups. Four SRs did not conduct meta-analysis owing to clinical heterogeneity (population/case definition, adjunctive protocol, conventional protocol, outcome measurement). Two SRs conducted meta-analysis of similar clinical outcome parameters (BOP, gingival index, probing depth) across different adjunctive treatment types (antibiotic, antiseptic, air-polishing, probiotic); the present umbrella review analyzed the MA outcomes of these two SRs specifically.
+
+Discussion
+
+This umbrella review included 12 systematic reviews examining the effect of adjunctive measures on PIM treatment. Not all included reviews established definite, narrow PICOS frameworks; there was variability in population, intervention/comparator, outcome, and study-type elements among the included SRs.
+
+Population and intervention elements were poorly specified in most included SRs — focused populations often mixed PIM and peri-implantitis, and interventions sometimes included all adjunctive treatment types reported in the literature. Case definitions for PIM were rarely specified; only one SR referenced the 2017 World Workshop classification. Most SRs used more than one outcome parameter, most commonly probing depth, followed by bleeding on probing, plaque index, and clinical attachment level.
+
+Control treatments differed between individual studies — while most used NSMD as the conventional treatment, some added antiseptic or photodynamic treatment to the control arm, and NSMD protocols themselves varied (curettes vs. ultrasonic devices, rubber cups/polishing paste, or both). Some SRs specified a minimum follow-up of 1 or 3 months; follow-up in the primary studies ranged from 1 to 8 months. Most studies showed no significant difference between test and control groups over follow-up. Only two primary studies (adjunctive antiseptic treatments) showed significant short-term (first 3 months) differences favoring the test group, without longer follow-up to confirm persistence.
+
+Three SRs reviewing different adjunctive treatments concluded no additional benefit over NSMD. Five SRs (antiseptics, air-polishing, probiotics, laser/photodynamic treatment) also concluded adjunctive treatment was not superior to conventional treatment. Four SRs (probiotics, laser/photodynamic therapy) suggested the benefit of adjunctive treatment was inconclusive and called for further trials.
+
+Three SRs on antiseptic treatment that performed meta-analysis indicated no significant difference in probing depth, bleeding on probing, or clinical attachment level between groups. Meta-analysis for adjunctive probiotic treatment (two SRs) found no significant difference in probing depth, bleeding on probing, or plaque index. Only one SR on adjunctive laser/photodynamic treatment conducted meta-analysis; adjunctive laser therapy did not significantly differ in probing depth from conventional treatment.
+
+Vote-counting further confirmed: adjunctive antiseptic treatment showed no additional benefit in improving probing depth or bleeding on probing; adjunctive probiotic treatment showed no additional benefit in probing depth, bleeding on probing, or plaque index. Effectiveness of other adjunctive treatments could not be synthesized by vote-counting because fewer than three primary studies were available.
+
+Overall confidence (AMSTAR 2) of included SRs ranged from low to critically low. The summarized evidence indicated adjunctive treatments did not significantly improve clinical outcome parameters compared to NSMD.
+
+Limitations: the included systematic reviews and clinical trials were not of high quality and were few in number (12 SRs, 17 primary studies); about two-thirds of primary studies had a high risk of bias; SR confidence was low to critically low; included SRs analyzed overlapping primary studies (which could account for consistent findings); and the umbrella review's non-statistical vote-counting approach does not account for effect size or precision of the primary studies' estimates. Systematic reviews with a narrow scope were lacking, and this umbrella review also demonstrated a shortage of RCTs.
+
+While the conclusion does not support general use of adjunctive treatment in managing PIM, patient subsets that might benefit remain an open question — e.g., patients with a history of periodontitis, diabetes, or smoking (increased risk for peri-implant disease), and implants with local risk indicators. PIM around deep mucosal tunnel implants presents delayed disease resolution after non-surgical debridement, and implant designs with an over-contoured prosthetic profile may also pose risks for peri-implant health. Additional adjuncts to NSMD reported in the literature — ozone therapy, desiccant application, electrolytic cleaning procedures, and herbal medications — were not evaluated in the systematic reviews included in this umbrella review, so conclusions on their efficacy cannot be drawn. More clinical trials and subsequent SRs are warranted.
+
+Conclusion
+
+A small number of primary studies and SRs address outcomes of adjunctive treatment for peri-implant mucositis, and the quality of available SRs is generally low. Most primary studies have a high risk of bias, with discrepancies in outcome measurements and follow-up times. Within these limitations, this umbrella review failed to show a significant benefit from adjunctive treatments in improving the outcome of NSMD in PIM, and no specific adjunctive therapy has emerged as clearly superior to NSMD so far.

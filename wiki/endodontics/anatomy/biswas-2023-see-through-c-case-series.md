@@ -6,7 +6,7 @@ date: 2023-07-28
 doi: 10.4103/jcd.jcd_322_23
 source: biswas-2023-see-through-c-case-series.md
 category: [endodontics/anatomy]
-confidence: case-report
+evidence_level: case-report
 pdf_path: /Users/oracleneo/llm-wiki/papers/biswas-2023-see-through-c-case-series.pdf
 pdf_filename: biswas-2023-see-through-c-case-series.pdf
 source_collection: external

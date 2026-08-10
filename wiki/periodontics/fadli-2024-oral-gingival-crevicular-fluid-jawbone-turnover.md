@@ -6,7 +6,7 @@ date: 2024-09-30
 doi: 10.3390/diagnostics14192184
 source: fadli-2024-oral-gingival-crevicular-fluid-jawbone-turnover.md
 category: [periodontics]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "39410587"
@@ -77,7 +77,7 @@ The headline finding is convergence: **GCF's most significant markers are IL-1β
 
 ## Related Papers
 
-- [[periodontics/donertas-2026-gbt-subgingival-debridement-gcf-biomarkers]] — GCF cytokine response to debridement; this scoping review supplies the broader GCF/saliva bone-turnover biomarker landscape it sits within
+- [[periodontics/non-surgical-instrumentation/donertas-2026-gbt-subgingival-debridement-gcf-biomarkers]] — GCF cytokine response to debridement; this scoping review supplies the broader GCF/saliva bone-turnover biomarker landscape it sits within
 - [[drug/mronj/kwon-2023-mronj-position-papers-what-changed]] — MRONJ position-paper synthesis; complemented here by the finding that human GCF MRONJ biomarker data are absent and saliva (MMP-9/TNF-α/IL-6) is the current oral-fluid candidate
 - [[drug/mronj/ruggiero-2022-aaoms-mronj-position-paper-update]] — AAOMS MRONJ staging/risk framework; periodontal inflammation flagged here as a shared MRONJ risk pathway
 - [[bone-biology/xu-2016-sclerostin-wnt-occlusal-hypofunction-alveolar-bone]] — sclerostin/Wnt regulation of alveolar bone; mechanistic basis for GCF sclerostin as a formation-inhibition marker

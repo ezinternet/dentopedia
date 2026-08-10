@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1016/j.jdent.2025.106004
 source: laumacher-2025-lithium-disilicate-single-crowns-overview-sr.md
 category: [prosthetic-materials]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/laumacher-2025-lithium-disilicate-single-crowns-overview-sr.pdf
 pdf_filename: laumacher-2025-lithium-disilicate-single-crowns-overview-sr.pdf
 source_collection: external
@@ -44,5 +44,5 @@ Systematic search of existing systematic reviews.
 LD crowns perform excellently at 5 years. Monolithic single-layer LD eliminates veneering-related chipping. Implant-supported LD: comparable outcomes to conventional ceramics.
 
 ## Related Papers
-- [[dental-materials/almashaan-2023-lithium-disilicate-survival-sr]] — related
+- [[dental-materials/ceramic/almashaan-2023-lithium-disilicate-survival-sr]] — related
 - [[inlay/malament-2021-lithium-disilicate-partial-coverage-109year]] — related

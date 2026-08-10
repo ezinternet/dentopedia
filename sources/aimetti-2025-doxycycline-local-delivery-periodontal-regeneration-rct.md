@@ -15,7 +15,7 @@ text_filename: aimetti-2025-doxycycline-local-delivery-periodontal-regeneration-
 
 ## Why Ingested
 
-기존 [[periodontics/stavropoulos-2021-periodontal-regeneration-intrabony-nma]]는 EMD/xenograft 재생술의 평균 결과를 제시하지만, BoP+ 잔존 부위에서 국소 독시사이클린(DOX, doxycycline)을 사전 투여하는 BOOST 전처치가 실제로 결과를 개선하는지는 RCT 수준 근거가 없었다. 본 RCT (Aimetti 2025)는 그 공백을 직접 채우며, 국소항생제의 최적 사용 시점(수술 전 2주)과 용도(항염·항교원분해)를 명확히 한다.
+기존 [[periodontics/host-modulation/stavropoulos-2021-periodontal-regeneration-intrabony-nma]]는 EMD/xenograft 재생술의 평균 결과를 제시하지만, BoP+ 잔존 부위에서 국소 독시사이클린(DOX, doxycycline)을 사전 투여하는 BOOST 전처치가 실제로 결과를 개선하는지는 RCT 수준 근거가 없었다. 본 RCT (Aimetti 2025)는 그 공백을 직접 채우며, 국소항생제의 최적 사용 시점(수술 전 2주)과 용도(항염·항교원분해)를 명확히 한다.
 
 ## Three-line Summary
 
@@ -105,10 +105,10 @@ BOOST군이 임상부착수준(CAL) 획득 4.1 대 3.2 mm(p=0.019), 복합성공
 
 ## 6. Related Work
 
-- [[periodontics/stavropoulos-2021-periodontal-regeneration-intrabony-nma]] — Network meta-analysis of regenerative approaches (BOOST extends these average results)
+- [[periodontics/host-modulation/stavropoulos-2021-periodontal-regeneration-intrabony-nma]] — Network meta-analysis of regenerative approaches (BOOST extends these average results)
 - [[periodontics/sanz-2020-treatment-stage-i-iii-periodontitis-efp]] — EFP clinical practice guideline underpinning the regenerative surgery indication
 - [[periodontics/herrera-2022-treatment-stage-iv-periodontitis-efp]] — EFP guideline for stage IV periodontitis, the target patient population
-- [[periodontics/khattri-2020-adjunctive-systemic-antimicrobials-non-surgical-treatment]] — Prior evidence on adjunctive antimicrobials in periodontal therapy (BOOST contrasts by timing and delivery route)
+- [[periodontics/non-surgical-instrumentation/khattri-2020-adjunctive-systemic-antimicrobials-non-surgical-treatment]] — Prior evidence on adjunctive antimicrobials in periodontal therapy (BOOST contrasts by timing and delivery route)
 
 ## 7. Glossary
 

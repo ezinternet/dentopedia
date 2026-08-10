@@ -6,7 +6,7 @@ date: 2026-02-01
 doi: 10.3201/eid3202.251386
 source: slekovec-2026-legionella-water-flosser-france-case-report.md
 category: [interdental-cleaning]
-confidence: case-report
+evidence_level: case-report
 source_collection: pubmed-text
 full_text: true
 pmid: "41714876"

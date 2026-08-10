@@ -6,7 +6,7 @@ date: 2025-06-26
 doi: 10.1111/jopr.14088
 source: mojaver-2025-occlusal-overload-peri-implant-health-sr.md
 category: [occlusion]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "40571905"

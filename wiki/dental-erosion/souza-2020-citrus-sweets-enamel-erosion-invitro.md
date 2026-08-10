@@ -6,7 +6,7 @@ date: 2020-08-17
 doi: "10.1590/1678-7757-2020-0182"
 source: souza-2020-citrus-sweets-enamel-erosion-invitro.md
 category: [dental-erosion]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/souza-2020-citrus-sweets-enamel-erosion-invitro.pdf
 pdf_filename: souza-2020-citrus-sweets-enamel-erosion-invitro.pdf
 source_collection: external

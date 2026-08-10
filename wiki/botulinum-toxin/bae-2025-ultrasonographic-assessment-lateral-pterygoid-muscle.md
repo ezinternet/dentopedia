@@ -6,7 +6,7 @@ date: 2024-08-19
 doi: 10.1002/ca.24220
 journal: Clinical Anatomy 2025;38:780-785
 source: bae-2025-ultrasonographic-assessment-lateral-pterygoid-muscle.md
-confidence: cross-sectional
+evidence_level: cross-sectional
 category: botulinum-toxin
 pdf_path: /Users/oracleneo/llm-wiki/papers/bae-2025-ultrasonographic-assessment-lateral-pterygoid-muscle.pdf
 pdf_filename: bae-2025-ultrasonographic-assessment-lateral-pterygoid-muscle.pdf

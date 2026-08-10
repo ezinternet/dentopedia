@@ -6,7 +6,7 @@ date: 2024-08-01
 doi: 10.1016/j.prosdent.2022.07.013
 source: prasad-2024-attachment-systems-mandibular-implant.md
 category: [complete-denture]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/prasad-2024-attachment-systems-mandibular-implant.pdf
 pdf_filename: prasad-2024-attachment-systems-mandibular-implant.pdf
 source_collection: external
@@ -93,6 +93,6 @@ This 2024 SR+MA from the Journal of Prosthetic Dentistry analyzed 25 RCTs to com
 
 ## Related Papers
 
-- [[implants/liu-2021-immediate-delayed-loading-overdenture-mbl-sr-ma]] — loading protocol effects on MBL in mandibular overdentures
-- [[implants/park-2023-narrow-regular-diameter-mandibular-overdentures]] — implant diameter effects on mandibular overdenture outcomes
+- [[implants/full-arch/liu-2021-immediate-delayed-loading-overdenture-mbl-sr-ma]] — loading protocol effects on MBL in mandibular overdentures
+- [[implants/short-narrow/park-2023-narrow-regular-diameter-mandibular-overdentures]] — implant diameter effects on mandibular overdenture outcomes
 - [[complete-denture/alhajj-2017-occlusal-vertical-dimension-complete-denture-review]] — complete denture prosthodontic framework within which attachment selection occurs

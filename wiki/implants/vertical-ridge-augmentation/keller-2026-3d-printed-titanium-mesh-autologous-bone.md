@@ -7,7 +7,7 @@ doi: 10.11607/jomi.11587
 pmid: "41665971"
 source: keller-2026-3d-printed-titanium-mesh-autologous-bone.md
 category: [implants/vertical-ridge-augmentation]
-confidence: retrospective
+evidence_level: retrospective
 text_path: /Users/oracleneo/llm-wiki/papers/keller-2026-3d-printed-titanium-mesh-autologous-bone.txt
 text_filename: keller-2026-3d-printed-titanium-mesh-autologous-bone.txt
 source_collection: pubmed-text

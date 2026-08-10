@@ -41,7 +41,7 @@ J Clin Periodontol 2018;45(Suppl.20):S1-S8 · Jack G. Caton, Gary Armitage, Tord
 AAP·EFP 공동 World Workshop, 분야별 SR 기반 consensus.
 
 ## 4. Key Results and Benchmarks
-치주염 stage I-IV·grade A-C 도입, peri-implant 질환 정의 확립 [근거강함(합의)]. 임상 진단·코딩의 국제 표준.
+치주염 stage I-IV·grade A-C 도입, peri-implant 질환 정의 확립 [확인(합의)]. 임상 진단·코딩의 국제 표준.
 
 ## 5. Limitations and Future Work
 합의 기반, 적용·재현성은 후속 검증 대상.

@@ -6,7 +6,7 @@ date: 2025-07-13
 doi: 10.1111/jerd.70001
 source: reis-2025-minimally-invasive-feldspathic-laminate-12year-followup.md
 category: [veneers]
-confidence: case-report
+evidence_level: case-report
 source_collection: pubmed-text
 full_text: true
 pmid: "40653452"

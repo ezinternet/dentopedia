@@ -1,0 +1,83 @@
+Title: Evaluation of mandibular anterior nutrient canals in hypertensive and diabetes mellitus patients: A comparative radiographic study
+Authors: Kaur S, Verma P, Saigal A
+Journal: Tzu Chi Medical Journal, 2019;31(2):118-123
+PMID: 31007493
+PMCID: PMC6450156
+DOI: 10.4103/tcmj.tcmj_43_18
+
+ABSTRACT
+
+Objective: Radiographic evaluation of nutrient canals (NCs) in the mandibular anterior region using intraoral periapical radiographs (IOPARs) and to determine whether they can be used as a potential marker for hypertension (HT) and diabetes mellitus (DM).
+
+Materials and Methods: Randomly selected 600 patients of 21-60 years age group (Group I: 200 HT; Group II: 200 DM; Group III: Healthy subjects) were considered. The case history was recorded including details for DM and HT (duration, type, and medication). Blood pressure was measured, followed by blood examination for blood sugar levels. Selected patients were subjected to IOPARs using CS-2100C machine by the paralleling technique. Selected radiographs were evaluated by two observers independently for the presence/absence, number, and location of NCs between #33 and #43. Data obtained were tabulated and subjected to statistical analysis using SPSS 20.0 statistical software and intergroup reliability was checked using Cohen's kappa test.
+
+Results: Evaluation of various parameters of NCs showed an insignificant interobserver bias. The incidence of NCs presence was noted maximum in Group II (93.5%), followed by Group I (88.5%) and III (44.5%). Of total 888 NCs found, maximum were found in Group I, followed by II and III. On comparing the incidence of NCs present among both genders and location in study groups, no statistical correlation was found.
+
+Conclusion: Statistically significant increase in the incidence and number of NCs in Group I and II compared to controls can act as an adjunct diagnostic marker for the detection of DM and HT; although, no significant correlation was obtained between gender and location of NCs in different study groups. Furthermore, there was no significant correlation was found between the severity of disease and incidence of the presence of NCs.
+
+FULL TEXT
+
+Introduction
+
+Nutrient canals (NCs) are the radiolucencies representing the spaces in bone through which blood vessels and nerves travel to supply surrounding structures. They were first described by Hirschfield in 1923, and are also called interdental canals, vascular channels, or interdental NCs. The terminal points of these canals are seen as small nutrient foramina. Some researchers have proposed that NCs are anatomic formations, whereas others are convinced that these canals are pathological formations. Their presence may explain difficulties in obtaining local anesthesia during dental surgical procedures and also the occurrence of focal bleeding during surgery. NCs were also reported to provide a pathway for the spread of infection. Moreover, the radiographic presence of NCs may be indicative of a knife-edged alveolar ridge and is, therefore, of particular significance in the assessment of potential implant sites. NCs are more commonly found in Afro-Caribbeans and more often in males than females.
+
+Intraoral periapical radiographs (IOPARs), despite being two-dimensional and limited in size, appears to be the best projection to identify the NCs. In IOPARs, NCs appear as linear radiolucencies and vary in size, number, and prominence and in their relationship to the roots of the teeth. Kishi and Patni observed that NCs were more often seen in the mandible anterior region, followed by the maxillary premolar region in the wall of maxillary sinus. In the mandibular anterior region, Ennis described their anatomy, stating that they are derived from the incisive branch of the inferior alveolar neurovascular bundle which supplies the anterior mandible. The predominance of NCs in the anterior mandibular region is attributed to thin alveolar process, horizontally arranged trabeculae, decreased bony support of cortical and cancellous bone, and greater proneness to irritation from calculus and trauma. Lovett classified NCs into three types based upon their radiographic appearance:
+- Type I: radiolucent line, varying in size as a fine thread-like marking to a width of 0.5 mm and in length from 1 to 2 cm. The course may be linear, circular, and haphazard or a combination of any two or all three.
+- Type II: moderately radiolucent line, varying from 0.5 to 1.5 mm in width and 3 mm to 2.5 cm in length. Their course is linear or circular and only occasionally haphazard.
+- Type III: broad, usually only slightly radiolucent line varying in size from 1.5 to 4 mm in width and 6 mm to 7 cm in length. Their course is mostly linear with smooth turns, or tight circular turns in the area of the mental foramen of the mandible.
+
+NCs have been correlated with various pathological conditions such as periodontal diseases, hypertension (HT), diabetes mellitus (DM), tuberculosis, rickets, calcium deficiency, disuse atrophy, and coarctation of the aorta, and can be used as a diagnostic marker of various systemic diseases. HT, also called a silent killer, is the most commonly encountered medical condition in the dental office. There occurs dilatation of arterioles, hypertrophy, and hyperplasia of the vessel walls and arteriosclerosis, along with thickening of the arterial wall. This leads to narrowing of the lumen which may lead to the opening of more collateral blood vessels to compensate for diminished blood supply. All these changes may contribute to increased presence of NCs in hypertensive patients.
+
+DM is the second most common medical condition seen after HT in the dental office. Insulin deficiency has mitogenic action on endothelial cells, which would lead to collateral vessel formation and narrowing of blood vessel lumen. Hence, this collateral vessel formation may act as a compensatory mechanism which may lead to increased prevalence of NCs in this condition.
+
+Since IOPARs help in recognizing subtle differences in the appearance, number, and location of NCs, the dentist can have a role in suspecting underlying systemic diseases such as HT as well as DM, and indicating the need for further investigations. With this background, the present study was conducted to evaluate and compare the NCs (presence, number, and location) in the mandibular anterior region among HT and DM patients using IOPARs.
+
+Materials and Methods
+
+The present study comprised randomly selected patients (n=600) equally divided into three groups: Group I (n=200) hypertensive patients; Group II (n=200) DM Type II patients; and Group III (n=200) healthy patients as controls, age group 21 to 60 years, from the daily outpatient department of Surendera Dental College and Hospital, Sri Ganganagar, Rajasthan.
+
+Ethics: The present study was conducted in accordance with the Declaration of Helsinki and was approved by the Local Ethical Committee of the Institute (SDCRI/IEC/2015/002). Informed written consent was obtained from all patients before enrollment.
+
+Inclusion criteria: patients with positive medical history of HT or DM Type II for a minimum of 3 years.
+
+Exclusion criteria: (1) patients with history of having both HT and DM, (2) other systemic diseases apart from HT and DM, (3) patients with severe bone loss or crowding of lower anterior teeth, (4) edentulous patients or patients with any missing teeth in the lower anterior region, (5) patients with periapical pathology in the mandibular anterior region radiographically, (6) pregnant women, and (7) poor quality IOPARs.
+
+Blood pressure was measured with stethoscope and sphygmomanometer using the auscultatory method preceded by the palpatory method, followed by random blood sugar (RBS) level investigation. Patients with BP >120/80 mmHg were selected as hypertensive. If RBS values were above normal (<200 mg/dL cutoff for further workup), patients returned fasting for fasting blood sugar (FBS) evaluation. Patients with RBS >=200 mg/dL or FBS >=126 mg/dL were selected as diabetic.
+
+IOPARs of the mandibular anterior region were taken using the paralleling technique (Care Stream 2100CS dental X-ray machine), following ICRP guidelines. All radiographs were evaluated by two independent observers (oral and maxillofacial radiologists) for presence/absence of radiolucent lines running vertically in the interdental or periapical region between #33 and #43, and the total number of radiolucent lines was recorded as NCs. Statistical analysis used SPSS 20.0; two-tailed test with significance at P<0.05; Cohen's kappa for interobserver reliability; Chi-squared test for intergroup comparison.
+
+Results
+
+The study comprised 200 hypertensive patients (mean age 40.72 years), 200 DM patients (mean age 45.03 years), and 200 healthy controls (mean age 42.05 years). According to observer 1, of 600 patients, 453 (75.5%) exhibited NCs while 147 (24.5%) did not; according to observer 2, 451 (75.1%) had NCs and 149 (24.8%) did not. Cohen's kappa indicated no significant interobserver bias (P<0.01).
+
+Group-wise incidence of NC presence (observer 1, Table 2): Group I (hypertension) 177/200 = 88.5%; Group II (diabetes) 187/200 = 93.5%; Group III (control) 89/200 = 44.5%. The incidence of NC presence was 1.9x higher in Group I vs controls and 2.1x higher in Group II vs controls. Intergroup comparison (Chi-square) showed statistically significant increases in NCs in Group I and Group II compared to controls (P<0.05), while the difference between Group I and Group II was not statistically significant (P>0.05).
+
+Total NCs found: 888 across 600 patients. By observer 1: Group I 394 (65.5%), Group II 356 (59.3%), Group III 138 (23%). No statistically significant gender correlation was found in any study group, although more NCs were found in males overall.
+
+Location: NCs located between roots were more common than beyond the root apex in all three groups (Group I: 187 between vs 13 beyond; Group II: 190 vs 10; Group III: 190 vs 10). No statistically significant correlation was found for location of NCs between groups (P>0.005).
+
+No statistically significant correlation was found between NC presence and duration/severity of HT or DM (hypertension r=0.024, P=0.74; diabetes r=0.05, P=0.48).
+
+Discussion
+
+Diabetes group patients showed a statistically significant increase in presence and total number of NCs compared to controls, consistent with prior studies (Pierrakou and Donta; Reddy et al.; Behl et al.; Yustiaputri et al.; Selarka et al.; Castelino et al.). The higher prevalence is attributed to insulin deficiency's mitogenic action on endothelial cells, leading to collateral vessel formation and, via atherosclerosis, narrowing of blood vessel lumen — a compensatory mechanism increasing NC prevalence. Reduced thickness/resorption of alveolar bone associated with DM is a further contributing factor.
+
+NCs were present in 65.5% of hypertensive patients in this study, compared with 58% (Bilge et al.), 54.3% (Jaju et al.), 75% (Yilmaz et al.), and 70.4-78% (Patni et al., depending on dentulous/edentulous status) in prior studies — variability attributed to differing inclusion criteria (periodontitis, dentulous/edentulous status, calcium deficiency) in earlier work versus this study's stricter exclusions.
+
+Hypertensive patients showed statistically significant increased NC presence/number vs healthy controls, agreeing with Bilge et al., Jaju et al., and Yilmaz et al. — attributed to arteriolar dilatation, hypertrophy/hyperplasia of arterial walls, and atherosclerosis narrowing the lumen and prompting collateral opening.
+
+Comparing Group I and II, more NCs per patient were observed among hypertensive patients, agreeing with Poornima et al. and Patni et al., attributed to calcification of collateral vessels in terminal-stage arteriosclerosis in longer-duration HT cohorts (mean ~10 years in some prior studies vs minimum 3 years here). Diabetes group showed higher incidence of NC presence than hypertension group, attributed to the dual effect of vascular dilatation plus new collateral formation.
+
+NCs were observed more in males (40.3%) than females (35.2%) across groups, though the difference was not statistically significant — consistent with Kishi et al., Patel and Wuehrmann, Pierrakou and Donta, and Bilge et al., but inconsistent with Donta et al. (60.8% female, 39.2% male prevalence), attributed to sampling differences. Mean age of NC-positive patients was higher than NC-negative patients in Groups I and II (not statistically significant), consistent with Sweet's observation that NC detection increases with age due to age-related hormonal/osteoporotic bone changes.
+
+Regarding radiographic technique: several prior studies did not report technique (Goodman Topper et al., Reddy et al., Yustiaputri et al.); others used bisecting-angle technique (Jaju et al., Abdar-Esfahani and Mehdizade, Poornima et al., Kumar et al.), while others used paralleling technique (Patel and Wuehrmann, Singh et al., Selarka et al., Castelino et al.) as in this study — chosen for reproducibility and fewer geometric errors.
+
+A higher percentage of NCs between roots than beyond the apex was found in all three groups, consistent with the anatomical/histological description of horizontally arranged trabeculae interradicularly versus vertically dominant trabecular pattern beyond the root apices; frequency of NCs correlates with trabecular space size (ratio ~3:2:1 for small:medium:large spaces), consistent with Patel and Wuehrmann.
+
+Limitation: no relation between severity/duration of HT/DM and number of NCs was studied at the individual-patient level (only aggregate correlation was tested).
+
+Conclusion
+
+The study demonstrates an increased incidence of NCs in hypertensive and diabetic patients compared to healthy controls, suggesting NCs on IOPARs of the mandibular anterior region can serve as an adjunct diagnostic marker for HT and DM detection. NCs were more frequently interproximal than periapical/beyond-root. No significant correlation was found between disease severity/duration and NC presence. Larger sample-size studies are recommended to substantiate radiographic NC count/presence as an additional diagnostic aid for HT and DM.
+
+Declarations: Institutional ethics approval obtained (SDCRI/IEC/2015/002); informed consent obtained from all patients; no financial support; no conflicts of interest declared.

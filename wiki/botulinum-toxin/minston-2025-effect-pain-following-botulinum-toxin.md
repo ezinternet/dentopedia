@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1111/joor.13915
 journal: J Oral Rehabil 2025;52:587-596
 source: minston-2025-effect-pain-following-botulinum-toxin.md
-confidence: rct
+evidence_level: rct
 category: botulinum-toxin
 pdf_path: /Users/oracleneo/llm-wiki/papers/minston-2025-effect-pain-following-botulinum-toxin.pdf
 pdf_filename: minston-2025-effect-pain-following-botulinum-toxin.pdf

@@ -6,7 +6,7 @@ date: 2024-02-13
 doi: 10.1002/cap.10280
 source: abdulkarim-2024-digital-assessment-supracrestal-tissue-attachment.md
 category: [periodontics]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 full_text: true
 pmid: "38348934"

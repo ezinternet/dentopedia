@@ -39,7 +39,7 @@ rCAIS·dCAIS 최상위, FH 최하위.
 PRISMA-NMA, PROSPERO 등록; 4 DB(WoS/MEDLINE/Scopus/Embase) + manual; 18연구(6 RCT, 2 PCS, 7 RCS, 3 Retro), 541환자/780 즉시 임플란트; outcome angular(°)·platform·apex deviation(mm); frequentist weighted mixed-effects NMA(REML, study random intercept, jaw/anterior%/design/RoB 공변량); RoB2/JBI/NOS; CINeMA.
 
 ## 4. Key Results
-[근거강함]
+[확인]
 - FH 대비 angular 감소: rCAIS -3.36°, dCAIS -2.66°, FG-sCAIS -1.85°, HG-sCAIS -1.73° (모두 유의)
 - platform 감소: dCAIS 0.71, rCAIS 0.68, FG-sCAIS 0.54, HG-sCAIS 0.27mm
 - apex 감소: rCAIS 1.43, dCAIS 1.32, HG-sCAIS 1.23, FG-sCAIS 0.81mm

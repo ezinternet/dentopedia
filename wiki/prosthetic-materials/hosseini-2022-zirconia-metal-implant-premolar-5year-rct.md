@@ -6,7 +6,7 @@ date: 2022-05-10
 doi: 10.1111/clr.13960
 source: hosseini-2022-zirconia-metal-implant-premolar-5year-rct.md
 category: [prosthetic-materials]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/hosseini-2022-zirconia-metal-implant-premolar-5year-rct.pdf
 pdf_filename: hosseini-2022-zirconia-metal-implant-premolar-5year-rct.pdf
 source_collection: external

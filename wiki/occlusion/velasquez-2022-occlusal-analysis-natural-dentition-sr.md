@@ -6,7 +6,7 @@ date: 2022-01-01
 doi: 10.1055/s-0042-1755626
 source: velasquez-2022-occlusal-analysis-natural-dentition-sr.md
 category: [occlusion]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/velasquez-2022-occlusal-analysis-natural-dentition-sr.pdf
 pdf_filename: velasquez-2022-occlusal-analysis-natural-dentition-sr.pdf
 source_collection: external
@@ -41,7 +41,7 @@ Digital occlusal analysis should be preferred over articulating paper alone for 
 SR, 189편→10편 포함(관찰·OR·case-control).
 
 ## Results
-디지털 교합분석이 교합지보다 객관적 [합의수준]. 비기능 교두 48%에 최대 접촉력. 교합지 단독은 주관적 한계.
+디지털 교합분석이 교합지보다 객관적 [확인]. 비기능 교두 48%에 최대 접촉력. 교합지 단독은 주관적 한계.
 
 ## Related Papers
 - [[overviews/bruxism-muscle-overload-axis]] — 교합 진단 도구

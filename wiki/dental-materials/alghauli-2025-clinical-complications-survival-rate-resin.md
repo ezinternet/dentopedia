@@ -6,7 +6,7 @@ date: 2025-04-04
 doi: 10.1111/jerd.13471
 source: alghauli-2025-clinical-complications-survival-rate-resin.md
 category: [dental-materials]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/alghauli-2025-clinical-complications-survival-rate-resin.pdf
 pdf_filename: alghauli-2025-clinical-complications-survival-rate-resin.pdf
 source_collection: external
@@ -94,4 +94,4 @@ Clinical implication: RMC/hybrid ceramics are NOT preferred for crown restoratio
 - [[dental-materials/ali-2023-cadcam-restoration-failure-reasons-sr-ma]] — CAD/CAM failure modes SR+MA (fracture 55%, debonding 20%); mechanistic context for RMC crown failures
 - [[inlay/bresser-2023-intracoronal-restorations-longevity-sr-ma]] — intracoronal restoration longevity SR+MA; complements intracoronal RMC findings
 - [[veneers/klein-2025-ceramic-laminate-veneer-survival-complications-sr-ma]] — veneer survival SR+MA (feldspathic/leucite/LD); comparator for RMC veneer performance
-- [[dental-materials/saravi-2021-cadcam-all-ceramic-fdp-clinical-sr-ma]] — all-ceramic CAD/CAM FDP SR+MA; broader CAD/CAM ceramic context
+- [[dental-materials/ceramic/saravi-2021-cadcam-all-ceramic-fdp-clinical-sr-ma]] — all-ceramic CAD/CAM FDP SR+MA; broader CAD/CAM ceramic context

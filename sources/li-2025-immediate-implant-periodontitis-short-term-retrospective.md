@@ -35,7 +35,7 @@ source_collection: external
 Retrospective n=95 patients / 234 implants, Jinan Univ Stomatological Hospital 2017-2022; 2018 AAP/EFP Stage by CBCT MBL + Grade by annual loss rate, smoking, diabetes; atraumatic extraction + Bio-Oss + Bio-Gide; 12 month follow-up; outcomes survival, mSBI, mPLI, MBL, PPD.
 
 ## 4. Key Results
-[근거강함]
+[확인]
 - 1년 생존율: 97.86%
 - Stage IV, Grade C: 유의하게 낮은 생존
 - Postop: mSBI, mPLI 유의 차이 between Stages (p=0.002, 0.007), Grade NS
@@ -49,7 +49,7 @@ Retrospective n=95 patients / 234 implants, Jinan Univ Stomatological Hospital 2
 
 ## 6. Related Work
 - [[implants/carra-2023-primordial-primary-prevention-peri-implant-sr-ma]] — primordial prevention (treat periodontitis first).
-- [[immediate-implant/colak-2023-immediate-implant-periapical-pathology-retrospective]] — periapical immediate.
+- [[immediate-implant/infected-socket/colak-2023-immediate-implant-periapical-pathology-retrospective]] — periapical immediate.
 - [[implants/galarraga-vinueza-2025-peri-implant-disease-risk-factors]] — risk factors.
 
 ## 7. Glossary

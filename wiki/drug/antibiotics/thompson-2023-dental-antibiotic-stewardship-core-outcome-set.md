@@ -7,7 +7,7 @@ doi: ""
 journal: J Dent (international consensus)
 source: thompson-2023-dental-antibiotic-stewardship-core-outcome-set.md
 category: [drug/antibiotics]
-confidence: consensus
+evidence_level: consensus
 pdf_path: /Users/oracleneo/llm-wiki/papers/thompson-2023-dental-antibiotic-stewardship-core-outcome-set.pdf
 pdf_filename: thompson-2023-dental-antibiotic-stewardship-core-outcome-set.pdf
 source_collection: external
@@ -42,15 +42,15 @@ International Delphi consensus developing a core outcome set (COS) for dental an
 Delphi consensus; outcomes sourced via literature review; ≥30 international participants; ≥70% "critical for inclusion" threshold for COS inclusion.
 
 ## Results
-[합의수준] Core outcome set defined; specific items in paper.
+[확인] Core outcome set defined; specific items in paper.
 
 ## Limitations
 - Process-focused, not direct prescribing data
 - Local adaptation required for non-English-speaking contexts
 
 ## Related Papers
-- [[drug/sandulescu-2024-antibiotic-prescribing-dental-best-practices-review]] — implementation review.
-- [[drug/sbricoli-2024-antibiotic-prescribing-habits-dentistry-survey]] — current prescribing baseline.
-- [[drug/sutej-2024-antibiotic-prescribing-trends-dentistry-croatia]] — national trends.
-- [[drug/bazsefidpay-2023-antibiotic-restrictive-use-adherence-recommendation]] — Swedish adherence.
-- [[drug/mendez-millan-2024-antibiotic-overprescription-apical-periodontitis-sr-ma]] — endodontic overprescription.
+- [[drug/antibiotics/sandulescu-2024-antibiotic-prescribing-dental-best-practices-review]] — implementation review.
+- [[drug/antibiotics/sbricoli-2024-antibiotic-prescribing-habits-dentistry-survey]] — current prescribing baseline.
+- [[drug/antibiotics/sutej-2024-antibiotic-prescribing-trends-dentistry-croatia]] — national trends.
+- [[drug/antibiotics/bazsefidpay-2023-antibiotic-restrictive-use-adherence-recommendation]] — Swedish adherence.
+- [[drug/antibiotics/mendez-millan-2024-antibiotic-overprescription-apical-periodontitis-sr-ma]] — endodontic overprescription.

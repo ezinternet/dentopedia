@@ -6,7 +6,7 @@ date: 2016-04-23
 doi: 10.1016/j.janh.2016.04.010
 source: kim-2016-systematic-review-cervical-plexus-accessory.md
 category: [local-anesthesia]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: false
 pmid: "27480473"

@@ -6,7 +6,7 @@ date: 2023-08-09
 doi: 10.1016/j.ijscr.2023.108653
 journal: International Journal of Surgery Case Reports 110:108653
 source: grun-2023-antral-pseudocyst-15year-sinus-implant-case.md
-confidence: case-report
+evidence_level: case-report
 category: [sinus-lift/pseudocyst]
 pdf_path: /Users/oracleneo/llm-wiki/papers/grun-2023-antral-pseudocyst-15year-sinus-implant-case.pdf
 pdf_filename: grun-2023-antral-pseudocyst-15year-sinus-implant-case.pdf
@@ -54,8 +54,8 @@ Krems 대학병원 사례. 15년이라는 이례적 장기 추적은 sinus cyst 
 
 ## Strengths and Caveats
 [case-report] n=1 — 일반화 안 됨
-[근거강함] 15년 추적은 분야 최장 datapoint 중 하나
-[claude해석] AP의 dynamic radiographic 변화는 일반적 관찰 — 임상 의미 작음
+[미검증] 15년 추적은 저자들이 분야 최장 datapoint 중 하나로 소개하나, 문헌 전체와의 체계적 비교로 검증된 것은 아님
+[미검증] AP의 dynamic radiographic 변화는 일반적 관찰 — 임상 의미 작음
 [미검증] Untreated MRC (진성낭종)에 같은 결과 적용 가능 여부 — 본 case는 AP
 
 ## Related Papers

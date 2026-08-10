@@ -6,7 +6,7 @@ date: 2026-02-25
 doi: "10.1016/j.identj.2026.109444"
 source: go-2026-sterilization-methods-3d-printed-implant-surgical-guides.md
 category: [infection-control]
-confidence: in-vitro
+evidence_level: in-vitro
 text_path: /Users/oracleneo/llm-wiki/papers/go-2026-sterilization-methods-3d-printed-implant-surgical-guides.txt
 text_filename: go-2026-sterilization-methods-3d-printed-implant-surgical-guides.txt
 source_collection: pubmed-text
@@ -24,9 +24,13 @@ All 3 methods preserved clinically acceptable dimensional/positional accuracy, b
 
 Autoclave sterilization — the default, most accessible dental sterilization method — is not mechanically optimal for thermosensitive 3D-printed resin devices; sterilization-method selection for such devices requires balancing mechanical strength, dimensional stability, and optical translucency rather than defaulting to autoclave.
 
-## 한줄요약
+## 세줄요약
 
-한국(연세대) 시험관내 연구 — 오토클레이브가 3D 프린팅 서지컬 가이드에서 치수정확도·경도는 우수하나 굴곡강도는 가장 낮아(92.4 vs EO 122.5 MPa), 열민감성 레진 장치에는 오토클레이브가 항상 최선은 아님을 보였다.
+시험관내 비교연구(연세대, 한국) — 3D 프린팅 임플란트 서지컬 가이드에 오토클레이브·산화에틸렌(EO) 가스·과산화수소 가스플라즈마 멸균을 적용해 치수정확도·기계적 물성·투명도를 평가.
+
+3가지 방법 모두 임상적으로 허용 가능한 치수/위치 정확도를 유지했으나, 오토클레이브는 굴곡강도가 가장 낮았고(92.4 vs EO 122.5 MPa, p<.05) EO는 투명도를 유의하게 감소시킴(30.4% vs 대조 37.1%, p<.05).
+
+기본·최접근 멸균법인 오토클레이브가 열민감성 3D 프린팅 레진 장치에는 기계적으로 최적이 아니며, 이런 장치의 멸균법 선택은 오토클레이브를 기본값으로 두기보다 기계강도·치수안정성·투명도를 균형해야 함.
 
 ## Summary
 

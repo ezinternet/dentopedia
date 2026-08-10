@@ -6,7 +6,7 @@ date: 2024-01-01
 doi: 10.1055/s-0043-1777821
 source: opatragoon-2024-primer-applications-zirconia-bond.md
 category: [dental-materials/zirconia]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/opatragoon-2024-primer-applications-zirconia-bond.pdf
 pdf_filename: opatragoon-2024-primer-applications-zirconia-bond.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: "10.1186/s12903-025-07081-0"
 source: yurdaguven-2025-universal-adhesives-nccl-24month-rct.md
 category: resin-bonding
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/yurdaguven-2025-universal-adhesives-nccl-24month-rct.pdf
 pdf_filename: yurdaguven-2025-universal-adhesives-nccl-24month-rct.pdf
 source_collection: external

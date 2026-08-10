@@ -6,15 +6,15 @@ date: 2026-07-07
 doi: ""
 source: ""
 category: [overviews]
-confidence: synthesis
+evidence_level: synthesis
 source_collection: internal
 tags: [endodontics, primary-teeth, pulpectomy, pulpotomy, calcium-hydroxide, zoe, intracanal-medicament]
 relations:
-  - type: reinforces
+  - type: applies-to
     target: hasan-2026-rgdent-chx-caoh2-efaecalis-invitro
-  - type: reinforces
+  - type: refines
     target: najjar-2019-caoh2-iodoform-vitapex-vs-zoe-pulpectomy-sr-ma
-  - type: reinforces
+  - type: refines
     target: xiao-2026-pulpotomy-vs-pulpectomy-equivocal-primary-molars
 ---
 
@@ -58,7 +58,7 @@ Three papers converge on a unified picture of primary tooth root canal managemen
 
 ## Axis 1 — Intracanal Medicament: CHX vs RG-Dent vs Ca(OH)₂
 
-Source: [[endodontics/hasan-2026-rgdent-chx-caoh2-efaecalis-invitro]] (in-vitro, n=60 premolars, 21-day E. faecalis infection model)
+Source: [[endodontics/irrigation/hasan-2026-rgdent-chx-caoh2-efaecalis-invitro]] (in-vitro, n=60 premolars, 21-day E. faecalis infection model)
 
 ### Background
 
@@ -89,7 +89,7 @@ In-vitro model (premolars, not primary teeth); mature 21-day biofilm may not rep
 
 ## Axis 2 — Obturation Material: Ca(OH)₂/Iodoform (Vitapex/Metapex) vs ZOE
 
-Source: [[endodontics/najjar-2019-caoh2-iodoform-vitapex-vs-zoe-pulpectomy-sr-ma]] (SR+MA, 15 studies, 1,669 primary teeth)
+Source: [[endodontics/obturation/najjar-2019-caoh2-iodoform-vitapex-vs-zoe-pulpectomy-sr-ma]] (SR+MA, 15 studies, 1,669 primary teeth)
 
 ### Background
 
@@ -129,7 +129,7 @@ Only 2 high-quality studies (modified CONSORT ≥19/27 points) underlie the key 
 
 ## Axis 3 — Equivocal Pulp Status: Pulpotomy vs Pulpectomy
 
-Source: [[endodontics/xiao-2026-pulpotomy-vs-pulpectomy-equivocal-primary-molars]] (retrospective propensity-matched cohort, 312 primary molars, 156 matched pairs)
+Source: [[endodontics/vpt/xiao-2026-pulpotomy-vs-pulpectomy-equivocal-primary-molars]] (retrospective propensity-matched cohort, 312 primary molars, 156 matched pairs)
 
 ### Background
 
@@ -194,9 +194,9 @@ The practical clinical flow: meet the patient → [[overviews/primary-molar-cari
 
 ## Related Papers
 
-- [[endodontics/hasan-2026-rgdent-chx-caoh2-efaecalis-invitro]] — Axis 1 source: in-vitro E. faecalis comparative medicament study (CHX vs RG-Dent vs Ca(OH)₂, 2-day vs 7-day dwell)
-- [[endodontics/najjar-2019-caoh2-iodoform-vitapex-vs-zoe-pulpectomy-sr-ma]] — Axis 2 source: SR+MA of Vitapex/Metapex vs ZOE for primary pulpectomy (15 studies, 1,669 teeth)
-- [[endodontics/xiao-2026-pulpotomy-vs-pulpectomy-equivocal-primary-molars]] — Axis 3 source: propensity-matched cohort of pulpotomy vs pulpectomy for equivocal pulp status (312 molars, 156 pairs)
+- [[endodontics/irrigation/hasan-2026-rgdent-chx-caoh2-efaecalis-invitro]] — Axis 1 source: in-vitro E. faecalis comparative medicament study (CHX vs RG-Dent vs Ca(OH)₂, 2-day vs 7-day dwell)
+- [[endodontics/obturation/najjar-2019-caoh2-iodoform-vitapex-vs-zoe-pulpectomy-sr-ma]] — Axis 2 source: SR+MA of Vitapex/Metapex vs ZOE for primary pulpectomy (15 studies, 1,669 teeth)
+- [[endodontics/vpt/xiao-2026-pulpotomy-vs-pulpectomy-equivocal-primary-molars]] — Axis 3 source: propensity-matched cohort of pulpotomy vs pulpectomy for equivocal pulp status (312 molars, 156 pairs)
 - [[overviews/primary-molar-caries-pulp-restoration-decision-tree]] — companion overview covering upstream caries management, Hall technique, and reversible pulpitis pulpotomy decisions
-- [[wiki/endodontics/vpt/chawla-2026-pulpotomy-vs-pulpectomy-primary-teeth-sr-ma]] — SR+MA for confirmed irreversible pulpitis (2 studies, very low certainty; no difference); complements Axis 3 by providing the clearer-diagnosis comparator
-- [[wiki/endodontics/vpt/aapd-2024-vital-pulp-therapy-primary-teeth-guideline]] — AAPD guideline defining the ≤5-min hemostasis criterion that Axis 3 stress-tests in the equivocal zone
+- [[endodontics/vpt/chawla-2026-pulpotomy-vs-pulpectomy-primary-teeth-sr-ma]] — SR+MA for confirmed irreversible pulpitis (2 studies, very low certainty; no difference); complements Axis 3 by providing the clearer-diagnosis comparator
+- [[endodontics/vpt/aapd-2024-vital-pulp-therapy-primary-teeth-guideline]] — AAPD guideline defining the ≤5-min hemostasis criterion that Axis 3 stress-tests in the equivocal zone

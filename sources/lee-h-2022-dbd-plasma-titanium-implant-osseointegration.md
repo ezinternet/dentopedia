@@ -44,6 +44,8 @@ The design addresses chairside re-activation without breaking sterility, but res
 
 - Titanium implant as electrode, packaging wall as dielectric barrier → DBD plasma.
 - Numerical + experimental optimization; XPS surface chemistry; in vitro cell assays on SLA.
+- **Device parameters (added 2026-08-10, re-checked PDF for a user question on vacuum-plasma treatment times):** ACTILINK (Plasmapp) — sinusoidal 100 kHz, 3 kV; package pressure maintained 5–10 Torr; commercial implant (Straumann SLA, 4.1×10 mm) repackaged for processing. **Total treatment time: 60 s.** Device houses 3 identical plasma modules sharing one vacuum pump/pressure gauge (210×370×270 mm footprint).
+- **Contrast cited by the authors themselves:** Diener Electronic GmbH's chamber-type vacuum plasma device requires "a long treatment time of at least 10 min" using argon gas — the authors' own stated motivation for designing a faster gas-free DBD alternative. Consistent with [[wiki/implants/surface/plasma/becker-2019-lpp-app-plasma-proinflammatory-cytokines]]'s 15-min Diener Femto PCCE LPP arm (same product line).
 
 ## 4. Key Results and Benchmarks
 
@@ -65,3 +67,4 @@ The design addresses chairside re-activation without breaking sterility, but res
 
 - DBD = dielectric barrier discharge (유전체 장벽 방전). XPS = X-ray photoelectron spectroscopy.
 - Super-hydrophilic = 초친수성. SLA = sand-blasted, large-grit, acid-etched.
+- ACTILINK(Plasmapp) 60초 vs Diener 챔버형 ≥10분 — 논문 저자 스스로 Diener를 "장시간 소요"로 지목하며 자사 DBD 개발 동기로 제시.

@@ -3,7 +3,7 @@ title: "Overview: Odontogenic Maxillary Sinusitis (OMS) — Diagnosis → Source
 type: synthesis
 category: overviews
 date: 2026-06-12
-confidence: synthesis
+evidence_level: synthesis
 source_papers:
   - wiki/oral-medicine/kim-2019-definition-management-odontogenic-maxillary.md
   - wiki/oral-medicine/psillas-2020-odontogenic-maxillary-sinusitis-comprehensive-review.md
@@ -194,21 +194,21 @@ OMS의 원인 구성에서 **의인성(임플란트·SFE)이 약 55%로 1위**(D
 
 - 진단 인접: [[endodontics/diagnosis/karamifar-2020-endodontic-periapical-lesion-an-overview]] — 치근단병소 병인·진단 일반.
 - 예방·거상술 인접: [[overviews/sinus-lift-pseudocyst-mrc-overview]] — 상악동 병변 동반 거상술 결정 트리.
-- 항생제 스튜어드십: [[drug/lockhart-2019-antibiotic-pulpal-periapical-pain-swelling]], [[drug/teoh-2021-oral-antibiotic-empirical-acute-dentoalveolar-infections]] — "항생제보다 감염원 제거" 원리의 약물 측 근거.
+- 항생제 스튜어드십: [[drug/antibiotics/lockhart-2019-antibiotic-pulpal-periapical-pain-swelling]], [[drug/antibiotics/teoh-2021-oral-antibiotic-empirical-acute-dentoalveolar-infections]] — "항생제보다 감염원 제거" 원리의 약물 측 근거.
 
 ## Source Papers
 
-- [[oral-medicine/kim-2019-definition-management-odontogenic-maxillary]]
-- [[oral-medicine/psillas-2020-odontogenic-maxillary-sinusitis-comprehensive-review]]
-- [[oral-medicine/craig-2022-odontogenic-sinusitis-state-art]]
-- [[oral-medicine/de-corso-2022-sinonasal-complications-dental-disease]]
-- [[oral-medicine/lin-2024-odontogenic-maxillary-sinusitis-expert-consensus]]
-- [[oral-medicine/bisla-2022-odontogenic-infections-maxillary-sinus-changes]]
+- [[oral-medicine/odontogenic-sinusitis/kim-2019-definition-management-odontogenic-maxillary]]
+- [[oral-medicine/odontogenic-sinusitis/psillas-2020-odontogenic-maxillary-sinusitis-comprehensive-review]]
+- [[oral-medicine/odontogenic-sinusitis/craig-2022-odontogenic-sinusitis-state-art]]
+- [[oral-medicine/odontogenic-sinusitis/de-corso-2022-sinonasal-complications-dental-disease]]
+- [[oral-medicine/odontogenic-sinusitis/lin-2024-odontogenic-maxillary-sinusitis-expert-consensus]]
+- [[oral-medicine/odontogenic-sinusitis/bisla-2022-odontogenic-infections-maxillary-sinus-changes]]
 - [[endodontics/diagnosis/dumitrescu-2021-cbct-periapical-lesions-maxillary-sinus]]
 - [[oral-surgery/oliva-2024-oroantral-communication-fistula-treatment-sr-ma]]
 - [[oral-surgery/kwon-2020-closure-oroantral-fistula-local]]
 - [[oral-surgery/lazow-1999-oroantral-fistula-flap-procedures]]
-- [[oral-medicine/albu-2025-treatment-landscape-odontogenic-sinusitis]] — 2025 종합 리뷰; 항생제 비치료적·치과+ESS 병행 ~97% 성공으로 source-control-first 명제 재확인
+- [[oral-medicine/odontogenic-sinusitis/albu-2025-treatment-landscape-odontogenic-sinusitis]] — 2025 종합 리뷰; 항생제 비치료적·치과+ESS 병행 ~97% 성공으로 source-control-first 명제 재확인
 - [[sinus-lift/lateral/craig-2024-ent-oral-surgeon-collaboration-sinus-elevation]] — Felisati 5등급 ENT 협진 적응증; ≥3등급(OMC 폐쇄·부비동염·진균)만 협진, 점막비후·MRC 단독은 불요
 - [[sinus-lift/lateral/kim-2019-maxillary-implants-otolaryngologist-perspective]] — ENT 관점 술전 평가; 자연공 개존이 핵심 결정 변수; 술후 만성부비동염 ~5%; CT 기반 관리 플로차트
 - [[sinus-lift/lateral/nam-2014-fess-intraoral-implant-related-sinusitis]] — 임플란트 >4 mm 돌출·자연공 폐쇄 부비동염; FESS + 구강내 병용 협동 수술; 10개월 완전 회복

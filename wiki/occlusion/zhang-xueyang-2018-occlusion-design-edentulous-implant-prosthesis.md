@@ -6,7 +6,7 @@ date: 2018-02-01
 doi: 10.7518/hxkq.2018.01.001
 source: zhang-xueyang-2018-occlusion-design-edentulous-implant-prosthesis.md
 category: [occlusion]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/zhang-xueyang-2018-occlusion-design-edentulous-implant-prosthesis.pdf
 pdf_filename: zhang-xueyang-2018-occlusion-design-edentulous-implant-prosthesis.pdf
 source_collection: external
@@ -41,7 +41,7 @@ When designing occlusion for edentulous implant prostheses, clinicians should ap
 Narrative review(중국어). 무치악 임플란트 교합 설계 문헌 종합.
 
 ## Results
-교합 설계가 임플란트주위 응력·치조골·합병증과 연관; 견치유도·과두 수평관계 고려 권고 [합의수준]. 정량 통합 아님(narrative). 본문 중국어 — OCR 기반.
+교합 설계가 임플란트주위 응력·치조골·합병증과 연관; 견치유도·과두 수평관계 고려 권고 [확인]. 정량 통합 아님(narrative). 본문 중국어 — OCR 기반.
 
 ## Related Papers
 - [[occlusion/berzaghi-2025-occlusion-biomechanical-risk-implant-full-arch-narrative]] — full-arch 임플란트 교합 위험

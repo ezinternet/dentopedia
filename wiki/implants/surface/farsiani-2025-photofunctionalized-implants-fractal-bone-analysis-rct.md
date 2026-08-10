@@ -6,7 +6,7 @@ date: 2025-07-01
 doi: 10.1186/s12903-025-06330-6
 source: farsiani-2025-photofunctionalized-implants-fractal-bone-analysis-rct.md
 category: [implants/surface]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: true
 pmid: "40598042"

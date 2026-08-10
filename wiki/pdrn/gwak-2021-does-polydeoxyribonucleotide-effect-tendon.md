@@ -6,7 +6,7 @@ date: 2021-01-01
 doi: 10.1097/MD.0000000000025792
 source: gwak-2021-does-polydeoxyribonucleotide-effect-tendon.md
 category: [pdrn]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/gwak-2021-does-polydeoxyribonucleotide-effect-tendon.pdf
 pdf_filename: gwak-2021-does-polydeoxyribonucleotide-effect-tendon.pdf
 source_collection: external

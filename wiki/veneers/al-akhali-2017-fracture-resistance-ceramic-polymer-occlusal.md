@@ -6,7 +6,7 @@ date: 2017-10-01
 doi: 10.1016/j.jmbbm.2017.06.013
 source: al-akhali-2017-fracture-resistance-ceramic-polymer-occlusal.md
 category: veneers
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/al-akhali-2017-fracture-resistance-ceramic-polymer-occlusal.pdf
 pdf_filename: al-akhali-2017-fracture-resistance-ceramic-polymer-occlusal.pdf
 source_collection: external

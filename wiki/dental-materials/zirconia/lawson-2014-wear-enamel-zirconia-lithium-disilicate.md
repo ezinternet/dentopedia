@@ -6,7 +6,7 @@ date: 2014-09-23
 doi: 10.1016/j.jdent.2014.09.008
 source: lawson-2014-wear-enamel-zirconia-lithium-disilicate.md
 category: [dental-materials/zirconia]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/lawson-2014-wear-enamel-zirconia-lithium-disilicate.pdf
 pdf_filename: lawson-2014-wear-enamel-zirconia-lithium-disilicate.pdf
 source_collection: external

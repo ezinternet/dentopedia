@@ -6,7 +6,7 @@ date: 2020-11-12
 doi: "10.3390/ma13225109"
 source: matys-2020-dental-aerosol-hazard-risk-dental.md
 category: [dental-handpiece]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: true
 pmid: "33198307"

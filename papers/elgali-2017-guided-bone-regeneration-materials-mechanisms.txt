@@ -1,0 +1,747 @@
+Rehabilitation of edentulism using osseointegrated implants has revolutionized the field of dentistry and improved patients’ quality of life. Nevertheless, bone loss or insufficiency, as a hallmark of several systemic and periodontal diseases, trauma, and tumors, remains a major challenge for osseointegration. To achieve a good long‐term prognosis for osseointegrated implants, a sufficient volume of bone should exist at the sites of implantation. Different strategies, such as bone‐grafting techniques, alveolar distraction, and guided bone regeneration (GBR), have been applied to restitute the lost bone to allow the implant to be fully integrated and maintained during functional loading,,,. Guided bone regeneration is considered as one of the methods most commonly applied to reconstruct alveolar bone and to treat peri‐implant bone deficiencies,,,. Guided bone regeneration has been defined(Fig.) as:
+
+…principle of GBR using barrier membranes, either resorbable, to exclude certain cell types such as rapidly proliferating epithelium and connective tissue, thus promoting the growth of slower‐growing cells capable of forming bone. GBR is often combined with bone grafting procedures…
+
+Guided bone regeneration is presumed to be achieved when the osteoprogenitor cells are exclusively allowed to repopulate the bone defect site by preventing the entry of non‐osteogenic tissues,. It has been estimated that up to 40% of osseointegrated implants require GBR as part of the patient's rehabilitation. Several reports have indicated that the survival rates of implants placed in the sites augmented by GBR are similar to those reported for implants placed in pristine sites,,. The survival rate of implants placed in augmented sites varied between 79% and 100%, with the majority of studies indicating a survival rate of more than 90% after at least 1 yr of function.
+
+The membrane used for GBR is an essential component of the treatment. Different materials and modifications thereof have been used (Table). The desirable characteristics of the membrane utilized for GBR therapy include biocompatibility, cell‐occlusion properties, integration by the host tissues, clinical manageability, space‐making ability, and adequate mechanical and physical properties. Non‐resorbable membranes, mainly polytetrafluoroethylene (PTFE) in its expanded form (e‐PTFE), constituted the first generation of barrier membranes. In general, these types of membrane demonstrate biocompatibility and space‐making capacity. However, non‐resorbable membranes need a second surgical intervention for membrane removal. Subsequently, a second generation of membranes made of resorbable materials was developed and became widely used in different clinical situations. Recently, efforts have been made to develop a new generation of membranes by using naturally derived membranes or employing principles of tissue engineering during membrane preparation,. Furthermore, the use of membranes in the defect, together with bone grafts and substitute materials, is now commonly used to provide structural support to the defect site and to promote the intrinsic regenerative potential of the host tissue.
+
+The major components of the treatment with GBR are the membrane properties and the biological responses. Here, many of the future strategies involve modifications of the membrane to promote appropriate responses (e.g. a predictable regeneration of bone, adequate soft‐tissue reactions, and efficient handling of microbial adhesion and colonization during GBR treatment). The aims of this review were: (i) to provide a comprehensive overview of attempted modifications of membrane properties and the resulting biological effects; and (ii) to provide a critical assessment of the biological mechanisms governing bone regeneration in defects covered by membranes.
+
+Figure 1
+
+Schematic illustration of the principle of guided bone regeneration ().
+
+Table 1
+
+Classification of guided bone regeneration (GBR) membranes according to type of biomaterial
+
+Membrane groups/materials
+
+Main advantages
+
+Main disadvantages
+
+Synthetic polymers
+
+Polytetrafluoroethylene
+
+Inert and stable polymer in the biological system
+
+Non‐resorbable
+
+Aliphatic polyesters (e.g. PLA, PGA, and PCL)
+
+BioresorbabilityGood processability and manageabilityDrug‐encapsulating ability
+
+Lack of rigidity and stability
+
+Natural polymers
+
+Collagen and extracellular matrices derived from bovine, porcine and human tissues
+
+BioresorbabilityLow immunogenicityDrug‐encapsulating abilityIncorporation of biological components
+
+Chitosan
+
+Alginate
+
+Metals
+
+Titanium and titanium alloy
+
+High toughness and plasticity
+
+Non‐resorbable
+
+Cobalt–chromium alloy
+
+Inorganic compounds
+
+Calcium sulfate
+
+BioresorbabilityOsteoconductivity
+
+Low toughness and plasticity
+
+Calcium phosphate (e.g. hydroxyapatite)
+
+PCL, poly(‐caprolactone); PGA, poly(glycolic acid); PLA, poly(lactic acid).
+
+John Wiley & Sons, Ltd
+
+Literature search and inclusion criteria
+
+A survey of the literature, without limitation regarding the year of publication, was conducted using the medical databases MEDLINE/PubMed. The survey was supplemented by cross‐checking the bibliographies of relevant review articles. Articles that were published before 16 June 2016 were included. The search strategy was limited to in vitro, in vivo, and human studies that reported data on GBR. Studies using a barrier membrane for treatment of periodontal defects [guided tissue regeneration (GTR)], peri‐implantitis, and periapical lesions were excluded.
+
+Clinical applications of GBR
+
+Although this review was not dedicated to the clinical outcomes of different treatment modalities of GBR, there is the need to provide a short background of the major clinical indications for GBR treatment. The reader interested in the details of the clinical applications and results is referred to several comprehensive literature surveys,,,,. Resorption of alveolar bone jeopardizes the structural, functional, and esthetic outcomes of implant treatment. After loss of dentition, alveolar bone resorption takes place initially in a horizontal direction, within the first 6 months, and later in a vertical direction. Several strategies exist to augment alveolar bone deficiencies, including GBR, onlay and inlay grafting, distraction osteogenesis, ridge splitting, free vascularized autografts, and grafting of the maxillary sinus. The severity of bone loss and configuration of the bone defects determine the type, extent, and prognosis of the bone‐augmentation treatment. Although clinical data show a high survival rate of implants placed in augmented bone, several of the techniques lack long‐term clinical documentation. In addition, it has been indicated that bone augmentation is still challenging in vertical bone defects and advanced horizontal atrophy,. Guided bone regeneration is a successful, well‐documented, and widely usedprocedure for treatment of alveolar bone defects in conjunction with implant treatment. A systematic review reported 95% implant survival after a horizontal or vertical GBR procedure.
+
+Currently, GBR implies the use of different types of membrane (resorbable and non‐resorbable) in conjunction with different bone‐filling materials. The choice of materials is largely dependent on the size and configuration of the bone defect. A proposal for clinical classification and recommendation for suitable GBR techniques has been suggested.
+
+Clinical studies demonstrate that GBR is predictable and successful for horizontal defect augmentation and in most situations this can be achieved using either non‐resorbable or resorbable membranes(Fig.). Resorbable membranes have been considered as user‐friendly. Furthermore, although superior outcome has been revealed using non‐resorbable membranes, several reports indicate that such membranes are susceptible to higher complication rates,. This has mostly been associated with exposure through the soft tissue,. A plausible explanation for this complication has been the tension in the soft tissue, in combination with lack of vascular supply. However, the exact mechanisms for membrane exposure are still not fully understood. In the case of exposure of resorbable membranes, spontaneous healing has often been noted, which is possibly a result of the rapid degradation of the membrane rather than regrowth of soft tissue.
+
+Although horizontal ridge augmentation has had a more predictable outcome than vertical ridge augmentation, beneficial effects of GBR using non‐resorbable e‐PTFE membranes for vertical ridge augmentation have been indicated in many reports,,(Fig.). Clinical studies have also used titanium‐reinforced e‐PTFE membrane, in combination with bone‐filling materials, to enhance vertical bone augmentation,,,,. Although non‐resorbable membranes have been more commonly used for vertical bone defects, recent clinical studies showed promising results with the use of resorbable collagen‐based membranes,. As mentioned earlier, the major complication related to non‐resorbable membranes is exposure through the soft tissue,. This, in particular, has been more commonly encountered in conjunction with vertical ridge augmentation, in which the lack of soft tissue is clinically considered a limiting factor. In order to improve the GBR outcome, especially in challenging indications, bioactive regenerative approaches have been discussed, such as the application of recombinant growth factors in conjunction with GBR,. A clinical study indicated that the addition of recombinant human platelet‐derived growth factor‐BB (rhPDGF‐BB) with bone grafting material under resorbable membrane positively influenced soft‐tissue healing and provided better preservation of the regenerated bone after 1 yr of implant loading. However, solid clinical evidence on the effect of added growth factors is lacking and the development of this field has been somewhat restricted owing to regulatory issues in different parts of the world.
+
+Platelet concentrates, including platelet‐rich plasma and platelet‐rich fibrin, have been introduced as additional stimuli for bone regeneration. Initially, platelet concentrates were used as autologous scaffolds for GBR and other maxillofacial applications,,,,. Platelet concentrates are derived from the patient's own blood and contain platelets and leukocytes with the potential of secreting different growth factors and cytokines, thereby accelerating wound healing,,. Platelet‐rich fibrin has been suggested to be a bioactive membrane for GBR but only a few clinical reports on this topic have been published,,,. Tentatively, the mechanical properties and the degradation of such membranes may be a concern. Recently,and coworkers succeeded in reducing the rate of biodegradation of the platelet‐rich fibrin membrane using a heat‐compression technique which did not sacrifice its biocompatibility. Hitherto, the use of platelet‐rich fibrin membranes is less well‐documented for GBR than for GTR.
+
+Taken together, clinical studies, meta‐analyses, and systematic reviews show successful outcomes with GBR procedures for alveolar bone augmentation and implant placement. However, some clinical situations remain challenging, especially in cases of vertical and advanced horizontal alveolar bone atrophy. In most of the clinical studies, non‐resorbable e‐PTFE‐based membranes or resorbable collagen‐based membranes were used, and the evolution of these membranes was mainly driven by the sought‐for barrier function, the user friendliness, and the ease of handling in different clinical situations, rather than a systematic approach to improve the biological outcomes. On the other hand, in the following section, mainly experimental studies show possibilities to modify the GBR membrane materials and their properties, which may influence the biological response.
+
+Figure 2
+
+Horizontal bone augmentation by guided bone regeneration () in the anterior maxilla. (A) Horizontal bone defect after trauma to the upper jaw. (B) Placement of expanded polytetrafluoroethylene (e‐) barrier membrane after filling the defect with Bio‐Oss bone substitute. (C) Insertion of implant in the regenerated bone 7 months after theprocedure. (D, E) Photograph and radiograph show the final restoration after 1 yr in function (Courtesy of Drs).
+
+Figure 3
+
+Vertical bone augmentation by guided bone regeneration () in the posterior mandible. (A–D) The defect is filled with autogenous bone particles and blocks and covered with titanium (Ti)‐reinforced expanded polytetrafluoroethylene (e‐) membrane. (E) Surgical re‐entry showing the regenerated bone site. (F) The prosthetic construction in place. (G) Panoramic radiograph at the re‐entry. Published by permission from the.
+
+Membrane properties and their modifications
+
+Chemistry
+
+Guided bone regeneration membranes have been manufactured using a variety of materials that can be classified as synthetic polymers, natural polymers, metals, and inorganic compounds (Table).
+
+Synthetic polymers
+
+The first reported synthetic polymer used for GBR was e‐PTFE; it is considered to be one of the most inert, stable polymers in the biological system. It resists breakdown by host tissues and does not elicit immunological reactions. The chemical stability of e‐PTFE maintains the structural integrity and the tissue‐exclusion function of the membrane. However, exposure of e‐PFTE to the oral cavity leads to migration of microorganisms and bacterial infection, which can compromise bone augmentation and osseointegration,. Aliphatic polyesters is another category of synthetic polymers that have been used for preparation of GBR membrane; these include poly(lactic acid) (PLA), poly(glycolic acid) (PGA), poly(‐caprolactone) (PCL), poly(hydroxyl valeric acid), poly(hydroxyl butyric acid), and their copolymers,. The main advantages of these types of polymeric membranes are their manageability, processability, tuned biodegradation, and drug‐encapsulating ability,. However, their degradation might elicit a strong inflammatory response, leading to resorption of the regenerated bone,. Their lack of rigidity and stability may, in some applications, be considered as major disadvantages. The high degradation rate of the aliphatic polyesters reduces the available function time of the barrier membrane and its space‐making ability, which may affect the outcome of bone regeneration. Nevertheless, studies have indicated successful use of the polyester‐based membranes in preserving and augmenting the alveolar bone after loss of dentition,. In fact, the resorption rate of these types of membranes is largely dependent on the type of polymer used. For example, PCL is characterized by higher hydrophobicity and lower water‐solubility than PLA or PGA. Furthermore, membranes based on copolymers (e.g. lactide,‐caprolactone, glycolide, and trimethylene carbonate) have been suggested to reduce the resorption rate. For example, a commercial product, called Vivosorb (Polyganics, Groningen, the Netherlands), consisting of poly(DL‐lactide‐ε?‐caprolactone), originally used as a nerve guide, was considered for GBR because of its low degradation rate and space‐maintaining capability.
+
+Natural polymers
+
+Collagen‐based membranes are the most commonly used naturally derived membranes for GBR. These membranes have received major attention by virtue of collagen being the principal component of connective tissues and having important roles with respect to structural support and being an important component in cell–matrix communication. Collagen has a large number of features that render this material interesting for GBR applications (Table). Although comparable clinical outcomes between collagen membranes and non‐resorbable membranes have been indicated, other studies have suggested that collagen membranes may promote even better wound healing and bone regeneration. The main disadvantage of collagen membranes is their lack of rigidity and thereby their use is more applicable to the types of alveolar bone defects, such as bone dehiscence and fenestration, which do not require extra fixation and stability,,. Currently, many types of collagen membranes are commercially available for GBR.
+
+Collagen membranes are derived from different bovine and porcine tissues (e.g. tendon, dermis, and small intestine), and their degradation varies depending on the animal source. The rate of degradation of collagen membrane might not meet the duration required for optimal tissue regeneration. A number of different methods of physical/chemical cross‐linking have been utilized to enhance the mechanical properties of the collagen membrane and slow their degradation,. These methods include ultraviolet (UV) radiation, and treatment with chemical solutions such as genipin (Gp), glutaraldehyde, and 1‐ethyl‐3‐(3‐dimethylaminopropyl) carbodiimide hydrochloride (EDC). Although chemical cross‐linking has resulted in improvement of collagen stability, residues of chemicals (e.g. amides or aldehydes) have been reported to induce severe inflammation at the implantation site,,. Therefore, the predictability of the collagen membrane not only depends on the origin of the collagen material but also on the preparation and processing procedures (de‐cellularization, sterilization, and method of cross‐linking). Natural compounds, such as Gp and D‐ribose, have been suggested as safe, nontoxic, non‐immunogenic, cross‐linking agents to provide collagen membrane with a high mechanical strength and a low degradation rate,,,,.
+
+Collagen‐based membranes have also been derived from humans. Acellular dermal matrix (ADM) is derived from human skin after removal of the epidermis and all dermal cells. It has been shown that the structure of collagen and elastin of the extracellular matrix (ECM), as well as the endogenous growth factors, are preserved in ADM after decellularization,,. Biomechanical analyses have shown that ADM has better strength and stiffness than cellular dermal membrane. Moreover, ADM has been clinically applied for preservation of alveolar ridges and for treatment of peri‐implant defects,,,. Other types of collagen membranes have been derived from human pericardium and dura mater,. There have also been attempts to use the human amnion membranes for making biocompatible membranes using decellularization and sterilization techniques,. Lyophilized multilayered amniotic membrane preserves the structural and mechanical properties of the amnion ECM and has good flexibility in adjusting the thickness and mechanical properties. This particular membrane has been suggested to promote bone growth whilst limiting fibrous tissue invasion.
+
+Chitosan is another natural derived polymer used for preparation of GBR membranes. This material is made of copolymers of glucosamine (b‐1, 4‐linked 2‐amino‐2‐deoxy‐‐glucose) and‐acetylglucosamine (2‐acetamido‐2‐deoxy‐‐glucose), and can be derived by partial deacetylation of chitin. The latter material exists in crustacean shells (i.e. that of shrimp and crab) and has a role analogous to that of collagen in higher animals. Chitosan possess important material properties, including biocompatibility, biodegradability, low immunogenicity, and a bacteriostatic effect. The degradation rate of chitosan membranes depends on their molecular weight as well as on the preparation methods. As collagen, chitosan can be cross‐linked using glutaraldehyde and Gp. However, because of the toxicity of glutaraldehyde and the high cost of Gp, ionic cross‐linking using sodium tripolyphosphate (TPP) has been suggested as an alternative cross‐linking method.
+
+Alginate membranes have also been introduced for GBR. Alginate is a biocompatible, anionic polymer that can be obtained from brown seaweed and achieves a similar structure to extracellular matrices when cross‐linked to hydrogels. Although there is evidence indicating that both chitosan‐ and alginate‐based membranes promote bone regeneration in experimental bone defects and are suitable materials for GBR,,,,,,,,,, no papers describing the clinical results were found in the literature.
+
+Metals
+
+Titanium is a commonly used material in dentistry, craniomaxillofacial surgery, and orthopedics. Among its properties are biocompatibility, high strength and rigidity, low density and weight, the ability to withstand high temperatures, and resistance to corrosion. The use of titanium for GBR was inspired from a successful outcome of using a titanium mesh for reconstruction of maxillofacial defects. Several studies have shown that using a titanium mesh alone or with bone substitutes is an effective procedure for localized alveolar ridge augmentation prior to, or simultaneously with, implant placement,,,,,,,,,,,,,,,,,,,,. Occlusive titanium and micro‐perforated titanium membrane have also been introduced and used for treatment of peri‐implant bone defects and ridge augmentation,,,,,. The similarities and differences in biocompatibility and tissue performance between commercially pure titanium and the titanium alloys have recently been reviewed. Few studies have compared the biocompatibility of titanium with other membrane materials. There is experimental evidence that titanium elicits less persistent inflammation than PTFE. Furthermore, cobalt–chromium (CoCr)‐based alloy has also been suggested for GBR. Although this alloy is known to be less biocompatible than titanium and titanium alloy, it has superior mechanical properties (e.g. stiffness and toughness). The potential use of CoCr alloy for GBR has been evaluated in a recent animal study but it has not yet been documented in any clinical report. The results show that placement of CoCr membrane on a rabbit tibial defect provides sufficient space and promotes bone regeneration.
+
+Inorganic components
+
+Calcium sulfate (CaS) is one of the few inorganic compounds that have been used to make the main bulk of GBR membranes,,,,. It is a biocompatible, osteoconductive, and bioresorbable material. It occurs in the natural environment and can also be produced by different synthetic methods. In brief, CaS‐based membranes are made by hydration of CaS‐hemihydrate powder (Plaster of Paris), which produces a paste that can be molded and set to a rigid material with relatively stable and less resorbable crystals,.
+
+Furthermore, hydroxyapatite (HA)‐based membrane has also been suggested for GBR. Hydroxyapatite is the calcium phosphate material most widely used for bone applications because of its similarity to the bone mineral, biocompatibility, and osteoconductivity. Furthermore, HA is less resorbable than many other calcium phosphate materials. Although HA is considered a relatively brittle material, it has demonstrated adequate mechanical properties, allowing the membrane to withstand static pressure from the soft tissue and thereby preserving more space for bone regeneration.
+
+Hydroxyapatite‐incorporated membranes have been shown to promote the functional activity of stromal cells and osteoblast‐like cells in vitro,,,(Table) and induce bone formation in vivo,,, in combination with non‐resorbable (Table) and resorbable (Table) membranes. The HA powder used for preparation of pure ceramic membrane or other types of membrane has also been combined with bioactive ions, including strontium,, silver, and zinc(Table), to enhance their biological performance in vivo.
+
+Other ceramic materials, such as beta‐tricalcium phosphate (‐TCP), have been incorporated in resorbable membranes and have demonstrated pro‐osteogenic effects in vitro and in vivo. Moreover, the addition of bioactive glass nanoparticles to bioresorbable membranes has been shown to enhance the cell metabolic activity and mineralization in vitro,,,. Enhancement of bone regeneration was found with a collagen membrane with bioactive glass in comparison with the native collagen membrane, whereas a limited osteopromotive effect was demonstrated with resorbable composite membrane of polyethylene oxide terephthalate and polybutylene terephthalate copolymer (Polyactive 70/30, IsoTis, Bilthoven, the Netherlands) combined with bioactive glass No. 13–93 (AbminTechnologies, Turku, Finland) in a rabbit maxillary alveolar cleft model.
+
+Table 2
+
+In vitro studies evaluating membranes after modification of the physicochemical properties
+
+Membrane type
+
+Modification
+
+Cell type
+
+Experimental groups (membrane materials)
+
+Main findings
+
+Ref.
+
+Non‐resorbable (e‐PTFE or PA‐66)
+
+Non‐expanded (PTFE) with small internodal distances (pores) 0.2m
+
+Periodontal pathogenic bacteria
+
+Collagen
+
+e‐PTFE
+
+PTFE
+
+The PTFE and e‐PTFE membranes showed comparable bacterial adhesion
+
+Lower bacterial adhesion on PTFE than collagen membrane
+
+169
+
+Incorporation of nano‐HA
+
+Osteoblast‐like cells (MG63)
+
+e‐PTFE
+
+Nano‐HA‐PA66 composite
+
+The degree of cell proliferation on the nano‐HA‐PA‐66 membrane was higher than on the control e‐PTFE
+
+131
+
+Resorbable (natural or synthetic polymers)
+
+Membrane surface modification
+
+Human osteoblasts
+
+Staphylococcus aureus
+
+PHB membrane
+
+NaOH‐treated PHB membrane
+
+Treating the membrane with NaOH increased osteoblast proliferation and inhibited more than 60% of bacterial growth
+
+230
+
+Incorporation of calcium phosphate materials such as HA and‐TCP
+
+Osteoblastic cell line (MC3T3‐E1)
+
+Chitosan membrane with different HA ratios (0%, 10%, 30%, 40%, 50%, and 60%)
+
+The HA‐chitosan membranes with ≤ 40% HA exhibited a higher level of the osteogenic marker ALP
+
+86
+
+ADSCs
+
+PCL/PLGA
+
+PCL/PLGA/‐TCP
+
+PCL/PLGA/‐TCP membranes increased adhesion, proliferation, and osteogenic differentiation of ADSC
+
+139
+
+Osteoblastic cell line (MC3T3‐E1)
+
+Pure chitosan
+
+HA‐collagen
+
+Three‐layered membrane (middle chitosan layer)
+
+Higher level of proliferation and ALP activity on the three‐layered membranes and the collagen/HA composite membranes, compared with the pure chitosan membrane
+
+156
+
+Osteoblastic cell line (MC3T3‐E1)
+
+Poly‐‐lysine hydrobromide surface
+
+Collagen
+
+Nano‐HA‐collagen
+
+Inclusion of nano‐HA agglomerates in the collagen fibers improved the adhesion and metabolic activity of the cells
+
+133
+
+Osteoblastic cell line (MC3T3‐E1)
+
+Pure PLGA
+
+Three‐layered nano‐ HA/collagen/ PLGA
+
+Cells showed higher affinity on the three‐layered membrane compared with the PLGA membrane
+
+231
+
+Human MSCs
+
+PCL
+
+HA‐PCL
+
+PCL functionalized with amine (DMAEA) or anhydride (MAGMA)
+
+Functionalized PCL incorporated with HA
+
+HA in the pure and functionalized membranes increased growth and adhesion of the MSCs
+
+Higher ALP activity was observed with DMAEA/HA‐PCL and MAGMA/HA‐PCL compared with pure polymers
+
+132
+
+Rat BMSCs
+
+Collagen
+
+Sr‐HA in gelatin
+
+Sr‐HA membrane exhibited higher elasticity, strength, and cellular ALP activity compared with collagen
+
+136
+
+Incorporation of BG
+
+Osteoblastic cell line (MC3T3‐E1)
+
+PCL
+
+Nanofibrous BG‐incorporated PCL
+
+Presence of BG significantly increased the expression of ALP
+
+140
+
+Human BMSCs
+
+Chitosan
+
+Chitosan with BG nanoparticles
+
+Addition of BG decreased the mechanical properties, but promoted cell activity and mineralization
+
+142
+
+Human BMSCs
+
+Periodontal ligament cells
+
+Polystyrene (cell‐culture surface)
+
+PDLLA
+
+BG‐PDLLA
+
+Presence of BG in PDLLA increased cell adhesion, proliferation and differentiation, and the production and mineralization of ECM
+
+143
+
+‐TCP, beta‐tricalcium phosphate; ADSC, adipose‐derived stem cell; ALP, alkaline phosphatase; BG, bioactive glass; BMSC, bone marrow stromal cell; DMAEA, dimethylaminoethylacrylate; e‐PTFE, expanded polytetafluoroethylene; ECM, extracellular matrix; HA, hydroxyapatite; MAGMA, maleic anhydride and glycidyl–methacrylate; MSC, mesenchymal stem cell; NaOH, sodium hydroxide; PA66, polyamide 66; PCL, polycaprolactone; PDLLA, poly(d,l‐lactic acid); PHB, [poly()‐3‐hydroxybutyric acid]; PLGA, poly(lactide‐co‐glycolide); PTFE, polytetrafluoroethylene; Sr, strontium.
+
+John Wiley & Sons, Ltd
+
+Table 3
+
+Experimental in vivo studies evaluating the performance of non‐resorbable membranes after modifications of the physicochemical properties
+
+Membrane type/modification
+
+Experimental model
+
+Experimental groups (membrane and/or graft materials)
+
+Main findings
+
+Ref.
+
+e‐PTFE/embedding of titanium framework in the membrane
+
+Peri‐implant defect in mandible (dog)
+
+e‐PTFE membrane
+
+Ti‐reinforced e‐PTFE membrane
+
+Ti reinforcement resulted in:
+
+146
+
+e‐PTFE or Ti/changing the porosity of the membrane
+
+Denuded calvarial site (rat)
+
+Less porous e‐PTFE dome (8m ID)
+
+More porous e‐PTFE dome (20–25m or 100m ID)
+
+More porous membranes showed:
+
+158
+
+Supra‐alveolar defect (dog)
+
+e‐PTFE
+
+e‐PTFE with 300m laser‐drilled pores
+
+Sites receiving the occlusive membrane showed greater bone regeneration compared with sites with a porous membrane
+
+161
+
+Mandibular ramus (rat)
+
+Autogenous bone
+
+Resorbable PLDLLA mesh cube + autogenous bone
+
+Microporous Ti mesh cube (0.6 mm pore size) + autogenous bone
+
+Macroporous Ti mesh cube (1.2 mm pore size) + autogenous bone
+
+Macroporous membrane facilitated greater bone regeneration compared with microporous and resorbable mesh (membrane)
+
+162
+
+Calvaria (rabbit)
+
+Ti cylinder covered with e‐PTFE (semipermeable)
+
+Ti cylinder sealed with cast titanium (impermeable)
+
+New bone was observed in both cases. It was suggested that membrane permeability is unnecessary in GBR
+
+165
+
+Calvaria (rat)
+
+e‐PTFE dome (5m ID)
+
+e‐PTFE dome (8m ID)
+
+e‐PTFE dome (100–300m ID)
+
+PLGA dome
+
+PTFE with 100–300m pores permits soft‐tissue invasion, but also allows more bone formation at the healing site
+
+174
+
+Mandibular ramus (rat)
+
+Permeable PTFE capsule + DBM
+
+Occlusive PTFE capsule + DBM
+
+Comparable amount of bone formation was observed in the two groups
+
+178
+
+PTFE/use of non‐expanded material (d‐PTFE)
+
+Calvarial defect (rabbit)
+
+Semipermeable e‐PTFE
+
+d‐PTFE
+
+Whereas the d‐PTFE membrane was much easier to detach from the underlying bone, e‐PTFE showed faster and higher levels of bone regeneration
+
+160
+
+Mandibular defect (rat)
+
+Sham
+
+d‐PTFE membrane
+
+After 10 wk of healing, whereas very little osseous regeneration was observed in sham sites, complete ossification was observed in the d‐PTFE‐treated sites
+
+166
+
+Calvarial defect (rat)
+
+Sham
+
+PLA/citric acid ester base membrane
+
+e‐PTFE membrane
+
+d‐PTFE membrane (0.2m ID)
+
+d‐PTFE showed more bone formation than both e‐PTFE and PLA/citric acid ester membrane at 2 wk and 4 wk of healing, respectively
+
+d‐PTFE required less force to be removed from the soft tissues
+
+172
+
+Incorporation of calcium phosphate material (HA)
+
+Calvarial defect (rat)
+
+Sham
+
+e‐PTFE membrane
+
+Nano HA‐polyamide 66 composite membrane
+
+Bone volume was higher in the membrane groups and no differences were observed between the two membrane types
+
+131
+
+DBM, demineralized bone matrix; d‐PTFE, dense polytetrafluoroethylene; e‐PTFE, expanded polytetrafluoroethylene; GBR, guided bone regeneration; HA, hydroxyapatite; ID, internodal distance; Ti, titanium; PLA, polylactic acid; PLDLLA, copolymer of poly(‐lactide‐co‐‐lactide); PLGA, poly(lactide‐co‐glycolide).
+
+John Wiley & Sons, Ltd
+
+Table 4
+
+Experimental in vivo studies evaluating the performance of resorbable membranes after modifications of the physicochemical properties
+
+Modification
+
+Experimental model
+
+Experimental groups (membrane and/or graft materials)
+
+Main findings
+
+Ref.
+
+Increasing molecular weight of the polymer
+
+Calvarial defect (rabbit)
+
+PLLA membrane with different molecular weights
+
+PLLA mw 380000 membrane showed:
+
+157
+
+Changing the pore size
+
+Calvarial defect (rat)
+
+Sham
+
+Stiff polyoxymethylene plastic plate
+
+Polyester meshes with different porosities (10, 25, 50, 75, 100, and 300m)
+
+Placement of polyester meshes with perforations exceeding 10m resulted in faster and higher bone augmentation than did 10m pores and stiff polyoxymethylene material
+
+The defect group with stiff barrier did not show ingrowth of suprabony connective tissue as did the porous membrane but the bone augmentation was more evenly distributed in the defect
+
+159
+
+Diaphyseal defect in the radius (rabbit)
+
+PLLA membrane with various pore sizes: microporous (size was not provided), medium (10–20m) and large (20–200m) pore sizes
+
+Microporous membrane showed more predictable bone regeneration compared with the membranes with pores of medium and large size (10–20 or 20–200m)
+
+176
+
+Segmental defect in mandible (dog)
+
+Sham
+
+Autogenous bone
+
+Mi
+
+PMi
+
+Mi + autogenous bone
+
+PMi + autogenous bone
+
+Combination of PMi and autogenous bone increased the bone formation compared with other treatment modalities
+
+The use of Mi alone delivered the least bone formation
+
+The Mi did not add any benefit when combined with autogenous bone
+
+163
+
+Segmental large diaphyseal defect (sheep)
+
+External microporous PLLA membrane (pore size: 50–70m)
+
+Internal and external microporous PLLA membrane
+
+External perforated PLLA membrane (pore size 800–900m)
+
+External perforated PLLA membrane + autogenous bone
+
+Internal and external perforated PLLA membrane
+
+Internal and external perforated PLLA membrane + autogenous bone
+
+The bone defect healed only when the laser‐perforated membrane was used in combination with the autogenous bone
+
+Use of the internal and external perforated membrane (tube‐in‐tube implant) with autogenous bone allowed reconstitution of the ‘neocortex’ with well‐defined thickness. This was suggested to enhance vascularization of the bone graft from the soft tissue
+
+177
+
+Increasing thickness of the membrane
+
+Mandibular defect (dog)
+
+RHDM (100m thick)
+
+RHDM (200m thick)
+
+The 200‐m‐thick membrane showed less soft‐tissue ingrowth and better bone formation after 6 months of healing
+
+185
+
+Calvarial site with onlay graft (rabbit)
+
+Block bone grafts
+
+Monolayer collagen membrane + block grafts
+
+Double‐layer collagen membrane + block grafts
+
+Placement of double‐layer membrane showed less graft resorption and enhanced bone augmentation
+
+Whereas the monolayer membrane was completely degraded by 4 months, the body of the double‐layer membrane was retained up to 6 months
+
+188
+
+Calvarial defect (rat)
+
+Monolayer collagen membrane
+
+Double‐layer collagen membrane
+
+Use of a double‐layer technique provided a thicker barrier after 4 and 9 wk of healing. The effect on bone regeneration was not studied
+
+189
+
+Incorporation of calcium phosphate materials such as HA and TCP
+
+Calvarial defect (rat)
+
+Sham
+
+Collagen membrane
+
+HA‐Chitosan/fibroin membrane
+
+Bone volume and density were higher in the membrane groups and no difference was observed between the two membrane types
+
+87
+
+Calvarial defect (rabbit)
+
+Sham
+
+PCL/PLGA membrane
+
+PCL/PLGA membrane combined with‐TCP
+
+Presence of‐TCP enhanced:
+
+139
+
+Calvarial defect (rat)
+
+Sham
+
+Collagen commercial membrane
+
+Cross‐linked collagen membrane (experimental)
+
+Cross‐linked collagen membrane (experimental) with different levels of mineralization (HA)
+
+In comparison with the commercially available collagen membrane, the cross‐linked experimental membrane with and without HA showed:
+
+134
+
+Calvarial defect (rabbit)
+
+Sham
+
+Collagen commercial membrane + DBB
+
+Sr‐HA‐containing collagen membrane + DBB
+
+Sr‐HA‐containing collagen membrane + BCP substitute
+
+Combination of Sr‐HA‐containing collagen and BCP substitute showed highest bone formation after 24 wk
+
+Comparable bone formation was observed with the Sr‐HA collagen‐containing membrane and the commercial membrane after combining each of them with the DBB bone substitute
+
+135
+
+Calvarial defect (rat)
+
+Sham
+
+Collagen membrane
+
+Sr‐HA 10 mg mlgelatin
+
+Sr‐HA 20 mg mlgelatin
+
+Sr‐HA 20 mg mlgroup yielded significantly greater bone formation than the other groups
+
+136
+
+Calvarial defect (rat)
+
+Sham
+
+Collagen membrane
+
+Zinc HA‐gelatin membrane 70 mg ml
+
+Group of zinc HA‐gelatin membrane showed the highest bone formation at early (2 wk) and late (4 and 6 wk) time periods
+
+138
+
+Incorporation of BG
+
+Maxillary defect (rabbit)
+
+Sham + autogenous bone
+
+PEOT/PBT copolymer membrane combined with BG + autogenous bone
+
+The membrane group showed higher osteogenic activity. The increase in bone quantity was not statistically significant compared with the control group
+
+145
+
+‐TCP, beta‐tricalcium phosphate; BCP, biphasic calcium phosphate; BG, bioactive glass; DBB, deproteinized bovine bone; HA, hydroxyapatite; Mi, microporous poly‐‐lactide membrane; PBT, polybutylene terephthalate; PCL, polycaprolactone; PEOT, polyethylene oxide terephthalate; PLGA, poly(lactide‐co‐glycolide); PLLA, poly‐‐lactic acid; PMi, perforated poly‐‐lactide membrane; RHDM, resorbable human demineralized calvarial bone membrane; Sr, strontium.
+
+John Wiley & Sons, Ltd
+
+Mechanical properties (stiffness and plasticity)
+
+The amount of regenerated bone in the bone defect would be reduced if the membranes collapse into the defect space. Therefore, the ideal GBR membrane should be sufficiently rigid to withstand the compression of the overlying soft tissue. It should also possess a degree of plasticity in order to be easily contoured and mold to the shape of the defect. A balance between these mechanical properties is required to achieve an adequate space‐making capacity. Titanium has excellent mechanical properties compared with other types of materials, such as collagen and e‐PTFE. Whereas its rigidity prevents membrane collapse and provides space maintenance, its plasticity permits bending, contouring, and adaptation to the bone defect,. However, the cut edges of titanium mesh sometimes cause mucosal irritation that leads to exposure of the membrane and possibly infection,. In a rabbit study, placement of titanium membrane on a maxillary defect induced a higher degree of bone regeneration compared with placement of PTFE membrane on a maxillary defect. This was mainly related to the space‐maintaining capacity of the titanium membrane. To enhance the rigidity of PTFE membrane, the titanium framework was embedded inside the membrane structure, which provided additional membrane stability during treatment of non‐space‐maintaining bone defects. This modification also allowed shaping of the membrane to fit a variety of defects without rebounding,. On the other hand, owing to the lack of stiffness, especially in the case of the resorbable membranes, the bone defect is often filled with grafting material to prevent the membrane from collapsing and to maintain the defect space. Mini‐screws and pins have also been used to stabilize the membrane to the bone surrounding the defect in order to reduce the risk of collapse,,. Moreover, a tenting screw approach has been introduced to provide and maintain the required space during augmentation of the atrophic ridge.
+
+Calcium phosphates have been incorporated in resorbable membranes to enhance their mechanical properties. The incorporation of‐TCP within a polymer membrane made of PCL/poly(lactide‐co‐glycolide) (PLGA) improved the mechanical stability and enhanced bone regeneration in vivo. The mechanical properties of a collagen and poly(vinyl alcohol) matrix have also been shown to be improved after adding‐TCP/chitosan composite and nano‐HA, respectively,. Furthermore, a nanocalcium‐deficient HA‐multi (amino acid) copolymer composite membrane has demonstrated adequate biomechanical properties for GBR. Interestingly, a three‐layered membrane has been developed to optimize the mechanical properties of collagen‐based membranes. Whereas the top and bottom layers of the membrane are composed of HA‐containing collagen for better flexibility and bioactivity, the middle layer is composed of chitosan to ensure high strength and improve the membrane elasticity. It has also been shown that the compressive strength of poly‐‐lactic acid (PLLA) membranes can be adjusted by changing the molecular weight of the polymer. In comparison with PLLA mw 100,000‐based membrane, PLLA mw 380,000‐based membrane exhibited a higher compressive strength, equal to that of titanium mesh and judged to be adequate for vertical bone augmentation.
+
+Porosity
+
+Porosity is an important property of the GBR membrane. Studies have addressed the role of this property in the biological response in vivo using nonresorbable (Table) and resorbable (Table) membranes. The pore size of the membrane influences the degree of bone regeneration in the underlying secluded space,,,,,,. It is considered as being closely related to tissue occlusivity and has a major influence on the invasion of soft‐tissue cells. It has also been reported that membrane pores facilitate the diffusion of fluids, oxygen, nutrients, and bioactive substances for cell growth, which is vital for bone and soft‐tissue regeneration. However, the presence of large pore sizes may impair the cell occlusive property of the membrane by allowing soft‐tissue cells to migrate through the membrane, overpopulate the defect site, and inhibit the infiltration and activity of bone‐forming cells. Furthermore, it has been reported that the presence of pores with size 5–30m in the e‐PTFE membrane facilitate bacterial contamination and firm attachment of soft tissue. Therefore, high‐density (d)‐PTFE with a submicron (0.2m) pore size was developed to avoid the migration of bacteria into the membrane structure,,. Whereas higher adhesion of,, andwas found on collagen membranes than on e‐PTFE and d‐PTFE, no differences in bacterial adherence were found between the PTFE membranes. On the other hand, several reports have indicated that the use of d‐PTFE prevents bacterial penetration, reduces infection of the regeneration area, and does not even require primary closure,,,,. The lower porosity also made the PTFE membranes less liable to soft‐tissue attachment and thereby can be removed easily without the need for additional surgical procedures,. However, the minimal tissue integration to d‐PTFE membranes may create potential problems for initial clot formation, wound stabilization, and membrane stability. Furthermore, Linde and coworkers indicated that whereas increasing the internodal distance from 8m to 100–300m in the PTFE domes may permit soft‐tissue invasion, more bone formation occurred at the healing site. Placement of e‐PTFE containing 300m pores in association with titanium implants was shown to provide adequate space and significant vertical bone augmentation. At both micro‐ and macroscopic scales, Lundgren and coworkers studied the influence of different porosities on GBR in rat using stiff plastic plate as a solid or occlusive membrane and six polyester meshes with different porosities (10, 25, 50, 75, 100, and 300m). A slow rate of bone‐tissue augmentation was registered in association with the totally occlusive barrier. In contrast, placement of polyester meshes with perforations exceeding 10m resulted in a faster rate of bone augmentation than when meshes with 10m pores were used. These results paralleled other in vivo findings showing that more porous PTFE dome‐shaped membranes (internodal distances of 20–25 or 100m) induce more rapid bone regeneration compared with similar membrane made with an internodal distance of 8m. Moreover, according to data provided byand coworkers, macro‐pores of more than 1 mm in size in the titanium membrane promote better bone regeneration. This latter observation is supported by the fact that although titanium mesh has a macroporous structure and tentatively allows migration of non‐osteogenic soft tissue to the defect site, it is still one of the most predictable membranes for horizontal and vertical bone augmentation. Furthermore, although less porous polylactide membrane was suggested to preserve the osteogenic components in the defect space, in another study, the presence of large openings (800–900m) in the membrane was assumed to allow adequate vascularization for bone graft implanted in large bone defects and thereby promoted bone regeneration. The previous findings have been contradicted by other animal studies either showing no differenceor a larger production of bone volume in association with an occlusive dome‐shaped membrane compared with the corresponding porous membrane,.
+
+Indeed, the pore size and the degree of porosity vary between the available membranes, which range from solid to macroporous, and the optimal membrane porosity has probably not yet been defined. Therefore, further systematic investigations are needed to address the following: first, if the GBR membrane really needs to be porous; and, second, the role of membrane porosity and permeability in the mechanism of bone healing in the treated defect.
+
+Membrane architecture and thickness
+
+Collagen membranes have different structures and thicknesses depending on the collagen source, extraction method, and method used to manufacture the membrane. These membranes consist of either a homogenous collagenous matrix or a bilayer structure. Ultrastructural evaluation of these membranes revealed, for example, that Jason membrane (Botiss biomaterials, Zossen, Germany) consists of differently oriented collagen fibers that create a comb‐like structure, characterized by strong multidirectional linking, whereas DynaMatrix (Keystone Dental, Boston, MA, USA) membrane has discrete layers of collagen solid sheaths. Collprotect (Botiss biomaterials) is another collagen membrane that is considered to be semipermeable because of its open porous and three‐dimensional structure. The bilayered membranes, such as BioGide (Geistlich Pharma, Wolhusen, Switzerland) and Mucograft (Geistlich Pharma), have one compact layer that is able to prevent infiltration of epithelial cells into the bone defect and a second, porous, spongy, layer that allows tissue integration. This structure was also mimicked in a synthetic commercial membrane made of a copolymer of glycolide (PGA) and trimethyline carbonate (Resolut, Gore‐Tex Regenerative Material; W.L. Gore & Associates, Flagstaff, AZ, USA),. In another bilayered polymeric membrane (Guidor, Sunstar Sweden, Askim, Sweden), the two layers were designed as a mesh, but with different pore size and geometry. Whereas the external layer had large pores (of rectangular shape) to allow integration of the overlying soft tissue and promote tissue integration, the inner layer had small pores (of circular shape) to retard tissue penetration but still allow permeation of nutrients. Interspace was also created between the two layers of this membrane to facilitate tissue integration. In fact, the design and the architecture of the polymeric membranes are suggested to be important factors for determining their bioresorbability and osteopromotive effect in vivo,.
+
+The membranes described above differ not only with respect to their architecture but also in relation to thickness, which may influence their mechanical and space‐maintaining properties during implantation. It has been demonstrated that placement of a thicker collagenous membrane permits less soft tissue ingrowth and promotes better bone formation. Moreover, in a rat experimental model, it was shown that double‐layered porcine collagen membranes promote more bone regeneration than does cross‐linked type I collagen membrane when used in combination with a porous titanium membrane or bone graft. A trilayered membrane has also been introduced by the addition of a polylactide layer between two layers of collagen in order to prolong the period of membrane degradation and its barrier function. Finally, the assembly of two layers of the same type of non‐cross‐linked collagen membrane reduces the resorption of the bone graft and enhances bone regenerationas well as retaining the membrane body for a longer period of time.
+
+Biological mechanisms of GBR
+
+There is ample experimental evidence showing that the application of a membrane promotes bone formation in the underlying defect,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,. However, the studies on GBR have been traditionally focused on histological assessment of bone formed in membrane‐treated defects, whereas studies on the cellular and molecular mechanisms of GBR in vivo are scarce. Although the histological studies have been important as proof of concept, they have not provided explanations on how the presence of a membrane influences the cellular and molecular events during the consecutive phases of bone healing (inflammation, bone formation, and remodeling) in the underlying defect. In fact, the traditionally proposed explanation for how the membrane promotes bone formation is that the membrane acts as a passive barrier for soft‐tissue invasion, rather than directly promoting the sequences of biological processes that lead to bone regeneration and filling of the defect with mature, remodeled bone. Relatively few studies have addressed the cellular and molecular events associated with the tissue response and bone formation in conjunction with GBR membranes. On the other hand, the results of these studies have shed important light on the mechanisms whereby GBR membranes exert their bone‐promotive functions.
+
+During an experimental GBR procedure in a rat tibia defect, the presence of a synthetic PTFE membrane enhanced an earlier and higher level of cbf‐1/Runx2‐positive osteoprogenitor cells and stronger expression of the bone‐formation marker, osteocalcin, in the underlying defect compared with the untreated sham defect. Comparable findings were found during a GTR procedure in a human periodontal bone defect. In the latter study, the presence of PTFE membrane stimulated stronger expression of several bone‐formation‐related genes, including alkaline phosphatase (ALP), osteopontin, and bone sialoprotein, in the underlying defect in comparison with a defect without membrane. An important observation in the latter study was that the presence of the PTFE membrane also triggered increased expression of tissue and bone remodeling genes, including receptor activator of nuclear factor kappa‐B ligand (RANKL) and matrix metallopeptidases (MMPs) 2 and 9, as well as the inflammatory cytokines, interleukins (ILs) 1 and 6, in the underlying defect.
+
+Consistent with the aforementioned findings on non‐resorbable, synthetic, PTFE membrane, it has been recently demonstrated that the presence of resorbable, naturally derived, collagen membrane promotes coupled increase in bone formation and bone‐remodeling genes (osteocalcin, calcitonin receptor, cathepsin K, and RANKL) in the underlying rat tibia defect, compared with a similar defect without membrane(Fig.). Importantly, in the latter study, it was possible to relate the membrane‐induced bone‐formation and remodeling activities in the defect to the detection of a higher proportion of mature remodeled bone in the membrane group, particularly at the top region of the defect close to the membrane. Furthermore, an underpinning molecular finding in the latter study was that the presence of the membrane triggered an early upregulation of two major cell‐recruitment factors in the defect: C‐X‐C chemokine receptor type 4 (CXCR4) and monocyte chemoattractant protein‐1 (MCP‐1). These two factors are of particular interest as the chemokine receptor CXCR4 plays an important role in the recruitment of mesenchymal stem cells (218–220), which differentiate to osteoblasts, the cells responsible for bone formation, whereas MCP‐1 has been described as a major chemokine for recruitment of osteoclast precursors,, the key cell type for bone remodeling. Collectively, these findings suggest that the membrane promotes an environment for rapid recruitment of different cell types in the defect, including osteoblastic and osteoclastic phenotypes and, more importantly, that the membrane promotes an environment conducive for the molecular cascade of coupled bone formation and remodeling in the underlying defect.
+
+A major scientific query is whether the membrane per se provides an active contribution in addition to the proposed barrier function? The resorbable collagen membrane has been suggested to participate in the bone‐regeneration process, supported by findings of immunoreactivity of bone‐related proteins (ALP, osteopontin, and osteocalcin) in the lower part of the membrane facing the defect. A subsequent in vivo study used another type of collagen membrane predominantly consisting of ECM collagen but also containing inherited growth factor [fibroblast growth factor‐2 (FGF‐2)]. The latter study demonstrated that the membrane per se hosts different cell phenotypes during GBR and that these cells within the membrane progressively express and secrete major bone‐related growth factors, including the potent pro‐osteogenic factor, bone morphogenetic protein 2 (BMP‐2). Strong links between the pro‐osteogenic growth factors expressed in the membrane with the bone‐formation and bone‐remodeling activities within the underlying defect were demonstrated in the correlation analysis(Fig.). Taken together, the results provide strong evidence that the membrane directly promotes the healing processes in the underlying defect by activating the host cells that are recruited into and/or become adherent to the membrane, allowing their signals to be communicated to the different cell populations in the underlying defect (Fig.).
+
+Hitherto, it is not known whether this bioactive role of the membrane compartment is exclusively restricted to naturally derived collagen membrane. Interestingly, when clinically retrieved PTFE membranes were cultured ex vivo in osteogenic medium, the membrane‐adherent cells demonstrated the ability to produce higher levels of ALP osteogenic activity compared with clinically harvested gingival cells. These PTFE membrane‐adherent cells were also capable of producing mineralized nodules in a similar set‐up after a longer period of ex vivo culture in osteogenic medium. Moreover, in the latter study, although the phenotypes of the PTFE membrane‐adherent cells were not characterized, these cells expressed the inflammatory cytokines, IL‐1and IL‐4, irrespective of whether the membrane was retrieved from GTR or GBR procedures. In addition, it appeared that another inflammatory cytokine, IL‐1, was mainly expressed in cells adherent to PTFE membrane retrieved from GTR but not GBR. These results indicate that the synthetic PTFE membrane may harbor cells with regenerative potential on its surface, and that the PTFE membrane‐adherent cells can at least convey inflammatory signals.
+
+The role of the inflammatory cells for vascularization and degradation of the membrane per se is an interesting and yet incompletely answered issue. The recruitment of cells into the collagenous membranes has been suggested to enhance tissue integration and transmembrane vascularization, processes that have been suggested to be influenced by the membrane type. Furthermore, multinucleated giant cells have been detected in association with different types of membranes and are suggested to have an important role in membrane degradation and vascularization. Dense silk fibroin membrane promoted the recruitment of larger numbers of pro‐inflammatory cells and multinucleated giant cells compared with non‐cross‐linked collagen membrane. Interestingly, the latter observation was associated with greater transmembrane vascularization and membrane degradation. Additional support for a role of multinucleated cells during GBR is the observation of these cells particularly in the zone between the lower surface of the membrane and the upper surface of the newly formed bone. At the histological level, these multinucleated osteoclast‐like cells appeared to be in a process of active resorption of the underlying bone, but it was not possible to determine whether these cells were also involved in the process of membrane degradation.
+
+Collectively, the data published by our colleagues and ourselves provide evidence for an active role of the membrane in promoting the regenerative processes in the underlying defect during GBR, instead of being purely a passive barrier. On the other hand, it is not yet known if different membranes will have different potential to host and activate the membrane‐recruited cells, and if this would result in different degrees of bone formation and restitution of the underlying defect. It is extremely important to obtain such information before the development of the next generation of GBR membranes.
+
+Based on the above considerations, we conclude the following:
+
+There is evidence showing that GBR with and without bone graft/substitute is a successful modality for augmentation of alveolar bone defects. However, there are still challenging situations and complications which necessitate future developments of GBR membranes. Such membranes are suggested to have bone‐promoting capacity as well as soft‐tissue compatibility and antibacterial properties.
+
+The evolution of GBR membranes has been mainly driven by the sought‐for barrier function, the user friendliness, and the clinical handling in the different clinical situations, rather than a systematic approach to improve the biological outcomes. On the other hand, a bulk of experimental data suggests that different modifications of the physicochemical and mechanical properties of membranes may promote bone regeneration. Unfortunately, many membranes have been commercialized for clinical use but still lack proper characterization of the material.
+
+Despite a large number of studies dedicated to the role of membrane permeability and porosity, contradictory results exist with respect to the role of membrane porosities (ranging from sub‐micron to macro scale). This fundamental issue of hindering soft‐tissue (cell) invasiveness and promoting bone regeneration, respectively, is a major challenge for the proposed membrane barrier concept.
+
+Experimental evidence has been provided for an active role of the membrane compartment per se in promoting the regenerative processes in the underlying defect during GBR, instead of being purely a passive barrier. On the other hand, it is not yet established if different membranes will have different potential to host and activate the membrane‐recruited cells and if this would result in different degrees of bone formation and restitution of the underlying defect.
+
+Figure 4
+
+Structural, cellular, and molecular events governing the mechanism of guided bone regeneration (). The application of acollagen membrane on a trabecular bone defect (A) promotes structural restitution of the defect with newly regenerated bone compared with the untreated sham defect (B) where soft‐tissue collapse and poor defect restitution is prominent. Quantitative histomorphometric measurements of the different zones of the defect (C) demonstrate higher area percentages of regenerated bone in the membrane‐treated defect compared with the sham defect, particularly in the top zone directly underneath the membrane (D). The asterisk (*) denotes a statistically significant difference. Immunohistochemical analyses of the membrane compartment reveal that duringhealing (here exemplified at 3 d) the membrane recruits and hosts different cell types, including68‐positive monocytes/macrophages (E) as well as periostin‐positive osteoprogenitors (F). Furthermore, the immunohistochemical evaluation shows positive protein reactivity for major bone‐promoting growth factors, fibroblast growth factor 2 (‐2) (G) and bone morphogenetic protein 2 (‐2) (H), within the membrane. The quantitative polymerase chain reaction () analysis of the membrane confirms the progressive expression of the pro‐osteogenic growth factors,‐2 and‐2 (I and J, respectively), in parallel with a time‐dependent reduction in the vascularization‐related factor, vascular endothelial growth factor () (K), in the membrane compartment. Theanalysis of the underlying defect shows that the presence of the membrane modulates the molecular activities denoting the early inflammation (L) as well as bone formation (M) and remodeling, which provides molecular evidence for the enhanced bone regeneration in the membrane‐treated defect. Furthermore, the correlation analysis (insert Table) demonstrates that the molecular activities in the defect are linked to the molecular activities in the overlying membrane. CatK, cathepsin K;, osteocalcin. The montage is adapted on the basis of data fromand coworkers.
+
+Figure 5
+
+A schematic illustration of the cellular and molecular cascades during guided bone regeneration. The experimentally induced bone defect is covered with porcine collagen membrane (with inherent proteins). The cellular and molecular cascades include: migration of different cells (e.g.68‐positive monocytes/macrophages and periostin‐positive osteoprogenitors) from the surrounding tissue into the membrane. The cells which have migrated into the membrane express and secrete factors pivotal for bone formation and bone remodeling. This promotes the development of mature remodeled bone in the underlying defect, by stimulating the activity of osteoblasts and osteoclasts, the main cells of bone formation and remodeling. The cellular and molecular activities inside the membrane correlate with the pro‐osteogenic and bone‐remodeling molecular pattern in the bone defect underneath the membrane. The presence of the membrane and its bioactive properties promote a higher degree of bone regeneration and restitution of the defect in comparison with the defect without membrane.‐2, bone morphogenetic protein 2; CatK, cathepsin K;68, cluster of differentiation 68;, calcitonin receptor;‐2, fibroblast growth factor 2;, osteocalcin;, receptor activator of nuclear factor kappa‐B ligand;‐, transforming growth factor‐;, vascular endothelial growth factor.
+
+Conflicts of interest
+
+No benefit of any kind has been received either directly or indirectly by the authors.

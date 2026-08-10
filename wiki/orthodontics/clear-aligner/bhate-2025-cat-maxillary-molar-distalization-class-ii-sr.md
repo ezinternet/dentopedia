@@ -6,7 +6,7 @@ date: 2025-06-30
 doi: 10.4103/jispcd.jispcd_59_24
 source: bhate-2025-cat-maxillary-molar-distalization-class-ii-sr.md
 category: [orthodontics/clear-aligner]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "40838033"

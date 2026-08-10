@@ -1,0 +1,24 @@
+Title: Is Sjogren's syndrome a risk factor/contraindication for dental implants? An umbrella review.
+
+Authors: Ana Waleska Pessoa Barros, Pedro Henrique da Hora Sales, Alessandra de Albuquerque Tavares Carvalho, Preeyan Patel, Stephen Porter, Jair Carneiro Leão
+
+Journal: Special Care in Dentistry (Spec Care Dentist). 2021;41(4):453-462.
+
+PMID: 33987854
+DOI: 10.1111/scd.12591
+
+Publication date: 2021-05-13
+
+Article types: Journal Article; Systematic Review
+Keywords: Sjogren's syndrome; dental implantation; oral rehabilitation; osseointegration
+MeSH terms: Contraindications; Dental Implants; Humans; Risk Factors; Sjogren's Syndrome; Systematic Reviews as Topic
+
+ABSTRACT (source: PubMed, via NCBI PubMed MCP get_article_metadata; full text not retrieved — abstract only, article is behind Wiley paywall, no PMC ID available):
+
+There have been concerns that longstanding oral dryness secondary to Sjogren's syndrome may increase the risk of failure of dental implants.
+
+The aim of the present study was to determine the level of methodological quality of systematic reviews that evaluated the effectiveness of dental implants in patients diagnosed with Sjogren's syndrome.
+
+Databases of PubMed/Medline, LILACS, Science Direct and Dare Cochrane to October 2020 were evaluated. A total of 833 articles were initially identified but following use of appropriate inclusion and exclusion criteria 4 papers were identified for detailed analysis. An eventual study sample comprised 722 implants placed in 189 patients with a 95.22% success rate, the minimum follow-up time was 45.2 ± 23.8 months and the maximum 125.5 months. The studies were assessed for their methodological quality by the AMSTAR 2 tool, in which 3 had critically low quality and one low quality.
+
+Oral rehabilitation with dental implants in patients with Sjogren's syndrome seems to have a high success rate; however, the low quality of relevant reports highlights the need for primary and secondary studies with better methodological design in order to reduce bias and provide reassurance for this treatment option.

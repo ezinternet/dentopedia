@@ -6,7 +6,7 @@ date: 2025-09-30
 doi: 10.4103/jisppd.jisppd_213_25
 source: kumari-2025-effect-splinting-outcomes-replantation-avulsed.md
 category: [dental-trauma]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: false
 pmid: "41026553"

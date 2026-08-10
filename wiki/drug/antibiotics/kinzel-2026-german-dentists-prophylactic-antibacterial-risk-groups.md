@@ -6,7 +6,7 @@ date: 2026-06-19
 doi: 10.1155/ijod/8452465
 source: kinzel-2026-german-dentists-prophylactic-antibacterial-risk-groups.md
 category: drug/antibiotics
-confidence: cross-sectional
+evidence_level: cross-sectional
 source_collection: pubmed-text
 full_text: true
 pmid: "42325694"
@@ -87,4 +87,4 @@ The **only positive consensus in the entire survey** was for prosthetic heart va
 - [[drug/antibiotics/wilson-2021-ie-prophylaxis-aha-scientific-statement]] — AHA statement underlying the German endocarditis recommendations.
 - [[drug/antibiotics/mendez-romero-2025-antibiotic-stewardship-dentistry-sr]] — antibiotic stewardship framing for the over-prescription problem.
 - [[drug/antibiotics/thompson-2023-dental-antibiotic-stewardship-core-outcome-set]] — stewardship outcome standardization.
-- [[drug/systemic-disease/wagner-2022-diabetes-mellitus-dental-implants-sr]] — diabetes-and-implants context for the diabetes-group findings.
+- [[implants/survival/wagner-2022-diabetes-mellitus-dental-implants-sr]] — diabetes-and-implants context for the diabetes-group findings.

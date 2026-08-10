@@ -6,7 +6,7 @@ date: 2026-05-04
 doi: 10.3389/fonc.2026.1774001
 source: petropoulou-2026-telemedicine-oral-complications-oncology-rct.md
 category: [oral-medicine/mucositis]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: true
 pmid: "42158435"

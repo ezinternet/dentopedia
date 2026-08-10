@@ -7,7 +7,7 @@ doi: ""
 journal: Mayo Clinic Proceedings
 source: shah-2022-perioperative-antiplatelet-therapy-sr-ma.md
 category: [drug/anticoagulants]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/shah-2022-perioperative-antiplatelet-therapy-sr-ma.pdf
 pdf_filename: shah-2022-perioperative-antiplatelet-therapy-sr-ma.pdf
 source_collection: external
@@ -35,7 +35,7 @@ The key finding for clinicians: continuing aspirin perioperatively increases maj
 
 For comparing short vs long APT interruption windows specifically, the evidence was low certainty with no significant differences detected — meaning the optimal interruption duration in patients where interruption *is* chosen remains unclear.
 
-[claude해석] Dental extraction-specific extrapolation: the Shah SR is dominated by non-cardiac, non-dental surgical literature. For dental extraction in particular, the cohort and RCT data (Lu 2018, Krishnan 2024, Guardieiro 2023) consistently support non-interruption with local hemostasis — the dental bleeding setting is recoverable in ways that abdominal or neurosurgical bleeding is not.
+[미검증] Dental extraction-specific extrapolation: the Shah SR is dominated by non-cardiac, non-dental surgical literature. For dental extraction in particular, the cohort and RCT data (Lu 2018, Krishnan 2024, Guardieiro 2023) consistently support non-interruption with local hemostasis — the dental bleeding setting is recoverable in ways that abdominal or neurosurgical bleeding is not.
 
 ## Key Contributions
 - Provides the GRADE-rated quantitative basis for the modern "continue if you can, control locally" position.
@@ -58,8 +58,8 @@ SR+MA per ACCP guideline development protocol; databases MEDLINE/EMBASE/Scopus/C
 - Pre-DOAC-era literature dominates
 
 ## Related Papers
-- [[drug/lu-2018-warfarin-antiplatelet-dental-extraction-management]] — dental-specific Taiwanese cohort.
-- [[drug/krishnan-2024-bleeding-uninterrupted-single-dual-antiplatelet]] — India dental SAPT vs DAPT.
-- [[drug/guardieiro-2023-chitosan-cellulose-hemostasis-dapt-rct]] — local hemostatic options DAPT.
-- [[drug/uspstf-2022-aspirin-cardiovascular-disease-prevention]] — USPSTF aspirin primary prevention.
-- [[drug/inchingolo-2024-anticoagulation-therapy-dental-practice-sr]] — anticoagulation in dentistry SR.
+- [[drug/anticoagulants/lu-2018-warfarin-antiplatelet-dental-extraction-management]] — dental-specific Taiwanese cohort.
+- [[drug/anticoagulants/krishnan-2024-bleeding-uninterrupted-single-dual-antiplatelet]] — India dental SAPT vs DAPT.
+- [[drug/anticoagulants/guardieiro-2023-chitosan-cellulose-hemostasis-dapt-rct]] — local hemostatic options DAPT.
+- [[drug/anticoagulants/uspstf-2022-aspirin-cardiovascular-disease-prevention]] — USPSTF aspirin primary prevention.
+- [[drug/anticoagulants/inchingolo-2024-anticoagulation-therapy-dental-practice-sr]] — anticoagulation in dentistry SR.

@@ -6,7 +6,7 @@ date: 2017-11-25
 doi: 10.1186/s40902-017-0133-1
 source: an-2017-treatment-dental-implant-displacement-maxillary-sinus.md
 category: [implants]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: true
 pmid: "29204419"
@@ -64,6 +64,6 @@ Narrative review (maxillary-sinus anatomy, displacement complications, treatment
 
 ## Related Papers
 
-- [[implants/shenoy-2025-dental-implant-failure-retrieval-techniques-scoping]] — 2025 scoping review mapping implant failure + retrieval techniques; this page is the sinus-displacement retrieval scenario in detail.
-- [[implants/solderer-2019-removal-failed-dental-implants-revisited]] — general explantation technique selection (CTRT/trephine/piezo/laser); complements this sinus-specific retrieval.
+- [[implants/survival/shenoy-2025-dental-implant-failure-retrieval-techniques-scoping]] — 2025 scoping review mapping implant failure + retrieval techniques; this page is the sinus-displacement retrieval scenario in detail.
+- [[implants/survival/solderer-2019-removal-failed-dental-implants-revisited]] — general explantation technique selection (CTRT/trephine/piezo/laser); complements this sinus-specific retrieval.
 - [[sinus-lift/lateral/nam-2014-fess-intraoral-implant-related-sinusitis]] — FESS + intraoral approach for implant-related maxillary sinusitis; shares the lateral-window / endoscopic access theme.

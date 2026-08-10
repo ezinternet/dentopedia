@@ -6,7 +6,7 @@ date: 2020-07-02
 doi: 10.1038/s41598-020-67678-z
 source: zheng-2020-non-thermal-atmospheric-plasma-titanium.md
 category: [implants/surface/plasma]
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/zheng-2020-non-thermal-atmospheric-plasma-titanium.pdf
 pdf_filename: zheng-2020-non-thermal-atmospheric-plasma-titanium.pdf
 source_collection: external

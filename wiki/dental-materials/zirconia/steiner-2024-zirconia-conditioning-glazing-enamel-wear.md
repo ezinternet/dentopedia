@@ -6,7 +6,7 @@ date: 2024-01-31
 doi: 10.1007/s00784-024-05522-8
 source: steiner-2024-zirconia-conditioning-glazing-enamel-wear.md
 category: [dental-materials/zirconia]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/steiner-2024-zirconia-conditioning-glazing-enamel-wear.pdf
 pdf_filename: steiner-2024-zirconia-conditioning-glazing-enamel-wear.pdf
 source_collection: external

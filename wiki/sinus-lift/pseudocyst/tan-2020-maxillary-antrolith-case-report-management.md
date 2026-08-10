@@ -8,7 +8,7 @@ pmid: "32836207"
 pmcid: "PMC7452633"
 source: tan-2020-maxillary-antrolith-case-report-management.md
 category: [sinus-lift/pseudocyst]
-confidence: case-report
+evidence_level: case-report
 source_collection: pubmed-text
 tags: [antrolith, sinus-stone, CBCT, Caldwell-Luc, sinus-pathology, DDx]
 relations:

@@ -57,7 +57,7 @@ impacted mandibular third molars — analgesic efficacy equivalent; hemodynamic 
 
 ## 4. Key Results and Benchmarks
 
-[근거강함] (multicenter RCT, NCT02696369):
+[확인] (multicenter RCT, NCT02696369):
 
 | Outcome | L80 (1:80,000) | L200 (1:200,000) | p |
 |---|---|---|---|
@@ -76,7 +76,7 @@ Conclusion: efficacy equivalent; 1:200,000 epinephrine has a better hemodynamic 
 - All participants were healthy young adults (ASA I–II) — the population most needing the lower-epinephrine formulation (cardiovascular disease, uncontrolled HTN) was excluded by the eligibility criteria. The authors acknowledge the need for follow-up studies in cardiovascular patients but note the ethical complexity.
 - Phase IV registration trial — primary mission was to confirm equivalence + safety, not to detect rare adverse events.
 - Crossover design assumes no period effect; healing/sensitization between sides could bias second-visit measurements. Mitigated by 1–4 week washout but not eliminated.
-- [claude해석] The KDA Journal article is a Korean-language summary; the original full data is in Karm MH et al. (J Dent Anesth Pain Med, 2017 — separate English publication).
+- [미검증] The KDA Journal article is a Korean-language summary; the original full data is in Karm MH et al. (J Dent Anesth Pain Med, 2017 — separate English publication).
 
 ## 6. Related Work
 

@@ -6,7 +6,7 @@ date: 2016-01-01
 doi: 10.1111/prd.12167
 source: chappuis-2017-dimensional-bone-soft-tissue-post-extraction.md
 category: [immediate-implant/esthetic-soft-tissue]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/chappuis-2017-dimensional-bone-soft-tissue-post-extraction.pdf
 pdf_filename: chappuis-2017-dimensional-bone-soft-tissue-post-extraction.pdf
 source_collection: external

@@ -40,7 +40,7 @@ Journal of Dentistry 2022;127:104353 · Kai-Xian Tay, Li Zhen Lim, Benny Kwee Ch
 4개 DB(~2021.9), 16편. 수정 QUADAS RoB.
 
 ## 4. Key Results and Benchmarks
-15/16 연구가 CBCT 도입 시 계획 변경 보고(24.3-56%); 추가 개입 처방 경향 [합의수준]. 이질성 큼.
+15/16 연구가 CBCT 도입 시 계획 변경 보고(24.3-56%); 추가 개입 처방 경향 [확인]. 이질성 큼.
 
 ## 5. Limitations and Future Work
 이질성, 술자 주관, 결과 정의 다양.

@@ -6,17 +6,15 @@ date: 2026-07-07
 doi: ""
 source: ""
 category: [overviews]
-confidence: synthesis
+evidence_level: synthesis
 source_collection: internal
 tags: [resin-bonding, fiber-post, root-caries, nccl, isolation, proanthocyanidin, 4-meta]
 relations:
-  - type: reinforces
-    target: el-azzouni-2026-laser-hydrogen-peroxide-fiber-post-dual-cure
-  - type: reinforces
+  - type: refines
     target: kikuta-2025-fillers-4-meta-mma-tbb-resin-root-caries
-  - type: reinforces
+  - type: refines
     target: loguercio-2015-isolation-method-operative-field-gingival
-  - type: reinforces
+  - type: refines
     target: neves-2026-ab-type-proanthocyanidin-primers-nano-dma
 ---
 
@@ -185,6 +183,11 @@ These four papers share a structural argument: standard adhesive protocols — p
 None of these four modifications replaces good adhesive technique. They are add-on steps that address specific vulnerabilities in specific contexts: the post surface being inert to adhesive chemistry without pretreatment; root dentin being sclerotic, wet, and inaccessible; subgingival margins being the reason rubber dam was assumed mandatory; and demineralized collagen being the structural weak point that both CHX (MMP inhibition) and PAC (cross-linking) target from different directions.
 
 ## Related Papers
+
+
+### 신규 ingest cluster (2026-07-15)
+
+- [[resin-bonding/emami-arjomand-2024-chx-ipa-fiber-post-bond]] — In vitro (54 premolars): isopropyl-alcohol root-dentin conditioning gave highest fiber-post push-out bond (21.12 MPa immediate) vs CHX/water (7.48 MPa), IA > CHX > control (P<0.001) — IA conditioning improves bond durability
 
 - [[overviews/resin-dentin-bond-durability-degradation-overview]] — covers CHX, MMP/cathepsin inhibition, 10-MDP nanolayering, water-tree; the PAC mechanism (Neves 2026) is introduced there as a collagen cross-linking complement; this page provides the layer-specific mechanistic detail
 - [[overviews/adhesive-bonding-strategies-overview]] — covers universal vs SE vs E&R, silane timing, contamination management; this page extends into post conditioning and isolation equivalence for NCCL

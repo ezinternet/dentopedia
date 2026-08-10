@@ -6,7 +6,7 @@ date: 2025-06-14
 doi: 10.3390/jcm14124237
 source: carames-2025-four-vs-six-implant.md
 category: [complete-denture]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/carames-2025-four-vs-six-implant.pdf
 pdf_filename: carames-2025-four-vs-six-implant.pdf
 source_collection: external

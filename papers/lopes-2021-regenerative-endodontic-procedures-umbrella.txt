@@ -1,0 +1,102 @@
+Regenerative Endodontic Procedures: An Umbrella Review
+
+Lopes LB, Neves JA, Botelho J, Machado V, Mendes JJ
+Int J Environ Res Public Health. 2021 Jan 17;18(2):754.
+PMID: 33561086 PMCID: PMC7830213 DOI: 10.3390/ijerph18020754
+
+ABSTRACT
+The Regenerative Endodontic Procedure (REP) is a biologically based method in which a damaged pulp-dentin complex is replaced by a new vital tissue. This umbrella review aimed to critically assess the available systematic reviews (SRs) on REP. An electronic database search was conducted (PubMed-Medline, CENTRAL, Scielo, Web of Science, and LILACS) until December 2020. Studies were included if they were an SR on REP. The Risk of Bias (RoB) of SRs was analyzed using the Measurement Tool to Assess SRs criteria 2 (AMSTAR2). The primary outcome was the methodological quality in each specific section of REP protocols and outcomes. From 403 entries, 29 SRs were included. Regarding the methodological quality, ten studies were of critically low, three of low, fourteen of moderate, and two were rated as high quality. The quality of evidence produced by the available SRs was not favorable. Future high standard SRs and well-designed clinical trials are warranted to better elucidate the clinical protocols and outcomes of REP.
+
+1. Introduction
+
+Endodontic management of immature permanent teeth with necrotic pulp is a challenging clinical procedure. In the last few decades, these teeth have been treated by apexification procedures with the disadvantages of compromised root development, thickening of the radicular dentin, and compromised crown-to-root ratio. In light of these considerations, Regenerative Endodontic Procedure (REP) is described as "biologically based procedures designed to replace damaged structure" and aims to deliver a suitable environment to promote natural regeneration/repair with a functional pulp-dentin wall and apical closure. Therefore, REPs have the potential to increase root length, to thicken the rootwall, and to achieve apical closure.
+
+REP was first established by Nygaard-Ostby in the 1960s, though with low success. Thus, REP represents one of the most challenging and cutting-edge topics in regenerative dentistry. The European Society of Endodontology (ESE) and the American Association for Endodontists (AAE) have recently delivered position statements and clinical considerations regarding REP. Nevertheless, according to recent systematic reviews (SRs) related to REP, there is a lack of standardization of the treatment protocol between studies.
+
+Overall, REP is a common category of biologically based endodontic therapy known as revascularization or revitalization. REP is a treatment option that depends on the stem cells and growth factors by stimulating them to root elongation, maturation and complete apex closure, protocol applied, being the outcomes disputable in regard to the regenerated tissue.
+
+Therefore, the present umbrella review aimed to critically appraise the available SRs on REPs, with a particular two-fold focus: (1) quality of evidence and (2) clinical outcomes.
+
+2. Materials and Methods
+
+The protocol for this umbrella review was defined a priori by all authors and was performed following the PRISMA guidelines, expanded with the guideline for SRs.
+
+2.1. Study Selection
+Five electronic databases (PubMed-Medline, Cochrane Database of SRs, Scielo, Web of Science, and LILACS) were searched from the earliest data available until December 2020. Keywords: (endodontic OR pulp OR tooth) AND (revitalization OR revascularization OR regenerative OR pulpal regeneration) AND (systematic review OR meta-analysis). Grey literature searched through OpenGrey. No restrictions regarding year of publication or language.
+
+2.2. Information Sources Search
+Data extracted per SR: first author, publication year, databases searched, number/type of studies included, interventions, quality assessment tool, main results, main conclusion. Outcomes classified as: protocols and materials; survival outcomes; and stem cells.
+
+2.3. Risk of Bias (RoB) Assessment
+RoB assessed using AMSTAR 2 (Measurement Tool to Assess SRs). Categories: High (zero/one non-critical weakness), Moderate (more than one non-critical weakness), Low (one critical flaw ± non-critical weaknesses), Critically Low (more than one critical flaw ± non-critical weaknesses).
+
+3. Results
+
+3.1. Study Selection
+403 entries; 174 duplicates excluded. 35 potentially eligible full-text articles screened; 6 excluded. 29 SRs included in qualitative synthesis. Inter-examiner reliability at full-text screening: kappa = 1.00 (excellent).
+
+3.2. SR Characteristics
+20 SRs without meta-analysis; 9 SRs with meta-analysis. Sub-topics: REP protocols and outcomes; solely REP protocols; solely outcomes; stem cells on REP. Six SRs failed to report a defined timeframe. Seven SRs did not report language restrictions; twelve applied a language restriction; remaining had no language restriction.
+
+3.3. RoB
+Excellent inter-examiner reliability at RoB screening (kappa = 0.91; 95% CI 0.89-0.92). None of the included SRs fully satisfied AMSTAR2 criteria. Two rated "high quality," fourteen "moderate quality," three "low quality," ten "critically low quality." Major concerns: (a) lack of info on type of included studies; (b) literature search strategy; (c) absence of excluded-studies list with justification; (d) declaration of funding sources.
+
+3.4. Synthesis of Results
+
+3.4.1. Clinical Protocols
+Fifteen SRs investigated REP protocol efficacy. Twelve investigated human teeth exclusively; three included human + animal teeth. REP protocols reported generic removal of necrotic pulp through minimal or no mechanical instrumentation.
+
+Endodontic Irrigation in REP: Level of evidence mainly moderate quality; no meta-analytical estimates comparing irrigation protocols. NaOCl at different concentrations is the most-used irrigant. Successful single-visit cases used 2.5% NaOCl + 17.0% EDTA. Two-visit REP most commonly used 2.5% NaOCl; also 5.25-6.0% NaOCl + 0.2-2.0% CHX in non-vital immature teeth. Ranges reported: NaOCl 0.5-8.0%, EDTA 5.0-17.0%, CHX 0.12-2.0%.
+
+Intracanal Medication: Level of evidence mostly moderate quality; no meta-analytical synthesis. Triple antibiotic paste (TAP: metronidazole, ciprofloxacin, minocycline) most frequently used. Modified TAP replaces minocycline with cefaclor, doxycycline, amoxicillin, or clindamycin. Double antibiotic paste (DAP) reported with varied cocktails. TAP also conjugated with CHX and calcium hydroxide or formocresol. Other agents: CHX alone or with iodoform, calcium hydroxide alone or with 2.0% CHX, formocresol, Augmentin.
+
+Scaffolds: Level of evidence mostly moderate quality; no meta-analytical evidence for a superior scaffold. Blood clot is the most-reported scaffold. Other scaffolds: PRP ± collagen sponge, PRP + beta-tricalcium phosphate ± hydroxyapatite, PRP + hydroxyapatite, PRP + bone, PLGA, platelet-rich fibrin (PRF), blood clot + PRP + PRF, blood clot + collagen sponge/gelatin hydrogel, collagen calcium phosphate gel, platelet pellet, polymer fleece, bovine bone mineral, empty scaffold.
+
+Intracanal Coronal Barrier: Level of evidence mostly moderate quality; no meta-analysis on coronal barrier's effect on success. Mineral trioxide aggregate (MTA) most commonly reported. TAP and MTA induce discoloration. One SR compared MTA vs Biodentine: MTA caused mild-moderate discoloration, Biodentine did not. Barrier materials across SRs: MTA, Biodentine, calcium-enriched mixture, glass ionomer cement, resin-modified glass ionomer cement, Portland cement, gutta-percha, composite resin, bioceramic, dycal, cavit + IRM, zinc oxide eugenol.
+
+3.4.2. Clinical Outcomes
+Level of evidence low quality on average. Nineteen SRs report REP outcomes; six meta-analyses. Parameters evaluated: etiology of pulp necrosis, periapical pathology resolution, apical closure, increase in root length, root dentin thickening — promising yet contradictory results.
+
+Etiology of pulp necrosis: REP successful in 94.5% across etiologies — dental trauma (64.94%), dens evaginatus necrosis (22.92%), dental caries (5.61%), broken cusp/unknown etiology (6.51%). No significant difference in outcomes among trauma-etiology teeth.
+
+Apexification vs REP: clinical success rates similar. One SR: 87.9% success for revascularization, 90.6% for apexification (no study performed vitality tests). REP showed considerable lateral dentinal wall thickening vs inferior outcome with MTA apical-plug apexification. Continuity of dental development higher with revascularization vs MTA apexification. Other SRs found no difference: survival rate 100% REP vs 95% apexification. One meta-analysis: no significant difference between REP with blood clot induction and MTA apexification; none of the included studies assessed calcified-barrier formation as an outcome. Reinfection/persistent infection = most common failure reason in blood-clot cases. Another meta-analysis: survival 97.8% REP vs 97.1% apexification; main complication = crown discoloration. Periapical healing, continued root development, and dentinal wall thickening diverge according to intracanal medication, scaffold, and cervical barrier used.
+
+Intracanal medication comparison: TAP vs calcium hydroxide + CHX — both highly satisfactory. Apical closure rates varied across studies; best results with induction of bleeding to form intracanal blood clot.
+
+Autologous platelet concentration (2 SRs): positive outcomes — periapical lesion healing, apical closure, root lengthening, wall thickening, positive pulp tests.
+
+Single-visit REP (1 SR, RCT-based): clinical outcome = absence of signs/symptoms; radiographic outcome = decreased periapical lesion.
+
+Animal studies: histological outcomes = intracanal connective tissue ingrowth in all specimens + beginning of mineralization.
+
+3.4.3. Stem Cells Research
+Level of evidence low quality on average. Of 29 SRs, eight focused on histological assessment/role of stem cells in REP (two with meta-analysis). Five SRs included animal teeth (mostly dog); one focused solely on human impacted 3rd molar teeth.
+
+Five main dental stem cell (DSC) populations: dental pulp stem cells (DPSCs), stem cells from exfoliated deciduous teeth (SHED), stem cells from apical papilla (SCAP), periodontal ligament stem cells (PDLSCs), dental follicle precursor cells (DFPCs).
+
+Cell homing/cell transplantation: four reviews showed inconclusive results, call for standardized methodology and outcome sets. Cell homing = most clinically available pathway for REP currently (per one review). Functional pulp regeneration should include vascular and neural regeneration (per one review).
+
+Biomaterials-stem cell interaction (2 reviews): bioceramic materials can induce mineralization and odontogenic/osteogenic differentiation of human stem cells from apical papilla, improving stem cell/growth factor incorporation and controlled regeneration rate. Clear guideline for suitable biomaterials still needed.
+
+Histological outcomes: one review found none of the regeneration protocols resulted in predictable formation of a true pulp-dentin complex; another found newly formed tissues indicate tissue repair or repair+regeneration combination, with cementum-like or bone-like tissue rather than dentine, periodontal-like, or pulp tissue.
+
+4. Discussion
+
+Quality of evidence across included SRs is unfavorable — only two SRs of high quality; majority critically low/low/moderate. Urgent need for high-quality SRs on REP.
+
+Inclusion of case reports in SRs is debatable — compromises result integrity. REP is an innovative/recent concept so few clinical studies exist, driving case-report inclusion, which risks biasing SR conclusions.
+
+Protocol registration: only three included SRs followed a priori registration recommendations; one SR mentioned registration but no number was present. Protocol registration should be encouraged regardless.
+
+Some SRs mixed human and animal-model studies simultaneously — debatable given uncertainty whether animal studies reliably generalize to humans; none of these SRs combined preclinical and clinical data in a pooled sense, though two SRs focused specifically on dental pulp cells.
+
+RoB tool application inconsistencies noted across several SRs (e.g., applying randomized-trial risk-of-bias tools to case reports/non-randomized trials), risking spurious risk-of-bias downgrading.
+
+Meta-analytical estimates: majority of studies used approaches demanding cautious interpretation — narrow confidence intervals when insufficient studies pooled (normally at least five needed).
+
+Clinically, REP rests on three objectives: (1) apexification to prevent/heal periapical tissues; (2) increase root length and thickness (fracture resistance); (3) regain pulp sensitivity. Available evidence supports clinical success across these three premises, but the most appropriate clinical protocol remains unclear. REP is arguably a repair/healing procedure rather than true regeneration given the tissue and cell populations it produces; tissue and stem cell engineering will be central to achieving true regeneration.
+
+Strengths and Limitations: comprehensive overview of available REP SRs using transparent, evidence-based (umbrella review) methodology; individual primary studies within each SR were not independently re-explored, so conclusions rely on each SR author's own interpretation. Two ongoing (unpublished) PROSPERO registrations exist on this topic.
+
+5. Conclusions
+The quality of evidence produced by the available SRs on REP was not favorable (10 critically low, 3 low, 14 moderate, 2 high quality via AMSTAR2). Future high-standard SRs and well-designed clinical trials are warranted to better clarify REP clinical protocols and outcomes of success.

@@ -15,7 +15,7 @@ text_filename: tarpara-2025-flapless-flapped-clinical-outcomes-cohort.txt
 
 ## Why Ingested
 
-Part of the user's flapless-implant PubMed ingest. Paired with [[implants/surendra-2025-flapless-versus-flapped-crestal-bone]] (RCT), this non-randomized cohort gives the **opposite crestal-bone verdict** — flapless and flapped lost bone equally at 12 months — so the two pages together show how design and follow-up shape the answer. It also adds the pain / probing-depth dimension that the immediate-implant flapless syntheses ([[immediate-implant/pitman-2023-immediate-implant-flap-flapless-sr-ma]]) and ridge-preservation flap papers ([[bone-regeneration/ridge-preservation/araujo-2009-ridge-alterations-flap-vs-flapless]]) do not cover for healed-ridge placement.
+Part of the user's flapless-implant PubMed ingest. Paired with [[implants/mbl/surendra-2025-flapless-versus-flapped-crestal-bone]] (RCT), this non-randomized cohort gives the **opposite crestal-bone verdict** — flapless and flapped lost bone equally at 12 months — so the two pages together show how design and follow-up shape the answer. It also adds the pain / probing-depth dimension that the immediate-implant flapless syntheses ([[immediate-implant/pitman-2023-immediate-implant-flap-flapless-sr-ma]]) and ridge-preservation flap papers ([[bone-regeneration/ridge-preservation/araujo-2009-ridge-alterations-flap-vs-flapless]]) do not cover for healed-ridge placement.
 
 ## Three-line Summary
 
@@ -72,7 +72,7 @@ Prospective non-randomized cohort (n=20, single posterior implants, 12-month pos
 ## 6. Related Work
 
 - Cites Gao et al. systematic review (14 RCTs): flapless lower VAS at 24 h (attenuating after day 3) and lower PD, comparable bone-level changes — concordant with this cohort's crestal finding.
-- Directly contradicts the RCT crestal advantage of [[implants/surendra-2025-flapless-versus-flapped-crestal-bone]].
+- Directly contradicts the RCT crestal advantage of [[implants/mbl/surendra-2025-flapless-versus-flapped-crestal-bone]].
 
 ## 7. Glossary
 

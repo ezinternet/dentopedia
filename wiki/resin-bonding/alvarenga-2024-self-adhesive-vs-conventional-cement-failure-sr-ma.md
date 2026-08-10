@@ -6,7 +6,7 @@ date: 2024-11-01
 doi: 10.1016/j.prosdent.2024.04.027
 source: alvarenga-2024-self-adhesive-vs-conventional-cement-failure-sr-ma.md
 category: [resin-bonding]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: false
 pmid: "38797576"
@@ -68,5 +68,5 @@ This is a **clinical-outcome** complement to the wiki's mostly in-vitro adhesive
 ## Related Papers
 
 - [[resin-bonding/borouziniat-2024-self-adhesive-vs-etch-resin-cement-zirconia-sr-ma]] — reinforces: in-vitro SR+MA showing self-adhesive ≈ self-etch bond strength to zirconia; Alvarenga extends that non-inferiority to clinical restoration survival.
-- [[resin-bonding/ghodsi-2023-resin-cement-partial-coverage-sr]] — applies-to: narrative SR on resin-cement selection per restoration type; Alvarenga gives RCT-level survival support, while Ghodsi's caution about thin/low-strength ceramics aligns with the lone discordant ceramic-crown trial here.
+- [[prosthetic-materials/ghodsi-2023-resin-cement-partial-coverage-sr]] — applies-to: narrative SR on resin-cement selection per restoration type; Alvarenga gives RCT-level survival support, while Ghodsi's caution about thin/low-strength ceramics aligns with the lone discordant ceramic-crown trial here.
 - [[resin-bonding/de-oliveira-2021-10-mdp-self-etch-adhesive-dentin-sr]] — refines: another instance where strong in-vitro signals did not translate into a clinical advantage, reinforcing caution about extrapolating bench data.

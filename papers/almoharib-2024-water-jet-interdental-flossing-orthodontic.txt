@@ -1,0 +1,91 @@
+Title: The effectiveness of water jet flossing and interdental flossing for oral hygiene in orthodontic patients with fixed appliances: a randomized clinical trial
+
+Authors: AlMoharib HS, Alqasem A, Almusfer G, Aldosari MA, Almadhoon HW
+Journal: BMC Oral Health. 2024;24(1):498
+DOI: 10.1186/s12903-024-04166-0
+PMID: 38678246
+PMCID: PMC11055227
+Publication date: 2024-04-27
+
+Source: PubMed Central (PMC) full text, retrieved via PubMed MCP get_full_text_article.
+
+Abstract
+
+Background
+Orthodontic treatment presents challenges with plaque accumulation around brackets, archwires, and elastics, leading to retained plaque and gingival inflammation. Conventional toothbrushing may not be enough, requiring additional oral hygiene aids like interproximal brushes, dental flosses, and water flossers. Limited research exists on comparing water flossing and interdental flossing in orthodontic patients. Therefore, this study aims to assess their effectiveness in maintaining oral hygiene during active orthodontic treatment.
+
+Methods
+A single-blind, randomized, parallel clinical study recruited orthodontic patients with full-mouth brackets and archwires. Thirty participants were randomly assigned to either water jet flossing or interdental flossing groups. All participants were instructed to brush twice daily with a provided toothbrush and toothpaste and use the assigned intervention once daily at night. Clinical measures, including the Gingival Bleeding Index (BI), Plaque Index (PI), and Gingival Index (GI), were recorded at baseline and day 14. Descriptive statistics and statistical tests were performed using SPSS software.
+
+Results
+The water jet flossing group demonstrated a slightly higher, albeit non-significant, benefit in plaque removal (median difference of 6.79%, p=0.279) and bleeding reduction (median difference of 5.21%, p=0.172) compared to the interdental flossing group after two weeks. Both groups showed significant reductions in gingival bleeding index and plaque index from baseline to the 2-week follow-up. The interdental flossing group had median mean percentage differences of 16.13% (plaque index) and 23.57% (gingival bleeding index), while the water jet flossing group had median percentage differences of 21.87% (plaque index) and 32.29% (gingival bleeding index). No significant changes in gingival index grades were observed in either group.
+
+Conclusion
+Both water jet flossing and interdental flossing were effective in reducing plaque accumulation and gingival bleeding among orthodontic patients. While no significant differences were found between the two methods, water jet flossing showed a potential advantage. Further research is needed to validate its effectiveness, assess long-term impact, and understand its benefits for orthodontic patients.
+
+Full Text
+
+Introduction
+
+Plaque accumulation poses a significant challenge for orthodontic patients, as the presence of brackets, archwires, and elastics can make it difficult to clean all tooth surfaces effectively. This can result in the retention of plaque and subsequent gingival inflammation. Multiple studies have reported that the use of multibracket appliances can exacerbate both plaque and bleeding indexes in orthodontic patients along with the presence of active biofilm leading to the formation of white spots on the enamel. Additionally, the literature has documented various adverse effects associated with orthodontic treatment, such as gingival enlargement, tooth decalcification, and soft tissue recession. Along with changes in the distribution of dental biofilm, characterized by change in the location of plaque and an increase of supragingival plaque in the interdental area and on the vestibular surface of the teeth, quantitative changes in plaque are observed after just one week after starting orthodontic treatment and become more consistent three months later.
+
+Effective mechanical plaque removal is essential for maintaining good oral hygiene in patients with fixed orthodontic appliances. However, conventional toothbrushing alone may not be sufficient for orthodontic patients due to an increase in plaque retention and limited accessibility. To address this issue, several oral hygiene aids have been developed to help facilitate oral hygiene maintenance in orthodontic patients in addition to manual toothbrushing without affecting the orthodontic appliance negatively. These aids include interproximal brushes, dental flosses, and water flossers. Previous studies have suggested that approximately 20-40% of patients with fixed orthodontic appliances may have suboptimal plaque control when using manual toothbrushes alone.
+
+The use of a water flosser has been reported to aid in the reduction of gingival inflammation and pathogenic bacteria in patients with implants, crowns, bridges, and diabetes. Water flossers are particularly useful for eliminating debris from inaccessible areas around orthodontic appliances. Furthermore, studies have shown that using a water flosser as an adjunct to manual tooth brushing can lead to superior improvement in periodontal health compared to using only one device. On the other hand, other studies have documented that daily interdental flossing alone can decrease bleeding, plaque, and inflammation indexes. A study by Barnes et al. on non-orthodontic adults demonstrated that both water flossing and interdental flossing can equally reduce gingivitis and gingival bleeding over the same period. Furthermore, water flossers have been recommended to help orthodontic patients along with regular visits to the dental hygienist.
+
+The available literature on the comparison of water flossing and interdental flossing in patients with fixed orthodontic appliances is limited, with only a few published randomised clinical trials. As a result, there is insufficient evidence to determine the effectiveness of dental water flossers compared to interdental flossing for maintaining oral hygiene in orthodontic patients. This study aims to compare the effectiveness of water jet flossing with interdental flossing in maintaining oral hygiene in patients currently undergoing active orthodontic treatment with fixed appliances.
+
+Methodology
+
+The IRB is registered with the Office for Human Research Protection (OHRP) with OHRP Institution Registration No.: IORG0006829 and the trial was approved by TCTR Committee on 26/9/2023. The TCTR identification number is TCTR20230926005.
+
+Study design
+This was a single-blind, randomised, parallel clinical study that involved patients currently undergoing active orthodontic treatment with full-mouth brackets and archwires. Participants were randomly assigned to one of two groups based on the method of intervention:
+(1) Water jet flossing in conjunction with a manual toothbrush and fluoridated toothpaste.
+(2) Interdental flossing in conjunction with a manual toothbrush and fluoridated toothpaste.
+The blinding in this study was implemented at the clinician level, meaning that the clinician who assessed the outcomes and recorded the data was unaware of which intervention each participant received.
+
+Target population and sample size
+Participants were recruited from the Orthodontic Clinics at King Saud University in Riyadh, Saudi Arabia. Prior to the commencement of the study, all participants willingly provided informed consent. Sample size calculation (mean bleeding index difference of 25, SD 22.79, 80% power, 5% alpha) determined a sample size of 15 subjects per group, 30 total.
+
+Eligibility criteria
+Inclusion: physically healthy, aged 18+, ≥24 natural teeth (excluding third molars), <5 mm anterior crowding/spacing with adequate overjet/overbite, able to maintain oral hygiene, good periodontal health without immediate need for dental procedures.
+Exclusion: immunologic/inflammatory/liver disease, diabetes, pregnancy, conditions limiting manual dexterity, recent medications altering gingival health (anti-sialagogues, steroids, antibiotics), active periodontal disease, removable orthodontic appliances, not using any mouthwash.
+
+Study procedure
+Following CONSORT guidelines. All participants received a soft manual toothbrush and fluoridated toothpaste, then were randomised (simple randomisation) to water flosser or interdental floss groups. Participants were instructed to use only the assigned product (no other aids, mouth rinses, or toothpicks). Verbal/visual/written instructions given at baseline and again on day 14. Brushing twice daily for 2 minutes; assigned intervention once daily at night, using technique that avoided damaging the orthodontic appliance or oral tissues.
+
+Clinical measures
+Each participant assessed by the same (blinded) clinician at baseline and day 14, at six FDI-numbered teeth (16, 12, 24, 36, 32, 44):
+- Gingival Bleeding Index (BI): presence/absence of bleeding on probing, all 4 surfaces.
+- Plaque Index (PI): presence/absence of supragingival plaque, all 4 surfaces.
+- Gingival Index (GI): Grade 0 = normal; Grade 1 = mild inflammation/erythema, no bleeding; Grade 2 = bleeding on probing + erythema; Grade 3 = severe inflammation, swelling, erythema, spontaneous bleeding tendency.
+
+Statistical analysis
+SPSS v26.0. Descriptive statistics (median, IQR, frequencies, percentages). Non-parametric tests (Mann-Whitney U, Wilcoxon signed-rank) for PI/BI (non-normal distribution). Fisher's exact test for GI distribution. Significance threshold p≤0.05.
+
+Results
+
+30 participants: interdental flossing (n=12), water jet flossing (n=18).
+
+Baseline: PI similar between groups (interdental 37.50%, water jet 36.45%). Water jet group had slightly higher baseline BI (mean difference 5.61%, not significant, p=0.518).
+
+At 2 weeks: water jet group showed non-significantly greater PI reduction and BI reduction than interdental group (between-group mean differences of 3.12% and 8.39% respectively; p=0.279 and p=0.172).
+
+Gingival index: neither group showed significant change in GI grade distribution from baseline to 2 weeks. Interdental floss: baseline 83.3% grade 2 / 16.7% grade 3 → 91.7% grade 2 / 8.3% grade 3 at 2 weeks. Water jet: baseline 94.4% grade 2 / 5.6% grade 3 → 100% grade 2 at 2 weeks.
+
+Within-group changes (baseline → 2 weeks, significant for both):
+- Interdental floss group: PI median % difference 16.13% (p=0.010); BI median % difference 23.57% (p=0.002).
+- Water jet flossing group: PI median % difference 21.87% (p<0.0001); BI median % difference 32.29% (p<0.0001).
+
+Discussion (key points)
+
+Both interdental cleaning methods produced statistically significant reductions in plaque and gingival bleeding from baseline to 2 weeks, with no statistically significant difference between the two methods. Cited supporting literature: Abdellatif et al. 2021 (split-mouth RCT, both floss and water flosser reduced plaque in fair-to-poor oral hygiene patients); Xu et al. 2023 (water flossing + brushing more effective than brushing alone for GI/sulcus bleeding in gingivitis patients); Lyle et al. 2020 (water flosser + electric toothbrush > electric toothbrush alone, n=70); Goyal et al. 2018 (manual brush + water flosser > manual brush alone over 4 weeks); Worthington et al. 2019 Cochrane-type SR (oral irrigation adjunct to brushing improves outcomes vs brushing alone). Sharma et al. 2008 found similar bleeding reduction from both techniques in orthodontic adolescents, and that water flossers surpassed regular flossing/brushing alone for whole-mouth/interproximal plaque at 2 and 4 weeks. Mazzoleni et al. 2019 (dissenting): dental water jet did not significantly enhance home oral hygiene efficacy in multi-bracket orthodontic patients. Sawan et al. (Saudi orthodontic patients): both super floss and water flosser improved PI post-cleaning vs baseline; water flosser had a more substantial impact on plaque removal at the distal interproximal surface of the molar. Caccianiga et al. 2022: oral irrigator + sonic toothbrush may balance oral hygiene / reduce caries and gingivitis risk in orthodontic patients.
+
+Proposed mechanism: water jet flosser's pulsating stream creates a hydrodynamic effect dislodging plaque/debris from interdental spaces and around brackets, better than mechanical scraping of traditional floss in intricate spaces; pulsation may also have a gingival-massaging effect improving circulation and lowering GI trend; water jet flossing is gentler/non-invasive, potentially improving compliance in sensitive orthodontic patients.
+
+Limitations: small sample size; short (2-week) follow-up limits observation of long-term effects; variable individual oral hygiene adherence. Strengths: randomised assignment limiting bias.
+
+Conclusion
+
+Both water jet flossing and traditional interdental flossing are reliable and effective methods that significantly reduce plaque accumulation and gingival bleeding in orthodontic patients. No statistically significant difference in effectiveness was found between the two methods, though water jet flossing showed a marginal (non-significant) numerical advantage. Future research with longer follow-up, larger and more diverse samples is needed to confirm water jet flossing's specific benefits, long-term impact, patient comfort, and compliance in orthodontic patients.

@@ -1,0 +1,36 @@
+Title: Impact of orthodontic appliances on patients' daily lives: a comparison between clear aligners and fixed appliances
+Authors: Oliveira PC, Vilella BS, Martins e Martins M, Mattos CT, Nascimento VC, Vilella OV
+Year: 2026
+Journal: Dental Press Journal of Orthodontics 30(5):e252562
+PMID: 41538529
+PMCID: PMC12788501
+DOI: 10.1590/2177-6709.30.5.e252562.oar
+
+ABSTRACT:
+This study aimed to compare the impact of treatment with clear aligners versus conventional fixed appliances on the daily lives of orthodontic patients during the first six months and the last six months of treatment. The study involved 112 adult patients divided into four groups. Participants completed the "Dental Impacts on Daily Living" (DIDL) questionnaire (36 questions, 5 domains: appearance, pain, comfort, general performance, eating/chewing). No significant differences in total scores or domain scores, except for "General performance/Interpersonal relationship" domain during initial and final phases with fixed appliances. Both treatments showed a decrease in dissatisfaction between initial and final stages; adaptation is a crucial factor.
+
+METHODS:
+Cross-sectional observational study. 112 adult patients (≥18y), 4 groups (n=28 each):
+- Group 1: Initial fixed appliance (first 6 months)
+- Group 2: Final fixed appliance (last 6 months)
+- Group 3: Initial clear aligner (first 6 months)
+- Group 4: Final clear aligner (last 6 months)
+Instrument: DIDL (Dental Impacts on Daily Living) questionnaire — validated for Brazilian Portuguese by Leão and Sheiham. 36 questions, 5 weighted domains: appearance (4q), pain (4q), comfort (7q), general performance/interpersonal relationships (15q), eating/chewing (6q). Domain-weighted total score range -1 to +1 (<0=dissatisfied, 0–0.7=relatively satisfied, >0.7=satisfied). Recruited from Graduate Course in Orthodontics clinic, Fluminense Federal University. Statistical analysis: Mann-Whitney test, Fisher's exact test, descriptive statistics (median, IQR).
+
+KEY RESULTS:
+- 112 participants: 76 women (67.8%), 36 men (32.2%), mean age 36.5 years
+- Demographics: no significant differences between groups (age ANOVA p=0.118; sex χ² p=0.955)
+- Total DIDL score: no significant differences between aligner vs FA at either phase (p>0.05)
+- Domain scores (initial CA vs initial FA vs final CA vs final FA): all p>0.05 EXCEPT:
+  - "General performance" domain: significant improvement initial vs final fixed appliance (p=0.025) — patients adapted over time to FA
+- Satisfaction distribution (Fisher p=0.001):
+  - Dissatisfied: initial FA 35.7%, initial CA 14.3%, final FA 10.7%, final CA 0%
+  - Partial satisfaction: all groups 64-100%
+  - Satisfied: initial CA 3.6%, final FA 7.1%, others 0%
+- Initial FA: HIGHEST dissatisfaction (35.7%)
+- Final CA: ZERO dissatisfied patients
+- Comfort domain: at final CA — zero patients with breathing interference vs 16/28 FA; 2 aligner vs 8 FA with gingival bleeding
+- Pain domain: no significant differences between groups
+
+CONCLUSIONS:
+Both treatments showed decreasing dissatisfaction over time — adaptation is crucial. Initial phase of fixed appliances had highest dissatisfaction rate. Final clear aligner phase had zero dissatisfied patients. Orthodontists should pay special attention to patients immediately after device installation.

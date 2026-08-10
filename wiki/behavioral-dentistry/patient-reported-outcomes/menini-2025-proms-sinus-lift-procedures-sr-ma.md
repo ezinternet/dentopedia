@@ -6,7 +6,7 @@ date: 2025-06-24
 doi: "10.11607/jomi.11434"
 source: menini-2025-proms-sinus-lift-procedures-sr-ma.md
 category: [behavioral-dentistry/patient-reported-outcomes]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/menini-2025-proms-sinus-lift-procedures-sr-ma.pdf
 pdf_filename: menini-2025-proms-sinus-lift-procedures-sr-ma.pdf
 source_collection: external

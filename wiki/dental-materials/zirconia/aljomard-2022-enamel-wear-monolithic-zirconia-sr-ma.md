@@ -6,7 +6,7 @@ date: 2021-10-08
 doi: 10.1111/jerd.12823
 source: aljomard-2022-enamel-wear-monolithic-zirconia-sr-ma.md
 category: [dental-materials/zirconia]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/aljomard-2022-enamel-wear-monolithic-zirconia-sr-ma.pdf
 pdf_filename: aljomard-2022-enamel-wear-monolithic-zirconia-sr-ma.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2019-09-01
 doi: 10.1016/j.prosdent.2018.10.023
 source: li-2019-dynamic-peri-implant-soft-tissue-scan.md
 category: [immediate-implant/esthetic-soft-tissue]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/li-2019-dynamic-peri-implant-soft-tissue-scan.pdf
 pdf_filename: li-2019-dynamic-peri-implant-soft-tissue-scan.pdf
 source_collection: external

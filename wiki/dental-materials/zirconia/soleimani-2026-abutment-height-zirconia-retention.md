@@ -6,7 +6,7 @@ date: 2026-01-01
 doi: 10.1155/IJOD/4694705
 source: soleimani-2026-abutment-height-zirconia-retention.md
 category: [dental-materials/zirconia]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/soleimani-2026-abutment-height-zirconia-retention.pdf
 pdf_filename: soleimani-2026-abutment-height-zirconia-retention.pdf
 source_collection: external

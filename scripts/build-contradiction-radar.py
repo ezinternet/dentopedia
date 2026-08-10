@@ -102,7 +102,7 @@ def parse_page(path: Path) -> dict:
         "title": field("title"),
         "authors": field("authors"),
         "year": field("year"),
-        "confidence": field("confidence"),
+        "confidence": field("evidence_level") or field("confidence"),
         "category": field("category").strip("[]"),
         "relations": relations,
         "one_en": section("Three-line Summary"),

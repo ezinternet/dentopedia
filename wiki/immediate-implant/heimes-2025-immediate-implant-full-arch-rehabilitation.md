@@ -6,7 +6,7 @@ date: 2025-04-21
 doi: 10.11607/ijp.9388
 source: heimes-2025-immediate-implant-full-arch-rehabilitation.md
 category: [immediate-implant]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/heimes-2025-immediate-implant-full-arch-rehabilitation.pdf
 pdf_filename: heimes-2025-immediate-implant-full-arch-rehabilitation.pdf
 source_collection: external

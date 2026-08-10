@@ -6,7 +6,7 @@ date: 2018-10-27
 doi: 10.1007/s00784-018-2722-5
 source: van-de-sande-2019-composite-repair-anterior-15year.md
 category: ['resin']
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/van-de-sande-2019-composite-repair-anterior-15year.pdf
 pdf_filename: van-de-sande-2019-composite-repair-anterior-15year.pdf
 source_collection: external

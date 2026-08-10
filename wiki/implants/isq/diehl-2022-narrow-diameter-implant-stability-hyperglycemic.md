@@ -6,7 +6,7 @@ date: 2022-07-17
 doi: 10.1002/cre2.587
 source: diehl-2022-narrow-diameter-implant-stability-hyperglycemic.md
 category: [implants/isq]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/diehl-2022-narrow-diameter-implant-stability-hyperglycemic.pdf
 pdf_filename: diehl-2022-narrow-diameter-implant-stability-hyperglycemic.pdf
 source_collection: external
@@ -74,5 +74,5 @@ The control group's largest ISQ jump occurred between Day 3 and Day 7 (p=.024), 
 
 - [[implants/isq/tisci-2026-isq-it-mbl-survival-sr-ma]] — 48-study SR+MA linking ISQ/IT to MBL and survival; provides broader ISQ benchmark context for loading decisions
 - [[implants/isq/lee-2011-isq-loading-protocol-prediction]] — ISQ-based loading threshold decision framework; contextualizes the 63–64 ISQ achieved by NDIs in T2DM
-- [[implants/cao-2023-titanium-zirconium-narrow-diameter-single-crown]] — TiZr NDI prosthetic outcomes (single crowns); complements this study's biological stability findings with longer-term prosthetic data
-- [[implants/kim-2026-dental-implant-osteoporosis-osteosclerosis]] — implant stability in another systemic metabolic disease (osteoporosis/osteosclerosis); parallel systemic disease context for implant ISQ interpretation
+- [[implants/short-narrow/cao-2023-titanium-zirconium-narrow-diameter-single-crown]] — TiZr NDI prosthetic outcomes (single crowns); complements this study's biological stability findings with longer-term prosthetic data
+- [[implants/survival/kim-2026-dental-implant-osteoporosis-osteosclerosis]] — implant stability in another systemic metabolic disease (osteoporosis/osteosclerosis); parallel systemic disease context for implant ISQ interpretation

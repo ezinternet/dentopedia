@@ -6,7 +6,7 @@ date: 2017-01-01
 doi: 10.1136/bmjopen-2016-013115
 source: schwendicke-2017-single-visit-multiple-visit-rct-sr-ma.md
 category: [endodontics/visit-protocol]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/schwendicke-2017-single-visit-multiple-visit-rct-sr-ma.pdf
 pdf_filename: schwendicke-2017-single-visit-multiple-visit-rct-sr-ma.pdf
 source_collection: external

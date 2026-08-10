@@ -14,7 +14,7 @@ text_filename: ishikawa-1995-toothpick-method-instruction-frequency-community-pe
 
 ## Why Ingested
 
-Classic Watanabe-toothpick-method community program (T. Watanabe is a coauthor) showing an instruction-frequency *dose effect* — repeated (3×) vs single brushing instruction — on periodontal health, complementing the toothpick-method evidence base. It reinforces [[periodontics/rajwani-2020-manual-toothbrushing-techniques-plaque-gingivitis-sr]] (which catalogs the Watanabe/toothpick technique among manual methods) and pairs with [[periodontics/lee-2020-watanabe-toothpick-method-srp-diabetic-periodontitis-rct]] (professional repeated toothpick-method brushing as adjunct). Note: this page is **abstract-only** (Japanese paper, English abstract; PubMed-truncated at 250 words) — full text not retrieved; do not invent numbers beyond the abstract.
+Classic Watanabe-toothpick-method community program (T. Watanabe is a coauthor) showing an instruction-frequency *dose effect* — repeated (3×) vs single brushing instruction — on periodontal health, complementing the toothpick-method evidence base. It reinforces [[periodontics/oral-hygiene-instruction/rajwani-2020-manual-toothbrushing-techniques-plaque-gingivitis-sr]] (which catalogs the Watanabe/toothpick technique among manual methods) and pairs with [[periodontics/oral-hygiene-instruction/lee-2020-watanabe-toothpick-method-srp-diabetic-periodontitis-rct]] (professional repeated toothpick-method brushing as adjunct). Note: this page is **abstract-only** (Japanese paper, English abstract; PubMed-truncated at 250 words) — full text not retrieved; do not invent numbers beyond the abstract.
 
 ## Three-line Summary
 
@@ -78,8 +78,8 @@ Community comparative intervention (n=31 three-time vs n=40 single toothpick-met
 
 ## 6. Related Work
 
-- [[periodontics/rajwani-2020-manual-toothbrushing-techniques-plaque-gingivitis-sr]] — SR cataloging manual toothbrushing techniques including the toothpick (Watanabe) method.
-- [[periodontics/lee-2020-watanabe-toothpick-method-srp-diabetic-periodontitis-rct]] — RCT of professional Watanabe/toothpick-method brushing as an SRP adjunct in diabetic periodontitis.
+- [[periodontics/oral-hygiene-instruction/rajwani-2020-manual-toothbrushing-techniques-plaque-gingivitis-sr]] — SR cataloging manual toothbrushing techniques including the toothpick (Watanabe) method.
+- [[periodontics/oral-hygiene-instruction/lee-2020-watanabe-toothpick-method-srp-diabetic-periodontitis-rct]] — RCT of professional Watanabe/toothpick-method brushing as an SRP adjunct in diabetic periodontitis.
 
 ## 7. Glossary
 

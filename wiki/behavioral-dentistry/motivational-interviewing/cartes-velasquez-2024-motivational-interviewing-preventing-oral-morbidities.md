@@ -6,7 +6,7 @@ date: 2023-09-05
 doi: 10.1111/cdoe.12904
 source: cartes-velasquez-2024-motivational-interviewing-preventing-oral-morbidities.md
 category: behavioral-dentistry/motivational-interviewing
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/cartes-velasquez-2024-motivational-interviewing-preventing-oral-morbidities.pdf
 pdf_filename: cartes-velasquez-2024-motivational-interviewing-preventing-oral-morbidities.pdf
 source_collection: external

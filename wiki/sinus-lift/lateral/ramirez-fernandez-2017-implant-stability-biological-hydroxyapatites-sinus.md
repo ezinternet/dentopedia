@@ -6,7 +6,7 @@ date: 2017-06-12
 doi: 10.3390/ma10060644
 journal: Materials 10(6):644
 source: ramirez-fernandez-2017-implant-stability-biological-hydroxyapatites-sinus.md
-confidence: prospective
+evidence_level: prospective
 category: [sinus-lift/lateral]
 pdf_path: /Users/oracleneo/llm-wiki/papers/ramirez-fernandez-2017-implant-stability-biological-hydroxyapatites-sinus.pdf
 pdf_filename: ramirez-fernandez-2017-implant-stability-biological-hydroxyapatites-sinus.pdf

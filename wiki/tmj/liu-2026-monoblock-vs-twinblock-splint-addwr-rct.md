@@ -6,7 +6,7 @@ date: 2026-03-07
 doi: 10.1111/joor.70179
 source: liu-2026-monoblock-vs-twinblock-splint-addwr-rct.md
 category: [tmj]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: true
 pmid: "41793287"

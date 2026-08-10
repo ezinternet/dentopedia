@@ -45,7 +45,7 @@ Buccal plate <1 mm in the majority of teeth measured. Palatal bone generally thi
 Cross-sectional; single-center; CBCT voxel size limits sub-millimeter precision.
 
 ## 6. Related Work
-- [[immediate-implant/shafizadeh-2021-alveolar-bone-thickness-healthy-sr]]
+- [[immediate-implant/anatomic-assessment/shafizadeh-2021-alveolar-bone-thickness-healthy-sr]]
 - [[immediate-implant/jung-2018-anterior-implant-cbct]]
 
 ## 7. Glossary

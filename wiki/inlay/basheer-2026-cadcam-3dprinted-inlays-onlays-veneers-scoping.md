@@ -6,7 +6,7 @@ date: 2026-01-01
 doi: 10.1155/ijod/7117281
 source: basheer-2026-cadcam-3dprinted-inlays-onlays-veneers-scoping.md
 category: [inlay]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "42064823"

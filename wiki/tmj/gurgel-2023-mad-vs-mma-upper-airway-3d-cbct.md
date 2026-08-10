@@ -6,7 +6,7 @@ date: 2023-01-01
 doi: 10.1186/s12903-023-03125-5
 source: gurgel-2023-mad-vs-mma-upper-airway-3d-cbct.md
 category: [tmj]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/gurgel-2023-mad-vs-mma-upper-airway-3d-cbct.pdf
 pdf_filename: gurgel-2023-mad-vs-mma-upper-airway-3d-cbct.pdf
 source_collection: external

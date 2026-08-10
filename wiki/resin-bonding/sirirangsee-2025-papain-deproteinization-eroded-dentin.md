@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: "10.1038/s41598-025-92975-w"
 source: sirirangsee-2025-papain-deproteinization-eroded-dentin.md
 category: resin-bonding
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/sirirangsee-2025-papain-deproteinization-eroded-dentin.pdf
 pdf_filename: sirirangsee-2025-papain-deproteinization-eroded-dentin.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2024-10-09
 doi: 10.1111/jcpe.14070
 source: strauss-2024-wide-emergence-angle-marginal-bone-loss-junctional-epithelium.md
 category: implants/soft-tissue
-confidence: animal
+evidence_level: animal
 source_collection: pubmed-text
 full_text: true
 pmid: "39385502"

@@ -6,7 +6,7 @@ date: 2022-01-11
 doi: 10.1155/2022/7510578
 journal: International Journal of Dentistry 2022:7510578
 source: ghimire-2022-medically-compromised-prosthodontic-patients.md
-confidence: narrative-review
+evidence_level: narrative-review
 category: [drug/mronj]
 pdf_path: /Users/oracleneo/llm-wiki/papers/ghimire-2022-medically-compromised-prosthodontic-patients.pdf
 pdf_filename: ghimire-2022-medically-compromised-prosthodontic-patients.pdf
@@ -65,6 +65,6 @@ Narrative review of prosthodontic treatment modifications for 9 systemic disease
 - IV bisphosphonate (oncologic): implants and surgical extractions contraindicated without specialist evaluation
 
 ## Related Papers
-- [[drug/gupta-2022-dental-management-cardiovascular-disease]] — detailed CVD protocols including drug interactions
-- [[drug/ufcd-2019-medically-complex-patients-management-guidelines]] — comprehensive protocol guideline
-- [[drug/inchingolo-2024-anticoagulation-therapy-dental-practice-sr]] — anticoagulation: do not stop for routine procedures
+- [[drug/anticoagulants/gupta-2022-dental-management-cardiovascular-disease]] — detailed CVD protocols including drug interactions
+- [[drug/mronj/ufcd-2019-medically-complex-patients-management-guidelines]] — comprehensive protocol guideline
+- [[drug/anticoagulants/inchingolo-2024-anticoagulation-therapy-dental-practice-sr]] — anticoagulation: do not stop for routine procedures

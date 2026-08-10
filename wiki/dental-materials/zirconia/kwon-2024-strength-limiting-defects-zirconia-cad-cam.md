@@ -6,7 +6,7 @@ date: 2024-02-19
 doi: 10.1016/j.dental.2024.02.003
 source: kwon-2024-strength-limiting-defects-zirconia-cad-cam.md
 category: [dental-materials/zirconia]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/kwon-2024-strength-limiting-defects-zirconia-cad-cam.pdf
 pdf_filename: kwon-2024-strength-limiting-defects-zirconia-cad-cam.pdf
 source_collection: external

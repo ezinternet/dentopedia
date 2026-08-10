@@ -5,9 +5,12 @@ year: 2026
 date: 2026-06-27
 source: overview
 category: [overviews]
-confidence: synthesis
+evidence_level: synthesis
 source_collection: synthesis
 tags: [implants, inter-implant-distance, implant-tooth-proximity, crestal-bone]
+relations:
+  - type: refines
+    target: morales-schwarz-2025-1mm-interimplant-distance-10year-case
 ---
 
 > [!summary] 한국어 핵심요약
@@ -71,7 +74,7 @@ The proximity penalty falls mainly on bone-level (BL) implants where the microga
 
 ## Related Papers
 
-- [[implants/tarnow-2000-inter-implant-distance-crestal-bone-height]] — Landmark retrospective (n=36) that established the ≥3 mm IID rule by quantifying ~1.4 mm/side lateral bone loss and linking bone crest height to papilla; the mechanistic anchor of this synthesis (external-hex era).
+- [[implants/mbl/tarnow-2000-inter-implant-distance-crestal-bone-height]] — Landmark retrospective (n=36) that established the ≥3 mm IID rule by quantifying ~1.4 mm/side lateral bone loss and linking bone crest height to papilla; the mechanistic anchor of this synthesis (external-hex era).
 - [[implants/morales-schwarz-2025-1mm-interimplant-distance-10year-case]] — 10-year case report (n=1) + literature/animal review showing a 1 mm IID maintainable with modern implant design; provides the "exception" that qualifies — but does not overturn — Tarnow's rule.
 - [[implants/joshi-2025-implant-tooth-proximity-sr-ma]] — SR+MA (11 studies, 1,727 patients) defining the ≥1.5 mm implant-to-tooth safety margin and the key insight that proximity threatens the adjacent tooth's pulp (20–25%) more than implant survival (>95%).
-- [[implants/ng-2018-implant-tooth-proximity-bone-loss]] — Retrospective cohort (98 patients) showing <1 mm proximity harms only bone-level implants (↑BOP, ↑bone loss) while tissue-level implants are spared; supplies the implant-type modifier to the tooth-side threshold.
+- [[implants/mbl/ng-2018-implant-tooth-proximity-bone-loss]] — Retrospective cohort (98 patients) showing <1 mm proximity harms only bone-level implants (↑BOP, ↑bone loss) while tissue-level implants are spared; supplies the implant-type modifier to the tooth-side threshold.

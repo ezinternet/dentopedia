@@ -1,0 +1,104 @@
+Effectiveness of different types of toothbrushes on periodontal health in orthodontic patients with gingivitis: A randomized controlled study
+
+Aykol-Sahin G, Ay-Kocabas B, Mert B, Usta H.
+BMC Oral Health. 2024;24(1):1289
+DOI: 10.1186/s12903-024-05084-x
+PMID: 39455996
+PMCID: PMC11515239
+
+Abstract
+
+Background
+The aim of the study is to evaluate the effectiveness of different toothbrushes in reducing gingival inflammation and dental biofilm removal in gingivitis patients with fixed orthodontic appliances.
+
+Methods
+Following baseline clinical assessments, including the Turesky modification of the Quigley-Hein plaque index (TQHI), gingival index (GI), bleeding on probing (BOP), and probing pocket depth (PPD), all patients received nonsurgical periodontal therapy. Patients were then randomly assigned to one of three groups: conventional toothbrush (C-TB), orthodontic toothbrush (O-TB), or single-tufted toothbrush (ST-TB). Each group received tailored oral hygiene instructions based on their assigned toothbrush type. Clinical assessments were repeated and recorded in the first week, sixth week, and third month.
+
+Results
+Thirty-six patients with a mean age of 23.14 ± 3.86 (18-32 years) participated in the study. All groups with twelve patients each demonstrated significant improvements in clinical parameters compared to baseline. In the sixth week, the O-TB and ST-TB groups showed significantly greater improvements in TQHI and BOP scores compared to the C-TB group (p < 0.05). By the third month, the ST-TB group maintained significantly lower TQHI and BOP scores, while the O-TB group's scores became similar to those of the C-TB group. ST-TB and C-TB groups had significantly lower GI scores than the O-TB group in all time points. Although the effectiveness of ST-TB was significantly higher than that of other toothbrushes, all toothbrushes demonstrated lower efficacy in the posterior region.
+
+Conclusions
+The ST-TB was shown to be more effective in reducing gingival inflammation over three months, while it demonstrated similar efficacy to the O-TB in dental biofilm removal. Further research is necessary to substantiate these findings and to demonstrate the efficacy of this approach in promoting periodontal tissue health in patients with fixed orthodontic appliances.
+
+Trial registration
+This study was registered with the National Library of Medicine Clinical Trials Registry Platform on 19/07/2024 as NCT06510179.
+
+Keywords: Gingivitis; Oral hygiene; Orthodontic appliances; Toothbrushing
+
+Full Text
+
+Background
+
+Fixed orthodontic treatment is often the preferred method for the treatment of malocclusion and involves using complex devices like brackets and arch wires. These devices create areas that retain plaque, making effective plaque removal more challenging. Studies have shown that patients with fixed orthodontic appliances tend to have increased plaque accumulation. These patients are more susceptible to gingival inflammation due to this plaque-accumulating environment. The essential role of dental biofilm in gingivitis is well-documented, and removing biofilm can reverse the condition. Previous animal studies on dentition with reduced periodontium have shown that orthodontic forces and tooth movements do not induce gingival inflammation without plaque. However, in the presence of plaque, similar forces can result in vertical bone defects and attachment loss, especially with tipping and intruding movements. Effective dental biofilm control is crucial for improving oral hygiene especially in orthodontic patients.
+
+Orthodontic patients face challenges with mechanical plaque removal, requiring various strategies to control plaque formation, prevent gingivitis, and maintain the periodontal health. Mechanical plaque removal with toothbrushes and interdental devices is the most common method for controlling plaque at home. Most patients prefer manual toothbrushes, whether conventional or orthodontic, due to their lower cost and ease of use. Although powered toothbrushes are more effective than manual ones in reducing plaque and gingivitis both short and long term in non-orthodontic patients, the effectiveness of powered versus manual toothbrushes is still uncertain for the orthodontic patients. A recent systematic review and meta-analysis concluded that there was no significant difference between manual and powered toothbrushes in reducing plaque accumulation or gingivitis in patients with fixed orthodontic devices. Selecting oral hygiene instruments that are most appropriate for each patient's specific needs is crucial for motivating orthodontic patients. Manual orthodontic toothbrushes have undergone advancements in bristle design and material. Many types of toothbrush options have been promoted for orthodontic patients. The use of orthodontic toothbrushes is currently preferred over other types of toothbrushes due to their bristle design, which makes it easier to clean the area around the brackets. Since orthodontic toothbrushes typically feature a V-shaped groove, while the shorter bristles within the groove are designed to clean the middle bracket area, the longer bristles are intended to clean the surroundings of the brackets. Studies comparing the effectiveness of orthodontic and conventional toothbrushes in reducing plaque and gingivitis on teeth with fixed appliances have shown conflicting results. More recently, single-tufted brushes have been investigated for their effectiveness in plaque removal. Single-tufted toothbrushes are recommended as an adjunctive device for surfaces and areas of the teeth that are not easily reached with other oral hygiene devices, such as the distal surfaces of molars, furcation areas, irregular gingival margins and areas of crowded teeth. Hasegawa et al., who first compared the effectiveness of single-tufted toothbrushes with the golden standard conventional toothbrush in controlling newly formed biofilm in the dentogingival area of healthy individuals, found it effective at controlling short-term dental biofilm neoformation on the dentogingival area.
+
+There are limited studies comparing the plaque removal efficacy of single-tufted brushes with conventional toothbrushes, and one study has investigated in orthodontic patients. However, none of them has monitored their periodontal health in the longer term and have compared single-tufted toothbrushes with conventional and orthodontic toothbrushes together. To our knowledge, none of them investigated their effectiveness according to anterior or posterior region. It was hypothesized that single-tufted toothbrushes are more effective in plaque removal and the healing of gingival inflammation than conventional toothbrushes and as effective as orthodontic toothbrushes. Therefore, it was aimed to evaluate the effectiveness of different toothbrushes in removing plaque and gingival inflammation in individuals under fixed orthodontic treatment for gingivitis during three months.
+
+Methods
+
+Patient selection
+
+This study was conducted at Istanbul Okan University, Faculty of Dentistry, between September 2023 and April 2024. A total of 59 systemically healthy patients (18-35 years old) who were undergoing orthodontic treatment with mandibular and maxillary fixed orthodontic brackets attached to the buccal surface were recruited. Informed consent was obtained from all individual participants included in the study. This study is in accordance with the ethical guidelines of the 1964 Helsinki Declaration and its later amendments. Ethical approval was obtained from the Istanbul University Faculty of Dentistry Ethics Committee (2023/30 Rev-1/681). It was registered with National Library of Medicine Clinical Trials Registry Platform (NCT06510179) and in accordance with the guidelines of the CONSORT Statement for clinical trials.
+
+Inclusion and exclusion criteria
+
+Inclusion criteria: orthodontic patients with at least 22 teeth with brackets, aged 18-35 years, systemically healthy, and non-smokers. Exclusion criteria: patients who were not leveling and aligning teeth in three dimensions, those who were periodontally healthy or had periodontitis, smokers or had alcohol consumption, patients who had used antibiotics in the last three months, and pregnant patients.
+
+Sample size calculation
+
+Using G*Power V. 3.1.9.6, with 95% confidence, 80% test power, f = 1.703 effect size, at least 10 samples per group were determined necessary. Accounting for 10% patient loss, 14 individuals were included per group, totaling 42 individuals.
+
+Study design
+
+Single-blind, randomized, controlled parallel-group clinical trial (CONSORT guidelines). At baseline, a periodontist performed clinical examination on all patients, and professional mechanical debridement was performed. Patients were then randomized (computer-aided randomization program) by an orthodontist blinded to data collection into one of three groups: conventional toothbrush (C-TB); orthodontic toothbrush (O-TB); single-tufted toothbrush (ST-TB). Three different kits (C-TB/O-TB/ST-TB, plus the same toothpaste) were delivered to each patient. Use of other oral cleaning tools (other toothpaste, electric toothbrush, another toothbrush, mouth rinse) was restricted. All patients were instructed to use an interdental brush for interdental cleaning.
+
+Oral hygiene instruction of C-TB group: Modified Bass technique — bristles positioned 45° to the long axis of the tooth toward the gingival margin with a gentle back-and-forth rolling motion, then swept toward the occlusal surface; same movement repeated just occlusal to the brackets.
+
+Oral hygiene instruction of O-TB group: Bass technique — toothbrush placed at the gingival margin with bristles at 45° to the long axis of the tooth, back-and-forth movements and vibration at short intervals without lifting the bristles.
+
+Oral hygiene instruction of ST-TB group: Brushing only with ST-TB using the Solo (single-tooth circular) technique, with circular movements around the brackets and following the gingival margin of each tooth.
+
+Clinical examination and intervention
+
+Clinical periodontal status was assessed via Turesky modification of Quigley-Hein plaque index (TQHI), probing pocket depth (PPD), gingival index (GI), and bleeding on probing (BOP), recorded at 6 sites per tooth (mesiobuccal, midbuccal, distobuccal, mesiolingual, midlingual, distolingual) by one calibrated examiner (ICC 0.99). Professional mechanical debridement was performed by ultrasonic device and hand instruments on all patients. Measurements repeated at baseline, 1st week, 6th week, and 3 months. After every recall, the orthodontist repeated oral hygiene instructions to all three groups.
+
+Statistical analysis
+
+IBM SPSS V23. Shapiro-Wilk for normality. One-way ANOVA / Kruskal-Wallis for between-group comparisons; paired t-test / Wilcoxon for within-group pre-post comparisons. Significance level p < 0.050.
+
+Results
+
+Study population
+
+Thirty-six patients completed the study (12 per group). No adverse effects observed. No significant differences in age (p = 0.699) or orthodontic treatment duration (p = 0.63) between groups. 29 female (80.6%), 7 male (19.4%); no significant group distribution difference (p = 0.165). Mean age 23.14 ± 3.86 years.
+
+Clinical parameters
+
+No statistically significant differences between groups at baseline for any clinical parameter (p > 0.05). All groups showed statistically significant reductions in TQHI, BOP, GI, and PPD scores from baseline to each subsequent time point.
+
+TQHI: At 1st and 6th weeks, O-TB and ST-TB had significantly lower TQHI than C-TB. By 3rd month, O-TB TQHI increased to become similar to C-TB (p < 0.05); ST-TB maintained significantly lower TQHI than both C-TB and O-TB at 3rd month (p < 0.001).
+
+GI: No significant difference between C-TB and O-TB; ST-TB consistently displayed significantly lower GI than the other groups throughout the 3 months.
+
+BOP: O-TB and ST-TB significantly lower than C-TB during 1st and 6th weeks. By 3rd month, only ST-TB maintained significantly lower BOP.
+
+PPD: No statistically significant differences between groups at any time point (p = 0.424).
+
+Anterior vs. posterior: Posterior regions had significantly higher plaque index, GI, and BOP levels at all time points than anterior region, across all groups. No statistically significant difference between groups by tooth location interaction (p = 0.074). ST-TB group had significantly lower TQHI, GI, and BOP regardless of tooth location.
+
+Discussion
+
+Although all groups had statistically significant reductions in clinical parameters from baseline, the ST-TB group showed significantly higher effect on plaque index, GI, and BOP over three months compared to C-TB, and was significantly the most effective toothbrush on BOP, GI, and TQHI at the third month.
+
+Prior short-term (72h) studies (Aeran et al., others) found ST-TB more effective than C-TB for plaque control, consistent with the present results, but those studies involved periodontally healthy patients (not gingivitis patients as here). Studies comparing O-TB vs C-TB found O-TB significantly more effective for plaque removal; a meta-analysis supported recommending O-TB over C-TB for plaque control though not gingival bleeding.
+
+Brushing techniques differed by toothbrush type (modified Bass for C-TB, Bass for O-TB, Solo/single-tooth circular for ST-TB), consistent with literature showing modified Bass and Bass techniques are more effective for reducing plaque/gingival indices in fixed orthodontic patients. ST-TB's small head and directed bristles with rotation/vibration on each tooth surface may explain superior plaque removal and gingival inflammation control, particularly around plaque-retentive niches (brackets, interdental areas, disto-lingual surfaces) not well reached by flat-trimmed brushes.
+
+Posterior teeth showed higher (worse) parameters than anterior across all groups, attributable to multi-rooted anatomy and access difficulty; ST-TB remained superior regardless of location, though even ST-TB's own effectiveness was lower in posterior vs anterior teeth.
+
+Limitations: brush-and-oral surfaces/jaw differences not analyzed; relatively small sample size (though larger than power-analysis minimum); diet/lifestyle habits not controlled; unsupervised home brushing (possible non-compliance); future studies could use periodic computer-based intraoral plaque image analysis.
+
+Conclusion
+
+Within the limits of this study, single-tufted toothbrushes were significantly more effective in reducing gingival and plaque indices in patients with fixed orthodontic appliances and in maintaining periodontal health over three months. Further studies are needed to confirm these findings and demonstrate effectiveness on periodontal tissue health with fixed orthodontic appliances.

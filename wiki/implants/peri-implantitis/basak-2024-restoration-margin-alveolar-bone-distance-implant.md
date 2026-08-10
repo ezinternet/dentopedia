@@ -6,7 +6,7 @@ date: 2024-05-01
 doi: 10.1016/j.jdent.2024.104935
 source: basak-2024-restoration-margin-alveolar-bone-distance-implant.md
 category: implants/peri-implantitis
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/basak-2024-restoration-margin-alveolar-bone-distance-implant.pdf
 pdf_filename: basak-2024-restoration-margin-alveolar-bone-distance-implant.pdf
 source_collection: external

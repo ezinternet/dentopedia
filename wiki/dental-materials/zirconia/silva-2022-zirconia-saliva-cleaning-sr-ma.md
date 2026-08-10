@@ -6,7 +6,7 @@ date: 2022-01-17
 doi: 10.3290/j.jad.b2916437
 source: silva-2022-zirconia-saliva-cleaning-sr-ma.md
 category: [dental-materials/zirconia]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/silva-2022-zirconia-saliva-cleaning-sr-ma.pdf
 pdf_filename: silva-2022-zirconia-saliva-cleaning-sr-ma.pdf
 source_collection: external

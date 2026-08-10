@@ -6,7 +6,7 @@ date: 2023-11-01
 doi: "10.1111/jopr.13780"
 source: sheba-2023-interproximal-contact-loss-systematic-meta.md
 category: [food-impaction]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/sheba-2023-interproximal-contact-loss-systematic-meta.pdf
 pdf_filename: sheba-2023-interproximal-contact-loss-systematic-meta.pdf
 source_collection: external

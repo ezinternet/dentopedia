@@ -6,7 +6,7 @@ date: 2025-09-01
 doi: ""
 source: raghavan-2025-bone-density-implant-dentistry-review.md
 category: [implants]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/raghavan-2025-bone-density-implant-dentistry-review.pdf
 pdf_filename: raghavan-2025-bone-density-implant-dentistry-review.pdf
 source_collection: external
@@ -43,4 +43,4 @@ Concise narrative review covering bone density classification systems (Misch D1�
 ## Related Papers
 - [[implants/premnath-2012-stress-distribution-bone-density-fea]] — FEA of stress in D1–D4 bone
 - [[implants/munjal-2015-implants-low-density-bone-d3d4]] — clinical outcomes in D3/D4 bone
-- [[implants/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — OD as D3/D4 technique
+- [[implants/osseodensification/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — OD as D3/D4 technique

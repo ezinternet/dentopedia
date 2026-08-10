@@ -1,0 +1,153 @@
+Introduction
+
+Highlights
+
+Antibiotic prophylaxis has little or no effect in certain surgical scenarios.
+
+Antibiotic prophylaxis is not recommended in nonsurgery invasive procedures.
+
+Antibiotic resistance and other adverse events are increased in three scenarios.
+
+Low quality of current evidence limits the external validity of the results and necessitating clinicians to carefully balance the relative low risk of infection and antibiotic-related adverse outcomes.
+
+Antibiotic consumption raises from 21.1 defined daily doses (DDDs) in 2000 to 34.8 billion DDDs in 2015 and continuously increases to now. Microbial infections are becoming the second leading cause of death globally, and unwarranted or ineffective antibiotics do not contribute to disease prognosis and may cause antibiotic resistance. Excessive use of antibiotics resulted in a series of healthcare crises, which may lead to anticipated 10 million death globally each year by 2050.
+
+In addition to treating infection, antibiotics are for a prophylactic purpose, including the prevention of clinically relevant infection in people undergoing surgery, invasive operations, and cancer chemotherapy as well as those with other conditions that put people at high risk. Prophylactic use of antibiotics may reduce potential infections and improve disease prognosis; however, a potential link to excessive or inappropriate prescription that brings individual and population-level side effects such as hypersensitivity, secondary infection, and liver and kidney injury as well as antimicrobial resistance, extra medical cost, and longer hospital stay. Antibiotics for this purpose constitute ~25.2% of the total in-hospital antibiotic prescription and contribute to the most controversy and risk of improper use of antibiotics. Nevertheless, the rationality of such use highly relies on the specific scenario as well as the value and preference of a person and the public. The criticism regarding the prophylactic use of antibiotics never stops leaving a large gap between evidence and practice. For example, the clinical practice guideline of the European Society of Gastrointestinal Endoscopy recommended antibiotics for infection prophylaxis in people undergo endoscopic ultrasonography-guided fine needle aspiration (EUS-FNA) of pancreatic cysts, despite the latest evidence synthesis demonstrating a null effect of such use. This example calls for comprehensive evidence summary for antibiotic prophylaxis for clinicians guideline developers.
+
+To date, accumulated meta-analyses assessed the efficacy and safety of antibiotic prophylaxis, but left fragmented and controversial conclusions that confuse clinicians and public health professionals. High-quality and comprehensive evidence is urgently needed to promote the rational use of prophylactic antibiotics and improve antibiotic stewardship. In this study, we comprehensively integrated the published meta-analyses regarding the prophylactic use of antibiotics and map the evidence with an umbrella review.
+
+Material and methods
+
+This umbrella review followed the guidelines for Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA 2020 statement) (Supplemental Digital Content 1,, Supplemental Digital Content 2,).
+
+Literature search and selection criteria
+
+We performed a systematic literature search in PubMed, EMBASE, Web of Science Core Collection, and the Cochrane Database of Systematic Reviews from inception to 30 December 2022 (latest update), for meta-analyses evaluating the efficacy and safety of antibiotic prophylaxis. We used medical subject heading (MeSH) terms and keywords in the search, including ‘antibiotic prophylaxis’ and ‘meta-analysis’ or ‘systematic review’ (Supplementary Table 1, Supplemental Digital Content 3,, detailed search strategies). We also manually checked the references in eligible articles. Two authors separately screened and performed full texts review for eligibility. Points of divergence were resolved by discussion among three authors of the present study.
+
+Eligible pairwise meta-analyses investigated the clinical effectiveness of antibiotic prophylaxis compared to placebo or no treatment on any outcome in any clinical scenarios including randomized controlled trials (RCTs) and nonrandomized studies of intervention (NRSIs). Our study defined antibiotic prophylaxis as the prevention initial infections and subsequent complications using antibiotics when there is no clear evidence of present infection. Meta-analyses including only NRSIs or only one RCT that cannot be reanalyzed were excluded. For meta-analyses regarding the same topic, we included only the one with the largest number of included RCTs. The language was restricted to English.
+
+Data extraction
+
+Paired reviewers extracted the data with a common sheet and one of the two reviewers summarized and adjudicated the results. The extracted information includes first author, publication year, number of included studies, number of cases and total population, disease or condition, type of antibiotics, control, outcomes, study design, clinical scenarios, phase of prevention, follow-up duration, adverse events, control event rate (CER), effect size, and statistical profiles. For studies with more than one outcome, we only included primary outcomes to avoid multiple comparisons in a single meta-analysis.
+
+Evidence synthesis
+
+Stata version 14 (StataCorp) and R version 4.03 (R Foundation for Statistical Computing) facilitate the statistical analyses.
+
+For meta-analyses included both RCTs and NRSIs, we removed the NRSIs and reanalyzed the data from RCTs using a random-effects DerSimonian-Laird (DL) estimator, assuming the existence of real differences across studies. The between-study heterogeneity was evaluated with thestatistics and τstatistics. For meta-analyses with statistical significance, we applied an excess significance bias test to assess whether the observed number (O) of statistically significant studies (positive studies,≤0.05) differed from the expected (E), by using a χtest, and avalue ≤0.10 indicated the excess significance bias. For meta-analyses including more than three trials, the 95% prediction interval for each outcome was calculated. For outcomes with statistical significance in the reanalysis, we calculated the number need to treat (NNT) with its 95% CI. We assessed the small study effects and publication bias of an outcome using Begg’s correlation, Egger’s regression and Harbord’s score if the analysis includes more than three trials.
+
+The baseline risk anticipated using the event and person-time data in the control group estimated the absolute risk difference with pooled RRs and their 95% CIs.
+
+For meta-analyses with publication bias (Begg’s correlation, Egger’s regression, or Harbord’s score <0.05), estimates after trim-and-fill adjustment join the presented results.
+
+Quality assessment of evidence and included meta-analyses
+
+The quality of evidence was assessed by using GRADE (Grading of Recommendations, Assessment, Development and Evaluation) with four domains: very low, low, moderate and high. We assessed the methodological qualities of included meta-analyses using AMSTAR2 (Supplemental Digital Content 4,) (A MeaSurement Tool to Assess systematic Reviews 2), an updated 16-items tool to assess systematic reviews. Based on the effect size and quality of evidence, we categorized the evidence from meta-analyses of RCTs into five grades, say convincing, highly suggestive, suggestive, weak, and nonsignificant. Supplementary Table 2 (Supplemental Digital Content 5,) described the detailed criteria.
+
+Category of outcomes and scenarios
+
+The multidisciplinary team categorized the outcomes into six classes including ‘mortality’, ‘overall infection’, ‘surgical site/wound infection’, ‘localized infection’, ‘bloodstream infection’, and ‘symptoms or complication’. Supplementary Table 3 (Supplemental Digital Content 6,) showed the definition of each category. We divided clinical scenarios into two classes: surgical (including surgery and nonsurgery invasive procedures) and medical prophylaxis. For surgical prophylaxis with antibiotics, we followed the classification of the National Academy of Science and categorize surgical wounds into four types, say clean, clean-contaminated, contaminated and dirty or infected (Supplementary Table 3, Supplemental Digital Content 6,).
+
+Results
+
+Characteristics of included studies
+
+This umbrella review included 75 systematic reviews with 725 RCTs, 119 outcomes and 163 832 participants (Fig.). Supplementary Table 4 (Supplemental Digital Content 7,) showed the detailed results for AMSTAR2 assessment with 47 (39%) systematic reviews in high methods quality and 24 (20%) in low. Supplementary Table 5 (Supplemental Digital Content 8,) summarized the GRADE findings for each outcome with 36 (30%) high to moderate certainty evidence and 83 (70%) low to very low certainty. The team reanalyzed 28 outcomes by removing the included NRSIs with two of them switching their trends, where the benefit of antibiotic prophylaxis became nonsignificant to all-cause mortality of patients with acute necrotizing pancreatitis (RR 0.75, 95% CI: 0.47–1.20) and to ventriculostomy-related infections of patients with external ventricular drain (RR 0.43, 95% CI: 0.17–1.08) (Supplementary Table 6, Supplemental Digital Content 9,, summarized estimates before and after the reanalysis). Supplementary Table 7 (Supplemental Digital Content 10,) and Supplementary Figure 1 (Supplemental Digital Content 11,) summarized the full characteristics and assessments for all included systematic reviews. Supplementary Table 8 (Supplemental Digital Content 12,) listed the excluded studies as well as the rationales. Supplementary table 9 (Supplemental Digital Content 13,) summarized available drug-related adverse events which were extracted for synthesis in 21 scenarios. Supplementary Figure 2 (Supplemental Digital Content 14,) illustrated statistically significant outcomes along with their number of need to treat (NNT). Shown in Supplementary Figure 3 (Supplemental Digital Content 15,), Egger’s regression, Begg’s correlation and Harbord’s score indicated potential publication bias in 21 outcomes among 18 scenarios. For afebrile neutropenia following chemotherapy, urodynamic studies, elective abdominal hysterectomy, breast reduction surgery, and history of cellulitis, the effect estimates lost their robustness after applying the trim-and-fill analyses. The contour-enhanced funnel plot presented the theoretical missing studies and further illustrated the publication biases.
+
+Figure 1
+
+Flowchart of study selection and evaluation process.
+
+Surgical prophylaxis
+
+Thirty-seven types of surgeries and 11 nonsurgery invasive procedures were included. Among 55 outcomes in surgeries, 13/18 outcomes of clean, 26/33 of clean-contaminated and 3/3 of contaminated incisions showed significant benefits of antibiotic prophylaxis. 6/18 of clean, 18/33 outcomes of clean-contaminated, and 1/3 outcomes of contaminated incisions were of convincing (class I) or highly suggestive (class II) evidence (Fig.). Antibiotic prophylaxis had little or no effect on reducing wound infection after simple hand surgery and herniorrhaphy surgery, surgical site infections after Mohs surgery and thyroid surgery, postoperative fever and febrile urinary tract infections (UTIs) after ureteroscopic lithotripsy, UTIs after midurethral sling placement and for kidney transplant recipients with asymptomatic bacteriuria, overall infections and complications after endoscopic sinus surgery, rhinoplasty, and stented distal hypospadias repair. Convincing (Class I) evidence showed that antibiotic prophylaxis reduced surgical site infections after total joint arthroplasty (NNT=24, moderate certainty) and breast cancer surgery (NNT=29, moderate certainty) for clean surgeries, and cesarean section (NNT=18, moderate certainty), elective laparoscopic cholecystectomy (NNT=62, high certainty), and abdominal hysterectomy (NNT=31, moderate certainty) for clean-contaminated surgeries. Among 16 outcomes in nonsurgery invasive procedures, prophylactic use of antibiotics possibly reduced urinary tract infections after cystoscopy, or postoperative urinary catheterization and urodynamic studies, but the evidence was suggestive or weak with low to very low certainty (Fig.).
+
+Figure 2
+
+Summary estimates of the efficacy of antibiotic prophylaxis in surgery. Surgical procedures were categorized into clean, clean-contaminated, contaminated and dirty or infected according to their cleanliness. UTIs, urinary tract infections; NA, not applicable. Notes: baseline risk means the expected events per 1000 persons within follow-up time frame regarding each outcome. Some baseline risks and absolute effects cannot be calculated because original data are unavailable.
+
+Figure 3
+
+Summary estimates of the efficacy of antibiotic prophylaxis in nonsurgery invasive procedures. UTIs, urinary tract infections.
+
+Medical prophylaxis
+
+Among 29 medical scenarios and 47 outcomes, 22 outcomes showed significant benefits of antibiotic prophylaxis, in which 10 outcomes were of convincing (class I) or highly suggestive (class II) evidence (Fig.). Convincing evidence supported antibiotic prophylaxis to reduce unfavorable events after tick bite (NNT=69, low certainty), skin rash for cancer patients received anti-EGFR inhibitors, spontaneous bacterial peritonitis for patients with cirrhosis with ascites (NNT=9, moderate certainty), neonatal infections for maternal Group B Streptococcal colonization (NNT=14, moderate certainty) and to improve quality of life for patients with chronic obstructive pulmonary disease (COPD) (High certainty). Antibiotic prophylaxis reduced mortality for cirrhotic patients with gastrointestinal bleeding (moderate certainty) and cancer patients with afebrile neutropenia following chemotherapy (high certainty) but may have no benefits in mortality for patients with acute necrotizing pancreatitis (very low certainty), or after cardiac arrest (very low certainty), or during ICU stay (low certainty).
+
+Figure 4
+
+Summary estimates of the efficacy of antibiotic prophylaxis in medical scenarios. Medical scenarios were categorized into nonemergency and emergency scenarios. UTIs, urinary tract infections; NA, not applicable.
+
+Antibiotic-related adverse events
+
+Antibiotic resistance and other adverse events were scarcely reported, and we only extracted and pooled from 21 clinical scenarios (Fig.). Antibiotic resistance was reported in six scenarios, and prophylactic antibiotics significantly increased the risk of developing antibiotic resistance in adults undergoing cystoscopy (two studies, RR 1.73, 95% CI: 1.04–2.87, 1 week follow-up) and afebrile neutropenia following chemotherapy (19 studies, 1.47, 1.08–2.01, 1–12 months follow-up). Other adverse events were mostly skin reactions such as rash and pruritus, and gastrointestinal symptoms like nausea, vomiting, and diarrhea. Prophylactic antibiotics significantly increased the rates of adverse events in hematopoietic stem cell transplantation (eight studies, 3.32, 1.45–7.63, 5–30 days follow-up) and afebrile neutropenia following chemotherapy (37 studies, 1.58, 1.19–2.12, 1–12 months follow-up).
+
+An evidence map summarizing the findings and certainty of evidence was shown in Figure. It displayed the effect size, number need to treat, and the grade and classification of evidence for different outcomes in surgical and medical scenarios. The color in each cell represented the classification of evidence, and the proportion of color within the cell reflects the magnitude of the NNT.
+
+Figure 5
+
+Summary estimates of adverse events of antibiotic prophylaxis. The adverse events are divided into antibiotic resistance and other drug-related adverse events. UTIs, urinary tract infections; NA, not applicable.
+
+Figure 6
+
+Evidence map summarizing findings and certainty of evidence. The certainty of evidence was rated by the Grading of Recommendations Assessment, Development, and Evaluation criteria. The color of each block represents the classification of evidence and the filling fraction of color represent scale of number need to treat (range from 0 to 150 for all outcomes). *The NNT cannot be calculated because original data are unavailable.
+
+Discussion
+
+This umbrella review involved 75 systematic reviews, including 725 RCTs and 119 outcomes and represented the most comprehensive evidence regarding the prophylactic use of antibiotics in surgical and medical scenarios. For surgeries, antibiotic prophylaxis showed benefits in most surgeries by reducing the infection rate, while it may have little or no benefits in herniorrhaphy surgery, Mohs surgery, simple hand surgery, hepatectomy, thyroid surgery, rhinoplasty, stented distal hypospadias repair, midurethral sling placement, endoscopic sinus surgery, and transurethral resection of bladder tumors with low to very low certainty of evidence. For nonsurgery invasive procedures, although antibiotic prophylaxis showed benefits for cystoscopy, urodynamic study, and postoperative urinary catheterization, clinical guidelines discourage routine use in consideration of antibiotic resistance due to relatively high frequency of these procedures and heterogeneity between individual studies. For medical prophylaxis, high certainty evidence support benefits of antibiotic prophylaxis for patients with COPD or afebrile neutropenia following chemotherapy. Antibiotic resistance and other adverse events were reported in adults undergoing cystoscopy, afebrile neutropenia following chemotherapy and hematopoietic stem cell transplantation. Evidence body with low to very low certainty calls for the confirmation by well-designed randomized trials.
+
+The US Centres for Disease Control and Prevention (CDC) recommendedprophylactic antibiotics in surgery with a high risk of infection (such as cancer surgery, neurosurgery, orthopedic surgeries, and organ transplants), labor and delivery, people with immunosuppression (such as HIV, uncontrolled diabetes, and taking chemotherapy or immunosuppressive drugs), and chronic infections (such as recurrent urinary tract infections and COPD). According to a global survey, for prophylactic purposes, bone and joint infections (surgical site infection for plastic or orthopedic surgery) is the most common target accounting for 4.7% of treated patients worldwide, followed by gastrointestinal infections (4.2%), general prophylaxis (3.8%), obstetric or gynecological surgery (3.0%), and urinary tract infection after surgery or recurrent episodes. This umbrella review suggested some evidence gaps regarding these common uses. For example, studies primarily preventing gastrointestinal infection using prophylactic antibiotics are sparse. It calls for close surveillance for such unproved use and novel evidence with high certainty to guide the practice.
+
+The management of perioperative antibiotics is always been the research focus, and effectiveness of appropriate prophylactic antibiotics use to prevent surgical site infections in certain surgical procedures has been well established. American Centers for Disease Control (CDC) guidelines pointed out that a single dose of preoperative antibiotics and administered intraoperatively when indicated is effective, while prolonged postoperative prophylactic antibiotic agents should not be administered due to lack of extra benefit and higher risk of developing antimicrobial resistance. In this umbrella review, antibiotic prophylaxis might have little or no effect on reducing infections in certain surgeries such as hepatectomy and transurethral resection of bladder tumors, but the evidences were heterogeneous between individual studies and were of low to very low certainty, therefore they should be treated with caution. We considered that the cleanliness of the surgical incision is a key factor affecting the effectiveness of antibiotic prophylaxis because compared with patients who undergo clean-incision surgeries, those with contaminating surgeries are facing a two to sevenfold increased risk for overall infection, leading to more prescriptions of antibiotics for prophylactic purposes. However, the majority of the included systematic review was regarding clean to clean-contaminated incision surgeries. Only three synthesized evidence bodies with moderate to low certainty supported such routine practice in patients meeting contaminated incisions such as endoscopic resection for colorectal lesions, colorectal surgery and transrectal prostate biopsy. This inconsistency between the evidence synthesis and real-world practice calls for the importance of the practice-guiding study design for randomized trials, observational studies, and systematic reviews.
+
+UTI was widely studied in this umbrella review. Patients with neurogenic bladder, pregnancy, invasive urologic procedures, or urinary tract instrumentation were at risk for UTI. Our results support current guidelines, and provide new evidences for several aspects. For percutaneous nephrolithotomy, moderate quality of evidence confirmed the effectiveness of preoperative antibiotic prophylaxis to lower incidence of UTI after percutaneous nephrolithotomy, especially for suspected infectious stones, while postoperative use is unnecessary, and it is consistent with the American Urological Association (AUA) Best Practice Policy Statement. As for whether to use prophylactic antibiotics to prevent genital tract infection in women receiving incomplete abortion procedures, the recommendations of international guidelines vary, and our results confirmed the effectiveness of antibiotic prophylaxis with moderate quality of evidence, especially in high-income countries. However, there are common research gaps among all the studies. UTI comprised asymptomatic UTI and symptomatic UTI, and results from urine test and urine culture in combination with clinical manifestation can distinguish between these two. In this umbrella review, they did not focus on the infection risk stratification for antibiotic strategies, and sometimes patients with positive urine culture were excluded. Further studies should focus on the benefit of antibiotic prophylaxis in different infectious risk populations to identify optimal antibiotic strategies.
+
+We only extracted adverse events from 21 clinical scenarios. In most of the scenarios, antibiotic prophylaxis increased the risk of developing antimicrobial resistance and other drug-related adverse events in which four reached significances. Barely any serious drug-related adverse events such as severe allergic reaction, arrhythmia, or acute renal failure was reported. Due to the limited reporting or unavailability of data on antibiotic resistance and side effects associated with prophylactic antibiotic, its safety cannot be currently determined. Long-course of antibiotics may result in antimicrobial resistance or other drug-related adverse events, while too short course of therapy may lead to treatment failure. In our study, duration of prophylaxis is longer in medical scenarios than in surgical scenarios, especially for those patients at risk of chronic infection. Therefore, it is important to monitor antibiotic-related adverse effects in medical prophylaxis and improve dosing strategy. And for surgical prophylaxis, dosage, and timing of administration should be optimized.
+
+Strengths and limitations
+
+This umbrella review comprehensively evaluated the current evidence regarding the efficacy and safety of antibiotic prophylaxis in surgical and medical conditions after reanalyzing potentially improperly pooled evidence. The anticipated absolute effect size facilitates the decision-makers in illustrating the importance of the prophylactic use of antibiotics in different scenarios in easy-to-read figures.
+
+This review is also composed of limitations, especially the heterogeneity in quality among included systematic reviews. It represents the imbalanced development of trial design and evidence synthesis across study fields and geographic distribution. Such inequity raises the risk of publication bias when we adopted and presented the results after the trim-and-fill approach to minimize the impact. Including only the primary outcome is another limitation of this study that may miss much information reported as secondary outcomes such as the safety outcomes. Our study identified only safety issues in 21 among 78 clinical scenarios and it could be inadequate for the adverse events for antibiotics. Nevertheless, including secondary outcomes may raise the risk of multiple comparisons and even add the impact of potential publication bias. Future review focusing on safety events of antibiotic prophylaxis is thus necessary.
+
+Conclusions
+
+We have comprehensively synthesized and graphically represented the highest-level evidence available regarding the effectiveness and safety of antibiotic prophylaxis. Our evidence map delineates the baseline risk of outcomes for various clinical scenarios, the relative and absolute effect sizes of antibiotic prophylaxis on outcome measures, along with the quality and credibility of the evidence within each context. Our findings demonstrate that antibiotic prophylaxis generally reduces infection-related complications and enhances the prognosis of specific diseases, but with its safety warranting further investigations. Importantly, the efficacy of prophylactic antibiotics appears independent of wound cleanliness in surgical procedures and the baseline infection risk of diseases. Nevertheless, the current evidence’s low quality constrains the external validity of these findings. For surgical cases, surgeons need to carefully balance the low postoperative infection rate with antibiotic-related side effects. For nonsurgical scenarios, clinicians must meticulously consider the indications for antibiotic administration.
+
+Ethical approval
+
+No ethical approval is needed.
+
+Consent
+
+Informed consent is not needed in this study.
+
+Sources of funding
+
+This study was supported by 1.3.5 project for disciplines of excellence, West China Hospital, Sichuan University (Grant no ZYJC18015) and National Clinical Research Center for Geriatrics, West China Hospital, Sichuan University (Y2021LC005).
+
+Author contribution
+
+L.L., Z.J., and M.W.: contributed equally to this paper and are joint first authors; L.L., Z.J., S.L., and K.W.: conceived and designed the study; L.L. and M.W.: performed the literature search; L.L., Z.J., M.W., C.Y., Y.L., Y.M., X.J., H.L., C.L., and Y.H.: screened studies for eligibility; L.L., Z.J., M.W., C.Y., and Y.L.: extracted the data; L.L., Z.J., and M.W.: conducted the analysis; Y.H.: examined the methods; L.L. and Z.J.: wrote the first draft of the manuscript; S.L. and K.W.: revised the draft. All authors reviewed and approved the final version of the manuscript. S.L. and K.W. are the guarantors.
+
+Conflicts of interest disclosure
+
+The authors declare that they have no financial conflict of interest with regard to the content of this report.
+
+Research registration unique identifying number (UIN)
+
+This is a systematic review, and was registered in the PROSPERO, CRD42021292543.
+
+Guarantor
+
+Kunjie Wang.
+
+Data availability statement
+
+All data are collected from published articles and data are available for researchers who request it from the authors.
+
+Provenance and peer review
+
+None.
+
+Supplementary Material

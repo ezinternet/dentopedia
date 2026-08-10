@@ -6,7 +6,7 @@ date: 2022-01-01
 doi: 10.1038/s41598-022-11615-9
 source: jung-2022-denosumab-mronj-osteoporosis-5year.md
 category: [drug/mronj]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/jung-2022-denosumab-mronj-osteoporosis-5year.pdf
 pdf_filename: jung-2022-denosumab-mronj-osteoporosis-5year.pdf
 source_collection: external
@@ -64,7 +64,7 @@ Retrospective cohort of 98 osteoporosis patients who received Prolia® (denosuma
 - Drug timing (pre/post extraction): NS
 
 ## Related Papers
-- [[drug/ruggiero-2022-aaoms-mronj-position-paper-update]] — AAOMS staging and MRONJ definition used in this study
-- [[drug/yokoo-2025-denosumab-mronj-breast-cancer-bone]] — oncology-dose denosumab MRONJ (31.2%); ROC threshold 32 doses
-- [[drug/baghalipour-2025-mronj-prevention-management-review]] — MRONJ management overview
-- [[drug/lee-2023-bisphosphonates-dental-procedures-bronj]] — BP-related ONJ procedures
+- [[drug/mronj/ruggiero-2022-aaoms-mronj-position-paper-update]] — AAOMS staging and MRONJ definition used in this study
+- [[drug/mronj/yokoo-2025-denosumab-mronj-breast-cancer-bone]] — oncology-dose denosumab MRONJ (31.2%); ROC threshold 32 doses
+- [[drug/mronj/baghalipour-2025-mronj-prevention-management-review]] — MRONJ management overview
+- [[drug/mronj/lee-2023-bisphosphonates-dental-procedures-bronj]] — BP-related ONJ procedures

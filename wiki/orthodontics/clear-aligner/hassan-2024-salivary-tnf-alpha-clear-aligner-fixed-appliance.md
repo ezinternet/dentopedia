@@ -6,7 +6,7 @@ date: 2024-05-08
 doi: 10.4103/jos.jos_81_23
 source: hassan-2024-salivary-tnf-alpha-clear-aligner-fixed-appliance.md
 category: [orthodontics/clear-aligner]
-confidence: prospective
+evidence_level: prospective
 source_collection: pubmed-text
 full_text: true
 pmid: "38784076"

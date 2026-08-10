@@ -6,7 +6,7 @@ date: 2020-07-16
 doi: 10.1186/s40729-020-00233-7
 source: sakuma-2020-maxillary-sinus-ostium-edema-cbct.md
 category: [sinus-lift/lateral]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/sakuma-2020-maxillary-sinus-ostium-edema-cbct.pdf
 pdf_filename: sakuma-2020-maxillary-sinus-ostium-edema-cbct.pdf
 source_collection: external

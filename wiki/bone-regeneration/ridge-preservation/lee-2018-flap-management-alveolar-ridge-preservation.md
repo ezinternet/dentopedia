@@ -6,7 +6,7 @@ date: 2018-05-31
 doi: 10.11607/jomi.6368
 source: lee-2018-flap-management-alveolar-ridge-preservation.md
 category: [bone-regeneration/ridge-preservation]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/lee-2018-flap-management-alveolar-ridge-preservation.pdf
 pdf_filename: lee-2018-flap-management-alveolar-ridge-preservation.pdf
 source_collection: external

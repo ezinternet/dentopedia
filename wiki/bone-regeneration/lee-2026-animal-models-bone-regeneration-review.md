@@ -6,7 +6,7 @@ date: 2026-04-14
 doi: 10.5051/jpis.2505280264
 source: lee-2026-animal-models-bone-regeneration-review.md
 category: [bone-regeneration]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/lee-2026-animal-models-bone-regeneration-review.pdf
 pdf_filename: lee-2026-animal-models-bone-regeneration-review.pdf
 source_collection: external

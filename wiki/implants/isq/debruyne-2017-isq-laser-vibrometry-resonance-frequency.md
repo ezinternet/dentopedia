@@ -6,7 +6,7 @@ date: 2017-09-28
 doi: 10.1186/s40729-017-0105-3
 source: debruyne-2017-isq-laser-vibrometry-resonance-frequency.md
 category: [implants/isq]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/debruyne-2017-isq-laser-vibrometry-resonance-frequency.pdf
 pdf_filename: debruyne-2017-isq-laser-vibrometry-resonance-frequency.pdf
 source_collection: external

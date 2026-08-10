@@ -6,7 +6,7 @@ date: 2025-01-02
 doi: 10.3390/medicina61010058
 source: merli-2025-tacos-technique-alveolar-ridge-titanium-mesh.md
 category: [implants/vertical-ridge-augmentation]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/merli-2025-tacos-technique-alveolar-ridge-titanium-mesh.pdf
 pdf_filename: merli-2025-tacos-technique-alveolar-ridge-titanium-mesh.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2026-02-18
 doi: 10.19723/j.issn.1671-167X.2026.01.017
 source: diao-2026-centralized-occlusal-scheme-implant-overdentures-edentulous.md
 category: [occlusion]
-confidence: prospective
+evidence_level: prospective
 source_collection: pubmed-text
 full_text: false
 pmid: "41633595"

@@ -1,0 +1,49 @@
+{
+  "overview": "oral-surgery-decision-ladder",
+  "date": "2026-07-23",
+  "title": "구강외과 결정 사다리 — 리콜",
+  "source_wiki": [
+    "wiki/overviews/oral-surgery-decision-ladder.md"
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "q": "하치조신경(IAN) 고위험 매복 제3대구치의 술식 결정은?",
+      "opts": [
+        "항상 완전 발치",
+        "IAN 고위험(canal 설측·근접 ≤1mm) 시 관상절제술(coronectomy) — IAN 손상 0.59%로 완전 발치 대비 IAN·dry socket 유의 감소, 재수술 5–12% 수용 가능",
+        "무조건 방치",
+        "발치 전 IAN을 절단"
+      ],
+      "ans": 1,
+      "rat": "제3대구치 절대 적응증은 반복 관주위염·낭종·인접치 흡수. IAN 고위험(canal 설측·근접 ≤1mm) 시 CBCT 영상평가 후 coronectomy — IAN 손상 0.59%로 완전 발치 대비 유의 감소, 재수술 5–12% 수용. 지연 골절 위험군(깊은 매복·수평·얇은 설측판·40–60세 남성)은 6주 soft diet+monitoring.",
+      "cite": "overviews/oral-surgery-decision-ladder"
+    },
+    {
+      "id": "q2",
+      "q": "발치 후 합병증 예방에서 항생제와 PRF의 위치는?",
+      "opts": [
+        "모든 발치에 항생제 예방",
+        "항생제 예방은 dry socket·SSI 감소하나 NNT=25 → 매복·외과적 발치에 한정(amoxicillin 2g 단일 술전); PRF는 초기 2–3개월 통증 66%↓이나 6개월 이후 자연치유와 동등",
+        "PRF는 6개월 후에도 우월",
+        "단순 발치에도 항생제 필수"
+      ],
+      "ans": 1,
+      "rat": "항생제 예방은 dry socket·SSI 위험 감소하나 NNT=25 → 매복·외과적 발치에 한정(amoxicillin 2g 단일 술전, Camps-Font 2024 NMA), 단순 발치엔 불요. PRF는 발치와 초기 2–3개월 통증 66%↓·연조직 75%↑·골 충전 85%↑이나 6개월 이후 자연치유와 동등(Al-Maawi 2021), PRF > PRP.",
+      "cite": "overviews/oral-surgery-decision-ladder"
+    },
+    {
+      "id": "q3",
+      "q": "발치 후 지혈 ladder는?",
+      "opts": [
+        "봉합만으로 충분",
+        "표준 봉합+거즈 압박 30분 → 산화셀룰로오스/젤라틴 스폰지 → 항응고제·다중 발치는 트라넥사민산 5% 양치액 → 고위험·실패 시 피브린 실란트(70–90%)",
+        "즉시 소작만 사용",
+        "항응고제 복용자는 발치 금기"
+      ],
+      "ans": 1,
+      "rat": "지혈 ladder: 표준 봉합+거즈 압박 30분 → 산화셀룰로오스(Surgicel)/젤라틴 스폰지(Gelfoam) 85%↑ → 항응고제·다중 발치는 트라넥사민산 5% 양치액 → 고위험·실패 시 피브린 실란트 70–90%. LLLT는 발치 후 통증·부종·trismus 중등도 감소, dry socket 치료에 Alvogyl 대안.",
+      "cite": "overviews/oral-surgery-decision-ladder"
+    }
+  ]
+}

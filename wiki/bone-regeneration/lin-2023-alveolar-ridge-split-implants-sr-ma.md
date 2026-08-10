@@ -6,7 +6,7 @@ date: 2023-11-20
 doi: 10.1186/s12903-023-03643-2
 source: lin-2023-alveolar-ridge-split-implants-sr-ma.md
 category: [bone-regeneration]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 pmid: "37986181"
 pmcid: "PMC10662563"

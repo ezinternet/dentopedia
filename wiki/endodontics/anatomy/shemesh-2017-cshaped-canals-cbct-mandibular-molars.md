@@ -6,7 +6,7 @@ date: 2016-11-14
 doi: 10.1007/s00784-016-1993-y
 source: shemesh-2017-cshaped-canals-cbct-mandibular-molars.md
 category: [endodontics/anatomy]
-confidence: cross-sectional
+evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/shemesh-2017-cshaped-canals-cbct-mandibular-molars.pdf
 pdf_filename: shemesh-2017-cshaped-canals-cbct-mandibular-molars.pdf
 source_collection: external

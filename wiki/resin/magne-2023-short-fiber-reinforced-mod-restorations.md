@@ -6,7 +6,7 @@ date: 2023-04-25
 doi: "10.3290/j.jad.b4051477"
 source: magne-2023-short-fiber-reinforced-mod-restorations.md
 category: [resin]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: true
 pmid: "37097055"

@@ -8,7 +8,7 @@ pmid: "40618147"
 pmcid: "PMC12228293"
 source: zhang-2025-platelet-bone-enhancers-dbbm-sinus.md
 category: [sinus-lift/lateral]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 source_url: https://pmc.ncbi.nlm.nih.gov/articles/PMC12228293/

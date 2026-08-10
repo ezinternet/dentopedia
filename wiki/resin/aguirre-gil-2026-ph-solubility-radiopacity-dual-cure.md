@@ -6,7 +6,7 @@ date: 2026-01-01
 doi: 10.1186/s12903-026-08103-1
 source: aguirre-gil-2026-ph-solubility-radiopacity-dual-cure.md
 category: [resin]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: true
 pmid: "41882613"

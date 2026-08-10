@@ -6,7 +6,7 @@ date: 2021-01-01
 doi: "10.4103/jips.jips_400_20"
 source: chaware-2021-short-vs-long-implant-sinus-graft-sr-ma.md
 category: [sinus-lift/lateral]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/chaware-2021-short-vs-long-implant-sinus-graft-sr-ma.pdf
 pdf_filename: chaware-2021-short-vs-long-implant-sinus-graft-sr-ma.pdf
 source_collection: external
@@ -53,6 +53,6 @@ SR+MA of RCTs; 667 patients, 1595 implants (short 767 / long 835); outcomes: sur
 
 ## Related Papers
 - [[sinus-lift/lateral/toledano-2022-short-versus-standard-implants-sinus]] — reinforces; short vs standard implants at sinus-augmented sites.
-- [[implants/zhang-2024-short-vs-long-implants-sinus]] — reinforces; short vs long implants with sinus lift.
+- [[implants/short-narrow/zhang-2024-short-vs-long-implants-sinus]] — reinforces; short vs long implants with sinus lift.
 - [[sinus-lift/lateral/mester-2023-short-vs-standard-implants-sinus-floor-elevation-sr-ma]] — reinforces; ≥5-year RCT subset.
 - [[sinus-lift/lateral/aleman-2025-short-vs-long-implants-sinus-lift-5yr-sr-ma]] — reinforces; ≥5-year long-term SR-MA.

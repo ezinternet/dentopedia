@@ -8,7 +8,7 @@ pmid: "35906494"
 pmcid: "PMC9338195"
 source: mousa-2022-black-stain-caries-children-sr-ma.md
 category: [caries]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 text_path: /Users/oracleneo/llm-wiki/papers/mousa-2022-black-stain-caries-children-sr-ma.txt
 text_filename: mousa-2022-black-stain-caries-children-sr-ma.txt

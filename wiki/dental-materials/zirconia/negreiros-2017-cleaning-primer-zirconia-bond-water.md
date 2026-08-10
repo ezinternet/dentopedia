@@ -6,7 +6,7 @@ date: 2017-01-01
 doi: 10.4103/ejd.ejd_276_16
 source: negreiros-2017-cleaning-primer-zirconia-bond-water.md
 category: [dental-materials/zirconia]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/negreiros-2017-cleaning-primer-zirconia-bond-water.pdf
 pdf_filename: negreiros-2017-cleaning-primer-zirconia-bond-water.pdf
 source_collection: external

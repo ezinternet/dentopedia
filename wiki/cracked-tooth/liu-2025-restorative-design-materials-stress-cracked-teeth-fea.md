@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1186/s12903-024-05122-8
 source: liu-2025-restorative-design-materials-stress-cracked-teeth-fea.md
 category: [cracked-tooth]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/liu-2025-restorative-design-materials-stress-cracked-teeth-fea.pdf
 pdf_filename: liu-2025-restorative-design-materials-stress-cracked-teeth-fea.pdf
 source_collection: external
@@ -43,7 +43,7 @@ FEA provides biomechanical rationale supporting cuspal-coverage restoration for 
 3D FEA, 균열 하악 제1대구치 모델, onlay/overlay/occlusal veneer × 2 CAD/CAM 재료.
 
 ## Results
-수복 설계·재료가 균열치 응력분포·균열진전에 영향; 피개형 설계가 응력 유리 [합의수준/미검증(임상)].
+수복 설계·재료가 균열치 응력분포·균열진전에 영향; 피개형 설계가 응력 유리 [확인 (FEA 모델 내), 임상 적용은 미검증].
 
 ## Related Papers
 - [[cracked-tooth/li-2021-cracked-tooth-syndrome-etiology-review]] — 균열치 병인·관리

@@ -6,7 +6,7 @@ date: 2022-08-30
 doi: 10.1007/s13534-022-00245-9
 source: lee-h-2022-dbd-plasma-titanium-implant-osseointegration.md
 category: [implants/surface/plasma]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/lee-h-2022-dbd-plasma-titanium-implant-osseointegration.pdf
 pdf_filename: lee-h-2022-dbd-plasma-titanium-implant-osseointegration.pdf
 source_collection: external
@@ -41,6 +41,7 @@ A device-engineering contribution: DBD lets you treat the implant inside its ste
 ## Methodology
 
 - Implant as electrode, packaging as dielectric → DBD plasma; discharge optimization; XPS; in vitro cells on SLA.
+- **Device parameters (added 2026-08-10):** ACTILINK (Plasmapp) prototype — 100 kHz / 3 kV sinusoidal power, package pressure maintained 5–10 Torr via diaphragm pump, implant repackaged for a **total treatment time of 60 s**. Paper explicitly contrasts this against Diener Electronic GmbH's chamber-type vacuum plasma device, which it describes as requiring "**a long treatment time of at least 10 min**" with argon gas — an independent citation-level confirmation (alongside [[implants/surface/plasma/becker-2019-lpp-app-plasma-proinflammatory-cytokines]]'s 15-min LPP arm, same Diener Femto PCCE product line) that Diener-brand chamber devices are the slow outlier, not vacuum plasma in general.
 
 ## Results
 
@@ -51,6 +52,7 @@ A device-engineering contribution: DBD lets you treat the implant inside its ste
 
 ## Related Papers
 
-- [[implants/surface/plasma/jeon-2024-vortex-direct-plasma-titanium-surface]] — alternative plasma source design.
+- [[implants/surface/plasma/jeon-2024-vortex-direct-plasma-titanium-surface]] — alternative plasma source design, same device family, 15-30 s.
 - [[implants/surface/plasma/zheng-2020-non-thermal-atmospheric-plasma-titanium]] — carbon/wettability → bone.
 - [[implants/surface/plasma/wagner-2022-cold-atmospheric-plasma-implant-materials]] — CAP cell mechanism.
+- [[implants/surface/plasma/becker-2019-lpp-app-plasma-proinflammatory-cytokines]] — the wiki's Diener Femto PCCE data point (LPP arm, 15 min) — this paper's own citation of Diener's chamber-type device ("at least 10 min") independently corroborates that Diener-brand vacuum chambers are slow by design, not vacuum plasma generally.

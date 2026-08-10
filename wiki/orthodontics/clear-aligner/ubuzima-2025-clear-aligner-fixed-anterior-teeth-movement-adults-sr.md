@@ -6,7 +6,7 @@ date: 2025-10-30
 doi: 10.1016/j.ortho.2025.101084
 source: ubuzima-2025-clear-aligner-fixed-anterior-teeth-movement-adults-sr.md
 category: [orthodontics/clear-aligner]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: false
 pmid: "41172597"

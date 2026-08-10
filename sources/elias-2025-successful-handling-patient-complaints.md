@@ -45,7 +45,7 @@ Descriptive account of the development and implementation of the CODE training p
 CODE comprises two core tracks -- procedural/operational training and interpersonal communication training -- so that staff can both access resources for complainants and communicate with empathy. The dual-track structure is presented as the program's key strength for managing complaints successfully; formal effectiveness/outcome data are not the focus of this descriptive paper.
 
 ## 5. Limitations and Future Work
-Descriptive program paper -- no controlled outcomes, effect sizes, or comparison group. Single US institution. Effectiveness vs usual training untested [추정].
+Descriptive program paper -- no controlled outcomes, effect sizes, or comparison group. Single US institution. Effectiveness vs usual training untested [미검증].
 
 ## 6. Related Work
 Training-level synthesis of service recovery (Washington 2020) and of the expectation/response evidence (Friele 2006; McCreaddie 2021; Gillespie & Reader 2025).

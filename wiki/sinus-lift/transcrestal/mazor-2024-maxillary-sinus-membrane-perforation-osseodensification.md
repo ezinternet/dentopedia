@@ -6,7 +6,7 @@ date: 2024-08-26
 doi: 10.1111/cid.13368
 source: mazor-2024-maxillary-sinus-membrane-perforation-osseodensification.md
 category: [sinus-lift/transcrestal]
-confidence: cross-sectional
+evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/mazor-2024-maxillary-sinus-membrane-perforation-osseodensification.pdf
 pdf_filename: mazor-2024-maxillary-sinus-membrane-perforation-osseodensification.pdf
 source_collection: external
@@ -46,4 +46,4 @@ Cross-sectional — no causal inference on bur protocol vs other techniques. Mul
 - [[sinus-lift/transcrestal/cobo-vazquez-2025-crestal-sinus-lift-osteotome-vs-osseodensification]]
 - [[sinus-lift/transcrestal/el-ghobashy-osseodensification-vs-osteotome-transcrestal-sinus]]
 - [[sinus-lift/transcrestal/farina-2023-minimal-invasiveness-transcrestal-sinus-elevation]]
-- [[implants/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]]
+- [[implants/osseodensification/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]]

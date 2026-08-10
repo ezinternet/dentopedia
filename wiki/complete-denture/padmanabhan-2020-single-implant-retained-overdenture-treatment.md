@@ -6,7 +6,7 @@ date: 2019-12-18
 doi: 10.1111/jopr.13133
 source: padmanabhan-2020-single-implant-retained-overdenture-treatment.md
 category: [complete-denture]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/padmanabhan-2020-single-implant-retained-overdenture-treatment.pdf
 pdf_filename: padmanabhan-2020-single-implant-retained-overdenture-treatment.pdf
 source_collection: external

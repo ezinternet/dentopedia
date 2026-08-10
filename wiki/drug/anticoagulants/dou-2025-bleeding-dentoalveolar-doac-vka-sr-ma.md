@@ -6,7 +6,7 @@ date: 2025-08-12
 doi: 10.1016/j.jdsr.2025.08.002
 source: dou-2025-bleeding-dentoalveolar-doac-vka-sr-ma.md
 category: [drug/anticoagulants]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "40831539"

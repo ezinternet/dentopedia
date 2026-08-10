@@ -6,7 +6,7 @@ date: 2010-07-01
 doi: 10.4317/medoral.15.e639
 source: vazquez-delgado-2010-myofascial-pain-differential-diagnosis-treatment.md
 category: [tmj]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: false
 pmid: "20173729"

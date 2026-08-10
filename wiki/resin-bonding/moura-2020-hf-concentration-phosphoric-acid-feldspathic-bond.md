@@ -6,7 +6,7 @@ date: 2020-01-01
 doi: 10.1590/1807-3107bor-2020.vol34.0018
 source: moura-2020-hf-concentration-phosphoric-acid-feldspathic-bond.md
 category: [resin-bonding]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/moura-2020-hf-concentration-phosphoric-acid-feldspathic-bond.pdf
 pdf_filename: moura-2020-hf-concentration-phosphoric-acid-feldspathic-bond.pdf
 source_collection: external

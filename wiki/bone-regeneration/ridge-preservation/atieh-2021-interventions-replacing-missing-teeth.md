@@ -6,7 +6,7 @@ date: 2021-04-26
 doi: 10.1002/14651858.CD010176.pub3
 source: atieh-2021-interventions-replacing-missing-teeth.md
 category: [bone-regeneration/ridge-preservation]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/atieh-2021-interventions-replacing-missing-teeth.pdf
 pdf_filename: atieh-2021-interventions-replacing-missing-teeth.pdf
 source_collection: external

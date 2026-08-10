@@ -6,7 +6,7 @@ date: 2024-02-24
 doi: "10.1186/s12903-024-04046-7"
 source: albano-2024-artificial-intelligence-radiographic-caries-detection.md
 category: [artificial-intelligence]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "38402191"

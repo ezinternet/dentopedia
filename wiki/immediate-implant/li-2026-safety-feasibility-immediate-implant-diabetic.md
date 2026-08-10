@@ -6,7 +6,7 @@ date: 2026-06-24
 doi: 10.3892/br.2026.2173
 source: li-2026-safety-feasibility-immediate-implant-diabetic.md
 category: [immediate-implant]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "42388444"
@@ -60,6 +60,6 @@ This systematic review and meta-analysis pooled 10 studies (1,350 patients, 1,62
 
 ## Related Papers
 
-- [[drug/systemic-disease/wagner-2022-diabetes-mellitus-dental-implants-sr]] — reinforces (general implant-diabetes SR, not IIP-specific; this paper narrows the question to the immediate-placement protocol)
-- [[drug/systemic-disease/al-ansari-2022-diabetes-mellitus-dental-implants-sr-ma]] — reinforces (general implant-diabetes MA; this paper adds IIP-specific stratification by glycemic control)
-- [[implants/aghaloo-2019-systemic-diseases-medications-implant-osseointegration-sr]] — applies-to (systemic-disease osseointegration risk framework, applied here specifically to IIP)
+- [[implants/survival/wagner-2022-diabetes-mellitus-dental-implants-sr]] — reinforces (general implant-diabetes SR, not IIP-specific; this paper narrows the question to the immediate-placement protocol)
+- [[implants/survival/al-ansari-2022-diabetes-mellitus-dental-implants-sr-ma]] — reinforces (general implant-diabetes MA; this paper adds IIP-specific stratification by glycemic control)
+- [[implants/survival/aghaloo-2019-systemic-diseases-medications-implant-osseointegration-sr]] — applies-to (systemic-disease osseointegration risk framework, applied here specifically to IIP)

@@ -15,7 +15,7 @@ text_filename: sokhal-2025-surface-hardness-bis-acryl-pmma-provisional.txt
 
 ## Why Ingested
 
-사용자의 "아크릴레진 임시치아 재료(SNAP 제품)" 요청에서 SNAP 논문은 PMC 전문이 없어(초록만), PMC 전문판 파트너로 이 논문을 ingest. 아크릴(PMMA) vs bis-acryl 임시수복재의 **표면경도(Vickers)** 근거로, SNAP 논문 [[prosthetic-materials/givens-2007-marginal-adaptation-color-stability-provisional]](변연적합·색안정성)가 다루지 못한 기계적 물성 축을 채운다. 두 편이 짝을 이뤄 "전통 아크릴은 변연적합·색안정은 대등하나 경도는 bis-acryl보다 낮다"는 임상 결론을 완성. 기존 [[prosthetic-materials/alqarawi-2024-digital-taper-finish-line-temporary-crown-retention]](임시치관 유지력)와도 연결.
+사용자의 "아크릴레진 임시치아 재료(SNAP 제품)" 요청에서 SNAP 논문은 PMC 전문이 없어(초록만), PMC 전문판 파트너로 이 논문을 ingest. 아크릴(PMMA) vs bis-acryl 임시수복재의 **표면경도(Vickers)** 근거로, SNAP 논문 [[prosthetic-materials/givens-2007-marginal-adaptation-color-stability-provisional]](변연적합·색안정성)가 다루지 못한 기계적 물성 축을 채운다. 두 편이 짝을 이뤄 "전통 아크릴은 변연적합·색안정은 대등하나 경도는 bis-acryl보다 낮다"는 임상 결론을 완성. 기존 [[prosthetic-materials/tooth-preparation/alqarawi-2024-digital-taper-finish-line-temporary-crown-retention]](임시치관 유지력)와도 연결.
 
 ## Three-line Summary
 
@@ -78,7 +78,7 @@ In-vitro Vickers 경도 연구(Cureus 2025, 군당 n=40, 총 160): 임시치관 
 ## 6. Related Work
 
 - [[prosthetic-materials/givens-2007-marginal-adaptation-color-stability-provisional]] — paired SNAP study (marginal fit + color); together: acrylic is competitive on fit/color but softer than bis-acryl.
-- [[prosthetic-materials/alqarawi-2024-digital-taper-finish-line-temporary-crown-retention]] — temporary crown retention vs prep geometry.
+- [[prosthetic-materials/tooth-preparation/alqarawi-2024-digital-taper-finish-line-temporary-crown-retention]] — temporary crown retention vs prep geometry.
 
 ## 7. Glossary
 

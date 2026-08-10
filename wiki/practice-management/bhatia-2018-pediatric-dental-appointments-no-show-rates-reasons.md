@@ -6,7 +6,7 @@ date: 2018-06-01
 doi: 10.5005/jp-journals-10005-1506
 source: bhatia-2018-pediatric-dental-appointments-no-show-rates-reasons.md
 category: [practice-management]
-confidence: cross-sectional
+evidence_level: cross-sectional
 source_collection: pubmed-text
 full_text: true
 pmid: "30131636"

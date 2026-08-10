@@ -6,7 +6,7 @@ date: 2021-02-28
 doi: 10.3390/antibiotics10030240
 source: teoh-2021-oral-antibiotic-empirical-acute-dentoalveolar-infections.md
 category: [drug/antibiotics]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/teoh-2021-oral-antibiotic-empirical-acute-dentoalveolar-infections.pdf
 pdf_filename: teoh-2021-oral-antibiotic-empirical-acute-dentoalveolar-infections.pdf
 source_collection: external
@@ -65,6 +65,6 @@ Dental treatment providing drainage and source removal (pulpectomy, extraction, 
 
 ## Related Papers
 
-- [[drug/lockhart-2019-antibiotic-pulpal-periapical-pain-swelling]] — ADA 지침(치료 우선·항생제는 전신 침범 시)과 정합, 본 SR이 감염 발생 후 시나리오로 보강(reinforces).
-- [[drug/mendez-millan-2024-antibiotic-overprescription-apical-periodontitis-sr-ma]] — 치근단성 항생제 과처방 정량화를 보강(reinforces).
-- [[drug/lodi-2021-antibiotics-tooth-extraction-cochrane-sr]] — 발치 setting 스튜어드십과 동일 원리.
+- [[drug/antibiotics/lockhart-2019-antibiotic-pulpal-periapical-pain-swelling]] — ADA 지침(치료 우선·항생제는 전신 침범 시)과 정합, 본 SR이 감염 발생 후 시나리오로 보강(reinforces).
+- [[drug/antibiotics/mendez-millan-2024-antibiotic-overprescription-apical-periodontitis-sr-ma]] — 치근단성 항생제 과처방 정량화를 보강(reinforces).
+- [[drug/antibiotics/lodi-2021-antibiotics-tooth-extraction-cochrane-sr]] — 발치 setting 스튜어드십과 동일 원리.

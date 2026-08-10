@@ -40,7 +40,7 @@ European Geriatric Medicine 2024;15(3):645-655 · Tao Li, Yinli Shen, Yingjie Le
 10개 DB(~2023.9), 18편. random-effects, 하위군·메타회귀, 출판편의 검정.
 
 ## 4. Key Results and Benchmarks
-OF 24%(95%CI 20-28), pre-frailty 57%(52-61); 여성·병원·중국에서 높음 [근거강함]. 도구별 큰 차이.
+OF 24%(95%CI 20-28), pre-frailty 57%(52-61); 여성·병원·중국에서 높음 [확인]. 도구별 큰 차이.
 
 ## 5. Limitations and Future Work
 평가도구 비표준화가 유병률 차이의 주원인, 횡단 다수.

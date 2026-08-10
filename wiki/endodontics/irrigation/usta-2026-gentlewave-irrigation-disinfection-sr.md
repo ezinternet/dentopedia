@@ -6,7 +6,7 @@ date: 2026-01-01
 doi: 10.1186/s12903-026-07688-x
 source: usta-2026-gentlewave-irrigation-disinfection-sr.md
 category: [endodontics/irrigation]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/usta-2026-gentlewave-irrigation-disinfection-sr.pdf
 pdf_filename: usta-2026-gentlewave-irrigation-disinfection-sr.pdf
 source_collection: external

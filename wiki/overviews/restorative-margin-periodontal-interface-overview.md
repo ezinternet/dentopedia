@@ -2,7 +2,7 @@
 title: "Restorative Margin ↔ Periodontal Interface: Biologic Width, Margin Placement & FDP Health — 7-paper synthesis"
 type: synthesis
 date: 2026-06-17
-confidence: synthesis
+evidence_level: synthesis
 category: [overviews]
 source_collection: synthesis
 tags: []

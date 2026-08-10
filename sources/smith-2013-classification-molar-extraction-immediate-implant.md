@@ -45,9 +45,9 @@ Provides a treatment-decision framework that subsequent studies (Pavlovic 2022, 
 Not an outcome study; classification not validated against survival data within this paper.
 
 ## 6. Related Work
-- [[immediate-implant/ragucci-2020-immediate-implant-molar-extraction-sockets]]
-- [[immediate-implant/pavlovic-2022-interradicular-septum-morphology-molar-iip]]
-- [[immediate-implant/milenkovic-2022-interradicular-septum-classification-iip]]
+- [[immediate-implant/molar-septum/ragucci-2020-immediate-implant-molar-extraction-sockets]]
+- [[immediate-implant/molar-septum/pavlovic-2022-interradicular-septum-morphology-molar-iip]]
+- [[immediate-implant/molar-septum/milenkovic-2022-interradicular-septum-classification-iip]]
 
 ## 7. Glossary
 - **IIP:** Immediate Implant Placement — placement at the time of tooth extraction.

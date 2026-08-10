@@ -6,7 +6,7 @@ date: 2023-05-29
 doi: 10.1186/s12903-023-03036-5
 source: al-rammahi-2023-mandibular-first-molar-microct-anatomy-sr.md
 category: [endodontics/anatomy]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "37248469"

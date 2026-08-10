@@ -6,7 +6,7 @@ date: 2022-01-01
 doi: 10.3390/jcm11164812
 source: di-fiore-2022-periimplant-bone-loss-overload-occlusal-analysis.md
 category: [occlusion]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/di-fiore-2022-periimplant-bone-loss-overload-occlusal-analysis.pdf
 pdf_filename: di-fiore-2022-periimplant-bone-loss-overload-occlusal-analysis.pdf
 source_collection: external
@@ -45,9 +45,9 @@ Padova/Bern/Ohio 공동 SR. 교합 과부하와 임플란트주위 골소실의 
 PRISMA, MEDLINE/Scopus/Cochrane(1985-2021). 정량 교합접촉/마모 보고 임상연구만. ROBINS-I.
 
 ## Results
-492→7편 포함. 과부하-골소실 연관이 시사되나 근거 질·수 제한 [합의수준/미검증]. 디지털 정량분석 표준화 부재가 핵심 한계.
+492→7편 포함. 과부하-골소실 연관이 시사되나 근거 질·수 제한 [확인]. 디지털 정량분석 표준화 부재가 핵심 한계.
 
 ## Related Papers
 - [[overviews/bruxism-muscle-overload-axis]] — 임플란트 과부하 축
 - [[implants/stilwell-2024-occlusal-considerations-implant-maintenance]] — 교합점검 프로토콜
-- [[implants/song-2021-implant-complications-bruxism-patients]] — bruxism late failure
+- [[implants/survival/song-2021-implant-complications-bruxism-patients]] — bruxism late failure

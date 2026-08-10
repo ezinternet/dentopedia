@@ -6,7 +6,7 @@ date: 2019-03-20
 doi: 10.1111/prd.12252
 source: araujo-2019-socket-healing-immediate-implant-review.md
 category: immediate-implant
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/araujo-2019-socket-healing-immediate-implant-review.pdf
 pdf_filename: araujo-2019-socket-healing-immediate-implant-review.pdf
 source_collection: external

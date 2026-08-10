@@ -6,7 +6,7 @@ date: 2023-04-29
 doi: 10.7759/cureus.38311
 source: jaber-2023-clear-aligners-complex-extraction-vs-fixed-sr.md
 category: [orthodontics/clear-aligner]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "37128600"

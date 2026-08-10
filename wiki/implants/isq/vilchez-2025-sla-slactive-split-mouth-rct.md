@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1111/clr.70071
 source: vilchez-2025-sla-slactive-split-mouth-rct.md
 category: [implants/isq]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: true
 pmid: "41199413"

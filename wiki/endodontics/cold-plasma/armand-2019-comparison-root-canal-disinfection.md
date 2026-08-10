@@ -6,7 +6,7 @@ date: 2019-06-01
 doi: 10.1016/j.pdpdt.2019.04.023
 source: armand-2019-comparison-root-canal-disinfection.md
 category: [endodontics/cold-plasma]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/armand-2019-comparison-root-canal-disinfection.pdf
 pdf_filename: armand-2019-comparison-root-canal-disinfection.pdf
 source_collection: external

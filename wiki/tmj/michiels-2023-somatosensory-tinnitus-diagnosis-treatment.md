@@ -6,7 +6,7 @@ date: 2023-10-04
 doi: 10.1007/s10162-023-00912-3
 source: michiels-2023-somatosensory-tinnitus-diagnosis-treatment.md
 category: [tmj]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: false
 pmid: "37794291"

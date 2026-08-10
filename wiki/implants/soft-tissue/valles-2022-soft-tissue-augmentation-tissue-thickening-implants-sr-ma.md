@@ -6,7 +6,7 @@ date: 2022-01-01
 doi: 10.1111/clr.13920
 source: valles-2022-soft-tissue-augmentation-tissue-thickening-implants-sr-ma.md
 category: [implants/soft-tissue]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/valles-2022-soft-tissue-augmentation-tissue-thickening-implants-sr-ma.pdf
 pdf_filename: valles-2022-soft-tissue-augmentation-tissue-thickening-implants-sr-ma.pdf
 source_collection: external
@@ -97,7 +97,7 @@ Key individual study observations:
 
 ## Related Papers
 
-- [[implants/montero-2022-soft-tissue-substitutes-vs-autogenous-keratinized-mucosa-sr]] — parallel SR on KM width augmentation; complements this STT-focused SR+MA
-- [[implants/stefanini-2023-soft-tissue-augmentation-peri-implant-sr]] — SR on soft-tissue augmentation procedures at peri-implant sites; broader scope includes KM and recession treatment
-- [[implants/sanz-2022-keratinized-mucosa-around-implants-consensus]] — DGI/SEPA/Osteology consensus paper on KM role; same workshop supplement as this review
-- [[implants/keratinized-mucosa-peri-implant-health-overview]] — synthesis overview integrating KM width and STT evidence for clinical decision-making
+- [[implants/soft-tissue/montero-2022-soft-tissue-substitutes-vs-autogenous-keratinized-mucosa-sr]] — parallel SR on KM width augmentation; complements this STT-focused SR+MA
+- [[implants/soft-tissue/stefanini-2023-soft-tissue-augmentation-peri-implant-sr]] — SR on soft-tissue augmentation procedures at peri-implant sites; broader scope includes KM and recession treatment
+- [[implants/soft-tissue/sanz-2022-keratinized-mucosa-around-implants-consensus]] — DGI/SEPA/Osteology consensus paper on KM role; same workshop supplement as this review
+- [[overviews/keratinized-mucosa-peri-implant-health-overview]] — synthesis overview integrating KM width and STT evidence for clinical decision-making

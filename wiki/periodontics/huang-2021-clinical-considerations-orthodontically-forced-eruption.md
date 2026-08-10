@@ -6,7 +6,7 @@ date: 2021-12-18
 doi: 10.3390/jcm10245950
 source: huang-2021-clinical-considerations-orthodontically-forced-eruption.md
 category: [periodontics]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: true
 pmid: "34945246"

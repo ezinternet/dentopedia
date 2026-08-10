@@ -6,7 +6,7 @@ date: 2022-05-17
 doi: 10.1111/iej.13778
 source: meschi-2023-revitalization-apical-periodontitis-sr-ma.md
 category: [endodontics/regenerative]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/meschi-2023-revitalization-apical-periodontitis-sr-ma.pdf
 pdf_filename: meschi-2023-revitalization-apical-periodontitis-sr-ma.pdf
 source_collection: external

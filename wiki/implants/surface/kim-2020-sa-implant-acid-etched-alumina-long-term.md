@@ -6,7 +6,7 @@ date: 2020-01-01
 doi: 10.1186/s40902-020-00255-6
 journal: Maxillofacial Plastic and Reconstructive Surgery 42:10
 source: kim-2020-sa-implant-acid-etched-alumina-long-term.md
-confidence: retrospective
+evidence_level: retrospective
 category: [implants/surface]
 pdf_path: /Users/oracleneo/llm-wiki/papers/kim-2020-sa-implant-acid-etched-alumina-long-term.pdf
 pdf_filename: kim-2020-sa-implant-acid-etched-alumina-long-term.pdf
@@ -57,4 +57,4 @@ Retrospective long-term study of Osstem SA (SLA) implants. **94.8% survival** ov
 
 ## Related Papers
 - [[implants/surface/kim-2022-ca-implant-superhydrophilic-surface-long-term]] — same group, CA surface: 97.3% survival; better MBL (0.074mm)
-- [[implants/mortazavi-2021-bone-loss-tissue-bone-level-implants]] — MBL determinants across implant types
+- [[implants/mbl/mortazavi-2021-bone-loss-tissue-bone-level-implants]] — MBL determinants across implant types

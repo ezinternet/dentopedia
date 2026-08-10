@@ -8,7 +8,7 @@ pmid: "26340752"
 pmcid: "PMC4560370"
 source: li-2015-microbiota-black-stain-primary-dentition.md
 category: [caries]
-confidence: cross-sectional
+evidence_level: cross-sectional
 source_collection: pubmed-text
 text_path: /Users/oracleneo/llm-wiki/papers/li-2015-microbiota-black-stain-primary-dentition.txt
 text_filename: li-2015-microbiota-black-stain-primary-dentition.txt

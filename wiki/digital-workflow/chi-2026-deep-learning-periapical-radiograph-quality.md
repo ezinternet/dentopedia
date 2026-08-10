@@ -6,7 +6,7 @@ date: 2026-01-01
 doi: 10.1038/s41598-026-35100-9
 source: chi-2026-deep-learning-periapical-radiograph-quality.md
 category: [digital-workflow]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/chi-2026-deep-learning-periapical-radiograph-quality.pdf
 pdf_filename: chi-2026-deep-learning-periapical-radiograph-quality.pdf
 source_collection: external

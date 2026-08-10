@@ -6,7 +6,7 @@ date: 2023-02-25
 doi: 10.3390/biomimetics8010093
 journal: Biomimetics 2023;8(1):93
 source: deng-2023-osseointegration-titanium-implants-botox-induced.md
-confidence: animal
+evidence_level: animal
 category: botulinum-toxin
 pdf_path: /Users/oracleneo/llm-wiki/papers/deng-2023-osseointegration-titanium-implants-botox-induced.pdf
 pdf_filename: deng-2023-osseointegration-titanium-implants-botox-induced.pdf

@@ -6,7 +6,7 @@ date: 1998-02-01
 doi: 10.1111/j.1600-051X.1998.tb02419.x
 source: socransky-1998-microbial-complexes-subgingival-plaque.md
 category: [oral-microbiology]
-confidence: cross-sectional
+evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/socransky-1998-microbial-complexes-subgingival-plaque.pdf
 pdf_filename: socransky-1998-microbial-complexes-subgingival-plaque.pdf
 source_collection: external

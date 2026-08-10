@@ -7,7 +7,7 @@ doi: 10.3390/antibiotics13020189
 journal: Antibiotics 13:189
 source: sbricoli-2024-antibiotic-prescribing-habits-dentistry-survey.md
 category: [drug/antibiotics]
-confidence: cross-sectional
+evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/sbricoli-2024-antibiotic-prescribing-habits-dentistry-survey.pdf
 pdf_filename: sbricoli-2024-antibiotic-prescribing-habits-dentistry-survey.pdf
 source_collection: external
@@ -42,7 +42,7 @@ Questionnaire survey of Italian dentists examining antibiotic prescribing habits
 Questionnaire to Italian dentists; categorical analysis of indications, drug choice, duration, route.
 
 ## Results
-[합의수준] Overprescription common; indications frequently not guideline-supported; AMR awareness high but not translated to restraint.
+[확인] Overprescription common; indications frequently not guideline-supported; AMR awareness high but not translated to restraint.
 
 ## Limitations
 - Self-report bias
@@ -50,8 +50,8 @@ Questionnaire to Italian dentists; categorical analysis of indications, drug cho
 - No outcome data
 
 ## Related Papers
-- [[drug/sutej-2024-antibiotic-prescribing-trends-dentistry-croatia]] — Croatian national 10-yr data.
-- [[drug/thompson-2023-dental-antibiotic-stewardship-core-outcome-set]] — international consensus on stewardship outcomes.
-- [[drug/sandulescu-2024-antibiotic-prescribing-dental-best-practices-review]] — implementation review.
-- [[drug/bazsefidpay-2023-antibiotic-restrictive-use-adherence-recommendation]] — Swedish adherence study.
-- [[drug/mendez-millan-2024-antibiotic-overprescription-apical-periodontitis-sr-ma]] — endodontic overprescription SR.
+- [[drug/antibiotics/sutej-2024-antibiotic-prescribing-trends-dentistry-croatia]] — Croatian national 10-yr data.
+- [[drug/antibiotics/thompson-2023-dental-antibiotic-stewardship-core-outcome-set]] — international consensus on stewardship outcomes.
+- [[drug/antibiotics/sandulescu-2024-antibiotic-prescribing-dental-best-practices-review]] — implementation review.
+- [[drug/antibiotics/bazsefidpay-2023-antibiotic-restrictive-use-adherence-recommendation]] — Swedish adherence study.
+- [[drug/antibiotics/mendez-millan-2024-antibiotic-overprescription-apical-periodontitis-sr-ma]] — endodontic overprescription SR.

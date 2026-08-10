@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1186/s40001-025-02603-6
 source: mizna-2025-ai-healthcare-practice-review.md
 category: [digital-workflow]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/mizna-2025-ai-healthcare-practice-review.pdf
 pdf_filename: mizna-2025-ai-healthcare-practice-review.pdf
 source_collection: external
@@ -62,7 +62,7 @@ Narrative literature review (European Journal of Medical Research 2025) on AI pr
 - Regulatory and legal considerations
 - Cost and accessibility
 
-## Clinical Implications [claude해석]
+## Clinical Implications [미검증]
 - Most relevant to dental practice: wearable + AI analytics for chronic-disease patients (diabetes, cardiovascular) feeding into pre-treatment risk stratification — Korean clinics rarely receive structured wearable data feeds yet
 - Robot-assisted surgery findings don't transfer directly to dental robotics (Yomi, etc.) — different scale, regulatory class
 - IoT + AI patient monitoring is not yet operationalised in private dental clinics; large hospital ENT/OMFS departments more relevant adopters

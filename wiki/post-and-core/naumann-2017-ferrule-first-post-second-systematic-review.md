@@ -7,7 +7,7 @@ doi: 10.1016/j.joen.2017.09.020
 pmid: "29229457"
 source: naumann-2017-ferrule-first-post-second-systematic-review.md
 category: [post-and-core]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: false
 tags: [ferrule-effect, post-and-core, endodontically-treated-teeth, systematic-review]

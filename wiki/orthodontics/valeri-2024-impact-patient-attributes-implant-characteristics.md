@@ -6,7 +6,7 @@ date: 2024-08-07
 doi: 10.1016/j.sdentj.2024.07.013
 source: valeri-2024-impact-patient-attributes-implant-characteristics.md
 category: [orthodontics]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/valeri-2024-impact-patient-attributes-implant-characteristics.pdf
 pdf_filename: valeri-2024-impact-patient-attributes-implant-characteristics.pdf
 source_collection: external

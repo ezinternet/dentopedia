@@ -6,7 +6,7 @@ date: 2026-01-22
 doi: 10.4103/jpbs.jpbs_1567_25
 source: bobba-2026-single-multiple-visit-rct-apical-periodontitis.md
 category: [endodontics/visit-protocol]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/bobba-2026-single-multiple-visit-rct-apical-periodontitis.pdf
 pdf_filename: bobba-2026-single-multiple-visit-rct-apical-periodontitis.pdf
 source_collection: external

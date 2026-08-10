@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1111/jerd.13351
 source: klein-2025-ceramic-laminate-veneer-survival-complications-sr-ma.md
 category: [veneers]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/klein-2025-ceramic-laminate-veneer-survival-complications-sr-ma.pdf
 pdf_filename: klein-2025-ceramic-laminate-veneer-survival-complications-sr-ma.pdf
 source_collection: external

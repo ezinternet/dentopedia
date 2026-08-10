@@ -6,7 +6,7 @@ date: 2023-03-14
 doi: 10.1111/clr.14065
 source: abou-ayash-2023-implant-supported-fixed-complete-dentures.md
 category: [complete-denture]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/abou-ayash-2023-implant-supported-fixed-complete-dentures.pdf
 pdf_filename: abou-ayash-2023-implant-supported-fixed-complete-dentures.pdf
 source_collection: external

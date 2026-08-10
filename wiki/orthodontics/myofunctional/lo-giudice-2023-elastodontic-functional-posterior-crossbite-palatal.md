@@ -6,7 +6,7 @@ date: 2023-02-02
 doi: 10.1186/s12903-023-02731-7
 source: lo-giudice-2023-elastodontic-functional-posterior-crossbite-palatal.md
 category: [orthodontics/myofunctional]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 full_text: true
 pmid: "36732751"

@@ -6,7 +6,7 @@ date: 2022-01-19
 doi: 10.3390/ma15030733
 source: steigmann-2022-socket-buccal-bone-classification.md
 category: [bone-regeneration/ridge-preservation]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/steigmann-2022-socket-buccal-bone-classification.pdf
 pdf_filename: steigmann-2022-socket-buccal-bone-classification.pdf
 source_collection: external

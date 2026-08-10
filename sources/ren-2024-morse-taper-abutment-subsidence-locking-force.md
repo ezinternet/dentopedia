@@ -15,7 +15,7 @@ text_filename: ren-2024-morse-taper-abutment-subsidence-locking-force.txt
 
 ## Why Ingested
 
-"어버트먼트 침하(sinking-down)"는 순수 Morse taper(Bicon형) 마찰결합 임플란트의 임상 특유 현상으로, 시멘트·스크류 보철과 달리 별도 고정 스크류 없이 마찰력만으로 결합되어 시간이 지나며 기구·교합력에 의해 어버트먼트가 추가로 가라앉아 후기 교합관계가 바뀐다. 기존 [[implants/seong-2016-external-internal-implant-connection-system]]는 외부/내부 연결 생역학을 다루지만 마찰결합(taper-lock) 특유의 침하 정량 데이터가 없었고, [[prosthetic-materials/ziada-2025-abutment-material-stress-distribution-fea]]는 어버트먼트 응력만 FEA로 본다. 본 벤치 실험(Ren 2024)은 침하량(subsidence)과 결합력(locking force)을 잠금깊이·잠금기둥경·외벽두께·하중으로 정량화해 "왜 ≥5회 가압 시팅과 지연 최종 교합조정이 필요한가"의 근거를 제공한다.
+"어버트먼트 침하(sinking-down)"는 순수 Morse taper(Bicon형) 마찰결합 임플란트의 임상 특유 현상으로, 시멘트·스크류 보철과 달리 별도 고정 스크류 없이 마찰력만으로 결합되어 시간이 지나며 기구·교합력에 의해 어버트먼트가 추가로 가라앉아 후기 교합관계가 바뀐다. 기존 [[implants/seong-2016-external-internal-implant-connection-system]]는 외부/내부 연결 생역학을 다루지만 마찰결합(taper-lock) 특유의 침하 정량 데이터가 없었고, [[prosthetic-materials/abutment-screw/ziada-2025-abutment-material-stress-distribution-fea]]는 어버트먼트 응력만 FEA로 본다. 본 벤치 실험(Ren 2024)은 침하량(subsidence)과 결합력(locking force)을 잠금깊이·잠금기둥경·외벽두께·하중으로 정량화해 "왜 ≥5회 가압 시팅과 지연 최종 교합조정이 필요한가"의 근거를 제공한다.
 
 ## Three-line Summary
 

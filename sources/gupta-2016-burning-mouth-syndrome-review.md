@@ -49,7 +49,7 @@ BMS 병인은 다인성; 신경병증 + 심리적 요인. Alpha-lipoic acid는 �
 소규모 연구 다수; 표준화 부족.
 
 ## 6. Related Work
-- [[oral-medicine/canfora-2025-burning-mouth-syndrome-pathogenesis-review]] — related
+- [[oral-medicine/burning-mouth-syndrome/canfora-2025-burning-mouth-syndrome-pathogenesis-review]] — related
 
 ## 7. Glossary
 alpha-lipoic acid: 알파리포산(신경보호 항산화제); BMS type 1/2/3: Lamey 분류

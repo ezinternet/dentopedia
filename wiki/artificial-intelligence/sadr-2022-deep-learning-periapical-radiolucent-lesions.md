@@ -6,7 +6,7 @@ date: 2023-03-01
 doi: 10.1016/j.joen.2022.12.007
 source: sadr-2022-deep-learning-periapical-radiolucent-lesions.md
 category: [artificial-intelligence]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: false
 pmid: "36563779"

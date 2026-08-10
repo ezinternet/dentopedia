@@ -6,7 +6,7 @@ date: 2026-02-23
 doi: "10.3389/fdmed.2026.1758771"
 source: halasabalu-kalgeri-2026-polypharmacy-oral-health-elderly.md
 category: [geriatric-dentistry]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: true
 pmid: "41809442"

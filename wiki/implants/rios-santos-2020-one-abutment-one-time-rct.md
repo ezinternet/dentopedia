@@ -6,7 +6,7 @@ date: 2020-12-17
 doi: 10.3390/ijerph17249453
 source: rios-santos-2020-one-abutment-one-time-rct.md
 category: [implants]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: true
 pmid: "33348644"
@@ -71,4 +71,4 @@ Clinically: in healed-ridge, platform-switched, subcrestal implants, placing the
 ## Related Papers
 
 - [[implants/ruhstorfer-2024-customized-vs-conventional-healing-abutments-sr]] — sibling on the same disconnection-avoidance principle (customized vs conventional healing abutments); this RCT reinforces it by directly testing whether avoiding repeated abutment disconnection (OAOT) preserves crestal bone (here: no significant benefit at 1 year).
-- [[implants/canullo-2020-titanium-abutment-surface-peri-implant-tissue-ma]] — meta-analysis on titanium abutment surface and peri-implant tissue response; complements this trial's abutment/interface focus on what governs peri-implant bone and soft-tissue stability.
+- [[implants/soft-tissue/canullo-2020-titanium-abutment-surface-peri-implant-tissue-ma]] — meta-analysis on titanium abutment surface and peri-implant tissue response; complements this trial's abutment/interface focus on what governs peri-implant bone and soft-tissue stability.

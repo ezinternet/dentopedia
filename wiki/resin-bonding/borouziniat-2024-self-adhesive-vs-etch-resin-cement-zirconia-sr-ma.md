@@ -6,7 +6,7 @@ date: 2024-02-08
 doi: 10.4103/JCDE.JCDE_225_23
 source: borouziniat-2024-self-adhesive-vs-etch-resin-cement-zirconia-sr-ma.md
 category: [resin-bonding]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "38463466"

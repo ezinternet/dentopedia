@@ -6,7 +6,7 @@ date: 2023-01-02
 doi: 10.1016/j.jds.2022.12.014
 source: wu-2023-dynamic-navigation-transcrestal-sinus-floor.md
 category: sinus-lift/transcrestal
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/wu-2023-dynamic-navigation-transcrestal-sinus-floor.pdf
 pdf_filename: wu-2023-dynamic-navigation-transcrestal-sinus-floor.pdf
 source_collection: external

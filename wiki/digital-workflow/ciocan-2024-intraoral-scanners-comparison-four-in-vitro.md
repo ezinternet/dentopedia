@@ -6,7 +6,7 @@ date: 2024-07-08
 doi: 10.3390/diagnostics14131453
 source: ciocan-2024-intraoral-scanners-comparison-four-in-vitro.md
 category: [digital-workflow]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/ciocan-2024-intraoral-scanners-comparison-four-in-vitro.pdf
 pdf_filename: ciocan-2024-intraoral-scanners-comparison-four-in-vitro.pdf
 source_collection: external

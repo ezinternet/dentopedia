@@ -7,7 +7,7 @@ doi: 10.4166/kjg.2020.142
 journal: Korean J Gastroenterol 76(6):282-296
 source: lim-2020-antithrombotic-gi-endoscopy-korean-guideline.md
 category: [drug/anticoagulants]
-confidence: consensus
+evidence_level: consensus
 pdf_path: /Users/oracleneo/llm-wiki/papers/lim-2020-antithrombotic-gi-endoscopy-korean-guideline.pdf
 pdf_filename: lim-2020-antithrombotic-gi-endoscopy-korean-guideline.pdf
 source_collection: external
@@ -31,7 +31,7 @@ GI 특화 합의문으로 치과에 직접 적용 불가(발치 출혈은 회복
 ## Summary
 Korean multidisciplinary clinical practice guideline coordinated by 12 tertiary general hospitals on managing antithrombotic agents (warfarin, DOAC, aspirin, clopidogrel, DAPT) around GI endoscopic procedures. Stratification matrix: procedural bleeding risk × patient thromboembolic risk → management algorithm.
 
-[claude해석] **Not a dental guideline.** Dental extraction bleeding risk is largely *recoverable* (local pressure, sutures, oxidized cellulose, chitosan, TXA), whereas GI bleeding from post-polypectomy ulceration can be catastrophic. Therefore the threshold for interrupting antithrombotic therapy is *lower* in GI procedures than in dentistry. Practical dental guidance — continue therapy in routine extractions, control locally — does not flow from this Korean GI consensus and should follow dental-specific evidence (Lu 2018, Inchingolo 2024, Moldovan 2023).
+[미검증] **Not a dental guideline.** Dental extraction bleeding risk is largely *recoverable* (local pressure, sutures, oxidized cellulose, chitosan, TXA), whereas GI bleeding from post-polypectomy ulceration can be catastrophic. Therefore the threshold for interrupting antithrombotic therapy is *lower* in GI procedures than in dentistry. Practical dental guidance — continue therapy in routine extractions, control locally — does not flow from this Korean GI consensus and should follow dental-specific evidence (Lu 2018, Inchingolo 2024, Moldovan 2023).
 
 However, this guideline is the best Korean-language reference for the same drug classes a Korean dental clinician will see daily, and for cross-specialty consultation conversations (gastroenterology comments on shared anticoagulant patients), familiarity with its framework is useful.
 
@@ -44,7 +44,7 @@ However, this guideline is the best Korean-language reference for the same drug 
 Consensus methodology with evidence-based recommendations across antithrombotic classes; dedicated subsections per agent class.
 
 ## Results
-[합의수준]
+[확인]
 | Procedure × Patient | Action |
 |---|---|
 | Low bleeding risk × low thrombotic risk | continue agent |
@@ -60,8 +60,8 @@ Consensus methodology with evidence-based recommendations across antithrombotic 
 - 2020 — DOAC literature has continued to expand since
 
 ## Related Papers
-- [[drug/lu-2018-warfarin-antiplatelet-dental-extraction-management]] — dental-specific cohort.
-- [[drug/krishnan-2024-bleeding-uninterrupted-single-dual-antiplatelet]] — dental SAPT/DAPT.
-- [[drug/cho-2014-antithrombotic-secondary-prevention-ischemic-stroke-korean]] — Korean neurology guideline on antithrombotic indication.
-- [[drug/inchingolo-2024-anticoagulation-therapy-dental-practice-sr]] — dental SR.
-- [[drug/shah-2022-perioperative-antiplatelet-therapy-sr-ma]] — ACCP-supporting SR+MA.
+- [[drug/anticoagulants/lu-2018-warfarin-antiplatelet-dental-extraction-management]] — dental-specific cohort.
+- [[drug/anticoagulants/krishnan-2024-bleeding-uninterrupted-single-dual-antiplatelet]] — dental SAPT/DAPT.
+- [[drug/anticoagulants/cho-2014-antithrombotic-secondary-prevention-ischemic-stroke-korean]] — Korean neurology guideline on antithrombotic indication.
+- [[drug/anticoagulants/inchingolo-2024-anticoagulation-therapy-dental-practice-sr]] — dental SR.
+- [[drug/anticoagulants/shah-2022-perioperative-antiplatelet-therapy-sr-ma]] — ACCP-supporting SR+MA.

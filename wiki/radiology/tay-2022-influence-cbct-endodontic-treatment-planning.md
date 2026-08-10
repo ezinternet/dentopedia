@@ -6,7 +6,7 @@ date: 2022-01-01
 doi: 10.1016/j.jdent.2022.104353
 source: tay-2022-influence-cbct-endodontic-treatment-planning.md
 category: [radiology]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/tay-2022-influence-cbct-endodontic-treatment-planning.pdf
 pdf_filename: tay-2022-influence-cbct-endodontic-treatment-planning.pdf
 source_collection: external
@@ -43,7 +43,7 @@ CBCT 도입이 근관치료 의사결정을 얼마나 바꾸는지 평가한 SR.
 4개 DB(~2021.9), 16편. 수정 QUADAS RoB.
 
 ## Results
-15/16 연구가 CBCT 도입 시 계획 변경 보고(24.3-56%); 추가 개입 처방 경향 [합의수준]. 이질성 큼.
+15/16 연구가 CBCT 도입 시 계획 변경 보고(24.3-56%); 추가 개입 처방 경향 [확인]. 이질성 큼.
 
 ## Related Papers
 - [[radiology/khafaji-2023-scattered-dose-eye-dentistry-cbct]] — 피폭 trade-off

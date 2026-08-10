@@ -6,7 +6,7 @@ date: 2024-02-27
 doi: 10.11607/jomi.10180
 source: soares-2024-sinus-membrane-perforation-repair-review.md
 category: [sinus-lift/lateral]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/soares-2024-sinus-membrane-perforation-repair-review.pdf
 pdf_filename: soares-2024-sinus-membrane-perforation-repair-review.pdf
 source_collection: external

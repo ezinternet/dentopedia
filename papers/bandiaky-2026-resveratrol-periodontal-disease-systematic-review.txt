@@ -1,0 +1,89 @@
+Contribution of Resveratrol on Periodontal Disease Control and Treatment: A Systematic Review
+Bandiaky ON, Bechina C, Vanden Berghe M, Soueidan A, Serisier S, Struillou X
+Oral Health & Preventive Dentistry, 2026; 24:499-508
+PMID: 42384081 | PMCID: PMC13323817 | DOI: 10.3290/j.ohpd.c_2752
+Source: PubMed / PMC full text (https://pmc.ncbi.nlm.nih.gov/articles/PMC13323817/)
+
+ABSTRACT
+
+Purpose
+Resveratrol, a natural polyphenol with anti-inflammatory and antioxidant properties, has been proposed as an adjunctive agent in periodontal therapy. This systematic review aimed to evaluate the effectiveness of resveratrol in controlling periodontal inflammation and alveolar bone loss in preclinical and clinical studies.
+
+Methods and Materials
+A systematic review was conducted following PRISMA 2020 guidelines. Electronic databases (PubMed/MEDLINE, Cochrane Library, Lilacs, Wiley, ScienceDirect) were searched up to October 2025, complemented by manual searches of periodontal journals. Eligible studies included animal experiments and randomised clinical trials assessing the impact of resveratrol on periodontal outcomes. Three reviewers independently performed study screening, data extraction, and risk-of-bias assessment using SYRCLE and Cochrane tools.
+
+Results
+Twenty-two studies met the inclusion criteria, including 16 preclinical and 6 clinical studies. In animal models, resveratrol consistently reduced alveolar bone loss (7.09% to 60.60%) and improved inflammatory and oxidative stress markers. Clinical trials reported variable but generally positive effects, including reductions in probing pocket depth, bleeding index, and plaque index, and improvements in clinical attachment level. Several studies also showed decreased systemic or local inflammatory cytokines. Clinical evidence remains limited by small sample sizes, methodological heterogeneity, and short follow-up periods. No clinical study evaluated radiographic bone loss.
+
+Conclusion
+Preclinical studies suggest that resveratrol has anti-inflammatory, antioxidant and bone-protective effects, but clinical evidence is limited and heterogeneous. Resveratrol may be considered as an adjunct to nonsurgical periodontal therapy, particularly in aggressive periodontitis, but further well-designed trials are needed to determine optimal dosage, duration, and delivery route.
+
+FULL TEXT
+
+Periodontal diseases are intricate infectious conditions characterised by inflammation. They manifest through various clinical symptoms and signs, such as periodontal pocket formation, gingival recession, attachment loss, alveolar bone loss, and tooth mobility, often clinically detectable or subclinical inflammation and spontaneous or induced gingival bleeding. These conditions can lead to tooth loss. The classification of Chicago 2017 categorises periodontitis by severity into Stages I to IV. Moderate periodontitis (Stage II) involves 3-4 mm of attachment loss and 15-30% bone loss, while severe periodontitis (Stages III or IV) shows at least 5 mm of attachment loss and significant bone loss. Stage IV is the most advanced, featuring major tissue damage and requiring complex treatment. Beyond clinical staging, recent advances emphasise a biological definition of periodontal diseases based on host-response mechanisms and molecular diagnostics.
+
+According to the WHO, severe periodontal diseases affect approximately 19% of adults globally. Trindade et al reported that between 2011 and 2020, periodontitis affected about 62% of dentate adults, with severe periodontitis affecting 23.6%. The pathogenesis of periodontitis arises from complex interactions between the oral biofilm and the host's immune response, leading to microbial dysbiosis and inflammatory dysregulation. Plaque accumulation facilitates the growth of Gram-negative anaerobic bacteria such as Aggregatibacter actinomycetemcomitans (Aa) and Porphyromonas gingivalis (Pg), which recruit and infiltrate inflammatory cells.
+
+Current treatment approaches begin with rigorous plaque control by the patient, followed by reduction of microbial load through nonsurgical or surgical removal of dental plaque. While targeting periodontal pathogens typically halts disease progression, outcomes are not always as successful as desired, leading researchers to explore adjuncts to modulate the inflammatory response. Plant-derived polyphenols have emerged as promising candidates, and dietary antioxidants may play a role in mitigating oxidative stress associated with periodontal tissue damage.
+
+Resveratrol (3,5,4'-trihydroxystilbene), a polyphenol of the stilbene class, is produced by plants in response to stress and found in grape skins, peanuts, pistachios, blueberries, cranberries, and red wine. Known for antimicrobial, anti-carcinogenic, cardioprotective, neuroprotective, and diabetes-metabolic control properties. Andrade et al demonstrated resveratrol reduces alveolar bone loss in preclinical studies. Inchingolo et al reviewed phenolic compounds (resveratrol, curcumin, quercetin) on bone metabolism. Mizutani et al demonstrated adjunctive resveratrol improves periodontal parameters in type 2 diabetes.
+
+METHODS AND MATERIALS
+Protocol registered in PROSPERO (CRD42022247114). PRISMA 2020 guidelines. PICOS framework: Population (P) = mice/rats for preclinical, periodontitis patients for clinical; Intervention (I) = resveratrol alone or adjuvant in experimental/human periodontitis; Comparison (C) = resveratrol vs placebo control; Primary outcome (O) = reduction of alveolar bone loss (ABL); Secondary outcomes = plaque level, inflammatory cytokine expression, total antioxidant capacity (TAC), bleeding index (BI), clinical attachment level (CAL), probing pocket depth (PPD), adverse effects. Excluded: systemic-effect-only studies, resveratrol derivatives or red wine, no control groups, reviews/chapters/theses/conferences/editorials, in vitro studies.
+
+Search Strategy: Medline, Cochrane Library, Lilacs, Wiley, ScienceDirect until October 2025, plus hand-search. Terms: ("resveratrol" OR "3,4,5 trihydroxystilbene") AND ("periodontal disease" OR "periodontitis" OR "gingivitis"). English only, no date restrictions.
+
+Study Selection: Three investigators (ONB, MVB, SS) screened titles/abstracts. Two study groups (preclinical / clinical). Risk of bias assessed with SYRCLE tool (animal) and Cochrane Risk of Bias tool (RCT).
+
+RESULTS
+Initial search yielded 1,290 records; 1,172 duplicates removed. 118 screened, 91 excluded. Of 27 assessed for eligibility, 16 excluded (1 mesenchymal stem cell aggregate regeneration, 2 in Chinese, 1 bone regeneration after tooth extraction, 1 without control group, 11 in vitro). Eleven studies met inclusion criteria plus 11 supplementary from a previous SR+MA = 22 studies total. 16 preclinical animal studies, 6 clinical human studies.
+
+Preclinical (Table 1): Ten Wistar rat studies, three Sprague-Dawley, three C57BL/6J and C57BLKS/J mice. All used ligature protocol (silk, cotton, or elastic). Bhattarai and Zhen added LPS and P. gingivalis medium respectively. PD induction 8-30 days. Resveratrol route: mostly gavage; 5 studies oral, some intraperitoneal/subcutaneous. Doses 5-25 mg/kg body weight; treatment 7-140 days. Five studies assessed PD with comorbid conditions (arthritis, smoke inhalation, diabetes, ovariectomy).
+
+Key preclinical findings:
+- Ikeda 2022 (mice): resveratrol monomer/dimer reduced ABL; dimer better bone healing; IL-1beta downregulated.
+- Cirano 2021 (diabetic Wistar): reduced blood glucose, ABL, NADPH oxidase; upregulated OPG and SIRT1 mRNA.
+- Molez 2020 (ovariectomy Wistar): reduced ABL, prevented bone density loss, reduced NADPH oxidase.
+- Gimenez-Siurana 2020 (Sprague-Dawley): no influence on inflammatory area; reduced gingival IL-6 and IL-1beta.
+- Wagner 2019 (Wistar): resveratrol had NO influence on ABL, gingival CRP, TNF-alpha or IL-6 (dose 0.05 mg/ml, low).
+- Correa 2019 (smoke inhalation Wistar): reduced ABL, increased SIRT and SOD, reduced NADPH oxidase.
+- Correa 2018 (arthritis Wistar): reduced ABL, increased serum IL-4.
+- Ikeda 2018 (mice, melinjo seed extract): reduced ABL, gingival IL-1beta, oxidative stress; down-regulated osteoclast formation.
+- Correa 2017 (Wistar): reduced ABL and gingival IL-4 (not more than curcumin); reduced IFN-gamma more than curcumin.
+- Ribeiro 2017 (smoke inhalation Wistar): reduced ABL, prevented bone density loss; reduced Th17/Th2, increased IL-4, downregulated RANKL.
+- Cirano 2016 (Wistar): no effect on Aa, Pg, Tf concentrations in ligatures.
+- Chin 2016 (Sprague-Dawley): 25 mg/kg reduced bone damage but no significant difference vs control.
+- Bhattarai 2016 (Sprague-Dawley + LPS): reduced ABL, osteoclast formation, circulating ROS; attenuated COX-2, MMP-2, MMP-9; increased BMD and SOD; suppressed LPS-mediated decrease in HO-1 and Nrf2.
+- Zhen 2015 (mice + P. gingivalis): reduced IL-1beta, IL-6, IL-8, TNF-alpha, TLR4; lowered phosphorylation of NF-kB p65, p38MAPK, STAT3.
+- Tamaki 2014 (Wistar): reduced ABL, serum IL-6 and TNF-alpha; activated Sirt1/AMPK and Nrf2/antioxidant pathways; inhibited NF-kB/MAPK.
+- Casati 2013 (Wistar): reduced ABL and gingival IL-17; tended to reduce IL-1beta.
+
+Clinical (Table 2): All 6 were randomised, double-blinded trials. Statuses: chronic PD (Stage II-IV, grade B); moderate PD (Stage II); aggressive PD (Stage III-IV, grade C). Six control groups = 143 participants (placebo adjuvant). Eight test groups = 215 patients (resveratrol). Three studies used single per-os dose 480 mg/d for 20-28 days. Zhang used 3 doses (125, 200, 500 mg/d) for 8 weeks with no periodontal treatment. Mohammed used resveratrol-containing mouthwash 4 weeks with NSPT. Lucchesi gave systemic resveratrol 500 mg/d for 180 days in smokers with Stage III-IV grade C, with NSPT. Parameters: plaque index (PI), CAL, BI, PPD, plus serum/saliva/GCF cytokines (IL-6, IL-1beta, IL-10, TNF-alpha, IL-17, IL-33, IL-21, IL-23). None evaluated bone loss. Follow-up 4 weeks to 6 months.
+
+Key clinical findings:
+- Mohammed 2025 (n=57; placebo/chlorhexidine/resveratrol mouthwash): resveratrol improved PI, BI, PPD but NOT CAL vs placebo; reduced salivary IL-6 but not RANKL.
+- Lucchesi 2025 (n=38 smokers; 500 mg/d x180d): improved PPD, CAL, PGM; reduced IL-1beta at 3mo and IL-6 at 3 and 6mo in deep sites.
+- Nikniaz 2023 (n=40; 480 mg/d x4wk): improved PI only; no effect on PPD, CAL, BI, salivary IL-8/IL-1beta.
+- Zhang 2022 (n=160 aggressive PD; 125/200/500 mg/d x8wk, no periodontal treatment): improved CAL, BI, OHI-S, PPD; decreased all inflammatory markers at all doses.
+- Javid 2019 (n=50 T2DM; 480 mg/d x28d): no influence on TNF-alpha, TAC, CAL; reduced serum IL-6.
+- Javid 2017 (n=50 T2DM; 480 mg/d x28d): no change fasting glucose/triglyceride; reduced insulin level, insulin resistance, and PPD.
+
+Outcomes: ABL evaluated in 13 of 16 preclinical studies. Except one study (no effect), resveratrol attenuated ABL from 7.09% to 60.60%. Clinical RCTs heterogeneous: four reported clinical improvements (PPD, BI, PI, CAL); two showed no significant improvement in chronic periodontitis. Three showed reduced inflammatory cytokines (IL-6, IL-1beta, systemic endotoxin); two reported no significant change. No clinical study evaluated radiographic/clinical bone loss, so resveratrol effect on ABL in humans cannot be established.
+
+Risk of bias: Preclinical predominantly unclear-to-high risk (selection 27%, performance 33%/60% high, detection 40%/27% high unclear/high). RCTs lower risk profile; no RCT classified high risk, but performance and attrition bias unclear in 67%.
+
+DISCUSSION
+Meta-analysis was impossible due to variations in study design, models, protocols, induction methods, and outcome parameters. Descriptive synthesis used.
+
+Bone protection: ABL driven by osteoclasts. In eight comparable preclinical studies, ABL reductions 7.09-28.58%. Bhattarai and Ikeda: resveratrol inhibited osteoclast formation; Ribeiro: reduced RANKL gene expression. Two studies showed no ABL improvement (one with only 7-day treatment, one with low 0.05 mg/ml dose) - efficacy influenced by duration and dose.
+
+Anti-inflammatory: Reductions in IL-1beta, IL-6, IL-8, TNF-alpha in gingival tissue. IL-1beta and TNF-alpha promote osteoclast activity. Resveratrol reduces NF-kB activation.
+
+Anti-oxidant: Resveratrol reduces NADPH oxidase levels (even with cigarette smoke). NOX enzymes (NOX 1-5) elevated in periodontitis; resveratrol regulates their expression.
+
+Clinical studies: Only six published. Resveratrol shows greater efficacy in aggressive periodontitis (Stage III-IV grade C) than chronic. Limited by small samples, heterogeneity, no long-term data. Oral administration may compromise efficacy via lower bioavailability vs animal studies; topical applications warrant study.
+
+Clinical Relevance: Resveratrol may be a promising adjunct to nonsurgical periodontal therapy due to anti-inflammatory and antioxidant properties, with potential improvements in PPD, BI, CAL alongside SRP, especially in patients with heightened inflammatory burden or systemic conditions (diabetes, smoking). Evidence limited; no standardised protocols. No direct evidence for surgical periodontal therapy.
+
+CONCLUSION
+Resveratrol has potential as an adjunctive therapy for periodontitis, particularly in preclinical models. Clinical trials show promising anti-inflammatory effects. Further research needed to optimise dosage, duration, delivery methods, and to evaluate impact on human alveolar bone loss.

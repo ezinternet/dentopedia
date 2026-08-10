@@ -6,7 +6,7 @@ date: 2021-01-01
 doi: 10.1111/cid.13008
 source: atef-2021-socket-shield-xenograft-immediate-implant-rct.md
 category: [immediate-implant/socket-shield]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/atef-2021-socket-shield-xenograft-immediate-implant-rct.pdf
 pdf_filename: atef-2021-socket-shield-xenograft-immediate-implant-rct.pdf
 source_collection: external
@@ -45,4 +45,4 @@ Socket shield significantly better buccal bone preservation. Soft tissue recessi
 
 ## Related Papers
 - [[immediate-implant/socket-shield/gharpure-2022-socket-shield-conventional-implant-sr-ma]] — related
-- [[immediate-implant/wittneben-2023-immediate-implant-loaded-single-crown-sr]] — related
+- [[immediate-implant/loading-protocol/wittneben-2023-immediate-implant-loaded-single-crown-sr]] — related

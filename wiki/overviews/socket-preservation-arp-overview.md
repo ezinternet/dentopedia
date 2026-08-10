@@ -6,7 +6,7 @@ date: 2026-06-16
 doi: N/A
 source: N/A
 category: overviews
-confidence: synthesis
+evidence_level: synthesis
 pdf_path: N/A
 pdf_filename: N/A
 source_collection: synthesis
@@ -333,7 +333,7 @@ A registered RCT in this space — Zhang et al. 2022, a protocol for ARP at seve
 
 ---
 
-## Clinical Decision Threads [Claude interpretation]
+## Clinical Decision Threads [미검증 — Claude 해석]
 
 **Thread 1 — Single-rooted tooth in esthetic zone, thin buccal plate (ST1B)**
 
@@ -371,6 +371,11 @@ Use Fischer et al. 2022 as the evidence anchor for patient discussion: "ARP will
 
 ## Related Papers
 
+
+### 신규 ingest cluster (2026-07-15)
+
+- [[bone-regeneration/ridge-preservation/fok-2024-alveolar-socket-healing-evolving-knowledge]] — Narrative + 11 SRs (all AMSTAR-2 critically-low): horizontal ridge loss 29–63% exceeds vertical 11–22%; ARP attenuates but doesn't eliminate (Cochrane width MD 1.18mm) — ARP individualized/prosthetically-driven, not routine
+
 - [[bone-regeneration/ridge-preservation/araujo-2005-dimensional-ridge-alterations-tooth-extraction]] — foundational bundle bone biology (2-phase resorption mechanism); all ARP rationale derives from this framework
 - [[bone-regeneration/ridge-preservation/steigmann-2022-socket-buccal-bone-classification]] — ST1–ST3 classification and decision tree; primary anatomy-based ARP selection tool
 - [[bone-regeneration/gan-2023-alveolar-bone-morphology-gbr-anterior-maxilla]] — BCD/BCA CBCT predictors; threshold values for graft resorption prediction
@@ -390,3 +395,11 @@ Use Fischer et al. 2022 as the evidence anchor for patient discussion: "ARP will
 - [[bone-regeneration/ridge-preservation/yu-2026-bone-particle-size-arp-periodontally-compromised-molars]] — retrospective (n=96 compromised molars); DBBM particle size is a minor lever (P=.077), socket integrity + jaw dominate; 73% implant-placeable after ARP
 - [[bone-regeneration/ridge-preservation/alavi-2024-regenerative-grafts-socket-preservation-sr-ma]] — SR+MA of 29 RCTs (1,068 pts); rhBMP-2 preserves both dimensions, L-PRF NS vs natural healing — biologics layer above the DBBM-graft SR+MA
 - [[bone-regeneration/ridge-preservation/wang-2024-simplified-gbr-biocollagen-prf-posterior-ridge]] — retrospective (n=44); simplified GBR (Bio-collagen + PRF membrane) vs classical GBR (Bio-Oss + Bio-Gide) for posterior Seibert Class I ridge defects; HW gain 1.50 vs 1.83 mm, comparable/better contour — extends PRF-as-membrane-substitute theme (Axis 4) from socket closure to ridge augmentation
+
+### 신규 ingest cluster (2026-07-25)
+
+- [[bone-regeneration/ridge-preservation/mahmoud-2025-collagen-sponge-xenograft-ridge-preservation-rct]] — 3-arm RCT (n=36, Al-Azhar): collagen sponge+xenograft vs collagen sponge alone vs spontaneous healing; both graft groups limited horizontal loss equally (~18–19% vs 42%, p<0.001), but xenograft group showed superior lamellar bone% at biopsy (54.8 vs 27.3 vs 22.2%, p=0.001) — BARP-style xenograft adds histologic quality even when dimensional difference between plug and graft is absent
+- [[bone-regeneration/ridge-preservation/el-sioufi-2023-clinical-evaluation-different-alveolar]] — 4-arm RCT (n=41, Athens): FDBA+collagen sponge vs FDBA+FGG vs DBBM+FGG vs FGG alone; compares allograft vs xenograft and membrane vs soft-tissue seal combinations for vertical/horizontal ridge preservation at 4 months
+- [[bone-regeneration/ridge-preservation/kalsi-2019-alveolar-ridge-preservation-why-when]] — CPD narrative review (BDJ 2019) synthesizing 10 SRs: xenograft/allograft preserves ~2 mm more height and width than unassisted healing (Cochrane: +2.6/+1.97 mm xenograft); 15–36% residual graft particles at 5.6 months; complete ridge preservation never achieved — case-selection and "why/when" decision framework
+- [[bone-regeneration/ridge-preservation/kim-2024-advancements-alveolar-bone-grafting-ridge]] — narrative review (Korea) on evolution of ARP materials: allo/xenograft, PRF/platelet concentrates, collagen membranes, bioactive hydrogels; reports 93.7–100% implant survival at 5–7 years post-ARP and positive cost-effectiveness of barrier membranes for ridge maintenance
+- [[bone-regeneration/ridge-preservation/iorio-siciliano-2019-dimensional-changes-following-alveolar-ridge]] — 3-arm RCT (Naples, n=40, posterior intact-wall sockets): collagenated xenograft+membrane vs xenograft particles+membrane vs spontaneous healing; no clinically relevant dimensional advantage of ARP over spontaneous healing in intact-wall posterior sockets — ARP benefit conditional on wall compromise, not a universal posterior default

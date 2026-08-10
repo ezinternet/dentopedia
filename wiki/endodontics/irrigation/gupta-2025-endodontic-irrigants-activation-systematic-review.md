@@ -6,7 +6,7 @@ date: 2025-06-18
 doi: 10.4103/jpbs.jpbs_573_25
 source: gupta-2025-endodontic-irrigants-activation-systematic-review.md
 category: [endodontics/irrigation]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/gupta-2025-endodontic-irrigants-activation-systematic-review.pdf
 pdf_filename: gupta-2025-endodontic-irrigants-activation-systematic-review.pdf
 source_collection: external

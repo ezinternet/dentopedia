@@ -6,7 +6,7 @@ date: 2013-07-01
 doi: 10.4103/1305-7456.115416
 source: salvio-2013-hybridization-quality-bond-strength-adhesive-dentin.md
 category: [resin-bonding]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/salvio-2013-hybridization-quality-bond-strength-adhesive-dentin.pdf
 pdf_filename: salvio-2013-hybridization-quality-bond-strength-adhesive-dentin.pdf
 source_collection: external

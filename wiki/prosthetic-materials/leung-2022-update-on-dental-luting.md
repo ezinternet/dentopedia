@@ -6,7 +6,7 @@ date: 2022-11-03
 doi: "10.3390/dj10110208"
 source: leung-2022-update-on-dental-luting.md
 category: [prosthetic-materials]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: true
 pmid: "36354653"

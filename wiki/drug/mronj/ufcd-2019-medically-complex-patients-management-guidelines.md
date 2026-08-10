@@ -6,7 +6,7 @@ date: 2019-03-11
 doi: unknown
 journal: Clinical Practice Guideline — UF College of Dentistry (Rev. 03/11/19)
 source: ufcd-2019-medically-complex-patients-management-guidelines.md
-confidence: consensus
+evidence_level: consensus
 category: [drug/mronj]
 pdf_path: /Users/oracleneo/llm-wiki/papers/ufcd-2019-medically-complex-patients-management-guidelines.pdf
 pdf_filename: ufcd-2019-medically-complex-patients-management-guidelines.pdf
@@ -96,6 +96,6 @@ UF 치과대학 임상 진료 가이드라인(148쪽, 2019) — ASA 분류, 혈�
 - Exception: immunocompromised + invasive dental procedure → individual risk/benefit assessment
 
 ## Related Papers
-- [[drug/gupta-2022-dental-management-cardiovascular-disease]] — CVD detail + drug interactions
-- [[drug/inchingolo-2024-anticoagulation-therapy-dental-practice-sr]] — anticoagulant SR evidence base
-- [[drug/ghimire-2022-medically-compromised-prosthodontic-patients]] — prosthodontic focus including MRONJ/ORN
+- [[drug/anticoagulants/gupta-2022-dental-management-cardiovascular-disease]] — CVD detail + drug interactions
+- [[drug/anticoagulants/inchingolo-2024-anticoagulation-therapy-dental-practice-sr]] — anticoagulant SR evidence base
+- [[drug/mronj/ghimire-2022-medically-compromised-prosthodontic-patients]] — prosthodontic focus including MRONJ/ORN

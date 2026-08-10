@@ -6,7 +6,7 @@ date: 2024-01-01
 doi: 10.1186/s12903-024-04259-w
 source: kaur-2024-eal-vs-radiograph-working-length-sr-ma.md
 category: [endodontics/eal]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/kaur-2024-eal-vs-radiograph-working-length-sr-ma.pdf
 pdf_filename: kaur-2024-eal-vs-radiograph-working-length-sr-ma.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2025-07-30
 doi: 10.5051/jpis.2501840092
 source: lee-2025-soft-bbs-gbr-peri-implant-dehiscence.md
 category: bone-regeneration
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/lee-2025-soft-bbs-gbr-peri-implant-dehiscence.pdf
 pdf_filename: lee-2025-soft-bbs-gbr-peri-implant-dehiscence.pdf
 source_collection: external

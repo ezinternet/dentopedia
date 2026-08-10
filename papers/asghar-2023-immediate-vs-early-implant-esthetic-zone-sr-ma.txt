@@ -1,0 +1,17 @@
+Title: Comparing clinical outcomes of immediate implant placement with early implant placement in healthy adult patients requiring single-tooth replacement in the aesthetic zone: a systematic review and meta-analysis of randomised controlled trials
+Authors: Asghar AM, Sadaf D, Ahmad MZ, Jackson G, Bonsor SJ
+Journal: Evidence-Based Dentistry (Evid Based Dent), Vol 24, Issue 2, Page 93
+Date: 2023-06-05
+DOI: 10.1038/s41432-023-00902-7
+PMID: 37277486
+Article type: Systematic Review, Meta-Analysis, Journal Article
+
+Abstract:
+
+The aim of this systematic review and meta-analysis was to assess the clinical efficacy of the immediate implant placement (IIP) protocol in the aesthetic zone with early dental implant placement (EIP) protocol.
+
+Electronic databases MEDLINE (via OVID), EMBASE (via OVID), ISI Web of Science core collection, Cochrane, SCOPUS, and Google Scholar were searched for the studies comparing the two clinical protocols. Randomised controlled trials were included. Cochrane Risk of Bias tool (ROB-2) was used to assess the quality of included studies.
+
+A total of six studies were selected. Implant failure was observed at 3.84%, 9.3%, and 4.45% in three studies while in the other studies, no implant failure was reported. Meta-analysis of four studies showed no statistically significant difference in the vertical bone levels between IIP and EIP (148 patients), mean difference (MD) 0.10 [95% CI: -0.29 to 0.09, 1.32] P > 0.05. Meta-analysis of two studies showed the probing depth between IIP versus EIP was not significantly different (100 patients), mean difference (MD) -0.00 [95% CI; -0.23 to 0.23]; P > 0.05. The pink aesthetic score (PES) was improved in EIP as compared to IIP with a statistically significant difference (P < 0.05).
+
+The available evidence supports the clinical efficacy of the IIP protocol. Present findings indicate aesthetics and clinical results of immediate implant placement protocol are comparable to early and delayed placement protocols. Therefore, future research with long-term follow-up is warranted.

@@ -6,7 +6,7 @@ date: 2022-05-21
 doi: 10.1155/2022/2603287
 source: kocak-oztug-2022-analysis-of-biomarkers-and.md
 category: [implants]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/kocak-oztug-2022-analysis-of-biomarkers-and.pdf
 pdf_filename: kocak-oztug-2022-analysis-of-biomarkers-and.pdf
 source_collection: external
@@ -55,4 +55,4 @@ Balanced permuted-block randomization (randomizer.org) in a split-mouth design; 
 
 ## Related Papers
 
-- [[implants/strietzel-2015-platform-switching-mbl-sr-ma]] — SR+MA의 플랫폼스위칭 골보존 효과를 RCT+바이오마커 근거로 보강(reinforce).
+- [[implants/mbl/strietzel-2015-platform-switching-mbl-sr-ma]] — SR+MA의 플랫폼스위칭 골보존 효과를 RCT+바이오마커 근거로 보강(reinforce).

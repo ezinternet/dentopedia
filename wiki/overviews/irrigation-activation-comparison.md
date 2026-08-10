@@ -43,7 +43,7 @@ source_papers:
   - endodontics/shaping/siqueira-2018-unprepared-root-canal-surface-areas
   - endodontics/gomez-gonzalez-2026-calcium-silicate-sealer-dentinal-tubule-irrigation-sr
   - endodontics/kamath-2025-hedp-triton-dislodgement-ahplus-ceraseal
-confidence: synthesis
+evidence_level: synthesis
 source: synthesis
 ---
 
@@ -103,9 +103,9 @@ LLM-Wiki 세정·소독 **36편 합성** (2026-07-11 refresh — 34편 버전에
 |---|---|---|
 | **narrative-review (critical, micro-CT+조직학)** | [[endodontics/shaping/siqueira-2018-unprepared-root-canal-surface-areas]] | 원형/소형 근관 **10–50%**, 타원/편평 근관 **10–80%** 미준비 (근단부가 가장 심함); 형성 후에도 근관의 **30–60%**가 세균 양성; 2.5% NaOCl 단독은 10²–10⁵배(~95–99%) 감소에 그침 |
 
-[근거강함] Siqueira 2018의 논리 사슬 — 최종 기구가 초기 근관 직경보다 작고, 만곡이 절삭을 일부 벽에 집중시키며, 타원·C형 해부는 회전 형성으로 conform 불가 → **건드리지 못한 recess·isthmus·분지에 biofilm이 잔존** → 치료 후 치근단치주염. 기구는 주근관만 형성하므로 **recess 소독은 세정액의 화학작용·보조 활성화가 전담**해야 한다. 이것이 §1의 활성화 기법, §1.7의 내원간 약제, §2의 화학적 분업이 존재하는 이유다.
+[확인] Siqueira 2018의 논리 사슬 — 최종 기구가 초기 근관 직경보다 작고, 만곡이 절삭을 일부 벽에 집중시키며, 타원·C형 해부는 회전 형성으로 conform 불가 → **건드리지 못한 recess·isthmus·분지에 biofilm이 잔존** → 치료 후 치근단치주염. 기구는 주근관만 형성하므로 **recess 소독은 세정액의 화학작용·보조 활성화가 전담**해야 한다. 이것이 §1의 활성화 기법, §1.7의 내원간 약제, §2의 화학적 분업이 존재하는 이유다.
 
-[claude해석] Siqueira 2018은 §1.1 Orozco-Gallego·Tonini의 "활성화 권장"과 §1 끝 Boutsioukis의 "outcome-level 미입증" 사이의 긴장을 설명한다 — 활성화가 대리 지표에서 일관되게 우월한 이유는 *미준비 표면이라는 실재하는 병목*을 부분적으로 공략하기 때문이고, outcome-level 격차가 안 보이는 이유는 어떤 기법도 그 병목을 *완전히* 해소하지 못하기 때문이다.
+[미검증] Siqueira 2018은 §1.1 Orozco-Gallego·Tonini의 "활성화 권장"과 §1 끝 Boutsioukis의 "outcome-level 미입증" 사이의 긴장을 설명한다 — 활성화가 대리 지표에서 일관되게 우월한 이유는 *미준비 표면이라는 실재하는 병목*을 부분적으로 공략하기 때문이고, outcome-level 격차가 안 보이는 이유는 어떤 기법도 그 병목을 *완전히* 해소하지 못하기 때문이다.
 
 ---
 
@@ -119,7 +119,7 @@ LLM-Wiki 세정·소독 **36편 합성** (2026-07-11 refresh — 34편 버전에
 | **sr (7 RCTs)** | [[endodontics/irrigation/tonini-2022-irrigating-solutions-activation-methods-sr]] | 활성화 (PUI/XP-endo/EndoVac) > CNI; NaOCl+HEDP/MTAD 병용은 항균 추가 이점 없음 | — |
 | **narrative-review** | [[endodontics/irrigation/cheung-2021-irrigant-activation-methods-clinical-review]] | 모든 활성화 기법이 CNI 우위; 레이저 임상 근거 부족 | — |
 
-[근거강함] Orozco-Gallego 2025와 Tonini 2022가 일치 — **임상 결과 지표에서 PUI가 1순위, 활성화 기법 사용은 절대 권장.**
+[확인] Orozco-Gallego 2025와 Tonini 2022가 일치 — **임상 결과 지표에서 PUI가 1순위, 활성화 기법 사용은 절대 권장.**
 
 ### 1.2 근첨 도달 효율 (Apical Reach)
 
@@ -127,7 +127,7 @@ LLM-Wiki 세정·소독 **36편 합성** (2026-07-11 refresh — 34편 버전에
 |---|---|---|
 | **sr+ma** | [[endodontics/irrigation/kumar-2023-irrigant-activation-working-length-sr-meta-analysis]] | **ANP (EndoVac) > PUI > Sonic > MDA > CNI** |
 
-[근거강함] 근첨 1mm 도달이 목표면 Kumar 2023 기준 ANP가 최선. 단, PUI와의 임상 결과 격차는 명확하지 않음 (Orozco-Gallego umbrella가 임상 치유에서 PUI 우위 보고 — 도달 효율 1위 ≠ 치유 1위).
+[확인] 근첨 1mm 도달이 목표면 Kumar 2023 기준 ANP가 최선. 단, PUI와의 임상 결과 격차는 명확하지 않음 (Orozco-Gallego umbrella가 임상 치유에서 PUI 우위 보고 — 도달 효율 1위 ≠ 치유 1위).
 
 ### 1.3 도말층 제거·약물 잔류 제거 (Smear Layer / Medicament)
 
@@ -137,10 +137,24 @@ LLM-Wiki 세정·소독 **36편 합성** (2026-07-11 refresh — 34편 버전에
 | **sr+ma (in-vitro)** | [[endodontics/irrigation/zhou-2021-xpf-pui-medicament-removal-sr-ma]] | Ca(OH)₂ 제거: **PUI > XP-Endo Finisher** (OR 3.09); **NaOCl+EDTA 병용 시 차이 소실** (OR 1.51); PUI 우위는 2주 드레싱에서 유의 |
 | **narrative-review** | [[endodontics/irrigation/mohammadi-2019-smear-layer-irrigants-review]] | MTAD > EDTA (속도); QMix ≈ EDTA ≈ 말레산; HEBP 최약; **NaOCl 단독은 무기질 제거 불가** |
 
-[근거강함] 도말층·약물 잔류 제거 정리:
+[확인] 도말층·약물 잔류 제거 정리:
 - **근첨 1/3**: Sonic이 가장 효율적 (Paixao 2022)
 - **중간 1/3**: PUI가 결합강도 면에서 우위 (Paixao 2022)
 - **Ca(OH)₂ 제거**: PUI > XPF, 단 NaOCl+EDTA 병용 시 동등 (Zhou 2021)
+
+### 1.4 약제 **침투** (Medicament Penetration) — 빼는 것이 아니라 넣는 축
+
+위 1.3이 "약제를 어떻게 빼내나"라면, 이 축은 "약제를 상아세관 안으로 어떻게 넣나"다. 두 축의 답이 같은 방향이라는 점이 실무적으로 중요하다.
+
+| Confidence | 출처 | 결론 |
+|---|---|---|
+| **in-vitro (n=180, CLSM)** | [[endodontics/irrigation/zan-2022-irrigation-activation-medicament-penetration]] | **초음파 활성화 (UI)가 sonic·NaviTip FX·KTP 레이저·일반침보다 모든 약제에서 우수 (P<0.05)**; 약제 중에서는 **삼중항생제 페이스트 (Triple Antibiotic Paste, TAP)** 가 모든 레벨·모든 활성화 방법에서 침투 최대 (P<0.05); 침투 구배는 **치관부 > 중간 > 근첨** |
+
+[확인] 침투 축 정리:
+- **활성화**: 초음파가 1순위 — 1.3의 Ca(OH)₂ **제거** 우위(Zhou 2021)와 방향 일치. 즉 **PUI는 넣는 데도 빼는 데도 우수**하므로 약제를 쓰는 증례에서 활성화 기법 선택이 단순해진다.
+- **약제**: TAP이 세관 침투에서 우세 — 저자 권고는 **미성숙 괴사치의 재생근관치료 등 깊은 세관 소독이 목표일 때 UI + TAP**, 통상 내원간 항균 목적에는 **수산화칼슘 (Calcium Hydroxide, CH)** 이 적절.
+- **구배의 함의**: 어느 방법을 쓰든 근첨부 침투가 가장 나쁘다 — 근첨 감염이 완고한 이유의 일부이며, 1.2의 근첨 도달(ANP/EndoVac) 축과 함께 읽어야 한다.
+- **한계**: 발치치 소구치 in-vitro·CLSM 형광 면적 측정으로, 임상 결과(치유·생존)로 직접 번역되지 않는다. [확인]
 
 ### 1.4 레이저 활성화 (LAI / PIPS / SWEEPS)
 
@@ -151,7 +165,7 @@ LLM-Wiki 세정·소독 **36편 합성** (2026-07-11 refresh — 34편 버전에
 | **narrative-review (59편)** | [[endodontics/irrigation/do-2020-eryag-laser-pips-endodontic-irrigation-review]] | Er:YAG LAI/PIPS가 33/59 연구에서 기존 방법 우위 — **그러나 in vivo 연구 0건, 표준 프로토콜 부재** |
 | **narrative-review** | [[endodontics/irrigation/cheung-2021-irrigant-activation-methods-clinical-review]] | 레이저 임상 근거 부족으로 보류 판정 |
 
-[근거강함→낙관 쪽 갱신] Fiegler-Rudol 2025는 do-2020을 **확장**(2025년까지 + SWEEPS)하며 do-2020/Cheung 2021의 "in-vitro 신호만"이라는 보류 판정을 *방향성에서는* 강화한다 — **15편 전원이 같은 방향**(Er:YAG 우위)이라는 점은 다른 활성화 기법의 mixed 결과보다 일관적이며, 두 임상 lever(NaOCl 농도↓·술후 불편↓)는 실무 매력이 있다. 단 Lazaro 2026 umbrella(9개 SR, AMSTAR 2)는 더 보수적이다 — erbium이 가장 일관된 이득을 주지만 PUI 대비 **명백히 우월하다기보다 대안 수준**이고, diode은 소독이 아닌 술후 통증(48–72h)에, Nd:YAG은 미세균열 위험과 함께 위치한다고 정리해, 레이저를 단일 활성화 기법이 아니라 **파장별 역할 분화**로 읽어야 함을 강조한다. 다만 프로토콜 이질성으로 메타분석·확정적 가이드라인은 여전히 불가. 즉 레이저는 §1 안에서 **가장 일관된 대리지표 신호**를 가진 기법이지만, outcome-level RCT는 아직 부재(Gupta 2025 Doğan 2024 RCT에서 LAI-SWEEPS vs PUI 12개월 치유 차이 NS — §1.8 참조).
+[확인→낙관 쪽 갱신] Fiegler-Rudol 2025는 do-2020을 **확장**(2025년까지 + SWEEPS)하며 do-2020/Cheung 2021의 "in-vitro 신호만"이라는 보류 판정을 *방향성에서는* 강화한다 — **15편 전원이 같은 방향**(Er:YAG 우위)이라는 점은 다른 활성화 기법의 mixed 결과보다 일관적이며, 두 임상 lever(NaOCl 농도↓·술후 불편↓)는 실무 매력이 있다. 단 Lazaro 2026 umbrella(9개 SR, AMSTAR 2)는 더 보수적이다 — erbium이 가장 일관된 이득을 주지만 PUI 대비 **명백히 우월하다기보다 대안 수준**이고, diode은 소독이 아닌 술후 통증(48–72h)에, Nd:YAG은 미세균열 위험과 함께 위치한다고 정리해, 레이저를 단일 활성화 기법이 아니라 **파장별 역할 분화**로 읽어야 함을 강조한다. 다만 프로토콜 이질성으로 메타분석·확정적 가이드라인은 여전히 불가. 즉 레이저는 §1 안에서 **가장 일관된 대리지표 신호**를 가진 기법이지만, outcome-level RCT는 아직 부재(Gupta 2025 Doğan 2024 RCT에서 LAI-SWEEPS vs PUI 12개월 치유 차이 NS — §1.8 참조).
 
 ### 1.5 윤활제·기구조작 중 debris (보조 변수)
 
@@ -160,7 +174,7 @@ LLM-Wiki 세정·소독 **36편 합성** (2026-07-11 refresh — 34편 버전에
 | **in-vivo** | [[endodontics/irrigation/cruz-2014-debris-apical-third-naocl-glyde-in-vivo]] | 회전 기구조작 중 **Glyde (EDTA paste) 사용이 근첨 1/3 debris 증가**; NaOCl + 최종 세척군은 debris 거의 없음 |
 | **in-vitro** | [[endodontics/irrigation/wong-2014-root-canal-lubricants-antibacterial-irrigants]] | 윤활제 10종 vs 세정제 7종 항균력 — 일부 윤활제가 일부 세정제에 필적, **활성은 pH와 무관** (pH 2.9–10.3) |
 
-[claude해석] Cruz 2014는 페이스트형 EDTA 윤활제(Glyde)가 근첨부 debris를 오히려 늘릴 수 있음을 시사 — **액상 NaOCl 세척 + 최종 flush가 페이스트 윤활제보다 근첨 청결도에 유리.** Wong 2014는 윤활제의 항균 보조 가능성을 보이나 임상 의의는 제한적.
+[미검증] Cruz 2014는 페이스트형 EDTA 윤활제(Glyde)가 근첨부 debris를 오히려 늘릴 수 있음을 시사 — **액상 NaOCl 세척 + 최종 flush가 페이스트 윤활제보다 근첨 청결도에 유리.** Wong 2014는 윤활제의 항균 보조 가능성을 보이나 임상 의의는 제한적.
 
 ### 1.6 임상 종합 — 위생사 작업 권장 순위
 
@@ -174,10 +188,10 @@ LLM-Wiki 세정·소독 **36편 합성** (2026-07-11 refresh — 34편 버전에
 | **유망 (in-vitro 일관, 임상 RCT 부재)** | 레이저 (Er:YAG PIPS/SWEEPS) | 대리지표 일관 우위·NaOCl 농도↓·술후 불편↓; outcome RCT 미성숙 | Fiegler-Rudol 2025 SR; do-2020, Cheung 2021 |
 | **회피** | CNI 단독 | 모든 단계에서 비권장 | Tonini 2022 SR, Cheung 2021 |
 
-[claude해석] PUI가 임상·실험 결과 종합에서 가장 일관됨. ANP는 도달 효율 우위지만 장비·소모품 비용 차이 고려. **레이저는 do-2020 시점의 '보류'에서 Fiegler-Rudol 2025로 '유망'으로 격상**(15편 전원 동방향) — 단 outcome-level RCT는 여전히 부재. **멀티소닉(GW)은 '보류'가 아니라 'PUI 동등이나 고비용'** — 효과는 충분하나 PUI 대비 일관된 우위가 없어 비용 정당화가 약함.
+[미검증] PUI가 임상·실험 결과 종합에서 가장 일관됨. ANP는 도달 효율 우위지만 장비·소모품 비용 차이 고려. **레이저는 do-2020 시점의 '보류'에서 Fiegler-Rudol 2025로 '유망'으로 격상**(15편 전원 동방향) — 단 outcome-level RCT는 여전히 부재. **멀티소닉(GW)은 '보류'가 아니라 'PUI 동등이나 고비용'** — 효과는 충분하나 PUI 대비 일관된 우위가 없어 비용 정당화가 약함.
 
-[근거강함] **반대 축 (outcome-level 회의론)** — [[endodontics/irrigation/boutsioukis-2022-irrigants-irrigation-methods-status-directions]]는 어떤 보조 활성화법(PUI·sonic·negative-pressure·laser)도 **장기 치료 결과(radiographic/clinical outcome)** 향상을 RCT로 입증하지 못했다고 본다. §1.1의 Orozco-Gallego·Tonini가 보고한 우위는 대부분 **대리·중간 지표**(미생물 감소, 도말층 제거, 결합강도)이며 outcome-level 격차로 직결되지 않는다는 지적.
-[claude해석] 두 입장은 모순이 아니라 **층위 차이**다 — 활성화는 대리 지표에서 일관되게 우월하므로 비용·시간 부담이 없으면 권장(§1.6 순위표 유지)하되, "활성화가 발치/재근관 위험까지 낮춘다"는 환자 설명은 현 근거로는 과장. Boutsioukis가 지목한 진짜 병목은 EPS biofilm·isthmus·vapor lock 같은 **해부·생물막 접근성**이며(=§0 Siqueira 2018의 미준비 표면), 이는 기존 활성화법으로 완전히 해결되지 않는다(§1.4 레이저·나노로봇 미성숙과 같은 맥락).
+[확인] **반대 축 (outcome-level 회의론)** — [[endodontics/irrigation/boutsioukis-2022-irrigants-irrigation-methods-status-directions]]는 어떤 보조 활성화법(PUI·sonic·negative-pressure·laser)도 **장기 치료 결과(radiographic/clinical outcome)** 향상을 RCT로 입증하지 못했다고 본다. §1.1의 Orozco-Gallego·Tonini가 보고한 우위는 대부분 **대리·중간 지표**(미생물 감소, 도말층 제거, 결합강도)이며 outcome-level 격차로 직결되지 않는다는 지적.
+[미검증] 두 입장은 모순이 아니라 **층위 차이**다 — 활성화는 대리 지표에서 일관되게 우월하므로 비용·시간 부담이 없으면 권장(§1.6 순위표 유지)하되, "활성화가 발치/재근관 위험까지 낮춘다"는 환자 설명은 현 근거로는 과장. Boutsioukis가 지목한 진짜 병목은 EPS biofilm·isthmus·vapor lock 같은 **해부·생물막 접근성**이며(=§0 Siqueira 2018의 미준비 표면), 이는 기존 활성화법으로 완전히 해결되지 않는다(§1.4 레이저·나노로봇 미성숙과 같은 맥락).
 
 ### 1.7 멀티소닉 (GentleWave) — 고가 시스템, PUI 대비 일관된 우위 없음
 
@@ -188,9 +202,9 @@ GentleWave®(GWS)는 광대역 음향주파수 + 근첨 음압 + 연속 유체�
 | **sr (3 in-vitro, 다균종 biofilm)** | [[endodontics/irrigation/varadan-2025-multisonic-ultrasonic-irrigant-biofilm-sr]] | **멀티소닉 ≈ 초음파(PUI)** — 다균종 biofilm 감소량 유사, GWS가 3편 중 2편서 우위지만 **일관되지 않음** | Zhang 2018: GWS 99.91% vs PiezoFlow 98.01% DNA 감소(미미한 차) |
 | **sr (12 in-vitro, QUIN)** | [[endodontics/irrigation/usta-2026-gentlewave-irrigation-disinfection-sr]] | GW가 **LPS/LTA 내독소 감소는 PUI보다 유의하게 우수**, biofilm·smear도 대체로 우세하나 **우월성 비일관**(최적화 PUI는 동등·우수, Er:YAG는 debris 동등); 비용·이질성으로 임상 결론 제한 | LPS/LTA: GW > PUI (유의) |
 
-[근거강함] 두 SR 모두 [[endodontics/irrigation/boutsioukis-2022-irrigants-irrigation-methods-status-directions]]의 "어떤 활성화법도 outcome-level 우위 미입증" 명제를 **reinforce**한다 — 가장 비싼 멀티소닉조차 bench에서 PUI를 일관되게 이기지 못한다. 단 **내독소(LPS/LTA) 감소**는 GW가 유의하게 앞서는 유일한 지표(Usta 2026)로, 보존적 형성 시나리오에선 가치가 있을 수 있다.
+[확인] 두 SR 모두 [[endodontics/irrigation/boutsioukis-2022-irrigants-irrigation-methods-status-directions]]의 "어떤 활성화법도 outcome-level 우위 미입증" 명제를 **reinforce**한다 — 가장 비싼 멀티소닉조차 bench에서 PUI를 일관되게 이기지 못한다. 단 **내독소(LPS/LTA) 감소**는 GW가 유의하게 앞서는 유일한 지표(Usta 2026)로, 보존적 형성 시나리오에선 가치가 있을 수 있다.
 
-[claude해석] 임상 함의 — GWS의 프리미엄 비용은 접근 가능한 PUI 대비 *루틴* 정당화가 약하다. Varadan 2025의 confounder도 주의: 초음파군은 35/.04로 형성하고 GWS군은 15–20의 최소 형성을 써 비교가 동일-prep이 아님(GW의 "작은 형성에서도 된다"는 강점이자 비교의 비대칭). §1.6 순위표에서 멀티소닉은 'PUI 동등(우위 아님), 고비용'으로 위치.
+[미검증] 임상 함의 — GWS의 프리미엄 비용은 접근 가능한 PUI 대비 *루틴* 정당화가 약하다. Varadan 2025의 confounder도 주의: 초음파군은 35/.04로 형성하고 GWS군은 15–20의 최소 형성을 써 비교가 동일-prep이 아님(GW의 "작은 형성에서도 된다"는 강점이자 비교의 비대칭). §1.6 순위표에서 멀티소닉은 'PUI 동등(우위 아님), 고비용'으로 위치.
 
 ### 1.8 내원간 약제 (Intracanal Medicaments) — 별개의 소독 축
 
@@ -202,9 +216,9 @@ GentleWave®(GWS)는 광대역 음향주파수 + 근첨 음압 + 연속 유체�
 | **sr (RCT/코호트, 2020–2024)** | [[endodontics/irrigation/shunmugavelu-2025-intracanal-medications-periapical-abscess-sr]] | 치근단 농양 — **CH 미생물 ~99.5% 감소 + IL-1β/TNF-α 저하(소독·항염 표준)**, 단 즉시 통증 완화 약함; **TAPC(TAP+디클로페낙)·나노(나노은·나노CH) 48–72h 통증 우수**, **Ledermix 급성 통증 최속**; CBCT 모니터링 대형 병소 비수술 ~76% 치유 | CH ~99.5%, 대형병소 ~76% |
 | **(기존)** | [[endodontics/irrigation/ordinola-zapata-2022-intracanal-medicaments-status-directions]] / [[endodontics/irrigation/rossi-fedele-2023-irrigation-dressing-apical-periodontitis-sr-ma]] | 내원간 약제 status 종설 / 단회 vs CH 다회 방사선 치유(§4) — Ardila·Shunmugavelu가 이를 확장·보강 | — |
 
-[근거강함] Ardila 2026·Shunmugavelu 2025는 **약제 선택을 임상 목표에 정렬**한다 — *지속적 소독*은 CH(저렴·항염, ~99.5%)·심부 표적은 TAP, *빠른 통증 완화*는 Ledermix(급성)·TAPC/나노(48–72h). 단 Ardila의 정량 통합은 2편뿐으로 fragile, Shunmugavelu·Ardila 모두 항생제 함유 페이스트의 **항생제 스튜어드십** 한계를 명시(동등 효능의 antiseptic이 있으면 국소 항생제 루틴 사용 자제).
+[확인] Ardila 2026·Shunmugavelu 2025는 **약제 선택을 임상 목표에 정렬**한다 — *지속적 소독*은 CH(저렴·항염, ~99.5%)·심부 표적은 TAP, *빠른 통증 완화*는 Ledermix(급성)·TAPC/나노(48–72h). 단 Ardila의 정량 통합은 2편뿐으로 fragile, Shunmugavelu·Ardila 모두 항생제 함유 페이스트의 **항생제 스튜어드십** 한계를 명시(동등 효능의 antiseptic이 있으면 국소 항생제 루틴 사용 자제).
 
-[claude해석] 이 축은 §4와 충돌하지 않는다 — Rossi-Fedele 2023이 단회 ≥ 다회 CH(방사선 치유)임을 보였으므로, 내원간 약제는 *루틴*이 아니라 **농양·대형병소·증상 지속·재치료(E. faecalis 의심)** 같은 선택적 적응증의 도구다. CH가 여전히 1차 표준, 항생제 페이스트는 표적·통증 목적의 2차.
+[미검증] 이 축은 §4와 충돌하지 않는다 — Rossi-Fedele 2023이 단회 ≥ 다회 CH(방사선 치유)임을 보였으므로, 내원간 약제는 *루틴*이 아니라 **농양·대형병소·증상 지속·재치료(E. faecalis 의심)** 같은 선택적 적응증의 도구다. CH가 여전히 1차 표준, 항생제 페이스트는 표적·통증 목적의 2차.
 
 ---
 
@@ -220,9 +234,9 @@ GentleWave®(GWS)는 광대역 음향주파수 + 근첨 음압 + 연속 유체�
 | 단독 사용 | 무기질 제거 불가 → 킬레이트제 병용 필수 | Mohammadi 2019 |
 | 작업 원리 | 근관 내 NaOCl 용량 **≤30 μL** 추정 → 유리염소 빠르게 소진, **잦은 교체(replenishment)가 농도보다 중요** | [[endodontics/irrigation/boutsioukis-2022-irrigants-irrigation-methods-status-directions]] |
 
-[근거강함] NaOCl 농도 선택은 임상 결과에 큰 영향 없음 (Rossi-Fedele 2023, Boutsioukis 2022). 단독 사용 시 도말층 무기질 제거 안 됨 (Mohammadi 2019).
+[확인] NaOCl 농도 선택은 임상 결과에 큰 영향 없음 (Rossi-Fedele 2023, Boutsioukis 2022). 단독 사용 시 도말층 무기질 제거 안 됨 (Mohammadi 2019).
 
-[근거강함] Boutsioukis & Arias-Moliz 2022의 패러다임 재정의 — **기구조작(instrumentation)은 세정액 접근로 확보, 실제 소독은 세정액이 수행.** 근관 내 세정액 용량이 ≤30 μL로 매우 작아 유리염소가 수분 내 소진되므로, NaOCl 농도를 올리는 것보다 **자주 새 용액으로 교체**하는 것이 실효 농도 유지에 결정적이다. 위생사 실무로는 '한 번 많이' 보다 '자주 갈아주기'.
+[확인] Boutsioukis & Arias-Moliz 2022의 패러다임 재정의 — **기구조작(instrumentation)은 세정액 접근로 확보, 실제 소독은 세정액이 수행.** 근관 내 세정액 용량이 ≤30 μL로 매우 작아 유리염소가 수분 내 소진되므로, NaOCl 농도를 올리는 것보다 **자주 새 용액으로 교체**하는 것이 실효 농도 유지에 결정적이다. 위생사 실무로는 '한 번 많이' 보다 '자주 갈아주기'.
 
 ### 2.2 2차 세정액 (Chelating Agent) — 도말층·무기질 제거
 
@@ -236,7 +250,7 @@ GentleWave®(GWS)는 광대역 음향주파수 + 근첨 음압 + 연속 유체�
 | **허브 추출물 (noni·오레가노·님 등)** | 일부 herbal이 타 herbal보다 우수, 단 EDTA가 기준 | 임상 표준 아님 | [[endodontics/irrigation/teja-2022-herbal-agents-edta-smear-layer-removal-sr]] |
 | **HEBP** | 최약 | 권장 안 됨 | Mohammadi 2019 |
 
-[근거강함] Fortea 2024 결론 — **도말층 제거·성장인자 방출은 17% EDTA가 최우수, 단 NaOCl 양립성·smear 예방이 필요하면 HEDP**. Rao 2025는 근첨 도말층에 한정해 7% 말레산이 EDTA를 능가함을 보고하나 단시간(1–3분) 적용으로 침식 제한 필요. Teja 2022의 herbal 대체재는 아직 EDTA를 대체할 임상 근거 부족.
+[확인] Fortea 2024 결론 — **도말층 제거·성장인자 방출은 17% EDTA가 최우수, 단 NaOCl 양립성·smear 예방이 필요하면 HEDP**. Rao 2025는 근첨 도말층에 한정해 7% 말레산이 EDTA를 능가함을 보고하나 단시간(1–3분) 적용으로 침식 제한 필요. Teja 2022의 herbal 대체재는 아직 EDTA를 대체할 임상 근거 부족.
 
 ### 2.3 세정제 총괄 관점 — 단일 이상적 세정제는 없다
 
@@ -245,9 +259,9 @@ GentleWave®(GWS)는 광대역 음향주파수 + 근첨 음압 + 연속 유체�
 | **narrative-review** | [[endodontics/irrigation/khoury-2024-endodontic-irrigants-comprehensive-perspective-review]] | NaOCl·CHX·EDTA·TetraClean·Ca(OH)₂·herbal 총괄 — **이상적 단일 세정제는 없음, 증례별 선택**; CHX 최종 세척의 잔류성(substantivity) 활용 권장 |
 | **sr (2015–2025, 신규 세정제·활성화)** | [[endodontics/irrigation/gupta-2025-endodontic-irrigants-activation-systematic-review]] | **신규 세정제(나노입자[은·키토산·산화구리]·herbal[녹차폴리페놀·님·커큐민·석류]·광활성[메틸렌블루/ICG+레이저]·오존수)와 신규 활성화(PUI·레이저·멀티소닉·음압)**가 bench/단기 in-vitro서 항균·biofilm·도말층 우수; **그러나 임상·치유 종점은 박약·underpowered** | herbal 미세경도 보존·NaOCl보다 도말층 우수; 활성화 침투 **레이저>초음파>주사기** |
 
-[합의수준] Khoury 2024는 §2.1–2.2의 분업 논리(NaOCl=유기질, 킬레이트제=무기질)를 재확인하고, CHX 최종 세척을 잔류 항균 목적으로 위치시킴.
+[확인] Khoury 2024는 §2.1–2.2의 분업 논리(NaOCl=유기질, 킬레이트제=무기질)를 재확인하고, CHX 최종 세척을 잔류 항균 목적으로 위치시킴.
 
-[근거강함] **outcome-level 회의론 재확인** — Gupta 2025는 신규 세정제·활성화의 in-vitro 우위를 정리하면서도 핵심을 §1 Boutsioukis와 일치시킨다: **장기 임상 이득 미입증**. 술후 통증·12개월 치근단 치유 RCT 신호가 통계 유의에 도달하지 못함(Doğan 2024 RCT: LAI-SWEEPS·PUI 모두 수치상 치유 우세하나 12개월 차이 NS; Pinheiro 2018: NaOCl·CHX·오존수 CFU 감소 동등). [claude해석] §0(미준비 표면이 진짜 병목) → §1(활성화 대리지표 우위) → Gupta 2025/Boutsioukis(outcome 미입증)의 사슬이 닫힌다 — 더 나은 세정제·기법은 *대리지표*를 개선하지만, biofilm·해부 접근성이라는 근본 병목을 완전히 풀지 못하는 한 치유율로 직결되지 않는다.
+[확인] **outcome-level 회의론 재확인** — Gupta 2025는 신규 세정제·활성화의 in-vitro 우위를 정리하면서도 핵심을 §1 Boutsioukis와 일치시킨다: **장기 임상 이득 미입증**. 술후 통증·12개월 치근단 치유 RCT 신호가 통계 유의에 도달하지 못함(Doğan 2024 RCT: LAI-SWEEPS·PUI 모두 수치상 치유 우세하나 12개월 차이 NS; Pinheiro 2018: NaOCl·CHX·오존수 CFU 감소 동등). [미검증] §0(미준비 표면이 진짜 병목) → §1(활성화 대리지표 우위) → Gupta 2025/Boutsioukis(outcome 미입증)의 사슬이 닫힌다 — 더 나은 세정제·기법은 *대리지표*를 개선하지만, biofilm·해부 접근성이라는 근본 병목을 완전히 풀지 못하는 한 치유율로 직결되지 않는다.
 
 ### 2.4 항균 보조 — CHX vs QMix
 
@@ -256,7 +270,7 @@ GentleWave®(GWS)는 광대역 음향주파수 + 근첨 음압 + 연속 유체�
 | CHX 2% | NaOCl 대비 7일 통증 유의차 없음; 잔류성 이점 | Rossi-Fedele 2023, Khoury 2024 |
 | QMix | E. faecalis에 NaOCl·EDTA·CHX·MTAD 대비 우수 (단, 접촉 <10분·용량 <3mL 조건만) | [[endodontics/irrigation/lim-2020-qmix-antibacterial-e-faecalis-sr]] |
 
-**핵심 주의** [근거강함]: **QMix·CHX를 NaOCl과 직접 혼합 금지** — PCA(파라클로로아닐린) 침전. 사이에 증류수 세정 필수 (Shalavi 2021).
+**핵심 주의** [확인]: **QMix·CHX를 NaOCl과 직접 혼합 금지** — PCA(파라클로로아닐린) 침전. 사이에 증류수 세정 필수 (Shalavi 2021).
 
 ---
 
@@ -269,9 +283,9 @@ GentleWave®(GWS)는 광대역 음향주파수 + 근첨 음압 + 연속 유체�
 | **in-vitro (FTIR+SEM)** | [[endodontics/irrigation/padmakumar-2022-irrigating-solutions-dentin-structure-ftir]] | NaOCl 5.25% 화학변성 최대; **질산은·오존올리브오일이 최소** (실험적 대안); 전 세정제 미세경도 감소 |
 | **in-vitro (SEM/EDS)** | [[endodontics/irrigation/nascimento-2015-gel-formulations-residues-dentinal-walls-sem-eds]] | **gel 제형(NaOCl·CHX·EDTA gel) 잔류물이 최종 식염수·초음파 세척 후에도 상아질벽에 남음** |
 
-[근거강함] 세 갈래가 일관 — 세정제는 화학적 분업(NaOCl 유기질 / EDTA 무기질, Elfarraj 2024)을 하면서 **불가피하게 상아질을 연화**시킨다(Agarwal 2024, Padmakumar 2022). 단 Agarwal 2024는 미세경도 절대값이 측정법 의존적이라 과대해석 경계.
+[확인] 세 갈래가 일관 — 세정제는 화학적 분업(NaOCl 유기질 / EDTA 무기질, Elfarraj 2024)을 하면서 **불가피하게 상아질을 연화**시킨다(Agarwal 2024, Padmakumar 2022). 단 Agarwal 2024는 미세경도 절대값이 측정법 의존적이라 과대해석 경계.
 
-[claude해석] 임상 함의:
+[미검증] 임상 함의:
 - **농도·접촉시간 절제** — 특히 NaOCl 5.25% 장시간 노출 회피 (Padmakumar 2022)
 - **gel 제형보다 액상 선호** — gel 잔류가 접착·밀폐를 방해할 수 있음 (Nascimento 2015), 액상 NaOCl이 근첨 debris도 적음 (Cruz 2014)
 - 질산은·오존올리브오일·글리콜산은 실험 단계 — 표준 임상 미적용 (Padmakumar 2022, Elfarraj 2024)
@@ -290,15 +304,15 @@ GentleWave®(GWS)는 광대역 음향주파수 + 근첨 음압 + 연속 유체�
 | **retrospective (199 치아)** | [[endodontics/irrigation/artaza-2024-outcome-nonsurgical-root-canal-treatment]] | 큰 근단병소 NaOCl 1회내원: 초치료 89%(loose)/67%(rigid), 재치료 79%/47%; **과거 농양·항생제·≥10mm·누공이 예후 악화**, CBCT 평가 시 치유율 하락 |
 | **case-report (n=1)** | [[endodontics/irrigation/asgary-2008-endodontic-treatment-large-periradicular-lesion]] | ~25mm 낭종양 병소가 **약물 없이 1회내원 정방향 근관치료만으로 9개월 완전 치유** (누공 2주 소실) |
 
-[근거강함] Wong 2015 RCT와 Rossi-Fedele 2023 SR+MA를 함께 읽으면: **단회·다회 내원의 성공률은 동등하거나 단회가 약간 우위**, 따라서 다회 방문(Ca(OH)₂ 드레싱)의 정당화는 약함. Artaza 2024·Asgary 2008은 큰 병소도 적절한 NaOCl 화학기계적 처치 + 1회내원으로 치유 가능함을 보이나, Artaza 2024는 농양·대형 병소·누공이 있으면 예후가 떨어짐을 정량화.
+[확인] Wong 2015 RCT와 Rossi-Fedele 2023 SR+MA를 함께 읽으면: **단회·다회 내원의 성공률은 동등하거나 단회가 약간 우위**, 따라서 다회 방문(Ca(OH)₂ 드레싱)의 정당화는 약함. Artaza 2024·Asgary 2008은 큰 병소도 적절한 NaOCl 화학기계적 처치 + 1회내원으로 치유 가능함을 보이나, Artaza 2024는 농양·대형 병소·누공이 있으면 예후가 떨어짐을 정량화.
 
-[합의수준] Llena 2020 — **세정·근관충전 품질만큼 최종 보철 적합도가 치유를 좌우**. 세정을 완벽히 해도 coronal leakage가 있으면 실패 → 위생사·술자 단계에서 임시·최종 수복 밀폐 강조.
+[확인] Llena 2020 — **세정·근관충전 품질만큼 최종 보철 적합도가 치유를 좌우**. 세정을 완벽히 해도 coronal leakage가 있으면 실패 → 위생사·술자 단계에서 임시·최종 수복 밀폐 강조.
 
 ---
 
 ## 5. 임상 프로토콜 — 위생사 단계별 매뉴얼
 
-[합의수준 — Orozco-Gallego 2025 umbrella + Tonini 2022 SR + Fortea 2024 SR + Shalavi 2021 narrative 기준]
+[확인 — Orozco-Gallego 2025 umbrella + Tonini 2022 SR + Fortea 2024 SR + Shalavi 2021 narrative 기준]
 
 ```
 근관 형성 (Shaping) 완료 → 세정 단계
@@ -315,7 +329,7 @@ GentleWave®(GWS)는 광대역 음향주파수 + 근첨 음압 + 연속 유체�
     └─ NaOCl과 직접 접촉 금지 — 반드시 증류수 사이 세정
 ```
 
-### 위생사 체크리스트 [위생사 매뉴얼용 — 번호 체크리스트]
+### 위생사 체크리스트 (위생사 매뉴얼용 — 번호 체크리스트)
 
 1. 1차 세정액 NaOCl 농도 확인 (1–6%, 기관 표준)
 2. NaOCl 사용 시 PUI 활성화 1–3분 적용
@@ -353,7 +367,7 @@ GentleWave®(GWS)는 광대역 음향주파수 + 근첨 음압 + 연속 유체�
 
 ---
 
-## 7. 미해결 쟁점·기술 지평 [claude해석]
+## 7. 미해결 쟁점·기술 지평 [미검증]
 
 1. **PUI vs ANP 직접 임상 비교 부족** — 도달은 ANP(Kumar 2023), 치유는 PUI(Orozco-Gallego 2025). 어느 기법이 실제 임상 치유율에서 우위인지 head-to-head RCT 없음.
 2. **레이저 활성화 — 대리지표 일관, 임상 RCT 여전히 부재** — Fiegler-Rudol 2025서 15편 전원 Er:YAG 우위로 '보류→유망' 격상됐으나, Doğan 2024 RCT의 12개월 치유는 PUI 대비 NS(Gupta 2025). 파라미터 이질성으로 가이드라인 확정 불가.
@@ -369,7 +383,7 @@ GentleWave®(GWS)는 광대역 음향주파수 + 근첨 음압 + 연속 유체�
 
 ## 8. 임상 적용 한 페이지 요약
 
-**근관세정 11대 원칙** [합의수준]:
+**근관세정 11대 원칙** [확인]:
 
 0. **활성화가 필요한 이유 = 미준비 표면** — 기구가 근관벽 10–80%를 못 건드림, 형성 후 30–60% 세균 양성; recess 소독은 화학·보조 활성화가 전담 (Siqueira 2018)
 1. **CNI 단독 금지** — 모든 단계에서 활성화 기법 적용 (Orozco-Gallego 2025, Tonini 2022)

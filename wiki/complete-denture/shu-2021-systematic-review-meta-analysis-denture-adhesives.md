@@ -6,7 +6,7 @@ date: 2021-05-01
 doi: 10.1016/j.jdent.2021.103638
 source: shu-2021-systematic-review-meta-analysis-denture-adhesives.md
 category: [complete-denture]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/shu-2021-systematic-review-meta-analysis-denture-adhesives.pdf
 pdf_filename: shu-2021-systematic-review-meta-analysis-denture-adhesives.pdf
 source_collection: external

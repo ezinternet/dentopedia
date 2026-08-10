@@ -6,7 +6,7 @@ date: 2025-01-09
 doi: 10.1186/s12903-025-05452-1
 source: gulec-2025-psaa-cbct-maxillary-sinus-anatomy.md
 category: sinus-lift/lateral
-confidence: cross-sectional
+evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/gulec-2025-psaa-cbct-maxillary-sinus-anatomy.pdf
 pdf_filename: gulec-2025-psaa-cbct-maxillary-sinus-anatomy.pdf
 source_collection: external

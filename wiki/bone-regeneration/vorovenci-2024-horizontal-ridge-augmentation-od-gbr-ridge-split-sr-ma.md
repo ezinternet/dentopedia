@@ -6,7 +6,7 @@ date: 2024-07-31
 doi: 10.3892/br.2024.1827
 source: vorovenci-2024-horizontal-ridge-augmentation-od-gbr-ridge-split-sr-ma.md
 category: [bone-regeneration]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "39161939"
@@ -20,6 +20,16 @@ relations:
     target: ayoub-2018-ridge-splitting-horizontal-augmentation-case
   - type: reinforces
     target: chen-2022-reverse-drilling-technique-alveolar-ridge-expansion
+  - type: reinforces
+    target: tian-2019-alveolar-ridge-expansion-osseodensification-osteotome
+  - type: extends
+    target: simion-1992-jawbone-enlargement-split-crest-gtr
+  - type: extends
+    target: bone-regeneration-protocol-ladder
+  - type: extends
+    target: enislidis-2006-staged-ridge-splitting-implant-mandible
+  - type: extends
+    target: koutouzis-2019-alveolar-ridge-expansion-osseodensification-multicenter-retrospective
 ---
 
 ## Three-line Summary
@@ -78,8 +88,8 @@ Critically, the three techniques are applied to **different starting ridge width
 - [[bone-regeneration/ayoub-2018-ridge-splitting-horizontal-augmentation-case]] — ridge-split case; this MA quantifies the RS gain (3.66 mm) it exemplifies.
 - [[bone-regeneration/simion-1992-jawbone-enlargement-split-crest-gtr]] — split-crest + GTR origin paper; RS lineage pooled here.
 - [[bone-regeneration/enislidis-2006-staged-ridge-splitting-implant-mandible]] — staged mandibular ridge-split; RS technique in the pool.
-- [[implants/chen-2022-reverse-drilling-technique-alveolar-ridge-expansion]] — OD/reverse-drilling expansion; this MA places OD gain (2.15 mm) in context.
-- [[implants/tian-2019-alveolar-ridge-expansion-osseodensification-osteotome]] — OD vs osteotome ridge expansion; OD arm.
-- [[implants/koutouzis-2019-alveolar-ridge-expansion-osseodensification-multicenter-retrospective]] — multicenter OD expansion; a study cited in this MA's OD subgroup.
-- [[implants/versah-protocols/guner-2025-osseodensification-ridge-split-implant-stability]] — OD + ridge-split combined (a future-direction combination this MA flagged but could not pool).
+- [[implants/osteotomy-thermal/chen-2022-reverse-drilling-technique-alveolar-ridge-expansion]] — OD/reverse-drilling expansion; this MA places OD gain (2.15 mm) in context.
+- [[implants/osseodensification/tian-2019-alveolar-ridge-expansion-osseodensification-osteotome]] — OD vs osteotome ridge expansion; OD arm.
+- [[implants/osseodensification/koutouzis-2019-alveolar-ridge-expansion-osseodensification-multicenter-retrospective]] — multicenter OD expansion; a study cited in this MA's OD subgroup.
+- [[implants/osseodensification/guner-2025-osseodensification-ridge-split-implant-stability]] — OD + ridge-split combined (a future-direction combination this MA flagged but could not pool).
 - [[overviews/bone-regeneration-protocol-ladder]] — synthesis; supplies the GBR > RS > OD gain hierarchy to the augmentation decision ladder.

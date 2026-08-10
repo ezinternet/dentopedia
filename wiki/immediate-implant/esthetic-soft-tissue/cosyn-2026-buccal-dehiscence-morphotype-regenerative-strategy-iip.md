@@ -6,7 +6,7 @@ date: 2026-01-23
 doi: 10.1111/jerd.70115
 source: cosyn-2026-buccal-dehiscence-morphotype-regenerative-strategy-iip.md
 category: immediate-implant/esthetic-soft-tissue
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: true
 pmid: "41578628"

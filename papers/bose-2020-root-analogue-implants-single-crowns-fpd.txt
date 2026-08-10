@@ -1,0 +1,67 @@
+Title: Clinical Outcomes of Root-Analogue Implants Restored with Single Crowns or Fixed Dental Prostheses: A Retrospective Case Series
+Authors: Böse MWH, et al.
+Journal: J Clin Med. 2020
+PMID: 32717843
+PMCID: PMC7465378
+DOI: 10.3390/jcm9082346
+Source: PubMed Central full text via PubMed MCP get_full_text_article
+
+ABSTRACT
+
+The objective was to investigate clinical and radiological outcomes of rehabilitations with root-analogue implants (RAIs). Patients restored with RAIs, supporting single crowns or fixed dental prostheses, were recruited for follow-up examinations. Besides clinical and esthetical evaluations, X-rays were taken and compared with the records. Patients were asked to evaluate the treatment using Visual Analogue Scales (VAS). For statistical analyses, mixed linear models were used. A total of 107 RAIs were installed in one dental office. Of these, 31 were available for follow-up examinations. For those remaining, survival has been verified via phone. RAIs were loaded after a mean healing time of 6.6 ± 2.5 months. 12.1 ± 6.9 months after loading, a mean marginal bone loss (MBL) of 1.20 ± 0.73 mm was measured. Progression of MBL significantly decreased after loading (p = 0.013). The mean pink and white esthetic score (PES/WES) was 15.35 ± 2.33 at follow-up. A survival rate of 94.4% was calculated after a mean follow-up of 18.9 ± 2.4 months after surgery. Immediate installation of RAIs does not seem to reduce MBL, as known from the literature regarding screw-type implants, and might not be recommended for daily routine. Nevertheless, they deliver esthetically satisfying results.
+
+1. INTRODUCTION
+
+Dental implants are successfully used for the replacement of missing and hopeless teeth with a mean survival rate of 94.6 ± 5.97% after 10 years of clinical service. Immediate implant placement has been purported to help reduce resorption processes after tooth extraction, though no general recommendation on immediate vs immediate-delayed vs delayed installation of prefabricated screw-shaped implants is scientifically established.
+
+Root-analogue implants (RAIs) were first proposed in the Dental Polymer Implant Concept in 1969, aiming to counteract post-extraction resorption by replacing extracted roots/teeth with anatomically shaped copies. Since then, RAI research has continued with variations in materials and methods, but historically without true immediate installation because manufacturing occurred after extraction. With DICOM data from CBCT, accurate pre-surgical production of RAIs became possible.
+
+In 2013, Natural Dental Implants (NDI Berlin) launched the REPLICATE Immediate Tooth Replacement System, combining CBCT DICOM data and intraoral STL data to subtractively manufacture RAIs prior to extraction/surgery. Material options were a one-piece hybrid (titanium endosseous part, glass-fused zirconia abutment) and a one-piece zirconia version, both with macro/micro surface retentions for primary stability. This retrospective case series investigated survival/success of REPLICATE RAIs, focusing on marginal bone loss (MBL) and esthetic outcomes, hypothesizing comparable clinical/radiographic/esthetic results to conventional screw-shaped implants.
+
+2. METHODS
+
+Retrospective case series; ethical approval Charité–Universitätsmedizin Berlin (EA4/140/18). All surgeries performed by one experienced oral surgeon (D.H.) in a private practice in Berlin; all follow-up exams performed by a second, independent examiner (M.B.) to reduce bias. MBL measurements made independently by a third, external private lecturer.
+
+Inclusion for RAI treatment: non-smokers, no medications affecting bone metabolism, non-inflammatory surrounding soft/hard tissue, intact bone compartments, visible periodontal gaps on CBCT. 107 RAIs were inserted between September 2016 and August 2019. Inclusion for follow-up: treated with REPLICATE system, completed healing, restored with single crowns or FDPs. Of all patients treated, only 28 patients (31 RAIs) agreed to follow-up examinations (widely dispersed referral network across Germany).
+
+Workflow: dental impressions (Impregum) + bite record + CBCT DICOM (PAX i-3D) + clinical photos sent to NDI Berlin; STL models superimposed with DICOM; Temporary Protective Covers (TPCs), implant/abutment portions, and Try-Ins virtually designed and approved by dentist; milled via CAM. Implant surface enlarged with macro/micro retentions on both hybrid and all-ceramic versions; intra-bony portion individually reduced vs. original root size to avoid bone compression.
+
+Surgery: atraumatic extraction (Benex Extraction System where possible, ~83% success), Try-In fit check, implant surfaces wetted with Plasma Rich Growth Factors (PRGF) for augmentation of voids, RAI seated with hammer/mallet, TPC adhesively bonded to adjacent teeth with ~0.6 mm gap for load protection. Healing checked at 3-6 months; after confirmed osseointegration, conventional impressions taken for final restorations.
+
+Outcome framework (per 2012 SR, 4 superordinate success categories): (1) Implant level — radiographic MBL at T0 (surgery), T1 (loading), T2 (follow-up), measured with ImageJ using manufacturer-provided reference points, cross-checked by two examiners; Albrektsson criteria (bone loss <1.5 mm year 1, <0.2 mm/year thereafter, no pain/mobility/infection/radiolucency). Potential MBL predictors tested: gender, age, region (anterior/posterior), location (maxilla/mandible), material (hybrid/zirconia), implant/root/abutment length, implant surface area, bone quality, surgical difficulty, number of roots. (2) Peri-implant soft tissue — modified plaque index (mPI) and bleeding index (mBI, Mombelli), keratinized gingiva (KG) width ≥1.5 mm required for success. (3) Prosthetic level — PES/WES (threshold ≥6 for success) and modified USPHS criteria (7 criteria: veneer fracture, framework fracture, occlusal roughness, marginal integrity, contour, esthetics, discoloration; A/B/C/D rating). (4) Patient satisfaction — VAS (0-100%) for esthetic appearance and chewing ability, ≥80% required for success.
+
+Statistics: SciPy; paired t-test for MBL gradient between intervals; Welch's t-tests for subgroup comparisons; Pearson correlation for continuous predictors; significance p<0.05.
+
+3. RESULTS
+
+Demographics: 107 RAI surgeries Sept 2016-Aug 2019. 101 root-analogues still in situ (mean observation 18.9 ± 2.4 months); 6 RAIs failed (4 no osseointegration during healing, 2 lost after prosthetic delivery) → survival rate 94.4% (based on all 107).
+
+28 patients (11 male, 17 female) with 31 RAIs (one patient with 2, one with 3) completed follow-up. Mean age 55.3 ± 14.2 years at surgery, 56.6 ± 14.1 years at follow-up. 25 hybrid and 6 all-ceramic (zirconia) RAIs; restored with 29 single crowns + 1 three-unit FDP. Mean healing time to loading: 6.6 ± 2.5 months. Follow-up: 17.5 ± 6.4 months after surgery, 10.8 ± 7.0 months after loading.
+
+Implant level: 26/31 RAIs radiographically evaluated. Mean MBL: T0-T1 (surgery to loading) = 0.82 ± 0.54 mm; T0-T2 (surgery to follow-up) = 1.20 ± 0.73 mm; T1-T2 (loading to follow-up) = 0.40 ± 0.41 mm. Statistically significant reduction in bone-loss progression rate after loading vs. before loading (p = 0.013). No parameter tested (gender, age, region, location, material, length, implant surface, bone quality, difficulty, number of roots) showed statistically significant influence on MBL. Implant-level success: 80.8% (21/26 evaluable).
+
+Peri-implant soft tissue: all 31 RAIs evaluated. Mean mPI 0.6 ± 0.5; mean mBI 0.6 ± 0.7; mean KG 3.9 ± 1.7 mm. Success rate 96.8% (30/31).
+
+Prosthetic level: PES mean 7.45 ± 1.50, WES mean 7.90 ± 1.74, combined PES/WES 15.35 ± 2.33. Success rate 83.3% (25/30). Modified USPHS: 6/7 criteria mostly A/B (excellent/minor deviation); marginal integrity was the weakest domain — a soundable marginal gap was common, occasionally explorer-penetrable, but no restoration required replacement.
+
+Patient satisfaction: esthetic-appearance VAS 91.6 ± 17.5%; chewing-ability VAS 89.1 ± 18.9%. Success rate 90.0% (27/30); 3 patients unsatisfied (2 chewing discomfort, 1 esthetic dissatisfaction).
+
+Overall: combining all 4 categories, success rate 64.5% (20/31, based on 31 followed-up RAIs); survival rate 94.4% (based on 107 total RAIs placed), 17.5 ± 6.4 months after surgery.
+
+4. DISCUSSION
+
+Immediate RAI installation shows comparable overall results to conventional screw-shaped implants short-term, with apparent advantages in soft-tissue/esthetic outcomes but a disadvantage in bone-level stability/restoration-margin fit. Small sample size and lack of a control group (retrospective design) limit interpretation to "tendency" rather than definitive comparison. Junction between implant and abutment portions (JIAP) was planned mostly 1 mm subcrestal (73.1%) — similar subcrestal positioning to conventional immediate screw-implants, associated with more pronounced early bone remodeling in the literature; this homogeneity precluded statistical testing of JIAP position effect.
+
+No advantage of RAIs over screw-shaped implants was found for MBL/bone-level stability; observed bone loss was comparable to conventional immediate implant literature. Soft-tissue outcomes were favorable despite subgingival cementation margins (96.8% success), possibly because RAI abutment-to-root transition mimics natural tooth contour (vs. the more rejuvenated, harder-to-clean screw-implant transition), theoretically reducing peri-implantitis susceptibility. Marginal integrity (USPHS) was the weakest prosthetic parameter — customized RAI margins were harder to fit accurately with conventional impressions than standard one-piece implants; digital-data matching for remakes was suggested as a mitigation.
+
+PES/WES mean 15.35 ± 2.33 compares favorably to prior studies, though only 41.9% of RAIs were in the esthetic zone (contralateral comparisons partly to restored, not natural, teeth), a limitation of the PES/WES tool in this cohort. Overall 4-criteria success (64.5%) is consistent with other studies using similarly stringent multi-domain success definitions (success typically decreases as more criteria are combined). Findings align with Esposito et al.'s observations of reduced overall success but high esthetic satisfaction for immediately installed implants generally.
+
+Limitations: retrospective design, no control group, small sample (31/107 followed up), heterogeneous 2D radiographs without standardized holders, short observation period (<2 years), single-center/single-surgeon.
+
+Cost: RAI treatment ~15% higher cost than screw-shaped implants (incl. bone/soft-tissue augmentation) — difficult to justify given the modest benefit shown and the potential-failure risk if socket destruction during extraction precludes RAI seating (rendering pre-surgical planning wasted).
+
+Notably, manufacturer NDI Berlin ceased business operations on 31 January 2020, during completion of this study — the authors interpret this, and the general failure of RAIs to become established after many years, as an indicator that results so far are "not yet convincing."
+
+5. CONCLUSIONS
+
+Immediate RAI installation does not appear to counteract known post-extraction marginal bone resorption compared to conventional immediate screw-shaped implants. However, over the short observation period, RAIs maintained favorable peri-implant soft-tissue conditions and delivered a predictable, highly satisfying esthetic outcome. Mid- to long-term prospective studies with control groups are required. Given the small indication group, limited data, and modest net advantage, routine clinical application of RAIs (at ~15% higher cost) is not yet justified. The 94.4% survival rate at <2-year follow-up should be interpreted cautiously against the 94.6% 10-year survival benchmark for screw-shaped implants.

@@ -6,7 +6,7 @@ date: 2021-09-01
 doi: 10.1016/j.prosdent.2020.06.010
 source: sanjeevan-2021-efficiency-simplified-versus-traditional-denture.md
 category: [complete-denture]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/sanjeevan-2021-efficiency-simplified-versus-traditional-denture.pdf
 pdf_filename: sanjeevan-2021-efficiency-simplified-versus-traditional-denture.pdf
 source_collection: external

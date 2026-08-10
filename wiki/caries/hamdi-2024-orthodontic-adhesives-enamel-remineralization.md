@@ -6,7 +6,7 @@ date: 2024-11-28
 doi: 10.1186/s12903-024-05237-y
 source: hamdi-2024-orthodontic-adhesives-enamel-remineralization.md
 category: [caries]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "39609782"

@@ -6,7 +6,7 @@ date: 2024-08-16
 doi: 10.1186/s12903-024-04721-9
 source: mun-2024-deep-learning-cracked-tooth-extraction-panoramic.md
 category: artificial-intelligence
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/mun-2024-deep-learning-cracked-tooth-extraction-panoramic.txt
 pdf_filename: mun-2024-deep-learning-cracked-tooth-extraction-panoramic.txt
 source_collection: pubmed-text

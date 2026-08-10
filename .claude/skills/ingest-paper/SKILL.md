@@ -9,19 +9,34 @@ allowed-tools: Bash, Read, Write, Edit
 
 Full pipeline to add a dental research PDF into the LLM Wiki knowledge base.
 
-## Step 0 — Model & batch check (ask first, before any work)
+## Step 0 — Model routing (fixed — do not ask the user)
 
-Before starting, ask the user **once** (use the AskUserQuestion tool) and wait for the answer:
+모든 작업은 아래 **3축 판단 원칙**으로 모델을 자율 결정한다. 표에 없는 작업도 이 원칙으로 판단한다.
 
-> **"논문 ingest 모델을 무엇으로 할까요?"**
-> - **Sonnet 최고등급 (권장)** — ingest는 정형 작업이라 Sonnet이면 충분하고 비용이 Opus의 약 1/5. 최고 effort로 품질 확보.
-> - **현재 모델 유지** — 지금 세션 모델 그대로 사용.
+### 3축 판단 원칙
 
-How to honor the answer:
-- If the user picks **Sonnet 최고등급**, tell them to run `/model sonnet` (and raise effort to high/max) before continuing, OR — if invoked as a subagent — set the agent's `model: sonnet` + `effort: high`. The skill itself cannot switch the main-session model mid-run, so surface this clearly rather than silently ignoring it.
-- If multiple PDFs are being ingested in one go, this is a **batch** — note the count. A batch of **2+ papers takes the parallel path (§ Batch mode)**, which changes both execution shape (fan-out) and Step 10 (embed once at the very end, not per paper).
+| 축 | 모델 | 판단 기준 |
+|---|---|---|
+| **전사·정형** | **Haiku** | 답이 입력에 이미 있다. 수치 옮기기, 링크 고치기, 로그 읽기, 파일 복사, frontmatter 채우기, 스크립트 실행 결과 해석 — 추론 없이 기계적으로 완료 가능한 작업 |
+| **표현·품질** | **Sonnet** | 문장을 새로 써야 한다. 위키 본문, 세줄요약, 카테고리 정리 결정, 임상 insights 작성 — 입력을 이해해 좋은 문장으로 변환해야 하는 작업 |
+| **추론·종합** | **Opus** | 여러 논문·페이지를 비교해 판단해야 한다. supersession, 카테고리 경계, overview 종합, 논문 간 관계 결정 — 오판이 위키 구조에 누적되는 작업 |
 
-Skip Step 0 only if the user already specified the model in their request.
+**자율 결정 규칙**: 작업을 시작하기 전 이 세 축 중 어디에 속하는지 먼저 판단하고 모델을 선택한다. 판단이 애매하면 한 축 위로 올린다(Haiku→Sonnet, Sonnet→Opus).
+
+### 주요 작업 매핑 (참고용 — 원칙이 우선)
+
+| 작업 | 모델 |
+|---|---|
+| 텍스트 추출, PDF 복사, dedup, lint, qmd, 로그 읽기, 링크 수정 | **Haiku** |
+| `sources/` 작성 (Step 5) | **Haiku** |
+| `wiki/` 페이지 본문 (Step 6), 카테고리 정리 결정 | **Sonnet** |
+| supersession 판단, 카테고리 경계 분류, `wiki/overviews/` 작성 | **Opus** |
+
+**Serial 모드**: Steps 1–5 후 `/model sonnet` 전환 안내. Supersession/boundary/overview 직전 `/model opus` 안내.
+
+**Batch 모드 서브에이전트**: 1a파도 `model: haiku`(Steps 2–5), 1b파도 `model: sonnet`(Step 6). Boundary/supersession 케이스는 1b를 `model: opus`로 교체.
+
+If multiple PDFs are being ingested in one go, this is a **batch** — note the count. A batch of **2+ papers takes the parallel path (§ Batch mode)**, which changes both execution shape (fan-out) and finalize (PHASE 2's `ingest-one.py --finish` per paper, not the manual Step 10 block — see Step 10's batch note).
 
 ---
 
@@ -56,9 +71,14 @@ Dispatch **all papers at once** — one `Agent` call per paper, in a **single me
 - The subagent does **NOT** touch `index.md`, does **NOT** git-commit/push, does **NOT** run qmd. Those are Phase 2, parent-only.
 - The subagent does **NOT** use `isolation: worktree` — it must write into the main working tree the parent then commits.
 - The subagent **logs deviations** immediately when it handles a non-standard case (empty PMC text, DOI conflict, category boundary, skipped step): `python3 scripts/log-deviation.py <stem> <type> "<desc>"` (non-blocking, <1s).
-- The subagent **RETURNS** a compact record: `{stem, category, confidence, index_line, status: ok|skip:<reason>}`.
+- The subagent **RETURNS** a compact record: `{stem, category, evidence_level, index_line, status: ok|skip:<reason>}`.
 
-Model routing per subagent (from Step 0 table): default `model: sonnet` + `effort: high`. If the dispatcher already knows a given paper is a **category-boundary** or **supersession** candidate, set *that paper's* agent to `model: opus`. Overviews are never authored inside a fan-out.
+Model routing per subagent (from Step 0 table):
+- **Haiku+Sonnet 분리 선택 시**: Phase 1을 두 파도로 나눈다.
+  - **1a파도** (`model: haiku`): Steps 2–5만 수행 (텍스트 추출, dedup, PDF 복사, 카테고리, sources/ 작성). wiki/는 건드리지 않음.
+  - **1b파도** (`model: sonnet` + `effort: high`): 1a파도 완료 후 sources/{stem}.md를 읽고 Step 6(wiki/ 페이지)만 작성. supersession/boundary 케이스는 `model: opus`로 에스컬레이션.
+- **Sonnet 전체 선택 시**: 단일 파도 `model: sonnet` + `effort: high`. boundary/supersession 케이스는 `model: opus`.
+- Overviews are never authored inside a fan-out.
 
 ### PHASE 2 — finalize (serial, parent only)
 
@@ -82,21 +102,22 @@ If invoked in a context where you cannot spawn subagents (already inside one), f
 
 ---
 
-### Model routing — "추출이면 Sonnet, 종합·판단이면 Opus"
+### Model routing — 3단 고정 분리
 
-The default above (Sonnet) is correct for the *extraction* bulk of ingest. But certain sub-steps are **high-judgment** and should escalate to **Opus** even inside a Sonnet ingest. The single test: *does the model have to reason across papers or make a clinical judgment, vs. just transcribe this one PDF?* (Full rationale: [agenda/2026-06-30_model-routing-ingest-overview.md](../../../agenda/2026-06-30_model-routing-ingest-overview.md).)
+Step 0 표가 최종 권위다. 아래는 실행 시 판단 기준:
 
-| Sub-step | Default | Escalate to **Opus** when… |
+| Sub-step | 모델 | 판단 기준 |
 |---|---|---|
-| Text extraction, stem, copy, index, qmd, lint | Sonnet | never |
-| `sources/` + single-paper `wiki/` page (Step 5–6) | Sonnet | the paper sits on a **category boundary** (Step 4) |
-| Category choice (Step 4) | Sonnet | boundary case (e.g. `immediate-implant` vs `/esthetic-soft-tissue` vs `implants/soft-tissue`) — misclassification compounds |
-| `## Why Ingested` + `superseded_by` judgment (Step 6) | — | **always Opus-grade** — it is cross-paper reasoning, not transcription |
-| `wiki/overviews/` synthesis, 한국어 digest, Class-B clinical interactive | — | **always Opus** — never produce these on Sonnet |
+| 텍스트 추출, stem, PDF 복사, lint, qmd | **Haiku** | 정형 작업, 추론 불필요 |
+| `sources/` 작성 (Step 5) | **Haiku** | 수치 전사·섹션 분류 — Haiku 충분 |
+| `wiki/` 페이지 본문 (Step 6) | **Sonnet** | 세줄요약·임상 insights 품질 중요 |
+| 카테고리 boundary 판단 (Step 4) | **Opus** | 오분류는 구조적으로 누적됨 |
+| `superseded_by` + `relations:` 판단 (Step 6) | **Opus** | 논문 간 추론 — 전사 아닌 판단 |
+| `wiki/overviews/` 종합·한국어 핵심요약 | **Opus** | 크로스-페이퍼 종합, 절대 Sonnet 불가 |
 
 How to escalate in practice:
-- **Main session**: when you hit a boundary classification or a supersession judgment and you're on Sonnet, surface it — tell the user this sub-step wants Opus (`/model opus`), or note that you're handling just that judgment with extra care.
-- **Subagent ingest**: default the per-paper agent to `model: sonnet`. If the dispatcher already knows a paper is a boundary/supersession candidate, set *that paper's* agent to `model: opus`. Overviews are authored in a separate Opus session, never inside a fan-out.
+- **Main session**: Steps 1–5 진행 중 boundary/supersession 징후 발견 시 `/model opus` 전환을 사용자에게 안내. Step 6 시작 시 `/model sonnet` 안내.
+- **Subagent ingest**: 1a파도 `model: haiku`(Steps 2–5), 1b파도 `model: sonnet`(Step 6). Boundary/supersession 확인된 논문은 1b 서브에이전트를 `model: opus`로 교체. Overviews are authored in a separate Opus session, never inside a fan-out.
 
 ---
 
@@ -111,6 +132,8 @@ ls -lh "/path/to/paper.pdf"
 ```
 
 If the file does not exist, stop and tell the user.
+
+**No-PDF variant.** If there's no local PDF at all — full text pulled via PubMed MCP, or nothing beyond an abstract — this isn't a Step 1 failure, it's a different entry point. Skip to INGEST.md Step 1-T (PubMed-text) or Step 1-A (abstract-only PDF) for the frontmatter field substitutions (`source_collection`, `full_text`, `pmid`/`pmcid`, `text_path`/`text_filename` in place of `pdf_path`/`pdf_filename`), then rejoin at Step 4 below.
 
 ---
 
@@ -191,7 +214,7 @@ If qmd is down, fall back to a BM25 search (`qmd search "<author/device/term>"`)
 
 ### Step 4 — Determine category
 
-See [reference.md](reference.md) for the full category list. Choose the **single best category** based on the paper's primary method or procedure — not by disease or anatomy.
+See [wiki/_meta/categories.md](../../../wiki/_meta/categories.md) for the full category list and subcategory routing (single source of truth — do not use a copy from elsewhere). Choose the **single best category** based on the paper's primary method or procedure — not by disease or anatomy.
 
 > **Model note (Step 0 routing).** If the paper sits on a **category boundary** — two or more sibling folders plausibly fit (e.g. `immediate-implant` vs `immediate-implant/esthetic-soft-tissue` vs `implants/soft-tissue`) — this is a high-judgment call: escalate this decision to **Opus** rather than guessing on Sonnet. Misclassification silently corrupts the wiki's structure.
 
@@ -211,14 +234,15 @@ Fill in all fields from the extracted text:
 - `pdf_filename`: `{stem}.pdf`
 
 Sections to write:
-1. **One-line Summary** — study type, n, key finding in one English sentence
-2. **Document Information** — journal, DOI, institution
-3. **Key Contributions** — bullet points of novel claims
-4. **Methodology** — design, databases, n, outcomes
-5. **Key Results** — numbers, tables, p-values
-6. **Limitations** — explicitly stated or inferred
-7. **Related Work** — wikilinks to relevant existing pages
-8. **Glossary** — 3–6 key terms with definitions
+1. **Why Ingested** — 1–2 sentences on why this paper, now (gap/conflict/new evidence/requested/current case); at least one `[[wiki/category/stem]]` wikilink to a page it reinforces/contradicts/extends, found via `qmd query` (never grep/find). **Mandatory** for papers ingested on/after 2026-05-27 (lint-enforced by `scripts/ingest-rationale-lint.py`).
+2. **Three-line Summary** (English) + **세줄요약** (Korean) — two separate sections, this order, each exactly 3 lines: study type/n/context, primary result with numbers, clinical implication or key limitation.
+3. **Document Information** — journal, DOI, institution
+4. **Key Contributions** — bullet points of novel claims
+5. **Methodology** — design, databases, n, outcomes
+6. **Key Results** — numbers, tables, p-values
+7. **Limitations** — explicitly stated or inferred
+8. **Related Work** — wikilinks to relevant existing pages
+9. **Glossary** — 3–6 key terms with definitions
 
 ---
 
@@ -228,22 +252,23 @@ Use the template in [reference.md](reference.md) → **Wiki Template** section.
 
 Required frontmatter fields (all 9 must be present — lint checks these):
 ```
-title, authors, year, doi, source, category, confidence, pdf_path, pdf_filename
+title, authors, year, doi, source, category, evidence_level, pdf_path, pdf_filename
 ```
+(`evidence_level` — renamed from `confidence` 2026-07-15; `scripts/lint.py` accepts either key but prefers `evidence_level` — always write the new name on new pages.)
 
 Additional required fields:
 - `date`: publication date `YYYY-MM-DD`; use `YYYY-01-01` if only year known; use ingest date if neither recoverable
 - `tags`: relevant keywords as YAML list
 
 Body sections (in order):
-1. `## 한줄요약` — Korean one-liner: study type, n, key finding in plain Korean. Use **한국어 (English, 약어)** notation for technical terms.
+1. `## Three-line Summary` (English) + `## 세줄요약` (Korean) — two separate sections, this order, each exactly 3 lines (same content/format as the Sources page — see Step 5). Use **한국어 (English, 약어)** notation for technical terms in the Korean section.
 2. `## Summary` — English paragraph, 3–5 sentences
 3. `## Key Contributions`
 4. `## Methodology`
 5. `## Results` — include tables where helpful
 6. `## Related Papers` — `[[category/stem]]` wikilinks with relationship description
 
-Confidence vocabulary — pick the single best label. See [reference.md](reference.md) → **Confidence Vocabulary**.
+Evidence level vocabulary (`evidence_level:`) — pick the single best label. See [reference.md](reference.md) → **Evidence Level Vocabulary**. Optional judgment-call fields (`superseded_by`/`superseded_scope`, `relations:`) are in the same reference section — don't guess their vocabulary from memory.
 
 > **Model note (Step 0 routing).** Two parts of this page are **cross-paper judgment, not transcription**, and want **Opus** even in a Sonnet ingest: (1) deciding whether this paper **supersedes an existing page** (`superseded_by` + banner — see CLAUDE.md § living-document supersession and memory [[supersession-judgment-at-ingest]]), and (2) writing the relationship prose / `relations:` edges that say *how* it relates to existing pages. Transcribing this paper's own results stays on Sonnet; judging it against the rest of the wiki escalates.
 
@@ -263,37 +288,13 @@ Find the correct section by matching the category to the section header. Use Edi
 
 ### Step 8+9 — Lint + orphan check (single call)
 
-Frontmatter lint and the PDF↔sources 1:1 orphan check are independent read-only scans — run both in **one** bash round-trip:
+Use the canonical scripts — **not** a hand-rolled inline check. (An earlier inline snippet duplicated this logic with a hardcoded field list that drifted to the pre-2026-07-15 `confidence` name and started false-flagging correctly-written `evidence_level` pages; don't reintroduce a second copy.)
 
 ```bash
-python3 -c "
-import os, re
-# --- (8) frontmatter lint ---
-REQ = ['title','authors','year','doi','source','category','confidence','pdf_path','pdf_filename']
-SKIP = {'_lint','overviews'}
-errors=[]; ok=0
-for root,dirs,files in os.walk('wiki'):
-    dirs[:] = [d for d in dirs if d not in SKIP]
-    for fn in files:
-        if not fn.endswith('.md'): continue
-        p=os.path.join(root,fn); c=open(p).read()
-        m=re.match(r'^---\n(.*?)\n---', c, re.DOTALL)
-        if not m: errors.append(f'NO FRONTMATTER: {p}'); continue
-        miss=[f for f in REQ if not re.search(rf'^{f}\s*:', m.group(1), re.MULTILINE)]
-        errors.append(f'MISSING {miss}: {p}') if miss else (ok:=ok+1)
-print(f'LINT — OK: {ok}  ERRORS: {len(errors)}')
-for e in errors: print(' ', e)
-# --- (9) orphan check ---
-papers={f[:-4] for f in os.listdir('papers') if f.endswith('.pdf')}
-srcs  ={f[:-3] for f in os.listdir('sources') if f.endswith('.md')}
-op, osr = papers-srcs, srcs-papers
-if op:  print('ORPHAN PDFs (delete):', op)
-if osr: print('ORPHAN sources (missing PDF):', osr)
-if not op and not osr: print('ORPHAN — OK: 1:1 match')
-"
+python3 scripts/lint.py && python3 scripts/orphan-check.py
 ```
 
-If lint reports errors → fix them before reporting completion. (In **batch mode**, `ingest-one.py --finish` handles commit/push/embed per paper; run this lint+orphan block once per paper in Phase 2, or once at the end over the whole batch.)
+Both are fast, read-only, whole-repo scans (`lint.py` checks frontmatter completeness — accepts either `confidence` or `evidence_level`, preferring the latter; `orphan-check.py` checks PDF↔sources 1:1). If lint reports errors → fix them before reporting completion. (In **batch mode**, `ingest-one.py --finish` handles commit/push/embed per paper; run this lint+orphan block once per paper in Phase 2, or once at the end over the whole batch.)
 
 ---
 
@@ -301,10 +302,9 @@ If lint reports errors → fix them before reporting completion. (In **batch mod
 
 A new wiki page is invisible to semantic search until qmd re-indexes and embeds it.
 
-**Batch rule (important).** `qmd embed` re-embeds *every* changed doc in the repo each run, so calling it once per paper during a multi-paper batch wastes huge amounts of time (the wiki is edited daily by lints/audits, so each run re-embeds hundreds of unrelated docs). Therefore:
+**This manual block is for the single-paper serial path** (Steps 1–11 run by hand — no PHASE 2 script involved). Run it once, after Steps 1–9.
 
-- **Single paper** → run the block below after Steps 1–9.
-- **Batch (2+ papers, see Step 0)** → do Steps 1–9 for *every* paper first, and run this index-refresh block **exactly once, after the last paper**. Do NOT run `qmd update`/`qmd embed` between papers.
+**Batch mode does not use this block.** In Batch mode (§ PHASE 2 above), `ingest-one.py --finish <stem>` runs `qmd update && qmd embed` itself, once per paper — do not also run this block between (or after) papers. `qmd embed` is incremental (only changed docs), so per-paper calls are cheap, not a full re-embed. If the daemon leaves a backlog half-done across a large batch (session-expiry mid-pass, exit 0 ≠ complete), that's handled by checking `qmd status | grep Pending` after the whole batch and draining — see INGEST.md Phase 2 / § Step 5, not this block.
 
 Run after the wiki/sources files are written and lint passes:
 
@@ -335,11 +335,11 @@ Notes:
 Tell the user:
 ```
 ✅ Ingest complete: {stem}
-   Category  : {category}
-   Confidence: {confidence}
-   Lint      : OK {n} files, 0 errors
-   Index     : added to {section heading}
-   Search    : qmd re-indexed + embedded (searchable now)
+   Category      : {category}
+   Evidence Level: {evidence_level}
+   Lint          : OK {n} files, 0 errors
+   Index         : added to {section heading}
+   Search        : qmd re-indexed + embedded (searchable now)
 ```
 
 ---

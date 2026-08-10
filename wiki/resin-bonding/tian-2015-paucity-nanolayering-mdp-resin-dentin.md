@@ -6,7 +6,7 @@ date: 2015-12-23
 doi: 10.1177/0022034515623741
 source: tian-2015-paucity-nanolayering-mdp-resin-dentin.md
 category: [resin-bonding]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: true
 pmid: "26701351"

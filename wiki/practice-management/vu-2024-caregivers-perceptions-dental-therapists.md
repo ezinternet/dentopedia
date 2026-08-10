@@ -7,7 +7,7 @@ doi: ""
 pmid: "39123337"
 source: vu-2024-caregivers-perceptions-dental-therapists.md
 category: [practice-management]
-confidence: cross-sectional
+evidence_level: cross-sectional
 source_collection: pubmed-text
 full_text: false
 source_url: https://pubmed.ncbi.nlm.nih.gov/39123337/

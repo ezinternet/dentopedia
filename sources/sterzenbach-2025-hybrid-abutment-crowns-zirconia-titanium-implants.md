@@ -15,7 +15,7 @@ text_filename: sterzenbach-2025-hybrid-abutment-crowns-zirconia-titanium-implant
 
 ## Why Ingested
 
-첫 RCT로 two-piece 지르코니아 임플란트 본체 vs 티타늄 임플란트 본체를 동일한 screw-retained hybrid abutment crown(PEKK/티타늄 base + lithium disilicate crown) 프로토콜에서 직접 비교했다는 점에서 신규성이 있다 — 지르코니아군 누적 생존율이 티타늄 대비 10.7% 낮아 non-inferiority가 입증되지 않았고, 원인이 보철 실패가 아닌 임플란트 수준의 골유착 부전(3예)이었다는 점이 핵심. 기존 [[prosthetic-materials/hosseini-2022-zirconia-metal-implant-premolar-5year-rct]]는 지대주·크라운 재료(지르코니아 vs 금속-세라믹)를 비교한 연구로 임플란트 본체 재료 자체를 다루지 않아 직접 모순은 아니지만, "지르코니아=비열등"이라는 인상을 줄 수 있는 기존 지르코니아 낙관론에 대한 중요한 대비 사례로 함께 읽어야 한다. 어버트먼트 유지력 측면에서는 [[prosthetic-materials/selvi-2025-custom-stock-abutment-fatigue-sem]]과 함께 hybrid/screw-retained abutment의 기계적 신뢰성 논의를 보강한다.
+첫 RCT로 two-piece 지르코니아 임플란트 본체 vs 티타늄 임플란트 본체를 동일한 screw-retained hybrid abutment crown(PEKK/티타늄 base + lithium disilicate crown) 프로토콜에서 직접 비교했다는 점에서 신규성이 있다 — 지르코니아군 누적 생존율이 티타늄 대비 10.7% 낮아 non-inferiority가 입증되지 않았고, 원인이 보철 실패가 아닌 임플란트 수준의 골유착 부전(3예)이었다는 점이 핵심. 기존 [[prosthetic-materials/hosseini-2022-zirconia-metal-implant-premolar-5year-rct]]는 지대주·크라운 재료(지르코니아 vs 금속-세라믹)를 비교한 연구로 임플란트 본체 재료 자체를 다루지 않아 직접 모순은 아니지만, "지르코니아=비열등"이라는 인상을 줄 수 있는 기존 지르코니아 낙관론에 대한 중요한 대비 사례로 함께 읽어야 한다. 어버트먼트 유지력 측면에서는 [[prosthetic-materials/abutment-screw/selvi-2025-custom-stock-abutment-fatigue-sem]]과 함께 hybrid/screw-retained abutment의 기계적 신뢰성 논의를 보강한다.
 
 ## Three-line Summary
 
@@ -92,7 +92,7 @@ The prosthetic component (crown/abutment) performed comparably in both groups wi
 - Cites prior reports of zirconia implant osseointegration failure within 24 months (Jank & Hochgatterer; Koller et al.; Brunello et al.; Hossain et al.; Padhye et al.) as consistent with this study's findings.
 - Cites Mohseni et al. and Naumann et al. for prior data on titanium-implant lithium-disilicate hybrid abutment crown survival/technical complications, described as broadly consistent with this study's titanium-arm results.
 - Notes sparse existing head-to-head evidence directly comparing implant *materials* in two-piece screw-retained systems (Neugebauer et al.), and that EAO/German S3 guidelines had declined to recommend two-piece ceramic implants pending better evidence (Thiem et al.) — this RCT is framed as addressing that gap.
-- In this wiki: contrasts with [[prosthetic-materials/hosseini-2022-zirconia-metal-implant-premolar-5year-rct]] (a different comparison — zirconia vs metal-ceramic *abutment/crown* material on presumably shared implant substrate, not implant-body material — so not a direct contradiction, but relevant context for zirconia-implant optimism); complements [[prosthetic-materials/selvi-2025-custom-stock-abutment-fatigue-sem]] on hybrid/screw-retained abutment mechanical reliability.
+- In this wiki: contrasts with [[prosthetic-materials/hosseini-2022-zirconia-metal-implant-premolar-5year-rct]] (a different comparison — zirconia vs metal-ceramic *abutment/crown* material on presumably shared implant substrate, not implant-body material — so not a direct contradiction, but relevant context for zirconia-implant optimism); complements [[prosthetic-materials/abutment-screw/selvi-2025-custom-stock-abutment-fatigue-sem]] on hybrid/screw-retained abutment mechanical reliability.
 
 ## 7. Glossary
 

@@ -6,7 +6,7 @@ date: 2023-11-17
 doi: 10.3390/children10111821
 source: ronsivalle-2023-elastodontic-appliances-malocclusion-interception-children-review.md
 category: [orthodontics/myofunctional]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "38002912"

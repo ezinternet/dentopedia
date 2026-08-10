@@ -6,7 +6,7 @@ date: 2015-08-01
 doi: 10.1016/j.dental.2015.04.017
 source: sasse-2015-restoration-thickness-bonding-surface-fracture.md
 category: [veneers]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/sasse-2015-restoration-thickness-bonding-surface-fracture.pdf
 pdf_filename: sasse-2015-restoration-thickness-bonding-surface-fracture.pdf
 source_collection: external

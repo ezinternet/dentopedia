@@ -6,7 +6,7 @@ date: 2020-05-17
 doi: "10.1111/cid.12918"
 source: liang-2020-prevalence-associated-factors-retrospective.md
 category: [food-impaction]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/liang-2020-prevalence-associated-factors-retrospective.pdf
 pdf_filename: liang-2020-prevalence-associated-factors-retrospective.pdf
 source_collection: external

@@ -7,7 +7,7 @@ doi: 10.1111/prd.12449
 journal: Periodontol 2000 90(1):45-61
 source: apatzidou-2022-cigarette-smoking-periodontal-implant-review.md
 category: [periodontics]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/apatzidou-2022-cigarette-smoking-periodontal-implant-review.pdf
 pdf_filename: apatzidou-2022-cigarette-smoking-periodontal-implant-review.pdf
 source_collection: external
@@ -42,7 +42,7 @@ Periodontology 2000 narrative review providing the mechanism-focused complement 
 Narrative review structured around mechanisms; supplementary epidemiologic context.
 
 ## Results
-[합의수준] Mechanism summary:
+[확인] Mechanism summary:
 - Neutrophil function impaired
 - MMPs (especially MMP-8) elevated
 - Subgingival microbial community shifts
@@ -54,12 +54,12 @@ Epidemiologic: periodontitis risk ~2-6x; peri-implantitis risk significantly ele
 - Source data heterogeneity inherent to reviews
 
 ## Related Papers
-- [[implants/fan-2024-smoking-early-implant-failure-sr-ma]] — clinical OR.
-- [[implants/naseri-2020-smoking-levels-implant-failure-sr-ma]] — dose-response.
-- [[implants/caggiano-2022-smoking-cessation-periodontal-peri-implant-sr]] — cessation effect.
-- [[implants/galarraga-vinueza-2025-peri-implant-disease-risk-factors]] — peri-implant disease risk.
-- [[implants/derks-2015-peri-implant-health-disease-epidemiology]] — epidemiology.
-- [[implants/calciolari-2026-tobacco-smoking-smoke-free-products]] — 2026 SR+MA quantifying survival/CBL/peri-implantitis, updates the clinical evidence this review's mechanisms explain.
+- [[implants/survival/fan-2024-smoking-early-implant-failure-sr-ma]] — clinical OR.
+- [[implants/survival/naseri-2020-smoking-levels-implant-failure-sr-ma]] — dose-response.
+- [[implants/survival/caggiano-2022-smoking-cessation-periodontal-peri-implant-sr]] — cessation effect.
+- [[implants/peri-implantitis/galarraga-vinueza-2025-peri-implant-disease-risk-factors]] — peri-implant disease risk.
+- [[implants/peri-implantitis/derks-2015-peri-implant-health-disease-epidemiology]] — epidemiology.
+- [[implants/survival/calciolari-2026-tobacco-smoking-smoke-free-products]] — 2026 SR+MA quantifying survival/CBL/peri-implantitis, updates the clinical evidence this review's mechanisms explain.
 - [[periodontics/ye-2026-environmental-tobacco-smoke-periodontitis-nonsmokers]] — extends the mechanism to passive (ETS) exposure in non-smokers.
 - [[oral-microbiology/la-rosa-2026-electronic-cigarette-oral-microbiota]] — vaping-specific microbiome counterpart.
 - [[overviews/smoking-tobacco-periodontal-implant-overview]] — synthesis of the full smoking/tobacco-periodontal-implant evidence cluster.

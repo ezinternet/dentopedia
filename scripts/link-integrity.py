@@ -35,6 +35,10 @@ LOGS_DIR = WIKI_ROOT / "logs"
 KNOWN_DIRS = ["wiki", "sources", "agenda", "note-meeting", "slides", "peer-review"]
 SKIP_DIRS = {"_lint"}
 SKIP_PAGE_FILES = {"index.md"}
+# index.md 등재 의무에서만 면제되는 디렉터리 (링크 대상으로는 계속 유효 —
+# SKIP_DIRS에 넣으면 [[_meta/categories]] 같은 링크가 broken으로 잡힌다).
+# wiki/_meta/ 는 카테고리 라우팅 등 에이전트용 참조 문서이지 독자용 콘텐츠 페이지가 아니다.
+INDEX_EXEMPT_DIRS = {"_meta"}
 
 WIKILINK_RE = re.compile(r"\[\[([^\]]+)\]\]")
 
@@ -120,7 +124,13 @@ def main() -> int:
     if INDEX.exists():
         for raw in WIKILINK_RE.findall(INDEX.read_text(encoding="utf-8")):
             index_stems.add(link_to_stem(raw))
-    missing_from_index = sorted(s for s in pages if s not in index_stems)
+    # 등재 의무 면제: INDEX_EXEMPT_DIRS 하위 페이지. pages 자체에서는 빼지 않는다 —
+    # 빼면 그 페이지의 본문 위키링크가 broken 검사에서까지 누락되기 때문.
+    missing_from_index = sorted(
+        s for s, p in pages.items()
+        if s not in index_stems
+        and not any(part in INDEX_EXEMPT_DIRS for part in p.parts)
+    )
     # index는 wiki 페이지뿐 아니라 interactives(.html) 등도 참조 → known 기준으로 판정
     index_points_nowhere = sorted(s for s in index_stems if s not in known)
 

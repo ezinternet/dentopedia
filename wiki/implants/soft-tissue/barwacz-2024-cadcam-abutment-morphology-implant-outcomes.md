@@ -6,7 +6,7 @@ date: 2024-12-06
 doi: 10.1111/clr.14389
 source: barwacz-2024-cadcam-abutment-morphology-implant-outcomes.md
 category: [implants/soft-tissue]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: true
 pmid: "39641983"
@@ -81,5 +81,5 @@ This single-center, two-arm parallel RCT (University of Iowa, IRB #201302798) te
 ## Related Papers
 
 - [[implants/soft-tissue/misch-2025-abutment-height-emergence-angle-peri-implant-bone-loss]] — related evidence on abutment/emergence geometry and marginal bone loss; this RCT adds a controlled linear-vs-concave comparison with no significant MBL effect from morphology.
-- [[implants/siegenthaler-2022-convex-emergence-profile-mucosal-recession-rct]] — convex vs concave custom zirconia CAD/CAM abutment RCT (delayed provisionalization) found convex morphology associated with significantly higher mucosal recession (64.3% vs 14.3%, OR 12.6); this study's null linear-vs-concave result is consistent with convexity (not concavity) being the operative risk factor.
+- [[implants/soft-tissue/siegenthaler-2022-convex-emergence-profile-mucosal-recession-rct]] — convex vs concave custom zirconia CAD/CAM abutment RCT (delayed provisionalization) found convex morphology associated with significantly higher mucosal recession (64.3% vs 14.3%, OR 12.6); this study's null linear-vs-concave result is consistent with convexity (not concavity) being the operative risk factor.
 - [[implants/soft-tissue/bressan-2024-iao-consensus-peri-implant-soft-tissues]] — IAO consensus on peri-implant soft tissues; this RCT provides primary trial-level evidence for the abutment-material/morphology recommendations discussed there.

@@ -40,7 +40,7 @@ endodontic pain — diclofenac potassium 50mg이 ibuprofen 400mg보다 통증 fr
 RCT in irreversible pulpitis patients undergoing endodontic treatment; primary outcome PEP (postoperative endodontic pain); pain-free rates and VAS at multiple timepoints.
 
 ## 4. Key Results
-[근거강함]
+[확인]
 - Diclofenac potassium 50mg → significantly more patients pain-free vs ibuprofen 400mg
 - Diclofenac potassium → significantly lower mean pain scores at several timepoints
 - Conclusion: diclofenac potassium better analgesic for established irreversible pulpitis PEP

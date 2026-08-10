@@ -6,7 +6,7 @@ date: 2010-04-01
 doi: 10.1111/j.1600-0765.2009.01230.x
 source: fujita-2010-overeruption-periodontally-affected-unopposed-rats.md
 category: [occlusion]
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/fujita-2010-overeruption-periodontally-affected-unopposed-rats.pdf
 pdf_filename: fujita-2010-overeruption-periodontally-affected-unopposed-rats.pdf
 source_collection: external

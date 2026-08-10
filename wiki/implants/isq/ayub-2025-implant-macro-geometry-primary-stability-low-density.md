@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.4103/jispcd.jispcd_155_24
 source: ayub-2025-implant-macro-geometry-primary-stability-low-density.md
 category: [implants/isq]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: true
 pmid: "40433430"
@@ -82,4 +82,4 @@ The null hypothesis was rejected: all three metrics differed significantly acros
 
 ## Related Papers
 
-- [[implants/versah-protocols/rittipakorn-2025-clockwise-osseodensification-primary-stability-cadaveric]] — reinforces: complementary determinant of primary stability in low-density bone (surgical drilling technique / osseodensification axis vs this paper's implant macro-geometry axis).
+- [[implants/osseodensification/rittipakorn-2025-clockwise-osseodensification-primary-stability-cadaveric]] — reinforces: complementary determinant of primary stability in low-density bone (surgical drilling technique / osseodensification axis vs this paper's implant macro-geometry axis).

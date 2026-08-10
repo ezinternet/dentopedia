@@ -6,7 +6,7 @@ date: 2017-07-04
 doi: 10.1007/s00784-017-2164-5
 source: silva-2017-estimated-prevalence-halitosis-sr.md
 category: [halitosis]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/silva-2017-estimated-prevalence-halitosis-sr.pdf
 pdf_filename: silva-2017-estimated-prevalence-halitosis-sr.pdf
 source_collection: external

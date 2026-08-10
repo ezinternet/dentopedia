@@ -6,7 +6,7 @@ date: 2022-02-07
 doi: 10.18053/jctres.08.202202.002
 source: felix-2022-subantral-sinus-augmentation-hydraulic-lift-system.md
 category: sinus-lift/transcrestal
-confidence: case-report
+evidence_level: case-report
 pdf_path: /Users/oracleneo/llm-wiki/papers/felix-2022-subantral-sinus-augmentation-hydraulic-lift-system.pdf
 pdf_filename: felix-2022-subantral-sinus-augmentation-hydraulic-lift-system.pdf
 source_collection: external

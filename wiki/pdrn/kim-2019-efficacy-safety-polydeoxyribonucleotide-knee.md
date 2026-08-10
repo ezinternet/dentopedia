@@ -6,7 +6,7 @@ date: 2019-09-27
 doi: 10.1097/MD.0000000000017386
 source: kim-2019-efficacy-safety-polydeoxyribonucleotide-knee.md
 category: [pdrn]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/kim-2019-efficacy-safety-polydeoxyribonucleotide-knee.pdf
 pdf_filename: kim-2019-efficacy-safety-polydeoxyribonucleotide-knee.pdf
 source_collection: external

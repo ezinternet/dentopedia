@@ -1,0 +1,28 @@
+Title: Influence of pain duration and severity on oral health-related quality of life and patient satisfaction during adult treatment with clear aligners
+Authors: Caldas W, Bonin FA, Vianna CP, Shimizu RH, Trojan LC
+Year: 2024
+Journal: Progress in Orthodontics 25(1):18
+PMID: 38679672
+PMCID: PMC11056347
+DOI: 10.1186/s40510-024-00514-6
+
+ABSTRACT:
+This study aims to compare the impact of pain on quality of life and patient satisfaction during treatment with aligners. Ninety-four subjects in active treatment were invited to answer self-reported questions concerning pain severity and duration, occurrence of other signs and symptoms, and level of satisfaction with their treatment. Also, the OHIP-14 questionnaire was applied to assess patients' OHRQoL. Ninety-four patients (49 women and 45 men) answered the survey. Pain duration of 1-3 days was reported by 69.1% of patients (n=60). For those who reported pain (n=84), it was considered mild severity by 42.9% and moderate by 52.4%. Almost sixty-four percent of the sample were very satisfied with the aligner's aesthetics (n=60) and forty-nine percent were satisfied with treatment in general (n=46). Mean OHIP-14 score was 3.36 ± 2.54. OHRQoL was significantly associated with pain severity, whereas patients who reported having experienced moderate pain presented a significantly higher mean OHIP-14 score than those who reported having experienced mild pain (3.92 ± 1.93 and 2.69 ± 2.83, respectively; p=0.036). The "psychological discomfort" OHIP-14's domain was the most influenced by the level of pain. Pain severity significantly influenced OHRQoL, in adult patients under treatment with clear aligners. However, high levels of patient satisfaction were reported, regardless of pain duration or severity.
+
+METHODS:
+Cross-sectional study. 94 adult patients (≥18 years) under active treatment with ClearCorrect aligners at a private practice in Curitiba, Brazil (April 2020 – June 2022). Online electronic questionnaire sent via email; 50.6% response rate. Validated weighted OHIP-14 questionnaire for OHRQoL assessment (Brazilian Portuguese version; ICC=0.87, Cronbach α=0.91). Pain assessed via self-report: severity (mild/moderate/severe) and duration (no pain/1-3d/3-5d/>5d). Statistical analyses: Shapiro-Wilk normality, Fisher's exact tests, t-tests, one-way ANOVA. α=0.05.
+
+RESULTS:
+- 94 patients (49F, 45M), mean age 33.9 ± 6.3 years (range 21-54)
+- Pain duration 1-3 days after last aligner change: 69.1% (n=65)
+- Pain severity: 42.9% mild, 52.4% moderate (of those who reported pain)
+- Most common symptoms: gingival pressure 68.1%, tongue irritation 34.0%
+- Very satisfied with aligner aesthetics: 63.8%; satisfied with treatment results: 48.9%
+- Mean OHIP-14: 3.36 ± 2.54 (very low overall impact)
+- Pain severity significantly associated with OHIP-14 (p=0.036): moderate pain group 3.92±1.93 vs mild pain 2.69±2.83
+- Most affected OHIP-14 domain: "psychological discomfort"
+- Patient satisfaction NOT significantly influenced by pain duration or severity
+- 45.7% had prior fixed appliance treatment; 39 of those preferred aligners
+
+CONCLUSIONS:
+Pain severity significantly influenced OHRQoL in adult CA patients. However, patient satisfaction remained high regardless of pain duration or severity. The low OHIP-14 scores even for moderate/severe pain groups indicate that CA treatment does not substantially impair daily functioning.

@@ -6,7 +6,7 @@ date: 2024-06-24
 doi: 10.1038/s41598-024-65395-5
 journal: Scientific Reports 2024;14:14522
 source: nobre-2024-exploring-botulinum-toxin-impact-masseter.md
-confidence: rct
+evidence_level: rct
 category: botulinum-toxin
 pdf_path: /Users/oracleneo/llm-wiki/papers/nobre-2024-exploring-botulinum-toxin-impact-masseter.pdf
 pdf_filename: nobre-2024-exploring-botulinum-toxin-impact-masseter.pdf

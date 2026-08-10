@@ -49,7 +49,7 @@ RCT; 전치부·소구치 즉시식립; 이종골 충전군 vs 비충전군.
 소규모; 단기 추적.
 
 ## 6. Related Work
-- [[immediate-implant/sanz-2017-bone-graft-gap-immediate-implant-rct]] — related
+- [[immediate-implant/gap-grafting/sanz-2017-bone-graft-gap-immediate-implant-rct]] — related
 
 ## 7. Glossary
 flapless: 피판 없는 수술; xenograft: 이종골; buccal bone level: 협측 골 수준

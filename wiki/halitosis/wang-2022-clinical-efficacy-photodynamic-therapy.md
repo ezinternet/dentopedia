@@ -6,7 +6,7 @@ date: 2022-12-30
 doi: 10.1007/s10103-022-03700-2
 source: wang-2022-clinical-efficacy-photodynamic-therapy.md
 category: [halitosis]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/wang-2022-clinical-efficacy-photodynamic-therapy.pdf
 pdf_filename: wang-2022-clinical-efficacy-photodynamic-therapy.pdf
 source_collection: external

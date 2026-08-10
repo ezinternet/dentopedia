@@ -7,7 +7,7 @@ doi: 10.2344/anpr-65-03-06
 journal: "Anesth Prog 65(2)"
 source: bina-2018-true-allergy-amide-local-anesthetics-case.md
 category: [local-anesthesia]
-confidence: case-report
+evidence_level: case-report
 pdf_path: /Users/oracleneo/llm-wiki/papers/bina-2018-true-allergy-amide-local-anesthetics-case.pdf
 pdf_filename: bina-2018-true-allergy-amide-local-anesthetics-case.pdf
 source_collection: external
@@ -35,11 +35,11 @@ True allergy to amide LAs is extremely rare — most "LA allergy" reports reflec
 
 ## Summary
 
-[claude해석] True allergy to amide local anesthetics is extremely rare — the vast majority of "LA allergy" reports are reactions to epinephrine, vasovagal syncope, overdose toxicity, or to **additives** (metabisulfite in all epinephrine solutions; historically methylparaben). This case addresses the genuine edge case: a 43-year-old woman with an allergist's documented anaphylaxis to lidocaine, in whom ester testing was also declined (prior anaphylaxis during amide testing), leaving no caine anesthetic usable.
+[미검증] True allergy to amide local anesthetics is extremely rare — the vast majority of "LA allergy" reports are reactions to epinephrine, vasovagal syncope, overdose toxicity, or to **additives** (metabisulfite in all epinephrine solutions; historically methylparaben). This case addresses the genuine edge case: a 43-year-old woman with an allergist's documented anaphylaxis to lidocaine, in whom ester testing was also declined (prior anaphylaxis during amide testing), leaving no caine anesthetic usable.
 
-[근거강함] (case facts) The team used **1% diphenhydramine (DPH) + 1:100,000 epinephrine** (Malamed protocol: 2 mL DPH 50 mg/mL + 7.9 mL saline + 0.1 mL epi 1:1000 → 10 mL) by buccal-vestibule infiltration. Across 13 visits — extractions, composites, multiple root canals/retreatments, posts/cores, and crowns — adequate maxillary-infiltration anesthesia was achieved, letting the patient avoid general anesthesia. Root canals needed supplemental intrapulpal DPH (0.5–1.0 mL).
+[확인] (case facts) The team used **1% diphenhydramine (DPH) + 1:100,000 epinephrine** (Malamed protocol: 2 mL DPH 50 mg/mL + 7.9 mL saline + 0.1 mL epi 1:1000 → 10 mL) by buccal-vestibule infiltration. Across 13 visits — extractions, composites, multiple root canals/retreatments, posts/cores, and crowns — adequate maxillary-infiltration anesthesia was achieved, letting the patient avoid general anesthesia. Root canals needed supplemental intrapulpal DPH (0.5–1.0 mL).
 
-[claude해석] DPH is a viable but imperfect fallback: short duration (15–75 min), dose-dependent postoperative facial swelling (24-h diffuse swelling after an 8-mL first visit; ER workup negative; resolved in 24 h) and drowsiness, and burning on injection. Practical rules that emerged: cap volume at <5 mL of 1% DPH/visit, limit to ~1 tooth per session, confirm pulpal anesthesia with EPT in future use, and reserve IV sedation/GA for extensive cases. Generalizability is limited (n=1, subjective endpoints, some treated teeth nonvital).
+[미검증] DPH is a viable but imperfect fallback: short duration (15–75 min), dose-dependent postoperative facial swelling (24-h diffuse swelling after an 8-mL first visit; ER workup negative; resolved in 24 h) and drowsiness, and burning on injection. Practical rules that emerged: cap volume at <5 mL of 1% DPH/visit, limit to ~1 tooth per session, confirm pulpal anesthesia with EPT in future use, and reserve IV sedation/GA for extensive cases. Generalizability is limited (n=1, subjective endpoints, some treated teeth nonvital).
 
 ## Key Contributions
 
@@ -57,7 +57,7 @@ True allergy to amide LAs is extremely rare — most "LA allergy" reports reflec
 
 ## Results
 
-[근거강함] (reported case facts):
+[확인] (reported case facts):
 
 | Aspect | Finding |
 |---|---|
@@ -69,8 +69,8 @@ True allergy to amide LAs is extremely rare — most "LA allergy" reports reflec
 | Injection burning | Mild, every visit |
 | Volume cap adopted | <5 mL 1% DPH per visit |
 
-[claude해석] Outcomes were operator/patient-judged without EPT, and some procedures were on nonvital teeth — so this supports DPH as a usable fallback, not as an equivalent to lidocaine. For routine practice, the more important takeaway is to verify whether a reported "allergy" is true amide allergy (refer for allergist testing) before resorting to alternatives.
+[미검증] Outcomes were operator/patient-judged without EPT, and some procedures were on nonvital teeth — so this supports DPH as a usable fallback, not as an equivalent to lidocaine. For routine practice, the more important takeaway is to verify whether a reported "allergy" is true amide allergy (refer for allergist testing) before resorting to alternatives.
 
 ## Related Papers
 
-- [[drug/hwang-2023-proposal-clinical-guidelines-local-anesthesia-dentistry]] — refines: adds the rare amide-allergic / ester-untestable fallback pathway to the standard agent-selection guideline.
+- [[local-anesthesia/hwang-2023-proposal-clinical-guidelines-local-anesthesia-dentistry]] — refines: adds the rare amide-allergic / ester-untestable fallback pathway to the standard agent-selection guideline.

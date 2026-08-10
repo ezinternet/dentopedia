@@ -7,12 +7,12 @@ type: overview
 category: [overviews]
 tags: [osseodensification, densahbur, versah, sinus-lift, immediate-implant, septum-expansion, idr, protocol-selection, manufacturer-document]
 source_papers:
-  - wiki/implants/versah-protocols/versah-densah-sinus-lift-i-protocol-rbh-6mm-minimum.md
-  - wiki/implants/versah-protocols/versah-densah-sinus-lift-ii-protocol-rbh-4-5mm.md
-  - wiki/implants/versah-protocols/versah-combined-molar-septum-expansion-sinus-lift-protocol.md
-  - wiki/implants/versah-protocols/versah-idr-ii-immediate-dentoalveolar-restoration-protocol.md
-  - wiki/implants/versah-protocols/versah-immediate-implant-placement-protocol.md
-confidence: synthesis
+  - wiki/implants/osseodensification/versah-densah-sinus-lift-i-protocol-rbh-6mm-minimum.md
+  - wiki/implants/osseodensification/versah-densah-sinus-lift-ii-protocol-rbh-4-5mm.md
+  - wiki/implants/osseodensification/versah-combined-molar-septum-expansion-sinus-lift-protocol.md
+  - wiki/implants/osseodensification/versah-idr-ii-immediate-dentoalveolar-restoration-protocol.md
+  - wiki/implants/osseodensification/versah-immediate-implant-placement-protocol.md
+evidence_level: synthesis
 source: synthesis
 agenda: agenda/2026-06-01_versah-protocol-selection-map.md
 relations:
@@ -29,14 +29,14 @@ relations:
 > [!summary] 한국어 핵심요약
 > - Versah Densah® 제조사 프로토콜 카드 5종을 임상 상황 → 프로토콜 → 결정적 bur 차이 → peer-reviewed 근거 anchor로 라우팅하는 골밀도화 (Osseodensification, OD) 술기 선택 지도다.
 > - 5종: ① 경치조골 상악동 거상 I, ② 거상 II, ③ 구치 septum 확장 + 상악동 거상, ④ 즉시치조복원 (Immediate Dentoalveolar Restoration, IDR II), ⑤ 즉시식립 (immediate implant).
-> - 대전제 (가장 중요): 5종 모두 Versah LLC 발행 비-peer-reviewed marketing/narrative 문서로 정량 outcome·대조군이 없어 "술기 순서 참조"로만 쓰고, 임상 근거는 항상 교차링크된 peer-reviewed paper에서 가져온다. [근거강함, source 자체가 manufacturer document]
+> - 대전제 (가장 중요): 5종 모두 Versah LLC 발행 비-peer-reviewed marketing/narrative 문서로 정량 outcome·대조군이 없어 "술기 순서 참조"로만 쓰고, 임상 근거는 항상 교차링크된 peer-reviewed paper에서 가져온다. [확인, source 자체가 manufacturer document]
 > - 1차 분기 3축: (a) 상악동 거상 동반 여부, (b) 발치 동반 여부, (c) 잔존 해부 (잔존골높이 RBH·septum 폭·socket 벽 상태) — 이 셋이 정해지면 5개 중 하나로 수렴.
-> - Lift I vs II의 분기점은 pilot drill 하나 — RBH ≥6mm면 pilot로 access (①), 4–5mm면 얇은 잔존골 천공 위험 때문에 pilot 생략하고 Densah 버 자체로 진입 + allograft 추진 (②). [합의수준]
+> - Lift I vs II의 분기점은 pilot drill 하나 — RBH ≥6mm면 pilot로 access (①), 4–5mm면 얇은 잔존골 천공 위험 때문에 pilot 생략하고 Densah 버 자체로 진입 + allograft 추진 (②). [확인]
 > - 즉시식립 (⑤) vs IDR II (④) 의 갈림길은 협측벽 (buccal wall): 벽 보존 → apical engagement (⑤), 벽 전소실 + 얇은 biotype → 상악결절 (tuberosity) triple graft + 구개측 (palatal) anchorage (④).
-> - IDR II (④) 는 시멘트 보철 금기 (screw-retained만) 가 명시된 결정 차이이자 시험 포인트. [근거강함, 프로토콜 명시]
+> - IDR II (④) 는 시멘트 보철 금기 (screw-retained만) 가 명시된 결정 차이이자 시험 포인트. [확인, 프로토콜 명시]
 > - ③ 구치 septum 확장은 septum 폭 ≥4mm를 게이트로 즉시식립 + 상악동 거상을 한 술식에 합친 hybrid.
 > - 근거 다리: Lift I/II는 Starch-Jensen 2025 SR+MA (TSFE-OD가 식립 시 ISQ 유의 ↑, 생존 동등) + Mazor 2024 (RBH 얇을수록 막 천공 ↑) 로, IDR/septum/즉시식립은 darosa 2019·bleyan 2021로 검증.
-> - 공통 한계: proprietary Densah® 버 종속, 술자 의존도 높음 (특히 ③④), 적응증 컷오프 (RBH 6/4–5mm, septum 4mm) 가 제조사 정의이지 독립 RCT 검증값 아님 ([추정]).
+> - 공통 한계: proprietary Densah® 버 종속, 술자 의존도 높음 (특히 ③④), 적응증 컷오프 (RBH 6/4–5mm, septum 4mm) 가 제조사 정의이지 독립 RCT 검증값 아님 ([미검증]).
 > - 원장 메모: chairside 1차 분기는 "상악동 거상? → 발치 동반? → RBH/septum/socket 벽" 순으로 기억하고, 전체 evidence 그림은 자매 overview [[osseodensification-clinical-applications]] 에서 본다.
 
 ## Three-line Summary
@@ -58,7 +58,7 @@ Lift I(RBH ≥6 mm, pilot 사용) vs Lift II(4–5 mm, pilot 생략 + Densah 직
 ---
 
 > [!warning] 근거 수준 전제 — 5종 모두 제조사 문서
-> 이 overview가 묶는 5개 source는 전부 Versah LLC가 발행한 임상 프로토콜 카드(2-page, REV06~09)다. peer-reviewed 연구가 아니라 marketing/narrative 문서이며 정량적 outcome·대조군이 없다. 본 지도는 "술기 순서 참조"로만 쓰고, 임상 판단의 근거는 항상 교차 링크된 peer-reviewed paper와 [[osseodensification-clinical-applications]] evidence overview에서 가져온다. [근거강함, source 자체가 manufacturer document임]
+> 이 overview가 묶는 5개 source는 전부 Versah LLC가 발행한 임상 프로토콜 카드(2-page, REV06~09)다. peer-reviewed 연구가 아니라 marketing/narrative 문서이며 정량적 outcome·대조군이 없다. 본 지도는 "술기 순서 참조"로만 쓰고, 임상 판단의 근거는 항상 교차 링크된 peer-reviewed paper와 [[osseodensification-clinical-applications]] evidence overview에서 가져온다. [확인, source 자체가 manufacturer document임]
 
 ---
 
@@ -91,7 +91,7 @@ graph TD
     SOCKET -->|"buccal wall 전소실<br/>+ thin biotype/recession"| P4["④ IDR II<br/>(tuberosity triple graft)"]
 ```
 
-1차 분기축은 세 가지다: **(a) 상악동 거상 동반 여부**, **(b) 발치 동반 여부**, **(c) 잔존 해부(RBH·septum·socket 벽)**. 이 셋이 정해지면 5개 중 하나로 수렴한다. [합의수준, 제조사 적응증 정의 기반]
+1차 분기축은 세 가지다: **(a) 상악동 거상 동반 여부**, **(b) 발치 동반 여부**, **(c) 잔존 해부(RBH·septum·socket 벽)**. 이 셋이 정해지면 5개 중 하나로 수렴한다. [확인, 제조사 적응증 정의 기반]
 
 ---
 
@@ -109,15 +109,15 @@ graph TD
 
 세 쌍의 핵심 대비:
 
-- **Lift I vs II** — 분기점은 pilot drill 하나다. RBH ≥6 mm면 pilot로 access, 4–5 mm면 얇은 잔존골 천공 위험 때문에 pilot 생략하고 Densah 버 자체로 진입 + allograft 추진 추가. [합의수준]
-- **즉시식립(⑤) vs IDR II(④)** — 둘 다 발치와지만 buccal wall이 갈림길. 벽 보존 시 apical engagement(⑤), 벽 전소실+얇은 biotype 시 tuberosity triple graft + palatal anchorage(④). IDR II는 cement 보철 **금기**가 명시 차이. [근거강함, 프로토콜 명시]
-- **③의 위치** — 구치 발치 + septum이라는 특수 해부에서 ④/⑤(즉시식립)와 ①/②(상악동 거상)를 한 술식에 합친 hybrid. septum ≥4 mm가 게이트. [합의수준]
+- **Lift I vs II** — 분기점은 pilot drill 하나다. RBH ≥6 mm면 pilot로 access, 4–5 mm면 얇은 잔존골 천공 위험 때문에 pilot 생략하고 Densah 버 자체로 진입 + allograft 추진 추가. [확인]
+- **즉시식립(⑤) vs IDR II(④)** — 둘 다 발치와지만 buccal wall이 갈림길. 벽 보존 시 apical engagement(⑤), 벽 전소실+얇은 biotype 시 tuberosity triple graft + palatal anchorage(④). IDR II는 cement 보철 **금기**가 명시 차이. [확인, 프로토콜 명시]
+- **③의 위치** — 구치 발치 + septum이라는 특수 해부에서 ④/⑤(즉시식립)와 ①/②(상악동 거상)를 한 술식에 합친 hybrid. septum ≥4 mm가 게이트. [확인]
 
 ---
 
 ## 3. Manufacturer → Evidence 다리 — 각 프로토콜을 검증하는 peer-reviewed anchor
 
-제조사 카드의 술기를 임상 근거로 받쳐주는 paper 매핑. 프로토콜 카드 자체는 [미검증] 수준이고, 아래 anchor가 [근거강함]~[합의수준]을 제공한다.
+제조사 카드의 술기를 임상 근거로 받쳐주는 paper 매핑. 프로토콜 카드 자체는 [미검증] 수준이고, 아래 anchor가 [확인]~[확인]을 제공한다.
 
 | 프로토콜 | 검증 anchor (peer-reviewed) | anchor가 말해주는 것 |
 |----------|------------------------------|----------------------|
@@ -137,11 +137,11 @@ graph TD
 
 [[feedback_wiki-living-document]] 원칙으로 명시:
 
-- **non-peer-reviewed**: 5개 모두 Versah LLC marketing 문서. 정량 outcome·대조군·통계 없음. 술기 순서 참조용. [근거강함]
-- **proprietary bur 종속**: Densah® 버 전용. 타 bur 시스템에 비일반화. [근거강함]
-- **operator-dependent 편차 큼**: 특히 ④ IDR II(tuberosity triple graft 채취 + palatal-only anchorage)와 ③(동시 septum 확장+거상)은 술자 의존도가 높고 outcome 분산이 정량화되지 않음. [claude해석]
-- **적응증 경계의 근거 빈약**: Lift I/II의 RBH 6 mm·4–5 mm 컷오프, septum 4 mm 컷오프가 제조사 정의이고 독립 RCT로 검증된 임계값이 아님. [추정]
-- **즉시식립 socket 조건**: ⑤의 apical engagement는 apical bone이 충분할 때만 성립. thin buccal plate(<1 mm)에서 OD lateral compaction이 plate를 손상시킬 수 있음 — Type 1·thick plate 한정 [claude해석]. 천공·thin-bone 위험은 [[mazor-2024-maxillary-sinus-membrane-perforation-osseodensification]]로 보강.
+- **non-peer-reviewed**: 5개 모두 Versah LLC marketing 문서. 정량 outcome·대조군·통계 없음. 술기 순서 참조용. [확인]
+- **proprietary bur 종속**: Densah® 버 전용. 타 bur 시스템에 비일반화. [확인]
+- **operator-dependent 편차 큼**: 특히 ④ IDR II(tuberosity triple graft 채취 + palatal-only anchorage)와 ③(동시 septum 확장+거상)은 술자 의존도가 높고 outcome 분산이 정량화되지 않음. [미검증]
+- **적응증 경계의 근거 빈약**: Lift I/II의 RBH 6 mm·4–5 mm 컷오프, septum 4 mm 컷오프가 제조사 정의이고 독립 RCT로 검증된 임계값이 아님. [미검증]
+- **즉시식립 socket 조건**: ⑤의 apical engagement는 apical bone이 충분할 때만 성립. thin buccal plate(<1 mm)에서 OD lateral compaction이 plate를 손상시킬 수 있음 — Type 1·thick plate 한정 [미검증]. 천공·thin-bone 위험은 [[mazor-2024-maxillary-sinus-membrane-perforation-osseodensification]]로 보강.
 
 ---
 
@@ -157,19 +157,19 @@ graph TD
 ---
 
 ## Related Papers
-- [[implants/versah-protocols/versah-densah-sinus-lift-i-protocol-rbh-6mm-minimum]] — ① Sinus Lift I 카드
-- [[implants/versah-protocols/versah-densah-sinus-lift-ii-protocol-rbh-4-5mm]] — ② Sinus Lift II 카드
-- [[implants/versah-protocols/versah-combined-molar-septum-expansion-sinus-lift-protocol]] — ③ 구치 septum 확장+거상 카드
-- [[implants/versah-protocols/versah-idr-ii-immediate-dentoalveolar-restoration-protocol]] — ④ IDR II 카드
-- [[implants/versah-protocols/versah-immediate-implant-placement-protocol]] — ⑤ 즉시식립 카드
+- [[implants/osseodensification/versah-densah-sinus-lift-i-protocol-rbh-6mm-minimum]] — ① Sinus Lift I 카드
+- [[implants/osseodensification/versah-densah-sinus-lift-ii-protocol-rbh-4-5mm]] — ② Sinus Lift II 카드
+- [[implants/osseodensification/versah-combined-molar-septum-expansion-sinus-lift-protocol]] — ③ 구치 septum 확장+거상 카드
+- [[implants/osseodensification/versah-idr-ii-immediate-dentoalveolar-restoration-protocol]] — ④ IDR II 카드
+- [[implants/osseodensification/versah-immediate-implant-placement-protocol]] — ⑤ 즉시식립 카드
 - [[overviews/osseodensification-clinical-applications]] — **자매 overview (evidence 축, why)**
 - [[sinus-lift/transcrestal/starch-jensen-2025-transcrestal-sinus-osseodensification-meta-analysis]] — sub-antral SR+MA
 - [[sinus-lift/transcrestal/mazor-2024-maxillary-sinus-membrane-perforation-osseodensification]] — 천공 위험
 - [[sinus-lift/transcrestal/gaspar-2025-osseodensification-crestal-maxillary-sinus-elevation-narrative-review]] — 경치조골 OD narrative
-- [[immediate-implant/bleyan-2021-molar-septum-expansion-osseodensification-immediate-implant]] — septum-OD case series
-- [[immediate-implant/darosa-2019-immediate-dentoalveolar-restoration-osseodensification-periodontal]] — IDR rationale
-- [[implants/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — 메커니즘 원위논문
-- [[implants/fontes-pereira-2023-osseodensification-osteotomy-alternative-sr]] — SR spine
+- [[immediate-implant/molar-septum/bleyan-2021-molar-septum-expansion-osseodensification-immediate-implant]] — septum-OD case series
+- [[immediate-implant/gap-grafting/darosa-2019-immediate-dentoalveolar-restoration-osseodensification-periodontal]] — IDR rationale
+- [[implants/osseodensification/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — 메커니즘 원위논문
+- [[implants/osseodensification/fontes-pereira-2023-osseodensification-osteotomy-alternative-sr]] — SR spine
 - [[overviews/sinus-lift-technique-selection]] — sinus 술식 선택
 - [[overviews/immediate-implant-decision-ladder]] — 즉시식립 결정
 - [[overviews/d4-bone-densah-protocol]] — D4 chairside 인터랙티브

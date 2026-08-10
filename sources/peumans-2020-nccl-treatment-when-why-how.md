@@ -47,7 +47,7 @@ NCCL 관리는 다인성 병인 이해가 핵심이고 접착 composite 수복�
 - No quantitative outcomes in abstract; qualitative clinical guidance. General indication to place composite for NCCLs based on esthetics + clinical performance.
 
 ## 5. Limitations and Future Work
-- ABSTRACT-ONLY ingest; full methodology/results not verified. Claims should be treated as [합의수준] pending full-text confirmation.
+- ABSTRACT-ONLY ingest; full methodology/results not verified. Claims should be treated as [확인] pending full-text confirmation.
 
 ## 6. Related Work
 - Peumans 2023 (CUBQ 3-yr RCT, same group), Nascimento 2016, Goodacre 2022.

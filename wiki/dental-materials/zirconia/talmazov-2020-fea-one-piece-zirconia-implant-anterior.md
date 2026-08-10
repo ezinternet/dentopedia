@@ -6,7 +6,7 @@ date: 2020-02-24
 doi: 10.1371/journal.pone.0229360
 source: talmazov-2020-fea-one-piece-zirconia-implant-anterior.md
 category: [dental-materials/zirconia]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/talmazov-2020-fea-one-piece-zirconia-implant-anterior.pdf
 pdf_filename: talmazov-2020-fea-one-piece-zirconia-implant-anterior.pdf
 source_collection: external

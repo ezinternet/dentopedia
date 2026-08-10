@@ -6,7 +6,7 @@ date: 2024-05-01
 doi: 10.1016/j.identj.2024.04.008
 source: butsabul-2024-clear-aligner-root-resorption-cbct-sr-ma.md
 category: [orthodontics/clear-aligner]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "38692962"

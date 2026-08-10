@@ -84,10 +84,10 @@ Implant site distribution: upper maxilla 81%; posterior 75%; most frequent sites
 
 ## 6. Related Work
 
-- [[immediate-implant/saijeva-2020-immediate-implant-placement-non-infected-sockets]] — SR+MA that cites this paper; confirms equivalence across 9 cohorts
-- [[immediate-implant/almugeiren-2024-placement-immediate-dental-implants-extraction]] — MA that cites "Camara" as the key acute-infection RCT (100 patients, no retrograde peri-implantitis)
-- [[immediate-implant/pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma]] — 2024 SR+MA; most comprehensive update
-- [[immediate-implant/lee-2018-comparison-immediate-implant-placement-infected]] — earlier SR from Seoul National University
+- [[immediate-implant/infected-socket/saijeva-2020-immediate-implant-placement-non-infected-sockets]] — SR+MA that cites this paper; confirms equivalence across 9 cohorts
+- [[immediate-implant/infected-socket/almugeiren-2024-placement-immediate-dental-implants-extraction]] — MA that cites "Camara" as the key acute-infection RCT (100 patients, no retrograde peri-implantitis)
+- [[immediate-implant/infected-socket/pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma]] — 2024 SR+MA; most comprehensive update
+- [[immediate-implant/infected-socket/lee-2018-comparison-immediate-implant-placement-infected]] — earlier SR from Seoul National University
 
 ## 7. Glossary
 

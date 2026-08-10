@@ -6,7 +6,7 @@ date: 2024-12-01
 doi: 10.1016/j.prosdent.2024.07.001
 source: qian-2024-anterior-maxillary-implants-placement-loading-nma.md
 category: [immediate-implant]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/qian-2024-anterior-maxillary-implants-placement-loading-nma.pdf
 pdf_filename: qian-2024-anterior-maxillary-implants-placement-loading-nma.pdf
 source_collection: external
@@ -47,8 +47,8 @@ PRISMA-NMA. Bayesian/frequentist NMA framework. SUCRA ranking. Risk of bias.
 
 ## Related Papers
 - [[immediate-implant/esthetic-soft-tissue/hamilton-2023-type1a-immediate-implant-immediate-loading-esthetic-sr-ma]] — ITI Type 1A selection criteria
-- [[immediate-implant/wittneben-2023-immediate-implant-loaded-single-crown-sr]] — Type 1A clinical performance
-- [[implants/zhou-2021-placement-loading-protocols-single-implants-sr]] — site-specific timing SR
+- [[immediate-implant/loading-protocol/wittneben-2023-immediate-implant-loaded-single-crown-sr]] — Type 1A clinical performance
+- [[implants/loading-protocol/zhou-2021-placement-loading-protocols-single-implants-sr]] — site-specific timing SR
 
 ## Sources
 - Source: 

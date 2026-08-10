@@ -45,8 +45,8 @@ Quantifies site-by-site variation; buccal plate predominantly thin in anterior m
 Descriptive; no outcome correlation; single-center cohort.
 
 ## 6. Related Work
-- [[immediate-implant/shafizadeh-2021-alveolar-bone-thickness-healthy-sr]]
-- [[immediate-implant/altarawneh-2018-bone-dimensions-anterior-maxilla-cbct]]
+- [[immediate-implant/anatomic-assessment/shafizadeh-2021-alveolar-bone-thickness-healthy-sr]]
+- [[immediate-implant/anatomic-assessment/altarawneh-2018-bone-dimensions-anterior-maxilla-cbct]]
 
 ## 7. Glossary
 - **IIP:** Immediate Implant Placement — placement at the time of tooth extraction.

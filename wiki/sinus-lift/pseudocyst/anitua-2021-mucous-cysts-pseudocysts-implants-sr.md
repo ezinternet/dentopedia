@@ -6,7 +6,7 @@ date: 2021-05-01
 doi: 10.4317/medoral.24123
 journal: Med Oral Patol Oral Cir Bucal 26(3):e276-283
 source: anitua-2021-mucous-cysts-pseudocysts-implants-sr.md
-confidence: sr
+evidence_level: sr
 category: [sinus-lift/pseudocyst]
 pdf_path: /Users/oracleneo/llm-wiki/papers/anitua-2021-mucous-cysts-pseudocysts-implants-sr.pdf
 pdf_filename: anitua-2021-mucous-cysts-pseudocysts-implants-sr.pdf
@@ -58,9 +58,9 @@ Cyst 발견 시 술자의 1차 질문 "이게 implant 위험인가?"에 대한 S
 ```
 
 ## Strengths and Caveats
-[합의수준] Med Oral Patol Oral Cir Bucal — 중간 IF지만 SR로서 분야 인용 많음
-[근거강함] Stratified search·다년도 cohort 통합
-[claude해석] RCT 부족과 study heterogeneity로 인해 "위험 없음"보다 "유의한 위험 미확인"이 더 정확
+[확인] Med Oral Patol Oral Cir Bucal — 중간 IF지만 SR로서 분야 인용 많음
+[확인] Stratified search·다년도 cohort 통합
+[미검증] RCT 부족과 study heterogeneity로 인해 "위험 없음"보다 "유의한 위험 미확인"이 더 정확
 [미검증] 낭종 size·type별 risk stratification은 본 SR 이후 cohort들 (Fu 2022·2025)이 보강
 
 ## Related Papers

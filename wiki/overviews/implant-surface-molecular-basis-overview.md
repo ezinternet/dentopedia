@@ -6,15 +6,15 @@ date: 2026-07-07
 doi: ""
 source: ""
 category: [overviews]
-confidence: synthesis
+evidence_level: synthesis
 source_collection: internal
 tags: [implants, surface-treatment, osseointegration, roughness, cxcr4, sdf1, molecular-mechanism]
 relations:
   - type: extends
     target: implant-surface-comparison
-  - type: reinforces
+  - type: refines
     target: koshy-2015-dental-implant-surfaces-overview
-  - type: reinforces
+  - type: refines
     target: ballo-2011-dental-implant-surfaces-physicochemical-biological
 ---
 
@@ -197,6 +197,11 @@ The molecular mechanism page has limits that the clinical overview must supply:
 4. **Hydrophilic surface variants**: SLActive and CA surfaces were not fully characterized in either source paper; their enhanced early stability is detailed in [[overviews/implant-surface-comparison]].
 
 ## Related Papers
+
+
+### 신규 ingest cluster (2026-07-15)
+
+- [[implants/surface/beckwith-2024-implant-coatings-affect-healing]] — Umbrella review (11 SRs, abstract-only): only weak evidence coatings (HA/calcium phosphate) improve osseointegration or reduce MBL, high heterogeneity/bias — too weak to guide coating selection
 
 - [[overviews/implant-surface-comparison]] — clinical decision matrix (15+ papers, SLA/CA/UV-PF/OD outcomes); this page is the mechanistic substrate for that matrix
 - [[implants/surface/koshy-2015-dental-implant-surfaces-overview]] — additive/subtractive/material-modification taxonomy; Sa 1–2 µm optimum; HA delamination

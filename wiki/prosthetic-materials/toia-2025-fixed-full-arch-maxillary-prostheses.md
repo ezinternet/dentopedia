@@ -6,7 +6,7 @@ date: 2024-11-24
 doi: 10.1111/clr.14383
 source: toia-2025-fixed-full-arch-maxillary-prostheses.md
 category: [prosthetic-materials]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/toia-2025-fixed-full-arch-maxillary-prostheses.pdf
 pdf_filename: toia-2025-fixed-full-arch-maxillary-prostheses.pdf
 source_collection: external
@@ -68,5 +68,5 @@ Authors' conclusion: FCDs supported by four implants are non-inferior to six imp
 ## Related Papers
 
 - [[prosthetic-materials/tomar-2026-prosthetic-complications-complete-arch-umbrella]] — umbrella review of SRs on implant-supported complete-arch prostheses (≥5-year follow-up); found implant number (4 vs ≥5) did not significantly affect survival or bone loss, consistent with this RCT's 5-year MBL non-inferiority finding between 4-I and 6-I.
-- [[implants/mehta-2021-tilted-axial-implants-edentulous-maxilla-sr-ma]] — SR+MA on tilted vs axial implant configuration in edentulous maxilla; relevant to the broader full-arch implant-number/configuration decision space that this RCT addresses directly with 4 vs 6 implants.
+- [[implants/full-arch/mehta-2021-tilted-axial-implants-edentulous-maxilla-sr-ma]] — SR+MA on tilted vs axial implant configuration in edentulous maxilla; relevant to the broader full-arch implant-number/configuration decision space that this RCT addresses directly with 4 vs 6 implants.
 - Toia et al. 2021 (same multicenter cohort, 3-year interim results) — companion paper reporting earlier follow-up of this same trial; not yet ingested into the wiki as of this page's creation (2026-07-10).

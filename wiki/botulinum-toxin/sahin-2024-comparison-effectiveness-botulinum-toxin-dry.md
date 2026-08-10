@@ -6,7 +6,7 @@ date: 2024-12-12
 doi: 10.22514/jofph.2024.043
 journal: J Oral Facial Pain Headache 2024;38(4):101-110
 source: sahin-2024-comparison-effectiveness-botulinum-toxin-dry.md
-confidence: rct
+evidence_level: rct
 category: botulinum-toxin
 pdf_path: /Users/oracleneo/llm-wiki/papers/sahin-2024-comparison-effectiveness-botulinum-toxin-dry.pdf
 pdf_filename: sahin-2024-comparison-effectiveness-botulinum-toxin-dry.pdf

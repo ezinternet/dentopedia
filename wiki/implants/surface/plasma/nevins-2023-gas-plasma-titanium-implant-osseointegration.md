@@ -6,7 +6,7 @@ date: 2023-10-01
 doi: 10.3390/bioengineering10101181
 source: nevins-2023-gas-plasma-titanium-implant-osseointegration.md
 category: [implants/surface/plasma]
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/nevins-2023-gas-plasma-titanium-implant-osseointegration.pdf
 pdf_filename: nevins-2023-gas-plasma-titanium-implant-osseointegration.pdf
 source_collection: external

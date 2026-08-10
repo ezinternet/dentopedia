@@ -6,7 +6,7 @@ date: 2009-01-01
 doi: 10.1016/j.archoralbio.2008.07.010
 source: fujita-2009-supraposition-unopposed-molars-young-adult-rats.md
 category: [occlusion]
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/fujita-2009-supraposition-unopposed-molars-young-adult-rats.pdf
 pdf_filename: fujita-2009-supraposition-unopposed-molars-young-adult-rats.pdf
 source_collection: external

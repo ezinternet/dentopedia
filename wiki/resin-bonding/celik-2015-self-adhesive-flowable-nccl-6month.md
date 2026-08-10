@@ -7,7 +7,7 @@ doi: "10.3290/j.jad.a34556"
 pmid: "26258177"
 source: celik-2015-self-adhesive-flowable-nccl-6month.md
 category: resin-bonding
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/celik-2015-self-adhesive-flowable-nccl-6month.pdf
 pdf_filename: celik-2015-self-adhesive-flowable-nccl-6month.pdf
 source_collection: external

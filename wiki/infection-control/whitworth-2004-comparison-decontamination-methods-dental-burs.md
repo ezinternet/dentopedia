@@ -6,7 +6,7 @@ date: 2004-11-27
 doi: 10.1038/sj.bdj.4811832
 source: whitworth-2004-comparison-decontamination-methods-dental-burs.md
 category: [infection-control]
-confidence: in-vitro
+evidence_level: in-vitro
 text_path: /Users/oracleneo/llm-wiki/papers/whitworth-2004-comparison-decontamination-methods-dental-burs.txt
 text_filename: whitworth-2004-comparison-decontamination-methods-dental-burs.txt
 source_collection: pubmed-text

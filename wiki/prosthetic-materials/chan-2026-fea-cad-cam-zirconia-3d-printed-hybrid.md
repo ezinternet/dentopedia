@@ -6,7 +6,7 @@ date: 2026-04-01
 doi: 10.1186/s12903-026-07684-1
 source: chan-2026-fea-cad-cam-zirconia-3d-printed-hybrid.md
 category: [prosthetic-materials]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/chan-2026-fea-cad-cam-zirconia-3d-printed-hybrid.pdf
 pdf_filename: chan-2026-fea-cad-cam-zirconia-3d-printed-hybrid.pdf
 source_collection: external
@@ -45,5 +45,5 @@ Crown VMS 102–214 MPa; CAD/CAM custom abutment 45–423 MPa; abutment screw 15
 FEA idealizations; linear elasticity; bone stress relatively flat across groups limits clinical conclusions on bone biology.
 
 ## Related Papers
-- [[prosthetic-materials/ziada-2025-abutment-material-stress-distribution-fea]]
-- [[implants/baki-2025-all-on-4-trefoil-five-implant-fea]]
+- [[prosthetic-materials/abutment-screw/ziada-2025-abutment-material-stress-distribution-fea]]
+- [[implants/full-arch/baki-2025-all-on-4-trefoil-five-implant-fea]]

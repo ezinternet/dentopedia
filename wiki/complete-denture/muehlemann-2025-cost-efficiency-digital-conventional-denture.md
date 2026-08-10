@@ -6,7 +6,7 @@ date: 2025-12-10
 doi: 10.1111/jopr.70074
 source: muehlemann-2025-cost-efficiency-digital-conventional-denture.md
 category: [complete-denture]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "41368723"

@@ -6,7 +6,7 @@ date: 2023-09-14
 doi: 10.1098/rstb.2022.0549
 source: panagiotopoulou-2023-dynamic-fea-macaque-mandible-mastication.md
 category: [occlusion]
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/panagiotopoulou-2023-dynamic-fea-macaque-mandible-mastication.pdf
 pdf_filename: panagiotopoulou-2023-dynamic-fea-macaque-mandible-mastication.pdf
 source_collection: external

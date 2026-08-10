@@ -6,7 +6,7 @@ date: 2021-05-01
 doi: 10.1016/j.prosdent.2021.05.008
 source: revilla-leon-2021-artificial-intelligence-implant-dentistry-sr.md
 category: [digital-workflow]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/revilla-leon-2021-artificial-intelligence-implant-dentistry-sr.pdf
 pdf_filename: revilla-leon-2021-artificial-intelligence-implant-dentistry-sr.pdf
 source_collection: external

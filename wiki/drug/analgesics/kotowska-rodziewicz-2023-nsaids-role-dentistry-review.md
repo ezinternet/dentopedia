@@ -6,7 +6,7 @@ date: 2023-06-25
 doi: 10.12659/MSM.940635
 journal: Medical Science Monitor 29:e940635
 source: kotowska-rodziewicz-2023-nsaids-role-dentistry-review.md
-confidence: narrative-review
+evidence_level: narrative-review
 category: [drug/analgesics]
 pdf_path: /Users/oracleneo/llm-wiki/papers/kotowska-rodziewicz-2023-nsaids-role-dentistry-review.pdf
 pdf_filename: kotowska-rodziewicz-2023-nsaids-role-dentistry-review.pdf
@@ -82,6 +82,6 @@ Secondary:  NF-kB inhibition → ↓ TNF-α, IL-6, IL-1β
 - Advantage: avoids systemic GI, renal, cardiovascular, antiplatelet side effects
 
 ## Related Papers
-- [[drug/gupta-2022-dental-management-cardiovascular-disease]] — NSAIDs ↓ antihypertensive effect; interaction with epinephrine
-- [[drug/ghimire-2022-medically-compromised-prosthodontic-patients]] — NSAIDs contraindicated in CKD, AERD, active liver disease
-- [[drug/ufcd-2019-medically-complex-patients-management-guidelines]] — institutional guidance on analgesic selection per systemic condition
+- [[drug/anticoagulants/gupta-2022-dental-management-cardiovascular-disease]] — NSAIDs ↓ antihypertensive effect; interaction with epinephrine
+- [[drug/mronj/ghimire-2022-medically-compromised-prosthodontic-patients]] — NSAIDs contraindicated in CKD, AERD, active liver disease
+- [[drug/mronj/ufcd-2019-medically-complex-patients-management-guidelines]] — institutional guidance on analgesic selection per systemic condition

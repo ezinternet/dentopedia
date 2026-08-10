@@ -1,0 +1,35 @@
+Title: What do they know? Evaluation of patient and clinician management of direct oral anti-coagulant and antiplatelets therapy prior to dental extractions.
+
+Authors: Shenal Radia (Liverpool University Dental Hospital, Pembroke Pl, Liverpool, L3 5PS, United Kingdom); Pippa Cullingham (Liverpool University Dental Hospital, Pembroke Pl, Liverpool, L3 5PS, United Kingdom)
+
+Journal: British Dental Journal (Br Dent J)
+Publication date: 2026-04-17
+DOI: 10.1038/s41415-026-9537-6
+PMID: 41998416
+PMCID: none (no PMC full text available)
+Article types: Journal Article
+Language: eng
+Source: PubMed abstract (retrieved via PubMed MCP). NOTE: ABSTRACT ONLY — full text was not retrievable (no PMCID).
+
+ABSTRACT
+
+Introduction
+Managing dental extractions in patients prescribed anticoagulant or antiplatelet medications poses challenges due to the risk of post-operative bleeding. Direct oral anticoagulants (DOACs) are increasingly prescribed, yet variations in patient understanding and clinician adherence to guidelines is unexplored.
+
+Aims
+To evaluate clinician and patient management of DOAC and antiplatelet medications during dental extractions, assess patient understanding, and explore post-operative outcomes.
+
+Materials and methods
+A three-month prospective service evaluation at Liverpool University Dental Hospital assessed 26 patients on anticoagulant/antiplatelet therapy. Data collated included patient demographics, DOAC/antiplatelet medication, treatment plan, and clinician advice regarding DOAC/antiplatelet management. Patients completed questionnaires on medication understanding and were contacted on days one and five post-extraction to report complications.
+
+Results
+Twenty-four patients underwent extractions, with most requiring three or fewer routine extractions. Six patients lacked initial information about their medication, and only eleven were aware of its bleeding risks. Three patients altered their medication regimen against clinician advice. Four patients experienced minor bleeding on day one which was self-managed. No patients reported bleeding beyond day one.
+
+Discussion
+Findings highlight gaps in patient education regarding their DOAC/antiplatelet medication and the need for improved, multimodal information delivery. Local haemostatic measures were effective in minimising complications.
+
+Conclusion
+Enhanced patient education, adherence to guidelines, and robust documentation can improve outcomes and minimise risks in dental procedures for this patient group.
+
+Retrieved from PubMed: https://pubmed.ncbi.nlm.nih.gov/41998416/
+DOI link: https://doi.org/10.1038/s41415-026-9537-6

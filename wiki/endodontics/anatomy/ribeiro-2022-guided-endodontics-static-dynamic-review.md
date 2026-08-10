@@ -6,7 +6,7 @@ date: 2022-09-15
 doi: 10.3390/jpm12091516
 source: ribeiro-2022-guided-endodontics-static-dynamic-review.md
 category: [endodontics/anatomy]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/ribeiro-2022-guided-endodontics-static-dynamic-review.pdf
 pdf_filename: ribeiro-2022-guided-endodontics-static-dynamic-review.pdf
 source_collection: external

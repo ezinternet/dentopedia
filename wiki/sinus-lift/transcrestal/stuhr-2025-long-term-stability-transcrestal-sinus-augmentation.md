@@ -6,7 +6,7 @@ date: 2025-08-13
 doi: 10.1111/prd.70009
 journal: Periodontology 2000, 2025
 source: stuhr-2025-long-term-stability-transcrestal-sinus-augmentation.md
-confidence: narrative-review
+evidence_level: narrative-review
 category: [sinus-lift/transcrestal]
 pdf_path: /Users/oracleneo/llm-wiki/papers/stuhr-2025-long-term-stability-transcrestal-sinus-augmentation.pdf
 pdf_filename: stuhr-2025-long-term-stability-transcrestal-sinus-augmentation.pdf

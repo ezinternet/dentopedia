@@ -46,7 +46,7 @@ Short follow-up; non-comparative; CGF preparation operator-dependent.
 
 ## 6. Related Work
 - [[immediate-implant/esthetic-soft-tissue/qian-2023-iip-buccal-bone-dehiscence-anterior-maxilla]]
-- [[immediate-implant/trombelli-2024-bioarp-bone-dehiscence-immediate-implant]]
+- [[immediate-implant/gap-grafting/trombelli-2024-bioarp-bone-dehiscence-immediate-implant]]
 
 ## 7. Glossary
 - **IIP:** Immediate Implant Placement — placement at the time of tooth extraction.

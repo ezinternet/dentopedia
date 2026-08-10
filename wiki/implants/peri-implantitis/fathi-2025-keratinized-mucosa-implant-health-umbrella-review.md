@@ -6,11 +6,14 @@ date: 2025-01-01
 doi: 10.1563/aaid-joi-D-25-00049
 source: fathi-2025-keratinized-mucosa-implant-health-umbrella-review.md
 category: [implants/peri-implantitis]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/fathi-2025-keratinized-mucosa-implant-health-umbrella-review.pdf
 pdf_filename: fathi-2025-keratinized-mucosa-implant-health-umbrella-review.pdf
 source_collection: external
 tags: []
+relations:
+  - type: extends
+    target: roccuzzo-2025-keratinized-mucosa-peri-implant-20year-mandible
 ---
 
 ## Three-line Summary

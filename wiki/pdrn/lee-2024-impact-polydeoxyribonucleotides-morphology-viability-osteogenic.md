@@ -6,7 +6,7 @@ date: 2024-10-01
 doi: 10.3390/medicina60101610
 source: lee-2024-impact-polydeoxyribonucleotides-morphology-viability-osteogenic.md
 category: [pdrn]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/lee-2024-impact-polydeoxyribonucleotides-morphology-viability-osteogenic.pdf
 pdf_filename: lee-2024-impact-polydeoxyribonucleotides-morphology-viability-osteogenic.pdf
 source_collection: external

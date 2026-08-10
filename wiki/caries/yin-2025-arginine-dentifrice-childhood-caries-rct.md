@@ -6,7 +6,7 @@ date: 2025-08-12
 doi: 10.1177/23800844251361471
 source: yin-2025-arginine-dentifrice-childhood-caries-rct.md
 category: caries
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: true
 pmid: "40794532"

@@ -6,7 +6,7 @@ date: 2026-01-10
 doi: 10.1186/s12903-025-07613-8
 source: chen-2026-mod-inlay-preparation-material-stress-fea.md
 category: [inlay]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: true
 pmid: "41519748"

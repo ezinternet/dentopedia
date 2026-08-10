@@ -6,7 +6,7 @@ date: 2026-05-16
 doi: 10.3390/diagnostics16101512
 source: talo-2026-maxillary-sinus-ostium-patency-deep-learning.md
 category: [artificial-intelligence]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 full_text: true
 pmid: "42196878"

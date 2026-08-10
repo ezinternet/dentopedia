@@ -15,7 +15,7 @@ text_filename: kim-2023-xerostomia-cellular-targets.txt
 
 ## Why Ingested
 
-기존 위키의 구강건조 페이지들은 임상 결과·역학 층위다 — [[oral-medicine/poudel-2026-xerostomia-dental-treatment-outcomes-sr]](치료 결과 SR), [[oral-medicine/ramirez-martinez-acitores-2020-antihypertensive-xerostomia-salivary-flow-sr]](항고혈압제↔타액유량). 이 IJMS 리뷰(Seoul National Univ. 치대)는 그 아래의 *분자·세포 기전*(GPCR→IP3R→SOCE→AQP5 Ca²⁺ 신호축)을 채워, 왜 pilocarpine/cevimeline가 작동하고 왜 방사선 hyposalivation은 반응이 약한지를 기전적으로 설명한다 — 구강건조 overview의 mechanism anchor.
+기존 위키의 구강건조 페이지들은 임상 결과·역학 층위다 — [[oral-medicine/salivary-chemosensory/poudel-2026-xerostomia-dental-treatment-outcomes-sr]](치료 결과 SR), [[oral-medicine/salivary-chemosensory/ramirez-martinez-acitores-2020-antihypertensive-xerostomia-salivary-flow-sr]](항고혈압제↔타액유량). 이 IJMS 리뷰(Seoul National Univ. 치대)는 그 아래의 *분자·세포 기전*(GPCR→IP3R→SOCE→AQP5 Ca²⁺ 신호축)을 채워, 왜 pilocarpine/cevimeline가 작동하고 왜 방사선 hyposalivation은 반응이 약한지를 기전적으로 설명한다 — 구강건조 overview의 mechanism anchor.
 
 ## Three-line Summary
 
@@ -77,9 +77,9 @@ Narrative mechanistic review of salivary gland physiology. Structure: gland/duct
 
 ## 6. Related Work
 
-- [[oral-medicine/poudel-2026-xerostomia-dental-treatment-outcomes-sr]] — clinical dental-treatment outcomes of xerostomia; this paper supplies the underlying cellular mechanism.
-- [[oral-medicine/ramirez-martinez-acitores-2020-antihypertensive-xerostomia-salivary-flow-sr]] — antihypertensive-induced xerostomia/salivary flow; mechanistically explained here via anticholinergic/α1-adrenergic disruption of the Ca²⁺-AQP5 axis.
-- [[oral-medicine/sijan-gobeljic-2020-sjogren-chemosensory-oral-disorders-cross-sectional]] — Sjögren's chemosensory disorders; this review details Sjögren's acinar destruction and receptor upregulation.
+- [[oral-medicine/salivary-chemosensory/poudel-2026-xerostomia-dental-treatment-outcomes-sr]] — clinical dental-treatment outcomes of xerostomia; this paper supplies the underlying cellular mechanism.
+- [[oral-medicine/salivary-chemosensory/ramirez-martinez-acitores-2020-antihypertensive-xerostomia-salivary-flow-sr]] — antihypertensive-induced xerostomia/salivary flow; mechanistically explained here via anticholinergic/α1-adrenergic disruption of the Ca²⁺-AQP5 axis.
+- [[oral-medicine/salivary-chemosensory/sijan-gobeljic-2020-sjogren-chemosensory-oral-disorders-cross-sectional]] — Sjögren's chemosensory disorders; this review details Sjögren's acinar destruction and receptor upregulation.
 
 ## 7. Glossary
 

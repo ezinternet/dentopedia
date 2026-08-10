@@ -6,7 +6,7 @@ date: 2025-01-05
 doi: 10.12659/MSM.944713
 source: wang-2025-gelatin-polylactic-acid-pla-membrane-gbr-rct.md
 category: [bone-regeneration]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/wang-2025-gelatin-polylactic-acid-pla-membrane-gbr-rct.pdf
 pdf_filename: wang-2025-gelatin-polylactic-acid-pla-membrane-gbr-rct.pdf
 source_collection: external

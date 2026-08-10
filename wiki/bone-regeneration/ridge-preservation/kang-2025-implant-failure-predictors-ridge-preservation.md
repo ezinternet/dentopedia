@@ -6,7 +6,7 @@ date: 2025-04-02
 doi: 10.5051/jpis.2404660233
 source: kang-2025-implant-failure-predictors-ridge-preservation.md
 category: [bone-regeneration/ridge-preservation]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/kang-2025-implant-failure-predictors-ridge-preservation.pdf
 pdf_filename: kang-2025-implant-failure-predictors-ridge-preservation.pdf
 source_collection: external

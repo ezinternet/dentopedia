@@ -6,7 +6,7 @@ date: 2015-06-07
 doi: 10.1111/joor.12321
 source: calixtre-2015-manual-therapy-tmd-pain-rom-sr.md
 category: [tmj]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/calixtre-2015-manual-therapy-tmd-pain-rom-sr.pdf
 pdf_filename: calixtre-2015-manual-therapy-tmd-pain-rom-sr.pdf
 source_collection: external

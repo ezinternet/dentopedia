@@ -6,7 +6,7 @@ date: 2019-05-09
 doi: 10.1007/s12663-019-01236-7
 source: padhye-2020-quantitative-edentulous-posterior-maxilla.md
 category: implants
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/padhye-2020-quantitative-edentulous-posterior-maxilla.pdf
 pdf_filename: padhye-2020-quantitative-edentulous-posterior-maxilla.pdf
 source_collection: external

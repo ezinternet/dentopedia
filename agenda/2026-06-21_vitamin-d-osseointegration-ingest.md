@@ -6,8 +6,8 @@ status: done
 owner: 원장
 tags: [vitamin-d, osseointegration, implants, ingest]
 source_wiki:
-  - wiki/implants/moy-2005-dental-implant-failure-rates-risk.md
-  - wiki/implants/fan-2024-smoking-early-implant-failure-sr-ma.md
+  - wiki/implants/survival/moy-2005-dental-implant-failure-rates-risk.md
+  - wiki/implants/survival/fan-2024-smoking-early-implant-failure-sr-ma.md
 output_wiki:
   - wiki/implants/vitamin-d/miron-2025-vitamin-d-deficiency-early-implant-failure.md
   - wiki/implants/vitamin-d/tallon-2024-vitamin-d-osseointegration-umbrella-review.md
@@ -27,8 +27,8 @@ output_wiki:
 
 PubMed MCP 검색 (query: vitamin D AND dental implant/osseointegration/implant failure, 231건 → 직접 관련 선별). 전문은 PMC OA 우선, 미보유 시 초록만(abstract-only).
 
-- 앵커: wiki/implants/moy-2005-dental-implant-failure-rates-risk.md — 임플란트 실패율·위험인자 고전
-- 앵커: wiki/implants/fan-2024-smoking-early-implant-failure-sr-ma.md — 조기 임플란트 실패 위험인자 SR+MA
+- 앵커: wiki/implants/survival/moy-2005-dental-implant-failure-rates-risk.md — 임플란트 실패율·위험인자 고전
+- 앵커: wiki/implants/survival/fan-2024-smoking-early-implant-failure-sr-ma.md — 조기 임플란트 실패 위험인자 SR+MA
 - 앵커: wiki/implants/isq/andersson-2019-rfa-factors-5year-neoss-survival.md — ISQ/안정성 (Mohsen prospective용)
 
 # Output

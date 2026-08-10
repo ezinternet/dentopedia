@@ -15,7 +15,7 @@ text_filename: james-2017-chlorhexidine-mouthrinse-adjunctive-gingival.txt
 
 ## Why Ingested
 
-치과 임상에서 클로로헥시딘 (Chlorhexidine, CHX) 가글 농도(0.05%/0.12%/0.2%) 선택에 대한 근거가 필요. 이 Cochrane SR+MA는 51 RCT, 5,345명을 분석해 **"농도 간 효능 차이 없음"**이라는 고품질 결론을 제시—[[periodontics/dasilveira-2026-subgingival-irrigation-chemical-agents-nspt-sr-ma]]와 함께 화학적 항균제 adjunct 사용의 핵심 근거.
+치과 임상에서 클로로헥시딘 (Chlorhexidine, CHX) 가글 농도(0.05%/0.12%/0.2%) 선택에 대한 근거가 필요. 이 Cochrane SR+MA는 51 RCT, 5,345명을 분석해 **"농도 간 효능 차이 없음"**이라는 고품질 결론을 제시—[[periodontics/non-surgical-instrumentation/dasilveira-2026-subgingival-irrigation-chemical-agents-nspt-sr-ma]]와 함께 화학적 항균제 adjunct 사용의 핵심 근거.
 
 ## Three-line Summary
 
@@ -79,8 +79,8 @@ no evidence one concentration outperforms another, but tooth staining is a consi
 
 ## 6. Related Work
 
-- [[periodontics/dasilveira-2026-subgingival-irrigation-chemical-agents-nspt-sr-ma]] — 화학적 세정제 NSPT 보조 SR+MA
-- [[periodontics/angelopoulou-2026-melatonin-adjunct-nspt-t2dm-sr-ma]] — NSPT adjunct 비교
+- [[periodontics/non-surgical-instrumentation/dasilveira-2026-subgingival-irrigation-chemical-agents-nspt-sr-ma]] — 화학적 세정제 NSPT 보조 SR+MA
+- [[periodontics/host-modulation/angelopoulou-2026-melatonin-adjunct-nspt-t2dm-sr-ma]] — NSPT adjunct 비교
 
 ## 7. Glossary
 

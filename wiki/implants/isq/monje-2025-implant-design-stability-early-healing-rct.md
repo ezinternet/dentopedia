@@ -7,7 +7,7 @@ doi: 10.1111/jcpe.70052
 pmid: "41163412"
 source: monje-2025-implant-design-stability-early-healing-rct.md
 category: implants/isq
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: false
 text_path: /Users/oracleneo/llm-wiki/papers/monje-2025-implant-design-stability-early-healing-rct.txt

@@ -6,7 +6,7 @@ date: 2026-06-04
 doi: 10.2340/aos.v85.46021
 source: huang-2026-graftless-transcrestal-sinus-membrane-perforation-ma.md
 category: [sinus-lift/transcrestal]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "42240171"

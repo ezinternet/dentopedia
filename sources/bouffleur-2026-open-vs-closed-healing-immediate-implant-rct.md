@@ -35,7 +35,7 @@ Open healing이 12개월 Pink Esthetic Score(PES) 유의하게 우수(MD −1.49
 Prospective RCT; n=46 patients / 48 implants (open n=25, closed n=23); 3 timepoints (T1 pre-extraction, T2 3mo post, T3 12mo post); primary PES (7 parameters); secondary survival + volumetric change; linear mixed-effects model.
 
 ## 4. Key Results
-[근거강함]
+[확인]
 - PES: open > closed (MD -1.49, 95% CI -2.36 to -0.62, p=0.0014)
 - Higher baseline (specific outcome metric in paper)
 - 12-month implant survival data

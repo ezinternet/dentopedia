@@ -6,7 +6,7 @@ date: 2024-01-25
 doi: "10.4012/dmj.2023-132"
 source: tuygunov-2024-modified-gic-calcium-phosphate-remineralization-sr.md
 category: glass-ionomer
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/tuygunov-2024-modified-gic-calcium-phosphate-remineralization-sr.pdf
 pdf_filename: tuygunov-2024-modified-gic-calcium-phosphate-remineralization-sr.pdf
 source_collection: external

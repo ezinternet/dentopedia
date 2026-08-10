@@ -6,7 +6,7 @@ date: 2023-09-15
 doi: 10.3390/dj11090218
 source: patel-2023-immediate-vs-delayed-implant-survival-sr-ma.md
 category: [immediate-implant]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/patel-2023-immediate-vs-delayed-implant-survival-sr-ma.pdf
 pdf_filename: patel-2023-immediate-vs-delayed-implant-survival-sr-ma.pdf
 source_collection: external
@@ -70,4 +70,4 @@ A secondary, non-significant directional signal favoured delayed placement: more
 ## Related Papers
 
 - [[overviews/implant-placement-timing-immediate-early-delayed]] — this SR+MA anchors the "survival equivalent across timing protocols" thesis of the timing overview.
-- [[immediate-implant/ragucci-2020-immediate-implant-molar-extraction-sockets]] — complements with site-specific (molar socket) immediate-placement evidence.
+- [[immediate-implant/molar-septum/ragucci-2020-immediate-implant-molar-extraction-sockets]] — complements with site-specific (molar socket) immediate-placement evidence.

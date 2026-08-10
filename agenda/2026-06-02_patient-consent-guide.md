@@ -8,7 +8,7 @@ priority: P1
 tags: [patient-communication, hygienist-tool, consent, evidence-grounding, chairside]
 source_wiki:
   - wiki/bone-regeneration/couso-queiruga-2021-post-extraction-dimensional-changes-systematic.md
-  - wiki/implants/fan-2024-smoking-early-implant-failure-sr-ma.md
+  - wiki/implants/survival/fan-2024-smoking-early-implant-failure-sr-ma.md
   - wiki/drug/al-ansari-2022-diabetes-mellitus-dental-implants-sr-ma.md
   - wiki/oral-surgery/camps-font-2024-antibiotic-prophylaxis-dry-socket-nma.md
   - wiki/drug/feldman-2024-nonopioid-opioid-third-molar-rct.md
@@ -28,7 +28,7 @@ output_wiki:
 - wiki/bone-regeneration/araujo-2005-... — 2단계 흡수 기전(동물)
 - wiki/immediate-implant/chappuis-2013-... — 심미부 박벽(≤1mm) 수직소실 7.5mm
 - wiki/bone-regeneration/atieh-2015-... — ARP Cochrane(height MD -2.60, width -1.97)
-- wiki/implants/fan-2024-smoking-early-implant-failure-sr-ma — 흡연 OR 2.59
+- wiki/implants/survival/fan-2024-smoking-early-implant-failure-sr-ma — 흡연 OR 2.59
 - wiki/drug/al-ansari-2022-diabetes-mellitus-dental-implants-sr-ma — 당뇨 OR 1.78 (T1DM 4.48)
 - wiki/drug/baghalipour-2025-mronj-... — MRONJ 4단계 예방
 - wiki/oral-surgery/camps-font-2024-... — 발치 항생제 NMA(dry socket NNT 25)

@@ -6,7 +6,7 @@ date: 2022-01-01
 doi: 10.1016/j.jebdp.2022.101803
 source: baena-2022-cbct-diagnostic-performance-root-resorption.md
 category: [radiology]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/baena-2022-cbct-diagnostic-performance-root-resorption.pdf
 pdf_filename: baena-2022-cbct-diagnostic-performance-root-resorption.pdf
 source_collection: external
@@ -43,7 +43,7 @@ CBCT는 외흡수 진단에 중등도 정확도; 선량 편차가 크므로 루�
 DTA 프로토콜 SR+MA, PRISMA, QUADAS-2. 7841→17편(in vivo 6편 low RoB).
 
 ## Results
-민감도 78.12%·특이도 79.25%(범위 42-98%/49.3-96.3%); 유효선량 34-1073 µSv [근거강함~합의수준].
+민감도 78.12%·특이도 79.25%(범위 42-98%/49.3-96.3%); 유효선량 34-1073 µSv [확인].
 
 ## Related Papers
 - [[radiology/khafaji-2023-scattered-dose-eye-dentistry-cbct]] — 피폭

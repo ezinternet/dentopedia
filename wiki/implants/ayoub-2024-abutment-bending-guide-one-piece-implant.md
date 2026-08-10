@@ -6,7 +6,7 @@ date: 2024-05-24
 doi: ""
 source: ayoub-2024-abutment-bending-guide-one-piece-implant.md
 category: [implants]
-confidence: case-report
+evidence_level: case-report
 pdf_path: /Users/oracleneo/llm-wiki/papers/ayoub-2024-abutment-bending-guide-one-piece-implant.pdf
 pdf_filename: ayoub-2024-abutment-bending-guide-one-piece-implant.pdf
 source_collection: external

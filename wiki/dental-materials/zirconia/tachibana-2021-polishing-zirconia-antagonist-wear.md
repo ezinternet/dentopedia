@@ -6,7 +6,7 @@ date: 2021-01-01
 doi: 10.4012/dmj.2020-190
 source: tachibana-2021-polishing-zirconia-antagonist-wear.md
 category: [dental-materials/zirconia]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/tachibana-2021-polishing-zirconia-antagonist-wear.pdf
 pdf_filename: tachibana-2021-polishing-zirconia-antagonist-wear.pdf
 source_collection: external

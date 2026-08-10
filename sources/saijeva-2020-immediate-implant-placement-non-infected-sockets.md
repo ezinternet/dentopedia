@@ -15,7 +15,7 @@ source_url: https://pmc.ncbi.nlm.nih.gov/articles/PMC7393932/
 
 ## Why Ingested
 
-감염 소켓 즉시식립의 생존율 근거를 체계적으로 확인하기 위해 인제스트. 기존 [[immediate-implant/pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma]]가 2024년 더 넓은 SR+MA를 제공하지만 Saijeva 2020은 MBL·MGL·PD·mBI·WKG 등 이차 임상 파라미터 별도 메타분석(1·2·3+년 추적)을 포함해 보완 근거로 활용.
+감염 소켓 즉시식립의 생존율 근거를 체계적으로 확인하기 위해 인제스트. 기존 [[immediate-implant/infected-socket/pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma]]가 2024년 더 넓은 SR+MA를 제공하지만 Saijeva 2020은 MBL·MGL·PD·mBI·WKG 등 이차 임상 파라미터 별도 메타분석(1·2·3+년 추적)을 포함해 보완 근거로 활용.
 
 ## Three-line Summary
 
@@ -80,8 +80,8 @@ No RCTs found; all evidence from retrospective/prospective cohorts.
 
 ## 6. Related Work
 
-- [[immediate-implant/pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma]] — 2024 SR+MA with broader scope, confirmed same conclusion; includes acute purulent exudate as contraindication
-- [[immediate-implant/colak-2023-immediate-implant-periapical-pathology-retrospective]] — retrospective cohort supporting non-contraindication stance for chronic lesions
+- [[immediate-implant/infected-socket/pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma]] — 2024 SR+MA with broader scope, confirmed same conclusion; includes acute purulent exudate as contraindication
+- [[immediate-implant/infected-socket/colak-2023-immediate-implant-periapical-pathology-retrospective]] — retrospective cohort supporting non-contraindication stance for chronic lesions
 
 ## 7. Glossary
 

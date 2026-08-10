@@ -6,7 +6,7 @@ date: 2008-01-01
 doi: 10.1111/j.1600-0757.2008.00242.x
 journal: Periodontology 2000 2008;47:51-66
 source: sennerby-2008-implant-stability-resonance-frequency-analysis.md
-confidence: narrative-review
+evidence_level: narrative-review
 category: [implants/isq]
 pdf_path: /Users/oracleneo/llm-wiki/papers/sennerby-2008-implant-stability-resonance-frequency-analysis.pdf
 pdf_filename: sennerby-2008-implant-stability-resonance-frequency-analysis.pdf
@@ -67,5 +67,5 @@ ISQ
 
 ## Related Papers
 - [[implants/isq/oh-2008-comparison-of-initial-implant-stability]] — ISQ 임계값 실증 연구
-- [[implants/di-stefano-2021-stability-dental-implants-cortical-bone]] — 피질골 두께 ↔ ISQ 상관관계
+- [[implants/isq/di-stefano-2021-stability-dental-implants-cortical-bone]] — 피질골 두께 ↔ ISQ 상관관계
 - [[implants/isq/seol-2017-uv-implant-resonance-frequency-early-loading]] — UV 임플란트 ISQ 추이 및 조기부하

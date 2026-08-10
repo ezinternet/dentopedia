@@ -34,7 +34,7 @@ ISQ 평균이 식립 시 78.97±5.52에서 8주 83.74±4.36으로 점진 상승(
 - Journal: Materials 2025, 18(19):4568
 - DOI: 10.3390/ma18194568
 - Study type: retrospective cohort (human), single-arm (no control)
-- Device: ACTILINK Reborn; non-thermal atmospheric pressure plasma
+- Device: ACTILINK™ Reborn — the abstract calls it "non-thermal atmospheric pressure plasma," but the Methods section describes vacuum operation (5–10 Torr, sealed chamber partial vacuum) — a terminology inconsistency in the source paper itself; treated here as vacuum plasma per the mechanistic description.
 
 ## 2. Key Contributions
 
@@ -43,8 +43,9 @@ ISQ 평균이 식립 시 78.97±5.52에서 8주 83.74±4.36으로 점진 상승(
 
 ## 3. Methodology and Architecture
 
-- 73 plasma-treated implants in 47 patients (Jun 2023–Oct 2024). NTAP immediately before placement.
+- 73 plasma-treated implants in 47 patients (Jun 2023–Oct 2024). Plasma applied immediately before placement.
 - ISQ at baseline, weekly for 4 weeks, and week 8. Subgroups: initial ISQ, jaw, length/diameter, insertion torque.
+- **Device parameters (added 2026-08-10, re-checked PDF for a user question on vacuum-plasma treatment times):** ACTILINK™ Reborn (Plasmapp Co., Ltd., Daejeon). Fixture-driver holder seats the implant; a Pyrex® component descends onto a silicone stopper, sealing the chamber and forming a partial vacuum. **Each activation cycle lasts 60 s, four sequential phases:** (1) vacuum formation, 30 s, to a base pressure of 5 Torr; (2) plasma exposure, 8 s, powered electrode at chamber top; (3) decontamination, 17 s, residual impurities removed via vacuum port; (4) venting, 5 s, gas evacuated from chamber. **Two consecutive cycles were applied to every fixture** — ~120 s chairside procedure time, of which only ~16 s is actual plasma discharge. Device houses 3 independent plasma modules sharing one vacuum pump/pressure gauge; footprint 170 mm W × 266 mm D × 346 mm H.
 
 ## 4. Key Results and Benchmarks
 
@@ -57,6 +58,7 @@ ISQ 평균이 식립 시 78.97±5.52에서 8주 83.74±4.36으로 점진 상승(
 
 - No control group; retrospective; short-term ISQ only.
 - "No dip" cannot be attributed to plasma without a control — requires RCT confirmation.
+- **Paper-internal terminology inconsistency:** abstract states "non-thermal atmospheric pressure plasma," but §2 Methods (device operation) describes vacuum formation to 5–10 Torr — physically a low-pressure/vacuum regime, not atmospheric pressure. Not flagged or reconciled by the authors.
 
 ## 6. Related Work
 
@@ -66,5 +68,6 @@ ISQ 평균이 식립 시 78.97±5.52에서 8주 83.74±4.36으로 점진 상승(
 
 ## 7. Glossary
 
-- NTAP = non-thermal atmospheric pressure plasma. ISQ = implant stability quotient.
+- NTAP = non-thermal atmospheric pressure plasma (논문 초록의 표기; 실제 장치 기전은 진공/저압 — 용어 불일치). ISQ = implant stability quotient.
 - Stability dip = 치유 초기 안정성 저점(보통 2–3주).
+- DBD = dielectric barrier discharge. Pyrex® 밀폐 → 진공(5 Torr) → 방전(8초) → 제염(17초) → 배기(5초)의 4단계 60초 사이클, ×2회 시행.

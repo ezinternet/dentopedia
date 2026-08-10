@@ -6,7 +6,7 @@ date: 2026-03-16
 doi: 10.1016/j.archoralbio.2026.106574
 source: hu-2026-acidic-microenvironment-caries-pulpitis-periapical-review.md
 category: [caries]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: false
 pmid: "41880705"

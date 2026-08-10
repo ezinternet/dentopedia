@@ -6,7 +6,7 @@ date: 2021-08-13
 doi: 10.1016/j.jdent.2021.103777
 source: srinivasan-2021-cad-cam-removable-complete-dentures.md
 category: [complete-denture]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/srinivasan-2021-cad-cam-removable-complete-dentures.pdf
 pdf_filename: srinivasan-2021-cad-cam-removable-complete-dentures.pdf
 source_collection: external

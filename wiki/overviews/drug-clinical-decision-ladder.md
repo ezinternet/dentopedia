@@ -6,7 +6,7 @@ date: 2026-05-27
 doi: N/A
 source: N/A
 category: overviews
-confidence: synthesis
+evidence_level: synthesis
 pdf_path: N/A
 pdf_filename: N/A
 source_collection: synthesis
@@ -63,27 +63,27 @@ drug 카테고리 75편을 5개 임상 결정축별 sub-overview로 분할한 �
 각 명제는 해당 sub-overview에서 SR-MA·Network MA·Cochrane 우선 근거로 상세 전개.
 
 ### 1. 항응고·항혈소판
-**VKA·DOAC·항혈소판 단독·DAPT 복용 환자 루틴 치과 처치 시 중단 불필요. 국소 지혈(TXA 양치액)이 1차 대응.** [근거강함] — Inchingolo 2024 SR (25편), Moldovan 2023 SR, Shah 2022 SR-MA, Krishnan 2024 RCT.
+**VKA·DOAC·항혈소판 단독·DAPT 복용 환자 루틴 치과 처치 시 중단 불필요. 국소 지혈(TXA 양치액)이 1차 대응.** [확인] — Inchingolo 2024 SR (25편), Moldovan 2023 SR, Shah 2022 SR-MA, Krishnan 2024 RCT.
 
 → 상세: [[drug-anticoagulant-antiplatelet-perioperative-overview]]
 
 ### 2. MRONJ
-**1차 예방(약물 시작 전 치과 클리어런스)이 가장 효과적. Denosumab 누적 dose ≥32에서 MRONJ 위험 31.2%, 발치력 OR 4.40.** [근거강함] — Ruggiero AAOMS 2022, Yokoo 2025 cohort, Li 2024 SR.
+**1차 예방(약물 시작 전 치과 클리어런스)이 가장 효과적. Denosumab 누적 dose ≥32에서 MRONJ 위험 31.2%, 발치력 OR 4.40.** [확인] — Ruggiero AAOMS 2022, Yokoo 2025 cohort, Li 2024 SR.
 
 → 상세: [[drug-mronj-antiresorptive-overview]]
 
 ### 3. 항생제
-**IE prophylaxis는 4개 최고위험군만. 단순 발치·치근단치주염에 항생제 prophylaxis 효과 없음. 1차 항생제 Amoxicillin, Clindamycin 회피.** [근거강함] — Wilson AHA 2021, Sperotto 2024 SR-MA (n=1.15M), Lodi 2021 Cochrane, Thornhill 2019 NHS.
+**IE prophylaxis는 4개 최고위험군만. 단순 발치·치근단치주염에 항생제 prophylaxis 효과 없음. 1차 항생제 Amoxicillin, Clindamycin 회피.** [확인] — Wilson AHA 2021, Sperotto 2024 SR-MA (n=1.15M), Lodi 2021 Cochrane, Thornhill 2019 NHS.
 
 → 상세: [[drug-antibiotic-stewardship-overview]]
 
 ### 4. 진통제
-**Ibuprofen 400 + Acetaminophen 1000 병용이 최저 NNT(~1.5). Opioid는 비-opioid 대비 우월하지 않음. Alternate 투약 > Concurrent.** [근거강함] — Miroshnychenko 2023 Network MA (82 RCT), Feldman 2024 RCT (n=1,815), Gaballah 2025 RCT.
+**Ibuprofen 400 + Acetaminophen 1000 병용이 최저 NNT(~1.5). Opioid는 비-opioid 대비 우월하지 않음. Alternate 투약 > Concurrent.** [확인] — Miroshnychenko 2023 Network MA (82 RCT), Feldman 2024 RCT (n=1,815), Gaballah 2025 RCT.
 
 → 상세: [[drug-analgesics-postop-pain-overview]]
 
 ### 5. 전신질환·polypharmacy
-**조절 DM(HbA1c <7.0%)은 임플란트 contraindication 아님. 비조절 DM 임플란트 실패 OR 1.78, T1DM OR 4.48. 1:200,000 epinephrine이 1:80,000과 진통 동등하면서 혈역학 안전. 고령 환자 DDI 40.7%.** [근거강함] — Al-Ansari 2022 SR-MA, Wagner 2022 SR, Karm 2017 RCT, Pyo 2026.
+**조절 DM(HbA1c <7.0%)은 임플란트 contraindication 아님. 비조절 DM 임플란트 실패 OR 1.78, T1DM OR 4.48. 1:200,000 epinephrine이 1:80,000과 진통 동등하면서 혈역학 안전. 고령 환자 DDI 40.7%.** [확인] — Al-Ansari 2022 SR-MA, Wagner 2022 SR, Karm 2017 RCT, Pyo 2026.
 
 → 상세: [[drug-systemic-disease-dental-management-overview]]
 
@@ -139,7 +139,7 @@ drug 카테고리 75편을 5개 임상 결정축별 sub-overview로 분할한 �
 
 ## 한국 임상 조정 (Korean Practice Adjustments)
 
-[claude해석] sub-overview 본문은 영문 wiki 정책 따라 작성. 한국 임상 환경에서 다음 차이를 함께 고려:
+[미검증] sub-overview 본문은 영문 wiki 정책 따라 작성. 한국 임상 환경에서 다음 차이를 함께 고려:
 
 1. **Opioid 처방**: 한국 치과는 미국 대비 hydrocodone·oxycodone 처방 거의 없음. Tramadol 정도. ADA opioid-sparing 원칙은 동일 적용.
 2. **Clindamycin 회피**: 한국에서도 페니실린 알레르기 시 Clindamycin 처방 관행 있음 — Cephalexin·Azithromycin으로 전환 검토.

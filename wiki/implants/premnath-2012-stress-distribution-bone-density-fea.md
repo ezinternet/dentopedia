@@ -6,7 +6,7 @@ date: 2013-01-01
 doi: 10.1007/s13191-012-0189-7
 source: premnath-2012-stress-distribution-bone-density-fea.md
 category: [implants]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/premnath-2012-stress-distribution-bone-density-fea.pdf
 pdf_filename: premnath-2012-stress-distribution-bone-density-fea.pdf
 source_collection: external

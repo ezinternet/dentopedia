@@ -4,7 +4,7 @@ authors: synthesis page (compiled by Claude from 16 wiki entries, 2026-06-21)
 year: 2026
 date: 2026-06-21
 category: overviews
-confidence: synthesis
+evidence_level: synthesis
 source_collection: internal
 tags: [overview, tmd, myofascial-pain, myogenous-tmd, physical-therapy, manual-therapy, exercise-therapy, dry-needling, spray-and-stretch, botulinum-toxin, network-meta-analysis, decision-tree, conservative-management]
 source: synthesis

@@ -6,7 +6,7 @@ date: 2022-06-30
 doi: 10.1155/2022/8087378
 source: aminsobhani-2022-glide-path-pathfinder-s-canal.md
 category: [endodontics/shaping]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/aminsobhani-2022-glide-path-pathfinder-s-canal.pdf
 pdf_filename: aminsobhani-2022-glide-path-pathfinder-s-canal.pdf
 source_collection: external

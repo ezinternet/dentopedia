@@ -6,7 +6,7 @@ date: 2003-09-09
 doi: "10.1034/j.1600-0501.2003.00937.x"
 source: nkenke-2003-implant-stability-histomorphometry-cadaver-correlation.md
 category: [implants/isq]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/nkenke-2003-implant-stability-histomorphometry-cadaver-correlation.pdf
 pdf_filename: nkenke-2003-implant-stability-histomorphometry-cadaver-correlation.pdf
 source_collection: external
@@ -49,4 +49,4 @@ Ex vivo human cadaver study; 4 unfixed maxillae/mandibles; 48 stepped cylinder s
 ## Related Papers
 - [[implants/isq/chatvaratthana-2017-cortical-bone-crestal-buccolingual-isq]] — reinforces; cortical thickness–ISQ correlation.
 - [[implants/isq/cappare-2015-initial-bic-insertion-torque-depth-integral-in-vivo]] — related; BIC–torque-integral correlation.
-- [[implants/al-juboori-2024-cortical-thickness-implant-stability-sr]] — related; cortical-thickness–stability SR.
+- [[implants/isq/al-juboori-2024-cortical-thickness-implant-stability-sr]] — related; cortical-thickness–stability SR.

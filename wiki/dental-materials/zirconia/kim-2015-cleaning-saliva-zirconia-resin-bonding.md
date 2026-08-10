@@ -6,7 +6,7 @@ date: 2015-04-01
 doi: 10.4047/jap.2015.7.2.85
 source: kim-2015-cleaning-saliva-zirconia-resin-bonding.md
 category: [dental-materials/zirconia]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/kim-2015-cleaning-saliva-zirconia-resin-bonding.pdf
 pdf_filename: kim-2015-cleaning-saliva-zirconia-resin-bonding.pdf
 source_collection: external

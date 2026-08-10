@@ -6,7 +6,7 @@ date: 2022-01-01
 doi: "10.1038/s41405-022-00119-3"
 source: mummery-2022-gic-fissure-sealant-case-series.md
 category: glass-ionomer
-confidence: case-report
+evidence_level: case-report
 pdf_path: /Users/oracleneo/llm-wiki/papers/mummery-2022-gic-fissure-sealant-case-series.pdf
 pdf_filename: mummery-2022-gic-fissure-sealant-case-series.pdf
 source_collection: external

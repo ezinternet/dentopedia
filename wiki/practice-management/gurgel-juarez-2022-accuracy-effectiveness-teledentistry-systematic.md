@@ -6,7 +6,7 @@ date: 2022-07-08
 doi: 10.1038/s41432-022-0257-8
 source: gurgel-juarez-2022-accuracy-effectiveness-teledentistry-systematic.md
 category: [practice-management]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "35804195"

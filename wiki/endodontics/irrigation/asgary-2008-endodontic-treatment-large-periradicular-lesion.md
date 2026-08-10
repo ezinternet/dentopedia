@@ -6,7 +6,7 @@ date: 2008-01-01
 doi: 
 source: asgary-2008-endodontic-treatment-large-periradicular-lesion.md
 category: [endodontics/irrigation]
-confidence: case-report
+evidence_level: case-report
 pdf_path: /Users/oracleneo/llm-wiki/papers/asgary-2008-endodontic-treatment-large-periradicular-lesion.pdf
 pdf_filename: asgary-2008-endodontic-treatment-large-periradicular-lesion.pdf
 source_collection: external

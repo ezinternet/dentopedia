@@ -15,7 +15,7 @@ text_filename: pannuti-2026-loading-timing-edentulous-maxilla-pro.txt
 
 ## Why Ingested
 
-기존 [[immediate-implant/qian-2024-anterior-maxillary-implants-placement-loading-nma]]와 [[immediate-implant/esposito-2015-immediate-loading-vs-delayed-anterior-rct]]가 즉시·지연 로딩의 임상·방사선 outcome(생존율, MBL)을 다뤘다면, 본 SR (Pannuti 2026)은 무치악 상악 full-arch에서 어떤 환자보고결과(Patient-Reported Outcome, PRO)·임상가보고결과(Clinician-Reported Outcome, ClinRO)와 측정도구(PROM/CROM)가 실제로 쓰였는지를 메타-방법론 관점에서 정리한다 — outcome 표준화 부재라는 근거 공백을 가시화해 향후 무치악 상악 로딩 결정 근거의 한계를 보강.
+기존 [[immediate-implant/qian-2024-anterior-maxillary-implants-placement-loading-nma]]와 [[immediate-implant/loading-protocol/esposito-2015-immediate-loading-vs-delayed-anterior-rct]]가 즉시·지연 로딩의 임상·방사선 outcome(생존율, MBL)을 다뤘다면, 본 SR (Pannuti 2026)은 무치악 상악 full-arch에서 어떤 환자보고결과(Patient-Reported Outcome, PRO)·임상가보고결과(Clinician-Reported Outcome, ClinRO)와 측정도구(PROM/CROM)가 실제로 쓰였는지를 메타-방법론 관점에서 정리한다 — outcome 표준화 부재라는 근거 공백을 가시화해 향후 무치악 상악 로딩 결정 근거의 한계를 보강.
 
 ## Three-line Summary
 

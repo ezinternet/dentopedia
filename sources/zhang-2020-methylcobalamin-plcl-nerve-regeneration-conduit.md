@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-Local sustained delivery of methylcobalamin (MeCbl, 메틸코발라민) via biodegradable PLCL nerve guidance conduit improves peripheral nerve regeneration — provides translational bridge between vitamin B12 pharmacology and guided nerve repair relevant to inferior alveolar nerve (하치조신경, IAN) injury management. Extends [[oral-surgery/lee-2015-inferior-alveolar-nerve-injury-management]] with a biomaterial-delivery mechanism for neurotrophic agents.
+Local sustained delivery of methylcobalamin (MeCbl, 메틸코발라민) via biodegradable PLCL nerve guidance conduit improves peripheral nerve regeneration — provides translational bridge between vitamin B12 pharmacology and guided nerve repair relevant to inferior alveolar nerve (하치조신경, IAN) injury management. Extends [[oral-surgery/nerve-injury/lee-2015-inferior-alveolar-nerve-injury-management]] with a biomaterial-delivery mechanism for neurotrophic agents.
 
 ## Three-line Summary
 

@@ -6,7 +6,7 @@ date: 2024-12-11
 doi: 10.11607/jomi.10839
 source: khiabani-2024-sinus-membrane-thickness-lsfe-mucosal.md
 category: sinus-lift/lateral
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/khiabani-2024-sinus-membrane-thickness-lsfe-mucosal.pdf
 pdf_filename: khiabani-2024-sinus-membrane-thickness-lsfe-mucosal.pdf
 source_collection: external
@@ -14,7 +14,7 @@ tags: [sinus-membrane-thickness, lsfe, lateral-window, mucosal-thickness, rhinos
 relations:
   - type: extends
     target: munakata-2021-sinus-membrane-thickness-edentulous-cbct
-  - type: reinforces
+  - type: extends
     target: sinus-lift-lateral-2026-synthesis
 ---
 

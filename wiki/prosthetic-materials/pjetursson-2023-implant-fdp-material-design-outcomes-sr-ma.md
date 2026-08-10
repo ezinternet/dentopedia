@@ -7,7 +7,7 @@ doi: 10.1111/clr.14103
 pmid: "37750526"
 source: pjetursson-2023-implant-fdp-material-design-outcomes-sr-ma.md
 category: [prosthetic-materials]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 tags: [zirconia, monolithic, veneered, pjm, implant, fdp, survival, chipping, sr+ma]
 relations:
@@ -81,6 +81,6 @@ Design comparison: No significant difference in survival or complication rates b
 
 - [[prosthetic-materials/tajti-2023-monolithic-zirconia-metal-ceramic-implant-crowns-sr-ma]] — single implant crown SR+MA (same group pattern, fewer units)
 - [[prosthetic-materials/pjetursson-2026-metal-ceramic-all-ceramic-crowns-survival-sr-ma]] — tooth-supported single crown 5-year SR+MA (same group)
-- [[prosthetic-materials/leitao-2022-monolithic-zirconia-single-crown-survival-sr]] — monolithic Zr single crown survival SR
+- [[dental-materials/zirconia/leitao-2022-monolithic-zirconia-single-crown-survival-sr]] — monolithic Zr single crown survival SR
 - [[overviews/zirconia-types-clinical-selection]] — grade selection overview; monolithic > veneered finding central to axis 3 (thickness-fracture) and axis 2 (indication matrix)
 - [[dental-materials/zirconia/le-2023-three-types-all-ceramic-posterior-3year-rct]] — tooth-supported RCT with high-translucency ZC (complements implant-supported evidence)

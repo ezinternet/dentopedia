@@ -6,7 +6,7 @@ date: 2012-09-19
 doi: 10.1186/1471-2342-12-18
 source: yu-2012-cbct-mandibular-premolars-root-canal-morphology.md
 category: [endodontics/anatomy]
-confidence: cross-sectional
+evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/yu-2012-cbct-mandibular-premolars-root-canal-morphology.pdf
 pdf_filename: yu-2012-cbct-mandibular-premolars-root-canal-morphology.pdf
 source_collection: external
