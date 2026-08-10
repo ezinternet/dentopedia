@@ -2834,7 +2834,7 @@ tags: []
 <!-- BATCH INGEST 2026-08-07: vacuum/DBD plasma implant fixture — 2 papers (user-requested "1분 진공 플라즈마" surveillance) -->
 - [[implants/surface/plasma/cho-2025-rhbmp2-vacuum-plasma-titanium-implants-osseointegration]] — 동물(비글 4/24임플란트, 8주): 진공플라즈마+저용량rhBMP-2 병용군만 BIC(83.91%)·ITBD(81.32%) 유의↑, 플라즈마 단독은 비유의 — 플라즈마=코팅 담체 역할
 - [[implants/surface/plasma/berger-2022-dbd-plasma-vacuum-packaged-implants-sex-dependent]] — 동물(토끼 36마리, 6주): 진공밀봉 임플란트 30초 DBD플라즈마, 수컷만 BIC·골량·토크 유의↑, 암컷은 기저 골유착 이미 높아 무효과 — 성별 의존적 효과
-- [[implants/surface/plasma/becker-2019-lpp-app-plasma-proinflammatory-cytokines]] — in vitro(사람 전혈): LPP·APP 두 방식 모두 IL1-β·TNF-α 유의↓(미처리 대조군 대비) — 위키 최초 LPP vs APP 직접비교, abstract-only
+- [[implants/surface/plasma/becker-2019-lpp-app-plasma-proinflammatory-cytokines]] — in vitro(전혈, 단일공여자): APP 1분·LPP 15분 모두 8h IL1-β·TNF-α 유의↓하나 24h 유의↑로 반전 — 위키 최초 LPP vs APP 직접비교(장치 파라미터 포함)
 
 <!-- BATCH INGEST 2026-06-01: dental local anesthesia — 12 papers (buffered/modified LA cluster) → overviews/buffered-modified-local-anesthetics-overview -->
 
