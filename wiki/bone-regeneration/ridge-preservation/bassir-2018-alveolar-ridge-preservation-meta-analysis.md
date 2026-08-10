@@ -10,11 +10,16 @@ evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/bassir-2018-alveolar-ridge-preservation-meta-analysis.pdf
 pdf_filename: bassir-2018-alveolar-ridge-preservation-meta-analysis.pdf
 source_collection: external
-tags: []
+superseded_by: bone-regeneration/ridge-preservation/canullo-2021-arp-biomaterials-dimensional-nma
+superseded_scope: partial
+tags: [alveolar-ridge-preservation, arp, dimensional-changes, socket-morphology, meta-analysis, superseded]
 relations:
   - type: contradicts
     target: mardas-2023-alveolar-ridge-preservation-overtreatment
 ---
+
+> [!warning] Superseded (partial) → [[bone-regeneration/ridge-preservation/canullo-2021-arp-biomaterials-dimensional-nma]]
+> Canullo 2021 NMA (88 RCT, 2805명)가 재료별 직접 비교 순위를 제공 — 이 페이지(21연구, 이진 메타분석)의 재료 비교 결론을 더 큰 근거기반으로 대체. **소켓 형태(Socket Morphology)가 ARP 효과의 최대 수정 변수(p<.001)임을 분석한 점은 이 페이지의 고유 기여로, canullo-2021에 없음** — 협측벽 결손 여부에 따른 임상 결정 시 이 페이지를 함께 참고할 것. (set 2026-08-11)
 
 ## Three-line Summary
 
