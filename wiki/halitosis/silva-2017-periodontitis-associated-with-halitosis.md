@@ -10,8 +10,13 @@ evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/silva-2017-periodontitis-associated-with-halitosis.pdf
 pdf_filename: silva-2017-periodontitis-associated-with-halitosis.pdf
 source_collection: external
-tags: [halitosis, periodontitis, volatile-sulfur-compounds, meta-regression, oral-malodor]
+tags: [halitosis, periodontitis, volatile-sulfur-compounds, meta-regression, oral-malodor, superseded]
+superseded_by: halitosis/wang-2024-association-between-halitosis-and
+superseded_scope: full
 ---
+
+> [!warning] Superseded (full) → [[halitosis/wang-2024-association-between-halitosis-and]]
+> Wang 2024 SR+MA (Clin Oral Investig, 9편, 검색 2023년 8월까지)가 동일한 임상 질문(치주염-구취 연관성)을 더 많은 연구와 측정방법별 층화로 재정량화함 — 악취계(Organoleptic) OR 4.05, 휘발성황화물 (Volatile Sulfur Compound, VSC) OR 4.52 (모두 유의). 이 페이지(5편, OR 3.16)의 단일 추정치는 Wang 2024의 방법별 층화 추정치로 대체됨. 치주염-구취 연관성 근거는 wang-2024를 우선 인용할 것. (set 2026-08-11)
 
 ## Three-line Summary
 
