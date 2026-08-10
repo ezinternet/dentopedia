@@ -40,6 +40,7 @@ The human RCT that complicates the optimistic story. Its primary stability endpo
 ## Methodology
 
 - 28 patients randomized SLA vs SLA/plasma (ACTLINK). Recall 1/3 months; second-stage at 4 months. Buccal defects, stability, marginal bone change.
+- **Device (added 2026-08-10):** ACTILINK system (Plasmapp) — implant grounded, tube seals, vacuum to <10 torr via pumping, ~3 kV DBD discharge on implant surface, then further pumping removes residual impurities. **Whole cycle (vacuum + discharge + post-pump) takes about 1 min.**
 
 ## Results
 
@@ -51,5 +52,5 @@ The human RCT that complicates the optimistic story. Its primary stability endpo
 ## Related Papers
 
 - [[implants/surface/plasma/stacchi-2025-vacuum-plasma-early-implant-stability-rct]] — human RCT, late ISQ benefit (contrast).
-- [[implants/surface/plasma/kim-2025-plasma-surface-treatment-implant-stability-retrospective]] — human retrospective.
-- [[implants/surface/plasma/kahm-2024-vacuum-plasma-surface-treatment-osseointegration]] — animal vacuum plasma.
+- [[implants/surface/plasma/kim-2025-plasma-surface-treatment-implant-stability-retrospective]] — human retrospective; same ACTILINK device family, newer "Reborn" model with a published 4-phase 60 s cycle breakdown.
+- [[implants/surface/plasma/kahm-2024-vacuum-plasma-surface-treatment-osseointegration]] — animal vacuum plasma, same ACTILINK family (mini model), 60 s cycle.
