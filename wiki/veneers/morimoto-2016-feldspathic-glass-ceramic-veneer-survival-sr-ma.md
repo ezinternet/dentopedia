@@ -10,8 +10,13 @@ evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/morimoto-2016-feldspathic-glass-ceramic-veneer-survival-sr-ma.pdf
 pdf_filename: morimoto-2016-feldspathic-glass-ceramic-veneer-survival-sr-ma.pdf
 source_collection: external
-tags: []
+superseded_by: veneers/klein-2025-ceramic-laminate-veneer-survival-complications-sr-ma
+superseded_scope: partial
+tags: [laminate-veneer, feldspathic, glass-ceramic, survival, complications, systematic-review]
 ---
+
+> [!warning] Superseded (partial) → [[veneers/klein-2025-ceramic-laminate-veneer-survival-complications-sr-ma]]
+> Klein 2025 SR+MA(J Esthet Restor Dent, 29편)가 feldspathic·LRGC·LDS·zirconia 4가지 재료 베니어를 2024년 데이터까지 종합 — 10.4년 추적 기준 feldspathic 96.13%, LRGC 93.70%, LDS 96.81%. morimoto-2016은 feldspathic/glass-ceramic만, 2016년 이전 13편 한정. 현행 베니어 생존율 근거는 klein-2025를 인용할 것. (set 2026-08-11)
 
 ## Three-line Summary
 
