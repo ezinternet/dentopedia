@@ -3960,6 +3960,7 @@ tags: []
 - [[implants/mbl/hurzeler-2007-peri-implant-bone-level-platform-switched]] — Prospective non-randomized trial (PS 14 vs non-PS 8): 1yr crestal bone -0.22mm vs -2.02mm (P≤.0001); 0.45mm/side abutment reduction concluded "sufficient" (2007)
 - [[implants/mbl/kumar-2021-marginal-bone-level-changes-meta-analysis]] — Meta-analysis of marginal bone level changes at dental implants across loading protocols (2021)
 - [[implants/mbl/lazzara-2006-platform-switching-new-concept]] — Foundational paper coining "platform switching": accidental narrow-abutment restorations (1991 inventory gap) showed less crestal bone loss (2006)
+- [[implants/mbl/rodriguez-ciurana-2009-interimplant-distance-platform-switched-bone-crest]] — Prospective (41 pairs <3mm apart, n=37): extends Tarnow 2000's 3mm IID rule to PS implants — bone peak preserved 0.24mm coronal to IAJ-to-IAJ line even under 3mm spacing (2009)
 - [[implants/mbl/salimi-2011-platform-switching-current-results]] — Platform switching: current results and trends in marginal bone preservation (2011)
 - [[overviews/platform-switching-marginal-bone-preservation-synthesis]] — Synthesis 2026-08-09 신설 (8편): 플랫폼 스위칭(PS)이 변연골소실(MBL)을 일관되게 감소 — SR+MA 3편(Strietzel 2015: PS 0.49mm vs PM 1.01mm; Di Girolamo 2016: PM 우위 연구 0편; Juan-Montesinos 2022: MD 0.255mm)+RCT 3편(Enkling 2013·Rocha 2016·Messias 2019 5년) 전부 같은 방향, 생존율 무차이; 탐침깊이 소폭 증가 경향(경계적 유의)이 유일한 미해결 신호
 
