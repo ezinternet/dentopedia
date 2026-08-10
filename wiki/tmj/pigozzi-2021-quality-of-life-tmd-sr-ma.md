@@ -6,18 +6,26 @@ date: 2021-03-31
 doi: 10.1186/s12955-021-01727-7
 source: pigozzi-2021-quality-of-life-tmd-sr-ma.md
 category: [tmj]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/pigozzi-2021-quality-of-life-tmd-sr-ma.pdf
 pdf_filename: pigozzi-2021-quality-of-life-tmd-sr-ma.pdf
 source_collection: external
 tags: [tmd, quality-of-life, rdc-tmd, dc-tmd, muscle-disorders, disc-displacement, arthralgia, arthrosis, smd, sr-ma]
 ---
 
-## One-line Summary
-SR+MA (24 studies, n=3,829, 2021): all TMD axis I groups have significantly worse QoL vs asymptomatic controls; effect largest for arthralgia/arthrosis (SMD 0.98) and muscle disorders (SMD 0.82), smaller for disc displacement (SMD 0.59).
+## Three-line Summary
+First SR+MA to quantify QoL differences by RDC/TMD axis I diagnostic subgroup (24 studies SR, 9 in MA, n=3,829 young/middle-age adults vs asymptomatic controls), using standardized mean differences.
 
-## 한줄요약
-SR+MA (24편, n=3,829): 모든 TMD 진단 그룹에서 QoL 유의하게 저하; 관절통·관절염형(SMD 0.98)과 근육형(0.82)이 디스크변위형(0.59)보다 QoL 더 낮음.
+All four comparisons showed significantly worse QoL in TMD patients: global TMD SMD 1.06; arthralgia/arthritis/arthrosis SMD 0.98; muscle disorders SMD 0.82; disc displacements SMD 0.59 — all p<0.001.
+
+Muscle-disorder and arthralgia/arthrosis subtypes carry larger QoL burden than disc displacement, supporting more aggressive QoL-targeted care for RDC/TMD Groups I and III and validating DC/TMD Axis II (psychosocial) assessment.
+
+## 세줄요약
+RDC/TMD 축 I 진단 하위군별 삶의질(QoL) 차이를 처음으로 표준화 평균차(SMD)로 정량화한 SR+MA (24편 SR, 9편 MA, n=3,829 청·중년 vs 무증상 대조군).
+
+모든 비교에서 TMD 환자의 QoL 유의하게 저하: 전체 TMD SMD 1.06; 관절통·관절염형 0.98; 근육형 0.82; 디스크변위형 0.59 — 모두 p<0.001.
+
+근육형·관절통형이 디스크변위형보다 QoL 저하 더 크므로 RDC/TMD I군·III군에 더 적극적인 QoL 지향 치료 우선; DC/TMD 축 II(심리사회) 평가의 타당성 지지.
 
 ## Summary
 First SR+MA to quantify QoL differences by RDC/TMD axis I diagnostic group, using standardized mean differences. From 806 articles screened, 24 studies included in SR and 9 in MA (n=3,829). All four comparisons (global TMD and each axis I subgroup) showed significantly worse QoL in TMD patients vs asymptomatic controls. Effect sizes were large for global TMD (SMD 1.06), Group I muscle disorders (0.82), and Group III arthralgia/arthritis/arthrosis (0.98). Group II disc displacements (0.59) showed smaller but still significant effect. Supports the biopsychosocial model: TMD's burden extends well beyond pain.

@@ -12,11 +12,21 @@ source_collection: external
 ## Why Ingested
 NCCL 병인 이론(erosion·abrasion·abfraction)을 비교 정리한 narrative review. [[nccl/grippo-2012-abfraction-abrasion-biocorrosion-nccl-20year]] schema와 [[nccl/dioguardi-2024-abfraction-theory-controversy-scoping-review]]의 후속 scoping review를 잇는 같은 그룹(Foggia)의 개념 정리.
 
-## One-line Summary
-Narrative review comparing the competing etiopathological theories of NCCLs (erosion, abrasion, and the disputed abfraction), concluding erosion + abrasion are widely accepted while occlusal-load abfraction remains contested.
+## Three-line Summary
 
-## 한줄요약
-NCCL 병인 이론(erosion·abrasion·abfraction)을 비교한 narrative review — erosion·abrasion은 다수설, 교합부하 abfraction은 여전히 논쟁적.
+Narrative review (University of Foggia group) comparing the competing etiopathological theories of noncarious cervical lesions (NCCLs) — erosion, abrasion, and the disputed abfraction — and tracing their differential impact on enamel and dentin mineralized structures from G.V. Black (1908) onward.
+
+Erosion (acid-driven) and abrasion (mechanical/brushing-driven) are the two widely accepted mechanisms; occlusal-load abfraction remains contested because no single mechanism explains all lesion morphologies, requiring a multifactorial model.
+
+This narrative review is a conceptual precursor to the same group's 2024 PRISMA-ScR scoping review (Dioguardi 2024), which more rigorously analyzed the abfraction evidence base and found it insufficient to confirm or refute occlusal-load aetiology.
+
+## 세줄요약
+
+NCCL(비우식성 치경부 병소, Noncarious Cervical Lesion) 병인 이론(erosion·abrasion·abfraction)을 비교한 narrative review(Foggia대 그룹) — G.V. Black(1908) 이후 역사적 분류부터 법랑질·상아질 경조직에 대한 영향까지 정리.
+
+산(acid) 기반 침식(erosion)과 기계적 마모(abrasion)는 다수설로 수용; 교합부하 abfraction은 단일 기전으로 모든 병소 설명 불가 → 다인성 모델 필요, 논쟁 지속.
+
+본 narrative review는 동일 그룹의 2024년 PRISMA-ScR scoping review(Dioguardi 2024)의 개념적 전구체 — 후속 연구에서 abfraction 근거가 확정도 반박도 불충분함이 더 엄격하게 검증됨.
 
 ## 1. Document Information
 - International Journal of Dentistry 2023, Article ID 8838314, 8 pages. DOI 10.1155/2023/8838314. Open access (CC BY). Univ of Foggia.

@@ -17,13 +17,21 @@ text_filename: spinelli-2024-three-year-single-cone-ceraseal-cohort.txt
 
 This 3-year prospective cohort seeds the wiki's first Ceraseal (Meta Biomed premixed calcium-silicate bioceramic sealer) clinical-outcome page and supplies the **longest clinical follow-up** available for Ceraseal + single-cone (prior evidence capped at 24 months). It extends [[endodontics/zamparini-2023-premixed-calcium-silicate-carrier-based-2year]] (same Bologna group, 24-month carrier-based premixed CaSi outcome) to 36 months and a single-cone protocol, and complements the in-vitro Ceraseal characterization papers ([[endodontics/kunam-2024-wettability-ahplus-ceraseal-guttaflow]], [[endodontics/maharti-2024-calcium-silicate-apatite-deposition-ph]]) with hard clinical PAI/survival endpoints. Source: PubMed/PMC ([DOI](https://doi.org/10.14744/eej.2024.75537)).
 
-## One-line Summary
+## Three-line Summary
 
-Prospective cohort (52 patients, 58 RCTs; Ceraseal + single-cone) reporting 92.7% survival and 92.1% per-protocol healing (PAI ≤2) at 36 months, with 100% healing in pulpitis and pulp-necrosis teeth.
+Prospective cohort (52 patients, 58 RCTs;
 
-## 한줄요약
+Ceraseal + single-cone) reporting 92.7% survival and 92.1% per-protocol healing (PAI ≤2) at 36 months, with 100% healing in pulpitis and pulp-necrosis teeth.
+
+(incomplete)
+
+## 세줄요약
 
 전향 코호트(환자 52명·근관치료 58건, Ceraseal + 단일콘): 36개월 생존율 92.7%, per-protocol 치유율(PAI ≤2) 92.1%, 치수염·치수괴사 치아는 100% 치유.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

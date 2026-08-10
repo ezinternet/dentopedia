@@ -5,7 +5,7 @@ year: 2026
 date: 2026-06-08
 source: synthesis
 category: overviews
-confidence: narrative-review
+evidence_level: narrative-review
 ---
 
 <p align="center" style="margin:0 0 0.5rem; font-size:0.8rem; color:var(--darkgray);">Last update <!-- LAST_UPDATED -->2026-06-08<!-- /LAST_UPDATED --> &nbsp;·&nbsp; 총 논문자료: <!-- PAPER_COUNT -->2115<!-- /PAPER_COUNT -->편 &nbsp;·&nbsp; 분야별 한눈에 요약: <!-- OVERVIEW_COUNT -->155<!-- /OVERVIEW_COUNT -->개</p>
@@ -68,7 +68,19 @@ confidence: narrative-review
   <a href="https://ezinternet.github.io/dentopedia/interactives/" style="display:block; text-decoration:none; background:var(--tertiary); border:1px solid var(--tertiary); border-radius:10px; padding:1rem;">
     <div style="font-size:1.8rem; line-height:1;">🦷</div>
     <strong style="display:block; margin:0.4rem 0 0.2rem; color:#fff;">Interactive Tools</strong>
-    <span style="font-size:0.85em; color:rgba(255,255,255,0.85);">chairside 계산기·결정트리·시뮬레이터 <!-- INTERACTIVE_COUNT -->31<!-- /INTERACTIVE_COUNT -->편.</span>
+    <span style="font-size:0.85em; color:rgba(255,255,255,0.85);">chairside 계산기·결정트리·시뮬레이터 <!-- INTERACTIVE_COUNT -->61<!-- /INTERACTIVE_COUNT -->편.</span>
+  </a>
+
+  <a href="https://ezinternet.github.io/dentopedia/interactives/contradiction-radar.html" style="display:block; text-decoration:none; border:1px solid var(--lightgray); border-left:3px solid #e05d5d; border-radius:10px; padding:1rem;">
+    <div style="font-size:1.8rem; line-height:1;">🎯</div>
+    <strong style="display:block; margin:0.4rem 0 0.2rem;">논쟁 레이더</strong>
+    <span style="font-size:0.85em; color:var(--darkgray);">위키 안에서 근거가 충돌하는 <!-- DEBATE_COUNT -->149<!-- /DEBATE_COUNT -->개 지점 — 회색지대 지도.</span>
+  </a>
+
+  <a href="https://ezinternet.github.io/dentopedia/lectures/" style="display:block; text-decoration:none; border:1px solid var(--lightgray); border-left:3px solid var(--secondary); border-radius:10px; padding:1rem;">
+    <div style="font-size:1.8rem; line-height:1;">🎓</div>
+    <strong style="display:block; margin:0.4rem 0 0.2rem;">강의·교육 슬라이드</strong>
+    <span style="font-size:0.85em; color:var(--darkgray);">위키 근거 기반 세미나·직원 교육용 Marp 덱 <!-- LECTURE_COUNT -->4<!-- /LECTURE_COUNT -->편.</span>
   </a>
 
 </div>
@@ -96,4 +108,4 @@ confidence: narrative-review
 
 ## 전체 논문 카탈로그
 
-1,200+ 편의 한 줄 주석이 달린 전체 카탈로그는 저장소 루트 `index.md`(Obsidian vault home)에 있습니다. 웹 사이트에는 의도적으로 미배포 — 단일 노드가 1,200+ 페이지에 링크되면 그래프 뷰의 force 시뮬레이션이 과부하로 깨지기 때문. 전체 목록 열람·검색은 좌측 탐색기와 상단 검색으로 대체.
+<!-- PAPER_COUNT -->2115<!-- /PAPER_COUNT -->편의 한 줄 주석이 달린 전체 카탈로그는 저장소 루트 `index.md`(Obsidian vault home)에 있습니다. 웹 사이트에는 의도적으로 미배포 — 단일 노드가 수천 페이지에 링크되면 그래프 뷰의 force 시뮬레이션이 과부하로 깨지기 때문. 전체 목록 열람·검색은 좌측 탐색기와 상단 검색으로 대체.

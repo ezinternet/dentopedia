@@ -9,8 +9,21 @@ pdf_filename: kharat-2015-convergence-marginal-seating-fpd-pier-abutment.pdf
 source_collection: external
 ---
 
-## One-line Summary
-J Clin Diagn Res 2015;9(7):ZC56-ZC60 (Triveni Institute, India) — in vitro evaluation of marginal seating of cast single crowns, 3-unit FPDs, and multi-unit FPDs with pier abutment at 0°, 6°, 12°, 20° convergence angles; convergence-marginal fit interaction documented across configurations.
+## Three-line Summary
+
+J Clin Diagn Res 2015;9(7):ZC56-ZC60 (Triveni Institute, India) — in vitro evaluation of
+
+marginal seating of cast single crowns, 3-unit FPDs, and multi-unit FPDs with pier
+
+abutment at 0°, 6°, 12°, 20° convergence angles; convergence-marginal fit interaction documented across configurations.
+
+## 세줄요약
+
+J Clin Diagn Res 2015;9(7):ZC56-ZC60 (Triveni Institute, India) — 시험관내 (In vitro) evaluation of
+
+marginal seating of cast single crowns, 3-unit FPDs, and multi-unit FPDs with pier
+
+abutment at 0°, 6°, 12°, 20° convergence angles; convergence-marginal fit interaction documented across configurations.
 
 ## 1. Document Information
 - Journal: Journal of Clinical and Diagnostic Research 2015;9(7):ZC56-ZC60

@@ -7,7 +7,7 @@ pmid: "32451759"
 source_collection: pubmed-text
 full_text: false
 category: [bone-regeneration/ridge-preservation]
-confidence: animal
+evidence_level: animal
 text_path: /Users/oracleneo/llm-wiki/papers/kim-2020-bmp2-immediate-delayed-damaged-socket-yonsei.txt
 text_filename: kim-2020-bmp2-immediate-delayed-damaged-socket-yonsei.txt
 source_url: https://pubmed.ncbi.nlm.nih.gov/32451759/
@@ -17,13 +17,21 @@ source_url: https://pubmed.ncbi.nlm.nih.gov/32451759/
 
 Yonsei University preclinical data on BMP-2 timing in damaged sockets — addresses a practical protocol question (immediate vs delayed biologics application) not covered by existing SR papers on ridge preservation; Korean institution with direct clinical relevance for biologics-augmented ARP protocols. Links to [[wiki/bone-regeneration/ridge-preservation]] for context on ARP grafting strategies.
 
-## One-line Summary
+## Three-line Summary
 
 Beagle dog RCT comparing immediate vs 2-week delayed BMP-2 injection into damaged extraction sockets found significantly greater new bone area with immediate application (10.8 vs 6.3 mm², p=0.043).
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 개 실험에서 손상된 발치와에 BMP-2를 즉시 적용한 군이 2주 지연 적용군보다 신생골 면적이 유의하게 컸음 (10.8 vs 6.3 mm², p=0.043).
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

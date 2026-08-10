@@ -13,13 +13,21 @@ source_collection: external
 
 치조제보존술 (Alveolar Ridge Preservation, ARP) 후 임플란트의 수직적 위치(within vs. beyond ARP 경계)가 ISQ에 미치는 영향을 직접 비교한 임상 자료가 부족하여 인제스트. 기존 [[implants/isq/bavetta-2019-insertion-torque-isq-immediate-loading-extraction-socket]]이 즉시 발치 소켓에서의 삽입 토크-ISQ 관계를 다루는 반면, 본 연구는 ARP 치유 후 10주 시점의 ISQ를 결과 지표로 삼아 수직 위치 결정의 임상적 의미를 분석한다.
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective case series (n=30 sites, 28 patients) comparing implants placed within vs. beyond ARP boundaries: beyond-ARP group showed higher insertion torque (33.33 vs. 17.08 Ncm) but equivalent ISQ at 10 weeks (80.66 vs. 76.44).
+Retrospective case series (n=30 sites, 28 patients) comparing implants placed within vs.
 
-## 한줄요약
+beyond ARP boundaries: beyond-ARP group showed higher insertion torque (33.33 vs.
+
+17.08 Ncm) but equivalent ISQ at 10 weeks (80.66 vs. 76.44).
+
+## 세줄요약
 
 후향적 증례연구(30부위, 28명): ARP 경계 초과 임플란트는 삽입 토크가 높았으나(33.33 대 17.08 Ncm), 10주 ISQ는 두 군 간 유의한 차이 없음(80.66 대 76.44).
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

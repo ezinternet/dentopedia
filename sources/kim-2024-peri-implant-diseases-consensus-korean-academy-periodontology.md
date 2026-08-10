@@ -9,8 +9,21 @@ pdf_filename: kim-2024-peri-implant-diseases-consensus-korean-academy-periodonto
 source_collection: external
 ---
 
-## One-line Summary
-Narrative review backing the Korean Academy of Periodontology consensus report on peri-implant diseases. Covers definition/prevalence/classification, risk indicators, diagnostic criteria, and treatment protocols.
+## Three-line Summary
+
+Narrative review backing the Korean Academy of
+
+Periodontology consensus report on peri-implant diseases. Covers
+
+definition/prevalence/classification, risk indicators, diagnostic criteria, and treatment protocols.
+
+## 세줄요약
+
+Narrative review backing the Korean Academy of
+
+Periodontology consensus report on peri-implant diseases. Covers
+
+definition/prevalence/classification, risk indicators, diagnostic criteria, and treatment protocols.
 
 ## 1. Document Information
 - **Title:** Current understanding of the etiology, diagnosis, treatment, and management of peri-implant diseases: a narrative review for the consensus report of the Korean Academy of Periodontology
@@ -33,8 +46,8 @@ Narrative consensus, not a systematic synthesis; risk-factor estimates from hete
 
 ## 6. Related Work
 - [[periodontics/cha-2024-peri-implantitis-treatment-protocol-flowchart]]
-- [[periodontics/grusovin-2022-antibiotics-non-surgical-peri-implantitis-ma]]
-- [[periodontics/kim-2025-management-peri-implantitis-perspectives]]
+- [[implants/peri-implantitis/grusovin-2022-antibiotics-non-surgical-peri-implantitis-ma]]
+- [[implants/peri-implantitis/kim-2025-management-peri-implantitis-perspectives]]
 
 ## 7. Glossary
 - **PPD:** Probing Pocket Depth.

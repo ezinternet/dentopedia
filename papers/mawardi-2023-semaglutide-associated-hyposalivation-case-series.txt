@@ -1,0 +1,35 @@
+Semaglutide-associated hyposalivation: A report of case series
+Mawardi HH, Almazrooa SA, Dakhil SA, Aboalola AA, Al-Ghalib TA, Eshky RT, Niyazi AA, Mawardi MH.
+Medicine (Baltimore). 2023. PMID 38206684. PMCID PMC10754586. DOI 10.1097/MD.0000000000036730
+Source: https://pmc.ncbi.nlm.nih.gov/articles/PMC10754586/ (PubMed Central full text)
+
+ABSTRACT
+Rationale: Obesity and diabetes are global health risks with rising prevalence. Semaglutide (Ozempic) is a popular GLP-1 receptor agonist improving glucose control and weight loss. No reports on the effect of semaglutide on the oral cavity, specifically xerostomia, are available. We report 3 cases who developed secondary xerostomia on semaglutide.
+Patient concerns: Three female patients, median age 34 (range 27–46), presented with chief complaint of xerostomia. All were overweight (mean BMI 35.6, range 35–37) and had used semaglutide for weight loss for a mean 11.3 weeks (range 6–16).
+Diagnoses: All 3 had severe dry mouth with minimal frothy saliva; mean modified Schirmer test 9 mL at 3 minutes (range 8–10). After excluding other causes, semaglutide-induced hyposalivation was diagnosed.
+Interventions: Management varied — discontinuation, pilocarpine, or conservative symptomatic care.
+Outcomes: Patients resumed acceptable salivary flow.
+Lessons: First report of hyposalivation associated with semaglutide. Larger prospective studies warranted.
+
+FULL TEXT
+
+1. Introduction
+Obesity and diabetes are global health risks. Semaglutide (Ozempic) is a subcutaneous weekly GLP-1 receptor agonist causing weight loss independent of BMI. Generally safe; common toxicities include hypoglycemia, pancreatitis, gallbladder stones, and less commonly pancreatic/thyroid cancer. No reports on its effect on the oral cavity or xerostomia/hyposalivation exist. Authors report 3 cases of semaglutide use developing secondary hyposalivation — believed to be the first such report.
+
+2. Case description
+Case 1: 46-year-old female, rheumatoid arthritis, overweight (BMI 35), on methotrexate (3 years) and semaglutide (0.5 mg SC weekly, 12 weeks). Chief complaint xerostomia + coated tongue for 8 weeks; no eye dryness. Drinks 1.5–2 L water + 1 cup tea daily. Exam: white non-scrapable coated tongue, dry sticky mucosa, minimal frothy saliva. Modified Schirmer test 10 mL at 3 min. Sjögren screening normal. HbA1c 5.9. Diagnosed medication-induced hyposalivation associated with semaglutide. Referred to endocrinology; semaglutide discontinued. At 4-week follow-up salivary flow normalized (modified Schirmer 30 mL at 3 min).
+Case 2: 27-year-old female, overweight (BMI 37), semaglutide (0.5 mg SC weekly, 16 weeks). Chief complaint xerostomia + dry lips for 12 weeks; no eye dryness. Drinks 1.3–1.7 L water + 2 cups coffee. Exam: dry chapped lips, dry sticky mucosa, minimal frothy saliva. Modified Schirmer 9 mL at 3 min. Sjögren screening normal. HbA1c 6. Diagnosed semaglutide-associated hyposalivation. Physician advised continuing semaglutide; started pilocarpine 5 mg/day. At 4-week follow-up acceptable flow (25 mL at 3 min).
+Case 3: 34-year-old female, overweight (BMI 35), semaglutide (0.5 mg SC weekly, 6 weeks). Chief complaint xerostomia + halitosis for 2 weeks; no eye dryness. Drinks 2.5 L water + 1 cup coffee, still thirsty. Exam: dry mouth, minimal frothy saliva. Modified Schirmer 8 mL at 3 min. Sjögren screening normal. HbA1c 5.9. Diagnosed semaglutide-associated hyposalivation. Chose to continue semaglutide until target weight. At 16-week follow-up acceptable flow (27 mL at 3 min).
+
+3. Discussion
+Xerostomia = subjective dry mouth; prevalence 5.5–46% in general population, often associated with hyposalivation (objective reduction). Average stimulated salivary flow 1.5–2 mL/min; unstimulated 0.3–0.4 mL/min. Common causes: certain medications (antidepressants, antihypertensives, steroid inhalers), head-and-neck radiation, Sjögren's. Chronic hyposalivation → rampant caries, oral fungal infections, halitosis.
+Semaglutide: FDA approved 2017 for type 2 diabetes; 2020 extended for cardiovascular risk reduction; oral and subcutaneous forms; GLP-1 receptor agonist delaying gastric emptying and suppressing appetite. GLP-1 also expressed in brain affecting water intake, satiety, stress, energy homeostasis. Other mechanisms: natriuretic/diuretic properties, reduced renal hypoxia, reduced renal angiotensin II. Reported toxicities mostly mild (nausea, diarrhea, headache, UTI).
+Differential diagnosis excluded: dehydration/low water intake (water intake within lower-normal; severity/duration argue against), radiation (none), systemic disease (diabetes/Sjögren excluded — no eye dryness, normal Sjögren panel: RF, anti-Ro, anti-La, ANA; normal HbA1c). Methotrexate literature search found no hyposalivation association.
+Reasons semaglutide considered causal: (1) known mechanism + body water loss properties; (2) chronic diarrhea → dehydration; (3) nasopharyngitis (Yabe et al) → mouth breathing/dry mouth; (4) treatment duration and onset supported diagnosis. Notable: onset of hyposalivation ~4 weeks after starting semaglutide.
+No prior reports link semaglutide with hyposalivation. Other GLP-1 receptor agonists (albiglutide, exenatide, liraglutide, lixisenatide, dulaglutide) also have no published reports of hyposalivation/xerostomia. Reasonable to educate patients starting semaglutide about hyposalivation risk and dental follow-up for early detection/management.
+
+4. Conclusion
+First report of hyposalivation associated with semaglutide use. Based on 3 cases; further prospective, larger studies warranted.
+
+5. Patients' perspective
+All 3 patients presented with xerostomia affecting quality of life; involved in evaluating severity with physician consultation affecting choice to discontinue or continue and treat symptoms.

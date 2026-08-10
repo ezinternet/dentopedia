@@ -1,0 +1,31 @@
+SOURCE: PubMed (abstract only — no PMCID, full text not available in PMC)
+PMID: 41116691
+DOI: 10.1111/scd.70109
+Journal: Special Care in Dentistry (Spec Care Dentist) 2025;45(5):e70109
+Article types: Journal Article, Observational Study
+Language: eng
+
+TITLE
+Frequency and Severity of Post-Procedure Bleeding Events Following Dental Extractions Completed in Patients on Heparin Therapy.
+
+AUTHORS
+Claudia Patricia Lopez Silva — School of Dentistry, The University of Queensland, Brisbane, Australia.
+Brandon Lim — Melbourne Dental School, University of Melbourne; Dental Services, The Alfred, Melbourne, Australia.
+Pritam Daniel Sundaresan — School of Allied Health, The University of Western Australia, Perth; Maxillofacial and Dental Surgery, Fiona Stanley Hospital, Murdoch, Australia; Sir John Walsh Research Institute, University of Otago, Dunedin, New Zealand.
+Ying Gu — Department of Oral Medicine, Oral Pathology and Special Needs Dentistry, Westmead Hospital, Sydney, Australia.
+Mathew Albert Wei Ting Lim — Melbourne Dental School, University of Melbourne; Dental Services, The Alfred; School of Translational Medicine, Monash University; Oral and Maxillofacial Surgery and Dental Clinic, Royal Melbourne Hospital, Melbourne, Australia.
+
+ABSTRACT
+Despite the existence of clear management protocols for patients treated with warfarin, direct-acting oral anticoagulants, and anti-thrombotic medications requiring dental extractions, guidelines for patients on injectable anticoagulants or heparins are limited. This absence of advice for dentists and doctors results in potential confusion about the safety of these dental procedures, impacting timely patient care.
+
+A prospective, observational study was completed at two Australian hospital-based dental clinics to determine the frequency and severity of bleeding events, within the 48-h period, following dental extractions completed in heparinized patients.
+
+During the study period, 95 heparinized patients received a total of 185 dental extractions. Six patients had minor bleeding in the first 48 h after their procedure, representing a rate of 6.3%. All bleeding episodes were managed with direct pressure to the site with gauze. Bivariate analysis identified that patients treated with unfractionated heparin, compared to low-molecular-weight heparins, and extractions completed closer to the last dose of heparin had higher rates of post-extraction bleeding (p ≤ 0.01).
+
+Dental extractions can be completed safely for patients on injectable anticoagulants when careful local hemostatic measures are used. Based on the low rates and minor nature of post-extraction bleeding, interruption or change to dosing of heparin therapy is unnecessary to facilitate these invasive dental procedures.
+
+KEYWORDS
+anticoagulants; enoxaparin; heparin; observational studies; oral surgical procedures; post-operative hemorrhage
+
+MESH TERMS
+Humans; Tooth Extraction; Anticoagulants; Prospective Studies; Male; Female; Heparin; Postoperative Hemorrhage; Middle Aged; Aged; Australia; Adult; Aged, 80 and over

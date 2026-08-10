@@ -6,7 +6,7 @@ date: 2017-06-22
 doi: 10.1080/00016357.2017.1340667
 source: jimenez-silva-2017-centric-relation-intercuspal-position-discrepancy.md
 category: [occlusion]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: false
 pmid: "28641068"
@@ -19,13 +19,21 @@ relations:
     target: kattadiyil-2021-relationship-centric-occlusion-maximal-intercuspal
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (n=20 low-quality observational studies; NOS mean 3.36): most individual studies link CR–ICP (centric) discrepancy to muscle pain and joint disorders, but heterogeneity + low quality preclude any definite causal association with TMD.
+Systematic review (20 analytical observational studies, NOS mean 3.36) searching nine databases (1960–2016) to test whether the centric-relation–intercuspal position (CR–ICP) discrepancy is associated with temporomandibular disorders (TMDs).
 
-## 한줄요약
+Most individual studies reported an association between CR–ICP discrepancy and muscle pain, joint noise, disc displacement, and osteoarthritis, but results were inconsistent across studies due to methodological heterogeneity.
 
-체계적 문헌고찰(저질 관찰연구 20편, NOS 평균 3.36): 대부분의 개별 연구는 중심위–최대교두감합위 불일치(CR–ICP discrepancy, centric slide)를 근육통·관절장애와 연관시키지만, 이질성과 낮은 질로 인해 측두하악장애(TMD)와의 확정적 인과 연관은 성립할 수 없다.
+Low evidence quality (NOS mean 3.36) and design heterogeneity preclude establishing a definite CR–ICP → TMD causal association; longitudinal studies with validated diagnostic criteria are needed.
+
+## 세줄요약
+
+9개 데이터베이스(1960–2016)에서 중심위(CR)–최대교두감합위(ICP) 불일치와 측두하악장애(TMD) 연관성을 검토한 체계적 고찰(관찰연구 20편, NOS 평균 3.36).
+
+대부분의 개별 연구는 CR–ICP 불일치를 근육통, 관절잡음, 원판변위, 골관절염과 연관 짓지만, 연구 간 결과가 불일치했다.
+
+근거 수준이 낮고(NOS 평균 3.36) 이질성이 크므로 CR–ICP 불일치가 TMD의 원인이라는 확정적 결론을 낼 수 없으며, 검증된 진단 기준을 사용한 종단 연구가 필요하다.
 
 ## Summary
 

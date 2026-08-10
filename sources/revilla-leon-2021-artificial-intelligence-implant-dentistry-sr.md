@@ -9,8 +9,21 @@ pdf_filename: revilla-leon-2021-artificial-intelligence-implant-dentistry-sr.pdf
 source_collection: external
 ---
 
-## One-line Summary
-J Prosthet Dent 2023;129:293-300 (ePub 2021): SR (17 studies): AI for implant type recognition 93.8–98% accuracy; osseointegration success prediction 62.4–80.5%; implant design optimization; all models in development — additional clinical validation needed.
+## Three-line Summary
+
+J Prosthet Dent 2023;129:293-300 (ePub 2021): SR (17 studies): AI for implant type recognition 93.8–98% accuracy
+
+osseointegration success prediction 62.4–80.5%
+
+implant design optimization; all models in development — additional clinical validation needed.
+
+## 세줄요약
+
+J Prosthet Dent 2023;129:293-300 (ePub 2021): SR (17 studies): AI for implant type recognition 93.8–98% accuracy
+
+osseointegration success prediction 62.4–80.5%
+
+implant design optimization; all models in development — additional 임상적 (Clinical) validation needed.
 
 ## 1. Key Results
 - SR of 17 studies (search to Feb 2021); 5 databases

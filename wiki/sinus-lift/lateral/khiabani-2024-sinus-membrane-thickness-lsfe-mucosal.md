@@ -6,7 +6,7 @@ date: 2024-12-11
 doi: 10.11607/jomi.10839
 source: khiabani-2024-sinus-membrane-thickness-lsfe-mucosal.md
 category: sinus-lift/lateral
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/khiabani-2024-sinus-membrane-thickness-lsfe-mucosal.pdf
 pdf_filename: khiabani-2024-sinus-membrane-thickness-lsfe-mucosal.pdf
 source_collection: external
@@ -14,17 +14,25 @@ tags: [sinus-membrane-thickness, lsfe, lateral-window, mucosal-thickness, rhinos
 relations:
   - type: extends
     target: munakata-2021-sinus-membrane-thickness-edentulous-cbct
-  - type: reinforces
+  - type: extends
     target: sinus-lift-lateral-2026-synthesis
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Prospective controlled trial (n=40 sinuses, 20/group) showing lateral SFE in thickened sinus mucosa (>5 mm, <10 mm) resolves membrane swelling significantly (6.8→3.4 mm, p<.001) without rhinosinusitis — thickened mucosa is not a contraindication to LSFE.
+Prospective controlled clinical trial (n=40 patients, 40 unilateral sinuses; Group A <5 mm SMT, n=20; Group B >5–<10 mm SMT, n=20) evaluating sinus health and augmentation outcomes at 6 months after lateral sinus floor elevation (LSFE) with simultaneous implant placement.
 
-## 한줄요약
+Thickened-membrane group (B) showed significant SMT reduction from 6.8 to 3.4 mm (p<.001); augmentation adequacy and perforation rates were equivalent between groups; neither group developed rhinosinusitis (0/40); Group B had significantly more intraoperative bleeding (p=.003) and resistance (p=.001).
 
-전향적 대조 임상시험 (n=40 상악동): 수술 전 상악동점막두께 (Sinus Membrane Thickness, SMT) >5 mm군은 측방 상악동저 거상술 (Lateral Sinus Floor Elevation, LSFE) 후 6개월에 6.8→3.4 mm로 유의하게 감소 (p<.001)하고 비부비동염 (Rhinosinusitis) 없이 골증대 충분 — 두꺼운 점막은 LSFE 금기증 아님.
+Thickened sinus mucosa up to <10 mm is not a contraindication to LSFE; the procedure itself appears to have a therapeutic normalizing effect on mucosal hypertrophy.
+
+## 세줄요약
+
+전향적 대조 임상시험 (n=40명, 40개 편측 상악동: <5 mm군 20명, >5 mm–<10 mm군 20명): 측방 상악동저 거상술 (Lateral Sinus Floor Elevation, LSFE) 동시 임플란트 식립 후 6개월 추적.
+
+두꺼운 점막군 상악동막 두께 (Sinus Membrane Thickness, SMT) 6.8→3.4 mm 유의 감소 (p<.001); 두 군 간 골증대 충분성·천공률 동등; 비부비동염 (Rhinosinusitis) 0/40; 두꺼운 점막군에서 출혈 (p=.003)·막 거상 저항 (p=.001) 유의하게 큼.
+
+술전 상악동 점막 두께 <10 mm는 LSFE 금기증이 아니며, 오히려 시술 자체가 점막 비후의 치료적 정상화 효과를 보일 수 있음.
 
 ## Summary
 

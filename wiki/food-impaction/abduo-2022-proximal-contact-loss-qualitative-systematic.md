@@ -6,18 +6,28 @@ date: 2022-08-01
 doi: "10.1016/j.heliyon.2022.e10064"
 source: abduo-2022-proximal-contact-loss-qualitative-systematic.md
 category: [food-impaction]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/abduo-2022-proximal-contact-loss-qualitative-systematic.pdf
 pdf_filename: abduo-2022-proximal-contact-loss-qualitative-systematic.pdf
 source_collection: external
 tags: [proximal-contact-loss, food-impaction, implant-prosthesis, systematic-review]
 ---
 
-## One-line Summary
-Qualitative systematic review (19 studies) showing PCL prevalence rises with service time — 11–30% (<2y), 13–65% (2–5y), 29–83.3% (>5y) — driven mainly by duration and mesial location, with food impaction and patient dissatisfaction as the chief implications.
+## Three-line Summary
 
-## 한줄요약
-정성적 SR(19편): PCL은 기능 기간에 따라 증가(>5년 29–83.3%)하고, 주 인자는 기간·mesial, 주 결과는 식편압입·환자 불만족이다.
+Qualitative systematic review of 19 clinical studies (8 databases, searched to September 2021) stratifying proximal contact loss (PCL) prevalence between implant prostheses and adjacent natural teeth by service duration.
+
+PCL prevalence rose progressively: 11–30% at <2 years, 13–65% at 2–5 years, and 29–83.3% at >5 years; the strongest influencing factors were service duration and mesial contact location, while occlusion, vitality, and splinting had weak or inconsistent associations.
+
+PCL is frequent, inevitable, and progressive; food impaction and patient dissatisfaction are the established clinical implications, whereas associations with bone loss and peri-implant inflammation remain uncertain.
+
+## 세줄요약
+
+임플란트 보철과 인접 자연치 사이 근접접촉소실(PCL, Proximal Contact Loss) 유병률을 기능 기간별로 층화한 19편 임상연구 정성적 체계적 문헌고찰(8개 DB, 2021년 9월까지).
+
+PCL 유병률은 기간에 따라 증가: <2년 11–30%, 2–5년 13–65%, >5년 29–83.3%; 가장 강한 영향 인자는 기능 기간과 mesial 접촉 위치; 교합·인접치 활력·splinting은 약하거나 불일치 연관.
+
+PCL은 빈번하고 불가피하며 진행성임; 식편압입과 환자 불만족이 확립된 임상 결과이며, 골소실·임플란트 주위 염증과의 연관은 불분명.
 
 ## Summary
 This qualitative systematic review pooled 19 clinical studies on proximal contact loss (PCL) between implant prostheses and adjacent natural teeth, stratifying prevalence by service duration. Short-term studies (<2 years) reported 11–30%, medium-term (2–5 years) 13–65%, and long-term (>5 years) 29–83.3%, establishing PCL as a time-dependent, progressive phenomenon. The most consistent influencing factors were service duration and the mesial location of the contact; occlusion, vitality of adjacent teeth, implant location, patient age and splinting had weaker or inconsistent associations. Food impaction and patient dissatisfaction were the clearest implications, whereas bone loss, peri-implant inflammation, bleeding on probing and pocket depth were less clearly linked. The authors conclude PCL is frequent, inevitable and progressive, and call for research on prosthesis design.

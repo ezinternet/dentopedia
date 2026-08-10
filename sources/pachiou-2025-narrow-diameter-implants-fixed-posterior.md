@@ -13,13 +13,21 @@ source_collection: external
 
 신규 [[overviews/narrow-diameter-implants-clinical-outcomes-overview]] 의 posterior load-bearing 축을 담당하는 최대 규모(2741 NDIs) 근거. "NDI는 전치부 전용"이라는 전통적 통념을 구치부 고정성 보철(FDP)로 확장(extends)하는 핵심 paper.
 
-## One-line Summary
+## Three-line Summary
 
 SR+MA (36 trials, 2741 NDIs) showing narrow-diameter implants (<3.75 mm) achieve high pooled survival (maxilla 97.0%, mandible 96.5%) for fixed restorations in posterior premolar/molar sites, consistent across jaw location and implant material.
 
-## 한줄요약
+(incomplete)
 
-36편(NDI 2741개) 체계적 고찰·메타분석. 좁은 직경 임플란트(<3.75mm)는 구치부(소구치·대구치) 고정성 보철에서 높은 통합 생존율(상악 97.0%, 하악 96.5%)을 보였고 악골 위치·재료에 무관하게 일관 — NDI의 구치부 적응증 확장 근거.
+(incomplete)
+
+## 세줄요약
+
+36편(NDI 2741개) 체계적 고찰·메타분석.
+
+좁은 직경 임플란트(<3.75mm)는 구치부(소구치·대구치) 고정성 보철에서 높은 통합 생존율(상악 97.0%, 하악 96.5%)을 보였고 악골 위치·재료에 무관하게 일관 — NDI의 구치부 적응증 확장 근거.
+
+(incomplete)
 
 ## 1. Document Information
 - Journal: Journal of Prosthodontics 2025;34:670–685 (Received Dec 2024, Accepted Mar 2025)

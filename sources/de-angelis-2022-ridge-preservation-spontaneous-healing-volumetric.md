@@ -13,13 +13,21 @@ source_collection: external
 
 기존 [[bone-regeneration/ridge-preservation/fischer-2022-bone-envelope-arp-dbbm-sr-ma]] (SR+MA, DBBM ARP의 dimensional benefit)와 [[bone-regeneration/ridge-preservation/sanchez-perez-2025-dbbm-alveolar-ridge-preservation-histologic]] (조직학적 근거)가 제시한 ARP의 차원 보존 효과를, CBCT 중첩 기반 **volumetric** + linear + PES + 환자만족도로 직접 정량화한 단일치 retrospective 비교(45명). xenograft+resorbable membrane ARP가 spontaneous healing 대비 HW-1 수축을 절반 이하(0.86 vs 2.03 mm)로 줄이고 후속 grafting 필요를 감소시킴을 보강하는 임상 데이터로 활용.
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective comparative study (n=45 single-tooth sites; 23 spontaneous healing vs 22 ARP with bovine xenograft + resorbable pericardium membrane) using 6-month CBCT volumetric superimposition: ARP roughly halved horizontal ridge loss at 1 mm (0.86 ± 0.49 vs 2.03 ± 0.54 mm, P < 0.001), reduced volumetric shrinkage (62.66 vs 106.41 mm³, P = 0.004), improved PES (11.6 vs 9.9, P = 0.007), and cut later additional grafting (9% vs 26%, NS P = 0.11), with equal pain and patient satisfaction and 100% 1-year implant survival in both groups.
+Retrospective comparative study (n=45 single-tooth extraction sites, Rome; 23 spontaneous healing vs 22 ARP with bovine cortico-spongious xenograft + resorbable pericardium membrane) with 6-month CBCT volumetric superimposition.
 
-## 한줄요약
+ARP roughly halved horizontal ridge width loss at 1 mm (0.86 vs 2.03 mm, P<0.001) and volumetric shrinkage (62.66 vs 106.41 mm³, P=0.004), improved pink esthetic score (11.6 vs 9.9, P=0.007), and reduced need for later additional grafting (9% vs 26%, P=0.11 NS); pain, patient satisfaction, and 1-year implant survival (100%) were equal between groups.
 
-후향적 비교연구(단일치 발치 45부위; 자연치유 23 vs 소뼈 xenograft+흡수성 심막막 ARP 22). 6개월 CBCT 중첩 체적분석에서 ARP가 1 mm 수평폭 수축을 절반 수준으로(0.86 vs 2.03 mm, P<0.001), 체적 수축도 감소(62.66 vs 106.41 mm³, P=0.004)시켰고, PES 향상(11.6 vs 9.9, P=0.007)·후속 추가 골이식 감소(9% vs 26%, NS P=0.11)를 보였으나 통증·환자만족도는 양군 동등, 양군 모두 1년 임플란트 생존율 100%.
+ARP provides clinically meaningful dimensional and esthetic benefits over spontaneous healing in single-tooth sites, at no additional pain or patient-satisfaction cost — the grafting-need reduction (9% vs 26%) trended in favor of ARP but was underpowered to reach significance.
+
+## 세줄요약
+
+후향적 비교연구(단일치 발치 45부위, 로마; 자연치유 23 vs 소뼈 cortico-spongious xenograft+흡수성 심막막 치조제보존술[Alveolar Ridge Preservation, ARP] 22) — 6개월 CBCT 중첩 체적분석.
+
+ARP가 1 mm 수평 치조제 폭 수축을 절반 이하로 감소(0.86 vs 2.03 mm, P<0.001), 체적 수축 감소(62.66 vs 106.41 mm³, P=0.004), 핑크 심미 점수(Pink Esthetic Score, PES) 향상(11.6 vs 9.9, P=0.007), 후속 추가 골이식 필요 감소(9% vs 26%, P=0.11 NS); 통증·환자만족도·1년 생존율(100%)은 양군 동등.
+
+ARP는 단일치 부위에서 자연치유 대비 차원적·심미적 이점을 제공하나 추가 골이식 감소(9% vs 26%)는 통계적 유의성 미달 — 표본 크기 부족과 후향적 비무작위 설계가 주요 한계.
 
 ## 1. Document Information
 

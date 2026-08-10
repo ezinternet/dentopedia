@@ -13,13 +13,21 @@ source_collection: external
 
 Part of the flap-design / tension-free primary closure collection, specifically the titanium-mesh soft-tissue management subgroup. The modified "Poncho" technique (MPT) is a major-advancement flap for closure over customized Ti-mesh, the direct conceptual sibling of the coronally advanced lingual flap RCT [[suture-wound-closure/attia-2023-coronally-advanced-lingual-flap-titanium-mesh]] and an instantiation of the "major advancement (≥7 mm)" stratum framed in [[suture-wound-closure/plonka-2017-flap-designs-flap-advancement-implant-therapy]]. It also complements the periosteal-release approach in [[suture-wound-closure/moslemi-2016-periosteal-releasing-incision-diode-laser-gbr]].
 
-## One-line Summary
+## Three-line Summary
 
 Case series (5 patients, 23 surgical sites, severe atrophic ridges with customized titanium mesh) showing the modified "Poncho" technique (MPT) achieved uneventful soft-tissue healing at 95.7% of sites (1/23 partial dehiscence) with Landry's healing index rising from 3 ± 0.47 to 4.69 ± 1.06 over 30 days.
 
-## 한줄요약
+(incomplete)
 
-심한 위축성 치조제·맞춤형 티타늄 메시 5명·23부위 증례군. 변형 "판초"기법(MPT)으로 95.7% 부위에서 합병증 없는 연조직 치유(23부위 중 1부위 부분 열개), Landry 치유지수 30일간 3±0.47→4.69±1.06로 상승.
+(incomplete)
+
+## 세줄요약
+
+심한 위축성 치조제·맞춤형 티타늄 메시 5명·23부위 증례군.
+
+변형 "판초"기법(MPT)으로 95.7% 부위에서 합병증 없는 연조직 치유(23부위 중 1부위 부분 열개), Landry 치유지수 30일간 3±0.47→4.69±1.06로 상승.
+
+(incomplete)
 
 ## 1. Document Information
 

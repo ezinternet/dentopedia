@@ -13,8 +13,21 @@ source_collection: external
 
 SR+MA establishing Bio-Oss as non-inferior to autogenous bone for alveolar/intrabony augmentation while avoiding donor-site morbidity — supports the DBBM-as-default rationale in [[overviews/dbbm-bone-substitute-overview]] and supplies a regeneration-efficacy data point for [[overviews/bone-regeneration-socket-biology-and-arp-critique]].
 
-## One-line Summary
-SR + Bayesian meta-analysis (13 studies, 1998–2009) of Bio-Oss vs autogenous bone in periodontal intrabony defects: insufficient evidence Bio-Oss is superior to autogenous, but Bio-Oss avoids donor-site morbidity → recommended as the practical first choice.
+## Three-line Summary
+
+SR + Bayesian meta-analysis (13 studies, 1998–2009; WinBUGS) comparing Bio-Oss vs autogenous bone across five comparisons (vs autograft, vs OFD, with/without GTR) in periodontal intrabony defects in humans.
+
+No statistically significant difference between Bio-Oss and autogenous bone for bone fill (~0.04 mm difference, 95% CI −3.678 to 3.467); only Bio-Oss vs open flap debridement (OFD) showed a significant advantage for xenograft.
+
+Bio-Oss is non-inferior to autograft and avoids donor-site morbidity, making it the practical first choice; confidence intervals are wide due to the small number of studies per comparison.
+
+## 세줄요약
+
+SR + 베이즈 메타분석(13편, 1998–2009, WinBUGS): 치주 골내 결손에서 Bio-Oss 대 자가골을 5가지 비교 구도(vs 자가골, vs OFD, GTR 병용 여부)로 평가.
+
+Bio-Oss 대 자가골: 골충전량 차이 ~0.04 mm, NS(95% CI −3.678 ~ 3.467); Bio-Oss vs 개방형 피판 소파술(OFD)에서만 이종골이 유의한 우위.
+
+Bio-Oss는 자가골과 비열등하며 공여부 이환율을 피할 수 있어 실용적 1차 선택; 비교별 포함 연구 수가 적어 신뢰구간이 넓음.
 
 ## 1. Document Information
 - **Journal**: Iranian Endodontic Journal 2009;4(4):125–130.

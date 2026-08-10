@@ -1,0 +1,108 @@
+Impact of polypharmacy on oral health in the elderly: challenges and management
+
+Sowmya Halasabalu Kalgeri, SunilKumar Bheemasamudra Balaraj, Ashwini Tumkur Shivakumar, Vidya G Doddawad, Deepa Basapur Vijayakumar, Shalini H S, Anupama Aradya, Parinitha Mysore Shankar, Nagabhushana Doggalli, Sumukh R Bharadwaj
+Frontiers in Dental Medicine, 2026;7:1758771
+DOI: 10.3389/fdmed.2026.1758771
+PMID: 41809442
+PMCID: PMC12968186
+Source: PubMed Central (PMC), retrieved via PubMed MCP get_full_text_article
+
+Introduction
+
+Polypharmacy, commonly described as the simultaneous use of five or more medications, and hyperpolypharmacy (an even higher count of concurrent medications), are increasingly prevalent in aging populations managing multiple chronic conditions. While polypharmacy aims to improve systemic health, its potential adverse effects on oral health are often overlooked. Medications such as anticholinergics, antidepressants, and antihypertensives have been linked to detrimental impacts on oral health. Storbeck et al. reported that 38.5% of older adults (mean age 74 years) in a special care dentistry cohort experienced xerostomia, with a clear dose-dependent relationship with the number of medications used. Medication-induced salivary hypofunction disrupts the oral microbiome, while sensory alterations like dysgeusia further compromise nutritional intake and hygiene practices.
+
+Dentists are frequently the first to observe medication-related changes, yet these manifestations may be dismissed or misattributed to aging alone. This article examines the mechanistic pathways linking polypharmacy to oral health deterioration, identifies clinical management challenges, and proposes integrated care strategies for 2025 geriatric dental practice.
+
+Methodology
+
+Narrative, evidence-based review of the literature on the impact of polypharmacy on oral health in older adults, emphasizing xerostomia and its clinical management. Targeted literature search using PubMed/MEDLINE, Scopus, and Web of Science for peer-reviewed publications between January 2013 and March 2024. Key search concepts: polypharmacy, geriatric oral health, xerostomia, salivary gland hypofunction, medication-induced oral effects, multidisciplinary care. English-language only. Reference lists of selected articles manually screened for additional studies. Evidence synthesized descriptively.
+
+Epidemiology and Burden of Polypharmacy
+
+Prevalence has risen steadily: in the US, adult polypharmacy prevalence rose from 8.2% (1999-2000) to 17.1% (2017-2018). Among adults ≥65, prevalence reaches 44.1% in recent years. Prevalence exceeds 50% in groups with heart disease, diabetes, and other chronic conditions. "Excessive polypharmacy" (≥10 drugs) can exceed 10% in older populations. Each additional prescribed drug raises medication-error odds by 16%. Serious drug-drug interactions occur in ~13% of polypharmacy patients; over two-thirds of those on ≥10 medications have at least one potentially serious interaction. Polypharmacy is linked to higher hospitalization, rehospitalization, disability, cognitive decline, and mortality rates.
+
+Table 1 - Common drug classes in polypharmacy and their oral manifestations (abbreviated):
+- Anticholinergics (oxybutynin, trihexyphenidyl): severe xerostomia, burning mouth, denture intolerance. Mechanism: age-related reduced salivary gland reserve + M3 receptor blockade from multiple drugs → profound hyposalivation. Clinical implication: rampant caries, denture stomatitis, swallowing/speech difficulty.
+- ACE inhibitors (enalapril, lisinopril): xerostomia, lichenoid reactions, dysgeusia. Mechanism: increased bradykinin accumulation → exaggerated mucosal inflammatory response. Clinical implication: painful erosive lesions, poor oral intake.
+- β-blockers (metoprolol, atenolol): dry mouth, taste alteration. Mechanism: reduced autonomic adaptability in elderly amplifies β-receptor blockade on salivary glands. Clinical implication: reduced saliva buffering → caries risk.
+- Calcium channel blockers (amlodipine, nifedipine): gingival overgrowth. Mechanism: drug accumulation from reduced hepatic clearance, especially with cyclosporine, increases fibroblast activity/ECM deposition. Clinical implication: pseudo-pockets, plaque retention, periodontal breakdown.
+- Tricyclic antidepressants (amitriptyline): marked xerostomia, mucosal soreness. Mechanism: strong antimuscarinic effect + age-related neuronal decline → severe salivary suppression. Clinical implication: burning mouth syndrome, candidiasis.
+- SSRIs (sertraline, fluoxetine): mild-moderate xerostomia, taste disturbance. Mechanism: altered central serotonergic pathways affecting salivary reflexes. Clinical implication: appetite loss, nutritional compromise.
+- Antipsychotics (haloperidol, risperidone): drooling or dryness, candidiasis. Mechanism: dopaminergic blockade + oral motor control disruption → saliva pooling or dysfunction. Clinical implication: aspiration risk, angular cheilitis.
+- Antiepileptics (phenytoin): gingival hyperplasia. Mechanism: long-term use + collagen turnover changes in aging tissues → exaggerated gingival response. Clinical implication: compromised oral hygiene, periodontal disease.
+- Immunosuppressants (cyclosporine): gingival enlargement, opportunistic infections. Mechanism: calcineurin inhibition → increased fibroblast stimulation, decreased host defense. Clinical implication: recurrent infections, delayed healing.
+- NSAIDs (ibuprofen, diclofenac): oral ulcers, mucositis. Mechanism: decreased prostaglandin synthesis impairs mucosal repair in elderly. Clinical implication: painful lesions, difficulty wearing prostheses.
+- Bisphosphonates (alendronate, zoledronic acid): MRONJ. Mechanism: profound suppression of bone remodeling, decreased angiogenesis, drug accumulation in aging jawbone. Clinical implication: high risk after extractions or implant placement.
+
+Understanding Polypharmacy in the Elderly
+
+Aging is associated with reduced renal clearance, diminished hepatic metabolism, altered plasma protein binding, and changed body composition — all increasing drug bioavailability and half-life, heightening susceptibility to adverse drug reactions and drug-drug interactions. Pharmacodynamic changes (altered receptor sensitivity, impaired homeostatic mechanisms) render older adults vulnerable to exaggerated/atypical drug responses even at standard doses.
+
+An under-recognized contributor is "prescribing cascades" — medication-induced side effects misinterpreted as new disease entities, leading to further medications and escalating drug burden. Nonspecific symptoms (xerostomia, dizziness, fatigue, cognitive changes) are frequently attributed to aging rather than medication effects.
+
+For dental professionals, oral manifestations (salivary gland dysfunction, mucosal alterations, increased caries risk, delayed wound healing, heightened infection susceptibility) may arise from polypharmacy rather than primary oral/systemic pathology — distinguishing this is critical for diagnosis, treatment planning, and referral.
+
+Mechanisms Linking Polypharmacy to Oral Health Deterioration
+
+Anticholinergics, antidepressants, diuretics, and antihypertensives reduce salivary gland output, leading to xerostomia, which impairs natural oral cleansing and increases risk of dental caries, oral candidiasis, and mucosal fragility.
+
+Drug-specific pharmacological pathways:
+- Anticholinergic agents and tricyclic antidepressants: reduce salivary secretion via competitive antagonism of muscarinic M3 receptors on salivary acinar cells, impairing intracellular calcium signaling needed for fluid secretion.
+- SSRIs: alter central/peripheral serotonergic pathways regulating salivary reflexes, causing functional salivary hypofunction.
+- β-adrenergic blockers: reduce salivary output via hemodynamic (β1-blockade decreases cardiac output and salivary gland perfusion) and cellular mechanisms (inhibition of β-adrenergic signaling prevents Na-K-2Cl cotransporter upregulation in acinar cells, impairing chloride-dependent water movement into saliva).
+- Thiazide diuretics: reduce salivary secretion by inhibiting carbonic anhydrase in salivary acinar cells, decreasing bicarbonate availability and impairing salivary buffering.
+- In older adults these effects are cumulative/synergistic with concurrent xerogenic medications.
+
+Cytotoxic drugs and corticosteroids suppress local immune responses, causing oral mucosal ulcerations, infection susceptibility, and delayed healing. Broad-spectrum antibiotics disrupt oral microbiota balance, fostering opportunistic pathogen overgrowth. Benzodiazepines and antipsychotics may impair neuromuscular coordination, hindering oral hygiene maintenance and increasing periodontal disease risk. Drugs inducing gastroesophageal reflux or vomiting (some antihypertensives, chemotherapeutics) can cause enamel erosion from repeated acid exposure. Medications altering taste/smell/swallowing function negatively impact nutritional intake and mucosal health.
+
+Specific Oral Health Complications (Table 2, abbreviated)
+
+- Xerostomia (dry mouth): dryness, sticky sensation, swallowing difficulty, halitosis, caries risk. Associated with anticholinergics, antidepressants, antihypertensives, diuretics. Contributing factors: reduced salivary flow, age-related salivary gland hypofunction.
+- Oral candidiasis: white patches, burning sensation, erythema, angular cheilitis. Associated with inhaled corticosteroids, broad-spectrum antibiotics. Contributing factors: denture use, immunosuppression, dry mucosa.
+- Gingival enlargement: overgrowth, bleeding, hygiene interference. Associated with calcium channel blockers (e.g., nifedipine), phenytoin, cyclosporine. Contributing factors: inadequate plaque control, long-term use.
+- Glossodynia & dysgeusia: burning sensation, altered/metallic taste. Associated with SSRIs, ACE inhibitors, chemotherapeutics. Contributing factors: neuropathy, nutritional deficiencies, mucosal sensitivity.
+- Mucositis and ulcers: erythematous painful mucosa, ulcerations, secondary infections. Associated with chemotherapeutics, NSAIDs, bisphosphonates. Contributing factors: mucosal toxicity, immune suppression.
+- Denture-related lesions: traumatic ulcers, stomatitis, epulis fissuratum. Indirectly from medication-induced mucosal dryness/fragility. Contributing factors: poor denture hygiene, continuous wear, xerostomia.
+
+Challenges in Diagnosis and Management
+
+Symptom underreporting is common — elderly patients perceive dry mouth, altered taste, or oral discomfort as inevitable aging and don't mention them. Diagnostic ambiguity: oral manifestations can be mistaken for other systemic/local conditions. Cross-sectional self-report designs likely underestimate true disease burden; standardized xerostomia/oral examination protocols are rarely implemented in routine geriatric assessments. Cognitive impairment (e.g., dementia) makes obtaining accurate histories and maintaining oral hygiene difficult. Lack of medical-dental care integration, poor communication, and fragmented records impede coordinated management. Limited dental access (mobility, transportation, financial constraints) reduces timely dental care.
+
+Compounding Challenges (Table 3, abbreviated)
+
+- Functional decline (reduced hand dexterity from arthritis, stroke, neuromuscular disorders): impaired brushing/flossing, poor denture maintenance. Polypharmacy accelerates functional decline in ADLs including oral self-care (OR 1.5-2.0 for dependency in elders taking ≥5 medications).
+- Nutritional deficiencies (difficulty eating from oral discomfort, poor appetite, missing teeth): delayed healing, mucosal atrophy, increased infection susceptibility. A 2025 cross-sectional analysis of long-term care residents found polypharmacy (≥5 drugs) independently predicts malnutrition.
+- Social isolation (living alone, lack of support, depression): neglect of oral hygiene routines, missed dental appointments.
+- Language & health literacy barriers: misuse of medications, inadequate hygiene practices, delayed care-seeking. Low literacy correlates with suboptimal medication adherence and oral hygiene (r = -0.42 for literacy scores and plaque index).
+
+Strategies for Oral Healthcare Providers
+
+Thorough medication history/regular review to identify xerogenic and mucotoxic agents. Regular salivary flow assessment (sialometry or validated clinical scoring) for early hyposalivation detection. Preventive care: high-fluoride toothpaste, saliva substitutes, antimicrobial rinses (chlorhexidine varnish evidence mixed, more effective in high-risk individuals). Dietary counseling integrated with dietitians. Individualized recall frequency based on risk status. Caregiver and patient education improves oral hygiene outcomes, though literature underscores need for more robust interprofessional frameworks and outcome-focused evaluation (most current research remains descriptive rather than interventional). Deprescribing initiatives and clinical decision support tools for medication management are gaining traction and represent underrepresented but promising areas for dental integration.
+
+Management Strategies
+
+Xerostomia management should fundamentally focus on identifying and minimizing xerogenic medications rather than introducing additional systemic drugs — comprehensive medication review, deprescribing, or substitution with lower-xerogenic-potential agents in collaboration with the prescriber/pharmacist. Contemporary reviews caution against routine use of systemic sialogogues (pilocarpine, cevimeline) in polypharmacy-related xerostomia, as their evidence base is largely restricted to post-irradiation salivary gland hypofunction and autoimmune conditions (e.g., Sjögren's syndrome) with residual glandular function; evidence for medication-induced xerostomia is weak, and use may paradoxically worsen polypharmacy and adherence in frail elders. Non-pharmacological strategies (sugar-free chewing gums/lozenges for topical salivary stimulation, adequate hydration, saliva substitutes, oral moisturizers) are supported by moderate-quality evidence for subjective symptom/comfort improvement, though they do not restore gland function; recommended as first-line interventions for their safety profile.
+
+Oral candidiasis: topical agents (e.g., oral gel) or systemic antifungals for resistant/widespread infections; meticulous denture hygiene crucial for denture-associated candidiasis.
+
+Gingival overgrowth: collaboration with physician to consider causative drug substitution; surgical intervention (gingivectomy) in advanced cases.
+
+Mucosal lesions: identify/remove local irritants (ill-fitting dentures, sharp cusps, abrasive hygiene aids); topical corticosteroids for inflammatory lesions (lichenoid reactions, mucositis).
+
+Prosthodontic care: regular denture hygiene instruction, timely adjustments to relieve mucosal trauma especially with dry mouth/fragile tissues.
+
+Interprofessional Collaboration
+
+Dentists play a critical frontline role identifying oral adverse drug reactions (xerostomia, candidiasis, gingival overgrowth, mucosal ulcers), documenting and communicating findings to the broader healthcare team, triggering physician communication for medication modification. Pharmacists review complex medication profiles, identify xerogenic/mucotoxic drugs, recommend safer alternatives, especially during care transitions (hospital discharge, nursing home admission); evaluate cumulative anticholinergic burden and drug-drug interactions. Primary care physicians/geriatricians coordinate deprescribing when polypharmacy harms outweigh benefits. Nurses/caregivers provide hands-on daily oral hygiene support and monitoring. Integrated electronic health records and shared care plans enhance coordination.
+
+Special Considerations
+
+Dementia patients: simplified routines, visual aids, structured caregiver training. End-of-life care: shift from restorative to palliative management, prioritizing comfort/hydration/mucosal symptom control. Institutional settings (nursing homes): formal oral health policies, regular screenings, staff training. Culturally sensitive care to promote trust and adherence.
+
+Future Directions
+
+Standardized assessment tools for medication-induced oral conditions; dedicated polypharmacy modules in geriatric dental curricula; policy advocacy for oral health assessment inclusion in primary care screening protocols; AI-driven tools to predict oral health risks in complex polypharmacy profiles; longitudinal studies to clarify causal relationships and evaluate targeted interventions.
+
+Conclusion
+
+Polypharmacy is a hallmark of geriatric healthcare, exerting profound influence on oral health outcomes in older adults. Dental professionals, often first to detect medication-induced oral changes, are uniquely positioned to facilitate early recognition, prevention, and collaborative management. An integrated, patient-centered approach is imperative to reduce oral morbidity and improve quality of life in the elderly.

@@ -6,7 +6,7 @@ date: 2024-10-24
 doi: "10.1016/j.jdent.2024.105426"
 source: feng-2024-polyurethane-dimethacrylate-low-shrinkage-composite.md
 category: [resin]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: false
 pmid: "39454988"
@@ -18,11 +18,19 @@ relations:
     target: meereis-2018-polymerization-shrinkage-stress-resin-sr-ma
 ---
 
-## One-line Summary
-In-vitro material-development study showing a Bis-GMA/TEGDMA composite modified with 20 wt% polyurethane dimethacrylate (PU-MA) oligomer and 75 wt% glass-flake/borosilicate fillers (PU-PG-75%) achieves low volumetric shrinkage (1.35%) with mechanical properties that remain relatively stable after 60-day water immersion + 5000 thermocycles.
+## Three-line Summary
+In-vitro material-development study (J Dent 2024) synthesizing experimental Bis-GMA/TEGDMA composites modified with 20 wt% polyurethane dimethacrylate oligomer (PU-MA) and 65–75 wt% glass-flake/borosilicate fillers, measuring polymerization shrinkage kinetics and mechanical properties before and after aging.
 
-## 한줄요약
-In-vitro 재료개발: Bis-GMA/TEGDMA에 20 wt% 폴리우레탄 디메타크릴레이트(PU-MA) 올리고머 + 75 wt% 글래스 플레이크 충전 시(PU-PG-75%) 부피수축 1.35%로 낮추고, 60일 침수 + 5000회 열순환 노화 후에도 기계적 물성이 상용품보다 안정적.
+The best formulation (PU-PG-75%) achieved low volumetric shrinkage (1.35%) and retained flexural strength and Vickers hardness better than commercial controls after aging (60-day water immersion + 5000 thermocycles); higher filler loading increased water sorption/solubility and reduced depth of cure.
+
+PU-MA matrix modification is a viable resin-matrix strategy for low-shrinkage composites, but the filler-loading trade-off (↑ filler → ↓ shrinkage, ↑ water sorption, ↓ depth of cure) must be optimized.
+
+## 세줄요약
+Bis-GMA/TEGDMA 기반 복합레진에 20 wt% 폴리우레탄 디메타크릴레이트(PU-MA) 올리고머 + 65–75 wt% 글래스 플레이크 충전재를 추가한 실험적 재료를 개발·평가한 in-vitro 연구(J Dent 2024).
+
+최적 조성(PU-PG-75%)은 부피수축 1.35%로 낮고 60일 침수+5000회 열순환 노화 후 상용제품 대비 굽힘강도·경도가 상대적으로 안정; 충전재 함량 증가 → 수분흡수·용해도 증가·광투과 깊이 감소.
+
+PU-MA 기질 변형은 실용적인 저수축 전략이나, 충전재 최적화 없이는 내수성·광중합 깊이 트레이드오프가 발생함.
 
 ## Summary
 This Journal of Dentistry (2024) study from Jilin University synthesized experimental composites by adding a polyurethane dimethacrylate oligomer (PU-MA, 20 wt% of the resin) to a Bis-GMA/TEGDMA base, combined with 65-75 wt% glass-flake/Si-Al-borosilicate fillers. The aim was to reduce polymerization shrinkage while preserving mechanical performance through resin-matrix modification — the strategy that meta-analytic evidence identifies as the most effective for shrinkage-stress control. The best formulation (PU-PG-75%) reached a low volumetric shrinkage of 1.35% and, crucially, retained its flexural and hardness properties better than commercial controls after aging (60-day water immersion plus 5000 thermocycles). The trade-off was that higher filler loading increased water sorption/solubility and reduced depth of cure.

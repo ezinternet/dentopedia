@@ -17,13 +17,21 @@ text_filename: fornai-2022-centric-relation-matter-form-substance.txt
 
 Direct published rebuttal to [[occlusion/zonnenberg-2021-centric-relation-critically-revisited-clinical]]. Provides the counter-argument that condylar position should be actively monitored when occlusion is changed (vs Zonnenberg's "ignore it" conclusion), supplying a key threshold (Pullinger ≈2 mm sagittal slide cut-off) and the GPT-9 CR-definition 29% consensus figure that quantify the terminology debate. Ingested to balance the occlusion category's CR coverage with the opposing clinical school.
 
-## One-line Summary
+## Three-line Summary
 
-Letter/commentary (rebuttal to Zonnenberg et al. 2021) arguing that although the term "centric relation" should be abandoned, condylar position is clinically meaningful and must be monitored when occlusion is altered, proposing "Reference Position (RP)" as the replacement.
+Letter/commentary published as rebuttal to Zonnenberg et al. 2021 on the clinical relevance of centric relation.
 
-## 한줄요약
+Agrees the "centric relation" term should be abandoned due to lack of consensus (only 29% GPT-9 expert agreement), but argues that condylar position is clinically meaningful and must be monitored when occlusion is altered, citing Pullinger's ~2 mm sagittal slide threshold as the key asymptomatic envelope.
 
-Zonnenberg(2021)에 대한 반박 서신으로, "centric relation" 용어는 폐기하되 교합을 바꿀 때 과두 위치를 적극 모니터링해야 한다고 주장하며 대체 개념으로 "Reference Position (RP)"을 제안한다.
+Proposes "Reference Position (RP)" — an unstrained retral border position with the joint unloaded and ligaments not in tension — as the replacement concept for clinical practice, emphasizing that TMJ adaptive remodelling is limited in adults and cannot safely absorb unmonitored occlusal-treatment-induced condylar changes.
+
+## 세줄요약
+
+Zonnenberg 등 2021에 대한 반박 서신으로, 중심교합(centric relation)의 임상적 의미에 관한 논쟁을 다룬 편집위원 의견.
+
+"중심교합" 용어는 전문가 합의 부족(GPT-9 29% 동의율)으로 인해 폐기해야 하나, 교합 변화 시 과두 위치는 임상적으로 의미 있으며 적극 모니터링해야 한다고 주장하며, Pullinger의 약 2 mm 시상 슬라이드를 무증상 범위의 기준으로 제시.
+
+"Reference Position (RP)" — 관절을 부하하지 않고 인대에 긴장을 주지 않는 긴장 없는 후방 경계 위치 — 을 임상 실무의 대체 개념으로 제안하며, 턱관절 적응성 리모델링이 성인에서 제한적이므로 미감시 교합 치료로 인한 과두 위치 변화를 안전하게 흡수할 수 없음을 강조.
 
 ## 1. Document Information
 

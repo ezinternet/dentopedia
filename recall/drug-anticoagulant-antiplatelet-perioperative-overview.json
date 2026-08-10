@@ -1,0 +1,49 @@
+{
+  "overview": "drug-anticoagulant-antiplatelet-perioperative-overview",
+  "date": "2026-07-23",
+  "title": "항응고·항혈소판제 주술기 관리 — 리콜",
+  "source_wiki": [
+    "wiki/overviews/drug-anticoagulant-antiplatelet-perioperative-overview.md"
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "q": "와파린(VKA) 복용 환자의 발치에 관한 INR 기반 원칙은?",
+      "opts": [
+        "모든 항응고제는 발치 3일 전 중단",
+        "INR ≤3.5면 중단 없이 처치 + 트라넥삼산(TXA) 양치액; 3.5–4.0 선택적 연기·상담; >4.0 모든 선택적 처치 연기",
+        "INR과 무관하게 항상 중단",
+        "브리징 요법으로 헤파린 전환 후 발치"
+      ],
+      "ans": 1,
+      "rat": "VKA: INR ≤3.5 중단 없이 처치 + TXA 양치, 3.5–4.0 선택적 연기·상담, >4.0 연기(처치 24–72h 전 INR 확인). 항응고·항혈소판제는 루틴 처치에서 임의 중단 금지 — 혈전색전증 위험이 치과 출혈보다 치명적·비가역. 브리징 요법은 출혈만 늘리고 혈전 감소 없어 비권고(Moldovan 2023).",
+      "cite": "overviews/drug-anticoagulant-antiplatelet-perioperative-overview"
+    },
+    {
+      "id": "q2",
+      "q": "DOAC(직접경구항응고제) 복용 환자의 시술별 관리는?",
+      "opts": [
+        "모든 처치에서 전날 중단",
+        "단순 발치(1–3치)는 변경 없이 지속, 임플란트·다수 발치·골수술만 당일 아침 용량 생략 후 지혈 확인 시 재복용",
+        "INR을 측정해 결정",
+        "항상 브리징 필요"
+      ],
+      "ans": 1,
+      "rat": "DOAC: 단순 발치(1–3치) 변경 없이 지속, 임플란트·다수 발치·골수술만 당일 아침 생략. 출혈을 결정하는 것은 3개 초과 발치·판막거상·골삭제 등 침습도(Kim 2024, Izzetti 2024 — 유지군 vs 중단군 출혈 차이 없음). DOAC는 INR이 신뢰 지표가 아니므로 INR로 결정하지 않음. 다비가트란은 신부전(CrCl<50) 주의.",
+      "cite": "overviews/drug-anticoagulant-antiplatelet-perioperative-overview"
+    },
+    {
+      "id": "q3",
+      "q": "치과의가 잘 놓치는 NSAID↔아스피린 상호작용과 1차 국소 지혈제는?",
+      "opts": [
+        "이부프로펜은 아스피린 효과를 강화하므로 병용 권장",
+        "이부프로펜은 아스피린의 항혈소판 효과를 무력화 → 술후 진통은 아세트아미노펜 우선; 1차 국소 지혈제는 TXA 4.8% 양치액(출혈 50–60% 감소)",
+        "아스피린 복용자는 모든 진통제 금기",
+        "국소 지혈제는 효과가 없다"
+      ],
+      "ans": 1,
+      "rat": "이부프로펜은 아스피린 항혈소판 효과 무력화 → 술후 진통 아세트아미노펜 우선(셀레콕시브·아세트아미노펜은 아스피린에 영향 없음). 1차 국소 지혈제 = TXA 4.8% 양치액(출혈 50–60% 감소, 10mL×2분 1일 4회 7일, 삼키지 않게). 아스피린·클로피도그렐 단독은 절대 중단 금지, DAPT는 심장내과 협진.",
+      "cite": "overviews/drug-anticoagulant-antiplatelet-perioperative-overview"
+    }
+  ]
+}

@@ -13,13 +13,21 @@ source_collection: external
 
 경치조골 상악동거상(osteotome/osseodensification) 후 ozone gel이 협측 골판 두께·골 폭을 개선하는지 RCT로 검증하기 위해 인제스트. 기존 [[sinus-lift/transcrestal/starch-jensen-2025-transcrestal-sinus-osseodensification-meta-analysis]] 의 골증대 효과 맥락에 ozone이라는 보조제 변수를 추가하되, 본 RCT는 유의 효과 없음을 보고 — 보조제 과신을 경계하는 근거.
 
-## One-line Summary
+## Three-line Summary
 
 RCT (closed/transcrestal sinus lift with osteotome) finding ozone gel adjunct did not significantly increase peri-implant bone width or labial plate thickness vs graftless control at 4 months, though both groups reached acceptable dimensions.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 경치조골(폐쇄형) 상악동거상 RCT — ozone gel 보조제는 무이식 대조군 대비 4개월째 임플란트 주위 골 폭·협측 골판 두께를 유의하게 증가시키지 못함(둘 다 수용 가능 수준).
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - Oral and Maxillofacial Surgery, published online 2025-04-14.

@@ -13,13 +13,21 @@ source_collection: external
 
 This is the contemporary synthesis tying together the perio-restorative batch: it reviews margin location, biologic width / supracrestal tissue attachment, contour and finish-line design as they affect the periodontium, drawing on long-term cohort evidence such as [[wiki/periodontics/schatzle-2001-restoration-margins-periodontal-tissues-26year]] and reframing the biologic-width concept covered in [[wiki/periodontics/hamasni-2017-biologic-width-restorative-dentistry]] and [[wiki/periodontics/alam-2024-supracrestal-tissue-attachment-biologic-width]]. It provides the modern "intracrevicular margins do not cause periodontitis, but large overhangs do" nuance that updates older blanket warnings.
 
-## One-line Summary
+## Three-line Summary
 
-Narrative (systematically-searched) review concluding that contemporary tooth-supported restorations/FDPs are compatible with periodontal health when oral hygiene is maintained — subgingival/intracrevicular margins per se do not cause periodontitis, but large overhangs and connective-tissue-attachment invasion drive inflammation and bone loss.
+Narrative review with systematic literature search examining relationships between fixed restorations (direct & indirect), crown/bridge margins, biologic width, finish-line design, and periodontal outcomes.
 
-## 한줄요약
+Contemporary restorations are compatible with periodontal health; intracrevicular margins alone do not cause periodontal disease, but large overhangs and invasion of connective-tissue attachment do drive inflammation and bone loss.
 
-체계적 검색 기반 narrative review — 적절한 구강위생 하에서 현대 치아지지 수복물/고정성 보철은 치주건강과 양립하며, 치은연하/intracrevicular 변연 자체가 치주염을 일으키지는 않으나 큰 overhang과 결합조직 부착 침범은 염증·골소실을 유발한다.
+Clinical implication: margin location, material type, and finish-line design are less critical than eliminating overhangs and maintaining oral hygiene; periodontal status should be evaluated before restorative treatment planning.
+
+## 세줄요약
+
+고정성 수복물(직접·간접), 변연위치, 생물학적 폭, 삭제형태와 치주 결과의 관계를 검토한 체계적 문헌검색 기반 narrative review.
+
+현대 수복물은 치주건강과 양립하며, intracrevicular 변연 자체는 치주염을 유발하지 않으나, 큰 overhang과 결합조직 부착의 침범은 염증·골소실을 초래한다.
+
+임상적 의미: 변연위치·재료 종류·삭제형태보다 큰 overhang 제거와 구강위생 유지가 더 중요하며, 보철치료 계획 전에 치주 상태 평가가 필수이다.
 
 ## 1. Document Information
 

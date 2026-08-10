@@ -9,6 +9,20 @@ pdf_filename: moreno-rabie-2023-3d-mronj-risk-oncologic-tooth-extraction.pdf
 source_collection: external
 ---
 
+## Three-line Summary
+Retrospective case–control study on oncologic ARD-treated patients (n=47 with MRONJ, n=50 controls): pre-operative CBCT detected periosteal reaction and sequestrum formation that preceded clinical bone exposure.
+
+MRONJ incidence 32% (15/47 patients); sequestrum formation exclusive to study group; clinical risk factors: multiple simultaneous extractions (p=0.006), smoking (100% developed MRONJ, p=0.004), shorter drug holiday (7.8 mo vs 27.5 mo, p=0.021).
+
+Clinical implication: pre-operative CBCT can identify pre-clinical MRONJ lesions (periosteal reaction, sequestrum) as radiographic warning signs before clinical bone exposure; drug-type–specific signatures (bisphosphonate→osteosclerosis, denosumab→no early sign) inform extraction risk stratification and drug holiday extension.
+
+## 세줄요약
+종양 환자 항재흡수제(ARD) 치료 후향적 case–control 연구(MRONJ n=47, 대조 n=50): 발치 전 CBCT가 임상적 골노출 전 단계의 골막반응·격리골 감지 가능.
+
+MRONJ 발생률 32%(15/47명); 격리골 형성은 MRONJ군에서만 독점적; 임상 위험인자: 동시 다중 발치(p=0.006), 흡연(100% MRONJ 발생, p=0.004), 단축된 약물 휴약(7.8개월 vs 27.5개월, p=0.021).
+
+임상적 의미: 발치 전 CBCT는 임상적 골노출 전 단계의 pre-clinical MRONJ 병소(골막반응·격리골)를 영상 경고 신호로 감지 가능; 약물별 특성(비스포스포네이트→골경화, 데노수맙→조기 신호 없음)이 발치 위험 층화·약물 휴약 연장을 정보화.
+
 ## Why Ingested
 
 기존 MRONJ 페이지들([[drug/jung-2022-denosumab-mronj-osteoporosis-5year]], [[drug/lee-2023-bisphosphonates-dental-procedures-bronj]], [[drug/baghalipour-2025-mronj-prevention-management-review]])은 임상·약물 위험인자 중심이고 **발치 전 영상기반 위험예측**은 다루지 않는다. 본 후향적 case–control(Moreno Rabie 2023)은 발치 전 CBCT가 임상적 골노출(MRONJ) 발생 전 단계의 골변화(골막반응·격리골)를 보여줄 수 있는지 검증해, "발치해도 되는가"의 영상 의사결정 근거를 보강한다. 동시 인제스트되는 비스포스포네이트 영상 페이지([[drug/koth-2017-clinical-radiographic-haematological-bisphosphonate-therapy]])와 짝을 이룬다.

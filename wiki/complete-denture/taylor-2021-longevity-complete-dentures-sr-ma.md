@@ -6,20 +6,28 @@ date: 2021-04-01
 doi: 10.1016/j.prosdent.2020.02.023
 source: taylor-2021-longevity-complete-dentures-sr-ma.md
 category: [complete-denture]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/taylor-2021-longevity-complete-dentures-sr-ma.pdf
 pdf_filename: taylor-2021-longevity-complete-dentures-sr-ma.pdf
 source_collection: external
 tags: [complete-denture, longevity, survival, failure-rate, meta-analysis, edentulism]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 42 studies (predominantly university settings) found complete dentures have a weighted mean longevity of 10.1 ± 4.0 years, maxillary outlasting mandibular (10.3 vs. 8.6 yr), with failure proportions rising from 5% at ≤2 years to 41% at ≥10 years.
+SR+MA of 42 studies (21,607 abstracts screened; all low/very-low risk of bias by AXIS; predominantly university settings) providing the first pooled longevity estimates for complete dentures using weighted means and random-effects meta-analysis.
 
-## 한줄요약
+Weighted mean longevity was 10.1 ± 4.0 years overall; maxillary dentures lasted longer (10.3 ± 3.8 yr) than mandibular (8.6 ± 2.6 yr), attributed to greater mandibular alveolar resorption; failure proportions increased from 5% at ≤2 years to 12% at 5–6 years to 41% at ≥10 years.
 
-42개 연구 SR+MA 결과, 총의치 가중평균 수명은 10.1 ± 4.0년(상악 10.3년, 하악 8.6년)이며, 실패율은 2년 이하 5%에서 10년 이상 41%로 증가한다.
+This first pooled longevity estimate provides an evidence base for replacement counseling — consider proactive replacement after 10 years of service; university-fabricated denture longevity may exceed community-practice norms, and no digital (CAD-CAM) dentures were included in the data.
+
+## 세줄요약
+
+42편 SR+MA(21,607 초록 검색; AXIS 도구로 모두 낮은 비뚤림 위험; 주로 대학 임상) — 총의치 수명에 대한 최초의 통합 추정치를 가중평균 및 무작위효과 메타분석으로 제시.
+
+가중평균 수명 10.1 ± 4.0년; 상악(10.3 ± 3.8년) > 하악(8.6 ± 2.6년, 하악 치조골 흡수가 원인); 실패율은 2년 이하 5% → 5–6년 12% → 10년 이상 41%로 점진적 증가.
+
+10년 이상 사용 의치는 교체 상담 권고의 근거 제공; 대학 제작 의치가 지역사회·개원 수명보다 길 수 있으며, 디지털(CAD-CAM) 의치는 포함되지 않아 현재 수명 기준은 재검토 필요.
 
 ## Summary
 

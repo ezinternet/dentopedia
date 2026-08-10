@@ -13,13 +13,21 @@ source_collection: external
 
 기존 [[occlusion/fan-2018-occlusal-trauma-and-excessive-occlusal]]·[[occlusion/di-fiore-2022-periimplant-bone-loss-overload-occlusal-analysis]]는 occlusal *과부하*가 골 손실을 일으키는 측을 다루는데, 그 반대 축 — occlusal *unloading*(저작 기능 상실)이 어떻게 치조골을 잃게 하는가(alveolar bone disuse osteoporosis, ABDO) — 의 분자 기전이 위키에 없었다. 본 논문은 ABDO를 PDL의 type H 혈관(CD31^high/EMCN^high) 감소 → osterix(OSX) osteoprogenitor 동반 감소로 설명하고, 기계감지 회로 PIEZO1/Ca²⁺/HIF-1α/SLIT3를 제시한다. 이는 [[bone-biology/kondo-2022-current-perspectives-residual-ridge]](발치 후 잔존 치조제 흡수)와 [[bone-biology/tokavanich-2025-control-alveolar-bone-development]](치조골 osteoblast 분자생물학)의 "치조골은 별개의 골생물학 단위" framing에 혈관-신생(angiogenesis-osteogenesis coupling) 축을 추가하는 보강 근거다. "occlusion → 치조골 밀도/항상성" 인과의 mechanistic 핵심 페이지.
 
-## One-line Summary
+## Three-line Summary
 
-Mouse/in-vitro mechanistic study (J Dent Res 2023) showing that loss of occlusal force triggers alveolar bone disuse osteoporosis (ABDO) by reducing periodontal-ligament type H vessels and coupled OSX osteoprogenitors via a PIEZO1/Ca²⁺/HIF-1α/SLIT3 mechanosensory circuit; periodontal recombinant SLIT3 injection partially rescued type H vasculature and bone loss.
+Mouse occlusal-hypofunction in-vivo model + in-vitro 3D PDL cell compression study (J Dent Res 2023) investigating the mechanism by which loss of occlusal force causes alveolar bone disuse osteoporosis (ABDO) — a poorly understood pathway distinct from occlusal overload.
 
-## 한줄요약
+Occlusal unloading reduced type H vessel density (CD31^high/EMCN^high) and coupled OSX osteoprogenitors in the periodontal ligament via a PIEZO1/Ca²⁺/HIF-1α/SLIT3 mechanosensory circuit; periodontal injection of recombinant SLIT3 partially rescued type H vasculature and bone loss.
 
-마우스·in-vitro 기전 연구(J Dent Res 2023) — 교합력 소실은 치주인대(PDL)의 type H 혈관과 동반 OSX 골전구세포를 감소시켜 치조골 폐용성 골다공증(ABDO)을 유발하며, 그 기계감지 회로는 PIEZO1/Ca²⁺/HIF-1α/SLIT3; 재조합 SLIT3 국소 주사가 type H 혈관과 골손실을 부분 회복시킴.
+Clinical translation is not yet established (mouse model; SLIT3 therapy unvalidated in humans), but the findings nominate PDL angiogenesis-osteogenesis coupling as the mechanistic basis for alveolar bone loss after tooth loss or occlusal disuse.
+
+## 세줄요약
+
+마우스 교합기능저하 in-vivo 모델 + in-vitro 3D 치주인대(PDL) 세포 압축 실험(J Dent Res 2023) — 교합력 소실이 치조골 폐용성 골다공증(ABDO)을 일으키는 기전 규명(과부하와 구별되는 경로).
+
+교합 비기능 → PDL의 type H 혈관(CD31^high/EMCN^high) 및 동반 OSX 골전구세포 감소; 기계감지 회로 PIEZO1/Ca²⁺/HIF-1α/SLIT3 확인; 재조합 SLIT3 치주 내 주사로 type H 혈관·골손실 부분 회복.
+
+인간 임상 적용은 미확립(마우스 모델; SLIT3 치료 미검증)이나, PDL 혈관-신생-골형성 커플링이 치아 상실·교합 비기능 후 치조골 소실의 기전적 핵심임을 제시함.
 
 ## 1. Document Information
 

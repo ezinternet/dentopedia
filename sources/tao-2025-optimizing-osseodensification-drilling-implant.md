@@ -13,13 +13,21 @@ source_collection: external
 
 Existing OD primary-stability evidence ([[implants/versah-protocols/mercier-2022-osseodensification-primary-stability-cadavers]], [[implants/versah-protocols/moghaddas-2025-osseodensification-standard-drilling-isq-itv]]) compares OD vs conventional drilling but does not pin down *which* OD spin-speed/feed/irrigation settings are optimal — Huwais and others never specified exact parameters. This CNC-controlled in vitro study (Tao 2025) varies spindle speed, feed per tooth, and irrigation on Type IV polyurethane foam to recommend a concrete OD parameter set (1500 rpm, 0.04 mm/z, with irrigation), giving the parameter-selection layer those clinical/cadaver comparisons leave open.
 
-## One-line Summary
+## Three-line Summary
 
-In vitro study (48 polyurethane foam blocks, 0.160 g/cm³ Type IV bone analog, CNC DMU machine): osseodensification drilling (OD, Densah) vs conventional drilling (CD, BLT tapered) — OD gave higher insertion/removal torque (IT 11.73 vs 7.77 N·m, RT 9.28 vs 6.65 N·m, both p<0.001) and fewer site-wall defects despite comparable ISQ (47.1 vs 46.7, NS); recommended OD parameters: 1500 rpm, 0.04 mm/z feed, with 4°C saline irrigation.
+In vitro study (48 polyurethane foam blocks, 0.160 g/cm³ Type IV bone analog, CNC DMU machine): osseodensification drilling (OD, Densah) vs conventional drilling (CD, BLT tapered) — OD gave higher insertion/removal torque (IT 11.73 vs 7.77 N·m, RT 9.28 vs 6.65 N·m, both p<0.001) and fewer site-wall defects despite comparable ISQ (47.1 vs 46.7, NS);
 
-## 한줄요약
+recommended OD parameters: 1500 rpm, 0.04 mm/z feed, with 4°C saline irrigation.
 
-In vitro 연구 (폴리우레탄 폼 블록 48개, 0.160 g/cm³ Type IV 골 모사, CNC DMU 장비): 골밀도화 드릴링 (Osseodensification Drilling, OD, Densah) vs 기존 드릴링 (Conventional Drilling, CD, BLT tapered) — OD가 식립·제거 토크를 더 높이고 (IT 11.73 vs 7.77 N·m, RT 9.28 vs 6.65 N·m, 모두 p<0.001) 골벽 결함이 적었으나 임플란트 안정성 지수 (Implant Stability Quotient, ISQ)는 동등 (47.1 vs 46.7, NS); 권장 OD 파라미터는 1500 rpm, 0.04 mm/z, 4°C 식염수 관주.
+(incomplete)
+
+## 세줄요약
+
+In vitro 연구 (폴리우레탄 폼 블록 48개, 0.160 g/cm³ Type IV 골 모사, CNC DMU 장비): 골밀도화 드릴링 (Osseodensification Drilling, OD, Densah) vs 기존 드릴링 (Conventional Drilling, CD, BLT tapered) — OD가 식립·제거 토크를 더 높이고 (IT 11.73 vs 7.77 N·m, RT 9.28 vs 6.65 N·m, 모두 p<0.001) 골벽 결함이 적었으나 임플란트 안정성 지수 (Implant Stability Quotient, ISQ)는 동등 (47.1 vs 46.7, NS);
+
+권장 OD 파라미터는 1500 rpm, 0.04 mm/z, 4°C 식염수 관주.
+
+(incomplete)
 
 ## 1. Document Information
 

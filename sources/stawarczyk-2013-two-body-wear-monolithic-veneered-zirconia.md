@@ -9,8 +9,21 @@ pdf_filename: stawarczyk-2013-two-body-wear-monolithic-veneered-zirconia.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Acta Odontol Scand 2013;71(1):102-112: chewing simulator 1.2M cycles — polished monolithic Zr (27.3μm enamel wear) = least; glazed ceramic (GZC 118μm) = most; 100% enamel cracks in polished Zr groups; material surface determines antagonist wear.
+## Three-line Summary
+
+Acta Odontol Scand 2013;71(1):102-112: chewing simulator 1.2M cycles — polished monolithic Zr (27.3μm enamel wear) = least
+
+glazed ceramic (GZC 118μm) = most
+
+100% enamel cracks in polished Zr groups; material surface determines antagonist wear.
+
+## 세줄요약
+
+Acta Odontol Scand 2013;71(1):102-112: chewing simulator 1.2M cycles — polished monolithic Zr (27.3μm enamel wear) = least
+
+glazed ceramic (GZC 118μm) = most
+
+100% enamel cracks in polished Zr groups; material surface determines antagonist wear.
 
 ## 1. Key Results
 - 6 groups: VZ (veneered), GZC (glaze ceramic), GZS (glaze spray), MAZ (manual polish), MEZ (mechanical polish), MA (alloy control)

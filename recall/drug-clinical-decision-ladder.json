@@ -1,0 +1,49 @@
+{
+  "overview": "drug-clinical-decision-ladder",
+  "date": "2026-07-23",
+  "title": "치과 약물 임상 결정 사다리 — 리콜",
+  "source_wiki": [
+    "wiki/overviews/drug-clinical-decision-ladder.md"
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "q": "이 허브 페이지가 drug 카테고리를 분할한 기준은?",
+      "opts": [
+        "약물 화학 분류(항생제/진통제/항응고제 등)",
+        "임상 결정축 — 환자 의사결정 시점에서 어떤 sub-overview를 펴느냐로 routing(예: NSAID는 진통제축과 Aspirin 상호작용축에 모두 등장)",
+        "약물의 알파벳 순서",
+        "약물 가격대"
+      ],
+      "ans": 1,
+      "rat": "분할 기준은 약물 분류가 아니라 임상 결정축 — 어떤 sub-overview를 펴느냐로 routing(NSAID는 진통제축·Aspirin 상호작용축 양쪽에 등장). 5축: ①항응고·항혈소판 ②MRONJ ③항생제 ④진통제 ⑤전신질환·다약제. 75편을 축별로 분할(36편/overview → 12.5편/overview).",
+      "cite": "overviews/drug-clinical-decision-ladder"
+    },
+    {
+      "id": "q2",
+      "q": "진통제축과 항생제축의 핵심 결정 규칙은?",
+      "opts": [
+        "Opioid 1차, 모든 발치에 예방적 항생제",
+        "Ibuprofen 400 + Acetaminophen 1000 병용이 최저 NNT(~1.5), 교대 투약>동시; 감염성 심내막염 예방은 4개 최고위험군만, 단순 발치·치근단치주염엔 예방적 항생제 효과 없음",
+        "Opioid가 비-opioid보다 우월",
+        "Clindamycin이 1차 항생제"
+      ],
+      "ans": 1,
+      "rat": "진통제: Ibuprofen 400+Acetaminophen 1000이 최저 NNT(~1.5), Opioid는 비-opioid 대비 비우월, 교대>동시 투약. 항생제: IE 예방은 4개 최고위험군만, 단순 발치·치근단치주염엔 예방적 효과 없음, Clindamycin 회피(근거강함). 한국 조정: Clindamycin 대신 Cephalexin·Azithromycin.",
+      "cite": "overviews/drug-clinical-decision-ladder"
+    },
+    {
+      "id": "q3",
+      "q": "MRONJ축과 항응고축의 핵심 규칙은?",
+      "opts": [
+        "MRONJ는 예방 불가, 항응고제는 항상 중단",
+        "MRONJ 예방은 약물 시작 전 치과 클리어런스가 가장 효과적(데노수맙 ≥32 dose서 위험 31.2%); 항응고·항혈소판은 루틴 처치 시 중단 불필요, TXA 양치가 1차 지혈",
+        "MRONJ는 발치와 무관",
+        "항응고제는 발치 1주 전 중단"
+      ],
+      "ans": 1,
+      "rat": "MRONJ: 약물 시작 전 치과 클리어런스가 가장 효과적, 데노수맙 누적 dose ≥32서 위험 31.2%·발치 OR 4.40. 항응고·항혈소판: VKA·DOAC·항혈소판 복용 환자 루틴 처치 시 중단 불필요, TXA 양치액이 1차 지혈(근거강함). 전신: 조절 당뇨(HbA1c<7.0%)는 임플란트 금기 아님.",
+      "cite": "overviews/drug-clinical-decision-ladder"
+    }
+  ]
+}

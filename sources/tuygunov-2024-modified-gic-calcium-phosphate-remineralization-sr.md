@@ -12,11 +12,21 @@ source_collection: external
 ## Why Ingested
 Bioactivity/remineralization angle for the GIC cluster; links to [[glass-ionomer/tuygunov-2024-modified-gic-calcium-phosphate-remineralization-sr]] and to [[caries-detection-remineralization-overview]].
 
-## One-line Summary
+## Three-line Summary
+
 SR of 5 in-vitro studies finding Ca/P-releasing modifications enhance GIC bioactivity, hydroxyapatite formation, pH, and cariostasis.
 
-## 한줄요약
-in-vitro 5편 SR — Ca/P 방출 개질이 GIC 생체활성·재광화·pH·항우식 향상.
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
+SR of 5 in-vitro studies finding Ca/P-releasing modifications enhance GIC bioactivity, hydroxyapatite formation, pH, and cariostasis.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 Dent Mater J 2024; 43(1): 1–10. DOI 10.4012/dmj.2023-132. Published 2024-01-25. Open access. University of Malaya (Biomaterials Technology Research Groups). PROSPERO-registered.

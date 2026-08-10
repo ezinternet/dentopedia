@@ -6,7 +6,7 @@ date: 2020-04-01
 doi: 10.11607/ofph.2530
 source: demelo-2020-manual-therapy-myofascial-pain-tmd-sr.md
 category: [tmj]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/demelo-2020-manual-therapy-myofascial-pain-tmd-sr.pdf
 pdf_filename: demelo-2020-manual-therapy-myofascial-pain-tmd-sr.pdf
 source_collection: external
@@ -16,13 +16,21 @@ relations:
     target: gonzalez-sanchez-2023-tmj-physiotherapy-treatment-sr
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review of 5 RCTs (279 RDC/TMD-diagnosed masticatory myofascial pain patients): manual therapy relieved pain in all studies but was NOT superior to counseling or botulinum toxin; no meta-analysis (heterogeneity), all studies at unclear risk of bias.
+Systematic review of 5 RCTs (279 patients, RDC/TMD-diagnosed masticatory myofascial pain) evaluating manual therapy (MT) for pain relief — the first SR to anchor inclusion strictly to RDC/TMD diagnosis and restrict comparators to equivalent conservative interventions.
 
-## 한줄요약
+MT relieved pain consistently across all 5 studies, but was not superior to counseling alone (Michelotti, P=0.157) or a single botulinum toxin injection (Guarda-Nardini, P>0.05); MT did beat no-treatment (Kalamir 2012) and counseling alone (Kalamir 2013); MT + home therapy was superior to home therapy alone (Tuncer, P<0.001).
 
-RCT 5편 (RDC/TMD로 진단된 저작근 근막통증 환자 279명) 체계적 문헌고찰: 도수치료 (Manual Therapy, MT)는 모든 연구에서 통증을 완화했으나 상담 (counseling)이나 보툴리눔 독소 (botulinum toxin)보다 우월하지 않았고, 이질성으로 메타분석은 못 했으며 모든 연구가 불확실한 비뚤림 위험이었다.
+No meta-analysis was possible due to heterogeneity; all 5 RCTs were at unclear risk of bias; MT is a low-cost, reversible, statistically equivalent alternative to botulinum toxin for masticatory myofascial pain, but evidence remains inconclusive and MT benefit is closely intertwined with patient counseling.
+
+## 세줄요약
+
+RDC/TMD 진단 저작근 근막통증 환자 279명을 대상으로 한 5 RCT 체계적 문헌고찰 — RDC/TMD 진단 기준과 동등 보존 비교군으로 포함 기준을 엄격 제한한 첫 SR.
+
+도수치료(MT)는 5편 전부에서 통증 완화; 상담 단독(Michelotti, P=0.157)·보툴리눔 독소 단회 주사(Guarda-Nardini, P>0.05)보다 우월하지 않음; 비치료 대비(Kalamir 2012)·상담 단독 대비(Kalamir 2013) 유의하게 우월; MT+자가운동이 자가운동 단독보다 우월(Tuncer, P<0.001).
+
+이질성으로 메타분석 불가; 전체 5 RCT 비뚤림 위험 불확실; MT는 저비용·가역적 보툴리눔 독소 동등 대안이나, 근거 불확정이며 MT 효과는 상담/교육과 밀접히 연관.
 
 ## Summary
 

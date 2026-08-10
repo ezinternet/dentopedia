@@ -13,11 +13,21 @@ source_collection: external
 
 [[endodontics/irrigation/cruz-2014-debris-apical-third-naocl-glyde-in-vivo]]의 paste 잔류 우려를 gel 제형(NaOCl gel·CHX gel·EDTA gel)으로 확장. 최종 세척·초음파 활성화 후에도 dentinal wall에 잔류물이 남는지 SEM/EDS로 정량.
 
-## One-line Summary
+## Three-line Summary
+
 In vitro SEM/EDS study (48 single-rooted teeth) evaluating residues of 5.5% NaOCl gel, 2% CHX gel, and 24% EDTA gel on dentinal walls after canal preparation and final saline + ultrasonic irrigation.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 In vitro SEM/EDS(48 단근치): 근관성형 + 식염수·초음파 최종 세척 후 5.5% NaOCl gel·2% CHX gel·24% EDTA gel의 상아질벽 잔류물을 분석.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - Microscopy Research and Technique 2015;78(6):495–499.

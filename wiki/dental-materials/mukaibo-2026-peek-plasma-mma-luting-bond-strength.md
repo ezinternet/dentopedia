@@ -6,7 +6,7 @@ date: 2026-01-01
 doi: 10.3390/bioengineering13050507
 source: mukaibo-2026-peek-plasma-mma-luting-bond-strength.md
 category: dental-materials
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: true
 pmid: "42194264"
@@ -20,13 +20,21 @@ relations:
     target: delgado-2025-functional-monomers-dental-adhesive-technology
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In-vitro shear-bond-strength study (CAD-CAM PEEK, 244 specimens, n=10/group, two MMA-based luting systems incl. Super-Bond): alumina airborne-particle abrasion + non-thermal air plasma gives superior or comparable SBS to single treatments and markedly improves durability after 20,000 thermocycles; abrasion drives durability for Super-Bond, plasma adds wettability/durability for Beautylink (untreated fully debonded after aging).
+In vitro shear bond strength study (244 CAD-CAM PEEK specimens; n=10/group; two MMA-based luting systems: Super-Bond self-cure and Beautylink dual-cure; 4 surface treatment groups: untreated / NTAP plasma / AB50 / AB+PT; initial and after 20,000 thermocycles 5–55°C).
 
-## 한줄요약
+The AB+PT combination produced the highest roughness and lowest primer contact angles, and after aging gave significantly higher SBS than single treatments for Beautylink (untreated BL fully debonded after aging); for Super-Bond, AB alone drove durability and PT alone failed to match AB after aging.
 
-In-vitro 전단결합강도 연구(CAD-CAM PEEK 244개, 군당 n=10, MMA계 luting 2종 — Super-Bond 포함): 알루미나 샌드블라스팅(AB) + 비열 공기 플라즈마(PT) 병용이 단일 처리보다 우월/동등한 결합강도와 2만회 열순환 후 향상된 내구성을 보임 — Super-Bond는 AB가 내구성의 주역, Beautylink는 플라즈마가 젖음성·내구성에 기여(미처리군은 노화 후 완전 탈락).
+AB+PT is complementary — abrasion provides micromechanical interlocking, plasma adds surface energy and polar groups; plasma-induced surface energy decays over time, so plasma should be applied chairside immediately before luting.
+
+## 세줄요약
+
+In vitro 전단결합강도 연구(CAD-CAM PEEK 244개; 군당 n=10; MMA계 luting 2종: Super-Bond 자가중합·Beautylink 이중중합; 4개 표면처리군: 미처리/NTAP 플라즈마/AB50/AB+PT; 초기 및 20,000회 열순환 5–55°C 후 평가).
+
+AB+PT 병용이 최고 표면 거칠기·최저 프라이머 접촉각 달성; 노화 후 Beautylink에서 AB+PT가 단일처리보다 유의하게 높은 SBS(미처리군은 노화 후 완전 탈락); Super-Bond는 AB가 내구성 주역 — PT 단독은 노화 후 AB에 미달.
+
+AB+PT는 상보적: AB는 기계적 맞물림 제공, 플라즈마(NTAP)는 표면에너지·극성기(–C=O, –COOH, –OH) 부여; 플라즈마 유도 표면에너지는 시간 경과 소실 → 합착 직전 체어사이드 시행 권고.
 
 ## Summary
 

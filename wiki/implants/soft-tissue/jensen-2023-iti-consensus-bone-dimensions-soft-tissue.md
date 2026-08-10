@@ -6,20 +6,28 @@ date: 2023-07-20
 doi: 10.1111/clr.14154
 source: jensen-2023-iti-consensus-bone-dimensions-soft-tissue.md
 category: [implants/soft-tissue]
-confidence: consensus
+evidence_level: consensus
 pdf_path: /Users/oracleneo/llm-wiki/papers/jensen-2023-iti-consensus-bone-dimensions-soft-tissue.pdf
 pdf_filename: jensen-2023-iti-consensus-bone-dimensions-soft-tissue.pdf
 source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-7th ITI Consensus (Group 1; built on 2 systematic reviews): in healed implant sites a buccal bone wall <1.5 mm predicts greater vertical bone loss and worse clinical/radiographic outcomes; simultaneous GBR over buccal dehiscence defects and connective-tissue-graft soft tissue augmentation deliver stable peri-implant outcomes from 1 to 5 years.
+7th ITI Consensus Group 1 report (based on 2 systematic reviews — BBW review of 16 studies and STA review of 15 studies, 447 patients, mean 8-year follow-up) addressing buccal bone wall thickness and soft-tissue augmentation at healed implant sites.
 
-## 한줄요약
+A buccal bone wall <1.5 mm predicts greater vertical bone loss (0.3–1.8 mm reduction at up to 72 months) and worse outcomes; simultaneous GBR over buccal dehiscence reduced vertical bone loss; CTG augmentation maintained stable soft tissue margins and keratinized mucosa at 1–5 years, while non-augmented sites showed apical margin migration.
 
-7차 ITI 합의문(Group 1, 2개 SR 기반): 치유된 식립부에서 협측 골벽(BBW) <1.5 mm는 더 큰 수직 골소실·불리한 임상/방사선 결과를 예측하며, 협측 열개 결손에 대한 동시 GBR과 결합조직이식(CTG) 연조직증대(STA)는 1–5년간 안정적인 임플란트 주위 결과를 준다.
+The clinically actionable threshold is BBW ≥1.5 mm — requiring approximately a 6.5–7 mm ridge width for a 4 mm implant — with CTG at single esthetic implant sites to prevent apical soft tissue margin migration over 5 years.
+
+## 세줄요약
+
+7차 ITI 합의문 Group 1(2개 SR 기반: 협측 골벽 SR 16편, 연조직 증대 SR 15편·447명·평균 8년 추적): 치유된 식립부의 협측 골벽 두께와 연조직 증대술을 다루었다.
+
+협측 골벽(Buccal Bone Wall, BBW) <1.5 mm는 더 큰 수직 골소실(최대 72개월까지 0.3–1.8 mm 감소) 예측; 협측 열개 결손 동시 골유도재생술(GBR)이 비치료 대비 골소실 감소; CTG 연조직 증대는 1–5년 연조직 변연 안정 유지, 비증대 부위는 근단 이동 경향.
+
+임상적 실행 역치는 BBW ≥1.5 mm(4 mm 임플란트에 ~6.5–7 mm 치조제 폭 필요); 단독 심미 임플란트 부위에 CTG 시행으로 5년에 걸친 연조직 변연 근단 이동을 예방한다.
 
 ## Summary
 
@@ -54,6 +62,6 @@ For soft tissue: single-implant peri-implant bone and clinical parameters (probi
 ## Related Papers
 
 - [[implants/cicciu-2023-buccal-palatal-bone-thickness-marginal]] — single-study evidence on buccal/palatal bone thickness and marginal bone, contextualized by this consensus' BBW <1.5 mm threshold.
-- [[implants/thoma-2018-soft-tissue-augmentation-periimplant-health]] — soft tissue augmentation and peri-implant health; consensus' STA review extends this medium/long-term.
-- [[implants/tavelli-2025-soft-tissue-dehiscences-implant-sites-ao-aap]] — peri-implant soft tissue dehiscence management, the indication for CTG augmentation discussed here.
+- [[implants/soft-tissue/thoma-2018-soft-tissue-augmentation-periimplant-health]] — soft tissue augmentation and peri-implant health; consensus' STA review extends this medium/long-term.
+- [[implants/soft-tissue/tavelli-2025-soft-tissue-dehiscences-implant-sites-ao-aap]] — peri-implant soft tissue dehiscence management, the indication for CTG augmentation discussed here.
 - [[bone-regeneration/ridge-preservation/choi-2017-single-double-layer-collagen-membrane-arp]] — collagen membrane GBR evidence relevant to the simultaneous-GBR recommendation.

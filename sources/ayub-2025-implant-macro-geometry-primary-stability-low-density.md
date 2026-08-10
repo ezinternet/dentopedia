@@ -17,13 +17,21 @@ text_filename: ayub-2025-implant-macro-geometry-primary-stability-low-density.tx
 
 기존 [[wiki/implants/versah-protocols/rittipakorn-2025-clockwise-osseodensification-primary-stability-cadaveric]]는 저밀도골에서 1차 안정성을 끌어올리는 *수술 기법*(시계방향 골밀도화 드릴링) 축을 다룬다. 본 in vitro study는 같은 저밀도골 문제를 *임플란트 매크로지오메트리*(나사 디자인·테이퍼·self-cutting) 축에서 보완 — 1차 안정성 결정인자의 다른 한 축을 채워 ISQ/IT threshold 논의를 보강한다.
 
-## One-line Summary
+## Three-line Summary
 
-In vitro polyurethane-block study (36 implants, 3 macro-geometries × bone types 3 and 4): implant geometry and bone density were the key determinants of primary stability — triple-thread Zimmer TSV gave the highest insertion/removal torque, while double-thread deeper-thread Dentium Superline gave the highest ISQ, in both low-density bone types.
+In vitro polyurethane-block study (36 implants, 12 per group; Strasbourg BLT vs Zimmer TSV vs Dentium Superline; bone types 3 and 4; ISQ by RFA + insertion/removal torque) isolating macro-geometry as the variable in low-density bone.
 
-## 한줄요약
+Implant geometry significantly affected all stability metrics (p<0.001): triple-thread Zimmer TSV had the highest insertion torque (type 3: 30.21 Ncm; type 4: 18.07 Ncm) and removal torque, while double-thread deep-thread Dentium Superline had the highest ISQ (type 3: 63.29; type 4: 58.46) in both bone types.
 
-폴리우레탄 블록 in vitro 연구(임플란트 36개, 매크로지오메트리 3종 × 골질 3·4형): 1차 안정성은 임플란트 형태와 골밀도가 핵심 결정인자였고, triple-thread Zimmer TSV가 삽입/제거 토크 최고, 깊은 double-thread Dentium Superline이 ISQ 최고였다(두 저밀도골 모두).
+The "best geometry" depends on the metric used (torque vs ISQ), highlighting a design trade-off; synthetic bone results cannot be directly extrapolated to clinical immediate-loading decisions until validated in vivo.
+
+## 세줄요약
+
+폴리우레탄 블록 in vitro 연구(임플란트 36개, 군당 12개; Straumann BLT·Zimmer TSV·Dentium Superline; 골질 3·4형; ISQ·삽입토크·제거토크 측정) — 저밀도골에서 임플란트 매크로지오메트리 효과 비교.
+
+기하학적 형태가 모든 안정성 지표에 유의한 영향(p<0.001): triple-thread Zimmer TSV가 삽입토크(3형: 30.21 Ncm; 4형: 18.07 Ncm)·제거토크 최고, double-thread 깊은 나사 Dentium Superline이 ISQ 최고(3형: 63.29; 4형: 58.46; 양 골질 모두).
+
+'최적 형태'는 평가 지표(토크 vs ISQ)에 따라 달라지며 설계 trade-off 존재 — 임상 즉시부하 결정에 활용하려면 임상 연구로 검증 필요.
 
 ## 1. Document Information
 

@@ -13,13 +13,21 @@ source_collection: external
 
 ISQ 예측 모델의 정량적 근거를 확보하기 위해 인제스트. 기존 [[wiki/implants/isq/huang-2020-isq-clinical-significance-literature-review]] 는 ISQ 임상적 의미를 narrative하게 정리하지만, 어떤 요소가 ISQ 값에 수치적으로 얼마나 영향을 주는지(weight coefficient)를 정량화한 근거는 부재했음. 본 연구(557 implants, 3 groups, multivariate linear regression)가 그 gap을 채움.
 
-## One-line Summary
+## Three-line Summary
 
 Retrospective study of 557 implants (3 groups, 2 surgeons, 2 brands) using multivariate linear regression identified bone grafting (T1, coefficient −4 to −5) and implant diameter (T2, coefficient +3.4 to +4.2) as the only surgeon/system-independent general predictors of ISQ.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 557개 임플란트 후향 연구에서 다변량 회귀분석으로 T1 ISQ는 골이식 필요 여부(계수 −4~−5), T2 ISQ는 임플란트 직경(계수 +3.4~+4.2)이 술자·시스템 독립적인 일반 예측인자임을 확인.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

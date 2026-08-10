@@ -6,18 +6,26 @@ date: 2014-09-23
 doi: 10.1016/j.jdent.2014.09.008
 source: lawson-2014-wear-enamel-zirconia-lithium-disilicate.md
 category: [dental-materials/zirconia]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/lawson-2014-wear-enamel-zirconia-lithium-disilicate.pdf
 pdf_filename: lawson-2014-wear-enamel-zirconia-lithium-disilicate.pdf
 source_collection: external
 tags: [zirconia, lithium-disilicate, enamel-wear, polishing, glazing, occlusal-adjustment, Y-TZP]
 ---
 
-## One-line Summary
-In vitro (J Dent 2014): zirconia and lithium disilicate across adjusted/polished/glazed states at 400,000 cycles — polished Zr showed least enamel antagonist wear (0.33 mm³); feldspathic porcelain most (2.15 mm³); polishing after adjustment reduced wear for both materials; Zr showed less material wear than lithium disilicate.
+## Three-line Summary
+In vitro head-to-head wear study (J Dent 2014, 400,000 cycles) comparing zirconia and lithium disilicate across three finishing states — adjusted (A), adjusted+polished (AP), and adjusted+glazed (AG) — measuring both antagonist enamel loss and material wear.
 
-## 한줄요약
-in-vitro(J Dent 2014): Zr·LD × 조정/연마/유약, 400,000사이클 — 연마 Zr: 최소 대합치마모(0.33mm³); 장석도재: 최대(2.15mm³); 조정 후 연마로 Zr·LD 모두 마모 감소; Zr < LD 재료마모.
+Adjusted+polished (AP) zirconia caused the least enamel wear (0.33±0.11 mm³, comparable to enamel vs enamel); adjusted-only and glazed zirconia caused significantly more enamel wear; veneering porcelain caused the most (2.15±0.58 mm³); polishing after adjustment reduced enamel wear for both materials.
+
+Zirconia showed no detectable material wear in adjusted and polished states, while lithium disilicate showed measurable material loss — clinically, always polish zirconia after any occlusal adjustment.
+
+## 세줄요약
+in-vitro(J Dent 2014, 400,000사이클): 지르코니아(Zirconia, Zr)·리튬디실리케이트(Lithium Disilicate, LD) × 조정(A)·연마(AP)·유약(AG) 3가지 마감 상태 — 대합치 에나멜 손실 + 재료 마모 측정.
+
+연마 지르코니아(AP Zr): 최소 에나멜 마모(0.33±0.11mm³, 에나멜 대 에나멜과 유사); 조정 단독·유약 Zr은 유의하게 더 많이 마모; 베니어 도재: 최대(2.15±0.58mm³); 연마가 Zr·LD 모두 에나멜 마모 감소.
+
+Zr: 조정·연마 상태에서 재료 손실 없음; LD: 재료 손실 있음 — 교합 조정 후 반드시 지르코니아 연마.
 
 ## Summary
 Head-to-head comparison of zirconia vs lithium disilicate across three finishing states (adjusted, polished, glazed) for enamel wear and material wear. Key clinical guidance: always polish after occlusal adjustment; polished zirconia is most enamel-compatible material tested.

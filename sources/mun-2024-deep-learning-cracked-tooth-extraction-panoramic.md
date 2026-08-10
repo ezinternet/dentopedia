@@ -17,13 +17,21 @@ text_filename: mun-2024-deep-learning-cracked-tooth-extraction-panoramic.txt
 
 [[cracked-tooth/raj-2025-cracked-tooth-syndrome-diagnostic-dilemma]]는 균열치(특히 수직치근파절, VRF)가 임상·방사선 진단에서 가장 어려운 문제임을 강조한다. 본 논문(Mun 2024)은 그 진단 난제에 deep-learning을 적용해 파노라마 한 장만으로 발치 적응증(VRF) 예측이 가능한지를 정량 평가한 retrospective AI 모델 연구로, 그 진단 딜레마를 보조하는 도구 가능성을 제시한다. AI/CNN 방법론 페이지([[artificial-intelligence/sadr-2022-deep-learning-periapical-radiolucent-lesions]] 등 영상 CNN 계열)와도 짝을 이룬다.
 
-## One-line Summary
+## Three-line Summary
 
 Retrospective single-center AI study: three CNNs (InceptionV3, ResNet50, EfficientNetB0) trained on 418 individual-tooth crops from panoramic radiographs (200 patients, 209 VRF vs 209 normal, 1:1) predicted cracked-tooth (VRF) extraction indication with high sensitivity (90–94%) but low specificity (53–61%), accuracy 72–76%, AUC 0.80–0.82 (ResNet50 best at 0.82).
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 단일기관 후향 AI 연구: 파노라마에서 개별 치아 절편 418개(환자 200명, 수직치근파절 VRF 209 vs 정상 209, 1:1)로 CNN 3종(InceptionV3·ResNet50·EfficientNetB0)을 학습시켜 균열치 발치 적응증을 예측 — 민감도는 높으나(90~94%) 특이도는 낮고(53~61%), 정확도 72~76%, AUC 0.80~0.82(ResNet50가 0.82로 최고).
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

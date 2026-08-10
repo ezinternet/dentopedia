@@ -6,7 +6,7 @@ date: 2025-12-18
 doi: 10.1016/j.jdsr.2025.12.001
 source: hatipoglu-2025-irrigation-activation-postoperative-pain-network-meta.md
 category: endodontics/irrigation
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "41510144"
@@ -22,13 +22,21 @@ relations:
     target: paixao-2022-sonic-ultrasonic-activation-sr-ma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Bayesian network meta-regression of 57 trials (31 in the quantitative network, 2595 patients) ranking 7 irrigation activation/agitation techniques for Day-1 postop pain after RCT: laser-activated irrigation (LAI) ranked best (SUCRA 85%) and was the only clinically important contrast (vs manual dynamic irrigation, MD −2.46 VAS, exceeding the 1.0 MCID); manual dynamic irrigation (MDI) ranked worst (SUCRA 1.5%); CINeMA confidence mostly low to very low.
+Bayesian network meta-regression of 57 trials (31 contributing to the quantitative network, 2,595 patients) is the first to rank all seven contemporary irrigation activation/agitation techniques for Day-1 postoperative pain after root canal treatment, with symptomatic status modeled as a formal effect modifier.
 
-## 한줄요약
+Laser-activated irrigation (LAI) ranked best (SUCRA 85%, mean Day-1 pain 1.88) and was the only contrast exceeding the prespecified 1.0-point MCID: LAI vs manual dynamic irrigation (MDI) MD −2.46 (95% CrI −3.64 to −1.27, moderate confidence); MDI ranked worst (SUCRA 1.5%, mean pain 3.12); multisonic and negative-pressure ranked 2nd–3rd but were supported by only 2 studies each.
 
-57편(정량 네트워크 31편, 2595명) 베이지안 네트워크 메타회귀: 근관치료 후 1일째 통증에 대해 7가지 세정 활성화 기법을 순위화 — 레이저 활성화 세정(LAI)이 최저 통증으로 1위(SUCRA 85%), 임상적으로 유의한 유일한 비교가 LAI vs 수동 역동 세정(MDI, MD −2.46 VAS, MCID 1.0 초과); MDI는 통증 최고로 최하위(SUCRA 1.5%); CINeMA 신뢰도는 대부분 낮음~매우낮음.
+Overall CINeMA confidence is low to very low for most contrasts, symptomatic tooth status dominated the pain signal regardless of technique, and sensitivity analysis showed the LAI–MDI difference attenuated when influential trials were excluded — so technique selection should not override symptom-based analgesic planning.
+
+## 세줄요약
+
+근관치료 후 1일째 통증에 대해 7가지 세정 활성화 기법을 순위화한 베이지안 네트워크 메타회귀(57편, 정량 네트워크 31편, 2,595명) — 증상 유무를 공식 효과 수정자로 모델링한 최초 연구.
+
+레이저 활성화 세정(LAI)이 SUCRA 85%로 1위(평균 통증 1.88), MCID 1.0pt 초과하는 유일한 임상적 유의 비교는 LAI vs 수동 역동 세정(MDI): MD −2.46(중등 신뢰도); MDI는 최하위(SUCRA 1.5%, 평균 통증 3.12); 멀티소닉·음압은 2~3위이나 각 2편만으로 뒷받침.
+
+대부분 비교에서 CINeMA 신뢰도 낮음~매우낮음이며 증상성 치아 여부가 기법 선택보다 통증 크기를 더 강하게 좌우 — 세정 기법 선택이 증상 기반 진통 계획을 대체할 수 없음.
 
 ## Summary
 

@@ -13,8 +13,21 @@ source_collection: external
 
 Independent SR+MA that replicates Moro 2022's ~13% pooled dentist-burnout prevalence and adds a geographic gradient and temporal trend — reinforcing the prevalence backbone of [[overviews/dentist-burnout-mental-health-overview]].
 
-## One-line Summary
-Independent SR+MA (15 studies, n=6,038) — overall dentist burnout prevalence **13%**, matching Moro 2022; adds geographic gradient (Europe highest, Americas lowest), longitudinal > cross-sectional, and a downward temporal trend.
+## Three-line Summary
+
+Independent SR+MA (15 studies, n=6,038) — overall dentist burnout
+
+prevalence **13%**, matching Moro 2022; adds geographic gradient (Europe
+
+highest, Americas lowest), longitudinal > cross-sectional, and a downward temporal trend.
+
+## 세줄요약
+
+Independent 체계적 고찰 및 메타분석 (SR+MA) (15 studies, n=6,038) — overall dentist burnout
+
+prevalence **13%**, matching Moro 2022; adds geographic gradient (Europe
+
+highest, Americas lowest), longitudinal > cross-sectional, and a downward temporal trend.
 
 ## 1. Document Information
 - Journal: Psychology, Health & Medicine, 28(7):1767–1782, Jul-Dec 2023

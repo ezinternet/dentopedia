@@ -7,7 +7,7 @@ doi: 10.1016/j.bjoms.2024.05.006
 journal: British Journal of Oral & Maxillofacial Surgery 62(8):685-703
 source: kadkhodazadeh-2024-transcrestal-maxillary-sinus-elevation-sr-ma.md
 category: [sinus-lift/transcrestal]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: false
 pmid: "39098575"
@@ -20,15 +20,26 @@ relations:
     target: starch-jensen-2025-transcrestal-sinus-osseodensification-meta-analysis
   - type: reinforces
     target: huang-2026-graftless-transcrestal-sinus-membrane-perforation-ma
+  - type: refines
+    target: shah-2022-survival-rate-dental-implant-placed
+    note: "This RCT-only SR+MA (17 RCTs, 10 meta-analyzed) restricted to hand-osteotome transcrestal lifts finds 100% pooled survival (95% CI 99-100%) -- tighter and higher than Shah 2022's broader indirect/osteotome-only subset (97.1%, 95% CI 95.8-98.4%, 9 mostly-observational studies spanning osteotome + antral balloon + piezosurgery). CIs do not overlap. Both agree transcrestal/indirect survival is very high; read as this RCT-restricted, narrower-technique analysis refining/narrowing Shah's broader real-world estimate (evidence-tier and scope difference), not a genuine clinical disagreement -- not typed contradicts."
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 17 RCTs (10 meta-analyzed) on transcrestal maxillary sinus elevation showing a pooled 100% (95% CI 99–100%) implant survival independent of follow-up time, tempered by a hand-osteotome–specific risk of sinus-membrane perforation and patient vertigo.
+SR+MA restricted to RCTs (17 included, 10 meta-analyzed) evaluating implant outcomes after transcrestal (closed) maxillary sinus floor elevation using hand osteotomes, piezoelectric, drill-based, and hydraulic techniques.
 
-## 한줄요약
+Pooled implant survival was 100% (95% CI 99–100%) for both grafted and non-grafted hand-osteotome transcrestal lifts, with follow-up time, implant level (bone vs tissue), and staging protocol showing no significant effect on survival.
 
-경치조골(transcrestal) 상악동거상 임플란트 RCT 17편(메타분석 10편) SR+MA — 풀링 생존율 100% (95% CI 99–100%), 추적기간 무관, 단 hand-osteotome 사용 시 막천공·현훈 위험 증가.
+The clinically important caveat is a hand-osteotome–specific morbidity signal — higher sinus membrane perforation rate and post-operative vertigo/dizziness — not apparent from the survival figures alone.
+
+## 세줄요약
+
+경치조골(transcrestal) 상악동거상 RCT 17편(메타분석 10편) SR+MA — hand osteotome·피에조·드릴·수압(hydraulic) 기법 포함, 임플란트 생존율 및 안전성 평가.
+
+통합 임플란트 생존율 100% (95% CI 99–100%), 이식 여부·추적기간·임플란트 유형(골수준/연조직수준)·식립 단계(1회/2회) 모두 생존율에 유의한 영향 없음.
+
+단, hand osteotome 사용군에서만 슈나이더막(Schneiderian membrane) 천공 및 현훈(vertigo)/어지럼증이 보고되어, 생존율 지표만으로는 드러나지 않는 술식 의존성 합병증 위험을 시사.
 
 ## Summary
 
@@ -57,3 +68,4 @@ Databases: PubMed, Web of Science, Embase, Scopus to 21 Feb 2024. Inclusion: RCT
 - [[sinus-lift/transcrestal/starch-jensen-2025-transcrestal-sinus-osseodensification-meta-analysis]] — reinforces; both report high survival, but Starch-Jensen contrasts osseodensification vs osteotome/lateral while this anchors overall transcrestal survival.
 - [[sinus-lift/transcrestal/huang-2026-graftless-transcrestal-sinus-membrane-perforation-ma]] — reinforces; quantifies the membrane-perforation endpoint this SR flags qualitatively for hand osteotomes.
 - [[sinus-lift/transcrestal/farina-2018-morbidity-transcrestal-lateral-sinus-floor-elevation]] — extends the morbidity discussion to a transcrestal-vs-lateral frame.
+- [[sinus-lift/lateral/shah-2022-survival-rate-dental-implant-placed]] — **refines**: this RCT-only, hand-osteotome-restricted estimate (100%, 95% CI 99–100%) is tighter and higher than Shah 2022's broader indirect/osteotome-only subset (97.1%, 95% CI 95.8–98.4%, mostly observational); CIs don't overlap, but both agree survival is very high — read as a rigor/scope refinement, not a contradiction.

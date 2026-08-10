@@ -6,7 +6,7 @@ date: 2024-08-01
 doi: 10.25122/jml-2024-0178
 source: khries-2024-identifying-barriers-pediatric-dental-appointments.md
 category: [practice-management]
-confidence: cross-sectional
+evidence_level: cross-sectional
 source_collection: pubmed-text
 full_text: true
 pmid: "39539426"
@@ -16,13 +16,21 @@ text_filename: khries-2024-identifying-barriers-pediatric-dental-appointments.tx
 tags: [appointment-attendance, pediatric, practice-management]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Cross-sectional questionnaire study (n=265 children <12 yr, Jordan) found a 44% missed-appointment rate despite 85% insurance coverage; non-attendance was significantly associated with child age, gender, and public-transport use, with social/family commitments (15.5%), forgetfulness (11.2%), and staff miscommunication (10.3%) the leading barriers.
+Cross-sectional, expert-validated questionnaire study (n=265 children <12 years, Cronbach's alpha 0.95; Prince Faisal bin Al-Hussein Hospital, Jordan, Nov 2023–Jan 2024) characterizing barriers to pediatric dental appointment attendance across four domains: parent/caregiver, patient, administrative, and nonspecific.
 
-## 한줄요약
+A 44% missed-appointment rate was observed despite 85% insurance coverage; non-attendance was significantly associated with child age (p=0.0041) and transportation type (p=0.002); the top barriers were social/family commitments (15.5%), forgetfulness (11.2%), and staff miscommunication (10.3%).
 
-요르단 12세 미만 소아 265명 단면 설문연구 — 85%가 보험이 있음에도 결손율(missed-appointment rate)이 44%였고, 미내원은 연령·성별·대중교통 이용과 유의하게 연관되었으며 주요 장벽은 가족·사회적 일정(15.5%), 망각(11.2%), 직원 의사소통 오류(10.3%)였다.
+Financial access (insurance) does not explain non-attendance — the dominant drivers are scheduling/logistic barriers and forgetfulness, pointing to automated reminders, clear cancellation policies, shorter follow-up gaps, and anxiety-reduction measures as the key practice-management levers.
+
+## 세줄요약
+
+단면·전문가 검증 설문연구 (n=265명, 12세 미만 소아; 크론바흐 α 0.95; 요르단 알루사이파 병원, 2023년 11월~2024년 1월): 보호자·환아·행정·비특이 4개 영역으로 소아 치과 예약 미내원 장벽 분석.
+
+보험 보유율 85%임에도 미내원율 44%; 연령(p=0.0041)·교통수단(p=0.002)과 유의 연관; 주요 장벽은 가족·사회적 일정(15.5%), 망각(11.2%), 직원 의사소통 오류(10.3%).
+
+보험(경제적 접근성)은 미내원의 핵심 원인이 아님 — 일정/물류 장벽과 망각이 주도하므로, 자동화 리마인더·명확한 취소 정책·짧은 추적 간격·불안 감소 중재가 핵심 운영 레버.
 
 ## Summary
 

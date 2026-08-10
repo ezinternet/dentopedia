@@ -13,13 +13,21 @@ source_collection: external
 
 radiology 카테고리 파노라마 허상 판독의 진보된 증례(유사허상 개념). [[radiology/ramos-2016-ghost-images-metal-objects-panoramic]]의 허상 화보를 '유사허상'까지 확장해 판독 매뉴얼 정교화.
 
-## One-line Summary
+## Three-line Summary
 
-Case report: earrings produced real + typical ghost + pseudo-ghost (ghost-like real) images on panoramic; rotation center extending beyond the jaw explains the doubling.
+Case report: earrings produced real + typical ghost + pseudo-ghost (ghost-like real) images on panoramic;
 
-## 한줄요약
+rotation center extending beyond the jaw explains the doubling.
 
-증례보고: 귀걸이가 파노라마에 실상+전형적 허상+유사허상(ghost-like real)을 동시 형성. 회전중심이 악골 밖으로 확장되어 이중상 발생.
+(incomplete)
+
+## 세줄요약
+
+증례보고: 귀걸이가 파노라마에 실상+전형적 허상+유사허상(ghost-like real)을 동시 형성.
+
+회전중심이 악골 밖으로 확장되어 이중상 발생.
+
+(incomplete)
 
 ## 1. Document Information
 

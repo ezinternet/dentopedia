@@ -6,7 +6,7 @@ date: 2014-07-01
 doi: 10.4103/0975-5950.154810
 source: pal-2014-trends-management-myofascial-pain.md
 category: [tmj]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: true
 pmid: "25937719"
@@ -22,13 +22,21 @@ relations:
     target: koole-2019-spray-stretch-technique-mouth-opening
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Narrative orofacial/maxillofacial management review placing the spray-and-stretch technique within a two-phase treatment algorithm for masticatory myofascial pain — alongside occlusal splints, massage, ultrasound, TENS, LLLT, biofeedback, trigger-point injection (saline/LA/botulinum toxin), muscle relaxants (tizanidine), and tricyclic antidepressants.
+Narrative review (PMC 2014) from maxillofacial surgery on masticatory myofascial pain management, placing spray-and-stretch within a two-phase treatment algorithm alongside physical therapy modalities, occlusal splints, trigger-point injections, and pharmacotherapy; no PRISMA, no quality grading, no pooled estimates.
 
-## 한줄요약
+Phase 1 includes deep-stroking massage, ultrasound, TENS, LLLT, biofeedback, spray-and-stretch, and occlusal splint; Phase 2 escalates to trigger-point injection (saline/LA/BTX-A), tizanidine, and tricyclic antidepressants (amitriptyline ≤75 mg/day) for refractory cases, with re-evaluation for TMJ internal derangement and psychogenic perpetuating factors.
 
-악안면 영역 근막통 관리 리뷰 — 분사신장(spray-and-stretch)을 교합 스플린트·물리치료(마사지·초음파·TENS·LLLT·바이오피드백)·트리거포인트 주사(생리식염수·국소마취제·보툴리눔)·근이완제·삼환계 항우울제를 포함한 2단계 치료 알고리즘 안에 위치시킴.
+Most clinically useful content: facial trigger-point referral patterns (teeth/TMJ/ear/pharynx/occiput) and palpation as the diagnostic gold standard; ultrasound and spray-and-stretch are acknowledged to rest on empirical rather than high-grade evidence.
+
+## 세줄요약
+
+악안면외과 관점의 저작근 근막통 관리 narrative review (PMC 2014): 분사신장을 포함한 2단계 치료 알고리즘 제시; PRISMA·근거 등급화 없음.
+
+1단계: 심층 마사지·초음파·TENS·LLLT·바이오피드백·분사신장·교합 스플린트; 2단계(불응성): 트리거포인트 주사(생리식염수/LA/BTX-A)·tizanidine·삼환계항우울제(amitriptyline ≤75 mg/일)·TMJ 내부장애 재평가.
+
+임상적 가치: 안면 트리거포인트 방사통 패턴(치아·TMJ·귀·인두·후두) 및 촉진을 진단 표준으로 제시; 초음파·분사신장은 경험적 근거 수준임을 논문 스스로 인정.
 
 ## Summary
 

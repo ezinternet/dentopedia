@@ -12,20 +12,28 @@ text_path: /Users/oracleneo/llm-wiki/papers/talungchit-2014-ethanol-wet-bonding-
 text_filename: talungchit-2014-ethanol-wet-bonding-chlorhexidine-resin-dentin-durability.txt
 date: 2014-10-01
 source: talungchit-2014-ethanol-wet-bonding-chlorhexidine-resin-dentin-durability.md
-confidence: in-vitro
+evidence_level: in-vitro
 tags: [ethanol-wet-bonding, chlorhexidine, resin-dentin-bond-durability, mmp-inhibitor, hybrid-layer, microtensile-bond-strength]
 relations:
   - type: reinforces
     target: liu-2011-limitations-bonding-dentin-bond-degradation-review
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In-vitro micro-Raman + μTBS + TEM bench study (Talungchit et al. 2014, J Adhes Dent; abstract-only retrieved) showing ethanol-wet bonding raises bis-GMA/TEG-DMA molar concentration and μTBS across the hybrid layer immediately and after aging, with chlorhexidine further preserving collagen and limiting nanoleakage at 1 year.
+In vitro micro-Raman + µTBS + TEM study (ethanol-wet bonding [EW] vs water-wet bonding [WW] with a three-step etch-and-rinse adhesive; ± chlorhexidine; measured immediately and at 7-month / 1-year aging; abstract-only retrieved).
 
-## 한줄요약
+EW delivered significantly higher bis-GMA and TEG-DMA molar concentrations and µTBS throughout the hybrid layer immediately and after aging vs WW; adding chlorhexidine further preserved collagen integrity and limited nanoleakage in EW specimens at 1 year.
 
-에탄올 습식 접착(ethanol-wet bonding, EW)이 수습식(water-wet bonding, WW)보다 소수성 단량체를 혼성층(hybrid layer)에 더 깊이 침투시켜 즉시·노화 후 미세인장결합강도(microtensile bond strength, μTBS)를 높였고, 클로르헥시딘(chlorhexidine, CHX)을 더하면 1년 후 콜라겐 보존·나노누출(nanoleakage) 감소가 향상되는 in-vitro 벤치 연구 (초록만 확보).
+Replacing residual dentin water with ethanol before applying a hydrophobic adhesive deepens monomer infiltration and raises long-term bond strength; the combination of EW + chlorhexidine targets both the hydrophobic infiltration deficit and MMP-mediated collagen degradation.
+
+## 세줄요약
+
+In vitro micro-Raman + µTBS + TEM 연구 (3단계 산부식 접착제 하에서 에탄올 습식 접착[ethanol-wet bonding, EW] vs 수습식[WW]; ±클로르헥시딘[CHX]; 즉시·7개월·1년 노화 측정; 초록만 확보).
+
+EW가 혼성층 전역에 걸쳐 bis-GMA·TEG-DMA 몰 농도와 µTBS를 즉시 및 노화 후 모두 WW 대비 유의하게 향상; CHX 추가 시 1년 후 EW군에서 콜라겐 보존 강화 및 나노누출 감소.
+
+잔류 수분을 에탄올로 치환 후 소수성 접착제를 적용하면 단량체 침투 깊이와 장기 결합강도가 개선되며, EW + CHX 병용은 소수성 침투 결핍과 MMP 매개 콜라겐 분해를 동시에 표적으로 하는 내구성 접착 전략을 제공.
 
 ## Summary
 

@@ -13,13 +13,21 @@ source_collection: external
 
 총의치 수직고경(Occlusal Vertical Dimension, OVD) 결정의 고전적 토대 — "하악 안정위(rest position) + 자유공극(freeway space)" 방법이 왜 불안정한지를 두부계측(cephalometric)으로 보여준 1975년 원전으로, [[complete-denture/alhajj-2017-occlusal-vertical-dimension-complete-denture-review]]·[[complete-denture/fayad-2025-vertical-dimension-determination-prosthodontics-review]]가 "단일 방법으로 안정위에만 의존하지 말라"고 권고하는 근거의 역사적 출발점이다.
 
-## One-line Summary
+## Three-line Summary
 
 Classic cephalometric study (n=50 complete denture wearers) measuring mandibular rest-position vertical dimension with facial lead markers vs skeletal landmarks, edentulous vs with-denture: facial soft tissue masks true mandibular movement, rest position is variable and shifts on denture insertion, and the edentulous rest position is therefore not a reliable basis for determining OVD.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 총의치 착용자 50명의 하악 안정위 수직고경을 두부계측 방사선상에서 안면 표지(lead marker)와 골격 표지로 측정(무치악 vs 의치 장착): 안면 연조직이 실제 하악 움직임을 가려 안정위가 변동적이고 의치 장착 시 이동하므로, 무치악 안정위는 OVD 결정의 신뢰할 기준이 못 됨.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

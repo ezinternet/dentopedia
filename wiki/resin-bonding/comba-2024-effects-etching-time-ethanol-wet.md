@@ -6,7 +6,7 @@ date: 2024-04-24
 doi: 10.3390/jcm13092474
 source: comba-2024-effects-etching-time-ethanol-wet.md
 category: [resin-bonding]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/comba-2024-effects-etching-time-ethanol-wet.pdf
 pdf_filename: comba-2024-effects-etching-time-ethanol-wet.pdf
 source_collection: external
@@ -16,13 +16,21 @@ relations:
     target: mortazavi-2012-ethanol-wet-bonding-clinical-trial
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In vitro study (60 single-root teeth, 4 groups): ethanol pre-treatment significantly increased push-out bond strength of a multi-mode adhesive on radicular dentin (p<0.01) and reduced hybrid-layer MMP activity (p<0.01), while etching time (15 vs 30 s) did not affect bond strength.
+In vitro study (60 single-root teeth, 4 groups, Clearfil Universal Bond Quick + DC Core cement) comparing etching time (15 vs 30 s) and ethanol pre-treatment on radicular dentin push-out bond strength and MMP activity.
 
-## 한줄요약
+Ethanol pre-treatment significantly increased push-out bond strength (p<0.01) and reduced hybrid-layer MMP gelatinolytic activity (p<0.01); etching time had no effect on bond strength, but 30 s etch significantly elevated MMP activity.
 
-60개 단근치 in vitro 실험(4군): 에탄올 전처리가 다목적 접착제의 근관내 상아질 push-out 접착강도를 유의하게 증가(p<0.01)시키고 혼성층 MMP 활성을 감소(p<0.01)시켰으며, 산부식 시간(15 vs 30초)은 접착강도에 영향 없음.
+Ethanol wet-bonding is effective not only on coronal dentin but also in the confined root-canal environment with a modern universal adhesive — and over-etching should be avoided due to MMP upregulation.
+
+## 세줄요약
+
+In vitro 연구(단근치 60개, 4군): Clearfil Universal Bond Quick + DC Core 시멘트로 근관내 상아질의 push-out 결합강도와 기질금속단백분해효소(Matrix Metalloproteinase, MMP) 활성을 비교 — 산부식 시간(15 vs 30초) 및 에탄올 전처리 변수.
+
+에탄올 전처리가 push-out 결합강도를 유의하게 증가(p<0.01)시키고 혼성층 MMP 활성을 유의하게 감소(p<0.01)시켰으며, 산부식 시간은 결합강도에 영향 없었으나 30초 산부식이 MMP 활성을 유의하게 증가시킴.
+
+에탄올 습윤접합(Ethanol Wet-Bonding, EWB)은 치관부 상아질뿐 아니라 근관내 상아질에도 효과적이며, 과도한 산부식은 MMP 활성화로 장기 결합 열화를 유발할 수 있으므로 피해야 함.
 
 ## Summary
 

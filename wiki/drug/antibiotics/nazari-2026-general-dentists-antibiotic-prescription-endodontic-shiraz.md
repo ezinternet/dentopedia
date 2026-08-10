@@ -6,7 +6,7 @@ date: 2026-01-01
 doi: 10.30476/dentjods.2025.105820.2614
 source: nazari-2026-general-dentists-antibiotic-prescription-endodontic-shiraz.md
 category: [drug/antibiotics]
-confidence: cross-sectional
+evidence_level: cross-sectional
 source_collection: pubmed-text
 full_text: true
 pmid: "42253831"
@@ -24,13 +24,21 @@ relations:
     target: mendez-millan-2024-antibiotic-overprescription-apical-periodontitis-sr-ma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Cross-sectional questionnaire (n=103 general dentists/residents, Shiraz, Iran): moderate-to-good AAE knowledge (70.9% knew first-line) but low-to-moderate clinical performance — 69.9% inappropriately prescribed antibiotics for immunocompromised endodontic patients and 51.5% for localized acute apical abscess; residents outperformed GPs (p=0.019); 88.3% wanted more training.
+Cross-sectional validated questionnaire study (n=103 general dentists/residents; 73.6% response; Shiraz, Iran 2024) using AAE-guideline-based knowledge and case-based performance domains; CVI=0.89, Cronbach α=0.82.
 
-## 한줄요약
+Knowledge was moderate-to-good (70.9% identified first-line antibiotic; 84.5% had no awareness of current guidelines) but clinical performance was low-to-moderate with no significant knowledge–performance correlation; 69.9% inappropriately prescribed antibiotics for immunocompromised endodontic patients, 51.5% for localized acute apical abscess, and amoxicillin+metronidazole combination was used by 70.9% as first-line (a guideline deviation).
 
-Shiraz 일반의·전공의 103명 단면 설문: AAE 가이드라인 지식은 중상(70.9% 1차 항생제 정답)이나 임상 수행은 하~중 — 면역저하 환자에 69.9%, 국소 급성 근단농양에 51.5%가 부적절 처방; 전공의가 일반의보다 우수(p=0.019); 88.3%가 추가 교육 요구.
+Residents outperformed general practitioners (p=0.019) as the only predictor of better performance; 88.3% requested further training — documenting a knowledge-to-practice gap and an antimicrobial-stewardship education deficit in the endodontic setting.
+
+## 세줄요약
+
+Shiraz(이란) 일반치과의·전공의 103명 단면 설문(73.6% 응답; 2024): AAE 가이드라인 기반 지식·증례 수행 두 영역; CVI=0.89, Cronbach α=0.82의 타당도 검증 도구 사용.
+
+지식은 중상급(70.9%가 1차 항생제 정답; 단 84.5%는 현행 가이드라인 인지 無)이나 임상 수행은 하~중급이며 지식-수행 상관 없음; 면역저하 환자에 69.9%, 국소 급성 근단농양(Localized Acute Apical Abscess, LAAA)에 51.5%가 불필요 처방; 1차 약제로 아목시실린+메트로니다졸(비가이드라인 조합) 70.9% 선택.
+
+전공의 신분만이 우수 수행의 유일한 예측인자(p=0.019); 88.3%가 추가 교육 요구 — 근관치료 항생제 처방의 지식-임상 괴리 및 항균제 관리(Antimicrobial Stewardship) 교육 필요성 구체화.
 
 ## Summary
 

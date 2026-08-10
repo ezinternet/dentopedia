@@ -17,13 +17,21 @@ text_filename: kadkhodazadeh-2024-transcrestal-maxillary-sinus-elevation-sr-ma.t
 
 PubMed 감시 인제스트(transcrestal sinus lift)로 발굴한 신규 17-study SR+MA. 기존 [[sinus-lift/transcrestal/starch-jensen-2025-transcrestal-sinus-osseodensification-meta-analysis]]가 osseodensification(OD) vs osteotome 비교에 초점을 둔 반면, 본 SR+MA는 transcrestal sinus lift 전반(hand osteotome 중심)의 implant 생존율을 풀링해 "100% (95% CI 99–100%) 생존" 근거를 보강한다. 동시에 hand-osteotome 사용 시 막천공·현훈(vertigo) 위험이라는 technique-dependent 단점을 명시해 [[sinus-lift/transcrestal/huang-2026-graftless-transcrestal-sinus-membrane-perforation-ma]]의 천공률 신호와 짝을 이룬다. PMC 전문 미제공 — abstract-only.
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (17 studies, 10 meta-analyzed; RCTs) of implants placed with transcrestal sinus lift reporting a pooled 100% (95% CI 99–100%) implant survival, with follow-up time non-significant in meta-regression, but a hand-osteotome–specific risk of membrane perforation and patient vertigo.
+SR+MA (17 studies, 10 meta-analyzed;
 
-## 한줄요약
+RCTs) of implants placed with transcrestal sinus lift reporting a pooled 100% (95% CI 99–100%) implant survival, with follow-up time non-significant in meta-regression, but a hand-osteotome–specific risk of membrane perforation and patient vertigo.
+
+(incomplete)
+
+## 세줄요약
 
 경치조골(transcrestal) 상악동거상 임플란트 17편(메타분석 10편) SR+MA — 풀링 생존율 100% (95% CI 99–100%), 추적기간 무관(메타회귀 비유의)이나 hand-osteotome 사용 시 막천공·현훈 위험이 더 높다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

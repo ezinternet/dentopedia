@@ -13,13 +13,21 @@ source_collection: external
 
 플라즈마 배치(2026-05-31)의 임플란트 표면 제염 축. [[wiki/implants/surface/plasma/jungbauer-2021-cold-atmospheric-plasma-antimicrobial-sr]]가 일반 구강 병원균이라면, 이 SR은 dental implant 표면 제염(치주염 보조)에 한정해 CAP 살균효과를 종합.
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (MEDLINE/PubMed + EMBASE, search to May 2023; 15 studies included): cold atmospheric plasma (CAP) effectively reduced bacterial loads on dental implant surfaces (e.g., Streptococcus mitis, Staphylococcus aureus) and combated biofilm/plaque relevant to peri-implantitis — a promising decontamination option, though evidence remains largely pre-clinical.
+Systematic review (MEDLINE/PubMed + EMBASE, search to May 2023; 15 studies included) evaluating cold atmospheric plasma (CAP) bactericidal efficacy specifically on dental implant surfaces against peri-implantitis-relevant pathogens.
 
-## 한줄요약
+CAP effectively reduced bacterial loads of organisms including Streptococcus mitis and Staphylococcus aureus on implant surfaces and combated peri-implantitis-associated biofilm and plaque, with all 15 included studies reporting positive bactericidal outcomes.
 
-체계적 문헌고찰(MEDLINE/PubMed+EMBASE, 2023년 5월까지; 포함 15편): 저온대기압플라즈마(CAP)는 임플란트 표면 세균(예: Streptococcus mitis, Staphylococcus aureus)을 효과적으로 감소시키고 임플란트주위염 관련 바이오필름·플라크를 억제 — 제염 옵션으로 유망하나 근거는 대체로 전임상.
+The evidence base remains largely pre-clinical (in vitro/animal), with no pooled quantitative estimate and no clinical peri-implantitis outcomes yet reported; CAP is a promising implant decontamination candidate pending well-designed clinical trials.
+
+## 세줄요약
+
+체계적 문헌고찰(MEDLINE/PubMed+EMBASE, 2023년 5월까지; 포함 15편): 임플란트 표면에 대한 저온대기압플라즈마(CAP, Cold Atmospheric Plasma) 살균효과를 임플란트주위염 관련 병원균에 초점을 맞춰 종합.
+
+CAP는 Streptococcus mitis, Staphylococcus aureus 등 임플란트 표면 세균 부하를 효과적으로 감소시키고 임플란트주위염 관련 바이오필름·플라크를 억제; 포함된 15편 모두 긍정적 살균 결과를 보고했다.
+
+근거가 대부분 전임상(시험관·동물) 수준이고 정량적 합산 추정치 및 임상 임플란트주위염 결과가 없어, 임상 적용 전 설계가 잘 된 임상시험이 필요하다.
 
 ## 1. Document Information
 

@@ -9,8 +9,21 @@ pdf_filename: kapetanaki-2021-access-cavity-designs-endodontic-review.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Literature review on traditional vs minimally invasive access (MIA) cavity designs: MIA not fully supported by evidence; traditional straight-line access remains safer for instrument operation and prevention of iatrogenic complications; guided endodontics emerging but lacks cost-benefit data.
+## Three-line Summary
+
+Literature review on traditional vs minimally invasive access (MIA) cavity designs: MIA not fully supported by evidence
+
+traditional straight-line access remains safer for instrument operation and prevention of iatrogenic complications
+
+guided endodontics emerging but lacks cost-benefit data.
+
+## 세줄요약
+
+근관치료 전통적 vs 최소침습 접근 공동 설계 문헌 리뷰 (RDE 2021): MIA는 충분한 근거로 뒷받침되지 않음
+
+전통적 직선 접근(TEC)이 기구 조작 및 의인성 합병증 예방에 더 안전
+
+유도 근관치료(정적/동적 항법) 새로운 방식이나 비용-효익 데이터 부족.
 
 ## 1. Document Information
 - **Journal**: Restorative Dentistry & Endodontics 2021;46(3):e46

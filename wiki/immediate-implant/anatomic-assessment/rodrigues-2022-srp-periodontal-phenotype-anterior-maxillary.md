@@ -1,0 +1,50 @@
+---
+title: "Relationship between anterior maxillary tooth sagittal root position and periodontal phenotype: a clinical and tomographic study"
+authors: Diogo M. Rodrigues, Rodrigo L. Petersen, Caroline Montez, José R. de Moraes, Alessandro L. Januário, Eliane P. Barboza
+year: 2022
+date: 2021-09-16
+doi: 10.1007/s00784-021-04162-6
+source: rodrigues-2022-srp-periodontal-phenotype-anterior-maxillary.md
+category: [immediate-implant/anatomic-assessment]
+evidence_level: cross-sectional
+pdf_path: /Users/oracleneo/llm-wiki/papers/rodrigues-2022-srp-periodontal-phenotype-anterior-maxillary.pdf
+pdf_filename: rodrigues-2022-srp-periodontal-phenotype-anterior-maxillary.pdf
+source_collection: external
+tags: []
+---
+
+## Three-line Summary
+
+Combined clinical and CBCT cross-sectional study of maxillary anterior teeth evaluating associations between Kan-class sagittal root position (SRP) and periodontal phenotype (gingival biotype and alveolar wall thickness).
+
+Significant associations were found between SRP class and phenotype dimensions; thinner periodontal phenotypes were overrepresented in Class I and Class IV — the two highest-risk SRP profiles for midfacial recession following IIP.
+
+Integrating SRP class with periodontal phenotype enables compound risk scoring for esthetic-zone IIP; patients with thin phenotype + Class I or IV SRP should be counseled about elevated recession risk or considered for connective tissue augmentation.
+
+## 세줄요약
+
+상악 전치 임상·CBCT 통합 횡단면 연구: Kan-class 시상 치근 위치 (SRP)와 치주 표현형 (잇몸 생물형·치조골 벽 두께) 사이의 연관성 평가.
+
+SRP class와 표현형 크기 간 유의한 연관 확인; 얇은 치주 표현형이 Class I 및 Class IV(즉시식립 후 정중안면 퇴축 위험 최고)에서 과잉 대표.
+
+SRP class와 치주 표현형을 통합한 복합 위험 점수화가 심미 영역 즉시식립 계획에 유용; 얇은 표현형 + Class I/IV 조합 환자에게는 퇴축 위험 상담 또는 결합조직이식 병행을 고려해야 한다.
+
+## Summary
+Clinical + tomographic study evaluating the relationship between Kan-class SRP and periodontal phenotype (gingival biotype, bone wall thickness) in maxillary anterior teeth.
+
+## Key Contributions
+Bridges hard-tissue (SRP/AWT) and soft-tissue (phenotype) risk factors for IIP esthetic outcomes — useful for compound risk scoring.
+
+## Methodology
+Combined clinical phenotype assessment (probe transparency / direct visualization) with CBCT-derived SRP and bone thickness.
+
+## Results
+Significant associations between SRP class and phenotype dimensions. Thinner phenotypes overrepresented in Class I and Class IV groups, the highest-risk profiles for IIP recession.
+
+## Limitations
+Cross-sectional; phenotype assessment partially subjective.
+
+## Related Papers
+- [[immediate-implant/anatomic-assessment/kan-2011-sagittal-root-position-immediate-implant-anterior]]
+- [[immediate-implant/esthetic-soft-tissue/yang-2019-labial-bone-thickness-esthetics-iipp]]
+- [[immediate-implant/anatomic-assessment/rodrigues-2022-srp-brazilian-anterior-bone-housing-isd]]

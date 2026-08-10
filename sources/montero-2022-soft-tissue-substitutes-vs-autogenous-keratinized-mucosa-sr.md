@@ -13,13 +13,21 @@ source_collection: external
 
 Prepared as the companion systematic review to the 2021 SEPA/DGI/Osteology Foundation consensus workshop on peri-implant soft tissues, this SR provides the quantitative meta-analytic evidence base for choosing between soft tissue substitutes and autogenous grafts for peri-implant keratinized mucosa (KM) augmentation. It directly complements [[wiki/implants/sanz-2022-keratinized-mucosa-around-implants-consensus]], providing the primary data synthesis that the consensus statement translates into clinical recommendations, and extends [[wiki/implants/oh-2024-keratinized-mucosa-augmentation-functioning-implants-sr-ma]] by comparing substitute-vs-autograft efficacy rather than augmentation vs no augmentation.
 
-## One-line Summary
+## Three-line Summary
 
 Systematic review with meta-analysis (11 studies, 282 subjects) showing free gingival grafts augment peri-implant keratinized mucosa significantly more than soft tissue substitutes overall (WMD −0.9 mm), though xenogeneic collagen matrices are a viable alternative to CTG and achieve >2 mm gain with reduced surgical morbidity.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 체계적 문헌고찰 및 메타분석(11개 연구, 282명)에서 자가유리치은이식(FGG)이 연조직 대체재에 비해 임플란트 주위 각화점막 증가량이 유의하게 더 크나(WMD −0.9 mm), 이종 콜라겐 기질(Mucograft®)은 결합조직이식(CTG)과 유사한 결과로 수술 이환율 감소 대안이 될 수 있음.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

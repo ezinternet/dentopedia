@@ -17,13 +17,21 @@ text_filename: abdallaoui-2025-transverse-ridge-expansion-bone-grafting-sr.txt
 
 Answers the recurring clinical question "graft or not when expanding a narrow ridge?" with a width-based threshold (≥3 mm → expansion alone is predictable; <3 mm → graft for stability/volume preservation). The wiki had individual split-crest case/cohort papers ([[wiki/bone-regeneration/ayoub-2018-ridge-splitting-horizontal-augmentation-case]], [[wiki/bone-regeneration/simion-1992-jawbone-enlargement-split-crest-gtr]], [[wiki/bone-regeneration/enislidis-2006-staged-ridge-splitting-implant-mandible]]) but no synthesis weighing the grafting decision across studies. This 15-study SR (which itself includes Simion 1992 and Enislidis 2006) reinforces those primary pages and gives the decision rule.
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (PRISMA, 15 clinical studies — RCTs/cohorts/case series, n 20-120 each, baseline ridge 2.5-4.5 mm) of transverse ridge expansion (TRE) with vs without bone grafting: both achieve predictable widening 3.2-6.1 mm with implant survival 92-100%; grafting adds only a modest, clinically non-significant gain — TRE alone is reliable for ridges ≥3 mm, graft for <3 mm or long-term volume preservation.
+PRISMA systematic review (15 clinical studies — RCTs, prospective/retrospective cohorts, case series ≥10 patients; baseline ridge width 2.5–4.5 mm) comparing transverse ridge expansion (TRE) with vs without adjunctive bone grafting for implant placement.
 
-## 한줄요약
+Both approaches achieved predictable horizontal widening (3.2–6.1 mm) and implant survival 92–100%; grafting added only a modest, clinically non-significant gain in width (grafted 4.5–6.1 mm vs non-grafted 3.2–5.0 mm); heterogeneity precluded meta-analysis (qualitative synthesis only).
 
-체계적 문헌고찰(PRISMA, 임상연구 15편 — RCT/코호트/증례군, 기준 치조제 폭 2.5-4.5 mm): 횡적 치조제 확장술(Transverse Ridge Expansion, TRE)을 골이식 유무로 비교 — 양쪽 모두 3.2-6.1 mm 폭 증가와 임플란트 생존율 92-100% 달성, 골이식의 추가 이득은 통계적·임상적으로 미미. ≥3 mm 치조제는 확장술 단독으로 신뢰 가능, <3 mm 또는 장기 부피 보존이 필요할 때만 선택적으로 골이식.
+TRE alone is reliable for ridges ≥3 mm; grafting is reserved for ridges <3 mm or when long-term volume stability is needed — piezosurgery consistently reduced complications; evidence quality moderate-to-low with no standardized RCTs.
+
+## 세줄요약
+
+PRISMA 체계적 문헌고찰 (임상연구 15편 — RCT/전향·후향코호트/증례군 ≥10명; 기준 치조제 폭 2.5–4.5 mm): 골이식 유무에 따른 횡적 치조제 확장술(TRE) 비교.
+
+두 방식 모두 수평 폭 3.2–6.1 mm 확장과 임플란트 생존율 92–100% 달성; 골이식 추가 이득 미미(골이식 4.5–6.1 mm vs 비이식 3.2–5.0 mm, 임상적으로 유의하지 않음); 이질성으로 메타분석 불가(정성적 종합).
+
+≥3 mm 치조제는 확장술 단독으로 예측 가능; <3 mm 또는 장기 부피 보존 필요 시에만 선택적 골이식 — 압전수술이 합병증 감소; 표준화된 RCT 미흡, 근거 질 중등도-낮음.
 
 ## 1. Document Information
 

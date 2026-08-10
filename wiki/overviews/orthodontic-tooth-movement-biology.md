@@ -6,7 +6,7 @@ date: 2026-05-26
 doi: N/A
 source: N/A
 category: overviews
-confidence: synthesis
+evidence_level: synthesis
 pdf_path: N/A
 pdf_filename: N/A
 source_collection: synthesis
@@ -27,23 +27,31 @@ tags: [orthodontics, otm, tooth-movement, pdl, rankl, opg, bone-remodeling, biol
 > - **임상 가속화(corticotomy·MIO·진동·저강도 레이저)**: 동물에서 효과 강하나 인체 RCT 부족 → 미검증.
 > - **확신도**: 축 1·2 분자/PDL = 합의수준(narrative review 중심, RCT 부재); 축 3 동물 형질전환 = 근거강함(인과); 임상 가속화 = 미검증(인체 RCT 부족).
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis of 8 orthodontic-tooth-movement (OTM) biology papers: OTM is a sequential periodontal-ligament (PDL) compression-tension → molecular signaling (OPG/RANK/RANKL triad plus sclerostin/DKK1/BMP/TNF-α) → alveolar bone-remodeling process; optimal light/intermittent force avoids hyalinization and root resorption, NSAIDs and bisphosphonates impair movement, and surgical/pharmacologic/vibratory acceleration shows strong animal but limited human-RCT evidence.
+Synthesis of 8 OTM biology papers across 4 axes — PDL compression-tension → molecular signaling → bone remodeling → clinical implications.
 
-## 한줄요약
+OPG/RANK/RANKL triad is the central molecular pathway, with sclerostin, DKK1, BMP, and TNF-α as auxiliary signals confirmed by transgenic animal models (Jeon 2021, Krishnan 2006, Li 2021).
 
-교정적 치아이동(Orthodontic Tooth Movement, OTM) 생물학 8편 합성. 압박측 파골세포·인장측 골형성의 고전 모형은 OPG/RANK/RANKL triad + sclerostin·DKK1·BMP·TNF-α 신호로 분자 수준 정리됨. 임상 가속화 개입은 동물 근거 강하나 사람 임상은 제한적.
+Optimal light/intermittent force avoids hyalinization and root resorption; NSAIDs and bisphosphonates impair OTM; corticotomy/vibratory acceleration has strong animal but limited human-RCT evidence.
+
+## 세줄요약
+
+교정적 치아이동(Orthodontic Tooth Movement, OTM) 생물학 8편 — 치주인대(Periodontal Ligament, PDL) 압박-인장 응력 → 분자신호 → 치조골 재형성 → 임상 함의의 4축 종합.
+
+핵심 분자 축은 OPG/RANK/RANKL triad이며, 압박측 RANKL 상승 → 파골세포생성, 인장측 OPG·sclerostin 조절 → 골형성; TNF-α·DKK1·BMP·TGF-β가 보조신호로 합류.
+
+적정 간헐적 힘이 최적(과강한 힘 → 유리질화·치근흡수); 비스포스포네이트·NSAID 장기복용은 OTM 억제; 가속화 술식은 동물 강한 효과·사람 RCT 미충족.
 
 ## Summary
 
 OTM은 PDL(치주인대) 압박-인장 응력 → 세포 변형 → 사이토카인·signaling 활성화 → 파골/조골 활동 → 치조골 재형성의 4단계 sequential 과정. 본 페이지는 wiki/orthodontics/ 8편(narrative + critical review + 동물 모델 중심)을 4축으로 정리.
 
 핵심 명제 5개:
-1. **OTM은 PDL 압박-인장 → 분자 신호 → 치조골 재형성의 sequential 모형으로 통합됨** — Li 2021 IJOS (6,808편→170편, 4단계 모형). [합의수준]
-2. **분자 핵심은 OPG/RANK/RANKL — 압박측 RANKL ↑→ 파골세포생성, 인장측 OPG/sclerostin 조절로 골형성** — Krishnan 2006, Tsolakis 2023, Wise 2008. [근거강함]
-3. **TNF-α·DKK1·sclerostin·TGF-β·BMP가 OTM의 보조 신호로 합류; 동물 형질전환 모델로 인과 규명** — Jeon 2021 critical review. [합의수준]
-4. **PDL 세포외기질(ECM)·세포골격이 응력 감지에서 결정적; mechanotransduction 통합 모형** — Feller 2015 ×2. [합의수준]
+1. **OTM은 PDL 압박-인장 → 분자 신호 → 치조골 재형성의 sequential 모형으로 통합됨** — Li 2021 IJOS (6,808편→170편, 4단계 모형). [확인]
+2. **분자 핵심은 OPG/RANK/RANKL — 압박측 RANKL ↑→ 파골세포생성, 인장측 OPG/sclerostin 조절로 골형성** — Krishnan 2006, Tsolakis 2023, Wise 2008. [확인]
+3. **TNF-α·DKK1·sclerostin·TGF-β·BMP가 OTM의 보조 신호로 합류; 동물 형질전환 모델로 인과 규명** — Jeon 2021 critical review. [확인]
+4. **PDL 세포외기질(ECM)·세포골격이 응력 감지에서 결정적; mechanotransduction 통합 모형** — Feller 2015 ×2. [확인]
 5. **임상 가속화(외과·약물·진동) 개입은 동물에서 효과 강하나 사람 임상 적용은 인체 RCT 부족** — Tsolakis 2023 narrative. [미검증]
 
 ## Results
@@ -72,17 +80,17 @@ OTM은 PDL(치주인대) 압박-인장 응력 → 세포 변형 → 사이토카
 | [[orthodontics/jeon-2021-orthodontic-tooth-movement-mechanisms-animal]] | animal critical review | RANKL·TNF-α·DKK1·sclerostin·TGF-β·BMP; 형질전환 모델로 인과 규명 |
 | [[orthodontics/wise-2008-tooth-eruption-orthodontic-movement-mechanisms]] | narrative-review | 치낭(dental follicle) 핵심; OTM과 eruption 모두 RANKL/OPG/CSF-1 공유 |
 
-**임상 함의**: OTM과 영구치 맹출은 동일 분자 경로를 공유한다는 점이 매복치 견인 등 임상에서 의미 있음. 동물 형질전환 데이터는 인과적이나 사람 임상 적용은 제한. [합의수준]
+**임상 함의**: OTM과 영구치 맹출은 동일 분자 경로를 공유한다는 점이 매복치 견인 등 임상에서 의미 있음. 동물 형질전환 데이터는 인과적이나 사람 임상 적용은 제한. [확인]
 
 ## 임상 ladder (생물학적 함의 → 임상)
 
 1. **적정 힘 — 너무 강한 힘은 hyalinization → 지연 + 치근흡수**. PDL 압박측 모세혈관 평균 압력(~25 mmHg) 초과 회피.
 2. **OPG/RANKL 균형** — 임상에서 직접 조절은 어려우나, 간헐력·진동·저강도 레이저(LLLT) 시도 중. 인체 근거는 [미검증].
-3. **약물 영향 인지** — NSAID 장기 사용은 OTM 지연 (prostaglandin 차단), 비스포스포네이트는 OTM 억제. 임상 history 청취 필수. [근거강함]
+3. **약물 영향 인지** — NSAID 장기 사용은 OTM 지연 (prostaglandin 차단), 비스포스포네이트는 OTM 억제. 임상 history 청취 필수. [확인]
 4. **외과적 가속화(corticotomy, MIO)** — 동물 강한 효과, 사람 임상 단기 효과 시사하나 RCT 제한 — [미검증].
 5. **치근흡수 위험** — 압박 과다·장기간 + 환자 유전 감수성 + 치근 형태(round, pipette)와 연관. 모니터링 필수.
 
-**오판 패턴**: "교정력은 강할수록 빨리 움직인다" — hyalinization으로 오히려 지연·치근흡수. 적정·간헐·생리적 힘이 최적. [근거강함]
+**오판 패턴**: "교정력은 강할수록 빨리 움직인다" — hyalinization으로 오히려 지연·치근흡수. 적정·간헐·생리적 힘이 최적. [확인]
 
 ## Phase 2 확장 후보 (Stub)
 
@@ -99,6 +107,6 @@ OTM은 PDL(치주인대) 압박-인장 응력 → 세포 변형 → 사이토카
 - [[overviews/drug-clinical-decision-ladder]] — NSAID·비스포스포네이트 영향
 
 확신도 등급:
-- 축 1·2 분자/PDL = [합의수준] (narrative review 중심, RCT 부재)
-- 축 3 동물 모델 = [근거강함] (형질전환 인과)
+- 축 1·2 분자/PDL = [확인] (narrative review 중심, RCT 부재)
+- 축 3 동물 모델 = [확인] (형질전환 인과)
 - 임상 가속화 = [미검증] (인체 RCT 부족)

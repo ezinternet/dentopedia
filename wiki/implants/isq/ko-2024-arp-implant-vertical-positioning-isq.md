@@ -6,20 +6,28 @@ date: 2024-07-10
 doi: 10.5051/jpis.2400800040
 source: ko-2024-arp-implant-vertical-positioning-isq.md
 category: implants/isq
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/ko-2024-arp-implant-vertical-positioning-isq.pdf
 pdf_filename: ko-2024-arp-implant-vertical-positioning-isq.pdf
 source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective case series (30 ARP sites, 28 patients) showing that extending implant osteotomy 3 mm beyond ARP graft boundary increases insertion torque (33.33 vs. 17.08 Ncm) but yields equivalent ISQ at 10 weeks (80.66 vs. 76.44), with a moderate positive torque–ISQ correlation (r=0.415).
+Retrospective case series (30 ARP sites, 28 patients; Seoul, single clinic) comparing implants placed entirely within vs. extending up to 3 mm beyond an ARP graft boundary, with follow-up to 10 weeks post-placement.
 
-## 한줄요약
+Extending beyond the ARP boundary nearly doubled insertion torque (33.33 vs. 17.08 Ncm, p=0.018), but 10-week ISQ was not significantly different between groups (80.66 vs. 76.44); a moderate positive torque–ISQ correlation was observed (r=0.415, p=0.023); 29/30 implants survived.
 
-후향적 증례연구(30부위, 28명): ARP 경계 초과 임플란트는 삽입 토크가 높았으나(33.33 대 17.08 Ncm), 10주 임플란트 안정성 지수 (ISQ)는 양 군 간 유의 차이 없음(80.66 대 76.44); 삽입 토크-ISQ 중등도 양의 상관(r=0.415).
+ARP grafted sites (DBBM-C + collagen membrane) can achieve ISQ ≥70 even when the implant remains entirely within the graft — the initial torque advantage of native bone engagement disappears by 10 weeks, distinguishing primary from secondary stability.
+
+## 세줄요약
+
+후향적 증례연구(30부위, 28명; 서울 단일 클리닉): 치조제보존술(Alveolar Ridge Preservation, ARP) 이식재 경계 이내 대 경계 외 3 mm까지 임플란트 배치를 10주 추적 비교하였다.
+
+경계 초과군의 삽입 토크(IT)가 약 2배 높았으나(33.33 vs. 17.08 Ncm, p=0.018), 10주 ISQ는 유의 차이 없었고(80.66 vs. 76.44), 토크-ISQ 중등도 양의 상관(r=0.415, p=0.023); 생존율 29/30(96.7%).
+
+ARP(DBBM-C + 콜라겐 막) 이식 부위는 원래 골 접촉 없이도 ISQ ≥70 달성 가능 — 10주 시점에 초기 토크 이점이 사라지므로 삽입 토크(1차 안정성)와 ISQ(2차 안정성)를 구분해야 한다.
 
 ## Summary
 

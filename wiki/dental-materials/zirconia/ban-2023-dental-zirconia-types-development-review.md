@@ -6,18 +6,26 @@ date: 2023-01-01
 doi: 10.4012/dmj.2022-243
 source: ban-2023-dental-zirconia-types-development-review.md
 category: [dental-materials/zirconia]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/ban-2023-dental-zirconia-types-development-review.pdf
 pdf_filename: ban-2023-dental-zirconia-types-development-review.pdf
 source_collection: external
 tags: []
 ---
 
-## One-line Summary
-Narrative review of dental zirconia development (Ban 2023): from 3Y-HA in 1998 to UHTZ in 2021; increasing yttria content raises translucency but reduces strength — the trade-off explained with crystalline phase and stabilizer mechanisms.
+## Three-line Summary
+Narrative review (Dental Materials Journal 2023; Aichi Gakuin University) tracing dental zirconia development from the first 3Y-HA commercial product in 1998 through ultra-high translucency zirconia (UHTZ) in 2021, categorized by yttria content (3Y, 4Y, 5Y, 6Y) and crystallographic phase composition.
 
-## 한줄요약
-치과용 지르코니아 발전사 리뷰(Ban 2023): 1998년 3Y-HA부터 2021년 UHTZ까지; 이트리아 함량 증가→투명도↑/강도↓ 트레이드오프; 결정상·안정화제 메커니즘 해설
+Increasing yttria content stabilizes more cubic phase, raising translucency (3Y-HA ~1200 MPa opaque → 6Y/UHTZ ~300–500 MPa highly translucent) but reducing strength and fracture toughness via loss of transformation toughening capacity.
+
+Clinical implication: 3Y-TZP remains preferred for posterior FPDs requiring high strength; 5Y/6Y zirconia is appropriate for monolithic anterior crowns where esthetics is paramount.
+
+## 세줄요약
+치과용 지르코니아 발전사 서술적 고찰(Dental Materials Journal 2023; 아이치학원대학교): 1998년 최초 상업 제품 3Y-HA부터 2021년 초고투명(Ultra-High Translucency Zirconia, UHTZ)까지, 이트리아(Yttria) 함량(3Y·4Y·5Y·6Y) 및 결정상 조성으로 분류 정리.
+
+이트리아 함량 증가 → 정방정상(Tetragonal) 감소·입방정상(Cubic) 증가 → 투명도↑(3Y-HA ~1,200 MPa 불투명 → 6Y/UHTZ ~300–500 MPa 고투명)하지만 변태강화(Transformation Toughening) 능력 소실로 강도·파절인성↓.
+
+임상적 의미: 강도가 필요한 구치부 FPD에는 3Y-TZP 유지; 심미가 중요한 단일체 전치부 크라운에는 5Y/6Y 지르코니아(Zirconia) 적합.
 
 ## Summary
 Narrative review by Ban S (Aichi Gakuin University) tracing the development of dental zirconia from 1998 to 2021. Explains crystalline phases (monoclinic, tetragonal, cubic), yttria stabilization, and stress-induced phase transformation toughening. Summarizes the translucency-strength trade-off as yttria content increases from 3Y-TZP to 6Y/UHTZ.
@@ -42,7 +50,7 @@ Narrative review from Dental Materials Journal 2023. Author: Ban S, Aichi Gakuin
 - Clinical implication: 3Y-TZP for posterior FPDs; 5Y/6Y for monolithic anterior crowns
 
 ## Related Papers
-- [[dental-materials/blatz-2018-resin-bonding-high-strength-ceramics-review]] — resin bonding for high-strength ceramics including zirconia
-- [[dental-materials/warreth-2020-all-ceramic-restorations-narrative-review]] — classification and clinical use of all-ceramic restorations
+- [[dental-materials/ceramic/blatz-2018-resin-bonding-high-strength-ceramics-review]] — resin bonding for high-strength ceramics including zirconia
+- [[dental-materials/ceramic/warreth-2020-all-ceramic-restorations-narrative-review]] — classification and clinical use of all-ceramic restorations
 - [[inlay/kermanshah-2020-fracture-load-inlay-retained-ceramic-fdp]] — fracture load comparison of zirconia vs ZrLS in FDP connectors
 - [[inlay/bomicke-2025-3ytzp-inlay-enamel-wear-5year]] — 3Y-TZP opposing enamel wear

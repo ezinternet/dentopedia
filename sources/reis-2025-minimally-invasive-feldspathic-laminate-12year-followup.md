@@ -17,13 +17,21 @@ text_filename: reis-2025-minimally-invasive-feldspathic-laminate-12year-followup
 
 사용자의 "무삭제 라미네이트·접착·프렙" 전문 감시 인제스트의 일환. [[wiki/veneers/chandode-2026-no-preparation-conventional-veneers-clinical-considerations]]가 no-prep vs conventional 적응증을 개관한다면, 본 case report는 **법랑질 한정 최소삭제(~0.2 mm cervical) + thin feldspathic laminate를 실제 단계별 접착 프로토콜과 12년+ 추적**으로 보여주는 임상 근거다. 기존 [[wiki/veneers/morimoto-2016-feldspathic-glass-ceramic-veneer-survival-sr-ma]]·[[wiki/veneers/gonzalez-martin-2024-ultrathin-feldspathic-veneer-sem-etching]]의 SR/bench 근거에 장기 실증 사례를 더해, "법랑질 ≥50% 본딩·마진 ≥70% 법랑질" 접착 조건의 임상적 의미를 보강.
 
-## One-line Summary
+## Three-line Summary
 
 Case report (J Esthet Restor Dent 2025) of maxillary anterior diastema closure / morphology correction with thin (<0.5 mm) feldspathic laminates on enamel-limited (~0.2 mm cervical) minimally invasive preparations — HF + phosphoric-acid clean + silane on ceramic, 3-step adhesive + light-cured veneer cement, cotton-roll isolation — surviving 12+ years with no fracture, caries, sensitivity, or repair.
 
-## 한줄요약
+(incomplete)
 
-상악 전치 치간이개 폐쇄·형태 수정을 thin (<0.5 mm) feldspathic 라미네이트로 시행한 case report (J Esthet Restor Dent 2025). 법랑질 한정 최소삭제(치경부 ~0.2 mm) + 세라믹 HF/인산 세척·실란, 3-step 접착제·광중합 비니어 시멘트, 코튼롤 격리로 접착하여 **12년+ 추적 동안 파절·우식·과민·재수복 없이 생존**.
+(incomplete)
+
+## 세줄요약
+
+상악 전치 치간이개 폐쇄·형태 수정을 thin (<0.5 mm) feldspathic 라미네이트로 시행한 case report (J Esthet Restor Dent 2025).
+
+법랑질 한정 최소삭제(치경부 ~0.2 mm) + 세라믹 HF/인산 세척·실란, 3-step 접착제·광중합 비니어 시멘트, 코튼롤 격리로 접착하여 **12년+ 추적 동안 파절·우식·과민·재수복 없이 생존**.
+
+(incomplete)
 
 ## 1. Document Information
 

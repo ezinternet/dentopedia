@@ -9,8 +9,21 @@ pdf_filename: lopes-2023-universal-adhesives-zirconia-long-term.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Contemporary Clinical Dentistry 2023;14:307: 4 universal adhesives vs Z-Prime Plus on zirconia — 24h: SBU≈AU≈ZP; 12 months: all groups significantly decreased; no material resists water degradation.
+## Three-line Summary
+
+Contemporary Clinical Dentistry 2023;14:307: 4 universal adhesives vs Z-Prime Plus on zirconia — 24h: SBU≈AU≈ZP
+
+12 months: all groups significantly decreased
+
+no material resists water degradation.
+
+## 세줄요약
+
+Contemporary Clinical Dentistry 2023;14:307: 4 universal adhesives vs Z-Prime Plus on zirconia — 24h: SBU≈AU≈ZP
+
+12 months: all groups significantly decreased
+
+no material resists water degradation.
 
 ## 1. Key Results
 - 24h: SBU (20.55) ≈ AU (19.19) ≈ ZP (21.12 MPa); ABU (14.22) < all; Peak Bond worst (8.44)

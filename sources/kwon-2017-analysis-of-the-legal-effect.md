@@ -13,11 +13,21 @@ source_collection: external
 
 치과 임상에서 분쟁 발생 시 환자와 합의서(부제소 합의, covenant not to sue)를 작성하는 일이 잦은데, 그 합의서가 실제로 법적 효력을 갖는 조건이 무엇인지에 대한 실증 근거. 한국 법원 판례 287건을 분석한 첫 연구로, 기존 medico-legal applied 층 [[complaint-management/JISPCD-14-295]]·[[complaint-management/10-1055-s-0039-1700767]]을 "분쟁 후 합의서 작성" 단계로 확장한다. 성형외과 데이터지만 한국 의료법·민사 판례 구조가 동일해 치과에 직접 적용 가능.
 
-## One-line Summary
+## Three-line Summary
+
 Retrospective analysis of 287 Korean civil court precedents (2000–2015) on aesthetic-surgery disputes, identifying four factors that make a doctor–patient settlement agreement legally binding and showing fee-free reoperations are not credited by courts.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 한국 성형수술 민사 판례 287건(2000–2015) 후향 분석 — 의사·환자 합의서가 법적으로 유효해지는 4대 요건을 도출하고, 무상 재수술은 법원이 배상액 산정에서 인정하지 않음을 확인.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - Arch Plast Surg 2017;44(4):283–292. Original Article.

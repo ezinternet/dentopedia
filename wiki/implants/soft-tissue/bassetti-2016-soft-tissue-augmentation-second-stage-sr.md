@@ -6,7 +6,7 @@ date: 2016-04-04
 doi: 10.1007/s00784-016-1815-2
 source: bassetti-2016-soft-tissue-augmentation-second-stage-sr.md
 category: [implants/soft-tissue]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/bassetti-2016-soft-tissue-augmentation-second-stage-sr.pdf
 pdf_filename: bassetti-2016-soft-tissue-augmentation-second-stage-sr.pdf
 source_collection: external
@@ -14,19 +14,25 @@ tags: []
 relations:
   - type: reinforces
     target: zhang-2025-expert-consensus-km-augmentation-second-stage
-  - type: reinforces
-    target: keratinized-mucosa-peri-implant-health-overview
   - type: refines
     target: sanz-2022-keratinized-mucosa-around-implants-consensus
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (10 prospective studies/case series, all high bias) of second-stage soft-tissue augmentation: APPTF/VP + FGG or XCM best for KM width (up to +9.35 mm); REF or APPTF + SCTG best for volume gain (2.41–3.10 mm); no meta-analysis possible due to heterogeneity.
+Systematic review (10 studies: 8 prospective + 2 case series, all high risk of bias) of soft-tissue augmentation procedures performed exclusively at second-stage (implant uncovering) surgery, the first SR scoped to this timing window.
 
-## 한줄요약
+APPTF/VP + FGG or XCM provided the greatest keratinized mucosa width gains (up to +9.35 mm); REF (palatal roll) provided mean +2.41 mm volume gain and APPTF + SCTG provided mean +3.10 mm; meta-analysis was not possible due to heterogeneity; jaw location drove technique selection.
 
-체계적 문헌고찰(10건, 전 연구 높은 비뚤림): 이차수술 시 각화점막(KM) 폭 증대에는 APPTF/VP + FGG 또는 XCM이 최우수(최대 +9.35 mm), 연조직 부피 증대에는 REF 또는 APPTF + SCTG가 효과적(2.41–3.10 mm); 이질성으로 메타분석 불가.
+All 10 included studies had high risk of bias, signaling an evidence gap that motivated subsequent RCT-level research; xenogeneic collagen matrix showed early promise as an FGG alternative for KM width gain.
+
+## 세줄요약
+
+체계적 문헌고찰(10건: 전향적 8 + 증례연구 2, 전 연구 높은 비뚤림): 임플란트 이차수술(uncovering)을 시행 시점으로 한 연조직 증대술을 분석한 최초의 SR.
+
+APPTF/VP + FGG 또는 이종 콜라겐 기질(Xenogenic Collagen Matrix, XCM)이 각화점막(Keratinized Mucosa, KM) 폭 증가에 최우수(최대 +9.35 mm); REF(구개 롤 피판)는 평균 +2.41 mm, APPTF + 상피하결합조직이식(SCTG)은 +3.10 mm의 부피 증가 제공; 이질성으로 메타분석 불가.
+
+전 10편 높은 비뚤림이 근거 공백을 드러냈고 이후 RCT 연구를 촉진; XCM이 FGG의 현실적 대안으로 초기 가능성 제시.
 
 ## Summary
 
@@ -88,7 +94,7 @@ The review evaluated two distinct goals: (1) increasing **keratinized mucosa (KM
 
 ## Related Papers
 
-- [[implants/zhang-2025-expert-consensus-km-augmentation-second-stage]] — 2025 expert consensus on KM augmentation at second-stage; built on this SR as foundational evidence; provides updated technique hierarchy
-- [[implants/sanz-2022-keratinized-mucosa-around-implants-consensus]] — EAO consensus on KM around implants; broader scope (not limited to second-stage); higher-level evidence synthesis
-- [[implants/montero-2022-soft-tissue-substitutes-vs-autogenous-keratinized-mucosa-sr]] — SR comparing soft-tissue substitutes vs autogenous KM grafts with more RCT data than available to Bassetti 2016; directly updates XCM vs FGG comparison
+- [[implants/soft-tissue/zhang-2025-expert-consensus-km-augmentation-second-stage]] — 2025 expert consensus on KM augmentation at second-stage; built on this SR as foundational evidence; provides updated technique hierarchy
+- [[implants/soft-tissue/sanz-2022-keratinized-mucosa-around-implants-consensus]] — EAO consensus on KM around implants; broader scope (not limited to second-stage); higher-level evidence synthesis
+- [[implants/soft-tissue/montero-2022-soft-tissue-substitutes-vs-autogenous-keratinized-mucosa-sr]] — SR comparing soft-tissue substitutes vs autogenous KM grafts with more RCT data than available to Bassetti 2016; directly updates XCM vs FGG comparison
 - [[overviews/keratinized-mucosa-peri-implant-health-overview]] — Cross-paper synthesis of KM width, peri-implant health, and augmentation decision framework

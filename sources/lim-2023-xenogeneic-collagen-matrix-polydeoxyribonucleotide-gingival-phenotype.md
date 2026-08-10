@@ -13,9 +13,21 @@ source_collection: external
 
 Kyung Hee 그룹의 PDRN+soft tissue 연구 시리즈의 첫 작품. [[pdrn/kim-2025-preclinical-investigation-collagen-matrix-polydeoxyribonucleotide]] (KT regeneration at buccally positioned implant)와 [[pdrn/lee-2024-soft-tissue-augmentation-immediate-implant-pdrn]] (즉시식립 soft-tissue)의 mechanistic foundation. SCTG(자가) vs XCM+PDRN을 직접 비교한 head-to-head 데이터로, **PDRN이 autograft를 대체할 수 있는가**라는 핵심 질문에 가장 직접적인 단서 제공.
 
-## One-line Summary
+## Three-line Summary
 
-Mongrel dog 5마리 box-type gingival defect 모델에서 SCTG vs XCM+PDRN(2.0 mg/mL) 비교. STL superimposition·histomorphometry 모두에서 양군 유의차 없음 → XCM+PDRN이 SCTG에 comparable.
+Mongrel dog 5마리 box-type gingival defect 모델에서
+
+SCTG vs XCM+PDRN(2.0 mg/mL) 비교. STL superimposition·histomorphometry
+
+모두에서 양군 유의차 없음 → XCM+PDRN이 SCTG에 comparable.
+
+## 세줄요약
+
+Mongrel dog 5마리 box-type gingival defect 모델에서
+
+SCTG vs XCM+PDRN(2.0 mg/mL) 비교. STL superimposition·histomorphometry
+
+모두에서 양군 유의차 없음 → XCM+PDRN이 SCTG에 comparable.
 
 ## 1. Document Information
 

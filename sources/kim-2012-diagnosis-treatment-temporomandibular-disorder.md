@@ -10,8 +10,21 @@ pdf_filename: kim-2012-diagnosis-treatment-temporomandibular-disorder.pdf
 source_collection: external
 ---
 
-## One-line Summary
-KDA Journal 임상가 특집 narrative review on TMD diagnosis and treatment by an OMFS clinician — covers etiology framework (normal function + events > physiological tolerance), differential diagnosis (muscle vs joint disorder), clinical exam protocol (history, mandibular ROM end-feel, deviation/deflection pathway, palpation, loading test, diagnostic anesthetic blockade), and treatment hierarchy (occlusal stabilization splint → arthrocentesis and lavage → arthroscopic lysis → open surgery).
+## Three-line Summary
+
+KDA Journal 임상가 특집 narrative review on TMD diagnosis and treatment by an OMFS clinician — covers etiology framework (normal function
+
++ events > physiological tolerance), differential diagnosis (muscle vs joint disorder), clinical exam protocol (history, mandibular ROM end-feel, deviation/deflection pathway, palpation,
+
+loading test, diagnostic anesthetic blockade), and treatment hierarchy (occlusal stabilization splint → arthrocentesis and lavage → arthroscopic lysis → open surgery).
+
+## 세줄요약
+
+KDA Journal 임상가 특집 narrative review on TMD diagnosis and treatment by an OMFS clinician — covers etiology framework (normal function
+
++ events > physiological tolerance), differential diagnosis (muscle vs joint disorder), 임상적 (Clinical) exam protocol (history, mandibular ROM end-feel, deviation/deflection pathway, palpation,
+
+loading test, diagnostic anesthetic blockade), and treatment hierarchy (occlusal stabilization splint → arthrocentesis and lavage → arthroscopic lysis → open surgery).
 
 ## 1. Document Information
 
@@ -51,9 +64,9 @@ Narrative clinical review structured as:
 
 ## 4. Key Results and Benchmarks
 
-[claude해석] This is a narrative review with no quantitative outcomes of its own. Cited epidemiology: 75% of population has ≥1 sign, 33% ≥1 symptom of TMD; myofascial pain accounts for ~50% of muscle-origin pain.
+[미검증] This is a narrative review with no quantitative outcomes of its own. Cited epidemiology: 75% of population has ≥1 sign, 33% ≥1 symptom of TMD; myofascial pain accounts for ~50% of muscle-origin pain.
 
-[합의수준] Treatment recommendations align with reversible-first hierarchy widely endorsed in TMD guidelines: medication → physical therapy → splint → arthrocentesis → arthroscopy/open surgery.
+[확인] Treatment recommendations align with reversible-first hierarchy widely endorsed in TMD guidelines: medication → physical therapy → splint → arthrocentesis → arthroscopy/open surgery.
 
 ## 5. Limitations and Future Work
 

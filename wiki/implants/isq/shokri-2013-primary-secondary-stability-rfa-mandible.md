@@ -6,20 +6,28 @@ date: 2013-04-15
 doi: 10.1155/2013/506968
 source: shokri-2013-primary-secondary-stability-rfa-mandible.md
 category: [implants/isq]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/shokri-2013-primary-secondary-stability-rfa-mandible.pdf
 pdf_filename: shokri-2013-primary-secondary-stability-rfa-mandible.pdf
 source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Prospective cohort (15 mandibular SLA-coated ITI implants, 10 patients) with weekly Osstell mentor RFA over 11 weeks: mean ISQ fell from 77.2 at placement to a 72.13 nadir at week 4, then recovered significantly (P<0.05) to 75.6 by week 11 without regaining baseline — implying loading before week 4 may be disadvantageous.
+Prospective cohort (n=15 mandibular SLA-coated ITI implants, 10 patients) tracked by weekly Osstell Mentor RFA for 11 weeks without loading.
 
-## 한줄요약
+Mean ISQ declined from 77.2 at placement to a nadir of 72.13 at week 4, then recovered significantly (p<0.05) to 75.6 by week 11, without regaining the baseline value.
 
-전향적 코호트 (Shokri 2013) — 하악 SLA ITI 임플란트 15개를 11주간 매주 공명주파수분석 (Resonance Frequency Analysis, RFA)으로 추적. 평균 임플란트 안정성 지수 (Implant Stability Quotient, ISQ)가 식립일 77.2 → 4주째 72.13(최저, stability dip) → 11주째 75.6으로 유의 회복(p<0.05)했으나 초기값 미회복. 4주 이전 하중은 불리할 수 있음.
+The week-4 ISQ nadir marks the primary-to-secondary stability transition; loading before week 4 may be disadvantageous, and the 11-week endpoint is still below the placement ISQ.
+
+## 세줄요약
+
+전향적 코호트 (n=15 하악 SLA ITI 임플란트, 10명): 11주간 비부하 상태에서 매주 공명주파수분석 (Resonance Frequency Analysis, RFA)으로 임플란트 안정성 지수 (Implant Stability Quotient, ISQ) 추적.
+
+식립 시 평균 ISQ 77.2 → 4주째 72.13(최저점, stability dip) → 11주째 75.6으로 유의 회복(p<0.05)했으나 초기값 미회복.
+
+4주째 ISQ 최저는 1차→2차 안정성 전환 시점이며, 4주 이전 부하는 불리할 수 있음; 11주 종료 시점에도 식립 시 ISQ를 회복하지 못한 한계 있음.
 
 ## Summary
 

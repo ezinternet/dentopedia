@@ -1,0 +1,19 @@
+Title: Assessment of Benign Paroxysmal Positional Vertigo (BPPV) Incidence Following Closed Sinus Lift and Ridge Splitting Surgeries: A Cohort Study
+Authors: Mohammadamin Damsaz, Majid Eshghpour, Ricardo Grillo, Kimia Jafarpour, Kiana Mazhari, Sahand Samieirad
+Journal: Journal of Maxillofacial and Oral Surgery
+Year: 2023 (published online 2023-11-24)
+Volume/Issue/Pages: 23(1):1-6
+DOI: 10.1007/s12663-023-02007-1
+PMID: 38312971
+PMCID: PMC10831022
+Source: PubMed/PMC structured abstract (PMC full_text field was empty at retrieval — abstract-only)
+
+--- ABSTRACT ---
+
+Background: With a notable increase in demand for implant placement in atrophic cases, this study aimed to evaluate the occurrence of benign paroxysmal positional vertigo (BPPV) following closed sinus lift and ridge splitting surgeries.
+
+Materials and Methods: Healthy patients requiring posterior maxillary closed sinus lift or ridge split surgeries at Mashhad Dental School from September 2021 to September 2022 were enrolled in this cohort study. A single surgeon performed all surgeries under standard protocols. The intervention groups consisted of closed sinus lift and ridge splitting procedures. The primary outcome variable was BPPV, and the Dix-Hallpike maneuver was used before and after the operation to diagnose BPPV. The data were statistically analyzed using SPSS 23, and the significance level was set at 0.05.
+
+Results: A total of 112 patients (51 women and 61 men) with a mean age of 48.4 ± 9.5 years participated in the study. The average BMI was 21.5 ± 2.4, and the mean duration of surgery was 31.9 ± 6.6 min. Of the patients, 10.7, 36.6, 27.7, 12.5, and 1.8% presented with hypertension, headache, dizziness, nausea, and BPPV, respectively. Two patients (3.1%) in the closed sinus lift group were diagnosed with BPPV, whereas no patients in the ridge split group were diagnosed. However, there was no significant difference (p = 0.509). No statistically significant difference in the occurrence of certain symptoms between two groups was found. There was a significant association between certain health conditions and the onset of BPPV.
+
+Conclusion: The study suggests closed sinus lift surgery may have a higher risk of BPPV than ridge split surgery, but further studies with larger sample are needed to confirm this association.

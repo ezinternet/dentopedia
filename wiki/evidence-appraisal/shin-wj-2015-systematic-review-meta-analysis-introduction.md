@@ -6,18 +6,28 @@ date: 2015-03-01
 doi: 10.7599/hmr.2015.35.1.9
 source: shin-wj-2015-systematic-review-meta-analysis-introduction.md
 category: evidence-appraisal
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/shin-wj-2015-systematic-review-meta-analysis-introduction.pdf
 pdf_filename: shin-wj-2015-systematic-review-meta-analysis-introduction.pdf
 source_collection: external
 tags: [systematic-review, meta-analysis, heterogeneity, i-squared, publication-bias, korean, biostatistics]
 ---
 
-## One-line Summary
-Korean-language systematic review / meta-analysis (SR/MA) methodology primer (Hanyang Med Rev 2015) covering the full pipeline: search/selection/quality assessment (Cochrane Risk of Bias), effect-size pooling, heterogeneity (I² 25/50/75 heuristic, Cochran Q), fixed- vs random-effects model choice, and publication bias (funnel plot, Egger's test).
+## Three-line Summary
 
-## 한줄요약
-한양의대 신우종 (마취통증의학과)의 한국어 SR/MA 방법론 입문 (Hanyang Med Rev 2015): 검색·선정·질평가부터 효과크기 통합·이질성(I², Cochran Q)·고정/랜덤 모형·출판편향(funnel plot, Egger)까지 한 편으로 정리.
+Korean-language SR/MA methodology primer (Hanyang Med Rev 2015) covering the full pipeline: systematic search/selection, quality assessment (Cochrane Risk of Bias tool), effect-size pooling (weighted inverse-variance), heterogeneity evaluation (I² 25/50/75 low/moderate/high heuristic; Cochran Q), fixed- vs random-effects model choice, and publication bias (funnel plot asymmetry + Egger's test).
+
+The I² heuristic (25/50/75) gives a defensible model-choice rule: I²>75% means pooled estimate is borderline meaningless — subgroup analyses should be read instead; pooling weights are inverse of within-study variance (fixed effects) vs within + between-study variance (random effects).
+
+This is the most complete Korean-language SR/MA methodology paper in this wiki and the recommended single-source Korean read before tackling Cochrane or PROSPERO-registered SRs; limitations are pre-PRISMA 2020, no network meta-analysis coverage, and no GRADE certainty assessment.
+
+## 세줄요약
+
+한국어 SR/MA 방법론 입문 (Hanyang Med Rev 2015, 한양의대 신우종): 체계적 검색/선정·Cochrane Risk of Bias 질평가·효과크기 통합(가중 역분산)·이질성(I² 25/50/75 저/중/고 기준; Cochran Q)·고정/랜덤 효과모형 선택·출판편향(funnel plot 비대칭 + Egger) 전 과정 망라.
+
+I² 기준(25/50/75)은 모형 선택의 방어 가능한 규칙 제공: I²>75% 시 통합 효과추정은 무의미 — 소집단 분석을 대신 읽어야; 통합 가중치는 고정효과(연구 내 분산 역수)·랜덤효과(연구 내+간 분산 역수)로 구분.
+
+위키 증거평가 툴킷 중 가장 완결된 한국어 SR/MA 방법론 문헌으로, Cochrane·PROSPERO 등록 SR을 읽기 전 단일 한국어 필독 권장; 한계: PRISMA 2020 이전·네트워크 메타분석 미포함·GRADE 확실성 평가 미포함.
 
 ## Summary
 The most complete Korean-language SR/MA methodology paper in this wiki. Shin IH 2009 is the lecture-style precursor; this is the journal-paper-level treatment. If you read only one Korean methodology source before tackling our Cochrane and PROSPERO-registered SRs, this is it.

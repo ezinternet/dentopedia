@@ -1,0 +1,145 @@
+Title: Evaluation of the effect of different kinds of treatment modalities for temporomandibular joint pain and its relevance to chronic cervical pain: A randomized controlled trial
+
+Authors: Nemani Sai Madhuri, Chidambaranathan Ahila Singaravel, Muthukumar Balasubramanium, Srinivasan Suganya
+Journal: Journal of Indian Prosthodontic Society
+PMID: 38650337
+PMCID: PMC11129811
+DOI: 10.4103/jips.jips_468_23
+Source: PubMed Central (via PubMed MCP get_full_text_article), retrieved verbatim.
+
+ABSTRACT
+
+Aim:
+The aim of this study was to evaluate the effect of different treatment modalities for temporomandibular joint (TMJ) pain and their relevance to chronic cervical pain after 12 months.
+
+Settings and Design:
+This was a randomized controlled trial.
+
+Materials and Methods:
+Forty-eight participants with chronic cervical and TMJ pain were selected using research diagnostic criteria and randomized into four groups (n = 12), which included control, soft splints, transcutaneous electrical nerve stimulation (TENS), and low-level laser (LLL). The cervical and TMJ pain was recorded using visual analog scale (VAS) scores at baseline, 3 months, 6 months, and 12 months. Occlusal equilibration was done for all groups except for the control.
+
+Statistical Analysis Used:
+The mean pain scores were statistically analyzed using one-way analysis of variance and t-test.
+
+Results:
+The mean VAS scores in TMJ pain patients between the four groups at baseline and at final follow-up were 7.27 ± 1.29 in Group 1, 7.53 ± 0.70 in Group 2, 7.76 ± 0.80 in Group 3, and 7.61 ± 0.61 in Group 4. The mean difference between Groups 1 and 3, Groups 1 and 4, and Groups 2 and 3 was statistically significant (P < 0.00). Pearson correlation test yielded a mild and negative correlation between TMJ and cervical pain.
+
+Conclusion:
+TENS and LLL were found to be equally effective in reducing pain in the jaw joint region, followed by soft splints, and there was no correlation between TMJ and cervical pain.
+
+FULL TEXT
+
+INTRODUCTION
+
+The temporomandibular joint (TMJ) is one of the multifaceted junctions in anatomy. The TMJ delivers a pivotal movement in a single plane and is regarded as a ginglymoid joint. A nonvascular articulating disc separates these two bones from direct articulation. Each joint can perform different functions simultaneously, but specific influence remains indefinitely between the right and left joints. The normal biomechanical function of the TMJ must follow the orthopedic principles that state the vital role of the ligaments of TMJ. There must be consistent contact between the articular surfaces of the TMJ. This contact is made possible due to the pulling action of the temporalis, medial pterygoid, and masseter muscles, which are a collective group of jaw elevator muscles. Temporomandibular dysfunction occurs if the harmony between these masticatory muscles and the joint is hampered.
+
+Amongst all causes, muscle-related conditions represent the largest subgroup among the various disorders grouped under the inclusive term of temporomandibular disorder (TMD). TMDs have been characterized as chronic orofacial pain conditions affecting around 20%-25% of the population, and 1/5 of those with TMD-related pain and dysfunction require treatment. Both neuroanatomical and neurophysiological studies have supported connections between the cervical spine and the orofacial complex. The orofacial compartment and cervical spine are closely related anatomically and physiologically. Numerous investigations shed light on the cohabitation of jaw pain and neck discomfort, which doctors frequently reported, and also clarified how the pain from the cervical region is transmitted to the face. In addition, it was found that TMD patients usually complain of neck discomfort.
+
+The following theories highlighted the cervical spine's function as a risk factor for masticatory muscle pain. First, an increase in masticatory muscle hyperactivity and pain is caused when an afferent input linked to neck discomfort converges onto trigeminal motor neurons in the trigeminocervical nucleus. In contrast, the second idea proposed that when the cervical spine's muscles contract, the masticatory muscles also contract. Increasing upper-body muscle tension induces compensatory modifications in the spinal area to rectify the posture.
+
+Physiotherapy, pharmacotherapy, and many alternative therapies such as acupuncture, acupressure, hypnotherapy, and ayurvedic medicine have proven beneficial in reducing TMD pain. The application of transcutaneous electrical nerve stimulation and laser treatments has shown beneficial results in reducing TMD pain. Occlusal appliances that work on muscle deprogramming, such as soft and rigid splints, had positively reduced TMD pain. Even though all these treatments had individually worked, the most efficient treatment modality for TMD pain still needed to be deducted that would effectively reduce the pain in TMJ and cervical pain. Therefore, this research aimed to assess the efficacy of night guards, transcutaneous electric nerve stimulation (TENS), and low-level laser therapy (LLLT) for TMJ pain and its effects on patients with TMJ and chronic cervical pain. A research hypothesis was formulated that the treatment modalities employed for TMJ pain will reduce the pain levels in the jaw joint and concurrently reduce pain in the cervical spine region.
+
+MATERIALS AND METHODS
+
+This research was a longitudinal, prospective clinical study conducted in the Department of SRM Dental College, Ramapuram. The sample source was from the Outpatient Department, Department of Orthopedics at SRM Medical Hospital, Ramapuram. This double-blinded, parallel design study was approved by the Institutional Review Board of SRM Dental College, Ramapuram (SRMDC/IRB/2020/MDS/No. 203) and registered in the Clinical Trials Registry-India (CTRI/2021/05/033809). A reference population of 200 patients already undergoing physiotherapy for chronic cervical pain were chosen and screened for symptoms of TMJ pain based on Criterion 3 and Criterion 15g from the Research Diagnostic Criteria for TMD (AXIS 2 Protocol) wherein Criterion 3 being pain and Criterion 15g being occlusal interference. All the necessary details of medical history, clinical signs and symptoms, and TMJ examination with the diagnosis of occlusal interferences were performed in all the patients. Screening for TMJ pain and occlusal prematurities was involved in the assessment of 200 patients, from whom 40 individuals meeting the specified criteria were selected and enrolled as the study's sample population. After considering a 20% dropout that was expected in follow-up studies which inflated the sample size to 48, the total power of the study was at 80%, which was considered statistically significant when P < 0.05.
+
+The participants included in the study were between 18 and 60 years old of both genders and diagnosed with TMD according to the RDC/TMD criteria. Those excluded were individuals with head or face trauma, dental pain that resolved with tooth treatment alone, and a history of systemic inflammatory bone diseases such as rheumatoid arthritis. Patients were diagnosed with chronic cervical pain (already analyzed by the orthopedics based on the Neck Pain Task Force recommendation) and underwent physiotherapy. After the physiotherapists and the orthopedics' approval all the patients who participated in the study were instructed not to use any medications throughout the intervention period.
+
+Forty-eight eligible patients consented to participate and received verbal information about the research. Each participant was provided with written informed consent in both English and Tamil before enrollment, adhering to the Consolidated Standards of Reporting Trials guidelines. The participants were recruited by simple randomization with an allocation ratio of 1:1. Two investigators (SMN and ASC) performed the clinical and laboratory procedures. One investigator (DB) allotted the participants, and another (SK) documented the observations. The participants and the investigators were made to be unaware of the type of intervention. Allocation was concealed in a closed envelope, and each participant selected a sealed envelope containing random numbers from an investigator (SK). Before allocating the sample population to respective groups, diagnostic procedures were performed to assess pain in the TMD region. Visual analog scale (VAS) score were taken, and thermography was employed for all 48 patients to evaluate the TMJ pain. Each group had 12 participants, allocated based on double-blinded randomization, where the participants and the investigator were blinded. VAS and thermography were recorded before initiating any intervention, and the intensity of both TMJ pain and cervical pain was assessed. A thermal imaging camera (Fluke Corporation, USA) was used to capture images that detected pain levels based on an increased or decreased temperature from the baseline body temperature. The lighter the color obtained on the camera, the more significant the pain area. Thermographic imaging for all the patients was recorded before the intervention and then proceeded with the VAS scores on a 10-point scale.
+
+The control group was not subjected to any additional intervention. In this control group, 12 patients were put on cervical physiotherapy, and the sessions were carried out every month for 1 year by a physiotherapist. Occlusal equilibration was employed in all the intervention groups except for the control. In the second group, the population was subjected to cervical physiotherapy and occlusal equilibration, followed by management with night guards. The prematurities were detected using 40-micron size articulating paper (Samit, New Delhi, India). For the occlusal equilibration, diagnostic impressions of both the maxilla and mandible were made using irreversible hydrocolloid impression material (Zelgan Plus; Dentsply, India). Lucia Jig was fabricated to relieve the tension of the oral musculature, and then, new centric and eccentric occlusion records were made and transferred to a semi-adjustable articulator.
+
+The occlusal discrepancies observed were corrected by enameloplasty. For the fabrication of the night guard, a vivid impression of the upper arch of each patient was made, and the master cast was fabricated. A soft splint was forged over the master cast. These delicate appliances were vacuum formed using a thermoplastic sheet of 2 mm thickness, made from a centric relation mounting, and then adjusted in the mouth on initial placement. Then, the patients were advised to use splints overnight for about 8 h.
+
+In the group that received TENS therapy, the sample population was subjected to cervical physiotherapy and occlusal equilibration followed by TENS therapy. After occlusal equilibration, the dental electro-stimulator, TENS (Vectrostim Plus; Technomed Electronics, India) was used to produce stimulation via electrodes to the skin for 30 min at 500 W, with maximum frequency of 80 Hz and 25 mA output. During the intervention, patients were asked to sit in a comfortable chair in a quiet room. A positive electrode was positioned in the TMJ region anterior and inferior to the external auditory meatus, while an inert electrode was affixed to the nuchal region on the posterior aspect of the neck. The patients were instructed to select the power of the device based on their sensitivity and tolerance so that the process was not painful. The group that received laser therapy was subjected to cervical physiotherapy and occlusal equilibration followed by LLLT. After the occlusal equilibration, a gallium-aluminum-arsenide diode source (IndiLase; MEDSOL, India) with a wavelength of 660 nm, a continuous 0.5W peak power output beam, and a 20-mm size was used. The irradiation time per painful point was adjusted to 1 min. Then, the laser beam was applied at three sites based on the discomfort of the patients in the laser group. During maximal mouth opening, the joint's posterior side, the jaw's angle, and the intraoral region, posterior to the maxillary tuberosity, were the frequent stimulation points.
+
+After being subjected to different therapeutic interventions for TMJ pain, the subjects were recalled every month for about 1 year. The patients were reviewed using a visual analog pain scale during the follow-up session. Then, thermography was employed again after a year follow-up period, and the outcome was assessed, i.e. pain reduction, after which the result was calculated by comparing the values obtained by thermography, pre, and posttreatment.
+
+Statistical analysis
+
+The statistical analysis was done using SPSS Statistics for Windows, version 22.0 (IBM Corp., Armonk, New York, USA). Calculation of mean VAS scores within the group at specific time intervals (0, 3, 6, 9, and 12 months) was done using repeated measures of analysis of variance (ANOVA) analysis. Paired t-test for comparison of the mean VAS score of cervical pain in the four groups before and after therapy, where the P value is considered ≤0.001 as highly significant and ≤0.05 is significant.
+
+RESULTS
+
+The VAS scores recorded for assessing TMJ pain were taken from the Research Diagnostic Criteria for TMJ disorders. The patient was asked to make pain ratings corresponding to the intensity and duration of pain. According to RDC-TMD (AXIS 2), the characteristic pain intensity includes a 10-point scale where the gradations are classified from grade 0 to grade 4, where grade 0 indicated no TMD pain for 6 months. The low disability index includes grades 1 (low intensity) and 2 (high intensity). High disability includes grade 3 (moderately limiting) and grade 4 (severely limiting).
+
+The VAS scores for chronic cervical pain before and after the study were recorded using a numeric pain rating scale (McCaffery, Beebe, 1994). The patient was asked to rate their current, best, and worst pain levels from the previous 24 h. The average of the three scores represented the patient's 24-h pain history. Once the VAS scale scores were recorded, the following statistical analysis for age (in years) and VAS scores in each group. The participants of the control group with no intervention showed slow improvement of pain in TMJ after 12 months of follow-up (P ≤ 0.001).
+
+According to one-way ANOVA, the mean VAS values at baseline were at P > 0.05 and after treatment P ≤ 0.001, and the difference between the four groups was statistically significant. At the end of treatment, the participants who underwent laser therapy and occlusal equilibration along with cervical physiotherapy showed the best results concerning pain reduction and demonstrated significant patient satisfaction after the treatment, followed by TENS and soft splints.
+
+From the Tukey's HSD analysis for VAS scores at final follow-up, when compared to patients who received splint therapy and occlusal equilibration along with cervical physiotherapy and the control group who received only cervical physiotherapy, it was found that participants who underwent TENS and laser therapy along with occlusal equilibration and cervical physiotherapy had the best results for pain reduction in TMJ. When comparing the laser and TENS treatment groups, the degree of pain reduction was practically the same.
+
+It was discovered from the paired t-test for comparison of the mean VAS score of cervical pain in the four groups before and after therapy that all four groups who had received cervical physiotherapy showed a gradual decrease in cervical pain after 12 months of follow-up to baseline. The control group participants who had received cervical physiotherapy with no adjunctive intervention observed better pain reduction after the 1-year follow-up. In contrast, the other groups showed similar pain reduction levels.
+
+It was discovered using a one-way ANOVA that the four groups' mean VAS scores for cervical pain showed that all groups have equally demonstrated a reduction of the intensity of cervical pain after 1-year follow-up compared to the baseline. The correlation was mild from Pearson's correlation test with a negative association. Hence, even though all treatments have shown TMJ pain reduction, the cervical pain reduction with these employed interventions was not statistically evident. Hence, according to the study, a correlation was not observed between TMJ and cervical neck pain.
+
+[Table 1: Comparison of VAS score within the group between time intervals (0, 3, 6, 9, 12 months) using repeated measures ANOVA]
+Group 1 (control): Mean VAS baseline 7.27±1.29 → Nov 5.75±0.85 → Feb 4.88±0.94 → May 4.39±0.97 → Aug 3.97±0.98; F=50.900, P=0.001
+Group 2 (soft splint): 7.53±0.70 → 5.98±0.64 → 5.17±0.84 → 4.55±1.17 → 4.14±1.21; F=53.801, P=0.001
+Group 3 (TENS): 7.76±0.80 → 4.30±1.36 → 2.93±1.39 → 1.97±1.45 → 1.05±1.39; F=115.554, P=0.001
+Group 4 (LLL): 7.61±0.61 → 4.13±0.94 → 3.08±1.21 → 1.85±1.26 → 0.87±0.89; F=423.146, P=0.001
+
+[Table 2: Comparison of VAS between groups at baseline and final follow-up, one-way ANOVA]
+Baseline: Group1 7.27±1.29, Group2 7.53±0.70, Group3 7.76±0.80, Group4 7.61±0.61; F=0.643, P=0.592 (NS)
+Final follow-up: Group1 3.97±0.98, Group2 4.14±1.21, Group3 1.05±1.39, Group4 0.87±0.89; F=29.798, P=0.001
+
+[Table 3: Tukey's HSD post hoc for VAS at final follow-up]
+Group1 vs Group2: mean diff -0.17, P=0.982 (NS)
+Group1 vs Group3: mean diff 2.92, P=0.001 (95% CI 1.68-4.16)
+Group1 vs Group4: mean diff 3.10, P=0.001 (95% CI 1.86-4.34)
+Group2 vs Group3: mean diff 3.09, P=0.001 (95% CI 1.85-4.33)
+Group2 vs Group4: mean diff 3.27, P=0.001 (95% CI 2.04-4.51)
+Group3 vs Group4: mean diff 0.18, P=0.979 (NS)
+
+[Table 4: Cervical pain before/after treatment per group, paired t-test]
+Group1: BT 6.00±1.13 → AT(Aug) 4.50±0.90; mean diff 1.50, t=7.707, P=0.001, 95% CI 1.07-1.93
+Group2: BT 5.00±1.21 → AT 4.08±0.90; mean diff 0.92, t=4.750, P=0.001, 95% CI 0.49-1.34
+Group3: BT 5.33±1.07 → AT 3.83±0.83; mean diff 1.50, t=9.950, P=0.001, 95% CI 1.17-1.83
+Group4: BT 5.33±1.30 → AT 3.67±0.89; mean diff 1.67, t=7.416, P=0.001, 95% CI 1.17-2.16
+
+[Table 5: Cervical pain between groups, one-way ANOVA, post-treatment]
+Group1 4.50±0.905, Group2 4.08±0.900, Group3 3.83±0.835, Group4 3.67±0.888; F=2.025, P=0.124 (NS)
+
+[Table 6: Correlation between final VAS TMJ and cervical pain (post-treatment), Pearson]
+Group1: r=-0.132; Group2: r=-0.02; Group3: r=0.336; Group4: r=-0.452
+
+DISCUSSION
+
+Numerous studies quoted a significant relationship between TMJ and neck pathologies, and few studies also concluded that dental intervention played a vital role in alleviating cervical pain.
+
+This study results confirmed that the participants who underwent occlusal equilibration and received soft splints, TENS, and LLLT had shown a gradual decrease in pain intensity in TMJ after 1 year of treatment. Comparing VAS scores for TMJ between the groups at baseline and final follow-up stated that after the treatment, the participants who underwent laser therapy and TENS had shown the best results, especially at the initial 3-month follow-up.
+
+Seifi et al. achieved comparable results, concluded that the pain levels in the TENS and LLLT groups (100 mm scale) significantly decreased after initial treatment (33.17 ± 4.73 and 34.15 ± 5.25). Still, the effect of TENS was more than LLLT in their study; on the contrary, LLLT was equally effective as TENS in our research. Studies conducted by Chipaila et al., Annalese et al., and Delaine stated that one TENS application effectively reduced pain.
+
+In their study, Venancio Rde et al. revealed a significant reduction in pain, as indicated through VAS scores. Similarly, Janaina Andrade et al. suggested using LLLT as an adjunct or supplementary treatment modality for treating acute and chronic pain in TMDs.
+
+The participants who were given soft splints after occlusal equilibration along with cervical therapy also reported a gradual decrease in pain levels (5.00 ± 1.21 and 4.08 ± 0.90) with a mean difference of 0.9. However, when compared to TENS (3.09) and laser therapy (3.27), the rate of pain relief was poor. Similar results were observed with studies conducted by Stephen Harkins, who concluded that using soft splints for a brief period has yielded better pain reduction levels (71%).
+
+Whereas Singh and Berry have concluded that soft splint application produced better results in pain reduction (16.7) when compared to rigid splints. Participants who received only cervical physiotherapy reported a slow and progressive reduction in pain levels after the follow-up period. However, the pain reduction rate was slow compared to TENS (2.92) and laser therapy (3.10). A similar outcome was reached in a study conducted by La Touche et al., who found that cervical physiotherapy reduced VAS scores (4.8 ± 5.8).
+
+Thermographic imaging was done only as an objective analysis following treatment, and the images obtained were assessed and compared to those brought before the intervention. A significant reduction in the temperature was observed, which was shown in the form of color change at the region of interest from yellow (painful) to red (less pain to no pain), mainly with the TENS and LLL groups equally and then the splint and cervical physiotherapy groups.
+
+The present study found a weak to no correlation between neck pain and TMJ in all four groups, with correlation values of -0.132 for a control group that received only cervical physiotherapy as treatment, -0.02 in Group 2 that received soft splints, 0.336 in Group 3 that received TENS therapy, and -0.452 in Group 4 that received laser treatment. This finding was supported by Jacob N. Thorp, who discovered no significant link between TMD and neck discomfort since the subjects' differences in neck disability scores produced statistically insignificant results (P < 0.12). However, Armijo-Olivo and Magee concluded that TMD treatment significantly decreased cervical spine pain. This research evaluated the effectiveness of transcutaneous electronic nerve stimulation, LLLT, and soft splint therapy on jaw joint pain and cervical pain. At the end of the research, it was concluded that TENS and LLL effectively reduced TMJ pain but did not reduce cervical pain; hence, the null hypothesis was rejected.
+
+The study's drawbacks were that the diagnosis of pain was made using VAS scores based on the RDC-TMD criteria, which is more subjective. Several factors, including stress, posture, parafunctional habits, and sleep patterns, could have impacted the results. The sample size was 48 patients only. Thus, more patients should be included to properly analyze procedures such as cervical physiotherapy and splint therapy and better appreciate their long-term advantages. The thermographic assessment was done using a Fluke thermal imaging camera for industrial and health-care purposes. In this study, it was used only to detect changes in temperature along with pain perception.
+
+Clinical significance
+
+This study confirmed the effectiveness of TENS therapy and laser therapy as reliable treatment modalities that reduced pain levels significantly among the patients. Furthermore, it was observed that laser therapy was the most convenient to use. The patients on whom laser was employed reported reasonable satisfaction compared to TENS.
+
+CONCLUSION
+
+Within the limitations of the study, the following conclusions were derived.
+
+There was no correlation found between TMJ disorder and cervical pain.
+
+The thermographic evaluation showed the presence of pain in the temperature changes before the intervention. After the completion of treatment, the thermographic evaluation showed a marked reduction in pain levels, which was indicated in the form of temperature change.
+
+The usage of soft splints, however slow and progressive, had positive effects on pain reduction.
+
+Using TENS and lasers had a substantial impact on pain relief. However, there was conflicting evidence regarding how these therapies affected cervical pain. Therefore, it should be considered an additional or alternative physical modality for treating temporomandibular dysfunction.
+
+Financial support and sponsorship: Nil.
+Conflicts of interest: There are no conflicts of interest.
+
+Source: PubMed Central / PMC11129811. DOI: https://doi.org/10.4103/jips.jips_468_23

@@ -9,8 +9,21 @@ pdf_filename: ali-2023-cadcam-restoration-failure-reasons-sr-ma.pdf
 source_collection: external
 ---
 
-## One-line Summary
-CAD/CAM 수복물 임상 실패 원인 SR+MA: 파절, 탈락, 이차우식 등 주요 실패 양상.
+## Three-line Summary
+
+SR+MA of clinical studies (PubMed/Embase) on failure reasons of CAD/CAM restorations across multiple material types (resin nanoceramic, zirconia, lithium disilicate).
+
+Fracture was the dominant failure mode (55%) and debonding accounted for 20%; zirconia showed relatively less fracture than resin nanoceramic, and bonding failures were associated with protocol non-compliance; restoration thickness <1 mm increased fracture risk.
+
+Clinicians should prioritize minimum thickness requirements and strict adhesive protocols for CAD/CAM restorations — fracture remains the main failure risk and is material- and thickness-dependent.
+
+## 세줄요약
+
+CAD/CAM 수복물의 임상 실패 원인을 분석한 SR+MA(PubMed/Embase, 전향·후향 임상 연구 포함); 레진 나노세라믹·지르코니아·리튬디실리케이트 재료별 비교.
+
+파절이 압도적 주요 실패 원인(55%), 탈락 20%; 지르코니아는 레진 나노세라믹 대비 파절이 적고, 접착 실패는 프로토콜 미준수와 연관; 두께 <1mm에서 파절 위험 증가.
+
+최소 두께 요구사항 준수와 접착 프로토콜의 철저한 이행이 임상 실패 예방의 핵심이며, 파절 위험은 재료 종류와 두께에 따라 다르게 관리해야 한다.
 
 ## 1. Document Information
 - **Title**: Reasons for Failure of CAD/CAM Restorations in Clinical Studies: A Systematic Review and Meta-analysis

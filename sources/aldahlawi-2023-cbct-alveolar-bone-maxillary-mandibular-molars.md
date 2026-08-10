@@ -9,8 +9,21 @@ pdf_filename: aldahlawi-2023-cbct-alveolar-bone-maxillary-mandibular-molars.pdf
 source_collection: external
 ---
 
-## One-line Summary
-CBCT cross-sectional study assessing alveolar bone anatomy of maxillary and mandibular molars in a Saudi population, framed as inputs for immediate molar implant decision-making.
+## Three-line Summary
+
+CBCT-based cross-sectional study assessing alveolar bone anatomy (inter-radicular septum dimensions, buccal/lingual bone thickness, proximity to anatomical limits) of maxillary and mandibular molars in a Saudi population to guide immediate implant placement planning.
+
+A significant fraction of maxillary molar sites had septum width sufficient for primary stability; mandibular molars were often constrained by lingual concavity and mandibular canal proximity.
+
+Anatomy-only single-center study; no implant placement or survival outcomes reported — data serve as pre-operative CBCT benchmarks for molar immediate implant placement.
+
+## 세줄요약
+
+사우디아라비아 인구 대상 CBCT 단면연구: 상·하악 구치부 치조골 해부학적 형태(치근간 격벽 폭, 협·설측 골두께, 해부학적 구조물까지의 거리)를 즉시 임플란트 식립 계획용으로 측정.
+
+상악 구치부의 상당 비율에서 1차 안정성에 충분한 치근간 격벽 폭 확인; 하악 구치부는 설측 함몰 및 하치조관 근접으로 제약이 많음.
+
+해부학적 계측 단일 센터 연구이며 임플란트 식립·생존율 데이터 없음; 구치부 즉시 식립 전 CBCT 기준값으로 활용 가능.
 
 ## 1. Document Information
 - **Title:** Cone-Beam Computed Tomography (CBCT)-Based Assessment of the Alveolar Bone Anatomy of the Maxillary and Mandibular Molars: Implication for Immediate Implant Placement
@@ -32,9 +45,9 @@ Significant fraction of maxillary molar sites with septum width sufficient for p
 Anatomy-only; single-center; no outcome data.
 
 ## 6. Related Work
-- [[immediate-implant/ragucci-2020-immediate-implant-molar-extraction-sockets]]
-- [[immediate-implant/pavlovic-2022-interradicular-septum-morphology-molar-iip]]
-- [[immediate-implant/milenkovic-2022-interradicular-septum-classification-iip]]
+- [[immediate-implant/molar-septum/ragucci-2020-immediate-implant-molar-extraction-sockets]]
+- [[immediate-implant/molar-septum/pavlovic-2022-interradicular-septum-morphology-molar-iip]]
+- [[immediate-implant/molar-septum/milenkovic-2022-interradicular-septum-classification-iip]]
 - [[immediate-implant/deporter-2021-cbct-immediate-maxillary-molar-implant-planning]]
 
 ## 7. Glossary

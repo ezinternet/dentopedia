@@ -7,7 +7,7 @@ doi: "10.1111/cdoe.12237"
 pmid: "27146959"
 source: kim-2016-occupational-radiation-procedures-doses-korean-dentists.md
 category: [radiology]
-confidence: cross-sectional
+evidence_level: cross-sectional
 source_collection: pubmed-text
 full_text: false
 tags: [occupational-dose, Korea, dentist, panoramic, lead-apron, dosimetry]
@@ -18,13 +18,21 @@ text_path: /Users/oracleneo/llm-wiki/papers/kim-2016-occupational-radiation-proc
 text_filename: kim-2016-occupational-radiation-procedures-doses-korean-dentists.txt
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Cross-sectional survey of 658 South Korean dentists linked to National Dose Registry: mean annual effective dose 0.18 mSv (male) / 0.13 mSv (female), representing <1% of the 20 mSv occupational limit, with panoramic radiography the most frequent radiation procedure.
+Cross-sectional survey of 658 South Korean dentists (2012–2013) linked to the National Dose Registry, examining occupational radiation doses and protection behaviors across demographic and regional subgroups.
 
-## 한줄요약
+Mean annual effective dose was 0.18 mSv (male) and 0.13 mSv (female) — below 1% of the 20 mSv/year occupational limit — with panoramic radiography the most frequently performed procedure; female dentists in provincial areas had significantly higher cumulative doses than metropolitan counterparts.
 
-한국 치과의사 658명 국가선량레지스트리 연계 연구: 연평균 유효선량 남 0.18 mSv, 여 0.13 mSv — 직업한도(20 mSv/y)의 1% 미만; 파노라마가 가장 빈번한 방사선 시술.
+Dental radiation work under standard shielded-room conditions poses minimal occupational risk, but geographic and behavioral disparities suggest that rural/provincial settings warrant more active radiation protection monitoring.
+
+## 세줄요약
+
+한국 치과의사 658명을 국가선량레지스트리에 연계한 2012–2013년 단면 연구로, 인구통계 및 지역별 직업 방사선 피폭과 방호 행태를 분석했다.
+
+연평균 유효선량은 남성 0.18 mSv, 여성 0.13 mSv로 직업 한도(20 mSv/y)의 1% 미만이었고, 파노라마 촬영(Panoramic Radiography)이 가장 빈번했으며 지방 여성 치과의사의 누적 선량이 대도시보다 유의하게 높았다.
+
+표준 방호 시설 하에서 치과 방사선 업무의 직업적 위험은 매우 낮으나, 지역 및 행태 격차를 고려해 지방·농촌 환경에서의 방사선 방호 모니터링 강화가 권고된다.
 
 ## Summary
 

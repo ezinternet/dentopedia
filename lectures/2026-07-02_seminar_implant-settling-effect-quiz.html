@@ -1,0 +1,177 @@
+<!--
+---
+title: "세틀링 이펙트 자가테스트"
+type: lecture-quiz
+date: 2026-07-02
+status: done
+deck: 2026-07-02_seminar_implant-settling-effect.html
+agenda: agenda/2026-07-02_settling-effect-slides.md
+source_wiki:
+  - wiki/overviews/abutment-screw-preload-joint-stability-overview.md
+  - wiki/prosthetic-materials/pardal-pelaez-2017-preload-loss-abutment-screws-dynamic-fatigue.md
+  - wiki/prosthetic-materials/kim-2020-axial-displacements-removal-torque-changes.md
+  - wiki/prosthetic-materials/varvara-2020-retightening-preload-loss-abutment-screws.md
+  - wiki/prosthetic-materials/saleh-saber-2017-repeated-torque-tightening-abutment-lengths.md
+  - wiki/prosthetic-materials/sun-2026-abutment-contamination-internal-hex-preload.md
+note: "슬라이드 덱 lectures/2026-07-02_seminar_implant-settling-effect.html 동반 자가테스트. 문항은 위키 근거로 LLM 저작
+  — scripts/build-lecture-quiz.py가 스펙(lectures/quiz-specs/2026-07-02_seminar_implant-settling-effect.json)에서 HTML
+  생성. interactives/ 색인에는 포함되지 않음(build-lectures-index.py가 덱 카드 옆에만 카드
+  생성)."
+---
+-->
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>세틀링 이펙트 자가테스트</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700;900&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#0e1116; --panel:#161b22; --panel2:#1c232d; --line:#2b333d;
+    --txt:#e6edf3; --dim:#9aa7b4; --ok:#3fb950; --no:#ff5d5d; --accent:#4aa3ff;
+    --chip:#243040;
+  }
+  *{box-sizing:border-box;}
+  body{margin:0;background:var(--bg);color:var(--txt);
+    font-family:'Noto Sans KR',system-ui,sans-serif;line-height:1.55;}
+  .wrap{max-width:760px;margin:0 auto;padding:26px 18px 80px;}
+  h1{font-weight:900;font-size:1.6rem;margin:.2em 0 .1em;}
+  .sub{color:var(--dim);font-size:.92rem;margin-bottom:16px;}
+  .bar{height:8px;background:var(--panel);border-radius:20px;overflow:hidden;margin:14px 0 22px;}
+  .bar > i{display:block;height:100%;width:0;background:var(--accent);transition:width .3s;}
+  .q{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:18px;margin-bottom:16px;}
+  .qn{font-size:.78rem;color:var(--dim);margin-bottom:4px;}
+  .qt{font-weight:700;margin-bottom:12px;}
+  .opt{display:block;width:100%;text-align:left;background:var(--panel2);
+    border:1px solid var(--line);color:var(--txt);border-radius:9px;
+    padding:11px 13px;margin:7px 0;cursor:pointer;font-size:.93rem;
+    font-family:inherit;transition:border-color .15s,background .15s;}
+  .opt:hover:not(:disabled){border-color:var(--accent);}
+  .opt:disabled{cursor:default;}
+  .opt.correct{border-color:var(--ok);background:rgba(63,185,80,.12);}
+  .opt.wrong{border-color:var(--no);background:rgba(255,93,93,.12);}
+  .rat{margin-top:10px;font-size:.86rem;color:var(--dim);
+    border-left:3px solid var(--line);padding:8px 12px;display:none;}
+  .rat.show{display:block;}
+  .rat b{color:var(--txt);}
+  .rat a{color:var(--accent);text-decoration:none;}
+  .score{position:sticky;bottom:0;background:var(--panel);border:1px solid var(--line);
+    border-radius:12px;padding:14px 18px;text-align:center;font-weight:700;margin-top:8px;}
+  .score .big{font-size:1.5rem;color:var(--accent);}
+  .reset{margin-top:12px;background:var(--chip);border:1px solid var(--line);
+    color:var(--txt);border-radius:8px;padding:9px 16px;cursor:pointer;font-family:inherit;}
+  .foot{margin-top:26px;color:var(--dim);font-size:.78rem;text-align:center;}
+  .foot a{color:var(--accent);text-decoration:none;}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>🔩 세틀링 이펙트 자가테스트</h1>
+  <div class="sub">슬라이드 동반 자가테스트 · 5문항 · 답을 고르면 정답·해설·근거가 열립니다.</div>
+  <div class="bar"><i id="bar"></i></div>
+  <div id="quiz"></div>
+  <div class="score" id="score">진행: <span id="done">0</span>/5 · 정답 <span class="big" id="pts">0</span></div>
+  <button class="reset" onclick="location.reload()">↻ 다시 풀기</button>
+  <div class="foot"><a href="2026-07-02_seminar_implant-settling-effect.html">← 슬라이드로 돌아가기</a> · 교육용 요약 — 개별 판단은 위키 원문·원장 확인</div>
+</div>
+<script>
+// 문항 = LLM이 위키 근거로 저작. 스펙: lectures/quiz-specs/2026-07-02_seminar_implant-settling-effect.json
+// cite = 위키 경로(category/stem) → 링크는 /dentopedia/{cite} 로 조립.
+const QUESTIONS = [
+  {
+    "q": "세틀링 이펙트(Settling Effect)는 언제 발생하는가?",
+    "opts": [
+      "저작 중 반복하중 시에만",
+      "체결 직후, 무하중 상태에서도",
+      "임플란트 실패 직전에만",
+      "발치 즉시식립 시에만"
+    ],
+    "ans": 1,
+    "rat": "세틀링은 접촉면 미세조도 붕괴로 체결 직후 무하중 상태에서도 발생 — 저작 전부터 이미 preload 손실이 시작된다.",
+    "cite": "prosthetic-materials/pardal-pelaez-2017-preload-loss-abutment-screws-dynamic-fatigue"
+  },
+  {
+    "q": "세틀링(Settling)과 동적 피로(Cyclic Fatigue)의 차이로 옳은 것은?",
+    "opts": [
+      "둘 다 저작 반복하중 중에만 발생한다",
+      "세틀링은 무하중 시 즉시, 동적 피로는 반복하중 중 발생",
+      "동적 피로가 항상 손실 규모가 더 작다",
+      "두 기전은 상호 배타적이라 동시에 일어나지 않는다"
+    ],
+    "ans": 1,
+    "rat": "세틀링은 체결 직후 무하중에서 preload 2–10% 손실, 동적 피로는 반복하중 중 제거토크 손실 16.1–39%로 이어짐 — 세틀링이 먼저, 피로가 뒤따른다.",
+    "cite": "prosthetic-materials/pardal-pelaez-2017-preload-loss-abutment-screws-dynamic-fatigue"
+  },
+  {
+    "q": "Kim 2020 연구에서 세틀링(축방향 변위)이 가장 작았던 연결부 형태는?",
+    "opts": [
+      "내부 팔각 8° Morse taper (1-piece)",
+      "외부 버트조인트(External butt-joint)",
+      "내부 육각 11° (2-piece)",
+      "연결부 형태와 무관"
+    ],
+    "ans": 1,
+    "rat": "외부 버트조인트가 0.8µm로 가장 작고, 내부팔각 Morse taper(1-piece)가 25.6µm로 가장 컸다 — 연결부가 급한 테이퍼일수록 세틀링이 커진다.",
+    "cite": "prosthetic-materials/kim-2020-axial-displacements-removal-torque-changes"
+  },
+  {
+    "q": "나사고정(2-piece) 관절의 대처 프로토콜에서 재조임(retightening) 시점에 대한 근거는?",
+    "opts": [
+      "항상 정확히 10분 후 1회만 유효하다",
+      "Varvara 2020: 2분이 5·10분보다 손실이 적어 더 유리할 수 있다",
+      "재조임은 몇 번을 해도 효과가 계속 커진다",
+      "재조임은 잃은 clamping force를 완전히 회복시킨다"
+    ],
+    "ans": 1,
+    "rat": "전통적으로 10분 후 재조임을 권장했으나(Nithyapriya 2018), Varvara 2020은 2분이 더 유리할 수 있다고 제안. Saleh-Saber 2017: 재조임 효과는 2회째에 plateau — 3~5회는 무의미. Bulaqi 2015: 재조임이 세틀링을 줄이나 손실된 clamping force를 크게 되살리지는 못한다.",
+    "cite": "prosthetic-materials/saleh-saber-2017-repeated-torque-tightening-abutment-lengths"
+  },
+  {
+    "q": "연결부 오염(석고 등)에 대한 Sun 2026 연구 결과로 옳은 것은?",
+    "opts": [
+      "6면 중 3면만 오염되면 전하중에 영향이 없다",
+      "6면 중 3면만 오염돼도 초기 전하중이 유의하게 감소한다",
+      "오염은 이론상 가설일 뿐 임상에서 관찰되지 않는다",
+      "완전 오염과 부분 오염의 초기 손실 효과는 크게 다르다"
+    ],
+    "ans": 1,
+    "rat": "n=90 in-vitro: 6면 중 3면만 오염돼도 초기 전하중이 유의하게 감소(부분≈완전, 초기 결손엔 차이 없음). 실제 265개 맞춤 어버트먼트 감사에서도 오염이 드물지 않게 관찰됨.",
+    "cite": "prosthetic-materials/sun-2026-abutment-contamination-internal-hex-preload"
+  }
+];
+const SITE_BASE="/dentopedia";
+let done=0, pts=0;
+const quiz=document.getElementById('quiz');
+QUESTIONS.forEach((item,i)=>{
+  const card=document.createElement('div'); card.className='q';
+  const cite=`<a href="${SITE_BASE}/${item.cite}" target="_blank">근거 보기 →</a>`;
+  card.innerHTML=`<div class="qn">Q${i+1}</div><div class="qt">${item.q}</div>`;
+  item.opts.forEach((o,j)=>{
+    const b=document.createElement('button'); b.className='opt'; b.textContent=o;
+    b.onclick=()=>answer(card,i,j,b);
+    card.appendChild(b);
+  });
+  const r=document.createElement('div'); r.className='rat';
+  r.innerHTML=`<b>해설.</b> ${item.rat||''} ${cite}`;
+  card.appendChild(r);
+  quiz.appendChild(card);
+});
+function answer(card,i,pick,btn){
+  if(card.dataset.answered) return;
+  card.dataset.answered="1";
+  const item=QUESTIONS[i];
+  card.querySelectorAll('.opt').forEach((b,j)=>{ b.disabled=true;
+    if(j===item.ans) b.classList.add('correct');
+    else if(j===pick) b.classList.add('wrong'); });
+  if(pick===item.ans) pts++;
+  done++;
+  card.querySelector('.rat').classList.add('show');
+  document.getElementById('done').textContent=done;
+  document.getElementById('pts').textContent=pts;
+  document.getElementById('bar').style.width=(done/QUESTIONS.length*100)+'%';
+}
+</script>
+</body>
+</html>

@@ -16,13 +16,21 @@ text_filename: forville-2024-moist-dentin-adhesive-systems-reevaluation.txt
 
 Recent (2024) re-evaluation of the long-held wet/moist-bonding paradigm for the etch-and-rinse (ER) strategy — a clinically actionable test of whether dentin moisture state actually changes outcomes. Reinforces and broadens [[wiki/resin-bonding/mortazavi-2012-ethanol-wet-bonding-clinical-trial]] (single RCT, n=36 NCCLs, 12 mo, no significant dry-vs-wet difference) by pooling five split-mouth RCTs (n=195, up to 5 y) and finding the same null result with GRADE-rated moderate certainty.
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 5 split-mouth RCTs (195 patients, NCCLs, up to 5-y follow-up): dry- vs wet-bonding under the etch-and-rinse strategy showed no significant difference in retention or postoperative sensitivity (moderate certainty, GRADE).
+Systematic review and meta-analysis of 5 split-mouth randomized clinical trials (195 adult patients with noncarious cervical lesions, up to 5-year follow-up), comparing dry versus moist dentin bonding with etch-and-rinse adhesive strategy.
 
-## 한줄요약
+Retention rates and postoperative sensitivity showed no significant difference between dry and wet bonding at 18–24, 36, and 60 months (e.g., 18–24 mo RR 0.91; 95% CI 0.45–1.84), with moderate certainty by GRADE.
 
-체계적 문헌고찰+메타분석 (분할구강 RCT 5편, 환자 195명, 비우식성 치경부 병소, 최대 5년 추적): 산부식-수세 (Etch-and-Rinse, ER) 전략에서 건조 접착 vs 습윤 접착 간 유지율·술후 과민증에 유의한 차이 없음 (GRADE 중등도 확실성).
+The findings challenge the conventional teaching that etch-and-rinse dentin must remain visibly moist, suggesting dentin moisture state does not meaningfully affect clinical outcomes in NCCL composite restorations.
+
+## 세줄요약
+
+체계적 문헌고찰 + 메타분석 — 비우식성 치경부 병소 (NCCL)를 산부식-수세 (Etch-and-Rinse, ER) 접착로 복합레진으로 복원한 분할구강 RCT 5편 (성인 환자 195명, 최대 5년 추적).
+
+건조 접착 vs 습윤 접착 간 유지율과 술후 과민증에 18–24, 36, 60개월 모든 추적에서 유의한 차이 없음 (18–24개월: RR 0.91, 95% CI 0.45–1.84; GRADE 중등도 확실성).
+
+교과서적으로 강조되어 온 "산부식-수세 전략에서 상아질을 습윤하게 유지해야 한다"는 통설에 의문 제기 — NCCL 복합레진 복원의 임상 결과는 상아질 수분 상태에 실질적 영향을 받지 않음을 시사.
 
 ## 1. Document Information
 

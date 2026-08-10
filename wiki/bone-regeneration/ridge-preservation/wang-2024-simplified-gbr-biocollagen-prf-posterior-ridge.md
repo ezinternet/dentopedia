@@ -8,7 +8,7 @@ pmid: "38943036"
 pmcid: "PMC11286611"
 source: wang-2024-simplified-gbr-biocollagen-prf-posterior-ridge.md
 category: [bone-regeneration/ridge-preservation]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 full_text: false
 text_path: /Users/oracleneo/llm-wiki/papers/wang-2024-simplified-gbr-biocollagen-prf-posterior-ridge.txt
@@ -16,13 +16,21 @@ text_filename: wang-2024-simplified-gbr-biocollagen-prf-posterior-ridge.txt
 tags: [gbr, prf, bio-collagen, ridge-preservation, seibert-class-i, posterior, simplified-gbr]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective study (n=44) comparing simplified GBR (Bio-collagen + PRF membrane) vs classical GBR (Bio-Oss + Bio-Gide) for posterior Seibert Class I ridge defects: HW gain 1.50 vs 1.83 mm at 6 months; comparable Type A buccal contour predominance.
+Retrospective study (n=44, 22 per group) comparing simplified GBR (Bio-collagen + autologous PRF membrane) versus classical GBR (Bio-Oss + Bio-Gide) for posterior Seibert Class I horizontal ridge defects.
 
-## 한줄요약
+Simplified GBR produced 1.50 mm horizontal width gain vs 1.83 mm in the classical group at 6-month CBCT; buccal contour Type A (good) was comparable in both groups (64% vs 50%) and Type C (poor) was lower in the simplified group (5% vs 14%).
 
-후향적 연구(n=44)에서 후방 Seibert Class I 결손에 단순화 GBR(Bio-collagen+PRF막) vs 고전적 GBR(Bio-Oss+Bio-Gide) 비교: 수평폭경 증가 1.50 vs 1.83mm(6개월), 협측 윤곽 Type A 우세 유사.
+The 0.33 mm gap in horizontal gain is likely clinically minor for minor posterior ridge defects, suggesting Bio-collagen + PRF is a cost-effective biologic alternative to xenograft + collagen membrane for this indication.
+
+## 세줄요약
+
+후향적 연구(n=44, 군당 22명): 후방 Seibert Class I 수평 결손에 단순화 GBR(Bio-collagen + 자가 PRF막) vs 고전적 GBR(Bio-Oss + Bio-Gide)을 비교하였다.
+
+단순화 GBR군의 수평폭경 증가는 1.50 mm로 고전적 GBR군(1.83 mm)보다 0.33 mm 적었으나, 협측 윤곽 Type A 비율(64% vs 50%)·Type C 비율(5% vs 14%)에서 단순화군이 비열등한 경향을 보였다.
+
+두 군 간 차이는 임상적으로 미미하여, 경미한 후방 치조제 결손에는 Bio-collagen + PRF가 이종골 + 콜라겐막의 비용 효과적 대안이 될 수 있음을 시사한다.
 
 ## Summary
 

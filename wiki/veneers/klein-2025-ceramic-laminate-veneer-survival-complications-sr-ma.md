@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1111/jerd.13351
 source: klein-2025-ceramic-laminate-veneer-survival-complications-sr-ma.md
 category: [veneers]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/klein-2025-ceramic-laminate-veneer-survival-complications-sr-ma.pdf
 pdf_filename: klein-2025-ceramic-laminate-veneer-survival-complications-sr-ma.pdf
 source_collection: external
@@ -16,13 +16,21 @@ relations:
     target: morimoto-2016-feldspathic-glass-ceramic-veneer-survival-sr-ma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 29 studies (7,753 veneers): LDS ceramic laminate veneers show best long-term profile (96.81% survival, technical complication 6.1% at 10.4 years); all materials comparable in survival; zirconia 100% at 2.6 years but no long-term data.
+SR+MA (PROSPERO CRD42024568719; 29 studies, 41 arms, 7,753 veneers, 986 patients, 1.0–20.7 years follow-up) covering feldspathic, LRGC, LDS, and zirconia ceramic laminate veneers across 12 countries.
 
-## 한줄요약
+Pooled survival at ~10.4 years was equivalent across materials (feldspathic 96.13%, LRGC 93.70%, LDS 96.81%, zirconia 100% at 2.6 y only, no significant between-material difference), but complication rates differed dramatically: technical complications 41.48% (feldspathic) vs 29.87% (LRGC) vs 6.1% (LDS).
 
-SR+MA (29편, 7,753개 비니어): LDS 96.81% 생존율, 기술적 합병증 6.1%로 최고 성적; 소재 간 생존율 차이 없음; 지르코니아 2.6년 100% 생존이나 장기 데이터 부족.
+The key clinical take-away is that LDS is the preferred material for long-term predictability based on a near-7-fold lower technical complication burden versus feldspathic — the material choice is a complication-prevention decision, not a survival decision; zirconia requires long-term data before routine use.
+
+## 세줄요약
+
+SR+MA (PROSPERO CRD42024568719; 29편·7,753개 비니어·986명·1.0–20.7년; 12개국): feldspathic·LRGC·LDS·지르코니아 세라믹 라미네이트 비니어 종합 비교.
+
+~10.4년 생존율은 재료 간 유의차 없음 (feldspathic 96.13%·LRGC 93.70%·LDS 96.81%·지르코니아 100% at 2.6y); 기술적 합병증(Technical Complication)은 feldspathic 41.48% > LRGC 29.87% > LDS 6.1%로 현저한 차이.
+
+임상적 핵심: LDS는 feldspathic 대비 기술 합병증 ~7배 낮아 장기 예측성 최우선 재료 — 재료 선택은 생존율이 아닌 합병증 예방의 문제; 지르코니아는 장기 근거 미흡.
 
 ## Summary
 

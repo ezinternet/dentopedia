@@ -13,13 +13,21 @@ source_collection: external
 
 [[endodontics/irrigation/boutsioukis-2022-irrigants-irrigation-methods-status-directions]]는 NaOCl/EDTA + 활성화의 현재 표준을 정리하지만, 2015–2025 신흥 약제(나노입자·허브·광활성)와 멀티소닉/레이저 활성화 시스템을 한 자리에 모은 최신 스냅샷이 없었다. 본 SR(Gupta 2025)은 그 공백을 메워 차세대 세정제·활성화 기술의 임상 함의를 보강한다.
 
-## One-line Summary
+## Three-line Summary
 
 Systematic review (PROSPERO CRD420250655029, 2015–2025) of emerging endodontic irrigants (nanoparticle-based, herbal, photoactivated) and activation systems (ultrasonic, laser-activated, multisonic, negative-pressure), concluding they enhance antimicrobial action, biofilm disruption, and smear-layer removal over conventional NaOCl/EDTA but lack long-term clinical validation.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 근관 세정제·활성화 시스템 최신 발전(2015–2025)을 정리한 체계적 고찰 — 나노입자·허브·광활성 세정제와 초음파·레이저·멀티소닉·음압 활성화가 기존 NaOCl/EDTA보다 항균력·바이오필름 제거·스미어층 제거를 향상시키나, 장기 임상 근거는 아직 부족하다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

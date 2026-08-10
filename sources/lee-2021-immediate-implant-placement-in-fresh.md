@@ -11,6 +11,20 @@ source_collection: local
 tags: [즉시-임플란트-식립, 발거-소켓, 신선한-소켓, 골유착, 소켓-치유, 시기, 초기-안정성]
 ---
 
+## Three-line Summary
+Clinical perspective on immediate implant placement in fresh extraction sockets: successful osseointegration achievable despite suboptimal initial stability in healing bone.
+
+Single-stage approach compresses treatment timeline vs delayed placement; primary stability challenging but attainable with atraumatic extraction and proper socket assessment; socket wall engagement and gap management critical.
+
+Clinical implication: immediate implant placement viable for esthetic and functional sites via atraumatic technique, socket evaluation, primary stability optimization, gap management (graft/membrane/spontaneous), and modified loading protocols; esthetic outcome superior in anterior region.
+
+## 세줄요약
+신선한 발거 소켓에서의 즉시 임플란트 식립 임상 관점: 치유 중인 골에서도 초기 안정성이 부전족하지만 골유착 달성 가능.
+
+단일 단계 접근으로 치료 시간 단축(지연 식립 대비); 초기 안정성은 도전적이나 비외상적 발거·소켓 평가로 달성 가능; 소켓벽 접촉·갭 관리 필수.
+
+임상적 의미: 즉시 임플란트 식립은 비외상적 기법, 소켓 평가, 초기 안정성 최적화, 갭충전(이식/막/자발), 변형된 하중 프로토콜을 통해 심미·기능 부위에서 실행 가능; 전치부 영역에서 심미 결과 우수.
+
 ## 한 줄 요약
 신선한 발거 소켓에서 성공적인 골유착을 위한 즉시 임플란트 식립 기법 및 프로토콜에 대한 임상 관점.
 

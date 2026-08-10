@@ -9,8 +9,21 @@ pdf_filename: do-2020-eryag-laser-pips-endodontic-irrigation-review.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Literature review of 59 studies: Er:YAG LAI and PIPS outperformed other irrigation activation methods in 33/59 studies — promising for canal disinfection and smear layer removal, but large method variability limits conclusions; no in vivo studies found.
+## Three-line Summary
+
+Literature review (59 studies, PubMed-based) of Er:YAG laser-activated irrigation (LAI) and photon-induced photoacoustic streaming (PIPS) as endodontic irrigation activation methods, comparing bacterial reduction, smear layer removal, debris removal, and irrigant penetration against syringe irrigation, passive ultrasonic irrigation (PUI), and sonic activation (EndoActivator).
+
+Er:YAG LAI/PIPS outperformed other activation methods in 33/59 studies; PIPS uses sub-ablative energy (20 mJ, 15 Hz, 50 µs ultra-short pulses) generating cavitation and photoacoustic shockwaves; strongest evidence was for smear layer removal and debris reduction; antimicrobial efficacy was promising but highly heterogeneous.
+
+No in vivo clinical studies were identified — all evidence came from in vitro/ex vivo models; large variability in laser parameters, bacterial incubation protocols, and irrigation sequences limits generalizability and prevents definitive clinical recommendations.
+
+## 세줄요약
+
+문헌 검토(59편, PubMed) — Er:YAG 레이저 활성 관개(Laser Activated Irrigation, LAI)와 광유도 광음향 스트리밍(Photon-Induced Photoacoustic Streaming, PIPS)을 세균 감소·도말층(smear layer) 제거·이물 제거·세정액 침투 측면에서 주사기 관개·수동 초음파(PUI)·소닉 활성(EndoActivator)과 비교.
+
+59편 중 33편에서 Er:YAG LAI/PIPS가 다른 방법보다 우월; PIPS는 저조사 에너지(20 mJ, 15 Hz, 50 µs 초단 펄스)로 공동화(cavitation)·광음향 충격파 발생; 도말층 제거·이물 감소에 가장 강한 근거; 항균 효과는 유망하나 이질성 큼.
+
+임상(in vivo) 연구 없음 — 모든 근거가 체외(in vitro/ex vivo); 레이저 매개변수·세균 배양 프로토콜·관개 순서의 큰 변동성이 일반화를 제한하며 확정적 임상 권고 불가.
 
 ## 1. Document Information
 - **Journal**: Journal of Lasers in Medical Sciences 2020;11(3):316–331

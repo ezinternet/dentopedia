@@ -16,13 +16,21 @@ text_filename: rasoolzadeh-2022-coenzyme-q10-periodontitis-sr-ma.txt
 
 Ingested as the **contrasting half** of the CoQ10 evidence pair. This 2022 SR+MA (11 trials) reaches a *pro-gel* conclusion — "our findings encourage administration of coenzyme Q10 gel" — that directly conflicts with the newer, route-stratified [[wiki/periodontics/fernandez-2025-coenzyme-q10-nonsurgical-periodontal-sr]], which finds the gel route null. Holding both makes the conflict legible: Rasoolzadeh pooled local + systemic routes and gingivitis-leaning indices (Plaque/Bleeding/Gingival index) with very high heterogeneity (I² 72–89%) and noted high-risk-of-bias studies drove the larger effect. The pair teaches why "a meta-analysis says it works" needs route and bias scrutiny before it reaches a patient.
 
-## One-line Summary
+## Three-line Summary
 
 Systematic review + meta-analysis of 11 controlled trials: CoQ10 significantly reduced Plaque Index, Bleeding Index, Pocket Depth (SMD −0.96), CAL (SMD −0.73), and Gingival Index in periodontitis (intra-pocket > topical), but with very high heterogeneity (I² 72–89%) and a larger effect in high-risk-of-bias studies.
 
-## 한줄요약
+(incomplete)
 
-11편 임상시험 SR+MA — CoQ10가 치주염에서 치태지수·출혈지수·치주낭깊이(SMD −0.96)·부착수준(SMD −0.73)·치은지수를 유의하게 감소(낭내 > 국소). 다만 이질성 매우 높고(I² 72–89%) 비뚤림 위험 높은 연구에서 효과가 더 크게 나옴.
+(incomplete)
+
+## 세줄요약
+
+11편 임상시험 SR+MA — CoQ10가 치주염에서 치태지수·출혈지수·치주낭깊이(SMD −0.96)·부착수준(SMD −0.73)·치은지수를 유의하게 감소(낭내 > 국소).
+
+다만 이질성 매우 높고(I² 72–89%) 비뚤림 위험 높은 연구에서 효과가 더 크게 나옴.
+
+(incomplete)
 
 ## 1. Document Information
 

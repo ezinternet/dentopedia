@@ -1,0 +1,83 @@
+Prevalence of nutrient canals in mandibular anterior intra-oral periapical radiographs (IOPARs) in patients with chronic systemic diseases – a cross-sectional study
+
+Hasan S, Jahan U, Saeed S, Kaur M, Gombra V, Rai A, Mansoori S
+Journal of Medicine and Life, 2022;15(5):661-668
+DOI: 10.25122/jml-2022-0009
+PMID: 35815094
+PMCID: PMC9262273
+
+ABSTRACT
+
+Nutrient canals (NCs) are passages containing neurovascular bundles (blood vessels, lymph vessels, and nerves). Best visualized on mandibular anterior intraoral periapical radiographs (IOPAR), their presence is usually associated with underlying pathological such as diabetes mellitus (DM), hypertension (HTN), advanced periodontitis, calcium deficiency, tuberculosis, and disuse atrophy. This study aimed to (a) evaluate NC prevalence in patients with DM, HTN, and chronic periodontitis and (b) correlate the detection of NCs as an important preliminary screening tool for inherent systemic diseases like DM, HTN, and chronic periodontitis and as an investigative clue in age and gender determination. This cross-sectional study was conducted on 200 subjects. Patients with complaints of pain in the mandibular anterior teeth, deep dentinal caries, abrasion, and attrition were subjected to IOPAR of the mandibular anterior teeth region to assess NCs. An increased frequency of NCs in DM (84%), HTN (66%), and periodontitis (52%) with a significant p-value was observed. Most NCs were seen beyond the root apex (72.4%). A notable association between the duration of disease and the presence of NCs in the diabetic and hypertensive cohorts (p-value 0.047 & 0.012, respectively) was observed. However, we could not establish any association between the prevalence of nutrient canals with age and gender. Our study suggested that a higher frequency of NCs on mandibular anterior IOPAR may be employed as an ancillary screening and investigative support in underlying systemic disorders.
+
+INTRODUCTION
+
+Radiographs serve as an essential investigative tool in dentistry and are largely employed to detect dental caries and sequelae, periodontal diseases, and moderately overt bony changes in the maxilla and mandible. The anatomical structures often exhibit an extensive disparity in the radiographic manifestations and may be a sign of underlying systemic diseases, including size and thickness of trabeculae, the pulp chamber and canal size, and the presence of nutrient canals. Nutrient canals are one of the important anatomical landmarks visualized on intraoral periapical radiographs (IOPAR). The first radiographic description of nutrient canals was made by Hirschfield (1923), being regarded as passages containing neurovascular bundles (blood vessels, lymph vessels, and nerves). They are now assigned names such as interdental canals, circulating canals, and vascular canals.
+
+Nutrient canals are mostly visualized on IOPARs of mandibular anterior teeth. Sometimes, they are also visualized in the region of mandibular premolar teeth and maxillary sinus wall. Nutrient canals are usually seen as radiolucent lines of varying thickness, run a vertical course, and are positioned interproximally and inferiorly to the teeth. Existing literature has established a 5% prevalence in the general population, more commonly seen in Black people and males. Some researchers consider nutrient canals as normal anatomical structures, in contrast to others who associate their presence with an underlying pathological state such as advanced periodontitis, diabetes mellitus, hypertension, calcium deficiency, tuberculosis, and disuse atrophy.
+
+The presence of nutrient canals may pose certain problems in dental surgical techniques, such as a source of focal bleeding, a potential route of infection spread, and difficulty in attaining adequate anesthesia. They also have a role in evaluating prospective implant sites, as the radiographic occurrence of nutrient canals may suggest a knife-edged alveolar ridge. Few studies suggested a notable association between nutrient canals prevalence and age and gender estimation, thus posing promising diagnostic support in forensic odontology.
+
+Objectives:
+1. Evaluate the prevalence of nutrient canals in patients with chronic systemic disorders (diabetes mellitus (DM), hypertension, and chronic periodontitis) and compare different patient groups;
+2. Correlate the detection of nutrient canals as a preliminary screening tool for inherent systemic disorders and as an investigative clue in forensic odontology for age and gender determination.
+
+MATERIAL AND METHODS
+
+A prospective, cross-sectional study was conducted for ten months (June 2019–April 2020) on 800 subjects reporting to the Outpatient Department of Oral Medicine and Radiology, Faculty of Dentistry, Jamia Millia Islamia.
+
+The patient cohort included patients of either gender, in the age group of 20–70 years, with at least one-year history of DM and hypertension (and on medications), clinical signs of chronic periodontitis (bleeding on probing, gingival recession, pocket depth ≥4 mm, plaque and calculus, and tooth mobility). The control cohort included patients with a negative history of DM, hypertension, and other systemic diseases, good oral hygiene, and no clinical signs of periodontitis. Individuals unwilling to participate, subjects less than 20 years of age and more than 70 years of age, history of both DM, hypertension, and other coexisting systemic ailments, pregnant and lactating females, and poor-quality radiographs were excluded from the study.
+
+Patients with pain in the anterior mandibular tooth region, deep proximal caries with dentinal involvement, and attrition were selected for further radiographic evaluation based on the above-mentioned inclusion criteria. The radiographs were taken as part of the treatment protocol and were further analyzed and interpreted for the study. However, no extra radiographs were taken for the study.
+
+The subjects were divided into 4 groups: Group 1 (n=50) controls with no clinical signs of periodontitis and negative history of DM/hypertension/other chronic systemic disease; Group 2 (n=50) known history of DM >1 year; Group 3 (n=50) known history of hypertension >1 year; Group 4 (n=50) clinical signs of periodontitis (bleeding on probing, pocket depth ≥4mm, plaque and calculus, tooth mobility). All four groups were further subdivided with attributes related to missing mandibular anterior teeth and level of interdental bone loss (no bone loss, bone loss up to middle/apical 1/3 of the root).
+
+Patients were subjected to an IOPAR of the anterior mandibular teeth region (43-33 region) using a bisecting angle technique with 70 kVp, 10 mA, exposure time 0.6 sec. Standard adult size (size 2) E-speed films were used and processed manually. Radiographs were assessed for presence, number, and location of nutrient canals using a magnifying glass. Statistical evaluation was done using SPSS 20.0. A chi-square test was performed to compare different patient groups; p<0.05 considered statistically significant.
+
+RESULTS
+
+Out of 800 screened subjects, 200 subjects (97 males, 103 females) fulfilling inclusion/exclusion criteria were enrolled. Within sub-groups: Group I 28M/22F, Group II 22M/28F, Group III 21M/29F, Group IV 26M/24F.
+
+Among controls, most individuals (n=4) showed nutrient canals with interdental bone loss up to the middle 1/3 of the root. The diabetic cohort exhibited nutrient canals with interdental bone loss up to middle and apical 1/3 (n=22 and n=18, respectively); all diabetic individuals missing lower anterior teeth (n=8) showed nutrient canals. Hypertensive patients (n=23) showed the maximum number of nutrient canals with interdental bone loss up to middle 1/3. Periodontitis patients exhibited the maximum number of nutrient canals with interdental bone loss up to apical 1/3 (n=15).
+
+Gender comparison: no predilection for any gender in any group. Periodontitis: 50% males, 54.1% females had NC (p=0.768). Diabetic: 90.9% males, 78.5% females (p=0.237). Hypertension: 76.1% males, 58.6% females (p=0.195). Healthy controls: 21.4% males, 18.1% females (p=0.775). All groups showed non-significant p-values — no gender association with NC presence.
+
+Age comparison: all four groups showed non-significant p-values (0.509, 0.536, 0.482, 0.090 for controls, DM, HTN, periodontitis respectively) — no age-NC relationship.
+
+Disease duration: significant association with NC presence — p=0.047 for DM, p=0.012 for hypertension.
+
+Disease group vs control comparison: highly significant — DM vs control p=0.000004; HTN vs control p=0.000003; periodontitis vs control p=0.00085. Increased NC frequency in disease groups vs healthy individuals.
+
+Inter-group comparison: highest NC prevalence in DM, followed by HTN then chronic periodontitis, p=0.0028.
+
+Overall prevalence: DM 84% (42/50), HTN 66% (33/50), periodontitis 52% (26/50), controls 20% (10/50).
+
+Most NCs (74.2%/72.4%) were located beyond the root apex (periapical location) rather than interproximal.
+
+DISCUSSION
+
+Nutrient canals are duct-like channels in the alveolar bone encompassing neurovascular bundles supplying the teeth and adjacent supporting structures. IOPARs provide excellent delineation despite small film size — visualized as linear radiolucencies of varying number, size, location. Mandibular anterior site predilection attributed to thin alveolar bone with fine/sparse trabecular pattern and less anatomical superimposition.
+
+Bisecting angle technique was used (comparable to other studies using paralleling technique — Selarka, Patel, Kaur, Castelino, Singh et al.).
+
+Gender: no significant association found in this study, consistent with some prior studies, though literature is mixed (some report female predominance, some male predominance, some no association).
+
+Prevalence in healthy controls literature ranges widely: Lovette 92%, Bali et al. 60%, Selarka et al. 35%, Patel et al. 42.5%, Kaur et al. 23%, Kaul et al. 57.5%, Pandarinath et al. 6% — this study found 20%.
+
+DM: 84% prevalence, highly significant vs control (p=0.000004), consistent with prior literature. Proposed mechanism (Isselbacher et al.): insulin deficiency has mitogenic effect on endothelial cells → collateral vessel development; atherosclerotic changes narrow vessel lumen → collateral vessels form as compensatory mechanism → increased NC. No age association (p=0.5362, consistent with Bali et al.; contrasts with Patel et al. who found higher NC in 25-55y with decrease 55-65y). No significant gender association (p=0.2375). 81.25% of DM group showed moderate-severe bone loss (comparable to Bali et al. 81%). All 8 edentulous-anterior DM patients showed NC (consistent with Bali, Kishi et al. — linked to alveolar bone resorption post-tooth-loss and remaining bone thickening).
+
+HTN: 66% prevalence vs 20% controls (p=0.000003), consistent with most studies though some (Yilmaz, Jaju, Esfani et al.) found no significant correlation. Proposed mechanism (Haslett et al.): arteriolar dilatation, vessel wall hypertrophy/hyperplasia, arteriosclerosis → arterial wall thickening + luminal constriction → new collateral vessel formation → increased NC. No significant gender association (p=0.1955, consistent with Patni, Bali, Patel, Kaur, Esfani, Reddy et al.). No age association (p=0.482) — contrasts with several studies reporting NC increases with age. 67% of HTN patients showed max NC with bone loss up to middle 1/3 (consistent with Bilge et al. 70%, Patsakas et al. 58.3% for moderate bone loss; contrasts with Kumar et al. who found highest NC with severe bone loss 75.8%). No marked variation between hypertensive/non-hypertensive edentulous subjects (consistent with Kumar et al.).
+
+Periodontitis: 52% prevalence vs 20% controls (p=0.00085), consistent with Selarka et al. (54%) and Pandarinath et al. (48.8%). Severe interdental bone loss (71.2%) most associated with NC presence (consistent with Selarka, Patel, Kishi, Castelino et al.) — hypothesis: bone resorption directly related to NC occurrence/number; advanced periodontitis causes sclerotic trabecular changes; thinner bone structures increase radiographic NC detectability. No significant gender association (p=0.768, consistent with Pandarinath et al., though that study found highly significant differences vs control: 7% males, 5.2% females).
+
+Periapical location predominance (74.2% beyond root apex) confirms Reddy et al. findings and the recognized anatomic vascular supply pattern to the mandibular anterior region; contrasts with Kaur et al. who reported most canals interproximal.
+
+Disease duration significantly associated with NC presence for DM (p=0.047) and HTN (p=0.012) — contrasts with Kaur et al. who found no such correlation. Chronic hypertension patients undergo blood vessel calcification (terminal arteriosclerosis stage) — possible explanation for decline in NC occurrence in long-standing disease. Similar arteriosclerotic changes seen in elderly, diabetic, periodontitis patients.
+
+Limitation: single-center study; results may not represent the entire population. Further multicentric studies with larger populations needed for more precise results.
+
+CONCLUSION
+
+The radiographic presence of nutrient canals has always been controversial — some consider them normal anatomic structures, others pathologic entities associated with DM, hypertension, and periodontitis. Since IOPARs aid in identifying minute discrepancies in presentation, number, and position of nutrient canals, their radiographic appearance may raise suspicion of underlying undiagnosed systemic ailment such as DM and hypertension.
+
+This study demonstrated increased NC frequency in DM, hypertension, and periodontitis with significant p-values. A higher frequency of NC on mandibular anterior IOPAR may thus be employed as an ancillary screening and investigative aid in these systemic disorders. Most NCs were seen beyond the root apex, and a noteworthy relationship between disease duration and NC presence was found. However, no relationship between NC prevalence and age or gender could be established.

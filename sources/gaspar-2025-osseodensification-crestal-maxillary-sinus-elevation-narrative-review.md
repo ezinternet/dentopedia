@@ -15,8 +15,21 @@ OD를 이용한 경치조골 상악동거상술(transcrestal sinus lift)에 특�
 
 → 관련 wiki: [[wiki/overviews/osseodensification-clinical-applications]] / [[wiki/implants/versah-protocols/versah-densah-sinus-lift-i-protocol-rbh-6mm-minimum]]
 
-## One-line Summary
-Narrative review by lead OD-TSFE researchers proposing three RBH-stratified protocols (matched to Versah Sinus Lift I/II and Combined approaches) and synthesizing biomechanical, histologic, and clinical evidence.
+## Three-line Summary
+
+Narrative review by lead OD-TSFE researchers proposing three
+
+RBH-stratified protocols (matched to Versah Sinus Lift I/II
+
+and Combined approaches) and synthesizing biomechanical, histologic, and clinical evidence.
+
+## 세줄요약
+
+경치조 상악동 거상(TSFE) 시 골밀도화(OD) 기술: 남은뼈높이(RBH) 기준 3단계 프로토콜 제시
+
+RBH ≥6mm (Sinus Lift I), 4–5mm (Sinus Lift II), 2–3mm (확장 술식); RBH ≤3mm 천공 위험도 높음
+
+임상 결과·생체역학·조직학 근거 합성하나, 서술적 고찰이며 Versah 전용 장치로 제한
 
 ## 1. Document Information
 - **Title:** Osseodensification technique in crestal maxillary sinus elevation — A narrative review

@@ -13,13 +13,21 @@ source_collection: external
 
 기존 [[implants/soft-tissue/dadlani-2024-efficacy-xenogeneic-collagen-matrices-augmenting]]은 9편 연구(6편 MA)로 XCM vs 자가이식 전체를 분석했으나, 비교가교(non-crosslinked) vs 교가교(crosslinked) XCM 아형을 구분하지 않았다. 본 SR+MA(Ríos-Osorio 2025)는 17 RCT(14편 MA)를 포함하고, XCM* (비가교) vs VCMX (가교형) 서브그룹 분석을 최초로 통합해 VCMX가 CTG와 동등하다는 새 임상 시사점을 제공한다.
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 17 RCTs: non-crosslinked XCM inferior to CTG for mucosal thickness gain (MD 0.27 mm, P=0.01) but crosslinked XCM (VCMX) equals CTG; FGG superior to XCM* for keratinized mucosa width (MD 1.47 mm, P=0.0006) at implant sites.
+SR+MA of 17 RCTs: non-crosslinked XCM inferior to CTG for mucosal thickness gain (MD 0.27 mm, P=0.01) but crosslinked XCM (VCMX) equals CTG;
 
-## 한줄요약
+FGG superior to XCM* for keratinized mucosa width (MD 1.47 mm, P=0.0006) at implant sites.
 
-17편 RCT SR+MA: 임플란트 부위 연조직 증대에서 비가교 XCM은 CTG 대비 점막두께 열위(MD 0.27 mm)이나 가교형 VCMX는 CTG와 동등; FGG는 XCM* 대비 각화점막폭 1.47 mm 우위.
+(incomplete)
+
+## 세줄요약
+
+17편 RCT SR+MA: 임플란트 부위 연조직 증대에서 비가교 XCM은 CTG 대비 점막두께 열위(MD 0.27 mm)이나 가교형 VCMX는 CTG와 동등;
+
+FGG는 XCM* 대비 각화점막폭 1.47 mm 우위.
+
+(incomplete)
 
 ## 1. Document Information
 

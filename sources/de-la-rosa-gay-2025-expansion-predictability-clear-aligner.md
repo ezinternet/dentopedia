@@ -17,13 +17,21 @@ text_filename: de-la-rosa-gay-2025-expansion-predictability-clear-aligner.txt
 
 [[orthodontics/clear-aligner/fonseca-planells-2026-clear-aligner-maxillary-expansion-growing]] covers aligner maxillary expansion in *growing* patients (orthopedic potential). This adult-only retrospective cohort complements it by quantifying *which clinical factors* drive expansion underachievement in adults (where movement is purely dental tipping), and is the first study to use a multilevel (patient/arch/tooth) GLMM to adjust for confounding — supplying the adjusted effect sizes (arch, crossbite, tooth type, predicted-expansion magnitude) that single-landmark studies could not isolate.
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective cohort (98 adults, 720 tooth pairs, Invisalign SmartTrack) multilevel GLMM: mean planned-vs-achieved expansion discrepancy 0.92 mm, with 72.2% underexpansion; predictability is worse in the maxilla, in posterior teeth, with larger planned expansion, and with posterior crossbite (uni/bilateral) — best in the mandible and canine region.
+Retrospective cohort (98 adults, 720 tooth pairs, Invisalign SmartTrack, Barcelona) with multilevel generalized linear mixed model (GLMM) analysis of factors affecting clear-aligner expansion predictability.
 
-## 한줄요약
+Mean planned-vs-achieved expansion discrepancy was 0.92 mm (72.2% underexpansion); multivariate GLMM identified four independent predictors of worse predictability: maxillary arch (+0.47 mm vs mandible), bilateral crossbite (+0.55 mm), more posterior tooth position (1st molar +0.45 mm vs canine), and larger planned expansion (+0.14 mm per mm planned).
 
-후향 코호트(성인 98명·치아쌍 720개, 인비절라인 SmartTrack)에서 다수준 GLMM 분석 결과, 계획 대비 실제 확장의 절대 오차는 평균 0.92 mm(72.2%가 과소확장)였고, 상악·구치부·계획확장량이 클수록·후방 교차교합(편측/양측)일수록 예측성이 떨어졌으며 하악과 견치부에서 가장 신뢰도가 높았다.
+Clinicians should anticipate systematic underexpansion — especially in the posterior maxilla and in crossbite cases — and build overcorrection into aligner prescriptions; mandibular and canine expansion is the most reliable.
+
+## 세줄요약
+
+후향 코호트(성인 98명·치아쌍 720개, 인비절라인 SmartTrack, 바르셀로나): 다수준 일반화선형혼합모델(Generalized Linear Mixed Model, GLMM)로 투명교정장치(Clear Aligner Therapy, CAT) 치열궁 확장 예측성 결정 인자 분석.
+
+계획 대비 실제 확장의 평균 절대 오차 0.92 mm(72.2% 과소확장); 다변량 GLMM에서 예측성 저하의 독립 예측 인자: 상악(+0.47 mm vs 하악), 양측성 교차교합(+0.55 mm), 구치부(제1대구치 +0.45 mm vs 견치), 계획 확장량 클수록(1 mm당 +0.14 mm).
+
+상악 구치부 및 교차교합에서 과소확장을 예상하고 교정 처방에 과교정(Overcorrection)을 미리 반영해야 함; 하악과 견치 확장이 가장 예측 신뢰성이 높음.
 
 ## 1. Document Information
 

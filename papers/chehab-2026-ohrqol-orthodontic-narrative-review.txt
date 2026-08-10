@@ -1,0 +1,45 @@
+Title: Quality of Life in Orthodontic Patients Before and After Appliance Therapy: A Narrative Review
+Authors: Chehab A, Rosu S, Panaite T, Karvelas N, Bledea L, Zetu I, Balcos C
+Year: 2026
+Journal: Journal of Clinical Medicine 15(8):2973
+PMID: 42074775
+PMCID: PMC13116468
+DOI: 10.3390/jcm15082973
+
+ABSTRACT:
+Orthodontic treatment is increasingly recognised as a complex, patient-centred intervention whose impact extends beyond occlusal correction to include physical comfort, psychosocial well-being, and self-perceived esthetics. Oral health-related quality of life (OHRQoL) has therefore become a key outcome for evaluating orthodontic care across all treatment stages. This narrative review of 140 studies synthesises current evidence on OHRQoL changes in orthodontic patients before treatment, during active therapy, and after treatment completion, with particular emphasis on temporal patterns and appliance-related differences. Studies assessing OHRQoL or patient-reported outcomes in orthodontic patients of any age were included. Only studies employing validated instruments, such as OHIP, CPQ, OIDP, and PIDAQ, were considered. Dual-reviewer agreement κ=0.82. Sensitivity analyses comparing high-quality studies (low RoB, n=52) vs all studies.
+
+METHODS:
+Narrative review of 140 studies (PubMed, Scopus, Web of Science, Cochrane Library, Google Scholar; inception to December 2025). All ages, validated OHRQoL instruments (OHIP, CPQ, OIDP, PIDAQ). RoB assessment: ROBINS-I (non-RCTs) + Cochrane RoB (RCTs). Study distribution: 52 (37%) low RoB, 68 (49%) moderate, 20 (14%) high. Appliance types: fixed, lingual, clear aligners.
+
+KEY FINDINGS:
+
+Three-phase OHRQoL trajectory:
+Phase 1 (Days 1-4 weeks): Sharp decline — pain, discomfort, functional limitations
+Phase 2 (Weeks 4-6 months): Gradual recovery — patient adaptation, visible alignment changes
+Phase 3 (Post-treatment): Substantial improvement — self-esteem, social functioning, overall QoL
+
+Quantified pain/symptom metrics (across 140 studies):
+- Pain peaks within 24-48h: 87% of studies (n=122/140)
+- Pain resolves by 4-7 days: 79% of studies (n=111/140)
+- Mucosal irritation persists 2-4 weeks: 68% of studies (n=95/140)
+- Speech disturbances resolve by 2-3 weeks: 72% of studies (n=101/140)
+
+Appliance comparison:
+- Clear aligners: 65-75% of studies favor for early comfort (n=91/140)
+- Lingual appliances: 78% favor for esthetic satisfaction (n=109/140)
+- No significant long-term outcome differences in 82% of studies (n=115/140)
+
+Adolescent vs adult adaptation:
+- Adolescents with fixed appliances: 35% QoL decline, recovery by week 3-4
+- Adults with fixed appliances: 48% decline, recovery by week 4-6
+- Clear aligners: minimal decline (8-12%), rapid recovery (week 1-2)
+
+Psychological predictors of QoL trajectory:
+- Self-esteem: strongest predictor — higher baseline = faster adaptation
+- Aesthetic sensitivity: amplifies early burden but drives larger post-treatment gains
+- Coping style: adaptive strategies accelerate recovery
+- Expectations + communication: pre-informed patients adapt more smoothly
+
+CONCLUSIONS:
+Orthodontic treatment follows a dynamic three-phase OHRQoL trajectory: short-term impairment, mid-treatment adaptation, long-term enhancement. Clear aligners offer the best early QoL; lingual appliances superior esthetic satisfaction; fixed appliances versatile biomechanical control. Long-term gains are consistent across all appliance types. Systematic integration of validated OHRQoL measures into practice enhances patient-centered decision-making.

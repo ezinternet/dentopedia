@@ -1,0 +1,16 @@
+TITLE: Burnout and its related factors in Korean dentists.
+AUTHORS: Jin MU, Jeong SH, Kim EK, Choi YH, Song KB.
+YEAR: 2014
+DOI: 10.1111/idj.12142
+PMID: 25412905
+PMCID: PMC9376508
+============================================================
+Dentistry has been identified as one of the most stressful work environments. Knowledge of modifiable work-environment factors related to job stress could lead to a strategy and policy to provide a better work environment for dentists. The aims of this study were to examine the degree and distribution of burnout and to determine the factors associated with burnout subscale of Korean dentists.
+
+A cross-sectional survey of Korean dentists was conducted using a custom-designed and validated questionnaire that incorporated the Maslach Burnout Inventory Human Services Survey (MBI-HSS) as well as questions regarding sociodemographic and job-related characteristics. A random sample of 1,000 dentists was selected from 13,207 registered dentists in the Korean Dental Association. The MBI-HSS scores were summarised in the three dimensions of emotional exhaustion, depersonalisation, and personal sense of accomplishment. Bivariate and multivariate analyses were conducted to assess the prevalence of burnout and its related factors.
+
+The adjusted response rate was 45.9% (444/967). In the subscales of burnout, 41.2%, 55.9%, and 41.4% of respondents scored highly in emotional exhaustion and depersonalisation and poorly for personal sense of accomplishment, respectively. High burnout seems to be more likely to occur in association with some of the sociodemographic and job-related characteristics, especially younger age, male gender, without occupational calling, and unwilling to reselect dentistry as a job.
+
+This study suggests that burnout is a common problem in Korean dentists and that occupational calling and willingness to reselect dentistry as a job are important factors for managing burnout.
+
+Journal: International Dental Journal 2014;65(1):22-31. Institution: Kyungpook National University, Daegu, Korea (corresponding author Jin MU, Dept. of Conservative Dentistry).

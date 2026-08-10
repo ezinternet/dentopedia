@@ -6,7 +6,7 @@ date: 2026-02-27
 doi: 10.1111/jerd.70130
 source: malgaj-2026-cantilever-zirconia-rbfdp-alumina-coating.md
 category: [dental-materials/zirconia]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/malgaj-2026-cantilever-zirconia-rbfdp-alumina-coating.pdf
 pdf_filename: malgaj-2026-cantilever-zirconia-rbfdp-alumina-coating.pdf
 source_collection: external
@@ -18,13 +18,21 @@ relations:
     target: comba-2021-chemical-bonding-cubic-zirconia
 ---
 
-## One-line Summary
+## Three-line Summary
 
-8-year RCT (57 patients, 64 cantilever zirconia RBFDPs, mean 61.4 mo) — non-invasive nanostructured alumina coating (NAC) achieved retention (88.4%) statistically equivalent to airborne-particle abrasion (89.1%, p=0.99), with 100% prosthesis survival.
+Prospective double-blind RCT (CONSORT, NCT04693949, 57 patients, 64 cantilever 3Y-TZP resin-bonded FDPs, mean 61.4 months follow-up) comparing nanostructured alumina coating (NAC, non-invasive calcination-fired) versus conventional airborne-particle abrasion (APA) as bonding pretreatment.
 
-## 한줄요약
+NAC retention (88.4%) was statistically equivalent to APA (89.1%, log-rank p=0.99); overall prosthesis survival was 100% in both groups with 6 total debondings (3 per arm); SEM revealed NAC failures concentrated at the NAC–zirconia interface.
 
-8년 RCT (환자 57명, 캔틸레버 지르코니아 RBFDP 64개, 평균 61.4개월) — 비침습적 나노구조 알루미나 코팅(NAC) 유지율 88.4%가 분사연마(APA) 89.1%와 통계적으로 동등(p=0.99), 보철물 생존율 100%.
+NAC provides a minimally invasive pretreatment option with 5-year retention equivalent to APA, making it clinically relevant for high-yttria translucent zirconia where APA-induced surface flaws carry fracture risk; maxillary central incisors had the lowest retention (79%) regardless of pretreatment.
+
+## 세줄요약
+
+전향적 이중맹검 RCT(CONSORT, 57명, 캔틸레버 3Y-TZP RBFDP 64개, 평균 61.4개월): 나노구조 알루미나 코팅(NAC, 비침습 소성처리) vs 에어본 입자 연마(APA, 기존법) 사전처리 비교.
+
+NAC 유지율 88.4% = APA 89.1%(log-rank p=0.99) 통계적 동등; 양 군 보철물 생존율 100%, 총 탈락 6건(각 3건); SEM상 NAC 파절은 NAC-지르코니아 계면에 집중.
+
+NAC = 고이트리아 고투명 지르코니아(APA 표면 손상 우려)에 특히 유효한 비침습적 대안; 상악 중절치가 보철물 위치 중 유지율 최저(79%) — 위치 의존성 주의.
 
 ## Summary
 

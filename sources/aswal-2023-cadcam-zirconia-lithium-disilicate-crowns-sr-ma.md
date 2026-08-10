@@ -9,8 +9,21 @@ pdf_filename: aswal-2023-cadcam-zirconia-lithium-disilicate-crowns-sr-ma.pdf
 source_collection: external
 ---
 
-## One-line Summary
-CAD/CAM (zirconia, lithium disilicate) vs conventional SR+MA (13 studies, 1598 restorations): biological and technical complications NS; esthetic complications significantly higher in CAD/CAM (OR 16.88); survival rates comparable.
+## Three-line Summary
+
+SR+MA (PubMed, Cochrane, Embase, Wiley; 13 studies, 1598 restorations, 1161 patients; mean follow-up 3.6 years) comparing clinical outcomes of CAD/CAM (zirconia and lithium disilicate) versus conventional (metal-ceramic) full crowns and fixed partial dentures.
+
+Biological (OR 1.17) and technical (OR 1.14) complication rates were not significantly different between CAD/CAM and conventional restorations; however, esthetic complications were significantly more frequent with CAD/CAM (OR 16.88, 95% CI 7.59–37.56, P<0.00001), mainly color mismatch and surface roughness after adjustment.
+
+Survival and success rates were comparable, but the high esthetic-complication odds ratio flags color management and post-adjustment surface finishing as critical clinical challenges for CAD/CAM ceramic restorations; mean follow-up of only 3.6 years limits long-term conclusions.
+
+## 세줄요약
+
+SR+MA(PubMed·Cochrane·Embase·Wiley; 13편·보철물 1598개·환자 1161명; 평균 추적 3.6년) — CAD/CAM 방식(지르코니아·리튬 디실리케이트) vs 전통적(금속도재관) 전장관·고정성 부분 의치 임상 결과 비교.
+
+생물학적(OR 1.17) 및 기술적(OR 1.14) 합병증은 두 군 간 유의차 없었으나, 심미적 합병증은 CAD/CAM에서 유의하게 높음(OR 16.88, 95% CI 7.59–37.56, P<0.00001) — 주로 색 불일치와 조정 후 표면 거칠기.
+
+생존율·성공률은 비슷하나, 색 관리와 조정 후 표면 처리가 CAD/CAM 세라믹 보철의 핵심 임상 과제이며, 평균 3.6년 추적으로 장기 결론 도출에 한계가 있음.
 
 ## 1. Document Information
 - **Journal**: Cureus 2023, 15(4): e37888

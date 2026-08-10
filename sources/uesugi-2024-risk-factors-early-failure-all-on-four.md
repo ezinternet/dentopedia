@@ -17,13 +17,21 @@ text_filename: uesugi-2024-risk-factors-early-failure-all-on-four.txt
 
 조기 임플란트 실패 surveillance 배치에서 "즉시로딩 full-arch(all-on-four)"라는 고위험 시나리오의 위험인자를 다루는 대규모 후향연구. 일반 식립 코호트인 [[implants/yari-2023-risk-factors-early-implant-failure]]가 즉시 잠정보철을 위험인자(OR 3.42)로 지목한 것을, 즉시로딩만 모은 집단에서 후방상악·흡연으로 재확인·세분화한다. 또한 [[implants/fan-2024-smoking-early-implant-failure-sr-ma]]의 흡연 신호를 all-on-four 맥락에서 보강(OR 2.92).
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective cohort (561 patients / 2364 implants, all-on-four immediate loading): 1-year implant-level survival 98.9% (maxilla) vs 99.6% (mandible); multivariate risk factors for early failure were maxilla (OR 3.12) and smoking (OR 2.92), while photofunctionalisation showed a non-significant protective trend (OR 0.51, p=0.25).
+Retrospective cohort (561 patients / 2364 implants, all-on-four immediate loading): 1-year implant-level survival 98.9% (maxilla) vs 99.6% (mandible);
 
-## 한줄요약
+multivariate risk factors for early failure were maxilla (OR 3.12) and smoking (OR 2.92), while photofunctionalisation showed a non-significant protective trend (OR 0.51, p=0.25).
 
-후향 코호트(환자 561명 / 임플란트 2364개, all-on-four 즉시로딩): 1년 임플란트 단위 생존율 상악 98.9% vs 하악 99.6%; 조기 실패 다변량 위험인자는 상악(OR 3.12)·흡연(OR 2.92)이며, 광기능화(photofunctionalisation)는 보호 경향(OR 0.51)이나 비유의(p=0.25).
+(incomplete)
+
+## 세줄요약
+
+후향 코호트(환자 561명 / 임플란트 2364개, all-on-four 즉시로딩): 1년 임플란트 단위 생존율 상악 98.9% vs 하악 99.6%;
+
+조기 실패 다변량 위험인자는 상악(OR 3.12)·흡연(OR 2.92)이며, 광기능화(photofunctionalisation)는 보호 경향(OR 0.51)이나 비유의(p=0.25).
+
+(incomplete)
 
 ## 1. Document Information
 

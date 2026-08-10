@@ -6,7 +6,7 @@ date: 2026-01-01
 doi: 10.1097/MD.0000000000048502
 source: wang-2026-immediate-anterior-implant-primary-stability-aesthetic.md
 category: [immediate-implant/esthetic-soft-tissue]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 full_text: true
 pmid: "42116334"
@@ -24,13 +24,21 @@ relations:
     target: samet-2023-immediate-placement-loading-esthetic-zone
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Single-center retrospective cohort (n=120; 60 immediate vs 60 delayed, single maxillary anterior teeth): despite significantly lower primary stability at placement (ISQ 63.1 vs 71.5, P<.001), immediate placement achieved equivalent 12-month success (98.3% vs 96.7%) and final ISQ (P=.589) once thresholds (ITV ≥20 N·cm, ISQ ≥50) were met, with less marginal bone loss (0.48 vs 0.85 mm) and higher Pink Esthetic Score (11.47 vs 10.05).
+Single-center retrospective cohort (n=120; 60 immediate vs 60 delayed, single maxillary anterior teeth, 2022–2024) restricted to cases meeting minimum stability thresholds (ITV ≥20 N·cm, ISQ ≥50, intact labial plate, thick biotype).
 
-## 한줄요약
+Despite significantly lower primary stability at placement (ISQ 63.1 vs 71.5, P<.001), the immediate group achieved equivalent 12-month success (98.3% vs 96.7%) and final ISQ (P=.589), with less marginal bone loss (0.48 vs 0.85 mm) and higher Pink Esthetic Score (11.47 vs 10.05).
 
-단일기관 후향 코호트(n=120; 즉시 60 vs 지연 60, 단일 상악 전치): 식립 시 1차안정성은 즉시군이 유의하게 낮았지만(ISQ 63.1 vs 71.5), ITV ≥20 N·cm·ISQ ≥50 임계값 충족 시 12개월 성공률(98.3% vs 96.7%)과 최종 ISQ는 동등했고, 변연골소실은 더 적고(0.48 vs 0.85 mm) PES는 더 높았다(11.47 vs 10.05).
+Under strict indications with adequate primary stability, immediate placement matches delayed placement biologically while delivering an esthetic and patient-experience advantage; primary-stability thresholds, not timing alone, gate the outcome.
+
+## 세줄요약
+
+단일기관 후향 코호트(n=120; 즉시 60 vs 지연 60, 단일 상악 전치, 2022–2024) — ITV ≥20 N·cm·ISQ ≥50·협측판 온전·두꺼운 치은 생물형 충족 증례만 포함.
+
+식립 시 1차안정성은 즉시군에서 유의하게 낮았지만(ISQ 63.1 vs 71.5), 12개월 성공률(98.3% vs 96.7%)과 최종 ISQ는 동등; 변연골소실은 더 적고(0.48 vs 0.85 mm) PES는 더 높았다(11.47 vs 10.05).
+
+엄격한 적응증 하에 충분한 1차안정성이 확보되면 즉시식립이 생물학적으로 동등하면서 심미·환자만족도에서 유리; 결과를 좌우하는 것은 타이밍이 아니라 1차안정성 임계값이다.
 
 ## Summary
 

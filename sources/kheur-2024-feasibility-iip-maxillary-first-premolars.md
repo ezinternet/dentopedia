@@ -9,8 +9,21 @@ pdf_filename: kheur-2024-feasibility-iip-maxillary-first-premolars.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Radiographic feasibility study on 150 CBCTs of maxillary first premolars, proposing a prosthetically-driven classification system to predict optimal immediate implant location.
+## Three-line Summary
+
+Radiographic feasibility study on 150 CBCTs of
+
+maxillary first premolars, proposing a prosthetically-driven classification
+
+system to predict optimal immediate implant location.
+
+## 세줄요약
+
+Radiographic feasibility study on 150 CBCTs of
+
+maxillary first premolars, proposing a prosthetically-driven classification
+
+system to predict optimal immediate implant location.
 
 ## 1. Document Information
 - **Title:** Feasibility of Immediate Implant Placement in Maxillary First Premolars: Prediction of Implant Locations Using Restorations—A Radiographic Study
@@ -32,7 +45,7 @@ Substantial proportion of cases amenable to inter-radicular septum anchorage; a 
 Anatomy-only; no outcome data; single population.
 
 ## 6. Related Work
-- [[immediate-implant/smith-2013-classification-molar-extraction-immediate-implant]]
+- [[immediate-implant/molar-septum/smith-2013-classification-molar-extraction-immediate-implant]]
 - [[immediate-implant/deporter-2021-cbct-immediate-maxillary-molar-implant-planning]]
 
 ## 7. Glossary

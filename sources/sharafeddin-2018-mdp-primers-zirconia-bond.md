@@ -9,8 +9,21 @@ pdf_filename: sharafeddin-2018-mdp-primers-zirconia-bond.pdf
 source_collection: external
 ---
 
-## One-line Summary
-J Dent Shiraz 2018;19(1):48-56: Z-Prime Plus (conventional MDP) > All-Bond Universal (MDP) > control for zirconia SBS; both primers superior to untreated; Z-Prime highest (22.45 MPa).
+## Three-line Summary
+
+J Dent Shiraz 2018;19(1):48-56: Z-Prime Plus (conventional MDP) > All-Bond Universal (MDP) > control for zirconia SBS
+
+both primers superior to untreated
+
+Z-Prime highest (22.45 MPa).
+
+## 세줄요약
+
+J Dent Shiraz 2018;19(1):48-56: Z-Prime Plus (conventional MDP) > All-Bond Universal (MDP) > control for zirconia SBS
+
+both primers superior to untreated
+
+Z-Prime highest (22.45 MPa).
 
 ## 1. Document Information
 Journal: J Dent Shiraz Univ Med Sci 2018;19(1):48-56

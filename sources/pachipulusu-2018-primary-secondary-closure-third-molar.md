@@ -13,11 +13,21 @@ source_collection: external
 
 Part of a focused collection on suture techniques and primary wound closure after impacted mandibular third molar surgery. This RCT frames the question as primary vs secondary *closure* (full suturing vs leaving a drainage window) and reports the recurring pattern that secondary closure reduces pain/swelling/trismus while periodontal healing is unaffected — the same closure-type signal seen in [[suture-wound-closure/kumar-2022-suture-versus-sutureless-third-molar-impactions]], with periodontal equivalence echoed by [[suture-wound-closure/aghdashi-2020-sling-single-interrupted-sutures-third-molar]].
 
-## One-line Summary
-RCT (n=60, 30 per arm) comparing primary vs secondary closure after impacted mandibular third molar removal; secondary closure gave significantly less pain and swelling and greater mouth opening (p<0.05), with no difference in periodontal healing at 6 months (alveolar osteitis in 1 secondary-closure patient, 3.3%).
+## Three-line Summary
 
-## 한줄요약
-하악 매복 사랑니 발치 후 1차 폐쇄 대 2차 폐쇄를 비교한 무작위배정 임상시험(n=60, 군당 30명). 2차 폐쇄군이 통증·부종이 유의하게 적고 개구량이 더 컸으며(p<0.05), 6개월 시점 치주 치유에는 차이가 없었다(건성발치와는 2차 폐쇄군 1명, 3.3%).
+RCT (n=60, 30 per arm) comparing primary vs secondary closure after impacted mandibular third molar removal;
+
+secondary closure gave significantly less pain and swelling and greater mouth opening (p<0.05), with no difference in periodontal healing at 6 months (alveolar osteitis in 1 secondary-closure patient, 3.3%).
+
+(incomplete)
+
+## 세줄요약
+
+하악 매복 사랑니 발치 후 1차 폐쇄 대 2차 폐쇄를 비교한 무작위배정 임상시험(n=60, 군당 30명).
+
+2차 폐쇄군이 통증·부종이 유의하게 적고 개구량이 더 컸으며(p<0.05), 6개월 시점 치주 치유에는 차이가 없었다(건성발치와는 2차 폐쇄군 1명, 3.3%).
+
+(incomplete)
 
 ## 1. Document Information
 - **Title**: Comparative study of primary and secondary closure of the surgical wound after removal of impacted mandibular third molars

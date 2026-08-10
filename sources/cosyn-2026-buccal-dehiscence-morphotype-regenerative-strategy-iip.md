@@ -17,13 +17,21 @@ text_filename: cosyn-2026-buccal-dehiscence-morphotype-regenerative-strategy-iip
 
 Existing buccal-dehiscence IIP pages ([[immediate-implant/esthetic-soft-tissue/qian-2023-iip-buccal-bone-dehiscence-anterior-maxilla]], [[immediate-implant/esthetic-soft-tissue/pohl-2022-iipp-anterior-maxilla-buccal-dehiscence-pilot]]) demonstrate that IIP can work in dehisced sockets but, as Cosyn notes, almost never report the *vertical and lateral extent* that actually determines regenerative potential — so they remain proof-of-principle. This Cosyn 2026 conceptual review (Ghent) supplies the missing decision layer: an 11-morphotype classification (vertical Elian/Chu Type II-a/b/c × lateral contained/PC/NC + Type III) that maps each socket to one of three escalating regenerative strategies (modified trimodal → four-pillar non-supportive barrier → four-pillar supportive barrier + composite graft), and names the two absolute IIP contraindications. It extends the single-paper evidence into a usable case-selection framework.
 
-## One-line Summary
+## Three-line Summary
 
-Conceptual review (Cosyn & De Bruyckere, Ghent) proposing 11 buccal-dehiscence morphotypes (vertical Type II-a/b/c × lateral contained/partially-contained/non-contained, plus Type III & extended defects) for IIP; 2 are absolute contraindications and the other 9 map to 3 escalating regenerative strategies by regenerative potential.
+Conceptual narrative review (Cosyn & De Bruyckere, Ghent 2026) synthesizing prior classifications to propose 11 buccal-dehiscence morphotypes (vertical Type II-a/b/c × lateral contained/partially-contained/non-contained + Type III and extended defects) for IIP case selection.
 
-## 한줄요약
+Type III (dehiscence + facial recession) and extended defects to adjacent teeth are absolute IIP contraindications; the remaining 9 morphotypes map to 3 escalating regenerative strategies (modified trimodal → four-pillar non-supportive barrier → four-pillar supportive barrier + composite graft) by decreasing regenerative potential.
 
-협측 열개(buccal dehiscence) 소켓의 즉시식립을 위해 수직(Type II-a/b/c)·측방(contained/PC/NC) 범위와 안면 연조직 지지로 11개 morphotype을 제안한 개념 리뷰 — Type III와 extended defect 2개는 절대 금기, 나머지 9개는 재생 잠재력에 따라 3단계 술식(modified trimodal → non-supportive barrier 4-pillar → supportive barrier + composite graft 4-pillar)으로 매핑.
+All nine treatable-morphotype strategies require prospective clinical validation; meanwhile the framework is intended to guide case selection and communicate complexity, not replace RCT-level evidence.
+
+## 세줄요약
+
+개념 서술 리뷰 (Cosyn & De Bruyckere, Ghent 2026): 기존 분류(Elian, Chu, Kan)를 통합해 수직(Type II-a/b/c)·측방(contained/PC/NC) 열개 범위 + 연조직 지지 기준으로 11개 buccal-dehiscence morphotype을 즉시식립 (Immediate Implant Placement, IIP) 케이스 선택에 적용.
+
+Type III(열개+협측 퇴축)와 인접치까지 확장된 결손은 절대 금기 2종 — 나머지 9종은 재생 잠재력에 따라 modified trimodal → non-supportive barrier 4-pillar → supportive barrier + composite graft 4-pillar 3단계로 매핑.
+
+9개 치료 가능 morphotype별 술식은 미검증 상태로 향후 임상연구 필요 — 현재는 케이스 선택 복잡도를 체계화하는 의사결정 프레임워크로 활용.
 
 ## 1. Document Information
 

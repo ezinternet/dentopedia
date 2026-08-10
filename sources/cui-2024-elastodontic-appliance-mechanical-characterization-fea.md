@@ -17,13 +17,21 @@ text_filename: cui-2024-elastodontic-appliance-mechanical-characterization-fea.t
 
 This paper supplies the **material/biomechanics substrate** for the EF-Line/elastodontic family: it explains *how* silicone elastomer elastodontic appliances (EAs) deliver light, biocompatible force (viscoelastic stress-softening / Mullins effect) and *how* that force-delivery degrades with intraoral and artificial salivary aging. Where the sibling scoping review [[wiki/orthodontics/myofunctional/ureni-2024-elastodontic-devices-sagittal-malocclusion-scoping-review]] catalogs *clinical* sagittal-malocclusion outcomes, this study grounds the force-mechanism and the 6–9-month replacement window in measured mechanical/structural data (compression set, peak stress, FTIR/XRD/SEM), and flags an alkaline-saliva (periodontitis) degradation risk that has direct protocol implications.
 
-## One-line Summary
+## Three-line Summary
 
-In-vitro mechanical + structural bench study (46 EAs artificial-aged at pH 6/7/8 + 5 clinically retrieved EAs, 2–12 mo) showing elastodontic appliances are PDMS + silica-filler viscoelastic elastomers whose stress-softening (Mullins) ability and peak stress decline and compression set rises with aging — driven by side-chain (–CH₃) scission + Si–O–Si main-chain crosslinking, accelerated under alkaline (OH⁻) saliva, with structural integrity still acceptable up to ~6 months of clinical service.
+In-vitro mechanical and structural bench study of 46 artificially aged elastodontic appliances (EA; pH 6/7/8, up to 3 months) plus 5 clinically retrieved EAs (2–12 months), identifying the polymer chemistry and force-delivery mechanism of silicone elastomer myofunctional devices.
 
-## 한줄요약
+EAs are polydimethylsiloxane (PDMS) + silica-filler viscoelastic elastomers; with aging, stress-softening (Mullins index) and peak stress decrease while compression set rises — accelerated under alkaline (pH 8) saliva via side-chain (–CH₃) scission and Si–O–Si crosslinking; peak stress fell from ~14.8 to ~9.8–10.4 N by 3 months of artificial aging.
 
-체외 기계·구조 분석 연구(인공노화 EA 46개 pH 6/7/8 + 임상 회수 EA 5개 2~12개월): 엘라스토돈틱 장치(Elastodontic Appliance, EA)는 PDMS + 실리카 필러 점탄성 엘라스토머이며, 노화될수록 응력연화(Mullins 효과)와 최대응력은 감소하고 압축영구변형(Compression Set, CS)은 증가한다. 기전은 측쇄(–CH₃) 절단 + Si–O–Si 주쇄 가교이며 알칼리(OH⁻) 타액에서 가속되고, 구조적 무결성은 임상 사용 약 6개월까지는 허용 가능하다.
+Structural integrity remains acceptable up to approximately 6 months of clinical service; periodontitis patients (alkaline saliva) face faster degradation, suggesting a shorter replacement interval and possible need for surface modification.
+
+## 세줄요약
+
+체외 기계·구조 분석 연구: 인공노화 엘라스토돈틱 장치(Elastodontic Appliance, EA) 46개(pH 6/7/8, 최대 3개월) + 임상 회수 EA 5개(2~12개월)를 대상으로 실리콘 엘라스토머 근기능 장치의 고분자 화학 및 힘 전달 기전 규명.
+
+EA는 폴리다이메틸실록세인(Polydimethylsiloxane, PDMS) + 실리카 필러 점탄성 엘라스토머; 노화 시 Mullins 지수(응력연화)와 최대응력 감소, 압축영구변형(Compression Set, CS) 증가 — 알칼리(pH 8) 타액에서 측쇄(–CH₃) 절단 + 주쇄(Si–O–Si) 가교로 가속; 최대응력은 인공노화 3개월 시 약 14.8 N에서 9.8–10.4 N으로 감소.
+
+구조적 무결성은 임상 사용 약 6개월까지 허용 가능; 치주염 환자(알칼리 타액)는 열화가 빨라 교체 주기 단축 및 표면 개질(Surface Modification) 고려 필요.
 
 ## 1. Document Information
 

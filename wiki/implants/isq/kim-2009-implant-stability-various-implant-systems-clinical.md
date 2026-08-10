@@ -6,7 +6,7 @@ date: 2009-01-01
 doi: 10.4047/jap.2009.1.1.31
 source: kim-2009-implant-stability-various-implant-systems-clinical.md
 category: [implants/isq]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/kim-2009-implant-stability-various-implant-systems-clinical.pdf
 pdf_filename: kim-2009-implant-stability-various-implant-systems-clinical.pdf
 source_collection: external
@@ -18,13 +18,21 @@ relations:
     target: nandini-2022-cylindrical-vs-tapered-implant-isq
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Prospective clinical study (28 patients, 45 implants across 3 systems — Astra Osseospeed/Camlog/Replace, single-stage, unloaded) tracking ISQ over 24 weeks: ISQ change patterns over time differed by bone type, not by implant system (time × bone-type interaction P=.0022/.017/.0018); stability rose sharply weeks 0–6 (biggest gain in soft Type 4 bone, ~48–56%) then plateaued to 6 months; 45/45 survived.
+Prospective clinical study (28 patients, 45 implants across 3 systems — Astra Osseospeed, Camlog, Replace; single-stage, unloaded) tracking ISQ at 7 time points over 24 weeks to determine whether healing trajectories differ by implant system or bone type.
 
-## 한줄요약
+ISQ change patterns were governed by bone type, not by implant system (significant time × bone-type interaction in all 3 systems: P=.0022/.017/.0018); stability rose sharply in weeks 0–6 (soft Type 4 bone gained ~48–56%, dense Type 1 gained ~0.5–7%) then plateaued; 45/45 survived.
 
-전향적 임상연구(환자 28명, 임플란트 45개, 3개 시스템 — Astra/Camlog/Replace, 단일 단계, 무하중)에서 24주간 임플란트 안정성 지수 (Implant Stability Quotient, ISQ)를 추적: ISQ의 시간 변화 패턴은 임플란트 시스템이 아니라 골질 유형 (bone type)에 따라 갈렸고(시간×골질 상호작용 P=.0022/.017/.0018), 안정성은 0~6주에 급증(연약한 4형 골에서 증가폭 최대 ~48–56%) 후 6개월까지 정체했으며, 45개 모두 생존했다.
+The ISQ healing curve shape is set by Lekholm & Zarb bone type regardless of implant design, with the largest relative gains occurring in the softest bone — confirming a system-agnostic, bone-driven early stabilization model.
+
+## 세줄요약
+
+전향적 임상연구(28명, 45개 임플란트, 3개 시스템 — Astra Osseospeed·Camlog·Replace; 단일 단계, 무하중): 7시점 24주 ISQ 추적으로 치유 궤적이 시스템별인지 골질별인지 규명하였다.
+
+ISQ 변화 패턴은 임플란트 시스템이 아닌 골질 유형에 의해 결정됨(3개 시스템 모두 시간×골질 상호작용 유의: P=.0022/.017/.0018); 0~6주에 급증(연약한 4형 ~48–56% 증가, 치밀한 1형 ~0.5–7%) 후 정체; 전체 생존율 100%.
+
+ISQ 치유 곡선의 형태는 임플란트 설계와 무관하게 Lekholm & Zarb 골질 유형에 의해 결정되며, 가장 연약한 골에서 상대적 회복폭이 가장 크다 — 시스템 비의존적·골주도 안정화 모델을 뒷받침한다.
 
 ## Summary
 

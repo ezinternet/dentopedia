@@ -17,13 +17,21 @@ text_filename: zarei-2026-final-irrigation-postoperative-pain-necrotic-molar-rct
 
 Prior irrigation-activation evidence on our shelf ([[endodontics/irrigation/paixao-2022-sonic-ultrasonic-activation-sr-ma]], [[endodontics/irrigation/orozco-gallego-2025-irrigation-protocols-endodontic-umbrella]]) mostly shows activation (PUI/sonic) reduces postoperative pain vs conventional needle irrigation but pools mixed pulpal diagnoses and rarely benchmarks activation against the *modern safe needle* (side-vented). This RCT isolates asymptomatic necrotic mandibular first molars (a high-risk flare-up subgroup) and directly compares PUI vs side-vented needle irrigation (SNI) vs conventional needle irrigation (CNI) — testing whether ultrasonic activation adds clinical value over an optimized needle, which refines the activation-superiority message in those reviews.
 
-## One-line Summary
+## Three-line Summary
 
 Single-blind RCT (n=45, 15/group) — in single-visit RCT of asymptomatic necrotic mandibular first molars, both PUI and side-vented needle irrigation lowered postoperative pain, swelling, and analgesic use vs conventional needle irrigation at 24–72 h, with no PUI-vs-SNI difference.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 단일맹검 RCT (n=45, 군당 15명) — 무증상 괴사 하악 제1대구치 단일내원 근관치료에서 수동초음파세정(PUI)과 측방배출침세정(SNI) 모두 24~72시간 수술후 통증·부종·진통제 사용을 일반침세정(CNI)보다 낮췄고, PUI와 SNI 간 차이는 없었다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

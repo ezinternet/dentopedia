@@ -1,0 +1,63 @@
+Title: The migration of the bovine-derived xenograft particles: A case series
+Authors: Nowzari H, Teoh C, Rodriguez AE
+Journal: Journal of Indian Society of Periodontology, 2022;26(2):178-185
+PMID: 35321292
+PMCID: PMC8936023
+DOI: 10.4103/jisp.jisp_494_20
+Source: PubMed Central (full text, retrieved via PubMed MCP)
+
+ABSTRACT
+
+The long-term safety of xenografts and their potential association with disease are valid concerns. Bovine bone substitutes which are by far the most commonly used xenografts in dentistry are not biodegradable. The aim of the present report was to raise awareness on the long-term risks of the bovine-derived xenografts. Patients who experienced clinical complications after xenografting are reported. Patients' demographic, significant medical, and dental findings are reported. Complications included migration/encapsulation/displacement of the graft material, chronic inflammation, and soft-tissue disturbances/fenestrations. Albeit some xenograft complications are not significant enough to compromise the initial outcomes achieved, the xenografted particles seemed to be left intact favoring conditions for migration. The authors observed the inability of the human host to biodegrade the xenograft particles. The intact/migrated bovine bone particles present a risk to patients and may contribute to long-term clinical complications in implant dentistry.
+
+INTRODUCTION
+
+The frequency of surgeries involving bovine-derived xenografts has increased significantly in implant dentistry. The long-term safety of xenografts and their potential association with disease are valid concerns. Bovine bone substitutes which are by far the most commonly used xenografts in dentistry are not biodegradable. Based on our observations, it seems that the host is unable to degrade and replace the xenograft particles, contrary to the currently accepted "safety" concept of the "slow turnover" of bovine-derived xenografts. However, research reporting about clinical complications remained scarce.
+
+Biodegradation is the naturally occurring breakdown of materials by the host biological activity, and phagocytosis is a major mechanism used to remove mineral particles. Mechanical properties of the graft interface and its surrounding tissues are critical for the host response. The microstructural and mechanical properties of the xenograft bovine bone substitutes appear to be quite resistant to humans' capability to degrade it. In cases of clinical complications associated with the intact/migrated xenograft particles, the resolution of the complications is often achieved by the removal of the graft materials. The surgical removal of the migrated xenograft particles requires thorough clinical evaluation, diagnosis, and advanced surgical skills.
+
+The authors' clinical impression/observations are supported by other studies that have revealed the migration potential of the bovine-derived bone particles after bone augmentation procedures. Seok et al. analyzed the mechanisms of migration by histologic section and energy dispersive X-ray microanalysis using animal experiments and evidenced the distant migration of the xenograft (Bio-Oss). The inability of the human host to eliminate the xenograft particles may contribute to the eventual migration/complications associated with the intact xenografted particles.
+
+The aim of the present report was to raise awareness on the long-term risks of the bovine-derived xenograft migration and/or displacement from the surgical site associated with foreign body reactions, encapsulation, chronic inflammation, and soft-tissue fenestrations.
+
+CASE REPORTS
+
+All patients were provided with the written informed consent documents. Identities of the patients and health-care providers have been excluded from the study. Primary ethical approval was obtained by the competent local authority.
+
+Case 1: 34-year-old healthy female. Extraction of maxillary right central incisor + socket augmentation (Bio-Oss + free gingival punch graft). After orthodontics (>1yr), Straumann bone level implant placed in optimal 3D position with contour augmentation (Bio-Oss + Bio-Gide collagen membrane). At final restoration insertion, xenograft particles detected at peri-implant sulcus, radiographically "embedded" in peri-sulcus area, 3-year follow-up.
+
+Case 2: 70-year-old healthy female. Fractured maxillary right lateral incisor, thin biotype, buccal bone missing. Straumann NC implant + autogenous bone chips + contour augmentation (Bio-Oss Collagen + Bio-Gide). At healing abutment removal (2 months), xenograft particles detected on buccal side of future peri-implant sulcus. 3 years after xenografting, more particles noticed surfacing in peri-implant sulcus.
+
+Case 3: 45-year-old healthy female. Fractured maxillary right central incisor, thin biotype, high lip line. Immediate implant placement and loading; buccal cortical ≤1mm; gap filled with Bio-Oss + connective tissue graft. At 3 months (temporary restoration removal), multiple xenograft particles clearly embedded in peri-implant sulcus (patient asymptomatic). Particles noticed surfacing in peri-implant sulcus 6 years after grafting.
+
+Case 4: 55-year-old healthy female. Ailing maxillary right central incisor (periapical periodontitis) extracted; 6 months post-extraction buccal soft-tissue collapse. Straumann bone level implant + autogenous bone chips + contour augmentation (Bio-Oss + Bio-Gide). At final restoration insertion, xenograft particles detected at peri-implant sulcus. In radiograph at 3 years post-xenografting, migrated particles clearly detected "floating" in peri-sulcus area.
+
+Case 5: 62-year-old healthy female. Left mandibular lateral incisor removed after failed root canal treatment; thin biotype; buccal contour collapse. Straumann SC implant + contour augmentation (Bio-Oss Collagen + Bio-Gide). Two years after xenografting, bone particles clearly detectable in peri-implant sulcus.
+
+Case 6: 71-year-old healthy male. Fractured right maxillary central incisor, thick biotype, low lip line. Immediate implant placement + immediate loading; gap filled with Bio-Oss + connective tissue graft. At impression (2 months), multiple xenograft particles clearly embedded in peri-implant sulcus (asymptomatic). Three years after xenografting, at delivery stage, xenograft particles still present in peri-implant sulcus (also visible radiographically).
+
+Case 7: 80-year-old healthy male. Fractured maxillary anterior fixed partial denture (natural tooth + implant abutment with fractured screw, left as sleeping implant). Extraction + immediate implant + two additional implants; gap filled with Bio-Oss. At delivery stage, 4 years after grafting, xenograft particles still present in peri-implant sulcus (patient asymptomatic).
+
+DISCUSSION
+
+During the past three decades, replacement of missing teeth with implant-supported restorations has become increasingly common. While implant-supported restorations do not share the risk of dental caries, they are susceptible to peri-implant mucositis and peri-implantitis, just as natural dentition is subject to gingivitis and periodontitis. The inability of humans to biodegrade bovine bone xenografts presents a long-term risk in implant dentistry that could contribute to clinical complications and may favor the eventual migration of intact particles.
+
+Many authors have suggested the "slow-turnover" or "slow-resorbing" concept for resorption and replacement of bovine bone xenografts. However, no scientific article or clinician has ever demonstrated the complete biodegradation and replacement of bovine bone substitutes in humans. On the contrary, the presence of bovine bone particles without significant size change has been found in humans even after 20 years. Evidence suggests that the human host is unable to biodegrade the xenograft particles. The bovine bone xenograft is not biodegradable.
+
+In accordance with other studies, the present consecutive clinical cases observed the host inability to biodegrade the particles favoring migration of the xenograft material. Seok et al. demonstrated migration potential of xenograft particles (Bio-Oss) in an animal experiment, and reported a clinical case where lymphatic vessels of the submandibular gland contained foreign materials morphologically similar to those of the maxillary sinus in a human. The xenograft particle microscopic structural and mechanical properties may play a role in their resistance to human biodegradation. Migration and/or displacement of xenograft materials have been associated with clinical complications. Rodriguez and Nowzari reported resolution of xenograft clinical complications by surgical removal of the bone graft material.
+
+Peri-implant mucositis is defined as reversible inflammatory changes of peri-implant soft tissues in the absence of bone loss. Peri-implantitis is defined as an inflammatory process affecting tissues around an osseointegrated implant in function, resulting in loss of supporting bone. The prevalence of peri-implantitis has been reported to be as low as approximately 1% to as high as 47%; peri-implant mucositis prevalence generally ranges from 19% to 65%. For most cases, the usual onset of peri-implantitis occurs within 3 years of function.
+
+Peri-implant xenograft particles may elicit a pathological immune response regulated by key cytokines (TNF-alpha, IL-1β, TGF-β, IL-10) that control progression and/or suppression of the inflammatory response. However, there is no known cytokine level threshold to differentiate a stable site from initiation of a pathologic process in peri-implant tissues. Xenograft bone particles have been associated with lymphocytes and macrophages. Chronic overproduction of pro-inflammatory cytokines released by monocytes/macrophages and lymphocytes in response to the host's inability to resorb xenograft particles could lead to breakdown of peri-implant tissues, compromising long-term outcome.
+
+In addition, due to the microscopic structural properties of xenograft bone particles, the particles may also serve as bacterial reservoirs, contributing further to possible long-term implant-related complications. Dental implant-related surgical devices/products can and do get colonized by periodontal pathogens during intraoral manipulation; microbial colonization occurs within minutes during surgical procedures, regardless of infection control protocols. Bacterial colonization over xenograft particles may be an inevitable event given particle microstructural topography and clinician manipulation.
+
+The plausibility of bovine-derived bone substitutes in producing immune reactions, disease transmission, and clinical complications is present. Although some xenograft complications are not significant enough to compromise initial achieved outcomes, as regular turnover of host tissues continues through lifetime, xenograft particles seem to be left intact, favoring conditions for long-term complications.
+
+CONCLUSION
+
+The bovine bone xenograft is not biodegradable. Although some xenograft complications are not significant enough to compromise initial outcomes achieved, the authors' clinical impression/observations revealed the inability of the human host to biodegrade xenograft particles. The intact/migrated bovine bone particles may pose a risk to patients and contribute to long-term clinical complications in implant dentistry.
+
+Declaration of patient consent: The authors certify that they have obtained all appropriate patient consent forms.
+Financial support and sponsorship: Nil.
+Conflicts of interest: None declared.

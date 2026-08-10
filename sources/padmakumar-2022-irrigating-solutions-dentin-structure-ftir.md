@@ -9,8 +9,21 @@ pdf_filename: padmakumar-2022-irrigating-solutions-dentin-structure-ftir.pdf
 source_collection: external
 ---
 
-## One-line Summary
-In vitro FTIR + SEM study (n=48): silver citrate and ozonated olive oil cause less chemical alteration of root dentin than NaOCl 5.25%; silver citrate removes smear layer on SEM; all solutions lower microhardness vs. control.
+## Three-line Summary
+
+In vitro FTIR + SEM study (n=48): silver citrate and ozonated olive oil cause less chemical alteration of root dentin than NaOCl 5.25%
+
+silver citrate removes smear layer on SEM
+
+all solutions lower microhardness vs. control.
+
+## 세줄요약
+
+In vitro FTIR + SEM study (n=48): silver citrate and ozonated olive oil cause less chemical alteration of root dentin than NaOCl 5.25%
+
+silver citrate removes smear layer on SEM
+
+all solutions lower microhardness vs. control.
 
 ## 1. Document Information
 - **Journal**: Journal of Functional Biomaterials 13(4):197, 2022

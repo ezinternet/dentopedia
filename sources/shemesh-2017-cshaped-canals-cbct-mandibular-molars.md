@@ -13,13 +13,21 @@ source_collection: external
 
 Adds a large-sample Israeli/Middle-Eastern data point to the C-shaped-canal prevalence cluster and contributes two clinically actionable findings beyond a raw prevalence number — asymmetry (only 55% bilateral) and configuration change along the root (63%) — which together argue against extrapolating one tooth/one level to its contralateral or apical counterpart. It reinforces the C-shaped morphology baseline of [[endodontics/anatomy/song-2008-cross-sectional-morphology-and-minimum-canal]] and pairs with sibling prevalence studies [[endodontics/anatomy/yu-2012-cbct-mandibular-premolars-root-canal-morphology]], [[endodontics/anatomy/shekarian-2023-cshaped-canals-three-rooted-mandibular-iranian]], and [[endodontics/anatomy/singh-2022-cshaped-canal-second-molars-indian-cbct]].
 
-## One-line Summary
+## Three-line Summary
 
-CBCT cross-sectional study (1020 Israeli patients; 1465 second + 1229 first mandibular molars): C-shaped canal prevalence 4.6% in second and 0.16% in first mandibular molars, with 55% unilateral occurrence and configuration changing along the root in 63% of cases.
+CBCT cross-sectional study (1020 Israeli patients;
 
-## 한줄요약
+1465 second + 1229 first mandibular molars): C-shaped canal prevalence 4.6% in second and 0.16% in first mandibular molars, with 55% unilateral occurrence and configuration changing along the root in 63% of cases.
+
+(incomplete)
+
+## 세줄요약
 
 이스라엘 환자 1020명 CBCT 단면 연구(하악 제2대구치 1465개·제1대구치 1229개) — C-shaped canal 유병률은 제2대구치 4.6%·제1대구치 0.16%로 낮은 편이며, 55%는 편측성, 63%에서 근관 형태가 치근 길이를 따라 변함.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

@@ -11,15 +11,23 @@ source_collection: external
 
 ## Why Ingested
 
-즉시식립 fixture–socket gap에 골대체재(Bone-Substitute Material, BSM)를 채우는 것이 협측골 흡수·심미·합병증에 미치는 효과의 대규모 RCT 근거(20 RCT). gap grafting을 다룬 [[immediate-implant/sanz-2017-bone-graft-gap-immediate-implant-rct]]·[[immediate-implant/seyssens-2022-immediate-implant-socket-grafting-sr-ma]]를 보강하고, 콜라겐 변수를 더한 [[immediate-implant/liu-2023-collagen-immediate-implant-soft-hard-tissue-sr-ma]]의 모논문 격이다.
+즉시식립 fixture–socket gap에 골대체재(Bone-Substitute Material, BSM)를 채우는 것이 협측골 흡수·심미·합병증에 미치는 효과의 대규모 RCT 근거(20 RCT). gap grafting을 다룬 [[immediate-implant/gap-grafting/sanz-2017-bone-graft-gap-immediate-implant-rct]]·[[immediate-implant/gap-grafting/seyssens-2022-immediate-implant-socket-grafting-sr-ma]]를 보강하고, 콜라겐 변수를 더한 [[immediate-implant/gap-grafting/liu-2023-collagen-immediate-implant-soft-hard-tissue-sr-ma]]의 모논문 격이다.
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 20 RCTs (848 patients, 916 sites) showing bone-substitute grafting of the immediate-implant gap reduces horizontal buccal bone resorption (MD −0.52 mm) and improves esthetic score (MD +1.49) but increases complications (RR 3.50), with no effect on implant failure (RR 0.92); GRADE certainty mostly moderate.
+SR+MA of 20 RCTs (848 patients, 916 sites) showing bone-substitute grafting of the immediate-implant gap reduces horizontal buccal bone resorption (MD −0.52 mm) and improves esthetic score (MD +1.49) but increases complications (RR 3.50), with no effect on implant failure (RR 0.92);
 
-## 한줄요약
+GRADE certainty mostly moderate.
+
+(incomplete)
+
+## 세줄요약
 
 20개 RCT(848명·916부위) SR+MA — 즉시식립 gap에 골대체재를 채우면 수평 협측골 흡수가 줄고(MD −0.52 mm) 심미 점수가 높아지나(MD +1.49) 합병증은 증가하며(RR 3.50), 임플란트 실패율에는 차이가 없었다(RR 0.92).
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

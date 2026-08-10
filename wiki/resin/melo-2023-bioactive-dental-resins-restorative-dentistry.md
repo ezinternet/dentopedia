@@ -6,18 +6,28 @@ date: 2023-08-09
 doi: "10.1177/00220345231182357"
 source: melo-2023-bioactive-dental-resins-restorative-dentistry.md
 category: [resin]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/melo-2023-bioactive-dental-resins-restorative-dentistry.pdf
 pdf_filename: melo-2023-bioactive-dental-resins-restorative-dentistry.pdf
 source_collection: external
 tags: [bioactive-resin, secondary-caries, antimicrobial-monomer, remineralization, nanoparticle, QAM, NACP, MMP-inhibition]
 ---
 
-## One-line Summary
-Narrative critical review of bioactive dental resin strategies (metallic nanoparticles, QAMs, mineralizing agents) for secondary-caries prevention, quantifying that high-caries-risk patients have a ~3× higher annual restoration failure rate (4.6% vs. 1.6%) and identifying agglomeration, color change, and loss of mechanical properties as the chief barriers to clinical translation.
+## Three-line Summary
 
-## 한줄요약
-Narrative review: 이차 우식 예방 bioactive resin 전략 총괄 — 고위험 환자 연간 실패율 4.6% (저위험 1.6%의 약 3배); 입자 응집·색상 변화·기계적 물성 저하가 임상 적용의 주요 장벽.
+Narrative critical review (J Dent Res 2023) of three classes of bioactive dental resin strategies — metallic/metal-oxide nanostructures, polymeric antimicrobials (QAMs, QPEI, MDPB), and mineralizing agents (NACP) — for secondary-caries prevention.
+
+High-caries-risk patients have a ~3× higher annual restoration failure rate (4.6% vs 1.6%); combined 5% DMAHDM + 20% NACP composite significantly reduced total CFU and key periopathogens (p<0.05) in multispecies biofilm models.
+
+Despite >20 years of bench research, nanoparticle agglomeration, color change, hydrolytic susceptibility, and mechanical property loss continue to block clinical translation; MDPB remains the only commercially available antimicrobial monomer.
+
+## 세줄요약
+
+서술적 비판적 고찰(J Dent Res 2023): 이차 우식(Secondary Caries) 예방을 위한 3종 bioactive 레진 전략(금속성 나노입자, 사차암모늄 항균 모노머(QAM), 무기화 촉진제(NACP)) 총괄 검토.
+
+고위험 우식 환자의 연간 수복물 실패율 4.6%(저위험 1.6%의 약 3배); 5% DMAHDM + 20% NACP 복합레진은 다종 바이오필름 모델에서 총 CFU 및 주요 치주 병원균을 유의하게 감소(p<0.05).
+
+>20년의 실험실 연구에도 입자 응집·색상 변화·가수분해 취약성·기계적 물성 저하가 임상 적용을 막고 있으며, MDPB가 유일한 상용화 항균 모노머.
 
 ## Summary
 Secondary caries is the predominant reason resin-based restorations fail, with annual failure rates nearly three times higher in high-caries-risk patients (4.6%) than low-risk patients (1.6%) (Opdam et al. 2014). Melo et al. review three classes of bioactive agents: (1) metallic/metal-oxide nanostructures (ZnO, TiO2, Ag, Au/Pt) acting via ion release and oxidative-stress mechanisms; (2) polymeric antimicrobials including QAMs (DMAHDM, DMADDM) and QPEI nanoparticles, with MDPB as the sole commercially available antimicrobial monomer; and (3) mineralizing agents such as nanosized amorphous calcium phosphate (NACP). Combined 5% DMAHDM + 20% NACP composite significantly reduced total CFU and key periopathogens (P < 0.05) in plaque-derived microcosm biofilms. Critical formulation obstacles — nanoparticle agglomeration, esthetic compromise, hydrolytic susceptibility, and mechanical property loss — continue to limit clinical translation despite >20 years of bench research.

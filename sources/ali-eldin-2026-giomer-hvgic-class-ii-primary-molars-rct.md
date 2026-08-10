@@ -17,13 +17,21 @@ text_filename: ali-eldin-2026-giomer-hvgic-class-ii-primary-molars-rct.txt
 
 literature-surveillance `pediatric-dentistry` 토픽 첫 sweep(2026-06-20)의 OA:PMC RCT. 유구치 Class II 수복에서 **고점도 글래스아이오노머(HVGIC, EQUIA Forte) vs 지오머 주입형 컴포지트** 1년 임상 비교로, [[wiki/glass-ionomer/krishnakumar-2024-hvgic-composite-primary-teeth-sr]](유치 HVGIC vs composite SR)를 RCT 1차 데이터로 직접 보강한다. PubMed/PMC, CC BY 4.0 OA 전문.
 
-## One-line Summary
+## Three-line Summary
 
-Split RCT (124 primary molars, Class II) over 12 months: a highly viscous glass-ionomer (EQUIA Forte HT) and a giomer injectable composite (Beautifil Flow Plus X) had statistically comparable clinical success (88.3% vs 93.4%, NS) and equal functional/biological FDI outcomes; the giomer was significantly better only in esthetics (surface luster p=0.002, color match p<0.001).
+RCT (124 primary molars, Class II cavities, Ain Shams University, 1:1 randomization) comparing HVGIC (EQUIA Forte HT) vs. giomer injectable composite (Beautifil Flow Plus X F00) evaluated by FDI criteria at 3, 6, and 12 months.
 
-## 한줄요약
+Clinical success rates were comparable (HVGIC 88.3% vs. giomer 93.4%, p>0.05); functional and biological FDI outcomes were equivalent; the giomer was significantly better only in esthetics (surface luster p=0.002, color match p<0.001) with no recurrent caries or postoperative sensitivity in either group.
 
-RCT(유구치 124개, Class II) 12개월: 고점도 글래스아이오노머(EQUIA Forte HT)와 지오머 주입형 컴포지트(Beautifil Flow Plus X)의 임상 성공률 동등(88.3% vs 93.4%, 무의차)·기능/생물학적 FDI 항목 동등. 지오머는 심미(표면 광택 p=0.002, 색조 일치 p<0.001)에서만 유의 우위.
+Both materials are clinically viable for Class II primary molar restorations; esthetics-driven selection favors the giomer, while fluoride-releasing bioactivity and lower cost may favor HVGIC — longer follow-up and multi-center confirmation are needed.
+
+## 세줄요약
+
+RCT(유구치 124개, Class II, 아인샴스대, 1:1 무작위배정): HVGIC(EQUIA Forte HT) vs 지오머 주입형 컴포지트(Beautifil Flow Plus X F00); FDI 기준으로 3·6·12개월 평가.
+
+임상 성공률 동등(HVGIC 88.3% vs 지오머 93.4%, p>0.05); 기능·생물학적 FDI 항목 동등; 지오머는 심미(표면 광택 p=0.002, 색조 일치 p<0.001)에서만 유의 우위; 양군 모두 이차우식·술후 과민 없음.
+
+양 재료 모두 유구치 Class II 수복에 임상적으로 적합; 심미를 중시하면 지오머, 불소 방출·비용을 고려하면 HVGIC 선호 가능 — 단일 기관·12개월 한계로 장기 다기관 연구 필요.
 
 ## 1. Document Information
 

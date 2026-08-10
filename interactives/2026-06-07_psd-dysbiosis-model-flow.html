@@ -7,17 +7,30 @@ status: done
 category: caries-prevention
 agenda: agenda/2026-06-07_cariology-microbiology-interactives.md
 source_wiki:
+  - wiki/oral-microbiology/li-2025-subgingival-microbiome-nspt-antiplaque.md
   - wiki/oral-microbiology/hajishengallis-2012-psd-model-periodontal-disease.md
   - wiki/oral-microbiology/hajishengallis-2014-porphyromonas-gingivalis-host-manipulation.md
   - wiki/oral-microbiology/lamont-2014-polymicrobial-synergy-dysbiosis-inflammatory.md
   - wiki/oral-microbiology/lamont-2018-oral-microbiota-dynamic-communities-host.md
   - wiki/oral-microbiology/koo-2013-exopolysaccharides-matrix-biofilm-virulence.md
+  - wiki/periodontics/scannapieco-2021-dysbiosis-oral-microbiome-periodontitis.md
+  - wiki/periodontics/murugaiyan-2024-porphyromonas-gingivalis-strains-periodontal.md
   - wiki/overviews/oral-microbiome-biofilm-dysbiosis-synthesis.md
+  - wiki/oral-microbiology/krajewski-2025-nspt-subgingival-microbiota-sr-ma.md
 tags: [psd-model, dysbiosis, keystone-pathogen, p-gingivalis, periodontitis, caries, feedforward, biofilm, flow-diagram]
+verified: 2026-07-21
 notes: |
   단일 HTML, 인라인 CSS/SVG/JS, CDN 없음.
   치주염(keystone pathogen)·우식(sucrose-EPS) 두 feedforward 루프를 dysbiosis 공통 개념으로 통합.
   노드 클릭 시 기전·출처 표시. 출처: hajishengallis-2012/2014, lamont-2014/2018, koo-2013.
+  [2026-07-13 verified] source_wiki 오버뷰가 2026-07-11 갱신(Scannapieco 2021, Murugaiyan 2024, Kozak 2023, Baker 2024 4편 추가)되어
+  staleness 신호 발생 → 확인 결과 keystone/dysbiosis 노드가 표현하는 핵심 기전에 실질적 반박·정밀화가 추가됨(코스메틱 아님):
+  ① keystone 노드 — Murugaiyan 2024가 P. gingivalis는 균주 특이적임을 보임(W83/W50만 중등도/중증 치주염 유의 농축, 무독성 균주가 질환무관 최우세)
+     → "존재비<0.01%"만으로 keystone 개념을 서술하면 부정확. 노드 라벨·패널에 균주특이성 caveat 추가.
+  ② dysbiosis 노드 — Scannapieco 2021(비판적 재평가)이 "흔한 치주염=keystone 유발 다양성-감소형 dysbiosis"라는 일반화에 제동:
+     전신건강한 환자의 흔한 치주염은 오히려 다양성 *증가*형 "personalized pathology"에 가깝고, 진짜 다양성-감소형 dysbiosis는
+     LAD 등 유전적 감수성 숙주에 국한. 노드 패널·범례·lev-host(치료표적) 텍스트에 caveat 추가. 도표 구조(레인·화살표·feedforward 루프)는
+     여전히 mainstream PSD 모델을 정확히 그리므로 유지 — 다만 "이것이 모든 치주염에 보편 적용되는 단일 모델은 아니다"라는 단서를 부착.
 ---
 -->
 <!DOCTYPE html>
@@ -82,8 +95,8 @@ notes: |
 
   <!-- triggers -->
   <g class="node" data-id="keystone"><rect x="60" y="110" width="290" height="54" rx="10" fill="#fbcfe8" stroke="#f472b6"/>
-    <text class="nt b" x="205" y="132" text-anchor="middle">Keystone pathogen</text>
-    <text class="nt" x="205" y="150" text-anchor="middle">P. gingivalis (&lt;0.01% 존재비)</text></g>
+    <text class="nt b" x="205" y="132" text-anchor="middle">Keystone pathogen *</text>
+    <text class="nt" x="205" y="150" text-anchor="middle">P. gingivalis (&lt;0.01%, 균주특이적)</text></g>
   <g class="node" data-id="sucrose"><rect x="555" y="110" width="290" height="54" rx="10" fill="#fed7aa" stroke="#fb923c"/>
     <text class="nt b" x="700" y="132" text-anchor="middle">식이 sucrose · 노출 빈도</text>
     <text class="nt" x="700" y="150" text-anchor="middle">cariogenic substrate</text></g>
@@ -104,7 +117,7 @@ notes: |
 
   <!-- shared dysbiosis -->
   <g class="node" data-id="dysbiosis"><rect x="280" y="300" width="340" height="60" rx="12" fill="#312e81" stroke="#1e1b4b"/>
-    <text class="nt b w" x="450" y="324" text-anchor="middle">DYSBIOSIS — specialist 군집</text>
+    <text class="nt b w" x="450" y="324" text-anchor="middle">DYSBIOSIS — specialist 군집 *</text>
     <text class="nt w" x="450" y="342" text-anchor="middle">virulence 유전자 발현 ↑ (기능 &gt; 종 목록)</text></g>
 
   <path d="M380,360 L240,400" stroke="#64748b" fill="none" marker-end="url(#arr)"/>
@@ -148,24 +161,25 @@ notes: |
   <span class="lever" data-id="lev-matrix">매트릭스 표적</span>
 </div>
 
-<div class="legend">분홍/자홍 = 치주염 축 · 주황/노랑 = 우식 축 · 남색 = 공통 dysbiosis · 빨간 점선 = feedforward. 기전 평가는 인용 논문 결론 기반, 일부 [claude해석]. 임상 처방 대체 아님.</div>
+<div class="legend">분홍/자홍 = 치주염 축 · 주황/노랑 = 우식 축 · 남색 = 공통 dysbiosis · 빨간 점선 = feedforward. 기전 평가는 인용 논문 결론 기반, 일부 [claude해석]. 임상 처방 대체 아님.<br>
+* = 최신 비판적 재평가 있음(2026-07-13 반영) — keystone: Murugaiyan 2024가 P. gingivalis 균주특이성(W83/W50만 유의 연관) 제시; dysbiosis: Scannapieco 2021이 "흔한 치주염=keystone 다양성-감소형 dysbiosis" 일반화에 제동(전신건강 환자의 흔한 치주염은 오히려 다양성 증가형 personalized pathology에 가까움). 노드 클릭해서 상세 확인.</div>
 
 <script>
 const INFO={
  sym:["건강 — 공생 군집(Symbiosis)","숙주와 균형을 이룬 다종 군집. 질환은 '특정 세균 감염'이 아니라 이 균형이 깨진 dysbiosis 상태로 설명된다.","Lamont 2018, Hajishengallis 2012"],
- keystone:["Keystone pathogen — P. gingivalis","저존재비(&lt;0.01%)임에도 군집 전체를 dysbiotic하게 재편하는 핵심종. '많아서'가 아니라 '면역을 교란해서' 병을 유발 — keystone 개념.","Hajishengallis 2012 (PSD 모델 제안)"],
+ keystone:["Keystone pathogen — P. gingivalis *","저존재비(&lt;0.01%)임에도 군집 전체를 dysbiotic하게 재편하는 핵심종. '많아서'가 아니라 '면역을 교란해서' 병을 유발 — keystone 개념.<br><b>※균주특이성(2026-07-13 반영)</b>: Murugaiyan 2024(폐경후 여성 n=153)는 18개 균주 중 W83/W50만 중등도/중증 치주염에 유의 농축(13% vs 0%, p=0.0003)되고, 무독성 ATCC33277/381이 질환단계와 무관하게 최우세 균주임을 보임 — 'P. gingivalis 존재비'만으로는 병인 예측이 부정확, keystone 개념을 균주 수준으로 정밀화할 필요.","Hajishengallis 2012 (PSD 모델 제안) · 균주특이성: Murugaiyan 2024"],
  sucrose:["식이 sucrose · 노출 빈도","Sucrose는 EPS(glucan) 합성 기질이자 산 생성원. '무엇을 먹나'보다 '얼마나 자주' 노출되는지가 우식 driver. caries 축의 trigger.","Koo 2013, Lamont 2018"],
  immune:["면역 전복 (clearance 아닌 subversion)","P. gingivalis: gingipain이 C3/C5를 분해해 C5a 생성, C5aR–TLR2 crosstalk로 백혈구 살균(iNOS·IL-12)을 억제 → 세균은 살아남고 염증만 지속. FimA/SerB로 상피 침입.","Hajishengallis 2014"],
  eps:["EPS 매트릭스(glucan) + 산 생성","Gtf(B/C/D)가 in situ glucan을 합성해 부착·3D 구조·확산장벽 형성. 매트릭스가 불소·중화제 확산을 막아 국소 산성을 보존 → 우식 virulence의 1차 결정인자.","Koo 2013, Bowen 2011"],
- dysbiosis:["DYSBIOSIS — specialist 군집","건강=generalist, 질환=specialist(virulence 유전자 발현↑). 종 목록보다 기능 유전자 set이 더 나은 판별자. 치주염·우식 공통의 중심 상태.","Lamont 2018, Lamont 2014"],
+ dysbiosis:["DYSBIOSIS — specialist 군집 *","건강=generalist, 질환=specialist(virulence 유전자 발현↑). 종 목록보다 기능 유전자 set이 더 나은 판별자. 치주염·우식 공통의 중심 상태.<br><b>※비판적 재평가(2026-07-13 반영, Scannapieco 2021)</b>: 장·피부의 고전적 dysbiosis는 '다양성 감소'로 정의되나, 흔한(전신건강) 치주염은 오히려 <b>다양성 증가</b>를 동반 — keystone 단일종 과증식이 아니라 다양한 공생균의 총생물량 증가('personalized pathology')로 더 잘 설명됨. 진짜 다양성-감소형 dysbiosis는 백혈구부착결핍증(LAD) 등 유전적 감수성 숙주에 국한 — '모든 치주염=keystone dysbiosis'라는 과잉일반화에 대한 비판.","Lamont 2018, Lamont 2014 · 비판적 재평가: Scannapieco 2021"],
  inflam:["숙주 염증 · 조직 분해","Dysbiotic 군집이 비해소성(non-resolving) 염증을 유발. 염증 자체가 다음 단계 영양원을 만들어낸다 — 병인의 핵심 전환점.","Hajishengallis 2014, Lamont 2014"],
  demin:["탈회 · 국소 산성(pH 4.5–5.5)","매트릭스 내부의 구획화된 산성 미세환경에서 법랑질 탈회. >2시간 중화에 저항. 우식의 직접 손상 단계.","Koo 2013"],
  boneloss:["부착소실 · 치조골 흡수","치주염의 임상 결과. SRP(기계적 disruption)가 여전히 1차 치료 — 단일 종 박멸이 아니라 dysbiosis 역전이 표적.","Hajishengallis 2012, Lamont 2018"],
  cavity:["우식 진행 · 와동","반복 탈회의 누적 결과. 식이당 차단·불소·매트릭스 disruption이 합리적 개입.","Koo 2013, Lamont 2018"],
  "ff-perio":["Feedforward ↺ (치주염)","염증성 삼출물(GCF)·조직 분해산물이 asaccharolytic 병원체의 영양원이 됨 → dysbiosis를 더 강화. 'dysbiosis→염증→영양→dysbiosis'의 자가촉진 회로.","Hajishengallis 2014, Lamont 2018"],
  "ff-caries":["Feedforward ↺ (우식)","산성 미세환경이 aciduric·acidogenic 종을 선택 → 더 산성화 → 더 강한 선택압. 생태학적 plaque 가설의 자가촉진 루프.","Koo 2013, Lamont 2018"],
- "lev-host":["치료 표적 — 숙주 면역조절","keystone/accessory/pathobiont 구도상 단일 종 표적은 한계. C5aR 등 숙주 염증 경로 조절(host modulation)이 dysbiosis 역전 표적으로 제시됨. [claude해석]","Hajishengallis 2014"],
- "lev-mech":["치료 표적 — 기계적 disruption","매트릭스는 확산장벽이라 항생제 단독으로 성숙 바이오필름 무력화 어려움 → 물리적 제거(SRP·brushing·관개 활성화)가 핵심, 항생제는 보조.","Koo 2013, Lamont 2018"],
+ "lev-host":["치료 표적 — 숙주 면역조절","keystone/accessory/pathobiont 구도상 단일 종 표적은 한계. C5aR 등 숙주 염증 경로 조절(host modulation)이 dysbiosis 역전 표적으로 제시됨. [claude해석]<br><b>※(2026-07-13 반영)</b> 단, 'dysbiosis 역전'을 문자 그대로 특정 종 박멸로 오해하지 말 것 — Scannapieco 2021에 따르면 흔한 치주염의 실제 표적은 과증식한 군집 전체의 생물량·염증 반응이지, 단일 keystone 종 제거가 아니다.","Hajishengallis 2014 · Scannapieco 2021"],
+ "lev-mech":["치료 표적 — 기계적 disruption","매트릭스는 확산장벽이라 항생제 단독으로 성숙 바이오필름 무력화 어려움 → 물리적 제거(SRP·brushing·관개 활성화)가 핵심, 항생제는 보조.<br><b>※(2026-07-21 반영)</b> Krajewski 2025 SR+MA: NSPT(SRP)가 치은연하 미생물총을 유의하게 감소시킴 — PSD 모델의 기계적 disruption 축을 직접 지지하는 정량 SR.<br><b>※(2026-07-23 반영)</b> Li 2025 RCT 이차분석(Stage II/III 86명): SRP+집중 항플라크군만 6개월 '건강 평면(healthy plane)'까지 거리가 유의 감소 — 그러나 랜덤포레스트에서 <b>반응을 더 잘 예측한 것은 치료 종류가 아니라 치료 전 미생물총 조성</b>이었다. 즉 dysbiosis 역전은 술식만으로 결정되지 않으며, '누가 반응하는가'는 임상 staging이 아니라 치료 전 프로파일링의 문제.","Koo 2013, Lamont 2018 · 정량근거: Krajewski 2025 SR+MA · 반응예측: Li 2025 RCT"],
  "lev-sugar":["치료 표적 — 당 노출 차단","Sucrose가 매트릭스 기질이자 산원이므로, 우식 축에서는 항균보다 당 노출 빈도 감소가 생태학적으로 합리적. caries 계산기 위젯과 연결.","Koo 2013, Moynihan 2016"],
  "lev-matrix":["치료 표적 — 매트릭스(EPS) 표적","Gtf 저해·matrixome 분해 등 매트릭스 표적 전략. 대부분 in-vitro/전임상 수준 — 임상 전환 미성숙. [claude해석]","Karygianni 2020, Koo 2013"]
 };
@@ -179,6 +193,6 @@ function show(id, el){
 document.querySelectorAll(".node").forEach(n=> n.addEventListener("click",()=>show(n.dataset.id,n)));
 document.querySelectorAll(".lever").forEach(l=> l.addEventListener("click",()=>show(l.dataset.id,null)));
 </script>
-<p class="legend">출처 페이지: wiki/oral-microbiology/ (hajishengallis-2012, hajishengallis-2014, lamont-2014, lamont-2018, koo-2013) · overviews/oral-microbiome-biofilm-dysbiosis-synthesis</p>
+<p class="legend">출처 페이지: wiki/oral-microbiology/ (hajishengallis-2012, hajishengallis-2014, lamont-2014, lamont-2018, koo-2013) · wiki/periodontics/ (scannapieco-2021, murugaiyan-2024) · overviews/oral-microbiome-biofilm-dysbiosis-synthesis (verified 2026-07-13)</p>
 </body>
 </html>

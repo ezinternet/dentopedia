@@ -16,13 +16,21 @@ text_filename: ono-2022-cost-sharing-childhood-dental-utilization-japan.txt
 
 Seeds a dental health-economics theme on the wiki — specifically how patient cost-sharing (subsidy / out-of-pocket price) shapes dental care demand. This is an empirical natural experiment (subsidy discontinuation at a fixed age, exploited via difference-in-differences) that complements [[practice-management/chen-2024-dental-hygienist-autonomy-care-utilization]]: both are policy→utilization natural experiments, one on the supply side (provider scope of practice) and one on the demand side (price/cost-sharing). Together they begin a small evidence base on what actually moves dental utilization at the population level under a universal-healthcare system.
 
-## One-line Summary
+## Three-line Summary
 
 Difference-in-differences study of Japanese administrative dental claims (1108 children, 6276 visits) finding that discontinuing a childhood dental subsidy at age 10 produced NO significant short-term (12-month) change in first/total visits, cost, or acute severe dental conditions.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 일본 행정 청구자료 이중차분(DiD) 연구(아동 1108명·내원 6276건) — 만 10세에 소아 치과 보조금을 중단해도 12개월 단기 동안 초진·총 내원·비용·급성 중증 치과상태에 유의한 변화가 없었음.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

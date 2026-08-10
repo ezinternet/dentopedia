@@ -15,15 +15,23 @@ text_filename: nithyapriya-2018-factors-loss-preload-dental-implants.txt
 
 ## Why Ingested
 
-This is the foundational reference page for the *complete inventory of factors that cause loss of preload* in implant abutment screws — the upstream mechanism behind screw loosening and implant failure. It anchors the more specific connection/torque papers such as [[prosthetic-materials/velez-2020-implant-connection-abutment-design-screw]], giving each one a shared map of which variable (material, connection type, torque method/sequence, lubrication, settling effect, collar length) it is probing.
+This is the foundational reference page for the *complete inventory of factors that cause loss of preload* in implant abutment screws — the upstream mechanism behind screw loosening and implant failure. It anchors the more specific connection/torque papers such as [[prosthetic-materials/abutment-screw/velez-2020-implant-connection-abutment-design-screw]], giving each one a shared map of which variable (material, connection type, torque method/sequence, lubrication, settling effect, collar length) it is probing.
 
-## One-line Summary
+## Three-line Summary
 
-Narrative/literature-search review (MEDLINE-PubMed, 10-year window; 84 articles screened → 36 analyzed, no quality appraisal) cataloguing the factors that cause loss of preload in implant abutment screws — material (gold > Ti-alloy > surface-treated Ti > pure Ti), connection type (internal > external hex), calibrated torque, retorque after 10 min, lubrication, settling effect, and abutment collar length.
+Narrative/literature-search review (MEDLINE-PubMed, 10-year window;
 
-## 한줄요약
+84 articles screened → 36 analyzed, no quality appraisal) cataloguing the factors that cause loss of preload in implant abutment screws — material (gold > Ti-alloy > surface-treated Ti > pure Ti), connection type (internal > external hex), calibrated torque, retorque after 10 min, lubrication, settling effect, and abutment collar length.
+
+(incomplete)
+
+## 세줄요약
 
 문헌검색 기반 서술적 리뷰(MEDLINE-PubMed 10년, 84편 스크리닝 → 36편 분석, 질평가 없음)로, 임플란트 지대주 나사의 예압(preload) 손실을 유발하는 요인들을 총정리한다 — 재료(금 > 티타늄 합금 > 표면처리 Ti > 순 Ti), 연결형태(내부 > 외부 hex), 보정된 토크기, 10분 후 재토크, 윤활, 세틀링 효과, 지대주 칼라 길이.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

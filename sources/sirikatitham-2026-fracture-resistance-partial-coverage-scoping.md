@@ -17,13 +17,21 @@ text_filename: sirikatitham-2026-fracture-resistance-partial-coverage-scoping.tx
 
 Extends [[wiki/inlay/prott-2025-partial-coverage-restorations-posterior-scoping]] from a different angle: Prott (2025) scoped clinical *survival* of posterior PCRs by material, whereas this scoping review maps in-vitro *fracture resistance and fracture patterns* by preparation design (overlay / MOD overlay / MOD onlay), occlusal thickness, and ceramic type (LDS / ZLS / PICN / RNC). It also synthesizes the single-study fracture findings that the wiki already holds in isolation — [[wiki/inlay/hofsteenge-2023-preparation-design-fracture-strength-disilicate-inlay]] and [[wiki/inlay/griffis-2022-tooth-cusp-preservation-lithium-disilicate-onlay-fatigue]] — into a load-threshold map, giving a chairside answer to "does an MOD box weaken my onlay, and by how much, in a premolar vs a molar?"
 
-## One-line Summary
+## Three-line Summary
 
-Scoping review (34 in-vitro studies; 9 premolar, 25 molar) of fracture resistance of non-endodontically-treated posterior teeth restored with ceramic partial coverage restorations (PCRs); MOD overlays lowered molar fracture loads vs anatomic overlays, increasing occlusal thickness generally helped, proximal boxes worsened fracture severity, and all designs still exceeded maximum bite forces.
+Scoping review (34 in-vitro studies;
 
-## 한줄요약
+9 premolar, 25 molar) of fracture resistance of non-endodontically-treated posterior teeth restored with ceramic partial coverage restorations (PCRs);
+
+MOD overlays lowered molar fracture loads vs anatomic overlays, increasing occlusal thickness generally helped, proximal boxes worsened fracture severity, and all designs still exceeded maximum bite forces.
+
+## 세줄요약
 
 비-근관치료 구치를 세라믹 부분피개수복물(PCR)로 수복했을 때의 파절저항을 다룬 스코핑 리뷰(34편: 소구치 9·대구치 25) — MOD 박스는 대구치 anatomic overlay 대비 파절하중을 낮췄고, 교합 두께 증가는 대체로 유리, proximal box는 파절 양상을 악화시켰으나 모든 디자인의 파절하중은 최대 교합력을 상회했다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

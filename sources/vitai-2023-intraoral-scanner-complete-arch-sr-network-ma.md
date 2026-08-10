@@ -9,8 +9,21 @@ pdf_filename: vitai-2023-intraoral-scanner-complete-arch-sr-network-ma.pdf
 source_collection: external
 ---
 
-## One-line Summary
-구치열 전체 스캔에서 구강 내 스캐너(IOS) 정확도 비교 SR + network MA.
+## Three-line Summary
+
+구치열 전체 스캔에서 구강
+
+내 스캐너(IOS) 정확도 비교
+
+SR + network MA.
+
+## 세줄요약
+
+구치열 전체 스캔에서 구강
+
+내 스캐너(IOS) 정확도 비교
+
+SR + network MA.
 
 ## 1. Document Information
 - **Title**: Evaluation of the accuracy of intraoral scanners for complete-arch scanning: A systematic review and network meta-analysis

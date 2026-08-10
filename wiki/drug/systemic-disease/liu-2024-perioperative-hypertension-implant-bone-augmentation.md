@@ -6,7 +6,7 @@ date: 2024-02-18
 doi: 10.19723/j.issn.1671-167X.2024.01.015
 source: liu-2024-perioperative-hypertension-implant-bone-augmentation.md
 category: [drug/systemic-disease]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 full_text: false
 pmid: "38318902"
@@ -22,13 +22,21 @@ relations:
     target: karm-2023-clinical-practice-guidelines-diagnostic-procedural-sedation
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective cohort (n=728, single Beijing center) — perioperative hypertension occurred in 26.77% of implant + bone-augmentation surgeries; male (RR 1.74), age ≥60 (RR 2.35), and surgical time >60 min (RR 1.65) were risk factors, with the active factors varying by augmentation approach (all significant in GBR; only age in transalveolar sinus lift; none significant in lateral-window sinus lift).
+Retrospective single-center cohort (n=728, Peking University, Sept 2021–Aug 2022) examining perioperative blood-pressure surge during outpatient dental implant placement performed simultaneously with bone augmentation (GBR, transalveolar sinus lift, lateral-window sinus lift).
 
-## 한줄요약
+Perioperative hypertension occurred in 26.77%; whole-cohort risk factors were male sex (RR 1.74), age ≥60 years (RR 2.35), and surgical time >60 min (RR 1.65), with the active risk-factor profile varying by augmentation approach — all three significant in GBR, only age in transalveolar sinus lift, none significant in lateral-window sinus lift.
 
-후향적 코호트(n=728, 단일 베이징 센터) — 임플란트 동기 골증대술의 26.77%에서 围术期 고혈압이 발생; 남성(RR 1.74)·60세 이상(RR 2.35)·수술시간 60분 초과(RR 1.65)가 위험인자였고, 유효한 인자는 골증대 술식에 따라 달라짐(GBR은 셋 다 유의, 상악동 내측거상은 연령만, 외측창 거상은 셋 다 비유의).
+Proactive intraoperative BP monitoring and pre-screening of older male patients are warranted for implant-plus-grafting cases, especially GBR procedures expected to exceed 60 minutes.
+
+## 세줄요약
+
+후향적 단일기관 코호트(n=728, 베이징대학교 구강병원, 2021.9–2022.8) — 임플란트와 동시 시행한 골증대술(GBR, 경치조 상악동거상, 외측창 상악동거상) 중 수술 전후 혈압 급등 빈도와 위험인자 분석.
+
+수술 전후 고혈압 발생률 26.77%; 전체 코호트 위험인자: 남성(RR 1.74)·60세 이상(RR 2.35)·수술시간 60분 초과(RR 1.65); 유효 인자는 술식에 따라 상이 — GBR은 세 가지 모두 유의, 경치조 거상은 연령만, 외측창 거상은 셋 다 비유의.
+
+골증대 동반 임플란트 시술, 특히 60분 초과 GBR에서 고령 남성 환자의 사전 심혈관 위험 선별 및 술중 혈압 모니터링이 필요하다.
 
 ## Summary
 
@@ -68,6 +76,6 @@ This single-center retrospective cohort from Peking University School and Hospit
 
 ## Related Papers
 
-- [[drug/systemic-disease/karm-2023-clinical-practice-guidelines-diagnostic-procedural-sedation]] — reinforces the need for intraoperative hemodynamic/vital-sign monitoring during dental procedures; this cohort quantifies the BP-surge problem that such monitoring is meant to catch.
+- [[local-anesthesia/karm-2023-clinical-practice-guidelines-diagnostic-procedural-sedation]] — reinforces the need for intraoperative hemodynamic/vital-sign monitoring during dental procedures; this cohort quantifies the BP-surge problem that such monitoring is meant to catch.
 - [[drug/systemic-disease/uritu-2025-vasoconstrictor-dental-anesthesia-pregnancy-sr]] — companion cardiovascular-safety concern: local-anesthetic vasoconstrictor management in medically/physiologically at-risk dental patients.
 - [[drug/systemic-disease/colibasanu-2025-drug-drug-interactions-dental-patients-retrospective]] — broader medically compromised dental-patient risk management, including cardiovascular medications.

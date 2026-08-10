@@ -6,7 +6,7 @@ date: 2022-05-02
 doi: "10.1111/clr.13959"
 source: stacchi-2022-transcrestal-sinus-complications-low-rbh.md
 category: [sinus-lift/transcrestal]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/stacchi-2022-transcrestal-sinus-complications-low-rbh.pdf
 pdf_filename: stacchi-2022-transcrestal-sinus-complications-low-rbh.pdf
 source_collection: external
@@ -18,11 +18,21 @@ relations:
     target: diaz-olivares-2021-schneiderian-membrane-perforation-sinus-lift
 ---
 
-## One-line Summary
-Retrospective multicenter study (n=430 implants, RBH ≤5 mm, transcrestal sinus floor elevation): early implant failure 2.8%; bucco-palatal sinus width >12 mm (OR 8.5) and membrane perforation (OR 4.21) are the only independent predictors of early failure.
+## Three-line Summary
 
-## 한줄요약
-후향적 다기관 연구(n=430, RBH≤5mm 경치조골 거상): 조기 임플란트 실패 2.8%, 협구개 상악동 폭 >12mm(OR 8.5)와 막천공(OR 4.21)이 조기 실패의 유일한 독립 위험인자.
+Retrospective multicenter study (7 Italian centers, n=430 implants, RBH ≤5 mm) examining risk factors for intraoperative complications and early implant failure after transcrestal sinus floor elevation in the challenging low-RBH scenario.
+
+Early implant failure rate was 2.8% (12/430); multivariate logistic regression identified only two independent predictors: bucco-palatal sinus width >12 mm (OR 8.50) and intraoperative Schneiderian membrane perforation (OR 4.21); sinus membrane perforation occurred in 7.2% overall, with narrow sinuses (≤12 mm) at 1.1% vs wide (>12 mm) at 16.1%.
+
+This is the first clinical demonstration that bucco-palatal sinus width is a discrete CBCT-measurable predictor of transcrestal sinus failure — CBCT assessment of sinus width before transcrestal surgery at RBH ≤5 mm is essential.
+
+## 세줄요약
+
+RBH ≤5 mm에서 경치조골 상악동거상(Transcrestal Sinus Floor Elevation, TSFE) 후 합병증 및 조기 임플란트 실패 위험인자를 분석한 후향적 다기관 연구(이탈리아 7개 센터, n=430).
+
+조기 임플란트 실패 2.8%(12/430); 다변량 로지스틱 회귀 독립 예측인자: 협구개(Bucco-Palatal) 동 폭 >12 mm (OR 8.50)와 막 천공(OR 4.21)만 유의; 전체 막 천공률 7.2% — 좁은 동(≤12 mm) 1.1% vs 넓은 동(>12 mm) 16.1%.
+
+협구개 상악동 폭이 CBCT로 측정 가능한 TSFE 실패 예측인자임을 처음으로 임상 입증 — RBH ≤5 mm 경치조골 거상 전 CBCT 동 폭 평가 필수.
 
 ## Summary
 This 7-center retrospective study examined risk factors for intraoperative complications and early implant failure in transcrestal sinus floor elevation (TSFE) performed in the challenging scenario of residual bone height (RBH) ≤5 mm. Across 430 single-implant cases, 418 implants (97.2%) were functional at one year of loading, with 12 early failures (2.8%). On multivariate logistic regression, only two variables independently predicted early failure: a wide bucco-palatal sinus cavity (>12 mm at 10 mm height) and intraoperative Schneiderian membrane perforation. Sinus membrane perforation occurred in 7.2% overall but was strongly width-dependent — 1.1% in narrow sinuses versus 16.1% in wide cavities. The study is the first to clinically demonstrate bucco-palatal sinus width as a discrete, CBCT-measurable risk factor for TSFE.

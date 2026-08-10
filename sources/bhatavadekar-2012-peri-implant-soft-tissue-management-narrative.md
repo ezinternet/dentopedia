@@ -13,13 +13,23 @@ source_collection: external
 
 Provides a clinician-focused narrative framework on peri-implant soft tissue management — covering biologic width, keratinized mucosa rationale, and grafting techniques — that underpins the evidence synthesized in [[implants/thoma-2018-soft-tissue-augmentation-periimplant-health]] and serves as a conceptual anchor for understanding why keratinized mucosa debates in [[implants/sanz-2022-keratinized-mucosa-around-implants-consensus]] arose.
 
-## One-line Summary
+## Three-line Summary
 
-Narrative short communication (J Indian Soc Periodontol 2012) reviewing the evolution of peri-implant soft tissue management: biologic width analogy to teeth, keratinized mucosa debate, socket preservation philosophy, connective tissue grafting techniques (free CTG, VIP-CT pedicle graft), and emerging bioengineering directions.
+Narrative short communication (J Indian Soc Periodontol 2012) reviewing the evolution of peri-implant soft tissue management, covering biologic width analogy, keratinized mucosa debate, socket preservation philosophy, CTG and VIP-CT pedicle graft techniques, and emerging bioengineering directions.
 
-## 한줄요약
+Referenced RCT (n=10, bilateral mandibular implants) showed augmented sites were 1.3 mm thicker (P<0.001) with significantly better pink esthetic score; author's 3-year clinical experience supported predictable keratinized mucosa augmentation outcomes.
 
-2012년 서사적 단신 논문으로, 임플란트 주위 연조직 관리의 발전(생물학적 폭경, 각화점막 논쟁, 발치와 보존 철학, 결합조직이식 술식, 미래 바이오엔지니어링 방향)을 포괄적으로 기술하였다.
+Narrative with no systematic search; conclusions on keratinized mucosa debate are opinion-level, not evidence-synthesized; VIP-CT technique outcomes reported anecdotally without formal patient numbers.
+
+## 세줄요약
+
+서술 단신 논문(J Indian Soc Periodontol 2012) — 임플란트 주위 연조직 관리 발전사(생물학적 폭경 유사성, 각화점막 논쟁, 발치와 보존 철학, 결합조직이식(Connective Tissue Graft, CTG) 및 혈관화 개재 결합조직(VIP-CT) 피판 이식술, 미래 바이오엔지니어링 방향) 기술.
+
+참조 RCT(n=10, 양측 하악 임플란트): 증대 부위가 1.3 mm 두꺼움(P<0.001), 핑크 심미 점수 유의하게 우월; 저자의 3년 임상 경험에서 각화점막 증대는 예측 가능하고 장기 결과 양호.
+
+체계적 문헌 검색 없는 서술 고찰; 각화점막 논쟁 결론은 전문가 의견 수준; VIP-CT 술식 결과는 환자 수·통계 없는 일화적 보고.
+
+## 1. Document Information
 
 ## 1. Document Information
 

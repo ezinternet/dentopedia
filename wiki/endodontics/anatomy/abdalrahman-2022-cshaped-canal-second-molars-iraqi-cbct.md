@@ -6,7 +6,7 @@ date: 2022-03-16
 doi: 10.1155/2022/4886993
 source: abdalrahman-2022-cshaped-canal-second-molars-iraqi-cbct.md
 category: [endodontics/anatomy]
-confidence: cross-sectional
+evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/abdalrahman-2022-cshaped-canal-second-molars-iraqi-cbct.pdf
 pdf_filename: abdalrahman-2022-cshaped-canal-second-molars-iraqi-cbct.pdf
 source_collection: external
@@ -18,13 +18,21 @@ relations:
     target: shemesh-2017-cshaped-canals-cbct-mandibular-molars
 ---
 
-## One-line Summary
+## Three-line Summary
 
-CBCT cross-sectional study (368 mandibular + 369 maxillary second molars, Iraqi subpopulation): C-shaped canal prevalence 17.4% in mandibular vs 7.9% in maxillary second molars; significantly higher in females (23% vs 10.4%, p=0.001); C2 most common mandibular type (56.3%).
+Retrospective CBCT cross-sectional study of 368 mandibular and 369 maxillary second molars in an Iraqi subpopulation, classifying C-shaped canals using the Fan et al. and Jo et al. systems.
 
-## 한줄요약
+C-shaped canal prevalence was 17.4% in mandibular and 7.9% in maxillary second molars, with a significant female predominance in mandibular cases (23% vs 10.4%, p=0.001); C2 was the most common mandibular configuration (56.3%).
 
-CBCT 횡단 연구(이라크 인구, 하악 제2대구치 368개·상악 제2대구치 369개): C-shaped 근관 유병률 하악 17.4% vs 상악 7.9%, 여성에서 유의하게 높음(23% vs 10.4%, p=0.001); 하악은 C2형(56.3%)이 가장 흔함.
+Clinicians treating mandibular second molars in Middle Eastern populations should anticipate C-shaped canals especially in female patients, with predominantly bilateral distribution.
+
+## 세줄요약
+
+이라크 인구 대상 후향적 CBCT 횡단 연구(하악 제2대구치 368개·상악 제2대구치 369개), Fan et al. 및 Jo et al. 분류 사용.
+
+하악 제2대구치 C-shaped 근관 유병률 17.4%, 상악 7.9%이며, 하악에서 여성 유의 우세(23% vs 10.4%, p=0.001); C2형이 가장 흔함(56.3%).
+
+중동 여성 환자 하악 제2대구치 치료 시 C-shaped 근관을 더 높은 빈도로 예상해야 하며, 대부분 양측성으로 발생.
 
 ## Summary
 

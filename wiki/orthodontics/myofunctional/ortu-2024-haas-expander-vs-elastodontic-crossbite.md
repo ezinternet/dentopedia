@@ -6,7 +6,7 @@ date: 2024-05-21
 doi: 10.3390/reports7020041
 source: ortu-2024-haas-expander-vs-elastodontic-crossbite.md
 category: [orthodontics/myofunctional]
-confidence: prospective
+evidence_level: prospective
 source_collection: pubmed-text
 full_text: true
 pmid: "40729152"
@@ -20,13 +20,21 @@ relations:
     target: ortu-2025-removable-devices-palatal-expansion-rct
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Single-centre prospective comparative study (n=64, ages 7–8; 32 elastodontic Equilibrator vs 32 Haas expander) finding **no statistically significant difference** in intermolar (IMW) or intercanine (ICW) width gain at 12 months — the two devices were equally effective.
+Single-centre prospective comparative study (n=64, ages 7–8; 32 Eptamed Equilibrator elastodontic vs 32 Haas rapid palatal expander) in Class I crossbite patients, measuring transverse arch widths (IMW, ICW) by iTero scan at 12 months — the first head-to-head of an elastodontic device against a rigid orthopaedic expander.
 
-## 한줄요약
+No statistically significant between-device difference in intermolar (IMW) or intercanine (ICW) width gain at 12 months — the two devices were equally effective; IMW increased more than ICW in both groups.
 
-단일기관 전향적 비교연구(n=64, 7~8세; 탄성교정장치 Equilibrator 32명 vs Haas 확장장치 32명)에서 12개월째 상악 대구치간폭경(IMW)·견치간폭경(ICW) 증가량에 **통계적 유의차 없음** — 두 장치 효과 동등.
+The elastodontic device is a comfort- and compliance-favourable alternative to a rigid Haas expander for mild maxillary transverse constriction in growing children, but the Haas remains preferred when true skeletal expansion is required.
+
+## 세줄요약
+
+단일기관 전향적 비교연구(n=64, 7~8세; Eptamed Equilibrator 탄성교정장치 32명 vs Haas 급속구개확장장치 32명) — Class I 반대교합 환자에서 12개월 후 iTero 스캔으로 대구치간(IMW)·견치간(ICW) 폭경 측정. 경직형 정형장치 대비 탄성교정장치 최초 직접 비교.
+
+12개월째 IMW·ICW 증가량에서 두 장치 간 통계적 유의차 없음 — 효과 동등; 양 군 모두 IMW가 ICW보다 더 증가.
+
+탄성교정장치는 성장기 경도 상악 횡경 부족에서 Haas 대비 편안함·순응도 면에서 유리한 대안이나, 진성 골격 확장이 필요한 경우에는 Haas 선택.
 
 ## Summary
 

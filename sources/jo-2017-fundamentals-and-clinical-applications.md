@@ -11,6 +11,20 @@ source_collection: local
 tags: [근관-치료, 근관-치료-난제, 근관-해부학, 해부학적-다양성, 임상적-도전, 기법-수정, 근관-치료-관리]
 ---
 
+## Three-line Summary
+Clinical perspective on root canal treatment fundamentals based on 16+ years of endodontic experience: each tooth has unique, non-standardizable canal anatomy.
+
+No two teeth share identical canal anatomy; anatomical diversity is inherent, not exceptional, and clinicians must adapt treatment to anatomy rather than normalize anatomy to protocols.
+
+Clinical implication: successful endodontic treatment requires personalized treatment planning and continuous clinical judgment adapted to actual intra-operative anatomy; experience increases awareness of complexity but does not eliminate procedural challenge.
+
+## 세줄요약
+16년 이상 근관 치료 임상 경험 기반 근관 치료 기초에 관한 임상 관점: 각 치아는 고유한, 표준화 불가능한 근관 해부학을 가짐.
+
+두 치아가 동일한 근관 해부학을 공유하지 않으며; 해부학적 다양성은 예외가 아닌 내재적 속성. 임상의는 프로토콜에 해부학을 맞추는 것이 아니라 치료를 해부학에 맞춰야 함.
+
+임상적 의미: 성공적인 근관 치료는 개인화된 치료 계획과 술중 실제 해부학에 적응하는 지속적 임상 판단 필수; 경험은 복잡성 인식 증대하나 절차적 도전은 제거하지 못함.
+
 ## 한 줄 요약
 해부학적 다양성으로 인한 근관 치료의 기본적 도전에 관한 포괄적 임상 관점으로, 16년 이상의 근관 치료 임상 경험을 기반으로 함.
 

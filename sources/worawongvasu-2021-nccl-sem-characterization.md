@@ -12,11 +12,21 @@ source_collection: external
 ## Why Ingested
 NCCL 병인 논쟁(특히 abfraction)에 대한 초미세구조 직접 증거. [[nccl/nascimento-2016-abfraction-etiology-diagnosis-treatment]]의 "abfraction 미입증" 주장에 대한 in-vitro 반례 데이터로 균형 확보.
 
-## One-line Summary
+## Three-line Summary
+
 SEM study of 10 extracted premolars with NCCLs finding microfracture lines in 4/10 (interpreted as supporting abfraction) plus linear scratches and exposed collagen (abrasion/erosion) in the rest.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 NCCL 발치 소구치 10개의 SEM 연구로, 4/10에서 microfracture(abfraction 지지)·나머지에서 linear scratch와 노출 콜라겐(abrasion/erosion)을 관찰한 in-vitro 연구.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - J Oral Maxillofac Pathol 2021;25(1):202. DOI 10.4103/jomfp.JOMFP_232_20. Open access (CC BY-NC-SA 4.0).

@@ -13,11 +13,21 @@ source_collection: external
 
 소아 IANB 전 표면마취제 3종(8% lidocaine, 20% benzocaine, 5% EMLA) 비교 triple-blind RCT. [[local-anesthesia/subramanian-2023-comparative-two-topical-anesthetic-agents-pediatric]]가 benzocaine > lignocaine 우위를 보고한 것과 대비되는 "차이 없음" 결과를 더 엄격한 blinding으로 제시하므로, 표면마취제 제제 선택의 임상적 의미를 재검토하는 근거가 된다.
 
-## One-line Summary
+## Three-line Summary
+
 Triple-blind RCT (n=45 children, 6-10 y): for IANB, 8% lidocaine gel was NOT superior to 20% benzocaine or 5% EMLA — no significant differences in FLACC, Wong-Baker FACES, or pulse rate.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 삼중맹검 RCT(소아 45명, 6-10세): IANB에서 8% lidocaine 겔이 20% benzocaine·5% EMLA보다 우월하지 않음 — FLACC·Wong-Baker FACES·맥박 모두 유의차 없음.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - Journal: BDJ Open. 2024; 10:87

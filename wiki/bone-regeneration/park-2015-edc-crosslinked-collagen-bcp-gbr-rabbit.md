@@ -6,7 +6,7 @@ date: 2015-01-01
 doi: 10.1186/s40824-015-0038-y
 source: park-2015-edc-crosslinked-collagen-bcp-gbr-rabbit.md
 category: [bone-regeneration]
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/park-2015-edc-crosslinked-collagen-bcp-gbr-rabbit.pdf
 pdf_filename: park-2015-edc-crosslinked-collagen-bcp-gbr-rabbit.pdf
 source_collection: external
@@ -18,13 +18,21 @@ relations:
     target: sasaki-2021-barrier-membranes-tissue-regeneration-review
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Animal study (n=12 rabbits, 8-mm calvarial CSDs, 2 and 8 weeks) showing EDC-crosslinked collagen membrane (Rapigide) remains structurally intact at 8 weeks with good vascularization and tissue integration, and that membrane + BCP graft produces the greatest new bone and augmented area.
+Animal study (n=12 New Zealand White rabbits, 8-mm calvarial critical-size defects, 2 and 8 weeks) evaluating an EDC-crosslinked type-I collagen membrane (Rapigide) alone, with BCP graft (MBCP™, 60% HA + 40% β-TCP), or combined.
 
-## 한줄요약
+EDC membrane maintained structural integrity and vascularization at 8 weeks with no significant foreign-body reaction; without graft support the membrane centrally collapsed, confirming the graft as an essential space-maintainer; the BCP + EDC combination ranked highest for total augmented area and new bone area.
 
-동물실험(토끼 12마리, 8-mm 두개골 결손, 2·8주) — EDC 가교 콜라겐 막(Rapigide)이 8주까지 구조적 완전성과 혈관화를 유지하며, BCP 이식재 병용 시 최대 신생골 형성 및 증대 면적을 보임.
+This is the first reported rabbit calvarial study of EDC-crosslinked collagen for GBR, providing proof-of-concept that EDC crosslinking gives enzymatic resistance with low cytotoxicity — but membrane alone cannot substitute for a graft space-filler.
+
+## 세줄요약
+
+동물실험(토끼 12마리, 8-mm 두개골 임계결손, 2·8주): EDC 가교 콜라겐 막(Rapigide) 단독·BCP 이식재(MBCP™ 60% HA + 40% β-TCP) 단독·병용·대조 4군 평가.
+
+EDC막은 8주까지 구조 보존·혈관화·직접 골형성 확인; 이식재 없으면 막 중앙부 함몰 → 이식재가 공간유지의 필수 요소; 골증대 및 신생골 면적은 BCP+EDC 병용군 최고.
+
+EDC 가교 콜라겐 막의 최초 토끼 두개골 GBR 연구 — 효소저항성·저세포독성의 개념증명이나, 막 단독으로는 공간유지 불가.
 
 ## Summary
 

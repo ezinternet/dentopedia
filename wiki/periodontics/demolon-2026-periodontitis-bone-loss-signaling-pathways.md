@@ -6,7 +6,7 @@ date: 2026-01-03
 doi: "10.1038/s41413-025-00478-1"
 source: demolon-2026-periodontitis-bone-loss-signaling-pathways.md
 category: [periodontics]
-confidence: narrative-review
+evidence_level: narrative-review
 pmid: "41484074"
 pmcid: "PMC12764867"
 source_collection: pubmed-text
@@ -20,13 +20,21 @@ relations:
     target: liu-2019-periodontal-bone-ligament-cementum-regeneration
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Comprehensive 2026 narrative review mapping NF-κB, JAK/STAT, MAPK, and PI3K/Akt signaling cascades driving osteoclastogenesis in periodontitis, with critical evaluation of biologics, small molecule inhibitors, and natural compounds as therapeutic targets.
+Comprehensive 2026 Bone Research narrative review from UNESP/Chile/Radboud/UCLA mapping the four intracellular signaling cascades (NF-κB, JAK/STAT, MAPK, PI3K/Akt) and the RANKL/RANK/OPG axis that drive osteoclast-mediated alveolar bone loss in periodontitis.
 
-## 한줄요약
+NFATc1 integrates all four pathways as the convergent terminal osteoclast differentiation factor; a novel "trained osteoclastogenesis" concept (MITF-mediated epigenetic memory in monocytes) explains burst-phase bone loss upon dysbiotic-biofilm re-challenge.
 
-치주염에서 NF-κB·JAK/STAT·MAPK·PI3K/Akt 경로를 통한 파골세포 분화와 치조골 소실 메커니즘, 및 denosumab·JAK억제제·천연화합물 등 신흥 치료전략을 비판적으로 조망한 2026년 종설.
+Current biologics (denosumab, JAK inhibitors, p38 inhibitors) show preclinical promise but systemic toxicity requires local-delivery platforms for periodontal translation; natural compounds lack sufficient standalone clinical evidence.
+
+## 세줄요약
+
+UNESP/칠레/Radboud/UCLA 공동 2026년 Bone Research 종설 — 치주염에서 파골세포 매개 치조골 소실을 주도하는 네 가지 세포내 신호경로(NF-κB·JAK/STAT·MAPK·PI3K/Akt) 및 RANKL/RANK/OPG 축을 종합 지도화.
+
+핵전사인자 NFATc1이 네 경로의 수렴 최종 분화인자; 새로운 개념인 '훈련된 파골세포형성(trained osteoclastogenesis)' — MITF 후생유전 기억이 이생물막 재자극 시 골소실 폭발적 증폭을 설명.
+
+denosumab·JAK억제제·p38억제제는 전임상에서 유망하나 전신 독성으로 인해 치주 임상 적용에는 국소 전달 플랫폼이 필수; 천연화합물은 단독 임상 근거 부족.
 
 ## Summary
 
@@ -71,6 +79,6 @@ Periodontitis affects ~700 million people worldwide (~11% of the global populati
 
 ## Related Papers
 
-- [[periodontics/liu-2019-periodontal-bone-ligament-cementum-regeneration]] — regenerative engineering strategies for PDL/bone/cementum (this review provides the molecular "why" for those strategies)
+- [[periodontics/host-modulation/liu-2019-periodontal-bone-ligament-cementum-regeneration]] — regenerative engineering strategies for PDL/bone/cementum (this review provides the molecular "why" for those strategies)
 - [[periodontics/kwon-2021-current-concepts-management-periodontitis]] — clinical management overview (this review provides the molecular underpinning)
-- [[periodontics/lee-2017-oxysterol-periodontal-regeneration-pdlsc-alveolar-bone]] — PDLSC-based regeneration; oxysterol targets Hedgehog/LXR upstream of bone formation
+- [[periodontics/host-modulation/lee-2017-oxysterol-periodontal-regeneration-pdlsc-alveolar-bone]] — PDLSC-based regeneration; oxysterol targets Hedgehog/LXR upstream of bone formation

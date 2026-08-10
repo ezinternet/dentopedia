@@ -17,13 +17,21 @@ text_filename: diaz-2025-antibiotics-sinus-lift-infection-umbrella.txt
 
 상악동거상술(Sinus Floor Elevation, SFE) 후 항생제 사용에 대한 umbrella review로, 예방적 항생제가 고위험군(막 천공, 측방 접근, 전신질환)에서만 필요하며 단순 SFE에서는 루틴 사용이 불필요하다는 근거를 제공한다. [[sinus-lift/lateral/kozuma-2017-chronic-sinusitis-sinus-augmentation-infection]]의 감염 관리 패턴을 상위 수준 증거(umbrella review, 7개 SR/MA 종합)로 보강하고, [[drug/torof-2023-antibiotic-dental-implant-procedures-sr-ma]]의 임플란트 시술 전반 항생제 근거와 연계되는 상악동 특화 synthesis.
 
-## One-line Summary
+## Three-line Summary
 
-Umbrella review of 7 SR/MAs (>18,900 patients) finds postoperative infection rates of 0.3–11.6% after sinus floor elevation, with low-certainty evidence that antibiotic prophylaxis benefits only high-risk cases (membrane perforation, extensive lateral approach, systemic comorbidities); routine use is unnecessary in uncomplicated procedures.
+Umbrella review of 7 SR/MAs (>18,900 patients, 189 primary studies) evaluating antibiotic use in sinus floor elevation (SFE) — the first such umbrella review with AMSTAR 2, GROOVE, and GRADE appraisal.
 
-## 한줄요약
+Postoperative infection rates ranged 0.3–11.6% (lateral window 1.7–2.9%, transcrestal 0.3–1.0%); implant survival consistently >90% regardless of antibiotic regimen; GRADE certainty was low for prophylaxis and very low for infection management.
 
-7개 체계적 문헌고찰 종합 umbrella review: 상악동거상술(Sinus Floor Elevation, SFE) 후 감염률 0.3–11.6%, 항생제(Antibiotic, ATB) 예방 투여는 슈나이더막(Schneiderian Membrane, SM) 천공·광범위 측방 접근·전신질환 등 고위험 상황에서만 근거 있고, 단순 SFE에서는 루틴 투여 불필요하다는 낮은~매우 낮은 수준의 근거 확인.
+Antibiotic prophylaxis benefits only high-risk cases (membrane perforation, extensive lateral approach, systemic comorbidities); routine use is unnecessary in uncomplicated SFE, supporting risk-based antimicrobial stewardship.
+
+## 세줄요약
+
+7개 SR/MA 종합 umbrella review(환자 >18,900명, 1차 연구 189편) — 상악동거상술(Sinus Floor Elevation, SFE) 항생제 사용을 AMSTAR 2·GROOVE·GRADE로 평가한 최초 umbrella review.
+
+술후 감염률 0.3–11.6%(측방 창접근 1.7–2.9%, 경치조골 접근 0.3–1.0%); 항생제 유무와 무관하게 임플란트 생존율 >90%; GRADE 예방 근거 낮음·감염 관리 근거 매우 낮음.
+
+슈나이더막(Schneiderian Membrane, SM) 천공·광범위 측방 접근·전신질환 등 고위험 상황에서만 예방적 항생제 근거 있고, 단순 SFE에서는 루틴 투여 불필요 — 위험 기반 항균제 관리(antimicrobial stewardship) 지지.
 
 ## 1. Document Information
 

@@ -14,13 +14,21 @@ full_text: false
 
 구강노쇠 (Oral Frailty) 연구에서 신체노쇠 (Physical Frailty)의 대표 지표인 악력 (Grip Strength)이 사망·심혈관 결과의 독립 예측인자임을 대규모 코호트로 확립한 기초 근거로 ingested. [[geriatric-dentistry/dibello-2022-oral-frailty-indicators-adverse-health-outcomes]]에서 "신체노쇠(OR 1.67)" 연관 기술의 하부 근거가 바로 이 Leong 2015 계열의 악력 데이터이며, [[overviews/oral-frailty-geriatric-synthesis]]의 신체노쇠-구강노쇠 연결 논리를 물리적 증거로 뒷받침한다. 악력은 EWGSOP·Asian Working Group for Sarcopenia(AWGS) 기준의 핵심 측정값으로, 노년치의학 클리닉에서 간편하게 적용 가능한 신체노쇠 스크리닝 도구다.
 
-## One-line Summary
+## Three-line Summary
 
 Large prospective cohort (PURE, n=139,691, 17 countries, median 4.0-year follow-up) shows grip strength is inversely associated with all-cause mortality (HR 1.16 per 5 kg reduction), cardiovascular mortality (HR 1.17), MI (HR 1.07), and stroke (HR 1.09), and is a stronger predictor of mortality than systolic blood pressure.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 대규모 전향적 코호트 (PURE, n=139,691, 17개국, 추적 중앙값 4.0년): 악력 (Grip Strength) 5 kg 감소당 전체사망 위험비 (Hazard Ratio, HR) 1.16, 심혈관사망 HR 1.17로 수축기혈압보다 강한 예측인자.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - **Journal**: The Lancet 2015;386(9990):266-273

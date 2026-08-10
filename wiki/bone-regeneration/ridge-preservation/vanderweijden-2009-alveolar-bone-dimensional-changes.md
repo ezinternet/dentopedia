@@ -6,18 +6,28 @@ date: 2009-11-19
 doi: 10.1111/j.1600-051X.2009.01482.x
 source: vanderweijden-2009-alveolar-bone-dimensional-changes.md
 category: [bone-regeneration/ridge-preservation]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/vanderweijden-2009-alveolar-bone-dimensional-changes.pdf
 pdf_filename: vanderweijden-2009-alveolar-bone-dimensional-changes.pdf
 source_collection: external
 tags: [ridge-resorption, extraction-socket, dimensional-change, weighted-mean, baseline-data]
 ---
 
-## One-line Summary
-Systematic review (12 human studies): after non-preserved post-extraction socket healing, weighted-mean horizontal alveolar ridge width reduction was 3.87 mm vs mid-buccal vertical loss 1.67 mm and radiographic crestal loss 1.53 mm — horizontal resorption exceeds vertical, the canonical baseline justifying ARP/immediate implant decisions.
+## Three-line Summary
 
-## 한줄요약
-체계적 문헌고찰 (Systematic Review, SR): 12편의 사람 연구에서 발치 후 자연 치유 시 치조제 폭은 가중평균 3.87 mm, 중앙 협측 높이는 1.67 mm 감소 — 수평 흡수가 수직 흡수보다 크다.
+Systematic review of 12 human studies (screening 1,350 records) quantifying post-extraction alveolar ridge dimensional changes in sockets receiving no ridge preservation procedure, with follow-up ranging from 3 to 12 months.
+
+Weighted-mean horizontal ridge width reduction was 3.87 mm; mid-buccal vertical loss 1.67 mm; radiographic crestal loss 1.53 mm; socket fill height 2.57 mm — horizontal resorption exceeds vertical by roughly 2:1.
+
+This paper is the canonical baseline for post-extraction ridge loss: the ~3.87 mm width reduction is the most-cited justification for alveolar ridge preservation (ARP) and immediate implant placement protocols.
+
+## 세줄요약
+
+1,350건을 검색해 12편의 인체 연구를 포함한 체계적 문헌고찰(Systematic Review, SR)로, 치조제 보존 처치 없이 자연 치유된 발치 후 소켓의 치조제 입체적 변화를 3–12개월 추적해 가중평균으로 정리했다.
+
+수평 치조제 폭 감소 가중평균 3.87 mm, 협측 중앙 수직 감소 1.67 mm, 방사선학적 치조정 감소 1.53 mm, 소켓 내 골충전 높이 2.57 mm — 수평 흡수가 수직의 약 2배.
+
+발치 후 치조제 소실의 표준 기준 수치로 가장 많이 인용되며, 약 3.87 mm 폭 감소가 치조제 보존술(Alveolar Ridge Preservation, ARP) 및 즉시식립(Immediate Implant Placement, IIP) 프로토콜의 핵심 근거이다.
 
 ## Summary
 This 2009 systematic review by Van der Weijden, Dell'Acqua, and Slot establishes the canonical baseline for the magnitude of post-extraction alveolar ridge dimensional change in humans receiving no preservation procedure. After screening 1350 records, 12 publications met eligibility. Weighted-mean horizontal alveolar ridge width reduction was 3.87 mm, clinical mid-buccal vertical loss was 1.67 mm, radiographic crestal vertical loss was 1.53 mm, and socket fill in height (relative to the original socket floor) averaged 2.57 mm at follow-ups of 3–12 months. The dominant clinical message: **horizontal resorption exceeds vertical resorption** during natural socket healing, with the buccal plate carrying the largest share of the loss. This paper is the most-cited reference value used to justify alveolar ridge preservation (ARP) and immediate implant placement (IIP) decisions.

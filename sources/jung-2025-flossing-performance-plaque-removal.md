@@ -17,13 +17,21 @@ text_filename: jung-2025-flossing-performance-plaque-removal.txt
 
 A common defense of flossing's weak trial record is that participants simply floss badly — so "proper technique" should rescue efficacy. This study tests that assumption head-on by measuring whether instruction-improved flossing technique actually removes more plaque, directly extending the flossing-questioned theme in [[interdental-cleaning/min-2024-brushing-flossing-mouthrinsing-plaque-microbiota]] (where adding floss to brushing produced no detectable microbiome shift). It supplies a mechanistic counterpoint for the [[overviews/interdental-cleaning-devices-synthesis]] page.
 
-## One-line Summary
+## Three-line Summary
 
-Single-cohort pre/post intervention (n=37 young adults): a video instruction raised flossing technique score (FPS) from 2.0 to 2.83 (p<.001), but plaque removal did not improve (PSPI difference 0.17 vs 0.21, p=.112) and flossing performance was uncorrelated with plaque removed — suggesting even correct flossing does not substantially reduce interdental plaque.
+Single-cohort pre/post study (n=37 young adults, Clin Oral Investig 2025): video instruction significantly improved flossing technique score (FPS 2.0 → 2.83, p<.001) and flossing duration (60.3 s → 89.2 s), confirming the instruction worked.
 
-## 한줄요약
+Despite improved technique, interdental plaque removal did not increase (PSPI reduction 0.17 vs 0.21, p=.112), and FPS was not correlated with plaque removed — pre-floss plaque level predicted post-floss plaque level far better than technique did.
 
-단일 코호트 전후 중재연구(n=37, 젊은 성인): 동영상 교육 후 치실 술식 점수(Flossing Performance Score, FPS)는 2.0→2.83으로 유의하게 향상(p<.001)됐으나 치태 제거량은 차이가 없었고(PSPI 감소 0.17 vs 0.21, p=.112), 술식 숙련도와 치태 제거량 사이 상관도 없었다 — 올바른 치실 사용도 치간 치태를 의미 있게 줄이지 못한다는 근거.
+Even when flossing is performed correctly, it reduces interdental plaque by only ~13–16%, and technique improvement adds negligible benefit — questioning whether better instruction can rescue flossing's weak clinical efficacy.
+
+## 세줄요약
+
+단일 코호트 전후 연구(n=37, 젊은 성인, Clin Oral Investig 2025): 동영상 교육 후 치실 술식 점수(FPS) 2.0→2.83(p<.001)으로 유의하게 향상되고 소요 시간도 증가해 교육 효과는 확인됨.
+
+그러나 치태 제거량은 개선되지 않았고(PSPI 감소 0.17 vs 0.21, p=.112), FPS와 치태 제거량 간 상관도 없었으며, 치실 전 치태량이 치실 후 치태량을 훨씬 더 잘 예측함.
+
+올바른 치실 사용조차 치간 치태를 ~13–16% 줄이는 데 그치고 술식 향상의 추가 이득이 거의 없어 — "교육 부족이 문제"라는 치실 방어론을 반박하는 근거.
 
 ## 1. Document Information
 

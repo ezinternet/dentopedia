@@ -15,13 +15,21 @@ category: [botulinum-toxin]
 
 처음으로 초음파 탄성영상(USE)을 이용해 BoNT-A 후 교근의 미세구조 변화(두께 vs 탄성)를 시계열로 정량화. 탄성 회복이 6개월에 기저선으로 돌아오므로 재주사 타이밍 결정에 직접 임상 적용 가능. 두께 회복과 탄성 회복이 비상관적이라는 발견은 서로 다른 회복 기전을 시사하며, [[botulinum-toxin/eberlikose-2026-botulinum-toxin-mandibular-bone-bruxism]]의 골 리모델링 연구와 보완 관계.
 
-## One-line Summary
+## Three-line Summary
 
-Prospective self-controlled study (n=14, 28 masseter muscles) using ultrasound elastography showed BoNT-A caused 28.9–31.5% thickness reduction at 1–3 months (partial recovery 47.4% at 6mo) and decreased elasticity (shear wave velocity) at 1–3 months that fully returned to baseline by 6 months; thickness and elasticity recovery were uncorrelated. Abstract-only.
+Prospective self-controlled study (n=14, 28 masseter muscles) using ultrasound elastography showed BoNT-A caused 28.9–31.5% thickness reduction at 1–3 months (partial recovery 47.4% at 6mo) and decreased elasticity (shear wave velocity) at 1–3 months that fully returned to baseline by 6 months;
 
-## 한줄요약
+thickness and elasticity recovery were uncorrelated.
 
-초음파 탄성영상을 이용한 전향 자기대조 연구(n=14, 28개 교근)에서 BoNT-A 후 교근 두께가 1–3개월에 28.9–31.5% 감소(6개월에 47.4% 부분 회복)하고, 전단파 속도로 측정한 탄성도는 1–3개월 감소 후 6개월에 기저선으로 완전 회복; 두께와 탄성 회복은 비상관. 초록만 수집.
+Abstract-only.
+
+## 세줄요약
+
+초음파 탄성영상을 이용한 전향 자기대조 연구(n=14, 28개 교근)에서 BoNT-A 후 교근 두께가 1–3개월에 28.9–31.5% 감소(6개월에 47.4% 부분 회복)하고, 전단파 속도로 측정한 탄성도는 1–3개월 감소 후 6개월에 기저선으로 완전 회복;
+
+두께와 탄성 회복은 비상관.
+
+초록만 수집.
 
 ## 1. Document Information
 

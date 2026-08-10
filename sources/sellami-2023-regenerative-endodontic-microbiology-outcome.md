@@ -9,8 +9,21 @@ pdf_filename: sellami-2023-regenerative-endodontic-microbiology-outcome.pdf
 source_collection: external
 ---
 
-## One-line Summary
-미성숙 영구치 치수괴사 REP에서 미생물 감소 및 임상·방사선 결과 연구 (Front Dent Med 2023): 14명; qPCR 4시점 채취; 1.5% NaOCl 첫 세션에서 유의한 세균 감소; LPRF 군에서 재치료 및 치근단 병소 지속 → LPRF 비권장.
+## Three-line Summary
+
+미성숙 영구치 치수괴사 REP에서 미생물 감소 및 임상·방사선 결과 연구 (Front Dent Med 2023): 14명
+
+qPCR 4시점 채취
+
+1.5% NaOCl 첫 세션에서 유의한 세균 감소; LPRF 군에서 재치료 및 치근단 병소 지속 → LPRF 비권장.
+
+## 세줄요약
+
+미성숙 영구치 치수괴사 REP에서 미생물 감소 및 임상·방사선 결과 연구 (Front Dent Med 2023): 14명
+
+qPCR 4시점 채취
+
+1.5% NaOCl 첫 세션에서 유의한 세균 감소; LPRF 군에서 재치료 및 치근단 병소 지속 → LPRF 비권장.
 
 ## 1. Document Information
 - **Journal**: Frontiers in Dental Medicine 2023, 4:1281337

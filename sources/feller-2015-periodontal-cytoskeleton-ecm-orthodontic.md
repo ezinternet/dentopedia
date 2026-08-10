@@ -9,8 +9,21 @@ pdf_filename: feller-2015-periodontal-cytoskeleton-ecm-orthodontic.pdf
 source_collection: external
 ---
 
-## One-line Summary
-교정적 치아이동 관련 PDL 세포골격 및 세포외기질(ECM)의 생체역학적 역할 고찰.
+## Three-line Summary
+
+Narrative review article examining the biomechanical roles of periodontal ligament (PDL) cytoskeleton and extracellular matrix (ECM) in supporting orthodontic tooth movement published in The Scientific World Journal (2015). Authors synthesized cellular and molecular biology literature describing PDL cellular responses to mechanical loading. Focused on how structural proteins and cytoskeletal reorganization facilitate mechanotransduction during orthodontic force application.
+
+Periodontal ligament cells undergo actin cytoskeleton reorganization in response to mechanical stimulation, enabling transduction of physical forces into intracellular signaling cascades. Extracellular matrix proteins (fibronectin, vitronectin, type I and III collagen) undergo dynamic expression changes during orthodontic loading. Integrin molecules serve as mechanoreceptors bridging the extracellular matrix to the cytoplasm, activating downstream signaling pathways (FAK, MAPK cascade) that regulate cell migration, differentiation, and survival.
+
+Review limited to in vitro laboratory studies without in vivo animal or clinical confirmation. Most evidence derived from cell culture systems that may not fully replicate the complex three-dimensional PDL tissue environment and mechanical loading patterns occurring during clinical orthodontics. Synthesis provides conceptual framework for understanding cellular mechanisms but does not address translational optimization of orthodontic force magnitudes or movement rates based on biological responsiveness.
+
+## 세줄요약
+
+교정적 치아이동에서 치주인대(PDL) 세포골격·세포외기질(ECM)의 생체역학적 역할 서술적 고찰 (Scientific World Journal 2015). PDL 세포의 기계적 자극 반응 분자생물학 종합. 구조단백질·세포골격 재구성이 교정력 기계변환 메커니즘 설명.
+
+PDL 세포는 기계 자극에 actin 세포골격 재편성으로 세포내 신호 전달 활성화. ECM 단백질(fibronectin, vitronectin, collagen I/III) 동적 발현 변화. Integrin은 기계수용체로 ECM-세포질 연결, 하위신호(FAK, MAPK) 활성화하여 세포 이동·분화·생존 조절.
+
+In vitro 연구 중심, in vivo 동물/임상 무. 세포 배양 기반으로 실제 3D PDL 조직환경·임상 기계 부하 미재현. 개념적 메커니즘 틀 제공이나 교정력 크기·이동 속도 최적화 지침 부족.
 
 ## 1. Document Information
 - **Title**: Periodontal Biological Events Associated with Orthodontic Tooth Movement: The Biomechanics of the Cytoskeleton and the Extracellular Matrix

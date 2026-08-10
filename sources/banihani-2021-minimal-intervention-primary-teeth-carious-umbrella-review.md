@@ -17,13 +17,21 @@ text_filename: banihani-2021-minimal-intervention-primary-teeth-carious-umbrella
 
 Sealant 감시 인제스트 — 최소개입치의학(Minimal Intervention Dentistry, MID) 우산리뷰에서 fissure sealant(FS)/resin infiltration의 위치와 적응 한계를 확인하기 위함. 이 umbrella review는 SDF·Hall Technique·ART·선택적 우식제거가 유치 상아질 우식의 main MID 옵션이며, **fissure sealant과 resin infiltration은 유치 상아질 우식 관리에 권장되지 않는다**고 명시적으로 결론짓는다(효능 근거가 법랑질/상아질 외측 1/3 병소에 치우쳐 제외). 즉 sealant의 적응증이 cavitated dentine lesion에는 미치지 못한다는 경계를 그어주는 surveillance 근거. 기존 [[caries/garcia-miralles-2026-sdf-cavitated-primary-molars-sr]](유치 와동성 우식 SDF SR)를 우산 레벨에서 보강하고, [[caries/urquhart-2019-nonrestorative-treatments-caries-network-meta-analysis]](비복원 우식치료 NMA — SDF·sealant 비교)와 짝을 이룬다.
 
-## One-line Summary
+## Three-line Summary
 
-Umbrella review of 18 systematic reviews (95 studies) on minimal intervention dentistry (MID) for dentinal caries in primary teeth: 38% SDF, Hall Technique, selective caries removal, and single-surface ART arrest dentinal caries vs no treatment/conventional restoration — while fissure sealants and resin infiltration are explicitly NOT recommended for dentinal lesions.
+Umbrella review of 18 systematic reviews (95 underlying studies) on minimal intervention dentistry for dentinal caries (ICDAS 4–5) in primary teeth; ROBIS quality assessment; PROSPERO-registered.
 
-## 한줄요약
+38% SDF (OR 2.44–3.63 vs comparators; 81% arrest rate), Hall Technique (failure 3% vs 37%), selective caries removal (pulp-exposure risk reduction 69–77%), and single-surface ART (1-yr success 95–100%) are endorsed MID options; fissure sealants and resin infiltration are explicitly NOT recommended for dentinal lesions.
 
-유치 상아질 우식 최소개입치료(MID) 우산리뷰(SR 18편·연구 95편): 38% SDF·Hall Technique·선택적 우식제거·단면 ART는 무처치/통상복원 대비 상아질 우식을 정지시키나, fissure sealant과 resin infiltration은 상아질 병소 관리에 권장되지 않는다.
+SDF, Hall Technique, selective removal, and single-surface ART are mainstream MID options for dentinal caries in primary teeth; sealants should not be extended beyond enamel/outer-third lesions, and ART multi-surface restorations carry substantially higher failure rates than single-surface.
+
+## 세줄요약
+
+유치 상아질 우식(ICDAS 4–5) 최소개입치료(Minimal Intervention Dentistry, MID) 우산리뷰 — SR 18편·연구 95편; ROBIS 질 평가; PROSPERO 등록.
+
+38% SDF (OR 2.44–3.63; 정지율 81%), Hall Technique(실패율 3% vs 37%), 선택적 우식제거(치수노출 위험 69–77% 감소), 단면 ART(1년 성공률 95–100%) 권장; fissure sealant·resin infiltration은 상아질 병소 관리에 권장되지 않음.
+
+SDF·Hall Technique·선택적 제거·단면 ART는 유치 상아질 우식의 주류 MID 옵션이며, sealant는 법랑질/외측 1/3 병소에 한정해야 하고, ART 다면 수복은 단면보다 실패율이 현저히 높다.
 
 ## 1. Document Information
 

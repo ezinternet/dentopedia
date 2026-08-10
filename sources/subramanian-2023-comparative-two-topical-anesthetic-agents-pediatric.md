@@ -13,11 +13,21 @@ source_collection: external
 
 소아 IANB 전 표면마취제 선택(lignocaine vs benzocaine)의 통증 감소 효과를 다룬 소규모 RCT. [[local-anesthesia/karkoutly-2024-topical-anesthetics-lidocaine-benzocaine-emla-ianb]]가 동일 비교(lidocaine·benzocaine·EMLA, IANB)를 더 엄격한 triple-blind RCT로 수행하므로, 본 연구는 그 비교군의 짝 근거이자 대비점(상충 결과)을 제공한다.
 
-## One-line Summary
+## Three-line Summary
+
 RCT (n=40 children, 6-10 y): before IANB, 20% benzocaine gel produced significantly less injection pain than 2% lignocaine gel on a 4-point scale (1.2 ± 0.6 vs 2.1 ± 0.5, P<0.05).
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 RCT(소아 40명, 6-10세): IANB 전 20% benzocaine 겔이 2% lignocaine 겔보다 주사 통증을 유의하게 더 줄임(4점 척도 1.2 ± 0.6 vs 2.1 ± 0.5, P<0.05).
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - Journal: Journal of Pharmacy and Bioallied Sciences. 2024; 16(Suppl 1):S449-S451 (published online 2023-11-07)

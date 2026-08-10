@@ -12,11 +12,21 @@ source_collection: external
 ## Why Ingested
 Definitive mechanistic review of S. mutans Gtf biology — foundational reference for EPS matrix assembly models in [[oral-microbiology/koo-2013-exopolysaccharides-matrix-biofilm-virulence]] and [[oral-microbiology/karygianni-2020-biofilm-matrixome-extracellular-components]].
 
-## One-line Summary
-Comprehensive narrative review of S. mutans glucosyltransferases (GtfB, GtfC, GtfD) — their distinct glucan products, differential surface adsorption to pellicle and bacterial surfaces, activity enhancement upon adsorption (3–4x), and coordinated roles in cariogenic biofilm matrix assembly.
+## Three-line Summary
 
-## 한줄요약
-Narrative review: S. mutans 유래 glucosyltransferases(GtfB/C/D)의 분자 생물학 총괄 — pellicle 및 세균 표면 흡착 후 활성 3–4배 증가, 치아우식 바이오필름 기질 조립에서의 역할.
+Comprehensive narrative review (Caries Research 2011; Bowen & Koo, University of Rochester) of S. mutans glucosyltransferases (GtfB, GtfC, GtfD), their distinct glucan products, and differential adsorption to the pellicle and bacterial surfaces in the context of cariogenic biofilm EPS matrix assembly.
+
+Pellicle-adsorbed GtfC activity is 3–4× enhanced vs solution-phase; GtfB adsorbs avidly to oral bacteria, converting non-producers into glucan-forming organisms; together they form insoluble glucan promoting tight microcolony clustering; glucan comprises 10–20% dry weight of dental plaque.
+
+Inhibitors effective against solution-phase Gtfs often lose potency against adsorbed enzymes, presenting a key challenge for anti-plaque strategies; conformational changes upon adsorption remain mechanistically unclear.
+
+## 세줄요약
+
+서술형 리뷰(Caries Research 2011; 로체스터대 Bowen & Koo): S. mutans GtfB/C/D의 포도당 전이효소(glucosyltransferase) 산물 차이, pellicle·세균 표면 흡착 후 활성 변화, 우식성 바이오필름 EPS 기질 조립 역할을 종합.
+
+Pellicle 흡착 GtfC 활성은 용액 상태 대비 3–4배 증가; GtfB는 비생산 구강세균에 흡착해 불용성 글루칸 형성 유도; 글루칸이 치태 건조중량의 10–20% 차지.
+
+용액 상태 Gtf 억제제가 흡착 효소에는 효력 감소 — 항플라크 전략의 핵심 장애물; 흡착 시 구조 변화 기전은 미해명.
 
 ## 1. Document Information
 - Caries Research. 2011;45(1):69–86. Published online 23 February 2011. DOI: 10.1159/000324598.

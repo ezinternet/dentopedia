@@ -13,13 +13,21 @@ source_collection: external
 
 비니어 카테고리의 기초 SR+MA로, 세라믹 라미네이트 비니어의 생존율과 합병증 비율에 대한 근거 기반을 확립하기 위해 수집. [[veneers/klein-2025-ceramic-laminate-veneer-survival-complications-sr-ma]]의 선행 참조 연구로서, 기존 9년 데이터와 2025년 최신 SR+MA 간의 비교 맥락을 제공함.
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 13 clinical studies: ceramic laminate veneers show 89% overall cumulative survival at median 9 years; glass-ceramic outperforms feldspathic (94% vs 87%); fracture/chipping is the most frequent complication (4%).
+SR+MA of 13 clinical studies: ceramic laminate veneers show 89% overall cumulative survival at median 9 years;
 
-## 한줄요약
+glass-ceramic outperforms feldspathic (94% vs 87%);
 
-SR+MA (13편): 세라믹 라미네이트 비니어의 전체 누적 생존율 89% (중앙값 9년), 글래스세라믹 94% vs 장석계 87%; 파절/칩핑이 가장 흔한 합병증(4%).
+fracture/chipping is the most frequent complication (4%).
+
+## 세줄요약
+
+SR+MA (13편): 세라믹 라미네이트 비니어의 전체 누적 생존율 89% (중앙값 9년), 글래스세라믹 94% vs 장석계 87%;
+
+파절/칩핑이 가장 흔한 합병증(4%).
+
+(incomplete)
 
 ## 1. Document Information
 

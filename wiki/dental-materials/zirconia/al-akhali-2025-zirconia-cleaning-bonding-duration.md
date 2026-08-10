@@ -6,18 +6,26 @@ date: 2025-10-31
 doi: 10.2186/jpr.JPR_D_24_00273
 source: al-akhali-2025-zirconia-cleaning-bonding-duration.md
 category: [dental-materials/zirconia]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/al-akhali-2025-zirconia-cleaning-bonding-duration.pdf
 pdf_filename: al-akhali-2025-zirconia-cleaning-bonding-duration.pdf
 source_collection: external
 tags: [zirconia, APA, cleaning, Ivoclean, surface-free-energy, SFE, 150-day, long-term, TBS]
 ---
 
-## One-line Summary
-In vitro (J Prosthodont Res 2025): cleaning method after airborne-particle abrasion with a 72-hour delay — no short-term TBS differences; at 150 days/37,500 thermocycles, Ivoclean and alcohol showed best durability; Katana Cleaner reduced SFE and is contraindicated.
+## Three-line Summary
+In vitro study (J Prosthodont Res 2025) simulating a clinically relevant 72-hour delay between airborne-particle abrasion (APA) and zirconia bonding, measuring surface free energy (SFE) by goniometry and tensile bond strength (TBS) at 3 days and 150 days/37,500 thermocycles.
 
-## 한줄요약
-in-vitro(J Prosthodont Res 2025): 에어어브레이전 72시간 후 세정법별 TBS — 단기 차이 없음; 150일(37,500 열순환) 후 Ivoclean·알코올 내구성 우수; Katana Cleaner SFE 저하 — 사용 금기.
+Short-term TBS showed no significant difference between cleaning groups; long-term durability was significantly affected by cleaning method — Ivoclean (SFE 68.4 mN/m) and alcohol (61.8 mN/m) showed best durability while Katana Cleaner paradoxically reduced SFE to 33.1 mN/m.
+
+Katana Cleaner is contraindicated after APA on zirconia; Ivoclean remains the gold standard for long-term bond durability when a clinical delay occurs before cementation.
+
+## 세줄요약
+인비트로(J Prosthodont Res 2025): 에어어브레이전(Airborne-Particle Abrasion, APA) 후 72시간 임상 지연을 모의한 설계에서, 표면자유에너지(Surface Free Energy, SFE)와 인장접착강도(Tensile Bond Strength, TBS)를 3일 및 150일/열순환 37,500회에서 측정.
+
+단기 TBS는 세정군 간 유의한 차이 없음; 장기 내구성은 세정법에 따라 유의하게 차이 — Ivoclean(SFE 68.4 mN/m)·알코올(61.8 mN/m) 내구성 우수; Katana Cleaner는 역설적으로 SFE를 33.1 mN/m로 저하.
+
+Katana Cleaner는 지르코니아(Zirconia) APA 후 금기; 임상에서 접착 지연이 발생할 경우 장기 결합 내구성에는 Ivoclean이 표준.
 
 ## Summary
 In vitro study simulating clinical scenario where 72h delay occurs between airborne-particle abrasion (APA) and bonding of zirconia. Measured surface free energy (SFE) by goniometry and tensile bond strength (TBS) at 3 days and 150 days / 37,500 thermocycles. Key finding: short-term TBS similar across groups; long-term durability significantly affected by cleaning method.

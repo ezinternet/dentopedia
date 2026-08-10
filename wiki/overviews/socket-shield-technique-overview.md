@@ -6,7 +6,7 @@ date: 2026-06-28
 doi: N/A
 source: synthesis
 category: overviews
-confidence: synthesis
+evidence_level: synthesis
 pdf_path: N/A
 pdf_filename: N/A
 source_collection: synthesis
@@ -28,13 +28,21 @@ tags: [overview, socket-shield, sst, immediate-implant, esthetic-zone, buccal-bo
 > - 미해결: 장기(≥5년) 생존·실드 거동, 표준 실드 기하/술식 프로토콜, Ji 2025 NMA는 ahead-of-print(transitivity 재확인 필요), 절대 효과크기는 증례보고 비중으로 과대.
 > - 2026-06-28 추가(초록 수준, 전문 미입수 — 수치 인용 보류): Brazyte 2025 체계적문헌고찰+메타분석(Systematic Review + Meta-Analysis, SR+MA, Stomatologija, PMID 41628481)이 최신 풀링 추정 보강, Gurbuz 2024 비이식 소켓 무작위대조시험(Randomized Controlled Trial, RCT, Int J Oral Maxillofac Surg, 39648089)은 실드 단독(그래프트 없이) 협측 보존 가능성 검증, Kotsakis 2022 협측 치근 잔존(buccal-root retention) SR+MA(Clin Implant Dent Relat Res, 36331494), Du Toit 2021 치근 수몰/부분발치치료(root submergence/PET) SR(J Prosthet Dent, 34750013)이 SST를 부분발치치료 계열 안에 위치시킴 — 모두 방향성 일관(우월·생존 양호)이나 본문 정량 anchor는 기존 Oliva 2023·Atef 2021 유지.
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis of 17 wiki pages plus 4 abstract-level 2021–2025 reviews/RCTs on the Socket Shield Technique (SST): pooled SR/MA + RCTs converge on superior buccal-bone and pink-esthetic preservation (BBPR ~0.32 vs ~1.05 mm, MBL ~0.39 vs ~1.00 mm, PES +1.3), but evidence is dominated by case reports, long-term (≥5y) data are thin, a 4–17% shield-related complication rate restricts SST to experienced operators in selected esthetic-zone cases, and an FEA study flags the retained shield as the highest peri-implant stress concentrator — a biomechanical caution beneath the favorable clinical numbers. Newer (abstract-only) evidence — Brazyte 2025 SR+MA, Gurbuz 2024 non-grafted RCT, Kotsakis 2022 buccal-root-retention SR+MA, Du Toit 2021 root-submergence/PET SR — reinforces the same direction of effect without yet overturning the quantitative anchors.
+Synthesis of 17 wiki pages plus 4 abstract-level 2021–2025 reviews/RCTs on the Socket Shield Technique (SST) — leaving a buccal root fragment at immediate implant placement to preserve bundle bone and its PDL blood supply, countering the near-universal post-extraction buccal plate resorption.
 
-## 한줄요약
+Pooled SR + RCTs converge on superior buccal-bone and pink-esthetic preservation vs conventional immediate placement (Oliva 2023 SR: BBPR 0.32 vs 1.05 mm, MBL 0.39 vs 1.00 mm, PES 12.08 vs 10.77, survival 98.6%; Atef 2021 RCT: buccal bone −0.28 vs −0.94 mm, mucosal recession 0.18 vs 0.52 mm); however, evidence is dominated by case reports and long-term (≥5-year) data are absent; shield-specific complications (exposure, fracture, migration) occur in 4–17% and restrict SST to experienced operators; an FEA study (Neves 2023) identifies the retained shield as the highest peri-implant stress concentrator.
 
-소켓실드 기법(Socket Shield Technique, SST) 17개 페이지 + 초록 수준 신규 4편 종합. SR/MA + RCT가 협측 골판·핑크 심미 보존 우월로 수렴(협측 골판 흡수 BBPR 약 0.32 vs 1.05 mm, 변연골 소실 MBL 약 0.39 vs 1.00 mm, 핑크 심미 점수 PES +1.3). 단 근거 다수가 증례보고이고 장기(≥5년) 데이터 부족, 실드 관련 합병증 4–17%로 숙련자·선별 심미부 증례에 한정. 신규 FEA는 잔존 실드가 주위골 응력 집중을 최대화함을 보인다. 초록 수준 Brazyte 2025 SR+MA·Gurbuz 2024 비이식 RCT·Kotsakis 2022·Du Toit 2021은 방향성을 재확인(정량 anchor는 미변경, 전문 입수 후 갱신 예정).
+SST is appropriate for esthetic-zone single immediate implants where buccal-plate preservation is critical and CTG/xenograft alternatives are insufficient: thin but intact buccal plate, no vertical fracture or active infection — not appropriate for operators without SST-specific training or rescue-plan capability; newer abstract-only evidence (Brazyte 2025 SR+MA, Gurbuz 2024 non-grafted RCT, Kotsakis 2022, Du Toit 2021) reinforces the direction of effect without overturning the quantitative anchors.
+
+## 세줄요약
+
+17개 위키 페이지 + 초록 수준 4편 — 소켓실드 기법(Socket Shield Technique, SST): 즉시식립 시 협측 치근 조각("실드")을 남겨 다발골(bundle bone)과 치주인대(PDL) 혈류를 보존함으로써 발치 후 협측골 흡수에 대응.
+
+SR+MA+RCT가 통상 즉시식립 대비 협측 골판·핑크 심미 보존 우월로 수렴(Oliva 2023 SR: 협측골 흡수(BBPR) 0.32 vs 1.05 mm, 변연골소실(MBL) 0.39 vs 1.00 mm, 핑크심미점수(PES) 12.08 vs 10.77, 생존 98.6%; Atef 2021 RCT: 협측골 −0.28 vs −0.94 mm); 그러나 근거 다수가 증례보고·장기(≥5년) 데이터 없음; 실드 특이 합병증(노출·파절·이동) 4–17%로 숙련자 한정; Neves 2023 FEA는 잔존 실드가 주위골 응력 최고 집중원임을 확인.
+
+SST 적응증: 심미부 단일 즉시식립에서 협측골 보존이 핵심이고 CTG/이종골 대안이 불충분할 때 — 얇지만 온전한 협측판, 수직파절·감염 없음; 비적응증: SST 경험 없는 술자, 구제 수단 없는 환경; 초록 수준 Brazyte 2025 SR+MA·Gurbuz 2024 비이식 RCT·Kotsakis 2022·Du Toit 2021은 효과 방향성 재확인(정량 anchor 미변경).
 
 ## Summary
 
@@ -95,8 +103,8 @@ Patient-consent–ready numbers, strongest source first:
 | Buccal mucosal recession (RCT) | 0.18 mm | 0.52 mm (xenograft) | −0.34 mm | Atef 2021 (rct) |
 | Buccal bone mean diff (MA) | — | — | −0.5 mm favoring SST | Gharpure 2022 (sr+ma) |
 
-[근거강함] BBPR·MBL·PES 우월 방향은 Oliva 2023·Velasco 2021·Gharpure 2022·Atef 2021에서 일관 — direction of effect is robust.
-[claude해석] 환자 설명용: "협측 골판 흡수가 약 1 mm에서 0.3 mm로, 3배가량 줄어듭니다." 단, point estimate는 case-series 비중이 커 절대값보다 방향성으로 전달.
+[확인] BBPR·MBL·PES 우월 방향은 Oliva 2023·Velasco 2021·Gharpure 2022·Atef 2021에서 일관 — direction of effect is robust.
+[미검증] 환자 설명용: "협측 골판 흡수가 약 1 mm에서 0.3 mm로, 3배가량 줄어듭니다." 단, point estimate는 case-series 비중이 커 절대값보다 방향성으로 전달.
 
 ## Complication Profile
 
@@ -107,17 +115,17 @@ The headline trade-off. Reported complication rates diverge by review scope and 
 - **Complication taxonomy** (Lin 2022): shield mobility, infection, internal/external exposure, coronal/apical migration, apical resorption.
 - **Complication-free survival**: 90.5% (Ogawa 2022).
 
-[합의수준] 실드 노출·이동이 SST 특유의 주 합병증이며 술자 숙련도 의존적. 합병증이 발생해도 implant survival 자체는 높게 유지(98.6% Oliva)되나, 미용 실패·재수술 위험이 본질적 비용.
+[확인] 실드 노출·이동이 SST 특유의 주 합병증이며 술자 숙련도 의존적. 합병증이 발생해도 implant survival 자체는 높게 유지(98.6% Oliva)되나, 미용 실패·재수술 위험이 본질적 비용.
 
 ## Biomechanics (in-vitro)
 
 A finite element analysis ([[immediate-implant/socket-shield/neves-2023-socket-shield-stress-distribution-fea]]) modeled a maxillary central incisor implant crown under combined oblique loads (100 N lingual + 25.5 N incisal) comparing three buccal-wall conditions: socket shield (2.0-mm dentin fragment), heterologous bone graft, and a fully bone-embedded control. Both SST and bone graft transmitted **higher peri-implant bone stress than the control**, and the **socket shield produced the highest stress concentration** in peri-implant tissues.
 
-[claude해석] This is the mechanistic bridge to the complication profile: the shield that protects the buccal plate clinically also concentrates load at the peri-implant interface, a plausible driver of shield migration/resorption. [미검증] FEA is idealized (static loads, assumed material properties, no biological remodeling) and stress ≠ clinical failure — treat as hypothesis-generating, not as a contraindication.
+[미검증] This is the mechanistic bridge to the complication profile: the shield that protects the buccal plate clinically also concentrates load at the peri-implant interface, a plausible driver of shield migration/resorption. [미검증] FEA is idealized (static loads, assumed material properties, no biological remodeling) and stress ≠ clinical failure — treat as hypothesis-generating, not as a contraindication.
 
 ## Decision Framework
 
-**1차 권고** — esthetic-zone single immediate implant에서 협측 골판 보존이 critical하고 다른 옵션(CTG·이종골)으로 부족할 때, **숙련 술자에 한해** SST 고려. [근거강함: 방향성] / [미검증: 장기 예측성]
+**1차 권고** — esthetic-zone single immediate implant에서 협측 골판 보존이 critical하고 다른 옵션(CTG·이종골)으로 부족할 때, **숙련 술자에 한해** SST 고려. [확인: 방향성] / [미검증: 장기 예측성]
 
 When SST is reasonable:
 - Anterior maxilla, high esthetic demand, thin/intact buccal plate at risk of resorption.
@@ -134,12 +142,12 @@ Alternatives and trade-offs:
 - **CTG + immediate provisional**: standard esthetic-zone soft-tissue play; well-evidenced, no retained root.
 - **SST**: best buccal/PES numbers, worst complication-pattern uncertainty.
 
-**Graft vs no-graft inside the shield** — whether SST still needs a simultaneous jumping-gap graft is unsettled. Gurbuz 2024 (RCT, non-grafted socket; abstract-only) directly addresses this, supporting a graft-optional shield, consistent with the "minimally invasive, graft-optional" framing in Verma 2022. [추정 — 전문 미입수; 수치는 ingest 후 확정]
+**Graft vs no-graft inside the shield** — whether SST still needs a simultaneous jumping-gap graft is unsettled. Gurbuz 2024 (RCT, non-grafted socket; abstract-only) directly addresses this, supporting a graft-optional shield, consistent with the "minimally invasive, graft-optional" framing in Verma 2022. [미검증 — 전문 미입수; 수치는 ingest 후 확정]
 
 ## Indication Expansion (frontier, low evidence)
 
 - **Posterior / lower molar**: feasible as proof of principle ([[immediate-implant/socket-shield/simuntis-2025-socket-shield-lower-molar-case]]) — single case, no cohort confirmation. [미검증]
-- **Orthodontic extraction sites**: paired RCT (n=26) suggests ridge preservation when an orthodontically-moved tooth's buccal root is retained ([[immediate-implant/socket-shield/zhang-2026-socket-shield-orthodontic-premolar-rct]]); shield-removal timing depends on tooth-movement rate. [근거강함 within-design / 추정 generalizability]
+- **Orthodontic extraction sites**: paired RCT (n=26) suggests ridge preservation when an orthodontically-moved tooth's buccal root is retained ([[immediate-implant/socket-shield/zhang-2026-socket-shield-orthodontic-premolar-rct]]); shield-removal timing depends on tooth-movement rate. [확인 (연구 설계 내), 일반화는 미검증]
 
 ## Open Questions
 
@@ -156,3 +164,9 @@ Alternatives and trade-offs:
 - [[bone-regeneration/ridge-preservation/couso-queiruga-2021-post-extraction-dimensional-changes-systematic]] — buccal-plate resorption biology motivating SST.
 - [[overviews/implant-placement-timing-immediate-early-delayed]] — placement-timing decision (immediate/early/delayed); SST is an immediate-placement variant.
 - All 17 SST pages — see Evidence Map above.
+
+## Evidence Update — Socket Shield vs Conventional IIP: 27-Study SR+MA (Lu 2025)
+
+Lu 2025 (SR+MA, 27 studies including 13 Chinese-language RCTs previously omitted by Western meta-analyses, n=1307 implants) provides the largest SST evidence pool to date. SST significantly outperformed conventional immediate implant placement on buccal bone preservation: horizontal bone loss MD −0.50 mm, vertical bone loss MD −0.56 mm, PES improvement +1.25, and ISQ +5.83. Implant success was equivalent (RR 1.00, I²=0%). Advantages persisted across shield-height, shield-thickness, and grafting subgroups. The inclusion of Chinese-language literature meaningfully expanded the evidence base and strengthened precision. This is the highest-quality meta-analytic support for the SST to date, consistent with earlier findings in this overview but with substantially improved statistical precision.
+
+- [[immediate-implant/socket-shield/lu-2025-socket-shield-conventional-aesthetic-meta]] — 27-study SR+MA: SST bone preservation MD −0.50 mm horizontal, −0.56 mm vertical; PES +1.25; ISQ +5.83; success RR 1.00.

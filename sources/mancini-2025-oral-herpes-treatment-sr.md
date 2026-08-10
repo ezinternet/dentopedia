@@ -13,13 +13,21 @@ source_collection: external
 
 Anchors the recurrent/labial HSV management axis, pairing with the primary-infection SR [[oral-medicine/coppola-2023-herpetic-gingivostomatitis-sr]] and feeding the vesiculo-ulcerative branch of [[overviews/oral-medicine-decision-ladder]].
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (PRISMA, 2005-2025) of topical vs systemic therapy for oral HSV: topical agents (aciclovir cream, docosanol) shorten lesion duration when applied early but do not reduce recurrence; systemic antivirals (aciclovir, valaciclovir, famciclovir) address both resolution and recurrence prevention.
+Systematic review (PRISMA, 2005-2025) of topical vs systemic therapy for oral HSV: topical agents (aciclovir cream, docosanol) shorten lesion duration when applied early but do not reduce recurrence;
 
-## 한줄요약
+systemic antivirals (aciclovir, valaciclovir, famciclovir) address both resolution and recurrence prevention.
+
+(incomplete)
+
+## 세줄요약
 
 구강 HSV의 국소 vs 전신 치료 체계적 문헌고찰(PRISMA, 2005-2025): 국소제(아시클로버 크림·도코사놀)는 조기 적용 시 병변기간을 줄이나 재발은 감소시키지 못하고, 전신 항바이러스제(아시클로버·발라시클로버·팜시클로버)는 병변 해소와 재발 예방을 모두 담당.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

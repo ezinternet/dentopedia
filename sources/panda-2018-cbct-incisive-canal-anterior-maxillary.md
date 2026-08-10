@@ -9,8 +9,21 @@ pdf_filename: panda-2018-cbct-incisive-canal-anterior-maxillary.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Cross-sectional CBCT study evaluating incisive canal dimensions and anterior maxillary bone thickness, with implications for immediate implant placement risk of canal perforation.
+## Three-line Summary
+
+Cross-sectional CBCT study evaluating incisive canal dimensions
+
+and anterior maxillary bone thickness, with implications
+
+for immediate implant placement risk of canal perforation.
+
+## 세줄요약
+
+Cross-sectional CBCT study evaluating incisive canal dimensions
+
+and anterior maxillary bone thickness, with implications
+
+for immediate implant placement risk of canal perforation.
 
 ## 1. Document Information
 - **Title:** Cone beam computerized tomography evaluation of incisive canal and anterior maxillary bone thickness for placement of immediate implants
@@ -32,8 +45,8 @@ Provides population-specific dimensional data. Quantifies how palatal IIP trajec
 Cross-sectional; single population; no outcome data.
 
 ## 6. Related Work
-- [[immediate-implant/kan-2011-sagittal-root-position-immediate-implant-anterior]]
-- [[immediate-implant/altarawneh-2018-bone-dimensions-anterior-maxilla-cbct]]
+- [[immediate-implant/anatomic-assessment/kan-2011-sagittal-root-position-immediate-implant-anterior]]
+- [[immediate-implant/anatomic-assessment/altarawneh-2018-bone-dimensions-anterior-maxilla-cbct]]
 
 ## 7. Glossary
 - **IIP:** Immediate Implant Placement — placement at the time of tooth extraction.

@@ -9,8 +9,21 @@ pdf_filename: alharbi-2018-miniscrew-failure-rate-orthodontics-sr-ma.pdf
 source_collection: external
 ---
 
-## One-line Summary
-SR+MA of 46 studies (n=3,250 miniscrews) finding an overall orthodontic miniscrew failure rate of 13.5%, with gingival tissue type and smoking as the only statistically significant risk factors.
+## Three-line Summary
+
+SR+MA of 46 studies (16 RCTs + 30 prospective cohorts; ~3,250 miniscrews; search to July 2017; Eur J Orthod 2018;40(5):519–530) reporting the pooled failure rate and risk factors for orthodontic miniscrews used as temporary anchorage devices.
+
+Overall miniscrew failure rate was 13.5% (95% CI 11.5–15.9%); only gingival tissue type (keratinized vs mobile mucosa) and smoking were statistically significant risk factors; diameter, length, design, patient age, and jaw of insertion were non-significant.
+
+High heterogeneity (I²) across studies limits conclusions; miniscrew placement in keratinized gingiva and avoiding smoking are the two clinically modifiable risk-reduction strategies.
+
+## 세줄요약
+
+SR+MA(RCT 16편 + 전향코호트 30편, 총 46편; 미니스크류 약 3,250개; 2017년 7월까지 검색; Eur J Orthod 2018): 교정용 미니스크류(TAD)의 전체 실패율 및 위험인자 합산.
+
+전체 미니스크류 실패율 13.5%(95% CI 11.5–15.9%); 통계적으로 유의한 위험인자는 치은 조직 유형(각화 vs 유동성 점막)과 흡연만; 직경·길이·디자인·환자 연령·삽입 악골은 비유의.
+
+연구 간 높은 이질성(I²)으로 결론 제한; 각화치은 부위 식립 및 금연이 임상적으로 조절 가능한 위험 감소 전략.
 
 ## 1. Document Information
 - **Journal**: European Journal of Orthodontics, Volume 40, Issue 5, October 2018, Pages 519–530

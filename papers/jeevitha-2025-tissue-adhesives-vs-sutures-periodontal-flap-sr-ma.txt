@@ -1,0 +1,82 @@
+Title: Comparison of clinical effectiveness between tissue adhesives and sutures for wound closure in periodontal flap surgery: a systematic review and meta-analysis
+Authors: M Jeevitha, Gurumoorthy Kaarthikeyan, Prabhu Manickam Natarajan
+Journal: Frontiers in Oral Health, 2025;6:1556690
+DOI: 10.3389/froh.2025.1556690
+PMID: 41059214
+PMCID: PMC12497832
+Source: PubMed Central full text (JATS), retrieved via PubMed MCP get_full_text_article
+
+Introduction
+
+Appropriate closure and stabilization of approximated wound margins in their respective position is the key to success for any surgery. The distinctive challenge of periodontal surgery is that it must reapproximate and stabilize various soft tissues, such as delicate unattached mucosa and attached mucosa with keratinized tissue, to various hard tissues, such as cementum, medullary bone, and titanium implant surfaces. Bacterial colonization, swallowing pattern, masticatory function, and tension created by the tongue pose an additional threat to periodontists in wound healing. The degree of wound healing can be assessed using various indices found in literature by employing clinical parameters, such as swelling, bleeding control, tissue color, discharge, wound separation, patient pain, and others at different time points. Early wound healing index (EWHI) was developed by Wachtel et al. in 2003 for evaluating early wound healing 1-2 weeks post-surgery of intrabony defects. It records flap closure as complete or incomplete and also the amount of fibrin and necrosis. Wound Healing Index (WHI) by Huang et al. clinically evaluates the early wound healing at 2 weeks after a coronally advanced flap root coverage procedure by recording the gingival edema, erythema, suppuration, patient discomfort, and flap dehiscence. Healing index (HI) by Landry et al. assesses the tissue color, response to palpation, granulation tissue, suppuration, and incision margin at 2 weeks and 4 weeks after periodontal surgery.
+
+Previously, surgical wound closure has been largely executed using sutures (needle and thread). Threads can be either resorbable or non-resorbable, and their selection relies on various factors, including wound location, the amount of tension present, the condition of the surrounding skin, the nature of the wound edges, the status of hemostasis, and the patient's capacity to manage the wound. Resorbable materials can be natural (e.g., chromic gut) or synthetic (e.g., polyglycolic acid). The most commonly used non-resorbable materials are polyester and silk. However, the use of sutures for wound closure presents limitations such as tissue reactivity and the need for suture removal and caution during wound closure.
+
+Recent alternatives such as staples, tissue adhesives, and adhesive tapes have entered the surgical practice. The introduction of tissue adhesives into practice helps overcome the abovementioned limitations by eliminating the needlestick injury risk to surgeons and surgical assistants. Tissue adhesives hold the wound edges together until healing when applied over the mucosal surgical wound. They offer tensile strength, decrease microbial contamination, and improve the cosmetic appearance, which are comparable to those achieved using sutures, adhesive tapes, and staples.
+
+The first tissue adhesive was created in 1949 and has been utilized for over 70 years. Initially, the application of these adhesives was limited to the treatment of superficial cuts due to their restricted physical properties and the risk of inflammatory responses. With advancements in the field, cyanoacrylate derivatives were developed offering greater purity and strength compared with earlier adhesives. To address certain limitations such as decreased tensile strength, newer tissue adhesives that incorporate plasticizers and stabilizers have been designed to enhance flexibility and improve tensile strength.
+
+Fibrin sealant was first used in intraoral periodontal surgery in the 1980s, primarily to retain heterogeneous bone grafts within periodontal defects. Later, it has been used to fix periodontal flaps and grafts. Cyanoacrylate esters are monomeric, colorless liquid that forms vapors upon contact with moisture and eccrine and sebaceous components. Tissue adhesives derived from cyanoacrylate esters are a new, non-ablative, biodegradable formulation that rapidly polymerizes upon tissue contact. However, granulomatous reactions followed by fibroblast invasion can be observed in 30 days after application in surgical wounds.
+
+This systematic review aimed to assess the comparative efficacy of tissue adhesives and sutures in promoting wound healing following periodontal flap surgery, as assessed by wound healing indices.
+
+Materials and methods
+
+Protocol: registered with PROSPERO (CRD42023444615), originally scoped to all oral and maxillofacial surgeries but narrowed during scoping to periodontal flap surgery because most high-quality evidence clustered there. Followed PRISMA 2020.
+
+Review question: Are tissue adhesives more clinically effective than sutures for wound closure of periodontal flap surgery?
+
+PICOS: Population = adults 18-60 undergoing periodontal flap surgery; Intervention = tissue adhesives for wound closure; Comparator = suture materials; Outcome = percentage of wound closure / wound dehiscence; Study design = RCTs, clinical trials, non-randomized trials, split-mouth trials, conference proceedings, pre-prints (excluded: cross-sectional, cohort, case-control, reviews).
+
+Search: PubMed, Cochrane Library, Scopus, Web of Science, Google Scholar, Embase, trial registries, hand search of wound-care/periodontal journals, 2013-2023, no language restriction. PubMed alone returned 58 results.
+
+Two reviewers (JM, GK) independently screened via Rayyan with blinding; disagreements resolved by a third reviewer (PN). Risk of bias assessed with Cochrane RoB-2. Data synthesized as standardized mean differences (SMD) via inverse-variance random-effects, and risk ratios (RR) via Mantel-Haenszel random-effects for dichotomous outcomes. I-squared >40% considered substantial heterogeneity. Funnel plot for publication bias. GRADEpro used for certainty of evidence.
+
+Results
+
+Study selection: 252 records identified across databases; 196 duplicates removed; 56 screened; 35 excluded at title/abstract; 21 sought for full text (2 unobtainable despite contacting authors); 19 assessed for eligibility; 2 excluded for not reporting wound healing outcomes, 1 systematic review excluded, 1 study on oral mucosal surgical incisions excluded, 1 study with mismatched analysis excluded, 4 studies on gingival recession/free gingival graft excluded. Final: 10 studies for qualitative synthesis, 8 for quantitative synthesis (meta-analysis).
+
+Characteristics of included studies: 255 patients total (18-60 years, 131 male / 124 female). Cyanoacrylate and 3-0 black silk were the most common tissue-adhesive and suture materials respectively. 7 studies used conventional non-displaced mucoperiosteal flap, 2 used modified Widmann flap, 1 used full-thickness mucoperiosteal flap. Outcomes measured via Wachtel EWHI, Huang WHI, or Landry HI, or wound dehiscence.
+
+Included trials (author/year, country, design, n, comparison, key finding):
+- Pulikkotil et al. 2014 (India), RCT split-mouth, n=15: fibrin sealant (Tisseel) vs 3-0 black silk sutures. Dehiscence 0.0 in both groups at baseline/7d/3mo except control 0.20±0.41 at 7d.
+- Khurana et al. 2016 (India), RCT split-mouth, n=20: 3-0 silk vs isoamyl 2-cyanoacrylate. Wound healing (EWHI) 1st week: silk 1.44±0.72 vs cyanoacrylate 1.00±0.5; 2nd week: 1.09±0.55 vs 1.00±0.5.
+- Saquib et al. 2018 (India), RCT split-mouth, n=30: 3-0 silk (SS) vs N-butyl cyanoacrylate (CS), full-thickness mucoperiosteal flap. WHI at 7/21/42 days: SS 1.59/1.29/1.00 vs CS 1.19/1.09/1.00.
+- Vyas et al. 2018 (India), split-mouth comparative, n=50, modified Widmann: 3-0 silk vs isoamyl 2-cyanoacrylate. No significant mean difference in early healing index at 2nd week.
+- Dipika et al. 2020 (India), RCT split-mouth, n=20: isoamyl 2-cyanoacrylate vs 3-0 silk. Healing index 1st week: cyanoacrylate 1.80±0.55 vs silk 2.30±0.67 (lower = better).
+- Kaur et al. 2020 (India), split-mouth, n=10: isoamyl 2-cyanoacrylate vs 3-0 silk. Healing index category counts at day 1 and day 7 reported (adhesive skewed toward "excellent" more at day 1).
+- Sadatmansouri et al. 2020 (Iran), RCT split-mouth, n=10: N-butyl + 2-octyl cyanoacrylate vs 4-0 non-absorbable silk. Healing index 1 week: case 2.7±0.64 vs control 3.3±0.53 (lower = better).
+- Chandra et al. 2021 (India), RCT, n=40: N-butyl cyanoacrylate vs 3-0 silk. WHI at 3/7/14/21 days: test 1.2/1.3/1.2/0.93 vs control 1.9/1.8/1.4/0.95.
+- Soundarajan et al. 2021 (India), RCT, n=30: 3-0 silk vs autologous fibrin glue. Simplified healing index at 1 week: silk skewed "fair/poor", fibrin glue skewed "good".
+- Aeran et al. 2022 (India), RCT, n=30, modified Widmann flap: 3-0 silk vs N-butyl cyanoacrylate. HI at 7 days: silk 1.11±0.11 vs cyanoacrylate 1.03±0.05.
+
+Risk of bias (RoB-2): 2 of 10 trials (Chandra 2021, Soundarajan 2021) raised "some concerns" in the randomization domain; all others low risk overall (80% low risk / 20% some concerns).
+
+Meta-analysis: 6 studies used mean wound healing index for meta-analysis; 2 studies assessed wound healing as a percentage/dichotomous outcome. Subgroup analysis by follow-up (7, 14, 21 days) of mean wound healing showed no significant overall difference between tissue adhesives and sutures (p=0.240), with high heterogeneity (I²=94%). Standardized mean difference (SMD, negative favors adhesive numerically lower index = better healing in this scale):
+- 7 days: SMD -0.25 (95% CI -1.80 to 1.30; p=0.75; I²=96%)
+- 14 days: SMD -0.77 (95% CI -1.96 to 0.43; p=0.21; I²=85%)
+- 21 days: SMD -0.96 (95% CI -2.54 to 0.63; p=0.24; I²=93%)
+- Overall pooled: SMD -0.50 (95% CI -1.42 to 0.42; p=0.29; I²=94%) — not statistically significant.
+Dichotomous wound-healing outcome (2 studies): pooled RR 0.75 (95% CI 0.19-3.00; p=0.68; I²=0%) — not significant. Pooled healing proportion ~88% (tissue adhesive) vs ~86% (sutures) at day 7, no significant difference.
+
+Elsewhere in the discussion the authors also report a separate pooled effect-size framing using Hedges' g style notation, described as g=0.42 (95% CI 0.18-0.66, p<0.001) "favoring tissue adhesive over sutures," with subgroup split by trial size: larger trials g=0.55 (95% CI 0.21-0.89), smaller trials g=0.28 (95% CI 0.05-0.51). This effect-size framing is presented alongside — and is in tension with — the primary SMD/RR forest-plot results above, which were not statistically significant; the paper does not fully reconcile the two analyses in the text extracted.
+
+Publication bias: funnel plot showed asymmetry. Egger's regression intercept = -14.10 (p=0.003), suggesting small-study effects. Begg-Mazumdar rank correlation non-significant (Kendall's tau = -0.29, p=0.069). Rosenthal's fail-safe N = 848 (Fisher's method 3,169), suggesting the effect is robust to unpublished null studies. Trim-and-fill had minimal impact.
+
+Certainty of evidence (GRADEpro): wound healing as mean difference — 6 RCTs, 205 vs 205 patients, MD -0.50 (-1.42 to 0.42), moderate certainty (downgraded for strongly suspected publication bias). Wound healing as risk ratio — 2 RCTs, RR 0.75 (0.19-3.00), moderate certainty, similarly downgraded for publication bias.
+
+Discussion
+
+7 of 10 studies found tissue adhesives had numerically better wound-healing scores than sutures at 1-week follow-up; 3 studies found comparable scores at 1-2 weeks. 7 studies compared cyanoacrylate vs 3-0 black silk, 2 compared autologous fibrin glue vs 3-0 silk, 1 compared cyanoacrylate vs 4-0 silk — both cyanoacrylate and fibrin sealants performed similarly as suture alternatives. All trials excluded patients with systemic disease, so systemic-disease modifiers of wound healing were not assessed by any included trial.
+
+One study (Pulikkotil 2014) reported tissue adhesives reduced inflammatory mediators (IL-1β, IL-8) in gingival crevicular fluid during early healing. Two studies with histological assessment found reduced inflammatory cells and increased connective-tissue fibers with tissue adhesives vs sutures. Two studies reported tissue adhesives gave faster hemostasis and better tissue stability than sutures.
+
+Pain/discomfort assessed in 7 studies — all 7 found lower postoperative pain/discomfort with tissue adhesives vs sutures. 3 of those 7 also assessed esthetics and found tissue adhesives more esthetic. Silk sutures' wicking property can harbor secondary infection, a cited rationale for tissue-adhesive substitution. On clinical manipulation, 5 studies concluded tissue adhesives are easier, more comfortable, less traumatic, faster chairside, and more esthetic than sutures. Disadvantages of tissue adhesives noted: reduced tensile strength and higher cost vs sutures.
+
+Limitations: this is the first systematic review (per the authors) specifically comparing tissue adhesives vs sutures in periodontal flap surgery; overall risk of bias was minimal in 80% of included studies; certainty of evidence was moderate for all outcomes with strong publication bias suspected; protocol/outcome heterogeneity across studies complicated comparison; PROSPERO scope was narrowed post-hoc from "oral and maxillofacial surgeries" to "periodontal flap surgery" during the scoping phase (disclosed as a protocol deviation).
+
+Conclusion
+
+Within the constraints of the study data, wound healing with tissue adhesives was shown to be better or comparable to sutures in periodontal flap surgery. Tissue adhesives showed some advantages over sutures — faster hemostasis, fewer inflammatory cells, less postoperative pain/discomfort, better esthetic outcome — with low methodological risk of bias but high suspected publication bias, so tissue adhesives can be suggested as an effective alternative to sutures in periodontal flap surgery, pending larger, more rigorously standardized RCTs.
+
+PROSPERO registration: CRD42023444615.

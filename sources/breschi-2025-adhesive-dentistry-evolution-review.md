@@ -9,8 +9,21 @@ pdf_filename: breschi-2025-adhesive-dentistry-evolution-review.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Comprehensive narrative review by Breschi's group tracking the evolution from 3-step etch-and-rinse to universal adhesives, with emphasis on hybrid layer degradation mechanisms and biomodification strategies to extend bond longevity.
+## Three-line Summary
+
+Comprehensive narrative review (Dental Materials 2025; Breschi et al., University of Bologna; PubMed/Scopus/Web of Science) tracing the evolution of adhesive dentistry from 3-step etch-and-rinse (EAR) to universal adhesives, organized by smear-layer interaction strategy (EAR vs self-etch) rather than the obsolete "generation" terminology.
+
+3-step EAR adhesives retain superior long-term performance over simplified systems; universal adhesives are not truly universal and require operator knowledge of protocol; MMP inhibition (chlorhexidine 2%, EDC) and polymer cross-linking (proanthocyanidin, riboflavin/UV) clinically extend hybrid layer stability.
+
+Most biomodification strategies remain in vitro; long-term (>10y) clinical data for universal adhesives are scarce; Bis-GMA replacement with bio-safer monomers is an emerging trend.
+
+## 세줄요약
+
+서술형 리뷰(Dental Materials 2025; 볼로냐대 Breschi 등; PubMed/Scopus/WoS): 3단계 산부식-세척(EAR)에서 유니버설 접착제까지 치과 접착제의 발전사를 스미어층 상호작용(EAR vs 자가산부식) 전략으로 분류하고 "세대" 용어의 폐기를 권고.
+
+3단계 EAR 접착제가 단순화 시스템 대비 우월한 장기 성능 유지; 유니버설 접착제는 진정한 의미의 범용이 아니며 프로토콜 지식이 중요; MMP 억제(CHX 2%·EDC)와 고분자 가교(프로안토시아니딘·리보플라빈/UV)가 hybrid layer 안정성 연장.
+
+대부분의 생체변형(biomodification) 전략은 in vitro 단계; 유니버설 접착제의 10년 이상 임상 데이터 부족; Bis-GMA 대체 생안전성 모노머가 새로운 트렌드로 부상.
 
 ## 1. Document Information
 - **Journal**: Dental Materials 41 (2025) 141–158

@@ -12,11 +12,21 @@ source_collection: external
 ## Why Ingested
 Biocompatibility evidence (CGIC vs RMGIC) for the GIC cluster; supports [[glass-ionomer/singh-2024-gic-rmgic-biological-response-sr]] and the liner/base + VPT decision points.
 
-## One-line Summary
+## Three-line Summary
+
 SR of 9 studies finding conventional GIC less cytotoxic than RMGIC, relevant to vital pulp therapy.
 
-## 한줄요약
-9편 SR — 전통 GIC가 RMGIC보다 세포독성 낮음, VPT 재료 선택에 시사.
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
+SR of 9 studies finding conventional GIC less cytotoxic than RMGIC, relevant to vital pulp therapy.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 Restor Dent Endod 2024; 49(4): e41. DOI 10.5395/rde.2024.49.e41. Published 2024-11-01. PROSPERO CRD42023426021. Terna Dental College, Navi Mumbai, India.

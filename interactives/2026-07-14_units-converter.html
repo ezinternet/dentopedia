@@ -1,0 +1,281 @@
+<!--
+---
+title: "치과 단위 변환기 + 임계값 조회 — Chairside"
+type: interactive
+date: 2026-07-14
+status: done
+category: reference
+agenda: agenda/2026-07-14_units-converter-interactive.md
+source_wiki:
+  - wiki/overviews/dental-research-units-reference-overview.md
+tags: [units, chairside-calculator, converter, threshold, mm, MPa, Ncm, ISQ, sievert, ppm, HbA1c]
+notes: |
+  단일 HTML, 인라인 CSS/JS, CDN 없음. iPad chairside 가정.
+  ① 변환기: mm↔µm, MPa↔GPa, mSv↔µSv (모두 ×1000), MPa=N/mm².
+  ② 임계값 조회: 단위 클릭 → 임상 맥락별 정상/성공 임계값 카드.
+  모든 임계값·수치 출처: dental-research-units-reference-overview.md (단일 오버뷰).
+  2026-07-14 추가: USP 봉합사 게이지, 마취제 농도 %(w/v), 스케일러 주파수 kHz (오버뷰 §6 근거).
+---
+-->
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>치과 단위 변환기 + 임계값 조회</title>
+<style>
+  :root{
+    --bg:#f6f7f9; --card:#ffffff; --ink:#1a1d21; --muted:#5b6570;
+    --line:#e3e7ec; --accent:#2f6f4f; --accent-soft:#e6f1eb;
+    --warn:#b4531f; --warn-soft:#fbeee3; --chip:#eef1f4;
+    --shadow:0 1px 3px rgba(0,0,0,.06),0 4px 14px rgba(0,0,0,.05);
+  }
+  @media (prefers-color-scheme: dark){
+    :root{
+      --bg:#14171a; --card:#1d2125; --ink:#e9edf1; --muted:#9aa5b1;
+      --line:#2c333a; --accent:#5cc48d; --accent-soft:#1c2c24;
+      --warn:#e08a54; --warn-soft:#2c2119; --chip:#262c33;
+      --shadow:0 1px 3px rgba(0,0,0,.3),0 6px 18px rgba(0,0,0,.35);
+    }
+  }
+  *{box-sizing:border-box}
+  body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Noto Sans KR",sans-serif;
+    background:var(--bg);color:var(--ink);line-height:1.5;-webkit-text-size-adjust:100%}
+  .wrap{max-width:860px;margin:0 auto;padding:20px 16px 60px}
+  header h1{font-size:1.35rem;margin:0 0 4px}
+  header p{margin:0 0 18px;color:var(--muted);font-size:.9rem}
+  .tabs{display:flex;gap:8px;margin-bottom:18px;flex-wrap:wrap}
+  .tab{flex:1;min-width:130px;padding:10px 12px;border:1px solid var(--line);background:var(--card);
+    border-radius:12px;font-size:.95rem;font-weight:600;color:var(--muted);cursor:pointer;text-align:center}
+  .tab.active{color:#fff;background:var(--accent);border-color:var(--accent)}
+  .panel{display:none}.panel.active{display:block}
+  .card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:16px;
+    box-shadow:var(--shadow);margin-bottom:14px}
+  .conv-row{display:flex;align-items:center;gap:10px;flex-wrap:wrap}
+  .conv-row h3{margin:0 0 10px;font-size:1rem}
+  .conv-row .sub{color:var(--muted);font-weight:400;font-size:.82rem}
+  .field{flex:1;min-width:130px}
+  .field label{display:block;font-size:.78rem;color:var(--muted);margin-bottom:4px}
+  .field input{width:100%;padding:11px 12px;font-size:1.05rem;border:1px solid var(--line);
+    border-radius:10px;background:var(--bg);color:var(--ink);font-variant-numeric:tabular-nums}
+  .field input:focus{outline:2px solid var(--accent);border-color:var(--accent)}
+  .eq{font-size:1.3rem;color:var(--muted);padding-top:18px}
+  .note{font-size:.8rem;color:var(--muted);margin-top:8px}
+  .chips{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:16px}
+  .chip{padding:8px 13px;border-radius:999px;border:1px solid var(--line);background:var(--chip);
+    font-size:.9rem;font-weight:600;cursor:pointer;color:var(--ink)}
+  .chip.active{background:var(--accent);color:#fff;border-color:var(--accent)}
+  .thr h2{font-size:1.05rem;margin:0 0 2px}
+  .thr .fam{color:var(--accent);font-size:.8rem;font-weight:700;text-transform:uppercase;letter-spacing:.03em}
+  table{width:100%;border-collapse:collapse;margin-top:10px;font-size:.9rem}
+  th,td{text-align:left;padding:9px 10px;border-bottom:1px solid var(--line);vertical-align:top}
+  th{color:var(--muted);font-weight:600;font-size:.8rem}
+  td .val{font-weight:700;font-variant-numeric:tabular-nums;white-space:nowrap}
+  .keymsg{background:var(--accent-soft);border:1px solid var(--accent);border-radius:10px;
+    padding:10px 12px;font-size:.86rem;margin-top:12px}
+  .keymsg b{color:var(--accent)}
+  footer{color:var(--muted);font-size:.76rem;margin-top:22px;border-top:1px solid var(--line);padding-top:12px}
+  code{background:var(--chip);padding:1px 6px;border-radius:5px;font-size:.85em}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>치과 단위 변환기 + 임계값 조회</h1>
+    <p>Chairside 참조 · 출처: <em>dental-research-units-reference-overview</em> (위키 단일 오버뷰)</p>
+  </header>
+
+  <div class="tabs">
+    <button class="tab active" data-tab="conv">① 단위 변환</button>
+    <button class="tab" data-tab="thr">② 임계값 조회</button>
+  </div>
+
+  <!-- ===== PANEL 1: CONVERTER ===== -->
+  <section class="panel active" id="conv">
+    <div class="card">
+      <div class="conv-row"><h3>거리 <span class="sub">mm ↔ µm &nbsp;(×1000)</span></h3></div>
+      <div class="conv-row">
+        <div class="field"><label>밀리미터 (mm)</label><input type="number" id="mm" placeholder="예: 1.5" step="any"></div>
+        <div class="eq">=</div>
+        <div class="field"><label>마이크로미터 (µm)</label><input type="number" id="um" placeholder="1500" step="any"></div>
+      </div>
+      <div class="note">표면조도 Ra ~1–2µm · 변연간극 &lt;120µm · MBL 임계 &lt;1.5mm</div>
+    </div>
+
+    <div class="card">
+      <div class="conv-row"><h3>재료강도 <span class="sub">MPa ↔ GPa &nbsp;(×1000)</span></h3></div>
+      <div class="conv-row">
+        <div class="field"><label>메가파스칼 (MPa)</label><input type="number" id="mpa" placeholder="예: 1200" step="any"></div>
+        <div class="eq">=</div>
+        <div class="field"><label>기가파스칼 (GPa)</label><input type="number" id="gpa" placeholder="1.2" step="any"></div>
+      </div>
+      <div class="note">굴곡강도(MPa): 지르코니아 ~1000–1200 · 리튬디실리케이트 ~400 &nbsp;|&nbsp; 탄성계수(GPa): 상아질 ~18 · 티타늄 ~110</div>
+    </div>
+
+    <div class="card">
+      <div class="conv-row"><h3>재료강도 정의 <span class="sub">MPa = N/mm²</span></h3></div>
+      <div class="conv-row">
+        <div class="field"><label>힘 (N)</label><input type="number" id="force" placeholder="예: 300" step="any"></div>
+        <div class="eq">÷</div>
+        <div class="field"><label>면적 (mm²)</label><input type="number" id="area" placeholder="10" step="any"></div>
+        <div class="eq">=</div>
+        <div class="field"><label>압력 (MPa)</label><input type="number" id="mpa2" placeholder="30" step="any" readonly></div>
+      </div>
+      <div class="note">"1mm²에 몇 N 걸리나"로 읽으면 됨. 접착강도(Bond strength) 통상 20–40MPa.</div>
+    </div>
+
+    <div class="card">
+      <div class="conv-row"><h3>방사선량 <span class="sub">mSv ↔ µSv &nbsp;(×1000)</span></h3></div>
+      <div class="conv-row">
+        <div class="field"><label>밀리시버트 (mSv)</label><input type="number" id="msv" placeholder="예: 0.02" step="any"></div>
+        <div class="eq">=</div>
+        <div class="field"><label>마이크로시버트 (µSv)</label><input type="number" id="usv" placeholder="20" step="any"></div>
+      </div>
+      <div class="note">치근단 ~5µSv &lt; 파노라마 ~10–20µSv &lt; CBCT ~20–200µSv (FOV 의존)</div>
+    </div>
+  </section>
+
+  <!-- ===== PANEL 2: THRESHOLD LOOKUP ===== -->
+  <section class="panel" id="thr">
+    <div class="chips" id="chips"></div>
+    <div class="card thr" id="thrCard"></div>
+  </section>
+
+  <footer>
+    변환은 물리 상수(×1000, N/mm²)라 항상 정확. 임계값은 위키 오버뷰가 논문에서 추출한 임상 컷오프 —
+    환자별 판단을 대체하지 않습니다. 근거가 갱신되면 오버뷰가 먼저 바뀌고 이 도구가 뒤따릅니다.
+  </footer>
+</div>
+
+<script>
+// ---- Tabs ----
+document.querySelectorAll('.tab').forEach(t=>t.addEventListener('click',()=>{
+  document.querySelectorAll('.tab').forEach(x=>x.classList.remove('active'));
+  document.querySelectorAll('.panel').forEach(x=>x.classList.remove('active'));
+  t.classList.add('active');
+  document.getElementById(t.dataset.tab).classList.add('active');
+}));
+
+// ---- Converter: linked pairs (×1000) ----
+function clean(n){ // strip float noise like 1.2000000000000002
+  if(!isFinite(n)) return '';
+  return parseFloat(n.toPrecision(12)).toString();
+}
+function link(aId,bId,factor){ // b = a*factor
+  const a=document.getElementById(aId), b=document.getElementById(bId);
+  a.addEventListener('input',()=>{ b.value = a.value==='' ? '' : clean(+a.value*factor); });
+  b.addEventListener('input',()=>{ a.value = b.value==='' ? '' : clean(+b.value/factor); });
+}
+link('mm','um',1000);
+link('mpa','gpa',0.001);
+link('msv','usv',1000);
+
+// ---- MPa = N/mm² ----
+function calcMpa(){
+  const f=document.getElementById('force').value, ar=document.getElementById('area').value;
+  const out=document.getElementById('mpa2');
+  out.value = (f!=='' && ar!=='' && +ar!==0) ? clean(f/ar) : '';
+}
+document.getElementById('force').addEventListener('input',calcMpa);
+document.getElementById('area').addEventListener('input',calcMpa);
+
+// ---- Threshold data (source: dental-research-units-reference-overview) ----
+const DATA=[
+  {u:'mm', fam:'거리 · distance', key:'변연골 소실 MBL: 첫 해 <1.5mm, 이후 <0.2mm/년 (성공 기준)',
+   rows:[
+     ['변연골 소실 (MBL)','성공: 1년 <1.5mm, 이후 <0.2mm/년'],
+     ['각화점막 폭 (KM width)','안정 ≥2mm'],
+     ['탐침 깊이 (PD)','건강 ≤3mm'],
+     ['근관장 (Working Length)','근단공에서 −0.5~1mm'],
+   ]},
+  {u:'µm', fam:'미세거리 · microscale', key:'mm의 1/1000. 미세영역 전용',
+   rows:[
+     ['표면조도 (Surface roughness, Ra)','~1–2µm'],
+     ['변연간극 (Marginal gap)','<120µm'],
+   ]},
+  {u:'Ncm', fam:'토크 · torque', key:'식립 토크(회전력). 즉시하중 ≥35Ncm, 과압박 위험 >50Ncm',
+   rows:[
+     ['식립 토크 (Insertion Torque)','즉시하중 ≥35Ncm'],
+     ['과압박 위험 (over-compression)','>50Ncm 주의'],
+   ]},
+  {u:'N', fam:'힘 · force', key:'직선력. 교합력·접착/파절 시편 하중',
+   rows:[
+     ['교합력 (occlusal/bite force)','부위·환자별'],
+     ['시편 하중 (bond/fracture load)','N으로 보고'],
+   ]},
+  {u:'MPa', fam:'재료강도 · strength', key:'MPa = N/mm². 굴곡강도·접착강도',
+   rows:[
+     ['굴곡강도 지르코니아','~1000–1200MPa'],
+     ['굴곡강도 리튬디실리케이트','~400MPa'],
+     ['접착강도 (Bond strength)','통상 20–40MPa'],
+   ]},
+  {u:'GPa', fam:'재료강도 · modulus', key:'탄성계수(stiffness). MPa×1000',
+   rows:[
+     ['상아질 (dentin)','~18GPa'],
+     ['티타늄 (titanium)','~110GPa'],
+   ]},
+  {u:'µSv/mSv', fam:'방사선량 · dose', key:'유효선량(피폭). 1mSv=1000µSv',
+   rows:[
+     ['치근단 (periapical)','~5µSv'],
+     ['파노라마 (panoramic)','~10–20µSv'],
+     ['콘빔CT (CBCT)','~20–200µSv (FOV 의존)'],
+   ]},
+  {u:'ISQ', fam:'무차원 지수 · index', key:'1–100 스케일(RFA). 부하 임계 통상 ≥70, 주의 <60',
+   rows:[
+     ['부하 결정 (robust)','≥70'],
+     ['주의 (caution)','<60'],
+   ]},
+  {u:'HbA1c', fam:'무차원 지수 · %', key:'혈당 조절. 선택적 임플란트 수술 관심 임계 통상 <7%',
+   rows:[
+     ['조절 양호 (관심 임계)','<7%'],
+   ]},
+  {u:'pH', fam:'무차원 지수 · index', key:'법랑질 탈회 임계 pH 5.5',
+   rows:[
+     ['법랑질 탈회 임계','pH 5.5'],
+   ]},
+  {u:'ppm', fam:'농도 · concentration', key:'불소 농도(100만분율)',
+   rows:[
+     ['치약 (일반)','1000–1450ppm'],
+     ['고농도 치약','5000ppm'],
+   ]},
+  {u:'USP', fam:'봉합사 게이지 · suture', key:'0이 많을수록 얇음 (4-0 > 6-0). 얇을수록 인장강도↓·조직손상↓',
+   rows:[
+     ['구강 판막 봉합','4-0 ~ 5-0'],
+     ['섬세·심미 부위','6-0'],
+     ['미세수술 (microsurgery)','7-0 / 8-0'],
+   ]},
+  {u:'% (마취제)', fam:'마취제 농도 · LA conc.', key:'% = w/v (g/100mL). 2% = 20mg/mL. 높은 %가 곧 강한 마취는 아님',
+   rows:[
+     ['리도카인 (lidocaine)','2%'],
+     ['메피바카인 (mepivacaine)','2%(+VC) / 3%(plain)'],
+     ['아티카인 (articaine)','4%'],
+     ['프릴로카인 (prilocaine)','4%'],
+     ['부피바카인 (bupivacaine)','0.5%'],
+   ]},
+  {u:'kHz (스케일러)', fam:'스케일러 주파수 · frequency', key:'초음파 tip 진동 주파수 (기기 스펙)',
+   rows:[
+     ['자왜형 (magnetostrictive)','~18–45kHz'],
+     ['압전형 (piezoelectric)','~25–50kHz'],
+   ]},
+];
+
+const chips=document.getElementById('chips'), card=document.getElementById('thrCard');
+DATA.forEach((d,i)=>{
+  const b=document.createElement('button');
+  b.className='chip'+(i===0?' active':''); b.textContent=d.u;
+  b.addEventListener('click',()=>{
+    document.querySelectorAll('.chip').forEach(c=>c.classList.remove('active'));
+    b.classList.add('active'); render(d);
+  });
+  chips.appendChild(b);
+});
+function render(d){
+  let rows=d.rows.map(r=>`<tr><td>${r[0]}</td><td><span class="val">${r[1]}</span></td></tr>`).join('');
+  card.innerHTML=`<div class="fam">${d.fam}</div><h2>${d.u}</h2>
+    <table><thead><tr><th>맥락</th><th>정상/성공 임계값</th></tr></thead><tbody>${rows}</tbody></table>
+    <div class="keymsg"><b>핵심</b> · ${d.key}</div>`;
+}
+render(DATA[0]);
+</script>
+</body>
+</html>

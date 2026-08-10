@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.3290/j.jad.c_2428
 source: kikuta-2025-fillers-4-meta-mma-tbb-resin-root-caries.md
 category: resin-bonding
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: true
 pmid: "41400633"
@@ -20,13 +20,21 @@ relations:
     target: delgado-2025-functional-monomers-dental-adhesive-technology
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In-vitro study (DSC curing time + ISO-4049 3-point flexural + shear bond to root dentin, n=3–15/group) of 3 wt% fillers in 4-META/MMA-TBB resin (Super-Bond chemistry): organic composite filler shortened curing time and raised post-thermocycling dentin bond strength while preserving flexural strength, whereas 45S5 bioactive glass and aluminosilicate glass prolonged curing and lowered flexural/bond strength — organic composite filler is the most suitable additive for root-caries restoration.
+In-vitro study (DSC curing time, ISO-4049 flexural strength, shear bond to root dentin with 10,000-cycle thermocycling; n=3–15/group) comparing three 3 wt% fillers — organic composite (OC), 45S5 bioactive glass (BG), aluminosilicate glass (AS) — added to 4-META/MMA-TBB (Super-Bond) resin for root-caries restoration.
 
-## 한줄요약
+Organic composite filler (OC) significantly shortened curing time, maintained flexural strength near the commercial control (Bondfill SB Plus), and uniquely increased shear bond to root dentin after thermocycling (p<0.05); 45S5 bioactive glass and aluminosilicate glass prolonged curing, reduced flexural and bond strength, and 3 wt% BG produced no detectable hydroxyapatite.
 
-In-vitro 연구(DSC 경화시간 + ISO-4049 3점 굴곡강도 + 근면 상아질 전단접착, n=3~15/군): 4-META/MMA-TBB(슈퍼본드 화학) 수지에 3 wt% filler 첨가 시, 유기 복합 filler는 경화시간을 단축하고 열순환 후 상아질 접착강도를 높이며 굴곡강도를 유지한 반면, 45S5 생활성유리·알루미노실리케이트 유리는 경화를 지연시키고 굴곡·접착강도를 낮춰 — 노인 root caries 수복에는 유기 복합 filler가 가장 적합.
+Organic composite filler is the most suitable additive for Super-Bond root-caries restoratives in moisture-compromised elderly patients; bioactive glass is detrimental at 3 wt% and should not be used at this load level.
+
+## 세줄요약
+
+인 비트로 연구(DSC 경화시간 + ISO-4049 굴곡강도 + 근면 상아질 전단접착·열순환 10,000회; n=3~15/군) — 4-META/MMA-TBB(슈퍼본드) 수지에 3 wt% filler 3종(유기복합 OC·45S5 생활성유리 BG·알루미노실리케이트 AS) 첨가 후 비교.
+
+유기복합 filler(OC)는 경화시간을 유의하게 단축하고 굴곡강도를 상용제(Bondfill SB Plus)에 가깝게 유지하였으며, 열순환 후 근면 상아질 전단접착강도만 유의하게 증가(p<0.05); 45S5 생활성유리·알루미노실리케이트는 경화 지연·굴곡 및 접착강도 저하를 유발하고 3 wt% BG는 수산화인회석을 생성하지 못했다.
+
+수분 조절이 어려운 노인 root caries 수복에는 유기복합 filler가 최적이며, 3 wt% 생활성유리 첨가는 임상적 이점 없이 물성을 저하시키므로 사용을 지양해야 한다.
 
 ## Summary
 

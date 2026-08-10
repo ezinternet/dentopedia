@@ -6,20 +6,28 @@ date: 2021-12-01
 doi: 10.1016/j.jebdp.2021.101644
 source: schmutzler-2021-cleaning-removable-dental-prostheses-sr.md
 category: [complete-denture]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/schmutzler-2021-cleaning-removable-dental-prostheses-sr.pdf
 pdf_filename: schmutzler-2021-cleaning-removable-dental-prostheses-sr.pdf
 source_collection: external
 tags: [denture-hygiene, biofilm, cleaning, removable-prosthesis, complete-denture, partial-denture, candida, mechanical-cleaning, chemical-cleaning]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review of 44 prospective clinical studies showing that combined mechanical + chemical cleaning is the gold standard for biofilm removal from removable dental prostheses, with limited clinical evidence on effects to denture base material properties.
+PROSPERO-registered systematic review (CRD42020189649) of 44 prospective clinical trials (4,307 records screened, June 1975–May 2020) evaluated in situ biofilm removal and denture base material effects for brushing, alkaline peroxide, sodium hypochlorite, Ricinus communis, microwave irradiation, and ultrasonic cleaning.
 
-## 한줄요약
+Combined mechanical + chemical cleaning (brushing + overnight alkaline peroxide soaking) was consistently the most effective protocol, outperforming any single modality; chemical agents reduced Candida albicans load relevant to denture stomatitis prevention.
 
-44개 전향적 임상연구의 체계적 문헌고찰: 기계적+화학적 병용 세정이 의치 생물막 제거에 가장 효과적이며, 의치상 재료 특성에 대한 임상 근거는 제한적임.
+Clinical evidence on denture base material property effects (color stability, surface roughness, dimensional stability) is sparse, identifying a high-priority research gap particularly relevant for newer 3D-printed and milled resin formulations.
+
+## 세줄요약
+
+PROSPERO 등록 체계적 문헌고찰(CRD42020189649, 44편 전향적 임상시험, 4,307편 검색, 1975–2020년)로 가철성 의치의 생물막 제거 및 의치상 재료 영향을 칫솔질, 알칼리 과산화물, 차아염소산나트륨, 피마자유, 전자레인지, 초음파 세정 측면에서 평가하였다.
+
+기계적+화학적 병용(칫솔질+야간 알칼리 과산화물 침지)이 단일 방법보다 생물막 제거에 일관되게 우수하였으며, 화학적 세정제는 의치성 구내염 예방과 관련된 Candida albicans 부하를 감소시켰다.
+
+의치상 재료 특성(색안정성, 표면거칠기, 치수안정성)에 대한 임상 근거가 부족하여, 특히 새로운 3D 프린팅·밀링 레진 재료에 대한 연구가 시급한 것으로 확인되었다.
 
 ## Summary
 

@@ -11,8 +11,21 @@ pdf_filename: sujith-2014-microscope-ultrasonic-mb2-detection-vivo.pdf
 source_collection: external
 ---
 
-## One-line Summary
-In vivo (60 patients, maxillary first molar): naked eye MB2 detection 20%; +DOM 55%; +DOM+ultrasonic trough 70%; stepwise protocol statistically significant (p<0.001).
+## Three-line Summary
+
+In vivo (60 patients, maxillary first molar): naked eye MB2 detection 20%
+
++DOM 55%
+
++DOM+ultrasonic trough 70%; stepwise protocol statistically significant (p<0.001).
+
+## 세줄요약
+
+In vivo (60 patients, maxillary first molar): naked eye MB2 detection 20%
+
++DOM 55%
+
++DOM+ultrasonic trough 70%; stepwise protocol statistically significant (p<0.001).
 
 ## 1. Document Information
 Sri Jagadguru Murugarajendra Dental College, India. In vivo study evaluating sequential escalation of detection tools for MB2 canal in maxillary first molars.

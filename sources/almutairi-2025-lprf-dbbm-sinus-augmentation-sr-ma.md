@@ -13,13 +13,21 @@ source_collection: external
 
 SR+MA of RCTs specifically on L-PRF + DBBM combination in sinus augmentation — highest evidence level for this adjunct approach. Resolves the inconsistency seen in earlier systematic reviews (Idiri 2023 found no significant effect) by restricting to RCTs and using meta-analysis with pooled MDs. [[sinus-lift/lateral/sinus-lift-lateral-2026-synthesis]]
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 5 RCTs (n=140 patients): L-PRF+DBBM significantly increases new bone formation (MD +7.07%, 95% CI 2.20–11.93, p<0.001, I²=37%) and reduces residual graft (MD −7.93%, 95% CI −11.20 to −4.66, p<0.001, I²=0%) vs DBBM alone in lateral maxillary sinus augmentation; ISQ and soft tissue NS.
+SR+MA of 5 RCTs (n=140 patients; DBBM search inception–May 2025; Der-Simonian-Laird random-effects; Cochrane ROB-2) comparing L-PRF+DBBM versus DBBM alone in lateral maxillary sinus augmentation with histomorphometric outcomes.
 
-## 한줄요약
+L-PRF+DBBM significantly increased new bone formation (MD +7.07%, 95% CI 2.20–11.93, p<0.001, I²=37%) and reduced residual graft (MD −7.93%, 95% CI −11.20 to −4.66, p<0.001, I²=0%) versus DBBM alone; ISQ at implant loading (MD −2.25, p=0.56) and soft tissue percentage were not significantly different.
 
-5편 RCT SR+MA(140명): L-PRF+DBBM은 DBBM 단독 대비 신생골 형성 유의 증가(MD +7.07%, p<0.001)와 잔류이식재 유의 감소(MD −7.93%, p<0.001); ISQ 및 연조직 비율은 유의차 없음.
+L-PRF adjunction to DBBM improves histomorphometric bone quality without compromising implant stability; however, all 5 RCTs were small (n=10–60) and 4/5 were rated "some concerns" on ROB-2; standardized L-PRF protocols are needed.
+
+## 세줄요약
+
+5편 RCT SR+MA (총 140명; 검색 inception–2025.05; 무작위효과모형) — 측방 상악동거상술에서 L-PRF+DBBM vs DBBM 단독 조직형태계측 비교.
+
+L-PRF+DBBM이 신생골 형성 유의 증가 (MD +7.07%, p<0.001, I²=37%)·잔류이식재 유의 감소 (MD −7.93%, p<0.001, I²=0%); 임플란트 식립 시 ISQ (MD −2.25, p=0.56)·연조직 비율 유의차 없음.
+
+L-PRF 추가는 임플란트 안정성 저하 없이 조직형태계측적 골 질을 개선; 그러나 5편 모두 소표본(n=10–60), 4/5편 ROB-2 "some concerns"; 표준화된 L-PRF 프로토콜 필요.
 
 ## 1. Document Information
 

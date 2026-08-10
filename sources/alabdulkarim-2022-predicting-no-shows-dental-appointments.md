@@ -17,13 +17,21 @@ text_filename: alabdulkarim-2022-predicting-no-shows-dental-appointments.txt
 
 [[practice-management/alkhurayji-2024-factors-patient-failure-attend-dental]] characterizes *which* patient/clinic factors drive dental did-not-attend (DNA) behavior; this paper operationalizes that knowledge into a deployable machine-learning model that *predicts* the no-show per appointment (AUC 0.718, F1 66.5%) on a large Saudi dental dataset. It reinforces the DNA-factor evidence (lead time and prior no-show history are the dominant predictors here too) and extends it toward actionable scheduling mitigation (reduced time slots for high-risk appointments).
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective ML study (n=196,018 dental appointments, single-year Riyadh dental clinic; 42.7% no-show) building per-appointment no-show predictors — best model AUC 0.718, F1 66.5% — with a novel binary-sequence representation of no-show history and a proposal to shorten high-risk appointment slots.
+Retrospective ML model-development study (196,018 dental appointments, one Riyadh clinic, 2019; 42.7% no-show rate) building per-appointment no-show predictors using logistic regression, random forest, and gradient boosting classifiers.
 
-## 한줄요약
+Best model achieved AUC 0.718, F1 66.5%; lead time was the single strongest predictor (removing it dropped AUC 7.5–7.9%); a novel binary-sequence history representation improved LR performance by 2–5%; models generalized to a second clinic (n=49,007; AUC 0.748).
 
-후향적 머신러닝 연구(사우디 리야드 치과 1년치 예약 196,018건, 노쇼율 42.7%)로 예약별 노쇼 예측 모델을 구축 — 최고 모델 AUC 0.718, F1 66.5%. 노쇼 이력을 이진 시퀀스로 표현하는 새 방법과, 고위험 예약의 진료시간 단축이라는 스케줄링 활용안을 제시.
+Appointment lead time and prior no-show history are the dominant modifiable predictors; practical implementation should focus on shortening high-risk appointment slots rather than overbooking, given the long duration of dental appointments.
+
+## 세줄요약
+
+후향적 머신러닝 모델 개발 연구 (리야드 치과 예약 196,018건, 2019년; 노쇼율 42.7%) — 로지스틱 회귀, 랜덤 포레스트, 그래디언트 부스팅 분류기로 예약별 노쇼 예측 모델 구축.
+
+최고 모델 AUC 0.718, F1 66.5%; 예약 대기시간(lead time)이 단독 최강 예측인자(제거 시 AUC 7.5–7.9% 하락); 이진 시퀀스 노쇼 이력 표현이 로지스틱 회귀 성능 2–5% 향상; 제2 치과 (n=49,007)에서 일반화 확인(AUC 0.748).
+
+예약 대기시간과 과거 노쇼 이력이 수정 가능한 주요 예측인자; 치과 예약의 긴 진료시간 특성상 오버부킹보다 고위험 예약 슬롯 단축이 실용적 운영 전략.
 
 ## 1. Document Information
 

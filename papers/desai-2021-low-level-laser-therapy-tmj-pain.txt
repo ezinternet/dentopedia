@@ -1,0 +1,48 @@
+Title: Efficacy of Low-Level Laser Therapy in Management of Temporomandibular Joint Pain: A Double Blind and Placebo Controlled Trial
+
+Authors: Desai Ajay Premanand, Roy S K, Semi Ravinder Singh, Balasundaram T
+Journal: Journal of Maxillofacial and Oral Surgery
+Published: 2021-05-25
+PMID: 36274894
+PMCID: PMC9474957
+DOI: 10.1007/s12663-021-01591-4
+Source: PubMed Central (get_full_text_article returned empty body; abstract retrieved via PubMed metadata)
+
+NOTE: PMC full text body was empty for this record at time of ingest (Springer/AOMSI journal — known
+partial-PMC-conversion behavior). Only the structured abstract below was retrievable through the
+PubMed MCP. full_text: false in the source/wiki frontmatter reflects this.
+
+--- ABSTRACT ---
+
+Background
+
+Stomatognathic system is an interaction of the muscles of mastication, dentition, neural component,
+and temporomandibular joint. Any dysfunction in this system may lead to temporomandibular disorders
+(TMDs). Various non-surgical modalities have been employed for treating TMDs.
+
+Aim and objectives
+
+The aim of the study was to objectively evaluate the effects of low-level laser therapy (LLLT) in
+treatment of patients with TMDs.
+
+Materials and Methods
+
+Sixty individuals diagnosed with TMDs were divided randomly into two groups (Group I—placebo and
+Group II -LLLT). A series of 20 sessions of LLLT applied both in closed mouth and maximum mouth
+opening position were given over a period of 08 weeks. Assessment was done in terms of improvement
+in mouth opening, pain, clicking, and deviation of mandible. The data collected were analyzed
+statistically.
+
+Results
+
+The results showed improvement in the pain reduction, improvement in the maximum mouth opening,
+reduction in deviation, and clicking in both groups but better treatment outcome in the low-level
+laser group.
+
+Conclusion
+
+Though conservative measures improved the symptoms in TMD but LLLT has shown better results in
+comparison with the placebo group. Being non-surgical can be employed in combination with other
+modes for effectively treating such disorders.
+
+Keywords: Pain, Dysfunction, Temporomandibular joint disorders (TMDs), Low-level laser therapy (LLLT).

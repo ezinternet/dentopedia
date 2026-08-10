@@ -12,11 +12,21 @@ source_collection: external
 ## Why Ingested
 대형 치근단(낭종양) 병소가 외과적 적출 없이 비외과적 단일 내원 근관치료만으로 치유될 수 있음을 보여주는 증례로, 효과적 생역학적 세정을 통한 세균 감소가 치유의 핵심이라는 [[endodontics/irrigation/rossi-fedele-2023-irrigation-dressing-apical-periodontitis-sr-ma]]의 disinfection-driven healing 논지를 임상 증례 수준에서 보강한다.
 
-## One-line Summary
-Case report (n=1, 29-y female): a ~25 mm cyst-like periradicular lesion involving two maxillary molars healed completely by 9 months after single-visit non-surgical orthograde root canal therapy (no intracanal medicament), with sinus tract resolution in 2 weeks.
+## Three-line Summary
 
-## 한줄요약
-증례보고(n=1, 29세 여성): 상악 대구치 2개에 걸친 약 25 mm 낭종양 치근단 병소가 약물 없이 1회 내원 비외과적 정방향 근관치료만으로 9개월 후 완전 치유, 누공은 2주 내 소실.
+Case report (n=1, 29-year-old healthy female): a ~25 mm cyst-like periradicular lesion spanning two maxillary molars treated with single-visit non-surgical orthograde root canal therapy using step-back instrumentation, copious saline irrigation, and lateral condensation obturation — no intracanal medicament placed.
+
+Sinus tract resolved within 2 weeks; panoramic and periapical radiographs showed complete bony regeneration with trabecular restoration at 9 months and 12 months; no clinical symptoms at any recall.
+
+This case supports that large endodontic lesions, even likely radicular cysts, can resolve without surgical intervention when canal disinfection is thorough; however, single-case evidence (n=1) and 2D radiographic confirmation limit certainty.
+
+## 세줄요약
+
+증례보고(n=1, 29세 건강한 여성): 상악 제1·2대구치에 걸친 약 25 mm 낭종양 치근단 병소를 약물 없이 1회 내원 비외과적 정방향 근관치료(step-back + 생리식염수 세정 + lateral condensation)로 처치.
+
+누공이 2주 내 소실되고, 9개월·12개월 방사선 사진에서 완전한 골 재생과 골소주 형성이 확인됨.
+
+대형 치근단 병소도 근관 소독이 충분하면 수술 없이 치유 가능함을 시사하나, n=1 증례이고 2D 방사선 검증 한계로 인해 근거 수준이 낮음.
 
 ## 1. Document Information
 - **Title:** Endodontic Treatment of a Large Periradicular Lesion: A Case Report

@@ -17,13 +17,21 @@ text_filename: patel-2025-position-statement-longitudinal-cracks-fractures.txt
 
 The cracked-tooth category has several primary-evidence and review pages but lacks an authoritative society consensus framing the whole "longitudinal crack/fracture" spectrum and its standardised terminology. This ESE position statement (Patel 2025) anchors definitions (craze line → cracked tooth → fractured cusp → split tooth → VRF → split root), supplies the consensus rationale for abandoning the "cracked tooth syndrome" label, and serves as the authoritative umbrella over [[cracked-tooth/raj-2025-cracked-tooth-syndrome-diagnostic-dilemma]] and [[cracked-tooth/li-2021-cracked-tooth-syndrome-etiology-review]]; it also frames the survival data synthesised in [[cracked-tooth/zhang-2024-cracked-teeth-treatment-outcomes-sr-ma]]. Sourced from PubMed/PMC (PMC11812625).
 
-## One-line Summary
+## Three-line Summary
 
 European Society of Endodontology (ESE) consensus position statement defining the spectrum of longitudinal cracks/fractures (craze line, cracked tooth, fractured cusp, split tooth, VRF, split root) and recommending early diagnosis, cuspal coverage restoration, occlusal/parafunction management, and abandonment of the term "cracked tooth syndrome."
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 유럽근관치료학회(ESE) 합의 입장문 — 치아 종축 균열·파절(crack/fracture) 스펙트럼(craze line, 균열치 CT, 파절교두, split tooth, 수직치근파절 VRF, split root)을 표준 정의하고, 조기 진단·교두피개 수복(cuspal coverage)·교합/이상기능 관리를 권고하며 "cracked tooth syndrome(균열치 증후군)"이라는 용어는 폐기할 것을 권고.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

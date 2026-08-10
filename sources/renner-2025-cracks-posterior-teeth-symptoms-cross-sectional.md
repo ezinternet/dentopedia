@@ -17,13 +17,21 @@ text_filename: renner-2025-cracks-posterior-teeth-symptoms-cross-sectional.txt
 
 기존 [[cracked-tooth/ferracane-2023-cracked-tooth-registry-3year-network]] (NDPBRN crack registry)는 외부에서 보이는 균열(externally visible crack)만 포함해 표본이 편향됐다는 한계가 있었는데, 본 Renner 2025 cross-sectional은 외부 가시 균열을 inclusion 조건에서 빼고 수복물 제거 후 발견된 균열(55.1%가 제거 후에야 보임)까지 포착해 그 한계를 직접 보완·확장한다. 또한 [[cracked-tooth/raj-2025-cracked-tooth-syndrome-diagnostic-dilemma]]·[[cracked-tooth/li-2021-cracked-tooth-syndrome-etiology-review]]가 다루는 "균열치 진단의 어려움(증상 가변성·bite test 신뢰성)"에 일반 개원가 실제 데이터(균열의 약 55%가 무증상, 절반이 bite test 음성)를 제공해 임상 의사결정 근거를 보강한다.
 
-## One-line Summary
+## Three-line Summary
 
-Cross-sectional practice-based study (147 patient records, single Australian general practice, 2014–2017): most cracked posterior teeth are asymptomatic (55.1%) and not visible before restoration removal (55.1%); cold sensitivity is associated with unrestored marginal ridges (OR 2.89), pre-removal-visible cracks (OR 3.04) and combined body+cusp cracks (OR 3.11), while stained cracks are inversely associated (OR 0.30); nearly half (51.7%) of cracked teeth gave a negative bite test.
+Cross-sectional practice-based study (147 patient records, single Australian general practice, 2014–2017): most cracked posterior teeth are asymptomatic (55.1%) and not visible before restoration removal (55.1%);
 
-## 한줄요약
+cold sensitivity is associated with unrestored marginal ridges (OR 2.89), pre-removal-visible cracks (OR 3.04) and combined body+cusp cracks (OR 3.11), while stained cracks are inversely associated (OR 0.30);
 
-단면 개원가 연구 (호주 일반치과 1곳 환자기록 147건, 2014–2017): 균열치의 55.1%가 무증상이고 55.1%는 수복물 제거 전엔 균열이 안 보였다. 한랭 민감성(cold sensitivity)은 비수복 변연융선(OR 2.89)·제거 전 가시 균열(OR 3.04)·체부+교두 복합균열(OR 3.11)과 연관됐고 착색 균열은 역연관(OR 0.30). 균열치의 절반(51.7%)은 bite test 음성 — 전문의 진료 문헌과 다른 일반 개원가 양상을 보여줌.
+nearly half (51.7%) of cracked teeth gave a negative bite test.
+
+## 세줄요약
+
+단면 개원가 연구 (호주 일반치과 1곳 환자기록 147건, 2014–2017): 균열치의 55.1%가 무증상이고 55.1%는 수복물 제거 전엔 균열이 안 보였다.
+
+한랭 민감성(cold sensitivity)은 비수복 변연융선(OR 2.89)·제거 전 가시 균열(OR 3.04)·체부+교두 복합균열(OR 3.11)과 연관됐고 착색 균열은 역연관(OR 0.30).
+
+균열치의 절반(51.7%)은 bite test 음성 — 전문의 진료 문헌과 다른 일반 개원가 양상을 보여줌.
 
 ## 1. Document Information
 

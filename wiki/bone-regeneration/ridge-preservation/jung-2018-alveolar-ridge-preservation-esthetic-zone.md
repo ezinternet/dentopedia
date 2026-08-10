@@ -6,18 +6,26 @@ date: 2018-02-27
 doi: 10.1111/prd.12209
 source: jung-2018-alveolar-ridge-preservation-esthetic-zone.md
 category: [bone-regeneration/ridge-preservation]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/jung-2018-alveolar-ridge-preservation-esthetic-zone.pdf
 pdf_filename: jung-2018-alveolar-ridge-preservation-esthetic-zone.pdf
 source_collection: external
 tags: [arp, esthetic-zone, ridge-preservation, buccal-plate, implant-timing]
 ---
 
-## One-line Summary
-Periodontology 2000 narrative review (2018) presenting three ARP timing windows for the esthetic zone — soft-tissue preservation at 6–8 weeks, hard+soft preservation at 4–6 months, and hard-tissue preservation beyond 6 months — classified according to buccal plate status and implant placement timing.
+## Three-line Summary
+Periodontology 2000 narrative review by the Zürich group (2018) reframing the post-extraction decision in the esthetic zone as a choice among three biologically defined ARP timing windows: soft-tissue preservation at 6–8 weeks, hard + soft preservation at 4–6 months, and hard-tissue preservation beyond 6 months.
 
-## 한줄요약
-서술적 리뷰 (Periodontology 2000, 2018): 심미영역에서 발치 후 폐포융선 보존술 (Alveolar Ridge Preservation, ARP)의 세 가지 시기 (6–8주 연조직 / 4–6개월 경+연조직 / 6개월+ 경조직)를 협측 골판 (buccal plate) 상태와 임플란트 식립 시점에 맞춰 분류 제시.
+Window selection is driven by buccal plate integrity and gingival biotype rather than graft material, with the buccal bone plate identified as the dominant esthetic-risk variable linking each window to ITI Type 1–4 implant placement timing.
+
+This is a qualitative decision framework without quantitative pooling; for numerical effect estimates, refer to Avila-Ortiz 2014/2019 and Couso-Queiruga 2021.
+
+## 세줄요약
+Zürich 그룹의 Periodontology 2000 종설 (2018): 심미영역 발치 후 치료 선택을 세 가지 생물학적 ARP 시기 창으로 재구성 — ①6–8주 연조직 보존, ②4–6개월 경+연조직 보존, ③6개월 이상 경조직 보존.
+
+시기 창 선택은 이식 재료보다 협측 골판 상태·치은 표현형이 결정하며, 협측 골판이 심미 위험의 핵심 변수로서 각 창을 ITI Type 1–4 식립 시점과 연결한다.
+
+정량적 풀링 없는 질적 의사결정 틀이므로 수치 효과 추정은 Avila-Ortiz 2014/2019, Couso-Queiruga 2021을 참조해야 한다.
 
 ## Summary
 This Periodontology 2000 review by Jung and the Zürich group reframes the post-extraction decision in the esthetic zone as a choice among three options: spontaneous socket healing, immediate implant placement (Type 1), or alveolar ridge preservation (ARP) followed by delayed placement. ARP is itself heterogeneous, and the authors group published protocols into three biologically defined healing windows. The selection criterion is driven less by graft material and more by buccal plate integrity, gingival phenotype, and the timing window the clinician intends to use for the eventual implant.

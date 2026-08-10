@@ -6,7 +6,7 @@ date: 2023-02-07
 doi: 10.1111/cdoe.12817
 source: kitsaras-2023-theoretical-methodological-approaches-oral-health-behaviour.md
 category: [behavioral-dentistry/motivational-interviewing]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: false
 pmid: "36749671"
@@ -19,11 +19,19 @@ relations:
 tags: []
 ---
 
-## One-line Summary
-Narrative review (Community Dent Oral Epidemiol 2023) mapping the theory/method/delivery landscape of oral-health behaviour change: overarching theories like COM-B and the Behaviour Change Wheel must be selected with care, interventions should be co-designed with users/stakeholders from the start, and technology is now a major delivery vehicle — motivational interviewing is one technique within this wider, theory-driven design space.
+## Three-line Summary
+Narrative review (abstract-only; Community Dent Oral Epidemiol 2023) mapping the theory, development, and delivery landscape of oral-health behaviour change interventions — a field that has been rapidly importing models from medicine with varying results.
 
-## 한줄요약
-서술적 리뷰 — 구강보건 행동변화 중재의 이론·방법·전달 전반을 조망한다. COM-B 같은 상위 이론과 행동변화 휠(Behaviour Change Wheel) 틀을 신중히 골라야 하고, 중재는 처음부터 사용자·이해관계자와 공동설계(co-design)해야 하며, 기술 기반 전달이 핵심 수단으로 부상했다. 동기면담(MI)은 이 넓은 이론 기반 설계 공간 안의 한 기법일 뿐이다.
+COM-B (Capability, Opportunity, Motivation → Behaviour) and the Behaviour Change Wheel are identified as leading overarching frameworks, but theory proliferation is itself a hazard; co-design with users and stakeholders from the outset is a defining feature of effective interventions.
+
+Motivational interviewing is positioned as one technique within this wider, theory-driven design space — its mixed efficacy across studies reflects imprecise theory selection and delivery-channel mismatch rather than inherent ineffectiveness.
+
+## 세줄요약
+서술적 리뷰(초록 기반; Community Dent Oral Epidemiol 2023) — 구강보건 행동변화 중재의 이론 선택(설계)·개발·전달 세 결정 단계를 조망하는 개념적 지도.
+
+COM-B 모델(역량·기회·동기→행동)과 행동변화 휠(Behaviour Change Wheel, BCW)이 선도 이론·틀로 제시되나, 이론 과잉 자체가 위험이며 사용자·이해관계자와의 공동설계(Co-design)가 중재 성공의 핵심 조건.
+
+동기면담(Motivational Interviewing, MI)은 이 넓은 이론 기반 설계 공간 안의 한 기법 — 연구마다 효과가 엇갈리는 것은 MI 자체의 실패가 아닌 이론 선택·전달 채널 불일치에서 기인.
 
 ## Summary
 

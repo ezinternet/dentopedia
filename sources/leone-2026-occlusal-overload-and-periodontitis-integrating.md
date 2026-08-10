@@ -13,11 +13,21 @@ source_collection: external
 
 Fan 2018 정의([[occlusion/fan-2018-occlusal-trauma-and-excessive-occlusal]])·Dommisch 2022 개입효과([[occlusion/dommisch-2022-efficacy-of-tooth-splinting-occlusal]])에 더해, 교합과부하-치주염의 분자기전(aMMP-8 등)과 최신 임상근거를 통합한 2026 scoping review. "교합외상은 발병원인이 아니라 수식인자(modifying factor)"라는 현재 합의를 기전 수준에서 보강하고, occlusion 클러스터의 최신 축을 담당.
 
-## One-line Summary
+## Three-line Summary
+
 2026 scoping review integrating mechanistic, animal, and clinical evidence, concluding occlusal trauma is a modifying (not initiating) factor that may exacerbate periodontitis in susceptible patients, with aMMP-8 biomarker integration and selective (not routine) occlusal intervention recommended given modest effect sizes.
 
-## 한줄요약
-2026 scoping review — 교합외상은 치주염의 발병원인이 아니라 감수성 환자에서 진행을 악화시킬 수 있는 수식인자; aMMP-8 biomarker 통합과 (효과크기가 작으므로) 일상적이 아닌 선택적 교합개입을 권고.
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
+2026 scoping review — 교합외상은 치주염의 발병원인이 아니라 감수성 환자에서 진행을 악화시킬 수 있는 수식인자;
+
+aMMP-8 biomarker 통합과 (효과크기가 작으므로) 일상적이 아닌 선택적 교합개입을 권고.
+
+(incomplete)
 
 ## 1. Document Information
 - Int J Dent 2026;2026:9936924. Review Article (Scoping Review). DOI 10.1155/ijod/9936924.

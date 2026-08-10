@@ -6,20 +6,28 @@ date: 2016-01-12
 doi: 10.11607/ijp.4315
 source: morimoto-2016-feldspathic-glass-ceramic-veneer-survival-sr-ma.md
 category: [veneers]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/morimoto-2016-feldspathic-glass-ceramic-veneer-survival-sr-ma.pdf
 pdf_filename: morimoto-2016-feldspathic-glass-ceramic-veneer-survival-sr-ma.pdf
 source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 13 clinical studies: ceramic laminate veneers show 89% overall cumulative survival at median 9 years; glass-ceramic (94%) outperforms feldspathic (87%); fracture/chipping is the most frequent complication at 4%.
+SR+MA (Cochrane + PubMed; 899 screened, 13 included; median follow-up 9 years) of feldspathic porcelain and glass-ceramic laminate veneers reporting pooled cumulative survival of 89% (95% CI 84–94%).
 
-## 한줄요약
+Glass-ceramic showed higher survival (94%, 95% CI 87–100%) than feldspathic (87%, 95% CI 82–93%) but metaregression found ceramic type and follow-up period did not significantly drive failure rate; fracture/chipping was the dominant complication (4%), followed by debonding and endodontic problems (both 2%); incisal coverage carried a non-significant OR of 1.25 for failure.
 
-SR+MA (13편): 세라믹 라미네이트 비니어 전체 누적 생존율 89% (중앙값 9년), 글래스세라믹 94% vs 장석계 87%; 파절/칩핑 4%로 가장 흔한 합병증.
+The clinical bottom line is that both ceramic types achieve high long-term survival, the material choice is not a survival decision by this evidence, and incisal coverage does not significantly alter survival probability — limitation: enamel vs dentin preparation effect could not be meta-analyzed due to heterogeneous reporting.
+
+## 세줄요약
+
+SR+MA (Cochrane + PubMed; 899건 검색·13편 포함; 중앙값 9년 추적): 장석질·글래스세라믹 라미네이트 비니어 누적 생존율 89% (95% CI 84–94%).
+
+글래스세라믹 94% (87–100%) > 장석계 87% (82–93%)이나 메타회귀에서 세라믹 종류·추적 기간 모두 실패율에 유의한 영향 없음; 가장 흔한 합병증 파절/칩핑(Fracture/Chipping) 4%, 탈접·근관 문제 각 2%; 절치 피개(Incisal Coverage) OR 1.25 (NS).
+
+임상 결론: 두 재료 모두 장기 생존율 높으며 재료 선택은 생존율 문제가 아님; 절치 피개도 생존에 유의한 영향 없음 — 법랑질 vs 상아질 삭제의 영향은 이질적 보고로 메타분석 불가.
 
 ## Summary
 

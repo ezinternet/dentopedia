@@ -13,11 +13,21 @@ source_collection: external
 
 기존 [[wiki/pdrn/lee-2023-impact-polydeoxyribonucleotide-lateral-sinus-elevation]]은 lateral approach·beagle·8주 단일시점에서 apical zone 한정 효과를 보였다. 본 연구는 다른 동물종(rabbit)·다른 접근(endosinus)·다중 시점(2/4/8주)에서 PDRN-soaked graft의 시간 의존적 효과를 검증해 sinus 적응증 근거를 보강·일반화 검증한다. chairside 매뉴얼의 골재생 카드에 "어느 시점에 효과가 나타나는가"를 추가하는 데 직접 사용.
 
-## One-line Summary
-Rabbit pilot (n=18, bilateral SFE): PDRN-soaked (2.0 mg/mL, 0.5 mL) collagenated bone substitute increased newly formed bone area over control at all timepoints, significant only at 4 weeks.
+## Three-line Summary
 
-## 한줄요약
-토끼 18마리 양측 상악동저거상술 pilot. PDRN(2.0 mg/mL, 0.5 mL) soaking graft가 2/4/8주 모두에서 신생골 면적이 대조군보다 컸으나 통계적 유의는 4주에서만. 효과가 치유 중기에 집중되는 시간 의존적 신호.
+Rabbit pilot (n=18, bilateral split-sinus SFE, n=6/timepoint at 2, 4, 8 weeks): PDRN-soaked (2.0 mg/mL, 0.5 mL) collagenated bone substitute vs. graft-only control, evaluated by micro-CT and histomorphometry.
+
+PDRN group showed greater newly formed bone area than control at all three timepoints (2 wk: 1.4 vs 1.2 mm; 4 wk: 3.4 vs 1.9 mm; 8 wk: 5.7 vs 4.5 mm), but statistical significance was reached only at 4 weeks; micro-CT showed significantly increased mineralized tissue volume between 4 and 8 weeks (p<0.05).
+
+The time-dependent pattern (peak at 4 weeks, gap narrowing by 8 weeks) supports early acceleration rather than sustained augmentation; the pilot scale (n=6/timepoint, rabbit anatomy) limits direct clinical translation to human maxillary sinus.
+
+## 세줄요약
+
+토끼 18마리 양측 상악동저거상술 pilot(시점당 n=6, 2·4·8주 희생): PDRN 흡착(2.0 mg/mL, 0.5 mL) 콜라겐 골대체재 vs 골대체재 단독 대조, micro-CT·조직계측으로 평가.
+
+PDRN군의 신생골 면적이 모든 시점에서 대조군보다 컸으나(2주 1.4 vs 1.2 mm; 4주 3.4 vs 1.9 mm; 8주 5.7 vs 4.5 mm) 통계적 유의는 4주에서만 도달; micro-CT 광화조직 부피는 4–8주 구간에서 유의 증가(p<0.05).
+
+효과가 4주에서 정점을 찍고 8주엔 격차가 줄어드는 시간의존적 패턴으로, 장기 골량 증대보다 초기 골형성 가속 가설을 지지하며 소표본·토끼 해부 한계로 사람 상악동 직접 적용에는 추가 연구가 필요하다.
 
 ## 1. Document Information
 - Journal: Clinical Oral Implants Research 2025;36(2):239-249 (first published 2024-11-19)

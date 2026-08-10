@@ -1,0 +1,24 @@
+Title: Risk factors for Peri-implantitis: An umbrella review of meta-analyses of observational studies and assessment of biases.
+
+Authors: Koay Chun Giok, Sajesh K. Veettil, Rohit Kunnath Menon
+Journal: Journal of Dentistry, 2024;146:105065
+DOI: 10.1016/j.jdent.2024.105065
+PMID: 38762079
+Publication date: 2024-05-16
+PROSPERO: CRD42024512408
+
+Abstract (source: PubMed, retrieved via PubMed MCP get_article_metadata; full text not accessible — paywalled, no PMC ID):
+
+Objective: To perform a comprehensive quantitative and qualitative analysis of the findings from previously published meta-analyses and to assess existing biases.
+
+Methods: A search was conducted for meta-analyses of observational studies investigating the association between any risk factor and peri-implantitis in PubMed, Scopus, Cochrane Database of Systematic Reviews, and Epistemonikos, from inception until October 2023 (PROSPERO: CRD42024512408).
+
+Results: From a total of 5002 publications, 51 full-text articles were evaluated for eligibility, and 12 articles that described 41 unique meta-analyses evaluating the association between risk factors and peri-implantitis were selected. Among 41 associations, 24 associations were significant. None of the associations were graded as convincing evidence. Two associations, presence of periodontitis (OR = 3.84 [95% CI 2.58,5.72]) and cigarette smoking (RR = 2.07 [95% CI 1.41,3.04]) were graded as highly suggestive. Eight associations — diabetes mellitus, hyperglycaemia, lack of prophylaxis, history of chronic periodontal disease, ongoing or history of periodontal disease, implants located in the anterior region of the jaw (maxillary and mandibular), osteoprotegerin (OPG) gene polymorphisms, and lack of keratinized mucosal width — were graded as suggestive evidence.
+
+Conclusions: Periodontitis and cigarette smoking are highly suggestive risk factors for peri-implantitis. The remaining risk factors which are suggestive require more high-quality studies to be performed to upgrade the level of evidence.
+
+Clinical significance: The highly suggestive and suggestive risk factors for peri-implantitis summarized in this umbrella review should be rigorously assessed, monitored and managed by clinicians to reduce the risk of peri-implantitis, as well as to form part of the preoperative consent process.
+
+Keywords: Implant; Peri-implantitis; Risk factors; Systematic review; Umbrella review
+Article types: Journal Article; Systematic Review
+MeSH terms: Humans; Peri-Implantitis; Risk Factors; Observational Studies as Topic; Meta-Analysis as Topic; Dental Implants; Periodontitis; Bias

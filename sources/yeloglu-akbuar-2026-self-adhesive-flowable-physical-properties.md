@@ -15,13 +15,21 @@ text_filename: yeloglu-akbuar-2026-self-adhesive-flowable-physical-properties.tx
 
 플로어블 레진의 **성분(레진 매트릭스 화학·filler composition)이 물성(미세경도·표면조도·색안정성)과 세균부착을 어떻게 결정하는지**를 직접 비교한 2026 in vitro 연구로, 기존 [[resin/parra-gatica-2023-flowable-bulk-fill-composites-sr]](flowable bulk-fill 물성 SR)와 [[resin/melo-2023-bioactive-dental-resins-restorative-dentistry]](bioactive resin 성분-기능 연결)의 "성분→물성" 축을 self-adhesive flowable 계열로 확장한다. 또한 [[resin-bonding/celik-2015-self-adhesive-flowable-nccl-6month]]의 self-adhesive flowable 임상 한계를 재료과학적으로 뒷받침하는 벤치 근거.
 
-## One-line Summary
+## Three-line Summary
 
 In vitro lab study (5 flowable composites, n=10 each): a conventional flowable composite (Filtek Ultimate Flowable) had the highest microhardness, while bacterial adhesion was composition-dependent and not explained by surface roughness alone — resin matrix chemistry and filler composition drive both physical properties and biofilm affinity.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 In vitro 실험 (플로어블 레진 5종, 각 n=10): 통상형(Filtek Ultimate Flowable)이 미세경도 최고, 세균부착은 표면조도가 아니라 **레진 매트릭스·필러 성분**에 좌우 — self-adhesive flowable은 통상형보다 경도가 낮으나 일부는 색안정성·세균부착에서 유리.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

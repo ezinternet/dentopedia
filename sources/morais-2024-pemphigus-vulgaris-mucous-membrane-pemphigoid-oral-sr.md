@@ -16,13 +16,21 @@ text_filename: morais-2024-pemphigus-vulgaris-mucous-membrane-pemphigoid-oral-sr
 
 Builds out the autoimmune blistering oral-disease branch of `oral-medicine`. Pemphigus vulgaris (PV) and mucous membrane pemphigoid (MMP) are the two mucocutaneous autoimmune diseases that most often present first in the mouth (desquamative gingivitis, blistering/erosive lesions), so the dentist is frequently the first to see them — this SR gives the clinical/demographic/diagnostic profile needed to tell them apart. Sibling to the autoimmune-disease implant page [[implants/esimekara-2022-dental-implants-autoimmune-diseases-sr]] (implant outcomes in autoimmune patients) and intended to pair with a future oral-manifestations-of-systemic-autoimmune-disease overview.
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (32 articles; 50 PV + 123 MMP intraoral cases, all DIF-confirmed): mouth is the primary site in both (PV 71.4 %, MMP 91 %); cheek mucosa is the top PV site (30 %) vs gingiva for MMP (64.2 %); DIF was IgG-positive in 100 % of both; systemic corticosteroids dominate PV management (50 %), topical therapy dominates MMP (53.7 %).
+Systematic review (32 articles;
 
-## 한줄요약
+50 PV + 123 MMP intraoral cases, all DIF-confirmed): mouth is the primary site in both (PV 71.4 %, MMP 91 %);
 
-체계적 문헌고찰 (32편; 직접면역형광 확진 PV 50례 + MMP 123례): 두 질환 모두 구강이 1차 호발 부위 (PV 71.4 %, MMP 91 %), PV는 협점막(30 %)·MMP는 치은(64.2 %)이 최다 구강 침범 부위, 직접면역형광(DIF) IgG 양성은 양쪽 모두 100 %, 치료는 PV 전신 스테로이드(50 %)·MMP 국소요법(53.7 %)이 주를 이룸.
+cheek mucosa is the top PV site (30 %) vs gingiva for MMP (64.2 %); DIF was IgG-positive in 100 % of both; systemic corticosteroids dominate PV management (50 %), topical therapy dominates MMP (53.7 %).
+
+## 세줄요약
+
+체계적 문헌고찰 (32편;
+
+직접면역형광 확진 PV 50례 + MMP 123례): 두 질환 모두 구강이 1차 호발 부위 (PV 71.4 %, MMP 91 %), PV는 협점막(30 %)·MMP는 치은(64.2 %)이 최다 구강 침범 부위, 직접면역형광(DIF) IgG 양성은 양쪽 모두 100 %, 치료는 PV 전신 스테로이드(50 %)·MMP 국소요법(53.7 %)이 주를 이룸.
+
+(incomplete)
 
 ## 1. Document Information
 

@@ -6,7 +6,7 @@ date: 2022-01-05
 doi: 10.1155/2022/6594279
 source: volpe-2022-osteotome-blood-clot-collagen-sponge-atrophied-maxilla.md
 category: [sinus-lift/transcrestal]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/volpe-2022-osteotome-blood-clot-collagen-sponge-atrophied-maxilla.pdf
 pdf_filename: volpe-2022-osteotome-blood-clot-collagen-sponge-atrophied-maxilla.pdf
 source_collection: external
@@ -18,11 +18,19 @@ relations:
     target: lai-2008-rfa-iti-osteotome-sinus-elevation-without-graft
 ---
 
-## One-line Summary
-Retrospective (n=36 Neoss implants, mean 8.5 yr): graftless OSFE with collagen sponge alone yields 97.2% survival, ISQ 73→76, VBH gain 3.8 mm retained at 2.4 mm net long-term.
+## Three-line Summary
+Retrospective series (n=36 single-tooth Neoss implants, 36 patients, mean follow-up 8.5 ± 2.8 years, range 5–13) of transcrestal osteotome sinus floor elevation using blood clot + collagen sponge only, with no bone graft.
 
-## 한줄요약
-후향적(36임플란트, 평균 8.5년): 골이식 없이 collagen sponge만 사용한 OSFE — 생존율 97.2%, ISQ 73→76, 장기 VBH 순증가 2.4mm.
+Implant survival was 97.2% (35/36); ISQ improved from 73.2 at placement to 75.8 at abutment surgery; vertical bone height peaked at 9.7 mm at 4–6 months then stabilized to 8.3 mm long-term, representing a net retained gain of 2.4 mm over baseline.
+
+This is one of the longest follow-up datasets for graftless transcrestal SFE, but the single-operator retrospective design limits generalizability.
+
+## 세줄요약
+후향적 증례군 (36명, 36개 Neoss 임플란트, 평균 추적 8.5 ± 2.8년): 골이식 없이 혈병(Blood Clot) + 콜라겐 스펀지만 이용한 경치조골 골내세공기 상악동거상술 (Osteotome Sinus Floor Elevation, OSFE) 시행.
+
+임플란트 생존율 97.2%; 임플란트 안정성 지수 (Implant Stability Quotient, ISQ) 식립 시 73.2 → 지대주 수술 시 75.8; 수직골높이 (Vertical Bone Height, VBH)는 4–6개월에 9.7 mm 최고치 후 장기 8.3 mm로 안정 — 기저치 대비 순증가 2.4 mm 유지.
+
+단일 술자 후향적 설계로 일반화에 한계가 있으나, 무이식 경치조골 OSFE의 가장 장기적인 추적 데이터 중 하나임.
 
 ## Summary
 

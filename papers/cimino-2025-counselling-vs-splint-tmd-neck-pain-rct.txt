@@ -1,0 +1,127 @@
+Abbreviations
+
+C
+
+counselling
+
+NDI
+
+neck disability index
+
+OS
+
+occlusal splint
+
+TMD
+
+temporomandibular disorders
+
+TMJ
+
+temporomandibular joint
+
+1
+
+Introduction
+
+Temporomandibular disorders (TMDs) are a group of musculoskeletal conditions that affect the temporomandibular joints (TMJs), the masticatory muscles and associated tissues. Symptoms of TMD typically include pain (in the face, mouth or jaw) and/or dysfunction, such as joint noises or restricted jaw movement. Most commonly, patients report that their symptoms are influenced by mandibular activity, including eating, chewing and speaking [,]. TMDs are among the most frequent causes of chronic orofacial pain and can significantly impact a patient's quality of life. Their aetiology is multifactorial, involving a combination of biomechanical, neuromuscular and psychosocial factors []. Many patients with TMD also suffer from other comorbidities, such as headache, neck and back pain, chronic fatigue syndrome, fibromyalgia and irritable bowel syndrome [,,].
+
+The connection between TMD and neck pain has gained attention in scientific literature. Research has shown that individuals with TMD often report co‐occurring neck pain and stiffness, with some studies suggesting that up to 70% of TMD patients experience some form of cervical discomfort [,,]. This relationship is likely due to the biomechanical and neuromuscular interplay between the TMJ and cervical spine. The TMJ and cervical spine share common muscle groups, including the sternocleidomastoid and trapezius, which can contribute to the spread of pain. Furthermore, the close anatomical proximity and functional integration between the jaw and neck mean that dysfunction in one area may influence the other [].
+
+This intricate connection has led to the observation of decreased TMD pain symptoms after treatment aimed at the upper cervical spine region [,,], thus supporting the importance of looking at cervical spine function when evaluating subjects with TMD. Similarly, it has been hypothesised that dealing with TMD symptoms may have a positive impact on cervical spine‐related issues, including neck pain and dysfunction.
+
+Recent international consensus underlined that TMD treatment should primarily be based on encouraging supported self‐management and conservative approaches [,]. Counselling is a conservative and low‐cost approach that carries no risks, making it an attractive first‐line treatment for TMD‐related symptoms [], including coexisting neck pain. Occlusal splint therapy is also a widely used non‐invasive treatment modality for TMD that could potentially offer benefits that extend beyond the immediate orofacial region [,]. Although the actual mechanism of action is still unclear, these splints are thought to work by redistributing occlusal forces, reducing excessive muscular activity and promoting muscle relaxation, all of which contribute to the reduction of TMD‐related pain and joint loading [].
+
+Numerous studies have documented the efficacy of occlusal splint therapy in alleviating common symptoms of TMD, such as jaw pain, joint sounds and headaches. However, the potential effects of splints on secondary symptoms, particularly those related to the cervical spine, have received comparatively less attention. Given the overlap between TMD and neck pain, investigating whether occlusal splint therapy can positively impact neck pain and dysfunction is crucial for providing a more comprehensive treatment strategy for TMD patients. Most clinical studies have focused on the efficacy of occlusal splints in reducing jaw pain and improving TMJ function, with few studies addressing the broader musculoskeletal outcomes, such as neck‐related symptoms [].
+
+Given that counselling (self‐management education) is a proven, low‐cost intervention for TMD, it is clinically important to determine whether adding an occlusal splint provides any additional benefit for neck pain and dysfunction. Therefore, the present randomised clinical trial aims to investigate the short‐term effects of occlusal splint therapy on neck pain and dysfunction in patients with TMD‐related pain, and to compare it with the effect of self‐management alone. The primary objective was to assess whether therapies commonly used to manage TMD can also provide relief for coexisting neck pain. Secondary objectives include evaluating the effects of TMD therapies on neck‐related functional outcomes.
+
+We hypothesise that occlusal splint therapy, by addressing the abnormal forces and muscular hyperactivity associated with TMD, could result in a significant reduction in both TMD‐related pain and neck pain, and that this reduction could be superior to that obtained with counselling alone. Furthermore, we expect to observe improvements in neck function, as measured by subjective reports of disability. The results of this study will contribute to a growing body of literature on the interconnectedness of the TMJ and cervical spine and may provide clinicians with a more holistic understanding of the benefits of TMD therapy for patients with TMD and neck pain.
+
+2
+
+Materials and Methods
+
+For the purpose of this perspective randomised clinical trial, all patients signed a written informed consent. The study was approved by the Ethics Committee of University of Turin (approval no. 246/2019).
+
+2.1
+
+Participants
+
+Patients were consecutively recruited from those seeking treatment between March 2019 and December 2019 at the Clinic of TMD of the CIR Dental School of University of Turin (Turin, Italy). The inclusion criteria were: adult patients (18–60 years of age); pain‐related TMD diagnosis (myalgia and/or arthralgia and/or headache attributed to TMD) according to Diagnostic Criteria for TMD []; current level of TMD pain > 3 assessed on a numerical rating scale (Question 2 of the ‘Graded Chronic Pain Scale’ []); presence of current neck pain > 3 assessed on a numerical rating scale. The TMD examination was performed by one calibrated operator (RC). The exclusion criteria were: other therapy for TMD pain or cervical spine pain in the preceding 3 months; pharmacological therapy (NSAID, muscle‐relaxing drugs, tricyclic antidepressant) in the last month; systemic neurologic diseases; previous facial trauma, whiplash or TMJ surgery.
+
+Patients were randomly assigned using a predetermined block randomisation list prepared by an independent statistician. The allocation was concealed until the point of assignment, when the investigator (RC) enrolled each patient into the next sequential group per the randomisation sequence. Owing to the nature of the treatments, neither participants nor the treating clinician could be blinded. However, the statistician performing the data analysis was kept blinded to group allocations. One group received counselling plus occlusal splint therapy (group OS), while the other group received counselling only (group C). Patients were considered lost during follow‐up whenever they did not attended the clinical appointment scheduled after 3 months of treatment.
+
+2.2
+
+Treatment Modalities
+
+COUNSELLING—Counselling included a patient education programme, comprising general information about self‐care of jaw musculature, already used in previous studies []. One operator (RC) reassured the patient by explaining the benign nature of TMD, the possible aetiology, and the good prognosis of these disorders. Furthermore, explanations about the normal jaw muscles function and the possible overuse of these muscles as a cause of their complaints were provided. The patients were instructed to carefully and constantly control their muscle activity, to avoid oral parafunctional habits or excessive mandibular movements and to keep a soft diet. Patients were also instructed to keep their jaw muscles relaxed, by holding the mandible in a rest position with teeth apart. The mandibular rest position was determined by pronouncing the letter ‘N’ several times and keeping the tongue behind the upper incisor teeth, with the lips in slight contact. Finally, patients were invited to keep practising what they learned at home and during their common activities, by using audio/visual reminders.
+
+OCCLUSAL SPLINT (OS)—Alginate impressions were taken to fabricate hard resin stabilisation (Michigan type) upper OS. The characteristics of the OS were: flat surface, full coverage of occlusal upper dental surfaces (or lower, when patients presented reduced dental support), uniform contact points, short coverage of the labial surfaces and buccal surfaces of the maxillary teeth to provide frictional retention. Patients were instructed to wear the occlusal splint every night and to follow the counselling instructions (exercises and habit modifications) daily; however, no formal measure of adherence (e.g., usage diaries or compliance checks) was employed during the 3‐month follow‐up.
+
+2.3
+
+Timepoint and Outcomes
+
+Study outcomes were collected at the baseline, when patients received written instructions about their own treatment programme (T0) and after 3 months (T1). The operator instructed the patients to continue with the prescribed therapy throughout a three‐month period even if they were pain free. During the entire study period, no participants received any other form of treatment other than that assigned to their group.
+
+Study outcomes were TMD pain, neck pain, neck disability, jaw opening. TMD pain and neck pain were measure as maximum spontaneous pain during the last 30 days, using a VAS (Visual Analogue Scale) made of a horizontal segment of 100 mm, whose anchors corresponded to ‘No Pain’ (left anchor) and ‘Worst Pain Imaginable’ (right anchor). Neck disability was recorded using the Italian version of the Neck Disability Index (NDI) questionnaire [,]. The NDI is a 10 questions questionnaire, with each item being possibly rated on a 0 to 5 rating scale. According to the sum of all item (maximum score 50 points), the disability could be interpreted as ‘none’ (from 0 to 4), ‘mild’ (from 5 to 14), ‘moderate’ (from 15 to 24), ‘severe’ (from 25 to 34) and ‘complete’ (higher than 34). Jaw opening was measured as the maximal distance (in mm) between the maxillary and mandibular incisal edges during a pain free mandibular opening movement.
+
+2.4
+
+Statistical Analysis
+
+A total sample size of 64 patients (32 for each group) achieves 80% power to detect a difference of 10.0 under the null hypothesis that group means are equal, considering group standard deviations of 14.0 and a significant level (alpha) of 0.05 using a two‐sided two‐sample means test. The power analysis was calculated on NDI values.
+
+Statistician was blinded to the group assignment. All randomised patients were included in the summary statistics. The basic characteristics of the patients were reported as absolute and relative frequencies for categorical variables and as means and standard deviations or medians and interquartile ranges for continuous variables. For each parameter collected, the main descriptive statistics were provided (means and standard deviations for continuous data). Statistical analyses were performed on a per‐protocol basis, including only participants who completed the 3‐month follow‐up. Participants who were lost to follow‐up had no post‐treatment data and thus could not be included in an intention‐to‐treat analysis. No data imputation was performed for dropouts.
+
+Differences between the two groups at time T1 were evaluated using the chi‐square test or Fisher's exact test for categorical variables, and the Mann–Whitney‐test or‐test for continuous variables. The choice between parametric and non‐parametric tests was determined based on the results of the Shapiro–Wilk normality test. Confidence intervals were calculated at 95%, and the significance level was set at 5%. The NDI and VAS indices were analysed both as continuous variables and as categorical variables (using clinically representative categories). Effect sizes were calculated to quantify the magnitude of differences between groups. Cohen'swas computed using standard formulas; for asymmetric variables, an approximate method was applied to estimate the standardised mean difference. All statistical analyses were performed using R software.
+
+3
+
+Results
+
+During the recruitment period, a total of 116 patients were assessed for eligibility. Of these, 49 were excluded (due to not meeting inclusion criteria or declining participation) and 67 eligible patients were enrolled and randomised into two groups. Sixty‐seven (67) patients were recruited and allocated in the two study groups: 35 patients received counselling only, while 32 patients received counselling and occlusal splint. In each group, 8 patients were lost during follow‐up due to several reasons (moved to other cities, refused to attend the next appointment, did not show up). The final sample size consisted of 52 patients (Figure), of which 27 belonged to the C group (5 males, 22 females, mean age ± SD: 36.5 ± 11.8 years), while 24 belonged to the OS group (3 males, 21 females, mean age ± SD: 35.5 ± 12.5 years).
+
+The TMD diagnoses of the included patients are reported in Table. In both groups, the majority of the participants were diagnosed with myalgia and/or headache attributed to TMD, while arthralgia was less prevalent. No significant difference was found concerning the TMD diagnosis in the two groups (all> 0.05).
+
+Regarding the pain‐free Maximum Mouth Opening (MMO), a significant increase (2.6 ± 5.8 mm) was observed comparing the 3‐month follow‐up with the baseline values of the C group (= 0.03), while no significant difference was observed in the OS group. No difference was also found in the between‐group comparison of the delta scores (= 0.64, Table).
+
+VAS score for neck pain was significantly reduced after treatment in both groups (Group C: −7.0 mm,= 0.006; Group OS: −8.0 mm,= 0.02), but no differences were found between the study groups (= 0.69, Table).
+
+At baseline, the counselling‐only group reported higher TMD pain levels (mean VAS) than the occlusal splint group; this difference was statistically significant (< 0.05). Although both groups showed a trend of pain reduction over time, the baseline imbalance necessitates caution when directly comparing the magnitude of pain improvements between groups (Table).
+
+Neck disability, as measured with the NDI, was reduced in both groups across time (Group C: −3.3,= 0.007; Group OS: −4.2,= 0.001). This improvement was not significantly different between the two study groups (= 0.57, Table).
+
+The estimated effect size was small and not clinically meaningful (Cohen's< 0.5); supporting the main analysis and confirming the absence of relevant differences between the groups (Table).
+
+FIGURE 1
+
+CONSORT 2010 flow diagram.
+
+TABLE 1
+
+Distribution of the TMD diagnosis, according to the DC/TMD in the two study groups (C, counselling; OS, occlusal splint therapy).
+
+Group C
+
+Group OS
+
+= 27
+
+= 24
+
+Myalgia,(%)
+
+27 (100%)
+
+23 (96%)
+
+Arthralgia,(%)
+
+12 (44%)
+
+9 (38%)
+
+H

@@ -15,15 +15,23 @@ text_filename: liu-2026-powered-manual-toothbrushes-orthodontic-sr-ma.txt
 
 ## Why Ingested
 
-New 2026 SR+MA (European Journal of Orthodontics, search to Nov 2025) settling whether powered toothbrushes (PTBs) beat manual (MTBs) for plaque/gingivitis control specifically in fixed-appliance orthodontic patients — a population at high plaque-retention risk where four prior SRs (last updated 2021) gave conflicting verdicts. Extends the wiki's plaque-control evidence in [[periodontics/jo-2008-management-of-dental-biofilm-through]] from professional-care biofilm management to the home-care toothbrush-type question in the orthodontic context, and pairs with the OTM-periodontium biology in [[orthodontics/li-2021-periodontium-orthodontic-tooth-movement-biomechanics]] (why FA plaque control matters for periodontal stability during tooth movement). According to PubMed; DOI: https://doi.org/10.1093/ejo/cjag026
+New 2026 SR+MA (European Journal of Orthodontics, search to Nov 2025) settling whether powered toothbrushes (PTBs) beat manual (MTBs) for plaque/gingivitis control specifically in fixed-appliance orthodontic patients — a population at high plaque-retention risk where four prior SRs (last updated 2021) gave conflicting verdicts. Extends the wiki's plaque-control evidence in [[periodontics/oral-hygiene-instruction/jo-2008-management-of-dental-biofilm-through]] from professional-care biofilm management to the home-care toothbrush-type question in the orthodontic context, and pairs with the OTM-periodontium biology in [[orthodontics/li-2021-periodontium-orthodontic-tooth-movement-biomechanics]] (why FA plaque control matters for periodontal stability during tooth movement). According to PubMed; DOI: https://doi.org/10.1093/ejo/cjag026
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (23 papers / 39 comparisons, fixed-appliance orthodontic patients): PTBs > MTBs on plaque (SMD -0.77), gingivitis (SMD -0.82), and bleeding (SMD -0.51) by incremental-difference meta-analysis, but evidence is LOW quality (I2 80–93%, possible publication bias, TSA inconclusive); descriptively most comparisons showed no difference, and PS/GS significance vanished when restricted to low-RoB or non-industry studies. Only counter-rotational PTBs beat MTBs on plaque by action mode (very low quality).
+SR+MA (23 papers / 39 comparisons, fixed-appliance orthodontic patients): PTBs > MTBs on plaque (SMD -0.77), gingivitis (SMD -0.82), and bleeding (SMD -0.51) by incremental-difference meta-analysis, but evidence is LOW quality (I2 80–93%, possible publication bias, TSA inconclusive);
 
-## 한줄요약
+descriptively most comparisons showed no difference, and PS/GS significance vanished when restricted to low-RoB or non-industry studies.
 
-SR+MA (23편 / 39비교, 고정성 교정장치 환자): 전동칫솔(PTB)이 수동칫솔(MTB)보다 치면세균막(SMD -0.77)·치은염(SMD -0.82)·치은출혈(SMD -0.51)에서 우세하나 근거 수준은 낮음(I2 80–93%, 출판편향 배제 불가, TSA 미결). 서술적 분석에서는 대부분 비교에서 차이 없었고, 저편향·비산업지원 연구로 한정하면 PS·GS 유의성 소실. 작용방식별로는 역회전(CR) PTB만 치면세균막에서 우세(very low quality).
+Only counter-rotational PTBs beat MTBs on plaque by action mode (very low quality).
+
+## 세줄요약
+
+SR+MA (23편 / 39비교, 고정성 교정장치 환자): 전동칫솔(PTB)이 수동칫솔(MTB)보다 치면세균막(SMD -0.77)·치은염(SMD -0.82)·치은출혈(SMD -0.51)에서 우세하나 근거 수준은 낮음(I2 80–93%, 출판편향 배제 불가, TSA 미결).
+
+서술적 분석에서는 대부분 비교에서 차이 없었고, 저편향·비산업지원 연구로 한정하면 PS·GS 유의성 소실.
+
+작용방식별로는 역회전(CR) PTB만 치면세균막에서 우세(very low quality).
 
 ## 1. Document Information
 
@@ -73,7 +81,7 @@ SR+MA (23편 / 39비교, 고정성 교정장치 환자): 전동칫솔(PTB)이 �
 
 ## 6. Related Work
 
-- [[periodontics/jo-2008-management-of-dental-biofilm-through]] — biofilm/plaque control via professional care; this SR addresses the home-care toothbrush-type axis of plaque control.
+- [[periodontics/oral-hygiene-instruction/jo-2008-management-of-dental-biofilm-through]] — biofilm/plaque control via professional care; this SR addresses the home-care toothbrush-type axis of plaque control.
 - [[orthodontics/li-2021-periodontium-orthodontic-tooth-movement-biomechanics]] — periodontium biology during OTM; motivates why FA-patient plaque control matters for periodontal stability.
 
 ## 7. Glossary

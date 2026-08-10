@@ -13,8 +13,21 @@ source_collection: external
 
 Primary RCT evidence for osseodensification (OD) in low-quality (D3/D4) bone — a double-blind trial showing OD raises insertion torque but yields ISQ and survival equivalent to standard undersized drilling, a key "torque ≠ stability" nuance for [[overviews/osseodensification-clinical-applications]]. Provides patient-level data underlying the pooled estimates of [[implants/gaspar-2022-implant-stability-osseodensification-conventional-sr-ma]].
 
-## One-line Summary
-Double-blind RCT (16 patients, 55 implants) in D3/D4 bone — osseodensification produced higher insertion torque (39.0 ± 6.4 vs 32.0 ± 3.4 Ncm, p < 0.001) than standard undersized drilling but identical ISQ at placement and at 6 months, with equivalent survival.
+## Three-line Summary
+
+Double-blind RCT (16 patients, 55 implants) in D3/D4 bone — osseodensification produced higher insertion
+
+torque (39.0 ± 6.4 vs 32.0 ± 3.4 Ncm, p < 0.001) than standard
+
+undersized drilling but identical ISQ at placement and at 6 months, with equivalent survival.
+
+## 세줄요약
+
+Double-blind 무작위 대조 시험 (RCT) (16 patients, 55 임플란트 (Implant)) in D3/D4 골 (Bone) — osseodensification produced 더 높음 insertion
+
+torque (39.0 ± 6.4 대 (vs) 32.0 ± 3.4 Ncm, p< 0.001) than standard
+
+undersized drilling but identical 임플란트 안정성 지수 (Implant Stability Quotient, ISQ) at placement and at 6 months, with equivalent survival.
 
 ## 1. Document Information
 - **Type**: Double-blind, randomized clinical trial (RCT)

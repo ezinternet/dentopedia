@@ -1,0 +1,44 @@
+Digital assessment of supracrestal tissue attachment and its correlation with dentogingival components
+
+Authors: Abdulkarim HH, Antoine NM, Wang MY, Rosales ER, Miley DD
+Journal: Clinical Advances in Periodontics 2024;14(4):310-318
+DOI: 10.1002/cap.10280
+PMID: 38348934  PMCID: PMC11718352
+Source: PubMed Central full text (JATS), retrieved via PubMed MCP.
+
+ABSTRACT
+
+Background: The aim of this study is to measure, in vivo, the supracrestal tissue attachment dimensions (STADs) by means of a noninvasive digital method and to investigate the association between STADs and gingival thickness (GT), tooth position, tooth length, tooth width, keratinized tissue width (KTW), buccal bone thickness (BBT), and bone crest (BC) level.
+
+Methods: Nineteen periodontally healthy subjects who previously received full mouth periodontal charting, cone beam computed tomography, and intraoral scan for the purpose of implant planning were included. A digital imaging software was used for the superimposition of DICOM and STL files, along with hard and soft tissue measurements. Pearson's correlation and ANOVA statistical analyses were used.
+
+Results: A total of 203 teeth were assessed, with an average STADs of 2.05 mm (±0.99 mm). STADs were larger in mandibular than maxillary teeth (p<0.001) and decreased from anterior to posterior teeth. STADs exhibited an inverse relationship with BBTs and GTs (p<0.001) and the KTW (p=0.05). Positive correlations were found between GT and BBT (p<0.001); both were negatively correlated with CEJ–BC distance (p=0.019 and 0.006) and positively correlated with KTW (p<0.001).
+
+Conclusions: This study highlighted the dynamic nature of STA relative to tooth position and explored the relationships of STADs with various dentogingival components.
+
+Key points:
+- First application of CBCTs, intraoral scans, and clinical probe depths for noninvasive supracrestal tissue attachment measurements.
+- Advocates a personalized assessment of supracrestal attachments, incorporating tooth position and other dentogingival components.
+- Practitioners should consider patient-specific gingival phenotype during restorative or surgical planning to avoid adverse outcomes.
+
+INTRODUCTION (key points)
+Cohen coined the term biologic width (BW), currently referred to as supracrestal tissue attachment (STA) — the sum of the junctional epithelium plus the connective tissue attachment, widely adopted as an average value of 2.04 mm based on Gargiulo's research. Clinically it is recommended to maintain subgingival crown margins ~0.5–1.0 mm below the gingival level to avoid violating the STA. Deep subgingival margins may encroach on the STA, causing chronic inflammation, bleeding, alveolar bone loss or gingival recession. Schmidt et al. (2013) systematic review found average BW ranged 2.15–2.30 mm, with subject values 0.2–6.73 mm, concluding no universal BW dimension exists. Prior data came from cadavers or invasive bone sounding.
+
+MATERIALS AND METHODS
+Retrospective study, IRB-approved (A.T. Still University). Patients seeking implant treatment planning (Oct 2018–Mar 2021) with CBCT + IOS + comprehensive periodontal charting. Exclusions: periodontal disease, SRP history, altered passive eruption (>2 mm gingival display on full smile), recession, excessive tooth wear, crown/cervical restorations, scatter. STL superimposed onto DICOM by best-fit algorithm (Blue Sky Plan). Mid-facial probe depth (MFPD) and KTW measured with colored periodontal probe by a single periodontist (HA). Digital measurements: total tooth length (TL), FGM–CEJ, CEJ–BC, gingival thickness (GT, at alveolar crest), tooth width (TW), thickest buccal bone (BBT). FGM–BC = FGM–CEJ + CEJ–BC. STADs = FGM–BC − MFPD. Single calibrated examiner (NA), ICC 0.99 for FGM–BC. Teeth grouped: MxA, MxC, MxP, MnA, MnC, MnP. ANOVA + post hoc Bonferroni; Pearson correlation + linear regression. SPSS v29, p<0.05.
+
+RESULTS
+19 patients (14 F, 5 M), mean age 52.7 (SD 14.0). 203 teeth (47 MxA, 20 MxC, 52 MxP, 39 MnA, 21 MnC, 24 MnP). Overall mean STADs 2.05 mm (SD 0.99; range 0.02–5.85).
+STADs by position: MxA 2.34, MxC 2.12, MxP 1.34; MnA 2.56, MnC 2.70, MnP 1.57 mm.
+ANOVA: significant difference across positions (p<0.001). Mandibular > maxillary (mean diff 0.44, p=0.001). Anterior/canine > posterior in both arches. No association with age (p=0.272) or gender (p=0.558).
+STADs correlations: FGM–BC +0.830, CEJ–BC +0.574, FGM–CEJ +0.298, TL +0.159 (positive); MFPD −0.480, BBT −0.419, TW −0.373, GT −0.283, KTW −0.138 (negative).
+BBT, GT, KTW: significant differences across positions (all p<0.001). Maxillary > mandibular for BBT (+0.69), GT (+0.44), KTW (+1.76). Posterior thicker BBT and GT than anterior. BBT–GT +0.679 (p<0.001). BBT and GT positively correlated with KTW (+0.464, +0.384) and negatively with CEJ–BC (−0.192 p=0.006; −0.168 p=0.019).
+
+DISCUSSION (key points)
+Overall STADs 2.05 mm matches Gargiulo histologic 2.04 mm, validating the digital method; range 0.02–5.85 matches Schmidt 0.2–6.73. STADs vary by tooth position (anterior>posterior). Inverse relationship: as BBT, GT, KTW increase, STADs decrease. Thin phenotype (thin BBT + thin GT + narrow KTW) = larger STADs; thick phenotype = smaller STADs — a "phenotypic package." CEJ–BC positively correlates with STADs. STA should NOT be universally accepted as 2.04 mm for every tooth. Large STADs + short sulcus → keep margins equal/supragingival; posterior sites with shorter STADs allow more subgingival leeway. Mandibular teeth, anterior teeth, thin buccal bone, thin gingiva, narrow keratinized tissue → larger STADs easily overlooked and violated.
+
+LIMITATIONS
+Retrospective; clinical examiner not calibrated (single operator HA); CBCT resolution loss on magnification reduced sample; molar measurements on mesiobuccal/mesial roots (not fully representative of multi-rooted anatomy); no reference marks to ensure identical probe/radiographic sites; possible unintentional inclusion of mild altered-passive-eruption cases; only mid-facial sites (not interproximal/lingual/palatal).
+
+CONCLUSIONS
+First use of CBCT + IOS + clinical probe depths for noninvasive dentogingival/STAD measurement. STA is dynamic, varying by tooth position and other dentogingival components. Larger prospective studies with enhanced CBCT resolution needed.

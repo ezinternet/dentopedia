@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1186/s12903-025-06946-8
 source: yousefi-2025-cshaped-canal-prevalence-cbct-sr-ma.md
 category: [endodontics/anatomy]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/yousefi-2025-cshaped-canal-prevalence-cbct-sr-ma.pdf
 pdf_filename: yousefi-2025-cshaped-canal-prevalence-cbct-sr-ma.pdf
 source_collection: external
@@ -22,13 +22,21 @@ relations:
     target: brea-2021-cbct-cshaped-mandibular-premolars
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review + meta-analysis of 101 CBCT studies (from 5548 screened): highest C-shaped canal prevalence in mandibular second molars (17.3%), lowest in maxillary first molars (0.8%); female predominance in mandibular second molars (23.6% vs 16.7%); highest in the Asian continent; right/left difference not significant (21.2% vs 23.1%).
+PRISMA-registered SR+MA of 101 CBCT studies (5,548 screened) estimating C-shaped canal prevalence across premolar and molar tooth types, stratified by tooth type, sex, geography, and side.
 
-## 한줄요약
+Mandibular second molars had the highest prevalence (17.3%) and maxillary first molars the lowest (0.8%); in mandibular second molars, females showed higher prevalence than males (23.6% vs 16.7%), and Asian-continent studies yielded higher rates than other regions.
 
-CBCT 연구 101편(5548편 스크리닝) 체계적 문헌고찰+메타분석: C-shaped 근관 유병률은 하악 제2대구치에서 최고(17.3%), 상악 제1대구치에서 최저(0.8%); 하악 제2대구치에서 여성 우세(23.6% vs 16.7%); 아시아 대륙에서 가장 높음; 좌우 차이 무의미.
+No significant right-vs-left difference (21.2% vs 23.1%) supports the clinical heuristic that a contralateral C-shaped canal is likely once one side is identified; CBCT is recommended for preoperative morphology assessment.
+
+## 세줄요약
+
+PRISMA 등록 SR+MA(101편 CBCT 연구, 5,548편 스크리닝): 소구치·대구치에서 C-shaped 근관 유병률을 치종·성별·지역·좌우로 층화 분석.
+
+하악 제2대구치 최고(17.3%), 상악 제1대구치 최저(0.8%); 하악 제2대구치에서 여성 우세(23.6% vs 16.7%), 아시아 대륙이 다른 지역보다 높음.
+
+좌우 차이 없음(21.2% vs 23.1%) — 한쪽에서 C-shaped 발견 시 대측에서도 동일 형태를 예상할 수 있으며, 술전 CBCT 촬영이 권고된다.
 
 ## Summary
 

@@ -13,8 +13,21 @@ source_collection: external
 
 경치조골 상악동 거상 기법 비교축에 OD vs 피에조(PISE)를 추가. 기존 [[sinus-lift/transcrestal/el-ghobashy-osseodensification-vs-osteotome-transcrestal-sinus]](OD vs osteotome), [[sinus-lift/transcrestal/cobo-vazquez-2025-crestal-sinus-lift-osteotome-vs-osseodensification]]와 함께 [[overviews/sinus-lift-technique-selection]] 갱신 근거. RCT라 증거 비중 있음.
 
-## One-line Summary
-RCT (NCT06055127) comparing OD vs piezoelectric internal sinus elevation for delayed implant placement: OD gave more bone gain, higher density, shorter surgery and higher satisfaction; PISE gave better day-0 primary stability.
+## Three-line Summary
+
+RCT (NCT06055127) comparing OD vs piezoelectric internal sinus elevation for
+
+delayed implant placement: OD gave more bone gain, higher density,
+
+shorter surgery and higher satisfaction; PISE gave better day-0 primary stability.
+
+## 세줄요약
+
+무작위 대조 시험 (RCT) (NCT06055127) comparing OD vs piezoelectric internal sinus elevation for
+
+delayed implant placement: OD gave more bone gain, higher density,
+
+shorter surgery and higher satisfaction; PISE gave better day-0 primary stability.
 
 ## 1. Document Information
 - BMC Oral Health 2024;24:1306. doi 10.1186/s12903-024-04964-6. Registered clinicaltrials.gov NCT06055127 (2023-09-26).

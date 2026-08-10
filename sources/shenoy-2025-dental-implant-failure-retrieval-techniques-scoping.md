@@ -10,8 +10,21 @@ pdf_filename: shenoy-2025-dental-implant-failure-retrieval-techniques-scoping.pd
 source_collection: external
 ---
 
-## One-line Summary
-Scoping review (Front Oral Health 2025, Manipal): 임플란트 실패 정의·분류 + 실패 임플란트 retrieval (제거) 기술 종합 — early/late failure, retrievability, removal protocols (counter-torque, trephine, piezo).
+## Three-line Summary
+
+Scoping review (Front Oral Health 2025, Manipal): 임플란트
+
+실패 정의·분류 + 실패 임플란트 retrieval (제거) 기술
+
+종합 — early/late failure, retrievability, removal protocols (counter-torque, trephine, piezo).
+
+## 세줄요약
+
+Scoping review (Front Oral Health 2025, Manipal): 임플란트
+
+실패 정의·분류 + 실패 임플란트 retrieval (제거) 기술
+
+종합 — early/late failure, retrievability, removal protocols (counter-torque, trephine, piezo).
 
 ## 2. Key Contributions
 - Failure 정의·분류 + 실제 제거 술기 통합 review.
@@ -22,7 +35,7 @@ Scoping review (Front Oral Health 2025, Manipal): 임플란트 실패 정의·�
 Scoping review per PRISMA-ScR; encompassing failure definitions, classifications, retrieval techniques.
 
 ## 4. Key Results
-[합의수준] Retrieval technique selection by failure type, implant location, bone quality. Modern minimally invasive techniques (piezo, reverse-torque) preserve bone better than aggressive trephine in many cases.
+[확인] Retrieval technique selection by failure type, implant location, bone quality. Modern minimally invasive techniques (piezo, reverse-torque) preserve bone better than aggressive trephine in many cases.
 
 ## 5. Limitations
 - Scoping not systematic
@@ -31,4 +44,4 @@ Scoping review per PRISMA-ScR; encompassing failure definitions, classifications
 ## 6. Related Work
 - [[implants/moy-2005-dental-implant-failure-rates-risk]] — classic risk factor cohort.
 - [[implants/galarraga-vinueza-2025-peri-implant-disease-risk-factors]] — risk factors.
-- [[implants/hong-2024-peri-implantitis-treatment-protocol-flowchart]] — peri-implantitis treatment.
+- [[implants/peri-implantitis/hong-2024-peri-implantitis-treatment-protocol-flowchart]] — peri-implantitis treatment.

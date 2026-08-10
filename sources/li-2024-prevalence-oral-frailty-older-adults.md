@@ -13,11 +13,21 @@ source_collection: external
 
 신설 geriatric-dentistry. [[geriatric-dentistry/zhu-2024-prevalence-unfavourable-outcome-oral-frailty]](32%)와 함께 유병률 추정을 제공하되 평가도구별 차이(OFI-8 vs OFI-6)를 부각 - 측정 표준화 이슈 anchor. 개념은 [[geriatric-dentistry/dibello-2022-oral-frailty-indicators-adverse-health-outcomes]]에서 정의.
 
-## One-line Summary
-SR+MA (18 studies, 12,932 older adults) - pooled oral frailty prevalence 24% and oral pre-frailty 57%; prevalence varies by assessment tool (OFI-8 44% vs OFI-6 18%), sex, setting and region.
+## Three-line Summary
 
-## 한줄요약
-SR+MA(18편, 12,932명) - oral frailty 통합 유병률 24%·전(前)단계 57%; 평가도구(OFI-8 44% vs OFI-6 18%)·성별·세팅·지역에 따라 변동.
+SR+MA (18 studies, 12,932 older adults) - pooled oral frailty prevalence 24% and oral pre-frailty 57%;
+
+prevalence varies by assessment tool (OFI-8 44% vs OFI-6 18%), sex, setting and region.
+
+(incomplete)
+
+## 세줄요약
+
+SR+MA(18편, 12,932명) - oral frailty 통합 유병률 24%·전(前)단계 57%;
+
+평가도구(OFI-8 44% vs OFI-6 18%)·성별·세팅·지역에 따라 변동.
+
+(incomplete)
 
 ## 1. Document Information
 European Geriatric Medicine 2024;15(3):645-655 · Tao Li, Yinli Shen, Yingjie Leng, You Zeng, Long Li, Zijiang Yang, Siyu Wang, Yunlan Jiang · 2024 · DOI: 10.1007/s41999-023-00930-7. Study type: sr+ma.
@@ -30,7 +40,7 @@ European Geriatric Medicine 2024;15(3):645-655 · Tao Li, Yinli Shen, Yingjie Le
 10개 DB(~2023.9), 18편. random-effects, 하위군·메타회귀, 출판편의 검정.
 
 ## 4. Key Results and Benchmarks
-OF 24%(95%CI 20-28), pre-frailty 57%(52-61); 여성·병원·중국에서 높음 [근거강함]. 도구별 큰 차이.
+OF 24%(95%CI 20-28), pre-frailty 57%(52-61); 여성·병원·중국에서 높음 [확인]. 도구별 큰 차이.
 
 ## 5. Limitations and Future Work
 평가도구 비표준화가 유병률 차이의 주원인, 횡단 다수.

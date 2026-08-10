@@ -6,7 +6,7 @@ date: 2026-01-19
 doi: 10.3390/jcm15020804
 source: sfondrini-2026-elastodontic-bioactivator-vs-headgear-class-ii.md
 category: [orthodontics/myofunctional]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 full_text: true
 pmid: "41598741"
@@ -20,13 +20,21 @@ relations:
     target: ureni-2024-elastodontic-devices-sagittal-malocclusion-scoping-review
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective cohort (n=40, 20 elastodontic device vs 20 high-pull headgear; ages 7–11; 18-month follow-up) finding both appliances produced a comparable significant intragroup SNB increase with stable SNA, ANB, mandibular plane angle, dentoalveolar, and soft-tissue parameters — no clinically meaningful between-group differences.
+Retrospective cohort from the University of Pavia (n=40; 20 elastodontic bioactivator vs 20 high-pull headgear; ages 7–11; hyperdivergent skeletal Class II) comparing lateral cephalometric change at 18 months.
 
-## 한줄요약
+Both appliances produced a statistically significant intragroup increase in SNB with moderate-to-large effect sizes, while SNA, ANB, mandibular plane angles, and dentoalveolar/soft-tissue parameters remained stable — no clinically meaningful between-group differences.
 
-후향적 코호트 (n=40, 탄성교정장치 ED 20명 vs 고위견인 헤드기어 HPHD 20명; 7–11세; 18개월 추적): 두 장치 모두 SNB를 군내 유의하게 증가시켰고 효과 크기도 비슷했으며, SNA·ANB·하악평면각·치조·연조직은 안정적으로 유지되어 군간 임상적 차이는 없었다.
+A removable elastodontic bioactivator achieves short-term mandibular positional improvement (SNB) comparable to high-pull headgear while preserving vertical dimension, but evidence is limited by small non-randomized 2D retrospective design with unmeasured adherence.
+
+## 세줄요약
+
+파비아대학교 후향적 코호트(n=40; 탄성교정 생체활성장치(Elastodontic Device, ED) 20명 vs 고위견인 헤드기어(High-Pull Headgear, HPHD) 20명; 7~11세; 고각형 골격성 2급) — 18개월 측방 두부방사선 계측 비교.
+
+두 장치 모두 군내 SNB 유의 증가(중간~큰 효과 크기), SNA·ANB·하악평면각·치조·연조직 안정 유지 — 군간 임상적 유의차 없음.
+
+탄성교정 생체활성장치는 고위견인 헤드기어와 유사한 단기 하악 위치 개선(SNB) 및 수직 안정성을 보이나, 소규모·비무작위·2D·순응도 미측정의 후향적 설계 한계 존재.
 
 ## Summary
 

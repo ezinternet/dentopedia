@@ -6,23 +6,33 @@ date: 2007-03-16
 doi: 10.1111/j.1365-2842.2007.01686.x
 source: craddock-2007-overeruption-posterior-teeth-partial-occlusal.md
 category: [occlusion]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/craddock-2007-overeruption-posterior-teeth-partial-occlusal.pdf
 pdf_filename: craddock-2007-overeruption-posterior-teeth-partial-occlusal.pdf
 source_collection: external
 tags: [overeruption, partial-occlusal-contact, tipping, unopposed-tooth, posterior-teeth, occlusion]
 relations:
-  - type: reinforces
+  - type: contradicts
     target: livas-2016-fixed-retention-unopposed-molar-overeruption
+  - type: reinforces
+    target: kiliaridis-2000-vertical-position-rotation-tipping-molars
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective clinical study (n=91 patients with partially or completely unopposed posterior teeth): partial occlusal contact did NOT reduce the extent of overeruption versus complete lack of contact, and partially-opposed teeth tipped MORE — partial contact should not be relied on to maintain vertical tooth position.
+Retrospective clinical observational study (n=91 adults) comparing vertical overeruption and tipping in posterior teeth that had either complete antagonist loss or only partial occlusal contact remaining.
 
-## 한줄요약
+Partial occlusal contact did not significantly reduce overeruption compared to complete antagonist loss, while partially-opposed teeth showed a significantly greater degree of tipping and a significant correlation between partial contact presence and tipping.
 
-후향적 임상연구 (91명, 부분/완전 대합치 상실 후방치). 부분 교합접촉 (Partial Occlusal Contact) 은 완전 무대합 대비 정출 (Overeruption) 양을 줄이지 못했고, 부분대합치는 오히려 더 많이 경사 (Tipping) 됨 — 부분접촉만으로 수직 치아위치를 유지한다고 믿어선 안 된다.
+Partial residual occlusal contact cannot be relied on to maintain vertical tooth position and does not justify a wait-and-watch approach — proactive replacement is warranted, as partial contact may actually increase tipping risk.
+
+## 세줄요약
+
+완전 무대합 또는 부분 교합접촉(Partial Occlusal Contact)만 남은 구치를 가진 성인 91명의 수직 과맹출(Overeruption)과 경사(Tipping)를 비교한 후향적 임상 관찰 연구.
+
+부분 교합접촉은 완전 무대합 대비 과맹출 양을 유의하게 줄이지 못했으며, 부분 대합치는 완전 무대합보다 유의하게 더 많이 경사졌고 부분접촉 존재와 경사 정도 사이에 유의한 상관이 있었다.
+
+부분적 교합접촉은 수직 치아위치를 유지하지 못하므로 이를 기대하는 경과 관찰은 부적절하며, 적극적인 보철 대체 치료가 권고된다.
 
 ## Summary
 
@@ -64,6 +74,6 @@ Note: only abstract-level detail available from the source PDF (publisher landin
 
 ## Related Papers
 
-- [[occlusion/livas-2016-fixed-retention-unopposed-molar-overeruption]] — reinforces: both show that residual/partial situations do not reliably arrest eruptive drift, supporting active retention/management over reliance on incidental contact.
+- [[occlusion/livas-2016-fixed-retention-unopposed-molar-overeruption]] — **contradicts**: the two disagree on what partial contact does. This paper finds partially opposed teeth over-erupt much like fully unopposed ones and argues for proactive replacement; Livas found partial-contact controls moved only ~0.1 mm and treats monitoring as a defensible default. (The earlier `reinforces` gloss here — that both show residual contact fails to arrest drift — misread Livas, whose controls barely moved.)
 - [[occlusion/craddock-2004-incidence-overeruption-occlusal-interferences-unopposed]] — companion paper by the same group quantifying the incidence/extent of overeruption and resulting occlusal interferences in unopposed posterior teeth; this 2007 paper extends it to the partial-contact scenario.
 - [[overviews/unopposed-tooth-overeruption-overview]] — feeds the "what modulates overeruption" synthesis: provides the evidence that partial occlusal contact is NOT a protective modulator.

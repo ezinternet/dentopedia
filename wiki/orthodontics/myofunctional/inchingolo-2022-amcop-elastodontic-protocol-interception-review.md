@@ -6,7 +6,7 @@ date: 2022-01-16
 doi: 10.3390/ijerph19020988
 source: inchingolo-2022-amcop-elastodontic-protocol-interception-review.md
 category: [orthodontics/myofunctional]
-confidence: case-report
+evidence_level: case-report
 source_collection: pubmed-text
 full_text: true
 pmid: "35055811"
@@ -20,13 +20,21 @@ relations:
     target: ureni-2024-elastodontic-devices-sagittal-malocclusion-scoping-review
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Case series (4 of 38 developing-dentition children, ages 7–10) + literature review showing AMCOP elastodontic Bio-activators corrected Class I/II/III, deep-bite, open-bite and atypical-swallowing malocclusions over ~12–20-month active+retention protocols with no follow-up fixed appliances.
+Retrospective case series (4 illustrative cases of 38 treated; ages 7–10) + narrative literature review describing the AMCOP elastodontic Bio-activator family — preformed silicone devices with a free-central-area "elastodontic space" concept — and their interceptive protocol for developing-dentition malocclusions.
 
-## 한줄요약
+All 4 cases (Class I deep-bite/atypical swallowing, Class III, Class II deep-bite, skeletal open bite) were corrected without subsequent fixed appliances over ~12–20-month active+retention protocols; review literature cites ~15% full correction and ~49% improvement rates for elastodontic interception in mixed dentition.
 
-성장기 소아 4명(전체 38명 중, 7–10세) 증례 + 문헌고찰 — AMCOP 탄성교정(elastodontic) Bio-activator가 1·2·3급, 과개교합, 개방교합, 비정상 연하를 약 12–20개월 능동+유지 프로토콜로 교정했고 추가 고정장치가 불필요했음.
+Evidence weight is low (uncontrolled retrospective case series, 4/38 cases shown; no RCTs exist for meta-analysis); the devices cannot correct tooth rotations or severe skeletal dysmorphosis.
+
+## 세줄요약
+
+성장기 소아 4명(전체 치료 38명 중, 7–10세) 증례 + 문헌고찰 — AMCOP 탄성교정(elastodontic) Bio-activator 제품군(자유 중앙 공간 개념의 성형 실리콘 장치)과 발육 치열 부정교합에 대한 차단 교정 프로토콜을 기술.
+
+4증례(1급 과개교합/비정상 연하, 3급, 2급 과개교합, 골격성 개방교합) 모두 추가 고정 장치 없이 약 12–20개월 능동+유지 프로토콜로 교정; 문헌 고찰에서 혼합 치열기 탄성교정 차단 치료의 완전 교정률 약 15%, 개선율 약 49% 인용.
+
+비통제 후향적 증례군(4/38 제시), RCT 없어 메타분석 불가한 낮은 근거 수준; 치아 회전이나 심한 골격 이형성 교정은 불가.
 
 ## Summary
 

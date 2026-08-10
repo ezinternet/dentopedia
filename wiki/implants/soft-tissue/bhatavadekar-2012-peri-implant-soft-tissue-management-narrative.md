@@ -6,20 +6,28 @@ date: 2012-10-01
 doi: 10.4103/0972-124X.106938
 source: bhatavadekar-2012-peri-implant-soft-tissue-management-narrative.md
 category: [implants/soft-tissue]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/bhatavadekar-2012-peri-implant-soft-tissue-management-narrative.pdf
 pdf_filename: bhatavadekar-2012-peri-implant-soft-tissue-management-narrative.pdf
 source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Narrative short communication (J Indian Soc Periodontol 2012) tracing the evolution of peri-implant soft tissue management from socket compression to socket preservation, with clinical guidance on keratinized mucosa augmentation, connective tissue grafting (free CTG and VIP-CT pedicle), and inter-implant papilla reconstruction.
+Narrative short communication (J Indian Soc Periodontol 2012, single author) synthesizing peri-implant soft tissue management strategies ~40 years after first implants, covering KM debate, grafting technique options (CTG, VIP-CT pedicle), and inter-implant papilla reconstruction principles.
 
-## 한줄요약
+Referenced bilateral mandibular RCT (n=10) showed CTG augmentation produced +1.3 mm thicker tissue (P<0.001) with superior pink aesthetic scores; VIP-CT pedicle graft reported less shrinkage than free CTG in 2-year author follow-up.
 
-J Indian Soc Periodontol 2012 단신으로, 임플란트 주위 연조직 관리의 진화(소켓 압박→보존 철학 전환, 각화점막 논쟁, 결합조직이식·VIP-CT 술식, 유두 재건 원칙)를 임상 관점에서 종합 기술하였다.
+The core philosophical shift advocated: soft tissue management begins at extraction (socket preservation + ovate-pontic temporization), not at implant placement — absent PDL vascularity makes peri-implant tissue inherently more vulnerable.
+
+## 세줄요약
+
+J Indian Soc Periodontol 2012 단신: 임플란트 첫 시술 ~40년 후 시점에서 임플란트 주위 연조직 관리(각화점막 논쟁, CTG·VIP-CT 혈관경 결합조직이식, 유두 재건)를 임상 관점에서 종합 서술하였다.
+
+참조된 양측 하악 RCT (n=10)에서 CTG 증대는 대조군 대비 조직 두께 +1.3 mm (P<0.001) 및 핑크 심미 점수 우수; VIP-CT 피판은 자가유리 CTG 대비 수축이 적다고 2년 추적에서 보고하였다.
+
+핵심 철학 전환: 연조직 관리는 임플란트 식립 시가 아닌 발치 시점부터 시작해야 하며, PDL 혈액공급 부재로 임플란트 주위 점막은 근본적으로 더 취약하다.
 
 ## Summary
 
@@ -66,7 +74,7 @@ The paper closes with future directions: cyto-detachment single-cell adhesion qu
 
 ## Related Papers
 
-- [[implants/thoma-2018-soft-tissue-augmentation-periimplant-health]] — higher-level SR on soft tissue augmentation outcomes around implants; this narrative provides the conceptual framework underlying those findings
-- [[implants/sanz-2022-keratinized-mucosa-around-implants-consensus]] — consensus statement on KM necessity; directly addresses the debate Bhatavadekar frames in 2012
-- [[implants/kim-2009-blood-vessels-peri-implant-mucosa]] — detailed histological characterization of the hypovascular-hypocellular zone Bhatavadekar cites as the anatomical basis of soft tissue challenges
-- [[implants/stefanini-2023-soft-tissue-augmentation-peri-implant-sr]] — systematic review on stability/favorability of soft tissue augmentation techniques, providing evidence-level follow-up to this 2012 narrative
+- [[implants/soft-tissue/thoma-2018-soft-tissue-augmentation-periimplant-health]] — higher-level SR on soft tissue augmentation outcomes around implants; this narrative provides the conceptual framework underlying those findings
+- [[implants/soft-tissue/sanz-2022-keratinized-mucosa-around-implants-consensus]] — consensus statement on KM necessity; directly addresses the debate Bhatavadekar frames in 2012
+- [[implants/soft-tissue/kim-2009-blood-vessels-peri-implant-mucosa]] — detailed histological characterization of the hypovascular-hypocellular zone Bhatavadekar cites as the anatomical basis of soft tissue challenges
+- [[implants/soft-tissue/stefanini-2023-soft-tissue-augmentation-peri-implant-sr]] — systematic review on stability/favorability of soft tissue augmentation techniques, providing evidence-level follow-up to this 2012 narrative

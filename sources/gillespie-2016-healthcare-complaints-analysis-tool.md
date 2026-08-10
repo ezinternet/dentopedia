@@ -12,11 +12,21 @@ source_collection: external
 ## Why Ingested
 HCAT is the working instrument of the classification axis -- it turns the [[complaint-management/bmjqs-2013-002437]] taxonomy into a reliable coding tool with severity, stage-of-care, and harm. For a dental clinic this is the template for a structured complaint log rather than free-text notes.
 
-## One-line Summary
+## Three-line Summary
+
 Development and reliability study creating HCAT: 7 problem categories x 4 severity levels, plus stage-of-care and harm coding, validated on UK national complaint samples.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 HCAT 개발·신뢰도 연구 — 7개 문제범주×4단계 심각도 + 진료단계·위해 코딩을 영국 전국 민원 표본으로 검증.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - BMJ Quality & Safety 2016;25(12):937-946. Published Online First 6 Jan 2016.

@@ -6,7 +6,7 @@ date: 2026-05-09
 doi: 10.1016/j.bbiosy.2026.100139
 source: bujda-2026-carp-collagen-membrane-gbr-rat-femoral.md
 category: [bone-regeneration]
-confidence: animal
+evidence_level: animal
 source_collection: pubmed-text
 full_text: true
 pmid: "42181027"
@@ -24,13 +24,21 @@ relations:
     target: wessing-2018-gbr-collagen-membranes-particulate-graft-sr-ma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Animal study (21 Wistar rats, 4×2 mm cortical femoral metaphyseal defects, 4 treatments, 4/12/16 wk): a European-carp-skin EDC/NHS-crosslinked collagen membrane used ALONE trended toward higher healing scores, more new bone, and smaller residual defect (non-significant but large effect sizes) and was non-irritant throughout; pairing it with Bio-Oss gave no benefit and underperformed Bio-Oss + Bio-Gide.
+Animal study (Biomater Biosyst 2026; 21 Wistar rats, 4×2 mm cortical femoral metaphyseal defects, 4 treatments, 4/12/16 wk) provided the first in vivo bone-healing evaluation of a novel resorbable GBR membrane derived from European carp skin collagen (EDC/NHS-crosslinked, gamma-sterilized).
 
-## 한줄요약
+The carp membrane used alone trended toward higher micro-CT healing scores, more new bone, and smaller residual defect than all other groups (non-significant, but large effect sizes η²=0.19–0.24) and was non-irritant throughout; combining it with Bio-Oss provided no added benefit and underperformed the standard Bio-Oss + Bio-Gide pairing.
 
-동물실험(Wistar rat 21마리, 대퇴골 4×2 mm 피질골 metaphyseal 결손, 4개 처치, 4/12/16주): 새 잉어피부 EDC/NHS 가교 콜라겐 막을 단독 사용 시 치유점수·신생골·잔존결손에서 우세 경향(통계적 비유의, 큰 효과크기)과 비자극성(우수한 생체적합성)을 보였으나, Bio-Oss와 병용 시 이득이 없고 Bio-Oss+Bio-Gide보다 열등 — 비critical-size 모델 한계.
+Carp-skin collagen may be a promising non-mammalian GBR membrane alternative where barrier function alone is sufficient, but validation in large-animal critical-size defect models is required before clinical application, and the non-critical-size defect model limits interpretation of these results.
+
+## 세줄요약
+
+동물실험(Biomater Biosyst 2026; Wistar rat 21마리, 대퇴골 4×2 mm 피질골 결손, 4개 처치, 4/12/16주): 유럽 잉어 피부 콜라겐(EDC/NHS 가교, 감마멸균)으로 제작한 신규 GBR 흡수성 차단막의 첫 in vivo 골재생 평가.
+
+잉어 막 단독 사용 시 micro-CT 치유점수·신생골·잔존결손 모두 우세 경향(통계적 비유의, 큰 효과크기 η²=0.19–0.24), 전 기간 비자극성 확인; Bio-Oss 병용 시 추가 이득 없고 Bio-Oss+Bio-Gide 표준 조합보다 열등.
+
+잉어 피부 콜라겐 막은 비포유류 기원 GBR 막의 가능성을 보이나, non-critical-size 모델 한계 및 대형 동물 임계 결손 검증 부재로 임상 적용을 위한 추가 연구가 필수적이다.
 
 ## Summary
 

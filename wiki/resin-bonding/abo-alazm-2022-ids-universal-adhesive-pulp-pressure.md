@@ -6,20 +6,28 @@ date: 2022-11-16
 doi: 10.1055/s-0041-1735442
 source: abo-alazm-2022-ids-universal-adhesive-pulp-pressure.md
 category: [resin-bonding]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/abo-alazm-2022-ids-universal-adhesive-pulp-pressure.pdf
 pdf_filename: abo-alazm-2022-ids-universal-adhesive-pulp-pressure.pdf
 source_collection: external
 tags: [ids, universal-adhesive, mdp, simulated-pulp-pressure, microtensile-bond-strength, dentin-permeability, weibull, cad-cam]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Eur J Dent 2022 in-vitro (50 human 3rd molars; iBOND SE vs GLUMA Bond Universal under 1-week simulated pulp pressure + CAD/CAM composite block): immediate dentin sealing (IDS) µTBS exceeded delayed dentin sealing (DDS) at 24h and 6mo (P<.05), MDP-containing GLUMA outperformed MDP-free iBOND, both adhesives showed 6-month Weibull strength decay, and both significantly reduced dentin permeability.
+In-vitro study (50 human third molars; iBOND SE vs GLUMA Bond Universal under 1-week simulated pulp pressure before CAD/CAM composite cementation) comparing immediate dentin sealing (IDS) vs delayed dentin sealing (DDS) on microtensile bond strength (µTBS) at 24h and 6 months and dentin permeability.
 
-## 한줄요약
+IDS exceeded DDS at both 24h and 6 months (P<0.05); MDP-containing GLUMA Bond Universal outperformed MDP-free iBOND SE; both adhesives showed significant Weibull characteristic strength decay at 6 months; both significantly reduced dentin permeability with no inter-adhesive difference.
 
-Eur J Dent 16, 2022 in-vitro (50 human 3rd molars, iBOND SE vs GLUMA Bond Universal, simulated pulp pressure 1주 + CAD/CAM composite block): IDS µTBS > DDS at 24h·6mo (P<.05); GLUMA(MDP함유) > iBOND. 두 adhesive 모두 6mo Weibull strength ↓. Dentin permeability 둘 다 유의 감소.
+Universal adhesives containing MDP can extend the IDS benefit beyond the OptiBond FL era; however, IDS does not eliminate 6-month bond degradation — select MDP-containing universals for IDS and plan for marginal integrity follow-up.
+
+## 세줄요약
+
+In-vitro 연구 (인간 제3대구치 50개, iBOND SE vs GLUMA Bond Universal, 1주 모의 치수압 조건 후 CAD/CAM 복합레진 블록 합착) — 즉시 상아질 피개 (IDS, Immediate Dentin Sealing) vs 지연 상아질 피개 (DDS, Delayed Dentin Sealing)의 미세인장결합강도 (µTBS)·상아질 투과율 비교.
+
+IDS가 24h·6개월 모두 DDS 초과(P<0.05); MDP 함유 GLUMA Bond Universal이 MDP 미함유 iBOND SE보다 우수; 두 접착제 모두 6개월에 Weibull 특성강도 유의 감소; 상아질 투과율 둘 다 유의 감소 (군간 차이 없음).
+
+MDP 함유 유니버설 접착제도 IDS 효과를 재현 가능하나, IDS도 6개월 결합 열화를 피하지 못함 — MDP 함유 유니버설을 IDS에 우선 선택하고, 변연 완전성의 정기 추적 계획 필요.
 
 ## Summary
 
@@ -56,9 +64,9 @@ Adhesives:
 - [[resin-bonding/hardan-2022-immediate-dentin-sealing-sr-ma]] — SR+MA includes universal adhesive subgroup.
 - [[resin-bonding/etiennot-2025-mdp-saliva-contaminated-dentin]] — MDP chemical bonding advantage in another context.
 
-## 임상 적용 [claude해석]
+## 임상 적용 [미검증]
 
-- [근거강함, in-vitro] Universal adhesive로도 IDS 효과 재현 — Magne 시대 OptiBond FL 한정 권고를 universal로 확장 가능.
-- [합의수준] MDP 함유 universal (GLUMA Bond Universal, Single Bond Universal, Clearfil Universal Bond 등) 우선 선택 — MDP-free universal은 IDS 효과 약화.
-- [claude해석] 6mo Weibull 감소는 IDS도 long-term degradation을 피하지 못함을 보여줌 → 임상 follow-up 시 marginal integrity 정기 점검 권장.
-- [claude해석] Simulated pulp pressure 조건이 vital tooth 임상 상황 근사이나, 실제 dentinal fluid composition·pulpal immune response 미반영 → 임상 outcome 외삽 시 주의.
+- [확인, in-vitro] Universal adhesive (GLUMA Bond Universal, iBOND Self-Etch)로도 IDS 효과 재현 — 본 연구가 직접 측정한 24h·6mo µTBS 결과.
+- [미검증] MDP 함유 universal 우선 선택 가능성 시사 — 단, 본 연구는 GLUMA Bond Universal 1종만 검증했으며 Single Bond Universal·Clearfil Universal Bond 등 타 MDP 함유 제품으로의 일반화는 미검증. MDP-free universal(iBOND SE)은 IDS 효과가 상대적으로 약함(본 연구 결과).
+- [미검증] 6mo Weibull 감소는 IDS도 long-term degradation을 피하지 못함을 보여줌 → 임상 follow-up 시 marginal integrity 정기 점검 권장.
+- [미검증] Simulated pulp pressure 조건이 vital tooth 임상 상황 근사이나, 실제 dentinal fluid composition·pulpal immune response 미반영 → 임상 outcome 외삽 시 주의.

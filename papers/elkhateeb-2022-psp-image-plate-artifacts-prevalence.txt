@@ -1,0 +1,58 @@
+Analysis of photostimulable phosphor image plate artifacts and their prevalence
+Elkhateeb SM, Aloyouny AY, Omer MMS, Mansour SM.
+World Journal of Clinical Cases. 2022;10(2):437-447.
+DOI: 10.12998/wjcc.v10.i2.437
+PMID: 35097068  PMCID: PMC8771371
+Source: PubMed Central full text (get_full_text_article)
+Institution: College of Dentistry, Princess Nourah bint Abdulrahman University (PNU), Riyadh, Saudi Arabia
+
+=== ABSTRACT / OBJECTIVE ===
+Digital radiography uses different digital receptors; PSP (photostimulable phosphor storage plate) systems produce characteristic image artifacts. Aim: detect the frequency, type, and reasons for intraoral image artifacts acquired by PSP plates.
+
+=== DESIGN ===
+Retrospective descriptive study. 50,000 intraoral digital radiographs (periapical + bitewing) retrieved from clinical database April 2018–April 2020. Machine: Gendex Expert DC intraoral X-ray, 7 mA / 65 kVp. PSP: Soredex DIGORA Optime imaging plate + laser scanner; software MIPACS Dental Enterprise viewer 3.2.2. Retakes auto-logged by Medicor/MIPACS toolkit. Two experienced oral-maxillofacial radiologists screened retakes; 1000 error images re-evaluated after 2 weeks for interobserver reliability. IRB approved.
+Receptor context: PSP (cordless, flexible, film-like, but bend/scratch-prone, needs scanning) vs CCD/CMOS (wired, stiff, real-time). PSP more comfortable but more artifact-prone.
+
+=== RESULTS — OVERALL ===
+- 50,000 intraoral radiographs over 2 years; 3,550 (7.1%) retakes due to image artifacts.
+- Interobserver kappa = 0.99 (almost perfect).
+- Retakes by image type: **Periapical (PA) 2,869 (80.8%)**, bitewing 518 (14.6%), blank 163 (4.6%). → PA dominates retakes.
+- Three artifact categories (of 3,550 retakes):
+  • Operator errors: 2,500 (70.4% of retakes; 5% of all 50,000)
+  • Plate errors: 685 (19.3% of retakes; 1.37% of all)
+  • Scanning errors: 365 (10.3% of retakes; 0.73% of all)
+
+=== OPERATOR ERRORS (8 subtypes; mostly same as film, receptor-independent except reversed image, plate movement, double exposure) ===
+- Cone cut: 988 images (39.5%) — MOST COMMON operator error
+- Improper PSP placement in mouth: 30.4%
+- Projection geometry: 22.4%
+- Unexposed plate: 4.5%
+- Movement of phosphor plate in disposable packet: 1.6% (0.07% of all images)
+- Reversed / mirror image: 0.8%
+- Overexposed: 0.6%
+- Plate bending: 0.3%
+
+=== PLATE ERRORS ===
+- Bite marks: 276 (40.3%) — MOST COMMON plate error (disposable plastic packet does not protect from biting/pressure; pediatric size-2 plate biting a cause)
+- Image size reduction: 174 (25.4%)
+- Plate scratches: 19.6% (more in dental colleges — many handlers; hard alcohol rubbing)
+- Contamination of PSP: 6.5% (barrier-sheath adhesive)
+- Peeling of coat: 5.7%
+- Plate damage: 2.3% (rough handling, forceful scanner insertion, roller stress)
+- Fingerprints: 0.1%
+
+=== SCANNING ERRORS (Table 1) ===
+- Delayed scanning (non-uniform density / bright image): 145 (39.9%) — MOST COMMON scanning error. Cause: plate removed from cover after exposure (infection control) → ambient light fades latent image (>10 min exposure to light → signal loss, ↓SNR)
+- White (radiopaque) lines: 136 (37.2%) — dust/dirt on scanner slit or rollers blocking laser
+- Blank: 49 (13.4%)
+- Black (radiolucent) lines: 20 (5.5%) — electromagnetic interference / ridging (laser intensity fluctuation, scan-cycle desync)
+- Double image (incomplete/partial erasing): 15 (4.1%)
+- Total scanning: 365 (100%)
+
+=== KEY MESSAGE / SOLUTIONS ===
+Most common artifacts overall: bitemarks, image size reduction, scratches, delayed scanning.
+Operator errors dominate → need more technician training. Prevention: gentle PSP handling during exposure/scanning, light wiping only visibly-contaminated plates, regular plate integrity checks, periodic scanner maintenance/cleaning/calibration, scan promptly (<10 min ambient light), electromagnetic shielding + stable power for scanner.
+Clinical significance: reducing artifacts reduces retakes → reduces patient radiation dose; PSP plates degrade (~95% non-diagnostic after ~50 uses / 10 wk per prior reports).
+
+=== CONCLUSION ===
+Intraoral PSP artifacts (most commonly bitemarks, image size reduction, scratches, delayed scanning) are characteristic of the receptor; periapical images account for the large majority (80.8%) of artifact-driven retakes. Recognizing causes and troubleshooting them is clinically important to raise image quality and lower dose.

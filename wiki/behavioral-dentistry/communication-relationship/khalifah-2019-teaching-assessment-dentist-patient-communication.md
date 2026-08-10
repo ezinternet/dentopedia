@@ -6,18 +6,28 @@ date: 2019-01-01
 doi: 10.21815/JDE.019.003
 source: khalifah-2019-teaching-assessment-dentist-patient-communication.md
 category: behavioral-dentistry/communication-relationship
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/khalifah-2019-teaching-assessment-dentist-patient-communication.pdf
 pdf_filename: khalifah-2019-teaching-assessment-dentist-patient-communication.pdf
 source_collection: external
 tags: [communication, dental-education, curriculum, teaching, assessment, OSCE, MI]
 ---
 
-## One-line Summary
-SR of 50 articles (2000–2016) mapping dentist-patient communication skills into 26 skills across 4 categories (generic, case-specific, time-specific, emerging); teaching combines passive and active methods and all assessment instruments are valid/reliable, but no evidence exists on which teaching method is most effective.
+## Three-line Summary
 
-## 한줄요약
-2000-2016 50편 SR — 치과의사-환자 커뮤니케이션 스킬을 **26개·4범주(generic·case-specific·time-specific·emerging)**로 매핑. 교육은 passive+active 혼합, 평가도구는 다 valid/reliable. 다만 연구 디자인이 약해 "어느 방법이 가장 효과적인가" 비교 근거는 부재.
+Seven-database systematic review (50 articles, 2000–2016) mapping dentist–patient communication skills into a 26-skill taxonomy across four categories: generic (active listening, empathy, rapport), case-specific (anxious patient, breaking bad news), time-specific (opening, information gathering, closing), and emerging (shared decision-making, MI, tele-dentistry).
+
+Teaching uses a mix of passive (didactic lectures) and active (role-play, OSCE, simulated patient encounters) methods, and all assessment instruments tested — OSCE, video review, self-report — were found valid and reliable.
+
+However, the underlying study designs were weak (predominantly single-group pre/post), so no comparative effectiveness evidence exists to determine which teaching method is most effective; the field knows how to measure communication skill acquisition but not which training approach is best.
+
+## 세줄요약
+
+7개 데이터베이스 체계적 문헌고찰(50편, 2000–2016): 치과의사-환자 커뮤니케이션 스킬을 26개·4범주 — 일반(generic: 적극적 경청·공감·라포), 증례별(case-specific: 불안환자·나쁜소식 전달), 시간별(time-specific: 시작·정보수집·마무리), 신흥(emerging: 공유의사결정·MI·원격치의학) — 로 매핑.
+
+교육은 수동적(강의) + 능동적(역할극·OSCE·표준화환자) 방법을 혼합하며, 검토된 모든 평가도구(OSCE·영상 리뷰·자기보고)는 타당하고 신뢰할 수 있는 것으로 확인됐다.
+
+그러나 연구 설계가 취약(단일군 전후 비교 주도)해 어떤 교육 방법이 가장 효과적인지에 대한 비교 근거는 없으며, 기술 습득 측정법은 확립됐지만 최선의 교육 전략은 미결 상태이다.
 
 ## Summary
 Khalifah and Celenza systematically reviewed 50 articles (2000–2016) on teaching and assessing dentist-patient communication skills. The paper's most useful artifact is the **26-skill, 4-category taxonomy** of dental communication: generic (cross-scenario), case-specific (presentation-specific), time-specific (encounter-phase), and emerging (shared decision-making, MI, technology-mediated). For curriculum or in-house training design, this gives a defensible structure rather than starting from scratch.

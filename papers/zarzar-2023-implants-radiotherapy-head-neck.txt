@@ -1,0 +1,24 @@
+Title: Effectiveness of dental implants in patients undergoing radiotherapy for head and neck cancer: An umbrella review.
+
+Authors: Zarzar AM, Sales PHDH, Barros AWP, Arreguy IMS, Carvalho AAT, Leão JC.
+
+Journal: Special Care in Dentistry. 2023;44(1):40-56.
+
+PMID: 36852979
+DOI: 10.1111/scd.12840
+
+Abstract:
+
+Objective: The objective of this overview is to evaluate the effectiveness of dental implants placed in patients who underwent radiotherapy for the treatment of head and neck cancer, as well as to assess the methodological quality of the included systematic reviews.
+
+Methods: The study was conducted in four databases — PubMed, Lilacs, Cochrane (DARE/Cochrane Library) and Google Scholar — until July 2022, using the descriptors "Radiotherapy," "Dental implants," and "Head and Neck Cancer."
+
+Results: 958 studies were found in the initial search and after applying the inclusion and exclusion criteria, fifteen systematic reviews were selected to compose this overview and had their methodological quality evaluated by the AMSTAR 2 tool. 24,996 implants in 5487 patients were evaluated with a success rate of 86.2% in patients who underwent radiotherapy and 95.2% in patients who did not undergo radiotherapy. Only one of the systematic reviews was of high quality according to AMSTAR 2.
+
+Conclusion: Oral rehabilitation with dental implants in patients with a history of head and neck cancer undergoing radiotherapy is a valid therapy. However, given the level of evidence found, further studies with better design are necessary to provide greater confidence in the clinical decision.
+
+Keywords: dental implants; head and neck cancer; osseointegration; radiotherapy.
+
+Note: A published comment on this article exists — Special Care in Dentistry, PMID 37191480, DOI 10.1111/scd.12875 — raising methodological questions about this umbrella review (not separately ingested).
+
+Source: PubMed (abstract only, full text not retrieved — Wiley journal, not open access).

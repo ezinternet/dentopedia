@@ -7,6 +7,7 @@ on:
     paths:
       - "wiki/**"
       - "interactives/**"
+      - "lectures/**"
       - "index.md"
       - "quartz/**"
       - ".github/workflows/deploy-pages.yml"
@@ -41,12 +42,17 @@ jobs:
           PAPER_COUNT=$(ls sources/*.md 2>/dev/null | wc -l | tr -d ' ')
           OVERVIEW_COUNT=$(ls wiki/overviews/*.md 2>/dev/null | wc -l | tr -d ' ')
           CATEGORY_COUNT=$(find wiki -mindepth 1 -maxdepth 2 -type d | grep -v overviews | wc -l | tr -d ' ')
-          INTERACTIVE_COUNT=$(ls interactives/*.html 2>/dev/null | grep -v 'wiki-evolution\|wiki-growth\|wiki-stats\|overviews-map\|index\.html' | wc -l | tr -d ' ')
+          INTERACTIVE_COUNT=$(ls interactives/*.html 2>/dev/null | grep -v 'wiki-evolution\|wiki-growth\|wiki-stats\|overviews-map\|contradiction-radar\|index\.html' | wc -l | tr -d ' ')
+          LECTURE_COUNT=$(ls lectures/*.html 2>/dev/null | grep -v 'index\.html' | wc -l | tr -d ' ')
+          # 논쟁 레이더 debate 수: 커밋된 radar HTML의 '<b>N</b> 논쟁'에서 추출(빌드가 항상 최신 유지).
+          DEBATE_COUNT=$(grep -oE '<b>[0-9]+</b> 논쟁' interactives/contradiction-radar.html 2>/dev/null | head -1 | grep -oE '[0-9]+' || echo 0)
           sed -i "s|<!-- LAST_UPDATED -->.*<!-- /LAST_UPDATED -->|<!-- LAST_UPDATED -->${STAMP}<!-- /LAST_UPDATED -->|" wiki/index.md
           sed -i "s|<!-- PAPER_COUNT -->.*<!-- /PAPER_COUNT -->|<!-- PAPER_COUNT -->${PAPER_COUNT}<!-- /PAPER_COUNT -->|" wiki/index.md
           sed -i "s|<!-- OVERVIEW_COUNT -->.*<!-- /OVERVIEW_COUNT -->|<!-- OVERVIEW_COUNT -->${OVERVIEW_COUNT}<!-- /OVERVIEW_COUNT -->|" wiki/index.md
           sed -i "s|<!-- CATEGORY_COUNT -->.*<!-- /CATEGORY_COUNT -->|<!-- CATEGORY_COUNT -->${CATEGORY_COUNT}<!-- /CATEGORY_COUNT -->|" wiki/index.md
           sed -i "s|<!-- INTERACTIVE_COUNT -->.*<!-- /INTERACTIVE_COUNT -->|<!-- INTERACTIVE_COUNT -->${INTERACTIVE_COUNT}<!-- /INTERACTIVE_COUNT -->|" wiki/index.md
+          sed -i "s|<!-- LECTURE_COUNT -->.*<!-- /LECTURE_COUNT -->|<!-- LECTURE_COUNT -->${LECTURE_COUNT}<!-- /LECTURE_COUNT -->|" wiki/index.md
+          sed -i "s|<!-- DEBATE_COUNT -->.*<!-- /DEBATE_COUNT -->|<!-- DEBATE_COUNT -->${DEBATE_COUNT}<!-- /DEBATE_COUNT -->|" wiki/index.md
 
       - name: Regenerate category map from folder counts
         run: |
@@ -61,7 +67,7 @@ jobs:
           mkdir -p quartz/content
           cp -r wiki/. quartz/content/
           # Homepage = wiki/index.md (curated landing).
-          # 루트 index.md(1,200+ 링크 거대 카탈로그)는 그래프 super-hub를 만들어
+          # 루트 index.md(수천 링크 거대 카탈로그)는 그래프 super-hub를 만들어
           # 전역 그래프 force 시뮬레이션을 깨뜨리므로 사이트에 미배포 (Obsidian vault home 전용).
 
       - name: Install Quartz dependencies
@@ -79,6 +85,15 @@ jobs:
           # 새 overview 추가 시 수기 카드 편집 불필요.
           python3 scripts/build-overviews-map.py
 
+      - name: Regenerate contradiction radar from typed relations edges
+        run: |
+          # interactives/contradiction-radar.html을 wiki/**/*.md frontmatter의
+          # relations: contradicts/refines typed edge에서 자동 생성 → 위키 내부
+          # 상충 근거(회색지대) 지도가 배포 때마다 최신. contradicts edge를 단 논문이
+          # 추가되면 카드가 자동 생성됨. interactives-index 생성보다 먼저 실행해야
+          # 새 도구가 색인에 잡힘 (category: meta 버킷).
+          python3 scripts/build-contradiction-radar.py
+
       - name: Regenerate live wiki-stats dashboard from repo state
         run: |
           # interactives/wiki-stats-live.html을 리포 실측치(논문/overview/카테고리/
@@ -87,6 +102,15 @@ jobs:
           # git 누적 곡선은 full history 필요 → 위 checkout fetch-depth:0 전제.
           # interactives-index 생성보다 먼저 실행해야 새 라이브 도구가 색인에 잡힘.
           python3 scripts/build-wiki-stats.py
+
+      - name: Regenerate overview volatility index
+        run: |
+          # interactives/volatility-index.html을 overview 흔들림 지수(OVI)로 재생성.
+          # daily-audit.py는 이 감사를 인자 없이 부르므로 로그만 남고 HTML은 갱신되지
+          # 않는다 — 아티팩트는 소비 시점(deploy)에 만든다는 daily-audit 원칙 그대로.
+          # git 히스토리로 thesis 편집일·유입 논문 수를 계산하므로 위 checkout
+          # fetch-depth:0 전제. interactives-index 생성보다 먼저 실행해야 색인에 잡힘.
+          python3 scripts/overview-volatility-audit.py --html
 
       - name: Regenerate interactives index from frontmatter
         run: |
@@ -110,6 +134,26 @@ jobs:
             mkdir -p quartz/public/interactives
             cp -r interactives/. quartz/public/interactives/
           fi
+
+      - name: Regenerate lectures index from frontmatter
+        run: |
+          # lectures/index.html을 각 덱의 주석 frontmatter(title/date/audience 등)에서
+          # 자동 생성. 새 슬라이드는 로컬에서 bash scripts/export-slides.sh로 미리
+          # export/commit해두는 정적 자산이라(Marp CLI를 CI에 새로 설치하지 않음),
+          # 여기서는 이미 커밋된 lectures/*.html로 색인만 재생성한다.
+          python3 scripts/build-lectures-index.py
+
+      - name: Copy lectures/ into site (served verbatim)
+        run: |
+          # slides/*.md(Marp)를 로컬에서 export한 정적 발표 덱 — interactives/와
+          # 같은 패턴이지만 별도 폴더/카드로 분리. 그대로 서빙.
+          if [ -d lectures ]; then
+            mkdir -p quartz/public/lectures
+            cp -r lectures/. quartz/public/lectures/
+          fi
+
+      - name: Copy robots.txt (opt out of search-engine indexing — URL-only access)
+        run: cp robots.txt quartz/public/robots.txt
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3

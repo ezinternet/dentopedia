@@ -6,18 +6,28 @@ date: 2016-12-01
 doi: 10.1016/j.oooo.2016.06.016
 source: shiffler-2016-implant-length-diameter-location-isq.md
 category: [implants/isq]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/shiffler-2016-implant-length-diameter-location-isq.pdf
 pdf_filename: shiffler-2016-implant-length-diameter-location-isq.pdf
 source_collection: external
 tags: [ISQ, implant-location, implant-length, implant-diameter, maxilla, mandible, primary-stability, retrospective]
 ---
 
-## One-line Summary
-Retrospective observational study (n=200 NobelReplace Tapered implants, 143 patients, UCLA): intraoral location is the most significant determinant of ISQ (mandible > maxilla at placement and follow-up); implant length trends toward a clinically relevant effect (p=0.08/0.09, NS); diameter, gender, and age do not affect ISQ; overall survival 98%.
+## Three-line Summary
 
-## 한줄요약
-후향적 연구(n=200 NobelReplace Tapered, UCLA): 구강 내 위치(하악>상악)가 ISQ의 가장 유의한 결정 인자; 임플란트 길이는 임상적으로 유의미한 경향(p=0.08/0.09); 직경·성별·나이는 ISQ에 영향 없음; 생존율 98% (OOOO 2016).
+Retrospective observational study (n=200 NobelReplace Tapered Groovy implants, 143 patients, UCLA) assessing ISQ at placement and follow-up.
+
+Intraoral location was the most significant determinant of ISQ (mandible > maxilla at both timepoints, p<0.05); implant length trended toward clinical relevance (p=0.08–0.09, NS); diameter, gender, and age did not affect ISQ; survival 98%.
+
+When planning implants, expect systematically lower ISQ in the posterior maxilla regardless of dimensions — location effect should guide risk stratification, not implant diameter selection.
+
+## 세줄요약
+
+후향적 관찰 연구(n=200 NobelReplace Tapered Groovy 임플란트, 143명, UCLA): 식립 시점 및 추적관찰 시 ISQ 결정 인자를 평가.
+
+구강 내 위치(하악>상악)가 ISQ의 가장 유의한 결정 인자(양 시점 모두 p<0.05); 임플란트 길이는 임상적으로 유의미한 경향(p=0.08–0.09)이나 통계적 유의성 미달; 직경·성별·나이는 ISQ에 영향 없음; 생존율 98%.
+
+상악 구치부는 임플란트 직경에 관계없이 ISQ가 체계적으로 낮으므로 위치 효과를 위험도 분류의 핵심 인자로 삼아야 한다.
 
 ## Summary
 Retrospective observational study (n=200 NobelReplace Tapered Groovy implants, 143 patients, UCLA) evaluating the effect of implant length, diameter, and intraoral location on ISQ at placement (T1) and follow-up (T2). Intraoral location was the most significant factor: mandibular implants consistently showed higher ISQ than maxillary at both timepoints. Implant length trended toward clinical relevance (p=0.08 at T1, p=0.09 at T2) — not statistically significant but clinically noteworthy. Diameter was not significantly associated with ISQ. Gender and age did not affect ISQ or survival. Overall survival: 98%.

@@ -17,13 +17,21 @@ text_filename: cernega-2022-efficacy-hypnosis-dental-anxiety-phobia.txt
 
 The `behavioral-dentistry/dental-anxiety` folder is currently pediatric-heavy (behavior/anxiety in pediatric patients, physiological monitoring, contemporary assessment). This SR+MA adds **adult** non-pharmacological intervention evidence — quantifying hypnosis/hypnotherapy vs CBT, relaxation, audiotape self-hypnosis, and sedation for anxiety reduction. It extends [[behavioral-dentistry/dental-anxiety/pediatric-2026-dental-anxiety-contemporary-assessment-management]] by supplying the adult-intervention side of the management evidence base and flagging that CBT (not hypnosis) carries the strongest efficacy signal.
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 19 adult clinical trials (1979–2021; meta-analysis of only 5 STAI studies): hypnosis shows promising but highly heterogeneous, sometimes null/slightly-negative effects on dental anxiety reduction, while CBT carried the most consistent efficacy evidence.
+SR+MA of 19 adult clinical trials (1979–2021, PRISMA/PROSPERO) evaluating hypnosis and related non-pharmacological interventions for dental anxiety and phobia; meta-analysis restricted to 5 studies using the STAI scale due to severe measurement heterogeneity across 15 different anxiety instruments.
 
-## 한줄요약
+Hypnosis showed promising but highly inconsistent results (STAI effect size range −4.30 to +6.20, no reliable pooled estimate); CBT demonstrated the most consistent efficacy evidence, including one-session treatment formats; physiological signals (reduced BP/HR) were observed in one trial with audiotape hypnotherapy.
 
-성인 대상 19편 임상연구의 체계적 문헌고찰·메타분석(1979–2021, 메타분석은 STAI 사용 5편만): 최면(Hypnosis)은 치과불안 감소에 긍정적이나 이질성이 매우 커 효과가 일관되지 않고 일부는 무효·약한 음의 효과를 보였으며, 가장 일관된 근거는 인지행동치료(CBT)였다.
+Methodological heterogeneity (15 outcome tools, no blinding possible, diverse hypnosis techniques) prevents definitive conclusions; standardized RCTs with homogeneous measures are needed before hypnosis can be recommended as a routine dental-anxiety intervention.
+
+## 세줄요약
+
+1979–2021년 성인 치과불안·공포증 대상 19편 임상연구의 PRISMA/PROSPERO 기반 SR+MA; 15가지 불안 측정 도구의 극심한 이질성으로 메타분석은 STAI 사용 5편만 포함.
+
+최면(Hypnosis)의 STAI 효과크기 범위 −4.30~+6.20으로 신뢰할 수 있는 합산효과 추출 불가; 인지행동치료(Cognitive-Behavioral Therapy, CBT)가 가장 일관된 불안 감소 근거를 보유하며, 1회기 형식도 효과적; 오디오테이프 최면치료 1편에서 혈압·심박수 감소 확인.
+
+맹검 불가·15가지 결과 도구·다양한 최면 기법으로 방법론적 이질성이 주요 제한점이며, 최면을 표준 치과불안 중재로 권고하려면 균일한 측정 도구를 사용한 표준화 RCT가 필요.
 
 ## 1. Document Information
 

@@ -6,7 +6,7 @@ date: 2025-09-23
 doi: "10.1016/j.jare.2025.09.041"
 source: li-2026-physical-chemical-strategies-dentin-hypersensitivity.md
 category: [dentin-hypersensitivity]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/li-2026-physical-chemical-strategies-dentin-hypersensitivity.pdf
 pdf_filename: li-2026-physical-chemical-strategies-dentin-hypersensitivity.pdf
 source_collection: external
@@ -16,11 +16,19 @@ relations:
     target: ramli-2022-successful-dentin-hypersensitivity-treatment-strategies
 ---
 
-## One-line Summary
-Materials-oriented review classifying dentin hypersensitivity desensitization into physical, chemical, and synergistic tubule-sealing strategies, emphasizing biomimetic mineralization and advanced biomaterials.
+## Three-line Summary
+Narrative materials-science review organizing DH desensitization strategies into physical (e.g., laser), chemical (mineralizing/occluding agents), and synergistic tubule-sealing categories, with emphasis on biomimetic mineralization and engineered biomaterials.
 
-## 한줄요약
-재료 중심 리뷰: DH 탈감작을 물리·화학·시너지 세관 폐쇄 전략으로 분류하고 생체모방 광화·생체재료를 강조.
+Tubule sealing is identified as the unifying mechanism; each strategy class is profiled for mechanism and translational limitations; biomimetic mineralization is highlighted as the emerging direction.
+
+This review complements clinical narrative reviews by supplying materials-science depth behind tubule-occluding agents, though it lacks clinical outcome data or systematic search methodology.
+
+## 세줄요약
+Narrative 재료과학 리뷰: DH 탈감작 전략을 물리(레이저 등)·화학(광화/폐쇄제)·시너지 세관 폐쇄 범주로 분류하고 생체모방 광화·생체재료를 강조.
+
+세관 폐쇄가 통일 기전; 각 전략군의 기전과 임상 전환 한계를 정리; 생체모방 광화가 차세대 방향으로 부각.
+
+임상 결과 데이터·체계적 검색 방법 미포함 — 임상 리뷰의 재료과학적 배경 지식 보완재로서 가치.
 
 ## Summary
 This review frames dentin hypersensitivity therapy around a single unifying mechanism — sealing exposed dentinal tubules — and organizes the field into physical approaches (e.g., laser), chemical approaches (mineralizing/occluding agents), and synergistic combinations. It places particular emphasis on biomimetic mineralization and engineered biomaterials as the emerging direction, profiling the mechanism and limitations of each strategy class. It complements clinical narrative reviews by supplying the materials-science depth behind tubule-occluding agents.

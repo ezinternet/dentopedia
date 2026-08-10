@@ -26,13 +26,21 @@ tags: [overview, placement-timing, immediate-implant, delayed-implant, ridge-pre
 > - **최신 근거 추가(2024–2025, 초록수준)**: Ickroth 2024(즉시 vs 조기 단일치 SR+MA), Riachi 2024(즉시/조기/지연 SR+MA), Gareb 2024(이식부위 임플란트 SR+MA), Jamil 2025(SR+MA) — 시점 간 생존 동등 명제를 보강하나 전문 미확인이라 수치는 본문 인용 보류.
 > - **임상 takeaway**: 시점 선택은 "더 빠른가"가 아니라 "이 환자·이 소켓·이 조건에서 안전한 최조기 시점은 언제인가"(Thoma 2026)다. 생존은 시점 무관 → 협측골·표현형·감염·심미요구로 결정하라.
 
-## One-line Summary
+## Three-line Summary
 
-Across the ITI Type 1–4 timing spectrum, implant survival is broadly equivalent (Patel 2023 SR+MA: 97.4% immediate vs 97.5% delayed, RR 0.99, I²=0%), so the decision turns on MBL, esthetic, complication, and treatment-time trade-offs: a direct IIP-vs-ARP SR+MA (Fan 2024, 11 RCTs, n=701) shows immediate placement preserves marginal bone better (molar MD −0.41 mm) but causes more postoperative complications, with PES/failure/width/satisfaction equivalent; immediate (Type 1) concentrates the esthetic/biological risk (Tonetti 2017 RCT), while early (Type 2/3) placement matches immediate/delayed for survival with less marginal bone loss than immediate — making the buccal wall, phenotype, infection, and esthetic demand (not survival) the real decision drivers.
+Synthesis of 6 papers on post-extraction implant placement timing: across the ITI Type 1–4 spectrum (immediate → early soft-tissue → early partial-bone → delayed), survival is equivalent (Patel 2023 SR+MA: 97.4% immediate vs 97.5% delayed, RR 0.99, 95% CI 0.96–1.02, I²=0%), so the decision turns on MBL, esthetic, complication, and treatment-time trade-offs.
 
-## 한줄요약
+Direct IIP-vs-ARP SR+MA (Fan 2024, 11 RCTs, n=701) shows immediate placement preserves marginal bone better (non-molar MD −0.36 mm, molar −0.41 mm) but causes more postoperative complications, while PES, failure, width change, and satisfaction are equivalent; Tonetti 2017 RCT (n=124) shows immediate concentrates biological risk (augmentation 72% vs 44%, wound failure 26% vs 5%, inadequate PES 42% vs 19%); early (Type 2/3) placement matches failure rates while losing less MBL than immediate (Bassir 2019 SR+MA, WMD −0.14 mm).
 
-ITI Type 1–4 시점 전반에서 임플란트 생존율은 대체로 동등해(Patel 2023 SR+MA: 즉시 97.4% vs 지연 97.5%, RR 0.99, I²=0%) 결정은 MBL·심미·합병증·치료시간 trade-off로 내린다: IIP vs ARP 직접 비교 SR+MA(Fan 2024, 11 RCT, n=701)에서 즉시식립은 변연골을 더 잘 보존(대구치 MD −0.41 mm)하나 술후 합병증이 많고 PES·실패·폭·만족도는 동등; 즉시(Type 1)는 심미·생물학적 위험을 집중시키고(Tonetti 2017), 조기(Type 2/3)는 생존 동등에 MBL이 적어 — 생존이 아니라 협측골판·표현형·감염·심미요구가 실제 결정 동인이다.
+The real decision drivers are buccal-wall integrity, periodontal phenotype, periapical infection (>5 mm lesion is the dominant real-world contraindication to immediate), and esthetic demand; ARP reduces defect complexity for unfavorable sockets but does not eliminate the need for GBR at placement, and an intact buccal wall is not an absolute prerequisite if GBR + deferred provisionalization are used (Meijer 2024 10-year RCT, n=40).
+
+## 세줄요약
+
+발치 후 식립 시점 6편 종합: ITI Type 1–4 전반에서 생존율은 대체로 동등(Patel 2023 SR+MA: 즉시 97.4% vs 지연 97.5%, RR 0.99, I²=0%)하므로 결정은 MBL·심미·합병증·치료시간 trade-off로 내린다.
+
+IIP vs ARP 직접 비교(Fan 2024, 11 RCT, n=701): IIP가 변연골 보존(대구치 MD −0.41 mm)에 우위이나 술후 합병증 더 많고 PES·실패·폭·만족도는 동등; Tonetti 2017 RCT(n=124)에서 즉시는 골증대 72%·창상실패 26%·불량 PES 42%로 위험 집중; 조기(Type 2/3)는 실패율 동등에 MBL 더 적다(Bassir 2019, WMD −0.14 mm).
+
+실제 결정 동인은 협측골판·치주 표현형·근단 감염(>5 mm가 즉시식립 최대 금기)·심미 요구이며, ARP는 불량 소켓의 결손 복잡도를 낮추나 식립 시 GBR 필요를 제거하지는 못하고, 협측골판 온전은 절대조건이 아님(GBR + 지연 임시수복 병용 시 10년 동등; Meijer 2024 RCT, n=40).
 
 ## Thesis
 
@@ -59,9 +67,9 @@ The decision drivers, then, are anatomical and biological — **buccal-wall inte
 | [[immediate-implant/tonetti-2017-immediate-vs-delayed-implant-timing-rct]] | RCT | 124 pt, multicenter | Immediate vs 12-wk delayed: augmentation 72% vs 44%, wound failure 26% vs 5%, inadequate PES 42% vs 19% → limit immediate where esthetics matter. | rct |
 | [[immediate-implant/bassir-2019-early-implant-placement-protocols-sr-ma]] | SR+MA | 12 studies | Early ≈ immediate/delayed for failure; early loses less MBL than immediate (WMD −0.14 mm). | sr+ma |
 | [[immediate-implant/thoma-2026-timing-dental-implant-placement-past]] | narrative-review | ITI Type 1–4 | Survival by type (T1 95–98%, T2 96–99%, T3 97–99%, T4 >95%); future = AI-guided "safe earliest placement". Type 1 prereq: no infection + intact 4-wall + IT ≥35 Ncm + gap graft. | narrative-review |
-| [[immediate-implant/meijer-2024-immediate-implant-bony-defect-10year-rct]] | RCT | n=40, 10-yr, buccal defect ≥5 mm | Even ≥5 mm buccal-defect esthetic sockets reach delayed-equivalent 10-yr outcomes with immediate + GBR + deferred provisional — challenges "intact buccal wall mandatory" dogma. | rct |
+| [[immediate-implant/gap-grafting/meijer-2024-immediate-implant-bony-defect-10year-rct]] | RCT | n=40, 10-yr, buccal defect ≥5 mm | Even ≥5 mm buccal-defect esthetic sockets reach delayed-equivalent 10-yr outcomes with immediate + GBR + deferred provisional — challenges "intact buccal wall mandatory" dogma. | rct |
 | [[immediate-implant/esthetic-soft-tissue/nassani-2025-immediate-vs-delayed-implant-bony-defect-commentary]] | rct (commentary) | EBD commentary on Meijer 10-yr RCT | Intact buccal wall not an absolute prerequisite for immediate — *if* GBR + delayed (not immediate) provisionalization is used. | rct |
-| [[immediate-implant/pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma]] | SR+MA | periapical-pathology sites | Periapical pathology at the immediate site — a key contraindication modifier. | sr+ma |
+| [[immediate-implant/infected-socket/pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma]] | SR+MA | periapical-pathology sites | Periapical pathology at the immediate site — a key contraindication modifier. | sr+ma |
 | [[immediate-implant/bineviciute-2024-attitudes-surgeons-immediate-implant-survey]] | cross-sectional | 186 clinicians | Real-world criterion: periapical lesion >5 mm is the dominant contraindication to immediate. | cross-sectional |
 | [[immediate-implant/esthetic-soft-tissue/chen-2014-esthetic-outcomes-immediate-early-implant]] | (esthetic review) | esthetic zone | Esthetic outcomes by timing; early placement favorable risk profile. | narrative-review |
 | [[immediate-implant/esthetic-soft-tissue/buser-2017-implant-placement-timing-post-extraction-esthetic]] | narrative-review | esthetic zone | Canonical "when immediate, when early, when late?" decision framework. | narrative-review |
@@ -77,10 +85,10 @@ The decision drivers, then, are anatomical and biological — **buccal-wall inte
 
 ### A. Choosing the timing tier (immediate / early / delayed)
 
-1. **Esthetic-zone single tooth, intact buccal plate, no apical infection, thick phenotype, IT ≥35 Ncm achievable** → **immediate (Type 1)** is reasonable and time-efficient; pair with gap graft ± CTG (Thoma 2026 prerequisites; Tonetti 2017 cautionary anchor). [근거강함, selected cases]
-2. **Esthetic zone but thin/compromised plate, soft-tissue deficiency, or any apical lesion** → favor **early (Type 2/3)**: equivalent survival, less marginal bone loss than immediate, lower wound-failure risk (Bassir 2019; "Type 2 often safer than Type 1" — Thoma 2026). [근거강함]
-3. **Periapical lesion > 5 mm / active infection** → dominant real-world contraindication to immediate; debride and place early/delayed (Bineviciute 2024; Pranckeviciene 2024). [합의수준]
-4. **Extensive bone loss / major augmentation needed / low esthetic demand** → **delayed (Type 4)** is the conservative default (Thoma 2026). But a large buccal defect (≥5 mm) is *not* an absolute bar to immediate when expertise + GBR + **deferred** provisionalization are available — 10-yr outcomes can equal delayed (Meijer 2024; Nassani 2025). Operator-dependent, not a default. [근거강함, conditional]
+1. **Esthetic-zone single tooth, intact buccal plate, no apical infection, thick phenotype, IT ≥35 Ncm achievable** → **immediate (Type 1)** is reasonable and time-efficient; pair with gap graft ± CTG (Thoma 2026 prerequisites; Tonetti 2017 cautionary anchor). [확인, selected cases]
+2. **Esthetic zone but thin/compromised plate, soft-tissue deficiency, or any apical lesion** → favor **early (Type 2/3)**: equivalent survival, less marginal bone loss than immediate, lower wound-failure risk (Bassir 2019; "Type 2 often safer than Type 1" — Thoma 2026). [확인]
+3. **Periapical lesion > 5 mm / active infection** → dominant real-world contraindication to immediate; debride and place early/delayed (Bineviciute 2024; Pranckeviciene 2024). [확인]
+4. **Extensive bone loss / major augmentation needed / low esthetic demand** → **delayed (Type 4)** is the conservative default (Thoma 2026). But a large buccal defect (≥5 mm) is *not* an absolute bar to immediate when expertise + GBR + **deferred** provisionalization are available — 10-yr outcomes can equal delayed (Meijer 2024; Nassani 2025). Operator-dependent, not a default. [확인, conditional]
 
 ### B. IIP vs ARP-then-delayed (when both are technically possible)
 

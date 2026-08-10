@@ -7,7 +7,7 @@ date: 2026-06-06
 doi: N/A
 source: N/A
 category: overviews
-confidence: synthesis
+evidence_level: synthesis
 pdf_path: N/A
 pdf_filename: N/A
 source_collection: synthesis
@@ -37,11 +37,21 @@ tags: [gic, rmgic, hvgic, cgic, remineralization, biocompatibility, longevity, f
 > - **임상 결정 4갈래**: ①적응증(직접수복·luting·sealant 지지, liner/base 약함) ②CGIC vs RMGIC(치수 인접 시 CGIC) ③하중부(허용 가능하나 물성 한계) ④유치(HVGIC ≈ composite).
 > - **갭**: longevity SR 품질, Ca/P·나노필러의 in-vivo 임상 효능, CGIC vs RMGIC 생체적합성의 장기 임상 데이터가 모두 부족.
 
-## One-line Summary
-Synthesis of the 8-paper glass-ionomer cluster answering when and how to use GIC across restorative, preventive, and bioactive indications, and where the evidence is weakest.
+## Three-line Summary
 
-## 한줄요약
-glass-ionomer 신규 클러스터 8편 통합. ①WHO 필수의약품(2021) 이후 GIC는 수복·luting·sealant에 근거 충분, liner/base는 논쟁 ②하중부(Class I/II)서 RCT상 기존 재료와 비교 가능 ③유치서 HVGIC≈composite ④longevity 근거는 존재하나 underlying SR 품질(AMSTAR-2/ROBIS) 낮음 ⑤Ca/P 개질·나노필러로 생체활성·물성 향상 가능(단 in-vitro) ⑥전통 GIC가 RMGIC보다 세포독성 낮아 VPT엔 CGIC 유리.
+Synthesis of 8 glass-ionomer papers: restorative, luting, and sealant indications are well-supported (WHO essential medicines 2021), but liner/base remains contested; Class I/II load-bearing use is RCT-comparable to alternatives, HVGIC ≈ composite in primary teeth, and longevity evidence exists but underlying SR quality (AMSTAR-2/ROBIS) is low (Panetta 2024 umbrella).
+
+Biocompatibility split: conventional GIC (CGIC) shows lower cytotoxicity than resin-modified GIC (RMGIC) across 9 studies (Singh 2024), making CGIC preferred at pulp proximity and for vital pulp therapy; RMGIC offers better esthetics, strength, and handling at the cost of biologic trade-off.
+
+Bioactive modification with calcium-phosphate (Ca/P) nanofiller improves remineralization and mechanical properties (Tuygunov 2024, Moheet 2019), but evidence remains in vitro, so clinical superiority is unconfirmed — leaving the open gaps as long-term in-vivo longevity of modified GICs, CGIC vs RMGIC clinical outcomes, and the liner/base controversy.
+
+## 세줄요약
+
+8편 종합 — WHO 필수의약품(2021) 이후 글래스아이오노머(Glass Ionomer Cement, GIC) 수복·luting·소와열구전색은 근거 충분하나 이장재/기저재는 논쟁; Class I/II 하중부는 12편 RCT상 기존 재료와 비교 가능, 유치에서 고점도 GIC(HVGIC) ≈ 복합레진, longevity 근거는 있으나 하위 SR 품질(AMSTAR-2/ROBIS)이 낮다(Panetta 2024 umbrella review).
+
+생체적합성 분기: 전통 GIC(CGIC)가 레진강화형 GIC(RMGIC)보다 9편에서 세포독성 낮음(Singh 2024) → 치수 인접·생활치수요법(Vital Pulp Therapy, VPT) 시 CGIC 우선; RMGIC는 심미·강도·조작성 우수하나 생체적합성 열세(trade-off).
+
+칼슘/인산(Ca/P) 개질·나노필러가 생체활성·재광화·물성을 향상시키나 아직 in-vitro 수준이라 임상 효능 미입증 — 개질 GIC의 장기 in-vivo longevity, CGIC vs RMGIC 장기 임상 결과, 이장재/기저재 논쟁이 현재 주요 근거 갭이다.
 
 ## Thesis
 임상 질문: "GIC를 언제, 어떤 형태(CGIC/HVGIC/RMGIC)로 써야 하며, 어떤 적응증에서 근거가 충분한가?" 현재 best evidence는 (a) 수복·luting·sealant 적응증은 지지되고, (b) 하중부 사용도 RCT상 허용 가능하며, (c) 개질(Ca/P·나노필러)은 물성·생체활성을 높이지만 아직 in-vitro 수준, (d) 재료 longevity·생체적합성 비교는 추가 고품질 연구가 필요하다는 것.
@@ -59,10 +69,10 @@ glass-ionomer 신규 클러스터 8편 통합. ①WHO 필수의약품(2021) 이�
 | [[glass-ionomer/mummery-2022-gic-fissure-sealant-case-series]] | Case series | — | GIC-FS 유지율 ~77% | case-report |
 
 ## Clinical Decision Points
-1. 적응증 선택 — 직접수복·luting·fissure sealant는 근거 지지. liner/base는 근거 약함(대안: RMGIC liner 또는 calcium silicate). [합의수준]
-2. CGIC vs RMGIC, pulp 인접/VPT — 전통 GIC가 세포독성 낮음 → 치수 인접 시 CGIC 우선 고려. trade-off: RMGIC는 심미·강도·조작성 우수하나 생체적합성 열세. [합의수준]
-3. 하중부(Class I/II) — RCT상 허용 가능하나 GIC의 낮은 fracture toughness·wear resistance 고려. 고교합·대형 와동은 composite/amalgam 대안 병기. [합의수준]
-4. 소아 유치 — HVGIC와 composite 임상 유의차 없음 → moisture control·협조도·비-AGP 필요 상황에서 HVGIC 합리적. [합의수준]
+1. 적응증 선택 — 직접수복·luting·fissure sealant는 근거 지지. liner/base는 근거 약함(대안: RMGIC liner 또는 calcium silicate). [확인]
+2. CGIC vs RMGIC, pulp 인접/VPT — 전통 GIC가 세포독성 낮음 → 치수 인접 시 CGIC 우선 고려. trade-off: RMGIC는 심미·강도·조작성 우수하나 생체적합성 열세. [확인]
+3. 하중부(Class I/II) — RCT상 허용 가능하나 GIC의 낮은 fracture toughness·wear resistance 고려. 고교합·대형 와동은 composite/amalgam 대안 병기. [확인]
+4. 소아 유치 — HVGIC와 composite 임상 유의차 없음 → moisture control·협조도·비-AGP 필요 상황에서 HVGIC 합리적. [확인]
 
 ## Gaps & Future Research
 - longevity 근거의 underlying SR 품질이 낮음(a priori design 부재) — 고품질 SR + 장기 RCT 필요.
@@ -77,3 +87,9 @@ glass-ionomer 신규 클러스터 8편 통합. ①WHO 필수의약품(2021) 이�
 - [[caries-detection-remineralization-overview]] — GIC 불소·Ca/P 재광화 연결
 - [[glass-ionomer/tuygunov-2024-modified-gic-calcium-phosphate-remineralization-sr]] — 생체활성 개질 축
 - [[overviews/dental-materials-decision-ladder]] — 상위 재료 선택 사다리
+
+## Evidence Update — Ion-Releasing Restoratives: Polymerization Stress and Hygroscopic Expansion Kinetics (Sokolowski 2018)
+
+Sokolowski 2018 (in vitro photoelastic + ISO 4049, 10 ion-releasing polymeric restoratives: RMGIC, compomers, giomers; 30 min to 84 days) tracked polymerization contraction stress and hygroscopic expansion over time. All 10 materials showed water sorption gradually relaxing initial polymerization contraction — consistent with the clinically valued stress-absorption property of GIC-family materials. Four materials showed complete stress reversal to net expansion, generating radial pressure against cavity walls (potentially beneficial marginal seal or a marginal stress concern depending on interpretation). Ionosit compomer had the highest water sorption (~3 wt%) and produced the highest sustained radial pressure at 56 days. The absolute stress range (6.2–21.4 MPa) across materials indicates clinically meaningful variation in marginal behavior. This bench data supports selecting lower-expansion materials when cuspal integrity is a concern.
+
+- [[glass-ionomer/sokolowski-2018-ion-releasing-polymeric-materials-contraction-stress]] — photoelastic study: water sorption relaxes polymerization stress in all ion-releasing materials; 4 materials reverse to net expansion; Ionosit highest water sorption + sustained radial pressure.

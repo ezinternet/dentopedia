@@ -6,20 +6,28 @@ date: 2017-09-28
 doi: 10.1186/s40729-017-0105-3
 source: debruyne-2017-isq-laser-vibrometry-resonance-frequency.md
 category: [implants/isq]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/debruyne-2017-isq-laser-vibrometry-resonance-frequency.pdf
 pdf_filename: debruyne-2017-isq-laser-vibrometry-resonance-frequency.pdf
 source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In-vitro bench study (20 resin-imbedded test implants across Straumann tissue-level, Ankylos, 3i Certain) that captured implant–Smartpeg resonance frequency by laser Doppler vibrometry and recomputed ISQ via the proprietary Osstell algorithm: indirect (LDV-derived) and direct (Osstell IDx) ISQ correlated at r = 0.99 with a clinically negligible mean difference, validating the Osstell ISQ-calculation algorithm.
+In-vitro bench study (20 resin-embedded implants: Straumann tissue-level, Ankylos, 3i Certain) using laser Doppler vibrometry (LDV) to independently capture Smartpeg resonance frequency and back-calculate ISQ via the Osstell algorithm, then comparing to direct Osstell IDx readings.
 
-## 한줄요약
+Indirect (LDV-derived) and direct (Osstell IDx) ISQ correlated at r=0.99 (p<0.001) with a mean difference of ~0.09 ISQ (not significant, p=0.058); the study also re-confirmed that older wired Osstell devices underestimate ISQ by ~9–10 units vs newer IDx.
 
-시험관내(in-vitro) 벤치 연구 — 레진에 매립한 시험 임플란트 20개(스트라우만 조직수준·앵킬로스·3i Certain)에서 임플란트-Smartpeg 공명주파수(Resonance Frequency, RF)를 레이저 도플러 진동측정법(Laser Doppler Vibrometry, LDV)으로 독립 포착해 비공개 Osstell 알고리즘으로 ISQ를 역산한 결과, 기기 직접측정 ISQ와 r=0.99로 일치하고 평균차도 임상적으로 무시할 수준이어서 Osstell ISQ 산출 알고리즘의 타당성을 입증.
+The Osstell RF-to-ISQ algorithm is validated as accurate; older-generation Osstell devices produce systematically lower ISQ, requiring correction when pooling data from different device generations in meta-analyses.
+
+## 세줄요약
+
+레진에 매립한 임플란트 20개(스트라우만 조직수준·앵킬로스·3i Certain)에서 레이저 도플러 진동측정법(LDV)으로 Smartpeg 공명주파수를 독립 포착해 Osstell 알고리즘으로 ISQ를 역산한 후 Osstell IDx 직접 측정값과 비교한 인비트로 벤치 연구.
+
+간접(LDV) ISQ와 직접(Osstell IDx) ISQ는 r=0.99(p<0.001), 평균차 약 0.09 ISQ(비유의; p=0.058)로 일치; 구형 유선 Osstell이 IDx 대비 약 9–10 ISQ 과소평가됨을 재확인하였다.
+
+Osstell RF→ISQ 변환 알고리즘은 정확하며; 기기 세대가 다른 ISQ 데이터를 풀링하는 메타분석에서는 구형 기기의 과소평가 편향을 보정해야 한다.
 
 ## Summary
 

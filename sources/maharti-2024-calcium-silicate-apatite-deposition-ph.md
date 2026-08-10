@@ -19,13 +19,21 @@ Seeds the wiki's first Ceraseal/bioceramic-sealer **bioactivity-mechanism** anch
 
 Source: data retrieved from PubMed / PubMed Central ([DOI](https://doi.org/10.1055/s-0044-1788685), PMID 39251206, PMCID PMC12020572).
 
-## One-line Summary
+## Three-line Summary
 
 In-vitro SEM/EDX + pH study (15 premolars, 14-day PBS immersion) showing premixed Ceraseal deposits more interfacial apatite (23.65 vs 18.49 µm) and reaches higher pH (11.48 vs 9.19 at day 14) than AH Plus Bioceramic, indicating superior biomineralization.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 전치아 15개·14일 PBS 침지 in-vitro SEM/EDX·pH 연구 — 프리믹스 Ceraseal이 AH Plus Bioceramic보다 계면 아파타이트 침착(23.65 vs 18.49 µm)·pH(14일 11.48 vs 9.19)가 더 높아 생광화(biomineralization) 잠재력이 우수함.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

@@ -6,18 +6,26 @@ date: 2025-03-14
 doi: 10.1186/s40729-025-00615-9
 source: cobo-vazquez-2025-crestal-sinus-lift-osteotome-vs-osseodensification.md
 category: [sinus-lift/transcrestal]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/cobo-vazquez-2025-crestal-sinus-lift-osteotome-vs-osseodensification.pdf
 pdf_filename: cobo-vazquez-2025-crestal-sinus-lift-osteotome-vs-osseodensification.pdf
 source_collection: external
 tags: [sinus-lift, transcrestal, osseodensification, osteotome, sr+ma, complication-rate]
 ---
 
-## One-line Summary
-Systematic review + meta-analysis (SR+MA; 13 studies, 519 sites — 10 osteotome [OST], 3 osseodensification [OD]): bone gain was similar (OD 3.37 mm vs OST 3.18 mm) and implant survival equivalent (94.1–100%), but the complication rate was ~5× lower with OD (2.78%) than OST (14.32%); interpretation is limited by sparse OD evidence (n=3) and higher baseline residual bone height (RBH) in the OD arm (5.94 vs 5.00 mm).
+## Three-line Summary
+First PRISMA SR+MA (13 studies, 519 sites) directly comparing osteotome (OST, n=10 studies) vs osseodensification (OD, n=3 studies) for crestal sinus lift with simultaneous implant placement.
 
-## 한줄요약
-체계적 문헌고찰 + 메타분석 (Systematic Review + Meta-Analysis, SR+MA), 13 연구 / 519 부위 (osteotome 10, 골밀도화 (Osseodensification, OD) 3) — 골 (bone) 증가량은 유사 (OD 3.37 mm vs OST 3.18 mm), 임플란트 생존율 94.1–100%로 동등했으나 합병증 발생률이 OST 14.32% vs OD 2.78%로 약 5배 낮았음. 임상 적용 한계: OD 연구 수 (n=3)가 적고 잔존골높이 (Residual Bone Height, RBH) 기저값이 OD군에서 더 높아 (5.94 vs 5.00 mm) 결과 해석 시 baseline 편차 고려 필요.
+Bone gain was equivalent (OD 3.37 mm vs OST 3.18 mm) and implant survival overlapped (94.1–100%), but complication rate was approximately 5× lower with OD (2.78%) vs OST (14.32%); OD studies started with higher residual bone height (5.94 vs 5.00 mm), a potential confounder.
+
+OD appears to reduce crestal sinus lift complications by ~5-fold with equivalent augmentation and survival; however, the OD evidence base remains sparse (n=3 studies) and baseline RBH asymmetry must be considered before drawing firm conclusions.
+
+## 세줄요약
+오스테오톰(OST, 10편) vs 골밀도화(Osseodensification, OD, 3편) 경치조골 상악동거상술을 직접 비교한 최초의 PRISMA SR+MA(13편, 519부위).
+
+골증대량 동등(OD 3.37 mm vs OST 3.18 mm), 임플란트 생존율 94.1–100%로 중복; 합병증 발생률은 OD가 약 5배 낮음(2.78% vs 14.32%); 단, OD군 기저 잔존골높이(RBH)가 더 높아(5.94 vs 5.00 mm) 혼란 변수 존재.
+
+OD는 동등한 골증대·생존율 하에 합병증을 약 5배 줄이는 것으로 보이나, OD 근거가 아직 부족(3편)하고 기저 RBH 비대칭이 있으므로 강한 결론 도출은 유보해야 한다.
 
 ## Summary
 Cobo-Vázquez and colleagues (Complutense University of Madrid) conducted the first PRISMA-guided systematic review and meta-analysis to directly compare the two dominant crestal sinus lift schools: the classic Summers osteotome (OST) and Huwais osseodensification (OD). Across 13 studies and 519 treated sites (10 OST, 3 OD), the headline finding is a striking complication-rate gap — 14.32% with OST versus 2.78% with OD, roughly fivefold — despite clinically similar bone gain (3.37 mm OD vs 3.18 mm OST) and overlapping implant survival ranges (94.1–100%).
@@ -52,4 +60,4 @@ PRISMA 2020 systematic review of MEDLINE/PubMed, SCOPUS, and Cochrane CENTRAL up
 - [[sinus-lift/transcrestal/sirinirund-2025-minimally-invasive-sinus-augmentation-review]] — broader review on minimally invasive sinus augmentation
 - [[sinus-lift/transcrestal/stuhr-2025-long-term-stability-transcrestal-sinus-augmentation]] — long-term outcome data
 - [[sinus-lift/lateral/del-fabbro-2025-sinus-augmentation-materials-lateral-approach]] — lateral-window comparator
-- [[implants/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — Huwais foundational OD bench paper
+- [[implants/osseodensification/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — Huwais foundational OD bench paper

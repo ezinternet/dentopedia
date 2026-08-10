@@ -6,7 +6,7 @@ date: 2026-01-01
 doi: 10.1155/ijod/7117281
 source: basheer-2026-cadcam-3dprinted-inlays-onlays-veneers-scoping.md
 category: [inlay]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "42064823"
@@ -24,13 +24,21 @@ relations:
     target: sirikatitham-2026-fracture-resistance-partial-coverage-scoping
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Scoping review (PRISMA-ScR; 30 studies, 27 in-vitro + 3 case reports, 2000–Jun 2025) mapping CAD/CAM-milled vs 3D-printed inlays/onlays/veneers — both reach clinically acceptable marginal fit (<120 µm); CAD/CAM is faster (45–90 min) with higher ceramic strength (~1800–2500 N), 3D printing gives better adaptation/customization (esp. veneers) but longer fabrication (90–150 min) and lower hardness/color stability; no long-term clinical trials exist.
+Scoping review (PRISMA-ScR; 30 studies — 27 in-vitro + 3 case reports, Jan 2000–Jun 2025) mapping CAD/CAM-milled vs 3D-printed inlays, onlays, and veneers across fabrication outcomes.
 
-## 한줄요약
+Both methods achieve clinically acceptable marginal fit (≤120 µm); CAD/CAM milling is faster (45–90 min) with higher validated ceramic strength (1800–2500 N); 3D printing offers superior adaptation/customization (especially veneers) but longer fabrication (90–150 min) and lower hardness/color stability.
 
-스코핑 리뷰 30편(in-vitro 27 + 증례 3) — CAD/CAM 밀링과 3D 프린팅 모두 임상 허용 변연적합(<120 µm) 달성; CAD/CAM은 더 빠르고(45–90분) 세라믹 강도 우수, 3D 프린팅은 적합·맞춤성(특히 비니어) 우수하나 제작시간 길고(90–150분) 경도·색안정성 낮음. 장기 임상시험 부재.
+No large-scale clinical trials exist for either method — findings are predominantly in-vitro; CAD/CAM is the validated default for single-unit ceramics, while 3D printing is best reserved for high-customization or complex-geometry cases pending long-term data.
+
+## 세줄요약
+
+스코핑 리뷰 30편 (in-vitro 27·증례 3, 2000–2025년 6월) — CAD/CAM 밀링과 3D 프린팅의 인레이·온레이·비니어 제작 아웃컴 비교 매핑.
+
+두 방법 모두 임상 허용 변연적합 (≤120 µm) 달성; CAD/CAM 밀링이 제작 빠르고 (45–90분) 세라믹 강도 우수 (1800–2500 N); 3D 프린팅은 맞춤성 (특히 비니어) 우수하나 제작 시간 길고 (90–150분) 경도·색안정성 낮음.
+
+장기 임상시험 부재 — in-vitro 결과 다수; CAD/CAM이 단일 단위 세라믹의 검증된 기본값, 3D 프린팅은 고맞춤성·복잡한 기하학 증례에 우선 적용 (장기 근거 확보 전까지).
 
 ## Summary
 

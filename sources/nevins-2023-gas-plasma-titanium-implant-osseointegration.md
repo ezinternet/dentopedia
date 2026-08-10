@@ -13,13 +13,21 @@ source_collection: external
 
 플라즈마 배치(2026-05-31)의 large-animal(foxhound) 골유착 근거이자 "식립 직전 chairside gas plasma"라는 임상 적용 시나리오를 시점별(2·4·6주)로 검증. [[wiki/implants/surface/plasma/hui-2020-cold-atmospheric-plasma-implantology-review]]의 chairside 주장을 실험으로 받친다.
 
-## One-line Summary
+## Three-line Summary
 
-Preclinical in vivo study: 36 implants in 6 male foxhounds (mandibular sites, sockets healed 42 days; randomized chairside gas-plasma test vs control, sacrificed at 2/4/6 weeks): BIC was higher for the plasma group at all timepoints and significantly higher at 4 weeks (p=0.046); radiographic bone-level difference reached significance at 6 weeks (p=0.016, more bone loss in control).
+Preclinical in vivo study (foxhound, n=6 dogs, 36 SLA-surface implants, mandibular sites, 42-day healed sockets; randomized to chairside gas-plasma treatment vs untreated control, sacrificed at 2, 4, and 6 weeks) assessing BIC histomorphometry and radiographic bone levels.
 
-## 한줄요약
+BIC was numerically higher for the plasma group at all timepoints and significantly higher at 4 weeks (p=0.046); radiographic bone-level differences were non-significant at 2 and 4 weeks but reached significance at 6 weeks (p=0.016), with more bone loss in the control group.
 
-전임상 in vivo: foxhound 6마리에 임플란트 36개(하악, 발치와 42일 치유 후; 식립 직전 gas plasma 무작위배정 vs 대조, 2·4·6주 희생): 골-임플란트 접촉률(BIC)이 모든 시점에서 플라즈마군이 높았고 4주에 유의(p=0.046); 방사선 골수준 차이는 6주에 유의(p=0.016, 대조군 골소실 더 큼).
+Chairside gas plasma applied immediately before placement shows potential to accelerate early osseointegration, but each sacrifice timepoint had only 2 animals and biomechanical or loading outcomes were not assessed, so the clinical translation threshold is not yet defined.
+
+## 세줄요약
+
+전임상 in vivo 연구 — foxhound 6마리, SLA 임플란트 36개(하악, 42일 치유 후 발치와; 식립 직전 gas plasma vs 무처치 무작위배정, 2·4·6주 희생)의 BIC 조직계측 및 방사선 골수준 평가.
+
+BIC는 모든 시점에서 플라즈마군이 수치상 높았고 4주에 유의(p=0.046); 방사선 골수준 차이는 2·4주에 비유의였으나 6주에 유의(p=0.016, 대조군 골소실 더 큼).
+
+식립 직전 chairside 가스 플라즈마가 초기 골유착을 가속할 가능성을 시사하나, 각 희생 시점 동물 수가 2마리에 불과하고 생역학적·부하 결과가 없어 임상 적용 기준값 미정.
 
 ## 1. Document Information
 

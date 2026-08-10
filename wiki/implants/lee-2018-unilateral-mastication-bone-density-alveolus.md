@@ -6,18 +6,28 @@ date: 2018-08-31
 doi: 10.21742/AJMAHS.2018.08.21
 source: lee-2018-unilateral-mastication-bone-density-alveolus.md
 category: [implants]
-confidence: cross-sectional
+evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/lee-2018-unilateral-mastication-bone-density-alveolus.pdf
 pdf_filename: lee-2018-unilateral-mastication-bone-density-alveolus.pdf
 source_collection: external
 tags: [bone density, unilateral mastication, CBCT, Hounsfield unit, alveolar bone, orthodontics]
 ---
 
-## One-line Summary
-Cross-sectional CBCT study (n=25 adults with unilateral mastication): alveolar bone density (Hounsfield units) was significantly higher on the chewing side at canine, premolar, and molar regions (p<0.05) but not at incisors, with the mandibular molar region showing the largest asymmetry (~100 HU).
+## Three-line Summary
 
-## 한줄요약
-편측 저작 습관 성인(n=25) 대상 콘빔CT (CBCT) 연구에서 저작측 치조골 골밀도 (Bone Density)가 반대측보다 견치·소구치·대구치 부위에서 유의하게 높음 (p<0.05), 하악 대구치 부위 차이 최대.
+Cross-sectional CBCT study (n=25 adults with self-reported unilateral mastication habits, mean age 24 years) measuring interradicular alveolar bone density in Hounsfield units at four regions per arch on chewing versus non-chewing sides.
+
+Alveolar bone density was significantly higher on the chewing side at canine, premolar, and molar regions (p<0.05) but not at incisors; the mandibular molar region showed the largest asymmetry, with the chewing side approximately 100 HU denser than the opposite side.
+
+Functional loading asymmetry translates into measurable alveolar bone density differences detectable by CBCT; clinically, implant site bone density may differ substantially between sides in unilateral mastication patients.
+
+## 세줄요약
+
+횡단 콘빔CT (CBCT) 연구(n=25 편측 저작 습관 성인, 평균 24세): 상하악 각 4부위(절치·견치·소구치·대구치) 치조간골 골밀도 (Bone Density, Hounsfield Unit) 저작측 vs 비저작측 쌍대비교.
+
+저작측 골밀도가 견치·소구치·대구치 부위에서 유의하게 높음(p<0.05); 절치 부위는 차이 없음; 하악 대구치 부위 차이 최대(저작측 약 100 HU 더 높음).
+
+기능적 하중 비대칭이 CBCT로 측정 가능한 치조골 밀도 차이로 나타남 — 편측 저작 환자의 임플란트 식립 부위 골밀도가 양측 간 현저히 다를 수 있음.
 
 ## Summary
 This cross-sectional CBCT study measured interradicular alveolar bone density (Hounsfield units) in 25 adults with self-reported unilateral mastication habits, comparing chewing versus non-chewing sides across four regions per arch. Bone density was significantly higher on the chewing side at canine, premolar, and molar regions (p<0.05) but not at the incisor region, where occlusal forces are smallest. The posterior-to-anterior gradient of bone density was consistent regardless of chewing side. The mandibular molar region showed the greatest asymmetry, with chewing-side bone ~100 HU denser than the opposite side.

@@ -7,7 +7,7 @@ doi: "10.1016/j.apradiso.2025.112186"
 pmid: "40967160"
 source: kabier-2025-xray-radiation-exposure-open-dental-clinics-tld.md
 category: [radiology]
-confidence: prospective
+evidence_level: prospective
 source_collection: pubmed-text
 full_text: false
 tags: [occupational-dose, TLD, lead-apron, open-clinic, dentist, assistant]
@@ -18,13 +18,21 @@ text_path: /Users/oracleneo/llm-wiki/papers/kabier-2025-xray-radiation-exposure-
 text_filename: kabier-2025-xray-radiation-exposure-open-dental-clinics-tld.txt
 ---
 
-## One-line Summary
+## Three-line Summary
 
-TLD dosimetry study in Basrah (Iraq) open dental clinics: mean annual effective dose above lead apron was 5.623 mSv (dentists) and 5.279 mSv (assistants) — ~30× higher than Korean shielded-room data, attributable to absence of structural radiation shielding.
+Prospective TLD-200 dosimetry study in Basrah, Iraq open dental clinics (no shielded X-ray room) measuring annual effective dose above the lead apron for dentists and dental assistants.
 
-## 한줄요약
+Mean annual effective dose was 5.623 mSv (dentists) and 5.279 mSv (assistants) — within the 20 mSv ICRP occupational limit but ~30× higher than Korean shielded-room data (0.18 mSv), quantifying the protective value of structural shielding.
 
-이라크 개방형 치과 클리닉 TLD 실측 (납복 위 흉부): 치과의사 5.623 mSv/y, 조무사 5.279 mSv/y — 한국 차폐 촬영실 데이터(0.18 mSv/y)보다 ~30배 높으며, 구조적 차폐 부재가 원인.
+Even without structural shielding, personal protective equipment plus proper protocols kept doses within occupational limits; however, dedicated shielded X-ray rooms remain critical for minimizing long-term occupational exposure.
+
+## 세줄요약
+
+이라크 바스라의 구조적 차폐 없는 개방형 치과 클리닉에서 납복(Lead Apron) 위 흉부에 TLD-200을 착용해 치과의사·조무사의 연간 유효선량을 측정한 전향적 연구.
+
+연평균 유효선량은 치과의사 5.623 mSv, 조무사 5.279 mSv — ICRP 직업한도(20 mSv/y) 이하이나 한국 차폐 촬영실 데이터(0.18 mSv/y)보다 약 30배 높아, 구조적 차폐의 방어 가치를 정량화.
+
+차폐실 없이도 납복+올바른 프로토콜로 한도 이내 유지 가능하나, 장기 직업 피폭 최소화를 위해 차폐 촬영실은 필수적임.
 
 ## Summary
 

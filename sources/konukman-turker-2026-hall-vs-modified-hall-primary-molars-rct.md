@@ -15,15 +15,23 @@ text_filename: konukman-turker-2026-hall-vs-modified-hall-primary-molars-rct.txt
 
 ## Why Ingested
 
-literature-surveillance `primary-pulpotomy-ssc` 토픽 첫 sweep(2026-06-20)의 OA:PMC RCT. 위키에 **SSC/Hall technique 페이지가 전무** — 유치 우식 minimally invasive 관리의 핵심 술기를 첫 항목으로 추가한다. 선택적 우식제거를 더한 modified HT와 conventional HT를 직접 비교해, 유치 deep caries 관리를 [[wiki/endodontics/smail-faugeron-2018-pulp-treatment-primary-teeth-cochrane]] · [[wiki/endodontics/aapd-2024-vital-pulp-therapy-primary-teeth-guideline]] 의 보존적 흐름과 연결한다. PubMed/PMC, CC BY OA 전문.
+literature-surveillance `primary-pulpotomy-ssc` 토픽 첫 sweep(2026-06-20)의 OA:PMC RCT. 위키에 **SSC/Hall technique 페이지가 전무** — 유치 우식 minimally invasive 관리의 핵심 술기를 첫 항목으로 추가한다. 선택적 우식제거를 더한 modified HT와 conventional HT를 직접 비교해, 유치 deep caries 관리를 [[wiki/endodontics/vpt/smail-faugeron-2018-pulp-treatment-primary-teeth-cochrane]] · [[wiki/endodontics/vpt/aapd-2024-vital-pulp-therapy-primary-teeth-guideline]] 의 보존적 흐름과 연결한다. PubMed/PMC, CC BY OA 전문.
 
-## One-line Summary
+## Three-line Summary
 
-RCT (268 primary molars, deep dentine caries) over 24 months: Hall technique (HT, seal caries under SSC, no caries removal) vs modified HT (selective removal of outer carious layer first) gave statistically equal 24-mo success (86.6% vs 92.8%, p=0.121); SSC fit was decisive in HT (insufficient fit → 40% major failure vs 7.3% with good fit).
+RCT (268 primary molars, deep dentine caries) over 24 months: Hall technique (HT, seal caries under SSC, no caries removal) vs modified HT (selective removal of outer carious layer first) gave statistically equal 24-mo success (86.6% vs 92.8%, p=0.121);
 
-## 한줄요약
+SSC fit was decisive in HT (insufficient fit → 40% major failure vs 7.3% with good fit).
 
-RCT(유구치 268개, deep dentine caries) 24개월: Hall technique(HT, 우식제거 없이 SSC로 봉입) vs modified HT(바깥 우식층 선택제거 후 SSC) 성공률 통계적 동등(86.6% vs 92.8%, p=0.121). HT에서 SSC 적합도가 결정적 — 부적합 시 major failure 40% vs 적합 7.3%.
+(incomplete)
+
+## 세줄요약
+
+RCT(유구치 268개, deep dentine caries) 24개월: Hall technique(HT, 우식제거 없이 SSC로 봉입) vs modified HT(바깥 우식층 선택제거 후 SSC) 성공률 통계적 동등(86.6% vs 92.8%, p=0.121).
+
+HT에서 SSC 적합도가 결정적 — 부적합 시 major failure 40% vs 적합 7.3%.
+
+(incomplete)
 
 ## 1. Document Information
 
@@ -57,8 +65,8 @@ Two-arm parallel RCT, 268 primary molars (189 children, 3–10 y), block-randomi
 
 ## 6. Related Work
 
-- [[wiki/endodontics/smail-faugeron-2018-pulp-treatment-primary-teeth-cochrane]] — Cochrane pulp treatment primary teeth.
-- [[wiki/endodontics/aapd-2024-vital-pulp-therapy-primary-teeth-guideline]] — AAPD VPT primary teeth guideline.
+- [[wiki/endodontics/vpt/smail-faugeron-2018-pulp-treatment-primary-teeth-cochrane]] — Cochrane pulp treatment primary teeth.
+- [[wiki/endodontics/vpt/aapd-2024-vital-pulp-therapy-primary-teeth-guideline]] — AAPD VPT primary teeth guideline.
 - [[wiki/endodontics/vpt/chawla-2026-pulpotomy-vs-pulpectomy-primary-teeth-sr-ma]] — pulpotomy vs pulpectomy (companion peds pulp page).
 
 ## 7. Glossary

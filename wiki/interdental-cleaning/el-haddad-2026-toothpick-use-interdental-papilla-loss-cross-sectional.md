@@ -6,7 +6,7 @@ date: 2026-05-21
 doi: 10.3290/j.qi.b6912614
 source: el-haddad-2026-toothpick-use-interdental-papilla-loss-cross-sectional.md
 category: [interdental-cleaning]
-confidence: cross-sectional
+evidence_level: cross-sectional
 source_collection: pubmed-text
 full_text: false
 pmid: "41716131"
@@ -19,13 +19,21 @@ relations:
     target: lee-2020-watanabe-toothpick-method-srp-diabetic-periodontitis-rct
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Cross-sectional study (n=69, ages 20–29; 87% toothpick users) — habitual wooden-toothpick interdental use is associated with significantly reduced interdental papilla presence (PPI, P<.05) in maxillary anterior teeth ("black triangles"), worse with the vertical up/down technique, frequency >3×/day, and >3 years' duration; alveolar bone level and proximal contact length were unaffected (abstract-only).
+Cross-sectional study (n=69, ages 20–29, 87% toothpick users exclusively; no floss or interdental brush users) quantifying the effect of habitual wooden-toothpick use on maxillary anterior interdental papilla via the Papilla Presence Index (PPI).
 
-## 한줄요약
+Toothpick users had significantly less papilla presence than nonusers (P<.05), with greater loss for the vertical "up/down" insertion technique, frequency >3×/day, and duration >3 years; alveolar bone level and proximal contact length were unaffected.
 
-단면연구(n=69, 20–29세, 87%가 이쑤시개 사용) — 나무 이쑤시개의 습관적 치간 사용은 상악 전치부 치간유두를 유의하게 소실시켜(PPI, P<.05) '블랙트라이앵글'을 유발하며, 수직(상하) 기법·하루 3회 초과·3년 초과 사용에서 더 심함. 치조골 수준·접촉면 길이는 무영향 (초록 기반).
+The injury is confined to the soft-tissue papilla ("black triangle"), sparing hard tissue; clinicians should advise safer interdental-cleaning alternatives for habitual toothpick users, especially those using vertical technique or high frequency.
+
+## 세줄요약
+
+단면연구(n=69, 20–29세, 87%가 나무 이쑤시개만 사용, 치실·치간칫솔 사용자 제외): 치간 세균막 제거 도구로 나무 이쑤시개만 쓰는 사람들의 상악 전치부 치간유두 손상을 치간유두 존재지수(Papilla Presence Index, PPI)로 평가.
+
+이쑤시개 사용자가 비사용자보다 유의하게 치간유두가 소실됐으며(P<.05), 수직(상하) 삽입 기법·하루 3회 초과·3년 초과 사용에서 더 심함; 치조골 수준·접촉면 길이는 두 군간 차이 없음.
+
+손상은 연조직(치간유두)에 국한되며 경조직은 영향 없음; 임상가는 이쑤시개 습관을 가진 환자, 특히 수직 기법 또는 고빈도 사용자에게 안전한 치간 청소 도구를 권장해야 한다.
 
 ## Summary
 
@@ -61,6 +69,6 @@ Wooden toothpicks are one of the most widely used interdental-cleaning tools, bu
 
 ## Related Papers
 
-- [[periodontics/lee-2020-watanabe-toothpick-method-srp-diabetic-periodontitis-rct]] — opposite-direction "toothpick": the Watanabe *brushing* method that stimulates gingival healing (this paper is about the *wooden* toothpick that damages papilla; same word, unrelated).
-- [[periodontics/rajwani-2020-manual-toothbrushing-techniques-plaque-gingivitis-sr]] — manual toothbrushing technique SR including the toothpick (Watanabe) *brushing* method.
+- [[periodontics/oral-hygiene-instruction/lee-2020-watanabe-toothpick-method-srp-diabetic-periodontitis-rct]] — opposite-direction "toothpick": the Watanabe *brushing* method that stimulates gingival healing (this paper is about the *wooden* toothpick that damages papilla; same word, unrelated).
+- [[periodontics/oral-hygiene-instruction/rajwani-2020-manual-toothbrushing-techniques-plaque-gingivitis-sr]] — manual toothbrushing technique SR including the toothpick (Watanabe) *brushing* method.
 - [[food-impaction/liang-2020-prevalence-associated-factors-retrospective]] — interproximal contact / papilla and food-impaction context.

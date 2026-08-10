@@ -6,7 +6,7 @@ date: 2025-11-07
 doi: 10.1016/j.adaj.2025.08.015
 source: mojaver-2025-supportive-peri-implant-therapy-efficacy-sr.md
 category: [implants/peri-implantitis]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/mojaver-2025-supportive-peri-implant-therapy-efficacy-sr.pdf
 pdf_filename: mojaver-2025-supportive-peri-implant-therapy-efficacy-sr.pdf
 source_collection: external
@@ -16,13 +16,21 @@ relations:
     target: jepsen-2015-primary-prevention-periimplantitis-managing-mucositis
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (25 studies: 9 RCTs, 13 cohorts, 3 case-control; narrative synthesis) finding that individualized, risk-based supportive peri-implant therapy (SPiT) recall intervals consistently improve probing depth and bleeding on probing versus fixed-interval or no maintenance — heterogeneity precluded meta-analysis.
+Systematic review (JADA 2026; MEDLINE/Embase/Cochrane/Web of Science through April 2025; 25 studies — 9 RCTs, 13 cohorts, 3 case-control; n=60–250 per study; 3 months to 7 years follow-up) evaluating professionally delivered supportive peri-implant therapy (SPiT) for peri-implant mucositis and peri-implantitis.
 
-## 한줄요약
+Individualized risk-based SPiT recall intervals (typically 3–4 months for high-risk patients) consistently yielded PD reductions 1.0–1.5 mm greater and BoP reductions 10–25 percentage points greater than fixed-interval or no maintenance, with 40–70% lower peri-implantitis incidence or implant loss in SPiT-adherent vs non-adherent long-term cohorts; aPDT was the only adjunct with consistent additional PD benefit (~0.6–0.8 mm).
 
-체계적 문헌고찰(25편: RCT 9·코호트 13·환자대조 3) — 위험도 기반 개별화 SPiT recall 주기가 고정 주기·무관리 대비 탐침깊이·탐침시출혈을 일관되게 개선; 높은 이질성으로 메타분석 불가.
+Heterogeneity precluded meta-analysis; the systemic-comorbidity evidence base is critically thin (only 20% of studies quantified smokers, 8% documented diabetes), and one-size-fits-all annual recall should be abandoned in favor of genuinely individualized, risk-stratified maintenance.
+
+## 세줄요약
+
+JADA 2026; MEDLINE·Embase·Cochrane·Web of Science(2025년 4월까지); 25편(RCT 9·코호트 13·환자대조 3; 연구당 n=60–250; 추적 3개월~7년) — 임플란트주위 점막염·임플란트주위염에 대한 전문적 임플란트 주위 지지치료(Supportive Peri-implant Therapy, SPiT) 효능 체계적 문헌고찰.
+
+위험도 기반 개별화 SPiT recall 주기(고위험 환자는 통상 3–4개월)가 고정 주기·무관리 대비 탐침깊이(PD) 1.0–1.5 mm, 탐침출혈(BoP) 10–25%p 더 크게 감소시켰으며, SPiT 순응 환자에서 장기 코호트 기준 임플란트주위염 발생 또는 소실이 40–70% 낮았다; 항균 광역학치료(Antimicrobial Photodynamic Therapy, aPDT)만이 일관되게 추가적 PD 감소(~0.6–0.8 mm)를 보이는 유일한 보조요법.
+
+이질성으로 메타분석 불가; 전신 동반질환 근거 기반이 매우 부족(흡연 정량화 20%, 당뇨 기록 8%); 획일적 연 1회 recall을 폐기하고 진정한 의미의 개별화 위험도 기반 유지관리로 전환해야 한다.
 
 ## Summary
 

@@ -9,8 +9,21 @@ pdf_filename: james-2025-future-dental-implants-trends-technologies.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Cureus 2025: Narrative review (2015-2025 literature): future of implants — zirconia/Ti-Zr alloys, AI/robotics/3D printing, bioactive surfaces, smart implants; clinical adoption limited by cost, learning curves, inconsistent long-term data.
+## Three-line Summary
+
+Cureus 2025
+
+Narrative review (2015-2025 literature)
+
+future of implants — zirconia/Ti-Zr alloys, AI/robotics/3D printing, bioactive surfaces, smart implants; clinical adoption limited by cost, learning curves, inconsistent long-term data.
+
+## 세줄요약
+
+Cureus 2025
+
+Narrative review (2015-2025 literature)
+
+future of implants — zirconia/Ti-Zr alloys, AI/robotics/3D printing, bioactive surfaces, smart implants; 임상적 (Clinical) adoption limited by cost, learning curves, inconsistent long-term data.
 
 ## 1. Key Results
 - Literature 2015–2025 (PubMed, Scopus, Google Scholar)

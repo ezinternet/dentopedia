@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1111/jre.70018
 source: roccuzzo-2025-keratinized-mucosa-peri-implant-20year-mandible.md
 category: [implants/peri-implantitis]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/roccuzzo-2025-keratinized-mucosa-peri-implant-20year-mandible.pdf
 pdf_filename: roccuzzo-2025-keratinized-mucosa-peri-implant-20year-mandible.pdf
 source_collection: external
@@ -20,13 +20,21 @@ relations:
     target: thoma-2018-soft-tissue-augmentation-periimplant-health
 ---
 
-## One-line Summary
+## Three-line Summary
 
-20-year prospective cohort (n=64, posterior mandible SLA tissue-level implants) shows peri-implantitis in 25% of implants lacking keratinized mucosa vs. 4.2% in keratinized-tissue implants (OR 6.67), and 100% soft-tissue dehiscence rate in the non-keratinized group; FGG during supportive care restored outcomes equivalent to native keratinized tissue.
+20-year single-center prospective cohort (n=64, posterior mandible SLA tissue-level implants, 3 groups: KT/AM/AM+FGG) — the longest published follow-up on keratinized mucosa status and peri-implant health.
 
-## 한줄요약
+Peri-implantitis at 20 years: 4.2% (KT/AM+FGG) vs 25% (AM, OR 6.67, p=0.041); 100% soft-tissue dehiscence in the AM group vs 35.4% in KT/AM+FGG (OR 81.6, p<0.001); cumulative MBL 0.66 vs 1.29 mm (p=0.006).
 
-20년 전향적 코호트(n=64, 하악 구치부 조직수준 SLA 임플란트)에서 각화점막 없는 임플란트의 임플란트주위염 발생률은 25%(각화점막 있는 군 4.2%, OR 6.67)이고 연조직 열개 발생률은 100%였으며, 유지치료 중 시행한 유리치은이식(FGG)은 각화점막이 처음부터 있던 군에 상응하는 보호 효과를 20년간 유지했다.
+FGG during supportive care sustained protective outcomes for 20 years, matching native KT results; additional treatment requirement 10–20 years: 50% (AM) vs 5% (KT), confirming keratinized tissue absence as a major long-term disease amplifier.
+
+## 세줄요약
+
+20년 단일기관 전향적 코호트 (n=64, 하악 구치부 조직수준 SLA 임플란트, 3군: 각화점막 있음/없음/없음+유리치은이식(FGG)) — 각화점막과 임플란트 주위 건강에 관한 현재까지 가장 긴 추적 연구.
+
+20년째 임플란트 주위염 (Peri-implantitis): KT/AM+FGG 4.2% vs AM 25% (OR 6.67, p=0.041); 연조직 열개 (Soft-tissue Dehiscence) 100% (AM) vs 35.4% (KT/AM+FGG, OR 81.6, p<0.001); 누적 변연골소실 (MBL) 0.66 vs 1.29 mm (p=0.006).
+
+유지치료 중 시행한 FGG가 20년간 보호 효과 유지, 원래 각화점막 보유군과 동등한 결과; 10~20년 추가 치료 필요율 50%(AM) vs 5%(KT) — 각화점막 부재가 장기적 질환 증폭 인자임을 확인.
 
 ## Summary
 
@@ -88,6 +96,6 @@ No implants were lost between 10 and 20 years, confirming long-term osseointegra
 ## Related Papers
 
 - [[overviews/peri-implant-soft-tissue-dehiscence-prevention]] — synthesis overview on KM augmentation for peri-implant soft-tissue dehiscence prevention; this study is among the highest-quality longitudinal evidence supporting that overview's thesis
-- [[implants/tavelli-2025-soft-tissue-dehiscences-implant-sites-ao-aap]] — AO/AAP position paper on soft-tissue dehiscences at implant sites; this cohort's 100% dehiscence rate in AM group provides a direct clinical anchor
-- [[implants/thoma-2018-soft-tissue-augmentation-periimplant-health]] — SR showing KM augmentation improves peri-implant health; this 20-year cohort is the highest-quality longitudinal evidence corroborating that SR
-- [[periodontics/roccuzzo-2022-implants-periodontitis-history-20year-prospective]] — companion 20-year prospective cohort from the same patient pool examining periodontitis history as a risk factor; same implants, different exposure variable
+- [[implants/soft-tissue/tavelli-2025-soft-tissue-dehiscences-implant-sites-ao-aap]] — AO/AAP position paper on soft-tissue dehiscences at implant sites; this cohort's 100% dehiscence rate in AM group provides a direct clinical anchor
+- [[implants/soft-tissue/thoma-2018-soft-tissue-augmentation-periimplant-health]] — SR showing KM augmentation improves peri-implant health; this 20-year cohort is the highest-quality longitudinal evidence corroborating that SR
+- [[implants/survival/roccuzzo-2022-implants-periodontitis-history-20year-prospective]] — companion 20-year prospective cohort from the same patient pool examining periodontitis history as a risk factor; same implants, different exposure variable

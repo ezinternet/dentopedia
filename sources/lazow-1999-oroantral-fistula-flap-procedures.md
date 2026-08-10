@@ -13,13 +13,21 @@ source_collection: external
 
 구강상악동루 (Oroantral Fistula, OAF) 의 외과적 폐쇄 술식 전반을 체계적으로 정리한 고전 기술 리뷰로, 기존 OMS 클러스터 [[wiki/oral-medicine/psillas-2020-odontogenic-maxillary-sinusitis-comprehensive-review]] 및 [[wiki/oral-medicine/lin-2024-odontogenic-maxillary-sinusitis-expert-consensus]]가 다루는 치성 상악동염의 원인·관리에서 결손부 폐쇄 술기 선택의 실제(buccal flap 크기 기준, palatal island flap 적응증, tongue/temporalis 원거리 피판 기준)가 빠져 있는 공백을 보완.
 
-## One-line Summary
+## Three-line Summary
 
 Narrative review (1999) of oroantral fistula (OAF) closure techniques covering buccal sliding flap, buccal fat pad, palatal rotation/island flap, tongue flap, temporalis flap, and alloplastic grafts, with a 4-step size-based protocol: acute primary repair ~95% success vs chronic secondary repair as low as 67%.
 
-## 한줄요약
+(incomplete)
 
-서사 리뷰(1999) — 구강상악동루 (Oroantral Fistula, OAF) 폐쇄 술식(협측 활주 피판, 협지방체 이식, 구개 회전/도서 피판, 설 피판, 측두근 피판, 동종이식재) 전반 정리; 급성 1차 수복 성공률 ~95% 대 만성 2차 수복 최저 67%, 결손 크기 기반 4단계 프로토콜 제시.
+(incomplete)
+
+## 세줄요약
+
+서사 리뷰(1999) — 구강상악동루 (Oroantral Fistula, OAF) 폐쇄 술식(협측 활주 피판, 협지방체 이식, 구개 회전/도서 피판, 설 피판, 측두근 피판, 동종이식재) 전반 정리;
+
+급성 1차 수복 성공률 ~95% 대 만성 2차 수복 최저 67%, 결손 크기 기반 4단계 프로토콜 제시.
+
+(incomplete)
 
 ## 1. Document Information
 

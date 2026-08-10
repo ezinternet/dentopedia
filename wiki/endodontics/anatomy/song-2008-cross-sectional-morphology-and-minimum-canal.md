@@ -5,7 +5,7 @@ year: 2008
 doi: ""
 date: 2008-01-01
 source: song-2008-cross-sectional-morphology-and-minimum-canal.md
-confidence: cross-sectional
+evidence_level: cross-sectional
 category: [endodontics/anatomy]
 pdf_path: /Users/oracleneo/llm-wiki/papers/song-2008-cross-sectional-morphology-and-minimum-canal.pdf
 pdf_filename: song-2008-cross-sectional-morphology-and-minimum-canal.pdf
@@ -14,11 +14,21 @@ tags: [C-shaped-canal, root-canal-anatomy, cross-sectional-analysis, mandibular-
 ---
 
 
-## One-line Summary
-Cross-sectional anatomical morphology study of C-shaped canals in mandibular molars (30–50% prevalence in Asian populations): the canal wall lies very close to the external root surface at the buccal concavity/central-C groove, leaving minimum dentin thickness and high perforation risk, so conservative, anatomy-adapted instrumentation is required.
+## Three-line Summary
 
-## 한줄요약
-C형 근관 아시아인 30–50% 유병률; 협측 오목부 최소 상아질 두께 → 천공 고위험; 보존적 기구조작 필수
+Cross-sectional anatomical study of C-shaped canals in mandibular molars: in Asian populations prevalence reaches 30–50%, with the canal configuration changing continuously from coronal (true C-shape) to middle and apical thirds, where separate or partially connected patterns may emerge.
+
+At the buccal concavity and the central C groove the canal wall approaches the external root surface with critically thin dentin (minimum ~0.26 mm at the lingual aspect), creating high strip-perforation risk that standard lateral-compaction instrumentation cannot safely accommodate.
+
+Clinical implication: treatment must use conservative, anatomy-adapted shaping (accept undersized files in danger zones, continuous-wave obturation preferred over lateral condensation) and pre-treatment CBCT or multiple-angle radiographs to map the danger zones before instrumentation.
+
+## 세줄요약
+
+하악 대구치 C-shaped 근관 해부 횡단면 연구: 아시아인 유병률 30–50%; 근관 형태가 치관부(진성 C형)→중간·근단부로 갈수록 연속적으로 변함(분리형·부분 연결형).
+
+협측 오목부와 중심 C 홈에서 근관벽이 외벽에 매우 근접(설측 최소 약 0.26 mm) → 스트립 천공 고위험; 일반 측방 가압 기구조작 불가.
+
+임상 의미: 위험 구역에서는 소사이즈 파일 수용·연속파 충전 선호; 기구조작 전 CBCT 또는 다각도 방사선으로 위험 구역 사전 파악 필수.
 
 # C-Shaped Canal Anatomy: Morphology and Safety Margins
 

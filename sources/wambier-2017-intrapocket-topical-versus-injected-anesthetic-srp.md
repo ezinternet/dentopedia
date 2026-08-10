@@ -13,11 +13,21 @@ source_collection: external
 
 기존 국소마취 페이지는 발치·근관(IANB·BI) 통증 위주였고, 치주 SRP(scaling and root planing) 중 intrapocket 표면마취(Oraqix류 gel) vs 주사마취의 통증 비교 SR+MA가 없었다. 본 SR+MA는 위생사 주도 SRP의 마취 선택(표면 vs 주사) 임상결정 근거를 제공하고, [[local-anesthesia/khongkhunthian-2018-anesthetic-rice-nanogel-pain-reduction]]의 표면마취 효능 라인을 치주 술식 맥락으로 확장한다.
 
-## One-line Summary
+## Three-line Summary
+
 SR+MA (6 RCTs from 976 screened): for SRP in adults, injected anesthetic produced lower pain intensity (P=.03) and required less rescue anesthetic (P<.0001) than intrapocket topical gel, but the risk of developing pain and patient preference were similar.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 SR+MA(976편 중 6 RCT): 성인 SRP에서 주사마취가 intrapocket 표면마취 겔보다 통증 강도 낮고(P=.03) rescue 마취 필요 적었으나(P<.0001), 통증 발생 위험·환자 선호는 유사.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - Journal: JADA (Journal of the American Dental Association). 2017; 148(11):814-824.E2, November 2017

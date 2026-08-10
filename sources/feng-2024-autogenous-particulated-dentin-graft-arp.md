@@ -9,8 +9,21 @@ pdf_filename: feng-2024-autogenous-particulated-dentin-graft-arp.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Systematic review + meta-analysis of 10 RCTs (n = 182 patients) comparing autogenous particulated dentin (APD) against blood clot healing (BCH) or other grafted materials (OGM) for alveolar ridge preservation (ARP); APD better maintained horizontal ridge width (MD 1.61 mm vs BCH; 1.28 mm vs OGM) and labial bone height (MD 1.75 mm vs BCH), with higher vital bone area (MD +10.51%) and lower residual graft area (MD -8.76%) versus OGM.
+## Three-line Summary
+
+Systematic review and meta-analysis evaluating efficacy of autogenous particulated dentin (APD) for alveolar ridge preservation (ARP) following tooth extraction published in Medicine (Baltimore) (2023). Searched MEDLINE, Embase, Web of Science, Scopus, and Cochrane Library through August 2023 for randomized controlled trials. Analyzed 10 RCTs representing 182 total patients. PROSPERO registration CRD42023409339. Applied PRISMA reporting framework and GRADE quality assessment.
+
+Autogenous particulated dentin better preserved horizontal ridge width compared to blood clot healing control (mean difference 1.61 mm, 95% CI favorable) and versus other grafted materials including DBBM and β-TCP (mean difference 1.28 mm). Labial bone height preservation superior with APD versus blood clot healing (MD 1.75 mm). Histomorphometric analysis showed APD produced higher vital bone percentage (MD +10.51%) with lower residual graft area (MD −8.76%) compared to other materials, indicating more complete integration and resorption. Secondary outcomes (primary stability quotient at re-entry, postoperative complications) showed no significant between-group differences.
+
+Small evidence base (10 RCTs, 182 patients) with heterogeneous APD preparation protocols (demineralization, particle size variation) limits meta-analysis strength. Some studies lacked long-term radiographic follow-up beyond 6 months. Cost-effectiveness and clinical superiority versus simpler blood clot healing approach require larger prospective trials. Autogenous dentin represents promising biologically active scaffold with physiologic resorption kinetics.
+
+## 세줄요약
+
+치아발거 후 치조제 보존(ARP) 시 자가 분쇄 상아질(APD) 효과 SR+MA (Medicine 2023). MEDLINE·Embase·Web of Science·Scopus·Cochrane 검색(~8월 2023). 10개 RCT, 182명 환자. PROSPERO CRD42023409339, PRISMA, GRADE.
+
+APD가 혈괴 대비 수평 치조제 폭 보존 우수(MD 1.61 mm) 및 다른 이식(DBBM·β-TCP) 대비(MD 1.28 mm). 협측 골 높이 혈괴 대비 우수(MD 1.75 mm). 조직형태학: 생활 골 비율↑(+10.51%), 잔여 이식↓(−8.76%), 완전 통합·흡수.
+
+소규모 근거(10 RCT, 182명), APD 준비 이질(demineralization·입자크기) MA 강도 제약. 6개월 이상 추적 부족 연구 다수. 혈괴 대비 비용효과·임상 우위 대규모 전향적 시험 필요. APD는 생물학적 활성 유망 스캐폴드·생리적 흡수.
 
 ## 1. Document Information
 - **Journal**: Medicine (Baltimore) 2023;102(48):e36391

@@ -6,20 +6,20 @@ date: 2015-06-01
 doi: "10.1159/000433435"
 source: barac-2015-erosive-effect-soft-drinks-enamel-profilometry.md
 category: [dental-erosion]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/barac-2015-erosive-effect-soft-drinks-enamel-profilometry.pdf
 pdf_filename: barac-2015-erosive-effect-soft-drinks-enamel-profilometry.pdf
 source_collection: external
 tags: [dental-erosion, soft-drinks, profilometry, pH, titratable-acidity, enamel-roughness, in-vitro]
 ---
 
-## One-line Summary
+## Three-line Summary
 In-vitro stylus profilometry study (n = 96 enamel specimens, 10-day/30-immersion acid challenge)
 showing Coca-Cola (pH 2.67) is most erosive at short exposure (15 min Ra 1.49 μm) while orange
 juice (pH 3.73, TA 5.70 mL NaOH) equals it at 30–60 min; strawberry yoghurt (pH 4.21) causes
 no significant erosion due to calcium/phosphate saturation.
 
-## 한줄요약
+## 세줄요약
 In-vitro 연구 (n=96, 10일): Coca-Cola(pH 2.67)가 단기 침식 1위, 오렌지주스(pH 3.73, 높은
 적정산도)는 장기 노출 시 동등 침식; 딸기요구르트(pH 4.21)는 Ca/P 포화로 침식 없음 —
 pH 외 적정산도가 중요한 침식 예측 지표.

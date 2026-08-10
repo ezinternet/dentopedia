@@ -6,7 +6,7 @@ date: 2026-04-15
 doi: 10.1016/j.jdent.2026.106703
 source: garcia-miralles-2026-sdf-cavitated-primary-molars-sr.md
 category: [caries]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/garcia-miralles-2026-sdf-cavitated-primary-molars-sr.pdf
 pdf_filename: garcia-miralles-2026-sdf-cavitated-primary-molars-sr.pdf
 source_collection: external
@@ -16,13 +16,19 @@ relations:
     target: zheng-2025-silver-diamine-fluoride-vs-varnish-caries-prevention-rct
 ---
 
-## One-line Summary
+## Three-line Summary
+Systematic review of RCTs (PRISMA 2020, 2 eligible trials, n=649 lesions and 1,668 children, qualitative synthesis only) comparing SDF versus conventional restorative treatments for cavitated dentinal caries in primary molars aged ≤12 years.
 
-Systematic review of RCTs (2 eligible trials, no quantitative pooling) finding that silver diamine fluoride (SDF) may yield favourable short-term (≤12 mo) caries-arrest and treatment-failure outcomes for cavitated dentinal lesions in primary molars versus conventional restorative treatment — but randomised evidence is limited.
+SDF significantly improved caries arrest vs GIC at ≤12 months (RR 1.57, 95% CI 1.13–2.17, GRADE low) and reduced treatment failure vs ART (RR 0.85, 95% CI 0.78–0.94, GRADE moderate).
 
-## 한줄요약
+SDF is a viable minimally invasive option especially for uncooperative children and community programmes, but evidence is thin (only 2 RCTs, ≤12 mo follow-up) and long-term RCTs are needed.
 
-RCT 체계적 문헌고찰(적격 시험 2편, 정량 통합 불가): 유구치의 와동성 상아질 우식에서 silver diamine fluoride (SDF, 은 다이아민 불화물)가 전통적 수복 대비 12개월 이내 단기 우식정지·실패율에서 유리할 수 있으나 무작위 근거는 제한적.
+## 세줄요약
+PRISMA 2020 SR (적격 RCT 2편, 649병소·1,668명 대상, 정량 통합 불가): 유구치 와동성 상아질 우식에서 SDF vs 전통 수복(GIC/ART) 비교.
+
+12개월 우식정지 SDF > GIC (RR 1.57, CI 1.13–2.17, GRADE 낮음); 치료실패율 SDF < ART (RR 0.85, CI 0.78–0.94, GRADE 중간).
+
+비삭제·무마취로 비협조 아동·공중보건 프로그램에 적합하나 RCT 2편·12개월 이하의 제한적 근거로 동등성 확립에는 장기 RCT 필요.
 
 ## Summary
 

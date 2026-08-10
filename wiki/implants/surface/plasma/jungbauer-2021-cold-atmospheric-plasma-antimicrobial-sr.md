@@ -6,20 +6,28 @@ date: 2021-02-19
 doi: 10.3390/antibiotics10020211
 source: jungbauer-2021-cold-atmospheric-plasma-antimicrobial-sr.md
 category: [implants/surface/plasma]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/jungbauer-2021-cold-atmospheric-plasma-antimicrobial-sr.pdf
 pdf_filename: jungbauer-2021-cold-atmospheric-plasma-antimicrobial-sr.pdf
 source_collection: external
 tags: [plasma, antimicrobial, biofilm, oral-pathogens, time-dependent, in-vitro]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR of in-vitro studies (55 included, quality 31–92%): CAP is antimicrobial against dental pathogens with reduction factors that cluster by pathogen, working gas, and treatment time; a time-dependent increase of effect is consistent, but heterogeneity precludes a recommended protocol.
+Systematic review of in-vitro studies (PubMed, Embase, Scopus; 55 studies included, methodological quality 31–92%) examining CAP's antimicrobial effect against dental pathogens with standardized parameter extraction.
 
-## 한줄요약
+CAP consistently reduced dental pathogen viability across studies; reduction factors clustered by pathogen type, working gas, and treatment time, with a time-dependent increase in antimicrobial effect being the most consistent finding.
 
-in vitro SR(55편, 품질 31–92%): CAP는 구강 병원균에 항균적이며 감소폭이 병원균·작동가스·처리시간별로 군집, 시간의존적 증가가 일관됨. 이질성으로 프로토콜 권고는 불가.
+High heterogeneity across device types, gases, and exposures precludes any specific protocol recommendation; multi-species biofilm models representative of clinical conditions are lacking.
+
+## 세줄요약
+
+줄1: in vitro 체계적 문헌고찰(PubMed·Embase·Scopus; 55편, 방법론적 품질 31–92%): 구강 병원균 대상 CAP 항균 효과, 표준화 파라미터 추출.
+
+줄2: 전 연구에서 CAP가 구강 병원균 생존율 감소; 감소폭은 병원균·작동가스·처리시간에 따라 군집, 시간의존적 효과 증가가 가장 일관된 소견.
+
+줄3: 장치·가스·노출 이질성이 높아 특정 프로토콜 권고 불가; 임상 환경을 반영하는 다균종 바이오필름 모델 부재.
 
 ## Summary
 

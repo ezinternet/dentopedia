@@ -13,11 +13,21 @@ source_collection: external
 
 [[wiki/sinus-lift/transcrestal/guo-2020-non-grafted-platelet-concentrations-grafted-transcrestal-sinus]]에서 PRP·PRF와 Bio-Oss 비교는 있으나 CGF(concentrated growth factor) 조합은 없음. 본 연구는 RBH ≤5mm에서 Bio-Oss Collagen+CGF vs Bio-Oss alone vs no-graft 3군 직접 비교로 이식재 선택 근거를 보강.
 
-## One-line Summary
+## Three-line Summary
+
 Prospective study (n=126 implants, 123 patients) showing Bio-Oss Collagen + CGF outperforms no-graft and Bio-Oss alone in OSFE for RBH ≤5 mm: ISR 96%, less MBL, lower pain.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 전향적 연구(126임플란트, 123환자): RBH ≤5mm OSFE에서 Bio-Oss Collagen+CGF 조합이 무이식·Bio-Oss 단독 대비 골이득·환자 만족도 우수, 생존율 96%.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - **Journal**: BMC Oral Health 2024;24:1515

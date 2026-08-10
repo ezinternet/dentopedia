@@ -10,8 +10,21 @@ pdf_filename: tomar-2025-cement-vs-screw-zirconia-crown-sr-ma.pdf
 source_collection: external
 ---
 
-## One-line Summary
-SR+MA (7 studies, 334 zirconia implant crowns, 3–10 yr): screw-retained significantly lower MBL at 6 months (SMD -0.63); long-term MBL comparable; SR crowns had 46% lower complication risk overall.
+## Three-line Summary
+
+SR+MA (7 studies, 334 zirconia implant crowns, 3–10 yr): screw-retained significantly lower MBL at 6 months (SMD -0.63)
+
+long-term MBL comparable
+
+SR crowns had 46% lower complication risk overall.
+
+## 세줄요약
+
+체계적 고찰 및 메타분석 (SR+MA) (7 studies, 334 zirconia implant crowns, 3–10 yr): screw-retained significantly lower MBL at 6 months (SMD -0.63)
+
+long-term MBL comparable
+
+SR crowns had 46% lower complication risk overall.
 
 ## 1. Document Information
 - **Type**: Systematic review + meta-analysis

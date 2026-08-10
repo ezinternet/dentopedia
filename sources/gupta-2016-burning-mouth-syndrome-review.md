@@ -9,8 +9,21 @@ pdf_filename: gupta-2016-burning-mouth-syndrome-review.pdf
 source_collection: external
 ---
 
-## One-line Summary
-BMS 정의, 역학, 병인론, 진단 및 치료 개요를 포괄하는 기초 고찰.
+## Three-line Summary
+
+BMS 정의, 역학,
+
+병인론, 진단 및
+
+치료 개요를 포괄하는 기초 고찰.
+
+## 세줄요약
+
+BMS 정의, 역학,
+
+병인론, 진단 및
+
+치료 개요를 포괄하는 기초 고찰.
 
 ## 1. Document Information
 - **Title**: Burning mouth syndrome: a chronic pain disorder
@@ -36,7 +49,7 @@ BMS 병인은 다인성; 신경병증 + 심리적 요인. Alpha-lipoic acid는 �
 소규모 연구 다수; 표준화 부족.
 
 ## 6. Related Work
-- [[oral-medicine/canfora-2025-burning-mouth-syndrome-pathogenesis-review]] — related
+- [[oral-medicine/burning-mouth-syndrome/canfora-2025-burning-mouth-syndrome-pathogenesis-review]] — related
 
 ## 7. Glossary
 alpha-lipoic acid: 알파리포산(신경보호 항산화제); BMS type 1/2/3: Lamey 분류

@@ -8,7 +8,7 @@ pmid: "41833582"
 pmcid: "PMC13000699"
 source: lazaro-2026-laser-activated-irrigation-endodontics-umbrella.md
 category: endodontics/irrigation
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 text_path: /Users/oracleneo/llm-wiki/papers/lazaro-2026-laser-activated-irrigation-endodontics-umbrella.txt
@@ -16,13 +16,21 @@ text_filename: lazaro-2026-laser-activated-irrigation-endodontics-umbrella.txt
 tags: [laser-activated-irrigation, PIPS, erbium-laser, Er-YAG, Er-Cr-YSGG, Nd-YAG, diode-laser, NaOCl, endodontic-irrigation, umbrella-review, AMSTAR2, apical-periodontitis]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Umbrella SR of 9 systematic reviews on laser-activated irrigation (LAI) in endodontics finds erbium lasers (Er:YAG, Er,Cr:YSGG) most consistently beneficial for canal decontamination, diode lasers for postoperative pain, Nd:YAG risky for microcrack formation, with overall evidence quality predominantly low to critically low.
+Umbrella systematic review (PROSPERO CRD42025599352) of 9 systematic reviews identified from 319 initial records on laser-activated irrigation (LAI) across all major laser systems in clinical endodontics — the first umbrella review for this modality.
 
-## 한줄요약
+Erbium lasers (Er:YAG 2940 nm, Er,Cr:YSGG 2780 nm) showed the most consistent evidence for enhanced canal decontamination via photoacoustic/cavitation mechanisms, diode lasers (810–980 nm) provided clinically useful postoperative pain reduction (first 48–72 h) via photobiomodulation, and Nd:YAG (1064 nm) carries a significant microcrack risk at high-energy settings; however, erbium LAI was not consistently superior to passive ultrasonic irrigation (PUI).
 
-레이저 활성화 세정(LAI)에 관한 9개 체계적 문헌고찰의 Umbrella SR: 에르븀 레이저가 근관 살균에 가장 일관적 효과, 다이오드 레이저는 술후 통증 감소, Nd:YAG는 미세균열 위험, 전체 근거 질은 낮음~매우 낮음.
+AMSTAR 2 quality assessment revealed only 1 of 9 included SRs as high quality (4 critically low), and rapid clinical adoption has outpaced the evidence base — LAI remains an adjunct with potential but unproven definitive benefit requiring high-quality RCTs with standardized parameters.
+
+## 세줄요약
+
+레이저 활성화 세정(LAI)에 관한 319편에서 선별된 9개 체계적 문헌고찰의 첫 Umbrella SR(PROSPERO CRD42025599352).
+
+에르븀 레이저(Er:YAG 2940 nm·Er,Cr:YSGG 2780 nm)는 광음향·공동화 메커니즘으로 근관 소독에 가장 일관적 근거; 다이오드 레이저(810–980 nm)는 광생체조절로 48–72시간 술후 통증 감소; Nd:YAG(1064 nm)는 고에너지 설정 시 미세균열 위험 — 에르븀 LAI도 PUI 대비 일관된 우월성 없음.
+
+포함 SR 9편 중 AMSTAR 2 고품질은 1편뿐(매우낮음 4편) — 임상 도입이 근거를 앞서나가고 있으며 LAI는 확정적 이득 아직 미입증, 표준화된 파라미터의 고품질 RCT 필요.
 
 ## Summary
 

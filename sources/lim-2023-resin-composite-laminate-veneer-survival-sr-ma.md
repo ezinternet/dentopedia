@@ -13,13 +13,21 @@ source_collection: external
 
 레진 복합재 라미네이트 비니어의 생존율에 대한 체계적 SR+MA가 부재하여 세라믹 비니어와의 비교 근거를 보완하기 위해 인제스트. [[veneers/klein-2025-ceramic-laminate-veneer-survival-complications-sr-ma]]에서 다루는 세라믹 비니어 생존율과 직접 대비되는 레진 계열 근거를 제공한다.
 
-## One-line Summary
+## Three-line Summary
 
 SR+MA of 7 studies (3 RCTs + 4 cohorts): resin composite laminate veneers showed 88% overall pooled survival rate (mean follow-up 24–97 months), with direct veneers outperforming indirect (91% vs 84%).
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 7편 연구(RCT 3 + 코호트 4) SR+MA: 레진 복합재 라미네이트 비니어 생존율 88%(추적관찰 24–97개월), 직접법(91%)이 간접법(84%)보다 우수.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

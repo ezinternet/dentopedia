@@ -18,13 +18,21 @@ Mechanism-level review of how *Streptococcus mutans* — the keystone cariogenic
 
 **Note: abstract-only — full text not retrieved (no PMC OA).** Content below is at abstract level.
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review (Crit Rev Microbiol 2025) of *S. mutans* collagen-binding proteins (SpaP, WapA, Cnm, Cbm) and their mechanobiology, characterized by AFM single-molecule (SMFS) and single-cell (SCFS) force spectroscopy, as drivers of dentin/ECM adhesion, coaggregation, virulence, and as targets for anti-biofilm caries prevention.
+Narrative review (Crit Rev Microbiol 2025) of *S.
 
-## 한줄요약
+mutans* collagen-binding proteins (SpaP, WapA, Cnm, Cbm) and their mechanobiology, characterized by AFM single-molecule (SMFS) and single-cell (SCFS) force spectroscopy, as drivers of dentin/ECM adhesion, coaggregation, virulence, and as targets for anti-biofilm caries prevention.
 
-서술적 리뷰 (Crit Rev Microbiol 2025) — 우식 핵심균 *S. mutans*의 콜라겐 결합 단백질(SpaP·WapA·Cnm·Cbm)이 상아질·세포외기질 부착, 응집, 병원성을 일으키는 역학생물학(mechanobiology)을 원자간력현미경 기반 단분자(SMFS)·단세포(SCFS) 힘분광법으로 규명하고, 이를 항-바이오필름 우식 예방 표적으로 제시.
+(incomplete)
+
+## 세줄요약
+
+서술적 리뷰 (Crit Rev Microbiol 2025) — 우식 핵심균 *S.
+
+mutans*의 콜라겐 결합 단백질(SpaP·WapA·Cnm·Cbm)이 상아질·세포외기질 부착, 응집, 병원성을 일으키는 역학생물학(mechanobiology)을 원자간력현미경 기반 단분자(SMFS)·단세포(SCFS) 힘분광법으로 규명하고, 이를 항-바이오필름 우식 예방 표적으로 제시.
+
+(incomplete)
 
 ## 1. Document Information
 

@@ -13,13 +13,21 @@ source_collection: external
 
 [[wiki/endodontics/diagnosis/karamifar-2020-endodontic-periapical-lesion-an-overview]]는 근단 방사선투과상(periapical radiolucency)이 비치성(non-endodontic) 병변일 수 있음을 일반론으로 다루지만, 악성 종양이 치근단 농양(periapical abscess)을 모방한 구체적 증례가 부족했다. 본 증례보고(Yamamoto-Silva 2017)는 생활치(vital pulp)에 동반된 근단 방사선투과상·치주인대강 확대가 실제로는 연골모세포성 골육종(chondroblastic osteosarcoma)이었던 사례로, 근관치료 전 비치성 악성 종양을 감별진단에 포함해야 함을 보강한다. 방사선학적으로는 [[wiki/radiology/mortazavi-2016-lesions-associated-with-periodontal-ligament]]의 PDL 확대 감별진단 목록(골육종 포함)을 임상 증례로 실증한다.
 
-## One-line Summary
+## Three-line Summary
 
 Case report (J Appl Oral Sci 2017): an 18-year-old male with a periapical radiolucency, PDL widening, and lamina dura loss at vital teeth #29/#30/#31 — initially suspected periapical abscess — was ultimately diagnosed by incisional biopsy as chondroblastic osteosarcoma, underscoring that non-endodontic malignancies must be in the differential of periapical lesions.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 증례보고(J Appl Oral Sci 2017): 18세 남성에서 생활치 #29/#30/#31에 근단 방사선투과상·치주인대강 확대·치조백선(lamina dura) 소실이 보여 처음에는 치근단 농양으로 의심했으나, 절개생검 결과 연골모세포성 골육종으로 확진된 사례 — 근단병소 감별진단에 비치성 악성 종양을 반드시 포함해야 함을 보여준다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

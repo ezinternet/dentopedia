@@ -10,8 +10,21 @@ pdf_filename: kim-2000-dental-patients-systemic-disease-general-hospital.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Retrospective chart review at 분당제생병원 (Pundang Jesaeng Hospital DMC) OMFS dept, Jan–Dec 1999: 3,506 dental outpatients reviewed, 427 (12.2%) had a systemic disease — hypertension most common, followed by diabetes, heart disease, and liver disease; periodontitis the most common dental diagnosis; 114 internal medicine consultations; 4 severe complications including 1 death (toxic hepatitis post-extraction in a liver-disease elderly patient under GA) and 1 prolonged gingival bleeding in a warfarinized patient after scaling/root planing without baseline coagulation workup.
+## Three-line Summary
+
+Retrospective chart review at 분당제생병원 (Pundang Jesaeng Hospital DMC) OMFS dept, Jan–Dec 1999: 3,506 dental outpatients reviewed, 427 (12.2%) had a systemic disease — hypertension most common, followed by diabetes, heart disease, and liver disease
+
+periodontitis the most common dental diagnosis
+
+114 internal medicine consultations; 4 severe complications including 1 death (toxic hepatitis post-extraction in a liver-disease elderly patient under GA) and 1 prolonged gingival bleeding in a warfarinized patient after scaling/root planing without baseline coagulation workup.
+
+## 세줄요약
+
+Retrospective chart review at 분당제생병원 (Pundang Jesaeng Hospital DMC) OMFS dept, Jan–Dec 1999: 3,506 dental outpatients reviewed, 427 (12.2%) had a systemic disease — hypertension most common, followed by diabetes, heart disease, and liver disease
+
+periodontitis the most common dental diagnosis
+
+114 internal medicine consultations; 4 severe complications including 1 death (toxic hepatitis post-extraction in a liver-disease elderly patient under GA) and 1 prolonged gingival bleeding in a warfarinized patient after scaling/root planing without baseline coagulation workup.
 
 ## 1. Document Information
 
@@ -20,7 +33,7 @@ Retrospective chart review at 분당제생병원 (Pundang Jesaeng Hospital DMC) 
 - **Type**: Original article, retrospective chart review + questionnaire study
 - **Study period**: January 1999 – December 1999
 - **n**: 3,506 dental outpatients screened; 427 with documented systemic disease (12.2%)
-- **Year of publication**: [추정] ~2000 based on data collection period; exact year/issue not visible in the OCR'd images.
+- **Year of publication**: [미검증] ~2000 based on data collection period; exact year/issue not visible in the OCR'd images.
 
 ## 2. Key Contributions
 
@@ -45,7 +58,7 @@ The paper then frames recommendations for routine pre-treatment history taking, 
 
 ## 4. Key Results and Benchmarks
 
-[근거강함] (from the retrospective data tabulated in the paper):
+[확인] (from the retrospective data tabulated in the paper):
 
 | Item | Value |
 |---|---|

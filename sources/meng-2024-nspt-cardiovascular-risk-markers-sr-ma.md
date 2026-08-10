@@ -9,8 +9,21 @@ pdf_filename: meng-2024-nspt-cardiovascular-risk-markers-sr-ma.pdf
 source_collection: external
 ---
 
-## One-line Summary
-SR+MA of 21 RCTs: NSPT significantly reduces CRP, IL-6, and SBP (moderate certainty); no significant effect on LDL, HDL, TC, TG, or DBP.
+## Three-line Summary
+
+SR+MA of 21 RCTs: NSPT significantly reduces
+
+CRP, IL-6, and SBP (moderate certainty); no
+
+significant effect on LDL, HDL, TC, TG, or DBP.
+
+## 세줄요약
+
+SR+MA of 21 무작위 대조 시험 (RCT)s: NSPT 유의미한 (Significant)ly reduces
+
+CRP, IL-6, and SBP (moderate certainty); no
+
+유의미한 (Significant) effect on LDL, HDL, TC, TG, or DBP.
 
 ## 1. Document Information
 - **Journal**: BMC Oral Health 2024; 24: 692

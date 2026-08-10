@@ -13,13 +13,21 @@ source_collection: external
 
 Morimoto 2016 SR+MA (장석계/글래스세라믹만 포함)의 후속 근거로, 리튬 디실리케이트(LDS)와 지르코니아를 포함한 최신 4가지 세라믹 소재별 생존율 및 합병증 비율을 비교함. [[veneers/morimoto-2016-feldspathic-glass-ceramic-veneer-survival-sr-ma]] 대비 더 넓은 소재 범위와 단기/중기/장기 시점별 분류를 제공하여 임상적 소재 선택에 직접적인 근거를 제시.
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 29 studies (7,753 veneers, 986 patients): LDS shows highest survival (96.81%) and lowest complication rates at 10.4 years; feldspathic and LRGC comparable in survival but higher complication rates; zirconia 100% at 2.6 years (insufficient long-term data).
+SR+MA of 29 studies (7,753 veneers, 986 patients): LDS shows highest survival (96.81%) and lowest complication rates at 10.4 years;
 
-## 한줄요약
+feldspathic and LRGC comparable in survival but higher complication rates;
 
-SR+MA (29편, 7,753개 비니어): LDS 생존율 96.81%로 최고, 장석계·LRGC와 생존율은 유사하나 합병증 훨씬 낮음; 지르코니아 2.6년 100% 생존(장기 데이터 부족).
+zirconia 100% at 2.6 years (insufficient long-term data).
+
+## 세줄요약
+
+SR+MA (29편, 7,753개 비니어): LDS 생존율 96.81%로 최고, 장석계·LRGC와 생존율은 유사하나 합병증 훨씬 낮음;
+
+지르코니아 2.6년 100% 생존(장기 데이터 부족).
+
+(incomplete)
 
 ## 1. Document Information
 

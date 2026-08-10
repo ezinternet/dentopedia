@@ -6,20 +6,28 @@ date: 2020-06-25
 doi: 10.3390/jcm9061994
 source: llena-2020-outcome-root-canal-treatments-provided.md
 category: [endodontics/irrigation]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/llena-2020-outcome-root-canal-treatments-provided.pdf
 pdf_filename: llena-2020-outcome-root-canal-treatments-provided.pdf
 source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective study (585 teeth, 1–6 yr follow-up) of primary RCT by endodontic postgraduates: preoperative periapical/periodontal status and especially the quality of the coronal restoration governed complete periapical healing (overall ~90.9% healing).
+Retrospective observational study (University of Valencia, 2013–2018) of 585 teeth receiving primary root canal treatment by supervised endodontic postgraduate students, with 1–6 years of follow-up using ESE healing criteria.
 
-## 한줄요약
+Overall complete periapical healing was ~90.9% (532/585); preoperative factors predicting failure included periapical lesion size (healing: 97.4% no radiolucency → 86.2% for 1–4 mm → 47.1% for >4 mm), periodontal probing depth ≥4 mm, and serving as a bridge abutment; the only independent postoperative predictor retained in multivariable analysis was the fit of the coronal restoration.
 
-대학원 수련의가 시행한 1차 근관치료 585개 치아(1~6년 추적) 후향연구 — 술전 치근단·치주 상태와 특히 최종 보철수복(coronal restoration)의 적합도가 완전 치유를 좌우했고, 전체 치유율은 약 90.9%였다.
+The dominant clinical implication is that endodontic and restorative success are tightly coupled — achieving a technically sound root canal means little without an adequate coronal seal, and large preoperative periapical lesions carry a dramatically worse prognosis that persists regardless of irrigant or technique choices.
+
+## 세줄요약
+
+대학원 수련의가 시행한 1차 근관치료 585개 치아(발렌시아대, 2013–2018, 추적 1–6년) 후향 관찰연구.
+
+전체 완전 치유율 약 90.9%(532/585); 술전 치근단 병소 크기(97.4% 무병변 → 47.1% >4mm), 탐침 깊이 ≥4mm, 가공의치 지대치 여부가 예후에 영향; 다변량 분석에서 독립적 술후 예측인자는 코로날 수복물의 적합도뿐.
+
+핵심 임상 시사점: 근관치료와 보철 수복은 불가분 — 기술적으로 완벽한 근관치료도 코로날 씰 불량 시 치유 실패하며, 큰 술전 병소는 세정제·기법 선택에 무관하게 치유율을 급격히 저하시킨다.
 
 ## Summary
 
@@ -51,5 +59,5 @@ This retrospective observational study (University of Valencia, 2013–2018) eva
 
 ## Related Papers
 
-- [[endodontics/irrigation/jkda-2025-63-2-005]] — complements canal-disinfection/irrigation evidence; this paper situates disinfection within the broader prognostic picture where coronal seal is decisive.
+- [[endodontics/vpt/jkda-2025-63-2-005]] — complements canal-disinfection/irrigation evidence; this paper situates disinfection within the broader prognostic picture where coronal seal is decisive.
 - [[overviews/endodontic-access-cavity-decision-tree]] — anatomy/access affects debridement quality; this outcome study shows how upstream disinfection and downstream coronal seal jointly determine periapical healing.

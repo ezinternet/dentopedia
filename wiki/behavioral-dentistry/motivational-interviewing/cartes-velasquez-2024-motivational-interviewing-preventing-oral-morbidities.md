@@ -6,18 +6,26 @@ date: 2023-09-05
 doi: 10.1111/cdoe.12904
 source: cartes-velasquez-2024-motivational-interviewing-preventing-oral-morbidities.md
 category: behavioral-dentistry/motivational-interviewing
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/cartes-velasquez-2024-motivational-interviewing-preventing-oral-morbidities.pdf
 pdf_filename: cartes-velasquez-2024-motivational-interviewing-preventing-oral-morbidities.pdf
 source_collection: external
 tags: [motivational-interviewing, periodontal, adult, BoP, plaque-index, RCT]
 ---
 
-## One-line Summary
-SR+MA of MI for adult oral health (7 RCTs, all periodontal): only bleeding on probing reached significance (−6.41 pp); plaque and gingival indices did not — evidence too sparse to conclude MI prevents adult oral morbidities.
+## Three-line Summary
+SR+MA of motivational interviewing (MI) for adult oral health (602 screened → 7 RCTs, all periodontal; subpopulations: periodontitis, pregnant women, mental disorders/alcohol problems).
 
-## 한줄요약
-성인 동기면담(MI) SR+MA — 7편밖에 없고 전부 치주 outcome. BoP만 통계적으로 유의(−6.41pp), plaque/gingival index는 비유의. "성인 oral morbidity 예방에 MI 효과 있다"고 결론 내리기엔 증거 너무 빈약.
+Only bleeding on probing (BoP) reached statistical significance (−6.41 pp, 95% CI −12.18 to −0.65); plaque index (−3.59 pp) and gingival index (−0.70) did not, with confidence intervals crossing null.
+
+The entire adult MI evidence base is limited to periodontal outcomes — no adult caries or implant-maintenance MI trials exist — making it impossible to conclude that MI prevents adult oral morbidities broadly.
+
+## 세줄요약
+성인 구강건강 대상 체계적 문헌고찰 및 메타분석(Systematic Review and Meta-Analysis, SR+MA) — 602편 검색 후 최종 7편 RCT 포함, 전부 치주 결과(치주염·임산부·정신질환/음주 문제 환자 하위집단).
+
+탐침시출혈(Bleeding on Probing, BoP)만 통계적 유의(−6.41pp, 95% CI −12.18~−0.65); 치면세균막지수(Plaque Index, PI)와 치은염지수(Gingival Index, GI)는 신뢰구간이 0에 걸쳐 비유의.
+
+성인 동기면담(Motivational Interviewing, MI) 근거가 치주 결과에만 집중되어, MI가 성인 구강질환 전반을 예방한다는 결론은 도출 불가 — 연구 부족이 핵심 한계.
 
 ## Summary
 This is the adult counterpart to Jahanshahi 2022's pediatric MI SR+MA — and the conclusion is more cautious. Of 602 candidate studies, only 7 met inclusion. All 7 reported periodontal outcomes; no studies on adult caries prevention, implant maintenance, or other oral morbidities qualified. Within periodontal outcomes:

@@ -6,18 +6,26 @@ date: 2024-06-05
 doi: 10.3390/jcm13113330
 source: shely-2024-self-adhesive-cements-zirconia-lithium.md
 category: [dental-materials/zirconia]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/shely-2024-self-adhesive-cements-zirconia-lithium.pdf
 pdf_filename: shely-2024-self-adhesive-cements-zirconia-lithium.pdf
 source_collection: external
 tags: [ZLS, zirconia-reinforced-lithium-silicate, self-adhesive-cement, marginal-adaptation, SEM, IOS, CAD-CAM]
 ---
 
-## One-line Summary
-In vitro SEM study (J Clin Med 2024; CAD/CAM ZLS, zirconia-reinforced lithium silicate, full crowns × 3 self-adhesive resin cements): all three cements produced clinically acceptable marginal gaps (≤120 µm), so cement type had minimal effect on ZLS marginal adaptation.
+## Three-line Summary
+In vitro SEM study (J Clin Med 2024) evaluated marginal adaptation of CAD/CAM-milled zirconia-reinforced lithium silicate (ZLS) full crowns cemented with three different self-adhesive resin cements on IOS-scanned typodont preparations.
 
-## 한줄요약
-in-vitro(J Clin Med 2024): 자가접착형 레진시멘트 3종 × ZLS(지르코니아 강화 리튬실리케이트) 크라운 변연적합 SEM 평가 — 3종 모두 임상 허용 범위; 시멘트 종류가 ZLS 변연간격에 미치는 영향 최소.
+All three self-adhesive resin cements produced clinically acceptable marginal gaps (≤120 µm threshold), with no statistically significant between-cement difference, indicating that cement selection does not compromise ZLS crown marginal fit.
+
+For ZLS restorations, self-adhesive resin cements are validated for marginal adaptation; clinicians may select among available options based on other clinical factors (handling, cost, shade) rather than marginal gap.
+
+## 세줄요약
+in-vitro SEM 연구(J Clin Med 2024): IOS 스캔 타이포돈트에 밀링된 ZLS(지르코니아 강화 리튬실리케이트) 전장 크라운을 자가접착형 레진시멘트 3종으로 합착 후 변연간격 SEM 평가.
+
+3종 모두 임상 허용 기준(≤120 µm) 충족, 시멘트 간 유의차 없음 — 시멘트 종류가 ZLS 변연적합에 미치는 영향 최소.
+
+ZLS 보철물에서 자가접착형 레진시멘트는 변연적합 면에서 검증된 선택이며, 임상의는 취급성·비용·색조 등 다른 기준으로 시멘트를 선택할 수 있다.
 
 ## Summary
 In vitro SEM evaluation of marginal adaptation of CAD/CAM-milled ZLS (zirconia-reinforced lithium silicate, e.g., VITA Suprinity/Celtra Duo type) full crowns cemented with three different self-adhesive resin cements on IOS-scanned typodont teeth. Marginal gap clinically acceptable for all cements; supports use of self-adhesive cements for ZLS without marginal compromise.

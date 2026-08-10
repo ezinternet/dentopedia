@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1111/joor.13915
 journal: J Oral Rehabil 2025;52:587-596
 source: minston-2025-effect-pain-following-botulinum-toxin.md
-confidence: rct
+evidence_level: rct
 category: botulinum-toxin
 pdf_path: /Users/oracleneo/llm-wiki/papers/minston-2025-effect-pain-following-botulinum-toxin.pdf
 pdf_filename: minston-2025-effect-pain-following-botulinum-toxin.pdf
@@ -14,11 +14,21 @@ source_collection: external
 tags: [BTX-A, DC-TMD, jaw-myalgia, pilot-RCT, double-blind, multicentre, days-with-pain, Sweden]
 ---
 
-## One-line Summary
-Swedish double-blind multicentre pilot RCT (n=45; BTX-A n=23 vs saline n=22) in DC/TMD-defined jaw myalgia: a single session of 100 U BTX-A across 14 masseter/temporalis sites did not significantly reduce diary-recorded days with functional jaw pain at 2 months (10.5 vs 14, p=0.585); adverse events were mild and transient in both arms.
+## Three-line Summary
 
-## 한줄요약
-Swedish double-blind pilot RCT (n=45, 6센터) — 100U Botox 단회 주사 후 2개월 시점 기능시 턱통증 일수 14→10.5 (BTX) vs 14→14 (saline), p=0.585, 효과 없음.
+Swedish double-blind multicentre pilot RCT (n=45; BTX-A n=23 vs saline n=22) in 6 specialist clinics, enrolling adults with DC/TMD-defined jaw myalgia (≥3 months); intervention was a single session of 100 U BTX-A distributed across 14 IM sites in bilateral masseter and temporalis.
+
+The novel diary-recorded primary outcome — days with functional jaw pain at 2 months — did not differ significantly between groups (median 10.5 vs 14, p=0.585); adverse events were mild and transient in both arms.
+
+Clinical implication: a single session of 100 U BTX-A should not be expected to meaningfully reduce days with functional jaw pain in jaw myalgia; this null result aligns with Swedish national guidance against BTX-A for myofascial pain and is consistent with the broader SR+MA literature.
+
+## 세줄요약
+
+스웨덴 6개 전문기관 이중맹검 다기관 파일럿 RCT(n=45) — DC/TMD 진단 턱 교근통(≥3개월) 성인에게 단회 100U Botox(14개 교근·측두근 주사 부위) 또는 생리식염수 무작위 배정.
+
+1차 결과인 일기 기록 기반 '기능 시 턱통증 발생일' 2개월 시점 중앙값: BTX-A 10.5일 vs saline 14일(p=0.585, 유의차 없음); 양 군 모두 이상반응 경미·일과성.
+
+임상 의미: 단회 100U BTX-A는 기능시 턱통증 일수를 유의하게 줄이지 못함 — 스웨덴 국가 가이드라인의 "근막통에 BTX-A 불추천"과 일치하며, SR+MA 결론과도 부합; 파일럿이므로 검정력 한계 인정.
 
 ## Summary
 This Swedish multicentre pilot RCT randomized 45 adults with DC/TMD-defined jaw myalgia to a single session of 100 U Botox (BTX-A) or saline placebo across 14 sites in masseter and temporalis. The novel primary outcome — diary-recorded days with functional jaw pain at 2 months — did not differ significantly between groups (p = 0.585). Adverse events were mild and transient in both arms. Authors conclude that a single BTX-A session is not effective for jaw myalgia in this pilot, while leaving open the possibility that a properly powered study might detect efficacy.

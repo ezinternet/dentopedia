@@ -13,13 +13,21 @@ source_collection: external
 
 Extends the fixed-prosthesis/periodontal-health cluster from "where to place the margin" to "what geometry to prepare": horizontal finish lines (chamfer/shoulder) vs the vertical Biologically Oriented Preparation Technique (BOPT). Deep-dives the preparation-design dimension that [[periodontics/srimaneepong-2022-fixed-prosthetic-restorations-periodontal-health]] treats only at the margin-fit level, and gives a mechanistic counterpart to the abutment-tooth inflammation observed in [[periodontics/lamichhane-2025-crown-margins-marginal-adaptation-periodontal]].
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review (112 studies) comparing horizontal preparations (chamfer/shoulder) with the vertical Biologically Oriented Preparation Technique (BOPT); BOPT is associated with greater gingival thickness, stable probing depths (<0.2 mm variation), lower BOP (<10%), and up to 10-year margin stability, but evidence is limited and superiority over horizontal designs is unproven.
+Narrative review (112 studies) comparing horizontal preparations (chamfer/shoulder) with the vertical Biologically Oriented Preparation Technique (BOPT);
 
-## 한줄요약
+BOPT is associated with greater gingival thickness, stable probing depths (<0.2 mm variation), lower BOP (<10%), and up to 10-year margin stability, but evidence is limited and superiority over horizontal designs is unproven.
 
-내러티브 리뷰(112편): 수평 변연(chamfer/shoulder) vs 수직 변연 BOPT 비교. BOPT는 치은 두께 증가·안정적 probing depth(<0.2mm 변화)·낮은 BOP(<10%)·10년까지 변연 안정성과 연관되나, 근거 수준이 제한적이고 우월성은 입증되지 않음.
+(incomplete)
+
+## 세줄요약
+
+내러티브 리뷰(112편): 수평 변연(chamfer/shoulder) vs 수직 변연 BOPT 비교.
+
+BOPT는 치은 두께 증가·안정적 probing depth(<0.2mm 변화)·낮은 BOP(<10%)·10년까지 변연 안정성과 연관되나, 근거 수준이 제한적이고 우월성은 입증되지 않음.
+
+(incomplete)
 
 ## 1. Document Information
 

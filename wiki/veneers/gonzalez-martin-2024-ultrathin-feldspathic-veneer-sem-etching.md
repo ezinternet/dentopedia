@@ -6,20 +6,28 @@ date: 2024-01-23
 doi: 10.11607/prd.6574
 source: gonzalez-martin-2024-ultrathin-feldspathic-veneer-sem-etching.md
 category: [veneers]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/gonzalez-martin-2024-ultrathin-feldspathic-veneer-sem-etching.pdf
 pdf_filename: gonzalez-martin-2024-ultrathin-feldspathic-veneer-sem-etching.pdf
 source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Pilot SEM study (Int J Periodontics Restorative Dent 2024; DOI 10.11607/prd.6574) evaluating HF etching time (0/90/120/150 s; 9.6% HF) on intaglio surface microroughness of ultrathin feldspathic veneers fabricated by platinum foil vs. refractory die techniques; 120 s optimal for platinum foil, 90 s for refractory die, and 150 s confers no additional benefit.
+Pilot SEM in vitro study (Int J Periodontics Restorative Dent 2024) evaluating the effect of 9.6% HF etching time (0, 90, 120, 150 s) on intaglio surface microroughness of ultrathin feldspathic veneers fabricated by two techniques — platinum foil versus refractory die.
 
-## 한줄요약
+Optimal roughness was achieved at 120 s for platinum foil veneers and 90 s for refractory die veneers; extending to 150 s provided no additional benefit in either group and risks over-etching ultrathin ceramics.
 
-파일럿 SEM 연구(2024): 9.6% HF 에칭 시간 비교에서 백금박 기법 초박형 비니어는 120초, 내화 다이 기법은 90초가 최적 내면 미세거칠기를 보임; 150초는 추가 이점 없음.
+This is the first study to demonstrate that fabrication technique creates structurally different intaglio surfaces requiring different HF etching durations — a clinically actionable distinction, though the pilot design (exploratory, no statistical analysis) limits generalization.
+
+## 세줄요약
+
+파일럿 SEM 인비트로 연구 (Int J Periodontics Restorative Dent 2024): 백금박(Platinum Foil) 기법과 내화 다이(Refractory Die) 기법으로 제작한 초박형 장석질 비니어의 내면(Intaglio) 표면에 9.6% HF 에칭 시간(0·90·120·150초) 영향 비교.
+
+백금박 기법은 120초, 내화 다이 기법은 90초에서 최적 미세거칠기 패턴; 150초는 양군 모두 추가 이점 없음 — 과에칭 위험 주의.
+
+제작 기법별로 인타글리오 표면 구조가 달라 최적 에칭 시간이 다르다는 첫 보고이나, 탐색적 설계(통계 분석 없음)로 일반화 제한.
 
 ## Summary
 

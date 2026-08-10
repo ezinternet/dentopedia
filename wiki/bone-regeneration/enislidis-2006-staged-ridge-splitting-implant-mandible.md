@@ -6,7 +6,7 @@ date: 2006-01-01
 doi: ""
 source: enislidis-2006-staged-ridge-splitting-implant-mandible.md
 category: [bone-regeneration]
-confidence: case-report
+evidence_level: case-report
 source_collection: pubmed-text
 full_text: false
 pmid: "16796289"
@@ -21,13 +21,21 @@ relations:
     target: simion-1992-jawbone-enlargement-split-crest-gtr
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Prospective technical note (n=5 patients, 6 sites, 17 implants): a two-stage mandibular ridge-split that predetermines the greenstick-fracture line via a prior buccal corticotomy, keeping the buccal segment periosteally pedicled — all segments fractured as planned and all implants were stable and loaded at 6 months.
+Prospective technical note (n=5 consecutive patients, 6 long-span mandibular sites, 17 implants) describing a two-stage ridge-split where a first-stage buccal corticotomy predetermines the greenstick-fracture line before the ridge is split 40 days later.
 
-## 한줄요약
+All buccal segments fractured exactly along the planned corticotomy, and all 17 implants were stable, bone-surrounded, and loaded with fixed partial dentures at 6 months.
 
-2단계 하악 치조제 분할(prospective 기술노트, 환자 5명·17 임플란트): 협측 corticotomy로 녹색골절 위치를 미리 정하고 40일 치유 후 분할 → 협측 분절을 골막 유경피판으로 유지, 전 분절이 계획대로 골절되고 6개월에 전 임플란트 안정·부하 성공.
+The technique converts an uncontrollable mandibular fracture risk into a planned, periosteally pedicled buccal graft — but the evidence level is limited (small case series, abstract-only, no control arm).
+
+## 세줄요약
+
+전향적 기술노트(연속 5명, 하악 6부위, 17 임플란트): 1단계 협측 피질골절개(corticotomy)로 녹색골절 위치를 미리 결정한 뒤 40일 후 치조제를 분할하는 2단계 술식.
+
+전 협측 분절이 계획된 절개선에서 골절, 17개 임플란트 전부 6개월에 골 둘러싸인 상태로 안정·고정성 보철 부하 성공.
+
+예측 불가한 하악 골절 위험을 계획된 골막 유경 이식편으로 전환하는 개념적 기여가 있으나, 소수 증례·초록만 수집(abstract-only)으로 근거 수준 제한.
 
 ## Summary
 
@@ -55,4 +63,4 @@ Prospective consecutive case series (technical note). 5 patients, 6 long-span ed
 
 - [[bone-regeneration/ayoub-2018-ridge-splitting-horizontal-augmentation-case]] — extends; single-stage ridge-split case that this staged protocol is designed to de-risk.
 - [[bone-regeneration/simion-1992-jawbone-enlargement-split-crest-gtr]] — reinforces; the classic split-crest origin of the deliberate-greenstick concept.
-- [[implants/versah-protocols/guner-2025-osseodensification-ridge-split-implant-stability]] — refines; modern osseodensification-assisted ridge split addressing the same width problem.
+- [[implants/osseodensification/guner-2025-osseodensification-ridge-split-implant-stability]] — refines; modern osseodensification-assisted ridge split addressing the same width problem.

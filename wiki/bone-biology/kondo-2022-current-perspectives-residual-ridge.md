@@ -6,18 +6,28 @@ date: 2022-02-21
 doi: 10.2186/jpr.JPR_D_21_00333
 source: kondo-2022-current-perspectives-residual-ridge.md
 category: [bone-biology]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/kondo-2022-current-perspectives-residual-ridge.pdf
 pdf_filename: kondo-2022-current-perspectives-residual-ridge.pdf
 source_collection: external
 tags: [narrative-review, residual-ridge-resorption, osteoclast, lymphocyte, RANKL, oral-barrier]
 ---
 
-## One-line Summary
-J Prosthodont Res narrative review redefining residual ridge resorption (RRR) not as disuse atrophy but as a pathological activation of external-surface osteoclasts mediated by oral mucosa lymphocytes; shown in Rag2−/− mice (T/B lymphocyte-deficient) where intra-socket osteoclasts are normal but external-surface osteoclasts are absent.
+## Three-line Summary
 
-## 한줄요약
-J Prosthodont Res 종설 — 잔존 치조제 흡수(Residual Ridge Resorption, RRR)를 단순 disuse atrophy가 아닌 oral mucosa 림프구가 매개하는 외측면 osteoclast 활성화 병리로 재정의; Rag2-/- 마우스(T/B 림프구 결핍)에서 socket 내 osteoclast는 정상이지만 외측면 osteoclast가 사라짐을 보임.
+Narrative review (J Prosthodont Res 2022, Tohoku University group) redefining residual ridge resorption (RRR) mechanistically: rather than simple disuse atrophy, RRR is driven by pathological activation of osteoclasts on the external (lateral) surface of the alveolar ridge, mediated by oral-barrier lymphocytes.
+
+Evidence comes from Rag2−/− mice (T/B lymphocyte-deficient): intra-socket osteoclasts remain normal after extraction but external-surface osteoclasts are absent, and the external-surface osteoclasts are restored by adoptive transfer of human CD3⁺ T cells; clinical RRR shows 32–63% horizontal and 11–22% vertical loss by 6 months (Tan 2012).
+
+The key implication is that alveolar ridge preservation grafts address the acute post-extraction phase but cannot block long-term RRR because external-surface osteoclast activity is independent of the graft location; selective local inhibition of external-surface osteoclasts (anti-RANKL, lymphocyte-signal blockade) is proposed but remains preclinical.
+
+## 세줄요약
+
+J Prosthodont Res 종설(2022, 도호쿠대) — 잔존 치조제 흡수(Residual Ridge Resorption, RRR)를 단순 폐용성 위축이 아닌 구강 점막 림프구가 매개하는 치조제 외측면 파골세포(osteoclast) 병적 활성화로 재정의했다.
+
+Rag2⁻/⁻ 마우스(T/B 림프구 결핍)에서 발치 후 소켓 내 파골세포는 정상이나 외측면 파골세포는 소실되며, 인간 CD3⁺ T 세포 입양전이로 외측면 파골세포가 복원됨을 확인; 임상 RRR은 6개월에 수평 32–63%, 수직 11–22% 흡수(Tan 2012 인용).
+
+치조제 보존술(Alveolar Ridge Preservation, ARP) 이식재는 발치 직후 급성 단계 차원 변화는 줄이지만 외측면 파골세포 활성을 차단하지 못해 장기 RRR을 막지 못하며, 외측면 파골세포의 선택적 차단(anti-RANKL 국소, 림프구 신호 차단)이 제안되나 아직 전임상 단계다.
 
 ## Summary
 "왜 발치 후 치조제는 평생 줄어들기만 하는가?"에 대한 분자·세포 수준의 새 설명을 제시한 일본 도호쿠대 그룹의 narrative review + 원천 마우스 데이터. 핵심 주장은 두 가지:

@@ -6,7 +6,7 @@ date: 2023-11-01
 doi: 10.3390/jcm12216924
 source: khaohoen-2023-biomaterials-dental-implants-bone-density-narrative-review.md
 category: implants
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: true
 pmid: "37959389"
@@ -20,13 +20,21 @@ relations:
     target: rittipakorn-2025-clockwise-osseodensification-primary-stability-cadaveric
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review (119 articles) concluding that implant material (Ti gold standard; zirconia/PEEK alternatives), macro/microgeometry, and surgical technique (osseodensification/under-drilling) jointly govern primary stability and success in low-density (D3–D4) bone.
+Narrative review (J Clin Med 2023; PICO-framed, 529 found → 119 included, 10-year PubMed/Scopus/Embase search; 7 studies with Misch D1–D4 bone density stratification): how implant material, implant geometry, and surgical technique interact with bone density.
 
-## 한줄요약
+D4 bone carries the highest failure risk (survival 88.8% vs D1 97.6%); optimized geometry for low-density bone: conical shape, ≥4 mm diameter, ≥9 mm length, reverse-buttress self-tapping threads; osseodensification/under-drilling significantly improved primary stability vs conventional drilling (lower ISQ); Ti remains gold standard; zirconia ~95% survival; PEEK lowers stress-shielding but has inferior BIC.
 
-내러티브 리뷰 (119편)로, 저밀도골(D3–D4)에서 임플란트 재료(티타늄 표준, 지르코니아·PEEK 대안)·매크로/마이크로 형태·수술 술식(골밀도화·under-drilling)이 함께 초기 안정성과 성공률을 좌우한다고 결론.
+No single factor suffices for low-density bone — material choice, geometry optimization, and surgical technique (OD/under-drilling) must be combined; ISQ below ~70–75 flags higher failure risk; narrative design with no meta-analysis limits certainty.
+
+## 세줄요약
+
+내러티브 리뷰 (J Clin Med 2023; PICO 기반, 529건 → 119편, 10년간 PubMed/Scopus/Embase; Misch D1–D4 골밀도 층화 임상 데이터 7편): 임플란트 재료·형태·수술 술식과 골밀도의 상호작용 분석.
+
+D4골 생존율 최저(88.8% vs D1 97.6%); 저밀도골 최적 형태: 원추형·직경 ≥4 mm·길이 ≥9 mm·역버트레스 자가절삭 나사산; 골밀도화(OD)/under-drilling이 통상 drilling 대비 1차 안정성 유의 향상; Ti 여전히 표준; 지르코니아 ~95% 생존; PEEK 응력차폐 감소 이점이나 BIC 열등.
+
+저밀도골에서 단일 요소로는 불충분 — 재료·형태·수술 술식 복합 최적화 필요; ISQ ~70–75 이하 시 실패 위험 증가; 내러티브 설계로 메타분석 불가한 한계.
 
 ## Summary
 
@@ -54,4 +62,4 @@ PICO-framed literature synthesis. **P** edentulous area treated with implant sur
 
 ## Related Papers
 
-- [[implants/versah-protocols/rittipakorn-2025-clockwise-osseodensification-primary-stability-cadaveric]] — reinforces: this review supplies the bone-density rationale (why D3–D4 soft bone needs primary-stability techniques) that motivates the clockwise-OD cadaveric study's osseodensification approach.
+- [[implants/osseodensification/rittipakorn-2025-clockwise-osseodensification-primary-stability-cadaveric]] — reinforces: this review supplies the bone-density rationale (why D3–D4 soft bone needs primary-stability techniques) that motivates the clockwise-OD cadaveric study's osseodensification approach.

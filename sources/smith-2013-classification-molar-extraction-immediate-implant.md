@@ -9,8 +9,21 @@ pdf_filename: smith-2013-classification-molar-extraction-immediate-implant.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Technical note introducing the A/B/C classification of molar extraction sockets for immediate implant placement based on the inter-radicular bone available for primary stability.
+## Three-line Summary
+
+Technical note introducing the A/B/C classification of
+
+molar extraction sockets for immediate implant placement
+
+based on the inter-radicular bone available for primary stability.
+
+## 세줄요약
+
+Technical note introducing the A/B/C classification of
+
+molar extraction sockets for immediate implant placement
+
+based on the inter-radicular bone available for primary stability.
 
 ## 1. Document Information
 - **Title:** Classification of Molar Extraction Sites for Immediate Dental Implant Placement: Technical Note
@@ -32,9 +45,9 @@ Provides a treatment-decision framework that subsequent studies (Pavlovic 2022, 
 Not an outcome study; classification not validated against survival data within this paper.
 
 ## 6. Related Work
-- [[immediate-implant/ragucci-2020-immediate-implant-molar-extraction-sockets]]
-- [[immediate-implant/pavlovic-2022-interradicular-septum-morphology-molar-iip]]
-- [[immediate-implant/milenkovic-2022-interradicular-septum-classification-iip]]
+- [[immediate-implant/molar-septum/ragucci-2020-immediate-implant-molar-extraction-sockets]]
+- [[immediate-implant/molar-septum/pavlovic-2022-interradicular-septum-morphology-molar-iip]]
+- [[immediate-implant/molar-septum/milenkovic-2022-interradicular-septum-classification-iip]]
 
 ## 7. Glossary
 - **IIP:** Immediate Implant Placement — placement at the time of tooth extraction.

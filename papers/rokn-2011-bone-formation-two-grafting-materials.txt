@@ -1,0 +1,88 @@
+Bone Formation with Two Types of Grafting Materials: A Histologic and Histomorphometric Study
+
+Rokn AR, Khodadoostan MA, Rasouli Ghahroudi AA, et al.
+The Open Dental Journal, 2011
+PMID: 21760862 | PMCID: PMC3134986 | DOI: 10.2174/1874210601105010096
+Source: PubMed Central (https://pmc.ncbi.nlm.nih.gov/articles/PMC3134986/)
+
+ABSTRACT
+
+Background:
+Although autogenous bone grafts are considered the gold standard for bone regeneration, they have certain limitations, including patient morbidity at the harvest site. Synthetic bone substitutes have been developed to overcome some of these limitations. The present study aimed to compare the osteogenic properties of Straumann Bone Ceramic (SBC), which is a biphasic calcium phosphate, with Bio-Oss, an inorganic bovine bone material, in an animal model.
+
+Methods:
+Thirteen rabbits were included in this study. In each rabbit, four 6.5-mm-diameter identical defects were prepared on the calvarium. One site was filled with Bio-Oss, the second site was treated with small-particle SBC, the third site was treated with large-particle SBC, and the fourth site was left as an untreated control. After 4 and 8 weeks, the animals were sacrificed, and histologic and histomorphometric examinations were performed. The data were analyzed using Friedman and multiple-comparison Mann-Whitney tests.
+
+Results:
+There were no statistically significant differences in the amount of bone fill between the four groups. L-SBC showed more inflammation and foreign-body reactions than the other bone substitutes.
+
+Conclusion:
+No statistically significant differences were found between groups. Further studies on this issue seem necessary.
+
+INTRODUCTION
+
+The demand for an ideal nonautogenous bone grafting material is increasing due to its unlimited supply, easy storage, and sterility. Synthetic bone replacements (alloplasts) provide a scaffold for bone deposition, as opposed to materials such as autografts, which may include growth factors necessary for osteogenesis. Commercially available synthetic bone replacements have been made of hydroxyapatite, tricalcium phosphate, calcium sulfate, and combinations of these minerals; fabrication techniques, crystal configurations, pore dimensions, mechanical properties, and resorption rates vary.
+
+Ultimately, the successful repair of bony defects with biomaterials is dependent on sufficient vascularization at the implantation site. Ultrastructural analysis, inorganic chemistry, and new processing modes have been used to develop fully synthetic bone graft materials applicable to the reconstruction of osseous defects. To select the appropriate biomaterial for a given situation, a clinician should consider the physical, chemical, biologic, and processing features of a bone graft. The size and geometry of the bony lesions, as well as the surgical conditions of each patient (e.g., blood supply and mechanical stress), also influence treatment outcomes. Autogenous grafts are considered the gold standard for bone grafting due to their biologic origin and activity. However, the harvesting of autogenous grafts frequently requires additional surgery, and access to donor sites may be limited; these facts have prompted a search for alternative methods and materials.
+
+Allograft materials (processed bone from the same species), such as freeze-dried bone and demineralized freeze-dried bone, have been used for many decades. However, the possibility of disease transmission, although very low, may lessen the desirability of these materials.
+
+Alloplastic calcium phosphate bone substitutes, such as hydroxyapatite (HA) and tricalcium phosphate (TCP), have been studied because their composition closely resembles the inorganic phase of bone tissue. HA was used extensively in the 1980s but did not induce proper bone remodeling due to chronic inflammation associated with the very slowly resorbing HA granules, which remained unaltered for an extended period of time. TCP has been shown to have superior resorption characteristics. However, its early resorption, prior to cellular attachment and lymphocytic infiltration, has been associated with unsatisfactory results. The HA/TCP ratio can be manipulated to change the substitution rate and bioactivity of calcium phosphate materials, an advantage that has made them clinically useful in oral and orthopedic surgery.
+
+One commonly used bone substitute, Bio-Oss (Geistlich Sons Ltd. Wolhusen, Switzerland), is a xenograft (inorganic bovine bone) that promotes new bone formation, does not interfere with bone healing, and possesses osteoconductive properties that are superior to those of beta-TCP. Another substitute, Straumann Bone Ceramic (Straumann AG, Basel, Switzerland), is a fully synthetic bone substitute material. It is composed of biphasic calcium phosphate (60% HA and 40% beta-TCP). This combination of a nonabsorbable and bioinert material such as HA with a highly resorbable material (i.e., TCP) is bioactive, bioresorbable, and biocompatible, and it has a high osteoinductive potential. This material may offer better conditions for bone regeneration when compared to traditional bone substitutes. However, some studies have concluded that this material is only osteoconductive, similar to Bio-Oss.
+
+Despite these developments, an ideal substitute for autologous bone is not yet available. The purpose of this study was to histologically and histomorphometrically evaluate the bone repair quality of Straumann Bone Ceramic (SBC) and Bio-Oss in experimental defects prepared in rabbit calvaria. The main hypothesis of this study was that the higher resorption rate of Straumann Bone Ceramic would promote more bone formation than Bio-Oss.
+
+MATERIALS AND METHODOLOGY
+
+The experimental alloplasts used in the present study were the large-size bone ceramic (L-SBC), with a particle size of 500 to 1000 µm, and small-size bone ceramic (S-SBC), with a particle size ranging from 400 to 700 µm. Both materials were made of beta-TCP and HA (40% beta-TCP, 60% HA). Both the L-SBC and S-SBC materials were sintered at 1100°C to 1500°C and processed to a final porosity of 90% and a pore size of 100 to 500 µm.
+
+After careful planning of an interventional animal study and approval by the Ethical Research Committee of the Tehran University School of Dentistry, 13 white New Zealand rabbits were included in this experimental animal study. The mean weight of the rabbits was 2.5 kg. The rabbits were kept on a uniform standard feeding regimen starting 2 weeks prior to the study. The study was performed at the Dental Research Center, School of Dentistry, Tehran University of Medical Sciences.
+
+The rabbits were placed under general anesthesia by injection of 10% ketamine and 2% xylazine. The calvarium of each animal was scrubbed with 7% Betadine and the hair on the surgical area was shaved. An anteroposterior (craniocaudal) 10-cm straight incision was made. The skin and subcutaneous tissues were elevated with a periosteal elevator. Using an angled handpiece motor and a 6.5-mm-diameter trephine bur, the authors created four identical circular defects in the calvarium under external irrigation with normal saline. Anatomic landmarks were referenced to standardize the location of defects; these included the occipital process and the craniocaudal suture. Three types of materials were used to fill three of the defects: large-size bone ceramic (L-SBC), small-size bone ceramic (S-SBC), and Bio-Oss with a particle size of 250 to 1000 µm. The fourth defect was left unfilled and served as the control. To eliminate bias in defect location, the defect fill sequence (two in frontal bone and two in parietal bone) was varied and rotated (clockwise) for each subsequent rabbit. All locations were recorded on charts.
+
+Following placement of the biomaterials, the periosteum was sutured into place with 4.0 Vicryl and the skin of the calvarium was sutured with 3-0 Nylon. The experimental animals were transferred to a room with a constant temperature of 37°C. To control postoperative pain and swelling, 0.1 mL of ketoprofen was administered daily for up to 3 consecutive days. In addition, 0.6 mL of enrofloxacin (Baytril) was administered subcutaneously. One group of rabbits was sacrificed 4 weeks after the surgery and the other group was sacrificed after 8 weeks. The animals were sacrificed with an injection of 2 mL intravenous sodium thiopental into the marginal auricular venules.
+
+Samples were then collected from the surgical areas of the experimental defects. The calvarium was detached from the skull with a saw and fixed in 10% buffered formalin. Histologic sections were prepared from the defect areas, including surrounding natural bone, and stained with hematoxylin and eosin (H&E) after decalcification with 10% formic acid. Sections (5 µm) were examined with a double-head light microscope (BX-41, Olympus, Japan) at 20x magnification by two blinded oral pathologists, previously calibrated in evaluating bone histomorphometric parameters. Disagreements were resolved by joint re-examination.
+
+Four qualitative/quantitative variables were examined: (1) intensity of inflammation (graded 0-3 by lymphocyte count: grade 0 = 0-100, grade 1 = 100-500, grade 2 = 500-1000, grade 3 = >1000 lymphocytes); (2) presence of foreign-body reaction (graded 0-3 by foreign-body giant cell foci: grade 0 = 0 foci, grade 1 = 0-10 foci, grade 2 = 10-30 foci, grade 3 = >20 foci [as reported]); (3) amount of regenerated bone, quantified digitally via SigmaScan Pro Image Analysis software and Adobe Photoshop CS2 as pixel counts from the central 1-mm portion of each surgical site; and (4) amount of remaining graft material, quantified using the same pixel-based method.
+
+Data were analyzed with SPSS version 16. Friedman nonparametric tests with post hoc Bonferroni-corrected comparisons were used to compare biomaterials on each index; Mann-Whitney tests compared histologic/histomorphometric indices between the two follow-up periods (4 vs 8 weeks).
+
+RESULTS
+
+Fifty-two defects, each 6.5 mm in diameter, were prepared in the calvaria of 13 rabbits. Each of the three graft materials was used to fill in 13 defects, and 13 defects were left unfilled as controls. Histologic sections were prepared at weeks 4 and 8. Six and seven rabbits were sacrificed at weeks 4 and 8, respectively. Some samples could not be processed histologically and were excluded from evaluation.
+
+Inflammation: The least amount of inflammation was observed in the control group, followed in order by Bio-Oss, S-SBC, and L-SBC. Significant differences (p < .05) were found between control vs Bio-Oss, control vs S-SBC, control vs L-SBC, and Bio-Oss vs L-SBC. No significant difference was seen between L-SBC and S-SBC.
+
+Foreign-body reaction: Significantly more multinucleated giant cells were observed in all grafted groups compared with the ungrafted control group (p < .05).
+
+Bone formation: The amount of bone formed in the Bio-Oss group was numerically greater than in the other groups, but the difference was not statistically significant (p > .05). Control sites showed the next highest amount of bone formation, followed by L-SBC and S-SBC, though these differences were also not statistically significant.
+
+There was significantly more regenerated bone at 8 weeks compared with 4 weeks in the Bio-Oss group specifically (p < .05); this time-based increase was not significant for the other groups (p > .05). No other statistically significant differences were observed between weeks 4 and 8.
+
+Remaining graft material: Not significantly different between groups. L-SBC showed the highest percentage of remaining graft material, followed by Bio-Oss and S-SBC.
+
+DISCUSSION
+
+The authors observed significantly more inflammation at Bio-Oss-grafted sites compared with the ungrafted control group, consistent with some prior studies, though other studies found no proliferation of inflammatory cells after Bio-Oss application in maxillary sinus augmentation and other contexts — attributed to differences in study design, sampling technique, operator accuracy, and histologic criteria. Bone-ceramic-treated sites, especially L-SBC, showed even more inflammation than Bio-Oss and control, possibly due to release of microparticles from insufficiently sintered biphasic material and the larger particle size of L-SBC.
+
+Grafted sites overall showed significantly more foreign-body response (multinucleated giant cells) than ungrafted sites; L-SBC and Bio-Oss showed the greatest and least degrees of foreign-body reaction among grafted sites, respectively. Semi-osteoclastic multinucleated cells play a role in resorption and substitution of biomaterials.
+
+Bio-Oss-grafted sites showed the greatest (though not statistically significant) bone formation, consistent with many prior studies showing Bio-Oss to be biocompatible with good potential for bone formation; its porosity and particle shape increase surface area, potentially favoring cellular infiltration mediating osteogenesis and angiogenesis. Control, L-SBC, and S-SBC groups showed progressively less bone formation, though not significantly so. Greater inflammation at bone-ceramic sites may have interfered with osteogenesis; the smaller particle size of S-SBC may have caused material compaction, reducing inter-particle space available for angiogenesis. No significant difference was found between the control group and grafted groups in bone regeneration overall — the authors speculate the thick, carefully sutured periosteal layer of rabbit calvaria may have acted as a natural barrier membrane promoting guided tissue regeneration even in the control (unfilled) defects.
+
+Significantly more regenerated bone was seen at 8 weeks vs 4 weeks specifically in the Bio-Oss group, possibly reflecting the lower degree of inflammation and thus less cell damage contributing to faster bone maturation.
+
+L-SBC retained the most graft material at study end, consistent with larger particles requiring more time to resorb. Unexpectedly, more S-SBC material remained than Bio-Oss despite S-SBC's smaller nominal particle size — possibly related to HA percentage prolonging S-SBC resorption time, or to particle shape differences (SBC particles round vs Bio-Oss irregularly shaped, affecting inter-particle space and angiogenesis).
+
+The authors' hypothesis — that the higher resorption rate of bone ceramic would promote more bone formation than Bio-Oss — was not confirmed; study duration and sample size may have been limiting factors. The authors note possible software (pixel-count) overestimation/underestimation effects related to how new-bone bands versus remaining-material space were captured on histomorphometric image analysis.
+
+The rabbit calvarial defect model is commonly used for early-phase bone-grafting research due to ease of handling, rapid bone turnover, multiple defects per cranium (reducing inter-animal variability, operative time, and cost), and a remodeling phase roughly three times faster than in humans — hence 4 weeks approximates early healing and 8 weeks approximates later healing (bone incorporation, material resorption, remodeling).
+
+A human clinical study (Froum et al.) compared SBC (biphasic calcium phosphate) with Bio-Oss in bilateral maxillary sinus grafting, waiting 6-8 months before histomorphometric analysis, and likewise found no significant difference in vital bone formation between materials — both were osteoconductive. That study used a 50:50 mix of 0.25-1.0 mm and 1.0-2.0 mm particles and did not include an ungrafted control. The present study's much shorter observation window (4/8 weeks) and animal (rabbit calvaria) rather than human maxillary sinus model are noted as key differences in context.
+
+Because synthetic HA and bovine bone mineral do not independently induce bone formation when implanted in non-osseous (e.g., subcutaneous muscle) sites, both are classified as osteoconductive rather than osteoinductive materials — providing scaffold/template for vascular ingress, cellular infiltration and attachment, in contrast to osteoinductive materials (e.g., bone morphogenetic proteins) that actively stimulate osteoprogenitor differentiation.
+
+CONCLUSIONS
+
+In this rabbit calvarial grafting model, Straumann Bone Ceramic generated less new bone than Bio-Oss and control, but the difference in bone formation between all groups was not statistically significant. L-SBC (large-particle Straumann Bone Ceramic) produced significantly more inflammation and foreign-body reaction than Bio-Oss and control. Future studies with larger sample sizes and different healing intervals are needed to further clarify differences between Bio-Oss and other bone substitutes.

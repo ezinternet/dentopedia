@@ -12,11 +12,21 @@ source_collection: external
 ## Why Ingested
 OVD 증가와 교합 상실이 TMJ 연골에 미치는 병리학적 영향을 직접 비교한 동물 연구. 임상에서 구치부 고경 변화 후 TMJ 증상 발생 메커니즘([[tmj/radej-2023-condylar-displacement-malocclusion-cr-mip-sr]])의 조직학적 근거 제공. 사용자가 "구치부 고경 설정 후 TMJ 클리킹"을 질문한 직접적 근거 논문.
 
-## One-line Summary
-Animal study (adult rats, 8 wk): OVD elevation causes faster and more severe condylar cartilage damage than occlusal loss; both show cartilage destruction followed by partial repair; subchondral bone repair delayed in OVD-elevated group.
+## Three-line Summary
 
-## 한줄요약
-성인 쥐 동물 연구 (8주): OVD 증가는 교합 상실보다 더 빠르고 심한 과두 연골 손상; 양군 모두 연골 파괴 후 부분 회복; OVD 증가군에서 연골하골 회복 지연.
+Animal study (adult rats, 8 wk): OVD elevation causes faster and more severe condylar cartilage damage than occlusal loss;
+
+both show cartilage destruction followed by partial repair;
+
+subchondral bone repair delayed in OVD-elevated group.
+
+## 세줄요약
+
+성인 쥐 동물 연구 (8주): OVD 증가는 교합 상실보다 더 빠르고 심한 과두 연골 손상;
+
+양군 모두 연골 파괴 후 부분 회복;
+
+OVD 증가군에서 연골하골 회복 지연.
 
 ## 1. Document Information
 - **Journal**: Journal of Oral Rehabilitation 51(9):1821–1832 (2024)

@@ -13,13 +13,21 @@ source_collection: external
 
 User's clinical interest in reading occlusal vertical dimension (OVD) errors off the face — mentalis strain, deepened mentolabial fold, lip support — in complete-denture and reconstruction cases. This 79-study Cureus review catalogs every OVD-determination method (pre/post-extraction) plus the functional/esthetic consequences of incorrect VD, complementing [[occlusion/bhambhani-2020-choosing-denture-occlusion-systematic-review]] (which addresses denture *occlusal scheme* rather than vertical relation) and grounding the OVD-elevation effects shown experimentally in [[tmj/wang-2024-tmj-ovd-elevation-occlusal-loss-rats]].
 
-## One-line Summary
+## Three-line Summary
 
-Narrative/comprehensive review (79 studies) cataloging OVD-determination methods from classical (facial/anthropometric measurement, phonetics, swallowing, physiologic rest position + freeway space, cephalometry) to digital (3D facial scanning, CBCT, CAD/CAM, AI), concluding no single method is universally superior and advocating a combined traditional + digital multifactorial approach.
+Narrative comprehensive review (79 studies) of vertical dimension of occlusion (OVD) determination methods in prosthodontics, spanning classical techniques (facial proportions, phonetics, physiologic rest position + freeway space, cephalometry) to modern digital approaches (3D facial scanning, CBCT, CAD/CAM, AI).
 
-## 한줄요약
+No single method is universally superior; traditional methods lack reproducibility while digital tools offer precision at the cost of equipment and training, with effective clinical practice requiring individualized, multifactorial integration.
 
-종합 리뷰(79편) — 교합수직고경(OVD) 결정법을 고전적 방법(안면계측·인체계측, 음성학, 연하, 생리적 안정위 + freeway space, 두부계측)부터 디지털 방법(3D 안면스캔, CBCT, CAD/CAM, AI)까지 총망라하고, 단일 우월 방법은 없으므로 전통+디지털 다인자 접근을 권고.
+Consequences of VD errors are clinically significant: excessive VD causes muscle fatigue and facial strain, while reduced VD produces aging appearance, deepened mentolabial fold, mentalis strain, and impaired esthetics/mastication.
+
+## 세줄요약
+
+보철학 교합수직고경(OVD, Occlusal Vertical Dimension) 결정법에 관한 종합 리뷰(79편) — 고전적 방법(안면 비례, 음성학, 생리적 안정위 + freeway space, 두부계측)부터 현대 디지털 기법(3D 안면스캔, CBCT, CAD/CAM, AI)까지 총망라.
+
+단일 우월 방법은 없으며, 전통 기법은 재현성 부족, 디지털 도구는 정밀도 높지만 장비·교육 비용 필요 — 효과적 임상 실무는 환자 맞춤형 다인자 통합 필수.
+
+과도한 VD는 근육 피로·안면 긴장 초래, 감소한 VD는 노화 인상·mentolabial fold 깊어짐·mentalis 긴장·심미성/저작 기능 저하로 임상 결과 직결.
 
 ## 1. Document Information
 

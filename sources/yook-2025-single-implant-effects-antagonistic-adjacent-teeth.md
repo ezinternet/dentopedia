@@ -9,8 +9,21 @@ pdf_filename: yook-2025-single-implant-effects-antagonistic-adjacent-teeth.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Retrospective observational study (n=100) at Gangneung-Wonju National University Dental Hospital comparing teeth adjacent and antagonistic to single posterior implants vs contralateral controls. Cracks, cusp fractures, alveolar bone, occlusal contact (Shimstock), and systemic disease associations analyzed.
+## Three-line Summary
+
+Retrospective observational study (n=100) at Gangneung-Wonju National University Dental Hospital comparing
+
+teeth adjacent and antagonistic to single posterior implants vs contralateral controls.
+
+Cracks, cusp fractures, alveolar bone, occlusal contact (Shimstock), and systemic disease associations analyzed.
+
+## 세줄요약
+
+Retrospective observational study (n=100) at Gangneung-Wonju National University Dental Hospital comparing
+
+teeth adjacent and antagonistic to single posterior implants vs contralateral controls.
+
+Cracks, cusp fractures, alveolar bone, occlusal contact (Shimstock), and systemic disease associations analyzed.
 
 ## 1. Document Information
 - **Title:** Retrospective study on pathological effects of single implant-supported fixed prosthesis on antagonistic and adjacent teeth

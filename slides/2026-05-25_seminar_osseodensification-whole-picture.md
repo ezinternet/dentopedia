@@ -7,10 +7,15 @@ audience: 임플란트 세미나 (동료 임상의)
 duration: 25–30분
 source_wiki:
   - wiki/overviews/osseodensification-clinical-applications.md
-  - wiki/implants/fontes-pereira-2023-osseodensification-osteotomy-alternative-sr.md
+  - wiki/implants/osseodensification/fontes-pereira-2023-osseodensification-osteotomy-alternative-sr.md
   - wiki/implants/huwais-2016-osseous-densification-novel-osteotomy-approach.md
   - wiki/sinus-lift/transcrestal/starch-jensen-2025-transcrestal-sinus-osseodensification-meta-analysis.md
 agenda: agenda/2026-05-25_osseodensification-whole-picture.md
+marp: true
+theme: dentopedia
+paginate: true
+size: 16:9
+lang: ko
 ---
 
 # Slide Deck Outline
@@ -157,6 +162,8 @@ graph LR
 - Spoke 보강: narrow-ridge·immediate OD 단독 SR/RCT 추가 ingest (P1)
 - 5년 RCT 결과 발표 시 spine SR 갱신
 - 본 deck 인터랙티브 버전: interactives/2026-05-25_osseodensification-navigator.html
+
+[📝 자가테스트 퀴즈 풀기 →](2026-05-25_seminar_osseodensification-whole-picture-quiz.html)
 
 ---
 

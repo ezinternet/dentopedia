@@ -6,20 +6,28 @@ date: 2009-04-01
 doi: "10.1016/j.brainresrev.2008.12.015"
 source: price-2009-chloride-regulation-pain-pathway.md
 category: [orofacial-pain]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/price-2009-chloride-regulation-pain-pathway.pdf
 pdf_filename: price-2009-chloride-regulation-pain-pathway.pdf
 source_collection: external
 tags: [chloride, NKCC1, KCC2, GABA-A, disinhibition, gate-control-theory, neuropathic-pain]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review: cation-chloride cotransporters (NKCC1, KCC2) set the anion equilibrium potential that determines the strength and polarity of GABA-A/glycine inhibition; their dysregulation drives disinhibition-based hyperalgesia and allodynia after inflammation or nerve injury.
+Narrative mechanistic review synthesizing electrophysiology, molecular biology, and behavioral pain pharmacology to modernize Gate Control Theory by establishing that spinal inhibitory strength is governed by the transmembrane chloride gradient — set by the cation-chloride cotransporters NKCC1 (accumulating) and KCC2 (extruding).
 
-## 한줄요약
+KCC2 downregulation or NKCC1 upregulation after peripheral inflammation or nerve injury raises intracellular chloride, weakens or reverses GABA-A/glycine inhibition, and produces disinhibition-driven hyperalgesia and allodynia — paralleling chloride dysregulation in epilepsy.
 
-내러티브 리뷰 — NKCC1·KCC2가 결정하는 Cl⁻ 평형전위가 GABA-A·glycine 억제의 세기·방향을 좌우하며, 이 조절이 깨지면 염증·신경손상 후 탈억제성 통각과민·이질통이 발생한다.
+The chloride gradient and GABA-A receptors are framed as therapeutic targets, providing the molecular rationale for topical clonazepam responsiveness in the peripheral subtype of burning mouth syndrome.
+
+## 세줄요약
+
+줄1: 전기생리학·분자생물학·행동통증약리학 통합 내러티브 리뷰 — 척수 억제의 세기가 NKCC1(Cl⁻ 축적)·KCC2(Cl⁻ 배출) 이온수송체가 결정하는 막횡단 Cl⁻ 농도차에 의해 조절됨을 정립하여 관문통제이론을 분자 수준으로 현대화.
+
+줄2: 염증·신경손상 후 KCC2 하향조절 또는 NKCC1 상향조절로 세포 내 Cl⁻ 증가 → GABA-A/glycine 억제 약화 또는 역전 → 탈억제성 통각과민·이질통 발생 (간질과 동일 기전 유사).
+
+줄3: Cl⁻ 농도차 복원 및 GABA 수용체 표적 진통 전략 제시 — 말초형 구강작열감(BMS)의 국소 클로나제팜 반응성을 설명하는 분자 근거.
 
 ## Summary
 
@@ -48,4 +56,4 @@ The chloride/GABA-A disinhibition mechanism is the molecular rationale for topic
 
 - [[orofacial-pain/wilke-2020-chloride-underrated-ion-nociceptors]] — extends this central/spinal chloride account to peripheral DRG nociceptors.
 - [[orofacial-pain/pathirathna-2005-t-type-calcium-gaba-neurosteroids]] — complementary endogenous (neurosteroid) modulation of GABA-A + T-type Ca²⁺ in peripheral analgesia.
-- [[oral-medicine/jaaskelainen-2018-burning-mouth-syndrome-neuropathic-pain]] — clinical BMS subtype whose "decreased central inhibition" maps onto this disinhibition mechanism.
+- [[oral-medicine/burning-mouth-syndrome/jaaskelainen-2018-burning-mouth-syndrome-neuropathic-pain]] — clinical BMS subtype whose "decreased central inhibition" maps onto this disinhibition mechanism.

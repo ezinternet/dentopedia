@@ -13,11 +13,21 @@ source_collection: external
 
 [[overviews/dentin-hypersensitivity-overview]]의 tubule-occlusion 기전 섹션 보강. NovaMin(calcium sodium phosphosilicate) vs Gluma의 세관 폐쇄율을 SEM으로 정량화한 기초 근거. [[dentin-hypersensitivity/jiang-2022-desensitizing-agents-permeability-cytotoxicity]]와 짝.
 
-## One-line Summary
+## Three-line Summary
+
 SEM in vitro study (3 groups, n=20) comparing NovaMin (calcium sodium phosphosilicate) and Gluma against control for dentinal tubule occlusion after a single application.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 SEM in vitro(3군·각 20): 단회 도포 후 NovaMin(칼슘 소듐 포스포실리케이트)과 Gluma의 상아세관 폐쇄율을 대조군과 비교한 기초 연구.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - J Periodontal Implant Sci 2013;43(6):269. Korean Academy of Periodontology, Open Access.

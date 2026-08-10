@@ -6,7 +6,7 @@ date: 2026-06-03
 doi: 10.3389/fdmed.2026.1789416
 source: sharma-2026-resin-cement-shade-ceramic-veneers-sr.md
 category: [veneers]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "42318568"
@@ -22,13 +22,21 @@ relations:
     target: gonzalez-martin-2024-ultrathin-feldspathic-veneer-sem-etching
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In-vitro systematic review (10 studies, 2011–2021; no meta-analysis) showing resin cement shade and translucency materially shift the final color of ceramic laminate veneers — white-opaque/high-chroma cements drive the largest ΔE (often above the 3.3 acceptability threshold), worsened by thin (0.3–0.5 mm) and high-translucency veneers, while try-in pastes poorly predict the cured cement.
+Systematic review (PRISMA 2020, PROSPERO CRD42023450540; 10 in-vitro studies, 2011–2021; no meta-analysis due to heterogeneity) examining how resin luting cement shade and translucency change the final color of ceramic laminate veneers, measured by CIE L*a*b* spectrophotometry.
 
-## 한줄요약
+White-opaque/high-chroma cements produce the greatest ΔE (often exceeding the 3.3 clinical acceptability threshold); the effect is amplified by thin (0.3–0.5 mm) and high-translucency veneers; aging discoloration with VarioLink reached ΔE = 10.4 vs ceramic-alone 0.9; and try-in pastes poorly predict cured cement color (ΔE mismatch 0.32–11.49).
 
-In-vitro 계통고찰 (10편, 2011–2021; 메타분석 없음) — 레진 시멘트의 색조·투명도가 세라믹 라미네이트 비니어의 최종 색을 유의하게 바꾼다. 백색-불투명·고채도 시멘트가 ΔE를 가장 크게 (흔히 임상 허용역 3.3 초과) 올리고, 얇은(0.3–0.5 mm)·고투명도 비니어에서 효과가 증폭되며, try-in 페이스트는 경화된 시멘트 색을 잘 예측하지 못한다.
+Clinically, choose the luting cement based on the actual cured shade rather than the try-in paste, favor translucent/low-chroma cements for thin anterior veneers, and account for substrate shade and veneer translucency — cement is an active optical determinant, not a passive adhesive.
+
+## 세줄요약
+
+계통고찰 (PRISMA 2020, PROSPERO 등록; in-vitro 10편, 2011–2021; 이질성으로 메타분석 불가): 레진 시멘트의 색조·투명도가 세라믹 라미네이트 비니어(ceramic laminate veneer)의 최종 색에 미치는 영향을 CIE L*a*b* 분광광도계로 측정한 연구 대상.
+
+백색-불투명·고채도 시멘트가 ΔE를 가장 크게(임상 허용역 3.3 초과 빈번) 올리고, 얇은(0.3–0.5 mm)·고투명도 비니어에서 증폭; 노화 후 VarioLink ΔE = 10.4 vs 세라믹 단독 0.9; 트라이-인 페이스트와 경화 시멘트 간 색 불일치 ΔE 0.32–11.49.
+
+시멘트는 수동적 접착제가 아닌 능동적 광학 성분이므로, 트라이-인 페이스트보다 실제 경화 시멘트 색 기준으로 선택하고, 얇은 전방부 비니어에는 투명/저채도 시멘트를 사용해야 한다.
 
 ## Summary
 

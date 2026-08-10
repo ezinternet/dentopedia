@@ -6,7 +6,7 @@ date: 2025-02-12
 doi: 10.1186/s12903-025-05461-0
 source: azadi-2025-soft-tissue-grafting-immediate-implant-bayesian-nma.md
 category: [immediate-implant/esthetic-soft-tissue]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/azadi-2025-soft-tissue-grafting-immediate-implant-bayesian-nma.pdf
 pdf_filename: azadi-2025-soft-tissue-grafting-immediate-implant-bayesian-nma.pdf
 source_collection: external
@@ -16,11 +16,21 @@ relations:
     target: seyssens-2021-immediate-implant-connective-tissue-graft-sr-ma
 ---
 
-## One-line Summary
-Systematic review + Bayesian network meta-analysis (21 RCTs) of soft-tissue grafts (CTG, L-PRF, allogenic, xenogenic) at immediate implant placement; only CTG significantly increased soft-tissue thickness (STT), with CTG ranking best on SUCRA for MIBL/KTW/STT/PH/MGML and uni-layer xenogenic collagen matrix best for PES, though most between-material differences were not statistically significant.
+## Three-line Summary
 
-## 한줄요약
-SR + Bayesian NMA (21 RCT, PROSPERO CRD42024568586): 즉시식립 시 연조직 이식재 (CTG·L-PRF·동종·이종) 비교 — CTG만 STT 유의 증가; SUCRA 순위에서 CTG가 MIBL/KTW/STT/PH/MGML 우위, 단층 이종 콜라겐 매트릭스가 PES 우위; 통계적 유의차 대부분 없음.
+SR + Bayesian network meta-analysis (21 RCTs, PROSPERO CRD42024568586, BMC Oral Health 2025) comparing soft-tissue grafts — CTG, L-PRF, allogenic, xenogenic collagen matrix — at immediate implant placement for hard and soft tissue outcomes.
+
+Only CTG significantly increased soft-tissue thickness (STT) vs no graft; on SUCRA ranking CTG ranked best for MIBL, KTW, STT, PH, MGML, while uni-layer xenogenic collagen matrix ranked best for PES — but most between-material differences were not statistically significant.
+
+Clinical implication: thin soft tissue warrants CTG first-choice; otherwise xenogenic collagen matrix can achieve comparable PES while avoiding donor-site morbidity.
+
+## 세줄요약
+
+SR + Bayesian NMA (21 RCT, PROSPERO CRD42024568586, BMC Oral Health 2025): 즉시 임플란트 식립 시 연조직 이식재(CTG·L-PRF·동종·이종 콜라겐) 비교 — 7가지 결과 지표(PES·MIBL·BBT·KTW·STT·PH·MGML) 동시 분석.
+
+CTG만 STT 유의 증가; SUCRA 순위 CTG ≫ MIBL·KTW·STT·PH·MGML, 단층 이종 콜라겐 매트릭스가 PES 1위; 이식재 간 대부분 유의차 없음.
+
+연조직 얇은 경우 CTG 우선; 그 외에는 이종 콜라겐 기질로 심미 결과 확보 가능 — 2차 술부 부담 줄이는 의사결정 근거.
 
 ## Summary
 PICO: in patients with non-restorable teeth receiving immediate dental implants, which adjunctive soft-tissue graft (autogenous/allogenous/xenogenous) best achieves desired hard/soft tissue outcomes vs no graft. 21 RCTs analyzed in Bayesian random-effect network meta-analysis. Outcomes: PES, MIBL, BBT, KTW, STT, PH, MGML (12-24 mo for MIBL, 6-12 mo for others).

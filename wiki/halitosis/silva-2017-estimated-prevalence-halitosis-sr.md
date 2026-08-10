@@ -6,20 +6,28 @@ date: 2017-07-04
 doi: 10.1007/s00784-017-2164-5
 source: silva-2017-estimated-prevalence-halitosis-sr.md
 category: [halitosis]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/silva-2017-estimated-prevalence-halitosis-sr.pdf
 pdf_filename: silva-2017-estimated-prevalence-halitosis-sr.pdf
 source_collection: external
 tags: [halitosis, prevalence, epidemiology, meta-analysis, VSC, oral-malodor]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 13 population-based studies estimates global halitosis prevalence at 31.8% (95% CI 24.6–39.0%), with year of publication and country socioeconomic status as significant heterogeneity drivers.
+SR+MA of 13 population-based observational studies (adolescents and adults, no database restrictions) providing the first quantitative estimate of global halitosis prevalence.
 
-## 한줄요약
+Pooled halitosis prevalence was 31.8% (95% CI 24.6–39.0%), with high heterogeneity; meta-regression identified year of publication and country socioeconomic status as the significant predictors of between-study variance.
 
-13개 인구기반 연구 SR+MA에서 구강 악취(Halitosis) 유병률 31.8%(95% CI 24.6–39.0%)로 추정; 출판 연도 및 국가 사회경제적 수준이 이질성의 주요 결정 인자.
+Approximately one in three adolescents and adults is affected by halitosis, and prevalence shows a rising global trend — dental professionals should take a more active role in prevention and treatment.
+
+## 세줄요약
+
+전 연령대(청소년·성인) 인구기반 관찰연구 13편으로 구취(Halitosis) 전 세계 유병률을 처음 정량 추정한 SR+MA.
+
+통합 유병률 31.8%(95% CI 24.6–39.0%); 이질성 높음; 메타회귀에서 출판 연도와 국가 사회경제적 수준이 연구 간 분산의 유의한 예측인자.
+
+전 세계적으로 약 3명 중 1명이 구취 영향을 받으며 유병률은 증가 추세 — 치과의사의 적극적인 예방·치료 역할이 필요.
 
 ## Summary
 

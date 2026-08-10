@@ -17,13 +17,21 @@ text_filename: liu-2025-risk-factors-proximal-contact-loss-implant-prosthetic.tx
 
 기존 [[food-impaction/liang-2020-prevalence-associated-factors-retrospective]]는 식편압입·기능 5년 초과를 PCL 다변량 독립인자로 보고했지만, 인접 자연치의 치주지지(골소실)·잔존치조제 높이 차이는 다루지 않았다. 본 Liu 2025 후향 코호트(206명, 395 contact, Cox 모델)는 PCL의 다변량 독립인자로 식편압입(HR 2.75)에 더해 **잔존치조제 높이 차이(HR 2.51)와 인접치 진행성 골소실(>3/8 root, HR 5.83)** 이라는 해부학적 인자를 새로 식별해 기존 PCL 위험인자 근거를 확장·보강한다.
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective cohort (206 patients, 395 implant-crown↔natural-tooth contact points, 2015–2025, Cox regression): PCL incidence 67.5% patient-level / 40.3% contact-level; independent predictors were food impaction (HR 2.75), residual ridge height discrepancy (HR 2.51), and severe adjacent alveolar bone loss >3/8 root length (HR 5.83).
+Retrospective cohort (206 patients, 395 implant-crown↔natural-tooth contact points, 2015–2025, Cox regression): PCL incidence 67.5% patient-level / 40.3% contact-level;
 
-## 한줄요약
+independent predictors were food impaction (HR 2.75), residual ridge height discrepancy (HR 2.51), and severe adjacent alveolar bone loss >3/8 root length (HR 5.83).
 
-후향 코호트(206명·395 contact·Cox 회귀): PCL 발생률 환자단위 67.5%·접촉점단위 40.3%; 다변량 독립인자는 식편압입(HR 2.75)·잔존치조제 높이 차이(HR 2.51)·인접치 중증 골소실 >3/8 root(HR 5.83). 인구·행동·보철 변수는 무의미.
+(incomplete)
+
+## 세줄요약
+
+후향 코호트(206명·395 contact·Cox 회귀): PCL 발생률 환자단위 67.5%·접촉점단위 40.3%;
+
+다변량 독립인자는 식편압입(HR 2.75)·잔존치조제 높이 차이(HR 2.51)·인접치 중증 골소실 >3/8 root(HR 5.83).
+
+인구·행동·보철 변수는 무의미.
 
 ## 1. Document Information
 

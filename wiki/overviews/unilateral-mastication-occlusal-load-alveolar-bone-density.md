@@ -3,7 +3,7 @@ title: "Overview: Unilateral Mastication & Occlusal Load → Alveolar Bone Densi
 type: synthesis
 category: overviews
 date: 2026-06-14
-confidence: synthesis
+evidence_level: synthesis
 source_papers:
   - wiki/implants/lee-2018-unilateral-mastication-bone-density-alveolus.md
   - wiki/bone-biology/chen-2023-occlusal-force-alveolar-bone-type-h-angiogenesis.md
@@ -13,7 +13,7 @@ source_papers:
   - wiki/tmj/zheng-2023-unilateral-chewing-tmj-structure-tmd-review.md
 tags: [overview, occlusion, alveolar-bone, bone-density, unilateral-mastication, chewing-side-preference, disuse-osteoporosis, hounsfield-unit]
 relations:
-  - type: reinforces
+  - type: applies-to
     target: panagiotopoulou-2023-dynamic-fea-macaque-mandible-mastication
 ---
 
@@ -31,11 +31,21 @@ relations:
 > - 임상 적용 ②: 대합치 상실·무치악 분절은 ABDO 방향이므로 조기 교합 회복(보철)이 골 보존에 유리; 양측 균형저작 회복으로 밀도 비대칭 가역 가능.
 > - 한계: 직접 인체 근거 1편(Lee 2018, n=25)뿐 — HU 절대값은 기기/FOV 의존; 기전은 전부 설치류; 단면연구라 인과 방향 미해결; 임플란트 주위골엔 PDL이 없어 type H/SLIT3 기전 외삽은 불확실.
 
-## One-line Summary
-In unilateral chewers the working (chewing) side carries denser alveolar bone than the non-working side — significant at canine through molar and largest at the mandibular molar (~100 HU) — because occlusal load maintains alveolar bone (via PDL type H angiogenesis and Wnt signaling) while unloading drives a reversible disuse osteoporosis (↑sclerostin/RANKL, ↓BV/TV); the alveolar-bone response is load-positive and must be read separately from the chewing-side condyle, which remodels in a different direction.
+## Three-line Summary
 
-## 한줄요약
-편측저작 환자는 씹는 쪽(작업측) 치조골이 안 씹는 쪽보다 더 치밀(고밀도)하다 — 견치~대구치에서 유의하고 하악 대구치에서 차이 최대(~100 HU). 이는 교합 부하가 치조골을 유지(PDL type H 혈관·Wnt 신호)하고, 부하 상실이 가역적 폐용성 골다공증(sclerostin·RANKL↑, BV/TV↓)을 일으키기 때문이다; 치조골은 부하에 비례해 치밀해지므로(load-positive), 다른 방향으로 리모델링되는 작업측 과두와는 구분해 해석해야 한다.
+Synthesis of 6 papers: in unilateral chewers the working (chewing) side carries denser alveolar bone than the non-working side — significant at canine through molar, largest at the mandibular molar (~100 HU; 513 vs 409 HU) in a CBCT cross-sectional study (Lee 2018, n=25), with no difference at incisors where occlusal force is lowest.
+
+The mechanism is occlusal-load-dependent bone maintenance via PDL type H angiogenesis (CD31hi/EMCNhi vessels coupled to OSX+ osteoprogenitors; PIEZO1/Ca2+/HIF-1α/SLIT3; Chen 2023), while unloading drives reversible alveolar bone disuse osteoporosis (↑sclerostin/RANKL, ↓BV/TV; Xu 2016) — bone density asymmetry is reversible upon occlusal restoration (Liu 2015, Hayashi 2014).
+
+The alveolar-bone response is load-positive; the same unilateral chewing causes the ipsilateral condyle to remodel in the opposite direction (smaller, displaced superiorly, reduced joint space), so "unilateral mastication effect" must be parsed tissue-by-tissue, not treated as a single vector.
+
+## 세줄요약
+
+6편 종합: 편측저작 환자는 씹는 쪽(작업측) 치조골이 안 씹는 쪽보다 치밀 — 견치~대구치에서 유의하고 하악 대구치 최대(~100 HU, 513 vs 409 HU; Lee 2018 CBCT n=25), 절치부는 차이 없음(교합력 최소 부위).
+
+기전: 교합 부하가 PDL type H 혈관·OSX+ 골전구세포를 통해 치조골을 능동 유지(Chen 2023), 부하 상실은 sclerostin·RANKL↑로 가역적 폐용성 골다공증(BV/TV↓; Xu 2016)을 유발 — 교합 회복 시 골밀도 정상화(Liu 2015, Hayashi 2014).
+
+치조골은 부하에 비례 치밀화(load-positive); 같은 편측저작에서 동측 과두는 반대 방향(소형화·상방변위·관절간극↓)으로 리모델링되어 "편측저작 효과"는 조직별로 분리해 해석해야 한다.
 
 ## Thesis
 "편측저작을 하면 그 쪽 치조골이 더 단단한가?"에 대한 답은 **그렇다 — 작업측(씹는 쪽)이 비작업측보다 치조골 밀도가 높다**이며, 위키 내 근거가 인체 정량 데이터와 분자 기전 양쪽에서 일치한다.
@@ -68,11 +78,11 @@ In unilateral chewers the working (chewing) side carries denser alveolar bone th
 5. **치조골과 과두를 섞지 말 것.** "편측저작 → 작업측 치조골 경화(↑)"와 "편측저작 → 작업측 과두 축소·변위(TMD 위험)"은 별개 축이다(Zheng 2023). 진단·설명 시 조직을 구분한다.
 
 ## Gaps & Future Research
-- **직접 인체 근거가 1편(Lee 2018, n=25)뿐**이다. CBCT HU의 절대값은 기기·FOV 의존적이라 외삽 한계가 있고, 더 큰 표본·다기기 검증이 없다 [claude해석].
+- **직접 인체 근거가 1편(Lee 2018, n=25)뿐**이다. CBCT HU의 절대값은 기기·FOV 의존적이라 외삽 한계가 있고, 더 큰 표본·다기기 검증이 없다 [미검증].
 - **기전 근거는 전부 설치류/마우스**(Chen, Xu, Liu, Hayashi)다 — 인체 치조골에서 type H 혈관·sclerostin 축의 직접 검증은 공백.
 - Chen 2023·일부는 abstract-only로 인제스트되어 **figure-level 정량값 미확보** — 필요 시 full text 재추출 대상.
 - 편측저작의 **인과 방향**(편측저작이 밀도 비대칭을 만드는가, 아니면 한쪽 불편/병소가 편측저작을 유발하는가)은 단면연구 설계상 미해결.
-- **임플란트 주위골에는 PDL이 없다** — PDL 중심의 type H/SLIT3 기전을 임플란트 부위로 직접 외삽하는 것은 불확실(Chen 2023 한계) [claude해석].
+- **임플란트 주위골에는 PDL이 없다** — PDL 중심의 type H/SLIT3 기전을 임플란트 부위로 직접 외삽하는 것은 불확실(Chen 2023 한계) [미검증].
 
 ## Related Papers
 - [[implants/lee-2018-unilateral-mastication-bone-density-alveolus]] — anchor: 작업측 vs 비작업측 치조골 밀도(HU) 인체 CBCT 직접 비교

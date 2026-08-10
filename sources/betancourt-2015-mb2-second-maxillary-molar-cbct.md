@@ -13,8 +13,21 @@ source_collection: external
 
 같은 저자의 후속 연구 [[endodontics/anatomy/betancourt-2016-mb2-prevalence-location-cbct]] (1,100 molars) 의 선행 데이터. 2MM 단일에 대한 더 작은 표본 (n=225) — 동일 측정 프로토콜 사용해 cohort-internal 재현성 확인 가능.
 
-## One-line Summary
-CBCT cross-sectional (n=225 Chilean 2MM): MB2 prevalence 48%; PMB1로부터 palatal 2.2±0.54 mm + mesial 0.98±0.35 mm; 남성↑ (63%).
+## Three-line Summary
+
+CBCT cross-sectional study (n=225 maxillary second molars, Chilean population, University of La Frontera) measuring MB2 canal prevalence and geometric location relative to PMB1 at 1 mm apical to the pulpal floor.
+
+MB2 prevalence was 48% (108/225); location: 2.2±0.54 mm palatal and 0.98±0.35 mm mesial to PMB1; males had significantly higher MB2 prevalence (63%); no hemi-arch difference.
+
+Single population (Chilean) and single tooth type (2MM) limit generalizability; the smaller sample (n=225) was expanded in the authors' subsequent 1,100-molar study.
+
+## 세줄요약
+
+CBCT 횡단면 연구(상악 제2대구치 225개, 칠레 인구, La Frontera 대학) — 치수강 저부 1 mm 하방에서 MB2 존재율과 PMB1 기준 위치 측정.
+
+MB2 존재율 48% (108/225); 위치: PMB1로부터 구개측 2.2±0.54 mm + 근심 0.98±0.35 mm; 남성에서 유의하게 높음 (63%); 좌우 차이 없음.
+
+단일 인구(칠레)·단일 치아(2MM) 한계; 동일 저자의 후속 1,100개 연구로 확장됨.
 
 ## 1. Document Information
 - Int J Clin Exp Med 8(6):9128-9134, 2015

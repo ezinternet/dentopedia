@@ -16,13 +16,21 @@ text_filename: singh-2026-active-tactile-sensibility-implant-natural-teeth-sr.tx
 
 기존 occlusion 카테고리는 임플란트 보철의 교합 접촉을 어떻게 설계하는지(가벼운 접촉, 시간경과 변화)를 다루지만, *왜* 임플란트가 더 가벼운 접촉을 요구하는지의 신경생리학적 근거 — 치주인대 기계수용기 소실과 골유착감각(osseoperception) — 은 페이지로 정리되지 않았다. 이 SR은 단일 임플란트 vs 자연치의 능동 촉각 감수성(ATS) 역치를 정량 비교(임플란트 10–100µm vs 자연치 <10–50µm)하여, [[occlusion/zhang-2022-two-occlusal-patterns-posterior-implant-crowns-prospective]]의 가벼운 임플란트 접촉 프로토콜과 [[occlusion/mao-2024-occlusal-changes-implant-supported-single-crowns]]의 시간경과 교합 변화 관찰에 기계수용적 근거를 제공한다.
 
-## One-line Summary
+## Three-line Summary
 
-PRISMA SR of 6 clinical studies (4 RCTs, 1 prospective, 1 cross-sectional): single-implant active tactile sensibility thresholds (10–100 µm) are consistently higher (coarser) than natural-tooth thresholds (<10–50 µm), but osseoperception improves over time with functional loading; immediate loading and occlusion against a natural antagonist accelerate sensory recovery — the physiological rationale for lighter implant occlusal contacts.
+PRISMA SR of 6 clinical studies (4 RCTs, 1 prospective, 1 cross-sectional): single-implant active tactile sensibility thresholds (10–100 µm) are consistently higher (coarser) than natural-tooth thresholds (<10–50 µm), but osseoperception improves over time with functional loading;
 
-## 한줄요약
+immediate loading and occlusion against a natural antagonist accelerate sensory recovery — the physiological rationale for lighter implant occlusal contacts.
 
-임상연구 6편(RCT 4·전향 1·단면 1)을 종합한 PRISMA 체계적 고찰: 단일 임플란트의 능동 촉각 감수성(ATS) 역치(10–100µm)는 자연치(<10–50µm)보다 일관되게 높지만(둔감), 기능적 부하와 함께 골유착감각이 시간경과로 개선된다. 즉시부하·자연치 대합이 감각 회복을 가속한다 — 임플란트 교합을 더 가볍게 설계해야 하는 생리학적 근거.
+(incomplete)
+
+## 세줄요약
+
+임상연구 6편(RCT 4·전향 1·단면 1)을 종합한 PRISMA 체계적 고찰: 단일 임플란트의 능동 촉각 감수성(ATS) 역치(10–100µm)는 자연치(<10–50µm)보다 일관되게 높지만(둔감), 기능적 부하와 함께 골유착감각이 시간경과로 개선된다.
+
+즉시부하·자연치 대합이 감각 회복을 가속한다 — 임플란트 교합을 더 가볍게 설계해야 하는 생리학적 근거.
+
+(incomplete)
 
 ## 1. Document Information
 

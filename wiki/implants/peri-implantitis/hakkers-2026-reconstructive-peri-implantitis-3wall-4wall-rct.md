@@ -6,7 +6,7 @@ date: 2026-01-01
 doi: 10.1111/jcpe.70123
 source: hakkers-2026-reconstructive-peri-implantitis-3wall-4wall-rct.md
 category: [implants/peri-implantitis]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: true
 pmid: "41992493"
@@ -24,13 +24,21 @@ relations:
     target: monje-2025-surface-decontamination-reconstructive-peri-implantitis
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Single-blind RCT (n=52 patients, 63 implants, 1 year) comparing reconstructive peri-implantitis surgery (autogenous bone + xenograft + collagen membrane) vs open-flap debridement in 3- and 4-wall defects: reconstruction improved radiographic marginal bone levels (β = −1.65 mm at 12 months; p<0.001) and reduced mid-buccal recession (β = −1.68 mm; p<0.001) but showed no difference in PPD, BoP, SoP, or composite disease resolution (≈44% in both groups).
+Single-blind RCT (n=52 patients, 63 implants; University Medical Center Groningen; 1-year follow-up) comparing reconstructive surgery (autogenous bone + Bio-Oss xenograft + Bio-Gide membrane) vs open-flap debridement for 3- and 4-wall peri-implantitis defects that failed non-surgical treatment.
 
-## 한줄요약
+Reconstruction significantly improved radiographic marginal bone levels (β = −1.65 mm at 12 months; p<0.001) and reduced mid-buccal recession (β = −1.68 mm; p<0.001), but showed no difference in PPD, BoP, SoP, or composite disease resolution (≈44% in both groups).
 
-단일맹검 RCT (n=52명, 1년): 3·4벽 임플란트주위염 골결손에서 재건적 수술 (자가골 + 이종골 + 콜라겐막)은 개방소파술 대비 변연골 수준 (Marginal Bone Level, MBL) 개선 (β = −1.65 mm; p<0.001)과 협측 연조직 퇴축 감소 (β = −1.68 mm; p<0.001)에서 유의한 이점을 보였으나, 치주낭 깊이 (Probing Pocket Depth, PPD)·출혈 (Bleeding on Probing, BoP)·화농 (Suppuration on Probing, SoP)·복합 질환 해소율(양군 모두 약 44%)에는 차이가 없었다.
+The radiographic-clinical paradox — better structural anatomy without better inflammatory control — challenges reliance on radiographic defect fill as a surrogate for biological success; reconstruction also carried significantly more adverse events (pain, dryness, metal taste, headache).
+
+## 세줄요약
+
+단일맹검 RCT(n=52명, 63개 임플란트; 네덜란드 흐로닝언 대학병원; 1년 추적) — 비외과적 치료에 실패한 3·4벽 임플란트주위염 골결손에서 재건수술(자가골 + Bio-Oss + Bio-Gide 막)과 개방소파술(Open-Flap Debridement, OFD)을 비교.
+
+재건수술은 12개월 시점 방사선학적 변연골 수준(Marginal Bone Level, MBL) 개선(β = −1.65 mm; p<0.001)과 협측 점막 퇴축 감소(β = −1.68 mm; p<0.001)에서 유의한 이점을 보였으나, 탐침깊이(PPD)·탐침출혈(BoP)·탐침화농(SoP)·복합 질환 해소율(양군 모두 약 44%)에는 차이가 없었다.
+
+더 나은 골 구조물임에도 염증 조절이 개선되지 않는 방사선학적-임상적 역설은 방사선학적 결손 충전을 생물학적 성공의 대리지표로 사용하는 것에 의문을 제기하며, 재건수술은 이상반응(통증·구강건조·금속미각·두통)도 유의하게 더 많았다.
 
 ## Summary
 

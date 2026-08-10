@@ -6,20 +6,33 @@ date: 2024-03-31
 doi: 10.1055/s-0044-1779424
 source: pujarern-2024-biofilm-removal-implant-airflow-erythritol.md
 category: [implants/peri-implantitis]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/pujarern-2024-biofilm-removal-implant-airflow-erythritol.pdf
 pdf_filename: pujarern-2024-biofilm-removal-implant-airflow-erythritol.pdf
 source_collection: external
 tags: [air-polishing, erythritol, sodium-bicarbonate, biofilm, decontamination, in-vitro]
+relations:
+  - type: extends
+    target: peri-implantitis-management-overview
+  - type: reinforces
+    target: baima-2022-surface-decontamination-protocols-surgical-periimplantitis
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In-vitro study (33 Dentium SuperLine II implants, 3 groups of n=11): both sodium bicarbonate (40 µm) and erythritol (14 µm) air-abrasion powders removed biofilm far better than untreated control (mean OD 0.130 / 0.129 vs 0.728; p<0.05) with no significant difference between the two powders (p>0.05) — favoring smaller-particle erythritol for lower implant-surface damage.
+In-vitro study (33 Dentium SuperLine II bone-level implants, 3 groups n=11 each) comparing sodium bicarbonate (SB, 40 µm) vs erythritol (ERY, 14 µm) air-polishing powders for implant-surface biofilm removal.
 
-## 한줄요약
+Both SB and ERY removed biofilm far better than untreated control (mean OD 0.130 / 0.129 vs 0.728; p<0.05) with no significant difference between the powders (p>0.05), refuting the larger-particle-cleans-better hypothesis.
 
-체외(in-vitro) 연구(임플란트 33개, 3군 각 n=11): 탄산수소나트륨(Sodium Bicarbonate, SB, 40 µm)과 에리스리톨(Erythritol, ERY, 14 µm) air-polishing 파우더 모두 무처치 대조군 대비 생물막을 훨씬 잘 제거(평균 광학밀도 OD 0.130·0.129 vs 0.728; p<0.05)했고 둘 사이 차이는 유의하지 않아(p>0.05), 표면 손상이 적은 에리스리톨이 임상적으로 선호된다.
+Because SB causes greater surface damage (crater-like defects) while ERY barely alters the surface, equal cleaning efficacy shifts the clinical recommendation toward the smaller-particle erythritol powder.
+
+## 세줄요약
+
+체외(In-vitro) 연구(덴티움 SuperLine II 골수준 임플란트 33개, 3군 각 n=11): 탄산수소나트륨(Sodium Bicarbonate, SB, 40 µm)과 에리스리톨(Erythritol, ERY, 14 µm) 에어폴리싱 파우더의 임플란트 표면 생물막 제거 효능을 비교.
+
+두 파우더 모두 대조군 대비 생물막을 현저히 제거(평균 광학밀도(Optical Density, OD) 0.130/0.129 vs 0.728; p<0.05)했으며, SB-ERY 간 차이는 유의하지 않아(p>0.05) 큰 입자가 더 잘 제거한다는 가설이 반박됨.
+
+SB는 표면 분화구형 손상을 유발하는 반면 ERY는 표면을 거의 변형시키지 않으므로, 동등한 세정 효능을 고려하면 임상적으로 입자가 작은 에리스리톨 파우더가 선호된다.
 
 ## Summary
 

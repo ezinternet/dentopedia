@@ -6,7 +6,7 @@ date: 2024-02-19
 doi: 10.1016/j.dental.2024.02.003
 source: kwon-2024-strength-limiting-defects-zirconia-cad-cam.md
 category: [dental-materials/zirconia]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/kwon-2024-strength-limiting-defects-zirconia-cad-cam.pdf
 pdf_filename: kwon-2024-strength-limiting-defects-zirconia-cad-cam.pdf
 source_collection: external
@@ -18,13 +18,21 @@ relations:
     target: cesar-2024-dental-zirconia-15years-material-processing
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In vitro fractographic study (n=168 specimens, 7 zirconia materials, 3–5 mol% Y) showing CAM-milling defects dominate as-sintered strength while polishing shifts failure to intrinsic subsurface pores and grain clusters.
+In vitro fractographic study (n=168 four-point bend specimens, 7 commercial CAD/CAM zirconia materials, 3–5 mol% Y, FE-SEM + EDS at fracture origins) comparing as-sintered versus high-polished surface states.
 
-## 한줄요약
+CAM-milling defects (surface gouges, edge chips) dominated fracture origins in as-sintered specimens; high-polishing shifted failure to intrinsic flaws (pores, grain clusters, foreign inclusions) — raising mean strength but reducing Weibull modulus (reliability paradox).
 
-7종 CAD/CAM 지르코니아(3–5Y) 굴곡강도·파절기원 연구로, as-sintered 시편은 CAM 밀링 결함이, 고연마 시편은 내재 공극·결정립 집합이 파절 기원임을 FE-SEM 파절기술로 규명했다.
+EDS identified manufacturing contaminants (Al, Si, Ca, Fe) at fracture origins in some blanks, demonstrating that blank quality variation across manufacturers is a clinically relevant but opaque risk factor.
+
+## 세줄요약
+
+7종 CAD/CAM 지르코니아(3–5Y, n=168 4점 굽힘 시편) as-sintered vs 고연마 상태의 굴곡강도·Weibull 계수·파절기원 FE-SEM+EDS 비교.
+
+As-sintered: 밀링 결함(표면 스크래치·에지 칩)이 파절 기원 지배; 고연마 후: 내재 결함(공극·결정립 집합·이물질 개재물)으로 기원 전환 — 평균 강도 증가하나 Weibull 계수 감소(신뢰도 역설).
+
+EDS에서 파절기원의 제조 오염물(Al·Si·Ca·Fe) 확인 — 제조사별 블랭크 품질 차이가 임상적으로 중요하나 불투명한 위험 인자.
 
 ## Summary
 

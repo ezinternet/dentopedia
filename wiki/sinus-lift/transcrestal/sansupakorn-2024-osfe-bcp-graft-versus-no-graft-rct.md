@@ -6,7 +6,7 @@ date: 2024-05-27
 doi: 10.1007/s00784-024-05736-w
 source: sansupakorn-2024-osfe-bcp-graft-versus-no-graft-rct.md
 category: [sinus-lift/transcrestal]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/sansupakorn-2024-osfe-bcp-graft-versus-no-graft-rct.pdf
 pdf_filename: sansupakorn-2024-osfe-bcp-graft-versus-no-graft-rct.pdf
 source_collection: external
@@ -18,11 +18,19 @@ relations:
     target: volpe-2022-osteotome-blood-clot-collagen-sponge-atrophied-maxilla
 ---
 
-## One-line Summary
-RCT (n=30, 1 yr, TCTR20210517008): BCP (HA30:TCP70) graft in OSFE shows no benefit over graftless OSFE in ISQ (p=0.56), survival, or bone gain; graftless group had significantly less marginal bone change.
+## Three-line Summary
+RCT (n=30 implants, 1 year, TCTR20210517008) in single upper premolar/molar sites comparing OSFE with BCP graft (HA30:TCP70, n=15) versus graftless OSFE (n=15), with CBCT-based volumetric bone gain and ISQ measured at 3, 6, 9, and 12 months.
 
-## 한줄요약
-RCT(30임플란트, 1년): OSFE+BCP(HA30:TCP70)는 무이식 OSFE 대비 ISQ·생존율·골이득 모두 차이 없으며, 오히려 변연골 변화는 무이식 군이 유의미하게 적음.
+BCP graft showed no significant benefit over graftless OSFE in ISQ at 1 year (78.72 vs 79.65, p=0.56), implant survival, or endo-sinus bone gain; the graftless group had significantly less marginal bone change at 6, 9, and 12 months (p<0.05).
+
+Alloplastic BCP grafting in OSFE provides "no extraordinary benefit" over graftless OSFE and may introduce marginal bone disadvantage, supporting the recommendation for graftless OSFE when primary stability is achievable.
+
+## 세줄요약
+RCT (30 임플란트, 1년, TCTR20210517008) — 상악 소구치/대구치 단일 결손부에서 OSFE+BCP 이식(HA30:TCP70, n=15) vs 무이식 OSFE(n=15) 비교, 3·6·9·12개월 CBCT 부피 측정·ISQ 평가.
+
+BCP 이식군이 1년 ISQ(78.72 vs 79.65, p=0.56)·생존율·골이득 모두 무이식군 대비 유의차 없음; 무이식군에서 6·9·12개월 변연골 변화(Marginal Bone Change)가 유의하게 적음(p<0.05).
+
+BCP 이식은 무이식 대비 "특별한 이점 없음" + 변연골 손실 증가 가능 — 1차 안정성 확보 가능 시 무이식 OSFE 권장.
 
 ## Summary
 

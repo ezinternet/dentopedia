@@ -6,7 +6,7 @@ date: 2025-06-24
 doi: 10.3290/j.ohpd.c_2169
 journal: Oral Health and Preventive Dentistry 23:403-417
 source: baghalipour-2025-mronj-prevention-management-review.md
-confidence: narrative-review
+evidence_level: narrative-review
 category: [drug/mronj]
 pdf_path: /Users/oracleneo/llm-wiki/papers/baghalipour-2025-mronj-prevention-management-review.pdf
 pdf_filename: baghalipour-2025-mronj-prevention-management-review.pdf
@@ -14,11 +14,21 @@ source_collection: external
 tags: [MRONJ, bisphosphonate, denosumab, antiangiogenic, osteonecrosis, prevention, quaternary-prevention, drug-holiday, CHX]
 ---
 
-## One-line Summary
-Comprehensive review (2025): 4-level MRONJ prevention framework (primary = pre-medication dental treatment, secondary = intraoperative, tertiary = established MRONJ management, quaternary = preventing over-medicalization); primary prevention most effective; IV bisphosphonates and denosumab are highest risk.
+## Three-line Summary
 
-## 한줄요약
-포괄적 고찰(2025): MRONJ 4단계 예방 체계(1차=투약 전 치과 처치, 2차=술중, 3차=확립된 MRONJ 관리, 4차=과잉의료화 방지); 1차 예방이 가장 효과적; IV 비스포스포네이트·데노수맙 고위험
+Narrative review (2025) synthesizing MRONJ prevention and management across all dental specialties using a 4-level framework (primary/secondary/tertiary/quaternary prevention).
+
+Primary prevention — full dental clearance before starting antiresorptive therapy — is the most evidence-supported strategy; IV bisphosphonates (zoledronic acid) and high-dose denosumab (Xgeva 120 mg) carry the highest MRONJ risk.
+
+Clinical implication: IV bisphosphonate and high-dose denosumab patients should not receive implants; oral BP <3 yr patients may proceed with informed consent; drug holiday (2 months pre/post) is recommended for oral BP >3 yr or IV BP before invasive procedures.
+
+## 세줄요약
+
+2025년 서술적 고찰 — 모든 치과 전문과에 걸친 MRONJ 예방·관리를 4단계 예방 체계(1차·2차·3차·4차)로 종합.
+
+1차 예방(항흡수제 투여 전 치과 처치 완료)이 가장 근거 있는 전략; IV 비스포스포네이트(조레드론산)·고용량 데노수맙(Xgeva 120 mg)이 최고 위험군.
+
+IV 비스포스포네이트·고용량 데노수맙 환자는 임플란트 금기; 경구 BP <3년은 동의 후 가능; 경구 BP >3년·IV BP는 침습 처치 전후 2개월 drug holiday 권장.
 
 ## Summary
 Comprehensive narrative review of MRONJ prevention across all dental specialties using a **4-level prevention framework**. Primary prevention (pre-medication dental clearance) is the most effective strategy. Covers all causative medications: bisphosphonates (oral/IV), denosumab, antiangiogenics, mTOR inhibitors.
@@ -71,6 +81,6 @@ Before starting medication:
 - Oral BP >3yr: drug holiday + specialist evaluation required before implant placement
 
 ## Related Papers
-- [[drug/lee-2023-bisphosphonates-dental-procedures-bronj]] — bisphosphonate mechanism, BRONJ staging, AAOMS staging detail
-- [[drug/ghimire-2022-medically-compromised-prosthodontic-patients]] — prosthodontic perspective on MRONJ drug holiday
-- [[drug/ufcd-2019-medically-complex-patients-management-guidelines]] — Section 6: institutional MRONJ protocol + drug holiday table
+- [[drug/mronj/lee-2023-bisphosphonates-dental-procedures-bronj]] — bisphosphonate mechanism, BRONJ staging, AAOMS staging detail
+- [[drug/mronj/ghimire-2022-medically-compromised-prosthodontic-patients]] — prosthodontic perspective on MRONJ drug holiday
+- [[drug/mronj/ufcd-2019-medically-complex-patients-management-guidelines]] — Section 6: institutional MRONJ protocol + drug holiday table

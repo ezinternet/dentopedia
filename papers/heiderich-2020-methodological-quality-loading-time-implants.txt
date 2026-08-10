@@ -1,0 +1,99 @@
+Methodological quality and risk of bias of systematic reviews about loading time of multiple dental implants in totally or partially edentulous patients: An umbrella systematic review
+
+Heiderich CMC, Tedesco TK, Netto SS, de Sousa RC, Allegrini Júnior S, Mendes FM, Gimenez T.
+Japanese Dental Science Review. 2020;56(1):135-146.
+PMID: 33088366 | PMCID: PMC7567949 | DOI: 10.1016/j.jdsr.2020.09.004
+
+ABSTRACT
+
+Background
+There are several systematic reviews of multiple implant loading techniques, but results are conflicting.
+
+Aim
+To perform an umbrella review on methodological quality of systematic reviews about techniques for loading multiple dental implants.
+
+Material and methods
+MEDLINE (PubMed) and Scopus were searched up to December 31, 2019. Unpublished literature was searched through OpenGray and references of included articles were manually verified. Eligibility criteria were: articles had to (1) be about multiple dental implants; (2) mention the moment of loading; (3) be a systematic review. Two independent reviewers participated in the entire process. Qualitative description of included studies as well as methodological quality measurement and risk of bias through AMSTAR and ROBIS were performed.
+
+Results
+21 reviews were included. Thirteen stated that there was a similarity between loading techniques, two did not affirm which one was more appropriate and six mentioned that conventional technique was better. Eight papers were classified as high risk of bias, twelve as low and one as uncertain risk.
+
+Conclusion
+When evaluating only studies with a low risk of bias, there are no significant differences in implant loading time.
+
+FULL TEXT
+
+1. Introduction
+
+The use of dental implants to rehabilitate tooth loss has increased in the last 30 years. At the beginning of the implantology, Branemark and colleagues recommended that a healing period of three months with the unloaded implant to the mandible and six months to the maxilla after implant placement was necessary to facilitate osseointegration. Currently, there are several variations with the aim of improving osseointegration and treatment success, such as the number of implants, type, and time installation of the prosthesis. Due to the new morphological designs, surface preparations and other implant-related features, studies have considered that the loading time can be reduced. Immediate loading of dental implants has gained widespread popularity because of its advantages in shortening treatment duration and improving esthetics and patient acceptance.
+
+There are several systematic reviews on different loading times of multiple dental implants for partially or totally edentulous patients. Multiple systematic reviews with different approaches can provide a complete picture of a topic, but these overwhelming systematic reviews published each month worldwide are often not well-conducted. In this sense, clinicians commonly modify their clinical decision making relying on the prestige of this kind of studies, because they represent the upper part of the evidence pyramid. And it is difficult for clinicians to perform a critical analysis on the methodological quality and risk of bias of these systematic reviews, but this can greatly influence the results found and its reliability. For that reason, summaries are necessary to appraise the evidence of systematic reviews through umbrella reviews, also called overview or revision of systematic reviews. The focus of an umbrella review is to provide a wide picture of the evidence related to a particular question and highlight where the evidence base for a question is consistent or if contradictory or discrepant findings exist and to explore and detail the reasons why. Thus, we performed an umbrella review about techniques for loading multiple dental implants in order to discuss methodological quality and risk of bias of those studies.
+
+2. Materials and methods
+
+2.1 Registration protocol
+The present study has been registered in the PROSPERO platform (CRD42018093633).
+
+2.2 Sources of information
+We have searched up to December 31, 2019 for systematic reviews that investigated techniques for loading multiple dental implants in totally or partially edentulous patient. The databases used were MEDLINE (PubMed) and Scopus. The unpublished literature was searched through the OpenGrey database and the references of the included articles were manually verified.
+
+2.3 Search strategy
+The search has been developed in the MEDLINE (PubMed) database based on the PICO question: "What are the methodological quality about regarding multiple implant loading techniques for edentulous patients?" using keywords and Mesh Terms and boolean operators OR and AND. There was no restriction on the language or the date of the publications. This strategy was adapted to the other databases used.
+
+2.4 Study selection and eligibility criteria
+All the titles and abstracts of studies found were initially evaluated based on the inclusion criteria: (1) they had to be about dental implants; (2) they had to mention the moment of loading; and (3) they had to be a systematic review.
+
+The full papers of the included studies for evaluation of the exclusion criteria were then read to ensure they were related to the direct comparison of different loading times of multiple dental implants and had followed the methodology of a systematic review. Immediate loading was considered when the prosthesis was installed immediately after the implant placement surgery. With conventional loading, the time between implant placement and prosthesis installation varies from 4 months (for the mandible) to 6 months (for the maxilla).
+
+The selection of studies was performed independently by two reviewers (CH and SN). The discordances were resolved by talking with a third researcher (TG). For studies with the same data set, such as updates of systematic reviews, only the work considered more complete was included.
+
+2.5 Data collection
+Two independent reviewers (CH and TKT) have collected data in structured tables in Excel spreadsheets (Office 2016 for Windows).
+
+The information extracted was: authors, year, title of the review, protocol record (yes or no), number of articles included, databases used, date of search, search strategy, number of reviewers, inclusion and exclusion criteria, data collected, quality and risk analysis of bias (yes or no and which tool was used), type of analysis (qualitative or quantitative), the results found in terms of success or failure of the implants, and conclusion of the review. We have considered results related to success and failure, implant survival data, evaluation of osseointegration and post-implant complications, such as bone loss.
+
+2.6 Evaluation of methodological quality, risk of bias and data synthesis
+The methodological evaluation was performed by using the AMSTAR tool and the risk of bias of the included systematic reviews through the ROBIS tool by other two independent reviewers (FMM and RCS). The interpretation of the questions and requirements for classification regarding the responses to the quality and risk of bias assessment followed the requirements proposed by the tools themselves. A qualitative description of the included studies was also performed.
+
+3. Results
+
+Seven hundred and fifty-seven articles were found in both databases. After removing the duplicates, 609 unique articles were evaluated through the titles and abstracts to verify the inclusion criteria, of which 50 were selected. After applying the exclusion criteria, 21 articles were considered eligible. No articles were found in the OpenGrey database or found manually. Kappa inter-reviewers were 0.8 in the screening process.
+
+The included systematic reviews were published between 2004 and 2019 and selected from six to one hundred and twenty primary articles. Most of the revisions searched more than one database. In addition, seven did not make clear how many reviewers participated in the study selection and data collection. Only eight reviews did not make any restrictions on the language, and the rest included practically only articles in English. Virtually all systematic reviews included randomized or non-randomized clinical trials, but some prospective studies were also included. Five reviews did not specify whether the implants were in the maxilla or mandible, eight of them evaluated the implants in both arches, five studies only in the mandible and three only in the maxilla. Most of the reviews included articles with at least six months of follow-up, but seven did not report any criteria for follow-up. Fourteen reviews stated that there was a similarity between loading techniques (conventional and immediate), two stated it was not possible to confirm which one was more appropriate and five said that the conventional technique was better.
+
+Regarding methodological quality, most of the studies presented a positive response (good quality) to the questions related to the protocol provided a priori, selection of studies by two reviewers, comprehensive search strategy, search for gray literature and provide characteristics of included studies. Almost half did not assess the quality of included studies nor did use this evaluation to consider the conclusion. Twelve did not conduct a meta-analysis or checked publication bias. Only one article provided the list of excluded articles and only three included a conflict of interest statement.
+
+As for the risk of bias, eight systematic reviews presented high risk of bias, while the other twelve were classified as low risk and one as an uncertain risk. The domains that presented a high risk of bias for most of the studies were the identification and selection of studies as well as the synthesis of data, since some searches were not made in more than one database, there was a restriction regarding the date and language as well as if they had not performed any statistical method for grouping the data. Articles classified as high risk, in addition to the previous characteristics, did not perform a correct data collection and evaluation.
+
+For studies classified as high risk of bias through the ROBIS tool, three obtained favorable results for the conventional loading method, four with similar results between conventional and immediate protocol, and one did not confirm which would be better. As for articles classified as low risk, ten showed similarity between the protocols, two were in favor of the conventional method and one did not state which would be better. The only article classified as an uncertain risk showed similarity between loading moments.
+
+4. Discussion
+
+This is the first overview that proposes to evaluate the methodological quality and risk of bias of the systematic reviews published and unpublished about different moments of loading of dental implants. It was observed that most of the reviews sought to analyze the success in the implantation of implants, either in terms of their failure, survival or bone integration; although, through the randomized studies, there is a similarity in the results among the techniques discussed.
+
+Among the analyzed articles, a high risk of bias is observed. From the 21 articles, eight presented high risk, twelve presented low risk and one was not clear. Considering that practically 40% of the works presented a high risk of bias, the professional is placed in a situation of conflict over the success, since some of the results found in the systematic reviews do not seem to be reliable. However, when we evaluate the results found only by the works with low risk of bias, we perceive a hegemony showing similarity between the moments of loading. The tools used in this article have been widely applied in several umbrella reviews. Regarding methodological quality, we chose to use AMSTAR instead of AMSTAR-2 as the latter is indicated only to assess the methodological quality of systematic reviews of randomized controlled trials, and we have included systematic reviews that have also analyzed retrospective and prospective observational studies.
+
+This risk of bias is mostly due to failures in the selection of studies, since many of them imposed restrictions that were not adequate to the selection criteria, such as: language restriction, publication date, sample size, format, or publication status. As for the data synthesis, in many studies there was no adequate meta-analysis, disregarding the heterogeneity between the works, sensitivity analysis or biases presented in the original studies. The result is that a poor quality of data analysis is observed. The exclusion of articles in non-English language could be a negative point in some of the reviews. However, some authors argue that the exclusion of articles published in other languages does not seem to bias systematic reviews, therefore, it does not necessarily represent a methodological failure.
+
+Another negative point to be highlighted from the methodological quality was that only one systematic review has presented the list of excluded articles, the others have only presented the list of the included ones. This failure may have occurred because such a list is not required in the PRISMA checklist, as well as representing an extra table and pages to be used in the publication, which may represent extra cost. On the other hand, the vast majority provided a previous design through the registration of the PROSPERO platform. This fact contributes to the transparency of science, since it anticipates the data that will be analyzed before knowing which variables could benefit one or another primary article.
+
+Another point to be observed is that most of the studies do not specify whether the posterior or anterior region of the arches was studied, considering that bone density is lower in the posterior maxilla and about half the density in the anterior mandible, it is to be expected that dental implants may behave differently, depending on the location. In the same way, for studies using overdenture it was not always possible to specified whether the implants were stand-alone or interconnected. For a better success rate, it is believed that the implants should be interconnected, since, when isolated and under immediate load, the lateral forces received in a removable prosthesis could cause micromovements leading to an early failure in the implant-bone integration.
+
+The issue about loading multiple dental implants seems to be recent because apparently, the authors started to worry about this subject from the year 2004, and the publications on the subject had a high increase in 2009. Considering that there are about ten years of scientific research on the different loading techniques, we can see an impressive number of primary articles, since one of the revisions included 120 primary studies on the subject. However, some reviews have stated that studies on immediate loading are still less than conventional loading, and methodological quality is still far from optimal.
+
+The low methodological quality of the systematic reviews included the lack of consideration of external factors related to the patient (chewing, personal care, hygiene, etc.) and low time to follow the studies. The commercial trends can be considered as limitations to this research. Furthermore, considering the great methodological heterogeneity of systematic reviews and primary studies, and that practically all the studies with low risk of bias affirmed that the two techniques were similar, it became unnecessary to carry out meta-analysis with individual data.
+
+Therefore, considering studies with methodological flaws and high risk of bias it cannot be affirmed that there is no difference between the techniques. However, when we consider only those that were methodologically correct, we can state that regardless the loading time, success rates are similar, which leads us to believe that this success is more related to an adequate technique of placement of these implants before loading guaranteeing the success in immediate or medium prosthetic loading, due to a high locking torque, as well as in late loading, leading to a good maturation of the implant.
+
+5. Conclusion
+
+Considering only systematic reviews that were methodologically sound, success rates of dental implants are similar regardless the loading time.
+
+Conflict of interest
+The authors declare they do not have any conflict of interest.
+
+Ethics
+It does not apply.
+
+Source of funding
+Authors themselves.

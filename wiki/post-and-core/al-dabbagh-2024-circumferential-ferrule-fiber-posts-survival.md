@@ -6,7 +6,7 @@ date: 2024-01-11
 doi: 10.1016/j.prosdent.2023.12.002
 source: al-dabbagh-2024-circumferential-ferrule-fiber-posts-survival.md
 category: [post-and-core]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: false
 pmid: "38216376"
@@ -19,13 +19,21 @@ relations:
     target: mously-2024-anterior-endocrowns-alternative-core-crown
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (8 clinical studies, 407 teeth): a uniform circumferential ferrule significantly increased SUCCESS of fiber-post-restored ETT in direct analysis (RR=1.28, 95% CI 1.06-1.54), but indirect analysis across all studies showed no significant survival/success difference.
+SR+MA (8 clinical studies — RCTs + prospective cohorts, ≥6-month follow-up, 407 teeth) isolating the circumferential ferrule variable specifically in endodontically treated teeth (ETT) restored with prefabricated fiber posts.
 
-## 한줄요약
+Direct analysis (2 studies, 123 teeth): uniform circumferential ferrule significantly increased success (RR=1.28, 95% CI 1.06–1.54, p<0.05); indirect analysis pooling all 8 studies showed no statistically significant difference (p>0.05).
 
-SR+MA(임상연구 8편, 치아 407개): 균일한 원주형 페룰이 직접 분석에서 섬유포스트 수복 근관치료치아의 성공률을 유의하게 높였으나(RR=1.28, 95% CI 1.06-1.54), 전체 연구 간접분석에서는 생존·성공률 차이가 유의하지 않았음.
+Evidence favors preserving a circumferential ferrule, but the base is thin and the direct/indirect results diverge — higher-quality RCTs are needed before a firm recommendation can be made.
+
+## 세줄요약
+
+섬유포스트 (fiber post)로 수복된 근관치료치아 (Endodontically Treated Teeth, ETT)에서 원주형 페룰 (circumferential ferrule) 변수만 단독 분리한 SR+MA (임상연구 8편, ≥6개월 추적, 치아 407개).
+
+직접 분석 (2편, 123개): 균일한 원주형 페룰이 성공률 유의 향상 (RR=1.28, 95% CI 1.06–1.54, p<0.05); 전체 8편 간접 통합 분석: 유의차 없음 (p>0.05).
+
+페룰 보존을 지지하는 방향이나 근거 기반이 얇고 직접·간접 분석 결과 불일치 — 확정 권고를 위한 고품질 RCT 필요.
 
 ## Summary
 

@@ -7,7 +7,7 @@ doi: 10.11607/ijp.8016
 pmid: "36484665"
 source: le-2023-three-types-all-ceramic-posterior-3year-rct.md
 category: [dental-materials/zirconia]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 tags: [zirconia, high-translucency, lithium-disilicate, rct, posterior-crown, all-ceramic, 3year]
 relations:
@@ -20,13 +20,21 @@ text_filename: le-2023-three-types-all-ceramic-posterior-3year-rct.txt
 full_text: false
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Multicenter RCT (n=71, 84 crowns, 3y): high-translucency zirconia (ZC), ZC+partial veneer (ZC-V), and lithium disilicate (LDS) posterior crowns all achieve 98.8% survival with zero fractures; no significant difference in marginal integrity, surface, or anatomical form.
+Multicenter parallel-arm RCT (4 practices, n=71 patients, 84 crowns at 3y) randomizing posterior single crowns to high-translucency monolithic zirconia (ZC, likely 5Y-PSZ), ZC with partial buccal veneer (ZC-V), or lithium disilicate (LDS), evaluated by modified CDA criteria.
 
-## 한줄요약
+All three groups achieved 98.8% combined survival with zero fractures in any arm; no significant differences were found in marginal integrity, surface texture, or anatomical form across materials.
 
-다기관 RCT(n=71, 3년): 고투명 지르코니아·부분베니어 ZC·리튬디실리케이트 후방 단관 생존율 98.8%로 동등; 세 군 모두 파절 없음, 심미 평가 양호.
+ZC-V (partial veneer design) showed no increased fracture risk at 3 years, and patients consistently rated esthetics more favorably than clinicians across all material types — suggesting clinical scoring may underestimate patient satisfaction.
+
+## 세줄요약
+
+다기관 RCT(4개 치과, n=71명, 3년 84개 후방 단관): 고투명 모놀리식 지르코니아(ZC, 5Y-PSZ 추정)·부분 협측 베니어 ZC·리튬디실리케이트(LDS) 3군, 수정 CDA 기준 평가.
+
+3군 합산 생존율 98.8%, 전군 파절 없음; 변연 완전성·표면 질감·해부학적 형태 모두 군간 유의차 없음.
+
+ZC-V(부분 베니어) 3년 파절 없음 — 부분 베니어 설계 타당; 환자가 임상가보다 심미 평가 일관되게 높아 임상적 채점이 환자 만족도를 과소평가할 가능성 시사.
 
 ## Summary
 

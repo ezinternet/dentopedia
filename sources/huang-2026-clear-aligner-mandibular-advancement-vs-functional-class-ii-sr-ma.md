@@ -17,13 +17,21 @@ text_filename: huang-2026-clear-aligner-mandibular-advancement-vs-functional-cla
 
 This 2026 SR+MA is the larger, newer counterpart to [[wiki/orthodontics/clear-aligner/yu-2023-mandibular-advancement-aligner-vs-functional-class-ii-sr-ma]] on the identical CAMA-vs-functional-appliance Class II question. Both independently conclude comparable skeletal effect plus superior lower-incisor torque control with CAMA, so it **reinforces** (does not overturn) Yu, and adds a Herbst-specific comparison and quantified IMPA/overjet effect sizes.
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 9 studies (1 RCT + 8 NRSI, n=465): clear aligner mandibular advancement (CAMA) achieves skeletal effects (SNA/SNB/ANB, vertical) statistically comparable to Twin Block and Herbst; CAMA gives marginally greater overjet reduction (MD -0.46 mm, clinically minimal) and significantly less lower-incisor proclination (IMPA MD -0.90°); certainty of evidence low (mostly retrospective).
+SR+MA of 9 studies (1 RCT + 8 NRSI, n=465): clear aligner mandibular advancement (CAMA) achieves skeletal effects (SNA/SNB/ANB, vertical) statistically comparable to Twin Block and Herbst;
 
-## 한줄요약
+CAMA gives marginally greater overjet reduction (MD -0.46 mm, clinically minimal) and significantly less lower-incisor proclination (IMPA MD -0.90°);
 
-9편(RCT 1 + NRSI 8, n=465) SR+MA: 투명교정 하악전방유도(CAMA)의 골격효과(SNA/SNB/ANB·수직)는 트윈블록·Herbst와 통계적으로 동등. CAMA가 overjet 감소 약간 우위(MD -0.46 mm, 임상적으로 미미)이고 하악전치 순측경사 유의하게 적음(IMPA MD -0.90°). 근거수준은 낮음(대부분 후향연구).
+certainty of evidence low (mostly retrospective).
+
+## 세줄요약
+
+9편(RCT 1 + NRSI 8, n=465) SR+MA: 투명교정 하악전방유도(CAMA)의 골격효과(SNA/SNB/ANB·수직)는 트윈블록·Herbst와 통계적으로 동등.
+
+CAMA가 overjet 감소 약간 우위(MD -0.46 mm, 임상적으로 미미)이고 하악전치 순측경사 유의하게 적음(IMPA MD -0.90°).
+
+근거수준은 낮음(대부분 후향연구).
 
 ## 1. Document Information
 

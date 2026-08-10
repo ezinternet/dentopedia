@@ -13,11 +13,21 @@ source_collection: external
 
 [[dentin-hypersensitivity/joshi-2013-novamin-gluma-dentinal-tubule-occlusion-sem]]의 NovaMin(bioactive glass) 기전을 임상 RCT 수준으로 검증. [[dentin-hypersensitivity/martins-2022-desensitizing-toothpastes-formulations-scoping-review]]와 함께 OTC 탈감작 치약 근거 묶음 구성.
 
-## One-line Summary
-SR (15 RCTs; 7 low / 4 high / 4 moderate risk of bias) concluding low-concentration bioactive compounds (2.5–7.5%) are effective for DH at-home and in-office.
+## Three-line Summary
 
-## 한줄요약
-SR(RCT 15편): 저농도(2.5–7.5%) 생활성(bioactive) 화합물 함유 치약이 가정용·진료실용 모두 DH에 효과적.
+Systematic review (PROSPERO-registered, PRISMA; 15 RCTs from 4 databases) evaluating bioactive-glass and bioactive-compound dentifrices for dentin hypersensitivity (DH) in at-home and in-office settings; risk of bias was low in 7, moderate in 4, and high in 4 studies.
+
+Low-concentration bioactive compounds (2.5–7.5%) — including calcium sodium phosphosilicate (NovaMin/bioactive glass) — reduced DH effectively in both at-home and in-office applications across the included RCTs.
+
+Evidence is limited by mixed risk of bias and heterogeneous bioactive formulations and concentrations across studies; standardized protocols and longer follow-up are needed.
+
+## 세줄요약
+
+체계적 문헌고찰 (PROSPERO 등록, PRISMA; 4개 데이터베이스에서 RCT 15편 포함) — 생활성 유리 및 생활성 화합물 함유 치약이 가정용·진료실용으로 상아질 과민증 (Dentin Hypersensitivity, DH)에 효과적인지를 평가했다. 비뚤림 위험은 7편 낮음·4편 중간·4편 높음이었다.
+
+저농도 생활성 화합물(2.5~7.5%) — 칼슘 나트륨 인산규산염(NovaMin/생활성 유리) 포함 — 은 포함된 RCT 전반에서 가정용·진료실용 모두 DH를 효과적으로 감소시켰다.
+
+혼재된 비뚤림 위험과 제형·농도 이질성이 한계이며, 표준화된 프로토콜과 장기 추적이 필요하다.
 
 ## 1. Document Information
 - Saudi Dental Journal 2021. PROSPERO-registered, PRISMA; 4 databases Feb–Mar 2020 + gray literature.

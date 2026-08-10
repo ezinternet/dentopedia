@@ -6,7 +6,7 @@ date: 2024-07-30
 doi: 10.3290/j.jad.b5748881
 source: wolff-2024-direct-composite-restorations-permanent-teeth.md
 category: [resin]
-confidence: consensus
+evidence_level: consensus
 pdf_path: /Users/oracleneo/llm-wiki/papers/wolff-2024-direct-composite-restorations-permanent-teeth.pdf
 pdf_filename: wolff-2024-direct-composite-restorations-permanent-teeth.pdf
 source_collection: external
@@ -16,13 +16,21 @@ relations:
     target: astvaldsdottir-2015-posterior-resin-composite-longevity-sr
 ---
 
-## One-line Summary
+## Three-line Summary
 
-German S3 (GRADE) consensus guideline (20 societies, MEDLINE/Cochrane to Dec 2021, 6 PICO questions): direct composite is recommended for cavity Classes I–V, cusp replacement, and tooth-shape corrections, and should be preferred over indirect composite inlays in the posterior region.
+German S3 (GRADE) clinical practice guideline (AWMF 083-028; 20 national societies; MEDLINE/Cochrane search to December 2021; 6 PICO questions) — the first comprehensive evidence-based guideline on indications for direct composite in permanent teeth.
 
-## 한줄요약
+Direct composite is recommended for cavity Classes I–V, cusp-replacement restorations, and tooth-shape/position/shade corrections; in the posterior region direct composite should be preferred over indirect composite inlays.
 
-독일 S3(GRADE) 합의 가이드라인(20개 학회, 2021.12까지 문헌, 6개 PICO): 직접 복합레진은 I–V급 와동·교두수복·치형교정에 권장되며, 후방부에서는 간접 복합레진 인레이보다 우선 선택되어야 함.
+Class V restorations are endorsed when contamination control and adhesive technique are adequate; the guideline notes a need for long-term studies comparing composite with modified glass-ionomer alternatives.
+
+## 세줄요약
+
+독일 S3(GRADE) 임상 진료 지침(AWMF 083-028; 20개 국가 학회; MEDLINE/Cochrane 2021년 12월까지 검색; 6개 PICO) — 영구치 직접 복합레진 적응증에 대한 최초 포괄적 근거기반 가이드라인.
+
+직접 복합레진은 I–V급 와동, 교두 수복, 치형·위치·색조 교정에 권장되며 후방부에서는 간접 복합레진 인레이보다 우선 선택되어야 함.
+
+V급 수복은 오염 관리·접착 술식이 충분할 때 사용 가능; 변형 글래스아이오노머 비교 장기 연구 필요성을 명시.
 
 ## Summary
 

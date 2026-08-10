@@ -9,8 +9,21 @@ pdf_filename: petaibunlue-2019-anterior-arch-root-position-angulation.pdf
 source_collection: external
 ---
 
-## One-line Summary
-CBCT cross-sectional study evaluating how anterior arch form combined with Kan-class SRP relates to root-to-bone angulation in the maxillary esthetic zone.
+## Three-line Summary
+
+CBCT cross-sectional study evaluating how anterior arch
+
+form combined with Kan-class SRP relates to
+
+root-to-bone angulation in the maxillary esthetic zone.
+
+## 세줄요약
+
+CBCT cross-sectional study evaluating how anterior arch
+
+form combined with Kan-class SRP relates to
+
+root-to-bone angulation in the maxillary esthetic zone.
 
 ## 1. Document Information
 - **Title:** Influence of the anterior arch shape and root position on root angulation in the maxillary esthetic area
@@ -32,8 +45,8 @@ SRP carries a larger effect than arch form alone, but combined model (SRP × arc
 Cross-sectional; single population; arch classification still operator-judged.
 
 ## 6. Related Work
-- [[immediate-implant/kan-2011-sagittal-root-position-immediate-implant-anterior]]
-- [[immediate-implant/kong-2020-srp-maxillary-anterior-korean-population]]
+- [[immediate-implant/anatomic-assessment/kan-2011-sagittal-root-position-immediate-implant-anterior]]
+- [[immediate-implant/anatomic-assessment/kong-2020-srp-maxillary-anterior-korean-population]]
 
 ## 7. Glossary
 - **IIP:** Immediate Implant Placement — placement at the time of tooth extraction.

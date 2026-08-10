@@ -9,8 +9,21 @@ pdf_filename: pavlovic-2022-interradicular-septum-morphology-molar-iip.pdf
 source_collection: external
 ---
 
-## One-line Summary
-CBCT cross-sectional analysis of maxillary molar inter-radicular septum (IRS) morphology, framed as objective criteria for IIP feasibility.
+## Three-line Summary
+
+CBCT cross-sectional analysis of maxillary
+
+molar inter-radicular septum (IRS) morphology,
+
+framed as objective criteria for IIP feasibility.
+
+## 세줄요약
+
+CBCT cross-sectional analysis of maxillary
+
+molar inter-radicular septum (IRS) morphology,
+
+framed as objective criteria for IIP feasibility.
 
 ## 1. Document Information
 - **Title:** Assessment of Maxillary Molars Interradicular Septum Morphological Characteristics as Criteria for Ideal Immediate Implant Placement—The Advantages of Cone Beam Computed Tomography Analysis
@@ -32,8 +45,8 @@ Substantial site-to-site variability; quantifies the prevalence of "ideal IIP" a
 Cross-sectional anatomy-only; single population.
 
 ## 6. Related Work
-- [[immediate-implant/milenkovic-2022-interradicular-septum-classification-iip]]
-- [[immediate-implant/smith-2013-classification-molar-extraction-immediate-implant]]
+- [[immediate-implant/molar-septum/milenkovic-2022-interradicular-septum-classification-iip]]
+- [[immediate-implant/molar-septum/smith-2013-classification-molar-extraction-immediate-implant]]
 - [[immediate-implant/deporter-2021-cbct-immediate-maxillary-molar-implant-planning]]
 
 ## 7. Glossary

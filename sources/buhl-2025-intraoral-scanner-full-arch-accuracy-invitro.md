@@ -9,8 +9,21 @@ pdf_filename: buhl-2025-intraoral-scanner-full-arch-accuracy-invitro.pdf
 source_collection: external
 ---
 
-## One-line Summary
-현재 출시된 IOS 시스템들의 전악 인상 정확도를 동일 조건에서 직접 비교한 in vitro 연구.
+## Three-line Summary
+
+In vitro comparative study (Buhl, Ender, Mehl; Journal of Dentistry 2025) evaluating full-arch impression accuracy of 4–6 current intraoral scanning (IOS) systems against an industrial CT reference.
+
+Significant differences in accuracy existed between IOS systems; trueness ranged approximately 50–200 µm, and all devices showed increased error propagation toward posterior extension in full-arch scans.
+
+Results are in vitro only (no saliva, patient movement, or soft-tissue interference), but they provide device-specific full-arch scanning strategies and quantify posterior cumulative error for clinical protocol guidance.
+
+## 세줄요약
+
+현재 시판 중인 4–6종 구강 내 스캐너(Intraoral Scanner, IOS)의 전악 인상 정확도를 산업용 CT 기준값 대비 평가한 인 비트로 연구(Journal of Dentistry 2025).
+
+기기 간 정확도에 유의한 차이가 있었으며, 진실도(trueness)는 약 50–200 µm 범위였고 모든 기기에서 후방 연장 시 오차 전파(error propagation)가 증가하였다.
+
+인 비트로 조건(타액·움직임·연조직 없음)이라는 한계가 있으나, 기기별 전악 스캔 권장 전략 도출과 구치부 누적 오차 정량화에 임상적 근거를 제공.
 
 ## 1. Document Information
 - **Title**: Accuracy of current intraoral scanning systems for full-arch impressions: An in vitro study

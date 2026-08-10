@@ -6,20 +6,28 @@ date: 2018-08-01
 doi: 10.1111/joor.12651
 source: leao-2018-splinted-unsplinted-overdenture-attachment-systems.md
 category: [complete-denture]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/leao-2018-splinted-unsplinted-overdenture-attachment-systems.pdf
 pdf_filename: leao-2018-splinted-unsplinted-overdenture-attachment-systems.pdf
 source_collection: external
 tags: [implant-overdenture, splinted, unsplinted, bar-attachment, ball-attachment, mandibular-overdenture, marginal-bone-loss, prosthetic-complications, implant-survival]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 9 studies (984 implants, 380 patients) showed no significant difference between splinted and unsplinted overdenture attachments in marginal bone loss (MD −0.11 mm, P=.39), prosthetic complications (RR 1.26, P=.31), or implant survival (P=.14).
+PRISMA SR+MA of 9 studies (984 implants, 380 patients, mean age 62.8 y; JOOR 2018) compared splinted (bar, rigid bar) vs unsplinted (ball/stud, LOCATOR) overdenture attachment systems on MBL, prosthetic complications, and implant survival.
 
-## 한줄요약
+No statistically significant difference was found across all three outcomes: MBL MD=−0.11 mm (95% CI −0.37 to 0.14, P=.39), prosthetic complication RR=1.26 (P=.31), and implant survival RR=0.37% (P=.14).
 
-9개 연구 SR+MA에서 스플린트(바) 대 비스플린트(볼/스터드) 오버덴처 어태치먼트 간 변연골소실, 보철 합병증, 임플란트 생존율 모두 통계적으로 유의한 차이가 없었다.
+The clinically negligible MBL difference (0.11 mm is within measurement error) means the splinting decision can be driven by cost, patient hygiene ability, inter-implant angulation, and preference rather than biological superiority.
+
+## 세줄요약
+
+PRISMA SR+MA(9편, 984개 임플란트, 380명, 평균 62.8세; JOOR 2018)로 스플린트(바·리지드바) vs 비스플린트(볼/스터드·LOCATOR) 오버덴처 어태치먼트를 변연골소실, 보철 합병증, 임플란트 생존율 측면에서 비교하였다.
+
+모든 세 결과에서 통계적으로 유의한 차이가 없었다: MBL MD=−0.11 mm(P=.39), 보철 합병증 RR=1.26(P=.31), 임플란트 생존율 RR=0.37%(P=.14).
+
+임상적으로 무시할 수 있는 MBL 차이(0.11 mm은 측정 오차 범위)를 고려할 때, 스플린팅 여부는 비용·위생관리 능력·임플란트 각도·환자 선호도에 따라 결정할 수 있다.
 
 ## Summary
 

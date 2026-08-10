@@ -6,20 +6,28 @@ date: 2021-08-13
 doi: 10.1016/j.jdent.2021.103777
 source: srinivasan-2021-cad-cam-removable-complete-dentures.md
 category: [complete-denture]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/srinivasan-2021-cad-cam-removable-complete-dentures.pdf
 pdf_filename: srinivasan-2021-cad-cam-removable-complete-dentures.pdf
 source_collection: external
 tags: [cad-cam, complete-denture, digital-workflow, milled-denture, 3d-printed-denture, mechanical-properties, sr-ma]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 73 studies: milled CAD-CAM complete dentures demonstrate superior flexural strength, surface roughness, and toughness; CAD-CAM CDs overall show better retention, less chairside time, and lower cost vs conventional dentures.
+SR+MA of 73 studies (PubMed/Embase/CENTRAL, final search March 2021; kappa 0.897–1.000) comparing milled CAD-CAM, 3D-printed CAD-CAM, and conventionally fabricated complete dentures across mechanical, surface, fit, retention, time-cost, and patient-reported outcomes.
 
-## 한줄요약
+Milled CDs outperformed both conventional and 3D-printed on flexural strength, modulus, yield strength, and toughness (all p<0.0001); 3D-printed CDs showed superior trueness of fit over conventional (p=0.039) but inferior esthetics; CAD-CAM overall showed better retention (p=0.015), less chairside time (p=0.037), and lower cost (p<0.0001).
 
-73개 연구 SR+MA: 밀링 CAD-CAM 총의치는 굴곡강도·표면조도·인성에서 우수하고, CAD-CAM 총의치 전반은 기존 방식보다 유지력이 높으며 의자 시간과 비용이 적게 든다.
+CAD-CAM complete dentures are not inferior to conventional dentures in OHRQoL/satisfaction, and the digital record is a clinically important advantage for elderly patients; milling is preferred for mechanical demands while 3D printing may suit cost/availability contexts.
+
+## 세줄요약
+
+73편 SR+MA (최종 검색 2021년 3월) — 밀링·3D프린팅 CAD-CAM과 기존 총의치를 기계적 특성·표면·적합도·유지력·시간비용·환자보고결과 전 영역에서 비교.
+
+밀링 CAD-CAM이 굴곡강도·탄성계수·항복강도·인성 모두 기존 및 3D프린팅보다 우수(모두 p<0.0001); 3D프린팅은 적합도 우수(p=0.039), 심미성 열등; CAD-CAM 전반은 유지력(p=0.015)·의자시간(p=0.037)·비용(p<0.0001)에서 유리.
+
+OHRQoL·만족도는 기존과 동등; 디지털 기록 보존은 노인 환자 재내원 제한 시 임상적 장점. 기계적 요구 높은 경우 밀링, 비용·가용성 기준이면 3D프린팅.
 
 ## Summary
 

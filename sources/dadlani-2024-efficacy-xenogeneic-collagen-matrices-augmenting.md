@@ -17,11 +17,21 @@ text_filename: dadlani-2024-efficacy-xenogeneic-collagen-matrices-augmenting.txt
 
 기존 [[implants/montero-2022-soft-tissue-substitutes-vs-autogenous-keratinized-mucosa-sr]]가 KMW 증대에서 자가이식 우위를 보고했는데, 본 SR+MA(2024)는 bone graft 없는 조건으로 한정해 XCM vs 자가이식을 KMW·STT·STV로 분리 정량화하여 그 결론을 보강·세분화한다. 또한 pubmed-text 인제스트 파이프라인의 첫 검증 항목.
 
-## One-line Summary
-SR+MA (9 studies, 6 in MA, 2013-2023): porcine XCM vs autogenous grafts (CTG/FGG) for peri-implant soft tissue without bone grafts; autografts superior for KMW and STT (pooled MD KMW -0.96 mm), aesthetics comparable.
+## Three-line Summary
 
-## 한줄요약
-SR+MA(9편, MA 6편): bone graft 없는 임플란트 연조직 증대에서 XCM은 자가이식(CTG/FGG)보다 KMW·STT 열위(KMW 통합 MD -0.96 mm), 심미는 동등, XCM은 술시간·통증 우위.
+SR+MA (9 studies — 8 RCTs + 1 CCT, 6 in meta-analysis, 2013–2023) comparing porcine xenogeneic collagen matrices (XCM) versus autogenous grafts (CTG/FGG) for peri-implant soft tissue augmentation without bone grafts; PROSPERO-registered, PRISMA-reported.
+
+Autografts were superior for keratinized mucosa width (KMW) at 6 months (pooled MD −0.96 mm, 95% CI −1.71 to −0.21, I²=82%) and 12 months (MD −1.16 mm, I²=0%), and for soft tissue thickness at 6 months (MD −0.35 mm, I²=0%); esthetic outcomes were comparable and XCM required less surgical time and postoperative analgesia.
+
+Autografts remain the superior option for KMW and STT gain, but XCM is a viable alternative where donor-site morbidity is a concern; conclusions are limited by short follow-up and predominance of a single matrix type (Mucograft).
+
+## 세줄요약
+
+SR+MA (9편 — RCT 8편+CCT 1편, 메타분석 6편, 2013–2023): 골이식 없는 임플란트 연조직 증대에서 돼지 이종 콜라겐 매트릭스(XCM) vs 자가이식(CTG/FGG) 비교; PROSPERO 등록, PRISMA 보고.
+
+자가이식이 각화점막폭(KMW) 6개월(통합 MD −0.96 mm, I²=82%), 12개월(MD −1.16 mm, I²=0%), 연조직 두께(STT) 6개월(MD −0.35 mm, I²=0%) 모두에서 우월; 심미 결과는 동등, XCM은 술시간·술후 진통제 사용 우위.
+
+KMW·STT 증대 목적에서는 자가이식이 우월하나, 공여부 이환율 우려 시 XCM이 대안; 단기 추적 위주·단일 매트릭스(Mucograft) 편중으로 결론의 일반화에 한계.
 
 ## 1. Document Information
 - Journal: Clinical and Experimental Dental Research 2024;10(4):e937. Published 2024 Aug.

@@ -7,7 +7,7 @@ doi: 10.5005/jp-journals-10024-3444
 pmid: "37125527"
 source: abu-mostafa-2022-titanium-mesh-vertical-augmentation-sr.md
 category: [implants/vertical-ridge-augmentation]
-confidence: sr
+evidence_level: sr
 text_path: /Users/oracleneo/llm-wiki/papers/abu-mostafa-2022-titanium-mesh-vertical-augmentation-sr.txt
 text_filename: abu-mostafa-2022-titanium-mesh-vertical-augmentation-sr.txt
 source_collection: pubmed-text
@@ -19,13 +19,21 @@ relations:
     target: tay-2022-healing-complications-vertical-gbr-sr-ma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR (8 trials, 2011–2021): VABA with Ti mesh yields 2.56–4.78 mm vertical gain; exposure rate 7.69–66.66%; early exposure (<4 weeks) leads to inadequate regeneration; late exposure causes only minor bone loss.
+Systematic review of 8 studies (3 RCT, 2 prospective, 3 retrospective; 574 screened; 2011–2021) on vertical alveolar bone augmentation (VABA) with titanium mesh in three modalities (conventional, pre-bent 3D-model, 3D-printed).
 
-## 한줄요약
+Vertical bone gain ranged 2.56–4.78 mm across non-RCT studies (20.8% relative gain in RCTs); mesh exposure ranged 7.69–66.66%; early TM removal was required in only 2.4–11.1% of cases despite high exposure rates.
 
-SR (8편, 2011–2021): Ti 메쉬 수직골증대 = 2.56–4.78 mm; 노출률 7.69–66.66%; 조기 노출(4주 이내) → 골재생 불충분; 지연 노출 → 경미한 흡수 또는 영향 없음.
+The critical clinical threshold is 4 weeks: early exposure (≤4 weeks post-op) leads to inadequate bone regeneration by allowing soft-tissue invasion, while late exposure (>4 weeks) results in no effect or only slight bone resorption.
+
+## 세줄요약
+
+체계적 문헌고찰 8편(RCT 3·전향 2·후향 3; 검색 574건; 2011–2021): 세 가지 티타늄(Titanium, Ti) 메쉬(기성·3D 모델 사전굴곡·3D 프린팅)로 시행한 수직 치조골증대술(Vertical Alveolar Bone Augmentation, VABA)을 분석.
+
+수직 골증대 2.56–4.78 mm(비RCT), RCT에서 20.8% 상대 증가; 메쉬 노출률 7.69–66.66%(극단적 범위); 조기 제거는 2.4–11.1%에서만 필요.
+
+결정적 임상 기준점은 술후 4주: 조기 노출(≤4주)은 연조직 침입으로 골재생 불충분; 지연 노출(>4주)은 경미한 흡수 또는 영향 없음 — 메쉬 노출 발생 시기가 예후를 결정함.
 
 ## Summary
 

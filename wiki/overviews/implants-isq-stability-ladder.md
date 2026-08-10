@@ -6,7 +6,7 @@ date: 2026-06-28
 doi: N/A
 source: N/A
 category: overviews
-confidence: synthesis
+evidence_level: synthesis
 pdf_path: N/A
 pdf_filename: N/A
 source_collection: synthesis
@@ -16,15 +16,15 @@ source_wiki:
   - wiki/implants/isq/kim-2013-implant-stability-retrospective-rfa-isq.md
   - wiki/implants/isq/won-2008-smartpeg-sterilization-rfa-implant-stability.md
 relations:
-  - type: reinforces
+  - type: extends
     target: rosas-diaz-2023-rfa-mapping-nanostructured-hydroxyapatite
-  - type: reinforces
+  - type: extends
     target: fu-2023-implant-stability-marginal-bone-level-pilot
-  - type: reinforces
+  - type: extends
     target: balshi-2005-rfa-immediately-loaded-maxillary-mandibular
-  - type: reinforces
+  - type: refines
     target: kim-2013-implant-stability-retrospective-rfa-isq
-  - type: reinforces
+  - type: extends
     target: won-2008-smartpeg-sterilization-rfa-implant-stability
 ---
 
@@ -33,7 +33,7 @@ relations:
 > [!summary] 한국어 핵심요약
 > - 이 페이지는 임플란트 안정성 지수(Implant Stability Quotient, ISQ)/공명주파수분석(Resonance Frequency Analysis, RFA)의 의사결정 3축 — 측정 도구·임계값·영향 변수 — 을 정리한 `implants/isq/` 31편의 spine이다.
 > - **방법의 기원**: RFA는 Meredith 1996이 임플란트-조직 계면 안정성 정량화 기법으로 최초 도입했고(ISQ 척도의 개념적 뿌리), Nedir 2004가 식립 시 ISQ(≥49 지연/≥54 즉시부하)로 골유착 유지를 예측 가능함을 보였다 — 현 임계값 ladder의 역사적 토대.
-> - **임계값**: 식립 시 ISQ ≥ 70 또는 4–6주 healing 후 ISQ ≥ 65가 조기/즉시 부하(early/immediate loading)의 임계 (Andersson 2019 + Bavetta 2024). [근거강함]
+> - **임계값**: 식립 시 ISQ ≥ 70 또는 4–6주 healing 후 ISQ ≥ 65가 조기/즉시 부하(early/immediate loading)의 임계 (Andersson 2019 + Bavetta 2024). [확인]
 > - **측정 도구**: Osstell과 Periotest는 상관성이 우수해 임상 호환 가능하나, 수치가 직관적인 **Osstell(1–100)을 1차 추천**. SmartPeg는 토크 ≥ 10 Ncm로 표준화해야 정확 (Kastel 2019).
 > - **영향 변수**: 피질골(cortical bone) 두께와 macro-design(tapered·platform)이 ISQ의 주 결정인자이고, 임플란트 길이·직경의 영향은 상대적으로 약하다 (Stoilov 2023, Chatvaratthana 2017). 단, **직경**은 T2(2차 안정성) ISQ에서 시스템 독립적 일반 예측인자 (β=+3.4~+4.2, Huang 2017 n=557 다변량 회귀).
 > - **치조정 피질골의 지배**: 치조정에서 3mm 이내 피질골 두께만 ISQ와 강한 상관 (r=0.885); 6·9mm 깊이와 해면골은 무관 (Chatvaratthana 2017 전향적, n=19). CBCT 식립 전 평가로 ISQ 예측 가능.
@@ -44,25 +44,33 @@ relations:
 > - **임상 함의**: 식립 전 CBCT로 피질골 두께를 평가하면 ISQ를 예측 가능하며, 저밀도골에는 tapered design 우선 + 골밀도화(Osseodensification, OD) 보조 고려.
 > - 짧은 임플란트라도 적절한 macro-design + 피질골 고정(cortical anchorage) 확보 시 ISQ는 충분할 수 있다.
 > - **Ali 2026 추가 (분할구 RCT, n=7, 상악 전치부)**: Densah bur OD → ISQ 70.1 (즉시부하 임계 달성), Magnetic Mallet OD → ISQ 49.0 (미달) (p<0.001). 상악 전치부 얇은 치조제에서 Magnetic Mallet은 합병증(협측골판 파절, 구개측 균열) 2건 발생 — 학습곡선 급격함. Densah bur가 심미 구역 OD의 1차 선택. [rct, n=7 — 예비적]
-> - 도구 비교는 [합의수준], 임계값은 [근거강함], 영향 변수는 [근거강함]. 상세 ladder와 chairside 시뮬레이터는 isq-loading-threshold 및 ISQ·RFA 시뮬레이터 참조.
+> - 도구 비교는 [확인], 임계값은 [확인], 영향 변수는 [확인]. 상세 ladder와 chairside 시뮬레이터는 isq-loading-threshold 및 ISQ·RFA 시뮬레이터 참조.
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis/decision-ladder over the `implants/isq/` sub-category (~31 papers) organizing Implant Stability Quotient (ISQ) / Resonance Frequency Analysis (RFA) along 3 axes — measurement device (Osstell vs Periotest, SmartPeg torque), loading threshold, and influencing variables (cortical thickness, macro-design, bone quality). Core thesis: ISQ ≥70 at placement or ≥65 after 4–6 weeks of healing is the early/immediate-loading threshold (with +3 for MSFA/GBR, +2 for Type IV bone), cortical bone thickness and tapered/platform macro-design are the dominant determinants of ISQ while length/diameter matter less, and Osstell is the recommended first-line tool — preassess cortical thickness on CBCT to predict ISQ.
+Decision-ladder synthesis of ~31 ISQ/RFA papers across 3 axes: (1) measurement device — Osstell (ISQ 1–100) recommended over Periotest for interpretability, SmartPeg torque ≥10 Ncm required for accuracy; Anycheck (DCA) is a valid operator-independent alternative; (2) loading threshold — ISQ ≥70 at placement OR ≥65 after 4–6 weeks is the early/immediate-loading cutoff, with immediate loading additionally requiring IT ≥35 Ncm (Andersson 2019 n=745; Wittneben 2023 SR); Type IV bone normally runs ISQ 58–65 — do not auto-delay.
 
-## 한줄요약
+Cortical bone thickness at <3 mm depth is the dominant ISQ determinant (r=0.885; Chatvaratthana 2017 prospective n=19); tapered design and wider diameter (+3.4 to +4.2 per mm diameter at secondary stability; Huang 2017 n=557 multivariate regression) matter more than implant length; CBCT cortical-thickness assessment before placement allows ISQ prediction and loading-decision planning.
 
-ISQ (Implant Stability Quotient) / RFA (Resonance Frequency Analysis) 의사결정 3축 — 측정 도구 (Osstell vs Periotest) · 임계값 (loading decision) · 변수 (cortical 두께·macro-design·bone quality). 본 wiki sub-category `implants/isq/` 31 paper의 spine.
+ISQ and insertion torque (IT) are complementary, not interchangeable — their correlation is only r=0.44 with I²>90% (Tisci 2026 SR+MA), so both should be measured; use +3 ISQ correction for sinus-lift or GBR simultaneous placement, +2 for Type IV bone; fresh extraction sockets give artificially low ISQ (~57 vs healed bone ~72) — use IT (≥35 Ncm) as primary criterion there.
+
+## 세줄요약
+
+ISQ/RFA 31편 의사결정 ladder 3축: (1) 측정 도구 — Osstell(ISQ 1–100, 직관적) 1차 권장, SmartPeg 토크 ≥10 Ncm 표준화 필수, Anycheck(DCA)는 측정자 독립적 대안; (2) 임계값 — 식립 시 ISQ ≥70 또는 4–6주 후 ≥65가 조기/즉시 부하 기준, 즉시 부하는 추가로 IT ≥35 Ncm 필요(Andersson 2019 n=745; Wittneben 2023 SR); Type IV 골은 ISQ 58–65가 정상분포 — 자동 지연 결정 금지.
+
+피질골 두께(3 mm 이내)가 ISQ의 지배적 결정인자(r=0.885, Chatvaratthana 2017 전향적 n=19); 테이퍼 디자인·넓은 직경(직경 1 mm당 2차 안정성 ISQ +3.4~+4.2, Huang 2017 n=557 다변량)이 임플란트 길이보다 더 중요; CBCT로 식립 전 피질골 두께 평가 시 ISQ 예측 가능.
+
+ISQ와 삽입토크(IT)는 보완 지표(상관 r=0.44, I²>90%, Tisci 2026 SR+MA) — 둘 다 측정 권장; 상악동거상/GBR 동시식립은 ISQ +3, Type IV 골은 +2 보정; 신선 발치와는 ISQ 인위적 저하(~57 vs 치유골 ~72) — IT 우선 기준으로.
 
 ## Summary
 
 본 페이지는 wiki/implants/isq/ 23 paper spine. 기존 ISQ 관련 작업 ([[overviews/isq-loading-threshold]] · [[overviews/sinus-lift-isq-loading-timing]]) 의 보완. ISQ는 chairside primary stability quantification의 표준 도구이나 측정 도구 간 차이·임계값 적용·macro-design 영향을 정리할 필요.
 
 핵심 명제 4개:
-1. **ISQ ≥70 (식립 시) 또는 ≥65 (4-6주 healing 후) — early/immediate loading 임계** — Andersson 2019 + Bavetta 2024 (본 sub-cat의 spine). [근거강함]
-2. **Osstell vs Periotest 상관성 우수, 임상에서 호환 가능. Osstell 1차 추천 (수치 직관적)** — Al-Jetaily 2010, Zix 2008. [합의수준]
-3. **Cortical bone 두께·macro-design (tapered·platform)이 ISQ의 주 결정인자. 길이·직경은 상대적으로 약함** — Chatvaratthana 2017, Stoilov 2023, Nandini 2022, Shiffler 2016. [근거강함]
-4. **SmartPeg torque (≥10 Ncm) 측정 정확도에 영향. 표준 torque 적용 필수** — Kastel 2019. [합의수준]
+1. **ISQ ≥70 (식립 시) 또는 ≥65 (4-6주 healing 후) — early/immediate loading 임계** — Andersson 2019 + Bavetta 2024 (본 sub-cat의 spine). [확인]
+2. **Osstell vs Periotest 상관성 우수, 임상에서 호환 가능. Osstell 1차 추천 (수치 직관적)** — Al-Jetaily 2010, Zix 2008. [확인]
+3. **Cortical bone 두께·macro-design (tapered·platform)이 ISQ의 주 결정인자. 길이·직경은 상대적으로 약함** — Chatvaratthana 2017, Stoilov 2023, Nandini 2022, Shiffler 2016. [확인]
+4. **SmartPeg torque (≥10 Ncm) 측정 정확도에 영향. 표준 torque 적용 필수** — Kastel 2019. [확인]
 
 ## Results
 
@@ -109,7 +117,6 @@ ISQ (Implant Stability Quotient) / RFA (Resonance Frequency Analysis) 의사결�
 
 | Spine paper | Evidence | Key finding |
 |---|---|---|
-| [[implants/isq/chatvaratthana-2017-cortical-bone-thickness-isq-cbct]] | clinical | Cortical 두께 ↑ → ISQ ↑ |
 | [[implants/isq/chatvaratthana-2017-cortical-bone-crestal-buccolingual-isq]] | prospective (n=19, Conelog, posterior) | **치조정 피질골 r=0.885**; 3mm 깊이 협설측 피질 r=0.535, 비율 r=0.488; 6·9mm·해면골 NS — 깊이 의존성 첫 정량화 |
 | [[implants/isq/huang-2017-multivariate-regression-isq-prediction]] | retrospective (n=557, 2 brands, 2 surgeons) | T1 일반 예측인자: 골이식 β=−4~−5; T2 일반 예측인자: 직경 β=+3.4~+4.2; 길이·성별·나이·골질은 T2 NS — 시스템 독립 ISQ 예측인자 정량 |
 | [[implants/isq/turkyilmaz-2008-bone-density-implant-stability-success]] | retrospective | CT 골밀도(HU) ↔ 삽입토크 r=0.77·ISQ r=0.88; 실패군 저HU/토크/ISQ — 골밀도가 ISQ 상류 결정인자 |
@@ -165,8 +172,8 @@ ISQ (Implant Stability Quotient) / RFA (Resonance Frequency Analysis) 의사결�
 - [[implants/isq/shokri-2013-primary-secondary-stability-rfa-mandible]] — 전향(하악 SLA): ISQ 4주 nadir → 회복; 4주 이전 부하 불리 가능 (stability dip 직접 관찰).
 
 **부하 protocol 연계 (immediate-implant cluster)**
-- [[immediate-implant/witoonkitvanich-2025-immediate-implant-stability-maxilla-mandible]] — 즉시 대구치 상·하악 ISQ: 상악만 2–4주 dip, 24주 하악>상악(81.5 vs 78.2) — 상악 구치 부하 보수적.
-- [[immediate-implant/vandenbogaerde-2016-two-surfaces-fresh-sockets-immediately-loaded]] — split-mouth RCT: 친수성 proactive 표면이 즉시부하 발치와에서 12주 ISQ 유의 우수(+3.5 vs −0.3).
+- [[immediate-implant/primary-stability/witoonkitvanich-2025-immediate-implant-stability-maxilla-mandible]] — 즉시 대구치 상·하악 ISQ: 상악만 2–4주 dip, 24주 하악>상악(81.5 vs 78.2) — 상악 구치 부하 보수적.
+- [[immediate-implant/primary-stability/vandenbogaerde-2016-two-surfaces-fresh-sockets-immediately-loaded]] — split-mouth RCT: 친수성 proactive 표면이 즉시부하 발치와에서 12주 ISQ 유의 우수(+3.5 vs −0.3).
 
 ## Related Papers (added 2026-06-19)
 
@@ -183,7 +190,7 @@ ISQ (Implant Stability Quotient) / RFA (Resonance Frequency Analysis) 의사결�
 
 | Spine paper | Evidence | Key finding |
 |---|---|---|
-| [[implants/versah-protocols/ali-2026-osseodensification-techniques-implant-stability-maxilla]] | rct (n=7, split-mouth, 상악 전치부) | Densah bur ISQ 70.1 vs Magnetic Mallet 49.0 (p<0.001); DB 즉시부하 임계(≥70) 달성, MM 미달; 협측 골판 두께 DB 우수; MM 2건 합병증(학습곡선 주의) |
+| [[implants/osseodensification/ali-2026-osseodensification-techniques-implant-stability-maxilla]] | rct (n=7, split-mouth, 상악 전치부) | Densah bur ISQ 70.1 vs Magnetic Mallet 49.0 (p<0.001); DB 즉시부하 임계(≥70) 달성, MM 미달; 협측 골판 두께 DB 우수; MM 2건 합병증(학습곡선 주의) |
 
 **임상 추가 함의 (kwon 2026)**:
 - 즉시식립에서 "더 공격적인 thread = 더 나은 안정성"은 **성립하지 않는다**. IT 상승은 thread–잔존 골벽 마찰에서 오며, 이 마찰이 가이드 드릴 편향(off-axis drift)을 유발.
@@ -199,10 +206,10 @@ ISQ (Implant Stability Quotient) / RFA (Resonance Frequency Analysis) 의사결�
 - [[implants/isq/vilchez-2025-sla-slactive-split-mouth-rct]] — SLActive vs SLA (동일 Bone Level Tapered Roxolid) split-mouth RCT (n=68, 136개): ISQ 72.3–73.0 at placement, 75.5–75.9 at 8w, MBL loading→12mo 0.04 vs 0.07 mm — 모두 비유의. **표면 화학은 macrodesign이 통제되면 ISQ·MBL에 독립적 영향 없음**
 
 **Site prep technique × ISQ (molar IIP)**
-- [[immediate-implant/atieh-2025-pre-extractive-vs-postextractive-immediate-molar]] — 하악 대구치 즉시식립 SR+MA (4 RCT, 82개): 발치 전 식립와 형성(pre-extractive technique)이 식립 직후 ISQ +3.39 (p<.0001, I²=0%), 중심위치 달성 RR 0.05 (p=.002); 3–6개월 ISQ 차이 소실 → **초기 ISQ 이득은 술식 기술 변수(발치 전 가이드 드릴)로 조절 가능**
+- [[immediate-implant/molar-septum/atieh-2025-pre-extractive-vs-postextractive-immediate-molar]] — 하악 대구치 즉시식립 SR+MA (4 RCT, 82개): 발치 전 식립와 형성(pre-extractive technique)이 식립 직후 ISQ +3.39 (p<.0001, I²=0%), 중심위치 달성 RR 0.05 (p=.002); 3–6개월 ISQ 차이 소실 → **초기 ISQ 이득은 술식 기술 변수(발치 전 가이드 드릴)로 조절 가능**
 
 **OD technique head-to-head × ISQ — esthetic zone (Ali 2026, split-mouth RCT, n=7, maxillary anterior)**
-- [[implants/versah-protocols/ali-2026-osseodensification-techniques-implant-stability-maxilla]] — First direct comparison of Densah bur (DB) vs Magnetic Mallet (MM) osseodensification in the maxillary anterior esthetic zone: **primary ISQ 70.1 (DB) vs 49.0 (MM)** (p<0.001); secondary ISQ at 6 months 74.7 vs 59.8 (p=0.003). DB achieved ≥70 ISQ (early loading threshold) at placement; MM did not. Labial plate thickness significantly greater in DB (1.85 vs 1.17 mm immediately; 1.68 vs 0.98 mm at 6mo, p=0.002). Bone density and crestal width equivalent at 6 months (both NS). MM had 2 intraoperative complications (labial plate fracture + palatal crack) in thin-ridge anterior sites — steep learning curve. [rct, n=7 — preliminary but only head-to-head data]
+- [[implants/osseodensification/ali-2026-osseodensification-techniques-implant-stability-maxilla]] — First direct comparison of Densah bur (DB) vs Magnetic Mallet (MM) osseodensification in the maxillary anterior esthetic zone: **primary ISQ 70.1 (DB) vs 49.0 (MM)** (p<0.001); secondary ISQ at 6 months 74.7 vs 59.8 (p=0.003). DB achieved ≥70 ISQ (early loading threshold) at placement; MM did not. Labial plate thickness significantly greater in DB (1.85 vs 1.17 mm immediately; 1.68 vs 0.98 mm at 6mo, p=0.002). Bone density and crestal width equivalent at 6 months (both NS). MM had 2 intraoperative complications (labial plate fracture + palatal crack) in thin-ridge anterior sites — steep learning curve. [rct, n=7 — preliminary but only head-to-head data]
 
 **Augmentation material × ISQ (crestal sinus)**
 - [[implants/isq/ragher-2025-iprf-venous-blood-synthetic-graft-isq]] — 경치조골 간접 상악동거상 4-arm RCT (n=64): i-PRF buccal 70.1/mesial 74.8, NovaBone 75.9/76.4 vs 무이식 54.8/55.8, 정맥혈 56.8/61.5 (6mo); i-PRF ≡ NovaBone (NS); 정맥혈 ≡ 무이식 → **구조화 피브린 매트릭스 또는 합성 골전도 scaffold 없이는 간접 거상 후 ISQ ≥70 도달 불가**
@@ -229,11 +236,16 @@ ISQ (Implant Stability Quotient) / RFA (Resonance Frequency Analysis) 의사결�
 **기기 비교 — Osstell vs Anycheck (in vitro)**
 - [[implants/isq/lee-2024-primary-implant-stability-isq-devices-invitro]] — in-vitro (n=60, IS-III Active Neobiotech, polyurethane 15/30PCF, Seoul National University 2024): ISQ(Osstell Beacon+) vs IST(Anycheck); 두 기기 골밀도·길이 반응 동등(R²↑); Anycheck 측정자 독립적(표준 토크); 저밀도골(15 PCF) 길이 증가 효과 유의, 중밀도골(30 PCF) 10mm 이상 한계체감 — 축 1 기기 비교표 보강.
 
+## Related Papers (added 2026-08-09)
+
+**검사자간 신뢰도 (inter-rater reliability) — ISQ vs ISV vs 조직계측**
+- [[implants/isq/gu-2025-inter-rater-reliability-implant-stability]] — animal study (비글 1마리/임플란트 6개, 훈련된 검사자 5명, ICC): 조직계측(ITBD 0.854·BIC 0.806)이 최고 신뢰도, **ISQ 0.774로 비침습 도구 중 최고**(양호 기준 ≥0.75 충족), 방사선 0.638, **ISV(EasyCheck) 0.447로 유일하게 기준 미달** — 검사자가 바뀌는 다기관·종단 연구에서 ISQ를 표준 도구로 써야 하는 근거. Herrero-Climent 2013의 검사자내(intra-rater) ICC 0.97과 짝을 이뤄 ISQ 신뢰도를 검사자내·검사자간 양쪽에서 확인.
+
 ## Related interactives
 
 - [[interactives/2026-06-02_isq-rfa-loading-simulator-v1]] — ISQ·RFA 통합 시뮬레이터 (측정 → 궤적 → 부하결정)
 
 확신도 등급:
-- 축 1 도구 = [합의수준] (Osstell·Periotest 비교 in vitro·clinical).
-- 축 2 임계값 = [근거강함] (기존 wiki overview들의 합의).
-- 축 3 변수 = [근거강함] (다수 clinical study).
+- 축 1 도구 = [확인] (Osstell·Periotest 비교 in vitro·clinical).
+- 축 2 임계값 = [확인] (기존 wiki overview들의 합의).
+- 축 3 변수 = [확인] (다수 clinical study).

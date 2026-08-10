@@ -1,10 +1,10 @@
 ---
 title: "Interdental Cleaning Devices — Floss vs Interdental Brush vs Water Flosser vs Toothpick Method: Evidence Synthesis"
-authors: synthesis page (compiled by Claude from 18 device studies + the toothpick-method overview, 2026-06-19)
+authors: synthesis page (compiled by Claude from 21 device studies + the toothpick-method overview, 2026-06-19; updated 2026-07-11)
 year: 2026
-date: 2026-06-19
+date: 2026-07-11
 category: overviews
-confidence: synthesis
+evidence_level: synthesis
 source_collection: internal
 tags: [overview, interdental-cleaning, dental-floss, interdental-brush, water-flosser, oral-irrigator, waterpik, toothpick-method, gingivitis, peri-implant, claude-synthesis]
 source: synthesis
@@ -33,6 +33,12 @@ relations:
     target: kim-2023-multichannel-oral-irrigator-periodontal-microbiome-rct
   - type: extends
     target: slekovec-2026-legionella-water-flosser-france-case-report
+  - type: extends
+    target: worthington-2019-home-use-interdental-cleaning
+  - type: extends
+    target: kotsakis-2018-network-meta-analysis-interproximal
+  - type: extends
+    target: almoharib-2024-water-jet-interdental-flossing-orthodontic
 ---
 
 ## 한국어 핵심요약
@@ -51,6 +57,9 @@ relations:
 > - **워터플로서(WF)는 치면세균막보다 출혈·치은염 개선에 강하다**: 18 RCT SR+MA(Badahdah 2025, n≈1005)에서 출혈지수(BI, 중등도 근거)·치은지수(GI)는 약간 개선하나 플라크 우위는 없음 — 이득은 치실보다 '칫솔질 단독' 대비, 일반환자보다 교정환자에서 더 뚜렷. 스코핑리뷰(Sarkisova 2024, 275편)도 "염증은 일관되게 감소, 플라크는 엇갈림"으로 동일 결론 → 이 둘이 Mohapatra 2024(WF 우위) vs Yiamwattana 2025(교정서 NS)의 갈등을 **"WF는 플라크보다 출혈·치은염에 더 효과적"으로 해소**.
 > - **일반 인구에서 칫솔질 보조로 효과적·안전(Ren 2023, RCT n=90, 12주)**: WaterPik 추가가 칫솔질 단독보다 치은염(4주부터)·치태(8주부터) 유의 개선, 압력-출혈 용량반응, 중대 이상반응·통증·상아질과민증·치은퇴축 없음 — 일반인구 효능+안전 공백을 메움.
 > - **미생물군 호전(Kim 2023, 예비 RCT n=29, 3일 무칫솔 모델)**: 다채널 구강세정기가 BOP를 낮추고 대조군의 Prevotella +114%·Bacteroidetes 증가를 차단, 선구 공생 연쇄상구균을 늘림 — WF가 치은연하 생태를 유리하게 전환한다는 기전 근거(Liu 2025 16S와 일치).
+> - **★Cochrane 우산(umbrella) SR로 전체 그림 재확인(Worthington 2019, RCT 35편·n=3929)**: 치실·치간칫솔을 칫솔질에 추가하면 칫솔질 단독보다 치은염/치태가 줄어들 *가능성*이 있으나 근거 확실성은 low~very low; 치간칫솔이 치실보다 우세한 경향은 있으나 여전히 low certainty. 치간 우식(caries)을 평가한 연구는 0편 — "치간청소가 우식을 줄인다"는 근거는 아직 없다는 중요한 한계.
+> - **네트워크 메타분석으로 도구 순위 정량화(Kotsakis 2018, RCT 22편·베이지안 NMA)**: 치간칫솔(IB)이 치은지수·치태지수 감소에서 최상위 순위(최선일 확률 64.7%), 물세정기(WJ)가 2위, 비지도 치실질·이쑤시개는 최하위 — 이 overview의 "치간칫솔 1순위" 권고를 정량 근거로 뒷받침.
+> - **워터젯 vs 치실, 교정환자서 무승부(AlMoharib 2024, RCT n=30)**: 2주간 두 군 모두 치태·출혈지수 유의 개선, 군간 유의차 없음(PI p=0.279, BI p=0.172) — Sawan 2022(슈퍼플로스=물치실)와 같은 방향, 교정환자에서 "물치실 vs 치실"은 대체로 동등하다는 신호를 강화.
 > - **★안전 주의(Slekovec 2026, 증례)**: 비멸균 수돗물을 채운 워터플로서 저수조가 레지오넬라(Lp1) 생물막(300 CFU/L)을 품었고, 그 균주가 면역저하(골수종·자가조혈모세포이식) 환자의 병원내 레지오넬라병 균주와 전장유전체 동일(ST42). 가압 분사 = 흡입 위험 → **저수조 정기 세척·소독, 면역저하자·병원 환경서 주의**.
 > - 토스픽법(칫솔질 기법): 인접면 플라그 + 치은 치유 자극(이중기전), 단 전문가 시술 기준 — 별도 overview [[overviews/watanabe-toothpick-method-toothbrushing-synthesis]] 참조.
 > - 나무 이쑤시개(치간청소): **권장 안 함** — 습관적·수직 사용이 치간유두 소실·블랙트라이앵글 유발(El Haddad 2026).
@@ -58,13 +67,21 @@ relations:
 > - 근거의 한계: 대부분 단기(2–8주)·소표본 RCT, 산업후원·이질성 큼(교정 SR I²=98%), 장기·경성 종점(치아상실·임플란트 생존) 근거 부재.
 > - 임상 결정 트리: 열린 치간공간→치간칫솔 / 좁은 접촉→치실 / 손재주·교정·임플란트·비순응→워터픽 / 치주염 유지→워터플로싱 보조 / 나무 이쑤시개는 회피.
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis of 18 interdental-device studies (plus the toothpick-method overview) comparing dental floss (DF), interdental brushes (IDB), rubber/silicone interdental picks, water flossers / oral irrigators (WF/OI), super floss, and the wooden toothpick: there is **no universally superior device — adherence matters more than device choice**; the IDB has the strongest single-device evidence where embrasures admit it (Carrouel 2026, pregnancy gingivitis BOP 56%→12%, OR 3.14), floss is best reserved for tight contacts where an IDB won't fit (equivalent to air-floss and to irrigators: Thomassen 2025, Yiamwattana 2025) and its weak efficacy is not fixable by better technique (Jung 2025, n=37, technique improved but plaque removal did not), rubber interdental picks were used far more consistently than floss over 6 months (Yilmaz 2025, 12.61 vs 4.96/24 weeks, p=0.003 — direct adherence-over-efficacy evidence), **water flossers help bleeding/gingivitis more than plaque** — the broadest evidence now (Badahdah 2025 SR+MA, 18 RCTs, n≈1005: slight bleeding/gingival benefit, moderate certainty for bleeding, no plaque superiority; Sarkisova 2024 scoping review of 275 sources: inflammation consistently down, plaque mixed) reconciles the earlier Mohapatra-2024-vs-Yiamwattana-2025 tension; they help with marginal bleeding (Mancinelli-Lyle 2024), are an effective and safe general-population toothbrushing adjunct (Ren 2023, RCT n=90, no pain/recession/hypersensitivity), favorably shift the subgingival microbiome (Kim 2023), and are a periodontitis adjunct (Liu 2025), yet add nothing over toothbrushing in fixed-orthodontic (Tyler 2023) or peri-implant contexts (Bishti 2025); super floss equals a water flosser for immediate plaque removal in orthodontic patients (Sawan 2022); a new safety caveat is reservoir hygiene — a nonsterile-tap-water flosser harbored Legionella biofilm and infected an immunocompromised patient (Slekovec 2026); environmental footprint is a further decision axis, single-use floss picks being the worst choice (Abed 2022, LCA); and habitual wooden-toothpick use harms the papilla (El Haddad 2026).
+Synthesis of 21 interdental-device studies + toothpick-method overview, anchored by the Cochrane umbrella review (Worthington 2019, 35 RCTs, n=3929: low-to-very-low certainty benefit of floss/IDB+brushing over brushing alone, zero trials on interdental caries): no device is universally superior — adherence determines outcome more than device choice (Yilmaz 2025 RCT, n=54: rubber interdental picks used regularly for 12.61 vs 4.96/24 weeks vs floss, p=0.003; Jung 2025, n=37: better flossing technique improved FPS but not plaque removal); interdental brushes (IDB) have the strongest single-device benefit where embrasures permit, confirmed by both an RCT (Carrouel 2026, pregnancy gingivitis BOP 56%→12%, OR 3.14 for bleeding resolution) and a Bayesian network meta-analysis ranking IDB first among 10 methods (Kotsakis 2018, 22 RCTs); floss is best reserved for tight/intact contacts where an IDB won't fit.
 
-## 한줄요약
+Water flossers help bleeding and gingivitis more than plaque: Badahdah 2025 SR+MA (18 RCTs, n≈1005) confirms slight bleeding benefit (moderate GRADE) but no plaque superiority; they are a safe effective general-population toothbrushing adjunct (Ren 2023, n=90, no safety adverse events), favorably shift the subgingival microbiome (Kim 2023), and assist periodontitis maintenance (Liu 2025); however they add nothing beyond toothbrushing in fixed-orthodontic (Tyler 2023) or peri-implant contexts (Bishti 2025); safety caveat: reservoir Legionella biofilm risk in immunocompromised patients (Slekovec 2026).
 
-치간 청소도구 8편 종합(+토스픽법 overview) — 치실·치간칫솔·구강세정기/워터픽·나무이쑤시개 비교: **보편적 우승 도구는 없고 순응도가 도구보다 중요**. 치간칫솔이 들어가는 공간이면 1순위(Carrouel 2026 임신치은염 BOP 56%→12%, OR 3.14), 치실은 좁은 접촉 한정(에어플로스·세정기와 동등), 워터픽은 변연출혈·치주염 보조엔 강하나 교정·임플란트 부가는 이점 없음, 나무 이쑤시개는 치간유두 위해로 회피.
+Wooden toothpicks cause interdental papilla loss with habitual/vertical use and should be avoided (El Haddad 2026); single-use floss picks have the worst environmental footprint across 13/16 LCA categories — prefer reusable/refillable aids (Abed 2022); clinical decision tree: open embrasure → IDB; tight contact → floss; orthodontics/prosthetics/poor dexterity → water flosser or super floss; counsel reservoir hygiene.
+
+## 세줄요약
+
+치간 청소도구 21편 종합(+토스픽법 overview), Cochrane 우산 SR(Worthington 2019, RCT 35편·n=3929: 치실/치간칫솔+칫솔질이 칫솔질 단독보다 나을 가능성은 있으나 low~very low certainty, 치간 우식 평가 연구 0편)이 전체 틀을 제공: 보편적 우승 도구 없음 — **순응도가 도구보다 중요**(Yilmaz 2025 RCT n=54: 고무 치간 픽 12.61주 vs 치실 4.96주 규칙적 사용, p=0.003; Jung 2025 n=37: 치실 술식 향상에도 치태 제거 개선 없음); 치간칫솔(IDB)이 들어가는 공간이면 1순위 — RCT(Carrouel 2026 임신치은염 BOP 56%→12%, OR 3.14)와 베이지안 네트워크 메타분석(Kotsakis 2018, RCT 22편·IDB 최상위 순위) 모두 일치; 치실은 좁은 접촉에서만 한정 적용.
+
+워터픽/구강세정기는 플라크보다 출혈·치은염에 더 효과적: Badahdah 2025 SR+MA(18 RCT n≈1005) 출혈 개선 약간 유의(중등도 근거), 플라크 우위 없음; 일반 인구에서 칫솔질 보조로 효과적·안전(Ren 2023 n=90, 이상반응·퇴축·통증 없음), 구강 미생물군 우호 전환(Kim 2023), 치주염 유지 보조 가능(Liu 2025); 교정 단독(Tyler 2023)·임플란트 주위(Bishti 2025)에는 추가 이득 없음; 안전 주의: 저수조 레지오넬라 생물막 위험(Slekovec 2026).
+
+나무 이쑤시개는 습관적 수직 사용 시 치간유두 소실·블랙트라이앵글(El Haddad 2026) — 회피; 일회용 플로스픽은 환경부담 최악(16개 범주 중 13개, Abed 2022 LCA) — 재사용 도구 선호; 임상 결정: 열린 치간공간→치간칫솔, 좁은 접촉→치실, 교정·보철·손재주제약→워터픽·슈퍼플로스.
 
 ## Summary
 
@@ -80,11 +97,11 @@ The dominant finding across the evidence is that **no single device is universal
 
 | Device | Key wiki evidence | Verdict |
 |---|---|---|
-| **Interdental brush (IDB)** | Carrouel 2026 (RCT n=323): daily calibrated IDB cut pregnancy-gingivitis BOP 56%→12% (−79.6%), strongest independent predictor of bleeding resolution (OR=3.14) | **First-line where the embrasure admits a brush** — strongest single-device benefit |
+| **Interdental brush (IDB)** | Carrouel 2026 (RCT n=323): daily calibrated IDB cut pregnancy-gingivitis BOP 56%→12% (−79.6%), strongest independent predictor of bleeding resolution (OR=3.14); Kotsakis 2018 (Bayesian NMA, 22 RCTs, 10 methods): IDB ranked #1 for gingival/plaque index reduction (64.7% probability best) | **First-line where the embrasure admits a brush** — strongest single-device benefit, now confirmed by both an RCT and a network meta-analysis |
 | **Rubber / silicone interdental pick** | Yilmaz 2025 (RCT n=54, 24 wk): used regularly far longer than floss (12.61 vs 4.96/24 wk, p=0.003); plaque/bleeding negatively correlated with weeks of regular use | **Best adherence where the space admits it** — the practical adherence-over-efficacy choice vs floss |
 | **Dental floss (DF)** | Thomassen 2025 (RCT n=82): air-floss + essential oils ≡ waxed floss (NS); Yiamwattana 2025 (SR+MA): oral irrigator NOT superior to floss (NS, I²=98%); Jung 2025 (prospective n=37): better technique (FPS 2.0→2.83) did NOT improve plaque removal (p=.112) and was uncorrelated | **Reserve for tight/intact contacts** where an IDB won't fit; no proven superiority, poor adherence, and weak efficacy even when done correctly |
 | **Super floss (threader + spongy + regular)** | Sawan 2022 (split-mouth RCT n=34, ortho): ≡ water flosser for immediate plaque removal (both ~0.6→0.13, between-group p=0.951); WF marginally better only at distal molar (p=0.033) | **For fixed appliances, bridge pontics, implant prostheses** — equals a water flosser overall in orthodontic patients |
-| **Water flosser / oral irrigator (WF/OI)** | Badahdah 2025 (SR+MA, 18 RCTs, n≈1005, regular+ortho): slight bleeding (moderate GRADE) + gingival benefit, **no plaque superiority**; larger vs brushing-alone and in ortho; Sarkisova 2024 (scoping review, 275 sources): inflammation consistently down, plaque mixed (microbiome-modulation mechanism); Mancinelli-Lyle 2024 (RCT): WF > IDB for marginal bleeding (BOMP p=0.003); Ren 2023 (RCT n=90): adjunct beat brushing-alone on gingivitis (8–12 wk) and plaque (8 wk), pressure-BOP dose-response, **no safety harm** (no recession/pain/hypersensitivity); Kim 2023 (RCT n=29): lowered BOP + favorable microbiome shift (blocked Prevotella/Bacteroidetes rise); Mohapatra 2024 (SR, 7 RCTs): 4/7 favored WF over floss for plaque (qualitative, no MA, I²=97%) — disputed by Badahdah; Liu 2025 (RCT): effective NSPT adjunct in periodontitis; Tyler 2023 (RCT): Waterpik adds nothing over manual brushing in fixed ortho (NS); Bishti 2025 (SR+MA): around implants, irrigator NOT superior to brushing alone | **Context-dependent — helps bleeding/gingivitis > plaque**: good for marginal bleeding, periodontitis maintenance, poor dexterity, fixed appliances; safe and effective general-population adjunct; but NOT a proven plaque/clinical upgrade in ortho or peri-implant. **Caveat: clean the reservoir** (Legionella biofilm risk — Slekovec 2026) |
+| **Water flosser / oral irrigator (WF/OI)** | Badahdah 2025 (SR+MA, 18 RCTs, n≈1005, regular+ortho): slight bleeding (moderate GRADE) + gingival benefit, **no plaque superiority**; larger vs brushing-alone and in ortho; Sarkisova 2024 (scoping review, 275 sources): inflammation consistently down, plaque mixed (microbiome-modulation mechanism); Mancinelli-Lyle 2024 (RCT): WF > IDB for marginal bleeding (BOMP p=0.003); Ren 2023 (RCT n=90): adjunct beat brushing-alone on gingivitis (8–12 wk) and plaque (8 wk), pressure-BOP dose-response, **no safety harm** (no recession/pain/hypersensitivity); Kim 2023 (RCT n=29): lowered BOP + favorable microbiome shift (blocked Prevotella/Bacteroidetes rise); Mohapatra 2024 (SR, 7 RCTs): 4/7 favored WF over floss for plaque (qualitative, no MA, I²=97%) — disputed by Badahdah; AlMoharib 2024 (RCT n=30, fixed ortho): water jet vs floss both improved plaque/bleeding significantly, **no significant between-group difference** (PI p=0.279, BI p=0.172); Liu 2025 (RCT): effective NSPT adjunct in periodontitis; Tyler 2023 (RCT): Waterpik adds nothing over manual brushing in fixed ortho (NS); Bishti 2025 (SR+MA): around implants, irrigator NOT superior to brushing alone | **Context-dependent — helps bleeding/gingivitis > plaque**: good for marginal bleeding, periodontitis maintenance, poor dexterity, fixed appliances; safe and effective general-population adjunct; equivalent to floss (not superior) in orthodontic patients; but NOT a proven plaque/clinical upgrade in ortho or peri-implant. **Caveat: clean the reservoir** (Legionella biofilm risk — Slekovec 2026) |
 | **Toothpick method (toothbrushing)** | see [[overviews/watanabe-toothpick-method-toothbrushing-synthesis]] | Proximal plaque + gingival healing, but benefit shown mostly with professional delivery |
 | **Wooden toothpick (interdental tool)** | El Haddad 2026 (cross-sectional n=69): habitual/vertical use → interdental papilla loss / black triangles | **Avoid for routine cleaning** — a harm, not a recommended aid |
 
@@ -108,12 +125,19 @@ The dominant finding across the evidence is that **no single device is universal
 ## Limitations of the Evidence Base
 
 - Mostly **short-term (2–8 week) small RCTs**, several measuring only **single-visit immediate plaque** (Sawan 2022); the irrigator-vs-floss SRs had extreme heterogeneity (I²=97–98%) and **disagree by population** — Mohapatra 2024 favored water flossers in general adults while Yiamwattana 2025 found no significant superiority in orthodontic patients, so the "water flosser > floss" signal is population-dependent, not settled.
+- The Cochrane umbrella review itself (Worthington 2019) rates the underlying trial base **low-to-very-low certainty** across nearly all comparisons, and **zero of its 35 included RCTs measured interdental caries** — the page's device-vs-device rankings sit on top of an already-uncertain foundation, and none of the evidence here should be read as proof of caries prevention.
 - Several trials are **industry-sponsored** (e.g., Mancinelli-Lyle 2024, Water Pik) or single-IDB-size.
 - **No hard-endpoint data** (tooth loss, implant survival, caries increment) — outcomes are plaque/bleeding indices over weeks.
 - Peri-implant evidence is **limited** (Bishti 2025: only 2 of 6 studies meta-analysable).
 - The toothpick *method* evidence is largely **professional-delivery**, not self-performed (see its overview).
 
 ## Related Papers
+
+
+### 신규 ingest cluster (2026-07-15)
+
+- [[interdental-cleaning/spindler-2026-3d-printed-cleaning-splints-interdental-brush]] — Crossover pilot RCT (30 periodontitis pts): 3D-printed cleaning splint + IDB vs IDB alone gave greater plaque reduction (median ΔQHI −1.38 vs −0.23, p<0.001) — promising IDB-handling adjunct but 2-week unblinded pilot, ~360€ cost
+- [[interdental-cleaning/wen-2026-dental-floss-sequence-plaque-removal]] — Single-blind RCT (54 students, 21 days): mid-brushing flossing gave largest day-7 plaque reduction (p=0.039) but advantage vanished by day 21 (p=0.933) — flossing sequence matters far less than flossing itself
 
 - [[interdental-cleaning/carrouel-2026-interdental-brushing-pregnancy-gingivitis-rct]] — IDB, pregnancy gingivitis (OR 3.14)
 - [[interdental-cleaning/jung-2025-flossing-performance-plaque-removal]] — better flossing technique did NOT improve plaque removal (n=37) — strengthens "floss efficacy is weak even when done correctly"
@@ -132,7 +156,16 @@ The dominant finding across the evidence is that **no single device is universal
 - [[interdental-cleaning/liu-2025-water-flossing-adjunct-nspt-periodontitis-rct]] — water flossing, periodontitis adjunct
 - [[interdental-cleaning/tyler-2023-waterpik-manual-toothbrush-orthodontic-rct]] — Waterpik, no ortho benefit
 - [[interdental-cleaning/el-haddad-2026-toothpick-use-interdental-papilla-loss-cross-sectional]] — wooden-toothpick harm
+- [[interdental-cleaning/worthington-2019-home-use-interdental-cleaning]] — Cochrane umbrella SR+MA (35 RCTs, n=3929): low-to-very-low certainty benefit of floss/IDB+brushing over brushing alone; zero trials measured interdental caries — frames the whole page's evidence-certainty ceiling
+- [[interdental-cleaning/kotsakis-2018-network-meta-analysis-interproximal]] — Bayesian NMA (22 RCTs, 10 methods): quantifies IDB as top-ranked device — the formal-statistics backbone for the "IDB first-line" recommendation
+- [[interdental-cleaning/almoharib-2024-water-jet-interdental-flossing-orthodontic]] — RCT (n=30, fixed ortho): water jet vs floss both effective, no significant between-group difference — reinforces water-jet/floss equivalence in orthodontic patients (alongside Sawan 2022)
 - [[implants/peri-implantitis/bishti-2025-interproximal-devices-peri-implant-mucositis-sr-ma]] — interproximal devices around implants (none superior)
-- [[periodontics/luo-2026-electric-toothbrush-technologies-plaque-gingivitis-nma]] — toothbrushing baseline: oscillating-rotating electric ranks first for plaque/gingivitis (the brushing tier interdental cleaning supplements)
-- [[periodontics/liu-2026-powered-manual-toothbrushes-orthodontic-sr-ma]] — powered>manual toothbrush in ortho (GRADE-low) — brushing-tier context
+- [[periodontics/oral-hygiene-instruction/luo-2026-electric-toothbrush-technologies-plaque-gingivitis-nma]] — toothbrushing baseline: oscillating-rotating electric ranks first for plaque/gingivitis (the brushing tier interdental cleaning supplements)
+- [[periodontics/oral-hygiene-instruction/liu-2026-powered-manual-toothbrushes-orthodontic-sr-ma]] — powered>manual toothbrush in ortho (GRADE-low) — brushing-tier context
 - [[overviews/watanabe-toothpick-method-toothbrushing-synthesis]] — the toothpick *brushing* method axis
+
+## Evidence Update — Flossing vs Mouthrinse: Microbiota Evidence (Min 2024)
+
+Min 2024 (12-week parallel RCT, n=288 gingivitis subjects, 5 arms; first-ever quantitative absolute-abundance shotgun metagenomics via spiked-DNA CMU) directly tested the additive microbial effect of flossing vs essential-oil mouthrinse on top of brushing. Key findings: brushing+flossing produced **no significant difference** vs brushing alone in supragingival plaque diversity, richness, or total bacteria (all NS) — a genomics-level confirmation that isolated flossing has minimal additional microbial impact. By contrast, all essential-oil mouthrinse arms significantly reduced these metrics; the alcohol-containing formulation reduced gingivitis-associated species by 91–94%. The only regimen with significant **subgingival** synergy was flossing+rinsing combined, which additionally reduced P. gingivalis and F. nucleatum. This adds microbiome-level evidence to the clinical inter-proximal plaque data already synthesized in this overview.
+
+- [[interdental-cleaning/min-2024-brushing-flossing-mouthrinsing-plaque-microbiota]] — RCT n=288: flossing alone NS vs brushing on microbiota; essential-oil rinse reduces gingivitis-associated species 91–94%; flossing+rinse = only subgingival synergy.

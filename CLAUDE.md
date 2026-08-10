@@ -1,609 +1,122 @@
 # LLM Wiki — Dentistry (치과학)
 
-A personal knowledge base of dental research papers, following [Karpathy's LLM Wiki pattern](https://gist.github.com/karpathy/1dd0294ef9567971c1e4348a90d69285):
+A personal knowledge base of dental research papers, following [Karpathy's LLM Wiki pattern](https://gist.github.com/karpathy/1dd0294ef9567971c1e4348a90d69285).
+
+> **This file is agent behavior rules only, and is kept under 200 lines** — adherence degrades as it grows (per global CLAUDE.md). Reference material lives in sibling docs; each is the single source of truth for its domain. Never copy their content back here.
+
+| Open this | When |
+|---|---|
+| `INGEST.md` | 논문을 위키에 추가 (`인제스트`, `Add this paper`, PDF 경로). Step 0–5, 필드 정의(`evidence_level:`/`superseded_by:`/`relations:`), 페이지 템플릿·세줄요약 규칙, 파일명 규칙, qmd 임베딩 드레인 |
+| `OPERATIONS.md` | `agenda/`·`slides/`·`interactives/`·`peer-review/`·`note-meeting/`에 뭔가를 만들 때. 라우팅·파일명·frontmatter cross-link·agenda 워크플로·interactive 도구 freshness |
+| `AUDITS.md` | 감사 추가/변경, `logs/` 해석. 20개 감사 표·compounding 지표 |
+| `wiki/_meta/categories.md` | 카테고리 선택. 60여 개 목록·서브카테고리 분기 (**여기 이 파일은 목록을 의도적으로 복제하지 않는다** — 두 벌은 반드시 drift한다) |
+| `SOP.md` | 사람이 읽는 운영 절차 |
+
+질문에 답하는 것만이라면 위 문서들은 필요 없다.
+
+**Canonical publish URL** (single source — every hard-coded absolute URL references THIS; if the deploy domain changes, change it here and grep for the old host):
 
 ```
-Original PDF → sources/*.md (LLM summary) → wiki/{category}/*.md (final page)
+PUBLISH_BASE = https://ezinternet.github.io/dentopedia
 ```
-
-**Language policy**: Wiki body content is in English (RAG-friendly, preserves technical terms). Every wiki page AND every source page carries a **bilingual one-line summary** as two separate sections, in this order: `## One-line Summary` (English) immediately followed by `## 한줄요약` (Korean). On wiki pages this pair sits immediately above `## Summary`; on source pages it sits immediately above `## 1. Document Information`. Both languages are mandatory for new pages. Conversation can be in any language (including Korean).
-
-**Overview Korean digest (mandatory for `wiki/overviews/` pages)**: English body is too dense to skim in Korean, so every overview/synthesis page additionally carries a **`## 한국어 핵심요약` block at the very TOP** — placed immediately after the frontmatter, ABOVE `## One-line Summary`. Format it as an Obsidian callout `> [!summary] 한국어 핵심요약` with **~10 bullets** (longer is fine) capturing: the thesis/bottom line, key numbers, the main branches/decision points, contrasts/exceptions, and the clinical takeaway. Use the **한국어 (English, 약어)** term-notation rule inside the bullets. The English body stays intact (RAG policy unchanged) — this block is a Korean reading aid layered on top. Mandatory for all new overviews going forward.
-
-**Term notation rule**: When using technical/medical terms in conversation, ALWAYS write them as **한국어 (English, 약어)** format. Example: 골-임플란트 접촉률 (Bone-to-Implant Contact, BIC), 골밀도화 (Osseodensification, OD), 임플란트 안정성 지수 (Implant Stability Quotient, ISQ). No exceptions.
 
 ---
 
 ## THE FOUR RULES (do not violate)
 
-These rules prevent hallucination and keep every claim traceable.
+These rules prevent hallucination and keep every claim traceable. They apply to **every** response, including overview pages.
 
-1. **No web search.** Never use `WebSearch` or `WebFetch` to fill gaps. Every answer must be grounded in papers we actually have.
-2. **Answer from the wiki first.** Use `sources/` and `wiki/` as the only sources of truth.
-3. **If the wiki is insufficient, re-read the PDF.** Go to `papers/{stem}.pdf` and extract more detail with `pypdf`. Then update the wiki.
-4. **If the wiki has no paper on the topic, say so.** Tell the user *"I don't have a paper on this — please give me the PDF."* Do not improvise.
+1. **Answer only from ingested knowledge.** When *answering a question*, never use `WebSearch`/`WebFetch` to fill gaps — every claim must be grounded in papers we actually hold. This governs *answer generation*, not *acquiring* papers.
+2. **Answer from the wiki first.** `sources/` and `wiki/` are the only sources of truth. Retrieve with QMD, never from the web.
+3. **If the wiki is insufficient, re-read the PDF.** Go to `papers/{stem}.pdf`, extract more with `pypdf`, then update the wiki.
+4. **If the wiki has no paper on the topic, say so.** *"I don't have a paper on this — please give me the PDF, or run an ingest sweep."* Do not improvise clinical claims from memory.
 
-These rules apply to **every** response, including overview pages.
+**Scope of Rule #4 — factual claims, not clinical reasoning.** Rule #4 governs *citable factual claims* (an efficacy number, a survival %, a threshold, "study X found Y"). It does NOT forbid **clinical reasoning synthesized from papers we hold**: weighing options for a case, explaining a mechanism, walking through a decision the held evidence supports. That reasoning is encouraged — it is the point of the wiki. The boundary: reasoning may combine and apply what our papers say, but must not smuggle in a specific factual claim that no held paper supports. When a case question needs a fact we don't hold, name the gap and reason around it from what we do hold — don't fabricate the number, and don't refuse the whole question.
+
+**Ingest is not a Rule-#1 violation — it is a different path.** QMD and PubMed MCP are not exceptions carved out of "no web"; they operate on different axes. QMD is *local retrieval* (indexes only this repo). PubMed MCP / `literature-surveillance` is the *ingest entry point*: it may reach external sources, but only to **acquire** papers, which must then pass the full 3-tier pipeline (`papers/` → `sources/` → `wiki/`) before any claim from them is used in an answer. Never let PubMed text bypass the pipeline to answer a live question.
+
+---
+
+## Output rules (every response)
+
+**세션 확신도 2태그 (mandatory — `[확인]` / `[미검증]`)**: 사실 주장(factual claim)을 하는 문장마다 이번 세션에 도구로 검증했는지 표시한다.
+
+- `[확인]` — 이번 세션에서 도구로 직접 확인. Read/Bash/grep/qmd 출력에 근거가 있고, 어느 도구·어느 파일인지 즉答 가능.
+- `[미검증]` — 그 외 **전부**. 기억·추론·훈련지식·확인 없이 인용한 메모리·그럴듯한 일반론.
+- **붙이는 대상**: 수치·상태·파일 내용·시스템 동작 등 검증 가능한 단정. 특히 **메모리·문서를 인용할 때** (읽지 않고 인용하는 것이 최대 위험원).
+- **안 붙이는 대상**: 질문·제안·의견·계획·방금 이 대화에서 오간 내용. 남용하면 신호가 죽는다.
+- 확신이 안 서면 `[미검증]`. 태그 없이 단정하면 사용자가 지적하도록 되어 있다.
+
+*Why*: 검증한 문장과 지어낸 문장이 **똑같은 확신의 톤**으로 나오는 것이 할루시네이션의 전달 경로다. 태그가 그 톤 차이를 강제한다 — `[미검증]`이 붙는 순간 문장이 스스로를 고발하고, 사용자는 "확실해?"(무의미) 대신 "그거 어디서?"(검증 강제)로 물을 수 있다. 2026-07-17에 메모리를 읽지도 않고 인용해 없는 사실을 만들어낸 사고가 근거. `evidence_level:`(논문 연구설계 강도, 위키 필드)과는 **다른 축**이다.
+
+**Term notation rule**: 기술·의학 용어는 대화에서 ALWAYS **한국어 (English, 약어)** 형식. 예: 골-임플란트 접촉률 (Bone-to-Implant Contact, BIC), 골밀도화 (Osseodensification, OD), 임플란트 안정성 지수 (Implant Stability Quotient, ISQ). No exceptions.
+
+**Language policy**: 위키 본문은 영어 (RAG-friendly, 용어 보존). 대화는 아무 언어나 (한국어 포함). 모든 wiki·source 페이지는 이중언어 세줄요약(`## Three-line Summary` + `## 세줄요약`) 필수 — 포맷 규칙은 `INGEST.md`.
+
+**Overview Korean digest (mandatory for `wiki/overviews/`)**: 영어 본문은 한국어로 훑기엔 너무 빽빽하므로, 모든 overview/synthesis 페이지는 **`## 한국어 핵심요약` 블록을 최상단**(frontmatter 바로 아래, `## Three-line Summary` 위)에 싣는다. Obsidian callout `> [!summary] 한국어 핵심요약` 형식, **~10 bullets**(더 길어도 됨): 결론/thesis, 핵심 수치, 주요 분기·결정 지점, 대비·예외, 임상 takeaway. bullet 안에서도 term notation rule 적용. 영어 본문은 그대로 둔다 (RAG 정책 불변) — 이건 위에 얹는 한국어 독해 보조다.
 
 ---
 
 ## Repository Structure
 
-The repo has two layers: **KNOWLEDGE** (papers/sources/wiki — the substrate, reusable knowledge atoms) and **OPERATIONS** (agenda/slides/interactives/peer-review/note-meeting/scripts/logs — where knowledge is converted into outputs).
+**KNOWLEDGE** (substrate — reusable knowledge atoms) / **OPERATIONS** (knowledge → outputs). 모든 신규 artifact는 둘 중 하나로 라우팅한다 — ad-hoc 생성 금지.
 
 ```
-llm-wiki/
-├── CLAUDE.md                   # This file — agent行動 rules
-├── SOP.md                      # Human-facing operating procedure
-├── index.md                    # Page catalog
-│
-│ ── KNOWLEDGE (the substrate) ──
-├── papers/                     # Original PDFs (cp, never symlink)
-│   └── {author}-{year}-{title-5-words}.pdf
-├── sources/                    # PDF summaries (English)
-│   └── {author}-{year}-{title-5-words}.md
-├── wiki/                       # Wiki pages (English)
-│   ├── implants/               # 임플란트
-│   ├── endodontics/            # 근관치료
-│   ├── periodontics/           # 치주치료
-│   ├── dental-materials/       # 치과재료 (general)
-│   ├── glass-ionomer/          # 글래스아이오노머 (GIC/RMGIC/HVGIC)
-│   ├── resin/                  # 레진
-│   ├── resin-bonding/          # 레진접착
-│   ├── sinus-lift/             # 상악동거상술
-│   ├── immediate-implant/      # 즉시식립
-│   ├── prosthetic-materials/   # 보철재료
-│   ├── inlay/                  # 인레이
-│   ├── radiology/              # 방사선학
-│   ├── oral-medicine/          # 구강내과
-│   ├── botulinum-toxin/        # 보툴리눔 독소
-│   ├── orthodontics/           # 교정학
-│   ├── tmj/                    # 턱관절·악관절장애
-│   ├── caries/                 # 우식
-│   ├── cracked-tooth/          # 균열치 증후군
-│   ├── professional-wellbeing/ # 치과의사 직업적 웰빙
-│   ├── dentin-hypersensitivity/ # 상아질 과민증
-│   ├── practice-management/    # 치과경영
-│   └── overviews/              # Synthesis pages (cross-category)
-│
-│ ── OPERATIONS (knowledge → output) ──
-├── agenda/                     # 작업 명세서 (Goal·Input·Output·Done)
-├── interactives/               # HTML 시각화·계산기·의사결정 도구
-├── slides/                     # 강의·발표 자료 (wiki가 1차 입력)
-├── peer-review/                # 외부 paper 리뷰 (저널 reviewer 의뢰)
-├── note-meeting/               # 미팅 기록 (1 미팅 = 1 파일)
-├── scripts/                    # 자동화 (ingest watcher, lint)
-└── logs/                       # audit 산출 로그
+KNOWLEDGE:  papers/{stem}.pdf  →  sources/{stem}.md  →  wiki/{category}/{stem}.md
+                (원본, cp only)    (LLM 요약, 영어)      (최종 페이지) + wiki/overviews/ (종합)
+
+OPERATIONS: agenda/ (작업 명세)  →  slides/ · interactives/ · peer-review/  →  logs/
+            note-meeting/ 의 결정사항이 wiki/ 와 agenda/ 로 되먹임
+            scripts/ (ingest watcher, lint, audits)
 ```
 
-## File Naming Convention
-
-All three tiers share the same stem:
-
-```
-{first-author-lastname}-{year}-{first-5-title-words}.{ext}
-```
-
-- Lowercase, special chars stripped, spaces → `-`
-- Year is 4 digits
-- Example: `jung-2023-immediate-implant-placement-sinus.pdf`
-
-## Categories
-
-| Category folder | Korean | Includes |
-|---|---|---|
-| `implants` | 임플란트 | Implant design, bone type, survival, failure risk, MBL, soft tissue |
-| `implants/isq` | 임플란트·ISQ | ISQ/RFA measurement, stability dip, loading decision thresholds |
-| `implants/surface` | 임플란트·표면처리 | SLA, CA, UV surface technology, osseointegration |
-| `implants/vertical-ridge-augmentation` | 임플란트·수직골증대 | Vertical ridge augmentation, Ti-mesh / PTFE mesh GBR, vertical bone gain, mesh exposure, customized CAD/CAM mesh |
-| `bone-regeneration` | 골재생 (general) | Guided bone regeneration (GBR), barrier membranes (collagen/crosslinked/PTFE), bone graft substitutes (DBBM/BCP/β-TCP) & biomaterials, horizontal/vertical augmentation, peri-implantitis GBR, animal/biomechanics models. (socket/ridge preservation → `bone-regeneration/ridge-preservation`) |
-| `bone-regeneration/ridge-preservation` | 골재생·치조제보존 | Alveolar ridge preservation (ARP) / socket preservation — post-extraction dimensional changes (Araujo/Tan/Schropp), ARP efficacy SR/MA & Cochrane, grafting materials & sealing/socket-seal, flap vs flapless, biologics/PRF, esthetic-zone ARP, ARP→implant outcomes |
-| `immediate-implant` | 즉시식립 (general) | Immediate (type 1) implant placement — protocols/timing vs delayed, survival/outcomes, socket healing & dimensional change, gap/grafting, flap vs flapless, molar/septum, primary stability, periapical pathology, full-arch. (socket-shield → `immediate-implant/socket-shield`; esthetic/soft-tissue/provisionalization → `immediate-implant/esthetic-soft-tissue`) |
-| `immediate-implant/socket-shield` | 즉시식립·소켓실드 | Socket-shield technique / partial extraction therapy (PET) — root/dentin shield to preserve buccal bone; survival/MBL/PES vs conventional, complications/failure, FEA stress, reviews/SR-MA |
-| `immediate-implant/esthetic-soft-tissue` | 즉시식립·심미연조직 | Immediate implant esthetic & soft-tissue outcomes — immediate provisionalization, connective-tissue/soft-tissue grafting (SCTG/CTG), midfacial recession & papilla, pink esthetic score, buccal-dehiscence esthetic, esthetic-zone selection criteria |
-| `sinus-lift/lateral` | 상악동거상술·측방 | Lateral window approach, membrane, grafting materials |
-| `sinus-lift/transcrestal` | 상악동거상술·경치조골 | Transcrestal (osteotome/balloon/osseodensification) approaches |
-| `endodontics/eal` | 근관치료·근관장측정 | EAL accuracy, working length, apex locator devices |
-| `endodontics/irrigation` | 근관치료·세정 | Irrigant activation (PUI, ANP, sonic), NaOCl protocols |
-| `halitosis` | 구취 | Halitosis etiology (VSC, bacteria, systemic), prevalence, measurement (organoleptic/halitometric), management (oral hygiene, probiotics, PDT), systemic associations (periodontitis, H. pylori, OHRQoL) |
-| `endodontics/cold-plasma` | 근관치료·냉플라즈마 | Cold atmospheric plasma (CAP), non-thermal plasma jet, underwater discharge plasma for root canal disinfection; E. faecalis biofilm, ROS/RNS mechanisms, safety |
-| `endodontics/anatomy` | 근관치료·해부 | Canal morphology, access cavity, MB2, CBCT-guided access |
-| `endodontics/diagnosis` | 근관치료·진단 | Pulp & periapical diagnosis — pulp sensibility vs vitality test accuracy, pulpitis diagnosis effectiveness, pediatric pulp testing, periapical lesion etiology/diagnosis (granuloma vs cyst) |
-| `periodontics` | 치주치료 | Periodontal disease, regeneration, SPT |
-| `interdental-cleaning` | 치간 청소 | Interdental cleaning devices/aids — dental floss, interdental brush (IDB), water flosser / oral irrigator (Waterpik), wooden toothpick; efficacy RCTs/SRs, device head-to-heads, adherence, gingival abrasion, papilla harm. (Watanabe toothpick *toothbrushing* method → `periodontics`; peri-implant device comparisons → `implants/peri-implantitis`) |
-| `dental-materials` | 치과재료 (general) | Impression materials, ceramics (lithium disilicate/glass-ceramic), amalgam/composite longevity, CAD-CAM all-ceramic. (zirconia-specific → `dental-materials/zirconia`) |
-| `dental-materials/zirconia` | 치과재료·지르코니아 | Dental zirconia (Y-TZP/3Y/4Y/5Y, monolithic) — material types/processing, strength/defects, antagonist enamel wear, LTD/aging, survival/clinical, bonding & saliva-contamination cleaning (Ivoclean/primers/MDP), grinding/polishing/glazing |
-| `glass-ionomer` | 글래스아이오노머 | GIC / RMGIC / HVGIC: composition, restorative & preventive use, longevity, bioactivity/remineralization, biocompatibility, fissure sealant |
-| `digital-workflow` | 디지털워크플로우 | IOS accuracy, CBCT, CAD/CAM, guided surgery |
-| `resin` | 레진 | Composite resin, polymerization, shrinkage |
-| `resin-bonding` | 레진접착 | Adhesive systems, bonding mechanisms, dentin adhesion |
-| `veneers` | 비니어·라미네이트 | Ceramic laminate veneers (feldspathic, leucite, lithium disilicate, zirconia), composite veneers — preparation techniques, fabrication (platinum foil vs refractory die), survival/complication rates, incisal coverage, minimally invasive vs conventional, cementation |
-| `prosthetic-materials` | 보철재료 | Screw vs cement retention, zirconia crowns, CAD/CAM prosthetics |
-| `complete-denture` | 총의치·가철성보철 | Complete/removable denture prosthodontics — occlusal vertical dimension (OVD/VDO) determination (rest position, freeway space, anthropometric/facial, phonetics, cephalometric), jaw relation records, signs of excessive/reduced VD, edentulous prosthodontics. (denture *occlusal scheme* balanced/lingualized → `occlusion`) |
-| `drug/antibiotics` | 전신질환·약물·항생제 | Dental antibiotic prescribing, prophylaxis, antibiotic stewardship; AMX/CLV, clindamycin, azithromycin, metronidazole, cephalosporins; periodontal/endodontic/surgical adjunct use |
-| `drug/analgesics` | 전신질환·약물·진통소염제 | NSAIDs (ibuprofen, ketorolac, naproxen, etoricoxib), acetaminophen, opioids, corticosteroids (dexamethasone), preemptive analgesia; postoperative pain management |
-| `drug/anticoagulants` | 전신질환·약물·항응고·지혈 | Anticoagulants (warfarin, DOACs: apixaban/rivaroxaban/dabigatran), antiplatelets (aspirin, clopidogrel), perioperative management, hemostasis, DAPT |
-| `drug/mronj` | 전신질환·약물·MRONJ | MRONJ/ONJ — bisphosphonates, denosumab, antiresorptive/antiangiogenic agents; prevention, staging, management |
-| `drug/systemic-disease` | 전신질환·약물·전신질환관리 | Medically compromised patients — diabetes (HbA1c), cardiovascular disease, Sjögren, renal/hepatic impairment, polypharmacy, drug–drug interactions, immunosuppression |
-| `pdrn` | PDRN(폴리뉴클레오티드) | Polydeoxyribonucleotide (PDRN) biology, bone/soft-tissue regeneration with PDRN, peri-implant/sinus/extraction socket adjunct, A2A receptor mechanism |
-| `oral-surgery` | 구강외과 | Extractions, nerve injuries, surgical complications |
-| `suture-wound-closure` | 봉합·창상폐쇄 | Suture techniques/patterns & biomechanics, primary vs secondary closure, sutureless surgery, tissue adhesives, flap design for tension-free primary closure (PASS, periosteal releasing, advancement flaps) |
-| `occlusion` | 교합 | Occlusal analysis (digital/T-Scan vs articulating paper), implant occlusion, occlusal overload, occlusal scheme/adjustment |
-| `geriatric-dentistry` | 노년치의학 | Oral frailty, xerostomia/hyposalivation, root caries in elderly, professionally applied fluoride, polypharmacy oral effects |
-| `local-anesthesia` | 국소마취·진정 | LA agents (articaine/lidocaine/mepivacaine), IANB/buccal infiltration, buffered/preheated LA, N2O & procedural sedation, topical anesthetics, injection landmarks; pregnancy/pediatric LA; supplemental injections for irreversible pulpitis |
-| `dental-history` | 치과 역사 | Historical figures, milestones in dentistry (Korean and international) |
-| `inlay` | 인레이 | Inlay/onlay restorations, ceramic inlays |
-| `post-and-core` | 포스트앤코어 | Restoration of endodontically treated teeth — post-vs-no-post decision, fiber vs metal/cast post survival, ferrule effect, endocrown alternative, post length/material/cementation, failure mode (root fracture vs repairable). (fiber-post adhesion/bonding → `resin-bonding`; fiber-post FEA → `resin`) |
-| `tooth-whitening` | 치아미백 | Vital tooth bleaching (in-office vs at-home, hydrogen/carbamide peroxide concentration, efficacy/longevity), bleaching-induced tooth sensitivity & management, effect on enamel/restorations, non-vital internal (walking-bleach), OTC strips/gels/LED. (white-spot lesion remineralization/resin infiltration → `caries`) |
-| `dental-trauma` | 외상치학 | Traumatic dental injuries — tooth avulsion & replantation (storage media, root resorption), splinting (rigid vs flexible, duration), luxation injuries & pulp survival, crown/root fracture, mouthguard prevention, IADT guidelines. (REP for traumatized immature teeth also → `endodontics/regenerative`) |
-| `evidence-appraisal` | 근거평가·통계방법론 | EBM/EBD critical appraisal, SR/MA methodology, biostatistics (p-value/CI/OR/RR/HR/NNT), common mistakes |
-| `bone-biology` | 골생물학 | Molecular/cellular bone biology — osteoclast/osteoblast signaling (SIK, PTHrP, RANKL), residual ridge resorption pathology, basic socket healing biology |
-| `behavioral-dentistry/motivational-interviewing` | 행동치의학·동기면담 | Motivational interviewing (MI/brief MI) efficacy & uptake, behavior-change counseling, oral-health/general-health promotion |
-| `behavioral-dentistry/communication-relationship` | 행동치의학·커뮤니케이션 | Dentist–patient communication skills/training, dentist–patient relationship determinants, shared decision-making, patient expectation management |
-| `behavioral-dentistry/patient-reported-outcomes` | 행동치의학·환자보고결과 | PRO/PROM/PREM, OHRQoL, patient satisfaction/experience, behavioral assessment of the patient |
-| `behavioral-dentistry/dental-anxiety` | 행동치의학·치과불안 | Dental anxiety/fear/phobia assessment & management (pediatric + adult), behavior-rating scales, non-pharmacological strategies |
-| `behavioral-dentistry/body-dysmorphic-disorder` | 행동치의학·신체이형장애 | Body dysmorphic disorder (BDD) prevalence & screening in esthetic-procedure candidates, preoperative psychological evaluation, patient selection for cosmetic/esthetic dentistry, BDD-driven postoperative dissatisfaction |
-| `radiology` | 방사선학 | CBCT diagnostic performance, radiation dose/collimation, panoramic, cephalometric, CBCT-guided endodontics/implant, shielding protocols |
-| `oral-medicine` | 구강내과 | Oral mucosal diseases — leukoplakia, oral lichen planus, burning mouth syndrome (BMS), recurrent aphthous stomatitis (RAS), malignant transformation risk |
-| `oral-medicine/mucositis` | 구강내과·구강점막염 | Cancer-therapy-induced oral mucositis (OM) — chemo/radiotherapy/HSCT toxicity, prevention & management (honey, LLLT/photobiomodulation, palifermin/KGF, chlorhexidine, glutamine/arginine, cryotherapy), pediatric OM & adult head-and-neck radiation-induced OM (RIOM), MASCC/ISOO supportive care. (immune-mediated/idiopathic mucosal disease → `oral-medicine`) |
-| `orofacial-pain` | 구강안면통증·통증 신경기전 | Nociception/neuropathic-pain molecular mechanisms underlying orofacial pain & BMS — chloride homeostasis (NKCC1/KCC2), GABA-A/glycine disinhibition, peripheral nociceptor ion channels (anoctamin/TMEM16, TRPV1, Nav), T-type Ca²⁺ channels, neurosteroid modulation. (BMS clinical/diagnostic papers → `oral-medicine`) |
-| `botulinum-toxin` | 보툴리눔 독소 | Botulinum toxin type A (BoNT-A) for bruxism, TMD/myogenous pain, gummy smile, lip aesthetics; injection landmarks, dosing, longevity |
-| `orthodontics` | 교정학 | Orthodontic miniscrews (TADs) — stability, failure risk, reuse; periodontal-orthodontic interactions; force biology |
-| `orthodontics/myofunctional` | 교정학·근기능교정/탄성교정 | Myofunctional / elastodontic orthodontics (EF Line, AMCOP, Eptamed Equilibrator, Occlus-o-Guide prefabricated silicone/elastomeric bio-activators) — interceptive treatment of malocclusion in growing/mixed-dentition patients: Class II sagittal correction (overjet/overbite, SNB/ANB), transverse/palatal expansion & posterior crossbite, vertical/open-bite & neuromuscular (sEMG) balance, pharyngeal airway, appliance material/mechanical characterization. Distinct from fixed-appliance & clear-aligner orthodontics |
-| `orthodontics/clear-aligner` | 교정학·투명교정 | Clear aligner therapy (CAT) indications & limitations — efficacy vs fixed appliances (mild-moderate equivalence; inferior torque/rotation/extrusion), Class II strategies (molar distalization, mandibular advancement), biomechanics (attachments, trimline design), maxillary expansion, safety (root resorption), periodontal/oral-hygiene, masticatory muscle/TMJ changes, accelerated-orthodontics adjuncts, aligner biofilm |
-| `tmj` | 턱관절·악관절장애 | TMD diagnosis & management — arthrocentesis, splint therapy, pharmacotherapy, chronic pain, TMJ osteoarthritis, sleep bruxism |
-| `sinus-lift/pseudocyst` | 상악동거상술·슈도시스트 | Antral pseudocyst / mucous retention cyst management in sinus lift context — retention vs removal, outcomes, implant impact |
-| `endodontics/vpt` | 근관치료·생활치수요법 | Vital pulp therapy (VPT) — direct pulp capping, partial/full pulpotomy; MTA/Biodentine agents; success criteria; decision thresholds for mature/immature teeth |
-| `caries` | 우식 | Caries detection, risk assessment, minimal intervention dentistry, fluoride, fissure sealants, ICDAS, stepwise/selective excavation |
-| `cracked-tooth` | 균열치 증후군 | Cracked tooth syndrome — classification (Ellis/Baird), diagnosis, prognosis, restoration design, FEA stress analysis |
-| `implants/peri-implantitis` | 임플란트·주위염 | Peri-implantitis prevalence, risk factors, non-surgical/surgical treatment, surface decontamination, GBR for peri-implant defects |
-| `endodontics/shaping` | 근관치료·근관성형 | Rotary/reciprocating NiTi instruments, shaping strategies (crown-down, single-file), file separation, canal transportation, apical patency |
-| `professional-wellbeing` | 치과의사 직업적 웰빙 | Burnout prevalence, risk factors, protective factors, wellbeing interventions among dental professionals; COVID impact |
-| `endodontics/regenerative` | 근관치료·재생근관치료 | Regenerative endodontic procedures (REP) — biologic basis, blood clot scaffold, MTA barrier, outcomes in open-apex teeth |
-| `dentin-hypersensitivity` | 상아질 과민증 | Dentinal hypersensitivity — etiology (hydrodynamic theory), in-office and at-home management, desensitizing agents |
-| `practice-management` | 치과경영 | Dental practice management — legal/regulatory decisions (헌법재판소 등), operational policies, clinic administration |
-| `implants/versah-protocols` | 임플란트·Versah 프로토콜 | Versah osseodensification osteotomy — indications, ISQ outcomes, bone density effects, vs conventional drilling |
-| `implants/soft-tissue` | 임플란트·연조직 | Peri-implant soft tissue augmentation — keratinized mucosa (KM) width/thickness, buccal dehiscence (PSTD), soft tissue substitutes (xenogeneic collagen matrix vs autograft FGG/CTG), second-stage surgery, vestibuloplasty |
-| `endodontics/visit-protocol` | 근관치료·내원횟수 | Single-visit vs multi-visit root canal treatment — healing outcomes, postoperative pain, patient preference; retreatment context |
-| `oral-microbiology` | 구강미생물학 | Oral microbiome ecology & dysbiosis, dental/biofilm matrix (EPS, glucans, eDNA, matrixome), keystone pathogens (P. gingivalis, F. nucleatum), polymicrobial synergy & dysbiosis (PSD) model, Streptococcus/Candida interactions, microbiome–systemic/cancer links |
-| `dental-erosion` | 치아침식 | Erosive tooth wear (ETW) — etiology (intrinsic/extrinsic acids, dietary soft drinks/citrus), enamel demineralization/mineral loss chemistry, erosion measurement (profilometry), risk factors & prevention |
-| `nccl` | 비우식성 치경부 병소 | Noncarious cervical lesions / abfraction — morphology (saucer/V-shape), progression (D/H ratio), prevalence, multifactorial etiology (stress/friction/biocorrosion schema), demineralization pathophysiology, SEM/stereomicroscopic characterization, monitor-vs-restore decision. (NCCL adhesive-restoration RCTs → `resin-bonding`) |
-| `food-impaction` | 식편압입·치간이개 | Food impaction & proximal/interproximal contact loss (PCL/ICL) between implant prostheses (or natural teeth) and adjacent teeth — prevalence, risk factors, mesial>distal pattern, time-progression, clinical implications (caries, periodontal), management. (natural-tooth open contact, plunger cusp, marginal-ridge contour included) |
-| `complaint-management` | 환자 민원·컴플레인 관리 | Patient complaint science — complaint classification taxonomies (Reader taxonomy, HCAT) & reliability, complainant expectations & fairness (justice theory), complaint-response quality (defensive tactics, fauxpology), service recovery, staff training (CODE), national complaint policy, dental-specific complaints/malpractice/medico-legal. (general healthcare + dental applied) |
-| `artificial-intelligence` | 인공지능·기계학습 | AI/ML/deep-learning in dentistry — diagnostic performance (caries detection, anomaly/lesion identification, risk prediction), CNN/imaging models, methodological quality (AMSTAR-2, QUADAS-2) & evidence-overlap appraisal of AI systematic reviews. Classify by method (AI/ML) not by population/disease |
-| `dental-handpiece` | 치과 핸드피스·엔진 | Dental rotary handpieces / the dental engine — air turbine (high-speed air-driven), electric high-speed handpiece, low-speed micromotor contra-angle; aerosol/splatter generation & size distribution, occupational/infection-control hazard, high-volume evacuation efficacy, heat generation, mechanics/maintenance. (caries removal *clinical outcome* → `caries`; ultrasonic-scaler *periodontal* use → `periodontics`) |
-| `overviews` | 종합 | Synthesis pages spanning multiple categories |
-
-Classify by **method/procedure**, not by disease or anatomy.
+`wiki/_meta/categories.md` = 카테고리 라우팅의 단일 출처 — 목록·서브카테고리 분기 규칙뿐 아니라 **라우팅 원칙 5단계 자체**도 그 파일 하나에서 관리한다 (여기 복제 안 함 — 2026-07-15엔 카테고리 목록이, 2026-07-20엔 라우팅 원칙 4단계 예시가 두 파일에서 각각 갈라져 있었다). 신규 paper 분류·카테고리 신설 전엔 그 파일의 "라우팅 원칙"을 연다.
 
 ---
-
-## Adding a New Paper
-
-Say: *"Add this paper to the wiki: /path/to/paper.pdf"*  
-Or: *"인제스트 해줘"* (processes all pending papers in the queue — parallel subagents)
-
-**Parallel-subagent protocol — content in parallel, finalize in serial**
-
-When multiple papers are pending, fan them out to **one subagent per paper** for the content work, then have the **parent serially finalize** (index + commit + push + qmd). This is faster than one-at-a-time *without* reintroducing context exhaustion, because each subagent gets its own fresh context window — the old single-context batch failure mode (5+ papers fill the main context and later papers fail silently) cannot happen when each paper lives in its own subagent.
-
-```
-PHASE 1 — fan out (parallel):  one subagent per pending stem
-  Each subagent, for its ONE paper, runs Steps 0–3 below:
-    • Step 0  dedup + retraction gate (DOI grep) — if duplicate, STOP and report "skip:<reason>"
-    • rename PDF papers/{raw}.pdf → papers/{canonical-stem}.pdf
-    • Step 2–3  write sources/{stem}.md + wiki/{category}/{stem}.md
-  Subagent does NOT touch index.md, does NOT git-commit/push, does NOT run qmd.
-  Subagent RETURNS: {stem, category, index_line, status: ok|skip:<reason>}
-
-PHASE 2 — finalize (serial, parent only — avoids git/index races):
-  for each returned ok-paper (one at a time, in order):
-    • Step 4  add its index_line to index.md
-    • Step 8–9  lint that page + orphan check
-    • python3 scripts/ingest-one.py --finish <stem>
-        ← per-file git commit + push + qmd update/embed (incremental) + mark processed
-  for each returned skip-paper: delete the duplicate PDF, mark queue processed (no page)
-```
-
-Why this split: file writes to distinct paths (`sources/*`, `wiki/*`, distinct PDFs) are conflict-free in parallel, so PHASE 1 parallelizes the real bottleneck (PDF read + page authoring — this is what was slow). But `index.md` edits and `git add/commit/push` share mutable state — running them concurrently races/corrupts the index and the git tree — so PHASE 2 keeps them strictly serial in the parent. Subagents do NOT use `isolation: worktree` (they must write into the main working tree the parent then commits). `qmd embed` is incremental (only changed docs, seconds), so running it inside each `--finish` is cheap; never force a full re-embed (`-f`).
-
-Helper: `python3 scripts/ingest-one.py --next` prints one stem+text for a single subagent; read `.ingest-queue` `pending[]` to enumerate all stems to fan out in PHASE 1. For a single paper, skip the fan-out and run Steps 0–4 + `--finish` inline (no subagent needed).
-
-The agent will do all steps automatically.
-
-### Step 0 — Pre-ingest gate (dedup + retraction)
-
-Before copying anything, run two checks. Skipping these is how the wiki accumulates duplicate and discredited pages.
-
-1. **DOI / cross-stem duplicate check.** Extract the paper's DOI, then grep `sources/` for it. `orphan-check.py` only enforces stem-level 1:1 — it does NOT catch the same paper ingested under a different stem (e.g. `gaspar-2022-...` vs `gaspar-2025-...`, `materials-14-...` vs `inchingolo-...-sr-ma`). If the DOI already exists, do NOT create a second page — update the existing one instead. `scripts/doi-duplicate-check.py` (daily-audit signal) reports same-DOI/different-stem groups after the fact.
-
-   ```bash
-   grep -rl "10.xxxx/the-doi" sources/    # 결과 있으면 중복 → 기존 페이지 갱신, 신규 ingest 금지
-   ```
-
-2. **Retraction check.** Do NOT ingest a retracted article, retraction notice, erratum-only page, or a bare PubMed/publisher listing page as a knowledge page — it propagates discredited claims and violates the living-document/critical-appraisal principle. If a retracted paper must be recorded, make a single explicit "RETRACTED — do not cite" stub, never a normal wiki page. Delete retraction/erratum notice PDFs (they are not ingestable papers).
-
-### Step 1 — Copy PDF to `papers/` and extract text
-
-```bash
-cp /path/to/paper.pdf /Users/oracleneo/llm-wiki/papers/{stem}.pdf
-
-python3 -c "
-import pypdf, sys
-reader = pypdf.PdfReader(sys.argv[1])
-text = ''
-for page in reader.pages[:15]:
-    t = page.extract_text()
-    if t: text += t + '\n'
-    if len(text) > 12000: break
-print(text[:12000])
-" "/Users/oracleneo/llm-wiki/papers/{stem}.pdf"
-```
-
-### Step 1-T — PubMed-text 분기 (PDF 없는 OA/전문)
-
-PubMed MCP `get_full_text_article`로 전문을 받은 경우 PDF가 없다. PDF 복사 대신 받은 전문을 `papers/{stem}.txt`로 저장하고, 그 텍스트로 Step 2·3을 작성한다. PMC 전문은 JATS 기반이라 pypdf 추출본보다 깨끗한 경우가 많다.
-
-sources/·wiki/ frontmatter는 Step 2·3과 동일하되 아티팩트 필드만 교체:
-
-```yaml
-source_collection: pubmed-text   # external(PDF) 대신
-full_text: true                  # 페이월로 초록만 받았으면 false
-pmid: "xxxxxxxx"
-pmcid: "PMCxxxxxxx"             # 없으면 생략
-source_url: https://pmc.ncbi.nlm.nih.gov/articles/PMCxxxxxxx/
-text_path: /Users/oracleneo/llm-wiki/papers/{stem}.txt
-text_filename: {stem}.txt
-# pdf_path / pdf_filename 생략
-```
-
-- `full_text: false`(초록만): Summary·Results를 초록 수준으로만 채우고 본문에 `abstract-only — full text not retrieved` 명시. confidence는 study type 그대로.
-- dedup(Step 0)은 DOI/PMCID grep 그대로. 1:1 매칭·linter는 `.txt`를 PDF와 동등한 아티팩트로 인식한다 (`scripts/lint.py`, `wiki/_lint/lint.py`에 `pubmed-text` 분기 반영, 2026-06-17).
-
-### Step 2 — Write `sources/{stem}.md`
-
-```yaml
----
-title: "Paper Title"
-authors: Author List
-year: YYYY
-doi: DOI
-category: [category-folder]
-pdf_path: /Users/oracleneo/llm-wiki/papers/{stem}.pdf
-pdf_filename: {stem}.pdf
-source_collection: external
----
-
-## Why Ingested
-## One-line Summary
-## 한줄요약
-## 1. Document Information
-## 2. Key Contributions
-## 3. Methodology and Architecture
-## 4. Key Results and Benchmarks
-## 5. Limitations and Future Work
-## 6. Related Work
-## 7. Glossary
-```
-
-**`## Why Ingested` is MANDATORY for sources ingested on/after 2026-05-27** (enforced by `scripts/ingest-rationale-lint.py`). Pre-cutoff sources are grandfathered (no backfill).
-
-Required content of the section:
-- 1–2 sentences explaining *why* this paper was ingested now (gap, conflict, new evidence, requested by user, related to current clinical case, etc.)
-- At least one `[[wiki/category/stem]]` wikilink to an existing wiki page that this paper reinforces, contradicts, or extends.
-
-Example:
-```
-## Why Ingested
-
-기존 [[implants/isq/andersson-2019-rfa-factors-5year-neoss-survival]]의 ISQ ≥65 threshold가 5Y-PSZ implant에 적용되는지 의문. 본 RCT (Konuklu 2026)는 5개 osteotomy protocol을 직접 비교해 임계값 보강 근거로 활용.
-```
-
-Rationale: a 2-minute cost at ingest turns later overview synthesis from a cold start into a warm assembly. See `agenda/2026-05-26_synthesis-enforcement-setup.md` for the design.
-
-### Step 3 — Write `wiki/{category}/{stem}.md`
-
-```yaml
----
-title: "Paper Title"
-authors: Author list
-year: YYYY
-date: YYYY-MM-DD       # publication date; fall back to ingest date (YYYY-MM-DD) when unknown
-doi: DOI
-source: {stem}.md
-category: [category-folder]
-confidence: sr+ma      # see vocabulary below
-pdf_path: /Users/oracleneo/llm-wiki/papers/{stem}.pdf
-pdf_filename: {stem}.pdf
-source_collection: external
-tags: []
----
-
-## One-line Summary
-(English one-liner: study type, n, key finding)
-
-## 한줄요약
-(Korean one-liner: study type, n, key finding in plain Korean)
-
-## Summary
-## Key Contributions
-## Methodology
-## Results
-## Related Papers
-- [[category/page]] — relationship
-```
-
-### `confidence:` vocabulary
-
-Pick the **single best label** for the study type. Ordered roughly from highest to lowest evidence weight:
-
-| Value | Applies to |
-|---|---|
-| `sr+ma` | Systematic review + meta-analysis (incl. umbrella review) |
-| `sr` | Systematic review without meta-analysis |
-| `rct` | Randomized controlled trial |
-| `prospective` | Prospective cohort / prospective case series |
-| `retrospective` | Retrospective cohort / chart review |
-| `cross-sectional` | Cross-sectional study, survey |
-| `case-report` | Case report or small case series (n < 10) |
-| `in-vivo` | In vivo clinical/animal experimental study not covered above |
-| `animal` | Animal-only experimental study (dog, rat, etc.) |
-| `in-vitro` | Bench / laboratory study |
-| `narrative-review` | Narrative review, perspective, expert commentary |
-| `consensus` | Consensus statement / position paper |
-| `synthesis` | Multi-paper synthesis page (wiki overviews); not external study type |
-
-### `date:` field
-
-- Publication date in `YYYY-MM-DD` format when known (use journal publication or e-pub date).
-- `YYYY-01-01` when only year is known.
-- If neither is recoverable from the paper, fall back to ingestion date (`YYYY-MM-DD` of when added to wiki).
-
-### `superseded_by:` — living-document supersession (optional field)
-
-The wiki is a living document: a paper page is not an ingest-time snapshot, it gets updated by later evidence. When a newer paper we hold **overturns the clinical bottom line** of an older page we hold, mark the *older* page. This converts the manual prose-update habit into a machine-checkable signal (`scripts/supersession-audit.py`).
-
-**This is a clinical judgment, not a mechanical year comparison.** Newer ≠ superior — a 2026 narrative-review does NOT supersede a 2022 SR+MA. Set the field only when the newer page genuinely beats the older one on evidence weight or currency, and only between pages we actually hold.
-
-**Forward-only trigger (no backfill needed).** At ingest of a new page, ask: *"does this overturn an existing page's bottom line?"* If yes, edit the *older* page — add the field + banner. Pre-existing pages are never bulk-scanned (same grandfather logic as `## Why Ingested`).
-
-Two frontmatter fields on the **superseded (older)** page:
-
-```yaml
-superseded_by: tisci-2026-isq-it-mbl-survival-sr-ma   # newer stem(s); comma-separated if >1; must exist in wiki/
-superseded_scope: full                                # full | partial
-```
-
-- `full` — the older page's conclusion is replaced; prefer the newer page for all current decisions.
-- `partial` — only part of the page is outdated, or the page retains standalone value (e.g. first-of-kind synthesis, historical anchor). Use this rather than overstating `full`.
-
-Plus a banner callout at the **top of the body** (right after frontmatter, before `## One-line Summary` / `## 한줄요약`). Obsidian and Quartz both render `[!warning]`/`[!note]` callouts natively — no build change:
-
-```markdown
-> [!warning] Superseded (full) → [[tisci-2026-isq-it-mbl-survival-sr-ma]]
-> 48-study SR+MA (r=0.44, p<0.001) overturns this 12-study NS result. (set 2026-05-31)
-```
-
-For `partial`, use `> [!note] Partially superseded → [[newer-stem]]` and state what the page still offers.
-
-**Decay is computed, never stored.** Do NOT add a decay/staleness field — a stored decay value rots (the same reason `overview-thesis-staleness.py` exists). `supersession-audit.py` computes it each run: high-evidence pages (`sr+ma`/`sr`/`rct`) older than 5y and not superseded are flagged as "verify still current" candidates.
-
-Design: `agenda/2026-05-31_supersession-decay-setup.md`.
-
-### `relations:` — typed entity edges (optional field)
-
-`[[wikilinks]]` encode *that* two pages relate; they don't encode *how*. The `## Why Ingested` section already states the relationship in prose ("X를 보강", "Y로 확장", "Z와 대비"). Lifting that into a structured frontmatter block turns overview synthesis from a cold start (re-read every page to infer relationships) into a warm assembly (the typed graph is already there). `superseded_by` is intentionally NOT part of this — it has its own audited field and banner.
-
-Optional block on the **citing (newer) page**, pointing out to the pages it relates to:
-
-```yaml
-relations:
-  - type: extends
-    target: manfredini-2023-polydeoxyribonucleotides-pre-clinical-findings-bone-healing
-  - type: reinforces
-    target: ku-2025-polydeoxyribonucleotide-pdrn-dentistry-narrative-review
-```
-
-Relation vocabulary (5 types; pick the single best per edge):
-
-| `type` | meaning | Why-Ingested 표현 예 |
-|---|---|---|
-| `extends` | builds on / expands target's scope or depth | "확장", "deep-dive", "적응증 확장" |
-| `reinforces` | independently confirms / strengthens target | "보강", "재확인", "일관", "짝을 이룸" |
-| `contradicts` | findings conflict with target | "반박", "상충", "대비되는 결과" |
-| `refines` | narrows / qualifies target's conclusion | "한정 시나리오 강화", "조건부", "scope 제한" |
-| `applies-to` | clinical/methodological application of target | "프로토콜 적용", "한국 임상 contextualization" |
-
-- `target` must be an existing wiki stem (validated by `scripts/relations-audit.py`).
-- Forward-only / grandfather: structure relations for **new** pages at ingest; old pages are not bulk-scanned. The audit reports a machine-readable typed-edge export (`logs/{date}_relations-graph.json`) for Quartz/custom rendering — Obsidian's graph view can't distinguish edge types, so the JSON export is where typed-edge value is harvested.
-
-### Step 4 — Update `index.md`
-
-Add a one-line entry under the correct category.
-
-### Step 5 — Refresh search index (qmd)
-
-A new page is invisible to semantic search until qmd re-indexes and embeds it. Run after the wiki/sources files are written:
-
-```bash
-export PATH="/opt/homebrew/bin:$PATH"   # brew node(v25+) 강제 — 구 node v18이 앞서면 ABI 불일치로 qmd 깨짐
-cd /Users/oracleneo/llm-wiki
-qmd update   # 파일시스템 재스캔 (신규/변경/삭제 반영)
-qmd embed    # 신규 문서만 임베딩 (incremental — 1~2편이면 수 초). 전체 재임베딩(-f)은 ~2.5h이므로 금지
-```
-
-The MCP daemon picks up new vectors automatically — no restart needed.
-
----
-
-## PDF Management Rules
-
-- **Always copy, never symlink.** `cp` from Downloads or external into `papers/`.
-- `pdf_path` always points inside `/Users/oracleneo/llm-wiki/papers/`. Never use `~/Downloads/`.
-- `pdf_filename` must match `basename(pdf_path)`.
-- **1:1 matching enforced.** Every PDF in `papers/` must have a matching `sources/{stem}.md`. After any ingest or rename operation, run:
-  ```python
-  pdfs = {stem for stem in [os.path.splitext(f)[0] for f in os.listdir('papers/') if f.endswith('.pdf')]}
-  srcs = {stem for stem in [os.path.splitext(f)[0] for f in os.listdir('sources/') if f.endswith('.md')]}
-  orphan_pdfs = pdfs - srcs   # → delete these
-  orphan_srcs = srcs - pdfs   # → warn (missing PDF)
-  ```
-  Delete all `orphan_pdfs` immediately. Pre-rename originals and duplicate `(1)` copies count as orphans and must be deleted.
-
-## OPERATIONS — Routing & Cross-link Rules
-
-KNOWLEDGE is the substrate; OPERATIONS is where it gets converted into outputs (slides, calculators, review reports, meeting decisions). Without these rules every output drifts away from its source wiki page.
-
-### 1. Routing — 어디에 만드는가
-
-When creating any new artifact, ask in order:
-
-1. **재사용되는 지식인가?** → `wiki/{category}/` (단일 paper) or `wiki/overviews/` (cross-paper synthesis)
-2. **시간·이벤트 기록인가?** → `note-meeting/`
-3. **외부 deliverable인가? (슬라이드·인터랙티브·peer review)** → 해당 OPERATIONS 폴더
-4. **외부 deliverable의 작업 명세인가?** → `agenda/`
-
-**Hard rule**: `slides/`, `interactives/`, `peer-review/` 산출물은 반드시 `agenda/` 파일이 선행되어야 한다. agenda 없는 산출물은 출처·done 기준 추적이 끊긴다.
-
-### 2. File Naming — OPERATIONS
-
-```
-agenda/YYYY-MM-DD_<kebab-case-topic>.md
-interactives/YYYY-MM-DD_<kebab-case-topic>.html
-slides/YYYY-MM-DD_<event-or-audience>_<topic>.md
-peer-review/YYYY-MM_<journal-code>_<topic>.md
-note-meeting/YYYY-MM-DD_<meeting-type>.md
-```
-
-날짜 prefix는 정렬·검색을 위함. `_template.md` 같은 시스템 파일은 날짜 prefix 면제.
-
-### 3. Frontmatter Cross-link — OPERATIONS 파일 전 필수
-
-```yaml
----
-title: "..."
-type: agenda | interactive | slides | peer-review | meeting
-date: YYYY-MM-DD
-status: draft | in-progress | review | done | archived
-# 아래 3개 중 최소 하나는 비어있지 않아야 함
-source_wiki:                              # 이 산출물의 근거가 된 wiki 페이지들
-  - wiki/<category>/<stem>.md
-agenda: agenda/<date>_<topic>.md          # slides/interactives/peer-review 필수
-output_wiki:                              # 이 산출물이 갱신·생성한 wiki 페이지 (meeting에서 자주 발생)
-  - wiki/<category>/<stem>.md
----
-```
-
-`source_wiki` · `agenda` · `output_wiki` 세 필드가 모두 비어있는 OPERATIONS 파일은 **orphan**으로 간주하고 lint에서 경고한다.
-
-### 4. agenda Workflow
-
-새 작업은 agenda 파일 1개로 시작:
-
-```bash
-cp agenda/_template.md agenda/$(date +%Y-%m-%d)_<topic>.md
-```
-
-agenda는 Goal·Input·Output·Done이 박힌 단일 명세서. 진행되며 status 갱신 (`draft` → `in-progress` → `review` → `done` → `archived`).
-
-agenda에서 파생된 산출물(slides·interactive·overview)은 자신의 frontmatter에 `agenda:` 백링크를, 그리고 agenda 파일의 `# Output` 섹션에 산출물 경로를 양쪽으로 박는다.
-
-### 5. note-meeting Workflow
-
-미팅 1회 = 파일 1개. 결정 사항(decisions)이 wiki SOP나 임상 프로토콜에 반영되어야 하는 경우:
-
-- meeting note frontmatter의 `output_wiki:` 에 갱신될 wiki 페이지 경로
-- followup이 필요하면 `followup_agenda:` 에 신설할 agenda 파일 경로 (그리고 실제로 agenda 신설)
-
-미팅 → agenda → 산출물의 chain이 끊기면 미팅은 메모로만 남고 클리닉 SOP에 반영이 안 된다.
-
----
-
-## Knowledge Compounding
-
-The most valuable pages are `wiki/overviews/` pages that synthesize across papers. After a good Q&A session, say:
-
-> *"Save this as an overview page in wiki/overviews/"*
-
-Each session should produce 5–15 new or updated wiki pages.
-
-### Overviews domain map (auto-generated — do NOT hand-edit)
-
-`interactives/overviews-map.html` is the at-a-glance browser for all `wiki/overviews/` pages, grouped by clinical domain (search + expand/collapse, titles link to each page). It is **auto-generated** by `scripts/build-overviews-map.py` from each overview's frontmatter (`title`/`date`); the deploy workflow regenerates it on every push to `wiki/**`, and the homepage `wiki/index.md` embeds it via `<iframe>` (absolute URL — Quartz `CrawlLinks` rewrites root-relative/`.html` srcs, so the iframe and the interactives-index link both use the full `https://ezinternet.github.io/dentopedia/...` URL).
-
-Never edit `overviews-map.html` by hand (it's overwritten). A new overview appears automatically once its file lands in `wiki/overviews/`; if its `stem` matches no domain keyword in the script's `DOMAINS` map, it falls into the `기타 · 미분류` bucket (never dropped). To re-home it, add its keyword to `DOMAINS` in `scripts/build-overviews-map.py`. Regenerate locally with `python3 scripts/build-overviews-map.py`.
-
-### Interactive tools — deploy-time freshness (two classes)
-
-The `interactives/` chairside calculators/decision-trees/simulators split into two classes with different freshness mechanisms:
-
-- **메타·통계 도구 (Class A)** — numbers ARE repo state (paper/overview/category counts, ingest timeline, 발행연도 histogram). `scripts/build-wiki-stats.py` regenerates **`interactives/wiki-stats-live.html`** on every deploy from live repo state + git history (reuses the v4 render engine; only the JS DATA blocks + header scalars are injected). It is the single always-current dashboard. The date-stamped lineage (`wiki-evolution` v1~v4, `wiki-growth-curve`) stays **frozen as the evolution archive** — never regenerated (mutating a dated snapshot would make its filename lie). Never hand-edit `wiki-stats-live.html` (overwritten). git cumulative needs full history → deploy uses `fetch-depth: 0`.
-- **임상 결정 도구 (Class B)** — numbers are clinical thresholds an LLM extracted from specific papers (ISQ ≥65, r=0.44, doses, risk %). A deploy script **cannot** safely re-extract these (would hallucinate/corrupt clinical values → violates Rule #1), so they are **not auto-rewritten**. Instead `scripts/interactive-staleness.py` emits a signal when a tool's `source_wiki:` page is newer than the tool (STALE → re-author with LLM) or a source path vanished (BROKEN). Re-authoring stays a human/LLM-in-the-loop step. This matches the wiki's signal-not-gate philosophy.
-
-Deploy order (in `deploy-pages.yml`): `build-wiki-stats.py` → `build-interactives-index.py` (so the live tool is indexed) → `interactive-staleness.py` (non-blocking) → copy `interactives/` into the site.
-
-## Daily Audit
-
-A single entry-point runs all 13 audits and writes their logs to `logs/`:
-
-```bash
-python3 scripts/daily-audit.py
-```
-
-The 13 audits — 3 classic + 1 rationale (errors block) + 9 signals:
-
-| Audit | Type | Purpose |
-|---|---|---|
-| `lint.py` | error | wiki frontmatter required fields |
-| `operations-lint.py` | error | OPS files (agenda/slides/interactives) cross-link chain |
-| `orphan-check.py` | error | PDFs ↔ sources 1:1 matching |
-| `synthesis-backlog.py` | signal | sources/ not referenced by any overview, stale ≥30d |
-| `ingest-rationale-lint.py` | error (post-cutoff only) | `## Why Ingested` on sources ingested ≥ 2026-05-27 |
-| `category-overflow.py` | signal | wiki categories with ≥5 unsynthesized papers → overview candidates |
-| `overview-thesis-staleness.py` | signal | overview의 git log를 wikilink-only vs thesis edit으로 분류해 진짜 stale overview 식별 (mtime은 wikilink-only ingest로 갱신돼 부정확) |
-| `overview-coverage-lint.py` | signal | overview 본문 cov% (linked paper 중 본문 author·year로 인용된 비율) — 낮으면 thesis 분기·표·결정 트리에 paper 반영 안 됨 |
-| `doi-duplicate-check.py` | signal | 동일 DOI·다른 stem 검출 + 제목 정규화 fallback(한쪽 DOI 비거나 불일치라 DOI로 못 잡는 동일논문) — orphan-check가 못 잡는 cross-stem 중복 가시화 |
-| `supersession-audit.py` | signal | `superseded_by` 깨진 링크 + 필드↔본문 배너 sync + decay 후보(sr+ma/sr/rct 중 5년↑ 미대체, 카테고리·중심성 집계) — living-document 갱신을 신호화 |
-| `relations-audit.py` | signal | `relations:` typed edge target 실존·vocab 검증 + 타입 분포 + typed-edge JSON export(Quartz/custom 렌더용) |
-| `link-integrity.py` | signal | 본문 `[[wikilink]]` 깨짐 + index.md 양방향 커버리지 (Astro-Han lint 개념 차용) |
-| `interactive-staleness.py` | signal | 임상 interactive 도구의 `source_wiki` 근거가 도구보다 git상 최신이면 STALE(LLM 재작성 후보), 근거 경로 소실이면 BROKEN. meta/통계 도구는 제외(build-wiki-stats.py가 배포 때 재생성). 임상 수치 자동 재작성은 Rule #1 위배라 신호만 |
-
-Signals never block. They're a mirror — the principle is that ingest pressure self-corrects via visibility, not via gates (which trigger burnout/avoidance in clinical workflows).
-
-Run daily (manual or cron). The three key compounding metrics over time:
-- **synthesis-backlog %**: should trend up (more sources getting linked from overviews).
-- **category-overflow count**: should trend down as overviews get written.
-- **thesis-staleness warn/info**: should stay low — overview 본문이 정기적으로 refresh되는지 보는 signal.
-
-Design rationale: see `agenda/2026-05-26_synthesis-enforcement-setup.md`.
 
 ## Searching the Wiki (QMD)
 
-At ~900 pages plain `grep` starts missing cross-category overview matches, so the wiki uses **QMD** ([tobi/qmd](https://github.com/tobi/qmd)) — an on-device hybrid search engine (BM25 + vector + LLM re-ranking), all local, no cloud.
+이 repo 규모에서는 plain `grep`이 cross-category overview 매치를 놓치기 시작한다. **QMD** ([tobi/qmd](https://github.com/tobi/qmd)) — on-device 하이브리드 검색(BM25 + vector + LLM re-rank), 전부 로컬. 조회는 항상 qmd 우선, `grep`/`index.md`는 데몬이 죽었을 때의 fallback.
 
-**QMD does NOT violate Rule #1.** It is local-first: it indexes and searches only the markdown files in this repo (`~/.cache/qmd/index.sqlite`), never the web. It *reinforces* Rule #1 by making local retrieval strong enough that web search is never tempting. QMD is a better `grep`, not a `WebSearch`.
+**QMD는 Rule #1 위반이 아니다.** local-first — 이 repo의 markdown만 인덱싱하며(`~/.cache/qmd/index.sqlite`) 웹은 절대 안 본다. 로컬 검색을 충분히 강하게 만들어 웹 검색이 아쉽지 않게 함으로써 Rule #1을 *강화*한다. QMD는 더 나은 `grep`이지 `WebSearch`가 아니다.
 
-Setup (one-time, run on the Mac): `bash scripts/setup-qmd.sh`. Embedding model is Qwen3 multilingual (CJK/Korean queries supported). MCP runs as an HTTP daemon at `localhost:8181`, exposed to Claude Code as the `qmd` MCP server.
+Collections: `wiki/`, `sources/`, `agenda/`, `note-meeting/` (markdown only; `papers/` PDF는 미인덱싱). Setup: `bash scripts/setup-qmd.sh`. 데몬은 `localhost:8181` HTTP MCP.
 
-Collections indexed: `wiki/`, `sources/`, `agenda/`, `note-meeting/` (markdown only; `papers/` PDFs are not indexed by QMD).
+검색 우선순위: **`query`**(하이브리드) = 개념·종합 질문 → **`search`**(BM25) = 저자명·기기명·특정 수치 등 정확 매치 → `grep` fallback.
 
-Search precedence when answering:
+**손으로 `wiki/`·`sources/`·`agenda/`·`note-meeting/`의 `.md`를 고쳤으면 그날 안에 `qmd update && qmd embed`를 돌린다.** 이 경로엔 자동화가 **없다** — `embed-until-done` launchd 잡은 큰 백로그를 한 번 드레인하고 멈추는 것이지 주기 잡이 아니고, `qmd update`는 어디서도 자동 실행되지 않는다. 인제스트는 예외로 파이프라인이 알아서 한다(`ingest-one.py --finish`). 재색인은 파일별이 아니라 리포 전체라 그날 한 번이면 그날 편집분이 다 쓸려 들어간다.
 
-1. **QMD `query`** (hybrid, best quality) for concept/synthesis questions — e.g. "ISQ loading threshold across osteotomy protocols".
-2. **QMD `search`** (BM25) for exact terms — author names, device names, specific values.
-3. Fall back to `grep` / `index.md` only if the QMD daemon is down.
+*Why*: 고쳐도 색인이 옛것을 들고 있으면 **검색은 고치기 전 내용을 계속 내놓는다** — 페이지는 맞는데 답이 틀리는, 감사로 안 잡히는 실패다. 2026-07-17에 철회 논문 페이지를 고쳐놓고 이걸 빠뜨려 10시간 동안 철회 경고 없는 옛 청크가 검색됐다. 실측: 인덱스 대상을 고친 55일 중 23일(42%)이 그날 인제스트가 없어 이 창에 노출됐다.
 
-After every ingest (or daily), refresh the index so new pages are searchable:
+**`qmd embed`는 exit 0을 내고도 미완료일 수 있다** — 완료 신호는 `All content hashes already have embeddings`뿐이고, 진짜 백로그는 `qmd status`의 `Pending:`이다 (`qmd update`가 찍는 숫자는 전체 파일 수라 거짓). 큰 백로그 드레인 절차는 `INGEST.md` Step 5.
+
+**고아 벡터 청소는 주간 launchd 잡(`com.llmwiki.qmd-cleanup`, 월 10:00)이 한다 — ingest 절차에 넣지 마라.** `update`/`embed`는 고아 벡터를 안 치우고, 방치하면 검색이 **에러 없이** 산 문서를 놓친다 (감사로 안 잡히는 실패). 검색이 이상하면 재임베딩(`-f`, ~2.5h) 말고 `qmd cleanup`(수 초, 산 벡터 보존)부터 의심하라. 근거·실측은 `INGEST.md` Step 5.
+
+---
+
+## Daily Audit → see `AUDITS.md`
 
 ```bash
-qmd update && qmd embed     # re-scan + embed new docs only
+python3 scripts/daily-audit.py     # 20 audits → logs/
 ```
 
-This pairs cleanly with the daily audit — run it alongside `scripts/daily-audit.py`.
+3 classic + 1 rationale은 error(block), 나머지 16은 **signal — 절대 block하지 않는다.** 감사는 거울이다: ingest 압력은 gate가 아니라 가시성으로 self-correct한다 (gate는 임상 워크플로에서 번아웃·회피를 유발). 개별 감사 설명·compounding 지표는 `AUDITS.md`.
 
-## Browsing with Obsidian
+## Model Routing (3축 원칙 — 표에 없는 작업도 이 원칙으로 판단)
 
-Install [Obsidian](https://obsidian.md/) (free) and open `/Users/oracleneo/llm-wiki` as a Vault. You get graph view, `[[wikilinks]]` navigation, and full-text search. Obsidian only reads files — it does not interfere with agent edits. QMD (search) and Obsidian (browse) layer cleanly: both only read files.
+| 축 | 모델 | 판단 기준 |
+|---|---|---|
+| **전사·정형** | **Haiku** | 답이 입력에 이미 있다 — 수치 옮기기, 링크 수정, 로그 읽기, 파일 복사, 스크립트 결과 해석 |
+| **표현·품질** | **Sonnet** | 문장을 새로 써야 한다 — 위키 본문, 세줄요약, 카테고리 정리, 임상 insights |
+| **추론·종합** | **Opus** | 여러 논문·페이지를 비교해 판단해야 한다 — supersession, 카테고리 경계, overview 종합 |
+
+애매할 때는 한 축 위로 올린다 (Haiku→Sonnet, Sonnet→Opus). 세부 매핑은 `ingest-paper` SKILL.md Step 0 참조.
+
+## Knowledge Compounding
+
+가장 가치 있는 페이지는 논문을 가로질러 종합하는 `wiki/overviews/`다. 좋은 Q&A 세션 뒤엔: *"Save this as an overview page in wiki/overviews/"*.
+
+생산적인 세션은 보통 여러 페이지를 낳지만 이건 **관찰이지 할당량이 아니다.** 위키의 철학은 *signal, not gate* — 세션당 페이지 수 같은 건 감사 설계가 의도적으로 피한 바로 그 gate다. 진짜 종합할 게 있을 때 쓰지, 숫자를 채우려고 쓰지 않는다.
 
 ---
 
@@ -611,7 +124,9 @@ Install [Obsidian](https://obsidian.md/) (free) and open `/Users/oracleneo/llm-w
 
 - **3-tier**: Raw PDF (immutable) → sources/*.md → wiki/**/*.md
 - **English only** in wiki content (RAG-friendly; Korean conversation is fine)
-- **Obsidian compatible**: `[[wikilinks]]`, plain markdown
+- **Obsidian compatible**: `[[wikilinks]]`, plain markdown (Obsidian은 읽기만 — agent 편집과 충돌 없음)
 - **No web search**: rule #1 above
+- **Signal, not gate**: audits surface state; they never block. Quotas and hard gates cause avoidance.
+- **Single source of truth**: categories → `wiki/_meta/categories.md`; ingest·page templates → `INGEST.md`; OPS routing → `OPERATIONS.md`; audits → `AUDITS.md`; publish URL → `PUBLISH_BASE` above. Never a second copy.
 
 When in doubt, follow rule #1.

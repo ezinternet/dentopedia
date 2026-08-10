@@ -13,13 +13,21 @@ source_collection: external
 
 기존 [[overviews/short-implant-vs-sinus-augmentation-decision]] 의 가장 최신(2025, search inception–June 2025) RCT 합성 근거. [[implants/mester-2023-short-vs-standard-implants-sinus-floor-elevation-sr-ma]], [[implants/vetromilla-2021-short-standard-implants-sinus-umbrella]] 의 "short ≈ long+SFE, MBL은 short 우위" 패턴을 재확인(reinforces)해 thesis의 currency 갱신.
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 7 RCTs (393 patients, 474 implants) showing short implants (<8 mm) reduce marginal bone loss (MD −0.26 mm) and biological complications versus long implants with sinus floor elevation in the atrophic posterior maxilla, with equivalent survival.
+SR+MA of 7 RCTs (393 patients, 474 implants; search inception–June 2025, Cochrane RoB-2) comparing short implants (<8 mm) versus long implants with sinus floor elevation in the atrophic posterior maxilla.
 
-## 한줄요약
+Short implants showed significantly less marginal bone loss (MD −0.26 mm, 95% CI −0.43 to −0.09, p<0.001) and fewer biological complications (OR 0.39, 95% CI 0.18–0.85, p=0.02); implant survival was equivalent (OR 0.96, p=0.76).
 
-무작위대조시험(RCT) 7편(환자 393명, 임플란트 474개) 체계적 고찰·메타분석. 위축된 구치부 상악에서 짧은 임플란트(<8mm)는 상악동거상술(sinus floor elevation)을 동반한 긴 임플란트보다 변연골소실(MBL −0.26mm)과 생물학적 합병증이 적었고 생존율은 동등했다.
+MBL heterogeneity was moderate (I²=56%); follow-up was limited and ultrashort (≤6 mm) implants were not separately analyzed, so long-term conclusions remain premature.
+
+## 세줄요약
+
+RCT 7편(환자 393명, 임플란트 474개; 2025년 6월까지 검색, Cochrane RoB-2) SR+MA: 위축 후방 상악에서 짧은 임플란트(<8mm) vs 긴 임플란트 + 상악동저증대술(SFE) 비교.
+
+Short implant는 변연골소실(MBL MD −0.26mm, p<0.001) 및 생물학적 합병증(OR 0.39, p=0.02)에서 유의하게 유리; 생존율은 동등(OR 0.96, p=0.76).
+
+MBL 이질성 중등도(I²=56%); 추적 기간 제한적이고 초단 임플란트(≤6mm) 미세분류; 장기 결론은 유보 필요.
 
 ## 1. Document Information
 - Journal: Cureus 17(7): e89103, published July 31, 2025

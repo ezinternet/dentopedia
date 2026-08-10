@@ -13,13 +13,21 @@ source_collection: external
 
 Existing pages on drilling speed and thermal injury (e.g., [[wiki/implants/gehrke-2021-healing-chambers-macrogeometry-low-density-drilling]]) focus on macrogeometry or low-density bone in general, but no page directly examines how combined multifactorial surgical instrumentation variables (RPM × irrigation presence) interact specifically for narrow- vs. wide-diameter short plateau-root-form implants across two healing periods. This Witek/Coelho group sheep study fills that gap and provides in-vivo BIC/BAFO data that complements [[wiki/implants/di-stefano-2018-undersizing-tapping-bic-primary-stability-bovine-histomorphometric]] (undersizing/tapping effects on BIC) and [[wiki/implants/slete-2018-histomorphometric-comparison-three-osteotomy-techniques]] (osteotomy technique comparison in vivo).
 
-## One-line Summary
+## Three-line Summary
 
-Sheep in-vivo study (n=12 sheep, 144 implants, 3.5 mm narrow vs. 6.0 mm wide plateau-root-form Ti-6Al-4V) shows irrigation is most beneficial for BIC at low drilling speed (50 RPM) for narrow implants at 6 weeks, while wide implants benefit from irrigation at 500 and 1,000 RPM; BAFO differs only between 3- and 6-week healing periods regardless of instrumentation variables.
+Sheep in-vivo study (n=12 sheep, 144 implants, 3.5 mm narrow vs.
 
-## 한줄요약
+6.0 mm wide plateau-root-form Ti-6Al-4V) shows irrigation is most beneficial for BIC at low drilling speed (50 RPM) for narrow implants at 6 weeks, while wide implants benefit from irrigation at 500 and 1,000 RPM;
 
-양(sheep) 12마리에 협소경(3.5 mm) 및 광경(6.0 mm) 단단 티타늄 임플란트 144개 식립 후, 저속(50 RPM) 협소경 임플란트에서 수냉 유무에 따른 BIC 차이가 유의하였고, 광경 임플란트는 500·1,000 RPM에서 수냉 유무가 BIC에 영향을 미쳤으며, BAFO는 두 직경 모두 술식 변수보다 치유 기간(3주 vs. 6주)에 의해서만 유의한 차이를 보임.
+BAFO differs only between 3- and 6-week healing periods regardless of instrumentation variables.
+
+## 세줄요약
+
+양(sheep) 12마리에 협소경(3.5 mm) 및 광경(6.0 mm) 단단 티타늄 임플란트 144개 식립 후, 저속(50 RPM) 협소경 임플란트에서 수냉 유무에 따른 BIC 차이가 유의하였고, 광경 임플란트는 500·1,000 RPM에서 수냉 유무가 BIC에 영향을 미쳤으며, BAFO는 두 직경 모두 술식 변수보다 치유 기간(3주 vs.
+
+6주)에 의해서만 유의한 차이를 보임.
+
+(incomplete)
 
 ## 1. Document Information
 

@@ -17,13 +17,21 @@ text_filename: wolf-2024-maxillary-canines-root-canal-configuration-sr-ma.txt
 
 치아형태학 감시 인제스트 — 상악 견치 근관형태(Vertucci) SR+MA. 위키의 근관형태 데이터가 대구치(MB2, C-shaped) 중심으로 편중되어 전치부(single-rooted) Vertucci 분포 근거가 빈약했는데, 본 22-study SR+MA가 상악 견치의 Type I 우세(75.4–100%)와 ~25% 변이라는 정량 기준을 보강한다. 기존 근관형태 페이지 [[endodontics/anatomy/song-2008-cross-sectional-morphology-and-minimum-canal]]의 근관 단면형태 데이터와 짝을 이루는 상악 전치부 anchor.
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 22 studies on maxillary canine (MxC) root canal configuration: Vertucci Type I (1-1-1/1) dominates at 75.4–100%, but anatomical variation reaches up to ~25% of cases; CBCT is the most-used method, and males show significantly more Vertucci III and V configurations.
+SR+MA of 22 studies on maxillary canine (MxC) root canal configuration: Vertucci Type I (1-1-1/1) dominates at 75.4–100%, but anatomical variation reaches up to ~25% of cases;
 
-## 한줄요약
+CBCT is the most-used method, and males show significantly more Vertucci III and V configurations.
 
-상악 견치 근관형태 22편 SR+MA — Vertucci Type I(단일 근관) 75.4–100% 우세이나 최대 약 25%에서 변이; CBCT가 최다 연구법, 남성에서 Vertucci III·V 유의하게 많음.
+(incomplete)
+
+## 세줄요약
+
+상악 견치 근관형태 22편 SR+MA — Vertucci Type I(단일 근관) 75.4–100% 우세이나 최대 약 25%에서 변이;
+
+CBCT가 최다 연구법, 남성에서 Vertucci III·V 유의하게 많음.
+
+(incomplete)
 
 ## 1. Document Information
 

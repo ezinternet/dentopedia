@@ -6,18 +6,26 @@ date: 2019-05-01
 doi: 10.5395/rde.2019.44.e19
 source: khalil-2019-edgeevolve-protaper-gold-cyclic-fatigue.md
 category: [endodontics/shaping]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/khalil-2019-edgeevolve-protaper-gold-cyclic-fatigue.pdf
 pdf_filename: khalil-2019-edgeevolve-protaper-gold-cyclic-fatigue.pdf
 source_collection: external
 tags: [niti-file, cyclic-fatigue, edgeevolve, protaper-gold, double-curvature, bending-resistance]
 ---
 
-## One-line Summary
-In vitro trial (n=15/group, four canal conditions): EdgeEvolve outperforms ProTaper Gold in cyclic fatigue (single and double curvature), bending flexibility, and surface smoothness despite equivalent Ni/Ti composition; double-curvature canals reduce fatigue resistance in both systems.
+## Three-line Summary
+In vitro mechanical study (n=15 per group) comparing EdgeEvolve and ProTaper Gold heat-treated NiTi rotary files under single-curvature (60°/5-mm radius) and double-curvature (60°/5-mm coronal + 30°/2-mm apical) artificial canal geometries, measuring cyclic fatigue (NCF), bending resistance, and surface roughness (AFM Ra).
 
-## 한줄요약
-In vitro trial (n=15/group, four conditions): EdgeEvolve outperforms ProTaper Gold across cyclic fatigue (single and double curvature), bending flexibility, and surface smoothness, despite equivalent Ni/Ti composition; double-curvature canals reduce fatigue resistance in both systems.
+EdgeEvolve was significantly more fatigue-resistant, more flexible (lower 45° bending force), and smoother (lower Ra) than ProTaper Gold in both canal geometries (p<0.05), despite equivalent elemental Ni/Ti composition by EDX; double-curvature canals significantly reduced fatigue resistance in both systems.
+
+The equivalence of elemental composition but superiority of EdgeEvolve suggests heat-treatment/manufacturing differences (not alloy purity) drive the performance gap, with implications for file selection in complex multi-curved canals.
+
+## 세줄요약
+열처리 NiTi 회전 기구 EdgeEvolve vs ProTaper Gold in vitro 비교(군당 n=15) — 단일 만곡(Single Curvature: 60°/5-mm 반경)·이중 만곡(Double Curvature: 60°/5-mm 관상부 + 30°/2-mm 치근단부) 인공 금속 근관에서 주기적 피로(NCF), 굴곡 저항, 표면 거칠기(AFM Ra) 측정.
+
+EdgeEvolve가 두 근관 형태 모두에서 피로 저항성 우수, 굴곡성(45° 굴곡력) 더 유연, 표면 더 매끄러움(p<0.05); EDX로 측정한 Ni/Ti 원소 조성은 동등; 이중 만곡은 두 시스템 모두에서 피로 저항성을 유의하게 낮춤.
+
+원소 조성은 동일하나 EdgeEvolve가 우수한 것은 합금 순도가 아닌 열처리·제조 공정 차이 때문임을 시사 — 복잡한 다중 만곡 근관에서의 기구 선택에 임상적 시사점 제공.
 
 ## Summary
 Mechanical comparison of two heat-treated NiTi rotary systems under single- and double-curved canal geometries. EdgeEvolve was significantly more fatigue-resistant, more flexible (lower bending force to 45°), and smoother (lower AFM Ra) than ProTaper Gold, despite equivalent elemental composition. Double-curvature canals reduced fatigue resistance in both systems, supporting cautious file management in complex anatomy.

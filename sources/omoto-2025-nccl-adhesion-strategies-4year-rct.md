@@ -12,11 +12,21 @@ source_collection: external
 ## Why Ingested
 4년 RCT로 universal adhesive ± selective enamel etching vs RMGIC ± EDTA를 직접 비교. [[resin-bonding/peumans-2023-universal-adhesive-nccl-3year-rct]]의 selective enamel etching 효과와 GIC 대 composite 논쟁을 long-term data로 보강.
 
-## One-line Summary
+## Three-line Summary
+
 Split-mouth RCT (50 patients, 200 NCCLs) showing selective enamel etching reduced retention loss for universal adhesive, RMGIC lost more surface luster than composite, and survival curves did not differ among 4 strategies at 4 years (p=0.315).
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 NCCL 200개 4년 split-mouth RCT — selective enamel etching이 universal adhesive 유지력 손실 감소, RMGIC는 광택 손실 더 큼, 4개 전략 간 생존곡선 차이 없음(p=0.315).
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - Journal of Dentistry 2025;153:105529. DOI 10.1016/j.jdent.2024.105529. Sao Paulo State Univ (UNESP). FAPESP/CAPES funded. Trial reg RBR-655c3z.

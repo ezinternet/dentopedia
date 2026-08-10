@@ -13,13 +13,21 @@ source_collection: external
 
 Provides clinical validation of one of the eight IDRA (Implant Disease Risk Assessment) risk factors — the restoration-margin-to-alveolar-bone-crest (RM-AC) distance — by quantifying how RM-AC ≤1.5 mm raises marginal bone loss risk; extends the risk-factor synthesis in [[wiki/overviews/peri-implantitis-management-overview]].
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective study (77 patients, 202 platform-switched bone-level implants): RM-AC distance ≤1.5 mm gave 3.42× higher marginal bone loss risk than >1.5 mm; risk also rose with periodontitis stage (Stage 4 vs 2 = 26.31×) and with greater implant diameter (6.10×) and length (5.02×).
+Retrospective cross-sectional study (77 patients, 202 platform-switched cement-retained bone-level implants; 6–36 months post-loading; Turkey) evaluating RM-AC distance as a marginal bone loss (MBL) risk factor via multinomial logistic regression.
 
-## 한줄요약
+RM-AC ≤1.5 mm carried 3.42× higher MBL risk than >1.5 mm; periodontitis Stage 4 vs Stage 2 carried 26.31× higher risk; increasing implant diameter added 6.10× and increasing implant length added 5.02× MBL risk.
 
-후향연구(환자 77명, platform-switched 골수준 임플란트 202개): 수복물 변연–치조정 거리(RM-AC) ≤1.5 mm는 >1.5 mm보다 변연골소실 위험 3.42배. 치주염 단계(4기 vs 2기 26.31배), 임플란트 직경(6.10배)·길이(5.02배) 증가에서도 위험 상승.
+The IDRA-defined RM-AC <1.5 mm threshold is clinically validated as a significant MBL predictor; periodontitis stage is the strongest independent risk factor, underscoring the need for periodontal control before and after implant placement.
+
+## 세줄요약
+
+후향 횡단면 연구(환자 77명, platform-switched 시멘트유지형 골수준 임플란트 202개; 기능하중 후 6–36개월; 터키) — 다항 로지스틱 회귀로 RM-AC 거리의 변연골소실(MBL) 위험인자 분석.
+
+RM-AC ≤1.5 mm는 >1.5 mm 대비 MBL 위험 3.42배; 치주염 4기 vs 2기 26.31배; 임플란트 직경 증가 6.10배, 길이 증가 5.02배 위험 상승.
+
+IDRA 정의 RM-AC <1.5 mm 임계값이 유의한 MBL 예측인자로 임상적으로 확인됐으며, 치주염 단계가 가장 강력한 독립 위험인자로 임플란트 전후 치주 조절의 중요성을 강조한다.
 
 ## 1. Document Information
 

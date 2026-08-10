@@ -1,0 +1,61 @@
+Title: Patient experiences with clear aligners: a scoping review
+Authors: Chong H, Peh J, Weir T, Meade MJ
+Year: 2025
+Journal: European Journal of Orthodontics 47(3)
+PMID: 40237388
+PMCID: PMC12001029
+DOI: 10.1093/ejo/cjaf017
+
+ABSTRACT:
+Clear aligner therapy (CAT) is an aesthetic alternative to fixed appliance therapy (FAT). An understanding of patient experiences with CAT can enable clinicians to educate patients, manage expectations, and identify potential barriers to effective treatment. A scoping review was undertaken to map and synthesise the available evidence on patient experiences with CAT. The review followed PRISMA-ScR guidelines. Five databases searched. 37 studies met selection criteria (cross-sectional, longitudinal, prospective, RCTs). CAT impacts on OHRQOL in relation to pain was most frequently evaluated, followed by speech, satisfaction, eating, anxiety, and sleep. CAT patients report satisfaction with appliance aesthetics but can expect transient negative effects on OHRQOL, pain, anxiety, and speech after commencing treatment.
+
+METHODS:
+Scoping review following JBI methodology + PRISMA-ScR guidelines. PubMed (MEDLINE), Embase, Scopus, Web of Science and Dentistry & Oral Sciences Source searched (search date: 29 July 2024). Inclusion: adult patients (≥18y), published from 2000, English, primary sources. Exclusion: <18 years, orthognathic surgery cases, craniofacial syndromes, secondary sources. 37 studies included.
+
+Study characteristics:
+- 37 studies: 25 prospective (67.57%), 12 cross-sectional (32.43%)
+- 4 RCTs among prospective studies
+- Regions: Europe 13, Middle East 8, North America 7, Oceania 3, East Asia 2, South Asia 2, South Africa 1, South America 1
+- Most prescribed aligner: Invisalign (20/37, 54%)
+- CAT vs FA comparisons: n=18 (48.65%), CAT vs LFA: n=10
+- CAT alone: n=8 (21.62%)
+
+KEY FINDINGS BY DOMAIN:
+
+OHRQOL/Pain:
+- Most significant OHRQOL decline in first 2 days; correlates with pain peaks in first 24h
+- Pain reduces by end of first week (6 studies)
+- FA patients: more pain + more analgesic use than CAT patients
+- CA pain described as "dull pressure" vs FA "throbbing/acute"
+- Only 36% of patients fully adhered to prescribed wear time (retrospective compliance study)
+
+Anxiety/Psychosocial:
+- Anxiety mirrors pain levels; peaks first 1-2 days
+- At 2 weeks: anxiety decreased in both groups; less in CAT
+- At 1 month: no significant difference in anxiety between groups
+- More refinements → higher anxiety
+- CAT: minimal negative psychological impact (7 studies); significantly more positive (4 studies vs FA)
+
+Speech:
+- Speech disturbances appear immediately; adapt over time
+- Adaptation time: 4 days to 3 months (range across studies)
+- One study: speech alterations still present at 2 months
+- LFA > CAT > FA for speech disruption
+
+Eating:
+- CA removable → patients remove for meals → minimal eating disturbance
+- FA patients: more dietary restrictions, food trapping concerns
+- LFA patients: greatest eating disturbances
+
+Sleep: No significant differences between CAT and FA (3 studies)
+
+Satisfaction:
+- Aesthetic satisfaction with aligners: consistently high
+- 90.7% of prior FA patients preferred CA
+- 82.9% rated satisfaction ≥8/10 (cross-sectional n=175)
+- 84% "very satisfied" (questionnaire across 8 appointments)
+- Doctor-patient relationship: strong positive correlation with satisfaction
+- No single factor statistically significant predictor of satisfaction (multifactorial)
+
+CONCLUSIONS:
+CAT patients experience transient OHRQOL declines (pain, anxiety, speech, eating) at treatment initiation. Overall satisfaction is high, particularly with aesthetics. Key clinical implication: proactively educate patients about early-phase disturbances. Further longitudinal research using validated tools is needed.

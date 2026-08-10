@@ -6,7 +6,7 @@ date: 2026-05-18
 doi: 10.1186/s12903-026-08509-x
 source: ali-eldin-2026-giomer-hvgic-class-ii-primary-molars-rct.md
 category: [glass-ionomer]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: true
 pmid: "42152031"
@@ -20,13 +20,21 @@ relations:
     target: krishnakumar-2024-hvgic-composite-primary-teeth-sr
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Split RCT (124 primary molars, Class II) over 12 months: a highly viscous glass-ionomer (EQUIA Forte HT) and a giomer injectable composite (Beautifil Flow Plus X) had statistically comparable clinical success (88.3% vs 93.4%, NS) and equal functional/biological FDI outcomes; the giomer was significantly better only in esthetics (surface luster p=0.002, color match p<0.001).
+RCT (NCT06000085; 124 primary molars, Class II, 1:1 allocation) at Ain Shams University comparing highly viscous glass-ionomer (EQUIA Forte HT) vs giomer injectable composite (Beautifil Flow Plus X) at 3, 6, and 12 months using FDI criteria.
 
-## 한줄요약
+12-month clinical success was statistically equivalent (88.3% HVGIC vs 93.4% giomer, p>0.05); functional/biological FDI outcomes were comparable and neither material produced recurrent caries or postoperative sensitivity; the giomer was superior only in esthetics (surface luster p=0.002, color match p<0.001).
 
-RCT(유구치 124개, Class II) 12개월: 고점도 글래스아이오노머(EQUIA Forte HT)와 지오머 주입형 컴포지트(Beautifil Flow Plus X)의 임상 성공률 동등(88.3% vs 93.4%, 무의차)·기능/생물학적 FDI 항목 동등. 지오머는 심미(표면 광택 p=0.002, 색조 일치 p<0.001)에서만 유의 우위.
+HVGIC is a durable Class II option whose function matches the more technique-sensitive giomer in primary molars; choose giomer where esthetics dominate; single-center 12-month follow-up limits conclusions.
+
+## 세줄요약
+
+Ain Shams대학 RCT (NCT06000085; 유구치 Class II 124개, 1:1) — HVGIC(EQUIA Forte HT) vs 지오머 주입형 컴포지트(Beautifil Flow Plus X); FDI 기준 3·6·12개월 평가.
+
+12개월 임상 성공률 동등(HVGIC 88.3% vs 지오머 93.4%, p>0.05); 기능·생물학적 FDI 항목 동등; 어느 재료에서도 이차우식·술후 과민증 없음; 지오머가 심미에서만 우위(표면광택 p=0.002, 색조 일치 p<0.001).
+
+기능면에서 HVGIC는 더 술기 민감한 지오머와 대등한 내구성을 보임; 심미가 중요한 경우에는 지오머 선택; 단일기관·12개월의 한계.
 
 ## Summary
 

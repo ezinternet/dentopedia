@@ -1,0 +1,62 @@
+Title: Effect of Novel All-in-One Root Canal Irrigants on Dislodgement Resistance of Epoxy Resin and Hydraulic Calcium Silicate Sealers: An Ex Vivo Study
+PMID: 40907536 | PMCID: PMC13337282 | DOI: 10.1055/s-0045-1811574
+Journal: European Journal of Dentistry, 2025-09
+Authors: Kamath S, Narkedamalli R, Shetty KP, Ballal NV
+
+Introduction
+
+Microorganisms and their metabolic products are the decisive causal factors for the development and persistence of pulpal and periradicular pathologies. Total elimination of microorganisms via mechanical instrumentation, irrigation with disinfectant solutions, and interappointment intracanal medicaments is key to root canal treatment success. Mechanical instrumentation alone cannot entirely eliminate microorganisms from inaccessible regions (isthmuses, fins, cul-de-sacs, lateral canals, deep dentinal tubules), leaving retained biofilms. Sodium hypochlorite (NaOCl) is the most frequently used irrigant due to its dissolution of soft tissue, biofilms, and matrix. Traditionally NaOCl is complemented with a chelating agent (EDTA) to eliminate the smear layer from mechanical instrumentation.
+
+Dual Rinse HEDP (DR HEDP; Medcem GmbH) is a commercially available all-in-one irrigant containing etidronate (HEDP), dispensed as a capsule of 0.9 g etidronate powder mixed with 10 mL of NaOCl solution (0.5–5.25%) immediately before use. This enables a "continuous chelation" approach during chemomechanical preparation — a single irrigant suffices for the entire chemomechanical preparation, cutting irrigation time versus sequential NaOCl-then-chelator use. DR HEDP has efficacy comparable to NaOCl in antibacterial/tissue-dissolving action, is nontoxic, and enhances bonding of sealers/cements to radicular dentin.
+
+Triton (Brasseler) is another recently introduced all-in-one irrigant with two components (A and B) blended via an automix cap. Its formulation contains 2-phosphonobutane-1,2,4-tricarboxylic acid (PBTC; <15%), citric acid (<2%), NaOCl (<10%), sulfonate/disulfonate surfactants, polyacrylate, ethoxylated alcohol, sodium tripolyphosphate, modified polyethylene glycol, sodium lauryl sulfate, sodium hydroxide, and amine oxide. Recent studies establish its effectiveness in eliminating debris/smear layer and antibacterial properties.
+
+Complete sealing of the disinfected root canal space is essential to prevent bacterial ingress — achieved via 3D obturation with gutta-percha and a sealer. Bond strength of sealer to root dentin is crucial for filling-material integrity. Epoxy resin-based sealers (AH Plus, Dentsply DeTrey) are widely used for their physical properties, low solubility, good sealability, superior adhesion, and biological activity. Hydraulic calcium silicate (CaSi)-based sealers have gained popularity for biocompatibility, bioactivity, and moist-environment setting capability.
+
+CeraSeal is a premixed CaSi-based bioceramic sealer that releases calcium ions and alkalizes the surrounding environment; it has inferior radiopacity and setting time versus AH Plus, with similar flowability. A recent study reported elevated survival/healing rates at 36 months for roots obturated with single-cone technique and CeraSeal.
+
+Epoxy resin sealers adhere to exposed collagen fibrils in root dentin; hydraulic CaSi sealers form a mineral infiltration zone with the dentin surface, chemically bonding via calcium phosphate integrated with micromechanical interlocking (cement tags within dentinal tubules). It is therefore advisable to align the irrigation protocol with the sealer material used. While Triton has been evaluated for smear-layer removal, tissue dissolution, and antimicrobial activity, its effect on sealer bonding to radicular dentin had not been investigated, nor had DR HEDP vs Triton been compared for push-out bond strength (POBS) of epoxy resin vs CaSi sealers. Objective: evaluate POBS of AH Plus and CeraSeal sealers to root canal dentin conditioned with DR HEDP or Triton, and evaluate irrigant effects on organic/inorganic dentin content. Null hypothesis: DR HEDP and Triton have the same impact on POBS of AH Plus and CeraSeal to radicular dentin.
+
+Materials and Methods
+
+Ethical clearance obtained (IRB 36/2025). Sample size (G*Power, 95% CI, 80% power, SD 0.6, mean difference 0.6): minimum 10/group; FTIR used 5 samples/group.
+
+Sample preparation: 60 noncarious human mandibular single-rooted premolars (extracted for ortho/perio reasons), straight roots, curvature <30°. Radiographs mesial/distal; verified single canal, mature apex, no resorption/calcification/prior filling under microscope. Cleaned ultrasonically, stored in 0.2% sodium azide at 4°C. Decoronated; working length = length to just-visible-at-apical-foramen minus 1 mm. Apices sealed with sticky wax; roots fixed in polyvinylsiloxane to mimic closed-end system. Randomized to 2 experimental groups + 1 control (n=20 each). Instrumented to F3 with ProTaper Universal NiTi; canal taper removed with Peeso reamers #1–2.
+
+Groups: (1) DR HEDP — one capsule (0.9 g) dissolved in 10 mL 3% NaOCl; 2 mL between each instrument change (1 min) + 5 mL final flush (1 min). (2) Triton — components A+B aspirated via automix, used immediately; same volumes/timing. (3) Saline control — same volumes/timing. All irrigants delivered via 30-gauge side-vented needle, tip 1 mm short of working length; each canal flushed with 5 mL distilled water (1 min) after the irrigation regimen.
+
+POBS analysis: Canals dried with paper points. Each group subdivided (n=10) by sealer: AH Plus vs CeraSeal (Meta Biomed). Teeth horizontally split at middle third (Isomet saw) to obtain 2.0±0.1 mm dentin slices. Sealers mixed per manufacturer instructions and filled into canal space; 100% humidity for 48 h to set. POBS measured via universal testing machine (Instron), crosshead speed 1 mm/min, 0.7 mm stainless-steel plungers. POBS (MPa) = Force (N) / adhesion surface area (mm²); adhesion surface area = 2πrh.
+
+Fractographic analysis: Stereomicroscopy at 40x; failure modes classified as adhesive (dentin–sealer interface), cohesive (within sealer), or mixed.
+
+ATR-FTIR analysis: 15 root dentin blocks (1cm×1cm) from 8 extracted maxillary central incisors; polished (800–1200 grit), ultrasonically cleaned, dried. Grouped n=5 per irrigation protocol (same as POBS groups). Pretreatment FTIR (amide III, phosphate, carbonate bands) via diamond ATR (JASCO). Treated with irrigants (10 mL, 30 min, ultrasonic agitation), rinsed, dried, post-treatment spectra obtained (400–4000/cm, 4/cm resolution, 64 scans). Amide III:phosphate and carbonate:phosphate ratios calculated from band areas.
+
+Statistical analysis: SPSS v25; Kolmogorov-Smirnov normality test; one-way ANOVA + Tukey HSD post hoc; α=0.05.
+
+Results
+
+POBS: DR HEDP demonstrated highest POBS for both AH Plus (8.98±0.2 MPa) and CeraSeal (11.36±0.5 MPa); Triton showed higher POBS than saline for both AH Plus (7.20±0.4 MPa) and CeraSeal (5.85±0.5 MPa) (P<0.001). Lowest POBS in saline group for both AH Plus (3.56±0.3 MPa) and CeraSeal (2.39±0.3 MPa).
+
+Fractographic analysis: AH Plus — Triton group: 50% cohesive, 30% adhesive, 20% mixed; DR HEDP group: 70% cohesive, 30% mixed; saline group: 60% adhesive, 20% cohesive, 20% mixed. CeraSeal — Triton group: 60% mixed, 40% cohesive; DR HEDP group: 60% cohesive, 40% mixed; saline group: 60% mixed, 40% adhesive.
+
+FTIR — Amide III:Phosphate ratio: pretreatment higher with DR HEDP (16.4±4.0) vs Triton (11.6±1.2, P=0.039) and saline (11.4±2.0, P=0.031); Triton vs saline NS (P=0.989). Posttreatment: saline (28.4±4.0) significantly higher vs DR HEDP (12.7±3.4, P<0.001) and Triton (8.6±0.6, P<0.001); DR HEDP vs Triton NS (P=0.131).
+
+FTIR — Carbonate:Phosphate ratio: pretreatment lower in Triton (25.6±2.7) vs DR HEDP (45.8±6.7, P<0.001) and saline (37.1±5.9, P=0.015); DR HEDP vs saline NS (P=0.062). Posttreatment higher in DR HEDP (39.6±3.4) vs Triton (28.1±3.5, P<0.001) and saline (32.7±2.8, P=0.016); Triton vs saline NS (P=0.109).
+
+Discussion
+
+Matching irrigation protocol to obturation strategy is important for sealer efficacy. DR HEDP group had better bond strength than Triton for both CeraSeal and AH Plus — consistent with prior literature on DR HEDP's beneficial effect on CaSi- and epoxy-resin-sealer adhesion. This aligns with the FTIR findings: DR HEDP significantly increased both amide III:phosphate and carbonate:phosphate ratios versus Triton, indicating minimal dentin damage. Prior research reports NaOCl/DR HEDP treatment yields partially degraded yet mineralized collagen fibers with minimal subsurface-matrix alteration — an ideal surface for hydraulic CaSi sealer (CeraSeal) micromechanical bonding, yielding higher bond strength. DR HEDP's mild chelating action reduces smear-layer content, exposing amino groups in dentinal collagen that form covalent bonds with AH Plus's epoxy group, improving its bond strength. Contrary to this study, one previous study reported DR HEDP had lower POBS with a different CaSi sealer (TotalFill BC sealer) — difference may be ascribed to CaSi sealer type, irrigation technique, irrigant volume, and obturation technique.
+
+Triton-treated samples showed poor POBS for both sealers, possibly due to: (1) citric acid — a stronger decalcifying agent than DR HEDP, demineralizing/dissolving dentin inorganic content more aggressively, worsening CeraSeal POBS; (2) higher NaOCl concentration (<10%) vs DR HEDP (3%), oxidizing/deproteinizing dentin collagen more, worsening AH Plus POBS. Saline (control) had the lowest POBS for both sealers — consistent with prior similar studies — attributable to its inability to dissolve organic/inorganic dentin components.
+
+FTIR exposure time was 30 minutes based on prior literature showing this minimum duration is needed to distinctly evaluate amide III:phosphate/carbonate:phosphate changes; POBS irrigation used a shorter clinically mimetic time — a study constraint, though FTIR still informs organic/inorganic content changes from decalcifying/deproteinizing agents.
+
+POBS plunger-to-specimen diameter ratio maintained 0.6–0.85 per standardization guidance. Fractographic analysis: DR HEDP produced maximum cohesive failures for both sealers vs Triton, reflecting beneficial bonding effects; saline (control) had maximum adhesive failures for both sealers, reflecting poor dentin-conditioning effect and compromised bond strength.
+
+Room temperature standardized at 23°C throughout (monitored via digital thermometer) since temperature affects FTIR molecular behavior/evaporation/instrument sensitivity.
+
+Limitations: ex vivo methodology — POBS may vary clinically due to differences in irrigation technique, dentin nature, canal anatomy, root filling technique, and canal moisture. Further clinical studies warranted on longevity of root-filled teeth obturated with AH Plus or CaSi sealers after Triton/DR HEDP irrigation.
+
+Conclusion
+
+DR HEDP exhibited the highest dislodgement resistance of both AH Plus and CeraSeal sealers to root dentin versus Triton and saline. Saline demonstrated the lowest dislodgement resistance for both sealers. Posttreatment organic and inorganic dentin content was significantly increased with DR HEDP. Root conditioning with DR HEDP prior to sealer placement was beneficial for the adhesion of both AH Plus and CeraSeal sealers.

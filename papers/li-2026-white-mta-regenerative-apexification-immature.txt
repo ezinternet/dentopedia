@@ -1,0 +1,74 @@
+Title: Efficacy of White Mineral Trioxide Aggregate in Regenerative Endodontic Procedures and Apexification for Immature Permanent Teeth: A Systematic Review and Meta-Analysis
+Authors: Zizhan Li, Yue Xu, Songlin An, Hui Liu, Li Liu, Yingzi Pan, Taiyi Sun, Shiyun Kang, Rui Liu, Lin Zhang
+Journal: International Dental Journal
+DOI: 10.1016/j.identj.2026.109611
+PMID: 42160814
+PMCID: PMC13217591
+Publication date: 2026-05-20
+
+Abstract:
+This study systematically reviews the efficacy of bioceramic-based treatments for non-vital immature permanent teeth in children. A systematic search retrieved 229 records, ultimately including 15 studies, focused on White Mineral Trioxide Aggregate (WMTA) or other bioceramics used in apexification or Regenerative Endodontic Procedures (REP). A meta-analysis was conducted on WMTA's radiographic success and the comparative efficacy of platelet concentrates (PC) versus blood clot (BC) scaffolds. Data regarding clinical success, pulp sensibility, root development, and discolouration, were extracted. Risk of Bias (RoB) was evaluated using the RoB2 tool for RCTs. Evidence certainty was assessed using the GRADE (Grading of Recommendations, Assessment, Development and Evaluation) approach. The meta-analysis of radiographic success included 6 studies, revealing a pooled proportion of 0.99 (95% CI: 0.96-1.00), though GRADE rated evidence certainty as very low due to serious risk of bias and imprecision. Comparative analysis of PC versus BC scaffolds (4 studies, 145 observations) showed a non-significant trend favouring PC (OR = 3.56, 95% CI: 0.87-14.52), but very low certainty due to indirectness and sparse data. Comparison of WMTA versus alternative bioceramics revealed 100% clinical success, though non-significant (OR = 0.18, 95% CI: 0.02-1.68), with moderate certainty downgraded only for imprecision. All analyses demonstrated no heterogeneity (I² = 0.0%). PC favoured root lengthening compared to BC scaffolds that promoted dentinal wall thickening, alternative bioceramics exhibited a significantly lower discolouration risk than WMTA (7.69% vs 58.33%, P = .01), and pulp sensibility restoration was achieved in 60% to 86% of cases across regenerative treatments. Bioceramic-based treatments achieve high success for non-vital immature permanent teeth in children, though evidence certainty ranges from very low to moderate. While therapeutic efficacy is comparable, alternative bioceramics reduce discolouration risk compared to WMTA, and scaffold selection influences root maturation patterns.
+
+Full Text:
+
+Introduction
+
+Regenerative endodontics has made remarkable progress in the management of immature permanent teeth with necrotic pulps, particularly in paediatric patients, where preserving tooth vitality and promoting root maturation are critical for long-term oral health. Emerging bioactive materials, including platelet concentrates (PC) and alternative bioceramics, have demonstrated promise in pulp regeneration. Recent studies highlight their efficacy in achieving periapical healing and sustained root development. For instance, Bartaw et al. conducted a randomised clinical trial (RCT) in children aged 8 to 14 years with necrotic immature maxillary incisors, reporting that Totalfill bioceramic putty achieved clinical success rates comparable to White Mineral Trioxide Aggregate (WMTA), with the notable reduction in discolouration risk. Similarly, Aly et al. found Biodentine and WMTA were equally effective as direct pulp capping agents in promoting healing and root development in young permanent molars. These studies underscore the potential of regenerative protocols to achieve periapical healing and sustained root growth, as further illustrated in case series such as that by Ulusoy et al., which evaluated the use of platelet-rich fibrin (PRF), plasma, and injectable variants for soft tissue and osseous regeneration.
+
+Despite the advancements, earlier literature has predominantly focused on broad comparisons of scaffolds or general outcomes in regenerative endodontics, often neglecting the specific role of WMTA as a coronal barrier in paediatric pulp regeneration treatments. While case reports, such as Sachdeva et al. provide preliminary evidence of success using platelet rich plasma (PRP) with WMTA in immature necrotic teeth, these findings remain largely anecdotal and lack a comprehensive quantitative synthesis. Furthermore, systematic works like Kahler et al., fail to differentiate the influence of WMTA from other procedural variables when measuring success against American Association of Endodontists (AAE) standards. Consequently, the isolated effect of WMTA on paediatric regenerative outcomes remains insufficiently explored.
+
+While Abdellatif et al. partially addressed the existing gap by synthesising data from 30 studies, their findings specifically examined WMTA and other bioactive materials in pulp regeneration for permanent teeth in paediatric subjects. Their meta-analysis reported an overall success rate of 91.20%, demonstrating WMTA's strong association with high success rates under AAE standards and its role in promoting root development in immature teeth. Nevertheless, while their analysis confirmed the material's general efficacy, there remains a critical need for a detailed evaluation of WMTA's performance specifically as a coronal barrier, a critical application with known risks related to tooth discolouration.
+
+The present systematic review and meta-analysis specifically aimed to quantify the risk-benefit profile of WMTA when utilised exclusively as a coronal barrier in regenerative endodontics. This study aims to advance beyond the previously reported overall success rates by separately isolating the impact of WMTA as a coronal barrier on both clinical and radiographic success rates and the incidence of postoperative tooth discolouration, thereby providing refined, evidence-based guidelines for material selection in paediatric regenerative protocols.
+
+Methods
+
+This systematic review and meta-analysis adhered to the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines and the Cochrane Handbook for Systematic Reviews of Interventions. The protocol for this systematic review has been registered in the PROSPERO database (Registration number: CRD420261337704).
+
+Search strategy: A comprehensive literature search was conducted from database inception to September 1, 2025, without language restrictions. The primary search was performed in PubMed/MEDLINE, with additional searches in Embase, Scopus, Web of Science, and Cochrane Library.
+
+Selection criteria: Inclusion criteria were designed to identify studies evaluating WMTA in pulp regeneration for immature or necrotic permanent teeth. Priority was given to registered clinical trials, RCTs, and prospective cohort studies. Non-RCTs and case reports/series were also considered given the limited availability of RCTs. Studies were included if they assessed WMTA as an apical plug in apexification or coronal barrier in REP with scaffolds (e.g., PRP, PRF, PP (platelet-poor plasma), and BC).
+
+Risk of bias assessment: RCTs were evaluated with the Cochrane RoB2 tool. Non-RCTs were assessed using ROBINS-I. Case reports/series followed case report guidelines.
+
+Statistical analyses: Random-effects model was pre-specified for pooling proportions and odds ratios (ORs) with 95% CI. Freeman-Tukey double arcsine transformation and generalised linear mixed models were applied for proportions near boundary values. Subgroup analyses were stratified by scaffold type (PRP + WMTA, PRF + WMTA, PP + WMTA, apexification + WMTA). Heterogeneity was evaluated using τ², I² with 95% CI, and Cochran's Q test. Certainty of evidence was evaluated using GRADE.
+
+Results
+
+The initial literature search identified 229 records (183 from primary databases, 46 from secondary sources). After removing 32 duplicates, 197 unique records remained for screening. Title/abstract review excluded 164 records, resulting in 33 full-text articles assessed for eligibility. During full-text evaluation, 18 articles were excluded (13 unsuitable study designs, 5 reviews/meta-analyses). Ultimately, 15 studies met inclusion criteria: 4 RCTs, 2 cohort studies, 9 case reports/series, predominantly from India, Egypt, and Turkey.
+
+Risk of bias: RoB analysis indicated generally low to moderate concerns across included RCTs (Aly et al. lowest overall concern). Non-RCTs consistently demonstrated serious overall RoB due to intrinsic limitations of non-randomised designs.
+
+Comparative clinical success: Clinical success (absence of signs/symptoms/soft tissue pathology) was notably high. Annamalai et al. reported 100.00% clinical success at 12 months. Aly et al.: 100.00% for Biodentine vs 91.66% for MTA (not significant). Bartaw et al.: 100.00% for Totalfill bioceramic putty vs 85.70% for WMTA (not significant). Ulusoy et al. (PRP/PRF/PP vs BC): comparable success rates, only 2 failures among 88 teeth. Nageh et al.: all 15 cases clinically successful.
+
+Radiographic success rate: Meta-analysis of 6 studies, 112 observations, 110 events. Pooled radiographic success proportion 0.99 (95% CI: 0.96-1.00) via Freeman-Tukey transformation, 0.96 (95% CI: 0.90-0.99) via generalised linear mixed model. No heterogeneity (τ²<0.0001, I²=0.00%, Q=0.01, P=1.00). Subgroup: PRP+MTA proportion 0.98 (95% CI: 0.87-1.00); PRF+MTA 0.98 (95% CI: 0.88-1.00). No significant subgroup difference (Q=0.00, P=1.00).
+
+PC versus BC scaffold on radiographic success: 4 comparative studies, 145 observations. Pooled OR 3.56 (95% CI: 0.87-14.52) favouring PC trend, not statistically significant (CI crosses null). No heterogeneity (I²=0.00%, P=.52). Subgroup: PRP+MTA significant (OR=7.49; 95% CI: 1.16-48.22); PRF+MTA and PP+MTA subgroups not significant. Subgroup difference test not significant (P=.43).
+
+WMTA versus alternative bioceramics (clinical success): 2 studies, 67 observations, 63 events. Alternative bioceramics 100.00% clinical success (numerically higher than WMTA), not statistically significant, OR=0.18 (95% CI: 0.02-1.68). No heterogeneity (I²=0.00%, χ²=0.13, P=.71).
+
+Pulp sensibility regained: Nageh et al. (PRF scaffold, mature teeth): EPT sensitivity increased to 60.00% (9/15) at 12 months (P<.0001). Alagl et al.: 76.70% (23/30) delayed positive response to cold/EPT at 5 months. Ulusoy et al.: overall 86.00% positive response across PRP/PRF/PP/BC groups, no significant group differences (P>.05).
+
+Root development (length and width): Annamalai et al. (MTA apexification): 30.00% root growth rate. Alagl et al.: 73.00% of teeth showed continued root development; PRP group significantly greater root length increase vs BC (P=.004). Aly et al.: no significant difference in root length increase between Biodentine and MTA (both ~0.70 mm, P=.897). Ulusoy et al.: no significant differences in root length/width among PRP/PRF/PP/BC groups (P>.05), but BC group showed significantly greater increases in radiographic root area and canal area than most platelet concentrate groups (P<.05), suggesting better dentinal wall thickening with BC.
+
+Tooth discolouration: Aly et al.: 58.33% MTA vs 7.69% Biodentine (P=.01), statistically significant. Bartaw et al.: 14.30% WMTA vs 0.00% Totalfill bioceramic putty (not statistically significant).
+
+Publication bias: Funnel plots for all meta-analyses showed symmetrical distribution.
+
+Certainty of evidence (GRADE): Radiographic success - very low (downgraded for serious risk of bias, non-randomised studies, and serious imprecision). PC vs BC scaffolds - very low (downgraded for serious indirectness reflecting heterogeneous PC preparation protocols, and very serious imprecision). WMTA vs alternative bioceramics clinical success - moderate (downgraded only for imprecision from small trial number/limited events).
+
+Discussion
+
+This SR/MA integrated data from prospective clinical trials, RCTs, and case series evaluating WMTA and alternative bioceramics in REP and apexification for necrotic immature permanent teeth. WMTA-based treatments achieved pooled success proportion ~98.00%. Nuanced distinctions were observed for scaffold types (PC vs BC) and material compositions (WMTA vs Biodentine/Totalfill), particularly regarding root maturation, pulp sensibility restoration, and tooth discolouration.
+
+Low heterogeneity across analyses was attributed to: (1) methodological consistency (standardised disinfection protocols, WMTA coronal sealing); (2) consistent follow-up durations and outcome definitions; (3) homogeneous patient populations (8-18 years, immature permanent teeth) with wider apical foramina and higher SCAP proliferative/differentiation capacity; (4) a "ceiling effect" from high baseline success rates limiting power to detect heterogeneity.
+
+Clinical cohort studies/RCTs (n=6) provided more consistent, quantifiable evidence than case reports (n=9): both showed high success (95.00%-100.00% vs 90.00%-100.00%) but case reports had greater variability and lower rigour due to selection bias susceptibility.
+
+A significant drawback of WMTA is tooth discolouration risk, potentially from metal oxides (bismuth, aluminium, magnesium, iron) or contamination from blood/bioactive materials. Clinical studies indicated significantly higher discolouration risk for WMTA vs alternative bioceramics.
+
+Limitations: (1) limited number/modest sample sizes of studies restricting statistical power and generalisability; (2) prevalence of short-to-medium-term follow-ups (12-36 months) may miss long-term complications (late periapical pathology, resorption); (3) possible publication bias toward positive outcomes; (4) overall low certainty of evidence for most outcomes per GRADE.
+
+Conclusion
+
+Bioceramic-based treatments achieve high clinical and radiographic success for non-vital immature permanent teeth in children. However, low certainty of evidence warrants cautious interpretation. Material choice influences discolouration risk (alternative bioceramics lower than WMTA), and scaffold selection may affect root maturation patterns (PC favoured root lengthening; BC favoured dentinal wall/canal area thickening). Future high-quality RCTs with standardised protocols are needed.

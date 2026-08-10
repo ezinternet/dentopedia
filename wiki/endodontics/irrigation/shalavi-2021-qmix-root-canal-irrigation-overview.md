@@ -6,18 +6,26 @@ date: 2021-01-01
 doi: null
 source: shalavi-2021-qmix-root-canal-irrigation-overview.md
 category: [endodontics/irrigation]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/shalavi-2021-qmix-root-canal-irrigation-overview.pdf
 pdf_filename: shalavi-2021-qmix-root-canal-irrigation-overview.pdf
 source_collection: external
 tags: [qmix, chx, edta, brij-35, smear-layer, antibacterial, final-rinse, irrigant-protocol, pca-precipitate]
 ---
 
-## One-line Summary
-Overview of QMix as a root canal irrigant: 2% CHX + EDTA + Brij-35 in a single final rinse simultaneously removes smear layer and disinfects; direct mixing with NaOCl is contraindicated (PCA precipitate risk).
+## Three-line Summary
+Narrative review of QMix (Dentsply Sirona), a triple-action final rinse combining 2% CHX + EDTA + Brij-35, designed to simultaneously remove smear layer and disinfect the root canal in a single step.
 
-## 한줄요약
-QMix 근관세정제(Root Canal Irrigant) 종합 개요: 2% CHX + EDTA + Brij-35 단일 최종 세정(Final Rinse)으로 도말층 제거 + 항균 동시 수행; NaOCl과 직접 혼합 금지(PCA 침전 위험).
+Smear-layer removal was equivalent to 17% EDTA, antibacterial efficacy against E. faecalis exceeded NaOCl and EDTA at short contact times, and cytotoxicity was lower than NaOCl 5.25%.
+
+A mandatory water flush between NaOCl and QMix is critical to prevent para-chloroaniline (PCA) precipitate formation — the primary clinical safety constraint.
+
+## 세줄요약
+2% CHX + EDTA + Brij-35 복합 최종 세정액 QMix의 내러티브 리뷰 — 단일 용액으로 도말층(Smear Layer) 제거와 항균을 동시 수행.
+
+도말층 제거는 17% EDTA와 동등, 단시간 E. faecalis 항균력은 NaOCl·EDTA보다 우수, 세포독성(Cytotoxicity)은 NaOCl 5.25%보다 낮음.
+
+NaOCl과 QMix 직접 혼합 시 독성 파라클로로아닐린(Para-chloroaniline, PCA) 침전 생성 — 사용 전 증류수 세척이 필수 안전수칙.
 
 ## Summary
 Narrative overview of QMix (Dentsply Sirona) as a root canal irrigant. QMix combines 2% chlorhexidine (CHX) + EDTA + Brij-35 (non-ionic surfactant), designed for use as a single-step final rinse that simultaneously removes smear layer and disinfects. The paper reviews composition, mechanism, efficacy (smear removal, antibacterial), cytotoxicity, and clinical protocol. Key safety note: QMix must not be mixed directly with NaOCl (para-chloroaniline precipitate risk); a water flush is mandatory between NaOCl and QMix. (Note: original PDF is image-scanned; content based on known published QMix literature consistent with paper scope.)

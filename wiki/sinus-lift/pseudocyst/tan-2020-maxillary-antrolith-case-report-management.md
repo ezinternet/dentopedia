@@ -8,7 +8,7 @@ pmid: "32836207"
 pmcid: "PMC7452633"
 source: tan-2020-maxillary-antrolith-case-report-management.md
 category: [sinus-lift/pseudocyst]
-confidence: case-report
+evidence_level: case-report
 source_collection: pubmed-text
 tags: [antrolith, sinus-stone, CBCT, Caldwell-Luc, sinus-pathology, DDx]
 relations:
@@ -18,13 +18,21 @@ text_path: /Users/oracleneo/llm-wiki/papers/tan-2020-maxillary-antrolith-case-re
 text_filename: tan-2020-maxillary-antrolith-case-report-management.txt
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Case report of a 3.1×3.6mm asymptomatic maxillary antrolith (CBCT incidental finding, 67-year-old) managed with Caldwell-Luc excision; literature review confirms surveillance is appropriate for small/asymptomatic antroliths, surgical removal for complicated cases.
+Case report + literature review (Singapore, n=1, 67-year-old) of a 3.1×3.6 mm asymptomatic maxillary antrolith discovered incidentally on pre-implant CBCT, confirmed histologically as metaplastic bone and calcification after Caldwell-Luc excision.
 
-## 한줄요약
+The literature review defines a management algorithm: surveillance for small/asymptomatic antroliths; surgical removal (ESS ± Caldwell-Luc) for symptomatic or complicated cases; no recurrences documented in the literature.
 
-67세 여성 CBCT 우연 발견 3.1×3.6mm 무증상 상악동석 증례 — 소형 무증상 상악동석은 경과관찰, 합병증 동반 시 수술 제거(Caldwell-Luc/ESS).
+Antroliths arise from mineral deposition around an endogenous (bone fragments, mucus) or exogenous (GP points, burs) nidus; CBCT-based differential diagnosis on pre-implant imaging must include antrolith, ossifying fibroma, and fungal ball.
+
+## 세줄요약
+
+증례보고+문헌고찰(싱가포르, n=1, 67세 여성): 임플란트 전 CBCT에서 우연 발견된 3.1×3.6 mm 무증상 상악동석(Antrolith)을 Caldwell-Luc으로 제거, 조직검사로 화생성 골 및 석회화 확인.
+
+관리 알고리즘: 소형·무증상 상악동석은 경과관찰; 증상(통증·부비동염·누공)이 있거나 접근 어려운 대형은 내시경 부비동 수술(ESS) ± Caldwell-Luc 수술 제거; 문헌상 재발 없음.
+
+상악동석은 내인성(골편·점액·균류) 또는 외인성(거타퍼차 포인트·버·이물질) 핵 주변 무기염 침착으로 형성; 임플란트 전 CBCT에서 방사선불투과성 상악동 병변은 골화섬유종·아스페르길루스종과 감별진단 필요.
 
 ## Summary
 

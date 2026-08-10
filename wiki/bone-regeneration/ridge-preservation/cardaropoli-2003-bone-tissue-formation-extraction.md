@@ -6,18 +6,28 @@ date: 2003-09-03
 doi: 10.1034/j.1600-051X.2003.00366.x
 source: cardaropoli-2003-bone-tissue-formation-extraction.md
 category: [bone-regeneration/ridge-preservation]
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/cardaropoli-2003-bone-tissue-formation-extraction.pdf
 pdf_filename: cardaropoli-2003-bone-tissue-formation-extraction.pdf
 source_collection: external
 tags: [socket-healing, histology, dog-model, extraction-socket, ridge-preservation, landmark]
 ---
 
-## One-line Summary
-Animal study (n=9 mongrel dogs): histomorphometric analysis at 9 time points establishes the extraction socket healing sequence — blood clot (days 1–3) → provisional connective tissue (day 7) → woven bone (day 14) → mineralized bone peak 88% (day 30) → bone marrow 85% (day 180) — the landmark timeline reference for GBR and ARP literature.
+## Three-line Summary
 
-## 한줄요약
-동물실험 (Animal study, n=9 mongrel dogs): 발치와 (Extraction Socket) 치유 9개 시점 조직형태계측 — 혈병 (Day 1–3) → 잠정 결합조직 (Provisional Connective Tissue, PCT, Day 7) → 신생골 (Woven Bone, Day 14) → 광화골 정점 88% (Day 30) → 골수 (Bone Marrow, BM) 85% (Day 180) 의 치유 시퀀스를 확립. 골유도재생술 (Guided Bone Regeneration, GBR) 및 치조제 보존술 (Alveolar Ridge Preservation, ARP) 문헌의 기준이 되는 랜드마크 논문.
+Animal landmark study (n=9 mongrel dogs, 9 serial sacrifice time-points over 180 days) using histomorphometry to define the complete extraction socket healing sequence in three spatial compartments (marginal/central/apical).
+
+Healing progresses: blood clot (days 1–3) → provisional connective tissue (day 7) → woven bone emergence (day 14) → mineralized bone peak 88% (day 30) → bone marrow replacement 85% (day 180), with the buccal entry bridged by a hard-tissue cortical cap.
+
+This timeline is the foundational baseline reference for all GBR and ARP literature — day 30 mineralization peak informs implant placement timing, and day 30→180 marrow conversion explains why untreated sockets yield poor bone density for implants.
+
+## 세줄요약
+
+동물 랜드마크 논문 (Animal Landmark Study, n=9 잡종견, 180일간 9개 시점 희생): 조직형태계측으로 발치와 (Extraction Socket) 치유 시퀀스를 공간 3구획 (변연부·중심부·근첨부)에서 정량 분석.
+
+혈병 (Blood Clot, 1–3일) → 잠정 결합조직 (Provisional Connective Tissue, PCT, 7일) → 신생골 (Woven Bone, 14일) → 광화골 (Mineralized Bone) 정점 88% (30일) → 골수 (Bone Marrow, BM) 85% (180일); 협측 발치와 입구에 경조직 다리 (Hard Tissue Bridge) 형성.
+
+골유도재생술 (Guided Bone Regeneration, GBR) 및 치조제 보존술 (Alveolar Ridge Preservation, ARP) 모든 문헌의 기준 시퀀스 — 30일 광화 정점이 임플란트 식립 시기 결정에, 30→180일 골수 전환이 미치료 발치와의 낮은 골밀도를 설명.
 
 ## Summary
 Cardaropoli, Araújo & Lindhe (2003) 는 9마리 잡종견의 하악 제4소구치 원심 치근 발치 모델을 이용해 1, 3, 7, 14, 30, 60, 90, 120, 180일의 9개 시점에서 조직 절편을 채취하고 marginal/central/apical 세 구획별로 조직 구성비를 정량 측정했다. 이 연구는 발치와의 자연 치유가 4단계 (혈병 → PCT → 신생골 → 층판골/골수 리모델링) 시간 시퀀스로 진행되며, 광화 정점이 ~Day 30이고 그 후 다시 골수로 치환되는 동적 과정임을 보여주는 분야의 표준 reference 다.

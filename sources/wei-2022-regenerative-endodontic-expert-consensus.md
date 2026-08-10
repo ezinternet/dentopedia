@@ -3,14 +3,27 @@ title: "Expert consensus on regenerative endodontic procedures"
 authors: Xi Wei, Maobin Yang, Lin Yue, Dingming Huang, Xuedong Zhou, et al.
 year: 2022
 doi: 10.1038/s41368-022-00206-z
-category: ['endodontics']
+category: ['endodontics/regenerative']
 pdf_path: /Users/oracleneo/llm-wiki/papers/wei-2022-regenerative-endodontic-expert-consensus.pdf
 pdf_filename: wei-2022-regenerative-endodontic-expert-consensus.pdf
 source_collection: external
 ---
 
-## One-line Summary
-중국 근관치료 전문가 패널의 재생 근관치료(REP) 임상 프로토콜 합의 권고문.
+## Three-line Summary
+
+중국 근관치료 전문가
+
+패널의 재생 근관치료(REP)
+
+임상 프로토콜 합의 권고문.
+
+## 세줄요약
+
+중국 근관치료 전문가
+
+패널의 재생 근관치료(REP)
+
+임상 프로토콜 합의 권고문.
 
 ## 1. Document Information
 - **Title**: Expert consensus on regenerative endodontic procedures
@@ -36,7 +49,7 @@ REP 성공률(치근단 치유): 85–90%. 생활력 회복: 30–60%. 치근 �
 합의 기반; RCT 수 제한.
 
 ## 6. Related Work
-- [[endodontics/aae-2021-regenerative-endodontic-clinical-considerations]] — related
+- [[endodontics/regenerative/aae-2021-regenerative-endodontic-clinical-considerations]] — related
 - [[endodontics/sellami-2023-regenerative-endodontic-microbiology-outcome]] — related
 
 ## 7. Glossary

@@ -9,8 +9,21 @@ pdf_filename: darrigo-2024-common-mistakes-biostatistics.pdf
 source_collection: external
 ---
 
-## One-line Summary
-CKJ Review (Clin Kidney J 2024;17:sfae197) enumerating 10 frequent biostatistical errors clinicians and authors make — wrong metric, p-value misreading, CI misreading, HR-as-prognostic-accuracy fallacy, ignored sample size calculation, subgroup analysis abuse, correlation-causation confusion, confounder-mediator confusion, poor variable coding, future-exposure bias.
+## Three-line Summary
+
+Narrative review (Clinical Kidney Journal 2024) enumerating 10 frequent biostatistical errors encountered in clinical research: using the wrong descriptive metric, misinterpreting p-values and 95% CIs, treating hazard ratio as a prognostic-accuracy index, ignoring sample-size calculation, abusing subgroup analyses, confusing correlation with causation, confusing confounders with mediators, poor variable coding, and immortal-time bias.
+
+No empirical data; each pitfall is paired with a concrete example and a mitigation rule, providing a practical reference for readers and manuscript reviewers.
+
+The article is nephrology-flavored but the errors described are universal across clinical research, including dental randomized trials and observational studies; over-adjustment bias (controlling for mediators) and immortal-time bias are the two most commonly overlooked issues.
+
+## 세줄요약
+
+서술적 리뷰(Clinical Kidney Journal 2024) — 임상 연구에서 빈번하게 발생하는 10가지 생물통계 오류를 열거: 잘못된 기술 지표·p값·95% CI 오독·위험비(HR)의 예후 정확도 지표 오용·표본 크기 계산 무시·하위군 분석 남용·상관-인과 혼동·교란변수-매개변수 혼동·변수 코딩 오류·미래 노출 기준 편향(Immortal Time Bias).
+
+실증 데이터 없이 각 오류마다 구체적 예시와 해결 원칙을 제시, 원고 작성·심사 시 실무 참고 자료로 활용 가능.
+
+신장학 중심 예시이지만 기술된 오류는 치과 RCT·관찰연구 포함 임상 연구 전반에 적용되며, 과잉조정 편향(Over-adjustment Bias)과 불멸시간 편향이 가장 간과되기 쉬운 항목.
 
 ## 1. Document Information
 - Journal: Clinical Kidney Journal 2024; 17(7), sfae197

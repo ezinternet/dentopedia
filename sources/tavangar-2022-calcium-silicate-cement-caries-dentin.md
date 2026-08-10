@@ -9,8 +9,21 @@ pdf_filename: tavangar-2022-calcium-silicate-cement-caries-dentin.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Clin Exp Dent Res 2022;8:1630: calcium silicate-based self-adhesive cement (Biodentine-based) vs conventional self-adhesive cement to caries-affected dentin — CaSi lower initial SBS but superior remineralization at 6 months; conventional: higher immediate SBS but no remineralization.
+## Three-line Summary
+
+Clin Exp Dent Res 2022;8:1630
+
+calcium silicate-based self-adhesive cement (Biodentine-based) vs conventional self-adhesive cement to caries-affected dentin — CaSi lower initial SBS but superior remineralization at 6 months; conventional
+
+higher immediate SBS but no remineralization.
+
+## 세줄요약
+
+Clin Exp Dent Res 2022;8:1630
+
+calcium silicate-based self-adhesive cement (Biodentine-based) vs conventional self-adhesive cement to caries-affected dentin — CaSi lower initial SBS but superior remineralization at 6 months; conventional
+
+higher immediate SBS but no remineralization.
 
 ## 1. Key Results
 - Caries-affected dentin (CAD) vs normal dentin substrate

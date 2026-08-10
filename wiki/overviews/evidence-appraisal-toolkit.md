@@ -6,7 +6,7 @@ date: 2026-05-22
 doi: null
 source: synthesis
 category: overviews
-confidence: synthesis
+evidence_level: synthesis
 tags: [evidence-appraisal, ebm, ebd, biostatistics, sr-ma-methodology, critical-appraisal, overview]
 ---
 
@@ -24,13 +24,23 @@ tags: [evidence-appraisal, ebm, ebd, biostatistics, sr-ma-methodology, critical-
 > - 임상 체크리스트: confidence tag → I² → PRISMA/a priori protocol → 효과측정치가 맥락에 맞나 → CI를 점추정치와 함께 → subgroup이 pre-specified인가 → adjusted model에 매개변수가 들어가 있지 않은가 순.
 > - 카테고리 신설 근거: 9편 모두 EBM·biostatistics 방법론 paper로 기존 23 카테고리(method/procedure 기반)에 안 맞아, 비판적 평가 자체를 method로 보고 evidence-appraisal 신설.
 > - Caveat: 외부 9편 중 7편이 narrative-review/tutorial이라 individual confidence는 낮으나 다루는 원리는 Cochrane Handbook·BMJ Best Practice 표준에 합치 — 실전 사례로 Insadol 한국 임상시험 통계 타당성 비판(Choi 2015)이 "표준 처방 ≠ 근거 충분"을 시연한다.
+> - **(2026-07-12 추가) Study-type별 읽기 순서**: 기존 5축은 개념 축이었으나, 실전에선 "논문을 열자마자 어디부터 보는가"가 study-type(RCT/관찰연구/SR+MA)마다 다르다 — RCT는 무작위배정·배정은닉·ITT·CONSORT, 관찰연구는 교란보정·군집처리·immortal time bias, SR+MA는 forest plot을 abstract보다 먼저 본다. 상세는 본문 새 절 참조.
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis toolkit integrating 10 papers into five axes — SR/MA methodology, effect measures, statistical-test selection, common errors, and an abbreviation quick-reference — for the clinical dentist critically reading SR+MA, RCT, and observational studies. Core thesis: most of the wiki's 800+ clinical papers are SR+MA/RCT/retrospective cohorts, so this page is the operational backbone of the living-document principle of not citing conclusions uncritically. Clinical takeaway: check heterogeneity (I²), PRISMA/a-priori protocol, whether the effect measure fits the design, and pre-specified subgroups; translate OR/HR into ARR/NNT for patient counseling; and watch the recurring errors (treating p>0.05 as "no effect", subgroup hunting, correlation≠causation, immortal-time bias).
+Synthesis toolkit integrating 10 papers into five axes — SR/MA methodology, effect measures, statistical-test selection, common errors, and an abbreviation quick-reference — for the clinical dentist critically reading SR+MA, RCT, and observational studies.
 
-## 한줄요약
-임상 치과의사가 SR+MA·RCT·observational 연구를 비판적으로 읽기 위해 알아야 할 통계·방법론을 10편 (한국어 2편·영어 6편·익명 worksheet 1편·내부 synthesis cheatsheet 1편)에서 5축 (SR/MA 방법론·효과측정치·검정 선택·흔한 오류·약자 빠른 참조)으로 통합한 toolkit.
+Core thesis: most of the wiki's 800+ clinical papers are SR+MA/RCT/retrospective cohorts; the operational check is I² heterogeneity, PRISMA/a-priori protocol, whether the effect measure fits the design, and pre-specified subgroups; translate OR/HR into ARR/NNT for patient counseling.
+
+Seven recurring errors include treating p>0.05 as "no effect," subgroup hunting, correlation≠causation, over-adjustment bias, early dichotomization of continuous variables, and immortal-time bias in retrospective loading-timing studies.
+
+## 세줄요약
+
+임상 치과의사가 SR+MA·RCT·관찰연구를 비판적으로 읽기 위한 5축(SR/MA 방법론·효과측정치·검정 선택·흔한 오류·약자 빠른참조) 도구상자 — 10편(한국어 2·영어 6·worksheet 1·내부 synthesis 1) 통합.
+
+핵심 점검 순서: I² > 75%면 pooled effect 신뢰 보류; PRISMA·a priori protocol 확인; 효과측정치가 디자인에 맞는지; 사전지정 subgroup 여부; OR/HR → ARR/NNT로 환자 상담.
+
+빈출 오류 7가지(p>0.05 = 효과없음 오해, subgroup hunting, 상관≠인과, over-adjustment, 연속변수 조기 이분화, immortal-time bias 등)가 임플란트·근관 retrospective 자료에서 반복 출현한다.
 
 ## 왜 이 overview인가
 llm-wiki의 800+ 임상 paper 대부분이 SR+MA / RCT / retrospective cohort. 이 페이지들의 결론을 비판 없이 인용하면 안 된다는 게 우리의 wiki-living-document 원칙(memory file). 이 overview는 그 비판의 도구상자다.
@@ -102,6 +112,20 @@ llm-wiki의 800+ 임상 paper 대부분이 SR+MA / RCT / retrospective cohort. �
 6. **변수 조기 dichotomization** — ISQ 70 cutoff처럼 연속 변수를 binary로 자르면 information 손실.
 7. **Immortal time bias** — "조기 부하군 vs 지연 부하군" retrospective 비교에서 조기 부하 전에 실패한 환자가 잘못 분류됨.
 
+## Study-type별 읽기 순서 — 급소 우선순위 (2026-07-12 추가)
+
+축 1~5는 *어떤 개념을 알아야 하는가*를 다루지만, 실전에서는 논문을 열자마자 "이 study-type이면 Methods 어디부터 봐야 하나"가 먼저 필요하다. 아래는 study-type 3종(RCT·관찰연구·SR+MA)별 "먼저 볼 곳"과 "핵심 함정"을 이 toolkit의 기존 축 위에 재배열한 표다.
+
+| Study type | 먼저 볼 곳 (Methods) | 핵심 함정 | wiki 근거 |
+|---|---|---|---|
+| RCT | randomization 방법·allocation concealment·blinding·ITT 분석 여부 | CONSORT 미준수 논문의 과장된 효과크기; 선언된 추적기간 vs 실제 연구기간 불일치 | [[evidence-appraisal/kiriakou-2014-evidence-based-dentistry-skills-interpret]] (RCT 체크리스트: 무작위배정·배정은닉·맹검·ITT·추적완전성); [[evidence-appraisal/al-abedalla-2022-unusual-findings-trials-evaluating-adjuncts]] (CONSORT 감사 + timeline-consistency test: 실제기간 X vs 선언된 추적기간 Y, X=Y면 비현실적); [[evidence-appraisal/choi-2015-statistical-validity-insadol-clinical-effectiveness]] (실패 사례: 무작위배정 실패 1/4, 부적절 통계검정 3/4) |
+| 관찰연구 (Cohort/Case-control) | 교란변수 보정 목록·군집(clustering) 처리 여부·(cohort) 추적탈락률 | Immortal time bias; confounder-mediator 혼동(over/under-adjustment); 연속변수 조기 이분화; events-per-variable 부족 시 방법이 좋아도 CI가 두 자릿수로 넓어짐 | [[evidence-appraisal/darrigo-2024-common-mistakes-biostatistics]] (immortal time bias, confounder vs mediator, 조기 dichotomization); [[evidence-appraisal/isq-survival-andersson-vs-roccuzzo-clustering-appraisal]] (군집 무시·비보정 OR vs 다수준 로지스틱 대조 — 잘한 예도 사건수 부족하면 CI 무의미해지는 실증 사례) |
+| SR+MA | forest plot을 먼저, abstract 결론은 나중에 | I²>75%에서 pooling 강행; funnel plot 비대칭 방치(출판편향); subgroup이 사전등록 아닌 사후 hunting | 축 1(SR/MA 방법론) 전체 + 축 5; 세부 7단계 체크리스트는 바로 아래 절 참조 |
+
+**공통 읽기 습관** [미검증]: Abstract의 결론을 먼저 믿지 말고 → Methods에서 위 표의 급소부터 확인 → Figure(forest plot / Kaplan-Meier 곡선)를 직접 본 뒤 → 마지막에 Discussion을 읽는다. Kiriakou 2014의 5단계 EBD 워크플로우(질문 → 근거 합성 → 타당도·적용성 평가 → 적용 → 감사)와 같은 원칙을 study-type별 급소 표로 구체화한 것.
+
+**평가도구 관련 caveat**: RoB 2(RCT)·ROBINS-I(관찰연구)·AMSTAR-2(SR+MA)는 wiki의 다른 다수 SR 페이지(예: `orthodontics/clear-aligner/`, `digital-workflow/`)에서 이미 광범위하게 인용되지만, 이 toolkit 자체의 소스 9편 중에는 이 도구들을 본격 설명하는 논문이 없다 — 기존 Caveats 절의 "PRISMA 2020·GRADE·AMSTAR 2·RoB 2·ROBINS-I는 항목으로만 등장" 한계가 이 절에도 동일하게 적용된다.
+
 ## 임상 적용 — wiki 다른 페이지를 읽을 때 체크리스트
 
 이 wiki에서 SR+MA 페이지를 열면 다음 순서로 점검:
@@ -135,11 +159,11 @@ llm-wiki의 800+ 임상 paper 대부분이 SR+MA / RCT / retrospective cohort. �
 | [[evidence-appraisal/choi-2015-statistical-validity-insadol-clinical-effectiveness]] | critical methodological appraisal | **Insadol(옥수수 불검화 정량추출물 = titrated unsaponifiable Zea mays L. fraction)** 한국 임상시험 5편(4편 분석가능) 통계 타당성 비판 — 한국 의료계의 표준 사용 vs 통계적 근거 부족 |
 | [[evidence-appraisal/isq-survival-andersson-vs-roccuzzo-clustering-appraisal]] | paired 못한-예/잘한-예 통계 렌즈 | 같은 임플란트-생존 설계 결함을 대조: andersson 2019(745 임플란트/334명)는 **군집 무시·비보정 OR·연속 ISQ 4중 이분화(60/65/70/75)**의 전형, roccuzzo 2022(172/84명, 20년)는 **다수준 로지스틱으로 환자 단위 군집 보정**한 대조군. 대표 OR이 둘 다 두 자릿수 CI를 가로질러(17.9 [2.3–142.9] vs 14.59 [1.30–164.29]) "방법을 잘해도 events-per-variable가 부족하면 효과크기는 신뢰 못 한다"를 시연 |
 
-**임상 함의**: 한국 시장에서 광범위 사용되는 약물도 통계적 평가는 별개. 본 paper는 한국 임상 의사가 "그냥 처방되는" 약물 근거 검증의 실제 사례. [근거강함]
+**임상 함의**: 한국 시장에서 광범위 사용되는 약물도 통계적 평가는 별개. 본 paper는 한국 임상 의사가 "그냥 처방되는" 약물 근거 검증의 실제 사례. [확인]
 
-**오판 패턴**: "한국에서 표준 처방 → 근거 있음" — Choi 2015는 표준 처방과 근거 충분이 별개임을 시연. EBM 원칙 적용은 한국 의료에서도 동일. [근거강함]
+**오판 패턴**: "한국에서 표준 처방 → 근거 있음" — Choi 2015는 표준 처방과 근거 충분이 별개임을 시연. EBM 원칙 적용은 한국 의료에서도 동일. [확인]
 
-**toolkit 축 연결**: andersson-vs-roccuzzo 렌즈는 축 5 오류 #5(over-adjustment 아님 — 여기선 *under*-adjustment)·#6(연속변수 조기 dichotomization)과 축 3 미스(같은 환자 양측 임플란트를 독립 표본 취급 → 군집)를 한 데이터셋 위에서 "못한 예 vs 잘한 예"로 동시에 보여줘, 본 toolkit의 원리가 실제 임플란트 코호트에서 어떻게 결론을 갈라놓는지의 reference case가 된다. [claude해석]
+**toolkit 축 연결**: andersson-vs-roccuzzo 렌즈는 축 5 오류 #5(over-adjustment 아님 — 여기선 *under*-adjustment)·#6(연속변수 조기 dichotomization)과 축 3 미스(같은 환자 양측 임플란트를 독립 표본 취급 → 군집)를 한 데이터셋 위에서 "못한 예 vs 잘한 예"로 동시에 보여줘, 본 toolkit의 원리가 실제 임플란트 코호트에서 어떻게 결론을 갈라놓는지의 reference case가 된다. [미검증]
 
 ## Related Papers
 

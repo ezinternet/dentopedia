@@ -9,8 +9,21 @@ pdf_filename: anonymous-nd-systematic-review-critical-appraisal-worksheet.pdf
 source_collection: external
 ---
 
-## One-line Summary
-A 4-page anonymous educational worksheet that guides the reader through a structured Yes/No/Unclear appraisal of a systematic review, organized around PICO definition, search comprehensiveness, inclusion criteria, study quality, and meta-analytic interpretation (forest plot + Cochran Q heterogeneity).
+## Three-line Summary
+
+Anonymous 4-page educational worksheet (undated, likely CASP/PHRU style) for critical appraisal of systematic reviews, covering PICO, search, inclusion, study quality, and forest-plot/heterogeneity interpretation.
+
+Provides structured Yes/No/Unclear checklist with a worked example: pooled OR 0.66 (95% CI 0.56–0.78) from 5 trials, Cochran Q/df < 1, p=0.92, demonstrating homogeneity.
+
+No author attribution or version date; pre-dates PRISMA-2020, GRADE, and RoB 2.0 so it is a teaching aid, not a citable methodology reference.
+
+## 세줄요약
+
+저자 불명의 4페이지 체계적 고찰 비평 교육 워크시트(CASP/PHRU 형식 추정) — PICO·검색·선택기준·연구 질·포레스트 플롯/이질성 해석의 구조화된 Yes/No/Unclear 체크리스트.
+
+작동 예제: 5편 무작위배정 대조군시험의 합산 OR 0.66(95% CI 0.56–0.78), Cochran Q/df<1, p=0.92 — 동질성 확인 사례 제시.
+
+저자·버전일 불명, PRISMA-2020·GRADE·RoB 2.0 이전 자료 — 교육 보조 도구이며 1차 방법론 출처로 인용 불가.
 
 ## 1. Document Information
 - No named authors, no publication date, no journal, no DOI.

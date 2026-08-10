@@ -9,8 +9,21 @@ pdf_filename: goncalves-2024-canal-taper-apex-locator-influence.pdf
 source_collection: external
 ---
 
-## One-line Summary
-근관 테이퍼(taper) 차이가 두 전자근관장측정기(EAL) 측정값에 미치는 영향 분석 — 테이퍼 증가 시 측정 정확도에 영향.
+## Three-line Summary
+
+근관 테이퍼(taper) 차이가 두 전자근관장측정기(EAL)
+
+측정값에 미치는 영향 분석 —
+
+테이퍼 증가 시 측정 정확도에 영향.
+
+## 세줄요약
+
+발치 소구치에서 근관 테이퍼(0.02–0.08+ ) 변화에 따른 2종 EAL 정확도 비교 in vitro
+
+테이퍼 증가 시 EAL 정확도 저하 경향, 장치 간 성능 편차 확인
+
+대테이퍼 파일 사용 시 EAL 신뢰도 감소 — 임상적으로 파일 선택 및 EAL 해석 주의 필요
 
 ## 1. Document Information
 - **Title**: Influence of root canal taper on the measurement of two different electronic apex locators

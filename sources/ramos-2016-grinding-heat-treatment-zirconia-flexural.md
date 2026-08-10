@@ -9,8 +9,21 @@ pdf_filename: ramos-2016-grinding-heat-treatment-zirconia-flexural.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Braz Oral Res 2016;30:e12: Y-TZP grinding × grit × heat treatment 1200°C — grinding increases monoclinic phase + characteristic strength; heat treatment reverses monoclinic transformation; finer grit = smoother surface; heat treatment recommended after heavy grinding.
+## Three-line Summary
+
+Braz Oral Res 2016;30:e12: Y-TZP grinding × grit × heat treatment 1200°C — grinding increases monoclinic phase + characteristic strength
+
+heat treatment reverses monoclinic transformation
+
+finer grit = smoother surface; heat treatment recommended after heavy grinding.
+
+## 세줄요약
+
+Braz Oral Res 2016;30:e12: Y-TZP grinding × grit × heat treatment 1200°C — grinding increases monoclinic phase + characteristic strength
+
+heat treatment reverses monoclinic transformation
+
+finer grit = smoother surface; heat treatment recommended after heavy grinding.
 
 ## 1. Key Results
 - 7 groups: control + grinding at 200μm(G80), 160μm(G120), 25μm(G600) × untreated or heat-treated 1200°C 2h

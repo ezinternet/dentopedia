@@ -6,18 +6,28 @@ date: 2024-02-12
 doi: 10.4317/jced.16.e733
 source: goncalves-2024-canal-taper-apex-locator-influence.md
 category: [endodontics/eal]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/goncalves-2024-canal-taper-apex-locator-influence.pdf
 pdf_filename: goncalves-2024-canal-taper-apex-locator-influence.pdf
 source_collection: external
 tags: [EAL, apex-locator, taper, working-length, in-vitro]
 ---
 
-## One-line Summary
-In vitro study (extracted teeth, 2 electronic apex locators (EAL) vs radiographic working length): increasing root canal taper tended to reduce EAL accuracy — small tapers (0.02–0.04) measured well, while large tapers (≥0.06) degraded accuracy, so EAL re-verification is advised after large-taper shaping.
+## Three-line Summary
 
-## 한줄요약
-근관 테이퍼가 두 EAL 측정값에 미치는 영향(in vitro): 테이퍼 증가 시 EAL 정확도 저하 경향 — 대테이퍼 성형 시 신뢰도 주의.
+In vitro study using extracted teeth with varying root canal tapers (0.02–0.06+) comparing two electronic apex locators against radiographic working length as the reference standard.
+
+Small tapers (0.02–0.04) maintained good EAL accuracy; large tapers (≥0.06) degraded accuracy, with significant device-level differences at some taper ranges.
+
+EAL re-verification is advised after shaping to large tapers; the two devices did not behave identically, suggesting device choice matters in large-taper cases.
+
+## 세줄요약
+
+발치 치아에서 다양한 근관 테이퍼(0.02–0.06+)로 성형 후 EAL 2종과 방사선 근관장측정값을 비교한 in vitro 연구.
+
+소테이퍼(0.02–0.04)에서는 EAL 정확도 양호; 대테이퍼(≥0.06)에서 정확도 저하, 일부 테이퍼 범위에서 기기 간 유의한 차이.
+
+대테이퍼 파일 성형 후 EAL 재확인을 권고; 기기별 반응이 다르므로 대테이퍼 증례에서 기기 선택이 중요.
 
 ## Summary
 J Clin Exp Dent 2024. In vitro. 발치 치아; 다양한 테이퍼 근관 성형 후 2종 EAL 측정; 방사선 측정값 기준 비교.

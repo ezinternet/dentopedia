@@ -16,13 +16,21 @@ text_filename: fan-2026-fixed-dahl-restorations-localized-tooth-wear-sr-ma.txt
 
 The Dahl concept (relative axial tooth movement to create restorative space for localized tooth wear) is a long-standing occlusal-management technique that, until now, lacked a synthesized evidence base. This is the **first SR+MA** on fixed Dahl restorations, quantifying failure/complication rates and — critically for occlusion — the proportion of patients who re-establish posterior occlusal contacts. It extends the wiki's occlusal-contact / occlusal-scheme material (see [[occlusion/velasquez-2022-occlusal-analysis-natural-dentition-sr]] on natural occlusal-contact distribution) and applies an occlusal-loading rationale that complements [[occlusion/fan-2018-occlusal-trauma-and-excessive-occlusal]] (controlled occlusal forces vs. traumatic overload). Ingested now to give the occlusion category a high-evidence anchor on managing localized anterior tooth wear.
 
-## One-line Summary
+## Three-line Summary
 
-First SR+MA (11 studies; 8 low / 3 moderate RoB) on fixed Dahl restorations for localized tooth wear: indirect restorations had much lower annual failure rates (0–0.7%) than direct (0–8.7%, P<.05), and complete posterior occlusal re-establishment occurred in a pooled 86.9% of patients (low–moderate GRADE certainty).
+Systematic review + meta-analysis of 11 studies (8 low risk, 3 moderate risk) evaluating fixed Dahl restorations for localized tooth wear, comparing direct and indirect material approaches with occlusal re-establishment as a primary mechanistic outcome.
 
-## 한줄요약
+Indirect restorations showed significantly lower annual failure rates (0–0.7%) compared to direct restorations (0–8.7%, P<.05); posterior occlusal re-establishment was achieved in 86.9% of patients (complete contact in majority), with most failures attributed to restoration fracture, wear, and loss (low–moderate GRADE certainty).
 
-국소 치아마모에 대한 고정성 Dahl 수복의 첫 체계적 문헌고찰+메타분석(11편): 간접 수복의 연간 실패율(0–0.7%)이 직접 수복(0–8.7%)보다 유의하게 낮았고, 후방 교합접촉 완전 재형성은 통합 86.9%에서 일어났다(GRADE 근거수준 낮음–중간).
+Wide range of therapy duration and high complication propensity (5–30% annual complication rates) noted; follow-up time confounded indirect vs. direct comparison (indirect 1.7–2.2 y, direct up to 7 y), limiting long-term superiority conclusions for indirect materials despite lower short-term failure rates.
+
+## 세줄요약
+
+국소 치아마모에 대한 고정성 Dahl 수복의 체계적 문헌고찰+메타분석 (연구 11편, 저위험 8편·중간위험 3편); 직접 수복과 간접 수복을 비교하고 후방 교합접촉 재형성을 주요 기전 결과로 평가.
+
+간접 수복의 연간 실패율(0–0.7%)이 직접 수복(0–8.7%)보다 유의하게 낮았으며(P<.05), 후방 교합접촉 완전 재형성은 통합 86.9%에서 달성됨; 대부분의 실패는 수복물 파절·마모·탈락 (GRADE 근거수준 낮음–중간).
+
+치료 기간의 넓은 범위와 높은 합병증 발생률(연 5–30%, 수복물 파절·마모) 주목; 추적 기간 불일치(간접 1.7–2.2년 vs 직접 최대 7년)로 인해 간접 수복의 장기 우월성 결론에 주의 필요.
 
 ## 1. Document Information
 

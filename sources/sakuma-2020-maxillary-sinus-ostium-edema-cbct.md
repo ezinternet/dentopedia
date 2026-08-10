@@ -14,13 +14,21 @@ source_collection: external
 
 기존 [[wiki/overviews/sinus-lift-lateral-2026-synthesis]] 개요가 슈나이더 막 천공(Sinus Membrane Perforation, SMP) 수복에 집중하는 반면, 측방창 상악동거상술(Lateral Window Sinus Floor Augmentation, LWSFA) 후 상악동 자연공(Maxillary Sinus Ostium, MSO) 폐쇄·개통성 변화의 시계열 데이터는 누락되어 있었다. 본 연구(Sakuma 2020)는 72개 상악동에서 T0→T1주→T9개월 CBCT를 통해 MSO 직경 및 누두(Infundibulum) 개통성 변화를 정량화한 첫 번째 후향적 관찰연구로, 상악동거상술 후 부비동염(Sinusitis) 예방 축에 실질적 수치 근거를 제공한다.
 
-## One-line Summary
+## Three-line Summary
 
 Retrospective CBCT study (n=72 sinuses, 59 patients): after lateral-window SFE, MSO diameter narrowed from 1.8 mm to 1.1 mm at 1 week with 19.4% infundibulum occlusion, fully recovering to 1.5 mm / 1.4% occlusion by 9 months with no sinusitis cases.
 
-## 한줄요약
+(incomplete)
 
-후향적 CBCT 연구 (n=72 상악동, 59명): 측방창 상악동거상술 후 1주에 MSO 직경이 1.8→1.1 mm로 감소하고 누두 폐쇄 19.4%까지 증가하지만, 9개월에 1.5 mm / 1.4%로 완전 회복; 부비동염 발생 없음.
+(incomplete)
+
+## 세줄요약
+
+후향적 CBCT 연구 (n=72 상악동, 59명): 측방창 상악동거상술 후 1주에 MSO 직경이 1.8→1.1 mm로 감소하고 누두 폐쇄 19.4%까지 증가하지만, 9개월에 1.5 mm / 1.4%로 완전 회복;
+
+부비동염 발생 없음.
+
+(incomplete)
 
 ## 1. Document Information
 

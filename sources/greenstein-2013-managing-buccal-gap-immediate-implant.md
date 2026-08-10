@@ -14,13 +14,21 @@ source_collection: external
 
 즉시식립 (Immediate Implant Placement) 시 협측 간격(buccal gap) 관리 결정은 임상에서 자주 직면하는 문제이지만, 골이식 시행 여부의 임계값과 임플란트 위치 선정 기준이 불분명하다. 본 CE 리뷰(Greenstein & Cavallaro 2013)는 동물실험·인체임상 데이터를 종합해 14가지 실용 가이드라인을 도출하며, [[immediate-implant/chen-2007-immediate-implant-nonsubmerged-outcomes]]과 함께 협측 갭 의사결정 트리의 핵심 참고문헌으로 기능한다.
 
-## One-line Summary
+## Three-line Summary
 
 CE narrative review synthesizing animal and human data on buccal gap management in immediate implant placement, providing 14 clinical guidelines on grafting thresholds, implant positioning, buccal plate thickness, and flap approaches.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 즉시식립 후 협측 갭(buccal gap) 관리에 관한 CE 서술 리뷰로, 동물·인체 데이터를 종합해 골이식 임계값·임플란트 위치·협측판 두께·판막 접근법에 대한 14가지 임상 가이드라인을 제시한다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

@@ -6,7 +6,7 @@ date: 2013-01-01
 doi: unknown
 journal: Dental Research Journal 10(2):202
 source: daneshkazemi-2013-clearfil-se-bond-mechanical-thermal.md
-confidence: in-vitro
+evidence_level: in-vitro
 category: [resin-bonding]
 pdf_path: /Users/oracleneo/llm-wiki/papers/daneshkazemi-2013-clearfil-se-bond-mechanical-thermal.pdf
 pdf_filename: daneshkazemi-2013-clearfil-se-bond-mechanical-thermal.pdf
@@ -14,11 +14,21 @@ source_collection: external
 tags: [Clearfil-SE-Bond, microTBS, thermal-cycling, mechanical-cycling, fatigue, dentin-bond, in-vitro]
 ---
 
-## One-line Summary
-In-vitro study (42 molars, Clearfil SE Bond): both thermal and mechanical load cycling significantly reduced microtensile bond strength (µTBS) to superficial dentin (p<0.001); mechanical cycling became significant at a 100K-cycle threshold, and combined cycling added no further effect.
+## Three-line Summary
 
-## 한줄요약
-In vitro 42개 구치(Clearfil SE Bond): 열·기계적 하중 사이클링 모두 µTBS 유의하게 감소(p<0.001); 기계적 사이클링 유의 역치 100K회; 복합 사이클링 추가 효과 없음
+In vitro study (42 molars, 6 groups) evaluating how simulated oral aging — thermal cycling (1,000 cycles) and mechanical load cycling (50,000 and 100,000 cycles) — reduces microtensile bond strength (µTBS) of Clearfil SE Bond to superficial dentin.
+
+Both thermal and mechanical cycling significantly reduced µTBS (p<0.001); mechanical cycling became significant at the 100K-cycle threshold; combined thermal + mechanical cycling produced no additive reduction beyond mechanical alone.
+
+Clearfil SE Bond bonds degrade progressively with masticatory and thermal fatigue, suggesting clinical durability concerns after even a few months of service — supports strategies to mitigate hydrolytic SE adhesive degradation.
+
+## 세줄요약
+
+In vitro 연구(42개 구치, 6군): 열 사이클링(1,000회)과 기계적 하중 사이클링(50,000·100,000회)이 Clearfil SE Bond의 표층 상아질 미세인장결합강도(Microtensile Bond Strength, µTBS)에 미치는 영향 평가.
+
+열 사이클링·기계적 사이클링 모두 µTBS를 유의하게 감소(p<0.001)시켰으며, 기계적 사이클링은 100K회에서 유의한 역치에 도달; 복합 사이클링(열+기계)은 기계적 사이클링에 추가 감소 효과 없음.
+
+Clearfil SE Bond 결합강도는 교합·열 부하 피로에 따라 점진적으로 저하되므로 임상적으로 수개월 이내에도 계면 약화가 나타날 수 있으며, 자가산부식(Self-Etch, SE) 접착제의 가수분해 열화를 줄이는 전략이 필요함.
 
 ## Summary
 In vitro study (42 molars) evaluating how simulated oral aging — thermal and mechanical load cycling — reduces microtensile bond strength (µTBS) of Clearfil SE Bond to superficial dentin. All cycling significantly reduces bond strength; mechanical cycling becomes significant at 100K cycles.

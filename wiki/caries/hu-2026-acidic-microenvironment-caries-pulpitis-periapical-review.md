@@ -6,7 +6,7 @@ date: 2026-03-16
 doi: 10.1016/j.archoralbio.2026.106574
 source: hu-2026-acidic-microenvironment-caries-pulpitis-periapical-review.md
 category: [caries]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: false
 pmid: "41880705"
@@ -21,13 +21,19 @@ relations:
     target: foros-2021-early-caries-detection-methods-sr-ma
 ---
 
-## One-line Summary
+## Three-line Summary
+Narrative review (Sichuan University / HKU, abstract-only) reframing dental caries, pulpitis, and apical periodontitis as a single acid-driven disease continuum progressing from enamel to pulp to periapex.
 
-Narrative review (Sichuan University / HKU): an acidic microenvironment is the unifying driver across dental caries (selecting acidogenic/aciduric cariogenic bacteria, accelerating demineralization), pulpitis (low pH impairs pulpal function and raises bacterial virulence), and apical periodontitis (acid disrupts osteoblast/osteoclast/enzymatic processes → bone resorption), and it also compromises endodontic treatment effectiveness — while acid-mitigation strategies remain better developed for caries than for pulpal/periapical disease. (abstract-only)
+An acidic microenvironment selects acidogenic/aciduric cariogenic bacteria (caries), impairs pulpal function and raises bacterial virulence (pulpitis), and disrupts osteoblast/osteoclast balance to cause bone resorption (apical periodontitis) — also compromising endodontic treatment effectiveness.
 
-## 한줄요약
+Acid-mitigation strategies are better developed for caries than for pulpal/periapical disease, representing a translational gap that warrants further research.
 
-내러티브 리뷰(쓰촨대·홍콩대): 산성 미세환경(acidic microenvironment)이 우식·치수염·근단치주염을 관통하는 공통 동인으로, 우식에서 산생성·내산성(acidogenic/aciduric) 우식원성 세균을 선택하고 탈회를 가속하며, 치수염에서 pH 저하가 치수 기능을 손상시키고 세균 독성을 높이고, 근단치주염에서 산이 골모·파골세포·효소 과정을 교란해 골흡수를 유발하며 근관치료 효과까지 떨어뜨린다 — 그러나 산 완화 전략은 우식에 비해 치수·근단 질환에서 덜 연구되어 있다. (초록만)
+## 세줄요약
+내러티브 리뷰(쓰촨대·홍콩대, 초록만): 우식·치수염·근단치주염을 산성 미세환경이 공통 동인인 단일 연속 질환으로 재구성.
+
+산성 환경이 우식에서 산생성·내산성 세균을 선택하고 탈회를 가속; 치수염에서 치수 기능 손상·세균 독성 증가; 근단치주염에서 골모·파골세포 불균형으로 골흡수 유발 및 근관치료 효과 저하.
+
+산 완화 전략은 우식보다 치수·근단 질환에서 덜 연구되어 있어 추가 연구가 필요한 중개의학적 공백이 존재한다.
 
 ## Summary
 

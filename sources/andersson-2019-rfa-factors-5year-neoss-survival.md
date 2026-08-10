@@ -13,8 +13,21 @@ source_collection: external
 ## Why Ingested
 ISQ/RFA 임플란트 안정성 카테고리의 핵심 코호트 데이터(745 임플란트, 5년). [[implants/isq/roccuzzo-2022-implant-survival-isq-20year-retrospective]] (20년, 다수준 보정)와 동일 연구 설계 결함을 공유하면서도 군집 미보정·단변량 분석에 그쳐, 두 논문이 통계 교보재로 짝을 이룬다.
 
-## One-line Summary
-Retrospective study of 745 Neoss implants in 334 patients (5yr CSR 97.3% implant-level / 95.8% patient-level): low ISQ (<70, <75) at placement or loading associated with higher failure. ⚠ METHODS CORRECTION (2026-06-14): analysis is UNIVARIATE (chi-square/Fisher + UNADJUSTED odds ratios at ISQ thresholds) — NOT multivariate logistic regression; implant-within-patient clustering not modelled. For survival, age/gender/jaw/position/bone quantity/bone quality/diameter/length showed NO significant effect; only full-arch (vs partial) rehab and low ISQ did.
+## Three-line Summary
+
+Retrospective cohort study (745 Neoss implants, 334 patients, 5-year follow-up) using univariate analysis (chi-square, Fisher exact, unadjusted odds ratios) to identify factors associated with implant survival.
+
+5-year cumulative survival rate was 97.3% (implant-level); ISQ <70 at placement (OR 3.9) and ISQ <75 at loading (OR 17.9) were significantly associated with failure; bone quality, quantity, length, position, and diameter were not significant predictors.
+
+The analysis is univariate with no multivariable adjustment and no clustering correction, so the ISQ thresholds (≥70 placement, ≥75 loading) carry high uncertainty (wide CIs from only 20 failures).
+
+## 세줄요약
+
+후향적 코호트 연구(745개 Neoss 임플란트, 334명, 5년 추적): 단변량 분석(카이제곱, Fisher 정확 검정, 비보정 교차비)으로 임플란트 생존에 영향하는 인자 분석.
+
+5년 누적 생존율 97.3%(임플란트 단위); 식립 시 임플란트 안정성 지수(Implant Stability Quotient, ISQ) <70(교차비 3.9) 및 부하 시 ISQ <75(교차비 17.9)가 실패와 유의하게 연관; 골질·골량·직경·길이·위치는 유의하지 않았다.
+
+단변량 분석이며 환자 내 임플란트 군집 미보정으로 ISQ 역치 추정의 불확실성이 크고(신뢰구간 광범), 고-교차비를 임상 결정 근거로 단독 사용하기에는 한계가 있다.
 
 ## 1. Document Information
 - Journal: International Journal of Dentistry 2019, Article ID 3209872

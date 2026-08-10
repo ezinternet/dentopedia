@@ -13,13 +13,21 @@ source_collection: external
 
 Foundational, widely-cited (J Oral Rehabil) review that classifies every OVD-determination method specifically for the **complete-denture** patient — the clean taxonomy the wiki needs as the anchor of the new `complete-denture` category, paired with the newer Cureus review [[complete-denture/fayad-2025-vertical-dimension-determination-prosthodontics-review]] (which cites it). Together they frame the vertical-relation side of edentulous rehabilitation alongside the occlusal-scheme side in [[occlusion/bhambhani-2020-choosing-denture-occlusion-systematic-review]].
 
-## One-line Summary
+## Three-line Summary
 
-Updated narrative review (J Oral Rehabil 2017) classifying OVD-determination methods for complete-denture patients into two streams — pre-extraction (intra-oral measurement, profile tracing, cephalometry) and post-extraction (mandibular rest position, facial esthetics, swallowing, craniofacial-landmark measurement, cephalometry, phonetics, existing dentures) — concluding all methods are empirical and controversial, with no single accurate technique, so combining techniques best approximates OVD.
+Updated narrative review (J Oral Rehabil 2017;44(11):896–907) classifying OVD-determination methods for complete-denture patients into two streams: pre-extraction (intra-oral measurement, profile tracing, cephalometry) and post-extraction (mandibular rest position, facial esthetics, swallowing, craniofacial-landmark measurement, cephalometry, phonetics, existing dentures).
 
-## 한줄요약
+All methods are empirical and controversial; no single accurate OVD-determination technique exists; combining multiple techniques is the most reliable clinical approach.
 
-업데이트 narrative 리뷰(J Oral Rehabil 2017) — 무치악(총의치) 환자의 OVD 결정법을 발치 전(구내계측·프로파일 트레이싱·두부계측)과 발치 후(하악 안정위·안면심미·연하·두개안면 계측·두부계측·음성학·기존의치) 두 흐름으로 분류; 모든 방법이 경험적·논쟁적이고 단일 정확법은 없어 여러 방법의 병용을 권고.
+Narrative review without pooled estimates; many post-extraction methods are subjective and population-dependent — future work should focus on validated, reproducible, and standardized methods.
+
+## 세줄요약
+
+업데이트 내러티브 리뷰(J Oral Rehabil 2017;44:896–907): 무치악(총의치) 환자의 수직교합고경(OVD, Occlusal Vertical Dimension) 결정법을 발치 전(구내계측·프로파일 트레이싱·두부방사선 계측)과 발치 후(하악 안정위·안면심미·연하·두개안면 계측·음성학·기존의치) 두 흐름으로 분류.
+
+모든 방법이 경험적·논쟁적이며 단일 정확법은 없음; 여러 방법의 병용이 임상적으로 가장 신뢰할 수 있는 접근법.
+
+근거종합 메타분석 없는 내러티브 리뷰; 발치 후 방법들은 주관적이고 집단 의존적 — 검증되고 재현 가능한 표준화 방법 개발이 향후 과제.
 
 ## 1. Document Information
 

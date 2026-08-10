@@ -3,7 +3,7 @@ title: "Overview: Teledentistry — Accuracy, Cost, and Patient Acceptability"
 type: synthesis
 category: overviews
 date: 2026-06-27
-confidence: synthesis
+evidence_level: synthesis
 source_collection: synthesis
 source_papers:
   - wiki/practice-management/gurgel-juarez-2022-accuracy-effectiveness-teledentistry-systematic.md
@@ -26,13 +26,21 @@ tags: [teledentistry, telehealth, practice-management, access, overview]
 > - **활용 시나리오**: 지방·농어촌·오지(rural/remote) 접근성 향상 + COVID-19로 가속 — 단 사용자가 채택하지 않으면 접근격차는 그대로다.
 > - **임상 시사점**: teledentistry는 대면치과의 **보조 게이트키퍼**로 도입하되, 진단정확도 수치만 믿지 말고 환자(특히 취약계층)의 채택·언어·신뢰 장벽을 함께 설계할 것.
 
-## One-line Summary
+## Three-line Summary
 
-Across 4 reviews/surveys (2 umbrella reviews, 1 SR+MA, 1 cross-sectional), teledentistry is diagnostically adequate for screening/referral/monitoring (referral/treatment-planning sensitivity 80–88%, specificity 73–95%; caries-screening sensitivity 69.7%, specificity 97.4%) and widely assumed cost-saving, but every supporting review is AMSTAR-2 low/critically-low and the binding constraint is patient uptake, not accuracy — 57% of rural Latina/o/x adults declined teledentistry even when available.
+Synthesis of 4 reviews/surveys (2 umbrella reviews, 1 SR+MA, 1 cross-sectional) on teledentistry accuracy, cost, and patient acceptability; teledentistry is diagnostically adequate for the upstream care pathway (triage, screening, referral, monitoring) but not for confirmatory in-person diagnosis.
 
-## 한줄요약
+Referral/treatment-planning sensitivity 80–88%, specificity 73–95% (Gurgel-Juarez 2022, >7,000 participants); caries-screening pooled sensitivity 69.7%, specificity 97.4% (Lee 2024 SR+MA, Australia); cost-saving is plausible but assumption-based — across 10 reviews only 5 distinct economic-evaluation primary studies exist and none provides cost-benefit, cost-utility, or incremental analysis (Scheerman 2024); all supporting reviews are AMSTAR-2 low/critically-low.
 
-리뷰·설문 4편(우산형 리뷰 2, SR+MA 1, 단면조사 1) 종합: 원격치과는 스크리닝·의뢰·모니터링에 진단적으로 충분하고(의뢰·치료계획 민감도 80–88%·특이도 73–95%, 우식 스크리닝 민감도 69.7%·특이도 97.4%) 비용절감으로 널리 가정되지만, 뒷받침 리뷰가 전부 AMSTAR-2 low/critically-low 품질이고 진짜 제약은 정확도가 아니라 환자 채택률이다 — 농촌 라티노 성인의 57%는 가용해도 거부했다.
+The binding constraint is patient uptake, not accuracy: 57% of rural Latina/o/x adults declined teledentistry even when available (García 2023, n=91); income >$24k and lacking dental insurance (uninsured more receptive) predicted acceptability — perceived oral-health need did not; health-equity design is mandatory if the access promise is to be realized.
+
+## 세줄요약
+
+4편 종합(우산형 리뷰 2, SR+MA 1, 단면조사 1) — 원격치과(teledentistry) 정확도·비용·수용성; 스크리닝·의뢰·모니터링에 진단적으로 적합하나 확진 대면진단 대체 불가.
+
+의뢰·치료계획 민감도 80–88%·특이도 73–95%(Gurgel-Juarez 2022, >7,000명); 우식 스크리닝 통합 민감도 69.7%·특이도 97.4%(Lee 2024 SR+MA, 호주); 비용절감은 가정(assumption)이지 발견이 아님 — 10개 리뷰에 경제성 원논문 5개뿐, 비용-편익·비용-효용·증분분석 전무(Scheerman 2024); 뒷받침 리뷰 전부 AMSTAR-2 low/critically-low.
+
+진짜 제약은 정확도가 아니라 환자 채택률: 농촌 라티노 성인 57%는 가용 시에도 거부(García 2023, n=91); 소득 >$24k와 치과보험 미보유(비보험자가 오히려 더 수용적)만 채택 예측, 자각된 구강건강 필요는 무관; 취약계층 접근격차 해소를 위한 보건형평성 설계 필수.
 
 ## Thesis
 

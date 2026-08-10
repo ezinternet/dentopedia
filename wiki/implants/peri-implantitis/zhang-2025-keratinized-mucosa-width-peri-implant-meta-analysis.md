@@ -6,20 +6,28 @@ date: 2025-02-17
 doi: 10.1186/s12903-025-05680-5
 source: zhang-2025-keratinized-mucosa-width-peri-implant-meta-analysis.md
 category: [implants/peri-implantitis]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/zhang-2025-keratinized-mucosa-width-peri-implant-meta-analysis.pdf
 pdf_filename: zhang-2025-keratinized-mucosa-width-peri-implant-meta-analysis.pdf
 source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 30 studies (1,773 subjects, 5,241 implants, follow-up 6 months–25 years) demonstrating that adequate keratinized mucosa width (KMW ≥2 mm) significantly reduces plaque index (MD −0.30), gingival index (MD −0.26), bleeding index (MD −0.20), and marginal bone loss (MD −0.27 mm) around dental implants compared to KMW <2 mm, while probing depth and CAL differences were non-significant.
+SR+MA (30 studies, 1,773 subjects, 5,241 implants, follow-up 6 months–25 years) — the largest meta-analysis to date on keratinized mucosa width (KMW) and peri-implant outcomes, tripling the study count of the prior leading review (Ravida 2022, 9 studies).
 
-## 한줄요약
+KMW ≥2 mm significantly reduced plaque index (MD −0.30), gingival index (MD −0.26), bleeding index (MD −0.20), and marginal bone loss (MD −0.27 mm) vs KMW <2 mm; probing depth and CAL differences were non-significant; all effects stable on sensitivity analysis despite very high I² (>80%).
 
-30개 연구(1,773명, 임플란트 5,241개) 메타분석 결과, 각화점막 폭경(KMW) ≥2 mm 임플란트는 <2 mm 대비 치태지수(MD −0.30), 치은지수(MD −0.26), 출혈지수(MD −0.20), 변연골소실(MD −0.27 mm)이 유의하게 낮았으며, 연구 간 이질성이 높아도 민감도 분석에서 결과는 안정적이었다.
+Clinicians should consider soft-tissue augmentation to achieve KMW ≥2 mm to reduce plaque, inflammation, and bone loss; very high heterogeneity across all outcomes and inclusion of cross-sectional and retrospective designs limit causal inference.
+
+## 세줄요약
+
+SR+MA (30편, 1,773명, 임플란트 5,241개, 추적 6개월–25년) — 각화점막폭 (Keratinized Mucosa Width, KMW)과 임플란트 주위 결과에 관한 현재까지 가장 큰 메타분석(선행 최대 리뷰 Ravida 2022의 3배 규모).
+
+KMW ≥2 mm가 <2 mm 대비 치태지수 (MD −0.30)·치은지수 (MD −0.26)·출혈지수 (MD −0.20)·변연골소실 (MD −0.27 mm)을 유의하게 낮춤; 탐침깊이·임상부착수준은 비유의; 민감도 분석에서 I²>80%에도 결과 안정.
+
+KMW 결핍 시 연조직 증대(유리치은이식/결합조직이식) 고려 권고; 모든 결과에서 매우 높은 이질성과 횡단·후향 연구 포함으로 인과 추론 한계.
 
 ## Summary
 

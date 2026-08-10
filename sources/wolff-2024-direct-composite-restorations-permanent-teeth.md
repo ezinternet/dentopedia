@@ -13,13 +13,21 @@ source_collection: external
 
 [[wiki/resin/astvaldsdottir-2015-posterior-resin-composite-longevity-sr]] provided the longevity evidence base for posterior composite but did not formalize indications. This 2024 German S3 (GRADE) clinical practice guideline extends that evidence into formal, panel-ratified indication recommendations spanning Class I–V, cusp replacement, and tooth-shape corrections — converting longevity data into actionable indication boundaries.
 
-## One-line Summary
+## Three-line Summary
 
 German S3 (GRADE) consensus guideline (20 societies, MEDLINE/Cochrane to Dec 2021, 6 PICO questions): direct composite is recommended for cavity Classes I–V, cusp replacement, and tooth-shape corrections, and should be preferred over indirect composite inlays in the posterior region.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 독일 S3(GRADE) 합의 가이드라인(20개 학회, 2021.12까지 문헌, 6개 PICO): 직접 복합레진은 I–V급 와동·교두수복·치형교정에 권장되며, 후방부에서는 간접 복합레진 인레이보다 우선 선택되어야 함.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

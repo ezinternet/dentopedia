@@ -17,13 +17,21 @@ text_filename: almeida-2017-dental-implants-sjogren-syndrome-sr.txt
 
 Sjögren-specific implant outcome evidence to anchor the autoimmune-dental implant batch. Where [[wiki/implants/esimekara-2022-dental-implants-autoimmune-diseases-sr]] pools many autoimmune diseases, this SR isolates Sjögren's syndrome (SS) — the autoimmune disease with the most direct oral/salivary impact (xerostomia, caries, periodontal disease) and thus the highest a priori implant-failure concern. It reinforces the autoimmune-SR conclusion that implants remain a viable option, while quantifying SS-specific survival, MBL, and biological-complication numbers.
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (6 studies, 1997–2016; 357 implants in SS patients) finding high mean implant survival (93.7–94.6% over mean ~4 y), low marginal bone loss, low biological complications, and improved quality of life in all studies.
+Systematic review (6 observational studies, 1997–2016, 357 implants in primary/secondary Sjögren's syndrome patients; no meta-analysis; PROSPERO CRD42016053277) evaluating implant survival, MBL, biological complications, and quality of life.
 
-## 한줄요약
+Pooled mean implant survival was 93.7–94.6% over a mean 3.97 years; MBL was low and comparable to healthy subjects; mucositis was the most common biological complication; all studies that assessed QoL reported improvement in masticatory function and satisfaction.
 
-체계적 문헌고찰(6편, 1997–2016; SS 환자 임플란트 357개) — 평균 약 4년간 임플란트 생존율 93.7–94.6%로 높고, 변연골소실(MBL)·생물학적 합병증은 낮으며, 모든 연구에서 삶의 질 개선을 보고. 단 RCT 부재·관찰연구 소수로 근거 강도는 제한적.
+No RCTs were available and only 1 study was prospective; the two studies with highest failure rates used machined (not roughened) surface implants, but conclusions about surface effects cannot be drawn; future prospective long-term studies are needed.
+
+## 세줄요약
+
+체계적 문헌고찰 (관찰 연구 6편, 1997–2016, 쇼그렌증후군(Sjögren's Syndrome, SS) 환자 임플란트 357개, 메타분석 없음) — 임플란트 생존율, 변연골소실(MBL), 생물학적 합병증, 삶의 질 평가.
+
+평균 약 3.97년간 합동 임플란트 생존율 93.7–94.6%; MBL 낮고 비 SS군과 유사; 점막염이 가장 흔한 생물학적 합병증; 삶의 질(저작 기능·만족도) 모든 연구에서 개선.
+
+RCT 없음, 전향 연구 1편뿐; 기계 연마 표면 임플란트를 사용한 연구 2편에서 실패율 높았으나 표면 효과 결론 불가; 장기 전향 연구 필요.
 
 ## 1. Document Information
 

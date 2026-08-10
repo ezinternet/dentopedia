@@ -6,20 +6,28 @@ date: 2019-11-15
 doi: 10.1111/cid.12861
 source: cairo-2019-soft-tissue-augmentation-implant-sites-rct-sr-ma.md
 category: [implants/soft-tissue]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/cairo-2019-soft-tissue-augmentation-implant-sites-rct-sr-ma.pdf
 pdf_filename: cairo-2019-soft-tissue-augmentation-implant-sites-rct-sr-ma.pdf
 source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 14 RCTs (475 patients, 538 implants): soft-tissue augmentation at implant sites improves keratinized tissue height and thickness; CTG is superior to XCM for soft-tissue thickness gain (WMD −0.30 mm, 95% CI −0.43 to −0.17, P < .00001).
+SR+MA restricted to RCTs (14 RCTs, 475 patients, 538 implants) evaluating soft-tissue augmentation at implant sites, with primary outcomes of keratinized tissue height (KT) and soft-tissue thickness (STT).
 
-## 한줄요약
+All 14 RCTs showed augmentation outperformed no augmentation for both KT and STT; the only pooled comparison was CTG vs XCM, where CTG produced significantly greater STT gain (WMD −0.30 mm, 95% CI −0.43 to −0.17, P<.00001); only 5 of 14 RCTs were at low risk of bias.
 
-14개 RCT 메타분석: 임플란트 주위 연조직 증대술은 각화조직 높이·두께를 향상시키며, 연결조직이식(CTG)이 이종콜라겐 매트릭스(XCM)보다 연조직 두께 증가에 통계적으로 유의하게 우수함(WMD −0.30 mm).
+Soft-tissue augmentation consistently improves peri-implant tissue quantity, but CTG is superior to xenogeneic collagen matrix for thickness gain — although evidence certainty remains low due to study heterogeneity.
+
+## 세줄요약
+
+RCT만 포함한 SR+MA(14 RCT, 475명, 538개 임플란트): 임플란트 부위 연조직 증대술의 각화조직 높이(KT)와 연조직 두께(STT)를 1차 결과로 평가하였다.
+
+14편 모두 증대술이 비치료 대비 KT·STT를 향상시켰고, 유일한 메타분석 비교인 CTG vs 이종 콜라겐 기질(XCM)에서 CTG가 STT 증가에 유의하게 우수(WMD −0.30 mm, p<.00001); 14편 중 5편만 낮은 비뚤림 위험.
+
+연조직 증대술은 임플란트 주위 조직 양을 일관되게 향상시키나, 두께 증가에서 CTG가 XCM보다 우수 — 연구 이질성으로 근거 확실성은 낮다.
 
 ## Summary
 
@@ -59,7 +67,7 @@ The authors concluded that soft-tissue augmentation improves peri-implant soft-t
 
 ## Related Papers
 
-- [[implants/montero-2022-soft-tissue-substitutes-vs-autogenous-keratinized-mucosa-sr]] — later SR comparing substitutes vs autogenous grafts for keratinized mucosa; extends Cairo 2019 findings
-- [[implants/stefanini-2023-soft-tissue-augmentation-peri-implant-sr]] — 2023 SR on soft-tissue augmentation around implants; updates and refines Cairo 2019 evidence
-- [[implants/thoma-2018-soft-tissue-augmentation-periimplant-health]] — companion SR evaluating peri-implant health outcomes of augmentation (same evidence period)
+- [[implants/soft-tissue/montero-2022-soft-tissue-substitutes-vs-autogenous-keratinized-mucosa-sr]] — later SR comparing substitutes vs autogenous grafts for keratinized mucosa; extends Cairo 2019 findings
+- [[implants/soft-tissue/stefanini-2023-soft-tissue-augmentation-peri-implant-sr]] — 2023 SR on soft-tissue augmentation around implants; updates and refines Cairo 2019 evidence
+- [[implants/soft-tissue/thoma-2018-soft-tissue-augmentation-periimplant-health]] — companion SR evaluating peri-implant health outcomes of augmentation (same evidence period)
 - [[overviews/keratinized-mucosa-peri-implant-health-overview]] — synthesis overview integrating KT/STT augmentation evidence with peri-implant health outcomes

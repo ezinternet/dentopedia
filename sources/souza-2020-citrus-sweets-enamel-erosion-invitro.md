@@ -16,14 +16,14 @@ underappreciated erosive agent — extending the soft-drink erosion model of
 and lactic acid dimensions to the acid-type discussion framed by
 [[dental-erosion/kanzow-2016-etiology-pathogenesis-dental-erosion]].
 
-## One-line Summary
+## Three-line Summary
 In-vitro profilometry study (n = 90 bovine enamel, 6 groups, 7-day/4×90 s-per-day acid challenge)
 showing citrus sweets (pH 2.6–3.5) cause erosive enamel wear of 1.3–2.4 μm; Fini Diet (pH 3.3,
 lactic+citric acid, median 2.4 μm) and Fini Regaliz Acid Tubes (pH 3.1, maleic+citric, median
 2.2 μm) are as erosive as 0.1% citric acid (median 2.3 μm) and more erosive than Coca-Cola
 (pH 2.6, median 1.4 μm).
 
-## 한줄요약
+## 세줄요약
 In-vitro 연구 (n=90 소 법랑질, 7일): 시트러스 젤리/캔디(pH 2.6~3.5)가 1.3–2.4 μm의 법랑질
 마모를 유발하며, Fini Diet(pH 3.3)·Fini Regaliz(pH 3.1)는 0.1% 구연산(2.3 μm) 수준으로
 Coca-Cola(1.4 μm)보다 더 침식적 — 산 종류와 복합산이 pH보다 중요.

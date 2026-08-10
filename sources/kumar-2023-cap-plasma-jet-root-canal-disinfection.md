@@ -13,13 +13,21 @@ source_collection: external
 
 냉플라즈마(CAP) 제트의 근관 내 E. faecalis 항균 효과를 NaOCl 및 QMix와 직접 비교한 최초 in-vitro RCT급 연구로, 기존 [[endodontics/irrigation/ardila-2026-intracanal-medicaments-enterococcus-faecalis-sr]]의 E. faecalis 제거 전략에 CAP 플라즈마라는 신규 방법론을 추가한다.
 
-## One-line Summary
+## Three-line Summary
 
-In-vitro study (n=210 premolars) comparing CAP plasma jet vs 5.25% NaOCl vs QMix for E. faecalis root canal disinfection at 2, 5, and 10 min exposures; NaOCl was most effective, CAP plasma required 5 min for substantial CFU reduction.
+In-vitro study (n=210 premolars) comparing CAP plasma jet vs 5.25% NaOCl vs QMix for E.
 
-## 한줄요약
+faecalis root canal disinfection at 2, 5, and 10 min exposures;
 
-단근 소구치 210개를 이용한 시험관 연구에서 냉대기압 플라즈마(CAP) 제트·5.25% NaOCl·QMix의 E. faecalis 사멸 효과를 2·5·10분 노출 시간별로 비교; NaOCl이 가장 효과적이며 CAP 플라즈마는 5분 이상 노출 시 유의한 CFU 감소.
+NaOCl was most effective, CAP plasma required 5 min for substantial CFU reduction.
+
+## 세줄요약
+
+단근 소구치 210개를 이용한 시험관 연구에서 냉대기압 플라즈마(CAP) 제트·5.25% NaOCl·QMix의 E.
+
+faecalis 사멸 효과를 2·5·10분 노출 시간별로 비교;
+
+NaOCl이 가장 효과적이며 CAP 플라즈마는 5분 이상 노출 시 유의한 CFU 감소.
 
 ## 1. Document Information
 

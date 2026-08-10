@@ -13,13 +13,21 @@ source_collection: external
 
 [[wiki/endodontics/vpt/fasoulas-2023-pulpotomy-direct-pulp-capping-sr-ma]]의 재료 비교를, 본 Frontiers in Dental Medicine (Elmsmari 2026)는 Bayesian network meta-analysis + CINeMA 확실성 등급으로 확장해 "어떤 비교가 high-certainty인가"라는 의사결정 차원을 추가한다 — anchor의 효과 비교를 certainty-graded, modality·시점별 의사결정 근거로 확장.
 
-## One-line Summary
+## Three-line Summary
 
-Bayesian network meta-analysis (35 RCTs; 24 in mature permanent teeth, 2,906 teeth) finding VPT success generally >93% across modalities, with hydraulic calcium-silicate cements (MTA, Biodentine) beating Ca(OH)2 (high-certainty for MTA, moderate for Biodentine) but no clear difference between silicate cements.
+Bayesian network meta-analysis of 35 RCTs (24 in mature permanent teeth, 2,906 teeth) comparing vital pulp therapy materials using arm-based random-effects network meta-analysis with CINeMA certainty grading.
 
-## 한줄요약
+Success rates across all VPT modalities (full pulpotomy, partial pulpotomy, direct pulp capping, indirect pulp capping) exceeded 93%, with hydraulic calcium-silicate cements (MTA and Biodentine) showing superiority over calcium hydroxide at high-certainty (MTA) and moderate-certainty (Biodentine) levels.
 
-35편 RCT(성숙영구치 24편, 2,906개 치아)의 베이지안 네트워크 메타분석으로, VPT 성공률은 modality 전반 대체로 >93%였고, 수경성 규산칼슘시멘트(MTA·Biodentine)가 Ca(OH)2보다 우월(MTA는 high-certainty, Biodentine은 moderate)했으나 규산칼슘시멘트 간 차이는 명확하지 않았다.
+Between-silicate-cement comparisons yielded imprecise estimates with overlapping credible intervals and moderate certainty, while adjunctive therapies (PRP, laser) remained low-certainty due to sparse network evidence; inconsistent reporting of moderators (diagnosis, apex maturity, hemostasis) and limited durability data beyond 1 year represent key limitations.
+
+## 세줄요약
+
+35편 RCT(성숙영구치 24편, 2,906개 치아)를 대상으로 한 베이지안 네트워크 메타분석; CINeMA 확실성 등급을 포함한 팔-기반 무작위효과 네트워크 메타분석으로 생활치수요법 재료를 비교.
+
+전폐수감(full pulpotomy)·부분폐수감(partial pulpotomy)·직접덮개(DPC)·간접덮개(IPC) 모든 VPT 양식에서 성공률 >93%였으며, 수경성 규산칼슘시멘트(MTA·Biodentine)가 수산화칼슘보다 우월(MTA는 high-certainty, Biodentine은 moderate-certainty).
+
+규산칼슘시멘트 간 비교는 신용도 구간(credible interval) 중첩으로 추정치 부정확(moderate certainty)했고, 보조요법(PRP·레이저)은 네트워크 희소로 low-certainty; 진단·근첨성숙·지혈 보고 불일치 및 1년 이상 추적자료 부족이 핵심 제한점.
 
 ## 1. Document Information
 

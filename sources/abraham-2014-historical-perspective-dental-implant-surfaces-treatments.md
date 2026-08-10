@@ -13,8 +13,21 @@ source_collection: external
 
 Historical-context primer on dental implant materials and surface treatments — provides the developmental timeline (Brånemark osseointegration through machined/SLA/HA/fluoride surfaces) that frames the surface-modification comparisons in [[overviews/implant-surface-comparison]]. Background reference for understanding why surface treatment matters to osseointegration speed.
 
-## One-line Summary
-Narrative review tracing dental implants from ~2500 BC (Egyptian ligature wire) through Brånemark's titanium osseointegration to modern surface treatments (machined, sand-blasted, etched, HA-coated, fluoride/statin).
+## Three-line Summary
+
+Narrative historical review (Open Dent J 2014; Texas A&M/Baylor) tracing dental implant development from ~2500 BC (Egyptian gold ligature wire) through Brånemark's titanium osseointegration to modern surface modifications (machined, SLA, HA-coated, fluoride-impregnated, statin-loaded).
+
+No quantitative outcomes are reported; key historical milestones include Mayan shell implants (~600 AD), Strock brothers' Vitallium screws (1930s), Formiggini spiral (1940s), and the post-Brånemark era drive toward faster osseointegration via surface chemistry modifications.
+
+This review serves as a teaching primer and historical anchor — it should not be cited as evidence for any specific surface's efficacy; data predate UV photofunctionalization and nanoscale topography by a decade.
+
+## 세줄요약
+
+서사적 역사 리뷰 (Open Dent J 2014; 텍사스 A&M/베일러): 고대 이집트 금선 결찰(~기원전 2500년)부터 브로네마르크(Brånemark) 골융합(osseointegration) 개념, 현대 표면처리(기계절삭/SLA/하이드록시아파타이트 코팅/불소처리/스타틴 탑재)까지 시대별 임플란트 발전사 정리.
+
+정량적 결과 없음; 주요 이정표: 마야 패각 임플란트(~600 AD), 스트록 형제 Vitallium 나사(1930년대), Formiggini 나선 임플란트(1940년대), 브로네마르크 이후 골융합 가속화를 위한 표면 화학 수정 시대.
+
+교육용 입문서·역사적 기준점으로 활용 가능 — 특정 표면의 임상 효능 근거로 인용 불가; UV 광기능화·나노 표면 등 현대 기술은 포함되지 않음.
 
 ## 1. Document Information
 - **Type**: Narrative review / historical perspective

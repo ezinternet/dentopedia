@@ -6,18 +6,31 @@ date: 2022-06-01
 doi: 10.1007/s12663-020-01459-z
 source: kumar-2022-suture-versus-sutureless-third-molar-impactions.md
 category: [suture-wound-closure]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/kumar-2022-suture-versus-sutureless-third-molar-impactions.pdf
 pdf_filename: kumar-2022-suture-versus-sutureless-third-molar-impactions.pdf
 source_collection: external
 tags: []
+relations:
+  - type: contradicts
+    target: takadoum-2022-sutureless-socket-technique-third-molars
 ---
 
-## One-line Summary
-RCT (n=50, 25 per arm) of suture vs sutureless closure with a small modified Szmyd V-flap after impacted mandibular third molar removal; sutureless significantly reduced early postoperative pain, swelling, and trismus (p<0.001), with no difference in periodontal sequelae or alveolar osteitis.
+## Three-line Summary
 
-## 한줄요약
-작은 변형 Szmyd V자형 판막을 사용한 하악 매복 사랑니 발치에서 봉합 대 무봉합을 비교한 무작위배정 임상시험(n=50, 군당 25명). 무봉합이 초기 통증·부종·개구장애를 유의하게 줄였고(p<0.001), 치주 후유증과 건성발치와에는 차이가 없었다.
+RCT (n=50, 25 per arm) comparing suture vs sutureless closure using a small modified Szmyd V-flap after impacted mandibular third molar removal, with outcomes tracked at 24 h, 48 h, days 5, 7, and 2 weeks.
+
+Sutureless closure significantly reduced early postoperative pain, swelling, and trismus (p<0.001); no hemorrhage, periodontal sequelae, or alveolar osteitis differed between groups.
+
+When a deliberately small flap design is used, sutureless closure provides an early comfort advantage without periodontal or healing penalty; however, single-center n=50 limits generalizability vs the multicentric Takadoum null result.
+
+## 세줄요약
+
+작은 변형 Szmyd V자형 판막을 사용한 하악 매복 사랑니 발치에서 봉합 대 무봉합을 비교한 RCT(n=50, 군당 25명), 24h·48h·5·7일·2주 추적.
+
+무봉합군이 초기 통증·부종·개구장애 유의하게 감소(p<0.001); 출혈·치주 후유증·건성발치와 차이 없음.
+
+소형 피판 설계와 무봉합 병용 시 초기 불편감 이점을 제공하나 단일기관 소규모 연구로 대규모 다기관 RCT(Takadoum)의 차이 없음 결과와 상충하는 점 주의.
 
 ## Summary
 A randomized controlled trial of 50 patients with asymptomatic impacted mandibular third molars, split 25/25 into a suture group and a sutureless group, all operated through a small modified Szmyd V-shaped flap. Outcomes (pain, swelling, trismus, hemorrhage, periodontal pocket, alveolar osteitis) were tracked at 24 h, 48 h, day 5, day 7, and 2 weeks. The sutureless group had significantly less pain, swelling, and trismus in the early postoperative period (p<0.001), with no hemorrhage in either group and no difference in periodontal sequelae or alveolar osteitis. The authors frame sutureless surgery with a small flap as less invasive, time-saving, and cost-effective.

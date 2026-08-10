@@ -16,13 +16,21 @@ text_filename: feng-2025-ultrasonic-activation-single-cone-filling-sr-ma.txt
 
 PubMed 감시(one-cone technique) — 단일콘의 핵심 약점(콤팩션 부족 → void/porosity)을 **초음파 실러 활성화**가 보완하는지를 lab study 20편으로 합산한 SR+MA. [[endodontics/song-2022-sealer-based-obturation-epoxy-calcium-silicate-rct]](단일콘 void/extrusion 차이 없음)와 [[endodontics/elmsmari-2025-single-cone-bioceramic-clinical-success-sr-ma]](임상 동등성)에 "충전질 향상 술식 변형"이라는 한 축을 추가한다.
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 20 lab studies (11 meta-analyzed) — ultrasonic activation of sealers during single-cone obturation significantly reduced porosity (micro-CT MD −1.21; apical stereomicroscopy MD −0.50) and increased apical/middle sealer penetration (CLSM SMD 2.28/2.69), but bond strength and other penetration indicators were inconsistent.
+Systematic review + meta-analysis of 20 laboratory-based studies (11 meta-analyzed) comparing ultrasonic activation versus non-activation of root canal sealers during single-cone obturation.
 
-## 한줄요약
+Ultrasonic activation significantly reduced porosity measured by micro-CT (MD −1.21) and apical stereomicroscopy (MD −0.50), and increased sealer penetration at apical (CLSM SMD 2.28) and middle thirds (SMD 2.69).
 
-lab study 20편(11편 메타분석) SR+MA — 단일콘 충전 시 초음파 실러 활성화는 기공률을 유의하게 낮추고(micro-CT MD −1.21; 치근단 입체현미경 MD −0.50) 치근단·중앙부 실러 침투를 늘렸으나(CLSM SMD 2.28/2.69) 결합강도·기타 침투지표는 비일관적.
+Bond strength outcomes and some penetration metrics showed inconsistent results, limiting applicability of UA benefit across all technical endpoints; lab-only evidence with no clinical outcome translation.
+
+## 세줄요약
+
+단일콘 충전 시 초음파 활성화(UA) 대 무활성(NA) 실러의 효과를 비교한 기공학 연구 20편(메타분석 11편)의 체계적 문헌고찰 및 메타분석.
+
+초음파 활성화는 micro-CT 기준 기공률(MD −1.21)과 치근단 입체현미경 기준 기공률(MD −0.50)을 유의하게 감소시켰으며, 치근단 및 중앙부에서 실러 침투(CLSM SMD 2.28/2.69)를 증가시켰다.
+
+결합강도와 일부 침투지표는 비일관적 결과를 보였으며, 기공학 증거만 있고 임상 전임 자료 부재 — UA의 광범위한 적용 가치는 제한적.
 
 ## 1. Document Information
 

@@ -9,8 +9,25 @@ pdf_filename: althobaiti-2023-osseodensification-conventional-drilling-isq-sr.pd
 source_collection: external
 ---
 
-## One-line Summary
-SR (Cureus 2023, PubMed/Scopus/EMBASE/Cochrane): 다수의 연구에서 골밀도화(OD) 드릴링이 기존 방식 대비 ISQ·골밀도 유의하게 높음; 단, 포함된 RCT들의 비뚤림위험(RoB 2) 높아 해석 주의 필요.
+## Three-line Summary
+
+Systematic review (5 databases, PubMed/Scopus/EMBASE/Cochrane, search through December 2022) comparing osseodensification (OD) vs conventional drilling for primary implant stability.
+
+Majority of included studies showed OD yielded significantly higher ISQ values and bone density than conventional drilling; NRSIs had low risk of bias, but included RCTs had high risk of bias (RoB 2).
+
+OD appears to improve primary implant stability, but the high RoB in available RCTs limits confidence and high-quality randomized evidence is still lacking.
+
+## 세줄요약
+
+체계적 문헌고찰(5개 DB, PubMed/Scopus/EMBASE/Cochrane, 2022년 12월까지): 골밀도화(Osseodensification, OD) 드릴링 대 기존 드릴링의 임플란트 1차 안정성을 비교.
+
+포함 연구 대다수에서 OD군이 기존 드릴링군보다 임플란트 안정성 지수(Implant Stability Quotient, ISQ) 및 골밀도가 유의하게 높았으며, 비무작위연구(NRSI)의 비뚤림위험(RoB)은 낮았으나 무작위대조시험(RCT)의 비뚤림위험(RoB 2)은 높았다.
+
+OD가 1차 안정성을 향상시키는 것으로 보이나, RCT의 높은 비뚤림위험으로 인해 근거 수준이 제한적이므로 고품질 무작위 연구가 추가로 필요하다.
+
+## Why Ingested
+
+[역소급 작성 2026-07-05 — 원 인제스트(2026-05-18) 당시 동기 기록 없음. [[overviews/osseodensification-clinical-applications]]에서 확인되는 현재 역할을 백필.] [[overviews/osseodensification-clinical-applications]]의 저밀도골(D3-D4) 결정표에서 OD 지지 근거 축 — bergamo-2021·mercier-2022·moghaddas-2025 등과 함께 지지 진영을 이루고, mohammadi-2025·shilpi-2025의 SR+MA 반례 2편과 대비되는 "지지 vs 반례" 구도의 한 축을 담당.
 
 ## 1. Document Information
 - Journal: Cureus 2023 (Published October 11, 2023)

@@ -6,7 +6,7 @@ date: 2021-04-26
 doi: 10.1002/14651858.CD010176.pub3
 source: atieh-2021-interventions-replacing-missing-teeth.md
 category: [bone-regeneration/ridge-preservation]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/atieh-2021-interventions-replacing-missing-teeth.pdf
 pdf_filename: atieh-2021-interventions-replacing-missing-teeth.pdf
 source_collection: external
@@ -20,11 +20,21 @@ relations:
     target: troiano-2018-bone-graft-membrane-ridge-preservation
 ---
 
-## One-line Summary
-2021 Cochrane update pooling 16 RCTs (524 sockets, 426 patients) — xenograft ARP still shows width −1.18 mm and height −1.35 mm advantage over natural healing, but GRADE certainty was downgraded to "very low," reversing the 2015 conclusion: clinical benefit of ARP is now "uncertain."
+## Three-line Summary
 
-## 한줄요약
-16 RCT·524 socket·426명을 종합한 2021 Cochrane update — xenograft ARP가 자연치유 대비 width −1.18 mm·height −1.35 mm 감소를 보이나 GRADE 등급이 "very low"로 강등; 2015 결론을 뒤집어 "ARP의 임상적 의미는 불확실"이 새 메시지.
+2021 Cochrane update (16 RCTs, 524 sockets, 426 patients) — the largest Cochrane review of ARP, doubling trial count from the 2015 version (8 RCTs) with pre-registered protocol.
+
+Xenograft ARP still shows statistically significant width −1.18 mm (95% CI −1.82 to −0.54) and height −1.35 mm (95% CI −2.00 to −0.70) advantage over natural healing, but GRADE certainty was downgraded to "very low" after stricter bias appraisal.
+
+The revised conclusion — "clinical benefit of ARP is uncertain" — reverses the 2015 "moderate evidence" finding; material-to-material comparisons remain inconclusive and implant survival data were insufficient.
+
+## 세줄요약
+
+2021 코크란 업데이트 (16개 무작위 대조 시험, 524 소켓, 426명): 2015년판(8 RCT)에서 시험 수가 두 배로 늘어난 치조제 보존술 (Alveolar Ridge Preservation, ARP) 최대 규모 코크란 리뷰.
+
+이종골 ARP가 자연치유 대비 폭 −1.18 mm · 높이 −1.35 mm 유의하게 감소시키지만, 비뚤림 위험·표본 크기·이질성 엄격 적용으로 근거 등급 (GRADE)이 "매우 낮음 (Very Low)"으로 강등.
+
+결론 역전 — 2015 "중등도 근거 이득" → 2021 "임상적 이득 불확실"; 이식재 간 우열 미확립, 임플란트 생존율 데이터 불충분.
 
 ## Summary
 Atieh의 2015 Cochrane review(.pub2)를 6년 만에 update한 .pub3 버전. 새 RCT 9편 추가로 trial 수가 두 배(8 → 16). 핵심 변화는 통계량(MD)이 아니라 **GRADE certainty의 강등**: 2015에서 "moderate"였던 xenograft vs extraction 비교가 2021에는 "very low"로 떨어졌다. 통계적 차이는 여전히 유의하나, Cochrane은 risk of bias·sample size·heterogeneity를 더 엄격히 적용해 "ARP가 정말 의미 있는 임상 이득을 주는지 자신 없다"로 결론을 바꿨다. 동시기 Avila-Ortiz 2019 SR+MA는 더 낙관적 결론이라 두 논문을 함께 읽어야 한다.

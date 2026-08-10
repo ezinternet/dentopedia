@@ -9,8 +9,21 @@ pdf_filename: enkling-2013-platform-switching-bone-level-3year-rct.pdf
 source_collection: external
 ---
 
-## One-line Summary
-3년 RCT: 플랫폼 스위칭(PS) vs 플랫폼 매칭(PM) — PS군에서 변연골 소실 유의하게 적음; 2피스 임플란트에서 PS의 골보존 효과 확인
+## Three-line Summary
+
+Multicenter (Berne/Witten/Bonn) 3-year RCT: 2-piece bone-level implant randomized to platform switching (PS) vs platform matching (PM) abutment, follow-up at 1, 2, 3 years with standardized periapical radiographs.
+
+PS group showed significantly less crestal bone loss over 3 years vs PM; benefit maintained through 36-month follow-up; no difference in implant survival between groups.
+
+3-year RCT extends prior short-term evidence on PS advantage; addresses controversy in the literature; confirms PS clinical benefit beyond 12-month follow-up.
+
+## 세줄요약
+
+다기관(스위스/독일) RCT (3년): 2-piece bone-level 임플란트에서 플랫폼 스위칭(PS) vs 플랫폼 매칭(PM) 무작위배정.
+
+PS군 변연골 소실 유의 적음 (3년 추적); 이식 실패 군간 차이 없음; PS 이점 36개월 지속.
+
+3년 장기 RCT로 12개월 이상 PS 효과 확인; 플랫폼 스위칭 골보존 메커니즘 임상 근거 강화.
 
 ## 1. Document Information
 - **Title**: Influence of Platform Switching on Bone-level Alterations: A Three-year Randomized Clinical Trial

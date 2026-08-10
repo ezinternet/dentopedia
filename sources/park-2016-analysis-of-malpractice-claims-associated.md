@@ -13,11 +13,21 @@ source_collection: external
 
 수술부위감염(SSI)이 분쟁·소송으로 이어지는 메커니즘과, 법원이 의사 책임을 인정하는 구체적 사유를 한국 판례로 보여줌. 발치·임플란트 등 외과적 치과 술식의 술후 감염 분쟁에 직접 대응하는 medico-legal 근거로, 같은 연구팀의 합의서 연구 [[complaint-management/kwon-2017-analysis-of-the-legal-effect]]와 짝을 이루고 기존 medico-legal 적용층 [[complaint-management/JISPCD-14-295]]을 "감염 책임" 축으로 보강한다.
 
-## One-line Summary
+## Three-line Summary
+
 Retrospective review of 40 Korean plastic-surgery SSI malpractice precedents (2010–2015): 34/40 won by plaintiffs, mean award 2.83M KRW, with liability driven by failure to culture/treat, failure to refer, poor infection control, and absent preoperative infection consent.
 
-## 한줄요약
-한국 성형외과 SSI 의료소송 판례 40건(2010–2015) 후향 분석 — 34건 원고 승소, 평균 배상 283만원; 배상 사유는 배양·항생제 미시행, 상급병원 미전원, 부적절한 감염관리, 술전 감염 설명 부재.
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
+한국 성형외과 SSI 의료소송 판례 40건(2010–2015) 후향 분석 — 34건 원고 승소, 평균 배상 283만원;
+
+배상 사유는 배양·항생제 미시행, 상급병원 미전원, 부적절한 감염관리, 술전 감염 설명 부재.
+
+(incomplete)
 
 ## 1. Document Information
 - J Korean Med Sci 2016;31(12):1963–1968. Original Article (Surgery).

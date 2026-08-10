@@ -6,7 +6,7 @@ date: 2021-06-26
 doi: 10.1016/j.aanat.2021.151793
 source: santana-mora-2021-asymmetry-chewing-chronic-tmd.md
 category: [tmj]
-confidence: cross-sectional
+evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/santana-mora-2021-asymmetry-chewing-chronic-tmd.pdf
 pdf_filename: santana-mora-2021-asymmetry-chewing-chronic-tmd.pdf
 source_collection: external
@@ -20,13 +20,21 @@ relations:
     target: decarli-2023-mandibular-condyle-unilateral-masticatory-function
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Cross-sectional double-blind study (n=24, chronic unilateral TMD, untreated normal occlusion): the habitual chewing side coincided with the TMD-painful side in 15/17 (Kappa=0.767), and the affected side had a steeper condylar path (50.5° vs 45.5°, P=0.002) and flatter lateral guidance (38.0° vs 47.5°, P<0.001).
+Cross-sectional double-blind study (n=24, DC/TMD-diagnosed chronic unilateral TMD, Angle Class I untreated-occlusion patients only) comparing condylar path (CP) and lateral guidance (LG) angles between painful and non-painful sides using axiography and kinesiography.
 
-## 한줄요약
+Habitual chewing side matched the TMD-painful side in 15/17 participants (Kappa=0.767, risk estimate 4.5); affected side had steeper CP (50.5° vs 45.5°, P=0.002) and flatter LG (38.0° vs 47.5°, P<0.001); LG was flatter on the affected side in 100% of participants.
 
-교합치료 이력 없는 정상교합 만성 편측 TMD 환자 24명 단면연구: 습관저작측이 통증측과 일치(17명 중 15명, Kappa=0.767)했고, 통증측은 과로각이 더 가파르고(50.5° vs 45.5°, P=0.002) 측방유도각이 더 평평했다(38.0° vs 47.5°, P<0.001).
+By restricting to untreated natural occlusion, the study removes the occlusal-therapy confounder and implicates a self-reinforcing loop (flatter LG → preferential ipsilateral chewing → TMJ overload → CP remodeling); neither CP nor LG recording has sensitivity/specificity to screen for TMD individually.
+
+## 세줄요약
+
+단면 이중맹검 연구 (n=24, DC/TMD 만성 편측 TMD, 교합 치료 이력 없는 Angle I급 정상교합): 공리운동검사·운동기록계로 통증측·비통증측 과로각(CP)·측방유도각(LG) 비교.
+
+습관저작측이 통증측과 일치(17명 중 15명, Kappa=0.767, 위험 추정치 4.5); 통증측에서 CP 더 가파름(50.5° vs 45.5°, P=0.002), LG 더 평탄(38.0° vs 47.5°, P<0.001); 전원에서 통증측 LG 더 평탄.
+
+교합치료 미수행 표본으로 교란 요인을 제거하고 "평탄 LG → 편측저작 → TMJ 과부하 → CP 리모델링" 자기강화 순환을 시사; CP·LG 기록 자체는 TMD 진단의 단독 감도·특이도 없음.
 
 ## Summary
 

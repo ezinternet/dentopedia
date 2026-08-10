@@ -11,8 +11,21 @@ pdf_filename: oza-2022-universal-adhesive-nccl-rct-2year.pdf
 source_collection: external
 ---
 
-## One-line Summary
-RCT (234 NCCLs, 34 patients, 24 months): Clearfil Universal Bond Quick in SE mode — clinically unacceptable (6/234 lost); SLE and E&R modes acceptable; Clearfil SE Bond 4/234 lost; pure SE mode inferior for universal adhesive.
+## Three-line Summary
+
+RCT (234 NCCLs, 34 patients, 24 months): Clearfil Universal Bond Quick in SE mode — clinically unacceptable (6/234 lost)
+
+SLE and E&R modes acceptable
+
+Clearfil SE Bond 4/234 lost; pure SE mode inferior for universal adhesive.
+
+## 세줄요약
+
+무작위 대조 시험 (RCT) (234 NCCLs, 34 patients, 24 months): Clearfil Universal Bond Quick in SE mode — 임상적 (Clinical)ly unacceptable (6/234 lost)
+
+SLE and E&R modes acceptable
+
+Clearfil SE Bond 4/234 lost; pure SE mode inferior for universal adhesive.
 
 ## 1. Document Information
 Hacettepe University, Ankara, Turkey. Journal of Adhesive Dentistry 2022. 2-year 5-arm RCT on universal adhesive application modes in NCCLs. Largest arm count among bonding RCTs.

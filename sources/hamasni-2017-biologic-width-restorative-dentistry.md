@@ -13,13 +13,21 @@ source_collection: external
 
 Provides the measured-dimension basis for the biologic-width concept that the perio-restorative batch relies on — it contrasts clinically measured biologic width with the textbook Gargiulo histologic mean (2.04 mm), directly informing how subgingival margins are positioned in [[wiki/periodontics/ercoli-2021-fixed-dental-prostheses-restorations-periodontium]] and the violation/correction approach in [[wiki/periodontics/alam-2024-supracrestal-tissue-attachment-biologic-width]].
 
-## One-line Summary
+## Three-line Summary
 
 Clinical study (42 patients, 504 sites/126 teeth, bone-sounding under anesthesia) finding mean clinical biologic width 1.13 mm (significantly less than Gargiulo's 2.04 mm histologic value) and mean sulcus depth 1.96 mm (significantly greater than 0.69 mm), arguing for site-specific rather than fixed-value margin planning.
 
-## 한줄요약
+(incomplete)
 
-임상연구(환자 42명, 126개 치아 504부위, 마취하 bone-sounding) — 평균 임상 biologic width 1.13 mm(Gargiulo 2.04 mm보다 유의하게 작음), 평균 sulcus depth 1.96 mm(0.69 mm보다 유의하게 큼)로, 고정값이 아닌 site-specific 변연 계획을 권고.
+(incomplete)
+
+## 세줄요약
+
+임상 측정 연구 (계통적으로 건강한 성인 42명, 126개 치아 504개 부위, 마취하 probe-guided bone sounding) — 생체 너비 (Biologic Width, BW) 및 설부 깊이 (Sulcus Depth, SD)를 직접 측정.
+
+평균 임상 biologic width 1.13 mm (교과서 Gargiulo 조직학 값 2.04 mm보다 유의하게 작음), 평균 sulcus depth 1.96 mm (0.69 mm보다 유의하게 큼).
+
+고정된 "magic number" BW 대신 환자 및 부위별 맞춤형 (Site-specific) 설하 변연 계획을 권고; 치조제까지의 거리는 해부학적 변이가 큼.
 
 ## 1. Document Information
 

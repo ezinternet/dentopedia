@@ -17,13 +17,21 @@ text_filename: cucchi-2021-cadcam-titanium-mesh-resorbable-membrane-rct.txt
 
 GBR 6패널 분류 인터랙티브 도구(Panel IV)의 핵심 근거 논문. CAD/CAM 맞춤형 Ti mesh에 흡수성 막을 추가하는 것(Mesh+)이 막 없이 사용하는 것(Mesh-)보다 치유 합병증·골재생률을 유의하게 개선하는지를 최초로 RCT로 검증. "막 추가군 수치상 우수(합병증 13% vs 33%, RR 82% vs 74%)이나 비열등성 검정 inconclusive" — Panel IV 사용 결정에 직접 영향. [[wiki/implants/vertical-ridge-augmentation/cucchi-2017-dptfe-membrane-vs-titanium-mesh-collagen-rct]] 계열에 추가되는 막 유무 비교 근거.
 
-## One-line Summary
+## Three-line Summary
 
-RCT (n=30) comparing CAD/CAM customized Ti mesh alone (Mesh−, 33% complications) vs with cross-linked collagen membrane (Mesh+, 13% complications) for vertical/horizontal ridge augmentation: non-inferiority inconclusive; all outcomes numerically favor Mesh+ but NS.
+Non-inferiority RCT (n=30, 71 implants) comparing CAD/CAM customized Ti mesh alone (Mesh−) vs Ti mesh + cross-linked collagen membrane (Mesh+) for vertical/horizontal ridge augmentation; 6-month re-entry with CBCT volumetric analysis.
 
-## 한줄요약
+Mesh+ numerically outperformed Mesh− (healing complications 13% vs 33%; VBG 6.4 vs 4.7 mm; regeneration rate 82% vs 74%) but non-inferiority testing was inconclusive for both primary outcomes (CI included both the non-inferiority margin and zero).
 
-RCT(n=30): CAD/CAM 맞춤형 Ti 메시 단독(합병증 33%) vs +가교화 콜라겐막(13%)으로 수직·수평 골증대 — 비열등성 검정 inconclusive; 막 추가군 수치상 우수하나 모두 유의차 없음.
+Small sample (n=15/group) was underpowered for superiority; no post-loading follow-up was reported, leaving long-term bone stability unknown.
+
+## 세줄요약
+
+비열등성 RCT (n=30, 임플란트 71개) — CAD/CAM 맞춤형 Ti 메쉬 단독(Mesh−) vs Ti 메쉬 + 가교화 콜라겐막(Mesh+)의 수직·수평 골증대 비교; 6개월 재진입 + CBCT 체적 분석.
+
+Mesh+가 수치상 우수(치유 합병증 13% vs 33%; 수직골증대 6.4 vs 4.7 mm; 재생률 82% vs 74%)하나, 양대 1차 결과 모두 비열등성 검정 inconclusive(신뢰구간이 비열등성 한계와 0 모두 포함).
+
+군당 n=15로 우월성 검정 미달; 보철 부하 후 추적 없어 장기 골 안정성 미보고.
 
 ## 1. Document Information
 

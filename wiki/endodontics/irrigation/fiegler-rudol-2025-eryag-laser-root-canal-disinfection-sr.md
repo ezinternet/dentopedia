@@ -6,7 +6,7 @@ date: 2025-02-26
 doi: 10.3390/dj13030101
 source: fiegler-rudol-2025-eryag-laser-root-canal-disinfection-sr.md
 category: [endodontics/irrigation]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/fiegler-rudol-2025-eryag-laser-root-canal-disinfection-sr.pdf
 pdf_filename: fiegler-rudol-2025-eryag-laser-root-canal-disinfection-sr.pdf
 source_collection: external
@@ -18,13 +18,21 @@ relations:
     target: boutsioukis-2022-irrigants-irrigation-methods-status-directions
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (15 studies, 2015–2025) finding Er:YAG laser-activated irrigation (PIPS/SWEEPS) consistently improved root canal disinfection, biofilm disruption, and smear-layer removal over conventional and ultrasonic methods, and enabled lower NaOCl concentrations — though heterogeneous protocols limit pooling and clinical generalization.
+PRISMA 2020 systematic review of 15 studies (2015–2025) evaluating Er:YAG laser-activated irrigation (PIPS/SWEEPS) for root canal disinfection against conventional and ultrasonic comparators.
 
-## 한줄요약
+All 15 studies favored Er:YAG activation for disinfection and smear-layer removal — especially at the apical third and in dentinal tubules — and two recurring practice-relevant findings were laser activation permitting lower NaOCl concentrations and potential reduction in postoperative discomfort.
 
-15편(2015–2025)을 모은 체계적 문헌고찰: Er:YAG 레이저 활성화 세정(PIPS/SWEEPS)은 기존·초음파 방법보다 근관 소독·biofilm 파괴·smear layer 제거를 일관되게 향상시켰고 NaOCl 농도를 낮춰도 효과를 유지했으나, 프로토콜 이질성이 커 통합·임상 일반화에는 한계가 있다.
+Protocol and parameter heterogeneity across studies precluded meta-analysis and firm clinical guidelines, positioning Er:YAG LAI as a promising adjunct that still lacks definitive evidence for superior clinical outcomes.
+
+## 세줄요약
+
+Er:YAG 레이저 활성화 세정(PIPS/SWEEPS)을 평가한 15편(2015–2025) PRISMA 2020 체계적 문헌고찰.
+
+포함된 15편 전부에서 Er:YAG 활성화가 기존·초음파 대비 소독·스미어층 제거 우월(특히 치근단 1/3·상아세관 내부) — NaOCl 농도 감량 가능성과 술후 불편감 감소도 반복 확인.
+
+프로토콜·파라미터 이질성으로 메타분석 불가, 임상 일반화 한계 — Er:YAG LAI는 잠재력 있는 보조요법이나 확정적 임상 근거는 아직 부족.
 
 ## Summary
 

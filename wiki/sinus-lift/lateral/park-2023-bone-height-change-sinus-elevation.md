@@ -6,19 +6,28 @@ date: 2023-06-12
 doi: 10.3390/medicina59061132
 source: park-2023-bone-height-change-sinus-elevation.md
 category: sinus-lift/lateral
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/park-2023-bone-height-change-sinus-elevation.pdf
 pdf_filename: park-2023-bone-height-change-sinus-elevation.pdf
 source_collection: external
 tags: [crestal-approach, lateral-approach, sinus-elevation, 3-year-follow-up, bone-resorption, korea]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective longitudinal cohort (n=103 Korean patients, 3-year follow-up) comparing two sinus floor elevation approaches: the lateral (Tatum) window achieved greater graft height gain (12.00 mm) than the crestal (Summers) approach (8.07 mm), but 3-year resorption was nearly identical (0.95 vs 0.98 mm) and concentrated in Year 1 — so approach choice by residual bone height does not affect long-term graft stability.
+Retrospective longitudinal cohort (n=103 Korean patients, 3-year panoramic follow-up at Kyungpook National University) comparing crestal (Summers osteotome) vs lateral (Tatum window) sinus floor elevation approaches selected by residual bone height.
 
-## 한줄요약
-후향적 종단 코호트 (Retrospective longitudinal, n=103 Korean patients, 3-year follow-up): 측방 접근 (Lateral Window) 12.00 mm vs 치조정 접근 (Crestal Approach, Summers) 8.07 mm 의 graft height gain — 그러나 3년간 흡수 (Resorption) 는 거의 동일 (0.95 vs 0.98 mm), 대부분 1년차에 발생. 잔존 골 높이 (Residual Bone Height, RBH) 에 따른 술식 선택이 장기 안정성에는 차이를 주지 않는다.
+Lateral approach achieved greater graft height gain (12.00 mm vs 8.07 mm crestal), but 3-year total resorption was nearly identical (0.95 vs 0.98 mm) and concentrated in the first year for both.
+
+Approach selection by residual bone height (≥4 mm crestal, <4 mm lateral) does not compromise long-term graft stability; year-1 resorption determines final graft height for both techniques.
+
+## 세줄요약
+
+후향적 종단 코호트 (n=103명, 3년 파노라마 추적, 경북대): 잔존골 높이 (Residual Bone Height, RBH) 에 따른 치조정 접근 (Crestal Approach, Summers) vs 측방창 접근 (Lateral Window Approach, Tatum) 상악동거상술 비교.
+
+측방 접근이 절대 골 높이 이득 더 큼 (12.00 mm vs 8.07 mm); 그러나 3년 총 흡수량은 거의 동일 (0.95 vs 0.98 mm), 대부분 1년차에 집중.
+
+RBH 기반 술식 선택 (RBH ≥4 mm → 치조정, <4 mm → 측방) 은 장기 이식골 안정성에 차이를 주지 않음; 두 술식 모두 1년차 흡수가 최종 높이를 결정.
 
 ## Summary
 경북대 치과병원의 후향적 cohort: 103명 상악 구치부 임플란트 + sinus floor elevation 환자를 crestal vs lateral approach 로 나누어 술후 즉시, 1년, 2년, 3년 시점 orthopantomograph 로 graft 높이를 추적했다. **lateral** 이 절대 graft 높이는 약 4 mm 더 크지만, 흡수율은 동일하게 ~1 mm/3 year, 그 중 대부분이 첫 해 발생. 임플란트 술자의 선택 기준은 RBH (≥4 mm crestal, <4 mm lateral) — 장기 안정성 우려로 한쪽을 배제할 필요 없음.

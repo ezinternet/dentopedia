@@ -1,0 +1,21 @@
+ABSTRACT ONLY — full text not available via PMC.
+
+Title: Non-surgical management of peri-implantitis with photodynamic therapy: A systematic review and meta-analysis of clinical parameters and biomarkers.
+Authors: Srinivasan M, Kamnoedboon P, Nantanapiboon D, Papi P, Romeo U.
+Journal: Journal of Dentistry. 2025;157:105680.
+DOI: 10.1016/j.jdent.2025.105680
+PMID: 40081730
+
+OBJECTIVE: To evaluate the clinical and biomarker outcomes of photodynamic therapy (PDT) as an adjunct to non-surgical mechanical debridement (MD) in the management of peri-implantitis, and to compare its efficacy to MD alone or other non-surgical treatment modalities.
+
+METHODS: Electronic searches in PubMed, Web of Science, and CENTRAL were conducted. 4675 studies published until November 2023 were screened. Clinical studies reporting on non-surgical treatments involving PDT were selected. Meta-analyses assessed clinical parameters (bleeding on probing [BOP], probing depth [PD], plaque index [PI], crestal bone loss [CBL], clinical attachment level [CAL]) and biomarkers.
+
+RESULTS: A total of 25 studies were included. The meta-analysis of randomized controlled trials revealed that both MD alone and MD+PDT significantly improved clinical and biomarker outcomes compared to baseline. The addition of PDT provided greater improvements at 3 months for:
+- BOP: SMD=0.90 (95% CI: 1.53 to -0.28; p=0.005)
+- PD: SMD=1.15 (95% CI: 1.72 to -0.58; p<0.0001)
+- PI: SMD=0.74 (95% CI: 1.15 to -0.33; p=0.0004)
+- CBL: SMD=0.38 (95% CI: 0.73 to -0.03; p=0.04)
+
+Additional PDT benefits were less pronounced on CAL, mucosal recession, and inflammatory biomarkers. No significant changes over extended follow-up periods.
+
+CONCLUSIONS: Adjunct PDT significantly enhanced clinical outcomes particularly in the short term, with most notable benefits in BOP, PD, PI, and CBL reductions. Benefits for CAL, mucosal recession, and inflammatory biomarkers remain limited. Standardized protocols and long-term studies are warranted.

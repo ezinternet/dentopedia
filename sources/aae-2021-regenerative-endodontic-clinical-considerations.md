@@ -3,14 +3,27 @@ title: "AAE Clinical Considerations for a Regenerative Procedure (Revised 2021)"
 authors: American Association of Endodontists (AAE)
 year: 2021
 doi: N/A
-category: ['endodontics']
+category: ['endodontics/regenerative']
 pdf_path: /Users/oracleneo/llm-wiki/papers/aae-2021-regenerative-endodontic-clinical-considerations.pdf
 pdf_filename: aae-2021-regenerative-endodontic-clinical-considerations.pdf
 source_collection: external
 ---
 
-## One-line Summary
-AAE 재생 근관치료 임상 고려사항 2021 개정판: 술식 단계별 권고.
+## Three-line Summary
+
+Consensus guidance document (AAE, 2021 revision) providing step-by-step clinical recommendations for regenerative endodontic procedures (REP) in immature permanent teeth.
+
+First visit: disinfection with 1.5% NaOCl + 17% EDTA and antibiotic medication (Ca(OH)₂ or triple antibiotic paste at ≤1 mg/mL); second visit: blood-clot/PRP/PRF scaffold induction, MTA barrier, provisional restoration.
+
+Scope extended to consider REP in some mature teeth; comparative RCT evidence remains limited, making this expert consensus rather than high-certainty evidence.
+
+## 세줄요약
+
+합의 가이드라인 문서 (AAE, 2021 개정판) — 미성숙 영구치 재생근관치료(Regenerative Endodontic Procedure, REP) 단계별 임상 권고.
+
+1차 내원: 1.5% NaOCl + 17% EDTA 세정 + 항균제(Ca(OH)₂ 또는 삼중항생제 풀(Triple Antibiotic Paste) ≤1 mg/mL 적용); 2차 내원: 혈전/PRP/PRF 스캐폴드 유도, MTA 차폐, 임시 수복.
+
+일부 성숙 치근까지 적응증 확장; 비교 RCT 부족으로 전문가 합의 수준 근거.
 
 ## 1. Document Information
 - **Title**: AAE Clinical Considerations for a Regenerative Procedure (Revised 2021)
@@ -36,7 +49,7 @@ AAE 근거 기반 임상 가이드라인; 2021년 개정.
 비교 RCT 부족; 성인 치아 적용 근거 미흡.
 
 ## 6. Related Work
-- [[endodontics/wei-2022-regenerative-endodontic-expert-consensus]] — related
+- [[endodontics/regenerative/wei-2022-regenerative-endodontic-expert-consensus]] — related
 - [[endodontics/sellami-2023-regenerative-endodontic-microbiology-outcome]] — related
 
 ## 7. Glossary

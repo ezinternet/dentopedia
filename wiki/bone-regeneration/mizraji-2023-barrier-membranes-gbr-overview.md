@@ -7,7 +7,7 @@ doi: 10.1111/prd.12502
 pmid: "37855164"
 source: mizraji-2023-barrier-membranes-gbr-overview.md
 category: [bone-regeneration]
-confidence: narrative-review
+evidence_level: narrative-review
 text_path: /Users/oracleneo/llm-wiki/papers/mizraji-2023-barrier-membranes-gbr-overview.txt
 text_filename: mizraji-2023-barrier-membranes-gbr-overview.txt
 source_collection: pubmed-text
@@ -15,13 +15,21 @@ full_text: false
 tags: [GBR, membrane, PTFE, d-PTFE, titanium-mesh, collagen, cross-linked-collagen, resorbable, non-resorbable, Periodontology-2000]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Periodontology 2000 review (2023): Comprehensive overview of all GBR barrier membranes — resorbable (collagen/XL-collagen/synthetic/pericardium) vs non-resorbable (d-PTFE/e-PTFE/Ti mesh/Ti-PTFE) — covering characteristics, advantages, disadvantages, and updated meta-analyses.
+Narrative review in Periodontology 2000 (2023) synthesizing all major GBR barrier membrane categories — resorbable (native collagen, cross-linked collagen, synthetic PLGA/PLA, pericardium) and non-resorbable (e-PTFE, d-PTFE, titanium mesh, Ti-PTFE) — across characteristics, clinical outcomes, and updated meta-analyses.
 
-## 한줄요약
+Space maintenance ranks Ti mesh > Ti-PTFE > d-PTFE > cross-linked collagen > native collagen, while exposure risk is highest for Ti mesh (7–66%) and cross-linked collagen (~30% higher than native); non-resorbable membranes require second surgery while all resorbable types do not.
 
-Periodontology 2000 종설 (2023): 흡수성(콜라겐·가교화 콜라겐·합성·심막) vs 비흡수성(d-PTFE·e-PTFE·Ti 메쉬·Ti-PTFE) 모든 GBR 차폐막의 특성·장단점·최신 메타분석을 종합한 최권위 개요.
+Large vertical defects favor non-resorbable barriers; ridge preservation and socket sealing are adequately managed with resorbable membranes, with cross-linked collagen enabling open-healing protocols.
+
+## 세줄요약
+
+Periodontology 2000 종설(2023): 흡수성(콜라겐·가교화·합성·심막) vs 비흡수성(d-PTFE·e-PTFE·Ti 메쉬·Ti-PTFE) 전 카테고리 GBR 차폐막의 특성·임상결과·최신 메타분석 종합.
+
+공간유지력 위계: Ti 메쉬 > Ti-PTFE > d-PTFE > 가교화 콜라겐 > 비가교화 콜라겐; 막 노출 위험: Ti 메쉬(7–66%) > 가교화 콜라겐(비가교화 대비 ~30%↑) > d-PTFE(~15%, 개방치유 허용).
+
+큰 수직 결손은 비흡수성 막, 치조제 보존·소켓 실링은 흡수성 막으로 충분; 가교화 콜라겐은 개방치유 적용 가능.
 
 ## Summary
 

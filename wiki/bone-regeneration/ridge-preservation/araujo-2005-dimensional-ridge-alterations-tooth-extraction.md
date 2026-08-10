@@ -6,7 +6,7 @@ date: 2005-01-01
 doi: 10.1111/j.1600-051X.2005.00642.x
 journal: J Clin Periodontol 2005;32:212-218
 source: araujo-2005-dimensional-ridge-alterations-tooth-extraction.md
-confidence: animal
+evidence_level: animal
 category: [bone-regeneration/ridge-preservation]
 pdf_path: /Users/oracleneo/llm-wiki/papers/araujo-2005-dimensional-ridge-alterations-tooth-extraction.pdf
 pdf_filename: araujo-2005-dimensional-ridge-alterations-tooth-extraction.pdf
@@ -14,11 +14,21 @@ source_collection: external
 tags: [bundle-bone, buccal-resorption, tooth-extraction, animal-study, histology, landmark-paper]
 ---
 
-## One-line Summary
-Dog histology landmark paper: buccal resorption exceeds lingual after extraction; Phase 1 bundle-bone loss + Phase 2 external-surface resorption; immediate implant placement does not prevent buccal collapse.
+## Three-line Summary
 
-## 한줄요약
-犬 조직학 기준논문: 발치 후 협측>설측 흡수; Phase1 bundle bone 소실 + Phase2 외표면 흡수; 즉시임플란트도 협측 붕괴 예방 불가
+Dog histological landmark study: serial sacrifice at 1/2/4/8 weeks post-extraction reveals that buccal ridge resorption markedly exceeds lingual resorption due to the buccal crest being composed exclusively of bundle bone.
+
+Two-phase resorption mechanism first described — Phase 1: rapid bundle bone loss after loss of periodontal ligament vasculature; Phase 2: ongoing external-surface osteoclastic resorption on both buccal and lingual plates.
+
+Immediate implant placement does not prevent buccal collapse, establishing the biological rationale for alveolar ridge preservation and grafting at extraction.
+
+## 세줄요약
+
+개 하악 조직학 기준 논문 (Landmark Paper): 발치 후 1·2·4·8주 연속 희생 분석 — 협측 치조정은 다발골 (Bundle Bone)로만 구성되어 발치 직후 치주인대 혈행 소실 시 급격 흡수.
+
+2단계 흡수 기전 최초 기술 — 1단계: 다발골 소실 (Phase 1); 2단계: 파골세포에 의한 협·설 외표면 흡수 (Phase 2).
+
+협측 > 설측 소실의 생물학적 근거 확립, 즉시 임플란트만으로 협측 붕괴 예방 불가 — 발치와 보존술 (Alveolar Ridge Preservation, ARP) 필요성의 생물학적 기초.
 
 ## Summary
 개 하악 소구치 발치 후 1/2/4/8주 조직학적 분석. 순측골 소실이 설측보다 현저히 크며, **Phase 1(bundle bone 흡수)** + **Phase 2(외측면 파골세포 흡수)** 두 단계 기전 최초 기술. 발치 후 순측골 소실의 생물학적 근거를 제공한 landmark paper.

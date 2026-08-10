@@ -14,15 +14,23 @@ text_filename: hussein-2026-subcutaneous-emphysema-subgingival-air-polishing-cas
 
 ## Why Ingested
 
-Documents a serious safety complication — subcutaneous facial emphysema (SFE) — of subgingival glycine air-polishing, a necessary caveat to the largely favorable Guided Biofilm Therapy / air-polishing evidence. Refines [[periodontics/cyris-2024-guided-biofilm-therapy-versus-conventional]] by adding a device-/protocol-specific safety qualifier: SFE can occur even during supportive periodontal therapy at sites without BOP or suppuration, so air-polishing safety must not be generalised across devices and protocols.
+Documents a serious safety complication — subcutaneous facial emphysema (SFE) — of subgingival glycine air-polishing, a necessary caveat to the largely favorable Guided Biofilm Therapy / air-polishing evidence. Refines [[periodontics/non-surgical-instrumentation/cyris-2024-guided-biofilm-therapy-versus-conventional]] by adding a device-/protocol-specific safety qualifier: SFE can occur even during supportive periodontal therapy at sites without BOP or suppuration, so air-polishing safety must not be generalised across devices and protocols.
 
-## One-line Summary
+## Three-line Summary
 
-Case report: glycine-based subgingival air polishing with a subgingival nozzle in a 5 mm pocket caused subcutaneous facial emphysema (periorbital + cheek swelling), requiring 3-day hospitalisation and antibiotics, with full recovery. (abstract-only — full text not retrieved)
+Case report: glycine-based subgingival air polishing with a subgingival nozzle in a 5 mm pocket caused subcutaneous facial emphysema (periorbital + cheek swelling), requiring 3-day hospitalisation and antibiotics, with full recovery.
 
-## 한줄요약
+(abstract-only — full text not retrieved)
 
-증례보고: 5 mm 치주낭에 글라이신(glycine) 치은연하 노즐로 air polishing 시행 후 안면 피하기종(subcutaneous facial emphysema)이 발생해 안와주위·뺨 부종으로 3일 입원·항생제 투여 후 완전 회복. 치은연하 air polishing의 드물지만 중대한 합병증을 경고. (abstract-only — 전문 미확보)
+(incomplete)
+
+## 세줄요약
+
+증례보고: 5 mm 치주낭에 글라이신(glycine) 치은연하 노즐로 air polishing 시행 후 안면 피하기종(subcutaneous facial emphysema)이 발생해 안와주위·뺨 부종으로 3일 입원·항생제 투여 후 완전 회복.
+
+치은연하 air polishing의 드물지만 중대한 합병증을 경고.
+
+(abstract-only — 전문 미확보)
 
 ## 1. Document Information
 
@@ -57,7 +65,7 @@ Case report: glycine-based subgingival air polishing with a subgingival nozzle i
 
 ## 6. Related Work
 
-- Refines the favorable air-polishing / Guided Biofilm Therapy evidence (see [[periodontics/cyris-2024-guided-biofilm-therapy-versus-conventional]]) with a device-/protocol-specific safety caveat.
+- Refines the favorable air-polishing / Guided Biofilm Therapy evidence (see [[periodontics/non-surgical-instrumentation/cyris-2024-guided-biofilm-therapy-versus-conventional]]) with a device-/protocol-specific safety caveat.
 
 ## 7. Glossary
 

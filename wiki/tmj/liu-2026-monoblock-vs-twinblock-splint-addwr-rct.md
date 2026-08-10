@@ -6,7 +6,7 @@ date: 2026-03-07
 doi: 10.1111/joor.70179
 source: liu-2026-monoblock-vs-twinblock-splint-addwr-rct.md
 category: [tmj]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: true
 pmid: "41793287"
@@ -20,11 +20,21 @@ relations:
 tags: [tmd, occlusal-splint, anterior-repositioning-splint, mono-block, twin-block, addwr, disc-displacement, cbct]
 ---
 
-## One-line Summary
-Open-label RCT (n=118, ADDwR) — a novel one-piece Mono-Block (nMB) anterior repositioning splint beat the Twin-Block (TB) on joint-noise reduction (T6 82.1% vs 54.4%, p=0.001) and patient comfort/stability, while pain relief, mouth opening, and CBCT disc-condyle position were equivalent; neither splint durably repositioned the disc.
+## Three-line Summary
 
-## 한줄요약
-공개표지 RCT (n=118, 정복성 전방관절원판변위 ADDwR) — 신규 일체형 단일블록 전방재위치장치(novel Mono-Block, nMB)가 트윈블록(Twin-Block, TB)보다 관절잡음 감소(6개월 82.1% vs 54.4%, p=0.001)와 편안함·안정성에서 우월; 통증·최대개구량(MMO)·CBCT 과두-와 위치는 동등하고 두 장치 모두 관절원판을 지속적으로 정복시키지는 못함.
+Open-label RCT (n=118, MRI/DC-TMD-confirmed ADDwR, single centre) comparing a novel one-piece Mono-Block (nMB) vs modified Twin-Block (TB) anterior repositioning splint worn nighttime-only for 6 months.
+
+nMB was superior for joint-noise reduction at T6 (82.1% vs 54.4%, p=0.001) and patient-rated comfort/stability; pain relief, mouth opening (35→42 mm), and CBCT condyle-fossa position changes were equivalent, and neither splint achieved durable disc repositioning.
+
+ARS design affects nocturnal stability and joint-noise control even when pain/MMO outcomes converge; CBCT confirmed no lasting disc position change, reinforcing that ARS therapy is symptom-directed rather than disc-repositioning.
+
+## 세줄요약
+
+공개표지 RCT (n=118, MRI·DC/TMD 확진 정복성 전방관절원판변위, 단일기관): 일체형 단일블록 전방재위치장치(nMB) vs 수정 트윈블록(TB), 야간 착용 6개월 비교.
+
+nMB가 관절잡음 감소 우월(T6 82.1% vs 54.4%, p=0.001)이고 편안함·안정성 만족도 높음; 통증 완화, 최대개구량(35→42 mm), CBCT 과두-와 위치 변화는 동등하며 두 장치 모두 관절원판을 지속 정복시키지 못함.
+
+장치 디자인이 야간 안정성·관절잡음에 영향을 미치나 통증·MMO 결과는 수렴; CBCT로 확인된 비정복은 전방재위치장치 치료가 증상 지향 치료임을 재확인하며 관절원판 재위치 치료가 아님을 강조.
 
 ## Summary
 

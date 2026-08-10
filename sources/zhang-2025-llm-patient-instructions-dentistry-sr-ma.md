@@ -9,8 +9,21 @@ pdf_filename: zhang-2025-llm-patient-instructions-dentistry-sr-ma.pdf
 source_collection: external
 ---
 
-## One-line Summary
-J Prosthodont 2025 (Early View, pub 10 Dec 2025) — SR+MA of 25 studies on LLMs (ChatGPT, Bard, Bing) answering dental patient inquiries; pooled accuracy 81.87% (95% CI 77.24–86.51%), clinical acceptability 69.9% (57.3–82.6%); ChatGPT-3.5 > Bing, NS vs ChatGPT-4.0/Bard.
+## Three-line Summary
+
+J Prosthodont 2025 (Early View, pub 10 Dec 2025) — SR+MA of 25 studies on LLMs (ChatGPT, Bard, Bing) answering dental patient inquiries
+
+pooled accuracy 81.87% (95% CI 77.24–86.51%), clinical acceptability 69.9% (57.3–82.6%)
+
+ChatGPT-3.5 > Bing, NS vs ChatGPT-4.0/Bard.
+
+## 세줄요약
+
+J Prosthodont 2025 (Early View, pub 10 Dec 2025) — 체계적 고찰 및 메타분석 (SR+MA) of 25 studies on LLMs (ChatGPT, Bard, Bing) answering dental patient inquiries
+
+pooled accuracy 81.87% (95% CI 77.24–86.51%), 임상적 (Clinical) acceptability 69.9% (57.3–82.6%)
+
+ChatGPT-3.5 > Bing, NS vs ChatGPT-4.0/Bard.
 
 ## 1. Document Information
 - Journal: Journal of Prosthodontics 2025 (Early View)

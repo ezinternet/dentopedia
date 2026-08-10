@@ -6,18 +6,28 @@ date: 2019-11-01
 doi: 10.4317/medoral.23108
 source: witek-2019-osseodensification-trabecular-tantalum-implants-sheep.md
 category: [implants/surface]
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/witek-2019-osseodensification-trabecular-tantalum-implants-sheep.pdf
 pdf_filename: witek-2019-osseodensification-trabecular-tantalum-implants-sheep.pdf
 source_collection: external
 tags: [osseodensification, trabecular-tantalum, porous-implant, sheep, BIC, BAFO, low-density-bone]
 ---
 
-## One-line Summary
-Sheep iliac-crest animal study (3 sheep, 18 porous trabecular tantalum implants, 3-week healing) comparing Regular vs osseodensification (OD) clockwise vs counterclockwise drilling: OD-CCW (densifying) significantly raised BAFO% versus Regular by packing bone chips into the porous network, while BIC and other measures showed no significant difference; proof-of-concept for OD × porous-implant interaction only.
+## Three-line Summary
 
-## 한줄요약
-동물 실험 (Sheep ilium, 3주 치유), n=3마리 (양측 장골 6개 부위, implant 18개) — 통상 드릴링 vs 골밀도화 (Osseodensification, OD) 시계방향 vs 반시계방향을 비교, 다공성 트라베큘러 탄탈럼 임플란트에서 OD-CCW가 골면적분율 (Bone Area Fraction Occupancy, BAFO)을 Regular 대비 유의하게 높였으나 골-임플란트 접촉률 (Bone-to-Implant Contact, BIC) 등 다른 지표는 유의차 없음. 3마리·3주만으로 표본·기간 모두 한계.
+Sheep iliac-crest animal study (3 sheep, 18 porous trabecular tantalum implants, 3-week healing) testing whether osseodensification drilling interacts specifically with porous-body implant architecture — first in vivo paper combining OD with trabecular tantalum.
+
+OD-CCW (densifying mode) significantly raised BAFO% versus Regular drilling by packing bone chips into the porous network; BIC and other measures showed no significant difference across drilling modes.
+
+Proof-of-concept for OD × porous-implant interaction only; the 3-sheep/3-week design is severely underpowered for BIC significance and findings do not generalize to standard solid-body implants.
+
+## 세줄요약
+
+양 장골능(Iliac Crest) 동물실험 (3마리, 다공성 트라베큘러 탄탈럼 (Trabecular Tantalum) 임플란트 18개, 3주 치유) — 골밀도화 (Osseodensification, OD) 드릴링이 다공성 임플란트 구조와 상호작용하는지 검증한 최초의 in vivo 연구.
+
+OD-CCW (밀도화 모드)가 통상 드릴링 대비 골면적분율 (Bone Area Fraction Occupancy, BAFO%)을 유의하게 높임 — 다공성 네트워크 내로 자가골 파편이 채워지는 기전; 골-임플란트 접촉률 (BIC) 등 다른 지표는 유의차 없음.
+
+OD × 다공성 임플란트 상호작용의 개념증명(proof-of-concept)에 한정; 3마리·3주 설계로 BIC 유의성 검정력 심각하게 부족, 표준 고체 임플란트에 일반화 불가.
 
 ## Summary
 Witek et al. paired osseodensification drilling with a porous trabecular tantalum (TM) implant body in a sheep iliac-crest low-density-bone model. Three osteotomy modes — Regular, OD clockwise (cutting), OD counter-clockwise (densifying) — were prepared in each ilium of three female sheep at 1100 rpm under saline irrigation. After 3 weeks of healing, ilia were harvested for non-decalcified histology and ImageJ-based histomorphometry.
@@ -54,8 +64,8 @@ Animal model: 3 female sheep, both ilia. Within each ilium, 3 osteotomies (Regul
 - The non-significant BIC%/OD-CW results should be reported as such, not waved away with "OD is generally better."
 
 ## Related Papers
-- [[implants/trisi-2016-osseodensification-low-density-bone-sheep]] — sheep OD on standard implants, complementary
-- [[implants/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — original OD technique
-- [[implants/lopez-2017-osseodensification-spinal-surgical-hardware-fixation]] — OD outside dental (spinal hardware)
-- [[implants/padhye-2020-osseodensification-systematic-review-qualitative-analysis]] — SR that catalogs this study
-- [[implants/inchingolo-2021-osseodensification-implant-site-osteotomy-sr-ma]] — SR+MA that pools this study
+- [[implants/osseodensification/trisi-2016-osseodensification-low-density-bone-sheep]] — sheep OD on standard implants, complementary
+- [[implants/osseodensification/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — original OD technique
+- [[implants/osseodensification/lopez-2017-osseodensification-spinal-surgical-hardware-fixation]] — OD outside dental (spinal hardware)
+- [[implants/osseodensification/padhye-2020-osseodensification-systematic-review-qualitative-analysis]] — SR that catalogs this study
+- [[implants/osseodensification/inchingolo-2021-osseodensification-implant-site-osteotomy-sr-ma]] — SR+MA that pools this study

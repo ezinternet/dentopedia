@@ -16,13 +16,21 @@ text_filename: barclay-2026-implant-maintenance-aftercare.txt
 
 사용자 요청 — 임플란트 유지관리 논문 감시·인제스트. 본 narrative(Br Dent J 2026)는 유지관리 클러스터의 *환자 중심·일반치과 관점* 입력 — 임플란트 식립 인구가 무치악 고령층에서 일반 인구로 넓어지면서 환자 맞춤 peri-implant 유지관리가 필수가 되었고, 2018 신분류가 처음으로 peri-implant 질환을 포함했다는 맥락을 제공. [[wiki/implants/peri-implantitis/mojaver-2025-supportive-peri-implant-therapy-efficacy-sr]]의 risk-based 근거에 임상 서사 배경을 보강.
 
-## One-line Summary
+## Three-line Summary
 
-Narrative/clinical article (British Dental Journal 2026) arguing that as implants spread from the edentulous to the wider general population, a patient-focused peri-implant maintenance protocol is essential, framed by the 2018 periodontal classification which for the first time included peri-implant diseases and conditions.
+Narrative/clinical commentary (British Dental Journal 2026, abstract-only) on peri-implant maintenance as implant recipients expand from the edentulous elderly to the wider general population.
 
-## 한줄요약
+The 2018 periodontal classification is cited as the framework — the first to formally include peri-implant diseases — arguing patient-focused (not one-size-fits-all) protocols are now essential to protect against biological complications and preserve implant survival.
 
-내러티브/임상 논문(British Dental Journal 2026) — 임플란트가 무치악 고령층에서 일반 인구로 확산됨에 따라 환자 중심 peri-implant 유지관리 프로토콜이 필수가 되었으며, peri-implant 질환을 처음 포함한 2018 치주 신분류를 그 틀로 제시.
+No quantitative outcomes are reported; the clinical implication is that general dental practitioners must adapt maintenance protocols to a broader, more varied patient base.
+
+## 세줄요약
+
+임플란트 수혜자가 무치악 고령층에서 일반 인구로 확산됨에 따른 peri-implant 유지관리를 다룬 내러티브/임상 해설(British Dental Journal 2026, 초록만 수집).
+
+2018 치주 신분류(peri-implant 질환 최초 포함)를 틀로 삼아, 개인 맞춤형 유지관리 프로토콜이 생물학적 합병증 예방과 임플란트 생존에 필수임을 주장.
+
+정량 데이터 없는 narrative — 임상적 의미는 일반 치과에서 다양한 환자 특성에 맞춘 유지관리 적응이 필요하다는 것.
 
 ## 1. Document Information
 

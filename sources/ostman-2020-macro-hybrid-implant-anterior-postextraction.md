@@ -9,8 +9,21 @@ pdf_filename: ostman-2020-macro-hybrid-implant-anterior-postextraction.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Single-cohort prospective study (18–24 month follow-up) of immediate implant placement with immediate provisional restoration in maxillary anterior sockets using a novel macro-hybrid implant design.
+## Three-line Summary
+
+Single-cohort prospective study (18–24 month follow-up) of immediate
+
+implant placement with immediate provisional restoration in maxillary
+
+anterior sockets using a novel macro-hybrid implant design.
+
+## 세줄요약
+
+Single-코호트 (Cohort) 전향적 (Prospective) study (18–24 month follow-up) of immediate
+
+implant placement with immediate provisional restoration in maxillary
+
+anterior sockets using a novel macro-hybrid implant design.
 
 ## 1. Document Information
 - **Title:** Clinical Outcomes of Maxillary Anterior Postextraction Socket Implants with Immediate Provisional Restorations Using a Novel Macro-Hybrid Implant Design: An 18- to 24-Month Single-Cohort Prospective Study
@@ -34,7 +47,7 @@ Single-arm (no comparator); industry-related implant design; short-to-mid-term f
 ## 6. Related Work
 - [[immediate-implant/chu-2020-itrt-platform-switched-subcrestal-angle-correction]]
 - [[immediate-implant/esthetic-soft-tissue/galve-huertas-2024-inverted-body-shift-design-pilot]]
-- [[immediate-implant/galve-huertas-2026-inverted-body-shift-vs-conical-rct]]
+- [[immediate-implant/primary-stability/galve-huertas-2026-inverted-body-shift-vs-conical-rct]]
 
 ## 7. Glossary
 - **IIP:** Immediate Implant Placement — placement at the time of tooth extraction.

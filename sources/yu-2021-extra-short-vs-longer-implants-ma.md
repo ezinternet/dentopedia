@@ -9,8 +9,21 @@ pdf_filename: yu-2021-extra-short-vs-longer-implants-ma.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Meta-analysis of 21 RCTs comparing extra-short (≤6 mm) vs longer (≥8 mm) implants. AMSTAR-2 + GRADE quality appraisal. Outcomes: survival, MBL, biological/prosthetic complications.
+## Three-line Summary
+
+Meta-analysis of 21 RCTs comparing extra-short (≤6 mm) vs longer (≥8 mm) implants.
+
+AMSTAR-2 + GRADE quality appraisal.
+
+Outcomes: survival, MBL, biological/prosthetic complications.
+
+## 세줄요약
+
+Meta-analysis of 21 무작위 대조 시험 (RCT)s comparing extra-short (≤6 mm) vs longer (≥8 mm) implants.
+
+AMSTAR-2 + GRADE quality appraisal.
+
+Outcomes: survival, MBL, biological/prosthetic complications.
 
 ## 1. Document Information
 - **Title:** A meta-analysis indicating extra-short implants (≤ 6 mm) as an alternative to longer implants (≥ 8 mm) with bone augmentation

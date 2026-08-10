@@ -6,18 +6,26 @@ date: 2016-07-01
 doi: 10.1016/j.jdent.2016.07.011
 source: angeletaki-2016-direct-vs-indirect-inlay-onlay-sr-ma.md
 category: ['inlay']
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/angeletaki-2016-direct-vs-indirect-inlay-onlay-sr-ma.pdf
 pdf_filename: angeletaki-2016-direct-vs-indirect-inlay-onlay-sr-ma.pdf
 source_collection: external
 tags: [inlay, onlay, direct, indirect, composite, RCT, longevity]
 ---
 
-## One-line Summary
-SR+MA (3 RCTs; 248 inlay and 176 onlay restorations) of direct vs indirect composite inlays/onlays in posterior teeth: no significant difference in failure risk at 5 years (RR=1.54, p=0.52) or 11 years (RR=0.95, p=0.92); only 11-year marginal discoloration marginally favored direct inlays (RR=0.41, p=0.04); onlay 5-year survival 87%.
+## Three-line Summary
+SR+MA (3 RCTs; 248 inlay and 176 onlay restorations, up to 11-year follow-up) comparing direct vs indirect composite inlays/onlays in posterior teeth.
 
-## 한줄요약
-구치부 직접 vs 간접 레진 인레이/온레이 SR+MA (RCT 3편): 5년·11년 모두 실패율 유의차 없음; 직접 인레이가 11년 변연 착색 소폭 유리.
+No significant difference in failure risk at 5 years (RR=1.54, p=0.52) or 11 years (RR=0.95, p=0.92); only marginal discoloration at 11 years slightly favored direct inlays (RR=0.41, p=0.04); onlay 5-year survival 87% (95% CI 81–93%).
+
+Very limited evidence base (3 RCTs) prevents definitive material recommendations between direct and indirect composite.
+
+## 세줄요약
+SR+MA (RCT 3편; 인레이 248개·온레이 176개, 최대 11년 추적): 구치부 직접 vs 간접 레진 인레이/온레이 비교.
+
+5년·11년 모두 실패율 유의차 없음(RR=1.54, p=0.52; RR=0.95, p=0.92); 11년 변연착색만 직접 인레이 소폭 유리(RR=0.41, p=0.04); 온레이 5년 생존율 87%.
+
+근거 수준이 매우 낮아(RCT 3편) 직접·간접 중 재료 선호를 확정하기 어려움.
 
 ## Summary
 A 2016 SR+MA in the Journal of Dentistry evaluating direct vs indirect composite inlays/onlays in posterior teeth. Three RCTs were identified: two for inlays (82 patients, 248 restorations) and one for onlays (157 patients, 176 restorations). Meta-analysis found no statistically significant difference in failure risk at 5 years (RR=1.54, p=0.52) or 11 years (RR=0.95, p=0.92). One parameter—marginal discoloration at 11 years—marginally favored direct inlays (RR=0.41, p=0.04). Onlay 5-year survival: 87% (95% CI 81–93%). Both techniques showed promising long-term clinical performance, but the limited evidence base prevents definitive recommendations.

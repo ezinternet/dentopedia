@@ -9,8 +9,21 @@ pdf_filename: mudalal-2019-endoscopic-sinus-lifting-immediate-implant.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Case report of a 40-year-old female with severe posterior maxillary atrophy (residual bone height 3.53 mm): a PESS (PRF + Endoscope + Simultaneous implant placement + Sinus floor elevation) technique allowed transcrestal sinus elevation under direct endoscopic visualization with PRF as graft and a 12-mm implant placed simultaneously; ISQ increased from initial to 67.4 at 3 mo and 71.0 at 6 mo, with stable bone height and full-ceramic crown delivery at 3 months.
+## Three-line Summary
+
+Case report of a 40-year-old female with severe posterior maxillary atrophy (residual bone height 3.53 mm): a PESS (PRF + Endoscope + Simultaneous implant
+
+placement + Sinus floor elevation) technique allowed transcrestal sinus elevation under direct endoscopic visualization with PRF as graft and a 12-mm implant placed simultaneously;
+
+ISQ increased from initial to 67.4 at 3 mo and 71.0 at 6 mo, with stable bone height and full-ceramic crown delivery at 3 months.
+
+## 세줄요약
+
+Case report of a 40-year-old female with severe posterior maxillary atrophy (residual bone height 3.53 mm): a PESS (PRF + Endoscope + Simultaneous implant
+
+placement + Sinus floor elevation) technique allowed transcrestal sinus elevation under direct endoscopic visualization with PRF as graft and a 12-mm implant placed simultaneously;
+
+ISQ increased from initial to 67.4 at 3 mo and 71.0 at 6 mo, with stable bone height and full-ceramic crown delivery at 3 months.
 
 ## 1. Document Information
 - **Journal**: World Journal of Clinical Cases 2019;7(10):1234–1241.

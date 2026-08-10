@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1186/s12903-025-06372-w
 journal: BMC Oral Health 2025;25:957
 source: raafa-2025-novel-fully-guided-technique-botulinum.md
-confidence: rct
+evidence_level: rct
 category: botulinum-toxin
 pdf_path: /Users/oracleneo/llm-wiki/papers/raafa-2025-novel-fully-guided-technique-botulinum.pdf
 pdf_filename: raafa-2025-novel-fully-guided-technique-botulinum.pdf
@@ -14,11 +14,21 @@ source_collection: external
 tags: [lateral-pterygoid, TMJ, DDWR, guided-injection, 3D-printed-guide, muscle-segmentation, emg, CAD-CAM, digital-workflow]
 ---
 
-## One-line Summary
-In TMJ disc displacement with reduction patients, CT-segmentation-based 3D-printed-guide LPM botulinum injection was non-inferior to EMG guidance for all outcomes, with significantly greater LPM tenderness reduction at 3 and 6 months (n=20 RCT).
+## Three-line Summary
 
-## 한줄요약
-TMJ 정복성 관절원판변위 환자에서 CT 분할로 만든 3D 프린팅 가이드를 이용한 외측익돌근 보툴리눔 주사는 EMG 유도 방식과 동등하며, 3·6개월 시점에서 LPM 압통 감소는 유의하게 더 컸음 (n=20 RCT).
+Prospective double-blinded RCT (n=20 DDWR patients, Alexandria University, NCT06633445) comparing CT-segmentation 3D-printed needle guide (Group I, n=10) vs EMG-guided injection (Group II, n=10) for 25 U onabotulinumtoxinA into the lateral pterygoid muscle (LPM), with MRI-confirmed disc position, clicking, MIO, and VAS tenderness assessed to 6 months.
+
+Both techniques achieved 100% clicking elimination at 1 month and equivalent improvements in MIO, disc position (TD/TP), and TMJ tenderness at all timepoints; the 3D-guided arm was superior in LPM tenderness reduction at 3 months (median 0 vs 4, p=0.009) and 6 months (p=0.015).
+
+Clinical implication: muscle-segmentation 3D guidance is a reproducible alternative to EMG for LPM BoNT-A injection — eliminates operator-skill dependence for a deep difficult-access muscle at the cost of CT radiation and a 2-day guide fabrication lead time.
+
+## 세줄요약
+
+정복성 관절원판변위(DDWR) 환자 20명(알렉산드리아 의대 RCT) — CT 분할 3D 프린팅 가이드 군(I, n=10) vs EMG 유도 군(II, n=10)에게 외측익돌근(LPM)에 25U onabotulinumtoxinA 주사; MRI 관절원판 위치·클릭·MIO·VAS 압통을 6개월까지 추적.
+
+양 군 모두 1개월에 클릭 100% 소실, MIO·관절원판 위치·TMJ 압통 동등 개선; 3D 가이드 군이 LPM 압통 감소에서 3개월(중앙값 0 vs 4, p=0.009) 및 6개월(p=0.015) 시점에 유의 우월.
+
+임상 의미: 3D 근육 분할 가이드는 LPM BoNT-A 주사에서 EMG 의존도를 제거하는 대안 — 접근 어려운 심부 근육에 시각 확인 가능; CT 피폭·2일 가이드 제작 리드타임 vs 일회용 EMG 전극 비용의 트레이드오프.
 
 ## Summary
 Lateral pterygoid muscle (LPM) is a deep, hard-to-target masticatory muscle implicated in DDWR — anterior disc displacement that "reduces" on opening, producing clicking and pain. Blind LPM injection risks diffusion to pharyngeal muscles (dysphagia, nasal regurgitation); the current standard guidance is electromyography (EMG), which relies on operator skill and provides only functional, not visual, confirmation.

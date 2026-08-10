@@ -6,18 +6,26 @@ date: 2021-05-01
 doi: 10.1016/j.prosdent.2021.05.008
 source: revilla-leon-2021-artificial-intelligence-implant-dentistry-sr.md
 category: [digital-workflow]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/revilla-leon-2021-artificial-intelligence-implant-dentistry-sr.pdf
 pdf_filename: revilla-leon-2021-artificial-intelligence-implant-dentistry-sr.pdf
 source_collection: external
 tags: [artificial-intelligence, AI, machine-learning, deep-learning, implant-recognition, osseointegration-prediction, implant-design, SR]
 ---
 
-## One-line Summary
-SR (J Prosthet Dent 2023;129:293–300, ePub 2021, 17 studies): AI in implantology across 3 domains — type recognition (93.8–98% accuracy), success prediction (62.4–80.5%), and design optimization; insufficient clinical validation across all domains; developmental stage.
+## Three-line Summary
+Systematic review (J Prosthet Dent, ePub 2021, 17 studies, 5 databases) of AI applications in implant dentistry across three domains: implant type recognition, osseointegration/success prediction, and design optimization.
 
-## 한줄요약
-sr(J Prosthet Dent 2023;129:293-300, ePub 2021, 17편): AI 임플란트 적용 3영역 — 종류인식(93.8–98% 정확도)·성공예측(62.4–80.5%)·설계최적화; 전 분야 임상검증 부족; 개발 단계.
+Type recognition achieved 93.8–98% accuracy; success prediction reached 62.4–80.5%; design optimization reduced stress by 36.6% vs FEA baseline — all domains at developmental stage.
+
+All AI models required additional multicenter prospective clinical validation before clinical implementation, and no domain was mature enough for routine use as of the search date (February 2021).
+
+## 세줄요약
+체계적 문헌고찰(J Prosthet Dent, e-pub 2021, 17편, 5 DB): AI의 임플란트 임상 적용을 종류인식·성공예측·설계최적화 3개 영역으로 분류 분석.
+
+종류인식 정확도 93.8–98%, 성공예측 62.4–80.5%, 설계최적화 FEA 대비 응력 36.6% 감소 — 3영역 모두 개발 단계.
+
+모든 AI 모델이 다기관 전향적 검증이 부족하여 임상 적용에는 한계가 있으며, 검색 기준일(2021.2)까지 어떤 영역도 일상 진료에 적합한 성숙 단계에 이르지 못함.
 
 ## Summary
 Systematic review (Harvard/Washington/Tufts/Texas A&M, J Prosthet Dent 2021) of AI applications in implant dentistry across three domains: implant type recognition, success prediction, and design optimization. 17 studies included; all AI models in development phase requiring further clinical validation.

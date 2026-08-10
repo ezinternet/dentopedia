@@ -11,12 +11,32 @@ source_wiki:
   - wiki/caries/hajishafiee-2023-ssb-taxation-sugars-caries-umbrella.md
   - wiki/overviews/oral-microbiome-biofilm-dysbiosis-synthesis.md
 tags: [caries, free-sugars, who-threshold, ssb-tax, sugar-sweetened-beverage, calculator]
+verified: 2026-07-21
 notes: |
   단일 HTML, 인라인 CSS/JS, CDN 없음.
   Module A: 자유당 %E 환산 + WHO/Moynihan 임계값(≤10%E 강·<5%E 조건부) 밴드.
   Module B: SSB 과세 영향 — Hajishafiee 2023 umbrella(20% 과세 기준치)를 세율에 선형 외삽 [claude해석].
   선형 스케일링은 근사이며 umbrella 추정치(중등도 불확실)임을 명시.
   출처: moynihan-2016, hajishafiee-2023.
+  2026-07-13 재검증: interactive-staleness가 STALE 표시(두 source_wiki가 이 도구보다 최신).
+  (1) hajishafiee-2023: 2026-07-12 커밋은 PDF→PMC 전문(full text) 업그레이드 — PRISMA
+  세부값·AMSTAR 등급·용량-반응 원논문(Bernabé/Turck/Michigan Study) 귀속을 정교화했으나,
+  이 계산기가 실제로 쓰는 수치(20% 과세 시 자유당 −4.4g/일 HIC·−4.0g/일 LMIC, 성인 −0.03
+  우식치아/10년, 소아 우식발생 −2.9%(HIC)/−2.7%(LMIC), HIC PED −1.0)는 전혀 변경되지 않음
+  → 내용 변경 없음.
+  (2) oral-microbiome-biofilm-dysbiosis-synthesis: 2026-07-11 커밋은 Scannapieco 2021·
+  Murugaiyan 2024·Kozak 2023·Baker 2024 4편을 keystone/PSD·균주특이성·전신연관 축에 추가한
+  것으로, 이 계산기 본문(WHO 자유당 임계값·SSB 과세)에는 dysbiosis/biofilm 관련 서술이
+  전혀 없어 무관 — 내용 변경 없음.
+  2026-07-21 재검증: oral-microbiome 2026-07-15 weave(e-cig dysbiosis·Candida·S. mutans
+  생태축 13편) — 이 계산기는 WHO 자유당 임계값·SSB 과세 수치만 다루므로 microbiome 변경과
+  무관. 로직·수치 변경 없음.
+  2026-07-23 재검증: oral-microbiome 2026-07-23 편입 3편 — Li 2025(치료 전 미생물총이
+  치료 종류보다 반응을 잘 예측), Hu 2024(구강 dysbiosis→전신 골 항상성 4경로),
+  Rajasekaran 2024(미생물총 조절 개입 7범주). 셋 다 치주 치료반응·전신 골·개입수단 축이며
+  이 계산기의 자유당 임계값·SSB 가격탄력성·우식 발생 수치와 접점 없음. 로직·수치 변경 없음.
+  → 두 diff 모두 이 도구가 인용하는 수치·서술에는 영향 없는 코스메틱/무관 변경으로 판단,
+  verified 날짜만 갱신.
 ---
 -->
 <!DOCTYPE html>

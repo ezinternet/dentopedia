@@ -6,19 +6,32 @@ date: 2023-01-24
 doi: 10.3390/jcm12030920
 journal: Journal of Clinical Medicine 12(3):920
 source: wang-2023-antral-pseudocyst-drift-osteotome-case.md
-confidence: case-report
+evidence_level: case-report
 category: [sinus-lift/pseudocyst]
 pdf_path: /Users/oracleneo/llm-wiki/papers/wang-2023-antral-pseudocyst-drift-osteotome-case.pdf
 pdf_filename: wang-2023-antral-pseudocyst-drift-osteotome-case.pdf
 source_collection: external
 tags: [maxillary-sinus, antral-pseudocyst, osteotome-sinus-elevation, transcrestal, drift, simultaneous-implant, literature-review]
+relations:
+  - type: extends
+    target: nosaka-2024-sinus-elevation-radiopaque-lesions-review
 ---
 
-## One-line Summary
-Case report + literature review (Sichuan University, JCM 2023, n=1): after osteotome sinus floor elevation (OSFE) with simultaneous implant placement, an antral pseudocyst (AP) drifted to a new position within the sinus yet the implant integrated and functioned normally with no added complications — a rare transcrestal (vs lateral) AP-handling datapoint.
+## Three-line Summary
 
-## 한줄요약
-Case report + literature review (Sichuan University, JCM 2023): **OSFE (osteotome sinus floor elevation) + 동시 implant** 후 AP가 sinus 내에서 drift — implant 안정 유지. Transcrestal 접근에서의 AP 핸들링 datapoint.
+Case report + literature review (Sichuan University, JCM 2023, n=1) of an antral pseudocyst (AP) that drifted to a new position within the maxillary sinus following osteotome sinus floor elevation (OSFE) with simultaneous implant placement.
+
+Despite the positional drift of the AP, the implant integrated and functioned normally with no additional complications; literature review highlights this as a rare transcrestal AP-handling datapoint.
+
+AP drift after transcrestal elevation appears to be a benign dynamic phenomenon rather than a complication, supporting the feasibility of OSFE with simultaneous implant placement when residual bone height is sufficient.
+
+## 세줄요약
+
+증례보고+문헌고찰(중국 사천대학교, JCM 2023, n=1): 골개삭기 상악동저거상술(Osteotome Sinus Floor Elevation, OSFE) + 동시 임플란트 식립 후 상악동 가성낭종(Antral Pseudocyst, AP)이 상악동 내에서 새로운 위치로 이동(drift) 발생.
+
+AP 위치 이동에도 불구하고 임플란트 골유착 및 정상 기능 유지; 추가 합병증 없음; 경치조골 AP 처치 관련 문헌에서 희소한 datapoint.
+
+경치조골 거상술 후 AP drift는 합병증이 아닌 상악동 내 역동적 변화의 일종으로 판단되며, 잔존 치조골 높이(Residual Bone Height, RBH)가 충분한 경우 OSFE + 동시 임플란트 식립이 가능함을 지지함.
 
 ## Summary
 Lateral 접근 중심의 sinus pseudocyst literature에서 드문 transcrestal (OSFE) datapoint. 술후 sinus 내 압력·점막 압력 변화로 AP가 다른 위치로 이동(drift)했으나 implant·sinus health에 부정적 영향 없음. Literature review로 transcrestal-AP 문헌 종합.
@@ -40,8 +53,8 @@ Lateral 접근 중심의 sinus pseudocyst literature에서 드문 transcrestal (
 
 ## Strengths and Caveats
 [case-report] n=1
-[claude해석] Drift 메커니즘은 추정 — sinus 내 정압 변화·점막 신전
-[근거강함] 문헌 검토로 transcrestal-AP 문헌 부족 자체를 입증
+[미검증] Drift 메커니즘은 추정 — sinus 내 정압 변화·점막 신전
+[확인] 문헌 검토로 transcrestal-AP 문헌 부족 자체를 입증
 
 ## Related Papers
 - [[sinus-lift/pseudocyst/anitua-2021-mucous-cysts-pseudocysts-implants-sr]] — lateral 중심 SR

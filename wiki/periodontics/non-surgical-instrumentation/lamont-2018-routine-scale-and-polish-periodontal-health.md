@@ -1,0 +1,79 @@
+---
+title: "Routine scale and polish for periodontal health in adults"
+authors: "Lamont T, Worthington HV, Clarkson JE, Beirne PV"
+year: 2018
+date: 2018-12-27
+doi: "10.1002/14651858.CD004625.pub5"
+source: lamont-2018-routine-scale-and-polish-periodontal-health.md
+category: [periodontics/non-surgical-instrumentation]
+evidence_level: sr+ma
+pdf_path: /Users/oracleneo/llm-wiki/papers/lamont-2018-routine-scale-and-polish-periodontal-health.txt
+pdf_filename: lamont-2018-routine-scale-and-polish-periodontal-health.txt
+source_collection: pubmed-text
+full_text: false
+pmid: "30590875"
+pmcid: "PMC6516960"
+text_path: /Users/oracleneo/llm-wiki/papers/lamont-2018-routine-scale-and-polish-periodontal-health.txt
+text_filename: lamont-2018-routine-scale-and-polish-periodontal-health.txt
+tags: [oral-prophylaxis, scale-and-polish, pmpr, recall-interval, cochrane, prevention]
+relations:
+  - type: reinforces
+    target: farooqi-2015-periodontal-maintenance-recall-interval-sr
+---
+
+## Three-line Summary
+
+Cochrane SR + meta-analysis (2 RCTs, n=1711, UK general practice) of routine scaling and polishing in healthy adults without severe periodontitis, comparing 6-monthly, 12-monthly, and no scheduled prophylaxis over 2–3 years.
+
+Routine scale & polish made little or no difference to gingivitis (high certainty), probing depth, or oral-health-related quality of life; the only consistent effect was a small calculus reduction (6-monthly > 12-monthly), whose clinical importance is uncertain.
+
+For low-risk healthy adults, fixed-interval routine prophylaxis is not evidence-based for periodontal health, supporting a shift to individual risk-based recall intervals.
+
+## 세줄요약
+
+코크란 SR+MA (RCT 2편, n=1711, 영국 일반 치과) — 중증 치주염 없는 정기 내원 성인에서 6개월·12개월 루틴 스케일링·폴리싱 대 무처치를 2~3년간 비교.
+
+루틴 스케일링·폴리싱은 치은염·치주낭 깊이·구강건강 삶의 질에 거의 차이 없음(고신뢰도); 치석만 소폭 감소(6개월 > 12개월)하나 임상적 의의 불분명.
+
+저위험 건강 성인에서 고정 간격 예방처치는 치주건강에 근거가 없으며, 개인 위험도 기반 리콜로의 전환을 지지.
+
+## Summary
+
+This Cochrane review (update of the 2013 version) asks whether **routine scaling and polishing** — professional removal of plaque, calculus, debris and staining without surgery, chemotherapeutics or root planing, also called *prophylaxis* or *professional mechanical plaque removal (PMPR)* — benefits low-risk healthy adults, and at what recall interval. Pooling two UK general-practice RCTs (n=1711) of regularly attending adults without severe periodontitis, it finds **high-certainty evidence of little or no effect** on gingivitis, probing depth, and oral-health-related quality of life over 2–3 years, whether treatment is scheduled 6- or 12-monthly or omitted entirely. The only consistent effect is a **small reduction in calculus** (larger with 6-monthly recall), whose clinical importance is unclear. No trial measured adverse effects, and none compared dentists with hygienists/therapists. The practical message: for low-risk healthy adults, fixed-interval routine prophylaxis is not evidence-based for periodontal health, supporting risk-based recall.
+
+## Key Contributions
+
+- Highest-certainty answer to a ubiquitous practice question: **scheduled routine scale & polish does not improve gingival health** in low-risk healthy adults over 2–3 years.
+- Directly tests **recall interval** (6- vs 12-monthly): no clinically meaningful difference beyond a small calculus reduction.
+- Provides the formal definition separating *routine prophylaxis* from *therapeutic* periodontal instrumentation (no surgery / chemotherapeutics / root planing).
+- Underpins guideline shift toward **risk-based (rather than fixed 6-monthly) recall** for healthy adults.
+
+## Methodology
+
+- **Design**: Cochrane SR + fixed-effect meta-analysis; GRADE certainty rating.
+- **Search**: Cochrane Oral Health Trials Register, CENTRAL, MEDLINE, Embase to 10 Jan 2018; no language/date restriction.
+- **Inclusion**: RCTs of routine scale & polish (± oral hygiene instruction) in healthy dentate adults without severe periodontitis; split-mouth trials excluded.
+- **Included**: 2 UK general-practice RCTs, n=1711, regular attenders; outcomes at 24 and 36 months.
+- **Outcomes**: gingivitis, probing depth, plaque, calculus, oral-health-related QoL, self-reported cleanliness, cost. Effect measures MD/SMD/RR with 95% CI.
+
+## Results
+
+**Routine scale & polish vs no scheduled treatment (2–3 y):**
+- Gingivitis, 6-monthly: SMD −0.01 (95% CI −0.13 to 0.11; 1087) — high certainty, no difference.
+- Gingivitis, 12-monthly: SMD −0.04 (95% CI −0.16 to 0.08; 1091) — high certainty, no difference.
+- Calculus, 6-monthly: SMD −0.32 (95% CI −0.44 to −0.20) — high certainty, small reduction.
+- Calculus, 12-monthly: SMD −0.19 (95% CI −0.31 to −0.07) — high certainty, small reduction.
+- Probing depth, QoL: little/no difference (high certainty); plaque: little/no difference (low certainty).
+
+**6-monthly vs 12-monthly recall:**
+- Gingivitis: SMD 0.03 (95% CI −0.09 to 0.15; I²=0%) — no difference (high certainty).
+- Calculus: SMD −0.13 (95% CI −0.25 to −0.01) — 6-monthly slightly better; clinical importance unclear.
+
+**Dentist vs hygienist/therapist:** no studies. **Costs:** very low certainty. **Adverse effects, attachment level, tooth loss, halitosis:** not measured.
+
+## Related Papers
+
+- [[periodontics/non-surgical-instrumentation/farina-2026-pmpr-biofilm-gingivitis-sr-ma]] — contrast: PMPR adds benefit as an adjunct to OHI in *established* gingivitis, whereas this review finds no benefit of *routine* prophylaxis in low-risk healthy adults (different population/question).
+- [[periodontics/farooqi-2015-periodontal-maintenance-recall-interval-sr]] — reinforces risk-based recall concept in periodontal maintenance.
+- [[periodontics/non-surgical-instrumentation/cyris-2024-guided-biofilm-therapy-versus-conventional]] — modality comparison within professional prophylaxis.
+- [[overviews/professional-biofilm-management-gbt-air-polishing-overview]] — synthesis this page feeds into.

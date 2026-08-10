@@ -13,8 +13,21 @@ source_collection: external
 
 Extends the burnout/wellbeing evidence base beyond dentists to the wider clinical dental care professional workforce (hygienists, therapists, technicians), feeding the workforce-breadth dimension of [[overviews/dentist-burnout-mental-health-overview]].
 
-## One-line Summary
-First SR focused on UK DCPs (hygienists, therapists, clinical dental technicians, orthodontic therapists) — only 12 studies exist, dominated by therapist/hygienist data; determinants map to the same macro/meso/micro framework as dentists, but overall evidence base is thin.
+## Three-line Summary
+
+First SR focused on UK DCPs (hygienists, therapists, clinical dental technicians, orthodontic
+
+therapists) — only 12 studies exist, dominated by therapist/hygienist data; determinants map
+
+to the same macro/meso/micro framework as dentists, but overall evidence base is thin.
+
+## 세줄요약
+
+영국 치과 임상 보조인력(위생사·치료사·기공사) 건강·웰빙 첫 SR: 12편만 존재, 치료사·위생사 주 (Primary Dent J 2022)
+
+결정 요인이 의사와 동일한 매크로/메소/마이크로 프레임워크를 따르나 전반적 근거 기반 빈약
+
+직무 만족도·직업 경력이 주요 탐색 요인, 일부 직군(임상 기공사·교정 치료사) 거의 미연구.
 
 ## 1. Document Information
 - Journal: Primary Dental Journal, 11(2):40–50, June 2022

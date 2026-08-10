@@ -6,18 +6,28 @@ date: 2022-02-15
 doi: 10.1016/j.joms.2022.02.008
 source: ruggiero-2022-aaoms-mronj-position-paper-update.md
 category: [drug/mronj]
-confidence: consensus
+evidence_level: consensus
 pdf_path: /Users/oracleneo/llm-wiki/papers/ruggiero-2022-aaoms-mronj-position-paper-update.pdf
 pdf_filename: ruggiero-2022-aaoms-mronj-position-paper-update.pdf
 source_collection: external
 tags: [mronj, bisphosphonate, denosumab, romosozumab, drug-holiday, staging, prevention, consensus]
 ---
 
-## One-line Summary
-AAOMS 2022 MRONJ position paper: diagnostic criteria and staging unchanged from 2014, romosozumab added, drug holiday remains controversial with no consensus, CTX no longer recommended, denosumab holiday timing proposed at 6 weeks–3 months.
+## Three-line Summary
 
-## 한줄요약
-AAOMS 2022 MRONJ 포지션 페이퍼: 진단기준·스테이징 2014년 동일, romosozumab 추가, 약물 중단(drug holiday) 권고 없이 논쟁 중, CTX 더 이상 권장 안 함, denosumab 중단 시 6주~3개월 timing 제안.
+AAOMS 2022 MRONJ position paper (4th edition) maintaining the 2014 case definition and staging system while adding romosozumab to the at-risk medication list, removing CTX from clinical recommendations, and providing specific denosumab drug holiday timing guidance.
+
+No AAOMS consensus was reached on drug holidays (working group evenly split); denosumab holiday, if elected, should place surgery 3–4 months after last dose, restarting 6–8 weeks postoperatively — with caution about rebound vertebral fracture risk.
+
+Clinical implication: pre-treatment dental optimization (extract non-restorable teeth before starting antiresorptive therapy) remains the strongest evidence-based prevention; implants are contraindicated in patients on malignant-indication ARD.
+
+## 세줄요약
+
+AAOMS 2022 MRONJ 포지션 페이퍼(4판) — 2014년 진단 기준·스테이징 유지, romosozumab 위험 약제 추가, CTX 임상 권고 삭제, 데노수맙 drug holiday timing 구체화.
+
+Drug holiday 관련 AAOMS 내부 합의 불발(동등 의견 분열); 데노수맙 holiday 선택 시 마지막 투여 3–4개월 후 수술, 술 후 6–8주에 재투여 — 반동성 척추 골절 위험 주의.
+
+임상적 의미: 항흡수제 투여 전 치과 처치 완료가 가장 근거 있는 예방법; 악성종양 적응증 ARD 환자는 임플란트 금기.
 
 ## Summary
 The 2022 AAOMS position paper (fourth edition; prior: 2007, 2009, 2014) updates MRONJ management guidance. The case definition and staging system are unchanged from 2014. New additions include romosozumab as an at-risk medication, removal of bone turnover markers (CTX) from clinical recommendations, specific denosumab holiday timing guidance, and an explicit statement that no AAOMS consensus was reached on drug holidays. The paper reinforces pre-treatment dental optimization as the most evidence-supported prevention strategy.
@@ -75,8 +85,8 @@ Stage 0 → Stage 1 progression in up to 50% of cases.
 | Anti-sclerostin | Romosozumab (Evenity® 210 mg qmo × 12) | Osteoporosis (high fracture risk) |
 
 ## Related Papers
-- [[drug/jung-2022-denosumab-mronj-osteoporosis-5year]] — clinical cohort using this staging system
-- [[drug/yokoo-2025-denosumab-mronj-breast-cancer-bone]] — ROC threshold for oncology-dose denosumab MRONJ
-- [[drug/li-2024-antiresorptive-implants-mronj-sr]] — implant failure due to MRONJ after ARD initiation
-- [[drug/baghalipour-2025-mronj-prevention-management-review]] — MRONJ management review
-- [[drug/lee-2023-bisphosphonates-dental-procedures-bronj]] — BP procedures
+- [[drug/mronj/jung-2022-denosumab-mronj-osteoporosis-5year]] — clinical cohort using this staging system
+- [[drug/mronj/yokoo-2025-denosumab-mronj-breast-cancer-bone]] — ROC threshold for oncology-dose denosumab MRONJ
+- [[drug/mronj/li-2024-antiresorptive-implants-mronj-sr]] — implant failure due to MRONJ after ARD initiation
+- [[drug/mronj/baghalipour-2025-mronj-prevention-management-review]] — MRONJ management review
+- [[drug/mronj/lee-2023-bisphosphonates-dental-procedures-bronj]] — BP procedures

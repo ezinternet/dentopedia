@@ -13,9 +13,21 @@ source_collection: external
 
 치과에서 metronidazole 처방 시 "음주 금지" 상담의 근거를 검증하는 직접 임상 데이터. 짝 논문 [[drug/orire-2026-revisiting-disulfiram-reaction-alcohol-metronidazole]](문헌 리뷰)를 ED 실제 환자 대조군 연구로 보강하며, [[overviews/drug-antibiotic-stewardship-overview]]의 항생제 상담 항목 재검토 근거.
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective ED case-control chart review (n=36; 18 metronidazole + 18 ethanol-matched controls): no documented disulfiram-like reaction in any metronidazole patient with detectable ethanol, and significantly LESS hypertension than controls (16.7% vs 61.1%, P<0.0001) — supporting absence of a clinically meaningful alcohol–metronidazole interaction.
+Retrospective case-control chart review from a single academic emergency department in Milwaukee evaluating the disulfiram-like reaction risk between metronidazole and ethanol co-exposure published in Wisconsin Medical Journal (2023). Included patients ≥18 years with analytically confirmed detectable ethanol concentration who received metronidazole while ethanol was predicted to remain in serum (Dec 2010–Dec 2020, ~72,000 annual ED visits). Compared 18 metronidazole-exposed patients with 18 ethanol-matched controls (matched by age, sex, and ethanol concentration).
+
+No patients in the metronidazole group had documented disulfiram-like reaction despite concurrent detectable ethanol and metronidazole exposure. Metronidazole patients showed significantly LESS hypertension (16.7%) compared to ethanol-only controls (61.1%, p<0.0001), contradicting theoretical disulfiram-like interaction. No statistically significant differences in other symptoms (nausea, vomiting, flushing, tachycardia, hypotension, antiemetic use) between groups. Findings align with controlled human and animal research showing no acetaldehyde accumulation with metronidazole+ethanol combination.
+
+Small sample size (n=36) from single center; relies on accurate documentation of suspected reactions; retrospective design cannot establish causation. Clinical practice tradition of counseling patients to avoid alcohol during metronidazole therapy lacks robust supporting evidence in real-world acute-care setting. Findings support reassessment of alcohol restriction guidance for metronidazole in dental practice.
+
+## 세줄요약
+
+미국 응급의학과(Milwaukee) 후향적 대조 차트 리뷰: metronidazole + ethanol 공노출 시 disulfiram-like 반응 위험 (WMJ 2023). 18 metronidazole + 18 ethanol 대조(age/sex/농도 매칭), 2010~2020 10년 분석.
+
+Metronidazole군에서 disulfiram-like 반응 기록 없음 (ethanol 동반 감지). Metronidazole 저혈압 유의미 적음(16.7% vs 61.1%, p<0.0001). 다른 증상(오심·구역·홍조·빈맥·저혈압·제토제) 차이 없음. 인간·동물 연구와 일치(acetaldehyde 축적 없음).
+
+소표본(n=36), 단일기관, 문서 정확성 의존, 후향적. 금주 지도 근거 부족(실제 임상 응급 설정). Metronidazole 금주 상담 재검토 지지.
 
 ## 1. Document Information
 

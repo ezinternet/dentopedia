@@ -17,13 +17,21 @@ text_filename: sawan-2022-super-floss-water-flosser-orthodontic-rct.txt
 
 Extends the orthodontic water-flosser evidence base with a head-to-head split-mouth RCT pitting Super Floss against a Waterpik oral irrigator — a comparison the existing orthodontic RCT [[interdental-cleaning/tyler-2023-waterpik-manual-toothbrush-orthodontic-rct]] (Waterpik vs manual toothbrush) and SR+MA [[interdental-cleaning/yiamwattana-2025-oral-irrigator-vs-floss-orthodontic-sr-ma]] (oral irrigator vs floss) do not isolate at the single-device level with surface-by-surface granularity. Reinforces the broad equivalence finding while surfacing one site-specific water-flosser advantage (distal molar interproximal).
 
-## One-line Summary
+## Three-line Summary
 
 Single-blind split-mouth RCT (n=34 orthodontic patients) found Super Floss and a Waterpik water flosser equally effective at immediate plaque removal (both ~0.6→0.13 RMNPI, between-group p=0.951), with the water flosser marginally superior only at the hard-to-reach distal molar interproximal surface (MD −0.21, 95% CI −0.37 to −0.04, p=0.033).
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 교정환자 34명 단일맹검 split-mouth RCT — 슈퍼플로스 (Super Floss)와 수압치실 (Water Flosser, Waterpik)이 즉시 치면세균막 제거에서 동등 (둘 다 ~0.6→0.13 RMNPI, 군간 차이 p=0.951), 단 손이 닿기 어려운 대구치 원심 인접면에서만 수압치실이 근소하게 우세 (평균차 −0.21, 95% CI −0.37~−0.04, p=0.033).
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

@@ -8,20 +8,28 @@ pmid: "33350180"
 pmcid: "PMC7758302"
 source: friedmann-2020-rclc-membrane-open-healing-ridge-preservation.md
 category: [bone-regeneration/ridge-preservation]
-confidence: prospective
+evidence_level: prospective
 text_path: /Users/oracleneo/llm-wiki/papers/friedmann-2020-rclc-membrane-open-healing-ridge-preservation.txt
 text_filename: friedmann-2020-rclc-membrane-open-healing-ridge-preservation.txt
 source_collection: pubmed-text
 tags: [RCLC, ribose-cross-linked-collagen, OSSIXPlus, open-healing, ridge-preservation, socket-preservation, keratinized-mucosa]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Pilot prospective study (n=18 pts, 20 sockets): RCLC (OSSIXPlus) open healing without primary closure → 100% implant placement without additional augmentation at 4 months; vertical change 0.45 mm (NS); 100% epithelization by 4 weeks.
+Pilot prospective series (n=18 patients, 20 sockets: 10 contained, 10 non-contained) evaluating ribose cross-linked collagen (RCLC / OSSIXPlus) membrane placed with intentional open healing — no primary flap closure — for alveolar ridge preservation.
 
-## 한줄요약
+All 20 sockets reached 100% epithelialization within 4 weeks and all 20 implants were placed at 4 months without additional augmentation; vertical change was 0.45 mm (NS) and the mucogingival junction was maintained at its original position in every case.
 
-파일럿 전향적 연구 (n=18환자, 20발치와): RCLC(OSSIXPlus) open healing(1차 폐쇄 없음) → 4개월 후 100% 추가 증대 없이 임플란트 식립; 수직 변화 0.45 mm(NS); 4주 이내 100% 상피화.
+RCLC's collagenase resistance makes open healing viable where conventional collagen membranes would degrade in 4–6 weeks, eliminating the need for tension-free flap advancement and preserving the keratinized mucosa band.
+
+## 세줄요약
+
+파일럿 전향적 연구 (n=18명, 발치와 20개: 함유형 10·비함유형 10)에서 ribose 교차결합 콜라겐막 (RCLC/OSSIXPlus)을 1차 봉합 없이 개방 치유 (open healing)로 치조제보존에 적용했다.
+
+4주 이내 전 부위 100% 상피화를 달성하고 4개월 후 20건 모두 추가 골증대 없이 임플란트 식립에 성공했으며, 수직 변화 0.45 mm (NS), 점막치은경계는 전 부위에서 원위치 유지.
+
+RCLC의 콜라게나아제 저항성이 개방 치유를 실현시키며, 장력 없는 판막 전진이 불필요해 기술적으로 단순화되고 각화치은 폭도 보존된다.
 
 ## Summary
 

@@ -13,13 +13,21 @@ source_collection: external
 
 A large 30-month double-blind superiority RCT (730 children) directly comparing 38% silver diamine fluoride (SDF) against the standard-of-care active comparator 5% sodium fluoride **varnish** (FV) for *preventing* (not arresting) early childhood caries on sound primary upper anterior teeth — the first long-duration head-to-head of the two leading professional topical agents on sound surfaces. Extends [[wiki/caries/urquhart-2019-nonrestorative-treatments-caries-network-meta-analysis]], whose NMA ranked SDF and sealant+fluoride highest for lesion arrest/reversal, by adding direct preventive-effect (sound-surface) evidence with a 39% prevented fraction favoring SDF.
 
-## One-line Summary
+## Three-line Summary
 
-30-mo double-blind superiority RCT (n=730→621, Hong Kong kindergartens): semiannual 38% SDF prevented new caries on sound primary upper anterior teeth better than 5% NaF varnish — new carious surfaces/child 0.35±1.09 (SDF) vs 0.54±1.50 (FV), p=0.048; GEE adjusted OR 0.61 (p=0.029), 39% prevented fraction, effect emerging after 24 mo on proximal & smooth surfaces.
+Double-blind stratified-randomized superiority RCT (n=730 enrolled → 621 completed, ages 3–4, 13 Hong Kong kindergartens, 30 months): semiannual 38% SDF (Advantage Arrest) vs 5% NaF varnish (Duraphat) applied to 6 sound primary upper anterior teeth to prevent new carious lesions.
 
-## 한줄요약
+Semiannual 38% SDF prevented significantly more new carious surfaces than NaF varnish — new carious surfaces/child 0.35±1.09 (SDF) vs 0.54±1.50 (FV), p=0.048; GEE adjusted OR 0.61 (95% CI 0.39–0.95, p=0.029); 39% prevented fraction; effect emerged only after 24 months and was strongest on proximal and smooth surfaces.
 
-30개월 이중맹검 우월성 RCT (홍콩 유치원, 730명→621명): 반년마다 38% SDF 도포가 5% NaF 바니시(FV)보다 건전한 상악 전치 유치의 신규 우식을 더 잘 예방 — 아동당 신규 우식면 0.35±1.09(SDF) vs 0.54±1.50(FV), p=0.048; GEE 보정 OR 0.61(p=0.029), 예방분율 39%, 효과는 24개월 이후 인접면·평활면에서 나타남.
+SDF is superior to NaF varnish for preventing caries on sound primary upper anterior teeth when applied semiannually, but the advantage requires ≥24 months to become detectable — short trials miss the benefit; findings are limited to anterior primary teeth with a low overall caries incidence.
+
+## 세줄요약
+
+이중맹검 층화무작위배정 우월성 RCT(730명 등록→621명 완료, 3–4세, 홍콩 유치원 13개, 30개월): 반년마다 38% SDF vs 5% NaF 바니시를 건전한 상악 전치 유치 6개에 도포하여 신규 우식 예방 비교.
+
+38% SDF가 NaF 바니시보다 신규 우식면 발생을 유의하게 적게 유발 — 아동당 신규 우식면 0.35(SDF) vs 0.54(FV), p=0.048; GEE 보정 OR 0.61(95% CI 0.39–0.95, p=0.029); 예방분율 39%; 효과는 24개월 이후 인접면·평활면에서 처음 나타남.
+
+SDF는 반년 1회 도포 기준 건전 유치 전치 우식 예방에서 NaF 바니시보다 우월하나, 효과 검출에 최소 24개월이 필요 — 단기(12개월) 시험은 예방 효과를 포착하지 못하며, 전치부 유치 한정·낮은 전체 우식 발생률이 적용 범위 한계.
 
 ## 1. Document Information
 

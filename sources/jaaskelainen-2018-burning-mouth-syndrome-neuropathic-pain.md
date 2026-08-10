@@ -11,15 +11,23 @@ source_collection: external
 
 ## Why Ingested
 
-기존 BMS 페이지들([[oral-medicine/canfora-2025-burning-mouth-syndrome-pathogenesis-review]], [[oral-medicine/gupta-2016-burning-mouth-syndrome-review]], [[oral-medicine/chmieliauskaite-2020-burning-mouth-syndrome-icd11-rename-delphi]])이 BMS를 신경병성으로 다루지만, "말초형 vs 중추형" 2-subtype 분류와 각 형의 치료 반응성(말초형=lidocaine block·topical clonazepam 반응, 중추형=무반응+정신과 동반)을 명시적으로 제시한 권위 있는 NeuPSIG 리뷰가 없었다. 임상 치료 선택 분기의 근거로 ingest.
+기존 BMS 페이지들([[oral-medicine/burning-mouth-syndrome/canfora-2025-burning-mouth-syndrome-pathogenesis-review]], [[oral-medicine/burning-mouth-syndrome/gupta-2016-burning-mouth-syndrome-review]], [[oral-medicine/burning-mouth-syndrome/chmieliauskaite-2020-burning-mouth-syndrome-icd11-rename-delphi]])이 BMS를 신경병성으로 다루지만, "말초형 vs 중추형" 2-subtype 분류와 각 형의 치료 반응성(말초형=lidocaine block·topical clonazepam 반응, 중추형=무반응+정신과 동반)을 명시적으로 제시한 권위 있는 NeuPSIG 리뷰가 없었다. 임상 치료 선택 분기의 근거로 ingest.
 
-## One-line Summary
+## Three-line Summary
 
 NeuPSIG (PAIN) review concluding that primary BMS is a neuropathic pain condition with neurophysiologically verifiable lesions, divisible into peripheral and central subtypes (often overlapping) that differ in treatment response and psychiatric comorbidity.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 NeuPSIG(PAIN) 리뷰 — 일차성 BMS는 신경생리 검사로 확인되는 신경병성 통증이며, 치료 반응과 정신과 동반이 다른 말초형·중추형 두 아형(개인 내 중첩 가능)으로 나뉜다고 결론.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 
@@ -58,8 +66,8 @@ NeuPSIG(PAIN) 리뷰 — 일차성 BMS는 신경생리 검사로 확인되는 �
 
 ## 6. Related Work
 
-- Quantitative small-fiber evidence later systematized by [[oral-medicine/kouri-2024-small-fiber-neuropathy-burning-mouth-syndrome]].
-- BMS nomenclature/classification: [[oral-medicine/chmieliauskaite-2020-burning-mouth-syndrome-icd11-rename-delphi]].
+- Quantitative small-fiber evidence later systematized by [[oral-medicine/burning-mouth-syndrome/kouri-2024-small-fiber-neuropathy-burning-mouth-syndrome]].
+- BMS nomenclature/classification: [[oral-medicine/burning-mouth-syndrome/chmieliauskaite-2020-burning-mouth-syndrome-icd11-rename-delphi]].
 
 ## 7. Glossary
 

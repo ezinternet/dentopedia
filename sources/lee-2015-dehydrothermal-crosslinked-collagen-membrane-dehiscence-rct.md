@@ -13,11 +13,21 @@ source_collection: external
 
 차폐막 가교 여부(cross-linking)가 임플란트 열개결손(peri-implant dehiscence) GBR에서 조작성·잔존성·노출률에 미치는 영향을 직접 RCT로 검증. 기존 [[bone-regeneration/ridge-preservation/choi-2017-single-double-layer-collagen-membrane-arp]]의 콜라겐막 층수 논의와 [[bone-regeneration/wessing-2018-gbr-collagen-membranes-particulate-graft-sr-ma]] SR+MA의 "가교막 노출률 ~30%↑" 결론을 단일 RCT 수준에서 보강·대조하는 근거.
 
-## One-line Summary
-Randomized single-blinded RCT (n=28 dehiscence sites) comparing dehydrothermally cross-linked collagen membrane (DCM) vs non-cross-linked native collagen membrane (NCM) for peri-implant dehiscence GBR; both gave significant clinical/radiographic improvement at 16 weeks, DCM showed better handling/residual membrane without increased complications.
+## Three-line Summary
 
-## 한줄요약
-열탈수가교 콜라겐막(DCM)과 비가교 천연막(NCM)을 임플란트 열개결손 GBR에 비교한 단일맹검 RCT(n=28). 16주에 두 막 모두 임상·방사선 지표 유의 개선, DCM이 조작성·잔존성에서 우수하면서 합병증 증가는 없었음.
+Randomized single-blinded RCT (n=28 dehiscence sites) comparing dehydrothermally cross-linked collagen membrane (DCM) vs non-cross-linked native collagen membrane (NCM) for peri-implant dehiscence GBR;
+
+both gave significant clinical/radiographic improvement at 16 weeks, DCM showed better handling/residual membrane without increased complications.
+
+(incomplete)
+
+## 세줄요약
+
+열탈수가교 콜라겐막(DCM)과 비가교 천연막(NCM)을 임플란트 열개결손 GBR에 비교한 단일맹검 RCT(n=28).
+
+16주에 두 막 모두 임상·방사선 지표 유의 개선, DCM이 조작성·잔존성에서 우수하면서 합병증 증가는 없었음.
+
+(incomplete)
 
 ## 1. Document Information
 - Journal: Journal of Periodontology & Implant Science (J Periodontal Implant Sci) 2015;45(6):229-237

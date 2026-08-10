@@ -9,8 +9,21 @@ pdf_filename: xie-2023-white-spot-lesion-therapies-sr-nma.pdf
 source_collection: external
 ---
 
-## One-line Summary
-백색반점병소(WSL) 치료법(불소, CPP-ACP, 레진침투, 표백) NMA 비교 — 레진침투(resin infiltration)가 가장 높은 optical improvement 순위.
+## Three-line Summary
+
+백색반점병소(WSL) 치료법(불소, CPP-ACP, 레진침투, 표백)
+
+NMA 비교 — 레진침투(resin infiltration)가
+
+가장 높은 optical improvement 순위.
+
+## 세줄요약
+
+백색반점병소(WSL) 치료법(불소, CPP-ACP, 레진침투, 표백)
+
+NMA 비교 — 레진침투(resin infiltration)가
+
+가장 높은 optical improvement 순위.
 
 ## 1. Document Information
 - **Title**: Comparison of therapies of white spot lesions: a systematic review and network meta-analysis

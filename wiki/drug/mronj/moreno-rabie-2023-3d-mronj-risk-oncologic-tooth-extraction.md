@@ -6,7 +6,7 @@ date: 2023-10-24
 doi: 10.1259/dmfr.20230238
 source: moreno-rabie-2023-3d-mronj-risk-oncologic-tooth-extraction.md
 category: [drug/mronj]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/moreno-rabie-2023-3d-mronj-risk-oncologic-tooth-extraction.pdf
 pdf_filename: moreno-rabie-2023-3d-mronj-risk-oncologic-tooth-extraction.pdf
 source_collection: external
@@ -18,13 +18,21 @@ relations:
     target: baghalipour-2025-mronj-prevention-management-review
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective case–control (n = 47 oncologic ARD patients / 87 extractions vs 50 controls / 106 extractions): pre-operative CBCT showed ARD sites had more thickened lamina dura, widened PDL, osteosclerosis, osteolysis and sequestrum; MRONJ (32% of patients, 38% of sites) was driven by multiple extractions, smoking, shorter drug holiday and younger age — periosteal reaction and sequestrum proposed as pre-clinical MRONJ markers.
+Retrospective case-control study (47 oncologic ARD patients / 87 extractions vs 50 controls / 106 extractions, KU Leuven 2010–2020) using pre-operative CBCT to assess 3D bone changes and MRONJ risk.
 
-## 한줄요약
+MRONJ occurred in 32% of patients (38% of sites); pre-operative CBCT showed more thickened lamina dura, widened PDL, osteosclerosis, and sequestrum in ARD sites — the last exclusive to ARD patients — and MRONJ was independently associated with multiple simultaneous extractions, smoking, shorter drug holiday, and younger age.
 
-후향적 환자–대조군 연구(항흡수제 투여 암환자 47명·발치 87건 vs 대조 50명·발치 106건): 발치 전 CBCT에서 항흡수제군은 치조백선 비후·치주인대강 확장·골경화·골용해·격리골이 더 많았고, MRONJ(환자 32%·부위 38%)는 다수치 동시발치·흡연·짧은 휴약기간·젊은 나이와 연관 — 골막반응과 격리골은 임상적 골노출 전 단계(pre-clinical MRONJ) 표지자로 제안됨.
+Periosteal reaction and sequestrum on pre-operative CBCT are proposed as pre-clinical MRONJ markers, and denosumab's lack of early radiographic signal means risk may be missed without a drug-holiday strategy.
+
+## 세줄요약
+
+후향 환자–대조군 연구(항흡수제 투여 암환자 47명·발치 87건 vs 대조 50명·발치 106건, KU Leuven 2010–2020) — 발치 전 CBCT로 3D 골변화와 MRONJ 위험 평가.
+
+MRONJ는 환자의 32%(부위의 38%)에서 발생; 발치 전 CBCT에서 항흡수제군은 치조백선 비후·치주인대강 확장·골경화·격리골이 더 많았으며(격리골은 항흡수제군만 존재), 다수치 동시발치·흡연·짧은 휴약기간·젊은 나이가 독립 위험인자였다.
+
+골막반응과 격리골은 임상적 골노출 전 단계(pre-clinical MRONJ) 표지자로 제안되며, denosumab은 초기 방사선 신호가 없어 휴약 전략 없이는 위험을 놓칠 수 있다.
 
 ## Summary
 
@@ -64,8 +72,8 @@ This single-center retrospective, longitudinal case–control study (UZ/KU Leuve
 
 ## Related Papers
 
-- [[drug/jung-2022-denosumab-mronj-osteoporosis-5year]] — extends: 발치 후 MRONJ 코호트(골다공증-용량)였던 jung-2022을, 영상기반 발치 전 위험예측 + 암환자(고용량) 맥락으로 확장
-- [[drug/baghalipour-2025-mronj-prevention-management-review]] — reinforces: drug holiday·휴약·발치 전 평가의 예방 원칙을 영상 근거로 보강
-- [[drug/lee-2023-bisphosphonates-dental-procedures-bronj]] — BP별 BRONJ 위험·예방 서술 고찰과 짝을 이루는 영상 소견(BP→골경화 우세)
-- [[drug/kwon-2023-mronj-position-papers-what-changed]] — AAOMS 2022 권고(수술 전 drug holiday 권고 삭제)와 본 연구의 짧은 휴약=위험 소견 대비
-- [[drug/koth-2017-clinical-radiographic-haematological-bisphosphonate-therapy]] — 동시 인제스트: 비스포스포네이트 영상·혈액학 소견 (병행 참조)
+- [[drug/mronj/jung-2022-denosumab-mronj-osteoporosis-5year]] — extends: 발치 후 MRONJ 코호트(골다공증-용량)였던 jung-2022을, 영상기반 발치 전 위험예측 + 암환자(고용량) 맥락으로 확장
+- [[drug/mronj/baghalipour-2025-mronj-prevention-management-review]] — reinforces: drug holiday·휴약·발치 전 평가의 예방 원칙을 영상 근거로 보강
+- [[drug/mronj/lee-2023-bisphosphonates-dental-procedures-bronj]] — BP별 BRONJ 위험·예방 서술 고찰과 짝을 이루는 영상 소견(BP→골경화 우세)
+- [[drug/mronj/kwon-2023-mronj-position-papers-what-changed]] — AAOMS 2022 권고(수술 전 drug holiday 권고 삭제)와 본 연구의 짧은 휴약=위험 소견 대비
+- [[drug/mronj/koth-2017-clinical-radiographic-haematological-bisphosphonate-therapy]] — 동시 인제스트: 비스포스포네이트 영상·혈액학 소견 (병행 참조)

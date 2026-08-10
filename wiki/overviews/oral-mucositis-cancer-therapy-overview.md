@@ -4,7 +4,7 @@ authors: Synthesis (llm-wiki)
 year: 2026
 date: 2026-06-24
 category: [overviews]
-confidence: synthesis
+evidence_level: synthesis
 source_collection: synthesis
 source_papers:
   - andriakopoulou-2024-oral-mucositis-pediatric-prevention-sr-ma
@@ -32,13 +32,21 @@ relations:
 > - **근거 수준 주의:** 두 SR 모두 "확정 프로토콜 도출엔 근거 불충분" 결론(이질성↑, 표본 작음, Andriakopoulou는 abstract-only). 약제 선택은 **목표 결과지표 + 비용 + 환자 연령**으로 개별화.
 > - **임상 takeaway:** 저비용·접근성 좋은 **꿀을 1차 후보**로, 결과지표별로 클로르헥시딘(발생률)·올리브유(통증)를 조합; 방사선 OM 성인은 아르기닌/글루타민으로 중증도·영양 동시 관리; 소아치과의는 종양 치료팀의 일원으로 OM 평가·중재에 참여.
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis of 3 papers (2 pediatric SRs + 1 adult HNC radiotherapy RCT) on cancer-therapy-induced oral mucositis: topical honey is the only meta-analytically supported agent (hospital-stay −4.33 days in severe pediatric OM) while LLLT shows no pooled pediatric benefit (RR=0.99); agent choice is best matched to the target outcome (incidence→chlorhexidine, duration→honey, pain→olive oil), and for adult radiation-induced OM both L-arginine and L-glutamine suspensions beat a neutral control with arginine non-inferior to glutamine — but overall evidence remains too heterogeneous for firm protocols.
+Synthesis of 3 papers (Andriakopoulou 2024 pediatric SR+MA, Braguès 2024 pediatric SR of 39 studies, and Hassanein 2025 adult HNC radiotherapy RCT n=69) on cancer-therapy-induced oral mucositis (OM) prevention and management: OM incidence reaches 91.5% in pediatric chemotherapy patients; topical honey is the only meta-analytically supported agent for severe pediatric OM, reducing hospital stay by 4.33 days (p=0.002, Andriakopoulou 2024), and for duration outcome (Braguès 2024); LLLT shows no pooled pediatric benefit (RR=0.99), contrasting with adult data.
 
-## 한줄요약
+Agent choice should be matched to the target OM outcome — incidence: chlorhexidine (Braguès); duration: honey (Braguès, Andriakopoulou); pain: olive oil (Braguès); severity: chlorhexidine, honey, palifermin (KGF), olive oil, vitamin E, and glutamine are broadly equivalent; calcium phosphate is consistently ineffective (3 studies, all NS).
 
-항암치료 유발 구강점막염 논문 3편(소아 SR 2편 + 성인 두경부암 방사선 RCT 1편) 종합: 메타분석으로 지지되는 유일 약제는 국소 꿀(중증 소아 OM 입원 −4.33일)이고 LLLT는 소아 풀링서 무효(RR=0.99); 약제는 목표 결과지표별로 선택(발생률→클로르헥시딘, 기간→꿀, 통증→올리브유), 성인 방사선 OM에는 L-아르기닌·L-글루타민 모두 대조군보다 우수하고 아르기닌이 글루타민에 비열등 — 단 전반적 근거는 이질성이 커 확정 프로토콜엔 불충분.
+For adult radiation-induced OM (HNC), both L-arginine and L-glutamine suspension beat maltodextrin control on WHO severity, pain, weight loss, and OHRQoL (OHIP-14), all p<0.001; L-arginine is non-inferior to glutamine (7-week good WHO 0/I: 82.6% vs 69.6%, p=0.048), making arginine a viable lower-cost alternative; overall evidence is too heterogeneous (heterogeneity and small samples across both SRs) to derive a definitive single-protocol.
+
+## 세줄요약
+
+항암치료 유발 구강점막염(Oral Mucositis, OM) 3편 종합(소아 SR+MA 1편 + 소아 SR 1편 + 성인 두경부암 방사선 RCT 1편 n=69): 소아 항암 OM 발생률 최대 91.5%; 메타분석으로 지지되는 유일 약제는 국소 꿀(중증 소아 OM 입원 −4.33일, p=0.002; Andriakopoulou 2024), LLLT는 소아 풀링서 무효(RR=0.99); 칼슘인산염은 3편 모두 무효.
+
+약제는 목표 결과지표별 선택: 발생률→클로르헥시딘, 기간→꿀, 통증→올리브유(Braguès 2024); 팔리퍼민(Palifermin, KGF)은 효과 있으나 안전성 상충 → 무비판적 적용 금지.
+
+성인 방사선 OM(두경부암 HNC): L-아르기닌·L-글루타민 모두 대조군 대비 WHO 중증도·통증·체중감소·삶의질(OHIP-14) 유의 개선(p<0.001); L-아르기닌이 글루타민에 비열등(7주 양호 82.6% vs 69.6%, p=0.048) → 저비용 대안 — 단 전반적 근거는 이질성 높아 확정 프로토콜 도출엔 불충분.
 
 ## Summary
 
@@ -90,6 +98,11 @@ Clinical implication: for adult HNC RIOM, an amino-acid oral suspension addresse
 5. **Temper expectations:** the evidence base cannot yet support a single rigid protocol — individualize by outcome target, cost, and patient age, and document response.
 
 ## Related Papers
+
+
+### 신규 ingest cluster (2026-07-15)
+
+- [[oral-medicine/mucositis/petropoulou-2026-telemedicine-oral-complications-oncology-rct]] — RCT (105 oncology pts): teledentistry monitoring cut end-of-treatment mucosal lesions (OR 7.59), gingivitis (OR 38.83), caries (OR 26.11), all p<0.001 — structured teledentistry low-cost oral-complication prevention
 
 - [[oral-medicine/mucositis/andriakopoulou-2024-oral-mucositis-pediatric-prevention-sr-ma]] — pediatric OM prevention/treatment SR+MA (34 RCTs, 5 pooled): honey shortens severe-OM hospital stay (MD −4.33 d), LLLT no pooled benefit (RR 0.99). Anchors Axis 1.
 - [[oral-medicine/mucositis/bragues-2024-oral-mucositis-children-cancer-management-sr]] — pediatric OM management SR (39 studies): ranks agents by outcome (incidence→chlorhexidine, duration→honey, pain→olive oil; calcium phosphate no effect). Builds the Axis-1 outcome-matching table.

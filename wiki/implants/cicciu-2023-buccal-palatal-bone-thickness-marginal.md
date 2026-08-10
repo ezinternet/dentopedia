@@ -6,18 +6,28 @@ date: 2023-05-18
 doi: 10.1186/s12903-023-02991-3
 source: cicciu-2023-buccal-palatal-bone-thickness-marginal.md
 category: [implants]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/cicciu-2023-buccal-palatal-bone-thickness-marginal.pdf
 pdf_filename: cicciu-2023-buccal-palatal-bone-thickness-marginal.pdf
 source_collection: external
 tags: []
 ---
 
-## One-line Summary
-Multi-center prospective study (90 implants, maxillary premolar area) of buccal/palatal bone thickness and post-surgical marginal bone change: mean buccal thickness fell 2.42 → 1.92 mm from placement (T0) to 3-month uncovering (T1) (p<0.001) with negligible vertical loss, and thicker initial bone correlated inversely with horizontal resorption — supporting the ≥2 mm buccal bone rule of thumb.
+## Three-line Summary
 
-## 한줄요약
-상악 소구치부 implant 90개 전향적 다기관 연구: T0 협측 평균 골 두께 2.42 mm → T1 1.92 mm로 유의 감소(p<0.001), T0 골 두께가 두꺼울수록 EMBL이 작아지는 역상관 — 1mm 미만의 얇은 협측골은 위험 인자.
+Multi-center prospective study (90 implants, maxillary premolar area; submerged healing; buccal/palatal bone measured by probe at placement T0 and 3-month uncovering T1; Kruskal-Wallis + multivariate linear regression).
+
+Mean buccal bone thickness decreased significantly from 2.42 ± 0.64 mm at T0 to 1.92 ± 0.71 mm at T1 (p<0.001); palatal bone fell from 1.31 to 0.87 mm; vertical resorption was negligible (~0.03–0.04 mm).
+
+Thicker initial buccal bone correlated inversely with horizontal resorption, providing prospective evidence supporting the ≥2 mm buccal bone rule — thin cortical walls (<1 mm) are a recognized risk factor for peri-implant bone loss.
+
+## 세줄요약
+
+전향적 다기관 연구 (상악 소구치부 임플란트 90개; 매몰 치유; 협측·구개측 골 두께 식립 당일 T0·3개월 2차 수술 T1에서 탐침 측정; Kruskal-Wallis + 다변량 선형 회귀).
+
+협측 평균 골 두께 T0 2.42 ± 0.64 mm → T1 1.92 ± 0.71 mm로 유의 감소 (p<0.001); 구개측 1.31 → 0.87 mm; 수직 흡수는 무시 가능 (~0.03–0.04 mm).
+
+T0 초기 협측 골 두께가 두꺼울수록 수평 흡수 작음 (역상관) — 협측골 ≥2 mm 확보 원칙의 전향적 근거 제공; 1 mm 미만 얇은 협측골은 임플란트주위 골 소실 위험인자.
 
 ## Summary
 Multi-center prospective study of 90 implants in maxillary premolar area. Buccal and palatal bone thickness measured at placement (T0) and 3-month uncovering (T1). Showed significant horizontal resorption (mean -0.5 mm buccal, -0.4 mm palatal) but minimal vertical bone loss during submerged healing. Inverse correlation between initial thickness and EMBL.
@@ -36,4 +46,4 @@ Submerged healing only (no functional loading); 3-month follow-up; manual probe 
 
 ## Related Papers
 - [[immediate-implant/esthetic-soft-tissue/yang-2019-labial-bone-thickness-esthetics-iipp]]
-- [[immediate-implant/shafizadeh-2021-alveolar-bone-thickness-healthy-sr]]
+- [[immediate-implant/anatomic-assessment/shafizadeh-2021-alveolar-bone-thickness-healthy-sr]]

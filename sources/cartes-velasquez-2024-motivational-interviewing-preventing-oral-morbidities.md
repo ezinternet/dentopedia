@@ -13,8 +13,21 @@ source_collection: external
 
 Provides the adult-oral-health evidence for motivational interviewing (periodontal outcomes), feeding the MI-efficacy rung of [[overviews/behavioral-dentistry-decision-ladder]] and the MI branch of [[overviews/behavioral-dentistry-overview]].
 
-## One-line Summary
-SR+MA of MI in adults — only 7 studies, all on periodontal outcomes; MI marginally favored: bleeding-on-probing (BoP) reduced by 6.41pp (significant), plaque index −3.59pp (not significant), gingival index −0.70 (not significant). Evidence base too thin to conclude effectiveness for "oral morbidities" broadly.
+## Three-line Summary
+
+SR+MA of 7 adult RCTs/cluster-RCTs (n≈444) evaluating motivational interviewing (MI) for oral health outcomes; all included studies focused on periodontal indices.
+
+MI significantly reduced bleeding-on-probing (BoP) by 6.41 percentage points (95% CI −12.18 to −0.65), but plaque index (−3.59 pp) and gingival index (−0.70) effects were non-significant; all effects directionally favored MI.
+
+The entire adult MI-oral-health evidence base is periodontal only; 7 studies is too thin to conclude effectiveness for oral morbidities broadly, and long-term effects beyond 1 year remain unknown.
+
+## 세줄요약
+
+성인을 대상으로 동기면담(Motivational Interviewing, MI)의 구강건강 효과를 평가한 7개 RCT/군집 RCT의 SR+MA (n≈444); 포함된 모든 연구가 치주 지표를 결과로 사용.
+
+MI는 탐침시 출혈(Bleeding on Probing, BoP)을 6.41 percentage point 유의하게 감소시켰으나(95% CI −12.18~−0.65), 치태 지수(−3.59 pp)와 치은 지수(−0.70)는 유의차 없음; 방향성은 모두 MI에 유리.
+
+연구 7편·추적 ≤1년으로 근거 기반이 빈약하고, 성인 MI 구강건강 근거는 전적으로 치주에 국한되어 충치·임플란트 유지관리 등 다른 구강질환에 대한 결론 도출 불가.
 
 ## 1. Document Information
 - Journal: Community Dentistry and Oral Epidemiology, 52(1):84–92, 2024 (first published Sep 2023)

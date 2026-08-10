@@ -1,0 +1,81 @@
+Source: PubMed Central PMC3471570
+PMID: 23130023
+Title: Comparison of Stresses Induced by Fiber Post, Parapost and Casting Post in Root Canals by Photoelasticity Method
+Authors: Aliakbar Rezaei, Fereidoon Soltani, Fariborz Vafaei, Masoumeh Khoshhal, Majid Reza Ayatollahi, Naser Soltani, Morteza Nejati
+Journal: Iranian Endodontic Journal, 2010
+DOI: none (PMC full text)
+
+ABSTRACT
+INTRODUCTION: Many studies have been performed to evaluate the stress distribution around endodontic posts; those which compared posts composed of different materials are rare. The aim of this study was to compare stresses induced in dentin by three structurally different posts using photoelasticity method.
+MATERIALS AND METHODS: Nine blocks of PSM-5 Photoelastic material with 45x45x10 mm dimension were prepared. In each block, a canal 9 mm in length and 0.8 mm in width was drilled. Blocks were divided into 3 groups of three each. In the first group, the canals were prepared for insertion of Fiber Post with 1.25 mm width. In the second group, the canals were prepared for insertion of ParaPost with 1.25 mm width and the canals in the third group were prepared for casting post similar to the above samples. Casting Post pattern was made by Duralay resin and casted by Ni-Cr alloy. All posts were cemented in canals with Panavia cement. The stresses were evaluated in the polariscope under three different conditions: 1) without load, 2) with 135 N vertical load, and 3) with 90 N oblique load (26 degree inclination to post long axis). The fringe orders in the cervical, middle and apical regions of the posts were evaluated and compared with each other.
+RESULTS: Application of the vertical load induced a high stress concentration (FO=4) in the apical region of the ParaPost, while lower stress was observed in the middle (FO=2) and cervical region (FO=2+). Fiber Post and Casting Post showed even stress distribution (FO=2+). High stress concentration was detected with the application of oblique force in the cervical region of ParaPost (FO=5) and Casting Post (FO=3+). Fiber Posts fractured before reaching 90-N loading force.
+CONCLUSION: The stress distribution around Fiber Post and Casting Post were constant in comparison with ParaPost. Fiber Post with 1.25 mm width was not recommended in situations with high oblique stresses.
+
+FULL TEXT
+
+INTRODUCTION
+Prosthetic restoration of endodontically treated teeth is a great challenge in dentistry. Lost tooth structures are primarily substituted by an alloplastic material to provide a preparation with an adequate surface area to retain a prosthetic crown or bridge. If the remaining tooth structure is inadequate for retention of a direct core build-up material, a post must be used to retain the core.
+
+Custom-fabricated cast post and cores has been advocated as the gold standard restoration for decades. In recent years, new methods with regard to biologic principles and structural compatibility between restorative material and tooth structure have gained more attention. This concept in treatment consists of using materials which are reinforced by fiber and use of adhesive resins.
+
+Several factors should be considered when selecting a post system such as the design and material of their post, and their effect on stress distribution in dentin. If the induced stresses become exceedingly high, fracture of the tooth structure may occur.
+
+It is believed that Fiber Posts bend under masticatory forces, leading to the distribution of stresses between post and tooth structure. Rigid metal posts resist lateral forces without distortion and this results in stress transfer to the less rigid dentine, which increases the potential for root cracks and fractures.
+
+Photoelasticity is a useful technique for evaluating the stresses responsible for failure of a structure, especially one with irregular form. This technique is a relatively qualitative visual measurement based on the ability of certain transparent materials to exhibit interference fringes when stressed in a field of polarized light. The distinct fringes illustrate zones of stress intensity and concentration with a sequence of colored bands. This technique has been used in several dental studies to analyze the stress distribution of various posts.
+
+In 1972, Standlee et al. examined stress interaction between endodontic posts and their supporting structures. This was the first endodontic study using photoelastic stress analysis. They concluded that smooth-sided parallel posts generate high apical stress; tapered posts exhibit a wedging effect and produce the highest shoulder stress concentrations.
+
+In 1982, Mattison applied photoelastic method to investigate the stress distribution around casting gold endodontic posts with 0.05 and 0.07 inches width. With an increase in the post width and applied load, stresses increased in dentin.
+
+Cohen et al. investigated the stress distribution around four groups of prefabricated posts: Flexi Post, Flexi Flange, ParaPost and Access Post. In all groups, minimal stresses were observed after cementation and before loading. Under a vertical load of 134 N, even and symmetric stress patterns were observed around Access Post, Flexi Flange and Flexi Post. The stress patterns recorded for ParaPost by 134 N vertical loading were symmetric with more stress concentration in the apical region than coronal; and for oblique loading were asymmetric with more concentration along apical surface of the post.
+
+Kishen et al. study comprised two parts: a photoelastic study and a fractographic analysis. They compared stress patterns induced in the photoelastic study with the plane of fracture in the fractographic analysis using mandibular incisors restored with ParaPost and composite core. A strong correlation was found between the photoelastic stress patterns recorded and the plane of fracture observed by SEM study.
+
+MATERIALS AND METHODS
+Nine blocks of PSM-5 photoelastic material (Measurements Group Inc., Raleigh, NC, USA) were prepared with 10x45x45 mm dimensions. PSM-5 is an epoxy resin with high elastic modulus that is similar to dentine, good stress-optic and creep properties. The prepared blocks were tested by a polariscope to make sure they were free of residual stresses.
+
+A canal 9 mm in length and 0.8 mm in width was prepared in each block by a press drill instrument with vertical angulation to the edge of blocks.
+
+The blocks were divided into 3 groups with 3 samples each; group 1 was considered for restoration with FiberLux Fiber Post (Coltene/Whaledent, USA), group 2 for restoration with Para Post (Coltene/Whaledent, USA) and group 3 for restoration with custom made Casting Post.
+
+Para Post and Fiber Post used in this study were parallel-sided and flat-ended and had the same width of 1.25 mm. The canal preparation for prefabricated posts was performed according to the manufacturer instructions.
+
+Preparation for the Cast Posts was similar to prefabricated post canals. Casting Post was made with Ni-Cr alloy (Dentsply Sankin, Tokyo, Japan) with the same width and design as the prefabricated posts.
+
+Posts were cemented in the canals by Panavia F cement (Kuraray Dental, Japan) according to manufacturer's instructions. The post lengths were reduced in such a way so that 4 mm of supra canal structure remained.
+
+All specimens were tested by polariscope and photographed with and without color filter in three loading conditions: Without loading; With 135-N vertical loading; With 90-N oblique loading making 26 degree angle to the long axis of post.
+
+The photographs were analyzed and the fringe orders were determined in three equal segments; coronal, middle and apical thirds. The difference value in fringe order which was equal to or greater than one was assumed to be significant.
+
+RESULTS
+In the absence of loading, all specimens were stress free. In groups where the same post and similar loading conditions were kept, the stress patterns were identical.
+
+Under 135-N vertical loading:
+1) ParaPost: the stresses were concentrated in the apical area (Fringe Order (FO) = 4). The coronal and middle regions had moderate stresses (FO = 2+).
+2) Fiber Posts: the stresses were evenly distributed along the post (FO = 2+). Local stress concentrations in the apical and coronal regions were observed.
+3) Casting Post: the stresses were evenly and symmetrically distributed along the post (FO = 2+).
+
+Under oblique loading:
+1) ParaPost: higher stress concentration was recorded in the coronal region opposite to the loading side (FO = 5). In the middle (FO = 1) and apical (FO = 2) regions lower stresses were observed.
+2) Fiber Post: this post fractured before reaching 90-N load; hence stress analysis was not performed.
+3) Casting Post: higher stresses were concentrated in the coronal region opposite to the load side (FO = 3+). The lower stresses were recorded in the middle and apical regions (FO = 1+) with even and symmetric distribution.
+
+DISCUSSION
+The Photoelastic material used in this study, PSM-5, has a similar modulus of elasticity to dentin. Non-anatomic modeling was used in this study; thus variables such as the root morphology, the crown and periodontal membrane preparation had no effect on the results.
+
+When Para Post underwent vertical loading, they demonstrated high stress concentration around the apical region. Lower stresses were observed in the middle and coronal parts. The stress patterns were symmetric. This pattern correlated with Cooney et al., Burns et al. and Cohen et al.
+
+With oblique loading, a high stress concentration was recorded around the coronal region of ParaPost. The stresses in the middle and apical regions were lower.
+
+In vertical loading on the casting post, the stress patterns were evenly distributed along the post, with FO=2.
+
+Vertical loading on Fiber Post caused symmetric and even distribution of stresses along the post with a value of FO=2+.
+
+Fiber Posts fractured before reaching 90 N oblique loading. This concurs with Teixeira et al. study where four types of Fiber Posts with similar widths were loaded by a 45 degree oblique load until they reached fracture point. The mean fracture strengths were between 45-72 N for the different posts. These findings confirm that glass Fiber Posts with 1.25 mm width do not have enough strength to tolerate 90 N oblique loading.
+
+CONCLUSION
+Under vertical loading, stresses were evenly distributed around Fiber Post and Casting Post. The stress was mainly concentrated in the apical area in ParaPost system.
+Under oblique loading, stress became concentrated around the coronal area of ParaPost and Casting Post; in the ParaPost system, stresses were even higher.
+The use of glass fiber posts with 1.25 mm width in cases with high oblique loading is not recommended.

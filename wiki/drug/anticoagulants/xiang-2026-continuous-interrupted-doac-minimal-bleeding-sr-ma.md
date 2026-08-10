@@ -6,7 +6,7 @@ date: 2026-03-27
 doi: 10.1016/j.rpth.2026.103419
 source: xiang-2026-continuous-interrupted-doac-minimal-bleeding-sr-ma.md
 category: [drug/anticoagulants]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "42027304"
@@ -24,13 +24,21 @@ relations:
     target: inchingolo-2024-anticoagulation-therapy-dental-practice-sr
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (24 studies, n=8663; 4 dental) — continuous DOAC reduced major bleeding (OR 0.57, 95% CI 0.37-0.87, I²=0%) and thrombotic events (OR 0.54, 0.33-0.91) overall, but ALL differences vanished in high-quality RCT data (very low/low GRADE); both continue and interrupt are acceptable for minimal bleeding-risk procedures including minor dental.
+SR+MA (PROSPERO CRD42024621729; 24 studies, n=8,663; cardiac ablation 13, pacemaker 4, dental 4; most on DOAC for atrial fibrillation) comparing continuous vs interrupted DOAC for minimal bleeding-risk procedures including minor dental work.
 
-## 한줄요약
+Continuous DOAC reduced major bleeding (OR 0.57, 95% CI 0.37–0.87, I²=0%) and thrombotic events (OR 0.54) in pooled analysis, but all differences became non-significant in the 8-RCT subgroup (major bleeding OR 0.82, thrombotic OR 0.53 — both NS), indicating selection bias in observational data; GRADE certainty very low to low.
 
-SR+MA (24편, n=8663; 치과 4편) — 전체로는 continuous DOAC이 대출혈(OR 0.57)·혈전(OR 0.54)을 줄였으나 고품질 RCT만 보면 모든 차이가 사라짐(selection bias 의심, GRADE very low/low); 발치 등 minimal-risk 시술에서 continue·interrupt 둘 다 허용 가능.
+For minimal bleeding-risk procedures including minor dental work (extractions, restorations, endodontics, cleanings), both continuing and briefly interrupting DOAC appear acceptable; local hemostatic measures rather than blanket interruption should guide dental decision-making.
+
+## 세줄요약
+
+PROSPERO 등록 SR+MA(24편, n=8,663; 심장 절제술 13·박동기 4·치과 4편; 대부분 심방세동으로 DOAC 복용): minimal bleeding-risk 시술에서 DOAC 지속 vs 중단 비교.
+
+전체 풀에서 continuous DOAC이 대출혈(OR 0.57)·혈전(OR 0.54)을 줄였으나, RCT 8편만 분석하면 모든 차이 소실(대출혈 OR 0.82, 혈전 OR 0.53 — 모두 NS): 관찰 데이터의 selection bias 시사; GRADE very low~low.
+
+발치·수복·근관·세정 등 minimal bleeding-risk 치과 시술에서 DOAC 지속·단기 중단 모두 허용 가능; 일괄 중단 대신 국소 지혈 중심 개별화 결정 지지.
 
 ## Summary
 

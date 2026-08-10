@@ -6,18 +6,28 @@ date: 2019-01-09
 doi: 10.1111/jcpe.13057
 source: avila-ortiz-2019-alveolar-ridge-preservation-interventions.md
 category: [bone-regeneration/ridge-preservation]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/avila-ortiz-2019-alveolar-ridge-preservation-interventions.pdf
 pdf_filename: avila-ortiz-2019-alveolar-ridge-preservation-interventions.pdf
 source_collection: external
 tags: [systematic-review, meta-analysis, ARP, EFP-AO-consensus, RCT]
 ---
 
-## One-line Summary
-SR+MA (EFP/AO consensus reference) classifying 22 RCTs across 9 ARP modalities — most modalities significantly reduce dimensional loss vs. natural healing, but PROM data are too scarce for modality comparisons and no single superior modality is identified.
+## Three-line Summary
 
-## 한줄요약
-22개 RCT를 9개 ARP 처치 modality로 분류한 SR+MA (EFP/AO consensus reference) — 대부분 modality가 자연치유 대비 dimensional loss를 유의하게 줄이지만 PROM 데이터는 modality 비교가 불가능할 정도로 부족; 단일 우월 modality는 없다고 결론.
+SR+MA (EFP/AO consensus reference, J Clin Periodontol 2019): 22 RCTs classified across 9 distinct ARP modalities (xenograft+sealing, allograft+sealing, alloplast±sealing, PRF/PRP, cell therapy, etc.) — the most comprehensive ARP modality framework available.
+
+Most modalities significantly reduce horizontal and vertical dimensional loss compared to natural healing; xenograft+sealing and allograft+sealing carry the most robust evidence; no single modality is demonstrably superior.
+
+PROM data (pain, swelling, satisfaction) were too scarce to pool, and the Atieh 2021 Cochrane re-appraisal downgraded this evidence to GRADE "very low" — ARP is effective but certainty of benefit is lower than originally reported.
+
+## 세줄요약
+
+체계적 문헌고찰 및 메타분석 (Systematic Review with Meta-Analysis, SR+MA, EFP/AO consensus reference, J Clin Periodontol 2019): 22개 무작위 대조 시험 (RCT)을 9개 치조제 보존술 (Alveolar Ridge Preservation, ARP) 술식 분류체계로 정리.
+
+대부분 술식이 자연치유 대비 수평·수직 차원적 손실을 유의하게 감소; 이종골+밀봉 및 동종골+밀봉이 가장 많은 근거 보유; 단일 우월 술식 없음.
+
+환자 보고 결과 (Patient-Reported Outcome Measures, PROM) 데이터 부족으로 술식 간 비교 불가; Atieh 2021 코크란 재평가에서 GRADE "매우 낮음"으로 강등 — ARP는 효과적이나 이득 확실성은 당초 보고보다 낮음.
 
 ## Summary
 Avila-Ortiz가 5년 만에 자신의 2014 SR+MA를 확장한 두 번째 대형 SR. 2014가 단순한 "socket filling vs extraction alone" 비교였다면 2019는 ARP를 9개의 구별되는 처치 modality(xenograft+sealing, allograft+sealing, alloplast±sealing, PRF/PRP, 세포치료 등)로 세분화하고 modality별 random-effects MA를 시행. EFP/AO joint workshop의 reference paper로 채택되어 2019–현재까지 ARP 임상 결정의 가이드라인 근거로 가장 빈번히 인용된다.

@@ -6,20 +6,28 @@ date: 2025-08-27
 doi: 10.3390/biomimetics10090571
 source: ho-2025-plasma-titanium-contaminants-biocompatibility.md
 category: [implants/surface/plasma]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/ho-2025-plasma-titanium-contaminants-biocompatibility.pdf
 pdf_filename: ho-2025-plasma-titanium-contaminants-biocompatibility.pdf
 source_collection: external
 tags: [plasma, titanium, carbon, hydrophilicity, fibroblast, osteoblast, RNA-seq, in-vitro]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In vitro study (machined and rough Ti): plasma significantly reduced carbon (p<0.001) and increased hydrophilicity (p<0.0001) without architecture change, promoted greater early fibroblast/osteoblast attachment (differences gone after 12 h), and upregulated angiogenesis/proliferation genes (Apln, Crabp2 at 6 h).
+In vitro study on machined and rough titanium surfaces (fibroblasts + osteoblasts, RNA-seq): plasma significantly reduced surface carbon (p<0.001) and increased hydrophilicity (p<0.0001) without altering surface architecture.
 
-## 한줄요약
+Plasma promoted greater early fibroblast and osteoblast attachment, though this advantage disappeared by 12 h; RNA-seq revealed upregulation of angiogenesis/proliferation genes Apln and Crabp2 at 6 h.
 
-machined·rough 티타늄 in vitro: 플라즈마가 탄소 유의 감소(p<0.001)·친수성 증가(p<0.0001)를 형태변화 없이 달성, 섬유아세포·골모세포 초기 부착↑(12h 후 차이 소실), 혈관신생·증식 유전자(Apln·Crabp2) 6h 상향.
+Plasma accelerates early cell attachment events rather than raising the final endpoint — the transient nature of the adhesion advantage and the absence of in vivo data limit direct clinical translation.
+
+## 세줄요약
+
+줄1: Machined·rough 티타늄 in vitro(섬유아세포+골모세포, RNA-seq): 플라즈마가 표면 탄소 유의 감소(p<0.001)·친수성 증가(p<0.0001), 형태 변화 없음.
+
+줄2: 초기 섬유아세포·골모세포 부착 촉진(단, 12h 후 차이 소실); RNA-seq에서 혈관신생·증식 유전자 Apln·Crabp2 6h 상향조절.
+
+줄3: 플라즈마는 최종 결과를 올리기보다 초기 세포 부착 이벤트를 가속하는 수준 — 부착 이점의 일시성·in vivo 데이터 부재로 임상 직접 적용 제한.
 
 ## Summary
 

@@ -18,13 +18,21 @@ Foundational dental health-economics primer anchoring the practice-management th
 
 (abstract-only — full text not retrieved)
 
-## One-line Summary
+## Three-line Summary
 
 Narrative review/primer (Community Dent Health 2019) introducing health-economics principles for oral health: economic determinants, demand under provider–patient asymmetric information, market failure and its efficiency/equity implications, economic evaluation under resource constraints, behavioural aspects of demand and supplier-induced provision, and dental workforce planning.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 치과 보건경제학 개론(narrative review, 2019): 구강건강의 경제적 결정요인, 정보 비대칭(asymmetric information) 하의 의료 수요, 시장 실패(market failure)와 효율·형평 함의, 자원 제약 하 경제성 평가, 수요·공급(공급자 유발 수요 포함)의 행동경제학적 측면, 치과 인력 계획(workforce planning)을 개괄.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

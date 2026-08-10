@@ -9,8 +9,21 @@ pdf_filename: solderer-2025-tissue-level-implant-bone-loss-factors.pdf
 source_collection: external
 ---
 
-## One-line Summary
-후향적연구(n=106 임플란트, 1년/59개 3년): 조직수준 임플란트 MBL 1년 0.93 mm·3년 1.04 mm; 흡연·치료 악궁이 골소실과 유의하게 연관
+## Three-line Summary
+
+후향적연구(n=106 임플란트, 1년/59개 3년): 조직수준
+
+임플란트 MBL 1년 0.93 mm·3년
+
+1.04 mm; 흡연·치료 악궁이 골소실과 유의하게 연관
+
+## 세줄요약
+
+후향적연구(n=106 임플란트, 1년/59개 3년): 조직수준
+
+임플란트 MBL 1년 0.93 mm·3년
+
+1.04 mm; 흡연·치료 악궁이 골소실과 유의하게 연관
 
 ## 1. Document Information
 - **Title**: Retrospective assessment of biological and host factors on radiographic bone loss following tissue-level implant placement
@@ -43,8 +56,8 @@ Retrospective chart review at University of Zurich. Inclusion: tissue-level impl
 (See wiki page for details)
 
 ## 6. Related Work
-- [[implants/cosola-2020-bone-tissue-level-radiological-sr]] — SR comparing TL vs BL implant radiological outcomes
-- [[implants/atieh-2025-tissue-vs-bone-level-peri-implantitis-sr-ma]] — SR+MA: TL vs BL peri-implantitis and survival
+- [[implants/mbl/cosola-2020-bone-tissue-level-radiological-sr]] — SR comparing TL vs BL implant radiological outcomes
+- [[implants/peri-implantitis/atieh-2025-tissue-vs-bone-level-peri-implantitis-sr-ma]] — SR+MA: TL vs BL peri-implantitis and survival
 - [[implants/mortazavi-2021-bone-loss-tissue-bone-level-implants]] — SR on bone loss factors in TL vs BL implants
 
 ## 7. Glossary

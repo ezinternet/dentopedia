@@ -9,8 +9,21 @@ pdf_filename: habib-2024-srp-decision-making-immediate-implant-cbct.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Cross-sectional CBCT study in a Pakistani population evaluating SRP (Kan classification) and labial bone thickness (LBT) at three apicocoronal levels in maxillary canine-to-canine teeth.
+## Three-line Summary
+
+Cross-sectional CBCT study in a Pakistani population evaluating
+
+SRP (Kan classification) and labial bone thickness (LBT)
+
+at three apicocoronal levels in maxillary canine-to-canine teeth.
+
+## 세줄요약
+
+Cross-sectional CBCT study in a Pakistani population evaluating
+
+SRP (Kan classification) and labial bone thickness (LBT)
+
+at three apicocoronal levels in maxillary canine-to-canine teeth.
 
 ## 1. Document Information
 - **Title:** Does the sagittal root position of maxillary anterior teeth affect the decision making on immediate implants in the anterior maxilla? A CBCT-based study
@@ -32,9 +45,9 @@ Class I = 81.7% (n=196), Class III only 0.4%. Mean LBT 0.5–0.9 mm. No signific
 Single-center; younger-skewed sample limits generalizability to elderly bone changes.
 
 ## 6. Related Work
-- [[immediate-implant/kan-2011-sagittal-root-position-immediate-implant-anterior]]
-- [[immediate-implant/espinoza-espinoza-2023-srp-alveolar-wall-thickness-peruvian]]
-- [[immediate-implant/kong-2020-srp-maxillary-anterior-korean-population]]
+- [[immediate-implant/anatomic-assessment/kan-2011-sagittal-root-position-immediate-implant-anterior]]
+- [[immediate-implant/anatomic-assessment/espinoza-espinoza-2023-srp-alveolar-wall-thickness-peruvian]]
+- [[immediate-implant/anatomic-assessment/kong-2020-srp-maxillary-anterior-korean-population]]
 
 ## 7. Glossary
 - **IIP:** Immediate Implant Placement — placement at the time of tooth extraction.

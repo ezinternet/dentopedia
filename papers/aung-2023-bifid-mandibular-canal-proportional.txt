@@ -1,0 +1,381 @@
+1. Introduction
+
+The formation of bifid mandibular canal (BMC) originates from two fundamental theories. More recent hypothesis was inspired from the investigation of Chaves Lomeli and colleagues []. They speculated that bifurcation of mandibular canal may be molded by partial fusion of three accessory mandibular canals (Figures–). They confirmed that these three canals were supplying tooth germs of mandibular deciduous incisors, deciduous ,molars and permanent first molars in the mandible of human fetus. However, they did not mention how these canals fused with each other.
+
+Another one, a historical finding, was explored by observation of Serres. This French embryologist examined the vein, in one additional mandibular canal, draining below main canal []. This canal was confirmed by one recent cadaver report [], but the authors did not report it as Serres's canal. Also, one human embryonic study [] corroborated the existence of Serres's vein draining both pterygoid venous plexus posteriorly and venous plexus at mandibular symphysis anteriorly along with Meckel's cartilage () of human embryo. Unfortunately, all these studies never stated where the mechanism of forming such anomaly came from.
+
+Prior to forming BMCs, there are numerous amounts of anatomical variations along the extra-osseous course of inferior alveolar nerve (IAN) branching pattern. Proximally, IAN was found entrapped in the muscle fibers of inferior head of lateral pterygoid muscle []. Occasionally, it attained neural anastomosis with lingual nerve, long buccal nerve, auriculotemporal nerve, retromolar nerve, and mylohyoid nerve [] before entering into the mandibular foramen. Also, at this entrance, it may seldom be penetrated by the maxillary artery []. In addition, progressive bone resorption in the edentulous mandible may expose main mandibular canal [] and accessory lingual canal in the anterior mandible [].
+
+Subsequently, the mental nerve, an intra-osseous branch of IAN, could encroach anteriorly from its branching point. Thereby, it turns backwards and exits through the mental foramen, forming a loop called anterior loop []. In coronal section of CBCT, it can be seen as a numerical “8” character. Around a mental foramen, the existing mental nerves may be accustomed to multiple openings called accessory mental foramina []. The most common position of these foramina was documented at the location posterior and inferior to the main mental foramen []. So, along the route of IAN, several anatomical variations can take part as a series of events. These may become associated with unavoidable clinical complications during oral surgical procedure.
+
+Inadequate local anesthesia of IAN can be associated with presence of BMC []. This aberrant anatomy was also found in fifteen percent of the patients with postoperative neurological disturbance after mandibular third molar extraction []. Interestingly, one systematic review figured out that BMC was seldom entrapped between the roots of mandibular third molar []. In this case, a more complex treatment option was needed to be planned to undergo third molar extraction. Surprisingly, inferior alveolar nerve was thought to have neurological anastomosis with long buccal nerve through retromolar canal []. So, infrequently, aberrant long buccal nerve was investigated during last molar surgery []. Hypoesthesia, partial or total loss of sensation, of buccal gingiva was found to be an unpleasant consequence of such procedure. Presence of neurovascular bundles in retromolar type of BMC was confirmed by one cadaver study []. Occasionally, inferior alveolar neurovascular bundle was recorded to become injured by endodontic procedure, implant installation, and osteotomy procedure []. As a result, we should keep in mind that anatomical variations of inferior alveolar nerve should be identified preoperatively with a proper investigation method.
+
+In comparison with and stating cone beam computed tomography (CBCT) as a reference standard, sensitivity of orthopantomogram (OPG), in detecting BMCs, ranged from 11% to 76% [,,]. By defining magnetic resonance imaging (MRI) as reference gold standard, only 16.67% of BMCs were found in CBCT []. Sometimes, bone marrow [], instead of vein, artery, and nerve (VAN) assembly, was also observed in the accessory canal of BMC in histological section.
+
+Several numbers of systematic reviews and meta-analysis showed different grading in prevalence of BMCs. At patient-level prevalence of BMCs, Shan and coworkers recently investigated 38% []. Valenzuela and associates analyzed 57% of this anomaly at individual level []. Also, Hass and colleagues identified 16.25% of this aberrant anatomy at patient level []. One literature review stated that BMC ranged between 0.05% and 69% of the population []. In the review of Shah and Mehta [], retromolar canal, one type of BMCs, revealed 3.2% to 93.5% of dry mandibles. Castro and fellows [] contributed classifications of BMCs. They focused mainly on the radiographic methods of current classifications. However, units of analysis, such as patient-level or hemi-mandible-level prevalence of BMCs, and similarity of different classifications were not considered in such review. Nearly all the reviews included had a wide variety of research methodology, not objectively on computed tomographic examination.
+
+Mostly, these reviews comprised especially patient-level incidence of BMCs. Hemi-mandible-level occurrence, bilateral symmetry, length, and diameter of this variation were required to be noted and pooled proportionally. Also, laterality, sexual dimorphism, prevalence across different continents, and different classifications of such variation were still questioned to be found as combined effect size (pooled proportion). Additionally, we also needed to know how reliability test before computed tomography examination and voxel size of CBCT were influencing the prevalence.
+
+Finally, the question of this meta-analysis was “What is the prevalence of bifid mandibular canal (BMC) among patients seeking computed tomography examinations”?
+
+The objectives were
+
+2. Materials and Methods
+
+2.1. Selection Criteria
+
+2.1.1. Types of Primary Studies
+
+The eligible primary studies were as follows:
+
+2.1.2. Types of Excluded Studies
+
+The studies which were eligible for exclusion:
+
+2.1.3. Outcomes of Interest
+
+Because of being categorical variable, numerators (outcomes of interest) were defined as
+
+Length and diameter of BMC in millimeters (objective ΙV) were stated as continuous variables.
+
+2.1.4. Population
+
+Patients with no age limitation, no history of trauma and pathologies at the mandible, and no record of orthognathic surgery and bone graft were included.
+
+Denominators were stated as
+
+2.2. Literature Search
+
+The search was focused mainly on various terms of conditions and context. The search terms were as follows.
+
+. Bifid Mandibular Canal, BMC, Bifid canal, Bifurcated Mandibular Canal, Mandibular canal, MC, Inferior Alveolar Canal, IAN, Inferior Dental Canal, Mandibular Canal Bifurcation, Variations of Mandibular Canal, Double Mandibular Canal, Accessory Mandibular Canal, Mandibular Canal Branch, Branching of Mandibular Canal, Branched Mandibular Canal, and Accessory Mandibular Canal.
+
+. CBCT, Cone Beam Computed Tomography, Cone Beam CT, Computed Tomography, Multi-detector Computed Tomography, MDCT, Multi-slide Computed Tomography, MSCT, Spiral Computed Tomography, and SCT.
+
+The search was accommodated in the frame of “1 AND 2”. PubMed, Google Scholar, ResearchGate, ProQuest, Scopus, and LILACS were all explored. There was no language and time restriction. Search procedures were carried out from inception to April 2022. Back searching was done through the citation lists of the articles. Authors of eligible studies were contacted via ResearchGate. We created Gmail alert for similar articles in Google Scholar during the period of literature search.
+
+2.3. Data Collection
+
+We approached the data from each individual study: total number of dental patients, hemi-mandibles, patients with BMCs, and hemi-mandibles with BMCs, bilateral symmetrical distribution of BMCs, mean lengths and diameters of BMCs along with their standard deviations (SDs), gender, geographical locations, country, sampling frame, sample size calculation, randomization or consecutive series or convenience sampling of patients, reliability test, population coverage, adequacy of outcome reporting, types of study design, conditions (outcome of interest) defined in primary studies, types of computed tomography, its voxel size, field of view (FOV), mA (milliampere), and kVp (kilo voltage).
+
+2.4. Assessment of Methodological Quality
+
+We investigated the research methods of the included studies using the Joanna Briggs Institute (JBI) critical appraisal tool for systematic reviews of prevalence studies.
+
+9 questions were included in the appraisal. 9question of these was excluded. As a consequence, eight questions were retained.
+
+Then, we categorized the identified articles into three subgroups: JBI score (8, 7, and 6), (5 and 4), and (≤3). JBI 8, 7, and 6 were consistent with low risk of bias, 5 and 6 were consistent with moderate risk of bias, and less than or equal to 3 was consistent with high risk of bias []. The percentage of JBI score gained by each category was calculated by the following formula: (the summation of JBI scores obtained from each study/total JBI scores) × 100. Finally, average JBI score of all included studies was estimated.
+
+Subsequently, the research methodology of all included studies contributed to chart about the domains of frame of sampling, calculation of sample size, methods of sampling (convenience, randomization, and consecutive sampling methods), reporting of setting detail, and reliability measure before computed tomography examination, validity of measurement instrument, coverage of sample, and completeness of outcome reporting.
+
+2.5. Statistical Analysis
+
+Three formulas [] for the corresponding objectives (Ι, ΙΙ, and ΙΙΙ) were (number of patients with BMCs/total number of patients) × 100 for objective Ι, (number of hemi − mandibles with BMCs)/(total number of hemi − mandibles) × 100 for objective ΙΙ, and (number of patients with bilateral presence of BMCs/total number of patients with BMCs) × 100 for objective ΙΙΙ.
+
+The abovementioned numerator and denominator variables were put into Excel spreadsheet of MetaXL software to undergo meta-analysis by the random effect model.
+
+Standard errors (SEs) for mean lengths and diameters (objective ΙV) of BMCs were calculated by the following formula []:, where SD = standard deviation and= sample size. Then, mean lengths and diameters together with their corresponding SEs and number of observations were all put into an Excel spreadsheet of Meta-Essentials software to meta-analyze. The generic inverse variance method and random effect model were used for such analysis [].
+
+To explore heterogeneity, subgroup analyses by the random effect model were conducted through male versus female, right versus left, patient-level prevalence of BMCs across different continents, hemi-mandible-level prevalence of BMCs across different continents, patient-level and hemi-mandible-level prevalence of BMCs among the different classifications, Naitoh's classification, Norje's Classification, and Langlais's classification, and BMC with two mandibular foramina (Langlais ΙV or Norje ΙΙΙ). Heterogeneity was measured withstatistic for proportion of BMC [].
+
+Sensitivity analysis by random effect model was done by excluding the studies which did not undertake reliability test before CBCT examinations. The rest of the studies with calibration test were subjected to meta-analysis again.
+
+Moderator analysis was carried out by correlating the voxel of CBCT in millimeters and prevalence of BMCs. For this analysis, standard errors (SEs) for proportions of BMCs were calculated by the following equation []:, where= proportion of BMCs and= sample size. Then, proportions of BMC prevalence, their corresponding SEs, number of observations, and values of voxel size (moderator) were put together into Excel spreadsheet of Meta-Essentials software to be meta-analyzed. Regression lines were drawn, and the random effect model was used for this analysis.
+
+2.6. Publication Bias Test
+
+Publication bias tests were performed through objectives Ι, ΙΙ, ΙΙΙ, and ΙV by inspecting funnel plots.-axis of the plot was arcsine prevalence and-axis was standard error for objectives Ι, ΙΙ, and ΙΙΙ. For objective ΙV,- and-axes were effect sizes (mean length or diameter) and standard error.
+
+For objectives Ι, ΙΙ, and ΙΙΙ, visual inspection of funnel plot asymmetry was justified by Doi plot and LFK index []. Doi illustrates “no asymmetry” concerning with lack of publication bias, “minor asymmetry” indicating small amount of bias, and “major asymmetry” confirming presence of publication bias. ±1 LFK index reveals the certainty of publication bias [].
+
+For objective ΙV, funnel plot was intended to be repaired by the trim-and-fill method []. This reveals how many studies are needed to be filled to neutralize pooled effect size when asymmetry (publication bias) is present.
+
+All the analyses were accomplished in MetaXL and Meta-Essentials software.
+
+2.7. Commonality among Classifications and Working Definitions of BMC
+
+Some differences can be seen among Naitoh's, Norje's, and Langlais's classifications [−]. Fortunately, commonality among these classifications was graphed in.
+
+2.7.1. Working Definitions of BMCs
+
+Bifid mandibular canal is defined as the mandibular canal with a branch originating from its trunk in either sagittal or coronal sections of three-dimensional radiographs.
+
+Forward canal: two canals, from one mandibular foramen, branching front with the absence of joining.
+
+Dental canal: an accessory canal, branching from main mandibular canal, supplying permanent mandibular first, second, or third molars.
+
+Buccolingual canal: from mandibular canal, a branch orienting in buccal or lingual direction, only explained in coronal section of CBCT image.
+
+Retromolar canal: one accessory canal, from the main inferior alveolar canal, distributes at or around retromolar region.
+
+Forward confluent canal: forward accessory canal rejoining into its main mandibular canal.
+
+Two mandibular foramina: two mandibular canals, originating from separate mandibular foramina, merging in the body of the mandible.
+
+The extensions of Naitoh's classification, which were not included in, were as follows. Inferior bifid canal (bicanal): an accessory canal branching inferior from main mandibular canal and then running forward.
+
+TMC (trifid mandibular canal) was not counted for the meta-analysis when primary studies had reported both BMC and TMC.
+
+3. Results
+
+All stages of identifying and selecting the records were illustrated in the flow diagram ().
+
+Forty studies [,,–], which met the eligibility criteria, were chosen for both methodological quality assessment and quantitative meta-analyses.
+
+One study displayed JBI score of 8/8 [], 4 studies had a JBI score of 7/8 [,,,], 3 studies displayed JBI score of 6/8 [,,], 7 studies had a JBI score of 5/8 [,,,,,,], 13 studies had a JBI score of 4/8 [,,,,,–,,,,,], 10 studies had a JBI score of 3/8 [,,,,,,,,,], and 2 studies had a JBI score of 2/8 [,]. As a result, 8 studies had a mean JBI score of 84.37%, having low risk of bias. 20 studies had the average score of 54.38%, comprising moderate risk of bias. The remaining 12 had an average JBI of 34.37%, meaning high risk of bias. Overall mean JBI score of all eligible studies was 54.69% demonstrating moderate risk of bias.
+
+The detected research methodology of all included studies is summarized in.
+
+Population, country, number of patients with genders, number of hemi-mandibles, age of the patients, geographic location, various definitions of BMC, settings, and study design of the eligible studies are described in.
+
+Totally, 17714 patients were identified from the included studies of the review. 6475 males and 7947 females were reported. 31973 hemi-mandibles were found for this review. Age of the patients ranged from 6 to 103 years.
+
+3.1. Patient-Level Prevalence of BMCs
+
+Thirty six studies [–,–,] revealed patient-level prevalence of BMC. The total number of dental patients in the meta-analysis was 17239 of which 2985 had BMCs.
+
+The pooled patient-level prevalence of BMC was 20.7% (95% CI: 15.9%–26%) (range: 1%–67%) (= 2344.84,< 0.05,= 99%) by the random effect model ().
+
+3.2. Hemi-Mandible-Level Prevalence of BMCs
+
+Thirty eight studies [,,–,–,,] demonstrated hemi-mandible-level prevalence of BMCs. The total number of hemi-mandible in this meta-analysis was 31603. BMC was found in 3846 of these hemi-mandibles.
+
+The summarized hemi-mandible-level prevalence of BMC was 14.3% (95% CI: 10.7%–18.3%) (range: 1%–46%) (= 3410.43,< 0.05,= 99%) by the random effect model ().
+
+3.3. Bilateral Symmetrical Distribution of BMCs
+
+Twenty nine studies [–,–,–,–,–,] displayed bilateral symmetrical distribution of BMC. The total number of dental patients in this analysis was 2416. 697 of these patients had BMCs on both sides of their mandibles.
+
+The pooled bilateral symmetrical distribution of BMC was 22.8% (95% CI: 16.3%–30%) (range: 0%–69%) (= 440.16,< 0.05,= 94%) in the random effect model ().
+
+3.4. Mean Length and Diameter of BMCs
+
+Ten studies [,,,,,−,,] reported the mean lengths of accessory canal of BMCs. The total number of accessory canals of BMCs in the meta-analysis was 1091. The estimated mean length of the accessory canal was 12.14 mm (95% CI: 10.08 mm–14.21 mm) (SE (standard error): 0.91, 95% PI (prediction interval): 6.65 mm–17.64 mm) (range of mean lengths: 7.1 mm–16.9 mm).
+
+Thirteen studies [,,,,,,,,–,,] displayed the mean diameters of accessory canal of BMCs. The total number of accessory canals of BMCs in this analysis was 1278. The estimated mean diameter of this accessory canal was 1.54 mm (95% CI: 1.27 mm–1.82 mm) (SE: 0.12, 95% PI: 0.64 mm–2.45 mm) (range of mean diameters: 0.9 mm–2.28 mm).
+
+3.5. Subgroup Analysis
+
+3.5.1. Male versus Female
+
+Twenty five studies [,,–,,–,,,,–,,,,] figured out patient-level prevalence of BMC according to gender. Total male patients in the analysis were 4933 of which 1001 had BMCs. Total female patients were 6397 of which 1074 had BMCs.
+
+The pooled patient-level prevalence of BMC, in both male and female, was 22.6% (95% CI: 17.5%–28.1%) (range: 3%–67%) (= 466.67,< 0.05,= 95%) and 18.9% (95% CI:14%–24.2%) (range: 2%–66%) (= 634.72,< 0.05,= 96%) by the random effect model.
+
+As a result, BMC was significantly found in male patients than females (chi-square statistic: 15.7143,value = 0.000074).
+
+3.5.2. Right versus Left
+
+Twenty three studies [,,,–,–,–,–,–,,] identified hemi-mandible-level prevalence of BMCs according to sides of mandible. The total number of right hemi-mandibles in the analysis was 11417 of which 1228 had BMCs. The total number of left was 11411 of which 1112 had BMCs.
+
+The estimated right and left hemi-mandible-level prevalence of BMC was 14% (95% CI: 9.3%–19.4%) (range: 1%–50%) (= 1297.027,< 0.05,= 98%) and 12.6% (95% CI: 8.6%–17.2%) (range: 1%–43%) (= 1011.544,< 0.05,= 98%) by the random effect model.
+
+As a result, BMC was more investigated on the right side of mandible than in the left predominantly (chi-square statistic: 5.1607,value = 0.023103).
+
+3.5.3. Patient-Level Prevalence of BMCs across Different Continents
+
+In terms of the patient-level prevalence of BMC, from highest to lowest, European population demonstrated 26.5% (95% CI: 10.6%–46.1%) (range: 3%–67%) (= 1083.72,=0.0001,= 99%), Asian population demonstrated 18.8% (95% CI: 14.1%–24%) (range: 1%–58%) (= 742.96,=0.0001,= 97%), and American population demonstrated 13.9% (95% CI: 7.5%–21.7%) (range: 8%–30%) (= 241.62,=0.0001,= 98%), respectively.
+
+There were no data to pool the estimates for both African and Australian populations.
+
+3.5.4. Hemi-Mandible-Level Prevalence of BMCs across Different Continents
+
+In terms of the hemi-mandible-level prevalence of BMC, African population displayed 32.8% (95% CI: 29.6%–36.1%) (range: 31%–34%) (= 1.087,=0.297,= 8%), European population displayed 17.2% (95% CI: 7.2%–30.1%) (range: 2%–46%) (= 1554.73,=0.0001,= 99%), Asian population displayed 13.3% (95% CI: 9.4%–17.7%) (range: 1%–42%) (= 940.68,=0.0001,= 98%), and American population displayed 7.8% (95% CI: 4%–12.7%) (range: 1%–21%) (= 302.52,=0.0001,= 98%) in descending order.
+
+There were not enough data to summarize the values for Australian population.
+
+3.5.5. Patient-Level and Hemi-Mandible-Level Prevalence of BMCs among the Different Classifications (Naitoh's, Norje's, and Langlais's Classifications)
+
+Patient-level prevalence of BMCs was 23.9% (95% CI: 18.1%–30.3%) (range: 3%–67%) (= 1890.696,=0.0001,= 97%) in Naitoh's classification, 17.7% (95% CI: 13.7%–21.9%) (range: 13%–21%) (= 4.103,=0.129,= 51%) in Norje's classification, and 2.9% (95% CI: 1.3%–5%) (range: 1%–6%) (= 11.192,=0.011,= 73%) in Langlais's classification, respectively. The prevalence was significantly more common in Naitoh's classification than Norje's and Langlais's classifications (chi-squared statistic: 153.0513,value <0.00001).
+
+Hemi-mandible-level prevalence of BMCs was 16.9% (95% CI: 12.1%–22.2%) (range: 2%–46%) (= 2813.873,< 0.05,= 99%) in Naitoh's classification, 11.3% (95% CI: 7.2%–16.1%) (range: 8%–16%) (= 11.495,=0.003,= 83%) in Norje's classification, and 1.6% (95% CI: 0.4%–3.4%) (range: 1%–4%) (= 23.659,=0.0001,= 87%) in Langlais's classification, respectively. The prevalence was enormously more investigated in Naitoh's classification than Norje's and Langlais's classifications (chi-squared statistic: 251.8578,value = 0.00001).
+
+3.5.6. Naitoh's Classification (Hemi-Mandible-Level Prevalence)
+
+In accordance with Naitoh's classification (), from largest to smallest, retromolar canal accounted for 6.2% (95% CI:4.5%–8.2%) (range: 1%–17%) (= 813.27,=0.001,= 97%), forward canal accounted for 4.7% (95% CI: 2.9%–6.9%) (range: 0%–18%) (= 1134.66,=0.0001,= 98%), dental canal accounted for 2.8% (95% CI: 1.7%–4.1%) (range: 0%–21%) (= 633.58,=0.0001,= 97%), inferior bifid canal accounted for 2.2% (95% CI: 1.2%–3.5%) (range: 1%–4%) (= 15.51,=0.008,= 68%), and buccolingual canal accounted for 0.8% (95% CI: 0.4%–1.4%) (range: 0%–8%) (= 388.96,=0.0001,= 95%), respectively.
+
+Of these, 8.5% (95% CI: 5.4%–12.2%) (range: 0%–100%) (= 141.33,=0.0001,= 87%) of BMCs were confluent or rejoined with the main mandibular canal.
+
+3.5.7. Norje's Classification (Hemi-Mandible-Level Prevalence)
+
+According to Norje's classification, Norje ΙΙ canal revealed 7.1% (95% CI: 3%–12.8%) (range: 4%–13%) (= 20.371,=0.0001,= 90%), Norje ΙV canal revealed 1.8% (95% CI: 0%–5.9%) (range: 0%–5%) (= 37.874,=0.0001,= 95%), and Norje Ι canal revealed 1% (95% CI: 0%–3.6%) (range: 0%–4%) (= 23.789,=0.0001,= 92%) from highest to lowest.
+
+3.5.8. Langlais's Classification (Patient-Level Prevalence)
+
+According to Langlais's classification, Langlais Ι canal demonstrated 1.7% (95% CI: 10%–25%) (range: 0%–2%) (= 3.291,=0.349,= 9%), Langlais ΙΙ canal demonstrated 1.1% (95% CI: 0%–3.5%) (range: 0%–3%) (= 30.884,=0.0001,= 90%), and Langlais ΙΙΙ canal demonstrated 0% (= 0.42,=0.94,= 0%) by the descending order.
+
+3.5.9. BMC with Two Mandibular Foramina (Hemi-Mandible-Level Prevalence) (Norje ΙΙΙ or Langlais ΙV)
+
+0.1% (95% CI: 0%–0.2%) (range: 0%–0.4%) (= 5.827,=0.443,= 0%) of BMCs originated from two mandibular foramina ().
+
+3.6. Sensitivity Analysis
+
+3.6.1. Studies Which Underwent Reliability Tests before Examining CBCT Image
+
+Sixteen studies [–,,,,,,,,,,,,,] exhibited reliability test before examining CBCT image. With regard to patient-level prevalence of BMC, the total number of patients in these studies was 9093 of which 1384 had BMCs. The pooled patient-level prevalence of BMC was 21.8% (95% CI: 14.4%–30.3%) (range: 3%–67%) (= 1216.72,< 0.05,= 99%) by the random effect model. By comparing the result of objective Ι, there was a significant patient-level prevalence of BMCs in the studies having undergone the reliability test before CBCT examinations (chi-square statistic: 13.5814,value = 0.000228).
+
+Nineteen studies [,,–,,,,,,,,–,,,] underwent reliability test and reported hemi-mandible-level prevalence of BMCs. Total count of hemi-mandibles in the studies was 17862 of which 1831 had BMCs. The combined hemi-mandible-level prevalence of BMC was 15.3% (95% CI: 10%–21.5%) (range: 2%–46%) (= 1841.474,< 0.05,= 99%) in the meta-analysis of the random effect model. By comparing the findings of objective ΙΙ, there was a significant hemi-mandible-level prevalence of BMCs in the studies which underwent the agreement test formerly (chi-square statistic: 33.005,value = 0.00001).
+
+3.7. Moderator Analysis
+
+3.7.1. Moderator Effect of Voxel Size on Prevalence of BMC
+
+Out of forty included studies, 20 studies [,,–,,,,,,,,,–,,,,] reported the value of voxel size. Unfortunately, the adequate amount of data for secondary data analysis was supplied by 16 studies [,,–,,,,,,–,,,].
+
+Thirteen studies [,,,,,,,,,,,,] reported patient-level prevalence of BMC for this moderator analysis. The number of patients was 6470. The reported voxel size of CBCT ranged from 0.1 to 0.4 mm. By the random effect model, there was no significant effect of voxel size on the patient-level prevalence of BMC (,).
+
+Fifteen studies [,,–,,,,,–,,,] had reported hemi-mandible-level prevalence of BMCs for the moderator analysis. The total number of hem-mandibles was 12522. By the random effect model, there was a significant positive association between voxel size and hemi-mandible-level prevalence of BMC (,).
+
+3.8. Publication Bias
+
+Test for publication bias indicated that funnel plot asymmetry was found in objective Ι (patient-level prevalence of BMC) and objective ΙΙ (hemi-mandible-level prevalence of BMC) (Figuresand). These figures illustrated the absence of studies at right-hand top of the plots. “Major asymmetry” for both investigations was also detected in Doi plots. LFK indexes were 2.66 for Ι and 2.78 for ΙΙ.
+
+“No asymmetry” of the plot was seen in objective ΙΙΙ bilateral symmetrical distribution of BMC. This figure showed symmetrical distribution of the included studies. −0.92 was detected as LFK index for such case.
+
+Publication bias was not found in the meta-analysis of the pooled estimated length of BMC (objective ΙV). On the other hand, it was investigated in the analysis of the pooled diameter of BMC (objective ΙV). The trim-and-fill test confirmed that three studies were needed to be filled on the left side of the funnel plot ().
+
+4. Discussion
+
+4.1. Summary of Main Findings
+
+Resulting from the calculation, more than 20 out of hundred patients undergoing computed tomography examinations had BMCs. Those BMCs penetrated into 14% of hemi-mandibles. Of the patients having BMCs, over 23% exhibited bilateral distribution of such anatomy in the mandible.
+
+Patient-level prevalence of BMCs ranged from 1% among people in Lucknow of India [], 2% in Brazilians [], and 3% in both Rasht population of Iran [] and Samsun people of Northern Turkey [] to 54% of Alexandria Egyptians [] and 58% in Taiwanese Chinese in New Taipei City [], and the peak was 67% in North Cyprus of Turkey [].
+
+At the hemi-mandible level, the prevalence of BMCs ranged from 1% in both Indian [] and Brazilian populations [] and 2% in both Turkish [] and Iranian populations [] to 42% in both Taiwanese [] and Eastern Anatolia population of Turkey [] and 43% in Cairo population of Egypt [], and the climax was 46% in Northern Cyprus population of Turkey [].
+
+We emphasize that the extreme variations were seen in the Turkish populations at both patient level and hemi-mandible level.
+
+Symmetrical occurrence of BMCs ranged from 0% in Brazilian population [] and 2% in Pathum Thani people of Thailand [] to 50% in Alexandria Egyptians [] with the highest occurrence of 69% in Shenzhen population of China []. We notice that although Turkish populations were involved in scoring the upper tier of both patient-level and hemi-mandible-level occurrence of BMC, their constitution was almost 40% in the case of bilateral symmetry [], ranking after China.
+
+The accessory canals of BMCs lengthened to more than twelve millimeters in the populations of the included studies in our meta-analysis. The mean lengths of these accessory canals ranged from 7.1 mm in the Spanish patients at University of Santiago de Compostela [] to 16.9 mm in South Korean population.
+
+Specifically, forward, retromolar, and buccolingual canals took the longest length in Yemeni [], South Korean [], and Spanish [] populations, out of other classes of Naitoh's classification. Some investigators figured out that accessory canals of BMCs were longer in premolar region than in molar [].
+
+On average, the canals widened to over 1.5 millimeters in diameter in the populations of the selected primary studies. The mean diameters of these accessory canals ranged from 0.9 mm in Taipei population [] to 2.28 mm in Yemeni people of Sanaa City [].
+
+Comparatively, retromolar and dental canals occupied the widest, among the categories of Naitoh's classification, in South Korean [] and Yemeni [] populations. The accessory canal with large diameter was more prone to be detected in OPG []. One study mentioned that the caliber of vessel being more than one millimeter allows blood flow to flow at three milliliters per second []. The diameter may broaden to 3.4 millimeters in some cases [].
+
+4.2. Subgroup Analysis
+
+The occurrence of BMCs was more exaggerated in male patients than females significantly. 6 restricted studies from Taiwan [], Turkey [], Tamil Nadu of India [], Brazil [], and Spain [] expressed more significant prevalence of BMCs in male patients than females. Female predominance over male in the prevalence was shown only in 2 studies conducted in Turkey [] and India []. The remaining studies had non-significant effect between the two sexes [,,–,,,,,,,,,,,]. We postulate that due to a huge amount of sample size in the meta-analysis, a tiny effect size (proportion) may become significant.
+
+BMCs were more commonly found in the right half of the mandible than the left. But, a limited number of studies had right side predominance of BMC specifically in Taiwanese [] and Turkish Istanbul populations []. Left side dominance of such morphology was detected only in Milan people of Italy []. This subgroup effect has never been identified significantly in the rest of the studies [,,–,–,–,,,–,,]. We suggest the biased distribution may result from the increase in sample size of the meta-analysis, previously mentioned in sex difference.
+
+A quarter of Europeans, nearly one-fifth of Asians, and one in ten of American population had BMCs. Subsequently, this anatomy tunneled in approximately 33% (Africa), 17% (Europe), more than 13% (Asia), and over 7% (America) of hemi-mandibles across the world. However, there were only two studies [,] conducted in Egypt. This should not be considered as a true representative of all African nations.
+
+Also, patient-level data from Africa and Oceania can never be accessed in this review.
+
+At the patient level, the prevalence of BMCs by Naitoh's classification was 6.2% greater than Norje's classification and 11% more common than Langlais's categories. At the hemi-mandible level, the prevalence of such bifid anatomy classified by Naitoh's classification was 5.6% more frequent than Norje's classification and 15.3% more abundant than Langlais's classification.
+
+As a result, BMC was enumerated as more abundant proportion in categories of Naitoh's classification than the other two classifications. We think that CBCT technology was progressively advanced in recent decade immediately after Naitoh and colleagues had used CBCT and invented their classification system. Collectively, this classification counted an additional coronal section of computed tomography image in contrast to other classifications. Buccolingual type of Naitoh's classification can be detected in this section.
+
+With regard to Naitoh's classification, we estimated that retromolar canal infiltrated into more than 6%, forward canal infiltrated into nearly 5%, dental canal approximately infiltrated into 3%, and buccolingual canal infiltrated into less than 1% of the hemi-mandibles.
+
+Most of the studies [,,,,,,–,,] that used Naitoh's classification stated retromolar canal as the most prevalent one. Secondly, 10 studies [,,,,,,,,,] verified forward canal as the most common. 2 studies [,] of Indian populations and 1 of Egypt [] defined dental canal as the most numerous. Buccolingual canal was not detected in 5 studies [,,,,]. Interestingly, dental canal was not found in one Chinese study [,,,,]. Dominance and recession of each and every class of Naitoh may be overwhelmed by different ethnicities.
+
+Additionally, inferior bifid canals also known as bicanals accounted for 2.2% in our meta-analysis. Both Elnadoury [] and Shen [] reported this anatomy up to more than 4%. Although Saket [] had not reported complete picture of BMCs, he presented the picture of inferior bifid with confluence type in his article. Of the accessory mandibular canals classified by Naitoh, 8.5% rejoined into main mandibular canal (confluent type) in our meta-analysis.
+
+According to Norje's classification, Norje ΙΙ, ΙV, and Ι displayed 7%, nearly 2%, and 1%, respectively.
+
+By means of Langlais's classification, Langlais Ι, ΙΙ, and ΙΙΙ demonstrated nearly 2%, more than 1%, and occupied null value. Retromolar canal in Naitoh's classes are similar to Norje ΙV and Langlais Ι, forward being coincident with Norje Ι, forward confluent resembling Langlais ΙΙ, dental canal comparable with Norje ΙΙ, and the contribution of forward confluent and retromolar resembling Langlais ΙΙΙ ().
+
+Less than one percent of hemi-mandibles orchestrated two mandibular canals originating from two separate mandibular foramina (Langlais ΙV or Norje ΙΙΙ). Although most of the investigators [–] had not presented such type of anatomy, some [] reported that 6% of accessory canal of BMCs drained outside the mandible by separate foramina openings.
+
+4.3. Sensitivity Analysis
+
+In the sensitivity analysis, after excluding the studies which did not perform inter or intra-examiner reliability tests, both patient-level and hemi-mandible-level prevalence of BMC escalated to more than 1%, respectively. 32% to 99% agreement within or between examiners, in detecting the prevalence of BMCs, was reported [,–,,,,,,,,,,–,–].
+
+We hypothesize that inter or intra-rater reliability test before CBCT examinations could have a slight positive influence on prevalence of BMC. Because of half of the selected studies not having undergone the test, the pooled estimate of this meta-analysis may be underestimated.
+
+4.4. Moderator Analysis
+
+By undergoing moderator analysis between voxel size of CBCT and hemi-mandible-level prevalence of BMCs, Z value exceeded 1.96 and 0 was not included in the confidence limits of slope (). This indicates the significant positive association between hemi-mandible-level prevalence of BMC and voxel size of CBCT. The voxel sizes were reported ranging from 100 to 400m [,,–,–,,,,,,,,,,,,]. Although smaller voxel size potentiates the resolution of CBCT, the reverse can be proved by the analysis. However, the reviewers could not explain why the studies having reported high degree of prevalence of BMCs used larger voxel sizes.
+
+4.5. Agreement and Disagreement with the Previous Reviews
+
+Haas and colleagues [] previously investigated that patient-level prevalence of BMC was 16.25% by CT or CBCT. This is obviously lower than the findings of our analysis. The pooled prevalence of BMCs in both in vitro studies and the studies, which used OPG as investigation method, comprised 6.5% and 4.2% in Haas's meta-analysis []. Also, these disagreements may be due to dissimilarity between research methods used in selected studies.
+
+Valenzuela-Fuenzalida and coworkers [] found 57% of BMCs in more than 4000 mandibles. This is superior to the finding of our analysis displaying more than 20 percent of more than 17000 mandibles. The previous analysis [] manipulated not only CBCT studies but also cadaver studies and the studies that used dry human skulls. So, we make the assumption that the proportions of BMCs may be inflated due to smaller sample size of primary studies, distortion of specimen, and fragility of dry mandibular bone.
+
+Ngeow and Chai [] showed patient-level prevalence of BMCs from 0.05% to 69%. The range was complementary with our finding which ranged between 1% and 67%. They also observed mean length of accessory canal of BMCs ranging from 7.1 mm to 16.9 mm. This is in agreement with our analysis again. The previous review also pointed out that the mean diameters of the accessory canal ranged from 0.9 mm to 2.2 mm. We identified that our range (0.9 mm–2.28 mm) was in turn in agreement with the previous findings.
+
+In the review of Shah and Mehta [], retromolar canal comprised 3.2% to 93.5% of dry mandibles. This range was five times wider than ours. As a result, we think that restriction to this subtype of BMC, dry bone sample, and methodological diversity may greatly overwhelm the prevalence of retromolar canal.
+
+By comparing other aberrant anatomy of the mandible, Muinelo-Lorenzo et al. [] summarized that accessory mental foramina were detected nearly 8% at the patient level. Additionally, Mishra and associates [] showed that anterior loops of mental nerve were seen up to 41% at the subject level. So, we recognize that BMCs were found more than twice of the accessory mental foramina and less than half of the anterior loops at the individual level. However, we did not attempt to analyze the associations between these aberrant anomalies and BMCs in this review.
+
+Additionally, Mishra's group [] also stated that the average length of anterior loops ranged from 1.1 mm to more than 8 mm. The upper limit of anterior loop's length could be overlapped with the lower bound of mean length of accessory canal of BMCs.
+
+Castro and fellows [] reviewed the classifications of BMCs. They especially concentrated on the radiographic methods used in classification systems, two or three-dimensionally. They also outlined locations of BMCs at mandibular ramus or at body of the mandible. Contrastively, from our standpoint, we emphasize on units of analysis at patient level or hemi-mandible level and similarity among different classifications ().
+
+4.6. Risks of Bias
+
+Although overall average JBI score of all included studies in this meta-analysis had been 54.69% (moderate risk of bias), some limitations were seen at the domains of sampling characteristics, sample size calculation, population coverage, reliability test, and outcome reporting.
+
+The worst domain that seems to be suffering from risk of bias was sample size calculation. The prior estimation of sample was never attempted in 90% of the included studies (). Also, 65.85% of the studies used the records within inadequate time frame and took the sample from single centers or university, not from several centers. This may lead to under-coverage of target population and could not be true representative of such population.
+
+Consequently, 60% of the eligible studies neglected population characteristics (age, gender, and ethnicity) to record thoroughly. 50% of the studies did not obtain inter or intra-examiner agreement test before CBCT examinations. Additionally, 45% of the studies did not report patient-level and hemi-mandible-level prevalence of BMCs, their bilateral distribution, and other suitable outcomes sufficiently. These factors could be prone to misclassification of BMCs and incomplete outcome reporting.
+
+4.7. Heterogeneity
+
+Heterogeneity grew considerably in case of the meta-analyses at patient-level prevalence, hemi-mandible-level prevalence, and bilateral symmetrical distribution of BMCs.
+
+To explore the source of heterogeneity, we conducted multiple subgroup analyses. By doing so, we identified some heterogeneities that originated from the classifications used in primary studies. When we had categorized the studies into their corresponding classifications, the meta-analyses demonstrated some relief from heterogeneity.
+
+For Norje's classification,statistic decreased from 98% to 51% at the patient-level prevalence of BMCs and from 99% to 83% at hemi-mandible-level prevalence.
+
+For Langlais's classification,dropped from 98% to 73% at patient level and from 99% to 87% at the hemi-mandible level of BMCs, respectively. Across the different classes of Langlais classification, the parameter decreased from 98% to 9% in Langlais Ι and to 0% in Langlais ΙΙΙ at the patient-level prevalence of BMCs.
+
+At the hemi-mandible-level prevalence of BMCs,statistic of heterogeneity fell from 99% to 0% in case of inferior bifid type of BMCs and to 87% for the confluent type BMCs.
+
+No substantial loss of heterogeneity was found in Naitoh's classification.
+
+For African continent,reduced from 99% to 8% at hemi-mandible-level prevalence of BMCs. In such case, we speculate that it may be due to the scarcity of evidences in the African nations.
+
+Finally, we conclude that the heterogeneity in prevalence of BMCs can be partly explained by the different classification systems used in selected primary studies.
+
+4.8. Imperfections of BMC's Classifications
+
+Among BMC's classifications, Norje's [] and Langlais's [] categorizations were based upon two-dimensional X-ray examinations, while Naitoh and coworkers [] had investigated by viewing three-dimensional computed tomography. The most distinguished feature between the latter and former is the inclusion of coronal view in Naitoh's classification.
+
+This additional view integrates the buccolingual type of BMCs in Naitoh's classes, which is never found in both Norje's and Langlais's contributions (). On the other hand, two mandibular foramina types were not seen in Naitoh's classification, although they had been previously set in Norje's and Langlais's classifications.
+
+Lateral lingual and median lingual canal stated in other studies [] could be misinterpreted as buccolingual type of BMC. Dental canal of Naitoh's classification can lose its identity after extraction of corresponding tooth. So, it may be misunderstood as Naitoh's retromolar and forward types. We cannot mention precisely how nutrient canals and edentulous condition influence the classification of BMCs in CBCT image.
+
+Additionally, plexus form [], curved or horizontal or vertical typed retromolar canal [], hypertrophic [], double-confluent type [], superior canal [], ramus canal [], canal of mandibular coronoid process [], condylar canal [], the accessory canal associated with dental inflammation [], BMC with separate mandibular foramina [], inferior alveolar nerve bifurcated or perforated by maxillary artery before entering mandibular foramen [], lateral lingual canal [], median lingual canal [], V-type retromolar canal [], fork-like trifid [], and canal draining at temporal crest [] are all implicated and confused with terminology and conditions of BMCs. Retromolar canal was not counted as BMC and set as a separate class by some investigators []. Specifically, plexus type of BMC was found together with inflammation []. It seems to be the association of nerve growth, bone resorption, and inflammation. Moreover, presence of BMCs was positively associated with bony area of the mandible [].
+
+Additionally, BMCs were also associated with accessory mental foramina in 73.68% of Brazilians []. However, this class was not included in most of the classifications [–].
+
+The questionable content and construct validity lead to imperfections of the classifications.
+
+4.9. Content of Accessory Canal of BMC
+
+Vein, artery, nerve, and lymphatic drainage are major constituents of the main mandibular canal. However, in place of the assembly of vein, artery, nerve, and lymphatic drainage, only one large venous vessel supplying base of mandible [] or nutrient vessels [] or bone marrow [] or multiple osteoporosis cavities [] or proximal branching of mental nerve at the entrance of mandibular foramen [] or remaining nerve plexus [] of edentulous mandible can be present in the accessory mandibular canals of BMCs of cadaver sample. These structures can correspond to be radiolucency in computed tomography images.
+
+Unfortunately, strictly bony radiographic architecture of the accessory canal can be seen in CBCT bone-contrast image. Soft tissue content of this additional canal cannot be found in the image.
+
+4.10. OPG versus CBCT versus MRI in Detecting BMCs
+
+Only 16.67% of BMCs investigated in MRI were found in CBCT []. Sequentially, 11% to 76% of BMCs [,,] detected in CBCT image were also seen in OPG. Occasionally, radio-opaque mylohyoid line on lingual plate of mandible was misinterpreted as BMC (false positive) in OPG image [].
+
+As a result, MRI is the current gold standard method in observing not only BMC but also its contents. Blood vessels and nerve can be well differentiated by viewing signal intensities of MRI because vein exhibits more intensified features than nerve in MRI image. So, even VANL assembly can be detected in MRI [].
+
+Unfortunately, because of MRI being soft-tissue contrast, two mandibular foramina of BMCs may not be seen accurately in this image. So, some investigators [] advised that they should be confirmed by CBCT, which is hard-tissue contrast, in this case.
+
+Bifid mandibular nerves may not always occupy two mandibular canals. The mandibular canal wall is mostly formed by facing trabecular bony plates inside while their bony pillar orienting outside []. This pillar-plate orientation could be destroyed by bone diseases. Furthermore, this proves that the mandibular canal wall does not possess specific compact or specialized bony structure in nature although, not rarely, radiopaque line is seen along the course of this canal in formal radiographic examinations.
+
+To the best of our knowledge, we conclude that bifid mandibular nerves may be present even in a single hollow of bone cavity. Also, this could be missed during routine radiological examination.
+
+4.11. Publication Bias
+
+Three studies [,,] from mainland China were translated from Chinese to English, 1 study [] and 1 thesis [] from Peru were translated from Spanish to English, and 1 study [] from Spain was translated from Spanish to English.
+
+Although 5 studies of languages other than English [,,,,] and 1 thesis (gray literature) [] were included in this meta-analyses, major publication bias was subjectively seen in both patient-level and hemi-mandible-level prevalence of BMCs and pooled diameter of accessory canals of BMCs.
+
+4.12. Future Studies
+
+In spite of progressive number of evidences investigating BMCs being found, pooled sensitivity and specificity of CBCT in comparison with gold standard MRI in detecting this anatomy will be needed to be questioned and pooled.
+
+5. Conclusion
+
+Generally, 20.7% of patients seeking computed tomography examinations and 14.3% of hemi-mandibles displayed BMCs. Nearly 23% of those patients exhibited bilateral distribution of such specific anatomy. On average, the accessory canal of BMCs lengthens up to 12.14 millimeters and widens to 1.54 millimeters. Sexual dimorphism towards male gender and right-sided predominance of the canal were seen together with high statistical power and sample size of the meta-analyses. Europeans were found to be the population in which BMCs were mostly investigated all over the world. Usage of Naitoh's classification and reliability tests may escalate the proportion of BMCs. We uncovered one unexplainable reason in which voxel size of CBCT may have positive correlation with prevalence of BMCs with no regard to considering other resolution parameters.

@@ -6,7 +6,7 @@ date: 2025-11-12
 doi: 10.1080/1040841X.2025.2584074
 source: inostroza-2025-streptococcus-mutans-adhesion-collagen-mechanobiology-review.md
 category: [oral-microbiology]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: false
 pmid: "41221851"
@@ -22,13 +22,21 @@ tags: [streptococcus-mutans, collagen-binding-proteins, adhesins, mechanobiology
 > [!note] Abstract-only ingest (no PMC OA)
 > Full text not retrieved; the body below is at abstract level. No quantitative force values captured.
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review (Crit Rev Microbiol 2025) of *S. mutans* collagen-binding proteins (SpaP, WapA, Cnm, Cbm) and their mechanobiology — characterized by AFM single-molecule (SMFS) and single-cell (SCFS) force spectroscopy — as drivers of dentin/ECM adhesion, coaggregation, and virulence, and as targets for anti-biofilm caries prevention.
+Narrative review (Crit Rev Microbiol 2025) examining how four S. mutans collagen-binding proteins — SpaP, WapA, Cnm, and Cbm — mediate attachment to dentin and extracellular matrix (ECM), drive bacterial coaggregation, and contribute to virulence beyond the well-known glucosyltransferase/EPS pathway.
 
-## 한줄요약
+The review reframes these adhesin–collagen interactions as a mechanobiological process quantified by AFM-based single-molecule force spectroscopy (SMFS) and single-cell force spectroscopy (SCFS), providing bond-level force and kinetic data under physiological conditions (abstract-only ingest; quantitative rupture-force values not captured).
 
-서술적 리뷰 (Crit Rev Microbiol 2025) — 우식 핵심균 *S. mutans*의 콜라겐 결합 단백질(SpaP·WapA·Cnm·Cbm)이 상아질·세포외기질(ECM) 부착·응집·병원성을 매개하는 역학생물학(mechanobiology)을 원자간력현미경(AFM) 단분자(SMFS)·단세포(SCFS) 힘분광법으로 규명하고, 항-바이오필름 우식 예방 표적으로 제시.
+SMFS/SCFS characterization of CBP–collagen attachment is proposed as a platform to discover novel anti-biofilm molecules against S. mutans, offering a route to caries-preventive treatments targeting the upstream adhesion step before EPS matrix assembly.
+
+## 세줄요약
+
+S. mutans 콜라겐 결합 단백질(Collagen-Binding Protein, CBP) SpaP·WapA·Cnm·Cbm이 상아질·세포외기질(Extracellular Matrix, ECM) 부착·균주 응집·병원성을 매개하는 기전을 Glucosyltransferase/EPS 경로 이전의 접착 단계에서 검토한 Narrative review (Crit Rev Microbiol 2025).
+
+이 접착을 역학생물학(Mechanobiology)적 과정으로 재정의하고 원자간력현미경(Atomic Force Microscopy, AFM) 기반 단분자 힘분광법(Single-Molecule Force Spectroscopy, SMFS)·단세포 힘분광법(Single-Cell Force Spectroscopy, SCFS)으로 CBP–콜라겐 결합 역학을 생리 조건에서 측정 (초록만 입수; 정량 파열력 수치 미확보).
+
+SMFS/SCFS를 항-바이오필름 우식 예방 신물질 탐색 플랫폼으로 활용해 접착 단계를 표적화하는 우식 예방 전략 제안.
 
 ## Summary
 

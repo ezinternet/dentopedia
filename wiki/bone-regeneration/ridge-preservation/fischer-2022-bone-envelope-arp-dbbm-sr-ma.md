@@ -6,7 +6,7 @@ date: 2022-01-01
 doi: 10.1186/s40729-022-00453-z
 source: fischer-2022-bone-envelope-arp-dbbm-sr-ma.md
 category: [bone-regeneration/ridge-preservation]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/fischer-2022-bone-envelope-arp-dbbm-sr-ma.pdf
 pdf_filename: fischer-2022-bone-envelope-arp-dbbm-sr-ma.pdf
 source_collection: external
@@ -16,13 +16,21 @@ relations:
     target: scheyer-2016-alveolar-ridge-preservation-multicentre-rct
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 9 RCTs (177 ARP-DBBM vs 130 SH implant sites): mean ridge width gain of 1.13 mm with DBBM-based ARP, but only 6–19% achieve ≥2 mm circumferential bone to place a standard-diameter implant without additional augmentation.
+SR+MA of 9 RCTs (177 ARP-DBBM vs 130 spontaneous healing sites): DBBM-based alveolar ridge preservation yields a mean ridge width gain of 1.13 mm (95% CI 0.28–1.98; I²=68%) over unassisted healing.
 
-## 한줄요약
+Only 6–19% of ARP sites achieve ≥2 mm of circumferential bone to allow augmentation-free placement of a standard-diameter implant, depending on implant diameter (3.25 mm: 19%, 4.0 mm: 14%, 5.0 mm: 6%).
 
-9개 RCT 메타분석: DBBM 치조골보존술 평균 1.13 mm 폭 유지 이점, 그러나 추가 골증대 없이 임플란트 식립 가능 비율은 직경별 6–19%에 그침.
+ARP with DBBM reduces ridge shrinkage and marginally improves augmentation-free implant placement odds, but 4 out of 5 cases will still require additional bone augmentation — limiting its value as a staging-avoidance strategy.
+
+## 세줄요약
+
+9개 RCT SR+MA (DBBM 치조제보존 177부위 vs 자연치유 130부위): DBBM 기반 보존술은 자연치유 대비 치조제 폭경을 평균 1.13 mm 더 유지했다 (95% CI 0.28–1.98, I²=68%).
+
+그러나 추가 골증대 없이 표준 직경 임플란트 식립이 가능한 비율은 직경에 따라 6–19%에 불과했다 (3.25 mm: 19%, 4.0 mm: 14%, 5.0 mm: 6%).
+
+ARP는 골흡수를 줄이고 식립 가능성을 소폭 높이지만, 5건 중 4건은 여전히 추가 골증대가 필요하여 단독 스테이징 회피 전략으로는 한계가 있다.
 
 ## Summary
 

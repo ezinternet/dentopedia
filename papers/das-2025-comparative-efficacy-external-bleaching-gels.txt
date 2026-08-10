@@ -1,0 +1,20 @@
+Title: Comparative efficacy of external dental bleaching gels: a systematic review of whitening performance and longevity.
+Authors: Das G, Qasim M, Rana MH, Sharif RA, Suleman G, Sainudeen S, Khader MA, Javali MA, Ishfaq M, Ibrahim M, Shah SJ, Khalid I
+Journal: Clinical Oral Investigations, 2025; 29(11):546
+DOI: 10.1007/s00784-025-06614-9
+PMID: 41171485
+Publication Date: 2025-10-31
+
+ABSTRACT:
+
+Background: A standard cosmetic dentistry procedure that is designed to improve the appearance of stained teeth is external dental whitening. Age, dietary choices, cigarette usage, or teeth trauma are among some of the causes of teeth discoloration. The objective of this study is to study the effects of whitening gels on teeth color, duration of effects, and potential adverse effects.
+
+Methods: To find studies that satisfied the inclusion criteria, two independent reviewers searched electronic sources, including PubMed, Scopus, Web of Science, and the Cochrane Library, in July 2024, updated August 1, 2024. Changes in tooth color before and after external bleaching were the key end measures for studies chosen, measured using either shade guide units (SGU) or spectrophotometer/colorimeter (ΔE). The effectiveness of various bleaching gels was compared after combining the relevant research in subgroup analysis. These substances comprise gels based on hydrogen peroxide, carbamide peroxide, and other substances frequently applied during teeth whitening procedures. The Cochran Q test and I-statistic were used to evaluate statistical heterogeneity and ensure the results were reliable.
+
+Results: The results of this systematic review summarize the most recent data on the effectiveness of various bleaching gels used in external teeth whitening. Regarding ΔE, carbamide peroxide gels performed better than hydrogen peroxide-based whitening gels, although their ΔSGU values were comparable. The quality of evidence for ΔE*, risk, and intensity of teeth sensitivity was graded as moderate in all types of whitening agents.
+
+Conclusion: Teeth that are stained can be significantly bleached by whitening gels such as hydrogen peroxide and carbamide peroxide. The greater concentration carbamide peroxide bleaching gel showed less tooth sensitivity than the higher concentration HP bleaching gel.
+
+Registration: PROSPERO CRD42023483434 (November 26, 2023).
+
+Keywords: Bleaching gels; Dental bleaching; Efficacy; External teeth bleaching; Teeth discoloration

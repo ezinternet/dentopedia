@@ -19,13 +19,21 @@ institution: Department of Prosthodontics, College of Dentistry, Dankook Univers
 
 SmartPeg의 재사용 가능 여부와 소독 후 ISQ 측정값 안정성은 임상에서 자주 제기되는 실용적 질문이다. 제조사(Osstell)는 1회용 사용을 권장하지만 실제 임상에서는 재사용하는 경우가 많다. 이 2008년 한국산 in-vitro 연구는 400회 반복 측정·탈부착 및 6종 소독법의 ISQ 영향을 체계적으로 검증한 유일한 초기 문헌으로, [[implants/isq/kastel-2019-smartpeg-torque-isq-rfa]] 및 [[implants/isq/herrero-climent-2013-osstell-isq-reliability-icc]]의 SmartPeg 신뢰성 데이터와 대조하여 소독·재사용 맥락을 보완한다.
 
-## One-line Summary
+## Three-line Summary
 
 Korean in-vitro study (n=8 SmartPegs per experiment, Dankook University 2008) showing that ISQ values remain stable after up to 400 repeated measurements, 400 attach-detach cycles, and six clinical sterilization methods, but SmartPegs lose magnetism and become non-functional at 150°C/10 min dry-heat sterilization.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 단국대 2008년 체외 연구 (실험당 SmartPeg 8개): SmartPeg은 400회 반복 측정·탈부착 및 6종 임상 소독법 후 ISQ값이 유의하게 변하지 않으나, 150°C/10분 진공건열멸균 시 자성 소실로 측정 불가.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

@@ -1,0 +1,26 @@
+SOURCE: PubMed abstract (full text not retrieved — no PMC; paywalled)
+PMID: 31453645 | DOI: 10.1111/jopr.13106
+Bidra AS, Kejriwal S, Bhuse K.
+"Should Healing Abutments and Cover Screws for Dental Implants be Reused? A Systematic Review."
+J Prosthodont. 2020;29(1):42-48. (e-pub 2019-09-16)
+
+== ABSTRACT (full) ==
+Purpose: Systematically review whether healing abutments (HAs) and cover screws can be resterilized effectively for reuse. Secondary: whether any adverse biological/mechanical consequences to implants or harm to patients from reuse have been reported.
+
+Methods: Electronic search of English-language literature by multiple independent investigators, PubMed + Cochrane. Predetermined inclusion/exclusion criteria applied.
+
+Results:
+- Initial search 657 titles → 6 articles met objectives.
+- All 6 were OBSERVATIONAL studies describing a total sample of >300 used healing abutments obtained from patients.
+- 3 studies: routine methods (mechanical, chemical, steam) for cleaning/sterilizing used HAs did NOT result in complete removal of contaminants.
+- 2 studies: routine methods supplemented with an additional regimen resulted in adequate decontamination.
+- 1 study: routine methods sufficiently resulted in adequate decontamination.
+- NO true clinical studies identified.
+- NO studies reported adverse consequences (infections, bone loss, mechanical complications, implant failure, or patient harm) from reuse of HAs or cover screws.
+
+Conclusions:
+- Limited evidence suggests routine methods for cleaning/sterilizing used titanium HAs may NOT completely remove contaminants.
+- Biological/mechanical implication of this finding remains undetermined — no reports of unfavorable consequences to implants or patients from reuse exist.
+- Given popular practice of reusing HAs to reduce cost, INDISCRIMINATE reuse of HAs should be AVOIDED until further supporting evidence is established.
+
+Study type: Systematic Review (J Prosthodont). MeSH: Bone Screws, Dental Abutments, Dental Implants, Equipment Reuse, Sterilization, Titanium.

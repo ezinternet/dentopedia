@@ -13,11 +13,21 @@ source_collection: external
 
 chairside 매뉴얼 카드 4(치주·peri-implantitis·TMJ·MRONJ) 중 MRONJ는 기존엔 [[wiki/pdrn/ku-2025-polydeoxyribonucleotide-pdrn-dentistry-narrative-review]] 카탈로그 한 줄뿐이었다. 본 in vitro는 PDRN이 zoledronic acid(BRONJ 유발 약물)의 치은섬유아세포 독성을 분자기전(TBK1·PKB·ROS) 수준에서 완화함을 직접 보여 MRONJ 적응증에 기전적 근거를 제공.
 
-## One-line Summary
+## Three-line Summary
+
 In vitro (HGF-1 human gingival fibroblasts): PDRN 100 µg/mL prevents and reverses zoledronic acid (50 µM)-induced growth suppression by inhibiting TBK1 phosphorylation, partially restoring p-PKB, and attenuating ROS — a BRONJ-relevant cytoprotective mechanism.
 
-## 한줄요약
-사람 치은섬유아세포(HGF-1) in vitro. PDRN 100 µg/mL이 zoledronic acid(50 µM) 유발 성장억제를 예방·역전, TBK1 인산화 억제·p-PKB 부분 회복·ROS 감소로 작용 — BRONJ 관련 세포보호 기전.
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
+사람 치은섬유아세포(HGF-1) in vitro.
+
+PDRN 100 µg/mL이 zoledronic acid(50 µM) 유발 성장억제를 예방·역전, TBK1 인산화 억제·p-PKB 부분 회복·ROS 감소로 작용 — BRONJ 관련 세포보호 기전.
+
+(incomplete)
 
 ## 1. Document Information
 - Journal: Int J Mol Sci 2025;26:11367

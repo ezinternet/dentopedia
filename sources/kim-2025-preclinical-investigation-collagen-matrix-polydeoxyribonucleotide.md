@@ -13,9 +13,21 @@ source_collection: external
 
 PDRN을 keratinized tissue(KT, 각화치은) regeneration adjunct로 검증한 in vivo study. [[pdrn/lim-2023-xenogeneic-collagen-matrix-polydeoxyribonucleotide-gingival-phenotype]] (같은 그룹, gingival phenotype modification context)의 후속작 성격으로, **buccally positioned implant**라는 임상적으로 흔한 risk scenario에서 PDRN agonist 농도(2.0 vs 4.0 mg/mL)를 비교. 본 wiki에 즉시식립·peri-implant soft-tissue topic 페이지가 늘어나는 흐름에서 PDRN dose-response 단서를 제공.
 
-## One-line Summary
+## Three-line Summary
 
-Buccally positioned implant + buccal dehiscence canine 모델에서 FGG, XCM alone, XCM+PDRN(2.0 mg/mL), XCM+PDRN(4.0 mg/mL) 비교. PDRN2 group이 FGG와 유사한 KT 형성을 보였으나, FGG가 여전히 clinical KT height에서 우위.
+Buccally positioned implant + buccal dehiscence canine 모델에서 FGG,
+
+XCM alone, XCM+PDRN(2.0 mg/mL), XCM+PDRN(4.0 mg/mL) 비교. PDRN2 group이
+
+FGG와 유사한 KT 형성을 보였으나, FGG가 여전히 clinical KT height에서 우위.
+
+## 세줄요약
+
+Buccally positioned implant + buccal dehiscence canine 모델에서 FGG,
+
+XCM alone, XCM+PDRN(2.0 mg/mL), XCM+PDRN(4.0 mg/mL) 비교. PDRN2 group이
+
+FGG와 유사한 KT 형성을 보였으나, FGG가 여전히 clinical KT height에서 우위.
 
 ## 1. Document Information
 

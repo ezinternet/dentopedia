@@ -6,7 +6,7 @@ date: 1975-09-01
 doi: 10.1016/0022-3913(75)90103-1
 source: sheppard-1975-vertical-dimension-measurements-cephalometric.md
 category: [complete-denture]
-confidence: in-vivo
+evidence_level: in-vivo
 pdf_path: /Users/oracleneo/llm-wiki/papers/sheppard-1975-vertical-dimension-measurements-cephalometric.pdf
 pdf_filename: sheppard-1975-vertical-dimension-measurements-cephalometric.pdf
 source_collection: external
@@ -16,13 +16,21 @@ relations:
     target: alhajj-2017-occlusal-vertical-dimension-complete-denture-review
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Classic cephalometric study (n=50 complete denture wearers) comparing facial-marker vs skeletal-landmark vertical-dimension measurements of mandibular rest position, edentulous vs with dentures: facial soft tissue masks true mandibular movement, the rest position is variable and shifts on denture insertion, so the edentulous rest position is not a reliable basis for determining OVD.
+Classic cephalometric study (n=50 complete denture wearers) used both facial lead markers and skeletal landmarks on radiographs to compare mandibular rest-position vertical dimension in edentulous (no dentures) vs edentoprosthetic (dentures inserted) conditions.
 
-## 한줄요약
+Facial soft tissue consistently masked true skeletal mandibular movement; the edentulous rest position was variable and typically increased (or occasionally decreased) when dentures were inserted, with the direction relating to denture age/experience.
 
-총의치 착용자 50명에서 하악 안정위 수직고경을 안면 표지 vs 골격 표지로 두부계측 비교(무치악 vs 의치 장착): 안면 연조직이 실제 하악 움직임을 가리고 안정위가 변동·의치 장착 시 이동하므로, 무치악 안정위는 OVD 결정 기준으로 부적합.
+The edentulous rest position — especially judged by facial measurements — is not a reliable sole reference for OVD determination; multiple corroborating methods are needed, making this a foundational citation for the "combine techniques" consensus.
+
+## 세줄요약
+
+두부계측 연구(n=50 총의치 착용자)로 안면 납 표지와 골격 표지를 이용하여 무치악(의치 없음) vs 의치 장착 상태에서 하악 안정위 수직고경을 비교하였다.
+
+안면 연조직은 실제 골격 하악 운동을 일관되게 가렸으며, 무치악 안정위는 변동이 심하고 의치 장착 시 대부분 증가하였으며 방향성은 의치 사용 경험 연수와 관련되었다.
+
+무치악 안정위—특히 안면 측정으로 판단할 때—는 OVD 결정의 신뢰할 수 있는 단독 기준이 아니며, "다중 기법 병용" 합의의 근거가 되는 중요 기초 문헌이다.
 
 ## Summary
 

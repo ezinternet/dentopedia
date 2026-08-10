@@ -7,7 +7,7 @@ doi: 10.1007/s00784-020-03362-w
 pmid: "32451759"
 source: kim-2020-bmp2-immediate-delayed-damaged-socket-yonsei.md
 category: [bone-regeneration/ridge-preservation]
-confidence: animal
+evidence_level: animal
 source_collection: pubmed-text
 full_text: false
 tags: [bmp-2, ridge-preservation, biologics, timing, damaged-socket, cbcp, beagle]
@@ -15,13 +15,21 @@ text_path: /Users/oracleneo/llm-wiki/papers/kim-2020-bmp2-immediate-delayed-dama
 text_filename: kim-2020-bmp2-immediate-delayed-damaged-socket-yonsei.txt
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Beagle dog study (n=5): immediate BMP-2 application in damaged extraction sockets produced significantly more new bone than 2-week delayed injection (10.8 vs 6.3 mm², p=0.043), with no ridge-width difference.
+Beagle dog preclinical study (n=5, split-mouth) comparing immediate vs 2-week delayed BMP-2 application in surgically created buccal-bone-defect extraction sockets (4×9 mm) at mandibular premolars, with CBCP as the graft carrier.
 
-## 한줄요약
+Immediate BMP-2 application produced significantly greater new bone area than delayed injection (10.8 ± 7.0 vs 6.3 ± 3.1 mm², p=0.043) at the 2-week post-grafting sacrifice; ridge width was comparable between groups.
 
-개 실험(n=5): 손상된 발치와에 BMP-2 즉시 적용이 2주 지연 적용보다 신생골 면적 유의 우위 (10.8 vs 6.3 mm², p=0.043), 치조제 폭경 차이는 없음.
+Delayed BMP-2 offered no histomorphometric advantage despite reduced early inflammation, supporting immediate biologics loading as the preferred protocol for BMP-2 with CBCP in damaged socket ridge preservation.
+
+## 세줄요약
+
+Beagle 5마리 분할구강 연구: 하악 소구치에 협측 골 결손 (4×9 mm)을 인위적으로 조성한 손상 발치와에서 CBCP 담체를 이용한 BMP-2 즉시 적용 vs 2주 지연 적용을 비교.
+
+즉시 BMP-2 군이 지연 주사 군보다 신생골 면적 유의 우위 (10.8 ± 7.0 vs 6.3 ± 3.1 mm², p=0.043), 치조제 폭경 차이 없음 (NS).
+
+지연 적용은 초기 염증 반응은 줄었지만 조직형태학적 이점이 없었으며, 손상 발치와 치조제보존에서 BMP-2는 즉시 적용이 선호된다.
 
 ## Summary
 

@@ -16,13 +16,21 @@ text_filename: jimenez-silva-2017-centric-relation-intercuspal-position-discrepa
 
 기존 [[occlusion/kattadiyil-2021-relationship-centric-occlusion-maximal-intercuspal]] 페이지는 CO–MIP(=CR–ICP) discrepancy가 TMD와 연관된다는 주장을 담고 있으나, 그 연관 주장의 근거 강도를 평가할 1차 SR이 위키에 없었다. 본 SR (Jiménez-Silva 2017)은 바로 그 CR–ICP discrepancy–TMD 연관에 대한 직접적 systematic review로서, 개별 연구는 연관을 시사하나 low quality + heterogeneity로 확정 불가라는 근거 기반(evidence base)을 제공한다. CR/CO/MICP 6편 batch의 일부.
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (n=20 low-quality observational studies; NOS mean 3.36): most individual studies link CR–ICP (centric) discrepancy to muscle pain and joint disorders, but heterogeneity + low quality preclude any definite causal association with TMD.
+Systematic review (n=20 low-quality observational studies;
 
-## 한줄요약
+NOS mean 3.36): most individual studies link CR–ICP (centric) discrepancy to muscle pain and joint disorders, but heterogeneity + low quality preclude any definite causal association with TMD.
+
+(incomplete)
+
+## 세줄요약
 
 체계적 문헌고찰(저질 관찰연구 20편, NOS 평균 3.36): 대부분의 개별 연구는 중심위–최대교두감합위 불일치(CR–ICP discrepancy)를 근육통·관절장애와 연관시키지만, 이질성과 낮은 질로 인해 측두하악장애(TMD)와의 확정적 인과 연관은 성립할 수 없다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

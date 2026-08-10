@@ -1,0 +1,49 @@
+{
+  "overview": "keratinized-mucosa-peri-implant-health-overview",
+  "date": "2026-07-23",
+  "title": "각화점막과 임플란트 건강 — 리콜",
+  "source_wiki": [
+    "wiki/overviews/keratinized-mucosa-peri-implant-health-overview.md"
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "q": "각화점막 폭(KMW)의 임상 임계값과 근거의 방향성은?",
+      "opts": [
+        "KMW는 넓을수록 계속 좋아지므로 임계값이 없다",
+        "~2mm 역치가 모든 근거 등급에서 수렴 — <2mm는 biofilm·BOP·퇴축·MBL 증가 역치(Sanz 2022 합의), 단 >2mm 광폭은 추가 보호 없음",
+        "KMW <5mm면 모두 위험",
+        "KMW는 임플란트 건강과 무관하다"
+      ],
+      "ans": 1,
+      "rat": "~2mm KMW 역치가 전문가 합의·SR+MA·장기 코호트 모두 수렴. <2mm는 biofilm·BOP·퇴축·MBL 증가 역치로 조작화(Sanz 2022 DGI/SEPA/Osteology 합의), >2mm 광폭은 추가 보호 없음. 근거는 비대칭 — 연조직 대리지표(치태·염증·퇴축)엔 강하고 일관, 경성 endpoint엔 방향성은 있으나 제한적(저빈도·고검정력 endpoint의 방법론적 현실).",
+      "cite": "overviews/keratinized-mucosa-peri-implant-health-overview"
+    },
+    {
+      "id": "q2",
+      "q": "KMW 부족과 임플란트주위염 발생의 정량 연관은? (Mahardawi 2023)",
+      "opts": [
+        "연관 없음",
+        "임플란트주위염 OR 2.78(22편, 13,265 임플란트); MBL ≥2mm 정의로 제한 시 I²=0%·OR 1.96, 교란보정 시 OR 3.68 — 정기 유지관리 내에서도 유지(OR 2.08)로 독립 위험인자",
+        "OR 0.5로 보호 인자",
+        "탐침깊이(PD)가 가장 민감한 지표"
+      ],
+      "ans": 1,
+      "rat": "Mahardawi 2023(22편, 13,265 임플란트): KM 결핍 → 임플란트주위염 OR 2.78, MBL ≥2mm 정의로 제한 시 I²=0%·OR 1.96, 교란보정 OR 3.68, 정기 유지관리 내에서도 OR 2.08 → 독립 위험인자. TSA 가장 확정적 연관은 치태(Ravidà 2022). PD는 KM 결핍에 둔감한 지표로 비유의.",
+      "cite": "overviews/keratinized-mucosa-peri-implant-health-overview"
+    },
+    {
+      "id": "q3",
+      "q": "KMW <2mm의 표준 증대 술식과 그 내구성 근거는?",
+      "opts": [
+        "증대술식은 효과가 없다",
+        "유리치은이식(FGG)이 표준 — 근단변위피판 동반 시 1.5–6.5mm KMW 획득; 20년 코호트에서 SPC 중 적용한 FGG가 원발 KT와 통계적으로 구별 불가한 결과(Roccuzzo 2025)",
+        "동종이식(ADM)이 1순위",
+        "증대는 심미부에서만 필요"
+      ],
+      "ans": 1,
+      "rat": "FGG가 표준 증대술식 — 근단변위피판 동반 시 1.5–6.5mm KMW 획득, 20년 내구성(Roccuzzo 2025: KM 없음→임플란트주위염 25% vs KT군 4.2%, OR 6.67; SPC 중 적용 FGG가 원발 KT와 구별 불가). 이종이식(XCM)은 CTG와 비열등·수술시간 18.5분 단축, 동종이식(ADM)은 수축 19.5% 더 커 하위 옵션.",
+      "cite": "overviews/keratinized-mucosa-peri-implant-health-overview"
+    }
+  ]
+}

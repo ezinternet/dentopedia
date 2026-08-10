@@ -17,13 +17,21 @@ text_filename: aung-2022-three-rooted-mandibular-first-molars-prevalence-ma.txt
 
 치아형태학 감시 인제스트 — 하악 제1대구치의 부가 원심설측근(Radix Entomolaris, RE)/3근(three-rooted PMFM) 전세계 유병률을 정량화해, 근관치료 시 놓친 원심설측근관(missed distolingual canal) 위험을 인종·지역별로 보강한다. 기존 [[endodontics/anatomy/shekarian-2023-cshaped-canals-three-rooted-mandibular-iranian]]는 단일(이란) 인구의 3근·C-shaped 공존을 다루는데, 본 72-study 메타분석은 그 단일-인구 소견을 31개국·26,302명 규모의 글로벌 prevalence 그라디언트로 확장·맥락화한다.
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 72 CBCT studies (31 countries, 26,302 patients / 37,994 mandibular first molars): global tooth-level prevalence of a third root is 8.85%, patient-level 10.3%, with a steep East-Asia/Mongoloid → West gradient (East Asia 24% vs Europe 2% vs Africa 0.9%), ~46% bilateral symmetry, right-side dominance, and no sex difference.
+SR+MA (PROSPERO-registered; 72 in-vivo CBCT studies, 31 countries, 26,302 patients, 37,994 mandibular first molars) — the largest prevalence meta-analysis of three-rooted permanent mandibular first molars (PMFM), restricted to CBCT in-vivo designs to minimize detection bias, reporting tooth-level, patient-level, and bilateral symmetry estimates.
 
-## 한줄요약
+Global tooth-level prevalence is 8.85% (95% CI 6.60–11.39; I²=99%); patient-level is 10.3% (6.9–14.4); bilateral symmetry is 46.22%; there is a steep East-Asia→West ethnic gradient (East Asia 24% vs Europe 2% vs Africa 0.9%), right-side predominance, and no sex difference; Radix Entomolaris (RE) accounts for 12.3% while Radix Paramolaris (RP) is extremely rare (0.1%).
 
-72편 CBCT 연구(31개국, 환자 26,302명·치아 37,994개) 메타분석 — 하악 제1대구치 3근(원심설측근, RE) 치아수준 유병률 8.85%, 환자수준 10.3%, 동아시아(24%)에서 유럽(2%)·아프리카(0.9%)로 급감하는 인종 그라디언트, 양측대칭 약 46%, 우측 우세, 성차 없음.
+In Korean and other East-Asian patients, ~1 in 4 mandibular first molars has an additional distolingual root (Radix Entomolaris, RE) — clinicians must assume its presence until CBCT confirms otherwise; very high heterogeneity (I²=99%) reflects the strong ethnic driver.
+
+## 세줄요약
+
+SR+MA(PROSPERO 등록; 체내 CBCT 연구 72편, 31개국, 환자 26,302명, 하악 제1대구치 37,994개) — 하악 제1대구치 3근(three-rooted PMFM) 유병률 최대 규모 메타분석으로 치아수준·환자수준·양측대칭 추정치 포함.
+
+치아수준 전세계 유병률 8.85%(95% CI 6.60–11.39; I²=99%), 환자수준 10.3%, 양측대칭 46.22%; 동아시아 24% → 유럽 2% → 아프리카 0.9%의 급격한 인종 그라디언트, 우측 우세, 성차 없음; 원심설측근(Radix Entomolaris, RE) 12.3%, 협측 부가근(Radix Paramolaris, RP) 0.1%.
+
+한국·동아시아 환자에서 하악 제1대구치 약 4명 중 1명에 원심설측근(RE)이 존재하여 CBCT로 확인 전까지는 그 존재를 가정해야 하며, I²=99%의 극도로 높은 이질성은 강력한 인종적 결정 요인을 반영함.
 
 ## 1. Document Information
 

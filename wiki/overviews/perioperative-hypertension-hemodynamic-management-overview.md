@@ -7,12 +7,12 @@ type: overview
 category: [overviews]
 tags: [hypertension, hemodynamics, blood-pressure, oral-surgery, tooth-extraction, ECG-monitoring, perioperative, implant]
 source_papers:
-  - wiki/drug/systemic-disease/hamade-2024-hypertension-dental-implants-sr-ma.md
+  - wiki/implants/survival/hamade-2024-hypertension-dental-implants-sr-ma.md
   - wiki/drug/systemic-disease/kumari-2025-hemodynamic-fluctuations-during-tooth-extraction.md
   - wiki/drug/systemic-disease/liu-2024-perioperative-hypertension-implant-bone-augmentation.md
   - wiki/drug/systemic-disease/perozo-2026-perioperative-hemodynamic-hypertensive-oral-surgery-protocol.md
   - wiki/drug/systemic-disease/yang-2025-tooth-extraction-hypertensive-ecg-monitoring.md
-confidence: synthesis
+evidence_level: synthesis
 source: synthesis
 ---
 
@@ -29,13 +29,21 @@ source: synthesis
 > - 마취제 영향: 에피네프린 함유 리도카인이 무혈관수축제 메피바케인보다 BP/HR 더 상승 (주로 고혈압군) → Perozo 프로토콜은 조절된 고혈압에서 **에피네프린 0.04 mg(1:100,000 2 카트리지)로 상한**.
 > - 임상 종합: 술전 BP 스크리닝(특히 SBP ≥159) → 위험 stratify → 고위험군에 지속 ECG·반복 BP·짧고 분할된 세션·불안 조절 → 수술 중 SBP ≥180 시 약물 개입(니트로글리세린 86% 사용) → 술후 회복실 모니터링·심혈관계 위험 때문에 NSAID 회피. 단 Perozo 프로토콜은 n=39 파일럿 미검증, Liu 2024는 초록만, 모니터링 근거는 단일센터 후향연구 위주 — 근거 수준 한계 명시.
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis of 5 papers on perioperative hypertension in dental/oral surgery: baseline BP status is the dominant intraoperative hemodynamic determinant (Perozo 2026, eta²=0.33) — hypertensives run ~30 mmHg higher SBP throughout and a 7-fold hemorrhage rate (66.7% vs 9.5%) — yet stable hypertension does not raise long-term implant failure (Hamadé 2024 SR+MA, OR 1.100, NS). The practical triage cutoff is preoperative SBP ≥159 mmHg (Yang 2025, AUC 0.91) predicting need for intraoperative BP drugs; transient new ECG abnormalities occur in 37.2% of hypertensive extractions (all non-lethal), and implant+bone-augmentation surgery triggers perioperative hypertension in 26.77% (older males, >60 min cases, GBR). Defer at ≥180/110 mmHg.
+Synthesis of 5 papers on perioperative hypertension in dental/oral surgery: baseline blood pressure (BP) status is the dominant intraoperative hemodynamic determinant (Perozo 2026, eta²=0.33) — hypertensives run ~30 mmHg higher SBP throughout with 7-fold hemorrhage (66.7% vs 9.5%) — yet stable controlled hypertension does not raise long-term implant failure (Hamadé 2024 SR+MA, OR 1.100, NS).
 
-## 한줄요약
+Practical triage cutoffs: preoperative SBP ≥159 mmHg predicts need for intraoperative antihypertensive drugs (Yang 2025, n=2,059, AUC 0.91, sensitivity 84%, specificity 89%); defer at ≥180/110 mmHg; transient new ECG abnormalities occur in 37.2% of hypertensive extractions (all non-lethal, 2/2,059 aborted).
 
-치과 구강수술에서 기저 고혈압 (Hypertension) 상태가 수술 중 혈역학 변동의 최대 결정인자(Perozo 2026, eta²=0.33)이며 고혈압군은 SBP가 ~30 mmHg 더 높고 출혈 7배(66.7% vs 9.5%)지만, 조절된 고혈압의 장기 임플란트 실패 위험은 정상혈압과 동등(Hamadé 2024 SR+MA, OR 1.100, NS); 실용 트리아지 컷오프는 술전 SBP ≥159 mmHg(Yang 2025, AUC 0.91), 발치 중 일과성 신규 심전도(ECG) 이상 37.2%(전부 비치명적), 임플란트+골증대 围术期 고혈압 26.77%(고령·남성·>60분·GBR), 연기 임계값 ≥180/110 mmHg.
+Implant + bone-augmentation surgery triggers perioperative hypertension in 26.77% (risk factors: age ≥60, male sex, surgery >60 min, GBR; Liu 2024, n=728); epinephrine-containing lidocaine raises BP/HR more than vasoconstrictorfree mepivacaine — limit to 0.04 mg epinephrine (2 cartridges 1:100,000) in controlled hypertensives.
+
+## 세줄요약
+
+치과 구강수술 주술기 고혈압 5편 종합 — 기저 고혈압(Hypertension) 상태가 수술 중 혈역학 변동의 최대 결정인자(Perozo 2026, eta²=0.33); 고혈압군은 수축기혈압(Systolic Blood Pressure, SBP)이 ~30 mmHg 높고 출혈 7배(66.7% vs 9.5%)이나, 조절된 고혈압의 장기 임플란트 실패 위험은 정상혈압과 동등(Hamadé 2024 SR+MA, OR 1.100, NS).
+
+실용 트리아지 컷오프: 술전 SBP ≥159 mmHg → 수술 중 혈압강하제 필요 예측(Yang 2025, AUC 0.91, 민감도 84%·특이도 89%); 일과성 신규 심전도(Electrocardiogram, ECG) 이상 37.2%(전부 비치명적); 연기 임계값 ≥180/110 mmHg.
+
+임플란트+골증대 주술기 고혈압 발생률 26.77%(위험인자: 60세 이상·남성·>60분·골유도재생술(GBR), Liu 2024); 에피네프린 함유 리도카인이 BP/HR 더 상승 → 조절 고혈압에서 에피네프린 0.04 mg(2 카트리지 1:100,000) 상한.
 
 ---
 
@@ -169,5 +177,5 @@ The **risk-factor profile shifted by augmentation approach** (overall incidence 
 - [[drug/systemic-disease/yang-2025-tooth-extraction-hypertensive-ecg-monitoring]] — supplies the actionable preoperative SBP ≥159 mmHg cutoff (AUC 0.91), the intraoperative intervention trigger, the 37.2% transient-ECG-abnormality rate, and the distinct predictor sets for BP-intervention vs ECG-abnormality.
 - [[drug/systemic-disease/kumari-2025-hemodynamic-fluctuations-during-tooth-extraction]] — provides the normotensive reference curve (peak at extraction step, postop dip below baseline) against which the hypertensive response is framed; anxiolysis rationale.
 - [[drug/systemic-disease/liu-2024-perioperative-hypertension-implant-bone-augmentation]] — quantifies perioperative-hypertension incidence (26.77%) and risk factors (male, age ≥60, time >60 min) in implant + bone-augmentation surgery, with risk profile varying by GBR / transalveolar / lateral-window approach (abstract-only caveat).
-- [[drug/systemic-disease/hamade-2024-hypertension-dental-implants-sr-ma]] — the durable-outcome anchor: stable hypertension does NOT raise implant failure odds (OR 1.100, NS, 21,066 implants) — separates intraoperative safety from long-term prognosis.
+- [[implants/survival/hamade-2024-hypertension-dental-implants-sr-ma]] — the durable-outcome anchor: stable hypertension does NOT raise implant failure odds (OR 1.100, NS, 21,066 implants) — separates intraoperative safety from long-term prognosis.
 - [[overviews/drug-systemic-disease-dental-management-overview]] — parent overview on medically compromised dental patients; this page is the cardiovascular/hemodynamic spoke (hypertension intraoperative management).

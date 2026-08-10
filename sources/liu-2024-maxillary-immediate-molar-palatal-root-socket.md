@@ -9,8 +9,21 @@ pdf_filename: liu-2024-maxillary-immediate-molar-palatal-root-socket.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Case report (2-year follow-up) of maxillary immediate molar implant placement using the palatal root socket as the primary anchorage when inter-radicular septum is inadequate.
+## Three-line Summary
+
+Case report (2-year follow-up) of maxillary immediate molar
+
+implant placement using the palatal root socket as
+
+the primary anchorage when inter-radicular septum is inadequate.
+
+## 세줄요약
+
+Case report (2-year follow-up) of maxillary immediate molar
+
+implant placement using the palatal root socket as
+
+the primary anchorage when inter-radicular septum is inadequate.
 
 ## 1. Document Information
 - **Title:** Maxillary Immediate Molar Implant Placement Into Palatal Root Socket: A Case Report of Two-Year Follow-Up
@@ -32,9 +45,9 @@ Implant integration and stable peri-implant bone at 2 years in the reported case
 Case-level evidence; technique-sensitive; requires sufficient palatal-root socket volume.
 
 ## 6. Related Work
-- [[immediate-implant/smith-2013-classification-molar-extraction-immediate-implant]]
-- [[immediate-implant/ragucci-2020-immediate-implant-molar-extraction-sockets]]
-- [[immediate-implant/yaghmai-2025-palatal-root-socket-all-on-x]]
+- [[immediate-implant/molar-septum/smith-2013-classification-molar-extraction-immediate-implant]]
+- [[immediate-implant/molar-septum/ragucci-2020-immediate-implant-molar-extraction-sockets]]
+- [[immediate-implant/molar-septum/yaghmai-2025-palatal-root-socket-all-on-x]]
 
 ## 7. Glossary
 - **IIP:** Immediate Implant Placement — placement at the time of tooth extraction.

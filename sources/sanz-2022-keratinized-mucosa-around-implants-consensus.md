@@ -13,13 +13,21 @@ source_collection: external
 
 임플란트 주위 각화점막 (Keratinized Peri-Implant Mucosa, KPIM)의 임상적 중요성에 대한 공식 consensus report로, DGI/SEPA/Osteology 워크숍 Group 1의 34개 합의 성명서와 임상 권고안을 담고 있다. 기존 [[implants/thoma-2021-soft-tissue-management-implants-eao-consensus]]이 soft tissue management 전반을 다루는 반면, 본 보고서는 KM < 2 mm threshold와 외과적 증대술(자가이식 vs 대체재)에 특화된 합의 기반 권고를 제공하여 임상 결정 근거를 보강한다.
 
-## One-line Summary
+## Three-line Summary
 
-DGI/SEPA/Osteology 2022 consensus report (34 statements, 2 SRs): keratinized peri-implant mucosa (KPIM) < 2 mm is associated with increased peri-implantitis, plaque, mucosal recession and MBL; FGG is standard of care for KPIM augmentation, with xenogeneic substitutes as a comparable alternative to CTG.
+DGI/SEPA/Osteology 2022 consensus report (34 statements, 2 SRs): keratinized peri-implant mucosa (KPIM) < 2 mm is associated with increased peri-implantitis, plaque, mucosal recession and MBL;
 
-## 한줄요약
+FGG is standard of care for KPIM augmentation, with xenogeneic substitutes as a comparable alternative to CTG.
+
+(incomplete)
+
+## 세줄요약
 
 DGI/SEPA/Osteology 2022 합의 보고서 (34개 성명·2편 SR 기반): KPIM < 2 mm는 임플란트 주위염·치태·점막퇴축·변연골소실 증가와 연관되며, 자유치은이식(FGG)이 표준술식이고 이종이식(xenograft)은 결합조직이식(CTG)과 유사한 대안으로 인정된다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

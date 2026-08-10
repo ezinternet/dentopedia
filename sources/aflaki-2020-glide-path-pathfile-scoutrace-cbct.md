@@ -13,8 +13,21 @@ source_collection: external
 
 [[endodontics/shaping/aminsobhani-2022-glide-path-pathfinder-s-canal]]·[[endodontics/shaping/pui-yii-2021-glide-path-apical-bacteria-extrusion]]와 함께 glide path 단계 데이터 삼각측량. 자연치(추출치) CBCT 측정 — resin block 일반화 한계를 메우는 dentin-substrate 근거.
 
-## One-line Summary
-Ex-vivo extracted mandibular molars (n=51, 25-45° curvature): manual SS K-file이 PathFile·Scout RaCe rotary 대비 3·9 mm level transportation 유의 증가; rotary 두 시스템 NS 차이.
+## Three-line Summary
+
+Ex-vivo CBCT study (n=51 extracted mandibular first/second molars, 25–45° curvature, 3 groups of 17) comparing canal transportation after glide path preparation by manual SS K-files vs PathFile vs Scout RaCe rotary systems.
+
+Manual SS K-files caused significantly greater canal transportation at the 3 mm and 9 mm levels compared to both rotary systems (p < 0.05); PathFile and Scout RaCe showed no statistically significant difference between them.
+
+Both rotary glide path systems preserve canal geometry better than manual instrumentation in curved canals, though the small sample (n=51) and limited CBCT resolution compared to micro-CT are key limitations.
+
+## 세줄요약
+
+Ex-vivo CBCT 연구(n=51, 하악 1·2대구치 25–45° 만곡, 각 군 17개): manual SS K-파일 대 PathFile 대 Scout RaCe rotary 시스템으로 글라이드패스 형성 후 근관 이동(transportation) 비교.
+
+Manual SS K-파일이 3 mm·9 mm level에서 두 rotary 시스템보다 유의하게 더 큰 이동 유발(p < 0.05); PathFile vs Scout RaCe 간 유의차 없음.
+
+만곡 근관에서 두 rotary 글라이드패스 시스템은 manual보다 근관 형태 보존이 우수하나, 소규모(n=51)·단일 만곡 유형·CBCT 해상도 한계가 있음.
 
 ## 1. Document Information
 - Frontiers in Dentistry 17:30 (2020)

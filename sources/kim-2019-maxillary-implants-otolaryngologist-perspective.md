@@ -17,13 +17,21 @@ text_filename: kim-2019-maxillary-implants-otolaryngologist-perspective.txt
 
 상악동 임플란트 합병증 중 자연공 (natural ostium) 폐쇄 및 만성 부비동염 발생에 대한 ENT 전문의 관점의 프로토콜이 필요했음. 기존 [[wiki/sinus-lift/lateral/akbari-2022-maxillary-sinus-mucosal-thickening-ridge-height]]가 점막두께와 잔존골 높이의 관계를 다루지만, 골이식편 탈락에 의한 자연공 차단 및 수술 전·후 비내시경 평가와 FESS 적응증을 포함한 통합적 ENT-치과 공동 관리 프로토콜은 이 논문이 최초로 제시함. ENT 의뢰 기준 수립의 근거 문헌으로 활용.
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review from otolaryngologists at Seoul St. Mary's Hospital outlining preoperative maxillary sinus assessment, sinus pathology classification, and ENT-dental joint management protocols to reduce post-implant sinusitis (~5% incidence).
+Narrative review from otolaryngologists at Seoul St.
 
-## 한줄요약
+Mary's Hospital outlining preoperative maxillary sinus assessment, sinus pathology classification, and ENT-dental joint management protocols to reduce post-implant sinusitis (~5% incidence).
+
+(incomplete)
+
+## 세줄요약
 
 서울성모병원 이비인후과 전문의 관점에서 상악 임플란트 전 부비동 평가·병리 분류·FESS 적응증을 정리한 서술 리뷰로, 골이식편 탈락에 의한 자연공 차단이 핵심 합병증 기전임을 강조.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

@@ -6,18 +6,26 @@ date: 2020-09-01
 doi: null
 source: aflaki-2020-glide-path-pathfile-scoutrace-cbct.md
 category: [endodontics/shaping]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/aflaki-2020-glide-path-pathfile-scoutrace-cbct.pdf
 pdf_filename: aflaki-2020-glide-path-pathfile-scoutrace-cbct.pdf
 source_collection: external
 tags: [glide-path, pathfile, scout-race, transportation, cbct, manual-file]
 ---
 
-## One-line Summary
-Ex-vivo CBCT study (n=51 mandibular molar MB canals, 25–45° curvature): manual SS K-file produces significantly larger canal transportation at 3- and 9-mm levels than PathFile or Scout RaCe rotary systems; the two rotary systems are equivalent.
+## Three-line Summary
+Ex-vivo pre/post CBCT study (n=51 extracted mandibular molars, mesiobuccal canals, 25–45° curvature) comparing canal transportation at three apico-coronal levels after glide-path preparation with manual stainless-steel K-files, PathFile rotary, or Scout RaCe rotary systems in natural dentin.
 
-## 한줄요약
-Ex-vivo extracted mandibular molar mesiobuccal canals (n=51, 25-45° curvature) CBCT: manual SS K-file produces significantly larger transportation at 3- and 9-mm levels than PathFile or Scout RaCe rotary systems; the two rotary systems are equivalent.
+Manual K-files produced significantly larger canal transportation at 3 mm and 9 mm from the apex (p<0.05) compared to either rotary system; PathFile and Scout RaCe were statistically equivalent to each other.
+
+The natural-dentin substrate increases clinical generalizability over resin-block studies, supporting a preference for rotary glide-path systems in moderately to severely curved canals.
+
+## 세줄요약
+발치된 하악 대구치 근심협측(MB) 근관(n=51, 25–45° 만곡도) 대상 Ex-vivo 3차원 전산화단층촬영(CBCT) 비교 연구 — 수기 스테인리스스틸 K-file, PathFile 회전형, Scout RaCe 회전형 글라이드패스(Glide Path) 3군 비교.
+
+K-file은 치근단 3 mm 및 9 mm 수준에서 두 회전형 시스템보다 유의하게 큰 근관 이동(Canal Transportation) 유발(p<0.05); PathFile vs Scout RaCe 간 유의차 없음.
+
+자연 상아질 기질 사용으로 레진 블록보다 임상적 외삽(External Validity) 우수 — 중등도~고도 만곡 근관에서 회전형 글라이드패스 기구 사용 지지.
 
 ## Summary
 Pre/post CBCT comparison of three glide-path techniques in moderately to severely curved mesiobuccal canals of mandibular molars. Manual stainless-steel K-files caused more apical and coronal transportation than either PathFile or Scout RaCe rotary systems, while the two rotary systems performed equivalently.

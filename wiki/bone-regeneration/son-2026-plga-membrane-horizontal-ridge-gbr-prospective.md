@@ -6,7 +6,7 @@ date: 2026-01-01
 doi: 10.1007/s00784-026-06959-9
 source: son-2026-plga-membrane-horizontal-ridge-gbr-prospective.md
 category: bone-regeneration
-confidence: prospective
+evidence_level: prospective
 source_collection: pubmed-text
 full_text: true
 pmid: "42240865"
@@ -24,13 +24,21 @@ relations:
     target: liu-2026-barrier-membranes-gbr-design-applications
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Prospective single-arm clinical study (20 patients / 21 sites) of a 3D-preformed resorbable PLGA membrane (3D-PRPM) with simultaneous implant placement and xenograft: mean horizontal bone augmentation 2.99 ± 1.15 mm and hard tissue gain 2.64 ± 1.10 mm at 5 months (retention rate 87.2%), with zero membrane exposure, infection, or dehiscence.
+Prospective single-arm clinical study (20 patients / 21 localized horizontal ridge defects, simultaneous implant placement; 5-month CBCT follow-up) of a fixation-free, fully resorbable 3D-preformed PLGA membrane (3D-PRPM, r-Builder, Osstem).
 
-## 한줄요약
+Mean horizontal bone augmentation was 2.99 ± 1.15 mm with 2.64 ± 1.10 mm of hard tissue retained at 5 months (hard tissue gain rate 87.2%, significantly exceeding the 80% titanium-mesh reference, p<0.001); zero membrane exposures, infections, or dehiscences across all 21 sites.
 
-전향적 단일군 임상연구(20명/21부위): 임플란트 동시 식립 + 이종골 + 3D 예성형 흡수성 PLGA 차폐막(3D-PRPM) 사용 시 수평 골증대 평균 2.99 mm, 5개월 경성조직 획득 2.64 mm(획득률 87.2%), 막 노출·감염·열개 0건.
+This is the first clinical evidence that a fully resorbable, fixation-free 3D-preformed PLGA membrane achieves titanium-mesh-comparable horizontal augmentation while eliminating the need for second-stage removal — but the study lacks a control arm, histology, and long-term implant survival data.
+
+## 세줄요약
+
+전향적 단일군 임상연구(20명/21부위 국소 수평 결손, 임플란트 동시 식립; 5개월 CBCT 추적): 고정없는 완전흡수성 3D 예성형 PLGA 차폐막(3D-PRPM, r-Builder, Osstem) 평가.
+
+평균 수평 골증대 2.99±1.15 mm, 5개월 경성조직 유지 2.64±1.10 mm(경성조직 획득률 87.2%, 티타늄 메쉬 기준 80% 유의 초과, p<0.001); 21부위 전체 막 노출·감염·열개 0건.
+
+완전흡수성·고정불요 3D-PRPM이 티타늄 메쉬 수준 수평증대 + 2차 제거 수술 불필요를 처음으로 임상 입증; 단 대조군·조직학·장기 임플란트 생존 데이터 없음.
 
 ## Summary
 

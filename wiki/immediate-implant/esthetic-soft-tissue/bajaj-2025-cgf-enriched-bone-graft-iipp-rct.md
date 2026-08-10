@@ -6,18 +6,28 @@ date: 2025-06-30
 doi: 10.17219/dmp/170045
 source: bajaj-2025-cgf-enriched-bone-graft-iipp-rct.md
 category: [immediate-implant/esthetic-soft-tissue]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/bajaj-2025-cgf-enriched-bone-graft-iipp-rct.pdf
 pdf_filename: bajaj-2025-cgf-enriched-bone-graft-iipp-rct.pdf
 source_collection: external
 tags: ['IIPP', 'CGF', 'jump space', 'esthetic zone', 'bone graft']
 ---
 
-## One-line Summary
-RCT (n=40, 12 months) of immediate implant placement with provisionalization (IIPP) in the maxillary esthetic zone, comparing CGF-enriched bone graft vs no graft in the jump space; the CGF group showed significantly better hard-tissue preservation (ridge width, vertical/jump-space and ridge-area dimensions) and a higher Testori esthetic score.
+## Three-line Summary
 
-## 한줄요약
-RCT (n=40, 12개월): 상악 심미부 즉시식립+즉시임시치관 (IIPP) 시 jump space에 CGF 강화 골이식재 사용 vs 비사용 — RW, VD-distal, JS-mesial/distal/buccal, RA-mesial/buccal, Testori 심미점수 (TS)에서 시험군 유의 우위.
+RCT (n=40, 12 months, Dental & Medical Problems 2025) comparing immediate implant placement with provisionalization (IIPP) in the maxillary esthetic zone with vs without concentrated growth factor (CGF)-enriched bone graft in the jump space.
+
+The CGF group showed significantly better hard-tissue preservation at 12 months: ridge width (4 mm from crest 9.80 ± 0.89 mm), vertical dimension-distal (1.35 ± 0.43 mm), jump-space mesial/distal/buccal dimensions, ridge area, and Testori esthetic score (p<0.05 for all).
+
+Short follow-up (12 months), single center, and absence of long-term data limit conclusions; CGF adds autologous growth factors but the relative contribution of grafting vs CGF cannot be separated.
+
+## 세줄요약
+
+RCT (n=40, 12개월, Dent Med Prob 2025): 상악 심미부 즉시식립+즉시임시치아(IIPP) 시 jump space에 CGF 강화 골이식재 사용(시험, n=20) vs 무이식(대조, n=20) 비교.
+
+12개월 기준 시험군에서 치조제 폭(4 mm 계측 9.80 ± 0.89 mm)·VD-distal(1.35 ± 0.43 mm)·JS mesial/distal/buccal·RA·Testori 심미점수 모두 유의하게 우수(p<0.05).
+
+추적 12개월·단일 센터로 장기 근거 부족; 이식재 효과와 CGF 효과 분리 불가 — 추가 RCT 필요.
 
 ## Summary
 RCT evaluating CGF (concentrated growth factor)-enriched bone graft in the jump space of immediate implant placement with provisionalization (IIPP) in the maxillary esthetic zone. 40 immediate implants placed with (test) or without (control) CGF-enriched graft. Clinical (mPI, mSBI, PD, GT, TS) and CBCT-based hard-tissue measures (CBH, BBT, RW, VD, JS, RA) at baseline, 6 mo, 12 mo. VAS for pain and satisfaction.
@@ -40,7 +50,7 @@ RCT evaluating CGF (concentrated growth factor)-enriched bone graft in the jump 
 IIPP 시 jump space CGF 강화 골이식재 사용 시 12개월 시점 hard-tissue 보존과 심미 결과 모두 유의하게 향상. 단기 데이터지만 자가 혈액유래 + 골이식 조합의 단일 RCT 근거. 장기 추적 필요.
 
 ## Related Papers
-- [[immediate-implant/seyssens-2022-immediate-implant-socket-grafting-sr-ma]] — socket grafting general SR+MA
+- [[immediate-implant/gap-grafting/seyssens-2022-immediate-implant-socket-grafting-sr-ma]] — socket grafting general SR+MA
 - [[immediate-implant/esthetic-soft-tissue/azadi-2025-soft-tissue-grafting-immediate-implant-bayesian-nma]] — soft tissue graft NMA
 
 ## Sources

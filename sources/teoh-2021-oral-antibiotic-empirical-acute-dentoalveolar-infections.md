@@ -13,13 +13,21 @@ source_collection: external
 
 [[wiki/drug/lockhart-2019-antibiotic-pulpal-periapical-pain-swelling]](치수·치근단 통증 비처방)에서 한 걸음 더 — 이미 **급성 치성감염(농양)**이 생겼을 때 어떤 경구 항생제를 쓸지, 그리고 **항생제가 정말 필요한지**를 묻는다. 항생제 스튜어드십 클러스터([[wiki/drug/mendez-millan-2024-antibiotic-overprescription-apical-periodontitis-sr-ma]])를 "감염 발생 후" 시나리오로 확장.
 
-## One-line Summary
+## Three-line Summary
 
 Systematic review (2,994 screened → 8 included): across many regimens (amoxicillin, amox/clav, cefalexin, clindamycin, metronidazole, etc.) for acute dentoalveolar infections, virtually all showed clinical success, and one study found no antibiotics gave the same outcome as broad-spectrum — concluding broad-spectrum first-line empirical antibiotics are unnecessary, narrow-spectrum is equally effective in healthy patients, and dental treatment (drainage / source removal) is the primary determinant of success.
 
-## 한줄요약
+(incomplete)
 
-체계적 문헌고찰(2,994편 선별 → 8편 포함): 급성 치성감염(농양)에 쓰인 여러 항생제 요법(amoxicillin, amox/clav, cefalexin, clindamycin, metronidazole 등) 거의 모두 임상 성공, 한 연구에서는 **무항생제 = 광범위 항생제와 동일 결과**. 결론: 광범위 항생제 1차 경험적 처방 불필요, 건강한 환자엔 좁은 스펙트럼도 동등하게 효과적이며, **감염원 제거(배농·근관치료·발치)가 성공의 1차 요인**.
+(incomplete)
+
+## 세줄요약
+
+체계적 문헌고찰(2,994편 선별 → 8편 포함): 급성 치성감염(농양)에 쓰인 여러 항생제 요법(amoxicillin, amox/clav, cefalexin, clindamycin, metronidazole 등) 거의 모두 임상 성공, 한 연구에서는 **무항생제 = 광범위 항생제와 동일 결과**.
+
+결론: 광범위 항생제 1차 경험적 처방 불필요, 건강한 환자엔 좁은 스펙트럼도 동등하게 효과적이며, **감염원 제거(배농·근관치료·발치)가 성공의 1차 요인**.
+
+(incomplete)
 
 ## 1. Document Information
 

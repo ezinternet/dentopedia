@@ -15,15 +15,23 @@ text_filename: surendra-2025-flapless-versus-flapped-crestal-bone.txt
 
 ## Why Ingested
 
-User requested a PubMed ingest on flapless implant placement. The wiki's flapless evidence is concentrated in the *immediate*-implant context ([[immediate-implant/pitman-2023-immediate-implant-flap-flapless-sr-ma]], [[immediate-implant/mansouri-2025-flapless-immediate-implant-bone-grafting-sr-ma]], [[immediate-implant/paknejad-2017-flapless-immediate-implant-buccal-gap-rct]]); this RCT addresses the more basic question of flapless vs flapped in *delayed/healed-ridge* single-tooth placement, where evidence on crestal bone preservation is thinner. It directly contradicts the no-difference crestal finding of the paired cohort [[implants/tarpara-2025-flapless-flapped-clinical-outcomes-cohort]], making the pair a useful illustration of how study design (RCT vs non-randomized cohort) and follow-up length drive opposite conclusions.
+User requested a PubMed ingest on flapless implant placement. The wiki's flapless evidence is concentrated in the *immediate*-implant context ([[immediate-implant/pitman-2023-immediate-implant-flap-flapless-sr-ma]], [[immediate-implant/gap-grafting/mansouri-2025-flapless-immediate-implant-bone-grafting-sr-ma]], [[immediate-implant/gap-grafting/paknejad-2017-flapless-immediate-implant-buccal-gap-rct]]); this RCT addresses the more basic question of flapless vs flapped in *delayed/healed-ridge* single-tooth placement, where evidence on crestal bone preservation is thinner. It directly contradicts the no-difference crestal finding of the paired cohort [[implants/tarpara-2025-flapless-flapped-clinical-outcomes-cohort]], making the pair a useful illustration of how study design (RCT vs non-randomized cohort) and follow-up length drive opposite conclusions.
 
-## One-line Summary
+## Three-line Summary
 
 Prospective RCT (n=40, posterior mandible) finding flapless implant placement preserved significantly more crestal bone than the flapped technique at both 3 months (0.32 vs 0.56 mm) and 6 months (0.48 vs 0.82 mm, p<0.001), with 100% survival in both arms.
 
-## 한줄요약
+(incomplete)
 
-하악 구치부 단일치 RCT (n=40)에서 무피판(flapless) 식립이 피판거상(flapped)보다 치조정 골소실을 유의하게 적게 보존 (6개월 0.48 vs 0.82 mm, p<0.001); 양군 생존율 100%.
+(incomplete)
+
+## 세줄요약
+
+하악 구치부 단일치 RCT (n=40)에서 무피판(flapless) 식립이 피판거상(flapped)보다 치조정 골소실을 유의하게 적게 보존 (6개월 0.48 vs 0.82 mm, p<0.001);
+
+양군 생존율 100%.
+
+(incomplete)
 
 ## 1. Document Information
 

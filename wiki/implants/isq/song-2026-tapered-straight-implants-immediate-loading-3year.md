@@ -6,7 +6,7 @@ date: 2026-01-01
 doi: 10.1111/cid.70147
 source: song-2026-tapered-straight-implants-immediate-loading-3year.md
 category: [implants/isq]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: true
 pmid: "41981962"
@@ -14,6 +14,8 @@ pmcid: "PMC13080229"
 source_url: https://pmc.ncbi.nlm.nih.gov/articles/PMC13080229/
 text_path: /Users/oracleneo/llm-wiki/papers/song-2026-tapered-straight-implants-immediate-loading-3year.txt
 text_filename: song-2026-tapered-straight-implants-immediate-loading-3year.txt
+pdf_path: /Users/oracleneo/llm-wiki/papers/song-2026-tapered-straight-implants-immediate-loading-3year.pdf
+pdf_filename: song-2026-tapered-straight-implants-immediate-loading-3year.pdf
 tags: [tapered-implant, straight-implant, immediate-loading, insertion-torque, ISQ, MBL, survival, posterior, RCT, macro-design]
 relations:
   - type: extends
@@ -22,13 +24,21 @@ relations:
     target: tisci-2026-isq-it-mbl-survival-sr-ma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-3-year RCT follow-up (n=28, 61 implants, posterior jaws): tapered self-tapping implants had numerically higher patient-level survival (95.8% vs 78.3%, NS) and markedly fewer composite immediate-loading protocol failures (4 vs 13) than straight implants; MBL was minimal (<1 mm) and statistically equivalent in both groups.
+3-year RCT follow-up (n=28 patients, 61 implants, posterior maxilla and mandible) comparing tapered self-tapping vs straight implants under immediate loading.
 
-## 한줄요약
+Tapered implants had numerically higher patient-level survival (95.8% vs 78.3%, p=0.109) and far fewer composite immediate-loading protocol failures (4 vs 13); MBL was minimal and equivalent at 3 years (~0.23 vs 0.50 mm, NS); zero late failures occurred in either group after year 1.
 
-3년 추적 RCT (후방부 61개 임플란트): 테이퍼형이 직선형보다 환자 수준 생존율 수치상 우위(95.8% vs 78.3%, 비유의)이며 즉시 부하 프로토콜 실패 건수도 현저히 적음(4 vs 13개); 변연골 소실은 양군 모두 1mm 미만, 유의차 없음.
+Tapered macro-design is preferable for immediate loading in posterior sites as it provides more reliable primary stability, but once osseointegrated, macro-design does not influence long-term bone or survival outcomes.
+
+## 세줄요약
+
+3년 추적 무작위대조시험 (RCT, 환자 28명, 임플란트 61개, 후방 상·하악): 즉시 부하 하 테이퍼형 자기절삭 임플란트 vs 직선형 임플란트 비교.
+
+테이퍼형이 환자 수준 생존율 수치상 우위 (95.8% vs 78.3%, p=0.109), 즉시 부하 프로토콜 복합 실패 건수 현저히 적음 (4 vs 13개); 변연골 소실 (Marginal Bone Loss, MBL)은 양군 모두 미미하고 동등(~0.23 vs 0.50 mm, NS); 1년 이후 후기 실패 없음.
+
+즉시 부하 시 테이퍼형 거시설계가 더 안정적인 1차 안정성을 제공하나, 골유착 성립 후에는 거시설계가 장기 골 및 생존 결과에 영향을 미치지 않음.
 
 ## Summary
 

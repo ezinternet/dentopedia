@@ -17,13 +17,21 @@ text_filename: ren-2023-oral-irrigator-plaque-gingivitis-efficacy-safety-rct.txt
 
 Most water-flosser RCTs we hold are either orthodontic-population or periodontitis-adjunct contexts; this is a **general-population (gingivitis, non-orthodontic, non-periodontitis) 12-week efficacy AND safety RCT** that fills that gap and is first-of-kind in formally measuring oral-irrigator pain/dentin-hypersensitivity via VAS. It reinforces [[interdental-cleaning/mancinelli-lyle-2024-water-flosser-vs-interdental-brush-rct]] on oral-irrigator gingival-inflammation efficacy and pairs with the periodontitis-adjunct evidence in [[interdental-cleaning/liu-2025-water-flossing-adjunct-nspt-periodontitis-rct]].
 
-## One-line Summary
+## Three-line Summary
 
-12-week single-blind parallel RCT (n=90 gingivitis patients; FAS 88) — toothbrush + WaterPik oral irrigator significantly outperformed toothbrush alone on gingival indices (MGI/BI/BOP% from 4 weeks, all p<0.001 by 8–12 weeks) and on plaque (T-QH significant from 8 weeks), with no serious adverse events and no added pain/dentin hypersensitivity.
+12-week single-blind parallel RCT (n=90 gingivitis patients;
 
-## 한줄요약
+FAS 88) — toothbrush + WaterPik oral irrigator significantly outperformed toothbrush alone on gingival indices (MGI/BI/BOP% from 4 weeks, all p<0.001 by 8–12 weeks) and on plaque (T-QH significant from 8 weeks), with no serious adverse events and no added pain/dentin hypersensitivity.
 
-12주 단일맹검 평행 RCT(치은염 환자 90명; FAS 88) — 칫솔질 + WaterPik 구강세정기(Oral Irrigator)가 칫솔질 단독보다 치은지표(MGI/BI/BOP%)를 4주부터, 치태(T-QH)를 8주부터 유의하게 개선했고, 중대 이상반응 없이 통증·상아질과민증 증가도 없었다.
+(incomplete)
+
+## 세줄요약
+
+12주 단일맹검 평행 RCT(치은염 환자 90명;
+
+FAS 88) — 칫솔질 + WaterPik 구강세정기(Oral Irrigator)가 칫솔질 단독보다 치은지표(MGI/BI/BOP%)를 4주부터, 치태(T-QH)를 8주부터 유의하게 개선했고, 중대 이상반응 없이 통증·상아질과민증 증가도 없었다.
+
+(incomplete)
 
 ## 1. Document Information
 

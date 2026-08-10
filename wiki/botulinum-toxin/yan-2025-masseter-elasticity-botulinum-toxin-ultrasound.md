@@ -9,19 +9,27 @@ text_path: /Users/oracleneo/llm-wiki/papers/yan-2025-masseter-elasticity-botulin
 text_filename: yan-2025-masseter-elasticity-botulinum-toxin-ultrasound.txt
 source: yan-2025-masseter-elasticity-botulinum-toxin-ultrasound.md
 category: [botulinum-toxin]
-confidence: prospective
+evidence_level: prospective
 source_collection: pubmed-text
 full_text: false
 tags: [masseter, elastography, USE, microstructure, injection-timing]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Prospective self-controlled study (n=14, 28 masseter muscles, ultrasound elastography) showed BoNT-A caused 28.9–31.5% masseter thickness decrease at 1–3 months (47.4% partial volume recovery at 6mo) and decreased shear wave velocity (elasticity) at 1–3 months that **fully returned to baseline by 6 months**; thickness and elasticity recovery were uncorrelated. Abstract-only.
+Prospective self-controlled study (n=14 subjects, 28 masseter muscles, ages 21–27) using ultrasound shear-wave elastography (USE) — the first longitudinal tracking of BoNT-A-induced masseter microstructural changes in humans — with B-mode thickness and V median (shear wave velocity) measured at baseline, 1, 3, and 6 months.
 
-## 한줄요약
+Masseter thickness decreased 28.9–31.5% at 1–3 months, recovering only 47.4% by 6 months; shear wave velocity (elasticity) decreased at 1–3 months (2.53→2.10 m/s) but fully returned to baseline by 6 months (2.70 m/s, p>0.05 vs baseline); thickness and elasticity recovery were uncorrelated (Spearman NS).
 
-초음파 탄성영상(USE) 전향 자기대조 연구(n=14, 28개 교근)에서 BoNT-A 후 교근 두께가 1–3개월에 28.9–31.5% 감소(6개월에 47.4% 부분 회복)하고, 전단파 속도(탄성도)는 1–3개월 감소 후 6개월에 기저선으로 **완전 회복**; 두께와 탄성 회복은 비상관. 초록만.
+Clinical implication: elasticity fully reversing at 6 months argues against progressive fibrosis with repeated injections, and supports a ≥6-month re-injection interval from a structural standpoint; however, volume recovery remains incomplete at 6 months, so cumulative atrophy risk with short-interval repeat injections is not eliminated.
+
+## 세줄요약
+
+전향 자기대조 연구(n=14, 교근 28개, 21–27세) — 초음파 전단파 탄성영상(USE)으로 BoNT-A 후 교근 미세구조 변화를 인간에서 처음으로 종적 추적; B-mode 두께 및 V median(전단파 속도)을 baseline·1·3·6개월에 측정.
+
+교근 두께: 1–3개월 28.9–31.5% 감소, 6개월에 47.4%만 부분 회복; 전단파 속도(탄성도): 1–3개월 감소(2.53→2.10 m/s), 6개월에 기저선으로 완전 회복(2.70 m/s, p>0.05); 두께·탄성 회복 비상관(Spearman NS).
+
+임상 의미: 탄성도 6개월 완전 회복은 반복 주사에 의한 진행성 섬유화에 반하며, 구조적 측면에서 ≥6개월 재주사 간격을 지지; 그러나 근 부피 회복은 6개월에도 미완성 → 단기 간격 반복 주사의 누적 위축 위험은 배제 불가. 초록만.
 
 ## Summary
 

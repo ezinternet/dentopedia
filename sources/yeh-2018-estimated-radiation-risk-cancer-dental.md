@@ -17,13 +17,21 @@ text_filename: yeh-2018-estimated-radiation-risk-cancer-dental.txt
 
 Existing [[radiology/ozaki-2021-cbct-effective-dose-monte-carlo-simulation]] quantifies CBCT organ/effective dose via Monte Carlo but stops at the dose number. This paper adds the **stochastic cancer-risk / justification layer** on top of that effective-dose data: it converts PCXMC Monte Carlo organ doses into BEIR-VII lifetime risk-of-exposure-induced-death (REID), and shows the risk is ~2x higher in 10-year-olds than 30-year-olds — the quantitative basis for the "justify CBCT especially in pediatric orthodontic patients" argument.
 
-## One-line Summary
+## Three-line Summary
 
-Monte Carlo (PCXMC 2.0 Rotation) + BEIR-VII in-silico dosimetry study on an i-CAT dental CBCT (16x13 cm FOV, 120 kV): total effective dose ~31 uSv at beam centerline; salivary glands the dominant organ; REID for all cancers ~2x higher in 10-year-olds (22.6 vs 10.4 x 10^-5 female) than 30-year-olds, highest for female breast cancer.
+Monte Carlo (PCXMC 2.0 Rotation) + BEIR-VII in-silico dosimetry study on an i-CAT dental CBCT (16x13 cm FOV, 120 kV): total effective dose ~31 uSv at beam centerline;
 
-## 한줄요약
+salivary glands the dominant organ;
+
+REID for all cancers ~2x higher in 10-year-olds (22.6 vs 10.4 x 10^-5 female) than 30-year-olds, highest for female breast cancer.
+
+## 세줄요약
 
 i-CAT 치과 콘빔CT(CBCT)에 대한 몬테카를로(PCXMC 2.0 Rotation)+BEIR-VII 전산 선량·위험 추정 연구 — 빔 중심선 유효선량 약 31 uSv, 침샘이 최대 기여 장기, 방사선 유발 사망위험(REID)은 10세가 30세의 약 2배(여성 22.6 vs 10.4 x 10^-5)이고 여아 유방암이 가장 민감.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

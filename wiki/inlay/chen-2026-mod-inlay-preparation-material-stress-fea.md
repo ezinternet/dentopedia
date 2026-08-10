@@ -6,7 +6,7 @@ date: 2026-01-10
 doi: 10.1186/s12903-025-07613-8
 source: chen-2026-mod-inlay-preparation-material-stress-fea.md
 category: [inlay]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: true
 pmid: "41519748"
@@ -22,13 +22,21 @@ relations:
     target: al-fodeh-2026-monolithic-zirconia-inlays-cement-aging
 ---
 
-## One-line Summary
+## Three-line Summary
 
-3D FEA (36 models, mandibular first molar, 100 N vertical + 30° oblique) showing MOD-inlay stress depends on a material × preparation-dimension interaction: low-modulus resin-based ceramics (RBCs) distribute stress most uniformly (lowest inlay stress, highest remaining-tooth stress), zirconia is the opposite (highest inlay/cervical stress, lowest tooth stress); d=4 mm/w=4 mm generally minimizes inlay stress; authors propose inlay ≤4 mm depth, onlay >4 mm.
+3D FEA of 36 mandibular first molar models (4 materials × 3 depths × 3 widths; 100 N vertical + 30° oblique loading) examining MOD inlay stress distribution by material–preparation interaction.
 
-## 한줄요약
+Low-modulus resin-based ceramics (RBCs, ~38 GPa) distributed stress most uniformly with lowest internal inlay stress; zirconia (210 GPa) produced highest inlay/cervical stress but lowest remaining-tooth stress; d=4 mm/w=4 mm generally minimized inlay stress across materials.
 
-3D 유한요소분석 (36개 모델, 하악 제1대구치, 100 N 수직 + 30° 사면하중) — MOD 인레이 응력은 재료 탄성계수 × 와동 깊이·폭 상호작용으로 결정. 저탄성 레진세라믹(RBCs)은 응력을 가장 균일하게 분산(인레이 응력 최저·잔존치질 응력 최고), 지르코니아는 정반대(인레이/치경부 응력 최고·잔존치질 응력 최저). 인레이 응력은 대개 깊이 4 mm/폭 4 mm에서 최소이며, 저자는 깊이 ≤4 mm 인레이·>4 mm 온레이를 제안.
+Clinical decision pathway: prefer RBCs for biomechanical compatibility with dentin; target ~4 mm depth/width for high-modulus ceramics; choose inlay for defect depth ≤4 mm, onlay/full crown for >4 mm.
+
+## 세줄요약
+
+하악 제1대구치 3D 유한요소분석 (Finite Element Analysis, FEA), 36개 모델 (4재료 × 깊이 3 × 폭 3, 100 N 수직 + 30° 사면하중) — MOD 인레이 재료 × 와동 깊이·폭 상호작용 분석.
+
+저탄성 레진세라믹 (Resin-Based Ceramics, RBCs, ~38 GPa)이 응력 가장 균일 분산, 인레이 내부 응력 최저; 지르코니아 (210 GPa)는 인레이/치경부 응력 최고, 잔존치질 응력 최저; 깊이 4 mm/폭 4 mm가 대부분 재료에서 인레이 응력 최소.
+
+임상 의사결정: 상아질과 탄성계수 유사한 RBCs 우선; 고탄성 세라믹은 깊이·폭 ~4 mm 목표; 결손 깊이 ≤4 mm → 인레이, >4 mm → 온레이/전부관.
 
 ## Summary
 

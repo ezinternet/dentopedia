@@ -1,0 +1,57 @@
+TITLE: Artificial Saliva for Therapeutic Management of Xerostomia: A Narrative Review
+
+AUTHORS: Alhejoury HA, Mogharbel LF, Al-Qadhi MA, Shamlan SS, Alturki AF, Babatin WM, Mohammed Alaishan RA, Pullishery F
+
+JOURNAL: Journal of Pharmacy & Bioallied Sciences 2021;13(Suppl 2):S903-S907
+DOI: 10.4103/jpbs.jpbs_236_21
+PMID: 35017895 | PMCID: PMC8686887
+
+ABSTRACT
+
+In clinical practice, xerostomia or oral dryness is a chronic disease condition encountered by most dentists and dental hygienists, which often causes a negative impact on the oral health-related quality of life of the affected individual. Xerostomia is caused due to salivary gland dysfunction. It is related to reduced salivary secretion or the absence of saliva flow, more frequently, exhibits qualitative changes in saliva proteins and immunoglobulin concentrations that arise due to salivary gland dysfunction. This condition causes discomfort and interferes with normal oral activities, and affected individuals are at high caries risk. There are several options for treatment and symptom management: salivary stimulants, topical agents, saliva substitutes, and systemic sialogogues. This review explores the current status of therapeutic management of patients affected by xerostomia and hyposalivation using artificial saliva.
+
+INTRODUCTION
+
+Saliva is a watery liquid usually frothy seen in the oral cavity of animals and humans, secreted by the glands, which is a hydrous hypotonic solution that protects the whole of the oral cavity. Saliva has different actions such as lubrication for chewing and swallowing, helps in digestion, improves deglutition and talk, increases taste, moisturizes oral mucosa, and allows free movement of saliva in irrigation and cleansing action with damping capacity. It also plays a significant role in oral immunity as it contains many immunological components and has antimicrobial properties. Studies showed a reduced production or hypoptyalism is often related to many contingent outcomes, namely, retard actions to speak, chewing issues, block in deglutition, and flavor. Decreased saliva production is generally gone along with plaque-induced diseases such as cavities and inflammation of gums, which results in exodontia.
+
+Xerostomia, usually called dry mouth, is a repeated problem and indication of salivary gland hypofunction (SGH). Elements that put up xerostomia include blood-related diseases and treatment measures for cancer. While xerostomia often is a sign of damaged exocrine gland function, it may form with or without an observable decrease in saliva formation. Recognizing and managing the actual cause of this condition is necessary for delivering ideal dental care.
+
+ARTIFICIAL SALIVA
+
+Saliva alternatives, otherwise called artificial saliva, basically proceed by moisturizing the desiccated oral tissue. The biological and physical characteristics of artificial saliva must be as similar as viable to normal human saliva. Artificial saliva is usually a mix of buffering agents, cellulose derivatives, and flavoring agents. Saliva replacements are accessible as different agents such as liquids, sprays, gels, oils, mouthwash, chewing gums, and toothpaste. The sticky consistency (pseudoplasticity) of normal saliva is important for function — saliva alternatives using Newtonian fluids such as carboxymethylcellulose or glycerol have greater viscosity than normal human saliva; alternates containing mucin with xanthan guar gum, or mucin alone, have closer physiochemical properties to normal saliva. Viscoelasticity is assessed with rheometers under creep/recovery or dynamic tests.
+
+GENERAL PRINCIPLES FOR MANAGEMENT OF XEROSTOMIA
+
+- Patient education: discuss etiology, diagnosis, prognosis, and prospective management with regular appointments.
+- Maintenance of proper oral hygiene: fluoride toothpaste + daily fluoride mouth rinse for denture patients; minimize refined carbohydrate intake; chlorhexidine mouthwash; denture cleaning technique education (remove appliance before sleeping).
+- Monitoring: regular checkup + microbiological analysis for candida or other hidden oral infections.
+- SGH management: sensible decision on artificial saliva vs. combination therapy, aiming to stimulate normal salivary flow.
+
+TREATMENT OPTIONS FOR SALIVARY GLAND HYPOFUNCTION (SGH)
+
+Two approaches:
+- Endogenous: pharmaceutical treatment, mechanical stimulation, genetic solutions.
+- Exogenous: frequent water intake, moisturizing, saliva substitutes.
+
+Stimulants classified as topical and systemic agents. Topical: chewing (enhanced by flavored chewing gums, sorbitol, or xylitol — sorbitol gum after sugary meals normalizes plaque pH); citric acid is a good salivary stimulant but risks cariogenicity in dentate patients (citrate chelates calcium, may increase caries activity). Systemic agents used mainly in Sjögren's syndrome patients: bethanechol chloride, pyridostigmine, pilocarpine hydrochloride, bromhexine trithioparamethoxy phenylpropene, nicotinic acid, Vitamin A.
+
+SPECIFIC TREATMENTS
+
+- Topical/local: flavored gums and lozenges stimulate salivation via taste (sour/bitter) + masticatory function; sugar-free recommended to minimize caries. Acupuncture has shown benefit in xerostomia/hyposalivation from Sjögren's syndrome, radiotherapy, or idiopathic causes in several clinical studies.
+- Pilocarpine: cholinomimetic drug with mild β-adrenergic actions; considered a medicament of choice for xerostomia. Doses of 5-10 mg 3-4 times daily minimize xerostomia signs and increase saliva. Adverse effects: diaphoresis, flushing, polyuria (mild-moderate, short duration). Contraindicated in uncontrolled asthma, narrow-angle glaucoma, acute iritis; caution in blood disorders/cardiovascular disease.
+- Cevimeline: cholinomimetic, daily 30mg dose shows remarkable clinical improvement in salivary flow in Sjögren's syndrome patients. More selective for M3 muscarinic receptors; widely used in postradiation xerostomia.
+- Anetholetrithione: originally used to increase bile output; improves salivation in minor salivary dysfunction (e.g., senile hypofunction). Recommended dose 25mg three times daily.
+- Yohimbine: alpha-receptor antagonist; lacks strong supportive studies but shown more effective than anetholtrithione in patients on psychotropic drugs; animal studies show it enhances salivary flow via inhibition of presynaptic α-2 adrenoceptors on chorda tympani.
+- Interferon (IFN): used in injectable high-dose form for Sjögren's syndrome dry mouth management. Small-dose lozenge (150 IU three times daily, natural IFN) decreases xerostomia and adds salivary flow. A meta-analysis confirmed INF-α at 150 IU three times daily is effective in increasing salivary production/flow rate with minimal side effects, and modifies immunomodulatory action in SS patients.
+
+SALIVA SUBSTITUTES
+
+No saliva supplement exactly reproduces all standard human saliva characteristics. Saliva production may occur through local activity, physical action, or systemic medicines. Recaldent Gum (GC Corporation) supplements saliva's remineralization capacity via casein phosphopeptide amorphous calcium phosphate (releases calcium and phosphate). Saliva stimulants with antiseptic features also used. The Spry Dental Defense System chewing gums incorporate xylitol (sugar replacement, sweetness equal to sucrose) — extended xylitol use reduces Streptococcus mutans and caries susceptibility. Biotene and BioXtra have chewing gums with protein enzyme systems for oral hygiene/lubrication. Chewing gums increase salivary production and provide cariostatic/remineralizing agents but are limited in changing salivary content.
+
+RECENT ADVANCES
+
+Acupuncture — holistic approach enhancing saliva production by improving blood circulation over the parotid gland. Intraoral electro-stimulators produce salivation via reduced electronic flow levels to oral mucosa; can achieve 3-4 fold increase in salivary flow, providing considerable relief in severe SGH; continuous use boosts efficiency of neural stimulations; devices can be replaceable mouthguard-like or fixed to a dental implant. Gene therapy approach (Baum et al.) using aquaporin-1 cDNA increased salivary flow in postradiation gland hypofunction patients, delivered via a genetically modified viral vector carrying normal human DNA to damaged saliva-producing cells. Salivary pacemakers recently tried to improve salivation and minimize long-term oral dryness effects: devices like the Salitron system (Biosonics Inc, USA), GenNarino, SaliPen, and Saliwell Crown (implant-supported device) have shown effectiveness in xerostomia patients. Intensity-modulated radiotherapy (IMRT) found beneficial in minimizing oral dryness in postradiation xerostomia.
+
+CONCLUSION
+
+Xerostomia is a significant oral health problem that increases caries activity, salivary gland enlargement, oral malodor, sialadenitis, infections such as candidiasis, and inflammation of various oral structures, profoundly impacting oral-health-related and general quality of life. Dentists play a crucial role in easing xerostomia symptoms and improving quality of life. Artificial salivary agents or saliva-stimulating agents have been found beneficial in reducing subjective symptoms associated with xerostomia. Most of the methods discussed envision the new oral health promotion concept "Minimally Invasive Dentistry."

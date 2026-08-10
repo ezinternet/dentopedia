@@ -18,11 +18,21 @@ Situates motivational interviewing (MI) within the broader theory-and-method lan
 
 PubMed abstract-only (PMID 36749671). DOI: [10.1111/cdoe.12817](https://doi.org/10.1111/cdoe.12817).
 
-## One-line Summary
+## Three-line Summary
+
 Narrative review (Community Dent Oral Epidemiol 2023) mapping the theory/method/delivery landscape of oral-health behaviour change: overarching theories like COM-B and the Behaviour Change Wheel must be chosen with care, interventions should be co-designed with users/stakeholders from the start, and technology is now a major delivery vehicle — MI is one technique within this wider, theory-driven design space.
 
-## 한줄요약
-서술적 리뷰 — 구강보건 행동변화 중재의 이론·방법·전달 전반을 조망한다. COM-B 같은 상위 이론과 행동변화 휠(Behaviour Change Wheel) 틀을 신중히 선택해야 하고, 중재는 처음부터 사용자·이해관계자와 공동설계(co-design)해야 하며, 기술 기반 전달이 핵심 수단으로 부상했다. 동기면담(MI)은 이 넓은 이론 기반 설계 공간 안의 한 기법일 뿐이다.
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
+서술적 리뷰 — 구강보건 행동변화 중재의 이론·방법·전달 전반을 조망한다.
+
+COM-B 같은 상위 이론과 행동변화 휠(Behaviour Change Wheel) 틀을 신중히 선택해야 하고, 중재는 처음부터 사용자·이해관계자와 공동설계(co-design)해야 하며, 기술 기반 전달이 핵심 수단으로 부상했다.
+
+동기면담(MI)은 이 넓은 이론 기반 설계 공간 안의 한 기법일 뿐이다.
 
 ## 1. Document Information
 - Journal: Community Dentistry and Oral Epidemiology, 51(1):91–102, 2023 (published 2023-02-07)

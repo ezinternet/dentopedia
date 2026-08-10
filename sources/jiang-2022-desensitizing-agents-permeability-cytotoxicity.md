@@ -13,11 +13,21 @@ source_collection: external
 
 [[dentin-hypersensitivity/joshi-2013-novamin-gluma-dentinal-tubule-occlusion-sem]]의 tubule-occlusion 비교에 permeability + cytotoxicity(생체적합성) 축을 추가. Gluma(글루타르알데히드) 안전성 우려는 [[dentin-hypersensitivity/scheffel-2015-transdentinal-cytotoxicity-glutaraldehyde-odontoblast]]와 직접 연결.
 
-## One-line Summary
+## Three-line Summary
+
 In vitro study (n=6/group) showing GLUMA occludes tubules and cuts permeability only after simulated dentinal fluid (2% BSA) but is cytotoxic to pulp-like cells, whereas an NaF/fumed-silica gel occludes tubules and is biocompatible but rebounds in permeability after artificial-saliva immersion.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 In vitro(군당 6): GLUMA는 모의 치수액(2% BSA) 존재 시에만 세관 폐쇄·투과도 감소하나 세포독성 있고, NaF/흄드실리카 겔은 세관 폐쇄·생체적합성 우수하나 인공타액 침지 후 투과도 반등.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - BMC Oral Health 2022;22:391. Open Access.

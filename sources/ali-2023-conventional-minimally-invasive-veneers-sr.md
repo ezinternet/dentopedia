@@ -13,13 +13,21 @@ source_collection: external
 
 기존 [[veneers/lim-2023-resin-composite-laminate-veneer-survival-sr-ma]]가 레진 비니어의 생존율을 다루지만 최소삭제 vs 전통적 준비 방식의 임상 결과 비교는 부재. 본 SR(Ali 2023)은 CVs 대 MPVs의 심미성, 주변 적합도, 색 안정성, 환자 만족도를 체계적으로 종합하여 준비 방식 선택 근거를 제공한다.
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (4 comparative studies) on conventional veneers (CVs) vs minimal/no-preparation veneers (MPVs): MPVs demonstrated advantages in survival rates and mean success periods; microleakage, marginal fit, and color stability varied by preparation technique and material.
+PRISMA-compliant systematic review (4 comparative studies, 8 databases) comparing conventional veneers (CVs, 0.3–1.0 mm reduction) vs. minimal/no-preparation veneers (MPVs, 0.2–0.5 mm) across esthetics, longevity, marginal fit, microleakage, color stability, and patient satisfaction.
 
-## 한줄요약
+MPVs showed higher survival rates and longer mean success periods than CVs; color stability, microleakage, and marginal fit were preparation-technique and material-dependent (feldspathic MPVs preferred for ultra-thin 0.2–0.3 mm cases); no anesthesia or temporaries required with MPVs.
 
-4편 비교 연구 체계적 문헌고찰: 최소삭제 비니어(MPV)가 생존율과 평균 성공 기간에서 우위; 미세누출·변연적합도·색 안정성은 준비 방식 및 재료에 따라 차이.
+The hypothesis that CVs outperform MPVs was rejected by the available evidence; however, only 4 studies were included with diverse methodologies, and the dearth of true no-prep veneer RCTs limits the strength of this conclusion.
+
+## 세줄요약
+
+PRISMA 준수 체계적 문헌고찰(4편 비교연구, 8개 DB): 전통적 비니어(CV, 0.3–1.0mm 삭제) vs 최소삭제/무삭제 비니어(MPV, 0.2–0.5mm) 비교; 심미성·수명·변연적합도·미세누출·색 안정성·환자 만족도 평가.
+
+MPV가 생존율·평균 성공 기간에서 CV보다 우수; 색 안정성·미세누출·변연적합도는 준비 방식 및 재료 의존적(초박형 0.2–0.3mm는 장석도자기 MPV 선호); MPV는 마취·임시 수복 불필요.
+
+CV가 MPV보다 우수하다는 가설은 기각됐으나, 포함 연구 4편에 이질적 방법론이 혼재하고 진정한 무삭제 비니어 RCT 자체가 드물어 결론의 강도는 제한적.
 
 ## 1. Document Information
 

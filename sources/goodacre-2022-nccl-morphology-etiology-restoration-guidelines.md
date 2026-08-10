@@ -12,11 +12,21 @@ source_collection: external
 ## Why Ingested
 NCCL 일괄 ingest(2026-06)의 중심 review. 기존 [[resin-bonding/doshi-2023-universal-adhesive-nccl-strategy-sr-ma]]가 다루는 NCCL 접착 전략의 상위 맥락(병인·형태·수복 시점 판단)을 제공하고, 신규 nccl 카테고리의 기준 문헌 역할.
 
-## One-line Summary
+## Three-line Summary
+
 Narrative review synthesizing NCCL morphology, progression, prevalence (10-90%), multifactorial etiology, and stepwise clinical guidelines for restoration including sclerotic dentin texturing and extended 30-s etching.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 NCCL의 형태·진행·유병률·병인을 종합하고 경화상아질 표면처리·30초 산부식 등 수복 가이드라인을 제시한 narrative review.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - Journal of Prosthodontics 2023;32(S2):e1-e18 (online 2022). DOI 10.1111/jopr.13585.

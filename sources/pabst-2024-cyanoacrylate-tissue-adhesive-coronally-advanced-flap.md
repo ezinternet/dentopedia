@@ -13,13 +13,21 @@ source_collection: external
 
 Part of a focused collection on suture techniques & primary wound closure (this batch = suture biomechanics / tissue adhesive / gingival graft suturing). This ex-vivo study moves the suture-mechanics question into the intraoral periodontal-plastic-surgery domain — quantifying how cyanoacrylate tissue adhesive vs sutures affects coronally advanced flap (CAF) stability. It extends the dermatologic biomechanics of [[suture-wound-closure/marsidi-2020-measuring-forces-suture-techniques-wound-closure]] into oral flap fixation and pairs with the gingival-graft suturing RCT [[suture-wound-closure/shakiliyeva-2025-conventional-modified-sling-suture-free-gingival-graft]].
 
-## One-line Summary
+## Three-line Summary
 
-Ex-vivo biomechanical study (36 half-pig mandibles, n=12 per group): cyanoacrylate tissue adhesive (TA) gave significantly higher CAF marginal flap stability than sutures alone (5.20 vs 0.88 N maximum tensile force), and TA + sutures combined was highest (8.50 N; all p<0.001).
+Ex-vivo biomechanical study (36 half-pig mandibles, n=12 per group): cyanoacrylate tissue adhesive (TA) gave significantly higher CAF marginal flap stability than sutures alone (5.20 vs 0.88 N maximum tensile force), and TA + sutures combined was highest (8.50 N;
 
-## 한줄요약
+all p<0.001).
 
-생체외 역학 연구 (반쪽 돼지 하악골 36개, 군당 n=12): 시아노아크릴레이트 조직접착제(TA)가 봉합 단독보다 치관변위판막(CAF) 변연 안정성을 유의하게 높였고(최대 인장력 5.20 vs 0.88 N), TA+봉합 병용이 가장 높았음(8.50 N; 모두 p<0.001).
+(incomplete)
+
+## 세줄요약
+
+생체외 역학 연구 (반쪽 돼지 하악골 36개, 군당 n=12): 시아노아크릴레이트 조직접착제(TA)가 봉합 단독보다 치관변위판막(CAF) 변연 안정성을 유의하게 높였고(최대 인장력 5.20 vs 0.88 N), TA+봉합 병용이 가장 높았음(8.50 N;
+
+모두 p<0.001).
+
+(incomplete)
 
 ## 1. Document Information
 

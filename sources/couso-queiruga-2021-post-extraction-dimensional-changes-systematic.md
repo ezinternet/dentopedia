@@ -9,8 +9,21 @@ pdf_filename: couso-queiruga-2021-post-extraction-dimensional-changes-systematic
 source_collection: external
 ---
 
-## One-line Summary
-PRISMA-compliant systematic review with meta-analysis (28 articles, 20 pooled; PROSPERO CRD42020178857) of alveolar ridge dimensional changes following unassisted post-extraction socket healing: in non-molar sites mean horizontal ridge reduction is 2.73 mm (clinical) / 2.54 mm (radiographic); molar sites lose 3.61 mm horizontally radiographically; vertical mid-facial loss 1.4–1.7 mm — providing the most cited reference benchmarks for unassisted ridge resorption magnitudes.
+## Three-line Summary
+
+PRISMA-compliant SR+MA (28 studies, 20 pooled; PROSPERO CRD42020178857) quantifying alveolar ridge dimensional changes after unassisted post-extraction healing, stratified by measurement method (clinical vs radiographic) and tooth site (non-molar vs molar).
+
+Non-molar sites lose 2.73 mm (clinical) / 2.54 mm (radiographic) horizontally and 1.44–1.71 mm mid-facially; molar sites lose more — 3.61 mm horizontally (radiographic), providing the most rigorous pooled benchmark for unassisted ridge resorption.
+
+Molar sites resorb most severely; buccal bone thickness (a key modifier) was rarely stratified in included studies, limiting precision of the estimates.
+
+## 세줄요약
+
+PRISMA SR+MA (28편, 20편 메타분석 포함; PROSPERO CRD42020178857): 발치 후 자연 치유 시 치조제 수직·수평 변화를 임상 계측 vs 방사선 계측, 비구치 vs 구치 부위별로 층화.
+
+비구치 수평 흡수 2.73 mm(임상)/2.54 mm(방사선), 순측 수직 소실 1.44–1.71 mm; 구치 수평 흡수 3.61 mm(방사선) — 무처치 발치와 흡수량의 가장 엄밀한 기준값 제공.
+
+구치 부위가 가장 심한 흡수; 주요 수정변수인 협측골 두께에 따른 층화 분석은 포함 연구 대부분이 수행하지 않아 정확도에 한계.
 
 ## 1. Document Information
 - **Journal**: Journal of Clinical Periodontology, Volume 48, Issue 1, pp. 127–145

@@ -32,6 +32,8 @@ papers/*.pdf
 papers/**/*.pdf
 .ingest-queue
 .ingest-watcher.log
+.claude/scripts/weekly-digest.log
+.claude/scripts/qmd-cleanup.log
 
 # Quartz build artifacts
 quartz/node_modules/
@@ -42,3 +44,6 @@ quartz/.quartz-cache/
 # and emit 0 pages. The directory is recreated by the deploy workflow
 # from wiki/ on each build.
 
+
+# Local Netlify folder
+.netlify

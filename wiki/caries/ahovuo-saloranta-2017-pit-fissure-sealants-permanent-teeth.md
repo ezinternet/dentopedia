@@ -6,7 +6,7 @@ date: 2017-07-31
 doi: "10.1002/14651858.CD001830.pub5"
 source: ahovuo-saloranta-2017-pit-fissure-sealants-permanent-teeth.md
 category: [caries]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/ahovuo-saloranta-2017-pit-fissure-sealants-permanent-teeth.pdf
 pdf_filename: ahovuo-saloranta-2017-pit-fissure-sealants-permanent-teeth.pdf
 source_collection: external
@@ -16,11 +16,21 @@ relations:
     target: kashbour-2020-sealants-versus-fluoride-varnishes-decay
 ---
 
-## One-line Summary
-Cochrane SR+MA (38 RCTs, 7924 children aged 5–16): resin-based fissure sealants reduced occlusal caries vs no sealant by 11–51% at 24 months (OR 0.12, moderate certainty); GIC sealant and head-to-head material comparisons remain inconclusive.
+## Three-line Summary
 
-## 한줄요약
-코크란 SR+MA (RCT 38편, 5–16세 7,924명): 레진계 열구전색이 무전색 대비 24개월 교합면 우식을 11–51% 감소(OR 0.12, 중등도 확실성). GIC 전색·재료 간 비교는 결론 미도출.
+Cochrane SR+MA (38 RCTs, 7924 children aged 5–16, search to August 2016) evaluating pit-and-fissure sealants vs no sealant and vs each other for caries prevention in first permanent molars.
+
+Resin-based sealants produced a large, consistent reduction in 24-month occlusal caries vs no sealant (OR 0.12, 95% CI 0.08–0.19; 11–51% relative reduction; moderate GRADE certainty), with effect persisting to ~48 months; no adverse events were reported.
+
+Evidence for GIC sealant vs no sealant and for one sealant material vs another remains very low certainty and inconclusive; all trials carry high risk of blinding bias intrinsic to sealant visibility.
+
+## 세줄요약
+
+코크란 SR+MA (RCT 38편, 5–16세 7,924명; 검색 2016년 8월): 영구치 구치부 열구전색(pit-and-fissure sealant)의 우식 예방 효과를 무전색 대비 및 재료 간 비교로 분석.
+
+레진계 열구전색이 무전색 대비 24개월 교합면 우식 대폭 감소(OR 0.12, 95% CI 0.08–0.19; 상대적 감소 11–51%; GRADE 중등도 확실성), 효과 ~48개월까지 지속; 이상반응 없음.
+
+GIC 전색 vs 무전색 비교와 재료 간 비교는 매우 낮은 확실성으로 결론 미도출; 전색재 가시성에 내재된 평가자 맹검 실패로 모든 RCT에서 높은 편향 위험.
 
 ## Summary
 This Cochrane review is the reference source for the efficacy of pit-and-fissure sealants against no treatment. Pooling 38 RCTs, resin-based sealants applied to occlusal surfaces of first permanent molars in children aged 5–10 produced a large, consistent reduction in caries at 24 months (OR 0.12, 95% CI 0.08–0.19; moderate-certainty GRADE). The effect translates to clinically meaningful absolute reductions across baseline-risk strata and is maintained to roughly 48 months, after which evidence thins. Evidence for glass ionomer sealant versus no sealant, and for one sealant material versus another, is very low certainty and inconclusive. No adverse events were reported in the four trials assessing them. All trials carry high risk of bias for outcome-assessment blinding, which is intrinsic to the visibility of sealant.

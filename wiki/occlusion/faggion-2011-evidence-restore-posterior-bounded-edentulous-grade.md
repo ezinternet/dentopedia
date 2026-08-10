@@ -6,7 +6,7 @@ date: 2011-02-01
 doi: 10.1016/j.jdent.2010.11.002
 source: faggion-2011-evidence-restore-posterior-bounded-edentulous-grade.md
 category: [occlusion]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/faggion-2011-evidence-restore-posterior-bounded-edentulous-grade.pdf
 pdf_filename: faggion-2011-evidence-restore-posterior-bounded-edentulous-grade.pdf
 source_collection: external
@@ -16,13 +16,21 @@ relations:
     target: livas-2016-fixed-retention-unopposed-molar-overeruption
 ---
 
-## One-line Summary
+## Three-line Summary
 
-GRADE systematic review (7 included studies; posterior bounded edentulous spaces in adults) finding mesio-distal migration and overeruption after tooth loss are mostly limited (on average up to ~2 mm) on VERY LOW quality evidence — so prosthetic replacement should not be the default mainstay of therapy.
+GRADE systematic review (7 included studies, adult posterior bounded edentulous spaces) evaluating whether missing posterior teeth mandate prosthetic replacement, with PICO comparing restorative vs no-treatment outcomes.
 
-## 한줄요약
+After posterior tooth loss, mesio-distal migration and overeruption of antagonist teeth are mostly limited (average up to ~2 mm), with only a small subset of teeth developing severe change; the quality of evidence was rated VERY LOW.
 
-성인 후방 경계성 무치악 공간(BES) 7편을 GRADE로 평가한 체계적 문헌고찰 — 치아 상실 후 근원심 이동·정출은 대개 제한적(평균 ~2 mm 이하)이고 근거의 질은 "매우 낮음"이라, 보철 수복을 자동적 1차 치료로 보아선 안 된다고 결론.
+Prosthetic replacement should not be regarded as the default mainstay of therapy for posterior bounded edentulous spaces; treatment should instead be guided by a risk-stratified decision framework.
+
+## 세줄요약
+
+성인 후방 경계성 무치악 공간(BES, Bounded Edentulous Space) 7편을 GRADE로 평가한 체계적 문헌고찰 — 보철 수복 대 비치료의 PICO 설계로 교합 변화를 평가했다.
+
+치아 상실 후 근원심 이동과 대합치 정출은 대부분 제한적(평균 ~2 mm 이하)이었고, 소수만 심각한 변화를 보였으며 근거의 질은 "매우 낮음(Very Low)"이었다.
+
+보철 수복을 자동적 1차 치료로 볼 수 없으며, 위험 인자에 따라 치료 여부를 결정하는 의사결정 체계가 필요하다.
 
 ## Summary
 

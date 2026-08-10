@@ -1,0 +1,49 @@
+{
+  "overview": "osseodensification-clinical-applications",
+  "date": "2026-07-23",
+  "title": "골밀도화(OD) 임상 적용 — 리콜",
+  "source_wiki": [
+    "wiki/overviews/osseodensification-clinical-applications.md"
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "q": "골밀도화(OD)의 이득에서 삽입토크(IT)와 임플란트안정성지수(ISQ)의 관계를 옳게 요약한 것은?",
+      "opts": [
+        "IT·ISQ 모두 인체에서 확실히 상승한다",
+        "IT(기계적 1차 고정) 이득은 확실하나, RFA로 측정되는 ISQ 이득은 인체에서 불확실 — 환자 설명 시 분리 권장",
+        "ISQ만 오르고 IT는 변화 없다",
+        "둘 다 효과가 없다"
+      ],
+      "ans": 1,
+      "rat": "IT 이득은 일관되나 ISQ는 인체 SR+MA에서 NS(Mohammadi 2025, Shilpi 2025). Moghaddas 2025 전향연구: OD가 IT ~37%↑(50.3 vs 36.1 Ncm, p<0.001)했으나 ISQ는 식립·3개월 모두 NS. 'IT는 torque-detectable 맞물림, ISQ 강성 변화는 아님'. 초기 골밀도 이득은 있으나 3–7개월엔 소멸.",
+      "cite": "overviews/osseodensification-clinical-applications"
+    },
+    {
+      "id": "q2",
+      "q": "OD의 발열 안전(골괴사 방지) 관련 주의점은? (Soldatos 2024)",
+      "opts": [
+        "RPM이 높을수록 항상 안전하다",
+        "버를 23회 이상 재사용 + 800/1200 RPM 시 ΔT가 골괴사 임계 47°C 초과 — 버 ~23회 교체·무작정 고RPM 금지·관수 보조, 1000 RPM이 최저 발열",
+        "관수 없이도 발열은 문제되지 않는다",
+        "버 재사용 횟수는 발열과 무관하다"
+      ],
+      "ans": 1,
+      "rat": "Soldatos 2024: 3.0/4.0 버 23회 이상 재사용 + 800/1200 RPM 시 ΔT가 47°C(골괴사 임계) 초과, 1000 RPM 최저 발열. 버 ~23회 교체, 관수 보조 필수. Coyac 2019는 과잉 밀도화→미세골절→골세포 사멸→흡수 우세→조기실패 경로('excessive osseo-densification → osseo-destruction') 제시.",
+      "cite": "overviews/osseodensification-clinical-applications"
+    },
+    {
+      "id": "q3",
+      "q": "OD의 IT 이득이 임플란트 직경에 따라 어떻게 달라지는가? (Koutouzis 2025)",
+      "opts": [
+        "직경과 무관하게 일정하다",
+        "광폭(5.4mm) 임플란트에서만 IT 이득 유의(50.0 vs 28.0 Ncm), 세폭(4.2mm)은 이득 없음 — 조직계측 차이는 없어 초기 효과는 기계적 압축",
+        "세폭 임플란트에서만 이득이 있다",
+        "직경이 클수록 이득이 사라진다"
+      ],
+      "ans": 1,
+      "rat": "Koutouzis 2025(돼지경골 6mm short 90개): OD IT 이득은 광폭 5.4mm에서만 유의(50.0 vs 28.0 Ncm, p=0.005), 세폭 4.2mm은 무이득. Bergamo 2021의 'short 임플란트 예외'를 직경 조절변수로 정밀화. 근거 수준 낮음–중등, Versah 후원 연구 다수 → 동의서에 근거 수준 언급 권장.",
+      "cite": "overviews/osseodensification-clinical-applications"
+    }
+  ]
+}

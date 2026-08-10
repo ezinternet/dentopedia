@@ -17,13 +17,21 @@ text_filename: inchingolo-2022-amcop-elastodontic-protocol-interception-review.t
 
 AMCOP (Cranium-Occluded-Postural Multifunctional Harmonizers) Bio-activators are a core EF-Line / elastodontic interceptive-orthodontics protocol, and this paper is the foundational device-and-protocol description: it catalogs the full AMCOP device family (D/DC, BASIC, INTEGRAL, SC, TC, INTEGRAL PLUS, OPEN, ELASTO-OSAS) and the standard active/retention wear schedule. It reinforces and gives the device-level grounding for the broader scoping review in [[wiki/orthodontics/myofunctional/ureni-2024-elastodontic-devices-sagittal-malocclusion-scoping-review]] and the children-focused review in [[wiki/orthodontics/myofunctional/ronsivalle-2023-elastodontic-appliances-malocclusion-interception-children-review]], anchoring the new `orthodontics/myofunctional` subcategory.
 
-## One-line Summary
+## Three-line Summary
 
 Case series (4 of 38 developing-dentition children, ages 7–10) plus literature review showing AMCOP elastodontic Bio-activators corrected Class I/II/III, deep-bite, open-bite and atypical-swallowing malocclusions with no follow-up fixed appliances, over ~12–20-month active+retention protocols.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 성장기 소아 4명(전체 38명 중, 7–10세) 증례 시리즈 + 문헌고찰로, AMCOP 탄성교정(elastodontic) Bio-activator가 1·2·3급, 과개교합, 개방교합, 비정상 연하를 약 12–20개월 능동+유지 프로토콜로 교정했고 추가 고정장치가 불필요했음을 보고.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

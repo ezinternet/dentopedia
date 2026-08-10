@@ -1,0 +1,153 @@
+Title: Metal-Free Custom-Made Zirconia Implants—A Prospective 5-Year Follow-Up Single-Arm Clinical Trial
+Authors: de Beus JHW, et al.
+Journal: Clinical Implant Dentistry and Related Research, 2025
+PMID: 39506212
+PMCID: PMC11789843
+DOI: 10.1111/cid.13404
+
+ABSTRACT
+
+Background
+Dental implants made of zirconia (ZrO2) are a potential alternative for titanium implants in dentistry because of their good biocompatibility, mechanical properties and excellent aesthetic results. However, solid long-term scientific data to prove clinical success of ZrO2 implants are scarce.
+
+Aim
+The aim of this study was to describe and to examine the clinical performance of custom-made two-piece ZrO2 implants, to identify possible influencing factors: a) manipulation of the implant after placement and b) the occlusal scheme on the survival rate, and to evaluate the performance of the implant-supported crown. This follow-up study collected and examined the 5-year data to answer the main question: What are the survival and the success rates of custom-made ZrO2 implants in the maxillary premolar region after 5 years?
+
+Material and Methods
+Of the 31 included patients in this prospective 5-year follow-up single-arm clinical trial, 30 received a custom-made ZrO2 implant to replace a missing single maxillary premolar, which was subsequently restored with a lithium disilicate crown. Parameters regarding clinical performance, marginal bone-level (MBL) changes, and patient-related outcome measures (PROMs) were assessed preoperatively, at the baseline, as well as 1 and 5 years after crown placement. Chances of survival and success of the implant were calculated and displayed using Kaplan-Meier statistics. Kaplan-Meier survival analysis was also performed with stratification based on the variables "manipulation of the implant prior to impression taking" and "occlusal scheme" and compared using log-rank tests. Bone-level moderation in time was compared using a paired samples t-test. Patient's expectations and satisfaction after 5 years were compared as a measure of fulfilled expectations, using a Wilcoxon signed-rank test. Performance of the implant-supported crowns was evaluated using validated criteria.
+
+Results
+Survival and success probabilities after 5 years were, respectively, 75.8% (95% CI [60.0%; 91.0%]) and 71.0% (95% CI [54.0%; 88.0%]) for the custom-made ZV3 implants. No significant differences in survival rate were found after stratification on "manipulation of the implant" and on "occlusal scheme." Mean bone-level alteration between baseline and the first follow-up was +0.06 mm (95% CI [-0.23 mm; 0.12 mm]; SD = 0.42 mm) and between baseline and the second follow-up was +0.04 mm (95% CI [-0.35 mm; 0.26 mm]; SD = 0.54 mm). Patients' satisfaction for patients with implants still in function after 5 years was 91.7% (IQR = [90.5%-97.3%]), indicating satisfaction with the treatment. Pooled satisfaction in patients with successful implants after 5 years was significantly higher than patients' expressed expectations before treatment. None of the crowns failed, and no interventions were required.
+
+Conclusion and Clinical Implications
+Survival rate of these particular ZV3 implants in our study was lower than expected and clinically not acceptable. Hence, ZV3 implant placement as applied in this study cannot be recommended for clinical practice. Further research on the different appearances of mechanical failure in ZrO2 implants would be highly recommended before a larger prospective randomized clinical trial is conducted to evaluate treatment with custom-made ZrO2 dental implants.
+
+FULL TEXT
+
+1. Introduction
+
+Dental implants have offered a reliable solution for the replacement of missing teeth. A multitude of base materials was used for dental implants throughout the years. Ideal material properties for dental implants should include adequate toughness, strength, corrosion, wear, fracture resistance, and biocompatibility.
+
+Until now, titanium and its alloys are seen as the "gold standard" material for dental implants given their good mechanical and biological properties and a multitude of positive long-term survival rates in different indications are documented.
+
+However, adverse effects attributed to titanium or titanium alloys, such as a higher risk of undesirable allergic reactions, cellular sensitization, and a clinically visible gray hue of the peri-implant tissues, trigger the demand for an alternative dental implant material, with even better biocompatible and aesthetic properties.
+
+High strength ceramics, especially yttria-stabilized tetragonal zirconia polycrystal, might be a promising alternative to titanium. Implants made of zirconia (ZrO2) are biocompatible and have good mechanical properties that make them suitable for clinical use. ZrO2 is a strong and tough but delicate material, and therefore, it should be handled with care, where mechanical preparation after sintering could impair the material's strength, and the actual mechanical strength of the implant can depend on the design of the implant and the manufacturing process. ZrO2 shows comparable results concerning bacterial colonization and tissue health to titanium. Additionally, the ZrO2 implants have an acceptable white color and return excellent aesthetic results. Taken together, these results suggest that ZrO2 might meet the requirements of an alternative implant material to titanium, assuming that the clinical performance is comparable.
+
+Despite these findings about the role of ZrO2 dental implants in dentistry, literature still does not provide consensus on whether ZrO2 is a viable option. Pieralli et al. conducted a systematic review, concluding that 1 year survival and success rates of ZrO2 dental implants are both promising and comparable to data of titanium implants. However, more high-evidence studies are needed to confirm the long-term predictability of ZrO2 implants in terms of success and survival, especially when it comes to two-piece implant designs. Hashim et al. included a multitude of indications and different types of ZrO2 implants to help the general dental practitioner with the choice for ZrO2 as a dental implant material in clinical practice. However, the main conclusion of this systematic review was that there are no clear indications for ZrO2 implants so far and pointed out the nescience regarding long-term outcomes and specific kinds of failure.
+
+The studies reviewed so far lack adequate focus on the intercomparability of the research. Furthermore, long-term clinical performance studies are needed to validate the outcome of ZrO2 as a material for dental implants since implants are expected to be a long-term solution for single-tooth replacement in terms of success, survival, and improvement of the patient's oral health related quality-of-life (OHQoL). Solid long-term scientific proof of clinical success of ZrO2 implants is scarce, although several short-term clinical performance studies have been conducted. Adverse events need to be monitored to find a clear indication for the clinical use of ZrO2 as a material for dental implants in terms of success and survival.
+
+The aim of this study was to describe and examine the clinical performance of custom-made ZrO2 two-piece dental implants, particularly ZV3 implants, and to evaluate its implant-supported fixed crown. Possible influencing factors, manipulation of the implant after placement and the occlusal scheme on the success and survival rate, were evaluated to get a better understanding of the indications for this type of implant.
+
+2. Materials and Methods
+
+2.1 Study Design and Patients
+
+The present study was designed as a prospective single-arm clinical trial with results up to 6 years. Consecutive patients missing a single maxillary premolar with an indication for replacement by means of an implant were candidates for inclusion. Patients who met the criteria were provided with written and verbal information about the study and provided informed consent. Permission from the medical ethics committee of the University Medical Center Groningen (UMCG), the Netherlands, was granted (METc number 2013/048, ABR number NL 43024.042.13).
+
+Inclusion criteria: patient at least 18 years old; missing first or second premolar in the maxilla; wish to replace the missing premolar with an implant; willing to sign the informed consent; bone height >= 10 mm beneath the maxillary sinus.
+
+Exclusion criteria: missing teeth mesial or distal from implantation site; bone augmentation needed prior to implant placement; orthodontic treatment at the time of impression taking; severe bruxism; acute periodontitis; history of implant loss; documented extreme gagging reflex; poor medical condition (ASA score three or higher); previous therapeutic radiation of the head-neck region; chronic pain in orofacial system; younger than 18 years at time of inclusion; reduced mental capacity.
+
+The population for this study included 31 patients, 30 of whom received a custom-made ZrO2 implant at the place of a missing single maxillary premolar. One patient was excluded from the study due to a protocol violation at implant placement, and another type of implant instead of the allocated type was placed. Primary outcomes were survival and success of the implant and of the implant-supported crown.
+
+2.2 Implants and Treatment Protocol
+
+The ZV3 individual implants (ZV3 individual implants, Zircon Vision GmbH, Wolfratshausen, Germany) were designed on the basis of the available local bone volume measured on a CBCT and an intraoral scan. The minimal required bone volume surrounding the implants was 1 mm, resulting in a variety of implant lengths and neck designs. After designing, the implants were milled from isostatically pressed, yttria-stabilized and cerium co-stabilized ZrO2 (MKM Engineering). After milling, the implants were air particle abraded prior to sintering.
+
+Implant placement was performed after a minimum healing period of 3 months after extraction. One hour preceding the surgical intervention, patients received antibiotic prophylaxis (2 g amoxicillin or 600 mg clindamycin in case of penicillin allergy, taken orally). One day before surgery, patients began using oral disinfection (0.12% chlorhexidine mouthwash) twice daily and for a period of 10 days post surgery. All surgical interventions were performed under local anesthesia. Thirty patients received an individually designed ZrO2 implant from renowned operators with broad experience in titanium implant placement.
+
+The implants in this study were placed in the native bone rather than performing extended bone augmentation, in cases where enough palatal bone was present to establish primary stability, as titanium implant placement would have been performed in the clinic.
+
+After a healing period of 12 weeks, restorative treatment commenced. If necessary, the implant was manipulated intraorally where needed (buccally) with a diamond burr with sufficient water cooling for aesthetic purposes before making the impression with a polyether (Impregum, 3M ESPE) in a closed semi-individual impression tray. Subsequently, lithium disilicate crowns (IPS e.max Press, Ivoclar Vivadent) on original ZV3 fiberglass posts were manufactured. Both were cemented adhesively (RelyX Ultimate, 3M ESPE) simultaneously, approximately 15 weeks after implant placement. Excess cement was removed under inspection with a microscope. All implant crowns were manufactured by the same dental technician at a single dental laboratory. Following crown placement, occlusion was established with light contacts in maximum occlusion and a wide freedom in centric relation. Static and dynamic occlusions were checked with articulation paper, and comprehensive oral hygiene instructions were delivered. The restorative treatment protocol was administered by a sole, proficient operator.
+
+2.3 Data Collection and Follow-Up
+
+Various parameters related to the implant and adjacent teeth were evaluated at four time points: prior to implant placement (T0), 2 weeks after crown placement (T1, baseline), 1 year after crown placement (T12), and approximately 5 years after baseline measurements (T60). The primary focus was to determine survival of the ZV3 implant. Secondary focus: a) describe success of the implant-crown complex via clinical performance parameters, MBL change, PROMs; b) determine possible influencing factors on implant survival such as manipulation and the occlusal scheme; c) performance of the implant-supported crown.
+
+2.3.1 Implant Survival
+
+Implant survival was defined as the implant being functional in situ. An implant had failed when it failed to osseointegrate (early failure), was lost due to peri-implantitis (late failure), or in case of mechanical failure such as implant fracture.
+
+To determine possible influencing factors on implant survival, original cast models were studied retrospectively to determine the occlusal scheme during dynamic occlusion (canine protection or group function) and whether the implant had been manipulated buccally prior to impression taking.
+
+2.3.2 Implant Success and Performance of the Implant-Supported Crown
+
+Success criteria (Albrektsson-type): absence of implant mobility, radiographic peri-implant radiolucencies, vertical MBL loss more than 0.2 mm annually after the first year of implant service, pain, and inflammation of the peri-implant tissues or nerve damage.
+
+Standardized intraoral radiographs were obtained at T1, T12, T60 to determine peri-implant radiolucencies and MBL change using a custom-made x-ray holder for equal projection. MBL was measured using DicomWorks software. Distances from the distal and mesial shoulder of the implant to the first marginal bone were measured by two researchers independently, averaged; if differing >0.40 mm, a third measurement was sought. Deposition of marginal bone indicated by a positive value.
+
+Clinical parameters: presence of plaque, dental calculus, probing depth (mm), bleeding score, measured at mesio-, medio-, and distobuccal sides using a calibrated probing force of 0.25 N. Peri-implant mucositis was described when MBL < 2 mm and peri-implantitis when MBL > 2 mm, both combined with bleeding on probing and/or suppuration.
+
+Implant-supported crown evaluated with FDI World Dental Federation clinical criteria (aesthetic, biological, functional properties). Complications described if intervention was required. When an implant was lost, this was considered to have no impact on the success or survival rate of the crown.
+
+2.3.3 Patient-Reported Outcomes
+
+PROMs measured by a questionnaire with 16 statements regarding emotional, functional, aesthetic, and overall satisfaction. VAS answers converted to percentages (0% complete disagreement to 100% complete agreement).
+
+2.4 Statistical Analysis
+
+REDCap for data management. Descriptive statistics, Kolmogorov-Smirnov test for normality. SPSS v28.0 for Mac, significance p<0.05. Kaplan-Meier statistics (MedCalc v20.0.4) for survival and success with 95% CI at 5 years, stratified by manipulation and occlusal scheme with log-rank tests. Repeated measures ANOVA with post hoc Bonferroni for average MBL over time. Wilcoxon signed-rank tests for patients' expectations vs satisfaction.
+
+3. Results
+
+3.1 Research Population
+
+Mean age of participants was 52.5 years (range 23-75) at implant placement. Average follow-up survival time was 48.3 months (range 1-77 months).
+
+Four out of 30 patients experienced early implant failure (n=4) due to failed osseointegration; for two, the lithium disilicate crown had already been manufactured and cemented. Five patients experienced mechanical failure (n=5) due to horizontal implant fracture. Two patients died during the study while the implant was still in situ (n=2). For the 5-year follow-up, 19 patients received a recall appointment as their implant was still in situ. Five patients did not attend (n=5); of those, four implant-supported crowns were reported telephonically to be functioning without problems, one participant could not be reached. Eventually, 14 patients participated in the follow-up appointment approximately 5 years after treatment.
+
+Demographics (n=30): Male 15 (50%), Female 15 (50%). Tooth position: 14 (26.7%), 15 (26.7%), 24 (16.7%), 25 (30%). Occlusal scheme: canine guidance 10 (33.3%), group function 20 (66.7%). Implant manipulated: 14 (46.7%), not manipulated 16 (53.3%).
+
+3.2 Implant Survival
+
+In total, nine out of 30 implants were lost: early implant failure (n=4), mechanical failure (n=5). Additionally, three subjects lost to follow-up (2 died, 1 could not be reached). Median follow-up 63.0 months (IQR 16.0-69.0). Survival probability of the ZV3 implant after 60 months was 75.8% (95% CI [60.0%; 91.0%]) and 59.6% (95% CI [49.4%; 69.9%]) at the end of the study (77 months).
+
+Stratified by manipulation: survival probability at T60 was 81.3% in the manipulated group vs 68.6% in the not-manipulated group; log-rank test not significant (chi2(1)=0.290; p=0.590).
+
+Stratified by occlusal scheme: estimated survival probability at T60 was 80.0% in canine guidance vs 73.8% in group function; log-rank test not significant (chi2(1)=0.106; p=0.745).
+
+3.3 Implant Success
+
+No peri-implant radiolucencies identified. Mean (most severe) MBL change between baseline and 1-year follow-up was -0.26 mm (min -0.99, max 0.91, SD 0.45); between baseline and 5-year follow-up was -0.25 mm (min -0.91, max 1.10, SD 0.54). Peri-implant bone loss over 0.2 mm annually after the first year was not detected. No statistically significant MBL differences among the three time points (p=1.00 for all comparisons).
+
+Clinical parameter scores generally favorable at T1, T12, T60 with median scores of 0. At T60, one heavily bleeding site found in one subject, categorized as peri-implant mucositis (not a success, n=1). In total, 9/30 implants failed and not a success (n=9); 10 implants categorized as not successful; six subjects lost to follow-up. Median follow-up 55.0 months (IQR 15.0-65.8). Probability of success after 60 months was 71.0% (95% CI [54.0%; 88.0%]).
+
+Of 30 placed implants, 28 received a crown. Two showed early osseointegration failure after crown placement, five fractured. Two patients died, five lost to follow-up. Remaining implant-supported crowns (n=14) were evaluated with FDI criteria. No interventions required, no complications described. Occlusal contour and wear scores deteriorated over time but remained clinically sufficient. Strength of mesial/distal contact points decreased over time.
+
+Clinical outcome table (T1/T12/T60): Plaque index score 0: 77.8%/76.0%/64.3%. Calculus index score 0: 100.0%/100%/85.7%. Bleeding index score 0: 59.3%/72.0%/85.7%. Mean probing depth mm (SD): 2.4(0.75)/2.6(1.0)/2.7(1.2).
+
+3.4 Patient-Reported Outcomes
+
+Median expected overall satisfaction preoperative was 93.9% (IQR 86.9-96.3%); median overall satisfaction at second follow-up was 95.7% (IQR 91.5-97.6%). Patients experienced significantly more self-confidence (p=0.035), confidence in loading of the implant (p=0.004), better chewing ability (p=0.005), less visibility of the implant (p=0.006), and less pain during function (p=0.005) than expected before treatment.
+
+4. Discussion
+
+The used two-piece ZV3 implants are customized per patient: both body and emergence profile individually designed to fit available bone volume and support soft tissues. Prior work (Brüll et al.) suggested favorable bending strength, fracture toughness, and Weibull modulus on the same custom-made implants; final mechanical strength depends on both manufacturing process and final design. Very little has been reported on custom-made ZrO2 implants; mid- or long-term literature for two-piece ZrO2 implants is rare.
+
+Implant survival probability in this study was 83.3% (95% CI [70%; 97%]) at 1 year and 75.8% (95% CI [60.0%; 91.0%]) at 5 years — considered poor compared to a review of zirconia implants reporting 95.6% survival after 1 year. One study reported 85.7% survival at 80 months for two-piece ZrO2 implants. Both are higher than this study. Expected annual loss of 0.05% after year 1 (Pieralli et al.) not in line with the current study; most failures in that study were before prosthetic loading, whereas here half of failed implants were lost after prosthetic loading.
+
+Horizontal fracture of the ZrO2 implant was seen in five patients; implant removed surgically in three cases, remaining part left in the maxilla in two. Mechanical implant failures cause great patient discomfort. No recent literature reported such high rates of implant fracture.
+
+The "Therapy Guide for ZV3 Ceramic Implants" was adapted to clinical needs — position implant in crown axis (not off-set) and avoid cuspid contact during lateral movements were among recommendations; the study placed implants in native bone rather than performing bone augmentation, and steep cusp angulation was established where aesthetically needed (as with titanium), possibly leading to antagonistic teeth elongation and high lateral forces during dynamic occlusion — both potentially contributing to mechanical overloading. Other unfollowed recommendations (vitamin D monitoring, bone ozonizing, PRP treatment, Periotest osseointegration testing) considered of minor importance.
+
+Becker et al. and Brunello et al. reported on the same cohort using ZV3 standard implants: up to 9-year follow-up, one decementation and six fiberglass post fractures occurred, but no implant fracture (short-term 2y or long-term). In contrast, this study saw no prosthetic problems but five horizontal implant fractures. No single variable (inclusion criteria, prosthetic protocol, implant location, palatal placement) could be identified as the main contributor to the different failure patterns despite intense discussion between research groups. Brüll et al. reported a retrospective evaluation on 121 ZV3 implants (66 same two-piece design) with 96.5% estimated survival at 3 years, comparable to the literature.
+
+Titanium implant fracture rates ~0.5% at 5 years — much lower than the current study. One other ZrO2 implant brand showed ~8% fracture rate at 3 years post-loading, located in maxillary/mandibular anterior regions, presumed cause overload — notable because anterior occlusal forces tend to be ~3x lower than posterior. Per a review, two-piece ZrO2 implants are less fracture-resistant than one-piece implants; manipulation of the ZrO2 implant should be avoided due to negative impact on fracture resistance (Gahlert et al. noted post-sintering roughening damage as possible reason for local material stress/crack initiation).
+
+Survival at 5 years: 81.3% manipulated vs 68.6% not-manipulated (not statistically significant) — manipulating ZV3 implants does not appear to negatively affect survival. Survival: 80.0% canine guidance vs 73.8% group function — decreased cusp inclination in lateral excursion with posterior disclusion to protect implants (suggested in prior literature) could not be substantiated by this study's results.
+
+Implant success rate 71.0% (95% CI [54.0%; 88.0%]) at 5 years was lower than reported in the literature. Peri-implant bone-level evaluation is pivotal to determining implant success (Kohal et al.); MBL changes here (-0.26 mm at 1 year, -0.25 mm at 5 years) comparable to other ZrO2 implant studies, no significant change between 1 and 5 years.
+
+No complications with implant-supported crowns. Aesthetic criteria showed deterioration over time in surface lustre, colour match, translucency — consistent with other lithium disilicate restoration studies attributing this to loss of glaze; natural tooth colour changes (darkening, staining, gingival recession) may also contribute to colour-match differences over time. Nine implant-supported crowns lacked a strong contact point over time — a 30% rate, relatively low compared to other studies reporting 43% and 58% approximal contact point loss (using 50 micron strip measurements).
+
+Patient satisfaction was higher than expectations at baseline, 1-year, and 5-year follow-ups, and consistently high across follow-ups. Patients experienced significantly more self-confidence, confidence in implant loading, better chewing ability, less visibility of the implant, and less pain during function than expected. Satisfaction was particularly high shortly after crown placement, gradually decreasing over time — presumably reflecting a positive feeling at receiving the crown rather than an actual decrease in satisfaction over time.
+
+One periodontal failure (heavy bleeding on probing) attributed to poor oral hygiene during follow-up, unlikely to directly affect the implant-supported crown but affecting the peri-implant environment and survival.
+
+Limitations: low number of subjects; small sample and relatively high no-show rate affected statistical reliability, resulting in large confidence intervals for survival/success analyses — survival probability after 5 years should be interpreted with caution. Small differences over time may go unnoticed due to small sample size. Single-arm design does not allow demonstration of comparative treatment benefit; comparison with other data has limitations due to differences in references, measurements, and study settings.
+
+5. Conclusion
+
+Results show a survival probability after 5 years of 75.8% (95% CI [60.0%; 91.0%]) for the ZV3 implant. Survival rate of the ZV3 implants used in this study is lower than expected. Based on these findings, the indication for ZV3 ZrO2 implants as applied in this study cannot be recommended for clinical practice. Lateral forces should be taken into account when off-axis placement of the ceramic implant is performed. Further research on the different appearances of mechanical failure in ZrO2 implants is highly recommended.

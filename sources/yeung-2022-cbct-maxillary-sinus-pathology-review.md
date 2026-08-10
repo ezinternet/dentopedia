@@ -14,8 +14,21 @@ source_collection: external
 
 CBCT는 sinus pathology 진단의 1차 도구 — 본 review는 **상악동 건강·질병 평가의 CBCT 활용 종합 정리**. AP/MRC를 포함한 광범위 pathology에 대한 imaging 결정 가이드. [[sinus-lift/pseudocyst/nosaka-2024-sinus-elevation-radiopaque-lesions-review]]의 영상 진단 부분 보강.
 
-## One-line Summary
-Review (HKU 그룹, Diagnostics 2022): CBCT를 통한 상악동 건강·병변 평가의 종합 review — 정상 해부, 점막 두께, AP·MRC·sinusitis·odontogenic lesion·tumor 등 광범위 pathology 정리.
+## Three-line Summary
+
+Review (HKU 그룹, Diagnostics 2022): CBCT를 통한
+
+상악동 건강·병변 평가의 종합 review — 정상
+
+해부, 점막 두께, AP·MRC·sinusitis·odontogenic lesion·tumor 등 광범위 pathology 정리.
+
+## 세줄요약
+
+Review (HKU 그룹, Diagnostics 2022): CBCT를 통한
+
+상악동 건강·병변 평가의 종합 review — 정상
+
+해부, 점막 두께, AP·MRC·sinusitis·odontogenic lesion·tumor 등 광범위 pathology 정리.
 
 ## 1. Document Information
 저자: HKU (Hong Kong University) 치의학 + OMFS 그룹. Diagnostics (MDPI) open access. CBCT 활용에 특화된 review.

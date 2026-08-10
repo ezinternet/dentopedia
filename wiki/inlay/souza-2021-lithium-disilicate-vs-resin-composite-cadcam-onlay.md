@@ -6,18 +6,28 @@ date: 2021-01-01
 doi: 10.1007/s10266-020-00539-3
 source: souza-2021-lithium-disilicate-vs-resin-composite-cadcam-onlay.md
 category: [inlay]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/souza-2021-lithium-disilicate-vs-resin-composite-cadcam-onlay.pdf
 pdf_filename: souza-2021-lithium-disilicate-vs-resin-composite-cadcam-onlay.pdf
 source_collection: external
 tags: []
 ---
 
-## One-line Summary
-Split-mouth RCT (n=20, 1-year) comparing IPS e.max CAD (lithium disilicate) vs Lava Ultimate (resin composite) CAD/CAM onlays: no failures and no significant overall clinical difference, but e.max CAD showed within-group deterioration in surface lustre (p=0.020) and color match/translucency (p=0.039); longer-term studies needed.
+## Three-line Summary
 
-## 한줄요약
-스플릿마우스 RCT(n=20, 1년): e.max CAD vs Lava Ultimate 온레이 — 1년 임상 성능 유사; e.max에서 표면광택·색조일치 일부 저하; 장기 연구 필요
+Split-mouth RCT (n=20, 1 year) comparing IPS e.max CAD (lithium disilicate) vs Lava Ultimate (resin composite) CAD/CAM CEREC onlays in posterior teeth, evaluated by FDI criteria with two blinded observers at baseline and 12 months.
+
+No failures occurred in either group at 1 year, and no statistically significant inter-group difference was found (p>0.05); however, e.max CAD showed significant within-group deterioration in surface lustre (p=0.020) and color match/translucency (p=0.039), while Lava Ultimate remained stable.
+
+Both materials are clinically acceptable at 1 year, but the surface-lustre decline in lithium disilicate warrants longer-term follow-up studies before definitive material recommendations.
+
+## 세줄요약
+
+IPS e.max CAD(리튬 디실리케이트)와 Lava Ultimate(레진 복합체) CAD/CAM 온레이(Onlay)를 비교한 스플릿마우스 무작위대조시험(Randomized Controlled Trial, RCT)(n=20, 1년), 2명 맹검 평가자가 FDI 기준 사용.
+
+1년 시점 양군 모두 실패 없음, 군간 유의차 없음(p>0.05); e.max CAD에서 표면광택(p=0.020)·색조일치/투명도(p=0.039) 군내 유의 저하, Lava Ultimate는 색조 안정.
+
+두 재료 모두 1년 임상적 수용 가능; 리튬 디실리케이트의 표면광택 저하는 장기 추적연구가 필요함을 시사.
 
 ## Summary
 Split-mouth RCT (n=20, 1-year) comparing IPS e.max CAD (lithium disilicate) vs Lava Ultimate (resin composite) CAD/CAM onlays. Both materials showed no failures and no statistically significant overall clinical performance difference at 1 year. However, e.max CAD showed significant within-group deterioration in surface lustre (p=0.020) and color match/translucency (p=0.039).

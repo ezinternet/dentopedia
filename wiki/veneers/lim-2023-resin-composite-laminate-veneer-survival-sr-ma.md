@@ -6,20 +6,31 @@ date: 2023-12-01
 doi: 10.1016/j.jebdp.2023.101911
 source: lim-2023-resin-composite-laminate-veneer-survival-sr-ma.md
 category: [veneers]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/lim-2023-resin-composite-laminate-veneer-survival-sr-ma.pdf
 pdf_filename: lim-2023-resin-composite-laminate-veneer-survival-sr-ma.pdf
 source_collection: external
 tags: []
+relations:
+  - type: extends
+    target: klein-2025-ceramic-laminate-veneer-survival-complications-sr-ma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 7 studies (3 RCTs + 4 cohorts, follow-up 24–97 months): resin composite laminate veneers showed 88% pooled survival rate overall, with direct veneers (91%) outperforming indirect (84%); surface roughness and color mismatch were the most common complications.
+PROSPERO-registered SR+MA (CRD42022336857; 827 articles screened, 7 studies included — 3 RCTs, 4 cohorts — permanent dentition, ≥2-year follow-up, 24–97 months) evaluating survival and complication rates of resin composite laminate veneers.
 
-## 한줄요약
+Pooled survival from RCTs was 88% (95% CI 81–94%); direct veneers 91% versus indirect 84%; most common complications were surface roughness, color mismatch, and marginal discoloration, all clinically acceptable with or without reintervention; I²=50.5%.
 
-7편 연구(RCT 3 + 코호트 4, 추적 24–97개월) SR+MA: 레진 복합재 라미네이트 비니어 생존율 88%, 직접법(91%) > 간접법(84%); 표면거칠기·색 불일치가 가장 흔한 합병증.
+Resin composite veneers are a viable option with 88% medium-term survival but require higher maintenance than ceramics; a critical evidence gap persists — high-quality RCTs specifically comparing direct versus indirect resin composite veneers remain nearly absent despite decades of use.
+
+## 세줄요약
+
+PROSPERO 등록 SR+MA (CRD42022336857; 827건 검색, 7편 포함 — RCT 3 + 코호트 4, 영구치, ≥2년 추적 24–97개월): 레진 복합재 라미네이트 비니어(Resin Composite Laminate Veneer) 생존율·합병증 평가.
+
+RCT 합산 생존율 88% (95% CI 81–94%); 직접법(Direct) 91% vs 간접법(Indirect) 84%; 표면거칠기·색 불일치·변연 변색이 가장 흔한 합병증(대부분 수리 가능); I²=50.5% 중등도 이질성.
+
+레진 비니어는 중기 생존율 88%로 유효한 선택지이나 유지관리 부담 높음; 직접법 vs 간접법을 직접 비교한 고질적 RCT가 사실상 없다는 증거 공백이 수십 년째 미해결.
 
 ## Summary
 

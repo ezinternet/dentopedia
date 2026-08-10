@@ -1,0 +1,37 @@
+Imaging the bifid mandibular canal using high resolution MRI
+
+Wamasing P, Deepho C, Watanabe H, Hayashi Y, Sakamoto J, Kurabayashi T
+Dentomaxillofacial Radiology, 2018;48(3):20180305
+PMID: 30346803 | PMCID: PMC6476361 | DOI: 10.1259/dmfr.20180305
+
+NOTE: PMC full-text body was returned empty by the PubMed MCP get_full_text_article
+tool for this article (empty full_text field in the API response). Only the
+structured abstract below was retrievable. This file preserves that abstract
+verbatim as the source text for sources/wiki authoring (full_text: false).
+
+Objective:
+This study aimed to investigate the incidence of bifid mandibular canals (BMCs)
+using high-resolution MRI with a three-dimensional volumetric interpolated
+breath-hold examination sequence (3D-VIBE) through the neurovascular bundle (NVB).
+
+Methods:
+In this retrospective study, we extracted 154 datasets from our archive of
+patients who underwent MRI examination with a 3D-VIBE sequence for mandible
+lesions from January 2015 to April 2016. The right and the left mandibles were
+treated independently with 59 cases excluded due to NVB morphology or artifacts,
+yielding 249 hemi-mandible cases classified among three subtypes: Type 0 with no
+BMC, Type one with one NVB and two NVBs on route to it, and Type two with two
+NVBs. We also investigated the incidence of nutrient canals (NCs) using MRI.
+Finally, we determined whether each BMC case could also be identified via
+panoramic radiography (PR) or CT.
+
+Results:
+Of the 249 cases examined, 6.4% were found to have BMC (Types 1 and 2). Subtypes
+were classified as follows: 233 as Type 0 (93.6%), 11 as Type 1 (4.4%), and 5 as
+Type 2 (2.0%). The NC was identified on MRI in a majority of cases. No BMCs were
+identified using PR or CT except for one, which was identified by CT.
+
+Conclusion:
+The incidence rate of BMC per MRI was 6.4% in this study. NCs, including the
+retromolar canal, had an incidence rate of 58.4-97.6%. Further, BMCs were not
+verified by PR or CT, indicating that MRI should be used to assess BMCs.

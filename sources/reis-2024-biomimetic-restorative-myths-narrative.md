@@ -9,8 +9,21 @@ pdf_filename: reis-2024-biomimetic-restorative-myths-narrative.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Critical narrative review challenges 9 "biomimetic restorative dentistry" (BRD) protocols (caries dyes, alumina air abrasion, enamel beveling, CHX MMP inactivation, "elected" gold-standard adhesives, IDS, deep margin elevation, decoupling, fiber inserts) — finding most lack RCT/SR-level evidence of superiority over standard adhesive techniques.
+## Three-line Summary
+
+Critical narrative review challenges 9 "biomimetic restorative dentistry" (BRD) protocols (caries dyes, alumina air
+
+abrasion, enamel beveling, CHX MMP inactivation, "elected" gold-standard adhesives, IDS, deep margin elevation, decoupling,
+
+fiber inserts) — finding most lack RCT/SR-level evidence of superiority over standard adhesive techniques.
+
+## 세줄요약
+
+Critical narrative review challenges 9 "biomimetic restorative dentistry" (BRD) protocols (caries dyes, alumina air
+
+abrasion, enamel beveling, CHX MMP inactivation, "elected" gold-standard adhesives, IDS, deep margin elevation, decoupling,
+
+fiber inserts) — finding most lack 무작위 대조 시험 (RCT)/SR-level evidence of superiority over standard adhesive techniques.
 
 ## 1. Document Information
 - **Journal**: J Appl Oral Sci 2024;32:e20240271

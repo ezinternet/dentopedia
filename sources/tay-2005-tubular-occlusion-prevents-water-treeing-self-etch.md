@@ -16,13 +16,21 @@ text_filename: tay-2005-tubular-occlusion-prevents-water-treeing-self-etch.txt
 
 This paper isolates the source of water entrapment in one-step self-etch adhesives by an elegant control: bonding to caries-affected dentin with *occluded* tubules removes the transdentinal water flux while leaving residual-solvent and substrate porosity intact. The result — occluded tubules eliminate water-treeing and water-droplets — directly shows that **transdentinal water flux from patent tubules**, not just incompletely evaporated solvent, drives water-treeing degradation. It reinforces the sibling mechanism page [[wiki/resin-bonding/tay-2003-water-treeing-degradation-dentin-adhesives]] (which characterizes water-treeing as a degradation pathway) by providing the causal "knock-out" experiment for the water source.
 
-## One-line Summary
+## Three-line Summary
 
 In-vitro TEM/silver-impregnation study (experimental single-bottle one-step self-etch adhesive): bonding to caries-affected dentin with occluded tubules eliminated water-treeing and water-droplets, whereas sound dentin showed both — demonstrating transdentinal water flux (not just residual solvent) drives water-treeing.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 체외 투과전자현미경(TEM)·은침착(silver-impregnation) 연구 (실험용 단일병 1단계 자가부식 접착제): 세관(tubule)이 폐쇄된 우식이환상아질(caries-affected dentin)에 접착 시 water-treeing과 water-droplet이 사라진 반면, 정상상아질(sound dentin)에서는 둘 다 관찰됨 — 잔류 용매가 아니라 경상아질 수분 이동(transdentinal water flux)이 water-treeing의 주된 동인임을 입증.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

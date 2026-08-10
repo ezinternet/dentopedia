@@ -16,13 +16,21 @@ text_filename: manser-2009-teamwork-patient-safety-dynamic-healthcare.txt
 
 General-healthcare foundational review establishing the teamwork → patient-safety link across acute/dynamic domains (OR, ICU, ED, trauma). Ingested as an anchor for the dental team-communication axis — it provides the canonical taxonomy of *why* teamwork matters (incident causation/prevention, provider perceptions/well-being, observed communication-coordination-leadership patterns) that is extrapolated to the dental clinic. Reinforces [[overviews/dental-workforce-delegation-skill-mix-overview]]. This is general-healthcare (not dental-specific) evidence.
 
-## One-line Summary
+## Three-line Summary
 
 Narrative literature review (general healthcare, acute/dynamic domains) synthesizing three evidence streams — critical-incident analyses, provider-perception studies, and observational performance studies — that together establish teamwork as a determinant of quality and patient safety.
 
-## 한줄요약
+(incomplete)
 
-수술실·중환자실·응급실 등 역동적 의료 영역의 팀워크-환자안전 관계를 다룬 서술적 문헌 고찰 (Narrative Review). 사건분석·종사자 인식·관찰 연구의 세 갈래 근거가 팀워크가 진료의 질과 안전을 좌우함을 뒷받침한다 (일반 의료 근거, 치과 비특이적).
+(incomplete)
+
+## 세줄요약
+
+수술실·중환자실·응급실 등 역동적 의료 영역의 팀워크-환자안전 관계를 다룬 서술적 문헌 고찰 (Narrative Review).
+
+사건분석·종사자 인식·관찰 연구의 세 갈래 근거가 팀워크가 진료의 질과 안전을 좌우함을 뒷받침한다 (일반 의료 근거, 치과 비특이적).
+
+(incomplete)
 
 ## 1. Document Information
 

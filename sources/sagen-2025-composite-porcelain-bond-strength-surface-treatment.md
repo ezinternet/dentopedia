@@ -13,13 +13,21 @@ source_collection: external
 
 치핑된 도재 보수 시 HF 산처리와 표면 거칠기 처리(다이아몬드 디스크)의 효과, 그리고 접착 방법(유니버설 접착제 vs 별도 실란+접착제)의 역할을 비교한 연구. [[resin-bonding/unknown-2009-effect-of-silane-treatment-timing]]과 함께 실란 처리 방법이 표면처리보다 결합강도에 더 큰 영향을 미친다는 일관된 근거를 제공한다.
 
-## One-line Summary
+## Three-line Summary
 
-In vitro study (n=40, 4 groups): for feldspathic porcelain chipping repair, bonding method (separate silane+adhesive > universal adhesive) matters more than surface treatment (HF etching ≈ diamond roughening); universal adhesive groups showed high debonding rates during thermal cycling.
+In vitro study (n=40, 4 groups): for feldspathic porcelain chipping repair, bonding method (separate silane+adhesive > universal adhesive) matters more than surface treatment (HF etching ≈ diamond roughening);
 
-## 한줄요약
+universal adhesive groups showed high debonding rates during thermal cycling.
+
+(incomplete)
+
+## 세줄요약
 
 인 비트로 연구 (n=40, 4그룹): 장석질 도재 치핑 수리 시 표면처리 방법(HF 산처리 ≈ 다이아몬드 거칠기)보다 접착 방법(별도 실란+접착제 > 유니버설 접착제)이 결합강도에 더 중요하며, 유니버설 접착제 그룹은 열순환 중 높은 탈락률을 보였다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

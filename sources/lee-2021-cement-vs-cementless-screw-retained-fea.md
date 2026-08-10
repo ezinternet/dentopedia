@@ -11,15 +11,23 @@ source_collection: external
 
 ## Why Ingested
 
-기존 [[prosthetic-materials/hamed-2020-screw-vs-cement-implant-sr]]는 임상 SR로 나사유지형의 치주·합병증 우위를 보여주나, FEA 관점의 응력분포 차이는 다루지 않는다. 본 연구(Lee 2021)는 신형 시멘트-프리 나사유지형(base abutment + titanium link screw) 지르코니아 크라운이 기존 시멘트 유지형 대비 임플란트·골 응력을 수치적으로 얼마나 줄이는지를 3D FEA로 정량화해, 유지 방식 선택의 생역학적 근거를 보강한다.
+기존 [[prosthetic-materials/abutment-screw/hamed-2020-screw-vs-cement-implant-sr]]는 임상 SR로 나사유지형의 치주·합병증 우위를 보여주나, FEA 관점의 응력분포 차이는 다루지 않는다. 본 연구(Lee 2021)는 신형 시멘트-프리 나사유지형(base abutment + titanium link screw) 지르코니아 크라운이 기존 시멘트 유지형 대비 임플란트·골 응력을 수치적으로 얼마나 줄이는지를 3D FEA로 정량화해, 유지 방식 선택의 생역학적 근거를 보강한다.
 
-## One-line Summary
+## Three-line Summary
 
 3D FEA study (n=2 models, mandibular premolar) found cement-retained zirconia implant crowns generated substantially higher von Mises stress in both the implant and surrounding bone than a novel cementless screw-retained design under 100 N vertical and 30° oblique loading.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 3D 유한요소분석 연구에서 기존 시멘트 유지형 지르코니아 임플란트 크라운이 신형 시멘트-프리 나사유지형(베이스 어버트먼트+링크 스크류)보다 임플란트와 주변골에 유의하게 높은 응력을 발생시킴.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

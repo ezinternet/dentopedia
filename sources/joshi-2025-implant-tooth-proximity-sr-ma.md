@@ -17,13 +17,21 @@ text_filename: joshi-2025-implant-tooth-proximity-sr-ma.txt
 
 임플란트-자연치 간격(임플란트-치근 간격)에 대한 가장 최신 SR+MA. 1.5 mm 안전거리 기준의 근거를 체계적으로 정리. [[implants/tarnow-2000-inter-implant-distance-crestal-bone-height]] 의 임플란트 간격 3 mm 룰과 쌍을 이루는 자연치 근접 거리 근거.
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (11 studies, 1,727 patients, 2,000+ implants): <1.5 mm implant-to-tooth distance — pulpal damage 20–25%, marginal bone loss up to 4% of implants; implant survival consistently >95%; pooled effect size 0.11.
+SR+MA (11 studies, 1,727 patients, 2,000+ implants): <1.5 mm implant-to-tooth distance — pulpal damage 20–25%, marginal bone loss up to 4% of implants;
 
-## 한줄요약
+implant survival consistently >95%;
 
-SR+MA (11편, 1,727명, 임플란트 2,000개+): 임플란트-치근 <1.5 mm → 치수 손상 20–25%, 골소실 최대 4%; 임플란트 생존율 >95% 유지; 풀링 효과크기 0.11.
+pooled effect size 0.11.
+
+## 세줄요약
+
+SR+MA (11편, 1,727명, 임플란트 2,000개+): 임플란트-치근 <1.5 mm → 치수 손상 20–25%, 골소실 최대 4%;
+
+임플란트 생존율 >95% 유지;
+
+풀링 효과크기 0.11.
 
 ## 1. Document Information
 - **Journal**: Cureus 2025;17(12):e99077 (PROSPERO ID: CRD42024499790)

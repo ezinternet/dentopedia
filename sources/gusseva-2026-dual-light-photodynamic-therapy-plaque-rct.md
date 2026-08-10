@@ -13,13 +13,21 @@ source_collection: external
 
 Mechanical plaque control (toothbrushing + flossing) leaves up to ~50% of plaque even with proper technique; this paper tests a non-mechanical adjunct (home-use dual-light aPDT) against that ceiling. It contextualizes the mechanical-device evidence in [[wiki/periodontics/luo-2026-electric-toothbrush-technologies-plaque-gingivitis-nma]] (which compares powered-brush *technologies* for plaque/gingivitis) by asking whether a light-based chemical adjunct can add reduction on top of conventional self-care in already-healthy adults.
 
-## One-line Summary
+## Three-line Summary
 
 Crossover pilot RCT (n=30 healthy adults, 6-week design) — daily 10-min home-use dual-light (405+810 nm) aPDT with indocyanine green, added to conventional oral care, cut plaque (Greene-Vermillion) ~21% vs baseline (pooled p=0.0001) while conventional care alone showed no significant change (-6.5%, p=0.11).
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 교차설계 파일럿 RCT(건강 성인 30명, 6주) — 기존 구강관리에 매일 10분 이중광(405+810 nm) 항균 광역동치료(antimicrobial Photodynamic Therapy, aPDT, indocyanine green 광감작제)를 추가하니 치태(Greene-Vermillion 지수)가 기준 대비 약 21% 감소(통합 p=0.0001), 반면 기존 관리 단독은 유의한 변화 없음(-6.5%, p=0.11).
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

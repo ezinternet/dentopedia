@@ -13,13 +13,21 @@ source_collection: external
 
 literature-surveillance `primary-pulpotomy-ssc` sweep(2026-06-20) 적립 SR+MA. SSC의 심미적 대안인 prefabricated zirconia crown(PZC)을 정량 비교해 위키 Hall/SSC 클러스터([[wiki/caries/konukman-turker-2026-hall-vs-modified-hall-primary-molars-rct]])를 crown-material 축으로 확장.
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 7 RCTs (700 crowns; 6 pooled for retention): prefabricated zirconia crowns (PZCs) and stainless steel crowns (SSCs) showed equivalent retention in primary molars (OR 0.96, 95% CI 0.40–2.32; p=0.93; I²=0%), with PZCs consistently demonstrating better gingival health and less plaque accumulation, possible increased antagonist wear due to zirconia hardness, and strongly superior parental esthetic satisfaction despite higher cost.
+SR+MA of 7 RCTs (n=700 primary molar crowns, ages 3–10 years, follow-up 3–36 months; PROSPERO CRD420251016795) comparing prefabricated zirconia crowns (PZC) vs stainless steel crowns (SSC) on retention, gingival health, plaque, antagonist wear, and parental satisfaction.
 
-## 한줄요약
+Pooled retention was equivalent (OR 0.96, 95% CI 0.40–2.32; p=0.93; I²=0%); PZCs showed better gingival health and less plaque in the majority of studies, but 2 of 3 studies found higher antagonist wear with zirconia, and parental esthetic satisfaction uniformly and strongly favored PZC across all reporting studies.
 
-SR+MA(RCT 7편, 크라운 700개; 6편 pooled): 유구치에서 PZC와 SSC의 유지력 동등(OR 0.96, 95% CI 0.40–2.32; p=0.93; I²=0%), PZC가 치은건강·플라크에서 일관되게 우수하나 대합치 마모 가능성↑·비용↑; 부모 심미 만족도 강하게 PZC 우위.
+Most studies had 6–12 month follow-up (only one at 36 months), zirconia brand/cement heterogeneity limits cross-study comparability, blinding was difficult due to visible crown differences, and cost and technique sensitivity are barriers to routine PZC use over SSC.
+
+## 세줄요약
+
+SR+MA(RCT 7편, 유구치 700개, 3–10세, 3–36개월 추적; PROSPERO CRD420251016795): 선제작 지르코니아 크라운(Prefabricated Zirconia Crown, PZC) vs 스테인리스 스틸 크라운(Stainless Steel Crown, SSC) 비교.
+
+유지율 동등(OR 0.96, 95% CI 0.40–2.32; p=0.93; I²=0%); 대부분 연구에서 PZC가 치은건강·플라크 지수 우수, 3편 중 2편에서 대합치 마모 PZC군 증가, 모든 부모 만족도 평가에서 PZC 강력 우위.
+
+대부분 연구가 6–12개월 단기 추적(36개월 1편), 지르코니아 브랜드·합착재 이질성으로 비교 제한; 맹검 어렵고 비용·술식 민감도가 PZC의 SSC 대체 장벽.
 
 ## 1. Document Information
 

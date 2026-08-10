@@ -1,0 +1,28 @@
+SOURCE: PubMed abstract (full text not retrieved — no PMC; paywalled)
+PMID: 37910839 | DOI: 10.11607/jomi.10651
+Abreu OJ, Estepa AV, Naqvi AR, Nares S, Narvekar A.
+"Assessment of Detoxification Strategies for Used Dental Implant Healing Abutments: Macroscopic and Biologic Implications."
+Int J Oral Maxillofac Implants. 2024;39(4):516-525. (e-pub 2024-08-29)
+
+== ABSTRACT (full) ==
+Purpose: Evaluate 4 decontamination strategies using enzymatic agents available in most clinical settings to determine (1) amount of biomaterial removable from previously used healing abutments (uHAs), and (2) degree to which decontaminated HAs induce an inflammatory response in vitro vs new HAs.
+
+Methods: 50 HAs collected after 2–4 weeks intraoral use, randomized into 5 groups (A–E; n=10 each). Control = 10 new sterile HAs.
+- Group A: enzymatic cleaner foam + autoclave.
+- Group B: ultrasonic bath with enzymatic cleaner + autoclave.
+- Group C: prophy jet + enzymatic cleaner foam + autoclave.
+- Group D: prophy jet + ultrasonic bath with enzymatic cleaner + autoclave.
+- Group E: prophy jet + autoclave.
+Residual protein by Micro BCA protein assay; HAs stained with Phloxine B and macroscopically examined for debris. Inflammatory potential: human primary macrophages exposed to HAs; supernatant levels of 9 cytokine/chemokine profiles via multiplex bead assay.
+
+Results:
+- All test groups differed in visual decontamination vs controls.
+- Groups D and E = most effective surface debris removal + reduced protein concentration; Group A = least effective.
+- HOWEVER: compared to controls, ALL test groups showed HIGH levels of inflammatory cytokine secretion (multiplex) for up to 5 days.
+
+Conclusions:
+- Decontamination of uHAs using enzymatic cleaners FAILED to reestablish inert HA surfaces and prevent an inflammatory immune response in vitro.
+- CLINICIANS SHOULD NOT REUSE HAs even after attempts to decontaminate and sterilize HA surfaces.
+
+Study type: In vitro (macrophage inflammatory response). Strongest anti-reuse recommendation in the set.
+MeSH: Decontamination, Dental Abutments, Dental Implants, Cytokines, Sterilization, Macrophages.

@@ -13,11 +13,21 @@ source_collection: external
 
 성인 치수진단 정량근거(Patro·Donnermeyer)를 소아·미성숙영구치로 확장. 소아에서 sensibility test가 권고에서 빠지고 vitality test로 이동하는 흐름을 정리해, 생활치수요법 적응증 판단의 연령별 차이를 보강한다. 신설 endodontics/diagnosis 카테고리의 소아 축, [[endodontics/diagnosis/patro-2022-diagnostic-accuracy-of-pulp-vitality]]와 연결.
 
-## One-line Summary
+## Three-line Summary
+
 Narrative review guiding pulp-test selection in pediatric dentistry, arguing sensibility tests are no longer recommended by pediatric specialists (subjectivity/cooperation) and vitality tests are preferred for primary and immature permanent teeth.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 소아 치수검사 선택을 안내하는 narrative review — sensibility test는 주관성·협조문제로 소아 전문가 권고에서 빠지고, 유치·미성숙영구치에는 vitality test가 선호됨.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - Medicina (Kaunas) 2022;58(5):665. Review. DOI 10.3390/medicina58050665.

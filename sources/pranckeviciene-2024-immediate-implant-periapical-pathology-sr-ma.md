@@ -10,8 +10,21 @@ pdf_filename: pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma.p
 source_collection: external
 ---
 
-## One-line Summary
-SR+MA: 발치와에 periapical 병변 있는 부위 즉시식립 vs 없는 부위 즉시식립 — 장기 임상 결과 비교; 적절한 debridement·항생제 동반 시 감염치 IIP가 비감염치와 동등 가능성 시사.
+## Three-line Summary
+
+SR+MA: 발치와에 periapical 병변 있는 부위 즉시식립 vs
+
+없는 부위 즉시식립 — 장기 임상 결과 비교;
+
+적절한 debridement·항생제 동반 시 감염치 IIP가 비감염치와 동등 가능성 시사.
+
+## 세줄요약
+
+SR+MA: 발치와에 periapical 병변 있는 부위 즉시식립 vs
+
+없는 부위 즉시식립 — 장기 임상 결과 비교;
+
+적절한 debridement·항생제 동반 시 감염치 IIP가 비감염치와 동등 가능성 시사.
 
 ## 1. Document Information
 - **Title**: Comparison of Immediate Implantation into the Socket with and without Periapical Pathology: Systematic Review and Meta-Analysis
@@ -35,7 +48,7 @@ PRISMA. PubMed/Cochrane/Embase etc. Risk of bias assessed. Random-effects meta-a
 만성 치근단 병변이라도 atraumatic 발치 + curettage + 항생제 prophylaxis 동반 시 즉시식립 적응증 가능. 단, acute 감염·purulent exudate·sinus 천공은 금기. 본 SR이 'periapical pathology = 절대 금기'라는 통념을 완화.
 
 ## 6. Related Work
-- [[immediate-implant/colak-2023-immediate-implant-periapical-pathology-retrospective]] — 감염치 IIP retrospective
+- [[immediate-implant/infected-socket/colak-2023-immediate-implant-periapical-pathology-retrospective]] — 감염치 IIP retrospective
 - [[immediate-implant/esthetic-soft-tissue/hamilton-2023-type1a-immediate-implant-immediate-loading-esthetic-sr-ma]] — endodontic infection이 selection criteria에 미치는 영향
 
 ## 7. Limitations and Future Work

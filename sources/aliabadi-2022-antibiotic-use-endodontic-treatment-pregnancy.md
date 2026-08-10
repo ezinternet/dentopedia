@@ -13,9 +13,21 @@ source_collection: external
 
 임신 중 치과 약물 안전성 리서치 클러스터의 근관치료 축. >43% 임산부가 치성 감염·통증을 겪는데 항생제·진통제·국소마취 처방 안전성 근거가 흩어져 있다. [[drug/zhou-2023-pregnancy-physiology-oral-local-anesthesia-review]]의 국소마취 안전성과 짝을 이루고, [[overviews/drug-antibiotic-stewardship-overview]]의 처방 원칙을 임신 맥락으로 확장.
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review (Zahedan Univ, Iran): odontogenic infection/pain affects >43% of pregnant women; endodontic treatment with appropriate antibiotics/analgesics/local anesthesia is safe and should not be delayed — first-line antibiotics amoxicillin/penicillin/cephalexin (erythromycin or clindamycin if penicillin-allergic), acetaminophen first-line analgesic, 2nd trimester safest for elective care.
+Narrative review (Zahedan University, Iran) consolidating pregnancy-specific guidance on antibiotics, analgesics, local anesthesia, and intracanal medications for endodontic treatment across trimesters, noting that >43% of pregnant women experience odontogenic infection or pain.
+
+First-line antibiotics are amoxicillin/penicillin/cephalexin (erythromycin or clindamycin if penicillin-allergic); acetaminophen is the first-line analgesic; lidocaine with epinephrine 1:100,000 is safe with aspiration; the 2nd trimester is safest for elective care with emergency treatment appropriate at any trimester.
+
+Endodontic treatment with appropriate medications should not be delayed during pregnancy; the stress and infection of untreated dental disease poses greater fetal risk than properly used dental drugs — but this narrative review lacks systematic search or risk-of-bias assessment.
+
+## 세줄요약
+
+서사적 문헌고찰(이란 자헤단대): 임산부의 >43%가 치성 감염·통증을 경험하며, 임신 중 근관치료 시 항생제·진통제·국소마취제·근관내 약제 사용 지침을 삼분기별로 종합.
+
+1차 항생제 아목시실린/페니실린/세팔렉신(페니실린 과민 시 에리트로마이신·클린다마이신); 1차 진통제 아세트아미노펜; 에피네프린 1:100,000 리도카인은 흡인 후 안전; 선택적 치료 최적기는 2삼분기.
+
+치과 치료를 임신 중 미루는 것은 치료보다 위험 — 적절한 약제 사용으로 근관치료를 지연 없이 시행해야 하나, 본 리뷰는 체계적 검색·비뚤림 위험 평가 없는 서사적 검토로 근거 강도가 낮다.
 
 ## 1. Document Information
 

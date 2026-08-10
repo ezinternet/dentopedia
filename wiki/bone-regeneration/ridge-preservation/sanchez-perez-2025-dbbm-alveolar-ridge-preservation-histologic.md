@@ -6,18 +6,28 @@ date: 2025-05-31
 doi: 10.3390/biomedicines13061358
 source: sanchez-perez-2025-dbbm-alveolar-ridge-preservation-histologic.md
 category: [bone-regeneration/ridge-preservation]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/sanchez-perez-2025-dbbm-alveolar-ridge-preservation-histologic.pdf
 pdf_filename: sanchez-perez-2025-dbbm-alveolar-ridge-preservation-histologic.pdf
 source_collection: external
 tags: []
 ---
 
-## One-line Summary
-Human split-mouth RCT (Murcia): DBBM (techBiomat bone®) alveolar ridge preservation achieved CBCT bone-fill >75% in 87% of test sites vs 7% of natural-healing controls, with new bone 42% vs 25% and residual graft <9% at 6 months.
+## Three-line Summary
 
-## 한줄요약
-인체 split-mouth RCT (Murcia 대학): techBiomat bone® 탈단백 우골(DBBM) 치조제 보존술 결과 — 콘빔CT(CBCT) 골충전 >75%가 시험군 87% vs 대조군 7%; 신생골 42% vs 25%; 6개월 시점 잔존 이식재 <9%.
+Human split-mouth RCT (Murcia University, ASA I/II adults, bilateral extractions) comparing techBiomat bone® DBBM socket preservation with coronally advanced flap versus natural healing, assessed by CBCT and histomorphometry at 6 months.
+
+CBCT bone-fill Grade I (>75%) was achieved in 87% of test sites vs 7% of controls; new bone was 42% vs 25%; residual graft was <9% at 6 months with no adverse events.
+
+Rapid graft resorption (<9% residual) with high new bone formation supports techBiomat as an effective ARP material, and the CBCT 4-grade scoring system provides a useful clinical assessment framework.
+
+## 세줄요약
+
+인체 split-mouth 무작위대조시험 (Murcia 대학, ASA I/II, 양측 발치 예정): techBiomat bone® 탈단백우골 (Deproteinized Bovine Bone Mineral, DBBM) 발치와 보존 + 관상변위피판 (coronally advanced flap) vs 자연 치유, 6개월 시점 콘빔전산화단층촬영 (Cone-Beam Computed Tomography, CBCT) + 조직형태계측 평가.
+
+CBCT 골충전 등급 I (>75%)은 시험군 87% vs 대조군 7%; 신생골 42% vs 25%; 잔존 이식재 <9% — 합병증 무.
+
+6개월 시점 잔존 이식재 <9%라는 빠른 흡수 + 높은 신생골 비율은 techBiomat의 효과적인 골치환을 시사하며, CBCT 4단계 골충전 평가틀은 임상 적용 가능성이 높다.
 
 ## Summary
 Sánchez-Pérez 등(2025)은 양측 발치가 필요한 ASA I/II 환자에서 split-mouth 무작위 배정으로 한쪽 발치와에는 techBiomat bone®(DBBM) 단독 충전(시험), 반대쪽은 자연치유(대조)로 설정했다. 양 군 모두 coronally advanced flap으로 1차 폐쇄. 6개월 시점 CBCT + 임플란트 식립 시 2 mm trephine bone core 조직형태계측 결과, 방사선·조직 양 차원에서 DBBM 보존의 명확한 우위가 나타났고 잔존 이식재는 6개월에 9% 미만으로 흡수돼 골 대체가 거의 완료된 양상을 보였다.

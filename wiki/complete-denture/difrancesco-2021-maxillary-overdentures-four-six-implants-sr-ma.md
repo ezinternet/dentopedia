@@ -6,18 +6,28 @@ date: 2021-05-12
 doi: 10.1186/s12903-021-01572-6
 source: difrancesco-2021-maxillary-overdentures-four-six-implants-sr-ma.md
 category: [complete-denture]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/difrancesco-2021-maxillary-overdentures-four-six-implants-sr-ma.pdf
 pdf_filename: difrancesco-2021-maxillary-overdentures-four-six-implants-sr-ma.pdf
 source_collection: external
 tags: [overdenture, maxillary, splinted-bar, implant-number, satisfaction, survival]
 ---
 
-## One-line Summary
-SR+MA (15 comparative studies, 1–10 yr follow-up): for splinted bar-supported maxillary overdentures, four versus six implants show no significant difference in implant survival (p=0.34), overdenture survival (p=0.74), prosthodontic complications, or patient satisfaction across both random-effects and Fisher's-test analyses — four splinted implants are a viable, more conservative choice.
+## Three-line Summary
 
-## 한줄요약
-SR+MA(15편, 1–10년 추적): 상악 오버덴쳐를 **4개 vs 6개 스플린트 임플란트**로 지지할 때 임플란트·보철 생존율, 보철 합병증, 환자만족도 모두 유의차 없음 — 4개 스플린트가 보수적·합리적 선택.
+PRISMA SR+MA (15 comparative studies, 1–10 year follow-up, screened from 1865 articles) evaluated whether four or six splinted implants better support bar-retained maxillary overdentures in fully edentulous patients.
+
+Four vs six splinted implants showed no significant difference in implant survival (p=0.34), overdenture survival (p=0.74), prosthodontic complications, or patient satisfaction — consistent across both random-effects meta-analysis and Fisher's test.
+
+Bar-supported maxillary overdentures on four splinted implants are a viable, more conservative choice; a fifth or sixth implant does not add measurable patient benefit and can be reserved for cases with long cantilevers or severe atrophy.
+
+## 세줄요약
+
+PRISMA SR+MA(비교 15편, 1–10년 추적, 1865편 검색)로 완전 무치악 환자의 상악 바 지지 피개의치를 4개 vs 6개 스플린트 임플란트로 지지할 때의 결과를 비교하였다.
+
+임플란트 생존율(p=0.34), 보철물 생존율(p=0.74), 보철 합병증, 환자만족도 모두 4개와 6개 사이에 유의한 차이가 없었으며 두 가지 통계 모델에서 일관되었다.
+
+4개 스플린트 임플란트를 이용한 상악 바지지 피개의치는 실현가능하고 보수적인 선택이며, 5~6번째 임플란트 추가는 환자에게 측정 가능한 추가 이익을 제공하지 않는다.
 
 ## Summary
 Maxillary overdentures (OD) are more demanding than mandibular OD: bone quality is lower, ridge resorption greater, and biomechanical load distribution harder. A common clinical question is whether **six implants** are necessary or whether **four splinted implants** are sufficient. This 2021 PRISMA systematic review and meta-analysis from BMC Oral Health screened 1865 articles, retained 15 comparative studies (1–10 yr follow-up, ≥10 patients), and applied both random-effects meta-analysis and non-parametric Fisher's tests for robustness.

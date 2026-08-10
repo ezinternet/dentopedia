@@ -6,7 +6,7 @@ date: 2022-03-30
 doi: 10.1155/2022/9411076
 source: aung-2022-three-rooted-mandibular-first-molars-prevalence-ma.md
 category: endodontics/anatomy
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "35386547"
@@ -20,13 +20,21 @@ relations:
     target: shekarian-2023-cshaped-canals-three-rooted-mandibular-iranian
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 72 in-vivo CBCT studies (31 countries, 26,302 patients / 37,994 mandibular first molars): a third root (Radix Entomolaris) occurs in 8.85% of teeth and 10.3% of patients globally, with a steep East-Asia/Mongoloid → West gradient (East Asia 24% → Europe 2% → Africa 0.9%), ~46% bilateral symmetry, right-side dominance, and no sex difference.
+SR+MA of 72 in-vivo CBCT studies (31 countries, 26,302 patients / 37,994 mandibular first molars) — the largest prevalence meta-analysis of three-rooted permanent mandibular first molars.
 
-## 한줄요약
+Radix Entomolaris (RE) occurs in 8.85% of teeth and 10.3% of patients globally; ~46% bilateral symmetry, right-side dominance, no sex difference; steep East Asia (24%) → Europe (2%) → Africa (0.9%) gradient.
 
-72편 in-vivo CBCT 연구(31개국, 환자 26,302명·치아 37,994개) 메타분석 — 하악 제1대구치 3근(원심설측근, Radix Entomolaris, RE)이 치아의 8.85%·환자의 10.3%에서 발견. 동아시아(24%)→유럽(2%)→아프리카(0.9%) 인종 그라디언트, 양측대칭 약 46%, 우측 우세, 성차 없음.
+In East-Asian / Mongoloid patients, ~1 in 4 mandibular first molars carries an extra distolingual root — actively search, modify access (trapezoidal, DL orifice ~3 mm lingual), screen the contralateral tooth.
+
+## 세줄요약
+
+31개국 in-vivo CBCT 72편 SR+MA (환자 26,302명·치아 37,994개) — 3근 하악 제1대구치 (Radix Entomolaris, RE) 최대 규모 유병률 메타분석.
+
+RE: 치아의 8.85%·환자의 10.3%에서 발견; 양측대칭 (bilateral symmetry) 약 46%, 우측 우세, 성차 없음; 동아시아 (24%)→유럽 (2%)→아프리카 (0.9%) 인종 그라디언트.
+
+동아시아/몽골로이드 환자에서 하악 제1대구치 약 4개 중 1개 RE 보유 — 원심설측 근관 적극 탐색·사다리꼴 접근와동(DL 개구부 ~3 mm 설측)·대측 치아 확인 필수.
 
 ## Summary
 

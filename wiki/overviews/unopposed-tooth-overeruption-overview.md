@@ -6,7 +6,7 @@ date: 2026-06-25
 doi: N/A
 source: N/A
 category: overviews
-confidence: synthesis
+evidence_level: synthesis
 pdf_path: N/A
 pdf_filename: N/A
 source_collection: synthesis
@@ -14,25 +14,23 @@ tags: [overeruption, supraeruption, unopposed-tooth, antagonist, occlusion, toot
 relations:
   - type: extends
     target: wang-2022-unopposed-molar-overeruption-implant-cbct
-  - type: reinforces
+  - type: refines
     target: livas-2016-fixed-retention-unopposed-molar-overeruption
-  - type: reinforces
+  - type: refines
     target: craddock-2004-incidence-overeruption-occlusal-interferences-unopposed
-  - type: reinforces
+  - type: applies-to
     target: kiliaridis-2000-vertical-position-rotation-tipping-molars
-  - type: reinforces
+  - type: refines
     target: christou-2007-three-dimensional-changes-unopposed-molars-adults
-  - type: reinforces
+  - type: refines
     target: lindskog-stokland-2012-changes-molar-position-missing-opposed
-  - type: reinforces
+  - type: refines
     target: craddock-2007-overeruption-posterior-teeth-partial-occlusal
-  - type: reinforces
-    target: craddock-2006-deviation-broadrick-occlusal-curve-posterior
-  - type: reinforces
+  - type: applies-to
     target: faggion-2011-evidence-restore-posterior-bounded-edentulous-grade
-  - type: reinforces
+  - type: extends
     target: fujita-2009-supraposition-unopposed-molars-young-adult-rats
-  - type: reinforces
+  - type: extends
     target: fujita-2010-overeruption-periodontally-affected-unopposed-rats
 ---
 
@@ -52,13 +50,21 @@ relations:
 > - 흔한 오판: "엔도한 치아라 더/덜 정출한다"(근거 없음·기전상 무관), "크라운 씌우면 정출 안 한다"(전체 치아가 이동), "대합치 없으면 무조건 빨리 보철"(저위험치는 과한 개입), "정출은 수직만"(경사·회전 동반).
 > - 본 페이지는 [[occlusion/wang-2022-unopposed-molar-overeruption-implant-cbct]](정출이 일어난다)와 [[occlusion/livas-2016-fixed-retention-unopposed-molar-overeruption]](막으려는 개입은 효과 약함) 2편을 축으로, 임플란트 교합 종합([[overviews/implant-occlusion-loading-biomechanics-overview]])과 상보적인 "자연치 측" 렌즈다.
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis of the unopposed-tooth overeruption cluster: unopposed posterior teeth over-erupt in ~83% of cases (mean ~0.43 mm over ~9 months, mostly < 1 mm, fastest early, as a 3D vertical+tipping+rotation movement), but ~18% never move; the process is PDL/alveolar-bone–driven and therefore independent of pulp vitality (no evidence endo-treated vs vital teeth differ); fixed retention is no better than partial occlusal contact at preventing it, so monitoring is a defensible default for low-risk teeth while younger age, maxillary location, full lack of antagonist, periodontitis, and the early post-extraction window mark the high-risk profile.
+Synthesis of 11 papers: unopposed posterior teeth over-erupt in ~83% of cases (mean 0.43 mm / max 0.75 mm over ~9 months, ~72% < 1 mm, fastest early, as a 3D vertical + buccal-tipping + rotation movement; ~18% never move); the process is PDL/alveolar-bone–driven and therefore independent of pulp vitality, with no evidence that endo-treated teeth erupt differently from vital teeth.
 
-## 한줄요약
+Fixed retention is no better than partial occlusal contact at preventing over-eruption (both ~0.1 mm; Livas 2016), so monitoring is a defensible default for low-risk teeth; risk is amplified 4.9× for ≥2 mm eruption over 12 years by younger age, maxillary location, full absence of antagonist, periodontitis, and the early post-extraction window.
 
-대합치 없는 치아 정출 종합: 후방 치아의 ~83%가 정출(약 9개월에 평균 0.43 mm, 대부분 1 mm 미만, 초기 최대, 수직+경사+회전의 3D 움직임)하나 ~18%는 전혀 안 움직임; 정출은 PDL·치조골 매개라 치수 생활력과 무관(엔도치 vs 생활치 차이 근거 없음); 고정 retention도 부분접촉 대비 효과 없어 저위험치는 모니터링이 방어 가능한 기본값이며, 젊은 나이·상악·완전무대합·치주염·발치 직후가 고위험 프로파일이다.
+Clinical ladder: risk-stratify before reflexive restoration; include space management in 9–12-month implant treatment plans; endo status is not a deciding variable — the process is periodontally rather than pulpally driven.
+
+## 세줄요약
+
+11편 종합: 대합치 없는 후방 치아의 ~83%가 정출(~9개월 평균 0.43 mm / 최대 0.75 mm, ~72%는 1 mm 미만, 초기 최대 속도, 수직+협측경사+회전의 3D 운동); ~18%는 전혀 안 움직임; 정출은 PDL·치조골 매개라 치수 생활력 무관 — 엔도치 vs 생활치 차이 근거 없음.
+
+고정 retention도 부분접촉 대비 효과 없어(둘 다 ~0.1 mm; Livas 2016) 저위험치는 모니터링이 방어 가능한 기본값; 젊은 나이·상악·완전무대합·치주염·발치 직후가 12년 ≥2 mm 위험을 4.9배 높이는 고위험 프로파일.
+
+임상 ladder: 반사적 보철 전 위험 계층화; 임플란트 치료 기간(9–12개월) 공간 관리 포함; 엔도치 여부는 결정 변수 아님 — 치주 소견 기반으로 결정.
 
 ## Synthesis
 

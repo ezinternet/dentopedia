@@ -13,13 +13,21 @@ source_collection: external
 
 ISQ 임계값(≥65 favorable, <45 poor)이 어느 1차 문헌에서 비롯됐는지 추적하기 위해 인제스트. 이 2013 narrative review는 그 ISQ 컷오프를 명시한 초기 출처 중 하나이며, [[implants/isq/huang-2020-isq-clinical-significance-literature-review]]가 정리한 ISQ 임상 해석을 시간적으로 보강하고, [[overviews/implants-isq-stability-ladder]]의 "primary→secondary stability ladder" 서사에 bone/design/surgical-technique 결정 인자를 공급한다. PT vs RFA 평가법 비교의 원천 문헌으로도 활용. 또한 [[implants/versah-protocols/rittipakorn-2025-clockwise-osseodensification-primary-stability-cadaveric]] cadaveric 연구의 foundational reference로, 1차 안정성이 *왜* 중요한지(골유착 전제)와 *어떻게* 측정되는지(insertion torque, ISQ/RFA)를 정의한다.
 
-## One-line Summary
+## Three-line Summary
 
-Narrative literature review (MEDLINE 1983–Oct 2013) arguing that secure primary (mechanical) stability is a prerequisite for osseointegration, and that bone quality/quantity, implant geometry, and surgical technique are the three predominant factors; cites ISQ >65 as favorable and <45 as poor, and micromotion >50–100 µm as a threshold that jeopardizes integration.
+Narrative literature review (MEDLINE 1983–Oct 2013, English-language human and experimental studies) synthesizing evidence on the prerequisites and determinants of primary implant stability and its relationship to osseointegration success.
 
-## 한줄요약
+Primary (mechanical) stability is a prerequisite for secondary (biological) stability and osseointegration; bone quality/quantity, implant geometry, and surgical technique are the three predominant determinants; ISQ >65 is favorable and <45 is poor; micromotion exceeding 50–100 µm jeopardizes osseointegration by inducing fibrous tissue and bone resorption.
 
-내러티브 종설(MEDLINE 1983–2013): 1차(기계적) 안정성은 골유착의 전제 조건이며, 이를 좌우하는 핵심 3인자는 골질·골량 (Bone quality/quantity), 임플란트 형태 (Implant geometry), 술식 (Surgical technique)이다. ISQ >65 양호·<45 불량, 미세동요 (Micromotion) 50–100 µm 초과 시 골유착 저해.
+As a non-systematic narrative review, this paper lacks PRISMA reporting, risk-of-bias assessment, and quantitative pooling — the thresholds cited (ISQ 65/45; insertion torque 32–40 Ncm) come from heterogeneous primary studies, so clinicians should treat them as consensus benchmarks rather than meta-analytic certainties.
+
+## 세줄요약
+
+내러티브 종설(MEDLINE 1983–2013, 영어 인체·실험 연구): 임플란트 1차 안정성(Primary stability)의 결정 인자와 골유착(Osseointegration)과의 관계를 종합.
+
+1차(기계적) 안정성은 2차(생물학적) 안정성·골유착의 전제이며, 핵심 3인자는 골질·골량(Bone quality/quantity), 임플란트 형태(Implant geometry), 술식(Surgical technique); ISQ >65 양호·<45 불량, 미세동요(Micromotion) 50–100 µm 초과 시 섬유조직 형성·골흡수로 골유착 저해.
+
+체계적 문헌 검색·비뚤림 평가·정량적 종합이 없는 서술적 검토이므로, ISQ 65/45 컷오프·삽입토크 32–40 Ncm 임계값은 이질적 1차 연구를 기반으로 한 합의 수준임을 감안해 임상에 적용해야 한다.
 
 ## 1. Document Information
 

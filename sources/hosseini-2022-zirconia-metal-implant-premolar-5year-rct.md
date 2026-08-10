@@ -9,8 +9,21 @@ pdf_filename: hosseini-2022-zirconia-metal-implant-premolar-5year-rct.pdf
 source_collection: external
 ---
 
-## One-line Summary
-소구치부 임플란트 지지 단관: 지르코니아 어버트먼트+지르코니아 크라운 vs 금속 어버트먼트+세라믹 크라운 5년 RCT.
+## Three-line Summary
+
+소구치부 임플란트 지지 단관:
+
+지르코니아 어버트먼트+지르코니아 크라운 vs
+
+금속 어버트먼트+세라믹 크라운 5년 RCT.
+
+## 세줄요약
+
+소구치부 임플란트 지지 단관:
+
+지르코니아 어버트먼트+지르코니아 크라운 vs
+
+금속 어버트먼트+세라믹 크라운 5년 RCT.
 
 ## 1. Document Information
 - **Title**: A 5-year randomized controlled trial comparing zirconia-based versus metal-based implant-supported single-tooth restorations in the premolar region

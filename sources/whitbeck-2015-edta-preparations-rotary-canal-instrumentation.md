@@ -13,11 +13,21 @@ source_collection: external
 
 [[endodontics/shaping/kim-2021-protaper-waveone-trunatomy-canal-transportation]]의 canal transportation 주제에 chelating lubricant 변수를 추가. EDTA 17% 용액 vs RC-Prep paste가 rotary NiTi 기구조작의 transportation·canal volume에 미치는 영향을 micro-CT로 평가.
 
-## One-line Summary
+## Three-line Summary
+
 In vitro micro-CT study comparing saline, 17% EDTA solution, and RC-Prep during rotary NiTi instrumentation — EDTA 17% did not increase transportation vs saline, RC-Prep produced significantly less transportation, and EDTA increased canal volume most.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 In vitro micro-CT: rotary NiTi 기구조작 시 식염수·17% EDTA 용액·RC-Prep 비교 — EDTA는 식염수 대비 transportation 증가 없음, RC-Prep는 유의하게 적은 transportation, EDTA는 canal volume 최대 증가.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - Journal of Endodontics 2015;41(1):92–96. (DOI not recovered from PDF.)

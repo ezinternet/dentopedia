@@ -12,11 +12,21 @@ source_collection: external
 ## Why Ingested
 Introduces 'service recovery' -- the active management practice of salvaging a dissatisfied patient's experience -- and shows it depends on measurement, feedback, and leadership training. Bridges the response axis to the education axis ([[complaint-management/10.1177_23743735251342611]]).
 
-## One-line Summary
+## Three-line Summary
+
 Mixed-methods project brief on radiation-oncology frontline managers, finding service recovery requires consistent measurement, feedback, and recurring leadership training.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 방사선종양학 일선 관리자 대상 혼합방법 프로젝트 — 서비스 리커버리에는 일관된 측정·피드백·반복 리더십 교육이 필요함을 확인.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - Journal of Patient Experience 2020;7(6):889-895.

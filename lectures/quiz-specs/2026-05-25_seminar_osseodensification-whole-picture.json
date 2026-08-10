@@ -1,0 +1,40 @@
+{
+  "deck": "2026-05-25_seminar_osseodensification-whole-picture",
+  "date": "2026-05-25",
+  "title": "골밀도화(OD) 자가테스트",
+  "emoji": "🌀",
+  "agenda": "agenda/2026-05-25_osseodensification-whole-picture.md",
+  "source_wiki": [
+    "wiki/overviews/osseodensification-clinical-applications.md",
+    "wiki/implants/fontes-pereira-2023-osseodensification-osteotomy-alternative-sr.md",
+    "wiki/implants/huwais-2016-osseous-densification-novel-osteotomy-approach.md",
+    "wiki/sinus-lift/transcrestal/starch-jensen-2025-transcrestal-sinus-osseodensification-meta-analysis.md"
+  ],
+  "questions": [
+    { "q": "Densah bur의 회전 방향과 그 이유는?",
+      "opts": ["시계방향(CW) — 골 절삭 극대화", "반시계방향(CCW) — burnishing/compacting", "방향 무관 — rpm이 핵심", "CW→CCW 교대"],
+      "ans": 1,
+      "rat": "OD는 CCW 회전으로 골을 깎지 않고 다지며(compacting), 골의 점탄성 spring-back으로 osteotomy 직경을 줄여 fit을 높인다.",
+      "cite": "implants/huwais-2016-osseous-densification-novel-osteotomy-approach" },
+    { "q": "Fontes Pereira 2023 SR spine에서 OD의 차별점으로 명시된 outcome은?",
+      "opts": ["ISQ가 주 효과, IT는 부수효과", "Insertion Torque·BIC가 주 효과, ISQ는 부수효과", "Survival만 유의하게 개선", "MBL 개선이 가장 확실"],
+      "ans": 1,
+      "rat": "Outcome Matrix: IT↑↑·BIC(in vitro)×3가 근거강함, ISQ는 합의수준의 부수효과. MBL 장기 데이터는 미검증.",
+      "cite": "implants/fontes-pereira-2023-osseodensification-osteotomy-alternative-sr" },
+    { "q": "OD의 근거가 가장 명확한(greatest benefit) 임상 시나리오는?",
+      "opts": ["Narrow ridge 단독", "Immediate implant 단독", "저밀도골(D3–D4)·sub-antral", "심미부위 buccal plate <1mm"],
+      "ans": 2,
+      "rat": "Fontes Pereira 2023이 D3–D4 저밀도골 시나리오를 'greatest OD benefit'으로 명시; sub-antral도 Starch-Jensen 2025 SR+MA로 근거강함.",
+      "cite": "sinus-lift/transcrestal/starch-jensen-2025-transcrestal-sinus-osseodensification-meta-analysis" },
+    { "q": "narrow ridge·immediate implant 시나리오에서 OD 근거 수준은?",
+      "opts": ["RCT 다수로 근거강함", "단독 SR 부재 — Fontes Pereira 2023 SR included 수준(합의수준)", "금기(사용 불가)", "sub-antral보다 근거가 강함"],
+      "ans": 1,
+      "rat": "narrow ridge·immediate 모두 단독 SR이 없고 spine SR에 included된 수준 — 근거가 sub-antral·D3-D4보다 약함.",
+      "cite": "implants/fontes-pereira-2023-osseodensification-osteotomy-alternative-sr" },
+    { "q": "OD 시술 시 주의해야 할 위험은?",
+      "opts": ["IT 상승은 항상 ISQ 상승과 같은 의미다", "D1/D2 cortical-dominant ridge에서 골절 위험", "buccal plate가 두꺼울수록 위험 증가", "OD는 즉시부하를 항상 보장한다"],
+      "ans": 1,
+      "rat": "D1/D2처럼 cortical bone이 우세한 ridge에서는 OD lateral compaction이 골절·thin buccal plate 손상 위험을 높인다. IT↑≠ISQ↑ 이므로 즉시부하는 둘 다 평가해야 한다.",
+      "cite": "implants/fontes-pereira-2023-osseodensification-osteotomy-alternative-sr" }
+  ]
+}

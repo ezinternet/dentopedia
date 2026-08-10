@@ -13,13 +13,21 @@ source_collection: external
 
 [[wiki/inlay/behera-2021-lithium-disilicate-vs-zirconia-inlays-1year]]는 1년 임상에서 지르코니아 인레이의 변연 적합성(marginal fit)을 다뤘지만, 어떤 레진 시멘트와 어떤 지르코니아 세대(3Y vs 4Y/5Y)가 적합성에 영향을 주는지, 그리고 thermomechanical aging이 변연 간격을 얼마나 악화시키는지는 미해결 과제였다. 본 in-vitro 연구(Al Fodeh 2026)는 64개 발거 소구치 표본에서 지르코니아 재료 × 레진 시멘트 × 노화의 3-way 설계로 이 격차를 직접 메운다. 또한 [[wiki/inlay/bomicke-2025-3ytzp-inlay-enamel-wear-5year]]의 3Y-TZP 인레이 임상 데이터를 bench-level 적합성 근거로 보강한다.
 
-## One-line Summary
+## Three-line Summary
 
-In-vitro study (n=64 extracted premolars, MOD zirconia inlays): both 3Y and 4Y/5Y monolithic zirconia achieved clinically acceptable marginal fit (50-120 μm); RelyX Unicem outperformed Panavia F 2.0 on marginal gap, and 1.2M-cycle thermomechanical aging significantly widened marginal gaps, while internal fit (111.95-163.16 μm) was unaffected by material, cement, or aging.
+In-vitro 3-way factorial study (n=64 extracted premolars; 2 zirconia types, 2 resin cements, with/without 1.2M-cycle thermomechanical aging) assessing marginal and internal fit of MOD monolithic zirconia inlays.
 
-## 한줄요약
+Zirconia type did not significantly affect marginal fit; RelyX Unicem produced smaller marginal gaps than Panavia F 2.0 (occlusal p=0.031, proximal p=0.006); thermomechanical aging significantly widened marginal gaps (pre 57.4 μm vs post 74.3 μm occlusal, p<0.001), with a Cement×Aging interaction (Panavia +37.9% vs RelyX +20.8%); internal fit was unaffected by all factors.
 
-In-vitro 연구 (발거 소구치 64개, MOD 지르코니아 인레이): 3Y와 4Y/5Y 단일구조 지르코니아 모두 임상적으로 허용 가능한 변연 적합도(50-120 μm)를 달성했고, RelyX Unicem이 Panavia F 2.0보다 변연 간격이 작았으며, 120만 회 열기계적 노화는 변연 간격을 유의하게 넓혔으나 내면 적합도(111.95-163.16 μm)는 재료·시멘트·노화에 영향받지 않았다.
+For clinically delayed cementation of zirconia inlays, RelyX Unicem is preferred over Panavia F 2.0 for long-term marginal fit durability; both 3Y and 4Y/5Y zirconia generations are clinically acceptable.
+
+## 세줄요약
+
+체외 3방향 요인 연구 (발거 소구치 64개; 지르코니아 2종, 레진시멘트 2종, 열기계적 노화 유/무) — MOD 단일구조 지르코니아 인레이의 변연·내면 적합도 평가.
+
+지르코니아 재료는 변연 적합도에 유의차 없음; RelyX Unicem이 Panavia F 2.0보다 변연 간격 작음(교합면 p=0.031, 인접면 p=0.006); 열기계적 노화 후 변연 간격 유의하게 확대(57.4→74.3 μm, p<0.001), 시멘트×노화 교호작용(Panavia +37.9% vs RelyX +20.8%); 내면 적합도는 모든 요인에 영향받지 않음.
+
+지르코니아 인레이 지연 접착 시 장기 변연 적합도 내구성을 위해 RelyX Unicem이 Panavia F 2.0보다 권장되며, 3Y와 4Y/5Y 지르코니아 모두 임상적으로 수용 가능.
 
 ## 1. Document Information
 

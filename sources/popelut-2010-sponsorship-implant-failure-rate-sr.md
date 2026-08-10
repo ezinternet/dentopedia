@@ -13,13 +13,21 @@ source_collection: external
 
 임플란트 생존율 데이터의 신뢰성을 평가하는 맥락에서, 연구 후원자(industry vs. non-industry)가 결과 보고에 영향을 미치는지 검토하기 위해 수집. 기존 [[wiki/implants/benic-2014-loading-protocols-single-implant-crowns-sr-ma]] 같은 SR/MA가 인용하는 임플란트 생존율 수치가 어느 정도 출판 편향에 노출되어 있는지 파악하는 근거로 활용.
 
-## One-line Summary
+## Three-line Summary
 
 Systematic review of 41 implant trials (5 SRs, 1993–2008): industry-sponsored trials reported ~5× lower annual failure rates (OR 0.21) than non-industry-sponsored trials after controlling for publication age.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 체계적 고찰(41개 임상시험): 업계 후원 임플란트 연구는 비후원 연구 대비 연간 실패율이 약 5배 낮게 보고되어(OR 0.21), 후원 편향(sponsorship bias)이 임플란트 연구 결과에 유의한 영향을 미침.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

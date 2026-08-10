@@ -12,11 +12,21 @@ source_collection: external
 ## Why Ingested
 Provides the landmark mechanistic description of EPS-microcolony 3D architecture and pH microenvironments in cariogenic biofilms; directly extends [[oral-microbiology/bowen-2011-streptococcus-mutans-glucosyltransferases]] and is a primary reference for [[oral-microbiology/karygianni-2020-biofilm-matrixome-extracellular-components]].
 
-## One-line Summary
-Review of experimental evidence establishing the S. mutans-derived EPS matrix as the principal cariogenic biofilm virulence determinant: Gtf-mediated glucan forms a 3D scaffold creating compartmentalised pH microenvironments (pH 4.5–5.5) at the microcolony/enamel interface that resist neutralisation for >2 hours.
+## Three-line Summary
 
-## 한줄요약
-Review: S. mutans Gtf 유래 glucan EPS 기질이 3D 바이오필름 scaffold를 형성하고 microcolony/법랑질 계면에 pH 4.5–5.5의 산성 microenvironment를 >2시간 유지 — 우식 바이오필름 독성의 핵심 결정인자.
+Review of experimental evidence establishing the S.
+
+mutans-derived EPS matrix as the principal cariogenic biofilm virulence determinant: Gtf-mediated glucan forms a 3D scaffold creating compartmentalised pH microenvironments (pH 4.5–5.5) at the microcolony/enamel interface that resist neutralisation for >2 hours.
+
+(incomplete)
+
+## 세줄요약
+
+Review: S.
+
+mutans Gtf 유래 glucan EPS 기질이 3D 바이오필름 scaffold를 형성하고 microcolony/법랑질 계면에 pH 4.5–5.5의 산성 microenvironment를 >2시간 유지 — 우식 바이오필름 독성의 핵심 결정인자.
+
+(incomplete)
 
 ## 1. Document Information
 - Journal of Dental Research. 2013;92(12):1065–1073. Critical Reviews in Oral Biology & Medicine section. Published December 2013.

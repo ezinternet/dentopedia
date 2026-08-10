@@ -6,7 +6,7 @@ date: 2017-09-18
 doi: 10.4103/jispcd.JISPCD_261_17
 source: hamasni-2017-biologic-width-restorative-dentistry.md
 category: [periodontics]
-confidence: cross-sectional
+evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/hamasni-2017-biologic-width-restorative-dentistry.pdf
 pdf_filename: hamasni-2017-biologic-width-restorative-dentistry.pdf
 source_collection: external
@@ -16,13 +16,21 @@ relations:
     target: alam-2024-supracrestal-tissue-attachment-biologic-width
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Clinical study (42 patients, 504 sites/126 teeth, bone-sounding under anesthesia) finding mean clinical biologic width 1.13 mm (significantly less than Gargiulo's 2.04 mm histologic value) and mean sulcus depth 1.96 mm (significantly greater than 0.69 mm), arguing for site-specific rather than fixed-value margin planning.
+Cross-sectional clinical study (42 healthy adults, 126 teeth, 504 sites) measuring biologic width by bone-sounding under local anesthesia and comparing results to Gargiulo et al.'s classic histologic cadaver values.
 
-## 한줄요약
+Mean clinical biologic width was 1.13 mm (significantly less than Gargiulo's histologic 2.04 mm, p<0.05) and mean sulcus depth was 1.96 mm (significantly greater than 0.69 mm, p<0.05).
 
-임상연구(환자 42명, 126개 치아 504부위, 마취하 bone-sounding) — 평균 임상 biologic width 1.13 mm(Gargiulo 2.04 mm보다 유의하게 작음), sulcus depth 1.96 mm(0.69 mm보다 유의하게 큼)로 고정값이 아닌 site-specific 변연 계획을 권고.
+The Gargiulo histologic standard substantially overestimates clinical biologic width; site-specific bone-sounding should be used when planning restoration margins rather than applying a fixed 2 mm rule — though this pilot study is limited to a single center in Lebanon with a young healthy population.
+
+## 세줄요약
+
+횡단면 임상연구 (건강 성인 42명, 126개 치아, 504부위): 마취하 bone-sounding으로 생물학적 폭경을 직접 측정하고 Gargiulo 등의 고전적 조직학적 사체 값과 비교.
+
+평균 임상 생물학적 폭경 (Biologic Width, BW) 1.13 mm (Gargiulo 조직학적 값 2.04 mm보다 유의하게 작음, p<0.05); 평균 열구 깊이 (Sulcus Depth, SD) 1.96 mm (0.69 mm보다 유의하게 큼, p<0.05).
+
+Gargiulo 조직학적 기준은 임상 생물학적 폭경을 과대 추정; 수복물 변연 설계 시 고정 2 mm 규칙보다 site-specific bone-sounding이 필요 — 단 레바논 단일 기관·젊은 건강 집단 소규모 파일럿의 한계가 있다.
 
 ## Summary
 

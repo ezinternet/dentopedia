@@ -9,8 +9,21 @@ pdf_filename: schriber-2019-pneumatisation-maxillary-sinus-tooth-loss.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Retrospective CBCT volumetric study (50 dentate vs 50 edentulous posterior maxillae): no significant difference in sinus volume, surface area, or maximum diameter between dentate and edentulous sides; males had significantly larger sinuses than females; intra- and inter-observer agreement strong; analysis time <4 min per case — concludes that vertical bone loss after posterior tooth loss is primarily **alveolar crest resorption**, not ongoing **sinus pneumatisation**.
+## Three-line Summary
+
+Retrospective CBCT volumetric study (50 dentate vs 50 edentulous posterior maxillae): no significant difference in sinus volume, surface area, or maximum diameter between dentate and edentulous sides
+
+males had significantly larger sinuses than females
+
+intra- and inter-observer agreement strong; analysis time <4 min per case — concludes that vertical bone loss after posterior tooth loss is primarily **alveolar crest resorption**, not ongoing **sinus pneumatisation**.
+
+## 세줄요약
+
+Retrospective CBCT volumetric study (50 dentate vs 50 edentulous posterior maxillae): no significant difference in sinus volume, surface area, or maximum diameter between dentate and edentulous sides
+
+males had significantly larger sinuses than females
+
+intra- and inter-observer agreement strong; analysis time <4 min per case — concludes that vertical bone loss after posterior tooth loss is primarily **alveolar crest resorption**, not ongoing **sinus pneumatisation**.
 
 ## 1. Document Information
 - **Journal**: Clinical Oral Investigations 2019;23(3):1349–1358 (online first 2018-07-17)

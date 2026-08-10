@@ -13,13 +13,21 @@ source_collection: external
 
 Establishes the restoration–periodontium interface as a periodontics topic in its own right: margin placement (supra- vs subgingival), material choice (zirconia/CAD-CAM vs metal-ceramic), surface finish, and contour all modulate biofilm accumulation and gingival inflammation. Anchors the new fixed-prosthesis/periodontal-health cluster and is reinforced by the cross-sectional clinical data in [[periodontics/lamichhane-2025-crown-margins-marginal-adaptation-periodontal]] and the preparation-design focus of [[periodontics/hajaj-2025-marginal-tooth-preparation-periodontal-health]].
 
-## One-line Summary
+## Three-line Summary
 
 Narrative review (search 1981–2021) concluding that supragingival margins and CAD/CAM zirconia restorations preserve periodontal health better than subgingival margins and conventional cast-alloy restorations, with marginal discrepancy driving biofilm, GCF flow, recurrent caries and bone loss.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 내러티브 리뷰(1981–2021 검색): 변연 부적합(margin gap)이 biofilm·치은열구액·이차우식·골소실을 유발하며, 치은연상 변연과 CAD/CAM 지르코니아 수복물이 치은연하 변연·기존 합금 수복물보다 치주 건강 유지에 유리하다고 결론.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

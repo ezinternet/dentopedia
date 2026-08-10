@@ -10,8 +10,21 @@ pdf_filename: rainsford-2009-ibuprofen-pharmacology-efficacy-safety-review.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Inflammopharmacology 2009 광범위 review (68pp, K.D. Rainsford): ibuprofen 약리·임상효과·안전성 — OTC 800-1,200mg/day와 처방 1,800-2,400mg/day 비교; COX-1/2 억제 메커니즘; APAP 비교 안전 프로필; 류마틱 등 만성 indication.
+## Three-line Summary
+
+Inflammopharmacology 2009 광범위 review (68pp, K.D. Rainsford): ibuprofen 약리·임상효과·안전성 — OTC 800-1,200mg/day와 처방 1,800-2,400mg/day 비교
+
+COX-1/2 억제 메커니즘
+
+APAP 비교 안전 프로필; 류마틱 등 만성 indication.
+
+## 세줄요약
+
+Inflammopharmacology 2009 광범위 review (68pp, K.D. Rainsford): ibuprofen 약리·임상효과·안전성 — OTC 800-1,200mg/day와 처방 1,800-2,400mg/day 비교
+
+COX-1/2 억제 메커니즘
+
+APAP 비교 안전 프로필; 류마틱 등 만성 indication.
 
 ## 1. Document Information
 - Authors: K.D. Rainsford
@@ -27,7 +40,7 @@ Inflammopharmacology 2009 광범위 review (68pp, K.D. Rainsford): ibuprofen 약
 Comprehensive narrative review of preclinical, clinical, and safety literature on ibuprofen through ~2009.
 
 ## 4. Key Results
-[합의수준]
+[확인]
 - OTC dose (800-1,200mg/day): safety comparable to paracetamol
 - Prescription dose (1,800-2,400mg/day): used for chronic rheumatic indications
 - Mechanism: COX-1/COX-2 inhibition → prostanoid reduction → anti-inflammatory + analgesic + antipyretic

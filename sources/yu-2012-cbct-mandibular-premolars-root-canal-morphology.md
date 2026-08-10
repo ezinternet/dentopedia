@@ -13,13 +13,21 @@ source_collection: external
 
 Mandibular premolars are an under-recognized site of C-shaped canal anatomy (usually thought of as a mandibular-2nd-molar finding), and this CBCT study quantifies how rare it actually is in a western Chinese population, complementing the molar-focused C-shaped cluster. It reinforces the broader canal-morphology baseline anchored by [[endodontics/anatomy/song-2008-cross-sectional-morphology-and-minimum-canal]] (C-shaped cross-sectional morphology and minimum wall widths) and pairs with the molar-prevalence siblings [[endodontics/anatomy/shemesh-2017-cshaped-canals-cbct-mandibular-molars]], [[endodontics/anatomy/shekarian-2023-cshaped-canals-three-rooted-mandibular-iranian]], and [[endodontics/anatomy/singh-2022-cshaped-canal-second-molars-indian-cbct]].
 
-## One-line Summary
+## Three-line Summary
 
-CBCT cross-sectional study (149 patients, 356 mandibular premolars) in a western Chinese population: mandibular first premolars 98% one-rooted with predominant Vertucci Type I (86.8%) and Type V (9.8%); C-shaped canal prevalence only 1.1% in first and 0.6% in second premolars.
+CBCT cross-sectional study (149 patients, 356 mandibular premolars) in a western Chinese population: mandibular first premolars 98% one-rooted with predominant Vertucci Type I (86.8%) and Type V (9.8%);
 
-## 한줄요약
+C-shaped canal prevalence only 1.1% in first and 0.6% in second premolars.
+
+(incomplete)
+
+## 세줄요약
 
 서부 중국인 149명·하악 소구치 356개 CBCT 단면 연구 — 하악 제1소구치 98%가 단일근, Vertucci Type I(86.8%)·Type V(9.8%)가 주류이고 C-shaped canal은 제1소구치 1.1%·제2소구치 0.6%로 드물게 관찰됨.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

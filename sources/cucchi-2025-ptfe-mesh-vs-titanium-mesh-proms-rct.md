@@ -17,13 +17,21 @@ full_text: true
 
 [[wiki/implants/vertical-ridge-augmentation/cucchi-2024-ptfe-mesh-ti-mesh-vertical-ridge-rct]] (primary RCT)는 골증대량·합병증을 보고했으나 PROMs, 비용, 수술시간을 다루지 않았다. 이 2차 분석이 그 공백을 채운다 — 실제 환자 경험(통증·불안·NSAID 사용량), 비용(~€1200–1300), 수술 계획 시간(PTFE 26분 vs Ti 84분)이 임상 선택의 핵심 데이터임.
 
-## One-line Summary
+## Three-line Summary
 
-RCT secondary analysis (n=48): CAD/CAM Ti mesh non-inferior to PTFE mesh in complications (8.3% vs 12.5%); PROMs, pain, costs statistically equivalent; Ti mesh requires 3× longer pre-op planning (84 vs 27 min).
+Secondary analysis of a double-blind non-inferiority RCT (n=48) comparing CAD/CAM titanium mesh versus PTFE mesh for vertical ridge augmentation in terms of patient-reported outcomes, operative times, and costs.
 
-## 한줄요약
+CAD/CAM Ti mesh was non-inferior to PTFE mesh in complication rate (8.3% vs 12.5%, p=0.645); PROMs, pain, NSAID use, OHIP-14, and total material cost (~€1272 vs €1200) were all statistically equivalent.
 
-RCT 2차분석 (n=48): CAD/CAM 티타늄 메쉬가 PTFE 메쉬 대비 합병증 비열등(8.3% vs 12.5%); 통증·비용 동등; 단, 수술 전 계획 시간은 Ti 메쉬가 3배 이상 소요(84 vs 27분).
+Ti mesh requires 3× longer pre-operative planning time (84.4 vs 26.6 min, p<0.0001), which clinicians must account for despite equivalent patient experience and surgical outcomes.
+
+## 세줄요약
+
+이중맹검 비열등성 RCT 2차분석 (n=48): CAD/CAM 티타늄(Titanium, Ti) 메쉬와 PTFE 메쉬의 수직골증대술 환자보고결과(Patient-Reported Outcome Measures, PROMs)·수술 시간·비용 비교.
+
+Ti 메쉬는 합병증 비율 비열등 확인(8.3% vs 12.5%, p=0.645); 통증·NSAID 사용·구강건강영향지수(OHIP-14)·총 재료비(약 €1272 vs €1200) 모두 동등.
+
+Ti 메쉬는 수술 전 계획 시간이 3배 이상 소요(84.4 vs 26.6분, p<0.0001)되므로, 환자 경험은 동등하더라도 임상가의 계획 부담을 고려해야 함.
 
 ## 1. Document Information
 

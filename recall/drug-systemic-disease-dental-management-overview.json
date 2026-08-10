@@ -1,0 +1,49 @@
+{
+  "overview": "drug-systemic-disease-dental-management-overview",
+  "date": "2026-07-23",
+  "title": "전신질환 환자 치과 관리 — 리콜",
+  "source_wiki": [
+    "wiki/overviews/drug-systemic-disease-dental-management-overview.md"
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "q": "당뇨(DM) 환자 임플란트 식립의 HbA1c 기반 의사결정 임계는?",
+      "opts": [
+        "HbA1c와 무관하게 항상 식립 가능",
+        "<7.0% 정상 준함 / 7.0–9.0% 식립 가능 + 모니터링 강화·CHX 양치 / >9.0% 연기·내과 협진 우선",
+        "HbA1c >6.0%면 절대 금기",
+        ">9.0%에서도 즉시 식립 권장"
+      ],
+      "ans": 1,
+      "rat": "HbA1c <7.0% 정상 준함 / 7.0–9.0% 식립 가능+모니터링·CHX / >9.0% 연기·내과 협진. 조절 DM은 임플란트 금기 아님(Wagner 2022). 전체 DM 실패 OR 1.78, T1DM은 T2DM 대비 OR 4.48(Al-Ansari 2022). HbA1c 단독 신뢰 금지 — Hb변이·빈혈·용혈·CKD에서 위양/위음 가능, 공복·random glucose 병행.",
+      "cite": "overviews/drug-systemic-disease-dental-management-overview"
+    },
+    {
+      "id": "q2",
+      "q": "국소마취제 vasoconstrictor 선택에서 심혈관질환·고혈압·갑상선항진증 환자의 1차 선택은?",
+      "opts": [
+        "1:80,000 에피네프린",
+        "1:200,000 에피네프린 — 1:80,000과 진통 동등하면서 혈역학적으로 더 안전(Karm 2017 RCT)",
+        "vasoconstrictor 없는 국소마취제만",
+        "Levonordefrin 함유 제제"
+      ],
+      "ans": 1,
+      "rat": "1:200,000 에피네프린이 1:80,000과 진통 동등하면서 혈역학적으로 더 안전(Karm 2017 RCT n=51) → CVD·고혈압·갑상선항진증 포함 1차 선택. 대표 major DDI = Epinephrine + β-blocker(비선택적 propranolol 시 희석·용량 minimize·BP/HR 모니터링). 임신은 1:100,000–200,000만 안전, Felypressin 금기(자궁수축)·Levonordefrin 회피.",
+      "cite": "overviews/drug-systemic-disease-dental-management-overview"
+    },
+    {
+      "id": "q3",
+      "q": "HbA1c 해석에서 반드시 인식해야 할 한계는?",
+      "opts": [
+        "HbA1c는 모든 환자에서 완벽히 신뢰할 수 있다",
+        "Hb 변이·빈혈·용혈·수혈·만성신부전(CKD)에서 위양성/위음성 가능 — 단독 신뢰 금지, 공복·random glucose 병행",
+        "HbA1c는 임신부에서만 부정확하다",
+        "HbA1c는 3일 평균 혈당을 반영한다"
+      ],
+      "ans": 1,
+      "rat": "HbA1c는 Hb변이·빈혈·용혈·수혈·CKD에서 위양/위음 가능(Chen 2022, Weykamp 2013) → 단독 신뢰 금지, 공복·random glucose 병행. eAG(mg/dL)=28.7×A1C−46.7(Nathan 2008). 고령 환자 DDI 보유율 40.7%, 처방자 인식 42.7%(Pyo 2026) — DDI 점검도 필수 축.",
+      "cite": "overviews/drug-systemic-disease-dental-management-overview"
+    }
+  ]
+}

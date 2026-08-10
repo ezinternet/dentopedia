@@ -10,8 +10,21 @@ pdf_filename: watson-2022-acetaminophen-codeine-ibuprofen-third-molar-sr-ma.pdf
 source_collection: external
 ---
 
-## One-line Summary
-SR+MA (Pain Med 2022): 제3대구치 발치 후 acetaminophen 600 + codeine 60 vs ibuprofen 400 비교 — ibuprofen 단독이 동등 또는 우수; opioid combination 사용 정당화 부족 → ADA 2022 가이드라인 (opioid-sparing) 지지.
+## Three-line Summary
+
+SR+MA (Pain Med 2022): 제3대구치 발치 후 acetaminophen 600 + codeine
+
+60 vs ibuprofen 400 비교 — ibuprofen 단독이 동등 또는 우수;
+
+opioid combination 사용 정당화 부족 → ADA 2022 가이드라인 (opioid-sparing) 지지.
+
+## 세줄요약
+
+SR+MA (Pain Med 2022): 제3대구치 발치 후 acetaminophen 600 + codeine
+
+60 vs ibuprofen 400 비교 — ibuprofen 단독이 동등 또는 우수;
+
+opioid combination 사용 정당화 부족 → ADA 2022 가이드라인 (opioid-sparing) 지지.
 
 ## 1. Document Information
 - Authors: Watson H, Hildebolt C, Rowland K
@@ -28,7 +41,7 @@ SR+MA (Pain Med 2022): 제3대구치 발치 후 acetaminophen 600 + codeine 60 v
 PubMed + ClinicalTrials.gov search; RCT-only (randomized, blinded, placebo-controlled); third molar extraction populations; pooled MA.
 
 ## 4. Key Results
-[근거강함] Ibuprofen 400mg = or > APAP 600 + codeine 60 for post-extraction pain. Codeine combination not superior, has opioid side effects.
+[확인] Ibuprofen 400mg = or > APAP 600 + codeine 60 for post-extraction pain. Codeine combination not superior, has opioid side effects.
 
 ## 5. Limitations
 - SR+MA constrained to two regimens (no combination ibuprofen+APAP arm)

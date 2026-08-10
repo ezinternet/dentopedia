@@ -6,7 +6,7 @@ date: 2023-12-04
 doi: 10.3390/bioengineering10121390
 source: inchingolo-2023-clear-aligner-distalization-predictability-sr.md
 category: [orthodontics/clear-aligner]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "38135981"
@@ -17,13 +17,21 @@ text_filename: inchingolo-2023-clear-aligner-distalization-predictability-sr.txt
 tags: [clear-aligner, distalization, predictability, anchorage, tad, miniscrew, ipr, class-ii]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR (19 studies): molar distalization is achievable with clear aligners alone, but anterior anchorage loss is highly probable; predictability and stability improve markedly with skeletal anchorage (TADs) and IPR — a hybrid approach gives the best success, especially with large overjet.
+Systematic review (Scopus/WoS/PubMed, 146 records → 19 studies) on the predictability of dental distalization with clear aligners, reframing the problem as an anchorage-management question rather than an intrinsic appliance limitation.
 
-## 한줄요약
+Distalization can be achieved with aligners alone, but reciprocal anterior anchorage loss is highly probable — planned posterior movement is partly spent proclining the anterior segment, widening the predicted-vs-achieved gap; TADs (direct/indirect skeletal anchorage) combined with IPR markedly improve predictability and stability, with the hybrid aligner+TAD approach producing the greatest success.
 
-SR(19편): 투명교정 단독 대구치 distalization은 가능하나 전치부 앵커리지 손실이 매우 흔함. TAD·IPR 병용 시 예측성·안정성 크게 향상 — 특히 큰 overjet에서 hybrid가 최선.
+Patients with large overjet are high-risk for needing midcourse corrections when distalization is planned without auxiliaries; aligner distalization is clinically predictable only when staged with TAD anchorage and IPR.
+
+## 세줄요약
+
+체계적 문헌고찰(Scopus/WoS/PubMed, 146건 → 19편): 투명교정 대구치 distalization의 예측성을 내재적 장치 한계가 아닌 앵커리지 관리 문제로 재정의.
+
+투명교정 단독 대구치 distalization은 가능하나 전치부 앵커리지 손실이 매우 흔함 — 계획된 후방 이동이 일부 전치부 순측경사에 소비되어 계획-달성 괴리 발생; TAD(직접·간접 골격 고정원)와 IPR 병용 시 예측성·안정성 크게 향상, hybrid aligner+TAD 접근이 최고 성공률.
+
+큰 overjet 환자는 보조장치 없이 distalization 계획 시 중간 수정 고위험; 임상적으로 TAD 고정원+IPR 단계적 적용 시에만 예측 가능.
 
 ## Summary
 

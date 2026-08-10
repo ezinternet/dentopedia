@@ -8,7 +8,7 @@ pmid: "42188992"
 pmcid: "PMC13239863"
 source: hu-2026-direct-pulp-capping-materials-rct-12mo.md
 category: endodontics/vpt
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: true
 text_path: /Users/oracleneo/llm-wiki/papers/hu-2026-direct-pulp-capping-materials-rct-12mo.txt
@@ -21,11 +21,21 @@ relations:
     target: fasoulas-2023-pulpotomy-direct-pulp-capping-sr-ma
 ---
 
-## One-line Summary
-Single-blind RCT (n=120, Shanghai) found no significant difference in 12-month DPC success among iRoot BP Plus (88.5%), MTA (93.1%), and Ca(OH)₂ (84.6%); proximal lesion location was the strongest failure predictor (OR=18.18, p=0.001), outweighing material choice.
+## Three-line Summary
 
-## 한줄요약
-성숙 영구치 가역성 치수염(Reversible Pulpitis)에서 직접치수복조(Direct Pulp Capping, DPC) 3종 재료(iRoot BP Plus 바이오세라믹, MTA, 수산화칼슘(Calcium Hydroxide, CH))를 비교한 단맹 무작위 대조 연구(RCT)(n=120): 12개월 성공률 세 군 동등(88.5% vs 93.1% vs 84.6%, p=0.6); 근심면 국한 우식(Proximal Lesion)이 실패의 압도적 예측인자(OR=18.18).
+Single-blind RCT (n=120, Shanghai) comparing iRoot BP Plus bioceramic, ProRoot MTA, and Calxyl Ca(OH)₂ for direct pulp capping in mature permanent teeth with caries-induced reversible pulpitis.
+
+All three materials showed equivalent 12-month success (iRoot BP Plus 88.5%, MTA 93.1%, Ca(OH)₂ 84.6%; p=0.6); proximal lesion location was the dominant failure predictor (OR=18.18, p=0.001), far outweighing material choice.
+
+Case selection — particularly avoiding proximal-cavity and anterior DPC — matters more than material choice, supporting iRoot BP Plus as equivalent to MTA with superior handling.
+
+## 세줄요약
+
+상하이 성숙 영구치 가역성 치수염(Reversible Pulpitis) 환자 대상 단맹 RCT(n=120): iRoot BP Plus 바이오세라믹·ProRoot MTA·Calxyl 수산화칼슘(Calcium Hydroxide, CH)으로 직접치수복조(Direct Pulp Capping, DPC) 비교.
+
+12개월 성공률 세 군 동등(iRoot BP Plus 88.5%·MTA 93.1%·CH 84.6%, p=0.6); 근심면 우식 위치가 가장 강한 실패 예측인자(OR=18.18, p=0.001)로 재료 선택보다 압도적으로 중요.
+
+재료 선택보다 증례 선택(근심·전치부 DPC 회피)이 더 중요하며, iRoot BP Plus는 MTA와 동등한 성공률에 취급성 우수.
 
 ## Summary
 

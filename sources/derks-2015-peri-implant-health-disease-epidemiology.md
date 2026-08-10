@@ -9,8 +9,21 @@ pdf_filename: derks-2015-peri-implant-health-disease-epidemiology.pdf
 source_collection: external
 ---
 
-## One-line Summary
-SR+MA of 11 studies (n≥100 subjects each): peri-implant mucositis prevalence 43% (CI 32–54%), peri-implantitis 22% (CI 14–30%); prevalence increases with function time and varies strongly with case definition.
+## Three-line Summary
+
+SR+MA of 11 studies (15 articles, n≥100 subjects each) examining the population-level epidemiology of peri-implant mucositis and peri-implantitis.
+
+Peri-implant mucositis prevalence was 43% (CI 32–54%, I²=96%) and peri-implantitis 22% (CI 14–30%, I²=98%); prevalence of peri-implantitis increased significantly with implant function time, and higher bone loss thresholds yielded lower apparent prevalence.
+
+Inconsistent case definitions are the primary barrier to reliable epidemiological data; standardization of diagnostic criteria is essential for future surveillance research.
+
+## 세줄요약
+
+피험자 100명 이상 연구 11편(논문 15편)을 대상으로 임플란트 주위 점막염·임플란트 주위염의 유병률을 분석한 SR+MA.
+
+점막염 유병률 43% (CI 32–54%), 임플란트 주위염 22% (CI 14–30%); 기능 기간이 길수록 임플란트 주위염 유병률 증가, 골소실 기준치가 높을수록 유병률 낮게 집계.
+
+진단 기준의 비일관성이 역학 연구의 최대 장벽; 신뢰성 있는 감시 체계 구축을 위해 진단 기준 표준화 필수.
 
 ## 1. Document Information
 - **Journal**: Journal of Clinical Periodontology 2015; 42(Suppl. 16): S158–S171

@@ -9,8 +9,21 @@ pdf_filename: li-2022-ian-position-nerve-injury-sr-ma.pdf
 source_collection: external
 ---
 
-## One-line Summary
-하치조신경관(Inferior Alveolar Canal, IAC) 위치와 신경 손상 연관성 SR+MA (Healthcare 2022): 11편 포함; 설측(Lingual) 위치가 협측(Buccal) 대비 신경 손상 위험 유의하게 높음.
+## Three-line Summary
+
+하치조신경관(Inferior Alveolar Canal, IAC) 위치와 신경 손상
+
+연관성 SR+MA (Healthcare 2022): 11편 포함; 설측(Lingual)
+
+위치가 협측(Buccal) 대비 신경 손상 위험 유의하게 높음.
+
+## 세줄요약
+
+하치조신경관(Inferior Alveolar Canal, IAC) 위치와 신경 손상
+
+연관성 SR+MA (Healthcare 2022): 11편 포함; 설측(Lingual)
+
+위치가 협측(Buccal) 대비 신경 손상 위험 유의하게 높음.
 
 ## 1. Document Information
 - **Journal**: Healthcare 2022, 10, 1782

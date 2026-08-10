@@ -6,7 +6,7 @@ date: 2024-01-24
 doi: 10.1016/j.jdent.2024.104843
 source: zhang-2024-cracked-teeth-treatment-outcomes-sr-ma.md
 category: [cracked-tooth]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: false
 pmid: "38272437"
@@ -19,13 +19,21 @@ relations:
     target: kaur-2026-cracked-tooth-syndrome-umbrella-review
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Abstract-only SR+MA (27 studies, 26 pooled): for cracked teeth, direct restorations without cuspal coverage on vital teeth raise pulpal-complication risk (RR 3.2) and extraction risk (RR 8.1) vs full crowns, and endodontically treated cracked teeth without full crowns have 11.3× higher extraction risk — full-crown restoration strongly recommended for symptomatic/RCT cracked teeth, while asymptomatic teeth may be monitored.
+SR+MA of 27 studies (26 pooled) — the largest cracked-tooth treatment-outcome synthesis — comparing vital-pulp cracked teeth (CT-VDP) and endodontically treated cracked teeth (CT-RCT) across restoration types; abstract-only (J Dent, Elsevier subscription).
 
-## 한줄요약
+Direct restorations without cuspal coverage on vital cracked teeth raised pulpal-complication risk 3.2-fold (95% CI 1.51–6.82) and extraction risk 8.1-fold (1.05–62.5) vs full crowns; endodontically treated cracked teeth without full crowns carried an 11.3× higher extraction risk; asymptomatic monitoring yielded 80% success at 3 years.
 
-abstract-only SR+MA(27편, 26편 pooled): 균열치에서 생활치 direct 수복(cuspal coverage 없음)은 full-crown 대비 치수합병증 RR 3.2·발치 RR 8.1, 근관치료 균열치는 full-crown 없으면 발치 위험 11.3배 → 증상성·근관치료 균열치엔 full-crown 강력 권고, 무증상은 monitoring 가능.
+Full-crown cuspal-coverage restoration is strongly recommended for any symptomatic cracked tooth and for all CT-RCT; monitoring without restoration is viable only for asymptomatic cracks.
+
+## 세줄요약
+
+27편(26편 pooled) SR+MA — 균열치 치료결과 최대 규모 합성 — 생활치 균열치(CT-VDP)·근관치료 균열치(CT-RCT) 수복 유형별 비교; 초록만 확보(J Dent 구독 필요).
+
+생활치 균열치에서 교두피개 없는 직접수복은 full crown 대비 치수합병증 RR 3.2(95% CI 1.51–6.82)·발치 RR 8.1(1.05–62.5); 근관치료 균열치의 full crown 없는 경우 발치 위험 11.3배; 무증상 monitoring은 3년 성공률 80%.
+
+증상성 균열치와 모든 근관치료 균열치에 full crown 교두피개 수복을 강력 권고; 무증상 균열에 한해 monitoring이 허용 가능.
 
 ## Summary
 

@@ -13,13 +13,21 @@ source_collection: external
 
 개요 페이지 [[wiki/endodontics/cold-plasma/li-2015-cold-plasma-efaecalis-biofilm-safety]] 작성을 위한 cold plasma 근관 소독 분야의 핵심 in vitro 논문. [[wiki/endodontics/irrigation/jungbauer-2021-cold-atmospheric-plasma-antimicrobial-sr]] 등 임플란트·임상 맥락의 plasma 페이지와 달리, 본 논문은 근관 내 E. faecalis 바이오필름에 대한 최초 체계적 in vitro 안전성·효능 평가로서 endodontics/cold-plasma 카테고리의 기초 레퍼런스로 기능함.
 
-## One-line Summary
+## Three-line Summary
 
-In vitro study (n = teeth with 3-week E. faecalis biofilm) demonstrating complete biofilm eradication within 12 minutes of AC argon/oxygen cold plasma treatment with no significant dentin microhardness or roughness change.
+In vitro study (n = teeth with 3-week E.
 
-## 한줄요약
+faecalis biofilm) demonstrating complete biofilm eradication within 12 minutes of AC argon/oxygen cold plasma treatment with no significant dentin microhardness or roughness change.
 
-In vitro 연구: AC 아르곤/산소 냉각 플라즈마 12분 처치로 3주 성숙 E. faecalis 바이오필름 완전 사멸, 상아질 미세경도·표면 조도 유의한 변화 없음.
+(incomplete)
+
+## 세줄요약
+
+In vitro 연구: AC 아르곤/산소 냉각 플라즈마 12분 처치로 3주 성숙 E.
+
+faecalis 바이오필름 완전 사멸, 상아질 미세경도·표면 조도 유의한 변화 없음.
+
+(incomplete)
 
 ## 1. Document Information
 

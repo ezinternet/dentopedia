@@ -8,7 +8,7 @@ pmid: "40419437"
 pmcid: "PMC12176461"
 source: cucchi-2025-ptfe-mesh-vs-titanium-mesh-proms-rct.md
 category: [implants/vertical-ridge-augmentation]
-confidence: rct
+evidence_level: rct
 text_path: /Users/oracleneo/llm-wiki/papers/cucchi-2025-ptfe-mesh-vs-titanium-mesh-proms-rct.txt
 text_filename: cucchi-2025-ptfe-mesh-vs-titanium-mesh-proms-rct.txt
 source_collection: pubmed-text
@@ -20,13 +20,21 @@ relations:
     target: sabri-2024-titanium-mesh-bone-augmentation-sr-ma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-RCT secondary analysis (n=48): CAD/CAM Ti mesh non-inferior to PTFE mesh in complications (8.3% vs 12.5%); PROMs, pain, and costs are equivalent; Ti mesh requires 3× longer pre-op planning (84 vs 27 min).
+Secondary analysis of the Cucchi 2024 double-blind non-inferiority RCT (n=48 per-protocol; 2 groups of 24; customized PTFE mesh vs CAD/CAM Ti mesh for VRA) reporting patient-reported outcome measures (PROMs), clinician-reported outcomes, operative times, and material costs — the first RCT-level PROMs data for digital VRA.
 
-## 한줄요약
+Ti mesh was non-inferior to PTFE mesh for healing complications (8.3% vs 12.5%, non-inferiority confirmed); patient pain, NSAID use, anxiety, OHIP-14, and PoSSe discomfort scores were statistically equivalent; material costs were similar (~€1,200–1,272, p=0.13).
 
-RCT 2차 분석 (n=48): CAD/CAM Ti 메쉬가 PTFE 메쉬 대비 합병증 비열등(8.3% vs 12.5%); 통증·NSAID·비용 동등; 단, 수술 전 계획 시간은 Ti 메쉬가 3배 소요(84 vs 27분).
+The only meaningful difference was pre-operative planning time: Ti mesh required 3× longer (84.4 vs 26.6 min, p<0.0001) due to CAD upload and engineer coordination — a hidden workflow cost that does not affect patient outcomes but matters for practice efficiency.
+
+## 세줄요약
+
+Cucchi 2024 이중맹검 비열등성 RCT(n=48 per-protocol; 맞춤형 PTFE 메시 vs CAD/CAM Ti 메시 수직골증대(VRA))의 2차 분석: 환자보고결과(Patient-Reported Outcome Measures, PROMs)·임상가보고결과·수술 시간·비용을 보고한 디지털 VRA 최초 RCT 수준 PROMs 자료.
+
+Ti 메시는 치유 합병증 비열등 확인(8.3% vs 12.5%); 통증·NSAID·불안·OHIP-14·PoSSe 모두 동등; 재료 비용 유사(~€1,200–1,272, p=0.13).
+
+유일한 유의한 차이는 수술 전 계획 시간: Ti 메시가 3배 길었음(84.4 vs 26.6분, p<0.0001) — CAD 업로드·엔지니어 조율로 인한 숨은 워크플로우 비용이나 환자 결과에는 영향 없음.
 
 ## Summary
 

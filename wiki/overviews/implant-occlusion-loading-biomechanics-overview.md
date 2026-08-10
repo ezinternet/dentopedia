@@ -6,7 +6,7 @@ date: 2026-06-03
 doi: N/A
 source: N/A
 category: overviews
-confidence: synthesis
+evidence_level: synthesis
 pdf_path: N/A
 pdf_filename: N/A
 source_collection: synthesis
@@ -14,20 +14,22 @@ tags: [occlusion, implant-occlusion, occlusal-overload, occlusal-scheme, finite-
 relations:
   - type: extends
     target: bruxism-muscle-overload-axis
-  - type: reinforces
+  - type: refines
     target: stilwell-2024-occlusal-considerations-implant-maintenance
+  - type: extends
+    target: mojaver-2025-occlusal-overload-peri-implant-health-sr
 ---
 
 ## 한국어 핵심요약
 
 > [!summary] 한국어 핵심요약
-> - 핵심 전제: 골유착 임플란트는 치주인대 (Periodontal Ligament, PDL)가 없어 교합력이 완충도 감지도 되지 않으므로, 설계 목표는 하중 최소화·분산이다(Stilwell 2024, 파절률 ~0.5%). [합의수준]
+> - 핵심 전제: 골유착 임플란트는 치주인대 (Periodontal Ligament, PDL)가 없어 교합력이 완충도 감지도 되지 않으므로, 설계 목표는 하중 최소화·분산이다(Stilwell 2024, 파절률 ~0.5%). [확인]
 > - 임상·유한요소분석 (Finite Element Analysis, FEA) 근거는 4점으로 수렴 — ①접촉의 시간적 변화 ②약교합 전략 ③교합양식·보철 구성의 응력 효과 ④무치악/full-arch 설계.
 > - 접촉 변화: 임플란트 교합접촉은 부하 후 6-12개월에 변동(대개 인접 자연치 대비 상대 저위교합) — 단관(Mao 2024 SR+MA)·고정성(Assoratgoon 2025 SR) 모두.
-> - 약교합(light occlusion): 상대 교합력을 낮추나(4.91→10.34% vs 정상 10.45→18.15%) 시간이 지나며 유지되지 않고 교합력이 계속 증가 → 장기 추적 필수(Zhang 2022, n=50, T-Scan III). [근거강함]
-> - 과부하-골소실 연관은 시사되나 근거 질 낮음(정량 교합분석 표준화 부재, Di Fiore 2022 SR 7편). 더 넓은 Mojaver 2025 SR(80편)은 변연골소실 (Marginal Bone Loss, MBL) 0.65–3.0 mm·임플란트주위염 20–50% 정량밴드와 **dual-pathway**(기계적 과부하 × biofilm 염증 상승작용 — 과부하는 독립 원인보다 위험증폭 인자)를 제시하나 인과는 여전히 미확정. [합의수준/미검증]
+> - 약교합(light occlusion): 상대 교합력을 낮추나(4.91→10.34% vs 정상 10.45→18.15%) 시간이 지나며 유지되지 않고 교합력이 계속 증가 → 장기 추적 필수(Zhang 2022, n=50, T-Scan III). [확인]
+> - 과부하-골소실 연관은 시사되나 근거 질 낮음(정량 교합분석 표준화 부재, Di Fiore 2022 SR 7편). 더 넓은 Mojaver 2025 SR(80편)은 변연골소실 (Marginal Bone Loss, MBL) 0.65–3.0 mm·임플란트주위염 20–50% 정량밴드와 **dual-pathway**(기계적 과부하 × biofilm 염증 상승작용 — 과부하는 독립 원인보다 위험증폭 인자)를 제시하나 인과는 여전히 미확정. [미검증]
 > - 교합양식·보철 구성(캔틸레버·치아-임플란트 연결·재료·부기능)이 임플란트주위 응력을 좌우 — FEA 일관(Ambili 2024, Yesilyurt 2021), full-arch 위험요인(Berzaghi 2025), 세라믹 크라운 피로(Packaeser 2025).
-> - 오버덴처 교합양식: 균형교합 (Balanced)이 설측·단일평면보다 교합력·저작효율·만족 우월(Kuriakose 2024, 60명, 단신 근거); 하중중심-지지중심 불일치는 견치부 정중접촉을 더한 집중교합형 (Centralized Occlusal Scheme)으로 접촉면적·저작효율 +21% 향상(Diao 2026, n=5 RCT crossover, 가설생성). [근거강함—소표본·단기]
+> - 오버덴처 교합양식: 균형교합 (Balanced)이 설측·단일평면보다 교합력·저작효율·만족 우월(Kuriakose 2024, 60명, 단신 근거); 하중중심-지지중심 불일치는 견치부 정중접촉을 더한 집중교합형 (Centralized Occlusal Scheme)으로 접촉면적·저작효율 +21% 향상(Diao 2026, n=5 RCT crossover, 가설생성). [확인—소표본·단기]
 > - 디지털 교합분석: 단일 구치 임플란트 수복도 교합력을 **전악**으로 재분배(후방↓>전방↓, 대합·전체↑; Gözen 2025 in-vivo n=18) → 재점검은 국소가 아닌 전악 범위로. 구강스캐너 (IOS)는 접촉 위치(where), OccluSense는 힘 크기(how hard)를 주며 둘은 강하게 상관(p<0.001)하나 호환은 아님. 교합조정 자체의 이득은 기저 교합이 양호하면 작다(Jahanbin 2026 T-Scan RCT, 비임플란트 외삽).
 > - 식립 각도 인자: 비축(nonaxial) 식립이 변연골소실 (Marginal Bone Loss, MBL) 측정 가능 인자 — 비축 0.22 vs 축방향 0.10 mm(Kim 2026, 후향 506개 5.1년, P<.05), 대합치가 임플란트 보철일 때 페널티 최대(Δ0.373 mm).
 > - 실험적 로딩-골반응 용량곡선: 점진·정적 하중은 골-임플란트 접촉률 (Bone-to-Implant Contact, BIC)↑·과부하 저항력↑(개 Podaropoulos, 성공률 87.5 vs 67.5%)이나 고빈도 하중은 BIC↓(rat Bueno 2018) → "점진=적응, 급격·고빈도=부적응"의 mechanostat 해석.
@@ -35,13 +37,21 @@ relations:
 > - 오판 패턴: "임플란트도 자연치처럼 교합 주면 된다"(PDL 부재로 불가), "약교합 한 번이면 영구 예방"(교합력 증가로 유지 안 됨), "FEA가 임상 과부하-골소실을 증명"(모델 가정, 임상 인과 미확정).
 > - [[overviews/bruxism-muscle-overload-axis]]가 이갈이→과부하 병태생리 렌즈라면, 본 페이지는 임플란트 교합 설계·하중·측정의 보철·생역학 렌즈로 상보적이다.
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis of the occlusion cluster through the implant lens: because an osseointegrated implant lacks a periodontal ligament, occlusal force is neither cushioned nor sensed, so design aims to minimize and distribute load. Clinical and FEA evidence converges on four points — implant occlusal contacts drift (usually toward relative infraocclusion) within 6-12 months; "light occlusion" lowers force but is unstable over time; occlusal scheme and prosthesis configuration (cantilever, tooth-implant connection, full-arch) modulate peri-implant stress; and the chairside lever is periodic occlusal re-checks (T-Scan/articulating film), not a single ideal scheme.
+Synthesis of the implant occlusion cluster (~20 papers across clinical, FEA, and animal studies): the absence of a periodontal ligament means occlusal force on osseointegrated implants is neither cushioned nor sensed, so the design goal is to minimize and distribute load — active tactile thresholds of implants (10–100 µm) are consistently higher than natural teeth (<10–50 µm, Singh 2026 SR), and "light occlusion" reduces immediate force but is unstable over time as contacts drift and force increases (Zhang 2022 prospective, n=50, T-Scan III).
 
-## 한줄요약
+Clinical evidence converges on four axes: implant contacts drift toward relative infraocclusion within 6–12 months (Mao 2024 SR+MA, Assoratgoon 2025 SR); even a single posterior crown redistributes occlusal force across the entire arch — posterior and anterior forces drop while opposing and total forces rise (Gözen 2025 in-vivo, n=18); occlusal overload is associated with MBL (0.65–3.0 mm) and peri-implantitis (20–50%) through a dual biofilm-×-mechanical pathway rather than as an independent cause (Mojaver 2025 SR); and non-axial implant placement independently predicts MBL (0.22 vs 0.10 mm, p<0.05; Kim 2026 retrospective, n=506).
 
-교합 클러스터를 임플란트 관점으로 종합. 골유착 임플란트는 치주인대가 없어 교합력이 완충도 감지도 안 되므로, 설계 목표는 하중 최소화·분산이다. 임상·FEA 근거는 4점으로 수렴 — 임플란트 교합접촉은 6-12개월 내 변동(대개 상대적 저위교합 방향); "약교합(light occlusion)"은 힘을 낮추나 시간이 지나며 불안정; 교합양식·보철 구성(캔틸레버·치아-임플란트 연결·full-arch)이 임플란트주위 응력을 좌우; 체어사이드 레버는 단일 이상적 양식이 아니라 정기 교합 재점검(T-Scan/교합지)이다.
+Clinical ladder: ①light occlusion as a starting point but re-check at 0.5/3/6/12 months (T-Scan/articulating paper, not IOS alone); ②minimize cantilever / tooth-implant connections for multi-unit prostheses; ③prioritize splinting for bruxers; ④axial placement preferred; for overdentures, balanced occlusion outperforms lingualized or monoplane schemes.
+
+## 세줄요약
+
+임플란트 교합 클러스터 ~20편 종합(임상·FEA·동물): 치주인대(PDL) 부재로 교합력이 완충·감지되지 않아 임플란트의 능동 촉각 역치(10–100 µm)가 자연치(<10–50 µm)보다 둔하고(Singh 2026 SR), "약교합"은 즉시 힘을 낮추나 시간이 지나며 교합력이 증가해 유지 안 됨(Zhang 2022 전향, n=50).
+
+4축 임상 근거: 임플란트 교합접촉은 6–12개월 내 상대적 저위교합으로 변동(Mao 2024 SR+MA); 단일 구치 임플란트 수복도 전악 교합력을 재분배함(Gözen 2025, n=18); 교합 과부하는 MBL(0.65–3.0mm)·임플란트주위염(20–50%)과 biofilm 염증과의 상승작용으로 연결됨(Mojaver 2025 SR); 비축 식립이 MBL에 독립적 기여(0.22 vs 0.10mm, Kim 2026, n=506).
+
+임상 ladder: ①약교합을 출발점으로 하되 0.5/3/6/12개월 교합 재점검(T-Scan/교합지, IOS 단독 불가) ②다단위 보철에서 캔틸레버·치아-임플란트 연결 최소화 ③이갈이 환자는 스플린트 우선 ④가능하면 축방향 식립; 오버덴처는 균형교합이 기능 결과 우위.
 
 ## Summary
 
@@ -51,15 +61,15 @@ Synthesis of the occlusion cluster through the implant lens: because an osseoint
 
 핵심 명제 6개:
 
-1. **골유착 임플란트는 PDL이 없어 충격흡수·고유감각이 결여 — 과부하 보호의 부담이 전적으로 교합 설계로 넘어온다.** — Stilwell 2024(파절률 ~0.5%). 이 감각 결여는 정량화된다: Singh 2026 SR(임상 6편)은 단일 임플란트의 능동 촉각 감수성(active tactile sensibility) 역치가 10–100 µm로 자연치(<10–50 µm)보다 일관되게 높아(둔감) PDL 기계수용기 소실을 골유착감각(osseoperception)이 부분적으로만 보상함을 보였다 — 임플란트 보철에 더 가벼운 교합접촉을 부여하는 신경생리학적 근거. 단 이 골유착감각은 기능부하와 함께 시간경과로 개선되며 즉시부하·자연치 대합이 회복을 가속한다. [합의수준]
-2. **임플란트 교합접촉은 부하 후 6-12개월에 걸쳐 변동(대개 인접 자연치 대비 상대 저위교합).** — Mao 2024 SR+MA(단관), Assoratgoon 2025 SR(고정성, 6개월 내). [합의수준]
-3. **"약교합(light occlusion)"은 상대 교합력을 낮추나(4.91→10.34% vs 정상 10.45→18.15%) 시간이 지나며 유지되지 않고, 교합력은 계속 증가 → 장기 추적 필수.** — Zhang 2022 prospective(n=50, T-Scan III). [근거강함] The periodic re-check this implies is only as good as the recording method, and the recording method matters: Didier (2026) found that an intraoral-scanner occlusogram (iTero Element 2) agrees poorly with an 8 µm carbon-paper record (Cohen κ 0.07–0.20 across 840 teeth, n=35), with the scanner's red+orange definition overestimating contacts by ~70% while red-only underestimates them, so the digital occlusogram and carbon paper are complementary, not interchangeable — implant occlusal verification should not be established from an IOS scan alone ([[occlusion/didier-2026-occlusal-contacts-ios-vs-carbon-paper-concordance]]). [근거강함] What the periodic re-check actually records, in implants specifically, is captured by Gözen 2025 (prospective in-vivo, n=18, single posterior implant single crown): seating one posterior implant crown redistributes occlusal force across the **whole arch** — anterior and posterior contact/force drop (posterior reduction > anterior) while opposing-arch and total force rise — confirming that occlusal change after an implant restoration is an arch-level redistribution, not a local event (the in-vivo mechanism beneath Mao 2024's relative-infraocclusion SR+MA). Method-wise, an IOS contact-area reading (Medit i700) and a force-amplitude reading (OccluSense) **correlate strongly** (Kendall's Tau-B, p<0.001), so they track the same trend, but only OccluSense delivers force magnitude — IOS shows *where*, OccluSense shows *how hard* ([[occlusion/gozen-2025-occlusal-force-distribution-digital-analysis-implant-in-vivo]]). [근거강함—단일 소표본 in-vivo] A ceiling on what occlusal *adjustment* itself buys comes from outside the implant context: Jahanbin 2026 (RCT, n=30, post-orthodontic Class-I extraction, T-Scan III) found a CR-guided occlusal adjustment one month post-debonding produced **no statistically significant** change in T-Scan contact intensity or number vs no-adjustment control at 1 or 6 months — only a non-significant posterior-balance trend, because continued tooth settling erased the immediate effect. The implant translation is indirect (implants don't "settle"), but the principle generalizes to the re-check ladder: when baseline static intercuspation is already acceptable, adjustment yields little measurable gain, and the recording method's *temporal* resolution (catching change over months) matters more than a single adjustment session ([[occlusion/jahanbin-2026-occlusal-adjustment-post-orthodontic-tscan-rct]]). [근거강함—단, 비임플란트 외삽]
-4. **교합 과부하와 임플란트주위 골소실의 연관은 시사되나 근거 질이 낮다(정량 교합분석 표준화 부재).** — Di Fiore 2022 SR(7편). [합의수준/미검증] 더 넓은 근거 풀로 본 Mojaver 2025 SR(160→80편, narrative, 메타분석 없음)도 같은 방향을 재확인하면서 수치를 붙인다: 교합인자 변연골소실 ~0.65–1.20 mm, 외상력 시 골수준 변화 1.0–3.0 mm, 임플란트주위염 발생률 20–50%. 핵심 기여는 **dual-pathway 모델** — 기계적 과부하가 단독으로 작용하기보다 biofilm 유발 염증과 **상승작용(synergy)**해 임플란트주위 조직 붕괴를 가속한다는 것(Mattheos: 염증 없는 dog 모델에서는 변연골소실 없이 골유착 상실; Naert/Garaicoa-Pazmiño SR: 골소실은 **염증 부위**에서 두드러짐). 즉 과부하는 독립 원인이라기보다 염증의 **위험증폭 인자(risk modifier)**로 읽는 것이 근거에 부합한다. 단 정의 이질성·짧은 추적·publication bias로 인과는 여전히 미확정 — di-fiore의 보수적 결론을 뒤집지 않고 정량 밴드로 보강한다([[occlusion/mojaver-2025-occlusal-overload-peri-implant-health-sr]]). [합의수준/미검증]
-5. **교합양식·보철 구성(캔틸레버·tooth-implant 연결·재료·부기능)이 임플란트주위 응력을 좌우한다 — FEA 일관.** — Ambili 2024·Yesilyurt 2021 FEA, Berzaghi 2025 narrative(full-arch 위험요인), Packaeser 2025(교합접촉 양상이 세라믹 크라운 피로). [claude해석/미검증(임상)]
-6. **무치악/full-arch 임플란트 교합 설계는 견치유도·과두관계·하중 분산을 고려.** — Zhang Xueyang 2018(무치악 교합 설계), Bhambhani 2020(총의치 교합 양식). [합의수준] 임플란트 오버덴처에 한해 교합양식별 직접 비교 임상근거가 두 편 추가된다. (a) **교합양식 head-to-head**: Kuriakose 2024(하악 2-임플란트 오버덴처 60명, 3군 각 20명, 6개월)는 교합력·저작효율·OHIP-EDENT 만족 모두 **균형교합(Balanced, 200 N·80%·9.0) > 설측교합(Lingualized) > 단일평면교합(Monoplane)** 순으로 보고 — 균형교합이 기능 결과에서 우월. 단 supplement 단신(CONSORT·검정통계 부재, 군평균이 의심스럽게 깔끔)이라 방향성 근거(narrative-review 등급)로만 읽는다. (b) **하중중심 재배치 설계**: Diao 2026(무치악 5명, 하악 임플란트 각 2개, 무작위 크로스오버 RCT)는 상악 견치를 소구치형으로 개형해 정중접촉을 추가하는 **"집중교합형(centralized occlusal scheme)"**을 제안 — "지지 중심 vs 교합 부하 중심 불일치"를 견치 buttress로 정렬한다. 전통적 양측성 균형교합 대비 교합접촉면적 +21.22%·저작효율 +21.87%(완전 자연치열의 55.13%까지 회복), 만족·발음·심미는 동등, FEA상 지지면이 견치부로 확장. n=5 예비연구라 효과추정은 부정확 — 명제 6의 "하중 분산" 원칙을 무치악 설계 수준에서 구체화하는 가설생성 근거다([[occlusion/kuriakose-2024-occlusal-schemes-implant-supported-overdentures]], [[occlusion/diao-2026-centralized-occlusal-scheme-implant-overdentures-edentulous]]). [근거강함—단, 두 연구 모두 소표본·단기]
-7. **비축방향(nonaxial) 식립 각도 자체가 변연골 소실의 측정 가능한 인자 — 단, 대합치가 임플란트일 때 증폭된다.** Kim 2026(후향 506개, 5.1년)은 CAD 3D 각도(근원심+협설) 측정으로 비축 0.22 vs 축방향 0.10 mm MBL(P<.05)을 보였고, 각도×대합치 상호작용에서 implant-FDP 대합 시 비축 페널티가 최대(Δ0.373 mm) — 명제 5의 implant-vs-implant stress concentration(Schulte)을 임상에서 재현. 선행 음성 결과(Koutouzis 2007 등)는 근원심 2D 각도만 측정한 한계로 재해석된다. 단 절대 MBL이 0.1–0.22 mm로 작아 임상적 유의는 별개. [claude해석] [근거강함—단일 후향연구 P값, 임상 의의 미확정]
+1. **골유착 임플란트는 PDL이 없어 충격흡수·고유감각이 결여 — 과부하 보호의 부담이 전적으로 교합 설계로 넘어온다.** — Stilwell 2024(파절률 ~0.5%). 이 감각 결여는 정량화된다: Singh 2026 SR(임상 6편)은 단일 임플란트의 능동 촉각 감수성(active tactile sensibility) 역치가 10–100 µm로 자연치(<10–50 µm)보다 일관되게 높아(둔감) PDL 기계수용기 소실을 골유착감각(osseoperception)이 부분적으로만 보상함을 보였다 — 임플란트 보철에 더 가벼운 교합접촉을 부여하는 신경생리학적 근거. 단 이 골유착감각은 기능부하와 함께 시간경과로 개선되며 즉시부하·자연치 대합이 회복을 가속한다. [확인]
+2. **임플란트 교합접촉은 부하 후 6-12개월에 걸쳐 변동(대개 인접 자연치 대비 상대 저위교합).** — Mao 2024 SR+MA(단관), Assoratgoon 2025 SR(고정성, 6개월 내). [확인]
+3. **"약교합(light occlusion)"은 상대 교합력을 낮추나(4.91→10.34% vs 정상 10.45→18.15%) 시간이 지나며 유지되지 않고, 교합력은 계속 증가 → 장기 추적 필수.** — Zhang 2022 prospective(n=50, T-Scan III). [확인] The periodic re-check this implies is only as good as the recording method, and the recording method matters: Didier (2026) found that an intraoral-scanner occlusogram (iTero Element 2) agrees poorly with an 8 µm carbon-paper record (Cohen κ 0.07–0.20 across 840 teeth, n=35), with the scanner's red+orange definition overestimating contacts by ~70% while red-only underestimates them, so the digital occlusogram and carbon paper are complementary, not interchangeable — implant occlusal verification should not be established from an IOS scan alone ([[occlusion/didier-2026-occlusal-contacts-ios-vs-carbon-paper-concordance]]). [확인] What the periodic re-check actually records, in implants specifically, is captured by Gözen 2025 (prospective in-vivo, n=18, single posterior implant single crown): seating one posterior implant crown redistributes occlusal force across the **whole arch** — anterior and posterior contact/force drop (posterior reduction > anterior) while opposing-arch and total force rise — confirming that occlusal change after an implant restoration is an arch-level redistribution, not a local event (the in-vivo mechanism beneath Mao 2024's relative-infraocclusion SR+MA). Method-wise, an IOS contact-area reading (Medit i700) and a force-amplitude reading (OccluSense) **correlate strongly** (Kendall's Tau-B, p<0.001), so they track the same trend, but only OccluSense delivers force magnitude — IOS shows *where*, OccluSense shows *how hard* ([[occlusion/gozen-2025-occlusal-force-distribution-digital-analysis-implant-in-vivo]]). [확인—단일 소표본 in-vivo] A ceiling on what occlusal *adjustment* itself buys comes from outside the implant context: Jahanbin 2026 (RCT, n=30, post-orthodontic Class-I extraction, T-Scan III) found a CR-guided occlusal adjustment one month post-debonding produced **no statistically significant** change in T-Scan contact intensity or number vs no-adjustment control at 1 or 6 months — only a non-significant posterior-balance trend, because continued tooth settling erased the immediate effect. The implant translation is indirect (implants don't "settle"), but the principle generalizes to the re-check ladder: when baseline static intercuspation is already acceptable, adjustment yields little measurable gain, and the recording method's *temporal* resolution (catching change over months) matters more than a single adjustment session ([[occlusion/jahanbin-2026-occlusal-adjustment-post-orthodontic-tscan-rct]]). [확인—단, 비임플란트 외삽]
+4. **교합 과부하와 임플란트주위 골소실의 연관은 시사되나 근거 질이 낮다(정량 교합분석 표준화 부재).** — Di Fiore 2022 SR(7편). [미검증] 더 넓은 근거 풀로 본 Mojaver 2025 SR(160→80편, narrative, 메타분석 없음)도 같은 방향을 재확인하면서 수치를 붙인다: 교합인자 변연골소실 ~0.65–1.20 mm, 외상력 시 골수준 변화 1.0–3.0 mm, 임플란트주위염 발생률 20–50%. 핵심 기여는 **dual-pathway 모델** — 기계적 과부하가 단독으로 작용하기보다 biofilm 유발 염증과 **상승작용(synergy)**해 임플란트주위 조직 붕괴를 가속한다는 것(Mattheos: 염증 없는 dog 모델에서는 변연골소실 없이 골유착 상실; Naert/Garaicoa-Pazmiño SR: 골소실은 **염증 부위**에서 두드러짐). 즉 과부하는 독립 원인이라기보다 염증의 **위험증폭 인자(risk modifier)**로 읽는 것이 근거에 부합한다. 단 정의 이질성·짧은 추적·publication bias로 인과는 여전히 미확정 — di-fiore의 보수적 결론을 뒤집지 않고 정량 밴드로 보강한다([[occlusion/mojaver-2025-occlusal-overload-peri-implant-health-sr]]). [미검증]
+5. **교합양식·보철 구성(캔틸레버·tooth-implant 연결·재료·부기능)이 임플란트주위 응력을 좌우한다 — FEA 일관.** — Ambili 2024·Yesilyurt 2021 FEA, Berzaghi 2025 narrative(full-arch 위험요인), Packaeser 2025(교합접촉 양상이 세라믹 크라운 피로). [미검증(임상)]
+6. **무치악/full-arch 임플란트 교합 설계는 견치유도·과두관계·하중 분산을 고려.** — Zhang Xueyang 2018(무치악 교합 설계), Bhambhani 2020(총의치 교합 양식). [확인] 임플란트 오버덴처에 한해 교합양식별 직접 비교 임상근거가 두 편 추가된다. (a) **교합양식 head-to-head**: Kuriakose 2024(하악 2-임플란트 오버덴처 60명, 3군 각 20명, 6개월)는 교합력·저작효율·OHIP-EDENT 만족 모두 **균형교합(Balanced, 200 N·80%·9.0) > 설측교합(Lingualized) > 단일평면교합(Monoplane)** 순으로 보고 — 균형교합이 기능 결과에서 우월. 단 supplement 단신(CONSORT·검정통계 부재, 군평균이 의심스럽게 깔끔)이라 방향성 근거(narrative-review 등급)로만 읽는다. (b) **하중중심 재배치 설계**: Diao 2026(무치악 5명, 하악 임플란트 각 2개, 무작위 크로스오버 RCT)는 상악 견치를 소구치형으로 개형해 정중접촉을 추가하는 **"집중교합형(centralized occlusal scheme)"**을 제안 — "지지 중심 vs 교합 부하 중심 불일치"를 견치 buttress로 정렬한다. 전통적 양측성 균형교합 대비 교합접촉면적 +21.22%·저작효율 +21.87%(완전 자연치열의 55.13%까지 회복), 만족·발음·심미는 동등, FEA상 지지면이 견치부로 확장. n=5 예비연구라 효과추정은 부정확 — 명제 6의 "하중 분산" 원칙을 무치악 설계 수준에서 구체화하는 가설생성 근거다([[occlusion/kuriakose-2024-occlusal-schemes-implant-supported-overdentures]], [[occlusion/diao-2026-centralized-occlusal-scheme-implant-overdentures-edentulous]]). [확인—단, 두 연구 모두 소표본·단기]
+7. **비축방향(nonaxial) 식립 각도 자체가 변연골 소실의 측정 가능한 인자 — 단, 대합치가 임플란트일 때 증폭된다.** Kim 2026(후향 506개, 5.1년)은 CAD 3D 각도(근원심+협설) 측정으로 비축 0.22 vs 축방향 0.10 mm MBL(P<.05)을 보였고, 각도×대합치 상호작용에서 implant-FDP 대합 시 비축 페널티가 최대(Δ0.373 mm) — 명제 5의 implant-vs-implant stress concentration(Schulte)을 임상에서 재현. 선행 음성 결과(Koutouzis 2007 등)는 근원심 2D 각도만 측정한 한계로 재해석된다. 단 절대 MBL이 0.1–0.22 mm로 작아 임상적 유의는 별개. [미검증] [확인—단일 후향연구 P값, 임상 의의 미확정]
 
-8. **실험적(동물·retrieval) 근거는 "통제된 점진적 하중은 임플란트주위 골을 강화하나, 과도·고빈도 하중은 골유착을 저해"라는 용량-의존 곡선을 그린다 — 명제 4(과부하-골소실)의 기초생물학 뒷받침.** 점진적 정적 하중은 BIC를 높이고(개, Podaropoulos 2016, 100→300 g 9주, P=0.018) 과부하 저항력까지 높였다(beagle, Podaropoulos 2020, 성공률 87.5% vs 67.5%). 즉시·지연 기능하중 모두 무하중보다 BIC가 높았으나 둘 사이 차이는 없었다(원숭이, Romanos 2003). 반대로 1일 하중 세션을 2배로 늘리면 BIC가 감소했다(rat, Bueno 2018 — 빈도 dose-response). 인체 retrieval에서는 기능하중 시간이 길수록 BIC·BAFO가 증가하고(Gil 2015, plateau form, 120일–18년) 주위 피질골 탄성계수·경도가 첫 ~5년 상승 후 안정화한다(Baldassarri 2012, 나노압입). → "점진·생리적 하중 = 적응(강화), 급격·고빈도 하중 = 부적응(골유착 저해)"의 mechanostat 해석. [claude해석/동물·retrieval — 인체 임상 외삽 미검증]
+8. **실험적(동물·retrieval) 근거는 "통제된 점진적 하중은 임플란트주위 골을 강화하나, 과도·고빈도 하중은 골유착을 저해"라는 용량-의존 곡선을 그린다 — 명제 4(과부하-골소실)의 기초생물학 뒷받침.** 점진적 정적 하중은 BIC를 높이고(개, Podaropoulos 2016, 100→300 g 9주, P=0.018) 과부하 저항력까지 높였다(beagle, Podaropoulos 2020, 성공률 87.5% vs 67.5%). 즉시·지연 기능하중 모두 무하중보다 BIC가 높았으나 둘 사이 차이는 없었다(원숭이, Romanos 2003). 반대로 1일 하중 세션을 2배로 늘리면 BIC가 감소했다(rat, Bueno 2018 — 빈도 dose-response). 인체 retrieval에서는 기능하중 시간이 길수록 BIC·BAFO가 증가하고(Gil 2015, plateau form, 120일–18년) 주위 피질골 탄성계수·경도가 첫 ~5년 상승 후 안정화한다(Baldassarri 2012, 나노압입). → "점진·생리적 하중 = 적응(강화), 급격·고빈도 하중 = 부적응(골유착 저해)"의 mechanostat 해석. [미검증(동물·retrieval — 인체 임상 외삽)]
 
 ## Results
 
@@ -75,7 +85,7 @@ Synthesis of the occlusion cluster through the implant lens: because an osseoint
 | 과부하-골소실(정량밴드·dual-pathway) | [[occlusion/mojaver-2025-occlusal-overload-peri-implant-health-sr]] | sr (80편, narrative) | MBL 0.65–3.0 mm·임플란트주위염 20–50%; 과부하×biofilm 염증 상승작용(과부하=risk modifier) |
 | 디지털 교합분석·전악 재분배(in-vivo) | [[occlusion/gozen-2025-occlusal-force-distribution-digital-analysis-implant-in-vivo]] | prospective (n=18) | 단일 구치 임플란트 수복이 전악 교합력 재분배(후방↓>전방↓, 대합·전체↑); IOS area vs OccluSense force 강한 상관(p<0.001) |
 | 교합조정 효과 천장(T-Scan, 비임플란트) | [[occlusion/jahanbin-2026-occlusal-adjustment-post-orthodontic-tscan-rct]] | rct (n=30) | 디본딩 후 CR 교합조정 → T-Scan 접촉 강도·개수 유의차 없음(settling이 상쇄); 후방균형 비유의 경향만 |
-| 식립 각도(geometry) | [[implants/kim-2026-implant-angulation-peri-implant-bone]] | retrospective (506개, 5.1y) | 비축 0.22 vs 축 0.10 mm MBL(P<.05); 상악>하악; 각도×implant-FDP 대합 상호작용 Δ0.373 mm |
+| 식립 각도(geometry) | [[implants/peri-implantitis/kim-2026-implant-angulation-peri-implant-bone]] | retrospective (506개, 5.1y) | 비축 0.22 vs 축 0.10 mm MBL(P<.05); 상악>하악; 각도×implant-FDP 대합 상호작용 Δ0.373 mm |
 | 교합양식 FEA | [[occlusion/ambili-2024-parafunctional-loading-stress-tooth-implant-fea]] · [[occlusion/yesilyurt-2021-occlusion-concepts-hybrid-abutment-zirconia-fea]] | in-vitro(FEA) | 지지방식·교합개념이 응력분포 좌우 |
 | 보철 구성 위험 | [[occlusion/berzaghi-2025-occlusion-biomechanical-risk-implant-full-arch-narrative]] | narrative | full-arch 캔틸레버·재료·부기능 위험 |
 | 재료 피로 | [[occlusion/packaeser-2025-core-material-occlusal-contact-fatigue-ceramic-crowns]] | in-vitro | 교합접촉 양상이 세라믹 크라운 피로수명 영향 |
@@ -85,7 +95,7 @@ Synthesis of the occlusion cluster through the implant lens: because an osseoint
 | 실험적 로딩-골반응(점진/정적) | [[occlusion/podaropoulos-2016-bone-reactions-progressive-static-load-dogs]] · [[occlusion/podaropoulos-2020-progressive-static-load-overloading-dogs]] | animal | 점진 정적 하중이 BIC↑·과부하 저항력↑(성공률 87.5 vs 67.5%) |
 | 실험적 로딩-골반응(즉시/지연) | [[occlusion/romanos-2003-bone-implant-interface-loading-conditions-monkey]] | animal | 즉시·지연 하중 모두 무하중보다 BIC↑, 둘 사이 차이 없음 |
 | 하중 빈도 dose-response | [[occlusion/bueno-2018-cyclically-loaded-implants-loading-sessions]] | animal | 1일 세션 2배 → BIC↓ (고빈도 하중 부적응) |
-| 기능하중 시간(인체 retrieval) | [[implants/gil-2015-progressive-plateau-root-form-osseointegration-retrieval]] · [[implants/baldassarri-2012-mechanical-properties-plateau-root-form]] | retrospective | 하중 시간↑ → BIC·BAFO↑; 주위 골 탄성계수·경도 첫 ~5년 상승 후 안정 |
+| 기능하중 시간(인체 retrieval) | [[implants/surface/gil-2015-progressive-plateau-root-form-osseointegration-retrieval]] · [[implants/baldassarri-2012-mechanical-properties-plateau-root-form]] | retrospective | 하중 시간↑ → BIC·BAFO↑; 주위 골 탄성계수·경도 첫 ~5년 상승 후 안정 |
 
 ### 임상 ladder (임플란트 교합)
 
@@ -97,8 +107,8 @@ Synthesis of the occlusion cluster through the implant lens: because an osseoint
 
 ### 오판 패턴
 
-- "임플란트도 자연치처럼 교합 주면 된다" — PDL 부재로 완충·감지 없음. 약교합·분산 설계 필요. [합의수준]
-- "약교합 한 번 주면 과부하 영구 예방" — 시간이 지나며 교합력이 증가해 유지 안 됨(Zhang 2022). 정기 재점검 필수. [근거강함]
+- "임플란트도 자연치처럼 교합 주면 된다" — PDL 부재로 완충·감지 없음. 약교합·분산 설계 필요. [확인]
+- "약교합 한 번 주면 과부하 영구 예방" — 시간이 지나며 교합력이 증가해 유지 안 됨(Zhang 2022). 정기 재점검 필수. [확인]
 - "FEA가 임상 과부하-골소실을 증명" — FEA는 모델 가정; 임상 인과는 미확정(Di Fiore 2022 근거 질 낮음). [미검증]
 
 ## Phase 2 확장 후보 (Stub)
@@ -112,10 +122,10 @@ Synthesis of the occlusion cluster through the implant lens: because an osseoint
 - [[overviews/implants-clinical-decision-ladder]] — 임플란트 임상 결정
 
 확신도 등급:
-- 접촉 변화·약교합 = [근거강함~합의수준](임상)
-- 과부하-골소실 = [합의수준/미검증]
-- FEA 교합양식 = [claude해석](모델), 임상 외삽 [미검증]
-- 무치악 설계 = [합의수준](narrative)
+- 접촉 변화·약교합 = [확인](임상)
+- 과부하-골소실 = [미검증]
+- FEA 교합양식 = [미검증](모델), 임상 외삽 [미검증]
+- 무치악 설계 = [확인](narrative)
 
 ## Related Papers
 
@@ -132,7 +142,7 @@ Synthesis of the occlusion cluster through the implant lens: because an osseoint
 - [[occlusion/sippy-2021-condylar-incisal-guidance-canine-group-function-schemes]] — Clinical/articulator study evaluating how condylar and incisal guidance interact within canine-guided vs group-function occlusal schemes … (cross-sectional, 2021)
 - [[occlusion/velasquez-2022-occlusal-analysis-natural-dentition-sr]] — SR (10 studies) - digital occlusal analysis is more objective than articulating paper (which remains subjective) … (sr, 2022)
 - [[occlusion/singh-2026-active-tactile-sensibility-implant-natural-teeth-sr]] — SR (6편): 단일 임플란트 능동 촉각 역치 10–100 µm > 자연치 <10–50 µm; osseoperception이 기능부하로 점진 회복(즉시부하·자연치 대합 가속) — 약교합 설계의 신경생리 근거(명제 1 보강) (sr, 2026)
-- [[implants/kim-2026-implant-angulation-peri-implant-bone]] — 비축 식립 각도(CAD 3D)와 MBL 상관: 비축 0.22 vs 축 0.10 mm(P<.05), 각도×implant-FDP 대합 상호작용 Δ0.373 mm; 과부하-골소실 축에 geometry 인자 추가 (retrospective, 2026)
+- [[implants/peri-implantitis/kim-2026-implant-angulation-peri-implant-bone]] — 비축 식립 각도(CAD 3D)와 MBL 상관: 비축 0.22 vs 축 0.10 mm(P<.05), 각도×implant-FDP 대합 상호작용 Δ0.373 mm; 과부하-골소실 축에 geometry 인자 추가 (retrospective, 2026)
 - [[occlusion/didier-2026-occlusal-contacts-ios-vs-carbon-paper-concordance]] — Method caveat for the periodic-recheck lever (명제 3·ladder 3): IOS occlusogram (iTero) vs 8 µm carbon paper poor agreement (κ 0.07–0.20, 840 teeth, n=35); scanner red+orange overestimates ~70%, red-only underestimates → complementary not interchangeable, do not establish implant occlusion from IOS alone (cross-sectional, 2026)
 
 ### 실험적 로딩-골반응 축 추가 (2026-06-14)
@@ -141,5 +151,11 @@ Synthesis of the occlusion cluster through the implant lens: because an osseoint
 - [[occlusion/podaropoulos-2020-progressive-static-load-overloading-dogs]] — beagle 40개: 과부하 전 점진 정적 예비하중이 임플란트 성공률을 87.5% vs 67.5%(과부하-only)로 향상 (animal, 2020)
 - [[occlusion/romanos-2003-bone-implant-interface-loading-conditions-monkey]] — Macaca 48개: 즉시·지연 기능하중 모두 무하중보다 BIC↑, 프로토콜 간 차이 없음 (animal, 2003)
 - [[occlusion/bueno-2018-cyclically-loaded-implants-loading-sessions]] — rat 경골: 1일 주기하중 세션 2배 → BIC↓ (하중 빈도 dose-response) (animal, 2018)
-- [[implants/gil-2015-progressive-plateau-root-form-osseointegration-retrieval]] — 인체 retrieval(plateau form, 120일–18년): 기능하중 시간↑ → BIC·BAFO 점진 증가 (retrospective, 2015)
+- [[implants/surface/gil-2015-progressive-plateau-root-form-osseointegration-retrieval]] — 인체 retrieval(plateau form, 120일–18년): 기능하중 시간↑ → BIC·BAFO 점진 증가 (retrospective, 2015)
 - [[implants/baldassarri-2012-mechanical-properties-plateau-root-form]] — 인체 retrieval 나노압입(n=30, 0.3–24년): 주위 피질골 탄성계수·경도 첫 ~5년 상승 후 안정 (retrospective, 2012)
+
+## Evidence Update — Bite Force Temporal Evolution After Posterior Implant Crown Delivery
+
+Zhou 2021 (prospective pilot, T-Scan III, n=32 restorations, 5 timepoints over 6 months) tracked real-time occlusal force evolution after single posterior implant crown placement. Implant bite force approximately doubled from 2 weeks (3.39% of total occlusal force) to 3 months (6.90%, p=0.008), then plateaued through 6 months (7.31%, p=0.900). Implant load remained consistently lower than adjacent natural teeth throughout. Clinical implication: the 2-week occlusal adjustment window captures a transitional state — bone and soft tissue remodeling drive an additional 3-month loading increase before stabilization. Occlusal adjustments made at delivery should anticipate this shift, and follow-up occlusal evaluation at ~3 months is advisable.
+
+- [[occlusion/zhou-2021-digital-occlusal-analysis-posterior-implant]] — T-Scan: implant bite force doubles by 3 months post-delivery then stabilizes; suggests 3-month occlusal re-check protocol.

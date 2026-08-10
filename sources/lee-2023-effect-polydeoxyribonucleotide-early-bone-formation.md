@@ -13,9 +13,21 @@ source_collection: external
 
 [[pdrn/ku-2025-polydeoxyribonucleotide-pdrn-dentistry-narrative-review]]가 narrative로 PDRN의 골재생 효과를 일반화했으나, 본 paper는 즉시식립(immediate implant placement) + lateral bone augmentation이라는 **구체적 임상 시나리오**에서 PDRN을 직접 검증한 in vivo (beagle) study. SNU 그룹의 PDRN 연구 사슬 중 비교적 초기 작품으로 dehiscence defect 모델 + 3D-printed implant라는 두 가지 변수가 추가로 들어가 있어, 이후 [[pdrn/lee-2023-impact-polydeoxyribonucleotide-lateral-sinus-elevation]]과 함께 동일 그룹의 PDRN+graft scaffold protocol을 추적할 수 있다.
 
-## One-line Summary
+## Three-line Summary
 
-Beagle 6마리 dehiscence defect + 3D-printed implant 즉시식립에서 CBCP(collagenated biphasic calcium phosphate)에 PDRN 첨가 시, 2주·6주 시점 new bone area·proportion이 유의하게 증가. BIC·BAFO는 유의차 없음.
+Beagle 6마리 dehiscence defect + 3D-printed implant 즉시식립에서
+
+CBCP(collagenated biphasic calcium phosphate)에 PDRN 첨가 시, 2주·6주
+
+시점 new bone area·proportion이 유의하게 증가. BIC·BAFO는 유의차 없음.
+
+## 세줄요약
+
+Beagle 6마리 dehiscence defect + 3D-printed implant 즉시식립에서
+
+CBCP(collagenated biphasic calcium phosphate)에 PDRN 첨가 시, 2주·6주
+
+시점 new 골 (Bone) area·proportion이 유의하게 증가. BIC·BAFO는 유의차 없음.
 
 ## 1. Document Information
 

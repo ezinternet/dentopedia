@@ -14,17 +14,25 @@ text_filename: yiamwattana-2025-oral-irrigator-vs-floss-orthodontic-sr-ma.txt
 
 ## Why Ingested
 
-SR+MA testing whether an oral irrigator / water flosser (added to toothbrushing) beats dental floss for plaque and bleeding control in fixed-orthodontic patients — directly addresses the floss-vs-device interdental-cleaning question in the highest-risk plaque-retention population. Pairs with [[periodontics/liu-2026-powered-manual-toothbrushes-orthodontic-sr-ma]] (toothbrush type in the same orthodontic-hygiene domain) as the "interdental adjunct" arm of the orthodontic oral-hygiene evidence base.
+SR+MA testing whether an oral irrigator / water flosser (added to toothbrushing) beats dental floss for plaque and bleeding control in fixed-orthodontic patients — directly addresses the floss-vs-device interdental-cleaning question in the highest-risk plaque-retention population. Pairs with [[periodontics/oral-hygiene-instruction/liu-2026-powered-manual-toothbrushes-orthodontic-sr-ma]] (toothbrush type in the same orthodontic-hygiene domain) as the "interdental adjunct" arm of the orthodontic oral-hygiene evidence base.
 
 > Note: **abstract-only** — full text not retrieved (no PMC open access). All numbers below are extracted verbatim from the PubMed abstract.
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (4 studies eligible, 3 meta-analysed) — adding an oral irrigator to toothbrushing did NOT outperform dental floss for plaque-index (SMD −0.88, 95% CI −2.25 to 0.50, p=0.10, I²=98%) or bleeding-index (SMD −0.90, 95% CI −2.78 to 0.98, p=0.35) reduction in fixed-orthodontic patients; very high heterogeneity, weak evidence.
+SR+MA (4 studies eligible, 3 meta-analysed) — adding an oral irrigator to toothbrushing did NOT outperform dental floss for plaque-index (SMD −0.88, 95% CI −2.25 to 0.50, p=0.10, I²=98%) or bleeding-index (SMD −0.90, 95% CI −2.78 to 0.98, p=0.35) reduction in fixed-orthodontic patients;
 
-## 한줄요약
+very high heterogeneity, weak evidence.
 
-SR+MA (적격 4편, 메타분석 3편) — 고정식 교정 환자에서 칫솔질에 구강세정기(oral irrigator)를 추가해도 치실 대비 치태지수(PI SMD −0.88, 95% CI −2.25~0.50, p=0.10, I²=98%)·출혈지수(BI SMD −0.90, 95% CI −2.78~0.98, p=0.35) 감소에서 우월하지 않았다. 이질성이 매우 커 근거가 약하다.
+(incomplete)
+
+## 세줄요약
+
+SR+MA (적격 4편, 메타분석 3편) — 고정식 교정 환자에서 칫솔질에 구강세정기(oral irrigator)를 추가해도 치실 대비 치태지수(PI SMD −0.88, 95% CI −2.25~0.50, p=0.10, I²=98%)·출혈지수(BI SMD −0.90, 95% CI −2.78~0.98, p=0.35) 감소에서 우월하지 않았다.
+
+이질성이 매우 커 근거가 약하다.
+
+(incomplete)
 
 ## 1. Document Information
 
@@ -65,8 +73,8 @@ SR+MA (적격 4편, 메타분석 3편) — 고정식 교정 환자에서 칫솔�
 
 ## 6. Related Work
 
-- [[periodontics/liu-2026-powered-manual-toothbrushes-orthodontic-sr-ma]] — toothbrush-type arm of the same orthodontic oral-hygiene question.
-- [[periodontics/rajwani-2020-manual-toothbrushing-techniques-plaque-gingivitis-sr]] — manual brushing technique evidence (general).
+- [[periodontics/oral-hygiene-instruction/liu-2026-powered-manual-toothbrushes-orthodontic-sr-ma]] — toothbrush-type arm of the same orthodontic oral-hygiene question.
+- [[periodontics/oral-hygiene-instruction/rajwani-2020-manual-toothbrushing-techniques-plaque-gingivitis-sr]] — manual brushing technique evidence (general).
 
 ## 7. Glossary
 

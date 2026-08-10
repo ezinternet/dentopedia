@@ -6,18 +6,26 @@ date: 2018-01-05
 doi: 10.1093/ejo/cjx093
 source: alharbi-2018-miniscrew-failure-rate-orthodontics-sr-ma.md
 category: [orthodontics]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/alharbi-2018-miniscrew-failure-rate-orthodontics-sr-ma.pdf
 pdf_filename: alharbi-2018-miniscrew-failure-rate-orthodontics-sr-ma.pdf
 source_collection: external
 tags: [miniscrew, TAD, anchorage, failure-rate, smoking, gingiva]
 ---
 
-## One-line Summary
-SR+MA (46 studies, ~3,250 miniscrews): overall orthodontic miniscrew failure rate 13.5% (95% CI 11.5–15.9%); only gingival tissue type (keratinized vs mobile mucosa) and smoking were statistically significant risk factors, while diameter, length, design, age, and jaw of insertion had no significant effect.
+## Three-line Summary
+SR + MA (Eur J Orthod 2018, 46 studies — 16 RCTs + 30 prospective cohorts, ~3,250 miniscrews, Cochrane RoB + Newcastle-Ottawa appraisal) estimating the overall failure rate and risk factors for orthodontic miniscrews.
 
-## 한줄요약
-SR+MA (46편, 3,250개 미니스크류): 전체 실패율 13.5%, 각화치은 여부·흡연만 통계적으로 유의한 위험인자이며 직경·길이·나이·악골 위치는 유의한 영향 없음.
+Pooled overall failure rate was 13.5% (95% CI 11.5–15.9%); only gingival tissue type (keratinized vs mobile mucosa) and smoking were statistically significant risk factors, while miniscrew diameter, length, design, patient age, and jaw of insertion had no significant effect.
+
+The 13.5% pooled rate is broadly considered "acceptably low" for routine anchorage use, but high I² heterogeneity warrants caution; placing miniscrews in keratinized gingiva and counseling patients to avoid smoking are the two modifiable risk-reduction strategies supported by this evidence.
+
+## 세줄요약
+SR + MA(Eur J Orthod 2018, 46편 — RCT 16편 + 전향 코호트 30편, 미니스크류 ~3,250개, Cochrane/Newcastle-Ottawa 비뚤림위험 평가): 교정용 미니스크류의 전체 실패율과 위험인자 추정.
+
+전체 실패율 13.5%(95% CI 11.5–15.9%); 각화치은 여부와 흡연만 유의한 위험인자이며, 직경·길이·디자인·나이·악골 삽입 위치는 유의한 영향 없음.
+
+13.5% 실패율은 일상 고정원 사용에서 '허용 가능'한 수준으로 평가되나 높은 I² 이질성에 주의; 각화치은 부위 삽입과 금연 상담이 근거 기반 위험 감소 전략의 핵심.
 
 ## Summary
 A systematic review and meta-analysis of 16 RCTs and 30 prospective cohort studies (~3,250 miniscrews from 41 studies in the pooled analysis) estimating the overall failure rate of orthodontic miniscrews at **13.5% (95% CI 11.5–15.9%)**. The review found that **gingival tissue type** (keratinized vs mobile mucosa) and **smoking** were the only statistically significant risk factors. Diameter, length, design, patient age, and jaw of insertion had minimal effect. High heterogeneity across studies warrants cautious interpretation.

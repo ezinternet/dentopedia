@@ -6,7 +6,7 @@ date: 2024-06-06
 doi: 10.1093/eurheartj/ehae324
 source: patrono-2024-low-dose-aspirin-prevention-atherosclerotic.md
 category: [drug/anticoagulants]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/patrono-2024-low-dose-aspirin-prevention-atherosclerotic.pdf
 pdf_filename: patrono-2024-low-dose-aspirin-prevention-atherosclerotic.pdf
 source_collection: external
@@ -16,13 +16,21 @@ relations:
     target: catella-lawson-2001-cyclooxygenase-inhibitors-aspirin-nejm
 ---
 
-## One-line Summary
+## Three-line Summary
 
-State-of-the-art narrative review of 30 years of low-dose aspirin (75–100 mg/day) evidence: irreversible platelet COX-1 acetylation suppresses thromboxane A2, reducing atherothrombosis (e.g., RR 0.52, NNT 10 in one secondary-prevention dataset) while increasing GI bleeding and lowering colorectal adenoma recurrence.
+State-of-the-art narrative review (European Heart Journal 2024) synthesizing 30 years of low-dose aspirin (75–100 mg/day) evidence covering mechanism, pharmacokinetics, cardiovascular efficacy, safety, and chemoprevention; draws on Antiplatelet Trialists' Collaboration (145 trials) and recent RCTs (ASPREE, ARRIVE, ASCEND).
 
-## 한줄요약
+Irreversible COX-1 Ser-529 acetylation suppresses platelet thromboxane A2 (cumulative ID50 shift 26 mg → ~3 mg with daily dosing); cardiovascular efficacy in one secondary-prevention dataset: RR 0.52, NNT 10; trade-offs include increased GI bleeding and reduced colorectal adenoma recurrence.
 
-저용량 aspirin(75–100 mg/일)에 관한 30년 근거를 통합한 State-of-the-Art 종설로, 혈소판 COX-1의 비가역적 아세틸화가 thromboxane A2를 억제해 죽상혈전증을 줄이고(일부 2차예방 데이터 상대위험비 0.52, NNT 10) 위장관 출혈을 늘리며 대장 선종 재발을 낮춘다.
+For dental surgery: aspirin continuation is supported for secondary-prevention patients (do not interrupt); primary-prevention patients ≥60 y started after 2022 USPSTF guidance should have their aspirin indication clarified, as bleeding-to-benefit ratio is unfavorable in that group.
+
+## 세줄요약
+
+저용량 아스피린(75–100 mg/일)에 관한 30년 근거를 통합한 State-of-the-Art 종설(European Heart Journal 2024): 기전·약동·심혈관 효능·안전성·화학예방 포함; Antiplatelet Trialists' Collaboration(145 RCT)과 ASPREE·ARRIVE·ASCEND 기반.
+
+혈소판 COX-1 Ser-529의 비가역적 아세틸화로 TXA2 억제(매일 투여 시 ID50 26 mg → ~3 mg); 일부 2차예방 데이터 RR 0.52, NNT 10; 위장관 출혈 증가·대장 선종 재발 감소 상충.
+
+치과 수술: 2차예방 환자는 아스피린 지속 지지(중단 불가); 2022 USPSTF 이후 신규 시작 ≥60세 1차예방 환자는 출혈/이득 비율이 불리하므로 처방 근거 재확인 필요.
 
 ## Summary
 
@@ -50,4 +58,4 @@ This European Heart Journal state-of-the-art review by Carlo Patrono revisits th
 
 ## Related Papers
 
-- [[drug/catella-lawson-2001-cyclooxygenase-inhibitors-aspirin-nejm]] — catella-lawson 2001의 NSAID–aspirin COX-1 약력학 상호작용을 저용량 aspirin의 수술 전후 항혈소판 관리 맥락에 적용(applies-to).
+- [[drug/anticoagulants/catella-lawson-2001-cyclooxygenase-inhibitors-aspirin-nejm]] — catella-lawson 2001의 NSAID–aspirin COX-1 약력학 상호작용을 저용량 aspirin의 수술 전후 항혈소판 관리 맥락에 적용(applies-to).

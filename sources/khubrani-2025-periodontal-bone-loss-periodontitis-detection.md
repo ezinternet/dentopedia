@@ -17,13 +17,21 @@ text_filename: khubrani-2025-periodontal-bone-loss-periodontitis-detection.txt
 
 Fills the periodontal-AI gap in the `artificial-intelligence` category — a 30-study SR with a 10-study meta-analysis using the dedicated APPRAISE-AI critical-appraisal tool, giving both performance (sens 87%, spec 76%) and a rigorous evidence-quality verdict (no study reached "very high" quality). Reinforces the "image diagnosis mature, but reporting weak" thesis of [[overviews/ai-dentistry-reviews-2024-2025-synthesis]] and pairs with the caries SR+MA [[artificial-intelligence/abbott-2024-ai-platforms-dental-caries-detection]].
 
-## One-line Summary
+## Three-line Summary
 
-SR (30 studies) + meta-analysis (10 studies) of ML/DL for detecting periodontal bone loss/periodontitis on 2D panoramic and periapical radiographs, appraised with APPRAISE-AI: pooled sensitivity 87% (95% CI 80–93%), specificity 76% (69–81%), accuracy 84% (75–91%); 0 studies reached "very high" quality (only 7/30 "high").
+SR (30 studies) + meta-analysis (10 studies) of ML/DL for detecting periodontal bone loss/periodontitis on 2D panoramic and periapical radiographs, appraised with APPRAISE-AI: pooled sensitivity 87% (95% CI 80–93%), specificity 76% (69–81%), accuracy 84% (75–91%);
 
-## 한줄요약
+0 studies reached "very high" quality (only 7/30 "high").
+
+(incomplete)
+
+## 세줄요약
 
 2D 파노라마·치근단 방사선에서 치주 골소실/치주염을 검출하는 머신러닝·딥러닝의 체계적 문헌고찰(30편)+메타분석(10편), APPRAISE-AI 평가: 통합 민감도 87%, 특이도 76%, 정확도 84%이나 "매우 높은 품질" 연구는 0편(고품질 7/30).
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

@@ -6,18 +6,26 @@ date: 2015-12-22
 doi: 10.1186/s12903-015-0148-x
 source: wong-2015-treatment-outcomes-single-visit-versus.md
 category: [endodontics/irrigation]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/wong-2015-treatment-outcomes-single-visit-versus.pdf
 pdf_filename: wong-2015-treatment-outcomes-single-visit-versus.pdf
 source_collection: external
 tags: []
 ---
 
-## One-line Summary
-RCT (n=220 teeth, 18–45 mo follow-up): single-visit and multiple-visit non-surgical root canal treatment had statistically equivalent success rates (88.9% vs 87.4%, p=0.729) and postoperative pain, but single-visit took ~31 min less chairside time.
+## Three-line Summary
+Parallel-group RCT (University of Hong Kong; n=220 teeth/194 patients; mean follow-up 29.4 ± 9.3 months; 18–45 mo) comparing single-visit vs multiple-visit (calcium hydroxide dressing) primary non-surgical root canal treatment by general dentists using ProTaper Ni-Ti and 5.25% NaOCl.
 
-## 한줄요약
-RCT (220개 치아, 18–45개월 추적): 단일 내원 vs 다회 내원 비외과적 근관치료는 성공률(88.9% vs 87.4%, p=0.729)과 술후 통증에 유의차가 없었고, 단일 내원이 의자시간을 약 31분 단축시켰다.
+Success rates were statistically equivalent (88.9% vs 87.4%, p=0.729); postoperative pain at 7 days and long-term (≥18 months) showed no significant difference; single-visit treatment was 30.9 minutes faster (62.0 vs 92.9 min, p<0.001).
+
+Maxillary location (OR 3.16) and absence of preoperative apical periodontitis (OR 4.35) were independent predictors of success; a near-significant trend toward more early pain after single-visit treatment (p=0.055) is worth noting clinically.
+
+## 세줄요약
+홍콩대 병원 2팀 비교 무작위 대조 임상시험(220개 치아/194명; 평균 추적 29.4개월; 18~45개월) — 단일 내원 vs 다회 내원(수산화칼슘 드레싱 포함) 1차 비외과적 근관치료를 전문의가 아닌 일반치과의가 ProTaper Ni-Ti + 5.25% NaOCl로 시행.
+
+성공률 동등(88.9% vs 87.4%, p=0.729); 7일·장기(18개월 이상) 술후 통증 유의차 없음; 단일 내원이 의자 시간 30.9분 단축(62.0 vs 92.9분, p<0.001).
+
+성공 독립 예측인자: 상악 위치(OR 3.16)·술전 치근단 치주염 없음(OR 4.35); 단일 내원 후 초기 통증 증가 경향(p=0.055, 유의차 미달)은 임상적으로 주의 필요.
 
 ## Summary
 This single-centre, two-operator randomised clinical trial at the University of Hong Kong compared single-visit versus multiple-visit primary non-surgical root canal treatment performed by general dentists. The multiple-visit arm used an inter-appointment intracanal medicament (calcium hydroxide) before obturation; otherwise both arms used identical materials and procedures (rubber dam, ProTaper Ni-Ti rotary instrumentation, 5.25% NaOCl irrigation, core-carrier obturation). Of 256 teeth (228 patients) randomised, 220 teeth (194 patients) were analysed with a mean follow-up of 29.4 ± 9.3 months. The two protocols produced statistically indistinguishable success rates and long-term pain outcomes; the principal practical difference was that single-visit treatment saved roughly half an hour of chairside time per tooth.

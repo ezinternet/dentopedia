@@ -6,18 +6,28 @@ date: 2025-01-01
 doi: 10.1186/s40729-025-00641-7
 source: waltenberger-2025-zirconia-implant-dentistry-guideline.md
 category: [prosthetic-materials]
-confidence: consensus
+evidence_level: consensus
 pdf_path: /Users/oracleneo/llm-wiki/papers/waltenberger-2025-zirconia-implant-dentistry-guideline.pdf
 pdf_filename: waltenberger-2025-zirconia-implant-dentistry-guideline.pdf
 source_collection: external
 tags: [zirconia, guideline, all-ceramic, implant, lithium-disilicate, DGI, DGZMK, S3, monolithic, translucent-zirconia]
 ---
 
-## One-line Summary
-German DGI/DGZMK S3 clinical guideline on implant-supported all-ceramic restorations: for single crowns, lithium disilicate, silicate ceramics, and all zirconia generations are recommended (~96–97% 3-year survival), while only 3Y-TZP has sufficient evidence for short-span FDPs and full-arch; polymer-infiltrated ceramics are not recommended and high-translucency zirconia lacks long-term implant data.
+## Three-line Summary
 
-## 한줄요약
-DGI/DGZMK S3 가이드라인: 단관은 리튬 디실리케이트·모든 세대 지르코니아 권장(3년 생존율 96–97%), 단위 브릿지·전악 수복은 3Y-TZP만 근거 충분; 폴리머 침윤 세라믹 금기, 고투명 지르코니아는 임플란트에서 장기 데이터 부족.
+German DGI/DGZMK S3 clinical guideline (highest AWMF evidence level) on implant-supported all-ceramic restorations, based on systematic literature review + AGREE II/GRADE formal expert consensus, covering single crowns, short-span FDPs, and full-arch restorations.
+
+For single crowns, lithium disilicate, silicate ceramics, and all zirconia generations are recommended (~96–97% 3-year survival); for short-span FDPs and full-arch, only 3Y-TZP zirconia has sufficient evidence; polymer-infiltrated ceramics are explicitly not recommended.
+
+High-translucency zirconia (4Y, 5Y-TZP) has increased esthetics but reduced strength and lacks long-term implant validation — use with caution and patient education.
+
+## 세줄요약
+
+독일 DGI/DGZMK S3 임상 가이드라인(최고 AWMF 근거등급): 임플란트 지지 전도재 수복물(단일 크라운·단위 FPD·전악)에 대해 체계적 문헌고찰 + AGREE II/GRADE 전문가 합의 기반.
+
+단일 크라운: 리튬 디실리케이트·모든 세대 지르코니아 권장(3년 생존율 96–97%); 단위 FPD·전악 수복: 3Y-TZP만 충분한 근거; 폴리머 침윤 세라믹(PICN) 명시적 금기.
+
+고투명 지르코니아(4Y, 5Y-TZP)는 심미성 향상되나 강도 저하·임플란트 장기 데이터 부족 — 주의 사용 및 환자 교육 필수.
 
 ## Summary
 The German S3 clinical guideline (highest evidence level in the German AWMF system) on implant-supported all-ceramic restorations, developed by the German Association of Oral Implantology (DGI) with DGZMK. Based on systematic literature review + formal expert consensus using AGREE II and GRADE. The guideline covers three indication categories: single crowns, short-span FDPs (3–4 units), and full-arch restorations. For **single crowns**, lithium disilicate, silicate ceramics, and all zirconia generations show acceptable ~96–97% 3-year survival. For **FDPs and full-arch**, only 3Y-TZP zirconia has sufficient clinical evidence. Polymer-infiltrated ceramics are explicitly not recommended. Translucent (high-Y) zirconia generations, while more esthetic, lack long-term implant validation.

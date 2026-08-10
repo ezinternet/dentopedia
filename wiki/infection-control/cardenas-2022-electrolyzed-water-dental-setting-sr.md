@@ -6,7 +6,7 @@ date: 2022-12-09
 doi: 10.1186/s12903-022-02528-0
 source: cardenas-2022-electrolyzed-water-dental-setting-sr.md
 category: [infection-control]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 pmid: "36494635"
 pmcid: "PMC9733258"
@@ -18,13 +18,21 @@ relations:
     target: patino-marin-2025-sterilization-disinfection-dental-practices
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review of 63 studies finds electrolyzed water (EW) is an effective broad-spectrum disinfectant for dental surfaces, materials, and waterlines (up to 98.1% microbial kill, comparable to glutaraldehyde), with antiviral activity including against SARS-CoV-2-related viruses, though high risk of bias limits conclusions (35.18% NPQIP "Yes" rate).
+Systematic review (PRISMA 2020; 63 studies — 58 in vitro + 5 RCTs) evaluating electrolyzed water (EW) for microbiologic control across dental surfaces, DUWL, impressions, prostheses, and instruments.
 
-## 한줄요약
+EW achieved up to 98.1% microbial kill in DUWL (sustained ≤6 weeks, comparable to glutaraldehyde) and effectively reduced caries, periodontal, and endodontic pathogens, with antiviral activity against HBV, HIV, HSV-1, and SARS-CoV-2-related viruses.
 
-63개 연구 SR: 전해수(EW)는 치과 표면·DUWL·인상재·보철물에서 광범위 항균·항바이러스 효과(최대 98.1% 살균, 글루타르알데히드 동등), SARS-CoV-2 관련 바이러스에도 효과적이나 전반적 비뚤림 위험 높음(NPQIP Yes율 35.18%).
+High methodological risk of bias limits conclusions: only 35.18% of 756 NPQIP entries answered "Yes," and evidence was too heterogeneous for meta-analysis.
+
+## 세줄요약
+
+체계적 문헌고찰(PRISMA 2020; 63편 — in vitro 58 + RCT 5): 치과 표면·DUWL·인상재·보철물에 대한 전해수(Electrolyzed Water, EW)의 항균 효과 평가.
+
+DUWL에서 최대 98.1% 살균(≤6주 지속, 글루타르알데히드 동등), 우식·치주·근관 병원체 유의 감소, HBV·HIV·HSV-1·SARS-CoV-2 관련 바이러스에도 항바이러스 효과 입증.
+
+방법론적 비뚤림 위험 높음(NPQIP Yes율 35.18%): 연구 이질성으로 메타분석 불가 — 결론에 한계.
 
 ## Summary
 

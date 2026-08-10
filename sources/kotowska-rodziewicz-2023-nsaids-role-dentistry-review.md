@@ -10,8 +10,19 @@ pdf_filename: kotowska-rodziewicz-2023-nsaids-role-dentistry-review.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Narrative review of NSAIDs in dentistry: WHO 1st-line analgesic; used across all dental fields; additional mechanisms (NF-kB, iNOS, oxidative stress); topical NSAIDs emerging as future direction.
+## Three-line Summary
+Narrative review (preclinical + clinical studies) synthesizing the role of NSAIDs across all dental specialties — covering COX-1/2 inhibition plus secondary mechanisms (NF-κB, iNOS, oxidative stress, leukocyte migration) and clinical applications from endodontics to oral oncology.
+
+Ibuprofen 400–600 mg is the most studied first-line agent for post-extraction and pulpitis pain; local antibiotics (minocycline chip, CHX) provide additive benefit for PPD ≥5 mm; topical NSAIDs (benzydamine, diclofenac gel) offer local anti-inflammatory effects while avoiding systemic GI/renal/platelet side effects.
+
+Clinicians must screen for AERD, active GI ulcers, CKD, anticoagulant use, and cardiac medications before prescribing NSAIDs, and topical formulations warrant further clinical exploration as dental adjuncts.
+
+## 세줄요약
+전임상+임상 연구를 종합한 서술적 문헌고찰 — COX-1/2 억제 외에 NF-κB·iNOS·산화 스트레스·백혈구 이동 차단 기전까지 포함하여 근관치료·구강외과·치주·교정 등 전 치과 영역에서의 NSAID 적용을 정리.
+
+이부프로펜 400–600 mg이 발치 후·치수염 통증의 1차 선택제로 가장 많이 연구됨; 탐침 깊이 ≥5 mm 부위에서 국소 항생제 보조 추가 효과 있음; 국소 NSAID(벤지다민, 디클로페낙 젤)는 전신 부작용 없이 항염 효과 기대.
+
+처방 전 AERD·위궤양·만성신장질환·항응고제·심장약 복용 여부 반드시 확인; 치과 영역 국소 NSAID 제제는 향후 임상 연구 필요.
 
 ## 1. Document Information
 - Journal: Medical Science Monitor 29:e940635 (June 2023)

@@ -6,7 +6,7 @@ date: 2013-01-01
 doi: 10.1177/0022034513506713
 journal: JDR Clinical Research Supplement 2013;92(12 Suppl):195S-201S
 source: chappuis-2013-ridge-alterations-post-extraction-esthetic.md
-confidence: prospective
+evidence_level: prospective
 category: [immediate-implant/esthetic-soft-tissue]
 pdf_path: /Users/oracleneo/llm-wiki/papers/chappuis-2013-ridge-alterations-post-extraction-esthetic.pdf
 pdf_filename: chappuis-2013-ridge-alterations-post-extraction-esthetic.pdf
@@ -14,11 +14,21 @@ source_collection: external
 tags: [ridge-resorption, cbct, thin-wall-phenotype, buccal-bone, esthetic-zone, prospective]
 ---
 
-## One-line Summary
-Prospective CBCT 3D study (n=39, 8 weeks) of post-extraction ridge alterations in the maxillary esthetic zone; thin-wall phenotype (≤1mm buccal plate) lost a median 7.5mm of vertical bone vs 1.1mm for thick walls (~3.5× more), with buccal bone thickness the only significant predictor and the central buccal site most affected.
+## Three-line Summary
 
-## 한줄요약
-CBCT 3D (39명, 8주): 얇은 협측벽(≤1mm) 수직소실 중앙값 7.5mm vs 두꺼운 벽 1.1mm; 협측 두께가 유일한 유의 예측인자
+Prospective CBCT 3D study (n=39, 8 weeks post-extraction, JDR 2013) quantifying post-extraction ridge alterations in the maxillary esthetic zone stratified by buccal bone wall thickness.
+
+Thin-wall phenotype (≤1 mm buccal plate) lost a median 7.5 mm of vertical bone vs 1.1 mm for thick walls — a 3.5-fold difference; buccal bone thickness was the only significant predictor; the central buccal site was most severely affected.
+
+Pre-treatment CBCT or intraoral probing to classify buccal wall phenotype is essential before immediate placement; thin-wall sites should be redirected to socket preservation or early placement (Type II/III).
+
+## 세줄요약
+
+전향적 CBCT 3D 연구 (n=39, 발치 후 8주, JDR 2013): 상악 심미부 발치 후 협측 골벽 두께에 따른 치조제 변화를 3D 정량화.
+
+박벽형(≤1 mm) 수직 골소실 중앙값 7.5 mm vs 후벽형 1.1 mm — 3.5배 차이; 협측 두께가 유일한 유의 예측인자; 순측 중앙부(central site)가 가장 심하게 손실.
+
+즉시 식립 전 CBCT·탐침으로 협측벽 두께 평가 필수 — 박벽형은 발치와 보존술 또는 조기 식립(Type II/III)으로 전환 권고.
 
 ## Summary
 39명 전향적 연구에서 상악 심미부 발치 후 8주간 CBCT 3D 분석. **박벽형(≤1mm)에서 수직 골소실 중앙값 7.5mm** vs 후벽형 1.1mm — 3.5배 차이. 순측골 두께가 유일한 유의한 예측인자.

@@ -9,8 +9,21 @@ pdf_filename: catella-lawson-2001-cyclooxygenase-inhibitors-aspirin-nejm.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Pharmacodynamic crossover RCT showing that ibuprofen (but not rofecoxib, diclofenac, or acetaminophen) blocks aspirin's irreversible COX-1 inhibition when taken before aspirin; aspirin-before-ibuprofen preserves antiplatelet effect.
+## Three-line Summary
+
+Pharmacodynamic crossover study in healthy volunteers testing whether concurrent NSAIDs (ibuprofen, rofecoxib, diclofenac, acetaminophen) interfere with low-dose aspirin 81 mg antiplatelet efficacy, assessed via serum thromboxane B2 (TXB2) and platelet aggregation.
+
+Ibuprofen 400 mg taken 2 hours before aspirin significantly blocked aspirin's irreversible COX-1 acetylation (TXB2 inhibition lost, platelet aggregation not suppressed); rofecoxib, diclofenac, and acetaminophen did not interfere; aspirin taken before ibuprofen fully preserved the antiplatelet effect.
+
+In patients on low-dose aspirin for cardiovascular protection, concurrent ibuprofen may abolish the cardioprotective benefit; timing (aspirin first, ibuprofen 2 h later) is the critical clinical variable.
+
+## 세줄요약
+
+건강한 지원자 대상 교차설계 약력학 연구로, 이부프로펜·로페콕시브·디클로페낙·아세트아미노펜이 저용량 아스피린(81 mg)의 항혈소판 효과(혈청 TXB2·혈소판 응집)에 미치는 영향을 평가.
+
+이부프로펜 400 mg을 아스피린 2시간 전에 복용하면 COX-1 불가역적 아세틸화가 차단되어 항혈소판 효과 소실; 로페콕시브·디클로페낙·아세트아미노펜은 간섭 없음; 아스피린을 먼저 복용하면 이부프로펜 후속 복용에도 항혈소판 효과 완전 보존.
+
+심혈관 보호 목적으로 저용량 아스피린을 복용하는 환자에서 이부프로펜 병용이 보호 효과를 소실시킬 수 있으며, 복용 순서(아스피린 선행, 이부프로펜 2시간 후)가 핵심 임상 변수.
 
 ## 1. Document Information
 - **Journal**: New England Journal of Medicine 2001;345:1809–17

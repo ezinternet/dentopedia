@@ -6,7 +6,7 @@ date: 2024-01-06
 doi: 10.1007/s00784-023-05467-4
 source: koay-2024-comparative-effectiveness-denture-adhesives.md
 category: [complete-denture]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/koay-2024-comparative-effectiveness-denture-adhesives.pdf
 pdf_filename: koay-2024-comparative-effectiveness-denture-adhesives.pdf
 source_collection: external
@@ -16,13 +16,21 @@ relations:
     target: shu-2021-systematic-review-meta-analysis-denture-adhesives
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Network meta-analysis of 17 RCTs comparing denture adhesive types finds cream and powder adhesives most effective for mandibular complete denture retention (Kapur's index) and premolar/molar bite force (moderate certainty evidence).
+First network meta-analysis comparing four denture adhesive types (17 RCTs, inception–July 2023, PROSPERO CRD42023451045) across bite force, Kapur's index retention, and OHRQoL in complete denture wearers.
 
-## 한줄요약
+Cream adhesives significantly improved incisal bite force (RR=7.63) and both maxillary and mandibular Kapur's retention; powder adhesives significantly improved premolar/molar bite force (RR=36.00) and mandibular retention (Kapur's RR=1.54); strip and cushion adhesives showed no significant benefit for any outcome (moderate GRADE certainty).
 
-17개 RCT 네트워크 메타분석: 크림 및 파우더 의치접착제가 하악 완전의치 유지력(Kapur 지수) 및 구치부 교합력 향상에 가장 효과적 (중등도 근거).
+Cream adhesives are the most versatile first-line choice for both retention and bite force; magnets lack sufficient evidence, and masticatory performance/OHRQoL were not significantly improved by any type.
+
+## 세줄요약
+
+의치접착제 4가지(크림·파우더·스트립·쿠션)를 비교한 최초의 네트워크 메타분석(17개 RCT, 2023년 7월까지, PROSPERO CRD42023451045) — 교합력·Kapur 유지지수·OHRQoL을 평가하였다.
+
+크림 접착제는 절치부 교합력(RR=7.63)과 상·하악 Kapur 유지력을 유의하게 개선하였고, 파우더 접착제는 구치부 교합력(RR=36.00)과 하악 Kapur 유지력(RR=1.54)을 유의하게 개선하였다; 스트립·쿠션은 모든 주요 결과에서 유의한 효과 없음(중등도 GRADE).
+
+크림 접착제가 유지력·교합력 모두에서 가장 다재다능한 1차 선택이며, 저작능률·OHRQoL은 어떤 접착제 유형도 유의하게 개선하지 못하였다.
 
 ## Summary
 

@@ -12,11 +12,21 @@ source_collection: external
 ## Why Ingested
 Provides mechanistic detail on streptococcal virulence factors and immunomodulatory roles that underpin the polymicrobial ecology model reviewed in [[oral-microbiology/sedghi-2021-oral-microbiome-key-organisms-networks]] and the matrix assembly processes in [[oral-microbiology/jakubovics-2021-dental-plaque-biofilm-matrix]].
 
-## One-line Summary
-Narrative review of the taxonomic diversity, virulence factors, immunomodulatory properties, and systemic disease associations of oral streptococci — positioning them as dual-role pioneer colonisers that maintain oral health and, under specific conditions, drive caries, periodontal disease, and extra-oral infections including infective endocarditis.
+## Three-line Summary
 
-## 한줄요약
-Narrative review: 구강 연쇄구균의 분류·독성 인자·면역조절 역할 총괄 — 구강 건강 유지자 동시에 우식·치주염·감염성 심내막염 촉진자로서의 이중 역할.
+Narrative review (Medical University of Vienna; Frontiers Cell Infect Microbiol 2024) classifying oral streptococci into 8 phylogenetic groups (mitis, sanguinis, anginosus, salivarius, downei, mutans, pyogenic, bovis) and synthesizing their ecology, virulence factors, immunomodulatory properties, and systemic disease associations.
+
+Streptococcus is the dominant genus in supra- and subgingival plaque; 30% of streptococcal isolates downregulate IL-8 in epithelial cells; S. gordonii acts as an "accessory pathogen" enabling P. gingivalis and A. actinomycetemcomitans pathogenicity; AgI/II adhesins mediate biofilm and platelet aggregation; S. mutans CovR regulates cariogenic virulence.
+
+Oral streptococci function as dual-role pioneer colonizers — maintaining homeostasis under health conditions but driving caries, periodontitis, and systemic infections (infective endocarditis, bacteraemia) under dysbiotic conditions; mechanistic data on systemic dissemination pathways remain limited.
+
+## 세줄요약
+
+서술적 리뷰 (Medical Univ Vienna; Front Cell Infect Microbiol 2024): 구강 연쇄구균을 8개 계통군(mitis·sanguinis·anginosus·salivarius·downei·mutans·pyogenic·bovis)으로 분류하고 생태·독성 인자·면역조절·전신 질환 연관성 종합.
+
+Streptococcus는 치상·치하 플라크의 지배 속; 분리 균주의 30%가 상피세포 IL-8 발현 억제; S. gordonii는 P. gingivalis·A. actinomycetemcomitans 병원성 강화 "보조 병원체"; AgI/II 접착소는 생물막·혈소판 응집 매개; S. mutans CovR은 우식원성 독성 조절.
+
+구강 연쇄구균은 건강 시 항상성 유지자, 생태계 이상 시 우식·치주염·감염성 심내막염 등 전신 감염 유발자로서의 이중 역할 — 전신 전파 경로의 기전적 데이터는 여전히 제한적.
 
 ## 1. Document Information
 - Frontiers in Cellular and Infection Microbiology. 2024;14:1357631. Published online 22 February 2024. Open access (CC BY).

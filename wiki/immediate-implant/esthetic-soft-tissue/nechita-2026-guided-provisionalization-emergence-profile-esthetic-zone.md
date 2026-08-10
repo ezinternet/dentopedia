@@ -6,7 +6,7 @@ date: 2026-05-20
 doi: 10.3390/jcm15103945
 source: nechita-2026-guided-provisionalization-emergence-profile-esthetic-zone.md
 category: [immediate-implant/esthetic-soft-tissue]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 full_text: true
 pmid: "42194906"
@@ -24,13 +24,21 @@ relations:
     target: pitman-2022-immediate-implant-provisionalization-sr-ma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective single-arm cohort (n=20 single esthetic-zone implants) of a digitally planned, guide-delivered immediate provisionalization protocol using prefabricated crowns on **non-antirotational 5° Morse taper** implants: provisional retention without major intervention 75%, 1-year marginal bone loss 0.37 mm, buccal contour gain 1.41 mm, complete papilla preserved in 70%, 100% implant survival.
+Retrospective STROBE single-arm cohort (n=20 single esthetic-zone implants, 19F/1M, 35% immediate post-extraction, 90% grafted) using a digitally designed prefabricated screw-retained provisional on a non-antirotational 5° Morse taper implant–abutment connection for emergence-profile shaping.
 
-## 한줄요약
+Provisional retention without major intervention was 75% (15/20); 12-month marginal bone loss 0.37 mm (all <1 mm); buccal contour gain +1.41 mm in all 20 cases; complete papilla preservation in 70%; 100% implant survival and definitive crown delivery.
 
-심미부위 단일 임플란트 20개 후향 단일군 코호트 — 디지털 계획·가이드 전달 즉시 프로비저널라이제이션(무회전방지 5° Morse taper) 결과: 주요 개입 없는 프로비저널 유지율 75%, 1년 변연골소실 0.37 mm, 협측 윤곽 증가 1.41 mm, 완전 유두 보존 70%, 임플란트 생존율 100%.
+The non-antirotational indexless connection allows intraoperative rotational fine-tuning of the prefabricated provisional — a feasibility signal only, with no antirotational control group and contour gain confounded by the 90% grafting rate.
+
+## 세줄요약
+
+STROBE 후향 단일군 코호트 (심미부위 단일 임플란트 20개, 19F/1M, 즉발치와 35%, 이식 90%): 무회전방지(indexless) 5° Morse taper 임플란트에 디지털 설계 미리제작 나사유지형 프로비저널을 즉시 장착하여 emergence profile 성형.
+
+주요 개입 없는 프로비저널 유지율 75%(15/20); 12개월 변연골소실(MBL) 0.37 mm (전례 <1 mm); 협측 윤곽 증가 +1.41 mm (전례 양성); 완전 유두 보존 70%; 임플란트 생존율·최종 보철 달성 100%.
+
+인덱스 없는 연결구는 술 중 회전 미세조정으로 계획된 치경부 윤곽을 실현하는 개념; 회전방지 대조군 없고 윤곽 증가가 90% 이식에 교란되어 비교 우월성 주장 불가 — 가능성 탐색 신호.
 
 ## Summary
 

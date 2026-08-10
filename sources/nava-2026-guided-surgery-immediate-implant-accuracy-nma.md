@@ -14,8 +14,21 @@ source_collection: external
 
 즉시 식립(IIP)에서 computer-assisted surgery 정확도를 정량화한 [[digital-workflow/schiavon-2025-computer-assisted-immediate-implant-accuracy-nma]]를 robotic-assisted system까지 포함해 확장한 network MA. freehand 대비 static/dynamic/robotic guided의 angular·platform·apex 정확도 우위를 재확인하고 [[digital-workflow/chen-2025-robot-assisted-dynamic-navigation-accuracy]]의 robotic navigation 정확도 근거를 IIP 맥락으로 보강(단 전반 certainty LOW).
 
-## One-line Summary
-Univ Michigan SR + network MA (Clin Oral Implants Res 2026, 18연구·780 즉시 임플란트): 즉시 식립(IIP)에서 모든 guided(static/dynamic/robotic)가 freehand보다 angular·platform·apex 정확도 유의 우수. rCAIS·dCAIS 최상위, FH 최하위. 단 전반 certainty LOW.
+## Three-line Summary
+
+Univ Michigan SR + network MA (Clin Oral Implants Res 2026, 18연구·780 즉시 임플란트): 즉시 식립(IIP)에서 모든 guided(static/dynamic/robotic)가 freehand보다 angular·platform·apex 정확도 유의 우수.
+
+rCAIS·dCAIS 최상위, FH 최하위.
+
+단 전반 certainty LOW.
+
+## 세줄요약
+
+Univ Michigan SR + network MA (Clin Oral Implants Res 2026, 18연구·780 즉시 임플란트): 즉시 식립(IIP)에서 모든 guided(static/dynamic/robotic)가 freehand보다 angular·platform·apex 정확도 유의 우수.
+
+rCAIS·dCAIS 최상위, FH 최하위.
+
+단 전반 certainty LOW.
 
 ## 2. Key Contributions
 - *즉시 식립* 한정 guided surgery 정확도 NMA — 기존 NMA는 healed ridge 중심.
@@ -26,7 +39,7 @@ Univ Michigan SR + network MA (Clin Oral Implants Res 2026, 18연구·780 즉시
 PRISMA-NMA, PROSPERO 등록; 4 DB(WoS/MEDLINE/Scopus/Embase) + manual; 18연구(6 RCT, 2 PCS, 7 RCS, 3 Retro), 541환자/780 즉시 임플란트; outcome angular(°)·platform·apex deviation(mm); frequentist weighted mixed-effects NMA(REML, study random intercept, jaw/anterior%/design/RoB 공변량); RoB2/JBI/NOS; CINeMA.
 
 ## 4. Key Results
-[근거강함]
+[확인]
 - FH 대비 angular 감소: rCAIS -3.36°, dCAIS -2.66°, FG-sCAIS -1.85°, HG-sCAIS -1.73° (모두 유의)
 - platform 감소: dCAIS 0.71, rCAIS 0.68, FG-sCAIS 0.54, HG-sCAIS 0.27mm
 - apex 감소: rCAIS 1.43, dCAIS 1.32, HG-sCAIS 1.23, FG-sCAIS 0.81mm

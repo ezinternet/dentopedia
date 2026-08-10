@@ -6,7 +6,7 @@ date: 2025-04-21
 doi: "10.1007/s00784-025-06328-y"
 source: de-la-rosa-gay-2025-expansion-predictability-clear-aligner.md
 category: [orthodontics/clear-aligner]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 full_text: true
 pmid: "40257582"
@@ -20,13 +20,21 @@ relations:
     target: fonseca-planells-2026-clear-aligner-maxillary-expansion-growing
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective cohort (98 adults, 720 tooth pairs, Invisalign SmartTrack) with a first-of-kind multilevel GLMM: mean planned-vs-achieved expansion discrepancy 0.92 mm (72.2% underexpansion); predictability is independently worse in the maxilla (+0.47 mm), in posterior teeth (1st molar +0.45 mm vs canine), with posterior crossbite (bilateral +0.55 mm), and with larger planned expansion (+0.14 mm/mm) — best in the mandible and canine region.
+Retrospective cohort (102→98 adults, 720 tooth pairs; Invisalign SmartTrack Lite/Moderate/Comprehensive; single orthodontist, Barcelona, Nov 2017–Dec 2023) — first study to apply a multilevel GLMM (patient → arch → tooth) to clear aligner expansion predictability, correcting the tooth-as-independent flaw in prior studies.
 
-## 한줄요약
+Mean absolute planned-vs-achieved discrepancy was 0.92 mm (72.2% underexpansion); four factors independently worsened predictability: maxilla (+0.47 mm), bilateral crossbite (+0.55 mm), posterior teeth (1st molar +0.45 mm vs canine), and larger planned expansion (+0.14 mm/mm); the mandibular canine was the most reliable tooth.
 
-후향 코호트(성인 98명·치아쌍 720개, 인비절라인 SmartTrack)에서 다수준 GLMM 분석 결과, 계획 대비 실제 확장의 절대 오차는 평균 0.92 mm(72.2%가 과소확장)였고, 상악(+0.47 mm)·구치부(제1대구치 견치 대비 +0.45 mm)·후방 교차교합(양측 +0.55 mm)·계획확장량이 클수록(+0.14 mm/mm) 예측성이 독립적으로 떨어졌으며, 하악과 견치부에서 가장 신뢰도가 높았다.
+Adults needing >7 mm expansion should be referred for SARPE/MARPE rather than relying on aligner overexpansion; each aligner delivers ~0.25–0.33 mm, so larger plans accumulate larger discrepancies in the maxilla and molar region.
+
+## 세줄요약
+
+후향적 코호트(성인 98명·치아쌍 720개; Invisalign SmartTrack; 단일 교정의·바르셀로나, 2017.11–2023.12) — 투명교정장치(Clear Aligner) 확장 예측성에 다수준 일반화 선형혼합모형(GLMM: 환자→악궁→치아)을 최초 적용.
+
+계획 대비 실제 확장 절대 오차 평균 0.92 mm(72.2% 과소확장); 예측성을 독립적으로 저하시키는 4가지 요인: 상악(+0.47 mm)·양측성 반대교합(+0.55 mm)·구치부(제1대구치 견치 대비 +0.45 mm)·계획확장량 증가(+0.14 mm/mm); 하악 견치에서 신뢰도 최고.
+
+성인에서 7 mm 이상 확장 필요 시 SARPE·MARPE 의뢰 권고; 각 얼라이너 당 ~0.25~0.33 mm 이동이므로 큰 계획일수록 상악·구치부에서 오차 축적.
 
 ## Summary
 

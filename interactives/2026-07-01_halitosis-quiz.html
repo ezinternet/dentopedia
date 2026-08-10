@@ -1,0 +1,187 @@
+<!--
+---
+title: "구취(할리토시스) 자가테스트"
+type: interactive
+date: 2026-07-01
+status: done
+category: perio-maintenance
+agenda: agenda/2026-07-01_halitosis-education.md
+source_wiki:
+  - wiki/overviews/halitosis-etiology-measurement-management-overview.md
+  - wiki/halitosis/silva-2017-estimated-prevalence-halitosis-sr.md
+  - wiki/halitosis/szalai-2023-organoleptic-halitometric-assessments-do-not.md
+  - wiki/halitosis/wang-2024-association-between-halitosis-and.md
+  - wiki/halitosis/dou-2016-halitosis-helicobacter-pylori-meta-analysis.md
+  - wiki/halitosis/huang-2022-efficacy-of-probiotics-in.md
+  - wiki/halitosis/wang-2022-clinical-efficacy-photodynamic-therapy.md
+note: "hygienist-education 스킬 산출 퀴즈. 문항은 위키 근거로 LLM 저작(자동생성 아님) — scripts/build-quiz.py가 스펙(interactives/quiz-specs/halitosis.json)에서 HTML 생성. source_wiki가 도구보다 최신이면 interactive-staleness가 STALE 신호."
+---
+-->
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>구취(할리토시스) 자가테스트</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700;900&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#0e1116; --panel:#161b22; --panel2:#1c232d; --line:#2b333d;
+    --txt:#e6edf3; --dim:#9aa7b4; --ok:#3fb950; --no:#ff5d5d; --accent:#4aa3ff;
+    --chip:#243040;
+  }
+  *{box-sizing:border-box;}
+  body{margin:0;background:var(--bg);color:var(--txt);
+    font-family:'Noto Sans KR',system-ui,sans-serif;line-height:1.55;}
+  .wrap{max-width:760px;margin:0 auto;padding:26px 18px 80px;}
+  h1{font-weight:900;font-size:1.6rem;margin:.2em 0 .1em;}
+  .sub{color:var(--dim);font-size:.92rem;margin-bottom:16px;}
+  .bar{height:8px;background:var(--panel);border-radius:20px;overflow:hidden;margin:14px 0 22px;}
+  .bar > i{display:block;height:100%;width:0;background:var(--accent);transition:width .3s;}
+  .q{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:18px;margin-bottom:16px;}
+  .qn{font-size:.78rem;color:var(--dim);margin-bottom:4px;}
+  .qt{font-weight:700;margin-bottom:12px;}
+  .opt{display:block;width:100%;text-align:left;background:var(--panel2);
+    border:1px solid var(--line);color:var(--txt);border-radius:9px;
+    padding:11px 13px;margin:7px 0;cursor:pointer;font-size:.93rem;
+    font-family:inherit;transition:border-color .15s,background .15s;}
+  .opt:hover:not(:disabled){border-color:var(--accent);}
+  .opt:disabled{cursor:default;}
+  .opt.correct{border-color:var(--ok);background:rgba(63,185,80,.12);}
+  .opt.wrong{border-color:var(--no);background:rgba(255,93,93,.12);}
+  .rat{margin-top:10px;font-size:.86rem;color:var(--dim);
+    border-left:3px solid var(--line);padding:8px 12px;display:none;}
+  .rat.show{display:block;}
+  .rat b{color:var(--txt);}
+  .rat a{color:var(--accent);text-decoration:none;}
+  .score{position:sticky;bottom:0;background:var(--panel);border:1px solid var(--line);
+    border-radius:12px;padding:14px 18px;text-align:center;font-weight:700;margin-top:8px;}
+  .score .big{font-size:1.5rem;color:var(--accent);}
+  .reset{margin-top:12px;background:var(--chip);border:1px solid var(--line);
+    color:var(--txt);border-radius:8px;padding:9px 16px;cursor:pointer;font-family:inherit;}
+  .foot{margin-top:26px;color:var(--dim);font-size:.78rem;text-align:center;}
+  .foot a{color:var(--accent);text-decoration:none;}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>😮‍💨 구취(할리토시스) 자가테스트</h1>
+  <div class="sub">치위생사 교육 · 6문항 · 답을 고르면 정답·해설·근거가 열립니다.</div>
+  <div class="bar"><i id="bar"></i></div>
+  <div id="quiz"></div>
+  <div class="score" id="score">진행: <span id="done">0</span>/6 · 정답 <span class="big" id="pts">0</span></div>
+  <button class="reset" onclick="location.reload()">↻ 다시 풀기</button>
+  <div class="foot">출처: <a href="/dentopedia/overviews/halitosis-etiology-measurement-management-overview" target="_blank">구취 원인·측정·관리 종합 overview</a> · 교육용 요약 — 개별 판단은 위키 원문·원장 확인</div>
+</div>
+<script>
+// 문항 = LLM이 위키 근거로 저작. 스펙: interactives/quiz-specs/halitosis.json
+// cite = 위키 경로(category/stem) → 링크는 /dentopedia/{cite} 로 조립.
+const QUESTIONS = [
+  {
+    "q": "구취(할리토시스) 원인의 대다수(80–90%)는 어디에서 비롯되나?",
+    "opts": [
+      "소화기(위장) 문제",
+      "구강내 — 설태·치주염·구강위생 불량",
+      "이비인후과 문제",
+      "약물 부작용"
+    ],
+    "ans": 1,
+    "rat": "구취의 80–90%는 구강내 원인(특히 설태·치주염). 10–20%만 구강외(이비인후·소화기·약물).",
+    "cite": "overviews/halitosis-etiology-measurement-management-overview"
+  },
+  {
+    "q": "성인 구취의 대략적 유병률은?",
+    "opts": [
+      "약 5%",
+      "약 15%",
+      "약 32%",
+      "약 60%"
+    ],
+    "ans": 2,
+    "rat": "인구기반 SR: 유병률 31.8%(95% CI 24.6–39.0). 흔한 문제.",
+    "cite": "halitosis/silva-2017-estimated-prevalence-halitosis-sr"
+  },
+  {
+    "q": "구취 측정의 임상 기준(gold standard)은?",
+    "opts": [
+      "할리미터(휘발성황화합물 측정기) 수치",
+      "관능검사(코로 맡는 OLT)",
+      "타액 pH",
+      "환자 자가보고"
+    ],
+    "ans": 1,
+    "rat": "관능검사(OLT)가 유일한 임상 기준. 할리미터 등 기기는 OLT와 중등도 상관(r=0.65–0.76)에 불과해 대체 불가.",
+    "cite": "halitosis/szalai-2023-organoleptic-halitometric-assessments-do-not"
+  },
+  {
+    "q": "치주염과 구취의 관계로 옳은 것은?",
+    "opts": [
+      "관련 없음",
+      "구취 위험을 약 4배 높인다",
+      "구취를 낮춘다",
+      "청소년에서만 관련"
+    ],
+    "ans": 1,
+    "rat": "치주염 환자에서 구취 위험 약 4배 증가(OR 4.05–4.52). 치주 평가가 구취 접근의 핵심 축.",
+    "cite": "halitosis/wang-2024-association-between-halitosis-and"
+  },
+  {
+    "q": "구강 관리로 개선되지 않는 지속적 구취에서, 원인 검사로 고려할 수 있는 것은?",
+    "opts": [
+      "헬리코박터 파일로리(H. pylori) 검사",
+      "혈당 검사만",
+      "알레르기 검사",
+      "아무 검사도 불필요"
+    ],
+    "ans": 0,
+    "rat": "H. pylori 감염 시 구취 위험 2.85배, 제균 성공 후 유의 감소(RR 0.17, 약 83%↓). 지속 구취에서 고려.",
+    "cite": "halitosis/dou-2016-halitosis-helicobacter-pylori-meta-analysis"
+  },
+  {
+    "q": "프로바이오틱스의 구취 근거상 위치로 옳은 것은?",
+    "opts": [
+      "단독 표준치료로 충분",
+      "단기(≤4주) VSC 감소는 있으나 근거 일관성 부족 — 보조요법",
+      "효과 전혀 없음",
+      "장기 완치 입증"
+    ],
+    "ans": 1,
+    "rat": "단기 VSC·관능점수 감소는 있으나 4주 후 효과 소실, 일부 메타분석은 비유의(p=0.53). 단독 표준치료 근거는 부족 — 보조요법.",
+    "cite": "halitosis/huang-2022-efficacy-of-probiotics-in"
+  }
+];
+const SITE_BASE="/dentopedia";
+let done=0, pts=0;
+const quiz=document.getElementById('quiz');
+QUESTIONS.forEach((item,i)=>{
+  const card=document.createElement('div'); card.className='q';
+  const cite=`<a href="${SITE_BASE}/${item.cite}" target="_blank">근거 보기 →</a>`;
+  card.innerHTML=`<div class="qn">Q${i+1}</div><div class="qt">${item.q}</div>`;
+  item.opts.forEach((o,j)=>{
+    const b=document.createElement('button'); b.className='opt'; b.textContent=o;
+    b.onclick=()=>answer(card,i,j,b);
+    card.appendChild(b);
+  });
+  const r=document.createElement('div'); r.className='rat';
+  r.innerHTML=`<b>해설.</b> ${item.rat||''} ${cite}`;
+  card.appendChild(r);
+  quiz.appendChild(card);
+});
+function answer(card,i,pick,btn){
+  if(card.dataset.answered) return;
+  card.dataset.answered="1";
+  const item=QUESTIONS[i];
+  card.querySelectorAll('.opt').forEach((b,j)=>{ b.disabled=true;
+    if(j===item.ans) b.classList.add('correct');
+    else if(j===pick) b.classList.add('wrong'); });
+  if(pick===item.ans) pts++;
+  done++;
+  card.querySelector('.rat').classList.add('show');
+  document.getElementById('done').textContent=done;
+  document.getElementById('pts').textContent=pts;
+  document.getElementById('bar').style.width=(done/QUESTIONS.length*100)+'%';
+}
+</script>
+</body>
+</html>

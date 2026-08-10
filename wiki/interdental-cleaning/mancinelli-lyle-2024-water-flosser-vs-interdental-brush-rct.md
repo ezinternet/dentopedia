@@ -6,7 +6,7 @@ date: 2024-07-12
 doi: 10.1111/idh.12817
 source: mancinelli-lyle-2024-water-flosser-vs-interdental-brush-rct.md
 category: [interdental-cleaning]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: true
 pmid: "38997790"
@@ -22,13 +22,21 @@ relations:
     target: yiamwattana-2025-oral-irrigator-vs-floss-orthodontic-sr-ma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-RCT (single-blind parallel, n=78 young adults with moderate gingivitis, ≥4 IDB-accessible interdental spaces/quadrant): water flosser (WF, n=40) vs interdental brush (IDB, n=38) adjunct to manual toothbrushing over 4 weeks — both reduced BOMP/BOPP (p=0.000), but WF was significantly more effective for marginal gingival health (all-sites BOMP p=0.003, BOPP p=0.030; interdental BOMP p=0.019 but interdental BOPP NS p=0.219), with no difference in gingival abrasion.
+Single-blind parallel 4-week RCT (n=78 young adults with moderate gingivitis, ACTA Amsterdam; WF n=40 vs IDB n=38) comparing water flosser (Waterpik) vs interdental brush (Interprox premium nano) as daily adjuncts to manual toothbrushing, measuring marginal (BOMP) and pocket (BOPP) bleeding and gingival abrasion (GAS).
 
-## 한줄요약
+Both devices significantly reduced BOMP and BOPP from baseline (p=0.000); the water flosser outperformed the IDB for marginal gingival health (all-sites BOMP: WF 0.82→0.54 vs IDB 0.95→0.75, between-group p=0.003; interdental BOMP p=0.019), while all-sites BOPP advantage was confounded by a baseline imbalance and interdental BOPP showed no difference (p=0.219); gingival abrasion was equivalent.
 
-RCT(단일맹검 평행, n=78 중등도 치은염 청년, 사분악당 ≥4 치간칫솔 진입공간): 물세정기(WF, n=40) vs 치간칫솔(IDB, n=38)을 수동칫솔질 보조로 4주 비교 — 두 기기 모두 BOMP/BOPP 감소(p=0.000)했으나, WF가 변연치은 건강(전체부위 BOMP p=0.003, BOPP p=0.030; 치간 BOMP p=0.019이나 치간 BOPP는 NS p=0.219)에서 유의하게 더 효과적이었고, 치은마모(GAS)는 군간 차이가 없었다.
+The water flosser is more effective than the IDB for marginal bleeding reduction in moderate gingivitis, but the IDB comparator was a single size only and the study was industry-sponsored, warranting cautious interpretation of the WF-superiority claim.
+
+## 세줄요약
+
+단일맹검 평행 4주 RCT(n=78, 중등도 치은염, ACTA 암스테르담; WF n=40, IDB n=38): 물세정기(Waterpik) vs 치간칫솔(Interprox premium nano)을 수동칫솔질 일일 보조로 비교; 변연출혈지수(BOMP)·포켓출혈지수(BOPP)·치은마모(GAS) 측정.
+
+두 기기 모두 BOMP·BOPP 기저치에서 유의 감소(p=0.000); WF가 변연치은 개선에서 우세(전체부위 BOMP p=0.003; 치간 BOMP p=0.019), 전체부위 BOPP는 기저 불균형으로 혼재되고 치간 BOPP는 차이 없음(p=0.219); 치은마모는 동등.
+
+변연출혈 감소에서 WF가 IDB보다 우세하나, 단일 IDB 크기만 사용하고 산업 후원이 있어 "WF>IDB" 결론 해석에 주의가 필요하다.
 
 ## Summary
 
@@ -75,4 +83,4 @@ Both devices significantly reduced bleeding from baseline. The WF outperformed t
 - [[interdental-cleaning/thomassen-2025-airfloss-essential-oils-vs-floss-rct]] — Thomassen 2025 RCT: another ACTA-style interdental device head-to-head (essential-oil air-floss vs floss) but found **no between-group difference**; this WF-vs-IDB trial does separate the devices (favouring WF on BOMP). Both share the BOMP/GAS outcome framework.
 - [[interdental-cleaning/yiamwattana-2025-oral-irrigator-vs-floss-orthodontic-sr-ma]] — Yiamwattana 2025 SR+MA: oral irrigator (water flosser family) vs floss in orthodontic patients found **NS** (extreme heterogeneity); this single RCT shows a WF advantage over a different comparator (IDB) in non-orthodontic gingivitis — comparators and populations differ.
 - [[interdental-cleaning/carrouel-2026-interdental-brushing-pregnancy-gingivitis-rct]] — Carrouel 2026 RCT: interdental brushing produced a large BOP reduction vs routine care in pregnancy; here the IDB still works but is outperformed by the WF on marginal bleeding.
-- [[periodontics/luo-2026-electric-toothbrush-technologies-plaque-gingivitis-nma]] — Luo 2026 NMA: device-ranking context for mechanical plaque/gingivitis control (toothbrush technologies); complements the interdental-device comparison here.
+- [[periodontics/oral-hygiene-instruction/luo-2026-electric-toothbrush-technologies-plaque-gingivitis-nma]] — Luo 2026 NMA: device-ranking context for mechanical plaque/gingivitis control (toothbrush technologies); complements the interdental-device comparison here.

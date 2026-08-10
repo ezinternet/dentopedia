@@ -3,14 +3,27 @@ title: "Peri-implantitis treatment options and a proposed treatment protocol and
 authors: Inpyo Hong, Ki-Tae Koo, Sang-Yoon Oh, Hwee Woong Park, Ignacio Sanz-Martín, Jae-Kook Cha
 year: 2024
 doi: 10.5051/jpis.2303360168
-category: [implants]
+category: ['implants/peri-implantitis']
 pdf_path: /Users/oracleneo/llm-wiki/papers/hong-2024-peri-implantitis-treatment-protocol-flowchart.pdf
 pdf_filename: hong-2024-peri-implantitis-treatment-protocol-flowchart.pdf
 source_collection: external
 ---
 
-## One-line Summary
-JPIS 2024;54(5):295-308 (Yonsei/SNU): Narrative review proposing peri-implantitis phased treatment protocol — failed vs failing classification → nonsurgical (debridement±antibiotics) → surgical (resective/access/reconstructive by defect morphology) → SPT; flowchart provided.
+## Three-line Summary
+
+JPIS 2024;54(5):295-308 (Yonsei/SNU): Narrative review proposing peri-implantitis phased treatment
+
+protocol — failed vs failing classification → nonsurgical (debridement±antibiotics)
+
+→ surgical (resective/access/reconstructive by defect morphology) → SPT; flowchart provided.
+
+## 세줄요약
+
+JPIS 2024;54(5):295-308 (Yonsei/SNU): Narrative review proposing peri-implantitis phased treatment
+
+protocol — failed vs failing classification → non외과적 (Surgical) (debridement±antibiotics)
+
+→ 외과적 (Surgical) (resective/access/reconstructive by defect morphology) → SPT; flowchart provided.
 
 ## 1. Key Results
 - Peri-implantitis treatment follows phased periodontitis protocol framework

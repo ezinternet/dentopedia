@@ -9,8 +9,21 @@ pdf_filename: assis-2023-acid-etching-universal-adhesive-nccl-sr-ma.pdf
 source_collection: external
 ---
 
-## One-line Summary
-SR+MA of 20 RCTs showing that etch-and-rinse strategy for universal adhesives in NCCLs provides better medium-term (12–36 months) retention, marginal adaptation, and marginal discoloration, while self-etch leads to lower postoperative sensitivity.
+## Three-line Summary
+
+SR+MA (20 RCTs, PROSPERO-registered, databases through December 2021) comparing etch-and-rinse (E&R) vs self-etch (SE) strategies for universal adhesive systems in noncarious cervical lesion (NCCL) restorations.
+
+E&R provided better medium-term (12–36 months) retention, marginal adaptation, marginal discoloration, and lower secondary caries rates vs SE; SE yielded significantly lower postoperative sensitivity — a clinically meaningful trade-off.
+
+For most clinical priorities (retention and marginal quality), E&R is the preferred strategy in NCCLs, but where sensitivity is a primary concern, SE may be chosen at the cost of slightly inferior restoration longevity.
+
+## 세줄요약
+
+SR+MA(20편 RCT, PROSPERO 등록, 2021년 12월까지 PubMed·Scopus·Web of Science·Cochrane) — 비우식성 치경부 병소(Noncarious Cervical Lesion, NCCL) 수복에서 접착제 도포 전 산 부식·세척(etch-and-rinse, E&R) 대비 자가 산부식(self-etch, SE) 전략 비교.
+
+E&R이 중기(12–36개월) 유지율·변연 적합성·변연 착색·이차 우식에서 우위; SE는 술 후 과민증이 유의하게 낮아 임상적으로 중요한 상충 관계가 존재.
+
+대부분의 임상 우선순위(유지율·변연 질)에서 E&R이 선호되나, 민감도가 주요 우려사항인 경우 SE 선택 가능 — 다만 수복 수명 측면의 미세한 열세를 감수해야 함.
 
 ## 1. Document Information
 - **Journal**: Operative Dentistry, 2023; 48(4):373–390

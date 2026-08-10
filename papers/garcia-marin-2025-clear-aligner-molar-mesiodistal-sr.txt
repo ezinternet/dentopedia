@@ -1,0 +1,16 @@
+ABSTRACT ONLY — PMC full text unavailable (empty body)
+
+García-Marín C, Otero-Pregigueiro A, Iglesias-Linares A (2025).
+"Predictability of mesiodistal movement of upper and lower molars with clear aligners: a systematic review."
+Angle Orthod. 95(5):563-571.
+DOI: 10.2319/063024-507.1
+PMID: 40936630
+PMCID: PMC12422387
+
+To analyze and summarize the current scientific evidence regarding the clinical predictability of mesiodistal movements of upper and lower molars in patients treated with clear aligners without auxiliary aid.
+
+This review followed PRISMA guidelines and was registered in PROSPERO (CRD42022357639). Databases were searched up to September 2024. Data extraction was performed independently by two reviewers, risk of bias was assessed using the ROBINS-I tool, and certainty of evidence was evaluated qualitatively using the GRADE tool.
+
+919 articles were identified, and six prospective and retrospective studies met the inclusion criteria, predominantly using the Invisalign system. Upper molar predictability was 61.1 ± 9.1% for movements ranging from 0.45 to 3.2 mm. Lower molar distalization showed lower predictability and molar mesial movement had median predictability rates of 85.6 ± 1.1%. Moderate to serious risk of bias and very low quality of evidence was found.
+
+Upper molar distalization using clear aligners appears to be predictable for distalization from 1.5 to 3.2 mm. Anchorage reinforcement or overcorrection should be considered when planning mesiodistal movements. Standardization of the measurement method is necessary to improve efficacy of these systems.

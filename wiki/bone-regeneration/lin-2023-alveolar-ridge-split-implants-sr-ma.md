@@ -6,7 +6,7 @@ date: 2023-11-20
 doi: 10.1186/s12903-023-03643-2
 source: lin-2023-alveolar-ridge-split-implants-sr-ma.md
 category: [bone-regeneration]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 pmid: "37986181"
 pmcid: "PMC10662563"
@@ -20,13 +20,21 @@ relations:
     target: enislidis-2006-staged-ridge-splitting-implant-mandible
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 25 studies (24 observational + 1 RCT) on the alveolar ridge split (ARS) technique: pooled gained horizontal ridge width 3.348 mm (95%CI 2.533-4.163) and pooled implant survival 98.1% (95%CI 96.9-98.9), establishing ARS as a reliable horizontal augmentation method for narrow alveolar crests.
+PROSPERO-registered SR+MA (25 studies: 24 observational + 1 RCT, 2010–2023) pooling horizontal ridge width gain and implant survival for the alveolar ridge split (ARS) technique in narrow alveolar crests.
 
-## 한줄요약
+Pooled gained horizontal ridge width was 3.348 mm (95%CI 2.533–4.163, 14 studies) and pooled implant survival was 98.1% (95%CI 96.9–98.9, 17 studies), comparable to implants in native bone; buccal-plate fracture was the most frequent intraoperative complication, escalating sharply for ridge width <3 mm.
 
-치조제 분할술(ARS) 25편(관찰 24 + RCT 1) SR+MA: 수평 골폭 증가 3.348 mm(95%CI 2.533-4.163), 임플란트 생존율 98.1%(95%CI 96.9-98.9) — 좁은 치조정의 수평 골증대에 신뢰할 만한 술식.
+ARS yields slightly less width than bone block grafts (~3.63 vs ~4.25 mm) but requires no donor site, allows immediate implant placement, and achieves equivalent survival — supporting it as a first-line option for ridges ≥3 mm wide.
+
+## 세줄요약
+
+좁은 치조제를 대상으로 한 치조제 분할술(Alveolar Ridge Split, ARS) PROSPERO 등록 SR+MA(25편: 관찰 24+RCT 1, 2010–2023년) — 수평 골폭 증가 및 임플란트 생존율 통합.
+
+통합 수평 골폭 증가 3.348 mm(95%CI 2.533-4.163, 14편), 임플란트 생존율 98.1%(95%CI 96.9-98.9, 17편); 자연골 생존율과 동등; 협측 골판 골절이 주요 술중 합병증, 골폭 <3 mm에서 급증.
+
+ARS는 블록이식보다 골폭 증가 약간 적으나(3.63 vs 4.25 mm), 공여부 불필요·즉시 식립 가능·동등 생존율로 골폭 ≥3 mm 증례의 1차 선택지 지지.
 
 ## Summary
 

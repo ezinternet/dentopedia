@@ -17,13 +17,21 @@ text_filename: strauss-2024-wide-emergence-angle-marginal-bone-loss-junctional-e
 
 기존 [[implants/soft-tissue/sanz-martin-2022-buccal-soft-tissue-dehiscence-implants-sr-ma]]와 [[implants/soft-tissue/tavelli-2025-soft-tissue-dehiscences-implant-sites-ao-aap]]는 buccal 연조직 열개·퇴축의 임상 결과를 정리하지만, prosthetic emergence angle이 supracrestal soft-tissue seal과 MBL에 미치는 인과를 조직학적으로 보여주는 근거가 부족했다. 본 6마리 개 preclinical RCT (Strauss 2024)는 20°/40°/60°/80° 4단계 emergence angle을 직접 비교해, ≥60° 광각이 junctional epithelium 연속성을 파괴하고 MBL을 4배 증가시킴을 micro-CT·조직학·synchrotron으로 입증 — convex profile이 mucosal recession을 더 많이 유발한다는 임상 관찰의 조직학적 기전 설명.
 
-## One-line Summary
+## Three-line Summary
 
 Preclinical RCT (6 mongrel dogs, 48 implant sites, 4 emergence-angle groups 20/40/60/80°, 24 wk): wider restorative emergence angle progressively increased marginal bone loss (24-wk MBL ~4× higher at 80° vs 20°) and ≥60° angles impaired junctional-epithelium continuity, supporting keeping the angle <40°.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 전임상 RCT (개 6마리, 임플란트 48부위, emergence angle 20/40/60/80° 4군, 24주): 보철 emergence angle이 넓을수록 변연골소실이 단계적으로 증가했고(80°군 24주 MBL이 20°군의 약 4배), 60° 이상 광각은 접합상피(junctional epithelium) 연속성을 손상시켜 — 각도를 40° 미만으로 유지할 것을 뒷받침.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

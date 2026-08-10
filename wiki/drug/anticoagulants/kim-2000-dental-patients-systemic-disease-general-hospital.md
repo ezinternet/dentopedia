@@ -7,18 +7,26 @@ doi: ""
 journal: "Korean OMFS journal (likely 대한구강악안면외과학회지)"
 source: kim-2000-dental-patients-systemic-disease-general-hospital.md
 category: [drug/anticoagulants]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/kim-2000-dental-patients-systemic-disease-general-hospital.pdf
 pdf_filename: kim-2000-dental-patients-systemic-disease-general-hospital.pdf
 source_collection: external
 tags: [systemic-disease, medical-history, hypertension, diabetes, liver-disease, anticoagulation, warfarin, internal-medicine-consultation, general-hospital-dentistry, retrospective, Korean, OMFS]
 ---
 
-## One-line Summary
-Retrospective chart review (Bundang Jesaeng Hospital OMFS, 1999, n=3,506): 12.2% had documented systemic disease; hypertension most common, followed by diabetes, heart disease, and liver disease; most common dental diagnosis was periodontitis; internal medicine consultation in only 114 of 427 systemic-disease patients; 4 serious complications including 1 death from toxic hepatitis and 1 prolonged bleeding in a warfarin patient.
+## Three-line Summary
+Retrospective chart review (Bundang Jesaeng Hospital OMFS, 1999, n=3,506): 12.2% had a documented systemic disease (hypertension most common, then diabetes, heart disease, liver disease); internal medicine consultation obtained in only 114 of 427 systemic-disease patients.
 
-## 한줄요약
-분당제생병원 OMFS 1년치 차트 후향 분석 (1999, n=3,506): 12.2%가 전신질환 보유; 1순위 고혈압, 이어 당뇨·심장·간질환; 가장 빈번한 치과 진단은 치주염; 내과 협진은 114건에 그침; 중대 합병증 4건 — 간질환 노인 전신마취 발치 후 독성간염으로 사망 1, warfarin 환자 치주치료 후 지속 출혈 1 (술전 응고검사 누락), 술후 감염 2.
+Four serious complications occurred: 1 death from toxic hepatitis after GA-based surgery in a liver-disease patient, 1 prolonged gingival bleeding in a warfarin patient due to missed pre-procedural coagulation screening, and 2 post-operative infections.
+
+This 1999 Korean OMFS historical dataset documents the consultation gap and provides a teaching case set; the anticoagulation guidance is outdated and superseded by modern SR-level evidence recommending non-interruption with local hemostasis.
+
+## 세줄요약
+분당제생병원 OMFS 1999년 1년치 후향 차트 분석(n=3,506): 12.2%가 전신질환 보유(고혈압 1위, 이어 당뇨·심장·간질환); 427명 중 내과 협진은 114건에 그침.
+
+중대 합병증 4건: 간질환 노인 전신마취 후 독성간염 사망 1, warfarin 환자 술전 응고검사 누락으로 지속 출혈 1, 술후 감염 2.
+
+1999년 한국 OMFS 역사적 데이터로 협진 공백과 교훈 사례 제공; 항응고제 관리 지침은 현재 비중단+국소지혈 SR 근거로 대체됨.
 
 ## Summary
 
@@ -30,7 +38,7 @@ The most common systemic disease was **hypertension**, followed by **diabetes**,
 
 The systems-of-care finding worth flagging: of 427 patients with systemic disease, only **114 received internal-medicine consultation** before treatment. The majority were managed with "counselling only" (n=232), medication (80), simple periodontal therapy (42), extraction (23), endodontic therapy (9), and I&D (4) *without* prior medical clearance.
 
-[claude해석] Read against current standards, this is exactly the gap the modern medically-compromised-patient guidelines were written to close — but the data also reflect the practical truth that most "systemic disease" patients with well-controlled stable disease can in fact be safely treated under standard dental protocols, and over-referral creates its own access-to-care problem. The 4 complications occurred specifically where screening was inadequate or surgery was elective in a high-risk patient.
+[미검증] Read against current standards, this is exactly the gap the modern medically-compromised-patient guidelines were written to close — but the data also reflect the practical truth that most "systemic disease" patients with well-controlled stable disease can in fact be safely treated under standard dental protocols, and over-referral creates its own access-to-care problem. The 4 complications occurred specifically where screening was inadequate or surgery was elective in a high-risk patient.
 
 ## Key Contributions
 
@@ -47,11 +55,11 @@ The systems-of-care finding worth flagging: of 427 patients with systemic diseas
 
 Retrospective chart review + structured questionnaire of all dental outpatients at one general-hospital OMFS clinic over a 12-month window (1999). Outcomes: prevalence of systemic disease, dental diagnoses, treatments delivered, internal-medicine consultations, and complications.
 
-[claude해석] The questionnaire-plus-chart design depends on patient self-report at intake for systemic disease that did not appear in the hospital's own EMR. This very likely **underestimates** true prevalence (asymptomatic well-controlled HTN/DM often unreported). The 12.2% should be read as a floor estimate.
+[미검증] The questionnaire-plus-chart design depends on patient self-report at intake for systemic disease that did not appear in the hospital's own EMR. This very likely **underestimates** true prevalence (asymptomatic well-controlled HTN/DM often unreported). The 12.2% should be read as a floor estimate.
 
 ## Results
 
-[근거강함] (single-center retrospective):
+[확인] (single-center retrospective):
 
 | Variable | Value |
 |---|---|
@@ -87,7 +95,7 @@ Retrospective chart review + structured questionnaire of all dental outpatients 
 
 ## Limitations (Critical Reading)
 
-[claude해석]
+[미검증]
 1. **Single-center, 12-month design, n=3,506** — captures one general-hospital OMFS clinic's mix in 1999; not generalizable to private clinic.
 2. **No control group / no relative risk** — cannot tell whether the 4 complications represent excess risk attributable to systemic disease vs background rate.
 3. **Systemic disease definition relies on chart documentation + self-report** — likely undercounts; the 12.2% is a floor.
@@ -100,13 +108,13 @@ Retrospective chart review + structured questionnaire of all dental outpatients 
 
 ## Related Papers
 
-- [[drug/gupta-2022-dental-management-cardiovascular-disease]] — modern review of cardiovascular disease management in dentistry; updates the HTN guidance in this paper.
-- [[drug/inchingolo-2024-anticoagulation-therapy-dental-practice-sr]] — modern SR on anticoagulation in dental practice; **supersedes** the warfarin-interruption practice implied in this paper's complication case.
-- [[drug/moldovan-2023-anticoagulant-oral-surgery-bleeding-sr]] — anticoagulants and oral surgery bleeding SR.
-- [[drug/ghimire-2022-medically-compromised-prosthodontic-patients]] — medically compromised prosthodontic patients.
-- [[drug/ruggiero-2022-aaoms-mronj-position-paper-update]] — MRONJ position paper; addresses the systemic-disease category (antiresorptives) that did not yet exist as a recognized risk in 1999.
-- [[drug/karm-2017-lidocaine-epinephrine-200000-third-molar]] — RCT-level evidence on 1:200,000 epinephrine for hemodynamically vulnerable patients — directly addresses the "minimize epinephrine in HTN/DM" recommendation made here.
-- [[drug/etikala-2019-nsaids-periodontal-implant-therapy-review]] / [[drug/satpathi-2024-corticosteroids-dentistry-review]] — modern systemic-medication management in dentistry.
+- [[drug/anticoagulants/gupta-2022-dental-management-cardiovascular-disease]] — modern review of cardiovascular disease management in dentistry; updates the HTN guidance in this paper.
+- [[drug/anticoagulants/inchingolo-2024-anticoagulation-therapy-dental-practice-sr]] — modern SR on anticoagulation in dental practice; **supersedes** the warfarin-interruption practice implied in this paper's complication case.
+- [[drug/anticoagulants/moldovan-2023-anticoagulant-oral-surgery-bleeding-sr]] — anticoagulants and oral surgery bleeding SR.
+- [[drug/mronj/ghimire-2022-medically-compromised-prosthodontic-patients]] — medically compromised prosthodontic patients.
+- [[drug/mronj/ruggiero-2022-aaoms-mronj-position-paper-update]] — MRONJ position paper; addresses the systemic-disease category (antiresorptives) that did not yet exist as a recognized risk in 1999.
+- [[drug/analgesics/karm-2017-lidocaine-epinephrine-200000-third-molar]] — RCT-level evidence on 1:200,000 epinephrine for hemodynamically vulnerable patients — directly addresses the "minimize epinephrine in HTN/DM" recommendation made here.
+- [[drug/analgesics/etikala-2019-nsaids-periodontal-implant-therapy-review]] / [[drug/analgesics/satpathi-2024-corticosteroids-dentistry-review]] — modern systemic-medication management in dentistry.
 
 ## See Also
 

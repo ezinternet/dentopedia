@@ -6,7 +6,7 @@ date: 2026-02-10
 doi: 10.1016/j.jmbbm.2026.107369
 source: al-fodeh-2026-monolithic-zirconia-inlays-cement-aging.md
 category: [inlay]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/al-fodeh-2026-monolithic-zirconia-inlays-cement-aging.pdf
 pdf_filename: al-fodeh-2026-monolithic-zirconia-inlays-cement-aging.pdf
 source_collection: external
@@ -20,13 +20,21 @@ relations:
     target: kwon-2026-self-adhesive-resin-cement-zirconia
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In-vitro study (n=64 extracted maxillary premolars, MOD inlays): contemporary monolithic zirconia inlays (4Y-TZP Zolid Gen-X vs 3Y/5Y-gradient IPS e.max ZirCAD Prime) achieved clinically acceptable marginal fit regardless of material; RelyX Unicem gave smaller marginal gaps than Panavia F 2.0 (occlusal: 60.5 vs 71.2 μm, P=0.031; proximal: 78.0 vs 89.8 μm, P=0.006), 1.2M-cycle thermomechanical aging significantly widened gaps (occlusal: +16.9 μm, P<0.001), and internal fit (111.95-163.16 μm) was unaffected by any factor.
+In-vitro 3-way factorial study (64 extracted maxillary premolars, MOD inlays; Trios 3 IOS → Ceramill CAD → 5-axis milling; n=8/subgroup) comparing zirconia material (4Y-TZP Zolid Gen-X vs 3Y/5Y-gradient IPS e.max ZirCAD Prime), resin cement (self-adhesive RelyX Unicem vs MDP-based Panavia F 2.0), and thermomechanical aging (24 h vs 1,200,000 cycles) on marginal and internal fit.
 
-## 한줄요약
+Zirconia material had no significant effect on marginal fit (both within 50–120 μm clinical range); cement choice significantly affected marginal gaps (RelyX occlusal 60.5 vs Panavia 71.2 μm, P=0.031; proximal 78.0 vs 89.8 μm, P=0.006), thermomechanical aging widened gaps significantly (+16.9 μm occlusal, P<0.001), and a significant Cement × Aging interaction showed Panavia degraded more under aging (+37.9%) than RelyX (+20.8%); internal fit was unaffected by any factor.
 
-In-vitro 연구 (발거 상악 소구치 64개, MOD 인레이): 최신 단일구조 지르코니아 인레이(4Y-TZP Zolid Gen-X vs 3Y/5Y 그라디언트 IPS e.max ZirCAD Prime)는 재료 종류와 무관하게 임상적으로 허용 가능한 변연 적합도를 보였고, RelyX Unicem이 Panavia F 2.0보다 변연 간격이 작았으며(교합면: 60.5 vs 71.2 μm, P=0.031; 인접면: 78.0 vs 89.8 μm, P=0.006), 120만 회 열기계적 노화는 변연 간격을 유의하게 넓혔으나(교합면: +16.9 μm, P<0.001), 내면 적합도(111.95-163.16 μm)는 어떤 인자에도 영향받지 않았다.
+The clinical implication: when cementing monolithic zirconia MOD inlays, cement selection and long-term aging susceptibility matter more than zirconia generation — self-adhesive RelyX Unicem provides better marginal seal stability than MDP-based Panavia F 2.0.
+
+## 세줄요약
+
+인비트로 3방향 요인설계 (발거 상악 소구치 64개, MOD 인레이; Trios 3 IOS → Ceramill CAD → 5축 밀링; 군당 n=8): 지르코니아 재료(4Y-TZP Zolid Gen-X vs 3Y/5Y 그라디언트 IPS e.max ZirCAD Prime), 레진 시멘트(자가접착 RelyX Unicem vs MDP 기반 Panavia F 2.0), 열기계적 노화(24시간 vs 120만 사이클)가 변연·내면 적합도에 미치는 영향 비교.
+
+지르코니아 재료는 변연 적합도에 유의한 영향 없음(두 재료 모두 50–120 μm 임상 허용 범위 내); 시멘트 종류가 변연 간격에 유의한 영향(RelyX 교합면 60.5 vs Panavia 71.2 μm, P=0.031; 인접면 78.0 vs 89.8 μm, P=0.006), 열기계적 노화로 변연 간격 유의하게 증가(교합면 +16.9 μm, P<0.001), Cement × Aging 상호작용 유의(Panavia 노화 후 변연간격 +37.9% vs RelyX +20.8%); 내면 적합도는 어떤 인자에도 영향 없음.
+
+임상적 시사점: 단일구조 지르코니아 MOD 인레이 합착 시, 지르코니아 세대보다 시멘트 선택과 장기 노화 저항성이 더 중요하며 — 자가접착 RelyX Unicem이 MDP 기반 Panavia F 2.0보다 변연 밀폐 안정성 우수.
 
 ## Summary
 

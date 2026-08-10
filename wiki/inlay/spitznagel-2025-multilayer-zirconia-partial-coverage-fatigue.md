@@ -6,7 +6,7 @@ date: 2025-12-03
 doi: 10.1111/jerd.70066
 source: spitznagel-2025-multilayer-zirconia-partial-coverage-fatigue.md
 category: [inlay]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: true
 pmid: "41334980"
@@ -22,11 +22,21 @@ relations:
     target: cesar-2024-dental-zirconia-15years-material-processing
 ---
 
-## One-line Summary
-In-vitro fatigue + load-to-failure study (n=72, IPS e.max ZirCAD Prime Esthetic 4Y/5Y composition-gradient multilayer zirconia molar restorations): all survived 1.2M-cycle fatigue (97.2% crack-free); at 0.5 mm ultrathin, partial-coverage restorations far outperformed crowns (2047 vs 695 N, p<0.001), equal at 1.0 mm, crowns superior at 1.5 mm (3503 vs 2777 N, p=0.005); crowns need ≥1.0 mm.
+## Three-line Summary
 
-## 한줄요약
-multilayer zirconia 어금니 수복물 in-vitro 피로·파절하중 연구(n=72) — 0.5 mm 초박형에서는 부분피개(PCR)가 크라운보다 파절하중 압도(2047 vs 695 N), 1.0 mm 동등, 1.5 mm 크라운 우위(3503 vs 2777 N). 크라운은 최소 1.0 mm 필요.
+In-vitro fatigue and load-to-failure study (n=72, 6 groups) of IPS e.max ZirCAD Prime Esthetic composition-gradient multilayer zirconia (4Y/5Y-PSZ) molar restorations comparing partial-coverage restorations (PCRs) vs full crowns at three ceramic thicknesses (0.5/1.0/1.5 mm occlusal), adhesively cemented to dentin-analogue resin dies, aged with 1.2M fatigue cycles.
+
+All specimens survived fatigue (97.2% crack-free); at 0.5 mm PCRs dramatically outperformed crowns (2047 vs 695 N, p<0.001); at 1.0 mm both were equal (2018 vs 1957 N, p=0.63); at 1.5 mm crowns were superior (3503 vs 2777 N, p=0.005).
+
+PCRs are mechanically viable at all tested thicknesses including ultrathin 0.5 mm; full crowns require ≥1.0 mm of ceramic — the 0.5 mm crown's mean failure load of 695 N approaches the parafunctional load ceiling.
+
+## 세줄요약
+
+IPS e.max ZirCAD Prime Esthetic 조성구배 다층 지르코니아(4Y/5Y-PSZ) 어금니 수복물(PCR vs 크라운, n=72)의 in-vitro 피로+파절하중 연구 — 세 가지 두께(0.5/1.0/1.5 mm 교합면) × 2 디자인 × n=12, 레진다이에 접착, 1.2M 사이클 피로 후 파절.
+
+전 시편 피로 생존(크랙 없음 97.2%); 0.5 mm에서 부분피개(Partial Coverage Restoration, PCR)가 크라운 압도(2047 vs 695 N, p<0.001); 1.0 mm 동등(p=0.63); 1.5 mm 크라운 우위(3503 vs 2777 N, p=0.005).
+
+PCR은 0.5 mm 초박형 포함 모든 두께에서 역학적으로 적합; 크라운은 최소 1.0 mm 이상 필요 — 0.5 mm 크라운 파절하중(695 N)이 기능이상 교합력 한계에 근접.
 
 ## Summary
 

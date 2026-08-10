@@ -1,0 +1,14 @@
+EFFICACY AND RELIABILITY OF SINGLE TOOTH ANESTHESIA (STA) FOR SURGICAL REMOVAL OF IMPACTED WISDOM TEETH: A COMPARATIVE STUDY.
+Ramanathan M, Ramanuj S, Ponvel K. J Maxillofac Oral Surg. 2024;23(1):88-96. doi:10.1007/s12663-023-02017-z. PMID 38312977. PMCID PMC10831014. (Epub 2023-10-14)
+
+[ABSTRACT-ONLY — full text not retrieved from PMC]
+
+Background: Single tooth anesthesia via intra-ligamentary injections has long been used to provide localized pain control with minimal discomfort while avoiding undesirable effects like lip numbness, mainly in pediatric population with definite success. In this study, we aimed to assess the efficacy of single tooth anesthesia (STA) via intra-ligamentary injections using WANDSTA in the surgical removal of impacted third molar.
+
+Methods: Sixty patients were randomly divided into two groups of 30 each where Group I (study group) received local anesthesia via STA system with 4% articaine and Group II (control group) received conventional injection, that is, inferior alveolar nerve block (IANB), with 4% articaine. Assessment of the effectiveness of the anesthesia was made by noting the onset of action, failure of anesthesia, intra-operative pain and necessity for additional injection. Additional effects such as lip numbness were also noted. Patients were evaluated for pain and discomfort after 24 h.
+
+Results: The difference between the mean time for onset of action for STA injections and conventional block and the mean difference in the onset of action between both groups was 2.2 (± 0.25) minutes which was statistically significant (p<0.05). Statistically significant difference in VAS score was noted only during tooth elevation with Group I reporting higher VAS score than Group II. Additional blocks were indicated in 6.7% for lingual block and 50% for long buccal nerve block in Group I and repetition of long buccal nerve block was indicated in 23.3% patients in group II. Postoperative pain and trismus was found to be higher in Group II.
+
+Conclusions: In spite of some limits in the extent of anesthesia achieved, WANDSTA was seen to be able to achieve adequate anesthesia for surgical removal of impacted third molar and is a viable alternative, particularly in patients where blocks are contraindicated due to systemic conditions.
+
+Keywords: Computer controlled syringes, Impaction, Intra-ligamentary, Local anaesthesia, Mandibular third molar, Pain, Single tooth anaesthesia (STA)

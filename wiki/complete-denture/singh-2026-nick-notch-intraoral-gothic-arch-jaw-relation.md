@@ -6,7 +6,7 @@ date: 2026-01-01
 doi: 10.6026/973206300222521
 source: singh-2026-nick-notch-intraoral-gothic-arch-jaw-relation.md
 category: [complete-denture]
-confidence: prospective
+evidence_level: prospective
 source_collection: pubmed-text
 full_text: true
 pmid: "42282410"
@@ -22,13 +22,21 @@ relations:
     target: kwak-2024-masticatory-positioning-occlusal-stability-full-mouth
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Within-subject clinical comparative study (n=20 edentulous, 45-60 y) using split-cast verification on a semi-adjustable articulator: Nick and Notch wax registration gave the lowest jaw-relation discrepancy (centric 0.15 mm, protrusive 0.23 mm), intraoral Gothic arch tracing intermediate (0.42 / 0.51 mm), extraoral Gothic arch tracing the highest (0.74 / 0.86 mm); all pairwise differences significant (p<0.001).
+Within-subject clinical comparative study (n=20 fully edentulous patients, 45–60 y) comparing three jaw-relation recording methods (Nick and Notch, intraoral Gothic arch, extraoral Gothic arch) verified by split-cast mounting on a semi-adjustable articulator.
 
-## 한줄요약
+Nick and Notch produced the smallest discrepancy (centric 0.15 mm, protrusive 0.23 mm), intraoral Gothic arch was intermediate (0.42 / 0.51 mm), and extraoral Gothic arch was highest (0.74 / 0.86 mm); all pairwise differences were significant (p<0.001), and protrusive error exceeded centric error for all three methods.
 
-무치악 환자 20명(45-60세) 자가대조 임상비교연구. 반조절성 교합기 split-cast 검증에서 nick-and-notch 왁스 기록이 악간관계 오차가 가장 작고(중심위 0.15 mm·전방위 0.23 mm), 구내 고딕아치 추적이 중간(0.42/0.51 mm), 구외 고딕아치 추적이 가장 컸다(0.74/0.86 mm). 모든 쌍별 차이 유의(p<0.001)이며 전방위 오차가 중심위보다 일관되게 큼.
+Nick and Notch is the most consistent method for patients with adequate neuromuscular control, but Gothic arch tracing retains a role when habitual protrusive closure, impaired neuromuscular cooperation, or severe ridge resorption is present.
+
+## 세줄요약
+
+무치악 환자 20명(45–60세) 자가대조 임상연구 — nick-and-notch 왁스 기록, 구내 고딕아치 추적, 구외 고딕아치 추적을 반조절성 교합기 split-cast 검증으로 비교.
+
+오차 위계: nick-and-notch(중심위 0.15 mm, 전방위 0.23 mm) < 구내 고딕아치(0.42/0.51 mm) < 구외 고딕아치(0.74/0.86 mm). 모든 쌍별 차이 유의(p<0.001), 전방위 오차가 중심위보다 일관되게 큼.
+
+신경근육 협조 양호한 환자는 nick-and-notch가 최선; 습관적 전방 폐합·구외 고딕아치 오차는 임상적으로 감지 가능(0.74–0.86 mm)하여 교합 조정 필요.
 
 ## Summary
 

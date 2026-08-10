@@ -6,7 +6,7 @@ date: 2022-05-21
 doi: 10.1155/2022/2603287
 source: kocak-oztug-2022-analysis-of-biomarkers-and.md
 category: [implants]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/kocak-oztug-2022-analysis-of-biomarkers-and.pdf
 pdf_filename: kocak-oztug-2022-analysis-of-biomarkers-and.pdf
 source_collection: external
@@ -16,13 +16,21 @@ relations:
     target: strietzel-2015-platform-switching-mbl-sr-ma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Split-mouth RCT (94 implants, 27 subjects, 12 mo): platform-switched implants had less MBL (0.51 ± 0.31 mm vs 0.75 ± 0.29 mm, p<0.001) plus lower RANKL/OPG ratio and MCP-1 than nonplatform-switched implants.
+Patient-blinded split-mouth RCT (94 implants, 27 subjects, 12 months) comparing platform-switched (PS, 0.3 mm inset) versus nonplatform-switched (NPS) configurations of identical Camlog implants placed at crestal level.
 
-## 한줄요약
+PS implants showed significantly less MBL (0.51 ± 0.31 mm vs 0.75 ± 0.29 mm, p<0.001) and favorable peri-implant crevicular fluid biomarker profiles — lower RANKL/OPG ratio at T1 and lower MCP-1 at T2 (both p<0.05) — while clinical peri-implant health parameters were similar between groups.
 
-분할구강 RCT(임플란트 94개, 환자 27명, 12개월): 플랫폼스위칭군이 변연골소실이 적고(0.51 vs 0.75 mm, p<0.001) RANKL/OPG 비·MCP-1도 낮음.
+This RCT provides primary-level evidence and a candidate mechanistic explanation (reduced osteoclastogenic signaling) for the platform-switching bone preservation benefit established at the SR+MA level, supplying a subclinical/molecular layer beneath the MBL finding.
+
+## 세줄요약
+
+환자 맹검 분할구 무작위대조시험 (Split-mouth RCT, n=94 임플란트, 27명, 12개월): 동일 Camlog 임플란트에 연결부 위치만 다른 플랫폼스위칭 (Platform Switching, PS, 0.3 mm 내입) vs 비플랫폼스위칭 (Non-Platform Switching, NPS) 비교.
+
+PS군 변연골 소실 (Marginal Bone Loss, MBL) 유의하게 적음(0.51 vs 0.75 mm, p<0.001); 임플란트 주위 열구액 (Peri-Implant Crevicular Fluid, PICF)에서 RANKL/OPG 비율(T1)과 MCP-1(T2) 모두 PS에서 낮음(p<0.05); 임상 치주 지표는 양 군 동등.
+
+Strietzel 2015 SR+MA의 플랫폼스위칭 골보존 효과를 RCT+생화학 바이오마커로 보강: 골흡수 신호전달 억제(RANKL/OPG↓)가 후보 기전.
 
 ## Summary
 
@@ -47,4 +55,4 @@ Balanced permuted-block randomization (randomizer.org) in a split-mouth design; 
 
 ## Related Papers
 
-- [[implants/strietzel-2015-platform-switching-mbl-sr-ma]] — SR+MA의 플랫폼스위칭 골보존 효과를 RCT+바이오마커 근거로 보강(reinforce).
+- [[implants/mbl/strietzel-2015-platform-switching-mbl-sr-ma]] — SR+MA의 플랫폼스위칭 골보존 효과를 RCT+바이오마커 근거로 보강(reinforce).

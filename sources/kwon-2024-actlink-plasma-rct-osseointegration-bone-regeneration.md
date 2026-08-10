@@ -13,13 +13,21 @@ source_collection: external
 
 플라즈마 배치 2차(2026-05-31)의 **사람 RCT 근거**이자, 결과가 혼재(mixed)한 균형추. [[wiki/implants/surface/plasma/stacchi-2025-vacuum-plasma-early-implant-stability-rct]]가 ISQ 후기 이득을 보인 반면, 이 RCT는 안정성 차이는 없고 변연골 변화만 유의 — 사람 근거 내부의 불일치를 보여줘 [[wiki/overviews/plasma-surface-treatment-dental-implants]]의 임상결론 신중화에 필요.
 
-## One-line Summary
+## Three-line Summary
 
-Prospective RCT (28 patients, SLA vs SLA+plasma before placement): no significant difference in buccal bone defects or implant stability between groups, but the plasma group showed significantly greater marginal bone changes on mesial/distal sides — interpreted by authors as potential to enhance peri-implant bone regeneration.
+Prospective RCT (28 patients, recall at 1 and 3 months, second-stage at 4 months) comparing SLA implants with vs. without chairside ACTLINK plasma treatment before insertion.
 
-## 한줄요약
+No significant difference was found in buccal bone defects or implant stability between groups, but the plasma group showed significantly greater marginal bone changes on mesial and distal sides, which the authors interpreted as enhanced peri-implant bone regeneration.
 
-전향적 RCT(환자 28명, SLA vs 식립 전 SLA+플라즈마): 협측 골결손·임플란트 안정성은 군간 차이 없었으나, 플라즈마군이 근심·원심 변연골 변화가 유의하게 컸다 — 저자는 임플란트 주위 골재생 촉진 가능성으로 해석.
+This small trial (28 patients, short follow-up) suggests plasma may influence marginal bone dynamics but not primary stability; longer-term confirmation in larger cohorts is required before clinical adoption.
+
+## 세줄요약
+
+전향적 RCT(환자 28명, 1·3개월 리콜, 4개월 2차 수술): SLA 임플란트와 식립 전 ACTLINK 플라즈마 처리 SLA 임플란트를 비교.
+
+협측 골결손 및 임플란트 안정성(ISQ)은 두 군 간 유의차 없었으나, 플라즈마군에서 근심·원심 변연골 변화가 유의하게 더 커 저자는 임플란트 주위 골재생 촉진 가능성으로 해석했다.
+
+소규모(28명)·단기 추적의 한계로 1차 안정성 효과는 입증 안 됨; 변연골 신호의 임상적 의미는 대규모·장기 연구로 확인이 필요하다.
 
 ## 1. Document Information
 
@@ -37,6 +45,7 @@ Prospective RCT (28 patients, SLA vs SLA+plasma before placement): no significan
 
 - 28 patients randomized to SLA (control) or SLA/plasma. Recall at 1 and 3 months; second-stage surgery at 4 months.
 - Outcomes: buccal bone defects, implant stability, marginal bone change (periapical radiographs).
+- **Device parameters (added 2026-08-10, re-checked PDF for a user question on vacuum-plasma treatment times):** ACTILINK system (Plasmapp Co., Ltd., Daejeon). Implant mounted on fixture-driver holder, electrically grounded; tube lowers to seal out ambient air; vacuum <10 torr formed by pumping; ~3 kV supplied to power electrode → DBD plasma discharge on implant surface; residual impurities then removed by further pumping. **"This process takes about 1 min"** (paper's own wording) for the full vacuum+discharge+pump-out cycle. No external gas.
 
 ## 4. Key Results and Benchmarks
 
@@ -58,4 +67,4 @@ Prospective RCT (28 patients, SLA vs SLA+plasma before placement): no significan
 ## 7. Glossary
 
 - SLA = sand-blasted, large-grit, acid-etched. Marginal bone change = 변연골 변화.
-- ACTLINK = 상용 플라즈마 표면처리 장비.
+- ACTLINK/ACTILINK = Plasmapp사(社)의 체어사이드 진공 플라즈마 장비 계열(전체 표기 "ACTILINK"), DBD 방식, 사이클당 약 1분.

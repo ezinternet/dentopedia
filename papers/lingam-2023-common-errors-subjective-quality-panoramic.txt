@@ -1,0 +1,84 @@
+Assessment of Common Errors and Subjective Quality of Digital Panoramic Radiographs in Dental Institution, Riyadh
+Lingam AS, Koppolu P, Abdulsalam R, Reddy RL, Anwarullah A, Koppolu D.
+Annals of African Medicine. 2023;22(1):49-54.
+DOI: 10.4103/aam.aam_213_21
+PMID: 36695222  PMCID: PMC10064895
+Source: PubMed Central full text (get_full_text_article)
+
+=== ABSTRACT ===
+Aim: The study aims to determine the frequency of positioning errors, record the number of diagnostically inappropriate images, and assess the quality of panoramic radiographs.
+Materials and Methods: In this study, a total of 2629 patients for whom orthopantomogram were selected out of 3900 new patients between August 2020 and June 2021. The positioning errors of the radiographs were evaluated and categorized into ten groups. The quality of the radiographs is further assessed as "Excellent," "Diagnostically Acceptable," and "Diagnostically Unacceptable."
+Results: Out of the total radiographs, 32.8% had no errors, and 77.2% of the radiographs had one or more positioning errors. The most common positioning error observed in the radiograph was error 8, failure to place the tongue close to the palate.
+Conclusion: The results and evaluation inferred that attention to patient positioning and focusing on reducing diagnostically indecent images could improve the quality of panoramic radiographs. Proper instructions to the patient, patient preparation, appropriate positioning of the patient, and the technician's skill plays a vital role in reducing diagnostic errors in Panoramic Radiography.
+
+=== INTRODUCTION ===
+In dentistry, the panoramic radiograph is one of the valuable tools in diagnosing various dental and oral problems and is essential to design treatment plans. Achieving a high-quality image without errors with the least level of radiation exposure is most important. Low-quality radiographs often lead to misinterpretation, incorrect diagnosis and treatment. Diagnostically unacceptable images lead to supplementary images causing increased radiation risk. Low-quality images arise from technician errors in patient positioning or processing. Before panoramic radiography, patients must remove accessories such as glasses, jewelry, hairpins, dentures, removable appliances. Radiopaque spots (reflections of structures) are possible in panoramic radiography. Horizontal/vertical magnification discrepancies and distortion arise mainly from improper positioning. Digital imaging eliminates processing errors, shifting focus to positioning errors.
+
+=== MATERIALS AND METHODS ===
+2629 patients had orthopantomogram taken, out of 3900 new patients, between August 2020 and June 2021. Imaging performed with digital panoramic Orthophos XG system (Sirona), exposure parameters per manufacturer instruction. All projections digital, by two technicians with same training and 8 years experience. Patients of all ages including pediatric (5-12 years) and elderly (>60 years). Ethical clearance obtained.
+Exclusion: developmental abnormality, maxillofacial fracture, orthognathic surgery, tumors/cysts.
+All radiographs analyzed for positioning errors by two radiology specialists (>15 years experience). Images evaluated on monitor, frequency of critical errors recorded. Three-point quality scale consistent with National Radiological Protection Board (NRPB). Interobserver reliability tested by reassessment of random images after one month. Descriptive statistics, IBM SPSS v25.0. Frequency test for analysis. Repeatability assessed by kappa (K) statistic.
+
+=== TABLE 1: LIST OF COMMON ERRORS ===
+Error 1: Both arches anterior tooth out of focus, narrow, blurred, spine superimposed over ramus; patient positioned too FORWARD relative to image layer.
+Error 2: Both arches anterior teeth out of focus, appear BROAD, blurred, excessive ghosting of mandibular spine; patient positioned too far BACK relative to image layer.
+Error 3: Head tilted DOWNWARD (chin back, forehead front) - condyles cut off, lower root apices blurring, hyoid bone shadow on anterior mandible, "V"-shaped mandible, "gazebo" effect (spine forms arch).
+Error 4: Head tilted UPWARD (chin forward, forehead back) - upper incisors blur, hard palate superimposed on roots, flat occlusal plane, broad flat mandible, condyles at edge of film.
+Error 5: Midline asymmetry from twisted head. Mandible appears larger/wider on one side of teeth and ramus vs other.
+Error 6: Head tilted/tipped in machine - image tilted; one angle of mandible higher than other, condyles unequal height.
+Error 7: Ghost of the spinal column due to slumping - white tapered opacity in middle of image ("Washington Monument" shape).
+Error 8: Dark shadow in maxilla below palate - tongue not placed against roof of mouth. Hidden maxillary apices (radiolucent airspace obscuring maxillary roots).
+Error 9: Patient movement during exposure - blurred image with step defect.
+Error 10: Reflected images = "Ghost images" - artifacts.
+
+=== TABLE 2: QUALITY CRITERIA ===
+Excellent: no errors in patient preparation, positioning, exposure, processing, handling.
+Diagnostically acceptable: errors present but do not detract from diagnostic utility.
+Unacceptable: errors make the radiograph diagnostically unacceptable.
+
+=== RESULTS ===
+Of 2629 panoramic radiographs: 863 (32.8%) had no errors (excellent); 1766 (77.2%) had one or more errors.
+Most common positioning error = error 8 (failure to place tongue close to palate → radiolucent airspace obscuring maxillary tooth roots).
+Least common error = error 10 (reflected/ghost images).
+Overall kappa (interexaminer proportional agreement) = 0.998.
+No significant difference in diagnostic error prevalence by gender.
+Statistically significant: error 8 and error 3 higher among 19-59-year-olds. Error 10 significant in 5-12 years age group.
+Errors 1-9 majorly in 19-59-year-olds; error 10 predominant in children.
+
+TABLE 3 - Quality assessment (overall): Excellent 32.1%, Diagnostically acceptable 49.05%, Diagnostically unacceptable 15.08%.
+
+TABLE 4 - Percentage of errors by age group (averaged from two observers):
+Error 1: 5-12y 16.6%, 13-18y 13.7%, 19-59y 52.3%, 60+ 17.4%
+Error 2: 19%, 8.5%, 53.6%, 19%
+Error 3: 10.3%, 12.1%, 62.4%, 15.2%
+Error 4: 18.7%, 13.9%, 49.5%, 17.9%
+Error 5: 16.4%, 8.2%, 57.3%, 18.1%
+Error 6: 13.8%, 15.5%, 56.9%, 13.8%
+Error 7: 21%, 12.6%, 50.5%, 15.9%
+Error 8: 22%, 9.2%, 47.9%, 20.9%
+Error 9: 14.69%, 17.8%, 48.5%, 18.8%
+Error 10 (ghost): 5-12y ~48% (47.8-48.9%), 13-18y 4.3-4.4%, 19-59y ~28%, 60+ 17.8-19.6%
+
+TABLE 5 - Association with age (P values): Error 3 P=0.024*, Error 8 P=0.027*, Error 10 P=0.001* (statistically significant). Others NS.
+
+TABLE 6 - Quality by age: all age groups excellent ~25.5-33.8%, diagnostically acceptable ~48.8-55.3%, unacceptable ~14.9-17.0%.
+
+TABLE 7 - Interexaminer agreement kappa 0.998 (SE 0.001, T 139.274, sig 0.001). n=2629.
+
+FIGURE 1: Thyroid collar appearing as a ghost image in young children.
+FIGURE 2: Patient midline asymmetry causing increase in right mandibular ramus mesiodistal width.
+
+=== DISCUSSION ===
+Limited image layer dimensions mean minor positioning errors manifest as distortions (unequal horizontal/vertical magnification, tooth overlap, loss of sharpness).
+Most common error 8 (tongue not against palate → radiolucent airspace obscuring maxillary roots). In agreement with Wafa'a AL-Faleh who reported 81.8%. Averaged 17.90% in this study. Caused by patients not understanding/ignoring instructions.
+Least common: ghost/reflected images. Ghost images form when object/anatomic structure is located between the source and the center of rotation and has sufficient density to attenuate the beam. Jewelry can cause ghost images; unilateral jewelry may be mistaken for radio-opaque disease. Anatomical bony structures can cause superimposed double real images; hair clips/accessories/lead apron can cause ghost artifacts, magnified in panoramic image. Averaged 2.20% of radiographs.
+Second most common: error 3 (head tilted down, chin back → condyles cut off, apices blurred); corrected by positioning vertical occlusal plane parallel to floor.
+Ghost images more significant in pediatric group (5-12 years).
+Benchmark: diagnostically unacceptable images should not exceed 10% of total (this study ~15%). Excellent images should be >70% (this study far below → challenging, needs continuous technician training).
+Good-quality radiography maximizes benefit vs radiation risk and financial outlay. Suggest realigning quality standards to focus on reducing diagnostically unacceptable images rather than increasing excellent images.
+Limitation: clinical situation of patient (swelling, facial asymmetry, physical structure) not considered; proper positioning not always possible → radiograph error inevitable, inflating unacceptable percentage.
+
+=== CONCLUSION ===
+An inadequate/diagnostically unacceptable orthopantomogram conceals nature, size, location of pathology and causes unnecessary re-exposure and treatment delay. Technicians must understand causes of positioning errors and ensure proper patient preparation and positioning. Proper communication, more time positioning, and technician skill are keys to reducing diagnostic errors. Focus should be on improving panoramic quality and reducing diagnostically unacceptable images.
+
+Ethics: IRB College of Dentistry, Dar Al Uloom University, Riyadh (COD/IRB/2020/5). Informed consent obtained. No conflicts of interest. No funding.

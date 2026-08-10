@@ -10,8 +10,21 @@ pdf_filename: mate-2021-clinical-electromyographic-evaluation-botulinum-toxin.pd
 source_collection: external
 ---
 
-## One-line Summary
-Prospective clinical study (n=10) of BTX-A for gummy smile evaluated both clinically and with surface EMG (compound muscle action potential, C-MAP) — first reported use of EMG to quantify BTX-A effect on upper lip elevators; mean gingival display reduction 2.90 mm at 2 weeks (p<0.001), C-MAP dropped from 254.7 → 114.8 µV at 2 weeks, both gradually returned to baseline by 6 months.
+## Three-line Summary
+
+Prospective clinical study (n=10) of BTX-A for gummy smile evaluated both clinically and with surface EMG (compound muscle action potential, C-MAP)
+
+— first reported use of EMG to quantify BTX-A effect on upper lip elevators; mean gingival display reduction 2.90 mm at
+
+2 weeks (p<0.001), C-MAP dropped from 254.7 → 114.8 µV at 2 weeks, both gradually returned to baseline by 6 months.
+
+## 세줄요약
+
+Prospective 임상적 (Clinical) study (n=10) of BTX-A for gummy smile evaluated both 임상적 (Clinical)ly and with surface EMG (compound muscle action potential, C-MAP)
+
+— first reported use of EMG to quantify BTX-A effect on upper lip elevators; mean gingival display reduction 2.90 mm at
+
+2 weeks (p<0.001), C-MAP dropped from 254.7 → 114.8 µV at 2 weeks, both gradually returned to baseline by 6 months.
 
 ## 1. Document Information
 - Authors: Mate PP, Nilesh K, Joshi A, Panda A

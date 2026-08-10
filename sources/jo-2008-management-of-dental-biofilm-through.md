@@ -12,8 +12,21 @@ source_collection: local
 tags: [biofilm-management, professional-oral-hygiene, plaque-control, periodontal-health, prevention]
 ---
 
-## One-line Summary
-Doctoral study examining changes in plaque control ability through regular professional oral health care program using multi-visit intervention protocol.
+## Three-line Summary
+
+Doctoral study examining changes in plaque
+
+control ability through regular professional oral
+
+health care program using multi-visit intervention protocol.
+
+## 세줄요약
+
+치주학 박사학위 논문 (조선대학교 2014): 정기적 전문 구강건강관리 프로그램의 다회방문 중재를 통한 치면세균막 조절 능력 변화 평가
+
+정기적 전문관리는 환자의 자가 치면세균막 조절 능력을 개선하고 환자 동기 강화
+
+장기간 순응하는 환자는 개선된 구강위생 수준을 유지 가능.
 
 ## 1. Document Information
 - **Type**: Doctoral dissertation

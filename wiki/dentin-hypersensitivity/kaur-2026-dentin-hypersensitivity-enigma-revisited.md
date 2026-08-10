@@ -6,7 +6,7 @@ date: 2026-03-30
 doi: 10.4103/JCDE.JCDE_41_26
 source: kaur-2026-dentin-hypersensitivity-enigma-revisited.md
 category: [dentin-hypersensitivity]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/kaur-2026-dentin-hypersensitivity-enigma-revisited.pdf
 pdf_filename: kaur-2026-dentin-hypersensitivity-enigma-revisited.pdf
 source_collection: external
@@ -22,13 +22,21 @@ relations:
     target: defreitas-2021-bioactive-toothpastes-dentin-hypersensitivity-sr
 ---
 
-## One-line Summary
+## Three-line Summary
 
-2026 narrative review — comprehensive synthesis of dentin hypersensitivity mechanisms (hydrodynamic theory, neuroplasticity, TRP channels), stepwise exclusion diagnosis, tiered home-to-surgical management, and emerging biomimetic/nano approaches including self-assembling peptides and CalBots.
+2026 narrative review synthesizing DH mechanisms (hydrodynamic theory, neuroplasticity, TRP channels, odontoblast mechanosensory), exclusion-based diagnosis, and tiered management (home desensitizers → in-office agents → surgery), plus emerging biomimetic/nano approaches.
 
-## 한줄요약
+DH prevalence 1–98% across populations; all four mechanistic theories are integrated; neuroplastic upregulation of TRPV1/Nav/CGRP explains persistent cases despite adequate tubule occlusion; emerging options (nano-HAp, CalBots, self-assembling peptides) remain mostly investigational.
 
-2026 서사 리뷰 — 상아질 과민증의 기전(수역학설·신경가소성·TRP 채널), 단계적 배제 진단, 가정 요법~수술까지 치료 알고리즘, 바이오미메틱·나노기술(자기조립 펩타이드, CalBots) 최신 동향 종합.
+DH is a diagnosis of exclusion requiring stepwise escalation; no single agent provides permanent relief, and the Triple-C recall framework (Continue/Change/Cease) is proposed for long-term maintenance.
+
+## 세줄요약
+
+2026 narrative review: DH 기전(수역학설·신경가소성·TRP채널·오도노블라스트 기계감각), 배제 진단, 가정 → 원내 → 수술 단계별 치료 및 나노·바이오미메틱 최신 동향 종합.
+
+유병률 1–98%; 신경가소성(TRPV1/Nav/CGRP 상향)이 충분한 세관 폐쇄 후에도 지속되는 과민증 설명; nano-HAp·CalBots·자기조립 펩타이드는 대부분 시험 단계.
+
+DH는 배제 진단 후 단계적 치료 확대; 단일 제제로 완전한 항구적 효과 없으며, Triple-C(Continue/Change/Cease) 재내원 프레임워크로 장기 유지 관리 권고.
 
 ## Summary
 

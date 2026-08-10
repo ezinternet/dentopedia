@@ -6,20 +6,28 @@ date: 2023-10-09
 doi: 10.1038/s41598-023-43213-8
 source: lee-2023-effect-polydeoxyribonucleotide-early-bone-formation.md
 category: [pdrn]
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/lee-2023-effect-polydeoxyribonucleotide-early-bone-formation.pdf
 pdf_filename: lee-2023-effect-polydeoxyribonucleotide-early-bone-formation.pdf
 source_collection: external
 tags: [pdrn, immediate-implant, gbr, bone-regeneration, animal]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In vivo beagle study (6 dogs, buccal dehiscence defect at immediate implant placement) showing CBCP graft soaked in PDRN significantly increased new-bone area and proportion in the buccal augmented zone at 2 and 6 weeks, with no difference in bone-to-implant contact (BIC) or BAFO — PDRN's effect was confined to early new-bone fraction.
+In vivo beagle study (6 dogs, 3D-printed implants placed into surgically created 5-mm buccal dehiscence defects) comparing collagenated biphasic calcium phosphate (CBCP) graft alone versus CBCP soaked in PDRN, with sacrifice at 2 and 6 weeks.
 
-## 한줄요약
+PDRN significantly increased new-bone area and new-bone proportion in the buccal augmented zone at both 2 and 6 weeks, while bone-to-implant contact (BIC) and bone area fraction occupancy (BAFO) did not differ between groups.
 
-Beagle 6마리 즉시식립 + buccal dehiscence defect 모델에서 CBCP+PDRN soaking이 2주·6주 시점 new bone area·proportion을 유의하게 증가시킴. BIC·BAFO는 차이 없음 — PDRN 효과는 new bone fraction에 한정.
+PDRN's osteogenic effect is most visible in early-phase new-bone fraction rather than in bone–implant interface parameters, suggesting it accelerates connective tissue maturation in the graft volume rather than directly improving osseointegration.
+
+## 세줄요약
+
+줄1: Beagle 6마리에 3D 프린팅 임플란트를 즉시식립하고 수술적으로 형성한 5 mm buccal dehiscence 결손에 CBCP 단독 또는 CBCP+PDRN soaking을 비교, 2·6주 시점 평가.
+
+줄2: PDRN군에서 2·6주 모두 협측 증대 구역 내 신생골 면적·비율이 유의하게 높았으나 BIC와 BAFO는 군간 차이 없음.
+
+줄3: PDRN의 조골 효과는 초기 신생골 분율에 집중되며 골-임플란트 계면 직접 개선보다는 이식재 내 결합조직 성숙 가속에 작용함을 시사.
 
 ## Summary
 

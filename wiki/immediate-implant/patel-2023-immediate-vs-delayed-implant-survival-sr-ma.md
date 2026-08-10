@@ -6,7 +6,7 @@ date: 2023-09-15
 doi: 10.3390/dj11090218
 source: patel-2023-immediate-vs-delayed-implant-survival-sr-ma.md
 category: [immediate-implant]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/patel-2023-immediate-vs-delayed-implant-survival-sr-ma.pdf
 pdf_filename: patel-2023-immediate-vs-delayed-implant-survival-sr-ma.pdf
 source_collection: external
@@ -16,13 +16,21 @@ relations:
     target: ragucci-2020-immediate-implant-molar-extraction-sockets
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (10 studies, 6 RCT + 4 non-randomised; 341 immediate vs 359 delayed implants) found no significant difference in implant survival between immediate and delayed placement (RR 0.99, 95% CI 0.96–1.02, p≈0.44, I²=0%), with immediate ~97.4% vs delayed ~97.5%.
+PRISMA-compliant SR+MA of 10 comparative studies (6 RCTs, 4 non-randomised; 341 immediate vs 359 delayed implants; search 2014–2022) comparing implant survival between immediate and delayed placement.
 
-## 한줄요약
+No significant difference in survival was found (RR 0.99, 95% CI 0.96–1.02, p=0.44, I²=0%); aggregate survival was 97.4% (immediate) versus 97.5% (delayed), with zero heterogeneity confirming consistent equivalence across studies.
 
-체계적 문헌고찰+메타분석 (10편, RCT 6 + 비무작위 4; 즉시 341 vs 지연 359 임플란트): 즉시식립과 지연식립 간 임플란트 생존율 차이 없음 (위험비 0.99, 95% CI 0.96–1.02, p≈0.44, I²=0%), 즉시 약 97.4% vs 지연 약 97.5%.
+Survival is not the deciding factor between immediate and delayed placement; the choice should be driven by esthetics, treatment time, complication risk, and patient/site selection rather than survival probability.
+
+## 세줄요약
+
+2014–2022년 무작위·비무작위 비교 연구 10편(RCT 6 + 비무작위 4; 즉시 341 vs 지연 359 임플란트)을 종합한 PRISMA 준수 SR+MA.
+
+즉시식립과 지연식립 간 생존율에 유의차 없음(위험비 0.99, 95% CI 0.96–1.02, p=0.44, I²=0%); 총 생존율은 즉시 97.4% vs 지연 97.5%로 이질성 없이 동등하였다.
+
+생존율은 즉시 vs 지연 선택의 결정 요인이 아니므로, 심미·치료 기간·합병증 위험·환자 및 부위 선택 기준에 따라 프로토콜을 결정해야 한다.
 
 ## Summary
 
@@ -62,4 +70,4 @@ A secondary, non-significant directional signal favoured delayed placement: more
 ## Related Papers
 
 - [[overviews/implant-placement-timing-immediate-early-delayed]] — this SR+MA anchors the "survival equivalent across timing protocols" thesis of the timing overview.
-- [[immediate-implant/ragucci-2020-immediate-implant-molar-extraction-sockets]] — complements with site-specific (molar socket) immediate-placement evidence.
+- [[immediate-implant/molar-septum/ragucci-2020-immediate-implant-molar-extraction-sockets]] — complements with site-specific (molar socket) immediate-placement evidence.

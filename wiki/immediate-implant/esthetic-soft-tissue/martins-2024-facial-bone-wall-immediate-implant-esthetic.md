@@ -6,18 +6,28 @@ date: 2024-01-05
 doi: 10.17219/acem/173573
 source: martins-2024-facial-bone-wall-immediate-implant-esthetic.md
 category: [immediate-implant/esthetic-soft-tissue]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/martins-2024-facial-bone-wall-immediate-implant-esthetic.pdf
 pdf_filename: martins-2024-facial-bone-wall-immediate-implant-esthetic.pdf
 source_collection: external
 tags: ['facial bone wall', 'BBT', 'esthetic risk', 'immediate restoration', 'anterior maxilla']
 ---
 
-## One-line Summary
-Systematic review (12 studies, ≥12 mo follow-up) of immediate implant placement + immediate restoration (IIP + IR) in anterior maxilla: a thin or deficient facial bone wall (BBT) is associated with greater alveolar resorption and esthetic/recession risk, only partially mitigated by bone and soft-tissue grafting.
+## Three-line Summary
 
-## 한줄요약
-SR (12 연구): 상악 전치부 즉시식립 + 즉시수복 시 facial bone plate가 얇거나 결손되면 alveolar 흡수·심미 위험 증가; thinner facial plate → higher alveolus loss; ≥12개월 추적 연구 한정.
+Systematic review (12 studies, ≥12-month follow-up, PRISMA; ROBINS-I / Modified Cochrane RoB assessment) of immediate implant placement plus immediate restoration in the anterior maxilla, focusing on the role of facial bone wall thickness (BBT).
+
+A thin or deficient facial bone plate was consistently associated with greater alveolar resorption and higher esthetic/recession risk; bone graft and soft-tissue augmentation partially mitigated but did not eliminate this risk.
+
+Pre-surgical CBCT measurement of BBT is essential before esthetic-zone immediate implant planning — a BBT <1 mm signals high dehiscence/recession risk and warrants either combined bone+soft-tissue grafting or a staged approach.
+
+## 세줄요약
+
+SR(12편, ≥12개월 추적, PRISMA; ROBINS-I/Modified Cochrane RoB 평가) — 상악 전치부 즉시식립+즉시수복에서 협측골벽 두께(BBT)의 역할 분석.
+
+얇거나 결손된 협측골판은 치조골 흡수·심미위험·치은퇴축 증가와 일관되게 관련; 골이식재+연조직 증대로 부분 보완되나 위험을 완전히 제거하지 못함.
+
+심미부 즉시식립 계획 전 CBCT로 BBT 측정 필수 — BBT <1 mm는 열개/퇴축 고위험 신호로 골+연조직 병합 이식 또는 단계적 접근 검토 필요.
 
 ## Summary
 To evaluate esthetic risk associated with IIP + IR in anterior maxilla where facial bone plate may be absent or deficient. PubMed/Embase/Cochrane/Lilacs/Scopus/Scielo/GS search. Clinical and observational studies 2012-Jul 2023, ≥12 mo follow-up. Excluded: heavy smokers, systemic disease, no IR, no facial defect. RoB by ROBINS-I and Modified Cochrane RoB.

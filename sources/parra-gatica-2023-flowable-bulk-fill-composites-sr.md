@@ -9,8 +9,21 @@ pdf_filename: parra-gatica-2023-flowable-bulk-fill-composites-sr.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Systematic review of 53 in vitro studies on flowable bulk-fill resin composites reporting wide property variation: DC 19.41–93.71%, polymerization shrinkage 1.26–10.45%, shrinkage stress 2–3 MPa (most studies), flexural strength >80 MPa for most materials.
+## Three-line Summary
+
+Systematic review of 53 in vitro studies on flowable bulk-fill resin
+
+composites reporting wide property variation: DC 19.41–93.71%, polymerization shrinkage 1.26–10.45%, shrinkage
+
+stress 2–3 MPa (most studies), flexural strength >80 MPa for most materials.
+
+## 세줄요약
+
+체계적 고찰 (Systematic Review, SR) of 53 시험관내 (In vitro) studies on flowable bulk-fill resin
+
+composites reporting wide property variation: DC 19.41–93.71%, polymerization shrinkage 1.26–10.45%, shrinkage
+
+stress 2–3 MPa (most studies), flexural strength >80 MPa for most materials.
 
 ## 1. Document Information
 - **Type**: Systematic Review (in vitro studies)

@@ -7,20 +7,28 @@ doi: 10.11607/jomi.11175
 pmid: "40279380"
 source: lan-2025-long-term-four-implant-supported.md
 category: [complete-denture]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/lan-2025-long-term-four-implant-supported.pdf
 pdf_filename: lan-2025-long-term-four-implant-supported.pdf
 source_collection: external
 tags: [implant-overdenture, fixed-complete-denture, maxillary-implants, four-implant, IOD, IFR, implant-survival, marginal-bone-loss, complications, sr-ma]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 16 studies (5,568 implants, ≥5y) comparing maxillary four-implant overdentures vs fixed complete dentures: fixed restorations showed higher implant (98.5%) and prosthesis (99.9%) survival; overdentures showed less marginal bone loss (−0.27 vs −1.20 mm).
+SR+MA of 16 studies (5,568 implants, ≥5-year follow-up) compared maxillary four-implant overdentures (IOD) versus fixed complete dentures (IFR) on implant survival, prosthesis survival, marginal bone loss, and complications.
 
-## 한줄요약
+Fixed restorations showed higher implant survival (98.5% vs 94.5%) and far higher prosthesis survival (99.9% vs 85.0%), but IODs preserved significantly more crestal bone (MBL −0.27 vs −1.20 mm); IOD main complication was retention loss (0.34/patient) vs acrylic tooth fracture for IFR (0.09/patient).
 
-16개 연구(5,568개 임플란트, ≥5년 추적) 메타분석: 상악 4-임플란트 고정성 완전의치(IFR)는 임플란트(98.5%) 및 보철물(99.9%) 생존율이 피개의치(IOD, 94.5%/85.0%)보다 높았고, 피개의치는 변연골 흡수가 더 적었다(−0.27 vs −1.20 mm).
+Both modalities are clinically predictable at medium-term; IFR is preferred for implant/prosthesis longevity, while IOD is preferred when bone preservation or removability is the priority.
+
+## 세줄요약
+
+16개 연구(5,568개 임플란트, ≥5년 추적) SR+MA로 상악 4-임플란트 피개의치(IOD)와 고정성 완전의치(IFR)를 임플란트 생존율, 보철물 생존율, 변연골소실, 합병증 측면에서 비교하였다.
+
+IFR은 임플란트 생존율(98.5% vs 94.5%)과 보철물 생존율(99.9% vs 85.0%)이 높았으나, IOD는 치조정 골량을 더 잘 보존하였다(MBL −0.27 vs −1.20 mm); IOD의 주요 합병증은 유지력 소실(0.34/환자), IFR은 레진치 탈락/파절(0.09/환자)이었다.
+
+두 치료법 모두 중장기적으로 임상적으로 예측 가능하며, IFR은 임플란트·보철물 장수에, IOD는 골보존 또는 가철성이 우선순위일 때 적합하다.
 
 ## Summary
 

@@ -13,13 +13,21 @@ source_collection: external
 
 The current synthesis page [[wiki/overviews/sinus-lift-lateral-2026-synthesis]] identifies sinus mucosal thickness (SMT) as a preoperative risk variable but has no prospective trial directly testing the 5 mm cutoff as a management threshold. Khiabani 2024 fills that gap: it is the first controlled prospective trial comparing <5 mm vs >5 mm SMT groups through 6-month CBCT follow-up, with direct data on whether thickened mucosa is a contraindication to lateral SFE — addressing the "membrane cutoff" prevention axis in the overview.
 
-## One-line Summary
+## Three-line Summary
 
 Prospective controlled trial (n=40 sinuses, 20 per group) comparing preoperative SM thickness <5 mm vs >5 mm after lateral SFE: thickened mucosa resolves significantly (6.8 → 3.4 mm, p<.001) without rhinosinusitis, and is not a contraindication to LSFE.
 
-## 한줄요약
+(incomplete)
 
-전향적 대조 임상시험 (n=40 상악동, 각 군 20예): 수술 전 상악동 점막 두께 (Sinus Membrane, SM) <5 mm 대 >5 mm 비교; 두꺼운 점막은 수술 후 6개월 유의하게 감소 (6.8→3.4 mm, p<.001)하고 비부비동염 (Rhinosinusitis) 없이 적절히 골증대되므로 측방 상악동저 거상술 (Lateral Sinus Floor Elevation, LSFE)의 금기증이 아님.
+(incomplete)
+
+## 세줄요약
+
+전향적 대조 임상시험 (n=40 상악동, 각 군 20예): 수술 전 상악동 점막 두께 (Sinus Membrane, SM) <5 mm 대 >5 mm 비교;
+
+두꺼운 점막은 수술 후 6개월 유의하게 감소 (6.8→3.4 mm, p<.001)하고 비부비동염 (Rhinosinusitis) 없이 적절히 골증대되므로 측방 상악동저 거상술 (Lateral Sinus Floor Elevation, LSFE)의 금기증이 아님.
+
+(incomplete)
 
 ## 1. Document Information
 

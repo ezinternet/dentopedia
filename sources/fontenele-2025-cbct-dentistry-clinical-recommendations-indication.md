@@ -13,13 +13,21 @@ source_collection: external
 
 radiology 카테고리의 CBCT 정당화·최적화 축 보강. 기기별 선량·화질 편차를 전공별 의사결정 차트로 정리해 [[radiology/jacobs-2018-cbct-implant-dentistry-recommendations-clinical]]의 임플란트 권고와 [[radiology/kaasalainen-2021-dental-cone-beam-ct-updated-review]]의 기술리뷰를 임상 적용 레벨로 확장.
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review + device survey (87 CBCT units, 34 manufacturers) building specialty-specific decision-support charts for FOV, voxel size, and exposure selection.
+Narrative review + device survey (87 CBCT units from 34 manufacturers) building specialty-specific decision-support charts for FOV, voxel size, and exposure selection across prosthodontics, implant dentistry, periodontology, OMFS, paediatrics, orthodontics, and endodontics.
 
-## 한줄요약
+Parameter variability across and within models markedly changes dose (tube voltage 50–120 kV, current 1–17 mA, effective dose ~3–500 µSv); authors map indication-specific requirements (e.g., high spatial resolution + small FOV for endodontics vs. larger FOV for orthodontics/OMFS).
 
-내러티브 리뷰+기기 조사(CBCT 87기종·제조사 34곳). 전공별 FOV·복셀·노출 선택을 위한 의사결정 차트 제시.
+Manufacturer-reported data confirmed for only 10 companies with missing data common; narrative (not systematic) synthesis limits generalizability, and rapid technology turnover requires periodic chart updating.
+
+## 세줄요약
+
+내러티브 리뷰+기기 조사(CBCT 87기종·제조사 34곳)로 보철·임플란트·치주·악안면외과·소아치과·교정·근관치료 전공별 FOV·복셀·노출 선택을 위한 의사결정 차트 구축.
+
+기기 간·기기 내 모수 편차가 선량을 현저히 변화(관전압 50–120 kV, 전류 1–17 mA, 유효선량 약 3–500 µSv); 적응증별 요구사항(예: 근관치료는 높은 공간분해능+소형 FOV 대 교정/악안면외과는 대형 FOV) 매핑.
+
+제조사 보고 데이터 10개사만 확인·누락 흔함; 내러티브(비체계적) 종합로 일반화 제한·기술 급변으로 차트 정기 갱신 필요.
 
 ## 1. Document Information
 

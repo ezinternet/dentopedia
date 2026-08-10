@@ -6,7 +6,7 @@ date: 2015-01-01
 doi: 10.1016/j.jss.2014.07.029
 source: liu-2015-occlusal-hypofunction-recovery-mandibular-alveolar-bone-rats.md
 category: [bone-biology]
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/liu-2015-occlusal-hypofunction-recovery-mandibular-alveolar-bone-rats.pdf
 pdf_filename: liu-2015-occlusal-hypofunction-recovery-mandibular-alveolar-bone-rats.pdf
 source_collection: external
@@ -18,13 +18,21 @@ relations:
     target: kondo-2022-current-perspectives-residual-ridge
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Rat micro-CT study (n=48 growing male SD rats; normal 24, hypofunction 12, recovery 12) showing an anterior bite-raising appliance reduces mandibular alveolar trabecular microarchitecture (↓BV/TV, ↓Tb.Th, ↓Tb.N; ↑Tb.Sp, ↑bone surface density, most marked at week 2), and that these changes reverse to normal after appliance removal and occlusal recovery.
+Rat micro-CT experiment (n=48 growing male Sprague-Dawley rats; normal 24, hypofunction 12, recovery 12) using an anterior bite-raising appliance to induce mandibular posterior occlusal hypofunction for 2 weeks, followed by 2-week recovery after appliance removal.
 
-## 한줄요약
+Hypofunction degraded mandibular alveolar trabecular microarchitecture — ↓BV/TV, ↓Tb.Th, ↓Tb.N, ↑Tb.Sp, ↑bone surface density, most marked at week 2 (P<0.05 vs control); masseter weight and alveolar process height/width also changed.
 
-성장기 수컷 흰쥐 48마리(정상 24, 저작저하 12, 회복 12) micro-CT 연구 — 앞니 교합거상장치로 만든 교합 저기능은 하악 치조골 해면골 미세구조를 악화(BV/TV·Tb.Th·Tb.N 감소, Tb.Sp·골표면밀도 증가, 2주째 가장 뚜렷)시키며, 장치를 제거해 교합이 회복되면 이 변화가 정상으로 되돌아간다(가역적).
+Crucially, all bony and muscular changes reversed to normal levels after appliance removal and occlusal recovery (P>0.05 vs control), establishing a mechanically-driven, reversible model of alveolar bone adaptation in the growing jaw.
+
+## 세줄요약
+
+성장기 수컷 흰쥐 48마리(정상 24·저작저하 12·회복 12) micro-CT 연구: 앞니 교합거상장치로 구치부 교합 저기능을 2주간 유도한 후 2주간 회복 관찰.
+
+교합 저기능은 하악 치조골 해면골 미세구조 악화(BV/TV·Tb.Th·Tb.N 감소, Tb.Sp·골표면밀도 증가, 2주째 최대, p<0.05); 교근 위축과 치조제 형태 변화도 동반.
+
+장치 제거 후 교합 회복 시 모든 골·근육 변화가 정상 수준으로 되돌아감(p>0.05 vs 대조군) — 성장 중 치조골의 기계적 부하 의존적·가역적 적응 모델 확립.
 
 ## Summary
 

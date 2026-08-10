@@ -13,8 +13,21 @@ source_collection: external
 
 경치조골 상악동거상술(Transcrestal Sinus Augmentation)에서 고전 osteotome(Summers)와 골밀도화(Osseodensification, OD) 중 어느 술식을 택할지 직접 비교한 근거가 필요. 본 PRISMA SR+MA(13 studies, 519 sites)는 OD가 동등한 골증대량으로 합병증을 약 5배 낮춤을 보여 술식 선택의 핵심 근거가 된다. See [[overviews/sinus-lift-technique-selection]].
 
-## One-line Summary
-PRISMA-guided SR+MA (13 studies, 519 sites; 10 osteotome / 3 osseodensification) comparing crestal sinus lift techniques — similar bone gain (OD 3.37 mm, OST 3.18 mm) and survival (94.1–100%) but markedly lower complication rate for OD (2.78%) vs OST (14.32%).
+## Three-line Summary
+
+PRISMA-guided SR+MA (13 studies, 519 sites; 10 osteotome / 3 osseodensification studies) comparing crestal sinus lift techniques for bone gain, implant survival, and complications through early 2025.
+
+Bone gain was clinically equivalent (OD 3.37 mm vs OST 3.18 mm) and implant survival was similarly high (94.1–100% for both); however, the complication rate for OD (2.78%) was approximately 5 times lower than for OST (14.32%).
+
+OD appears safer and more predictable than osteotome sinus lift with equivalent bone gain, but the OD evidence base is thin (only 3 studies vs 10), baseline residual bone height was higher in OD cohorts (5.94 vs 5.00 mm), and direct head-to-head RCTs are still lacking.
+
+## 세줄요약
+
+PRISMA SR+MA(13편, 519부위; osteotome 10편·골밀도화 3편): 골증대량·생존율·합병증을 기준으로 경치조골 상악동거상술 두 술식(Summers osteotome·Huwais osseodensification) 비교, 2025년 초 기준.
+
+골증대량(OD 3.37 mm vs OST 3.18 mm) 및 임플란트 생존율(94.1–100%)은 동등; 합병증률은 OD(2.78%) vs OST(14.32%)로 약 5배 차이.
+
+OD가 동등한 골증대로 합병증은 현저히 낮아 더 안전하고 예측 가능한 술식으로 보이나, OD 근거 기반이 취약(3편)하고 기저 잔존골 높이가 더 높아 직접 비교 RCT 없이는 결론에 주의 필요.
 
 ## 1. Document Information
 - **Type**: Systematic review + meta-analysis (PRISMA, random-effects)

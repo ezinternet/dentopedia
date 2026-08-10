@@ -6,18 +6,28 @@ date: 2011-06-01
 doi: 10.1097/JTO.0b013e31821b10ab
 source: barraclough-2011-hazard-ratios-clinicians-biostatistics-primer.md
 category: evidence-appraisal
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/barraclough-2011-hazard-ratios-clinicians-biostatistics-primer.pdf
 pdf_filename: barraclough-2011-hazard-ratios-clinicians-biostatistics-primer.pdf
 source_collection: external
 tags: [hazard-ratio, kaplan-meier, survival-analysis, biostatistics, ebm-tutorial]
 ---
 
-## One-line Summary
-Narrative biostatistics primer (J Thoracic Oncology 2011) for clinicians on hazard ratios (HR): defines HR as an instantaneous hazard-rate ratio time-averaged under the proportional-hazards (PH) assumption, contrasts it with relative risk (RR), and explains how PH violation (crossing/diverging Kaplan-Meier curves) makes a single HR misleading.
+## Three-line Summary
 
-## 한줄요약
-J Thoracic Oncology의 임상의 대상 통계 primer (2011): HR이 무엇이고 무엇이 아닌지 — 즉시 hazard rate 비율로서의 정의, KM curve와의 관계, proportional hazards 가정 위반 시 해석 무력화까지 짚는 5쪽짜리 표준 튜토리얼.
+Narrative biostatistics primer (J Thoracic Oncology 2011) for clinicians: defines hazard ratio (HR) as a time-averaged instantaneous hazard-rate ratio under the proportional-hazards (PH) assumption, built using Kaplan-Meier censoring, and distinguishes it from relative risk (RR), which uses cumulative incidence at a fixed time point.
+
+PH assumption violation (crossing or fanning Kaplan-Meier curves) makes a single HR misleading; the paper recommends stratified analysis, milestone survival, or RMST when PH fails.
+
+For dental implant survival studies where PH is often unchecked, HR of 1.5–3.0 (e.g., smoking effect on early failure) should be translated to absolute risk at a clinically relevant horizon before patient counseling.
+
+## 세줄요약
+
+임상의 대상 biostatistics primer (J Thoracic Oncology 2011): HR을 비례위험(PH) 가정 하에서 시간 평균된 즉시 hazard rate 비율로 정의하고, KM 생존곡선·중도절단과의 관계를 설명하며 RR(고정 시점 누적 발생률 비)과 구분.
+
+PH 가정 위반(KM 곡선 교차·발산) 시 단일 HR은 오도적 — 층화 분석·마일스톤 생존율·RMST로 대체 권고.
+
+임플란트 생존 연구에서 HR 1.5–3.0(흡연 조기 실패 위험 등)은 PH 검증 없이 보고되는 경우가 많으므로, 환자 상담 전 임상적으로 의미 있는 시점(1년·5년)의 절대위험으로 변환 필요.
 
 ## Summary
 Implant and bone-graft outcome studies in this wiki routinely report HR (e.g., for time-to-failure, time-to-MBL-threshold, time-to-peri-implantitis). This paper is the reference for how to read those numbers honestly.

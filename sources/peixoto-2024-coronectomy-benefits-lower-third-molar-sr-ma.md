@@ -9,8 +9,21 @@ pdf_filename: peixoto-2024-coronectomy-benefits-lower-third-molar-sr-ma.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Systematic review and meta-analysis demonstrating that coronectomy significantly reduces inferior alveolar nerve (IAN) injury risk compared to complete extraction, with acceptable reoperation rates and favorable root migration outcomes.
+## Three-line Summary
+
+Systematic review and meta-analysis demonstrating that coronectomy significantly reduces
+
+inferior alveolar nerve (IAN) injury risk compared to complete
+
+extraction, with acceptable reoperation rates and favorable root migration outcomes.
+
+## 세줄요약
+
+체계적 고찰 (Systematic Review, SR) and 메타분석 (Meta-analysis, MA) demonstrating that coronectomy significantly reduces
+
+inferior alveolar nerve (IAN) injury risk compared to complete
+
+extraction, with acceptable reoperation rates and favorable root migration outcomes.
 
 ## 1. Document Information
 - **Journal**: Journal of Oral and Maxillofacial Surgery 2024;82(1):73-92

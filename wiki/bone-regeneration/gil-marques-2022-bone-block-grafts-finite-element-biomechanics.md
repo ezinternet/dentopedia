@@ -6,20 +6,28 @@ date: 2022-12-17
 doi: 10.3390/ma15249039
 source: gil-marques-2022-bone-block-grafts-finite-element-biomechanics.md
 category: [bone-regeneration]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/gil-marques-2022-bone-block-grafts-finite-element-biomechanics.pdf
 pdf_filename: gil-marques-2022-bone-block-grafts-finite-element-biomechanics.pdf
 source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Finite-element analysis crossing two bone-block graft designs (right-angled vs rounded) with two suture tensions (0.05 vs 0.2 N): all soft-tissue stress/deformation/displacement rose at 0.2 N; block design did not change transferred stress or deformation, but the right-angled/chamfer design produced ~25% greater mucosal displacement (dehiscence tendency), so low suture tension and a rounded block are recommended.
+Finite-element analysis (FEA) of soft tissue overlying an autologous bone-block graft (Split Bone Block technique), crossing two block morphologies (right-angled/chamfer vs rounded) and two suture tensions (0.05 N vs 0.2 N), measuring mucosal displacement, Von Mises stress, and deformation.
 
-## 한줄요약
+Higher suture tension (0.2 N) increased all three soft-tissue outputs vs 0.05 N; block design did not alter transferred stress or deformation, but right-angled/chamfer blocks produced ~25% greater mucosal displacement (dehiscence tendency) than rounded blocks.
 
-블록 이식재 형태(직각 vs 라운드) × 봉합장력(0.05 vs 0.2 N) 유한요소해석: 0.2 N에서 모든 연조직 응력·변형·변위가 증가했고, 블록 형태는 전달 응력·변형을 바꾸지 않았으나 직각/챔퍼 형태가 점막 변위를 약 25% 더 키워(열개 경향) 낮은 봉합장력과 라운드 형태가 권장된다.
+Both findings support practical surgical recommendations: keep suture tension low and round the block edges to reduce primary-closure failure risk; the study is hypothesis-generating (computational, not clinical validation).
+
+## 세줄요약
+
+자가 블록 이식재(분할골블록, Split Bone Block, SBB) 위 연조직을 대상으로 한 유한요소해석(Finite Element Analysis, FEA) — 블록형태(직각/챔퍼 vs 라운드) × 봉합장력(0.05 vs 0.2 N) 2×2 설계.
+
+봉합장력 0.2 N에서 모든 연조직 응력·변형·변위 증가; 블록 형태는 전달응력·변형에 영향 없으나, 직각/챔퍼 형태가 점막 변위를 약 25% 더 키움(열개 경향).
+
+저봉합장력 유지 및 블록 모서리 라운딩이 일차폐쇄 실패 감소에 실용적 권고사항; 계산 모델이므로 임상 검증은 미완.
 
 ## Summary
 
@@ -52,4 +60,4 @@ All three outputs were **greater at 0.2 N** than at 0.05 N suture tension. **Blo
 - [[suture-wound-closure/marsidi-2020-measuring-forces-suture-techniques-wound-closure]] — measured suture/closure forces; this FEA models how that tension transfers to mucosa over a graft.
 - [[suture-wound-closure/plonka-2017-flap-designs-flap-advancement-implant-therapy]] — flap design/advancement for tension-free closure, the clinical counterpart to this biomechanical model.
 - [[bone-regeneration/ridge-preservation/majzoub-2019-influence-different-grafting-materials]] — grafting-material/augmentation context for block grafts.
-- [[implants/jensen-2023-iti-consensus-bone-dimensions-soft-tissue]] — ITI consensus on augmentation; primary closure over grafts is central to its dehiscence-GBR recommendations.
+- [[implants/soft-tissue/jensen-2023-iti-consensus-bone-dimensions-soft-tissue]] — ITI consensus on augmentation; primary closure over grafts is central to its dehiscence-GBR recommendations.

@@ -6,7 +6,7 @@ date: 2017-03-22
 doi: 10.1007/s10006-017-0611-8
 source: kozuma-2017-chronic-sinusitis-sinus-augmentation-infection.md
 category: sinus-lift/lateral
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/kozuma-2017-chronic-sinusitis-sinus-augmentation-infection.pdf
 pdf_filename: kozuma-2017-chronic-sinusitis-sinus-augmentation-infection.pdf
 source_collection: external
@@ -18,13 +18,21 @@ relations:
     target: diaz-olivares-2021-schneiderian-membrane-perforation-sinus-lift
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective cohort (109 patients, 121 sinuses, 252 implants): preoperative chronic sinusitis was the strongest predictor of postoperative infection (p=0.007) and implant loss (p=0.007) after lateral sinus augmentation, making preoperative ENT evaluation and sinusitis treatment mandatory before surgery.
+Retrospective single-center cohort (109 patients, 121 sinuses, 252 implants, Kyushu University) evaluating predictors of postoperative infection and implant loss after lateral-approach sinus augmentation using multivariate logistic regression across 8 clinical variables.
 
-## 한줄요약
+Preoperative chronic sinusitis was the strongest independent predictor of both postoperative infection (p=0.007) and implant loss (p=0.007), surpassing membrane perforation, diabetes, and timing; all 8 complicated sinuses (6.6%) occurred in the chronic-sinusitis-positive subset.
 
-후향적 코호트 연구 (109명, 121개 상악동, 252개 임플란트): 술 전 만성 부비동염 (Chronic Sinusitis, CS)이 측방 상악동거상술 (Lateral Sinus Augmentation, LSA) 후 감염 (p=0.007) 및 임플란트 실패 (p=0.007)의 최강 예측인자로, 수술 전 이비인후과 평가·치료가 필수임을 다변량 분석으로 제시.
+Mandatory preoperative rhinologic workup (SNOT-20, endoscopy, CT) with ENT referral and confirmed sinusitis clearance before augmentation is the proposed prevention pathway.
+
+## 세줄요약
+
+단일기관 후향 코호트 (109명, 121 상악동, 252 임플란트, 큐슈대학): 측방 접근 상악동거상술 (Lateral Sinus Augmentation, LSA) 후 감염·임플란트 실패 예측인자를 다변량 로지스틱 회귀로 분석.
+
+술전 만성 부비동염 (Chronic Sinusitis)이 감염 (p=0.007)과 임플란트 실패 (p=0.007) 모두의 최강 독립 예측인자; 모든 합병증 (8건, 6.6%)이 만성 부비동염 양성 환자에서 발생; 막 천공은 이차적 위험인자.
+
+SNOT-20·비강내시경·CT를 포함한 필수 술전 이비인후과 스크리닝 후 만성 부비동염 치료 (마크로라이드 ≥12주 또는 기능적 내시경 부비동 수술 [FESS]) 완료를 확인한 뒤 거상술 시행할 것.
 
 ## Summary
 

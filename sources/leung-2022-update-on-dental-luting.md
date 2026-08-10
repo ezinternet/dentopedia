@@ -17,13 +17,21 @@ text_filename: leung-2022-update-on-dental-luting.txt
 
 위키에 luting cement 개별 비교 논문들([[prosthetic-materials/ghodsi-2023-resin-cement-partial-coverage-sr]], [[dental-materials/zirconia/kwon-2026-self-adhesive-resin-cement-zirconia]], [[veneers/sharma-2026-resin-cement-shade-ceramic-veneers-sr]], [[caries/bani-hani-2026-pediatric-zirconia-crowns-luting-agents-rct]])은 있었으나, 전체 luting 재료군(zinc phosphate→resin cement→CaAl/GI)의 분류·속성·적응증을 한 장으로 묶는 **기반 reference 페이지가 없었다**. 본 narrative review가 그 anchor 역할을 한다 — 개별 재료 페이지들이 참조할 backbone.
 
-## One-line Summary
+## Three-line Summary
 
 Narrative review of dental luting materials covering 7 cement families (zinc oxide eugenol, zinc phosphate, zinc polycarboxylate, GIC, RMGIC, hybrid CaAl/GI, resin cements), classifying them by chemistry/bonding/indication and detailing properties, clinical indications, and recent modifications.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 치과 luting 재료 7종(산화아연유지놀·인산아연·폴리카르복실레이트·GIC·RMGIC·칼슘알루미네이트하이브리드·레진시멘트)을 화학조성·결합기전·임상적응증으로 분류하고 각 재료의 속성·적응증·최신 개량을 정리한 서술적 종설.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

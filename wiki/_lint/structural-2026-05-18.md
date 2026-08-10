@@ -32,8 +32,8 @@
 
 ## [M] .bak 파일 잔존 (5)
 
-- wiki/endodontics/aae-2021-regenerative-endodontic-clinical-considerations.md.bak
-- wiki/endodontics/wei-2022-regenerative-endodontic-expert-consensus.md.bak
+- wiki/endodontics/regenerative/aae-2021-regenerative-endodontic-clinical-considerations.md.bak
+- wiki/endodontics/regenerative/wei-2022-regenerative-endodontic-expert-consensus.md.bak
 - wiki/endodontics/shalavi-2021-qmix-root-canal-overview-iej.md.bak
 - wiki/prosthetic-materials/laumacher-2025-lithium-disilicate-single-crowns-overview-sr.md.bak
 - wiki/implants/gehrke-2024-implant-dentistry-review-2024.md.bak
@@ -48,9 +48,9 @@
 
 ## [P] 불완전 DOI (prefix만) (17)
 
-- `wiki/endodontics/aae-2021-regenerative-endodontic-clinical-considerations.md` → `N/A`
-- `wiki/endodontics/aapd-2025-vital-pulp-therapy-permanent-teeth-guideline.md` → `N/A`
-- `wiki/endodontics/aapd-2024-vital-pulp-therapy-primary-teeth-guideline.md` → `N/A`
+- `wiki/endodontics/regenerative/aae-2021-regenerative-endodontic-clinical-considerations.md` → `N/A`
+- `wiki/endodontics/vpt/aapd-2025-vital-pulp-therapy-permanent-teeth-guideline.md` → `N/A`
+- `wiki/endodontics/vpt/aapd-2024-vital-pulp-therapy-primary-teeth-guideline.md` → `N/A`
 - `wiki/endodontics/shalavi-2021-qmix-root-canal-overview-iej.md` → `N/A`
 - `wiki/endodontics/irrigation/shalavi-2021-qmix-root-canal-irrigation-overview.md` → `IEJ-16-2-71`
 - `wiki/endodontics/irrigation/mohammadi-2019-smear-layer-irrigants-review.md` → `PMID:31204334`

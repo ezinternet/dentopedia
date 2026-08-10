@@ -13,13 +13,21 @@ source_collection: external
 
 플라즈마 배치(2026-05-31)의 implantology 전용 서술적 리뷰. CAP의 두 임상축(표면활성화 → 골유착, 제염 → 치주염)을 한 틀에 정리해, 배치 내 골유착군·항균군을 잇는 개념 다리 역할. [[wiki/implants/surface/plasma/dai-2025-cold-atmospheric-plasma-prosthodontics]]가 이를 2025로 갱신.
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review (Nanomaterials 2020) of cold atmospheric plasma (CAP) in implantology: CAP improves surface wettability, removes hydrocarbon contamination, enhances osteoblast adhesion/osseointegration, and has antimicrobial effects against peri-implantitis pathogens — proposed as a chairside implant-surface activation tool.
+Narrative review (Nanomaterials 2020) covering the dual clinical rationale for cold atmospheric plasma (CAP) in implantology: surface activation to promote osseointegration, and decontamination to address peri-implantitis.
 
-## 한줄요약
+CAP improves surface wettability, removes biological hydrocarbon contamination (titanium aging), enhances osteoblast adhesion and osseointegration (preclinical evidence), and shows antimicrobial efficacy against peri-implantitis-associated pathogens; no quantitative synthesis was performed.
 
-서술적 리뷰(Nanomaterials 2020): 저온대기압플라즈마(CAP)의 임플란트학 응용 개관 — 표면 젖음성 개선, 탄화수소 오염 제거, 골모세포 부착·골유착 향상, 임플란트주위염 병원균에 대한 항균효과. 의자옆(chairside) 임플란트 표면 활성화 도구로 제안.
+CAP is proposed as a simple, low-temperature chairside tool applicable immediately before implant insertion or during peri-implantitis decontamination, but clinical evidence at the time of publication was limited.
+
+## 세줄요약
+
+서술적 리뷰(Nanomaterials 2020): 저온대기압플라즈마(CAP, Cold Atmospheric Plasma)의 임플란트학 응용 개관 — 표면 활성화(→골유착 촉진)와 제염(→임플란트주위염 대응) 두 임상 축을 한 틀에 정리.
+
+CAP는 표면 젖음성 향상, 생물학적 탄화수소 오염(티타늄 노화) 제거, 골모세포 부착·골유착 향상(전임상), 임플란트주위염 병원균 항균효과를 보이나; 정량적 합산은 없었다.
+
+CAP는 식립 직전 또는 임플란트주위염 제염 시 적용 가능한 간단하고 저온의 의자옆 도구로 제안되나, 발행 당시 임상 근거는 제한적이었다.
 
 ## 1. Document Information
 

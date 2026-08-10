@@ -6,7 +6,7 @@ date: 2024-03-01
 doi: 10.1007/s00784-024-05595-5
 source: de-oliveira-2024-otc-bleaching-color-adverse-effects.md
 category: [tooth-whitening]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: false
 pmid: "38430338"
@@ -19,13 +19,21 @@ relations:
     target: de-geus-2025-at-home-vs-in-office-bleaching
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR + frequentist NMA (37 studies qualitative, 10 meta-analyzed, n=1932; GRADE low) — OTC bleaching works short-term vs placebo: 6% HP strips (≥14 h) best on instrumental ΔEab*, at-home 10% CP (≥14 h) best on shade-guide ΔSGU, with little-to-no tooth sensitivity or gingival irritation.
+SR + frequentist NMA of 37 studies (10 meta-analyzed, n=1,932; GRADE low) comparing OTC bleaching formats in unsupervised whitening.
 
-## 한줄요약
+6% HP strips (≥14 h) ranked best for instrumental color change (ΔEab*); 10% CP at-home (≥14 h) best for visual shade units (ΔSGU); all protocols showed little-to-no tooth sensitivity or gingival irritation vs placebo.
 
-SR + 빈도주의 NMA (정성 37편, 메타 10편, n=1932) — OTC 미백은 단기적으로 위약보다 효과적: ΔEab*는 6% HP 스트립(≥14h), ΔSGU는 10% CP(≥14h)가 최고이며 민감도·치은 자극은 거의 없음(근거 낮음).
+OTC low-concentration products produce real short-term lightening and are well tolerated, but evidence is short-term only and unsupervised use may miss pathology — position as practical entry-level whitening, not equivalence to clinician-supervised bleaching.
+
+## 세줄요약
+
+SR + 빈도주의 NMA (정성 37편, 메타 10편, n=1,932; GRADE 낮음) — 비감독 소비자 미백(스트립·페인트·충전 트레이) 포맷 비교.
+
+ΔEab*(기기측정)은 6% HP 스트립(≥14h), ΔSGU(시각 색조단위)는 10% CP 자가(≥14h)가 최고; 모든 프로토콜에서 치아 민감도·치은 자극은 위약과 거의 차이 없음.
+
+저농도 OTC 제품은 단기적으로 실제 미백 효과가 있고 내약성 우수하나, 단기·저근거 결과이므로 임상적 감독 없는 미백의 한계(병변 미발견, 비현실적 기대)를 상담에 포함해야 함.
 
 ## Summary
 

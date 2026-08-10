@@ -1,0 +1,54 @@
+TITLE: The influence of periodontal status and serum biomarkers on salivary leptin levels in systemic lupus erythematosus patients
+
+ABSTRACT:
+Objective: This study aimed to investigate the influence of periodontal status, clinical data, and serum markers on salivary leptin levels in patients with systemic lupus erythematosus (SLE).
+Methods: A case–control study was conducted with 38 patients with SLE and 29 healthy controls. Periodontal data included periodontal probing depth (PPD), clinical attachment level (CAL), and gingival bleeding on probing (BOP). Stimulated saliva samples were collected to analyze salivary leptin levels. Clinical and serum data were collected from the SLE group. Statistical analysis included the t-test, Mann–Whitney test, Spearman correlation coefficient, and a structural equation model.
+Results: The SLE group had a lower salivary leptin level than the control group (P = 0.002). The model revealed that SLE had an inverse and independent effect on salivary leptin (standardized estimate = −0.289, P = 0.023). Moreover, salivary leptin level negatively correlated with the serum levels of triglyceride, creatinine, and leukocytes, positively correlated with serum total cholesterol, but was not significantly correlated with periodontal status.
+Conclusion: These findings suggest that patients with SLE have a lower salivary leptin level. In addition, the level of salivary leptin does not appear to be related to periodontal status in patients with SLE.
+
+FULL TEXT (Introduction, Methods, Results, Discussion, Conclusion):
+
+INTRODUCTION
+Systemic lupus erythematosus (SLE) and periodontal disease are chronic diseases that stimulate the body's inflammatory response and are associated with several changes in serum and salivary markers of immune receptors, cytokines, and other biomarkers. Periodontal disease has an inflammatory/infectious nature related to dysbiosis caused by well-characterized periodontopathogens (usually anaerobes), influencing immune-response activation with repercussions on cells and defense substances, and is associated with development of other systemic diseases.
+
+Among these inflammatory markers, leptin is a peptide hormone mainly produced by adipocytes, acting as a metabolic mediator, cellular energy homeostasis regulator, and neuroendocrine actor. Leptin has structural similarities to the long-chain helical cytokine family (e.g., TNF-α, IL-6), playing a key role in modulating inflammatory response.
+
+SLE's autoimmune manifestations have systemic effects with expressive activation of inflammatory mechanisms; this imbalance can exacerbate immune response, impairing cell homeostasis and damaging organ function. Studies show leptin plays a role in SLE pathogenesis via molecular pathways including immunocyte activation and modified antibody reactivities leading to aberrant T-cell/B-cell activation.
+
+Evidence shows increased SERUM leptin in SLE, and leptin blockade reduces autoantibody production. However, studies on SALIVARY leptin in SLE patients are scarce, both regarding association with periodontal inflammation and relationship with systemic disorders in this population. This study aimed to investigate the influence of periodontal status, clinical data, and serum biomarkers on salivary leptin levels of SLE patients.
+
+MATERIALS AND METHODS
+Case–control study in São Luís, Maranhão, Brazil: 38 SLE patients and 29 healthy controls. Approved by the Ethics and Research Committee of the University Hospital of the Federal University of Maranhão (No. 460.888); informed consent obtained.
+
+SLE patients recruited from the University Hospital of the Federal University of Maranhão. Healthy controls recruited from patients attending the Dentistry School of the same university. Ages 18–60, both sexes. Exclusion criteria: diabetes, smokers/ex-smokers <10 years, orthodontic appliance users, periodontal treatment within 6 months, clinically evident infectious disease, nodules/edema near salivary glands, pregnant/breastfeeding, antibiotic use within 6 months.
+
+Clinical/serum data: questionnaire + medical records; BMI measured. Serum variables: triglycerides (TG), total cholesterol, blood glucose, creatinine, creatinine clearance, urea, GOT, GPT, leukocytes, hemoglobin, platelets.
+
+Periodontal exam: single trained examiner, clinical mirror + Williams periodontal probe (Trinity, Brazil). Intra-examiner reliability coefficient >0.8 for PPD and CAL (10 patients re-examined at 7-day interval). PPD = gingival margin to sulcus/pocket bottom (mm). CAL = cemento-enamel junction to sulcus/pocket bottom (mm). Measured at 6 sites/tooth (distobuccal, buccal, mesiobuccal, distolingual, lingual, mesiolingual) for all present teeth. BOP evaluated at 4 sites/tooth (buccal, lingual, mesial, distal).
+
+Saliva collection: stimulated by chewing 2-cm latex piece, 7–10 am, ≥1h after last meal. Protease inhibitor cocktail (Sigma-Aldrich) added, stored at −80°C. Leptin measured via MAGPIX System (Merck Millipore) with HBNMAG-51K kit, Milliplex MAP (Millipore), in duplicate.
+
+Theoretical/statistical model: structural equation model (SEM) with response variable = salivary leptin level; explanatory variables = age, SLE status, and latent periodontal-status variable (mean PPD, mean CAL, BOP). Stata v18 for normality (Lilliefors), t-test, Mann-Whitney (by medicine type), Spearman correlation. Mplus v7.0 for SEM; fit criteria: chi-square P>0.05, TLI/CFI >0.95, RMSEA <0.05, SRMR <0.05. Significance level 5%.
+
+RESULTS
+38 SLE patients (all women; mean age 39.6 ± 10.5y) and 29 controls (20 women, 9 men; mean age 46.3 ± 11.8y). In SLE group, 63.2% had BMI <25, 36.8% had BMI ≥25; BMI did not correlate with salivary leptin (P=0.385).
+
+SLE group had LOWER salivary leptin than controls (P<0.05, reported elsewhere as P=0.002). Correlation analysis (SLE group only): salivary leptin inversely correlated with triglycerides (Rs=−0.534, P=0.003), creatinine (Rs=−0.331, P=0.048), creatinine clearance (Rs=−0.445, P=0.025), leukocytes (Rs=−0.331, P=0.041); positively correlated with total cholesterol (Rs=0.434, P=0.016). No association between leptin and medicine type.
+
+SEM results: each latent-variable indicator had factorial load >0.3, P<0.001. Age had an inverse effect on SLE and a direct effect on periodontal condition; SLE had an inverse effect on periodontal status. Direct effects on salivary leptin: only SLE had a significant inverse/independent effect (standardized estimate = −0.289, P=0.023). Periodontal status (latent variable) did NOT have a significant direct effect on salivary leptin. Model fit indices were satisfactory.
+
+DISCUSSION
+Findings: reduced salivary leptin in SLE patients, independent of periodontal status; positive correlation with total cholesterol, inverse correlation with triglycerides/creatinine/creatinine-clearance/leukocytes. Prior literature: direct relationship between body fat and circulating leptin independent of other inflammatory disease; this study found BMI uncorrelated with salivary leptin in SLE, consistent with prior work showing leptin alterations independent of age/sex/BMI in SLE.
+
+Evidence indicates salivary leptin is HIGHER in periodontitis patients (and further increased by diabetes), though non-surgical periodontal therapy did not affect salivary leptin in prior work — suggesting salivary leptin could be a periodontal-status monitoring marker, but SLE effect dominates over local periodontal factors in this cohort. This study found LOWER salivary leptin in SLE (contrasting direction from the periodontitis-alone literature), and no correlation with serum IL-6 or serum leptin in other prior studies — salivary leptin appears NOT linearly related to serum concentration in SLE. Mechanism unclear.
+
+Periodontal disease variables did NOT correlate with salivary leptin levels in this cohort — SLE alters salivary leptin independent of local periodontal factors. Possible mechanism: during inflammation, vascular endothelial growth factor-driven vascular network expansion may increase net leptin removal rate from gingival tissue while elevating serum leptin — a proposed explanation for reduced salivary vs. serum leptin. Alternative: leptin is secreted into salivary glands as oligomers (resistant to different denaturation conditions) vs. as a dimer in the GI tract — different molecular presentation across body compartments.
+
+SLE pharmacotherapy (glucocorticoids) has side effects including weight gain, fluid retention, and effects on circulating leptin; no correlation found here between medicine type and salivary leptin. Salivary leptin negatively correlated with serum creatinine/creatinine-clearance/leukocytes — creatinine/clearance are frequently altered in SLE and used to assess renal damage (major driver of SLE morbidity/mortality). SLE patients have elevated cardiovascular disease risk; cholesterol is an atherosclerosis risk marker, and leptin has been linked to both increased atherosclerosis risk and increased cholesterol; the negative correlation with triglycerides agrees with cardiovascular-disease leptin literature.
+
+Strengths: SEM enabled single-analysis evaluation of multiple explanatory pathways. Limitations: small sample size (strict control-group criteria including initial clinical/serum screening), and difficulty assessing SLE disease activity in this design. Longitudinal studies needed to clarify mechanism linking SLE activity and periodontal repercussions.
+
+CONCLUSION
+SLE patients show reduced salivary leptin independent of periodontal status. Salivary leptin appears related to serum markers (triglycerides, total cholesterol, leukocytes, creatinine) in SLE patients, but not to periodontal clinical parameters (PPD, CAL, BOP).
+
+Ethical approval: University Hospital of the Federal University of Maranhão Ethics and Research Committee (No. 460.888); informed consent obtained from all participants.

@@ -13,13 +13,21 @@ source_collection: external
 
 Part of a focused collection on vertical/horizontal ridge augmentation with titanium mesh. This technical note codifies a reproducible 14-step surgical protocol for customized-Ti-mesh GBR; it operationalizes the clinical approach whose outcomes are reported in [[implants/vertical-ridge-augmentation/chiapasco-2021-customized-cadcam-titanium-meshes-gbr]], and its emphasis on flap design and tension-free closure connects to the soft-tissue mechanisms in [[implants/vertical-ridge-augmentation/kaner-2017-pre-augmentation-soft-tissue-expansion-vertical-bone]].
 
-## One-line Summary
+## Three-line Summary
 
 Technical note / stepwise protocol (no patient outcome dataset): describes the TACOS technique (Titanium Alveolar Customized Osteogenic Scaffold) — a ~14-step procedure for horizontal+vertical ridge augmentation with CAD/CAM/SLM customized titanium mesh, autogenous bone + DBBM (≥60:40), cortical perforations for RAP, CGF, and resorbable membrane over the mesh.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 기술 노트/단계별 프로토콜 (환자 결과 데이터 없음): TACOS 기법(맞춤형 티타늄 골유도 스캐폴드)을 약 14단계로 기술 — CAD/CAM·SLM 맞춤형 티타늄 메시, 자가골+DBBM(≥60:40), 피질골 천공(RAP), 농축성장인자(CGF), 메시 위 흡수성 차폐막을 활용한 수평·수직 치조제 증대술.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

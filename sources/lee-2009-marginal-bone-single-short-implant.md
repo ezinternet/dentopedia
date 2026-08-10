@@ -13,13 +13,21 @@ source_collection: external
 
 Short implant marginal bone behavior and crown-to-implant (C:I) ratio effects are a recurring clinical question when planning posterior atrophic cases. This 2009 Korean retrospective provides early radiographic evidence comparing short vs. standard implants at 1 year and evaluates C:I ratio influence — foundational data that contextualizes newer SRs such as [[wiki/implants/anitua-2022-short-vs-longer-implants-single-crown]] and [[wiki/implants/arbildo-vega-2025-short-vs-standard-implants-edentulous-umbrella-review]].
 
-## One-line Summary
+## Three-line Summary
 
 Retrospective radiographic analysis of 40 single short implants (<10 mm) at Yonsei University found marginal bone loss comparable to standard implants at 1 year, with crown-to-implant ratio showing no statistically significant effect on bone loss.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 연세대학교 단일 단근 임플란트 40개의 후향적 방사선 분석 결과, 1년 추적 시 변연골 소실이 표준 임플란트와 유사하였으며, 치관-임플란트 비율(C:I ratio)은 골 소실에 유의한 영향을 미치지 않았다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

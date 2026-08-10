@@ -6,7 +6,7 @@ date: 2022-01-01
 doi: 10.1111/clr.13751
 source: montero-2022-soft-tissue-substitutes-vs-autogenous-keratinized-mucosa-sr.md
 category: [implants/soft-tissue]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/montero-2022-soft-tissue-substitutes-vs-autogenous-keratinized-mucosa-sr.pdf
 pdf_filename: montero-2022-soft-tissue-substitutes-vs-autogenous-keratinized-mucosa-sr.pdf
 source_collection: external
@@ -20,13 +20,21 @@ relations:
     target: stefanini-2023-soft-tissue-augmentation-peri-implant-sr
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (11 studies, 282 subjects, PROSPERO-registered) finding FGG augments peri-implant keratinized mucosa significantly more than soft tissue substitutes overall (WMD −0.9 mm, p = .001), but xenogeneic collagen matrices (Mucograft®) are not significantly inferior to autogenous grafts when analyzed alone (WMD −0.8 mm, p = .062), and reduce surgical time by ~18.5 min with better esthetics and lower postoperative pain.
+PROSPERO-registered systematic review (11 studies — 5 RCTs, 1 CCT, 5 case series; 282 subjects) comparing soft tissue substitutes vs autogenous grafts for peri-implant keratinized mucosa (KM) augmentation, commissioned for the 2021 SEPA/DGI/Osteology Foundation consensus.
 
-## 한줄요약
+Autogenous grafts overall were significantly superior to substitutes for KM gain (WMD −0.9 mm, p=.001), driven by FGG superiority (WMD −1.0 mm vs FGG); xenogeneic collagen matrices alone showed no statistically significant inferiority vs autogenous grafts (WMD −0.8 mm, p=.062) and achieved >3.5 mm KM gain, while reducing surgical time by ~18.5 min with lower postoperative pain and superior esthetics.
 
-체계적 문헌고찰(11개 연구, 282명): FGG가 연조직 대체재 대비 임플란트 주위 각화점막 증가가 유의하게 더 크나(WMD −0.9 mm), 이종 콜라겐 기질(Mucograft®)만 분석 시 통계적 열등성 없고(p = .062) 수술시간 단축·이환율 감소·미적 결과 우수로 현실적 대안.
+Xenogeneic collagen matrix (Mucograft®) is a clinically viable KM augmentation alternative when palatal harvest is unfeasible or declined — it achieves the >2 mm KM threshold associated with peri-implant health, though FGG remains the gold standard for maximum gain.
+
+## 세줄요약
+
+PROSPERO 등록 SR(11편: RCT 5·CCT 1·증례연구 5, 282명): 임플란트 주위 각화점막(KM) 증대를 위한 연조직 대체재 vs 자가이식을 비교(2021 SEPA/DGI/Osteology 합의 의뢰).
+
+전체적으로 자가이식이 대체재보다 KM 증가에 유의하게 우수(WMD −0.9 mm, p=.001; FGG 비교 시 WMD −1.0 mm); 그러나 이종 콜라겐 기질(XCM)만 분석하면 통계적 열등성 없고(p=.062) +3.5 mm KM 달성, 수술 시간 ~18.5 min 단축·수술 후 통증 감소·미적 결과 우수.
+
+XCM(Mucograft®)은 구개 채취가 어렵거나 환자가 거부하는 경우 현실적 KM 증대 대안이며 임플란트 주위 건강 역치(>2 mm KM)를 달성 — FGG는 최대 KM 증가의 금본위이다.
 
 ## Summary
 
@@ -110,7 +118,7 @@ No significant overall difference vs autogenous (WMD −3.7%; p = .256). Allogra
 
 ## Related Papers
 
-- [[implants/sanz-2022-keratinized-mucosa-around-implants-consensus]] — consensus statement for the same SEPA/DGI/Osteology workshop; Montero SR is the primary evidence base
-- [[implants/oh-2024-keratinized-mucosa-augmentation-functioning-implants-sr-ma]] — SR+MA on augmentation around functioning implants; this SR provides the substitute-vs-autograft subgroup perspective
-- [[implants/stefanini-2023-soft-tissue-augmentation-peri-implant-sr]] — SR on soft tissue augmentation peri-implant outcomes; complementary scope on phenotype modification
+- [[implants/soft-tissue/sanz-2022-keratinized-mucosa-around-implants-consensus]] — consensus statement for the same SEPA/DGI/Osteology workshop; Montero SR is the primary evidence base
+- [[implants/soft-tissue/oh-2024-keratinized-mucosa-augmentation-functioning-implants-sr-ma]] — SR+MA on augmentation around functioning implants; this SR provides the substitute-vs-autograft subgroup perspective
+- [[implants/soft-tissue/stefanini-2023-soft-tissue-augmentation-peri-implant-sr]] — SR on soft tissue augmentation peri-implant outcomes; complementary scope on phenotype modification
 - [[overviews/keratinized-mucosa-peri-implant-health-overview]] — synthesis page on KM role and augmentation decisions; Montero provides the CM vs autograft arm of the clinical decision tree

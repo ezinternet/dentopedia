@@ -6,7 +6,7 @@ date: 2022-01-01
 doi: 10.1155/2022/8635254
 source: rashed-2022-sealant-vs-fluoride-varnish-caries-prevention-sr-ma.md
 category: [caries]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "36263239"
@@ -20,13 +20,19 @@ relations:
     target: chestnutt-2017-fissure-seal-fluoride-varnish-trial
 ---
 
-## One-line Summary
+## Three-line Summary
+SR+MA of 4 RCTs (1,249 schoolchildren aged 6–12, all 24-month follow-up, PROSPERO CRD42022146807) comparing resin pit-and-fissure sealant (PFS) vs fluoride varnish (FV) for preventing caries in first permanent molars.
 
-SR+MA (4 RCTs, 1249 children, all 24-month follow-up): resin pit-and-fissure sealant vs fluoride varnish shows **no significant difference** in caries prevention of first permanent molars (caries-increment RR 0.65, 95% CI 0.31-1.35, p=0.26, I²=89%; DMFS MD 0.09, 95% CI -0.03 to 0.21) → FV favored as cheaper and easier.
+No statistically significant difference in caries incidence (RR 0.65, 95% CI 0.31–1.35, p=0.26, I²=89%) or DMFS increment (MD 0.09, 95% CI −0.03 to 0.21) between PFS and FV at 24 months.
 
-## 한줄요약
+Given equivalent efficacy, FV is favored over PFS for school-based programmes on grounds of lower cost and easier application; long-term (>2 yr) comparative data are still absent.
 
-SR+MA (RCT 4편, 어린이 1249명, 전부 24개월 추적): 제1대구치 우식예방에서 레진 치면열구전색과 불소바니시는 **유의차 없음**(우식증가 RR 0.65, 95% CI 0.31-1.35, p=0.26, I²=89%; DMFS MD 0.09, 95% CI -0.03~0.21) → 더 저렴하고 시술 쉬운 불소바니시 권장.
+## 세줄요약
+SR+MA (RCT 4편, 6–12세 학령기 아동 1,249명, 전부 24개월 추적, PROSPERO 등록): 제1대구치 우식예방에서 레진 치면열구전색 vs 불소바니시 비교.
+
+24개월 우식발생 RR 0.65 (95% CI 0.31–1.35, p=0.26, I²=89%) — 유의차 없음; DMFS 증가량 MD 0.09 (−0.03~0.21) — 유의차 없음.
+
+효과 동등 시 학교 기반 프로그램에서 더 저렴하고 시술 쉬운 불소바니시 권장; 2년 초과 장기 비교 자료는 아직 없다.
 
 ## Summary
 

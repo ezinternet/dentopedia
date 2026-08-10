@@ -6,7 +6,7 @@ category: [overviews]
 date: 2026-05-18
 tags: [third-molar, IAN, coronectomy, CBCT, OPG, oral-surgery, overview]
 source_papers: 
-confidence: synthesis
+evidence_level: synthesis
 source: synthesis
 ---
 
@@ -25,12 +25,21 @@ source: synthesis
 > - 합병증/추적: 잔존 치근은 약 2년 내 평균 2mm 치관방향 이동(대부분 허용 범위), 재발치 필요 5.28%, 재개입 4.45%(대부분 ~10개월 내, Di Spirito 2025) → 정기 OPG 추적.
 > - 임상 takeaway: OPG 징후 ≥1개 → CBCT. CBCT에서 피질골 소실(위험 15.65%)·아령형(OR 8.25)·설측 위치(OR 3.82) 확인 → 관상절제술. 단 전체 GRADE 낮음~매우낮음(절대위험률 연구)이므로 개별 임상 판단 우선.
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis of 5+ papers into a pre-extraction inferior alveolar nerve (IAN) risk-assessment and technique-selection protocol for lower third molars: panoramic Rood & Shehab signs (any one → CBCT indication) → CBCT classification of inferior alveolar canal position (lingual position carries the highest risk, OR 4.96) → coronectomy as a strong indication for high-risk anatomy plus risk factors (age >24, horizontal impaction). Coronectomy significantly reduces IAN injury vs total extraction (~0.59% injury rate; reinforced by Derbishi 2026 SR+MA Peto OR 0.23), at the cost of root migration and ~4–5% re-intervention; the field still lacks high-quality RCTs so individual clinical judgment governs.
+Synthesis of 9+ papers into a pre-extraction inferior alveolar nerve (IAN) risk-assessment and technique-selection protocol for lower third molars: panoramic Rood & Shehab signs (any one → CBCT indication) → CBCT classification (absent cortical bone OR 9.87, dumbbell-shaped canal OR 8.25, lingual position OR 3.82) with absolute risk 15.65% vs 0.39% for cortical bone absent/intact (Thereza-Bussolaro 2026).
 
-## 한줄요약
-OPG 위험 징후 → CBCT로 IAC 위치 확인 → 설측 위치(OR 4.96)·고위험 환자면 관상절제술 선택 — IAN 손상 0.59%로 완전 발치 대비 유의하게 낮춤.
+Coronectomy is a strong indication for high-risk anatomy (lingual IAC + absent cortical bone + risk factors age >24, horizontal impaction), reducing IAN injury vs total extraction (0.56% vs 6.53%, Peto OR 0.23, TSA-confirmed; Rico-Barroso 2026, Derbishi 2026) at the cost of root migration and 4.45% re-intervention.
+
+Individual clinical judgment governs as overall GRADE evidence is low to very low; coronectomy is contraindicated for infected roots, complete canal fusion, or vertical/distal impaction preventing coronal removal.
+
+## 세줄요약
+
+하악 제3대구치 IAN 위험평가 9편 이상 종합: OPG Rood & Shehab 징후 ≥1 → CBCT로 IAC 위치 분류(피질골 소실 OR 9.87·아령형 OR 8.25·설측 OR 3.82; 절대위험 15.65% vs 0.39%) → 고위험 해부+위험인자(나이 >24·수평매복) 시 관상절제술 강적응증.
+
+관상절제술은 완전발치 대비 IAN 손상 유의 감소(0.56% vs 6.53%, Peto OR 0.23, TSA 확정)하며, 치근 이동과 재개입률 4.45%의 대가가 따른다.
+
+전체 근거 GRADE 낮음~매우낮음이므로 개별 임상 판단 우선; 감염 치근·치관 제거 불가 매복·완전 신경관 융합은 관상절제술 금기.
 
 ---
 
@@ -192,9 +201,9 @@ OPG 판독
 *(Póvoa 2021 SR, 16편)*
 
 ### 6-2b. 신규 근거 (2026-06) — IAN 보호 효과 정량 강화
-- **Derbishi 2026 SR+MA** (8편: RCT 3 + 코호트 5, 1,488치): 관상절제술이 완전발치 대비 IAN 손상 **Peto OR 0.23 (95% CI 0.13–0.39, p<0.0001)**, TSA로 결론 확정. Cervera-Espert 2016의 "유의 감소"를 효과크기로 못박음. [근거강함]
-- **Rico-Barroso 2026 SR** (16편, 2,551환자): IAN 손상 **0.56%(관상절제) vs 6.53%(완전발치)**; 관상절제 중 6.22%가 결국 재발치. 본 페이지 6-2 표의 0.59% 수치와 일치. [근거강함]
-- **Di Spirito 2025 umbrella review** (SR 6편, 7,913 성공 관상절제): 재개입률 **4.45%**, 대부분 ~10개월 내, 치근 노출·이동이 주동인. 6-2 표의 재개입 1.13%보다 높은 상한 제시 — 장기 추적 필요. [합의수준]
+- **Derbishi 2026 SR+MA** (8편: RCT 3 + 코호트 5, 1,488치): 관상절제술이 완전발치 대비 IAN 손상 **Peto OR 0.23 (95% CI 0.13–0.39, p<0.0001)**, TSA로 결론 확정. Cervera-Espert 2016의 "유의 감소"를 효과크기로 못박음. [확인]
+- **Rico-Barroso 2026 SR** (16편, 2,551환자): IAN 손상 **0.56%(관상절제) vs 6.53%(완전발치)**; 관상절제 중 6.22%가 결국 재발치. 본 페이지 6-2 표의 0.59% 수치와 일치. [확인]
+- **Di Spirito 2025 umbrella review** (SR 6편, 7,913 성공 관상절제): 재개입률 **4.45%**, 대부분 ~10개월 내, 치근 노출·이동이 주동인. 6-2 표의 재개입 1.13%보다 높은 상한 제시 — 장기 추적 필요. [확인]
 
 ### 6-3. 치근 이동 (Root Migration)
 - 잔존 치근은 **평균 2년 내 약 2mm 치관 방향으로 이동** (Cervera-Espert 2016)
@@ -233,20 +242,20 @@ OPG 판독
 
 ## 관련 페이지
 
-- [[oral-surgery/sarikov-2014-ian-injury-third-molar-review]] — IAN 손상 유병률·위험인자·회복률 (JOMR 2014)
-- [[oral-surgery/li-2022-ian-position-nerve-injury-sr-ma]] — IAC 위치(설측 vs 협측) SR+MA; OR 4.96 (Healthcare 2022) *(설측 OR은 Thereza-Bussolaro 2026으로 업데이트됨)*
-- [[oral-surgery/thereza-bussolaro-2026-cbct-ian-predictive-factors-sr-ma]] — CBCT 8대 예측인자 OR — 피질골 소실 OR 9.87, 아령형 OR 8.25, 설측 OR 3.82 (JADA 2026, 18편, GRADE 중-고)
-- [[oral-surgery/thereza-bussolaro-2026-ian-risk-cbct-at-risk-sr-ma]] — CBCT별 절대위험률: 전체 9.52%, 피질골 소실 15.65% vs 정상 0.39%(40배 차이) (JOMS 2026, 11편)
-- [[oral-surgery/cervera-espert-2016-coronectomy-mandibular-third-molar-sr]] — 관상절제술 SR+MA; IAN↓·건성발치창↓ (Med Oral 2016)
-- [[oral-surgery/povoa-2021-coronectomy-inferior-alveolar-nerve-sr]] — 관상절제술 2,176례 SR; IAN 0.59% (Healthcare 2021)
-- [[oral-surgery/damico-2025-third-molar-surgical-indications-guidelines]] — NICE·AAOMS 가이드라인 검토 (Eng Proc 2025)
+- [[oral-surgery/nerve-injury/sarikov-2014-ian-injury-third-molar-review]] — IAN 손상 유병률·위험인자·회복률 (JOMR 2014)
+- [[oral-surgery/nerve-injury/li-2022-ian-position-nerve-injury-sr-ma]] — IAC 위치(설측 vs 협측) SR+MA; OR 4.96 (Healthcare 2022) *(설측 OR은 Thereza-Bussolaro 2026으로 업데이트됨)*
+- [[oral-surgery/nerve-injury/thereza-bussolaro-2026-cbct-ian-predictive-factors-sr-ma]] — CBCT 8대 예측인자 OR — 피질골 소실 OR 9.87, 아령형 OR 8.25, 설측 OR 3.82 (JADA 2026, 18편, GRADE 중-고)
+- [[oral-surgery/nerve-injury/thereza-bussolaro-2026-ian-risk-cbct-at-risk-sr-ma]] — CBCT별 절대위험률: 전체 9.52%, 피질골 소실 15.65% vs 정상 0.39%(40배 차이) (JOMS 2026, 11편)
+- [[oral-surgery/third-molar/cervera-espert-2016-coronectomy-mandibular-third-molar-sr]] — 관상절제술 SR+MA; IAN↓·건성발치창↓ (Med Oral 2016)
+- [[oral-surgery/third-molar/povoa-2021-coronectomy-inferior-alveolar-nerve-sr]] — 관상절제술 2,176례 SR; IAN 0.59% (Healthcare 2021)
+- [[oral-surgery/third-molar/damico-2025-third-molar-surgical-indications-guidelines]] — NICE·AAOMS 가이드라인 검토 (Eng Proc 2025)
 
 ## Related Papers
 
 ### 신규 추가 (2026-06)
 
-- [[oral-surgery/thereza-bussolaro-2026-cbct-ian-predictive-factors-sr-ma]] — SR+MA (18편, GRADE 중-고): CBCT 예측인자 OR — 피질골 소실 OR 9.87, 아령형 OR 8.25, 설측 OR 3.82, 3개 동시 OR 5.06 (sr+ma, 2026)
-- [[oral-surgery/thereza-bussolaro-2026-ian-risk-cbct-at-risk-sr-ma]] — SR+MA (11편): CBCT 절대위험률 — 전체 9.52%, 고위험군 14.76%, 피질골 소실 15.65% vs 정상 0.39% (sr+ma, 2026)
-- [[oral-surgery/derbishi-2026-coronectomy-versus-total-extraction-third]] — SR+MA (8 studies — 3 RCTs + 5 cohorts, 1488 teeth): coronectomy cut IAN injury vs total extraction (Peto OR 0.23, 95% CI 0.13–0.39, p<0.0001 … (sr+ma, 2026)
-- [[oral-surgery/di-spirito-2025-re-intervention-rate-timing-indications]] — Umbrella review (6 systematic reviews, 5896 subjects, 7913 successful coronectomies): overall re-intervention rate 4.45%, mostly within ~10 months … (sr, 2025)
-- [[oral-surgery/rico-barroso-2026-coronectomy-alternative-technique-complete-extraction]] — Systematic review (16 studies, 2551 patients, 2280 coronectomies vs 841 extractions): IAN injury 0.56% (coronectomy) vs 6.53% (extraction) … (sr, 2026)
+- [[oral-surgery/nerve-injury/thereza-bussolaro-2026-cbct-ian-predictive-factors-sr-ma]] — SR+MA (18편, GRADE 중-고): CBCT 예측인자 OR — 피질골 소실 OR 9.87, 아령형 OR 8.25, 설측 OR 3.82, 3개 동시 OR 5.06 (sr+ma, 2026)
+- [[oral-surgery/nerve-injury/thereza-bussolaro-2026-ian-risk-cbct-at-risk-sr-ma]] — SR+MA (11편): CBCT 절대위험률 — 전체 9.52%, 고위험군 14.76%, 피질골 소실 15.65% vs 정상 0.39% (sr+ma, 2026)
+- [[oral-surgery/third-molar/derbishi-2026-coronectomy-versus-total-extraction-third]] — SR+MA (8 studies — 3 RCTs + 5 cohorts, 1488 teeth): coronectomy cut IAN injury vs total extraction (Peto OR 0.23, 95% CI 0.13–0.39, p<0.0001 … (sr+ma, 2026)
+- [[oral-surgery/third-molar/di-spirito-2025-re-intervention-rate-timing-indications]] — Umbrella review (6 systematic reviews, 5896 subjects, 7913 successful coronectomies): overall re-intervention rate 4.45%, mostly within ~10 months … (sr, 2025)
+- [[oral-surgery/third-molar/rico-barroso-2026-coronectomy-alternative-technique-complete-extraction]] — Systematic review (16 studies, 2551 patients, 2280 coronectomies vs 841 extractions): IAN injury 0.56% (coronectomy) vs 6.53% (extraction) … (sr, 2026)

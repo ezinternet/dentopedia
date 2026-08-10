@@ -6,7 +6,7 @@ date: 2026-06-17
 doi: N/A
 source: N/A
 category: overviews
-confidence: synthesis
+evidence_level: synthesis
 pdf_path: N/A
 pdf_filename: N/A
 source_collection: synthesis
@@ -16,11 +16,11 @@ relations:
     target: liu-2024-maxillary-immediate-molar-palatal-root-socket
   - type: extends
     target: yaghmai-2025-palatal-root-socket-all-on-x
-  - type: reinforces
+  - type: applies-to
     target: yuan-2018-biomechanics-immediate-postextraction-osseointegration
-  - type: reinforces
+  - type: refines
     target: matsuda-2016-3d-alveolar-bone-maxillary-first-molar-cbct
-  - type: reinforces
+  - type: extends
     target: deporter-2021-cbct-immediate-maxillary-molar-implant
 ---
 
@@ -38,13 +38,21 @@ relations:
 > - **보철 응용**: All-on-X 전악 보철에서 구개 치근와 식립은 **후방 cantilever를 제거**하는 원위 지대주 확보 전략으로 활용(Yaghmai 2025).
 > - **결정 틀**: ① 술전 CBCT 필수 → ② 격벽 충분(Type A)이면 격벽 정착 → ③ 불충분하면 구개 치근와 평가(직경·길이·동 거리) → ④ 동 근접 시 경치조골 거상 병행 → ⑤ 보철축·1차 안정성(≥35 Ncm) 확인 후 부하 결정. 구개치근와 단독 정착의 직접 근거는 아직 **증례 수준**(Liu 2024, Yaghmai 2025)임을 명시.
 
-## One-line Summary
+## Three-line Summary
 
-Cross-paper synthesis on using the palatal root socket as the primary anchorage for maxillary molar immediate implants when the inter-radicular septum is inadequate: anatomy/eligibility (CBCT), biomechanical rationale (low-strain + PDL-derived osseointegration), stability behavior, the sinus-proximity constraint, open-wound soft-tissue healing, and the All-on-X cantilever-avoidance application — survival ~97% (delayed-equivalent) but palatal-root single-anchorage direct evidence remains case-level.
+Cross-paper synthesis on using the palatal root socket as primary anchorage for maxillary molar immediate implant placement (IIP) when the inter-radicular septum is inadequate (IRS fits a ≥5 mm implant in only 61.7% of first molars and 34% of second molars on CBCT), covering anatomy, biomechanical rationale, stability behavior, sinus constraint, soft-tissue healing, and All-on-X cantilever-avoidance application.
 
-## 한줄요약
+Overall molar IIP survival is ~97% (RR 0.99 vs delayed, Patel 2023 SR+MA), but the palatal root delivers a distinct stability trajectory — maxillary posterior implants reach ISQ >73 at placement yet undergo a 2–4 week stability dip and end at lower 24-week ISQ than mandibular (78.2 vs 81.5); sinus proximity is the dominant anatomical constraint, with palatal root apex intruding deepest into the antrum (mean −2.2 mm, 28.85% sinus involvement), making transcrestal sinus elevation a frequent concomitant requirement.
 
-상악 대구치 즉시식립에서 격벽이 부족할 때 구개 치근와를 1차 정착부로 쓰는 전략의 종합 — 해부·적격성(CBCT), 생역학적 근거, 안정성 거동, 상악동 근접 제약, 개방창 연조직 치유, All-on-X cantilever 회피 응용. 생존율 ~97%(지연식립 동등)이나 구개치근 단독 정착 직접 근거는 아직 증례 수준.
+The clinical bottom line is: pre-operative CBCT must quantify IRS dimensions, palatal root length, and sinus-floor distance before planning palatal-socket IIP; primary stability ≥35 Ncm is required before loading; and while the palatal root is the most reliable fallback anchorage when the septum fails, its direct clinical evidence remains at case level (Liu 2024, Yaghmai 2025), warranting conservative loading decisions in the maxillary posterior.
+
+## 세줄요약
+
+상악 대구치 즉시식립(Immediate Implant Placement, IIP)에서 치근간 격벽(Inter-Radicular Septum, IRS)이 불충분할 때(1대구치 61.7%·2대구치 34%만 ≥5 mm 임플란트 수용) 구개 치근와를 1차 정착부로 쓰는 전략 종합 — 해부·생역학·안정성 거동·상악동 제약·연조직 치유·All-on-X 적용 포함.
+
+대구치 즉시식립 전체 생존율 ~97%(지연 동등); 상악 구치는 식립 직후 ISQ >73이나 2–4주 안정성 저하(dip)가 있고 24주 ISQ가 하악보다 낮으며(78.2 vs 81.5); 구개근 첨부가 세 치근 중 상악동에 가장 깊이 침범(−2.2 mm, 동 침범률 28.85%)해 경치조골 상악동거상술 동반이 자주 필요하다.
+
+임상 핵심: 수술 전 CBCT로 IRS·구개근 길이·상악동 거리 반드시 정량화; 부하 전 1차 안정성 ≥35 Ncm 확인; 구개 치근와가 격벽 실패 시 가장 신뢰할 수 있는 대안이지만 직접 근거는 증례 수준(Liu 2024, Yaghmai 2025)임을 명시하고 보수적 부하 결정이 원칙이다.
 
 ## Summary
 
@@ -110,17 +118,17 @@ Maxillary molar to be extracted → pre-op CBCT (mandatory)
 
 | Theme | Key paper | Type |
 |---|---|---|
-| Socket classification | [[immediate-implant/smith-2013-classification-molar-extraction-immediate-implant]] | technical note |
-| Septum shape taxonomy | [[immediate-implant/milenkovic-2022-interradicular-septum-classification-iip]] | cross-sectional |
-| CBCT eligibility | [[immediate-implant/deporter-2021-cbct-immediate-maxillary-molar-implant]] | retrospective |
-| CBCT palatal-root anatomy | [[immediate-implant/matsuda-2016-3d-alveolar-bone-maxillary-first-molar-cbct]] | cross-sectional |
-| Biomechanics | [[immediate-implant/yuan-2018-biomechanics-immediate-postextraction-osseointegration]] | animal |
-| Survival (molar IIP) | [[immediate-implant/ragucci-2020-immediate-implant-molar-extraction-sockets]] | sr+ma |
+| Socket classification | [[immediate-implant/molar-septum/smith-2013-classification-molar-extraction-immediate-implant]] | technical note |
+| Septum shape taxonomy | [[immediate-implant/molar-septum/milenkovic-2022-interradicular-septum-classification-iip]] | cross-sectional |
+| CBCT eligibility | [[immediate-implant/molar-septum/deporter-2021-cbct-immediate-maxillary-molar-implant]] | retrospective |
+| CBCT palatal-root anatomy | [[immediate-implant/molar-septum/matsuda-2016-3d-alveolar-bone-maxillary-first-molar-cbct]] | cross-sectional |
+| Biomechanics | [[immediate-implant/primary-stability/yuan-2018-biomechanics-immediate-postextraction-osseointegration]] | animal |
+| Survival (molar IIP) | [[immediate-implant/molar-septum/ragucci-2020-immediate-implant-molar-extraction-sockets]] | sr+ma |
 | Immediate vs delayed | [[immediate-implant/patel-2023-immediate-vs-delayed-implant-survival-sr-ma]] | sr+ma |
-| Maxilla vs mandible stability | [[immediate-implant/witoonkitvanich-2025-immediate-implant-stability-maxilla-mandible]] | prospective |
+| Maxilla vs mandible stability | [[immediate-implant/primary-stability/witoonkitvanich-2025-immediate-implant-stability-maxilla-mandible]] | prospective |
 | Open-wound soft tissue | [[immediate-implant/esthetic-soft-tissue/deng-2024-posterior-open-wound-healing-immediate-implant]] | retrospective |
-| Palatal-root technique | [[immediate-implant/liu-2024-maxillary-immediate-molar-palatal-root-socket]] | case-report |
-| All-on-X application | [[immediate-implant/yaghmai-2025-palatal-root-socket-all-on-x]] | case-report |
+| Palatal-root technique | [[immediate-implant/molar-septum/liu-2024-maxillary-immediate-molar-palatal-root-socket]] | case-report |
+| All-on-X application | [[immediate-implant/molar-septum/yaghmai-2025-palatal-root-socket-all-on-x]] | case-report |
 
 ## Bottom line
 

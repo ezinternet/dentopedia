@@ -14,8 +14,21 @@ prospero_id: CRD42024586616
 
 Adds the post-COVID temporal arc and the management/modifiable-factor angle (workplace relationships) to the burnout evidence base, updating the currency of [[overviews/dentist-burnout-mental-health-overview]].
 
-## One-line Summary
-SR (no MA) — first post-pandemic dentist burnout review covering the full pre/during/post-COVID arc; confirms high EE/DP/reduced-PA across all phases, with pandemic-era stressors amplifying impact and workplace relationships/dynamics emerging as the leading modifiable factor.
+## Three-line Summary
+
+SR (no MA) — first post-pandemic dentist burnout review covering the
+
+full pre/during/post-COVID arc; confirms high EE/DP/reduced-PA across all phases, with pandemic-era
+
+stressors amplifying impact and workplace relationships/dynamics emerging as the leading modifiable factor.
+
+## 세줄요약
+
+SR (no MA) — first post-pandemic dentist burnout review covering the
+
+full pre/during/post-COVID arc; confirms high EE/DP/reduced-PA across all phases, with pandemic-era
+
+stressors amplifying impact and workplace relationships/dynamics emerging as the leading modifiable factor.
 
 ## 1. Document Information
 - Journal: Healthcare (MDPI), 12:2366, Nov 26 2024

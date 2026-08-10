@@ -6,7 +6,7 @@ date: 2021-12-01
 doi: 10.1186/s40729-021-00305-2
 source: lee-2021-alveolar-ridge-preservation-periodontally-compromised.md
 category: [bone-regeneration/ridge-preservation]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/lee-2021-alveolar-ridge-preservation-periodontally-compromised.pdf
 pdf_filename: lee-2021-alveolar-ridge-preservation-periodontally-compromised.pdf
 source_collection: external
@@ -18,13 +18,21 @@ relations:
     target: kang-2025-implant-failure-predictors-ridge-preservation
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective cohort (418 periodontally compromised extraction sites, 287 patients): ARP significantly reduced implant-placement infeasibility (0.8% vs 4.7% no-ARP) and reduced the need/severity of bone augmentation at implant placement.
+Retrospective cohort (Seoul National University, n=418 periodontally compromised extraction sites, 287 patients, extractions 2011–2015) comparing ARP (immediate GBR, resorbable membrane, secondary-intention healing, n=247) vs no-ARP (n=171) on implant-placement feasibility and bone augmentation requirements.
 
-## 한줄요약
+ARP cut implant-placement infeasibility from 4.7% to 0.8%, and "no ARP" was an independent multivariable predictor of greater horizontal, vertical, and total bone augmentation need at implant surgery.
 
-후향연구 (치주적으로 손상된 발치와 418부위, 287명): ARP를 시행하면 임플란트 식립 불가율이 0.8%로 무ARP군(4.7%)보다 유의하게 낮아지고, 식립 시 골이식 필요성·범위도 줄어들었다.
+This study is specifically relevant to infected/periodontally compromised sockets — the real-world majority of extractions — where ARP is defensible and beneficial rather than over-treatment, qualifying narratives that ARP is routinely unnecessary.
+
+## 세줄요약
+
+후향적 코호트 (서울대치과병원, 치주적으로 손상된 발치와 418부위, 287명, 발치 2011–2015): ARP군 (즉시 GBR·흡수성막·이차치유, n=247) vs 무ARP군 (n=171)에서 임플란트 식립 가능성과 골증대 필요성 비교.
+
+ARP 시행 시 임플란트 식립 불가율이 4.7%→0.8%로 감소했고, 다변량 모형에서 무ARP가 수평·수직·총 골증대 필요성의 독립 예측인자였다.
+
+이 연구는 실제 임상에서 다수를 차지하는 감염/치주 손상 발치와에 특화되며, ARP가 해당 조건에서 과잉치료가 아닌 정당하고 유익한 중재임을 지지한다.
 
 ## Summary
 

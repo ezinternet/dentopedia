@@ -6,18 +6,26 @@ date: 2026-08-01
 doi: 10.1016/j.bioadv.2026.214884
 source: sun-2026-low-temperature-plasma-titanium-implants-review.md
 category: [implants/surface]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/sun-2026-low-temperature-plasma-titanium-implants-review.pdf
 pdf_filename: sun-2026-low-temperature-plasma-titanium-implants-review.pdf
 source_collection: external
 tags: [titanium-implant, surface-modification, plasma, ltp, osseointegration, antibacterial]
 ---
 
-## One-line Summary
-Narrative review (Biomaterials Advances 2026) of low-temperature plasma (LTP) surface modification of titanium dental implants: LTP alters only outermost surface chemistry (reactive functional groups, increased wettability) without affecting bulk properties, enhancing osteoblast adhesion/proliferation/differentiation and reducing bacterial colonization, while plasma aging and lack of standardized parameters limit clinical translation.
+## Three-line Summary
+Narrative review (Biomaterials Advances 2026) of low-temperature plasma (LTP) surface modification of titanium dental implants, synthesizing in vitro, in vivo animal, and conceptual evidence for LTP as a non-thermal surface activation strategy.
 
-## 한줄요약
-Narrative review (Biomaterials Advances 2026): low-temperature plasma (LTP) alters titanium surface chemistry without affecting bulk properties — increases wettability, introduces reactive functional groups, reduces initial bacterial adhesion, and enhances osteoblast adhesion/proliferation/differentiation; plasma-aging and clinical-translation barriers remain unresolved.
+LTP alters only the outermost surface chemistry — introducing reactive functional groups and increasing wettability — without affecting bulk mechanical properties; in vitro and animal evidence supports enhanced osteoblast adhesion/proliferation/differentiation and reduced bacterial colonization.
+
+Plasma aging (signal decay with storage) and lack of standardized parameters (plasma source, exposure time, gas mix) limit clinical translation; human RCT evidence is absent.
+
+## 세줄요약
+서술 리뷰 (Biomaterials Advances 2026): 저온 플라즈마 (Low-Temperature Plasma, LTP) 티타늄 임플란트 표면 처리 — in vitro·동물 실험·이론적 근거 종합.
+
+LTP는 표면 화학만 변경(반응성 작용기 도입, 습윤성 증가)하고 벌크 기계적 특성은 그대로 유지; in vitro 및 동물 모델에서 골모세포 부착·증식·분화 향상 및 세균 집락 억제 확인.
+
+플라즈마 노화(보관 중 효과 소실) 및 파라미터 미표준화(플라즈마 소스·노출 시간·가스 조성)가 임상 적용을 제한; 인체 무작위 대조시험 근거 없음.
 
 ## Summary
 Review of low-temperature plasma (LTP) as a non-thermal surface activation strategy for titanium dental implants. LTP changes only the outermost surface chemistry — introducing reactive functional groups and increasing wettability — while leaving bulk mechanical properties intact. In vitro and animal evidence supports improved osteoblast response and reduced bacterial colonization; clinical translation is constrained by plasma aging (signal decay with storage) and lack of standardized parameters.

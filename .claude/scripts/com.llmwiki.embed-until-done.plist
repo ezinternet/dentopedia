@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.llmwiki.embed-until-done</string>
+
+    <key>ProgramArguments</key>
+    <array>
+        <string>/bin/bash</string>
+        <string>/Users/oracleneo/llm-wiki/scripts/embed-until-done-launchd.sh</string>
+    </array>
+
+    <key>RunAtLoad</key>
+    <true/>
+
+    <!-- Relaunch ONLY when the loop exits non-zero (session expiry / crash / MAX_PASSES).
+         A clean exit 0 means the done-marker was reached → launchd stops relaunching. -->
+    <key>KeepAlive</key>
+    <dict>
+        <key>SuccessfulExit</key>
+        <false/>
+    </dict>
+
+    <!-- Small breather between relaunch attempts. -->
+    <key>ThrottleInterval</key>
+    <integer>15</integer>
+
+    <key>StandardOutPath</key>
+    <string>/Users/oracleneo/llm-wiki/logs/embed-until-done.log</string>
+    <key>StandardErrorPath</key>
+    <string>/Users/oracleneo/llm-wiki/logs/embed-until-done.log</string>
+
+    <key>WorkingDirectory</key>
+    <string>/Users/oracleneo/llm-wiki</string>
+
+    <key>EnvironmentVariables</key>
+    <dict>
+        <key>PATH</key>
+        <string>/opt/homebrew/bin:/usr/bin:/bin:/usr/sbin:/sbin</string>
+    </dict>
+</dict>
+</plist>

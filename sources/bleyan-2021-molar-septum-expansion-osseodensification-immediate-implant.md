@@ -13,8 +13,21 @@ source_collection: external
 
 대구치 즉시식립(Immediate Implant)에서 골밀도화(Osseodensification, OD)로 치근간 중격(Interradicular Septum)을 확장해 일차 안정성을 얻는 술식의 최대 다기관 근거(145 implants). 통상 드릴이 중격에서 미끄러지는 난제를 OD가 해결함을 보여, 즉시식립 의사결정과 OD 임상응용 종합의 핵심 자료가 된다. See [[overviews/immediate-implant-decision-ladder]] and [[overviews/osseodensification-clinical-applications]].
 
-## One-line Summary
-Retrospective multicenter cohort (131 patients, 145 immediate molar implants, 5 centers, 2015–2020) where OD expanded the interradicular septum from mean 3.3 mm to 4.65 mm osteotomy diameter; cumulative implant survival 93.1% (10 failures: 7 healing-phase, 3 post-loading).
+## Three-line Summary
+
+Retrospective multicenter cohort (5 centers, 131 patients, 145 immediate molar implants, August 2015–September 2020, up to 5-year follow-up) evaluating osseodensification (OD) for interradicular septum expansion and immediate molar implant placement; also introduces a new molar socket classification.
+
+OD expanded the mean septum from 3.3 mm to 4.65 mm osteotomy diameter; cumulative implant survival was 93.1% with 10 failures (7 during healing, 3 post-loading).
+
+OD addresses the conventional-drill limitation of skidding off the interradicular septum in molar sockets; however, no comparator group exists and inventor/licensor co-authorship represents a conflict of interest.
+
+## 세줄요약
+
+후향적 다기관 코호트(5기관, 131명, 즉시 대구치 임플란트 145개, 2015–2020, 최장 5년 추적) — 골밀도화(OD)를 이용한 치근간 중격 확장 및 즉시식립; 새로운 대구치 소켓 분류체계 제안.
+
+OD가 평균 중격 폭 3.3 mm → 골절개 직경 4.65 mm로 확장; 누적 임플란트 생존율 93.1%, 실패 10개(치유 중 7개, 부하 후 3개).
+
+OD는 기존 드릴이 치근간 중격에서 미끄러지는 문제를 해결 — 단, 비교군 없음, 발명가·Versah 관계 공저자의 이해충돌 있음.
 
 ## 1. Document Information
 - **Type**: Retrospective multicenter cohort study
@@ -54,7 +67,7 @@ Retrospective multicenter chart review across five centers. Inclusion criterion:
 ## 6. Related Work
 - [[implants/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — origin of OD technique.
 - [[implants/koutouzis-2019-alveolar-ridge-expansion-osseodensification-multicenter-retrospective]] — OD-mediated ridge expansion (analogous mechanism applied to molar septa here).
-- [[immediate-implant/darosa-2019-immediate-dentoalveolar-restoration-osseodensification-periodontal]] — IDR + OD case report in compromised sockets.
+- [[immediate-implant/gap-grafting/darosa-2019-immediate-dentoalveolar-restoration-osseodensification-periodontal]] — IDR + OD case report in compromised sockets.
 - [[implants/mello-machado-2021-osseodensification-low-quality-bone-rct]] — RCT in low-density bone.
 - [[implants/fontes-pereira-2023-osseodensification-alternative-conventional-osteotomy-sr]] — SR including this paper.
 

@@ -9,8 +9,21 @@ pdf_filename: chakraborty-2024-implant-drill-materials-heat-osteotomy.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Systematic review (Eur J Dent 2024;18:65–72) of 11 in vitro studies concluding that the literature is inconclusive on whether drill material affects heat generation during osteotomy, but drill wear is consistently associated with increased temperatures regardless of material.
+## Three-line Summary
+
+PICO-based systematic review of 11 in vitro studies investigating the effect of implant drill material (ceramic vs metal, coated vs non-coated) on heat generation during osteotomy site preparation, given the 47°C/1 min thermal necrosis threshold for osseointegration.
+
+Both ceramic and metal drills produced heat, but the relationship between drill material and heat generation was inconsistent across studies; drill wear was the most consistently identified driver of increased heat regardless of material type.
+
+All included studies were in vitro, and substantial methodological heterogeneity (varying specimens, drill geometries, irrigation protocols, measurement devices) prevented meta-analysis and limits clinical translation.
+
+## 세줄요약
+
+임플란트 드릴 재료(세라믹 대 금속, 코팅 여부)가 오스테오토미(Osteotomy) 시 열 발생에 미치는 영향을 PICO 기반으로 평가한 11편 in vitro 연구의 체계적 문헌고찰 (골괴사 역치 47°C/1분 기준).
+
+세라믹·금속 드릴 모두에서 열 발생이 관찰되었으나 재료와 열 발생의 관계는 연구마다 일관되지 않았고, 드릴 마모(Drill Wear)가 재료 종류와 무관하게 열 증가의 가장 일관된 요인으로 확인.
+
+포함 연구 전부 in vitro이며, 검체·드릴 형상·세정 프로토콜·측정 장치 등의 방법론적 이질성이 커 메타분석 불가, 임상적 직접 적용에 한계.
 
 ## 1. Document Information
 - Journal: European Journal of Dentistry, 2024;18:65–72

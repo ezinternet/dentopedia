@@ -17,11 +17,21 @@ text_filename: vavro-2024-antibiotic-susceptibility-orofacial-infections.txt
 
 기존 [[drug/teoh-2021-oral-antibiotic-empirical-acute-dentoalveolar-infections]] 경험적 항생제 선택 근거를 최신 대규모(n=744) 로컬 내성 데이터로 보강. amoxicillin-clavulanate 경험적 1차 선택의 정량 anchor.
 
-## One-line Summary
-10-year retrospective (n=744 orofacial infections, Bratislava): amoxicillin-clavulanate had the lowest resistance (4.9% per isolate; 7.7% per patient) vs clindamycin 25.8% / metronidazole 25.5% / penicillin 15.3%; supports amox-clav as first-line empirical choice.
+## Three-line Summary
 
-## 한줄요약
-구강안면감염 744명 10년 후향연구: amoxicillin-clavulanate 내성률이 4.9%로 최저(clindamycin 25.8%·metronidazole 25.5%·penicillin 15.3%) → 경험적 1차 항생제로 amox-clav 권고. 단 항생제는 외과적 배농·원인제거에 부차적.
+10-year retrospective (n=744 orofacial infections, Bratislava): amoxicillin-clavulanate had the lowest resistance (4.9% per isolate;
+
+7.7% per patient) vs clindamycin 25.8% / metronidazole 25.5% / penicillin 15.3%;
+
+supports amox-clav as first-line empirical choice.
+
+## 세줄요약
+
+구강안면감염 744명 10년 후향연구: amoxicillin-clavulanate 내성률이 4.9%로 최저(clindamycin 25.8%·metronidazole 25.5%·penicillin 15.3%) → 경험적 1차 항생제로 amox-clav 권고.
+
+단 항생제는 외과적 배농·원인제거에 부차적.
+
+(incomplete)
 
 ## 1. Document Information
 - Clinical Oral Investigations 2024;28(10):538. DOI 10.1007/s00784-024-05937-3 · PMID 39304566 · PMC11415437.

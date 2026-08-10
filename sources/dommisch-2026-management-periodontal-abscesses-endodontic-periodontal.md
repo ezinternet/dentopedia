@@ -13,13 +13,21 @@ source_collection: external
 
 2018 분류체계(Caton/Herrera) 이후 급성 치주병소(치주농양·EPL)의 *관리 근거*를 처음으로 체계화한 EFP-계열 SR로, 진단 프레임([[periodontics/caton-2018-classification-scheme-periodontal-periimplant-diseases]])과 stage IV 치료 가이드라인([[periodontics/herrera-2022-treatment-stage-iv-periodontitis-efp]])을 임상 응급 관리 측면에서 보강·확장한다.
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (no meta-analysis; 7 PICOS questions, ~21 included studies) of periodontal abscess and endodontic-periodontal lesion (EPL) management: combined drainage + periodontal therapy reduces PD 2–3 mm and BOP to 30–44% in abscesses (recurrence 13–23% at 15 mo), while EPL interventions yield PD reductions of 2.5–9.3 mm and tooth-loss 0–25% over 3–120 mo, on limited, heterogeneous, low-to-high-bias evidence.
+Systematic review (no meta-analysis; 7 PICOS questions, ~21 included studies) of periodontal abscess and endodontic-periodontal lesion (EPL) management.
 
-## 한줄요약
+Combined drainage + periodontal therapy reduces PD 2–3 mm and BOP to 30–44% in abscesses (recurrence 13–23% at 15 mo), while EPL interventions yield PD reductions of 2.5–9.3 mm and tooth-loss 0–25% over 3–120 mo.
 
-치주농양과 치수-치주 복합병소(EPL) 관리에 대한 체계적 문헌고찰(메타분석 불가, 7개 PICOS, 약 21편): 농양은 배농 후 치주치료 병용으로 PD 2–3mm 감소·BOP 30–44%로 호전(15개월 재발 13–23%), EPL은 PD 2.5–9.3mm 감소·치아상실 0–25%(3–120개월)였으나 근거가 제한적·이질적이라 강한 결론은 불가.
+Evidence is limited, heterogeneous, and spans low-to-high risk of bias; meta-analysis was not feasible; standardized outcome sets and adequately powered RCTs for acute periodontal lesion management remain needed.
+
+## 세줄요약
+
+치주농양과 치수-치주 복합병소(EPL) 관리에 대한 체계적 문헌고찰(메타분석 불가, 7개 PICOS, 약 21편).
+
+농양은 배농 후 치주치료 병용으로 PD 2–3mm 감소·BOP 30–44%로 호전(15개월 재발 13–23%), EPL은 PD 2.5–9.3mm 감소·치아상실 0–25%(3–120개월).
+
+근거가 제한적·이질적이고 risk of bias가 낮음~높음으로 분포하며 메타분석 불가능; 급성 치주병소 관리를 위한 표준화된 결과지표와 충분한 규모의 RCT가 필요함.
 
 ## 1. Document Information
 

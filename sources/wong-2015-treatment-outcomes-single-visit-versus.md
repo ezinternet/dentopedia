@@ -12,11 +12,21 @@ source_collection: external
 ## Why Ingested
 단일 내원 vs 다회 내원 근관치료(inter-appointment dressing 사용 여부)의 outcome 동등성을 직접 비교한 RCT로, 내원 간 수산화칼슘 dressing의 임상적 부가가치를 다룬 [[endodontics/irrigation/rossi-fedele-2023-irrigation-dressing-apical-periodontitis-sr-ma]]를 임상 결과(성공률·통증·chairside time) 관점에서 보강한다.
 
-## One-line Summary
+## Three-line Summary
+
 RCT (n=220 teeth, 18–45 mo follow-up): single-visit and multiple-visit non-surgical root canal treatment had statistically equivalent success rates (88.9% vs 87.4%, p=0.729) and postoperative pain, but single-visit took ~31 min less chairside time.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 RCT (220개 치아, 18–45개월 추적): 단일 내원 vs 다회 내원 비외과적 근관치료는 성공률(88.9% vs 87.4%, p=0.729)과 술후 통증에 유의차가 없었고, 단일 내원이 의자시간을 약 31분 단축시켰다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - **Type**: Randomised clinical trial (parallel two-arm, single-centre).

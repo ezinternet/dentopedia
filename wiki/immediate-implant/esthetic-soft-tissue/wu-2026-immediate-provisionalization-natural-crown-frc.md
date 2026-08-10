@@ -6,7 +6,7 @@ date: 2026-03-24
 doi: 10.1186/s12903-026-08156-2
 source: wu-2026-immediate-provisionalization-natural-crown-frc.md
 category: immediate-implant/esthetic-soft-tissue
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: true
 pmid: "41877071"
@@ -22,13 +22,21 @@ relations:
     target: pitman-2022-immediate-implant-provisionalization-sr-ma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Exploratory RCT (n=20, anterior-maxilla immediate implant placement, 4-5 mo): an immediate **non-implant-supported** provisional made from the patient's own natural crown fixed to adjacent teeth with a fiber-reinforced composite (FRC) splint preserved pink esthetic score (PES 9.0 vs 6.3, intergroup z=2.799 p=0.005) and lowered early postoperative pain/swelling vs delayed restoration, with no significant difference in gingival-height change.
+Exploratory RCT (n=20, CONSORT 2025, anterior-maxilla immediate implant, 4–5 month follow-up) comparing a non-implant-supported immediate provisional (patient's own extracted crown bonded to adjacent teeth with FRC splint) vs delayed restoration; PES, gingival-height change, and postoperative VAS were primary outcomes.
 
-## 한줄요약
+The FRC-splint group preserved PES (9.0 vs 6.3, z=2.799, p=0.005), showed significantly less early postoperative pain and swelling (days 2–3), and had 100% implant success; gingival-height change did not differ significantly between groups.
 
-탐색적 RCT (전치부 상악 즉시식립, n=20, 4-5개월): 환자 자연치관을 인접치에 섬유강화복합 스플린트(FRC)로 고정하는 비-임플란트지지 즉시 임시수복이 지연수복 대비 분홍심미점수(PES 9.0 vs 6.3, z=2.799 p=0.005)를 유지하고 술후 초기 통증·종창을 줄였으며, 치은 높이 변화에는 군간 유의차가 없었다.
+This technique decouples immediate provisionalization from primary implant stability, offering esthetic preservation for cases where implant-supported loading is contraindicated, though the small n=20 and short follow-up limit definitive conclusions.
+
+## 세줄요약
+
+탐색적 RCT (n=20, CONSORT 2025, 전치부 상악 즉시식립, 4–5개월 추적) — 환자 자연치관을 인접치에 FRC 스플린트로 고정하는 비-임플란트지지 즉시 임시수복 vs 지연수복; PES·치은높이변화·술후 VAS가 1차 결과.
+
+FRC 스플린트 군에서 PES 유지(9.0 vs 6.3, z=2.799, p=0.005), 술후 2–3일 통증·종창 유의하게 낮음, 100% 임플란트 성공; 치은높이변화는 군간 유의차 없음.
+
+비-임플란트지지 즉시 임시수복은 즉시부하가 금기인 증례에도 심미 보존을 가능하게 하나, n=20·단기 추적의 한계로 확정적 권장에는 추가 연구 필요.
 
 ## Summary
 

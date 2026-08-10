@@ -9,8 +9,21 @@ pdf_filename: kim-2025-management-peri-implantitis-perspectives.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Narrative review by Korean periodontist summarizing peri-implantitis definition (2017 World Workshop), 2024 Korean Academy of Periodontology consensus classification, and management options in the Korean clinical landscape.
+## Three-line Summary
+
+Narrative review by Korean periodontist summarizing peri-implantitis definition
+
+(2017 World Workshop), 2024 Korean Academy of Periodontology
+
+consensus classification, and management options in the Korean clinical landscape.
+
+## 세줄요약
+
+Narrative review by Korean periodontist summarizing peri-implantitis definition
+
+(2017 World Workshop), 2024 Korean Academy of Periodontology
+
+consensus classification, and management options in the Korean 임상적 (Clinical) landscape.
 
 ## 1. Document Information
 - **Title:** Current perspectives on the management of peri-implantitis (임플란트 주위염 치료의 최신 지견)
@@ -33,8 +46,8 @@ Narrative review; no quantitative pooling.
 
 ## 6. Related Work
 - [[periodontics/cha-2024-peri-implantitis-treatment-protocol-flowchart]]
-- [[periodontics/kim-2024-peri-implant-diseases-consensus-korean-academy-periodontology]]
-- [[periodontics/grusovin-2022-antibiotics-non-surgical-peri-implantitis-ma]]
+- [[implants/peri-implantitis/kim-2024-peri-implant-diseases-consensus-korean-academy-periodontology]]
+- [[implants/peri-implantitis/grusovin-2022-antibiotics-non-surgical-peri-implantitis-ma]]
 
 ## 7. Glossary
 - **PPD:** Probing Pocket Depth.

@@ -13,13 +13,21 @@ source_collection: external
 
 근관치료된 치아에서 파이버 포스트 시스템의 응력 분포 비교는 [[wiki/resin/metwaly-2024-clinical-performance-polyethylene-fiber-reinforced-resin]]의 폴리에틸렌 파이버 복합레진 RCT 임상 결과를 생역학적 FEA 근거로 보강한다. 특히 SFRC(단섬유강화복합레진, Short Fiber-Reinforced Composite) 포스트의 상아질 탄성계수 유사성이 임상적 우수성의 기전적 설명을 제공한다.
 
-## One-line Summary
+## Three-line Summary
 
-3D FEA (n=3 models) comparing von Mises stress in maxillary central incisors restored with glass fiber post, SFRC post, and Ribbond fiber post under 100 N oblique load; SFRC post showed lowest internal post stress (5.22 MPa vs 12.28 MPa glass fiber) and most favorable dentin-compatible stress distribution.
+3D FEA (n=3 models) comparing von Mises stress in maxillary central incisors restored with glass fiber post, SFRC post, and Ribbond fiber post under 100 N oblique load;
 
-## 한줄요약
+SFRC post showed lowest internal post stress (5.22 MPa vs 12.28 MPa glass fiber) and most favorable dentin-compatible stress distribution.
 
-3D FEA — 상악 중절치 근관치료 후 유리섬유 포스트·SFRC 포스트·Ribbond 포스트 응력분포 비교; SFRC 포스트가 가장 낮은 내부 응력(5.22 MPa) 및 상아질 친화적 응력 분포 보여.
+(incomplete)
+
+## 세줄요약
+
+3D FEA — 상악 중절치 근관치료 후 유리섬유 포스트·SFRC 포스트·Ribbond 포스트 응력분포 비교;
+
+SFRC 포스트가 가장 낮은 내부 응력(5.22 MPa) 및 상아질 친화적 응력 분포 보여.
+
+(incomplete)
 
 ## 1. Document Information
 

@@ -17,13 +17,21 @@ text_filename: didier-2026-occlusal-contacts-ios-vs-carbon-paper-concordance.txt
 
 기존 [[occlusion/velasquez-2022-occlusal-analysis-natural-dentition-sr]]는 T-Scan vs 교합지(articulating paper)의 신뢰도·재현성을 다뤘으나, 디지털 워크플로의 또 다른 축인 구강스캐너(IOS) 교합도(occlusogram)가 교합지와 일치하는지는 다루지 않았다. 본 임상 일치도 연구(Didier 2026, n=35)는 iTero occlusogram vs 8µm AccuFilm을 직접 비교해 κ 0.07–0.20 (poor agreement)을 보고 — IOS 단독으로 교합을 결정하면 안 되며 두 방법은 보완적이라는 근거를 추가해 velasquez 종합을 디지털 IOS 축으로 확장한다. 투명교정(ClinCheck) 마무리 시 후방 개교합(open bite) 위험과 직결되는 임상 함의.
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective clinical agreement study (n=35 orthodontic patients, 840 teeth) finding poor agreement (Cohen kappa 0.07–0.20) between iTero Element 2 occlusogram and 8 µm AccuFilm carbon-paper occlusal records — the two methods are complementary, not interchangeable, and IOS alone cannot define occlusion.
+Retrospective cross-sectional method-agreement study (n=35 Class I orthodontic patients, 840 teeth) comparing iTero Element 2 occlusogram (red+orange color map) against 8 µm AccuFilm carbon-paper occlusal records across 16 defined tooth surfaces.
 
-## 한줄요약
+Cohen kappa was 0.07–0.20 on most surfaces (poor/slight agreement); IOS detected ~70% more contacts than carbon paper (red+orange combined), while red-only IOS underestimated contacts; 48.1% of scanner "intense red" contacts were likely clinically ideal.
 
-후향적 임상 일치도 연구(교정 환자 35명, 치아 840개): iTero Element 2 구강스캐너 교합도와 8µm 카본지(AccuFilm) 교합 기록은 일치도가 낮아(카파 0.07–0.20) 서로 교환 불가하며 보완적으로 함께 써야 함 — IOS 단독으로 교합을 결정할 수 없다.
+IOS occlusogram and carbon paper are complementary, not interchangeable — IOS alone cannot define the occlusal relationship, and over-reliance on occlusogram data risks unnecessary posterior intrusion in ClinCheck aligner treatment.
+
+## 세줄요약
+
+후향적 임상 일치도 연구(Class I 교정 환자 35명, 치아 840개) — iTero Element 2 구강스캐너(IOS) 교합도(occlusogram, 빨강+주황 색지도)와 8µm 카본지(AccuFilm) 교합 기록을 16개 치면에서 비교.
+
+코언 카파 0.07–0.20(대부분 낮음/미약한 일치); IOS가 카본지보다 접촉 약 70% 더 많이 검출(빨강+주황 합산), 빨강 단독은 카본지보다 적게 검출; 스캐너 '강렬 빨강' 접촉의 48.1%는 임상적으로 이상적인 수준으로 추정.
+
+IOS 교합도와 카본지는 보완 관계이며 교환 불가 — IOS 단독으로 교합을 결정해서는 안 되고, ClinCheck 클리어 얼라이너 치료 시 occlusogram 과의존은 불필요한 구치부 압하 위험을 초래.
 
 ## 1. Document Information
 

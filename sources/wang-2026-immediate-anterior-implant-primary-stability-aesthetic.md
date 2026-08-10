@@ -17,13 +17,21 @@ text_filename: wang-2026-immediate-anterior-implant-primary-stability-aesthetic.
 
 기존 [[immediate-implant/esthetic-soft-tissue/hamilton-2023-type1a-immediate-implant-immediate-loading-esthetic-sr-ma]]의 Type 1A 즉시식립·즉시임시수복 심미 결과를, 1차안정성(ITV/ISQ) 임계값을 기준으로 즉시 vs 지연식립을 직접 대조한 단일기관 retrospective cohort로 보강한다. 즉시식립군이 식립시 1차안정성은 유의하게 낮아도(ISQ 63.1 vs 71.5) 충분한 1차안정성(ITV ≥20 N·cm, ISQ ≥50) 충족 시 12개월 성공률·골유착이 동등하고 심미·환자만족이 더 우수하다는 결과로, [[immediate-implant/esthetic-soft-tissue/samet-2023-immediate-placement-loading-esthetic-zone]]의 즉시식립 적응증 논의를 1차안정성 관점에서 contextualize.
 
-## One-line Summary
+## Three-line Summary
 
-Single-center retrospective cohort (n=120; 60 immediate vs 60 delayed, single maxillary anterior teeth): despite lower primary stability at placement (ISQ 63.1 vs 71.5, P<.001), immediate placement achieved equivalent 12-month success (98.3% vs 96.7%) and final ISQ (P=.589) once primary-stability thresholds (ITV ≥20 N·cm, ISQ ≥50) were met, with less MBL (0.48 vs 0.85 mm) and higher PES (11.47 vs 10.05).
+Single-center retrospective cohort (n=120;
 
-## 한줄요약
+60 immediate vs 60 delayed, single maxillary anterior teeth): despite lower primary stability at placement (ISQ 63.1 vs 71.5, P<.001), immediate placement achieved equivalent 12-month success (98.3% vs 96.7%) and final ISQ (P=.589) once primary-stability thresholds (ITV ≥20 N·cm, ISQ ≥50) were met, with less MBL (0.48 vs 0.85 mm) and higher PES (11.47 vs 10.05).
 
-단일기관 후향 코호트(n=120; 즉시 60 vs 지연 60, 단일 상악 전치): 식립 시 1차안정성은 즉시군이 더 낮았지만(ISQ 63.1 vs 71.5), ITV ≥20 N·cm·ISQ ≥50 임계값을 충족하면 12개월 성공률(98.3% vs 96.7%)과 최종 ISQ는 동등했고, 변연골소실은 더 적고(0.48 vs 0.85 mm) PES는 더 높았다(11.47 vs 10.05).
+(incomplete)
+
+## 세줄요약
+
+단일기관 후향 코호트(n=120;
+
+즉시 60 vs 지연 60, 단일 상악 전치): 식립 시 1차안정성은 즉시군이 더 낮았지만(ISQ 63.1 vs 71.5), ITV ≥20 N·cm·ISQ ≥50 임계값을 충족하면 12개월 성공률(98.3% vs 96.7%)과 최종 ISQ는 동등했고, 변연골소실은 더 적고(0.48 vs 0.85 mm) PES는 더 높았다(11.47 vs 10.05).
+
+(incomplete)
 
 ## 1. Document Information
 

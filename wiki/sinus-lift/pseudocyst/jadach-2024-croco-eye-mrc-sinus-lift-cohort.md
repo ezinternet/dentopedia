@@ -6,7 +6,7 @@ date: 2024-06-03
 doi: 10.3390/jcm13113293
 journal: Journal of Clinical Medicine 13(11):3293
 source: jadach-2024-croco-eye-mrc-sinus-lift-cohort.md
-confidence: retrospective
+evidence_level: retrospective
 category: [sinus-lift/pseudocyst]
 pdf_path: /Users/oracleneo/llm-wiki/papers/jadach-2024-croco-eye-mrc-sinus-lift-cohort.pdf
 pdf_filename: jadach-2024-croco-eye-mrc-sinus-lift-cohort.pdf
@@ -14,11 +14,21 @@ source_collection: external
 tags: [maxillary-sinus, mucous-retention-cyst, croco-eye, MRC-excision, immediate-open-sinus-lift, technique]
 ---
 
-## One-line Summary
-Retrospective cohort describing the standardized "Croco Eye" technique for enucleating large mucous retention cysts (MRC, >20 mm) through a lateral window with simultaneous open sinus lift augmentation in one stage; positions transantral enucleation as a surgical option in the large-MRC branch of the treatment decision tree, with safe immediate augmentation reported.
+## Three-line Summary
 
-## 한줄요약
-Retrospective cohort (Wrocław Poland, JCM 2024): 대형 MRC를 측방창 통해 enucleation하는 **"Croco Eye" technique** 표준화 + 동시 open sinus lift. 의사결정 트리의 enucleation 분기에서 술식 anchor.
+Retrospective cohort (single center, Wrocław, Poland) standardizing the "Croco Eye" technique for enucleating large mucous retention cysts (MRC, >20 mm) via a lateral window with simultaneous open sinus lift in a single stage.
+
+Transantral enucleation followed by immediate augmentation was reported as safe, with successful implant placement possible without a staged delay.
+
+The technique provides a reproducible surgical framework for the large-MRC branch of the treatment decision tree, though no direct comparison group was included.
+
+## 세줄요약
+
+후향적 코호트(폴란드 브로츠와프 단일 센터, JCM 2024): 측방창을 통한 대형 점액잔류낭종(Mucous Retention Cyst, MRC, >20 mm) 적출을 위한 "Croco Eye" 술식 표준화 + 동시 개방형 상악동거상술.
+
+경안면 적출 후 즉시 골증대술 시행이 안전하며 임플란트 식립 가능한 것으로 보고됨.
+
+비교군 없이 술식 표준화에 초점을 맞춘 연구로, 대형 MRC 의사결정 트리의 적출 분기에 대한 임상 기준점을 제공함.
 
 ## Summary
 대형 MRC (>20mm) 제거를 위한 표준화 술식 명명. Wrocław 그룹의 retrospective cohort. Croco Eye = 측방창 골 제거 후 노출된 MRC를 악어 눈처럼 정확히 enucleation. 즉시 sinus lift augmentation 가능 → one-stage 접근의 surgical playbook.
@@ -45,8 +55,8 @@ Retrospective cohort (Wrocław Poland, JCM 2024): 대형 MRC를 측방창 통해
 - 2-stage (제거 후 3개월 대기 → augmentation): Yu 2023 RCT에서 양 timing 동등
 
 ## Strengths and Caveats
-[합의수준] 술식 명명·표준화는 임상 교육적 가치
-[claude해석] "Croco Eye" 명칭은 마케팅적 — 본질은 시야 확보 후 systematic enucleation
+[확인] 술식 명명·표준화는 임상 교육적 가치
+[미검증] "Croco Eye" 명칭은 마케팅적 — 본질은 시야 확보 후 systematic enucleation
 [미검증] Outcome 비교군 (다른 enucleation 방식) 없어 술식 우월성 입증 안 됨
 
 ## Related Papers

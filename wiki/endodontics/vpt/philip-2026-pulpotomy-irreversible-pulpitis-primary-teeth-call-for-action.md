@@ -6,7 +6,7 @@ date: 2026-04-11
 doi: 10.1007/s40368-026-01199-7
 source: philip-2026-pulpotomy-irreversible-pulpitis-primary-teeth-call-for-action.md
 category: [endodontics/vpt]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/philip-2026-pulpotomy-irreversible-pulpitis-primary-teeth-call-for-action.pdf
 pdf_filename: philip-2026-pulpotomy-irreversible-pulpitis-primary-teeth-call-for-action.pdf
 source_collection: external
@@ -16,13 +16,21 @@ relations:
     target: chawla-2026-pulpotomy-vs-pulpectomy-primary-teeth-sr-ma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review with structured search (7 clinical studies + 2 meta-analyses, search to Jan 2026): pulpotomy with calcium silicate cements for primary teeth clinically diagnosed with irreversible pulpitis achieved 95–100% clinical and 90–100% radiographic success at 6–18 months, with a proposed new diagnostic nomenclature and procedural protocol calling for international guideline revision.
+Narrative review with structured search (MEDLINE/Embase/Cochrane to Jan 2026) synthesizing 7 clinical studies and 2 meta-analyses of pulpotomy for primary teeth with irreversible pulpitis, proposing a 4-stage diagnostic framework.
 
-## 한줄요약
+Pulpotomy with calcium silicate cements (MTA, Biodentine, iRoot BP Plus, CEM) achieved 95–100% clinical and 90–100% radiographic success at 6–18 months; formocresol performed notably worse (75%).
 
-구조적 문헌검색 기반 narrative review(임상 7편 + 메타분석 2편): 비가역성 치수염으로 진단된 유치에 칼슘 규산염 시멘트 펄포토미 시 6–18개월 임상 성공 95–100%·방사선 90–100% — 새 진단 명명 체계와 처치 프로토콜을 제안하며 국제 가이드라인 개정을 촉구.
+The authors call for AAPD/EAPD guideline revision to recognize pulpotomy as a primary treatment option for irreversible pulpitis in primary teeth, replacing the mandatory pulpectomy-or-extraction approach.
+
+## 세줄요약
+
+MEDLINE/Embase/Cochrane 구조적 문헌검색(2026년 1월까지) 기반 narrative review; 비가역성 치수염 유치 치수절단술 임상 연구 7편·메타분석 2편 종합, 4단계 진단 체계 제안.
+
+칼슘 규산염 시멘트(MTA·Biodentine·iRoot BP Plus·CEM)로 치수절단술 시 6–18개월 임상 성공 95–100%·방사선 90–100%; formocresol은 현저히 낮음(75%).
+
+AAPD/EAPD 가이드라인 개정을 촉구하며, 유치 비가역성 치수염에서 발수·발치 대신 치수절단술을 1차 치료 선택지로 공식 인정할 것을 요구.
 
 ## Summary
 

@@ -35,7 +35,7 @@ These are early-ingested pages where DOI was unknown at ingest time.
 | immediate-implant/kim-2016-immediately-placed-implant-without-primary | doi |
 | immediate-implant/lee-2021-immediate-implant-placement-in-fresh | doi |
 | implants/attik-2022-comparison-of-biological-behavior-and | doi |
-| implants/moy-2005-dental-implant-failure-rates-risk | doi |
+| implants/survival/moy-2005-dental-implant-failure-rates-risk | doi |
 | implants/oh-2008-comparison-of-initial-implant-stability | doi |
 | oral-surgery/lee-2015-inferior-alveolar-nerve-injury-management | doi |
 | periodontics/jo-2008-management-of-dental-biofilm-through | doi |

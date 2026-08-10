@@ -9,8 +9,21 @@ pdf_filename: stagnaro-borgia-2022-immediate-implant-buccal-defect-tuberosity-rc
 source_collection: external
 ---
 
-## One-line Summary
-즉시임플란트 협측 결손부 충전: 상악 결절(tuberosity) 자가골 vs 이종골 비교 1년 RCT.
+## Three-line Summary
+
+즉시임플란트 협측 결손부 충전:
+
+상악 결절(tuberosity) 자가골 vs
+
+이종골 비교 1년 RCT.
+
+## 세줄요약
+
+즉시임플란트 협측 결손부 충전:
+
+상악 결절(tuberosity) 자가골 vs
+
+이종골 비교 1년 RCT.
 
 ## 1. Document Information
 - **Title**: Immediate implants with buccal defects filled with bone from the tuberosity or a xenograft: 1-year randomized trial
@@ -36,7 +49,7 @@ source_collection: external
 소규모; 단기 추적.
 
 ## 6. Related Work
-- [[immediate-implant/sanz-2017-bone-graft-gap-immediate-implant-rct]] — related
+- [[immediate-implant/gap-grafting/sanz-2017-bone-graft-gap-immediate-implant-rct]] — related
 
 ## 7. Glossary
 tuberosity autograft: 상악 결절 자가골; xenograft: 이종골; buccal defect: 협측 결손

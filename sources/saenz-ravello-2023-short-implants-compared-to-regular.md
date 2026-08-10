@@ -9,8 +9,21 @@ pdf_filename: saenz-ravello-2023-short-implants-compared-to-regular.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Umbrella review and meta-analysis comparing short implants (<10 mm) vs. regular implants with bone augmentation in the atrophic posterior mandible, finding short implants may reduce failure, MBL, and complications.
+## Three-line Summary
+
+Umbrella review and meta-analysis comparing short implants (<10 mm)
+
+vs. regular implants with bone augmentation in the atrophic
+
+posterior mandible, finding short implants may reduce failure, MBL, and complications.
+
+## 세줄요약
+
+Umbrella review and 메타분석 (Meta-analysis, MA) comparing short 임플란트 (Implant)s (<10 mm)
+
+vs. regular 임플란트 (Implant)s with 골 (Bone) augmentation in the atrophic
+
+posterior mandible, finding short 임플란트 (Implant)s may reduce failure, MBL, and complications.
 
 ## 1. Document Information
 - **Journal**: International Journal of Implant Dentistry (2023) 9:18

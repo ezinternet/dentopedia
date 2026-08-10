@@ -13,13 +13,21 @@ source_collection: external
 
 치주염↔류마티스 관절염(Rheumatoid Arthritis, RA)의 양방향 자가면역 연결고리를 정량화하기 위해 인제스트. 자가면역질환 환자의 임플란트 결과를 다룬 [[wiki/implants/esimekara-2022-dental-implants-autoimmune-diseases-sr]]가 RA를 자가면역 적응증 중 하나로 다루지만, 치주염이 RA *발병 위험*을 끌어올린다는 방향의 근거는 별도로 필요했다. 본 SR+MA(Qiao 2020)는 13개 연구·100만 명 이상에서 치주염→RA 위험을 OR 1.69로 정량화하여, 공유 염증·시트룰린화(citrullination, *P. gingivalis* PPAD) 경로 가설을 역학적으로 보강한다.
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review + meta-analysis (13 case-control studies; 706,611 periodontitis patients vs 349,983 controls) finding periodontitis patients carry a 69% higher risk of rheumatoid arthritis (pooled OR 1.69, 95% CI 1.31–2.17, P<0.0001; I²=89%), with high heterogeneity explained partly by RA disease type, duration, and region.
+Systematic review + meta-analysis (13 case-control studies;
 
-## 한줄요약
+706,611 periodontitis patients vs 349,983 controls) finding periodontitis patients carry a 69% higher risk of rheumatoid arthritis (pooled OR 1.69, 95% CI 1.31–2.17, P<0.0001;
 
-치주염 환자가 대조군보다 류마티스 관절염(RA) 위험이 69% 높다는 13개 증례-대조 연구·치주염 70만6611명 vs 대조군 34만9983명 SR+MA로, 통합 OR 1.69(95% CI 1.31–2.17, P<0.0001; I²=89%), 신규 발병 RA와 이환기간 5년 초과 RA에서 연관성이 가장 강했다.
+I²=89%), with high heterogeneity explained partly by RA disease type, duration, and region.
+
+## 세줄요약
+
+치주염 환자가 대조군보다 류마티스 관절염(RA) 위험이 69% 높다는 13개 증례-대조 연구·치주염 70만6611명 vs 대조군 34만9983명 SR+MA로, 통합 OR 1.69(95% CI 1.31–2.17, P<0.0001;
+
+I²=89%), 신규 발병 RA와 이환기간 5년 초과 RA에서 연관성이 가장 강했다.
+
+(incomplete)
 
 ## 1. Document Information
 

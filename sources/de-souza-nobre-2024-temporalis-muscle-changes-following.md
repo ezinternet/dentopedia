@@ -10,8 +10,21 @@ pdf_filename: de-souza-nobre-2024-temporalis-muscle-changes-following.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Triple-blinded RCT (n=26 women) showing that BoNT-A injections in masseter for masseter hypertrophy (MH) cause compensatory increase in temporalis muscle thickness and EMG activity, with significantly greater changes after repeated injections; pain in temporalis emerged in 7/12 multiple-injection patients at 6 months.
+## Three-line Summary
+
+Triple-blinded RCT (n=26 women, Brazil; single vs repeated 75 U abobotulinumtoxinA injections into masseter for masseter hypertrophy) measuring temporalis muscle thickness by ultrasound and EMG activity at baseline, 1, 3, and 6 months.
+
+Masseter BoNT-A caused compensatory increases in temporalis thickness and EMG activity in both groups; the multiple-injection group showed significantly greater temporalis changes than the single-injection group at 6 months (inter-group p<0.02), and 7 of 12 multiple-injection patients reported temporalis pain at 6 months.
+
+Repeated masseter BoNT-A for aesthetic indications warrants caution: the masseter–temporalis functional coupling means each additional injection produces progressively greater compensatory temporalis overload, with emerging pain as a clinically significant adverse effect.
+
+## 세줄요약
+
+3중맹검 무작위 대조시험(n=26명 여성, 브라질): 교근 비대증(Masseter Hypertrophy, MH) 환자에서 교근에 아보보툴리눔독소 A형 75 U 단회(S-BoNT-A) vs 반복(M-BoNT-A) 주사 후 측두근(Temporalis) 두께(초음파) 및 근전도(EMG)를 기저·1·3·6개월에 측정.
+
+교근 BoNT-A 주사는 양군 모두 측두근 두께·EMG 활성 증가를 유발; 반복 주사군이 단회 주사군보다 6개월째 측두근 변화가 유의하게 더 컸으며(군간 p<0.02), 반복 주사군 12명 중 7명에서 6개월째 측두근 통증 발생.
+
+심미 목적 교근 반복 BoNT-A 주사는 교근-측두근 기능적 결합(Functional Coupling) 때문에 주사를 반복할수록 측두근 보상성 과부하와 통증이 누적되므로 신중한 접근이 필요.
 
 ## 1. Document Information
 - Study type: Randomized, triple-blinded, placebo-controlled clinical trial (secondary analysis of a larger MH trial)

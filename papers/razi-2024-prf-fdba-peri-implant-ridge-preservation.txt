@@ -1,0 +1,78 @@
+Title: Impact of Platelet-Rich Fibrin (PRF) Versus Freeze-Dried Bone Allograft (FDBA) on Peri-Implant Soft and Hard Tissue in Alveolar Ridge Preservation
+Authors: Razi MA, Mahajan A, Zarrin R, Roy S, Singh MK, Kumari S
+Journal: Journal of Pharmacy & Bioallied Sciences, 2024-12-05
+PMID: 39927017
+PMCID: PMC11805315
+DOI: 10.4103/jpbs.jpbs_1036_24
+Source: PubMed Central (retrieved via PubMed MCP get_full_text_article)
+
+## Abstract
+
+Context: After tooth extraction, alveolar ridge preservation (ARP) is essential to maintain the hard and soft tissue dimensions for future implant placement. Two frequently employed biomaterials in ARP are freeze-dried bone allograft (FDBA) and platelet-rich fibrin (PRF), each possessing unique biological characteristics.
+
+Materials and Methods: In a randomized controlled study, sixty individuals requiring ARP after tooth extraction were included. The patients were divided into two groups: Group A (n = 30) received PRF, and Group B (n = 30) received FDBA. Clinical measurements, such as soft tissue thickness, keratinized tissue width, and radiographic bone density, were recorded at baseline, three months, and six months after surgery. Cone-beam computed tomography (CBCT) was used to assess changes in hard tissue, such as the width and height of the alveolar ridge.
+
+Results: Group A (PRF) showed a significant increase in soft tissue thickness over six months, with an average gain of 2.5 mm (P < 0.01). In contrast, Group B (FDBA) showed a 30% increase in bone density compared to baseline (P < 0.05). Group B experienced a decrease in alveolar ridge height and width of 1.2 mm and 1.8 mm, respectively, while Group A showed a reduction of 1.6 mm and 2.3 mm.
+
+Conclusion: In conclusion, peri-implant soft and hard tissues benefit from both PRF and FDBA during alveolar ridge maintenance. Soft tissue thickness can be improved more effectively with PRF, while FDBA is superior for preserving hard tissue.
+
+## Full Text
+
+### Introduction
+
+ARP is an essential part of the treatment approach, as alveolar bone loss may seriously impair the functional and aesthetic outcomes of dental implants. To improve alveolar ridge preservation, a variety of biomaterials have been used, such as autografts, allografts, xenografts, and alloplasts. Platelet-rich fibrin (PRF) and freeze-dried bone allograft (FDBA) are two of them that have become more well-known because of their distinct biological characteristics and therapeutic results.
+
+PRF, a second-generation platelet concentrate, is high in cytokines and growth factors. It is a desirable alternative for increasing soft tissue thickness in ARP operations because it promotes angiogenesis, wound healing, and soft tissue regeneration. Research has shown that PRF improves soft tissue quality and speeds up the healing process, both of which are critical for the long-term durability of dental implants. Conversely, FDBA is an allogenic bone transplant that has been decalcified and serves as a scaffold to promote the growth of new bone. It is often used in ARP to preserve bone density and volume, providing a strong basis for the implantation of following implants. Because of its osteoconductive qualities, FDBA is a dependable choice for maintaining the proportions of the alveolar ridge while promoting the regeneration of hard tissue.
+
+### Subjects and Methods
+
+In this randomized controlled experiment, patients requiring alveolar ridge preservation (ARP) after tooth extraction were included (35 males and 25 females; age range: 30-65 years). The inclusion criteria were maxillary or mandibular single-tooth extractions, excellent overall health, and sufficient bone volume for future implant insertion. The use of drugs that alter bone repair, smoking, and systemic illnesses such as diabetes and osteoporosis that impair bone metabolism were all considered exclusion criteria.
+
+Procedure for surgery: Atraumatic procedures were used throughout all extractions under local anesthetic to prevent excessive injury to the adjacent alveolar bone. PRF membranes were made in Group A using the method outlined by Choukroun.
+
+FDBA (particle size 0.25-1 mm) was inserted into the extraction socket in Group B until the bone level was recovered. Over the graft, a resorbable collagen membrane was applied to maintain the material and encourage directed bone growth. To accomplish primary closure, the mucoperiosteal flap was adjusted in both groups and sutured with 4-0 resorbable sutures.
+
+The clinical measure of keratinized tissue width was taken at three months, six months, and one month following surgery, as well as at baseline.
+
+Cone-beam computed tomography (CBCT) was used for radiographic evaluations in order to determine changes in hard tissue dimensions. At the mid-buccal, mid-lingual, and interproximal locations, the principal results were the decrease in alveolar ridge height and breadth.
+
+Statistical analysis: Software called SPSS was used to analyze the data (version 23).
+
+### Results
+
+Patient profile: The research had 60 patients in total, of whom 35 were male and 25 were female. In Group A (PRF), the mean age was 45.3 ± 8.7 years, whereas in Group B (FDBA), it was 46.1 ± 9.2 years. Between the two groups, there were no significant variations in the baseline demographics (P > 0.05).
+
+Width of keratinized tissue: The keratinized tissue width increased in both groups, but the increase was more noticeable in Group A (PRF). Group A and Group B had baseline keratinized tissue width of 2.8 ± 0.6 mm and 2.9 ± 0.5 mm, respectively (P = 0.687). After six months, Group B had a mean width of 3.5 ± 0.6 mm (P = 0.036) compared to Group A's 4.0 ± 0.7 mm.
+
+Table 1 — Width of keratinized tissue:
+| Time Point | Group A (PRF) | Group B (FDBA) | P |
+|---|---|---|---|
+| Baseline | 2.8±0.6 mm | 2.9±0.5 mm | 0.687 |
+| 3 months | 3.6±0.5 mm | 3.3±0.6 mm | 0.084 |
+| 6 months | 4.0±0.7 mm | 3.5±0.6 mm | 0.036 |
+
+Alveolar ridge dimensions: In comparison to Group A (PRF), radiographic studies showed that Group B (FDBA) had preserved the alveolar ridge dimensions to a higher extent. The baseline mean ridge heights for Group A and Group B were 10.5 ± 1.2 mm and 10.4 ± 1.3 mm, respectively (P = 0.812). Group A showed a mean decrease in ridge height of 1.6 ± 0.4 mm after six months, whereas Group B showed a mean reduction of 1.2 ± 0.3 mm (P = 0.025). The reduction in ridge width showed a similar trend after six months (P = 0.018), with Group A demonstrating a decrease of 2.3 ± 0.5 mm and Group B showing a decrease of 1.8 ± 0.4 mm.
+
+Group A (PRF) showed significantly greater keratinized tissue width at 6 months compared to Group B (FDBA). Group B (FDBA) demonstrated better preservation of alveolar ridge dimensions.
+
+Table 2 — Alveolar ridge dimensions:
+| | Time Point | Group A (PRF) | Group B (FDBA) | P |
+|---|---|---|---|---|
+| Ridge Height | Baseline | 10.5±1.2 mm | 10.4±1.3 mm | 0.812 |
+| Ridge Height | 6 months | 8.9±1.4 mm | 9.2±1.5 mm | 0.025 |
+| Ridge Width | Baseline | 8.3±0.8 mm | 8.4±0.9 mm | 0.731 |
+| Ridge Width | 6 months | 6.0±0.9 mm | 6.6±0.8 mm | 0.018 |
+
+Bone density: Group B (FDBA) showed 30% increase in bone density vs baseline (P < 0.05); FDBA group bone density 860 HU vs PRF group 700 HU (as referenced in Discussion).
+
+### Discussion
+
+The PRF group also exhibited a large increase in keratinized tissue width, which is explained by PRF's angiogenic qualities, which promote the development of strong, well-vascularized keratinized mucosa. Given that adequate keratinized tissue is linked to enhanced peri-implant health, the PRF group's increased keratinized tissue width (4.0 mm vs. 3.5 mm) is especially significant for implant longevity. The potential of PRF as a preferable material in ARP operations where soft tissue preservation is a priority is shown by its capacity to improve soft tissue characteristics.
+
+After six months, however, the FDBA group showed better alveolar ridge dimensions retention. The osteoconductive qualities of FDBA are highlighted by the smaller decrease in ridge height and width in the FDBA group (1.2 mm and 1.8 mm, respectively) as compared to the PRF group (1.6 mm and 2.3 mm, respectively). These results are consistent with research that has shown the potential of FDBA to retain bone volume because of its structural resemblance to natural bone and its capacity to act as a scaffold for the production of new bone. A secure foundation for future implant placement is further supported by the FDBA group's increased bone density (860 HU vs. 700 HU). This is in line with the findings of Kim, who discovered that, in comparison to other graft materials, FDBA promotes greater bone regeneration and higher bone density.
+
+### Conclusion
+
+In conclusion, this study demonstrates that PRF is more effective in enhancing soft tissue parameters, while FDBA excels in preserving hard tissue dimensions and increasing bone density during alveolar ridge preservation.
+
+Conflicts of interest: There are no conflicts of interest.

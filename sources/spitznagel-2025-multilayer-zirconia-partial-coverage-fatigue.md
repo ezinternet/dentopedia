@@ -17,11 +17,21 @@ text_filename: spitznagel-2025-multilayer-zirconia-partial-coverage-fatigue.txt
 
 [[inlay/prott-2025-partial-coverage-restorations-posterior-scoping]]가 부분 피개 수복(PCR)의 임상 생존율을 종합했지만 재료별 최소 두께·비파괴 하중 근거는 부족했다. 본 in-vitro 연구(Spitznagel 2025)는 composition-gradient multilayer zirconia를 0.5/1.0/1.5 mm 세 두께에서 PCR vs crown으로 직접 비교해, 초박형(0.5 mm)에서 PCR이 crown보다 우월한 failure load를 보임을 정량화한다 — PCR 설계의 두께-의존적 역학 우위를 보강하고, [[dental-materials/zirconia/cesar-2024-dental-zirconia-15years-material-processing]]의 yttria-gradient 멀티레이어 zirconia 논의를 임상 수복물 형상에 적용한다.
 
-## One-line Summary
-In-vitro fatigue + load-to-failure study (n=72, IPS e.max ZirCAD Prime Esthetic 4Y/5Y composition-gradient multilayer zirconia molar restorations): all survived 1.2M-cycle fatigue (97.2% crack-free); at 0.5 mm ultrathin, partial-coverage restorations far outperformed crowns (2047 vs 695 N, p<0.001), no difference at 1.0 mm, crowns superior at 1.5 mm (3503 vs 2777 N, p=0.005).
+## Three-line Summary
 
-## 한줄요약
-multilayer zirconia 어금니 수복물 in-vitro 피로·파절하중 연구(n=72) — 0.5 mm 초박형에서는 부분피개(PCR)가 크라운보다 파절하중 압도(2047 vs 695 N), 1.0 mm는 동등, 1.5 mm는 크라운 우위(3503 vs 2777 N). 크라운은 최소 1.0 mm 필요.
+In-vitro fatigue + load-to-failure study (n=72, IPS e.max ZirCAD Prime Esthetic 4Y/5Y composition-gradient multilayer zirconia molar restorations): all survived 1.2M-cycle fatigue (97.2% crack-free);
+
+at 0.5 mm ultrathin, partial-coverage restorations far outperformed crowns (2047 vs 695 N, p<0.001), no difference at 1.0 mm, crowns superior at 1.5 mm (3503 vs 2777 N, p=0.005).
+
+(incomplete)
+
+## 세줄요약
+
+multilayer zirconia 어금니 수복물 in-vitro 피로·파절하중 연구(n=72) — 0.5 mm 초박형에서는 부분피개(PCR)가 크라운보다 파절하중 압도(2047 vs 695 N), 1.0 mm는 동등, 1.5 mm는 크라운 우위(3503 vs 2777 N).
+
+크라운은 최소 1.0 mm 필요.
+
+(incomplete)
 
 ## 1. Document Information
 

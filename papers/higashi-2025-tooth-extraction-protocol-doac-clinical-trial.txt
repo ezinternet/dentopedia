@@ -1,0 +1,55 @@
+SOURCE: PubMed (abstract only — no PMCID, full text not available)
+PMID: 41444034
+DOI: 10.1016/j.oooo.2025.10.021
+Journal: Oral Surg Oral Med Oral Pathol Oral Radiol. 2025 Nov 12;141(4):486-494.
+Article types: Journal Article
+
+TITLE
+Proposal for a tooth extraction protocol for patients taking direct oral anticoagulants: a clinical trial.
+
+AUTHORS
+Elaine Massumi Higashi; Itamara Lucia Itagiba Neves; Francisco Carlos da Costa Darrieux;
+Marcela Alves Dos Santos Paul; Gustavo Luiz Alkmin Paiva; Vitor Takao Omori;
+Ricardo Simoes Neves; Mauricio Ibraim Scanavacca; Denise Tessariol Hachul
+
+AFFILIATIONS
+Department of Dentistry, Heart Institute (InCor), Clinics Hospital of the University of Sao Paulo, Sao Paulo, SP, Brazil.
+Department of Arrhythmia and Pacemaker Clinical, Heart Institute, Clinics Hospital of the University of Sao Paulo.
+Department of Echocardiography, Heart Institute, Clinics Hospital of the University of Sao Paulo.
+
+ABSTRACT
+
+Objective:
+To evaluate the feasibility of a protocol in which direct oral anticoagulants (DOACs) are not
+discontinued prior to tooth extractions, compared with warfarin.
+
+Methods:
+A prospective blind study was conducted on anticoagulated patients with atrial fibrillation
+undergoing tooth extraction. Patients were divided into three groups according to the anticoagulant
+pharmacokinetics: 20 patients on rivaroxaban once daily; 18 on dabigatran or apixaban twice daily,
+and 20 on warfarin (control group). Extractions were scheduled during the lowest DOACs plasma
+concentration: 14 hours after the last rivaroxaban dose; 8 hours after the last dabigatran/apixaban
+dose; and with INR values between 2.0 and 3.0 in the warfarin group. Patients returned 24 hours
+after tooth extraction for evaluation of bleeding.
+
+Results:
+Fifty-eight patients were included in the study, in a total of 84 tooth extractions. No minor or
+major bleeding occurred in the rivaroxaban group. Two patients in the dabigatran/apixaban group
+(11.1%) and two in the control group (10%) presented minor bleeding. There was no statistically
+significant difference in bleeding rates among the groups (P = .324), and no major bleeding events
+were reported.
+
+Conclusion:
+These preliminary results suggest that the protocol proposing non-discontinuing DOACs in
+extractions may be feasible in clinical practice.
+
+MeSH TERMS
+Humans; Tooth Extraction; Rivaroxaban; Anticoagulants; Pyridones; Male; Prospective Studies;
+Female; Dabigatran; Warfarin; Aged; Pyrazoles; Atrial Fibrillation; Administration, Oral;
+Middle Aged; Feasibility Studies; International Normalized Ratio; Treatment Outcome
+
+RETRIEVAL NOTE
+Retrieved 2026-07-19 via PubMed MCP get_article_metadata. get_full_text_article returned no
+articles (no PMCID assigned; OOOO/Elsevier paywalled). Content above is the complete
+publisher-supplied structured abstract; no full-text sections (patient characteristics tables,
+hemostatic technique detail, CHA2DS2-VASc/HAS-BLED distribution) were available.

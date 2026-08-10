@@ -6,7 +6,7 @@ date: 2022-10-28
 doi: "10.1016/j.dental.2022.10.002"
 source: yang-2022-bulk-fill-shrinkage-kinetics-fracture-toughness.md
 category: [resin]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: false
 pmid: "38709119"
@@ -20,11 +20,21 @@ relations:
     target: parra-gatica-2023-flowable-bulk-fill-composites-sr
 ---
 
-## One-line Summary
-In-vitro bench study (4 bulk-fill composites, n=3-5) finding bulk-fill types show comparable polymerization shrinkage, that filler content (wt%) strongly correlates with both shrinkage and fracture toughness, and that sonication (SonicFill 3) and pre-heating (Viscalor) enhance flowability without increasing shrinkage or reducing fracture toughness.
+## Three-line Summary
 
-## 한줄요약
-In-vitro (벌크필 4종, ATR-FTIR + bonded-disk): 벌크필 종류 간 중합수축은 비슷하고 충전율(wt%)이 수축·파괴인성과 강하게 상관하며, sonication(SonicFill 3)·예열(Viscalor)은 수축 증가나 파괴인성 저하 없이 흐름성만 개선.
+In-vitro bench study (4 bulk-fill composites: SonicFill 3, Viscalor, One Bulk Fill, Beautifil Bulk; n=3–5) measuring real-time polymerization kinetics, shrinkage, and fracture toughness using ATR-FTIR, bonded-disk, and single-edge-notched bending.
+
+Polymerization shrinkage was comparable across bulk-fills (only One Bulk Fill highest); filler content (wt%) strongly correlated with both shrinkage and fracture toughness; Beautifil Bulk (giomer) had the lowest K_IC (p<0.05); sonication (SonicFill 3) and pre-heating (Viscalor, 30 s or 3 min) improved flowability with no increase in shrinkage or decrease in toughness.
+
+Clinicians can use sonic-insertion or pre-heated bulk-fill composites without incurring a shrinkage or fracture-toughness penalty; giomer bulk-fill (Beautifil Bulk) shows inferior fracture toughness and should be selected cautiously for high-stress posterior cavities.
+
+## 세줄요약
+
+In-vitro 연구 (벌크필 레진 4종: SonicFill 3·Viscalor·One Bulk Fill·Beautifil Bulk, n=3–5) — ATR-FTIR·접합디스크·단일 노치 굽힘 시험으로 중합속도론·중합수축 (Polymerization Shrinkage, PS)·파괴인성 (Fracture Toughness, K_IC) 측정.
+
+벌크필 간 중합수축은 유사(One Bulk Fill만 최고); 충전재 함량(wt%)이 수축·파괴인성 양자와 강한 상관; Beautifil Bulk (giomer) 파괴인성 최저(p<0.05); 소닉 삽입 (SonicFill 3)과 예열 (Viscalor, 30초·3분) 모두 수축 증가나 파괴인성 저하 없이 흐름성 개선.
+
+소닉 삽입·예열 벌크필은 수축·파괴인성 페널티 없이 사용 가능; giomer 벌크필(Beautifil Bulk)은 파괴인성 열위이므로 고응력 구치부 공동에 신중히 선택.
 
 ## Summary
 This Dental Materials (2022) bench study from the Manchester group (Watts) measured real-time polymerization kinetics, polymerization shrinkage (PS), and fracture toughness (K_IC) of four contemporary bulk-fill composites that incorporate viscosity-reduction features: SonicFill 3 (sonic insertion), Viscalor (thermo-viscous, pre-heated), One Bulk Fill, and Beautifil Bulk (a giomer). The clinical question is whether techniques that make a bulk-fill easier to place (sonication, pre-heating) come at the cost of more shrinkage or weaker material. The answer was no: shrinkage was broadly comparable across the bulk-fills, fracture toughness was similar except for the lowest-toughness giomer, and neither sonication nor pre-heating (including 30 s vs 3 min) degraded these properties. Filler content (wt%) was the dominant correlate of both PS and K_IC.

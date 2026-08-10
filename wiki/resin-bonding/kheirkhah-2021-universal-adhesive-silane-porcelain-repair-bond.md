@@ -6,20 +6,28 @@ date: 2021-03-31
 doi: 10.17219/dmp/130101
 source: kheirkhah-2021-universal-adhesive-silane-porcelain-repair-bond.md
 category: [resin-bonding]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/kheirkhah-2021-universal-adhesive-silane-porcelain-repair-bond.pdf
 pdf_filename: kheirkhah-2021-universal-adhesive-silane-porcelain-repair-bond.pdf
 source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In vitro (n=70 feldspathic porcelain disks, 7 groups, SBS after 5,000 thermocycles): Separate silane application significantly increased repair bond strength with Single Bond Universal and All Bond Universal, but not with FuturaBond Universal — silane remains necessary even with silane-containing universal adhesives for most products.
+In-vitro study (n=70 feldspathic porcelain disks, 7 groups, SBS tested after 24 h water storage + 5,000 thermocycles) evaluating whether separate silane application adds bond strength when using silane-containing universal adhesives for ceramic repair.
 
-## 한줄요약
+Adding a separate silane step after 9.5% HF etching significantly increased repair SBS for Single Bond Universal (p<0.001) and All Bond Universal (p<0.001), but showed no added benefit with FuturaBond Universal (p>0.05).
 
-In vitro (n=70 장석계 도재 디스크, 7그룹, SBS, 열순환 후): Single Bond·All Bond 유니버설 접착제에 별도 실란 추가 시 수리 접착강도 유의하게 증가; FuturaBond는 추가 효과 없음.
+Clinicians must not assume that universal adhesive silane content eliminates the need for separate silane priming — product-specific behavior requires checking each adhesive system rather than applying a blanket rule.
+
+## 세줄요약
+
+인 비트로 연구(n=70 장석계 도재 디스크, 7그룹, 24h 수침 + 열순환 5,000회 후 전단접착강도) — 실란 함유 유니버설 접착제 사용 시 별도 실란 추가가 도재 수복 접착강도를 향상시키는지 평가.
+
+9.5% HF 에칭 후 별도 실란 추가 시 Single Bond Universal(p<0.001)·All Bond Universal(p<0.001)의 접착강도가 유의하게 증가했으나, FuturaBond Universal은 차이 없음(p>0.05).
+
+유니버설 접착제에 실란이 포함되어 있어도 제품별로 별도 실란의 필요성이 다르므로, 단일 규칙 적용 없이 제품별 특성을 확인해야 한다.
 
 ## Summary
 

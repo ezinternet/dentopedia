@@ -12,11 +12,21 @@ source_collection: external
 ## Why Ingested
 근관치료된 구치의 수복 선택(직접 복합레진 vs 간접 수복)에 대한 최상위 근거를 보강하기 위해 ingest. 기존 [[inlay/angeletaki-2016-direct-vs-indirect-inlay-onlay-sr-ma]]와 [[inlay/bresser-2023-intracoronal-restorations-longevity-sr-ma]]의 direct-vs-indirect 비교를 endodontically treated posterior teeth라는 특정 시나리오로 한정·확장하며, 적응증 교란(indication confounding) 때문에 관찰연구의 우열 판정이 무효라는 점을 명시적으로 강조한다.
 
-## One-line Summary
-SR+MA (22 studies: 2 RCTs, 3 prospective, 17 retrospective) on endodontically treated posterior teeth: over the short term (2.5–3 y), low-quality evidence shows no difference in tooth survival or restorative success between direct composite resin and indirect restorations (pooled RCT OR for tooth retention 2.06 [0.08–53.52], P=.66), but observational data are confounded because direct restorations were used on teeth with more remaining tissue or worse prognosis.
+## Three-line Summary
 
-## 한줄요약
-SR+MA (22편: RCT 2, 전향 3, 후향 17). 근관치료된 구치를 직접 복합레진 vs 간접 수복으로 비교 — 단기(2.5~3년)에는 치아 생존율·수복 성공률에 차이 없음(RCT 통합 OR 2.06 [0.08–53.52], P=.66), 단 관찰연구는 직접수복이 잔존치질이 많거나 예후 불량한 치아에 적용된 적응증 교란(confounding)이 심해 근거 수준이 낮음.
+SR+MA (22 studies: 2 RCTs, 3 prospective, 17 retrospective; PRISMA-guided, GRADE appraisal) comparing direct composite resin versus indirect restorations on endodontically treated posterior teeth, with follow-up ranging from 2–11 years.
+
+Short-term (2.5–3 y) RCT-pooled odds ratio for tooth retention was 2.06 (95% CI 0.08–53.52, p=.66) — no statistically significant difference; restorative success OR 2.31 (0.59–9.08, p=.29); overall evidence rated low quality (GRADE).
+
+The dominant problem is indication confounding in observational studies — direct restorations were selectively placed on teeth with more remaining tissue or unfavorable prognosis, making naive survival comparisons invalid; well-designed RCTs controlling for coronal tissue amount are urgently needed.
+
+## 세줄요약
+
+SR+MA (22편: RCT 2·전향 3·후향 17, PRISMA 가이드·GRADE 평가) — 근관치료된 구치에서 직접 복합레진 vs 간접 수복을 추적 2~11년으로 비교했다.
+
+단기(2.5~3년) RCT 통합 치아 생존 OR 2.06 (95% CI 0.08~53.52, p=.66), 수복 성공 OR 2.31 (0.59~9.08, p=.29) — 모두 통계적 유의성 없음; 근거 수준은 GRADE 낮음.
+
+관찰연구에서 직접 수복은 잔존 치질이 많거나 예후 불량한 치아에 선택적으로 사용되는 적응증 교란(indication confounding)이 심각해 단순 생존율 비교가 무효이며, 잔존 치질량을 통제한 RCT가 시급하다.
 
 ## 1. Document Information
 - **Title**: Clinical performance of direct composite resin versus indirect restorations on endodontically treated posterior teeth: A systematic review and meta-analysis

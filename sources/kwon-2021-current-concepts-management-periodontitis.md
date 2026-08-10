@@ -12,11 +12,21 @@ source_collection: external
 ## Why Ingested
 Concise clinical review covering the 2017 World Workshop staging/grading classification, risk factor quantification, and step-by-step treatment protocol from SRP through regenerative surgery and maintenance — a foundational reference complementing [[oral-microbiology/hajishengallis-2012-psd-model-periodontal-disease]] on host-pathogen dynamics.
 
-## One-line Summary
-Narrative review synthesising the aetiology, 2017 staging/grading classification, risk factors (smoking OR 3.25–7.28; diabetes OR 2.81–3.43), and treatment sequence (home care → SRP ± systemic antibiotics → surgical therapy → maintenance) for periodontitis.
+## Three-line Summary
 
-## 한줄요약
+Narrative review synthesising the aetiology, 2017 staging/grading classification, risk factors (smoking OR 3.25–7.28;
+
+diabetes OR 2.81–3.43), and treatment sequence (home care → SRP ± systemic antibiotics → surgical therapy → maintenance) for periodontitis.
+
+(incomplete)
+
+## 세줄요약
+
 Narrative review: 치주염의 원인·2017 병기/등급 분류·위험인자(흡연·당뇨)·치료 프로토콜(SRP → 수술 → 유지) 총괄.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - Int Dent J. 2021;71(6):462–476. Published online 19 February 2021.

@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1111/scd.70112
 source: loper-2025-prophylactic-antibiotics-infective-endocarditis-dental-sr.md
 category: [drug/antibiotics]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "41269014"
@@ -20,13 +20,21 @@ relations:
     target: sperotto-2024-antibiotic-prophylaxis-infective-endocarditis-sr-ma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review of 3 case-control studies in pediatric CHD patients found very low GRADE evidence that antibiotic prophylaxis before dental procedures prevents infective endocarditis (OR 3.63, ns) but does reduce bacteremia (pooled OR 0.24, p<0.05).
+Systematic review (6 databases through April 2024, PROSPERO-registered) evaluating antibiotic prophylaxis for dental procedures in pediatric patients with congenital heart disease (CHD); only 3 case-control studies met inclusion from 1,774 screened, revealing a stark evidence vacuum.
 
-## 한줄요약
+Antibiotic prophylaxis did not significantly prevent infective endocarditis (IE) in the single eligible study (OR 3.63, 95% CI 0.98–13.47, ns; likely confounded by indication); prophylaxis did significantly reduce bacteremia (pooled OR 0.24, 95% CI 0.14–0.42, p<0.05; I²=0%); GRADE certainty very low (⊕◯◯◯) for both outcomes.
 
-선천성 심장질환(Congenital Heart Disease, CHD) 소아 대상 체계적 문헌고찰(3편 증례-대조연구) — 예방적 항생제(Antibiotic Prophylaxis, AP)가 감염성 심내막염(Infective Endocarditis, IE) 예방에 효과적이라는 근거 매우 낮음(GRADE ⊕◯◯◯); 균혈증(Bacteremia) 감소에는 유의(OR 0.24, p<0.05)하나 역시 근거 수준 매우 낮음.
+No RCTs exist (ethical barriers insurmountable) — current guideline recommendations for high-risk CHD patients rest on precautionary stance, severity-of-IE consequences, and pathophysiological plausibility rather than empirical RCT-level evidence.
+
+## 세줄요약
+
+선천성 심장질환(Congenital Heart Disease, CHD) 소아 대상 체계적 문헌고찰(6개 DB, 2024년 4월까지; 1,774편 선별 후 3편 증례-대조연구 포함): 예방적 항생제(Antibiotic Prophylaxis, AP) 근거가 소아 CHD에서 성인보다 더욱 취약함을 최초로 정량화.
+
+AP가 감염성 심내막염(Infective Endocarditis, IE) 발생을 예방한다는 근거 없음(OR 3.63, ns; 1편만 평가); 균혈증(Bacteremia) 감소에는 유의(OR 0.24, p<0.05; I²=0%)하나 균혈증이 IE의 대리지표로서 타당성 미검증 — GRADE 매우 낮음.
+
+RCT 수행이 윤리적으로 불가능해 이 인구에서의 현행 가이드라인 권고는 경험적 근거가 아닌 IE 중증도·병태생리적 개연성·전문가 합의에 기반한 예방적 입장임.
 
 ## Summary
 
@@ -103,6 +111,6 @@ The GRADE certainty for both outcomes was rated **very low** (⊕◯◯◯), dow
 
 ## Related Papers
 
-- [[drug/sperotto-2024-antibiotic-prophylaxis-infective-endocarditis-sr-ma]] — adult SR+MA (JAMA Cardiology 2024); pooled RR 0.41 for IE with AP in high-risk cardiac patients; Loper 2025 refines this for pediatric CHD specifically
-- [[drug/de-angelis-2025-antibiotic-third-molar-extraction-prevention-sr]] — SR on AP for third molar extractions; relevant to AP evidence base across dental procedures
-- [[drug/bazsefidpay-2023-antibiotic-restrictive-use-adherence-recommendation]] — antibiotic prescribing adherence in dental settings; complements guideline compliance context
+- [[drug/antibiotics/sperotto-2024-antibiotic-prophylaxis-infective-endocarditis-sr-ma]] — adult SR+MA (JAMA Cardiology 2024); pooled RR 0.41 for IE with AP in high-risk cardiac patients; Loper 2025 refines this for pediatric CHD specifically
+- [[drug/antibiotics/de-angelis-2025-antibiotic-third-molar-extraction-prevention-sr]] — SR on AP for third molar extractions; relevant to AP evidence base across dental procedures
+- [[drug/antibiotics/bazsefidpay-2023-antibiotic-restrictive-use-adherence-recommendation]] — antibiotic prescribing adherence in dental settings; complements guideline compliance context

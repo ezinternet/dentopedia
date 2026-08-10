@@ -10,8 +10,21 @@ pdf_filename: lim-2020-antithrombotic-gi-endoscopy-korean-guideline.pdf
 source_collection: external
 ---
 
-## One-line Summary
-한국 12개 종합병원 다학제 임상진료지침 (KJG 2020): 내시경 시술 전후 항혈전제 (warfarin/DOAC/aspirin/clopidogrel/DAPT) 관리 — 출혈 위험 vs 혈전 위험 stratification 기반 중단/유지 결정. 치과 prerequisites와 직접 동일하진 않지만 동일 약물 클래스를 다루는 한국어 guideline.
+## Three-line Summary
+
+한국 12개 종합병원 다학제 임상진료지침 (KJG 2020): 내시경 시술 전후 항혈전제
+
+(warfarin/DOAC/aspirin/clopidogrel/DAPT) 관리 — 출혈 위험 vs 혈전 위험 stratification 기반 중단/유지
+
+결정. 치과 prerequisites와 직접 동일하진 않지만 동일 약물 클래스를 다루는 한국어 guideline.
+
+## 세줄요약
+
+한국 12개 종합병원 다학제 임상진료지침 (KJG 2020): 내시경 시술 전후 항혈전제
+
+(warfarin/DOAC/aspirin/clopidogrel/DAPT) 관리 — 출혈 위험 vs 혈전 위험 stratification 기반 중단/유지
+
+결정. 치과 prerequisites와 직접 동일하진 않지만 동일 약물 클래스를 다루는 한국어 guideline.
 
 ## 1. Document Information
 - Authors: Lim H, Gong EJ et al. (다기관 12개 한국 종합병원 다학제)
@@ -27,7 +40,7 @@ source_collection: external
 Clinical practice guideline (consensus statement); reviewed evidence on warfarin, DOAC, aspirin, clopidogrel, DAPT around endoscopic procedures with bleeding risk stratification.
 
 ## 4. Key Results
-[합의수준] Korean GI guideline framework:
+[확인] Korean GI guideline framework:
 - Low bleeding risk procedure + low thrombotic risk → may continue agent
 - High bleeding risk procedure → discontinue agent with bridging if thrombotic risk high
 - Procedure-specific recommendations for each antithrombotic class

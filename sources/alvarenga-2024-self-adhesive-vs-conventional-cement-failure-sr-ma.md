@@ -16,13 +16,21 @@ text_filename: alvarenga-2024-self-adhesive-vs-conventional-cement-failure-sr-ma
 
 기존 접착시멘트 페이지들은 거의 전부 **in-vitro 결합강도** 근거다 — [[resin-bonding/borouziniat-2024-self-adhesive-vs-etch-resin-cement-zirconia-sr-ma]] (지르코니아 SBS), [[dental-materials/zirconia/kwon-2026-self-adhesive-resin-cement-zirconia]] 등. 정작 임상의가 알고 싶은 "자가접착 레진시멘트로 합착해도 수복물이 더 자주 떨어지지 않나?"라는 **임상 실패율** 질문은 비어 있었다. 본 SR+MA(RCT 9편)는 그 공백을 채우며, in-vitro에서 self-adhesive ≈ self-etch였던 borouziniat 소견이 **임상 생존율 수준에서도 self-adhesive ≈ conventional**로 이어짐을 보강한다. de Oliveira 2021이 보인 "in-vitro 우위가 임상 이점으로 직결되지 않는다"는 패턴과도 결을 같이한다 ([[resin-bonding/de-oliveira-2021-10-mdp-self-etch-adhesive-dentin-sr]]).
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review + meta-analysis of 9 RCTs finding no significant difference in clinical failure rate of indirect single-tooth restorations cemented with self-adhesive resin cement versus conventional cements; self-adhesive resin cement is a recommendable, technically simpler alternative.
+Systematic review and meta-analysis of 9 RCTs (PROSPERO CRD42020215577) comparing clinical failure rate of indirect single-tooth restorations cemented with self-adhesive resin cement versus conventional cements.
 
-## 한줄요약
+8 of 9 RCTs showed no significant difference in failure rate; the pooled result was nonsignificant, with only one discordant RCT (ceramic crowns) showing higher failure with self-adhesive cement.
 
-RCT 9편의 체계적 문헌고찰 + 메타분석 — 간접 단일치 수복물을 자가접착 레진시멘트(self-adhesive resin cement)로 합착해도 기존 시멘트(conventional cement) 대비 임상 실패율에 유의차가 없어, 술식이 단순한 자가접착 레진시멘트를 권장할 수 있다.
+Self-adhesive resin cement can be recommended as a technically simpler alternative for indirect single-tooth restorations without incurring a survival penalty.
+
+## 세줄요약
+
+RCT 9편의 체계적 문헌고찰 및 메타분석(PROSPERO CRD42020215577): 간접 단일치 수복물에서 자가접착 레진시멘트(self-adhesive resin cement) 대 기존 시멘트(conventional cement)의 임상 실패율 비교.
+
+9편 중 8편에서 실패율 차이 없음, 풀링 결과도 유의차 없었으며, 도자기 크라운에 국한된 1편만 자가접착 레진시멘트 쪽 실패율이 유의하게 높았다.
+
+자가접착 레진시멘트는 술식이 단순하면서도 기존 시멘트와 동등한 생존율을 보여 간접 단일치 수복에 권장 가능하나, 도재 크라운 등 일부 적응증에서는 주의가 필요하다.
 
 ## 1. Document Information
 

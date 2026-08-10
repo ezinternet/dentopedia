@@ -6,18 +6,26 @@ date: 2019-01-01
 doi: "10.1055/s-0039-1700767"
 source: alrahabi-2019-clinical-malpractice-in-endodontics.md
 category: complaint-management
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/alrahabi-2019-clinical-malpractice-in-endodontics.pdf
 pdf_filename: alrahabi-2019-clinical-malpractice-in-endodontics.pdf
 source_collection: external
 tags: [dental, endodontics, malpractice, procedural-error]
 ---
 
-## One-line Summary
-Narrative review of clinical malpractice in endodontics, cataloguing pre-, intra-, and post-operative errors (perforation, ledging, hypochlorite accidents, instrument fracture, no rubber dam) and their legal ramifications.
+## Three-line Summary
+Narrative review cataloguing clinical malpractice in endodontics — the dental discipline with the highest malpractice claim rate — across pre-operative, intra-operative, and post-operative phases.
 
-## 한줄요약
-근관치료 임상 과실 내러티브 리뷰 — 술전·술중·술후 오류(천공·레지·차아염소산 사고·기구파절·러버댐 미사용)와 법적 책임 정리.
+Errors identified include incorrect diagnosis, perforation, ledging/apical transportation, hypochlorite accidents, instrument fracture, and failure to use a rubber dam (the last carrying risk of instrument aspiration/ingestion and severe legal exposure).
+
+Adherence to standards of care, meticulous documentation, and ethical practice are the primary malpractice-prevention strategies recommended.
+
+## 세줄요약
+근관치료 임상 과실 서술 리뷰 — 치과 영역 중 의료소송 청구율이 가장 높은 근관치료의 술전·술중·술후 오류 체계적 정리.
+
+오류 유형: 오진·천공·레지/근단이동·차아염소산 사고·기구 파절, 러버댐 미사용(기구 흡인·삼킴으로 법적 고위험).
+
+표준 치료 준수·충실한 문서화·윤리적 진료가 핵심 예방 전략으로 제시됨.
 
 ## Summary
 Alrahabi, Zafar and Adanir review clinical malpractice in endodontics, the dental discipline that attracts the most malpractice claims because its procedures are highly technique-sensitive. They catalogue errors across the treatment arc -- diagnostic/preoperative mistakes, intraoperative perforations, ledging and apical transportation, hypochlorite accidents, and instrument fracture -- and single out failure to use a rubber dam, which risks aspiration or ingestion of instruments and serious legal exposure. The review frames adherence to standards, documentation, and ethics as the route to preventing both complications and complaints.

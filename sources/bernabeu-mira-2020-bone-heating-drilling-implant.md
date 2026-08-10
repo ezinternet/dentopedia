@@ -9,8 +9,21 @@ pdf_filename: bernabeu-mira-2020-bone-heating-drilling-implant.pdf
 source_collection: external
 ---
 
-## One-line Summary
-In vitro study (Materials 2020, 800 rpm, no irrigation, synthetic blocks): drill **design** (twisted < straight blades) is a stronger thermal driver than drill **material** (SS ≈ DLC overall); initial/pilot drills heat more than progressive/final; all groups show progressive temperature rise across 50 drillings.
+## Three-line Summary
+
+In vitro automated-press study (800 rpm, no irrigation, synthetic blocks, n=50 drillings per drill) comparing stainless-steel straight, DLC-coated straight, and DLC-coated twisted blades across 4 sequential drill sizes.
+
+Drill design (twisted vs straight blades) was a stronger thermal driver than drill material (SS ≈ DLC overall); twisted blades generated significantly less heat in progressive and final drills (p<0.01); initial/pilot drills generated the most heat; all groups showed progressive temperature rise across 50 drillings.
+
+In vitro with no irrigation limits direct clinical translation; these findings support twisted-blade geometry selection for minimizing bone heating during implant osteotomy.
+
+## 세줄요약
+
+자동 프레스 체외 실험(800 rpm, 관주 없음, 합성 블록, 드릴당 50회) — 스테인리스 직선날, DLC 직선날, DLC 꼬임날 3군, 4단계 드릴 크기 비교.
+
+드릴 설계(꼬임 vs 직선 날)가 드릴 재료(SS ≈ DLC)보다 열 발생에 더 강력한 영향; 꼬임 날은 점진·최종 드릴에서 유의하게 낮은 열 발생(p<0.01); 초기·파일럿 드릴에서 가장 높은 온도; 전 군에서 50회에 걸쳐 온도 점진 상승.
+
+관주 없는 체외 연구이므로 임상 직접 적용에 한계 있으나, 임플란트 골삭제(Osteotomy) 시 열 최소화를 위한 꼬임 날 설계 선택을 지지.
 
 ## 1. Document Information
 - Journal: Materials 2020, 13, 1921

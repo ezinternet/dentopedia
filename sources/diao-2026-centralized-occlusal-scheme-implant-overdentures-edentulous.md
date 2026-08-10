@@ -17,13 +17,21 @@ text_filename: diao-2026-centralized-occlusal-scheme-implant-overdentures-edentu
 
 기존 [[occlusion/zhang-xueyang-2018-occlusion-design-edentulous-implant-prosthesis]]는 무치악 임플란트 보철의 교합 설계를 다루지만 "지지 중심(support center)과 교합 부하 중심(occlusal load center)의 불일치"라는 구체적 문제에 대한 새 해법은 없었다. 본 RCT 크로스오버(Diao 2026)는 상악 견치를 소구치처럼 개형해 정중 교합접촉을 추가하는 "집중교합형(centralized occlusal scheme)"을 제안, 전통적 양측성 균형교합 대비 교합접촉면적·저작효율 향상을 직접 비교해 의치 교합 설계 선택지를 확장한다. [[occlusion/bhambhani-2020-choosing-denture-occlusion-systematic-review]]의 의치 교합형 선택 논의를 임플란트 오버덴처 맥락으로 확장.
 
-## One-line Summary
+## Three-line Summary
 
-Randomized crossover trial (n=5 edentulous, 2 mandibular implants each) showing a novel "centralized occlusal scheme" — maxillary canines reshaped to add centric contacts over the canine pillar — improved occlusal contact area by 21.22% and masticatory efficiency by 21.87% vs conventional bilateral balanced occlusion, with comparable satisfaction/speech/aesthetics (abstract-only).
+Randomized crossover trial (n=5 completely edentulous patients, each with 2 mandibular implants) comparing a novel "centralized occlusal scheme" — maxillary canines reshaped to add centric contacts over the canine pillar — against conventional bilateral balanced occlusion in implant-supported overdentures (abstract-only; full text not retrieved).
 
-## 한줄요약
+The centralized scheme improved occlusal contact area by 21.22% and masticatory efficiency by 21.87% (reaching 55.13% of complete natural-dentition efficiency) vs conventional bilateral balanced occlusion, while overall satisfaction, speech, and aesthetics were comparable; FEA showed expanded denture support to the maxillary canine region.
 
-무치악 환자 5명(하악 임플란트 각 2개) 대상 무작위 크로스오버 연구. 상악 견치를 개형해 정중 교합접촉을 추가한 새로운 "집중교합형"이 전통적 양측성 균형교합 대비 교합접촉면적 21.22%·저작효율 21.87% 향상(완전 자연치열의 55.13%까지 회복), 만족도·발음·심미는 동등 (초록만 확보).
+The centralized occlusal scheme is a promising design option to better align the occlusal load center with implant support in two-implant mandibular overdentures, but the very small sample (n=5) and short-term surrogate endpoints require confirmation in larger RCTs before clinical adoption.
+
+## 세줄요약
+
+무치악 환자 5명(하악 임플란트 각 2개) 대상 무작위 크로스오버 연구 — 상악 견치를 개형해 정중 교합접촉을 추가한 "집중교합형(centralized occlusal scheme)"과 전통적 양측성 균형교합을 비교 (초록만 확보).
+
+집중교합형이 교합접촉면적 21.22%, 저작효율 21.87% 향상(완전 자연치열의 55.13% 수준 회복), 만족도·발음·심미는 양측 동등; FEA에서는 상악 견치 부위로 지지 면적이 확대됨을 확인.
+
+지지 중심과 교합 부하 중심의 불일치를 해소하는 새 교합 설계로 가능성을 보이나, 표본(n=5) 매우 소규모이고 단기·대리 결과(교합접촉·저작효율)만 평가되어 더 큰 RCT로 검증 필요.
 
 ## 1. Document Information
 

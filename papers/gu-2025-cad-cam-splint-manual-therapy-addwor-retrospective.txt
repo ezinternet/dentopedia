@@ -1,0 +1,239 @@
+1. Introduction
+
+Orofacial pain, including discomfort in the jaw and masticatory muscles, 
+significantly affects daily activities and quality of life [], with 
+epidemiological data suggesting a global prevalence of temporomandibular 
+disorders (TMD) being approximately 25% []. TMDs represent a common group of 
+conditions characterized by jaw pain, restricted mandibular movement, joint 
+sounds, and functional limitations. Among these, anterior disc displacement 
+without reduction (ADDwoR) poses particular diagnostic and therapeutic 
+challenges, as the displaced articular disc fails to return to its normal 
+anatomical position, often resulting in persistent pain and functional 
+impairment. This may extend beyond the orofacial region and manifest as 
+headaches, sleep disturbances, and psychological distress.
+
+The pathogenesis of ADDwoR is multifactorial, involving mechanical loading, 
+systemic influences, occlusal discrepancies, and psychological factors such as 
+stress and anxiety [,]. Due to this complexity, a wide range of therapeutic 
+approaches has been investigated, with contemporary treatment paradigms 
+emphasizing conservative function-oriented strategies rather than focusing solely 
+on repositioning the displaced disc [,].
+
+Among the conservative treatments for ADDwoR, occlusal splints are commonly 
+employed to redistribute occlusal forces and alleviate masticatory muscle 
+hyperactivity. The advent of computer-aided design/computer-aided manufacturing 
+(CAD/CAM) technology has enabled the fabrication of occlusal splints with 
+improved precision and individualized fit for enhanced therapeutic efficacy []. 
+Additionally, manual therapy, which involves targeted mobilization and soft 
+tissue manipulation of the temporomandibular joint (TMJ) and surrounding 
+musculature, has shown beneficial effects in reducing muscular tension, 
+alleviating pain, and improving jaw mobility [].
+
+However, recent network meta-analyses have highlighted the limitations of 
+single-modality treatments. For instance, Al-Moraissi. [] found 
+that no single intervention consistently achieved optimal outcomes in pain 
+reduction and improvement of mouth opening from 742 patients in 16 randomized 
+controlled trials (RCTs). Based on this, combining occlusal splints with manual 
+therapy has been proposed as a potentially synergistic approach that may more 
+effectively address the multidimensional nature of TMD symptoms. This is 
+consistent with current views that management of TMD, particularly ADDwoR, should 
+address not only biomechanical dysfunction but also neuromuscular and 
+psychosocial factors [,].
+
+The present study aimed to evaluate the clinical efficacy of CAD/CAM-fabricated 
+occlusal splints combined with manual therapy in patients with ADDwoR, which was 
+then compared with occlusal splint therapy alone and health education. Clinical 
+outcomes were assessed in terms of changes in maximum mouth opening (MMO), pain 
+intensity, and mandibular function. Overall, the findings could be used as a 
+reference to inform more mechanism-based and patient-centered treatment 
+strategies for TMD, which may guide clinicians toward interventions that could 
+yield better improvements in patient outcomes. The null hypothesis was that there 
+would be no statistically significant difference in clinical efficacy among the 
+three treatment modalities, namely occlusal splint therapy, combined occlusal 
+splint and manual therapy, and health education, in patients with ADDwoR.
+
+2. Material and methods
+
+2.1 Study design and ethical approval
+
+This retrospective observational study was approved by the Human Research Ethics 
+Committee of Zhejiang Provincial People’s Hospital (Approval No. KT2023010). The 
+medical records of adult patients diagnosed with ADDwoR of the TMJ from March 
+2022 to March 2023 were reviewed, and those that had received one of the three 
+treatment modalities, namely occlusal splint therapy fabricated via CAD/CAM, 
+occlusal splint therapy combined with manual therapy, or health education alone, 
+were considered. Health education was provided as a standard component across all 
+groups.
+
+Each patient underwent routine clinical and radiological examination of the TMJ. 
+Detailed explanations regarding the etiology, progression, and treatment options 
+for ADDwoR were provided to all patients, including the potential benefits and 
+limitations of each intervention. Patients were allowed to select their preferred 
+treatment modality and provided written informed consent before the start of 
+therapy.
+
+2.2 Sample size and statistical power
+
+Eligible records from March 2022 to March 2023 were included based on predefined 
+inclusion criteria. A total of 65 patients were identified and classified into 
+three groups: occlusal splint therapy (n = 22), occlusal splints combined with 
+manual therapy (n = 22), and health education alone (n = 21).
+
+To assess whether the available sample size was sufficient to detect clinically 
+meaningful differences, apower analysis was conducted. Based 
+on previously published data [,], a clinically significant change in MMO was 
+defined as 6 mm with a standard deviation of 6.5 mm. Given the sample sizes of 
+21–22 cases per group, the calculated power to detect this difference was 83% 
+at a significance level of α = 0.05. For the Visual Analog Scale (VAS), 
+a minimal clinically important difference of 2.5 and a standard deviation of 2.5 
+yielded a power of 87% []. Regarding the Mandibular Functional Impairment 
+Questionnaire (MFIQ), prior data in comparable populations [] indicated that 
+the available sample size provided 81% power to detect clinically meaningful 
+changes. These results confirmed that the study sample was adequate for the 
+intended statistical analyses.
+
+2.3 Participants and group allocation
+
+A total of 65 adult patients diagnosed with ADDwoR of the TMJ were included. All 
+patients were evaluated and treated at our institution and the diagnosis was 
+established according to the Diagnostic Criteria for Temporomandibular Disorders 
+(DC/TMD) []. This was done by an associate professor with 14 years of clinical 
+experience, who is also a board-certified oral and maxillofacial specialist and a 
+member of the Temporomandibular Disorder Committee of the Zhejiang Provincial 
+Stomatological Association, for accuracy and consistency of diagnoses for all 
+participants. The study inclusion criteria were: (1) exhibiting persistent 
+symptoms of ADDwoR lasting three months or longer, as defined by the DC/TMD 
+guidelines []; (2) having pain intensity rated at 3.0 or higher on a 10-point 
+VAS []; (3) demonstrating functional impairment, specifically an MMO ≤30 
+mm []; (4) having a diagnosis of ADDwoR radiographically confirmed by magnetic 
+resonance imaging (MRI), which verified that the displaced disc did not return to 
+its normal position during mandibular movement []; and (5) having complete 
+medical documentation, including signed informed consent forms and evidence of 
+completed treatment and follow-up.
+
+Patients were excluded from the study if any of the following conditions was 
+met: (1) previously undergone surgical interventions involving the TMJ; (2) had 
+systemic conditions such as rheumatoid arthritis or osteoarthritis, which could 
+influence TMJ function or pain; (3) received concurrent treatments for TMD, 
+including ongoing pharmacological therapy or orthodontic treatment; (4) diagnosed 
+with severe psychological disorders that could interfere with pain perception or 
+self-reporting; (5) had a history of substance abuse, which could affect pain 
+management and treatment compliance; and (6) presented with acute infections or 
+inflammatory conditions of the TMJ at the time of diagnosis.
+
+After a standardized clinical and radiological examination, a single-blinded 
+clinician provided each patient with detailed information regarding the etiology, 
+progression, and available treatment options for ADDwoR.
+
+Based on the patient’s informed choice, they were allocated into (1) the 
+Occlusal Splint Group (10 males and 12 females; mean age of 34.5 ± 7.2 
+years), (2) the Combined Treatment Group, which received occlusal splints 
+fabricated via CAD/CAM in conjunction with manual therapy (9 males and 13 
+females; mean age of 33.8 ± 6.9 years), or (3) the Health Education Group 
+(9 males and 12 females; mean age of 35.2 ± 7.5 years).
+
+The baseline characteristics, including age, gender distribution, pain intensity 
+measured using VAS and MMO, were comparable across all the three groups (all> 0.05). As the study employed a patient preference-based allocation 
+rather than a randomized, blinded design, participants were aware of the 
+treatment modality they received—whether occlusal splint therapy, combined 
+therapy, or health education. This lack of blinding may have introduced 
+expectation-related bias, potentially contributing to false-positive results. 
+However, since expectancy effects are theoretically present across all groups, 
+this may have reduced the likelihood of differential bias between treatment and 
+control arms. The detailed screening and allocation process is illustrated in 
+Fig..
+
+Fig. 1.
+
+Patient Selection Process. VAS: Visual Analog Scale; MMO: 
+Maximum Mouth Opening; MRI: magnetic resonance imaging; TMJ: temporomandibular 
+joint; M: male; F: female.
+
+2.4 Treatment procedures
+
+All patients, regardless of group allocation, received comprehensive health 
+education as a baseline intervention. This education covered several core 
+components, including an explanation of the etiology and progression of TMD, 
+guidance on proper dietary and chewing habits (, avoiding unilateral 
+chewing, hard foods, and excessive gum chewing), recommendations for behavioral 
+modifications, self-management strategies, and lifestyle adjustments aimed at 
+preventing symptom exacerbation.
+
+To ensure consistency and standardization of care, all educational content was 
+delivered by certified oral and maxillofacial specialists using standardized 
+materials and protocols.
+
+Patients in the Health Education Group received only this baseline health 
+education without any additional therapeutic interventions. They were scheduled 
+for monthly follow-up visits to monitor their clinical condition and to reinforce 
+self-management practices, during which, the educational content was reviewed and 
+tailored based on each patient’s specific needs. Compliance with the recommended 
+behavioral modifications was also assessed and documented at each visit.
+
+Patients in the Occlusal Splint Group underwent the Kovacs Digital Occlusal 
+Splint (KDOS) treatment protocol. Initially, an intraoral scanner (iTero, Align 
+Technology, Santa Clara, CA, USA) was used to obtain a digital scan of the 
+patient’s dentition and occlusal relationship, and based on the acquired data, a 
+digital balancer was fabricated. Then, the patients were instructed to wear the 
+balancer and perform guided jaw movements to establish a comfortable mandibular 
+position, thereby reducing occlusal forces transmitted to the teeth and TMJ disc, 
+facilitating balanced masticatory muscle activity and improving joint function. 
+Once the optimal jaw position was determined, the data were imported into Exocad 
+software (version 3.0, Exocad GmbH, Darmstadt, HE, Germany) for splint design. 
+The final semi-anatomical occlusal splint was milled using the SELECT five-axis 
+engraving machine (CAD/CAM milling equipment, Wieland Dental + Technik GmbH & 
+Co. KG, Pforzheim, BW, Germany) [,]. All clinical procedures were performed 
+by board-certified oral and maxillofacial specialists with a minimum of five 
+years of experience in digital splint therapy. Each patient was scheduled for 
+three clinical appointments during the KDOS process, with any necessary 
+adjustments completed within the first week of splint use. They were instructed 
+to wear the splint for at least 12 hours daily, mainly during sleep. Follow-up 
+evaluations were conducted monthly to assess therapeutic progress and splint 
+adaptation []. A schematic flowchart of the KDOS treatment protocol is shown in 
+Fig..
+
+Patients in the Occlusal splints (fabricated via CAD/CAM) combined with manual 
+therapy received both CAD/CAM-fabricated occlusal splints and manual therapy. 
+Manual therapy included soft tissue mobilization and joint mobilization, 
+targeting the musculature and structures surrounding the TMJ. Soft tissue 
+mobilization involved the application of pressure to myofascial trigger points, 
+with adjustments made according to the direction of muscle fibers to relieve 
+tension in the temporalis, masseter, sternocleidomastoid, and other muscles 
+associated with TMJ function. Joint mobilization comprised the following 
+techniques: Initially, the therapist stabilized the patient’s head with the left 
+hand and positioned the thumb of the right hand on the occlusal surface of the 
+molar on the affected side. Downward pressure was then applied to exert traction 
+on the joint, while the lower edge of the mandible was supported by the other 
+fingers to facilitate stretching. After achieving adequate traction, the 
+therapist used their fingers to grasp the posterior edge of the mandibular angle 
+and gently advanced the joint forward into a slightly protruded position, with 
+lateral movements incorporated as needed to enhance mobility. The therapist also 
+placed their thumb on the lingual side of the last molar while making contact 
+with the mandibular ramus and applied gentle lateral pressure to perform 
+small-range capsular stretching.
+
+During the treatment period, as the patients could not speak, they were 
+instructed to raise their hands if they experienced any discomfort to prevent 
+potential joint injury. The manual therapy was administered by licensed physical 
+therapists with specialized training in TMJ rehabilitation [] at the 
+Temporomandibular Joint Rehabilitation Clinic once a week for 15 to 20 minutes, 
+over a period of 3 months. Patient compliance with both occlusal splint usage and 
+attendance at manual therapy sessions was closely monitored and systematically 
+recorded throughout the treatment period.
+
+Fig. 2.
+
+Flowchart of Kovacs Digital Occlusal Splint (KDOS) Treatment. 
+(a) Dental scanning was performed using iTero. (b) Facebow registration was 
+completed to capture the spatial relationship of the maxilla. (c) A digital 
+balancer was fabricated based on the scanned data. (d) Guided mandibular 
+movements were performed using the balancer to identify an optimal jaw position. 
+(e) The final mandibular position was recorded using bite registration silicone 
+and imported into Exocad software. (f) The occlusal splint was digitally designed 
+with even posterior contact and canine guidance. (g) The splint was manufactured 
+using a SELECT five-axis engraving machine. (h) Patients were instructed to wear 
+the splint for at least 12 hours per day.
+
+2.5 Follow-up
+
+The follow-up data were obtained from scheduled outpatient visits conducted at

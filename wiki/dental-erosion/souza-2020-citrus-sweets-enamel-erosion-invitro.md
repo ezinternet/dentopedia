@@ -6,20 +6,20 @@ date: 2020-08-17
 doi: "10.1590/1678-7757-2020-0182"
 source: souza-2020-citrus-sweets-enamel-erosion-invitro.md
 category: [dental-erosion]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/souza-2020-citrus-sweets-enamel-erosion-invitro.pdf
 pdf_filename: souza-2020-citrus-sweets-enamel-erosion-invitro.pdf
 source_collection: external
 tags: [dental-erosion, citrus-sweets, profilometry, enamel-wear, maleic-acid, citric-acid, in-vitro, children]
 ---
 
-## One-line Summary
+## Three-line Summary
 In-vitro contact-profilometry study (n = 90 bovine enamel, 6 groups, 7-day acid challenge) showing
 citrus sweets cause 1.3–2.4 μm erosive enamel wear; Fini Diet (pH 3.3, lactic+citric, 2.4 μm) and
 Fini Regaliz Acid Tubes (pH 3.1, maleic+citric, 2.2 μm) equalled 0.1% citric acid and exceeded
 Coca-Cola (pH 2.6, 1.4 μm), refuting the assumption that pH alone predicts erosive rank.
 
-## 한줄요약
+## 세줄요약
 In-vitro 연구 (n=90 소 법랑질, 7일): 시트러스 젤리(pH 2.6~3.5)가 1.3–2.4 μm 법랑질 마모 유발;
 Fini Diet(pH 3.3)·Fini Regaliz(pH 3.1)는 0.1% 구연산 수준으로 Coca-Cola보다 더 침식적 —
 복합산(구연산+젖산/말레산)이 pH보다 침식력 결정에 중요.

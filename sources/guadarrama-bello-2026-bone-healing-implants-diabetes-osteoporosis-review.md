@@ -17,13 +17,21 @@ text_filename: guadarrama-bello-2026-bone-healing-implants-diabetes-osteoporosis
 
 기존 [[drug/systemic-disease/al-ansari-2022-diabetes-mellitus-dental-implants-sr-ma]]와 [[drug/systemic-disease/shahi-2026-implant-outcomes-diabetes-mellitus-sr]]가 당뇨 환자의 implant 생존율·실패율 outcome을 SR/MA로 다뤘다면, 본 narrative-review (Guadarrama Bello 2026)는 그 *기저 기전*(왜 당뇨·골다공증이 골유착을 손상시키는가 — AGE-RAGE, 산화스트레스, M1/M2 macrophage, RANKL/OPG, Wnt/β-catenin)을 세포·분자 수준에서 설명해 outcome 페이지들을 mechanistic하게 보강한다. [[drug/systemic-disease/enteghad-2024-diabetes-mellitus-periodontal-periimplant-disease-review]]의 당뇨-peri-implant 염증 축을 표면처리(surface modification) rescue 전략까지 확장.
 
-## One-line Summary
+## Three-line Summary
 
 Narrative review (in vitro/in vivo/clinical evidence) detailing how diabetes (chronic hyperglycemia, AGE-RAGE, oxidative stress, prolonged inflammation, impaired angiogenesis) and osteoporosis (resorption-shifted remodeling, low BMD, weak peri-implant bone) impair peri-implant bone healing, and how titanium surface modifications—especially nanotopography (<25 nm nanoporous)—may rescue deficient healing pathways.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 내러티브 리뷰 — 당뇨(만성 고혈당·AGE-RAGE·산화스트레스·염증 지연·혈관신생 저하)와 골다공증(흡수 우위 remodeling·낮은 골밀도·약한 골)이 임플란트 주위 골치유를 손상시키는 기전을 정리하고, 티타늄 표면처리(특히 나노토포그래피)가 손상된 치유 경로를 회복시킬 수 있음을 제시.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

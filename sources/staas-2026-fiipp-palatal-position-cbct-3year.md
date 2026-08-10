@@ -9,8 +9,21 @@ pdf_filename: staas-2026-fiipp-palatal-position-cbct-3year.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Prospective multi-center CBCT study of flapless IIPP with implant positioned ≥2 mm palatal to the buccal crest, followed for 3 years. Demonstrates preservation of buccal crest thickness and height.
+## Three-line Summary
+
+Prospective multi-center CBCT study of flapless IIPP with implant
+
+positioned ≥2 mm palatal to the buccal crest, followed
+
+for 3 years. Demonstrates preservation of buccal crest thickness and height.
+
+## 세줄요약
+
+Prospective multi-center CBCT study of flapless IIPP with implant
+
+positioned ≥2 mm palatal to the buccal crest, followed
+
+for 3 years. Demonstrates preservation of buccal crest thickness and height.
 
 ## 1. Document Information
 - **Title:** Flapless immediate implant placement and provisionalisation (FIIPP) using a palatal implant position (≥ 2 mm): A prospective multicentre CBCT study with a 3-year follow-up
@@ -33,7 +46,7 @@ No comparator arm with non-palatal positioning; flapless requires specific anato
 
 ## 6. Related Work
 - [[immediate-implant/esthetic-soft-tissue/yang-2019-labial-bone-thickness-esthetics-iipp]]
-- [[immediate-implant/kan-2011-sagittal-root-position-immediate-implant-anterior]]
+- [[immediate-implant/anatomic-assessment/kan-2011-sagittal-root-position-immediate-implant-anterior]]
 
 ## 7. Glossary
 - **IIP:** Immediate Implant Placement — placement at the time of tooth extraction.

@@ -10,8 +10,21 @@ pdf_filename: pyo-2026-drug-interactions-prescription-safety-elderly.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Special-issue narrative review (J Korean Dent Assoc 2026, 64(4):138-142) summarizing the epidemiology of dental drug-drug interactions (DDIs) in elderly patients (40.7% prevalence; only 42.7% prescriber recognition) and prescribing strategies for NSAIDs, antibiotics, and local anesthetic vasoconstrictors in the context of polypharmacy and age-related pharmacokinetic changes.
+## Three-line Summary
+
+Special-issue narrative review (J Korean Dent Assoc 2026, 64(4):138-142) summarizing the epidemiology of dental drug-drug
+
+interactions (DDIs) in elderly patients (40.7% prevalence; only 42.7% prescriber recognition) and prescribing strategies for
+
+NSAIDs, antibiotics, and local anesthetic vasoconstrictors in the context of polypharmacy and age-related pharmacokinetic changes.
+
+## 세줄요약
+
+Special-issue narrative review (J Korean Dent Assoc 2026, 64(4):138-142) summarizing the epidemiology of dental drug-drug
+
+interactions (DDIs) in elderly patients (40.7% prevalence; only 42.7% prescriber recognition) and prescribing strategies for
+
+NSAIDs, antibiotics, and local anesthetic vasoconstrictors in the context of polypharmacy and age-related pharmacokinetic changes.
 
 ## 1. Document Information
 - **Type**: Narrative review / special-issue commentary

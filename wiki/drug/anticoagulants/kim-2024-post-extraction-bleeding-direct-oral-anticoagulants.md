@@ -6,7 +6,7 @@ date: 2024-08-31
 doi: 10.5125/jkaoms.2024.50.4.189
 source: kim-2024-post-extraction-bleeding-direct-oral-anticoagulants.md
 category: [drug/anticoagulants]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 full_text: true
 pmid: "39211967"
@@ -24,13 +24,21 @@ relations:
 tags: [doac, dabigatran, rivaroxaban, apixaban, edoxaban, tooth-extraction, post-extraction-bleeding, korean-cohort]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Korean single-center retrospective cohort (NHIS Ilsan Hospital, 2015–2021; n=293 patients, 414 teeth) — continuing DOAC therapy during tooth extraction did not significantly increase post-extraction bleeding vs discontinuing (12/246 = 4.9% continued vs 0/47 discontinued, P=0.122).
+Korean single-center retrospective cohort (NHIS Ilsan Hospital, 2015–2021; n=293 patients, 414 teeth) comparing post-extraction bleeding between DOAC continuation (n=246) and discontinuation (n=47) groups.
 
-## 한줄요약
+Post-extraction bleeding occurred in 12/246 (4.9%) continued and 0/47 discontinued patients — no statistically significant difference (P=0.122); INR showed no correlation with bleeding between groups (1.15 vs 1.13, P=0.866).
 
-한국 단일기관 후향 코호트(국민건강보험 일산병원, 환자 293명·치아 414개) — 발치 시 직접경구항응고제(DOAC) 유지군과 중단군 간 발치 후 출혈에 유의한 차이가 없어(유지군 4.9% vs 중단군 0%, P=0.122), DOAC 중단 없이 발치 가능함을 시사.
+Continuing DOAC therapy does not significantly increase post-extraction bleeding; local hemostatic management (atraumatic technique, sutures, gelatin sponge, tranexamic acid mouthwash) is decisive, consistent with the international non-interruption consensus.
+
+## 세줄요약
+
+한국 단일기관 후향 코호트(국민건강보험 일산병원, 2015–2021; 환자 293명·치아 414개): DOAC 유지(246명) vs 중단(47명) 발치 후 출혈 비교.
+
+출혈: 유지군 12/246(4.9%) vs 중단군 0/47(0%), 유의차 없음(P=0.122); INR은 두 군 간 차이 없고(1.15 vs 1.13, P=0.866) 출혈과 무상관.
+
+DOAC 유지가 발치 후 출혈을 유의하게 증가시키지 않음; 무외상 술기·봉합·젤라틴 스폰지·트라넥삼산 양치액 등 국소 지혈이 핵심이며, 국제적 비중단 권고와 일치하는 국내 근거.
 
 ## Summary
 

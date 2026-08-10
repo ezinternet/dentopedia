@@ -6,19 +6,28 @@ date: 2015-01-01
 doi: 10.1155/2015/876509
 source: feller-2015-periodontal-ligament-bone-orthodontic-forces.md
 category: [orthodontics]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/feller-2015-periodontal-ligament-bone-orthodontic-forces.pdf
 pdf_filename: feller-2015-periodontal-ligament-bone-orthodontic-forces.pdf
 source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review of biological events in periodontal ligament (PDL) and alveolar bone under orthodontic force: pressure side undergoes ischemia, osteoclast recruitment and resorption while tension side shows increased blood flow, osteoblast activity and bone deposition, with IL-1, TNF-α, PGE₂ and the RANK/RANKL axis mediating osteoclastogenesis; optimal force avoids complete PDL vascular occlusion whereas heavy force causes hyalinization and delayed movement.
+Narrative review of biological events in the PDL and alveolar bone under orthodontic force, integrating blood-flow changes, cellular responses, and cytokine signaling.
 
-## 한줄요약
-교정력 적용 시 PDL·치조골 생물학적 사건 — 혈류 변화·세포 활성·사이토카인 신호.
+Pressure side undergoes ischemia → osteoclast recruitment → bone resorption; tension side shows increased blood flow → osteoblast activation → bone deposition; IL-1, TNF-α, PGE₂, and the RANK/RANKL axis are the central mediators of osteoclastogenesis.
+
+Optimal orthodontic force avoids complete PDL vascular occlusion and sustains productive remodeling; heavy forces cause hyalinization (necrotic, cell-free PDL zone), stalling tooth movement until undermining resorption restores it.
+
+## 세줄요약
+
+교정력 하 PDL·치조골 생물학적 반응을 혈류·세포·사이토카인 층위로 통합한 narrative review.
+
+압박측: 허혈 → 파골세포 모집 → 골흡수; 장력측: 혈류 증가 → 조골세포 활성 → 골형성; IL-1·TNF-α·PGE₂·RANK/RANKL 축이 파골세포생성을 조절.
+
+최적 교정력은 PDL 혈관 완전 폐색을 피해 지속적 골개조를 유지하나, 과중한 힘은 초자화(hyalinization)를 일으켜 치아이동을 지연시킴.
 
 ## Summary
 Review of biological events in PDL and alveolar bone in response to orthodontic force: blood flow changes, cellular activation, and cytokine signaling.

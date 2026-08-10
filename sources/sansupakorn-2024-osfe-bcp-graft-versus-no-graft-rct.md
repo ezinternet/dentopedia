@@ -13,11 +13,21 @@ source_collection: external
 
 [[wiki/sinus-lift/transcrestal/guo-2020-non-grafted-platelet-concentrations-grafted-transcrestal-sinus]]와 같은 graft vs no-graft 비교이나, Sansupakorn은 BCP(HA30:TCP70)를 특정하고 ISQ·CBCT·2D 복합 평가한 RCT로 wiki의 graft-benefit 논쟁에 직접 근거 추가. Shahood 2024(Bio-Oss+CGF)와 결론이 다름 — 이식재 유형에 따라 결과가 갈리는지 검토 필요.
 
-## One-line Summary
-RCT (n=30, 1 yr): OSFE with BCP (HA30:TCP70) shows no significant advantage over OSFE alone in ISQ (p=0.56), survival, or 3D bone gain; BCP group had higher marginal bone change.
+## Three-line Summary
 
-## 한줄요약
-RCT(30임플란트, 1년): OSFE+BCP(HA30:TCP70)는 무이식 OSFE 대비 ISQ(p=0.56)·생존율·CBCT 골이득에서 유의미한 이점 없음; BCP 군에서 오히려 MMBC 높음.
+RCT (n=30, 1 yr): OSFE with BCP (HA30:TCP70) shows no significant advantage over OSFE alone in ISQ (p=0.56), survival, or 3D bone gain;
+
+BCP group had higher marginal bone change.
+
+(incomplete)
+
+## 세줄요약
+
+RCT(30임플란트, 1년): OSFE+BCP(HA30:TCP70)는 무이식 OSFE 대비 ISQ(p=0.56)·생존율·CBCT 골이득에서 유의미한 이점 없음;
+
+BCP 군에서 오히려 MMBC 높음.
+
+(incomplete)
 
 ## 1. Document Information
 - **Journal**: Clinical Oral Investigations 2024;28:342

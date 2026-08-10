@@ -9,8 +9,21 @@ pdf_filename: trombelli-2024-bioarp-bone-dehiscence-immediate-implant.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Case study describing a modification of Biologically-oriented Alveolar Ridge Preservation (BioARP) applied to correct buccal bone dehiscence at immediate implant placement.
+## Three-line Summary
+
+Case study describing a modification of Biologically-oriented
+
+Alveolar Ridge Preservation (BioARP) applied to correct
+
+buccal bone dehiscence at immediate implant placement.
+
+## 세줄요약
+
+Case study describing a modification of Biologically-oriented
+
+Alveolar Ridge Preservation (BioARP) applied to correct
+
+buccal bone dehiscence at immediate implant placement.
 
 ## 1. Document Information
 - **Title:** Biologically-oriented alveolar ridge preservation to correct bone dehiscence at immediate implant placement
@@ -32,7 +45,7 @@ Reported successful dehiscence resolution and acceptable peri-implant bone outco
 Case-level evidence; no comparator; operator-dependent.
 
 ## 6. Related Work
-- [[immediate-implant/grenzi-2026-spal-peri-implant-bone-dehiscence-iip]]
+- [[immediate-implant/gap-grafting/grenzi-2026-spal-peri-implant-bone-dehiscence-iip]]
 - [[immediate-implant/esthetic-soft-tissue/qian-2023-iip-buccal-bone-dehiscence-anterior-maxilla]]
 
 ## 7. Glossary

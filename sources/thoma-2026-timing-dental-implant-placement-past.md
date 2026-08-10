@@ -9,8 +9,21 @@ pdf_filename: thoma-2026-timing-dental-implant-placement-past.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Perspective article reviewing the evolution of implant placement timing (ITI Type 1–4), current evidence-based criteria for each protocol, and future directions toward AI-guided, biologically personalized timing decisions.
+## Three-line Summary
+
+Perspective article reviewing the evolution of implant placement timing
+
+(ITI Type 1–4), current evidence-based criteria for each protocol,
+
+and future directions toward AI-guided, biologically personalized timing decisions.
+
+## 세줄요약
+
+Perspective article reviewing the evolution of implant placement timing
+
+(ITI Type 1–4), current evidence-based criteria for each protocol,
+
+and future directions toward AI-guided, biologically personalized timing decisions.
 
 ## 1. Document Information
 - **Journal**: Journal of Periodontal Research 2026; 61:101–106

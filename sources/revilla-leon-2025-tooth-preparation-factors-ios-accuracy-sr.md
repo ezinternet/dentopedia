@@ -13,13 +13,21 @@ source_collection: external
 
 기존 위키의 IOS 정확도 페이지들([[wiki/digital-workflow/singh-2025-intraoral-scanners-accuracy-umbrella-review]], [[wiki/digital-workflow/alkadi-2023-intraoral-scanner-accuracy-factors]])은 스캐너·운용자·환자 요인 위주였고, **지대치 형성(tooth preparation) 자체가 어떻게 IOS 정확도를 좌우하는가**는 체계적으로 정리되어 있지 않았다. 본 SR(39편)은 finish line, taper(TOC), margin geometry, surface, interdental space 등 형성 요인별 정확도 영향을 정리해 그 공백을 메운다.
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (39 in-vitro/in-vivo studies) finding that simpler preparation geometry, greater total occlusal convergence (TOC), anatomic occlusal reduction, supragingival/chamfer finish lines, and wider interdental space all improve intraoral scanner (IOS) accuracy for tooth-supported restorations; existing foundation restorations and apical finish-line locations reduce it.
+Systematic review (39 in-vitro/in-vivo studies) finding that simpler preparation geometry, greater total occlusal convergence (TOC), anatomic occlusal reduction, supragingival/chamfer finish lines, and wider interdental space all improve intraoral scanner (IOS) accuracy for tooth-supported restorations;
 
-## 한줄요약
+existing foundation restorations and apical finish-line locations reduce it.
+
+(incomplete)
+
+## 세줄요약
 
 체계적 문헌고찰(39편): 형성 형태가 단순할수록, 축면 경사(TOC)가 클수록, 교합면을 해부학적으로 삭제할수록, finish line이 치은연 위·chamfer 형태일수록, 인접치와의 간격이 넓을수록 구강스캐너(IOS) 정확도가 좋아지고, 기존 코어 수복물·치은연하 finish line은 정확도를 떨어뜨린다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

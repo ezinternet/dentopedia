@@ -6,7 +6,7 @@ date: 2023-04-30
 doi: unknown
 journal: Frontiers in Dentistry 20:09
 source: sharifian-2023-tbs-er-se-modes-superficial-deep-dentin.md
-confidence: in-vitro
+evidence_level: in-vitro
 category: [resin-bonding]
 pdf_path: /Users/oracleneo/llm-wiki/papers/sharifian-2023-tbs-er-se-modes-superficial-deep-dentin.pdf
 pdf_filename: sharifian-2023-tbs-er-se-modes-superficial-deep-dentin.pdf
@@ -14,11 +14,21 @@ source_collection: external
 tags: [microTBS, etch-and-rinse, self-etch, universal-adhesive, deep-dentin, Clearfil-SE-Bond, Scotchbond, in-vitro]
 ---
 
-## One-line Summary
-In vitro µTBS study (40 third molars) comparing Adper Single Bond 2, Clearfil SE Bond, and Scotchbond Universal across etch-and-rinse (E&R) and self-etch (SE) modes: superficial dentin bonded higher than deep dentin (p=0.005), Scotchbond Universal in E&R mode gave the highest overall µTBS, and the universal adhesive's E&R mode significantly outperformed its SE mode.
+## Three-line Summary
 
-## 한줄요약
-In vitro 40개 제3대구치: 표층>심층 덴틴 µTBS(p=0.005); Scotchbond Universal E&R 모드 최고; Universal은 E&R 모드가 SE 모드보다 유의하게 우수; Clearfil SE Bond·Adper Single Bond 2 비교
+In vitro µTBS study (40 third molars; Adper Single Bond 2 E&R, Clearfil SE Bond SE, and Scotchbond Universal in both E&R and SE modes) on superficial and deep mid-coronal dentin.
+
+Superficial dentin yielded significantly higher µTBS than deep dentin across all adhesives (p=0.005); Scotchbond Universal in E&R mode achieved the highest overall µTBS; the universal adhesive's E&R mode significantly outperformed its SE mode.
+
+Deep dentin's higher tubule density and moisture reduce bonded surface area and inhibit monomer polymerization; and universal adhesives deliver better bonds in E&R mode — consistent with clinical RCT evidence that SE-only mode is inadequate for enamel-margined NCCLs.
+
+## 세줄요약
+
+In vitro µTBS 연구 (제3대구치 40개): Adper Single Bond 2(E&R), Clearfil SE Bond(SE), Scotchbond Universal(E&R·SE 양 모드)를 표층 및 심층 상아질에서 비교.
+
+모든 접착제에서 표층 상아질 µTBS > 심층(p=0.005); Scotchbond Universal E&R 모드 전체 최고 µTBS; universal adhesive는 E&R 모드가 SE 모드보다 유의하게 우수.
+
+심층 상아질의 높은 세관 밀도와 습기가 결합 표면적 감소·단량체 중합 저해를 초래; universal adhesive의 SE 단독 모드 결합강도 열세는 법랑질 변연 NCCL에서 SE 모드 임상적 부적합을 보인 RCT 결과와 일치.
 
 ## Summary
 In vitro µTBS study (40 third molars) comparing Adper Single Bond 2 (E&R), Clearfil SE Bond (SE), and Scotchbond Universal in both E&R and SE modes, across superficial and deep dentin. Key findings: superficial > deep dentin for all; universal adhesive's E&R mode outperforms its SE mode.

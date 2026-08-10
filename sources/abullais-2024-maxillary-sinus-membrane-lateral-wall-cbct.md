@@ -13,13 +13,21 @@ source_collection: external
 
 상악동 거상술 천공 방지 (Sinus Membrane Perforation Prevention) 지식 클러스터의 해부학적 기준치 보강용. 기존 [[sinus-lift/lateral/munakata-2021-sinus-membrane-thickness-edentulous-cbct]]는 무치악 코호트(일본)에서 SMT를 보고했고, [[sinus-lift/lateral/manor-2024-cbct-prognostic-factors-sinus-perforation]]은 천공 예측인자를 분석했으나 측벽 두께(Lateral Wall Thickness, LWT)와 얼굴 지수(Facial Index)의 관계를 다룬 연구가 부재. 본 연구(Abullais 2024, 사우디 코호트 n=75)는 얼굴형(안면 지수)이 MT·LWT에 영향을 주지 않음을 보여 [[wiki/overviews/sinus-lift-lateral-2026-synthesis]]의 Cluster 2 해부학 섹션에 "인구집단 기준치"로 추가 가능.
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective CBCT study (n=75, 150 sinuses, Saudi Arabia) showing no correlation between facial index (euryprosopic/mesoprosopic/leptoprosopic) and maxillary sinus membrane thickness (MT) or lateral wall thickness (LWT); LWT was significantly greater in females (p<0.05), and premolar MT was significantly thicker than molar MT (p<0.001).
+Retrospective CBCT cross-sectional study (PLoS ONE 2024; King Khalid University, Abha, Saudi Arabia; n=75 subjects, 150 maxillary sinuses; Kavo 3D Pro CBCT) examining whether facial morphotype predicts sinus membrane thickness (MT) or lateral wall thickness (LWT) before sinus lift surgery.
 
-## 한줄요약
+Facial index type (euryprosopic/mesoprosopic/leptoprosopic) showed no significant correlation with MT or LWT; LWT was significantly greater in females vs males (premolar p=0.018, molar p=0.032); premolar-region MT (mean 1.46 mm) was significantly thicker than molar-region MT (mean 1.17 mm, p<0.001).
 
-후향적 원뿔빔 전산화 단층 촬영 (Cone-Beam Computed Tomography, CBCT) 연구 (n=75, 150 상악동, 사우디아라비아): 안면지수 (Facial Index) 유형(euryprosopic/mesoprosopic/leptoprosopic)이 상악동 막 두께 (Membrane Thickness, MT) 및 측벽 두께 (Lateral Wall Thickness, LWT)와 상관없음; 여성이 남성보다 LWT 유의하게 두꺼움(p<0.05); 소구치 영역 MT가 대구치 영역보다 유의하게 두꺼움(p<0.001).
+Facial morphotype cannot substitute for site-specific CBCT measurement in pre-surgical sinus planning — individual CBCT assessment remains indispensable regardless of gross facial form; female patients may have thicker lateral walls, potentially affecting window osteotomy.
+
+## 세줄요약
+
+후향적 CBCT 횡단 연구 (PLoS ONE 2024; 킹 칼리드 대학교, 아브하, 사우디아라비아; n=75명, 150 상악동): 안면 지수 (Facial Index) 유형이 상악동 거상술 전 상악동 막 두께 (Membrane Thickness, MT)와 측벽 두께 (Lateral Wall Thickness, LWT)를 예측하는지 평가.
+
+안면 지수 유형(광안형/중안형/협안형)은 MT·LWT 모두와 유의한 상관 없음; LWT는 여성이 남성보다 유의하게 두꺼움(소구치 p=0.018, 대구치 p=0.032); 소구치 영역 MT(평균 1.46 mm)가 대구치(1.17 mm)보다 유의하게 두꺼움(p<0.001).
+
+안면 형태로 CBCT 측정을 대체 불가 → 수술 전 개별 CBCT 평가 필수; 여성은 측벽이 두꺼울 수 있어 창 골절제술 계획에 영향.
 
 ## 1. Document Information
 

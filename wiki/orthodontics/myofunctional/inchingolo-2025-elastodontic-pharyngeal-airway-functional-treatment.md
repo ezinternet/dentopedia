@@ -6,7 +6,7 @@ date: 2025-12-18
 doi: 10.3390/life15121939
 source: inchingolo-2025-elastodontic-pharyngeal-airway-functional-treatment.md
 category: [orthodontics/myofunctional]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 full_text: true
 pmid: "41465876"
@@ -20,13 +20,21 @@ relations:
     target: inchingolo-2022-amcop-elastodontic-protocol-interception-review
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective lateral-cephalometric comparison (n=50 growing Class II children, 6–12 y) of pharyngeal airway change after Twin Block vs RPE vs AMCOP elastodontic therapy: all three significantly enlarged SPAS/MAS/PAS, but Twin Block produced the largest gains (SPAS +2.1 mm, large effect d=1.35) and AMCOP the smallest (SPAS +0.85 mm, small-moderate d=0.55).
+Retrospective lateral-cephalometric three-arm comparison (n=50 growing Class II children, 6–12 y; Twin Block n=18, RPE n=16, AMCOP n=16) evaluating pharyngeal airway width change (SPAS/MAS/PAS) after functional/orthopedic treatment.
 
-## 한줄요약
+All three appliances produced statistically significant airway enlargement; Twin Block yielded the largest gains (SPAS +2.14 mm, d=1.35), RPE was intermediate (SPAS +1.41 mm, d=0.84), and AMCOP the smallest but still positive (SPAS +0.85 mm, d=0.55); the dose-response pattern scaled with degree of mandibular advancement.
 
-후향적 측방두부방사선 비교(성장기 II급 아동 50명, 6–12세)로 Twin Block·RPE·AMCOP 탄성교정장치(elastodontic)의 인두기도(pharyngeal airway, SPAS/MAS/PAS) 변화를 비교: 세 장치 모두 유의하게 기도를 넓혔으나 Twin Block이 가장 컸고(SPAS +2.1mm, d=1.35) AMCOP이 가장 작음(SPAS +0.85mm, d=0.55). 모든 변화는 2D 형태학적 변화이며 기능(airflow/AHI) 개선은 입증 안 됨.
+All changes are 2D linear morphological measurements only — no AHI, SpO₂, polysomnography, or CBCT volumetry was performed, so improved airflow or reduced pediatric OSA is not established; results are hypothesis-generating.
+
+## 세줄요약
+
+성장기 II급 아동 50명(6–12세; Twin Block 18명, RPE 16명, AMCOP 16명)에서 인두기도 폭(SPAS/MAS/PAS) 변화를 비교한 후향적 측방두부방사선 3군 비교 연구.
+
+세 장치 모두 기도를 유의하게 넓혔으며, Twin Block 가장 큼(SPAS +2.14 mm, d=1.35), RPE 중간(SPAS +1.41 mm, d=0.84), AMCOP 가장 작으나 양의 효과(SPAS +0.85 mm, d=0.55); 하악 전방 이동량에 비례한 용량-반응 양상.
+
+모든 변화는 2D 선형 형태학적 측정값으로 AHI·SpO₂·수면다원검사·CBCT 용적 측정 없음 — 기도 기능 개선이나 소아 폐쇄성 수면무호흡증(OSA) 감소는 입증되지 않은 가설 생성 수준.
 
 ## Summary
 

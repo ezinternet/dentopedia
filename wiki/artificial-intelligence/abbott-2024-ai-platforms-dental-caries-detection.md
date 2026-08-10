@@ -6,7 +6,7 @@ date: 2024-12-12
 doi: 10.1016/j.jebdp.2024.102077
 source: abbott-2024-ai-platforms-dental-caries-detection.md
 category: [artificial-intelligence]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: false
 pmid: "39947783"
@@ -19,13 +19,21 @@ relations:
     target: garg-2026-artificial-intelligence-pediatric-dentistry-umbrella-review
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (45 studies qualitative, 7 pooled; QUADAS-2 + CLAIM) of AI platforms for dental caries detection: pooled sensitivity 76% (95% CI 65–85%), specificity 91% (86–95%), AUC 92% (89–94%); accuracy ranged 41.5–98.6% across 21 platforms with high heterogeneity.
+SR+MA (45 studies qualitative, 7 pooled; QUADAS-2 + CLAIM) of AI platforms for dental caries detection across 8 databases (2000–March 2024), spanning 21 distinct AI platforms and 33 radiograph + 12 clinical-image datasets.
 
-## 한줄요약
+Pooled sensitivity 76% (95% CI 65–85%), specificity 91% (86–95%), AUC 92% (89–94%); accuracy ranged 41.5–98.6% across platforms with high heterogeneity; AI on clinical photographs showed superior sensitivity to bitewing radiography.
 
-치아우식 검출 인공지능(Artificial Intelligence, AI) 플랫폼 체계적 문헌고찰+메타분석(정성 45편, 풀링 7편): 통합 민감도 76%, 특이도 91%, 곡선하면적(AUC) 92%이나 플랫폼 21종 간 정확도 41.5–98.6%로 이질성 큼. (Based on articles retrieved from PubMed; abstract-only)
+Only 7 of 45 studies were poolable — high heterogeneity and varying platform architectures limit generalizability, and standardized reporting (CLAIM) compliance was inconsistent.
+
+## 세줄요약
+
+8개 데이터베이스(2000–2024년 3월), 21종 AI 플랫폼, 방사선 33편+임상사진 12편 포함 치아우식 검출 인공지능(Artificial Intelligence, AI) 플랫폼 체계적 문헌고찰+메타분석(정성 45편, 풀링 7편).
+
+통합 민감도 76%(95% CI 65–85%), 특이도 91%(86–95%), 곡선하면적(AUC) 92%(89–94%); 플랫폼 간 정확도 41.5–98.6%로 이질성 높으며, 임상 사진 AI가 교익 방사선보다 민감도 우수.
+
+45편 중 풀링 가능한 연구는 7편뿐 — 높은 이질성과 플랫폼 아키텍처 다양성으로 일반화가 제한되며 CLAIM 보고 준수도 불균등.
 
 ## Summary
 

@@ -13,13 +13,21 @@ source_collection: external
 
 기존 [[wiki/caries/konukman-turker-2026-hall-vs-modified-hall-primary-molars-rct]]는 Hall 기법 내부 변형(conventional Hall vs modified Hall)을 비교했다. 본 Mohamed 2026 RCT는 한 단계 위 질문 — 전통적 삭제 기법(Conventional Technique, CT) vs Hall 기법(Hall Technique, HT) — 을 12개월 비열등성 설계로 직접 비교해, 삭제 없는 Hall 접근의 임상 성공·생존이 전통 기법과 동등함을 보강한다. 또한 HT 직후 발생하는 교합 수직고경(Occlusal Vertical Dimension, OVD) 상승이 1개월 내 자연 회복됨을 정량화해 임상 우려에 답한다.
 
-## One-line Summary
+## Three-line Summary
 
-12-month non-inferiority RCT (n=80 carious primary molars, 73 returned at 12 months): preformed metal crowns by conventional vs Hall technique both achieved 100% "Successful" clinical outcomes and 100% restoration survival; HT-induced OVD increase (mean 1.18±0.68 mm) reverted to baseline within 1 month (P=0.32).
+12-month non-inferiority RCT (n=80 carious primary molars, 73 returned at 12 months): preformed metal crowns by conventional vs Hall technique both achieved 100% "Successful" clinical outcomes and 100% restoration survival;
 
-## 한줄요약
+HT-induced OVD increase (mean 1.18±0.68 mm) reverted to baseline within 1 month (P=0.32).
+
+(incomplete)
+
+## 세줄요약
 
 12개월 비열등성 RCT (유구치 80개, 73개 추적): 기성 금속관(Preformed Metal Crown, PMC)을 전통 삭제 기법(CT)과 Hall 기법(HT)으로 수복한 두 군 모두 임상 성공 100%·생존 100%였고, HT 직후 늘어난 교합 수직고경(OVD, 1.18±0.68 mm)은 1개월 내 기저치로 회복되어 차이 없었다(P=0.32).
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

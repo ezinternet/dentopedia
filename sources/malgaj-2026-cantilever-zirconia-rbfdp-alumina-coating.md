@@ -13,13 +13,21 @@ source_collection: external
 
 The zirconia-bonding pages we hold ([[dental-materials/zirconia/lopes-2023-universal-adhesives-zirconia-long-term]], [[dental-materials/zirconia/comba-2021-chemical-bonding-cubic-zirconia]]) are all in-vitro bond-strength studies, and they establish that durable zirconia adhesion conventionally requires airborne-particle abrasion (APA) plus MDP. APA is mechanically aggressive and can introduce surface flaws into damage-prone translucent zirconia. This 8-year RCT (Malgaj 2026) provides rare *clinical* long-term evidence that a non-invasive nanostructured alumina coating (NAC) matches APA retention in cantilever RBFDPs, extending the bonding literature from bench to durable in-vivo outcome. It also complements survival data in [[dental-materials/zirconia/leitao-2022-monolithic-zirconia-single-crown-survival-sr]] by addressing a different prosthesis class (minimally invasive RBFDP).
 
-## One-line Summary
+## Three-line Summary
 
 8-year RCT (57 patients, 64 cantilever zirconia RBFDPs, mean 61.4 mo) — non-invasive nanostructured alumina coating (NAC) gave retention (88.4%) statistically equivalent to airborne-particle abrasion (89.1%, p=0.99), with 100% prosthesis survival.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 8년 RCT (환자 57명, 캔틸레버 지르코니아 RBFDP 64개, 평균 61.4개월) — 비침습적 나노구조 알루미나 코팅(NAC) 유지율 88.4%가 분사연마(APA) 89.1%와 통계적으로 동등(p=0.99), 보철물 생존율 100%.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

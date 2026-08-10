@@ -9,8 +9,21 @@ pdf_filename: stavropoulos-2021-periodontal-regeneration-intrabony-nma.pdf
 source_collection: external
 ---
 
-## One-line Summary
-SR and NMA of 30 RCTs (3–20 years post-op) showing periodontal regenerative/reconstructive therapy in intrabony defects produces significantly better residual PD and CAL gain than open flap debridement, with combination approaches (GTR+grafting, EMD+grafting) appearing most efficacious.
+## Three-line Summary
+
+SR and NMA of 30 RCTs (3–20 years post-op) showing periodontal regenerative/reconstructive
+
+therapy in intrabony defects produces significantly better residual PD and CAL gain
+
+than open flap debridement, with combination approaches (GTR+grafting, EMD+grafting) appearing most efficacious.
+
+## 세줄요약
+
+SR and NMA of 30 무작위 대조 시험 (RCT)s (3–20 years post-op) showing periodontal regenerative/reconstructive
+
+therapy in intrabony defects produces significantly better residual PD and CAL gain
+
+than open flap debridement, with combination approaches (GTR+grafting, EMD+grafting) appearing most efficacious.
 
 ## 1. Document Information
 - **Journal**: Journal of Clinical Periodontology, 2021; 48(3):410–430

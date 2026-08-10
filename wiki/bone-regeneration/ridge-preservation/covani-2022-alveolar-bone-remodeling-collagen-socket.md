@@ -6,7 +6,7 @@ date: 2022-04-29
 doi: 10.3390/jcm11092493
 source: covani-2022-alveolar-bone-remodeling-collagen-socket.md
 category: [bone-regeneration/ridge-preservation]
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/covani-2022-alveolar-bone-remodeling-collagen-socket.pdf
 pdf_filename: covani-2022-alveolar-bone-remodeling-collagen-socket.pdf
 source_collection: external
@@ -16,13 +16,21 @@ relations:
     target: nisar-2020-collagen-plug-socket-preservation
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Rabbit micro-CT study (n=36, 6 sacrifice time-points over 90 days) showing collagen plug–filled sockets lost only −4.6% bone volume vs −58.1% in empty-socket controls, establishing near-complete prevention of alveolar collapse by collagen plug alone.
+Rabbit micro-CT volumetric study (n=36 New Zealand white rabbits, 6 sacrifice time-points over 90 days) comparing collagen plug–filled vs. empty sutured extraction sockets to establish kinetics and mechanism of alveolar bone preservation.
 
-## 한줄요약
+Collagen plug sockets lost only −4.6% bone volume at 90 days vs. −58.1% in empty-socket controls; buccal plate collapse became evident in controls by day 15 while collagen sockets remained near-baseline throughout.
 
-토끼 모델 micro-CT (n=36, 6 시점, 90일): 콜라겐 플러그군 −4.6% vs 자연치유군 −58.1% 골 부피 변화 — 콜라겐 플러그 단독으로 치조골 붕괴 거의 완전 예방.
+The protective effect persisted well beyond collagen resorption (~15 days), proving that early-phase clot stabilization and vascularization scaffolding — not physical space maintenance — are the primary mechanisms of collagen plug benefit.
+
+## 세줄요약
+
+토끼 미세 전산화 단층촬영 (Micro-CT) 체적 연구 (n=36 뉴질랜드 흰 토끼, 90일간 6개 희생 시점): 콜라겐 플러그 충전 vs 봉합 단독 발치와 비교 — 치조골 보존 역학 및 기전 확립.
+
+콜라겐 플러그군: 90일 골 부피 변화 −4.6%; 대조군: −58.1% — 대조군에서 15일부터 협측판 붕괴 시작, 콜라겐군은 전 기간 거의 변화 없음.
+
+콜라겐 흡수(~15일) 이후에도 보호 효과 지속 — 물리적 공간 유지(Space Maintenance)가 아닌 초기 혈병 안정화·혈관화 스캐폴드 (Scaffolding)가 주요 기전임을 입증.
 
 ## Summary
 

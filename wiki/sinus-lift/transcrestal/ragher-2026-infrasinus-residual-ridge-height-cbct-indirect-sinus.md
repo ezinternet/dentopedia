@@ -6,18 +6,26 @@ date: 2026-01-01
 doi: ""
 source: ragher-2026-infrasinus-residual-ridge-height-cbct-indirect-sinus.md
 category: [sinus-lift/transcrestal]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/ragher-2026-infrasinus-residual-ridge-height-cbct-indirect-sinus.pdf
 pdf_filename: ragher-2026-infrasinus-residual-ridge-height-cbct-indirect-sinus.pdf
 source_collection: external
 tags: [sinus-lift, transcrestal, cbct, residual-bone-height, prospective]
 ---
 
-## One-line Summary
-Prospective observational study (n=50, CAS kit): cone-beam CT (CBCT) systematically underestimated infra-sinus residual ridge height (RBH) by ≈1.86 mm versus intraoperative measurement (4.66 vs 6.50 mm, p<0.001) — cautions against CBCT-only reliance in borderline transcrestal sinus-lift cases and recommends dual-modality verification.
+## Three-line Summary
+Prospective observational study (n=50 participants requiring posterior maxillary implants) comparing CBCT-measured versus intraoperatively measured infra-sinus residual ridge height (RBH) during indirect transcrestal sinus lift using the CAS kit.
 
-## 한줄요약
-전향 관찰연구(n=50, CAS kit): CBCT가 잔존 골높이(RBH)를 실측 대비 약 1.86 mm 과소평가(4.66 vs 6.50 mm, p<0.001) — borderline 케이스에서 CBCT 단독 의존 경고, 이중 모달리티 권장.
+CBCT systematically underestimated RBH by approximately 1.86 mm relative to intraoperative measurement (4.66 ± 0.80 mm vs 6.50 ± 1.07 mm, p<0.001).
+
+Clinicians relying solely on CBCT in borderline transcrestal cases may underestimate available bone height by nearly 2 mm, suggesting dual-modality verification (CBCT planning + intraoperative confirmation) is warranted for cases near RBH thresholds.
+
+## 세줄요약
+전향적 관찰연구(n=50, 상악 후방부 임플란트 필요 환자) — CBCT 측정치 vs CAS kit 수술 중 측정치로 잔존골높이(Residual Bone Height, RBH)를 직접 비교.
+
+CBCT가 RBH를 수술 중 실측 대비 약 1.86 mm 과소평가 (4.66 ± 0.80 mm vs 6.50 ± 1.07 mm, p<0.001).
+
+RBH 경계 케이스에서 CBCT 단독 의존 시 이용 가능한 골량을 ~2 mm 과소산정할 위험 — CBCT 계획 + 수술 중 확인의 이중 모달리티 검증 권장.
 
 ## Summary
 Prospective observational study quantifying the discrepancy between CBCT-measured and intraoperatively measured infra-sinus residual ridge height during indirect (transcrestal) sinus lift in the posterior maxilla.

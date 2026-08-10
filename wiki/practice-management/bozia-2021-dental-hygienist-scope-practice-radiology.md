@@ -6,7 +6,7 @@ date: 2021-07-06
 doi: 10.1016/j.identj.2021.05.010
 source: bozia-2021-dental-hygienist-scope-practice-radiology.md
 category: [practice-management]
-confidence: cross-sectional
+evidence_level: cross-sectional
 source_collection: pubmed-text
 full_text: true
 pmid: "34243959"
@@ -20,11 +20,21 @@ relations:
     target: ha-2023-dentist-issues-constitutional-court-decisions
 ---
 
-## One-line Summary
-Worldwide cross-sectional survey (27-item online questionnaire to IFDH/EDHF member associations, 26/31 countries responding, 84% response rate): 78% of countries legally permit dental hygienists (DHs) to take intraoral radiographs, but 42% require a dentist referral/indication first, 46% bar DHs from radiographic diagnosis, and only 27% let DHs independently own radiographic equipment — scope of practice varies by country and sometimes by state/province.
+## Three-line Summary
 
-## 한줄요약
-전 세계 단면조사 (IFDH/EDHF 회원 협회 대상 27문항 온라인 설문, 31개국 중 26개국 응답, 응답률 84%): 78%의 국가에서 치과위생사(Dental Hygienist, DH)가 구내 방사선촬영을 합법적으로 시행하나 42%는 치과의사 의뢰가 선행돼야 하고, 46%는 DH의 방사선 진단을 금지하며, 27%만 DH 단독 장비 소유를 허용 — 업무범위는 국가별·때로 주/도별로 상이.
+Worldwide cross-sectional survey (27-item online questionnaire to IFDH/EDHF national associations; 26 of 31 countries responded, 84% response rate) mapping the legal authority of dental hygienists (DHs) in oral radiology across four distinct competency domains.
+
+78% of countries legally permit DHs to take intraoral radiographs; however, 42% require a dentist referral first, 46% bar DHs from radiographic diagnosis, and only 27% allow independent equipment ownership; only 5 countries (19%) granted the full four-task set; CBCT was allowed in Australia, South Africa, Spain, Switzerland, and the US.
+
+Scope of practice for oral radiography is highly heterogeneous across countries and, in federal systems, across states/provinces — indicating no global consensus and significant barriers to cross-national DH mobility.
+
+## 세줄요약
+
+전 세계 단면 조사 (IFDH/EDHF 회원국 31개국 중 26개국 응답, 응답률 84%; 27문항 온라인 설문): 치과위생사(Dental Hygienist, DH)의 구강 방사선 촬영·처방·진단·장비 소유 4개 역할에 대한 법적 권한을 국가별로 분석.
+
+78%의 국가에서 DH의 구내 촬영 법적 허용; 42%는 치과의사 의뢰 선행 필요, 46%는 방사선 진단 금지, 27%만 단독 장비 소유 허용; 4개 역할 전부 허용 국가는 5개국(19%); CBCT는 호주·남아공·스페인·스위스·미국에서만 허용.
+
+구강 방사선에서의 DH 업무범위는 국가별·주/도별로 크게 다르며 글로벌 공통 기준이 없어 국가간 DH 이동을 저해.
 
 ## Summary
 This international cross-sectional survey maps the **legal position** (not attitudes or practice patterns) of the dental hygienist (DH) in **oral radiology** — a task historically reserved to dentists. A 27-item peer-reviewed online questionnaire (developed per STROBE/CHERRIES) was emailed in 2018 to all national DH associations belonging to the International Federation of Dental Hygienists (IFDH) or the European Dental Hygienists Federation (EDHF). Of 31 countries contacted, 26 (84%) responded; Germany, Korea, Nepal, New Zealand, and the UAE did not.

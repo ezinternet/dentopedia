@@ -17,13 +17,21 @@ text_filename: sbricoli-2026-peri-implant-disease-prevalence-type2-diabetes.txt
 
 Most existing peri-implantitis pages in our wiki frame T2DM as an established systemic risk factor and focus on keratinized mucosa, prosthetic design, and surface decontamination. This Italian single-center cross-sectional study (Sbricoli 2026) provides a direct **T2DM vs non-DM head-to-head prevalence** data point that *contradicts* the prevailing "diabetes as major risk factor" narrative — finding no statistical difference in peri-implant mucositis/peri-implantitis between well-controlled diabetics and non-diabetics. It contrasts the disease-association framing in [[implants/peri-implantitis/diaz-2022-what-is-the-prevalence]] and complements the risk-factor / prosthetic-design discussion in [[implants/peri-implantitis/lin-2025-influence-of-prosthetic-designs]].
 
-## One-line Summary
+## Three-line Summary
 
-Single-center cross-sectional study (70 subjects, 227 implants; 35 T2DM vs 35 non-DM): no statistically significant difference in peri-implant disease (80% vs 77%, p=0.99), mucositis (51% vs 63%, p=0.47), or peri-implantitis (51% vs 43%, p=0.63) — but underpowered, with high periodontitis history confounding.
+Single-center cross-sectional study (70 subjects, 227 implants;
 
-## 한줄요약
+35 T2DM vs 35 non-DM): no statistically significant difference in peri-implant disease (80% vs 77%, p=0.99), mucositis (51% vs 63%, p=0.47), or peri-implantitis (51% vs 43%, p=0.63) — but underpowered, with high periodontitis history confounding.
 
-단일기관 횡단연구(70명·임플란트 227개; 제2형 당뇨 35명 vs 비당뇨 35명): 임플란트주위질환(80% vs 77%, p=0.99)·점막염(51% vs 63%)·주위염(51% vs 43%) 모두 두 군 간 유의차 없음 — 단, 검정력 부족·치주염 과거력(83~94%) 교란 존재.
+(incomplete)
+
+## 세줄요약
+
+단일기관 횡단연구(70명·임플란트 227개;
+
+제2형 당뇨 35명 vs 비당뇨 35명): 임플란트주위질환(80% vs 77%, p=0.99)·점막염(51% vs 63%)·주위염(51% vs 43%) 모두 두 군 간 유의차 없음 — 단, 검정력 부족·치주염 과거력(83~94%) 교란 존재.
+
+(incomplete)
 
 ## 1. Document Information
 

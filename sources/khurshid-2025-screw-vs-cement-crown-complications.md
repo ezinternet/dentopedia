@@ -10,8 +10,21 @@ pdf_filename: khurshid-2025-screw-vs-cement-crown-complications.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Prospective study (100 patients, 12 months) comparing screw-retained vs cement-retained single implant crowns; screw loosening higher in screw-retained (18% vs 4%), marginal gap and cement washout higher in cement-retained.
+## Three-line Summary
+
+Prospective study (100 patients, 12 months) comparing screw-retained vs
+
+cement-retained single implant crowns; screw loosening higher in screw-retained
+
+(18% vs 4%), marginal gap and cement washout higher in cement-retained.
+
+## 세줄요약
+
+Prospective study (100 patients, 12 months) comparing screw-retained vs
+
+cement-retained single implant crowns; screw loosening higher in screw-retained
+
+(18% vs 4%), marginal gap and cement washout higher in cement-retained.
 
 ## 1. Document Information
 - **Type**: Prospective clinical study

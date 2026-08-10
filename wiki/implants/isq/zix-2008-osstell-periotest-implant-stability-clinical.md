@@ -6,18 +6,28 @@ date: 2008-07-01
 doi: 10.11607/jomi.2008.4.525
 source: zix-2008-osstell-periotest-implant-stability-clinical.md
 category: implants/isq
-confidence: in-vivo
+evidence_level: in-vivo
 pdf_path: /Users/oracleneo/llm-wiki/papers/zix-2008-osstell-periotest-implant-stability-clinical.pdf
 pdf_filename: zix-2008-osstell-periotest-implant-stability-clinical.pdf
 source_collection: external
 tags: [ISQ, RFA, Osstell, Periotest, damping-capacity, implant-stability, diameter]
 ---
 
-## One-line Summary
-Clinical trial (213 one-stage implants, 65 patients) comparing Osstell RFA (ISQ) head-to-head with Periotest damping-capacity assessment (PTV): ISQ 57.66±8.19 vs PTV −5.08±2.02, inversely correlated (Pearson −0.64); Osstell is more precise (single-measure ICC 0.99 vs 0.88); implant diameter correlated significantly with both measurements while length did not.
+## Three-line Summary
 
-## 한줄요약
-임상시험(213 임플란트, 65명): **Osstell ISQ vs Periotest PTV** 직접 비교 — ISQ 57.66±8.19, PTV -5.08±2.02; 상관 -0.64; ICC Osstell 0.99 vs Periotest 0.88 — **Osstell이 더 정밀**; 임플란트 직경은 두 기법 모두 유의, 길이는 무관.
+Clinical trial (n=213 one-stage implants, 65 patients, University of Berne) comparing Osstell RFA (ISQ scale) head-to-head with Periotest damping-capacity assessment (PTV scale) in triplicate measurements.
+
+Mean ISQ 57.66±8.19 vs PTV −5.08±2.02; inversely correlated (Pearson r=−0.64); single-measure intraclass correlation coefficient (ICC) markedly superior for Osstell (0.99 vs 0.88); implant diameter correlated significantly with both, while length did not.
+
+When a single, reproducible stability number is needed for loading decisions, Osstell ISQ is preferred over Periotest; diameter (not length) drives both measurements.
+
+## 세줄요약
+
+임상시험 (213개 1단계 임플란트, 65명, 베른대): 공명주파수분석 (Resonance Frequency Analysis, RFA, Osstell, ISQ 척도) vs 감쇠용량평가 (Periotest, PTV 척도) 3회 반복 직접 비교.
+
+평균 ISQ 57.66±8.19 vs PTV −5.08±2.02; 역 상관(Pearson r=−0.64); 단일 측정 급내상관계수 (Intraclass Correlation Coefficient, ICC): Osstell 0.99 vs Periotest 0.88 — Osstell이 현저히 더 정밀; 임플란트 직경은 두 지표 모두 유의 상관, 길이는 무관.
+
+부하 결정에 단일 수치가 필요할 때 Osstell ISQ가 Periotest보다 선호됨; 직경(길이 아님)이 두 안정성 지표를 모두 결정한다.
 
 ## Summary
 Two non-invasive techniques dominate clinical implant stability measurement: **resonance frequency analysis (RFA, Osstell, ISQ scale)** and **damping capacity assessment (DCA, Periotest, PTV scale)**. Although both have been validated independently, head-to-head comparisons in the same implants and patients are uncommon. This 2008 University of Berne clinical study measured 213 one-stage implants in 65 patients in triplicate with both devices.

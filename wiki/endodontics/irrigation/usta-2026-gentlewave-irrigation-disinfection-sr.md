@@ -6,7 +6,7 @@ date: 2026-01-01
 doi: 10.1186/s12903-026-07688-x
 source: usta-2026-gentlewave-irrigation-disinfection-sr.md
 category: [endodontics/irrigation]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/usta-2026-gentlewave-irrigation-disinfection-sr.pdf
 pdf_filename: usta-2026-gentlewave-irrigation-disinfection-sr.pdf
 source_collection: external
@@ -18,13 +18,21 @@ relations:
     target: varadan-2025-multisonic-ultrasonic-irrigant-biofilm-sr
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (12 in-vitro studies, QUIN tool, narrative synthesis) of GentleWave vs conventional/advanced irrigation: GW gave significantly higher LPS/LTA reduction than PUI and generally better biofilm/smear removal, but superiority was inconsistent across studies (some favored optimized PUI; Er:YAG comparable for debris), with cost/heterogeneity limiting clinical interpretation.
+PRISMA systematic review (12 in-vitro studies, QUIN risk-of-bias tool, narrative synthesis) evaluating whether the high-cost GentleWave® multisonic system delivers superior root canal disinfection over conventional and advanced activation techniques (PUI, XP-Endo Finisher, laser-assisted).
 
-## 한줄요약
+GentleWave gave significantly higher LPS and LTA endotoxin reduction than PUI, and most studies showed enhanced biofilm and debris/smear removal; however, superiority was inconsistent — some studies found PUI similar or superior with optimized protocols, and Er:YAG lasers matched GentleWave for debris removal.
 
-GentleWave를 기존·고급 세정법과 비교한 in vitro 12편 체계적 문헌고찰(QUIN 도구, 서술적 종합): GW는 PUI보다 LPS/LTA 감소가 유의하게 컸고 biofilm·smear 제거도 대체로 우수했지만, 우월성은 연구마다 일관되지 않았고(최적화된 PUI가 동등·우수한 경우, Er:YAG는 debris 제거 동등), 비용·이질성 때문에 임상적 결론은 제한적이다.
+GentleWave is effective in conservative (small apical prep) scenarios but its consistent superiority over lower-cost alternatives remains unproven; cost and study heterogeneity constrain clinical interpretation.
+
+## 세줄요약
+
+GentleWave® 멀티소닉 시스템을 기존 세정법(PUI, XP-Endo Finisher, 레이저)과 비교한 PRISMA 체계적 문헌고찰(in vitro 12편; QUIN 비뚤림 위험 도구; 서술적 종합).
+
+GentleWave는 PUI보다 LPS/LTA 내독소 감소가 유의하게 크고 대다수 연구에서 바이오필름·잔설 제거 우수; 단, 최적화된 PUI가 동등·우수한 연구도 있었고 Er:YAG 레이저는 debris 제거에서 GentleWave와 동등.
+
+보존적(소형 치근단 형성) 시나리오에서 GentleWave 효과적이나, 저비용 대안 대비 일관된 우위 미입증 — 비용·이질성으로 임상 결론 제한.
 
 ## Summary
 

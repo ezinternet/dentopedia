@@ -9,8 +9,21 @@ pdf_filename: psillas-2020-odontogenic-maxillary-sinusitis-comprehensive-review.
 source_collection: external
 ---
 
-## One-line Summary
-Comprehensive narrative review covering anatomy, epidemiology, etiology, bacteriology, diagnosis, and treatment of odontogenic maxillary sinusitis (OMS); surgical treatment combining dental surgery with endoscopic sinus surgery (ESS) is the standard; multidisciplinary ENT + dental team is essential.
+## Three-line Summary
+
+Comprehensive narrative review covering anatomy, epidemiology, etiology, bacteriology, diagnosis, and treatment of odontogenic maxillary sinusitis (OMS)
+
+surgical treatment combining dental surgery with endoscopic sinus surgery (ESS) is the standard
+
+multidisciplinary ENT + dental team is essential.
+
+## 세줄요약
+
+Comprehensive narrative review covering anatomy, epidemiology, etiology, bacteriology, diagnosis, and treatment of odontogenic maxillary sinusitis (OMS)
+
+외과적 (Surgical) treatment combining dental surgery with endoscopic sinus surgery (ESS) is the standard
+
+multidisciplinary ENT + dental team is essential.
 
 ## 1. Document Information
 - **Journal**: Journal of Dental Sciences 2021;16:474–481 (available online 22 August 2020)

@@ -6,7 +6,7 @@ date: 2024-03-19
 doi: 10.1186/s12903-024-04131-x
 source: jasz-2024-centric-relation-methods-digital-mandibular-motion.md
 category: complete-denture
-confidence: cross-sectional
+evidence_level: cross-sectional
 source_collection: pubmed-text
 full_text: true
 pmid: "38500122"
@@ -22,13 +22,21 @@ relations:
 tags: [centric-relation, jaw-relation, dawson, gothic-arch, mandibular-motion-analyser, MIP]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Cross-sectional clinical comparison (n=34 dentate, stable MIP) using a KaVo Arcus Digma 2 ultrasound mandibular motion analyser (50 µm accuracy) ranking 7 centric-relation determination techniques: Dawson bimanual manipulation and tongue-tip at the hard/soft-palate border deviated least from the MIP reference (no significant deviation on any of the 3 axes), while active/passive chin retrusion seated the condyle posteriorly and the gothic-arch tracer captured it anteriorly — all deviations within ±1 mm.
+Cross-sectional study (n=34 dentate TMD-negative subjects, mean age 29 y, Semmelweis University) used a KaVo Arcus Digma 2 ultrasound mandibular motion analyser (50 µm accuracy) to compare 7 centric-relation recording techniques against the MIP reference in 3D coordinates.
 
-## 한줄요약
+Dawson bimanual manipulation (method C) and tongue-tip at the hard/soft-palate border (method E) showed no significant deviation from MIP on any axis; gothic-arch tracer and tongue-at-rugae deviated anteriorly, while active/passive chin retrusion deviated posteriorly — all deviations remained within ±1 mm.
 
-단면 임상 비교(안정 최대교두감합위(MIP)를 가진 유치악 34명), KaVo Arcus Digma 2 초음파 하악운동분석기(정확도 50 µm)로 중심위(Centric Relation, CR) 결정법 7가지를 순위화: Dawson 양수조작법과 혀끝을 경구개·연구개 경계에 두는 방법이 MIP 기준에서 가장 적게 벗어났고(세 축 모두 유의차 없음), 능동·수동 턱 후퇴는 과두를 후방으로, 고딕아치 트레이서는 전방으로 이동시켰다 — 모든 편차는 ±1 mm 이내.
+Clinically, non-retrusion methods (A, B, C, D, E) are safe; retrusion methods (F, G) risk a forced posterior seat and should be avoided for capturing a physiologic CR.
+
+## 세줄요약
+
+단면 연구(n=34, 비TMD 유치악, 평균 29세, Semmelweis 대학)에서 KaVo Arcus Digma 2 초음파 하악운동분석기(정확도 50 µm)로 중심위(CR) 결정법 7가지를 MIP 기준 3D 좌표에서 비교하였다.
+
+Dawson 양수조작법(C)과 혀끝을 경·연구개 경계에 두는 법(E)이 세 축 모두 MIP와 유의차 없었고, 고딕아치 트레이서·혀끝-구개추벽은 전방 편차, 능동·수동 턱 후퇴는 후방 편차를 보였으며 모든 편차는 ±1 mm 이내였다.
+
+임상적으로 비후퇴 방법(A~E)은 안전하며, 후퇴법(F, G)은 강제 후방 과두위를 유발할 수 있어 생리적 CR 포착에는 피해야 한다.
 
 ## Summary
 

@@ -6,7 +6,7 @@ date: 2026-04-10
 doi: 10.1016/j.jdent.2026.106691
 source: bomicke-2026-ceramic-crowns-sleep-bruxism-rct.md
 category: [dental-materials/zirconia]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/bomicke-2026-ceramic-crowns-sleep-bruxism-rct.pdf
 pdf_filename: bomicke-2026-ceramic-crowns-sleep-bruxism-rct.pdf
 source_collection: external
@@ -20,13 +20,21 @@ relations:
     target: fan-2018-occlusal-trauma-and-excessive-occlusal
 ---
 
-## One-line Summary
+## Three-line Summary
 
-3-year RCT (n=109; 4 groups by EMG-confirmed sleep bruxism × randomized monolithic lithium disilicate vs zirconia molar crown, no occlusal guards permitted): sleep bruxism showed no statistically detectable impact on technical complications, survival, or success of either ceramic.
+3-year RCT (n=109, Heidelberg) stratifying molar crown patients by EMG-confirmed sleep bruxism (BruxOff device) and randomizing 1:1 to monolithic lithium disilicate (IPS e.max Press) vs 3Y-TZP zirconia (Prettau), with occlusal guards deliberately withheld.
 
-## 한줄요약
+Zero technical complications (no ceramic fractures or chipping) occurred across all 4 groups; survival did not differ significantly by bruxism status (LiDi-SB 96.3% vs LiDi-no-SB 100%, p>0.999; Zir-SB 95.2% vs Zir-no-SB 95.8%, p>0.999); all observed failures were biological.
 
-3년 RCT (환자 109명; EMG(BruxOff)로 확인한 수면 이갈이(Sleep Bruxism, SB) 유무 × 무작위 배정 모놀리식 리튬디실리케이트(Lithium Disilicate, LiDi) vs 지르코니아(Zirconia, Zir) 대구치 단일 크라운, 교합안정장치 미허용): 수면 이갈이는 두 재료 모두에서 기술적 합병증·생존율·성공률에 통계적으로 유의한 영향을 주지 않았다.
+EMG-confirmed sleep bruxism did not increase ceramic fracture risk at 3 years — both monolithic ceramics appear safe in bruxers without splint protection, though the study is underpowered for rare fracture events and both VRFs occurred in bruxers.
+
+## 세줄요약
+
+하이델베르크대학 교합장치 미허용 3년 RCT(n=109): BruxOff EMG로 확인한 수면 이갈이(Sleep Bruxism, SB) 여부로 계층화 후, 모놀리식 리튬디실리케이트(IPS e.max Press) vs 3Y-TZP 지르코니아(Prettau) 대구치 단관 크라운에 1:1 무작위 배정.
+
+4개 군 모두에서 기술적 합병증(세라믹 파절·치핑) 0건; 수면 이갈이 유무에 따른 생존율 차이 없음(LiDi-SB 96.3% vs 무이갈이 100%, p>0.999; Zirconia-SB 95.2% vs 무이갈이 95.8%, p>0.999); 모든 실패는 생물학적 합병증이었다.
+
+EMG로 확진된 수면 이갈이는 3년 시점에서 세라믹 파절 위험을 증가시키지 않았으며, 두 모놀리식 세라믹 모두 교합안정장치 없이도 이갈이 환자에서 사용 가능해 보이나 희귀한 파절에 대한 검출력 부족과 치근파절 2건이 모두 이갈이군에서 발생한 점은 한계이다.
 
 ## Summary
 

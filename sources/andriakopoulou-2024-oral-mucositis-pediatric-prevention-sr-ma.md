@@ -15,15 +15,23 @@ text_filename: andriakopoulou-2024-oral-mucositis-pediatric-prevention-sr-ma.txt
 
 ## Why Ingested
 
-This SR+MA OPENS the oral-mucositis sub-topic in `oral-medicine`, which previously held oral mucosal disease pages on aphthous, lichen planus, and pemphigoid but no chemo/radiotherapy-induced oral mucositis (OM) page. It extends the oral-ulcerative/erosive disease coverage of [[oral-medicine/coppola-2023-herpetic-gingivostomatitis-sr]] and [[oral-medicine/dean-2022-oral-chronic-gvhd-review]] (the latter shares the HSCT pediatric-oncology context) into the cancer-treatment-induced OM space, where honey emerges as the only meta-analytically supported agent and LLLT shows no benefit.
+This SR+MA OPENS the oral-mucositis sub-topic in `oral-medicine`, which previously held oral mucosal disease pages on aphthous, lichen planus, and pemphigoid but no chemo/radiotherapy-induced oral mucositis (OM) page. It extends the oral-ulcerative/erosive disease coverage of [[oral-medicine/coppola-2023-herpetic-gingivostomatitis-sr]] and [[oral-medicine/immune-mediated/dean-2022-oral-chronic-gvhd-review]] (the latter shares the HSCT pediatric-oncology context) into the cancer-treatment-induced OM space, where honey emerges as the only meta-analytically supported agent and LLLT shows no benefit.
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (34 RCTs identified, 5 meta-analyzed) of OM prevention/treatment in pediatric cancer patients: topical honey shortened hospital stay in severe OM (MD=-4.33d, p=0.002); LLLT showed no benefit for OM grade >=II.
+SR+MA (34 RCTs identified, 5 pooled; pediatric cancer patients undergoing chemotherapy, radiotherapy, or HSCT; search January 2000–March 2023) of oral mucositis (OM) prevention and treatment.
 
-## 한줄요약
+Topical honey significantly shortened hospital stay in severe OM (MD = −4.33 days, p=0.002); LLLT showed no benefit for prevention or treatment of OM grade ≥II (RR 0.99 and 0.48, both p >0.05); chemotherapy-induced OM incidence in children can reach 91.5%.
 
-소아암 환자의 구강점막염(OM) 예방·치료 SR+MA(RCT 34편 확인, 5편 메타분석): 국소 꿀이 중증 OM 입원기간을 단축(MD=-4.33일, p=0.002), 저출력레이저(LLLT)는 OM grade >=II에 효과 없음.
+Only 5 of 34 RCTs were meta-analyzable (honey resting on 2 RCTs), and all findings require further high-quality RCTs in the pediatric population before practice change.
+
+## 세줄요약
+
+SR+MA(RCT 34편 확인, 5편 메타분석; 소아암 화학요법·방사선·HSCT 환자; 검색 2000년 1월–2023년 3월) — 구강점막염(OM) 예방·치료.
+
+국소 꿀이 중증 OM 입원기간을 유의하게 단축(MD = −4.33일, p=0.002); 저출력레이저(LLLT)는 예방 및 치료에서 OM grade ≥II에 효과 없음(RR 0.99, 0.48; 모두 p >0.05); 소아 화학요법 OM 발생률 최고 91.5%.
+
+34편 중 5편만 메타분석 가능(꿀은 RCT 2편에 의존)하여 소아 특이적 고질 RCT 추가 필요.
 
 ## 1. Document Information
 

@@ -13,13 +13,21 @@ source_collection: external
 
 radiology 카테고리 CBCT dosimetry 방법론 비교(측정 vs 시뮬레이션)의 실측 근거. [[radiology/ozaki-2021-cbct-effective-dose-monte-carlo-simulation]]의 MC 최적화와 [[radiology/kaasalainen-2021-dental-cone-beam-ct-updated-review]]의 dosimetry 리뷰를 실측치로 뒷받침.
 
-## One-line Summary
+## Three-line Summary
 
-OSLD vs Monte Carlo CBCT dosimetry across 2 units/4 modes; effective-dose discrepancy 4.0–14.3%, narrowing as FOV shrinks.
+OSLD vs Monte Carlo CBCT dosimetry across 2 units/4 modes;
 
-## 한줄요약
+effective-dose discrepancy 4.0–14.3%, narrowing as FOV shrinks.
 
-CBCT 선량 OSLD vs 몬테카를로(2기종·4모드). 유효선량 차이 4.0~14.3%, FOV 작을수록 감소.
+(incomplete)
+
+## 세줄요약
+
+CBCT 선량 OSLD vs 몬테카를로(2기종·4모드).
+
+유효선량 차이 4.0~14.3%, FOV 작을수록 감소.
+
+(incomplete)
 
 ## 1. Document Information
 

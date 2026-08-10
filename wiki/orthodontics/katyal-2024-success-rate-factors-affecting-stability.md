@@ -6,7 +6,7 @@ date: 2024-01-01
 doi: 10.1093/ejo/cjae074
 source: katyal-2024-success-rate-factors-affecting-stability.md
 category: [orthodontics]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/katyal-2024-success-rate-factors-affecting-stability.pdf
 pdf_filename: katyal-2024-success-rate-factors-affecting-stability.pdf
 source_collection: external
@@ -16,13 +16,21 @@ relations:
     target: alharbi-2018-miniscrew-failure-rate-orthodontics-sr-ma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (14 studies, n=1683 infrazygomatic crest miniscrews): pooled success 92% (95% CI 87–95%; I²=80%), 94% in studies with >100 screws; no significant age effect and only limited correlation for other stability factors.
+First dedicated SR+MA of extra-radicular infrazygomatic crest (IZC) miniscrews (14 studies, n=1,683), a site in dense cortical bone near the maxillary first molar that was under-represented in prior inter-radicular miniscrew meta-analyses.
 
-## 한줄요약
+Pooled success was 92% (95% CI 87–95%; I²=80%), rising to 94% in larger studies (n>100); meta-regression found no significant age–success relationship, and most other host/implant/loading factors showed only limited correlation amid high heterogeneity.
 
-SR+MA (14편·관골하능 미니스크루 1683개): 통합 성공률 92% (95% CI 87–95%, I²=80%), 표본 >100 연구는 94%; 연령 영향 무의미, 기타 안정성 인자 상관성 제한적.
+IZC miniscrews demonstrate favorable and consistent anchorage success, but factor-level conclusions remain low-certainty due to largely low-quality evidence and an 80% heterogeneity.
+
+## 세줄요약
+
+기존 메타분석에서 미반영된 관골하능(IZC) 외측근 미니스크루만을 대상으로 한 최초 SR+MA (14편, 1,683개).
+
+통합 성공률 92% (95% CI 87–95%, I²=80%), 표본 >100 연구에서는 94%; 연령-성공률 관계 무의미, 기타 숙주·장치·부하 인자도 이질성 높아 상관성 제한적.
+
+IZC 부위는 일관되게 높은 정착 성공률을 보이나, 근거 수준이 대부분 낮아 개별 인자 수준의 결론은 저신뢰도임.
 
 ## Summary
 

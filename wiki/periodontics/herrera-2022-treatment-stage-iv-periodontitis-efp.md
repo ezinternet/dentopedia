@@ -6,18 +6,28 @@ date: 2022-04-22
 doi: 10.1111/jcpe.13639
 source: herrera-2022-treatment-stage-iv-periodontitis-efp.md
 category: [periodontics]
-confidence: consensus
+evidence_level: consensus
 pdf_path: /Users/oracleneo/llm-wiki/papers/herrera-2022-treatment-stage-iv-periodontitis-efp.pdf
 pdf_filename: herrera-2022-treatment-stage-iv-periodontitis-efp.pdf
 source_collection: external
 tags: [periodontitis, stage-IV, EFP, interdisciplinary, orthodontics, prosthodontics, SPT]
 ---
 
-## One-line Summary
-EFP S3-level clinical practice guideline (based on 13 commissioned SRs + GRADE) for stage IV periodontitis (masticatory dysfunction, mobility ≥2, severe ridge defects, <20 teeth): mandates interdisciplinary rehabilitation (orthodontics, prosthodontics, implants) after active periodontal therapy plus high-intensity SPT; tooth-loss hazard is 3.73× higher than stage I over 10–30 years.
+## Three-line Summary
 
-## 한줄요약
-EFP S3 4기 치주염 치료 지침(13개 SR 기반): 치주 치료 후 교정·보철 등 다학제 재활 + 집중 SPT 프로토콜.
+EFP S3-level clinical practice guideline (13 commissioned SRs + GRADE) for stage IV periodontitis — defined by masticatory dysfunction, tooth mobility ≥2, severe alveolar ridge defects, and fewer than 20 remaining teeth.
+
+Active periodontal therapy (per Sanz 2020 CPG) must be completed before interdisciplinary rehabilitation (orthodontics, prosthodontics, implants); SPT at ≤3-month recall is mandatory, and tooth-loss hazard ratio vs stage I is 3.73 over 10–30 years.
+
+Stage IV is the only periodontitis stage requiring systematic interdisciplinary rehabilitation; failure to stabilize periodontitis first invalidates orthodontic and prosthetic outcomes.
+
+## 세줄요약
+
+4기 치주염(저작 기능 장애, 동요도 ≥2, 중증 치조골 결손, 잔존치 <20개)을 위한 EFP S3 임상진료지침 — 13편 SR + GRADE 기반.
+
+Sanz 2020 CPG에 따른 적극적 치주치료를 먼저 완료한 후 교정·보철·임플란트 등 다학제 재활을 시행하며, SPT는 ≤3개월 주기 필수; 1기 대비 치아 상실 위험비(Hazard Ratio, HR)는 10–30년간 3.73배.
+
+4기 치주염은 다학제 재활이 필요한 유일한 치주염 단계이며, 치주 안정화를 선행하지 않으면 교정·보철 결과가 무효화될 수 있다.
 
 ## Summary
 The EFP S3 level clinical practice guideline for treatment of stage IV periodontitis, the most severe form characterised by masticatory dysfunction, tooth mobility ≥2, severe ridge defects, and fewer than 20 remaining teeth. Based on 13 commissioned SRs and GRADE. Complements the Sanz 2020 CPG for stages I–III, requiring an interdisciplinary approach including orthodontics, prosthodontics, and high-intensity SPT.
@@ -46,4 +56,4 @@ The EFP S3 level clinical practice guideline for treatment of stage IV periodont
 
 ## Related Papers
 - [[periodontics/sanz-2020-treatment-stage-i-iii-periodontitis-efp]] — mandatory prerequisite guideline
-- [[implants/herrera-2023-prevention-treatment-peri-implant-efp]] — peri-implant disease prevention for implant rehabilitation
+- [[implants/peri-implantitis/herrera-2023-prevention-treatment-peri-implant-efp]] — peri-implant disease prevention for implant rehabilitation

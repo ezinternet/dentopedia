@@ -17,11 +17,21 @@ text_filename: lee-2025-emergence-angle-soft-hard-tissue-splinted-implants.txt
 
 기존 [[implants/soft-tissue/jensen-2023-iti-consensus-bone-dimensions-soft-tissue]]와 [[implants/soft-tissue/sanz-2022-keratinized-mucosa-around-implants-consensus]]는 임플란트 주위 연조직 봉쇄 (Soft Tissue Seal)·생물학적 폭경 (Biologic Width)을 다루지만 보철 출현각 (Emergence Angle, EA)이 그 형성에 미치는 영향을 조직학적으로 입증한 자료가 없었다. 본 비글견 전임상 연구 (Lee 2025)는 좁은 EA(30°) vs 넓은 EA(60°) split-mouth 비교로 넓은 EA가 결합조직 부착을 손상시키고 변연골 개조 (Bone Remodeling)를 촉진함을 조직학·방사선학으로 처음 증명해, 보철 윤곽이 연조직 봉쇄에 미치는 기전 근거를 보강한다.
 
-## One-line Summary
-Beagle dog split-mouth preclinical study (n=5 dogs, 30 implants, 30° narrow vs 60° wide emergence angle, splinted prostheses, 6-month function): wide emergence angle produced greater crestal bone remodeling (24-wk e.g. T-splint 1.4 vs 0.57 mm), larger infiltrated connective tissue, shorter connective tissue attachment (~0.7 vs ~1.1 mm), and reduced peri-implant epithelial collagen — failing to form an adequate soft tissue seal.
+## Three-line Summary
 
-## 한줄요약
+Beagle dog split-mouth preclinical study (n=5 dogs, 30 implants, 30° narrow vs 60° wide emergence angle, splinted prostheses, 6-month function): wide emergence angle produced greater crestal bone remodeling (24-wk e.g.
+
+T-splint 1.4 vs 0.57 mm), larger infiltrated connective tissue, shorter connective tissue attachment (~0.7 vs ~1.1 mm), and reduced peri-implant epithelial collagen — failing to form an adequate soft tissue seal.
+
+(incomplete)
+
+## 세줄요약
+
 비글견 split-mouth 전임상 연구 (n=5, 임플란트 30개): 넓은 출현각 (Emergence Angle 60°)이 좁은 각도 (30°)보다 변연골 개조를 더 많이 일으키고 결합조직 부착을 짧게(~0.7 vs ~1.1 mm) 만들어 안정적 연조직 봉쇄 형성을 방해했다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

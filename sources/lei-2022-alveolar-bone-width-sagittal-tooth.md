@@ -9,8 +9,21 @@ pdf_filename: lei-2022-alveolar-bone-width-sagittal-tooth.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Retrospective CBCT study of 120 patients comparing alveolar bone width and sagittal tooth angulation of maxillary central incisors stratified by Class I vs Class III canine relationship. Class III had significantly thinner labial bone and greater labial root inclination, complicating immediate implant placement planning.
+## Three-line Summary
+
+Retrospective CBCT study of 120 patients comparing alveolar bone width and sagittal tooth angulation
+
+of maxillary central incisors stratified by Class I vs Class III canine relationship. Class
+
+III had significantly thinner labial bone and greater labial root inclination, complicating immediate implant placement planning.
+
+## 세줄요약
+
+Retrospective CBCT study of 120 patients comparing alveolar bone width and sagittal tooth angulation
+
+of maxillary central incisors stratified by Class I vs Class III canine relationship. Class
+
+III had significantly thinner labial bone and greater labial root inclination, complicating immediate implant placement planning.
 
 ## 1. Document Information
 - **Title:** Comparison of alveolar bone width and sagittal tooth angulation of maxillary central incisors in Class I and Class III canine relationships: a retrospective CBCT study
@@ -32,8 +45,8 @@ Class III patients showed thinner labial bone plates (often <1 mm in apical thir
 Single-center retrospective; CBCT measurement precision limited by voxel size. No outcome data — implications are inferred from anatomy only.
 
 ## 6. Related Work
-- [[immediate-implant/kan-2011-sagittal-root-position-immediate-implant-anterior]]
-- [[immediate-implant/rodrigues-2022-srp-periodontal-phenotype-anterior-maxillary]]
+- [[immediate-implant/anatomic-assessment/kan-2011-sagittal-root-position-immediate-implant-anterior]]
+- [[immediate-implant/anatomic-assessment/rodrigues-2022-srp-periodontal-phenotype-anterior-maxillary]]
 
 ## 7. Glossary
 - **IIP:** Immediate Implant Placement — placement at the time of tooth extraction.

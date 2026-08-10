@@ -13,11 +13,21 @@ source_collection: external
 
 Part of a focused collection on suture techniques and primary wound closure after impacted mandibular third molar surgery. This split-mouth RCT is the only paper in the cluster that isolates the *suture geometry* variable (sling vs single interrupted) and reports periodontal endpoints (PPD/CAL at the adjacent second molar) rather than the usual pain/swelling/trismus triad — complementing [[suture-wound-closure/kumar-2022-suture-versus-sutureless-third-molar-impactions]] and [[suture-wound-closure/pachipulusu-2018-primary-secondary-closure-third-molar]], which report no periodontal difference by closure type.
 
-## One-line Summary
-Split-mouth RCT (n=25 patients) comparing sling vs single interrupted sutures after impacted mandibular third molar removal; sling sutures gave significantly better PPD (P=0.041) and CAL (P=0.016) at the adjacent second molar, with no significant long-term difference in wound dehiscence.
+## Three-line Summary
 
-## 한줄요약
-하악 매복 사랑니 발치 후 sling 봉합 대 단순 단속 봉합을 비교한 분할구강 무작위배정 임상시험(환자 25명). Sling 봉합이 인접 제2대구치의 치주낭 깊이(PPD, P=0.041)와 임상부착소실(CAL, P=0.016)에서 유의하게 우수했고, 봉합 파열(dehiscence)에는 장기적으로 유의한 차이가 없었다.
+Split-mouth RCT (n=25 patients, 18–25 y, bilateral similar mandibular impacted third molar extraction) comparing sling suture vs single interrupted suture, with periodontal outcomes at the adjacent second molar as primary endpoint (~17-week follow-up).
+
+Sling sutures produced significantly better probing pocket depth (PPD, p=0.041) and clinical attachment level (CAL, p=0.016) at the distal surface of the adjacent second molar; long-term wound dehiscence showed no significant difference between techniques (p=0.852 at day 14).
+
+Suture geometry affects periodontal recovery of the adjacent second molar — sling placement keeps the knot away from the dehiscence-prone distal surface; limited by small single-center sample in a young healthy population.
+
+## 세줄요약
+
+분악 RCT (환자 25명, 18–25세, 양측 유사 하악 매복 사랑니 발치): sling 봉합 vs 단순 단속 봉합 비교 — 인접 제2대구치 원심면 치주 지표를 1차 평가변수로 약 17주 추적.
+
+Sling 봉합 측에서 인접 제2대구치 원심면의 탐침 깊이(PPD, p=0.041)와 임상부착소실(CAL, p=0.016) 유의하게 우수; 장기 봉합 파열은 두 기법 간 유의차 없음(14일 p=0.852).
+
+봉합 형태가 인접 제2대구치 치주 회복에 영향 — sling은 매듭을 dehiscence 위험이 큰 원심면에서 떨어뜨려 염증 감소; 소규모 단일 기관·건강한 젊은 집단이 한계.
 
 ## 1. Document Information
 - **Title**: Comparison of the Effect of Sling and Single Interrupted Sutures on Periodontal Parameters after Surgical Extraction of Impacted Mandibular Third Molars

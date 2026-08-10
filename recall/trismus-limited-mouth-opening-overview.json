@@ -1,0 +1,49 @@
+{
+  "overview": "trismus-limited-mouth-opening-overview",
+  "date": "2026-07-23",
+  "title": "개구장애(Trismus) — 리콜",
+  "source_wiki": [
+    "wiki/overviews/trismus-limited-mouth-opening-overview.md"
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "q": "개구장애의 정의(수치)와 진단 접근의 핵심 원칙은?",
+      "opts": [
+        "절치간 거리 <20mm, 흔한 원인부터 순서대로 배제",
+        "절치간 거리 <35mm(정상 40–60mm), red-flag 우선 — 전신증상·발열·신경학적 결손·파상풍·중추병변을 먼저 배제한 뒤 국소 원인으로",
+        "개구 <45mm면 무조건 TMD로 진단",
+        "절치간 거리 <10mm에서만 병적"
+      ],
+      "ans": 1,
+      "rat": "Falletti 2026: 개구장애=절치간 거리 <35mm(정상 40–60). 진단은 흔한 원인 나열이 아니라 red-flag 우선 — 파상풍·중추병변 등 놓치면 치명적인 원인을 먼저 배제. 개구장애는 진단명이 아니라 감별이 필요한 징후.",
+      "cite": "overviews/trismus-limited-mouth-opening-overview"
+    },
+    {
+      "id": "q2",
+      "q": "Falletti 2026의 4분면 병인 분류(신경학적 vs 비신경학적 × 구조적 vs 비구조적)가 유용한 이유는?",
+      "opts": [
+        "분류 자체가 목적이라서",
+        "치료 방향을 라우팅하기 때문 — 구조적이면 물리적 해제(수술·물리치료), 신경학적·비구조적이면 약물(BoNT-A·바클로펜); 물리치료는 전 분면 공통",
+        "예후를 정확히 예측해서",
+        "영상 판독을 대신할 수 있어서"
+      ],
+      "ans": 1,
+      "rat": "4분면은 치료 라우팅 장치 — 케이스를 한 분면에 놓는 것이 치료 가족을 고르는 것과 같다. 구조적→물리적 해제, 신경학적·비구조적→BoNT-A/바클로펜, 불응성 관절외 제한→오훼돌기절제술. 물리치료는 전 분면 공통.",
+      "cite": "overviews/trismus-limited-mouth-opening-overview"
+    },
+    {
+      "id": "q3",
+      "q": "치과 최빈 의원성 원인인 하치조신경 전달마취(IANB) 후 개구장애에서 회복의 주 동력은?",
+      "opts": [
+        "충분한 관찰(watchful waiting)",
+        "조기·점증 악운동 운동 — 지연은 반흔 형성·만성 제한 위험(Khalifeh 2024: 18mm→50일째 42mm, 12일 이후 물리치료 강화가 주 동인)",
+        "고용량 항생제",
+        "장기간 개구 금지"
+      ],
+      "ans": 1,
+      "rat": "Khalifeh 2024(증례, n=1): IANB 2회 후 12시간 내 18mm→50일째 42mm 완전 회복. 12일 이후 점증 악운동 운동이 회복 주 동인, 약물은 보조. 지연은 반흔·만성 제한 위험 → 관찰이 최악의 선택. IANB 6기전은 다인자성이므로 조기 개입. 단 수치는 n=1이라 예후 상담용으로 인용 금지.",
+      "cite": "overviews/trismus-limited-mouth-opening-overview"
+    }
+  ]
+}

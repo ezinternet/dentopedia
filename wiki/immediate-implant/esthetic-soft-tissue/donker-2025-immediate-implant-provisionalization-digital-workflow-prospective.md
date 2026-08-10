@@ -6,7 +6,7 @@ date: 2025-07-16
 doi: "10.1111/cid.70079"
 source: donker-2025-immediate-implant-provisionalization-digital-workflow-prospective.md
 category: [immediate-implant/esthetic-soft-tissue]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/donker-2025-immediate-implant-provisionalization-digital-workflow-prospective.pdf
 pdf_filename: donker-2025-immediate-implant-provisionalization-digital-workflow-prospective.pdf
 source_collection: external
@@ -16,13 +16,21 @@ relations:
     target: staas-2026-fiipp-palatal-position-cbct-3year
 ---
 
-## One-line Summary
+## Three-line Summary
 
-1-year prospective case series (30 maxillary esthetic-zone patients) of fully digital immediate implant placement and provisionalization (IOS+CBCT planning, static CAIS, prefabricated temporary); 90% implant survival (3 early failures), PES+WES 15.4/20, MBL −0.18 mm (mesial)/−0.44 mm (distal), patient satisfaction 9.2/10.
+1-year prospective case series (n=30 maxillary esthetic-zone patients) testing a fully digital immediate implant placement and provisionalization workflow using IOS+CBCT planning, static guided surgery, and prefabricated chairside temporaries.
 
-## 한줄요약
+Implant survival was 90% (3 early failures); definitive restoration success 96%; PES+WES 15.4/20; MBL −0.18 mm mesial / −0.44 mm distal; patient satisfaction 9.2/10.
 
-1년 전향 케이스시리즈(심미부 30명) — 완전 디지털 워크플로우(IOS+CBCT 계획·정적 가이드수술·사전제작 임시보철) 즉시식립·즉시 임시수복에서 임플란트 생존율 90%(조기실패 3례), PES+WES 15.4/20, 변연골소실 −0.18/−0.44 mm, 환자 만족도 9.2/10.
+The fully digital workflow is clinically feasible and esthetically reliable, but three early implant failures underscore that biological risk from immediate placement persists regardless of digital planning precision.
+
+## 세줄요약
+
+1년 전향 케이스시리즈(상악 심미부 30명) — IOS+CBCT 계획·정적 가이드수술·사전제작 임시보철을 이용한 완전 디지털 즉시식립·즉시 임시수복 워크플로우 평가.
+
+임플란트 생존율 90%(조기실패 3례), 최종 수복 성공률 96%, PES+WES 15.4/20, 변연골소실 −0.18/−0.44 mm, 환자 만족도 9.2/10.
+
+완전 디지털 워크플로우는 임상적으로 실현 가능하고 심미적으로 신뢰할 수 있으나, 3례의 조기 실패는 디지털 정밀도와 무관하게 즉시식립의 생물학적 위험이 잔존함을 보여 준다.
 
 ## Summary
 
@@ -47,5 +55,5 @@ This prospective case series applied a fully digital workflow — integrated int
 ## Related Papers
 
 - [[immediate-implant/esthetic-soft-tissue/staas-2026-fiipp-palatal-position-cbct-3year]] — same group, palatal 3D positioning of immediate implants
-- [[immediate-implant/meijer-2024-immediate-implant-bony-defect-10year-rct]] — long-term immediate-implant outcomes (Groningen)
+- [[immediate-implant/gap-grafting/meijer-2024-immediate-implant-bony-defect-10year-rct]] — long-term immediate-implant outcomes (Groningen)
 - [[immediate-implant/esthetic-soft-tissue/slagter-2021-immediate-single-implant-provisionalization-5year]] — immediate provisionalization outcomes

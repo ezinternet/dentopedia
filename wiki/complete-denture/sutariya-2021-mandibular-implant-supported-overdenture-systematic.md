@@ -6,7 +6,7 @@ date: 2021-11-09
 doi: 10.4103/jips.jips_158_21
 source: sutariya-2021-mandibular-implant-supported-overdenture-systematic.md
 category: [complete-denture]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/sutariya-2021-mandibular-implant-supported-overdenture-systematic.pdf
 pdf_filename: sutariya-2021-mandibular-implant-supported-overdenture-systematic.pdf
 source_collection: external
@@ -16,13 +16,21 @@ relations:
     target: complete-denture/prasad-2024-attachment-systems-mandibular-implant
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 6 RCTs (2010–2020) on mandibular 2-implant overdenture attachments: ball beats locator in prosthodontic complications (RR 0.55, p=0.03); bar ≈ telescopic in peri-implant outcomes; bar = best retention; telescopic = best patient satisfaction and mucosal health.
+PRISMA SR+MA of 6 RCTs (2010–2020; 235 records screened, all low risk of bias) comparing ball/stud, bar, magnet/locator, and telescopic attachment systems for mandibular 2-implant overdentures with ≥1 year follow-up.
 
-## 한줄요약
+Meta-analysis (2 comparisons feasible): ball attachment had significantly fewer prosthodontic complications than locator (RR 0.55, p=0.03); milled bar vs. telescopic showed no significant difference in peri-implant probing depth or marginal bone loss (both p>0.05); qualitatively, bar gave best retention and telescopic gave best patient satisfaction and mucosal health.
 
-하악 2임플란트 피개의치 어태치먼트 비교 SR+MA (RCT 6편): 볼이 로케이터보다 보철합병증 유의하게 적음 (RR 0.55, p=0.03); 바·텔레스코픽은 MBL·탐침깊이 유의차 없음; 유지력 최고=바, 환자만족·점막건강 최고=텔레스코픽.
+Evidence is limited to small individual RCTs and meta-analysis was feasible for only 2 comparisons; selection should be individualized based on inter-arch space (ball for limited space), retention priority (bar), or peri-implant mucosal health and satisfaction goals (telescopic).
+
+## 세줄요약
+
+PRISMA SR+MA (RCT 6편, 2010–2020, 모두 낮은 비뚤림 위험) — 하악 2임플란트 피개의치에서 볼·바·자석·텔레스코픽 어태치먼트 4종 비교.
+
+메타분석(2가지 비교만 가능): 볼이 로케이터보다 보철합병증 유의하게 적음(RR 0.55, p=0.03); 바 대 텔레스코픽의 탐침깊이·변연골소실 유의차 없음(모두 p>0.05). 질적 종합: 유지력 최고=바, 환자만족·점막건강 최고=텔레스코픽.
+
+개별 RCT 소규모로 메타분석 범위 제한; 악간 공간 부족 시 볼, 최대 유지력 필요 시 바, 점막건강·만족도 우선 시 텔레스코픽을 임상적으로 선택.
 
 ## Summary
 

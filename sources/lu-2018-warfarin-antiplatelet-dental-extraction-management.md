@@ -10,8 +10,21 @@ pdf_filename: lu-2018-warfarin-antiplatelet-dental-extraction-management.pdf
 source_collection: external
 ---
 
-## One-line Summary
-대규모 후향 코호트 (Kaohsiung Chang Gung, Taiwan, n=1,331 환자/1,816 occasions): warfarin 지속 (INR<4.0)군 발치 후 출혈률 9.1% vs warfarin-heparin bridging군 — 지속이 안전; aspirin/clopidogrel/DAPT 지속 시 발치 후 출혈은 모두 국소 지혈로 통제 가능; 항혈전제 중단 불필요.
+## Three-line Summary
+
+대규모 후향 코호트 (Kaohsiung Chang Gung, Taiwan, n=1,331 환자/1,816 occasions): warfarin 지속 (INR<4.0)군 발치 후 출혈률 9.1% vs warfarin-heparin bridging군 — 지속이 안전
+
+aspirin/clopidogrel/DAPT 지속 시 발치 후 출혈은 모두 국소 지혈로 통제 가능
+
+항혈전제 중단 불필요.
+
+## 세줄요약
+
+대규모 후향 코호트 (Kaohsiung Chang Gung, Taiwan, n=1,331 환자/1,816 occasions): warfarin 지속 (INR<4.0)군 발치 후 출혈률 9.1% vs warfarin-heparin bridging군 — 지속이 안전
+
+aspirin/clopidogrel/DAPT 지속 시 발치 후 출혈은 모두 국소 지혈로 통제 가능
+
+항혈전제 중단 불필요.
 
 ## 1. Document Information
 - Authors: Lu Shin-Yu, Lin Liang-Ho, Hsue Shui-Sang
@@ -43,7 +56,7 @@ source_collection: external
 | DAPT continued | — |
 | Control (no antithrombotic) | baseline |
 
-[합의수준] Authors conclude: extractions can be done without interrupting warfarin (INR<4.0) or single/dual antiplatelet therapy, with local hemostasis sufficient to control bleeding.
+[확인] Authors conclude: extractions can be done without interrupting warfarin (INR<4.0) or single/dual antiplatelet therapy, with local hemostasis sufficient to control bleeding.
 
 ## 5. Limitations
 - Single center, retrospective

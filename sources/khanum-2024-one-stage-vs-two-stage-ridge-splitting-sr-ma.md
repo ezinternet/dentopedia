@@ -17,13 +17,21 @@ text_filename: khanum-2024-one-stage-vs-two-stage-ridge-splitting-sr-ma.txt
 
 This SR+MA directly informs the staging decision behind [[wiki/bone-regeneration/enislidis-2006-staged-ridge-splitting-implant-mandible]] (a two-stage staged ridge-split technique): the pooled comparative analysis finds the **one-stage** ridge split superior to the two-stage approach (SMD favouring one-stage ~0.89). It refines — but does not overturn — the enislidis staged-technique anchor, and complements the classic split-crest origin paper [[wiki/bone-regeneration/simion-1992-jawbone-enlargement-split-crest-gtr]] by providing the first quantitative one-stage-vs-two-stage synthesis.
 
-## One-line Summary
+## Three-line Summary
 
-PRISMA SR+MA (11 studies qualitative, 3 in meta-analysis; all moderate-to-high RoB) finding one-stage ridge split superior to two-stage (pooled SMD favouring one-stage ~0.89), tempered by poor heterogeneity and funnel asymmetry (possible publication bias).
+PRISMA SR+MA (11 studies qualitative, 3 in meta-analysis;
 
-## 한줄요약
+all moderate-to-high RoB) finding one-stage ridge split superior to two-stage (pooled SMD favouring one-stage ~0.89), tempered by poor heterogeneity and funnel asymmetry (possible publication bias).
+
+(incomplete)
+
+## 세줄요약
 
 PRISMA 체계적 문헌고찰+메타분석 (정성 11편, 메타분석 3편, 전부 중-고 비뚤림위험)에서 1단계 치조제 분할술(one-stage ridge split)이 2단계보다 우수(통합 SMD ~0.89, one-stage 유리)했으나, 이질성 불량·깔때기 비대칭(출판편향 가능성)으로 근거 강도는 제한적.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

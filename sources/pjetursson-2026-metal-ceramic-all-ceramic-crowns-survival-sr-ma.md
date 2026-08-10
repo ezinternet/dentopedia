@@ -9,8 +9,21 @@ pdf_filename: pjetursson-2026-metal-ceramic-all-ceramic-crowns-survival-sr-ma.pd
 source_collection: external
 ---
 
-## One-line Summary
-SR+MA of 64 studies (n=11,560 crowns) showing that monolithic lithium-disilicate single crowns achieve the highest 5-year survival rate (98.5%), comparable to or exceeding metal-ceramic (97.1%), while monolithic designs significantly reduce ceramic fracture and chipping compared to veneered alternatives.
+## Three-line Summary
+
+SR+MA of 64 studies (n=11,560 crowns) showing that monolithic lithium-disilicate single crowns
+
+achieve the highest 5-year survival rate (98.5%), comparable to or exceeding metal-ceramic
+
+(97.1%), while monolithic designs significantly reduce ceramic fracture and chipping compared to veneered alternatives.
+
+## 세줄요약
+
+체계적 고찰 및 메타분석 (SR+MA) of 64 studies (n=11,560 crowns) showing that monolithic lithium-disilicate single crowns
+
+achieve the highest 5-year survival rate (98.5%), comparable to or exceeding metal-ceramic
+
+(97.1%), while monolithic designs significantly reduce ceramic fracture and chipping compared to veneered alternatives.
 
 ## 1. Document Information
 - **Journal**: The International Journal of Prosthodontics (Pre-print / published January 5, 2026)

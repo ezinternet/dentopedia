@@ -1,0 +1,579 @@
+Background
+
+Currently, people are increasingly emphasizing beauty and personal care as essential foundations for well-being and self-confidence. Clear aligners are considered the most aesthetically orthodontic treatment option because of their transparency and near-invisibility []. This clear appliance cannot be seen during the orthodontic treatment, becoming popular and significantly increased utilization over the past two decades. They can be easily removed during meals and for oral cleaning, which facilitates good oral hygiene [,]. The recommendation to achieve the effective treatment results, patients have to wear aligners for at least 20–22 hours daily. Each aligner is typically worn for 1 to 2 weeks before progressing to the next one [,]. However, some studies indicated that patient compliance with removable appliances has been inadequate in terms of usage duration and adherence to the dentist’s instructions [,]. Some patients wear clear aligners when drinking and have reported discolored aligners. The staining on clear aligners affects an aesthetic problem which leads to uncooperative behavior in wearing aligners of the patients.
+
+Several types of thermoplastic polymers are used in the production of clear aligners, including polyurethane (PU), polyethylene terephthalate (PET), polyethylene terephthalate glycol (PETG), and polycarbonate (PC). Each material has distinct properties. Polyurethane employs flexibility and provides a constant force in moving teeth with proper chemical resistance. However, the primary shortcoming of polyurethane is its susceptibility to pigments and color instability []. Polyethylene terephthalate glycol is an amorphous co-polymer of polyethylene terephthalate (PET) that has good mechanical, chemical and optical properties. Compared to polyurethane, polyethylene terephthalate glycol shows better stain resistance [,]. While some studies have examined the physical, chemical, and stability properties of clear aligners [,–], few studies have focused on color stability across different brands of clear aligners available in Thailand. Moreover, there has never been a study investigating the effects of 6 hours of in-vitro simulation represented a week-long beverage exposure period in clinical aligner usage []. Therefore, this study aims to enhance the understanding of the color stability of clear aligners available in Thailand exposed to various types of beverages.
+
+Methods
+
+A total of 704 samples were prepared from flat labial surface of the clear aligner at central incisors (tooth 11 or 21) with 0.5–0.55 mm. thickness, shaped into a round shape using punching bear with a diameter greater than 7 mm. The sample size per group was 22 pieces as calculated from the study of Bernard et al. in 2020 []. The samples were sourced from four different brands, with 176 samples per brand: Invisalign(Align Technology, Santa Clara, CA, USA), Käse Aligner(Käse Aligner Co., Ltd, Bangkok, Thailand), Beforedent(Befordent Co., Ltd, Yongsan-gu, Seoul, Republic of Korea), and ClearCorrect(Straumann Group Co., Ltd, Basel, Switzerland). All samples were cleaned in an ultrasonic cleaner for 5 minutes and dried with tissue paper before immersing in beverages. All the samples were distributed into 32 groups (4 brands, 4 beverages for two-time period) using Microsoft Excel.
+
+Popular colored beverages commonly consumed in daily life were used for the study:
+
+: 3 g of Nescafe Red Cup instant coffee powder per 180 ml of distilled boiled water.
+
+: Original taste Coca-Cola.
+
+: 1 tea bag (4 g) of ChaTraMue instant red tea steeped in 300 ml of distilled boiled water for 5 min.
+
+Additionally, artificial saliva (pH 7.36) which consisted of Biotène Oral Balance Moisturizing Gel diluted at a ratio of 125 ml per 500 ml of distilled water, was used as a control. All beverages were fresh prepared and left to cool at room temperature before immersion period.
+
+Calculating the length of time for immersion
+
+According to the manufacturer, the average consuming time for one cup of coffee is 15 minutes and the average consumption is 3.2 cups daily. Therefore, the time that clear aligners contact with beverages in the oral cavity for one and two weeks corresponds to a period of 6 and 12 h, respectively [].
+
+Color differences (ΔE*) evaluation
+
+The Commission Internationale de l’Éclairage (CIE) has established the CIE L*-a*-b* system, a three-dimensional color description model. In this system, the L* axis stands for brightness, ranging from white (+ L*) to black (-L*). The a* axis describes color variation from green (-a*) to red (+ a*), whereas the b* axis represents the color spectrum from blue (-b*) to yellow (+ b*) []. The total color difference (ΔE*) between the sample group and the standard sample was calculated via the following formula: []
+
+ΔE* = [(ΔL*)+ (Δa*)+ (Δb*)]
+
+The National Bureau of Standards (NBS) quantifies the perception of color changes through visual inspection via the following formula: []
+
+NBS unit = ΔE* × 0.92.
+
+Table 1
+
+National bureau of standards rating []
+
+National bureau of standard units
+
+Definition of color difference
+
+0.0-0.5
+
+Trace (extremely slight change)
+
+0.5–1.5
+
+Slight (slight change)
+
+1.5-3.0
+
+Noticeable (perceivable)
+
+3.0–6.0
+
+Appreciable (marked change)
+
+6.0–12.0
+
+Much (extremely marked change)
+
+12.0 and more
+
+Very much (change to another color)
+
+The color of the samples was measured in CIE L*a*b* before immersion in beverages (T0), via an Ultrascan PRO (Hunter Lab, USA) spectrophotometer in Specular Component Included Reflectance mode, with a 7 mm area of view. The samples were then randomly divided into eight groups of immersion time and beverage type (22 samples per group). All the samples were immersed in a temperature-controlled chamber at 37 ± 1 °C for 6 h (T1) or 12 h (T2), after they were dried with tissue paper.
+
+Following immersion, the color of the samples was again measured via CIE L*a*b*. The color difference (ΔE*) was calculated according to the formula between T1 and T0, and between T2 and T0. The NBS unit was also computed. Statistical analyses were performed via the SPSS for Windows program, employing two-way ANOVA and multiple comparisons to evaluate the differences in color change (ΔE*) among the four clear aligner brands across different beverage types and immersion periods.
+
+Fourier transform infrared (FTIR) analysis
+
+All the brands of clear aligners used in this experiment were analyzed via an FTIR spectrophotometer (Spectrum One, PerkinElmer, Connecticut, USA) coupled with attenuated total reflectance technique (ATR) to examine the polymer composition of the surface of each aligner brand [,]. The scan resolution was set to 4 cm⁻¹, and the scan range was from 400 to 4000 cm⁻¹. The examination of FTIR comparing before and after immersion is conducted only in the group of color difference values (ΔE*) exceeding 3.3, which is considered clinically unacceptable [] to interpret the influence of beverages on the chemical and color stability of aligners.
+
+Surface characteristics
+
+Three new aligners per brand were prepared by the same method to color difference analysis and then coated with a thin film of gold by a sputter coating machine. The samples were examined on the outer and inner surfaces via a 3D laser scanning microscope (LEXT™ OLS5100, Olympus, Tokyo, Japan) at 10x magnification to analyze the surface of every aligner brands before immersion. The samples immersed in beverages for 12 h were examined to investigate surface characteristics after immersion.
+
+Statistical analysis
+
+Statistical analyses were performed using IBM SPSS Statistics software, version 29.0 (IBM, New York, NY, USA) to assess the color difference value of clear aligner brands effected from various beverages. An analysis of data normality using Shapiro-Wilks test revealed normal distribution. Two-way ANOVA and multiple comparisons using Bonferroni corrections were conducted to compare the color difference values ​​(ΔE*) between clear aligner brands in each beverage at two periods. One-way ANOVA and Tukey corrections were used to compare the surface roughness values (Sa). Avalue < 0.05 indicates a statistically significant.
+
+Results
+
+Color differences (ΔE*)
+
+After 6 and 12 h of immersion (Figs.and), coffee resulted in the greatest color change, followed by tea, cola, and artificial saliva (control). Color difference ​​(ΔE*) and standard deviation valves of all groups were presented in Table 2. When the same type of beverage was compared, all coffee-immersed brands were significantly different (< 0.001), except for the Beforedentand Käse Alignerbrands. In the tea group, Invisalignwas significantly different (< 0.001) from the other brands. Across all brands, no significant color difference was observed between cola and artificial saliva (control). Invisalignand ClearCorrectexhibited statistically significant differences in color change for each beverage (< 0.001). Beforedentand Käse Alignerdemonstrated significant color changes with each beverage (< 0.001), except for cola and tea at 6 h, and between cola and artificial saliva (control) at 12 h.
+
+Fig. 1
+
+Graph showing color differences (ΔE*) after 6 h immersion in all beverages
+
+Fig. 2
+
+Graph showing color differences (ΔE*) after 12 h immersion in all beverages
+
+Table 2
+
+Two-way ANOVA comparing color difference (ΔE*) values of four clear aligner brands in each beverage type at two periods
+
+Brand
+
+Tea
+
+Cola
+
+Coffee
+
+Saliva
+
+-value
+
+Mean
+
+SD
+
+IC
+
+Mean
+
+SD
+
+IC
+
+Mean
+
+SD
+
+IC
+
+Mean
+
+SD
+
+IC
+
+6 h
+
+Beforedent
+
+®
+
+1.12
+
+0.29
+
+aA
+
+0.84
+
+0.27
+
+aA
+
+1.65
+
+0.28
+
+aB
+
+0.43
+
+0.19
+
+aC
+
+< 0.001*
+
+Käse Aligner
+
+®
+
+1.00
+
+0.18
+
+aA
+
+0.82
+
+0.16
+
+aA
+
+1.48
+
+0.29
+
+aB
+
+0.42
+
+0.15
+
+aC
+
+< 0.001*
+
+Invisalign
+
+®
+
+2.13
+
+0.27
+
+bA
+
+0.88
+
+0.15
+
+aB
+
+5.82
+
+0.30
+
+bC
+
+0.44
+
+0.18
+
+aD
+
+< 0.001*
+
+ClearCorrect
+
+®
+
+1.16
+
+0.25
+
+aA
+
+0.82
+
+0.16
+
+aB
+
+2.26
+
+0.28
+
+cC
+
+0.44
+
+0.09
+
+aD
+
+< 0.001*
+
+P
+
+-value
+
+< 0.001
+
+0.944
+
+< 0.001
+
+0.997
+
+12 h
+
+Beforedent
+
+®
+
+1.28
+
+0.22
+
+aA
+
+0.88
+
+0.20
+
+aB
+
+1.82
+
+0.12
+
+aC
+
+0.58
+
+0.22
+
+aBD
+
+< 0.001*
+
+Käse Aligner
+
+®
+
+1.30
+
+0.21
+
+aA
+
+0.82
+
+0.18
+
+aB
+
+1.76
+
+0.17
+
+aC
+
+0.52
+
+0.12
+
+aBD
+
+< 0.001*
+
+Invisalign
+
+®
+
+2.43
+
+0.44
+
+bA
+
+0.87
+
+0.15
+
+aB
+
+8.90
+
+1.03
+
+bC
+
+0.49
+
+0.11
+
+aD
+
+< 0.001*
+
+ClearCorrect
+
+®
+
+1.51
+
+0.26
+
+aA
+
+0.84
+
+0.21
+
+aB
+
+3.53
+
+0.78
+
+cC
+
+0.50
+
+0.15
+
+aD
+
+< 0.001*
+
+P
+
+-value
+
+< 0.001
+
+0.931
+
+< 0.001*
+
+0.845
+
+* Indicates a statistically significant difference (< 0.05)
+
+Standard deviation,Intergroup comparison
+
+Intergroup comparison of color difference (ΔE*) values among various clear aligner brands using Bonferroni’s multiple comparison test. Different lowercase letters (a, b and c) indicate a statistically significant difference between clear aligner brands in each beverage type at each period (< 0.05). Different uppercase letters (A, B, C and D) show a statistically significant difference between beverage types in each clear aligner brand at each period (< 0.05).
+
+National bureau of standard units (NBS Unit)
+
+After immersion in beverages, color change levels (NBS unit, Table 1) showed extremely slight to slight changes in all groups, except for Beforedentand ClearCorrectin coffee, and Invisalignin tea, which exhibited perceivable changes. Invisalignin coffee showed a marked change after 6 h (Fig.). After 12 h (Fig.), perceivable changes were noted in Beforedentand Käse Alignerin coffee, as well as Invisalignin tea. ClearCorrectin coffee displayed a marked change, while Invisalignin coffee showed an extremely marked change.
+
+Fig. 3
+
+Graph showing the NBS unit after 6 h immersion in all beverages
+
+Fig. 4
+
+Graph showing the NBS unit after 12 h immersion in all beverages
+
+Fourier transform infrared (FTIR) analysis
+
+FTIR analysis revealed that Invisalignwas made from polyurethane (Fig.A), whereas Beforedentand Käse Alignerwere based on polyethylene terephthalate (Fig.B, C). ClearCorrectwas composed of polyester (Fig.D). The spectral features of as-received Invisalignand ClearCorrectsamples and after immersed in all beverages for 12 h do not significantly differ in overlay and vibration peaks. (Figuresand)
+
+Fig. 5
+
+The figures showed the FTIR spectra of the clear aligner: () Invisalign, () Beforedent, () Käse Aligner, () ClearCorrect
+
+Fig. 6
+
+The figures showed the FTIR spectra of as-received Invisaligncompared with samples immersed in all beverages for 12 h
+
+Fig. 7
+
+The figures showed the FTIR spectra of as-received ClearCorrectcompared with samples immersed in all beverages for 12 h
+
+Surface characteristics
+
+Before immersion, surface characteristics of Beforedentrevealed that the outer (Fig.A-C) and inner surfaces (Fig.D-F) were smooth and fine with a surface roughness (Sa) of 0.09 and 0.39 μm, respectively. Käse Alignerexhibited a smooth and homogenous outer surface with a surface roughness (Sa) of 0.07 μm (Fig.A-C). However, it displayed a regularly arranged pattern of pits with a narrow distance between the dots on the inner side; the surface roughness (Sa) is 0.54 μm (Fig.D-F).
+
+Fig. 8
+
+The figures showed surface characteristics of Beforedentbefore immersion in beverages: () Outer surface; () Inner surface
+
+Fig. 9
+
+The figures showed surface characteristics of Käse Alignerbefore immersion in beverages: () Outer surface; () Inner surface
+
+Invisalignfeatured a homogeneous rippling external surface, surface roughness (Sa) equal to 0.12 μm (Fig.A-C). Throughout the inner side, the parallel and wavy grooves appear, which had the highest surface roughness (Sa) of 1.97 μm (Fig.D-F) and were significantly different from others (< 0.001). ClearCorrecthad a relatively smooth outer surface, but was less homogeneous than others (Fig.A-C), whereas the inner side appeared to be uneven and had regular pits with a broad distance between them. The surface roughness (Sa) is 0.07 and 0.40 μm, respectively (Fig.D-F). Surface roughness values (Sa) and standard deviation values were presented in Table. There is no significant difference between surface roughness values (Sa) among clear aligner brands on the outer surface. Tukey’s multiple comparison test was used for intergroup comparison of surface roughness values (Sa) among various clear aligner brands on the inner surface. Different lowercase letters (a and b) show a statistically significant difference between clear aligner brands (< 0.05).
+
+Fig. 10
+
+The figures showed surface characteristics of Invisalignbefore immersion in beverages: () Outer surface; () Inner surface
+
+Fig. 11
+
+The figures showed surface characteristics of ClearCorrectbefore immersion in beverages: () Outer surface; () Inner surface:
+
+After 12 h of immersion, all groups exhibited no change in surface characteristics, but more pigments and impurities were presented. The accumulation of pigments and adulterated substances in Beforedent, Kase Alignerand ClearCorrectpredominantly occurs at the flat and extended area, while Invisalignpigmented depositons are found in both grooves and regions between grooves. The inner side of Invisalignshowed the highest porosity character (Figs.,,and).
+
+Table 3
+
+One-way ANOVA comparing surface roughness values (Sa) of four clear aligner brands on outer and inner surface
+
+Outer
+
+Inner
+
+Beforedent®
+
+3
+
+0.09
+
+0.06
+
+0.39
+
+0.18
+
+a
+
+Käse Aligner®
+
+3
+
+0.07
+
+0.01
+
+0.54
+
+0.31
+
+a
+
+Invisalign®
+
+3
+
+0.12
+
+0.05
+
+1.97
+
+0.49
+
+b
+
+ClearCorrect®
+
+3
+
+0.07
+
+0.04
+
+0.40
+
+0.01
+
+a
+
+P
+
+-value
+
+0.421
+
+0.001*
+
+* Indicates a statistically significant difference (P<0.05); SD Standard deviation, IC Intergroup comparison
+
+Fig. 12
+
+The figures showed surface characteristics of Beforedentafter 12 h of immersion in beverages: Outer surface; () Coffee, () Tea, () Cola, () Artificial saliva Inner surface; () Coffee, () Tea, () Cola, () Artificial saliva
+
+Fig. 13
+
+The figures showed surface characteristics of Käse Alignerafter 12 h of immersion beverages: Outer surface; () Coffee, () Tea, () Cola, () Artificial saliva Inner surface; () Coffee, () Tea, () Cola, () Artificial saliva
+
+Fig. 14
+
+The figures showed surface characteristics of Invisalignafter 12 h of immersion in beverages: Outer surface; () Coffee, () Tea, () Cola, () Artificial saliva Inner surface; () Coffee, () Tea, () Cola, () Artificial saliva
+
+Fig. 15
+
+The figures showed surface characteristics of ClearCorrectafter 12 h of immersion in beverages: Outer surface; () Coffee, () Tea, () Cola, () Artificial saliva Inner surface; () Coffee, () Tea, () Cola, () Artificial saliva
+
+Discussion
+
+Currently, clarity and resistance to discoloration are primary factors for patients to choose clear aligner treatment. Noticeable color changes in aligners can affect a patient’s self-esteem and confidence in social interactions, potentially leading to noncompliance to the treatment plan and the dentist’s recommendations. This can also affect the overall treatment timeline and costs.
+
+The Ultrascan PRO (Hunter Lab, USA), a high-performance spectrophotometer designed for demanding research and quality control applications, was used in this study to measure the CIE L*a*b* color directly on the surface of the aligners. This method enhances measurement accuracy compared with scanning the aligner as an image and then analyzing the color via Photoshop software, which could introduce errors in data acquisition []. Similarly, portable colorimeters are used in clinical or industrial applications where ambient light cannot be controlled [,–].
+
+The clear aligners selected for our study were mostly available in Thailand. Beforedentand Käse Aligner, have previously been evaluated in a few studies for their color stability properties. The chosen beverages were popular colored drinks commonly consumed by the public. The study duration was based on the manufacturer’s recommended wearing time for aligner, which was one to two weeks per piece. The immersion time of more than 12 hours in the previous studies may not stimulate the clinical setting. In this study, the color stability of a clear aligner with a 6-hour exposure period was evaluated corresponding to one week of beverage exposure in the oral cavity [].
+
+Invisalignexhibited the most significant color changes, followed by ClearCorrect, while Beforedentand Käse Alignershowing similar levels of color change. Compared with other brands, Invisalignwas significantly more prone to staining when immersed in tea and coffee. The color difference value (ΔE*) for Invisalignafter 6 and 12 h of immersion in coffee exceeded a ΔE* of 3.3, which is considered clinically unacceptable []. ClearCorrectalso exhibited a similar level of discoloration of more than ΔE* of 3.3 after 12 h of immersion in coffee. Consistent with studies by Liu and Sun [], Bernard and Rompré [] and Šimunović [], Invisalignwas found to exhibit greater discoloration than Angelalign, Smartee, ClearCorrect, and Minor Tooth Movementafter immersion in coffee, black tea and red wine for 12 hours and 7 days. Salvatori et al. [] compared staining resistance of Invisalignand ClearCorrectin coffee, cola, red wine and mustard for 24 hours, ClearCorrectexhibited less staining than Invisalign. Furthermore, Daniele et al. [] showed that Invisalignhas the greatest and very marked color change after 14 days of immersion in both coffee and red wine. However, ΔE*of ClearCorrectafter immersing in coffee for 12 hours in Bernard’s study does not exceed 3.3. The lower ΔE* may have resulted from the concentration of coffee and the immersion in distilled water before analysis. On contrary, Ajwa et al. [] found no significant color difference among Invisalign, EON, Clear Capand K clearafter immersion in Pepsi, orange juice, milk, coffee and black tea for 12 hours and 7 days. Although Beforedentand Käse Aligneralso showed color differences after immersion in tea and coffee, their ΔE* values were less than 3.3, which is considered clinically acceptable []. For all aligner brands in cola and artificial saliva, the color differences were extremely slight to slight change.
+
+The types of thermoplastics used in manufacturing are crucial to color stability of clear aligners. FTIR analysis in the present study, revealed that Invisalignis made from polyurethane, which aligns with previous studies and manufacturer information indicating that the SmartTrack™ model (LD30) is a multilayer aromatic thermoplastic polyurethane with layers arranged as PETG inside and paired with polyurethane outer [,,,,,,]. This material is synthesized from methylene diphenyl diisocyanate, which reacts with 1,6-hexanediol and other proprietary components. The high polarity of the carbamate group (-NHCOO-) in the chemical structure makes polyurethane more susceptible to form hydrogen bonds with water and hydrophilic pigments [,,]. In addition, when polyurethane is exposed to ultraviolet (UV) and oxygen, an oxidation reaction takes place. The urethane group oxidizes to a quinone structure, a yellowish chromophore that causes the polyurethane to turn yellow [,]. This increased susceptibility leads to greater color changes than those of Beforedentand Käse Aligner, which are primarily composed of polyethylene terephthalate (PET). PET is a polyester formed by the reaction between ethylene glycol and terephthalic acid, featuring an ester group (-C = O-) that is less polar than the carbamate group. Similarly, Zhang et al. reported that the water absorption rate of PETG/PC/TPU polymer blends increased with increasing polyurethane content []. Additionally, studies by Daniele et al. revealed that clear polyurethane aligners had greater water absorption than polyethylene terephthalate glycol (PETG) did [,]. Increased water absorption causes the material to swell, leading to microcracks that allow pigments from the surrounding environment to penetrate the aligner [].
+
+According to a few studies published before the Year 2020, ClearCorrectwas made from polyurethane material []. However, our FTIR analysis indicated that ClearCorrectis made from polyester which represents an advancement in technologies aimed at reducing aligner discoloration. From the manufacturer data, ClearCorrectis produced via ClearQuartz™ technology and consists of three layers of material, offering low porosity and stain resistance on both outer sides. FTIR analysis indicated that it is a polyester. Supported by the FTIR studies by Šimunović in 2023 and 2024 [,] and chemical imaging study via Raman microscopy of Salvatori et al. in 2025 [], Clearcorrectand Zendura FLX, commonly used in ClearCorrect aligners [] are three elastomeric layers consisting of an outer PETG and a central polyurethane-based material. Consequently, ClearCorrecthas a chemical composition characterized by a less polar ester group (-C = O-) in the outer layer and a highly polar carbamate group (-NHCOO-) in the inner layer. This structure makes ClearCorrectmore prone to discoloration than Beforedentand Käse Aligner, but less prone than Invisalign.
+
+To overcome the creep and stress relaxation problem of clear aligner. Some manufacturers develop their products as multilayer sheets, which offer greater flexibility, patient comfort and continuous force in tooth movement than single-layer sheets [,]. Differences in the structure of the thermoplastic layer explained the differences in color changes between Invisalignand ClearCorrect. A recent study, Salvatori et al. [] investigated a cross-section of Invisalignand ClearCorrectby stereomicroscope. The SmartTrack™ is composed of a thick-core rigid polyester and a thinner layer of polyurethane with a thickness of 0.05–0.06 mm. The absorption of the color compounds occurred along the outer surface of the high polarity and hydrophilic polyurethane. Whereas the three layers of ClearQuartz™ have similar thicknesses of approximately 0.15 mm. The outer layer of rigid polyester acts as a barrier to prevent the staining from reaching the polyurethane core, which is confirmed by the absorption of the color compounds only at the middle layer of the polyurethane exposed to the environment at the trimming line.
+
+Coffee has been shown to cause the greatest degree of discoloration in several studies of dental materials [,,,,,,,]. Similarly, this study revealed that coffee resulted in the greatest discoloration of clear aligners, followed by tea, cola, and artificial saliva (control). The yellow colorants in coffee are less polar and less hydrophilic than those in tea, allowing them to penetrate the nonpolar regions of the clear aligner more effectively. Moreover, the discoloration from coffee is attributed to the adsorption of pigments on the surface and their penetration into the material, whereas the yellow pigments in tea primarily result from surface adsorption []. Cola caused only slight color changes and did not significantly differ from artificial saliva (control) across all brands. Bernard and Rompré noted that the yellow pigments in cola, classified as class IV caramel, are less abundant than those in tea and coffee [,]. While the low pH of the cola can lead to changes in the surface of dental materials, it does not significantly contribute to increased discoloration []. The artificial saliva used as a control solution is slightly alkaline, similar to human saliva pH 6.2–7.6, in order to provide the oral stimulation [].
+
+Additionally, the difference in spectrum profiles and vibration peaks between as-received and clear aligner samples exposed to various beverages for 12 hours cannot be detected, suggesting that observed staining does not influence chemical alteration and spectral features. ClearCorrectand Invisalignhave proper composition integrity. The lack of differences among the spectral features between as-received and each beverage group is in agreement with previous results that no significant chemical differences were found before and after immersions in coffee solution. The spectra after staining almost overlapped with as-received [,]. On the contrary, the research of Simunovic et al. in 2024 [] studied the color and chemical stability of aligners by investigating FTIR before and after immersion. PETG of ClearCorrectexposed to cola exhibited significant changes in the FTIR spectrum through the weak band at 1534 cmand a broad and weak band in the region of the stretching vibration of N-H or O-H bonds. Polyurethane of Invisalignshowed weak band of C-H bond (730 cm) after kept in tea. The sample exposed to coffee and cola exhibited significant intensity of C-H bond, weakening of stretching C = C and bending of N-H bond, presence of new peaks and change in vibration mode of the ester linkage. The reduction of hydrogen bonds and the increase of non-hydrogen-bonded carbonyl band and non-hydrogen-bonded N-H stretching were also found.
+
+The microcracks and microfissures formed on the surface during processing, facilitate the penetration and accumulation of color pigments on the aligner surface []. Materials’ surface characteristics, such as roughness and surface porosity, might also accelerate pigment accumulation and directly correlate with the level of staining [,]. The more irregular the surface, the more contact surfaces for absorption and adsorption are presented. Although color change of the clear aligner may be influenced by thickness because of the volume of fluid retention. All the samples in the study were of equal thickness 0.5 to 0.55 mm. Surface features after 12 h of immersion are similar to before, indicating that the beverage does not affect the surface characteristics, but the surface has more pigments and adulterated substances deposited, particularly in the area between the pits or bulges. Beforedentexhibited less discoloration due to its relatively fine and smooth surface, which less grooves, pits or bulges on either side, resulting in a minimal contact area to the color solution. The inner surface of the Käse Alignerhad a pattern of pits, which were uniformly arranged with a narrow space between pits, resulting in a less pigment accumulation area than in ClearCorrect, with uneven shallow pits and a wide space between the pits. Inconsistent with the previous study, Invisalign had regular and homogeneously distributed wrinkles and rougher than PETG-based aligner [,]. It showed a large contact area because of dense, wavy parallel grooves or ridges on the inner side. The porosity and roughness surface of Invisalignmake it particularly susceptible to pigment accumulation in both the grooves and the space between them. Thermoforming manufacturing explains the different patterns and depths of the surface characteristics of each piece. The process consisted in heating the thermoplastic sheet to a pliable forming temperature. The sheet is stretched over the mold to obtain the required shape. The results confirmed that surface roughness and characteristics influence the color retention of clear aligners. One of the limitations of the study was the transparency of the clear aligner. The samples should be covered with gold film before examining surface characteristics to enhance the accuracy and focus of the 3D laser scanning microscope at the surface level.
+
+Based on in vitro experimental studies, fully simulated oral environment including plaque, saliva, temperature, pH variation and various forces acting on clear aligners, is difficult. Additionally, the wearing and cleaning behaviors of patients can significantly impact the color stability of clear aligners. Future clinical studies on the color stability of clear aligners in patients or an in vitro study that reproduces the cycling of immersing in beverage and cleaning, combined with questionnaires measuring the perception level of color change in patients, will be valuable for this important aspect. However, this previous study concludes that consuming colored beverages, particularly coffee, while wearing clear aligners should be strictly avoided to prevent discoloration and maintain transparency. In clinical applications, polyester or polyethylene terephthalate clear aligners may be the preferred treatment option for coffee addicts and patients with high aesthetic concerns. It is advisable to use a straw to reduce the contact of aligners and beverages. Regularly proper cleaning methods, mechanical cleaning such as gentle brushing, ultrasonic cleaning, as well as chemical orthodontic appliance cleaner, should be recommended to patients as these have been proved to be effective in removing plaque and stains [,,].
+
+Conclusions
+
+Invisalignwhich is polyurethane showed the most significant color changes, followed by ClearCorrect, whereas Beforedentand Käse Alignerdemonstrated similarity and the least color changes. Coffee caused the most discoloration of clear aligners, followed by tea, cola, and artificial saliva (control). After 6 h (stimulating 1 week) and 12 h (stimulating 2 weeks) of immersion, all the groups represented good color stability (ΔE*<3.3), except for Invisalignimmersed in coffee for 6 h, and both Invisalignand ClearCorrectimmersed in coffee for 12 h. The removal of clear aligner before beverages consumption is recommended.

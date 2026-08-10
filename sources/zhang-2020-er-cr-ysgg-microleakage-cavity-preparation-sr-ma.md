@@ -17,13 +17,21 @@ text_filename: zhang-2020-er-cr-ysgg-microleakage-cavity-preparation-sr-ma.txt
 
 사용자 요청: 용도별 핸드피스 적응증·bur 종류별 역할 풀텍스트 인제스트. `dental-handpiece` 카테고리에서 회전식 bur의 대안 cutting instrument(Er,Cr:YSGG 레이저) 적응증을 정량 비교한 첫 SR+MA — "언제 레이저, 언제 bur"라는 instrument 선택 질문에 직접 답한다. 같은 카테고리의 Er:YAG 레이저 vs bur caries removal을 다룬 [[dental-handpiece/matys-2020-dental-aerosol-hazard-risk-dental]]를 수복 marginal seal 결과로 확장.
 
-## One-line Summary
+## Three-line Summary
 
 First SR+MA (13 in-vitro studies, 11 meta-analyzed) finding Er,Cr:YSGG laser cavity preparation produces microleakage equivalent to traditional burs, and that adjunctive acid etching significantly improves self-etch adhesive sealing after laser preparation.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 첫 SR+MA(인비트로 13편, 11편 메타분석) — Er,Cr:YSGG 레이저 와동형성은 전통적 bur와 미세누출이 동등하며, 레이저 형성 후 자가부식 접착제에 산부식을 추가하면 미세누출이 유의하게 감소.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

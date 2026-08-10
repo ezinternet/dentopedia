@@ -17,13 +17,21 @@ source_collection: external
 
 상악동 격벽 (Sinus Septa)의 **모집단 유병률 기준치**가 없으면 천공 위험 SR+MA (Yang 2024)의 OR을 임상 절대위험으로 변환할 수 없음. 본 SR+MA (Henriques 2022, 62편, 22,460개 상악동)는 분모(유병률)를 제공하는 유일한 대형 메타분석으로, [[wiki/overviews/sinus-lift-lateral-2026-synthesis]] Cluster 2 "Septa" 절의 해석 기반을 완성한다. Yang 2024가 *관계* (OR)를 정량화했다면, Henriques 2022는 *빈도* (유병률 33.2%/상악동, 41.0%/환자)를 정량화한다 — 두 페이지는 상보적이다.
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 62 studies (22,460 sinuses; 13,701 patients) reporting maxillary sinus septa prevalence of 33.2% per sinus and 41.0% per patient by CBCT/CT, with septa most common in the mid-sinus region with transverse orientation (86%).
+SR+MA of 62 studies (22,460 sinuses;
 
-## 한줄요약
+13,701 patients) reporting maxillary sinus septa prevalence of 33.2% per sinus and 41.0% per patient by CBCT/CT, with septa most common in the mid-sinus region with transverse orientation (86%).
 
-SR+MA (62편, 22,460개 상악동): CBCT/CT 기반 상악동 격벽 (Sinus Septa) 유병률 상악동당 33.2%, 환자당 41.0%; 중간부 위치·횡단 방향 (86%)이 가장 흔하며 상악동저 거상술 성공에 직접 영향.
+(incomplete)
+
+## 세줄요약
+
+SR+MA (62편, 22,460개 상악동): CBCT/CT 기반 상악동 격벽 (Sinus Septa) 유병률 상악동당 33.2%, 환자당 41.0%;
+
+중간부 위치·횡단 방향 (86%)이 가장 흔하며 상악동저 거상술 성공에 직접 영향.
+
+(incomplete)
 
 ## 1. Document Information
 

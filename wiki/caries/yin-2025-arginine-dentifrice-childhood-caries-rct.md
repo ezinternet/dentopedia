@@ -6,7 +6,7 @@ date: 2025-08-12
 doi: 10.1177/23800844251361471
 source: yin-2025-arginine-dentifrice-childhood-caries-rct.md
 category: caries
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: true
 pmid: "40794532"
@@ -20,13 +20,21 @@ relations:
     target: urquhart-2019-nonrestorative-treatments-caries-network-meta-analysis
 ---
 
-## One-line Summary
+## Three-line Summary
 
-2-year phase-3 double-blind 3-arm RCT (n=6,000 children, 10–14 y, 3 centers China): 8.0% arginine dentifrice gave a 26.0% DMFS / 25.3% DMFT reduction vs 0.32% NaF (P<.001), while 1.5% arginine was equivalent to NaF — arginine is an effective, dose-dependent fluoride-free anticaries alternative.
+Phase-3 double-blind 3-arm parallel RCT (n=6,000 children aged 10–14 years, 3 centers in China; April 2019–March 2022; ITT, 89.1% completion) comparing 8.0% arginine (CaCO₃), 1.5% arginine (CaCO₃), and 0.32% NaF (1450 ppm, silica base, positive control), all brushed twice daily for 24 months.
 
-## 한줄요약
+8.0% arginine was superior to NaF (DMFS reduction 26.0%, DMFT 25.3%, both P<.001); 1.5% arginine was equivalent to NaF (noninferior parity, P=.819); the anticaries effect was dose-dependent and consolidating over 12–24 months.
 
-2년 3상 이중맹검 3군 RCT (어린이 6,000명, 10–14세, 중국 3개 센터): 8.0% 아르기닌 치약이 0.32% 불화나트륨(NaF) 대비 우식 26.0% DMFS / 25.3% DMFT 감소(P<.001), 1.5% 아르기닌은 NaF와 동등 — 아르기닌은 용량 의존적인 효과적 불소-비함유 우식 예방 대안.
+8.0% arginine provides a fluoride-free alternative that outperforms standard fluoride toothpaste and can support counseling when fluoride is contraindicated, refused, or dental fluorosis is a concern; 1.5% arginine matches fluoride-level protection.
+
+## 세줄요약
+
+3상 이중맹검 3군 평행 RCT(중국 3개 센터 10–14세 아동 6,000명; 2019–2022; ITT, 완료율 89.1%) — 8.0% 아르기닌(CaCO₃), 1.5% 아르기닌(CaCO₃), 0.32% NaF(1450 ppm, 실리카, 양성 대조) 치약을 매일 2회 24개월 사용 비교.
+
+8.0% 아르기닌이 NaF 대비 우수(DMFS 26.0%·DMFT 25.3% 감소, 둘 다 P<.001); 1.5% 아르기닌은 NaF와 동등(비열등, P=.819); 항우식 효과 용량 의존적, 12–24개월에 걸쳐 통합됨.
+
+8.0% 아르기닌은 표준 불소 치약을 능가하는 불소-비함유(fluoride-free) 대안; 불소 금기·거부·치아불소증 우려 시 권고 근거; 1.5% 아르기닌은 불소 수준의 예방 효과 제공.
 
 ## Summary
 

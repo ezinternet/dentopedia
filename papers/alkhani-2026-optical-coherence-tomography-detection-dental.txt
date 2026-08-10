@@ -1,0 +1,503 @@
+1
+
+Introduction
+
+A tooth crack is a fracture plane of unknown depth and direction passing through the tooth structure that may progress to communicate with the dental pulp and/or periodontal ligament (Ellis). The American Association of Endodontists classifies longitudinal tooth fractures into five distinct types based on their location, extent, and clinical implications (Rivera and Walton). Craze lines are superficial cracks that affect only the enamel and are typically asymptomatic, posing no risk beyond aesthetics (Ellis; Rivera and Walton; Tsesis et al.; Haupt et al.). Fractured cusps involve a complete or incomplete break starting from the crown and extending subgingivally, typically affecting one cusp and often associated with large restorations (Ellis; Rivera and Walton; Tsesis et al.; Haupt et al.). A cracked tooth features an incomplete fracture initiated from the crown that extends subgingivally, typically mesiodistally, potentially involving both marginal ridges and progressing apically, all of which are challenging to diagnose and treat (Ellis; Rivera and Walton; Tsesis et al.; Haupt et al.). Split teeth is an advanced stage of a cracked tooth, where the fracture extends completely from the crown to the root, separating the tooth into distinct segments; treatment options are limited, often requiring extraction or removal of the smaller fragment with possible retention of the remaining tooth (Ellis; Rivera and Walton; Tsesis et al.; Haupt et al.). The final form of cracks and the most notable in endodontics is the vertical root fractures (VRFs). VRFs are forms of cracks, characterized by cracks extending between the root and crown that result in tooth loss (Ellis; Rivera and Walton; Tsesis et al.; Haupt et al.). This presents significant diagnostic and therapeutic challenges in Clinical Endodontics due to their subtle clinical presentations and multi‐factorial etiology (Haupt et al.; Torabinejad et al.). According to published cases related to VRFs, fractures are notably prevalent in endodontically treated teeth subjected to excessive removal of tooth structure, potential undesirable force implications during root canal obturation, posts, and/or post‐space preparation.
+
+Age and gender influence the VRF incidence. VRF's rates are 78.5% high in patients over 40, with a peak at 37% in ages 40–49, followed by ages 50–60 at 28.13% (Pack; Nicopoulou‐Karayianni et al.; Cohen et al.; Wilcox et al.; Chan et al.). Some studies noted high prevalence in females (67.35%:32.65%) in endodontically treated teeth (Torabinejad et al.; Nicopoulou‐Karayianni et al.; Chan et al.; Khasnis et al.; Lee et al.). Interestingly, epidemiological studies reported that 10.9% of dental extractions are due to VRFs, with maxillary second premolars and mandibular molars being the most affected (Cohen et al.; Tamse et al.; Talwar et al.). The prevalence of VRFs in extracted endodontically treated teeth ranges from 2% to 20%, highlighting significant clinical variability (Lee et al.; Rathke et al.; Mireku et al.).
+
+Management of cracks depending on the severity and extent could be using resin composite restorations by sealing cracks and/or incorporating extra‐coronal restorations (Pack; Nicopoulou‐Karayianni et al.; Cohen et al.; Tamse et al.; Sugaya et al.; Meister et al.; Habibzadeh et al.; Lim et al.; Lertchirakarn et al.; Lustig et al.; Mullally and Ahmed; Patel et al.; Corbella et al.; Chang et al.; PradeepKumar et al.; Hu, Cao et al.; Hu, Pan et al.). However, the overall prognosis of a tooth with VRF is generally poor/hopeless, necessitating either extraction or removal of the fractured root (Pack; Nicopoulou‐Karayianni et al.; Cohen et al.; Tamse et al.; Meister et al.; Habibzadeh et al.; Lim et al.; Lertchirakarn et al.; Lustig et al.; Mullally and Ahmed; Patel et al.; Corbella et al.; Chang et al.; PradeepKumar et al.; Hu, Cao et al.; Hu, Pan et al.). Figurerepresents a patient who was diagnosed with the VRF and treatment was carried out in the United States. This highlights the critical importance of early and accurate diagnosis. In this respect, the time interval between dental procedures and VRF detection was reported between 3.25 and 10 years (Pack; Cohen et al.; Chan et al.; Meister et al.; Hu, Pan et al.).
+
+Conventional radiographs show limited efficacy in diagnosing VRFs, especially in the early stages (Figure). This technique requires specific beam angulation and may fail to detect fractures if/when there is a fragment separation (Haupt et al.; Torabinejad et al.; Pack; Rathke et al.; Moule and Kahler; Chai and Tamse,; von Arx et al.; Walton). Some radiographical characteristics include displacement of fractured fragments, radiolucent lines within the root canal system, periapical radiolucency in late stages mostly resembling J‐shaped patterns, and/or widening of the periodontal ligament space (Haupt et al.; Torabinejad et al.; Pack; Rathke et al.; Moule and Kahler; Chai and Tamse,; von Arx et al.; Walton). However, the lack of accuracy in the signs and symptoms renders diagnosing VRFs challenging without advanced imaging techniques (Haupt et al.; Mireku et al.; Moule and Kahler).
+
+Cone beam computed tomography (CBCT) is a valuable tool for diagnosing VRFs, with more specificity in late stages, since this technique provides detailed three‐dimensional imaging of dental structures, facilitating comprehensive diagnostics (Figure) (Fuss et al.). Despite its utility, there is insufficient evidence to suggest that CBCT is a reliable test for detecting VRFs, especially in teeth with intracanal materials (Khasnis et al.; Rathke et al.; Chai and Tamse,; von Arx et al.; Walton; Fuss et al.; Haueisen et al.). In addition, CBCT exposes patients to high radiation doses in comparison to conventional radiographs, raising concerns about its routine use (Fuss et al.). A clinical presentation of both radiographs and CBCT can be seen in Figure.
+
+Optical coherence tomography (OCT) is a non‐invasive imaging technique that has emerged as a potential technology for its accuracy and non‐invasive techniques (García‐Guerrero et al.; Schweitzer et al.). This system was developed in 1991 at MIT for Ophthalmology (García‐Guerrero et al.). Subsequently, the successful in vivo measurements of the human retina in Vienna (1993), Zeiss‐Humphrey launched the first commercial OCT device in 1996, which allowed the introduction of this tool to dentistry (Huang et al.; Fercher et al.,; Wilder‐Smith et al.). The technique is based on low‐coherence interferometry, offering high‐resolution, cross‐sectional images of dental tissues that aimed to improve diagnostic accuracy and treatment planning (Machoy et al.; Liao et al.).
+
+OCT uses low‐coherence interferometry utilizing near‐infrared light to capture detailed images of tissue microstructures. The light is split into two paths: one directed at the tissue and the other at a reference mirror (Vadivambal and Jayas). The reflected light from both paths is combined to create an interference pattern, used to construct a high‐resolution cross‐sectional image (Sharma et al.). Unlike ultrasound imaging, which uses sound waves, OCT employs light waves, resulting in superior resolution. The primary types of OCT are categorized based on their image acquisition methods:
+
+OCT allows for the non‐invasive visualization of dental tissues such as enamel, dentin, and dental pulp, facilitating early detection of dental caries, assessment of tooth structure integrity, and monitoring of treatment progress (Machoy et al.). Specific applications of OCT in clinical practice are listed in Table.
+
+OCT has been used previously in studies to diagnose dental cracks. Figurepresents a clinical use of OCT to detect cracks on clinical dental crowns. Despite its promise, OCT's current design is not yet optimized for widespread commercial use in endodontics to diagnose cases like VRFs (García‐Guerrero et al.; Schweitzer et al.). Challenges include limited penetration depth in dental hard tissues and the need for specialized equipment adaptations for intra‐oral use (Shemesh et al.; Al Shehadat and Jain; Imai et al.; Schneider et al.).
+
+To be able to address this with future research, a thorough understanding of OCT's current innovations and limitations is required. Therefore, this scoping review aims to synthesize existing evidence on the application of OCT for detecting dental cracks and VRFs, with particular focus on its diagnostic performance, technological limitations, and potential for clinical adoption. The review also seeks to identify current gaps in the literature to inform future research.
+
+Figure 1
+
+A case of a vertical root fracture in a patient's upper left second molar. Picture A: Pre‐operative periapical radiograph. Picture B: Post‐operative radiograph after extraction. Picture C: Fractured tooth in a similar orientation to the periapical radiograph. Picture D: Occluso‐apical view of the split tooth segments. Picture E: Sagittal view of the CBCT scan, the arrow indicates a VRF from the occlusal surface to the bifurcation area. Picture F: Axial view of the same CBCT at the level of the bifurcation area, the arrow indicates the area of the VRF where it terminates. Picture G: Axial view of the same CBCT at the level of the pulp chamber area, the arrow indicates the area of the VRF.
+
+Figure 2
+
+A scan of a crack in the upper right first molar using Swept Source Optical Coherence Tomography. Picture A: An intra‐oral pre‐operative photograph of the cracked tooth, with a distinct lesion at the occlusal area after the removal of Class 1 metal inlay (arrow). Picture B: 3D imaging of the first molar using SS‐OCT. 3D SS‐OCT system using high‐frequency swept laser light with a center wavelength of 1310 nm and a scanning range of 140 nm at 50 KHz (Yoshida Dental Mfg., Tokyo, Japan). Left: 3D image. Upper right: 2D image along the red square line in 3D image. Lower right: 2D image along the green square line in a 3D image. Dentin crack was imaged as a white line penetrating the cavity floor (arrows). Picture C: plain reconstruction without scan sections, with the location of the dentin crack clearly shown as a white line (arrows). Picture D: intraoral photograph of the same tooth after caries removal, where the presence of dentin crack was visibly confirmed (arrows).
+
+Table 1
+
+Specific applications of OCT in dental practice.
+
+Application fields
+
+OCT use
+
+Restorative dentistry/Cariology
+
+Detection of early dental caries before radiographic appearance, monitoring caries progression post‐minimally invasive treatment, and assessment of enamel defects like Molar Incisor Hypoplasia and non‐carious tooth surface loss (Janjua et al.).
+
+Fixed prosthodontics
+
+Evaluation of the fit and marginal integrity of fixed partial dentures, crowns, lumineers, and veneers to ensure proper fit and cementation (Sharma et al.).
+
+Implant dentistry
+
+Assessment of implant proximity to vital structures, implant‐abutment fit, and peri‐implant tissue health, including detection of peri‐implant mucositis (Shemesh et al.).
+
+Periodontology
+
+Visualization of periodontal structures, measurement of pockets and sulcus depths, and assessment of gingival regeneration post‐treatment (Liao et al.).
+
+Orthodontics
+
+Evaluation of enamel surface characteristics post‐treatment and identification of adhesive remnants after debonding to prevent enamel damage (Janjua et al.).
+
+Oral pathology
+
+Detection of dysplasia, vesiculobullous lesions, and malignancies. Offering real‐time, high‐resolution images for diagnosis and monitoring (Sharma et al.).
+
+Endodontics
+
+Evaluation of internal tooth structures, such as cracks, fissures, and root fractures. Assessment of root canals during and after treatment (Shemesh et al.).
+
+John Wiley & Sons, Ltd.
+
+2
+
+Methodology
+
+This review followed up the five stages of Scoping review by Mak and Thomas ():
+
+Subsequently, the PRISMA Extension for Scoping Reviews (PRISMA‐ScR) framework was employed (Tricco et al.). The protocol was registered at the Open Science Framework and is available at the following link:.
+
+2.1
+
+Research Question
+
+The research question was formulated based on the population, concept, and context framework (Pinto et al.) with the eligibility criteria (PCC Framework):
+
+Teeth with cracks or VRFs
+
+Use of OCT imaging
+
+In vitro, ex vivo, or clinical studies
+
+Original studies, theses, or book chapters published in the last 20 years
+
+A scoping literature review was conducted to investigate the use of OCT as a diagnostic tool for cracks, including VRFs. The review aimed to address the question of “What do we currently know about OCT and what are the current gaps in the literature for it to be potentially used in diagnosing cracks, which may sometimes present as VRFs?”. To answer these questions broadly, specific terms in this review were used, including “Optical Coherence Tomography,” “Swept Source OCT,” and “Spectral Domain OCT,” with variations related to Endodontics, Periodontics, Endodontic‐Periodontics, and Cracks and VRFs (Tsesis et al.).
+
+2.2
+
+Literature Search Strategy
+
+A comprehensive search was conducted using PubMed, Scopus, Embase, EBSCOhost, and Google Scholar, covering publications up to January 2025 without any language restrictions. Tablerepresents the search strategies used to collect data from the various databases. Controlled vocabulary (e.g., MeSH, Emtree) and relevant free‐text keywords (e.g., “Optical Coherence Tomography,” “Swept Source OCT,” “Spectral Domain OCT,” “tooth cracks,” and “vertical root fractures”) were combined using Boolean operators.
+
+In addition to peer‐reviewed articles, books and dissertations were included by searching ProQuest Dissertations and Theses Global, EBSCO Open Dissertations, and university repositories. Reference books were screened via dental specialty reading lists and library databases. Manual searches of specialty journals, conference abstracts, and reference lists of included articles ensured comprehensive coverage. Articles were included if they addressed OCT use in detecting dental cracks or VRFs and were published within the last 20 years (Tsesis et al.; Haupt et al.).
+
+Table 2
+
+Search strategy for all databases used to collect data for this study.
+
+Database
+
+Search strategy
+
+PubMed
+
+(“Optical Coherence Tomography”[MeSH] OR “OCT” OR “Time‐Domain OCT” OR “TD‐OCT” OR “Fourier‐Domain OCT” OR “FD‐OCT” OR “Spectral‐Domain OCT” OR “SD‐OCT” OR “Swept‐Source OCT” OR “SS‐OCT”) AND (“Endodontics”[MeSH] OR “endodontics” OR “root canal” OR “VRF” OR “vertical root fracture”) AND (“Cracked teeth” OR “dental cracks” OR “tooth fractures” OR “enamel cracks” OR “root cracks”) OR (“Periodontics”[MeSH] OR “periodontics” OR “endodontic‐periodontics”).
+
+Scopus
+
+TITLE‐ABS‐KEY(“Optical Coherence Tomography” OR “OCT” OR “Time‐Domain OCT” OR “TD‐OCT” OR “Fourier‐Domain OCT” OR “FD‐OCT” OR “Spectral‐Domain OCT” OR “SD‐OCT” OR “Swept‐Source OCT” OR “SS‐OCT”) AND TITLE‐ABS‐KEY(“endodontics” OR “root canal” OR “VRF” OR “vertical root fracture”) AND TITLE‐ABS‐KEY(“cracked teeth” OR “dental cracks” OR “tooth fractures” OR “enamel cracks” OR “root cracks”) OR TITLE‐ABS‐KEY(“periodontics” OR “endodontic‐periodontics”).
+
+EBSCOhost (CINAHL/Medline)
+
+(TI OR AB)(“Optical Coherence Tomography” OR “OCT” OR “Time‐Domain OCT” OR “TD‐OCT” OR “Fourier‐Domain OCT” OR “FD‐OCT” OR “Spectral‐Domain OCT” OR “SD‐OCT” OR “Swept‐Source OCT” OR “SS‐OCT”) AND (TI OR AB)(“endodontics” OR “root canal” OR “VRF” OR “vertical root fracture”) AND (TI OR AB)(“cracked teeth” OR “dental cracks” OR “tooth fractures” OR “enamel cracks” OR “root cracks”) OR (TI OR AB)(“periodontics” OR “endodontic‐periodontics”).
+
+Google Scholar
+
+“Optical Coherence Tomography” OR “OCT” OR “Time‐Domain OCT” OR “TD‐OCT” OR “Fourier‐Domain OCT” OR “FD‐OCT” OR “Spectral‐Domain OCT” OR “SD‐OCT” OR “Swept‐Source OCT” OR “SS‐OCT” AND “endodontics” OR “root canal” OR “VRF” OR “vertical root fracture” AND “cracked teeth” OR “dental cracks” OR “tooth fractures” OR “enamel cracks” OR “root cracks” OR “periodontics” OR “endodontic‐periodontics”.
+
+Embase (via Ovid)
+
+(‘optical coherence tomography’/exp OR ‘optical coherence tomography’ OR ‘OCT’ OR ‘time‐domain oct’ OR ‘td‐oct’ OR ‘fourier‐domain oct’ OR ‘fd‐oct’ OR ‘spectral‐domain oct’ OR ‘sd‐oct’ OR ‘swept‐source oct’ OR ‘ss‐oct’) AND (‘endodontics’/exp OR ‘endodontics’ OR ‘root canal’ OR ‘VRF’ OR ‘vertical root fracture’) AND (‘cracked tooth’/exp OR ‘cracked teeth’ OR ‘dental cracks’ OR ‘tooth fractures’ OR ‘enamel cracks’ OR ‘root cracks’) OR (‘periodontics’/exp OR ‘periodontics’ OR ‘endodontic‐periodontics’).
+
+Hand Search
+
+Manually search contents of key endodontics, periodontics, dental imaging, and dental trauma journals and conference proceedings (e.g., Journal of Endodontics, International Endodontic Journal, Dental Traumatology) for articles mentioning: “Optical Coherence Tomography”/“OCT”/specific OCT types in relation to cracked teeth, root fractures, and endodontic‐periodontic lesions. Keywords to guide hand search: “OCT”, “root canal”, “VRF”, “tooth fracture”, “dental crack”, “periodontic lesion”.
+
+John Wiley & Sons, Ltd.
+
+2.3
+
+Study Screening
+
+Three independent reviewers screened titles and abstracts, followed by full‐text assessment. Data related to the type of OCT, application field and method, authors and year of study, sample size, and key information, features, design, accuracy, and characteristics that were highlighted in each study were extracted from the studies being selected. Relevant articles were selected from databases and uploaded on EndNote software (Version 20.4, Clarivate) to keep track of references. Title and abstract reviews were carried out by all reviewers independently. Full text screening was conducted by the same reviewers and studies were assessed for eligibility for the review. If disagreements occurred, a fourth reviewer was identified to be approached so that consensus can be reached. All extracted articles were recorded in a Word document (DOCX, Version of Microsoft Word 2007 onward).
+
+2.4
+
+Data Extraction
+
+Extracted data from all included studies assessed according to: authors’ names, year of study, study design, sample size, type of hard dental tissue, type of diagnostics and method of detection, outcomes assessed, author's conclusion(s), publication journals, and conflict of interest(s). Data were recorded in an Excel spreadsheet (XLSX, Version of Microsoft Excel 2007 onward).
+
+Although this review was conducted as a scoping review, efforts were made to minimize potential sources of bias throughout the study selection and data retrieval process. To reduce selection bias, multiple electronic databases were systematically searched using broad search strategies, with no language restrictions applied. Three independent reviewers screened the titles and abstracts, followed by full‐text assessment, to ensure consistent and impartial inclusion decisions. The disagreements were resolved by discussing each study in details, and agreement was obtained. There was no need to approach the fourth reviewer. To address potential publication bias, unpublished studies such as theses, dissertations, and conference proceedings were considered, and reference lists of all included studies were hand‐searched for any additional relevant studies. In addition, the potential bias due to the inclusion of laboratory‐based studies was acknowledged as a limitation. While risk of bias assessment tools were not applied, the review methodology incorporated measures to enhance the transparency and reliability of the evidence synthesis. It should also be noted that a key difference between scoping and systematic reviews is the discussion of existing evidence regardless of methodological quality or risk of bias (Tricco et al.). Therefore, this scoping review searched existing literature, identified gaps, and clarified concepts.
+
+3
+
+Results
+
+3.1
+
+Literature Search
+
+According to the PRISMA flowchart (Figure):
+
+All included studies were in vitro and published between 2008 and 2021. The systematic search identified 28,268 records from five databases: Google Scholar (= 27,650), PubMed (= 189), Embase (= 224), Scopus (= 120), and Ebsco (= 85). A total of 35 records were identified through manual searches of reference lists. After the removal of 416 duplicate records and 27,369 irrelevant citations, 518 studies remained for screening.
+
+Following the title and abstract screening, 482 studies were excluded for not meeting the inclusion criteria. Subsequently, a total of 36 full‐text studies were reviewed; however, two could not be accessed due to articles being dropped or unlocatable. Of the 34 full‐text studies assessed, 24 were excluded due to the following reasons: 5 were review articles, 9 focused on innovations without testing devices, and 10 were unrelated to endodontics.
+
+A total of 10 studies met the inclusion criteria and were included in this review. These studies were published between 2008 and 2021 and focused on the use of OCT for detecting cracks in teeth, including VRF, enamel cracks, and apical root cracks. These were all laboratory‐based studies with sample sizes ranging from 6 to 80 teeth. Tableprovides a detailed summary of the included studies, highlighting their objectives, methodologies, and key findings (Table).
+
+Table 3
+
+Current literature findings about OCT use for detecting cracks and VRF in the last 20 years.
+
+Study
+
+Study type
+
+Sample size
+
+Sensitivity
+
+Specificity
+
+Depth
+
+Area of testing
+
+Main findings
+
+Shemesh et al. ()
+
+In‐vitro
+
+25 lower premolar teeth
+
+0.93 overall, and a range between 0.91 and 0.95 for different observers.
+
+0.95 overall, and a range between 0.89 and 1.00 for different observers
+
+3.3 mm
+
+VRF detection
+
+OCT has the potential to detect VRF, especially with the use of intracanal catheter and after cleaning the canals. It stood out compared to visual and radiographical inspection, with a very good to excellent interobserver agreement, (kappa values of 0.7–0.9).
+
+Imai et al. ()
+
+In‐vitro
+
+20 extracted human teeth
+
+0.90 for whole‐thickness cracks and 0.95 for enamel surface cracks. All using SS‐OCT.
+
+0.63 for whole‐thickness cracks and 0.75 for enamel surface cracks. All using SS‐OCT.
+
+Was able to diagnose surface and whole‐thickness dentine cracks from the surface.
+
+Enamel and whole‐thickness cracks
+
+SS‐OCT offered superior detection to cracks compared to visual inspection. It provided detailed cross‐sectional images of enamel cracks, including their penetration depth. It could identify cracks extending beyond the dentinoenamel junction but with less accuracy. Interexaminer reproducibility was significantly higher for SS‐OCT (weighted kappa: 0.611) compared to visual inspection (weighted kappa: 0.178). While effective for coronal fractures, SS‐OCT has limitations in detecting root fractures in the subgingival zone due to probe design and signal attenuation in soft tissue and bone.
+
+Nakajima et al. ()
+
+In‐vitro
+
+30 porcine premolars
+
+N/S
+
+N/S
+
+Fractures up to 3 mm deep.
+
+Incomplete crown fractures (cracks)
+
+SS‐OCT was able to identify incomplete crown fractures and lamellae, and allowed their quantification. Cracks and lamellae disappear in SS‐OCT images when the line is parallel to the incidentlight and are brightest when they occur at 90° to the incident light.
+
+Fried et al. ()
+
+In‐vitro
+
+N/S
+
+N/S
+
+N/S
+
+3 mm teeth sections were used and were visibly clear.
+
+Enamel cracks
+
+OCT was able to identify superficial cracks’ presence but its utility was limited for assessing deeper cracks. Near‐InfraRed transillumination at 1300 nm was found to leverage the high transparency of dental enamel for clear visualization of cracks through disruption of light propagation through enamel. Integrating near‐IR imaging with other diagnostic technologies like OCT or ultrasound could offer the possibility to address their limitations.
+
+Lee et al. ()
+
+In‐vitro
+
+61 teeth from 12 cadavers, 12 incisors, 23 premolars, and 26 molars without extensive restoration and dental caries
+
+N/S
+
+N/S
+
+About 3 mm.
+
+Detection of cracked‐tooth syndrome
+
+SS‐OCT detected cracks in 65.1% of examined surfaces, surpassing visual inspection (47.4%) and trans‐illumination (52.3%). It had the highest mean number of detected crack lines per surface at 86.29%, outperforming trans‐illumination (78.80%), visual inspection (48.86%), and micro‐CT (60.11%). Along its ability to distinguish structural cracks from craze lines, it could identify cracks that were undetectable by trans‐illumination or micro‐CT in some cases.
+
+de Oliveira et al. ()
+
+In‐vitro
+
+20 extracted human single‐rooted mandibular incisors with no open apices, previous endodontic treatment, dental calculus, hypercementosis, internal/external resorption, or root caries
+
+0.83 for SS‐OCT and 0.917 for SD‐OCT
+
+0.75 for SS‐OCT and 0.875 for SD‐OCT
+
+Approximately 3 mm.
+
+Detection of apical root cracks
+
+SD‐OCT and SS‐OCT successfully detected apical dentinal microcracks. Although SD‐OCT showed better detection than SS‐OCT, this was not statistically significant. Interexaminer agreement ranged from substantial to almost perfect for both systems, with SD‐OCT showing slightly better consistency. Both systems had limitation with the penetration depth.
+
+Kim et al. ()
+
+In‐vitro
+
+6 teeth of various canal numbers were subjected to stress similar to natural masticatory stresses in‐vitro and then evaluated
+
+N/S
+
+N/S
+
+Only surface cracks, not deep cracks beyond 2–3 mm
+
+Detection of craze lines, crack lines, split tooth, and VRF.
+
+SS‐OCT provides superior resolution (approximately 10 μm/pixel) in comparison with CBCT or intraoral X‐ray imaging, without a risk of radioactivity exposure. It was able to detect easily cracks and craze lines, compared to the radiographic modalities and transillumination, and the software automatic detection tool proposed in this study further eases the detection. However, the lack of depth of OCT limited the ability to identify whether the tooth is split or if the crack extends deep to be defined as VRF.
+
+Segarra et al. ()
+
+In‐vitro
+
+80 teeth, 10 of incisors, cuspids, bicuspids, and molars from each jaw
+
+N/S
+
+N/S
+
+Cracks originating from surface enamel. No depth specified.
+
+Enamel crack behavior
+
+SS‐OCT had the ability to detect cracks and assist in determining its pattern in whole human teeth. OCT offers potential applications in early diagnosis, monitoring, and guiding the treatment of tooth cracks in clinical settings.
+
+Shimada et al. ()
+
+In‐vitro
+
+20 extracted human teeth
+
+0.98 for enamel demineralization and 0.60 for dentin caries, both using SS‐OCT
+
+0.75 for enamel demin, compared remineralization and 0.98 for dentin caries, both using SS‐OCT
+
+Limited to the coronal portion where the laser light can be irradiated.
+
+Evaluation of dental caries, tooth crack, and age‐related changes in tooth structure
+
+SS‐OCT was able to detect cracks and separate layers unlike transillumination that may not identify crack depth, and other current diagnostic methods that fail to detect tooth cracks, especially in early stages. Inter‐examiner reproducibility (measured by weighted kappa‐values) was significantly higher for SS‐OCT (0.61) than for transillumination (0.18). However, the current design limits SS‐OCT to primarily to the coronal portion of the tooth due to the penetration depth of IR‐light.
+
+Birsch ()
+
+In‐vitro
+
+33 sterilized teeth, 11 with single rooted and 12 with multi‐rooted teeth
+
+N/S
+
+N/S
+
+Circumferential of the inner root surface. Depth was not specified.
+
+Prepared root canal space, resorptive defects, small perforation sites, and fracture lines.
+
+OCT introduced by catheter into the root canal system offers an unparalleled imaging modality for detecting intact dentin walls, variations of lumen‐wall integrity, man‐made defects, cracks, perforations, and resorptive‐like areas of interest. Although OCT requires certain width and canal preparation, it remains superior to US which was not feasible to introduce into a root canal system.
+
+John Wiley & Sons, Ltd.
+
+3.2
+
+Study Characteristics
+
+The use of OCT has become an additional option in clinical endodontics for diagnosing conditions such as cracks and fractures in the last 20 years (Imai et al.; Shemesh et al.; Nakajima et al.; Segarra et al.; de Oliveira et al.; Shimada et al.; Birsch; Fried et al.; Kim et al.; Lee et al.). Tablerepresents key findings of the included studies. Two types of OCT delivery were introduced in this review; the first group discussed the use of OCT during root canal treatment by introducing the tool into the root canal system (Shemesh et al.; Birsch). The rest of the studies focused on the OCT to explore cracks on the tooth surface instead of inserting probes into the root canal system (Imai et al.; Nakajima et al.; Segarra et al.; de Oliveira et al.; Shimada et al.; Fried et al.; Kim et al.; Lee et al.). This could be a non‐invasive method as performed by Imai et al. (), Nakajima et al. (), Lee et al. (), Kim et al. (), Segarra et al. (), and Shimada et al. () to assess cracks on clinical crowns (Figure) (Imai et al.; Nakajima et al.; Segarra et al.; Shimada et al.; Kim et al.; Lee et al.). Alternatively, this could be invasive as performed by Fried et al. (2012) in their study where they prepared 3 mm sections to the tooth. Another study by de Oliveira et al. () accessed the pulp chamber and prepared the root canal systems to 10 ISO K hand‐file, and carried out root canal therapy (de Oliveira et al.; Fried et al.). Overall, studies that reported OCT's sensitivity and specificity often showed high sensitivity (83%–98%) and medium to high specificity (63%–100%) in detecting cracks and VRFs (Table).
+
+Figure 3
+
+Flow diagram of the literature search and included studies.
+
+4
+
+Discussion
+
+4.1
+
+Key Findings
+
+This scoping review aimed to provide a comprehensive synthesis of all available evidence on OCT in terms of cracks and VRF detection in order to offer clinicians and researchers evidence‐based approach and decision‐making process regarding the adoption and further development of OCT technology in endodontics (Rivera and Walton; Tsesis et al.; Sugaya et al.; Meister et al.; Habibzadeh et al.). Sensitivity and specificity were the metrics used in some of the included studies to evaluate the diagnostic performance of OCT when compared to other tools such as clinical assessments, radiographs, CBCT (Table). Sensitivity refers to the ability of a diagnostic tool to correctly identify true positives. In this case, detecting the presence of cracks or VRFs when they are truly present. Specificity measures the ability to correctly identify true negatives, or cases where no cracks or fractures exist. High sensitivity reduces the likelihood of missed diagnoses, while high specificity minimizes false positives. The superior sensitivity of FD‐OCT over the TD‐OCT, marks a transition in use (Chopra et al.; Bezerra et al.). Shemesh et al. () were the first to develop a model and test for cracks, specifically for VRF, using a rotating optical fiber probe, the “M2‐CV OCT system with an ImageWire 2 catheter,” inside the root canal system. This technique utilized the TD‐OCT by providing detailed imaging with a high overall specificity (95%) and sensitivity (93%) in detecting VRFs (Table). The preference for the FD‐OCT also witnessed a shift from the SD‐OCT towards the SS‐OCT since the new system offers high imaging speeds and long wavelengths, enabling deeper penetration into dental tissues (sometimes exceeding 3 mm when compared to 1–3 mm with the use of SD‐OCT), and optimum tissue contrast (Imai et al.; Schneider et al.; Nakajima et al.; de Oliveira et al.; Adegun et al.). However, the challenge related to the penetration depth remains unresolved. Current dental OCT systems typically operate at near‐infrared wavelengths below 1000 nm, offering approximately 1–3 mm of penetration in hard tissues (Imai et al.; Schneider et al.; Nakajima et al.; de Oliveira et al.; Adegun et al.). Near‐InfraRed transillumination at 1300 and 1310 nm was found to leverage the high transparency of dental enamel for clear visualization of cracks through disruption of light propagation through enamel (Fried et al.; Kim et al.). While adequate for surface and coronal imaging, this penetration depth is insufficient for endodontic applications particularly when the OCT probe cannot be positioned inside the root canal system to image internal structures. Imai et al. () reported a sensitivity of 0.90 for deep enamel cracks in comparison to 0.95 for superficial ones, and specificity values around 0.63 and 0.75, respectively (Imai et al.). These values confirm that the thicker the enamel and dentine gets, the lower values of sensitivity and specificity are. This was later supported by Shimada et al. () (Table) (Shimada et al.). The only study to oppose this finding was de Oliveira et al. (), which reported high analytical performance in SD‐OCT over SS‐OCT (sensitivity of 0.917:0.833, specificity of 0.875:0.750 and accuracy of 0.9:0.8 for SD‐OCT and SS‐OCT respectively), however, the results were statistically insignificant (de Oliveira et al.).
+
+4.2
+
+Limitations of Evidence
+
+OCT's non‐invasive nature and ability to provide high‐resolution, real‐time imaging without radiation exposure provides a valued asset in endodontic diagnostics (Machoy et al.; Sharma et al.; Janjua et al.). To achieve that, a suitable design needs to be introduced as an initial step in adopting this system into clinical endodontics. Current OCT systems have a penetration depth typically reaching only 1–3 mm, which may be insufficient for visualizing deeper structures within the root (Imai et al.; Schneider et al.). Currently, catheter‐based OCTs, such as the M2‐CV and intravascular probes in Shemesh et al. () or the commercially available catheter‐based probes used in Birsch's () study, have been introduced for root canal imaging, however, these systems required canal preparation to a K file of ISO size 50–90, as the imaging probe is too big to be accommodated in unprepared root canal systems (Shemesh et al.; Birsch).
+
+Alternative tools were designed for root canal system however targeted only to the surface of the tooth (Shemesh et al.; Imai et al.; Shemesh et al.; Nakajima et al.; Birsch). Based on the findings of this review, further research related to the system design are required to visualize root canal systems as that seems to hold the key to addressing the penetration‐depth limitation of OCT. In addition, the existing devices require further miniaturization and ergonomic design to be practical for routine clinical use in endodontics (Shemesh et al.; Al Shehadat and Jain). Few solutions were suggested to address this issue, such as making OCT in the form of handheld mobile OCT devices and integrations with dental intra‐oral scanners (Imai et al.; Shimada et al.; Chopra et al.; Iino et al.). In addition, exploring the potential of artificial intelligence in interpreting OCT images could further enhance the diagnostic accuracy and efficiency as seen in OCT's design by Hu et al. () and Kim et al. ().
+
+4.3
+
+Comparing OCT With Different Imaging Modalities
+
+Longitudinal studies would be crucial to understand the long‐term benefits of OCT‐guided diagnosis and treatment in endodontics, including its impact on prognostic outcomes (Cohen et al.; Patel et al.). All reported papers in this scoping review have been conducted in vitro, highlighting the need for controlled randomized clinical trials to validate its efficacy and practicality in endodontic settings (Shemesh et al.,Imai et al.; Nakajima et al.; Segarra et al.; de Oliveira et al.; Birsch; Fried et al.; Kim et al.; Lee et al.). Further research could also compare OCT with other advanced imaging modalities, which are necessary to establish the relative diagnostic accuracy, clinical outcomes, and cost‐effectiveness (Al Shehadat and Jain; Suassuna et al.; Ţogoe et al.). The current available landscape of dental imaging technologies presents various options, ranging from ultrasound to radiographs, CBCT, Micro‐CT, and OCT, each with its unique strengths and limitations. Tablepresents a comparison between the previously mentioned tools according to literature and the current OCT systems utilized in the scope of this paper (Table) (Al Shehadat and Jain; Birsch; Suassuna et al.; Ţogoe et al.). In addition, Figuresandrepresent a clinical comparison between OCT and radiographs and CBCT for two cases with dental cracks.
+
+Within the limitations of this review, a total of 10 papers were found to be relevant to the OCT use in cracked teeth and VRFs. Besides cracks and VRFs, OCT has been utilized to visualize multiple areas of surface discontinuity in the tooth, including cavities from dental caries in enamel and dentin layers, endodontic anatomy and walls, additional canals like MB2, gaps between root canal fillings and canal walls or root apex (Shemesh et al.,Imai et al.; Nakajima et al.; Segarra et al.; de Oliveira et al.; Shimada et al.; Birsch; Iino et al.; Suassuna et al.; Ţogoe et al.; Braz et al.; Li et al.; Minamino et al.). Until these findings have been addressed, OCT is unable to substitute other technologies like CBCT (the current gold standard) for clinical use such as diagnosing VRFs as there is 20 years’ worth of research and utilization between the first introduction of both technologies into clinical practice (Wilder‐Smith et al.; Bromberg and Brizuela). Despite these challenges, the use of OCT in endodontics could be promising. Ongoing technological advancements are actively addressing these limitations. Researchers are currently developing new OCT systems that incorporate long wavelengths (> 1300 nm) to increase penetration depth (Janjua et al.). The emergence of handheld and mobile OCT devices, as well as catheter‐based systems for intracanal use, is making OCT accessible for endodontic applications (Shemesh et al.,; Birsch; Chopra et al.). Furthermore, efforts to integrate OCT with other imaging modalities or incorporate it into existing dental equipment, such as intraoral scanners, may significantly enhance its utility in clinical practice (Kim et al.). The issue of bulky and expensive units is nearing resolution (Janjua et al.; Chopra et al.; Kim et al.). With clinical evidence, OCT may become a routine tool in endodontic practice and standard detection aid for orofacial conditions and lesions.
+
+Table 4
+
+Comparison of various endodontic diagnostic tools.
+
+Technology
+
+Strengths
+
+Limitations
+
+Applications in endodontics
+
+Ultrasound
+
+Non‐radiative.
+
+Limited efficacy in visualizing hard tissues, therefore, this system is less useful for that area in comparison to radiographs, CBCT, and OCT.
+
+Real‐time assessment of soft tissue conditions.
+
+Beneficial for soft tissue imaging.
+
+In endodontics, it needs excessive canal preparation compared to the catheterized OCT prob (ISO size 130 file for US vs. size 90 for OCT). Therefore, it requires development of smaller, more flexible probes for root canal navigation.
+
+Evaluation of periapical tissues and inflammatory conditions.
+
+Radiographs
+
+Accessible and cost‐effective.
+
+Generates static, 2D images lacking depth information when compared to CBCT, MicroCT, and OCT.
+
+Widely used for initial diagnostics and assessing periapical conditions.
+
+Available in conventional and digital formats. Moreover, digital format offers image enhancements.
+
+Limited in identifying certain observations (i.e., voids in root canal fillings) when compared to CBCT, MicroCT, and OCT.
+
+Integral to dental diagnostics despite limitations.
+
+Utilizes radiation.
+
+Potential optimization when integrated with OCT for better resolution and contrast.
+
+CBCT (cone‐beam computed tomography) and MicroCT (micro‐computed tomography).
+
+Detailed 3D imaging of dental structures.
+
+Higher radiation exposure, requiring adherence to the ALARA principle to minimize radiation exposure.
+
+Essential for complex diagnostic cases, guided procedures, and surgeries.
+
+High‐resolution images with multiplane imaging and dynamic data correction capabilities.
+
+More expensive than traditional radiographs. Therefore, the system is unable to substitute the radiographs during initial screening.
+
+Indispensable for visualizing calcified canals, hard tissues, and minute structural details.
+
+Exceptional spatial resolution (~ 10–15 µm).
+
+MicroCT is used in vivo and in vitro for assessing root canal obturation and detecting anomalies like voids.
+
+OCT (optical coherence tomography)
+
+High‐resolution imaging.
+
+Limited in visualizing soft tissue structures compared to Micro‐CT.
+
+Promising tool for real‐time imaging and extending beyond in vitro studies.
+
+Real‐time capabilities.
+
+Currently outperformed by micro‐CT in soft tissue visualization.
+
+Potentially beneficial for optimizing dental X‐ray parameters when combined with radiographs.
+
+Portability in recent designs such hand‐held machines.
+
+Requires canal preparation to somewhere between ISO 50 and 90 K files.
+
+Future potential in endodontics for detailed dental pathologies and treatment outcomes.
+
+In‐vitro studies reported sensitivity and specificity for detecting cracks and VRF between (63%–100%) and (83%–98%), respectively. Both of which are higher than any other tool.
+
+John Wiley & Sons, Ltd.
+
+4.4
+
+Clinical Implications
+
+This scoping review confirms the diagnostic potential of OCT for detecting dental cracks and VRFs while exposing key gaps in the existing literature. It should be noted that this review recognizes a limitation with regards to the included studies which were conducted in vitro, since this might potentially introduce a performance bias as the diagnostic purpose of OCT in controlled laboratory conditions might not fully reflect its effectiveness or challenges in actual clinical settings. Therefore, the current evidence is limited to laboratory‐based studies with variable methodologies and limited clinical trials, restricting its immediate clinical application. In addition, inconsistencies in the OCT system types, imaging protocols, and outcome measures hinder direct comparison across the studies.
+
+The OCT technology is promising. In particular, catheter‐based and handheld OCT designs could be adapted for future intraoral applications. However, the logistical barriers need to be considered for further research. First, a high‐quality OCT system with a good penetration depth is relatively expensive, limiting their accessibility to many dental practices (Janjua et al.). Second, although OCT systems have been introduced to clinical practice, the interpretation of OCT scans requires specialized training, which is not yet standardized in the dental curriculum. This could be largely due to the lack of a feasible design to use in the clinical dental setup. Third, the existing OCT devices are too bulky or rigid for effective use in posterior teeth or root canal systems. It should be noted that the current OCT machines are only designed for surface scans like enamel and clinical crowns. Finally, the intra‐oral use of this system may be restricted by probe size, patient tolerance, and accessibility to deeper regions of the mouth. In clinical practice, field sizes of several centimeters are often required, and clinicians may require taking multiple images to completely capture a lesion of that size. In this respect, this could be cumbersome, time‐consuming, and uncomfortable for both the clinician and patient (Janjua et al.).
+
+Further research could prioritize well‐designed controlled randomized clinical trials, standard operating procedures, and development of clinically adaptable OCT devices. Addressing these gaps is essential to advancing OCT from experimental use toward evidence‐based integration in endodontic diagnostics.
+
+The prevalence of VRFs in extracted endodontically treated teeth ranges from 2% to 20%, highlighting significant clinical variability (Lee et al.; Rathke et al.; Mireku et al.). The prognosis of a tooth with VRF is generally poor/hopeless at late stages, necessitating either extraction or removal of the fractured root (Pack; Nicopoulou‐Karayianni et al.; Cohen et al.; Tamse et al.; Meister et al.; Habibzadeh et al.; Lim et al.; Lertchirakarn et al.; Lustig et al.; Mullally and Ahmed; Patel et al.; Corbella et al.; Chang et al.; PradeepKumar et al.; Hu et al.,). A well‐designed OCT that is optimized for clinical and endodontic practice may give a solution to VRF by establishing early diagnosis and thus allowing early intervention before the crack expands to a late non‐restorable stage, which may allow certain treatments that show evidence of success at early stages incorporation of resin composite and/or extra‐coronal restorations (Sugaya et al.).
+
+5
+
+Conclusions
+
+Within the limitation of this scoping review, the use of OCT is promising for the detection of cracks and VRFs. By addressing the limitations related to penetration depth, mechanical design, and soft tissue imaging, OCT may find its path into clinical adoption, including clinical endodontics. Areas that can help in this include developing OCT systems tailored for routine endodontic use and assessing the long‐term impacts in the field. OCT holds a promising sustainable solution for an accurate, efficient, and user/patient‐friendly diagnostic procedure, marking a significant step forward in the field of clinical endodontics.
+
+Author Contributions
+
+andliterature search, references collection.,, andreviewing and summarizing searched literature.original draft preparation.,,, andconceptualization.andsupervision of the project, analysis and interpretation, reviewing and editing.
+
+Funding
+
+The authors received no specific funding for this work.
+
+Conflicts of Interest
+
+The authors declare no conflicts of interest.
+
+Supporting information
+
+Supplementary Information

@@ -9,8 +9,21 @@ pdf_filename: zhang-2024-short-vs-long-implants-sinus.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Network meta-analysis (17 studies, 1,076 patients, 1,751 implants) comparing short implants (4–8 mm) vs long implants (≥8 mm) with sinus floor elevation, and immediate vs delayed long implants in the posterior maxilla. Long implants had a non-significant trend to lower failure (OR 1.26, 95% CI 0.53–3.00); short implants showed significantly less marginal bone loss; complication rates not significantly different.
+## Three-line Summary
+
+Network meta-analysis (17 studies, 1,076 patients, 1,751 implants) comparing short implants (4–8 mm) vs long implants (≥8 mm) with sinus floor elevation, and immediate vs delayed long implants in the posterior maxilla. Long implants had a non-significant trend to lower failure (OR 1.26, 95% CI 0.53–3.00)
+
+short implants showed significantly less marginal bone loss
+
+complication rates not significantly different.
+
+## 세줄요약
+
+Network 메타분석 (MA) (17 studies, 1,076 patients, 1,751 임플란트) comparing short 임플란트 (4–8 mm) vs long 임플란트 (≥8 mm) with sinus floor elevation, and immediate vs delayed long 임플란트 in the posterior maxilla. Long 임플란트 had a non-유의미한 trend to lower failure (OR 1.26, 95% CI 0.53–3.00)
+
+short 임플란트 showed 유의미한ly less marginal bone loss
+
+complication rates not 유의미한ly different.
 
 ## 1. Document Information
 - **Journal**: BMC Oral Health 2024;24:1574

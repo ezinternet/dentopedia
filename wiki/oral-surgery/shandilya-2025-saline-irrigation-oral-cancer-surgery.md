@@ -6,20 +6,28 @@ date: 2025-02-01
 doi: 10.31557/APJCP.2025.26.2.657
 source: shandilya-2025-saline-irrigation-oral-cancer-surgery.md
 category: [oral-surgery]
-confidence: prospective
+evidence_level: prospective
 text_path: /Users/oracleneo/llm-wiki/papers/shandilya-2025-saline-irrigation-oral-cancer-surgery.txt
 text_filename: shandilya-2025-saline-irrigation-oral-cancer-surgery.txt
 source_collection: pubmed-text
 tags: [saline-irrigation, oral-cancer, wound-contamination, squamous-cell-carcinoma, implantation-metastasis]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Prospective cohort (n=132 oral cavity SCC) showing normal saline irrigation reduces wound contamination from exfoliated epithelial cells from 55% to 7.6% (p<0.001) — cytological evidence supporting the standard saline wound wash protocol.
+Prospective consecutive cohort (n=104 analyzed; 132 enrolled) of treatment-naïve oral cavity squamous cell carcinoma patients undergoing resection and neck dissection at a single Indian oncology center.
 
-## 한줄요약
+Normal saline irrigation (500–1,500 mL) reduced wound contamination (exfoliated epithelial/abnormal cells) from 55% pre-wash to 7.6% post-wash — a 47.4-percentage-point reduction (chi²=29.8, p<0.001) via purely mechanical action.
 
-구강 편평세포암 (Squamous Cell Carcinoma, SCC) 절제 수술 132명 전향적 코호트 — 생리식염수 (Normal Saline) 세정이 박리 상피세포 오염률을 55%에서 7.6%로 유의하게 감소 (p<0.001), 기계적 세정만으로 상당한 오염 제거 효과 입증.
+Perineural invasion was the only clinico-pathological predictor of higher lavage positivity (p=0.037); T-stage, N-stage, and all other variables were non-significant, validating routine saline wash as sufficient without additional cytotoxic agents.
+
+## 세줄요약
+
+전향적 연속 코호트(132명 등록, 104명 분석): 인도 단일 종양 센터에서 구강 편평세포암(Squamous Cell Carcinoma, SCC) 절제 + 경부절제 후 생리식염수(Normal Saline) 세정 효과 세포학적 평가.
+
+세정 전 55% vs 세정 후 7.6% 오염률 — 47.4%p 감소 (p<0.001); 순수 기계적 세정만으로 상당한 종양세포 제거 효과 입증.
+
+신경주위침윤(Perineural Invasion, PNI)만이 세정액 양성 예측인자(p=0.037); T/N 병기·조직학적 등급 등 기타 변수는 모두 비유의 — 추가 화학적 세정제 없이 생리식염수만으로 충분함을 지지.
 
 ## Summary
 
@@ -71,4 +79,4 @@ Only perineural invasion was significantly associated with lavage positivity (p=
 
 ## Related Papers
 
-- [[oral-surgery/al-aroomi-2025-cgf-third-molar-postop-sr]] — post-operative wound healing context; saline irrigation is a standard component of post-surgical protocols
+- [[oral-surgery/third-molar/al-aroomi-2025-cgf-third-molar-postop-sr]] — post-operative wound healing context; saline irrigation is a standard component of post-surgical protocols

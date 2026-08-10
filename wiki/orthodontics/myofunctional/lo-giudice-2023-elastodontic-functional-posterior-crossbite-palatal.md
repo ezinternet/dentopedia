@@ -6,7 +6,7 @@ date: 2023-02-02
 doi: 10.1186/s12903-023-02731-7
 source: lo-giudice-2023-elastodontic-functional-posterior-crossbite-palatal.md
 category: [orthodontics/myofunctional]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 full_text: true
 pmid: "36732751"
@@ -22,13 +22,21 @@ relations:
     target: ronsivalle-2023-elastodontic-appliances-malocclusion-interception-children-review
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective controlled cohort (n=39; TG=25, CG=14, mean age 7y) — AMCOP elastodontic activator fully corrected functional posterior cross-bite and increased palatal symmetry (surface-matching 81.1%→92.3%) plus intermolar/intercanine widths over 12 months, while untreated controls showed no change.
+Retrospective controlled cohort (n=39; TG=25, CG=14, mean age 7y) using 3D intraoral-scan surface-matching to evaluate AMCOP elastodontic activator for functional posterior cross-bite in early mixed dentition over 12 months.
 
-## 한줄요약
+All 25 treated patients achieved complete FPXB correction with coincident midlines; palatal surface symmetry rose from 81.1% to 92.3% and both intermolar and intercanine widths increased significantly, while untreated controls showed no change.
 
-후향적 대조 코호트 (n=39; 치료군 25, 대조군 14, 평균 7세) — AMCOP 탄성교정장치(Elastodontic Appliance, EA)가 기능성 후방 교차교합(Functional Posterior Cross-Bite, FPXB)을 완전 교정하고 12개월간 구개 대칭성(표면 일치율 81.1%→92.3%)과 대구치·견치 폭경을 증가시켰으나, 미치료 대조군은 변화가 없었다.
+Elastodontic activators are a viable myofunctional alternative to conventional expanders for mild functional crossbite in growing children, but evidence is retrospective with a small control group and long-term stability data are lacking.
+
+## 세줄요약
+
+후향적 대조 코호트(n=39; 치료군 25명, 대조군 14명, 평균 7세) — 3D 구강내 스캔 표면 일치법으로 혼합치열기 기능성 후방 교차교합(Functional Posterior Cross-Bite, FPXB)에서 AMCOP 탄성교정장치(Elastodontic Appliance, EA)의 효과를 12개월간 평가.
+
+치료군 25명 전원 FPXB 완전 교정 및 정중선 일치 달성; 구개 대칭성 81.1%→92.3%, 대구치간·견치간 폭경 유의 증가. 미치료 대조군은 변화 없음.
+
+탄성교정장치는 성장기 아동의 경도 기능성 반대교합에 기존 확장장치 대안이 될 수 있으나, 후향적·소규모 대조군 한계와 장기 안정성 데이터 부재가 남음.
 
 ## Summary
 

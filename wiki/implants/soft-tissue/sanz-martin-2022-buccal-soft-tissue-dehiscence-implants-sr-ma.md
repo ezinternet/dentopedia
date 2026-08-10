@@ -6,7 +6,7 @@ date: 2022-01-01
 doi: 10.1111/clr.13888
 source: sanz-martin-2022-buccal-soft-tissue-dehiscence-implants-sr-ma.md
 category: [implants/soft-tissue]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/sanz-martin-2022-buccal-soft-tissue-dehiscence-implants-sr-ma.pdf
 pdf_filename: sanz-martin-2022-buccal-soft-tissue-dehiscence-implants-sr-ma.pdf
 source_collection: external
@@ -18,13 +18,21 @@ relations:
     target: sanz-2022-keratinized-mucosa-around-implants-consensus
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 22 investigations on buccal peri-implant soft tissue dehiscence (BSTD): thin biotype (OR 2.85) and buccal malposition (OR 14.37) are significant risk factors; CTG absence raises odds 9-fold; buccal bone plate thickness and implant timing are not significant; BSTD frequency ranges 0%–61% across studies.
+SR+MA of 22 clinical investigations (7 case series, 8 cohorts, 1 CCT, 6 RCTs; ≥6 months post-prosthesis) quantifying risk factors and frequency of buccal soft tissue dehiscence (BSTD) at dental implants.
 
-## 한줄요약
+Thin soft tissue biotype (OR 2.85, p=0.003) and buccal implant malposition (OR 14.37, p<0.001) are significant BSTD risk factors; absence of CTG raises odds 9-fold (OR 9.00, p<0.001); buccal bone plate thickness <1 mm (OR 1.29, p=0.704) and immediate vs delayed placement (OR 1.56, p=0.477) are non-significant; BSTD frequency ranges 0–61%.
 
-22개 임상연구 SR+MA: 얇은 연조직 표현형(OR 2.85)과 협측 임플란트 위치 불량(OR 14.37)이 BSTD 유의 위험인자이며, CTG 미시행 시 위험 9배; 협측 골판 두께·식립 시기는 비유의적; BSTD 빈도 0–61% 범위.
+Three-dimensional implant positioning within the alveolar envelope is the most critical prevention strategy; CTG use is the strongest protective intervention, and buccal bone volume alone is insufficient to prevent BSTD.
+
+## 세줄요약
+
+22개 임상연구 SR+MA (증례시리즈·코호트·CCT·RCT 포함, 보철 후 ≥6개월) — 임플란트 협측 연조직 함몰 (BSTD, Buccal Soft Tissue Dehiscence)의 위험인자 및 발생빈도 정량화.
+
+얇은 연조직 표현형 (thin biotype, OR 2.85, p=0.003)과 협측 임플란트 위치 불량 (buccal malposition, OR 14.37, p<0.001)이 유의한 위험인자; CTG 미시행 시 위험 9배 (OR 9.00, p<0.001); 협측 골판 두께 <1 mm (p=0.704)와 식립 시기(p=0.477)는 비유의적; BSTD 빈도 0–61%.
+
+임플란트 3차원 위치 조절이 가장 중요한 예방 전략; CTG가 가장 강력한 보호 술식이며, 협측 골량 단독으로는 BSTD 예방 불충분.
 
 ## Summary
 
@@ -94,6 +102,6 @@ No significant association between BSTD frequency and follow-up duration or stud
 ## Related Papers
 
 - [[overviews/peri-implant-soft-tissue-dehiscence-prevention]] — synthesis overview on BSTD prevention; this SR is a primary evidence source
-- [[implants/tavelli-2025-soft-tissue-dehiscences-implant-sites-ao-aap]] — subsequent AO/AAP SR on soft tissue dehiscences at implant sites; extends and updates this evidence
-- [[implants/sanz-2022-keratinized-mucosa-around-implants-consensus]] — consensus on keratinized mucosa around implants; contextualizes the KM data gap identified in this SR
+- [[implants/soft-tissue/tavelli-2025-soft-tissue-dehiscences-implant-sites-ao-aap]] — subsequent AO/AAP SR on soft tissue dehiscences at implant sites; extends and updates this evidence
+- [[implants/soft-tissue/sanz-2022-keratinized-mucosa-around-implants-consensus]] — consensus on keratinized mucosa around implants; contextualizes the KM data gap identified in this SR
 - [[overviews/keratinized-mucosa-peri-implant-health-overview]] — overview on KM and peri-implant health; BSTD risk overlaps with KM quantity considerations

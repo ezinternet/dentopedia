@@ -6,18 +6,28 @@ date: 2025-12-01
 doi: 10.22974/jkda.2025.63.12.001
 source: yook-2025-single-implant-effects-antagonistic-adjacent-teeth.md
 category: [implants]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/yook-2025-single-implant-effects-antagonistic-adjacent-teeth.pdf
 pdf_filename: yook-2025-single-implant-effects-antagonistic-adjacent-teeth.pdf
 source_collection: external
 tags: []
 ---
 
-## One-line Summary
-Retrospective single-center study (n=100 single posterior implant patients, ≥1-year follow-up) finding single implant-supported fixed prostheses exert measurable stress on neighboring dentition: increased distal adjacent-tooth mobility (p<0.05), more antagonist periapical lesions and adjacent-tooth cracks in non-unilateral-mastication patients, more alveolar bone loss in diabetics, and (where the antagonist lacked occlusal contact) less bone loss but more adjacent cusp fractures (all p<0.05).
+## Three-line Summary
 
-## 한줄요약
-강원대 후향(n=100, 1년 이상 추적): 단일 구치 implant 보철의 대합치·인접치 영향 — distal 인접치 mobility ↑(p<0.05), 편측저작 환자에서 대합치 periapical lesion·인접치 crack ↑(p<0.05), 당뇨 환자 골 흡수·치료 이력 ↑(p<0.05), 대합 occlusal contact 없으면 골 흡수 ↓이나 인접치 cusp fracture ↑. Implant 보철은 주변 dentition에 측정 가능한 부담 유발.
+Retrospective observational study (n=100 single posterior implant patients, ≥1-year follow-up, Gangneung-Wonju National University) comparing adjacent and antagonistic teeth of implant sites vs contralateral controls with clinical and radiographic measures.
+
+Distal adjacent-tooth mobility was higher than the control (p<0.05); non-unilateral-mastication patients showed more antagonist periapical lesions and adjacent-tooth cracks (p<0.05); diabetics had more alveolar bone loss and treatment history (p<0.05); absence of occlusal contact on the antagonist reduced bone loss but increased adjacent cusp fractures (p<0.05).
+
+Single-implant restorations exert measurable mechanical and biological stress on neighboring teeth — a basis for informed consent and proactive occlusal management, though the retrospective single-center design with small subgroups limits causal inference.
+
+## 세줄요약
+
+후향 관찰 연구(n=100, 단일 구치 임플란트, ≥1년 추적, 강원대치과병원): 임플란트 인접치 및 대합치를 반대측 대조치아와 임상·방사선학적으로 비교.
+
+원심 인접치 동요도 증가(p<0.05); 비편측저작 환자에서 대합치 치근단 병소·인접치 균열 증가(p<0.05); 당뇨 환자 골 흡수 및 치료 이력 증가(p<0.05); 대합치 교합 접촉 없는 경우 골 흡수는 감소하나 인접치 교두 파절 증가(p<0.05).
+
+단일 임플란트 보철은 인접 치열에 측정 가능한 기계적·생물학적 부담을 유발하므로 설명의무와 교합 관리가 중요하지만, 후향·단일기관·소규모 서브그룹 설계로 인과 추론에 한계가 있다.
 
 ## Summary
 Retrospective observational study (n=100) at Gangneung-Wonju National University Dental Hospital comparing teeth adjacent and antagonistic to single posterior implants vs contralateral controls. Cracks, cusp fractures, alveolar bone, occlusal contact (Shimstock), and systemic disease associations analyzed.

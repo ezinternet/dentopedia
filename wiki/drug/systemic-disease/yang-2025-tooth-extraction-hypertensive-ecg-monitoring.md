@@ -6,7 +6,7 @@ date: 2025-06-03
 doi: 10.1186/s12903-025-06076-1
 source: yang-2025-tooth-extraction-hypertensive-ecg-monitoring.md
 category: [drug/systemic-disease]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 full_text: true
 pmid: "40462087"
@@ -22,13 +22,21 @@ relations:
     target: uritu-2025-vasoconstrictor-dental-anesthesia-pregnancy-sr
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Single-center retrospective case-control study (n=2,059 extractions in 1,314 hypertensive patients under intraoperative ECG monitoring): 8.01% required intraoperative antihypertensive drugs and 37.20% developed transient new-onset ECG abnormalities (all non-lethal, only 2 procedures terminated); preoperative SBP ≥159 mmHg (AUC 0.91, sens 84%/spec 89%) and operative time (OR 3.62) predicted BP intervention, while older age, female sex, cerebrovascular disease, more teeth extracted, and longer operative time predicted ECG abnormalities.
+Single-center retrospective study of 2,059 tooth extractions in 1,314 hypertensive patients (mean age 74.6 y) under continuous intraoperative ECG and blood-pressure monitoring at a Chinese dental hospital.
 
-## 한줄요약
+8.01% required intraoperative antihypertensive intervention (nitroglycerin in 86%) and 37.20% developed transient new-onset ECG abnormalities; only 2 procedures were terminated.
 
-고혈압 환자 발치 2,059건(1,314명, 발치 중 심전도 모니터링) 후향 연구: 8.01%가 발치 중 혈압강하제 투여, 37.20%에서 일과성 신규 부정맥(모두 비치명적, 단 2건만 중단); 술전 SBP ≥159 mmHg(AUC 0.91, 민감도 84%/특이도 89%)와 수술시간(OR 3.62)이 혈압 개입을, 고령·여성·뇌혈관질환·발치개수·수술시간이 신규 심전도 이상을 예측.
+Preoperative SBP ≥159 mmHg (AUC 0.91, sensitivity 84%, specificity 89%) is the screening threshold for likely intraoperative blood-pressure intervention; continuous ECG monitoring is warranted in elderly hypertensive patients with cerebrovascular disease or multi-tooth extractions.
+
+## 세줄요약
+
+중국 단일기관 후향 연구로, 고혈압 환자 1,314명 대상 2,059건의 발치를 술중 심전도(ECG) 및 혈압 모니터링 하에 시행.
+
+8.01%에서 술중 혈압강하제 투여 필요(86%가 니트로글리세린), 37.20%에서 일과성 신규 심전도 이상 발생; 수술 중단은 2건뿐.
+
+술전 수축기혈압(SBP) ≥159 mmHg(AUC 0.91, 민감도 84%/특이도 89%)가 혈압 개입의 선별 기준이며, 고령·뇌혈관질환·다수 발치 환자에서 지속 심전도 모니터링이 권장된다.
 
 ## Summary
 

@@ -16,13 +16,21 @@ text_filename: koole-2019-spray-stretch-technique-mouth-opening.txt
 
 TMD 물리치료 분사신장(spray-and-stretch / vapocoolant) 논문 감시 요청. 위키의 TMD 물리치료 근거는 운동요법·도수치료 SR 중심([[tmj/gonzalez-sanchez-2023-tmj-physiotherapy-treatment-sr]], [[tmj/zhu-2024-exercise-therapy-tmj-derangement-sr]])이고 근막통(myofascial) 트리거포인트 비활성화의 고전 기법인 Travell-Simons 분사신장 자체를 직접 측정한 1차 임상연구가 없었다. 본 연구(Koole 2019, J Prosthet Dent)는 구강안면통증 환자 60명 + 무증상 대조 61명에서 vapocoolant 분사가 최대개구량(MMO)을 즉시 증가시키는지를 정량화해, [[tmj/chan-2022-myogenous-tmd-diagnosis-treatment-review]]가 권고하는 근막통 처치의 임상 근거를 보강한다. Source는 PMC 전문 미제공이라 PubMed 초록 기반(abstract-only).
 
-## One-line Summary
+## Three-line Summary
 
 Clinical study (n=121: 60 orofacial-pain patients + 61 asymptomatic controls) showing that a vapocoolant spray-and-stretch maneuver to both cheeks immediately increased maximal mouth opening (MMO), with a larger relative gain in pain patients than controls (P<.001) and larger in women than men — abstract-only, full text not retrieved.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 구강안면통증 환자 60명 + 무증상 대조 61명 임상연구 — 양 볼에 vapocoolant 분사 후 최대개구량(MMO)이 즉시 증가했고, 통증 환자에서 대조군보다(P<.001), 여성에서 남성보다 증가폭이 컸다 (PubMed 초록 기반, 전문 미확보).
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

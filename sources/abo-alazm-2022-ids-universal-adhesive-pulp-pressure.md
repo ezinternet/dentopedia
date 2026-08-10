@@ -13,9 +13,21 @@ source_collection: external
 
 [[resin-bonding/magne-2005-ids-improves-bond-strength-indirect]] 등 Magne lab 초기 IDS evidence는 OptiBond FL (3-step E&R)과 SE Bond (Clearfil) 한정. 본 study는 현재 임상의 dominant adhesive class인 **universal adhesive (GLUMA Bond Universal, iBOND SE)**에서 IDS 효과를 평가, 추가로 **simulated pulp pressure** 조건 하에 testing — vital tooth의 dentinal fluid transudation 변수 반영. 임상 vital abutment 시뮬레이션으로서 가치.
 
-## One-line Summary
+## Three-line Summary
 
-Eur J Dent 16:536-542, 2022 — Abo-Alazm·Safy (Egypt) in-vitro — 50 human 3rd molars, iBOND SE vs GLUMA Bond Universal, simulated pulp pressure 1주, CAD/CAM composite blocks. IDS µTBS > DDS at 24h·6mo (P<0.05). GLUMA Bond Universal > iBOND; 두 adhesive 모두 6mo Weibull strength ↓. Dentin permeability: 둘 다 유의 감소, adhesive 간 차이 없음.
+In vitro microtensile bond-strength and dentin-permeability study (Eur J Dent 2022; Egypt; 50 human third molars) comparing immediate dentin sealing (IDS) vs delayed dentin sealing (DDS) with two universal adhesives (iBOND SE vs GLUMA Bond Universal) under simulated pulp pressure.
+
+IDS produced significantly higher µTBS than DDS for both adhesives at 24 h and 6 months (p<0.05); GLUMA Bond Universal (MDP-containing) outperformed iBOND SE in both IDS and DDS groups; Weibull characteristic strength decreased for both adhesives from 24 h to 6 months; dentin permeability was significantly reduced by both adhesives with no significant difference between them.
+
+IDS benefit extends to universal adhesives under simulated vital-tooth conditions; MDP-containing adhesives perform better than non-MDP counterparts, but both suffer long-term strength degradation — reinforcing the case for IDS even with modern universal adhesives.
+
+## 세줄요약
+
+In vitro 미세인장결합강도 및 상아세관 투과성 연구 (Eur J Dent 2022; 이집트; 사람 제3대구치 50개): 즉시 상아질 봉쇄 (Immediate Dentin Sealing, IDS) vs 지연 상아질 봉쇄 (Delayed Dentin Sealing, DDS)를 2종 만능 접착제(iBOND SE vs GLUMA Bond Universal)로 모사 치수 압력 하에 비교.
+
+IDS가 양 접착제 모두에서 24h·6mo 미세인장결합강도 유의 우수 (p<0.05); 인산기 함유 단량체 (10-Methacryloyloxydecyl dihydrogen phosphate, MDP) 함유 GLUMA Bond Universal > iBOND; 바이블 특성 강도 (Weibull characteristic strength)는 24h→6mo 양 군 모두 감소; 투과성은 양 군 유의 감소, 군간 차이 없음.
+
+IDS 효과는 만능 접착제에서도 확인; MDP 함유 접착제가 비함유보다 우수하나 장기 강도 저하는 피할 수 없음 → 현대 만능 접착제에서도 IDS 적용 지지.
 
 ## 1. Document Information
 

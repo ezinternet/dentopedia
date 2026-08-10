@@ -1,0 +1,29 @@
+TITLE: Aerosol-generating procedures and associated control/mitigation measures: Position paper from the Canadian Dental Hygienists Association and the American Dental Hygienists’ Association
+PMCID: PMC10946320
+PMID: 38505316
+
+ABSTRACT:
+Background:
+
+Since the outbreak of COVID-19, how to reduce the risk of spreading viruses and other microorganisms while performing aerosolgenerating procedures (AGPs) has become a challenging question within the dental and dental hygiene communities.
+The purpose of this position paper is to summarize the evidence of the effectiveness of various mitigation methods used to reduce the risk of infection transmission during AGPs in dentistry.
+
+Methods:
+
+The authors searched 6 databases—MEDLINE, EMBASE, Scopus, Web of Science, Cochrane Library, and Google Scholar—for relevant scientific evidence published between January 2012 and December 2022 to answer 6 research questions about the
+risk of transmission, methods, devices, and personal protective equipment (PPE) used to reduce contact with microbial pathogens and limit the spread of aerosols.
+
+Results:
+
+A total of 78 studies fulfilled the eligibility criteria. The literature on the risk of infection transmission including SARS-CoV-2 between dental hygienists and their patients is limited. Although several mouthrinses are effective
+in reducing bacterial contaminations in aerosols, their effectiveness against SARS-CoV-2 is also limited. The combined use of eyewear, masks, and face shields is effective in preventing contamination of the facial and nasal region
+while performing AGPs. High-volume evacuation with or without an intraoral suction, low-volume evacuation, saliva ejector, and rubber dam (when appropriate) have shown effectiveness in reducing aerosol transmission beyond the generation
+site. Finally, the appropriate combination of ventilation and filtration in dental operatories is effective in limiting the spread of aerosols.
+
+Discussion and Conclusion:
+
+Aerosols produced during clinical procedures can pose a risk of infection transmission between dental hygienists and their patients. The implementation of practices supported by available evidence will ensure greater patient and provider
+safety in oral health settings. More studies in oral health clinical environments would shape future practices and protocols, ultimately to ensure the delivery of safe clinical care.
+
+FULL TEXT:
+

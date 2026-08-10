@@ -15,8 +15,21 @@ source_collection: external
 
 → 관련 wiki: [[wiki/overviews/osseodensification-clinical-applications]] / [[wiki/implants/mohammadi-2025-osseodensification-conventional-low-density-bone-sr-ma]]
 
-## One-line Summary
-Systematic review and meta-analysis of 7 studies comparing osseodensification vs conventional drilling specifically in low-density bone, using ISQ-based stability outcomes plus periodontal indices.
+## Three-line Summary
+
+Systematic review and meta-analysis of 7 studies
+
+comparing osseodensification vs conventional drilling specifically in
+
+low-density bone, using ISQ-based stability outcomes plus periodontal indices.
+
+## 세줄요약
+
+체계적 고찰 (Systematic Review, SR) and 메타분석 (Meta-analysis, MA) of 7 studies
+
+comparing osseodensification 대 (vs) conventional drilling specifically in
+
+low-density 골 (Bone), using 임플란트 안정성 지수 (Implant Stability Quotient, ISQ)-based stability outcomes plus periodontal indices.
 
 ## 1. Document Information
 - **Title:** Primary and secondary stability in implants placed in low-density bone using conventional vs. osseodensification technique: a systematic review and meta-analysis

@@ -13,11 +13,21 @@ source_collection: external
 
 Fan 2018 [[occlusion/fan-2018-occlusal-trauma-and-excessive-occlusal]]이 정의·논쟁을 정리했다면, 본 SR은 실제 개입(스플린팅·교합조정)이 치주염 환자의 치아 생존·임상지표를 바꾸는지 직접 검증한다. 동요치 스플린팅의 효용에 관한 임상결정 근거.
 
-## One-line Summary
-Systematic review finding that, on low-level evidence, tooth splinting does NOT improve survival of mobile teeth in advanced periodontitis, while occlusal adjustment of mobile/prematurely-contacting teeth may improve clinical attachment level (other parameters unclear).
+## Three-line Summary
 
-## 한줄요약
-SR — 낮은 근거수준에서 치아 스플린팅은 진행성 치주염의 동요치 생존을 개선하지 못하고, 동요·조기접촉 치아의 교합조정은 임상부착수준(CAL)을 개선할 수 있음(나머지 지표는 불명확).
+Systematic review (5 studies: 2 case series on splinting, 1 RCT + 2 prospective on occlusal adjustment) examining hard outcomes (tooth loss, CAL, pocket depth, mobility) in periodontitis patients with masticatory dysfunction over ~2 years.
+
+Tooth splinting showed no survival benefit (8.4% tooth loss vs 10.1% without, n=1852 teeth); occlusal adjustment yielded CAL gains on low-level evidence, but effects on tooth loss and mobility remained unclear and heterogeneous.
+
+Overall evidence quality is low due to sparse, mostly non-randomized studies with short follow-up; long-term survival data and stronger RCT designs are needed to guide clinical decision-making for splinting efficacy in periodontitis.
+
+## 세줄요약
+
+체계적문헌고찰(5개 연구: 스플린팅 사례보고 2개, 교합조정 RCT 1개·전향 2개) — 치주염 환자의 저작기능부전에 대한 하드아웃컴(치아손실, CAL, 포켓깊이, 동요도) ~2년 추적.
+
+스플린팅은 생존 이득 없음(8.4% 치아손실 vs 비치료 10.1%, n=1852치), 교합조정은 낮은 근거수준에서 CAL 개선 시사; 치아손실·동요도 효과는 불명확·이질적.
+
+근거수준 낮음(소수의 비무작위 연구, 단기 추적) — 스플린팅의 임상효용을 판단하려면 장기 생존 자료와 강력한 RCT 설계 필요.
 
 ## 1. Document Information
 - J Clin Periodontol 2022;49(Suppl 24). Systematic Review. DOI 10.1111/jcpe.13563.

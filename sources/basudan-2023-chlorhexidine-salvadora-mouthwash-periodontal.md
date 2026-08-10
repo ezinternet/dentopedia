@@ -17,13 +17,21 @@ text_filename: basudan-2023-chlorhexidine-salvadora-mouthwash-periodontal.txt
 
 0.12% CHX 가글의 NSPT 보조 효능 및 흡연자 대상 데이터. 허브 대체 가글(miswak, Salvadora persica)과의 비교 RCT로, CHX가 항진균 효과에서 우월하다는 근거 제공—[[james-2017-chlorhexidine-mouthrinse-adjunctive-gingival]] 코크란 리뷰를 보강하는 구체적 실험 데이터.
 
-## One-line Summary
+## Three-line Summary
 
-RCT (n=191, 6 weeks, India) — 0.12% CHX and Salvadora persica mouthwash equally reduce periodontal inflammation after NSPT in non-smokers; CHX superior for reducing oral Candida carriage; smokers show no significant benefit from either mouthwash on Candida.
+Single-blind parallel-arm RCT (n=191; smokers with periodontitis, non-smokers with periodontitis, non-smokers with healthy periodontium; 6-week follow-up; India) comparing 0.12% CHX vs Salvadora persica mouthwash (SPM) vs distilled water as NSPT adjuncts.
 
-## 한줄요약
+Both CHX and SPM equally reduced PI, GI, and PD vs control in non-smoking periodontitis patients (p<0.01), with no significant intergroup difference; CHX was significantly superior to SPM for reducing oral Candida carriage in non-smokers (p<0.01); smokers showed no significant benefit from either mouthwash on Candida reduction.
 
-RCT (191명, 6주) — 0.12% CHX와 miswak 가글은 비흡연 치주염 환자 NSPT 후 치주 염증 감소 동등; CHX는 Candida 항진균 효과에서 우월; 흡연자에서는 가글 효과 불명확.
+CHX and miswak are equivalent anti-inflammatory adjuncts post-NSPT in non-smokers, but CHX retains a meaningful antifungal advantage; smoking abolishes the antifungal benefit of both mouthwashes, warranting targeted cessation counseling.
+
+## 세줄요약
+
+단일맹검 평행군 RCT(191명; 흡연 치주염·비흡연 치주염·비흡연 건강 치주 각 군; 6주; 인도) — NSPT 보조로 0.12% CHX vs Salvadora persica 가글(SPM) vs 증류수 비교.
+
+비흡연 치주염군에서 CHX·SPM 모두 PI·GI·PD를 대조군 대비 유의하게 감소(p<0.01)했으며 군간 차이 없음; CHX는 비흡연자에서 구강 칸디다 감소에 SPM보다 유의하게 우월(p<0.01); 흡연자는 어떤 가글에서도 칸디다 감소 효과 없음.
+
+CHX와 miswak는 비흡연자에서 NSPT 후 항염 효과 동등하나 CHX는 항진균 이점이 유의하게 크며, 흡연이 두 가글 모두의 항진균 효과를 상쇄하므로 흡연 환자에게는 금연 상담이 병행되어야 한다.
 
 ## 1. Document Information
 
@@ -72,7 +80,7 @@ RCT (191명, 6주) — 0.12% CHX와 miswak 가글은 비흡연 치주염 환자 
 
 ## 6. Related Work
 
-- [[periodontics/james-2017-chlorhexidine-mouthrinse-adjunctive-gingival]] — Cochrane; 0.12% CHX 포함 SR+MA
+- [[periodontics/oral-hygiene-instruction/james-2017-chlorhexidine-mouthrinse-adjunctive-gingival]] — Cochrane; 0.12% CHX 포함 SR+MA
 - [[periodontics/apatzidou-2022-cigarette-smoking-periodontal-implant-review]] — 흡연과 치주 관계
 
 ## 7. Glossary

@@ -11,15 +11,23 @@ source_collection: external
 
 ## Why Ingested
 
-얇은 협측골을 가진 심미부 즉시식립에서 **연조직 증대(CTG) vs 골이식재 vs 맞춤형 치유지대주(CHA) 단독**이 1년 중안면 치은연 변화에 미치는 효과를 직접 비교한 RCT. [[immediate-implant/esthetic-soft-tissue/seyssens-2021-immediate-implant-connective-tissue-graft-sr-ma]](CTG SR+MA)의 결론을 1차 RCT 근거로 보강하고, [[immediate-implant/dutra-2025-customized-healing-abutments-immediate-implants]](CHA)와 대비된다.
+얇은 협측골을 가진 심미부 즉시식립에서 **연조직 증대(CTG) vs 골이식재 vs 맞춤형 치유지대주(CHA) 단독**이 1년 중안면 치은연 변화에 미치는 효과를 직접 비교한 RCT. [[immediate-implant/esthetic-soft-tissue/seyssens-2021-immediate-implant-connective-tissue-graft-sr-ma]](CTG SR+MA)의 결론을 1차 RCT 근거로 보강하고, [[immediate-implant/esthetic-soft-tissue/dutra-2025-customized-healing-abutments-immediate-implants]](CHA)와 대비된다.
 
-## One-line Summary
+## Three-line Summary
 
-1-year RCT (39 maxillary esthetic-zone sites, thin labial bone) comparing immediate implant placement with bone graft vs CTG vs customized healing abutment (CHA) alone; CTG produced the least midfacial gingival recession and reduced volumetric soft-tissue loss ~5-fold, while CHA alone failed to maintain contour (recession −0.74 CTG vs −0.98 bone graft vs −1.54 mm CHA).
+1-year RCT (39 maxillary esthetic-zone sites with thin labial bone), parallel 3-arm design comparing immediate implant placement with bone graft, connective tissue graft (CTG), or customized healing abutment (CHA) alone.
 
-## 한줄요약
+CTG produced the least midfacial gingival recession (−0.74 mm) and reduced volumetric soft-tissue loss ~5-fold compared to bone graft (−0.98 mm) and CHA alone (−1.54 mm), with significant between-group differences (P ≤ 0.05).
 
-1년 RCT(심미부 39부위, 얇은 협측골) — 즉시식립 시 결합조직이식(CTG)군이 중안면 치은퇴축이 가장 적고(−0.74 mm) 부피 손실을 약 5배 줄인 반면, 맞춤형 치유지대주(CHA) 단독군은 윤곽 유지에 실패했다(−1.54 mm; 골이식재군 −0.98 mm).
+Small single-center RCT (n = 13 per arm) with 1-year follow-up; results suggest CTG is superior for soft-tissue stability in esthetic-zone immediate implants, though future multicenter studies with longer follow-up are needed.
+
+## 세줄요약
+
+1년 RCT(심미부 39부위, 얇은 협측골), 3군 병렬설계 — 즉시식립에 골이식재 vs 결합조직이식(CTG) vs 맞춤형 치유지대주(CHA) 단독을 비교.
+
+CTG군이 중안면 치은퇴축이 가장 적었고(−0.74 mm) 부피 손실을 약 5배 줄였으며, 골이식재군(−0.98 mm)과 CHA 단독군(−1.54 mm) 간 통계적 유의차 (P ≤ 0.05).
+
+소규모 단일센터 RCT(군당 n = 13), 1년 추적; CTG가 심미부 즉시식립 환자의 연조직 안정성에 우월하나, 다기관 장기 추적연구 필요.
 
 ## 1. Document Information
 

@@ -6,18 +6,28 @@ date: 2024-01-01
 doi: 10.1186/s12903-024-04259-w
 source: kaur-2024-eal-vs-radiograph-working-length-sr-ma.md
 category: [endodontics/eal]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/kaur-2024-eal-vs-radiograph-working-length-sr-ma.pdf
 pdf_filename: kaur-2024-eal-vs-radiograph-working-length-sr-ma.pdf
 source_collection: external
 tags: [EAL, apex-locator, working-length, radiograph, RCT, meta-analysis]
 ---
 
-## One-line Summary
-Systematic review + meta-analysis (11 RCTs) comparing electronic apex locators (EAL) vs intraoral radiographs for working length determination: pain was identical (SMD 0.00, p=0.98), radiographs were more accurate (SMD 0.55, p=0.02), yet EAL gave 10% better treatment adequacy (RR 1.10, p=0.006); overall evidence certainty very low.
+## Three-line Summary
 
-## 한줄요약
-SR+MA (11개 RCT): EAL은 방사선보다 근관치료 적합성 10% 향상, 그러나 정확도는 방사선이 우세하며 통증 차이는 없음 — 전반적 근거 수준 매우 낮음.
+SR+MA of 11 RCTs comparing electronic apex locators (EAL) vs intraoral radiographs for working length determination across pain, accuracy, and treatment adequacy outcomes; overall certainty rated very low due to heterogeneity and risk of bias.
+
+Pain during working length determination was identical between methods (SMD 0.00, p=0.98); radiographs produced more accurate single measurements (SMD 0.55, p=0.02), yet EAL yielded 10% better overall treatment adequacy (RR 1.10, p=0.006).
+
+EAL's advantage in treatment adequacy despite inferior point-measurement accuracy supports its clinical adoption, but the very low evidence base calls for higher-quality RCTs before definitive recommendations.
+
+## 세줄요약
+
+EAL vs 구내방사선 근관장측정을 통증·정확도·치료 적합성 3개 결과변수로 비교한 SR+MA(RCT 11편), 전반적 근거 수준 매우 낮음(이질성·비뚤림 위험).
+
+근관장측정 중 통증은 두 군 동일(SMD 0.00, p=0.98); 단일 측정 정확도는 방사선이 우세(SMD 0.55, p=0.02), 그러나 전체 치료 적합성은 EAL이 10% 더 우수(RR 1.10, p=0.006).
+
+단일 정확도 열위에도 치료 적합성에서 EAL이 유리해 임상 채택을 지지하나, 매우 낮은 근거 수준으로 고품질 RCT 추가가 필요.
 
 ## Summary
 Systematic review and meta-analysis of 11 RCTs comparing 전자근단측정기 (Electronic Apex Locator, EAL) vs 구내방사선사진 (intraoral radiograph) for 근관장측정 (working length determination, WLD). Pain during WLD was identical (SMD 0.00, P=0.98). Radiograph produced more accurate WLD (SMD 0.55, P=0.02), but EAL showed 10% better treatment adequacy (RR 1.10, P=0.006). Overall evidence certainty was very low due to heterogeneity and risk of bias.

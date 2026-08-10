@@ -6,18 +6,26 @@ date: 2023-04-14
 doi: 10.7759/cureus.37888
 source: aswal-2023-cadcam-zirconia-lithium-disilicate-crowns-sr-ma.md
 category: [dental-materials/zirconia]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/aswal-2023-cadcam-zirconia-lithium-disilicate-crowns-sr-ma.pdf
 pdf_filename: aswal-2023-cadcam-zirconia-lithium-disilicate-crowns-sr-ma.pdf
 source_collection: external
 tags: [cadcam, zirconia, lithium-disilicate, metal-ceramic, crown, fpd, esthetic-complications, biological-complications, technical-complications, survival-rate, or]
 ---
 
-## One-line Summary
-SR+MA of CAD/CAM (zirconia and lithium disilicate) vs conventional PFM crowns and FDPs (Cureus 2023, 13 studies, 1,598 restorations): esthetic complications OR 16.88 significantly higher for CAD/CAM; biological and technical complications not significantly different.
+## Three-line Summary
+SR+MA (Cureus 2023; 13 studies, 1,598 restorations, 1,161 patients; mean follow-up 3.6 years) comparing CAD/CAM (zirconia and lithium disilicate) to conventional PFM full crowns and FDPs, using RevMan5 random-effects model for biological, technical, and esthetic complications.
 
-## 한줄요약
-CAD/CAM(지르코니아·리튬 디실리케이트) vs 전통 도재-금속관(Porcelain-Fused-to-Metal, PFM) SR+MA (Cureus 2023): 13편 1,598수복물; 심미합병증 OR 16.88로 CAD/CAM 유의하게 높음; 생물학적·기술적 합병증은 비유의.
+Esthetic complications (color mismatch, surface roughness) were significantly higher in CAD/CAM restorations (OR 16.88, 95% CI 7.59–37.56, p<0.00001); biological (OR 1.17) and technical (OR 1.14) complications were not significantly different from PFM.
+
+Survival rates were comparable at mean 3.6 years; esthetic shortfall of CAD/CAM vs PFM is the key clinical disadvantage, though variation in esthetic complication definitions across studies limits interpretation.
+
+## 세줄요약
+CAD/CAM(지르코니아·리튬 디실리케이트) vs 전통 도재-금속관(Porcelain-Fused-to-Metal, PFM) 크라운 및 FPD SR+MA(Cureus 2023; 13편, 수복물 1,598개, 환자 1,161명; 평균 추적 3.6년); RevMan5 랜덤효과 모델로 생물학적·기술적·심미적 합병증 분석.
+
+심미 합병증(색조 불일치, 표면 거칠기)은 CAD/CAM에서 유의하게 높음(OR 16.88, 95% CI 7.59–37.56, p<0.00001); 생물학적(OR 1.17) 및 기술적(OR 1.14) 합병증은 PFM과 비유의.
+
+평균 3.6년 생존율은 동등하나, 심미 합병증이 CAD/CAM의 핵심 임상 단점이며 연구 간 심미 합병증 정의 차이가 해석을 제한함.
 
 ## Summary
 Systematic review and meta-analysis (13 studies, 1,598 restorations, 1,161 patients; mean follow-up 3.6 years) comparing CAD/CAM (zirconia and lithium disilicate) to conventional metal-ceramic (PFM) full crowns and FPDs. Primary outcome: biological, technical, and esthetic complications. Meta-analysis using RevMan5 random-effects model.
@@ -45,6 +53,6 @@ Biological complications (OR 1.17, 95% CI 0.64–2.17) and technical complicatio
 | **Esthetic complications** | **16.88** | **7.59–37.56** | **p<0.00001** |
 
 ## Related Papers
-- [[dental-materials/saravi-2021-cadcam-all-ceramic-fdp-clinical-sr-ma]] — CAD/CAM all-ceramic FDP SR+MA
-- [[dental-materials/almashaan-2023-lithium-disilicate-survival-sr]] — LDS survival SR
+- [[dental-materials/ceramic/saravi-2021-cadcam-all-ceramic-fdp-clinical-sr-ma]] — CAD/CAM all-ceramic FDP SR+MA
+- [[dental-materials/ceramic/almashaan-2023-lithium-disilicate-survival-sr]] — LDS survival SR
 - [[dental-materials/zirconia/lolos-2025-zirconia-restorations-5year-retrospective]] — ZrO₂ 5-year retrospective

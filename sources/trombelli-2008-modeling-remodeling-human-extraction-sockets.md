@@ -9,8 +9,21 @@ pdf_filename: trombelli-2008-modeling-remodeling-human-extraction-sockets.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Human histological case series (27 biopsies across early, intermediate, and late phases of socket healing over 6 months): granulation tissue is replaced by provisional matrix and woven bone between weeks 2–6; vascularity and macrophage density decrease over time; osteoblast presence peaks at 6–8 weeks; mineralization of socket bone is highly variable between individuals.
+## Three-line Summary
+
+Human histological case series (27 biopsies across early, intermediate, and late phases of socket healing over 6 months): granulation tissue is replaced by provisional matrix and woven bone between weeks 2–6
+
+vascularity and macrophage density decrease over time
+
+osteoblast presence peaks at 6–8 weeks; mineralization of socket bone is highly variable between individuals.
+
+## 세줄요약
+
+Human histological 증례 모음 (Case Series) (27 biopsies across early, intermediate, and late phases of socket healing over 6 months): granulation tissue is replaced by provisional matrix and woven bone between weeks 2–6
+
+vascularity and macrophage density decrease over time
+
+osteoblast presence peaks at 6–8 weeks; mineralization of socket bone is highly variable between individuals.
 
 ## 1. Document Information
 - **Journal**: Journal of Clinical Periodontology, 2008; 35(7): 630–639

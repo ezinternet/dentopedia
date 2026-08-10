@@ -13,13 +13,21 @@ source_collection: external
 
 상악 전치부 즉시식립 계획 시 절치관(Incisive Canal, IC) 해부학적 변이가 식립 위치에 미치는 영향을 정량화한 CBCT 연구. 기존 [[wiki/immediate-implant/panda-2018-cbct-incisive-canal-anterior-maxillary]]와 함께 IC 변이의 인종·성별 차이를 보완하며, 상악 전치부 즉시식립 시 IC 침범 리스크 평가 근거로 활용.
 
-## One-line Summary
+## Three-line Summary
 
-CBCT study (n=90 Mongoloids) quantifying maxillary incisive canal/foramen dimensions — IC mean length 16.33 mm, width 3.85 mm — and demonstrating gender and age effects on anterior maxillary bone thickness relevant to immediate anterior implant placement.
+Cross-sectional CBCT morphometric study (n=90 Mongoloid subjects; 46 males, 44 females; ages 15–75) quantifying maxillary incisive canal (IC) and foramen (IF) dimensions relevant to anterior immediate implant planning.
 
-## 한줄요약
+IC mean length 16.33 mm, mid-canal width 3.85 mm; males had significantly larger IC, IF, and anterior maxillary bone thickness; anterior bone thickness (mean 7.63 mm) decreased with age (p<0.05) while canal dimensions were age-stable.
 
-CBCT 횡단면 연구(n=90 몽골로이드)에서 상악 절치관 평균 길이 16.33mm, 폭 3.85mm를 정량화하고, 남성이 더 큰 IC 및 전방 골두께를 가지며 연령 증가 시 전방 골두께가 감소함을 확인.
+Compared to non-Asian norms, this population shows a longer, more slanted-curved IC and narrower IF — preoperative CBCT assessment is critical to avoid IC encroachment in palatally angulated immediate anterior implants, especially in older patients.
+
+## 세줄요약
+
+CBCT 횡단면 형태계측 연구 (n=90 몽골로이드; 남 46, 여 44; 연령 15–75세) — 상악 절치관(Incisive Canal, IC) 및 절치공(Incisive Foramen, IF) 치수를 즉시식립 계획과 연계하여 정량화.
+
+IC 평균 길이 16.33 mm, 폭 3.85 mm; 남성이 IC·IF·전방 골두께 유의하게 크고(p<0.05), 전방 골두께(평균 7.63 mm)는 연령 증가 시 감소(p<0.05)하나 IC 치수는 연령에 안정적.
+
+비아시아 기준에 비해 더 길고 기울어진 IC와 좁은 IF를 가져 구개 경사 즉시식립 시 IC 침범 위험이 높으며, 특히 고령 환자에서 술전 CBCT 평가가 필수임.
 
 ## 1. Document Information
 

@@ -16,13 +16,21 @@ text_filename: naumann-2017-ferrule-first-post-second-systematic-review.txt
 
 This is the landmark clinical SR that directly challenges the post-first assumption — it establishes that ferrule >> post in clinical evidence, redirecting clinical priorities. This is one of the most-cited conceptual papers in post-and-core dentistry. Directly extends [[wiki/post-and-core/]] category and provides the clinical evidence base for ferrule-effect discussions.
 
-## One-line Summary
+## Three-line Summary
 
-SR of 8 prospective clinical studies (≥5yr) in endodontically treated teeth: ferrule/cavity wall preservation is the dominant survival factor; 7/8 studies show no independent benefit from post placement.
+SR of 8 prospective clinical studies (≥5yr) in endodontically treated teeth: ferrule/cavity wall preservation is the dominant survival factor;
 
-## 한줄요약
+7/8 studies show no independent benefit from post placement.
+
+(incomplete)
+
+## 세줄요약
 
 근관치료 치아 대상 전향적 임상연구 8편(5년 이상) 체계적 고찰: 페룰(ferrule)·치벽 보존이 생존의 주요 결정인자이며, 8편 중 7편에서 포스트의 독립적 효과 없음.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

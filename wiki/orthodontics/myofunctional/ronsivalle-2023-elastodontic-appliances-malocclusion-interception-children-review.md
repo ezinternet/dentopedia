@@ -6,7 +6,7 @@ date: 2023-11-17
 doi: 10.3390/children10111821
 source: ronsivalle-2023-elastodontic-appliances-malocclusion-interception-children-review.md
 category: [orthodontics/myofunctional]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "38002912"
@@ -20,13 +20,21 @@ relations:
     target: ureni-2024-elastodontic-devices-sagittal-malocclusion-scoping-review
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic-search hybrid review (4 databases, 2403→13 included studies, mostly case reports/series + retrospective, 1 prospective) concluding elastodontic appliances intercept mild-to-moderate dentoskeletal malocclusion in mixed dentition (mild class III, class II with high overjet/overbite, functional posterior crossbite, anterior crowding, atypical swallowing) but on weak evidence — caution before substituting conventional functional appliances.
+Systematic-search hybrid review (4 databases, 2403→13 studies; 3 case reports, 3 case–control, 5 retrospective, 1 prospective) mapping the malocclusion indications of elastodontic appliances across six domains: mild Class III, Class II (high OJ/OB), functional posterior crossbite, anterior crowding, atypical swallowing/bad habits, and rare applications (dentinogenesis imperfecta).
 
-## 한줄요약
+Elastodontic appliances intercept mild-to-moderate dentoskeletal malocclusion in mixed dentition via light neuromuscular elastic force, with SNB increasing in Class II and IMW/ICW increasing in functional crossbite; the protocol is 6–8 months active (night + 1–2 h/day) plus 12–16 months retention.
 
-체계적 검색 기반 하이브리드 리뷰(4개 DB, 2403건→최종 13편, 대부분 증례보고/증례군·후향연구, 전향 1편)로 탄성교정장치(Elastodontic Appliance, EA)가 혼합치열기의 경도~중등도 치성-골격성 부정교합(경도 3급, 과도한 overjet/overbite의 2급, 기능성 구치부 반대교합, 전치부 총생, 비정형 연하)을 차단치료할 수 있으나 근거 수준이 낮아 기존 기능성 장치 대체에는 신중해야 한다고 결론.
+The evidence base is weak (predominantly case-level designs, 1 prospective study) and elastodontic devices should not yet substitute established conventional functional appliances — they are a comfortable, prefabricated, lower-burden adjunct for carefully selected mild cases.
+
+## 세줄요약
+
+체계적 검색 하이브리드 리뷰(4개 DB, 2403건→13편; 증례보고 3·증례대조 3·후향 5·전향 1편) — 탄성교정장치(Elastodontic Appliance, EA) 적응증을 6개 영역(경도 3급, 2급 과개·과잉피개, 기능성 후방 반대교합, 전치부 총생, 비정형 연하/나쁜 습관, 특수응용)에 걸쳐 매핑.
+
+탄성교정장치는 신경근 탄성력으로 혼합치열기 경도~중등도 부정교합을 차단; 2급에서 SNB 증가, 기능성 반대교합에서 IMW·ICW 증가. 활성기 6~8개월(야간+낮 1~2시간)+유지기 12~16개월 프로토콜.
+
+근거 수준이 낮아(대부분 증례 수준, 전향 1편) 기존 기능성 장치 대체는 시기상조 — 선별된 경도 증례의 편안하고 맞춤 없는 부담 낮은 보조 선택지로 활용.
 
 ## Summary
 

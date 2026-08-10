@@ -16,13 +16,21 @@ text_filename: debrier-2020-storage-avulsed-tooth-prior.txt
 
 Seeds the new `dental-trauma` category (previously a gap) with the single highest-yield emergency decision in avulsion management: which storage medium a layperson should use before replantation. Directly supplies the periodontal-ligament-survival rationale that underlies IADT first-aid advice and pairs with the downstream splinting/replantation evidence in [[dental-trauma/kumari-2025-effect-splinting-outcomes-replantation-avulsed]].
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (33 studies, 10 in MA; GRADE low–very low): for storing an avulsed tooth before replantation, HBSS, propolis, oral rehydration salts, rice water, and cling film preserve PDL-cell viability at least as well as (or better than) milk; saline and tap water are worse than milk.
+SR+MA (33 studies qualitative, 10 in meta-analysis; Cochrane First Aid/Belgian Red Cross CEBaP; Dental Traumatology 2020) comparing layperson-accessible storage media for avulsed teeth before replantation using in-vitro/ex-vivo PDL-cell viability as the surrogate outcome.
 
-## 한줄요약
+HBSS (SMD 2.47), propolis (SMD 1.73), oral rehydration salts (SMD 4.16), rice water, and cling film preserved PDL-cell viability at least as well as or better than milk; saline (SMD −4.35) and tap water were significantly worse than milk; GRADE certainty was low to very low.
 
-SR+MA (33편, MA 10편; GRADE 낮음–매우 낮음): 탈구치 재식 전 보관 매체로 HBSS·프로폴리스·경구수액염(ORS)·쌀뜨물·랩(cling film)이 우유 이상으로 치주인대(PDL) 세포 생존율을 보존하며, 식염수·수돗물은 우유보다 나쁘다.
+The practical field hierarchy is HBSS or propolis if available, then milk, then ORS or cling film as accessible alternatives; saline and tap water should be avoided — contrary to common lay assumption.
+
+## 세줄요약
+
+SR+MA (정성 33편, 메타 10편; Cochrane First Aid/벨기에 적십자 CEBaP; Dental Traumatology 2020): 재식 전 탈구치(Avulsed Tooth) 보관 매체를 in-vitro/ex-vivo 치주인대(Periodontal Ligament, PDL) 세포 생존율로 비교.
+
+HBSS(SMD 2.47)·프로폴리스(SMD 1.73)·경구수액염(Oral Rehydration Salts, ORS; SMD 4.16)·쌀뜨물·랩(cling film)이 우유 대비 PDL 생존율 동등 이상; 식염수(SMD -4.35)·수돗물은 우유보다 유의하게 나쁨; GRADE 근거 낮음–매우 낮음.
+
+응급 현장 우선순위: HBSS 또는 프로폴리스 → 우유 → ORS/랩 순; 식염수·수돗물은 금지 — 일반인의 일반적 오해와 반대되는 결과.
 
 ## 1. Document Information
 

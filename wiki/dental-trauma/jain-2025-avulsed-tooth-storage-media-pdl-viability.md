@@ -6,7 +6,7 @@ date: 2025-05-30
 doi: 10.4103/aam.aam_138_24
 source: jain-2025-avulsed-tooth-storage-media-pdl-viability.md
 category: [dental-trauma]
-confidence: in-vitro
+evidence_level: in-vitro
 text_path: /Users/oracleneo/llm-wiki/papers/jain-2025-avulsed-tooth-storage-media-pdl-viability.txt
 text_filename: jain-2025-avulsed-tooth-storage-media-pdl-viability.txt
 source_collection: pubmed-text
@@ -16,13 +16,21 @@ relations:
     target: debrier-2020-storage-avulsed-tooth-prior
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In vitro study (n=62 premolars, 30-min dry + 45-min storage) finding that DNS and ORS maintain PDL cell viability equivalent to HBSS for avulsed tooth transport; fruit juice is the worst performer.
+In vitro study (62 freshly extracted premolars, patients <30 years, 30-min dry period + 45-min storage in 7 groups) comparing HBSS, DNS, ORS, Monster energy drink, Frooti fruit juice, immediate control, and 8-hour dry negative control using trypan blue PDL-cell viability counts.
 
-## 한줄요약
+DNS (316.2 cells) and ORS (320.0 cells) were statistically equivalent to HBSS (341.8 cells; both P>0.05) in maintaining PDL viability; energy drink was inferior to HBSS but comparable to DNS/ORS; fruit juice (Frooti, 287.5 cells) was the worst performer due to low pH and high osmolality.
 
-체외 실험 (n=62 소구치, 30분 건조 후 45분 보관) — 당포도당생리식염수 (Dextrose Normal Saline, DNS)와 경구수액 (Oral Rehydration Salt, ORS)가 한크평형염용액 (Hanks Balanced Salt Solution, HBSS)과 동등한 치주인대 (Periodontal Ligament, PDL) 세포 생존율 유지; 과일주스 최저, 에너지드링크 단기 대안 가능.
+DNS and ORS are practical pharmacy-accessible HBSS alternatives for avulsed tooth storage when HBSS is unavailable, while fruit juice should be explicitly discouraged in patient first-aid instructions.
+
+## 세줄요약
+
+체외 실험 (신선 발거 소구치 62개, 환자 <30세, 30분 건조 후 45분 보관, 7군): HBSS, DNS, ORS, 에너지드링크(Monster), 과일주스(Frooti), 즉시(양성대조), 8시간 건조(음성대조) 비교를 트리판 블루 PDL 세포 생존율로 평가.
+
+DNS(316.2개)와 ORS(320.0개)가 HBSS(341.8개)와 통계적으로 동등한 PDL 세포 생존율 유지 (모두 P>0.05); 에너지드링크는 HBSS보다 열등하나 DNS·ORS와 유사; 과일주스(Frooti, 287.5개)는 낮은 pH와 고삼투압으로 최저 성적.
+
+DNS와 ORS는 HBSS를 구할 수 없을 때 탈구치 보관을 위한 실용적·약국 접근 가능한 대안이며, 과일주스는 환자 응급처치 지침에서 명시적으로 배제해야 한다.
 
 ## Summary
 

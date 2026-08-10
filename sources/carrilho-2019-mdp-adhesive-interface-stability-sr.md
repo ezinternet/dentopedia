@@ -17,13 +17,21 @@ text_filename: carrilho-2019-mdp-adhesive-interface-stability-sr.txt
 
 Anchors the 10-MDP functional-monomer batch by synthesizing the three interface features that make 10-MDP the benchmark monomer — self-assembled nanolayering, the acid-base-resistant zone (ABRZ), and stable low-solubility MDP-Ca salts — and ties them to bond durability over time. Reinforces the mechanistic, microscopy-level finding in the sibling page [[wiki/resin-bonding/yoshihara-2011-nanolayering-mdp-enamel-dentin]] (nanolayering on enamel/dentin), aggregating it with 71 other studies into a clinical recommendation (scrubbing application + infiltration dwell time to form stable MDP-Ca).
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (PRISMA-P; 72 of 1383 references; PubMed/Cochrane/Web of Science/Embase) finding that 10-MDP–containing self-etch and universal adhesives produce a nano-layered, acid-base-resistant interface with low-solubility MDP-Ca salts that yields the most hydrolytically stable, durable resin-dentin bond among functional monomers — provided a scrubbing application technique and adequate infiltration time are used.
+Systematic review (PRISMA-P; 72/1,383 references included; PubMed, Cochrane, Web of Science, Embase) characterizing 10-MDP–containing self-etch and universal dental adhesives across three mechanistic axes: molecular structure/nanolayering, acid-base-resistant zone (ABRZ) formation, and long-term adhesive stability.
 
-## 한줄요약
+10-MDP produces self-assembled nano-layered structures, an ABRZ adjacent to the hybrid layer, and low-solubility MDP-Ca salts at the enamel/dentin interface — yielding the most hydrolytically stable and durable resin-dentin bond among tested functional monomers, with MDP-Ca remaining stable after one year of water storage.
 
-체계적 문헌고찰(PRISMA-P, 1383편 중 72편; PubMed·Cochrane·Web of Science·Embase): 10-MDP 함유 자가부식·유니버설 접착제는 나노층(nanolayering), 산-염기 저항층(ABRZ), 저용해도 MDP-Ca 염을 형성해 기능성 모노머 중 가장 가수분해에 안정적이고 내구성 있는 레진-상아질 결합을 만든다 — 단, 문지르기(scrubbing) 도포와 충분한 침투 시간이 전제.
+Clinically, scrubbing (active) application, adequate infiltration time, and selective enamel etching for higher-pH one-bottle systems are essential to achieve the full durability benefit; product concentration and purity of 10-MDP vary across brands and affect outcomes.
+
+## 세줄요약
+
+체계적 문헌고찰(PRISMA-P; 1,383편 중 72편; PubMed·Cochrane·Web of Science·Embase): 10-MDP 함유 자가부식·유니버설 접착제를 분자구조/나노층(Nanolayering), 산-염기 저항층(ABRZ, Acid-Base Resistant Zone), 장기 안정성 세 축으로 분석.
+
+10-MDP는 법랑질·상아질 계면에서 자기조립 나노층 구조, ABRZ, 저용해도 MDP-Ca 염을 형성해 기타 기능성 모노머 대비 가수분해 저항성이 가장 높고 수중 1년 보관 후에도 MDP-Ca 안정 유지.
+
+임상적으로 문지르기(Scrubbing) 도포·충분한 침투 시간·고-pH 단일 병 시스템에서 선택적 법랑질 산부식이 내구성 극대화에 필수이며, 제품별 10-MDP 농도·순도 차이가 결과에 영향을 미친다.
 
 ## 1. Document Information
 

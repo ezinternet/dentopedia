@@ -17,13 +17,21 @@ text_filename: ureni-2024-elastodontic-devices-sagittal-malocclusion-scoping-rev
 
 Seeds the EF-Line / elastodontic (myofunctional-orthodontics) evidence base in the new `orthodontics/myofunctional` subcategory. This is the first scoping review to evaluate elastodontic-device outcomes specifically by **cephalometric** measurement on the **sagittal plane** in mixed-dentition Class II patients, so it anchors the quantitative ceiling (ANB, SNB, OVJ effect ranges) against which the batch siblings are read. It reinforces [[wiki/orthodontics/myofunctional/ronsivalle-2023-elastodontic-appliances-malocclusion-interception-children-review]] (interception-in-children review) and pairs with the AMCOP-protocol and overjet/overbite-reduction siblings — all establish that elastodontic appliances beat no-treatment but underperform rigid functional appliances (twin-block).
 
-## One-line Summary
+## Three-line Summary
 
-Scoping review (PRISMA-ScR; 16 studies, n=345 treated, mean age 8.48 y) finding elastodontic appliances produce statistically significant sagittal correction in mixed-dentition Class II — SNB ↑ (13 studies, +0.61° to +2.82°), ANB ↓ (11–12 studies, −0.38° to −2.42°), OVJ ↓ (10 studies, −2.1 to −4.58 mm) — effective vs no-treatment but weaker than twin-block.
+Scoping review (PRISMA-ScR;
 
-## 한줄요약
+16 studies, n=345 treated, mean age 8.48 y) finding elastodontic appliances produce statistically significant sagittal correction in mixed-dentition Class II — SNB ↑ (13 studies, +0.61° to +2.82°), ANB ↓ (11–12 studies, −0.38° to −2.42°), OVJ ↓ (10 studies, −2.1 to −4.58 mm) — effective vs no-treatment but weaker than twin-block.
 
-스코핑 리뷰(PRISMA-ScR; 16편, 치료군 345명, 평균 8.48세)로, 혼합치열기 2급 부정교합에서 탄성교정장치(elastodontic appliance)가 통계적으로 유의한 시상면 개선(SNB ↑ 13편 +0.61°~+2.82°, ANB ↓ 11~12편 −0.38°~−2.42°, OVJ ↓ 10편 −2.1~−4.58 mm)을 보였으나, 무치료 대비 효과적이되 트윈블록보다는 약함.
+(incomplete)
+
+## 세줄요약
+
+스코핑 리뷰(PRISMA-ScR;
+
+16편, 치료군 345명, 평균 8.48세)로, 혼합치열기 2급 부정교합에서 탄성교정장치(elastodontic appliance)가 통계적으로 유의한 시상면 개선(SNB ↑ 13편 +0.61°~+2.82°, ANB ↓ 11~12편 −0.38°~−2.42°, OVJ ↓ 10편 −2.1~−4.58 mm)을 보였으나, 무치료 대비 효과적이되 트윈블록보다는 약함.
+
+(incomplete)
 
 ## 1. Document Information
 

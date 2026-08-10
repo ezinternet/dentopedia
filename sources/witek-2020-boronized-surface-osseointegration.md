@@ -13,13 +13,21 @@ source_collection: external
 
 기존 [[wiki/implants/surface/bonfante-2012-calcium-phosphate-coatings-plasma-spray]]를 포함한 표면처리 연구들이 주로 hydroxyapatite·SLA·산부식 코팅을 다룬 반면, 보론화(boronization) 표면처리의 생체내 골유착 결과는 보고된 바 없었다. 본 동물 연구(Witek 2020)는 양 장골(ovine ilium) 모델에서 보론화 티타늄 임플란트의 BIC/BAFO를 최초로 측정하여, 우수한 기계적 특성에도 불구하고 골유착을 억제한다는 예상치 못한 결과를 보고함으로써 표면처리 선택의 근거를 확장한다.
 
-## One-line Summary
+## Three-line Summary
 
 Animal study (5 sheep, ovine ilium, 3+6 weeks) found boronized CP-titanium implants (BM, BAA) produced significantly lower BIC and declining BAFO over time compared to non-boronized acid-etched controls, indicating boronization impairs osseointegration despite favorable mechanical properties.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 양 장골 모델(n=5, 3·6주)에서 보론화 티타늄 임플란트(BM, BAA)의 BIC와 BAFO가 비보론화 산부식 대조군보다 유의하게 낮고 시간이 지날수록 감소하여, 보론화 표면처리가 우수한 기계적 특성에도 불구하고 골유착을 저해함을 확인하였다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

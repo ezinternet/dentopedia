@@ -9,8 +9,21 @@ pdf_filename: stilwell-2024-occlusal-considerations-implant-maintenance.pdf
 source_collection: external
 ---
 
-## One-line Summary
-BDJ 2024;236(10):773: narrative overview of occlusal checks for implant maintenance — hardware complications (fracture 0.5%), biological complications (MBL, peri-implantitis), 4-step annual occlusal assessment protocol.
+## Three-line Summary
+
+BDJ 2024;236(10):773: narrative overview of occlusal checks for
+
+implant maintenance — hardware complications (fracture 0.5%), biological
+
+complications (MBL, peri-implantitis), 4-step annual occlusal assessment protocol.
+
+## 세줄요약
+
+BDJ 2024;236(10):773: narrative overview of occlusal checks for
+
+implant maintenance — hardware complications (fracture 0.5%), biological
+
+complications (MBL, peri-implantitis), 4-step annual occlusal assessment protocol.
 
 ## 1. Key Results
 - Implant fracture rate: ~0.5% (rare); occlusal overload risk is real but uncommon

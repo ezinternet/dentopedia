@@ -6,18 +6,28 @@ date: 2023-11-14
 doi: 10.3389/fdmed.2023.1281337
 source: sellami-2023-regenerative-endodontic-microbiology-outcome.md
 category: [endodontics/regenerative]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/sellami-2023-regenerative-endodontic-microbiology-outcome.pdf
 pdf_filename: sellami-2023-regenerative-endodontic-microbiology-outcome.pdf
 source_collection: external
 tags: [regenerative-endodontics, rep, microbiology, qpcr, naocl, edta, lprf, e-faecalis, fusobacterium, bacterial-load, disinfection, immature-permanent-tooth]
 ---
 
-## One-line Summary
-Prospective study of microbial reduction and clinical/radiographic outcomes in REP for necrotic immature permanent teeth (Front Dent Med 2023): n=14, qPCR at 4 time points; 1.5% NaOCl single session significantly reduced total bacterial load; F. nucleatum, T. denticola, E. faecalis detected in 100% of cases; LPRF group had retreatment failures → LPRF not recommended.
+## Three-line Summary
 
-## 한줄요약
-미성숙 영구치 치수괴사 REP 미생물 감소와 임상·방사선 결과 (Front Dent Med 2023): 14명 qPCR 4시점; 1.5% NaOCl 1회 세션에서 총 세균 부하 유의 감소; F. nucleatum·T. denticola·E. faecalis 100% 검출; LPRF 군 재치료 발생 → LPRF 비권장.
+Prospective non-randomized controlled study (n=14 microbiology sub-study from n=29 cohort, KU Leuven) using qPCR at 4 time points to measure bacterial load reduction during REP for necrotic immature permanent teeth.
+
+F. nucleatum, T. denticola, and E. faecalis were detected in 100% of cases; a single session of 1.5% NaOCl significantly reduced total bacterial load (p<0.05), and the LPRF scaffold group experienced retreatment failures and persistent apical periodontitis at 3-year recall.
+
+LPRF is contraindicated as a REP scaffold; the standard 1.5% NaOCl + 17% EDTA disinfection protocol achieves adequate microbial reduction, with the blood clot (non-LPRF) group showing full clinical/radiographic healing.
+
+## 세줄요약
+
+전향적 비무작위 대조 연구(qPCR 미생물 하위연구, n=14; KU Leuven)로 미성숙 영구치 치수괴사 REP 중 4시점에서 세균 부하 변화를 측정.
+
+F. nucleatum·T. denticola·E. faecalis가 모든 증례(100%)에서 검출됐고, 1.5% NaOCl 1회 세션에서 총 세균 부하가 유의하게 감소(p<0.05); LPRF 스캐폴드 군은 3년 추적에서 재치료 및 지속적 치근단 치주염이 발생.
+
+LPRF는 REP 스캐폴드로 금기이며, 표준 1.5% NaOCl + 17% EDTA 소독 프로토콜이 충분한 미생물 감소를 달성하고 비LPRF 군에서 완전 치유가 확인되었다.
 
 ## Summary
 Prospective clinical microbiology sub-study (n=14) from a parent non-randomized controlled cohort (n=29) evaluating REP disinfection at KU Leuven. Published November 2023, Front Dent Med 4:1281337. qPCR measured bacterial load at 4 time points across 2 treatment sessions. Key finding: standard 1.5% NaOCl + 17% EDTA protocol effectively reduces bacterial load; LPRF (leukocyte and platelet-rich fibrin) as scaffold is associated with retreatment and persistent apical periodontitis at 3 years — LPRF NOT recommended.

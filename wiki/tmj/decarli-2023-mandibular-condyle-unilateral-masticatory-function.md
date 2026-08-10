@@ -6,7 +6,7 @@ date: 2023-01-01
 doi: 10.1111/ocr.12575
 source: decarli-2023-mandibular-condyle-unilateral-masticatory-function.md
 category: [tmj]
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/decarli-2023-mandibular-condyle-unilateral-masticatory-function.pdf
 pdf_filename: decarli-2023-mandibular-condyle-unilateral-masticatory-function.pdf
 source_collection: external
@@ -16,13 +16,21 @@ relations:
     target: wang-2024-tmj-ovd-elevation-occlusal-loss-rats
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In-vivo micro-CT study of 56 Wistar rats (young + adult, unilateral maxillary molar extraction): reduced occlusal function did NOT hinder condylar process height or base width growth, but the extraction-side condyle of growing rats failed to gain cross-sectional surface (became thinner while keeping its length); adult condyles were largely unaffected by the occlusal change.
+Longitudinal in-vivo micro-CT study of 56 Wistar rats (young 4-wk + adult 26-wk; unilateral maxillary molar extraction, 3-month follow-up) measuring condylar process height, base width, and cross-sectional surface on extraction-side vs contralateral condyles.
 
-## 한줄요약
+Reduced occlusal function did not hinder condylar height (+1.36 mm young, +0.24 mm adult) or base width growth (p=0.922, Group NS), but young experimental rats failed to gain cross-sectional surface (young control +0.25 mm², young experimental 0 mm²; YC > YE by 0.19 mm², p=0.010), while adult condyles were largely unaffected.
 
-56마리 Wistar rat(어린/성인, 편측 상악 대구치 발치) in-vivo micro-CT 연구: 교합 기능 감소는 하악과두의 높이·기저폭 성장을 막지 못했으나, 성장기 rat의 발치측 과두는 단면적이 증가하지 못해(길이는 유지하면서 얇아짐) 형태가 변했고, 성인 과두는 교합 변화에 거의 영향받지 않았다.
+Growing condyles become thinner under hypofunction while maintaining length — an age-dependent adaptive window; adult condyles are refractory; overloaded and unopposed sides were similarly affected, suggesting pure functional asymmetry without mandibular shift does not generate condylar asymmetry.
+
+## 세줄요약
+
+Wistar rat 56마리(어린 4주·성인 26주; 편측 상악 대구치 발치, 3개월 추적) in-vivo micro-CT로 발치측·반대측 하악과두의 높이·기저폭·평균단면적을 측정.
+
+교합 기능 감소는 과두 높이(어린 +1.36 mm, 성인 +0.24 mm)·기저폭(Group p=0.922, NS) 성장을 저해하지 않았으나, 성장기 실험군 과두는 단면적 증가 실패 (대조군 +0.25 mm², 실험군 0; YC > YE 0.19 mm², p=0.010); 성인 과두는 영향 없음.
+
+성장기 과두는 기능 저하 시 길이를 유지하면서 얇아지는 연령의존적 적응창(adaptive window)이 존재; 성인은 불응; 기능적 비대칭만으로는(하악 측방 변위 없을 때) 측방 과두 비대칭이 유발되지 않음.
 
 ## Summary
 

@@ -13,8 +13,21 @@ source_collection: external
 
 Supplies the intervention/management side of the dentist-wellbeing picture (workplace mental-health interventions and the gap in primary prevention), complementing the prevalence papers in [[overviews/dentist-burnout-mental-health-overview]].
 
-## One-line Summary
-Systematic review of workplace interventions for mental health & wellbeing in the dental sector — paucity of evidence, especially for primary prevention; secondary/tertiary (psychoeducational, mindfulness) dominate.
+## Three-line Summary
+
+Systematic review of workplace interventions for mental health
+
+& wellbeing in the dental sector — paucity
+
+of evidence, especially for primary prevention; secondary/tertiary (psychoeducational, mindfulness) dominate.
+
+## 세줄요약
+
+체계적 고찰 (Systematic Review, SR) of workplace interventions for mental health
+
+& wellbeing in the dental sector — paucity
+
+of evidence, especially for primary prevention; secondary/tertiary (psychoeducational, mindfulness) dominate.
 
 ## 1. Document Information
 - Journal: Evidence-Based Dentistry / British Dental Journal (BDJ), 2022 Dec 7

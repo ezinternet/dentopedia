@@ -6,7 +6,7 @@ date: 2010-04-01
 doi: 10.1111/j.1600-0765.2009.01230.x
 source: fujita-2010-overeruption-periodontally-affected-unopposed-rats.md
 category: [occlusion]
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/fujita-2010-overeruption-periodontally-affected-unopposed-rats.pdf
 pdf_filename: fujita-2010-overeruption-periodontally-affected-unopposed-rats.pdf
 source_collection: external
@@ -16,13 +16,21 @@ relations:
     target: wang-2022-unopposed-molar-overeruption-implant-cbct
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Animal study (60 adult male rats, 2×2 design, 4 wk, micro-CT) showing loss of antagonist causes unopposed-molar overeruption that becomes significantly *larger* under experimentally induced periodontitis, with the lingual alveolar bone level lowered most.
+Controlled 2×2 factorial animal experiment (60 adult male rats, 4 groups: opposed/healthy, opposed/periodontitis, unopposed/healthy, unopposed/periodontitis; ligature-induced periodontitis; 4-week micro-CT follow-up) dissociating the effects of antagonist loss and periodontitis on molar overeruption.
 
-## 한줄요약
+Periodontitis alone on an opposed molar did not cause overeruption; loss of antagonist caused overeruption; combining both produced significantly larger overeruption than antagonist loss alone, and the lingual alveolar bone level was lowest in the unopposed + periodontitis group.
 
-동물실험(성체 수컷 백서 60마리, 2×2 설계, 4주, micro-CT): 대합치 상실이 무대합 대구치의 과맹출(supraposition)을 유발하고, 실험적 치주염이 동반되면 과맹출이 유의하게 더 커지며 설측 치조골(alveolar bone) 수준이 가장 많이 낮아졌다.
+Loss of antagonist is the primary driver of overeruption, but a compromised periodontium amplifies it — teeth with both conditions require more urgent clinical attention to prevent rapid supraeruption.
+
+## 세줄요약
+
+성체 수컷 백서 60마리, 2×2 요인 설계(대합치 있음/없음 × 건강/실험적 치주염, 각 군 n=15; 결찰사 유도 치주염; 4주 micro-CT 추적)로 대합치 상실과 치주염의 독립·상호작용 효과를 과맹출(Supraposition)에서 분리한 동물실험.
+
+대합치 있는 치주염 치아는 과맹출이 없었고; 무대합만으로 과맹출이 발생했으며; 무대합 + 치주염 군에서 과맹출이 유의하게 더 컸고 설측 치조골 수준이 모든 군 중 가장 낮았다.
+
+대합치 상실이 과맹출의 1차 원인이지만 손상된 치주가 이를 증폭시키므로, 두 조건이 공존하는 치아는 급속 과맹출 방지를 위해 더 긴급한 임상적 대처가 필요하다.
 
 ## Summary
 

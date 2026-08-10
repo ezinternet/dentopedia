@@ -9,8 +9,18 @@ pdf_filename: foros-2021-early-caries-detection-methods-sr-ma.pdf
 source_collection: external
 ---
 
-## One-line Summary
-초기 우식 탐지 방법(DIAGNOdent, ICDAS-II, 방사선 등) SR+MA: DD Pen 민감도 0.81–0.89 최고, 교합면 기준 방사선 민감도 0–0.29 최저.
+## Three-line Summary
+Systematic review and meta-analysis (Caries Research 2021) of 51 studies evaluating early caries detection methods including DIAGNOdent, ICDAS-II, and radiography from 2000–2019.
+
+DIAGNOdent Pen demonstrated highest sensitivity (0.81–0.89) for occlusal caries on permanent teeth, while bitewings X-rays showed lowest sensitivity (0.0–0.29) for early lesions.
+
+Heterogeneous study designs and QUADAS-2 bias assessment indicate need for standardized detection thresholds and further diagnostic validation studies.
+## 세줄요약
+체계적 고찰 및 메타분석: 초기 우식 탐지 방법(DIAGNOdent, ICDAS-II, 방사선촬영 등) 효능을 비교한 51개 연구 분석 (Caries Research 2021, 2000–2019년 데이터 포함).
+
+DIAGNOdent Pen이 영구치 교합면 우식에서 민감도(Sensitivity) 0.81–0.89로 최고 수준을 나타냈으나, 교합면 비교윤곽 방사선촬영(bitewing X-ray)은 민감도 0–0.29로 조기 병소 탐지에 부적합.
+
+높은 연구 이질성과 QUADAS-2 비뚤림 위험도 중등도 평가에 따라 탐지 임계값의 국제적 표준화 및 추가적 진단 타당성 검증 연구 필요.
 
 ## 1. Document Information
 - **Title**: Detection Methods for Early Caries Diagnosis: A Systematic Review and Meta-Analysis

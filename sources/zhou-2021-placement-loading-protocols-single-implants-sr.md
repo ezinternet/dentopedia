@@ -10,8 +10,21 @@ pdf_filename: zhou-2021-placement-loading-protocols-single-implants-sr.pdf
 source_collection: external
 ---
 
-## One-line Summary
-SR (45 publications: 13 RCT + 21 prospective + 11 retrospective): site-specific (anterior maxilla / anterior mandible / posterior maxilla / posterior mandible) 별 placement × loading protocol — 가중 생존율 산출 (전치 상악 97.5–99.6%); ITI Hamilton 시리즈의 한 축.
+## Three-line Summary
+
+SR (45 publications
+
+13 RCT + 21 prospective + 11 retrospective)
+
+site-specific (anterior maxilla / anterior mandible / posterior maxilla / posterior mandible) 별 placement × loading protocol — 가중 생존율 산출 (전치 상악 97.5–99.6%); ITI Hamilton 시리즈의 한 축.
+
+## 세줄요약
+
+SR (45 publications
+
+13 RCT + 21 prospective + 11 후향적)
+
+site-specific (anterior maxilla / anterior mandible / posterior maxilla / posterior mandible) 별 placement × loading protocol — 가중 생존율 산출 (전치 상악 97.5–99.6%); ITI Hamilton 시리즈의 한 축.
 
 ## 1. Document Information
 - **Title**: Placement and Loading Protocols for Single Implants in Different Locations: A Systematic Review
@@ -40,7 +53,7 @@ ITI Group 2 (Hamilton/Gallucci/Buser/Chen)의 site-specific placement·loading �
 
 ## 6. Related Work
 - [[immediate-implant/esthetic-soft-tissue/hamilton-2023-type1a-immediate-implant-immediate-loading-esthetic-sr-ma]] — ITI Type 1A consensus follow-up
-- [[immediate-implant/wittneben-2023-immediate-implant-loaded-single-crown-sr]] — ITI Type 1A clinical performance
+- [[immediate-implant/loading-protocol/wittneben-2023-immediate-implant-loaded-single-crown-sr]] — ITI Type 1A clinical performance
 - [[immediate-implant/qian-2024-anterior-maxillary-implants-placement-loading-nma]] — anterior maxillary NMA
 
 ## 7. Limitations and Future Work

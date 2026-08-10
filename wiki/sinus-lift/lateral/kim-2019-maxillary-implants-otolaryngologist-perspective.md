@@ -8,20 +8,28 @@ pmid: "31886027"
 pmcid: "PMC6920034"
 source: kim-2019-maxillary-implants-otolaryngologist-perspective.md
 category: [sinus-lift/lateral]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 text_path: /Users/oracleneo/llm-wiki/papers/kim-2019-maxillary-implants-otolaryngologist-perspective.txt
 text_filename: kim-2019-maxillary-implants-otolaryngologist-perspective.txt
 tags: [otolaryngology, ostium, preoperative-assessment, sinusitis-complication, Korean-journal]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review (Seoul St. Mary's Hospital ENT team, 2019) synthesizing preoperative maxillary sinus evaluation criteria and a CT-based management protocol for dental implant candidates, emphasizing natural ostium patency as the critical determinant.
+Narrative review from Korean ENT specialists (Seoul St. Mary's Hospital, 2019) synthesizing a three-component preoperative workup (history, CBCT including ostium, nasal endoscopy) and a CT-based management decision flowchart for maxillary implant candidates.
 
-## 한줄요약
+Post-implant sinusitis develops in ~5% of cases; incidental CT findings include mucosal thickening (23.7–28.2%), cysts/polyps (8.9–19.4%), and sinusitis (3.6–6.5%); natural ostium patency is the critical determinant — not merely mucosal thickness.
 
-상악 임플란트 시술 전 부비동 평가를 위한 CT 기반 관리 프로토콜을 이비인후과 전문의 관점에서 정리한 서술 리뷰; 자연공 (natural ostium) 개통 여부가 핵심 결정 인자.
+Lesions <1/3–1/2 of sinus height not adjacent to the ostium are compatible with implant placement; larger lesions or ostium-blocking pathology require FESS before augmentation.
+
+## 세줄요약
+
+한국 이비인후과 전문의 관점의 서술 리뷰 (서울성모병원, 2019): 3요소 술전 평가 (병력·CBCT·비강내시경) 및 CT 기반 치료 결정 순서도 제시; 자연공 (Natural Ostium) 개통 여부가 핵심 결정 인자.
+
+술후 부비동염 발생률 ~5%; CT 우연 발견: 점막비후 23.7–28.2%, 낭종·용종 8.9–19.4%, 부비동염 3.6–6.5%; 자연공 폐쇄 여부가 막 두께보다 중요.
+
+상악동 높이 1/3–1/2 미만이고 자연공에서 멀리 위치한 병소는 임플란트 가능; 더 큰 병소나 자연공 폐쇄 유발 병리는 기능적 내시경 부비동 수술 (Functional Endoscopic Sinus Surgery, FESS) 선시행 후 임플란트 고려.
 
 ## Summary
 

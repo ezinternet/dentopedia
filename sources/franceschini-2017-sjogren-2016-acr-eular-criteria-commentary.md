@@ -9,8 +9,20 @@ pdf_filename: franceschini-2017-sjogren-2016-acr-eular-criteria-commentary.pdf
 source_collection: external
 ---
 
-## One-line Summary
-2016 ACR/EULAR pSS 기준의 주요 변화점, 2002 AECG 기준과의 차이, 임상·연구 적용 함의 해설.
+## Three-line Summary
+Commentary on the 2016 ACR/EULAR classification criteria for primary Sjögren syndrome, comparing key changes and clinical implications versus the older 2002 AECG criteria.
+
+Salivary gland biopsy retained (≥1 focus/4 mm²), but tear-gland tests replaced with ocular staining score/SICCA, and symptom-only items removed in favor of biomarker-centered classification.
+
+Updated criteria provide more uniform patient selection and improved applicability for clinical trials, though commentary-based evidence limits primary recommendations.
+## 세줄요약
+기고 논평: 원발성 쇼그렌증후군(primary Sjögren Syndrome, pSS) 2016 ACR/EULAR 분류 기준의 핵심 변화와 2002 AECG 기준과의 임상적 함의를 비교.
+
+침샘 생검은 유지(≥1 초점/4 mm²)했으나, 눈물샘 검사 중 van Bijsterveld 점수는 폐기하고 ocular staining score(OSS)/SICCA로 전환; 증상 단독 항목은 삭제해 생체지표(biomarker) 중심 체계로 재구성.
+
+신 기준이 임상시험 환자 선정의 균일성(uniformity)·적용성(applicability)을 향상시키나, 논평 형식의 근거로 일차 임상 권장사항 수립에는 제한적.
+
+## 1. Document Information
 
 ## 1. Document Information
 - **Title**: The 2016 classification criteria for primary Sjögren syndrome: what's new?

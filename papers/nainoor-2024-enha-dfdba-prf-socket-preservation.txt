@@ -1,0 +1,35 @@
+Title: Comparison of Clinical and Radiographic Assessment of Efficacy of Eggshell-Derived Nanohydroxyapatite (EnHA) and Demineralized Freeze-Dried Bone Allograft (DFDBA), Both Covered with Platelet-Rich Fibrin (PRF) as a Barrier Membrane in Socket Preservation: A Randomized Controlled Clinical Trial
+
+Authors: Nainoor N, Shobha ES, Prashanth NT, Rangan V, Malick R, Shaju N
+
+Journal: Journal of Maxillofacial and Oral Surgery, 2024-05-05
+
+PMID: 41648709
+PMCID: PMC12868432
+DOI: 10.1007/s12663-024-02187-4
+
+NOTE: Full text body was not available via PMC (get_full_text_article returned an empty body).
+The content below is the structured abstract retrieved via PubMed MCP (get_full_text_article),
+which is all that was retrievable for this article. full_text: false in frontmatter reflects this.
+
+--- ABSTRACT ---
+
+Background
+
+Bone grafting has been employed for many years to assist with bone repair. Many forms of bone graft are available which differ in their properties of osteoconduction, osteoinduction, osteogenesis, and structural support.
+
+Purpose
+
+The purpose of this study was to compare the efficacy of Eggshell-derived nanohydroxyapatite (EnHA) along with platelet-rich fibrin (PRF) and demineralized freeze-dried bone allograft (DFDBA) along with platelet-rich fibrin (PRF) in socket preservation of extraction sockets of mandibular molar teeth.
+
+Study Design/Analyses
+
+This is a double-blinded, randomized controlled clinical trial. 40 extraction sites were selected and divided into group I and group II. Group I consisted of EnHA and PRF and group II consisted of DFDBA and PRF. Each group comprising 20 extraction sites was subjected to one of the two modalities of treatment for mandibular molar extraction sockets. Postoperatively, following extraction and bone grafting, the patients were clinically evaluated for pain on 1st and 2nd day and wound healing on 7th and 14th day and were radiographically evaluated for changes in lamina dura, bone height, and bone density on an intraoral periapical radiograph taken before grafting, post grafting and at the end of 1st month and 4th month.
+
+Results
+
+Results showed statistically significant differences (> 0.05) for parameters like pain and wound healing clinically and bone density, bone height, and changes in laminar dura radiographically within the groups at different intervals. However, no statistically significant difference was found between the two groups both clinically and radiographically. Our study suggested that even though both modalities used for grafting the mandibular molar extraction sockets were effective, EnHA with the PRF group appeared to be better than DFDBA with the PRF group in terms of wound healing, increase in bone height and bone density postoperatively.
+
+Conclusion
+
+The overall summation of results of the study concludes that EnHA with PRF seems to offer significantly better results both clinically and radiographically when compared to DFDBA with PRF in socket preservation of mandibular molar extraction sockets.

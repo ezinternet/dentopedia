@@ -17,13 +17,21 @@ text_filename: fonseca-planells-2026-clear-aligner-maxillary-expansion-growing.t
 
 literature-surveillance `clear-aligner` 토픽 첫 sweep(2026-06-20)의 OA:PMC 최고가치 SR+MA. 위키 orthodontics 카테고리는 현재 miniscrew/TAD·tooth-movement biology 중심이라 **투명교정(clear aligner) 임상 근거가 전무** — 이 페이지가 첫 aligner 항목으로, 교정 력생물학 [[wiki/orthodontics/jeon-2021-orthodontic-tooth-movement-mechanisms-animal]] 의 임상 적용 축을 연다. 성장기(growing/mixed dentition) 환자라 소아치과 감시와도 교차. PubMed/PMC, CC BY 4.0 OA 전문 확보.
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (15 studies, 7 pooled) in growing patients: clear aligners can achieve maxillary expansion but produce significantly LESS transverse gain than conventional expanders — intermolar (6-6) −1.77 mm, palatal volume −460.6 mm³, arch perimeter −1.75 mm in favor of conventional expanders; aligner expansion is mainly dentoalveolar (anterior, deciduous teeth), evidence mostly retrospective / moderate RoB.
+Systematic review and meta-analysis of 15 studies (7 pooled) in growing/mixed-dentition patients comparing clear aligners to conventional maxillary expanders for transverse expansion.
 
-## 한줄요약
+Clear aligners achieved significantly less transverse gain than conventional expanders: intermolar distance −1.77 mm (95% CI −2.57, −0.97), palatal volume −460.63 mm³, arch perimeter −1.75 mm, with aligner effects primarily dentoalveolar and anterior rather than skeletal.
 
-성장기 환자 SR+MA(15편, 7편 pooled): 투명교정으로 상악 확장은 가능하나 conventional expander 대비 횡적 확장량이 유의하게 적음 — 구치간폭(6-6) −1.77 mm, 구개 용적 −460.6 mm³, 호선 둘레 −1.75 mm 모두 conventional 우위. aligner 확장은 주로 치조성(전치부·유치)이며 근거 대부분 후향적·중등도 RoB.
+Evidence quality limited by predominance of retrospective designs and moderate risk of bias; prospective RCTs needed to establish clear-aligner expansion safety and efficacy in growing patients.
+
+## 세줄요약
+
+성장기·혼합치열 환자 대상 SR+MA(15편, 7편 메타분석): 투명교정과 기존 상악확장 장치를 횡적 확장 효과로 비교.
+
+투명교정은 기존 장치 대비 유의하게 적은 횡적 확장을 보임: 구치간거리(6-6) −1.77 mm(95% CI −2.57, −0.97), 구개 용적 −460.63 mm³, 호선 둘레 −1.75 mm; aligner 효과는 주로 치조성·전치부이며 골격적 확장이 제한적.
+
+근거 대부분 후향적 설계·중등도 비뚤림 위험으로 임상적 결론 신중히 필요; 성장기 환자의 투명교정 확장 안전성과 유효성 입증을 위해 전향적 RCT 추가 필요.
 
 ## 1. Document Information
 

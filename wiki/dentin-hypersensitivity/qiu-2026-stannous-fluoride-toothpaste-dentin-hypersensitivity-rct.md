@@ -6,7 +6,7 @@ date: 2026-06-09
 doi: 10.1007/s00784-026-06942-4
 source: qiu-2026-stannous-fluoride-toothpaste-dentin-hypersensitivity-rct.md
 category: [dentin-hypersensitivity]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: true
 pmid: "42262610"
@@ -20,13 +20,21 @@ relations:
     target: martins-2022-desensitizing-toothpastes-formulations-scoping-review
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Two examiner-blind parallel RCTs (Study 1 n=104, Study 2 n=113; 18–65 y; healthy adults with dentin hypersensitivity): twice-daily anhydrous 0.454% stannous fluoride (SnF₂) toothpaste (Test) gave significantly greater Schiff reduction, tactile-threshold increase, and LMS pain improvement than standard fluoride toothpaste (Reference) at Day 28 and Day 56 (all p<0.05); Study 1 also showed superior DHEQ-48 quality-of-life at Day 56.
+Two independent 56-day examiner-blind parallel RCTs (Study 1 n=103, Study 2 n=112; 18–65 y; ≥2 sensitive teeth, Schiff ≥2, tactile ≤20 g) comparing twice-daily anhydrous 0.454% stannous fluoride (SnF₂) toothpaste against a standard 1100 ppm NaF toothpaste in adults with dentin hypersensitivity.
 
-## 한줄요약
+Across both studies, the SnF₂ toothpaste produced significantly greater within-arm improvement and was superior to the reference on Schiff reduction (Day 56 Δ: −1.94 and −1.07), tactile threshold increase (+57.4 and +36.7 g), and all four LMS pain domains (p<0.05); Study 1 also showed significant DHEQ-48 quality-of-life superiority at Day 56 (total score difference −24.49, p=0.0002), though Study 2 did not.
 
-검사자 맹검 평행 RCT 2건(Study 1 n=104, Study 2 n=113; 18–65세 DH 성인): 무수 0.454% 불화주석(SnF₂) 치약(Test)을 하루 2회 사용 시 표준 불소 치약(Reference)보다 Day 28·56에서 Schiff 점수 감소·촉각역치 증가·LMS 통증 개선이 유의하게 컸으며(모두 p<0.05), Study 1은 Day 56 DHEQ-48 삶의 질에서도 우월했다.
+The ADA clinical meaningfulness threshold (≥20% between-treatment difference) was reached by Day 28 and widened by Day 56, confirming the reformulated anhydrous SnF₂ retains efficacy; a key limitation is that the Test arm used focused brushing of sensitive areas while the Reference used whole-mouth brushing only.
+
+## 세줄요약
+
+18–65세 상아질 과민증(Dentin Hypersensitivity, DH) 성인을 대상으로 무수(anhydrous) 0.454% 불화주석(Stannous Fluoride, SnF₂) 치약과 표준 NaF 치약을 56일간 비교한 독립 RCT 2건(Study 1 n=103, Study 2 n=112).
+
+두 연구 모두에서 SnF₂ 치약이 Day 28·56에 Schiff 감소(Δ −1.94·−1.07), 촉각역치 증가(+57.4·+36.7 g), LMS 통증 4개 도메인에서 표준 불소 치약 대비 유의하게 우월(p<0.05)하였으며, Study 1에서는 Day 56 DHEQ-48 삶의 질도 유의하게 개선(총점 차이 −24.49, p=0.0002).
+
+임상 유의성 기준(ADA, 군간 차이 ≥20%)을 Day 28에 달성하고 Day 56까지 확대; 다만 Test군은 민감 치아에 집중 양치(focused brushing)를 사용해 순수 제형 비교가 아닌 점이 핵심 한계.
 
 ## Summary
 

@@ -6,7 +6,7 @@ date: 2025-06-25
 doi: 10.3389/fbioe.2025.1630495
 source: lopez-valverde-2025-bone-expansion-compaction-densification-narrow-crests-sr-ma.md
 category: [bone-regeneration]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "40635692"
@@ -22,15 +22,25 @@ relations:
     target: kalra-2025-implant-stability-crestal-bone-osseodensification-sr-ma
   - type: extends
     target: tian-2019-alveolar-ridge-expansion-osseodensification-osteotome
+  - type: contradicts
+    target: lima-monteiro-2024-osseodensification-biomechanics-histomorphometry-sr-ma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (10 studies, n=241; PROSPERO CRD42025646738) — bone expansion / compaction / osteodensification in narrow (≤2.5 mm horizontal-atrophy) alveolar crests significantly favors the experimental group for bone density (SMD −0.71, p=0.002), crestal expansion (SMD −1.12, p=0.04 after sensitivity test), and ISQ (SMD −8.88, p=0.0005); CE and ISQ carry high heterogeneity and publication bias.
+PROSPERO-registered SR+MA (10 studies, n=241; 5 RCTs + 5 observational) pooling bone density (BD), crestal expansion (CE), and implant stability quotient (ISQ) for ridge expansion, compaction, and osteodensification in adults with horizontal atrophy ≤2.5 mm.
 
-## 한줄요약
+All three outcomes significantly favored the experimental techniques: BD SMD −0.71 (p=0.002, I²=0%, trustworthy), CE SMD −1.12 after sensitivity test (p=0.04, I²≥75%), ISQ SMD −8.88 (p=0.0005, I²=96%); CE and ISQ results carry high heterogeneity and funnel-plot asymmetry.
 
-SR+MA (10편, n=241; PROSPERO 등록) — 좁은(수평위축 ≤2.5 mm) 치조제에서 골확장·압축·골밀도화(Osseodensification, OD)가 대조군 대비 골밀도(Bone Density, BD; SMD −0.71, p=0.002)·치조정확장(Crestal Expansion, CE; SMD −1.12, p=0.04)·임플란트안정성지수(Implant Stability Quotient, ISQ; SMD −8.88, p=0.0005)를 유의하게 향상시킴. 단 CE·ISQ는 이질성(I²≥75%, 96%)과 출판편향이 높아 결론은 신중히 해석.
+Clinical and preclinical evidence conflict — preclinical models show no BIC/osseointegration gain and one RCT reported implant failures from over-densification; these techniques should be used cautiously and reserved when staged augmentation is not feasible.
+
+## 세줄요약
+
+PROSPERO 등록 SR+MA(10편, n=241, RCT 5+관찰 5): 수평위축 ≤2.5 mm 성인에서 골확장(Ridge Expansion)·압축(Compaction)·골밀도화(Osteodensification, ODT)의 골밀도(Bone Density, BD)·치조정확장(Crestal Expansion, CE)·임플란트안정성지수(Implant Stability Quotient, ISQ) 통합.
+
+BD SMD −0.71(p=0.002, I²=0%·신뢰도 높음)·CE SMD −1.12(민감도 분석 후 p=0.04, I²≥75%)·ISQ SMD −8.88(p=0.0005, I²=96%); CE·ISQ는 이질성·출판편향 고위험.
+
+임상과 전임상 간 상충(전임상은 골임플란트접촉률, Bone-to-Implant Contact, BIC·골통합 개선 없음; 과밀도화로 임플란트 실패 1건 RCT 보고) — 기법 경험 충분 시에만 사용, 단계적 골증대가 가능한 경우 우선.
 
 ## Summary
 
@@ -65,9 +75,9 @@ This systematic review with meta-analysis (Frontiers in Bioeng. Biotechnol., 202
 
 ## Related Papers
 
-- [[implants/koutouzis-2019-alveolar-ridge-expansion-osseodensification-multicenter-retrospective]] — one of the 10 studies pooled here (ODT coronal expansion mean 5.2 mm); a primary input to this SR+MA's CE analysis.
-- [[implants/chen-2022-reverse-drilling-technique-alveolar-ridge-expansion]] — single-technique reverse-drilling expansion; reinforced by this pooled effect on CE.
-- [[implants/tian-2019-alveolar-ridge-expansion-osseodensification-osteotome]] — OD vs osteotome expansion; this SR+MA extends that head-to-head into a pooled estimate.
-- [[implants/kalra-2025-implant-stability-crestal-bone-osseodensification-sr-ma]] — OD stability/crestal-bone SR+MA; reinforces the ISQ-favors-OD direction (with the same heterogeneity caveat).
+- [[implants/osseodensification/koutouzis-2019-alveolar-ridge-expansion-osseodensification-multicenter-retrospective]] — one of the 10 studies pooled here (ODT coronal expansion mean 5.2 mm); a primary input to this SR+MA's CE analysis.
+- [[implants/osteotomy-thermal/chen-2022-reverse-drilling-technique-alveolar-ridge-expansion]] — single-technique reverse-drilling expansion; reinforced by this pooled effect on CE.
+- [[implants/osseodensification/tian-2019-alveolar-ridge-expansion-osseodensification-osteotome]] — OD vs osteotome expansion; this SR+MA extends that head-to-head into a pooled estimate.
+- [[implants/osseodensification/kalra-2025-implant-stability-crestal-bone-osseodensification-sr-ma]] — OD stability/crestal-bone SR+MA; reinforces the ISQ-favors-OD direction (with the same heterogeneity caveat).
 - [[bone-regeneration/simion-1992-jawbone-enlargement-split-crest-gtr]] — classic split-crest origin; the crestal-split comparator arm benchmarked here.
 - [[bone-regeneration/enislidis-2006-staged-ridge-splitting-implant-mandible]] — staged ridge split; alternative narrow-ridge pathway contrasted with expansion/densification.

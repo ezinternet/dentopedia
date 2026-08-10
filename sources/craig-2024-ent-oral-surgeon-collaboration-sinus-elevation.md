@@ -17,13 +17,21 @@ text_filename: craig-2024-ent-oral-surgeon-collaboration-sinus-elevation.txt
 
 상악동 거상술 전 이비인후과의(ENT) 협진 기준을 체계화한 narrative review. 점막비후·MRC 등이 불필요한 ENT 의뢰를 유발하는 현실을 지적하고, 진짜 위험인자(골구내강 폐쇄, 감염성 상악동염)에 집중한 의뢰 알고리즘을 제시. [[sinus-lift/lateral/maska-2017-implant-grafting-success-mucosal-thickening-sinus]]와 [[sinus-lift/pseudocyst/kucukkurt-2025-maxillary-sinus-pathologies-cbct-prevalence]]의 임상적 해석을 실제 의뢰 결정으로 연결함.
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review proposing a systematic ENT referral grading system (Felisati scale 1-5) for maxillary sinus elevation candidates; only OMC obstruction and overt sinus infection (grade ≥3) warrant otolaryngological evaluation — mucosal thickening and MRC usually do not.
+Narrative review + expert consensus proposing the Felisati grading scale (1–5) for ENT referral decisions before maxillary sinus elevation, based on CT/CBCT findings and ostiomeatal complex (OMC) patency.
 
-## 한줄요약
+Only grade ≥3 (moderate OMC narrowing, mucosal disease, obstruction, or active infection) warrants ENT referral; mucosal thickening and mucus-retention cysts (grade 1–2) do not require referral in asymptomatic patients.
 
-상악동거상술 후보 환자에 대한 이비인후과 협진 등급 시스템(Felisati 척도 1-5) 제안 — 골구내강 폐쇄·감염성 상악동염(3등급 이상)만 ENT 의뢰, 점막비후·MRC는 대부분 의뢰 불필요.
+No prospective validation of the grading system exists, and most underlying evidence is from retrospective studies, so the algorithm represents expert consensus rather than RCT-level guidance.
+
+## 세줄요약
+
+전문가 합의 서술적 리뷰 — 상악동거상술(Maxillary Sinus Elevation, MSE) 전 이비인후과(ENT) 의뢰 결정을 위한 Felisati 등급 시스템(1–5단계)을 CT/CBCT 소견과 골구내강(Ostiomeatal Complex, OMC) 개통성을 기반으로 제안.
+
+3등급 이상(중등도 OMC 협착·점막질환·폐쇄·활성 감염)만 ENT 의뢰 권고; 무증상의 점막비후·점액낭종은 의뢰 불필요.
+
+등급 시스템의 전향적 검증 연구가 없고 대부분의 근거가 후향 연구로, 알고리즘은 무작위대조시험(RCT) 수준이 아닌 전문가 합의에 해당하는 한계.
 
 ## 1. Document Information
 

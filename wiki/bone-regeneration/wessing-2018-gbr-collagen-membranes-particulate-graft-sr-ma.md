@@ -6,20 +6,28 @@ date: 2018-01-01
 doi: 10.11607/jomi.5461
 source: wessing-2018-gbr-collagen-membranes-particulate-graft-sr-ma.md
 category: [bone-regeneration]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/wessing-2018-gbr-collagen-membranes-particulate-graft-sr-ma.pdf
 pdf_filename: wessing-2018-gbr-collagen-membranes-particulate-graft-sr-ma.pdf
 source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 20 RCTs / prospective controlled studies (1980–2014): collagen-membrane + particulate-graft lateral ridge GBR is effective; cross-linked membranes exposed ~30% more often than non-cross-linked, simultaneous and staged implant placement gave similar survival (favoring simultaneous placement when feasible), and membrane fixation + decortication added vertical/horizontal bone-gain benefit.
+SR+MA (20 RCTs / prospective controlled studies, 1980–2014) evaluating collagen-membrane + particulate-graft GBR for lateral alveolar ridge augmentation, with meta-analysis of four procedural moderators: membrane crosslinking, implant timing, membrane fixation, and decortication.
 
-## 한줄요약
+Cross-linked membranes showed ~30% higher exposure rate than non-cross-linked; simultaneous versus staged implant placement yielded similar survival (favoring simultaneous when anatomy permits); membrane fixation was weakly associated with greater vertical bone gain; decortication was associated with greater horizontal bone gain.
 
-20편 RCT·전향적 대조연구(1980–2014) SR+MA: 콜라겐막 + 입자형 이식재 측방 치조제 GBR은 효과적이며, 교차결합막 노출률이 비교차결합막보다 약 30% 높고, 동시·지연 식립의 생존율이 유사해 가능하면 동시 식립이 권장되며, 막 고정과 피질골 천공이 수직·수평 골증대를 보강한다.
+ABBM (anorganic bovine bone mineral) produced sufficient regenerated bone with high implant survival, supporting its role as the standard particulate graft for collagen-membrane GBR at lateral ridge defects.
+
+## 세줄요약
+
+SR+MA(RCT·전향적 대조연구 20편, 1980–2014): 콜라겐막 + 입자형 이식재 측방 치조제 GBR 평가, 4가지 술식 변수(막 가교화·식립 시기·막 고정·피질골 천공) 메타분석.
+
+가교막 노출률이 비가교막보다 ~30% 높음; 동시·지연 식립 생존율 유사(가능 시 동시 식립 권장); 막 고정 → 수직 골증대 약한 연관; 피질골 천공 → 수평 골증대 증가.
+
+탈단백 우골 무기질(Anorganic Bovine Bone Mineral, ABBM)은 충분한 신생골 형성과 높은 임플란트 생존 달성 → 측방 GBR 표준 입자형 이식재로 지지.
 
 ## Summary
 
@@ -57,4 +65,4 @@ The key practical findings: implant survival was **similar for simultaneous vs s
 - [[bone-regeneration/ridge-preservation/majzoub-2019-influence-different-grafting-materials]] — single-study grafting-material comparison; this SR+MA pools the particulate-graft + membrane evidence.
 - [[bone-regeneration/ridge-preservation/choi-2017-single-double-layer-collagen-membrane-arp]] — collagen membrane design (single vs double layer); relevant to the cross-linking/exposure trade-off.
 - [[bone-regeneration/ridge-preservation/avila-ortiz-2019-alveolar-ridge-preservation-interventions]] — broader ridge-preservation/augmentation evidence base.
-- [[implants/jensen-2023-iti-consensus-bone-dimensions-soft-tissue]] — ITI consensus endorsing simultaneous GBR over dehiscence defects, consistent with the simultaneous-placement recommendation here.
+- [[implants/soft-tissue/jensen-2023-iti-consensus-bone-dimensions-soft-tissue]] — ITI consensus endorsing simultaneous GBR over dehiscence defects, consistent with the simultaneous-placement recommendation here.

@@ -13,13 +13,21 @@ source_collection: external
 
 Earliest direct histomorphometric comparison of DBBM vs BCP (60%HA/40%β-TCP) with autologous platelet lysate (APL) in standardized rabbit femoral critical-size defects. Provides the pre-PRF-era baseline showing that BCP is significantly more osteoconductive and resorbable than DBBM, while platelet lysate adds no measurable benefit to either. Relevant context for evaluating growth factor adjuncts in bone grafting and understanding the BCP/DBBM performance divergence referenced in [[bone-regeneration/fujioka-kobayashi-2022-synthetic-biomaterials-dbbm-augmentation]].
 
-## One-line Summary
+## Three-line Summary
 
-Rabbit femoral critical-size defect RCT (n=12, 6 weeks): BCP produced 70% more new bone and 60% less residual material than DBBM; adding autologous platelet lysate (APL) to either material provided no additional benefit.
+Randomized animal study (12 male New Zealand rabbits; bilateral femoral condyle critical-size defects; 4 groups: DBBM alone, DBBM + autologous platelet lysate [APL], BCP alone, BCP + APL; 6-week healing; non-demineralized histomorphometry) comparing DBBM (Bio-Oss) vs BCP (60%HA/40%β-TCP, BoneCeramic) with or without freeze-thaw platelet lysate.
 
-## 한줄요약
+BCP produced 70% more new bone area (p<0.001) and 60% less residual material area (p<0.001) than DBBM; APL addition provided no additional bone formation benefit to either material despite confirmed in vitro cell-proliferation activity (100–200% enhancement).
 
-토끼 대퇴골 결손 모델(n=12, 6주): BCP가 DBBM보다 신생골 70% 더 많고 잔여재료 60% 적음; APL(혈소판용해물) 첨가는 DBBM·BCP 모두에서 추가 효과 없음.
+The study is limited to a 6-week non-oral animal model; DBBM's scaffold function at longer time points is unknown; absence of an empty-defect control precludes calibration of spontaneous healing.
+
+## 세줄요약
+
+무작위 동물실험(뉴질랜드 토끼 12마리; 양측 대퇴골 과두부 임계크기 결손; 4군: 탈단백우골[DBBM, Bio-Oss] 단독·DBBM+자가혈소판용해물[Autologous Platelet Lysate, APL]·이상성인산칼슘[Biphasic Calcium Phosphate, BCP 60%HA/40%β-TCP] 단독·BCP+APL; 6주 치유; 비탈회 조직형태계측).
+
+BCP가 DBBM보다 신생골 면적 70% 더 많고(p<0.001) 잔여재료 면적 60% 적음(p<0.001); APL 첨가는 DBBM·BCP 모두에서 in vitro 세포증식 활성(100–200% 향상)에도 불구하고 in vivo 신생골 추가 효과 없음.
+
+비구강 동물 모델 6주 단기 결과로 DBBM의 장기 지지기능 미평가; 빈결손 대조군 없어 자연치유 기준선 불명 — 임상 직접 일반화 제한.
 
 ## 1. Document Information
 

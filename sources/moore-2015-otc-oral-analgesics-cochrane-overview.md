@@ -10,8 +10,21 @@ pdf_filename: moore-2015-otc-oral-analgesics-cochrane-overview.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Cochrane overview of OTC analgesic Cochrane reviews — 처방전 없는 진통제 (ibuprofen 200-400, APAP 500-1000, aspirin 600-1000) 효과 비교; OTC 한도 내에서 ibuprofen 400 가장 효과적 (NNT ~2.5).
+## Three-line Summary
+
+Cochrane overview of OTC analgesic Cochrane reviews — 처방전
+
+없는 진통제 (ibuprofen 200-400, APAP 500-1000, aspirin 600-1000) 효과
+
+비교; OTC 한도 내에서 ibuprofen 400 가장 효과적 (NNT ~2.5).
+
+## 세줄요약
+
+Cochrane overview of OTC analgesic Cochrane reviews — 처방전
+
+없는 진통제 (ibuprofen 200-400, APAP 500-1000, aspirin 600-1000) 효과
+
+비교; OTC 한도 내에서 ibuprofen 400 가장 효과적 (NNT ~2.5).
 
 ## 1. Document Information
 - Authors: Moore RA et al., Oxford pain group
@@ -25,7 +38,7 @@ OTC-dose analgesic comparison companion to single-dose overview (CD008659).
 Overview of single-dose Cochrane SRs restricted to OTC doses.
 
 ## 4. Key Results
-[근거강함]
+[확인]
 - Ibuprofen 400mg NNT ~2.5
 - APAP 1000mg NNT ~3.5-4
 - Aspirin 1000mg NNT ~4

@@ -1,0 +1,65 @@
+A preclinical model links osseo-densification due to misfit and osseo-destruction due to stress/strain.
+
+Coyac BR, Leahy B, Salvi G, Hoffmann W, Brunski JB, Helms JA.
+Clinical Oral Implants Research (Clin Oral Implants Res). 2019;30(12):1238-1249.
+DOI: 10.1111/clr.13537
+PMID: 31520494
+Publication date: 2019-10-11
+Language: eng
+Article types: Journal Article
+
+Affiliations:
+- Coyac BR, Leahy B, Salvi G, Brunski JB, Helms JA — Department of Plastic and Reconstructive
+  Surgery, School of Medicine, Stanford University, Palo Alto, CA, USA.
+- Hoffmann W — Nobel Biocare Services AG, Zürich, Switzerland.
+
+Keywords: computational modeling; drilling; implant failure; osteotomy; resorption
+MeSH terms: Animals; Biomechanical Phenomena; Dental Implants; Osseointegration; Rats; Torque;
+X-Ray Microtomography
+
+SOURCE NOTE: Retrieved via the PubMed MCP (get_article_metadata, PMID 31520494) on 2026-07-17.
+No PubMed Central (PMC) copy exists for this record, so no full text was retrievable — the text
+below is the structured abstract as indexed in PubMed, and is the complete extent of the primary
+material held for this paper. Metadata and abstract courtesy of PubMed;
+DOI: https://doi.org/10.1111/clr.13537
+
+=== ABSTRACT (structured; as indexed in PubMed) ===
+
+OBJECTIVE / AIM
+
+Primary stability is a prerequisite for implant osseointegration. Some degree of misfit between an
+implant and its osteotomy is required to ensure primary stability, and this is typically achieved
+by undersizing an implant osteotomy. In this preclinical study, we aimed at understanding the
+relationship between misfit, insertion torque, implant stability, and their cumulative short- and
+longer-term effects on peri-implant bone.
+
+MATERIALS AND METHODS
+
+We placed implants in maxillary extraction sites of a rat; in the control group, these implants had
+minimal misfit while those in the test group had a high degree of misfit and therefore
+osseo-densified the peri-implant bone.
+
+RESULTS
+
+Compared to controls, the misfit-induced stresses produced by osseo-densification led to
+micro-fractures in the peri-implant bone and an extensive zone of dying osteocytes. High
+interfacial pressures produced a pro-resorptive environment as shown by tartrate-resistant acid
+phosphatase activity and cathepsin K immunostaining (IHC). The lack of alkaline phosphatase
+activity and collagen I IHC supported the absence of new bone formation. Collectively,
+micro-computed tomography imaging, quantification of bone-implant contact (BIC), vimentin, and
+IL1-β IHCs demonstrated that implant failure occurred soon afterward, which presented as a
+crater-like lesion filled with fibrous, inflamed granulation tissue around the test implants.
+
+CONCLUSION
+
+By controlling every other risk indicator, we confirmed how excessive osseo-densification can lead
+directly to osseo-destruction.
+
+=== END OF RETRIEVED TEXT ===
+
+INGEST CAVEAT: The abstract reports no sample size (number of rats or implants), no insertion
+torque values, no misfit magnitudes (osteotomy/implant diameter differential), no BIC percentages,
+no timepoints, and no p-values. Any such quantity must NOT be attributed to this paper from the
+holdings below — it is not in the retrieved material. The "computational modeling" keyword and the
+title's "stress/strain" indicate a finite-element/biomechanical component whose parameters and
+outputs are likewise not recoverable from the abstract.

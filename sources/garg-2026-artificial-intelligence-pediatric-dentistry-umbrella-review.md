@@ -16,13 +16,21 @@ text_filename: garg-2026-artificial-intelligence-pediatric-dentistry-umbrella-re
 
 This paper seeds the new `artificial-intelligence` category — the first AI/ML evidence-synthesis page in the wiki. As an umbrella review it sits one tier above primary SRs and anchors how AI evidence in (pediatric) dentistry should be appraised: AMSTAR-2 quality, GROOVE/CCA overlap, and CNN-imaging diagnostic metrics. It is paired with the sibling ML methodology review [[wiki/artificial-intelligence/gomez-rios-2025-machine-learning-data-analysis-pediatric-dentistry-sr]] (created alongside this one), which it reinforces by independently confirming that AI image-based diagnostics are promising but rest on low/critically-low-quality primary evidence.
 
-## One-line Summary
+## Three-line Summary
 
-Umbrella review (7 SRs, 109 primary studies) finding AI — chiefly CNNs for imaging — reaches pooled sensitivity/specificity 80–83% and AUC 0.87–0.91 in pediatric dentistry, but most underlying reviews are low/critically-low quality, so evidence is preliminary (abstract-only).
+Umbrella review (International Journal Paediatric Dent 2026; 7 systematic reviews, 109 primary studies) synthesizing AI evidence in pediatric dentistry, including caries detection, anomaly identification, cleft-lip-and-palate assessment, and caries-risk prediction.
 
-## 한줄요약
+Convolutional neural networks (CNNs) for imaging diagnostics achieved pooled sensitivity/specificity 80–83% and area under the curve (AUC) 0.87–0.91, indicating promising discrimination performance; however, AMSTAR-2 appraisal found most underlying reviews were of low or critically low methodological quality.
 
-엄브렐러 리뷰 (체계적 문헌고찰 7편, 1차 연구 109편): 소아치과에서 인공지능 (Artificial Intelligence, AI), 특히 영상용 합성곱 신경망 (Convolutional Neural Network, CNN)은 통합 민감도/특이도 80–83%, 곡선하면적 (Area Under the Curve, AUC) 0.87–0.91로 우수하나, 포함된 리뷰 대부분이 낮은/매우 낮은 질이라 근거는 예비적 (초록만 확보).
+Evidence overlap (GROOVE/CCA) was moderate (8.27%), and the reviewers conclude AI diagnostic performance is promising but preliminary and should be interpreted cautiously until supporting systematic reviews improve in quality and registration.
+
+## 세줄요약
+
+엄브렐러 리뷰(International Journal Paediatric Dent 2026; 체계적 고찰 7편, 1차 연구 109편): 소아 우식 진단·이상 식별·구순구개열·우식 위험 예측 등 소아치과 인공지능 증거 종합.
+
+합성곱 신경망(CNN) 영상 진단은 통합 민감도/특이도 80–83%, 곡선하면적(AUC) 0.87–0.91 달성해 우수한 판별력 보임; 그러나 AMSTAR-2 평가 결과 포함된 대부분의 리뷰가 낮은~매우 낮은 방법론적 질임.
+
+증거 겹침(GROOVE/CCA) 중간 수준(8.27%); AI 진단 성능은 유망하나 예비적이며, 리뷰의 질 개선과 등록 전까지 신중히 해석할 것 권고.
 
 ## 1. Document Information
 

@@ -6,7 +6,7 @@ date: 2026-03-20
 doi: "10.1186/s12903-026-08105-z"
 source: zadikian-2026-open-healing-immediate-implant-mucosa.md
 category: immediate-implant/esthetic-soft-tissue
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "41862887"
@@ -20,13 +20,21 @@ relations:
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (12 studies, 431 patients / 438 implants; 3–4 RCTs) — "open healing" (immediate transmucosal non-occlusal provisionalization + particulate bone graft, no barrier membrane, no primary flap closure) gives limited midfacial mucosal change vs primary flap closure (MML SMD −0.26, 95% CI −0.71 to 0.18, NS), a mesial-papilla advantage (SMD 0.76, p=0.01), and comparable MBL, KMW, and 92–100% survival.
+SR+MA (PROSPERO CRD42023439073; 12 studies, 431 patients / 438 implants, 3–4 RCTs) isolating "open healing" at immediate implant placement: particulate bone graft in the buccal gap sealed by a non-occlusal provisional or customized healing abutment with no barrier membrane and no primary flap closure.
 
-## 한줄요약
+Open healing produced limited midfacial mucosal change vs primary flap closure (MML SMD −0.26, 95% CI −0.71 to 0.18, NS), a mesial-papilla advantage (SMD 0.76, p=0.01), and comparable MBL, KMW, and 92–100% survival over mean 10.6-month follow-up.
 
-체계적 고찰·메타분석(12편, 환자 431명·임플란트 438개, RCT 3~4편): 비폐쇄 치유(open healing, 차폐막·일차봉합 없이 임시보철/맞춤치유지대주로만 입자형 골이식재를 봉합)는 일차봉합 대비 정중협측 점막레벨(Midfacial Mucosal Level, MML) 변화가 미미(SMD −0.26, 유의차 없음)했고, 근심 치유두는 오히려 유리(SMD 0.76, p=0.01), 변연골소실·각화점막폭·생존율(92~100%)은 동등했다.
+Omitting primary closure does not destabilize peri-implant mucosa in selected anterior, intact-buccal-wall cases, though evidence is dominated by short follow-up and favorable anatomy, limiting generalizability.
+
+## 세줄요약
+
+PROSPERO 등록 SR+MA (12편, 환자 431명·임플란트 438개, RCT 3–4편) — 즉시식립 시 차폐막·일차봉합 없이 입자형 골이식재를 비교합 임시보철/맞춤치유지대주로만 봉합하는 "open healing"을 독립 변수로 분리 분석.
+
+Open healing은 일차봉합 대비 협측 점막레벨(MML) 변화 차이 없음(SMD −0.26, NS); 근심 치유두 유리(SMD 0.76, p=0.01); 변연골소실·각화점막폭·생존율(92–100%) 동등 (평균 추적 10.6개월).
+
+선별된 전치부·협측판 온전 증례에서는 일차봉합 생략이 주위 점막을 불안정화하지 않지만, 단기 추적·유리 해부 조건 편중으로 일반화는 제한적이다.
 
 ## Summary
 
@@ -57,6 +65,6 @@ SR+MA per PRISMA (PROSPERO CRD42023439073), searching PubMed/MEDLINE, EMBASE, De
 
 - [[immediate-implant/esthetic-soft-tissue/pitman-2022-immediate-implant-provisionalization-sr-ma]] — extends; isolates the membrane-free open-healing variable behind Pitman's immediate-provisionalization soft-tissue benefit.
 - [[immediate-implant/esthetic-soft-tissue/de-angelis-2021-immediate-implant-provisionalization-soft-tissue-retrospective]] — reinforces; provisionalization-driven peri-implant soft-tissue stability in the esthetic zone.
-- [[immediate-implant/dutra-2025-customized-healing-abutments-immediate-implants]] — refines; customized healing abutment as the transmucosal seal that operationalizes open healing.
-- [[immediate-implant/zhou-2024-open-closed-flap-collagen-membrane-immediate-implant]] — contrasts; open vs closed flap with a collagen membrane, where Zadikian instead studies membrane-free open healing.
-- [[immediate-implant/seyssens-2022-immediate-implant-socket-grafting-sr-ma]] — reinforces; buccal-gap socket grafting rationale that the open-healing seal protects.
+- [[immediate-implant/esthetic-soft-tissue/dutra-2025-customized-healing-abutments-immediate-implants]] — refines; customized healing abutment as the transmucosal seal that operationalizes open healing.
+- [[immediate-implant/gap-grafting/zhou-2024-open-closed-flap-collagen-membrane-immediate-implant]] — contrasts; open vs closed flap with a collagen membrane, where Zadikian instead studies membrane-free open healing.
+- [[immediate-implant/gap-grafting/seyssens-2022-immediate-implant-socket-grafting-sr-ma]] — reinforces; buccal-gap socket grafting rationale that the open-healing seal protects.

@@ -6,7 +6,7 @@ date: 2024-08-17
 doi: 10.7759/cureus.67061
 source: alkhurayji-2024-factors-patient-failure-attend-dental.md
 category: [practice-management]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 full_text: true
 pmid: "39286712"
@@ -16,13 +16,21 @@ text_filename: alkhurayji-2024-factors-patient-failure-attend-dental.txt
 tags: [no-show, appointment-attendance, practice-management]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective review of 1,364 missed dental appointments (Riyadh military medical city, Jan–May 2024): nonattendees were mostly single (56.2%), female (60.7%), ≤35y (67.3%), with morning slots and new-patient visits most missed — but no significant day/time-by-characteristic association.
+Retrospective secondary analysis of 1,364 missed dental appointments (Prince Sultan Military Medical City, Riyadh, Jan–May 2024) characterizing the demographic and scheduling profile of non-attenders using descriptive statistics, chi-square, and ANOVA.
 
-## 한줄요약
+The dominant non-attendance profile was single (56.2%), female (60.7%), aged ≤35 years (67.3%), new/initial-visit patients in morning slots; Tuesday had the highest count (331 missed); however, all formal association tests (age, gender, marital status vs. time/date/day) were non-significant (all p > 0.1).
 
-사우디 리야드 군병원 치과 미내원(no-show) 1,364건 후향 분석 — 미혼·여성·35세 이하·오전·초진 예약에서 결석이 많았으나, 요일·연령과 시간/날짜 간 통계적 유의 연관은 없었다. 저녁 진료·워크인 슬롯이 권고 대책.
+Despite the descriptive skew, no patient characteristic reliably predicted timing of missed appointments; the authors recommend evening appointments and walk-in slots as operational interventions.
+
+## 세줄요약
+
+사우디 리야드 군병원 치과 미내원(no-show) 1,364건 후향적 2차 분석 (2024년 1~5월): 기술통계·카이제곱·ANOVA로 미내원 인구학적·스케줄링 프로파일 분석.
+
+미내원 우세 프로파일: 미혼 56.2%, 여성 60.7%, ≤35세 67.3%, 초진·오전 슬롯; 화요일 최다(331건); 그러나 연령·성별·혼인 상태와 예약 시간/날짜/요일 간 공식 연관 검정은 모두 비유의 (p > 0.1).
+
+서술적 패턴에도 불구하고 어떤 환자 특성도 결석 시점을 예측하지 못함; 저녁 진료·워크인 슬롯을 운영 대책으로 권고.
 
 ## Summary
 

@@ -16,13 +16,21 @@ text_filename: bailey-2021-patient-safety-culture-primary-dental-care.txt
 
 Seeds a clinical patient-safety-culture theme inside `practice-management`: it transplants the generic teamwork→patient-safety evidence base into the primary dental care setting, where ~95% of dental care is actually delivered (most safety research is from secondary care/academia). Extends [[practice-management/manser-2009-teamwork-patient-safety-dynamic-healthcare]] — Manser establishes teamwork as a safety determinant in acute/dynamic healthcare; Bailey applies the safety-culture lens to everyday primary dental practice and introduces dental-specific framings (human factors, second victim, over-regulation).
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review/perspective (Prim Dent J 2021) arguing that patient safety in dentistry must shift from secondary-care/academic research into primary care (~95% of care), and offering tools — human factors, second-victim awareness, and a non-punitive culture — to build a patient safety culture in practice.
+Narrative review/perspective (Primary Dental Journal 2021; abstract-only source) arguing that patient safety research in dentistry has been generated in secondary care and academia, yet ~95% of dental care is delivered in primary care — creating an evidence-context mismatch.
 
-## 한줄요약
+The paper surveys five tools to close this gap: human factors, best practice, the second-victim concept, caution against over-regulation, and building a non-punitive patient safety culture in the practice setting.
 
-치과 진료의 약 95%가 일차의료(개원가)에서 이뤄지는데 환자안전 연구는 대부분 2차 진료·학계에서 나온다는 점을 지적하고, 인적요인(Human Factors)·제2의 피해자(Second Victim) 개념·과잉규제 경계·비처벌적 안전문화 조성이라는 도구로 개원 치과에 환자안전 문화를 정착시키는 법을 논한 서술적 관점 논문 (Narrative Review/Perspective, Prim Dent J 2021).
+Being a narrative/perspective with no systematic search, the paper is low on the evidence hierarchy but provides a practical framework for translating safety-culture science into everyday general dental practice.
+
+## 세줄요약
+
+서술적 관점 논문(Primary Dental Journal 2021; 초록만 보유) — 환자안전 연구가 2차 의료·학계에서 나오지만 치과 진료의 약 95%는 일차의료(개원가)에서 이뤄진다는 근거-맥락 불일치 지적.
+
+이 간극을 좁히는 다섯 가지 도구 제시: 인적요인(Human Factors), 모범사례, 제2의 피해자(Second Victim) 개념, 과잉규제 경계, 비처벌적 안전문화 조성.
+
+체계적 검색 없는 서술적 관점으로 근거 수준은 낮으나, 안전문화 과학을 개원 치과 실무에 번역하는 실용적 프레임워크를 제공.
 
 ## 1. Document Information
 

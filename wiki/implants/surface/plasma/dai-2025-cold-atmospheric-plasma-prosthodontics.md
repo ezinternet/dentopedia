@@ -6,20 +6,28 @@ date: 2025-01-01
 doi: 10.1016/j.jdent.2025.106141
 source: dai-2025-cold-atmospheric-plasma-prosthodontics.md
 category: [implants/surface/plasma]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/dai-2025-cold-atmospheric-plasma-prosthodontics.pdf
 pdf_filename: dai-2025-cold-atmospheric-plasma-prosthodontics.pdf
 source_collection: external
 tags: [plasma, CAP, prosthodontics, dentin-bonding, antimicrobial, surface-modification, review]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Review (J Dent 2025; 4-database search, 154 publications) of CAP in prosthodontics across three applications: dentin bonding (resin monomer penetration/polymerization), antibacterial action (ROS/RNS), and implant surface modification (osseointegration, lower infection, soft-tissue healing).
+Narrative review (J Dent 2025; 4-database search, 154 publications) mapping cold atmospheric plasma (CAP) across three prosthodontic applications: dentin bonding, antibacterial action, and implant surface modification.
 
-## 한줄요약
+CAP enhances resin monomer penetration/polymerization for dentin bonding, kills bacteria/biofilm via ROS/RNS with low drug-resistance risk, and improves implant surface properties, osseointegration, infection resistance, and soft-tissue healing.
 
-리뷰(J Dent 2025; 154편): CAP의 보철치과 응용 — ① 상아질 접착 ② 항균(ROS/RNS) ③ 임플란트 표면개질(골유착↑·감염↓·연조직치유↑).
+This is a narrative (non-meta-analytic) synthesis and clinical protocols remain unsettled; it serves as the broadest 2025 conceptual map connecting bonding, antibacterial, and implant axes.
+
+## 세줄요약
+
+줄1: 서술적 리뷰(J Dent 2025; 4개 데이터베이스, 154편): 냉 대기압 플라즈마(CAP)의 보철치과 3대 응용 영역 — 상아질 접착, 항균, 임플란트 표면개질.
+
+줄2: CAP는 상아질 레진 침투·중합 향상, ROS/RNS 기반 세균·바이오필름 사멸(내성 위험↓), 임플란트 표면특성·골유착·감염저항·연조직 치유 개선.
+
+줄3: 메타분석 없는 서술적 종합이며 임상 프로토콜 미확립; 2025년 기준 접착·항균·임플란트 3개 축을 잇는 가장 넓은 개념 지도 역할.
 
 ## Summary
 

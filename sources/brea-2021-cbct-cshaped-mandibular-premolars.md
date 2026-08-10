@@ -13,13 +13,21 @@ source_collection: external
 
 Extends the C-shaped canal morphology framework from molars (anchored by [[endodontics/anatomy/song-2008-cross-sectional-morphology-and-minimum-canal]]) to mandibular PREMOLARS — a less-studied but treatment-critical site — in a Venezuelan (Latin American) cohort. It complements the premolar-focused [[endodontics/anatomy/yu-2012-cbct-mandibular-premolars-root-canal-morphology]] and adds premolar-specific prevalence to the molar-dominated sibling prevalence pages.
 
-## One-line Summary
+## Three-line Summary
 
-CBCT cross-sectional study (380 mandibular first + 308 second premolars, 292 Venezuelan patients): overall 19.2% (132/688) had a C-shaped root canal system, with 83.3% of cases in first premolars vs 16.7% in second premolars; C3 most common in first premolars (59.1%); no significant gender difference; bifurcation mostly in the middle third (~50–53%).
+Retrospective cross-sectional CBCT study (292 Venezuelan patients; 380 mandibular first premolars + 308 second premolars = 688 teeth; Kodak 9000 3D, voxel 76 µm; Jan 2014–Dec 2017) evaluating C-shaped root canal morphology using Fan et al. classification with high inter-observer agreement (κ 0.90–0.94).
 
-## 한줄요약
+Overall 19.2% (132/688) had a C-shaped root canal system; 83.3% of cases occurred in first premolars vs 16.7% in second premolars; C3 was the most frequent type in first premolars (59.1%); no significant gender difference; canal bifurcation occurred mainly in the middle third (~50–53%).
 
-CBCT 횡단 연구(베네수엘라 292명, 하악 제1소구치 380·제2소구치 308): 전체 19.2%(132/688)가 C-shaped 근관계, 그 중 83.3%가 제1소구치·16.7%가 제2소구치; 제1소구치는 C3형이 가장 흔함(59.1%); 성별 차이 무의미; 분지(bifurcation)는 주로 중간 1/3(~50–53%).
+C-shaped root canal prevalence is opposite to the molar pattern (first > second premolar); clinicians should suspect this anatomy in mandibular first premolars and plan treatment accordingly, though single-center Latin American data limits global generalizability.
+
+## 세줄요약
+
+후향적 CBCT 단면 연구(베네수엘라 292명; 하악 제1소구치 380·제2소구치 308 = 688개; Kodak 9000 3D, voxel 76 µm; 2014–2017): Fan 등 분류로 C-shaped 근관 형태 평가, 관찰자 간 일치도 높음(κ 0.90–0.94).
+
+전체 19.2%(132/688)가 C-shaped 근관계; 그 중 83.3%가 제1소구치·16.7%가 제2소구치; 제1소구치에서 C3형 가장 흔함(59.1%); 성별 차이 없음; 분지(bifurcation) 주로 중간 1/3(~50–53%).
+
+구치부와 반대로 제1소구치 > 제2소구치 패턴; 하악 제1소구치에서 C-shaped 해부를 의심하고 치료 계획해야 하나, 단일기관 라틴아메리카 데이터로 전 세계 일반화 제한.
 
 ## 1. Document Information
 

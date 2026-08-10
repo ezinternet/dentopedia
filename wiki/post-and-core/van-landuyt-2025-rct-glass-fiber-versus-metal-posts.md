@@ -6,7 +6,7 @@ date: 2025-03-15
 doi: 10.1016/j.jdent.2025.105694
 source: van-landuyt-2025-rct-glass-fiber-versus-metal-posts.md
 category: [post-and-core]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: false
 pmid: "40096878"
@@ -19,13 +19,21 @@ relations:
     target: tsintsadze-2022-survival-rates-glass-fiber-metal-posts
 ---
 
-## One-line Summary
+## Three-line Summary
 
-15-year RCT (131 patients, 182 restorations): glass-fiber posts trended toward higher success/survival (prefab 59.2%/68.5%) than metal posts (48.0%/53.6%), but post material had NO statistically significant effect; metal posts failed more by root fracture.
+15-year RCT (KU Leuven; 131 patients, 182 post-and-single-crown restorations randomized to metal ParaPost XT vs prefabricated or custom glass-fiber posts; 91.6% recall at mean 179.6 months) — one of the longest randomized post-material trials published.
 
-## 한줄요약
+Kaplan-Meier analysis showed a consistent non-significant trend favoring prefabricated glass-fiber posts (success 59.2%, survival 68.5%) over metal posts (48.0%, 53.6%), but post material had no statistically significant effect on either outcome; metal-post failures occurred more often by root fracture (non-restorable), while fiber-post failures were more repairable.
 
-15년 추적 RCT(환자 131명, 수복 182건): 유리섬유 포스트가 금속 포스트보다 성공·생존율이 높은 경향(기성 59.2%/68.5% vs 금속 48.0%/53.6%)이었으나 포스트 재료 자체의 통계적 유의 효과는 없었고, 금속 포스트는 치근파절로 실패하는 비율이 더 높았음.
+The 15-year failure-mode difference — metal → root fracture, fiber → repairable — is the more clinically actionable finding than the non-significant survival trend, providing a practical argument for choosing dentin-modulus-matched fiber posts over metal.
+
+## 세줄요약
+
+15년 추적 RCT (KU Leuven; 환자 131명, 포스트+단관 수복 182건, 금속 ParaPost XT vs 기성·맞춤 유리섬유 포스트 무작위 배정; 평균 179.6개월 시점 91.6% 재참여) — 현존하는 가장 장기 포스트 재료 무작위 임상연구 중 하나.
+
+카플란-마이어 분석에서 기성 유리섬유 포스트가 비유의적이지만 일관된 경향으로 금속 포스트보다 우위 (성공 59.2%/68.5% vs 48.0%/53.6%); 포스트 재료의 통계적 유의 효과 없음; 금속 포스트는 치근파절(수복 불가)이 더 빈번, 유리섬유 포스트는 수리 가능한 실패가 더 많음.
+
+15년 파절 양상 차이 — 금속→치근파절, 섬유→수리 가능 — 가 비유의적 생존율 경향보다 임상적으로 더 중요한 발견이며, 상아질 탄성계수와 유사한 섬유포스트 선호의 실용적 근거를 제공한다.
 
 ## Summary
 

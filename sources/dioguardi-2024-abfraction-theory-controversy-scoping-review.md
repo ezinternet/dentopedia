@@ -12,11 +12,21 @@ source_collection: external
 ## Why Ingested
 Abfraction 논쟁을 PRISMA-ScR + ROBINS-I로 정식 분석한 최신 scoping review. [[nccl/duangthip-2017-occlusal-stress-nccl-abfraction-sr]]의 "81% 연관" 결론을 직접 재비판하며 abfraction 논쟁 축의 최신 근거. overview의 gap 섹션 핵심.
 
-## One-line Summary
-Scoping review (PRISMA-ScR, ROBINS-I; only 6/1449 studies included) concluding the evidence is insufficient to confirm or refute the aetiological role of occlusal loads in abfraction; prospective longitudinal studies are needed.
+## Three-line Summary
 
-## 한줄요약
-PRISMA-ScR scoping review(1449편 중 6편) — 교합부하의 abfraction 병인 역할을 확정도 반박도 못함, 전향적 종단연구 필요.
+Registered PRISMA-ScR scoping review with ROBINS-I risk-of-bias appraisal (1,449 records screened, only 6 studies included) — the most rigorous appraisal of the abfraction theory to date — directly critiquing Duangthip 2017 for conflating abfraction with erosion/abrasion and relying on lab-weighted evidence.
+
+The 6 included studies provide insufficient evidence to either confirm or refute the aetiological role of occlusal loads in NCCL development; "clues" exist but require prospective longitudinal studies that control for coexisting erosion/abrasion before any conclusion is possible.
+
+NCCLs affect ~10–40% of adults over 30, with premolars predominating; the clinical implication is that abfraction-based occlusal adjustment cannot be justified on current evidence, and a multifactorial etiology should guide lesion management.
+
+## 세줄요약
+
+등록된 PRISMA-ScR scoping review + ROBINS-I 비뚤림 위험 평가(1,449편 선별, 6편 포함) — abfraction 이론에 대한 현재까지 가장 엄격한 검토; Duangthip 2017이 abfraction과 erosion/abrasion을 혼동하고 실험실 연구 위주였다는 점을 직접 비판.
+
+6편의 포함 연구 모두 교합부하의 NCCL 병인 역할을 확정도 반박도 하기에 불충분; 동반 erosion/abrasion을 통제한 전향적 종단연구가 나오기 전에는 결론 불가.
+
+NCCL은 30세 이상 성인 ~10–40%에서 발생하며 소구치가 주로 이환; 현재 근거로는 abfraction 기반 교합조정을 정당화할 수 없으며, 다인성 병인이 임상적 병소 관리를 안내해야 함.
 
 ## 1. Document Information
 - Current Oral Health Reports 2024;11:237-247. DOI 10.1007/s40496-024-00378-z. Published 2024-05-17. Open access (CC BY). Univ of Foggia. PRISMA-ScR; protocol on INPLASY; ROBINS-I risk of bias.

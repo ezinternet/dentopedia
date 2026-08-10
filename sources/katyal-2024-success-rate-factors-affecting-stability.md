@@ -13,13 +13,21 @@ source_collection: external
 
 [[wiki/orthodontics/alharbi-2018-miniscrew-failure-rate-orthodontics-sr-ma]] pooled mostly inter-radicular miniscrews and left the extra-radicular infrazygomatic crest (IZC) site largely unexplored. This 2024 SR+MA isolates IZC-MSI (14 studies, 1683 screws, 92% success) and reinforces the broader miniscrew-stability evidence base by adding a dedicated extra-alveolar success estimate.
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (14 studies, n=1683 infrazygomatic crest miniscrews): pooled success 92% (95% CI 87–95%; I²=80%), rising to 94% in studies with >100 screws; no significant age–success relation and only limited correlation for other host/implant factors.
+SR+MA (14 studies, n=1683 infrazygomatic crest miniscrews): pooled success 92% (95% CI 87–95%;
 
-## 한줄요약
+I²=80%), rising to 94% in studies with >100 screws;
 
-SR+MA (14편·관골하능 미니스크루 1683개): 통합 성공률 92% (95% CI 87–95%, I²=80%), 표본 >100 연구에서는 94%; 연령–성공 유의 관계 없음, 기타 숙주·임플란트 인자 상관성은 제한적.
+no significant age–success relation and only limited correlation for other host/implant factors.
+
+## 세줄요약
+
+SR+MA (14편·관골하능 미니스크루 1683개): 통합 성공률 92% (95% CI 87–95%, I²=80%), 표본 >100 연구에서는 94%;
+
+연령–성공 유의 관계 없음, 기타 숙주·임플란트 인자 상관성은 제한적.
+
+(incomplete)
 
 ## 1. Document Information
 

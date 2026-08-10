@@ -7,7 +7,7 @@ doi: 10.1016/j.joen.2017.09.020
 pmid: "29229457"
 source: naumann-2017-ferrule-first-post-second-systematic-review.md
 category: [post-and-core]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: false
 tags: [ferrule-effect, post-and-core, endodontically-treated-teeth, systematic-review]
@@ -15,13 +15,21 @@ text_path: /Users/oracleneo/llm-wiki/papers/naumann-2017-ferrule-first-post-seco
 text_filename: naumann-2017-ferrule-first-post-second-systematic-review.txt
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR of 8 prospective clinical studies (≥5yr): ferrule/cavity wall preservation is the dominant factor for ETT survival; 7/8 studies show no independent benefit from endodontic post placement.
+Systematic review of 8 prospective clinical studies (7 RCTs + 1 prospective trial, ≥5 years follow-up, Cochrane risk-of-bias assessment) comparing post vs no-post restoration in endodontically treated teeth — the first SR restricted to this comparison in long-term prospective evidence.
 
-## 한줄요약
+Ferrule effect and cavity wall preservation were supported as the dominant survival factors (2/3 applicable studies), while 7/8 studies found no positive independent effect of post placement; routine post placement is not supported by the available ≥5-year prospective clinical evidence.
 
-전향적 임상연구 8편(5년 이상) 체계적 고찰: 페룰(ferrule)·치벽 보존이 근관치료 치아 생존의 주요 결정인자이며, 8편 중 7편에서 포스트의 독립적 효과 없음.
+Five of eight included studies carried high Cochrane risk of bias, so the verdict is best read as "insufficient evidence for routine post" rather than "posts are harmful" — the title's "Fake News?" framing explicitly challenges the prevailing clinical dogma.
+
+## 세줄요약
+
+전향적 임상연구 8편 (RCT 7 + 전향적 임상시험 1, 추적 ≥5년, Cochrane 비뚤림 평가) 체계적 고찰: 근관치료치에서 포스트 유무를 직접 비교한 장기 전향적 근거만을 대상으로 한 첫 번째 SR.
+
+페룰 효과 및 치벽 보존이 주된 생존 결정인자(해당 3편 중 2편 지지), 8편 중 7편에서 포스트 식립의 독립적 양성 효과 없음; ≥5년 전향적 임상근거로는 일상적 포스트 식립을 지지할 수 없다.
+
+8편 중 5편이 Cochrane 비뚤림 위험 높음으로 평가되어, 결론은 "포스트가 해롭다"가 아닌 "일상적 포스트를 지지할 충분한 근거 없음"으로 해석해야 하며 — "가짜 뉴스?" 제목은 기존 임상 통념에 대한 명시적 도전이다.
 
 ## Summary
 

@@ -6,7 +6,7 @@ date: 2023-08-24
 doi: 10.11607/jomi.10048
 source: lee-2023-impact-sinus-floor-elevation-techniques.md
 category: [sinus-lift/lateral]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/lee-2023-impact-sinus-floor-elevation-techniques.pdf
 pdf_filename: lee-2023-impact-sinus-floor-elevation-techniques.pdf
 source_collection: external
@@ -18,13 +18,21 @@ relations:
     target: mazor-2024-maxillary-sinus-membrane-perforation-osseodensification
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR + NMA (85 studies, 5,551 SFE procedures): rotary burs in LSFE carry the highest Sinus Membrane Perforation risk (SUCRA 0.0745) while reamers in TSFE carry the lowest (SUCRA 0.9444); each 10% increase in SMP rate significantly reduces implant survival (OR = 0.45, 95% CrI: 0.21–0.71, P < .001).
+Bayesian SR + network meta-analysis (85 studies, 5,551 sinus floor elevation procedures, January 1960–August 2021) simultaneously ranking LSFE and TSFE instrument subtypes by Sinus Membrane Perforation (SMP) risk using SUCRA scores.
 
-## 한줄요약
+Within LSFE, rotary burs had the highest SMP risk (SUCRA 0.0745); within TSFE, reamer drilling had the lowest (SUCRA 0.9444); each 10% increase in SMP rate was associated with 55% lower implant survival odds (OR=0.45, 95% CrI 0.21–0.71, P<.001).
 
-SR+NMA (85연구, 5,551술식): 측방창 회전 버 (Rotary Bur)가 슈나이더 막 천공 (Sinus Membrane Perforation, SMP) 위험 최고 (SUCRA 0.0745), 경치조골 리머 (Reamer)가 최저 (SUCRA 0.9444); 천공률 10% 증가마다 임플란트 생존율 유의 감소 (OR 0.45, P < .001).
+Piezoelectric devices within LSFE and reamer-based TSFE are preferred for SMP risk reduction; the quantified SMP-to-survival dose-response makes SMP prevention a direct implant-survival priority.
+
+## 세줄요약
+
+베이지안 SR+네트워크 메타분석 (85편, 5,551 상악동저 거상술 [Sinus Floor Elevation, SFE]): 측방창 (Lateral SFE, LSFE)과 경치조골 (Transcrestal SFE, TSFE) 기구 아형을 슈나이더막 천공 (Sinus Membrane Perforation, SMP) 위험으로 동시 순위화.
+
+LSFE 내 회전 버 (Rotary Bur) SMP 최고 위험 (SUCRA 0.0745); TSFE 내 리머 (Reamer) 최저 (SUCRA 0.9444); 천공률 10% 증가마다 임플란트 생존 오즈 55% 감소 (OR=0.45, P<.001).
+
+LSFE에서는 피에조서저리, TSFE에서는 리머가 SMP 위험 최소화 선택; 천공-생존 용량-반응 관계가 정량화됨으로써 SMP 예방이 직접적인 임플란트 생존 전략임을 확립.
 
 ## Summary
 

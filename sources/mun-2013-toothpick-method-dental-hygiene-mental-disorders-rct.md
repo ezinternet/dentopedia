@@ -14,17 +14,25 @@ text_filename: mun-2013-toothpick-method-dental-hygiene-mental-disorders-rct.txt
 
 ## Why Ingested
 
-This RCT applies the toothpick method as one component of a structured, hygienist-delivered dental hygiene care programme for patients with mental disorders — a special-needs population — extending the method beyond healthy adults and beyond the periodontal-maintenance setting. It complements [[periodontics/lee-2020-watanabe-toothpick-method-srp-diabetic-periodontitis-rct]], which tested the Watanabe toothpick method in diabetic periodontitis patients, by showing the technique can be embedded in a broader behavioural/educational care package for a psychiatrically vulnerable group.
+This RCT applies the toothpick method as one component of a structured, hygienist-delivered dental hygiene care programme for patients with mental disorders — a special-needs population — extending the method beyond healthy adults and beyond the periodontal-maintenance setting. It complements [[periodontics/oral-hygiene-instruction/lee-2020-watanabe-toothpick-method-srp-diabetic-periodontitis-rct]], which tested the Watanabe toothpick method in diabetic periodontitis patients, by showing the technique can be embedded in a broader behavioural/educational care package for a psychiatrically vulnerable group.
 
 Caveat: this is an **abstract-only** record (full text not retrieved). The toothpick method was just **one element** of a multi-part programme (10-min flash-based video + brochures + toothpick method), so its isolated contribution to the plaque reduction cannot be separated from the educational components.
 
-## One-line Summary
+## Three-line Summary
 
-RCT (n=73, 3 groups, 12 weeks at 4-week intervals): a multi-component dental hygiene care programme (10-min flash video + brochures + toothpick method, delivered by 5 hygienists) significantly reduced plaque index after each session in patients with mental disorders; oral dryness improved, but stimulated saliva and caries activity did not.
+RCT (n=73, 3 groups, 12 weeks at 4-week intervals): a multi-component dental hygiene care programme (10-min flash video + brochures + toothpick method, delivered by 5 hygienists) significantly reduced plaque index after each session in patients with mental disorders;
 
-## 한줄요약
+oral dryness improved, but stimulated saliva and caries activity did not.
 
-정신질환 환자 73명 대상 RCT(3군, 12주·4주 간격): 10분 플래시 동영상 + 브로셔 + 토스픽법(toothpick method)을 묶은 다요소 구강위생 관리 프로그램이 매 세션 후 치면세균막 지수(plaque index)를 유의하게 감소시켰고(P<0.0001) 군간 차이도 유의(P=0.036). 구강건조감은 개선됐으나 자극타액과 우식활성도는 변화 없었다.
+(incomplete)
+
+## 세줄요약
+
+정신질환 환자 73명 대상 RCT(3군, 12주·4주 간격): 10분 플래시 동영상 + 브로셔 + 토스픽법(toothpick method)을 묶은 다요소 구강위생 관리 프로그램이 매 세션 후 치면세균막 지수(plaque index)를 유의하게 감소시켰고(P<0.0001) 군간 차이도 유의(P=0.036).
+
+구강건조감은 개선됐으나 자극타액과 우식활성도는 변화 없었다.
+
+(incomplete)
 
 ## 1. Document Information
 
@@ -68,8 +76,8 @@ RCT (n=73, 3 groups, 12 weeks at 4-week intervals): a multi-component dental hyg
 
 ## 6. Related Work
 
-- [[periodontics/lee-2020-watanabe-toothpick-method-srp-diabetic-periodontitis-rct]] — Watanabe toothpick method as an adjunct in another medically compromised group (diabetic periodontitis).
-- [[periodontics/rajwani-2020-manual-toothbrushing-techniques-plaque-gingivitis-sr]] — systematic review of manual plaque-control techniques (context for mechanical plaque control efficacy).
+- [[periodontics/oral-hygiene-instruction/lee-2020-watanabe-toothpick-method-srp-diabetic-periodontitis-rct]] — Watanabe toothpick method as an adjunct in another medically compromised group (diabetic periodontitis).
+- [[periodontics/oral-hygiene-instruction/rajwani-2020-manual-toothbrushing-techniques-plaque-gingivitis-sr]] — systematic review of manual plaque-control techniques (context for mechanical plaque control efficacy).
 
 ## 7. Glossary
 

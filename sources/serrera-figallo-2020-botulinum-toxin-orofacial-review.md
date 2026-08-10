@@ -3,14 +3,27 @@ title: "Use of Botulinum Toxin in Orofacial Clinical Practice"
 authors: Maria-Angeles Serrera-Figallo, Gonzalo Ruiz-de-León-Hernández, Daniel Torres-Lagares et al., University of Sevilla
 year: 2020
 doi: 10.3390/toxins12020112
-category: [tmj]
+category: ['botulinum-toxin']
 pdf_path: /Users/oracleneo/llm-wiki/papers/serrera-figallo-2020-botulinum-toxin-orofacial-review.pdf
 pdf_filename: serrera-figallo-2020-botulinum-toxin-orofacial-review.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Narrative review from Sevilla covering the full range of botulinum toxin applications in orofacial clinical practice, including TMD, bruxism, facial pain, and cosmetic uses; summarizes injection protocols and dosing recommendations.
+## Three-line Summary
+
+Narrative review from Sevilla covering the full range of botulinum
+
+toxin applications in orofacial clinical practice, including TMD, bruxism, facial
+
+pain, and cosmetic uses; summarizes injection protocols and dosing recommendations.
+
+## 세줄요약
+
+Narrative review from Sevilla covering the full range of botulinum
+
+toxin applications in orofacial 임상적 (Clinical) practice, including TMD, bruxism, facial
+
+pain, and cosmetic uses; summarizes injection protocols and dosing recommendations.
 
 ## 1. Document Information
 - **Journal**: Toxins 2020;12(2):112

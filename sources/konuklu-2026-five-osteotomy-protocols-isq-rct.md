@@ -9,8 +9,21 @@ pdf_filename: konuklu-2026-five-osteotomy-protocols-isq-rct.pdf
 source_collection: external
 ---
 
-## One-line Summary
-RCT (n=100, 5 osteotomy protocols × 3-month ISQ trajectory): moderate-speed drilling 300rpm achieves best long-term ISQ; high-speed 800rpm yields highest initial IT in dense bone; osseodensification shows transient mid-healing gains; bone condensation shows progressive ISQ decline.
+## Three-line Summary
+
+RCT (n=100, 5 osteotomy protocols × 3-month ISQ trajectory): moderate-speed drilling 300rpm achieves best long-term ISQ
+
+high-speed 800rpm yields highest initial IT in dense bone
+
+osseodensification shows transient mid-healing gains; bone condensation shows progressive ISQ decline.
+
+## 세줄요약
+
+무작위 대조 시험 (RCT) (n=100, 5 osteotomy protocols × 3-month 임플란트 안정성 지수 (Implant Stability Quotient, ISQ) trajectory): moderate-speed drilling 300rpm achieves best long-term 임플란트 안정성 지수 (Implant Stability Quotient, ISQ)
+
+high-speed 800rpm yields highest initial IT in dense 골 (Bone)
+
+osseodensification shows transient mid-healing gains; 골 (Bone) condensation shows progressive 임플란트 안정성 지수 (Implant Stability Quotient, ISQ) decline.
 
 ## 1. Document Information
 - Journal: Clinical Implant Dentistry and Related Research 2026;28:e70125

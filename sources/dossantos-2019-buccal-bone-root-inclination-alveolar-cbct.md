@@ -9,8 +9,21 @@ pdf_filename: dossantos-2019-buccal-bone-root-inclination-alveolar-cbct.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Descriptive CBCT study mapping buccal plate thickness, root inclination, and alveolar bone dimensions across the jaws, intended as a planning reference for immediate implants.
+## Three-line Summary
+
+Retrospective CBCT analysis in Portuguese population measuring buccal plate thickness, tooth root inclination (Kan class), and alveolar bone dimensions across maxillary and mandibular sites for immediate implant planning.
+
+Buccal plate predominantly thin in anterior maxilla; root inclinations (Kan I/II/III/IV) correlate with relative buccal/palatal bone distribution — provides site-specific anatomic reference data for fenestration/dehiscence risk.
+
+Descriptive; no outcome correlation or clinical follow-up — serves as planning tool only; single-center cross-sectional design.
+
+## 세줄요약
+
+포르투갈 인구의 즉시식립 계획용 CBCT 기반 기술적 분석: 협측판 두께, 치근 경향(Kan 분류), 치조제 골 치수 (상악·하악 전역).
+
+협측판 상악 전치부에서 주로 얇음; 치근 경향(Kan I/II/III/IV)은 협측/구개측 골 분포와 연관 — 특정 위치의 해부학적 위험도 예측용 참고 자료.
+
+기술적 설명 연구; 임상 결과 연관성 없음, 단일 센터 횡단면 설계.
 
 ## 1. Document Information
 - **Title:** Analysis of the Buccal Bone Plate, Root Inclination and Alveolar Bone Dimensions in the Jawbone. A Descriptive Study Using Cone-Beam Computed Tomography
@@ -32,8 +45,8 @@ Quantifies site-by-site variation; buccal plate predominantly thin in anterior m
 Descriptive; no outcome correlation; single-center cohort.
 
 ## 6. Related Work
-- [[immediate-implant/shafizadeh-2021-alveolar-bone-thickness-healthy-sr]]
-- [[immediate-implant/altarawneh-2018-bone-dimensions-anterior-maxilla-cbct]]
+- [[immediate-implant/anatomic-assessment/shafizadeh-2021-alveolar-bone-thickness-healthy-sr]]
+- [[immediate-implant/anatomic-assessment/altarawneh-2018-bone-dimensions-anterior-maxilla-cbct]]
 
 ## 7. Glossary
 - **IIP:** Immediate Implant Placement — placement at the time of tooth extraction.

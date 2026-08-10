@@ -9,8 +9,21 @@ pdf_filename: zhang-2020-occlusal-splint-tmd-rct-sr.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Systematic review of RCTs evaluating occlusal splint efficacy for TMD; found moderate evidence that stabilization splints reduce pain and improve function compared to no treatment, but evidence quality is limited.
+## Three-line Summary
+
+Systematic review of RCTs evaluating occlusal splint efficacy for TMD;
+
+found moderate evidence that stabilization splints reduce pain and improve
+
+function compared to no treatment, but evidence quality is limited.
+
+## 세줄요약
+
+체계적 고찰 (Systematic Review, SR) of 무작위 대조 시험 (RCT)s evaluating occlusal splint efficacy for TMD;
+
+found moderate evidence that stabilization splints reduce pain and improve
+
+function compared to no treatment, but evidence quality is limited.
 
 ## 1. Document Information
 - **Journal**: Acta Odontologica Scandinavica (2020)

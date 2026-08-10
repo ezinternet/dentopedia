@@ -16,13 +16,21 @@ text_filename: barber-2019-shared-decision-making-orthodontics.txt
 
 Companion to [[behavioral-dentistry/communication-relationship/asaad-2019-shared-decision-making-sdm-dentistry]] — gives the orthodontic-specific application of shared decision-making (SDM), where many decisions are preference-sensitive (treat vs. monitor, extraction vs. non-extraction, fixed vs. removable, aesthetics vs. function) rather than purely clinical. Extends the general dentistry SDM framing into a discipline where patient preferences should weigh heavily.
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review of shared decision-making in orthodontics — outlines the key stages of SDM, the main barriers to its uptake, and the evidence gaps (notably validated orthodontic decision aids) blocking full integration into orthodontic practice. (abstract-only — full text not retrieved)
+Narrative review (single author, 2019) of shared decision-making (SDM) specifically in orthodontics; abstract-only ingest; no systematic search or quantitative synthesis.
 
-## 한줄요약
+SDM is framed as making decisions 'with' rather than 'about' patients; the review outlines key SDM stages, main barriers to uptake in orthodontics, and areas where further evidence is needed — notably validated orthodontic-specific patient decision aids.
 
-교정학에서의 공유의사결정(Shared Decision-Making, SDM)에 관한 서술적 리뷰 — SDM의 핵심 단계, 도입을 가로막는 주요 장벽, 그리고 교정 진료에 완전히 통합하기 위해 더 필요한 근거(특히 검증된 교정용 의사결정 보조도구)를 짚는다. (초록만 확보 — 전문 미수집)
+Orthodontic decisions are frequently preference-sensitive (treatment vs monitoring, extraction vs non-extraction, fixed vs removable), making SDM especially important; however, the lack of validated decision aids and barrier evidence limits full clinical integration.
+
+## 세줄요약
+
+교정학 특화 공유의사결정(Shared Decision-Making, SDM) 서술적 리뷰(단독 저자, 2019) — 초록만 확보; 비체계적 고찰.
+
+SDM을 환자에 대해서가 아닌 환자와 함께 결정하는 과정으로 정의하며, 핵심 단계·도입 장벽·추가 근거 필요 영역(특히 검증된 교정용 의사결정 보조도구)을 제시.
+
+교정 치료 결정은 선호도-민감적(치료 vs 관찰, 발치 vs 비발치, 고정식 vs 가철식)이어서 SDM이 특히 중요하나, 검증된 의사결정 보조도구와 장벽 근거 부족으로 완전한 임상 통합이 제한된다.
 
 ## 1. Document Information
 

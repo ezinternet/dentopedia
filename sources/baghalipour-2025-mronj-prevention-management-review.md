@@ -10,8 +10,21 @@ pdf_filename: baghalipour-2025-mronj-prevention-management-review.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Comprehensive review: MRONJ 4-level prevention framework (primary→quaternary); primary prevention (pre-medication dental clearance) = most effective; secondary/tertiary for at-risk and established cases; quaternary addresses overmedicalisation.
+## Three-line Summary
+
+Comprehensive narrative review (Oral Health Prev Dent, 2025) proposing a four-level MRONJ prevention framework — primary through quaternary — based on PubMed/Google Scholar synthesis of antiresorptive and antiangiogenic medication risk.
+
+Primary prevention (pre-medication dental clearance, extraction of hopeless teeth ≥3 weeks before first dose) is identified as the most effective strategy; drug holiday evidence for IV bisphosphonates and denosumab remains inconclusive.
+
+Dental specialists across oral surgery, periodontics, implantology, and endodontics each have defined roles; implant placement is contraindicated in active MRONJ and requires extreme caution in at-risk patients.
+
+## 세줄요약
+
+Oral Health Prev Dent (2025) 서술적 리뷰 — 항골흡수제(비스포스포네이트, 데노수맙) 및 항혈관신생제 투여 환자에서의 MRONJ(Medication-Related Osteonecrosis of the Jaw, 약물연관악골괴사) 예방·관리 4단계 체계(1차→4차 예방) 제안.
+
+1차 예방(투약 전 치과검진·발치→소켓 치유 후 투약 시작)이 가장 효과적; IV 비스포스포네이트·데노수맙 drug holiday 효과는 근거 불충분.
+
+구강외과·치주과·임플란트·근관치료 각 분야별 역할 명시; 활동성 MRONJ에서 임플란트 식립 금기, 위험군에서도 극도로 주의 필요.
 
 ## 1. Document Information
 - Journal: Oral Health and Preventive Dentistry 23:403–417 (2025)

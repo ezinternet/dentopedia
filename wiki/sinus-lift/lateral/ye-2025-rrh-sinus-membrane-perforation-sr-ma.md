@@ -6,7 +6,7 @@ date: 2025-09-03
 doi: 10.1186/s12903-025-06902-6
 source: ye-2025-rrh-sinus-membrane-perforation-sr-ma.md
 category: sinus-lift/lateral
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/ye-2025-rrh-sinus-membrane-perforation-sr-ma.pdf
 pdf_filename: ye-2025-rrh-sinus-membrane-perforation-sr-ma.pdf
 source_collection: external
@@ -20,13 +20,21 @@ relations:
     target: diaz-olivares-2021-schneiderian-membrane-perforation-sinus-lift
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (10 studies, 1,809 lateral-window sinus lifts): mean RRH significantly lower in perforated vs. non-perforated sinuses (MD −0.89 mm, 95% CI −1.47 to −0.31); small RRH (3–4 mm) OR 2.47 (NS overall; OR 4.68, p<0.05 after outlier removal), supporting RRH as a potential perforation risk factor.
+First SR+MA specifically on residual ridge height (RRH) and Schneiderian membrane perforation during lateral-window sinus floor elevation (10 studies, 1,601 patients, 1,809 procedures; pooled perforation rate 19.2%).
 
-## 한줄요약
+Mean RRH was significantly lower in perforated vs non-perforated sinuses (MD −0.89 mm, 95% CI −1.47 to −0.31; I²=90%); categorical small RRH (3–4 mm cut-off) OR 2.47 (NS; I²=88%), rising to OR 4.68 (p<0.05) after outlier removal.
 
-SR+MA (10연구, 1,809회 측방창 상악동거상술): 천공군에서 잔류 치조골 높이 (Residual Ridge Height, RRH)가 유의하게 낮음 (MD −0.89 mm); 소잔류골 (3–4 mm) 교차비 (Odds Ratio, OR) 2.47 (비유의), 이상치 제거 시 OR 4.68 (유의) — RRH가 잠재적 천공 위험인자임을 시사.
+When RRH is <4 mm, surgeons should use piezosurgical windows, prepare repair materials before opening the window, and inform patients of elevated perforation risk — though high heterogeneity (I²=88–90%) and absence of multivariate adjustment limit confident attribution to RRH alone.
+
+## 세줄요약
+
+잔류 치조골 높이 (Residual Ridge Height, RRH)와 측방창 상악동거상술 중 슈나이더 막 천공 (Sinus Membrane Perforation, SMP)을 특정 목표로 한 최초의 SR+MA (10연구, 1,601명, 1,809회; 통합 천공률 19.2%).
+
+천공군에서 RRH가 유의하게 낮음 (MD −0.89 mm, I²=90%); 소잔류골(3–4 mm) 교차비 (Odds Ratio, OR) 2.47 (비유의, I²=88%), 이상치 제거 시 OR 4.68 (유의).
+
+RRH <4 mm 시 압전 골절제술 적용, 창 개방 전 수복 재료 준비, 환자 동의 필수 — 다만 높은 이질성(I²=88–90%)과 다변량 조정 데이터 부재로 RRH 단독 귀속에는 한계가 있다.
 
 ## Summary
 

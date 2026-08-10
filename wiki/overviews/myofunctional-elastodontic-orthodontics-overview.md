@@ -6,7 +6,7 @@ date: 2026-06-20
 doi: N/A
 source: N/A
 category: overviews
-confidence: synthesis
+evidence_level: synthesis
 pdf_path: N/A
 pdf_filename: N/A
 source_collection: synthesis
@@ -28,13 +28,21 @@ tags: [orthodontics, myofunctional, elastodontic, ef-line, amcop, eptamed, inter
 > - **확신도(중요)**: **근거 수준 전반적으로 약함** — 대부분 후향연구·증례군, RCT는 구개확장 1편(Ortu 2025)뿐, 다수가 단일 이탈리아 연구군·단기·무대조. SR들도 "근거 부족" 명시(Ronsivalle 2023, Ortu 2024). 효과 방향은 일관되나 전통장치 대비 열등/동등이며 장기·골격 효과 미확립.
 > - **임상 한 줄**: 협조적 성장기 아동의 경증~중등도 Class II·반대교합·개방교합 **조기차단**에 편의·심미 이점으로 고려 가능하나, 골격성·중증 증례의 고정/강성장치를 대체하지 못하며 ~6개월 장치 교체 전제. 근거가 약해 신중한 적응증 선택 필요.
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis of 12 wiki papers on myofunctional/elastodontic orthodontics (EF Line, AMCOP, Eptamed Equilibrator, Occlus-o-Guide prefabricated silicone bio-activators): in growing/mixed-dentition patients these appliances achieve interceptive Class II sagittal correction, dentoalveolar transverse expansion, posterior-crossbite and open-bite correction, and modest airway gains — generally comparable to conventional functional/expansion appliances with better comfort/compliance but smaller skeletal effects, on a weak evidence base (mostly retrospective/case-series, a single RCT) with appliances that degrade by ~6 months.
+Synthesis of 12 wiki papers on myofunctional/elastodontic orthodontics (EF Line, AMCOP, Eptamed Equilibrator, Occlus-o-Guide prefabricated silicone/PDMS bio-activators) across 7 clinical axes — Class II sagittal correction, transverse expansion, posterior crossbite, open bite/neuromuscular balance, airway, and appliance material degradation.
 
-## 한줄요약
+In growing/mixed-dentition patients these appliances achieve measurable interceptive effects: Class II sagittal correction (SNB +0.61°–2.82°, overjet −2.1–4.58 mm; Ureni 2024 scoping, 16 studies), dentoalveolar transverse expansion equivalent to Schwartz plate/Haas expander (Ortu 2024/2025), posterior crossbite correction (81.1%→92.3% palatal symmetry; Lo Giudice 2023), and modest airway gains inferior to twin-block — effects are generally smaller than conventional functional appliances and are primarily dentoalveolar rather than skeletal.
 
-위키 12편 종합: 탄성교정장치(EF Line·AMCOP 등)는 성장기 혼합치열의 조기차단(Class II·반대교합·개방교합·횡적확장)에 효과를 보이나 주로 치조성·전통장치 대비 동등~열등이고, 근거는 약함(후향/증례 위주, RCT 1편), 장치는 ~6개월 노화로 교체 필요.
+The evidence base is weak (mostly retrospective/case series, only one RCT for palatal expansion), appliances degrade structurally by ~6 months (Cui 2024 in-vitro, alkaline saliva worst), and the single Italian research group dominates the literature — warranting caution in severity selection (these appliances should not replace fixed/rigid appliances in skeletal/severe cases).
+
+## 세줄요약
+
+위키 12편 종합: 탄성교정장치(Elastodontic Appliance, EA — EF Line·AMCOP 등 기성 실리콘 bio-activator)는 성장기·혼합치열 환자의 조기차단(Class II 시상·횡적확장·구치부 반대교합·개방교합)에 측정 가능한 효과를 보임 — Class II: overjet −2.1~−4.58 mm(Ureni 2024, 16편), 횡적 확장: Schwartz plate·Haas 확장기와 동등(Ortu 2024/2025), 반대교합: 구개 대칭 81.1%→92.3%(Lo Giudice 2023, n=39).
+
+효과는 주로 치조성이고 골격성 효과는 전통 기능장치보다 작으며, 인두기도 개선 폭은 twin-block < RPE < AMCOP 순(Inchingolo 2025); 장치는 알칼리 타액 환경에서 ~6개월 후 구조 열화로 정기 교체 필요(Cui 2024 in-vitro).
+
+근거 등급이 전반적으로 약함(RCT 1편, 나머지 후향·증례군, 단일 이탈리아 연구군 편중, 단기 추적) — 경증·중등도 부정교합의 협조적 성장기 아동에 편의·심미 이점으로 고려 가능하나 골격성·중증 증례의 고정/강성 장치를 대체하지 못한다.
 
 ## Synthesis
 

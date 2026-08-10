@@ -1,0 +1,118 @@
+Title: Trigeminal Sensory Supply Is Essential for Motor Recovery after Facial Nerve Injury
+Authors: Svenja Rink-Notzon, Jannika Reuscher, Klaus Nohroudi, Marilena Manthou, Tessa Gordon, Doychin N Angelov
+Journal: International Journal of Molecular Sciences, 2022;23(23):15101
+DOI: 10.3390/ijms232315101
+PMID: 36499425
+PMCID: PMC9740813
+Source: PubMed Central full text (get_full_text_article)
+
+Abstract:
+Recovery of mimic function after facial nerve transection is poor. The successful regrowth of regenerating motor nerve fibers to reinnervate their targets is compromised by (i) poor axonal navigation and excessive collateral branching, (ii) abnormal exchange of nerve impulses between adjacent regrowing axons, namely axonal crosstalk, and (iii) insufficient synaptic input to the axotomized facial motoneurons. As a result, axotomized motoneurons become hyperexcitable but unable to discharge. We review our findings, which have addressed the poor return of mimic function after facial nerve injuries, by testing the hypothesized detrimental component, and we propose that intensifying the trigeminal sensory input to axotomized and electrophysiologically silent facial motoneurons improves the specificity of the reinnervation of appropriate targets. We compared behavioral, functional, and morphological parameters after single reconstructive surgery of the facial nerve (or its buccal branch) with those obtained after identical facial nerve surgery, but combined with direct or indirect stimulation of the ipsilateral infraorbital nerve. We found that both methods of trigeminal sensory stimulation, i.e., stimulation of the vibrissal hairs and manual stimulation of the whisker pad, were beneficial for the outcome through improvement of the quality of target reinnervation and recovery of vibrissal motor performance.
+
+Full Text:
+
+1. Clinical Importance of the Afferent Fibers, including Trigeminal Nerve Fibers, for Appropriate Motor Nerve Regeneration and Recovery of Motor Performance
+
+The trigeminal and facial nerves are the most frequently affected cranial nerves in maxillofacial trauma. Apart from the rather common idiopathic Bell's palsy (incidence of 11.5-53.3 per 100,000 individuals a year) and traffic accident injuries (brainstem hemorrhage, temporal bone fractures, or lacerations of the face), most facial nerve lesions are postoperative (removal of cerebellopontine angle tumors, acoustic neuroma surgery, or parotid resections because of malignancy). Despite the use of all available microsurgical techniques for repair of transected nerves, the recovery of facial tone, voluntary movement and emotional expression of the face remains poor.
+
+The inevitable occurrence of a "post-surgery paralytic syndrome" including abnormally associated movements and altered blink reflexes, has been attributed to (1) "misdirected" reinnervation of the facial muscles, (2) possible ephaptic transmission between axons from adjacent fascicles, and (3) putative alterations in synaptic input to facial motoneurons.
+
+A key issue in these explanations, which are not mutually exclusive, is the abnormal activity pattern of the axotomized facial motoneurons, which have been isolated from their target by injury. On one hand, they become hyperexcitable because of their increased resting membrane potential and the remaining function of their axo-dendritic synapses. On the other hand, their reduced synthesis of transmitter-related enzymes and axo-somatic synaptic input render them less able to respond to afferent input and unable to discharge, resulting in 'electrical silence'. Yet, both clinical and experimental data show that functional recovery is generally better after damage to a purely motor nerve than after damage to a mixed (sensory and motor) nerve. One possible explanation for the poor recovery is that a lack of sensory input deprives motoneurons of their electrotonic support. Furthermore, motoneuron deafferentation and atrophy occur. Given the extreme disturbances in sensory and motoneuronal excitability following damage to sensory afferents, as well as excessive sprouting and loss of GABAergic inhibitory control, it is not surprising that functional recovery in animals is poor when deafferentation is permanent. Interestingly, in the study by Pavlov et al., manual stimulation of the denervated muscles worsened the functional outcome. The finding raises the possibility that the stimulation "overloads" a system that, due to deafferentation, is already hyperexcitable, and possibly leads to irretrievable damage.
+
+When examining the functional recovery after peripheral nerve injury and surgical repair, we can observe that the nerve supply to facial muscles has the distinct advantage of the motor and sensory nerves being separate. Recent work indicates that most cranial nerve motor neurons are typically connected by second order sensory neurons mostly located in the reticular formation. Nevertheless, recalling the rapidness of the trigemino-facial corneal reflex, we cannot exclude that the sensory feedback on the facial motoneurons in the brainstem nucleus occurs (at least partially) via ipsilateral monosynaptic connections on the motoneurons by the trigeminal afferent nerves. The facial nerve injury and surgical repair model that we have used extensively in our studies of nerve injury and recovery has the advantage that the experimenter can observe postoperative vibrissae paralysis, and any recovery of their rhythmical vibrissae whisking, in addition to making a detailed immunohistochemical analysis of the reinnervation of the vibrissal muscles. Moreover, the role of the sensory afferents has been studied by selective extirpation of the infraorbital sensory nerve to the vibrissae.
+
+In this review, we describe the functional and anatomical outcomes after self-reinnervation of the muscles that mediate whisker movements and the effects of (A) eliminating sensory input from the vibrissal muscle pads to the facial motoneurons by extirpating the ipsilateral infraorbital nerve (IOn, an end branch of the maxillary nerve, which in turn is the second branch of the trigeminal nerve, V) that provides sensory supply to the whisker pad (vibrissal hairs, muscles and fur); and (B) stimulating the IOn directly or indirectly. The research goal(s), the rat surgeries, the outcome measures and data are briefly described and summarized, and their significance discussed in each case. We demonstrate that electrical silence of axotomized facial motoneurons may be reduced by increasing sensory input from the trigeminal nerve via IOn, the nerve that provides exclusive sensory innervation to the vibrissal muscles. Our evidence supports the anatomical, electrophysiological, and clinical data that has demonstrated that the trigeminal system is involved in generating facial muscle responses and blink reflexes.
+
+2. Ablation of Trigeminal Sensory Input by Excising the Ipsilateral Infraorbital Nerve (IOn-ipsi-ex) Impedes Recovery of Vibrissae Motor Performance after Transection and Suture of the Facial Nerve (Fn-n). Manual Stimulation (Mstim) of the Paralyzed and Deafferented Whisker Pad Worsens Recovery of Whisking.
+
+2.1. Functional Recovery
+
+The mystacial vibrissae of the rat are normally erect with an anterior orientation. The vibrissae normally move with rostral protraction and caudal retraction by the piloerector muscles, in a highly coordinated rhythmic "whisking" manner with normal amplitude of ~50°. The whisking frequency (6-9 Hz) remained normal two months after facial nerve transection and suture (Fn-n), with and without innervation by the sensory afferents of the IOn, but functional recovery was poor, with a significant fall in the whisking amplitude from mean ± SD values of 62 ± 13° to 19 ± 6° (intact sensory input) to 22 ± 3° (abolished sensory input by IOn-ex), respectively.
+
+The poor functional recovery after Fn-n with extirpation of the ipsilateral sensory IOn was worsened by manual stimulation (massage; Fn-n + IOn-ext + Mstim) of the whisker pad. In contrast with earlier results, where Mstim with intact sensory supply promoted recovery of the amplitude to 51 ± 19° after transection of the facial nerve, identical Mstim yielded worse recovery (amplitude of only 14 ± 6°; p < 0.05) after facial nerve transection, plus ablation of sensory input to the paralyzed whisker pad musculature.
+
+2.2. Muscle Innervation
+
+The poor recovery after Fn-n was associated with high levels of polyinnervation - innervation of each endplate by several axons or axonal branches, normally seen only in the neonate. The changed pattern of innervation was studied in the extrinsic vibrissal muscle, the levator labii superioris muscle (LLS). The percentage of polyneuronally innervated endplates in the reinnervated LLS was 53 ± 10% (Fn-n with intact sensory input), and 43 ± 9% (Fn-n with abolished ipsilateral sensory input; IOn-ipsi-ex). Earlier results show that after Fn-n + Mstim, the percentage declined significantly to 22 ± 3%. This beneficial effect was abolished by trigeminal depletion by excision of the ipsilateral IOn, with the percentage of polyinnervated motor endplates as high as 51 ± 10% after Fn-n + IOn-ipsi-ex + Mstim.
+
+2.3. Conclusions
+
+Mstim mediated by intact sensory afferent connections is effective in reversing poor recovery and reinnervation of the whisker pads. When the sensory IOn was excised, the Mstim was less effective.
+
+3. Mild Ipsilateral to Fn-n Trigeminal Indirect Stimulation (by Removing the Contralateral Vibrissal Hairs) and Direct Trigeminal Stimulation (by Massaging the Ipsilateral Whisker Pad) after Double Anastomotic Surgery on the Sensory Infraorbital and Motor Facial Nerves Improves the Quality of Muscle Reinnervation and Vibrissal Motor Performance.
+
+3.1. Experimental Rat Groups
+
+All four groups of rats were subjected to unilateral transection and suture (anastomosis) of the facial (Fn-n) and infraorbital (IOn-n) nerves on the right side of the nose. Rats in control group 1 received no postoperative therapy (Fn-n + IOn-n). In experimental group 2, the contralateral left vibrissal hairs were removed to ensure maximal use of the reinnervated ipsilateral ones (vibrissal stimulation; Fn-n + IOn-n + Vstim). In experimental group 3, the ipsilateral reinnervated right whisker pads were manually stimulated (massage; Fn-n + IOn-n + Mstim). In experimental group 4, the Vstim of the reinnervated vibrissae was followed by manual stimulation of the same vibrissae (Fn-n + IOn-n + Vstim + Mstim).
+
+3.2. Functional Recovery
+
+Four months after the transection and anastomosis of Fn and IOn (Fn-n + IOn-n) without treatment, recovery in control group 1 was poor; amplitude and angular velocity during whisking were reduced to about 20% of the value in intact rats (11 ± 4°). All three postoperative stimulation procedures in experimental groups 2-4 improved function, with significantly higher amplitudes of vibrissal whisking than control rats: Fn-n + IOn-n + Vstim 28 ± 9°; Fn-n + IOn-n + Mstim 30 ± 11°; Fn-n + IOn-n + Vstim + Mstim 32 ± 10°. The amplitudes in experimental groups were not significantly different from each other, but significantly better than control group 1, though still ~50% less than in intact animals.
+
+3.3. Morphological Estimates in the Facial Muscles
+
+Rats receiving Vstim, Mstim or Vstim + Mstim had larger muscle fiber diameters and a higher incidence of intramuscular axonal branches compared with untreated control rats. Quantitative assessment of polyinnervation of the endplates showed a significant decline from 58 ± 8% (control group 1) to 40 ± 3%, 40 ± 4%, and 33 ± 10% for Fn-n + IOn-n + Vstim, Fn-n + IOn-n + Mstim, and Fn-n + IOn-n + Vstim + Mstim, respectively.
+
+3.4. Morphological Estimates in the Facial Nucleus
+
+To assess direct impact of trigeminal afferents on facial motoneurons, perisomatic synapses were identified by immunofluorescent staining with anti-synaptophysin. The fractional area covered by synaptophysin-positive particles in the intact lateral facial subnucleus was 17.29% ± 2.0%. This decreased significantly in experimental groups and was not restored regardless of treatment: Fn-n + IOn-n: 12 ± 1%; Fn-n + IOn-n + Vstim: 12 ± 1%; Fn-n + IOn-n + Mstim: 13 ± 2%; Fn-n + IOn-n + Vstim + Mstim: 12 ± 2%. Similarly, synaptic profile counts and linear synaptic density were reduced across all experimental groups and not restored by treatment.
+
+3.5. Conclusions
+
+After transection and surgical repair of both the facial (motor) and the infraorbital (sensory) nerves, noninvasive interventions ensuring forced use of the vibrissae ipsilateral to injury (Vstim or Mstim) improved recovery in whisking compared with no treatment, although quantitative synaptic measures did not show restoration - suggesting synaptic efficacy rather than synapse number may explain the functional improvement.
+
+3.6. Clinical Application
+
+Findings indicate the feasibility of sensory stimulation for treatment of human patients after facial nerve injury and surgical repair. Sensory stimulation alone or prior to manual stimulation was not superior to manual stimulation alone - a result with the clinical advantage that elaborate sensory-stimulation methods (e.g., moist heat) may not be necessary in physiotherapy, since massage itself stimulates trigeminal afferents. This method is also beneficial in patients with combined facial and trigeminal nerve lesions (e.g., massage technique using thumb inside the cheek with fingers on facial skin, drawing tissues toward the mouth); patients typically report increased comfort and mobility after several weeks of practice.
+
+4. Intensive Ipsilateral to Fn-n Trigeminal Indirect Stimulation, Produced by Forced Overuse Due to Excision of the Contralateral Infraorbital Nerve (IOn) after Surgery on the Buccal Branch of the Facial Nerve, Attenuates Misdirected Reinnervation.
+
+4.1. Introduction
+
+Misdirection of regenerating axons occurs in three ways: (1) axons misrouted into endoneural tubes within fascicles leading to inappropriate muscles; (2) multiple branches (rather than one) growing out from each transected nerve fiber, in contrast with precise target-directed pathfinding during embryonic development; (3) intramuscular or terminal sprouting of axons within the reinnervated target muscle.
+
+Combined facial and trigeminal surgery was performed to determine whether altered trigeminal sensory input (via ipsi- or contralateral infraorbital nerves) to axotomized, electrophysiologically silent facial motoneurons improves specificity of reinnervation, based on known direct ipsilateral and "crossed" connections between trigeminal and facial nuclei.
+
+The motor buccal nerve (Bn) and sensory infraorbital nerve (IOn) were each transected and sutured end-to-end to examine appropriate/inappropriate regeneration of Bn axons into its two distal stumps (superior and inferior buccolabial nerves). Group 1: unoperated controls. Group 2: Bn-n only. Group 3: Bn-n + excision of ipsilateral IOn (Bn-n + IOn-ipsi-ex). Group 4: Bn-n + excision of contralateral IOn (Bn-n + IOn-contra-ex).
+
+4.2-4.3 Results
+
+In unoperated controls, FG- and DiI-labelled motoneurons localized exclusively and distinctly (91% ventrolateral / 9% dorsomedial) with no double-labelling, reflecting normal myotopic organization. After Bn-n alone, myotopic organization was greatly disrupted: FG-labelled (superior BLn) fell from 91% to ~56%, DiI-labelled (inferior BLn) rose from 9% to ~21%, with 23% double-labelled motoneurons (falling to 11% by 112 days, consistent with pruning of excess sprouts). After Bn-n + IOn-ipsi-ex, disruption was similar (superior BLn 91%→~48%; inferior BLn 9%→~39%; 13% double-labelled). After Bn-n + IOn-contra-ex, accuracy of reinnervation significantly improved: appropriate (superior BLn) labelling increased to 69% (vs 56% Bn-n alone and 48% Bn-n+IOn-ipsi-ex), inferior BLn fell to 23%, and double-labelled fell to ~8%.
+
+4.4. Conclusions
+
+Excision of the contralateral (but not ipsilateral) infraorbital nerve reduced collateral branching and/or increased elimination of branches of regenerating nerve fibers after buccal nerve transection and repair, diminishing misdirected reinnervation. Proposed explanation: excision of contralateral IOn forces the rat to preferentially use the side with intact sensory innervation - which is the same side as the transected facial axons - so intact ipsilateral afferent input strongly stimulates the axotomized motoneurons to elongate axons appropriately.
+
+5. Intensive Ipsilateral Trigeminal Indirect Stimulation (via Contralateral IOn Excision) Improves Accuracy of Target Muscle Reinnervation.
+
+5.1-5.4 Results
+
+Using retrograde double-labeling (FG into whisker pad muscle pre-surgery, FB into same site 28 days post-surgery) to quantify what fraction of motoneurons re-innervating the whisker pad were from the original pool: unoperated controls ~90% double-labelled. After Bn-n alone, only 27% (398 ± 80) double-labelled, i.e., 73% were "ectopic" motoneurons from adjacent subnuclei that should not normally have grown branches into this territory. After Bn-n + IOn-ipsi-ex, 32% (436 ± 68) double-labelled - not significantly different from Bn-n alone. After Bn-n + IOn-contra-ex, 41% (580 ± 63) double-labelled - a statistically significant improvement over Bn-n + IOn-ipsi-ex (p = 0.01), with larger, less-shrunken motoneuron perikarya.
+
+5.5-5.7 Conclusions and Clinical Implications
+
+Contralateral (but not ipsilateral) infraorbital sensory nerve lesion improved accuracy of target muscle reinnervation by regenerating facial motoneurons; recovery of vibrissal motor performance also began earlier in this group. Two speculative mechanisms are offered: (1) hyperexcitability/hyperstimulation of the ipsilateral spinal trigeminal nucleus after ipsilateral deafferentation drives excess glutamate release, which suppresses neurite outgrowth and slows/misdirects regrowth; (2) forced preferential use of the sensory-intact ipsilateral side (when IOn is excised contralaterally) provides trophic/electrotonic support that speeds and directs axotomized motoneuron regrowth. While combined bilateral trigeminal-facial surgery has no direct human application, the results suggest a temporary pharmacologic (paraneural anesthetic) blockade of the contralateral trigeminal fascicles during the post-facial-surgery period might yield similar benefits in humans - an anticipated future clinical experiment. Clinically, conditioning rehabilitation (activation of low-threshold facial mechanoreceptors) is already known to improve speed and specificity of reinnervation and reduce synkinesis in facial nerve patients, consistent with the animal findings; the ipsilateral trigeminal projection was expected to dominate, but contralateral trigeminal lesion produced more accurate regeneration.
+
+6. Direct Stimulation of the Trigeminal Nerve Afferents (Manual Stimulation/Massage of the Whisker Pad) after Facial Nerve Surgery Restores Synaptic Density in the Facial Nucleus, Improves Quality of Target Reinnervation, and Promotes Recovery of Vibrissal Motor Performance.
+
+6.1-6.4 Methods, Results, Discussion
+
+Three groups: intact controls; Fn-n + handling (no stimulation); Fn-n + Mstim (daily 5-10 min manual stimulation of whisker pad). Synaptophysin immunocytochemistry quantified total synaptic input to facial motoneurons via densitometric pixel-intensity analysis.
+
+Recovery of whisking after Fn-n + handling was poor; Mstim resulted in an almost complete return of normal whisking amplitude and protraction speed. Synaptic terminal pixel counts (synaptophysin) were significantly reduced in Fn-n + handling versus intact controls (29.2×10^n ± 1.8×10^n vs 34.3×10^n ± 2.3×10^n; p = 0.036) - approximately 15% reduction ("synaptic stripping"). In Fn-n + Mstim, pixel counts were not significantly different from intact controls (33×10^n ± 2.6×10^n) and were significantly higher than Fn-n + handling (p = 0.007) - i.e., Mstim counteracted the synaptic loss.
+
+Morphologically, Fn-n + handling rats had more intramuscular axonal branches and smaller muscle fiber diameters than Fn-n + Mstim rats. Polyinnervation was high in Fn-n + handling (53 ± 10%) versus significantly lower in Fn-n + Mstim (22 ± 5%), matching restored normal vibrissal function.
+
+6.5. Mechanisms
+
+Proposed mechanisms: Mstim prevents retraction of synaptophysin-positive afferent synapses from motoneurons (paralleling exercise-induced retention of glutamatergic synaptic inputs on axotomized lumbosacral motoneurons after 2-week training programs); Mstim-enhanced sensory input may directly stimulate motoneuron perikarya/dendrites, increasing production of growth-associated molecules (GAP-43, synapsin I, cAMP, BDNF) that support dendrite growth and synaptic remodeling; Mstim reduces polyneuronal muscle reinnervation, aiding functional recovery, consistent with known deleterious effects of persistent polyinnervation on facial motor function recovery. Sensory input is conveyed via infraorbital nerve fibers through the maxillary nerve to the trigeminal brainstem nucleus (essential for facial responses and blink reflexes) and interconnects with the subcortical central whisking pattern generator; Mstim likely maintains appropriate excitability within the trigeminal-cortical-facial loop. These findings are consistent with human clinical reports that stimulation of paralyzed facial muscles and EMG/neuromuscular re-education programs are effective even in long-standing paralysis.
+
+7. Muscle Neurotrophic Factors Are Unlikely to Play a Role in the Reduced Polyneuronal Muscle Reinnervation by Manual Stimulation (Mstim).
+
+7.1-7.4 Methods, Results, Conclusions
+
+Protein levels of FGF2, IGF1, and NGF were measured by sandwich ELISA in levator labii superioris (LLS) muscle samples 8 weeks after Fn-n + handling vs Fn-n + Mstim. No statistically significant differences were detected between the two groups for any of the three neurotrophic factors (FGF2: 69 ± 24 vs 56 ± 11 pg/mg; IGF1: 2079 ± 300 vs 1821 ± 784 pg/mg; NGF: 51 ± 21 vs 33 ± 13 pg/mg, versus intact 75 ± 16, 1492 ± 87, 61 ± 22 pg/mg respectively). This suggests the beneficial effect of Mstim on reducing polyneuronal reinnervation at this 2-month endpoint is not explained by altered levels of these three muscle neurotrophic factors (earlier alterations cannot be excluded).
+
+8. Conclusions and Future Directions
+
+This review provides evidence that manual stimulation of denervated facial muscles can "override" the effects of robust but inappropriate axonal regrowth in target muscles, by reducing the degree of polyinnervation of reinnervated muscle endplates - an effect apparently sufficient for restoration of motor function. The molecular basis of appropriate muscle target reinnervation and recovery of motor function remains unclear; transcriptome/mRNA-sequencing analyses of de- and re-innervated muscles over a time course are proposed as a future direction.

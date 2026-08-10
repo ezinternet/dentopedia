@@ -16,13 +16,21 @@ text_filename: eraydin-tufek-2026-nonsurgical-peri-implantitis-multiarm-rct.txt
 
 This assessor-blinded RCT (80 implants / 26 patients, 5 arms, 6 mo) reinforces the in-vitro biofilm-removal finding [[wiki/implants/peri-implantitis/pujarern-2024-biofilm-removal-implant-airflow-erythritol]] with clinical short-term outcomes for air-powder abrasion, and complements the adjunctive-therapy synthesis in [[wiki/implants/peri-implantitis/mauriello-2026-peri-implant-mucositis-adjunctive-narrative-review]]. It directly tests whether common nonsurgical adjuncts (CHX, ozone, glycine powder air abrasion) add benefit over mechanical instrumentation alone in early peri-implantitis.
 
-## One-line Summary
+## Three-line Summary
 
-Assessor-blinded multi-arm RCT (80 implants, 26 patients, 5 nonsurgical arms, 6 mo): all modalities improved PPD/BOP/plaque, with glycine powder air abrasion + mechanical instrumentation giving the greatest numerical reductions, but NO statistically significant between-group differences.
+Assessor-blinded multi-arm RCT (80 implants, 26 patients, 5 nonsurgical treatment arms, 6-month follow-up): five decontamination strategies (mechanical instrumentation ± chlorhexidine/ozone/glycine air abrasion) were tested in a clustered design accounting for multiple implants per patient.
 
-## 한줄요약
+All five modalities produced significant clinical improvements in probing pocket depth (PPD), bleeding on probing (BOP), and plaque index over the 6-month period, with glycine powder air abrasion + mechanical instrumentation showing the greatest numerical reductions.
 
-평가자-맹검 다군 RCT (임플란트 80개, 환자 26명, 비외과 5군, 6개월): 모든 방법이 PPD·BOP·치태를 개선했고 글리신 분말 에어아브레이전+기계적 기구조작이 수치상 가장 큰 감소를 보였으나, 군 간 통계적 유의차는 없었다.
+Statistically significant between-group differences were not observed, suggesting that nonsurgical mechanical instrumentation alone yields meaningful short-term benefit in early peri-implantitis; adjunctive glycine powder air abrasion may provide incremental clinical gain without clear statistical superiority, and sample underpowering (26 patients across 5 arms) limits ability to detect smaller effects.
+
+## 세줄요약
+
+평가자-맹검 다군 RCT (임플란트 80개, 환자 26명, 비외과 비수술적 5군, 6개월 추적): 기계적 기구조작 단독 vs. 기계적 기구조작 + 클로르헥시딘/오존/글리신 분말 에어아브레이션을 포함하는 5가지 제염 전략을 환자당 다중 임플란트를 고려한 군집 설계로 비교.
+
+5가지 비수술적 모든 방법이 6개월 동안 임상적 개선(PPD·BOP·수정 치태지수)을 보였으며, 글리신 분말 에어아브레이션 + 기계적 기구조작이 수치상 가장 큰 감소를 나타냈다.
+
+군 간 통계적 유의차가 관찰되지 않았으므로, 비수술적 기계적 제거 단독이 조기 주위염에서 의미 있는 단기 효과를 제공함을 시사하며, 글리신 파우더 보조 요법이 부분적 임상 효과를 가질 수 있으나 통계적 우월성은 뚜렷하지 않음; 표본 크기(26명/5군) 제한이 더 작은 효과 크기 감지에 영향.
 
 ## 1. Document Information
 

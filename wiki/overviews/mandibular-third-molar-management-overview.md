@@ -5,7 +5,7 @@ year: 2026
 date: 2026-06-27
 source: overview
 category: [overviews]
-confidence: synthesis
+evidence_level: synthesis
 source_collection: synthesis
 tags: [oral-surgery, third-molar, impaction, pericoronitis, extraction-indication]
 ---
@@ -24,13 +24,21 @@ tags: [oral-surgery, third-molar, impaction, pericoronitis, extraction-indicatio
 > - 임상 takeaway: 매복 형태로 위험을 층화(Ye) → 3단계 적응증으로 발치/보존 결정(Sun) → 치관주위염은 국소우선·항생제 절제(Schmidt) → 발치 시 CGF로 회복 morbidity 보강(Al-Aroomi). **하치조신경 (Inferior Alveolar Nerve, IAN) 손상 위험·술식 선택**은 별도 프로토콜 참조([[overviews/third-molar-ian-risk-protocol]]).
 > - 주의: 근거 위계가 섞여 있다 — Ye는 단일기관 후향(증상환자 의뢰 편향), Sun은 GRADE 미적용 전문가 합의, Al-Aroomi는 메타분석 불가 SR. 따라서 개별 임상 판단이 우선.
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis of 4 papers framing mandibular third molar (M3M) management as a prophylactic-vs-therapeutic-vs-retention decision: impaction carries a measurable pathology burden (Ye 2021 — pericoronitis 82.4%, second-molar distal caries 18.8%, periodontal pathology 14.8%, with impaction morphology predicting which pathology occurs), a Chinese expert consensus frames a 3-tier extraction-indication framework (Sun 2026), pericoronitis (the leading acute indication) is treated locally first with antibiotics reserved for spreading/systemic infection despite ~75% of dentists over-prescribing (Schmidt 2021), and post-extraction morbidity can be modulated by Concentrated Growth Factor (CGF improves pain, analgesic use, bone fill, and distal periodontal parameters; Al-Aroomi 2025).
+Synthesis of 4 papers framing mandibular third molar (M3M) management as a prophylactic-vs-therapeutic-vs-retention decision across the full pathology–indication–acute treatment–morbidity pipeline.
 
-## 한줄요약
+Impaction carries a measurable pathology burden (Ye 2021, n=432 M3Ms: pericoronitis 82.4%, second-molar distal caries 18.8%, periodontal pathology 14.8%), with impaction morphology predicting which pathology occurs; Sun 2026 translates this into a 3-tier extraction-indication framework; pericoronitis is treated locally first (antibiotics only for spread/systemic signs) despite ~75% of dentists over-prescribing; and post-extraction morbidity is reduced by Concentrated Growth Factor (CGF: pain 75%, bone fill 80%, distal periodontal parameters 100% improved; Al-Aroomi 2025 SR of 11 RCTs).
 
-4편 종합 — 하악 사랑니 관리는 예방적/치료적 발치 vs 보존 결정 문제: 매복은 측정 가능한 병리 부담(치관주위염 82.4%, M2M 원심 우식 18.8%; Ye 2021)을 만들고 매복 형태가 병리를 예측하며, 전문가 합의가 3단계 발치 적응증을 제시하고(Sun 2026), 치관주위염은 국소우선·항생제 절제(치과의사 75% 과처방; Schmidt 2021), 발치 후 morbidity는 CGF로 저감(통증·골충전·치주지표 개선; Al-Aroomi 2025).
+Clinical takeaway: stratify risk by impaction morphology (Ye) → apply the 3-tier indication framework (Sun) → manage pericoronitis with local therapy first and reserved antibiotics (Schmidt) → use CGF to reduce post-extraction morbidity, noting that swelling/trismus/alveolar-osteitis effects remain uncertain due to high heterogeneity.
+
+## 세줄요약
+
+하악 사랑니 관리 4편 종합: 매복은 측정 가능한 병리 부담(치관주위염 82.4%, M2M 원심 우식 18.8%, 치주병변 14.8%; Ye 2021, n=432)을 만들고 매복 형태가 병리 종류를 예측하며, 전문가 합의(Sun 2026)가 3단계 적응증(확정적 병리·치료적·예방적)을 제시한다.
+
+치관주위염의 1차 치료는 국소 세척·NSAIDs이며 항생제는 감염 확산·전신 증상 시에만 한정해야 하나 실제로 치과의사 약 75%가 처방(Schmidt 2021 SR); 발치 후 morbidity는 CGF로 저감 가능하다(통증 75%·진통제 소비 100%·골충전 80%·M2M 치주지표 100% 개선; Al-Aroomi 2025, 11 RCT SR).
+
+임상 핵심: 매복 형태로 위험 층화 → 3단계 적응증으로 발치/보존 결정 → 치관주위염은 국소 우선·항생제 절제 → 발치 시 CGF로 회복 morbidity 보강; 단 부기·개구장애·치조골염 효과는 불확실하고 메타분석이 불가능한 SR 수준 근거임을 명심.
 
 ## Summary
 
@@ -89,8 +97,13 @@ The four papers sit at mixed evidence levels: Ye 2021 is a single-center **retro
 
 ## Related Papers
 
-- [[oral-surgery/ye-2021-mandibular-third-molar-impaction-pathologies]] — Retrospective (432 M3Ms): quantifies the impaction pathology burden (pericoronitis 82.4%, M2M distal caries 18.8%, periodontal pathology 14.8%) and shows impaction morphology predicts which pathology occurs — the empirical basis for risk-stratified indication.
-- [[oral-surgery/sun-2026-third-molar-health-management-expert-consensus]] — Expert consensus: the 3-tier extraction-indication framework (definite pathologic / therapeutic / prophylactic) with shared decision-making and surveillance for low-risk asymptomatic teeth; also recommends CGF for sockets with distal bone deficiency.
-- [[oral-surgery/schmidt-2021-pericoronitis-management-antibiotic-prescribing-recommendations]] — Review + SR: pericoronitis management ladder (local irrigation/debridement first → operculectomy → extraction from 2nd episode), with antibiotics reserved for spread/systemic signs despite ~75% of dentists over-prescribing.
-- [[oral-surgery/al-aroomi-2025-cgf-third-molar-postop-sr]] — SR of 11 RCTs: CGF in the socket improves pain, analgesic use, bone fill, and distal-M2M periodontal parameters after extraction; swelling/trismus/alveolar-osteitis effects uncertain — the post-extraction morbidity-reduction input.
+
+### 신규 ingest cluster (2026-07-15)
+
+- [[oral-surgery/third-molar/firoozi-2022-nonpharmacological-interventions-third-molar-pain-sr]] — Umbrella + network MA (19 SRs): ozone best early pain (SMD −0.84), PRF best late pain (SMD −1.03), LLLT weakest early (SMD −0.32) — PRF/ozone rank highest but unclear bias, need RCTs
+
+- [[oral-surgery/third-molar/ye-2021-mandibular-third-molar-impaction-pathologies]] — Retrospective (432 M3Ms): quantifies the impaction pathology burden (pericoronitis 82.4%, M2M distal caries 18.8%, periodontal pathology 14.8%) and shows impaction morphology predicts which pathology occurs — the empirical basis for risk-stratified indication.
+- [[oral-surgery/third-molar/sun-2026-third-molar-health-management-expert-consensus]] — Expert consensus: the 3-tier extraction-indication framework (definite pathologic / therapeutic / prophylactic) with shared decision-making and surveillance for low-risk asymptomatic teeth; also recommends CGF for sockets with distal bone deficiency.
+- [[oral-surgery/third-molar/schmidt-2021-pericoronitis-management-antibiotic-prescribing-recommendations]] — Review + SR: pericoronitis management ladder (local irrigation/debridement first → operculectomy → extraction from 2nd episode), with antibiotics reserved for spread/systemic signs despite ~75% of dentists over-prescribing.
+- [[oral-surgery/third-molar/al-aroomi-2025-cgf-third-molar-postop-sr]] — SR of 11 RCTs: CGF in the socket improves pain, analgesic use, bone fill, and distal-M2M periodontal parameters after extraction; swelling/trismus/alveolar-osteitis effects uncertain — the post-extraction morbidity-reduction input.
 - [[overviews/third-molar-ian-risk-protocol]] — Companion overview covering the orthogonal axis: pre-extraction inferior alveolar nerve (IAN) injury risk assessment (OPG Rood & Shehab signs → CBCT) and surgical technique selection (coronectomy vs total extraction). Read alongside this page when the chosen action is extraction of a deep/high-risk M3M.

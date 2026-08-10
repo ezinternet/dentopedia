@@ -6,7 +6,7 @@ date: 2023-01-01
 doi: unknown
 source: feldman-2023-metronidazole-disulfiram-reaction-case-control.md
 category: [drug/antibiotics]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/feldman-2023-metronidazole-disulfiram-reaction-case-control.pdf
 pdf_filename: feldman-2023-metronidazole-disulfiram-reaction-case-control.pdf
 source_collection: external
@@ -16,17 +16,25 @@ relations:
     target: orire-2026-revisiting-disulfiram-reaction-alcohol-metronidazole
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective ED case-control chart review (n=36; 18 metronidazole + 18 ethanol-matched controls): **no** documented disulfiram-like reaction in any metronidazole patient with detectable ethanol, and significantly LESS hypertension than controls (16.7% vs 61.1%, P<0.0001) — supporting absence of a clinically meaningful alcohol–metronidazole interaction.
+Retrospective ED case-control chart review (n=36; 18 metronidazole+ethanol vs 18 ethanol-only controls matched on age, sex, and ethanol concentration) over 10 years at a single Milwaukee academic ED.
 
-## 한줄요약
+No metronidazole patient had a documented suspected disulfiram-like reaction; the metronidazole group showed significantly less hypertension than controls (16.7% vs 61.1%, P<0.0001), with no other significant between-group differences.
 
-후향적 응급실 (ED) case-control 차트 리뷰 (n=36; 메트로니다졸 (Metronidazole) 18 + 알코올 매칭 대조 18): 혈중 알코올이 검출된 메트로니다졸 환자 중 디설피람 유사 반응 (Disulfiram-like Reaction) 기록 **0건**, 고혈압은 오히려 유의하게 적음 (16.7% vs 61.1%, P<0.0001) → 임상적으로 의미 있는 알코올-메트로니다졸 상호작용 부재 지지.
+The strict "avoid alcohol with metronidazole" counseling rule rests on weak evidence; when metronidazole is the superior agent for an odontogenic/anaerobic infection, ethanol-interaction fear should not drive avoidance.
+
+## 세줄요약
+
+후향적 응급실(ED) case-control 차트 리뷰(n=36; 메트로니다졸(Metronidazole)+알코올 18명 vs 연령·성별·알코올 농도 매칭 대조 18명; Milwaukee 단일기관 10년).
+
+메트로니다졸 환자 중 디설피람 유사 반응(Disulfiram-like Reaction) 기록 0건; 고혈압은 오히려 유의하게 적음(16.7% vs 61.1%, P<0.0001), 기타 지표 유의차 없음.
+
+"메트로니다졸 복용 중 금주" 권고는 근거가 취약하며, 혐기성·치성 감염에서 메트로니다졸이 선호 약제인 경우 알코올 상호작용 우려로 처방을 피할 필요 없음.
 
 ## Summary
 
-A retrospective case-control chart review at a single Milwaukee academic ED (Dec 2010–Dec 2020) tested whether metronidazole actually causes a disulfiram-like reaction when ethanol is present. 36 patients (18 metronidazole + ethanol vs 18 ethanol-only matched on age, sex, and ethanol concentration) were compared for documented disulfiram-like effects (nausea, vomiting, flushing, tachycardia, hyper-/hypotension, antiemetic use). **No metronidazole patient had a documented suspected disulfiram-like reaction**, and the metronidazole group actually had significantly *less* hypertension (16.7% vs 61.1%, P<0.0001), with no other between-group differences. The authors conclude the data further refute a clinically meaningful interaction and note disulfiram-like symptoms are often baseline effects of ethanol or illness — misattributed to metronidazole. **Dental relevance**: supports that the routine "avoid alcohol with metronidazole" warning rests on weak evidence; when metronidazole is the superior agent for an odontogenic/anaerobic infection, ethanol-interaction fear should not drive avoidance. Pairs with [[drug/orire-2026-revisiting-disulfiram-reaction-alcohol-metronidazole]].
+A retrospective case-control chart review at a single Milwaukee academic ED (Dec 2010–Dec 2020) tested whether metronidazole actually causes a disulfiram-like reaction when ethanol is present. 36 patients (18 metronidazole + ethanol vs 18 ethanol-only matched on age, sex, and ethanol concentration) were compared for documented disulfiram-like effects (nausea, vomiting, flushing, tachycardia, hyper-/hypotension, antiemetic use). **No metronidazole patient had a documented suspected disulfiram-like reaction**, and the metronidazole group actually had significantly *less* hypertension (16.7% vs 61.1%, P<0.0001), with no other between-group differences. The authors conclude the data further refute a clinically meaningful interaction and note disulfiram-like symptoms are often baseline effects of ethanol or illness — misattributed to metronidazole. **Dental relevance**: supports that the routine "avoid alcohol with metronidazole" warning rests on weak evidence; when metronidazole is the superior agent for an odontogenic/anaerobic infection, ethanol-interaction fear should not drive avoidance. Pairs with [[drug/antibiotics/orire-2026-revisiting-disulfiram-reaction-alcohol-metronidazole]].
 
 ## Key Contributions
 
@@ -54,6 +62,6 @@ A retrospective case-control chart review at a single Milwaukee academic ED (Dec
 
 ## Related Papers
 
-- [[drug/orire-2026-revisiting-disulfiram-reaction-alcohol-metronidazole]] — reinforces: 11-study literature review reaching the same negative conclusion.
-- [[drug/thornhill-2019-adverse-reactions-oral-antibiotics-dentists]] — antibiotic adverse-reaction counseling context in dentistry.
+- [[drug/antibiotics/orire-2026-revisiting-disulfiram-reaction-alcohol-metronidazole]] — reinforces: 11-study literature review reaching the same negative conclusion.
+- [[drug/antibiotics/thornhill-2019-adverse-reactions-oral-antibiotics-dentists]] — antibiotic adverse-reaction counseling context in dentistry.
 - [[overviews/drug-antibiotic-stewardship-overview]] — dental antibiotic prescribing/counseling hub.

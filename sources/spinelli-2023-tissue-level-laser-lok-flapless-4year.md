@@ -11,15 +11,23 @@ source_collection: external
 
 ## Why Ingested
 
-Flapless tissue-level implant placement with Laser-Lok (laser-microtextured collar) neck 을 4년간 추적한 임상 코호트 데이터가 없어 인제스트. 이 연구는 [[implants/solderer-2025-tissue-level-implant-bone-loss-factors]]의 tissue-level MBL 위험인자 분석을 실제 임플란트 디자인(laser-microtextured neck) 수준에서 보강하며, [[implants/cosola-2020-bone-tissue-level-radiological-sr]]의 tissue-level MBL SR 결론에 대한 직접 임상 검증 사례로 활용.
+Flapless tissue-level implant placement with Laser-Lok (laser-microtextured collar) neck 을 4년간 추적한 임상 코호트 데이터가 없어 인제스트. 이 연구는 [[implants/solderer-2025-tissue-level-implant-bone-loss-factors]]의 tissue-level MBL 위험인자 분석을 실제 임플란트 디자인(laser-microtextured neck) 수준에서 보강하며, [[implants/mbl/cosola-2020-bone-tissue-level-radiological-sr]]의 tissue-level MBL SR 결론에 대한 직접 임상 검증 사례로 활용.
 
-## One-line Summary
+## Three-line Summary
 
 Prospective 4-year cohort (41 implants, 36 patients) of tapered tissue-level Laser-Lok implants placed flaplessly showed 100% survival, mean MBL −1.10 ± 0.89 mm at 48 months, and stable peri-implant soft-tissue parameters with no mucositis or peri-implantitis.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 무판막 술식으로 식립한 Laser-Lok 조직-레벨 임플란트 41개(36명)를 4년 추적한 전향적 연구: 생존율 100%, 48개월 MBL −1.10 ± 0.89 mm로 제한적 골소실, 치주 지표 안정적이며 주위염·점막염 없음.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 
@@ -121,7 +129,7 @@ Prospective 4-year cohort (41 implants, 36 patients) of tapered tissue-level Las
 ## 6. Related Work
 
 - Solderer 2025 ([[implants/solderer-2025-tissue-level-implant-bone-loss-factors]]): SR on risk factors for bone loss around tissue-level implants — provides meta-level context for the diameter/timing effects observed here
-- Cosola 2020 ([[implants/cosola-2020-bone-tissue-level-radiological-sr]]): SR comparing bone-level vs tissue-level implant radiological outcomes — Spinelli 2023 offers confirmatory prospective data
+- Cosola 2020 ([[implants/mbl/cosola-2020-bone-tissue-level-radiological-sr]]): SR comparing bone-level vs tissue-level implant radiological outcomes — Spinelli 2023 offers confirmatory prospective data
 - Mortazavi 2021 ([[implants/mortazavi-2021-bone-loss-tissue-bone-level-implants]]): Bone loss comparison between tissue-level and bone-level implants — MBL values from Spinelli align with tissue-level advantage noted therein
 - Lombardi 2025 ([[implants/lombardi-2025-bone-level-tissue-level-short-implants-maxilla]]): bone-level vs tissue-level short implants in maxilla — complementary design comparison
 

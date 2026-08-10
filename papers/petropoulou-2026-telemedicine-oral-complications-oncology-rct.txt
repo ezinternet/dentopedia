@@ -1,0 +1,161 @@
+Title: A randomized controlled trial of telemedicine and e-health interventions for the management of oral complications in oncology patients undergoing antineoplastic therapy
+Authors: Petropoulou P, Artopoulou II, Kalemikerakis I, Galanos A, Govina O
+Journal: Frontiers in Oncology 2026;16:1774001
+DOI: 10.3389/fonc.2026.1774001
+PMID: 42158435 | PMCID: PMC13180626
+Source: PubMed Central (PMC) full text, retrieved via PubMed MCP
+According to PubMed (https://pmc.ncbi.nlm.nih.gov/articles/PMC13180626/), DOI: https://doi.org/10.3389/fonc.2026.1774001
+
+===============================================================================
+ABSTRACT
+===============================================================================
+
+Background
+Severe oral complications during and after antineoplastic therapies, such as mucositis, fungal, viral, and bacterial infections, xerostomia, dysphagia, and jaw osteonecrosis, significantly impair oral health and quality of life in oncology patients. Dentist involvement throughout oncology care is essential to reduce complications and support patient well-being. Telemedicine and e-health tools offer effective approaches for oral-health monitoring during treatment.
+
+Objective
+To evaluate the effectiveness of a comprehensive dental intervention for the assessment and management of oral health in patients with solid tumors during cancer therapy using e-health applications, compared with standard oncology-based oral care.
+
+Methods
+This prospective randomized interventional study was conducted at an Oncology Hospital in Athens (March 2022–November 2023), including 105 patients with breast, lung, or colon cancer initiating chemotherapy or combined therapy. Three clinical and radiographic oral-health and quality-of-life assessments were performed. The control group received standard recommendations to visit a dentist, while the intervention group followed a structured, individualized oral health-management protocol via telemedicine and clinical monitoring.
+
+Results
+Telemedicine significantly improved oral-health outcomes and oral-care behaviors compared with controls. At mid-treatment and treatment completion, the intervention group showed statistically significant lower rates of mucosal lesions, gingival bleeding, gingivitis, dental caries, periodontitis, and higher tooth-brushing frequency. These results indicate that Telemedicine and e-health enable effective monitoring, early-stage detection, and oral self-care guidance, improving oral health and well-being during and after treatment.
+
+Conclusion
+Integration of structured teledentistry monitoring into oncology care was associated with improved oral health outcomes in patients undergoing antineoplastic therapy, compared with usual practice.
+
+===============================================================================
+INTRODUCTION
+===============================================================================
+
+In the general population, oral health is influenced by a variety of risk factors, including poor oral hygiene, periodontal diseases, dental caries, xerostomia, inadequate diet, smoking, and polypharmacy. In oncology patients, the administration of chemotherapy, radiotherapy, or targeted therapies further increases the risk of developing oral complications such as mucositis, xerostomia, dysgeusia, fungal infections, and periodontal deterioration. Oral health directly affects both the continuity of cancer treatment and patients' health-related quality of life (HRQoL).
+
+The World Dental Federation (FDI) and the oncology community consider oral care for cancer patients an "urgent need" and public health concern, promoting programs involving dentists, oncologists, nurses, and other health professionals. Severe oral complications may necessitate dose reductions, alterations in treatment schedules, delays, or even discontinuation of antineoplastic therapy.
+
+Chemotherapy can impair oral epithelial cell proliferation/repair (leading to oral ulcers), decrease white blood cell counts (increasing infection susceptibility), and disrupt the oral microbiome. Principal oral complications during cancer therapy include candidiasis, mucositis, herpes simplex virus infection, bacterial mucosal/dentoalveolar infections, dry mouth, and osteonecrosis of the jaws.
+
+Teledentistry — the use of health information technologies and telecommunications for oral healthcare delivery — has been proposed for remote care, screening, diagnosis, treatment planning, and clinical guidance. This study investigates the effectiveness of a structured teledentistry-based intervention in oncology patients undergoing antineoplastic therapy in the Greek healthcare context, where oncology patients often do not receive systematic oral assessment before or during anticancer therapy.
+
+Aim: to investigate the effectiveness of an integrated teledentistry-based dental intervention for patients with solid tumors undergoing antineoplastic therapy, compared with usual oral health care, examining prevention, early-stage identification, and monitoring of oral complications and impact on oral health status and quality of life.
+
+===============================================================================
+MATERIALS AND METHODS
+===============================================================================
+
+Study design and setting
+Prospective, randomized, interventional clinical trial conducted in two oncology clinics and outpatient departments of the Oncology Hospital of Kifissia, Athens, Greece. Ethics approval: Oncology Hospital of Kifissia (101/18-02-2022) and University of West Attica (20256/15-03-2022). Not prospectively registered in a public clinical trial registry. Recruitment/follow-up: 21-month period, March 2022–November 2023. Three clinical and radiographic assessments at baseline, mid-treatment, and end of treatment (T0, T1, T2).
+
+Participants
+105 patients with solid tumors of breast, lung, or colon presenting for first-time chemotherapy or combination therapy. Inclusion: adult, histologically confirmed breast/lung/colon tumor, treatment-naive, ECOG performance status 0–2, adequate Greek language ability, basic smartphone/computer ability (or cohabitant who can use one). Exclusion: pre-existing mental/cognitive impairment, ECOG 3–4, severe comorbidities, age <18, other malignancy types, prior antineoplastic therapy, inability to communicate in Greek.
+
+CONSORT flow: 105 randomized (intervention n=49, control n=56) at T0; at T2, intervention group had 48 remaining (1 death), control group had 42 remaining (14 deaths). Final analysis n=90.
+
+Randomization and allocation
+Computer-generated randomization sequence by an independent statistician not involved in recruitment/assessment; allocation concealed until baseline data collection (T0) confirmed.
+
+Outcome measures
+Primary: occurrence/severity of oral complications — mucosal lesions, gingival bleeding, gingivitis, periodontitis, xerostomia, dental caries, dysgeusia/dysphagia. Secondary: oral hygiene behaviors (brushing frequency), TMJ dysfunction, dental prosthetic restoration presence/type (fixed/removable).
+
+Table 1 — Baseline homogeneity between groups (Control vs Intervention; all p>0.05 except a trend in toothbrushing frequency p=0.058):
+- Sex M/F: Control 29(51.8)/27(48.2) vs Intervention 22(44.9)/27(55.1), p=0.559
+- Age: Control 68.29±10.51 vs Intervention 64.86±9.68, p=0.187
+- Education (Elementary/High School/University): Control 24/17/15 vs Intervention 12/24/13, p=0.100
+- Tumor site (Breast/Lung/GI): Control 11/21/24 vs Intervention 14/10/25, p=0.147
+- Treatment (Chemotherapy/Combined): Control 30/26 vs Intervention 21/28, p=0.271
+- ECOG (0/1/2/3): Control 3/30/20/3 vs Intervention 7/30/12/0, p=0.104
+- Toothbrushing (other/2–3x daily): Control 46(82.1)/10(17.9) vs Intervention 32(65.4)/17(34.7), p=0.058
+
+Intervention and control procedures
+Control group: standard oncology-unit oral care; advised to see a dentist prior to therapy initiation; managed per routine clinical care; 3 clinical/radiographic assessments (T0/T1/T2).
+Intervention group: structured individualized oral-health management program by research dentist. Baseline oral-hygiene education + instruction on an electronic health platform for symptom reporting. Scheduled teleconsultations (synchronous + asynchronous) between face-to-face evaluations at T0/T1/T2, timing adapted to individual oncology treatment protocol. Reported complications managed per MASCC/ISOO guidelines. In-person referral (hospital Dental Department or private dentist) when clinically indicated. Platform access restricted to patient + attending physician for confidentiality.
+
+Follow-up and outcome definitions
+Prevention = reduction in oral complication occurrence/severity over time. Early identification = detection of oral mucosal alterations at CTCAE Grade 1 before progression to Grade ≥2. Monitoring = repeated evaluation across T0–T1–T2. 15 deaths during antineoplastic treatment reduced final sample (n=90).
+
+Assessment instruments
+3 researcher-developed structured forms (demographics, clinical/disease data, oral exam findings). Quality-of-life questionnaires: EORTC QLQ-C30, EORTC QLQ-OH15, HADS (Hospital Anxiety and Depression Scale) — administered as part of broader doctoral protocol, analyzed separately (not reported in this paper).
+Periodontal assessment: probing pocket depth (PPD), clinical attachment level (CAL), bleeding on probing (BOP), Gingival Index (GI), Plaque Index (PI); 6 sites/tooth, standardized probe. Radiographic exam for alveolar bone levels. Single experienced periodontist (study investigator) performed all clinical/radiographic exams with standardized criteria, same probe, same dental unit at all time points.
+Oral mucosal alterations: Oral Mucosa Rating Scale (OMRS); severity/functional impact graded per CTCAE v5.0. Xerostomia: patient-reported symptoms per predefined clinical criteria. Toothbrushing frequency: categorical (occasional vs 2–3x/day). Dental caries: clinical + radiographic exam, classified initial/moderate/advanced.
+
+Blinding and bias control
+Blinding of participants/dentist not feasible given intervention nature. Standardized assessment protocol at all time points; single examiner for all clinical exams. Differential follow-up intensity between groups acknowledged as limitation.
+
+Statistical analysis
+Mean±SD / frequency(%); Kolmogorov–Smirnov normality test; independent t-test and Chi-square for baseline homogeneity. Generalized Estimating Equations (GEE) model for longitudinal categorical outcome changes — group (intervention/control) as between-subject factor, time (T0/T1/T2) as within-subject factor, group×time interaction. Results as odds ratio (OR) with 95% CI and p-values. SPSS v21.00. Two-sided tests, significance p<0.05.
+
+===============================================================================
+RESULTS
+===============================================================================
+
+105 enrolled/randomized; 15 lost to follow-up between T1–T2 due to mortality (14 control, 1 intervention) → 90 in final analysis.
+
+Baseline homogeneity confirmed across all variables (gender, age, education, marital status, employment, cancer/treatment type, metastases, surgical history, ECOG), with a borderline difference in toothbrushing frequency.
+
+Mucosal lesions: Instructions (control) group higher probability vs Telemedicine group — mid-therapy OR=2.20 (95% CI 1.00–4.89), p=0.053 (NS trend); end of therapy OR=7.59 (95% CI 2.98–19.37), p<0.001 (significant); baseline OR=1.01 (0.44–2.33), p=0.977 (NS).
+
+Gingival bleeding: control higher vs intervention — mid-therapy OR=19.20 (2.44–151.16), p<0.001; end of therapy OR=35.25 (4.44–280.15), p<0.001; baseline OR=0.93 (0.43–2.02), p=0.853 (NS).
+
+Gingivitis: control higher vs intervention — mid-therapy OR=20.92 (2.67–164.25), p<0.001; end of therapy OR=38.83 (4.89–308.25), p<0.001; baseline OR=0.93 (0.43–2.02), p=0.853 (NS).
+
+Dental caries: control higher vs intervention — mid-therapy OR=3.12 (1.12–8.72), p=0.030; end of therapy OR=26.11 (3.27–208.76), p<0.001; baseline OR=0.93 (0.43–2.02), p=0.853 (NS).
+
+TMJ disorders: no significant difference at baseline OR=1.21 (0.55–2.70) p=0.627, mid-treatment OR=1.58 (0.70–3.54) p=0.267, or end of treatment OR=2.04 (0.83–5.00) p=0.120.
+
+Periodontitis (moderate/advanced): control higher vs intervention — mid-therapy OR=3.63 (1.52–8.67), p<0.001; end of therapy OR=8.25 (2.50–27.18), p<0.001; baseline OR=1.63 (0.74–3.59), p=0.224 (NS).
+
+Toothbrushing frequency (2–3x/day): intervention (telemedicine) group higher probability vs control — mid-therapy OR=3.60 (1.45–8.96), p=0.006; end of therapy OR=5.52 (1.96–15.51), p<0.001; baseline OR=2.44 (1.00–6.03), p=0.058 (borderline NS).
+
+Complete-case sensitivity analysis (participants with complete follow-up only) was consistent with the primary GEE analysis and did not materially alter conclusions.
+
+Adherence: Control group (n=56) — 12 participants (21.4%) reported visiting a dentist during the study. Intervention group (n=49) — 147 remote communications scheduled, 135 completed (91.8% adherence); 14 participants (28.6%) reported oral symptoms via remote monitoring; 6 (12.2%) referred for dental evaluation; all 6 referred patients attended (100%).
+
+Descriptive percentages cited in Discussion: mucosal lesions at mid-treatment 51% (intervention) vs 69.6% (control); at end of therapy 27.1% (intervention) vs 73.8% (control).
+
+Prosthetic note: most rehabilitations were fixed restorations; 19 patients wore complete removable dentures. Prosthesis type not analyzed as independent variable, but oral candidiasis was descriptively observed among denture wearers.
+
+===============================================================================
+DISCUSSION (selected)
+===============================================================================
+
+Findings compared with Padure et al. (2024) 6-month prospective study on oral mucositis frequency/severity and preventive factors — consistent with present results, supporting that structured/systematic oral-health monitoring during cancer therapy improves outcomes.
+
+Observed mucositis incidence consistent with literature reporting 30–40% of chemotherapy-only patients developing oral mucositis, with substantially higher rates in head-and-neck chemoradiotherapy patients.
+
+Progressive worsening of gingival bleeding/periodontitis in the control group is consistent with Soutome et al. (2021) (higher pathogenic bacterial load during treatment), Vozza et al. (2015) (early gingival inflammation from first treatment cycles), and Sharma and Singh (2020) (chemotherapy–periodontal inflammation–inflammatory marker association).
+
+Increased toothbrushing frequency and improved gingival outcomes in the intervention group align with Parreiras et al. (2024) (reduced oral hygiene linked to gingival bleeding/poorer OHRQoL); further supported by Flores et al. (2025) and Poulopoulos et al. (2017).
+
+Systematic review by Hong et al. (2019) and meta-analysis by Moussa et al. (2025): structured preventive oral care protocols significantly reduce inflammatory lesions, gingival bleeding, and other oral side effects during cancer therapy — consistent with present RCT findings.
+
+No significant TMJ effects observed, differing from some international literature on chemotherapy/radiotherapy musculoskeletal effects; UK Medicines Information (2019) notes inconsistent documentation; Calik et al. (2024) suggests bisphosphonates/bone metastases have greater TMJ/jaw impact than antineoplastic therapy itself.
+
+===============================================================================
+LIMITATIONS
+===============================================================================
+
+- Attrition between T1–T2 due to mortality (n=15; 14 control, 1 intervention) — expected in oncology population, but imbalanced between arms; mortality not a predefined outcome. Sensitivity analysis excluding deceased participants was consistent with primary analysis.
+- Blinding of participants/examiner not feasible (nature of intervention); standardized protocols mitigate this.
+- Intervention group received more structured follow-up overall — observed benefit reflects a comprehensive telehealth-supported oral-care model, not digital monitoring alone (confounded design).
+- Some participants had initial difficulty using the telemedicine platform, mitigated through structured guidance.
+- Not prospectively registered in a public trial registry.
+
+===============================================================================
+STRENGTHS
+===============================================================================
+
+- Prospective RCT with longitudinal 3-timepoint (T0–T1–T2) design.
+- First prospective RCT in Greece comprehensively investigating oral health in oncology patients with solid tumors (breast, colorectal, lung) during active antineoplastic treatment.
+- Single calibrated examiner, same dental unit, standardized clinical/radiographic protocol across timepoints.
+- Combines objective clinical endpoints with behavioral indicators (toothbrushing frequency).
+- Real-world integration within a tertiary oncology hospital's routine outpatient workflow (no dedicated dental facility).
+
+===============================================================================
+CONCLUSIONS AND FUTURE DIRECTIONS
+===============================================================================
+
+Timely recognition, diagnosis, and management of oral mucosal complications during cancer treatment are critical to completing therapy on schedule, reducing morbidity, and preserving quality of life. Proposed protocol elements: combined in-person + remote (e-health) monitoring; pre-treatment dental assessment and management; daily oral-care instructions for patients/caregivers; regular standardized-tool evaluation with monitoring frequency adapted to treatment regimen; intervention guidelines for mucositis/other complications; integration of telemedicine/e-health applications for continuous monitoring and patient education.
+
+===============================================================================
+END OF DOCUMENT
+===============================================================================

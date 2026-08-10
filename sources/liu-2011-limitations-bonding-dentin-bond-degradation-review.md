@@ -17,13 +17,21 @@ text_filename: liu-2011-limitations-bonding-dentin-bond-degradation-review.txt
 
 This is the unifying landmark review (JDR 2011, by the Tay–Pashley–Breschi–Tjäderhane axis) that ties together every strand of the resin-dentin durability problem covered separately in our other pages: water-driven hydrolytic degradation of hydrophilic adhesives, MMP/cysteine-cathepsin collagenolysis, and the rescue strategies (anti-MMP monomers, collagen cross-linkers, ethanol wet-bonding, biomimetic remineralization). It reinforces the hydrophilicity/water-degradation thesis of [[wiki/resin-bonding/tay-2003-dentin-adhesives-hydrophilic]], extends the collagen-cross-linker/MMP-silencing evidence toward the meta-analytic synthesis in [[wiki/resin-bonding/zhou-2025-collagen-crosslinkers-naocl-dentin-bond-strength-sr-ma]], and provides the mechanistic rationale behind the ethanol wet-bonding RCT in [[wiki/resin-bonding/mortazavi-2012-ethanol-wet-bonding-clinical-trial]]. It is the conceptual hub that [[wiki/resin-bonding/breschi-2025-adhesive-dentistry-evolution-review]] later updates.
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review (Liu et al. 2011, J Dent Res; abstract-only retrieved) framing resin-dentin bond degradation as hydrolysis of suboptimally polymerized hydrophilic resin + MMP/cysteine-cathepsin collagenolysis of the water-rich, resin-sparse hybrid layer, and synthesizing five experimental strategies to extend bond longevity.
+Narrative review (Liu et al.
 
-## 한줄요약
+2011, J Dent Res;
 
-서술적 리뷰(Liu 등 2011, J Dent Res; 초록만 확보): 레진-상아질 결합 열화를 친수성 레진의 가수분해 + 물이 많고 레진이 부족한 혼성층의 MMP·시스테인 카텝신 콜라겐 분해로 규정하고, 결합 수명을 늘리는 5가지 실험 전략을 종합한다.
+abstract-only retrieved) framing resin-dentin bond degradation as hydrolysis of suboptimally polymerized hydrophilic resin + MMP/cysteine-cathepsin collagenolysis of the water-rich, resin-sparse hybrid layer, and synthesizing five experimental strategies to extend bond longevity.
+
+## 세줄요약
+
+서술적 리뷰(Liu 등 2011, J Dent Res;
+
+초록만 확보): 레진-상아질 결합 열화를 친수성 레진의 가수분해 + 물이 많고 레진이 부족한 혼성층의 MMP·시스테인 카텝신 콜라겐 분해로 규정하고, 결합 수명을 늘리는 5가지 실험 전략을 종합한다.
+
+(incomplete)
 
 ## 1. Document Information
 

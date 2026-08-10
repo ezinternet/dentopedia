@@ -13,13 +13,21 @@ source_collection: external
 
 Foundational SR+MA establishing the quantitative association between periodontitis and halitosis (OR 3.16), directly relevant to the halitosis category as the primary periodontal etiology evidence base. Complements [[halitosis/memon-2022-aetiology-associations-halitosis-systematic-review]] on etiological pathways and [[periodontics]] disease-level clinical context.
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 5 population-based observational studies found individuals with periodontitis have 3.16× higher odds of halitosis (OR 3.16; 95% CI: 1.12–8.95), with measurement criteria explaining ~45% (halitosis) and ~24% (periodontitis) of heterogeneity.
+SR+MA of 5 population-based observational studies found individuals with periodontitis have 3.16× higher odds of halitosis (OR 3.16;
 
-## 한줄요약
+95% CI: 1.12–8.95), with measurement criteria explaining ~45% (halitosis) and ~24% (periodontitis) of heterogeneity.
 
-치주염 환자는 구취 발생 오즈가 3.16배 높으며(OR 3.16; 95% CI: 1.12–8.95), 구취 및 치주염 측정 기준이 연구 간 이질성의 각각 약 45%, 24%를 설명한다는 SR+MA (5개 관찰연구 포함).
+(incomplete)
+
+## 세줄요약
+
+치주염 환자는 구취 발생 오즈가 3.16배 높으며(OR 3.16;
+
+95% CI: 1.12–8.95), 구취 및 치주염 측정 기준이 연구 간 이질성의 각각 약 45%, 24%를 설명한다는 SR+MA (5개 관찰연구 포함).
+
+(incomplete)
 
 ## 1. Document Information
 

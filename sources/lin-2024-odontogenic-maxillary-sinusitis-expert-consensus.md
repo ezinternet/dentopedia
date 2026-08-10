@@ -9,8 +9,21 @@ pdf_filename: lin-2024-odontogenic-maxillary-sinusitis-expert-consensus.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Chinese expert consensus from Beijing TongRen Hospital and national dental/ENT centers providing standardized classification, diagnostic criteria, and multidisciplinary treatment algorithms for odontogenic maxillary sinusitis (OMS), published in International Journal of Oral Science 2024.
+## Three-line Summary
+
+Chinese expert consensus from Beijing TongRen Hospital and national dental/ENT centers
+
+providing standardized classification, diagnostic criteria, and multidisciplinary treatment algorithms for odontogenic
+
+maxillary sinusitis (OMS), published in International Journal of Oral Science 2024.
+
+## 세줄요약
+
+Chinese expert consensus from Beijing TongRen Hospital and national dental/ENT centers
+
+providing standardized classification, diagnostic criteria, and multidisciplinary treatment algorithms for odontogenic
+
+maxillary sinusitis (OMS), published in International Journal of Oral Science 2024.
 
 ## 1. Document Information
 - **Journal**: International Journal of Oral Science 2024;16:11

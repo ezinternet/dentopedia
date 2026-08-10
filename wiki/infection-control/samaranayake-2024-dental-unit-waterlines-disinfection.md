@@ -6,7 +6,7 @@ date: 2024-11-01
 doi: 10.1016/j.identj.2024.07.1269
 source: samaranayake-2024-dental-unit-waterlines-disinfection.md
 category: [infection-control]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 pmid: "39515931"
 pmcid: "PMC11583879"
@@ -18,13 +18,21 @@ relations:
     target: patino-marin-2025-sterilization-disinfection-dental-practices
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review of dental unit waterline (DUWL) contamination origins, biofilm risks (Legionella 12%, Pseudomonas 8%), regulatory thresholds (CDC ≤500 CFU/mL; UK ≤100 CFU/mL), and a tiered decontamination framework (engineering + procedural + chemical + automated) for compliance.
+Narrative review (Int Dent J 2024) on dental unit waterline (DUWL) contamination: feed water at <100 CFU/mL amplifies to 100,000–1,000,000 CFU/mL at the handpiece due to biofilm in narrow-bore tubing; Legionella (12%) and Pseudomonas aeruginosa (8%) are the most prevalent pathogens by meta-analysis.
 
-## 한줄요약
+Regulatory thresholds vary by jurisdiction (CDC ≤500 CFU/mL; ADA/Australia ≤200; UK ≤100; EU drinking-water proxy <100), and a tiered multi-modal decontamination hierarchy — engineering controls → manual flushing → chemical biocides → automated systems — is required for compliance.
 
-치과 유니트 수관(DUWL) 오염 기전·바이오필름·주요 병원체(레지오넬라 12%, 슈도모나스 8%)와 각국 규제 기준(CDC ≤500, UK ≤100 CFU/mL), 공학적·절차적·화학적·자동화 소독 체계를 종합한 서술적 고찰(Int Dent J 2024).
+No single modality is sufficient alone; continuous low-dose biocide + periodic shock treatment is the optimal chemical strategy, and 23% of US dental staff showed Legionella IgG antibodies (vs 8% community baseline), confirming chronic occupational aerosol risk.
+
+## 세줄요약
+
+서술 고찰(Int Dent J 2024): 치과 유니트 수관(Dental Unit Waterline, DUWL)의 급수 <100 CFU/mL가 핸드피스 출구에서 100,000–1,000,000 CFU/mL로 증폭 — 좁은 관경 바이오필름 탈락; 레지오넬라(Legionella, 12%)·슈도모나스(Pseudomonas aeruginosa, 8%)가 메타분석 기준 주요 병원체.
+
+규제 기준 국가별 상이(CDC ≤500, ADA/호주 ≤200, 영국 ≤100, EU 음용수 기준 <100 CFU/mL); 공학적 통제→수동 플러싱→화학 살균제→자동화 시스템 계층형 다중 방식이 준수에 필요.
+
+단일 방법으로는 불충분 — 저농도 지속 + 고농도 충격 처리가 최적 화학 전략; 미국 치과 직원 23%에서 레지오넬라 IgG 항체 검출(지역사회 8% 대비) → 만성 직업적 에어로졸 노출 위험 확인.
 
 ## Summary
 

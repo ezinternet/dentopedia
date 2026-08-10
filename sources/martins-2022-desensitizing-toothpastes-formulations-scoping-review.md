@@ -13,11 +13,21 @@ source_collection: external
 
 [[dentin-hypersensitivity/defreitas-2021-bioactive-toothpastes-dentin-hypersensitivity-sr]]가 bioactive glass에 한정된 반면, 본 scoping review는 368개 탈감작 치약 제형 전체를 활성성분·불소·연마제 기준으로 지도화. [[overviews/dentin-hypersensitivity-overview]]의 OTC 옵션 카탈로그 근거.
 
-## One-line Summary
+## Three-line Summary
+
 Scoping review of 138 RCTs (368 toothpaste formulations) mapping active ingredients, fluoride type, and abrasives in desensitizing toothpastes, with potassium and CSP most common actives and MFP/NaF the dominant fluorides.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 Scoping review(138 RCT·368 제형): 탈감작 치약의 활성성분·불소·연마제를 지도화 — 포타슘 화합물·CSP가 최다 활성성분, MFP·NaF가 주요 불소.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - J Appl Oral Sci 2022;30:e20210410. PROSPERO CRD42018086815; search to Aug 2021.

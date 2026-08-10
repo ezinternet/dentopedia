@@ -11,8 +11,21 @@ pdf_filename: daneshkazemi-2013-clearfil-se-bond-mechanical-thermal.pdf
 source_collection: external
 ---
 
-## One-line Summary
-In vitro (42 molars, Clearfil SE Bond): thermal/mechanical cycling significantly reduces µTBS vs control (p<0.001); mechanical cycling effect significant from 100K cycles; combined cycling no additive effect at low cycle counts.
+## Three-line Summary
+
+In-vitro study (42 extracted molars, 7 groups) evaluating the effect of thermal cycling (1K–2K cycles, 5–55°C) and mechanical cycling (50K–200K cycles, 125N) on microtensile bond strength (µTBS) of Clearfil SE Bond to superficial dentin.
+
+All cycling groups showed significantly lower µTBS than control (p<0.001); the mechanical cycling effect became significant only from 100K cycles, and combined thermal + mechanical loading at 50K cycles showed no additive reduction compared to mechanical alone.
+
+Failure mode shifted toward adhesive-type fractures with increasing cycling, indicating progressive interfacial degradation of the self-etch bond under simulated clinical fatigue conditions.
+
+## 세줄요약
+
+체외 연구(발거 대구치 42개, 7그룹) — Clearfil SE Bond(자가산부식 접착제)의 표층 상아질 미세인장결합강도(Microtensile Bond Strength, µTBS)에 대한 냉열순환(1K–2K회, 5–55°C)·기계적 부하(50K–200K회, 125N) 효과 평가.
+
+모든 순환군이 대조군보다 µTBS 유의 감소(p<0.001); 기계적 부하 효과는 100K회부터 유의, 50K기계+1K냉열 병합은 기계 단독 대비 추가 감소 없음.
+
+노화 진행에 따라 파절 양상이 접착면 파절(Adhesive Failure)로 이동, 자가산부식 접착제의 계면이 임상적 피로 조건에서 점진적으로 약화됨을 시사.
 
 ## 1. Document Information
 Shahid Sadoughi University, Yazd, Iran. Dental Research Journal 2013. In vitro study evaluating fatigue effects on Clearfil SE Bond (2-step self-etch) to superficial dentin.

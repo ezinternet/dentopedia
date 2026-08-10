@@ -10,8 +10,21 @@ pdf_filename: bavetta-2019-insertion-torque-isq-immediate-loading-extraction-soc
 source_collection: external
 ---
 
-## One-line Summary
-Retrospective study of 41 tapered implants showing fresh extraction socket implants start with significantly lower ISQ (57.6 vs 72.9) than healed-bone implants; ITV ≥35 Ncm better predictor than ISQ for immediate loading decisions.
+## Three-line Summary
+
+Retrospective study (41 tapered implants: 22 fresh sockets, 19 healed bone) measuring insertion torque (ITV) and ISQ (Osstell) at placement (T0) and 4 months (T1) in the posterior maxilla and mandible with 100% immediate loading.
+
+Fresh socket implants had significantly lower ISQ at T0 (57.6 vs 72.9, p<0.001) but converged with healed-bone implants at T1 (68.7 vs 74.5, p=NS); 100% survival was achieved when the ITV ≥35 Ncm criterion was applied as the loading decision tool.
+
+ITV ≥35 Ncm is a more reliable immediate-loading criterion than ISQ alone for fresh extraction sockets, where low initial ISQ is expected and does not preclude successful immediate loading.
+
+## 세줄요약
+
+후향적 연구(테이퍼형 임플란트 41개: 신선 발치와 22, 치유 골 19) — 후방부 즉시부하에서 식립 토크(ITV)와 ISQ(Osstell)를 비교.
+
+신선 발치와의 T0 ISQ는 57.6 vs 치유 골 72.9로 유의하게 낮았으나(p<0.001), T1(4개월)에는 차이 없음(68.7 vs 74.5); ITV ≥35 Ncm 기준 적용 시 생존율 100%.
+
+신선 발치와 즉시부하 결정은 ISQ보다 ITV ≥35 Ncm이 더 신뢰할 수 있는 기준 — 낮은 초기 ISQ가 즉시부하 금기를 의미하지 않는다.
 
 ## 1. Document Information
 - Journal: BioMed Research International 2019, Article ID 9720419

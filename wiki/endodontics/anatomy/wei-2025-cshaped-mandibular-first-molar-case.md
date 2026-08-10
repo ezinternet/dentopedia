@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1186/s12903-025-06060-9
 source: wei-2025-cshaped-mandibular-first-molar-case.md
 category: [endodontics/anatomy]
-confidence: case-report
+evidence_level: case-report
 pdf_path: /Users/oracleneo/llm-wiki/papers/wei-2025-cshaped-mandibular-first-molar-case.pdf
 pdf_filename: wei-2025-cshaped-mandibular-first-molar-case.pdf
 source_collection: external
@@ -20,13 +20,21 @@ relations:
     target: shemesh-2017-cshaped-canals-cbct-mandibular-molars
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Case report (CBCT-confirmed) of bilateral C-shaped mandibular first molars — the first documented mandibular first molar with four separate canals (two mesial + two distal) inside a single fused C-shaped root.
+Case report of a 35-year-old male with CBCT-confirmed bilateral C-shaped mandibular first molars — a rare location, as C-shaped anatomy is typically associated with mandibular second molars (prevalence up to 44–48%), not first molars (most populations <1%).
 
-## 한줄요약
+The index right molar contained four distinct orifices (two mesial + two distal) within a single fused C-shaped root — the first documented mandibular first molar with four separate canals in a C-shaped root, described as a C3c configuration throughout.
 
-양측 하악 제1대구치 C-shaped 근관 증례(CBCT 확진) — 융합된 단일 C-shaped 근 내에 4개의 분리된 근관(근심 2 + 원심 2)을 가진 최초 보고 하악 제1대구치.
+CBCT pre-treatment is essential in atypical root anatomy; missed canals in mandibular molars carry approximately 3.66× higher odds of periapical lesion, and thin C-shaped walls create strip-perforation risk during instrumentation.
+
+## 세줄요약
+
+35세 남성에서 양측 하악 제1대구치 C-shaped 근관을 CBCT로 확인한 증례 — C-shaped 근관은 통상 하악 제2대구치(유병률 44–48%)에서 나타나며 제1대구치는 대부분 집단에서 1% 미만.
+
+우측 대구치는 융합된 단일 C-shaped 근 내에 4개의 독립 근관(근심 2 + 원심 2)을 가진 최초 보고 사례이며, 관상부~정단부 전체가 C3c 형태.
+
+비전형 해부 시 CBCT 선행이 필수이며, 하악 대구치 근관 누락은 치근단 병변 오즈를 약 3.66배 높이고 얇은 C-shaped 벽은 천공 위험을 내포한다.
 
 ## Summary
 

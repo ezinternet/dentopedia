@@ -15,15 +15,23 @@ text_filename: pannuti-2026-loading-timing-edentulous-maxilla-pro.txt
 
 ## Why Ingested
 
-기존 [[immediate-implant/qian-2024-anterior-maxillary-implants-placement-loading-nma]]와 [[immediate-implant/esposito-2015-immediate-loading-vs-delayed-anterior-rct]]가 즉시·지연 로딩의 임상·방사선 outcome(생존율, MBL)을 다뤘다면, 본 SR (Pannuti 2026)은 무치악 상악 full-arch에서 어떤 환자보고결과(Patient-Reported Outcome, PRO)·임상가보고결과(Clinician-Reported Outcome, ClinRO)와 측정도구(PROM/CROM)가 실제로 쓰였는지를 메타-방법론 관점에서 정리한다 — outcome 표준화 부재라는 근거 공백을 가시화해 향후 무치악 상악 로딩 결정 근거의 한계를 보강.
+기존 [[immediate-implant/qian-2024-anterior-maxillary-implants-placement-loading-nma]]와 [[immediate-implant/loading-protocol/esposito-2015-immediate-loading-vs-delayed-anterior-rct]]가 즉시·지연 로딩의 임상·방사선 outcome(생존율, MBL)을 다뤘다면, 본 SR (Pannuti 2026)은 무치악 상악 full-arch에서 어떤 환자보고결과(Patient-Reported Outcome, PRO)·임상가보고결과(Clinician-Reported Outcome, ClinRO)와 측정도구(PROM/CROM)가 실제로 쓰였는지를 메타-방법론 관점에서 정리한다 — outcome 표준화 부재라는 근거 공백을 가시화해 향후 무치악 상악 로딩 결정 근거의 한계를 보강.
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review of 5 prospective studies (4 RCT + 1 non-RCT; 121 patients, 724 implants) in edentulous maxilla comparing immediate vs early/delayed loading: VAS was the dominant PROM (80% of studies, 7 PROs), OHIP-19/20 and McGill Pain Questionnaire for QoL/pain, but the 12 identified clinician-reported outcomes (ClinROs) showed no standardized approach — high heterogeneity, standardization of PROM/CROM reporting needed.
+Systematic review of 5 prospective studies (4 RCT + 1 non-RCT;
 
-## 한줄요약
+121 patients, 724 implants) in edentulous maxilla comparing immediate vs early/delayed loading: VAS was the dominant PROM (80% of studies, 7 PROs), OHIP-19/20 and McGill Pain Questionnaire for QoL/pain, but the 12 identified clinician-reported outcomes (ClinROs) showed no standardized approach — high heterogeneity, standardization of PROM/CROM reporting needed.
 
-무치악 상악 즉시 vs 조기/지연 로딩을 비교한 전향적 연구 5편(RCT 4 + non-RCT 1; 환자 121명, 임플란트 724개)의 체계적 문헌고찰: 환자보고결과(PRO) 측정은 시각아날로그척도(Visual Analog Scale, VAS)가 80%로 지배적(7개 PRO)이고 OHIP-19/20·McGill 통증설문이 삶의 질·통증을 보조 평가했으나, 도출된 12개 임상가보고결과(ClinRO)는 표준화된 방식이 전혀 없어 이질성이 높음 — PROM/CROM 보고 표준화가 필요하다.
+(incomplete)
+
+## 세줄요약
+
+무치악 상악 즉시 vs 조기/지연 로딩을 비교한 전향적 연구 5편(RCT 4 + non-RCT 1;
+
+환자 121명, 임플란트 724개)의 체계적 문헌고찰: 환자보고결과(PRO) 측정은 시각아날로그척도(Visual Analog Scale, VAS)가 80%로 지배적(7개 PRO)이고 OHIP-19/20·McGill 통증설문이 삶의 질·통증을 보조 평가했으나, 도출된 12개 임상가보고결과(ClinRO)는 표준화된 방식이 전혀 없어 이질성이 높음 — PROM/CROM 보고 표준화가 필요하다.
+
+(incomplete)
 
 ## 1. Document Information
 

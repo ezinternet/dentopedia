@@ -13,13 +13,21 @@ source_collection: external
 
 사용자 요청: bur 종류별 역할·선택 관련 풀텍스트 인제스트. `dental-handpiece` 카테고리에서 bur 분류(스틸→카바이드→다이아몬드)·선택 기준·color coding·절삭효율(CE) 감소 기전을 정리하는 임상 현실 anchor. 절삭 instrument 비교를 다룬 [[dental-handpiece/zhang-2020-er-cr-ysgg-microleakage-cavity-preparation-sr-ma]] 및 [[dental-handpiece/esteves-oliveira-2025-laser-assisted-caries-removal-meta-analysis]]의 전통 rotary bur 축을 보완. (2026-06-25 PDF 전문 확보로 abstract-only → full-text 업그레이드.)
 
-## One-line Summary
+## Three-line Summary
 
 Cross-sectional questionnaire survey (131/150 practitioners) on dental-bur selection, usage, sterilization and disposal: diamond burs preferred (75%) over tungsten carbide (15%), most reused until worn out (85%), with awareness that cutting efficiency drops with wear/grit/duration, variable sterilization, and universal dustbin disposal.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 단면 설문조사(개원의 131/150) — 다이아몬드 bur 선호(75%) > 텅스텐카바이드(15%), 대부분 마모까지 재사용(85%), 절삭효율은 마모·grit·시간에 따라 감소, 멸균 빈도 가변, 폐기는 전원 일반쓰레기.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

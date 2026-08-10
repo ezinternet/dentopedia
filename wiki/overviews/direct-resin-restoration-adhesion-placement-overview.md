@@ -5,7 +5,7 @@ year: 2026
 date: 2026-05-23
 doi: n/a
 category: [overviews]
-confidence: synthesis
+evidence_level: synthesis
 tags: [composite, adhesion, etch-and-rinse, self-etch, universal-adhesive, bulk-fill, incremental, polymerization-shrinkage, ids, repair, direct-restoration]
 source_collection: synthesis
 ---
@@ -21,16 +21,26 @@ source_collection: synthesis
 > - 즉시 상아질 봉쇄 (Immediate Dentin Sealing, IDS)는 간접 수복 한정(3-step EAR·2-step SE에서만 효과), 직접 수복엔 비적용 — 임상 전환(술후 민감·수명 개선)은 미입증(Reis 2024 비판).
 > - 축 2 충전 — 벌크필(bulk-fill)과 적층충전(incremental)은 9 RCT MA·12 RCT 네트워크 메타분석(NMA)·우산형 리뷰 모두에서 ≥24개월 임상 동등(Zailai 2025 실패 RR 0.82, Chaple-Gil 2026 차이 없음).
 > - "저수축 = 임상 우월" 명제는 21 RCT MA로 부정 — 유일한 차이는 12개월 변연적합에서 통상 메타크릴레이트가 우세(Kruly 2018), silorane도 동등(Magno 2016).
+> - 신규 메커니즘(He 2026, in-vitro): 중합성 억제제 PBHT로 겔포인트(gel point)를 지연시켜 수축응력을 유의 저감(47.5→13.1×10⁻³ MPa·s)하고 기존 BHT 대비 용출도 4배 감소 — 기전은 유망하나 세포독성·노화·임상 데이터 없는 단일 bench 연구로, silorane과 같은 "lab 결과 ≠ 임상 우월" 경계선 위에 있다.
 > - 복합레진 vs 아말감: 5년 생존 동등(Worthington 2021 Cochrane), 후방 복합레진 기저 실패율 1.55/100 수복-년(Astvaldsdottir 2015), 주 실패원인은 2차 우식(보통 3년 후).
 > - 수리(repair)가 교체보다 우월 — 15년 후방 복합레진 SR은 없으나 전치부 데이터 강력(van de Sande 2019, 수리를 비실패로 보면 15년 생존 69%) — 국소 결함은 수리가 1차 선택.
 > - 간접 수복으로의 escalation은 근거가 아니라 해부(교두 피개·교두간 거리 ½ 접근·근관치료 후 후방치 변연융선 소실+과중 교합)로 결정 — 일상적 Class II에 간접 수복은 강제되지 않는다.
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis over Cochrane SR, umbrella reviews, multiple SR+MA/NMA and large RCTs covering two decisions in every direct composite restoration — how to bond (adhesion strategy) and how to place (incremental vs bulk-fill, low-shrinkage chemistry, repair). Core thesis: when enamel margins exist, selective enamel etching or 3-step etch-and-rinse (EAR) consistently outperforms universal-adhesive self-etch (SE) alone, while bulk-fill and incremental placement are clinically equivalent through ≥24 months and "low-shrinkage = superior" is not supported by RCT MA. Clinical takeaway: protocol execution, not material selection, drives outcome; escalation to indirect restoration is decided by anatomy, not evidence.
+Synthesis of Cochrane SR, umbrella reviews, multiple SR+MA/NMA, and large RCTs on two decisions in every direct composite restoration — adhesion strategy and placement technique; when enamel margins exist, selective enamel etching or 3-step etch-and-rinse (EAR) consistently outperforms universal-adhesive self-etch (SE) alone (Hong 2021 SR+MA; Oza 2022 RCT: Clearfil Universal SE mode failed at 24 months on NCCL).
 
-## 한줄요약
-일반 직접 컴포짓 수복의 두 축 종합 — ① 접착방식: 법랑질 가장자리가 있으면 선택적 법랑질 산부식 또는 3-step EAR이 SR+MA·RCT에서 일관되게 우세, 유니버설 SE 단독은 NCCL 24개월 RCT에서 임상 부적합; ② 충전방식: 벌크필과 적층충전은 9 RCT MA·12 RCT NMA·우산형 리뷰 모두에서 임상 동등, "저수축 = 임상 우월" 명제는 21 RCT MA로 부정. 둘 다 "재료 선택"보다 "프로토콜 실행"이 결과를 좌우.
+Bulk-fill and incremental placement are clinically equivalent through ≥24 months (9-RCT MA RR 0.82 NS; 12-RCT NMA no significant difference; umbrella review; Zailai 2025, Chaple-Gil 2026), and the claim "low-shrinkage = clinically superior" is refuted by 21-RCT MA (Kruly 2018 — only 12-month marginal adaptation favors conventional methacrylate; all other outcomes equal).
+
+Protocol execution, not material generation, drives outcome; repair outperforms replacement for localized defects (15-year anterior survival 69% with repair as non-failure; Van de Sande 2019); escalation to indirect restoration is decided by anatomy (cusp coverage, large cavities, endo-treated teeth), not evidence.
+
+## 세줄요약
+
+Cochrane SR·우산형 리뷰·SR+MA/NMA·대규모 RCT를 아우르는 직접 복합레진 수복의 두 축 종합; 법랑질 가장자리가 있으면 선택적 법랑질 산부식 또는 3-step EAR이 일관 우세(Hong 2021 SR+MA; Oza 2022 RCT: 유니버설 SE 단독은 NCCL 24개월에서 임상 부적합).
+
+벌크필과 적층충전은 ≥24개월 임상 동등(9-RCT MA RR 0.82 NS·12-RCT NMA 차이 없음; Zailai 2025·Chaple-Gil 2026); "저수축=임상 우월" 명제는 21-RCT MA로 부정(Kruly 2018 — 유일한 차이는 12개월 변연적합, 그 외 동등).
+
+"재료 선택"보다 "프로토콜 실행"이 결과를 좌우; 국소 결함은 교체보다 수리 우선(15년 전치 생존 69%, Van de Sande 2019); 간접 수복 에스컬레이션은 근거가 아닌 해부(교두 피개·대형 와동·근관치료 후 치아)로 결정.
 
 ## Scope and Question
 
@@ -60,18 +70,18 @@ Reject "generation" terminology ([[resin-bonding/breschi-2025-adhesive-dentistry
 
 | Source | n RCTs | Population | Finding | Confidence |
 |---|---|---|---|---|
-| [[resin-bonding/hong-2021-universal-adhesive-etching-modes-sr-ma]] | 13 | mixed direct restorations | E&R > SE — retention OR 0.35, marginal adaptation OR 0.49, marginal staining OR 0.49 | [근거강함] sr+ma |
-| [[resin-bonding/assis-2023-acid-etching-universal-adhesive-nccl-sr-ma]] | 20 | NCCL | E&R better medium-term retention/adaptation/staining/secondary caries; SE lower post-op sensitivity | [근거강함] sr+ma |
-| [[resin-bonding/doshi-2023-universal-adhesive-nccl-strategy-sr-ma]] | 17 (13 MA) | NCCL | No significant TE vs SE difference (I²=0%); publication bias suspected at 18mo retention | [근거강함] sr+ma |
-| [[resin-bonding/oza-2022-universal-adhesive-nccl-rct-2year]] | 1 (5-arm RCT, 234 NCCL) | NCCL | Clearfil Universal Bond Quick **SE mode clinically unacceptable** (6 lost); SLE and E&R modes acceptable | [근거강함] rct |
-| [[resin-bonding/sharifian-2023-tbs-er-se-modes-superficial-deep-dentin]] | in vitro | extracted molars | Scotchbond Universal E&R > SE μTBS; superficial > deep dentin (p=0.005) | [합의수준] in-vitro |
+| [[resin-bonding/hong-2021-universal-adhesive-etching-modes-sr-ma]] | 13 | mixed direct restorations | E&R > SE — retention OR 0.35, marginal adaptation OR 0.49, marginal staining OR 0.49 | [확인] sr+ma |
+| [[resin-bonding/assis-2023-acid-etching-universal-adhesive-nccl-sr-ma]] | 20 | NCCL | E&R better medium-term retention/adaptation/staining/secondary caries; SE lower post-op sensitivity | [확인] sr+ma |
+| [[resin-bonding/doshi-2023-universal-adhesive-nccl-strategy-sr-ma]] | 17 (13 MA) | NCCL | No significant TE vs SE difference (I²=0%); publication bias suspected at 18mo retention | [확인] sr+ma |
+| [[resin-bonding/oza-2022-universal-adhesive-nccl-rct-2year]] | 1 (5-arm RCT, 234 NCCL) | NCCL | Clearfil Universal Bond Quick **SE mode clinically unacceptable** (6 lost); SLE and E&R modes acceptable | [확인] rct |
+| [[resin-bonding/sharifian-2023-tbs-er-se-modes-superficial-deep-dentin]] | in vitro | extracted molars | Scotchbond Universal E&R > SE μTBS; superficial > deep dentin (p=0.005) | [확인] in-vitro |
 
 **Reading the disagreement**: Hong 2021 (general restorations) and Assis 2023 (NCCL) favor E&R; Doshi 2023 (NCCL, more recent search) finds no difference. The Oza 2022 RCT — which Doshi/Assis postdate — is the cleanest signal: **universal adhesive in pure SE mode failed at 24 months on cervical lesions**, while selective-enamel-etch (SLE) and full E&R modes did not. The mechanism is the established hydrophilic / under-etched-enamel problem ([[resin-bonding/tay-2003-dentin-adhesives-hydrophilic]]) — 1-step acidic primers do not adequately demineralize enamel even when 10-MDP secures dentin.
 
 **Clinical bottom line**:
-- Enamel margins present → **selective enamel etching (32–37% H3PO4, 15 s, rinse) + universal on dentin in SE mode**, OR full 3-step EAR. [근거강함]
-- Pure dentinal target (NCCL, deep dentinal margin) → either strategy clinically acceptable; **SE has lower post-op sensitivity** ([[resin-bonding/assis-2023-acid-etching-universal-adhesive-nccl-sr-ma]]). [합의수준]
-- Universal adhesive **SE mode alone with enamel margins** → avoid. [근거강함]
+- Enamel margins present → **selective enamel etching (32–37% H3PO4, 15 s, rinse) + universal on dentin in SE mode**, OR full 3-step EAR. [확인]
+- Pure dentinal target (NCCL, deep dentinal margin) → either strategy clinically acceptable; **SE has lower post-op sensitivity** ([[resin-bonding/assis-2023-acid-etching-universal-adhesive-nccl-sr-ma]]). [확인]
+- Universal adhesive **SE mode alone with enamel margins** → avoid. [확인]
 
 ### 1.3 Hybrid-layer durability and the universal-adhesive checklist
 
@@ -91,7 +101,7 @@ Reject "generation" terminology ([[resin-bonding/breschi-2025-adhesive-dentistry
 - Shortened application time
 - Dentin desensitizers applied immediately before bonding
 
-Mechanistically the hybrid-layer (HL) degrades via water sorption + hydrolysis + endogenous MMP-2/9 and cysteine cathepsins activated by acid etching ([[resin-bonding/breschi-2025-adhesive-dentistry-evolution-review]]). The chlorhexidine 2% rinse before bonding is the single most validated MMP-inhibition step that bench data supports; clinical longevity proof is weaker — Reis 2024 ([[overviews/reis-2024-biomimetic-restorative-myths-narrative]]) flags this gap. [claude해석] On the cost-benefit balance the CHX rinse is cheap and well-tolerated; absent clinical harm signal, in vitro consistency justifies routine use even while waiting for RCTs.
+Mechanistically the hybrid-layer (HL) degrades via water sorption + hydrolysis + endogenous MMP-2/9 and cysteine cathepsins activated by acid etching ([[resin-bonding/breschi-2025-adhesive-dentistry-evolution-review]]). The chlorhexidine 2% rinse before bonding is the single most validated MMP-inhibition step that bench data supports; clinical longevity proof is weaker — Reis 2024 ([[overviews/reis-2024-biomimetic-restorative-myths-narrative]]) flags this gap. [미검증] On the cost-benefit balance the CHX rinse is cheap and well-tolerated; absent clinical harm signal, in vitro consistency justifies routine use even while waiting for RCTs.
 
 ### 1.4 Immediate Dentin Sealing (IDS) — indirect only, with caveats
 
@@ -105,20 +115,20 @@ The clinical-translation question is unresolved: [[overviews/reis-2024-biomimeti
 
 ### 2.1 Material baseline — composite vs. amalgam
 
-[[resin/worthington-2021-composite-vs-amalgam-cochrane-sr]] (Cochrane, 2021 update): 5-year survival of direct composite ≈ amalgam in posterior permanent teeth, with a non-significant trend toward higher secondary-caries risk for composite. Amalgam phase-out is driven by Minamata + esthetics, not by survival inferiority — so composite restoration is the default, but the marginal-seal advantage one might expect from adhesion is not large at 5 years. [근거강함]
+[[resin/worthington-2021-composite-vs-amalgam-cochrane-sr]] (Cochrane, 2021 update): 5-year survival of direct composite ≈ amalgam in posterior permanent teeth, with a non-significant trend toward higher secondary-caries risk for composite. Amalgam phase-out is driven by Minamata + esthetics, not by survival inferiority — so composite restoration is the default, but the marginal-seal advantage one might expect from adhesion is not large at 5 years. [확인]
 
-Posterior composite **baseline failure rate**: **1.55 lost restorations per 100 restoration-years** ([[resin/astvaldsdottir-2015-posterior-resin-composite-longevity-sr]], 8 prospective trials, 62,030 restoration-months). Dominant failure mode: secondary caries, typically after year 3. [합의수준 — SR, "low quality" GRADE]
+Posterior composite **baseline failure rate**: **1.55 lost restorations per 100 restoration-years** ([[resin/astvaldsdottir-2015-posterior-resin-composite-longevity-sr]], 8 prospective trials, 62,030 restoration-months). Dominant failure mode: secondary caries, typically after year 3. [확인 — SR, "low quality" GRADE]
 
 ### 2.2 Bulk-fill vs. incremental — converged evidence of equivalence
 
 | Source | Design | n | Outcome | Confidence |
 |---|---|---|---|---|
-| [[resin/boaro-2019-bulk-fill-composites-clinical-properties-sr-ma]] | SR+MA, lab + RCT 1–10 yr | 103 articles | BF: less shrinkage/stress/cusp deflection; lower microhardness ≤2mm; **clinical equivalent** | [근거강함] sr+ma |
-| [[resin/silva-2023-bulk-fill-vs-conventional-resins-umbrella]] | Umbrella review (AMSTAR-2 low–moderate) | multiple SRs | Overall pooled trend toward conventional ~5× (NS); abrasion/microleakage/elastic modulus/shrinkage — **similar** | [합의수준] |
-| [[resin/zailai-2025-bulk-fill-vs-conventional-composites-clinical-sr-ma]] | SR+MA, RCTs ≥12 mo | 9 RCT / 632 restorations | Failure RR 0.82 (0.33–2.01), p=0.67; equivalent <24mo and ≥24mo | [근거강함] sr+ma |
-| [[resin/chaple-gil-2026-bulk-fill-incremental-class-ii-sr-nma]] | SR+NMA Class II | 12 RCT, 6/12/24 mo | No significant difference at any timepoint; ormocer-based / overlay BF non-significantly top-ranked | [근거강함] sr+nma |
+| [[resin/boaro-2019-bulk-fill-composites-clinical-properties-sr-ma]] | SR+MA, lab + RCT 1–10 yr | 103 articles | BF: less shrinkage/stress/cusp deflection; lower microhardness ≤2mm; **clinical equivalent** | [확인] sr+ma |
+| [[resin/silva-2023-bulk-fill-vs-conventional-resins-umbrella]] | Umbrella review (AMSTAR-2 low–moderate) | multiple SRs | Overall pooled trend toward conventional ~5× (NS); abrasion/microleakage/elastic modulus/shrinkage — **similar** | [확인] |
+| [[resin/zailai-2025-bulk-fill-vs-conventional-composites-clinical-sr-ma]] | SR+MA, RCTs ≥12 mo | 9 RCT / 632 restorations | Failure RR 0.82 (0.33–2.01), p=0.67; equivalent <24mo and ≥24mo | [확인] sr+ma |
+| [[resin/chaple-gil-2026-bulk-fill-incremental-class-ii-sr-nma]] | SR+NMA Class II | 12 RCT, 6/12/24 mo | No significant difference at any timepoint; ormocer-based / overlay BF non-significantly top-ranked | [확인] sr+nma |
 
-**Bottom line**: For Class I/II direct posterior restorations, **bulk-fill and incremental are clinically equivalent through ≥24 months**. The choice is operator/cavity preference — bulk-fill saves chair time, incremental gives layer-shade control. [근거강함]
+**Bottom line**: For Class I/II direct posterior restorations, **bulk-fill and incremental are clinically equivalent through ≥24 months**. The choice is operator/cavity preference — bulk-fill saves chair time, incremental gives layer-shade control. [확인]
 
 **Two caveats remain**:
 1. **Flowable bulk-fill ≤ 2 mm depth**: lower microhardness — needs a sculptable capping layer (most product IFUs already specify this).
@@ -128,11 +138,15 @@ Posterior composite **baseline failure rate**: **1.55 lost restorations per 100 
 
 [[resin/meereis-2018-polymerization-shrinkage-stress-resin-sr-ma]] (62 in vitro): the largest stress-reduction contribution comes from **resin matrix modification**, not photoinitiator change (p=0.29 NS for photoinitiator subgroup). The clinically deleterious quantity is not volumetric shrinkage itself but **stress at the bonded interface** in a confined cavity — manifesting as cuspal deflection, microleakage, debonding, post-op hypersensitivity.
 
-[[resin/kruly-2018-low-shrinkage-vs-methacrylate-resin-ma]] (21 RCT, up to 60 months) pooled silorane + ormocer + bulk-fill as "low-shrinkage" composites vs. conventional Bis-GMA/methacrylate. **Only finding**: 12-month marginal adaptation **favored conventional methacrylate**. All other outcomes (retention, recurrent caries, sensitivity, discoloration) — no difference. The often-repeated claim "low shrinkage = clinically superior" is **not supported by RCT MA**. [근거강함]
+[[resin/kruly-2018-low-shrinkage-vs-methacrylate-resin-ma]] (21 RCT, up to 60 months) pooled silorane + ormocer + bulk-fill as "low-shrinkage" composites vs. conventional Bis-GMA/methacrylate. **Only finding**: 12-month marginal adaptation **favored conventional methacrylate**. All other outcomes (retention, recurrent caries, sensitivity, discoloration) — no difference. The often-repeated claim "low shrinkage = clinically superior" is **not supported by RCT MA**. [확인]
 
 [[resin/magno-2016-silorane-composite-not-better-conventional-ma]] reaches the same verdict for silorane specifically. Silorane is now largely discontinued — the chemistry didn't deliver clinical superiority justifying the workflow constraints.
 
-[claude해석] Practical reading: stress management is real and matters, but contemporary methacrylate composites + sound technique (proper increment thickness, adequate light intensity/duration, soft-start curing, flowable liner where indicated) match anything the modified-monomer families deliver. Money spent on a high-CRI curing light and a radiometer outperforms money spent chasing exotic monomer chemistry.
+[미검증] Practical reading: stress management is real and matters, but contemporary methacrylate composites + sound technique (proper increment thickness, adequate light intensity/duration, soft-start curing, flowable liner where indicated) match anything the modified-monomer families deliver. Money spent on a high-CRI curing light and a radiometer outperforms money spent chasing exotic monomer chemistry.
+
+**A newer mechanistic lever, still bench-only**: [[resin/he-2026-polymerizable-inhibitor-shrinkage-stress]] (in vitro, UDMA/Bis-EMA/TEGDMA experimental composite) targets shrinkage stress through a route Meereis 2018 did not catalogue in these terms — **delaying the gel point** with a polymerizable radical inhibitor (PBHT, a methacrylate-functional BHT analog). At 3 wt% PBHT, max shrinkage-stress rate fell from 47.5 to 13.1 ×10⁻³ MPa·s, while volumetric shrinkage barely moved — reinforcing the same principle Meereis 2018 already established, that **interfacial stress, not raw volumetric shrinkage, is the target**, and that resin-matrix-level intervention (here, an inhibitor bound into the network) is what moves the needle, not photoinitiator chemistry. Notably, plain non-polymerizable BHT (the incumbent commercial inhibitor) **failed to reduce stress** in this UDMA-rich matrix — only the copolymerizing PBHT worked, and it also leached ~4× less inhibitor than BHT (132 vs 549 µg/g at 1 wt%), addressing a real cytotoxicity/elution liability of the current approach. Mechanical properties (FS/FM/fracture toughness) were preserved at the recommended 1 wt% dose.
+
+[미검증] Read this with the same caution as silorane and the other "low-shrinkage" families in this section: it is a **single in-vitro synthesis-and-characterization study** ([근거약함] in-vitro), with no cytotoxicity testing, no aging/wear data, and no clinical or even ex-vivo tooth-restoration performance measured — the authors themselves flag this. The Kruly 2018 RCT MA lesson above is exactly the caution this result needs: 21 pooled RCTs of "low-shrinkage" chemistry (silorane/ormocer/bulk-fill) found **no clinical superiority** despite favorable lab-stress profiles. PBHT's mechanism is more targeted (gel-point delay validated directly on shrinkage stress, not just volumetric shrinkage) and it solves a genuine incumbent problem (BHT leaching/cytotoxicity) rather than chasing a new monomer backbone — so it is mechanistically more promising than another silorane-style reformulation. But until it survives aging, biocompatibility screening, and ideally an RCT, it sits in the same "lab result ≠ clinical superiority" bucket as everything else in this section. File it as a research lead, not a practice change.
 
 ### 2.4 Direct vs. indirect composite — for the borderline case
 
@@ -143,11 +157,11 @@ Two SR+MA disagree:
 | [[resin/josic-2023-direct-indirect-resin-longevity-sr-ma]] | 23 included / 8 MA | No significant longevity difference at short/medium/long term; **GRADE very low** |
 | [[resin/tennert-2024-direct-vs-indirect-composite-longevity-sr-ma]] | 5 RCT, 627 restorations | Direct RR 0.61 (0.47–0.79) — **direct fails less**; all studies high RoB; evidence certainty very low |
 
-The 2024 Tennert MA is methodologically more stringent (RCT only, ≥3-yr follow-up). Both agree evidence certainty is very low. [claude해석] For typical Class I/II cavities the direct route is sound and probably superior; the indirect adhesive overlay holds its place for cuspal coverage, large cavities approaching cusp replacement, occlusal vertical dimension rehabilitation, and worn dentition — none of which the meta-analyses can resolve with current data.
+The 2024 Tennert MA is methodologically more stringent (RCT only, ≥3-yr follow-up). Both agree evidence certainty is very low. [미검증] For typical Class I/II cavities the direct route is sound and probably superior; the indirect adhesive overlay holds its place for cuspal coverage, large cavities approaching cusp replacement, occlusal vertical dimension rehabilitation, and worn dentition — none of which the meta-analyses can resolve with current data.
 
 ### 2.5 Repair beats replacement
 
-[[resin/van-de-sande-2019-composite-repair-anterior-15year]] — 15-year retrospective, 634 anterior restorations. Treating repair as non-failure: **15-yr survival 69%, AFR 2.4%** (Class III/IV); direct veneers 10-yr survival jumps from 38% (repair counted as failure) to **74%** (repair as non-failure). Repair preserves tooth structure, reduces chair time and patient anxiety. [합의수준 — retrospective, single practice]
+[[resin/van-de-sande-2019-composite-repair-anterior-15year]] — 15-year retrospective, 634 anterior restorations. Treating repair as non-failure: **15-yr survival 69%, AFR 2.4%** (Class III/IV); direct veneers 10-yr survival jumps from 38% (repair counted as failure) to **74%** (repair as non-failure). Repair preserves tooth structure, reduces chair time and patient anxiety. [확인 — retrospective, single practice]
 
 The wiki has no posterior repair longevity SR yet — when you have a localized marginal staining, fracture, or secondary caries on an otherwise sound restoration, repair (rebevel/freshen/etch/bond/composite over) is the evidence-supported first choice.
 
@@ -227,6 +241,7 @@ When a clinical decision falls into one of these gaps, the wiki cannot answer �
 - [[resin/chaple-gil-2026-bulk-fill-incremental-class-ii-sr-nma]] — Class II NMA
 - [[resin/parra-gatica-2023-flowable-bulk-fill-composites-sr]] — flowable BF property heterogeneity
 - [[resin/meereis-2018-polymerization-shrinkage-stress-resin-sr-ma]] — stress composition strategies
+- [[resin/he-2026-polymerizable-inhibitor-shrinkage-stress]] — polymerizable inhibitor (PBHT), gel-point delay, in-vitro
 - [[resin/kruly-2018-low-shrinkage-vs-methacrylate-resin-ma]] — "low-shrinkage" RCT MA
 - [[resin/magno-2016-silorane-composite-not-better-conventional-ma]] — silorane equivalence
 - [[resin/josic-2023-direct-indirect-resin-longevity-sr-ma]] — direct vs indirect (no diff)

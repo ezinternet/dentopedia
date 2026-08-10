@@ -6,18 +6,28 @@ date: 2024-03-22
 doi: 10.7759/cureus.56713
 source: alowaimer-2024-noninvasive-therapies-tmj-sr.md
 category: [tmj]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/alowaimer-2024-noninvasive-therapies-tmj-sr.pdf
 pdf_filename: alowaimer-2024-noninvasive-therapies-tmj-sr.pdf
 source_collection: external
 tags: [tmd, noninvasive, manual-therapy, splint, tens, lllt, arthrocentesis, counseling, conservative-treatment, sr]
 ---
 
-## One-line Summary
-SR (20 studies, Cureus 2024): combination manual therapy + counseling + splint is most effective for TMD; TENS/LLLT alone limited; >80% managed non-surgically; arthrocentesis reserved for conservative failures.
+## Three-line Summary
 
-## 한줄요약
-SR (20 연구, 2024): 수기치료+상담+스플린트 병용 최선; TENS·LLLT 단독 효과 제한; TMD 80%이상 비수술; 1차 실패 시 관절천자세정술.
+Systematic review (20 studies from 1,437 screened, PRISMA, Cureus 2024) comparing non-invasive and minimally invasive therapies for temporomandibular joint dysfunction in adults.
+
+Combination therapy integrating manual therapy, counseling, and splint demonstrated the most substantial improvements in pain, depression, and anxiety; TENS and LLLT alone showed limited/inconsistent efficacy; over 80% of TMD patients can be managed non-surgically; only ~5% ultimately require surgery.
+
+A stepped-care algorithm is supported: first-line non-invasive (MT + counseling + splint), adjunct TENS/LLLT only in combination, then arthrocentesis or injections after conservative failure, with surgery reserved for the ~5% with refractory disease.
+
+## 세줄요약
+
+악관절 기능장애(TMD)에서 비침습·최소침습 치료를 비교한 체계적 문헌고찰 (20편/1,437편 스크리닝, PRISMA, Cureus 2024).
+
+수기치료(Manual Therapy, MT)+상담+교합안정장치 병용이 통증·우울·불안에 가장 큰 개선; TENS·LLLT 단독 효과 제한·불일치; TMD 80% 이상이 비수술 관리 가능, 수술 필요 ~5%.
+
+단계적 치료 알고리즘 지지: 1차 비침습(MT+상담+스플린트) → TENS·LLLT는 병용 보조로만 → 보존 실패 시 관절천자·주사 → 불응성 ~5%에만 수술.
 
 ## Summary
 This systematic review (PRISMA, 20 studies from 1,437 screened) compared non-invasive and minimally invasive therapies for TMJ dysfunction. Key finding: combination therapy integrating manual therapy, counseling, and splint therapy demonstrated the most substantial improvements in pain reduction, depression, and anxiety. TENS and LLLT alone showed limited efficacy, while arthrocentesis is an effective minimally invasive option after exhausting conservative approaches. Over 80% of TMD patients can be managed non-surgically; surgery (arthrotomy) is ultimately needed in only ~5%.

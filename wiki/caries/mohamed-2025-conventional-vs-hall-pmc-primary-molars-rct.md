@@ -6,7 +6,7 @@ date: 2025-11-04
 doi: 10.1007/s40368-025-01128-0
 source: mohamed-2025-conventional-vs-hall-pmc-primary-molars-rct.md
 category: [caries]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: false
 pmid: "41186901"
@@ -19,13 +19,19 @@ relations:
     target: konukman-turker-2026-hall-vs-modified-hall-primary-molars-rct
 ---
 
-## One-line Summary
+## Three-line Summary
+Abstract-only RCT (80 carious primary molars) comparing procedural experience outcomes of the Hall technique (HT) vs conventional technique (CT) for preformed metal crown (PMC) placement in children.
 
-Abstract-only RCT (80 carious primary molars): vs the conventional technique, the Hall technique for preformed metal crowns required less than half the chair time (7.1 vs 17.4 min, p<0.001), caused significantly less child pain (p=0.03), and earned significantly better parental acceptability (ease, duration, satisfaction, all p<0.001).
+HT required less than half the chair time vs CT (7.1±2.8 vs 17.4±2.9 min, p<0.001), caused significantly less child pain (p=0.03), and scored significantly better on all parental acceptability domains (ease, duration, satisfaction: all p<0.001).
 
-## 한줄요약
+HT provides a substantially better procedural experience for both children and parents compared to CT, supporting its use as a first-choice approach in cooperative-challenged young children.
 
-abstract-only RCT(유구치 80개): 전통기법 대비 Hall technique PMC는 시술시간 절반 이하(7.1 vs 17.4분, p<0.001), 아동 통증 유의 감소(p=0.03), 부모 수용성(편의·시간·만족 모두 p<0.001) 유의 우위.
+## 세줄요약
+abstract-only RCT (유구치 80개): 기성 금속관(PMC) 시술 시 Hall technique(HT) vs 전통 삭제 기법(CT) 비교 — 시술 경험 결과 평가.
+
+HT 의자 시간 절반 이하(7.1±2.8 vs 17.4±2.9분, p<0.001); 아동 통증 유의 감소(p=0.03); 부모 수용성(편의·소요시간·만족·재선택 의향) 모두 HT 유의 우위(p<0.001).
+
+비협조 아동·어린 소아에서 HT가 아동·부모 모두에게 훨씬 나은 시술 경험을 제공해 PMC 1차 선택지로 지지된다.
 
 ## Summary
 
@@ -55,4 +61,4 @@ Two-arm parallel RCT, 80 participants, single pediatric dentist; outcomes proced
 
 - [[caries/konukman-turker-2026-hall-vs-modified-hall-primary-molars-rct]] — Hall vs modified Hall 2-yr survival RCT (companion)
 - [[caries/chavhan-2026-zirconia-vs-ssc-primary-dentition-sr-ma]] — zirconia vs SSC primary molars SR+MA
-- [[endodontics/aapd-2024-vital-pulp-therapy-primary-teeth-guideline]] — primary-tooth conservative management context
+- [[endodontics/vpt/aapd-2024-vital-pulp-therapy-primary-teeth-guideline]] — primary-tooth conservative management context

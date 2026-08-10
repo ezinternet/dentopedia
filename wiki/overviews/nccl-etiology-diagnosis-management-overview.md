@@ -7,7 +7,7 @@ doi: N/A
 source: N/A
 type: synthesis
 category: overviews
-confidence: synthesis
+evidence_level: synthesis
 pdf_path: N/A
 pdf_filename: N/A
 source_collection: synthesis
@@ -29,6 +29,9 @@ source_papers:
   - wiki/nccl/dioguardi-2024-abfraction-theory-controversy-scoping-review.md
   - wiki/resin-bonding/yurdaguven-2025-universal-adhesives-nccl-24month-rct.md
 tags: [nccl, abfraction, biocorrosion, monitoring, universal-adhesive, selective-enamel-etching, occlusion, overview]
+relations:
+  - type: refines
+    target: dioguardi-2024-abfraction-theory-controversy-scoping-review
 ---
 
 ## 한국어 핵심요약
@@ -47,19 +50,29 @@ tags: [nccl, abfraction, biocorrosion, monitoring, universal-adhesive, selective
 > - 금기 패턴: 접착 단계를 생략하는 self-adhesive flowable은 6개월에 유지 붕괴(성공 33% vs 3-step E&R 100%, Celik 2015) → 사용 지양; 경화상아질은 산부식 30초 연장 + 표면 텍스처링.
 > - gap: bruxer/고위험 환자 데이터 공백(주요 RCT가 severe bruxism 배제), monitoring → 수복 전환의 정량 임계값 부재.
 
-## One-line Summary
-NCCLs are multifactorial (stress + friction + biocorrosion), the abfraction-as-sole-cause theory is unproven, asymptomatic lesions are best monitored, and when restoration is indicated retention depends on the adhesive/etching step — selective enamel etching helps and skipping the adhesive (self-adhesive flowable) fails.
+## Three-line Summary
 
-## 한줄요약
-NCCL은 stress·friction·biocorrosion 다인성이며 abfraction 단독원인설은 미입증, 무증상은 monitoring이 원칙, 수복 시 유지력은 접착·산부식 단계에 좌우(selective enamel etching 유리, self-adhesive flowable 실패).
+Synthesis of 16 papers on noncarious cervical lesions (NCCL) — etiology, diagnosis, and monitor-vs-restore decision: NCCLs are multifactorial (stress/abfraction + friction/abrasion + biocorrosion/erosion as a case-specific combination), the "abfraction as sole cause" hypothesis is clinically unproven with SR evidence directly contradicting across three systematic reviews (Senna 2012 — association unconclusive; Duangthip 2017 — 81% association but lab-weighted; Dioguardi 2024 scoping — neither confirms nor refutes with only 6 eligible studies).
+
+Asymptomatic, vital, structurally stable NCCLs should be monitored for ≥6 months before any intervention; prophylactic restoration solely for progression-prevention or routine occlusal adjustment is not indicated; restoration triggers are confirmed progression, hypersensitivity, esthetic concern, structural threat, or food retention.
+
+When restoration is required, success depends not on composite type but on the adhesive/etching step — universal adhesive in E&R vs selective-enamel-etching modes shows equivalent long-term performance (Peumans 2023 RCT), selective enamel etching reduces retention loss (Omoto 2025 RCT), while self-adhesive flowable composite (which skips the adhesive step) fails by 6 months (success 33% vs 100% for 3-step E&R, Celik 2015).
+
+## 세줄요약
+
+비우식성 치경부 병소(Noncarious Cervical Lesion, NCCL) 16편 종합 — 병인은 stress(abfraction)·friction(abrasion)·biocorrosion(erosion)의 case-specific 다인성 조합이고, "교합응력(abfraction) 단독원인설"은 임상적으로 미입증이며 3편의 SR이 충돌(Senna 2012 결론 불가, Duangthip 2017 81% 연관 단 lab 가중, Dioguardi 2024 scoping 6편으로 확정·반박 모두 불가).
+
+무증상·생활치·구조 안정 병변은 최소 6개월 monitoring 우선; 진행 예방 목적의 예방적 수복·교합조정은 비적응증; 수복 trigger는 진행 확인·과민증·심미·구조적 위협·음식물 정체.
+
+수복 시 성공은 복합레진 종류가 아닌 접착/산부식 단계에 좌우 — universal adhesive E&R vs selective enamel etching(SEE) 모드는 장기 동등(Peumans 2023 RCT), SEE는 유지력 손실 감소(Omoto 2025 RCT), 접착 단계를 생략하는 self-adhesive flowable은 6개월에 실패(성공 33% vs 3-step E&R 100%, Celik 2015).
 
 ## Thesis
 NCCL 임상 질문은 두 갈래다 — (1) 무엇이 원인이고 어떻게 진단하나, (2) 관찰할 것인가 수복할 것인가, 수복한다면 어떻게 하나. 현재 best evidence의 결론:
 
-- 병인은 단일 기전이 아니라 stress(abfraction)·friction(abrasion)·biocorrosion(erosion)의 case-specific 조합이다. [합의수준]
-- "교합응력→abfraction"이 모든 NCCL의 주원인이라는 강한 주장은 임상적으로 미입증이다. SR 근거가 정면으로 갈린다: 임상연구 SR(Senna 2012·Silva 2013)은 연관 약함/결론불가, abfraction 키워드 SR(Duangthip 2017)은 81% 연관(단 lab/FEA 가중·응력단독 원인 임상입증 전무), 최신 PRISMA-ScR scoping(Dioguardi 2024)은 6편만으로 확정·반박 모두 불가로 정리. 초미세구조(SEM)에선 microfracture 증거 일부 관찰. **종합: lab은 응력집중을 보이나 in-vivo 인과는 미입증.** [합의수준 — SR 충돌]
-- 무증상·생활치·기능정상 병변은 침습 처치 전 최소 6개월 monitoring. 진행예방 목적의 교합조정·예방적 수복은 적응증이 아니다. [합의수준]
-- 수복 적응증: 진행, 과민증, 심미, 구조적 위협, 음식물 정체. composite resin이 1차 재료이며, **성공은 composite 종류가 아니라 접착 시스템·술자 술기에 좌우**된다. [근거강함 — RCT]
+- 병인은 단일 기전이 아니라 stress(abfraction)·friction(abrasion)·biocorrosion(erosion)의 case-specific 조합이다. [확인]
+- "교합응력→abfraction"이 모든 NCCL의 주원인이라는 강한 주장은 임상적으로 미입증이다. SR 근거가 정면으로 갈린다: 임상연구 SR(Senna 2012·Silva 2013)은 연관 약함/결론불가, abfraction 키워드 SR(Duangthip 2017)은 81% 연관(단 lab/FEA 가중·응력단독 원인 임상입증 전무), 최신 PRISMA-ScR scoping(Dioguardi 2024)은 6편만으로 확정·반박 모두 불가로 정리. 초미세구조(SEM)에선 microfracture 증거 일부 관찰. **종합: lab은 응력집중을 보이나 in-vivo 인과는 미입증.** [확인 — SR 충돌]
+- 무증상·생활치·기능정상 병변은 침습 처치 전 최소 6개월 monitoring. 진행예방 목적의 교합조정·예방적 수복은 적응증이 아니다. [확인]
+- 수복 적응증: 진행, 과민증, 심미, 구조적 위협, 음식물 정체. composite resin이 1차 재료이며, **성공은 composite 종류가 아니라 접착 시스템·술자 술기에 좌우**된다. [확인 — RCT]
 
 ## Evidence Map
 

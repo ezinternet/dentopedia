@@ -1,0 +1,49 @@
+{
+  "overview": "direct-resin-restoration-adhesion-placement-overview",
+  "date": "2026-07-23",
+  "title": "직접 복합레진 수복 — 접착·충전 — 리콜",
+  "source_wiki": [
+    "wiki/overviews/direct-resin-restoration-adhesion-placement-overview.md"
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "q": "법랑질 가장자리가 있는 직접 복합레진 수복의 접착 전략은?",
+      "opts": [
+        "유니버설 자가부식(SE) 단독이 최선",
+        "선택적 법랑질 산부식 또는 3-step 산부식-수세(EAR)가 SR+MA·RCT에서 일관 우세; SE 단독은 법랑질 가장자리 존재 시 회피(NCCL 24개월 RCT에서 Clearfil SE 6개 탈락)",
+        "산부식은 불필요하다",
+        "법랑질과 상아질은 동일하게 처리"
+      ],
+      "ans": 1,
+      "rat": "법랑질 가장자리가 있으면 선택적 법랑질 산부식 또는 3-step EAR이 일관 우세(Hong 2021, Assis 2023). 유니버설 SE 단독은 법랑질 가장자리 존재 시 회피 — NCCL 24개월 RCT에서 Clearfil SE mode 6개 탈락(Oza 2022). 순수 상아질 표적은 두 전략 모두 허용, SE가 술후 민감 더 낮음.",
+      "cite": "overviews/direct-resin-restoration-adhesion-placement-overview"
+    },
+    {
+      "id": "q2",
+      "q": "벌크필(bulk-fill)과 적층충전(incremental)의 임상 비교 근거는?",
+      "opts": [
+        "적층충전이 항상 우월",
+        "≥24개월 임상 동등(Zailai 2025 실패 RR 0.82, Chaple-Gil 2026 차이 없음); '저수축=임상 우월' 명제도 21 RCT MA로 부정",
+        "벌크필은 후방부 금기",
+        "저수축 재료가 임상적으로 명확히 우월"
+      ],
+      "ans": 1,
+      "rat": "벌크필과 적층충전은 9 RCT MA·12 RCT NMA·우산형 리뷰 모두에서 ≥24개월 임상 동등(Zailai 2025 실패 RR 0.82, Chaple-Gil 2026 차이 없음). '저수축=임상 우월'은 21 RCT MA로 부정 — 유일한 차이는 12개월 변연적합에서 통상 메타크릴레이트가 우세(Kruly 2018). 실행 프로토콜이 재료 선택보다 결과를 좌우.",
+      "cite": "overviews/direct-resin-restoration-adhesion-placement-overview"
+    },
+    {
+      "id": "q3",
+      "q": "즉시 상아질 봉쇄(IDS)와 유니버설 접착제 결합강도 향상법은?",
+      "opts": [
+        "IDS는 직접 수복에서 필수",
+        "IDS는 간접 수복 한정(직접 수복엔 비적용, 임상 전환 미입증); 결합강도 향상은 MMP 억제(CHX 2%)·능동 도포·선택적 상아질 산부식·에탄올 습윤(Hardan 2021)",
+        "단축 도포가 결합강도를 높인다",
+        "접착 직전 탈감작제가 결합을 강화한다"
+      ],
+      "ans": 1,
+      "rat": "IDS는 간접 수복 한정(3-step EAR·2-step SE에서만 효과), 직접 수복엔 비적용·임상 전환 미입증(Reis 2024 비판). 유니버설 결합강도 향상: MMP 억제(CHX 2% 세척)·능동 도포·선택적 상아질 산부식·다층 도포·소수성 레이어·에탄올 습윤(Hardan 2021, 모두 p≤0.02) — 단축 도포·접착 직전 탈감작제는 결합강도 저하.",
+      "cite": "overviews/direct-resin-restoration-adhesion-placement-overview"
+    }
+  ]
+}

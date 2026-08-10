@@ -13,13 +13,21 @@ source_collection: external
 
 근관치료 후 보철 수복 시 글래스 파이버 포스트(Glass Fiber Post, GFP) 접착 프로토콜 선택에 대한 임상적 의문 — 전산부식(Total Etch, TE), 자가산부식(Self-Etch, SE), 자가접착(Self-Adhesive, SA) 시스템 중 근관 내 push-out 결합강도(Bond Strength, BS)가 가장 우수한 것을 직접 비교. 기존 wiki의 이중경화형 레진시멘트 논문 [[wiki/resin-bonding/li-2025-curing-modes-dual-cure-dentin]]이 경화 방식에 초점을 맞춘 반면, 본 연구는 접착 전처리 전략을 비교하여 보완적 근거를 제공.
 
-## One-line Summary
+## Three-line Summary
 
-In vitro push-out bond strength study (n=60 mandibular premolars, 3 groups) comparing total-etch, self-etch, and self-adhesive resin cement systems for glass fiber post cementation: self-etch demonstrated highest bond strength (131.03 N) vs total-etch (115.25 N) vs self-adhesive (75.04 N), p=0.001.
+In vitro push-out bond strength study (n=60 freshly extracted human mandibular premolars, randomly assigned to 3 groups of 20) comparing total-etch (TE), self-etch (SE), and self-adhesive (SA) resin cement systems for glass fiber post cementation to root dentin.
 
-## 한줄요약
+Self-etch demonstrated the highest push-out bond strength (131.03 N), followed by total-etch (115.25 N) and self-adhesive (75.04 N), with statistically significant differences between all groups (one-way ANOVA, p=0.001).
 
-in vitro 연구(하악 소구치 60개, 그룹당 n=20): 글래스 파이버 포스트 접착 시 자가산부식(SE) 131.03 N > 전산부식(TE) 115.25 N > 자가접착(SA) 75.04 N 순으로 push-out 결합강도 유의한 차이(p=0.001).
+Self-etch adhesive is recommended as the optimal cementation strategy for fiber posts in endodontically treated teeth; self-adhesive systems, despite their clinical simplicity, yield significantly lower bond strength due to insufficient micromechanical interlocking.
+
+## 세줄요약
+
+in vitro 연구(신선 발거 하악 소구치 60개, 그룹당 n=20): 글래스 파이버 포스트(Glass Fiber Post, GFP)를 근관 상아질에 접착할 때 전산부식(Total Etch, TE)·자가산부식(Self-Etch, SE)·자가접착(Self-Adhesive, SA) 레진 시멘트 시스템을 push-out 결합강도로 직접 비교.
+
+자가산부식(SE) 131.03 N > 전산부식(TE) 115.25 N > 자가접착(SA) 75.04 N 순으로 결합강도가 유의하게 차이남(일원분산분석, p=0.001).
+
+파이버 포스트 접착 시 SE 시스템이 최적 전처리 전략으로 권장되며, 임상적 간편성에도 불구하고 SA 시스템은 미세기계적 잠금(Micromechanical Interlocking) 부족으로 결합강도가 유의하게 낮아 주의가 필요.
 
 ## 1. Document Information
 

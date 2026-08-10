@@ -1,0 +1,94 @@
+Association between Apical Periodontitis and Chronic Diseases: An Umbrella Review
+
+Karem Paula Pinto, Gabriella Serrão, Cláudio Malizia Alves Ferreira, Luciana Moura Sassone, Tatiana Kelly da Silva Fidalgo, Emmanuel J N L Silva
+
+School of Dentistry, Rio de Janeiro State University (UERJ), Rio de Janeiro, Brazil.
+
+Iranian Endodontic Journal, 2023;18(3):134-144.
+PMID: 37431524 | PMCID: PMC10329764 | DOI: 10.22037/iej.v18i3.42560
+
+ABSTRACT
+
+Introduction: To assess the methodological quality of systematic reviews (SRs) that evaluated the association between apical periodontitis (AP) and chronic diseases.
+
+Materials and Methods: A systematic search was performed in the databases PubMed, Virtual Health Library, Scopus, Cochrane Library, Embase, Web of Science and Open Grey. SRs that evaluated the association between any chronic disease and AP, and that had performed a valid risk of bias assessment were included. The AMSTAR-2 tool was used for quality assessment and each included systematic review received a final categorization as having "high", "moderate", "low", or "critically low" quality.
+
+Results: Nine studies that met the eligibility criteria were included. The diseases investigated were cardiovascular diseases, diabetes mellitus, HIV, osteoporosis, chronic liver disease, blood disorders and autoimmune diseases. The systematic reviews included in this umbrella review showed a 'low' to 'high' quality of evidence.
+
+Conclusion: There are substantial heterogeneity and several methodological concerns in the included studies. It was observed a positive association between diabetes mellitus and apical periodontitis with limited evidence, no association between HIV and apical periodontitis and a positive association between apical periodontitis and cardiovascular disease, blood disorders, chronic liver disease, osteoporosis and autoimmune diseases with moderate evidence.
+
+Keywords: Apical Periodontitis; Chronic Disease; Endodontics; Systematic Review; Umbrella Review.
+
+FULL TEXT
+
+Introduction
+
+On the last few years, the term endodontic medicine has emerged to define the study of the association between periapical lesions and systemic diseases. The bidirectional relationship among the development of apical periodontitis and some common diseases such as cardiovascular alterations and diabetes is already well established. These associations opened new avenues to the investigation of the relationship between other systemic conditions and endodontic infection. In this sense, other disorders like chronic renal disease, liver cirrhosis, pre-eclampsia, hypoestrogenism, osteoporosis and coagulation disorders were also suggested to be related to apical periodontitis although these associations still not so clear.
+
+Apical periodontitis is an inflammatory local event that occurs as a response to endodontic infection. This stimulates the production of pro-inflammatory mediators that penetrate blood vessels and attract defense cells to the local of injury. Thereby, the spread of these inflammatory modulators can start the immunological response and influence the systemic condition of the patient. In the opposite way, systemic diseases can also modulate the inflammatory response on the localized lesion exacerbating the destruction of the periapical tissues. Some systemic conditions may predispose a more intense inflammation which results in increased bone loss and delay of the healing process on apical periodontitis.
+
+Several review studies have been conducted to analyze which are the main diseases related to the endodontic lesion and if there is scientific evidence that supports this association. In general, the reviews show controversial and inconclusive results, and most of them are not systematic reviews and/or do not evaluate the quality and risk of bias of the included studies.
+
+Systematic reviews using proper quality assessment tools provide the best evidence and unbiased information. With the crescent number of systematic reviews assessing the relationship between systemic diseases and apical periodontitis, the evaluation of the quality of evidence of these studies using a systematic approach become essential to ensure that they provide the correct summary of results, allowing the most adequate decision on the clinical setting.
+
+The overview of systematic reviews ('umbrella' review) summarizes the evidence from multiple studies and highlights the inconsistency of their findings and gaps in the research area. Hence, the umbrella review provides a high-quality evidence and points to the weaknesses in the systematic reviews, in order to improve the methodological designs of future studies. Therefore, an umbrella review was performed to (1) identify all the published systematic reviews that evaluated the association between periapical lesion and systemic diseases using a proper risk of bias assessment tools, (2) assess the methodological quality of these studies and (3) perform a critical evaluation of them to determine whether there is an association and to report the gaps in the research in this area.
+
+Materials and Methods
+
+The present umbrella review followed the PRISMA guidelines. Protocol registered in PROSPERO (CRD42020189979).
+
+Focused question: Is there evidence to support the association between systemic diseases and apical periodontitis?
+
+Search strategy: A systematic search was performed without any parameter restrictions up to September 2022 by two independent reviewers (K.P.P. and C.M.A.F.) using MeSH terms and free descriptors regarding apical periodontitis, systemic diseases and reviews in PubMed, Virtual Health Library (VHL), Scopus, Cochrane Library, Embase, Web of Science and Open Grey. A complementary reference screening and PROSPERO consultation were also performed. Duplicates removed via Endnote web.
+
+Study selection: After duplicate removal, studies were screened by title/abstract, then full text, by two independent reviewers; disagreements resolved by a third reviewer (E.J.N.L.S.). Non-systematic reviews, primary studies, laboratory studies, case reports, protocols, and abstract-only reports were excluded. Only SRs performing a valid risk of bias assessment were included.
+
+Data extraction: Author, year, journal, systemic diseases evaluated, databases searched, study designs included, number of included studies, whether meta-analysis performed, and quality assessment tool used.
+
+Quality assessment: AMSTAR-2 (16-item checklist) used by two independent reviewers, third reviewer for disagreements. Reviews classified as "high", "moderate", "low", or "critically low" quality.
+
+Results
+
+Search results: Initial search retrieved 933 manuscripts; 525 screened by title/abstract after dedup; 505 excluded. 20 full texts assessed; 11 excluded (not SR / off-topic / no risk-of-bias assessment). Nine studies met eligibility criteria. Nine additional ongoing SR protocols identified in PROSPERO.
+
+Characteristics of included SRs: Publication years 2016-2021. Journals: Journal of Endodontics (n=3), International Endodontic Journal (n=2), Clinical Oral Investigations (n=1), Quintessence International (n=1), International Journal of Environmental Research and Public Health (n=1), Journal of Clinical Medicine (n=1). Diseases most investigated: cardiovascular diseases (CVD, n=6) and diabetes mellitus (DM, n=4); also HIV, osteoporosis, chronic liver disease (CLD), blood disorders and autoimmune diseases (each n=1). Databases per review ranged 3-6. Included primary studies per review ranged 3-21. Five of nine SRs conducted meta-analyses (Aminoshariae 2017 JOE; Aminoshariae 2019 Clin Oral Investig; Gupta et al; Koletsi et al; Ríos-Osório et al). Risk-of-bias tools used: Newcastle-Ottawa scale (3 reviews), Joanna Briggs Institute critical appraisal tool (1), ROBINS-I (1), a proposed specific quality assessment tool combining Cochrane RoB tool + Oxford Systematic Review Appraisal Sheet + CASP (3), and a tool adapted from STROBE guidelines (1).
+
+Methodological quality (AMSTAR-2): One study (Gupta et al., DM) graded "high" quality (missed only item 10, funding sources). Six studies graded "moderate" quality. Two studies graded "low" quality.
+
+Main findings by included SR:
+
+1. Aminoshariae et al. (CVD, DM, HIV) — evaluated influence of systemic diseases on periapical healing/survival of RCT-treated teeth. 3 studies on CVD (2 positive, 1 no association); 11 studies on DM (6 positive, 5 no association); 3 studies on HIV (0 positive). No meta-analysis performed due to heterogeneity. Moderate-to-high risk of bias overall. Inconclusive for CVD/DM and RCT outcome.
+
+2. Aminoshariae et al. (CVD only) — moderate certainty, low risk of bias; meta-analysis showed 67% higher risk of negative RCT outcome in CVD patients vs healthy.
+
+3. Aminoshariae et al. (CVD, opposite pathway — periapical lesion → CVD development) — small significant effect, RR=1.20 (95% CI 0.79-1.82); low certainty, high risk of bias overall.
+
+4. Berlin-Broner et al. (CVD) — 13/19 studies positive association (2 lost significance after multivariable adjustment), 5 no significant association, 1 negative association. No meta-analysis (heterogeneity). Quality moderate-to-low.
+
+5. Koletsi et al. (CVD) — meta-analysis: chronic endodontic infection associated with 1.38x risk of CVD diagnosis (RR=1.38; 95% CI 1.06-1.80; p=0.008). Most included studies serious risk of bias; overall evidence very low.
+
+6. Khalighinejad et al. (CVD, DM, CLD, blood disorders, osteoporosis) — 8 CVD studies (7 positive, low-moderate RoB); 5 DM studies (3 positive, moderate-high RoB); 1 each CLD/blood disorder/osteoporosis (each positive, high RoB). No meta-analysis (heterogeneity). Moderate overall RoB; inconclusive.
+
+7. Guerrero-Gironés et al. (autoimmune diseases) — periapical lesions associated with 3 autoimmune diseases (T1DM, rheumatoid arthritis, IBD), though most individual associations non-significant statistically. 4/7 studies low RoB, 3/7 moderate RoB.
+
+8. Gupta et al. (DM) — 7/10 studies positive association; meta-analysis showed higher prevalence of root-filled teeth with radiolucent periapical lesions in diabetics vs healthy; association with delayed healing NOT established.
+
+9. Ríos-Osório et al. (DM) — all 10 studies positive association, but 9/10 rated high RoB → inconclusive, only a suggestion that DM may be a risk factor for apical periodontitis.
+
+Discussion
+
+This umbrella review assessed methodological quality of SRs/MAs evaluating systemic disease-AP association, restricting inclusion to SRs performing valid RoB assessment (5 SRs excluded for lacking this: 1 on CVD, 4 on DM using only OCEBM evidence-level grading, which is not a RoB tool). Two prior umbrella reviews on this theme (CVD-AP; DM-RCT outcome) included SRs without valid RoB assessment and are now outdated given newer SRs published since.
+
+CVD-focused SRs showed low-to-moderate evidence quality; DM-focused SRs showed low-to-high evidence quality. Despite suggestive positive associations, evidence remains inconclusive for both. For the other diseases (HIV, CLD, blood disorders, osteoporosis, autoimmune diseases), SRs were "moderate" quality; no association was found for HIV; positive associations were found for blood disorders, CLD, osteoporosis, and autoimmune diseases.
+
+All included SRs called for more well-designed clinical studies addressing cause-effect mechanisms (most primary studies are observational), inclusion of inflammatory biomarkers, and animal studies/larger cohorts where RCTs are unethical. Key confounders flagged: preoperative periapical lesion status (critical for RCT prognosis studies), severity of systemic condition (e.g., glycemic control in DM — hyperglycemia specifically impairs healing and raises AP prevalence; CD4+/viral load in HIV; endotoxin/nitric oxide/cytokine levels in CLD; vascular cell alterations in blood disorders), and periodontitis as a major confounder for both CVD and DM associations (and a risk factor for CLD itself). Smoking is a shared risk factor for AP, CVD, DM, and osteoporosis; alcohol is a shared risk factor for CLD and osteoporosis. Genetic predisposition links AP and DM.
+
+Methodological flaws identified across included SRs via AMSTAR-2: most did not use comprehensive search strategies including grey literature/study registers (Item 4); most did not justify inclusion of specific study designs (Item 3); all but one did not report primary-study funding sources (Item 10), relevant given publication bias risk from privately funded research.
+
+Limitation: this umbrella review could not pool a summary meta-analysis across included SRs due to high methodological/outcome heterogeneity.
+
+Conclusion
+
+There is a positive association between CVD and apical periodontitis and between DM and apical periodontitis, both with limited quality of evidence; no association between HIV and apical periodontitis; and positive association between apical periodontitis and blood disorders, chronic liver disease, osteoporosis, and autoimmune diseases, with moderate quality of evidence. Several methodological flaws exist in both primary studies and systematic reviews; future well-designed clinical studies are needed.
+
+Conflict of Interest: None declared.

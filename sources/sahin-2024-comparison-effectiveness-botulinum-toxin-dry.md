@@ -10,8 +10,21 @@ pdf_filename: sahin-2024-comparison-effectiveness-botulinum-toxin-dry.pdf
 source_collection: external
 ---
 
-## One-line Summary
-4-arm RCT (n=80, Turkey) finds BoNT-A, dry needling, pharmacological therapy, and manual therapy produce equivalent VAS / MMO / OHIP-14 outcomes through 12 weeks for bruxism-induced myalgia — null hypothesis supported.
+## Three-line Summary
+
+4-arm RCT (n=80, Turkey) finds BoNT-A, dry needling, pharmacological therapy,
+
+and manual therapy produce equivalent VAS / MMO / OHIP-14
+
+outcomes through 12 weeks for bruxism-induced myalgia — null hypothesis supported.
+
+## 세줄요약
+
+4-arm 무작위 대조 시험 (RCT) (n=80, Turkey) finds BoNT-A, dry needling, pharmacological therapy,
+
+and manual therapy produce equivalent VAS / MMO / OHIP-14
+
+outcomes through 12 weeks for bruxism-induced myalgia — null hypothesis supported.
 
 ## 1. Document Information
 - **Journal**: J Oral Facial Pain Headache 2024;38(4):101-110

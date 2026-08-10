@@ -17,13 +17,21 @@ text_filename: neves-2026-ab-type-proanthocyanidin-primers-nano-dma.txt
 
 PubMed full-text surveillance (레진접착) — [[wiki/resin-bonding/zhou-2025-collagen-crosslinkers-naocl-dentin-bond-strength-sr-ma]]가 collagen crosslinker(PAC 포함)의 결합강도 효과를 SR+MA로 정리했으나, *기전*(어느 계면 층이 강화되는지, 시간에 따른 점탄성 안정성)은 다루지 못한다. 본 Bedran-Russo 그룹의 1년 nano-DMA 연구는 PAC가 hybrid layer·underlying dentin의 complex modulus를 올리고 micropermeability를 낮추는 layer-specific 기전을 제시해, [[wiki/resin-bonding/breschi-2018-dentin-bonding-collagen-structure-bond-preservation-review]]·[[wiki/resin-bonding/tjaderhane-2015-dentin-bonding-can-we-make-it-last-review]]의 hybrid-layer 내구성 논의를 분자 수준으로 확장한다.
 
-## One-line Summary
+## Three-line Summary
 
 In vitro nano-DMA + micro-permeability study (5 groups, 1-year SBF aging): rinse-out AB-type proanthocyanidin (PAC-DESIGNER) primers raised the complex modulus of the hybrid layer and underlying dentin and reduced interfacial micropermeability vs unprimed control, with trimeric (DP3) PACs outperforming tetrameric (DP4) — a layer-specific mechanism for durable resin-dentin bonding.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 in vitro nano-DMA + 미세투과도 연구 (5군, 1년 SBF 노화): rinse-out AB형 프로안토시아니딘(PAC-DESIGNER) 프라이머가 무처치 대조군 대비 혼성층·하부 상아질의 복합탄성계수를 높이고 계면 미세투과도를 낮췄으며, 삼량체(DP3)가 사량체(DP4)보다 우수 — 내구성 상아질 접착의 층별 기전을 제시.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

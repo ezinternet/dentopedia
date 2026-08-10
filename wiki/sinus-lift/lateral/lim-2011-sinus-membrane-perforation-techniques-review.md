@@ -6,20 +6,28 @@ date: 2011-01-01
 doi: ""
 source: lim-2011-sinus-membrane-perforation-techniques-review.md
 category: [sinus-lift/lateral]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/lim-2011-sinus-membrane-perforation-techniques-review.pdf
 pdf_filename: lim-2011-sinus-membrane-perforation-techniques-review.pdf
 source_collection: external
 tags: [sinus-lift, membrane-perforation, schneiderian-membrane, complication-management]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Korean narrative review of 7 PubMed studies (1998–2009, >436 implants) on Schneiderian membrane perforation repair in lateral sinus lift, stratified by perforation size (<5 mm, 5–10 mm, >10 mm, >15 mm), with implant success rates 69.6–98.9%.
+Korean narrative review (PubMed 1990–2010, 7 selected clinical studies, >436 implants) summarizing Schneiderian membrane perforation repair techniques in lateral-window sinus lift, stratified by perforation size into four clinical tiers.
 
-## 한줄요약
+Perforation incidence ranges 10–60%; small perforations (<5 mm) repaired with resorbable collagen membrane yield 94–99% implant success; large perforations (>10 mm) requiring lamellar bone or buccal fat pad graft yield only 74.1%; prevention (piezo, CT planning, rounded window corners) is the primary strategy.
 
-한국 종설(PubMed 1998~2009, 7편, 임플란트 436개 이상): 측방 상악동 거상술 중 슈나이더막 천공을 크기별로 분류하고 교원질막·층판골·협부지방대·봉합술 등 처치법별 임플란트 성공률(69.6~98.9%) 정리.
+Perforation size drives both technique selection and expected implant success — the Fugazzotto–Vlassis Class I–V classification provides a practical repair ladder from most manageable to most complex.
+
+## 세줄요약
+
+한국 서술 리뷰 (PubMed 1990–2010, 7편 임상 연구, 임플란트 436개 이상): 측방창 상악동거상술 중 슈나이더막 (Schneiderian Membrane) 천공 처치를 크기별 4단계로 체계화.
+
+천공 발생률 10–60%; 소형 (<5 mm) 흡수성 콜라겐 막으로 94–99% 임플란트 성공; 대형 (>10 mm) 층판골·협부지방대 필요, 성공률 74.1%; 피에조서저리·CT 계획·둥근 창 모서리로 예방 강조.
+
+천공 크기가 술식 선택과 예상 성공률을 결정 — Fugazzotto-Vlassis 1–5등급 분류가 실용적 처치 사다리 제공; 대형 천공은 수술 중단·4개월 후 재진입 고려.
 
 ## Summary
 

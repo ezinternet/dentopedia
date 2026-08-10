@@ -9,8 +9,21 @@ pdf_filename: mallineni-2024-ai-dentistry-descriptive-review.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Bioengineering 2024;11:1267 — descriptive review of AI across all dental disciplines (oral medicine, operative, pediatric, periodontology, orthodontics, OMFS, prosthodontics, forensic odontology); core conclusion — radiograph/optical image-based diagnosis dominates current deployments; data availability/uniformity/compute are bottlenecks.
+## Three-line Summary
+
+Bioengineering 2024;11:1267 — descriptive review of AI across all dental disciplines (oral medicine, operative, pediatric, periodontology, orthodontics, OMFS, prosthodontics, forensic odontology)
+
+core conclusion — radiograph/optical image-based diagnosis dominates current deployments
+
+data availability/uniformity/compute are bottlenecks.
+
+## 세줄요약
+
+Bioengineering 2024;11:1267 — descriptive review of AI across all dental disciplines (oral medicine, operative, pediatric, periodontology, orthodontics, OMFS, prosthodontics, forensic odontology)
+
+core conclusion — radiograph/optical image-based diagnosis dominates current deployments
+
+data availability/uniformity/compute are bottlenecks.
 
 ## 1. Document Information
 - Journal: Bioengineering 2024;11(12):1267

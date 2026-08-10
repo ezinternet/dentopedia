@@ -9,8 +9,21 @@ pdf_filename: aquilanti-2023-heat-generation-initial-osteotomy.pdf
 source_collection: external
 ---
 
-## One-line Summary
-In vitro IR-thermography study (J Maxillofac Oral Surg 2023): piezo-surgical inserts generate dangerously higher temperatures during initial osteotomy than rotary drills (often >50°C vs always <40°C, p<0.001); lower saline temperature reduces heat, increased irrigation volume does not.
+## Three-line Summary
+
+In vitro IR-thermography study (315 osteotomies, 9 groups, artificial bone blocks) comparing rotary drills vs piezo-surgical inserts for implant site initial osteotomy under different cooling conditions.
+
+Piezo inserts produced ΔT 53–65°C (max 75–88°C in some groups), well above the 47°C necrosis threshold; rotary drills never exceeded 40°C (p<0.001); lower saline temperature reduced heat significantly, but increased irrigation volume did not.
+
+Clinicians should be aware of the thermal risk of piezo osteotomy at initial drilling, especially if technique deviates from manufacturer recommendations; the 9.8 N load used exceeded piezo guidelines, potentially overstating the finding.
+
+## 세줄요약
+
+시험관 내 IR 열화상 연구(315회 오스테오토미, 인공 골 블록) — 임플란트 초기 오스테오토미에서 압전술식 인서트와 회전 드릴의 발열을 비교.
+
+압전 인서트: ΔT 53–65°C(일부 그룹 최대 88°C), 골괴사 역치(47°C) 초과; 회전 드릴: 항상 40°C 미만(p<0.001); 생리식염수 온도 낮추면 발열 유의 감소, 용량 증가는 유의미한 효과 없음.
+
+임상에서 압전 오스테오토미 사용 시 열 위험성에 유의해야 하나, 적용 하중이 제조사 권장치(100–400 g) 초과(9.8 N) — 압전 결과가 과장됐을 가능성.
 
 ## 1. Document Information
 - Journal: Journal of Maxillofacial and Oral Surgery, 2023;22(2):313–320

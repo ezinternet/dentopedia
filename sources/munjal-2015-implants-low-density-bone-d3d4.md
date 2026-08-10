@@ -9,8 +9,21 @@ pdf_filename: munjal-2015-implants-low-density-bone-d3d4.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Clinical study (n=14, D3/D4 bone, Maestro™ implants, 12-month follow-up): 92.3% survival rate; mean bone loss not statistically significant; specially designed implants viable in poor bone quality.
+## Three-line Summary
+
+Clinical study (n=14, D3/D4 bone, Maestro™ implants, 12-month follow-up): 92.3% survival rate
+
+mean bone loss not statistically significant
+
+specially designed implants viable in poor bone quality.
+
+## 세줄요약
+
+Clinical study (n=14, D3/D4 골 (Bone), Maestro™ 임플란트 (Implant)s, 12-month follow-up): 92.3% 생존율 (Survival rate)
+
+mean 골 (Bone) loss not statistically 유의미한 (Significant)
+
+specially designed 임플란트 (Implant)s viable in poor 골 (Bone) quality.
 
 ## 1. Document Information
 - **Journal**: Contemporary Clinical Dentistry 2015; 6(1):40–44

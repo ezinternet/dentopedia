@@ -17,13 +17,21 @@ text_filename: shim-2025-retrieval-ahplus-bioceramic-ceraseal-retreatment.txt
 
 Seeds the wiki's first **retreatment/retrievability** evidence for the Ceraseal/bioceramic-sealer cluster: prior Ceraseal pages cover clinical outcome and biocompatibility, but none address what happens when a Ceraseal/AH Plus Bioceramic single-cone fill must be *removed*. This in-vitro micro-CT study is the retrieval counterpart to the clinical [[endodontics/spinelli-2024-three-year-single-cone-ceraseal-cohort]] cohort and complements the wettability of [[endodontics/kunam-2024-wettability-ahplus-ceraseal-guttaflow]] (which mechanistically explains why these CSBSs come out more easily than epoxy AH Plus).
 
-## One-line Summary
+## Three-line Summary
 
 In-vitro micro-CT study (36 mandibular premolars, n=12/group) showing AH Plus Bioceramic and Ceraseal single-cone fills are more retrievable than epoxy-resin AH Plus during retreatment (94.8% / 92.5% vs 87.1% removed after WaveOne Gold + XP-endo Finisher).
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 In-vitro 마이크로-CT 연구 (하악소구치 36개, 군당 12개): AH Plus Bioceramic·Ceraseal 단일콘 충전이 에폭시 레진 AH Plus보다 재근관치료 시 제거가 잘 됨 (WaveOne Gold + XP-endo Finisher 후 제거율 94.8%·92.5% vs 87.1%).
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

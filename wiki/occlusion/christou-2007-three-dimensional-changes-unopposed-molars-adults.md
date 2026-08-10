@@ -6,7 +6,7 @@ date: 2007-12-01
 doi: 10.1093/ejo/cjm036
 source: christou-2007-three-dimensional-changes-unopposed-molars-adults.md
 category: [occlusion]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/christou-2007-three-dimensional-changes-unopposed-molars-adults.pdf
 pdf_filename: christou-2007-three-dimensional-changes-unopposed-molars-adults.pdf
 source_collection: external
@@ -16,13 +16,21 @@ relations:
     target: wang-2022-unopposed-molar-overeruption-implant-cbct
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Prospective ~10.6-year follow-up of 22 unopposed maxillary molars in 12 healthy adults showing slow three-dimensional displacement (vertical overeruption 0.8 mm, mesial drift, palatal movement 0.9 mm), clinically insignificant in periodontally healthy patients but accelerated by periodontal involvement.
+Prospective longitudinal study (12 healthy adults, 22 unopposed maxillary molars, mean follow-up 10 years 7 months) using 3D plaster cast scanning to track centroid displacement of unopposed versus antagonist-bearing posterior teeth.
 
-## 한줄요약
+Unopposed molars displaced vertically 0.8 mm (SD 0.65), palatally 0.9 mm (SD 0.6), and mesially (when lacking a mesial neighbor, p≤0.04); periodontally affected molars overerupted significantly more than healthy ones (p≤0.01).
 
-건강한 성인 12명의 대합치 없는 상악 대구치 22개를 평균 약 10.6년 추적한 전향 연구로, 무대합 치아가 수직 정출(0.8 mm)·근심·구개측(0.9 mm)의 3차원으로 천천히 이동했으며, 치주적으로 건강한 환자에서는 임상적으로 미미하나 치주 침범 시 더 크게 정출함을 보여줌.
+The movement is genuinely three-dimensional — not purely vertical — and is clinically insignificant in periodontally healthy adults over a decade, but periodontal compromise acts as an effect modifier accelerating overeruption.
+
+## 세줄요약
+
+건강한 성인 12명의 무대합 상악 대구치 22개를 평균 10년 7개월 추적한 전향적 종단 연구로, 3D 석고 모형 스캔으로 교합면 무게중심의 변위를 대합치 있는 대조치와 비교했다.
+
+무대합 대구치는 수직 0.8 mm(SD 0.65), 구개측 0.9 mm(SD 0.6), 근심 방향으로 유의하게 이동했으며(p≤0.04), 치주 침범 시 수직 정출이 유의하게 더 컸다(p≤0.01).
+
+이동은 순수 수직이 아닌 3차원적 현상이며, 치주적으로 건강한 성인에서 10년간 임상적으로 미미하나 치주 상태가 정출 속도를 조절하는 효과 수정인자(Effect Modifier)이다.
 
 ## Summary
 

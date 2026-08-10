@@ -13,9 +13,21 @@ source_collection: external
 
 본 wiki PDRN 카테고리의 paper 대부분이 animal in vivo 또는 in vitro인데, 본 paper는 **human RCT** — PDRN을 oral surgery 술후 합병증 완화 목적으로 임상에서 검증한 첫 사례. [[pdrn/ku-2025-polydeoxyribonucleotide-pdrn-dentistry-narrative-review]]가 "well-designed RCT 부재"라고 한 공백을 부분적으로 메움. 매복 제3대구치 발치(IMTM extraction)는 임상 빈도 매우 높고 본 wiki [[oral-surgery]] 카테고리와의 cross-link도 의미 있음. 1차 분류는 PDRN, 보조 분류는 oral-surgery.
 
-## One-line Summary
+## Three-line Summary
 
-매복 하악 제3대구치 발치 후 submucosal PDRN injection (split-mouth RCT)에서 POD3·POD7의 통증이 control side 대비 유의하게 감소. 통증 지속기간·부종은 유의차 없거나 작음.
+매복 하악 제3대구치 발치 후 submucosal PDRN
+
+injection (split-mouth RCT)에서 POD3·POD7의 통증이 control side
+
+대비 유의하게 감소. 통증 지속기간·부종은 유의차 없거나 작음.
+
+## 세줄요약
+
+매복 하악 제3대구치 발치 후 submucosal PDRN
+
+injection (split-mouth RCT)에서 POD3·POD7의 통증이 control side
+
+대비 유의하게 감소. 통증 지속기간·부종은 유의차 없거나 작음.
 
 ## 1. Document Information
 

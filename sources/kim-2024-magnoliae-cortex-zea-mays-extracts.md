@@ -4,14 +4,27 @@ authors: Se Eun Kim, Sun Young Hwang, Yong Ho Park, William C. Davis, Kun Taek P
 year: 2024
 doi: 10.1186/s12917-024-04243-0
 journal: BMC Veterinary Research 2024;20:437
-category: [drug/analgesics]
+category: ['periodontics']
 pdf_path: /Users/oracleneo/llm-wiki/papers/kim-2024-magnoliae-cortex-zea-mays-extracts.pdf
 pdf_filename: kim-2024-magnoliae-cortex-zea-mays-extracts.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Two-month canine RCT (n=10 beagles, 5 per arm) demonstrating that oral combined Magnoliae cortex 40 mg + Zea mays L. extract 20 mg in ligature-induced periodontitis improves GI, PPD, CAL, and BoP versus vehicle and significantly suppresses tissue TNF-α expression; in vivo confirmation of the in-vitro Magnoliae+Zea mays anti-inflammatory effect.
+## Three-line Summary
+
+Two-month canine RCT (n=10 beagles, 5 per arm) demonstrating that oral combined Magnoliae cortex 40 mg
+
++ Zea mays L. extract 20 mg in ligature-induced periodontitis improves GI, PPD, CAL, and BoP
+
+versus vehicle and significantly suppresses tissue TNF-α expression; in vivo confirmation of the in-vitro Magnoliae+Zea mays anti-inflammatory effect.
+
+## 세줄요약
+
+Two-month canine 무작위 대조 시험 (RCT) (n=10 beagles, 5 per arm) demonstrating that oral combined Magnoliae cortex 40 mg
+
++ Zea mays L. extract 20 mg in ligature-induced periodontitis improves GI, PPD, CAL, and BoP
+
+대 vehicle and 유의미한 (Significant)ly suppresses tissue TNF-α expression; 생체내 (In vivo) confirmation of the in-vitro Magnoliae+Zea mays anti-inflammatory effect.
 
 ## 1. Document Information
 - Authors: Se Eun Kim¹², Sun Young Hwang¹, Yong Ho Park³, William C. Davis⁴ (Washington State Univ), Kun Taek Park⁵ (Inje Univ, corresponding ktpark@inje.ac.kr)

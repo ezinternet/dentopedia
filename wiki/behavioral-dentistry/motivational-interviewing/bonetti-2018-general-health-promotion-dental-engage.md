@@ -6,7 +6,7 @@ date: 2018-10-12
 doi: 10.1038/sj.bdj.2018.809
 source: bonetti-2018-general-health-promotion-dental-engage.md
 category: behavioral-dentistry/motivational-interviewing
-confidence: cross-sectional
+evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/bonetti-2018-general-health-promotion-dental-engage.pdf
 pdf_filename: bonetti-2018-general-health-promotion-dental-engage.pdf
 source_collection: external
@@ -18,11 +18,19 @@ relations:
 tags: [health-promotion, behavior-change, engage, feasibility, dental-primary-care, signposting]
 ---
 
-## One-line Summary
-Feasibility study (Scotland) of ENGAGE, a <5-min chairside lifestyle-risk intervention (smoking/alcohol/diet) with NHS-helpline signposting — patients accept being asked (<10% offended); 17/18 GDPs found it deliverable in a routine check-up.
+## Three-line Summary
+Feasibility study (cross-sectional; Scotland, n=200 patients + 18 GDPs) of ENGAGE, a <5-min chairside lifestyle-risk intervention (smoking/alcohol/diet) with NHS-helpline signposting, embedded in a routine check-up.
 
-## 한줄요약
-스코틀랜드 ENGAGE 실행가능성 연구 — 검진 중 5분 이내 생활습관(흡연·음주·식이) 위험 전달 + 무료 NHS 상담전화 연결. 환자 거부감 거의 없음(<10%), GDP 18명 중 17명이 실행 가능·현행 개선으로 평가.
+Fewer than 10% of patients would be offended if asked about lifestyle risks, >70% felt reassured by the professionalism, and 17/18 GDPs judged the intervention deliverable and an improvement on current practice.
+
+The study establishes patient acceptance and GDP feasibility as a foundation; whether ENGAGE actually changes behavior is deferred to a planned multi-centre UK RCT.
+
+## 세줄요약
+교차단면 실행가능성 연구(스코틀랜드; 환자 n=200, 치과의사(General Dental Practitioner, GDP) 18명) — ENGAGE는 검진 중 5분 이내 생활습관(흡연·음주·식이) 위험 전달 + 무료 NHS 상담전화 연결 중재임.
+
+환자의 10% 미만만 불쾌감을 느끼고, 70% 이상이 전문적 태도에 안심감을 보고했으며, GDP 18명 중 17명이 실행 가능·현행 진료 개선으로 평가.
+
+수용성·실행가능성은 확인되었으나 행동변화 실제 효과는 향후 영국 다기관 무작위대조시험(Randomized Controlled Trial, RCT)에서 검증 예정.
 
 ## Summary
 ENGAGE expands the dental visit from oral hygiene to **general lifestyle-risk counseling**, but keeps the burden low: communicate risk + hand a leaflet signposting to free NHS helplines, in under five minutes during a routine check-up. The study tests **acceptance, not yet effectiveness**. A central finding dismantles the common clinician assumption that patients resent such questions: fewer than 10% would be offended, over 70% would feel reassured by the professionalism. GDPs corroborated feasibility — 17 of 18 judged it deliverable and an improvement over current practice. Effectiveness for actual behavior change is deferred to a planned multi-centre UK trial.

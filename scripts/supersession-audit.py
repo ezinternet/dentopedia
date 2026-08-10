@@ -186,7 +186,7 @@ def main() -> int:
             continue  # superseded 페이지는 decay 후보에서 제외
 
         # (C) DECAY
-        conf = (fm.get("confidence", "") or "").lower()
+        conf = (fm.get("evidence_level") or fm.get("confidence") or "").lower()
         if conf in DECAY_CONFIDENCE:
             dt = parse_date(fm.get("date") or fm.get("year"))
             if dt is not None and dt <= decay_cutoff:

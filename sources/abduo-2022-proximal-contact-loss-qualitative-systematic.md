@@ -12,11 +12,21 @@ source_collection: external
 ## Why Ingested
 food-impaction 카테고리의 시간의존적 유병률 골격을 제공하는 SR로 인제스트. 기존 [[implants/kim-2026-proximal-contact-loss-implants-10years]]가 보고한 ">10년 53.7%" 고유병률이 본 SR의 long-term(>5년) 29–83.3% 범위 안에 정합함을 보여준다.
 
-## One-line Summary
-Qualitative systematic review (19 studies) showing PCL prevalence rises with service time — 11–30% (<2y), 13–65% (2–5y), 29–83.3% (>5y) — driven mainly by duration and mesial location, with food impaction and patient dissatisfaction as the chief implications.
+## Three-line Summary
 
-## 한줄요약
-정성적 SR(19편): PCL 유병률은 기능 기간에 따라 증가(<2년 11–30%, 2–5년 13–65%, >5년 29–83.3%)하며, 주요 인자는 기간·mesial 위치, 주요 결과는 식편압입과 환자 불만족이다.
+Qualitative systematic review (Heliyon 2022; 19 clinical studies; University of Melbourne) examining prevalence, influencing factors, and implications of proximal contact loss (PCL) between implant prostheses and adjacent natural teeth.
+
+PCL prevalence rises progressively with service time: 11–30% at <2 years, 13–65% at 2–5 years, 29–83.3% at >5 years; strongest influencing factors are service duration and mesial implant location; food impaction and patient dissatisfaction are the chief clinical implications.
+
+PCL is frequent, inevitable, and progressive — mesial sites require early monitoring; the impact on marginal bone loss and peri-implant inflammation remains unclear and needs prospective investigation.
+
+## 세줄요약
+
+정성적 체계적 문헌고찰 (Heliyon 2022; 임상 연구 19편; 멜버른 대학교): 임플란트 보철과 인접 자연치 간 근접면 접촉 소실 (Proximal Contact Loss, PCL) 유병률·영향인자·결과 종합.
+
+PCL 유병률은 기능 기간과 함께 증가: <2년 11–30%, 2–5년 13–65%, >5년 29–83.3%; 가장 강한 인자는 기능 기간과 mesial(근심) 위치; 주요 결과는 식편압입과 환자 불만족.
+
+PCL은 빈번·불가피·진행성 → 근심 임플란트 부위는 조기 모니터링 필요; 골소실·치주 염증과의 관련성은 불명확 → 전향적 연구 필요.
 
 ## 1. Document Information
 - Heliyon 2022;8(8):e10064. DOI 10.1016/j.heliyon.2022.e10064. Melbourne Dental School, University of Melbourne. Open access.

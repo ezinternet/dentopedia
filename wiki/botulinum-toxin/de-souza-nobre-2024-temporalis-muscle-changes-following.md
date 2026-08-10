@@ -6,7 +6,7 @@ date: 2024-05-13
 doi: 10.1007/s00266-024-04064-4
 journal: Aesthetic Plastic Surgery 2024;48:3979-3987
 source: de-souza-nobre-2024-temporalis-muscle-changes-following.md
-confidence: rct
+evidence_level: rct
 category: botulinum-toxin
 pdf_path: /Users/oracleneo/llm-wiki/papers/de-souza-nobre-2024-temporalis-muscle-changes-following.pdf
 pdf_filename: de-souza-nobre-2024-temporalis-muscle-changes-following.pdf
@@ -14,11 +14,21 @@ source_collection: external
 tags: [masseter-hypertrophy, temporalis, compensatory-hypertrophy, ultrasound, emg, adverse-effects, abobotulinumtoxinA, aesthetic]
 ---
 
-## One-line Summary
-Triple-blinded, placebo-controlled RCT (n=26 women with masseter hypertrophy) showing repeated masseter abobotulinumtoxinA injection induces dose-cumulative compensatory temporalis hypertrophy (greater thickness, p<0.02, and EMG, p<0.01, at 6 mo) plus emergent temporalis-localized pain (7/12 in the multiple-injection group at 6 mo, p<0.02).
+## Three-line Summary
 
-## 한줄요약
-교근비대 환자에서 보툴리눔 톡신 반복 주사 시 측두근(temporalis)이 보상성으로 두꺼워지고 EMG 활성·통증이 증가함을 보인 삼중맹검 RCT (n=26).
+Triple-blinded, placebo-controlled RCT (n=26 Brazilian women, masseter hypertrophy Merz II–V, randomized at 3 months to second abobotulinumtoxinA injection vs saline; 6-month follow-up; ultrasound thickness + EMG + VAS) assessing compensatory temporalis changes after repeated masseter BoNT-A.
+
+A second masseter injection induced significantly greater right temporalis thickness (p<0.02) and EMG activity (p<0.01) at 6 months compared to single injection; 7/12 in the multiple-injection group reported pain exclusively in the temporalis at 6 months (p<0.02 inter-group), with no significant change in overall VAS intensity.
+
+For aesthetic masseter hypertrophy, a single low-dose session captures most visible benefit with far less temporalis structural burden; repeated injections add little extra aesthetic improvement beyond 1 month but carry cumulative compensatory temporalis hypertrophy and emergent temporalis pain as clinically meaningful delayed adverse events.
+
+## 세줄요약
+
+줄1: 삼중맹검 위약대조 RCT(교근비대 여성 26명, 3개월에 abobotulinumtoxinA 2차 주사 vs 생리식염수 무작위 배정, 6개월 추적; 초음파 두께·EMG·VAS) — 교근 반복 BoNT-A 후 측두근 보상성 변화 평가.
+
+줄2: 2차 주사군은 6개월 시점 우측 측두근 두께(p<0.02) 및 EMG(p<0.01) 유의하게 증가; 2차 주사군 12명 중 7명이 6개월에 측두근 부위 통증만 호소(p<0.02), VAS 강도 전체 변화는 유의하지 않음.
+
+줄3: 심미 목적 교근비대 치료에서 1회 저용량 주사가 시각적 효과 대부분을 취하며 측두근 부담 최소화; 반복 주사는 1개월 이후 추가 심미 효과 없이 보상성 측두근 비대·통증이라는 누적 부작용 유발.
 
 ## Summary
 This level-I, triple-blinded, placebo-controlled RCT enrolled 26 Brazilian women (25–50 y, Merz II–V) with masseter hypertrophy (MH). All received 75 U abobotulinumtoxinA (Dysport) bilaterally in the masseter at baseline. At 3 months they were randomized 1:1 to a second injection of either saline (S-BoNT-A, n=11) or BoNT-A (M-BoNT-A, n=12). Temporalis thickness (ultrasound at MVC), EMG (RMS), masseter prominence (Merz), and VAS pain were tracked at 1, 3, and 6 months.

@@ -9,8 +9,21 @@ pdf_filename: bassir-2018-alveolar-ridge-preservation-meta-analysis.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Systematic review and meta-analysis of 21 studies on alveolar ridge preservation (ARP) versus extraction alone: ARP reduces horizontal ridge resorption by a mean of 1.86 mm (95% CI 1.44–2.28; P < .001). Outcomes are significantly modulated by socket morphology, wound closure type, grafting material, barrier membrane use, and growth factor application.
+## Three-line Summary
+
+Systematic review and meta-analysis (21 studies) comparing alveolar ridge preservation (ARP) to extraction alone on hard-tissue dimensional outcomes.
+
+ARP reduces horizontal ridge resorption by a mean of 1.86 mm (95% CI 1.44–2.28, p<0.001); six of seven outcome variables favored ARP, with significant effect modification by wound closure (p=0.033), grafting material (p=0.001), barrier membrane use (p=0.006), growth factors (p=0.003), and socket morphology (p<0.001).
+
+ARP is evidence-supported for sites destined for delayed implant placement — especially when socket walls are compromised — with technique selection guided by the modifiers identified.
+
+## 세줄요약
+
+발치 후 치조제 보존술(ARP) vs 단순 발치의 경조직 결과를 비교한 체계적 문헌고찰+메타분석(21편).
+
+ARP가 수평적 치조제 흡수를 평균 1.86 mm 유의하게 감소(95% CI 1.44–2.28, p<0.001); 창상폐쇄·이식재·차단막·성장인자·소켓 형태가 효과 크기를 유의하게 조절.
+
+지연식립 예정 발치와에서 ARP는 근거 기반 표준술식이며, 소켓 벽 손상 여부 등 임상 조절 인자로 술식을 선택해야 함.
 
 ## 1. Document Information
 - **Journal**: The International Journal of Oral & Maxillofacial Implants, 2018 (Sept/Oct issue, 05/2018)

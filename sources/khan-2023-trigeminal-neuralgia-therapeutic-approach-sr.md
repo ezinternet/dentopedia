@@ -1,6 +1,6 @@
 ---
 title: "Therapeutic Approach for Trigeminal Neuralgia: A Systematic Review"
-authors: Maaz Asad Khan, Sbinu Jose, Salem Almeslet, Sara Ayid Alghamdi, Sami Aldhuwayhi, et al.
+authors: Muhammad Haseeb Rana, Abdul Ahad Ghaffar Khan, Imran Khalid, Muhammad Ishfaq, Mukhatar Ahmed Javali, Fawaz Abdul Hamid Baig, Mohammad Zahir Kota, Mohasin Abdul Khader, Mohammad Shahul Hameed, Sharaz Shaik, Gotam Das
 year: 2023
 doi: 10.3390/biomedicines11102606
 category: oral-medicine
@@ -15,15 +15,23 @@ text_filename: khan-2023-trigeminal-neuralgia-therapeutic-approach-sr.txt
 
 ## Why Ingested
 
-삼차신경통 치과 감시(surveillance) 인제스트 — 위키에 삼차신경통(Trigeminal Neuralgia, TN) 페이지가 부재했다. 안면통증으로 내원한 환자에서 치과의가 알아야 할 약물 사다리(1차 카르바마제핀/옥스카르바제핀 → 2차 라모트리진/바클로펜 → 난치성 BoNT-A/IV lidocaine → 수술 의뢰 MVD)와 ICHD-3 진단 분류를 한 페이지로 잡기 위함. 가장 가까운 기존 페이지는 신경병성 안면통 페이지들이다 — [[oral-medicine/jaaskelainen-2018-burning-mouth-syndrome-neuropathic-pain]] (구강작열감증후군의 신경병성 본태)과 [[oral-medicine/kouri-2024-small-fiber-neuropathy-burning-mouth-syndrome]] — 이 두 페이지가 삼차신경 신경병성 통증 기전을 다루므로, TN 페이지는 같은 삼차신경 신경병증 클러스터를 보강한다.
+삼차신경통 치과 감시(surveillance) 인제스트 — 위키에 삼차신경통(Trigeminal Neuralgia, TN) 페이지가 부재했다. 안면통증으로 내원한 환자에서 치과의가 알아야 할 약물 사다리(1차 카르바마제핀/옥스카르바제핀 → 2차 라모트리진/바클로펜 → 난치성 BoNT-A/IV lidocaine → 수술 의뢰 MVD)와 ICHD-3 진단 분류를 한 페이지로 잡기 위함. 가장 가까운 기존 페이지는 신경병성 안면통 페이지들이다 — [[oral-medicine/burning-mouth-syndrome/jaaskelainen-2018-burning-mouth-syndrome-neuropathic-pain]] (구강작열감증후군의 신경병성 본태)과 [[oral-medicine/burning-mouth-syndrome/kouri-2024-small-fiber-neuropathy-burning-mouth-syndrome]] — 이 두 페이지가 삼차신경 신경병성 통증 기전을 다루므로, TN 페이지는 같은 삼차신경 신경병증 클러스터를 보강한다.
 
-## One-line Summary
+## Three-line Summary
 
 Umbrella/systematic review (11 review articles, 31 pharmacological interventions, PROSPERO CRD42023408948) confirming carbamazepine and oxcarbazepine as first-line drugs for classical trigeminal neuralgia, with lamotrigine/baclofen second-line and botulinum toxin A / IV lidocaine for refractory cases.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 엄브렐러/체계적 문헌고찰 (리뷰 11편·약물 31종) — 전형 삼차신경통의 1차 약물은 카르바마제핀·옥스카르바제핀, 2차는 라모트리진·바클로펜, 난치성에는 보툴리눔독소 A와 정맥 리도카인, 혈관압박 전형 TN의 1차 수술은 미세혈관감압술(MVD).
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

@@ -1,0 +1,15 @@
+Should we stop dual anti-platelet therapy for dental extractions? An umbrella review for this dental dilemma.
+
+Authors: Yong CW, Tan SHX, Teo GN, Tan TS, Ng WH
+Journal: J Stomatol Oral Maxillofac Surg 2022;123(6):e708-e716
+PMID 35691560 | DOI 10.1016/j.jormas.2022.06.004
+
+NOTE: abstract-only — full text not retrieved (Elsevier paywall, no PMC deposit). Content below is the PubMed abstract.
+
+Dual Anti-platelet Therapy (DAPT) are prescribed to patients who had or are at risk of cerebrovascular or cardiovascular ischemic events. This umbrella review appraises existing systematic reviews on the risk of bleeding related complications during and after dental extractions for patients on DAPT.
+
+This review was conducted according to the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines and registered to the PROSPERO (International prospective register of systematic reviews) database. A systematic electronic literature search was conducted according to the PRISMA guidelines, via PubMed, Ovid, Cochrane and Embase.
+
+Four systematic reviews met the inclusion criteria and were included the analysis. They show DAPT increases the risk of bleeding related complications after dental extractions, but the differences may not be clinically significant as local haemostatic measures were adequate in controlling bleeding.
+
+Despite the increased risk of bleeding after dental extractions in patients on DAPT, it may not be necessary to interrupt the anti-platelet therapy. Local haemostatic agents may be sufficient in controlling both the primary or secondary bleeding. On the other hand, the complications of discontinuing DAPT may be more severe and fatal.

@@ -6,7 +6,7 @@ date: 2022-04-20
 doi: 10.1111/joor.13329
 source: fornai-2022-centric-relation-matter-form-substance.md
 category: [occlusion]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: true
 pmid: "35377510"
@@ -20,13 +20,21 @@ relations:
     target: zonnenberg-2021-centric-relation-critically-revisited-clinical
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Letter/commentary (rebuttal to Zonnenberg et al. 2021) arguing that the term "centric relation" should be abandoned but condylar position remains clinically meaningful and must be monitored whenever occlusion is altered, proposing "Reference Position (RP)" as the replacement concept.
+Argumentative letter/commentary (rebuttal to Zonnenberg et al. 2021) with no new primary data, marshalling existing literature to challenge the recommendation that orthodontists can disregard condylar position by relying on adaptive remodelling.
 
-## 한줄요약
+The authors agree the "centric relation" term should be abandoned (only 29% GPT-9 expert consensus), but argue the opposite clinical conclusion: condylar position must be actively monitored whenever occlusion is altered, because adaptive remodelling is reduced in inflamed/degenerated joints and limited in adults, and no slide >2 mm was found in asymptomatic individuals (Pullinger).
 
-Zonnenberg(2021)에 대한 반박 서신으로, "centric relation" 용어는 폐기하되 교합 변경 시 과두 위치를 모니터링해야 한다고 주장하며 대체 개념으로 "Reference Position (RP)"을 제안한다.
+Clinicians should monitor condylar position and mandibular function when changing the occlusal relationship, using "Reference Position (RP)" as a substitute for the poorly-defined CR term to prevent iatrogenic TMJ effects.
+
+## 세줄요약
+
+Zonnenberg(2021) 반박 서신(새로운 1차 데이터 없음)으로, 기존 문헌을 근거로 치과교정의가 적응 개형(Adaptive Remodelling)에 의존해 과두 위치를 무시해도 된다는 주장에 반박했다.
+
+"중심위(Centric Relation, CR)" 용어 폐기에는 동의하지만(GPT-9 전문가 합의 29%), 임상 결론은 반대: 교합 변경 시 과두 위치를 반드시 모니터링해야 하며, 적응 개형은 염증·퇴행성 관절에서 감소하고 성인에서 제한적이며, 무증상 개체에서 2 mm 초과 활주가 전혀 없었다(Pullinger).
+
+교합 관계 변경 시 술자는 과두 위치와 하악 기능을 모니터링해야 하며, 불분명한 CR 용어를 대체해 "기준 위치(Reference Position, RP)" 개념을 사용함으로써 의인성 턱관절 영향을 예방해야 한다.
 
 ## Summary
 

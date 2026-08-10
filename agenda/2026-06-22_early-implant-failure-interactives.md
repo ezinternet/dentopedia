@@ -7,8 +7,8 @@ owner: 원장
 tags: [early-implant-failure, implants, interactive, risk-scorer, decision-tree]
 source_wiki:
   - wiki/overviews/early-implant-failure-risk-prevention-overview.md
-  - wiki/implants/yari-2023-risk-factors-early-implant-failure.md
-  - wiki/implants/uesugi-2024-risk-factors-early-failure-all-on-four.md
+  - wiki/implants/survival/yari-2023-risk-factors-early-implant-failure.md
+  - wiki/implants/full-arch/uesugi-2024-risk-factors-early-failure-all-on-four.md
   - wiki/drug/antibiotics/momand-2024-antibiotic-prophylaxis-early-implant-failure.md
 ---
 
@@ -19,8 +19,8 @@ source_wiki:
 # Input
 
 - wiki/overviews/early-implant-failure-risk-prevention-overview.md — 종합 thesis·evidence map·decision points
-- wiki/implants/yari-2023-risk-factors-early-implant-failure.md — 다변량 위험인자 OR (스코어러 가중치 출처)
-- wiki/implants/uesugi-2024-risk-factors-early-failure-all-on-four.md — all-on-four 즉시로딩 생존·OR (비교 도구 출처)
+- wiki/implants/survival/yari-2023-risk-factors-early-implant-failure.md — 다변량 위험인자 OR (스코어러 가중치 출처)
+- wiki/implants/full-arch/uesugi-2024-risk-factors-early-failure-all-on-four.md — all-on-four 즉시로딩 생존·OR (비교 도구 출처)
 - wiki/drug/antibiotics/momand-2024-antibiotic-prophylaxis-early-implant-failure.md — 항생제 예방 RR/NNT (결정 트리 출처)
 - 보조: fan-2024(흡연 OR 2.59)·naseri-2020·moy-2005(당뇨 RR 2.75·방사선 2.73)
 

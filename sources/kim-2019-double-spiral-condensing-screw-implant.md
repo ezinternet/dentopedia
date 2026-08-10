@@ -13,13 +13,21 @@ source_collection: external
 
 대화에서 다룬 해냄버(HaeNaem bur)의 회전방향-압축 메커니즘의 **공학적 1차 근거 문서**다. 임상 데이터 [[wiki/sinus-lift/transcrestal/changrani-2024-haenaem-zero-bone-loss-indirect-sinus-lift]] 는 "HaeNaem이 시계방향(CW)으로 골치밀화한다"는 결과만 보여줄 뿐 *왜·어떻게*는 설명하지 못한다. 이 (주)해냄 특허는 그 스크류 기하(이중 스파이럴: 압착나사산부 + 본파우더안내홈 + 하부압착돔)와 "회전방향과 반대방향 나사산" 원리를 직접 기술해, 골밀도화(Osseodensification, OD) 발명 원리를 정리한 [[wiki/implants/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] 와 대비되는 대안 엔지니어링을 문서화한다. 사용자 요청으로 인제스트.
 
-## One-line Summary
+## Three-line Summary
 
-Korean patent application (KR 10-2021-0014513 A; applicant HaeNaem Co.) for a dental "condensing screw" with a double-spiral geometry that simultaneously expands the osteotomy and densifies bone both laterally AND apically (via a lower compression dome + bone-powder guide grooves), enabling transcrestal sinus elevation in a single instrument pass.
+Korean patent application (KR 10-2021-0014513 A;
 
-## 한줄요약
+applicant HaeNaem Co.) for a dental "condensing screw" with a double-spiral geometry that simultaneously expands the osteotomy and densifies bone both laterally AND apically (via a lower compression dome + bone-powder guide grooves), enabling transcrestal sinus elevation in a single instrument pass.
+
+(incomplete)
+
+## 세줄요약
 
 (주)해냄 특허출원(공개 10-2021-0014513): 이중 스파이럴 구조 콘덴싱 스크류로, 압착나사산부가 골삭제·측방 골치밀화를 동시에 수행하고 본파우더안내홈이 분쇄골을 하부압착돔으로 보내 내측(근단)까지 골치밀화 — 측방만 압축하던 종래 버의 한계를 보완해 단일 기구로 상악동 거상까지 수행.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

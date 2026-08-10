@@ -13,13 +13,21 @@ source_collection: external
 
 The ISQ literature in [[wiki/implants/isq/tisci-2026-isq-it-mbl-survival-sr-ma]] pools implants broadly without stratifying for diameter or systemic disease; this prospective case–control study fills the gap by isolating narrow-diameter implant (NDI, 3.3 mm TiZr SLActive) stability in uncontrolled T2DM (HbA1c > 6.5%) versus normoglycemic controls, extending the ISQ loading-threshold evidence base to a high-risk, narrow-diameter clinical scenario.
 
-## One-line Summary
+## Three-line Summary
 
-Prospective case–control study (n=32 patients, 48 NDIs, 3 months) showing ISQ rose significantly in both T2DM and normoglycemic patients from Day 3 to 3 months post-placement, with no significant between-group difference and no correlation to HbA1c, supporting the clinical use of 3.3 mm SLActive TiZr NDIs in posterior sites of uncontrolled T2DM patients.
+Prospective case–control study (n=32 patients, 48 narrow-diameter implants 3.3 mm TiZr SLActive, 3-month follow-up) comparing ISQ trajectories in uncontrolled T2DM (HbA1c mean 7.34%) versus normoglycemic controls — the first study specifically examining NDI stability in hyperglycemic patients.
 
-## 한줄요약
+ISQ rose significantly in both groups from Day 3 to 3 months (T2DM: 55.87→63.84, p=0.0098; Control: 51.41→63.84, p=0.0216); no significant between-group difference at any time point and no correlation between HbA1c and ISQ; all 48 implants osseointegrated at 3 months.
 
-전향적 환자-대조군 연구(32명, 48개 세경 임플란트, 3개월): 제2형 당뇨(HbA1c>6.5%) 환자와 정상혈당 환자 모두에서 식립 후 ISQ가 유의하게 증가했으며, 두 군 간 차이 및 HbA1c와의 상관관계는 없어 당뇨 환자에서 3.3mm SLActive TiZr 세경 임플란트의 임상적 사용 가능성을 지지한다.
+SLActive-surfaced 3.3 mm TiZr NDIs appear safe in posterior sites of uncontrolled T2DM patients (HbA1c < ~8%); the hydrophilic surface may counterbalance hyperglycemia-induced impairment, but the short 3-month follow-up and small subsample size limit generalizability to higher HbA1c ranges.
+
+## 세줄요약
+
+전향적 환자-대조군 연구(32명, 3.3 mm TiZr SLActive 세경 임플란트(Narrow-Diameter Implant, NDI) 48개, 3개월) — 비조절 제2형 당뇨(HbA1c 평균 7.34%) vs 정상혈당 대조군에서 NDI ISQ 궤적을 비교한 최초 연구.
+
+두 군 모두 Day 3→3개월 ISQ 유의 증가(당뇨군 55.87→63.84, p=0.0098; 정상군 51.41→63.84, p=0.0216); 군간 차이 없음, HbA1c와 ISQ 상관 없음; 48개 전례 골유착 확인.
+
+SLActive 표면 3.3 mm TiZr NDI는 HbA1c <~8% 비조절 당뇨 환자의 구치부에서 안전하게 사용 가능해 보이나, 3개월 단기 추적·소규모 아집단으로 고HbA1c 범위·장기 결과에 대한 일반화는 제한됨.
 
 ## 1. Document Information
 

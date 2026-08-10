@@ -7,20 +7,28 @@ doi: null
 pmid: "28944373"
 source: katsoulis-2017-misfit-implant-prosthesis-clinical-outcomes-sr.md
 category: [implants]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 text_path: /Users/oracleneo/llm-wiki/papers/katsoulis-2017-misfit-implant-prosthesis-clinical-outcomes-sr.txt
 text_filename: katsoulis-2017-misfit-implant-prosthesis-clinical-outcomes-sr.txt
 tags: [misfit, passive-fit, framework, screw-complication, full-arch]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR (10 in vivo studies): marginal misfit of screw-retained implant-supported fixed dentures causes screw-related complications; biological bone loss sequelae could not be confirmed; tolerable misfit limit remains undefined.
+SR (Foundation for Oral Rehabilitation 2016 consensus SR; 2,626 records → 10 in vivo studies — 5 human [2 prospective 6–12 mo + 4 retrospective 3–32 yr], 5 animal [<12 wk]): misfit of screw-retained implant-supported fixed prostheses and its clinical impact.
 
-## 한줄요약
+Marginal misfit of screw-retained implant-supported fixed dentures is associated with increased screw-related complications; biological bone loss sequelae could not be confirmed; no tolerable misfit clinical threshold was established.
 
-체계적 문헌고찰 (생체내 10편): 나사 유지 임플란트 고정성 보철의 미스피트 → 나사 합병증; 골 소실 영향은 확인 불가; 최대 허용 미스피트 한계값 미정.
+Clinicians should aim for minimum possible misfit to reduce technical complications; standardization of misfit measurement methods (linear distortion, vertical gap, strain gauge, screw torque) is needed; limitation is methodological heterogeneity preventing meta-analysis.
+
+## 세줄요약
+
+SR (FOR 2016 합의회의 SR; 2,626건 → 10편 생체내 — 인체 5편[전향 6–12개월 2+후향 3–32년 4], 동물 5편[<12주]): 나사 유지 임플란트 고정성 보철의 미스피트와 임상 결과.
+
+나사 유지 임플란트 고정성 보철의 변연 미스피트는 나사 합병증 위험 증가와 연관; 골 소실 등 생물학적 합병증은 확인 불가; 최대 허용 임계값 미정.
+
+미스피트 최소화로 기술적 합병증 감소를 목표로 해야 함; 측정법(선형 왜곡·수직 갭·strain gauge·나사 토크) 표준화 필요; 방법론적 이질성으로 메타분석 불가한 한계.
 
 ## Summary
 
@@ -52,6 +60,6 @@ Foundation for Oral Rehabilitation (FOR) 2016 합의회의 SR. 임플란트 보�
 | Clinical threshold | None established — aim for minimum possible misfit |
 
 ## Related Papers
-- [[implants/couso-queiruga-2025-misfit-implant-prosthesis-bone-loss]] — 2025 retrospective (n=505); first quantitative bone loss threshold: gap ≥0.1 mm → higher DIB
+- [[implants/mbl/couso-queiruga-2025-misfit-implant-prosthesis-bone-loss]] — 2025 retrospective (n=505); first quantitative bone loss threshold: gap ≥0.1 mm → higher DIB
 - [[implants/jokstad-2014-3d-misfit-implant-prosthesis-long-term]] — 19yr, 3D scan: mean misfit 150 μm; screw complication group had significantly higher misfit
-- [[implants/bilgi-ozyetim-2025-biomechanical-comparison-implant-inclinations]] — FEA: angulation increases implant stress; cement-retained reduces framework stress 3.5×
+- [[implants/full-arch/bilgi-ozyetim-2025-biomechanical-comparison-implant-inclinations]] — FEA: angulation increases implant stress; cement-retained reduces framework stress 3.5×

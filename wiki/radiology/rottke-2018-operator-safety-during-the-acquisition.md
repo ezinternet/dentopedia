@@ -6,7 +6,7 @@ date: 2018-02-07
 doi: 10.1259/dmfr.20160410
 source: rottke-2018-operator-safety-during-the-acquisition.md
 category: [radiology]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: false
 pmid: "29319336"
@@ -16,13 +16,21 @@ text_filename: rottke-2018-operator-safety-during-the-acquisition.txt
 tags: [radiation-safety, handheld-xray, operator-dose, portable]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In-vitro phantom dosimetry of the Aribex NOMAD Pro 2 handheld/portable intraoral X-ray showing no operator-side scatter behind a vertical plane through the focal spot and a control area (max 42 cm, mean 16.7 cm at 4000 simulated exposures) far smaller than European/international standards — operator risk is not increased when manufacturer instructions are followed. (abstract-only — full text not retrieved)
+In-vitro phantom dosimetry study (Aribex NOMAD Pro 2 handheld/portable intraoral X-ray, RANDO head phantom, 4000 simulated exposures) assessing occupational radiation exposure for the operating clinician.
 
-## 한줄요약
+No scatter was detected on the operator side of a vertical plane through the focal spot; the control area measured a maximum of 42 cm and a mean of 16.7 cm (SD 10.8 cm) — significantly smaller than European and international radiation-protection standards.
 
-휴대용 구내 X-ray(Aribex NOMAD Pro 2) 팬텀 선량 측정 in-vitro 연구 — 초점 수직면 뒤쪽(술자 위치) 산란선 미검출, 관리구역(최대 42 cm, 4000회 모의노출 평균 16.7 cm)이 유럽·국제 기준보다 훨씬 작음. 제조사 지침 준수 시 술자 방사선 위험 증가 없음. (초록만 — 전문 미확보)
+Operator risk is not increased when manufacturer instructions are followed, providing dosimetric reassurance for clinical use of handheld intraoral X-ray devices. (abstract-only — full text not retrieved)
+
+## 세줄요약
+
+줄1: Aribex NOMAD Pro 2 휴대용 구내 X-ray 팬텀 선량 측정 in-vitro 연구 (RANDO 두부 팬텀, 4000회 모의노출) — 술자 측 산란선 노출 정량화.
+
+줄2: 초점 수직면 뒤쪽(술자 위치)에서 산란선 미검출; 관리구역 최대 42 cm, 평균 16.7 cm로 유럽·국제 기준보다 유의하게 작음.
+
+줄3: 제조사 지침 준수 시 술자 방사선 위험 증가 없음 — 휴대형 구내 X-ray 장비의 직업 방사선 안전성 근거 제공. (초록만 — 전문 미확보)
 
 ## Summary
 

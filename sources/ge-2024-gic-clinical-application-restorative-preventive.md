@@ -12,11 +12,21 @@ source_collection: external
 ## Why Ingested
 Anchor narrative review establishing the new glass-ionomer knowledge cluster; underpins [[glass-ionomer/ge-2024-gic-clinical-application-restorative-preventive]] and the planned GIC overview.
 
-## One-line Summary
+## Three-line Summary
+
 Narrative review of current evidence for GIC across restorative and preventive dentistry post-WHO Essential Medicines listing.
 
-## 한줄요약
-WHO 필수의약품 등재 이후 GIC의 적응증별 임상 근거를 정리한 narrative review.
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
+WHO 필수의약품 목록 (Essential Medicines List) 등재 이후 글래스아이오노머시멘트 (Glass Ionomer Cement, GIC)의 임상 근거를 종합 정리한 서술적 총론.
+
+적응증별 분류: 강화형 GIC (High-Viscosity GIC, HVGIC)·복합형 GIC (Resin-Modified GIC, RMGIC)·일반형 GIC (Conventional GIC, CGIC) 및 화학 중합·광중합 특성에 따른 임상 역할 정의.
+
+근거 충분: 복합수지 시멘트, 결합제, 장애아 돌봄용 치료재 (ART); 근거 미흡: 베이스/라이너 → 향후 임상 근거 필요.
 
 ## 1. Document Information
 Journal of Dental Sciences 19 (2024) Suppl., pp. S1–S9. Received 29 Jun 2024; available online 27 Jul 2024. Open access (CC BY-NC-ND). Faculty of Dentistry, University of Hong Kong.

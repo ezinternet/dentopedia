@@ -1,0 +1,107 @@
+Title: Comparison and ranking of interventions for temporomandibular disorders-myofascial pain syndrome: a Bayesian network meta-analysis based on randomized controlled trials
+Authors: Feihong Ma, Binkui Jia, Zhi Liu, Xuedong Pei, Xuehai Liu, Hongfan Li, Zhijing Song
+Journal: BMC Oral Health
+Year: 2026 (epub 2026-04-20)
+Volume/Issue: 26(1)
+DOI: 10.1186/s12903-026-08373-9
+PMID: 42010612
+PMCID: PMC13270680
+Affiliation: Department of Rehabilitation Orthopedics I, Affiliated Hospital of Gansu University of Chinese Medicine; Clinical College of Traditional Chinese Medicine, Gansu University of Chinese Medicine, Lanzhou, Gansu Province, China
+Source: PubMed Central (PMC) full text, retrieved via PubMed MCP get_full_text_article
+
+=== FULL TEXT ===
+
+Introduction
+
+Temporomandibular disorders (TMD) stand as one of the most common chronic pain conditions in the craniomaxillofacial region, primarily characterized by pain in joint areas, limited mandibular function, and associated musculoskeletal abnormalities. Epidemiological studies have indicated that approximately 5%-12% of adults are affected by TMD. Within diagnostic classification systems such as the Diagnostic Criteria for Temporomandibular Disorders (DC/TMD), masticatory muscle pain can be further categorized into subtypes including local myalgia and myofascial pain with referred pain. This finding suggests that different phenotypes may correspond to distinct pathological mechanisms and treatment responses.
+
+The mechanisms underlying temporomandibular disorders (TMD)-myofascial pain syndrome (MPS) (TMD-MPS) cannot be explained solely by peripheral factors. In addition to peripheral mechanisms like myofascial trigger points and local microcirculatory disturbances, central sensitization, nociplastic pain, impaired descending inhibition, and psychosocial factors can also markedly influence the persistence and amplification of pain. Consequently, substantial clinical heterogeneity exists within the TMD-MPS population, and the efficacy of the same intervention varies considerably among patients.
+
+Currently, treatment strategies for TMD-MPS are primarily based on reversible conservative therapies. Common interventions encompass physical therapies such as laser therapy or electrical stimulation, appliance-based therapies like bite plate treatment (BP) or oral orthodontic appliance (OA), as well as invasive or semi-invasive modalities including pharmacological agents and injections. Current clinical guidelines generally advocate a stepped-care approach: implementing basic measures like health education, behavioral and functional training, and progressively introducing other treatment modalities based on therapeutic effects and individual needs. In this decision-making process, obtaining comparable estimates of the relative analgesic effects of different interventions, along with the certainty of evidence, facilitates more rational individualized decision-making by balancing efficacy, risks, and resource availability.
+
+However, existing randomized controlled trials (RCTs) are predominantly small-sample studies, with considerable heterogeneity in parameters like intervention dosage and frequency, control settings, and follow-up windows. Moreover, direct head-to-head comparisons are insufficient. Consequently, it is challenging for traditional pairwise meta-analyses to provide unified and comparable estimates of relative effects across multiple competing interventions. Previous systematic reviews and pairwise meta-analyses have largely focused on individual or similar therapies. Existing network meta-analyses (NMA) often cover only some interventions, lacking adequate presentation of evidence updates and the certainty of evidence. NMA integrates direct and indirect evidence within a unified statistical framework, yielding comparable relative effects and providing probabilistic rankings. Accordingly, this research employed a Bayesian random-effects NMA to systematically compare and rank the short-term analgesic effects of common interventions with the change in short-term pain intensity after treatment as the primary outcome. Additionally, the reliability of the evidence was stratified utilizing the Risk of Bias 2 (RoB 2) tool and the Confidence In Network Meta-Analysis (CINeMA) framework, thereby providing evidence for the stepped and individualized comprehensive management of TMD-MPS.
+
+Materials and methods
+
+Study registration: implemented per PRISMA-NMA guidelines; registered in PROSPERO (CRD420251070432).
+
+Literature search strategy: PubMed, Embase, Cochrane Library, and Web of Science retrieved from inception until June 2025. MeSH + free-text terms. Reference lists of included studies also searched. Grey literature not systematically searched due to resource limits; supplementary trial-registry search found no eligible additional records.
+
+Inclusion and exclusion criteria (PICOS): Population — adults (≥18y) with clinical diagnosis of TMD-MPS. Intervention — physical therapies (laser treatment [LT], manual therapy [MT]), appliance-based therapies (bite plate [BP], oral appliance [OA]), pharmacological or injection therapies (lidocaine injection [LI], platelet-rich plasma [PRP], botulinum toxin injection [BTI]), and other treatments includable as network nodes. Comparison — placebo/sham, blank control, basic treatment (BT), or other active intervention. Outcome — primary outcome was change in pain intensity (VAS or NRS). Study design — RCTs only (to minimize confounding/selection bias and enhance internal validity/transitivity). English-language full-text articles only. Exclusions: non-randomized studies, reviews/case reports, unextractable/non-convertible data, duplicate publications.
+
+Data extraction and intervention standardization: Two investigators (Feihong Ma and Binkui Jia) independently extracted data (country, year, sample size, baseline characteristics, diagnostic criteria, intervention/control implementation details and key parameters, pain scales, follow-up time points); disagreements resolved via a third investigator. Primary outcome extracted preferentially at 0–4 weeks post-treatment (pre-defined "short-term" window); if unavailable, closest follow-up to end of treatment used.
+
+Intervention categorization and node merging: Categories pre-defined at protocol stage by mechanism of action/clinical implementation. Same-category interventions with comparable key parameters merged into a single network node. BT (basic treatment) served as the common reference node, encompassing (1) sham/placebo procedures (sham needling/device/laser/biofeedback, placebo/vehicle injection) and (2) minimal conservative pharmacotherapy (NSAIDs or muscle relaxants). BT included as a single node in the primary analysis to preserve network integrity.
+
+Table 1 — Characteristics of included trials and BT composition (n=14):
+- Khiavi (Iran): MPDS clinical criteria; arms BT(minimal conservative pharmacotherapy, n=5), BT+LT(n=5), BT+BP(n=5)
+- Öz (Turkey): DC/TMD; LT(n=20), OA(n=20)
+- Ozkan (Turkey): clinical diagnosis; OA(n=25), OA+LI(n=25)
+- Diracoglu (Turkey): clinical diagnosis; AC(n=25), BT(sham needling)(n=25)
+- Cattaneo (Italy): DC/TMD; TES(n=25), OA(n=25)
+- Serritella (Italy): DC/TMD; OA(n=32), BT(sham device)(n=22)
+- Magri (Brazil): DC/TMD; LT(n=20), BT(sham laser)(n=21)
+- Serrano-Hernanz (Sweden): clinical diagnosis; BI(n=37), BT(sham biofeedback)(n=35)
+- García-de la-Banda-García (Spain): clinical diagnosis; AC(n=25), MT(n=25)
+- Sousa (Spain): DC/TMD; AC(n=20), MP(n=20), IC(n=20)
+- Guarda-Nardini (Italy): DC/TMD; BTI(n=15), PRP(n=15)
+- Nitecka-Buchta (Poland): DC/TMD; PRP(n=29), BT(placebo/vehicle injection)(n=29)
+- Sakalys (Lithuania): Simons' trigger point criteria; LI(n=25), PRP(n=25)
+- Canales 2020 (Brazil): DC/TMD; AC(n=18), BTI(n=18), BT(placebo)(n=18)
+
+Handling missing data: authors contacted first; otherwise SDs estimated per Cochrane Handbook from mean differences/CrIs/P-values with unified conversion formulas.
+
+Transitivity assumption: restricted to adult TMD-MPS + RCT design; key effect modifiers (baseline pain, disease duration, diagnostic criteria, intervention parameters, follow-up windows, psychosocial factors) pre-identified and documented; particular attention to BT composition variability and small peripheral nodes.
+
+Risk of bias (RoB 2): parallel RCTs assessed across 5 domains (randomization process, deviations from intended interventions, missing outcome data, outcome measurement, selection of reported result); overall judgment low/some-concerns/high risk per predefined algorithm; primary outcome for RoB = pain intensity at latest post-treatment assessment.
+
+Certainty of evidence (CINeMA): 6 domains — within-study bias (from RoB2), reporting bias, indirectness, imprecision, heterogeneity, incoherence (node-splitting). Certainty graded high/moderate/low/very low.
+
+Statistical analysis: Bayesian random-effects NMA via gemtc and rjags packages in R 4.4.0. Continuous outcomes as standardized mean differences (SMD) with 95% credible intervals (CrI). 4 Markov chains, 50,000 iterations each, first 10,000 as burn-in; non-informative priors. Convergence via trace plots + Gelman-Rubin statistic (PSRF). Local inconsistency via node-splitting. SUCRA computed for relative rankings under model convergence/no significant inconsistency.
+
+Sensitivity analyses planned: (1) excluding high-RoB studies, (2) adjusting BT node composition by sham/placebo vs conservative-treatment subtype — NOT performed due to network sparsity (several key interventions supported by only one trial each; would cause disconnection/instability).
+
+Results
+
+Literature screening: 9,378 records retrieved (0 additional from trial registries); 2,851 duplicates removed; 6,527 title/abstract screened; 6,313 excluded; 214 full-text assessed; 200 excluded (165 ineligible population/outcome/design or non-RCT; 35 insufficient data). 14 RCTs included (PRISMA 2020 flow).
+
+Characteristics of included studies: published 2010–2024; conducted in Iran, Turkey, Italy, Brazil, Sweden, Spain, Poland, Lithuania, and other countries. Adult TMD-MPS population, total n=674. Proportion of females consistently high (mostly >70%). 14 intervention categories; network comprised 15 direct comparisons (17 comparisons total). Key nodes LI, IC, TES, OA+LI, BTI each supported by direct evidence from only one trial — relatively sparse network for certain comparisons.
+
+Risk of bias (RoB 2): of 14 RCTs, 9 (64.3%) high risk of bias, 5 (35.7%) some concerns; none low risk. Domain 1 (randomization): 11 studies some concerns (insufficient reporting of sequence generation/allocation concealment). Domain 2 (deviations from intended interventions) and Domain 4 (outcome measurement) were the main sources of overall high risk (9 studies high risk in each) — related to blinding difficulty and subjective pain outcomes. Domain 3 (missing outcome data): 7 low risk, 7 some concerns. Domain 5 (selective reporting): 8 studies some concerns (insufficient protocol/registration reporting). Overall: evidence may carry risk of effect overestimation; interpret cautiously alongside effect sizes/interval width/certainty.
+
+Network structure: good connectivity, no isolated nodes. AC, OA, BP, TES, BI occupied central network positions with substantial direct evidence. LI, IC, PRP were peripheral, relying more heavily on indirect evidence (higher uncertainty).
+
+NMA results (vs. BT reference): LI (SMD=-2.37, 95%CrI -3.67 to -0.90), IC (SMD=-2.21, 95%CrI -3.63 to -0.75), PRP (SMD=-1.45, 95%CrI -2.21 to -0.56), and LT (SMD=-0.91, 95%CrI -1.58 to -0.13) showed statistically significant advantages over BT. Remaining interventions (BP, OA, OA+LI, AC, TES, MT, muscle relaxant pharmacotherapy [MP], BTI, BI) had CrIs crossing null vs. BT. LI and IC lacked direct head-to-head comparison with BT — relative effects derived primarily from indirect pathways.
+
+SUCRA rankings: LI (91.7%) and IC (88.7%) top-ranked, followed by PRP (68.6%), TES (67.5%), OA+LI (66.6%), BTI (66.5%). BT (10.7%) and BI (11.2%) ranked lowest.
+
+League table (pairwise): consistent with NMA — LT, IC, PRP, LI CrIs vs BT did not cross null. LI differed from OA, AC, BI, MT. IC also superior to AC, BI, MT. TES/OA+LI/BTI ranked relatively high but most pairwise CrIs crossed null (substantial uncertainty).
+
+Consistency/model diagnostics: node-splitting found no statistically significant inconsistency (e.g., LT vs BT p=0.808, BP vs BT p=0.802, BP vs LT p=0.802, all p>0.05). PSRF ranged 1.00–1.30, mostly <1.20 — acceptable convergence. Pre-specified sensitivity analyses NOT performed (network sparsity — single-trial-supported key nodes would cause disconnection/instability).
+
+Certainty of evidence (CINeMA): generally low to very low for key comparisons. LT and PRP: statistically significant vs BT but each from only one small single RCT with RoB/heterogeneity concerns → Low certainty. LI and IC: large effect sizes but no direct comparison with BT, relying mainly on indirect evidence → Very low certainty.
+
+Table 2 — Certainty of evidence for key comparisons (vs BT):
+- LI vs BT: SMD -2.37 (-3.67, -0.90); no direct RCT; Very low; reasons: no direct comparison, mostly indirect evidence, high RoB, imprecision
+- IC vs BT: SMD -2.21 (-3.63, -0.75); no direct RCT; Very low; reasons: no direct comparison, mostly indirect evidence, high RoB, heterogeneity
+- PRP vs BT: SMD -1.45 (-2.21, -0.56); 1 RCT (n=58); Low; reasons: single small RCT, RoB concerns, heterogeneity (sd.d≈0.38)
+- LT vs BT: SMD -0.91 (-1.58, -0.13); 1 RCT (n=41); Low; reasons: single small RCT, RoB concerns, heterogeneity (sd.d≈0.38), CrI close to null
+- TES vs BT: SMD -1.42 (-2.81, 0.02); no direct RCT; Very low; reasons: no direct comparison, CrI crosses null (serious imprecision), indirectness
+- OA+LI vs BT: SMD -1.40 (-2.77, 0.06); no direct RCT; Very low; reasons: no direct comparison, CrI crosses null, indirectness and RoB
+- BTI vs BT: SMD -1.45 (-2.84, 0.06); 1 RCT (n=36); Very low; reasons: single small RCT, CrI crosses null, subjective outcome and blinding issues
+
+Discussion
+
+14 RCTs (n=674) were included in a Bayesian random-effects NMA comparing short-term analgesic effects (0–4 weeks) of interventions for TMD-MPS. LI, IC, PRP, and LT showed superior short-term analgesic effects vs BT; LI and IC had the most pronounced effect sizes. SUCRA rankings reflect only relative probability-level superiority — should be interpreted alongside effect sizes and CrIs, not used directly for clinical prioritization.
+
+Proposed mechanisms: LI reduces nociceptive input by blocking sodium channels. IC improves local status and activates pain modulation via sustained pressure. PRP modulates inflammation and promotes tissue repair via growth factors. LT enhances metabolism and downregulates inflammatory signaling via photobiomodulation. These are consistent with current understanding of trigger-point sensitization and soft-tissue abnormality pathogenesis in TMD-MPS, but the supporting evidence is mostly from basic research or small-sample clinical observations; actual effects may be influenced by disease duration, trigger-point distribution, and individual pain-modulation capacity.
+
+Clinical implication: first-line management for TMD-MPS remains health education, behavioral training, and reversible conservative therapies. When conventional management is suboptimal, LT or PRP can serve as adjunctive options (relatively standardized/reproducible procedures, easier clinical adoption). In patients with distinct trigger points and pronounced pain needing relatively rapid relief, LI or IC may be considered — LI is invasive and highly operator-experience-dependent (strict indication adherence and risk management warranted); IC is convenient/low-cost but demands skillful technique for appropriate pressure/consistency. Treatment selection should weigh effect magnitude, patient preference, accessibility, cost, comorbidities, contraindications, and functional/quality-of-life outcomes.
+
+Future research priorities: head-to-head trials of key interventions (LI vs IC, LT vs PRP, and comparisons with standardized BT) with unified parameters/courses; extended follow-up for persistence/safety; core outcome sets and standardized effect-modifier reporting.
+
+Limitations: relatively small number of included studies/sample size; follow-up predominantly within 0–4 weeks (short-term effects only); some interventions supported by only a single study (limited direct evidence, wide indirect-estimate CrIs); BT implementation varied across studies (potential clinical heterogeneity); blinding difficult to implement in many RCTs; pain outcomes largely subjective (bias risk); grey literature and non-English studies excluded; study population skewed female; key covariates underreported — limits generalizability.
+
+Conclusion and prospects: LI, IC, PRP, and LT may be more effective than BT for short-term analgesia in TMD-MPS, with LI and IC most superior — but certainty of evidence is low to very low; results should be interpreted cautiously and used to generate hypotheses/prioritize future head-to-head RCTs rather than to directly guide clinical treatment-pathway prioritization. Future studies should standardize intervention/control settings, conduct larger higher-quality head-to-head RCTs with extended follow-up, focus on long-term efficacy/safety, and incorporate core outcomes to identify optimal treatment strategies.
+
+=== END FULL TEXT ===

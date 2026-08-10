@@ -10,8 +10,21 @@ pdf_filename: minston-2025-effect-pain-following-botulinum-toxin.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Swedish multicentre double-blind RCT pilot (n=45) — single 100-U Botox session into masseter and temporalis showed no significant change in days with functional jaw pain at 2 months (p=0.585) vs. saline in DC/TMD-diagnosed jaw myalgia.
+## Three-line Summary
+
+Swedish multicentre double-blind RCT pilot (n=45) — single 100-U Botox session
+
+into masseter and temporalis showed no significant change in days with
+
+functional jaw pain at 2 months (p=0.585) vs. saline in DC/TMD-diagnosed jaw myalgia.
+
+## 세줄요약
+
+Swedish multicentre double-blind 무작위 대조 시험 (RCT) pilot (n=45) — single 100-U Botox session
+
+into masseter and temporalis 보였음 no 유의미한 (Significant) change in days with
+
+functional jaw pain at 2 months (p=0.585) 대 (vs). saline in DC/TMD-diagnosed jaw myalgia.
 
 ## 1. Document Information
 - **Journal**: Journal of Oral Rehabilitation 2025;52:587-596

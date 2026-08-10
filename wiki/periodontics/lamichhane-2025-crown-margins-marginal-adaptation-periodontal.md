@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1186/s12903-025-07288-1
 source: lamichhane-2025-crown-margins-marginal-adaptation-periodontal.md
 category: [periodontics]
-confidence: cross-sectional
+evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/lamichhane-2025-crown-margins-marginal-adaptation-periodontal.pdf
 pdf_filename: lamichhane-2025-crown-margins-marginal-adaptation-periodontal.pdf
 source_collection: external
@@ -18,13 +18,21 @@ relations:
     target: hajaj-2025-marginal-tooth-preparation-periodontal-health
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Analytical cross-sectional study (Nepal, n=95, split-mouth) — fixed-dental-prosthesis abutment teeth had significantly higher plaque index, gingival index, probing depth and clinical attachment loss than contralateral matched non-abutment teeth (all p<0.001); prosthesis duration and material affected PI/GI, but margin location showed no significant effect on abutment periodontal parameters.
+Analytical cross-sectional split-mouth study (Nepal, n=95, Oct 2023–Sep 2024) comparing periodontal status of FDP abutment teeth versus contralateral matched non-abutment teeth in healthy non-smoking adults aged 20–50.
 
-## 한줄요약
+Abutment teeth showed significantly higher plaque index, gingival index, probing depth, and clinical attachment loss than non-abutment teeth (all p<0.001); prosthesis duration and material each influenced PI/GI, but margin location showed no significant effect on any periodontal parameter.
 
-분석적 단면연구(네팔, n=95, split-mouth): 고정성 보철 지대치는 대측 비지대치보다 PI·GI·PD·CAL이 모두 유의하게 높음(p<0.001). 사용기간·재료는 PI/GI에 영향, 변연 위치는 지대치 치주지표에 유의한 영향 없음.
+The cross-sectional design establishes association only; the null result for margin location is counter-intuitive and warrants replication in larger, longitudinal designs.
+
+## 세줄요약
+
+분석적 단면 split-mouth 연구(네팔, n=95, 2023.10–2024.09) — 건강한 비흡연 성인(20–50세)의 고정성 보철 지대치와 대측 비지대치의 치주지표를 비교.
+
+지대치는 비지대치보다 PI·GI·PD·CAL 모두 유의하게 불량(p<0.001); 보철 사용기간·재료는 PI/GI에 영향을 미쳤으나, 변연 위치(치은상·치은변연·치은연하)는 어떤 치주지표에도 유의한 영향을 미치지 않음.
+
+횡단 설계로 연관성만 확인됨; 변연 위치의 무효 결과는 반직관적이며 대규모 종단 연구로 재확인 필요.
 
 ## Summary
 

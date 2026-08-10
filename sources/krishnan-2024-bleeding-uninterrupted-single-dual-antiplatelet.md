@@ -10,8 +10,21 @@ pdf_filename: krishnan-2024-bleeding-uninterrupted-single-dual-antiplatelet.pdf
 source_collection: external
 ---
 
-## One-line Summary
-인도 Amrita Vishwa Vidyapeetham 비교연구: 단일/이중 항혈소판제 (SAPT/DAPT) 지속하 단순 발치 시 출혈 시간 — DAPT가 SAPT 대비 다소 길지만 모두 임상적 의미 있는 출혈 합병증 없이 국소 지혈로 통제; DAPT 발치 위해 중단 불필요.
+## Three-line Summary
+
+인도 Amrita Vishwa Vidyapeetham 비교연구: 단일/이중 항혈소판제 (SAPT/DAPT) 지속하 단순 발치
+
+시 출혈 시간 — DAPT가 SAPT 대비 다소 길지만 모두 임상적
+
+의미 있는 출혈 합병증 없이 국소 지혈로 통제; DAPT 발치 위해 중단 불필요.
+
+## 세줄요약
+
+인도 Amrita Vishwa Vidyapeetham 비교연구: 단일/이중 항혈소판제 (SAPT/DAPT) 지속하 단순 발치
+
+시 출혈 시간 — DAPT가 SAPT 대비 다소 길지만 모두 임상적
+
+의미 있는 출혈 합병증 없이 국소 지혈로 통제; DAPT 발치 위해 중단 불필요.
 
 ## 1. Document Information
 - Authors: Krishnan Nitin Anand et al.
@@ -28,7 +41,7 @@ source_collection: external
 Comparative study comparing bleeding time after extraction in SAPT vs DAPT patients, with uninterrupted antiplatelet therapy.
 
 ## 4. Key Results
-[근거강함] Both SAPT and DAPT groups bleeding controllable with local hemostasis; DAPT longer bleeding time but no clinically significant bleeding complications.
+[확인] Both SAPT and DAPT groups bleeding controllable with local hemostasis; DAPT longer bleeding time but no clinically significant bleeding complications.
 
 ## 5. Limitations
 - Single center, comparative observational

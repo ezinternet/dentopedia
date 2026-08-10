@@ -11,15 +11,23 @@ source_collection: external
 
 ## Why Ingested
 
-Adds oral cGVHD — listed as an OPMD by [[oral-medicine/warnakulasuriya-2021-opmd-consensus-nomenclature-who]] — to the wiki, and links the oral-medicine cluster to the HCT-survivor population covered in [[drug/batlle-2021-oral-complaints-aml-stem-cell-transplant]].
+Adds oral cGVHD — listed as an OPMD by [[oral-medicine/opmd/warnakulasuriya-2021-opmd-consensus-nomenclature-who]] — to the wiki, and links the oral-medicine cluster to the HCT-survivor population covered in [[drug/batlle-2021-oral-complaints-aml-stem-cell-transplant]].
 
-## One-line Summary
+## Three-line Summary
 
-Narrative mini-review of oral chronic graft-versus-host disease (cGVHD) — a lichenoid/sicca/sclerotic complication of allogeneic HCT (30-50% of recipients) — covering NIH 2014 diagnostic criteria and a topical-to-systemic immunosuppressive management ladder.
+Narrative mini-review (Frontiers in Oral Health 2022, two oral-medicine specialists) of oral chronic graft-versus-host disease (cGVHD), covering its three clinical entities — lichenoid mucositis, immune-mediated salivary dysfunction, and tissue sclerosis/trismus — in allogeneic HCT recipients.
 
-## 한줄요약
+Oral cGVHD develops in 30–50% of alloHCT recipients (>90% within 12 months); diagnosis applies NIH 2014 criteria; mucosal ulceration raises bacteremia and secondary-malignancy risk; management escalates from topical corticosteroid rinses to systemic immunosuppression.
 
-구강 만성 이식편대숙주병(cGVHD) 내러티브 미니리뷰 — 동종 조혈모세포이식 수혜자의 30-50%에서 발생하는 태선양·건조·경화 합병증, NIH 2014 진단기준과 국소→전신 면역억제 치료 단계 정리.
+Oral cGVHD is a leading cause of late post-HCT morbidity and constitutes an OPMD; evidence for specific topical regimens is limited, so management relies on expert consensus rather than high-quality trials.
+
+## 세줄요약
+
+내러티브 미니리뷰(Frontiers in Oral Health 2022, 구강내과 전문의 2명): 동종 조혈모세포이식(Allogeneic Hematopoietic Cell Transplantation, alloHCT) 수혜자에서 나타나는 구강 만성 이식편대숙주병(Chronic Graft-Versus-Host Disease, cGVHD) — 태선양 점막염·면역 매개 타액선 기능 장애·조직 경화/개구 제한 세 가지 임상 형태 정리.
+
+alloHCT 수혜자의 30–50%에서 구강 cGVHD 발생(>90%는 12개월 이내); NIH 2014 진단 기준 적용; 점막 궤양은 균혈증·이차 악성 종양 위험 증가; 치료는 국소 스테로이드 구강세척제에서 전신 면역억제제로 단계적 상향 조정.
+
+구강 cGVHD는 이식 후 후기 이환율의 주요 원인이자 잠재악성질환(Oral Potentially Malignant Disorder, OPMD)에 해당; 특정 국소 요법에 대한 근거는 제한적이어서 관리는 전문가 합의에 의존.
 
 ## 1. Document Information
 

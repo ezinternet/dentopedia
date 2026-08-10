@@ -6,18 +6,28 @@ date: 2024-01-15
 doi: 10.1002/cre2.849
 source: blyleven-2024-periodontal-implant-surgery-complications.md
 category: periodontics
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/blyleven-2024-periodontal-implant-surgery-complications.pdf
 pdf_filename: blyleven-2024-periodontal-implant-surgery-complications.pdf
 source_collection: external
 tags: [complications, surgical-outcome, sinus-elevation, soft-tissue-graft, GBR, residency-training, US-Army]
 ---
 
-## One-line Summary
-Single-site retrospective chart review of 1135 periodontal/implant surgeries (8 residents, 4 years): intraoperative complications 2.8%, postoperative 15.2%; lateral sinus elevation was the strongest intraoperative predictor (OR 102.5), while SCTG and GBR roughly tripled postoperative complication odds (OR ~3.0–3.2); procedure type far outweighed operator/patient factors.
+## Three-line Summary
 
-## 한줄요약
-1135건 치주·임플란트 수술 후향 차트 리뷰: 술중 합병증 2.8%·술후 합병증 15.2%, 측방 상악동거상술 (Lateral Sinus Elevation, lateral SES)이 술중 합병증의 가장 강력한 예측 인자 (오즈비 (Odds Ratio, OR) 102.5), 결합조직이식 (Subepithelial Connective Tissue Graft, SCTG)·골유도재생 (Guided Bone Regeneration, GBR)이 술후 합병증을 약 3배 증가시킴.
+Single-site retrospective chart review (STROBE-compliant) of 1135 periodontal and implant surgeries performed by 8 periodontics residents over 4 years at a US Army graduate dental school.
+
+Intraoperative complications occurred in 2.8% of cases (lateral sinus elevation OR 102.5 vs delayed implant placement) and postoperative complications in 15.2% (SCTG OR 3.2; GBR alone OR 3.0; GBR+implant OR 3.1); operator, patient age, sex, diabetes, and smoking were not independent predictors.
+
+Procedure type dominates complication risk; pre-consent counseling for lateral sinus elevation and extended follow-up protocols for SCTG/GBR are indicated regardless of operator experience level.
+
+## 세줄요약
+
+미 육군 치주과 레지던트 8명이 4년간 시행한 치주·임플란트 수술 1135건의 단일기관 후향적 차트 리뷰(STROBE 준수).
+
+술중 합병증 2.8%(측방 상악동거상술(Lateral Sinus Elevation, lateral SES) 오즈비(Odds Ratio, OR) 102.5 vs 지연 임플란트 식립), 술후 합병증 15.2%(결합조직이식(Subepithelial Connective Tissue Graft, SCTG) OR 3.2; 골유도재생(Guided Bone Regeneration, GBR) OR 3.0); 술자·환자 특성은 독립 예측인자 아님.
+
+합병증 위험은 술자보다 술식 유형이 결정; lateral SES는 사전 동의에서 높은 술중 위험을 강조, SCTG·GBR은 확장된 술후 추적이 필요.
 
 ## Summary
 Single-investigator retrospective chart review of 1135 periodontal and dental implant surgeries performed by 8 periodontics residents at the US Army Postgraduate Dental School (Fort Eisenhower, GA) from July 2018 to June 2022. Intraoperative complications occurred in 2.8% of cases and postoperative complications in 15.2%. Procedure type was the dominant driver of complications, far outweighing operator-, patient-, or site-level factors.

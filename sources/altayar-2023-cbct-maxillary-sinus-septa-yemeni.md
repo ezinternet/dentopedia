@@ -9,8 +9,21 @@ pdf_filename: altayar-2023-cbct-maxillary-sinus-septa-yemeni.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Cross-sectional CBCT study of 880 maxillary sinuses (440 Yemeni patients): sinus septa present in 63.9% of patients and 47% of sinuses; mean septum height 5.2 mm; most originated from the floor (54.5%), located in the middle region (43%), with coronal orientation (66%) and complete configuration (58.2%) — among the highest prevalence figures reported in the literature.
+## Three-line Summary
+
+Retrospective cross-sectional CBCT study (n=880 maxillary sinuses, 440 Yemeni patients; West China School of Stomatology / Taiz University; BMC Oral Health 2023) characterizing maxillary sinus septa prevalence, morphology, and anatomical parameters relevant to sinus floor elevation planning.
+
+Septa were present in 63.9% of patients and 47% of sinuses — among the highest figures in the literature; mean height 5.2 mm; most arose from the sinus floor (54.5%), were located in the middle region (43%), with coronal orientation (66%) and complete configuration (58.2%); no significant association with gender, age, dental status, or Schneiderian membrane pathology was found.
+
+The high septa prevalence in this Yemeni cohort underscores the need for preoperative CBCT screening before lateral window sinus floor elevation; single-population retrospective design without surgical correlation limits generalizability.
+
+## 세줄요약
+
+후향적 단면 CBCT 연구 (상악동 880개, 예멘 환자 440명; West China School of Stomatology/타이즈대학; BMC Oral Health 2023) — 측방 상악동거상술 계획에 관련된 상악동 격벽의 유병률·형태·해부학적 특성 평가.
+
+격벽 유병률: 환자의 63.9%, 상악동의 47% — 문헌상 최고 수준; 평균 높이 5.2 mm; 동바닥 기원 54.5%, 중간 부위 43%, 관상 방향 66%, 완전형 58.2%; 성별·연령·치아 상태·슈나이더막 병리와 유의 상관 없음.
+
+예멘 코호트의 높은 격벽 유병률은 측방 상악동거상술 전 CBCT 스크리닝의 필요성 강조; 단일 인구·후향적 설계·수술 결과 연관 없음으로 일반화 제한.
 
 ## 1. Document Information
 - **Journal**: BMC Oral Health 2023; 23: 466

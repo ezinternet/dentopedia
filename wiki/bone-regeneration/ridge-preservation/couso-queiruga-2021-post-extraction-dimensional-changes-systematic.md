@@ -6,7 +6,7 @@ date: 2020-10-17
 doi: 10.1111/jcpe.13390
 source: couso-queiruga-2021-post-extraction-dimensional-changes-systematic.md
 category: [bone-regeneration/ridge-preservation]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/couso-queiruga-2021-post-extraction-dimensional-changes-systematic.pdf
 pdf_filename: couso-queiruga-2021-post-extraction-dimensional-changes-systematic.pdf
 source_collection: external
@@ -16,11 +16,21 @@ relations:
     target: tan-2012-post-extractional-alveolar-dimensional-changes
 ---
 
-## One-line Summary
-SR+MA (28 studies, 20 pooled): unassisted post-extraction healing yields horizontal loss of 2.5–2.7 mm and buccal vertical loss of 1.7 mm at non-molar sites, and 3.6 mm horizontal loss at molar sites — providing the benchmark figures against which ARP interventions are compared.
+## Three-line Summary
 
-## 한줄요약
-체계적 문헌고찰·메타분석 (Systematic Review with Meta-Analysis, SR+MA, n=28 연구·20 풀링) — 발치 후 자연치유 시 비대구치는 수평 2.5–2.7 mm, 수직 협측 1.7 mm 흡수되고, 대구치는 수평 3.6 mm 흡수되어 치조제보존술 (Alveolar Ridge Preservation, ARP) 시행 여부 비교의 기준 수치를 제공한다.
+PRISMA SR+MA (PROSPERO-registered, 28 studies, 20 pooled, J Clin Periodontol 2021) quantifying alveolar ridge resorption from unassisted post-extraction healing across non-molar and molar sites, stratified by clinical vs. radiographic measurement.
+
+Non-molar clinical horizontal loss: −2.73 mm (95% CI 2.36–3.11); mid-facial vertical: −1.71 mm; radiographic: −2.54 mm / −1.65 mm; molar radiographic horizontal: −3.61 mm — demonstrating molars lose significantly more horizontal width than non-molars.
+
+These values are the current benchmark "no treatment" baseline against which any ARP, immediate implant, or socket-shield protocol must be measured, replacing the single pooled −3.79 mm figure from Tan 2012 with tooth-type-specific estimates.
+
+## 세줄요약
+
+PRISMA 체계적 문헌고찰 및 메타분석 (Systematic Review with Meta-Analysis, SR+MA, PROSPERO 등록, 28편, 20편 풀링, J Clin Periodontol 2021): 치조제 보존술 (ARP) 미시행 시 자연치유로 발생하는 치조제 흡수 정량 — 비대구치·대구치, 임상·방사선 측정 층화.
+
+비대구치 임상 수평 손실 −2.73 mm (95% CI 2.36–3.11); 협측 수직 −1.71 mm; 방사선 수평 −2.54 mm/협측 수직 −1.65 mm; 대구치 방사선 수평 −3.61 mm — 대구치가 비대구치보다 수평 폭 소실이 유의하게 큼.
+
+현재 ARP·즉시 임플란트·소켓 실드 효과 비교의 "무처치 기준 수치" — Tan 2012의 단일 풀링값 (−3.79 mm)을 치아 유형별 특이적 추정치로 대체.
 
 ## Summary
 Couso-Queiruga et al. (2021, J Clin Periodontol) is a PRISMA-compliant systematic review with random-effects meta-analysis quantifying the magnitude of alveolar ridge resorption that occurs after tooth extraction when no socket management is performed. Pre-registered in PROSPERO (CRD42020178857), the review pooled 28 studies (20 in quantitative synthesis) and stratified outcomes by measurement modality (clinical vs radiographic) and by anatomic site (non-molar vs molar). The headline numbers — ~2.5–2.7 mm horizontal and ~1.4–1.7 mm vertical loss at non-molar sites and ~3.6 mm horizontal at molars — serve as the benchmark "no treatment" baseline against which any ARP, immediate implant, or socket-shield protocol must be judged.

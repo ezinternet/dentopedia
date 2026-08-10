@@ -7,7 +7,7 @@ owner: 원장
 priority: P2
 tags: [implant, angulation, nonaxial, mbl, occlusion, interactive]
 source_wiki:
-  - wiki/implants/kim-2026-implant-angulation-peri-implant-bone.md
+  - wiki/implants/peri-implantitis/kim-2026-implant-angulation-peri-implant-bone.md
   - wiki/overviews/implant-occlusion-loading-biomechanics-overview.md
   - wiki/occlusion/di-fiore-2022-periimplant-bone-loss-overload-occlusal-analysis.md
 output:
@@ -20,7 +20,7 @@ output:
 
 # Input
 
-- wiki/implants/kim-2026-implant-angulation-peri-implant-bone.md — 주 데이터(비축 0.22 vs 축 0.10 mm, 각도×대합치 상호작용 Δ0.373 mm, 15°마다 응력 +25%·30°↑ +50%)
+- wiki/implants/peri-implantitis/kim-2026-implant-angulation-peri-implant-bone.md — 주 데이터(비축 0.22 vs 축 0.10 mm, 각도×대합치 상호작용 Δ0.373 mm, 15°마다 응력 +25%·30°↑ +50%)
 - wiki/overviews/implant-occlusion-loading-biomechanics-overview.md — 생역학 맥락(PDL 부재, stress concentration)
 - wiki/occlusion/di-fiore-2022-periimplant-bone-loss-overload-occlusal-analysis.md — 과부하-골소실 근거 한계
 

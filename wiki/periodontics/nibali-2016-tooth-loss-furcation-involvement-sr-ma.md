@@ -6,18 +6,28 @@ date: 2015-12-21
 doi: 10.1111/jcpe.12497
 source: nibali-2016-tooth-loss-furcation-involvement-sr-ma.md
 category: [periodontics]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/nibali-2016-tooth-loss-furcation-involvement-sr-ma.pdf
 pdf_filename: nibali-2016-tooth-loss-furcation-involvement-sr-ma.pdf
 source_collection: external
 tags: []
 ---
 
-## One-line Summary
-Systematic review and meta-analysis (21 longitudinal studies, ≥3-year follow-up) on tooth loss in molars with furcation involvement (FI) during SPT: FI was borderline associated with tooth loss at ≤10 years (RR 1.46, p=0.06) and significantly doubled the risk at 10–15 years (RR 2.21, p<0.0001), yet most molars — even grade III FI — responded well to periodontal therapy, supporting tooth preservation.
+## Three-line Summary
 
-## 한줄요약
-21개 종단 연구 메타분석 결과, 치근분지부 침범(Furcation Involvement) 대구치는 유지관리(SPT) 10–15년 시 발치 위험이 약 2.21배이나, 3도 포함 대부분은 치주치료로 보존 가능.
+SR+MA of 21 longitudinal studies (≥3-year follow-up, Ovid Medline/Embase/LILACS/Cochrane, 1207 titles screened) on tooth loss in furcation-involved molars during supportive periodontal therapy.
+
+Furcation involvement (FI) was borderline significantly associated with tooth loss at ≤10 years (RR 1.46, 95% CI 0.99–2.15, p=0.06) and significantly doubled the risk at 10–15 years (RR 2.21, 95% CI 1.79–2.74, p<0.0001); risk increased gradually from grade I through grade III FI.
+
+Most molars — including those with grade III FI — responded well to periodontal therapy, supporting an active tooth-preservation approach before extraction; degree of FI is a time-dependent prognostic factor rather than an immediate extraction trigger.
+
+## 세줄요약
+
+21개 종단 연구(추적 ≥3년, 1207편 검색) SR+MA: 치주 유지관리(SPT) 중 치근이개부 침범(Furcation Involvement, FI) 대구치의 발치 위험 분석.
+
+FI는 ≤10년 시 발치 위험과 경계선 관련성(RR 1.46, p=0.06), 10–15년 시 유의하게 약 2.21배(RR 2.21, 95% CI 1.79–2.74, p<0.0001); 1도→2도→3도로 갈수록 위험 점진적 증가.
+
+3도 FI 포함 대부분의 대구치가 치주치료에 잘 반응해 보존 가능 — FI는 즉각적 발치 기준이 아닌 시간 의존적 예후 인자임을 지지.
 
 ## Summary
 This SR+MA analyzed 21 longitudinal studies (≥3-year follow-up) examining the risk of tooth loss in molars with furcation involvement (FI) during SPT. FI was borderline significantly associated with increased tooth loss at ≤10 years (RR 1.46, p=0.06), and significantly doubled tooth loss risk at 10–15 years (RR 2.21, p<0.0001). Importantly, most molars — even those with grade III FI — responded well to periodontal therapy, supporting a tooth-preservation approach.
@@ -46,4 +56,4 @@ This SR+MA analyzed 21 longitudinal studies (≥3-year follow-up) examining the 
 
 ## Related Papers
 - [[periodontics/manresa-2018-supportive-periodontal-therapy-cochrane-sr]] — Cochrane SR on SPT protocols; context for maintenance phase
-- [[periodontics/stavropoulos-2021-periodontal-regeneration-intrabony-nma]] — intrabony defect regeneration outcomes, complementary evidence for periodontal prognosis
+- [[periodontics/host-modulation/stavropoulos-2021-periodontal-regeneration-intrabony-nma]] — intrabony defect regeneration outcomes, complementary evidence for periodontal prognosis

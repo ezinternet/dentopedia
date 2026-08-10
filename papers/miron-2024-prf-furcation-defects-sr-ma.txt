@@ -1,0 +1,124 @@
+TITLE: Periodontal regeneration using platelet-rich fibrin. Furcation defects: A systematic review with meta-analysis
+AUTHORS: Miron RJ, Moraschini V, et al.
+JOURNAL: Periodontology 2000 (2024)
+DOI: 10.1111/prd.12583
+PMID: 39324633
+PMCID: PMC11808472
+SOURCE_URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC11808472/
+COLLECTION: pubmed-text (PMC full text; no PDF)
+
+================================================================================
+ABSTRACT
+================================================================================
+
+The objective of the study was to compare the treatment outcomes of periodontal furcation defects by using platelet-rich fibrin (PRF) with other commonly utilized modalities. The eligibility criteria comprised randomized controlled trials (RCTs) comparing the clinical outcomes of PRF with those of other modalities for the treatment of furcation defects. Studies were classified into 11 categories in 3 different groups as follows: Group I (addition of PRF): (1) open flap debridement (OFD) alone versus OFD/PRF, (2) OFD/bone graft (OFD/BG) versus OFD/BG/PRF; Group II (comparative studies to PRF): (3) OFD/BG versus OFD/PRF, (4) OFD/collagen membrane versus OFD/PRF, (5) OFD/PRP versus OFD/PRF, (6) OFD/rhBMP2 versus OFD/PRF; and Group III (addition of biomaterial/biomolecule to PRF): OFD/PRF versus (7) OFD/PRF/BG, (8) OFD/PRF/amniotic membrane (AM), (9) OFD/PRF/metformin, (10) OFD/PRF/bisphosphonates, (11) OFD/PRF/statins. Weighted means and forest plots were calculated for the reduction of probing pocket depth (PPD), gain of vertical and horizontal clinical attachment levels (VCAL and HCAL), gain in vertical and horizontal bone levels (VBL, HBL), and radiographic bone fill (RBF). From 45 articles identified, 21 RCTs reporting on class II furcations were included. The use of OFD/PRF and OFD/BG/PRF statistically significantly reduced PPD and improved VCAL and HCAL when compared to OFD or OFD/BG, respectively. The comparison between OFD/PRF alone versus OFD/BG, OFD/CM, OFD/PRP, or OFD/rhBMP2 led to similar outcomes for all investigated parameters, including a reduction in PPD, VCAL/HCAL gain, and RBF. The additional incorporation of a BG to OFD/PRF only mildly improved outcomes, whereas the addition of AM improved clinical outcomes. The addition of small biomolecules such as metformin, bisphosphonates, or statins all led to significant improvements in PPD, VCAL, and HCAL when compared to OFD/PRF alone. Noteworthy, a very high heterogeneity was found in the investigated studies. The use of PRF significantly improved clinical outcomes in class II furcation defects when compared to OFD alone, with similar levels being observed between OFD/PRF and/or OFD/BG, OFD/CM, OFD/PRP, or OFD/rhBMP2. Future research geared toward better understanding potential ways to enhance the regenerative properties of PRF with various small biomolecules may prove valuable for future clinical applications. Future histological research investigating PRF in human furcation defects is largely needed. The use of PRF in conjunction with OFD statistically significantly improved PPD, VCAL, and HCAL values, yielding comparable outcomes to commonly used biomaterials. The combination of PRF to bone grafts or the addition of small biomolecules may offer additional clinical benefits, thus warranting future investigation.
+
+================================================================================
+1. INTRODUCTION (key points)
+================================================================================
+
+- Molars with class II/III furcation defects are recognized complexity factors for staging periodontitis in the new AAP/EFP classification; they exhibit a higher rate of tooth loss than molars without furcation involvement and are a significant challenge to treat successfully.
+- Access flap surgery (OFD) and non-surgical therapies have mixed results; regenerative periodontal surgery gives better furcation improvement, especially in class II furcations.
+- The S3-level clinical practice guideline (CPG) recommends bone grafts, resorbable membranes, and enamel matrix derivatives for furcation regeneration. Autogenous platelet concentrates could NOT be discussed in that CPG due to insufficient evidence.
+- This SR/MA expands the database and evaluates the most up-to-date evidence on PRF efficacy in furcation defects, compared to and in combination with membranes, bone grafts, and other biomolecules.
+
+================================================================================
+2. MATERIALS AND METHODS
+================================================================================
+
+- PRISMA guidelines; protocol built with PRISMA-P; registered with INPLASY (2023100045). No protocol deviations.
+- Focused question limited to class II furcation defects. Outcomes: PPD reduction; vertical & horizontal CAL gain (VCAL, HCAL); vertical & horizontal bone level (VBL, HBL); radiographic bone fill (RBF).
+- Databases: PubMed/MEDLINE, Cochrane CENTRAL, Scopus, Embase, Lilacs; published before October 2023; no date/language restriction. Gray literature (Literature Report + OpenGrey) plus reference cross-referencing. Excluded case reports, animal studies, retrospective clinical studies, and follow-ups < 6 months.
+- Risk of bias: Cochrane RoB 2 tool; five domains. Surgeon performance bias not rated (operator cannot be blinded to surgical procedure).
+- Statistics: Review Manager 5.2.8; mean difference (MD) with 95% CI; generic inverse variance; random-effects model. Heterogeneity by chi-square: <=25% low, >25-50% moderate, >50% high. Significance p<0.05. Funnel plot/Egger's/Begg's only if >10 studies in a comparison; no single comparison had >10 studies.
+
+================================================================================
+3. RESULTS - LITERATURE SEARCH & CHARACTERISTICS
+================================================================================
+
+- Initial search: 196 MEDLINE/PubMed, 6 Cochrane CENTRAL, 152 Embase, 147 Scopus, 95 Lilacs. 575 excluded on title/abstract. 21 RCTs on furcation defects (published 2011-2023) met eligibility.
+- ALL 21 RCTs reported on CLASS II furcation defects (predominantly mandibular, buccal).
+- 786 total research participants analyzed. Mean follow-up 9.42 months. NO studies included smokers.
+- Centrifugation systems: Remi centrifuge in 10/21 (48%); Systonic, IntraSpin, Labtech, Orthophos each 1/21 (5%); 4/21 (19%) did not report the centrifuge.
+- Protocols: 3000 rpm x 10 min in 12/21 (57%); 400 RCF x 10 min in 2/21 (10%); remaining protocols (400 RCF x 12 min, 3000 rpm x 12 min, 700 rpm x 3 min, 2700 rpm x 12 min, 2700 rpm x 10 min) each 1/21 (5%).
+- 11 comparison categories in 3 groups (see abstract). 786 participants; class II only.
+
+================================================================================
+4. META-ANALYSIS RESULTS
+================================================================================
+
+--- GROUP 1: THERAPEUTIC MODALITIES WITH/WITHOUT PRF (FQ-1) ---
+Subgroups: OFD vs OFD/PRF; and BG vs BG/PRF.
+
+PPD reduction (11 studies; I2=94%, p<0.00001; subgroup effect p<0.00001 / p=0.003):
+  - OFD vs OFD/PRF: MD 1.73 mm (95% CI 1.13-2.33) favoring PRF.
+  - BG vs BG/PRF:  MD 0.73 mm (95% CI 0.25-1.21) favoring PRF.
+
+VCAL gain (11 studies; I2=90%, p<0.00001; subgroup effect p<0.00001 / p=0.003):
+  - OFD vs OFD/PRF: MD 1.42 mm (95% CI 1.04-1.79) favoring PRF.
+  - BG vs BG/PRF:  MD 0.82 mm (95% CI 0.28-1.37) favoring PRF.
+
+HCAL gain (10 studies; I2=86%, p<0.00001; subgroup effect p<0.00001 / p<0.0001):
+  - OFD vs OFD/PRF: MD 1.21 mm (95% CI 0.70-1.73) favoring PRF.
+  - BG vs BG/PRF:  MD 1.29 mm (95% CI 0.68-1.90) favoring PRF.
+
+Narrative summary (Group 1, OFD alone vs OFD/PRF, 5 RCTs): approx. relative PPD decrease ~1.3 mm and CAL gain ~1.5 mm when PRF added to defects after OFD.
+Furcation closure/conversion (Group 1): Sharma & Pradeep (2011) - 66.7% full closure and 27.7% conversion to class I in the OFD/PRF group. In BG vs BG/PRF, one study showed full closure 16.7% (BG) vs 50% (BG/PRF). Lohi 2017: conversion to class I 60% (BG) vs 100% (BG/PRF).
+Hard tissue (VBL/HBL/RBF): too few studies -> no MA. Three studies favored the PRF group for VBF gain (OFD vs OFD/PRF). For BG vs BG/PRF, no significant differences except Lohi et al.
+
+--- GROUP 2: THERAPEUTIC MODALITIES IN COMPARISON TO PRF (FQ-2) ---
+Subgroups: BG vs PRF; CM vs PRF; PRP vs PRF; rhBMP2 vs PRF.
+
+PPD reduction (6 studies; I2=45%, p<0.10): NO significant differences between any subgroup (BG p=0.26; CM p=0.07; PRP p=0.20; rhBMP2 p=0.93).
+VCAL gain (5 studies; I2=56%, p=0.06): NO significant differences (p=0.91; p=0.50; p=0.56).
+HCAL gain (4 studies; I2=0%, p=0.69): NO significant differences (p=0.92; p=0.33; p=0.45).
+Hard tissue: no MA; individual studies (Asimuddin, Bajaj, Biswas, Siddiqui) found no significant RBF/HBF/VBF differences.
+=> OFD/PRF is CLINICALLY EQUIVALENT to OFD/BG, OFD/CM, OFD/PRP, OFD/rhBMP2.
+
+--- GROUP 3: PRF WITH ADDITION OF BIOMATERIAL/BIOMOLECULE (FQ-3) ---
+Subgroups: PRF vs PRF+BG; PRF vs PRF+AM; PRF vs PRF+metformin; PRF vs PRF+bisphosphonates; PRF vs PRF+statins.
+
+PPD reduction (8 studies; I2=85%, p<0.00001), favoring the ADDITION:
+  - PRF vs PRF+AM:            MD 1.20 mm (95% CI 0.55-1.85), p=0.0003
+  - PRF vs PRF+metformin:     MD 1.06 mm (95% CI 0.43-1.70), p=0.001
+  - PRF vs PRF+bisphosphonate:MD 0.83 mm (95% CI 0.53-1.12), p<0.00001
+  - PRF vs PRF+statins:       MD 0.94 mm (95% CI 0.46-1.42), p=0.0001
+  - PRF vs PRF+BG:            MD 0.20 mm (95% CI -0.28-0.68), p=0.42  (NOT significant)
+
+VCAL gain (8 studies; I2=0%, p=0.49), significant for all five subgroups incl. BG:
+  - PRF+BG:            MD 1.20 mm (95% CI 0.55-1.85), p=0.003
+  - PRF+AM:            MD 0.86 mm (95% CI 0.72-1.01), p<0.00001
+  - PRF+metformin:     MD 0.89 mm (95% CI 0.49-1.29), p<0.0001
+  - PRF+bisphosphonate:MD 0.86 mm (95% CI 0.58-1.14), p<0.00001
+  - PRF+statins: significant (in favor of addition)
+
+HCAL gain (7 studies; I2=0%, p=0.47), significant for four subgroups (not BG):
+  - PRF+AM:            MD 0.80 mm (95% CI 0.13-1.47), p=0.02
+  - PRF+metformin:     MD 0.80 mm (95% CI 0.46-1.14), p<0.00001
+  - PRF+bisphosphonate:MD 0.71 mm (95% CI 0.43-0.99), p<0.00001
+  - PRF+statins:       MD 1.08 mm (95% CI 0.78-1.38), p<0.00001
+
+Furcation closure (PRF vs PRF+metformin): full closure 52% vs 76%; class I conversion 47% vs 23%.
+=> Adding a BG to PRF gives only MILD/inconsistent benefit; adding a small biomolecule (metformin, bisphosphonate, statin) or AM significantly improves outcomes over PRF alone.
+
+--- RISK OF BIAS (RoB 2) ---
+- 1/21 studies: low risk in all 5 domains.
+- 3/21 studies: high risk in at least one domain (mainly high dropout >22%).
+- 17/21 studies: "some concerns" in at least one domain (mostly missing allocation-concealment detail).
+- Randomization described in 19/21; 7 computer table, 11 coin toss/lottery, 4 sealed envelopes.
+
+================================================================================
+5. DISCUSSION & CONCLUSION (key points)
+================================================================================
+
+- Group 1: all PRF-containing approaches showed SUPERIOR clinical outcomes in class II furcations vs the non-PRF comparator (OFD or BG).
+- Group 2: PRF alone gave outcomes COMPARABLE to other established regenerative techniques (BG, CM, PRP, rhBMP2).
+- Group 3: adding a biomaterial/biomolecule to PRF ENHANCED outcomes, especially small biomolecules (metformin, bisphosphonates, statins); adding a BG to PRF gave only mild improvement.
+- BG-vs-BG+PRF variability may relate to graft type: PRF may add more when combined with grafts that lack intrinsic growth factors (xenografts/alloplasts) vs allografts (DFDBA) that already carry growth factors.
+- PRF's antibacterial/anti-inflammatory properties, leukocyte content, and M2 macrophage polarization are proposed contributors to regeneration; PRF has a known preference for SOFT-tissue over hard-tissue healing.
+- Very HIGH heterogeneity across studies; random-effects models used; interpret with caution.
+- No well-defined human HISTOLOGICAL study proving true periodontal regeneration (PDL/cementum/bone) with PRF in furcations - a major evidence gap.
+- Wide variation in PRF preparation; most used 3000 rpm x 10 min but few reported RCF; standardization/RCF reporting needed.
+- EFP recommends 12-month follow-up; this SR mean follow-up was only 9.42 months -> future RCTs should report >=12 months.
+
+CONCLUSION: PRF + OFD improves VCAL/HCAL and RBF for class II furcation defects vs OFD alone. Combining BG + PRF can significantly improve VCAL/HCAL. Adding small biomolecules (metformin, bisphosphonates, statins, antibiotics) warrants future study. Animal and human histological evidence is needed to confirm true periodontal regeneration. Future RCTs should have mean 12-month follow-up. Results must be interpreted with caution due to methodological variation.

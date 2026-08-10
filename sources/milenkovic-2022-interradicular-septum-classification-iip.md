@@ -9,8 +9,21 @@ pdf_filename: milenkovic-2022-interradicular-septum-classification-iip.pdf
 source_collection: external
 ---
 
-## One-line Summary
-CBCT-based proposal of classification criteria for inter-radicular septum shape in maxillary molars, with explicit linkage to prosthetic-driven IIP planning.
+## Three-line Summary
+
+CBCT-based proposal of classification criteria for
+
+inter-radicular septum shape in maxillary molars,
+
+with explicit linkage to prosthetic-driven IIP planning.
+
+## 세줄요약
+
+CBCT-based proposal of classification criteria for
+
+inter-radicular septum shape in maxillary molars,
+
+with explicit linkage to prosthetic-driven IIP planning.
 
 ## 1. Document Information
 - **Title:** Criteria for the Classification of the Interradicular Septum Shape in Maxillary Molars with Clinical Importance for Prosthetic-Driven Immediate Implant Placement
@@ -32,8 +45,8 @@ Defines shape categories and quantifies their prevalence; identifies categories 
 Anatomy-only; classification not validated against outcome data within this paper.
 
 ## 6. Related Work
-- [[immediate-implant/pavlovic-2022-interradicular-septum-morphology-molar-iip]]
-- [[immediate-implant/smith-2013-classification-molar-extraction-immediate-implant]]
+- [[immediate-implant/molar-septum/pavlovic-2022-interradicular-septum-morphology-molar-iip]]
+- [[immediate-implant/molar-septum/smith-2013-classification-molar-extraction-immediate-implant]]
 - [[immediate-implant/deporter-2021-cbct-immediate-maxillary-molar-implant-planning]]
 
 ## 7. Glossary

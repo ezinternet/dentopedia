@@ -1,0 +1,110 @@
+Evaluation of the effects of the third molar on distalization and the effects of attachments on distalization and expansion with clear aligners: Three-dimensional finite element study
+
+Kuguoglu A, Akarsu-Guven B.
+Korean Journal of Orthodontics. 2024;55(1):69-81.
+DOI: 10.4041/kjod24.202 | PMID: 39849968 | PMCID: PMC11788183
+Source: PubMed Central full text (JATS), retrieved via PubMed MCP.
+
+=== ABSTRACT ===
+
+Objective: This study aimed to evaluate the effects of attachment design on maxillary molar distalization and simultaneous expansion during distalization, and the influence of third molars on distalization in the clear aligner technique using the finite element method.
+
+Methods: Six models were created to evaluate three different attachment designs on the second molars. Model I employed a vertical rectangular attachment; Model II used a vertical rectangular attachment with the presence of the third molar; Model III used a combined semi-elliptical attachment; and Model IV featured an opposed semi-elliptical attachment with buccal and palatal components. Models I through IV focused on distalization. Models V and VI were created by adding expansions to Models III and IV. The displacement amounts, clear aligner deformations, and stress distributions were analyzed using Ansys 19.2.
+
+Results: The presence of a third molar reduced maximum total displacement by 17%. Models I and III demonstrated similar distal displacement and tipping, both of which were more pronounced than in Model IV. Model IV achieved the most parallel tooth movement, with the least distal and buccal tipping and minimal distopalatal rotation. In the comparison of Models V and VI, Model VI exhibited greater distal and buccal displacements and more tipping than Model V.
+
+Conclusions: The presence of a third molar reduced distalization efficiency and increased clear aligner deformation. For both movements, the attachment that provided the most parallel movement showed the least displacement. When selecting attachments, it is essential to consider factors such as tooth rotation, inclination, bone support, and root health.
+
+=== FULL TEXT ===
+
+INTRODUCTION
+
+The clear aligner technique is a leading digital orthodontic method in which the planning and production phases are entirely digitalized. As with many other areas of life, digitalization in orthodontics has reduced error rates while enhancing patient trust and satisfaction. Clear aligners offer numerous advantages, including improved aesthetics and patient comfort, ease of maintaining oral hygiene, reduced appointments and chair time, and the elimination of emergencies and complications, such as wire penetration and bracket debonding. This relatively new technique requires ongoing refinement and further research.
+
+Despite these advantages, tooth movements achieved with clear aligners do not always translate to the oral environment as planned. It is particularly difficult to ensure root parallelism, vertical and torque movement of the anterior teeth, and rotation of round-shaped teeth. Simon et al. reported that maxillary molar distalization achieved the highest accuracy (88%) among all tooth movements performed using clear aligners. Similarly, Ravera et al. found in a clear aligner study that a 2.52 mm distalization of the second molar was achieved without significant vertical and tipping movements. Furthermore, when compared to pendulum appliances, clear aligners demonstrated better vertical movement control. Despite advancements, biomechanical factors such as predictability, staging limits, force transmission mechanisms, and the ability to control tooth and root movements remain points of debate. Hence, the accurate placement of attachments in optimal positions is crucial.
+
+Attachments provide an active surface for the clear aligner to exert force on the teeth, increasing the contact between the aligner and tooth. The shape, position, and direction of the active surface where force is applied are critical determinants of movement. Ellipsoid attachments are typically used to reinforce anchorage and retention, while combined semi-elliptical attachments enhance root control during movement. Rectangular attachments are useful for retention, adjusting root inclination and angulation, correcting rotation, and translating teeth adjacent to extraction spaces.
+
+The first step in designing attachments that generate forces and moments with maximum efficiency while minimizing unwanted tooth movements requires rigorous testing, often performed using the finite element method (FEM). FEM is widely employed in orthodontics to simulate tooth movements, evaluate orthodontic mechanics, and predict the effects of applied forces. This method enables the analysis of data such as tooth displacement patterns and clear aligner deformation. Additionally, FEM allows for the evaluation of the effects of combined movements, providing a comprehensive understanding of treatment biomechanics. Therefore, this study has two objectives. The first is to investigate the effectiveness of different attachment designs for maxillary molar distalization and expansion. The second is to evaluate the effect of third molars on maxillary molar distalization.
+
+MATERIALS AND METHODS
+
+Selection of patient anatomical model material
+
+The use of cone-beam computed tomography (CBCT) and intraoral optical scanning data for this study was approved by the Institutional Review Board (IRB) of Hacettepe University (IRB number: GO 22/693). A 29-year-old adult female patient with an initial CBCT scan was selected from the archives of the Faculty of Dentistry, Hacettepe University. The study model was developed by superimposing digital imaging and communications in medicine (DICOM) data with the intraoral scans in standard tessellation language (STL) format obtained using the iTero Element 2 (Align Technology, San Jose, CA, USA) device. This method allowed high-resolution crown models, essential for defining a clear finite-element model. Inclusion criteria: (1) presence of permanent dentition; (2) presence of unilateral third molars; (3) absence of supernumerary or impacted teeth; (4) normal crown and root morphology. Exclusion criteria: (1) severe deformity of the teeth; (2) severe crowding of the posterior teeth.
+
+Digital reconstruction of the patient anatomical model
+
+The patient's anatomical model, comprising the maxillary alveolar bone and maxillary teeth, was reconstructed using Materialise Mimics and 3-Matic programs. Ansys SpaceClaim software (Ansys Inc., Houston, PA, USA) was employed to refine the original 3D models and create a solid surface model. Preliminary models for the periodontal ligament (PDL), clear aligners, and attachments were constructed using Ansys SpaceClaim. Digital models of the clear aligner, attachment, tooth, PDL, and maxillary alveolar bone were independently aligned on the same coordinate axis.
+
+Minor positional differences were observed between the right and left teeth in the anatomical models. To ensure standardization, one-half of the jaw model was mirrored to create a symmetrical representation. For PDL modeling, the interface between the bone and tooth models was identified, and a 3D shell with a thickness of 0.25 mm was created around each tooth root. Different attachment designs were incorporated into the model using a 0.625 mm thick clear aligner. The rectangular attachment measured 3 mm in height, 2 mm in width, and 1 mm in thickness and was positioned vertically. The combined semi-elliptical attachment, with a diameter of 2.0 mm and a thickness of 0.8 mm, featured oppositely oriented flat surfaces at right angles to the occlusal plane on the buccal side. The opposed semi-elliptical attachment was also 2.0 mm in diameter and 0.8 mm thick and had flat surfaces oriented at 45° and 135° angles to the occlusal plane on the buccal and palatal sides. The teeth and attachments were assembled as a single rigid part in a global coordinate system.
+
+The mesh size was optimized to more accurately measure displacement and stress in the clear aligner, attachment, and first, second, and third molars, as well as the PDL of these teeth, particularly in areas where significant displacement was anticipated. The average mesh skewness element quality value was 0.28.
+
+Tooth movement scenarios and model grouping
+
+Scenario 1 was created to evaluate the effect of 0.25 mm distalization movement, whereas scenario 2 was created to evaluate the combined effect of 0.25 mm distalization and 0.50 mm expansion movements.
+
+Models included in scenario 1:
+- Model I: Vertical rectangular attachment on second molar
+- Model II: Vertical rectangular attachment on second molar, with third molar
+- Model III: Combined semi-elliptical attachments on second molar
+- Model IV: Opposed semi-elliptical attachments on second molar
+
+Models included in scenario 2:
+- Model V: Combined semi-elliptical attachments on second molar (+ expansion)
+- Model VI: Opposed semi-elliptical attachment on second molar (+ expansion)
+
+Border conditions and application of force
+
+The maxilla was constrained at the pterygomaxillary suture region to establish boundary conditions; nodes in these regions were fixed, preventing translational and rotational movements along the X-, Y-, and Z-axes. To simulate 0.25 mm distalization of the second molar, a 0.25 mm distal translational movement was applied to the clear aligner surface corresponding to the mesial face of the second molar. To simulate 0.50 mm expansion, a 0.50 mm buccal translational movement was applied to the clear aligner surface corresponding to the palatal face of the second molar. Contact interactions were defined as frictional (between all teeth and the clear aligner, between the clear aligner and attachments, and between second/third molars, μ = 0.2). Bonded contact was defined between teeth and PDL, bone and PDL, and attachment and second molar teeth.
+
+Finite element analysis
+
+A time-dependent dynamic (transient dynamic) analysis was performed. Geometric non-linear theory, non-linear contact theory, and non-linear material methods were used to evaluate displacements and stress distributions. Analyses were performed on an HP Z840 workstation (2.2 GHz, 40 cores, 64 GB RAM).
+
+Coordinate system and measurement points
+
+Coordinate system: z-axis = sagittal (positive = mesial, negative = distal); y-axis = vertical (positive = occlusal, negative = gingival); x-axis = transverse (for right second molar, positive = buccal, negative = palatal; reversed for left). Angular measurements: average rotation (°) of second molar crowns in XY (buccal tipping), YZ (distal tipping), and XZ (distobuccal/distopalatinal rotation) planes. Measurement points: mesiobuccal cusp (MBC), mesiopalatinal cusp (MPC), distobuccal cusp (DBC), distopalatinal cusp (DPC) apexes; palatal, MB, DB root apexes of second molars; mesial, distal, buccal, palatal equatorial-line endpoints of the second molar crown.
+
+RESULTS
+
+Tooth displacement patterns
+
+In the presence of the third molar, distal displacement at different crown measurement points decreased by 10–22%, and maximum total displacement decreased by 17%. Vertical movements and buccal tipping of the second molar were similar in both models (with/without third molar). However, in the presence of the third molar, maximum total and distal tooth movements, as well as distal tipping, decreased while distopalatal (DP) rotation increased.
+
+Comparing Models I, III, and IV: teeth showed rotation in the DP direction and tipping in the buccal and distal directions in all three attachment configurations. Model IV exhibited negligible DP rotation and buccal tipping, and showed minimal values for maximum total displacement, distal displacement, and distal tipping. Models I and III demonstrated similar maximum total displacement, distal displacement, and distal/buccal tipping; however, greater distopalatal rotation was observed in Model III compared to Model I.
+
+In Models V and VI (simultaneous distalization + expansion), second molar crowns rotated in the distobuccal (DB) direction with both attachment configurations. Distal, buccal, and maximum total displacements were significantly greater in Model VI than in Model V. Buccal tipping, distal tipping, and DB rotation were also greater in Model VI.
+
+Deformation (displacement) occurred in the clear aligners
+
+In Models I and II, distal deformation was observed on the side of the third molar, concentrated in the gingivodistopalatinal corner of the clear aligner; distobuccal deformation was observed in both models. In Model III, deformation occurred in the DB direction; in Model IV, primarily in the distal direction. Models I and III (no palatal attachment) exhibited more pronounced aligner deformation, particularly on the palatal side. In Model V, the clear aligner experienced the most intense deformation as the distal half of the second molar rotated in the DB direction; Model VI showed a slight, uniform linear displacement in the DB direction.
+
+Stress distribution
+
+Model II exhibited more intense stress on the attachment in the presence of the third molar. Among all models, the highest stress was observed in Model VI.
+
+DISCUSSION
+
+The use of clear aligners has grown rapidly, with the preference for esthetic orthodontic treatments — particularly among young and adult patients — exceeding 70%. Although some prior authors suggested attachments may not be required for first/second molar distalization (as aligner material grips these teeth effectively), other studies emphasize the importance of attachments as both anchorage-reinforcing and active force-transmitting units. This study evaluated the combined effects of distalization and expansion — two challenging movements with clear aligners — using different attachment designs, and found attachment design significantly influences these movements.
+
+Prior FEM work comparing vertical rectangular vs combined semi-elliptical attachments found the semi-elliptical design promoted more parallel distal root movement while the rectangular attachment produced greater tipping/palatal torsion; the present study found distal displacement and tipping were similar between the two designs, but more pronounced DP rotation with the combined semi-elliptical attachment — a discrepancy possibly attributable to differences in material property definitions. A separate FEM study on canine distalization found attachment-free and rectangular configurations produced intrusion/tipping while optimized combined semi-elliptical attachments provided more parallel movement with no significant tipping difference between designs; the present molar-focused study found differing results, potentially due to morphological differences between canines and molars, center-of-resistance location, and PDL area differences.
+
+The opposed semi-elliptical attachment (buccal + palatal components) was hypothesized to minimize rotation and tipping via its palatal element; this was supported in scenario 1 — this configuration provided the most parallel movement among the three designs, achieving ~75% of the distalization of the other attachments with less buccal/distal tipping, in a more parallel pattern. In the second scenario (simultaneous distalization + expansion), total/distal/buccal displacements increased significantly with the palatally-attached design, but so did DP rotation, distal/buccal tipping, and palatal-component stress — the increased effectiveness during expansion may reflect enhanced retention/anchorage from the palatal component, though minimal aligner-surface deformation on the palatal side suggests efficient force transfer despite this.
+
+Prior clinical literature (Houle et al.) reports that dentoalveolar expansion with Invisalign achieves ~72.8% of ClinCheck-planned expansion, occurring primarily via tooth tipping; another study found Invisalign cannot increase maxillary basal bone width but does significantly increase buccal/lingual alveolar ridge width and first-molar buccolingual inclination. A prior FEM study by Karslı et al. on dental expansion found buccal tipping occurred with all attachment designs, though occlusal-beveled horizontal configurations with buccal root torque reduced tipping — consistent with the present finding that all distal/buccal displacements occurred as uncontrolled tipping with the center of rotation near the furcation.
+
+Comparing Models I and II quantified the third-molar effect: distal displacement at crown points decreased 10–22% with a present third molar. Because this reflects only the initial force-application stage, the cumulative impact of a third molar may increase over time, prolonging distalization. Simultaneous distalization of first and second molars reduced overall distalization by at least 10% versus single-tooth distalization, implying greater required time/force during joint (vs sequential) distalization — consistent with prior reports (Kinzinger et al.) that a fully erupted molar reduces distal tipping of a mesially located tooth during distalization while increasing required force, time, and anchorage-loss risk.
+
+Von Mises stress analysis in Models I and II showed more intense stress on the second molar, attachment, and clear aligner due to third-molar resistance — clinically this may raise the risk of attachment debonding and aligner deformation.
+
+This FEM study was conducted in a computer-simulated environment and did not account for intraoral factors such as saliva, chewing forces, soft tissues, and bone metabolism. Third molars also vary in size, shape, and position, and attachment-design variation could alter results — findings require clinical validation.
+
+CONCLUSIONS
+
+1. During distalization, the combined semi-elliptical attachment configuration achieved the greatest distal movement, while the opposed semi-elliptical attachment configuration facilitated the most parallel distal movement.
+2. Simultaneous expansion and distalization resulted in a 2–3 fold increase in distal and buccal movement with the opposed semi-elliptical attachment configuration, but with equally pronounced distal/buccal tipping and rotation.
+3. Attachment selection should consider tooth rotation, axial inclination, bone support, and root health.
+4. Clear aligner deformation increases on surfaces without attachments; placing attachments on both buccal and palatal surfaces can enhance aligner effectiveness and longevity.
+5. The presence of a maxillary third molar decreased second-molar distalization by at least 10%, increased DP rotation, reduced distal tipping, and increased aligner deformation and attachment stress — prolonging the distalization process.

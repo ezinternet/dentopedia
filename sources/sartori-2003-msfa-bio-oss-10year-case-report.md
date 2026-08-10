@@ -13,8 +13,21 @@ source_collection: external
 
 측방 상악동거상술(Maxillary Sinus Floor Augmentation, MSFA)에서 Bio-Oss(탈단백우골, DPBB)가 점진적으로 흡수·골치환되는지를 단일 환자 8개월·2년·10년 연속 생검으로 보여주는 유일한 10년 궤적 자료. Mordenfeld 2010의 "유의한 흡수 없음" 소견과 상충해 연구 간 변이를 이해하는 데 필수적이다. See [[overviews/sinus-lift-lateral-2026-synthesis]].
 
-## One-line Summary
-Single-patient case report with serial biopsies at 8 months, 2 years, and 10 years after MSFA with Bio-Oss alone: bone tissue (incl. medullary spaces) increased from 29.8% → 69.7% → 86.7%, with corresponding progressive resorption of Bio-Oss particles — a textbook visualization of long-term remodeling.
+## Three-line Summary
+
+Single-patient case report with serial biopsies at 8 months, 2 years, and 10 years after
+
+MSFA with Bio-Oss alone: bone tissue (incl. medullary spaces) increased from 29.8% → 69.7% →
+
+86.7%, with corresponding progressive resorption of Bio-Oss particles — a textbook visualization of long-term remodeling.
+
+## 세줄요약
+
+Single-patient case report with serial biopsies at 8 months, 2 years, and 10 years after
+
+MSFA with Bio-Oss alone: bone tissue (incl. medullary spaces) increased from 29.8% → 69.7% →
+
+86.7%, with corresponding progressive resorption of Bio-Oss particles — a textbook visualization of long-term remodeling.
 
 ## 1. Document Information
 - **Journal**: Clinical Oral Implants Research 2003;14(3):369–372 (published 20 May 2003).

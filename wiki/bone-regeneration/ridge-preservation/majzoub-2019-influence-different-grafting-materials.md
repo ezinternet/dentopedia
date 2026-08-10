@@ -6,18 +6,26 @@ date: 2019-09-30
 doi: 10.5037/jomr.2019.10306
 source: majzoub-2019-influence-different-grafting-materials.md
 category: [bone-regeneration/ridge-preservation]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/majzoub-2019-influence-different-grafting-materials.pdf
 pdf_filename: majzoub-2019-influence-different-grafting-materials.pdf
 source_collection: external
 tags: [systematic-review, ARP, graft-material, allograft, xenograft, alloplast]
 ---
 
-## One-line Summary
-SR of 40 RCTs with inverse-variance weighted means by material group — horizontal resorption: allograft 1.52 mm, xenograft 1.47 mm, alloplast 2.31 mm; differences between materials are clinically small, and the decision to perform ARP at all matters more than which material is chosen.
+## Three-line Summary
+Systematic review of 40 RCTs (largest trial pool among contemporary ARP SRs) using inverse-variance weighted means by graft material group, comparing allograft, xenograft, and alloplast for horizontal ridge preservation against spontaneous healing.
 
-## 한줄요약
-40 RCT를 재료군(allograft/xenograft/alloplast)별 weighted mean으로 정리한 SR — horizontal resorption: allograft 1.52 mm, xenograft 1.47 mm, alloplast 2.31 mm; 재료 간 차이는 임상적으로 작고 ARP의 효과 자체가 더 중요한 변수.
+Weighted mean horizontal resorption: allograft 1.52 mm, xenograft 1.47 mm, alloplast 2.31 mm — all ARP groups outperformed spontaneous healing, with allograft and xenograft essentially equivalent and alloplast modestly inferior (though alloplast sub-types are heterogeneous).
+
+The clinical implication is that evidence does not favor one material over another between allograft and xenograft; the decision to perform ARP at all matters more than material choice, which can be guided by cost, availability, and clinical familiarity.
+
+## 세줄요약
+동시기 ARP SR 중 최대 규모인 40개 RCT를 재료군별 역분산 가중 평균으로 분석: allograft, xenograft, alloplast를 자연치유 대비 수평 치조제 보존으로 비교.
+
+수평 흡수 가중 평균: allograft 1.52 mm, xenograft 1.47 mm, alloplast 2.31 mm — 전 ARP군이 자연치유보다 우수, allograft와 xenograft는 사실상 동등, alloplast는 소폭 열등 (단, alloplast 세부 유형이 이질적임).
+
+Allograft와 xenograft 간에는 근거상 우월 재료가 없으므로, 재료 선택보다 ARP 시행 여부 자체가 더 중요하며 비용·가용성·임상 경험에 따라 선택하면 된다.
 
 ## Summary
 같은 2019년에 Avila-Ortiz가 22 RCT로 MA를 발표한 직후, Majzoub 그룹은 더 넓은 inclusion(3D imaging 포함 RCT)으로 40 RCT pool을 구축. Formal random-effects MA 대신 inverse-variance weighted mean을 재료군별로 계산. 결과는 단순명료: **xenograft와 allograft가 사실상 동등, alloplast는 약간 열등, 셋 다 자연치유보다 우월**. 임상의가 "어떤 그래프트가 더 좋냐"를 묻는다면 evidence상 답은 "비슷하다"이며, 선택 기준은 cost·availability·임상 경험으로 옮겨야 한다는 메시지.

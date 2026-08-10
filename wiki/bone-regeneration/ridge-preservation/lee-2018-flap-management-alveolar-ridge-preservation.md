@@ -6,18 +6,26 @@ date: 2018-05-31
 doi: 10.11607/jomi.6368
 source: lee-2018-flap-management-alveolar-ridge-preservation.md
 category: [bone-regeneration/ridge-preservation]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/lee-2018-flap-management-alveolar-ridge-preservation.pdf
 pdf_filename: lee-2018-flap-management-alveolar-ridge-preservation.pdf
 source_collection: external
 tags: [ridge-preservation, flapless, flap-management, keratinized-gingiva, sr-ma]
 ---
 
-## One-line Summary
-SR+MA (11 studies: 9 RCTs, 2 CCTs): flap elevation vs. flapless ARP shows no significant difference in bone width or height preservation, but flap elevation reduces keratinized gingiva width by a mean of 3.21 mm more than flapless — favoring a flapless or socket-seal approach for soft-tissue preservation.
+## Three-line Summary
+SR+MA (IJOMI 2018; 11 studies: 9 RCTs + 2 CCTs) isolating flap management as the independent variable in alveolar ridge preservation, comparing flapped vs flapless and FGG-sealed vs flapless approaches on bone width, bone height, and keratinized gingiva (KG) width.
 
-## 한줄요약
-체계적 문헌고찰·메타분석 (Systematic Review with Meta-Analysis, SR+MA, 11편: RCT 9, CCT 2) — 치조제 보존술 (Alveolar Ridge Preservation, ARP)에서 판막 거상 (flap)과 무판막 (flapless)의 골 폭·높이 차이는 유의하지 않으나, 판막 거상은 각화치은 폭 (Keratinized Gingiva Width, KGW)을 평균 3.21 mm 더 감소시켜 무판막 접근이 연조직 보존에 유리하다.
+Bone width and height preservation did not differ significantly between flapped and flapless approaches, but flap elevation reduced KG width by a mean of 3.21 mm more than flapless (WMD −3.21 mm, 95% CI −4.10 to −2.33, p<0.00001; I²≈51%).
+
+Flapless ARP preserves bone equivalently to flapped surgery while avoiding the keratinized tissue loss that undermines peri-implant soft tissue management at future implant placement.
+
+## 세줄요약
+SR+MA (IJOMI 2018; 11편: RCT 9 + CCT 2): 치조제보존술 (ARP)에서 판막 거상 유무를 독립 변수로 분리, 판막 vs 무판막 및 FGG 실링 vs 무판막을 골 폭·높이·각화치은 폭 (KGW)으로 비교.
+
+골 폭·높이는 판막/무판막 간 유의차 없었으나, 판막 거상군이 무판막 대비 KGW를 평균 3.21 mm 더 감소시켰다 (WMD −3.21 mm, 95% CI −4.10~−2.33, p<0.00001, I²≈51%).
+
+무판막 ARP는 골 보존 효과를 유지하면서 각화치은 소실을 방지하므로, 차후 임플란트 주위 연조직 관리를 위해 무판막 또는 소켓실링 접근이 권장된다.
 
 ## Summary
 Lee et al. (2018, IJOMI) ran a PRISMA-style SR+MA isolating flap management as the variable in alveolar ridge preservation. Eleven studies (9 RCTs + 2 CCTs, n ≥ 10 each) were pooled by random-effects meta-analysis on three outcomes: bone width change, bone height change, and keratinized gingiva (KG) width change. Bone-dimensional outcomes did not differ significantly between flapped and flapless approaches or between free-gingival-graft-sealed and flapless approaches. The decisive difference was in soft tissue: flapped ARP produced a ~3.2 mm greater KG width loss than flapless (WMD -3.21 mm, 95% CI -4.10 to -2.33, p<0.00001). The clinical implication is straightforward — when grafting an extraction socket, prefer a flapless or socket-seal approach to preserve the keratinized band needed around the future implant.

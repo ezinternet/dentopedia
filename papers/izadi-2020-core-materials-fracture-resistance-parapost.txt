@@ -1,0 +1,78 @@
+Source: PubMed Central PMC7688039
+PMID: 33282149
+Title: Effect of photo core, LuxaCore, and core max II core building materials on fracture resistance of endodontically-treated teeth restored with fiber-reinforced composite posts and ParaPosts
+Authors: Alireza Izadi, Bijan Heidari, Farnoush Fotovat, Armaghan Shahbazi, Hanif Allahbakhshi, Ghodratollah Roshanaei, Zohre Farhangian, Kioumars Kiani
+Journal: Dental Research Journal (Isfahan), 2020
+DOI: none (PMC full text)
+
+ABSTRACT
+Background: Post and core treatment is commonly performed for endodontically treated teeth to replace the lost tooth structure and reinforce and protect the remaining dental tissue. This study aimed to compare the effect of three core building materials on fracture resistance of endodontically-treated teeth restored with fiber-reinforced composite (FRC) posts and ParaPosts.
+Materials and Methods: This experimental study evaluated 108 sound, single-rooted mandibular first premolars extracted for orthodontic purposes. The teeth were randomly divided into nine groups (n=12) of control (no endodontic or restorative treatment), FRC + Photo Core (Group 2), FRC + LuxaCore (Group 3), FRC + Core Max II with bonding agent (Group 4), FRC + Core Max II without bonding agent (Group 5), ParaPost + Photo Core (Group 6), ParaPost + LuxaCore (Group 7), ParaPost + Core Max II with bonding agent (Group 8), and ParaPost + Core Max II without bonding agent (Group 9). The fracture resistance was measured by applying the load at 45 degree angle relative to the longitudinal axis of the tooth with a crosshead speed of 1 mm/min using a universal testing machine. Data were analyzed through descriptive statistics, Tukey's test, and one-way analysis of variance (alpha = 0.05).
+Results: The mean fracture resistance was 454.0 +/- 62.7, 410.8 +/- 48.3, 365.1 +/- 42.1, 423.7 +/- 111.7, 392.4 +/- 90.0, 292.3 +/- 83.9, 242.3 +/- 73.4, 278.2 +/- 67.9, and 247.3 +/- 49.6 N in Groups 1-9, respectively. Group 4 showed the highest fracture resistance, which was significantly higher than the value in all ParaPost and control groups (P<0.05) but had no significant difference with the fracture resistance of other groups (P>0.05).
+Conclusion: Fracture resistance is independent of the type of core building material used, and the tested products had no superiority over each other. The mean fracture resistance of FRC post groups were significantly higher than that of ParaPost groups. Furthermore, Core Max II + bonding agent yielded insignificantly higher fracture resistance than Core Max II without bonding agent.
+
+FULL TEXT
+
+INTRODUCTION
+As a general rule, post and core restorations are performed for teeth with <50% of the coronal tooth structure remaining. Functional rehabilitation of the teeth with severely damaged crowns requires core build-up to support the prosthetic crown. Fiber posts have a lower hardness than metal posts and consequently enable more appropriate stress distribution in the root; thus, they exhibit lower risk to fracture. Fiber-reinforced composite (FRC) posts have a hardness number similar to that of dentin. The flexural strength of FRC posts is higher than that of metal posts. The use of prefabricated posts along with amalgam or composite core build-up has simplified the process of tooth reconstruction because all the steps can be performed within one single chairside visit.
+
+When the ferrule effect is insignificant, a high level of stress accumulates in the core build-up material, which highlights the need for its optimal strength. Durability, resistance, hardness, and the bond strength of the core material to the post and dentin can affect the longevity of the reconstructed crown and subsequently the survival rate of the prosthetic crown.
+
+Core Max II (Dentsply, Sankin, Korea) is a resin-based core build-up material containing bis-GMA and TEGDMA, supplied as powder and liquid.
+LuxaCore (DMG, NJ, USA) is a radiopaque dual-cure composite, automatically mixed, used for extensive restorations, crown build-up, and cementation of intracanal posts.
+Photo Core (Kuraray Noritake Dental Inc., NY, USA) is a light-cure composite resin with high filler content providing high compressive, flexural, and tensile strength, low polymerization shrinkage.
+
+This study aimed to compare the effect of three core build-up materials namely Core Max II, LuxaCore, and Photo Core on fracture resistance of endodontically-treated teeth restored with FRC posts and ParaPosts.
+
+MATERIALS AND METHODS
+Conducted at School of Dentistry of Hamadan University of Medical Sciences. 108 single-rooted sound mandibular first premolars extracted for orthodontic treatment. Sample size 12/group. Inclusion criteria: absence of root cracks, root caries, or root restoration and no history of previous root canal treatment.
+
+Nine groups (n=12): Group 1 control (no treatment); Group 2 FRC + Photo Core; Group 3 FRC + LuxaCore; Group 4 FRC + Core Max II with bonding agent; Group 5 FRC + Core Max II without bonding agent; Group 6 ParaPost + Photo Core; Group 7 ParaPost + LuxaCore; Group 8 ParaPost + Core Max II with bonding agent; Group 9 ParaPost + Core Max II without bonding agent.
+
+All teeth (except control) underwent root canal treatment with step-back technique, ISO 40 apical size, filled with gutta-percha and AH26 sealer with lateral compaction. A chamfer finish line 1 mm depth prepared 0.5 mm above CEJ for a full-metal crown. Roots covered with silicone impression material to simulate PDL, mounted in cubic acrylic molds.
+
+Post space prepared in FRC post groups using #1 to #4 Gates Glidden drills, 4-5 mm gutta-percha remained apically. In ParaPost groups: ParaPost titanium vented and serrated NO. 4 (Coltene/Whaledent). First #2 peeso-reamer, then #4 ParaPost drill (NO.4; Coltene/Whaledent) 12 mm length. 12 mm inside canal, 3 mm outside; excess cut with disc.
+
+Canal etched with 37% phosphoric acid 5 s, rinsed, dried. Posts cemented with Panavia F2 resin cement (Kuraray, Japan). Cores built with LuxaCore, Photo Core or Core Max II with/without bonding agent. Final impression with Speedex; dies, wax patterns, full-metal crowns fabricated; crowns cemented with type I glass ionomer cement (GC). Load applied at 45 degree, crosshead 1 mm/min until fracture. Shear bond strength (MPa) = Load (N)/Surface area (mm). Analyzed with SPSS 20, ANOVA and Tukey's test, significance 5%.
+
+RESULTS
+Mean fracture resistance of the nine groups significantly different (P<0.05). Only difference between control and FRC post groups statistically significant. Significant differences between Groups 2 and 6, 3 and 7, 4 and 8, and 5 and 9 (all FRC vs ParaPost pairs; P<0.05).
+
+Highest mean fracture resistance: Group 4 (FRC + Core Max II with bonding agent). Lowest: Group 7 (ParaPost + LuxaCore).
+
+Table 1 (Mean +/- SD Newton, n=12):
+Group 1: 454+/-62.7 (min 279.3, max 564.2)
+Group 2: 410.8+/-48.3
+Group 3: 365.1+/-42.1
+Group 4: 423.7+/-111.7 (max 636.7)
+Group 5: 392.4+/-90.0
+Group 6: 292.3+/-83.9
+Group 7: 242.3+/-73.4
+Group 8: 278.2+/-67.9
+Group 9: 247.3+/-49.6
+Total: 324.6+/-99.1
+
+Table 2 (FRC vs ParaPost pooled):
+Groups 2-5 (FRC, n=46): 397.56+/-77.93
+Groups 6-9 (ParaPost, n=45): 265.62+/-71.05
+Student's t = 8.4, P<0.001
+
+Mean total fracture resistance of FRC post groups significantly higher than ParaPost groups (P<0.001). Core Max II with vs without bonding agent: not significant. Photo Core > LuxaCore: not significant.
+
+DISCUSSION
+The parallel serrated titanium ParaPosts distribute loads more uniformly than tapered posts, high modulus of elasticity, superior physical properties and higher hardness/strength than fiber posts. Titanium posts have lower strength than stainless steel but higher corrosion resistance, more biocompatible, radiopaque.
+
+FRC posts are double-taper, similar to tooth root, absorb rather than transfer stress, preserve sound tooth structure, radiopaque.
+
+Makade et al. evaluated maxillary incisors with casting post and cores, glass fiber posts + composite cores, ParaPosts + composite cores, and control — fracture resistance highest in ParaPost, lowest in control. Asadzadeh Aghadaee et al. reported casting post and core highest, then FRC, lowest ParaPost.
+
+Since the mean fracture resistance of the four FRC groups and four ParaPost groups were not significantly different within each set, fracture resistance is independent of core material type; but FRC post groups altogether significantly higher than ParaPost groups (P<0.001). Ahn and Sorensen reported fracture resistance of Photo Core significantly higher than LuxaCore.
+
+Panavia F2 dual-cure resin cement used; phosphate functional monomer bonds well to tooth structure, high fracture resistance.
+
+Limitations: in-vitro design, static increasing load at 1 mm/min unlike dynamic oral loading; variables such as tooth condition, age, storage, root anatomy, load angle.
+
+CONCLUSION
+Fracture resistance is independent of the type of core material. Mean fracture resistance of FRC post groups significantly higher than ParaPost groups. Bonding agent may increase Core Max II fracture resistance but is not imperative.
+
+Funding: Hamadan University of Medical Sciences. Conflicts of interest: none.

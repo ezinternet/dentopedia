@@ -6,18 +6,28 @@ date: 2005-06-01
 doi: 10.1111/j.1600-051X.2005.00726.x
 source: araujo-2005-ridge-alterations-immediate-implant-dog.md
 category: [immediate-implant]
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/araujo-2005-ridge-alterations-immediate-implant-dog.pdf
 pdf_filename: araujo-2005-ridge-alterations-immediate-implant-dog.pdf
 source_collection: external
 tags: [immediate-implant, ridge-resorption, bundle-bone, beagle, SLA, histomorphometry]
 ---
 
-## One-line Summary
-Beagle dog experimental study (n=5, J Clin Periodontol 2005) placing SLA implants immediately into fresh extraction sockets: at 3 months, buccal bone resorption exceeded lingual (buccal BIC 2.6±0.4 mm vs lingual 0.2±0.5 mm apical to the SLA margin) and bundle bone resorbed completely — immediate implant placement does NOT prevent post-extraction ridge resorption.
+## Three-line Summary
 
-## 한줄요약
-animal(J Clin Periodontol 2005): 비글견 즉시식립(SLA)·발치창 — 협측골 흡수 > 설측; bundle bone 완전소실; 즉시식립은 발치 후 치조제 흡수 예방 불가.
+Beagle dog experimental study (n=5, J Clin Periodontol 2005) placing SLA implants immediately into fresh mandibular premolar extraction sockets with histomorphometric assessment at 3 months.
+
+Buccal bone-to-implant contact (BIC) margin was 2.6±0.4 mm apical to the SLA surface (vs lingual 0.2±0.5 mm), bundle bone resorbed completely, and buccal resorption significantly exceeded lingual (p<0.05).
+
+Immediate implant placement does NOT prevent post-extraction ridge resorption — the foundational animal study underpinning modern protocols requiring buccal gap grafting and palatal implant positioning.
+
+## 세줄요약
+
+동물실험 (n=5 비글견, J Clin Periodontol 2005): 하악 소구치 즉시식립 후 3개월 조직계측 분석.
+
+협측 골-임플란트 접촉(BIC) 경계가 SLA 표면 치근단 방향으로 2.6±0.4 mm까지 이동(설측 0.2±0.5 mm), 속골 (Bundle bone)은 완전 소실, 협측 흡수가 설측보다 유의하게 컸음(p<0.05).
+
+즉시식립은 발치 후 치조제 흡수를 막지 못한다는 결론의 원조 동물 연구; 협측 간극 이식과 구개측 임플란트 위치 설정의 생물학적 근거를 확립.
 
 ## Summary
 Beagle dog (n=5) experimental study placing SLA-surface implants immediately in fresh extraction sockets. Histomorphometric analysis at 3 months shows buccal bone resorption exceeds lingual, bundle bone disappears entirely, and implant does not prevent post-extraction ridge remodeling. Companion animal study to Botticelli 2004.

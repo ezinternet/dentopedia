@@ -6,7 +6,7 @@ date: 2022-07-22
 doi: 10.4103/njms.njms_423_21
 source: manekar-2022-modern-devices-alveolar-ridge-split-expansion-sr.md
 category: [bone-regeneration]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "38273919"
@@ -20,13 +20,21 @@ relations:
     target: ayoub-2018-ridge-splitting-horizontal-augmentation-case
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (24 studies, 1287 implants in 634 patients) of modern alveolar-ridge-split-and-expansion (ARSE) devices: ultrasonographic/piezo (USG) achieves 3.40 mm ridge width gain vs motorized ridge expander (MRE) 2.83 mm (p<0.0001), with overall implant survival 98.07%; USG fits osteo-mobilization, MRE fits minimally invasive osteo-condensation.
+PROSPERO-registered SR+MA (24 studies: 22 cohort + 2 RCT; 1287 implants in 634 patients; GRADE very Low) comparing modern alveolar ridge split and expansion (ARSE) devices — ultrasonographic/piezo (USG) vs motorized ridge expander (MRE) — for horizontally deficient (2–6 mm) ridges.
 
-## 한줄요약
+USG achieved greater ridge width gain than MRE (3.40 vs 2.83 mm, p<0.0001) but overall implant survival was equivalent (~98.42% USG vs ~98.97% MRE; pooled 98.07%); high heterogeneity in width gain (I²>96%) limits pooled estimates.
 
-치조제 분할·확장(ARSE) 현대 기구 비교 SR+MA(24편, 환자 634명·임플란트 1287개): 초음파/피에조(USG)가 골폭 증가 3.40 mm로 전동확장기(MRE) 2.83 mm보다 우수(p<0.0001), 전체 임플란트 생존율 98.07%. USG는 골이동술(osteo-mobilization), MRE는 최소침습 골응축(osteo-condensation)에 적합.
+USG suits osteo-mobilization with delayed implant placement; MRE suits minimally-invasive crestal osteo-condensation with immediate implant placement — device selection should follow the intended split biology, not width gain alone.
+
+## 세줄요약
+
+PROSPERO 등록 SR+MA(24편: 코호트 22+RCT 2, 634명·1287 임플란트, GRADE 매우 낮음): 수평결핍(2–6 mm) 치조제에서 초음파/피에조(Ultrasonographic/piezo, USG) vs 전동치조제확장기(Motorized Ridge Expander, MRE) 비교.
+
+USG 골폭 증가 3.40 mm vs MRE 2.83 mm (p<0.0001); 임플란트 생존율은 동등(USG ~98.42%, MRE ~98.97%, 전체 98.07%); 골폭 증가 이질성 높음(I²>96%).
+
+USG는 지연 식립 골이동술(Osteo-Mobilization, OM), MRE는 즉시 식립 최소침습 골응축(Crestal Osteo-Condensation, CO-OC)에 적합 — 기기 선택은 원하는 분할 생물학에 따라 결정.
 
 ## Summary
 
@@ -75,4 +83,4 @@ The clinical bottom line is a device-to-biology mapping: **USG is the precise os
 - [[bone-regeneration/ayoub-2018-ridge-splitting-horizontal-augmentation-case]] — extends: scales the single-case horizontal ridge-split augmentation rationale to a pooled 24-study, 1287-implant device-comparison evidence base.
 - [[bone-regeneration/simion-1992-jawbone-enlargement-split-crest-gtr]] — the chisel split-crest + GTR origin technique that this SR cites as the ARSE foundation; quantifies the modern-device successors.
 - [[bone-regeneration/enislidis-2006-staged-ridge-splitting-implant-mandible]] — staged mandibular ridge split with deliberate buccal corticotomy; conceptually the osteo-mobilization (OM) family that this SR maps to USG.
-- [[implants/chen-2022-reverse-drilling-technique-alveolar-ridge-expansion]] — related motorized/drill-based ridge-expansion approach (osteo-condensation family).
+- [[implants/osteotomy-thermal/chen-2022-reverse-drilling-technique-alveolar-ridge-expansion]] — related motorized/drill-based ridge-expansion approach (osteo-condensation family).

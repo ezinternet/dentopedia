@@ -6,7 +6,7 @@ date: 2025-02-15
 doi: 10.7759/cureus.79041
 source: patino-marin-2025-sterilization-disinfection-dental-practices.md
 category: [infection-control]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 pmid: "40099062"
 pmcid: "PMC11912515"
@@ -15,11 +15,21 @@ text_filename: patino-marin-2025-sterilization-disinfection-dental-practices.txt
 tags: [sterilization, disinfection, infection-control, autoclave, biological-indicator, hydrogen-peroxide, UV, ethylene-oxide, sterile-storage]
 ---
 
-## One-line Summary
-Narrative review of sterilization and disinfection methods in dental practices, covering instrument washing, heat/chemical/radiation/gas sterilization, biological indicator protocols, and evidence-based sterile storage guidelines.
+## Three-line Summary
 
-## 한줄요약
-치과 감염 관리를 위한 기기 세척부터 열·화학·방사선·가스 멸균, 생물학적 지시계 사용법, 멸균 보관 프로토콜까지 총망라한 서술 리뷰 (Cureus 2025).
+Narrative review (Cureus 2025) covering the full instrument-reprocessing chain for dental practices: washing/decontamination, Spaulding classification–based disinfection levels, heat (autoclave, dry heat) and chemical (glutaraldehyde, vaporized H2O2) and radiation (UVC, gamma) and gas (EtO, ozone) sterilization, and biological indicator (BI) protocols mapped to each method.
+
+Vaporized hydrogen peroxide achieves 6-log10 reduction (vs <4-log for aerosolized H2O2); UVC achieves up to 9-log10 on flat surfaces but cannot penetrate shadows; event-related sterility (not time-based) is now the preferred storage standard (paper/plastic pouches ≤6 months, rigid containers ≤12 months).
+
+Human error is identified as the primary cause of sterilization failures — lack of staff training, incorrect temperature/time, and poor BI interpretation — making training the highest-yield infection-control intervention.
+
+## 세줄요약
+
+서술 리뷰(Cureus 2025): 기기 세척부터 Spaulding 분류 기반 소독 수준, 열(오토클레이브·건열)·화학(글루타르알데히드·기화 H2O2)·방사선(UVC·감마선)·가스(EtO·오존) 멸균, 그리고 각 방법별 생물학적 지시계(Biological Indicator, BI) 프로토콜까지 치과 기기 재처리 전 과정 총망라.
+
+기화 수소과산화물(Vaporized Hydrogen Peroxide, HPV)은 6-log10 감소(에어로졸 H2O2 <4-log 대비 우세); UVC는 평면에서 최대 9-log10이나 음영·균열 투과 불가; 멸균 유효기간은 시간 기반 대신 사건 기반(Event-related Sterility) 적용 권고(지류 파우치 ≤6개월, 단단한 용기 ≤12개월).
+
+멸균 실패의 주원인은 인적 오류(직원 교육 부족, 온도·시간 부정확, BI 판정 오류) — 교육이 감염관리 최우선 개선 지점.
 
 ## Summary
 

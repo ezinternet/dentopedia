@@ -13,13 +13,21 @@ source_collection: external
 
 radiology 카테고리 modality별 선량 벤치마크 표의 1차 레퍼런스(환자 설명용 수치). [[radiology/kang-2024-national-dental-radiological-dose-management]]·[[radiology/lee-2024-dental-dose-monitoring-system-establishment]]의 선량관리에 비교 기준선 제공, 소아 가산·FOV 효과 정량.
 
-## One-line Summary
+## Three-line Summary
 
 Literature dose compilation (post-2010) + dentaldose.org calculator: mean effective dose intraoral 1.32, panoramic 17.93, CBCT 121.09 µSv.
 
-## 한줄요약
+(incomplete)
 
-2010년 이후 문헌 선량 집계+웹 계산기(dentaldose.org). 평균 유효선량 구내 1.32, 파노라마 17.93, CBCT 121.09 µSv.
+(incomplete)
+
+## 세줄요약
+
+2010년 이후 문헌 선량 집계+웹 계산기(dentaldose.org).
+
+평균 유효선량 구내 1.32, 파노라마 17.93, CBCT 121.09 µSv.
+
+(incomplete)
 
 ## 1. Document Information
 

@@ -13,13 +13,21 @@ source_collection: external
 
 Extends our premolar C-shaped/morphology coverage with a pooled prevalence anchor. [[wiki/endodontics/anatomy/pertek-hatipoglu-2025-radicular-grooves-cshaped-taurodontism-premolars]] characterizes C-shaped/groove morphology and taurodontism in premolars at the descriptive level; this SR+MA supplies the missing population-level *how-common-is-it* number (pooled C-shaped canal prevalence in mandibular second premolars ≈1%) plus the geographic-variation signal, turning the morphology page into a prevalence-aware sibling.
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (17 studies, 7,047 participants, 12,523 teeth; random-effects) of C-shaped canal prevalence in adult mandibular second premolars via CBCT: pooled 1.31% participant-level (95% CI 0.68–2.53) and 0.96% tooth-level (95% CI 0.46–2.00), high heterogeneity (I²=90–93%); highest in South America (5.83%), lowest in Australia (0.42%).
+SR+MA (17 studies, 7,047 participants, 12,523 teeth;
 
-## 한줄요약
+random-effects) of C-shaped canal prevalence in adult mandibular second premolars via CBCT: pooled 1.31% participant-level (95% CI 0.68–2.53) and 0.96% tooth-level (95% CI 0.46–2.00), high heterogeneity (I²=90–93%);
+
+highest in South America (5.83%), lowest in Australia (0.42%).
+
+## 세줄요약
 
 성인 하악 제2소구치의 C자형 근관(C-shaped canal) 유병률 SR+MA(17개 연구, 7,047명, 12,523치아, CBCT, 랜덤효과): 환자 기준 1.31%(95% CI 0.68–2.53), 치아 기준 0.96%(95% CI 0.46–2.00), 이질성 높음(I²=90–93%), 남미 최고(5.83%)·호주 최저(0.42%).
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

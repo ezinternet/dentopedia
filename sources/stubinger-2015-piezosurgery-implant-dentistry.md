@@ -9,8 +9,21 @@ pdf_filename: stubinger-2015-piezosurgery-implant-dentistry.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Narrative clinical review (Clin Cosmet Investig Dent 2015;7:115–124) of piezoelectric bone surgery in implant dentistry — principal claimed advantages: precise/selective cutting, avoidance of thermal damage, preservation of soft tissue; indications: implant site prep, bone grafting, sinus floor elevation, ridge splitting, IAN lateralization.
+## Three-line Summary
+
+Narrative clinical review (Clin Cosmet Investig Dent 2015;7:115–124) of piezoelectric bone surgery in implant dentistry — principal claimed advantages
+
+precise/selective cutting, avoidance of thermal damage, preservation of soft tissue; indications
+
+implant site prep, bone grafting, sinus floor elevation, ridge splitting, IAN lateralization.
+
+## 세줄요약
+
+Narrative 임상적 (Clinical) review (Clin Cosmet Investig Dent 2015;7:115–124) of piezoelectric bone surgery in implant dentistry — principal claimed advantages
+
+precise/selective cutting, avoidance of thermal damage, preservation of soft tissue; indications
+
+implant site prep, bone grafting, sinus floor elevation, ridge splitting, IAN lateralization.
 
 ## 1. Document Information
 - Journal: Clinical, Cosmetic and Investigational Dentistry 2015;7:115–124

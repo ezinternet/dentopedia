@@ -13,15 +13,23 @@ text_filename: thereza-bussolaro-2026-ian-risk-cbct-at-risk-sr-ma.txt
 
 ## Why Ingested
 
-기존 [[oral-surgery/li-2022-ian-position-nerve-injury-sr-ma]] 및 [[oral-surgery/thereza-bussolaro-2026-cbct-ian-predictive-factors-sr-ma]](OR 값)를 보완하는 동일 그룹의 companion SR+MA — 이 논문은 OR 대신 절대 위험률(%)을 CBCT 특징별로 계층화해 환자 상담과 수술 계획 결정에 직접 사용 가능한 수치를 제공한다.
+기존 [[oral-surgery/nerve-injury/li-2022-ian-position-nerve-injury-sr-ma]] 및 [[oral-surgery/nerve-injury/thereza-bussolaro-2026-cbct-ian-predictive-factors-sr-ma]](OR 값)를 보완하는 동일 그룹의 companion SR+MA — 이 논문은 OR 대신 절대 위험률(%)을 CBCT 특징별로 계층화해 환자 상담과 수술 계획 결정에 직접 사용 가능한 수치를 제공한다.
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 11 prospective/retrospective cohorts with CBCT: overall IAN injury risk 9.52%, rising to 14.76% in high-risk cases; cortical bone absence elevates risk to 15.65%, lingual canal position ranges 1.34–27.47% by subclassification.
+SR+MA of 11 prospective/retrospective cohorts with CBCT: overall IAN injury risk 9.52%, rising to 14.76% in high-risk cases;
 
-## 한줄요약
+cortical bone absence elevates risk to 15.65%, lingual canal position ranges 1.34–27.47% by subclassification.
 
-CBCT 보유 11개 코호트 SR+MA — 전체 하치조신경(IAN) 손상률 9.52%; 고위험군 14.76%; 피질골 소실 시 15.65%; 설측 위치에 따라 1.34–27.47% 범위.
+(incomplete)
+
+## 세줄요약
+
+CBCT 보유 11개 코호트 SR+MA — 전체 하치조신경(IAN) 손상률 9.52%;
+
+고위험군 14.76%;
+
+피질골 소실 시 15.65%; 설측 위치에 따라 1.34–27.47% 범위.
 
 ## 1. Document Information
 - **Journal**: Journal of Oral and Maxillofacial Surgery (JOMS)

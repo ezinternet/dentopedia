@@ -13,13 +13,21 @@ source_collection: external
 
 Head-to-head histomorphometric comparison of xenograft alone vs xenograft+A-PRF in maxillary sinus augmentation using a split-mouth RCT design — adds high-quality PRF-adjunct evidence with histomorphometric and implant survival outcomes at 9 months. [[sinus-lift/lateral/sala-2024-sinus-perforation-outcomes-sr-ma]]
 
-## One-line Summary
+## Three-line Summary
 
 Split-mouth prospective RCT (n=30 patients, 60 sinuses, 9-month follow-up): A-PRF+DBBM vs DBBM alone — A-PRF significantly increased new bone formation (42.8% vs 31.2%, p=0.001) and reduced residual graft (28.4% vs 41.6%, p=0.001) with 100% implant survival in both groups.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 분할구강 전향 RCT (30명 60개 동공, 9개월): A-PRF+DBBM이 DBBM 단독 대비 신생골 유의하게 증가(42.8 vs 31.2%, p=0.001), 잔류이식재 유의하게 감소(28.4 vs 41.6%, p=0.001), 양군 임플란트 생존율 100%.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

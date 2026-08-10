@@ -9,8 +9,21 @@ pdf_filename: tennert-2024-direct-vs-indirect-composite-longevity-sr-ma.pdf
 source_collection: external
 ---
 
-## One-line Summary
-구치부 직접 vs 간접 복합레진 SR+MA (5 RCT, 627 수복): 직접 수복의 실패 위험이 유의하게 낮음(RR=0.61), 그러나 근거 수준 매우 낮음.
+## Three-line Summary
+
+구치부 직접 vs 간접 복합레진 SR+MA (5
+
+RCT, 627 수복): 직접 수복의 실패 위험이
+
+유의하게 낮음(RR=0.61), 그러나 근거 수준 매우 낮음.
+
+## 세줄요약
+
+구치부 직접 vs 간접 복합레진 SR+MA (5
+
+RCT, 627 수복): 직접 수복의 실패 위험이
+
+유의하게 낮음(RR=0.61), 그러나 근거 수준 매우 낮음.
 
 ## 1. Document Information
 - **Title**: Longevity of posterior direct versus indirect composite restorations: A systematic review and meta-analysis

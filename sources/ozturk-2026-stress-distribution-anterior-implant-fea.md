@@ -9,8 +9,21 @@ pdf_filename: ozturk-2026-stress-distribution-anterior-implant-fea.pdf
 source_collection: external
 ---
 
-## One-line Summary
-3D finite element analysis of stress distribution for a single implant placed in the anterior maxilla across different clinical scenarios (bone availability, loading angle, restoration protocol).
+## Three-line Summary
+
+3D finite element analysis of stress distribution for
+
+a single implant placed in the anterior maxilla
+
+across different clinical scenarios (bone availability, loading angle, restoration protocol).
+
+## 세줄요약
+
+3D finite element analysis of stress distribution for
+
+a single implant placed in the anterior maxilla
+
+across different 임상적 (Clinical) scenarios (bone availability, loading angle, restoration protocol).
 
 ## 1. Document Information
 - **Title:** Stress distribution of an anteriorly placed single implant in different clinical scenarios: a 3D finite element analysis

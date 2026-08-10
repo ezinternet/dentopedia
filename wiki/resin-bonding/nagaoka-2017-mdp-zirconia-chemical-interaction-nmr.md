@@ -6,7 +6,7 @@ date: 2017-03-30
 doi: 10.1038/srep45563
 source: nagaoka-2017-mdp-zirconia-chemical-interaction-nmr.md
 category: [resin-bonding]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: true
 pmid: "28358121"
@@ -24,13 +24,21 @@ relations:
     target: sharafeddin-2018-mdp-primers-zirconia-bond
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In-vitro NMR mechanistic study (¹H/³¹P MAS NMR + 2D ¹H→³¹P HETCOR) showing 10-MDP bonds to zirconia via both ionic interaction (deprotonated P-O⁻ ↔ partial-positive Zr) and hydrogen bonding (P=O / non-deprotonated P-OH ↔ Zr-OH), with concentration-dependent shear bond strength; the prior "ionic-only" hypothesis was rejected.
+In-vitro solid-state NMR study (¹H/³¹P MAS NMR + 2D ¹H→³¹P HETCOR) on Y-TZP zirconia coated with 10-MDP; first atomic-level resolution of the interaction, with a parallel concentration-dependent shear bond strength arm.
 
-## 한줄요약
+10-MDP binds zirconia via two simultaneous mechanisms: ionic bonding (deprotonated P-O⁻ ↔ partial-positive Zr) and hydrogen bonding (P=O / non-deprotonated P-OH ↔ Zr-OH); ~68.6% of adsorbed species were chemisorbed, and SBS increased with concentration above ~1 ppb.
 
-10-MDP가 지르코니아에 결합하는 기전을 핵자기공명(¹H/³¹P MAS NMR + 2D ¹H→³¹P HETCOR)으로 원자 수준에서 규명한 in-vitro 연구. 이온결합(탈양성자화된 P-O⁻ ↔ 부분 양전하 Zr)과 수소결합(P=O·비탈양성자 P-OH ↔ Zr-OH)이 함께 작용하며 전단결합강도(SBS)는 농도 의존적으로 증가했다. "이온결합 단독" 가설은 기각되었다.
+The "ionic-only" hypothesis was rejected; this explains why adequate-concentration (≥1 wt%) 10-MDP primers or cements achieve durable chemical bonds to zirconia where micromechanics alone fail after aging.
+
+## 세줄요약
+
+In-vitro 고체상태 NMR 연구 (¹H/³¹P MAS NMR + 2D ¹H→³¹P HETCOR): Y-TZP 지르코니아 표면에 흡착된 10-MDP의 결합 기전을 원자 수준에서 최초 규명하고, 병행 전단결합강도(SBS) 실험으로 농도 의존성을 확인.
+
+10-MDP는 이온결합(탈양성자 P-O⁻ ↔ Zr 부분양전하)과 수소결합(P=O·비탈양성자 P-OH ↔ Zr-OH) 두 경로로 동시에 결합하며, 흡착 분자의 약 68.6%가 화학결합형이었고 SBS는 ~1 ppb 이상에서 농도 의존적으로 증가했다.
+
+"이온결합 단독" 가설은 기각되었다 — 이는 충분한 농도의 10-MDP 프라이머·시멘트가 마모(micromechanics)만으론 오래 가지 않는 지르코니아에서 내구성 접착을 달성하는 이유를 설명한다.
 
 ## Summary
 

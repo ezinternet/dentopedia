@@ -10,8 +10,21 @@ pdf_filename: de-la-torre-canales-2024-botulinum-toxin-a-myogenous.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Umbrella review of 18 high-quality SRs (Karolinska/Egas Moniz) showing BoNT-A is superior to placebo but not to standard treatments for myogenous TMD (M-TMD) pain, with notable adverse events on muscle and bone — recommended only as a last-line option.
+## Three-line Summary
+
+Umbrella review of systematic reviews (18 high-quality SRs, PROSPERO CRD42023468160, Karolinska Institutet) synthesizing evidence on botulinum toxin type A (BoNT-A) intramuscular injection for myogenous temporomandibular disorders (M-TMD) from database inception to December 2023.
+
+BoNT-A was significantly superior to placebo for pain reduction but demonstrated no superiority over standard treatments (splints, physiotherapy, pharmacotherapy, dry needling) for pain or maximum mouth opening; adverse events on masticatory muscle (atrophy, fatty infiltration, weakness) and bony tissue (mandibular bone-volume loss, condylar/alveolar changes) were higher than controls.
+
+BoNT-A should be reserved as a last-line option for M-TMD — a critical qualification given the widespread off-label use — because it offers no advantage over established non-invasive therapies and carries a clinically meaningful musculoskeletal safety signal.
+
+## 세줄요약
+
+우산형 리뷰(18편 고질 SR, PROSPERO CRD42023468160, 카롤린스카 대학): 저작근성 측두하악장애(Myogenous TMD, M-TMD)에 대한 보툴리눔독소 A형(BoNT-A) 근내 주사의 근거를 DB 개시~2023년 12월까지 종합.
+
+BoNT-A는 위약 대비 통증 감소에서 유의 우수하나, 표준 치료(스플린트·물리치료·약물·건침) 대비 통증 및 최대 개구량(Maximum Mouth Opening, MMO)에서 우월성 없음; 저작근(위축·지방 침윤·약화) 및 골조직(하악 골용적 손실·과두·치조골 변화) 이상반응이 대조군보다 높음.
+
+M-TMD에서 BoNT-A는 확립된 비침습 치료 대비 이점이 없고 근골격계 안전 신호가 있으므로 최후 수단(Last-line)으로만 사용을 권고.
 
 ## 1. Document Information
 - **Journal**: Drugs 2024, 84(7):779-809

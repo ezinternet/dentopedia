@@ -10,8 +10,21 @@ pdf_filename: del-fabbro-2025-sinus-augmentation-materials-lateral-approach.pdf
 source_collection: external
 ---
 
-## One-line Summary
-SR(49개 RCT, 1722 MSFA): 측창 상악동 거상술 시 이식재 종류에 무관하게 임플란트 생존율 84.6-100%; 이식재 선택이 단기 임플란트 생존율에 유의한 영향 없음 — 단, 장기 골안정성 데이터 부족.
+## Three-line Summary
+
+Systematic review (PROSPERO-registered; 49 RCTs from 57 articles, 1,265 patients, 1,722 maxillary sinus floor augmentations via lateral approach; risk of bias: 13 low, 30 some concerns, 6 high) assessing efficacy of different grafting materials.
+
+Implant survival ranged 84.6–100% across all graft types (xenograft DBBM, autograft, synthetic HA/β-TCP) with no statistically significant differences between materials; autograft + DBBM mixture previously regarded as the gold standard showed equivalence to DBBM alone.
+
+Short-term outcomes are well-documented but long-term bone stability data for newer synthetic substitutes remain insufficient; graft selection can safely be based on biological risk, availability, and cost rather than implant survival alone.
+
+## 세줄요약
+
+체계적 문헌고찰 (PROSPERO 등록; 57편에서 49개 RCT, 환자 1,265명, 측창 접근 상악동 거상술 (Maxillary Sinus Floor Augmentation, MSFA) 1,722건; 비뚤림 위험: 13편 낮음·30편 일부 우려·6편 높음) — 이식재 종류별 효능을 평가했다.
+
+모든 이식재 유형(이종골 DBBM·자가골·합성 HA/β-TCP)에서 임플란트 생존율 84.6~100%로 재료 간 통계적 유의 차이 없음; 기존 표준으로 여겨진 자가골+DBBM 혼합은 DBBM 단독과 동등했다.
+
+단기 결과는 충분히 documented되어 있으나 신형 합성 대체재의 장기 골안정성 데이터가 부족하며, 이식재 선택은 임플란트 생존율보다 생물학적 위험·가용성·비용을 기준으로 해도 무방하다.
 
 ## 1. Document Information
 - **Journal**: Clinical Implant Dentistry and Related Research 2025;27:e70053

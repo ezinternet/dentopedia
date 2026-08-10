@@ -6,7 +6,7 @@ date: 2026-06-15
 doi: 10.7759/cureus.110871
 source: bader-alzamanan-2026-arthrocentesis-iprf-tmd-meta-tsa.md
 category: [tmj]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "42306021"
@@ -22,11 +22,21 @@ relations:
     target: ijoms-2023-arthrocentesis-conservative-tmd-sr-ma
 ---
 
-## One-line Summary
-Updated SR+MA with trial sequential analysis (Cureus 2026; 9 RCTs, 320 patients / 374 joints): arthrocentesis plus injectable platelet-rich fibrin (i-PRF) significantly reduces TMD pain (MD -1.62 VAS, 95% CI -2.28 to -0.96, p<0.001; I²=73.55%) and improves MMO (+5.03 mm), contralateral excursion (+0.94 mm), and protrusive movement (+1.08 mm) vs control; TSA confirms the pain result is conclusive and sufficiently powered (Z-curve crosses both boundaries); GRADE moderate; QoL and lateral excursion NS.
+## Three-line Summary
 
-## 한줄요약
-업데이트 SR+MA + 순차분석(TSA) (Cureus 2026; 9 RCT, 환자 320명/관절 374개): 관절천자(Arthrocentesis)에 주입형 혈소판농축섬유소(i-PRF) 병용 시 악관절증(TMD) 통증 유의 감소(VAS MD -1.62, 95% CI -2.28~-0.96, p<0.001), 최대개구량(MMO) +5.03 mm·반대측 측방운동 +0.94 mm·전방운동 +1.08 mm 개선; TSA가 통증 결과를 결정적·충분 검정력으로 확인; GRADE moderate; 삶의 질(QoL)·측방운동은 유의차 없음.
+Updated SR+MA with trial sequential analysis (Cureus 2026; 9 RCTs, 320 patients / 374 joints) — first i-PRF-specific arthrocentesis adjunct synthesis with TSA — comparing arthrocentesis plus injectable platelet-rich fibrin (i-PRF) against control for TMD.
+
+Arthrocentesis + i-PRF significantly reduced pain (VAS MD −1.62, 95% CI −2.28 to −0.96, p<0.001; I²=73.55%) with sustained effect at 3, 6, and 9–12 months; MMO improved +5.03 mm; TSA confirmed the pain result is conclusive and sufficiently powered; GRADE moderate; QoL and lateral excursion were not significant.
+
+The pain benefit is conclusive per TSA (no further trials needed for that endpoint); however, substantial heterogeneity (I²=73–85%), mixed comparators, and small samples limit the strength of MMO and functional-movement conclusions.
+
+## 세줄요약
+
+악관절증(TMD)에서 관절천자(Arthrocentesis)+주입형 혈소판농축섬유소(i-PRF) vs 대조군을 비교한 첫 i-PRF 특이적 SR+MA+순차분석(TSA) (Cureus 2026; 9 RCT, 환자 320명/관절 374개).
+
+통증 VAS MD −1.62 (95% CI −2.28~−0.96, p<0.001; I²=73.55%) 유의 감소, 3·6·9–12개월 유지; 최대개구량(MMO) +5.03 mm 개선; TSA가 통증 결과를 결정적·충분 검정력으로 확인; GRADE moderate; 삶의 질(QoL)·측방운동은 유의차 없음.
+
+통증 이득은 TSA로 결론적(추가 시험 불필요); 그러나 높은 이질성(I²=73–85%)·혼합된 비교군·소규모 표본이 MMO·기능적 운동 결과 해석을 제한.
 
 ## Summary
 This 2026 Cureus systematic review and meta-analysis (Bader Alzamanan et al., Kuwait Ministry of Health) is the first i-PRF-specific synthesis of arthrocentesis adjunct therapy to add **트라이얼 순차분석 (Trial Sequential Analysis, TSA)** to the primary pain endpoint. Nine randomized controlled trials (320 patients, 374 joints; published 2021-2026 across Turkey, Egypt, India, and Brazil) compared 관절천자 (Arthrocentesis, AC) plus intra-articular 주입형 혈소판농축섬유소 (Injectable Platelet-Rich Fibrin, i-PRF) against control (AC alone, conservative care, or Ringer's lactate). The pooled pain reduction was statistically significant and remained so at every follow-up window (3, 6, and 9-12 months) and across all pain types (chewing, jaw movement, palpation). TSA showed the cumulative Z-curve crossed both the conventional and the sequential monitoring boundaries, meaning the pain benefit is **conclusive and sufficiently powered — no further trials are needed for that endpoint**. Functional gains (MMO, contralateral excursion, protrusive movement) were also significant, while overall quality of life (OHIP-14) and right/left lateral excursion were not. GRADE certainty was moderate for all outcomes (downgraded only for imprecision).

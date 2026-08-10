@@ -1,0 +1,191 @@
+Title: Effectiveness of Pulpotomy in the Management of Symptomatic Irreversible Pulpitis in Mature Permanent Teeth: An Umbrella Review
+
+Authors: Mtalsi M, El Asmar M, Abouelala M, El Arabi S
+Journal: Cureus. 2026 Mar 07;18(3):e104814
+PMID: 41948253
+PMCID: PMC13051733
+DOI: 10.7759/cureus.104814
+Source: PubMed Central full text (retrieved via PubMed MCP get_full_text_article)
+
+According to PubMed, full text below. DOI: https://doi.org/10.7759/cureus.104814
+
+=== ABSTRACT ===
+The objective of this umbrella review is to analyze the conclusions drawn from systematic reviews and meta-analyses on pulpotomy effectiveness in the treatment of irreversible pulpitis in mature permanent teeth, focusing on the impact of pulp capping materials and factors influencing treatment outcomes.
+
+A search of electronic databases (PubMed, Science Direct, Google Scholar, CINAHL, Cochrane Library) was conducted up to December 2022 using the keywords: Pulpotomy, Child, Permanent mature teeth, Irreversible pulpitis. The methodological quality of systematic reviews was assessed using the AMSTAR (A Measurement Tool to Assess Systematic Reviews) 2 tool.
+
+Of the 332 articles selected, 11 were chosen for data extraction, focusing on pulpotomy success in treating irreversible pulpitis in mature permanent teeth, and evaluating the influence of materials and techniques on outcomes. Applying AMSTAR 2 criteria, only one systematic review was rated "moderate" quality; most were rated as "low" to "very low" quality.
+
+This umbrella review reported a very high pulpotomy success rate, up to 100%, varying with materials and follow-up duration. Pulpotomy success rates range from 37% to 100%, depending on the material used, with Biodentine (Septodont, Saint-Maur-des-Fosses, France), achieving the highest success rate.
+
+Short-term pulpotomy success rates ranged from 80% to 95%, exceeding root canal treatment, while long-term outcomes remain comparable. Pulpotomy success depends on pre- and perioperative conditions, hemostasis, and definitive coronal restoration.
+
+Analysis of systematic reviews indicates that pulpotomy is a promising alternative to conventional root therapy for managing irreversible pulpitis in mature permanent teeth. Available evidence remains limited, emphasizing the need for high-quality trials to confirm its effectiveness.
+
+=== FULL TEXT ===
+
+Introduction and background
+
+Irreversible pulpitis has long been defined as pulp damage that cannot heal, clinically manifested by intense and persistent spontaneous pain exacerbated by thermal pulp tests. Root canal treatment has always been the preferred therapeutic option for irreversible pulpitis, even in cases where root canal treatment is complex. These therapeutic approaches are based on the traditional understanding of pulpitis pathophysiology, particularly the "pulp strangulation theory," which suggests that the entire pulp is considered incapable of healing. However, recent histopathological investigations have shown that inflammation in teeth presenting irreversible pulpitis is typically confined to the coronal pulp, and that radicular pulp tissue remains unaffected and may be preserved. These observations have demonstrated a weak correlation between the clinical diagnosis and the true histological state of the pulp in permanent teeth with closed apex. Thus, a tooth that clinically presents with irreversible pulpitis does not necessarily present with it histologically, with the possibility of having part of the pulp healthy or presenting with reversible inflammation.
+
+The shift towards minimally invasive endodontics, enhanced knowledge of pulp defense responses, the availability of bioactive medications, and accumulating clinical and radiographic evidence have led to pulpotomy being recognized as a viable alternative to conventional root canal treatment, including in mature teeth.
+
+According to the American Association of Endodontists (AAE), pulpotomy is now defined as the removal of the coronal portion and preservation of the remaining root portion. Its purpose is to maintain pulp vitality by selectively removing infected/inflamed tissue and preserving healthy, functional tissue. In addition to its conservative philosophy, pulpotomy has several advantages: preservation of the tooth structure and, consequently, increased tooth survival, reduction of symptoms (pain and discomfort) for the patient, simplification of clinical procedures, reduced costs for patients, and preservation of the immunological and proprioceptive functions of the remaining pulp.
+
+The past decade has witnessed a notable growth in clinical research and review articles investigating the effectiveness of pulpotomy in managing irreversible pulpitis in mature permanent teeth. Whereas before, pulpotomy was generally used as an emergency treatment to alleviate the pain of irreversible pulpitis of mature permanent teeth. The majority of these studies have focused on the effect of different capping materials on the preservation of pulp vitality in mature permanent teeth after pulpotomy.
+
+In this context, this umbrella review aims to critically analyze the systematic reviews and meta-analyses published on pulpotomy of mature permanent teeth with irreversible pulpitis in order to clarify the clinical and radiographic efficacy of this approach, evaluate the influence of bioactive materials, and identify other factors that may influence the success or failure of this therapy.
+
+Review
+
+Methods
+
+Protocol and Registration
+
+This umbrella review was conducted in accordance with the PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) guidelines. The protocol was registered in the PROSPERO database (CRD42024500772). The research question: How effective is pulpotomy in the treatment of irreversible pulpitis in mature permanent teeth?
+
+Inclusion Criteria
+
+Systematic reviews, with or without meta-analyses, that met PRISMA criteria and were published in English were included. These reviews had to evaluate the effectiveness or success of pulpotomy in the treatment of mature permanent teeth with irreversible pulpitis in children and/or adults. No restrictions were applied to the year of publication.
+
+Exclusion Criteria
+
+Publications whose full text was not accessible and those that did not meet the predefined inclusion criteria were excluded.
+
+Research Strategy
+
+An electronic data search was conducted across five electronic databases: PubMed, Google Scholar, Science Direct, CINAHL, and the Cochrane Database of Systematic Reviews. The PICO framework was adopted. Population: children or the general population presenting mature permanent teeth affected by caries and irreversible pulpitis. Intervention: pulpotomy. Comparison: pulpectomy. Primary outcome: healing, defined by asymptomatic tooth and the absence of pulp and periodontal complications.
+
+The Boolean search strategy was structured around four concepts: Permanent Dentition AND/OR Child AND Irreversible Pulpitis AND Pulpotomy. The electronic search was conducted over three months, from October 2022 to December 2022, and was limited to English-language studies.
+
+Data Collection
+
+Two reviewers independently screened all titles and abstracts. The same researchers then reviewed the full text of studies deemed relevant. Disagreements were resolved through discussion with a third reviewer.
+
+Data Extraction
+
+Data from all included studies were extracted using data extraction forms: authors, year of publication, number of studies included, study design, population, exposure, comparison, variables studied, methods of analysis and quality assessment, and results.
+
+Risk of Bias Assessment
+
+Two researchers used the AMSTAR 2 measurement tool to assess the systematic reviews to determine methodological quality/confidence in the results.
+
+Results
+
+Study Selection
+
+The initial literature search identified 332 articles. After removing 15 duplicates, 304 articles were excluded based on title/abstract review. The remaining 13 articles were analyzed in full text; two were excluded because they dealt with primary teeth or immature permanent teeth. Finally, 11 systematic reviews were included (Figure 1, PRISMA flow diagram).
+
+Study Characteristics
+
+11 systematic reviews were included (Table 1), covering the period between 2018 and 2022, evaluating pulpotomy effectiveness in irreversible pulpitis in mature permanent teeth by comparing different capping materials and reporting clinical/radiographic outcomes.
+
+Risk of Bias Assessment
+
+Good inter-examiner reliability (kappa = 1.000). Six studies were of extremely low quality (critically low), four were of poor quality (low), and one was of moderate quality (Cushley et al. 2019) (Table 2).
+
+Summary of Results
+
+Very high success rate for pulpotomy, reaching up to 100%, varying by materials and follow-up duration.
+- Calcium hydroxide (CH): lowest success rate, as low as 37%.
+- Mineral Trioxide Aggregate (MTA): clinical success 82-100%; radiographic success 53.3-95%.
+- Calcium-enriched cement (CEM): clinical success 86-100%; radiographic success 86-98%.
+- Biodentine: high success rate 80-100%.
+
+Factors influencing success: perioperative conditions, hemostasis, pulp healing potential, presence/absence of periapical involvement, patient age.
+
+Short term (<=12 months): healing rates 80-95%, higher than conventional root canal treatment; long term: no difference between the two therapies. Pulpotomy yielded better postoperative pain control than conventional root canal treatment.
+
+Discussion
+
+This umbrella review provides a qualitative synthesis of data from systematic reviews on pulpotomy effectiveness in mature permanent teeth with irreversible pulpitis. PRISMA-guided search limited to 2018-2022 publications. Strict inclusion criteria limited to mature permanent teeth diagnosed with irreversible pulpitis treated by pulpotomy.
+
+Searching "Child" as mesh on PubMed with pulpotomy yielded zero results ("And"), so "and/or" was used; selected articles cover children, adolescents, and adults broadly, so conclusions pertain to mature permanent teeth regardless of age (not specific to children).
+
+Methodological quality per AMSTAR varies from very low to moderate — caution needed interpreting results.
+
+Effectiveness of Pulpotomy as a Definitive Treatment for Irreversible Pulpitis in Mature Permanent Teeth
+
+Pulpotomy success often compared to root canal treatment (RCT). Short term (<=12 months): clinical success rate generally 80-95%, some near 100%; pulpotomy at least as effective as non-surgical RCT with additional advantages (quicker, less invasive, better tolerated).
+
+Long term (>36 months): data limited/heterogeneous. Cushley et al. (2019): 93.97% clinical success at 36 months, declining to 71.3% at 60 months — possible decrease in effectiveness over time, but interpretation cautious due to poor methodological quality/bias risk.
+
+Four systematic reviews directly compared pulpotomy with conventional endodontic treatment — overall comparable efficacy; some show better postoperative pain control with pulpotomy; others show similar long-term results. Pulpotomy is a viable therapeutic alternative provided selection criteria and surgical protocol are followed.
+
+Pulp Capping Materials
+
+- Calcium hydroxide (CH) — 6 reviews — lowest success rates (as low as 37%).
+- MTA — 8 reviews — clinical 82-100%, radiographic 53.3-95% (more variable).
+- Calcium-enriched mixture cement (CEM) — 6 reviews — clinical/radiographic success >85%, similar to MTA.
+- Platelet-rich fibrin (PRF) — 3 reviews — heterogeneous 35.5-100%, remains experimental.
+- Biodentine — 5 reviews — highest success rates 80-100%, lower risk of discoloration.
+
+Calcium silicate-based hydraulic cements (MTA, CEM, Biodentine) offer superior/more consistent results than calcium hydroxide, though no single material definitively superior among them.
+
+Factors Contributing to Success/Failure of Pulpotomy
+
+- Perioperative conditions: preoperative decontamination, anesthetic type (lidocaine/articaine with epinephrine), rubber dam isolation, curettage technique, perioperative irrigation (NaOCl/chlorhexidine).
+- Hemostasis: must be achieved quickly after inflamed pulp tissue removal; duration has no statistical effect on success or postoperative pain intensity, but can be a diagnostic indicator of inflammation extent/healing capacity. Reported hemostasis durations: 5-10 min, 2-25 min, or 1-10 min.
+- Potential for healing: teeth with irreversible pulpitis retain significant healing potential because inflammation is essentially limited to coronal pulp; radicular pulp may contain Dental Pulp Stem Cells - Inflammatory Pulp (DPSC-IP) with regeneration potential; pulpotomy modulates immune response and reduces pro-inflammatory cytokines.
+- Periapical involvement: discussed in 4 reviews — radiographic lesion generally associated with lower success rate and postoperative pain; other reviews indicate pulp may remain vital despite periapical inflammation, making diagnosis crucial.
+- Coronal restoration: lack of seal is a major cause of pulpotomy failure; prosthetic crowns and amalgam fillings better than composite resin fillings.
+- Patient age: does not appear to affect success.
+
+Summary: strict adherence to operating protocol, achievement of hemostasis, and a tight coronal filling are required for success.
+
+Strengths and Limitations
+
+Strengths: transparent methodology, well-defined eligibility criteria, rich corpus covering short/medium-term outcomes, extensive comparative data on capping materials.
+Limitations: low AMSTAR 2 quality overall, lack of studies with long follow-up (>5 years), substantial heterogeneity (methodology, population age, materials, success-assessment criteria: clinical/radiological/histological).
+
+Impact of the Umbrella Review on Pediatric Clinical Practice
+
+First permanent molar particularly susceptible to caries/irreversible pulpitis in children. Most included reviews focused on mixed populations; only three explicitly included pediatric cohorts. Pulpotomy may be viable for mature permanent teeth with accurate diagnosis and protocol adherence, but pediatric-specific data remain limited.
+
+Implications for Research
+
+Future research: multicenter, methodologically rigorous RCTs with standardized diagnostic criteria and long-term follow-up (>5 years), particularly in adolescents with mature permanent teeth. Findings align with AAE (2021) and European Society of Endodontology (ESE, 2019) recommendations recognizing pulpotomy as a viable treatment option under well-defined clinical conditions, supporting a shift toward more conservative endodontic therapies.
+
+=== TABLE 1: Characteristics of the systematic reviews included ===
+(SR: systematic review; MA: meta-analysis; RCT: root canal treatment; GRADE: Grading of Recommendations Assessment, Development and Evaluation)
+
+1. Skitioui et al. (2022) — 4 randomized studies — SR — Comparison between RCT and pulpotomy; comparison between different pulpotomy materials.
+2. Zanini et al. (2019) — 15 ex vivo histological studies, 15 case reports/series, 17 cohort studies, 10 clinical/RCTs — GRADE approach — SR — Procedures/materials for pulp capping and crown restorations following complete pulpotomy on mature permanent teeth with irreversible pulpitis.
+3. Tomson et al. (2022) — 5 randomized studies — GRADE + Cochrane RoB Tool — SR and MA — Effectiveness of pulpotomy vs RCT in managing post-operative pain.
+4. Vibha et al. (2022) — 13 studies (in vivo clinical trials, retrospective, RCTs) — Cochrane RoB Tool — SR and MA — Effectiveness of pulpotomy vs RCT for pain relief and treatment outcome in symptomatic irreversible pulpitis, mature permanent posterior teeth.
+5. Hakami et al. (2020) — 8 prospective studies — Cochrane RoB Tool — SR — Evaluation of pulpotomy in mature permanent teeth with irreversible pulpitis.
+6. Taneja and Singh (2019) — 5 RCTs — Cochrane RoB Tool — SR and MA — Effectiveness of MTA and calcium hydroxide as pulpotomy agents on permanent teeth.
+7. Santos et al. (2021) — 12 (RCTs, prospective cohorts) — ROBINS-I + Newcastle-Ottawa + Cochrane tool — SR — Outcomes of vital pulp therapy on mature permanent posterior teeth with symptomatic irreversible pulpitis.
+8. Ather et al. (2022) — 11 (prospective/retrospective, RCTs) — Cochrane RoB 2 + Modified Downs and Black — SR and MA — Success rate of pulpotomy in carious teeth with irreversible pulpitis; influence of predictive factors (symptoms, root apex development, capping material).
+9. Zafar et al. (2020) — 6 (RCTs, single-group intervention, retrospective) — Cochrane RoB Tool — SR — Success of pulpotomy on mature permanent teeth with irreversible pulpitis.
+10. Li et al. (2019) — 21 RCTs — Cochrane Manual 5.1.0 + GRADE — SR and MA — Effectiveness/cost-efficiency of pulpotomy in permanent teeth with pulp exposure due to extensive caries.
+11. Cushley et al. (2019) — 8 (prospective/retrospective, RCTs) — Cochrane Handbook + Modified Downs and Black — SR — Comparison between pulpotomy and RCT.
+
+=== TABLE 2: AMSTAR 2 quality ratings ===
+Skitioui 2022 — Critically low
+Zanini 2019 — Critically low
+Tomson 2022 — Critically low
+Vibha 2022 — Critically low
+Hakami 2020 — Critically low
+Taneja and Singh 2019 — Critically low
+Santos 2021 — Low
+Ather 2022 — Low
+Zafar 2020 — Low
+Li 2019 — Low
+Cushley 2019 — Moderate
+
+=== TABLE 3: Main conclusions (selected numeric findings) ===
+- Skitioui 2022: 1,281 teeth (age 9-65). CEM clinical 97-98.19% / radiographic 86.1-92.2%; CH clinical 81.2% / radiographic 46.1%; MTA clinical 83.3-98% / radiographic 53.3-95%.
+- Zanini 2019: CH and CH+ZOE/IRM 37-100%; Biodentine 80-100%; MTA 44-100%; CEM 78-100%; ZOE 42-100%; PRF 100%.
+- Tomson 2022: 2,178 patients (age 9-65). At 12 mo: pulpotomy clinical 97.6% / radiographic 92.8% vs RCT clinical 98.3% / radiographic 81.2%. At 2 yr: pulpotomy 98.2%/86.1% vs RCT 79.5%/79.5%. At 5 yr: pulpotomy 78.1% vs RCT 75.3%. No difference in patient-reported pain at day 7 postop.
+- Vibha 2022: 1,234 patients (age 6-79). Full pulpotomy MTA 80-85%; partial pulpotomy MTA 85-90%, Biodentine 90%, CH 43%.
+- Hakami 2020: 1,547 patients with mature permanent molars. Pulpotomy promising across age groups, especially molars.
+- Taneja and Singh 2019: 244 permanent molars (age 6-61). MTA significantly higher success than CH at 6 and 12 months.
+- Santos 2021: mature permanent posterior teeth (age 8-65). At 1 yr full/partial pulpotomy MTA/CEM/Biodentine 92-100% clinical / 92-98% radiographic. At 2 yr CEM 98%/86%. At 3-5 yr MTA/CEM 98% clinical / 78-85% radiographic.
+- Ather 2022: pulpotomy overall 86%; open apex teeth 96%, closed apices 83%. Biodentine significantly higher success than MTA, CEM, CH.
+- Zafar 2020: 691 teeth (age 10-70). Overall clinical/radiographic success 68-100%.
+- Li 2019: pulp exposure due to caries. At 24 mo MTA higher radiographic success than CEM; at 60 mo CH higher radiographic success than direct pulp capping.
+- Cushley 2019: 1,447 patients (age 9-65). At 12 mo: 97.4% clinical / 95.43% radiographic. At 36 mo: 93.97% clinical / 88.39% radiographic (declining further to 71.3% by 60 months per Discussion text).
+
+=== CONCLUSIONS ===
+This umbrella review highlights that pulpotomy is an effective treatment option for mature permanent teeth diagnosed with irreversible pulpitis, showing favorable clinical and radiographic outcomes comparable to conventional root canal treatment. The choice of pulpotomy material may influence outcomes, with calcium silicate-based hydraulic cements (MTA, Biodentine) providing superior and more consistent results than calcium hydroxide. Findings support the growing role of vital pulp therapy in contemporary endodontic practice. Further high-quality RCTs with long-term follow-up are needed.

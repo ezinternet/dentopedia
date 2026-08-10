@@ -6,20 +6,28 @@ date: 2023-04-30
 doi: 10.5051/jpis.2202760138
 source: lee-2023-impact-polydeoxyribonucleotide-lateral-sinus-elevation.md
 category: [pdrn]
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/lee-2023-impact-polydeoxyribonucleotide-lateral-sinus-elevation.pdf
 pdf_filename: lee-2023-impact-polydeoxyribonucleotide-lateral-sinus-elevation.pdf
 source_collection: external
 tags: [pdrn, sinus-lift, lateral, bone-regeneration, animal]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Split-sinus in vivo study (4 beagles, lateral sinus floor elevation with simultaneous implant placement) showing a PDRN-soaked synthetic graft significantly improved new-bone area and apical bone-to-implant contact (BIC_a apical 76.7% vs 55.6%, P = 0.038) in the membrane-adjacent apical zone, with no effect in coronal/middle zones.
+Split-sinus in vivo study (4 beagles, lateral sinus floor elevation with simultaneous implant placement, split-sinus randomization to PDRN-soaked vs. saline-soaked collagenated synthetic graft, 8-week sacrifice) assessing zone-specific histomorphometric outcomes.
 
-## 한줄요약
+PDRN significantly improved apical bone-to-implant contact (BIC_a apical: 76.7 ± 9.3% vs 55.6 ± 22.1%, P = 0.038) and new-bone/residual-particle/fibrovascular tissue proportions in the membrane-adjacent apical zone; coronal and middle zones showed no significant differences.
 
-Beagle 4마리 lateral sinus floor elevation 모델에서 PDRN-soaked synthetic graft가 Schneiderian membrane 근접 apical zone에서 new bone area·BIC apical을 유의하게 향상. Coronal/middle zone은 효과 없음.
+PDRN's preclinical osteoinductive effect in sinus augmentation is localized to the region farthest from native bone — where baseline new-bone formation is hardest — rather than uniformly amplifying all augmentation zones.
+
+## 세줄요약
+
+줄1: Beagle 4마리의 lateral sinus floor elevation + 동시 임플란트 식립 모델에서 PDRN 침지 vs 대조 collagenated synthetic graft를 split-sinus 무작위 배정, 8주 후 조직형태 계측.
+
+줄2: Schneiderian membrane 인접 apical zone에서 BIC apical(76.7% vs 55.6%, P=0.038)과 신생골·잔여 입자·섬유혈관 조직 비율이 PDRN군에서 유의하게 향상; coronal·middle zone은 유의차 없음.
+
+줄3: PDRN의 전임상 상악동 증대 효과는 기존 골에서 가장 먼 apical zone(신생골 형성이 가장 어려운 부위)에 국한되며 모든 구역을 균일하게 향상시키지는 않음.
 
 ## Summary
 

@@ -6,7 +6,7 @@ date: 2023-08-14
 doi: 10.1016/j.jcms.2023.08.007
 source: grillo-2023-written-informed-consent-facial-cosmetic.md
 category: [complaint-management]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 full_text: false
 pmid: "37591743"
@@ -16,13 +16,19 @@ text_filename: grillo-2023-written-informed-consent-facial-cosmetic.txt
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
+Retrospective 10-year analysis (Brazil, 2012–2022) of 992 facial cosmetic surgery litigations, with 122 meeting inclusion criteria; abstract-only retrieval.
 
-Retrospective 10-year (2012-2022) analysis of Brazilian facial cosmetic surgery litigation (992 identified → 122 included) found that appropriate written informed consent yields favorable defendant outcomes and significantly reduces litigation losses and mean financial damage ($59,536).
+Appropriate written informed consent was associated with favorable defendant outcomes and significantly reduced both litigation losses and financial damage; mean financial damage was $59,536 (range $75–$500,000); female patients were more prone to litigation; the number of legal disputes increased over the decade.
 
-## 한줄요약
+Written informed consent is a pivotal medico-legal tool — its presence significantly shifts outcomes in favor of the defendant, reinforcing the principle that documentation quality is independently actionable.
 
-브라질 안면성형수술 소송 10년치(2012-2022, 992건 검색 → 122건 포함)를 후향 분석한 결과, 적절한 서면 동의서(written informed consent)가 피고(임상의) 승소로 이어지고 패소와 배상액(평균 $59,536)을 유의하게 줄였다.
+## 세줄요약
+브라질 안면성형수술 소송 10년치 후향 분석(2012–2022): 992건 검색 → 122건 포함 (초록만 취득).
+
+적절한 서면 동의서는 피고 유리 결과와 유의하게 연관; 패소 및 배상금 유의 감소; 평균 배상액 $59,536(범위 $75–$500,000); 여성 환자가 소송 더 많이 제기; 소송 건수는 10년간 증가 추세.
+
+서면 동의서는 핵심 의료법적 방어 수단 — 적절한 동의서 존재 자체가 피고 결과를 유의하게 개선하며, 문서화 품질이 독립적으로 법적 책임에 영향을 미친다.
 
 ## Summary
 

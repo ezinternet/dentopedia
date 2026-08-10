@@ -6,7 +6,7 @@ date: 2005-04-01
 doi: "10.1016/j.pain.2005.01.009"
 source: pathirathna-2005-t-type-calcium-gaba-neurosteroids.md
 category: [orofacial-pain]
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/pathirathna-2005-t-type-calcium-gaba-neurosteroids.pdf
 pdf_filename: pathirathna-2005-t-type-calcium-gaba-neurosteroids.pdf
 source_collection: external
@@ -16,13 +16,21 @@ relations:
     target: price-2009-chloride-regulation-pain-pathway
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Rat in vivo (thermal nociception) + in vitro electrophysiology study showing locally injected 5α-reduced neurosteroids produce potent, dose-dependent, enantioselective peripheral analgesia primarily through T-type Ca²⁺ channel blockade, with GABA-A potentiation amplifying but not independently driving the effect.
+Rat in vivo (radiant-heat paw-withdrawal thermal nociception) and in vitro voltage-clamp electrophysiology study using mechanism-selective synthetic neurosteroid analogues (ECN, CDNC24) to dissect the peripheral analgesic mechanism of 5α-reduced neuroactive steroids (alphaxalone, allopregnanolone, ACN).
 
-## 한줄요약
+Locally injected 5α-reduced neurosteroids produced potent, dose-dependent, enantioselective peripheral analgesia; T-type Ca²⁺ channel blockade was the primary driver (ECN with T-type activity but no GABA-A activity was analgesic alone), while GABA-A channels amplified but did not independently produce analgesia (CDNC24 with GABA-A only was not analgesic alone).
 
-동물(rat) in vivo 열통각 + in vitro 전기생리 실험 — 국소 주사 5α-환원 신경스테로이드가 주로 T-type Ca²⁺ 통로 차단으로 강력한 말초 진통을 내고, GABA-A 강화는 단독 진통은 못 내나 T-type 차단 진통을 증폭한다.
+These findings establish the molecular plausibility linking declining endogenous neurosteroids to loss of peripheral anti-nociceptive tone — relevant to trigeminal/facial pain and the postmenopausal neurosteroid-decline hypothesis in burning mouth syndrome.
+
+## 세줄요약
+
+줄1: 쥐 in vivo 열통각(발 회피반사) + in vitro 전압클램프 실험 — 기전 선택적 합성 신경스테로이드 유사체(ECN, CDNC24)로 5α-환원 신경활성 스테로이드의 말초 진통 기전 분리 연구.
+
+줄2: 국소 주사 5α-환원 신경스테로이드는 강력·용량 의존적·입체선택적 말초 진통 유도; T-type Ca²⁺ 통로 차단이 주요 기전(ECN만 진통), GABA-A는 단독 진통 불가(CDNC24 단독 비효)하지만 T-type 차단 진통을 증폭.
+
+줄3: 내인성 신경스테로이드 감소와 말초 항통각 기전 소실을 연결하는 분자 근거 — 삼차신경 통증 및 폐경 후 구강작열감(BMS) 신경스테로이드 감소 가설의 생물학적 기반 제공.
 
 ## Summary
 
@@ -51,4 +59,4 @@ T-type Ca²⁺ channels (CaV3.2) are implicated in trigeminal/facial pain, and n
 
 - [[orofacial-pain/price-2009-chloride-regulation-pain-pathway]] — GABA-A/chloride inhibition framework that this study's GABA-A arm operates within.
 - [[orofacial-pain/wilke-2020-chloride-underrated-ion-nociceptors]] — peripheral nociceptor ion-channel landscape.
-- [[oral-medicine/jaaskelainen-2018-burning-mouth-syndrome-neuropathic-pain]] — BMS gonadal/neurosteroid-decline hypothesis.
+- [[oral-medicine/burning-mouth-syndrome/jaaskelainen-2018-burning-mouth-syndrome-neuropathic-pain]] — BMS gonadal/neurosteroid-decline hypothesis.

@@ -6,7 +6,7 @@ date: 2014-05-27
 doi: 10.1155/2014/367265
 source: chakar-2014-dbbm-bcp-platelet-lysate-rabbit.md
 category: [bone-regeneration]
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/chakar-2014-dbbm-bcp-platelet-lysate-rabbit.pdf
 pdf_filename: chakar-2014-dbbm-bcp-platelet-lysate-rabbit.pdf
 source_collection: external
@@ -16,13 +16,21 @@ relations:
     target: fujioka-kobayashi-2022-synthetic-biomaterials-dbbm-augmentation
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Rabbit femoral critical-size defect study (n=12, 6 weeks): BCP (60%HA/40%β-TCP) produced 70% more new bone (p<0.001) and had 60% less residual material (p<0.001) than DBBM; autologous platelet lysate (APL) added no additional bone formation benefit to either material.
+Randomized rabbit femoral condyle critical-size defect study (n=12 rabbits, bilateral defects, 4 groups) comparing DBBM vs BCP ± autologous platelet lysate (APL) at 6 weeks by histomorphometry.
 
-## 한줄요약
+BCP (60%HA/40%β-TCP) produced 70% more new bone (p<0.001) and had 60% less residual material (p<0.001) than DBBM; APL addition showed no significant effect on bone formation for either material despite confirmed in vitro mitogenic activity.
 
-토끼 대퇴골 임계결손(n=12, 6주): BCP가 DBBM보다 신생골 70% 더 많고(p<0.001), 잔여재료 60% 적음(p<0.001); APL(혈소판 용해물) 첨가는 DBBM·BCP 양쪽 모두에서 추가 골형성 효과 없음.
+BCP's faster resorption and superior early bone formation suggest it may be preferred over DBBM for short-term bone quantity, but the negative APL finding cautions against assuming platelet concentrates benefit all graft combinations.
+
+## 세줄요약
+
+토끼 대퇴골 임계결손(n=12마리, 4군) DBBM vs BCP ± 자가혈소판용해물(Autologous Platelet Lysate, APL)을 조직형태계측으로 비교한 무작위 동물 연구.
+
+이인산칼슘(Biphasic Calcium Phosphate, BCP; 60%HA/40%β-TCP)이 DBBM보다 신생골 70% 더 많고(p<0.001) 잔여재료 60% 적음(p<0.001); APL 첨가는 DBBM·BCP 모두에서 추가 골형성 효과 없음.
+
+BCP의 조기 골형성 우위는 빠른 흡수성에 기인하며, APL의 시험관 내 유사분열 활성이 생체 내 골재생으로 이어지지 않는다는 부정적 결과는 혈소판 농축물 사용의 근거를 제한한다.
 
 ## Summary
 

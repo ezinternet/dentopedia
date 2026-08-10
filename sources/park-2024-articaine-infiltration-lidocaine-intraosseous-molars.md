@@ -13,13 +13,21 @@ source_collection: external
 
 Korean (SNU Bundang Hospital) head-to-head data on anesthetizing single mandibular molars for caries treatment without IANB — directly relevant to our clinic's restorative/endodontic workflow. Extends the local-anesthesia evidence base in [[wiki/drug/hwang-2023-proposal-clinical-guidelines-local-anesthesia-dentistry]] (mandibular molar anesthesia is the hardest case the guideline addresses) and complements the agent/concentration discussion in [[wiki/drug/karm-2017-lidocaine-epinephrine-200000-third-molar]] by comparing a *technique* axis (articaine buccal infiltration vs lidocaine intraosseous) rather than a concentration axis.
 
-## One-line Summary
+## Three-line Summary
 
 Retrospective chart review (n=48, 24 ABI vs 24 LIO, SNU Bundang Hospital, ICDAS 5–6 mandibular molars): lidocaine intraosseous anesthesia via QuickSleeper5 achieved 100% success with no supplemental anesthesia vs 70.8% for 4% articaine buccal infiltration (P<0.001), with less injection pain (Heft-Parker VAS 17.3 vs 32.0, P<0.01), faster onset (91.7% numb at 1 min vs 33.3% at 5 min, P<0.001), and shorter duration (118.6 vs 231.3 min, P<0.001).
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 후향적 의무기록 분석 (n=48, ABI 24 vs LIO 24, 서울대분당병원, ICDAS 5–6 하악 대구치): QuickSleeper5 골내마취(LIO)는 추가 마취 없이 100% 성공 vs 4% 아티카인 협측 침윤(ABI) 70.8% (P<0.001), 주사 통증 더 적음(Heft-Parker VAS 17.3 vs 32.0, P<0.01), 발현 빠름(1분에 91.7% 마취 vs ABI는 5분에 33.3%, P<0.001), 지속 짧음(118.6 vs 231.3분, P<0.001).
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

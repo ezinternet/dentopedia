@@ -13,13 +13,21 @@ source_collection: external
 
 The [[wiki/implants/zhang-2025-expert-consensus-km-augmentation-second-stage]] expert consensus cites earlier systematic review evidence as its evidentiary backbone. This 2016 SR by Bassetti et al. is one of the foundational references specifically scoped to **second-stage surgery** (implant uncovering) procedures — the narrower timing window that the 2025 consensus also targets. It anchors the KM-gain outcome benchmarks (APPTF/VP + FGG: up to 9.35 mm KT) and volume-gain benchmarks (REF: 2.41 mm; APPTF + SCTG: 3.10 mm) that later reviews and the consensus refined. Also extends [[wiki/overviews/keratinized-mucosa-peri-implant-health-overview]] by documenting what surgical options were available prior to widespread xenograft/collagen matrix adoption.
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (10 studies, 2016) of soft-tissue augmentation at second-stage implant surgery: APPTF/VP + FGG or XCM best for KM width gain (up to 9.35 mm); REF or APPTF + SCTG best for volume gain (2.41–3.10 mm); all studies high risk of bias, no meta-analysis possible.
+Systematic review (10 studies: 8 prospective + 2 case series; search to July 2015) of soft-tissue augmentation procedures specifically at second-stage implant uncovering surgery; all included studies rated high risk of bias; no meta-analysis due to heterogeneity.
 
-## 한줄요약
+APPTF/VP + FGG or xenogeneic collagen matrix (XCM) achieved the greatest KM width gain (range −0.20 to +9.35 mm); roll envelope flap (REF) and APPTF + SCTG provided the best soft-tissue volume gain (2.41 mm and 3.10 mm, respectively); jaw location was the primary determinant of technique selection.
 
-2016년 체계적 문헌고찰(10건): 이차수술(비노출) 시 각화점막 폭 증대에는 APPTF/VP + FGG 또는 XCM이 최우수(최대 9.35 mm), 연조직 부피 증대에는 REF 또는 APPTF + SCTG가 효과적(2.41–3.10 mm); 전 연구 비뚤림 위험 높음, 메타분석 불가.
+This 2016 SR established the benchmark KM-gain and volume-gain values for second-stage augmentation but is limited by high bias across all 10 studies and absence of RCTs; subsequent reviews with XCM/collagen-matrix RCT data have refined these estimates.
+
+## 세줄요약
+
+체계적 문헌고찰(10편: 전향 8 + 증례군 2; 2015년 7월까지 검색) — 임플란트 2차 수술(비개방) 시 연조직 증대 술식 전용 리뷰; 전 연구 비뚤림 위험 높음; 이질성으로 메타분석 불가.
+
+APPTF/VP + FGG 또는 이종 콜라겐 기질(XCM)은 각화점막(KM) 폭 증대 최우수(−0.20~+9.35 mm); 롤 피판(REF)·APPTF + SCTG는 연조직 부피 증대 최우수(2.41 mm, 3.10 mm); 술식 선택의 1차 결정인자는 악궁 위치.
+
+이 2016년 SR은 2차 수술 연조직 증대의 KM·부피 이득 기준치를 제시했으나 10편 전부 비뚤림 위험 높고 RCT 없음; 이후 XCM/콜라겐 기질 RCT를 포함한 후속 리뷰가 수치를 정교화했다.
 
 ## 1. Document Information
 

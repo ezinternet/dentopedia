@@ -16,13 +16,21 @@ text_filename: hedesiu-2018-dental-radiological-irradiation-pediatric-population
 
 [[radiology/stervik-2024-radiation-exposure-during-orthodontic-treatment]]의 "5–10일 배경방사선" 계산에 대한 대형 코호트 독립 보강. 소아에서 CBCT의 선량 기여도(집단의 70%)와 배경방사선 일수 환산을 명시해, 자연배경방사선·항공 피폭과의 직접 비교를 위한 앵커 제공.
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective cohort (n=7,150 children, 12,252 dental X-rays): 2D exams median <20 µSv; CBCT median 127 µSv; highest CBCT = 34.1 days of natural background radiation.
+Retrospective cohort (n=7,150 children, 12,252 dental X-rays): 2D exams median <20 µSv;
 
-## 한줄요약
+CBCT median 127 µSv;
 
-후향적 코호트(소아 7,150명, 방사선 촬영 12,252건): 2D 검사 중앙값 <20 µSv; CBCT 중앙값 127 µSv; 최고 CBCT = 자연 배경방사선 **34.1일분**.
+highest CBCT = 34.1 days of natural background radiation.
+
+## 세줄요약
+
+후향적 코호트(소아 7,150명, 방사선 촬영 12,252건): 2D 검사 중앙값 <20 µSv;
+
+CBCT 중앙값 127 µSv;
+
+최고 CBCT = 자연 배경방사선 **34.1일분**.
 
 ## 1. Document Information
 

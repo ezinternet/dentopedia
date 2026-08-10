@@ -13,8 +13,21 @@ source_collection: external
 
 Three-way bench comparison (standard drilling vs Summers osteotome vs osseodensification) isolating OD's histologic advantage — immediate BIC 60.3% (OD) vs 40.7% (osteotome) vs 16.3% (standard). Supplies the head-to-head mechanism evidence for [[overviews/osseodensification-clinical-applications]], positioning OD against the older osteotome-compaction approach.
 
-## One-line Summary
-Porcine tibia pilot histomorphometry (n = 18 osteotomies, 6 per group) — immediate BIC was 60.3% with osseodensification vs 40.7% with Summers osteotome and 16.3% with standard subtractive drilling, with most uniform trabecular condensation around OD.
+## Three-line Summary
+
+Porcine tibia pilot histomorphometry (n = 18 osteotomies, 6 per group) —
+
+immediate BIC was 60.3% with osseodensification vs 40.7% with Summers osteotome and
+
+16.3% with standard subtractive drilling, with most uniform trabecular condensation around OD.
+
+## 세줄요약
+
+Porcine tibia pilot histomorphometry (n = 18 osteotomies, 6 per group) —
+
+immediate BIC was 60.3% with osseodensification vs 40.7% with Summers osteotome and
+
+16.3% with standard subtractive drilling, with most uniform trabecular condensation around OD.
 
 ## 1. Document Information
 - **Type**: Ex vivo bench histomorphometric pilot study (porcine tibia)

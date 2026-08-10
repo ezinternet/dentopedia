@@ -1,0 +1,12 @@
+Title: Transverse cervical nerve: implications for dental anesthesia.
+Authors: Lin K, Uzbelger Feldman D, Barbe MF
+Journal: Clinical Anatomy. 2013;26(6):688-92.
+DOI: 10.1002/ca.22221
+PMID: 23362053
+
+Abstract:
+The inferior alveolar nerve block (IANB) has the highest failure incidence of any dental anesthetic technique. Many authors have outlined potential reasons for these failures in permanent lower molars, including accessory innervations from the mylohyoid and mental foramen. However, the potential accessory innervation of posterior mandibular teeth from the transverse cervical nerve (TCN), a branch of ventral rami from the C2-C3 spinal nerves from the cervical plexus (CP), has been difficult to assess as a result of the small size and thickness of the mandibular accessory foramina and nerve branches, as well as due to the dissection technique performed. The goal of this study was to identify and trace the CP branches from fresh human cadaver tissue samples using the Sihler's technique. Two fresh human cadaver samples were used. Samples were fixed in neutralized formalin, macerated in potassium hydroxide, decalcified in acetic acid, stained in Ehrlich's hematoxylin, destained in acetic acid, and cleared in glycerin. Both specimens skin was dissected. The Sihler's technique delineated all nerves three dimensionally and helped to disclose structures of small size and thickness. The TCN from the CP, stained in blue, innervated the posterior mandible in one of the two samples. These results confirmed that the CP may supply accessory innervation to the inferior border of the posterior mandible through the TCN. These findings illustrate variations of anatomy that may account for IANB failures in posterior mandibular teeth and allows for clinical decisions for implementing supplemental anesthetic techniques.
+
+Keywords: Sihler's technique; accessory innervation; anesthetic failure; cervical plexus; dental anesthesia; inferior alveolar nerve; supplementary anesthesia; transverse cervical nerve.
+
+[Note: full text not retrieved — abstract only, per PubMed MCP metadata. No PMCID available for this article. n=2 fresh cadaver specimens (Sihler's stain technique).]

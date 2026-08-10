@@ -6,7 +6,7 @@ date: 2023-07-01
 doi: 10.1016/j.jcms.2023.06.010
 source: nemati-2023-membrane-perforation-risk-lateral-sinus.md
 category: sinus-lift/lateral
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/nemati-2023-membrane-perforation-risk-lateral-sinus.pdf
 pdf_filename: nemati-2023-membrane-perforation-risk-lateral-sinus.pdf
 source_collection: external
@@ -20,13 +20,21 @@ relations:
     target: wang-2023-smoking-schneiderian-membrane-perforation-sinus
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Prospective cohort (n=140) of lateral-window SFE identifies four independent perforation risk factors with quantified hazard ratios: sinus septa HR 8.07, mucous retention cyst HR 27.75, smoking HR 25, multi-tooth edentulous span HR 68.09.
+Prospective cohort (n=140, mean RBH 2.83 mm) at a single Iranian university quantifying perforation risk factors in lateral-window sinus floor elevation using Cox proportional hazards regression.
 
-## 한줄요약
+Four independent risk factors were identified with all p<0.001: sinus septa (HR 8.07), smoking (HR 25.0), mucous retention cyst (HR 27.75), and multi-tooth edentulous span (HR 68.09 vs single-tooth gap).
 
-전향적 코호트 (n=140): 측방창 상악동거상술 (Lateral Window Sinus Floor Elevation, LSFE) 슈나이더 막 (Schneiderian Membrane) 천공 — 격벽 (Septa) HR 8.07, 점액낭종 (Mucous Retention Cyst, MRC) HR 27.75, 흡연 (Smoking) HR 25.0, 다수치 결손 (Multi-tooth Edentulous Span) HR 68.09 (모두 p<0.001).
+Pre-operative CBCT should systematically assess septa, mucous retention cysts, and lateral wall thickness, and smoking history must be documented — repair materials (PRF, collagen) should be prepared before surgery for high-risk cases.
+
+## 세줄요약
+
+단일 기관 전향적 코호트 (n=140, 평균 잔류치조골 높이 2.83 mm): Cox 비례위험 회귀분석으로 측방창 상악동거상술 (Lateral Window Sinus Floor Elevation, LSFE) 중 슈나이더 막 천공 (Schneiderian Membrane Perforation, SMP) 위험인자를 정량화.
+
+독립 위험인자 4가지 모두 p<0.001: 격벽 (Septa) HR 8.07, 흡연 (Smoking) HR 25.0, 점액낭종 (Mucous Retention Cyst, MRC) HR 27.75, 다수치 결손 (Multi-tooth Edentulous Span, ≥2치) HR 68.09.
+
+수술 전 CBCT로 격벽·MRC·측방 골벽 두께를 계통적으로 평가하고 흡연력을 문서화해야 하며, 고위험 환자는 수술 전 PRF·콜라겐 막 등 천공 수복 재료를 준비해야 한다.
 
 ## Summary
 

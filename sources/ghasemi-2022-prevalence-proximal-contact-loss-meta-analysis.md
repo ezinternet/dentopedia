@@ -12,11 +12,21 @@ source_collection: external
 ## Why Ingested
 food-impaction 카테고리의 정량 SR+MA 근거로 인제스트. 기존 [[implants/kim-2026-proximal-contact-loss-implants-10years]]의 단일연구 유병률을 메타분석 종합 수준에서 맥락화하고, [[food-impaction/sheba-2023-interproximal-contact-loss-systematic-meta]]와 짝을 이루는 독립 MA를 제공한다.
 
-## One-line Summary
-Systematic review + meta-analysis of PCL prevalence between implant-supported fixed prostheses and adjacent teeth and its associated factors, confirming PCL as a frequent postoperative complication with mesial predominance.
+## Three-line Summary
 
-## 한줄요약
-SR+MA: 임플란트 고정성 보철-인접치 PCL 유병률과 관련 인자를 메타분석으로 종합 — PCL은 흔한 술후 합병증이며 mesial 우위.
+Systematic review and meta-analysis (Journal Advanced Periodontology Implant Dent 2022; multiple databases, no date/language restrictions) pooling studies on proximal contact loss (PCL) prevalence between implant-supported fixed prostheses and adjacent teeth.
+
+PCL emerges as a frequent postoperative complication with consistent mesial predominance across studies; heterogeneity is high (I²>75%), reflecting variation in measurement methods and follow-up periods.
+
+Associated factors for PCL identified include crown/abutment design, emergence profile, and patient variables, though the exact pooled prevalence magnitude requires verification from original figures.
+
+## 세줄요약
+
+체계적 고찰+메타분석(Journal Advanced Periodontology Implant Dent 2022; 다중 데이터베이스, 날짜·언어 제한 무): 임플란트 보철과 인접치 사이 근접점 상실(PCL) 유병률 연구 종합.
+
+PCL은 흔한 술후 합병증으로 mesial 우위 일관; 이질성 높음(I²>75%) — 측정법·추적기간 변이 반영.
+
+PCL 관련 인자로 치관/지대주 설계·형태·근단·환자 변수 등 식별되나, 정확한 통합 유병률은 원문 수치 재확인 필요.
 
 ## 1. Document Information
 - Journal of Advanced Periodontology & Implant Dentistry 2022;14(2):119-133. DOI 10.34172/japid.2022.023. Tabriz University of Medical Sciences (Iran). Open access.

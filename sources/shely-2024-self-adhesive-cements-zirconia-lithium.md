@@ -9,8 +9,21 @@ pdf_filename: shely-2024-self-adhesive-cements-zirconia-lithium.pdf
 source_collection: external
 ---
 
-## One-line Summary
-J Clin Med 2024;13:3330: 3 self-adhesive resin cements × ZLS crowns — marginal gap by SEM; all three cements produce clinically acceptable marginal adaptation; cement type minimal effect on ZLS marginal gap.
+## Three-line Summary
+
+J Clin Med 2024;13:3330: 3 self-adhesive resin cements × ZLS crowns — marginal gap by SEM
+
+all three cements produce clinically acceptable marginal adaptation
+
+cement type minimal effect on ZLS marginal gap.
+
+## 세줄요약
+
+J Clin Med 2024;13:3330: 3 self-adhesive resin cements × ZLS crowns — marginal gap by SEM
+
+all three cements produce 임상적 (Clinical)ly acceptable marginal adaptation
+
+cement type minimal effect on ZLS marginal gap.
 
 ## 1. Key Results
 - Zirconia-reinforced lithium silicate (ZLS) full crowns on 45 typodont teeth

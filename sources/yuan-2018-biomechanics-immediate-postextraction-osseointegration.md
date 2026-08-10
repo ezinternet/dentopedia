@@ -11,15 +11,23 @@ source_collection: external
 
 ## Why Ingested
 
-Maxillary molar 즉시식립 (immediate implant placement, IIP)에서 임상적으로 구개근 소켓 (palatal root socket)에 식립하는 전략의 생역학적·생물학적 근거를 제공하는 기초 연구. [[immediate-implant/liu-2024-maxillary-immediate-molar-palatal-root-socket]]가 임상적으로 권고하는 "구개근 소켓 식립"이 왜 작동하는지를 마우스 모델에서 변형률(strain)·골세포 사멸·PDL 유래 Wnt 반응 세포 차원에서 설명한다. 또한 [[immediate-implant/araujo-2019-socket-healing-immediate-implant-review]]의 소켓 치유 개괄에 분자 메커니즘 층위를 더한다.
+Maxillary molar 즉시식립 (immediate implant placement, IIP)에서 임상적으로 구개근 소켓 (palatal root socket)에 식립하는 전략의 생역학적·생물학적 근거를 제공하는 기초 연구. [[immediate-implant/molar-septum/liu-2024-maxillary-immediate-molar-palatal-root-socket]]가 임상적으로 권고하는 "구개근 소켓 식립"이 왜 작동하는지를 마우스 모델에서 변형률(strain)·골세포 사멸·PDL 유래 Wnt 반응 세포 차원에서 설명한다. 또한 [[immediate-implant/araujo-2019-socket-healing-immediate-implant-review]]의 소켓 치유 개괄에 분자 메커니즘 층위를 더한다.
 
-## One-line Summary
+## Three-line Summary
 
 Murine first-molar extraction + palatal-root-socket osteotomy model showing that low-strain peri-implant zones (buccal, PDL-filled gap) osseointegrate via PDL-derived Wnt-responsive osteogenic cells, while high-strain zones (palatal, direct bone contact) suffer osteocyte death and bone resorption — and that exogenous liposomal WNT3A rescues osseointegration where PDL/Wnt cells are absent.
 
-## 한줄요약
+(incomplete)
 
-마우스 제1대구치 발치 후 구개근 소켓 (palatal root socket)에 골삭제·임플란트 식립한 동물 모델 연구. 변형률(strain)이 낮은 협측(PDL 잔존 gap)은 PDL 유래 Wnt 반응 골형성 세포로 골유착되고, 변형률이 높은 구개측(골 직접 압박)은 골세포 사멸·골흡수가 일어났으며, PDL/Wnt 세포가 없는 부위에 외인성 리포좀 WNT3A를 투여하면 골유착이 회복됨을 보여줌.
+(incomplete)
+
+## 세줄요약
+
+마우스 제1대구치 발치 후 구개근 소켓 (palatal root socket)에 골삭제·임플란트 식립한 동물 모델 연구.
+
+변형률(strain)이 낮은 협측(PDL 잔존 gap)은 PDL 유래 Wnt 반응 골형성 세포로 골유착되고, 변형률이 높은 구개측(골 직접 압박)은 골세포 사멸·골흡수가 일어났으며, PDL/Wnt 세포가 없는 부위에 외인성 리포좀 WNT3A를 투여하면 골유착이 회복됨을 보여줌.
+
+(incomplete)
 
 ## 1. Document Information
 

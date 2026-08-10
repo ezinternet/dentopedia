@@ -17,13 +17,21 @@ text_filename: mikulas-2025-digital-impression-accuracy-peri-implant-emergence-p
 
 Implant crown 보철의 디지털 워크플로우에서 잇몸 형태(emergence profile, EP)를 어떻게 옮기느냐가 심미 성패를 가른다 — [[prosthetic-materials/tajti-2023-monolithic-zirconia-metal-ceramic-implant-crowns-sr-ma]]가 implant single crown의 재료·생존을 다뤘다면, 이 SR(Mikulás 2025)은 그 직전 단계인 연조직 EP를 IOS로 캡처할 때 direct vs indirect vs conventional 정확도를 비교해 디지털 임프레션 프로토콜 선택 근거를 제공한다.
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (24 studies; 1 RCT, 2 cross-sectional, 4 cross-over, 12 case reports, 5 dental techniques) finding indirect EP scanning (extraoral scan of the provisional, superimposed) most accurately captures the peri-implant emergence profile, while direct scanning after provisional removal shows considerable soft-tissue collapse (~200–500 μm immediate, up to ~1 mm by 20 min).
+Systematic review (24 studies;
 
-## 한줄요약
+1 RCT, 2 cross-sectional, 4 cross-over, 12 case reports, 5 dental techniques) finding indirect EP scanning (extraoral scan of the provisional, superimposed) most accurately captures the peri-implant emergence profile, while direct scanning after provisional removal shows considerable soft-tissue collapse (~200–500 μm immediate, up to ~1 mm by 20 min).
 
-체계적 문헌고찰(24편; RCT 1·단면 2·교차 4·증례 12·술식 5)로, 임플란트 주위 잇몸형태(emergence profile, EP)를 디지털로 옮길 때 간접 스캐닝(임시보철 구외 스캔 중첩)이 가장 정확하고, 임시보철 제거 직후 직접 스캐닝은 연조직 붕괴(즉시 약 200~500 μm, 20분에 최대 약 1 mm)로 정확도가 떨어진다.
+(incomplete)
+
+## 세줄요약
+
+체계적 문헌고찰(24편;
+
+RCT 1·단면 2·교차 4·증례 12·술식 5)로, 임플란트 주위 잇몸형태(emergence profile, EP)를 디지털로 옮길 때 간접 스캐닝(임시보철 구외 스캔 중첩)이 가장 정확하고, 임시보철 제거 직후 직접 스캐닝은 연조직 붕괴(즉시 약 200~500 μm, 20분에 최대 약 1 mm)로 정확도가 떨어진다.
+
+(incomplete)
 
 ## 1. Document Information
 

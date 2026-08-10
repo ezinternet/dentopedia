@@ -5,7 +5,7 @@ year: 2021
 doi: 10.5125/jkaoms.2021.47.1.57
 date: 2021-01-01
 source: lee-2021-immediate-implant-placement-in-fresh.md
-confidence: narrative-review
+evidence_level: narrative-review
 category: immediate-implant
 pdf_path: /Users/oracleneo/llm-wiki/papers/lee-2021-immediate-implant-placement-in-fresh.pdf
 pdf_filename: lee-2021-immediate-implant-placement-in-fresh.pdf
@@ -14,11 +14,21 @@ tags: [즉시-임플란트-식립, 발거-소켓, 신선한-소켓, 골유착, �
 ---
 
 
-## One-line Summary
-Clinical opinion/case-based article on immediate implant placement in fresh extraction sockets, emphasizing that atraumatic extraction preserves bone volume, that implant-socket gap management (graft, membrane, or spontaneous healing matched to gap size and bone quality) is critical, and that the technique compresses the two-stage timeline while requiring careful esthetic-zone case selection.
+## Three-line Summary
 
-## 한줄요약
-2단계 타임라인 압축; 비외상적 발치로 골용적 보존; 소켓 평가 및 gap 관리 중요; 심미 의사결정 트리로 적응증 평가
+Narrative review and clinical opinion on immediate implant placement in fresh extraction sockets, covering atraumatic extraction, socket assessment, gap management, and case selection.
+
+Atraumatic extraction is the critical foundation; gap management strategy should match gap size and bone quality (spontaneous healing <2 mm; membrane 2–4 mm; graft >4 mm or D3–D4 bone), with delayed loading of 4–6 months in the esthetic zone.
+
+The technique compresses the treatment timeline by 3–7 months compared to delayed placement but requires careful esthetic-zone case selection; evidence level is clinical opinion without randomized comparison data.
+
+## 세줄요약
+
+신선한 발거 소켓에서의 즉시 식립에 대한 내러티브 리뷰 및 임상 견해로, 비외상적 발치·소켓 평가·틈새 관리·증례 선택을 다룬다.
+
+비외상적 발치가 핵심 전제이며, 틈새 크기와 골질에 따라 자연 치유(<2 mm)·막(2–4 mm)·골이식(>4 mm 또는 D3–D4) 전략을 선택하고 심미 영역에서는 4–6개월 지연 부하를 적용한다.
+
+지연 식립 대비 3–7개월 치료 기간 단축이 가능하지만, 무작위 비교 근거가 없는 임상 의견 수준으로 심미 영역 적응증 선택이 중요하다.
 
 # Immediate Implant Placement in Fresh Extraction Sockets: Clinical Perspective
 
@@ -162,4 +172,4 @@ Tooth extraction candidate
 **Clinical Opinion/Case-Based Series** — Establishes feasibility and timing benefits; lacks prospective randomized comparison with delayed placement for outcome equivalence
 
 ---
-**Related**: [[immediate-implant/kim-2016-immediately-placed-implant-without-primary]] | [[implants/isq/oh-2008-comparison-of-initial-implant-stability]]
+**Related**: [[immediate-implant/primary-stability/kim-2016-immediately-placed-implant-without-primary]] | [[implants/isq/oh-2008-comparison-of-initial-implant-stability]]

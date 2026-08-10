@@ -11,8 +11,21 @@ pdf_filename: farina-2018-morbidity-transcrestal-lateral-sinus-floor-elevation.p
 source_collection: external
 ---
 
-## One-line Summary
-RCT (29 tSFE vs 28 lSFE, RBH 3-6 mm, xenograft + simultaneous implant): **lSFE = lower pain day 0, tSFE = lower swelling/bruising/nasal discharge** through 14 days. tSFE has overall more tolerable postoperative course.
+## Three-line Summary
+
+Italian multicenter RCT (JCPE 2018, NCT02415946, n=29 tSFE vs 28 lSFE, RBH 3–6 mm, xenograft + simultaneous implant, enrolled ≥1 edentulous posterior maxilla): 환자 보고 이환(patient-reported morbidity) — VAS 통증·부종·타박·비배액·기능장애 비교.
+
+Day 0: lSFE < VAS pain (tSFE 높음); Day 1–14: VAS 유사; **tSFE << 부종/타박/비배액/비출혈 (14일 추적)**; tSFE 저작·일상활동·연하 제한 더 적음.
+
+소표본 (n=29+28), RBH 3–6 mm만, 동일 이종이식 + 막 프로토콜 차이 격리, 14일 단기 이환 평가.
+
+## 세줄요약
+
+이탈리아 다기관 RCT (JCPE 2018, n=57): tSFE vs lSFE, RBH 3–6 mm, 동일 xenograft + immediate implant — 환자 보고 이환.
+
+Day 0: lSFE 통증 낮음; Day 1–14: 유사; **tSFE 부종/타박/비배액 << 발생**, 일상 제한 적음.
+
+소표본, 제한된 RBH 범위, 14일 단기, 동일 재료로 접근법만 격리.
 
 ## 1. Document Information
 RCT registered on ClinicalTrials.gov (NCT02415946). Multi-center Italian study, JCPE. Direct head-to-head comparison of two sinus augmentation approaches with patient-reported morbidity outcomes.

@@ -6,7 +6,7 @@ date: 2026-01-01
 doi: 10.17245/jdapm.2026.26.2.91
 source: altuhafy-2026-tenoxicam-postoperative-dental-pain-sr.md
 category: drug/analgesics
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "41952911"
@@ -24,13 +24,21 @@ relations:
     target: moore-2015-otc-oral-analgesics-cochrane-overview
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (PRISMA, 9 RCTs, n=35-100/study; qualitative — no meta-analysis, I²=62-89%): oral tenoxicam 20 mg once daily for postoperative dental pain was superior to placebo and comparable-to-superior versus ibuprofen, diclofenac, flurbiprofen, meloxicam, and methylprednisolone, but inferior to rofecoxib (which caused more GI adverse events); GRADE moderate at 1-24 h.
+Systematic review (PRISMA, 9 RCTs, n=35–100 per study; qualitative synthesis only — pooling withheld due to I²=62–89%) evaluating oral tenoxicam for postoperative dental pain across extraction, orthodontic, endodontic, and implant contexts; first SR to integrate tenoxicam evidence in dentistry.
 
-## 한줄요약
+Tenoxicam 20 mg once daily was superior to placebo and comparable-to-superior versus ibuprofen, diclofenac, flurbiprofen, meloxicam, and methylprednisolone; inferior only to rofecoxib (which caused more GI adverse events); no serious adverse events attributed to tenoxicam; GRADE moderate at 1–24 h.
 
-체계적 문헌고찰(PRISMA, RCT 9편, 연구당 35-100명; 이질성 I²=62-89%로 메타분석 불가): 치과 술후통에서 경구 tenoxicam 20 mg 1일 1회는 위약보다 우월, ibuprofen·diclofenac·flurbiprofen·meloxicam·methylprednisolone과 동등~우월, rofecoxib보다는 열등(단 rofecoxib는 위장관 부작용 더 많음). 1일 1회 투여·GI 내약성·긴 반감기가 임상 강점.
+Once-daily dosing, relative GI tolerability via partial COX-2 selectivity, and long half-life are clinical advantages; high heterogeneity, small sample sizes, and selective reporting in 8/9 RCTs limit generalizability — multicentric RCTs in East Asian and European populations are needed.
+
+## 세줄요약
+
+체계적 문헌고찰(PRISMA, RCT 9편, 연구당 35–100명; I²=62–89%로 메타분석 불가): 발치·교정·근관·임플란트 등 치과 술후통에서 테녹시캄(Tenoxicam) 근거를 최초로 통합; 모든 비교에서 VAS 진통 효능 지도 제공.
+
+테녹시캄 20 mg 1일 1회는 위약 대비 우월, 이부프로펜·디클로페낙·플루르비프로펜·멜록시캄·메틸프레드니솔론과 동등~우월; 로페콕시브(Rofecoxib)에만 열등(단 로페콕시브는 위장관 부작용 더 많음); 테녹시캄 관련 중대 부작용 없음; 1–24시간 GRADE 중등도.
+
+1일 1회 투여 편의성·상대적 위장관 내약성·긴 반감기가 임상 강점; 높은 이질성·소표본·8/9편의 선택적 보고 문제가 일반화를 제한 — 동아시아·유럽 다기관 RCT 필요.
 
 ## Summary
 

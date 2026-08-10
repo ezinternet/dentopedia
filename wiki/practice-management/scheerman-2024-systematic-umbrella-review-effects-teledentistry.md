@@ -6,7 +6,7 @@ date: 2024-04-19
 doi: 10.3390/ijerph21040407
 source: scheerman-2024-systematic-umbrella-review-effects-teledentistry.md
 category: [practice-management]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "38673320"
@@ -16,13 +16,21 @@ text_filename: scheerman-2024-systematic-umbrella-review-effects-teledentistry.t
 tags: [teledentistry, practice-management, cost-effectiveness]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Umbrella review of 10 systematic reviews (AMSTAR-2 appraised): teledentistry is widely assumed cost-saving with positive oral-health signals, but every included review was low/critically-low quality and the 10 reviews drew on only 5 distinct economic-evaluation studies — so there is insufficient evidence for true cost-effectiveness or long-term clinical effectiveness.
+First umbrella review of teledentistry effects on costs and oral-health outcomes (PRISMA; 7 databases; 10 SRs included; AMSTAR-2 quality appraisal; PROSPERO CRD42023363204); published 2024.
 
-## 한줄요약
+All 10 included systematic reviews rated low or critically low on AMSTAR-2; collectively they relied on only 5 distinct economic-evaluation primary studies — no cost-benefit, cost-utility, or incremental analyses exist — making cost-effectiveness assertions assumptions rather than findings.
 
-systematic review 10편을 묶은 우산형 리뷰(AMSTAR-2 평가): 원격치과(teledentistry)는 비용절감으로 널리 가정되고 구강건강 결과 신호도 긍정적이지만, 포함된 리뷰가 전부 낮음/매우 낮음 품질이고 경제성 평가는 단 5개 원논문에만 근거해 진정한 비용효과성·장기 임상효과 근거가 불충분하다.
+Teledentistry remains promising for access and oral-health signals (comparable or better DFS/periodontal outcomes in 2 oral-health SRs) but high-quality RCTs with standardized terminology and economic designs are needed before implementation claims can be evidentially sustained.
+
+## 세줄요약
+
+원격치과(teledentistry)의 비용·구강건강 결과에 대한 최초 우산형 리뷰(PRISMA; 7개 DB; SR 10편; AMSTAR-2 평가; PROSPERO 등록): 2024년 발표.
+
+포함된 SR 10편 전부 AMSTAR-2 낮음/매우 낮음 등급이고, 10편을 통틀어 경제성 평가 원논문이 단 5편뿐 — 비용편익·비용효용·증분분석은 전무해 비용절감 주장이 근거가 아닌 가정.
+
+구강건강 신호(DFS·치주·구강위생 결과 동등 이상)는 긍정적이나, 표준화 용어·경제성 설계를 갖춘 고품질 RCT 없이는 원격치과 도입 근거로 사용하기 불충분.
 
 ## Summary
 

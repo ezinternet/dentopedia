@@ -13,13 +13,23 @@ source_collection: external
 
 Provides a concise clinical narrative review of porcelain veneer materials, indications, preparation, cementation, and longevity through 2018, serving as a mid-evidence bridge between the early in-vitro technique studies (Sorensen 1992, Sim 1993) and the contemporary SR+MA survival data captured in [[veneers/klein-2025-ceramic-laminate-veneer-survival-complications-sr-ma]].
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review (Dent Med Probl 2018; 5 pages) covering porcelain veneer materials (feldspathic, pressed, CAD/CAM glass-ceramic), indications, preparation principles, cementation, and reported survival rates up to 12 years; notes 89% survival at 9 years (SR by Morimoto et al.) with glass-ceramic outperforming feldspathic.
+Narrative review (Dent Med Probl 2018;55(2):207–211) covering porcelain veneer materials (feldspathic, pressed ceramic, CAD/CAM glass-ceramic), indications, contraindications, preparation design, surface treatment/cementation protocol, and longevity data from multiple studies up to 12 years.
 
-## 한줄요약
+Survival at 9 years was 89% overall (Morimoto SR), with glass-ceramic outperforming feldspathic (94% vs 87%); fracture and debonding were the primary failure modes; margin on dentin increases failure risk 10-fold, and bruxism reduces survival to ~60%.
 
-서술 논평(2018): 장석/가압/CAD/CAM 글래스세라믹 비니어의 임상 적응증·전처치·접착·생존율을 개괄하며, 9년 생존율 89%(SR), 글래스세라믹이 장석 비니어보다 우수함을 정리.
+Glass-ceramic veneers offer the best longevity among current materials; preparation margin on enamel is the single strongest protective factor, and bruxism should be a contraindication or require night-guard management.
+
+## 세줄요약
+
+서술 논평(Dent Med Probl 2018;55(2):207–211) — 장석(Feldspathic)·가압(Pressed)·CAD/CAM 글래스세라믹 비니어의 적응증·금기·전처치(HF산부식+실란)·접착·12년까지 생존 데이터를 정리.
+
+9년 전체 생존율 89%(Morimoto SR), 글래스세라믹 94% vs 장석 87%; 파절·탈접이 주된 실패 원인; 법랑질 이외 상아질 마진은 실패 위험 10배, 이갈이 시 생존율 ~60%로 급락.
+
+글래스세라믹이 현재 최고 생존율; 법랑질 마진 확보가 가장 중요한 예후 인자이며 이갈이 환자는 금기 또는 교합안정장치 병행이 필수.
+
+## 1. Document Information
 
 ## 1. Document Information
 

@@ -6,7 +6,7 @@ date: 2019-01-01
 doi: "n/a (Dent Res J 2019;16(3):200-207)"
 source: hussein-2019-thread-depth-implant-shape-stress-mandible-fea.md
 category: [implants]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/hussein-2019-thread-depth-implant-shape-stress-mandible-fea.pdf
 pdf_filename: hussein-2019-thread-depth-implant-shape-stress-mandible-fea.pdf
 source_collection: external
@@ -16,11 +16,19 @@ relations:
     target: leblebicioglu-kurtulus-2022-fea-implant-design-bone-density-stress
 ---
 
-## One-line Summary
-Finite element analysis of the mandible showing crestal cortical bone around the implant neck bears the highest stress, with tapered implant bodies producing higher peak von Mises stress than cylindrical bodies across all bone types.
+## Three-line Summary
+3D finite element analysis comparing tapered vs cylindrical implant bodies and thread depth in anterior and posterior mandibular bone models.
 
-## 한줄요약
-하악 FEA — 임플란트 경부 crestal cortical bone에 최대 응력, tapered body가 cylinder보다 모든 골종에서 peak 응력 높음.
+Stress concentrated at the crestal cortical bone around the implant neck in all models; tapered bodies produced higher peak von Mises stress than cylindrical bodies across all bone types; thread depth modulated the distribution pattern.
+
+Macrogeometry choice is a stability-vs-stress trade-off: taper aids primary stability but raises crestal functional stress, so implant design selection must balance both objectives.
+
+## 세줄요약
+3D 유한요소분석(Finite Element Analysis, FEA) — 하악 전·후방에서 tapered vs cylindrical 임플란트 형태와 나사산 깊이 비교.
+
+모든 모델에서 임플란트 경부의 변연 피질골(crestal cortical bone)에 최대 폰 미세스 응력(von Mises stress) 집중; tapered body가 모든 골 유형에서 cylindrical보다 최대 응력 높음; 나사산 깊이가 분포 패턴 조절.
+
+거시 형태(macrogeometry) 선택은 안정성과 응력의 상충 관계 — taper는 초기 안정성 유리하나 변연골 기능 응력 상승, 두 목표의 균형이 필요.
 
 ## Summary
 This FEA examines how implant body shape and thread depth distribute load in the mandible. Across all models, stress concentrated at the crestal cortical bone around the implant neck, and tapered bodies generated higher peak von Mises stress than cylindrical bodies in every bone type. This is a useful counterweight to the macrogeometry literature: while taper and aggressive threads help primary stability (Heimes 2023), they can raise functional stress at the crest — so design choice is a trade-off between initial fixation and loading-phase stress, not a pure win. As an idealized in silico model, it informs direction rather than absolute values.
@@ -41,4 +49,4 @@ This FEA examines how implant body shape and thread depth distribute load in the
 ## Related Papers
 - [[implants/leblebicioglu-kurtulus-2022-fea-implant-design-bone-density-stress]] — reinforces; design × bone-density stress FEA.
 - [[implants/chang-2024-optimization-implant-design-bone-quality-fea]] — related; thread-depth optimization across bone qualities.
-- [[implants/heimes-2023-macrogeometry-primary-stability-implants-narrative-review]] — complements; taper aids stability but can raise crestal stress.
+- [[implants/isq/heimes-2023-macrogeometry-primary-stability-implants-narrative-review]] — complements; taper aids stability but can raise crestal stress.

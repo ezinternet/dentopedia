@@ -6,20 +6,28 @@ date: 2016-05-01
 doi: 10.1097/MD.0000000000003662
 source: chen-2016-diagnosis-treatment-odontogenic-cutaneous-sinus.md
 category: [endodontics/anatomy]
-confidence: case-report
+evidence_level: case-report
 pdf_path: /Users/oracleneo/llm-wiki/papers/chen-2016-diagnosis-treatment-odontogenic-cutaneous-sinus.pdf
 pdf_filename: chen-2016-diagnosis-treatment-odontogenic-cutaneous-sinus.pdf
 source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Case report (n=1, 11-year-old boy): an odontogenic cutaneous sinus tract on the left cheek, secondary to chronic periradicular periodontitis of mandibular first molar (tooth 36), was misdiagnosed/treated dermatologically for 6 months but resolved fully after root canal therapy plus granuloma debridement, with complete healing at 6 months.
+Case report (n=1, 11-year-old boy): an odontogenic cutaneous sinus tract (OCST) on the left cheek arose from chronic periradicular periodontitis of tooth 36 (mandibular first molar) and was misdiagnosed dermatologically for 6 months, leading to unnecessary surgery and repeated antibiotics without resolution.
 
-## 한줄요약
+Root canal therapy (multi-visit: K-files + ProTaper NiTi, 3% NaOCl irrigation, Vitapex dressing, GP obturation) combined with chronic granuloma debridement resolved both the cutaneous lesion and periapical radiolucency within 6 months.
 
-증례보고 (1명, 11세 남아): 좌측 뺨의 치성 피부 누공(OCST)이 하악 제1대구치(36번) 만성 치근단주위염에서 비롯되었으나 6개월간 피부과적으로 오진·오치됐고, 근관치료(RCT)와 육아종 변연절제술 후 완전 치유되어 6개월 추적에서 병소 소실됨.
+Clinically, this case reinforces that any non-healing draining facial lesion must prompt endodontic evaluation first — only ~50% of OCST patients report dental symptoms, leading to frequent dermatological misdiagnosis.
+
+## 세줄요약
+
+증례보고(11세 남아): 좌측 뺨 치성 피부 누공(OCST)이 하악 제1대구치(36번) 만성 치근단주위염에서 기원했으나 6개월간 피부과적 오진·오치(수술+항생제).
+
+다회 RCT(K-파일+ProTaper, 3% NaOCl 세정, Vitapex 드레싱, GP 충전)+육아종 변연절제술 후 6개월 내 피부 병소 완전 치유·치근단 방사선 투과상 소실.
+
+비치유 안면 배농 병소는 무조건 치과적 원인을 먼저 감별해야 함 — OCST 환자의 50%는 치과 증상을 호소하지 않아 피부과로 오진되는 경우가 흔함.
 
 ## Summary
 

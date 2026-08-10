@@ -17,13 +17,21 @@ text_filename: siegenthaler-2022-convex-emergence-profile-mucosal-recession-rct.
 
 The emergence-profile shape (convex vs concave) of an implant provisional/final restoration is one of the most directly actionable "how to shape the abutment/restoration" decisions, yet it had little RCT evidence. This 3-arm RCT (convex vs concave vs healing-abutment-only control) supplies the key prospective evidence that a **concave** emergence profile preserves the mid-facial mucosal margin while a **convex** profile drives recession — refining the broader healing-abutment customization literature and reinforcing the buccal-profile RCT sibling [[wiki/implants/wang-2022-buccal-emergence-profile-peri-implant-rct]]. It also serves as a primary input refining [[wiki/implants/ruhstorfer-2024-customized-vs-conventional-healing-abutments-sr]].
 
-## One-line Summary
+## Three-line Summary
 
-3-arm RCT (n=47 implants, anterior; convex vs concave emergence vs healing-abutment control): at 12 months, mid-facial mucosal recession occurred in 64.3% of convex, 14.3% of concave, and 31.4% of control sites; convex carried ~13× higher odds of recession vs concave (OR 12.69, 95% CI 1.89–88.48, p=.01).
+3-arm RCT (n=47 implants, anterior;
 
-## 한줄요약
+convex vs concave emergence vs healing-abutment control): at 12 months, mid-facial mucosal recession occurred in 64.3% of convex, 14.3% of concave, and 31.4% of control sites;
 
-3군 RCT (임플란트 47개, 전치부; 볼록 vs 오목 emergence vs 치유지대주 대조군): 12개월에 협측 점막 퇴축 빈도가 볼록 64.3%, 오목 14.3%, 대조군 31.4% — 볼록이 오목 대비 퇴축 위험 약 13배 (OR 12.69, 95% CI 1.89–88.48, p=.01). 오목 형태가 점막 변연을 안정시킨다.
+convex carried ~13× higher odds of recession vs concave (OR 12.69, 95% CI 1.89–88.48, p=.01).
+
+## 세줄요약
+
+3군 RCT (임플란트 47개, 전치부;
+
+볼록 vs 오목 emergence vs 치유지대주 대조군): 12개월에 협측 점막 퇴축 빈도가 볼록 64.3%, 오목 14.3%, 대조군 31.4% — 볼록이 오목 대비 퇴축 위험 약 13배 (OR 12.69, 95% CI 1.89–88.48, p=.01).
+
+오목 형태가 점막 변연을 안정시킨다.
 
 ## 1. Document Information
 

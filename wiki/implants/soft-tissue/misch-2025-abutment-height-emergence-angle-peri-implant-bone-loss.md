@@ -6,7 +6,7 @@ date: 2025-02-10
 doi: 10.1111/clr.14408
 source: misch-2025-abutment-height-emergence-angle-peri-implant-bone-loss.md
 category: implants/soft-tissue
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 full_text: true
 pmid: "39927705"
@@ -24,13 +24,21 @@ relations:
     target: jensen-2023-iti-consensus-bone-dimensions-soft-tissue
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective radiographic analysis (192 bone-level implants / 119 patients, mean 7.4-yr follow-up) crossing trans-mucosal abutment height (TmAH) × restoration emergence angle (REA) into 4 groups: Short/Wide-Angle (TmAH <2 mm + REA ≥30°) had the greatest MBL (+0.48 mm vs Long/Narrow, p<0.001) and ~4× higher peri-implantitis (OR 4.19 vs Long/Wide, p=0.013); REA was a significant MBL factor ONLY when TmAH <2 mm, and every 1 mm TmAH increase cut odds of any MBL by 37% (OR 0.63, p=0.003).
+Retrospective radiographic analysis (192 bone-level implants, 119 patients, mean 7.4-year follow-up, University of Michigan) cross-classifying trans-mucosal abutment height (TmAH, cutoff 2 mm) × restoration emergence angle (REA, cutoff 30°) into 4 groups to determine their combined effect on marginal bone loss (MBL) and peri-implantitis.
 
-## 한줄요약
+The Short/Wide group (TmAH <2 mm + REA ≥30°) had the greatest MBL (+0.48 mm vs Long/Narrow, p<0.001) and ~4× higher peri-implantitis risk (OR 4.19, p=0.013); emergence angle was a significant MBL factor only when TmAH <2 mm — with a tall abutment, wide angle (LW) was statistically equivalent to narrow angle (LN); each 1 mm TmAH increase reduced odds of any MBL by 37% (OR 0.63, p=0.003).
 
-후향 방사선 분석(골수준 임플란트 192개·환자 119명, 평균 7.4년 추적)에서 경점막 지대주 높이(TmAH)와 보철 출현각(REA)을 4그룹으로 교차분류 — 짧은 지대주+넓은 각(TmAH <2 mm·REA ≥30°) 그룹이 MBL 최대(+0.48 mm, p<0.001)·임플란트주위염 약 4배(OR 4.19, p=0.013)였고, REA는 TmAH <2 mm일 때만 유의했으며 TmAH 1 mm 증가마다 MBL 발생 odds 37% 감소(OR 0.63, p=0.003).
+Abutment height is the dominant modifiable protective factor — choosing TmAH >2 mm largely neutralizes the bone-loss penalty of a ≥30° emergence angle; a wide emergence angle is most dangerous only when stacked on a short abutment.
+
+## 세줄요약
+
+후향적 방사선 분석(골수준 임플란트 192개·119명, 평균 7.4년, 미시간대학교): 경점막 지대주 높이(TmAH, 기준 2 mm) × 보철 출현각(REA, 기준 30°)을 4군으로 교차 분류해 변연골 소실(MBL)·임플란트주위염(PI)에 미치는 복합 효과를 분석하였다.
+
+짧은 지대주+넓은 각(TmAH <2 mm + REA ≥30°)이 MBL 최대(Long/Narrow 대비 +0.48 mm, p<0.001)·임플란트주위염 약 4배(OR 4.19, p=0.013); 높은 지대주에서 넓은 각(LW)은 좁은 각(LN)과 통계적 차이 없음(+0.08 mm, p=0.444); TmAH 1 mm 증가마다 MBL 발생 odds 37% 감소(OR 0.63, p=0.003).
+
+지대주 높이(TmAH)가 지배적 보호 인자 — TmAH >2 mm 선택으로 ≥30° 출현각의 골 소실 위험을 대부분 상쇄할 수 있고, 넓은 출현각은 짧은 지대주와 겹칠 때만 위험하다.
 
 ## Summary
 

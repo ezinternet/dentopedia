@@ -6,7 +6,7 @@ date: 2025-10-20
 doi: 10.1186/s40729-025-00652-4
 source: bishti-2025-interproximal-devices-peri-implant-mucositis-sr-ma.md
 category: implants/peri-implantitis
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "41114861"
@@ -22,13 +22,21 @@ relations:
     target: mauriello-2026-peri-implant-mucositis-adjunctive-narrative-review
 ---
 
-## One-line Summary
+## Three-line Summary
 
-PRISMA SR+MA (792 records → 6 RCTs, only 2 meta-analysed for I²=68–98% heterogeneity): oral irrigators and interdental brushes gave higher but NOT significant improvement in peri-implant mucositis signs vs dental floss, and toothbrushing + water oral irrigator was NOT significantly different from toothbrushing alone for BOP/PI — all devices show some benefit but self-performed interproximal-hygiene evidence around implants remains limited.
+PRISMA SR+MA (RWTH Aachen; 792 records → 6 RCTs, 248 participants, 2013–2024; extreme heterogeneity I²=68–98% limited pooling to 2 studies) of self-performed interproximal hygiene aids (dental floss, interdental brush, water flosser, CHX irrigator) vs toothbrushing alone in patients with peri-implant mucositis.
 
-## 한줄요약
+Oral irrigators and interdental brushes showed higher but statistically non-significant improvement over dental floss; pooled meta-analysis found toothbrushing + water flosser was NOT significantly better than toothbrushing alone for modified plaque index (MD 0.2, I²=68%) or BOP (MD 0.24, I²=98%).
 
-PRISMA 체계적문헌고찰+메타분석(792편→6 RCT, 이질성 I²=68–98%로 2편만 메타분석): 구강세정기(water flosser)와 치간칫솔이 치실보다 임플란트 주위 점막염 개선이 더 컸으나 통계적으로 유의하지 않았고, 칫솔질+물 구강세정기가 칫솔질 단독 대비 BOP/PI에서 유의차가 없었다 — 모든 기구가 일부 효과는 있으나 임플란트 주위 자가 치간위생 근거는 여전히 제한적.
+No interproximal device is proven superior; device choice should be individualized to dexterity, restoration design, and accessibility — retained dental-floss remnants are a risk where rough implant surfaces are exposed; larger controlled ≥6-month trials are needed.
+
+## 세줄요약
+
+PRISMA SR+MA(RWTH 아헨; 792편→6 RCT, 248명, 2013–2024; I²=68–98% 이질성으로 2편만 메타분석): peri-implant mucositis 환자에서 자가 치간위생 기구(치실, 치간칫솔, water flosser, CHX 세정기) vs 칫솔질 단독 비교.
+
+구강세정기와 치간칫솔이 치실보다 점막염 개선이 더 컸으나 통계적으로 비유의; 풀링 메타분석에서 칫솔질+물 세정기는 수정 치태지수(MD 0.2, I²=68%)와 BOP(MD 0.24, I²=98%) 모두 칫솔질 단독 대비 유의한 차이 없었다.
+
+우월한 치간위생 기구는 없으며 선택은 손재주·보철 디자인·접근성에 맞게 개별화해야 함 — 거친 임플란트 표면이 노출된 곳에서 치실 잔류는 위험; 대조군이 있는 ≥6개월 대규모 RCT가 필요하다.
 
 ## Summary
 

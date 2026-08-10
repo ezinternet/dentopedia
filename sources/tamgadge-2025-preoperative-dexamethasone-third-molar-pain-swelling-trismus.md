@@ -17,13 +17,21 @@ text_filename: tamgadge-2025-preoperative-dexamethasone-third-molar-pain-swellin
 
 [[drug/analgesics/satpathi-2024-corticosteroids-dentistry-review]]가 치과 코르티코스테로이드 사용을 narrative하게 개괄하는 데 비해, 이 split-mouth RCT는 단일 술전 IM dexamethasone 4 mg가 매복 하악 제3대구치 발치 후 통증·부종·개구제한을 실제 수치로 줄이는지 placebo와 직접 대조해 보강한다. 술전 corticosteroid를 third-molar swelling/trismus 관리 근거로 사용.
 
-## One-line Summary
+## Three-line Summary
 
-Split-mouth single-blind placebo-controlled trial (n=60 bilateral impacted mandibular third molars): a single preoperative 4 mg IM dexamethasone significantly lowered postoperative VAS pain (day 2: 1.2 vs 2.3; day 7: 0.4 vs 1.6, both p<0.001), improved mouth opening (3.5 vs 2.7 cm, p<0.001), and reduced facial swelling by day 7 (2.1 vs 2.8 cm, p=0.04), with no adverse reactions.
+Split-mouth single-blind placebo-controlled trial (n=60 bilateral impacted mandibular third molars): a single preoperative 4 mg IM dexamethasone significantly lowered postoperative VAS pain (day 2: 1.2 vs 2.3;
 
-## 한줄요약
+day 7: 0.4 vs 1.6, both p<0.001), improved mouth opening (3.5 vs 2.7 cm, p<0.001), and reduced facial swelling by day 7 (2.1 vs 2.8 cm, p=0.04), with no adverse reactions.
+
+(incomplete)
+
+## 세줄요약
 
 split-mouth 단일맹검 위약대조 시험 (n=60, 양측 매복 하악 사랑니): 술전 dexamethasone 4 mg 근육주사 1회가 위약 대비 술후 통증(2일 1.2 vs 2.3, 7일 0.4 vs 1.6, p<0.001), 개구량(3.5 vs 2.7 cm, p<0.001)을 유의하게 개선하고 7일째 부종도 줄였으며(2.1 vs 2.8 cm, p=0.04) 이상반응은 없었다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

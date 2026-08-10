@@ -1,0 +1,67 @@
+---
+title: "Association Between Residual Pericervical and Apical Dentine and Vertical Root Fracture in Endodontically Treated Molars: A Case-Control Study"
+authors: "Lee K, Patel S, Ahlowalia M, Alfayate RP, Foschi F"
+year: 2026
+date: 2026-02-01
+doi: "10.1002/cre2.70293"
+source: lee-2026-residual-pericervical-apical-dentine-vertical.md
+category: [endodontics/shaping]
+evidence_level: retrospective
+source_collection: pubmed-text
+full_text: true
+pmid: "41632903"
+pmcid: "PMC12867462"
+source_url: https://pmc.ncbi.nlm.nih.gov/articles/PMC12867462/
+text_path: /Users/oracleneo/llm-wiki/papers/lee-2026-residual-pericervical-apical-dentine-vertical.txt
+text_filename: lee-2026-residual-pericervical-apical-dentine-vertical.txt
+tags: []
+---
+
+## Three-line Summary
+
+Retrospective case-control study (STROBE-reported; 44 VRF cases vs. 92 non-VRF controls; 136 endodontically treated molars with isolated PD ≥5 mm; Tokyo specialist clinic 2012–2020) using periapical radiograph-based residual dentine classification (4-tier, kappa >0.8) and multivariate logistic regression.
+
+Excessive residual apical dentine loss (RCF/root-width ratio >0.21; OR 12.9, 95% CI 2.92–57.5, p=0.001) was the dominant independent radiographic predictor of VRF, whereas excessive pericervical dentine loss was not significant after multivariate adjustment; reRCT history (OR up to 87.9 for ≥2 reRCTs) and time since primary RCT ≥15 years (OR 20.7) were additional independent predictors; the combined model achieved AUC 0.940.
+
+The key clinical implication is to minimize apical canal preparation extent (not just preserve pericervical dentine) in molars — and that post presence was not a significant risk factor when analysis was restricted to molars, contrasting with prior multi-tooth-type studies.
+
+## 세줄요약
+
+후향적 환자-대조군 연구(STROBE; 수직치근파절 VRF 44례 vs 비VRF 대조군 92례; 근관치료된 대구치 136개, 고립성 치주낭 깊이 PD ≥5 mm; 도쿄 전문의 클리닉 2012–2020) — 방사선 사진 기반 4단계 잔존 상아질 분류(급간일치도 kappa >0.8) + 다변량 로지스틱 회귀.
+
+치근단부(Apical) 잔존 상아질 과다 소실(근관충전물/치근 폭 비율 >0.21; 조정 OR 12.9, p=0.001)이 VRF 가장 강력한 독립 방사선학적 예측인자; 치경부(Pericervical) 과다 소실은 다변량 조정 후 비유의; 재근관치료(ReRCT) 병력(OR 최대 87.9), 1차 근관치료 후 ≥15년 경과(OR 20.7)도 독립 예측인자; 통합 모델 AUC 0.940.
+
+핵심 임상 시사: 대구치에서 치근단 성형 크기 최소화(치경부 상아질 보존만이 아님)가 VRF 예방 핵심 전략; 포스트(Post) 존재는 대구치 한정 분석에서 유의한 위험인자가 아님(기존 다치종 연구와 상충).
+
+## Summary
+
+This retrospective case-control study investigated whether residual pericervical and apical dentine — quantified radiographically as the ratio of root canal filling (or canal) width to root width (RCF/root ratio) — is associated with vertical root fracture (VRF) in endodontically treated molars (ETMs). Among 136 ETMs (44 VRF cases, 92 non-VRF controls) drawn from a specialist endodontic clinic cohort of teeth with isolated periodontal probing depth ≥5 mm, excessive apical dentine loss was present in 61.4% of VRF cases versus only 10.9% of controls, and was a significant independent predictor in multivariate logistic regression (adjusted OR 12.9). In contrast, excessive pericervical dentine loss, despite being common in both groups (81.8% cases vs. 65.2% controls), was not statistically significant once adjusted. History of root canal re-treatment (reRCT), time since primary treatment ≥15 years, and tooth type (mandibular molars) were the other significant independent predictors. The combined multivariate model achieved excellent discrimination (AUC 0.940) between VRF and non-VRF molars presenting with an isolated periodontal pocket. Clinically, the findings support minimizing apical canal preparation extent as a fracture-prevention strategy, refining the more general "preserve pericervical dentine" guidance with molar-specific, apex-focused emphasis.
+
+## Key Contributions
+
+- First study to isolate molars (excluding premolars/anteriors) when testing the dentine-loss-VRF association, addressing prior mixed-tooth-type confounding.
+- Develops and validates (kappa >0.8) a periapical-radiograph-based 4-tier classification (intact/minimum/traditional/excessive) for residual pericervical and apical dentine, using reference cut-offs from 48 non-study roots.
+- Identifies residual **apical** dentine loss — not pericervical — as the dominant significant radiographic risk factor for VRF in molars (adjusted OR 12.9, 95% CI 2.92–57.5), refining the pericervical-dentine-preservation paradigm for this tooth group.
+- Quantifies fatigue/cumulative-damage risk factors: reRCT history (adjusted OR up to 87.9 for ≥2 reRCTs) and time since pRCT ≥15 years (adjusted OR 20.7).
+- Produces a combined diagnostic model (AUC 0.940, sensitivity 85.7%, specificity 89.5%) usable to flag molars with isolated PD ≥5 mm as likely VRF versus other causes (e.g., endodontic failure/apical periodontitis).
+
+## Methodology
+
+Case-control study (STROBE-reported) of 136 endodontically treated molars (44 VRF cases, 92 non-VRF controls) drawn from a prior cohort of 228 teeth with confirmed isolated PD ≥5 mm (221 patients, Tokyo specialist endodontic clinic, 2012–2020). Cases and controls matched only on tooth type (molars) and root-filled status. VRF confirmed visually under dental operating microscope, cross-checked against PD site, CBCT osseous defects, and post-extraction observation. Residual pericervical dentine measured at the furcation level and residual apical dentine at the RCF apical terminus (or −1 mm from radiographic apex) on periapical radiographs, expressed as RCF(or canal)-to-root-width ratio and categorized into 4 groups (intact/minimum/traditional/excessive) using cut-offs derived from 48 reference roots. Twelve variables (age, sex, tooth type, proximal contacts, restoration/post type, apical terminus category, residual pericervical/apical dentine, reRCT history, time from pRCT) were screened by simple binary logistic regression (entry threshold p<0.01), then entered into stepwise multiple binary logistic regression; ROC/AUC and diagnostic indices (sensitivity, specificity, PPV, NPV) evaluated the final model.
+
+## Results
+
+- Excessive apical dentine loss: 61.4% (27/44) of VRF cases vs. 10.9% (10/92) of controls; mean RCF/root ratio 0.25 vs. 0.14. Significant independent predictor (adjusted OR 12.9, 95% CI 2.92–57.5, p=0.001).
+- Excessive pericervical dentine loss: 81.8% (36/44) cases vs. 65.2% (60/92) controls; mean ratio 0.37 vs. 0.29 — NOT significant after multivariate adjustment.
+- History of reRCT: 89.7% of cases had ≥1 reRCT vs. 46.9% of controls; adjusted OR 9.89 (1 reRCT) to 87.9 (≥2 reRCTs), both p<0.05.
+- Time since pRCT ≥15 years: adjusted OR 20.7 (95% CI 4.20–102.0, p<0.001).
+- Tooth type: mandibular first molar adjusted OR 19.2 (p=0.005); mandibular second molar adjusted OR 18.9 (p=0.013), vs. maxillary first molar reference.
+- Post presence was NOT significant when restricted to molars (OR 1.19, p=0.672) — contrasts with prior studies pooling multiple tooth types.
+- Mesial roots of mandibular first molars were most VRF-prone (69.6% of case mandibular-first-molar VRFs), consistent with prior literature.
+- Final combined model: AUC 0.940 (95% CI 0.899–0.981, p<0.001); sensitivity 85.7%, specificity 89.5%, PPV 78.9%, NPV 93.2%.
+- Intra-/inter-observer reliability for dentine and apical-terminus measurements: kappa >0.8 ("very good").
+
+## Related Papers
+
+- [[resin-bonding/corbella-2025-surgical-techniques-vertical-root-fractures-sr]] — covers surgical management of established VRF (root-resection/replantation techniques); this paper addresses the upstream mechanistic risk factor (iatrogenic apical dentine loss) that precedes and predisposes to the VRF that paper's techniques treat.
+- [[cracked-tooth/patel-2025-position-statement-longitudinal-cracks-fractures]] — that position statement recommends "conservative endodontics preserving pericervical dentine, avoid over-preparation" as VRF prevention in general terms; this study refines that guidance for molars specifically, showing residual apical (not pericervical) dentine is the statistically significant driver, with a quantified RCF/root-width threshold (>0.21 = "excessive").

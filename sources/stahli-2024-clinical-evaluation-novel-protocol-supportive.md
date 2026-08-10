@@ -12,11 +12,21 @@ source_collection: external
 ## Why Ingested
 유지치주치료(Supportive Periodontal Care, SPC)에서 subgingival debridement 방법(에어폴리싱 기반 GBM vs 전통 SRP) 직접 비교 RCT로, 1년 BoP·PPD·치근이개부·환자보고결과(PROM)에서 두 modality가 임상적으로 동등함을 보여 SPC 효과를 다룬 [[periodontics/manresa-2018-supportive-periodontal-therapy-cochrane-sr]]를 modality 선택 측면에서 보강·확장한다. 또한 recall interval을 다룬 [[periodontics/farooqi-2015-periodontal-maintenance-recall-interval-sr]]와 함께 SPC 프로토콜 의사결정의 근거로 활용 가능.
 
-## One-line Summary
-RCT (n=41 SPC patients, 1-year) comparing guided biofilm management (erythritol air-polishing + ultrasonic, no hand instruments) vs conventional scaling and root planing during supportive periodontal care: SRP gave a statistically significant BoP reduction (14.7%→7.9%, p=0.004) while GBM did not (12.2%→9.0%, p=0.191), but final BoP, PPD, recession, treatment time and overall satisfaction were comparable; GBM had fewer furcation-involved teeth (p=0.015) and SRP scored slightly better on pain (p=0.035).
+## Three-line Summary
 
-## 한줄요약
-RCT (유지치주치료 환자 41명, 1년): 가이드 바이오필름 관리(에리스리톨 에어폴리싱+초음파, 수기기구 미사용) vs 전통적 스케일링·치근활택술(SRP) 비교 — SRP만 BoP가 유의하게 감소(14.7%→7.9%, p=0.004)했고 GBM은 유의차 없음(12.2%→9.0%, p=0.191)이었으나 최종 BoP·PPD·치은퇴축·치료시간·전체 만족도는 비슷; GBM은 치근이개부 병변 치아 수가 더 적었고(p=0.015) SRP는 통증 점수가 약간 더 좋았다(p=0.035).
+RCT (n=41 SPC patients, 1-year) comparing guided biofilm management (erythritol air-polishing + ultrasonic, no hand instruments) vs conventional scaling and root planing during supportive periodontal care: SRP gave a statistically significant BoP reduction (14.7%→7.9%, p=0.004) while GBM did not (12.2%→9.0%, p=0.191), but final BoP, PPD, recession, treatment time and overall satisfaction were comparable;
+
+GBM had fewer furcation-involved teeth (p=0.015) and SRP scored slightly better on pain (p=0.035).
+
+(incomplete)
+
+## 세줄요약
+
+RCT (유지치주치료 환자 41명, 1년): 가이드 바이오필름 관리(에리스리톨 에어폴리싱+초음파, 수기기구 미사용) vs 전통적 스케일링·치근활택술(SRP) 비교 — SRP만 BoP가 유의하게 감소(14.7%→7.9%, p=0.004)했고 GBM은 유의차 없음(12.2%→9.0%, p=0.191)이었으나 최종 BoP·PPD·치은퇴축·치료시간·전체 만족도는 비슷;
+
+GBM은 치근이개부 병변 치아 수가 더 적었고(p=0.015) SRP는 통증 점수가 약간 더 좋았다(p=0.035).
+
+(incomplete)
 
 ## 1. Document Information
 - **Type**: Human randomized controlled clinical trial (two parallel groups), 1-year results of a planned 3-year study.

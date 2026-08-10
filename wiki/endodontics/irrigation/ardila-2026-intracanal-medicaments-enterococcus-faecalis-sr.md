@@ -6,7 +6,7 @@ date: 2026-05-29
 doi: 10.3389/froh.2026.1854046
 source: ardila-2026-intracanal-medicaments-enterococcus-faecalis-sr.md
 category: [endodontics/irrigation]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/ardila-2026-intracanal-medicaments-enterococcus-faecalis-sr.pdf
 pdf_filename: ardila-2026-intracanal-medicaments-enterococcus-faecalis-sr.pdf
 source_collection: external
@@ -18,13 +18,21 @@ relations:
     target: rossi-fedele-2023-irrigation-dressing-apical-periodontitis-sr-ma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (PRISMA 2020, PROSPERO CRD420261345958; 12 studies, in vitro/ex vivo/clinical) with domain-based interpretive synthesis + exploratory meta-analysis of intracanal medicaments vs Enterococcus faecalis: antibiotic-based pastes (esp. triple antibiotic paste) showed comparatively stronger antimicrobial performance, calcium hydroxide variable/weaker (esp. deep dentin), nanoparticle/bioactive agents promising but heterogeneous; pooling (only 2 studies) showed extreme heterogeneity, certainty low–moderate.
+SR with domain-based interpretive synthesis + exploratory meta-analysis (PRISMA 2020; 12 studies, in vitro/ex vivo/clinical) of intracanal medicaments against *Enterococcus faecalis*.
 
-## 한줄요약
+Antibiotic-based pastes (especially triple antibiotic paste) showed comparatively strongest antimicrobial performance; Ca(OH)₂ was variable and weaker in deep dentin; nanoparticle/bioactive agents were promising but heterogeneous; only 2 studies were poolable.
 
-근관 내 약제의 Enterococcus faecalis 항균력을 평가한 체계적 고찰(PRISMA 2020, 12편, 도메인 기반 해석적 합성 + 탐색적 메타분석) — 항생제 기반 페이스트(특히 삼중항생제 페이스트)가 상대적으로 가장 강력했고, 수산화칼슘은 특히 심부 상아질에서 효과가 변동·약했으며, 나노입자·생활성 제제는 유망하나 이질성이 컸다. 정량 통합은 2편뿐이라 이질성·불확실성이 높았다.
+Certainty is low-to-moderate — TAP or Ca(OH)₂ combinations are the best-supported options for E. faecalis-targeted treatment, but evidence base is insufficient for definitive protocol recommendations.
+
+## 세줄요약
+
+12편 (in vitro/ex vivo/임상) 대상 SR — 도메인 기반 해석적 합성 + 탐색적 메타분석으로 근관 내 약제의 엔테로코쿠스 패칼리스 (*Enterococcus faecalis, E. faecalis*) 항균력 비교.
+
+항생제 기반 페이스트 (삼중항생제 페이스트 Triple Antibiotic Paste, TAP 등)가 가장 강력했고, 수산화칼슘은 특히 심부 상아질에서 효과 변동·약했으며, 나노입자·생활성 제제는 유망하나 이질성 컸음; 정량 통합 가능 연구 2편뿐.
+
+전체 근거 확실성 낮음~중간 — TAP 또는 Ca(OH)₂ 복합제가 최선이지만, 확정적 프로토콜 권고는 불충분.
 
 ## Summary
 
@@ -56,6 +64,6 @@ Persistent post-treatment apical periodontitis is repeatedly linked to *Enteroco
 
 ## Related Papers
 
-- [[endodontics/ordinola-zapata-2022-intracanal-medicaments-status-directions]] — extends; narrows the broad intracanal-medicament status review to the E. faecalis target with quantitative synthesis.
+- [[endodontics/irrigation/ordinola-zapata-2022-intracanal-medicaments-status-directions]] — extends; narrows the broad intracanal-medicament status review to the E. faecalis target with quantitative synthesis.
 - [[endodontics/irrigation/rossi-fedele-2023-irrigation-dressing-apical-periodontitis-sr-ma]] — reinforces; both frame the between-visit dressing as a determinant of disinfection and apical-periodontitis healing.
 - [[endodontics/irrigation/lim-2020-qmix-antibacterial-e-faecalis-sr]] — same E. faecalis target from the irrigant (QMix) axis.

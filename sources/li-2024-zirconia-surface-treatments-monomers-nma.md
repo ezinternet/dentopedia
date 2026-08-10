@@ -17,13 +17,21 @@ text_filename: li-2024-zirconia-surface-treatments-monomers-nma.txt
 
 This Bayesian network meta-analysis (Li 2024, 77 in-vitro studies) directly ranks both mechanical surface treatments AND chemical adhesive monomers for zirconia-resin bonding in one model, establishing that 10-MDP-based formulations are superior to all other acidic monomers and that non-MDP formulations are essentially ineffective. It extends the chemical-interaction evidence in [[wiki/resin-bonding/nagaoka-2017-mdp-zirconia-chemical-interaction-nmr]] (NMR mechanism of the MDP–Zr bond) from molecular mechanism into a quantitative cross-treatment ranking, and complements the clinical-durability synthesis in [[wiki/prosthetic-materials/alammar-2022-zirconia-bonding-durability-clinical-outcomes-sr]] and the MDP-cleaner contamination work in [[wiki/dental-materials/zirconia/awad-2022-mdp-cleaner-contaminated-zirconia]].
 
-## One-line Summary
+## Three-line Summary
 
-Bayesian network meta-analysis (77 in-vitro studies): for zirconia-resin bonding, SIE/hot-etching rank highest by SUCRA but air abrasion remains the practical standard; fine air-abrasion particles (25–53 µm) beat coarse (110–150 µm) immediately, Rocatec > CoJet, and 10-MDP-containing primers/cements are significantly superior to all other acidic monomers (MD 12.15 MPa), while silane/HEMA alone and gas plasma confer no benefit.
+Bayesian network meta-analysis (77 in-vitro studies): for zirconia-resin bonding, SIE/hot-etching rank highest by SUCRA but air abrasion remains the practical standard;
 
-## 한줄요약
+fine air-abrasion particles (25–53 µm) beat coarse (110–150 µm) immediately, Rocatec > CoJet, and 10-MDP-containing primers/cements are significantly superior to all other acidic monomers (MD 12.15 MPa), while silane/HEMA alone and gas plasma confer no benefit.
+
+(incomplete)
+
+## 세줄요약
 
 베이지안 네트워크 메타분석(in-vitro 77편): 지르코니아-레진 접착에서 SIE/hot-etching이 SUCRA 1·2위지만 임상 표준은 여전히 표면처리(air abrasion), 미세 입자(25–53 µm)가 즉시접착에서 굵은 입자(110–150 µm)보다 우수, Rocatec > CoJet, 10-MDP 함유 프라이머/시멘트가 다른 모든 산성 모노머보다 유의하게 우수(MD 12.15 MPa)인 반면 실란/HEMA 단독·가스 플라즈마는 효과 없음.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

@@ -6,20 +6,28 @@ date: 2022-07-27
 doi: 10.3390/bioengineering9080346
 source: hardan-2022-treatment-tooth-wear-using-direct.md
 category: [prosthetic-materials]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/hardan-2022-treatment-tooth-wear-using-direct.pdf
 pdf_filename: hardan-2022-treatment-tooth-wear-using-direct.pdf
 source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (16 clinical studies, follow-up up to 10 years, PRISMA 2020) of direct vs indirect restorations for tooth wear: high heterogeneity precluded meta-analysis and no restoration technique or material was shown superior for clinical performance.
+Systematic review (PRISMA 2020) of 16 clinical studies comparing direct vs indirect restorations for tooth wear, with follow-up up to 10 years; meta-analysis was not possible due to high heterogeneity.
 
-## 한줄요약
+No restoration technique or material was shown superior for clinical performance; materials ranged from ceramo-metal and full gold crowns to lithium disilicate, zirconia, PICN, and resin composites.
 
-치아 마모(tooth wear) 수복에서 직접 vs 간접 수복을 비교한 체계적 문헌고찰(16편 임상연구, 최대 10년 추적, PRISMA 2020): 이질성이 높아 메타분석은 불가했고, 어떤 수복 기법·재료도 임상 성적에서 우월하다는 근거는 없었다.
+Current evidence supports conservative, reversible, additive approaches; resin composites tend to fail by repairable fracture while ceramo-metal crowns fail by complete loss requiring more invasive retreatment.
+
+## 세줄요약
+
+체계적 문헌고찰(PRISMA 2020, 임상연구 16편, 최대 10년 추적): 치아 마모(tooth wear) 수복에서 직접(direct) vs 간접(indirect) 수복을 비교.
+
+높은 이질성으로 메타분석 불가; 어떤 수복 기법·재료도 임상 성적에서 우월하다는 근거 없음.
+
+현재 근거는 보존적·가역적·첨가적(additive) 수복 접근을 지지; 레진 복합재는 수리 가능 파절로 실패, 도재-금속은 완전 탈락으로 실패하는 경향.
 
 ## Summary
 

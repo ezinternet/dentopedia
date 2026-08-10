@@ -6,7 +6,7 @@ date: 2022-11-21
 doi: 10.34172/jlms.2022.50
 source: asnaashari-2022-cap-calcium-hydroxide-triple-antibiotic-efaecalis.md
 category: [endodontics/cold-plasma]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/asnaashari-2022-cap-calcium-hydroxide-triple-antibiotic-efaecalis.pdf
 pdf_filename: asnaashari-2022-cap-calcium-hydroxide-triple-antibiotic-efaecalis.pdf
 source_collection: external
@@ -15,16 +15,24 @@ relations:
   - type: reinforces
     target: endodontics/irrigation/ardila-2026-intracanal-medicaments-enterococcus-faecalis-sr
   - type: extends
-    target: endodontics/ordinola-zapata-2022-intracanal-medicaments-status-directions
+    target: endodontics/irrigation/ordinola-zapata-2022-intracanal-medicaments-status-directions
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In vitro study (n=63 teeth, 21-day E. faecalis biofilm): TAP (10 mg/mL, 12 days) achieved complete bacterial elimination; helium/oxygen cold atmospheric plasma (10 min) produced significant CFU reduction; calcium hydroxide (12 days) showed no significant antibacterial effect — efficacy hierarchy: TAP > CAP > Ca(OH)₂.
+In vitro study (n=63 single-rooted extracted teeth, 21-day mature E. faecalis ATCC 29212 biofilm penetrating dentinal tubules) — first direct three-arm comparison of cold atmospheric plasma (CAP), calcium hydroxide, and triple antibiotic paste (TAP) against established E. faecalis root canal biofilm.
 
-## 한줄요약
+TAP 10 mg/mL (12 days) achieved complete bacterial elimination (p<0.05); helium/oxygen CAP jet (10 min) produced significant CFU reduction (p<0.05) with SEM-confirmed disrupted biofilm; calcium hydroxide (12 days) showed no significant reduction — establishing the hierarchy TAP > CAP > Ca(OH)₂.
 
-체외 연구(63개 발치치, 21일 E. faecalis 바이오필름): TAP 10 mg/mL(12일)이 완전 균 제거, 헬륨/산소 CAP(10분)은 유의한 CFU 감소, 수산화칼슘(12일)은 대조군과 차이 없음 — 항균력 순서: TAP > CAP > Ca(OH)₂.
+CAP shows genuine promise as an endodontic disinfectant via RONS generation, is particularly attractive when antibiotic use is restricted, and unlike TAP avoids cytotoxicity on stem cells — a relevant consideration in regenerative endodontics.
+
+## 세줄요약
+
+발치 단근 63개(21일 E. faecalis 성숙 바이오필름) in vitro: CAP·수산화칼슘·3혼합 항생제(TAP) 3군 직접 비교 최초 연구.
+
+TAP 10 mg/mL(12일)은 완전 균 제거(p<0.05), He/O₂ CAP 제트(10분)는 유의한 CFU 감소+SEM상 바이오필름 파괴(p<0.05), 수산화칼슘(12일)은 효과 없음 — 항균력: TAP > CAP > Ca(OH)₂.
+
+CAP는 활성산소종(RONS) 생성을 통해 실질적인 소독력을 보이며, 항생제 제한이 필요하거나 재생 근관치료에서 줄기세포 독성을 피해야 할 때 유력한 대안이 될 수 있다.
 
 ## Summary
 
@@ -75,5 +83,5 @@ The principal finding was a clear efficacy hierarchy: **TAP completely eliminate
 ## Related Papers
 
 - [[endodontics/irrigation/ardila-2026-intracanal-medicaments-enterococcus-faecalis-sr]] — SR+MA (12 studies) confirming TAP > Ca(OH)₂ against E. faecalis; this paper is a primary study in that review's evidence base
-- [[endodontics/ordinola-zapata-2022-intracanal-medicaments-status-directions]] — narrative review contextualizing intracanal medicament selection; Ca(OH)₂ as standard, with caveats for resistant organisms
+- [[endodontics/irrigation/ordinola-zapata-2022-intracanal-medicaments-status-directions]] — narrative review contextualizing intracanal medicament selection; Ca(OH)₂ as standard, with caveats for resistant organisms
 - [[endodontics/irrigation/lim-2020-qmix-antibacterial-e-faecalis-sr]] — SR comparing QMix irrigation vs E. faecalis; complements CAP data with irrigant-based approaches

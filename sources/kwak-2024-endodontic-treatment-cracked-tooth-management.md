@@ -9,8 +9,21 @@ pdf_filename: kwak-2024-endodontic-treatment-cracked-tooth-management.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Narrative practitioner-oriented review (Korean Dental Association) on the decision logic for endodontic treatment in cracked tooth management. Emphasizes a staged approach to avoid premature/unnecessary RCT.
+## Three-line Summary
+
+Narrative practitioner-oriented review (Korean Dental Association) on the
+
+decision logic for endodontic treatment in cracked tooth
+
+management. Emphasizes a staged approach to avoid premature/unnecessary RCT.
+
+## 세줄요약
+
+Narrative practitioner-oriented review (Korean Dental Association) on the
+
+decision logic for endodontic treatment in cracked tooth
+
+management. Emphasizes a staged approach to avoid premature/unnecessary 무작위 대조 시험 (RCT).
 
 ## 1. Document Information
 - **Title:** Endodontic treatment in the management of cracked tooth

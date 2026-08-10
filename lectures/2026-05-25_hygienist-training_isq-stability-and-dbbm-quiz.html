@@ -1,0 +1,176 @@
+<!--
+---
+title: "ISQ·DBBM 자가테스트"
+type: lecture-quiz
+date: 2026-05-25
+status: done
+deck: 2026-05-25_hygienist-training_isq-stability-and-dbbm.html
+agenda: agenda/2026-05-25_q2-clinic-sop-dbbm-isq.md
+source_wiki:
+  - wiki/implants/isq/bavetta-2024-isq-osstell-osseo-device-comparison.md
+  - wiki/implants/isq/andersson-2019-rfa-factors-5year-neoss-survival.md
+  - wiki/bone-regeneration/manfro-2013-bovine-bone-substitutes-comparative-histomorphometric.md
+  - wiki/bone-regeneration/signoriello-2025-dbbm-calcium-sulphate-socket-preservation.md
+  - wiki/sinus-lift/lateral/mordenfeld-2014-msfa-dpbb-autogenous-implants-10year.md
+note: "슬라이드 덱 lectures/2026-05-25_hygienist-training_isq-stability-and-dbbm.html 동반 자가테스트. 문항은 위키 근거로 LLM 저작
+  — scripts/build-lecture-quiz.py가 스펙(lectures/quiz-specs/2026-05-25_hygienist-training_isq-stability-and-dbbm.json)에서 HTML
+  생성. interactives/ 색인에는 포함되지 않음(build-lectures-index.py가 덱 카드 옆에만 카드
+  생성)."
+---
+-->
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ISQ·DBBM 자가테스트</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700;900&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#0e1116; --panel:#161b22; --panel2:#1c232d; --line:#2b333d;
+    --txt:#e6edf3; --dim:#9aa7b4; --ok:#3fb950; --no:#ff5d5d; --accent:#4aa3ff;
+    --chip:#243040;
+  }
+  *{box-sizing:border-box;}
+  body{margin:0;background:var(--bg);color:var(--txt);
+    font-family:'Noto Sans KR',system-ui,sans-serif;line-height:1.55;}
+  .wrap{max-width:760px;margin:0 auto;padding:26px 18px 80px;}
+  h1{font-weight:900;font-size:1.6rem;margin:.2em 0 .1em;}
+  .sub{color:var(--dim);font-size:.92rem;margin-bottom:16px;}
+  .bar{height:8px;background:var(--panel);border-radius:20px;overflow:hidden;margin:14px 0 22px;}
+  .bar > i{display:block;height:100%;width:0;background:var(--accent);transition:width .3s;}
+  .q{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:18px;margin-bottom:16px;}
+  .qn{font-size:.78rem;color:var(--dim);margin-bottom:4px;}
+  .qt{font-weight:700;margin-bottom:12px;}
+  .opt{display:block;width:100%;text-align:left;background:var(--panel2);
+    border:1px solid var(--line);color:var(--txt);border-radius:9px;
+    padding:11px 13px;margin:7px 0;cursor:pointer;font-size:.93rem;
+    font-family:inherit;transition:border-color .15s,background .15s;}
+  .opt:hover:not(:disabled){border-color:var(--accent);}
+  .opt:disabled{cursor:default;}
+  .opt.correct{border-color:var(--ok);background:rgba(63,185,80,.12);}
+  .opt.wrong{border-color:var(--no);background:rgba(255,93,93,.12);}
+  .rat{margin-top:10px;font-size:.86rem;color:var(--dim);
+    border-left:3px solid var(--line);padding:8px 12px;display:none;}
+  .rat.show{display:block;}
+  .rat b{color:var(--txt);}
+  .rat a{color:var(--accent);text-decoration:none;}
+  .score{position:sticky;bottom:0;background:var(--panel);border:1px solid var(--line);
+    border-radius:12px;padding:14px 18px;text-align:center;font-weight:700;margin-top:8px;}
+  .score .big{font-size:1.5rem;color:var(--accent);}
+  .reset{margin-top:12px;background:var(--chip);border:1px solid var(--line);
+    color:var(--txt);border-radius:8px;padding:9px 16px;cursor:pointer;font-family:inherit;}
+  .foot{margin-top:26px;color:var(--dim);font-size:.78rem;text-align:center;}
+  .foot a{color:var(--accent);text-decoration:none;}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>📡 ISQ·DBBM 자가테스트</h1>
+  <div class="sub">슬라이드 동반 자가테스트 · 5문항 · 답을 고르면 정답·해설·근거가 열립니다.</div>
+  <div class="bar"><i id="bar"></i></div>
+  <div id="quiz"></div>
+  <div class="score" id="score">진행: <span id="done">0</span>/5 · 정답 <span class="big" id="pts">0</span></div>
+  <button class="reset" onclick="location.reload()">↻ 다시 풀기</button>
+  <div class="foot"><a href="2026-05-25_hygienist-training_isq-stability-and-dbbm.html">← 슬라이드로 돌아가기</a> · 교육용 요약 — 개별 판단은 위키 원문·원장 확인</div>
+</div>
+<script>
+// 문항 = LLM이 위키 근거로 저작. 스펙: lectures/quiz-specs/2026-05-25_hygienist-training_isq-stability-and-dbbm.json
+// cite = 위키 경로(category/stem) → 링크는 /dentopedia/{cite} 로 조립.
+const QUESTIONS = [
+  {
+    "q": "Osstell과 Osseo 두 ISQ 측정 기기에 대한 설명으로 옳은 것은?",
+    "opts": [
+      "항상 같은 값을 준다",
+      "서로 다른 값을 줄 수 있어 기기를 통일해야 한다",
+      "Osseo가 항상 더 정확하다",
+      "둘 다 침습적 측정이다"
+    ],
+    "ans": 1,
+    "rat": "Bavetta 2024: 두 기기(자기장 SmartPeg vs 전자기 sensor)는 서로 다른 ISQ 값을 준다 — 클리닉 내 기기 통일 필요.",
+    "cite": "implants/isq/bavetta-2024-isq-osstell-osseo-device-comparison"
+  },
+  {
+    "q": "4방향 ISQ 측정 중 1개 방향이 평균과 크게 차이 날 때 우리 클리닉 SOP는?",
+    "opts": [
+      "평균만 차트에 기록하고 넘어간다",
+      "재측정 후 원장 보고",
+      "환자에게 바로 설명한다",
+      "무시하고 다음 시점까지 대기"
+    ],
+    "ans": 1,
+    "rat": "4방향 중 1방향만 크게 낮으면 그 방향 골 결손 의심 — 재측정 + 원장 보고가 SOP.",
+    "cite": "implants/isq/andersson-2019-rfa-factors-5year-neoss-survival"
+  },
+  {
+    "q": "식립 직후 ISQ가 65 미만일 때 우리 클리닉 정책은?",
+    "opts": [
+      "즉시 부하 진행",
+      "부하 보류, 원장 즉시 보고",
+      "위생사 판단으로 healing 기간 결정",
+      "다음 내원까지 대기"
+    ],
+    "ans": 1,
+    "rat": "시점별 임계값 SOP: 식립 직후 ISQ <65는 부하 보류 + 원장 즉시 보고 대상.",
+    "cite": "implants/isq/andersson-2019-rfa-factors-5year-neoss-survival"
+  },
+  {
+    "q": "Manfro 2013 동물실험에서 12주 신생골 형성량이 Bio-Oss와 가장 유사했던 이종골 제품은?",
+    "opts": [
+      "Gen-Ox",
+      "Bone-Fill",
+      "혈병 단독",
+      "제품 간 차이 없음"
+    ],
+    "ans": 1,
+    "rat": "Bio-Oss 9.32mm² vs Bone-Fill 9.01mm²(거의 동등), Gen-Ox는 1/3 수준(3.02mm²)로 크게 열등 — 이종골이 다 같지 않다는 근거.",
+    "cite": "bone-regeneration/manfro-2013-bovine-bone-substitutes-comparative-histomorphometric"
+  },
+  {
+    "q": "Signoriello 2025(Bio-Oss+황산칼슘 hybrid vs Bio-Oss 단독) 4개월 결과에서 유의하게 개선된 것은?",
+    "opts": [
+      "무세포골 비율 증가",
+      "생활골(vital bone) 비율 증가",
+      "이식재 흡수 지연",
+      "차이 없음"
+    ],
+    "ans": 1,
+    "rat": "hybrid군 생활골 62.5% vs 단독군 31.25%(p<0.05), 무세포골은 반대로 hybrid군이 더 낮음(5% vs 32.91%).",
+    "cite": "bone-regeneration/signoriello-2025-dbbm-calcium-sulphate-socket-preservation"
+  }
+];
+const SITE_BASE="/dentopedia";
+let done=0, pts=0;
+const quiz=document.getElementById('quiz');
+QUESTIONS.forEach((item,i)=>{
+  const card=document.createElement('div'); card.className='q';
+  const cite=`<a href="${SITE_BASE}/${item.cite}" target="_blank">근거 보기 →</a>`;
+  card.innerHTML=`<div class="qn">Q${i+1}</div><div class="qt">${item.q}</div>`;
+  item.opts.forEach((o,j)=>{
+    const b=document.createElement('button'); b.className='opt'; b.textContent=o;
+    b.onclick=()=>answer(card,i,j,b);
+    card.appendChild(b);
+  });
+  const r=document.createElement('div'); r.className='rat';
+  r.innerHTML=`<b>해설.</b> ${item.rat||''} ${cite}`;
+  card.appendChild(r);
+  quiz.appendChild(card);
+});
+function answer(card,i,pick,btn){
+  if(card.dataset.answered) return;
+  card.dataset.answered="1";
+  const item=QUESTIONS[i];
+  card.querySelectorAll('.opt').forEach((b,j)=>{ b.disabled=true;
+    if(j===item.ans) b.classList.add('correct');
+    else if(j===pick) b.classList.add('wrong'); });
+  if(pick===item.ans) pts++;
+  done++;
+  card.querySelector('.rat').classList.add('show');
+  document.getElementById('done').textContent=done;
+  document.getElementById('pts').textContent=pts;
+  document.getElementById('bar').style.width=(done/QUESTIONS.length*100)+'%';
+}
+</script>
+</body>
+</html>

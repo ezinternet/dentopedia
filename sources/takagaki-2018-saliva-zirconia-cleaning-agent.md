@@ -9,8 +9,21 @@ pdf_filename: takagaki-2018-saliva-zirconia-cleaning-agent.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Dental Materials Journal 2018;37(5):734-739: Y-PSZ (high-translucency) zirconia saliva contamination reduces bond strength; phosphoric acid leaves phosphorous residue impairing MDP bonding; air abrasion + Ivoclean most effective; XPS analysis confirms cleaning efficacy.
+## Three-line Summary
+
+Dental Materials Journal 2018;37(5):734-739: Y-PSZ (high-translucency) zirconia saliva contamination reduces bond strength
+
+phosphoric acid leaves phosphorous residue impairing MDP bonding
+
+air abrasion + Ivoclean most effective; XPS analysis confirms cleaning efficacy.
+
+## 세줄요약
+
+Dental Materials Journal 2018;37(5):734-739: Y-PSZ (high-translucency) zirconia saliva contamination reduces bond strength
+
+phosphoric acid leaves phosphorous residue impairing MDP bonding
+
+air abrasion + Ivoclean most effective; XPS analysis confirms cleaning efficacy.
 
 ## 1. Document Information
 Journal: Dental Materials Journal 2018;37(5):734-739

@@ -13,13 +13,21 @@ source_collection: external
 
 [[wiki/behavioral-dentistry/dental-anxiety/alhomoud-2023-behavior-anxiety-levels-pediatric-patient]]가 소아 불안을 "측정"했다면, 본 narrative review(Children, 2026)는 그 측정도구 선택 + 비약물 관리전략(tell-show-do, modeling, AV distraction, VR)을 종합 — 위생사·소아 진료 매뉴얼의 직접 골격. 디지털(immersive distraction) 신경향까지 포함해 최신성 확보. dental-anxiety 하위 카테고리의 management 축.
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review (Children, MDPI) synthesizing validated pediatric dental-anxiety assessment tools (selection varies by age/cognition/context) and non-pharmacological management — tell–show–do, modeling, parental guidance, audiovisual distraction, and VR-based methods show consistent effectiveness; structured assessment + multimodal behavioral strategies improve cooperation and clinical efficiency.
+Narrative review (Children, MDPI) synthesizing validated pediatric dental-anxiety assessment tools (selection varies by age/cognition/context) and non-pharmacological management — tell–show–do, modeling, parental guidance, audiovisual distraction, and VR-based methods show consistent effectiveness;
 
-## 한줄요약
+structured assessment + multimodal behavioral strategies improve cooperation and clinical efficiency.
 
-소아 치과불안 narrative review(Children, MDPI) — 검증된 평가도구는 연령·인지·맥락에 따라 선택 달라짐. 비약물 관리(tell-show-do, modeling, 보호자 안내, 시청각 distraction, VR)가 일관된 효과. 구조화된 평가 + 다중모드 행동전략이 협조도·임상효율을 높임. 몰입형 distraction 등 디지털 신경향 부각.
+(incomplete)
+
+## 세줄요약
+
+소아 치과불안 narrative review(Children, MDPI) — 검증된 평가도구는 연령·인지·맥락에 따라 선택 달라짐.
+
+비약물 관리(tell-show-do, modeling, 보호자 안내, 시청각 distraction, VR)가 일관된 효과.
+
+구조화된 평가 + 다중모드 행동전략이 협조도·임상효율을 높임. 몰입형 distraction 등 디지털 신경향 부각.
 
 ## 1. Document Information
 - Journal: Children (MDPI) 2026;13(3):397

@@ -13,11 +13,21 @@ source_collection: external
 
 맞춤형(CAD/CAM) 티타늄메쉬가 기성 메쉬 대비 수직/수평 골증대량·합병증에서 실제 우위가 있는지 SR+MA로 정량화. 기존 [[implants/vertical-ridge-augmentation/chiapasco-2021-customized-cadcam-titanium-meshes-gbr]]와 [[implants/vertical-ridge-augmentation/tay-2022-healing-complications-vertical-gbr-sr-ma]]의 합병증 논의를 직접 비교 메타분석으로 확장.
 
-## One-line Summary
-SR+MA (22 studies: 3 RCT, 6 prospective, 12 retrospective, 1 cohort; 608 patients, 1,318 implants) comparing customized CAD/CAM titanium mesh (CTM) vs conventional titanium mesh (TM) for ridge augmentation; comparable vertical bone gain (5.14 vs 6.24 mm, NS), significantly greater horizontal gain with CTM (6.38 vs 3.85 mm, P=0.004), and a non-significant trend to less exposure with CTM (20.3% vs 30.9%).
+## Three-line Summary
 
-## 한줄요약
-맞춤형 CAD/CAM 티타늄메쉬(CTM) vs 기성 메쉬(TM)를 비교한 SR+MA(22편, 608명·임플란트 1,318개). 수직골증대량은 유사(5.14 vs 6.24 mm, NS), 수평골증대는 CTM이 유의하게 우수(6.38 vs 3.85 mm, P=0.004), 막노출은 CTM이 낮은 경향(20.3% vs 30.9%, NS).
+SR+MA (22 studies: 3 RCT, 6 prospective, 12 retrospective, 1 cohort;
+
+608 patients, 1,318 implants) comparing customized CAD/CAM titanium mesh (CTM) vs conventional titanium mesh (TM) for ridge augmentation;
+
+comparable vertical bone gain (5.14 vs 6.24 mm, NS), significantly greater horizontal gain with CTM (6.38 vs 3.85 mm, P=0.004), and a non-significant trend to less exposure with CTM (20.3% vs 30.9%).
+
+## 세줄요약
+
+맞춤형 CAD/CAM 티타늄메쉬(CTM) vs 기성 메쉬(TM)를 비교한 SR+MA(22편, 608명·임플란트 1,318개).
+
+수직골증대량은 유사(5.14 vs 6.24 mm, NS), 수평골증대는 CTM이 유의하게 우수(6.38 vs 3.85 mm, P=0.004), 막노출은 CTM이 낮은 경향(20.3% vs 30.9%, NS).
+
+(incomplete)
 
 ## 1. Document Information
 - Journal: International Journal of Implant Dentistry (Int J Implant Dent) 2025;11:55

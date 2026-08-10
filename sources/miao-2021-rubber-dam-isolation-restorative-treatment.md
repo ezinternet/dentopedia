@@ -13,13 +13,21 @@ source_collection: external
 
 레진접착 성공의 전제인 수분/오염 격리(러버댐 vs 코튼롤)가 실제 수복물 생존율에 미치는 영향을 RCT 메타분석으로 정량화한 최고 근거수준(Cochrane SR+MA) 자료로, 접착 시 격리 방법 선택의 임상 근거를 보강한다. [[resin-bonding/miao-2021-rubber-dam-isolation-restorative-treatment]] 페이지로 다른 접착/수복 결과 페이지들의 방법론적 전제(격리)를 연결한다.
 
-## One-line Summary
+## Three-line Summary
 
-Cochrane SR+MA (6 RCTs, 1342 participants, all high risk of bias): rubber dam isolation may increase survival of direct composite restorations of NCCLs at 6 months (OR 2.29, 95% CI 1.05–4.99; low-certainty), with very uncertain evidence at later time points.
+Cochrane SR+MA (6 RCTs, 1342 participants, all high risk of bias): rubber dam isolation may increase survival of direct composite restorations of NCCLs at 6 months (OR 2.29, 95% CI 1.05–4.99;
 
-## 한줄요약
+low-certainty), with very uncertain evidence at later time points.
 
-Cochrane 체계적 문헌고찰+메타분석 (RCT 6편, 1342명, 모두 비뚤림 위험 높음): 러버댐 격리가 6개월 시점에 비우식성 치경부병소(NCCL) 직접 복합레진 수복물의 생존율을 높일 수 있으나(OR 2.29, 95% CI 1.05–4.99; 낮은 근거수준), 그 이후 시점의 근거는 매우 불확실함.
+(incomplete)
+
+## 세줄요약
+
+Cochrane 체계적 문헌고찰+메타분석 (RCT 6편, 1342명, 모두 비뚤림 위험 높음): 러버댐 격리가 6개월 시점에 비우식성 치경부병소(NCCL) 직접 복합레진 수복물의 생존율을 높일 수 있으나(OR 2.29, 95% CI 1.05–4.99;
+
+낮은 근거수준), 그 이후 시점의 근거는 매우 불확실함.
+
+(incomplete)
 
 ## 1. Document Information
 

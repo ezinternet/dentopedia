@@ -6,7 +6,7 @@ date: 2023-02-02
 doi: 10.3390/ma16031293
 source: spinelli-2023-tissue-level-laser-lok-flapless-4year.md
 category: [implants]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/spinelli-2023-tissue-level-laser-lok-flapless-4year.pdf
 pdf_filename: spinelli-2023-tissue-level-laser-lok-flapless-4year.pdf
 source_collection: external
@@ -20,13 +20,21 @@ relations:
     target: mortazavi-2021-bone-loss-tissue-bone-level-implants
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Prospective 4-year cohort (41 tissue-level Laser-Lok implants, flapless, n=36 patients) showed 100% survival, mean MBL −1.10 ± 0.89 mm at 48 months, stable BoP and plaque scores, and no peri-implantitis; implant diameter (4.6 > 3.8 mm) was the only significant predictor of crestal bone preservation.
+Prospective single-center 4-year cohort (41 tapered tissue-level Laser-Lok implants placed via flapless technique in 36 patients; immediate/early/delayed timing protocols; University of Bologna) with ≥48-month follow-up and periapical radiographic MBL assessment.
 
-## 한줄요약
+Implant survival was 100% with zero peri-implantitis or mucositis events; mean MBL at 48 months was −1.10 ± 0.89 mm, with most loss occurring between T12 and T36; 4.6 mm diameter implants lost significantly less bone than 3.8 mm (−0.64 vs −1.43 mm, p=0.027) as the only multivariable predictor.
 
-무판막 술식으로 식립한 Laser-Lok 조직-레벨 임플란트(41개, 36명)의 4년 전향적 코호트: 생존율 100%, 48개월 MBL −1.10 ± 0.89 mm, 주위염·점막염 없음, 임플란트 직경(4.6 mm > 3.8 mm)만이 골소실 예측 유의 인자.
+Wider diameter (4.6 mm) Laser-Lok implants placed with flapless technique yield excellent 4-year outcomes; early placement timing (8–12 weeks) showed the most favorable MBL but was significant only from T36 onward.
+
+## 세줄요약
+
+단일기관 4년 전향적 코호트 (Laser-Lok 조직수준 테이퍼드 임플란트 41개, 무판막 술식, 36명; 즉시·조기·지연 식립; Bologna대) — 48개월 이상 추적, 방사선적 MBL 평가.
+
+생존율 100%, 주위염·점막염 0건; 48개월 MBL −1.10 ± 0.89 mm (T12–T36 사이 가속); 4.6 mm 직경이 3.8 mm 대비 골소실 유의하게 적음 (−0.64 vs −1.43 mm, p=0.027) — 다변량 분석에서 직경만 유의.
+
+4.6 mm Laser-Lok 임플란트의 무판막 식립이 우수한 4년 결과 제공; 조기 식립(8–12주)이 MBL 관점에서 가장 유리하나 T36 이후에만 유의.
 
 ## Summary
 
@@ -97,7 +105,7 @@ Only implant diameter was significant (coeff −0.786, p = 0.027); gender, locat
 
 ## Related Papers
 
-- [[implants/solderer-2025-tissue-level-implant-bone-loss-factors]] — SR on risk factors for marginal bone loss at tissue-level implants; this prospective study extends those findings with direct diameter/timing subgroup data
-- [[implants/cosola-2020-bone-tissue-level-radiological-sr]] — SR comparing bone-level vs tissue-level implant radiological outcomes; Spinelli 2023 provides prospective confirmatory data supporting tissue-level MBL stability
-- [[implants/mortazavi-2021-bone-loss-tissue-bone-level-implants]] — Comparison study of bone loss between tissue-level and bone-level implants; MBL values here align with tissue-level advantage
-- [[implants/lombardi-2025-bone-level-tissue-level-short-implants-maxilla]] — Bone-level vs tissue-level short implants in posterior maxilla; complementary design comparison to Spinelli's flapless single-unit dataset
+- [[implants/mbl/solderer-2025-tissue-level-implant-bone-loss-factors]] — SR on risk factors for marginal bone loss at tissue-level implants; this prospective study extends those findings with direct diameter/timing subgroup data
+- [[implants/mbl/cosola-2020-bone-tissue-level-radiological-sr]] — SR comparing bone-level vs tissue-level implant radiological outcomes; Spinelli 2023 provides prospective confirmatory data supporting tissue-level MBL stability
+- [[implants/mbl/mortazavi-2021-bone-loss-tissue-bone-level-implants]] — Comparison study of bone loss between tissue-level and bone-level implants; MBL values here align with tissue-level advantage
+- [[implants/short-narrow/lombardi-2025-bone-level-tissue-level-short-implants-maxilla]] — Bone-level vs tissue-level short implants in posterior maxilla; complementary design comparison to Spinelli's flapless single-unit dataset

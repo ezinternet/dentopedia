@@ -6,7 +6,7 @@ date: 2010-01-01
 doi: 10.1111/j.1600-0501.2010.02060.x
 journal: Clinical Oral Implants Research 2010
 source: covani-2010-alveolar-ridge-remodelling-single-tooth.md
-confidence: prospective
+evidence_level: prospective
 category: [immediate-implant]
 pdf_path: /Users/oracleneo/llm-wiki/papers/covani-2010-alveolar-ridge-remodelling-single-tooth.pdf
 pdf_filename: covani-2010-alveolar-ridge-remodelling-single-tooth.pdf
@@ -14,11 +14,19 @@ source_collection: external
 tags: [buccal-resorption, alveolar-crest, ridge-remodeling, study-model, single-tooth, clinical-study]
 ---
 
-## One-line Summary
-Prospective study-model analysis (50 patients, single-tooth extraction, ≥6-month healing): buccal resorption peaked at the midpoint (39.1 ± 10.4%) — roughly double that of the mesial/distal aspects (~20%) — and the alveolar crest shifted palatally/lingually by 56-65% (greatest at the midpoint), indicating immediate implants must account for concentrated mid-buccal bone loss.
+## Three-line Summary
+Prospective study-model analysis (50 patients, single-tooth extraction sites, ≥6-month healing) quantifying the pattern of post-extraction alveolar ridge remodeling.
 
-## 한줄요약
-스터디모델 (50명, ≥6mo): 협측 중간부 흡수 39.1% — 근원심의 2배; 치조정이 구개/설측으로 56–65% 이동
+Buccal resorption peaked at the midpoint (39.1 ± 10.4%) — roughly double that of mesial (~19.4%) and distal (~20.3%) aspects; the alveolar crest shifted palatally/lingually by 56–65%, most markedly at the midpoint.
+
+Clinical implication: mid-buccal bone loss is disproportionately severe after single-tooth extraction — immediate implant planning must prioritize the mid-buccal zone, and ridge preservation should target this location for maximum benefit.
+
+## 세줄요약
+전향 스터디 모델 분석 (50명, 단일치 발치 후 ≥6개월 치유): 발치 후 치조제 개조 패턴 정량화.
+
+협측 중간부 흡수율 39.1 ± 10.4% — 근심부(~19.4%)·원심부(~20.3%)의 약 2배; 치조정은 구개/설측으로 56–65% 이동, 중간부에서 최대.
+
+임상 의미: 단일치 발치 후 순측 중앙부 골소실이 불균등하게 심함 — 즉시식립 계획 및 치조제 보존술 적용 위치 선정 시 mid-buccal zone 집중 관리 필요.
 
 ## Summary
 50명 단일치 발치 후 ≥6개월 스터디모델 분석. **순측 중앙부 흡수 39.1%** — 근심·원심부(~20%)의 2배. 치조정은 구개/설측으로 이동하며 중앙부에서 가장 큰 이동 확인.

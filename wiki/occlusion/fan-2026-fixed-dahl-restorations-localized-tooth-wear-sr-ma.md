@@ -6,7 +6,7 @@ date: 2026-01-06
 doi: 10.1016/j.prosdent.2025.12.028
 source: fan-2026-fixed-dahl-restorations-localized-tooth-wear-sr-ma.md
 category: [occlusion]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: false
 pmid: "41500883"
@@ -21,13 +21,21 @@ relations:
     target: fan-2018-occlusal-trauma-and-excessive-occlusal
 ---
 
-## One-line Summary
+## Three-line Summary
 
-First SR+MA (11 studies; 8 low / 3 moderate RoB) on fixed Dahl restorations for localized tooth wear: indirect restorations showed much lower annual failure rates (0–0.7%) than direct (0–8.7%, P<.05), and complete posterior occlusal re-establishment occurred in a pooled 86.9% of patients (low–moderate GRADE certainty).
+First SR+MA (11 studies: RCTs, cohorts, case series; 8 low / 3 moderate RoB; search to June 2025) on fixed Dahl restorations for localized tooth wear, pooling survival, complication, and occlusal re-establishment outcomes for direct vs indirect materials.
 
-## 한줄요약
+Indirect restorations had significantly lower annual failure rates (0–0.7%) than direct (0–8.7%, P<.05); complete posterior occlusal re-establishment occurred in 86.9% of patients; predominant failures were fracture, wear, and loss (GRADE certainty low–moderate).
 
-국소 치아마모에 대한 고정성 Dahl 수복의 첫 SR+MA(11편): 간접 수복의 연간 실패율(0–0.7%)이 직접 수복(0–8.7%)보다 유의하게 낮았고, 후방 교합접촉 완전 재형성은 통합 86.9%에서 일어났다(GRADE 근거수준 낮음–중간).
+Fixed Dahl restorations are a suitable option for localized tooth wear with high patient satisfaction and reliable posterior re-establishment, but indirect materials perform significantly better than direct composites, and long-term follow-up data beyond 7 years remain scarce.
+
+## 세줄요약
+
+2025년 6월까지 검색한 국소 치아 마모(Localized Tooth Wear)에 대한 고정성 Dahl 수복의 첫 SR+MA(RCT·코호트·증례군 11편; 비뚤림 낮음 8, 중간 3)로, 직접 vs 간접 재료의 생존율·합병증·교합 재형성을 통합 분석했다.
+
+간접 수복 연간 실패율(0–0.7%)이 직접 수복(0–8.7%)보다 유의하게 낮았으며(P<.05), 후방 교합 완전 재형성은 86.9%에서 달성됐고, 주요 실패 유형은 파절·마모·탈락이었다(GRADE 근거수준 낮음–중간).
+
+고정성 Dahl 수복은 국소 치아 마모에 환자 만족도 높고 후방 교합 재형성이 신뢰할 수 있는 옵션이나, 간접 재료가 직접 복합레진보다 유의하게 우수하고 7년 초과 장기 데이터는 여전히 부족하다.
 
 > [!note] Abstract-only source
 > This page is built from the PubMed abstract (no PMC full text available). Effect sizes, confidence intervals, and per-study data are limited to what the abstract reports.

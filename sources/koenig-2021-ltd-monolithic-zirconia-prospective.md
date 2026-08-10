@@ -13,13 +13,21 @@ source_collection: external
 
 First prospective clinical study with ex vivo monitoring documenting intraoral low-temperature degradation (LTD) in second-generation 3Y-TZP monolithic zirconia prostheses — establishes that LTD occurs in vivo after 6 months and progresses over 2 years, a safety concern not previously confirmed in real intraoral conditions. [[dental-materials/warreth-2020-all-ceramic-restorations-narrative-review]]
 
-## One-line Summary
+## Three-line Summary
 
-Prospective study (n=101 posterior elements, 2-year ex vivo monitoring): LTD confirmed in 3Y-TZP monolithic zirconia prostheses from 6 months onward; grain pull-out in occlusal areas; glazing does not protect; clinical impact remains unknown.
+Prospective study (n=101 posterior elements, 2-year ex vivo monitoring): LTD confirmed in 3Y-TZP monolithic zirconia prostheses from 6 months onward;
 
-## 한줄요약
+grain pull-out in occlusal areas;
 
-전향적 임상연구 (n=101, 2년 추적): 2세대 3Y-TZP 모놀리식 지르코니아에서 6개월 후 LTD 발생 확인, 교합면 그레인 탈락 관찰, 유약(glaze)은 보호 효과 없음; 임상적 영향 미확인.
+glazing does not protect; clinical impact remains unknown.
+
+## 세줄요약
+
+전향적 임상연구 (n=101, 2년 추적): 2세대 3Y-TZP 모놀리식 지르코니아에서 6개월 후 LTD 발생 확인, 교합면 그레인 탈락 관찰, 유약(glaze)은 보호 효과 없음;
+
+임상적 영향 미확인.
+
+(incomplete)
 
 ## 1. Document Information
 

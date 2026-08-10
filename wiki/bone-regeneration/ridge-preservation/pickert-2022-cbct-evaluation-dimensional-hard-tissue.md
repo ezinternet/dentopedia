@@ -6,7 +6,7 @@ date: 2021-09-15
 doi: 10.5051/jpis.2007100355
 source: pickert-2022-cbct-evaluation-dimensional-hard-tissue.md
 category: [bone-regeneration/ridge-preservation]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/pickert-2022-cbct-evaluation-dimensional-hard-tissue.pdf
 pdf_filename: pickert-2022-cbct-evaluation-dimensional-hard-tissue.pdf
 source_collection: external
@@ -16,13 +16,21 @@ relations:
     target: bassir-2018-alveolar-ridge-preservation-meta-analysis
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (16 qualitative / 9 quantitative RCTs, CBCT-only) showing xenogenic graft materials produced significantly less vertical and horizontal ridge reduction than allogenic in alveolar ridge preservation, though no material fully prevented dimensional loss.
+SR+MA isolating only CBCT-measured outcomes (16 qualitative / 9 quantitative RCTs) across multiple bone substitute types used for alveolar ridge preservation (ARP).
 
-## 한줄요약
+Xenogenic graft materials produced significantly less vertical midbuccal loss (WMD −0.20 vs −0.90 mm) and horizontal width reduction at 1 mm (−1.32 vs −2.99 mm) compared to allogenic grafts (P<0.05).
 
-CBCT 측정만 모은 SR+MA(정성 16편·정량 9편)로, 치조제보존술에서 xenograft가 allograft보다 수직·수평 골 흡수를 유의하게 덜 일으켰으나(P<0.05) 어떤 재료도 치조제 치수 손실을 완전히 막지는 못했다.
+No graft material fully prevented post-extraction dimensional loss; autogenic data were insufficient for pooling, and all groups showed measurable ridge atrophy.
+
+## 세줄요약
+
+CBCT 측정값만 포함한 SR+MA (정성 16편·정량 9편): 치조제 보존술 (Alveolar Ridge Preservation, ARP)에 사용된 다양한 골대체재를 비교.
+
+이종골 (xenogenic graft)은 동종골 (allogenic graft) 대비 수직 중앙협측 흡수 (WMD −0.20 vs −0.90 mm)·수평 폭 1 mm (−1.32 vs −2.99 mm) 모두 유의하게 적었으며 (P<0.05), 자가골은 데이터 불충분으로 분석 불가.
+
+어떤 재료도 발치 후 치조 치수 소실을 완전히 막지 못했고, 모든 군에서 측정 가능한 흡수가 관찰되었다.
 
 ## Summary
 

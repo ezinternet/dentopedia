@@ -11,15 +11,23 @@ source_collection: external
 
 ## Why Ingested
 
-Maxillary first molar (MFM) immediate implant placement (IIP) hinges on the residual bone available beyond the root apices and between the roots — but most IIP guidance is anatomically vague. This CBCT study of 150 healthy MFMs quantifies the exact dimensions (buccal/palatal plate thickness, sinus floor-to-apex/furcation distances, inter-radicular socket width) and converts them into a 3-tier favorable/intermediate/contraindicated decision framework. It supplies the anatomical substrate behind palatal-root-socket IIP and inter-radicular septum engagement strategies. Reinforces [[immediate-implant/deporter-2021-cbct-immediate-maxillary-molar-implant]] (CBCT residual-bone assessment for maxillary molar IIP), extends [[immediate-implant/milenkovic-2022-interradicular-septum-classification-iip]] (septum-anchored stability with per-root dimensions), and underpins the palatal-root anchorage rationale in [[immediate-implant/liu-2024-maxillary-immediate-molar-palatal-root-socket]].
+Maxillary first molar (MFM) immediate implant placement (IIP) hinges on the residual bone available beyond the root apices and between the roots — but most IIP guidance is anatomically vague. This CBCT study of 150 healthy MFMs quantifies the exact dimensions (buccal/palatal plate thickness, sinus floor-to-apex/furcation distances, inter-radicular socket width) and converts them into a 3-tier favorable/intermediate/contraindicated decision framework. It supplies the anatomical substrate behind palatal-root-socket IIP and inter-radicular septum engagement strategies. Reinforces [[immediate-implant/molar-septum/deporter-2021-cbct-immediate-maxillary-molar-implant]] (CBCT residual-bone assessment for maxillary molar IIP), extends [[immediate-implant/molar-septum/milenkovic-2022-interradicular-septum-classification-iip]] (septum-anchored stability with per-root dimensions), and underpins the palatal-root anchorage rationale in [[immediate-implant/molar-septum/liu-2024-maxillary-immediate-molar-palatal-root-socket]].
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective CBCT cross-sectional study (95 patients, 150 healthy maxillary first molars): mean buccal/palatal plate 1.58/1.34 mm, sinus floor-to-furcation 6.51 mm, palatal root apex intrudes a mean −2.2 mm into the sinus (deeper than MB/DB roots); ~32% of MFMs judged contraindicated for immediate implant placement on residual-bone grounds.
+Retrospective CBCT cross-sectional study (95 patients, 150 healthy maxillary first molars): mean buccal/palatal plate 1.58/1.34 mm, sinus floor-to-furcation 6.51 mm, palatal root apex intrudes a mean −2.2 mm into the sinus (deeper than MB/DB roots);
 
-## 한줄요약
+~32% of MFMs judged contraindicated for immediate implant placement on residual-bone grounds.
 
-후향적 CBCT 단면연구 (환자 95명, 건강한 상악 제1대구치 150개): 평균 협측/구개측 골판 두께 1.58/1.34 mm, 상악동저-치근분지부 거리 6.51 mm, 구개측 치근단은 평균 −2.2 mm로 상악동 안으로 가장 깊이 함입(MB/DB 치근보다 깊음); MFM의 약 32%가 잔존골 기준 즉시식립 금기로 판정됨.
+(incomplete)
+
+## 세줄요약
+
+후향적 CBCT 단면연구 (환자 95명, 건강한 상악 제1대구치 150개): 평균 협측/구개측 골판 두께 1.58/1.34 mm, 상악동저-치근분지부 거리 6.51 mm, 구개측 치근단은 평균 −2.2 mm로 상악동 안으로 가장 깊이 함입(MB/DB 치근보다 깊음);
+
+MFM의 약 32%가 잔존골 기준 즉시식립 금기로 판정됨.
+
+(incomplete)
 
 ## 1. Document Information
 

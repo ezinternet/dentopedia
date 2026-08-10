@@ -6,18 +6,26 @@ date: 2021-01-01
 doi: 10.7518/hxkq.2021.06.018
 source: lu-2021-digital-stackable-osteotomy-template-precision.md
 category: [digital-workflow]
-confidence: case-report
+evidence_level: case-report
 pdf_path: /Users/oracleneo/llm-wiki/papers/lu-2021-digital-stackable-osteotomy-template-precision.pdf
 pdf_filename: lu-2021-digital-stackable-osteotomy-template-precision.pdf
 source_collection: external
 tags: [digital-workflow, stackable-template, osteotomy-guide, immediate-implant, accuracy, CBCT, 3D-printing, chinese-paper]
 ---
 
-## One-line Summary
-Case report (Chinese paper, n=4 edentulous patients): accuracy assessment of the osteotomy layer of a 3D-printed digital stackable guide (osteotomy + implant guide + provisional restoration integrated) — mean volumetric deviation 492.94 mm³ (21.21% of planned volume), mean displacement 0.0248 mm (sign-cancellation artifact), mean angular deviation 6.03° (range 1.39°–10.52°); n=4 with one large outlier distorting the mean.
+## Three-line Summary
+Technique-feasibility case series (Chinese journal 2021, n=4 edentulous patients, 2 maxillary / 2 mandibular) evaluating osteotomy-layer accuracy of a 3D-printed digital stackable guide integrating osteotomy, implant placement, and immediate provisional restoration tiers, via pre/post-op CBCT superimposition.
 
-## 한줄요약
-증례 보고 (case report, 중국어 논문), n=4 무치악 환자 — 절골 가이드 + 식립 가이드 + 임시수복물 일체형 3D 프린팅 디지털 스택형 가이드 (digital stackable template)의 절골층 정확도 평가: 평균 체적 편차 492.94 mm³ (예정 체적의 21.21%)·평균 변위 0.0248 mm (실은 부호 상쇄로 인한 평균, 개별 ±0.5 mm)·평균 각도 편차 6.03° (범위 1.39°~10.52°). n=4·1건 큰 outlier (MU 1419.54 mm³)로 평균이 왜곡됨.
+Mean volumetric deviation was 492.94 mm³ (21.21% of planned volume), mean angular deviation 6.03° (range 1.39°–10.52°), and mean displacement 0.0248 mm — the displacement mean is a sign-cancellation artifact (individual range ±0.5 mm); one clear outlier (case MU, metal maxillary guide: 1419.54 mm³, 8.07°) inflates both means substantially.
+
+This paper provides first reported accuracy figures for the stackable osteotomy-guide layer but should be read as technique feasibility only — n=4, no control group, and angular deviations up to 10.52° are clinically meaningful; the means hide more than they reveal.
+
+## 세줄요약
+술기 타당성 증례 시리즈 (중국 학술지 2021, n=4 무치악 환자, 상악 2·하악 2): 절골·식립·즉시 임시수복물 3층 일체형 3D 프린팅 디지털 스택형 가이드의 절골층 정확도를 술전·후 CBCT 중첩으로 평가.
+
+평균 체적 편차 492.94 mm³ (예정 체적의 21.21%), 평균 각도 편차 6.03° (범위 1.39°–10.52°), 평균 변위 0.0248 mm — 변위 평균은 부호 상쇄 결과물(개별 범위 ±0.5 mm); 명확한 outlier(MU 증례, 금속 상악 가이드: 1419.54 mm³, 8.07°)가 두 평균을 상당히 왜곡.
+
+스택형 가이드 절골층에 대한 최초 정확도 수치를 제공하나 술기 타당성으로만 해석해야 하며, n=4·대조군 없음·각도 편차 최대 10.52°는 임상적으로 의미 있는 수준이다.
 
 ## Summary
 Lu et al. report a 4-patient clinical case series evaluating the **osteotomy layer** accuracy of a three-tier digital stackable template (osteotomy guide → implant guide → provisional restoration), an integrated workflow for immediate implant + immediate provisional in edentulous patients with insufficient vertical restorative space. The osteotomy layer is the reference plane that locates the rest of the stack, so its accuracy is the upper bound on the entire system's accuracy.

@@ -16,13 +16,21 @@ category: [botulinum-toxin]
 
 BoNT-A 근막통증 치료의 최장 추적 관찰 데이터(2년, n=200 완료) 확보. 기존 보유 논문들이 단기(3–6개월) 관찰에 집중하는 반면, 본 연구는 2년 시점에서도 통증 감소 효과가 유지됨을 보임. 또한 인구통계·사회경제적 요인이 초기 결과에 영향을 미치지만 장기 결과는 동질화된다는 clinical moderator insight 제공. [[botulinum-toxin/angelo-2026-incobotulinumtoxina-standardized-protocol-myogenous-tmd]]의 12개월 결과를 2년 시점으로 연장하는 보완 근거.
 
-## One-line Summary
+## Three-line Summary
 
-Prospective study (n=200 completed, 2-year follow-up) of BTX injection into masseter and temporalis for myofascial pain showed sustained pain reduction (VAS 7.99→3.87 at 2yr); early outcomes influenced by age/socioeconomic factors, long-term results converged. Abstract-only.
+Prospective clinical study (Basrah, Iraq; 320 enrolled, 200 completed 2-year follow-up) of botulinum toxin (BTX) injection into masseter and temporalis tender points for myofascial pain — the longest published prospective follow-up for this indication.
 
-## 한줄요약
+Mean pain score decreased from 7.99 (SD 0.79) at baseline to 3.87 (SD 1.53) at 2 years; age 26–35 years, higher income, and education predicted better early response (8-week), but demographic differences converged by the 2-year endpoint.
 
-저작근(교근·측두근) BTX 주사로 근막통증을 치료한 전향 연구(n=200, 2년 추적)에서 통증이 지속적으로 감소(VAS 7.99→3.87)하였으며, 초기 효과는 연령·사회경제적 인자의 영향을 받으나 장기 결과는 동질화됨을 확인. 초록만 수집.
+BTX injection provides large and sustained myofascial pain reduction for at least 2 years; early responders may differ by demographics but long-term benefit is broadly applicable — limited by absence of a control group and 37.5% dropout. Abstract-only.
+
+## 세줄요약
+
+전향적 임상 연구 (바스라, 이라크; 등록 320명, 2년 추적 완료 200명): 교근·측두근 압통점에 보툴리눔 독소 (Botulinum Toxin, BTX) 주사 — 현존 최장 추적 근막통증 전향 연구.
+
+기저 평균 통증 점수 7.99 → 2년 시점 3.87로 지속 감소; 연령 26–35세·고소득·고학력이 초기(8주) 반응 예측인자이나 2년 시점에는 인구통계 차이 동질화.
+
+BTX 주사는 근막통증에 최소 2년간 대규모·지속 효과 제공; 대조군 부재·37.5% 탈락이 주요 한계 — 초록만 수집.
 
 ## 1. Document Information
 

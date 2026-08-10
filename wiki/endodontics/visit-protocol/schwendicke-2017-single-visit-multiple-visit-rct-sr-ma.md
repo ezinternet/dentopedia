@@ -6,23 +6,31 @@ date: 2017-01-01
 doi: 10.1136/bmjopen-2016-013115
 source: schwendicke-2017-single-visit-multiple-visit-rct-sr-ma.md
 category: [endodontics/visit-protocol]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/schwendicke-2017-single-visit-multiple-visit-rct-sr-ma.pdf
 pdf_filename: schwendicke-2017-single-visit-multiple-visit-rct-sr-ma.pdf
 source_collection: external
 tags: []
 relations:
   - type: reinforces
-    target: endodontics/ordinola-zapata-2022-intracanal-medicaments-status-directions
+    target: endodontics/irrigation/ordinola-zapata-2022-intracanal-medicaments-status-directions
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA+TSA of 29 RCTs (4,341 patients): single-visit and multiple-visit root canal treatment show equivalent long-term complications and postoperative pain, but single-visit carries a significantly higher flare-up risk (RR 2.13; 95% CI 1.16–3.89) on very weak, inconclusive evidence.
+SR+MA+TSA (29 RCTs, 4,341 patients, BMJ Open 2017) comparing single-visit vs multiple-visit root canal treatment for long-term complications, post-operative pain, and flare-up, with Trial Sequential Analysis to test evidence robustness.
 
-## 한줄요약
+Long-term complications (RR 1.00) and post-operative pain (RR 0.99) were equivalent; single-visit showed a higher flare-up risk (RR 2.13, 95% CI 1.16–3.89) driven largely by one outlier study, but TSA confirmed the evidence was insufficient to cross the sequential monitoring boundary.
 
-29개 RCT(4,341명) SR+MA+TSA: 1회법과 다회법의 장기 합병증·술후 통증은 동등; 1회법의 flare-up 위험 유의하게 높음(RR 2.13)—단, 전체 근거 수준 낮음-보통이며 TSA 기준 확정 결론 미도달.
+No outcome reached the Diversity-Adjusted Required Information Size in TSA, meaning no firm conclusion for or against either protocol is statistically supportable from the existing trial base.
+
+## 세줄요약
+
+단회 vs 다회 근관치료의 장기 합병증·술후 통증·flare-up을 비교한 SR+MA+TSA(29편 RCT, 4,341명, BMJ Open 2017); 순차 시험 분석(Trial Sequential Analysis, TSA)으로 근거 견고성 검증.
+
+장기 합병증(RR 1.00)·술후 통증(RR 0.99) 동등; 단회법에서 flare-up 위험 더 높음(RR 2.13)이나 한 편의 이상치 연구가 주도하며 TSA 순차 감시 경계를 넘지 못해 확정 근거 불충분.
+
+TSA 기준 어떤 결과도 필요 정보량(DARIS)에 도달하지 못해, 기존 RCT 데이터로는 두 프로토콜 중 하나를 통계적으로 지지하는 확고한 결론 도출 불가.
 
 ## Summary
 
@@ -91,4 +99,4 @@ Given the possible (but unconfirmed) flare-up elevation, the authors suggest tha
 
 ## Related Papers
 
-- [[endodontics/ordinola-zapata-2022-intracanal-medicaments-status-directions]] — intracanal medicament review; complements the null moderator finding for calcium hydroxide vs none in this SR
+- [[endodontics/irrigation/ordinola-zapata-2022-intracanal-medicaments-status-directions]] — intracanal medicament review; complements the null moderator finding for calcium hydroxide vs none in this SR

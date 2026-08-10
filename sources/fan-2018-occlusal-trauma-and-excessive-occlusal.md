@@ -13,11 +13,21 @@ source_collection: external
 
 교합외상이 치주염 발생·진행에 미치는 영향은 치주과의 오랜 논쟁점. 2017 World Workshop의 공식 case definition·진단기준 문서로, 교합조정·스플린팅 임상결정([[occlusion]])의 정의 토대를 제공한다. Dommisch SR·Leone scoping review의 기준점.
 
-## One-line Summary
-2017 World Workshop narrative review establishing case definitions for occlusal trauma and excessive occlusal forces, concluding their role in initiating/progressing periodontitis remains controversial and that primary occlusal trauma does not cause attachment loss in healthy periodontium.
+## Three-line Summary
 
-## 한줄요약
-2017 World Workshop narrative review — 교합외상·과도교합력의 case definition을 정립; 치주염 발생·진행에서의 역할은 여전히 논쟁적이며, 건강한 치주에서 primary occlusal trauma는 부착소실을 유발하지 않음.
+2017 World Workshop narrative review commissioned to establish consensus case definitions for occlusal trauma, traumatic occlusal force, and related terms affecting the periodontium.
+
+Primary occlusal trauma does not cause irreversible attachment loss in healthy periodontium; role in periodontitis initiation/progression remains controversial without conclusive evidence.
+
+Diagnostic signs include increasing mobility, PDL widening, and fremitus, but no single definitive test exists; causation in human studies largely remains associative rather than proven.
+
+## 세줄요약
+
+2017 World Workshop이 의뢰한 narrative review로, 교합외상·과도교합력·관련 용어들의 합의된 case definition을 정립한 논문.
+
+Primary 교합외상은 건강한 치주에서 돌이킬 수 없는 부착소실을 유발하지 않으며, 치주염 발생·진행에서의 역할은 여전히 논쟁적.
+
+치아동요·PDL 확장·fremitus 등 진단 징후가 있으나 단 하나의 결정적 검사는 없으며, 인체 근거는 대부분 연관성만 입증되고 인과성은 미해결 상태.
 
 ## 1. Document Information
 - J Periodontol 2018;89(Suppl 1):S214–S222 (jointly published in J Clin Periodontol). DOI 10.1002/JPER.16-0581.

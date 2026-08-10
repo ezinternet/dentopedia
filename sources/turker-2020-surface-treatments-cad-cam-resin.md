@@ -9,8 +9,21 @@ pdf_filename: turker-2020-surface-treatments-cad-cam-resin.pdf
 source_collection: external
 ---
 
-## One-line Summary
-J Adv Prosthodont 2020;12:189-96: 5 surface treatments × 2 CAD/CAM materials (Lava Ultimate, Vita Enamic) × 2 dual-cure cements — CoJet sandblasting + Z-Prime: highest SBS for both materials; HF acid effective for Vita Enamic only; laser: variable results.
+## Three-line Summary
+
+J Adv Prosthodont 2020;12:189-96: 5 surface treatments × 2 CAD/CAM materials (Lava Ultimate, Vita Enamic) × 2 dual-cure cements — CoJet sandblasting + Z-Prime: highest SBS for both materials
+
+HF acid effective for Vita Enamic only
+
+laser: variable results.
+
+## 세줄요약
+
+J Adv Prosthodont 2020;12:189-96: 5 surface treatments × 2 CAD/CAM materials (Lava Ultimate, Vita Enamic) × 2 dual-cure cements — CoJet sandblasting + Z-Prime: highest SBS for both materials
+
+HF acid effective for Vita Enamic only
+
+laser: variable results.
 
 ## 1. Key Results
 - Materials: Lava Ultimate (resin-ceramic) and Vita Enamic (polymer-infiltrated)

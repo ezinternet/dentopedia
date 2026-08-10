@@ -13,13 +13,21 @@ source_collection: external
 
 Part of a focused collection on vertical ridge augmentation (VRA). This SR pools the small body of RCT/case-series evidence on whether titanium meshes / Ti-reinforced PTFE membranes need an accompanying collagen membrane, directly synthesizing the trials ingested as [[implants/vertical-ridge-augmentation/cucchi-2024-ptfe-mesh-ti-mesh-vertical-ridge-rct]] and [[implants/vertical-ridge-augmentation/urban-2025-collagen-membrane-vertical-ridge-ptfe-mesh-rct]].
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (3 RCTs + 1 case series, 119 patients across 9 articles): adding a collagen membrane on top of titanium meshes or Ti-reinforced PTFE membranes caused no significant difference in vertical bone gain or surgical/healing complication rates, suggesting the collagen membrane may be unnecessary; more RCTs needed.
+Systematic review (3 RCTs + 1 case series, 119 patients across 9 articles): adding a collagen membrane on top of titanium meshes or Ti-reinforced PTFE membranes caused no significant difference in vertical bone gain or surgical/healing complication rates, suggesting the collagen membrane may be unnecessary;
 
-## 한줄요약
+more RCTs needed.
+
+(incomplete)
+
+## 세줄요약
 
 체계적 문헌고찰(RCT 3편 + 증례군 1편, 9개 논문 119명): 티타늄 mesh 또는 Ti-보강 PTFE 막 위에 콜라겐막을 추가해도 수직골증가나 수술/치유 합병증률에 유의한 차이 없음 — 콜라겐막이 불필요할 수 있으며 추가 RCT 필요.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

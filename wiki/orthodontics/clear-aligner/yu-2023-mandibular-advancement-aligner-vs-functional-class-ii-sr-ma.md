@@ -6,12 +6,14 @@ date: 2023-06-01
 doi: 10.7518/hxkq.2023.2022453
 source: yu-2023-mandibular-advancement-aligner-vs-functional-class-ii-sr-ma.md
 category: [orthodontics/clear-aligner]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: false
 pmid: "37277797"
 pmcid: "PMC10317854"
 source_url: https://pmc.ncbi.nlm.nih.gov/articles/PMC10317854/
+superseded_by: huang-2026-clear-aligner-mandibular-advancement-vs-functional-class-ii-sr-ma
+superseded_scope: partial
 text_path: /Users/oracleneo/llm-wiki/papers/yu-2023-mandibular-advancement-aligner-vs-functional-class-ii-sr-ma.txt
 text_filename: yu-2023-mandibular-advancement-aligner-vs-functional-class-ii-sr-ma.txt
 tags: [clear-aligner, mandibular-advancement, functional-appliance, class-ii, cephalometric, ramus-growth, meta-analysis]
@@ -22,13 +24,24 @@ relations:
     target: yassir-2022-cat-vs-fat-overview-systematic-reviews
 ---
 
-## One-line Summary
+> [!note] Partially superseded → [[huang-2026-clear-aligner-mandibular-advancement-vs-functional-class-ii-sr-ma]]
+> A larger, newer, full-text SR+MA (n=465 vs 283) on the identical CAMA-vs-functional-appliance question found no significant difference in *any* skeletal parameter, softening this page's central caveat that aligners produce less mandibular ramus growth (Co-Go −1.10 mm). This abstract-only page retains standalone value for the ramus-growth signal and its Chinese-language trials. Prefer Huang 2026 for current decisions. (set 2026-07-03)
 
-SR+MA (9 controlled trials, n=283): mandibular advancement (MA) clear aligners and traditional functional appliances give comparable skeletal/dental Class II correction (SNA/SNB/ANB/Go-Pog/U1-SN/overjet n.s.); aligners control lower-incisor proclination better (1.94° less) but produce less mandibular ramus growth (Co-Go 1.10 mm less) — a genuine limitation for growth-dependent correction.
+## Three-line Summary
 
-## 한줄요약
+SR+MA (9 clinical controlled trials, n=283; PubMed/WoS/Embase/Cochrane + four Chinese databases; ROBINS-I appraisal; RevMan 5.4/Stata 17.0) comparing mandibular advancement (MA) clear aligners to traditional functional appliances for skeletal Class II malocclusion in growing patients.
 
-SR+MA(대조연구 9편, n=283): MA 투명교정장치와 전통적 기능성장치의 골격·치성 Class II 교정은 유사(SNA/SNB/ANB/Go-Pog/U1-SN/overjet 무의미). aligner가 하악 전치 순측경사를 더 잘 억제(1.94° 적음)하나 하악지 성장(Co-Go)은 1.10 mm 적음 — 성장 의존 교정에서 한계.
+SNA, SNB, ANB, mandibular body length (Go-Pog), upper-incisor inclination (U1-SN), and overjet showed no significant difference between MA aligners and functional appliances; aligners controlled lower-incisor labial proclination better (1.94° less) but functional appliances achieved 1.10 mm more mandibular ramus growth (Co-Go).
+
+For growing skeletal Class II, MA aligner delivers overjet/ANB correction comparable to conventional functional appliances with better lower-incisor anchorage control, but is weaker at stimulating true ramus/condylar growth — partially superseded by Huang 2026 SR+MA (n=465) which found no significant ramus-growth difference; prefer Huang 2026 for current decisions (abstract-only ingest).
+
+## 세줄요약
+
+SR+MA (임상 대조연구 9편, n=283; PubMed/WoS/Embase/코크란 + 중국 4개 데이터베이스; ROBINS-I; RevMan 5.4/Stata 17.0): 성장기 환자에서 하악전방유도(MA) 투명교정 vs 전통 기능성장치 비교.
+
+SNA/SNB/ANB/하악체 길이(Go-Pog)/상악절치 경사(U1-SN)/overjet 모두 MA 투명교정 vs 기능성장치 유의차 없음; 투명교정이 하악전치 순측경사 1.94° 더 적게 허용(앵커리지 이점), 기능성장치는 하악지 성장(Co-Go) 1.10 mm 더 유도.
+
+성장기 골격성 Class II에서 MA 투명교정은 기능성장치와 동등한 overjet/ANB 교정 + 우수한 하악전치 앵커리지 조절이나 진성 하악지/과두 성장 유도에서 약함 — Huang 2026 SR+MA(n=465)에서 하악지 성장 차이가 유의하지 않아 부분 대체됨; 현재 결정에는 Huang 2026 우선 참조 (초록만 확보).
 
 ## Summary
 

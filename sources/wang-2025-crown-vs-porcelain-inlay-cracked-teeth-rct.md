@@ -16,13 +16,21 @@ text_filename: wang-2025-crown-vs-porcelain-inlay-cracked-teeth-rct.txt
 
 The wiki's cracked-tooth restoration evidence ([[wiki/cracked-tooth/zhang-2024-cracked-teeth-treatment-outcomes-sr-ma]], [[wiki/cracked-tooth/liu-2025-restorative-design-materials-stress-cracked-teeth-fea]]) leans toward cuspal-coverage/full-crown protection of post-endodontic cracked teeth, but lacks a head-to-head RCT of full crown vs. a more conservative porcelain inlay. This prospective RCT (Wang 2025, n=106) directly compares the two restorations on clinical success, pain, gingival health, and masticatory function, adding a primary-trial data point to the treatment-outcomes sibling page.
 
-## One-line Summary
+## Three-line Summary
 
-Prospective RCT (n=106, post-RCT cracked teeth): porcelain inlay outperformed full crown on success rate, day-1/3/7 VAS pain, 6-month gingival indices, masticatory efficiency, and bite force (all P<0.05). (Abstract-only; Chinese-language study.)
+Prospective RCT (n=106, post-RCT cracked teeth): porcelain inlay outperformed full crown on success rate, day-1/3/7 VAS pain, 6-month gingival indices, masticatory efficiency, and bite force (all P<0.05).
 
-## 한줄요약
+(Abstract-only;
 
-전향적 RCT (n=106, 근관치료 후 균열치): 포세린 인레이가 전부피개관(full crown)보다 성공률·1/3/7일 VAS 통증·6개월 치은지수·저작효율·교합력 모두에서 우수 (모두 P<0.05). (초록만 확보; 중국어 논문.)
+Chinese-language study.)
+
+## 세줄요약
+
+전향적 RCT (n=106, 근관치료 후 균열치): 포세린 인레이가 전부피개관(full crown)보다 성공률·1/3/7일 VAS 통증·6개월 치은지수·저작효율·교합력 모두에서 우수 (모두 P<0.05).
+
+(초록만 확보;
+
+중국어 논문.)
 
 ## 1. Document Information
 

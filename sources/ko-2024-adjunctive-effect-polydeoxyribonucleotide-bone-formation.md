@@ -13,11 +13,21 @@ source_collection: external
 
 골재생 적응증의 핵심 미해결 질문 — PDRN 효과가 "초기 가속"인가 "최종 골량 증가"인가. 기존 [[wiki/pdrn/lee-2023-effect-polydeoxyribonucleotide-early-bone-formation]](IIP dehiscence, 2/6주)와 [[wiki/pdrn/lim-2025-effects-polydeoxyribonucleotide-pdrn-endosinus]](sinus, 2/4/8주)는 모두 초기 신호 후 격차 축소를 시사. 본 ARP 연구는 2/4/12주로 더 긴 추적을 두어 이 패턴을 발치와(socket) 맥락에서 검증, chairside 매뉴얼의 "효과 지속 여부" 판단 근거 보강.
 
-## One-line Summary
+## Three-line Summary
+
 Beagle ARP (8 dogs, 2/4/12 wk): PDRN-soaked graft+membrane increased new bone at coronal/middle/total positions and new blood vessels at early timepoints (2–4 wk) versus saline-soaked ARP.
 
-## 한줄요약
-비글 8마리 발치와보존술(ARP). PDRN soaking graft+막이 2주 시점 관상·중간·전체 신생골과 2~4주 신생혈관을 saline 대조보다 증가 — 초기 골·혈관신생 가속 패턴.
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
+비글 8마리 발치와보존술(ARP).
+
+PDRN soaking graft+막이 2주 시점 관상·중간·전체 신생골과 2~4주 신생혈관을 saline 대조보다 증가 — 초기 골·혈관신생 가속 패턴.
+
+(incomplete)
 
 ## 1. Document Information
 - Journal: Journal of Clinical Periodontology 2024;51(8):1034-1043

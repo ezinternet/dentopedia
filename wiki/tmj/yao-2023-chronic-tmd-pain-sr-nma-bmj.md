@@ -6,7 +6,7 @@ date: 2023-11-27
 doi: 10.1136/bmj-2023-076226
 source: yao-2023-chronic-tmd-pain-sr-nma-bmj.md
 category: [tmj]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/yao-2023-chronic-tmd-pain-sr-nma-bmj.pdf
 pdf_filename: yao-2023-chronic-tmd-pain-sr-nma-bmj.pdf
 source_collection: external
@@ -18,11 +18,21 @@ relations:
     target: gonzalez-sanchez-2023-tmj-physiotherapy-treatment-sr
 ---
 
-## One-line Summary
-SR+NMA (233 RCTs, n=8,713, 59 interventions, BMJ 2023): CBT+biofeedback (RD 36%), jaw mobilization (36%), manual trigger point therapy (32%) top 3 for chronic TMD pain with moderate-high certainty; pharmacological interventions low certainty.
+## Three-line Summary
 
-## 한줄요약
-SR+NMA (233 RCT, 8,713명, 59 개입, BMJ 2023): CBT+바이오피드백·하악 가동화·수기 트리거포인트 TOP 3 (중등-높은 근거); 약물 치료 낮은 근거.
+SR+NMA (MEDLINE/EMBASE/CINAHL/CENTRAL/SCOPUS; 233 RCTs screened, 153 included, n=8,713, 59 interventions; primary outcome: pain RD for ≥1 cm improvement on 10 cm VAS) published in BMJ 2023.
+
+CBT + biofeedback/relaxation (RD 36%), therapist-assisted jaw mobilization (36%), and manual trigger-point therapy (32%) were the top 3 interventions with moderate-to-high certainty evidence; pharmacological agents showed only low/very-low certainty.
+
+Interventions that promote coping and active movement dominate the evidence — pharmacotherapy should not be first-line; this NMA underpins the companion BMJ clinical guideline.
+
+## 세줄요약
+
+SR+NMA (BMJ 2023; RCT 153편 포함, n=8,713, 59개 중재, 1차 결과: VAS 1 cm 개선 위험차(RD)).
+
+CBT+바이오피드백/이완(RD 36%)·치료사 보조 하악 가동화(36%)·수기 트리거포인트 치료(32%) 상위 3개 — 중등-높은 근거 확실성; 약물 치료는 낮은/매우 낮은 수준.
+
+적극적 대처·움직임을 촉진하는 중재가 최우선 — 약물은 보조적 단기 사용 원칙; 이 NMA가 동반 BMJ 가이드라인의 근거.
 
 ## Summary
 The largest and highest-quality network meta-analysis of TMD treatment to date. Screened MEDLINE/EMBASE/CINAHL/CENTRAL/SCOPUS through January 2023; 233 RCTs eligible, 153 included in NMA (n=8,713 participants, 59 interventions). Primary outcome: pain relief (RD for achieving ≥1 cm improvement on 10 cm VAS). High-to-moderate certainty evidence supported 8 interventions. Top performers: CBT+biofeedback/relaxation (RD 36%), therapist-assisted jaw mobilization (36%), manual trigger point therapy (32%). Five additional interventions showed 23–30% RD. Key conclusion: "interventions that promote coping and encourage movement and activity were most effective." Pharmacological agents had only low/very low certainty evidence.

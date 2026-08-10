@@ -17,13 +17,21 @@ text_filename: xiang-2026-continuous-interrupted-doac-minimal-bleeding-sr-ma.txt
 
 기존 [[drug/anticoagulants/moldovan-2023-anticoagulant-oral-surgery-bleeding-sr]]과 [[drug/anticoagulants/inchingolo-2024-anticoagulation-therapy-dental-practice-sr]]은 발치·구강수술에서 DOAC을 중단하지 말라(continuation)고 권고하지만, 그 근거는 대부분 치과 단독 소규모 데이터다. 본 SR+MA (Xiang 2026)는 dental procedure를 포함한 minimal bleeding-risk surgery 전반(24 studies, n=8663)에서 continuous vs interrupted DOAC을 직접 비교하고, 특히 RCT data만 분리했을 때 두 전략 간 출혈·혈전 차이가 모두 사라짐을 보여 "continue가 우월"이라는 관찰연구 신호가 selection bias일 수 있음을 드러낸다. 치과 발치는 명시적으로 minimal bleeding-risk 카테고리(extractions/restorations/prosthetics/endodontics/cleanings/fillings)에 포함되어 직접적 임상 관련성이 있다.
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (24 studies, n=8663; 4 dental) — continuous DOAC reduced major bleeding (OR 0.57, 95% CI 0.37-0.87) and thrombotic events (OR 0.54, 0.33-0.91) overall, but ALL differences vanished in high-quality RCT data (very low/low GRADE certainty); both continue and interrupt are acceptable for minimal bleeding-risk procedures incl. minor dental.
+SR+MA (24 studies, n=8663;
 
-## 한줄요약
+4 dental) — continuous DOAC reduced major bleeding (OR 0.57, 95% CI 0.37-0.87) and thrombotic events (OR 0.54, 0.33-0.91) overall, but ALL differences vanished in high-quality RCT data (very low/low GRADE certainty);
 
-SR+MA (24편, n=8663; 치과 4편) — 전체로는 continuous DOAC이 대출혈(OR 0.57)·혈전(OR 0.54)을 줄였으나 고품질 RCT만 보면 모든 차이가 사라짐(selection bias 의심, GRADE very low/low); 발치 등 minimal-risk 시술에서 continue·interrupt 둘 다 허용 가능.
+both continue and interrupt are acceptable for minimal bleeding-risk procedures incl. minor dental.
+
+## 세줄요약
+
+SR+MA (24편, n=8663;
+
+치과 4편) — 전체로는 continuous DOAC이 대출혈(OR 0.57)·혈전(OR 0.54)을 줄였으나 고품질 RCT만 보면 모든 차이가 사라짐(selection bias 의심, GRADE very low/low);
+
+발치 등 minimal-risk 시술에서 continue·interrupt 둘 다 허용 가능.
 
 ## 1. Document Information
 

@@ -1,0 +1,34 @@
+Comparison of immediate implant placement in infected and non-infected extraction sockets: a systematic review and meta-analysis.
+Lee J, Park D, Koo KT, Seol YJ, Lee YM
+Acta Odontologica Scandinavica 2018;76(5):338-345
+DOI: 10.1080/00016357.2018.1453084
+PMID: 29611763
+Institution: Department of Periodontology and Dental Research Institute, Seoul National University, School of Dentistry, Seoul, Republic of Korea
+
+[ABSTRACT ONLY — full text not retrieved via PMC]
+
+OBJECTIVE
+To investigate the feasibility of immediate implant placement in infected extraction sockets.
+
+METHODS
+Electronic and manual searches up to March 2017.
+Study types: randomized controlled trials (RCTs) and nonrandomized controlled clinical trials (CCTs).
+Meta-analysis model: fixed-effects model for survival rate (primary outcome).
+Outcomes: survival rate (risk difference), MBL, PD, mBI, MGL, WKG (weighted mean differences).
+
+5 studies included in systematic review; 3 studies in meta-analysis.
+
+RESULTS
+Risk difference for immediate implant placement in infected extraction socket vs non-infected socket: -0.02
+
+Weighted mean differences (WMDs) at baseline vs latest follow-up:
+- MBL: 0.32 mm
+- PD: 0.12 mm
+- mBI: 0.07
+- MGL: -0.06 mm
+- WKG: 0.20 mm (initial) and 0.51 mm (later)
+
+No statistical differences observed between groups, EXCEPT for change in WKG.
+
+CONCLUSIONS
+Implants can be placed in infected extraction sockets after thorough socket debridement. For aesthetics, WKG should be considered when performing immediate implant placement in infected sites.

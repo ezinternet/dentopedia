@@ -13,13 +13,21 @@ source_collection: external
 
 기존 [[wiki/occlusion/craddock-2004-incidence-overeruption-occlusal-interferences-unopposed]]는 대합치 상실 후 무대합 후방치의 과맹출·간섭 발생률을 기록했다. 본 후속 논문은 그 과맹출/경사/이동이 만들어내는 **결과** — 이상적 Broadrick 교합 곡선(curve of Spee)으로부터의 편위 — 를 정량화하여, [[wiki/overviews/unopposed-tooth-overeruption-overview]]의 임상-의사결정 섹션이 암시하는 "교합평면 왜곡으로 인한 보철 재건 난이도 상승"의 1차 근거를 제공한다. 5년 이상 무대합 상태였을 때 곡선 편위가 임상적으로 유의해진다는 점을 보여 과맹출의 보철적 비용을 문서화한다.
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective cast/radiograph analysis showing that posterior teeth left unopposed for ≥5 years develop positional changes (overeruption, tipping, drifting) that cause deviation from the ideal Broadrick occlusal curve, complicating prosthetic restoration of a harmonious occlusal scheme.
+Retrospective observational study (dental casts, Broadrick flag method, Leeds group) examining the effect of posterior tooth loss on deviation from the ideal Broadrick (curve-of-Spee) occlusal curve; only abstract-level data available.
 
-## 한줄요약
+Posterior teeth left unopposed for ≥5 years showed positional changes (overeruption, tipping, drifting) that caused deviation from the Broadrick curve — the deviation could be extreme; a moderate degree of tipping of the posterior determinant tooth had little effect on the flag method accuracy.
 
-후방치가 5년 이상 무대합 상태로 방치되면 과맹출·경사·이동으로 이상적 Broadrick 교합 곡선(curve of Spee)에서 편위가 생겨 조화로운 교합 재건이 어려워진다는 것을 보여준 후향적 연구.
+Extreme occlusal-curve deviation after ≥5 years of posterior absence complicates restoring a harmonious occlusal scheme and increases technical demands on the dental technician.
+
+## 세줄요약
+
+후향적 관찰 연구 (스터디 모델, Broadrick flag 법, Leeds 연구팀): 후방치 상실 후 이상적 Broadrick 교합 곡선(curve of Spee)으로부터의 편위를 계측; 초록 수준 데이터만 이용 가능.
+
+5년 이상 무대합(unopposed) 후방치는 과맹출·경사(tipping)·이동(drifting)으로 Broadrick 곡선에서 편위 발생 — 편위 정도가 극심할 수 있으며, 후방 기준치 (Posterior Determinant Tooth) 의 중등도 경사는 flag 법 정확도에 큰 영향 없음.
+
+5년 이상 방치된 후방 무대합 부위는 교합 곡선 변형이 심해 조화로운 교합 재건이 어려워지며 기공 난이도 증가.
 
 ## 1. Document Information
 

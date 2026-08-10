@@ -6,20 +6,28 @@ date: 2020-01-27
 doi: 10.11607/jomi.6281
 source: podaropoulos-2020-progressive-static-load-overloading-dogs.md
 category: [occlusion]
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/podaropoulos-2020-progressive-static-load-overloading-dogs.pdf
 pdf_filename: podaropoulos-2020-progressive-static-load-overloading-dogs.pdf
 source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Beagle dog RCT (n=40 implants): progressive orthodontic pre-loading before overloading improved implant success rate to 87.5% vs 67.5% with overloading alone, though BIC was not further increased; overloading raised BIC vs no-load controls regardless of prior conditioning.
+Beagle dog experiment (5 dogs, 40 maxillary implants) testing whether progressive orthodontic pre-loading (100→200→300 g, 3 wk each via Ni-Ti springs) before deliberate overloading (supraocclusal crowns × 16 wk) protects against implant loss compared with overloading alone and unloaded controls.
 
-## 한줄요약
+Progressive pre-loading followed by overloading (PL+OL) achieved 87.5% implant success — matching unloaded controls and significantly exceeding overloading-alone (OL) at 67.5%; BIC was significantly higher in both loaded groups vs unloaded, but PL+OL did not increase BIC beyond OL alone (P = 0.225).
 
-비글 동물실험(임플란트 40개): 과부하 전 점진적 정적 하중 전처치 시 임플란트 성공률 87.5%(과부하 단독 67.5%보다 유의하게 높음); 골-임플란트 접촉률(BIC)은 두 부하군 간 차이 없이 모두 무부하 대조군보다 높음.
+Progressive loading before overloading confers protective adaptation that reduces overload-induced implant failure risk, even without a measurable histomorphometric BIC benefit — suggesting the mechanism is structural/adaptive rather than purely interface-contact mediated.
+
+## 세줄요약
+
+비글 개 5마리(상악 임플란트 40개) 실험: 점진적 정적 부하(100→200→300 g, 각 3주, Ni-Ti 스프링) 전처치 후 과부하(초교합 치관 × 16주)를 가하는 PL+OL군이 과부하 단독(OL)군 및 무부하(UL)군과 비교됐다.
+
+PL+OL군 임플란트 성공률이 87.5%로 무부하 대조군과 동등하며 OL 단독 67.5%를 유의하게 초과했다; BIC는 두 부하군 모두 무부하 대조군보다 유의하게 높았으나, PL+OL이 OL보다 BIC를 더 높이지는 않았다(P = 0.225).
+
+점진적 부하 전처치는 과부하 유발 임플란트 실패 위험을 줄이는 보호적 적응을 제공하나, 그 기전은 순수한 접촉률(BIC) 향상이 아닌 구조적·적응적 변화로 추정된다.
 
 ## Summary
 
@@ -58,5 +66,5 @@ Both loaded groups showed significantly higher BIC than unloaded controls. Howev
 
 - [[occlusion/podaropoulos-2016-bone-reactions-progressive-static-load-dogs]] — direct predecessor: same beagle model and first author, examines progressive loading alone (without subsequent overloading); 2020 paper is the overloading extension
 - [[occlusion/romanos-2003-bone-implant-interface-loading-conditions-monkey]] — primate histomorphometric evidence of loading effects on bone-implant interface under varying load conditions
-- [[implants/song-2021-implant-complications-bruxism-patients]] — human clinical analog: implant complications in bruxers representing the real-world overloading scenario that Podaropoulos 2020 models preclinically
+- [[implants/survival/song-2021-implant-complications-bruxism-patients]] — human clinical analog: implant complications in bruxers representing the real-world overloading scenario that Podaropoulos 2020 models preclinically
 - [[overviews/implant-occlusion-loading-biomechanics-overview]] — synthesis page contextualizing progressive and overload mechanics, BIC adaptation, and crestal bone loss

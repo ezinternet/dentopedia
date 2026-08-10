@@ -1,0 +1,113 @@
+Title: Plaque control and reduction of gingivitis: The evidence for dentifrices
+Authors: Valkenburg C, Van der Weijden FA, Slot DE.
+Journal: Periodontology 2000. 2019;79(1):221-232
+DOI: 10.1111/prd.12257
+PMID: 30892760
+PMCID: PMC7328759
+Source: PubMed Central (PMC) full text, retrieved via PubMed MCP get_full_text_article
+
+ABSTRACT
+
+This paper focuses on plaque control and the management of gingivitis in adults and summarizes the evidence of commercially available dentifrices as gathered from existing systematic reviews. Three internet sources were used to search for appropriate papers (up to and including February 2017). The search strategy was designed to include any systematic review published on dentifrices that also included an evaluation of plaque and gingivitis scores. Characteristics of the individual reviews, such as methodological aspects, quantitative data and conclusions, were extracted. The potential risk of bias was estimated and the acquired evidence was graded. Independent screening of 205 unique reviews resulted in 10 published and eligible systematic reviews. One publication evaluated the mechanical contribution of dentifrice to plaque removal. Eight papers were identified that evaluated the efficacy of a proposed single active ingredients, of which two reviewed more than one potentially active ingredient. One study compared two active ingredients. This meta-review appraised the current state of evidence and found that toothbrushing with a standard fluoride dentifrice does not provide an added effect for the mechanical removal of dental plaque. Evidence suggests that compared with a standard dentifrice, those containing triclosan or stannous fluoride have benefits with respect to gingival health and control of dental plaque.
+
+FULL TEXT
+
+1 INTRODUCTION
+
+Health is a valuable asset for every individual. Oral health is an integral part of general health and has a considerable effect on quality of life. A healthy dentition is one of the essential elements of oral health. In order to maintain or improve oral health, the removal of plaque and the prevention of its accumulation on the teeth and adjacent gingival tissues are needed. Mechanical and chemical methods of plaque control can prevent gingivitis. For regular personal oral hygiene, toothbrushing is the most widespread means. There is substantial evidence showing that toothbrushing and other mechanical cleansing procedures can control plaque, provided that cleaning is sufficiently thorough and performed at appropriate intervals. An essential universal recommendation by dental care professionals (DCPs) is to brush twice daily for at least 2 minutes with a fluoride dentifrice.
+
+Dentifrice is a general term used to describe preparations that are used together with a toothbrush to clean and/or polish the teeth. In daily practice, the additional application of dentifrice has been proven of value, as it is highly appreciated by its users by providing a feeling of oral freshness. Dentifrice traditionally contains abrasives in order to help remove stained pellicle and polish the teeth. In addition, it is an ideal vehicle for active ingredients employed as an oral health preventive measure. Fluoride dentifrices have been widely used for decades and remain a benchmark intervention for the prevention of dental caries. Several formulations with specific chemical agents are marketed. Among the active agents, the following have been included in dentifrices: enzymes, amine alcohols, herbal or natural products, triclosan (Tcs), bisbiguanides (chlorhexidine [CHX]), quaternary ammonium compounds (cetylpyridinium chloride) and different metal salts (zinc salts, stannous fluoride [SnF], SnF with amine fluoride). The indications for dentifrices with active ingredients intended for patients with gingivitis are associated with long-term use to prevent bacterial biofilm formation.
+
+To date, two meta-reviews have been published that evaluated the efficacy of home care regimens for mechanical plaque removal by toothbrushes and interdental cleaning devices. One meta-review concerning the efficacy on plaque and gingivitis of mouthwash products relative to various active chemical ingredients is also available. To compliment this series and to complete the pursuit to summarize the current scientific evidence in support of professional recommendations, a meta-review on dentifrices was needed. Subsequently, the purpose of this paper was to prepare a synopsis of systematic reviews concerning dentifrices with respect to managing plaque and gingivitis.
+
+2 MATERIALS AND METHODS
+
+The protocol of this meta-review detailing the evaluation method was developed a priori following initial discussion between members of the research team. The AMSTAR (2007) tool was used to ensure the methodological quality of the review process and improve the strength of reporting.
+
+2.1 Focused patient intervention comparison outcome question
+
+What is the evidence for an effect of dentifrices and their proposed active ingredients on plaque and gingivitis in adults, based on evidence gathered from existing systematic reviews?
+
+2.2 Search strategy
+
+Three electronic databases were queried: MEDLINE-PubMed, the Cochrane Library (incl. DARE), and the ADA Center for Evidence-based Dentistry database, searched up to and including March 2017. Search strategy: [MeSH/text words] toothpastes OR toothpaste OR dentifrice OR toothpastes OR dentifrices, filtered to systematic review OR meta-analysis. Reference lists were hand-searched; PROSPERO was checked for ongoing reviews.
+
+2.3 Screening and selection
+
+Two reviewers (CV and DES) independently screened titles/abstracts; disagreements resolved with a third reviewer (GAW). Hand-searching of reference lists was performed. When updates of systematic reviews were published, the latest version was selected.
+
+2.5 Data extraction and heterogeneity
+
+Publication details, focused question, search results, descriptive/meta-analytic outcomes and conclusions were extracted. Reviews were categorized by active ingredient.
+
+2.6 Quality assessment
+
+Risk of bias was scored using a combination of PRISMA and AMSTAR items (27 items, summed to a percentage). Interpretation: 0-40% high risk of bias; 40-60% substantial; 60-80% moderate; 80-100% low risk of bias. Only systematic reviews including meta-analyses could achieve 100%.
+
+2.7 Data analysis
+
+When at least two comparable meta-analyses using the same clinical index were available, an overall weighted mean (based on difference of means, DiffM) with SD and 95% CI was calculated (SPSS v22), with each DiffM weighted by the number of included comparisons in the underlying meta-analysis.
+
+2.8 Grading the body of evidence
+
+GRADE was used to grade the evidence, rating study design, risk of bias, consistency, precision, directness, publication bias, and magnitude of effect.
+
+3 RESULTS
+
+3.1 Search and selection results
+
+1806 unique titles/abstracts were retrieved; 12 full-text systematic reviews were screened; 2 excluded (one narrative review, one non-systematic literature review). Hand-searching and PROSPERO revealed no additional reviews. 10 systematic reviews were finally included: one on the general mechanical effect of dentifrice on plaque removal, eight evaluating a single active ingredient versus control (two of which covered more than one ingredient), and one comparing two active ingredients head-to-head.
+
+3.4 Mechanical effect of dentifrice
+
+Valkenburg et al (a prior systematic review by the same lead author) evaluated toothbrushing with vs without dentifrice for plaque removal: 10 eligible publications, 20 comparisons. On average 49.2% of plaque was removed brushing with dentifrice vs 50.3% without. Meta-analysis of post-brushing scores: DiffM 0.00, 95% CI [-0.05; 0.05], P = .91 (not significant). GRADE-rated moderate quality evidence. Conclusion: dentifrice application probably does not provide an added mechanical plaque-removal effect over brushing alone.
+
+3.5 Dentifrices with proposed active ingredients
+
+3.5.1 Aloe vera: Two RCTs identified; heterogeneity precluded meta-analysis. Both studies found aloe vera dentifrice similar in efficacy to control dentifrice for gingivitis. Clinical effectiveness "not sufficiently defined."
+
+3.5.2 Chlorhexidine (CHX): Slot et al reviewed 11 papers/16 comparisons (9 CHX dentifrice 0.4-1.0%, 7 CHX gel 0.2-2.0%); heterogeneity precluded meta-analysis; descriptive analysis showed majority of CHX dentifrice experiments had significant positive plaque-reduction effect, and all gingival-bleeding studies favored CHX dentifrice over placebo. CHX gel vs placebo showed no clear trend. Two meta-analyses on Q&H plaque index gave an overall weighted mean effect of 0.73 (SD 0.07), 95% CI (0.70; 0.79).
+
+3.5.3 Stannous fluoride (SnF): Four systematic reviews. On Q&H plaque index, meta-analyses (3-5 comparisons) showed significant DiffM between -0.112 and -0.31. On gingival index, three meta-analyses all showed significant effects. Overall weighted mean: Q&H plaque index 0.25 (SD 0.08), 95% CI (0.20; 0.29); gingival index 0.14 (SD 0.02), 95% CI (0.13; 0.15).
+
+3.5.4 Triclosan (Tcs): Multiple combinations evaluated (Tcs-copolymer, Tcs-zinc citrate, Tcs-pyrophosphate). Tcs/copolymer: six meta-analyses (9-18 comparisons) on Q&H plaque index, DiffM -0.447 to -0.49, all significant. Gingival index: five meta-analyses, DiffM -0.24 to -0.27, significant. Overall weighted mean effect of Tcs: Q&H plaque index 0.47 (SD 0.02), 95% CI (0.47; 0.48); Silness & Löe plaque index 0.10 (SD 0.05), 95% CI (0.07; 0.14); gingival index 0.26 (SD 0.01), 95% CI (0.25; 0.26).
+
+3.6 Comparisons of active ingredients: Triclosan vs stannous fluoride
+
+Sälzer et al (15 studies: 10 medium-term, 5 long-term >6 months) meta-analysis found no significant difference in gingival index between Tcs and SnF dentifrice (DiffM -0.04, 95% CI [-0.11; 0.04], P = .34); gingival bleeding score significantly favored SnF (DiffM 0.02, 95% CI [0.01; 0.02], P < .001); Q&H plaque index significantly favored Tcs (DiffM -0.29, 95% CI [-0.45; -0.13], P < .001), but no difference on the RMNPI index (P = .07).
+
+3.8 Quality assessment
+
+Of 10 included systematic reviews, 7 were rated low risk of bias, 3 substantial, 2 moderate (by AMSTAR/PRISMA-derived scoring, 44-96%).
+
+3.9 Evidence profile (GRADE)
+
+Strong evidence for SnF- and Tcs-containing dentifrices having a beneficial effect on both plaque reduction and gingivitis (moderate magnitude of effect). Weak evidence for CHX dentifrices (small beneficial effect on plaque and gingivitis). Very weak evidence for aloe vera (very small effect).
+
+4 DISCUSSION
+
+Compared with standard fluoride dentifrice, Tcs- or SnF-containing dentifrices show a substantial positive effect on gingival health and plaque levels; head-to-head comparison (Sälzer et al; supported by a subsequent network meta-analysis by Escribano et al, weighted mean difference -0.34, 95% CI [-0.56; -0.12] favoring Tcs on Q&H index) suggests both are clinically effective, with plaque-index results inconclusive across different indices. Historically, ~50% of people would not brush without dentifrice (Dudding et al, 1960); dentifrice's main role may be encouraging brushing behavior via flavor/mouthfeel as much as its therapeutic ingredients. ADA Seal of Acceptance requires fluoride; Tcs-copolymer and SnF dentifrices have been granted the seal for anti-gingivitis/anti-plaque claims. Triclosan safety/environmental concerns exist (contact sensitization case reports, resistance concerns in lab settings, EU/US restrictions), but no clear evidence of harm to humans at dentifrice concentrations (~0.03%). SnF-containing dentifrices carry a higher risk of staining than Tcs (reducible by adding hexametaphosphate). CHX in dentifrice form is less effective than CHX mouthwash, partly because CHX can be inactivated by anionic detergents/flavoring agents in the paste matrix. Sodium lauryl sulphate (SLS), the most common dentifrice detergent, can irritate oral mucosa and is linked to recurrent aphthous ulcers in susceptible patients; SLS-free formulations may benefit these patients.
+
+4.1 Limitations
+
+Dentifrice with antiplaque agents is not designed for isolated use — always combined with mechanical cleaning, making adjunctive effect difficult to isolate. Placebo/control dentifrice formulation is critical (silica, SLS, flavoring can confound outcomes). Publication bias cannot be ruled out (unpublished studies generally not included). Other ingredients (baking soda, essential oils, sanguinarine, zinc citrate) had only single 6-month studies each and were excluded from quantitative synthesis.
+
+4.2 Recommendations for further research
+
+Because dentifrice does not add a mechanical plaque-removal effect, further study of effects on plaque regrowth is of interest. A structured cost-effectiveness analysis of specific-ingredient dentifrices (more expensive than basic fluoride dentifrice) versus standard fluoride dentifrice is recommended given long-term cost implications.
+
+5 SUMMARY AND CONCLUSION
+
+This meta-review appraised evidence on active ingredients in dentifrices for plaque removal and gingival health. Compared with a standard dentifrice, those containing triclosan or stannous fluoride show substantial benefit for gingival health; plaque-score reduction results between these two ingredients were inconclusive.
+
+6 PRACTICAL IMPLICATION
+
+If both anticaries and antigingivitis effects are pursued, a logical choice would be a dentifrice formulated with SnF; however, its potential staining effect currently limits this as a routine, universal recommendation.
+
+CONFLICT OF INTEREST
+
+The authors declare no conflict of interest. Slot and Van der Weijden have formerly received advisor fees, lecturer fees, or research grants from dentifrice manufacturers (Colgate, Dentaid, GABA, Lactona, Oral-B, Philips, Procter & Gamble, Sara Lee, Sunstar, Unilever).
+
+ETHICAL APPROVAL
+
+Not required.

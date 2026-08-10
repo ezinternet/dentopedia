@@ -6,7 +6,7 @@ date: 1999-06-01
 doi: 10.1016/S1043-1810(99)80037-2
 source: lazow-1999-oroantral-fistula-flap-procedures.md
 category: oral-surgery
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/lazow-1999-oroantral-fistula-flap-procedures.pdf
 pdf_filename: lazow-1999-oroantral-fistula-flap-procedures.pdf
 source_collection: external
@@ -18,13 +18,21 @@ relations:
     target: lin-2024-odontogenic-maxillary-sinusitis-expert-consensus
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review (1999, n=30 refs) of all major surgical flap techniques for oroantral fistula closure; acute primary repair ~95% success vs chronic secondary repair as low as 67%; proposes 4-step size-based flap selection protocol.
+Narrative review (Lazow 1999, 30 refs, ~70 years of technique literature) comprehensively covering all major local and distant flap procedures for oroantral fistula (OAF) closure — buccal sliding flap, buccal fat pad, palatal rotation/island flaps, tongue flap, temporalis myofascial flap — plus alloplastic options.
 
-## 한줄요약
+Acute primary OAC repair achieves ~95% success; once an OAF has epithelialized (defect >5 mm, >3 weeks), secondary closure success falls to as low as 67%; a 4-step size-based flap selection protocol is proposed (5–10 mm buccal → palatal → 10–20 mm tongue → >2 cm temporalis).
 
-서사 리뷰(1999) — 구강상악동루 (Oroantral Fistula, OAF) 폐쇄를 위한 주요 피판 술식 전반(협측 활주 피판·협지방체·구개 피판·설 피판·측두근 피판·동종이식재) 정리; 급성 1차 수복 성공률 ~95%, 만성 2차 수복 최저 67%; 결손 크기별 4단계 선택 프로토콜 제안.
+Two universal principles govern every repair: the sinus must be infection-free before closure, and flaps must be tension-free over intact bone with broad-based vascularity — failure to respect these principles accounts for most secondary closure failures.
+
+## 세줄요약
+
+Lazow(1999) 서술적 문헌고찰(30편, 1920–1993): 구강상악동루(OAF) 폐쇄를 위한 모든 주요 피판 술식 망라 — 협측 활주 피판, 협측 지방체(BFP), 구개 회전/섬 피판, 설 피판, 측두근 근막 피판, 동종이식재.
+
+급성 구강상악동교통(OAC) 1차 수복 성공률 ~95%; 루공이 상피화된 만성 OAF(결손 >5 mm, >3주)는 2차 수복 성공률 최저 67%까지 하락; 결손 크기별 4단계 피판 선택 프로토콜 제안.
+
+모든 수복의 두 가지 원칙: 폐쇄 전 상악동 감염 해소 필수, 피판은 건전 골 위에서 무긴장·광기저부·충분한 혈류 확보 — 이를 준수하지 않으면 2차 수복 실패의 주원인.
 
 ## Summary
 
@@ -113,6 +121,6 @@ Two universal principles frame every repair:
 
 ## Related Papers
 
-- [[oral-medicine/psillas-2020-odontogenic-maxillary-sinusitis-comprehensive-review]] — OMS pathophysiology and diagnosis; this page provides the surgical closure technique detail absent in that review
-- [[oral-medicine/lin-2024-odontogenic-maxillary-sinusitis-expert-consensus]] — expert consensus on OMS management including FESS sequencing; Lazow 1999 provides the flap-closure procedural substrate
-- [[oral-medicine/kim-2019-definition-management-odontogenic-maxillary]] — definition and management of OMS; OAF closure is a key component of OMS treatment addressed here
+- [[oral-medicine/odontogenic-sinusitis/psillas-2020-odontogenic-maxillary-sinusitis-comprehensive-review]] — OMS pathophysiology and diagnosis; this page provides the surgical closure technique detail absent in that review
+- [[oral-medicine/odontogenic-sinusitis/lin-2024-odontogenic-maxillary-sinusitis-expert-consensus]] — expert consensus on OMS management including FESS sequencing; Lazow 1999 provides the flap-closure procedural substrate
+- [[oral-medicine/odontogenic-sinusitis/kim-2019-definition-management-odontogenic-maxillary]] — definition and management of OMS; OAF closure is a key component of OMS treatment addressed here

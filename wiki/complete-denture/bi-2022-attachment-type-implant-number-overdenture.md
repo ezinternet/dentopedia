@@ -6,20 +6,28 @@ date: 2021-09-30
 doi: 10.2186/jpr.JPR_D_21_00073
 source: bi-2022-attachment-type-implant-number-overdenture.md
 category: [complete-denture]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/bi-2022-attachment-type-implant-number-overdenture.pdf
 pdf_filename: bi-2022-attachment-type-implant-number-overdenture.pdf
 source_collection: external
 tags: [overdenture, implant-supported-overdenture, attachment-system, mandibular-overdenture, peri-implant-health, network-meta-analysis, marginal-bone-loss, implant-survival]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Bayesian NMA of 28 studies (n=1166, 2666 implants) found only 4-implant bar/telescopic overdentures showed significantly less marginal bone loss than 2-implant locator; all other attachment-implant combinations showed no clear peri-implant health differences.
+Bayesian NMA of 28 studies (19 RCTs, n=1166 patients, 2666 implants) simultaneously compared 12 implant-number × attachment-type combinations for mandibular implant-supported overdentures.
 
-## 한줄요약
+Only 4-implant bar and 4-implant telescopic overdentures showed significantly less marginal bone loss than 2-implant locator; all other attachment-implant combinations showed no significant difference in MBL, PPD, plaque, bleeding, or gingival index.
 
-28개 연구 베이지안 네트워크 메타분석: 4임플란트+바/텔레스코픽 피개의치만이 2임플란트+로케이터보다 유의하게 낮은 변연골 소실을 보였으며, 나머지 임플란트 수-어태치먼트 조합 간에는 치주 건강 결과에서 명확한 차이가 없었다.
+Overall implant survival was 98.4%, and since most combinations are clinically equivalent, attachment selection can be individualized based on cost, hygiene access, and patient factors.
+
+## 세줄요약
+
+베이지안 네트워크 메타분석(28편, 19 RCT, n=1166명, 2666개 임플란트)으로 하악 임플란트 지지 피개의치의 임플란트 수 × 어태치먼트 유형 12가지 조합을 동시 비교하였다.
+
+4임플란트+바 및 4임플란트+텔레스코픽만이 2임플란트+로케이터보다 변연골 소실이 유의하게 적었고, 나머지 조합 간에는 변연골소실·탐침깊이·치태·출혈·치은지수 모두 유의차 없었다.
+
+전체 임플란트 생존율 98.4%이며 대부분 조합이 임상적으로 동등하므로, 어태치먼트 선택은 비용·위생관리 용이성·환자 인자에 따라 개별화할 수 있다.
 
 ## Summary
 

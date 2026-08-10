@@ -13,8 +13,21 @@ source_collection: external
 
 대한치과의사협회지 2023 특집(턱관절 골관절염) 일괄 ingest. 치료편 [[tmj/kim-2023-treatment-tmj-osteoarthritis]]의 짝으로 기전·역학·진단을 담당. 기존 진단 자료 [[tmj/kim-2012-diagnosis-treatment-temporomandibular-disorder]]와 [[tmj/valesan-2021-tmd-prevalence-sr-ma]]에 CT gold-standard 근거(κ·positive agreement %)와 DC/TMD 영상 진단 기준(어떤 골변화가 진단적인가)을 보강.
 
-## One-line Summary
-Korean special-feature narrative review on TMJ OA pathophysiology (overload → hypoxia/HIF-1 → VEGF/MMP → cartilage & bone destruction), epidemiology (female-predominant, age-related but inconsistent), and diagnosis (CT is gold standard; cortical-continuity changes outweigh shape changes).
+## Three-line Summary
+
+Korean special-feature narrative review on TMJ OA pathophysiology (overload → hypoxia/HIF-1
+
+→ VEGF/MMP → cartilage & bone destruction), epidemiology (female-predominant, age-related but
+
+inconsistent), and diagnosis (CT is gold standard; cortical-continuity changes outweigh shape changes).
+
+## 세줄요약
+
+Korean special-feature narrative review on TMJ OA pathophysiology (overload → hypoxia/HIF-1
+
+→ VEGF/MMP → cartilage & bone destruction), epidemiology (female-predominant, age-related but
+
+inconsistent), and diagnosis (CT is gold standard; cortical-continuity changes outweigh shape changes).
 
 ## 1. Document Information
 - Journal: 대한치과의사협회지 (J Korean Dent Assoc) 61(5):364–369, 2023

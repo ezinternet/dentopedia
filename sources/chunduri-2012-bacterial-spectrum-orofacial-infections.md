@@ -13,11 +13,21 @@ source_collection: external
 
 [[drug/vavro-2024-antibiotic-susceptibility-orofacial-infections]]의 amox-clav 최저 내성 소견에 대한 초기·독립 지역(인도, 2012) 감수성 근거로 reinforce. erythromycin 무용성도 함께 제시.
 
-## One-line Summary
-Susceptibility study (n=68 orofacial infections, India): isolates highly sensitive to amoxicillin-clavulanate (Streptococci 95%, Prevotella 92%, anaerobes 100%) and clindamycin; erythromycin shows substantial resistance and is of questionable benefit.
+## Three-line Summary
 
-## 한줄요약
-구강안면감염 68명 감수성 연구: amox-clav 감수성 우수(S. viridans 95%·Prevotella 92%·Peptostreptococcus 100%)·clindamycin 양호, erythromycin은 효용 의문.
+Descriptive susceptibility study (n=68 patients, 151 isolates from 64 aerobic + 87 anaerobic organisms; Panineeya Dental College, Hyderabad, India; Kirby-Bauer disc diffusion; Annals of Maxillofacial Surgery 2012) characterizing the bacterial spectrum of orofacial odontogenic infections.
+
+Amoxicillin-clavulanate showed the highest susceptibility across all key pathogens (Streptococcus viridans 95%, Prevotella 92%, Peptostreptococcus 100%, Fusobacterium 100%); clindamycin similarly effective; erythromycin showed substantial resistance (Prevotella 62%, Fusobacterium 66%, S. viridans 59%); anaerobes predominated (87/151 strains, 58%).
+
+Erythromycin is unreliable for orofacial infections and should not be used as the sole empirical antibiotic, even in beta-lactam-allergic patients; single-center pilot study precludes national extrapolation; no MIC values systematically reported; descriptive statistics only.
+
+## 세줄요약
+
+기술적 감수성 연구(n=68명, 분리균 151주 — 호기성 64주+혐기성 87주; 인도 하이데라바드 Panineeya 치과대; Kirby-Bauer 디스크 확산법; Annals Maxillofac Surg 2012): 구강안면 치성 감염의 세균 스펙트럼 분석.
+
+아목시실린-클라불라네이트(Amoxicillin-clavulanate)가 주요 균종 전반에서 최고 감수성(S. viridans 95%·Prevotella 92%·Peptostreptococcus 100%·Fusobacterium 100%); clindamycin도 유효; 에리트로마이신은 상당한 내성(Prevotella 62%·Fusobacterium 66%·S. viridans 59%); 혐기성균 우세(87/151주, 58%).
+
+에리트로마이신은 구강안면 감염의 경험적 단독 항생제로 부적합 — 베타락탐 알레르기 환자에도 주의; 단일기관 파일럿 규모로 국가 단위 일반화 불가; MIC 미보고·기술통계 한정.
 
 ## 1. Document Information
 - Annals of Maxillofacial Surgery 2012;2(1):46-50. DOI 10.4103/2231-0746.95318 · PMID 23482901 · PMC3591083.

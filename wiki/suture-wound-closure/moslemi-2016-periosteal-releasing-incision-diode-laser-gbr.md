@@ -6,20 +6,28 @@ date: 2016-10-27
 doi: 10.15171/jlms.2016.46
 source: moslemi-2016-periosteal-releasing-incision-diode-laser-gbr.md
 category: [suture-wound-closure]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/moslemi-2016-periosteal-releasing-incision-diode-laser-gbr.pdf
 pdf_filename: moslemi-2016-periosteal-releasing-incision-diode-laser-gbr.pdf
 source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Case series (17 patients, anterior-maxilla lateral ridge augmentation) showing a 940-nm diode-laser periosteal releasing incision achieved tension-free primary closure in all cases with minimal bleeding, mild pain (VAS 20.6 ± 12.1 mm at day 1), no hematoma/intense swelling, and 100% implant success at 6 months post-loading.
+Prospective case series (n=17, healthy nonsmokers, anterior-maxilla lateral ridge augmentation) using a 940-nm diode laser for periosteal releasing incision (PRI) — reported as the first clinical use of laser-assisted flap advancement in GBR.
 
-## 한줄요약
+Diode-laser PRI achieved tension-free primary closure in all 17 cases with minimal bleeding, peak pain VAS 20.6 ± 12.1 mm on day 1, no intense swelling or dehiscence, and 100% implant success at 6 months post-loading.
 
-전상악 측방 골증대 17명 대상 증례군. 940nm 다이오드 레이저 골막이완절개로 전 증례 무장력 일차 봉합 달성, 출혈 최소·통증 경미(1일차 VAS 20.6mm)·혈종/심한 부종 없음, 6개월 부하 후 임플란트 성공률 100%.
+Laser PRI offers a lower-bleeding alternative to scalpel PRI for GBR flap advancement, but evidence is limited to a small uncontrolled case series without a scalpel comparator.
+
+## 세줄요약
+
+건강한 비흡연자 17명 대상 전상악 측방 골증대 전향적 증례군으로, 940 nm 다이오드 레이저 골막이완절개(PRI)의 첫 임상 적용 보고.
+
+전 증례 무장력 일차 봉합 달성, 최대 통증 VAS 20.6±12.1 mm(1일차), 심한 부종 없음·열개 없음, 6개월 부하 후 임플란트 성공률 100%.
+
+레이저 PRI는 GBR 피판 전진 시 출혈을 줄이는 대안이 될 수 있으나, 비교군 없는 소규모 증례군이므로 근거 수준에 한계 있음.
 
 ## Summary
 
@@ -53,4 +61,4 @@ Periosteal releasing incision (PRI) is the standard maneuver for tension-free pr
 - [[suture-wound-closure/plonka-2017-flap-designs-flap-advancement-implant-therapy]] — quantifies PRI as the largest single advancement contributor (+5.5 mm); this paper is the laser-device execution of that maneuver.
 - [[suture-wound-closure/attia-2023-coronally-advanced-lingual-flap-titanium-mesh]] — alternative closure technique (lingual advancement) for tension-free GBR closure.
 - [[suture-wound-closure/wang-2024-poncho-technique-titanium-mesh-bone-regeneration]] — major-advancement closure over Ti-mesh.
-- [[suture-wound-closure/lee-2018-flap-management-alveolar-ridge-preservation]] — broader flap-management context.
+- [[bone-regeneration/ridge-preservation/lee-2018-flap-management-alveolar-ridge-preservation]] — broader flap-management context.

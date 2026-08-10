@@ -15,15 +15,23 @@ text_filename: breidung-2025-epidemiological-characteristics-prognostic-scoring.
 
 ## Why Ingested
 
-환자가 "피린계 진통제 알러지"를 호소할 때 그 임상적 무게를 근거로 답하기 위해 인제스트. 피린계(pyrazolone) 약물 과민반응의 가장 위중한 표현형은 SJS/TEN인데, 본 17년 화상센터 후향연구(n=68)에서 **메타미졸(metamizole)이 SJS/TEN의 단일 최다 원인약물(8건)**로 확인됐다 — 피린계 알러지가 단순 두드러기를 넘어 치명적 SCAR로 이어질 수 있음을 실증한다. 기존 진통제 부작용 페이지 [[drug/analgesics/magesty-2026-adverse-events-oral-analgesics-third-molar-nma]]를 위중도 측면에서 확장하고, 피린계 약리 페이지 [[drug/anticoagulants/hohlfeld-2008-pyrazolinone-aspirin-antiplatelet-pharmacology]]에 안전성 짝을 제공하며, SJS/TEN 감별 스펙트럼인 [[oral-medicine/kechichian-2024-erythema-multiforme-review]]와 연결된다.
+환자가 "피린계 진통제 알러지"를 호소할 때 그 임상적 무게를 근거로 답하기 위해 인제스트. 피린계(pyrazolone) 약물 과민반응의 가장 위중한 표현형은 SJS/TEN인데, 본 17년 화상센터 후향연구(n=68)에서 **메타미졸(metamizole)이 SJS/TEN의 단일 최다 원인약물(8건)**로 확인됐다 — 피린계 알러지가 단순 두드러기를 넘어 치명적 SCAR로 이어질 수 있음을 실증한다. 기존 진통제 부작용 페이지 [[drug/analgesics/magesty-2026-adverse-events-oral-analgesics-third-molar-nma]]를 위중도 측면에서 확장하고, 피린계 약리 페이지 [[drug/anticoagulants/hohlfeld-2008-pyrazolinone-aspirin-antiplatelet-pharmacology]]에 안전성 짝을 제공하며, SJS/TEN 감별 스펙트럼인 [[oral-medicine/immune-mediated/kechichian-2024-erythema-multiforme-review]]와 연결된다.
 
-## One-line Summary
+## Three-line Summary
 
-17-year single-center retrospective (n=68 histopathology-confirmed SJS/TEN) in which metamizole (a pyrazolone analgesic) was the most frequent culprit drug (8 cases, ahead of allopurinol's 7); overall mortality 51%, and a CHAID classification tree (AUC 0.88) outperformed SCORTEN/Re-SCORTEN/ABCD-10 for mortality prediction.
+17-year single-center retrospective cohort (n=68 histopathology-confirmed SJS/TEN; Burn Unit, Klinikum Nuremberg, Germany; 2006–2023) examining culprit drug distribution, mortality predictors, and comparative performance of prognostic scores.
 
-## 한줄요약
+Metamizole (pyrazolone analgesic) was the most frequent culprit drug (8/68 cases, ahead of allopurinol 7); overall mortality was 51%; independent predictors of death included higher BSA, lower platelet count, and higher creatinine/BUN; a CHAID classification tree (AUC 0.88) outperformed SCORTEN (0.61), Re-SCORTEN (0.66), and ABCD-10 (0.56).
 
-17년 단일기관 후향연구(조직검사 확진 SJS/TEN 68명)에서 **피린계 진통제 메타미졸(metamizole)이 단일 최다 원인약물(8건, 알로푸리놀 7건보다 많음)**, 전체 사망률 51%, 분류트리 모델(AUC 0.88)이 기존 SCORTEN 계열 점수보다 사망예측 우수.
+The high metamizole rank reflects regional (German) prescribing patterns rather than universal pharmacovigilance signals; the classification tree's superiority is not yet proven (overlapping CIs) and single-center small-sample generalizability is limited.
+
+## 세줄요약
+
+17년 단일기관 후향적 코호트(조직검사 확진 SJS/TEN 68명; 뉘른베르크병원 화상센터; 2006–2023): 원인약물 분포, 사망 예측인자, 예후 점수 비교 분석.
+
+피린계 진통제 메타미졸(metamizole)이 단일 최다 원인약물(8건; 알로푸리놀 7건 앞섬); 전체 사망률 51%; BSA 높음·혈소판 감소·크레아티닌·BUN 상승이 독립 예측인자; CHAID 분류 트리(AUC 0.88)가 SCORTEN(0.61)·Re-SCORTEN(0.66)·ABCD-10(0.56) 모두 상회.
+
+메타미졸 1위는 독일 지역 처방 패턴 반영(보편적 약물감시 신호 아님); 분류 트리 우위는 95% CI 중첩으로 미확정; 단일기관 소규모로 일반화 제한.
 
 ## 1. Document Information
 

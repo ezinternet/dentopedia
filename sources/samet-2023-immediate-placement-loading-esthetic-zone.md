@@ -9,8 +9,21 @@ pdf_filename: samet-2023-immediate-placement-loading-esthetic-zone.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Book chapter (IntechOpen, "Human Teeth – From Function to Esthetics"): narrative review of immediate placement and immediate loading in the anterior esthetic zone — when done correctly and in selected cases, immediate placement helps preserve buccal bone and gingival architecture, with provisional crown shaping the emergence profile; conditions, contraindications, and surgical/prosthetic protocols are detailed.
+## Three-line Summary
+
+Book chapter (IntechOpen, "Human Teeth – From Function to Esthetics"): narrative review of immediate placement and immediate loading
+
+in the anterior esthetic zone — when done correctly and in selected cases, immediate placement helps preserve buccal
+
+bone and gingival architecture, with provisional crown shaping the emergence profile; conditions, contraindications, and surgical/prosthetic protocols are detailed.
+
+## 세줄요약
+
+Book chapter (IntechOpen, "Human Teeth – From Function to Esthetics"): narrative review of immediate placement and immediate loading
+
+in the anterior esthetic zone — when done correctly and in selected cases, immediate placement helps preserve buccal
+
+bone and gingival architecture, with provisional crown shaping the emergence profile; conditions, contraindications, and 외과적 (Surgical)/prosthetic protocols are detailed.
 
 ## 1. Document Information
 - **Type**: Book chapter (IntechOpen, "Human Teeth – From Function to Esthetics")

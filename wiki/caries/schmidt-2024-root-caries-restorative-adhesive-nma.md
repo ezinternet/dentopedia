@@ -6,18 +6,26 @@ date: 2024-03-01
 doi: 10.1016/j.jdent.2023.104776
 source: schmidt-2024-root-caries-restorative-adhesive-nma.md
 category: [caries]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/schmidt-2024-root-caries-restorative-adhesive-nma.pdf
 pdf_filename: schmidt-2024-root-caries-restorative-adhesive-nma.pdf
 source_collection: external
 tags: [root-caries, network-meta-analysis, gic, rmgic, composite, adhesive, geriatric-dentistry]
 ---
 
-## One-line Summary
-NMA of root caries restorative strategies (9 RCTs, 1,263 lesions): at 24 months, 2–3-step etch-and-rinse + composite or RMGIC showed a tendency toward better survival than GIC, but results were not statistically significant; CINeMA confidence low — no evidence-based hierarchy can currently be established.
+## Three-line Summary
+SR + NMA of 9 RCTs (1,263 root caries lesions, 473 patients) comparing adhesive class × restorative material strategies at 6/12/24-month follow-up; included special populations (nursing home residents, post-radiotherapy patients).
 
-## 한줄요약
-치근 우식 수복법 NMA (9 RCT, 1,263 lesion): 24개월 시점에서 2-3단계 EAR + 컴포지트 또는 RMGIC가 GIC보다 생존율 경향 우세하나 통계적으로 NS, CINeMA 신뢰도 낮음. 근거 기반 우선 선택은 불가능.
+At 24 months, 2–3-step etch-and-rinse + composite showed OR 2.65 (95% CI 1.45–4.84) and RMGIC OR 2.05 (1.17–3.61) vs GIC, but CINeMA confidence was low and findings were not statistically significant after adjustment.
+
+No evidence-based hierarchy for root caries restoration can currently be established; GIC remains defensible in xerostomic/geriatric patients while RMGIC or composite may offer a survival edge when isolation is achievable.
+
+## 세줄요약
+SR+NMA(9 RCT, 환자 473명·치근 우식 1,263개) — 접착 방식×수복 재료 매트릭스를 6/12/24개월 추적으로 비교; 요양원 거주자·두경부 방사선 조사 환자 포함.
+
+24개월 시점에서 2-3단계 산부식 컴포지트 OR 2.65(1.45–4.84), RMGIC OR 2.05(1.17–3.61) vs GIC이나 CINeMA 신뢰도 낮고 보정 후 통계적 유의성 없음.
+
+근거 기반 치근 우식 수복 우선순위는 현재 수립 불가; GIC는 구강건조 노인에서 여전히 합리적, 격리 가능 시 RMGIC·컴포지트가 생존율 유리 가능.
 
 ## Summary
 SR + NMA of 9 RCTs (1,263 root caries lesions, 473 patients) comparing restorative strategies (adhesive class × restorative material). Network meta-analysis stratified by 6/12/24-month follow-up. At 24 months, 2-3-step EAR + conventional composite vs GIC showed OR 2.65 (95% CI 1.45–4.84); RMGIC vs GIC OR 2.05 (1.17–3.61). However NMA confidence (CINeMA) was low and findings were not statistically significant after adjustment. Authors conclude: an evidence-based hierarchy for root caries restoration cannot currently be established. Calls for standardized, well-designed RCTs.

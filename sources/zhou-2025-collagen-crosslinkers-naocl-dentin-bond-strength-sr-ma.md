@@ -13,11 +13,21 @@ source_collection: external
 
 NaOCl(차아염소산나트륨) 노출 후 저하된 dentin bond strength를 collagen crosslinker로 회복하는 전략을 정량화. 근관세정([[endodontics/irrigation/fortea-2024-chelating-agents-endodontic-treatment-sr]])과 접착([[overviews/adhesive-bonding-strategies-overview]])의 교차점. endo-restorative interface 실무에 직접 연결.
 
-## One-line Summary
+## Three-line Summary
+
 SR+MA (14 in vitro studies, 11/14 low RoB) showing collagen crosslinkers (EDTA, IP6, PA, RA, sodium ascorbate) overall improve bond strength of NaOCl-treated dentin, modulated by NaOCl concentration and exposure duration.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 SR+MA(in vitro 14편·11편 low RoB): 콜라겐 가교제(EDTA·IP6·PA·RA·소듐 아스코르베이트)가 NaOCl 처리 상아질의 결합강도를 전반적으로 개선하며, 효과는 NaOCl 농도·노출시간에 의존.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - Frontiers in Bioengineering and Biotechnology 2025;13:1547158. Southern Medical University, Guangzhou.

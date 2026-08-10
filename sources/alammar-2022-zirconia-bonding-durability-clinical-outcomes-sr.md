@@ -13,13 +13,21 @@ source_collection: external
 
 지르코니아 접착 내구성의 임상적 근거를 구축하기 위해 인제스트. 기존 [[resin-bonding/dimitriadi-2019-silane-reactivity-lithium-disilicate-bond-strength]]가 리튬 디실리케이트에 대한 실란 처리의 실험실적 근거를 제공하나, 임상 세팅에서 지르코니아-레진 결합의 장기 내구성에 대한 SR은 별도로 필요하다. 이 논문은 24편 임상 연구를 체계적으로 검토해 APA·TBS APA + MDP 프라이머 + MDP 기반 레진 시멘트의 임상 결합 프로토콜을 제시한다.
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review of 24 clinical studies (up to Sept 2020) on zirconia restoration bonding to tooth/implant abutments: APA + MDP primer + MDP-based resin cement is the most durable protocol; surface pretreatment can sometimes be omitted without compromising certain zirconia restoration types.
+Systematic review of 24 clinical studies (up to Sept 2020) on zirconia restoration bonding durability to tooth and implant abutments; heterogeneity precluded meta-analysis.
 
-## 한줄요약
+APA or TBS APA surface pretreatment combined with MDP monomer-based primer and MDP/phosphoric ester-based resin cement yielded the most durable clinical bonding outcomes across all identified tooth surface types.
 
-체계적 문헌고찰(24편 임상연구): 지르코니아 수복물에서 APA/TBS APA 표면처리 + MDP 프라이머 + MDP 기반 레진 시멘트 조합이 가장 지속적인 임상 결합 결과를 보였으며, 일부 수복 유형에서는 표면처리 생략도 임상 결과에 영향을 미치지 않음.
+Surface pretreatment can sometimes be omitted for certain zirconia restoration types on most abutment surfaces; resin cement type was the least influential factor clinically.
+
+## 세줄요약
+
+24편 임상연구 체계적 문헌고찰(2020년 9월까지): 지르코니아 수복물의 접착 내구성을 치아·임플란트 지대치별로 합성했으나 이질성으로 메타분석 불가.
+
+APA/TBS APA 표면처리 + MDP 모노머 기반 프라이머 + MDP/인산에스테르 기반 레진 시멘트 조합이 모든 치아 표면 유형에서 가장 지속적인 임상 결합 결과를 보임.
+
+일부 수복 유형·지대치 표면에서 표면처리 생략도 임상 결과에 영향 없음; 레진 시멘트 종류는 임상 결과에 미치는 영향이 가장 적음.
 
 ## 1. Document Information
 

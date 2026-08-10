@@ -15,15 +15,23 @@ text_filename: jang-2025-flapless-immediate-implant-low-primary-stability.txt
 
 ## Why Ingested
 
-[[immediate-implant/kim-2016-immediately-placed-implant-without-primary]] already shows a single immediate implant with no primary stability can osseointegrate; this 16-case retrospective extends that anecdote into a cohort with a 100% survival rate at 65 months, directly testing whether the insertion-torque/ISQ thresholds emphasized by [[immediate-implant/stanley-2020-five-thread-guideline-predicting-primary]] are hard prerequisites or merely favorable conditions for immediate flapless placement.
+[[immediate-implant/primary-stability/kim-2016-immediately-placed-implant-without-primary]] already shows a single immediate implant with no primary stability can osseointegrate; this 16-case retrospective extends that anecdote into a cohort with a 100% survival rate at 65 months, directly testing whether the insertion-torque/ISQ thresholds emphasized by [[immediate-implant/primary-stability/stanley-2020-five-thread-guideline-predicting-primary]] are hard prerequisites or merely favorable conditions for immediate flapless placement.
 
-## One-line Summary
+## Three-line Summary
 
 Retrospective case series (16 flapless immediate SLA implants, ITV <10 Ncm and mean initial ISQ <55) — mean ISQ rose from 42.2 to 68.7 and survival was 100% at mean 65.18 months, suggesting low/no primary stability is not an absolute contraindication for immediate placement.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 후향 증례군 (16개 무피판 즉시 SLA 임플란트, 식립토크 <10 Ncm·초기 ISQ <55) — 평균 ISQ가 42.2에서 68.7로 상승하고 평균 65.18개월에 생존율 100%로, 낮거나 없는 초기 안정성이 즉시식립의 절대 금기는 아님을 시사.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 
@@ -76,7 +84,7 @@ Retrospective case series (16 flapless immediate SLA implants, ITV <10 Ncm and m
 ## 6. Related Work
 
 - Cited within: BIC reduction (~10%) in early immediate-socket healing vs healed ridge; Balleri et al. (osseointegrated ISQ mean 69, range 57–82); Becker et al. (low initial ISQ <60 rises during healing, high ISQ slightly falls); Albrektsson et al. (1986 Toronto success criteria, MBL <1.5 mm yr1 / <0.2 mm/yr).
-- Wiki relations: extends [[immediate-implant/kim-2016-immediately-placed-implant-without-primary]] (single no-primary-stability case → cohort); refines [[immediate-implant/stanley-2020-five-thread-guideline-predicting-primary]] (ITV/stability thresholds reframed as favorable not mandatory); reinforces [[immediate-implant/witoonkitvanich-2025-immediate-implant-stability-maxilla-mandible]] (ISQ trajectory and arch differences).
+- Wiki relations: extends [[immediate-implant/primary-stability/kim-2016-immediately-placed-implant-without-primary]] (single no-primary-stability case → cohort); refines [[immediate-implant/primary-stability/stanley-2020-five-thread-guideline-predicting-primary]] (ITV/stability thresholds reframed as favorable not mandatory); reinforces [[immediate-implant/primary-stability/witoonkitvanich-2025-immediate-implant-stability-maxilla-mandible]] (ISQ trajectory and arch differences).
 
 ## 7. Glossary
 

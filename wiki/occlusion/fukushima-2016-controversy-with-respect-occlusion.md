@@ -6,7 +6,7 @@ date: 2016-05-26
 doi: "10.1016/j.jdsr.2016.02.001"
 source: fukushima-2016-controversy-with-respect-occlusion.md
 category: [occlusion]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: true
 pmid: "28408956"
@@ -21,13 +21,21 @@ relations:
     target: jahanbin-2026-occlusal-adjustment-post-orthodontic-tscan-rct
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review (single 25-yr-follow-up case) arguing that centric relation is unreliable in patients with deformed/unstable condyles, and that the proper occlusal reference is a stable intercuspal position where habitual closing movements terminate **without premature tooth contact**, located by muscle-driven jaw position rather than condylar seating.
+Narrative/conceptual review (Jpn Dent Sci Rev 2016; no systematic search; one 25-year follow-up case) arguing that centric relation fails as an occlusal reference when condylar seating is mechanically unstable, and proposing muscle-guided habitual closing movement (HCM) as an alternative.
 
-## 한줄요약
+The key criterion is condylar stability (stable vs unstable in the fossa) rather than deformity per se; a stable intercuspal position (ICP) at which HCMs terminate without premature contact can maintain function for decades even on an anteriorly positioned, bone-unsupported condyle, as demonstrated in one 25-year case.
 
-서술적 종설(25년 추적 증례 1건): 변형·불안정 과두 환자에서 중심위(Centric Relation, CR)는 신뢰할 수 없고, 조기접촉(premature contact) 없이 습관성 폐구운동(Habitual Closing Movement, HCM)이 종료되는 안정적 교두감합위(Intercuspal Position, ICP)를 과두 위치가 아닌 근육 유도 하악위로 확보해야 한다고 주장.
+When condylar position is unreliable, the clinical target should be a premature-contact-free ICP defined by muscle-driven jaw closure, checked continuously — and condylar instability can be screened chairside when posterior guidance exceeds ~1.5–2.0 mm behind ICP.
+
+## 세줄요약
+
+서술적·개념적 종설(Jpn Dent Sci Rev 2016; 체계적 검색 없음; 25년 추적 증례 1건)로, 과두 안착이 역학적으로 불안정한 경우 중심위(Centric Relation, CR)가 교합 기준으로 실패함을 주장하고 근육 유도 습관성 폐구운동(Habitual Closing Movement, HCM)을 대안으로 제시했다.
+
+핵심 기준은 과두 변형 여부가 아닌 과두 안정성(Stability)이며, HCM이 조기접촉(Premature Contact) 없이 종료되는 안정적 교두감합위(ICP)는 전방 위치·골지지 없는 과두에서도 25년간 기능을 유지함을 1증례로 보여줬다.
+
+과두 위치가 신뢰할 수 없을 때는 근육 유도 폐구로 규정되는 조기접촉 없는 ICP를 임상 목표로 지속 확인해야 하며, ICP 후방으로 ~1.5–2.0 mm 이상의 후방 유도는 과두 불안정의 의자변 선별 지표가 된다.
 
 ## Summary
 

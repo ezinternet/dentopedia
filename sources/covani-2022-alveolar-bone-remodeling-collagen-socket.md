@@ -13,13 +13,21 @@ source_collection: external
 
 Micro-CT comparison of collagen plug vs empty socket healing in a rabbit model — quantifies volumetric bone remodeling kinetics at 6 time-points (2, 7, 15, 30, 60, 90 days) with three-dimensional precision not achievable in clinical studies. Provides the mechanistic basis for understanding why collagen plug alone can preserve socket volume. [[bone-regeneration/ridge-preservation/nisar-2020-collagen-plug-socket-preservation]]
 
-## One-line Summary
+## Three-line Summary
 
-Rabbit model micro-CT study (n=36, 6 time-points) comparing collagen plug vs empty socket: collagen plug group showed −4.6% volumetric bone change vs −58.1% in controls at 90 days, demonstrating near-complete prevention of alveolar collapse.
+Animal experiment (n=36 rabbits, lower incisor extraction, micro-CT at 6 time-points: 2/7/15/30/60/90 days) comparing alveolar bone remodeling with native bovine collagen type-1 plug versus empty socket healing.
 
-## 한줄요약
+Collagen plug group retained near-baseline bone volume (−4.6% ΔBV at 90 days) versus severe collapse in controls (−58.1% ΔBV); the collagen resorbed within ~15 days yet volumetric protection persisted, suggesting the mechanism is early clot stabilization and vascularization rather than physical space maintenance.
 
-토끼 모델 micro-CT (n=36, 6 시점): 콜라겐 플러그 충전군 −4.6% vs 자연치유군 −58.1% 골 부피 변화 (90일), 콜라겐 플러그의 탁월한 치조골 보존 효과 입증.
+Rabbit incisor biology differs from human molar sockets, and no bone graft comparator was included; but the study establishes collagen plug alone as highly effective at preventing socket volume loss in a controlled model.
+
+## 세줄요약
+
+동물 실험 (토끼 36마리, 하악 절치 발거, micro-CT 6시점: 2/7/15/30/60/90일): 천연 소 콜라겐 타입1 플러그 충전군(Test) vs 자연 치유군(Control) 발치와 골 부피 변화(ΔBV) 비교.
+
+90일 시점 ΔBV: 콜라겐 플러그 −4.6% vs 자연 치유 −58.1%; 콜라겐은 15일 내 흡수됐으나 부피 보존 효과 지속 — 물리적 공간 유지보다 초기 혈병 안정화·혈관화 스캐폴드 역할이 기전.
+
+토끼 절치(계속 맹출)는 인간 구치 발치와와 생물학적으로 다름; 골이식재 비교군 없음 — 그러나 콜라겐 플러그 단독으로 치조골 붕괴 예방에 매우 효과적임을 정량적으로 확인.
 
 ## 1. Document Information
 

@@ -6,7 +6,7 @@ date: 2003-02-01
 doi: N/A
 source: tay-2003-water-treeing-degradation-dentin-adhesives.md
 category: [resin-bonding]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: false
 pmid: "12744405"
@@ -19,13 +19,21 @@ relations:
     target: tay-2003-aging-two-modes-nanoleakage-bonded-dentin
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In-vitro TEM tracer study (3 total-etch + 3 self-etch adhesives, conventional vs ammoniacal 50 wt% silver nitrate, 24 h): all adhesives showed hybrid-layer nanoleakage, and dendritic interconnecting silver "water trees" extended perpendicularly from the hybrid-layer surface into the adhesive — a proposed pathway for hydrolytic resin–dentin bond degradation. Abstract-only.
+In vitro TEM tracer study (3 total-etch + 3 self-etch adhesives bonded to dentin and enamel, immersed 24 h in 50 wt% conventional vs ammoniacal silver nitrate, photodeveloped; abstract-only retrieved) — the paper that coined "water treeing" in dentin adhesion.
 
-## 한줄요약
+All adhesives showed hybrid-layer nanoleakage regardless of bonding strategy; beyond in-layer deposits, dendritic interconnecting silver "water trees" extended perpendicularly from the hybrid-layer surface into the adhesive; ammoniacal silver nitrate also revealed isolated unconnected silver grains within adhesives.
 
-In-vitro TEM 추적자 연구 (전부식 3종 + 자가부식 3종, 통상 vs 암모니아성 50 wt% 질산은, 24시간): 모든 접착제에서 혼성층(hybrid layer) 나노누출(nanoleakage)이 관찰됐고, 수지상으로 연결된 은 "물나무(water tree)"가 혼성층 표면에서 접착제로 수직 연장됨 — 수분에 의한 수지-상아질 접착 분해의 잠재 경로로 제시. 초록만 확보.
+Water-tree channels are inherently permeable pathways for hydrolytic resin–dentin bond degradation; minimizing residual interface water and adhesive hydrophilicity limits water ingress through these built-in pathways — a finding that frames all subsequent bond-durability strategies.
+
+## 세줄요약
+
+In vitro TEM 추적자 연구 (전부식 3종+자가부식 3종, 상아질·법랑질 접착, 24시간 통상·암모니아성 50 wt% 질산은 침지, 현상; 초록만 확보) — 치과 접착에서 "water treeing" 개념을 최초로 도입한 논문.
+
+접착 전략에 무관하게 모든 접착제에서 혼성층 나노누출이 관찰됐으며, 혼성층 표면에서 접착제층으로 수직 연장되는 수지상(dendritic) 연결형 은 침착("물나무")이 추가 확인; 암모니아성 질산은은 접착제 내 고립 은 입자(두 번째 패턴)도 추가로 드러냄.
+
+워터트리 채널은 레진-상아질 접착의 가수분해 열화를 위한 고유 투과 경로; 계면 잔류수분과 접착제 친수성 최소화가 이 경로를 통한 수분 침투를 제한 — 이후 모든 접착 내구성 전략의 기초를 제공한 발견.
 
 ## Summary
 

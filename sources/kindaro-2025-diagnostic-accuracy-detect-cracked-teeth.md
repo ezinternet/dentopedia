@@ -17,13 +17,21 @@ text_filename: kindaro-2025-diagnostic-accuracy-detect-cracked-teeth.txt
 
 [[cracked-tooth/raj-2025-cracked-tooth-syndrome-diagnostic-dilemma]] frames the diagnostic uncertainty of cracked tooth syndrome qualitatively; this ex vivo STARD/QUADAS-2 study supplies the actual head-to-head diagnostic-accuracy numbers (sensitivity/specificity/PPV against a micro-CT gold standard) for the four visual tools clinicians reach for — quantifying exactly how unreliable transillumination, microscopy, macrophotography, and DIAGNOcam are. It also extends [[cracked-tooth/li-2021-cracked-tooth-syndrome-etiology-review]] by showing that 20% of teeth extracted on crack suspicion had no dentine-extending crack, reinforcing the overdiagnosis/overtreatment concern.
 
-## One-line Summary
+## Three-line Summary
 
-Ex vivo diagnostic-accuracy study (n=30 extracted teeth, micro-CT gold standard) comparing macrophotography, surgical microscope, fiber-optic transillumination and DIAGNOcam: transillumination most accurate (65.3%) and most sensitive (68.8%) but with poor specificity (53.6%), while high-mag microscope and macrophotography gave the highest specificity (92.9%) and PPV (~96-97%); no visual tool can definitively diagnose or locate cracks.
+Ex vivo diagnostic-accuracy study (n=30 extracted teeth, micro-CT gold standard) comparing macrophotography, surgical microscope, fiber-optic transillumination and DIAGNOcam: transillumination most accurate (65.3%) and most sensitive (68.8%) but with poor specificity (53.6%), while high-mag microscope and macrophotography gave the highest specificity (92.9%) and PPV (~96-97%);
 
-## 한줄요약
+no visual tool can definitively diagnose or locate cracks.
 
-치아 균열 진단 도구의 정확도를 비교한 생체외(ex vivo) 연구(발치 치아 30개, 마이크로CT를 기준표준으로 사용). 투조(transillumination)가 정확도 65.3%·민감도 68.8%로 가장 높았으나 특이도는 53.6%로 낮아 위양성이 많았고, 고배율 현미경과 매크로촬영은 특이도 92.9%·PPV 약 96-97%로 가장 높았다. 어떤 시각적 도구도 균열의 존재나 위치를 단독으로 확실히 진단하지 못했다.
+(incomplete)
+
+## 세줄요약
+
+치아 균열 진단 도구의 정확도를 비교한 생체외(ex vivo) 연구(발치 치아 30개, 마이크로CT를 기준표준으로 사용).
+
+투조(transillumination)가 정확도 65.3%·민감도 68.8%로 가장 높았으나 특이도는 53.6%로 낮아 위양성이 많았고, 고배율 현미경과 매크로촬영은 특이도 92.9%·PPV 약 96-97%로 가장 높았다.
+
+어떤 시각적 도구도 균열의 존재나 위치를 단독으로 확실히 진단하지 못했다.
 
 ## 1. Document Information
 

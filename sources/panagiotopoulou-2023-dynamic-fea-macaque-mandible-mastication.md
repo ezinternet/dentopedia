@@ -13,13 +13,21 @@ source_collection: external
 
 기존 occlusion FEA 페이지들([[occlusion/ambili-2024-parafunctional-loading-stress-tooth-implant-fea]], [[occlusion/yesilyurt-2021-occlusion-concepts-hybrid-abutment-zirconia-fea]])은 모두 **정적(static) 단일 시점** FEA로 교합 하중을 모델링한다. 본 논문은 영장류 하악에서 **동적(dynamic) 완전 저작주기 FEA**가 정적 FEA가 놓치는 시점·음식별 변형/변형률 패턴을 포착함을 보여, 치과 FEA의 정적 단일-시점 가정의 한계를 직접 비판하는 방법론적 근거로 인제스트. 또한 음식 경도에 따른 저작근 활성 비대칭 → 하악 응력 분포 변화는 [[tmj/wang-2024-tmj-ovd-elevation-occlusal-loss-rats]] 등 저작 생체역학 동물 모델 페이지를 보강한다.
 
-## One-line Summary
+## Three-line Summary
 
-First dynamic 3D FEM of a primate (rhesus macaque) mandible over a complete unilateral chewing gape cycle, EMG/PCSA-driven muscle forces and validated against in vivo bone strain; peak strains/moments occur ~40% of the gape cycle and vary by food (nuts > grapes > dried fruit), with dynamic models capturing strain in mandibular regions static single-time-point FEMs miss.
+First dynamic 3D FEM of a primate (rhesus macaque) mandible over a complete unilateral chewing gape cycle, EMG/PCSA-driven muscle forces and validated against in vivo bone strain;
 
-## 한줄요약
+peak strains/moments occur ~40% of the gape cycle and vary by food (nuts > grapes > dried fruit), with dynamic models capturing strain in mandibular regions static single-time-point FEMs miss.
 
-영장류(붉은털원숭이) 하악의 완전한 편측 저작주기를 모델링한 최초의 동적 3D 유한요소모델(FEM) 연구. 근전도(EMG)·생리적 단면적(PCSA) 기반 근력을 적용하고 생체 골 변형률로 검증했으며, 최대 변형률·모멘트는 저작주기의 약 40% 지점에서 발생하고 음식(견과류 > 포도 > 건과일)에 따라 달라졌다. 동적 모델은 정적 단일-시점 FEM이 놓치는 하악 부위의 응력까지 포착함을 입증.
+(incomplete)
+
+## 세줄요약
+
+영장류(붉은털원숭이) 하악의 완전한 편측 저작주기를 모델링한 최초의 동적 3D 유한요소모델(FEM) 연구.
+
+근전도(EMG)·생리적 단면적(PCSA) 기반 근력을 적용하고 생체 골 변형률로 검증했으며, 최대 변형률·모멘트는 저작주기의 약 40% 지점에서 발생하고 음식(견과류 > 포도 > 건과일)에 따라 달라졌다.
+
+동적 모델은 정적 단일-시점 FEM이 놓치는 하악 부위의 응력까지 포착함을 입증.
 
 ## 1. Document Information
 

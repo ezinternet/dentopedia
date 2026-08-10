@@ -6,20 +6,28 @@ date: 2022-01-01
 doi: 10.1016/j.dental.2021.12.138
 source: osiewicz-2022-wear-of-bulk-fill-resin.md
 category: [resin]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/osiewicz-2022-wear-of-bulk-fill-resin.pdf
 pdf_filename: osiewicz-2022-wear-of-bulk-fill-resin.pdf
 source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In-vitro two/three-body ACTA wear study of 4 bulk-fill composites vs 1 nanohybrid (Grandio): uncovered bulk-fills wore 59-118 µm/200k cycles vs 31 µm for the nanohybrid and had much lower Vickers hardness, but a 0.5-1.0 mm conventional cover layer wore the same as the nanohybrid alone (bulk-fill substrate stiff enough to act as a monoblock).
+In-vitro ACTA three-body wear study (ISO/TS 14569) of 4 bulk-fill composites (SDR, X-tra base, Filtek Bulk Fill, Dual-Curing Bulk) versus a nanohybrid control (Grandio) tested uncovered, and under 0.5 or 1.0 mm conventional cover layers.
 
-## 한줄요약
+Uncovered bulk-fills wore 59–118 µm/200k cycles versus 31 µm for the nanohybrid (Grandio); SDR approached wear levels of temporary materials (118 µm vs ~100 µm for Protemp); Vickers hardness of bulk-fills was substantially lower (40–70 vs 124 for Grandio).
 
-In-vitro ACTA 마모시험 — 벌크필 레진 4종 vs 나노하이브리드(Grandio) 비교: 커버 없는 벌크필은 59-118 µm/200k cycle로 나노하이브리드(31 µm)보다 마모가 크고 비커스 경도도 낮았으나, 0.5-1.0 mm 일반 컴포지트로 덮으면 나노하이브리드 단독과 동일한 마모를 보여 벌크필이 단단한 받침(monoblock) 역할을 함. 단독 응력 부담 부위에는 부적합.
+A 0.5–1.0 mm conventional cover layer over any bulk-fill wore essentially the same as the nanohybrid alone (monoblock behavior), confirming that bulk-fills are suitable as base materials but contraindicated as uncoated occlusal surfaces under load.
+
+## 세줄요약
+
+In-vitro ACTA 삼체 마모시험(ISO/TS 14569): 벌크필 레진 4종(SDR, X-tra base, Filtek Bulk Fill, Dual-Curing Bulk) vs 나노하이브리드 대조군(Grandio)을 비피복·0.5 mm·1.0 mm 일반 레진 피복 3가지 조건에서 비교.
+
+비피복 벌크필 마모량 59–118 µm/200k 회전 vs Grandio 31 µm; SDR은 임시수복재 수준(~118 µm); 비커스 경도도 현저히 낮음(40–70 vs 124).
+
+0.5–1.0 mm 일반 레진 피복 시 벌크필 위의 마모는 나노하이브리드 단독과 동일(monoblock 거동) — 벌크필은 base 재료로는 적합하나 하중 부담 교합면에 비피복 사용은 금기.
 
 ## Summary
 

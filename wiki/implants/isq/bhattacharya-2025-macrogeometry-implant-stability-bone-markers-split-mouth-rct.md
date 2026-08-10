@@ -7,7 +7,7 @@ doi: 10.1016/j.prosdent.2025.11.042
 pmid: "41421946"
 source: bhattacharya-2025-macrogeometry-implant-stability-bone-markers-split-mouth-rct.md
 category: implants/isq
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: false
 text_path: /Users/oracleneo/llm-wiki/papers/bhattacharya-2025-macrogeometry-implant-stability-bone-markers-split-mouth-rct.txt
@@ -15,13 +15,21 @@ text_filename: bhattacharya-2025-macrogeometry-implant-stability-bone-markers-sp
 tags: [implant-macrogeometry, tapered-implant, cylindrical-implant, primary-stability, ISQ, ITV, bone-markers, split-mouth-RCT, healing-chamber, TNF-alpha, resonance-frequency-analysis]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Split-mouth RCT (n=18) — modified macrogeometry implants with healing chambers showed equivalent ISQ-measured primary stability to conventional implants despite significantly lower insertion torque, and reduced peri-implant TNF-α at early healing time points.
+Prospective double-blind split-mouth RCT (n=18 patients, bilateral posterior edentulous sites) comparing modified macrogeometry implants (healing chambers) vs conventional macrogeometry implants, with ISQ by RFA at 0, 45, 90 days and peri-implant crevicular fluid cytokines at 7, 14, 30, 90 days.
 
-## 한줄요약
+Modified macrogeometry implants had significantly lower insertion torque but statistically equivalent ISQ at all three timepoints; peri-implant TNF-α was significantly lower in the modified group at early healing timepoints.
 
-Split-mouth RCT (n=18) — healing chamber 포함 변형 매크로지오메트리 임플란트는 삽입 토크가 낮음에도 기존 임플란트와 ISQ 일차안정성이 동등했으며, 초기 치유 기간 중 peri-implant TNF-α가 유의하게 낮았다.
+Healing-chamber macrogeometry decouples torque-driven friction from RFA-measured stiffness — lower IT does not compromise primary stability (ISQ); the reduced TNF-α may indicate a more favorable osteogenic healing environment.
+
+## 세줄요약
+
+전향적 이중맹검 split-mouth RCT(18명, 양측 후방 무치악) — 치유챔버 포함 변형 매크로지오메트리 임플란트 대 기존 임플란트를 식립 당일·45일·90일 ISQ(RFA) 및 7·14·30·90일 치주열구액 사이토카인으로 비교하였다.
+
+변형 매크로지오메트리군은 삽입 토크가 유의하게 낮았으나, 세 시점의 ISQ는 양군 동등; 초기 치유 시점에서 peri-implant TNF-α는 변형군에서 유의하게 낮았다.
+
+치유챔버 매크로지오메트리는 삽입 토크(마찰)와 RFA 측정 강성을 분리하므로 낮은 삽입 토크가 1차 안정성(ISQ)을 손상시키지 않으며, 낮은 TNF-α는 더 유리한 골형성 치유 환경을 시사한다.
 
 ## Summary
 

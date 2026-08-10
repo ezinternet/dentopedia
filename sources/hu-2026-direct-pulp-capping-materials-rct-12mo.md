@@ -17,11 +17,21 @@ text_filename: hu-2026-direct-pulp-capping-materials-rct-12mo.txt
 
 기존 보유 [[endodontics/vpt/]] 논문들이 Ca(OH)₂ vs MTA 중심; iRoot BP Plus(bioceramic)가 실제 임상에서 늘고 있어 3-way RCT 직접비교 근거 필요. [[endodontics/vpt/kundzina-2017-mta-vs-calcium-hydroxide-dpc-rct]]가 MTA vs CH 2-way RCT인데 본 논문이 iRoot BP Plus를 추가한 3-way 비교로 확장한다.
 
-## One-line Summary
-Single-blind RCT (n=120, Shanghai) comparing iRoot BP Plus, MTA, and Ca(OH)₂ for direct pulp capping in mature permanent teeth with caries-induced reversible pulpitis: no significant difference at 12 months (iRoot BP Plus 88.5%, MTA 93.1%, Ca(OH)₂ 84.6%; p=0.6); proximal lesion location was the dominant risk factor for failure (OR=18.18).
+## Three-line Summary
 
-## 한줄요약
-성숙 영구치의 우식 유발 가역성 치수염(Reversible Pulpitis)에서 직접치수복조(Direct Pulp Capping, DPC) 재료 3종 — iRoot BP Plus(바이오세라믹, Bioceramic), MTA(Mineral Trioxide Aggregate), 수산화칼슘(Calcium Hydroxide, CH) — 을 비교한 단맹 무작위 대조 연구(Randomized Controlled Trial, RCT)(n=120, 상하이): 12개월 성공률 iRoot BP Plus 88.5%, MTA 93.1%, CH 84.6%로 세 군 간 유의한 차이 없음(p=0.6); 근심면 국한 우식(Proximal Lesion)이 실패의 가장 강력한 예측인자(OR=18.18).
+Single-blind RCT (n=120, Shanghai) comparing iRoot BP Plus, MTA, and Ca(OH)₂ for direct pulp capping in mature permanent teeth with caries-induced reversible pulpitis: no significant difference at 12 months (iRoot BP Plus 88.5%, MTA 93.1%, Ca(OH)₂ 84.6%;
+
+p=0.6);
+
+proximal lesion location was the dominant risk factor for failure (OR=18.18).
+
+## 세줄요약
+
+성숙 영구치의 우식 유발 가역성 치수염(Reversible Pulpitis)에서 직접치수복조(Direct Pulp Capping, DPC) 재료 3종 — iRoot BP Plus(바이오세라믹, Bioceramic), MTA(Mineral Trioxide Aggregate), 수산화칼슘(Calcium Hydroxide, CH) — 을 비교한 단맹 무작위 대조 연구(Randomized Controlled Trial, RCT)(n=120, 상하이): 12개월 성공률 iRoot BP Plus 88.5%, MTA 93.1%, CH 84.6%로 세 군 간 유의한 차이 없음(p=0.6);
+
+근심면 국한 우식(Proximal Lesion)이 실패의 가장 강력한 예측인자(OR=18.18).
+
+(incomplete)
 
 ## 1. Document Information
 

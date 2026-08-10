@@ -6,7 +6,7 @@ date: 2023-01-01
 doi: "10.1111/iej.13762"
 source: donnermeyer-2023-effectiveness-of-diagnosing-pulpitis-a.md
 category: endodontics/diagnosis
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/donnermeyer-2023-effectiveness-of-diagnosing-pulpitis-a.pdf
 pdf_filename: donnermeyer-2023-effectiveness-of-diagnosing-pulpitis-a.pdf
 source_collection: external
@@ -16,11 +16,21 @@ relations:
     target: patro-2022-diagnostic-accuracy-of-pulp-vitality
 ---
 
-## One-line Summary
-ESE-commissioned systematic review (28 studies) concluding that the effectiveness of clinically diagnosing pulpitis is low because no valid reference standard exists; a multi-test "diagnostic package" is the best current approach.
+## Three-line Summary
 
-## 한줄요약
-ESE 위촉 SR(28편) — 임상에서 치수염을 진단하는 정확도는 낮고(신뢰할 reference standard 부재), 여러 검사·증상을 묶은 "diagnostic package"가 현재 최선이라는 결론.
+ESE-commissioned systematic review (28 studies across sensibility tests, vitality tests, biomarkers, and pulp bleeding) evaluating how accurately clinicians can diagnose the true inflammatory status of the dental pulp as the evidence base for ESE S3-level guidelines.
+
+Diagnostic effectiveness for pulpitis is rated low because there is no valid clinical reference standard against which tests can be validated — no single test reliably predicts true pulp condition or vital-pulp-treatment prognosis.
+
+The best current strategy is a combined multi-test "diagnostic package" (clinical tests + symptom history), with molecular/biomarker diagnostics identified as the needed future direction; preoperative uncertainty should be reflected in consent and follow-up.
+
+## 세줄요약
+
+ESE(유럽치내과학회) 위촉 SR(28편): 감각 검사·생활력 검사·바이오마커·치수 출혈을 포함한 다양한 치수 상태 진단 방법의 정확도를 평가, ESE S3 치수염 진단 가이드라인의 근거 자료.
+
+신뢰할 수 있는 임상 reference standard가 없어 치수염 진단 효과성은 낮음으로 평가 — 어떤 단일 검사도 실제 치수 상태나 생활치수요법 예후를 신뢰성 있게 예측하지 못함.
+
+현재 최선의 접근법은 임상 검사+증상력을 묶은 "diagnostic package" 복합사용이며, 분자/바이오마커 진단이 차세대 방향으로 제시됨; 진단 불확실성을 사전동의와 추적관찰에 반영해야 함.
 
 ## Summary
 This European Society of Endodontology (ESE)-commissioned systematic review evaluated how well clinicians can diagnose the true inflammatory status of the pulp, the basis for the ESE S3-level guideline. Across 28 eligible studies covering sensibility tests, vitality tests, biomarkers, and pulp bleeding, the review found that diagnostic effectiveness is low — chiefly because there is no clinical reference standard for the "true" pulp condition, so no single test can be validated against ground truth. The authors conclude that the most defensible current strategy is a combination of clinical tests and symptoms (a "diagnostic package"), with molecular/biomarker diagnostics as a future direction. The practical implication is that preoperative prediction of vital-pulp-treatment success remains weak.

@@ -17,13 +17,21 @@ text_filename: singh-2026-rotary-reciprocating-kinematics-postoperative-pain-ret
 
 기존 [[endodontics/shaping/pui-yii-2021-glide-path-apical-bacteria-extrusion]]는 회전 vs 왕복(rotary vs reciprocating) kinematics가 근단 세균·debris 압출(apical extrusion)에 미치는 영향을 in-vitro로 본 반면, 그 압출이 실제 환자 술후통(postoperative pain)으로 이어지는지는 미확인이었다. 본 SR(Singh 2026)은 retreatment 한정 RCT 5편을 종합해, in-vitro 압출 차이가 임상 술후통 차이로 일관되게 번역되지 않음을 보여 그 기전 페이지의 임상적 함의를 보강·한정한다.
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (PRISMA 2020; qualitative synthesis, no MA) of 5 RCTs (n=554) finding rotary and reciprocating NiTi systems produce comparable postoperative pain after nonsurgical endodontic retreatment; pain is mild, peaks at 24 h, and declines over time without consistent dependence on kinematics.
+Systematic review (PRISMA 2020;
 
-## 한줄요약
+qualitative synthesis, no MA) of 5 RCTs (n=554) finding rotary and reciprocating NiTi systems produce comparable postoperative pain after nonsurgical endodontic retreatment;
+
+pain is mild, peaks at 24 h, and declines over time without consistent dependence on kinematics.
+
+## 세줄요약
 
 RCT 5편(n=554)을 정성종합한 체계적 문헌고찰: 비외과적 재근관치료에서 회전(rotary)·왕복(reciprocating) NiTi 시스템 간 술후통 차이는 대체로 없고, 통증은 경미하며 24시간에 최고였다가 시간이 지나며 감소 — kinematics에 일관되게 의존하지 않음.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

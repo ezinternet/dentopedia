@@ -6,20 +6,28 @@ date: 2018-05-01
 doi: 10.1016/j.jmbbm.2018.05.044
 source: bueno-2018-cyclically-loaded-implants-loading-sessions.md
 category: [occlusion]
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/bueno-2018-cyclically-loaded-implants-loading-sessions.pdf
 pdf_filename: bueno-2018-cyclically-loaded-implants-loading-sessions.pdf
 source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Rat tibia animal study (n=27) demonstrating that doubling daily cyclic loading sessions (2× vs 1×, 60 cycles × 1.5 N axial, 7 days) significantly reduces BIC and increases bone-implant distance at the gap interface, while a single session per day is indistinguishable from unloaded controls.
+Controlled rat tibia BIGI model study (n=27; 3 groups: unloaded, 1×/day, 2×/day; 60 cycles × 1.5 N axial, 7 days) with histomorphometry, FEA, and DNA microarray to determine how loading session frequency affects early peri-implant bone healing at the gap interface.
 
-## 한줄요약
+Doubling daily loading sessions (2×) significantly reduced BIC and increased bone-implant distance vs unloaded controls (p<0.05), with fibrous connective tissue along the implant surface and heightened inflammatory gene expression; the 1× group was statistically indistinguishable from unloaded controls on all measures.
 
-쥐 경골 동물 실험(n=27, 3군, 7일)에서 하루 2회 반복 하중군만 BIC 유의 감소·골-임플란트 거리 유의 증가를 보이며, 1회군은 무하중군과 차이 없어 누적 미세동요의 용량 의존적 골치유 악화 효과를 규명하였다.
+Even at a force magnitude "acceptable" in one daily session, doubling loading sessions causes cumulative interfacial damage — this defines an experimental loading frequency threshold with direct implications for occlusal design in immediate-loading protocols.
+
+## 세줄요약
+
+쥐 경골 골-임플란트 간격(Bone Implant Gap Interface, BIGI) 모델(n=27; 무하중·1회·2회/일 3군; 60사이클 × 1.5 N 축방향, 7일)에서 조직형태계측·FEA·DNA 마이크로어레이로 하루 하중 횟수가 초기 골유착 치유에 미치는 영향을 분석한 동물실험.
+
+2회/일 군에서만 골-임플란트 접촉률(Bone-to-Implant Contact, BIC) 유의 감소·골-임플란트 거리 유의 증가(p<0.05), 임플란트 표면 섬유결합조직 형성, 염증 유전자 발현 증가; 1회/일 군은 무하중군과 모든 지표에서 차이 없었다.
+
+동일한 힘의 크기라도 하루 하중 횟수를 배로 늘리면 누적 계면 손상이 발생하며, 이는 즉시 하중 프로토콜의 교합 설계에 직접적인 의미를 갖는 실험적 하중 역치를 제시한다.
 
 ## Summary
 
@@ -81,7 +89,7 @@ The authors conclude that even at a force magnitude that is otherwise "acceptabl
 
 ## Related Papers
 
-- [[occlusion/implant-occlusion-loading-biomechanics-overview]] — synthesis of implant occlusion biomechanics; this study provides animal-model dose-response evidence for loading frequency thresholds
+- [[overviews/implant-occlusion-loading-biomechanics-overview]] — synthesis of implant occlusion biomechanics; this study provides animal-model dose-response evidence for loading frequency thresholds
 - [[occlusion/romanos-2003-bone-implant-interface-loading-conditions-monkey]] — histomorphometric comparison of loading effects (monkey model); supports detrimental loading effects at higher loads in primary vs. secondary healing
 - [[occlusion/podaropoulos-2016-bone-reactions-progressive-static-load-dogs]] — progressive static load in dogs; complements this cyclic-load study by contrasting static vs. cyclic loading mechanisms
-- [[implants/arghami-2021-immediate-early-loading-hydroxyapatite-coated]] — immediate/early loading clinical data; this study provides basic mechanobiology underpinning the biological rationale for loading protocols
+- [[implants/loading-protocol/arghami-2021-immediate-early-loading-hydroxyapatite-coated]] — immediate/early loading clinical data; this study provides basic mechanobiology underpinning the biological rationale for loading protocols

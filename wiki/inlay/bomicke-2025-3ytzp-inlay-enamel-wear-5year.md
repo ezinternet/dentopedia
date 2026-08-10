@@ -6,18 +6,26 @@ date: 2025-01-01
 doi: 10.1007/s00784-024-06103-5
 source: bomicke-2025-3ytzp-inlay-enamel-wear-5year.md
 category: [inlay]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/bomicke-2025-3ytzp-inlay-enamel-wear-5year.pdf
 pdf_filename: bomicke-2025-3ytzp-inlay-enamel-wear-5year.pdf
 source_collection: external
 tags: []
 ---
 
-## One-line Summary
-Prospective 5-year study (n=6) of enamel wear opposing polished monolithic 3Y-TZP resin-bonded fixed partial dentures (RBFPDs): opposing enamel wore 77 μm vs 54 μm for enamel-enamel controls (significant after 2 years), but all values stayed within clinically acceptable limits (<100 μm), with no fractures or debonding.
+## Three-line Summary
+Prospective 5-year clinical study (n=6 patients) measuring enamel wear on teeth opposing polished monolithic 3Y-TZP resin-bonded fixed partial dentures (RBFPDs) using annual PVS impressions and 3D digital superimposition.
 
-## 한줄요약
-전향적 5년 연구(n=6): 연마된 3Y-TZP RBFPD 대합 법랑질 마모 77μm vs 대조군 법랑-법랑 54μm; 2년부터 유의차; 임상적 허용 범위 내
+Opposing enamel wore 77 μm vs 54 μm for enamel-enamel controls at 5 years; the difference became statistically significant after 2 years (p<0.05), yet both values remained within the clinically acceptable threshold of <100 μm; no fractures or debonding were reported.
+
+Polished 3Y-TZP RBFPDs are clinically safe from an enamel-wear standpoint, but the small sample (n=6) limits generalizability.
+
+## 세줄요약
+전향적 5년 임상연구(n=6): 연마된 단일체 3Y-TZP RBFPD에 대합하는 법랑질 마모량을 연간 PVS 인상·3D 중첩으로 측정.
+
+대합 법랑질 마모 77 μm vs 대조군(법랑-법랑 접촉) 54 μm — 2년 시점부터 유의차(p<0.05); 모두 임상 허용치(<100 μm) 이내; 파절·탈락 없음.
+
+연마 처리된 3Y-TZP RBFPD는 법랑질 마모 측면에서 임상적으로 안전하나, 소수 표본(n=6)으로 일반화 한계.
 
 ## Summary
 Prospective 5-year study (n=6) measuring enamel wear on teeth opposing polished monolithic 3Y-TZP resin-bonded FPDs. Opposing enamel wore 77 μm vs 54 μm for enamel-enamel controls. Difference became statistically significant after 2 years. Wear remained within clinically acceptable limits despite being higher than the natural enamel control.
@@ -42,4 +50,4 @@ Prospective 5-year clinical study (n=6 patients). Inlay- or wing-retained resin-
 ## Related Papers
 - [[inlay/kermanshah-2020-fracture-load-inlay-retained-ceramic-fdp]] — fracture load of zirconia IRFPD vs other ceramic FDPs
 - [[dental-materials/zirconia/ban-2023-dental-zirconia-types-development-review]] — 3Y-TZP properties and development history
-- [[dental-materials/blatz-2018-resin-bonding-high-strength-ceramics-review]] — resin bonding protocols for zirconia
+- [[dental-materials/ceramic/blatz-2018-resin-bonding-high-strength-ceramics-review]] — resin bonding protocols for zirconia

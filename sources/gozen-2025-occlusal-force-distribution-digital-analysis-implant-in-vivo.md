@@ -17,13 +17,21 @@ text_filename: gozen-2025-occlusal-force-distribution-digital-analysis-implant-i
 
 [[occlusion/didier-2026-occlusal-contacts-ios-vs-carbon-paper-concordance]]는 IOS vs carbon paper 일치도를 자연치열에서 다뤘고, [[occlusion/mao-2024-occlusal-changes-implant-supported-single-crowns]]는 임플란트 단일치관 교합 변화(저교합화)를 SR+MA로 정리했다. 본 prospective in-vivo 연구(Gözen 2025)는 그 둘을 잇는 미싱 링크 — 단일 구치부 임플란트 수복 전후의 교합력 분포 변화를 **두 디지털 분석 장비(Medit i700 IOS vs OccluSense)로 직접 비교**해, 디지털 교합 분석 도구 선택 근거와 임플란트 수복 후 전악 교합력 재분배 evidence를 동시에 보강한다.
 
-## One-line Summary
+## Three-line Summary
 
-Prospective in-vivo study (n=18 analyzed, 20 enrolled) comparing Medit i700 IOS (contact area) vs OccluSense (contact area + force) before/after single posterior implant single-crown restoration: occlusal force redistributes across the whole arch (anterior + posterior contact/force decrease, opposing arch + total increase; posterior drop > anterior), and the two digital methods correlate strongly (Kendall's Tau-B, p<0.001).
+Prospective in-vivo study (n=18 analyzed, 20 enrolled) comparing Medit i700 IOS (contact area) vs OccluSense (contact area + force) before/after single posterior implant single-crown restoration: occlusal force redistributes across the whole arch (anterior + posterior contact/force decrease, opposing arch + total increase;
 
-## 한줄요약
+posterior drop > anterior), and the two digital methods correlate strongly (Kendall's Tau-B, p<0.001).
 
-전향 임상연구(분석 18명, 등록 20명) — 단일 구치부 임플란트 단일치관 수복 전후를 Medit i700 IOS(접촉면적)와 OccluSense(접촉면적+교합력)로 비교: 수복 후 교합력이 전악으로 재분배(전·후방 접촉/힘 감소, 대합치·전체 증가; 후방 감소>전방)되고, 두 디지털 방식은 강한 상관(Kendall Tau-B, p<0.001)을 보였다.
+(incomplete)
+
+## 세줄요약
+
+전향 임상연구(분석 18명, 등록 20명) — 단일 구치부 임플란트 단일치관 수복 전후를 Medit i700 IOS(접촉면적)와 OccluSense(접촉면적+교합력)로 비교: 수복 후 교합력이 전악으로 재분배(전·후방 접촉/힘 감소, 대합치·전체 증가;
+
+후방 감소>전방)되고, 두 디지털 방식은 강한 상관(Kendall Tau-B, p<0.001)을 보였다.
+
+(incomplete)
 
 ## 1. Document Information
 

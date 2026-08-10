@@ -1,0 +1,964 @@
+<!--
+---
+title: "처방 한 장으로 끝 — 치과 처방 결정 레퍼런스"
+type: interactive
+date: 2026-08-07
+status: done
+verified: 2026-08-07
+category: drug
+agenda: agenda/2026-07-22_prescription-master-reference.md
+notes: |
+  updated 2026-08-07: 항응고 오버뷰 §2-5 임플란트 특이적 근거(Madrid 2009 SR·Chahine 2019 SR·
+  Lee 2024 코호트) → 항응고·항혈소판 발치 항목에 반영. 진통제 오버뷰 코르티코스테로이드
+  근거층(Markiewicz 2008·Almeida 2019·Dan 2010 SR-MA·Bakri 2024 RCT) → 매복 제3대구치
+  술전약 항목에 반영. 전신질환 오버뷰 임신 섹션(ACOG 2013) → 임신·수유 항목에 "치료 자체"
+  행 신설. schmidt-2021·camps-font-2024 2026-07-24 변경은 서브카테고리 relocate(경로만,
+  본문 무변화) 재확인 — 반영 불필요.
+source_wiki:
+  - wiki/overviews/drug-clinical-decision-ladder.md
+  - wiki/overviews/drug-antibiotic-odontogenic-pain-overview.md
+  - wiki/overviews/drug-antibiotic-stewardship-overview.md
+  - wiki/overviews/drug-analgesics-postop-pain-overview.md
+  - wiki/overviews/drug-anticoagulant-antiplatelet-perioperative-overview.md
+  - wiki/overviews/drug-systemic-disease-dental-management-overview.md
+  - wiki/drug/mronj/vidovic-juras-2024-antibiotic-prophylaxis-dental-procedures.md
+  - wiki/drug/antibiotics/wilson-2021-ie-prophylaxis-aha-scientific-statement.md
+  - wiki/drug/antibiotics/diaz-2025-antibiotics-sinus-lift-infection-umbrella.md
+  - wiki/drug/antibiotics/kwon-2023-microbial-isolates-antibiotic-sensitivity-odontogenic.md
+  - wiki/periodontics/alharbi-2019-management-acute-periodontal-abscess-mimicking.md
+  - wiki/periodontics/herrera-2014-acute-periodontal-lesions.md
+  - wiki/oral-surgery/third-molar/schmidt-2021-pericoronitis-management-antibiotic-prescribing-recommendations.md
+  - wiki/oral-surgery/third-molar/camps-font-2024-antibiotic-prophylaxis-dry-socket-nma.md
+tags: [drug, antibiotics, analgesics, prescription, chairside, reference]
+---
+-->
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="color-scheme" content="light">
+<title>처방 한 장으로 끝 — 치과 처방 결정 레퍼런스</title>
+<style>
+  :root{
+    color-scheme:light;   /* OS가 다크여도 밝은 배경 고정 — chairside 조명·인쇄 기준 */
+    --bg:#f5f7fa; --panel:#ffffff; --ink:#111827; --ink2:#4b5563; --ink3:#8b94a3;
+    --line:#e3e8ef; --line2:#eef2f7;
+    --accent:#0f766e; --accent-bg:#ecfdf5;
+    --no:#059669;   --no-bg:#ecfdf5;   --no-line:#a7f3d0;
+    --yes:#1d4ed8;  --yes-bg:#eff6ff;  --yes-line:#bfdbfe;
+    --case:#b45309; --case-bg:#fffbeb; --case-line:#fde68a;
+    --never:#be123c;--never-bg:#fff1f2;--never-line:#fecdd3;
+    --shadow:0 1px 2px rgba(16,24,40,.05), 0 1px 3px rgba(16,24,40,.06);
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  html{-webkit-text-size-adjust:100%}
+  body{
+    font-family:-apple-system,BlinkMacSystemFont,'Noto Sans KR','Apple SD Gothic Neo',
+      'Malgun Gothic',sans-serif;
+    background:var(--bg); color:var(--ink);
+    line-height:1.6; padding:0 0 60px;
+    -webkit-font-smoothing:antialiased;
+  }
+  .wrap{max-width:1080px;margin:0 auto;padding:0 16px}
+
+  /* ---------- header ---------- */
+  header{padding:26px 0 16px}
+  h1{font-size:1.42rem;font-weight:800;letter-spacing:-.02em;line-height:1.3}
+  h1 .thin{font-weight:500;color:var(--ink3)}
+  .sub{font-size:.82rem;color:var(--ink2);margin-top:6px}
+  .meta{font-size:.72rem;color:var(--ink3);margin-top:10px}
+
+  /* ---------- golden rules ---------- */
+  .rules{
+    display:grid;grid-template-columns:repeat(auto-fit,minmax(210px,1fr));
+    gap:8px;margin:18px 0 6px;
+  }
+  .rule{
+    background:var(--panel);border:1px solid var(--line);border-left:3px solid var(--accent);
+    border-radius:8px;padding:11px 13px;box-shadow:var(--shadow);
+  }
+  .rule b{display:block;font-size:.8rem;font-weight:700;margin-bottom:3px}
+  .rule span{font-size:.72rem;color:var(--ink2);line-height:1.45;display:block}
+
+  /* ---------- sticky nav ---------- */
+  .navbar{
+    position:sticky;top:0;z-index:50;background:var(--bg);
+    padding:10px 0 8px;margin-top:14px;
+    border-bottom:1px solid var(--line);
+  }
+  .navbar .wrap{padding:0 16px}
+  .search{
+    width:100%;padding:9px 13px;border:1px solid var(--line);border-radius:8px;
+    background:var(--panel);color:var(--ink);font-size:.85rem;font-family:inherit;
+    margin-bottom:8px;
+  }
+  .search:focus{outline:2px solid var(--accent);outline-offset:-1px;border-color:transparent}
+  .search::placeholder{color:var(--ink3)}
+  .tabs{display:flex;gap:5px;overflow-x:auto;padding-bottom:3px;scrollbar-width:thin}
+  .tabs::-webkit-scrollbar{height:4px}
+  .tabs::-webkit-scrollbar-thumb{background:var(--line);border-radius:4px}
+  .tab{
+    flex:0 0 auto;padding:7px 13px;border:1px solid var(--line);border-radius:99px;
+    background:var(--panel);color:var(--ink2);font-size:.78rem;font-weight:600;
+    cursor:pointer;white-space:nowrap;font-family:inherit;transition:.12s;
+  }
+  .tab:hover{border-color:var(--accent);color:var(--ink)}
+  .tab.on{background:var(--accent);border-color:var(--accent);color:#fff}
+
+  /* ---------- cards ---------- */
+  .group-title{
+    font-size:.72rem;font-weight:800;letter-spacing:.1em;text-transform:uppercase;
+    color:var(--ink3);margin:26px 0 10px;
+  }
+  .card{
+    background:var(--panel);border:1px solid var(--line);border-radius:11px;
+    margin-bottom:12px;overflow:hidden;box-shadow:var(--shadow);
+  }
+  .card-head{
+    padding:13px 16px;border-bottom:1px solid var(--line2);
+    display:flex;align-items:baseline;gap:9px;flex-wrap:wrap;
+  }
+  .card-head h3{font-size:.95rem;font-weight:700;letter-spacing:-.01em}
+  .pill{
+    font-size:.65rem;font-weight:700;padding:2px 8px;border-radius:99px;
+    border:1px solid var(--line);color:var(--ink3);white-space:nowrap;
+  }
+  .card-body{padding:4px 16px 14px}
+
+  /* row = 항생제 / 진통제 / 보조 */
+  .row{display:flex;gap:12px;padding:12px 0;border-bottom:1px dashed var(--line2)}
+  .row:last-child{border-bottom:0}
+  .row-label{
+    flex:0 0 62px;font-size:.7rem;font-weight:800;color:var(--ink3);
+    letter-spacing:.03em;padding-top:2px;
+  }
+  .row-body{flex:1;min-width:0}
+  .verdict{
+    display:inline-block;font-size:.7rem;font-weight:800;padding:2px 9px;
+    border-radius:6px;margin-bottom:6px;border:1px solid;
+  }
+  .v-no{color:var(--no);background:var(--no-bg);border-color:var(--no-line)}
+  .v-yes{color:var(--yes);background:var(--yes-bg);border-color:var(--yes-line)}
+  .v-case{color:var(--case);background:var(--case-bg);border-color:var(--case-line)}
+  .v-never{color:var(--never);background:var(--never-bg);border-color:var(--never-line)}
+  .dose{font-size:.86rem;font-weight:600;line-height:1.55;margin-bottom:4px}
+  .dose em{font-style:normal;color:var(--accent);font-weight:700}
+  ul.notes{list-style:none;margin-top:5px}
+  ul.notes li{
+    font-size:.76rem;color:var(--ink2);line-height:1.5;padding-left:12px;
+    position:relative;margin-bottom:3px;
+  }
+  ul.notes li::before{content:'·';position:absolute;left:2px;color:var(--ink3);font-weight:800}
+  ul.notes li b{color:var(--ink);font-weight:700}
+
+  .src{
+    display:inline-block;font-size:.65rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;
+    color:var(--ink3);background:var(--line2);border-radius:4px;padding:1px 6px;margin:4px 4px 0 0;
+  }
+  .lvl{font-size:.64rem;font-weight:800;padding:1px 6px;border-radius:4px;margin-left:2px}
+  .lvl-s{color:var(--no);background:var(--no-bg)}
+  .lvl-m{color:var(--yes);background:var(--yes-bg)}
+  .lvl-w{color:var(--case);background:var(--case-bg)}
+
+  /* Rx copy block */
+  .rx{
+    margin-top:11px;background:var(--line2);border:1px dashed var(--line);
+    border-radius:8px;padding:10px 12px;position:relative;
+  }
+  .rx-t{font-size:.64rem;font-weight:800;color:var(--ink3);letter-spacing:.08em;margin-bottom:5px}
+  .rx pre{
+    font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:.75rem;
+    color:var(--ink);white-space:pre-wrap;line-height:1.7;word-break:break-word;
+  }
+  .copy{
+    position:absolute;top:8px;right:8px;border:1px solid var(--line);background:var(--panel);
+    color:var(--ink2);font-size:.66rem;font-weight:700;padding:3px 9px;border-radius:6px;
+    cursor:pointer;font-family:inherit;
+  }
+  .copy:hover{border-color:var(--accent);color:var(--accent)}
+  .copy.done{background:var(--accent);border-color:var(--accent);color:#fff}
+
+  .warn{
+    background:var(--never-bg);border:1px solid var(--never-line);border-radius:8px;
+    padding:9px 12px;margin-top:10px;font-size:.76rem;color:var(--ink);line-height:1.5;
+  }
+  .warn b{color:var(--never)}
+
+  /* tables */
+  .tablewrap{overflow-x:auto;-webkit-overflow-scrolling:touch;margin-top:6px}
+  table{border-collapse:collapse;width:100%;min-width:520px;font-size:.78rem}
+  th,td{padding:8px 10px;text-align:left;border-bottom:1px solid var(--line2);vertical-align:top}
+  th{font-size:.68rem;font-weight:800;color:var(--ink3);text-transform:uppercase;letter-spacing:.05em;
+     border-bottom:1px solid var(--line);white-space:nowrap}
+  td b{font-weight:700}
+  tr:last-child td{border-bottom:0}
+
+  /* negative list */
+  .neg{
+    display:flex;gap:11px;padding:11px 14px;background:var(--panel);
+    border:1px solid var(--line);border-left:3px solid var(--never);
+    border-radius:8px;margin-bottom:8px;box-shadow:var(--shadow);
+  }
+  .neg-n{
+    flex:0 0 22px;height:22px;border-radius:6px;background:var(--never-bg);color:var(--never);
+    font-size:.7rem;font-weight:800;display:flex;align-items:center;justify-content:center;
+  }
+  .neg-b{flex:1;min-width:0}
+  .neg-b .t{font-size:.84rem;font-weight:700;margin-bottom:2px}
+  .neg-b .d{font-size:.75rem;color:var(--ink2);line-height:1.5}
+
+  .hidden{display:none !important}
+  .empty{text-align:center;padding:50px 20px;color:var(--ink3);font-size:.85rem}
+
+  footer{
+    margin-top:34px;padding-top:16px;border-top:1px solid var(--line);
+    font-size:.72rem;color:var(--ink3);line-height:1.65;
+  }
+  footer a{color:var(--accent);text-decoration:none}
+  footer a:hover{text-decoration:underline}
+  .disclaimer{
+    background:var(--case-bg);border:1px solid var(--case-line);border-radius:8px;
+    padding:11px 14px;font-size:.75rem;color:var(--ink);line-height:1.6;margin-top:16px;
+  }
+</style>
+</head>
+<body>
+
+<div class="wrap">
+  <header>
+    <h1>처방 한 장으로 끝 <span class="thin">· 치과 처방 결정 레퍼런스</span></h1>
+    <p class="sub">발치 · 임플란트 · 근관 · 치주 · 치성감염 · 페니실린 알레르기 · 특수환자 — 처방 결정을 한 화면에서</p>
+    <p class="meta">2026-07-22 · LLM Wiki drug overview 5종 + 관련 논문 근거 · 모든 수치에 출처 표기</p>
+
+    <div class="rules">
+      <div class="rule"><b>① 통증 ≠ 감염</b><span>치수염·국소 근단농양·경증 치관주위염에 항생제는 치료가 아니다. 발수·근관·절개배농(DCDT)이 언제나 1차.</span></div>
+      <div class="rule"><b>② 전신징후가 유일한 스위치</b><span>발열 ≥38°C · 개구장애 · 림프절병증 · 확산 봉와직염 · 연하곤란 — 없으면 항생제 없음.</span></div>
+      <div class="rule"><b>③ 진통은 Ibu + APAP 교대</b><span>Ibuprofen 400 + Acetaminophen 1000이 최저 NNT ≈1.5. Opioid는 우월하지 않다.</span></div>
+      <div class="rule"><b>④ 쓸 땐 좁게·짧게</b><span>1차는 Amoxicillin. 배농이 되면 좁은 스펙트럼 = 광범위. 술후 24시간 초과 연장은 이득 0.</span></div>
+    </div>
+  </header>
+</div>
+
+<nav class="navbar">
+  <div class="wrap">
+    <input class="search" id="q" type="search" placeholder="약물명·처치·상황 검색 (예: 아목시실린, 매복, 임신, 신부전, 알레르기)" autocomplete="off">
+    <div class="tabs" id="tabs"></div>
+  </div>
+</nav>
+
+<div class="wrap">
+  <main id="out"></main>
+  <div class="empty hidden" id="empty">검색 결과가 없습니다.</div>
+
+  <div class="disclaimer">
+    <b>사용 범위</b> — 이 참조표는 위키가 실제로 보유한 논문에서만 수치를 인용했습니다. 최종 처방 판단·용량 조정·환자별 금기 확인은 처방의 책임입니다.
+    국내 허가사항·보험기준과 다를 수 있으며, 상품명은 계열 식별용 예시입니다.
+  </div>
+
+  <footer>
+    근거 출처 —
+    <a href="../overviews/drug-clinical-decision-ladder" target="_blank" rel="noopener">Drug 결정 사다리 허브</a> ·
+    <a href="../overviews/drug-antibiotic-odontogenic-pain-overview" target="_blank" rel="noopener">치성 통증·감염 항생제</a> ·
+    <a href="../overviews/drug-antibiotic-stewardship-overview" target="_blank" rel="noopener">항생제 스튜어드십</a> ·
+    <a href="../overviews/drug-analgesics-postop-pain-overview" target="_blank" rel="noopener">술후 진통제</a> ·
+    <a href="../overviews/drug-anticoagulant-antiplatelet-perioperative-overview" target="_blank" rel="noopener">항응고·항혈소판</a> ·
+    <a href="../overviews/drug-systemic-disease-dental-management-overview" target="_blank" rel="noopener">전신질환·다약제</a>
+    <br>
+    작업 명세: <code>agenda/2026-07-22_prescription-master-reference.md</code> · Class B 임상 결정 도구 (source_wiki 갱신 시 재작성 필요)
+  </footer>
+</div>
+
+<script>
+/* =========================================================================
+   데이터 — 모든 수치·용량은 source_wiki 페이지에서 인용. 임의 추가 금지.
+   v: 'no' 불필요 | 'yes' 적응 | 'case' 선택적 | 'never' 금기
+   lvl: 's' 강함 | 'm' 중간 | 'w' 약함/낮음
+   ========================================================================= */
+const TABS = [
+  ['ext',   '🦷 발치'],
+  ['imp',   '🔩 임플란트'],
+  ['endo',  '🪥 근관치료'],
+  ['perio', '🩸 치주'],
+  ['infx',  '🔥 치성감염·응급'],
+  ['aller', '⚠️ 페니실린 알레르기'],
+  ['spec',  '🧬 특수환자'],
+  ['never', '🚫 처방 금지 목록'],
+  ['ref',   '📚 약물표·근거등급']
+];
+
+const CARDS = [
+/* ================= 발치 ================= */
+{tab:'ext', g:'발치', t:'단순 발치 (건전 치열)', pill:'가장 흔한 케이스',
+ rows:[
+  {l:'항생제', v:'no', vt:'예방적 항생제 불필요',
+   dose:'처방하지 않는다',
+   notes:['Cochrane 3rd update — 무합병증 발치에서 예방 항생제는 <b>건성발치와(dry socket)·감염·통증 감소에 효과 없음</b>.',
+          '“Augmentin 3일” 관행은 근거가 없다 (스튜어드십 5룰 ①).'],
+   src:['Lodi 2021 Cochrane'], lvl:'s'},
+  {l:'진통제', v:'yes', vt:'Ibuprofen + APAP 교대',
+   dose:'<em>Ibuprofen 400 mg</em> / <em>Acetaminophen 1000 mg</em> — 4시간마다 <em>교대</em> × 48시간',
+   notes:['교대(alternate) 투약이 동시(concurrent)보다 우월 — 구제투약 필요 <b>15% vs 53%</b> (p=0.002).',
+          '각 약물의 단일 dose 간격은 8시간으로 유지되면서 4시간마다 진통이 들어가는 구조.',
+          '병용 NNT ≈ <b>1.5</b> (Ibuprofen 단독 ~2.5, APAP 단독 ~3.5).',
+          'Opioid(Oxycodone·Codeine·Tramadol)는 Network MA에서 <b>위약과 동등</b> — 처방 정당화 어려움.'],
+   src:['Gaballah 2025 RCT','Miroshnychenko 2023 NMA (82 RCT, n=9,095)','Moore 2015 Cochrane'], lvl:'s'},
+  {l:'술전', v:'case', vt:'통상 불필요',
+   dose:'환자가 이미 통증을 호소하면 술전 Ibuprofen 400 mg 1회',
+   notes:[], src:[], lvl:'m'}
+ ],
+ rx:'이부프로펜 400mg  1T  — 술후 즉시\n아세트아미노펜 1000mg  1T — 4시간 후\n→ 이후 4시간마다 두 약을 교대로, 48시간\n(항생제 없음)'},
+
+{tab:'ext', g:'발치', t:'매복 제3대구치 외과적 발치', pill:'술전 스테로이드가 핵심',
+ rows:[
+  {l:'항생제', v:'case', vt:'선택적 — case-by-case',
+   dose:'처방한다면 <em>Amoxicillin 2 g PO 단회 · 술전</em> (연장 코스 X)',
+   notes:['단순 발치엔 효과 미미, <b>매복·외과적 발치에 한정 적응</b> — 일관된 루틴 권고는 없다.',
+          'Network MA: 예방 항생제가 건성발치와 <b>NNT=25</b>, 수술부위감염 <b>NNT=18</b> — 높은 NNT는 “루틴”이 아니라 위험인자 기반 선별을 뜻한다.',
+          '제3대구치에서 술전 단회 Amoxicillin 2 g은 감염 위험 60–70% 감소 보고.',
+          '<b>술후 24시간 초과 연장 금지</b> — >72시간은 오히려 SSI 증가, >7일은 지연 SSI 유의 증가.'],
+   src:['De Angelis 2025 SR','Camps-Font 2024 NMA (16 RCT)','Mohammadpour 2025 스코핑 (125편)'], lvl:'m'},
+  {l:'술전약', v:'yes', vt:'NSAID가 아니라 코르티코스테로이드',
+   dose:'<em>Dexamethasone 4 mg IM 1회 · 술전</em> (주사 여건 없으면 3일 경구 프레드니솔론 테이퍼)',
+   notes:['술전 NSAID(preemptive)는 제3대구치에서 <b>효과 없음</b> (p=0.2227) — 술후 통증 peak가 12–24h라 술전 dose가 그 시점을 못 덮는다.',
+          '반면 술전 dexamethasone 4 mg IM 1회는 통증·개구량·부종 모두 개선: day7 VAS <b>0.4 vs 1.6</b> (p&lt;0.001), 개구 3.5 vs 2.7 cm, day7 부종 2.1 vs 2.8 cm. 이상반응 없음.',
+          '약동학 정합: dexamethasone 발현 3–4시간 → 술전 투여해야 술후 peak를 커버.',
+          '<b>코르티코스테로이드 계층 근거(4편 일관)</b>: 12 RCT SR-MA에서 부종(SMD 1.4 조기/1.1 후기)·개구제한(WMD 4.1mm 조기/2.7mm 후기) 유의 개선이나 통증은 비유의(WMD 0.4–0.5 VAS, P=.07/.4) — 다른 SR-MA(17편)도 동일 패턴, 구강악안면·악교정술 포괄 SR-MA는 감염위험 증가 없음(RR 1.004)도 확인. 즉 통증 감소만 기대해 단독 처방하는 근거는 약함.',
+          '주사 여건 없으면: RCT(n=15, split-mouth, 위약군 없음) — 3일 경구 프레드니솔론 테이퍼(5mg tid→bid→qd)가 단회 25mg보다 개구량·부종 유의 우수, 통증은 무차이 — n=15로 근거 약함.'],
+   src:['Costa 2015 Meta (n=420)','Tamgadge 2025 split-mouth RCT (n=60)','Markiewicz 2008 SR-MA','Almeida 2019 SR-MA','Dan 2010 SR-MA','Bakri 2024 RCT'], lvl:'m'},
+  {l:'진통제', v:'yes', vt:'단순 발치와 동일 + day 3까지',
+   dose:'<em>Ibuprofen 400 / APAP 1000 교대 q4h</em> — day 3까지 연장',
+   notes:['단회 NSAID 이상반응 순위는 대부분 <b>노세보</b> — NMA에서 약리적으로 불활성인 위약이 “위해” 2위였다. 이 수치로 NSAID를 1차에서 내리지 말 것.'],
+   src:['Magesty 2026 NMA (28 RCT, n=5,306)'], lvl:'w'}
+ ],
+ rx:'[술전] 덱사메타손 4mg  IM  1회\n[술전] 아목시실린 2g  PO 단회 — 위험인자 있을 때만\n[술후] 이부프로펜 400mg / 아세트아미노펜 1000mg 4시간 교대 × 3일'},
+
+{tab:'ext', g:'발치', t:'항응고·항혈소판 복용 환자 발치', pill:'중단하지 않는다',
+ rows:[
+  {l:'중단', v:'no', vt:'루틴 처치에 중단 불필요',
+   dose:'와파린(VKA): <em>INR ≤ 3.5</em> → 중단 없이 진행 · 3.5–4.0 선택적 연기 · &gt;4.0 모든 선택적 처치 연기',
+   notes:['처치 24–72시간 전 INR 확인.',
+          'DOAC — 침습도 최소 시술에서 <b>지속·단기중단 모두 허용</b>. 출혈을 결정하는 건 중단 여부가 아니라 <b>시술 침습도</b>(3치 초과·판막거상·골삭제).',
+          'DAPT 변경 전엔 심장내과 협진 — 단 스텐트 1년 내 비중단 발치도 안전.',
+          '<b>임플란트 특이적</b>: SR(19편) — OAT(INR 2–4) 유지 시 임플란트는 금기 아님, INR은 출혈 예측인자 아님(자가골이식·광범위피판 없는 단순 식립 한정). SR(10편, n=1,331, 8개 시술 카테고리 포함 임플란트) — VKA·NOAC 모두 유지가 헤파린 브리징보다 안전. 코호트(연세대, n=537) — 유지군 위험인자는 심방세동(OR=6.051)·비타민K억제제(OR=3.679); 시술 위험인자는 발치+골이식·다수 임플란트·상악 수술; 전 35건 출혈 국소 지혈로 해결.'],
+   src:['Inchingolo 2024 SR','Xiang 2026 SR+MA (n=8,663)','Yari 2023 (n=100)','Madrid 2009 SR','Chahine 2019 SR','Lee 2024 코호트'], lvl:'s'},
+  {l:'지혈', v:'yes', vt:'TXA가 지렛대',
+   dose:'<em>트라넥삼산(TXA) 4.8% 양치액 10 mL × 2분 · 1일 4회 · 7일</em> (삼키지 않도록 지도)',
+   notes:['출혈 <b>50–60% 감소</b> — 드레싱 선택보다 효과 크기가 크다.',
+          '양치액을 못 쓰는 상황(순응도 낮음·즉시 지혈): 정제 250–500 mg 분쇄 + 생리식염수 페이스트를 흡수성 스폰지에 적셔 발치와 충전.',
+          'Socket dressing은 <b>산화셀룰로오스(Surgicel) &gt; 젤라틴 스폰지(Gelfoam)</b> — 지혈·24h 지연출혈·치유·통증 모두 우위(p&lt;0.05).'],
+   src:['Inchingolo 2024 SR','Bergo 2026 scoping','Al-Suliman 2025 split-mouth'], lvl:'m'},
+  {l:'진통제', v:'case', vt:'Aspirin 환자는 APAP 우선',
+   dose:'Aspirin 복용 중이면 <em>Acetaminophen 우선</em> (Aspirin 항혈소판 효과 무영향)',
+   notes:['Ibuprofen이 꼭 필요하면 복용 타이밍 조절 — Aspirin 8시간 전 또는 30분 후.',
+          'Celecoxib는 이 상호작용에서 비교적 안전 (단, 임플란트 환자에겐 COX-2 selective 회피).'],
+   src:['항응고·항혈소판 overview §4'], lvl:'m'}
+ ],
+ rx:'트라넥삼산 4.8% 양치액 — 10mL 2분 함수, 1일 4회, 7일 (뱉을 것)\n발치와: 산화셀룰로오스 충전 + 봉합/압박\n진통: 아세트아미노펜 1000mg q6h (아스피린 복용 시 우선)'},
+
+/* ================= 임플란트 ================= */
+{tab:'imp', g:'임플란트', t:'통상 임플란트 식립 (건강 환자)', pill:'술전 단회 2 g — 그게 전부',
+ rows:[
+  {l:'항생제', v:'case', vt:'술전 단회, 또는 생략',
+   dose:'<em>Amoxicillin 2 g PO 단회 · 수술 1시간 전</em> — 다회 dose·연장 코스는 추가 효과 없음',
+   notes:['표준 권고는 술전 단일 2 g (Torof 2023 SR-MA).',
+          '<b>재검토 필요</b> — 위약대조·이중맹검 RCT만 모으면 조기 실패 감소가 유의하지 않다: RR 0.66 (0.30–1.47), <b>NNT=143</b> (CI 29–∞), GRADE 중간. 즉시식립을 빼면 방향이 역전(RR 1.10).',
+          '즉 <b>건강 환자의 통상 식립에서는 생략도 근거가 있다</b>. 잔여 이득은 발치 후 즉시식립에 국한될 가능성.',
+          '3–5일 코스 처방은 효능 동등하면서 내성·부작용만 늘린다 (스튜어드십 5룰 ②).'],
+   src:['Torof 2023 SR-MA','Momand 2024 SR-MA (7 RCT, n=1,859)','Esposito 2013 Cochrane'], lvl:'m'},
+  {l:'진통제', v:'yes', vt:'술전 preemptive가 유효한 술식',
+   dose:'<em>술전 30–60분 Ibuprofen 400 mg</em> → 술후 <em>Ibuprofen 400 / APAP 1000 교대</em> × 48시간',
+   notes:['제3대구치와 달리 <b>치주·임플란트 수술에서는 preemptive analgesia가 유효</b> — 1·3·6·8·24·72h 시점에서 유의한 통증 감소.',
+          '기전 가설: 술중 trauma가 술후 통증의 트리거라 술전 NSAID가 염증 캐스케이드를 차단.'],
+   src:['Gousias 2025 SR-MA (18 RCT, n=1,995)'], lvl:'m'},
+  {l:'보조', v:'yes', vt:'CHX 함수',
+   dose:'<em>Chlorhexidine 0.12% 1일 2회 · 2주</em>',
+   notes:[], src:['ridge preservation 프로토콜 관례'], lvl:'w'}
+ ],
+ warn:'<b>COX-2 선택적 억제제(Celecoxib·Etoricoxib) 회피</b> — 골형성 억제 → 골유착 저해 가능성 보고 (Etikala 2019, 임상 근거 부족·결론 유보). 비선택적 Ibuprofen·Naproxen 단기 사용은 안전.',
+ rx:'[술전] 아목시실린 2g PO — 수술 1시간 전, 단회\n[술전] 이부프로펜 400mg — 30~60분 전\n[술후] 이부프로펜 400 / 아세트아미노펜 1000 교대 q4h × 48h\n[보조] 클로르헥시딘 0.12% 가글 1일 2회 × 2주\n※ 셀레콕시브 등 COX-2 선택적 억제제 사용 금지'},
+
+{tab:'imp', g:'임플란트', t:'골이식 · GBR 동반', pill:'≤24시간까지',
+ rows:[
+  {l:'항생제', v:'case', vt:'perioperative ≤24시간',
+   dose:'술전 단회 + 필요 시 <em>술후 24시간 이내까지</em> — 그 이후 연장은 불필요',
+   notes:['복잡·골이식 임플란트는 perioperative ≤24h 허용, 이후 연장은 SSI를 줄이지 못하고 내성만 올린다.',
+          '일반외과 우산형 근거: 절개봉합 시점 즉시 중단 vs 24시간 이상 지속 → SSI 차이 없음 <b>RR 1.07 (0.97–1.17), p=0.22</b>. 술후 연장 예방은 de-implement 최우선 타깃.'],
+   src:['Mohammadpour 2025 스코핑','Bwire 2025 umbrella (9 reviews, n=80,483)'], lvl:'m'},
+  {l:'진통제', v:'yes', vt:'복합·성형 수술은 SAID 고려',
+   dose:'술전 Ibuprofen 400 + 술후 교대 · <em>GBR·연조직증대는 Dexamethasone 등 SAID 고려</em>',
+   notes:['NSAID는 초기 통증(0–6h)에 우월, SAID는 48h 통증에 우월하며 부종·구제투약은 동등.',
+          'GBR·연조직증대처럼 무장력 치유가 중요한 복합/성형 수술엔 SAID 선호.'],
+   src:['Abusamak 2025 SR-MA (6 RCT, n=262)'], lvl:'m'}
+ ],
+ rx:'[술전] 아목시실린 2g PO 단회\n[술후] 필요 시 24시간 이내까지만 — 이후 연장 금지\n[진통] 이부프로펜 400 / 아세트아미노펜 1000 교대\n[복합 수술] 덱사메타손 등 SAID 고려'},
+
+{tab:'imp', g:'임플란트', t:'상악동 거상술 (Sinus Floor Elevation)', pill:'술후 연장은 고위험군만',
+ rows:[
+  {l:'항생제', v:'yes', vt:'술전 2 g — 술후 연장은 근거 낮음',
+   dose:'<em>Amoxicillin 2 g PO · 수술 1시간 전</em>',
+   notes:['술후 연장(Amoxicillin/Clavulanate 7–10일)은 <b>근거 낮음 — 고위험군에만 고려</b>.',
+          'Amoxicillin/Clavulanate와 단순 Amoxicillin은 감염 예방에서 <b>차이 없음</b>.',
+          '감염률 기준선: 치조정접근 <b>0.3–1.0%</b> / 측방창 접근 <b>1.7–2.9%</b>.',
+          '고위험 시나리오(항생제 적응 강화): 슈나이더막 천공 특히 &gt;10 mm · 흡연 · 기존 부비동염 · 전신 기저질환.',
+          '중증 감염 치료 시: Amoxicillin/Clavulanate 또는 Levofloxacin + 비강 스테로이드 + 충혈완화제; 불응 시 내시경 부비동 수술.'],
+   src:['Díaz 2025 umbrella (7 SR/MA, 18,900+명)'], lvl:'w'},
+  {l:'알레르기', v:'case', vt:'이 적응증에선 Clindamycin 유효',
+   dose:'<em>Clindamycin 300–600 mg q6–8h</em> (그 외 Cephalosporin·Azithromycin)',
+   notes:[], src:['Díaz 2025 umbrella'], lvl:'w'}
+ ],
+ rx:'[술전] 아목시실린 2g PO — 1시간 전\n[알레르기] 클린다마이신 300~600mg q6~8h\n[술후] 연장 코스는 고위험군(막천공>10mm·흡연·부비동염·전신질환)에만'},
+
+/* ================= 근관치료 ================= */
+{tab:'endo', g:'근관치료', t:'증상성 비가역 치수염 (SIP ± SAP)', pill:'항생제 강한 비권고',
+ rows:[
+  {l:'항생제', v:'never', vt:'금지 — 강한 비권고',
+   dose:'처방하지 않는다. <em>발수·근관치료(DCDT)로 의뢰</em>',
+   notes:['ADA 2019 CPG: SIP±SAP → 항생제 <b>강한 비권고</b>(확실성 낮음). 면역정상 성인 ≥18세.',
+          '항생제는 무혈관 치수 조직에 도달하지 못하고, 염증 매개체를 줄이지 못하며, 기계적 원인(괴사조직·정체공간)을 해결하지 못한다.',
+          '유럽(ESE) 지침도 동일 결론 — 그럼에도 유럽 치과의사 <b>40–86%</b>가 금기 상황에서 처방 중.'],
+   src:['Lockhart 2019 ADA CPG','Tampi 2019 SR+MA','Segura-Egea 2017 ESE'], lvl:'s'},
+  {l:'진통제', v:'yes', vt:'술전 통증 있으면 술전 투약부터',
+   dose:'<em>술전 Ibuprofen 600 mg</em> → 술후 <em>Ibuprofen 600 / APAP 1000 교대</em> × 2–3일',
+   notes:['근관치료 환자의 <b>술전 통증 prevalence 81%</b> (24h 후 40%, 1주 후 11%) — 술전·술후 진통제를 모두 고려해야 하는 이유.',
+          '술전 통증 동반 환자에서 Ibuprofen 600 mg이 위약 대비 6시간 유효.'],
+   src:['Pak 2011 SR-MA (72편)','Smith 2017 SR-MA'], lvl:'s'}
+ ],
+ rx:'[술전] 이부프로펜 600mg\n[술후] 이부프로펜 600mg / 아세트아미노펜 1000mg 교대 × 2~3일\n(항생제 없음 — 발수/근관치료가 치료)'},
+
+{tab:'endo', g:'근관치료', t:'응급 비가역 치수염 — 강한 진통이 필요할 때', pill:'시간대별로 약이 다르다',
+ rows:[
+  {l:'즉시 6–8h', v:'yes', vt:'Diclofenac 계열 · Ketorolac',
+   dose:'<em>Diclofenac potassium 50 mg</em> · 또는 <em>Diclofenac + APAP</em> · 또는 <em>Ketorolac</em>',
+   notes:['비가역 치수염 대구치에서 <b>Diclofenac K 50 mg이 Ibuprofen 400 mg보다 우수</b>.',
+          '단회 경구 NMA: 6–8h 최강은 Diclofenac+APAP (MD −6.28 vs 위약), 이어 Novafen(ibuprofen+APAP+caffeine), Ibuprofen+APAP.',
+          'Ketorolac은 6h에 비교 진통제 대비 유의 우수(SMD −0.82) + <b>구제투약 필요를 절반으로</b>(RR 0.50, I²=0%). 단 12·24h엔 차이 소실(반감기 ~6h).'],
+   src:['Vatankhah 2023 RCT','Kelidari 2026 NMA (n=347)','Ping 2026 SR-MA (7 RCT)'], lvl:'m'},
+  {l:'24h 지속', v:'yes', vt:'Naproxen · Novafen으로 전환',
+   dose:'<em>Naproxen</em> 또는 <em>Novafen</em>',
+   notes:['12–24h 지속 진통은 Naproxen·Novafen이 standout (24h MD 각 −2.48, −2.89).',
+          'Diclofenac+APAP는 12h에 유의성 소실, 24h엔 위약 수준으로 역전 → 장시간 커버엔 재투여나 장시간형 필요.',
+          'Tramadol은 작동하나 opioid 부작용 동반; alprazolam은 진통이 아닌 항불안 효과뿐 — 보조 진통제로 권장 안 함.'],
+   src:['Kelidari 2026 NMA'], lvl:'m'},
+  {l:'보조', v:'case', vt:'심한 통증엔 스테로이드',
+   dose:'단기 corticosteroid 보조 (처방의 협의)',
+   notes:['근관 술후통증에서 NSAIDs가 1차, corticosteroid 보조 유효, 술전 투여 병용이 최적.'],
+   src:['Di Spirito 2022 Overview of SRs','Samani 2025 NMA (16 RCT, n=2,021)'], lvl:'m'}
+ ],
+ warn:'<b>근본 치료는 발수(pulpectomy)다.</b> 진통제는 시간을 벌 뿐 — 이 카드의 약제는 DCDT를 대체하지 않는다.',
+ rx:'디클로페낙 칼륨 50mg — 즉시\n(6~8시간 강한 진통 필요 시) 케토롤락 고려\n(24시간 지속 커버) 나프록센 또는 노바펜으로 전환\n※ 발수 예약 필수'},
+
+{tab:'endo', g:'근관치료', t:'치수괴사 + 국소 급성 근단농양 (PN-LAAA)', pill:'지연처방 옵션',
+ rows:[
+  {l:'항생제', v:'no', vt:'원칙적으로 없음 — 조건부 비권고',
+   dose:'DCDT가 즉시 가능하면 <em>항생제 없음</em>',
+   notes:['ADA 2019: 치수괴사+국소농양 → 항생제 <b>비권고 선호</b>(조건부, 확실성 매우 낮음).',
+          '근거표(Tampi 2019): DCDT 병용 시 24h 통증 MD 0.09(p=0.69), 48h 0.39(p=0.14), 72h 0.12(p=0.59) — <b>전부 비유의</b>. 구강내 종창도 null.'],
+   src:['Lockhart 2019 ADA CPG','Tampi 2019 SR+MA'], lvl:'m'},
+  {l:'지연처방', v:'case', vt:'DCDT를 즉시 못 할 때만',
+   dose:'<em>Amoxicillin 500 mg 1일 3회</em> — “악화되면 그때 조제하라”는 <em>지연처방(delayed prescription)</em>',
+   notes:['접근성·야간 등으로 DCDT를 당장 잡을 수 없을 때의 옵션.',
+          '환자 만족도는 지연처방과 즉시처방이 동등(<b>91% vs 86%</b>, 중간 확실성)이면서, DCDT가 성공하면 항생제 위해를 피할 수 있다.'],
+   src:['Lockhart 2019 ADA CPG'], lvl:'m'},
+  {l:'전신징후', v:'yes', vt:'있으면 즉시 적응',
+   dose:'발열 ≥38°C · 개구장애 · 림프절병증 · 봉와직염 → <em>DCDT + Amoxicillin</em>, 확산 시 병원 에스컬레이션',
+   notes:[], src:['Segura-Egea 2017 ESE'], lvl:'s'}
+ ],
+ rx:'[즉시 처치 가능] 배농·발수 — 항생제 없음\n[처치 지연 불가피] 아목시실린 500mg 1일 3회 — 지연처방(악화 시에만 조제)\n[전신징후 동반] 아목시실린 + 즉시 배농, 확산 시 병원 전원'},
+
+{tab:'endo', g:'근관치료', t:'근관치료 후 예방 항생제', pill:'가장 흔한 과처방',
+ rows:[
+  {l:'항생제', v:'never', vt:'금지 — 근거 없음',
+   dose:'술전·술후 어느 쪽도 처방하지 않는다',
+   notes:['SR+MA 8 RCT(n=690): 술후 통증 6·12·24·48·72h <b>5개 시점 전부 유의하지 않음</b>(SMD −0.08~0.18). 부종 4 RCT도 전부 null.',
+          '술후 증상의 주 동인은 기계적(파일 debris 압출·불완전 debridement·flare-up)이지 전신 항생제로 잡히는 세균 증식이 아니다.',
+          '<b>현실</b>: 미국 전향 PBRN(n=1,723)에서 비수술적 근관치료 후 <b>5명 중 1명(19%)</b>이 항생제를 받았다. 게다가 소수인종·저학력 환자가 더 많이 받는 형평성 격차가 있었다 — 임상 필요도 차이가 아니다.'],
+   src:['Shamszadeh 2020 SR+MA','Law 2026 PBRN 전향 (153명 치과의사)'], lvl:'m'}
+ ]},
+
+/* ================= 치주 ================= */
+{tab:'perio', g:'치주', t:'비외과 치주치료 (SRP)', pill:'전신 항생제 루틴 X',
+ rows:[
+  {l:'전신항생제', v:'no', vt:'루틴 사용 지지 안 됨',
+   dose:'경도–중등도 치주염엔 <em>전신 항생제 없음</em>',
+   notes:['우산형 고찰(44 SR, 221 메타분석): 전신 항생제 보조로 CAL <b>+0.3 mm</b>(전체 낭)·<b>+0.4 mm</b>(중등도–깊은 낭), BoP −6.6% — 그러나 SR의 <b>65.6%가 AMSTAR-2 “매우 낮음”</b>이라 전체 근거 등급 “약함”.',
+          '절대 효과가 modest(0.3–0.5 mm)한 데 비해 내성 위험이 이를 초과.',
+          '전신 항생제는 EFP 2020 기준 <b>generalized stage III grade B/C(특히 젊은 환자)</b>에만.'],
+   src:['Botelho 2025 umbrella'], lvl:'w'},
+  {l:'국소전달', v:'yes', vt:'깊은 낭은 국소 우선',
+   dose:'잔존 낭 <em>≥6 mm</em> 부위 → 국소 전달(Doxycycline gel 등)',
+   notes:['국소 piperacillin+tazobactam 단일 세션 전달 = 전신 Amoxicillin+Metronidazole <b>7일 코스와 6개월 시점 통계적 동등</b>(PPD·CAL·BOP·세균 수 전부).',
+          '전신 코스를 국소 전달로 대체하면 내성 부담을 최소화하면서 효과를 유지 (스튜어드십 5룰 ⑤).'],
+   src:['Milinkovic 2025 RCT (n=38)'], lvl:'w'}
+ ]},
+
+{tab:'perio', g:'치주', t:'치주 수술 · 재생', pill:'preemptive 유효',
+ rows:[
+  {l:'진통제', v:'yes', vt:'술전 30–60분',
+   dose:'<em>술전 Ibuprofen 400 mg</em> → 술후 교대 요법',
+   notes:['치주·임플란트 수술에서 preemptive analgesia는 여러 시점에서 유의한 통증 감소.',
+          'NSAID는 초기(0–6h), SAID(dexamethasone)는 48h 통증에 우월 — 부종·구제투약은 동등.'],
+   src:['Gousias 2025 SR-MA','Abusamak 2025 SR-MA'], lvl:'m'},
+  {l:'국소항생제', v:'case', vt:'BOOST — 수술 2주 전',
+   dose:'<em>수술 2주 전 국소 Doxycycline gel</em> → 최소침습수술(MIST) + EMD + 이종골',
+   notes:['3중 맹검 RCT(n=60, stage III/IV): CAL 획득 <b>4.1 vs 3.2 mm</b>(p=0.019), 낭 폐쇄율 83.3% vs 60.0%, 복합 성공률 83.3% vs 46.7%(<b>NNT=2.73</b>), 골충전 3.5 vs 2.7 mm.',
+          '기전: BoP 100%→30% → 창상 초기 치유지수(EHI) 개선 → 1년 CAL/PPD/골재생 개선.',
+          '국소 항균제를 “보조”가 아니라 <b>수술 전 염증 최적화 도구</b>로 재위치시킨 근거.'],
+   src:['Aimetti 2025 RCT'], lvl:'m'}
+ ],
+ rx:'[술전 2주] 국소 독시사이클린 젤 — 재생수술 예정 부위\n[술전 30~60분] 이부프로펜 400mg\n[술후] 이부프로펜 400 / 아세트아미노펜 1000 교대\n[복합·성형 수술] 덱사메타손 등 SAID 고려'},
+
+{tab:'perio', g:'치주', t:'급성 치주농양 — “치주통증” 응급', pill:'치수생활력이 감별점',
+ rows:[
+  {l:'감별', v:'yes', vt:'먼저 치수 생활력 검사',
+   dose:'<em>치수 생활력(냉·EPT) 검사가 치근단농양과의 결정적 감별 기준</em>',
+   notes:['치주농양은 치근단 방사선투과상·발열·림프절 압통까지 동반해 급성 <b>치근단</b>농양과 임상적으로 감별 불가할 수 있다 — 생활치인데 근관치료로 가는 오진이 실제로 발생한다.',
+          '치주농양 → 치주치료(스케일링·debridement·배농) / 치근단농양 → 발수 ± 절개배농.'],
+   src:['Alharbi 2019 증례'], lvl:'w'},
+  {l:'1차 처치', v:'yes', vt:'배농 + debridement',
+   dose:'<em>배농과 조직 변연정리가 1차</em> — 전신 항균제는 국소·전신 인자에 따라 case-by-case',
+   notes:['기저 치주질환의 결정적 치료는 급성기가 조절된 <b>이후</b>에 시행.'],
+   src:['Herrera 2014 Periodontology 2000'], lvl:'w'},
+  {l:'약물', v:'case', vt:'전신징후 동반 시 예시 프로토콜',
+   dose:'CHX 0.2% 세척 · <em>Amoxicillin 500 mg TID × 7일</em> + <em>Metronidazole 500 mg TID × 7일</em> · <em>Naproxen 550 mg PRN</em> · CHX 0.12% 함수 BID × 2주 · day 3 스케일링·배농',
+   notes:['발열 38.0°C·악하 림프절 압통을 동반한 실제 증례의 처치 프로토콜 — 무증상 국소 농양에 그대로 복사하지 말 것.'],
+   src:['Alharbi 2019 증례 (n=1)'], lvl:'w'}
+ ],
+ rx:'0.2% 클로르헥시딘 치은연상 세척 + 배농\n아목시실린 500mg 1일 3회 × 7일 ┐ 전신징후 동반 시\n메트로니다졸 500mg 1일 3회 × 7일 ┘\n나프록센 550mg PRN\n클로르헥시딘 0.12% 함수 1일 2회 × 2주\nday 3 — 스케일링 및 배농'},
+
+{tab:'perio', g:'치주', t:'괴사성 치주질환 (NPD)', pill:'삼주징',
+ rows:[
+  {l:'진단', v:'yes', vt:'유두 괴사 · 출혈 · 통증',
+   dose:'세 징후가 함께 나오면 NPD',
+   notes:[], src:['Herrera 2014'], lvl:'w'},
+  {l:'처치', v:'yes', vt:'표재적 debridement + 메트로니다졸',
+   dose:'표재적 변연정리 + <em>Metronidazole</em>',
+   notes:['이 적응증은 급성 치주병변 중 전신 항균제가 표준으로 들어가는 드문 경우.'],
+   src:['Herrera 2014'], lvl:'w'}
+ ]},
+
+/* ================= 치성감염 ================= */
+{tab:'infx', g:'치성감염·응급', t:'STEP 0 — 항생제를 쓸지 정하는 단 하나의 관문', pill:'여기서 갈린다',
+ rows:[
+  {l:'게이트', v:'yes', vt:'전신 침범이 있는가?',
+   dose:'<em>발열 ≥38°C · 개구장애 · 림프절병증 · 확산 봉와직염 · 연하/호흡 곤란</em>',
+   notes:['<b>NO</b> → DCDT(발수·근관·절개배농)만. 항생제 없음.',
+          '<b>YES</b> → DCDT + Amoxicillin, 확산되면 병원 에스컬레이션.',
+          '항생제 사용은 감염이 이미 치과적 경계를 벗어난 조건에 한정된다 — ADA·ESE·급성 치성감염 근거가 독립적으로 같은 결론.'],
+   src:['Lockhart 2019 ADA','Segura-Egea 2017 ESE','Teoh 2021 SR'], lvl:'s'}
+ ],
+ warn:'<b>구강저 종창 · 호흡곤란 → 즉시 병원 전원.</b> Ludwig angina 위험.'},
+
+{tab:'infx', g:'치성감염·응급', t:'급성 치성 농양 — 배농이 가능한 경우', pill:'배농 > 항생제',
+ rows:[
+  {l:'1차', v:'yes', vt:'배농·감염원 제거',
+   dose:'<em>배농과 감염원 제거(발수·발치·절개배농)가 1차 개입</em>',
+   notes:['SR 내 한 연구에서 <b>배농 시 무항생제 = 광범위 항생제와 동일 결과</b>.',
+          '건강한 환자에서 배농이 가능하면 항생제 없이 관리하는 것이 정당화된다.'],
+   src:['Teoh 2021 SR (8편)'], lvl:'m'},
+  {l:'항생제', v:'case', vt:'필요하면 좁은 스펙트럼',
+   dose:'<em>Amoxicillin</em> → 혐기성 침범 의심 시 <em>Amoxicillin/Clavulanate</em> → (페니실린 알레르기) Clindamycin',
+   notes:['채택된 거의 모든 요법이 임상 성공 — 스펙트럼과 무관하게. <b>광범위 1차 처방은 정당화되지 않는다.</b>',
+          '지역 감수성 근거: amoxicillin-clavulanate 내성 4.9%로 4종 중 최저(clindamycin 25.8%·metronidazole 25.5%·penicillin 15.3%).',
+          '단 Clindamycin은 치과 항생제 중 치명률 최고(2.9/백만, 대부분 C. difficile).'],
+   src:['Teoh 2021 SR','Vavro 2024 (n=744, 10년)','Thornhill 2019 NHS'], lvl:'m'}
+ ],
+ rx:'절개배농 / 발수 / 발치 — 감염원 제거가 먼저\n(전신징후 있을 때) 아목시실린 500mg 1일 3회\n(혐기성 의심) 아목시실린/클라불라네이트\n※ 광범위 항생제 1차 처방 금지'},
+
+{tab:'infx', g:'치성감염·응급', t:'치관주위염 (Pericoronitis)', pill:'과처방 1~2위 진단',
+ rows:[
+  {l:'경·중등도', v:'no', vt:'국소 처치만',
+   dose:'<em>국소 세척 + 변연제거 + NSAID</em> — 항생제 없음',
+   notes:['1회차·비중증: operculectomy ± gingivoplasty, 즉시 발치는 하지 않는다.',
+          '2회차 이상: 발치 — 결정했으면 미루지 않는다.'],
+   src:['Schmidt 2021 SR (11편)'], lvl:'m'},
+  {l:'확산 시', v:'yes', vt:'발열·개구장애·연하곤란',
+   dose:'<em>Metronidazole + Amoxicillin</em> · 가능하면 배양 · 병원 고려',
+   notes:['페니실린 알레르기 시 <b>Erythromycin</b>.',
+          '구강저 종창·호흡곤란 → 즉시 병원 전원(Ludwig angina).'],
+   src:['Schmidt 2021 SR'], lvl:'m'},
+  {l:'현실', v:'never', vt:'왜 과처방되는가',
+   dose:'치과의사 <em>~75%</em>가 치관주위염에 항생제 처방 · 환자 코호트의 <em>&gt;50%</em>가 수령',
+   notes:['모든 진단 중 항생제 사용 <b>1~2위</b>.',
+          '자기인식은 있다: 91%가 내성 우려, 47.7%가 훈련 부족 느낌, 93%가 실용 지침 갱신 요구.',
+          '주 동인: 진단 불확실성(47.3%)·시간 압박(30%)·처치 지연 결정(72.5%).'],
+   src:['Schmidt 2021 SR Part B'], lvl:'m'}
+ ],
+ rx:'[경·중등도] 국소 세척 + 변연제거 + NSAID (항생제 없음)\n[확산·발열·개구장애] 아목시실린 + 메트로니다졸\n[페니실린 알레르기] 에리스로마이신\n[구강저 종창·호흡곤란] 즉시 병원 전원'},
+
+{tab:'infx', g:'치성감염·응급', t:'심경부 감염 · 입원 케이스 (한국 데이터)', pill:'경험적 페니실린 단독 부적절',
+ rows:[
+  {l:'주의', v:'never', vt:'penicillin 단독 경험요법 금지',
+   dose:'입원·중증 케이스는 <em>배양 필수</em>',
+   notes:['한국 단일센터 10년 후향(n=192, 302 균주): 치성 근막공간 농양에서 viridans streptococci의 penicillin-G 감수성이 <b>68.4% → 52.0%로 하락</b>.',
+          '3세대 cephalosporin은 <b>94–95% 유지</b>.',
+          '심경부 공간에는 내성 그람음성균 증가 — Klebsiella는 ampicillin에 <b>100% 내성</b>.'],
+   src:['Kwon 2023 (한국 후향, n=192)'], lvl:'m'}
+ ]},
+
+/* ================= 알레르기 ================= */
+{tab:'aller', g:'페니실린 알레르기', t:'STEP 1 — 알레르기 심각도부터 확인', pill:'분기점',
+ rows:[
+  {l:'문진', v:'yes', vt:'두드러기인가, 아나필락시스인가',
+   dose:'<em>두드러기 수준</em> → 세파계 신중 사용 가능 · <em>아나필락시스 이력</em> → 세파계 전체 금기',
+   notes:['페니실린–세파계 교차 알레르기는 <b>1~2%</b>.',
+          '반드시 심각도를 구분한 뒤 대체 약물을 정한다 — “페니실린 알레르기”라는 한 단어로 Clindamycin으로 직행하는 것이 가장 흔한 실수.'],
+   src:['알레르기 대체 참조 (2026-06-19)'], lvl:'w'}
+ ]},
+
+{tab:'aller', g:'페니실린 알레르기', t:'STEP 2 — 대체 항생제 선택', pill:'적응증에 따라 답이 다르다',
+ rows:[
+  {l:'1차', v:'yes', vt:'예방·일반 적응 — Cephalexin / Azithromycin',
+   dose:'<em>Cephalexin 2 g</em> 또는 <em>Azithromycin 500 mg</em> (예방 단회 기준)',
+   notes:['치과 스튜어드십의 현행 권고는 <b>Clindamycin에서 Cephalexin·Azithromycin으로 이동</b>했다 (5룰 ④).',
+          'Azithromycin은 <b>QT 연장</b> 주의 — 부정맥 이력·심혈관 환자 확인. 마크로라이드 사망의 주원인이 심장 부정맥이다.'],
+   src:['스튜어드십 overview 5룰 ④','Thornhill 2019 NHS'], lvl:'m'},
+  {l:'예외', v:'case', vt:'구강외과·상악동·IE 예방에선 Clindamycin 유효',
+   dose:'IE 예방 <em>Clindamycin 600 mg</em> · 상악동/구강외과 <em>300–600 mg q6–8h</em>',
+   notes:['구강외과 적응증에서는 Clindamycin이 알레르기 대안으로 계속 유효하며, 그람음성 커버가 필요하면 Gentamicin 추가.',
+          '<b>단, 비알레르기 환자에게 1차로 쓰는 것은 금지</b>.'],
+   src:['Vidovic-Juras 2024','Díaz 2025','Mohammadpour 2025'], lvl:'m'},
+  {l:'보조', v:'case', vt:'혐기성 커버 — Metronidazole',
+   dose:'<em>Metronidazole 250–500 mg 1일 3회 · 5–7일</em>',
+   notes:['알코올 “디설피람 반응”은 <b>근거가 약한 통념</b> — 후향 ED case-control(n=36)에서 0건, 11편 focused review에서도 인과 입증 사례 드묾.',
+          '다만 환자 안심·의무기록 차원에서 치료 중~종료 후 24–48시간 음주 자제 안내는 유지 가능. 최종 판단은 처방자 몫.'],
+   src:['Feldman 2023','Orire 2026'], lvl:'w'},
+  {l:'비권장', v:'never', vt:'Erythromycin은 치성감염에 무용',
+   dose:'치관주위염 알레르기 대안으로는 언급되나, 구강안면감염 커버는 나쁘다',
+   notes:['Prevotella 감수성 62%·Fusobacterium 66% — 경험적 선택으로 부적절.'],
+   src:['Chunduri 2012 (n=68)','Schmidt 2021'], lvl:'w'}
+ ],
+ rx:'[예방 단회] 세팔렉신 2g  또는 아지스로마이신 500mg\n[IE 고위험군 예방] 클린다마이신 600mg\n[구강외과·상악동] 클린다마이신 300~600mg q6~8h\n[혐기성 보조] 메트로니다졸 250~500mg 1일 3회 5~7일\n※ 아나필락시스 이력 → 세파계 전체 금기'},
+
+{tab:'aller', g:'페니실린 알레르기', t:'NSAID 알레르기 · 피린계 과민', pill:'진통제 쪽 대체',
+ rows:[
+  {l:'NSAID', v:'yes', vt:'Acetaminophen 단독',
+   dose:'<em>Acetaminophen 325–650 mg q4–6h</em> · 최대 3,000–4,000 mg/일 (간기능 정상 시)',
+   notes:['COX 억제 기전이 달라 NSAID 알레르기와 교차반응 없음.',
+          '음주자·간질환 → <b>2,000 mg/일 이하</b>.'],
+   src:['알레르기 대체 참조 (2026-06-19)'], lvl:'m'},
+  {l:'피린계', v:'never', vt:'심각도를 반드시 확인',
+   dose:'메타미졸·디피론·설피린 등 <em>피린계 과민 이력 → Acetaminophen 또는 비선택적 NSAID로 대체</em>',
+   notes:['독일 화상센터 17년 후향(n=68 조직검사 확진 SJS/TEN)에서 <b>메타미졸이 단일 최다 원인약물(8건)</b>, 알로푸리놀(7건)보다 많았다. 전체 사망률 <b>51%</b>.',
+          '“피린 알레르기”가 경미한 두드러기가 아닐 수 있다 — 과거 SJS/TEN 유사 반응 여부를 구분해서 물을 것.',
+          '이 논문의 높은 메타미졸 비율은 독일 처방 관행 반영 — 국가별 처방 데이터로 판단해야 한다. 국내에선 “설피린”이 일부 복합제에 포함되므로 성분 확인.'],
+   src:['Breidung 2025 (17년, n=68)'], lvl:'m'},
+  {l:'국소마취', v:'yes', vt:'영향 없음',
+   dose:'Lidocaine · Articaine 통상 사용 가능',
+   notes:[], src:['알레르기 대체 참조 (2026-06-19)'], lvl:'w'}
+ ]},
+
+/* ================= 특수환자 ================= */
+{tab:'spec', g:'특수환자', t:'신장 · 간 · 위장관', pill:'NSAID를 뺄 때',
+ rows:[
+  {l:'신장', v:'never', vt:'NSAID 회피',
+   dose:'<em>eGFR &lt;60 · 고령(&gt;75) · 탈수 · 이뇨제 병용 · NSAID 장기 복용</em> → NSAID 회피, <em>Acetaminophen 단독</em>',
+   notes:['NSAID는 급성신손상(AKI)의 독립 위험인자 — <b>OR 1.98</b>. Stage 3 AKI는 2년 생존율 악화(aHR 1.42).',
+          '만성신부전에선 HbA1c 신뢰도도 떨어진다(위양/위음).'],
+   src:['Gomes 2025 ICU 후향 (n=1,157)'], lvl:'m'},
+  {l:'간·음주', v:'case', vt:'APAP 상한 조정',
+   dose:'<em>Acetaminophen 2,000 mg/일 이하</em>',
+   notes:[], src:['알레르기 대체 참조'], lvl:'w'},
+  {l:'위장관', v:'case', vt:'단기라면 위험은 낮다',
+   dose:'치과 술후 진통은 보통 ≤7일 → 일반 인구에서 위장관 위험 무시 가능',
+   notes:['Ibuprofen OTC 용량(800–1,200 mg/일)은 처방 용량(1,800–2,400 mg/일)보다 위장관 부작용이 낮다.',
+          '<b>위궤양 병력 · warfarin · corticosteroid 동시 복용</b> 환자에서만 PPI 동반 또는 APAP로 전환.'],
+   src:['Rainsford 2009 review'], lvl:'s'}
+ ]},
+
+{tab:'spec', g:'특수환자', t:'임신 · 수유', pill:'세 축 모두 바뀐다',
+ rows:[
+  {l:'치료 자체', v:'yes', vt:'미루지 않는다',
+   dose:'방사선·국소마취·대부분의 약물 포함 <em>치과치료는 전 임신기 안전</em>',
+   notes:['ACOG Committee Opinion No.569(다학제 합의) — 치주치료가 조산·저체중아 감소로 이어진다는 근거는 없음(다수 메타분석)이지만, <b>미치료 구강질환이 치과치료 자체보다 모태·태아에 더 위험</b> — 임신을 이유로 필요한 치료를 미루지 말 것.',
+          '심내막염 예방적 항생제는 AHA 최고위험군 심장질환 환자에 한정, 임신 자체가 적응증 아님.'],
+   src:['ACOG 2013'], lvl:'s'},
+  {l:'진통제', v:'case', vt:'APAP 1차',
+   dose:'<em>Acetaminophen 1차</em> · <em>Ibuprofen은 임신 후기(≥30주) 금기</em>',
+   notes:[], src:['Drug 결정 사다리 Theme D'], lvl:'m'},
+  {l:'항생제', v:'yes', vt:'페니실린계 안전',
+   dose:'<em>Penicillin · Amoxicillin · Cephalosporin · Clindamycin 안전</em> / <em>Tetracycline · Fluoroquinolone 금기</em>',
+   notes:[], src:['Drug 결정 사다리 Theme D'], lvl:'m'},
+  {l:'국소마취', v:'yes', vt:'혈관수축제 선택이 핵심',
+   dose:'<em>Lidocaine + 1:100,000–200,000 Epinephrine만 사용</em> · <em>Felypressin 금기</em>(자궁수축) · Levonordefrin 회피',
+   notes:['국내 일부 제제에 Felypressin이 포함되어 있으므로 <b>제품 성분을 반드시 확인</b>한다.'],
+   src:['Uritu 2025 SR','Drug 결정 사다리 한국 조정 ④'], lvl:'m'}
+ ],
+ rx:'진통 — 아세트아미노펜 1차 (이부프로펜은 임신 30주 이후 금기)\n항생 — 아목시실린/세팔로스포린/클린다마이신 가능, 테트라사이클린·퀴놀론 금기\n마취 — 리도카인 + 1:200,000 에피네프린만 (펠리프레신 함유 제제 확인 후 배제)'},
+
+{tab:'spec', g:'특수환자', t:'소아', pill:'적응증은 성인과 동일',
+ rows:[
+  {l:'원칙', v:'no', vt:'전신 침범 시에만',
+   dose:'비가역 치수염·괴사치수·국소농양엔 <em>항생제 없음</em> — 성인과 같은 기준',
+   notes:['체중 기반 용량 + 최단 유효 기간 — <b>4 D’s</b>: 옳은 Drug · 옳은 Dose · De-escalation · 옳은 Duration.',
+          'IE 예방이 필요한 경우 Amoxicillin <b>50 mg/kg</b>(성인 2 g에 대응), 처치 30–60분 전.'],
+   src:['Goel 2020 review','Wilson 2021 AHA'], lvl:'m'},
+  {l:'위해', v:'never', vt:'조기 노출의 대가',
+   dose:'장내 미생물 불균형 · 비만 위험 · <em>법랑질 발달 결손</em> · 칸디다 중복감염 · 알레르기/천식 위험 · 설사',
+   notes:['아목시실린 노출이 <b>영구 제1대구치·상악 중절치</b>의 법랑질 결손과 연관 보고.',
+          '설사는 1일 2회보다 1일 3회 요법에서 더 잦다.',
+          '전 지구 항생제 소비량은 2000–2015년 65% 증가했고, 치과의사가 전체 처방의 7–11%를 차지한다.'],
+   src:['Goel 2020 review'], lvl:'w'},
+  {l:'DOX', v:'case', vt:'8세 미만 착색 위험 재평가',
+   dose:'단기(≤10일) Doxycycline의 치아 착색 위험은 <em>과거 통념보다 훨씬 낮다</em>',
+   notes:['SR+MA(5편, n=162, 8세 미만): 착색 <b>1/162명(0.62%)</b> — 그것도 미숙아 신생아 1건. 영구치 착색 <b>0/137명(0%)</b>.',
+          '약리 근거: DOX의 칼슘 결합력 19% vs 테트라사이클린 39.5%.',
+          '<b>생명위협 적응증(RMSF·쓰쓰가무시병 등)에 한정</b> — 일반 치과 감염엔 대안을 유지한다.'],
+   src:['Rajan 2025 SR+MA'], lvl:'w'}
+ ]},
+
+{tab:'spec', g:'특수환자', t:'고령 · 다약제 (Polypharmacy)', pill:'DDI 40.7%',
+ rows:[
+  {l:'DDI', v:'yes', vt:'매번 약물 목록을 갱신한다',
+   dose:'고령 환자의 <em>40.7%</em>가 약물상호작용 보유 — 처방자 인식률은 <em>42.7%</em>에 불과',
+   notes:['대표 major DDI = <b>Epinephrine + β-blocker</b>. 비선택적 β-blocker(Propranolol) 복용 시 희석·용량 최소화·BP/HR 모니터링.',
+          'Major DDI는 31–60세 심혈관질환 환자에 집중.',
+          '고령·CKD에선 NSAID 회피(AKI OR 1.98)하고 APAP로.'],
+   src:['Pyo 2026','Colibasanu 2025','Gomes 2025'], lvl:'m'},
+  {l:'마취', v:'yes', vt:'1:200,000이 기본값',
+   dose:'<em>Lidocaine + 1:200,000 Epinephrine</em> — 1:80,000과 진통 동등하면서 혈역학적으로 더 안전',
+   notes:['심혈관질환·고혈압·갑상선항진증 환자 포함 1차 선택.'],
+   src:['Karm 2017 RCT (n=51)'], lvl:'m'}
+ ]},
+
+{tab:'spec', g:'특수환자', t:'감염성 심내막염(IE) 예방', pill:'4개 군만',
+ rows:[
+  {l:'적응', v:'yes', vt:'최고위험 4개 군에 한정',
+   dose:'<em>인공판막 · 과거 IE 병력 · 선천성 청색 심장병 · 심장이식 후 판막병변</em>',
+   notes:['중·저위험군은 <b>권고하지 않는다</b> — SR-MA(IE 1,152,345례)에서 고위험군에서만 유의 감소.',
+          '2007년 완화 이후 viridans-IE 빈도·치명률이 증가하지 않았다.',
+          '<b>인공관절은 루틴 적응증이 아니다</b>(AAOS/ADA 2012 이후).',
+          '소아 선천성 심장질환에서 균혈증 감소는 확인되나(OR 0.24) IE 예방 직접 근거는 GRADE 매우 낮음 — 일상 구강위생 최적화가 누적 균혈증을 더 줄인다.'],
+   src:['Wilson 2021 AHA','Sperotto 2024 SR-MA (n=1.15M)','Loper 2025 SR','Vidovic-Juras 2024'], lvl:'s'},
+  {l:'용량', v:'yes', vt:'단회 · 처치 30–60분 전',
+   dose:'<em>Amoxicillin 2 g PO</em> (소아 <em>50 mg/kg</em>) · 페니실린 알레르기 시 <em>Clindamycin 600 mg</em>',
+   notes:[], src:['Wilson 2021 AHA','Vidovic-Juras 2024'], lvl:'s'}
+ ],
+ rx:'아목시실린 2g PO — 처치 30~60분 전, 단회\n소아: 50mg/kg\n페니실린 알레르기: 클린다마이신 600mg\n※ 인공관절 환자는 루틴 예방 대상이 아님'},
+
+{tab:'spec', g:'특수환자', t:'항흡수제 복용 (MRONJ 위험)', pill:'1차 예방이 최강',
+ rows:[
+  {l:'예방', v:'yes', vt:'약 시작 전 치과 클리어런스',
+   dose:'<em>항흡수제 시작 전 치과 클리어런스가 가장 효과적인 예방</em>',
+   notes:['Denosumab 누적 dose <b>≥32</b>에서 MRONJ 위험 <b>31.2%</b>, 발치력 <b>OR 4.40</b>.'],
+   src:['Ruggiero 2022 AAOMS','Yokoo 2025 cohort','Li 2024 SR'], lvl:'m'},
+  {l:'항생제', v:'yes', vt:'IV BP·항혈관생성제는 예방 적응',
+   dose:'침습적 처치 전 <em>예방적 항생제 적응</em> (Amoxicillin 계열)',
+   notes:['MRONJ stage 2 관리: Amoxicillin ± Metronidazole + CHX + 보존적 debridement.',
+          '<b>주의</b>: NSAID도 MRONJ 위험인자로 거론된다.'],
+   src:['Vidovic-Juras 2024','Baghalipour 2025 review'], lvl:'w'}
+ ]},
+
+{tab:'spec', g:'특수환자', t:'당뇨 · 임플란트', pill:'HbA1c로 갈린다',
+ rows:[
+  {l:'임계', v:'yes', vt:'조절 당뇨는 금기가 아니다',
+   dose:'<em>HbA1c &lt;7.0%</em> 정상에 준함 · <em>7.0–9.0%</em> 식립 가능 + 모니터링 강화 + CHX 함수 · <em>&gt;9.0%</em> 연기·내과 협진',
+   notes:['전체 DM 임플란트 실패 <b>OR 1.78</b>, T1DM은 T2DM 대비 <b>OR 4.48</b>. 변연골소실 +0.776 mm, 상악&gt;하악 실패율.',
+          '<b>HbA1c 함정</b>: Hb 변이·빈혈·용혈·수혈·만성신부전에서 위양/위음 가능 — 단독 신뢰 금지, 공복·random glucose 병행.'],
+   src:['Wagner 2022 SR','Al-Ansari 2022 SR-MA (89편)','Chen 2022','Weykamp 2013'], lvl:'m'}
+ ]},
+
+/* ================= 금지 목록 ================= */
+{tab:'never', g:'처방 금지 목록', t:'', neg:[
+ ['단순 발치 후 Augmentin 3일','무합병증 발치에서 예방 항생제는 건성발치와·감염·통증 감소 효과가 없다. 관행일 뿐 근거가 없다. — Lodi 2021 Cochrane'],
+ ['근관치료 후 예방 항생제','8 RCT(n=690) 5개 시점 전부 비유의. 그런데 실제로는 5명 중 1명(19%)이 받고 있다. — Shamszadeh 2020 / Law 2026'],
+ ['증상성 비가역 치수염에 항생제','ADA 2019 강한 비권고. 항생제는 무혈관 치수에 도달하지 못한다. — Lockhart 2019'],
+ ['전신징후 없는 치근단치주염에 항생제','근관치료가 1차. 비적응 케이스에 광범위 항생제가 흔하다. — Mendez-Millan 2024'],
+ ['경·중등도 치관주위염에 항생제','국소 세척·변연제거가 1차. 그런데 치과의사 ~75%가 처방한다. — Schmidt 2021'],
+ ['임플란트 3–5일 항생제 코스','술전 단회 2 g과 효능 동등하면서 내성·부작용만 늘린다. — Torof 2023'],
+ ['상악동거상술 술후 7–10일 루틴 연장','술후 연장은 근거 낮음 — 고위험군에만. — Díaz 2025'],
+ ['술후 24시간 초과 예방 연장','SSI를 줄이지 못한다. >72시간은 오히려 SSI 증가, >7일은 지연 SSI 유의 증가. — Mohammadpour 2025 / Bwire 2025'],
+ ['비알레르기 환자에게 Clindamycin 1차','치명률 2.9/백만으로 치과 항생제 중 최고(Amoxicillin의 약 29배), 대부분 C. difficile. — Thornhill 2019'],
+ ['광범위 항생제 1차 처방','배농이 확립되면 좁은 스펙트럼 = 광범위. 거의 모든 요법이 임상 성공했다. — Teoh 2021'],
+ ['인공관절 환자 루틴 예방','AAOS/ADA 2012 이후 루틴 적응증이 아니다. — Vidovic-Juras 2024'],
+ ['Opioid 1차 처방 (Tramadol 포함)','Hydrocodone+APAP는 전 시점에서 Ibuprofen+APAP에 열등. Oxycodone·Codeine·Tramadol은 Network MA에서 위약과 동등. — Feldman 2024 / Miroshnychenko 2023'],
+ ['임플란트 환자에게 COX-2 선택적 억제제','골형성 억제 → 골유착 저해 가능성. 비선택적 Ibuprofen·Naproxen 단기는 안전. — Etikala 2019'],
+ ['제3대구치에 술전 NSAID(preemptive)','효과 없음(p=0.22). 술전에 쓸 약은 NSAID가 아니라 Dexamethasone 4 mg IM이다. — Costa 2015 / Tamgadge 2025']
+]},
+
+/* ================= 약물표 ================= */
+{tab:'ref', g:'약물표·근거등급', t:'항생제 안전성 — 무엇을 1차로 둘 것인가', pill:'NHS 7년 데이터',
+ table:{
+  head:['항생제','부작용 (백만 처방당)','치명률 (백만당)','판단'],
+  rows:[
+   ['<b>Amoxicillin</b>','21.5','<b>0.1</b>','<b>1차 선택.</b> 처방의 64.8%를 차지하면서 부작용률 최저. 아나필락시스는 가능.'],
+   ['Penicillin V','—','—','면역계 부작용(아나필락시스 포함) 최고.'],
+   ['Macrolides (Azithromycin·Clarithromycin)','—','QT 연장·심장사','심혈관·부정맥 환자 회피. 마크로라이드 사망의 주원인이 부정맥.'],
+   ['<b>Clindamycin</b>','—','<b>2.9 (최고)</b>','<b>1차 회피.</b> 대부분 C. difficile. 단 구강외과·IE 예방의 알레르기 대안으로는 유효.'],
+   ['Metronidazole','위장관','—','혐기성 보조. 음주 관련 “디설피람 반응”은 근거 약한 통념.']
+  ]},
+ src2:['Thornhill 2019 NHS 처방 데이터 + MHRA Yellow Card (2010–2017)']},
+
+{tab:'ref', g:'약물표·근거등급', t:'진통제 — 단회 투여 NNT', pill:'낮을수록 강함',
+ table:{
+  head:['요법','NNT','비고'],
+  rows:[
+   ['<b>Ibuprofen 400 mg + Acetaminophen 1000 mg</b>','<b>≈1.5</b>','1차 선택. Network MA·Cochrane overview 동일 결론.'],
+   ['Ibuprofen 400 mg 단독','≈2.5',''],
+   ['Acetaminophen 1000 mg 단독','≈3.5',''],
+   ['Oxycodone 5 mg','—','위약과 동등'],
+   ['Codeine 60 mg','—','위약과 동등'],
+   ['Tramadol 37.5 mg + APAP','—','위약과 동등 — 국내 처방 정당화 어려움'],
+   ['Tenoxicam 20 mg 1일 1회','—','위약 우월, 통상 NSAID와 동등~우월. Ibuprofen 불내성·순응도 문제 환자의 대체 옵션 (근거 중간).']
+  ]},
+ src2:['Miroshnychenko 2023 NMA (82 RCT, n=9,095)','Moore 2015 Cochrane overview','Altuhafy 2026 SR (9 RCT)']},
+
+{tab:'ref', g:'약물표·근거등급', t:'처치별 처방 요약 — 한 장 정리', pill:'전체 매트릭스',
+ table:{
+  head:['처치','항생제','술전','술후 진통'],
+  rows:[
+   ['단순 발치','<b>없음</b>','—','Ibu 400 / APAP 1000 교대 q4h × 48h'],
+   ['매복 제3대구치','case-by-case · 처방 시 술전 2 g 단회','<b>Dexamethasone 4 mg IM</b> (NSAID 아님)','동상, day 3까지'],
+   ['임플란트 (통상)','술전 Amoxicillin 2 g 단회 (생략 근거도 있음)','Ibuprofen 400, 30–60분 전','동상 × 48h · COX-2 selective 회피'],
+   ['임플란트 (골이식·GBR)','perioperative ≤24h','Ibuprofen 400','동상 · 복합 수술은 SAID 고려'],
+   ['상악동 거상술','술전 Amoxicillin 2 g · 연장은 고위험군만','—','동상'],
+   ['근관치료 (술전 통증)','<b>없음</b>','Ibuprofen 600','Ibu 600 / APAP 1000 교대 × 2–3일'],
+   ['응급 비가역 치수염','<b>없음</b>','—','Diclofenac K 50 mg · 6–8h Ketorolac · 24h Naproxen'],
+   ['SRP','<b>없음</b> (깊은 낭은 국소 전달)','—','—'],
+   ['치주 수술','—','Ibuprofen 400, 30–60분 전','동상 · 재생수술은 2주 전 국소 DOX'],
+   ['급성 치성감염','전신징후 있을 때만 Amoxicillin','—','—']
+  ]},
+ src2:['drug-analgesics-postop-pain-overview §7','drug-antibiotic-stewardship-overview §3']},
+
+{tab:'ref', g:'약물표·근거등급', t:'근거 등급 요약', pill:'무엇을 얼마나 믿을 것인가',
+ table:{
+  head:['주장','수준','출처'],
+  rows:[
+   ['Ibuprofen + APAP 병용이 최저 NNT','<b>강함</b>','Miroshnychenko 2023 NMA, Moore 2015 Cochrane'],
+   ['Opioid는 비-opioid 대비 우월하지 않음','<b>강함</b>','Feldman 2024 RCT (n=1,815), Watson 2022'],
+   ['단순 발치 예방 항생제 무효','<b>강함</b>','Lodi 2021 Cochrane'],
+   ['IE 예방은 4개 고위험군만','<b>강함</b>','Wilson 2021 AHA, Sperotto 2024 (n=1.15M)'],
+   ['Amoxicillin 최저 부작용·치명률 / Clindamycin 회피','<b>강함</b>','Thornhill 2019 NHS 7년'],
+   ['SIP에 항생제 무효, DCDT 1차','<b>강함</b>','Lockhart 2019, Tampi 2019, Segura-Egea 2017'],
+   ['술전 통증 있는 근관치료에 Ibuprofen 600 유효','<b>강함</b>','Smith 2017 SR-MA'],
+   ['Alternate &gt; Concurrent 투약','중간','Gaballah 2025 RCT (n=56)'],
+   ['임플란트 술전 단일 2 g','중간','Torof 2023 SR-MA'],
+   ['임플란트 루틴 예방 NNT=143','중간','Momand 2024 (blinded RCT only)'],
+   ['근관치료 후 예방 무효','중간','Shamszadeh 2020 (8 RCT, n=690)'],
+   ['술전 Dexamethasone이 제3대구치 통증·부종·개구 개선','중간','Tamgadge 2025 split-mouth RCT'],
+   ['치주 SRP 보조 전신 항생제 CAL 개선','<b>약함</b>','Botelho 2025 umbrella (SR 65.6% 매우 낮은 질)'],
+   ['상악동거상술 술전 예방 유효 / 술후 연장 불필요','<b>낮음</b>','Díaz 2025 umbrella'],
+   ['COX-2 selective가 골유착 저해 가능','<b>낮음</b>','Etikala 2019 narrative'],
+   ['단회 NSAID 이상반응 순위는 nocebo 주도','<b>낮음</b>','Magesty 2026 NMA (확실성 매우 낮음~낮음)']
+  ]},
+ src2:['각 overview의 “근거 수준 요약” 절']}
+];
+
+/* ========================= 렌더 ========================= */
+const tabsEl=document.getElementById('tabs');
+const out=document.getElementById('out');
+const emptyEl=document.getElementById('empty');
+const qEl=document.getElementById('q');
+let active=TABS[0][0];
+
+TABS.forEach(([id,label],i)=>{
+  const b=document.createElement('button');
+  b.className='tab'+(i===0?' on':''); b.textContent=label; b.dataset.tab=id;
+  b.onclick=()=>{active=id;qEl.value='';document.querySelectorAll('.tab').forEach(t=>t.classList.toggle('on',t.dataset.tab===id));render();window.scrollTo({top:0,behavior:'smooth'});};
+  tabsEl.appendChild(b);
+});
+
+const esc=s=>String(s).replace(/&(?![a-z]+;|#)/g,'&amp;');
+const VT={no:'v-no',yes:'v-yes',case:'v-case',never:'v-never'};
+const LV={s:['lvl-s','근거 강함'],m:['lvl-m','근거 중간'],w:['lvl-w','근거 약함/낮음']};
+
+function rowHTML(r){
+  const notes=(r.notes&&r.notes.length)?`<ul class="notes">${r.notes.map(n=>`<li>${n}</li>`).join('')}</ul>`:'';
+  const srcs=(r.src&&r.src.length)?r.src.map(s=>`<span class="src">${esc(s)}</span>`).join(''):'';
+  const lv=r.lvl?`<span class="lvl ${LV[r.lvl][0]}">${LV[r.lvl][1]}</span>`:'';
+  return `<div class="row">
+    <div class="row-label">${r.l}</div>
+    <div class="row-body">
+      <span class="verdict ${VT[r.v]}">${r.vt}</span>
+      <div class="dose">${r.dose}</div>
+      ${notes}
+      <div>${srcs}${lv}</div>
+    </div></div>`;
+}
+
+function cardHTML(c,idx){
+  if(c.neg){
+    return `<div data-card="${idx}">${c.neg.map((n,i)=>
+      `<div class="neg"><div class="neg-n">${i+1}</div><div class="neg-b">
+        <div class="t">${n[0]}</div><div class="d">${n[1]}</div></div></div>`).join('')}</div>`;
+  }
+  let body='';
+  if(c.rows) body+=c.rows.map(rowHTML).join('');
+  if(c.table){
+    body+=`<div class="tablewrap"><table><thead><tr>${c.table.head.map(h=>`<th>${h}</th>`).join('')}</tr></thead>
+      <tbody>${c.table.rows.map(r=>`<tr>${r.map(td=>`<td>${td}</td>`).join('')}</tr>`).join('')}</tbody></table></div>`;
+  }
+  if(c.src2) body+=`<div style="margin-top:8px">${c.src2.map(s=>`<span class="src">${esc(s)}</span>`).join('')}</div>`;
+  if(c.warn) body+=`<div class="warn">${c.warn}</div>`;
+  if(c.rx) body+=`<div class="rx"><div class="rx-t">처방문 (복사용)</div>
+      <button class="copy" data-rx="${idx}">복사</button><pre>${esc(c.rx)}</pre></div>`;
+  return `<div class="card" data-card="${idx}">
+    <div class="card-head"><h3>${c.t}</h3>${c.pill?`<span class="pill">${c.pill}</span>`:''}</div>
+    <div class="card-body">${body}</div></div>`;
+}
+
+function render(filter){
+  const f=(filter||'').trim().toLowerCase();
+  const list=CARDS.map((c,i)=>({c,i})).filter(({c})=>{
+    if(f) return JSON.stringify(c).toLowerCase().includes(f);
+    return c.tab===active;
+  });
+  emptyEl.classList.toggle('hidden',list.length>0);
+  let html='',lastG=null;
+  list.forEach(({c,i})=>{
+    if(c.g!==lastG){ html+=`<div class="group-title">${c.g}</div>`; lastG=c.g; }
+    html+=cardHTML(c,i);
+  });
+  out.innerHTML=html;
+  out.querySelectorAll('.copy').forEach(b=>{
+    b.onclick=()=>{
+      const txt=CARDS[+b.dataset.rx].rx;
+      const pre=b.parentElement.querySelector('pre');
+      const flash=(msg,ok)=>{
+        b.textContent=msg; b.classList.toggle('done',!!ok);
+        setTimeout(()=>{b.textContent='복사';b.classList.remove('done');},2200);
+      };
+      // 3단계: Clipboard API → execCommand → 텍스트 선택(길게 눌러 복사)
+      const legacy=()=>{
+        try{
+          const ta=document.createElement('textarea');
+          ta.value=txt; ta.setAttribute('readonly','');
+          ta.style.cssText='position:fixed;top:-1000px;opacity:0';
+          document.body.appendChild(ta); ta.select(); ta.setSelectionRange(0,txt.length);
+          const ok=document.execCommand('copy'); document.body.removeChild(ta);
+          return ok;
+        }catch(e){ return false; }
+      };
+      const selectText=()=>{
+        // 클립보드가 막힌 브라우저(일부 인앱 브라우저·WebView)에서의 최종 대비책 —
+        // 처방문을 선택 상태로 만들어 길게 눌러 복사할 수 있게 한다.
+        try{
+          const r=document.createRange(); r.selectNodeContents(pre);
+          const s=window.getSelection(); s.removeAllRanges(); s.addRange(r);
+          pre.scrollIntoView({block:'nearest'});
+          return true;
+        }catch(e){ return false; }
+      };
+      const fallback=()=>{ legacy() ? flash('복사됨 ✓',1)
+                                    : flash(selectText()?'길게 눌러 복사':'복사 실패'); };
+      if(navigator.clipboard && navigator.clipboard.writeText){
+        navigator.clipboard.writeText(txt).then(()=>flash('복사됨 ✓',1), fallback);
+      } else { fallback(); }
+    };
+  });
+}
+
+let t;
+qEl.addEventListener('input',e=>{
+  clearTimeout(t);
+  const v=e.target.value;
+  t=setTimeout(()=>{
+    document.querySelectorAll('.tab').forEach(x=>x.classList.toggle('on',!v&&x.dataset.tab===active));
+    render(v);
+  },140);
+});
+
+render();
+</script>
+</body>
+</html>

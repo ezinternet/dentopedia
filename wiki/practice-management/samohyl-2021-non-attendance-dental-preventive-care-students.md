@@ -6,7 +6,7 @@ date: 2021-02-01
 doi: 10.3390/ijerph18031295
 source: samohyl-2021-non-attendance-dental-preventive-care-students.md
 category: [practice-management]
-confidence: cross-sectional
+evidence_level: cross-sectional
 source_collection: pubmed-text
 full_text: true
 pmid: "33535551"
@@ -20,13 +20,21 @@ relations:
     target: alkhurayji-2024-factors-patient-failure-attend-dental
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Cross-sectional school-based survey (Slovakia, n=515 students aged 15-22 + 681 parents): male gender, older age, incomplete family, low household income, and home stress predicted non-attendance at dental preventive care; a parent's own avoidance of preventive care was the strongest independent predictor of the child's avoidance, and skipping pediatric care co-occurred with skipping dental care (AOR 5.14, 95% CI 2.40-10.99).
+Cross-sectional school-based survey (Bratislava, Slovakia; n=515 students aged 15–22 + 390 mothers + 291 fathers; 57 non-attenders vs 458 attenders) examining sociodemographic and family predictors of dental preventive-care non-attendance.
 
-## 한줄요약
+Parental non-attendance was the strongest independent predictor: maternal AOR 4.19 (95% CI 1.50–11.71) and paternal AOR 3.41 (1.24–9.32); joint dental + pediatric non-attendance AOR 5.14 (2.40–10.99), showing non-attendance is a cross-care health-behavior trait.
 
-슬로바키아 단면 학교 설문(학생 515명, 부모 681명): 남성·고연령·결손가정·저소득·가정 스트레스가 치과 예방진료 비참여를 예측했고, 부모 자신의 예방진료 기피가 자녀 기피의 가장 강력한 독립 예측인자였으며 소아과 진료 미수진과 동반됐다(AOR 5.14, 95% CI 2.40-10.99).
+Non-attendance is socially patterned and intergenerational — targeting the parent's own care behavior is a lever for improving adolescent recall; free preventive check-ups should extend beyond age 18, when school entitlement lapses but treatment need remains high.
+
+## 세줄요약
+
+슬로바키아 브라티슬라바 단면 학교 설문(학생 515명·어머니 390명·아버지 291명; 미수진자 57명 vs 수진자 458명): 치과 예방진료 비참여의 인구사회적·가족 예측인자 탐색.
+
+부모 자신의 예방진료 기피가 가장 강한 독립 예측인자(어머니 AOR 4.19, CI 1.50–11.71; 아버지 AOR 3.41, 1.24–9.32); 치과 + 소아과 공동 미수진 AOR 5.14(2.40–10.99) — 비참여는 치아에만 국한되지 않은 전반적 건강행동 특성.
+
+비참여는 사회경제적·세대간 패턴 — 부모의 예방진료 행동을 바꾸는 것이 청소년 리콜 향상의 핵심 지렛대이며, 학교 의무교육 종료 후(19세 이상)에도 무료 예방검진 제공이 필요함.
 
 ## Summary
 

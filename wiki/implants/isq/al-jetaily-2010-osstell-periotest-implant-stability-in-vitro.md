@@ -6,18 +6,28 @@ date: 2010-11-13
 doi: 10.1016/j.sdentj.2010.09.003
 source: al-jetaily-2010-osstell-periotest-implant-stability-in-vitro.md
 category: [implants/isq]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/al-jetaily-2010-osstell-periotest-implant-stability-in-vitro.pdf
 pdf_filename: al-jetaily-2010-osstell-periotest-implant-stability-in-vitro.pdf
 source_collection: external
 tags: [isq, osstell, periotest, rfa, implant-stability, in-vitro, calibration]
 ---
 
-## One-line Summary
-In vitro acrylic-cube study (n=49 implants, 3 sub-experiments): both Osstell (ISQ/RFA) and Periotest (PTV) detected interface differences and graded horizontal fixture exposure (P<0.001), but resonance-frequency Osstell was more reliable (smaller SDs) and uniquely tracked progressive interface stiffening (r=0.986); ISQ fell monotonically from ~70 to ~52 across 0–6 mm exposure and ISQ<55 marked the failure-risk zone.
+## Three-line Summary
 
-## 한줄요약
-시험관(in vitro) 연구, n=49 임플란트 (3개 부분실험) — 임플란트 안정성 지수 (Implant Stability Quotient, ISQ)와 Periotest 값 (Periotest Value, PTV)이 직접·연접 인터페이스 차이 (P<0.001)와 0/2/4/6 mm 수평노출 단계를 모두 검출했으나, 공명주파수분석 (Resonance Frequency Analysis, RFA) 기반 Osstell이 표준편차가 작고 경화 인터페이스의 강성 변화까지 추적해 더 신뢰성이 높았음. 임상 적용 한계: 아크릴 큐브·실리콘·자가중합 레진 인터페이스는 골 (bone) 실제 조건과 다르므로 ISQ 값의 절대 수치는 in vivo로 외삽할 수 없음.
+In vitro acrylic-cube study (n=49 implants, 3 sub-experiments) comparing Osstell (ISQ/RFA) vs Periotest (PTV) across simulated fibrous encapsulation, progressive crestal bone loss (0–6 mm exposure), and time-dependent interface stiffening.
+
+Both systems detected interface differences and graded horizontal exposure (P<0.001); Osstell was more reliable (smaller SDs) and uniquely tracked progressive stiffening (r=0.986), with ISQ declining monotonically from ~70 to ~52 across 0–6 mm exposure; ISQ <55 aligned with the published failure-risk threshold.
+
+Supports the clinical ISQ interpretation framework for loading decisions; absolute ISQ values in acrylic cannot be extrapolated to heterogeneous trabecular bone in vivo.
+
+## 세줄요약
+
+in vitro 아크릴 큐브 연구 (n=49 임플란트, 3개 부분실험) — Osstell (임플란트 안정성 지수/공명주파수분석, ISQ/RFA) vs Periotest (PTV)를 섬유성 피막, 점진적 수평 노출 (0–6 mm), 계면 경화 시나리오에서 비교.
+
+양 시스템이 인터페이스 차이와 수평 노출 단계 모두 검출(P<0.001); Osstell이 표준편차 더 작고(신뢰성 우수), 계면 경화도 추적 유일(r=0.986); ISQ는 0→6 mm 노출에서 ~70→~52로 단조 감소, ISQ <55가 실패 위험 구간과 일치.
+
+임상 ISQ 해석 프레임워크(부하 결정)를 지지; 균질 아크릴에서 측정한 절대 ISQ 수치는 이질적인 해면골 in vivo 조건으로 외삽 불가.
 
 ## Summary
 This in-vitro acrylic-cube study by Al-Jetaily and Al-Dosari directly compared the two leading implant-stability quantification systems — Osstell (resonance frequency analysis, ISQ) and Periotest (electronic percussion, PTV) — across three controlled scenarios designed to mimic the principal clinical failure modes: fibrous encapsulation, progressive crestal bone loss, and bone-interface stiffening over time. Forty-nine fixtures were embedded in acrylic cubes and tested in (1) hard vs soft interface, (2) four levels of horizontal fixture exposure (0, 2, 4, 6 mm), and (3) a hardening autopolymerizing resin interface.

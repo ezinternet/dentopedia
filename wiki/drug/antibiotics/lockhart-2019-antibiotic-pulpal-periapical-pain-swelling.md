@@ -6,7 +6,7 @@ date: 2019-11-01
 doi: 10.1016/j.adaj.2019.08.020
 source: lockhart-2019-antibiotic-pulpal-periapical-pain-swelling.md
 category: [drug/antibiotics]
-confidence: consensus
+evidence_level: consensus
 pdf_path: /Users/oracleneo/llm-wiki/papers/lockhart-2019-antibiotic-pulpal-periapical-pain-swelling.pdf
 pdf_filename: lockhart-2019-antibiotic-pulpal-periapical-pain-swelling.pdf
 source_collection: external
@@ -18,13 +18,21 @@ relations:
     target: lodi-2021-antibiotics-tooth-extraction-cochrane-sr
 ---
 
-## One-line Summary
+## Three-line Summary
 
-ADA evidence-based clinical practice guideline (expert panel, GRADE): for immunocompetent adults, do NOT prescribe antibiotics for symptomatic irreversible pulpitis ± apical periodontitis (strong, low certainty) or pulp necrosis + apical periodontitis/localized abscess (conditional, very low certainty) — definitive conservative dental treatment (pulpotomy/pulpectomy/RCT/I&D) is first-line; antibiotics only when DCDT is unavailable (delayed amoxicillin 500 mg TID) or systemic involvement is present.
+ADA evidence-based clinical practice guideline (expert panel, GRADE–AGREE-II) for immunocompetent adults ≥18 years with pulpal/periapical urgent dental pain; dental practitioners prescribe ~3rd most antibiotics among all US outpatient prescribers with 30–85% inappropriate/non-indicated rates.
 
-## 한줄요약
+Do NOT prescribe antibiotics for symptomatic irreversible pulpitis ± apical periodontitis (strong recommendation, low certainty) or pulp necrosis + apical periodontitis/localized abscess (conditional, very low certainty); definitive conservative dental treatment (DCDT: pulpotomy/pulpectomy/RCT/I&D) is first-line; when DCDT is immediately unavailable, offer delayed amoxicillin 500 mg TID; systemic involvement (fever, lymphadenopathy, cellulitis) warrants escalation.
 
-미국치과의사협회 (American Dental Association, ADA) 근거기반 임상진료지침(전문가 패널, GRADE): 면역정상 성인에서 증상성 비가역적 치수염 (Symptomatic Irreversible Pulpitis, SIP) ± 치근단치주염에 항생제 **금지**(강한 권고, 낮은 확실성), 치수괴사+치근단농양에도 비권장(조건부, 매우 낮은 확실성). 1차 = 결정적 보존 치과치료 (DCDT: 치수절단·치수절제·근관치료·절개배농); 항생제는 즉시 치료 불가(amoxicillin 500 mg 1일 3회 지연처방)·전신 침범 시에만.
+Inflammatory pulpitis is not an infection — antibiotics confer no benefit in the vast majority of presentations, while harms (resistance, C. difficile, anaphylaxis) carry moderate-certainty evidence of substantial burden.
+
+## 세줄요약
+
+미국치과의사협회(ADA) 근거기반 임상진료지침(전문가 패널, GRADE–AGREE-II): 면역정상 성인의 치수·치근단성 응급 통증/종창 대상; 치과의사는 미국 외래 항생제 처방 3위이며 치과 처방의 30–85%가 부적절.
+
+증상성 비가역적 치수염(Symptomatic Irreversible Pulpitis, SIP)±치근단치주염에 항생제 금지(강한 권고, 낮은 확실성); 치수괴사+국소농양에도 비처방 제안(조건부, 매우 낮음); 1차 = 결정적 보존 치과치료(Definitive Conservative Dental Treatment, DCDT); 즉시 DCDT 불가 시 아목시실린(Amoxicillin) 500 mg 1일 3회 지연처방.
+
+치수염은 감염이 아니므로 항생제 이득은 낮은 확실성인 반면, 내성·클로스트리듐 디피실리균(C. difficile)·아나필락시스 등 해악은 중등도 확실성으로 큰 부담 — 강한 비권고를 뒷받침.
 
 ## Summary
 
@@ -63,6 +71,6 @@ ADA evidence-based clinical practice guideline (expert panel, GRADE): for immuno
 
 ## Related Papers
 
-- [[drug/mendez-millan-2024-antibiotic-overprescription-apical-periodontitis-sr-ma]] — 치근단성 항생제 과처방을 정량화; 본 지침이 그 교정 표준(reinforces).
-- [[drug/lodi-2021-antibiotics-tooth-extraction-cochrane-sr]] — 발치 setting의 항생제 스튜어드십(본 지침 범위 밖)을 같은 원리로 적용(applies-to).
-- [[drug/sandulescu-2024-antibiotic-prescribing-dental-best-practices-review]] — 치과 항생제 처방 best practice; 본 지침과 정합.
+- [[drug/antibiotics/mendez-millan-2024-antibiotic-overprescription-apical-periodontitis-sr-ma]] — 치근단성 항생제 과처방을 정량화; 본 지침이 그 교정 표준(reinforces).
+- [[drug/antibiotics/lodi-2021-antibiotics-tooth-extraction-cochrane-sr]] — 발치 setting의 항생제 스튜어드십(본 지침 범위 밖)을 같은 원리로 적용(applies-to).
+- [[drug/antibiotics/sandulescu-2024-antibiotic-prescribing-dental-best-practices-review]] — 치과 항생제 처방 best practice; 본 지침과 정합.

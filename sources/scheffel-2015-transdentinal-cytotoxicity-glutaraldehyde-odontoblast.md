@@ -13,11 +13,21 @@ source_collection: external
 
 Gluma(글루타르알데히드)계 탈감작제의 치수 안전성 우려를 기초세포 수준에서 정량. [[dentin-hypersensitivity/jiang-2022-desensitizing-agents-permeability-cytotoxicity]]의 GLUMA 세포독성 소견을 기전적으로 뒷받침하고, [[overviews/dentin-hypersensitivity-overview]]의 안전성 단락 근거.
 
-## One-line Summary
+## Three-line Summary
+
 In vitro transdentinal model (MDPC-23 odontoblast-like cells under dentin discs) quantifying dose-dependent cytotoxicity of glutaraldehyde-containing desensitizing solutions/materials.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 In vitro 경상아질 모델(상아질 디스크 하 MDPC-23 오도노블라스트 유사세포): 글루타르알데히드 함유 탈감작제의 농도 의존적 세포독성을 정량.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - Journal of Dentistry, 2015. Authors incl. Pashley & Hebling (Araraquara/UNESP, Georgia Regents).

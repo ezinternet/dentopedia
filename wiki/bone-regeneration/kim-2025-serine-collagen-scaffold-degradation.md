@@ -6,7 +6,7 @@ date: 2025-12-18
 doi: 10.3390/jfb16120466
 source: kim-2025-serine-collagen-scaffold-degradation.md
 category: [bone-regeneration]
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/kim-2025-serine-collagen-scaffold-degradation.pdf
 pdf_filename: kim-2025-serine-collagen-scaffold-degradation.pdf
 source_collection: external
@@ -16,13 +16,21 @@ relations:
     target: wessing-2018-gbr-collagen-membranes-particulate-graft-sr-ma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Mouse subcutaneous model + in vitro: 40 wt% L-serine incorporation into bovine collagen scaffolds significantly slows degradation (2.70 vs 0.37 mm² residual area, p<0.05) without chemical crosslinking, demonstrating amino acid-assisted tuning of GBR membrane resorption.
+Mouse subcutaneous implantation study (3 groups: unmodified collagen, 40 wt% L-serine collagen, Bio-Gide) with serial sonography and histology to evaluate in vivo degradation kinetics of L-serine-incorporated Type I bovine collagen scaffolds.
 
-## 한줄요약
+40 wt% L-serine incorporation significantly slowed degradation (residual area 2.70 ± 1.45 mm² vs 0.37 ± 0.22 mm² for unmodified, p<0.05) without chemical crosslinking; Bio-Gide remained most persistent (5.64 mm²).
 
-마우스 피하 모델: L-세린(40 wt%) 콜라겐 스캐폴드는 화학적 가교 없이 분해를 유의하게 지연; Bio-Gide보다는 흡수 빠름. GBR 차단막 흡수 속도 조절의 비독성 대안 가능성 제시.
+L-serine provides a non-cytotoxic amino-acid-based approach to tuning collagen membrane resorption kinetics, but osteogenic efficacy and defect-specific performance remain to be validated in GBR bone models.
+
+## 세줄요약
+
+마우스 피하 이식 연구(3군: 비변형 콜라겐·40 wt% L-세린 콜라겐·Bio-Gide): 연속 초음파 및 조직학적 분해 속도 평가.
+
+L-세린 40 wt% 첨가로 분해 유의하게 지연(잔존면적 2.70 vs 0.37 mm², p<0.05); 화학적 가교 없이 약 7배 지속시간 연장; Bio-Gide는 여전히 더 지속적(5.64 mm²).
+
+L-세린은 세포독성 없는 아미노산 기반 흡수 속도 조절법을 제시하나, 골재생(GBR) 모델에서 골유도 효능 검증은 미완.
 
 ## Summary
 

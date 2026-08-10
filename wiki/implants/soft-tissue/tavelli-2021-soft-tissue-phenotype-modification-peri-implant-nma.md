@@ -6,7 +6,7 @@ date: 2021-01-01
 doi: 10.1002/JPER.19-0716
 source: tavelli-2021-soft-tissue-phenotype-modification-peri-implant-nma.md
 category: [implants/soft-tissue]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/tavelli-2021-soft-tissue-phenotype-modification-peri-implant-nma.pdf
 pdf_filename: tavelli-2021-soft-tissue-phenotype-modification-peri-implant-nma.pdf
 source_collection: external
@@ -20,13 +20,21 @@ relations:
     target: montero-2022-soft-tissue-substitutes-vs-autogenous-keratinized-mucosa-sr
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR + network meta-analysis (52 studies, 23 RCTs) comparing five soft tissue phenotype modification techniques around implants: CTG/ADM bilaminar ranks highest for mucosal thickness gain, APF+FGG ranks highest for keratinized mucosa width gain, and both pathways improve clinical peri-implant health markers.
+First network meta-analysis (52 studies, 23 RCTs) comparing five soft tissue phenotype modification techniques (CTG, ADM, CM bilaminar; APF±FGG/CTG/CM) around dental implants.
 
-## 한줄요약
+For mucosal thickness gain, CTG and ADM bilaminar are top-ranked; for keratinized mucosa width gain, APF+FGG is the only technique significantly superior to APF alone; both pathways improve probing depth, soft-tissue dehiscence, and plaque index.
 
-52편(RCT 23편) SR+NMA — 점막두께 증가는 CTG·ADM 이층술, 각화점막폭 증가는 APF+FGG가 최우선 기법이며 두 접근 모두 임플란트 주위 건강 지표(탐침깊이·변연골수준·플라크지수)를 유의하게 개선한다.
+Clinicians should select the technique based on the primary phenotype goal (thickness vs. width); bilaminar CTG/CM additionally offers marginal bone-level protection.
+
+## 세줄요약
+
+임플란트 주위 연조직 표현형 변형 기법 5가지를 비교한 최초의 네트워크 메타분석(SR+NMA, 52편, RCT 23편).
+
+점막두께(MT) 증가는 CTG·ADM 이층술이 최상위 기법, 각화점막폭(KMW) 증가는 APF+FGG만이 APF 단독 대비 유의하게 우월; 두 경로 모두 탐침깊이·dehiscence·플라크지수를 개선.
+
+임상 목표(두께 vs 폭)에 따라 기법을 선택해야 하며, CTG·CM 이층술은 추가로 변연골 보호 효과도 있음.
 
 ## Summary
 
@@ -80,8 +88,8 @@ Tavelli et al. (J Periodontol 2021) conducted the first network meta-analysis (N
 
 ## Related Papers
 
-- [[implants/thoma-2018-soft-tissue-augmentation-periimplant-health]] — predecessor SR+MA (pair-wise only, no NMA); this paper extends with network comparisons
-- [[implants/stefanini-2023-soft-tissue-augmentation-peri-implant-sr]] — later SR updating the soft tissue augmentation evidence base
-- [[implants/montero-2022-soft-tissue-substitutes-vs-autogenous-keratinized-mucosa-sr]] — SR specifically comparing substitutes vs autogenous grafts for KM augmentation
-- [[implants/sanz-martin-2022-buccal-soft-tissue-dehiscence-implants-sr-ma]] — SR+MA on buccal soft tissue dehiscence outcomes, contextualizes dehiscence reduction finding
+- [[implants/soft-tissue/thoma-2018-soft-tissue-augmentation-periimplant-health]] — predecessor SR+MA (pair-wise only, no NMA); this paper extends with network comparisons
+- [[implants/soft-tissue/stefanini-2023-soft-tissue-augmentation-peri-implant-sr]] — later SR updating the soft tissue augmentation evidence base
+- [[implants/soft-tissue/montero-2022-soft-tissue-substitutes-vs-autogenous-keratinized-mucosa-sr]] — SR specifically comparing substitutes vs autogenous grafts for KM augmentation
+- [[implants/soft-tissue/sanz-martin-2022-buccal-soft-tissue-dehiscence-implants-sr-ma]] — SR+MA on buccal soft tissue dehiscence outcomes, contextualizes dehiscence reduction finding
 - [[overviews/keratinized-mucosa-peri-implant-health-overview]] — synthesis overview incorporating this NMA's technique rankings

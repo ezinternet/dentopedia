@@ -13,13 +13,21 @@ source_collection: external
 
 각화점막 폭경(Keratinized Mucosa Width, KMW)이 임플란트 주위염 위험인자인지에 대한 문헌은 수십 년간 상충된 결과를 보여왔다. 이 우산 리뷰는 기존 10개 SR/MA를 집대성하여 KMW ≥2 mm 기준의 임상적 근거를 종합한다는 점에서, 기존 개별 SR 논문인 [[implants/peri-implantitis/roccuzzo-2025-keratinized-mucosa-peri-implant-20year-mandible]]에서 제시된 20년 장기 단일기관 관찰 결과를 보강하고 더 넓은 증거 기반으로 확장한다.
 
-## One-line Summary
+## Three-line Summary
 
-Umbrella review of 10 SRs/MAs (7,139 participants) finds that keratinized mucosa width ≥2 mm is consistently associated with reduced peri-implant inflammation, plaque accumulation, mucosal recession, and peri-implantitis risk, though evidence on bleeding and long-term survival remains inconclusive.
+Umbrella review synthesizing 10 SRs/MAs encompassing 7,139 participants and 132 primary studies, assessing the association between keratinized mucosa width (KMW) and peri-implant health outcomes including inflammation, bone loss, and peri-implantitis.
 
-## 한줄요약
+KMW ≥2 mm is consistently associated with reduced peri-implant inflammation (plaque index P=0.002), mucosal recession, and peri-implantitis risk (OR=2.78 for KM deficiency), while soft tissue grafting (FGG > XCM) effectively augments KMW.
 
-10개 SR/MA(7,139명) 우산 리뷰: 각화점막 폭경 ≥2 mm이 임플란트 주위 염증·치태·점막퇴축·주위염 위험 감소와 일관되게 연관되나, 출혈 및 장기 생존율 근거는 아직 불충분하다.
+High heterogeneity across primary studies (meta-analysis not feasible) and predominance of observational/retrospective data limits causal inference; long-term interventional data on implant survival remain insufficient, and the direct KM–peri-implantitis link remains incompletely resolved.
+
+## 세줄요약
+
+7,139명·132개 1차 연구를 포함한 10개 SR/MA 우산 리뷰로, 각화점막 폭경(KMW)과 임플란트 주위 건강 결과(염증, 골손실, 주위염)의 연관성을 평가한 종합 분석.
+
+KMW ≥2 mm은 임플란트 주위 염증(치태지수 P=0.002), 점막퇴축 및 주위염 위험(KM 결손 시 OR=2.78) 감소와 일관되게 연관되며, 연조직 이식(FGG > XCM)이 KMW 증대에 효과적.
+
+1차 연구 간 높은 이질성(메타분석 불가능)과 관찰/회고적 자료 주류로 인해 인과관계 입증 불가, 임플란트 생존율에 관한 장기 중재 자료 부족, KM 결손 및 주위염 발생의 직접적 연고 해명 불완전.
 
 ## 1. Document Information
 

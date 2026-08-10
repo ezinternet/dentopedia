@@ -11,15 +11,23 @@ source_collection: external
 
 ## Why Ingested
 
-The immediate-implant category and the timing-overview need a recent SR+MA that quantifies the survival gap between immediate and delayed placement at the pooled level. This 2023 Salford SR+MA (10 studies, 700 implants) provides the head-to-head pooled risk ratio (RR 0.99, no significant difference) that anchors the "survival is equivalent, the trade-offs live elsewhere" thesis. It reinforces [[overviews/implant-placement-timing-immediate-early-delayed]] and complements the site-specific molar evidence in [[immediate-implant/ragucci-2020-immediate-implant-molar-extraction-sockets]].
+The immediate-implant category and the timing-overview need a recent SR+MA that quantifies the survival gap between immediate and delayed placement at the pooled level. This 2023 Salford SR+MA (10 studies, 700 implants) provides the head-to-head pooled risk ratio (RR 0.99, no significant difference) that anchors the "survival is equivalent, the trade-offs live elsewhere" thesis. It reinforces [[overviews/implant-placement-timing-immediate-early-delayed]] and complements the site-specific molar evidence in [[immediate-implant/molar-septum/ragucci-2020-immediate-implant-molar-extraction-sockets]].
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (10 studies, 6 RCT + 4 non-randomised; 341 immediate vs 359 delayed implants) found no significant difference in implant survival between immediate and delayed placement (RR 0.99, 95% CI 0.96–1.02, p≈0.44, I²=0%), with immediate ~97.4% vs delayed ~97.5%.
+SR+MA (10 studies, 6 RCT + 4 non-randomised;
 
-## 한줄요약
+341 immediate vs 359 delayed implants) found no significant difference in implant survival between immediate and delayed placement (RR 0.99, 95% CI 0.96–1.02, p≈0.44, I²=0%), with immediate ~97.4% vs delayed ~97.5%.
 
-체계적 문헌고찰+메타분석 (10편, RCT 6 + 비무작위 4; 즉시 341 vs 지연 359 임플란트): 즉시식립과 지연식립 간 임플란트 생존율 차이 없음 (위험비 0.99, 95% CI 0.96–1.02, p≈0.44, I²=0%), 즉시 약 97.4% vs 지연 약 97.5%.
+(incomplete)
+
+## 세줄요약
+
+체계적 문헌고찰+메타분석 (10편, RCT 6 + 비무작위 4;
+
+즉시 341 vs 지연 359 임플란트): 즉시식립과 지연식립 간 임플란트 생존율 차이 없음 (위험비 0.99, 95% CI 0.96–1.02, p≈0.44, I²=0%), 즉시 약 97.4% vs 지연 약 97.5%.
+
+(incomplete)
 
 ## 1. Document Information
 
@@ -71,7 +79,7 @@ SR+MA (10 studies, 6 RCT + 4 non-randomised; 341 immediate vs 359 delayed implan
 
 - Updates **Chrcanovic et al. (2015)** prior review on placement timing.
 - Cites **Evian et al.** (149 implants, immediate 78.2% vs delayed 81.2% — low survival attributed to periodontal disease) and **Veitz-Keenan & Keenan** (survival 92–100% without periodontitis vs 79–100% with).
-- Within this wiki: complements [[immediate-implant/ragucci-2020-immediate-implant-molar-extraction-sockets]] (site-specific molar socket evidence) and feeds [[overviews/implant-placement-timing-immediate-early-delayed]].
+- Within this wiki: complements [[immediate-implant/molar-septum/ragucci-2020-immediate-implant-molar-extraction-sockets]] (site-specific molar socket evidence) and feeds [[overviews/implant-placement-timing-immediate-early-delayed]].
 
 ## 7. Glossary
 

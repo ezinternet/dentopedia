@@ -1,0 +1,49 @@
+{
+  "overview": "bms-orofacial-pain-neuropathic-mechanism-overview",
+  "date": "2026-07-23",
+  "title": "구강작열감증후군 신경병증 기전 — 리콜",
+  "source_wiki": [
+    "wiki/overviews/bms-orofacial-pain-neuropathic-mechanism-overview.md"
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "q": "일차성 구강작열감증후군(BMS)의 분자 substrate가 수렴하는 두 축은?",
+      "opts": [
+        "세균 감염과 진균 감염",
+        "억제 상실(탈억제, disinhibition) + 말초 소섬유 과흥분(peripheral nociceptor hyperexcitability) — 삼차신경척수핵 Sp5C에서 통합",
+        "타액 감소와 점막 위축",
+        "심리적 스트레스 단독"
+      ],
+      "ans": 1,
+      "rat": "일차성 BMS는 신경병성 통증으로, 분자 substrate가 '탈억제(disinhibition)' + '말초 nociceptor 과흥분' 두 축으로 수렴. 이 둘이 통합되는 해부학적 종착지는 삼차신경척수핵(Sp5), 특히 Sp5C — 신경병증성통증·삼차신경통·두통·BMS 4개 질환이 이 공유 중추감작 경로로 수렴(kim-2024). 억제 방향은 NKCC1/KCC2 균형(E_Cl)이 좌우.",
+      "cite": "overviews/bms-orofacial-pain-neuropathic-mechanism-overview"
+    },
+    {
+      "id": "q2",
+      "q": "BMS의 말초형과 중추형 아형 구분과 치료 함의는?",
+      "opts": [
+        "아형 구분은 무의미하다",
+        "말초형(말초 lidocaine 차단·국소 clonazepam 반응)과 중추형(국소치료 무반응·우울/불안 동반·선조체 도파민 결핍)으로 나뉘며 개인 내 중첩 — 아형이 치료 분기를 결정",
+        "모든 BMS는 중추형이다",
+        "말초형은 항우울제로만 치료"
+      ],
+      "ans": 1,
+      "rat": "BMS는 말초형(말초 lidocaine 차단·국소 clonazepam 반응)과 중추형(국소치료 무반응·우울/불안 동반·선조체 도파민 결핍)으로 나뉘며 개인 내 중첩(jaaskelainen-2018) — 아형이 치료 분기 결정. 말초형 객관 근거: 혀 생검 IENFD 30~60% 감소·TRPV1/P2X3/NGF 변화·Nav1.7 과발현·QST 냉각 역치 이상(kouri-2024).",
+      "cite": "overviews/bms-orofacial-pain-neuropathic-mechanism-overview"
+    },
+    {
+      "id": "q3",
+      "q": "국소 clonazepam이 BMS 말초형에 반응하는 기전적 논리는?",
+      "opts": [
+        "항불안 효과로 심리적 통증을 줄인다",
+        "GABA-A 작용제로 '탈억제 회복' 논리와 직접 연결(price-2009) — 무너진 GABA-A/glycine 억제를 복원",
+        "타액 분비를 촉진한다",
+        "세균을 억제한다"
+      ],
+      "ans": 1,
+      "rat": "국소 clonazepam(GABA-A 작용제)의 말초형 반응성은 '탈억제 회복' 논리(price-2009)와 직접 연결 — KCC2↓/NKCC1↑로 무너진 GABA-A·glycine 억제를 복원. T-type Ca²⁺(CaV3.2)/neurosteroid 축(allopregnanolone)은 폐경 후 여성 호발 BMS의 성호르몬·신경보호 스테로이드 저하 가설과 분자 접점 — 단 말초 Cl⁻·T-type 표적 진통제는 전임상 단계.",
+      "cite": "overviews/bms-orofacial-pain-neuropathic-mechanism-overview"
+    }
+  ]
+}

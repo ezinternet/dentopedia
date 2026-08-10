@@ -68,7 +68,7 @@ def compute_fs_stats():
         cats[top] += 1
         n_wiki += 1
         head = p.read_text(encoding="utf-8")[:1500]
-        c = fm_first(head, "confidence")
+        c = fm_first(head, "evidence_level") or fm_first(head, "confidence")
         if c and c.strip() in HIGH_EVIDENCE:
             n_hi += 1
 

@@ -6,7 +6,7 @@ date: 2026-01-06
 doi: 10.1016/j.prosdent.2025.12.019
 source: singh-2026-active-tactile-sensibility-implant-natural-teeth-sr.md
 category: [occlusion]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: false
 pmid: "41500885"
@@ -23,13 +23,21 @@ relations:
     target: assoratgoon-2025-occlusal-contact-changes-implant-supported-prostheses
 ---
 
-## One-line Summary
+## Three-line Summary
 
-PRISMA systematic review of 6 clinical studies (4 RCTs, 1 prospective cohort, 1 cross-sectional): single-implant active tactile sensibility (ATS) thresholds (10–100 µm) are consistently coarser than natural-tooth thresholds (<10–50 µm), but osseoperception improves over time with functional loading; immediate loading and occlusion against a natural antagonist accelerate sensory recovery — the physiological rationale for lighter implant occlusal contacts.
+PRISMA systematic review of 6 clinical studies (4 RCTs, 1 prospective cohort, 1 cross-sectional) comparing active tactile sensibility (ATS) thresholds of single implants versus contralateral natural teeth.
 
-## 한줄요약
+Single-implant ATS thresholds (10–100 µm) were consistently coarser than natural-tooth thresholds (<10–50 µm); osseoperception improved progressively over time, was enhanced by immediate loading, and was better when opposing a natural tooth than another implant.
 
-임상연구 6편(RCT 4·전향 1·단면 1)을 종합한 PRISMA 체계적 고찰: 단일 임플란트의 능동 촉각 감수성(Active Tactile Sensibility, ATS) 역치(10–100µm)는 자연치(<10–50µm)보다 일관되게 둔감하나, 기능적 부하로 골유착감각(osseoperception)이 시간경과로 개선된다. 즉시부하와 자연치 대합이 감각 회복을 가속 — 임플란트 교합을 더 가볍게 설계하는 생리학적 근거.
+The residual sensory deficit — even after adaptation — provides the mechanoreceptive rationale for establishing lighter occlusal contacts on implant restorations and favoring natural antagonists where possible.
+
+## 세줄요약
+
+단일 임플란트와 대측 자연치의 능동 촉각 감수성(Active Tactile Sensibility, ATS)을 비교한 임상연구 6편(RCT 4·전향적 코호트 1·단면 1)의 PRISMA 체계적 고찰.
+
+임플란트 ATS 역치(10–100 µm)는 자연치(<10–50 µm)보다 일관되게 둔감; 골유착감각(Osseoperception)은 기능 부하와 함께 시간 경과로 개선되며, 즉시부하 및 자연치 대합 시 더 빠르게 회복.
+
+감각 결손이 잔존하는 생리학적 근거로 임플란트 교합을 더 가볍게 설계하고 가능한 자연치 대합을 선호해야 함.
 
 > [!note] Abstract-only
 > Full text not retrieved (no PMC record). Summary and Results are reconstructed from the structured PubMed abstract; threshold ranges are as reported, but pooled estimates, risk-of-bias, and per-study detail are not available.

@@ -14,8 +14,21 @@ source_collection: external
 
 Extends [[overviews/socket-preservation-arp-overview]] into the socket-sealing dimension — the first network meta-analysis ranking sealing materials (autologous soft tissue > membranes > collagen matrix) rather than the bone graft itself, and complements the barrier-material evidence in [[overviews/gbr-barrier-membrane-overview]]. IAO consensus weight makes it practice-shaping.
 
-## One-line Summary
-SR + network meta-analysis (12 RCTs, 312 sites; IAO consensus paper) comparing biomaterials used to seal post-extraction sockets — autologous soft tissue grafts ranked best for horizontal ridge preservation; collagen membranes, d-PTFE, and acellular dermal matrices generally comparable.
+## Three-line Summary
+
+SR + network meta-analysis (12 RCTs, 312 extraction sites; IAO consensus paper; search to April 2021) comparing biomaterials used to seal post-extraction sockets, with SUCRA ranking for horizontal dimensional change.
+
+Autologous soft tissue grafts ranked highest for horizontal ridge preservation in both pairwise and NMA analyses; resorbable collagen membranes, d-PTFE, and acellular dermal matrices (ECM) showed no significant differences among themselves; buccal plate thickness >1 mm at baseline was a consistent predictor of better preservation.
+
+Evidence is limited by a sparse comparison network with some single-trial contrasts, high heterogeneity in tooth type and defect morphology, and co-administration of graft materials that prevents isolating the sealing effect alone.
+
+## 세줄요약
+
+SR + 네트워크 메타분석 (NMA; RCT 12편, 312개 발치와, IAO 컨센서스 논문; 검색 2021년 4월까지) — 발치와 봉합 재료를 SUCRA 기반으로 수평적 치조제 변화에 대해 순위 매겼다.
+
+자가 연조직 이식재가 수평 치조제 보존에 가장 높은 순위를 기록했으며, 흡수성 콜라겐 막·d-PTFE·탈세포 진피 기질(ECM) 간에는 유의한 차이가 없었다. 기저 구순측 골판 두께 >1 mm는 일관된 좋은 결과 예측 인자였다.
+
+비교 네트워크가 희소해 일부 대조는 단일 연구에 기반하고, 치아 유형·결손 형태 이질성이 높으며, 이식재를 함께 사용해 봉합 효과만을 분리하기 어렵다는 한계가 있다.
 
 ## 1. Document Information
 - **Journal**: Clinical Oral Investigations 2022;26(2):1137–1154 (online 2022)

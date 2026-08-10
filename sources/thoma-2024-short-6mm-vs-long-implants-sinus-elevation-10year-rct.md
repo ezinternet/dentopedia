@@ -13,13 +13,21 @@ source_collection: external
 
 [[overviews/short-implant-vs-sinus-augmentation-decision]] 의 가장 약한 고리였던 "≥5년 장기 근거 부족"을 직접 채우는 10년 RCT라 인제스트. 기존 SR/MA들([[sinus-lift/lateral/mester-2023-short-vs-standard-implants-sinus-floor-elevation-sr-ma]], [[sinus-lift/lateral/aleman-2025-short-vs-long-implants-sinus-lift-5yr-sr-ma]])이 pooling한 단편 RCT들과 달리 단일 코호트 10년 추적으로, short implant 비열등 thesis에 최장기 1차 근거를 제공.
 
-## One-line Summary
+## Three-line Summary
 
 Multi-centre RCT 10-year data (77 patients, 105 implants) showing 6 mm short implants and 11–15 mm long implants + sinus floor elevation have similar survival (96.0% vs 100%), identical median MBL (0.00 mm), and comparable OHIP — supporting short implants as an alternative with less morbidity and lower cost.
 
-## 한줄요약
+(incomplete)
 
-다기관 RCT 10년 데이터(환자 77명, 임플란트 105개) — 6 mm short implant vs 11–15 mm long implant+상악동거상의 생존율(96.0% vs 100%)·중앙값 MBL(0.00 mm)·OHIP 유사; short implant가 이환·비용 낮은 대안.
+(incomplete)
+
+## 세줄요약
+
+다기관 RCT 10년 데이터(환자 77명, 임플란트 105개) — 6 mm short implant vs 11–15 mm long implant+상악동거상의 생존율(96.0% vs 100%)·중앙값 MBL(0.00 mm)·OHIP 유사;
+
+short implant가 이환·비용 낮은 대안.
+
+(incomplete)
 
 ## 1. Document Information
 - J Clin Periodontol 2024. DOI: 10.1111/jcpe.13954.

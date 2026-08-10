@@ -17,13 +17,21 @@ text_filename: yilmaz-2025-interdental-cleaning-tool-sustainability-rct.txt
 
 Existing interdental-cleaning RCTs in the wiki (e.g. [[interdental-cleaning/mancinelli-lyle-2024-water-flosser-vs-interdental-brush-rct]]) compare device *efficacy* over short 2–4 week windows, but the limiting factor in primary prevention is whether patients keep using the device at all. This is the first RCT to directly compare the long-term *sustainability of regular use* (adherence over 24 weeks) of rubber interdental picks vs dental floss, reinforcing the overview thesis that real-world adherence — not intrinsic plaque-removal efficacy — drives interdental-cleaning outcomes.
 
-## One-line Summary
+## Three-line Summary
 
-Examiner-blinded RCT (n=54 completers, 24 weeks, periodontally healthy adults): rubber interdental picks were used regularly (≥3 days/week) for a mean 12.61/24 weeks vs 4.96/24 weeks for dental floss (p=0.003); plaque/bleeding scores were similar between groups but negatively correlated with the number of weeks of regular use. Note: "sustainability" here means adherence/consistency of use over time, NOT environmental sustainability.
+Examiner-blinded RCT (n=54 completers, 24 weeks, periodontally healthy adults): rubber interdental picks were used regularly (≥3 days/week) for a mean 12.61/24 weeks vs 4.96/24 weeks for dental floss (p=0.003);
 
-## 한줄요약
+plaque/bleeding scores were similar between groups but negatively correlated with the number of weeks of regular use.
 
-검사자 맹검 무작위대조시험(RCT, n=54, 24주, 치주 건강 성인): 고무 치간 픽(rubber interdental pick)이 주 3일 이상 규칙적으로 사용된 주수는 평균 12.61/24주로 치실(dental floss) 4.96/24주보다 유의하게 높았다(p=0.003). 플라크·출혈 점수는 두 군이 비슷했으나 규칙적 사용 주수와 음의 상관관계를 보였다. 여기서 'sustainability(지속성)'는 환경적 지속가능성이 아니라 시간에 따른 사용 순응도/일관성을 의미한다.
+Note: "sustainability" here means adherence/consistency of use over time, NOT environmental sustainability.
+
+## 세줄요약
+
+검사자 맹검 무작위대조시험(RCT, n=54, 24주, 치주 건강 성인): 고무 치간 픽(rubber interdental pick)이 주 3일 이상 규칙적으로 사용된 주수는 평균 12.61/24주로 치실(dental floss) 4.96/24주보다 유의하게 높았다(p=0.003).
+
+플라크·출혈 점수는 두 군이 비슷했으나 규칙적 사용 주수와 음의 상관관계를 보였다.
+
+여기서 'sustainability(지속성)'는 환경적 지속가능성이 아니라 시간에 따른 사용 순응도/일관성을 의미한다.
 
 ## 1. Document Information
 

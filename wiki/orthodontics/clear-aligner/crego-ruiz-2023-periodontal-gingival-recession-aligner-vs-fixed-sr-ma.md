@@ -6,7 +6,7 @@ date: 2023-07-01
 doi: 10.4317/medoral.25760
 source: crego-ruiz-2023-periodontal-gingival-recession-aligner-vs-fixed-sr-ma.md
 category: [orthodontics/clear-aligner]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "36641738"
@@ -22,13 +22,21 @@ relations:
     target: yassir-2022-cat-vs-fat-overview-systematic-reviews
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (12 studies, 8 in MA, 612 patients; Cochrane RoB) finding clear aligners only slightly favor periodontal health — significant only for plaque index mid-term (MD −0.99) and pocket depth long-term (MD −0.93 mm), both at I²=99% — so evidence is insufficient to claim CA maintains better periodontal health than fixed appliances.
+SR+MA (12 studies — 3 RCTs, 8 prospective, 1 retrospective; 612 patients: 291 CA vs 321 FA; PROSPERO CRD42020175280; ROBINS-I + RoB 2.0) comparing periodontal health and gingival recession between clear aligners and fixed appliances across short-, mid-, and long-term follow-up windows.
 
-## 한줄요약
+Only two pooled estimates reached significance: plaque index mid-term (MD −0.99; p=.04; I²=99%) and pocket depth long-term (MD −0.93 mm; p<0.0001; single-study only) — both favoring CA but with extreme heterogeneity; gingival recession data came from only one study.
 
-체계적 문헌고찰+메타분석 (12편, MA 8편, 612명; Cochrane RoB): 투명교정장치 (Clear Aligner, CA)가 치주 지표를 약간 더 잘 유지하는 경향은 있으나 통계적 유의는 치태지수 중기(MD −0.99)·치주낭깊이 장기(MD −0.93 mm) 2건뿐이며 둘 다 I²=99%로 이질성 극심 — CA가 고정식장치 (Fixed Appliance, FA)보다 치주건강을 더 잘 유지한다고 결론짓기엔 근거 불충분.
+Evidence is insufficient to conclude clear aligners maintain better periodontal health or produce fewer gingival recessions than fixed appliances; the CA trend is statistically fragile (I²>90% in all meta-analyses) and patient oral hygiene is the dominant lever.
+
+## 세줄요약
+
+SR+MA(12편 — RCT 3·전향 8·후향 1; 612명: CA 291 vs FA 321; PROSPERO; ROBINS-I+RoB 2.0) — 투명교정장치(Clear Aligner, CA) vs 고정장치(Fixed Appliance, FA)의 치주건강·치은퇴축(Gingival Recession)을 단기·중기·장기 추적 구간별 비교.
+
+유의한 풀링 결과 2건뿐: 치태지수(Plaque Index, PI) 중기(MD −0.99; p=.04; I²=99%), 치주낭깊이(Pocket Depth, PPD) 장기(MD −0.93 mm; 단일 연구) — 둘 다 CA 우위이나 이질성 극심; 치은퇴축 자료는 1편에만 존재.
+
+근거는 CA가 FA보다 치주건강을 더 잘 유지하거나 치은퇴축을 덜 유발한다고 결론짓기에 불충분; 모든 MA에서 I²>90% — 환자 구강위생이 핵심 변수.
 
 ## Summary
 

@@ -9,8 +9,21 @@ pdf_filename: cardaropoli-2003-bone-tissue-formation-extraction.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Animal experiment (9 mongrel dogs, mandibular 4th premolar distal-root extraction sockets sacrificed at 1/3/7/14/30/60/90/120/180 days) histologically defined the temporal sequence of socket healing: blood clot → provisional matrix (day 7) → woven bone (day 14) → mineralized bone peak at day 30 (88% of socket volume) → remodeling to mostly lamellar bone marrow at day 180 (mineralized bone 15%, BM 85%); landmark paper establishing the modern timeline of post-extraction socket healing.
+## Three-line Summary
+
+Animal experiment (9 mongrel dogs, mandibular 4th premolar extraction sockets, 9 sacrifice time points from day 1 to day 180) histomorphometrically tracking socket-healing tissue composition in marginal, central, and apical compartments.
+
+Mineralized bone peaked at day 30 (88% of socket volume) then was progressively replaced by bone marrow, leaving only 15% mineralized bone and 85% marrow at day 180; a hard tissue bridge closed the socket coronally, and healing was fastest in the apical compartment.
+
+This landmark timeline explains why ridge dimensions and density continue changing for months after extraction, underpinning the rationale for socket preservation and early implant placement protocols.
+
+## 세줄요약
+
+동물실험 (잡종견 9마리, 하악 제4소구치 발치와, 1일~180일 9개 희생 시점): 변연·중앙·근단 3구획별 조직형태계측으로 발치와 치유 조직 구성 변화 추적.
+
+광화골(Mineralized Bone)은 30일째 발치와 용적의 88%로 정점 도달 후 점진적으로 골수(Bone Marrow)로 대체되어 180일째 광화골 15%·골수 85%; 피질골 경조직 교량(Hard Tissue Bridge)이 발치와 상부를 봉합하며 근단부가 가장 빨리 치유.
+
+이 기준 타임라인은 발치 수개월 후까지 치조제 크기와 밀도가 계속 변하는 이유를 설명하며, 치조제 보존술(Socket Preservation) 및 조기 임플란트 식립 프로토콜의 근거를 제공한다.
 
 ## 1. Document Information
 - **Journal**: Journal of Clinical Periodontology 2003;30(9):809–818

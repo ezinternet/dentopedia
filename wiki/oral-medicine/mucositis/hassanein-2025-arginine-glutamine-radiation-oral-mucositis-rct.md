@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1007/s00432-025-06213-x
 source: hassanein-2025-arginine-glutamine-radiation-oral-mucositis-rct.md
 category: [oral-medicine/mucositis]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/hassanein-2025-arginine-glutamine-radiation-oral-mucositis-rct.txt
 pdf_filename: hassanein-2025-arginine-glutamine-radiation-oral-mucositis-rct.txt
 source_collection: pubmed-text
@@ -18,13 +18,21 @@ text_filename: hassanein-2025-arginine-glutamine-radiation-oral-mucositis-rct.tx
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Triple-blind RCT (n=69 HNC radiotherapy patients, 3 arms ×23) showing both L-arginine and L-glutamine oral suspensions reduced WHO mucositis severity, pain, and weight loss vs maltodextrin control by week 5–7, with L-arginine non-inferior to glutamine and a numerically higher week-7 healing rate (56% vs 13%).
+Triple-blind parallel-arm RCT (n=69 head-and-neck cancer patients undergoing IMRT 50–70 Gy, 3 arms of 23; ClinicalTrials.gov NCT06764420) comparing L-arginine 5 g oral suspension vs L-glutamine 5 g vs maltodextrin 10 g (neutral control) swish-and-swallow 3×/day during weeks 2–7 of radiotherapy.
 
-## 한줄요약
+Both amino acids significantly outperformed maltodextrin by week 5–7 on WHO mucositis severity, Pain-VAS, BMI maintenance, and OHIP-14 quality of life (p<0.001); L-arginine was non-inferior to glutamine on all pre-specified margins, and week-7 complete healing (WHO 0) was 52% (arginine) vs 43% (glutamine) vs 0% (maltodextrin).
 
-삼중맹검 RCT (두경부암 방사선치료 환자 69명, 3군 ×23명) — L-아르기닌·L-글루타민 경구 현탁액 모두 maltodextrin 대조군 대비 5–7주차 WHO 점막염 중증도·통증·체중감소를 유의하게 줄였고, L-아르기닌은 글루타민에 비열등하며 7주차 완치율이 수치상 더 높았다 (56% vs 13%).
+L-arginine oral suspension is a viable alternative to glutamine for radiation-induced oral mucositis (RIOM) management; the neutral maltodextrin control isolates the amino-acid effect from generic caloric support — a methodological gap in prior glutamine trials.
+
+## 세줄요약
+
+삼중맹검 평행군 RCT (두경부암(Head and Neck Cancer, HNC) 방사선치료(IMRT 50–70 Gy) 환자 69명, 3군×23명; NCT06764420) — L-아르기닌 5g vs L-글루타민 5g vs 말토덱스트린(중립 대조) 경구 현탁액, 방사선치료 2–7주차 투여.
+
+두 아미노산 모두 5–7주차에 WHO 점막염 중증도·통증-VAS·BMI·OHIP-14에서 대조군 대비 유의하게 우수(p<0.001); 7주차 완치율 아르기닌 52% vs 글루타민 43% vs 대조군 0%; L-아르기닌은 모든 사전 지정 비열등성 기준 충족.
+
+L-아르기닌 경구 현탁액은 방사선 유발 구강점막염(Radiation-Induced Oral Mucositis, RIOM) 관리에서 글루타민의 대안 가능성 확인; 말토덱스트린 중립 대조는 기존 글루타민 시험의 방법론적 공백 보완.
 
 ## Summary
 

@@ -1,0 +1,49 @@
+{
+  "overview": "dentin-hypersensitivity-overview",
+  "date": "2026-07-23",
+  "title": "상아질 지각과민(시린이) — 리콜",
+  "source_wiki": [
+    "wiki/overviews/dentin-hypersensitivity-overview.md"
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "q": "상아질 지각과민(DH)의 기전과 모든 치료의 두 축은?",
+      "opts": [
+        "세균 감염 — 항생제와 소염제",
+        "브렌스트룀 수력학설(노출 상아세관 내 유체 이동이 신경 자극) — 치료 두 축은 관 폐쇄(tubule occlusion) 또는 신경 탈민감화(nerve desensitization)",
+        "법랑질 탈회 — 재광화만",
+        "교합 외상 — 교합조정만"
+      ],
+      "ans": 1,
+      "rat": "DH 기전은 브렌스트룀 수력학설 — 노출 상아세관 내 유체 이동이 신경 자극 → 짧고 날카로운 통증. 모든 치료의 두 축은 관 폐쇄 또는 신경 탈민감화. 치료 ladder는 'conservative first': 1차 at-home(KNO3·NovaMin·Arginine) 4–8주 → 2차 in-office sealing → 3차 restorative. 즉시 laser·수복은 overtreatment.",
+      "cite": "overviews/dentin-hypersensitivity-overview"
+    },
+    {
+      "id": "q2",
+      "q": "1차 at-home 치약 선택에 관한 2026 RCT 근거는?",
+      "opts": [
+        "표준 불소치약이면 어느 것이나 동등",
+        "tubule-occluding 활성성분 치약(SnF₂·NovaMin)이 표준 불소치약보다 유의 우월(Qiu 2026·Creeth 2026, p<0.001); head-to-head에선 CPP-ACP가 최고(Ayan 2025)",
+        "레이저가 1차 선택",
+        "불소 co-use가 효과의 핵심"
+      ],
+      "ans": 1,
+      "rat": "활성성분 치약(SnF₂·NovaMin)이 표준 불소치약보다 Schiff·촉각역치에서 유의 우월(Qiu 2026·Creeth 2026, p<0.001) → '그냥 불소치약' 아닌 tubule-occluding 활성성분 치약을 1차로. NovaMin 5%는 3일 만에 효과 시작·8주까지 증가(Creeth 2026). Head-to-head 5종 중 CPP-ACP 최고(Ayan 2025), 대조 불소치약만으론 삶의질 개선 없음(p=0.068).",
+      "cite": "overviews/dentin-hypersensitivity-overview"
+    },
+    {
+      "id": "q3",
+      "q": "DH와 균열치(cracked tooth)의 감별점은?",
+      "opts": [
+        "둘은 구분할 수 없다",
+        "DH는 자극(cold·sweet·brushing)에 통증·bite test 음성, 균열치는 씹을 때 특히 풀릴 때 sharper·bite test 양성 — 동반 가능하므로 '씹을 때 시리다'면 균열치 framework 병행",
+        "균열치는 자극에 통증이 없다",
+        "DH는 bite test 양성이다"
+      ],
+      "ans": 1,
+      "rat": "DH는 자극(cold·sweet·brushing)에 통증·bite test 음성; 균열치는 씹을 때 특히 풀릴 때 sharper·bite test 양성 — 동반 가능하므로 '씹을 때 시리다'면 균열치 framework 병행. 의인성 DH 예방: Class II direct composite 시 selective etching·incremental filling·slow-start curing·sectional matrix가 핵심.",
+      "cite": "overviews/dentin-hypersensitivity-overview"
+    }
+  ]
+}

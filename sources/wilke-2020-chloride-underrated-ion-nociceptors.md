@@ -11,15 +11,23 @@ source_collection: external
 
 ## Why Ingested
 
-[[orofacial-pain/price-2009-chloride-regulation-pain-pathway]]가 다룬 척수(중추) Cl⁻ 조절을 말초 1차 구심신경(DRG/nociceptor) 수준으로 확장하는 open-access 리뷰. BMS 말초형의 small fiber 과흥분 기전([[oral-medicine/kouri-2024-small-fiber-neuropathy-burning-mouth-syndrome]]의 TRPV1·Nav1.7 과발현)과 연결되는 분자 substrate.
+[[orofacial-pain/price-2009-chloride-regulation-pain-pathway]]가 다룬 척수(중추) Cl⁻ 조절을 말초 1차 구심신경(DRG/nociceptor) 수준으로 확장하는 open-access 리뷰. BMS 말초형의 small fiber 과흥분 기전([[oral-medicine/burning-mouth-syndrome/kouri-2024-small-fiber-neuropathy-burning-mouth-syndrome]]의 TRPV1·Nav1.7 과발현)과 연결되는 분자 substrate.
 
-## One-line Summary
+## Three-line Summary
 
 Open-access review arguing that chloride homeostasis in primary afferent (DRG/nociceptor) neurons — set by NKCC1/KCC2 and a large repertoire of Cl⁻ channels (GABA-A, glycine, anoctamin/TMEM16, bestrophin, CLC, CFTR, VRAC) — is a critical, underappreciated driver of nociceptor excitability and sensitization in neuropathic and inflammatory pain.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 오픈액세스 리뷰 — 말초 1차 구심신경(DRG/nociceptor)은 NKCC1/KCC2로 세포내 Cl⁻을 높게 유지하며, 여기서 같은 Cl⁻ 통로(GABA-A·glycine·anoctamin 등) 활성화가 척수와 달리 흥분성 탈분극을 일으켜 통각 과민·감작에 기여한다고 정리.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

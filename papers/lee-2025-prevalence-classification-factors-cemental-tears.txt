@@ -1,0 +1,64 @@
+Prevalence, Classification and Factors Associated With Cemental Tears—A Retrospective Observational Cross-Sectional Study in a Postgraduate Endodontic Clinic
+
+Lee AHC, Yeung AWK, Sigurdsson A, Wong MCM, Zhang CF.
+International Endodontic Journal, 2025;59(1):57-79.
+DOI: 10.1111/iej.70042
+PMID: 41028944
+PMCID: PMC12701744
+
+ABSTRACT
+
+Introduction
+There is a lack of epidemiology studies on cemental tears. This study aimed to (i) investigate the prevalence of cemental tears among the patients referred to a Postgraduate Endodontic Clinic, (ii) classify the cases diagnosed with cemental tears, and (iii) assess factors associated with cemental tears.
+
+Materials and Methods
+This retrospective, cross-sectional study included 445 cases/teeth recruited between 1 September 2019 and 31 March 2024 at a University Postgraduate Endodontic Clinic. Information was collated from the clinical records of case history, clinical findings and radiographic interpretations from periapical radiograph (PR) and cone beam computed tomography (CBCT) images. For each case/tooth, cemental tear/s were categorised as either absent or present, and those with cemental tear/s were further classified. Thirty potential factors were studied, including patient-, jaw-, tooth-, previous endodontic treatment and periodontal-related factors. Factors were individually tested using univariate analysis with Pearson chi-squared (exact) tests. Any significant factors identified were further subjected to multiple logistic regression analyses based on a forward stepwise regression model (p<0.05).
+
+Results
+Cemental tear/s were found in 25 out of 445 cases/teeth, with a prevalence of 5.6%. Sensitivity and specificity of PR in detecting cemental tears were 0.6 and 1.0, respectively. Most cases/teeth detected were classified as Class 2 and 4 (n=19, 76%) or Stage C and D (n=19, 76%). Mean age of the subjects with cemental tears was 58.7 years, with comparable prevalence between males and females. Most cases (72%) with cemental tear/s had root canal treatment initiated or completed. Incisors, increased tooth mobility, severe crestal bone loss and adequate root filling quality were significantly associated with the higher prevalence of cemental tears (p<0.05).
+
+Conclusion
+Cemental tears should always be considered as a differential diagnosis in endodontic practice. Clinicians should be particularly vigilant for increased risks of cemental tears in incisors, mobile teeth, teeth exhibiting increased crestal bone loss and those with adequately filled root canals, as they may be misdiagnosed as periodontal-endodontic lesions. The use of CBCT is crucial for accurate diagnosis, guiding effective treatment planning and improving clinical outcomes in endodontic management.
+
+1. Introduction
+Cemental tears are characterised by wholly or partially torn cemental or cemento-dentinal hard tissue fragments from the root surface. These are often misdiagnosed as primary periodontal or endodontic diseases in origin or combined periodontal–endodontic lesions, and may mimic vertical root fractures. Timely diagnosis mitigates complications: pain, persistent swelling/sinus tracts, rapid clinical attachment loss, increased tooth mobility, secondary occlusal trauma, futile treatment attempts, and tooth loss. Factors suggested but not proven to be associated with cemental tears include tooth type, gender, age, previous endodontic treatment, history of traumatic injury, and heavy occlusal loading. Only two prior studies investigated prevalence, using either PR or CBCT but not both (Keskin & Güler 0.89%; Özkan & Özkan 1.9%). The Lee et al. (2021) classification (Class 1-6 based on apico-marginal bone loss pattern; Stage A-D based on number of root surfaces affected) requires good-quality 3D imaging.
+
+2. Materials and Methods
+Retrospective, observational, cross-sectional study of patients referred to a University Postgraduate Endodontic Clinic (Hong Kong) between 1 Sept 2019 and 31 March 2024. IRB approved (UW 20-447), PROBE-guideline reporting. 575 patients screened; 445 patients/cases (445 teeth) met inclusion criteria. Sample size based on anticipated 5% prevalence (pilot study) vs previously reported 2%, 95% CI, 2% precision.
+
+Data collected: tooth of interest, age, gender, medical history, dental trauma history, pre-op pain, bruxism, hard-diet preference, incisor/molar relationships, tenderness to percussion/palpation, swelling, sinus tract, periodontal probing depth, mobility, post presence, restoration type, proximal/opposing contacts, pulpal/periapical status, pulp sensibility test response, previous RCT, root filling quality, crestal bone loss pattern/extent, apico-marginal bone loss, periapical lesion size, stage of assessment, presence of cemental tear.
+
+Radiographic protocol: PR via digital phosphor-plate sensor + paralleling technique (Heliodent, 65kV/7mA). CBCT via Veraview X800, 40x40mm FOV, ENDO mode, 90kV/3mA, 0.08mm voxel, 360° rotation, ≤17.9s exposure, 1.5mm reformatted slices. Single experienced endodontist (>25y) as sole assessor; intra-observer reliability re-check at 3 months on 1/10 of cases (Cohen's Kappa = 1.0, excellent agreement).
+
+Root filling quality "adequate" = homogenous fill, no voids, 0-2mm within radiographic apex, conforms to canal path, no procedural errors, no gross extrusion, no missed anatomy.
+
+Statistics: SPSS v29. Pearson chi-squared / exact tests univariate; multiple logistic regression with backward stepwise selection, significance at 5%. Diagnostic accuracy of PR vs CBCT (reference standard): sensitivity, specificity, PPV, NPV, reliability.
+
+3. Results
+- Overall prevalence: 25/445 (5.6%).
+- Univariate significant factors (p<0.05): tooth type (p<0.001), tenderness to palpation (p=0.006), swelling (p=0.037), sinus tract (p=0.025), periodontal probing depth (p<0.001), mobility (p<0.001), quality of root filling (p<0.001), crestal bone loss (p<0.001), apico-marginal bone loss (p<0.001).
+- Multivariate significant factors (p<0.05): tooth type, mobility, crestal bone loss, quality of root filling.
+  - Tooth type: incisors significantly more affected than molars (OR 0.08 for molars vs incisors, 95% CI 0.02-0.34, p<0.001).
+  - Mobility: Grade 1 OR 26.87 (CI 5.93-121.81, p<0.001); Grade 2 OR 18.69 (CI 1.23-283.50, p=0.035); Grade 3 OR 48.27 (CI 2.33-1000.44, p=0.012), vs no mobility.
+  - Crestal bone loss: severe (≥70%) OR 10.83 (CI 2.85-41.21, p<0.001) vs mild (≤30%).
+  - Root filling quality: adequate OR 8.38 (CI 1.73-40.69, p=0.008) vs inadequate.
+- Classification distribution: 76% of cases Class 2 or 4; 76% Stage C or D.
+- Demographics: mean age 58.7y (M 56.4y, F 61y); gender roughly even (48% M / 52% F).
+- Tooth distribution: >half upper/lower incisors, molars only ~1/4.
+- 72% of cases had RCT initiated or completed previously.
+- Bruxism reported in 24%; dental trauma history frequently unspecified (72% unspecified).
+- Over half (52%) had pre-op pain, severe crestal bone loss ≥70%, complete apico-marginal bone loss, swelling/sinus tract, or probing depth ≥7mm.
+- Grade 1 mobility in 64% of cemental-tear cases.
+- Diagnostic accuracy of PR vs CBCT (reference standard): sensitivity 0.60, specificity 1.00, PPV 1.00, NPV 0.98, reliability 0.98. 15/25 cases detected by both PR+CBCT; 10/25 detectable only on CBCT.
+- Direct inspection/histopathologic confirmation in 15/25 (60%) cases (2 non-surgical, 13 surgical).
+
+4. Discussion
+Higher prevalence (5.6%) than prior 2D-only or lower-resolution/larger-FOV CBCT studies (0.89%, 1.9%) attributed to combined PR + high-resolution small-FOV CBCT protocol — PR alone would have missed 40% of cases in this cohort. Incisor predominance explained by higher trauma exposure, greater clinician/patient motivation to retain (vs extract) incisors, and single-rooted anatomy with root convergence being more susceptible to occlusal trauma vs multi-rooted, divergent-root molars. Severe crestal bone loss and increased mobility reflect both possible causes and consequences of cemental tear (bidirectional relationship with occlusal trauma/periodontal breakdown) — causality direction remains unclear. Adequate root filling quality as a significant factor is a novel finding, hypothesized to reflect biological cost of obturation techniques (heat-induced desiccation/cemental damage in warm vertical/continuous wave compaction, mechanical compaction strain from spreaders/pluggers) — flagged as an area for further research. Age and gender were not significant, concordant with prior prevalence studies. Previous RCT status was not significantly correlated with cemental tear, despite descriptive high proportion (72%).
+
+5. Limitations
+Retrospective design; exclusion of poorly documented cases may underestimate prevalence; occlusal interference not assessable due to sparse documentation; substantial missing data for trauma history (72% unspecified, borderline p=0.073 raising Type II error concern), bruxism, hard diet, mobility (each ≥10% unspecified); single assessor (though excellent intra-observer reliability, Kappa=1.0); only 60% of cases confirmed via direct inspection/histopathology (gold standard) rather than all; limited CBCT FOV may miss cemental tears in neighbouring teeth; patient (not tooth) used as statistical unit to avoid clustering, marginally underestimating prevalence (only 1/25 cases involved multiple teeth, so minimal impact).
+
+6. Conclusion
+Prevalence of cemental tears among endodontic-referral patients was notably high (5.6%). Clinicians should maintain heightened suspicion in incisors, mobile teeth, teeth with pronounced crestal bone loss, and teeth with adequately filled root canals — these overlap substantially with periodontal-endodontic lesion presentations. CBCT is essential for accurate diagnosis and treatment planning.
+
+Conflicts of Interest: none declared.

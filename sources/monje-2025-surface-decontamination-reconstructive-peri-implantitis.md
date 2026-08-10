@@ -13,11 +13,21 @@ source_collection: external
 
 기존 [[implants/peri-implantitis/baima-2022-surface-decontamination-protocols-surgical-periimplantitis]]가 표면 오염제거 프로토콜 우열을 결론짓지 못했음. 본 multicenter RCT는 electrolytic(GalvoSurge) vs hydrogen peroxide를 powered sample로 직접 비교해 그 공백을 겨냥.
 
-## One-line Summary
+## Three-line Summary
+
 Multicenter RCT (58 patients) — adjunctive electrolytic cleaning (GalvoSurge) vs hydrogen peroxide for surface decontamination in reconstructive peri-implantitis therapy: both effective, no significant superiority of either.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 다기관 RCT(환자 58명): 재건적 임플란트주위염 치료에서 보조 표면오염제거로 전해법(GalvoSurge)과 과산화수소를 비교 — 둘 다 효과적이며 유의한 우열 없음.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - Clinical Implant Dentistry and Related Research 2025;27:e70075. Funded by Nobel Biocare (2021-1716). Multicenter (Michigan, UIC Barcelona, Bern, private practices).

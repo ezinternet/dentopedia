@@ -1,0 +1,104 @@
+Effect of Dentin Biomodification on the Survival of Resin Composite Restorations: An Umbrella Review
+
+El Alaoui N, Chala S, Ghoul S
+International Dental Journal 2026;76(2):109446
+DOI: 10.1016/j.identj.2026.109446
+PMID: 41713123 | PMCID: PMC12933814
+Source: PMC full text (get_full_text_article), retrieved via PubMed MCP
+
+Abstract
+
+Introduction and aims
+Achieving durable adhesion of composite-resins to dentin remains a key challenge in restorative dentistry, highlighting the need for biomodification strategies. Therefore, this umbrella review aims to systematically overview dentin biomodifiers and evaluate their influence on the durability of composite-resin restorations.
+
+Methods
+Literature search was conducted in PubMed, Scopus, and Web of Science up to October 2024, focusing on three concepts: dentin, biomodification, and bond strength (PROSPERO: CRD42024588804). The corrected covered area (CCA) was calculated to evaluate overlap among the included systematic reviews (SRs).
+
+Results
+Among 486 identified papers, 9 SRs were selected including 7 meta-analyses. Twenty biomodification agents were identified and classified into natural, physical and chemical agents. These agents were assessed in 51 different setups with micro-tensile bond strength used in 68.62% of them. Timing of bond strength assessments varied from immediate to a 36-months period. As natural agents, Grape Seed Extract and chitosan improved bond strength after long-term aging, while induced riboflavin improved the short and medium-term periods only. Among all categories, the most studied biomodifier was Non-Thermal Atmospheric Plasma, a physical agent, which consistently enhanced resin-dentin bonding over time. However, chemical approaches did not show promising bond strength results at some exceptions. Sodium hypochlorite (NaOCl) and hypochlorous acid both immediately decreased bond strength. Overlap among reviews was slight (CCA = 1.52%).
+
+Conclusion
+Various biomodifiers show promise for enhancing adhesion and durability of composite-resin restorations, with their combinations potentially offering synergistic effects.
+
+Clinical relevance
+Systematically identifying and characterizing dentin biomodifiers within their limitations lays the groundwork for evidence-based frameworks that guide dentists and shape future research. At present, physical scrubbing and air abrasion are the only readily available dentin biomodification techniques. Riboflavin and chitosan show promise as effective natural and affordable agents; however, their clinical use needs regulatory approval. In contrast, NaOCl should be avoided as it compromises composite restoration's durability.
+
+Introduction
+
+Durability of composite restorations refers to the resin composite's ability to maintain its mechanical integrity, aesthetic qualities and a stable adhesive interface, characterized by long-term bond strength, despite the challenging conditions of the oral environment. This durability is critically influenced by both sides of the resin-dentin interface, namely the dentin substrate and the resin-composite material.
+
+Composite resins represent the most commonly used materials in dental restorative procedures. Hence, they must withstand occlusal forces, fatigue, chemical degradation, and moisture exposure. Despite significant material advances, key limitations persist for their durability. In fact, polymerization shrinkage, water sorption, and incomplete monomer conversion lead to induced stress and degradation, reducing mechanical stability. These shortcomings, combined with the passive nature of most conventional materials, highlight the growing need for restorative systems with bioactive properties, capable of interacting with the surrounding environment to support long-term restoration wear.
+
+The dentin substrate, on the other hand, possesses several characteristics with significant implications for the bonding's success as it consists of approximately 70% hydroxyapatite crystals and 30% hydrated organic matrix. This matrix features a network of unmineralized collagen fibres oriented perpendicularly, through which dentinal tubules pass, and enzymes mainly matrix metalloproteinases (MMPs). However, acidic conditions, such as those induced by caries or etching, initiate collagen breakdown through MMP activation while also promoting demineralization through the dissolution of mineral ions. These features combine to compromise the structural integrity of dentin and challenge the formation of a stable three-dimensional polymer-collagen network, known as the hybrid layer.
+
+Therefore, dentin biomodification offers a promising solution to these problems all together. It can be defined as a biomimetic strategy mediated by bioactive agents, that reinforces collagen and regulates biodegradation rates by locally altering the biochemistry and biomechanical properties of dentin. Hence, dentin biomodifiers, either applied to dentin surface or incorporated into restorative material, target the resin-dentin interface which is the critical weak point in restoration integrity. They act on stabilizing collagen via collagen cross-linking, enzyme inhibition and dentin regeneration through reinforcement of the mineral phase. Thereby, the resin-dentin bond is preserved over time increasing the durability of composite-resin restorations.
+
+Material and methods
+
+PRISMA 2020 methodology. PROSPERO: CRD42024588804. Research question (PICOS): Population = resin-composite restorations; Intervention = biomodifier application to dentin surface prior to restoration; Comparator = no prior dentin pretreatment; Outcome = bond durability; Study design = systematic reviews of in vitro studies, with/without meta-analysis.
+
+Search conducted in PubMed, Scopus, Web of Science (October 2024), three concepts: dentin, biomodification, bond strength. No date/language restriction. Eligible: SRs of in vitro studies evaluating bond durability of direct resin composite restorations to dentin of adult human teeth after biomodifier pretreatment. Excluded: teeth with structural anomalies, non-composite materials (sealants, luting cements, fiber posts).
+
+Adhesive strategies harmonized into self-etch vs etch-and-rinse categories. Bond strength testing time points grouped: short-term (<3 months), medium-term (3-12 months), long-term (>=12 months). Biomodification agents categorized as natural, physical, chemical.
+
+Overlap assessed via GROOVE citation matrix and Corrected Covered Area (CCA): slight 0-5%, moderate 6-10%, high 11-15%, very high >15% (Pieper et al criteria).
+
+Risk of bias assessed with ROBIS tool (relevance, review-process concerns across 4 domains, overall judgement).
+
+Results
+
+486 articles identified -> 64 duplicates removed -> 383 excluded at title/abstract -> 34 full-text assessed -> 9 SRs included (7 meta-analyses, 1 network meta-analysis), 175 primary studies (19 duplicates across SRs).
+
+Quality: 3 SRs low risk of bias across all domains; 2 SRs unclear risk in 1 domain; 3 SRs at least 2 domains unclear; 1 SR high risk in 3 domains. By ROBIS domain: 100% low risk in study eligibility criteria; 75% low/25% unclear in identification and selection of studies; 70% low/20% unclear/10% high in data collection and study appraisal; 60% low/25% unclear/15% high in synthesis and findings; 50% low/30% unclear/20% high overall risk of bias.
+
+Overall CCA = 0.0152 (1.52%, slight overlap). Pairwise CCA between the two NTAP-focused SRs = 57.9% (very high) -- flagged as a potential bias source for NTAP-specific conclusions.
+
+Study characteristics: publication years 2018-2024. 7/9 SRs assessed micro-tensile bond strength (uTBS), one assessed shear bond strength (SBS) only, one unspecified. Aging protocols: 1 SR water storage alone; 1 distilled water + artificial saliva; 1 (Anumula et al) + thermocycling; 1 (Awad et al) water storage + thermocycling + chloramine; 2 SRs artificial saliva + thermocycling + collagenase (1 also water storage); 3 SRs unspecified aging.
+
+51 experimental setups identified across 20 biomodifiers. LASER evaluated in the broadest variety (8 setups), followed by NTAP (6 setups). uTBS used in 35/51 setups (68.62%), SBS in 8 (15.68%), micro-shear bond strength (uSBS) in 6 (11.76%), unspecified in 2 (3.92%). Adhesive strategy distribution: etch-and-rinse 25 setups (49.01%), self-etch 26 setups (50.98%).
+
+Natural agents (n=7, evaluated in included meta-analyses):
+- Baicalein: favored over untreated control (short + medium term), 1 SR, no meta-analysis pooled effect reported here.
+- Chitosan / chitosan nanoparticles: immediate bond strength improved under self-etch mode (SMD = -0.75, I2 = 35%, low heterogeneity); medium/long-term improvement under etch-and-rinse mode (SMD = -1.24, I2 = 50%, moderate heterogeneity); no long-term improvement under self-etch mode.
+- Cocoa seed extract (CSE): no significant improvement vs untreated (p = 0.23), medium and long-term.
+- Grape seed extract (GSE): medium-term MD = 8.29 favoring GSE (I2 = 96%, high heterogeneity); long-term MD = 13.88 (I2 = 46%, moderate heterogeneity) -- both significant improvements.
+- Green tea extract (GTE): medium-term not significant (high heterogeneity); long-term appreciable improvement vs no treatment.
+- Epigallocatechin gallate (EGCG): no significant improvement (p = 0.95).
+- Riboflavin: short-term MD = -8.49 (I2 = 89%), medium-term MD = -10.23 (I2 = 96%) -- both significant improvements in uTBS; photoactivated riboflavin outperformed non-photoactivated riboflavin.
+
+Physical agents (n=7):
+- Non-thermal atmospheric plasma (NTAP): evaluated in 3 SRs, consistent findings. SR1: enhances resin-dentin uTBS under etch-and-rinse mode (duration unspecified). SR2 (meta-analysis): no immediate improvement but long-term SMD = -0.82 (I2 = 75%). SR3 (meta-analysis, Argon vs Helium plasma): significant short- and long-term effects vs control, SMD = 1.92 (short) and 3.28 (long), I2 = 97% both; He-NTAP improved bond strength short- and long-term, Ar-NTAP short-term only.
+- Scrubbing: significant improvement in uTBS both immediate and medium-term vs untreated dentin (1 SR + meta-analysis).
+- Air abrasion: SMD = -0.75 favoring air abrasion vs no treatment, 95% CI -1.79 to 0.29, I2 = 92% (high heterogeneity), short-term only.
+- LASER: 2 SRs, conflicting findings. SR1 (all time periods): overall decreased bond strength trend, not significant (p = 0.06); immediate-term reduction significant (I2 = 56%). SR2 (network meta-analysis, Erbium lasers, SBS only): both Er:YAG and Er,Cr:YSGG improved bond strength, Er:YAG more effective; Er:YAG + acid etch-and-rinse gave best results.
+- Warm air blow: evaluated immediate and medium-term (1 SR, no pooled effect reported here).
+- Electric current: evaluated, no outcomes reported.
+- Ozone: dentin disinfectant, short-term bond strength evaluated, no outcomes reported.
+
+Chemical agents (n=6):
+- Dentin desensitizers: deteriorated bond strength immediately and over time (SMD = 0.96, I2 = 80%, high heterogeneity), statistically significant.
+- Dimethyl sulfoxide (DMSO): positively impacts long-term dentin bonding stability under etch-and-rinse (not dose-dependent); effect on self-etch controversial. Effective solvent for incorporating natural plant extracts (synergistic potential).
+- Ethanol (wet bonding technique): improved immediate bond strength vs no treatment, SMD = -1.41, low heterogeneity (1 SR + meta-analysis).
+- Hypochlorous acid (HOCl): high concentrations significantly reduced uTBS in self-etch mode; prolonged exposure further compromised bonding; 2-step self-etch adhesives outperformed 1-step self-etch on deproteinized dentin.
+- Sodium hypochlorite (NaOCl): pretreatment led to low uTBS vs non-treated surfaces (self-etch mode); more adverse effect than HOCl despite both being deproteinizing agents.
+- Glycolic acid: evaluated, no outcomes reported (absence of evidence).
+
+Discussion (key points)
+
+- Overall CCA (1.52%) indicates minimal redundancy / broad evidence base, but the very-high pairwise overlap (57.9%) between the two NTAP SRs is a caveat for NTAP-specific conclusions.
+- ROBIS quality was reasonable in early domains (eligibility criteria) but degraded in later stages (synthesis and overall appraisal) -- conclusions should be interpreted with measured caution.
+- uTBS is the dominant and most clinically-relevant surrogate test for dentin bond durability; 12-month aging is the most common long-term benchmark, simulating clinical degradation; thermocycling is the most common aging method after water storage.
+- Natural and chemical agents act mainly at the molecular level (collagen reinforcement, MMP-2/MMP-9 inhibition); physical agents act on dentin surface properties (wettability, adhesive infiltration).
+- Natural agents: all exhibited beneficial or neutral effects, none harmful. GSE > CSE despite both being polyphenol-rich, attributed to GSE's higher proanthocyanidin (PAC) concentration; PAC clinical translation limited by poor stability/standardization. Riboflavin has FDA approval for ophthalmic corneal cross-linking (not yet for dental use) -- cross-links collagen and inactivates MMP-9 under UVA. Chitosan preserves bond durability in etch-and-rinse technique; emerging antibacterial/regenerative formulations (peptide microspheres, calcium phosphate nanoclusters).
+- Physical agents: NTAP produces reactive species enhancing dentin wettability; helium-based NTAP outperforms argon-based in long-term outcomes (higher ionization energy -> more reactive species -> greater oxidation/wettability). NTAP clinical translation limited by equipment cost, chairside workflow integration, potential tissue damage. Scrubbing and air abrasion are the only readily available/affordable physical techniques for routine practice. LASER results conflict, possibly due to differing bond-strength test types, erbium laser subtype, and adhesive brand used.
+- Chemical agents: mostly negative outcomes except ethanol-wet bonding (reduces water sorption, inhibits MMP activity, increases interfibrillar space for better adhesive impregnation) and DMSO (acts as solvent enabling synergistic natural-extract incorporation, enhances wettability and monomer conversion in deep hybrid layer). NaOCl and HOCl both reduce bond strength (NaOCl worse than HOCl); when deproteinization is necessary, HOCl with 2-step self-etch adhesives is comparatively preferable. Dentin desensitizers may negatively affect adhesion depending on mechanism -- desensitizer choice should balance bond strength preservation against sensitivity relief.
+
+Strengths and limitations
+
+First systematic synthesis comparing dentin biomodifiers across natural/physical/chemical categories for resin-composite bond durability. Limitations: outcome data unavailable for some agents (electric current, ozone, glycolic acid, warm air blow); considerable heterogeneity in testing methods, outcome metrics (MD vs SMD), statistical modeling, and effect directions precluded pooled quantitative (umbrella-level meta-analytic) synthesis -- qualitative synthesis used instead; in vitro aging periods are analytical groupings, not direct predictors of clinical longevity; future in-vivo/clinical studies needed.
+
+Conclusions
+
+Natural agents are, as a category, the most consistently favorable (none harmful; several -- polyphenol-rich extracts, chitosan, induced riboflavin -- beneficial over time) though not yet approved for routine clinical dental use. Among physical techniques, NTAP, scrubbing, and air abrasion effectively enhance resin-dentin bond, but only scrubbing and air abrasion are currently affordable/readily applicable chairside. Chemical approaches, particularly NaOCl and HOCl, are not recommended as first-line biomodifiers as they compromise bond durability. Future combined natural + physical strategies may offer synergistic, more durable resin-dentin bonding.
+
+Conflict of interest: None disclosed.

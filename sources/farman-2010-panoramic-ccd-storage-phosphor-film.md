@@ -13,13 +13,21 @@ source_collection: external
 
 radiology 카테고리 파노라마 디지털 수용체의 선량·초점골 폭 trade-off 기초 근거. [[radiology/devlin-2013-object-position-magnification-panoramic-radiography]]·[[radiology/martins-2022-multilayer-panoramic-radiography-device-mapping]]의 초점골 논의에 수용체 관점 추가(역사적 앵커).
 
-## One-line Summary
+## Three-line Summary
 
-Receptor comparison: CCD (OP100D wide trough/higher dose; DigiPan narrow trough/lower dose), storage phosphor (high-res, no dose saving, slower) vs film.
+In-vitro comparative evaluation of 4 panoramic receptors: film (reference), OP100D CCD, DigiPan CCD, and DenOptix storage phosphor, assessing image characteristics, dose, and convenience.
 
-## 한줄요약
+OP100D CCD offered wide focal trough (positioning-error tolerant) but higher dose than film; DigiPan CCD achieved significant dose reduction with narrower trough; DenOptix storage phosphor provided high resolution and reasonable trough width without dose savings or speed advantage over film.
 
-수용체 비교: CCD(OP100D 넓은 초점골·고선량; DigiPan 좁은 초점골·저선량), 저장형광판(고해상도·선량절감 없음·느림) vs 필름.
+Early digital-era findings demonstrate fundamental receptor trade-offs between positioning tolerance, radiation dose, and workflow speed during the film-to-digital transition; value is primarily historical and conceptual as these specific receptors have been superseded.
+
+## 세줄요약
+
+파노라마 수용체 4종(필름, OP100D CCD, DigiPan CCD, DenOptix 저장형광판)의 상(image characteristics)·선량·편의성을 비교한 시험관적 평가.
+
+OP100D CCD는 넓은 초점골(위치오차 허용) 제공하나 선량 증가; DigiPan CCD는 현저한 선량 감소·좁은 초점골; DenOptix 저장형광판은 고해상도·합리적 초점골 폭이나 필름 대비 선량절감·속도 이점 없음.
+
+필름→디지털 전환기 초기의 수용체 선택 간 근본적 trade-off(위치오차 허용도·방사선량·워크플로우 속도)를 입증; 현대 기기로 대체되었으므로 주로 역사적·개념적 가치.
 
 ## 1. Document Information
 

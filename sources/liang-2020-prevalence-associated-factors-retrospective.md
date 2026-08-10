@@ -12,11 +12,21 @@ source_collection: external
 ## Why Ingested
 food-impaction 카테고리의 다인자 retrospective 근거로 인제스트. plunger cusp·food impaction·interdental brush 사용 등 임상적으로 조절 가능한 인자를 정량 분석해, [[food-impaction/pang-2017-prevalence-proximal-contact-loss-prospective]]의 해부·골 인자와 상보적이다.
 
-## One-line Summary
-Retrospective study (317 patients, posterior implant FDPs, up to 18 years): mesial PCL (27%) far exceeded distal (5%); functional years >5, frequent interdental-brush use, and food impaction were independent factors on multivariate analysis.
+## Three-line Summary
 
-## 한줄요약
-후향연구(317명, 구치부 임플란트 FDP, 최대 18년): mesial PCL(27%)이 distal(5%)보다 훨씬 높음; 기능 5년 초과·치간칫솔 빈용·식편압입이 다변량 독립인자.
+Retrospective study (317 patients, posterior implant FDPs, up to 18 years): mesial PCL (27%) far exceeded distal (5%);
+
+functional years >5, frequent interdental-brush use, and food impaction were independent factors on multivariate analysis.
+
+(incomplete)
+
+## 세줄요약
+
+후향연구(317명, 구치부 임플란트 FDP, 최대 18년): mesial PCL(27%)이 distal(5%)보다 훨씬 높음;
+
+기능 5년 초과·치간칫솔 빈용·식편압입이 다변량 독립인자.
+
+(incomplete)
 
 ## 1. Document Information
 - Clinical Implant Dentistry and Related Research 2020;22(3):351-358. DOI 10.1111/cid.12918. First published 17 May 2020.

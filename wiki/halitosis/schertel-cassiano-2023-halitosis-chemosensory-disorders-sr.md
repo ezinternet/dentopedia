@@ -6,20 +6,28 @@ date: 2021-03-04
 doi: 10.1111/odi.13823
 source: schertel-cassiano-2023-halitosis-chemosensory-disorders-sr.md
 category: [halitosis]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/schertel-cassiano-2023-halitosis-chemosensory-disorders-sr.pdf
 pdf_filename: schertel-cassiano-2023-halitosis-chemosensory-disorders-sr.pdf
 source_collection: external
 tags: [halitosis, chemosensory, olfaction, gustation, smell, taste, oral-malodor, VSC]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (Oral Diseases 2023, 7 pp) finds bidirectional links between halitosis and chemosensory disorders: halitosis patients exhibit impaired olfactory/gustatory function, while anosmia/hyposmia impairs self-perception of oral malodor.
+First systematic review (JBI methodology; short communication, Oral Diseases 2023) specifically examining the bidirectional association between halitosis and chemosensory disorders in adults.
 
-## 한줄요약
+Halitosis patients show impaired olfactory sensitivity, and tongue-biofilm VSCs/microbial metabolites disrupt taste receptor homeostasis; conversely, anosmia/hyposmia prevents patients from perceiving their own malodor, introducing systematic self-reporting bias in prevalence studies.
 
-구강 악취(Halitosis)와 화학감각장애(Chemosensory Disorder) — 후각·미각 이상 — 의 양방향 연관성을 체계적으로 검토한 SR로, 구강 악취 환자의 후각·미각 기능 저하 및 감각 둔화로 인한 자가 악취 인지 저하를 근거 기반으로 정리함.
+Clinicians assessing halitosis should screen for co-existing smell/taste complaints, and chemosensory-disorder workups should include halitosis assessment; xerostomia is a shared intermediary mechanism linking both conditions.
+
+## 세줄요약
+
+성인에서 구취(Halitosis)와 화학감각장애(Chemosensory Disorder) — 후각·미각 이상 — 의 양방향 연관성을 처음으로 체계적으로 검토한 SR(JBI 방법론, 단신 논문).
+
+구취 환자는 후각 민감도 저하를 보이며 설태 VSC·미생물 대사산물이 미각 수용체 항상성을 교란; 반대로 무후각/후각저하는 자가 악취 인지를 방해해 유병률 연구에 자가보고 편향을 유발.
+
+구취 평가 시 후각·미각 이상 동반 여부를 확인해야 하며, 화학감각장애 진료에서도 구취 평가가 필요; 구강건조증(xerostomia)은 두 상태를 연결하는 공통 중간 기전.
 
 ## Summary
 

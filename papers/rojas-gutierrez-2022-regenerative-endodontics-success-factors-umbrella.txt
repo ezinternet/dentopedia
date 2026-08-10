@@ -1,0 +1,81 @@
+Title: Regenerative Endodontics Success Factors and their Overall Effectiveness: An Umbrella Review
+Authors: Rojas-Gutiérrez WJ, Pineda-Vélez E, Agudelo-Suárez AA
+Journal: Iranian Endodontic Journal, 2022;17(3):90-105
+PMID: 36704087 | PMCID: PMC9869004 | DOI: 10.22037/iej.v17i3.32703
+Source: PubMed Central full text (get_full_text_article)
+
+=== ABSTRACT ===
+
+Introduction: Regenerative endodontics is a developing field of dentistry and aims to recover the physiological and anatomical functions of the tooth for cases of severe dental caries, pulpal pathologies and dental trauma.
+
+Materials and Methods: This umbrella review seeks to discover the scientific evidence on the effectiveness and the factors result in successful regenerative endodontic therapies in teeth with necrotic pulps and with incomplete root development. The study was conducted following the PRISMA Guidelines. There were no restrictions regarding search period. A comprehensive literature search was carried out in EMBASE, LILACS, PubMed, Cochrane, Scopus, and Google Scholar. A quality evaluation was conducted by using AMSTAR-2. A descriptive analysis of the included systematic reviews and meta-analysis were conducted.
+
+Results: Thirteen descriptive systematic reviews and 7 meta-analyses were included. Three articles evidenced low methodological quality according to AMSTAR-2 tool. Overall success rates for the endodontic regeneration procedures ranged from 50% to 98% and the survival rates were between 94% and 100%. Pulp regeneration had a high success rate, evidenced by factors such as the resolution of symptoms, healing, increased root length, dentin thickening and recovery of sensitivity. Follow-up varied from 1 to 48 months for the original studies included in the systematic reviews and meta-analyses.
+
+Conclusions: Endodontic practice offers the clinician a good treatment option in case of necrotic pulp with immature roots such as the endodontic regeneration, that is supported by high and moderate quality scientific literature.
+
+=== FULL TEXT ===
+
+Introduction
+
+Regenerative endodontics is a developing field of dentistry whose main objective is to give continuity to the development of the tooth and recovery of its functions. Currently, techniques have been implemented that allow the treatment of permanent teeth with immature roots that have suffered pulp necrosis due to etiological factors, such as dental caries and dentoalveolar trauma. This implies a transformation in the way in which these cases have traditionally been approached that can also result in the recovery of dental health in all its anatomical and physiological components, such as complete root formation, recovery of sensitivity, revascularization, and re-innervation. Until a few years ago, immature teeth with pulpal necrosis were treated with apexification of calcium hydroxide and apical barrier with biomaterials. However, the literature reports limited results regarding the thickening of the dentin and increasing the length of the root, which incurs a high risk of fracture and tooth loss.
+
+Currently, there are various pulp regeneration techniques, such as the use of platelet derivatives, scaffolds, stem cells, and growth factors. These have been described in clinical trials and systematic reviews that attempt to standardize their use in decision-making based on good quality scientific evidence. In general, regenerative endodontics comprises procedures with molecular and biological bases designed to replace dental structures affected by early pulp pathology, such as cement, periodontal ligament, and bone. When regeneration of the pulp and periapical tissues is implemented, procedures are carried out that facilitate fundamental biological and structural processes, such as cell differentiation and enzyme secretion. However, there are controversial issues regarding the type of cells in regenerative processes. For example, odontoblasts at the coronal level present different phenotypes compared to those found at the apical level and require different regenerative procedures. Another example is scaffolding; tissues are three-dimensional structures and need an appropriate matrix to promote cell growth and differentiation. The nature of this structure can be a stimulated blood clot or a material of natural or synthetic origin. A third component is signaling, which is formed by growth factors and other enzymes that stimulate cell proliferation and differentiation. In this sense, the thickening of the dentin walls can be caused by the production of cement or dentin thanks to molecular signals and cells. Several regeneration mechanisms have been mentioned in the literature: First, vital pulp cells that remain in the apical region can induce Hertwig epithelial cells so that they proliferate and differentiate into odontoblast-like cells. Second, stem cells from the dental pulp present in permanent teeth may differentiate into odontoblast-like cells. Third, regeneration may occur due to the presence of stem cells in the periodontal ligament that proliferate from the apical region. The fourth mechanism is attributed to the presence of stem cells found in the apical papilla or medullary bone; in this case, the induction of bleeding transports stem cells of mesenchymal origin from the bone to the lumen of the duct, a stimulated blood clot is rich in growth factors, generating a stimulus for the differentiation and maturation of fibroblasts, odontoblasts, and cementoblasts.
+
+Knowledge of the biological activities that modulate cellular events during the pulp regeneration process allows us to identify how and in which cases regenerative treatment should be carried out and to devise improved regeneration protocols that improve the prognosis. Some considerations for the success of endodontic regeneration are related in scientific texts and articles, for example, good disinfection of the canals, the proportion of a scaffold - a blood clot or a scaffold of synthetic or natural origin that facilitates the activity of cells, an adequate coronal seal to prevent bacterial invasion, and occasionally the administration of growth factors to facilitate the process of cellular and molecular interaction. The expected results of these procedures are total development of the root in length and thickening of the walls, health of the ligament and bone, revascularization, and recovery of sensitive functions.
+
+Many studies comparing the techniques traditionally used and current pulp regeneration techniques have found that these new procedures are associated with higher increases in root length and thickness as compared to apexification, as well as increased survival rates. However, knowledge on this topic is still very diverse and abundant, making it necessary to standardize the techniques of pulp regeneration according to the different methods. This will facilitate clinical decision-making based on quality scientific studies.
+
+Accordingly, the objective of this umbrella review is to discover the existing scientific evidence in systematic reviews and/or meta-analyses on the effectiveness of and the factors demonstrating the success of different types of regenerative endodontic therapy in teeth with necrotic pulps and with incomplete root development.
+
+Materials and Methods
+
+Study protocol and registration: Written per PRISMA statement. Registered at PROSPERO (CRD42019124402). Approved by Ethics Committee, Faculty of Dentistry, University of Antioquia (Act 11/2019).
+
+Design, search strategy, and period: Umbrella review methodology per Joanna Briggs Institute. PICO question: What are the effectiveness and success factors (O) of different types of regenerative endodontic therapy (I,C) in teeth with pulpal necrosis and incomplete root development (P)? No time filters; languages English, Portuguese, Spanish. Databases: PubMed-Medline, Scopus, LILACS, EMBASE, Cochrane Database of Systematic Reviews, plus grey literature (Google Scholar, manual searches). Two reviewers independently screened titles/abstracts; disagreements resolved via third reviewer.
+
+Critical appraisal: Three authors reviewed quality. Pilot test with 5 articles, concordance index 90%. PRISMA checklist for SRs plus AMSTAR-2 (16-item checklist, 4 quality levels: high/moderate/low/critically low). Risk of bias, heterogeneity assessed per review. No study excluded on quality grounds.
+
+Study design included: systematic reviews and meta-analyses. Participants: all ages with necrotic pulps and immature open-apex teeth. Interventions: different types of regenerative endodontic therapy. Outcomes: effectiveness/success factors — signs/symptoms improvement, root lengthening, dentin wall thickness change, apical foramen closure, sensitivity tests, other clinical/socio-demographic variables. Exclusions: theoretical reviews, intervention/observational/analytical studies, essays, clinical guides.
+
+Results
+
+Initial search: 398 records → 309 after dedup → 264 excluded on title/abstract → 45 full-text reviewed → 20 publications included (period 2012–2020).
+
+AMSTAR-2 quality: 11 studies (55%) high quality, 6 (30%) moderate quality, 3 (15%) low quality. Heterogeneity: not specified in 10 (50%), low in 3 (15%), high in 4 (20%), variable in 3 (15%). Risk of bias: unclear in 9 (45%), moderate in 10 (50%), high in 1 (5.3%). Quality assessment instrument: Cochrane Collaboration Tool used in 10 (50%), Newcastle-Ottawa Scale in 3 (15%), Oxford CEBM/CEBMa in 1 (5%); 7 (35%) did not clarify instrument.
+
+Study characteristics: 7 (35%) included meta-analysis; 7 (35%) from Europe, 5 (25%) Brazil, 3 (15%) Asia, 3 (15%) USA, 2 (10%) Australia. Number of original studies per SR ranged from 3 (Nicoloso) to 144 (Torabinejad). Scaffolds: blood clots, PRP, PRF, stem cells, synthetic/natural scaffolds (2 SRs did not specify). Irrigation: 0.5–6% NaOCl + 17% EDTA in all; 8 studies (40%) also used H2O2/chlorhexidine 2%. Intracanal medication: 15 studies (75%) used tri-antibiotic paste, bi-antibiotic paste, or calcium hydroxide; 1 study (5%) used Formocresol; 4 SRs (20%) did not specify.
+
+Follow-up: 1–48 months overall; 11 SRs (55%) had original studies with ≤4-month follow-up; Kontakiotis 2014 included studies followed to 48 months.
+
+Success/survival rates: 12 SRs (60%) reported general success rates; 4 (20%) reported survival rates. Lowest success rates (50%) reported by Meschi and Rossi-Fedele; remaining studies reported success ≥76%. Survival rates were ≥94% across studies reporting them.
+
+Specific outcome factors: Resolution of symptoms in 100% of cases reported by 15 articles (75%); reduction 50–100% in lesion size reported by 11 studies (55%); apical closure >80% reported by 6 studies (30%); dentin wall thickening 80–100% reported by 6 articles (30%); root length increase 0–100% reported by 9 articles (45%); recovery of pulp sensitivity (rarely analyzed, only 2 articles, 10%) ranged 13–80%.
+
+Limitations across included SRs: lack of clarity between survival and success (n=20, 100%); success defined with different parameters (n=16, 80%); small sample sizes (n=15, 75%); no suitable methodology protocol/registration (n=13, 65%); heterogeneous regeneration protocols/materials (n=12, 60%); lack of methodological rigor calling for more/better RCTs (n=8, 40%); inconsistent risk-of-bias methodology (n=8, 40%); English-only, no grey literature searched (n=4, 20%); uncontrolled longitudinal studies/high bias RCTs included (n=2, 10%); no sample-size calculation (n=2, 10%); high methodological heterogeneity in meta-analyses (n=2, 10%); animal vs human study comparisons (n=1, 5%).
+
+Discussion (key points)
+
+Success vs survival are conceptually distinct: survival = tooth retained in mouth; success = survival + return to optimal health/function.
+
+Traditional apexification (calcium hydroxide): average survival ~88%, but requires many appointments. Apexification with biomaterials (MTA): fewer appointments, survival 97–100% at up to 36 months. Regenerative endodontic therapy: survival 94–98% at up to 48-month follow-up.
+
+Symptom resolution: apexification with Ca(OH)2 or biomaterial achieves 98–100% symptom control; regenerative endodontics achieved 100% symptom resolution in 85% (17/20) of included reviews, remaining reported 40–100%.
+
+Lesion size reduction: 55% of included reviews reported 50–100% reduction for pulp regeneration; apexification biomaterials reported ~94% lesion reduction at 6–18 months, Ca(OH)2 apexification ~87% reduction.
+
+Dentin wall thickening and root length gain are considered exclusive advantages of regenerative endodontic therapy over apexification (apexification success rates for these parameters <10%).
+
+Pulp sensibility recovery was under-analyzed (2 articles) but reported achievable in 13–80% of cases, with clinical trials showing significant responses up to 18-month follow-up.
+
+Scaffold choice (blood clot vs PRP vs PRF vs synthetic) may influence outcomes but evidence not entirely conclusive; irrigation protocol differences may also contribute.
+
+Cervical barrier material: MTA most studied; Biodentine has shorter setting time and lower pigmentation risk but similar biocompatibility/success (92–99%) to MTA and EndoSequence BC Sealer.
+
+Patient response factors: tobacco use, chronic disease, presence of local infection (apical periodontitis/abscess), age, genetic profile, and phenotype may influence healing/prognosis — under-researched area needing long-follow-up clinical trials.
+
+Strengths/limitations of this umbrella review: results depend on methodological quality of included SRs (not original studies directly); included SRs drawn from limited geography (Europe, Asia, North America; only Brazil for Latin America) — possible "iceberg effect"; English-language restriction, no grey literature in this review's own search beyond Google Scholar/manual search may have omitted literature.
+
+Conclusions
+
+Pulp regeneration and apexification are both highly successful procedures (survival, symptom resolution, lesion healing) without significant differences reported in original articles of included SRs. Regenerative endodontic therapy additionally offers tooth vitality, root length gain, functioning odontoblasts, dentin wall thickening, and in some cases nerve/vascular functional recovery — advantages over apexification for long-term prognosis. More rigorous clinical trials (including newer approaches like growth factors and stem cells) are needed; future studies should standardize success/survival definitions and account for genotype/phenotype and population variability.

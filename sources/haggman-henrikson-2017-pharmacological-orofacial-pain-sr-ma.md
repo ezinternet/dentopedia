@@ -12,11 +12,21 @@ source_collection: external
 ## Why Ingested
 TMD 및 BMS 약물치료 근거를 망라한 최초의 network meta-analysis 기반 health technology assessment. [[tmj/tmj-management-overview]] 에서 참조할 약물치료 evidence base 제공; BMS 약물치료([[oral-medicine/]]) 및 TMD-근육·관절 통증 관리 지침에 직접 연결.
 
-## One-line Summary
-SR+NMA (n=57 RCTs, 2,033 patients): NSAIDs/corticosteroid/hyaluronate for TMD-joint; cyclobenzaprine for TMD-muscle; clonazepam and capsaicin for BMS — all with limited GRADE evidence.
+## Three-line Summary
 
-## 한줄요약
-SR+NMA (57 RCT, 2,033명): TMD-관절에 NSAIDs/코르티코스테로이드/히알루론산; TMD-근육에 시클로벤자프린; BMS에 클로나제팜·캅사이신 — 전반적으로 GRADE 근거 제한적.
+SR+NMA (n=57 RCTs, 2,033 patients): NSAIDs/corticosteroid/hyaluronate for TMD-joint;
+
+cyclobenzaprine for TMD-muscle;
+
+clonazepam and capsaicin for BMS — all with limited GRADE evidence.
+
+## 세줄요약
+
+SR+NMA (57 RCT, 2,033명): TMD-관절에 NSAIDs/코르티코스테로이드/히알루론산;
+
+TMD-근육에 시클로벤자프린;
+
+BMS에 클로나제팜·캅사이신 — 전반적으로 GRADE 근거 제한적.
 
 ## 1. Document Information
 - **Journal**: Journal of Oral Rehabilitation 44(10):800–826 (2017)

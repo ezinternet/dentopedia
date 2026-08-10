@@ -6,7 +6,7 @@ date: 2020-11-04
 doi: "10.1002/14651858.CD003067.pub5"
 source: kashbour-2020-sealants-versus-fluoride-varnishes-decay.md
 category: [caries]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: false
 pmid: "33142363"
@@ -22,11 +22,19 @@ relations:
     target: rashed-2022-sealant-vs-fluoride-varnish-caries-prevention-sr-ma
 ---
 
-## One-line Summary
-Cochrane SR+MA (11 RCTs, 3374 children aged 5–10): cannot determine whether resin sealant or fluoride varnish is superior for preventing occlusal caries (OR 0.67, 95% CI 0.37–1.19, I²=84%, very low certainty); combined sealant + varnish may beat varnish alone (OR 0.30, very low certainty).
+## Three-line Summary
+Cochrane SR+MA (11 RCTs, 3,374 children aged 5–10, pub5 2020) comparing pit-and-fissure sealants versus fluoride varnishes for preventing decay in permanent teeth of children and adolescents.
 
-## 한줄요약
-코크란 SR+MA (RCT 11편, 5–10세 3,374명): 레진 전색과 불소바니시 중 우열 판정 불가(OR 0.67, 95% CI 0.37–1.19, I²=84%, 매우 낮은 확실성). 전색+바니시 병용이 바니시 단독보다 우수할 가능성(OR 0.30; 매우 낮은 확실성).
+Resin sealant vs fluoride varnish: OR 0.67 (95% CI 0.37–1.19, I²=84%, very low certainty) — neither intervention proven superior; combined sealant + varnish vs varnish alone: OR 0.30 (very low certainty, 1 trial).
+
+Neither intervention can be declared superior with current evidence; 14 ongoing trials are expected to provide more definitive guidance.
+
+## 세줄요약
+코크란 SR+MA (RCT 11편, 5–10세 3,374명, pub5 2020): 영구치 우식예방에서 레진 치면열구전색 vs 불소바니시 상대 효과 비교.
+
+레진 전색 vs 불소바니시: OR 0.67 (95% CI 0.37–1.19, I²=84%, 매우 낮은 확실성) — 우열 불명; 전색+바니시 병용 vs 바니시 단독: OR 0.30 (매우 낮은 확실성, 단일 시험).
+
+현재 근거로 우열 확정 불가; 진행 중인 14개 RCT가 향후 결론을 명확히 할 것으로 기대된다.
 
 ## Summary
 This is the current (pub5, 2020) Cochrane review on the *relative* effectiveness of pit-and-fissure sealants versus fluoride varnish — the comparator question that sits one step beyond the no-treatment baseline established by Ahovuo-Saloranta 2017. Across 11 RCTs, the pooled resin-sealant-vs-varnish estimate was imprecise and highly heterogeneous (OR 0.67, 95% CI 0.37–1.19, I²=84%), so neither intervention could be declared superior; all results were graded very low certainty. A single split-mouth trial suggested adding sealant on top of varnish reduces caries by ~77% over varnish alone at two years. No adverse events were reported. The authorship changed at this update (Kashbour-led, with a health-economics co-author), and pub5 supersedes the pub4 (2016) Ahovuo-Saloranta version. Fourteen ongoing trials are expected to sharpen future conclusions.

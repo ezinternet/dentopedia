@@ -15,8 +15,21 @@ Versah 공식 즉시식립 프로토콜. 발치와에서 OD bur 순서·토크·
 
 → 관련 wiki: [[wiki/overviews/osseodensification-clinical-applications]] / [[wiki/implants/versah-protocols/versah-immediate-implant-placement-protocol]]
 
-## One-line Summary
-Versah manufacturer protocol (2-page) for immediate implant placement into extraction sockets using osseodensification, emphasizing apical anchorage and compaction allografting.
+## Three-line Summary
+
+Versah manufacturer protocol (2-page) for immediate
+
+implant placement into extraction sockets using
+
+osseodensification, emphasizing apical anchorage and compaction allografting.
+
+## 세줄요약
+
+Versah manufacturer protocol (2-page) for immediate
+
+implant placement into extraction sockets using
+
+osseodensification, emphasizing apical anchorage and compaction allografting.
 
 ## 1. Document Information
 - **Title:** Osseodensification Immediate Implant Placement Protocol
@@ -38,8 +51,8 @@ Protocol outcome: primary stability provided by apical socket (not coronal walls
 Manufacturer marketing document — not peer-reviewed. Apical-anchorage principle requires sufficient apical bone (not all socket morphologies). Allograft selection ratio (70/30) not validated against alternatives in this document.
 
 ## 6. Related Work
-- [[immediate-implant/bleyan-2021-molar-septum-expansion-osseodensification-immediate-implant]]
-- [[immediate-implant/darosa-2019-immediate-dentoalveolar-restoration-osseodensification-periodontal]]
+- [[immediate-implant/molar-septum/bleyan-2021-molar-septum-expansion-osseodensification-immediate-implant]]
+- [[immediate-implant/gap-grafting/darosa-2019-immediate-dentoalveolar-restoration-osseodensification-periodontal]]
 - [[implants/versah-protocols/versah-idr-ii-immediate-dentoalveolar-restoration-protocol]]
 - [[implants/versah-protocols/versah-combined-molar-septum-expansion-sinus-lift-protocol]]
 

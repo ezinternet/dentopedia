@@ -10,8 +10,21 @@ pdf_filename: mustapha-2022-smoking-dental-implants-sr-ma.pdf
 source_collection: external
 ---
 
-## One-line Summary
-SR+MA (Medicina 2022, Malmö Univ): 흡연 + 임플란트 — 실패율 + MBL (marginal bone loss) 모두 흡연자에서 유의하게 높음; 전반적 evidence 흡연 negative effect 확정.
+## Three-line Summary
+
+SR+MA (Medicina 2022, Malmö Univ): 흡연 + 임플란트
+
+— 실패율 + MBL (marginal bone loss) 모두
+
+흡연자에서 유의하게 높음; 전반적 evidence 흡연 negative effect 확정.
+
+## 세줄요약
+
+SR+MA (Medicina 2022, Malmö Univ): 흡연 + 임플란트
+
+— 실패율 + MBL (marginal 골 (Bone) loss) 모두
+
+흡연자에서 유의하게 높음; 전반적 evidence 흡연 negative effect 확정.
 
 ## 2. Key Contributions
 - 광범위 SR+MA on smoking and dental implants.
@@ -21,7 +34,7 @@ SR+MA (Medicina 2022, Malmö Univ): 흡연 + 임플란트 — 실패율 + MBL (m
 SR+MA per PRISMA on smoking and implant outcomes (survival + MBL).
 
 ## 4. Key Results
-[근거강함] Smokers: higher implant failure rate, more MBL vs non-smokers.
+[확인] Smokers: higher implant failure rate, more MBL vs non-smokers.
 
 ## 5. Limitations
 - Observational base

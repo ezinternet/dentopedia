@@ -16,13 +16,21 @@ text_filename: monje-2025-implant-design-stability-early-healing-rct.txt
 
 ISQ 추적 RCT로 early healing 중 안정성 감소(안정성 감소 구간, Stability Dip) 패턴 분석; 테이퍼형(BLX) vs 원통형(BL) 임플란트 디자인이 초기 치유 기간 ISQ 궤적에 미치는 영향을 직접 비교. [[implants/isq/]] stability ladder 보강 및 디자인 변수 이해에 기여.
 
-## One-line Summary
+## Three-line Summary
 
 RCT (n=85 implants, 66 patients) comparing tapered (BLX) vs cylindrical (BL) Straumann implants over 6-week healing: BLX showed higher insertion torque but BL achieved higher final ISQ (75.2 vs 72.2) at 6 weeks, though both designs maintained high stability throughout.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 RCT (85개 임플란트, 66명): 테이퍼형(BLX)은 초기 삽입 토크(42.4 N·cm)가 높으나, 6주 후 최종 ISQ는 원통형(BL, 75.2)이 유의하게 높았고(p=0.02), 두 디자인 모두 초기 치유 중 높은 안정성을 유지함.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

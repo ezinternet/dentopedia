@@ -13,13 +13,21 @@ source_collection: external
 
 Complete-denture fabrication is increasingly digital, yet the relative clinical merits of additive (3D printing) versus subtractive (milling) manufacturing remain debated. This SR+MA directly fills a gap in [[complete-denture/alhajj-2017-occlusal-vertical-dimension-complete-denture-review]] which focuses on conventional prosthodontic benchmarks (OVD, retention) without addressing the digital-fabrication comparison; Khorasani 2024 quantifies the retention and satisfaction difference between the two digital methods.
 
-## One-line Summary
+## Three-line Summary
 
 SR+MA (4 RCTs/clinical studies, n=patients) finds no statistically significant difference in denture retention (SMD=0.165, p=0.343) or patient satisfaction (SMD=−0.595, p=0.236) between 3D-printed and milled complete dentures, though high heterogeneity limits conclusions.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 SR+MA (4편)에서 3D 프린팅과 밀링으로 제작된 총의치 간 유지력(SMD=0.165, p=0.343) 및 환자 만족도(SMD=−0.595, p=0.236) 차이 없음 — 단, 높은 이질성으로 해석에 주의 필요.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

@@ -6,18 +6,28 @@ date: 2024-04-01
 doi: "10.1111/iej.14082"
 source: babeer-2024-microrobotics-endodontics-perspective.md
 category: [endodontics]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/babeer-2024-microrobotics-endodontics-perspective.pdf
 pdf_filename: babeer-2024-microrobotics-endodontics-perspective.pdf
 source_collection: external
 tags: [endodontics, microrobotics, iron-oxide-nanoparticles, biofilm, magnetic-control, dentinal-tubules, disinfection, nanotechnology]
 ---
 
-## One-line Summary
-Perspective review describing three magnetically controlled microrobot platforms (IONP microswarms, 3D helicoids ~700 μm × 1.5 mm, silica nanorobots ~3 μm) capable of simultaneous biofilm disruption, in situ ROS generation, on-demand antibiotic release, and diagnostic sampling within root canal intricacies unreachable by conventional methods.
+## Three-line Summary
 
-## 한줄요약
-Perspective review: 3종 자기장 마이크로로봇이 근관 난접근부 바이오필름 파괴·ROS 생성·항생제 방출·진단 샘플 채취를 동시 수행 — 기존 활성화법 한계 극복을 목표로 하는 전임상 단계 근관 치료 혁신 기술.
+Perspective review presenting three magnetically controlled microrobot platforms as a solution to the established inability of conventional endodontic disinfection to predictably access anatomical intricacies (isthmuses, lateral canals, dentinal tubules): iron oxide nanoparticle (IONP) microswarms configurable to canal geometry; 3D-molded soft helicoids (~700 μm × 1.5 mm) with on-demand antibiotic release and CBCT-trackability; helical silica nanorobots (~3 μm) penetrating dentinal tubules to ~1000 μm depth with magnetic hyperthermia.
+
+Each platform combines multiple functions (mechanical biofilm disruption + catalytic ROS generation + targeted drug delivery + microbiome sample retrieval) within a single device; all evidence is in vitro or ex vivo proof-of-concept and clinical translation remains future work.
+
+Microrobotics represents a paradigm shift toward simultaneous multifunctional endodontic disinfection, but significant engineering challenges remain (complete nanorobot retrieval, in vivo safety, canal-geometry adaptability) before clinical application.
+
+## 세줄요약
+
+줄1: 기존 근관 소독이 접근 불가한 isthmus·측방관·상아세관을 대상으로 자기장 제어 마이크로로봇 3종(IONP 마이크로스웜, 3D helicoid ~700 μm, 실리카 나노로봇 ~3 μm)을 소개하는 perspective review.
+
+줄2: 각 플랫폼은 바이오필름 파괴·ROS 촉매 생성·약물 방출·샘플 채취를 단일 장치로 통합; 현재 근거는 모두 in vitro/ex vivo 개념증명 단계이며 임상 적용은 미래 과제.
+
+줄3: 다기능 동시 소독 패러다임 전환을 제시하나 나노로봇 완전 회수·생체 내 안전성·관 형태 적응 등 공학적 과제 해결이 선행되어야 함.
 
 ## Summary
 Babeer et al. present a perspective on magnetically controlled microrobotics as a solution to the documented failure of conventional endodontic disinfection to predictably access anatomical intricacies (isthmuses, lateral canals, dentinal tubules). Three platforms are reviewed: (1) aggregated IONP microswarms that configure dynamically to canal geometry, disrupt biofilm mechanically, generate ROS catalytically, and retrieve microbiome samples; (2) 3D-molded soft helicoids (~700 μm × 1.5 mm) driven by rotating magnetic fields with screw-like shear force and on-demand antibiotic release, CBCT-trackable; (3) helical silica nanorobots (~3 μm) penetrating dentinal tubules to ~1000 μm depth with magnetic hyperthermia killing E. faecalis. All platforms are in vitro/ex vivo proof-of-concept; clinical translation remains future work.
@@ -40,5 +50,5 @@ Narrative perspective review (non-systematic). Evidence base: in vitro (canal wa
 
 ## Related Papers
 - [[endodontics/irrigation/boutsioukis-2022-irrigants-irrigation-methods-status-directions]] — cited directly as establishing the gap that microrobotics addresses: no activation method improves long-term outcome or predictably accesses intricacies (motivates this work)
-- [[endodontics/ordinola-zapata-2022-intracanal-medicaments-status-directions]] — intracanal medicament limitations (Ca(OH)₂ vs E. faecalis in biofilm) support the case for microrobot-delivered antimicrobials (extends)
+- [[endodontics/irrigation/ordinola-zapata-2022-intracanal-medicaments-status-directions]] — intracanal medicament limitations (Ca(OH)₂ vs E. faecalis in biofilm) support the case for microrobot-delivered antimicrobials (extends)
 - [[endodontics/irrigation/khoury-2024-endodontic-irrigants-comprehensive-perspective-review]] — broad irrigant overview providing the chemical landscape into which microrobot drug-delivery integrates (context)

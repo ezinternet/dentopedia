@@ -6,7 +6,7 @@ date: 2019-07-17
 doi: 10.1016/j.prosdent.2019.05.032
 source: koole-2019-spray-stretch-technique-mouth-opening.md
 category: [tmj]
-confidence: prospective
+evidence_level: prospective
 source_collection: pubmed-text
 full_text: false
 pmid: "31326152"
@@ -21,13 +21,21 @@ relations:
     target: gonzalez-sanchez-2023-tmj-physiotherapy-treatment-sr
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Prospective clinical study (n=121: 60 orofacial-pain patients + 61 asymptomatic controls) showing a vapocoolant **spray-and-stretch** maneuver to both cheeks immediately increased maximal mouth opening (MMO), with a larger relative gain in pain patients than controls (P<.001) and larger in women than men — abstract-only ingest, full text not retrieved.
+Prospective two-group interventional study (n=121: 60 orofacial-pain patients + 61 asymptomatic controls) measuring the immediate effect of vapocoolant spray swept twice over both cheeks on maximal mouth opening (MMO); abstract-only ingest.
 
-## 한줄요약
+MMO increased in most participants after spray-and-stretch; the gain was significantly larger in orofacial-pain patients than controls (P<.001) and larger in women; no significant age effect (P=.73).
 
-전향적 임상연구 (n=121: 구강안면통증 환자 60 + 무증상 대조 61) — 양 볼에 vapocoolant **분사신장(spray-and-stretch)** 후 최대개구량(MMO)이 즉시 증가, 통증 환자에서 대조군보다(P<.001)·여성에서 남성보다 증가폭이 컸다 (PubMed 초록 기반, 전문 미확보).
+The spray maneuver can deliver the stretch benefit while sparing patients the discomfort of passive stretching, but this study captures only an immediate range-of-motion effect — durable symptom relief and effect-size magnitudes in mm are not recoverable from the abstract.
+
+## 세줄요약
+
+전향적 두 군 중재 연구 (n=121: 구강안면통증 환자 60 + 무증상 대조 61): 양 볼에 vapocoolant 분사신장 후 최대개구량(MMO) 즉시 변화를 측정; PubMed 초록만 확보.
+
+분사신장 후 대부분의 참가자에서 MMO 즉시 증가; 통증 환자군에서 대조군보다 유의하게 큰 개선(P<.001), 여성에서 남성보다 큰 경향.
+
+피동적 신장의 통증 없이 신장 효과를 얻는다는 임상 활용 근거이나, 이 연구는 즉각 효과만 측정했고 지속적 증상 완화 여부는 확인 불가.
 
 ## Summary
 

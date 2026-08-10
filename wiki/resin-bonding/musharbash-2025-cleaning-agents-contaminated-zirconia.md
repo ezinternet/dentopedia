@@ -6,7 +6,7 @@ date: 2025-07-08
 doi: 10.1111/jerd.13512
 source: musharbash-2025-cleaning-agents-contaminated-zirconia.md
 category: [resin-bonding]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: false
 pmid: "40625229"
@@ -21,13 +21,21 @@ relations:
     target: genc-2025-cleaning-protocols-zirconia-bond-strength
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In-vitro SBS study (n=100, KATANA STML, saliva-contaminated): air-particle abrasion gave the highest bond strength, while Katana Cleaner / Ivoclean / Zirclean were viable chemical alternatives; thermocycling reduced bond in all groups.
+In-vitro shear bond strength study (JERD 2025; n=100 KATANA STML zirconia specimens, saliva-contaminated, 4 decontamination arms + control, bonded with Panavia V5; tested at 48 h and after 10,000 thermocycles) comparing air-particle abrasion versus three commercial chemical cleaners (Katana Cleaner, Ivoclean, Zirclean).
 
-## 한줄요약
+Air-particle abrasion produced significantly higher SBS than all three chemical cleaners (p<0.05); Katana Cleaner, Ivoclean, and Zirclean were viable alternatives; thermocycling significantly reduced SBS in all groups (p<0.05); exact numeric SBS values and failure-mode distribution were not available (abstract-only).
 
-In-vitro 전단접착강도 연구(n=100, KATANA STML, 타액 오염): 공기입자분사(Air-Particle Abrasion)가 가장 높은 접착강도를 보였고, Katana Cleaner·Ivoclean·Zirclean은 유효한 화학적 대안이었으며, 열순환(thermocycling)은 모든 군의 접착강도를 감소시켰다.
+When saliva-contaminated zirconia cannot be re-abraded chairside, a dedicated chemical cleaner (Katana Cleaner / Ivoclean / Zirclean) is an acceptable substitute; some bond-strength loss after thermal aging should be expected regardless of the decontamination method used.
+
+## 세줄요약
+
+인 비트로 전단접착강도 연구(JERD 2025; KATANA STML 지르코니아 시편 100개, 타액 오염, 4가지 오염 제거 방법 + 대조군, Panavia V5 접착; 48시간 및 열순환 10,000회 후 평가) — 공기입자분사 vs 3종 상업용 세정제(Katana Cleaner·Ivoclean·Zirclean) 비교.
+
+공기입자분사가 3종 세정제 모두보다 유의하게 높은 SBS(p<0.05); Katana Cleaner·Ivoclean·Zirclean은 유효한 대안; 열순환 후 모든 군에서 SBS 유의하게 감소(p<0.05); 초록만 확보되어 SBS 수치·파절 양상 분포는 확인 불가.
+
+의자 옆에서 오염된 지르코니아를 재공기연마할 수 없는 경우 전용 세정제가 적합한 대안이며; 세정 방법에 관계없이 열 노화 후 일정 수준의 접착강도 감소를 예상해야 한다.
 
 ## Summary
 

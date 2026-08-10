@@ -16,13 +16,21 @@ text_filename: wang-2019-fiber-posts-vs-metal-posts-severely-damaged.txt
 
 Highest available evidence tier (RCT-only SR+MA, GRADE-rated) specifically addressing the hardest clinical scenario in post-and-core: severely damaged endodontically treated teeth (ETT) with ≤2 coronal walls remaining. Prior wiki coverage of post-and-core lacks a GRADE-rated survival endpoint specific to this structural threshold. Directly extends [[post-and-core/]] evidence base with a survival RR estimate (0.57) that is actionable for the clinical question of post selection when ferrule is severely compromised. See also related overview on ETT restoration decision thresholds.
 
-## One-line Summary
+## Three-line Summary
 
 RCT-only SR+MA (4 RCTs, 3–7 yr, GRADE high/moderate): fiber posts show significantly higher survival than metal posts (RR 0.57, 95% CI 0.33–0.97, P=.04) in severely damaged ETT (≤2 coronal walls).
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 RCT 전용 SR+MA (4건, 3–7년 추적, GRADE 고/중): 잔존 치질 ≤2벽 심한 손상 근관치료치에서 파이버포스트의 생존율이 금속포스트보다 유의하게 높음 (RR 0.57, P=.04).
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

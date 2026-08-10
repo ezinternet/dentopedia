@@ -17,13 +17,21 @@ text_filename: mohapatra-2024-water-flosser-vs-floss-plaque-sr.txt
 
 Adds a head-to-head water-flosser-vs-dental-floss SR focused specifically on the *plaque-reduction* endpoint, complementing [[interdental-cleaning/mancinelli-lyle-2024-water-flosser-vs-interdental-brush-rct]] (water flosser vs interdental brush) and providing the general-adult counterpoint to the orthodontic-only [[interdental-cleaning/yiamwattana-2025-oral-irrigator-vs-floss-orthodontic-sr-ma]], which found no oral-irrigator superiority. The two SRs disagree, so holding both is needed to characterize the tension in the device-comparison literature.
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (PRISMA/PROSPERO-registered, 7 RCTs, n≈155 vs 156 adults; qualitative synthesis, NO meta-analysis due to I²=97% heterogeneity) finding the majority of included trials (4/7) favored water flossers over dental floss for plaque reduction — especially at inaccessible interproximal areas — while 3/7 found no between-group difference; GRADE certainty "moderate."
+Systematic review (PRISMA/PROSPERO-registered, 7 RCTs, n≈155 vs 156 adults;
 
-## 한줄요약
+qualitative synthesis, NO meta-analysis due to I²=97% heterogeneity) finding the majority of included trials (4/7) favored water flossers over dental floss for plaque reduction — especially at inaccessible interproximal areas — while 3/7 found no between-group difference;
 
-성인 대상 물치실(water flosser)과 치실(dental floss)의 치면세균막 감소 효과를 비교한 체계적 문헌고찰(RCT 7편, PRISMA·PROSPERO 등록, 정량 메타분석은 I²=97% 이질성으로 미시행). 7편 중 4편이 물치실 우위(특히 접근 어려운 인접면), 3편은 차이 없음 — GRADE 근거 수준 "moderate".
+GRADE certainty "moderate."
+
+## 세줄요약
+
+성인 대상 물치실(water flosser)과 치실(dental floss)의 치면세균막 감소 효과를 비교한 체계적 문헌고찰(RCT 7편, PRISMA·PROSPERO 등록, 정량 메타분석은 I²=97% 이질성으로 미시행).
+
+7편 중 4편이 물치실 우위(특히 접근 어려운 인접면), 3편은 차이 없음 — GRADE 근거 수준 "moderate".
+
+(incomplete)
 
 ## 1. Document Information
 

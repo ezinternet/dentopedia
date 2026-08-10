@@ -13,13 +13,21 @@ source_collection: external
 
 기존 TMD 위키는 진단·치료(스플린트·관절천자·BTX·운동)와 유병률·교합중재 근거에 집중돼 있는데, "편측저작 (Chewing-side Preference / Unilateral Chewing)"이라는 행동성·기능성 위험인자가 TMJ 구조(髁突·관절와·관절원판)와 TMD 발생을 어떻게 매개하는지 구조→기전 사슬을 다룬 페이지가 없었다. 본 중국어 narrative review (Zheng 2023, J Zhejiang Univ Med Sci)는 편측저작→TMJ 구조 변화→TMD의 중심 reference로, 교합인자-TMD 논쟁에 기능적 행동 변수를 보강한다. 유병률 anchor [[tmj/valesan-2021-tmd-prevalence-sr-ma]] (성인 31%)를 본문이 직접 인용하며, 교합중재 효과 회의론 [[tmj/singh-2024-occlusal-interventions-tmd-cochrane-sr]] 및 TMJOA 기전 [[tmj/song-2023-understanding-tmj-osteoarthritis-pathophysiology]] (과부하→VEGF·MMP)과 연결된다.
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review: chewing-side preference is a major risk factor for TMD — preferred-side condyles become shorter/displaced with reduced posterior-superior joint space, articular eminence inclination and glenoid fossa depth increase, and clinical studies show TMD patients have higher rates of unilateral chewing; proposed mechanisms span biomechanical (BMP-2/VEGF condylar cartilage remodeling), masticatory-muscle (CaN-driven Type II→I fiber shift, EMG asymmetry), and neurogenic (substance P / CGRP upregulation) pathways.
+Narrative review (J Zhejiang University Medical Sciences 2023, n=15 clinical studies tabulated) synthesizing human imaging (CBCT), clinical cross-sectional/case-control, animal (rat), and FEA studies on chewing-side preference (defined: one side >30% more cycles) as a TMD risk factor.
 
-## 한줄요약
+Preferred-side condyles show reduced posterior-superior joint space, greater articular eminence inclination and glenoid fossa depth, and higher rates of anterior disc displacement; clinical data show TMD patients have significantly higher rates of unilateral chewing (e.g., 56.5% of TMD vs healthy groups, Wu 2021 n=754), with severity correlating with chewing asymmetry (Yalçın 2017 n=519).
 
-서술적 고찰: 편측저작 (Chewing-side Preference)은 악관절장애 (TMD)의 주요 위험인자로, 偏向側 髁突이 짧아지고 상방·후방으로 이동(관절 후상방 간극 감소)하며 관절결절 경사도·관절와 깊이가 커지고, 임상연구에서 TMD 환자의 편측저작 비율이 건강군보다 높다. 기전은 생물역학(BMP-2·VEGF에 의한 髁突 연골 재형성), 咀嚼筋(CaN 경로 통한 Type II→I 섬유 전환·근전도 비대칭), 신경원성(P물질·CGRP 상향조절) 3축으로 제시된다.
+Three mechanistic pathways are proposed: biomechanical (BMP-2/VEGF-driven condylar cartilage remodeling), masticatory-muscle (CaN-pathway Type II→I fiber shift with EMG asymmetry), and neurogenic (substance P/CGRP upregulation in trigeminal ganglion); however, the narrative review lacks systematic search, risk-of-bias assessment, and directionality (cause vs consequence) remains uncertain.
+
+## 세줄요약
+
+서술적 고찰 (Journal of Zhejiang University Medical Sciences 2023, 임상연구 15편 표 집계) — 편측저작 (Chewing-side Preference, 한쪽 저작 주기수가 30% 초과)을 악관절장애 (Temporomandibular Disorders, TMD)의 위험인자로 다룬 CBCT·임상·동물·유한요소분석 연구를 종합.
+
+偏향側 髁突에서 후방·후상방 관절 간극 감소, 관절결절 경사도·관절와 깊이 증가, 비환원성 전방 관절원판 전위 비율 증가; 임상 데이터에서 TMD 환자의 편측저작 비율이 건강군보다 유의하게 높음 (Wu 2021 n=754: TMD의 56.5%), 중증도가 저작 비대칭과 비례 (Yalçın 2017 n=519).
+
+기전 3축 제시: 생물역학 (BMP-2·VEGF 髁突 연골 재형성), 저작근 (CaN 경로 통한 Type II→I 섬유 전환·근전도 비대칭), 신경원성 (삼차신경절 P물질·CGRP 상향조절); 그러나 체계적 검색·비뚤림 평가 없는 서술적 고찰이며 인과 방향성이 미확정.
 
 ## 1. Document Information
 

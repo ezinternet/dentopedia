@@ -6,20 +6,28 @@ date: 2024-12-12
 doi: 10.1016/j.identj.2024.11.007
 source: khorasani-2024-3d-printed-vs-milled-complete.md
 category: [complete-denture]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/khorasani-2024-3d-printed-vs-milled-complete.pdf
 pdf_filename: khorasani-2024-3d-printed-vs-milled-complete.pdf
 source_collection: external
 tags: [3d-printing, milling, cad-cam, digital-denture, retention, patient-satisfaction, additive-manufacturing, subtractive-manufacturing]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 4 clinical studies finds no statistically significant difference in denture retention (SMD=0.165, p=0.343, I²=59%) or patient satisfaction (SMD=−0.595, p=0.236, I²=86%) between 3D-printed and milled complete dentures.
+PRISMA SR+MA of 4 clinical studies (6 databases, search to August 2024) compared additive (3D-printed) vs subtractive (milled) complete denture fabrication on retention and patient satisfaction in edentulous patients.
 
-## 한줄요약
+No statistically significant difference was found for retention (SMD=0.165, p=0.343, I²=59%) or patient satisfaction (SMD=−0.595, p=0.236, I²=86%), with directional trends favoring 3D printing for retention and milling for satisfaction.
 
-SR+MA (4편): 3D 프린팅(적층가공) vs 밀링(절삭가공) 총의치 간 유지력·만족도 유의차 없음 — 높은 이질성(I²=59–86%)과 적은 연구 수로 결론은 잠정적.
+Only 4 eligible clinical studies exist and heterogeneity is very high (I²=59–86%), so conclusions are preliminary; standardized measurement protocols and longer follow-up studies are urgently needed.
+
+## 세줄요약
+
+PRISMA SR+MA(4편, 6개 데이터베이스, 2024년 8월 검색)로 적층가공(3D프린팅) vs 절삭가공(밀링) 총의치를 무치악 환자에서 유지력·환자만족도 측면에서 비교하였다.
+
+유지력(SMD=0.165, p=0.343, I²=59%)과 환자만족도(SMD=−0.595, p=0.236, I²=86%) 모두 통계적 유의차 없었으며, 방향성은 유지력에서 3D프린팅, 만족도에서 밀링이 다소 우세하였다.
+
+적격 임상연구가 4편뿐이고 이질성이 매우 높아(I²=59–86%) 결론은 잠정적이며, 표준화된 측정 프로토콜과 장기 추적연구가 시급하다.
 
 ## Summary
 

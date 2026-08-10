@@ -6,7 +6,7 @@ date: 2026-02-28
 doi: "10.5125/jkaoms.2026.52.1.18"
 source: cho-2026-clinical-characteristics-osteonecrosis-jaw-related.md
 category: [drug/mronj]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/cho-2026-clinical-characteristics-osteonecrosis-jaw-related.pdf
 pdf_filename: cho-2026-clinical-characteristics-osteonecrosis-jaw-related.pdf
 source_collection: external
@@ -18,13 +18,21 @@ relations:
     target: yokoo-2025-denosumab-mronj-breast-cancer-bone
 ---
 
-## One-line Summary
+## Three-line Summary
 
-5-year retrospective cohort (n=178 DRONJ, KNUDH 2019-2024) demonstrating high-dose Dmab (Xgeva 120mg) achieves only 53.8% treatment success vs 85.0% for low-dose (Prolia 60mg), with Dmab dose as the sole significant predictor (OR 5.13, P=0.028); BP-to-Dmab switch accelerates onset by ~7 months but does not worsen prognosis.
+5-year retrospective cohort (n=178 DRONJ, Korean tertiary center 2019–2024) comparing three groups: Prolia 60 mg only, BP-then-Prolia switch, and Xgeva 120 mg.
 
-## 한줄요약
+High-dose Xgeva achieved only 53.8% treatment success vs 85.0% for Prolia (p=0.027); multivariate regression confirmed denosumab dose as the only significant predictor (OR 5.13, 95% CI 1.19–22.14).
 
-경북대학교치과병원 5년 코호트(n=178 DRONJ) — Xgeva 치료 성공 53.8% vs Prolia 85.0%(p=0.027), 고용량 Dmab만이 독립적 예후 예측인자(OR 5.13), BP→Prolia 전환은 발생 시점을 ~7개월 앞당기되 중증도·예후에는 영향 없음.
+BP-to-Dmab switch accelerated DRONJ onset by ~7 months (cumulative antiresorptive burden) but did not worsen severity or outcomes; peri-implantitis was the precipitating event in 12.4% of cases.
+
+## 세줄요약
+
+경북대학교치과병원 5년 후향 코호트(n=178 DRONJ, 2019–2024) — 3군 비교: Prolia 60 mg 단독, BP→Prolia 전환, Xgeva 120 mg.
+
+Xgeva군 치료 성공률 53.8%로 Prolia 85.0% 대비 유의하게 낮았으며(p=0.027), 다변량 회귀에서 약물 용량만이 독립적 예후 예측인자로 확인됐다(OR 5.13, 95% CI 1.19–22.14).
+
+BP→Dmab 전환은 DRONJ 발생 시점을 ~7개월 앞당겼으나 중증도·예후에는 영향 없음; 임플란트 주위염이 12.4%에서 유발 인자였다.
 
 ## Summary
 

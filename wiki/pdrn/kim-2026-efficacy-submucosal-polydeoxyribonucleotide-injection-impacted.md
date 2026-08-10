@@ -6,20 +6,28 @@ date: 2026-02-01
 doi: 10.3349/ymj.2024.0549
 source: kim-2026-efficacy-submucosal-polydeoxyribonucleotide-injection-impacted.md
 category: [pdrn]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/kim-2026-efficacy-submucosal-polydeoxyribonucleotide-injection-impacted.pdf
 pdf_filename: kim-2026-efficacy-submucosal-polydeoxyribonucleotide-injection-impacted.pdf
 source_collection: external
 tags: [pdrn, rct, third-molar, oral-surgery, postop-pain, split-mouth]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Split-mouth RCT of submucosal PDRN injection after bilateral impacted mandibular third molar (IMTM) extraction: postoperative pain was significantly lower on the PDRN side at POD3 and POD7 (P < 0.05), while pain duration did not differ (a split-mouth attribution limitation) — the first human evaluation of PDRN for oral-surgery postoperative outcomes.
+Split-mouth RCT in patients with bilateral impacted mandibular third molars (IMTM), with submucosal PDRN injection on one side and saline/no injection on the contralateral control side after extraction — the first human RCT evaluating PDRN for oral-surgery postoperative outcomes.
 
-## 한줄요약
+Postoperative pain intensity was significantly lower on the PDRN side at POD3 and POD7 (P < 0.05); pain duration did not differ, likely due to split-mouth attribution difficulty; swelling was assessed by the Laskin method and no serious adverse events occurred.
 
-Split-mouth RCT. 매복 하악 제3대구치 양측 발치 후 submucosal PDRN injection 시 POD3·POD7 통증이 대조 측 대비 유의 감소. Pain duration은 split-mouth 한계로 분리 어려움.
+PDRN provides a meaningful analgesic adjunct after IMTM extraction, but future trials should use a parallel-group design to avoid the pain-duration attribution limitation inherent in split-mouth protocols.
+
+## 세줄요약
+
+줄1: 양측 매복 하악 제3대구치(IMTM) 발치 환자를 대상으로 한 측에 submucosal PDRN 주사, 반대 측에 생리식염수/무주사를 적용한 split-mouth RCT(구강외과 적용 PDRN 최초 인간 RCT).
+
+줄2: POD3·POD7 통증강도가 PDRN 측에서 대조 측 대비 유의하게 낮음(P<0.05); 통증 지속 기간은 유의차 없음; 중대 이상반응 없음.
+
+줄3: IMTM 발치 후 유의미한 진통 보조 효과가 확인되나, 통증 기간의 측별 귀속 어려움으로 향후 평행군 설계가 필요.
 
 ## Summary
 

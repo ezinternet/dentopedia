@@ -6,20 +6,20 @@ date: 2016-04-01
 doi: "10.3290/j.qi.a35625"
 source: kanzow-2016-etiology-pathogenesis-dental-erosion.md
 category: [dental-erosion]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/kanzow-2016-etiology-pathogenesis-dental-erosion.pdf
 pdf_filename: kanzow-2016-etiology-pathogenesis-dental-erosion.pdf
 source_collection: external
 tags: [dental-erosion, etiology, pathogenesis, extrinsic-acids, intrinsic-acids, GERD, saliva, narrative-review]
 ---
 
-## One-line Summary
+## Three-line Summary
 Concise narrative review (Quintessence Int 2016, 4 pp.) defining dental erosion as acid-related
 non-microbial tooth-structure loss, classifying aetiology as extrinsic (dietary/occupational)
 vs intrinsic (GERD/eating disorders), and delineating nutrition, saliva, systemic disease, and
 mechanical stress as severity-modifying parameters amenable to clinical risk-factor identification.
 
-## 한줄요약
+## 세줄요약
 Narrative review (Quintessence Int 2016): 치과 침식 = 세균 비관여 산에 의한 치질 소실;
 외인성(식이·직업산) vs 내인성(GERD·섭식장애) 분류, 영양·타액·전신질환·마모가 중증도 결정 —
 임상 문진·검진으로 위험인자 확인 및 제거 전략 권고.

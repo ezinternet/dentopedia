@@ -6,7 +6,7 @@ date: 2021-05-08
 doi: 10.1186/s12903-021-01596-y
 source: brea-2021-cbct-cshaped-mandibular-premolars.md
 category: [endodontics/anatomy]
-confidence: cross-sectional
+evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/brea-2021-cbct-cshaped-mandibular-premolars.pdf
 pdf_filename: brea-2021-cbct-cshaped-mandibular-premolars.pdf
 source_collection: external
@@ -18,13 +18,21 @@ relations:
     target: yu-2012-cbct-mandibular-premolars-root-canal-morphology
 ---
 
-## One-line Summary
+## Three-line Summary
 
-CBCT cross-sectional study (380 mandibular first + 308 second premolars, 292 Venezuelan patients): overall 19.2% (132/688) had a C-shaped root canal system, 83.3% of which were in first premolars vs 16.7% in second premolars; C3 most common in first premolars (59.1%); no significant gender difference; bifurcation mostly in the middle third.
+Retrospective CBCT cross-sectional study of 688 mandibular premolars (380 first + 308 second) in 292 Venezuelan patients, classifying C-shaped canals using an extended Fan system (C1–C6).
 
-## 한줄요약
+Overall C-shaped prevalence was 19.2%, with 83.3% of cases in first premolars and only 16.7% in second premolars; C3 was the dominant first-premolar configuration (59.1%) and bifurcation occurred predominantly in the middle third.
 
-CBCT 횡단 연구(베네수엘라 292명, 하악 제1소구치 380·제2소구치 308): 전체 19.2%(132/688)가 C-shaped 근관계, 그 중 83.3%가 제1소구치·16.7%가 제2소구치; 제1소구치는 C3형이 가장 흔함(59.1%); 성별 차이 무의미; 분지는 주로 중간 1/3.
+Unlike mandibular molars where second molars dominate, C-shaped morphology in premolars concentrates in first premolars, with no significant sex difference — highlighting the need for position-specific anticipation.
+
+## 세줄요약
+
+베네수엘라 292명 하악 소구치 688개(제1소구치 380·제2소구치 308) 대상 후향적 CBCT 횡단 연구, Fan 확장형(C1–C6) 분류 적용.
+
+전체 C-shaped 유병률 19.2%; 그 중 83.3%가 제1소구치, 16.7%가 제2소구치이며, 제1소구치는 C3형 우세(59.1%); 분지는 주로 중간 1/3에서 발생; 성별 차이 없음.
+
+하악 대구치와 달리 소구치에서는 C-shaped 형태가 제1소구치에 집중되므로, 치아 위치별 예측을 달리해야 함.
 
 ## Summary
 

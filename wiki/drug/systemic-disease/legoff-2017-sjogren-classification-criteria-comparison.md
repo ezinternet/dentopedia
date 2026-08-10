@@ -6,18 +6,28 @@ date: 2017-09-25
 doi: 10.1186/s13075-017-1475-x
 source: legoff-2017-sjogren-classification-criteria-comparison.md
 category: [drug/systemic-disease]
-confidence: cross-sectional
+evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/legoff-2017-sjogren-classification-criteria-comparison.pdf
 pdf_filename: legoff-2017-sjogren-classification-criteria-comparison.pdf
 source_collection: external
 tags: []
 ---
 
-## One-line Summary
-Comparison of AECG vs ACR/EULAR criteria in suspected pSS patients (κ=0.73) plus the added diagnostic value of salivary gland ultrasound (SGUS) for seronegative patients.
+## Three-line Summary
 
-## 한줄요약
-pSS 의심 환자 AECG vs ACR/EULAR 기준 비교(κ=0.73) + 침샘 초음파(SGUS) 항체 음성 환자 진단 부가가치.
+Prospective single-center cross-sectional cohort (n=170 suspected primary Sjögren syndrome patients) comparing agreement between the 2002 AECG and 2016 ACR/EULAR classification criteria, plus the added diagnostic value of salivary gland ultrasound (SGUS).
+
+Agreement between criteria was good (κ=0.73); new 2016 ACR/EULAR criteria showed slightly higher sensitivity; SGUS abnormalities helped classify seronegative patients missed by both standard criteria.
+
+SGUS is proposed for integration into future classification criteria given its value in anti-SSA-negative patients, though inter-rater reliability of SGUS findings requires standardization.
+
+## 세줄요약
+
+단일기관 전향적 단면 코호트(n=170 원발성 쇼그렌증후군 의심 환자) — 2002 AECG 기준과 2016 ACR/EULAR 분류기준의 일치도 및 침샘 초음파(SGUS, Salivary Gland Ultrasound) 부가 진단 가치를 비교.
+
+두 기준 일치도 양호(κ=0.73); 2016 ACR/EULAR 기준이 민감도 약간 높음; SGUS 이상 소견이 표준 기준에서 놓친 항체 음성 환자의 분류에 도움.
+
+SGUS는 항-SSA 음성 환자에서 진단 가치가 있어 향후 분류기준 통합이 제안되나 판독자 간 신뢰도 표준화가 선행되어야 한다.
 
 ## Summary
 Prospective cohort comparing AECG vs 2016 criteria in 170 suspected pSS patients, assessing added diagnostic value of salivary gland ultrasound.
@@ -34,4 +44,4 @@ Single-center prospective cohort; n=170 suspected pSS.
 New criteria slightly higher sensitivity. SGUS adds value in anti-SSA-negative patients. Inter-rater reliability of SGUS needs standardization.
 
 ## Related Papers
-- [[drug/shiboski-2016-acr-eular-sjogren-classification-criteria]] — related
+- [[drug/systemic-disease/shiboski-2016-acr-eular-sjogren-classification-criteria]] — related

@@ -9,8 +9,21 @@ pdf_filename: saeed-2023-robotic-artificial-intelligence-implant-dentistry.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Cureus 2023: Narrative review — robotics + AI in implant dentistry; robotic accuracy in placement, AI for diagnosis/treatment planning; ethical considerations; integration with digital workflows; case studies show improved survival rates and patient satisfaction.
+## Three-line Summary
+
+Cureus 2023: Narrative review — robotics + AI in implant dentistry
+
+robotic accuracy in placement, AI for diagnosis/treatment planning
+
+ethical considerations; integration with digital workflows; case studies show improved survival rates and patient satisfaction.
+
+## 세줄요약
+
+Cureus 2023: Narrative review — robotics + AI in implant dentistry
+
+robotic accuracy in placement, AI for diagnosis/treatment planning
+
+ethical considerations; integration with digital workflows; case studies show improved survival rates and patient satisfaction.
 
 ## 1. Key Results
 - Narrative review (Ministry of Health, Saudi Arabia)

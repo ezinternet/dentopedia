@@ -6,7 +6,7 @@ date: 2021-02-28
 doi: 10.3390/antibiotics10030240
 source: teoh-2021-oral-antibiotic-empirical-acute-dentoalveolar-infections.md
 category: [drug/antibiotics]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/teoh-2021-oral-antibiotic-empirical-acute-dentoalveolar-infections.pdf
 pdf_filename: teoh-2021-oral-antibiotic-empirical-acute-dentoalveolar-infections.pdf
 source_collection: external
@@ -18,13 +18,21 @@ relations:
     target: mendez-millan-2024-antibiotic-overprescription-apical-periodontitis-sr-ma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR (2,994 screened → 8 included): across diverse regimens for acute dentoalveolar infections, nearly all showed clinical success and one study found no antibiotics matched broad-spectrum — so broad-spectrum first-line empirical antibiotics are unnecessary, narrow-spectrum is equally effective in healthy patients, and dental treatment (drainage / source removal) is the primary determinant of success.
+Systematic review (3 databases, 2,994 screened → 8 included) evaluating oral antibiotic regimens (amoxicillin, amox/clav, cefalexin, clindamycin, metronidazole, moxifloxacin, and others) for empirical management of acute dentoalveolar infections in the outpatient setting.
 
-## 한줄요약
+Virtually all regimens studied achieved clinical success regardless of spectrum; one study found no-antibiotic outcomes equivalent to broad-spectrum when drainage was established; broad-spectrum first-line empirical prescribing is not justified.
 
-체계적 문헌고찰(2,994편 → 8편): 급성 치성감염(농양)에 쓰인 여러 항생제 요법 거의 모두 임상 성공, 한 연구는 **무항생제 = 광범위 항생제 동일 결과**. 결론: 광범위 항생제 1차 경험적 처방 불필요, 건강 환자엔 좁은 스펙트럼도 동등; **감염원 제거(배농·근관치료·발치)가 성공의 1차 요인** — 배농이 되면 일차 공간 치성감염에서 항생제 역할 자체가 의문.
+Dental treatment providing drainage and source removal (pulpectomy, extraction, incision and drainage) is the primary determinant of success; in healthy patients, narrow-spectrum antibiotics are equally effective and should be preferred over broad-spectrum, with antibiotic-free management justified when drainage is achievable.
+
+## 세줄요약
+
+체계적 문헌고찰(2,994편 → 8편 포함): 급성 치성감염(농양)에 사용된 amoxicillin·amox-clav·cefalexin·clindamycin·metronidazole 등 다양한 경구 항생제 요법 평가.
+
+채택된 거의 모든 요법이 임상 성공했으며, 한 연구에서 무항생제 = 광범위 항생제와 동일 결과; 광범위 1차 경험적 처방을 정당화할 근거 없음.
+
+배농·감염원 제거(근관치료·발치·절개)가 성공의 1차 요인; 건강 환자에서 좁은 스펙트럼 항생제가 동등 효과적이며, 배농 확립 시 항생제 추가 생략도 정당화 가능.
 
 ## Summary
 
@@ -57,6 +65,6 @@ SR (2,994 screened → 8 included): across diverse regimens for acute dentoalveo
 
 ## Related Papers
 
-- [[drug/lockhart-2019-antibiotic-pulpal-periapical-pain-swelling]] — ADA 지침(치료 우선·항생제는 전신 침범 시)과 정합, 본 SR이 감염 발생 후 시나리오로 보강(reinforces).
-- [[drug/mendez-millan-2024-antibiotic-overprescription-apical-periodontitis-sr-ma]] — 치근단성 항생제 과처방 정량화를 보강(reinforces).
-- [[drug/lodi-2021-antibiotics-tooth-extraction-cochrane-sr]] — 발치 setting 스튜어드십과 동일 원리.
+- [[drug/antibiotics/lockhart-2019-antibiotic-pulpal-periapical-pain-swelling]] — ADA 지침(치료 우선·항생제는 전신 침범 시)과 정합, 본 SR이 감염 발생 후 시나리오로 보강(reinforces).
+- [[drug/antibiotics/mendez-millan-2024-antibiotic-overprescription-apical-periodontitis-sr-ma]] — 치근단성 항생제 과처방 정량화를 보강(reinforces).
+- [[drug/antibiotics/lodi-2021-antibiotics-tooth-extraction-cochrane-sr]] — 발치 setting 스튜어드십과 동일 원리.

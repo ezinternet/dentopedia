@@ -6,20 +6,28 @@ date: 2023-12-04
 doi: 10.3390/dj11120280
 source: manfredini-2023-polydeoxyribonucleotides-pre-clinical-findings-bone-healing.md
 category: [pdrn]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/manfredini-2023-polydeoxyribonucleotides-pre-clinical-findings-bone-healing.pdf
 pdf_filename: manfredini-2023-polydeoxyribonucleotides-pre-clinical-findings-bone-healing.pdf
 source_collection: external
 tags: [pdrn, scoping-review, bone-regeneration, in-vitro, animal]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Scoping review of PDRN preclinical bone-healing evidence (in vitro + animal): PDRN consistently raised osteoblast proliferation, ALP activity, and mineralization in vitro, and improved new-bone area, vascularization, and BIC in animal defect models, but heterogeneity in dose, vehicle, and timing precluded meta-analysis.
+PRISMA-ScR scoping review mapping the preclinical evidence base for PDRN in bone healing, covering both in vitro osteoblast/MSC studies and animal defect models (calvarial, femoral, peri-implant), with separate evidence streams presented qualitatively.
 
-## 한줄요약
+In vitro findings consistently showed increased osteoblast proliferation, ALP activity, and mineralization with PDRN; animal models showed higher new-bone area, vascularization, and BIC versus controls in multiple defect configurations.
 
-Scoping review. PDRN의 골치유 preclinical evidence를 in vitro·animal 두 갈래로 정리. Osteoblast proliferation·differentiation 촉진과 동물모델 new bone area·BIC 향상이 비교적 일관되나 dose/vehicle/timing의 standardization 부재.
+Substantial heterogeneity in PDRN concentration (μg/mL to mg/mL), vehicle (soaking, injection, scaffold loading), and follow-up duration currently blocks formal meta-analysis and evidence-based clinical protocol formulation.
+
+## 세줄요약
+
+줄1: PDRN의 골치유 전임상 근거를 in vitro(골모세포/MSC)와 동물 결손 모델(두개골·대퇴·임플란트 주위)로 분리해 정리한 PRISMA-ScR 범위 검토.
+
+줄2: In vitro에서 골모세포 증식·ALP 활성·광화 일관 증가; 동물 모델에서 대조 대비 신생골 면적·혈관화·BIC 향상이 복수 결손 형태에서 보고.
+
+줄3: PDRN 농도(μg/mL~mg/mL), 적용 방식(침지·주사·scaffold loading), 추적 기간의 이질성이 커 정식 메타분석과 근거 기반 임상 프로토콜 수립이 현재로서는 불가.
 
 ## Summary
 

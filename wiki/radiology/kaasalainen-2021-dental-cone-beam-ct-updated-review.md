@@ -6,7 +6,7 @@ date: 2021-07-17
 doi: 10.1016/j.ejmp.2021.07.007
 source: kaasalainen-2021-dental-cone-beam-ct-updated-review.md
 category: [radiology]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/kaasalainen-2021-dental-cone-beam-ct-updated-review.pdf
 pdf_filename: kaasalainen-2021-dental-cone-beam-ct-updated-review.pdf
 source_collection: external
@@ -16,13 +16,21 @@ relations:
     target: kang-2024-national-dental-radiological-dose-management
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Medical-physics review of dental CBCT: scanner technical features, dose optimization, dosimetry methods, and diagnostic reference levels (DRLs).
+Medical-physics narrative review of dental CBCT covering scanner technology, image quality, dose optimization, dosimetry methods, and diagnostic reference levels (DRLs) across current scanner models.
 
-## 한줄요약
+CBCT is a heterogeneous 3D modality with wide dose and quality variation between devices; optimization and DRLs are required to ensure clinically effective, patient-optimized exams.
 
-치과 CBCT 의학물리 리뷰: 스캐너 기술특성, 선량 최적화, 선량측정법, 진단참고수준(DRL) 종합.
+Unresolved issues in standardization and DRL application remain, indicating that published dose figures cannot be transferred across CBCT systems without device-specific verification.
+
+## 세줄요약
+
+현재 치과 CBCT 스캐너의 기술특성·화질·선량 최적화·선량측정법·진단참고수준(DRL, Diagnostic Reference Level)을 포괄하는 의학물리 내러티브 리뷰.
+
+치과 CBCT는 기기 간 선량·화질 편차가 크며, 최적화와 DRL 적용이 환자 맞춤 검사를 위해 필수적임.
+
+표준화 및 DRL 적용 방식에 미해결 과제가 남아있어, 발표된 선량값을 기기 간에 그대로 전용하는 것은 불가.
 
 ## Summary
 

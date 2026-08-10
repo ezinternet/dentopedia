@@ -17,13 +17,21 @@ text_filename: ke-2024-sinus-membrane-thickness-perforation-risk-sr-ma.txt
 
 Membrane thickness is repeatedly cited as a Schneiderian-membrane perforation risk factor, but the direction and any usable cutoff have been unclear. This SR+MA isolates membrane thickness specifically (11 CBCT studies, lateral window only) and shows thinner membranes in perforation cases yet *no* significant cutoff relationship — directly reinforcing the sibling multi-factor review [[wiki/sinus-lift/lateral/alalshaikh-2024-membrane-perforation-risk-factors-lateral-sinus-sr-ma]] by quantifying one of its risk factors in detail.
 
-## One-line Summary
+## Three-line Summary
 
 SR+MA of 11 CBCT-based observational studies (1841 lateral sinus lifts): the Schneiderian membrane is significantly thinner in perforation cases (MD −0.91 mm, 95% CI −1.48 to −0.33), but no thickness cutoff (2 / 1.5 / 1 mm) predicts perforation rate — so thickness matters as a continuous trend but offers no clean clinical threshold.
 
-## 한줄요약
+(incomplete)
 
-11편 CBCT 관찰연구(측방창 상악동거상술 1841건) SR+MA — 천공 증례에서 슈나이더막(Schneiderian membrane)이 유의하게 더 얇았으나(MD −0.91 mm), 2/1.5/1 mm 어떤 절단값도 천공률과 유의한 관계가 없었다. 막 두께는 연속 변수로서의 경향은 있으나 임상에서 쓸 명확한 임계값은 없음.
+(incomplete)
+
+## 세줄요약
+
+11편 CBCT 관찰연구(측방창 상악동거상술 1841건) SR+MA — 천공 증례에서 슈나이더막(Schneiderian membrane)이 유의하게 더 얇았으나(MD −0.91 mm), 2/1.5/1 mm 어떤 절단값도 천공률과 유의한 관계가 없었다.
+
+막 두께는 연속 변수로서의 경향은 있으나 임상에서 쓸 명확한 임계값은 없음.
+
+(incomplete)
 
 ## 1. Document Information
 

@@ -6,7 +6,7 @@ date: 2026-06-15
 doi: N/A
 source: N/A
 category: overviews
-confidence: synthesis
+evidence_level: synthesis
 pdf_path: N/A
 pdf_filename: N/A
 source_collection: synthesis
@@ -29,38 +29,49 @@ tags: [periodontics, classification, non-surgical, regeneration, spt, peri-impla
 > - **골소실 분자기전(pathogenesis)**: 치주염 치조골 소실은 RANKL/RANK/OPG 축 교란 → NF-κB(canonical/non-canonical)·JAK/STAT·MAPK(p38/JNK/ERK)·PI3K/Akt 4개 경로가 NFATc1로 수렴해 파골세포 분화; "훈련된 파골세포생성(trained osteoclastogenesis, MITF 후성유전 기억)" 개념과 denosumab·JAK억제제·천연화합물 치료 후보를 비판적으로 조망 (de Molon 2026, 종설).
 > - **재생 생물학(bone-PDL-cementum)**: 뼈·치주인대(PDL)·백악질 복합체 *동시* 재생은 줄기세포(PDLSC/BMSC)+흡수성 지지체, 내인성 세포유도(SDF-1α+BMP7), 유전자치료(Ad-PDGF-B), 층별 생체모방(LBL) 구조물로 접근 — 핵심 난제는 신생 백악질·신생골에 수직 삽입되는 배향성 Sharpey 섬유 생성(현재 PCL/PGA 섬유유도 3D 프린팅만 신뢰성 있게 달성); 임상 적용은 자가/동종골·Bio-Oss·콜라겐막만 승인, 세포·유전자치료는 초기 단계 (Liu 2019, SR). → 임상 NMA(Stavropoulos 2021, 축 3)가 의존하는 생물학적 토대.
 > - **근거 약한 보조제**: 오존 겔은 소규모 RCT(n=12/군)에서 방사선학적 골결손 within-group 이점만 있어 [근거약함]; 오옥시스테롤(oxysterol) BMP-2 대안은 [전임상 단계]. "심한 치주염은 바로 외과로"는 오판 — step-wise는 비외과 first.
+> - **초치조상부 조직부착(Supracrestal Tissue Attachment, STA / 생물학적 폭경, Biologic Width) — 고정값 아님**: 디지털 중첩 연구(CBCT+구강스캔, 203치)에서 평균 2.05 mm이나 하악>상악·전치>구치에서 더 크고, 협측 골두께·치은두께·각화치은폭과 역상관 → "박형 치주표현형(thin phenotype)"일수록 STA가 크다 (Abdulkarim 2024). 수복 변연·크라운연장 계획 시 일률적 2 mm 적용은 금물.
+> - **교정적 정출(Forced Eruption)** — 우식·파절이 STA를 침범했거나 페룰(ferrule) 부족 시, 절제형 크라운연장의 보존적 대안. 인접치 골 보존·crown-to-root 비 개선이 장점이나 치료기간 연장·섬유절제술(fiberotomy) 필요; 임플란트 식립부 개발 목적이면 반대로 PDL 장력으로 골을 따라오게 유도 (Huang 2021). 활동성 치주염은 절대 금기(정출 시 치은퇴축만 유발).
+> - **시멘트질 열개(Cemental Tear)** — 수직치근파절·근관질환·치주질환으로 오진되기 쉬운 저인지 병소. 중국 다기관 전문가합의(Liang 2025)는 위치 기반 치료 결정트리(치관측 3분의1 vs 근단측)와 완전 조각제거 원칙을 제시(1년 기능보존율 94%); 홍콩 후향적 단면연구(Lee 2025, n=445치)는 유병률 5.6%(기존 문헌의 3배)와 4개 독립위험인자(전치부, 치아동요도, 심한 치조골소실 ≥70%, 오히려 "적절한" 근관충전 — OR 8.38)를 확인, 단순 치근단방사선사진의 CBCT 대비 민감도는 0.60에 불과.
 
-## One-line Summary
+## Three-line Summary
 
-Periodontics decision ladder synthesizing 27+ `periodontics/` papers across 6+ axes — 2017 classification → non-surgical (SRP ± adjunct) → surgical/regeneration (GTR/EMD) → acute/combined lesions → supportive periodontal therapy (SPT) → mucogingival surgery, with peri-implantitis and systemic-effect threads. Core thesis: every diagnosis starts from 2017 World Workshop Staging I–IV × Grading A–C; treatment is step-wise per EFP S3 (behavior change → SRP → surgery → SPT) with SRP strongly recommended and systemic doxycycline adding little; intrabony defects regenerate better with GTR/EMD + graft (combination > monotherapy); SPT runs 3–6-month cadence risk-stratified; SRP lowers diabetic HbA1c ~0.4–0.6% and cardiovascular markers; periodontitis history raises peri-implantitis risk ~4.8× — built on EFP S3 + Cochrane SR + 2017 World Workshop spine, with ozone gel only weakly supported.
+Decision ladder synthesizing 27+ periodontics/ papers across 6 axes: (1) 2017 World Workshop Staging I–IV × Grading A–C classification; (2) non-surgical SRP ± adjunct (EFP S3 step-wise); (3) surgical/regeneration (GTR+graft/EMD+graft > OFD, Stavropoulos 2021 NMA, 30 RCTs); (4) SPT at 3–6-month cadence risk-stratified; (5) acute/combined lesions; (6) mucogingival surgery.
 
-## 한줄요약
+SRP is strongly recommended; systemic doxycycline adds only 0.2–0.4 mm PPD beyond SRP; SRP lowers HbA1c ~0.4–0.6% (Simpson 2022 Cochrane) and cardiovascular markers; periodontitis history raises peri-implantitis risk ~4.8×.
 
-치주치료 6축 — 2017 새 분류 (Staging I-IV × Grading A-C + 전신질환 발현·치은점막 상태) · 비외과 치료 (SRP ± 보조) · 외과·재생 (GTR/EMD) · SPT · 급성/복합 병소 (농양·괴사·치수치주병변) · 치주성형 (APF/FGG/CTG). EFP S3 guideline + Cochrane SR + 2017 World Workshop spine.
+Extended axes added: RA↔periodontitis bidirectional connection (Dolcezza 2024 SR+MA), RANKL/NF-κB molecular pathogenesis, supracrestal tissue attachment variability (mean 2.05 mm, not a fixed value; Abdulkarim 2024), cemental tear as a misdiagnosed low-prevalence entity (Lee 2025, 5.6%).
+
+## 세줄요약
+
+치주치료 6축 — ①2017 분류(Staging I–IV × Grading A–C) ②비외과 치료(SRP ± 보조, EFP S3 단계별) ③외과·재생(GTR/EMD+이식재, NMA 우위) ④유지치료(Supportive Periodontal Therapy, SPT) ⑤급성/복합 병소 ⑥치주성형술(APF/FGG/CTG).
+
+SRP 강한 권고; 전신 독시사이클린 추가 PPD 이득 0.2–0.4 mm(소); SRP가 당뇨 HbA1c ~0.4–0.6% 감소(Simpson 2022 코크란)·심혈관 위험표지자 감소; 치주염력이 임플란트 주위염(peri-implantitis) 위험 ~4.8배.
+
+추가 확장 축: 류마티스 관절염(Rheumatoid Arthritis, RA)↔치주염 양방향(Dolcezza 2024 SR+MA), RANKL/NF-κB 분자기전, 초치조상부 조직부착(Supracrestal Tissue Attachment, STA) 평균 2.05 mm(고정값 아님; Abdulkarim 2024), 시멘트질 열개(cemental tear) 유병률 5.6%(Lee 2025, 기존 3배).
 
 ## Summary
 
 본 페이지는 wiki/periodontics/ 27+ paper의 6-axis spine. 2017 World Workshop classification → step-wise treatment → SPT 의 표준 흐름을 따르며, 급성 병소·치수치주복합병변·전신질환 발현·치주성형·재생생물학 기초 축이 추가되었다.
 
 핵심 명제 12개:
-1. **2017 새 분류 — Staging I-IV (중증도) + Grading A-C (진행속도/반응성). 모든 진단의 출발점** — Papapanou 2018 consensus. [근거강함]
-2. **EFP S3 guideline — 행동변화 → SRP ± 보조 → 외과 → SPT의 step-wise 표준** — Sanz 2020 (stage I-III), Herrera 2022 (stage IV). [합의수준]
-3. **SRP가 비수술 치료 강한 권고. 전신 doxycycline 추가 PPD 0.2-0.4 mm 감소 (효과 작음)** — Smiley 2015 가이드라인. [근거강함]
-4. **골내 결손 재생술 (GTR + 이식재, EMD + 이식재)이 OFD보다 PPD·CAL 유의 우위. 병용이 단독 우위** — Stavropoulos 2021 NMA (30 RCT, 3-20y). [근거강함]
-5. **SPT 3-6개월 cadence가 치아 보존에 유리. 일률적 권고 근거 부족 — 환자 위험 stratification 필요** — Manresa 2018 Cochrane, Farooqi 2015 SR. [합의수준]
-6. **급성 치주농양 — 배농·debridement 1차, 항생제는 전신증상·확산 시 보조; 괴사성 치주질환 — 숙주 면역상태로 분류; 치수치주복합병변 — 파절·천공 여부 + 치주염 동반 여부로 분류 (예후·치료 결정인자)** — Herrera 2018 (2017 World Workshop). [합의수준]
-7. **복합 치수치주병변의 외과 처치 — 근관 미세수술 + 동시 골이식·차폐막·유두보존 피판으로 1차 폐쇄 달성이 핵심** — Sharma 2014 narrative review. [합의수준]
-8. **전신질환의 치주 발현(혈액질환·약물·유전·당뇨·심혈관 등)은 2017 World Workshop workgroup-3 분류에서 독립축으로 인정; 치은점막 상태·외상성 교합력·보철/치아 관련 인자도 포함** — Jepsen 2018. [합의수준]
+1. **2017 새 분류 — Staging I-IV (중증도) + Grading A-C (진행속도/반응성). 모든 진단의 출발점** — Papapanou 2018 consensus. [확인]
+2. **EFP S3 guideline — 행동변화 → SRP ± 보조 → 외과 → SPT의 step-wise 표준** — Sanz 2020 (stage I-III), Herrera 2022 (stage IV). [확인]
+3. **SRP가 비수술 치료 강한 권고. 전신 doxycycline 추가 PPD 0.2-0.4 mm 감소 (효과 작음)** — Smiley 2015 가이드라인. [확인]
+4. **골내 결손 재생술 (GTR + 이식재, EMD + 이식재)이 OFD보다 PPD·CAL 유의 우위. 병용이 단독 우위** — Stavropoulos 2021 NMA (30 RCT, 3-20y). [확인]
+5. **SPT 3-6개월 cadence가 치아 보존에 유리. 일률적 권고 근거 부족 — 환자 위험 stratification 필요** — Manresa 2018 Cochrane, Farooqi 2015 SR. [확인]
+6. **급성 치주농양 — 배농·debridement 1차, 항생제는 전신증상·확산 시 보조; 괴사성 치주질환 — 숙주 면역상태로 분류; 치수치주복합병변 — 파절·천공 여부 + 치주염 동반 여부로 분류 (예후·치료 결정인자)** — Herrera 2018 (2017 World Workshop). [확인]
+7. **복합 치수치주병변의 외과 처치 — 근관 미세수술 + 동시 골이식·차폐막·유두보존 피판으로 1차 폐쇄 달성이 핵심** — Sharma 2014 narrative review. [확인]
+8. **전신질환의 치주 발현(혈액질환·약물·유전·당뇨·심혈관 등)은 2017 World Workshop workgroup-3 분류에서 독립축으로 인정; 치은점막 상태·외상성 교합력·보철/치아 관련 인자도 포함** — Jepsen 2018. [확인]
 9. **오존 겔 + SRP (조절된 T2DM + stage III grade B periodontitis, n=24 RCT): 양 군 모두 CAL·PPD·HbA1c 유의 개선, 군간 차이는 없음. 오존군에서만 방사선학적 골결손 내 유의한 개선 (RLDD 3.44→2.66 mm, p=0.008) 및 3개월 PPD 감소 (p=0.045)와 술후 통증 감소 (VAS p=0.017) 추가 이점** — Barahim 2024 RCT. [근거약함 — n=12/group]
 10. **오옥시스테롤 조합(22(S)+20(S)-hydroxycholesterol)이 LXR↔Hedgehog 신호를 통해 PDLSC 골분화 유도 + rat 발치와 골재생을 rhBMP-2와 동등 수준으로 촉진 (μCT 군간 차이는 NS) — 자연 유래 BMP-2 대안 후보** — Lee 2017 in-vitro+animal. [전임상 단계]
-11. **치주성형술 선택 3갈래: APF(각화치은 충분+치주낭/치관 문제) → FGG(각화치은 부족+퇴축 차단) → CTG(노출치근+심미)** — 합의 기반 synthesis. [합의수준]
+11. **치주성형술 선택 3갈래: APF(각화치은 충분+치주낭/치관 문제) → FGG(각화치은 부족+퇴축 차단) → CTG(노출치근+심미)** — 합의 기반 synthesis. [확인]
 12. **타액유래 다종 바이오필름 + 재구성 인간 치은 3D 모델 — 공생/병원성 바이오필름이 서로 다른 숙주 염증반응 유발, 항균제 스크리닝 플랫폼** — Buskermolen 2018 in-vitro. [기초과학]
 
 신규 테마 (2026-06 추가, 기존 5축 외):
-- **급성 치주 농양 — 배농·debridement가 1차, 항생제는 전신증상·확산 시 보조.** Herrera 2014 종설 + Dommisch 2026 SR (치주-치수 복합병소 포함 7 PICOS) + Alharbi 2019 (비치성 농양 감별 증례). [합의수준]
-- **비외과 SRP 보조 — GBT(erythritol air-polishing)가 통상 기구세정과 임상결과 동등(편의·통증 우위), 전신 항균제·국소 antiseptic·ozone은 효과크기 작거나 불확실.** Cyris 2024·Stahli 2024 RCT, Khattri 2020 Cochrane(very-low certainty), John 2017 NMA(보조제 간 우열 없음), Ramanauskaite 2020, Deepthi 2020. [근거강함]
-- **치주치료의 전신 효과 — SRP가 당뇨 HbA1c ~0.4–0.6% 감소(Cochrane Simpson 2022·Baeza 2020), 동반 전신질환군에서 의의.** [근거강함]
-- **분류·peri-implant — Caton/Papapanou 2018(2017 분류 도입)에 더해 Wang 2025 AO/AAP 2024 peri-implant consensus 반영.** [합의수준]
+- **급성 치주 농양 — 배농·debridement가 1차, 항생제는 전신증상·확산 시 보조.** Herrera 2014 종설 + Dommisch 2026 SR (치주-치수 복합병소 포함 7 PICOS) + Alharbi 2019 (비치성 농양 감별 증례). [확인]
+- **비외과 SRP 보조 — GBT(erythritol air-polishing)가 통상 기구세정과 임상결과 동등(편의·통증 우위), 전신 항균제·국소 antiseptic·ozone은 효과크기 작거나 불확실.** Cyris 2024·Stahli 2024 RCT, Khattri 2020 Cochrane(very-low certainty), John 2017 NMA(보조제 간 우열 없음), Ramanauskaite 2020, Deepthi 2020. [확인]
+- **치주치료의 전신 효과 — SRP가 당뇨 HbA1c ~0.4–0.6% 감소(Cochrane Simpson 2022·Baeza 2020), 동반 전신질환군에서 의의.** [확인]
+- **분류·peri-implant — Caton/Papapanou 2018(2017 분류 도입)에 더해 Wang 2025 AO/AAP 2024 peri-implant consensus 반영.** [확인]
 
 ## Results
 
@@ -83,17 +94,17 @@ Periodontics decision ladder synthesizing 27+ `periodontics/` papers across 6+ a
 | Spine paper | Evidence | Key finding |
 |---|---|---|
 | [[periodontics/sanz-2020-treatment-stage-i-iii-periodontitis-efp]] | consensus (EFP S3) | Step-wise protocol — 행동변화 → SRP ± 보조 → 수술 → SPT |
-| [[periodontics/smiley-2015-nonsurgical-periodontitis-srp-guideline]] | sr (가이드라인) | SRP 강력 권고. Doxycycline 추가 PPD 0.2-0.4 mm |
-| [[periodontics/meseli-2016-probing-depth-srp-response-periodontitis]] | prospective (1,672 pocket) | IPD=3mm 제외 전 군 PD 감소 유의. IPD ≥ 7mm 다근치 AG 유의 |
+| [[periodontics/non-surgical-instrumentation/smiley-2015-nonsurgical-periodontitis-srp-guideline]] | sr (가이드라인) | SRP 강력 권고. Doxycycline 추가 PPD 0.2-0.4 mm |
+| [[periodontics/non-surgical-instrumentation/meseli-2016-probing-depth-srp-response-periodontitis]] | prospective (1,672 pocket) | IPD=3mm 제외 전 군 PD 감소 유의. IPD ≥ 7mm 다근치 AG 유의 |
 | [[periodontics/herrera-2022-treatment-stage-iv-periodontitis-efp]] | consensus (EFP S3) | Stage IV — 치주 + 교정·보철 다학제 + 집중 SPT |
-| [[periodontics/meng-2024-nspt-cardiovascular-risk-markers-sr-ma]] | sr+ma (21 RCT) | SRP 후 CRP·IL-6·SBP 유의 감소. Lipids·DBP NS |
-| [[periodontics/barahim-2024-ozone-gel-srp-diabetic-periodontitis-rct]] | rct (n=24) | SRP가 T2DM + stage III에서 핵심 동력; 오존 겔 추가 시 방사선학적 골결손 개선 + 3개월 PPD·VAS 이점 (소규모) |
+| [[periodontics/non-surgical-instrumentation/meng-2024-nspt-cardiovascular-risk-markers-sr-ma]] | sr+ma (21 RCT) | SRP 후 CRP·IL-6·SBP 유의 감소. Lipids·DBP NS |
+| [[periodontics/non-surgical-instrumentation/barahim-2024-ozone-gel-srp-diabetic-periodontitis-rct]] | rct (n=24) | SRP가 T2DM + stage III에서 핵심 동력; 오존 겔 추가 시 방사선학적 골결손 개선 + 3개월 PPD·VAS 이점 (소규모) |
 
 **임상 ladder (비외과)**:
 1. **Stage I-II** — Full-mouth SRP 1-2회 + plaque control 교육 → 4-6w 재평가 → SPT.
 2. **Stage III** — Full-mouth SRP (one-stage 또는 quadrant) + chlorhexidine 0.12% rinse 2w → 4-6w 재평가 → 잔존 pocket → 외과.
-3. **Stage III + Grade C 또는 aggressive feature** — SRP + amoxicillin 500 mg TID + metronidazole 400 mg TID 7d adjunct 고려. [합의수준]
-4. **전신질환 동반** — SRP가 CRP·IL-6·SBP 감소 — 심혈관 위험 환자에게 추가 인센티브. [근거강함]
+3. **Stage III + Grade C 또는 aggressive feature** — SRP + amoxicillin 500 mg TID + metronidazole 400 mg TID 7d adjunct 고려. [확인]
+4. **전신질환 동반** — SRP가 CRP·IL-6·SBP 감소 — 심혈관 위험 환자에게 추가 인센티브. [확인]
 5. **당뇨 동반 (T2DM, stage III grade B)** — SRP 단독으로 CAL·PPD·HbA1c 유의 개선 확인 (Barahim 2024). 오존 겔 부가 시 이르 PPD 감소·통증 감소·방사선학적 골결손 추가 이점 가능하나 소규모(n=12)로 결정적이지 않음. [근거약함]
 
 **SRP 보조제 한계 요약** (Deepthi 2020 MA, Ramanauskaite 2020, Barahim 2024):
@@ -101,7 +112,7 @@ Periodontics decision ladder synthesizing 27+ `periodontics/` papers across 6+ a
 - 방사선학적 골결손 내 이점은 Barahim 2024 오존 겔(오일 기반, 접촉시간 ≥30분)에서만 within-group 유의.
 - 기전 substrate: Buskermolen 2018 인간 치은 3D 모델 — 병원성 바이오필름이 공생 바이오필름과 다른 숙주 염증반응 유발 → 항균제 스크리닝 플랫폼 (기초 기전 참고).
 
-**오판 패턴**: "심한 치주염은 바로 외과로" — Sanz 2020 step-wise가 비외과 first. 외과는 재평가 후 잔존 pocket에만. [근거강함]
+**오판 패턴**: "심한 치주염은 바로 외과로" — Sanz 2020 step-wise가 비외과 first. 외과는 재평가 후 잔존 pocket에만. [확인]
 
 > **기구·술식 선택 (the *how* of SRP)**: GBT/에어폴리싱 vs 전통 SRP는 임상지표(PPD/CAL/BoP)에서 동등하며 GBT는 시술시간·치질 보존에서만 우위 — 분말 선택(에리스리톨)·치질 마모·치은연하 안전까지 [[overviews/professional-biofilm-management-gbt-air-polishing-overview]] 참조 (Yein 2026 SR; Cyris 2024 RCT). [근거중간]
 
@@ -109,13 +120,13 @@ Periodontics decision ladder synthesizing 27+ `periodontics/` papers across 6+ a
 
 | Spine paper | Evidence | Key finding |
 |---|---|---|
-| [[periodontics/stavropoulos-2021-periodontal-regeneration-intrabony-nma]] | sr+ma (NMA, 30 RCT, 3-20y) | 골내결손 재생 — GTR+이식재·EMD+이식재가 OFD 우위. 병용 > 단독 |
+| [[periodontics/host-modulation/stavropoulos-2021-periodontal-regeneration-intrabony-nma]] | sr+ma (NMA, 30 RCT, 3-20y) | 골내결손 재생 — GTR+이식재·EMD+이식재가 OFD 우위. 병용 > 단독 |
 | [[periodontics/nibali-2016-tooth-loss-furcation-involvement-sr-ma]] | sr+ma (21편) | 치근분지부 침범 — SPT 10-15y 발치 위험 2.21배. 3도 포함 대부분 보존 가능 |
-| [[periodontics/roccuzzo-2022-implants-periodontitis-history-20year-prospective]] | prospective (20y) | 치주염력 임플란트 생존 81% vs 비병력 91%. SPT 순응도 결정적 |
-| [[periodontics/marty-2024-implant-treated-periodontitis-sr-ma]] | sr+ma (10편) | 치주염력 환자 — peri-implantitis 위험 ~4.8배 |
+| [[implants/survival/roccuzzo-2022-implants-periodontitis-history-20year-prospective]] | prospective (20y) | 치주염력 임플란트 생존 81% vs 비병력 91%. SPT 순응도 결정적 |
+| [[implants/survival/marty-2024-implant-treated-periodontitis-sr-ma]] | sr+ma (10편) | 치주염력 환자 — peri-implantitis 위험 ~4.8배 |
 | [[periodontics/blyleven-2024-periodontal-implant-surgery-complications]] | retrospective (1135건) | 치주·임플란트 외과 합병증 — 술중 2.8%, 술후 15.2%. Lateral SES가 가장 강력한 예측인자 |
-| [[periodontics/lee-2017-oxysterol-periodontal-regeneration-pdlsc-alveolar-bone]] | animal + in-vitro | 오옥시스테롤(SS) → PDLSC 골분화 (LXR↔Hh) + rat 발치와 골재생 ≈ rhBMP-2 (μCT NS) |
-| [[periodontics/liu-2019-periodontal-bone-ligament-cementum-regeneration]] | sr (전임상) | 뼈-PDL-백악질 *동시* 재생 — 줄기세포+지지체, 내인성 세포유도(SDF-1α/BMP7), 유전자치료(Ad-PDGF-B), LBL 구조물; 배향성 Sharpey 섬유 생성이 핵심 난제 (PCL/PGA 섬유유도 3D 프린팅) |
+| [[periodontics/host-modulation/lee-2017-oxysterol-periodontal-regeneration-pdlsc-alveolar-bone]] | animal + in-vitro | 오옥시스테롤(SS) → PDLSC 골분화 (LXR↔Hh) + rat 발치와 골재생 ≈ rhBMP-2 (μCT NS) |
+| [[periodontics/host-modulation/liu-2019-periodontal-bone-ligament-cementum-regeneration]] | sr (전임상) | 뼈-PDL-백악질 *동시* 재생 — 줄기세포+지지체, 내인성 세포유도(SDF-1α/BMP7), 유전자치료(Ad-PDGF-B), LBL 구조물; 배향성 Sharpey 섬유 생성이 핵심 난제 (PCL/PGA 섬유유도 3D 프린팅) |
 | [[periodontics/demolon-2026-periodontitis-bone-loss-signaling-pathways]] | narrative-review | 치조골 소실 분자기전 — RANKL/OPG → NF-κB·JAK/STAT·MAPK·PI3K/Akt → NFATc1 수렴; "trained osteoclastogenesis"; denosumab·JAK억제제·천연화합물 치료 후보 |
 
 **임상 ladder (외과·재생·임플란트)**:
@@ -172,6 +183,8 @@ Periodontics decision ladder synthesizing 27+ `periodontics/` papers across 6+ a
 | [[periodontics/manresa-2018-supportive-periodontal-therapy-cochrane-sr]] | sr (Cochrane) | 전문의 vs 비전문의·항균 보조·광치료 등 비교 RCT 극히 제한 |
 | [[periodontics/farooqi-2015-periodontal-maintenance-recall-interval-sr]] | sr (8편 코호트) | 3-6mo 단기 주기 → 치아보존 유리. 일률적 권고 근거 부족 |
 | [[periodontics/jung-2019-periodontitis-spt-disease-progression-sr]] | sr (17편 5-15y) | 10/14 연구 CAL 손실 ≤ 0.5mm 안정. 구강위생불량·흡연·SPT 불순응이 진행 예측 |
+| [[periodontics/oral-hygiene-instruction/cho-2018-professional-mechanical-tooth-cleaning-preventive-maintenance-interval]] | prospective (한국, n=33) | 자가관리 미확립 시 **1개월 주기**가 실증적으로 뒷받침됨 — 4주 PMTC로 개선된 치면세균막·치은지수가 3개월째 유의 악화(치면세균막 −11.24, p<0.05), 6개월째 부분 회복만; 설문 54.5%가 1개월 선호 |
+| [[periodontics/oral-hygiene-instruction/choi-2017-dental-plaque-control-oral-hygiene-education-korea-sr]] | sr (한국 문헌 22편, 1990–2015) | 국내 PMPR+구강위생교육 최적 규격 = **1–2주 간격 4–5회 방문**; 착색제 기반 개별교육이 구두·모형교육보다 우수(PHP +24.1 vs +2.8); 국내 문헌엔 RCT 부재가 근거수준 한계 |
 
 **임상 ladder (SPT cadence)**:
 1. **Stage I + Grade A + 비흡연 + good hygiene** → SPT 6mo.
@@ -179,6 +192,7 @@ Periodontics decision ladder synthesizing 27+ `periodontics/` papers across 6+ a
 3. **Stage III-IV + Grade C 또는 흡연 미중단 또는 당뇨 조절 불량** → SPT 2-3mo.
 4. **임플란트 + 치주염력** → SPT 3mo 종신 (Roccuzzo 2022).
 5. **SPT 순응도 불량 (no-show 빈번)** → recall 시스템 강화, 책임 동의서, 환자 교육 재실시.
+6. **자가관리 기술 미확립 (치료 초기·최근 위생교육)** → 재교육 목적의 **1개월 주기**로 단축 후 기술 안정화되면 표준 cadence로 전환 (Cho 2018).
 
 > **SPT 중 치면세균막관리 방식**: 유지치주 단계에서는 에어폴리싱/GBT가 편안함·시술시간·치질 보존에서 가장 적합(Stähli 2024 RCT, 1년 임상 동등) — 술식·분말·치은연하 안전은 [[overviews/professional-biofilm-management-gbt-air-polishing-overview]]. [근거중간]
 
@@ -208,13 +222,46 @@ Periodontics decision ladder synthesizing 27+ `periodontics/` papers across 6+ a
 | [[suture-wound-closure/shakiliyeva-2025-conventional-modified-sling-suture-free-gingival-graft]] | rct | FGG: 봉합법보다 이식편 기법(GUT)이 수축 감소, GUT+통상봉합이 KT 폭 증가 최대 |
 | [[periodontics/barboza-2014-dptfe-membrane-keratinized-tissue-rct]] | rct | d-PTFE 의도노출 막으로 graft-free KT 증대 +6.6~7.1 mm |
 
+### 축 6b — 초치조상부 조직부착 (Supracrestal Tissue Attachment, STA) 침범과 수복 결정
+
+**핵심 명제**: STA(구 생물학적 폭경, Biologic Width)는 고정된 ~2 mm가 아니라 치아 위치·치주표현형에 따라 크게 달라진다 — 수복 변연·크라운연장 계획 전 반드시 부위별 STA를 고려해야 한다.
+
+| Paper | Evidence | Key finding |
+|---|---|---|
+| [[periodontics/abdulkarim-2024-digital-assessment-supracrestal-tissue-attachment]] | retrospective (19명/203치, CBCT+IOS 디지털 중첩) | STA 평균 2.05 mm (범위 0.02–5.85); 하악>상악(p=0.001), 전치/견치>구치(p<0.001); 협측골두께·치은두께·각화치은폭과 역상관(r=−0.42~−0.14), CEJ-골연 거리와 정상관(r=0.574) — "박형 치주표현형(thin BBT+thin GT+narrow KTW)"이 오히려 더 큰 STA를 가짐 |
+| [[periodontics/huang-2021-clinical-considerations-orthodontically-forced-eruption]] | narrative-review | STA 침범 또는 페룰 부족 시 절제형 크라운연장의 보존적 대안 = 교정적 정출(forced eruption); 목표에 따라 정반대 조직반응 유도(크라운연장=fiberotomy로 골이 안 따라오게, 임플란트 식립부 개발=PDL 장력으로 골이 따라오게) |
+
+**임상 ladder (STA 침범 대응)**:
+1. **수복 변연이 STA를 침범할 것으로 예상** → 부위별 실제 STA 추정(하악·전치·박형 표현형일수록 더 크게 예상) 후 침범 여부 재평가. 일률적 "2 mm 규칙" 적용 금지.
+2. **STA 침범 확인 + 인접치 골 보존 원함 + 치주 건강 정상** → 교정적 정출(fiberotomy 병행) 우선 고려. 인접치 무침습·crown-to-root 비 개선·심미 우위이나 치료기간 연장.
+3. **STA 침범 + 다수치·인접치 골형태 조정 필요 또는 정출 금기(활동성 치주염·유착·수직치근파절·짧은 치근)** → 절제형 크라운연장(APF ± osseous resection, 축 6 참조).
+4. **임플란트 식립부 골량 부족(수직 결손)** → 동일 정출 기법이나 목표는 반대: fiberotomy 생략, PDL 장력으로 치조골 상방 이동 유도(Salama Type 1/2 적응, Type 3은 GTR로 전환).
+5. **활동성 치주염 동반** → 정출 절대 금기(치은퇴축 + 임상부착소실만 유발) — 먼저 치주 안정화(축 2) 후 재평가.
+
+### 축 6c — 시멘트질 열개 (Cemental Tear)
+
+**핵심 명제**: 시멘트질 열개는 수직치근파절(VRF)·1차 근관질환·치주질환으로 쉽게 오진되는 저인지 병소이며, 조각의 완전 제거를 전제로 한 위치기반 치료가 예후를 크게 좌우한다 (대부분 발치가 아닌 보존 가능).
+
+| Paper | Evidence | Key finding |
+|---|---|---|
+| [[periodontics/liang-2025-cemental-tear-diagnosis-treatment-consensus]] | consensus (중국 다기관 전문가합의) | 진단 위계 병력→임상검사→CBCT→조직병리(확진); 치료는 조각 위치기반 결정트리(치관/중간/근단 1/3) + 골내결손 특징(깊이<3mm=절제형, ≥3mm=재생형 EMD/GTR)로 분기; 비외과 치유율 28.6%, 외과 치유율 57.7%, 완전제거 후 1년 기능보존율 94% |
+| [[periodontics/lee-2025-prevalence-classification-factors-cemental-tears]] | cross-sectional (홍콩, n=445치, 2019–2024) | 유병률 5.6%(PR+CBCT 병용, 기존 단일영상 문헌 0.89–1.9%의 약 3배); 다변량 독립위험인자 — 전치부(구치 대비 OR 0.08), 치아동요도(Grade 1–3 OR 18.7–48.3), 심한 치조골소실≥70%(OR 10.83), *적절한* 근관충전(OR 8.38, 부적절 대비) — 마지막 인자는 충전 술식 유발 열충격/기계적 응력 가설 제기; PR 단독 민감도 0.60(CBCT 대비, 40%는 CBCT로만 검출) |
+
+**임상 ladder (시멘트질 열개 감별·처치)**:
+1. **VRF·근관질환·치주질환 의심 병소가 방사선상 비전형적**(치근면 근접 "prickle-like"/"flake-like" 방사선불투과 조각 + 방사선투과 병소) → 시멘트질 열개 감별 우선순위에 포함, 특히 60세 이상·전치부·동요도 있는 치아.
+2. **일반 치근단방사선사진(PR) 음성이어도 임상 의심 지속** → 소시야(small-FOV) CBCT 시행(민감도 0.60인 PR만으로는 40% 누락).
+3. **CBCT로 조각 확인** → 수술적 접근 시 methylene blue 염색으로 조각 위치 확인 후 **완전 제거**(부분 제거는 예후 저하).
+4. **골내결손 동반 시** — 결손 깊이 <3 mm → 절제형(resective); ≥3 mm → 재생형(EMD/GTR/골이식) 병용, 근단부 결손 ≥10 mm 또는 협측골판 잔존 ≤3 mm이면 근단 재생 접근 우선.
+5. **위치별 예후 참고** — 치관측 1/3 치유율 60%, 중간 1/3 66.7%, 근단측 1/3 11.1% → 근단측 병소는 예후 설명·다학제(근관+치주) 상의 필요.
+6. **오판 방지**: "방사선상 애매한 근단·치근면 병소 = VRF 또는 발치 대상"이 아니다 — 완전 제거 후 94% 1년 기능 보존이 가능하므로 성급한 발치 결정 금지.
+
 ### 축 7 — Peri-implantitis (Korean Academy Consensus)
 
 | Spine paper | Evidence | Key finding |
 |---|---|---|
 | [[kim-2024-peri-implant-diseases-consensus-korean-academy-periodontology]] | consensus (KDA) | KDA peri-implant disease 합의안. Mucositis 43%, peri-implantitis 22% |
-| [[periodontics/kim-2025-management-peri-implantitis-perspectives]] | narrative-review | 2017 World Workshop + 2024 KDA 합의 기반 분류·치료 종설 |
-| [[periodontics/grusovin-2022-antibiotics-non-surgical-peri-implantitis-ma]] | sr+ma (6 RCT) | 비외과 peri-implantitis 항생제 adjunct — 국소 PPD −0.6 mm, BOP −0.15, 전신 PPD −1.15 mm |
+| [[implants/peri-implantitis/kim-2025-management-peri-implantitis-perspectives]] | narrative-review | 2017 World Workshop + 2024 KDA 합의 기반 분류·치료 종설 |
+| [[implants/peri-implantitis/grusovin-2022-antibiotics-non-surgical-peri-implantitis-ma]] | sr+ma (6 RCT) | 비외과 peri-implantitis 항생제 adjunct — 국소 PPD −0.6 mm, BOP −0.15, 전신 PPD −1.15 mm |
 
 **임상 ladder** — [[overviews/implants-clinical-decision-ladder]] 축 4 참조 (peri-implantitis 처치는 implants overview에서 단일하게 다룸).
 
@@ -252,20 +299,32 @@ Periodontics decision ladder synthesizing 27+ `periodontics/` papers across 6+ a
 
 ## Related Papers
 
+### 신규 추가 (2026-08-09)
+
+- [[periodontics/oral-hygiene-instruction/cho-2018-professional-mechanical-tooth-cleaning-preventive-maintenance-interval]] — Korean prospective study (n=33): 4주 PMTC로 치면세균막·치은지수 개선되나 3개월째 유의 악화, 6개월째 부분 회복만 — 자가관리 미확립 환자에서 1개월 SPT 주기의 실증 근거 (prospective, 2018) — 축 5 SPT에 통합.
+- [[periodontics/oral-hygiene-instruction/choi-2017-dental-plaque-control-oral-hygiene-education-korea-sr]] — 국내 문헌 22편 SR (1990–2015): PMPR+OHE 최적 규격 1–2주 간격 4–5회, 착색제 기반 개별교육 우위, 국내 RCT 부재가 근거 한계 (sr, 2017) — 축 5 SPT에 통합, farooqi-2015의 한국 특이적 대응.
+
+### 신규 추가 (2026-07-03)
+
+- [[periodontics/abdulkarim-2024-digital-assessment-supracrestal-tissue-attachment]] — Retrospective digital-superimposition study (19 patients/203 teeth): STA averages 2.05 mm but varies by tooth position (mandibular>maxillary, anterior>posterior) and inversely with buccal bone thickness/gingival thickness/keratinized tissue width; quantifies the tooth-specific attachment dimension that restorative margins and crown lengthening must respect. (retrospective, 2024) — integrated into new axis 6b.
+- [[periodontics/huang-2021-clinical-considerations-orthodontically-forced-eruption]] — Narrative review positioning orthodontic forced eruption as a conservative alternative to resective crown lengthening for STA violation/inadequate ferrule, with opposite tissue-response goals (fiberotomy for crown lengthening vs PDL-tension bone-following for implant site development); absolute contraindication is active periodontitis. (narrative-review, 2021) — integrated into axis 6b.
+- [[periodontics/liang-2025-cemental-tear-diagnosis-treatment-consensus]] — Multi-institution Chinese expert consensus: diagnostic hierarchy (history→exam→CBCT→histopathology) and location-based treatment decision tree for cemental tear; complete fragment removal is central, 94% 1-year functional retention. (consensus, 2025) — integrated into new axis 6c.
+- [[periodontics/lee-2025-prevalence-classification-factors-cemental-tears]] — Retrospective cross-sectional study (n=445 teeth, Hong Kong): 5.6% cemental tear prevalence (~3x prior single-modality estimates) and four independent risk factors (incisor type, tooth mobility, severe crestal bone loss, adequate root filling quality); periapical radiograph sensitivity only 0.60 vs CBCT. (cross-sectional, 2025) — integrated into axis 6c alongside Liang 2025.
+
 ### 신규 추가 (2026-06-27)
 
 - [[periodontics/dolcezza-2024-rheumatoid-arthritis-periodontal-disease-sr-ma]] — SR+MA (6 RCTs; treated n=124 vs control n=131): non-surgical periodontal therapy in RA+periodontitis patients significantly lowers RA activity (DAS28 −0.56) and improves CAL (−0.41 mm); trim-and-fill −0.39/−0.30. Treatment-direction complement to the periodontitis→RA risk link. (sr+ma, 2024) — integrated into Thread A (전신질환 동반 치주염).
 - [[periodontics/demolon-2026-periodontitis-bone-loss-signaling-pathways]] — Narrative review mapping RANKL/OPG → NF-κB·JAK/STAT·MAPK·PI3K/Akt → NFATc1 osteoclastogenesis, "trained osteoclastogenesis," and therapeutic candidates (denosumab, JAK/p38 inhibitors, natural compounds). Molecular pathogenesis underpinning axis 3 regeneration. (narrative-review, 2026)
-- [[periodontics/liu-2019-periodontal-bone-ligament-cementum-regeneration]] — SR of stem-cell/scaffold/gene-therapy/LBL strategies for simultaneous bone–PDL–cementum regeneration; oriented Sharpey's fiber generation is the core challenge (PCL/PGA fiber-guiding 3D printing). Preclinical biology supporting the Stavropoulos 2021 clinical NMA. (sr, 2019)
+- [[periodontics/host-modulation/liu-2019-periodontal-bone-ligament-cementum-regeneration]] — SR of stem-cell/scaffold/gene-therapy/LBL strategies for simultaneous bone–PDL–cementum regeneration; oriented Sharpey's fiber generation is the core challenge (PCL/PGA fiber-guiding 3D printing). Preclinical biology supporting the Stavropoulos 2021 clinical NMA. (sr, 2019)
 
 ### 신규 추가 (2026-06-15)
 
 - [[periodontics/sharma-2014-endodontic-periodontal-microsurgery-for-combined]] — Narrative review of microsurgical management of combined endo-perio lesions: endodontic microsurgery + simultaneous bone grafting, membrane, papilla-preserving flap for primary closure. (narrative-review, 2014)
 - [[periodontics/jepsen-2018-periodontal-manifestations-of-systemic-diseases]] — 2017 World Workshop workgroup-3 consensus: updated classification of systemic-disease periodontal manifestations, mucogingival conditions, traumatic occlusal forces, and prosthesis/tooth-related factors. (consensus, 2018)
 - [[periodontics/herrera-2018-acute-periodontal-lesions-periodontal-abscesses]] — 2017 World Workshop review: classification frameworks for periodontal abscesses (by etiology), necrotizing periodontal diseases (by host immune status), and endo-periodontal lesions (by fractures/perforations + periodontitis status). (narrative-review, 2018)
-- [[periodontics/lee-2017-oxysterol-periodontal-regeneration-pdlsc-alveolar-bone]] — In-vitro + animal: oxysterol combination (22(S)+20(S)-hydroxycholesterol) drives PDLSC osteogenesis via LXR↔Hedgehog signaling; rat alveolar bone regeneration comparable to rhBMP-2 (μCT NS). (animal, 2017)
-- [[periodontics/buskermolen-2018-saliva-derived-biofilms-gingiva-model]] — In-vitro: organotypic reconstructed human gingiva + saliva-derived commensal/pathogenic multispecies biofilms → distinct host inflammatory responses; antimicrobial screening platform. (in-vitro, 2018)
-- [[periodontics/barahim-2024-ozone-gel-srp-diabetic-periodontitis-rct]] — RCT (n=24, controlled T2DM + stage III grade B): SRP+ozonated gel vs SRP alone — both arms improved CAL/PPD/HbA1c (no intergroup difference); ozone arm: significant within-group radiographic defect improvement (RLDD 3.44→2.66 mm, p=0.008) + 3-month PPD advantage (p=0.045) + less VAS pain (p=0.017). (rct, 2024)
+- [[periodontics/host-modulation/lee-2017-oxysterol-periodontal-regeneration-pdlsc-alveolar-bone]] — In-vitro + animal: oxysterol combination (22(S)+20(S)-hydroxycholesterol) drives PDLSC osteogenesis via LXR↔Hedgehog signaling; rat alveolar bone regeneration comparable to rhBMP-2 (μCT NS). (animal, 2017)
+- [[oral-microbiology/buskermolen-2018-saliva-derived-biofilms-gingiva-model]] — In-vitro: organotypic reconstructed human gingiva + saliva-derived commensal/pathogenic multispecies biofilms → distinct host inflammatory responses; antimicrobial screening platform. (in-vitro, 2018)
+- [[periodontics/non-surgical-instrumentation/barahim-2024-ozone-gel-srp-diabetic-periodontitis-rct]] — RCT (n=24, controlled T2DM + stage III grade B): SRP+ozonated gel vs SRP alone — both arms improved CAL/PPD/HbA1c (no intergroup difference); ozone arm: significant within-group radiographic defect improvement (RLDD 3.44→2.66 mm, p=0.008) + 3-month PPD advantage (p=0.045) + less VAS pain (p=0.017). (rct, 2024)
 - [[periodontics/mucogingival-surgery-apf-fgg-ctg]] — Synthesis page: APF·FGG·CTG 3-arm selection criteria, clinical indications, evidence, and decision flow. (synthesis, 2026)
 
 ### 신규 추가 (2026-06)
@@ -273,49 +332,53 @@ Periodontics decision ladder synthesizing 27+ `periodontics/` papers across 6+ a
 - [[periodontics/alharbi-2019-management-acute-periodontal-abscess-mimicking]] — Case report (n=1, 58-year-old man) of an acute periodontal abscess on a vital mandibular left central incisor that radiographically and clinically mim … (case-report, 2019)
 - [[periodontics/baeza-2020-effect-periodontal-treatment-patients-periodontitis]] — SR+MA of 9 RCTs: scaling and root planing in type 2 diabetics with periodontitis significantly reduced HbA1c (mean difference 0.56% … (sr+ma, 2020)
 - [[periodontics/caton-2018-classification-scheme-periodontal-periimplant-diseases]] — 2017 World Workshop (AAP/EFP) introductory paper establishing the current classification of periodontal and peri-implant diseases: periodontitis stagi … (consensus, 2018)
-- [[periodontics/cyris-2024-guided-biofilm-therapy-versus-conventional]] — Split-mouth RCT (n=60 stage III/IV periodontitis patients, treated by supervised dental students): Guided Biofilm Therapy (erythritol air-polishing + … (rct, 2024)
-- [[periodontics/deepthi-2020-ozone-therapy-periodontics-meta-analysis]] — SR+MA of 7 RCTs (n=13-113 per study) finding ozone as an adjunct to scaling and root planing produced small … (sr+ma, 2020)
+- [[periodontics/non-surgical-instrumentation/cyris-2024-guided-biofilm-therapy-versus-conventional]] — Split-mouth RCT (n=60 stage III/IV periodontitis patients, treated by supervised dental students): Guided Biofilm Therapy (erythritol air-polishing + … (rct, 2024)
+- [[periodontics/non-surgical-instrumentation/deepthi-2020-ozone-therapy-periodontics-meta-analysis]] — SR+MA of 7 RCTs (n=13-113 per study) finding ozone as an adjunct to scaling and root planing produced small … (sr+ma, 2020)
 - [[periodontics/dommisch-2026-management-periodontal-abscesses-endodontic-periodontal]] — Systematic review (no meta-analysis; 7 PICOS questions, ~21 included studies) of periodontal abscess and endodontic-periodontal lesion (EPL) managemen … (sr, 2026)
 - [[periodontics/herrera-2014-acute-periodontal-lesions]] — Narrative review (Periodontology 2000) of acute periodontal lesions … (narrative-review, 2014)
 - [[periodontics/jkda-2025-63-11-005]] — Special issue review (보훈공단 중앙보훈병원 치주과 송영우, JKDA 2025): 치주질환 치료의 근거 기반 권장사항 + 전신질환 (심혈관·당뇨) 연관성 강조. (narrative-review, 2025)
 - [[periodontics/john-2017-network-meta-analysis-studies-included]] — Star-shaped network meta-analysis (61 RCTs, 74 comparisons, 9 adjuncts) found no adjunct to SRP statistically superior to another for CAL gain … (sr+ma, 2017)
 - [[periodontics/joseph-2024-systematic-review-meta-analysis-randomized]] — SR+MA of 44 RCTs (search 1995–2023): in periodontitis patients with concurrent systemic conditions (diabetes, CVD, RA, pregnancy, etc.) … (sr+ma, 2024)
-- [[periodontics/khattri-2020-adjunctive-systemic-antimicrobials-non-surgical-treatment]] — Cochrane SR+MA of 45 RCTs: adjunctive systemic antimicrobials (most studied: amoxicillin+metronidazole) added to SRP show only very-low-certainty … (sr+ma, 2020)
-- [[periodontics/ramanauskaite-2020-antiseptics-adjuncts-scaling-root-planing]] — Systematic review + meta-analysis (12 RCTs, follow-up ≥6 mo) finding that sustained-release subgingival antiseptics (gels/chips/varnish) as adjuncts t … (sr+ma, 2020)
+- [[periodontics/non-surgical-instrumentation/khattri-2020-adjunctive-systemic-antimicrobials-non-surgical-treatment]] — Cochrane SR+MA of 45 RCTs: adjunctive systemic antimicrobials (most studied: amoxicillin+metronidazole) added to SRP show only very-low-certainty … (sr+ma, 2020)
+- [[periodontics/non-surgical-instrumentation/ramanauskaite-2020-antiseptics-adjuncts-scaling-root-planing]] — Systematic review + meta-analysis (12 RCTs, follow-up ≥6 mo) finding that sustained-release subgingival antiseptics (gels/chips/varnish) as adjuncts t … (sr+ma, 2020)
 - [[periodontics/simpson-2022-treatment-periodontitis-glycaemic-control-people]] — Cochrane SR+MA (35 RCTs, 3249 randomised participants, mostly type 2 diabetes): periodontal treatment by subgingival instrumentation produced a modera … (sr+ma, 2022)
 - [[periodontics/stahli-2024-clinical-evaluation-novel-protocol-supportive]] — RCT (n=41 SPC patients, 1-year) comparing guided biofilm management (erythritol air-polishing + ultrasonic … (rct, 2024)
-- [[periodontics/wang-2025-ao-aap-consensus-peri-implant-diseases-conditions]] — AO/AAP 2024 international consensus (Oak Brook, Illinois) synthesizing 8 systematic reviews into unified evidence-based recommendations for peri-impla … (consensus, 2025)
+- [[implants/peri-implantitis/wang-2025-ao-aap-consensus-peri-implant-diseases-conditions]] — AO/AAP 2024 international consensus (Oak Brook, Illinois) synthesizing 8 systematic reviews into unified evidence-based recommendations for peri-impla … (consensus, 2025)
 
 ### spine (본문 인용)
 
 - [[periodontics/papapanou-2018-periodontitis-classification-consensus-2017]]
 - [[periodontics/sanz-2020-treatment-stage-i-iii-periodontitis-efp]]
 - [[periodontics/herrera-2022-treatment-stage-iv-periodontitis-efp]]
-- [[periodontics/smiley-2015-nonsurgical-periodontitis-srp-guideline]]
-- [[periodontics/meseli-2016-probing-depth-srp-response-periodontitis]]
-- [[periodontics/meng-2024-nspt-cardiovascular-risk-markers-sr-ma]]
-- [[periodontics/stavropoulos-2021-periodontal-regeneration-intrabony-nma]]
+- [[periodontics/non-surgical-instrumentation/smiley-2015-nonsurgical-periodontitis-srp-guideline]]
+- [[periodontics/non-surgical-instrumentation/meseli-2016-probing-depth-srp-response-periodontitis]]
+- [[periodontics/non-surgical-instrumentation/meng-2024-nspt-cardiovascular-risk-markers-sr-ma]]
+- [[periodontics/host-modulation/stavropoulos-2021-periodontal-regeneration-intrabony-nma]]
 - [[periodontics/nibali-2016-tooth-loss-furcation-involvement-sr-ma]]
-- [[periodontics/roccuzzo-2022-implants-periodontitis-history-20year-prospective]]
-- [[periodontics/marty-2024-implant-treated-periodontitis-sr-ma]]
+- [[implants/survival/roccuzzo-2022-implants-periodontitis-history-20year-prospective]]
+- [[implants/survival/marty-2024-implant-treated-periodontitis-sr-ma]]
 - [[periodontics/blyleven-2024-periodontal-implant-surgery-complications]]
 - [[periodontics/manresa-2018-supportive-periodontal-therapy-cochrane-sr]]
 - [[periodontics/farooqi-2015-periodontal-maintenance-recall-interval-sr]]
 - [[periodontics/jung-2019-periodontitis-spt-disease-progression-sr]]
-- [[periodontics/kim-2024-peri-implant-diseases-consensus-korean-academy-periodontology]] — KAP consensus (한국치주과학회): peri-implantitis 정의·진단·치료 단계 통합
-- [[periodontics/kim-2025-management-peri-implantitis-perspectives]]
-- [[periodontics/grusovin-2022-antibiotics-non-surgical-peri-implantitis-ma]]
-- [[periodontics/jo-2008-management-of-dental-biofilm-through]]
-- [[periodontics/unknown-2009-non-surgical-and-surgical-periodontal]]
+- [[implants/peri-implantitis/kim-2024-peri-implant-diseases-consensus-korean-academy-periodontology]] — KAP consensus (한국치주과학회): peri-implantitis 정의·진단·치료 단계 통합
+- [[implants/peri-implantitis/kim-2025-management-peri-implantitis-perspectives]]
+- [[implants/peri-implantitis/grusovin-2022-antibiotics-non-surgical-peri-implantitis-ma]]
+- [[periodontics/oral-hygiene-instruction/jo-2008-management-of-dental-biofilm-through]]
+- [[periodontics/non-surgical-instrumentation/unknown-2009-non-surgical-and-surgical-periodontal]]
 - [[periodontics/apatzidou-2022-cigarette-smoking-periodontal-implant-review]]
+- [[periodontics/abdulkarim-2024-digital-assessment-supracrestal-tissue-attachment]]
+- [[periodontics/huang-2021-clinical-considerations-orthodontically-forced-eruption]]
+- [[periodontics/liang-2025-cemental-tear-diagnosis-treatment-consensus]]
+- [[periodontics/lee-2025-prevalence-classification-factors-cemental-tears]]
 
 ### Cross-link — 잇몸 염증 보조제 (drug 카테고리 cross-link, 본 ladder 본문 미반영)
 
 다음 paper들은 drug/ 카테고리에 있으나 임상 적용은 치주염 보조치료. 본 ladder의 spine 근거는 아니며, 환자별 SRP 보조 옵션 참고용. 본문 갱신 시 axis 2 (비외과 SRP ± 보조) 확장 후보.
 
-- [[drug/hong-2019-randomized-double-blind-placebo-controlled-multicenter]] — 한국 다기관 RCT (BMC Oral Health 2019, n=100): Vitamin C/E + lysozyme + carbazochrome (IGATAN F) 8주 SRP 보조 — GI 유의 감소, PD·CAL·PI 무변화. [근거강함] 단일 RCT, SRP 1차에 보조 옵션.
-- [[drug/kim-2018-magnoliae-cortex-zea-mays-modulate]] — In vitro: Magnoliae cortex + Zea mays 추출물이 P. gingivalis 유발 inflammatory cascade 조절. [in-vitro]
-- [[drug/kim-2024-magnoliae-cortex-zea-mays-extracts]] — 개 모델 in vivo: 동일 추출물 혼합제 항염 효과. [animal]
+- [[periodontics/host-modulation/hong-2019-randomized-double-blind-placebo-controlled-multicenter]] — 한국 다기관 RCT (BMC Oral Health 2019, n=100): Vitamin C/E + lysozyme + carbazochrome (IGATAN F) 8주 SRP 보조 — GI 유의 감소, PD·CAL·PI 무변화. [확인] 단일 RCT, SRP 1차에 보조 옵션.
+- [[periodontics/host-modulation/kim-2018-magnoliae-cortex-zea-mays-modulate]] — In vitro: Magnoliae cortex + Zea mays 추출물이 P. gingivalis 유발 inflammatory cascade 조절. [in-vitro]
+- [[periodontics/host-modulation/kim-2024-magnoliae-cortex-zea-mays-extracts]] — 개 모델 in vivo: 동일 추출물 혼합제 항염 효과. [animal]
 
 ### Related overviews
 
@@ -325,16 +388,18 @@ Periodontics decision ladder synthesizing 27+ `periodontics/` papers across 6+ a
 - [[overviews/professional-biofilm-management-gbt-air-polishing-overview]] — 전문가 치면세균막관리 (GBT·에어폴리싱·debridement) — 축 2 SRP·축 5 SPT의 *기구·술식* 상세
 
 확신도 등급:
-- 축 1 classification = [근거강함] (2017 World Workshop consensus).
-- 축 2 비외과 = [근거강함] (EFP S3 + Cochrane).
-- 축 3 외과·재생 = [근거강함] (Stavropoulos 2021 NMA).
-- 축 3b 치수치주복합병변 = [합의수준] (Herrera 2018 WW consensus + Sharma 2014 narrative).
-- 축 4 급성 병소 = [합의수준] (Herrera 2014·2018, Dommisch 2026).
-- 축 5 SPT cadence = [합의수준] (Cochrane RCT 부족, 코호트 위주).
-- 축 6 치주성형 = [합의수준] (합의 기반, 개별 RCT 제한적).
-- 축 7 peri-implantitis = [근거강함] epidemiology, [합의수준] 치료.
+- 축 1 classification = [확인] (2017 World Workshop consensus).
+- 축 2 비외과 = [확인] (EFP S3 + Cochrane).
+- 축 3 외과·재생 = [확인] (Stavropoulos 2021 NMA).
+- 축 3b 치수치주복합병변 = [확인] (Herrera 2018 WW consensus + Sharma 2014 narrative).
+- 축 4 급성 병소 = [확인] (Herrera 2014·2018, Dommisch 2026).
+- 축 5 SPT cadence = [확인] (Cochrane RCT 부족, 코호트 위주).
+- 축 6 치주성형 = [확인] (합의 기반, 개별 RCT 제한적).
+- 축 7 peri-implantitis = [확인] epidemiology, [확인] 치료.
 - 오옥시스테롤 재생생물학 = [전임상 단계] (Lee 2017 animal).
 - 골소실 분자기전 = [기초 기전] (de Molon 2026 narrative review).
 - 조직공학 재생 (bone-PDL-cementum) = [전임상~초기임상] (Liu 2019 SR).
 - RA↔치주염 치료 link = [근거중간] (Dolcezza 2024 SR+MA, 소규모 RCT 6편).
 - 오존 겔 보조 = [근거약함] (Barahim 2024 n=12/group).
+- 축 6b STA/생물학적 폭경 = [근거중간] (Abdulkarim 2024 retrospective n=19, Huang 2021 narrative-review).
+- 축 6c 시멘트질 열개 = [확인] (Liang 2025 consensus, 근거기반은 case-report 위주 Level 4) + [근거중간] (Lee 2025 cross-sectional n=445).

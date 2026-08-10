@@ -17,13 +17,21 @@ text_filename: fukushima-2016-controversy-with-respect-occlusion.txt
 
 조기접촉(premature contact)을 "안정적 교두감합위(ICP)의 종착 조건"이라는 개념 축에서 정면으로 다루는 review. 기존 위키의 조기접촉 1차연구 [[occlusion/jahanbin-2026-occlusal-adjustment-post-orthodontic-tscan-rct]] (교정후 조기접촉 T-Scan RCT)와 [[occlusion/velasquez-2022-occlusal-analysis-natural-dentition-sr]] (교합분석 SR)이 *측정·조정* 층위라면, 본 논문은 그 위의 *개념 층위* — centric relation(CR)의 한계와, 변형 과두(deformed condyle) 환자에서 습관성 폐구운동(HCM)이 조기접촉 없이 종료되는 안정 ICP를 어떻게 확보하는지 — 를 보강한다.
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review (single clinical case illustration, 25-yr follow-up) arguing that centric relation is unreliable in patients with deformed/unstable condyles, and that a stable intercuspal position where habitual closing movements terminate **without premature tooth contact** — guided by muscle-driven jaw positions rather than condylar position — should be the reference for occlusal reconstruction.
+Narrative conceptual review (Jpn Dent Sci Rev 2016) addressing the occlusal definition controversy, arguing that centric relation (CR) — defined by condylar position — is unreliable when condyles are deformed or unstable, and illustrated by one clinical case with 25-year follow-up.
 
-## 한줄요약
+For patients with unstable/deformed condyles, a stable intercuspal position (ICP) where habitual closing movements (HCM) terminate without premature contact should replace CR as the occlusal reference; muscle-driven mandibular positions and HCM terminal points are more reliable than condylar seating.
 
-서술적 종설(임상증례 1건, 25년 추적): 변형·불안정 과두 환자에서는 중심위(CR)가 신뢰할 수 없으며, 조기접촉 없이 습관성 폐구운동(HCM)이 종료되는 안정적 교두감합위(ICP)를 — 과두 위치가 아니라 근육 유도 하악위로 — 기준 삼아 교합을 재건해야 한다고 주장.
+Backward guidance from ICP exceeding 1.5–2.0 mm or marked working-side condyle retrusion signals an unstable condyle; conversely, a stable ICP tolerates condylar deformity, as demonstrated by 25-year functional stability in the presented case despite anterior condylar displacement.
+
+## 세줄요약
+
+교합 정의 논쟁을 다룬 서술적 개념 종설 (Jpn Dent Sci Rev 2016) — 과두변형·불안정 환자에서 과두위치 기반 중심위 (Centric Relation, CR)의 신뢰성 한계를 지적, 1건 임상증례 25년 추적으로 입증.
+
+불안정·변형 과두 환자의 교합 기준은 CR에서 안정적 교두감합위 (Intercuspal Position, ICP)로 전환 권고 — 습관성 폐구운동 (Habitual Closing Movement, HCM) 종료 시 조기접촉 없고, 근육 유도 하악위·HCM 종착점으로 판정; 과두 위치보다 신뢰성 높음.
+
+ICP에서 후방 유도 거리 1.5–2.0 mm 초과 또는 측방 운동 중 작업측 과두 후방 변위는 불안정 신호; 역으로 안정 ICP는 과두 변형을 허용하여, 제시 증례가 전방 변위 과두에도 25년 기능 안정성을 유지.
 
 ## 1. Document Information
 

@@ -13,11 +13,21 @@ source_collection: external
 
 Part of a focused collection on suture techniques and primary wound closure after impacted mandibular third molar surgery. This is the largest single-trial suture-vs-sutureless comparison in the cluster (n=101) and is the one that isolates a *trismus* benefit for the sutureless arm, sharpening the picture from [[suture-wound-closure/takadoum-2022-sutureless-socket-technique-third-molars]] (no difference on any outcome) and [[suture-wound-closure/kumar-2022-suture-versus-sutureless-third-molar-impactions]] (broad pain/swelling/trismus benefit).
 
-## One-line Summary
-Prospective RCT (n=101) of primary silk-suture closure vs suture-less closure after impacted mandibular third molar removal; pain, swelling, and lingual nerve function were comparable, but the suture-less group had significantly less trismus and fewer delayed-healing cases.
+## Three-line Summary
 
-## 한줄요약
-하악 매복 사랑니 발치 후 비단(silk) 봉합 1차 폐쇄 대 무봉합 폐쇄를 비교한 전향적 무작위배정 임상시험(n=101). 통증·부종·설신경 기능은 비슷했으나, 무봉합군에서 개구장애(trismus)가 유의하게 적었고 지연 치유 사례도 더 적었다.
+Prospective RCT (n=101) of primary silk-suture closure vs suture-less closure after impacted mandibular third molar removal;
+
+pain, swelling, and lingual nerve function were comparable, but the suture-less group had significantly less trismus and fewer delayed-healing cases.
+
+(incomplete)
+
+## 세줄요약
+
+하악 매복 사랑니 발치 후 비단(silk) 봉합 1차 폐쇄 대 무봉합 폐쇄를 비교한 전향적 무작위배정 임상시험(n=101).
+
+통증·부종·설신경 기능은 비슷했으나, 무봉합군에서 개구장애(trismus)가 유의하게 적었고 지연 치유 사례도 더 적었다.
+
+(incomplete)
 
 ## 1. Document Information
 - **Title**: Analysing inflammatory responses after mandibular third molar extraction: a comparison of suture-less and multiple suture techniques

@@ -6,7 +6,7 @@ date: 2025-03-17
 doi: "10.3390/jcs9030140"
 source: rehner-2025-dental-implants-nanoparticle-coatings-review.md
 category: [implants/surface]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/rehner-2025-dental-implants-nanoparticle-coatings-review.pdf
 pdf_filename: rehner-2025-dental-implants-nanoparticle-coatings-review.pdf
 source_collection: external
@@ -16,11 +16,19 @@ relations:
     target: jadhav-2026-dental-implant-surface-review
 ---
 
-## One-line Summary
-Narrative review — nanoparticle coatings (metal/metal-oxide, polymer, bioceramic) on dental implants enhance osseointegration and cell adhesion while adding antibacterial/anti-peri-implantitis action across in vitro and in vivo testing.
+## Three-line Summary
+Narrative review of nanoparticle-based implant surface coatings — metal/metal-oxide, polymer, and bioceramic types — evaluating dual-purpose mechanisms (osseointegration + antibacterial) across in vitro and in vivo preclinical testing.
 
-## 한줄요약
-내러티브 리뷰: 임플란트 나노입자 코팅이 in vitro/in vivo에서 골유착·세포부착을 높이고 항균(주위염 억제) 기능을 더함.
+Engineered nanoparticle coatings consistently improved osteoblast adhesion and proliferation and reduced peri-implant bacterial colonization in preclinical models; no clinical trial evidence is available and clinical translation remains pending.
+
+Nanoparticle coating safety, long-term durability, and standardized evaluation methods are unresolved; clinical decision-making cannot be based on this evidence tier alone.
+
+## 세줄요약
+나노입자 기반 임플란트 표면 코팅(금속/금속산화물·고분자·생체세라믹)의 이중 기능(골유착 + 항균) — in vitro/in vivo 전임상 근거를 종합한 내러티브 리뷰.
+
+전임상 모델에서 나노입자 코팅은 골모세포 부착·증식을 촉진하고 임플란트 주위 세균 집락을 억제; 임상시험 근거 없음.
+
+나노입자 코팅의 안전성·장기 내구성·표준 평가 방법이 미해결 — 임상 적용 전 추가 검증 필요.
 
 ## Summary
 This review focuses on nanoparticle-based implant surface coatings and their preclinical evidence. It frames coatings as dual-purpose — promoting osseointegration, cell adhesion and proliferation while inhibiting the peri-implant infections that drive failure — and surveys in vitro and in vivo testing of metal/metal-oxide, polymer, and bioceramic nanoparticle systems. As a narrative review weighted toward preclinical work, it documents promise rather than clinical proof; nanoparticle safety, coating durability, and clinical translation remain open. It complements Jadhav 2026's broader surface survey by drilling into the nanoparticle subset.

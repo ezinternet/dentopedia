@@ -9,8 +9,21 @@ pdf_filename: galarraga-vinueza-2025-peri-implant-disease-risk-factors.pdf
 source_collection: external
 ---
 
-## One-line Summary
-SR+MA of 102 studies (13,030 patients): peri-implant mucositis 46%, peri-implantitis 21%; periodontitis and smoking are risk indicators for both; diabetes and obesity additionally relevant.
+## Three-line Summary
+
+SR+MA of 102 studies (13,030 patients) found peri-implant mucositis prevalence at 46% (20-year incidence 53%) and peri-implantitis at 21% (incidence 22%).
+
+Periodontitis and smoking emerged as consistent risk indicators for both conditions; diabetes and obesity were additionally significant for specific outcomes.
+
+This AO/AAP consensus review identified behavioral and patient-related factors enabling targeted prevention strategies in implant dentistry.
+
+## 세줄요약
+
+102개 논문(13,030명) 메타분석 결과, 주위점막염 46%, 주위염 21%였고 20년 누적 발생률은 각각 53%, 22%.
+
+치주질환과 흡연이 두 질환 모두의 위험지표였으며, 당뇨병과 비만이 추가로 유의미했다.
+
+AO/AAP 합의 문헌고찰로서 임플란트 치과의 예방 전략 수립에 도움이 되는 행동·환자 관련 위험요인을 규명했다.
 
 ## 1. Document Information
 - **Journal**: Journal of Periodontology 2025; 96: 587–633

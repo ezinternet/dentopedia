@@ -6,7 +6,7 @@ date: 2024-08-08
 doi: 10.1038/s41598-024-69367-7
 source: komora-2024-comparison-bioactive-material-failure-rates.md
 category: [endodontics/vpt]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/komora-2024-comparison-bioactive-material-failure-rates.pdf
 pdf_filename: komora-2024-comparison-bioactive-material-failure-rates.pdf
 source_collection: external
@@ -16,13 +16,21 @@ relations:
     target: fasoulas-2023-pulpotomy-direct-pulp-capping-sr-ma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Network meta-analysis of 21 RCTs (mature permanent teeth) ranking VPT bioactive materials against MTA: calcium hydroxide had significantly higher failure (OR ~2.3–2.5 at 6/12/24 mo) while Biodentine and Totalfill did not differ from MTA.
+PRISMA-NMA network meta-analysis of 21 RCTs comparing calcium-silicate and calcium-hydroxide materials for vital pulp treatment of mature permanent teeth, with stratified follow-up at 6, 12, and 24 months.
 
-## 한줄요약
+Calcium hydroxide showed significantly higher failure rates than MTA at all time points (OR 2.26 at 6 mo, 2.53 at 12 mo, 2.46 at 24 mo), while Biodentine and Totalfill were statistically equivalent to MTA.
 
-21편 RCT(성숙영구치)의 네트워크 메타분석으로, VPT 생체활성재료를 MTA 기준 비교 시 수산화칼슘은 6·12·24개월에서 유의하게 높은 실패율(OR 약 2.3–2.5)을 보였고 Biodentine·Totalfill은 MTA와 차이가 없었다.
+For VPT in mature permanent teeth, calcium hydroxide is not recommended; MTA, Biodentine, and Totalfill are the evidence-based material choices with equivalent performance.
+
+## 세줄요약
+
+성숙 영구치 생활치수치료(Vital Pulp Therapy, VPT)에서 칼슘 규산염·수산화칼슘 재료를 MTA 기준으로 비교한 21편 RCT의 PRISMA-NMA 네트워크 메타분석; 6·12·24개월 추적 계층별 분석.
+
+수산화칼슘은 전 시점에서 MTA 대비 유의하게 높은 실패율(OR 2.26/2.53/2.46); Biodentine·Totalfill은 MTA와 동등.
+
+성숙 영구치 VPT에서 수산화칼슘은 권장되지 않으며, MTA·Biodentine·Totalfill이 동등한 근거 기반 재료 선택지.
 
 ## Summary
 

@@ -9,8 +9,21 @@ pdf_filename: park-2014-antagonist-wear-cad-cam-zirconia-enamel.pdf
 source_collection: external
 ---
 
-## One-line Summary
-J Prosthet Dent 2014;111(1):20-9: in vitro 6 groups (3 CAD/CAM Zr ± staining/glazing + feldspathic), 240,000 cycles — polished Zr: least enamel wear (1.11mm³); glazed Zr (stained+glazed): most among Zr (3.07mm³); feldspathic: most overall.
+## Three-line Summary
+
+J Prosthet Dent 2014;111(1):20-9: in vitro 6 groups (3 CAD/CAM Zr ± staining/glazing + feldspathic), 240,000 cycles — polished Zr: least enamel wear (1.11mm³)
+
+glazed Zr (stained+glazed): most among Zr (3.07mm³)
+
+feldspathic: most overall.
+
+## 세줄요약
+
+J Prosthet Dent 2014;111(1):20-9: 시험관내 (In vitro) 6 groups (3 CAD/CAM Zr ± staining/glazing + feldspathic), 240,000 cycles — polished Zr: least enamel wear (1.11mm³)
+
+glazed Zr (stained+glazed): most among Zr (3.07mm³)
+
+feldspathic: most overall.
 
 ## 1. Key Results
 - 6 groups: polished Zr, Zr+staining, Zr+staining+glazing (3 brands/conditions), feldspathic ceramic

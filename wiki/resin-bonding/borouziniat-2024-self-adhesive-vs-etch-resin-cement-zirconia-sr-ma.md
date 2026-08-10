@@ -6,7 +6,7 @@ date: 2024-02-08
 doi: 10.4103/JCDE.JCDE_225_23
 source: borouziniat-2024-self-adhesive-vs-etch-resin-cement-zirconia-sr-ma.md
 category: [resin-bonding]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "38463466"
@@ -20,13 +20,21 @@ relations:
     target: kwon-2026-self-adhesive-resin-cement-zirconia
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review + meta-analysis (26 in-vitro studies, 4 comparison groups) finding no significant difference in bond strength of self-adhesive vs self-etch resin cement to zirconia (immediate p=0.055; delayed p=0.143), while total-etch resin cement bonds significantly LOWER than self-adhesive (p=0.000); both self-adhesive and self-etch are suitable for zirconia luting per manufacturer instructions.
+SR+MA (26 in-vitro studies, 4 comparison groups: self-etch vs self-adhesive and total-etch vs self-adhesive, each at immediate and delayed >48h) comparing bond strength of resin cement classes to yttria-stabilized tetragonal zirconia polycrystal (Y-TZP).
 
-## 한줄요약
+No significant difference between self-adhesive and self-etch resin cements at immediate (p=0.055) or delayed (p=0.143) testing; total-etch resin cement bonded significantly weaker than self-adhesive at both time points (p=0.000); self-adhesive also significantly outperformed RMGI, GI, and zinc phosphate (p<0.001); attributed to 10-MDP presence in self-adhesive/self-etch classes.
 
-체계적 문헌고찰 + 메타분석(26편 in-vitro, 4개 비교군) — 지르코니아에 대한 자가접착(self-adhesive) vs 자가부식(self-etch) 레진시멘트의 결합강도는 즉시(p=0.055)·지연(p=0.143) 모두 유의차 없음. 전부식(total-etch)은 자가접착보다 유의하게 낮음(p=0.000). 자가접착·자가부식 모두 제조사 지침대로 사용 시 지르코니아 합착에 적합.
+For zirconia cementation, use a 10-MDP-containing self-adhesive or self-etch resin cement applied per manufacturer instructions; avoid total-etch resin cement and conventional non-adhesive cements.
+
+## 세줄요약
+
+SR+MA (26편 in-vitro, 4개 비교군: 자가부식 vs 자가접착, 전부식 vs 자가접착, 각 즉시·지연 >48h) — Y-TZP 지르코니아에 대한 레진시멘트 종류별 결합강도 비교.
+
+자가접착 (Self-Adhesive Resin Cement) vs 자가부식 (Self-Etch Resin Cement) 결합강도: 즉시(p=0.055)·지연(p=0.143) 모두 유의차 없음; 전부식 (Total-Etch) 레진시멘트는 자가접착보다 유의 열위(p=0.000); RMGI·GI·인산아연 시멘트 대비 자가접착 유의 우위(p<0.001) — 10-MDP 인산 기능성 단량체 유무가 기전.
+
+지르코니아 합착 시 10-MDP 함유 자가접착 또는 자가부식 레진시멘트를 제조사 지침대로 사용; 전부식 레진시멘트 및 기존 비접착 시멘트는 지르코니아에 부적합.
 
 ## Summary
 

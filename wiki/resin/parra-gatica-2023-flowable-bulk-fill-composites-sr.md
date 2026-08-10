@@ -4,20 +4,30 @@ authors: Elizabeth Parra Gatica, Gerardo Duran Ojeda, Michael Wendler
 year: 2023
 date: 2023-01-01
 doi: 10.1080/26415275.2023.2175685
-source: parra-gatica-2023-flowable-bulk-fill-composites-sr
+source: parra-gatica-2023-flowable-bulk-fill-composites-sr.md
 category: [resin]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/parra-gatica-2023-flowable-bulk-fill-composites-sr.pdf
 pdf_filename: parra-gatica-2023-flowable-bulk-fill-composites-sr.pdf
 source_collection: external
 tags: []
 ---
 
-## One-line Summary
-Systematic review (53 in vitro studies) of contemporary flowable bulk-fill resin-based composites found extreme inter-product heterogeneity — degree of conversion 19.4–93.7%, polymerization shrinkage 1.3–10.5%, shrinkage stress predominantly 2–3 MPa, flexural strength >80 MPa for most — concluding the materials meet bulk-fill requirements but variability precludes generalizing across products, with clinical studies lacking.
+## Three-line Summary
 
-## 한줄요약
-53개 in vitro 연구 체계적 문헌고찰: 유동성 벌크필 레진(flowable bulk-fill RBC)의 전환율(DC) 19–94%, 중합수축 1.3–10.5%, 수축응력 2–3 MPa, 굴곡강도 대부분 80 MPa 초과로 재료 간 편차가 크며 임상연구 부재.
+Systematic review (53 in-vitro studies; PubMed, Scopus, Web of Science; PRISMA, QUIN risk-of-bias) evaluating physicochemical properties of contemporary flowable bulk-fill resin-based composites.
+
+Extreme inter-product heterogeneity was found: degree of conversion 19.4–93.7%, polymerization shrinkage 1.3–10.5%, shrinkage stress predominantly 2–3 MPa, and flexural strength >80 MPa for most materials.
+
+Materials meet the technical requirements for bulk-fill technique, but the wide property variation precludes generalizing results across different commercial products; clinical studies are urgently needed.
+
+## 세줄요약
+
+체계적 문헌고찰(53편 in-vitro; PubMed·Scopus·Web of Science; PRISMA, QUIN 비뚤림 위험): 현대 유동성 벌크필 레진(Flowable Bulk-Fill Resin-Based Composite, BF-RBC)의 이화학적 물성 평가.
+
+제품 간 극심한 이질성: 전환율(Degree of Conversion, DC) 19.4–93.7%, 중합수축 1.3–10.5%, 수축응력(Shrinkage Stress) 주로 2–3 MPa, 굴곡강도 대부분 80 MPa 초과.
+
+재료들은 벌크필 기법의 기술적 요건을 충족하나, 넓은 물성 편차로 제품 간 결과 일반화 불가; 임상 연구 부재.
 
 ## Summary
 This systematic review (PRISMA, QUIN risk-of-bias) included 53 in vitro studies from PubMed, Scopus, and Web of Science to evaluate the physico-chemical properties of flowable (low-viscosity) bulk-fill resin-based composites. The review highlighted extreme heterogeneity: degree of conversion (DC) ranged 19.41–93.71%, polymerization shrinkage 1.26–10.45%, shrinkage stress predominantly 2–3 MPa across most studies, and flexural strength above 80 MPa for most materials. Moderate risk of bias was observed in most included studies. The authors concluded that flowable BF-RBCs meet requirements for bulk-fill technique but warned that inter-product variability precludes generalizing results across different commercial materials. Clinical studies are urgently needed.

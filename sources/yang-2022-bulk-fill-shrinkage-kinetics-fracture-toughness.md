@@ -16,11 +16,21 @@ text_filename: yang-2022-bulk-fill-shrinkage-kinetics-fracture-toughness.txt
 
 기존 [[resin/meereis-2018-polymerization-shrinkage-stress-resin-sr-ma]] (조성 전략 SR+MA)와 [[resin/parra-gatica-2023-flowable-bulk-fill-composites-sr]] (유동성 BF SR)는 수축 자체의 수치 범위를 제시하지만, 실시간 중합 kinetics(RPmax·PS Rmax)와 파괴인성(KIC)을 viscosity-reduction 기법(sonication·preheating)과 함께 직접 측정한 mechanistic in-vitro 데이터는 위키에 없었다. Watts 그룹의 본 연구는 "벌크필 간 수축은 비슷하되 충전율(filler wt%)이 PS·KIC를 좌우한다"는 기전을 보강한다. abstract-only — full text not retrieved.
 
-## One-line Summary
+## Three-line Summary
+
 In-vitro bench study (4 bulk-fill composites, n=3-5) finding that different bulk-fill types show comparable polymerization shrinkage, that filler content (wt%) strongly correlates with both shrinkage and fracture toughness, and that sonication (SonicFill 3) and pre-heating (Viscalor) enhance flowability without increasing shrinkage or reducing fracture toughness.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 In-vitro (벌크필 4종, ATR-FTIR + bonded-disk): 벌크필 종류 간 중합수축은 비슷하고, 충전율(wt%)이 수축·파괴인성과 강하게 상관하며, sonication(SonicFill 3)·예열(Viscalor)은 수축 증가나 파괴인성 저하 없이 흐름성만 개선.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - Journal: Dental Materials (Academy of Dental Materials), 2022;38(12):1934-1941

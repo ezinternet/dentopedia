@@ -6,23 +6,31 @@ date: 2025-06-01
 doi: 10.5037/jomr.2025.16205
 source: stacchi-2025-vacuum-plasma-early-implant-stability-rct.md
 category: [implants/surface/plasma]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/stacchi-2025-vacuum-plasma-early-implant-stability-rct.pdf
 pdf_filename: stacchi-2025-vacuum-plasma-early-implant-stability-rct.pdf
 source_collection: external
-tags: [plasma, vacuum-plasma, human-rct, ISQ, early-stability, split-mouth, chairside]
+tags: [plasma, vacuum-plasma, human-rct, ISQ, early-stability, split-mouth, chairside, DBD, MegaGen, device-parameters]
 relations:
   - type: refines
     target: pesce-2020-photo-plasma-activation-titanium-sr-ma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Single-blind split-mouth RCT (24 patients, 48 implants): vacuum plasma activation immediately before insertion gave significantly higher ISQ than untreated controls at 60 and 90 days (P=0.04, P=0.03), with limited absolute difference; insertion torque unchanged (P=0.86), all 48 osseointegrated.
+Single-blind split-mouth RCT (24 patients, 48 implants): vacuum plasma activation (Plasma X Motion device) applied chairside immediately before insertion vs untreated contralateral controls, with ISQ monitored from placement through 90 days.
 
-## 한줄요약
+Plasma yielded significantly higher ISQ at 60 days (P=0.04) and 90 days (P=0.03); both arms showed the typical stability dip nadir at 21 days; insertion torque was unchanged (P=0.86) and all 48 implants osseointegrated without adverse events.
 
-단일맹검 split-mouth RCT(환자 24명, 임플란트 48개): 식립 직전 진공 플라즈마가 60·90일에 대조군보다 유의하게 높은 ISQ(P=0.04, P=0.03), 절대차는 작음. 식입토크 차이 없음(P=0.86), 48개 모두 골유착.
+The absolute ISQ difference was described as limited and the benefit emerged only at later timepoints — a real but modest effect; results are device-specific and the small n (24) warrants replication.
+
+## 세줄요약
+
+줄1: 단일맹검 split-mouth RCT(24명, 48 임플란트): 진공 플라즈마(Plasma X Motion) chairside 식립 직전 처리 vs 반대측 무처리 대조, 식립 직후~90일 ISQ 추적.
+
+줄2: 플라즈마군이 60일(P=0.04)·90일(P=0.03)에 유의하게 높은 ISQ; 양군 모두 21일 dip; 식입토크 차이 없음(P=0.86); 48개 전부 골유착·부작용 없음.
+
+줄3: ISQ 절대차는 작고 이점이 후기 시점에서만 나타남 — 실재하나 효과 크기 제한적; 장치 특이적이며 소규모(n=24)라 반복 검증 필요.
 
 ## Summary
 
@@ -32,10 +40,12 @@ The strongest human evidence in the cluster. A proper controlled split-mouth RCT
 
 - Controlled human RCT (split-mouth) of pre-insertion plasma — fills the clinical gap.
 - Full early ISQ trajectory; significance at 60/90 d.
+- **Device parameters (added 2026-08-10) directly answer "how long does a vacuum plasma cycle take for a commercial chairside device":** the MegaGen Plasma X Motion runs a **~50-second** cycle under deep vacuum (<10 torr / <13 mbar) with a 3 kV dielectric barrier discharge (DBD) and no external gas — a fundamentally different design from [[implants/surface/plasma/becker-2019-lpp-app-plasma-proinflammatory-cytokines]]'s LPP arm (argon-filled chamber, 15 min, Diener Femto PCCE). "Vacuum" alone does not predict treatment duration — discharge design (DBD vs low-power glow discharge) does.
 
 ## Methodology
 
-- 24 patients, contralateral plasma vs control implants. Plasma X Motion (MegaGen). ISQ at placement, 7/14/21/28/42/60/90 d.
+- 24 patients, contralateral plasma vs control implants. ISQ at placement, 7/14/21/28/42/60/90 d.
+- **Plasma X® Motion (MegaGen Implant Co., Ltd.):** implant in a sealed chamber; vacuum pump to <10 torr (<13 mbar); auto-connected to a 3 kV DBD electrode, no external gas introduced (closed-system discharge). **Cycle duration ≈50 seconds.**
 
 ## Results
 
@@ -50,3 +60,4 @@ The strongest human evidence in the cluster. A proper controlled split-mouth RCT
 - [[implants/surface/plasma/kahm-2024-vacuum-plasma-surface-treatment-osseointegration]] — animal vacuum plasma (NS).
 - [[implants/surface/plasma/kwon-2024-actlink-plasma-rct-osseointegration-bone-regeneration]] — human RCT (stability NS).
 - [[implants/surface/plasma/kim-2025-plasma-surface-treatment-implant-stability-retrospective]] — human retrospective.
+- [[implants/surface/plasma/becker-2019-lpp-app-plasma-proinflammatory-cytokines]] — the wiki's other device-parameter data point for vacuum/low-pressure plasma (LPP: argon, 15 min, Diener Femto PCCE) — contrast shows vacuum-plasma treatment time is device-design-dependent, not a fixed function of pressure regime.

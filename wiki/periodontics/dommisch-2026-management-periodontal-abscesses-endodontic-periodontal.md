@@ -6,20 +6,28 @@ date: 2026-01-01
 doi: 10.1111/jcpe.70135
 source: dommisch-2026-management-periodontal-abscesses-endodontic-periodontal.md
 category: [periodontics]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/dommisch-2026-management-periodontal-abscesses-endodontic-periodontal.pdf
 pdf_filename: dommisch-2026-management-periodontal-abscesses-endodontic-periodontal.pdf
 source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (no meta-analysis; 7 PICOS questions, ~21 included studies) of periodontal abscess and endodontic-periodontal lesion (EPL) management: combined drainage + periodontal therapy reduces PD 2–3 mm and BOP to 30–44% in abscesses (recurrence 13–23% at 15 mo), while EPL interventions yield PD reductions of 2.5–9.3 mm and tooth-loss 0–25% over 3–120 mo, on limited, heterogeneous, low-to-high-bias evidence.
+Systematic review (no meta-analysis; PROSPERO CRD420251078257; 7 PICOS questions; 5 abscess studies + 18 EPL studies) of the management of periodontal abscesses and endodontic-periodontal lesions (EPLs) as classified by the 2018 World Workshop.
 
-## 한줄요약
+Combined drainage + periodontal therapy in abscesses reduces PD by 2–3 mm and BOP to 30–44% with recurrence 13–23% at 15 months; EPL interventions yield PD reductions of 2.5–9.3 mm and tooth loss 0–25% over 3–120 months.
 
-치주농양과 치수-치주 복합병소(EPL) 관리에 대한 체계적 문헌고찰(메타분석 불가, 7개 PICOS, 약 21편): 농양은 배농 후 치주치료 병용으로 PD 2–3mm 감소·BOP 30–44%로 호전(15개월 재발 13–23%), EPL은 PD 2.5–9.3mm 감소·치아상실 0–25%(3–120개월)였으나 근거가 제한적·이질적이라 강한 결론은 불가.
+Evidence is limited, heterogeneous, and of low-to-high bias across studies; no strong conclusions on optimal treatment sequencing for EPLs can be drawn.
+
+## 세줄요약
+
+2018 World Workshop 분류에 따른 치주농양 및 치수-치주 복합병소(Endodontic-Periodontal Lesion, EPL) 관리에 대한 체계적 문헌고찰(메타분석 불가; PROSPERO; 7개 PICOS; 농양 5편·EPL 18편 포함).
+
+농양: 배농+치주치료 병용 시 PD 2–3 mm 감소, BOP 30–44%로 호전, 15개월 재발 13–23%; EPL: 치료 후 PD 2.5–9.3 mm 감소, 치아상실 0–25%(3–120개월).
+
+근거가 제한적·이질적이고 편향 위험 낮음~높음으로 다양하여 EPL에 대한 최적 치료 순서에 관한 강한 결론 도출 불가.
 
 ## Summary
 

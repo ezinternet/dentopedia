@@ -17,13 +17,21 @@ text_filename: livas-2016-fixed-retention-unopposed-molar-overeruption.txt
 
 대합치 없는 치아 정출(supraeruption) 클러스터를 확장하기 위한 감시 인제스트. 방금 추가한 [[occlusion/wang-2022-unopposed-molar-overeruption-implant-cbct]](발치~보철 ~9개월간 0.43mm 정출)은 정출이 *일어난다*는 데이터이고, 본 Livas 2016은 그 정출을 *막으려는 개입(고정 retainer)*이 실제로 의미가 있는가를 본다. 결론은 retention군·부분접촉 대조군 모두 정출이 임상적으로 무의미(~0.1mm)했다는 것 — 정출의 임상적 크기가 흔히 과대평가됨을 보강. 또한 background에 12년 코호트(≥2mm 정출 위험 4.9배), 18%는 전혀 정출 안 함, 상악>하악, 초기 가장 빠름 등 정출 역학의 핵심 수치를 집약.
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective panoramic study (65 Class II div 1 cases): unopposed mandibular second molars retained with bonded sectional wires showed no statistically significant overeruption vs partial-contact non-retention controls — both moved only ~0.1 mm (clinically insignificant); partial occlusal contact restrained eruption as well as fixed retention.
+Retrospective panoramic study (65 Class II div 1 cases): unopposed mandibular second molars retained with bonded sectional wires showed no statistically significant overeruption vs partial-contact non-retention controls — both moved only ~0.1 mm (clinically insignificant);
 
-## 한줄요약
+partial occlusal contact restrained eruption as well as fixed retention.
+
+(incomplete)
+
+## 세줄요약
 
 후향적 파노라마 연구(Class II 1류 65명): 고정 sectional wire로 잡아둔 대합치 없는 하악 2대구치는 부분접촉 비고정 대조군과 비교해 통계적으로 유의한 정출이 없었고, 양쪽 모두 약 0.1mm(임상적으로 무의미)만 이동 — 부분 교합접촉도 고정 retainer만큼 정출을 억제했다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

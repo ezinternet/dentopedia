@@ -6,7 +6,7 @@ date: 2025-06-30
 doi: 10.5037/jomr.2025.16201
 journal: Journal of Oral & Maxillofacial Research 16(2):e1
 source: starch-jensen-2025-transcrestal-sinus-osseodensification-meta-analysis.md
-confidence: sr+ma
+evidence_level: sr+ma
 category: [sinus-lift/transcrestal]
 pdf_path: /Users/oracleneo/llm-wiki/papers/starch-jensen-2025-transcrestal-sinus-osseodensification-meta-analysis.pdf
 pdf_filename: starch-jensen-2025-transcrestal-sinus-osseodensification-meta-analysis.pdf
@@ -14,11 +14,19 @@ source_collection: external
 tags: [TSMEOD, osseodensification, OMSFE, MSFA, ISQ, sinus-lift, SR-MA, GRADE-low]
 ---
 
-## One-line Summary
-Systematic review + meta-analysis (SR+MA, 6 RCTs, high bias, low GRADE): osseodensification-mediated transcrestal sinus floor elevation (TSMEOD) significantly raised implant stability quotient (ISQ) at placement and abutment connection versus osteotome (OMSFE) or lateral window (MSFA), with equal implant survival and reduced surgery time, complications, and analgesic use — but less endo-sinus bone gain than MSFA.
+## Three-line Summary
+SR+MA of 6 RCTs (high risk of bias, low GRADE) comparing osseodensification-mediated transcrestal sinus floor elevation (TSMEOD) vs osteotome (OMSFE) and lateral window (MSFA) techniques.
 
-## 한줄요약
-SR+MA (6 RCTs, low GRADE): TSMEOD(osseodensification)가 osteotome·측방창 대비 식립시·지대주 연결시 ISQ 유의하게 높음; 생존율 동등
+TSMEOD significantly raised ISQ at implant placement and abutment connection versus both comparators, while implant survival was equivalent and surgery time, complications, and analgesic use were reduced; endo-sinus bone gain was lower than MSFA.
+
+Evidence strength is low (6 RCTs, high bias, low GRADE), limiting generalizability; long-term RCTs are needed before TSMEOD can be recommended as the default transcrestal approach.
+
+## 세줄요약
+6편 RCT SR+MA (high RoB, low GRADE): 골밀도화 경치조골 상악동거상술 (Transcrestal Sinus Floor Elevation via Osseodensification, TSMEOD)을 골내세공기 (Osteotome, OMSFE)·측방창 (MSFA)과 비교.
+
+TSMEOD는 식립 시 및 지대주 연결 시 임플란트 안정성 지수 (Implant Stability Quotient, ISQ)를 유의하게 높이고, 수술 시간·합병증·진통제 사용을 줄였으며, 임플란트 생존율은 동등; 다만 동내 골획득량은 MSFA보다 적음.
+
+근거 확실성이 낮아(6 RCTs, high RoB, low GRADE) 일반화에 제한이 있으며, 장기 추적 RCT가 필요함.
 
 ## Summary
 SR+MA, 6 RCTs (high bias, low GRADE), short-term. **Osseodensification-mediated TSFE (TSMEOD) significantly raises ISQ at placement and abutment connection** vs osteotome (OMSFE) or lateral window (MSFA). Implant survival equal; surgery time, complications, analgesics all reduced.
@@ -49,4 +57,4 @@ Osseodensification burs compact trabecular bone laterally instead of removing it
 - [[sinus-lift/transcrestal/stuhr-2025-long-term-stability-transcrestal-sinus-augmentation]] — TSFE long-term
 - [[sinus-lift/lateral/starch-jensen-2017-sinus-floor-augmentation-treatment-modalities]] — earlier modality review
 - [[sinus-lift/lateral/allurkar-2025-implant-stability-residual-bone-macrodesign]] — RBH + macro-design effect
-- [[implants/di-stefano-2021-stability-dental-implants-cortical-bone]] — cortical thickness drives ISQ
+- [[implants/isq/di-stefano-2021-stability-dental-implants-cortical-bone]] — cortical thickness drives ISQ

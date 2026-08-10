@@ -1,0 +1,22 @@
+SOURCE: PubMed abstract (full text not retrieved — no PMCID; paywalled)
+PMID: 28861729 | DOI: 10.1007/s10103-017-2315-6
+Shahnaz A, Jamali R, Mohammadi F, Khorsand A, Moslemi N, Fekrazad R.
+"A preliminary randomized clinical trial comparing diode laser and scalpel periosteal incision during implant surgery: impact on postoperative morbidity and implant survival."
+Lasers Med Sci. 2017 Aug 31;33(1):19-25.
+
+== ABSTRACT (full) ==
+The aim of this preliminary randomized clinical trial was to compare: (1) post-operative morbidity after application of laser or scalpel incision for flap advancement during implant surgery and bone grafting and (2) implant survival rate following flap advancement with laser or scalpel incision after 6 months of loading.
+
+Eighteen patients who were scheduled for dental implant placement and simultaneous bone grafting were randomly assigned to test or control groups. Diode laser (810 nm, 2 W, pulse interval 200 μs; pulse length 100 μs, 400-μm initiated fiber tip), or scalpel (control) was used to sever the periosteum to create a tension-free flap. Visual analogue scale (VAS) pain score, rate of nonsteroid anti-inflammatory drug (NSAID) consumption, intensity of swelling, and ecchymosis were measured for the six postsurgical days. Six months after loading, implant survival was assessed.
+
+Results:
+- VAS pain score (during the first four postoperative days), rate of NSAID consumption (during the first three postoperative days), and intensity of swelling (during the first five postoperative days) were significantly lower in the test group compared to the control group (All P values < 0.05).
+- One patient in the control group experienced ecchymosis.
+- All implants were successful in function.
+
+Conclusions:
+Application of laser for performing periosteal releasing incision reduced the incidence and severity of postoperative morbidity of the patients undergone implant surgery in conjunction with bone augmentation procedure. We did not find any detrimental effect of laser incision on the implant survival within 6 months of loading.
+
+Authors/Affiliations: Aysan Shahnaz (Dept of Periodontics, Qom University of Medical Sciences, Iran), Raika Jamali, Farnush Mohammadi, Afshin Khorsand, Neda Moslemi, Reza Fekrazad (Tehran University of Medical Sciences).
+Article type: Randomized Controlled Trial, Comparative Study.
+Study type: RCT, preliminary/pilot (n=18), single-center. Randomized follow-up to the same Tehran group's 2016 uncontrolled diode-laser PRI case series, adding a scalpel-control arm.

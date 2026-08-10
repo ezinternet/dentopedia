@@ -7,7 +7,7 @@ doi: 10.4317/jced.63093
 journal: "J Clin Exp Dent 17(11)"
 source: hamad-2025-buffered-lidocaine-infiltration-extraction-rct.md
 category: [local-anesthesia]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/hamad-2025-buffered-lidocaine-infiltration-extraction-rct.pdf
 pdf_filename: hamad-2025-buffered-lidocaine-infiltration-extraction-rct.pdf
 source_collection: external
@@ -19,13 +19,21 @@ relations:
     target: karm-2017-lidocaine-epinephrine-200000-third-molar
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Double-blind prospective RCT (n=100, 50/group, ASA I/II, 18–60y), maxillary posterior extraction via supraperiosteal infiltration: buffered 2% lidocaine/1:100,000 (measured pH 7.3) beat conventional (pH 4.2) on injection pain (VAS 2.8±0.7 vs 4.2±0.9), onset (2.3 vs 4.7 min) and duration (45.8±7.6 vs 36.4±8.2 min), all p<0.01; reinjection rate NS (4% vs 8%, p=0.678).
+Double-blind prospective RCT (n=100, 50/group; ASA I/II; 18–60 y) of supraperiosteal infiltration for maxillary posterior extraction: buffered 2% lidocaine/1:100,000 (measured pH 7.3) vs conventional (pH 4.2) — the largest single-trial in the buffered-LA cluster with pH confirmation.
 
-## 한줄요약
+Buffered lidocaine significantly outperformed conventional on injection pain (VAS 2.8±0.7 vs 4.2±0.9), onset (2.3 vs 4.7 min), and duration (45.8±7.6 vs 36.4±8.2 min), all p<0.01; reinjection rate was non-significant (4% vs 8%, p=0.678).
 
-이중맹검 전향적 RCT (n=100, 군당 50명, ASA I/II, 18–60세), 상악 구치 발치 골막상 침윤마취: buffered 2% 리도카인/1:100,000(측정 pH 7.3)이 conventional(pH 4.2) 대비 주사 통증(VAS 2.8±0.7 vs 4.2±0.9)·발현(2.3분 vs 4.7분)·지속(45.8±7.6분 vs 36.4±8.2분) 모두 우수(전부 p<0.01); 재주사율 차이 없음(4% vs 8%, p=0.678).
+Buffering improves injection comfort, speed of onset, and working time in routine maxillary infiltration, but does not rescue failed blocks — for the high-failure SIP scenario, see the buffered-IANB evidence.
+
+## 세줄요약
+
+이중맹검 전향적 RCT (n=100, 군당 50명, ASA I/II, 18–60세): 상악 구치 발치(만성 치근단병소) 골막상 침윤마취 — buffered 2% 리도카인/1:100,000(측정 pH 7.3) vs conventional(pH 4.2), 이 buffered-LA 클러스터에서 pH 실측·최대 표본 연구.
+
+Buffered 리도카인이 주사 통증(VAS 2.8±0.7 vs 4.2±0.9)·발현(2.3분 vs 4.7분)·지속(45.8±7.6분 vs 36.4±8.2분) 모두 유의하게 우수(전부 p<0.01); 재주사율 차이 없음(4% vs 8%, p=0.678).
+
+Buffering은 일상적 상악 침윤마취에서 주사 통증 감소·발현 단축·지속 연장에 유효 — 단, 실패 마취 구제 효과는 없으므로 SIP hot-tooth 대응은 별도 근거(IANB 연구) 참조.
 
 ## Summary
 
@@ -57,7 +65,7 @@ The notable methodological strength is **measuring the pH** with a calibrated me
 
 ## Results
 
-[근거강함] Baseline comparable (age 35.2 vs 34.8 y; baseline pain VAS 6.5 vs 6.7, p=0.53).
+[확인] Baseline comparable (age 35.2 vs 34.8 y; baseline pain VAS 6.5 vs 6.7, p=0.53).
 
 | Parameter | Conventional (A) | Buffered (B) | p |
 |---|---|---|---|
@@ -66,24 +74,24 @@ The notable methodological strength is **measuring the pH** with a calibrated me
 | Duration (min) | 36.4 ± 8.2 | 45.8 ± 7.6 | < 0.01 |
 | Reinjection | 8% (4/50) | 4% (2/50) | 0.678 (NS) |
 
-[근거강함] Effect sizes: ~33% less injection pain, ~51% faster onset, ~26% longer duration with buffering.
+[확인] Effect sizes: ~33% less injection pain, ~51% faster onset, ~26% longer duration with buffering.
 
-[claude해석] The only success-adjacent endpoint (reinjection) was NS — efficacy is supported by faster onset and longer duration, not by a direct success-rate measure. Buffering here improves comfort and pharmacodynamics rather than rescuing failures (unlike the SIP setting, where the failure baseline is high).
+[미검증] The only success-adjacent endpoint (reinjection) was NS — efficacy is supported by faster onset and longer duration, not by a direct success-rate measure. Buffering here improves comfort and pharmacodynamics rather than rescuing failures (unlike the SIP setting, where the failure baseline is high).
 
 ## Clinical Implications for Korean Practice
 
-[합의수준] For 상악 구치 발치 (maxillary posterior extraction) by infiltration, buffering the standard 2% lidocaine/1:100,000 cartridge measurably reduces injection sting, speeds onset by ~2 min, and extends working time by ~9 min — directly relevant to single-tooth extraction comfort and chair efficiency.
+[확인] For 상악 구치 발치 (maxillary posterior extraction) by infiltration, buffering the standard 2% lidocaine/1:100,000 cartridge measurably reduces injection sting, speeds onset by ~2 min, and extends working time by ~9 min — directly relevant to single-tooth extraction comfort and chair efficiency.
 
-[claude해석] The mechanism is route-agnostic (pH normalization), so the maxillary-infiltration result reasonably generalizes to other infiltration sites; nerve-block confirmation comes from the sibling IANB trials.
+[미검증] The mechanism is route-agnostic (pH normalization), so the maxillary-infiltration result reasonably generalizes to other infiltration sites; nerve-block confirmation comes from the sibling IANB trials.
 
-[추정] Prepare buffered solution immediately before injection (precipitation risk on standing). No dose adjustment was made for weight/age in this ASA I/II adult cohort.
+[미검증] Prepare buffered solution immediately before injection (precipitation risk on standing). No dose adjustment was made for weight/age in this ASA I/II adult cohort.
 
-[wiki-living-document] Healthy adult, non-inflamed (chronic periapical, not acute SIP) population; reinjection was the only efficacy proxy and was NS. Apply as "buffering improves comfort/onset/duration in routine maxillary infiltration," not as evidence for rescuing failed anesthesia — for the high-failure SIP scenario see [[drug/karunakar-2024-buffered-precooled-lidocaine-ianb-pulpitis]] and [[drug/gandhi-2022-preheated-buffered-lignocaine-ianb-pulpitis-rct]].
+[wiki-living-document] Healthy adult, non-inflamed (chronic periapical, not acute SIP) population; reinjection was the only efficacy proxy and was NS. Apply as "buffering improves comfort/onset/duration in routine maxillary infiltration," not as evidence for rescuing failed anesthesia — for the high-failure SIP scenario see [[local-anesthesia/karunakar-2024-buffered-precooled-lidocaine-ianb-pulpitis]] and [[local-anesthesia/gandhi-2022-preheated-buffered-lignocaine-ianb-pulpitis-rct]].
 
 ## Related Papers
 
-- [[drug/kalra-2024-buffered-lidocaine-articaine-extraction-rct]] — buffering onset in mandibular IANB extraction; this page confirms onset and adds injection-pain + duration in the infiltration route (reinforces).
-- [[drug/karunakar-2024-buffered-precooled-lidocaine-ianb-pulpitis]] — buffered lidocaine IANB in SIP; success-rate evidence in inflamed tissue.
-- [[drug/gandhi-2022-preheated-buffered-lignocaine-ianb-pulpitis-rct]] — buffered vs preheated lignocaine IANB in SIP.
-- [[drug/karm-2017-lidocaine-epinephrine-200000-third-molar]] — epinephrine-concentration LA-formulation question in extraction (reinforces the formulation-optimization theme).
-- [[drug/hwang-2023-proposal-clinical-guidelines-local-anesthesia-dentistry]] — Korean LA guideline context.
+- [[local-anesthesia/kalra-2024-buffered-lidocaine-articaine-extraction-rct]] — buffering onset in mandibular IANB extraction; this page confirms onset and adds injection-pain + duration in the infiltration route (reinforces).
+- [[local-anesthesia/karunakar-2024-buffered-precooled-lidocaine-ianb-pulpitis]] — buffered lidocaine IANB in SIP; success-rate evidence in inflamed tissue.
+- [[local-anesthesia/gandhi-2022-preheated-buffered-lignocaine-ianb-pulpitis-rct]] — buffered vs preheated lignocaine IANB in SIP.
+- [[drug/analgesics/karm-2017-lidocaine-epinephrine-200000-third-molar]] — epinephrine-concentration LA-formulation question in extraction (reinforces the formulation-optimization theme).
+- [[local-anesthesia/hwang-2023-proposal-clinical-guidelines-local-anesthesia-dentistry]] — Korean LA guideline context.

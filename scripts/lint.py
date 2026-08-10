@@ -21,7 +21,7 @@ except ImportError:
     yaml = None  # YAML parse check skipped if PyYAML not installed
 
 WIKI_DIR = "wiki"
-SKIP_DIRS = {"_lint", "overviews", "evidence-appraisal"}
+SKIP_DIRS = {"_lint", "_meta", "overviews", "evidence-appraisal"}
 SKIP_FILES = {"index.md", "category-map.md"}  # Quartz homepage / nav-map, not paper pages
 
 REQUIRED_FIELDS = [
@@ -31,8 +31,10 @@ REQUIRED_FIELDS = [
     "doi",
     "source",
     "category",
-    "confidence",
 ]
+# 근거등급 필드: evidence_level(2026-07-15 rename) 또는 legacy confidence — 둘 중 하나 필수.
+# 둘 다 있으면 evidence_level 우선. 기존 페이지의 confidence:는 grandfather (INGEST.md 참조).
+EVIDENCE_LEVEL_KEYS = ("evidence_level", "confidence")
 # 아티팩트 필드: PDF 논문 vs PubMed-text 논문(PMC 전문을 .txt로 저장)
 PDF_FIELDS = ["pdf_path", "pdf_filename"]
 TEXT_FIELDS = ["text_path", "text_filename"]
@@ -64,6 +66,30 @@ def parse_frontmatter(content: str) -> Optional[dict]:
     return fields
 
 
+def duplicate_top_level_keys(fm_text: str) -> list[str]:
+    """Return top-level frontmatter keys that appear more than once.
+
+    PyYAML's safe_load silently keeps the LAST value on a duplicate key, so it
+    does NOT flag this — but Quartz's js-yaml parser fails the entire build on it
+    ("duplicated mapping key" → exit 1 → GitHub Pages deploy blocked). We detect
+    it with plain string parsing so the check works even without PyYAML.
+    """
+    counts: dict[str, int] = {}
+    for line in fm_text.splitlines():
+        # top-level key = column-0 (no leading whitespace), not a comment,
+        # not a list item ("- ..."), of the form "key:".
+        if not line or line[0].isspace():
+            continue
+        if line.lstrip().startswith("#"):
+            continue
+        m = re.match(r"^([A-Za-z0-9_-]+)\s*:", line)
+        if not m:
+            continue
+        k = m.group(1)
+        counts[k] = counts.get(k, 0) + 1
+    return sorted(k for k, c in counts.items() if c > 1)
+
+
 def lint_file(path: str) -> list[str]:
     errors = []
     with open(path, encoding="utf-8") as f:
@@ -73,42 +99,57 @@ def lint_file(path: str) -> list[str]:
     if fields is None:
         return [f"NO FRONTMATTER: {path}"]
 
+    # Raw frontmatter text (shared by the duplicate-key + YAML parse checks)
+    m = re.match(r"^---\n(.*?)\n---", content, re.DOTALL)
+    fm_text = m.group(1) if m else ""
+
+    # Duplicate top-level key check — Quartz's js-yaml fails the whole build on a
+    # "duplicated mapping key" (exit 1 → deploy blocked), but PyYAML's safe_load
+    # silently keeps the last value, so the YAML check below misses it. Catch it
+    # explicitly so ingest never ships a build-breaking page.
+    dup_keys = duplicate_top_level_keys(fm_text)
+    if dup_keys:
+        errors.append(f"DUPLICATE frontmatter key {dup_keys}: {path}")
+
     # YAML parse check — catches issues that break Quartz build
     # (e.g., unquoted values with embedded ":" or other YAML specials)
-    if yaml is not None:
-        m = re.match(r"^---\n(.*?)\n---", content, re.DOTALL)
-        if m:
-            try:
-                yaml.safe_load(m.group(1))
-            except yaml.YAMLError as e:
-                first_line = str(e).splitlines()[0]
-                errors.append(f"YAML PARSE FAIL: {path}: {first_line}")
+    if yaml is not None and fm_text:
+        try:
+            yaml.safe_load(fm_text)
+        except yaml.YAMLError as e:
+            first_line = str(e).splitlines()[0]
+            errors.append(f"YAML PARSE FAIL: {path}: {first_line}")
 
-    # 논문 유형 판정
-    conf = fields.get("confidence", "").strip('"').strip("'")
+    # 논문 유형 판정 (evidence_level 우선, legacy confidence fallback)
+    conf = (fields.get("evidence_level") or fields.get("confidence", "")).strip('"').strip("'")
     is_synthesis = conf == "synthesis"
     src_coll = fields.get("source_collection", "").strip('"').strip("'")
     is_pubmed_text = src_coll == "pubmed-text"
+    # pubmed-abstract = 초록만 있는 논문, 로컬 아티팩트(PDF/txt) 없음 → 아티팩트 필드 면제
+    is_abstract_only = src_coll == "pubmed-abstract"
 
     # 필수 아티팩트 필드는 유형별로 다름:
-    #   synthesis   → 없음 (내부 합성 페이지, source 아티팩트 없음)
-    #   pubmed-text → text_path / text_filename (PMC 전문을 .txt로 보관)
-    #   external    → pdf_path / pdf_filename
+    #   synthesis        → 없음 (내부 합성 페이지)
+    #   pubmed-abstract  → 없음 (초록 전용, 로컬 파일 없음)
+    #   pubmed-text      → text_path / text_filename
+    #   external         → pdf_path / pdf_filename
     required = list(REQUIRED_FIELDS)
-    if not is_synthesis:
+    if not is_synthesis and not is_abstract_only:
         required += TEXT_FIELDS if is_pubmed_text else PDF_FIELDS
 
     # Check required fields exist
     missing = [f for f in required if f not in fields]
+    if not any(k in fields for k in EVIDENCE_LEVEL_KEYS):
+        missing.append("evidence_level")
     if missing:
         errors.append(f"MISSING {missing}: {path}")
 
-    # Check confidence value is valid
+    # Check evidence_level/confidence value is valid
     if conf and conf not in VALID_CONFIDENCE:
-        errors.append(f"INVALID confidence '{conf}': {path}")
+        errors.append(f"INVALID evidence_level '{conf}': {path}")
 
-    # 아티팩트 path/filename 쌍 검증 (synthesis 면제)
-    if not is_synthesis:
+    # 아티팩트 path/filename 쌍 검증 (synthesis·pubmed-abstract 면제)
+    if not is_synthesis and not is_abstract_only:
         path_field, name_field = (
             ("text_path", "text_filename") if is_pubmed_text else ("pdf_path", "pdf_filename")
         )

@@ -15,13 +15,21 @@ Provides the long-term adult three-dimensional movement evidence underpinning th
 
 Note: only abstract-level detail available from the source PDF (publisher landing-page print).
 
-## One-line Summary
+## Three-line Summary
 
-Prospective ~10.6-year follow-up of 22 unopposed maxillary molars in 12 healthy adults showing slow three-dimensional displacement (vertical overeruption, mesial drift, palatal movement), clinically insignificant in periodontally healthy patients but accelerated by periodontal involvement.
+Prospective longitudinal cohort (n=12 adults; 22 unopposed maxillary molars; 14 opposed controls; mean follow-up 10 years 7 months; plaster-cast 3D scanning; European Journal of Orthodontics 2007) measuring three-dimensional displacement of unopposed molars vs internal controls.
 
-## 한줄요약
+Unopposed molars displaced in all three planes: vertical overeruption 0.8 mm (vs controls 0.4 mm; P≤0.06), palatal movement 0.9 mm (vs 0.5 mm; P≤0.02), and mesial drift in teeth lacking a mesial neighbor (P≤0.04); periodontally affected molars overerupted significantly more than periodontally healthy ones (P≤0.01).
 
-건강한 성인 12명의 대합치 없는 상악 대구치 22개를 평균 약 10.6년 추적한 전향 연구로, 무대합 치아가 수직(정출)·근심·구개측의 3차원으로 천천히 이동했으며, 치주적으로 건강한 환자에서는 임상적으로 미미하나 치주 침범 시 더 크게 정출함을 보여줌.
+Three-dimensional displacement is present but clinically insignificant in periodontally healthy adults; periodontal disease is a key effect modifier that accelerates overeruption; the small sample (12 subjects) limits statistical power for the vertical dimension finding (P≤0.06).
+
+## 세줄요약
+
+전향 종단 코호트(n=12명 성인; 무대합 상악 대구치 22개; 유대합 대조치 14개; 평균 추적 10년 7개월; 석고 모형 3D 스캔): 무대합 대구치의 3차원 이동 측정.
+
+무대합 대구치가 수직(정출 0.8 mm vs 대조 0.4 mm; P≤0.06), 구개측 이동(0.9 mm vs 0.5 mm; P≤0.02), 근심 드리프트(근심 인접치 없는 경우; P≤0.04) 등 3차원 모두에서 이동; 치주 이환 대구치가 치주 건강 대구치보다 유의하게 더 많이 정출(P≤0.01).
+
+치주 건강 성인에서 무대합 이동은 임상적으로 미미하나; 치주 질환은 정출을 가속하는 핵심 조절인자; 소규모 표본(12명)으로 수직 결과 통계력 제한(P≤0.06).
 
 ## 1. Document Information
 

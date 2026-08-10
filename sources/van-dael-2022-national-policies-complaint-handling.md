@@ -12,11 +12,21 @@ source_collection: external
 ## Why Ingested
 Locates the response problem at the policy layer: national rules can actively undermine learning from complaints. Explains the organisational source of the 'complaint handler's bind' ([[complaint-management/pone.0325185]]) and frames what clinic-level policy should avoid.
 
-## One-line Summary
+## Three-line Summary
+
 NHS Trust case study (20 staff interviews + documents) showing national complaint policies create muddled routes, validity-scrutiny, futile data collection, and adverse incentives that undermine improvement.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 NHS 트러스트 사례연구(직원 20명 인터뷰+문서) — 국가 민원정책이 혼란한 경로·'타당성' 심사·무용한 데이터수집·역인센티브로 개선을 저해함.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - Journal of the Royal Society of Medicine 2022;115(10):390-398.

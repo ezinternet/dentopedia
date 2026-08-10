@@ -6,7 +6,7 @@ date: 2024-08-01
 doi: 10.1093/ejo/cjae029
 source: hendrickx-2024-ai-cephalometric-analysis-manual-tracing.md
 category: [artificial-intelligence]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "38895901"
@@ -22,13 +22,21 @@ relations:
     target: digital-workflow-decision-ladder
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (34 studies; 27 on 2D cephalograms, 7 on 3D-CBCT; QUADAS-2) of AI cephalometric landmark detection: pooled 2D mean radial error 1.39 mm (95% CI 0.85–1.92), below the clinically accepted 2 mm threshold, in <1 min; 3D error 1.0–5.8 mm (not poolable); most studies high risk of bias.
+QUADAS-2 SR+MA (34 studies; 27 on 2D lateral cephalograms, 7 on 3D-CBCT; search to January 2024) of CNN-based AI cephalometric landmark detection accuracy versus manual tracing.
 
-## 한줄요약
+Pooled 2D mean radial error was 1.39 mm (95% CI 0.85–1.92) — below the clinically accepted 2 mm threshold — with automated landmarking completing in <1 min; 3D-CBCT error ranged 1.0–5.8 mm and was not poolable due to heterogeneity.
 
-인공지능(Artificial Intelligence, AI) 두부계측 계측점 자동검출 체계적 문헌고찰+메타분석(34편; 2D 27편, 3D-CBCT 7편): 2D 평균 방사 오차 1.39 mm로 임상 허용 2 mm 미만·1분 이내, 3D는 1.0–5.8 mm로 더 부정확하고 풀링 불가, 대부분 비뚤림 위험 높음. (Based on articles retrieved from PubMed)
+AI 2D cephalometric landmarking meets the clinical accuracy bar and is dramatically faster than manual tracing, but 3D remains inaccurate and most studies carry high risk of bias in patient selection and reference standard, tempering a full "replace manual tracing" conclusion.
+
+## 세줄요약
+
+인공지능(Artificial Intelligence, AI) 두부계측 계측점 자동검출에 관한 QUADAS-2 체계적 문헌고찰+메타분석(34편; 2D 측면두부계측 27편, 3D-CBCT 7편): CNN 기반 계측점 검출기 비교.
+
+2D 메타분석 통합 평균 방사 오차 1.39 mm(95% CI 0.85–1.92) — 임상 허용 기준 2 mm 미만, 1분 이내 완료; 3D-CBCT는 오차 1.0–5.8 mm로 더 부정확하고 메타분석 불가.
+
+34편 중 환자 선택(27편) 및 참조 표준(29편)에서 대부분 비뚤림 위험 높아 완전한 "수동 트레이싱 대체" 선언은 보류 — 2D는 임상 허용 범위 내, 3D는 여전히 과제(초록 기반).
 
 ## Summary
 

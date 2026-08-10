@@ -13,13 +13,21 @@ source_collection: external
 
 단일 임플란트 단관(single-implant crown)에서 즉시 로딩 vs 통상 로딩의 생존·변연골소실 동등성과, 그 결론이 성립하는 **1차 안정성 임계값(삽입토크 ≥20–45 Ncm, ISQ ≥60–65)** 조건을 정립한 기준 SR+MA. 무치악 로딩을 다룬 [[implants/abdunabi-2019-immediately-loaded-maxillary-full-arch-sr]]·[[implants/liu-2021-immediate-delayed-loading-overdenture-mbl-sr-ma]]의 단일치 대응 근거.
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 11 RCTs finding immediately and conventionally loaded single-implant crowns equally successful for implant survival (1-yr OR 0.75, 95% CI 0.32–1.76) and marginal bone loss (SMD −0.05 mm) through 5 years, valid for implants placed at ≥20–45 Ncm torque or ISQ ≥60–65 without simultaneous augmentation.
+SR+MA of 11 RCTs (Medline/Embase search to August 2012; IJOMI 2014 supplement) comparing immediate vs conventional loading for single-implant crowns; outcomes assessed at 1, 2, 3, and 5 years.
 
-## 한줄요약
+Immediate and conventional loading showed equivalent 1-year implant survival (OR 0.75, 95% CI 0.32–1.76), 1-year marginal bone loss (SMD −0.05 mm, 95% CI −0.41 to 0.31), and no differences at 2, 3, or 5 years; buccal mucosa recession results were contradictory across the 3 reporting RCTs.
 
-11개 RCT SR+MA — 단일 임플란트 단관에서 즉시 로딩과 통상 로딩은 5년까지 생존율(1년 OR 0.75)·변연골소실(SMD −0.05 mm)이 동등하며, 이는 삽입토크 ≥20–45 Ncm 또는 ISQ ≥60–65·동시 골증대 불필요 조건에서 성립한다.
+Immediate loading of single-implant crowns is safe and equivalent to conventional loading when implant insertion torque is ≥20–45 Ncm or ISQ ≥60–65 and no simultaneous augmentation is required; primary stability is the critical prerequisite.
+
+## 세줄요약
+
+11개 RCT SR+MA(Medline/Embase 검색 2012년 8월; IJOMI 2014 보충호) — 단일 임플란트 단관의 즉시 vs 통상 로딩 비교; 1·2·3·5년 추적 결과 평가.
+
+즉시·통상 로딩 간 1년 생존율(OR 0.75, 95% CI 0.32–1.76)·1년 변연골소실(SMD −0.05 mm, 95% CI −0.41~0.31) 동등; 2·3·5년도 차이 없음; 협측 점막 퇴축은 3개 RCT에서 결과 불일치.
+
+삽입토크 ≥20–45 Ncm 또는 ISQ ≥60–65이고 동시 골증대가 불필요할 때 단일 임플란트 단관의 즉시 로딩은 통상 로딩과 동등하며 안전하다; 1차 안정성이 핵심 전제조건이다.
 
 ## 1. Document Information
 

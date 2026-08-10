@@ -8,7 +8,7 @@ category: bone-regeneration/ridge-preservation
 source_collection: pubmed-text
 full_text: false
 source_url: https://pubmed.ncbi.nlm.nih.gov/42059861/
-confidence: animal
+evidence_level: animal
 text_path: /Users/oracleneo/llm-wiki/papers/shin-2026-aging-socket-healing-rat-jeonbuk.txt
 text_filename: shin-2026-aging-socket-healing-rat-jeonbuk.txt
 ---
@@ -17,13 +17,21 @@ text_filename: shin-2026-aging-socket-healing-rat-jeonbuk.txt
 
 전북대학교 국내 연구팀 — 노인 환자의 발치 후 골치유 저하를 실험적으로 정량화; 노인치의학·임플란트 계획에서 연령 효과를 이해하는 데 필요한 기초 과학. 노년치의학 카테고리와 교차. [[wiki/bone-regeneration/ridge-preservation]] 페이지에서 노화 관련 발치와 치유 기초 근거로 활용.
 
-## One-line Summary
+## Three-line Summary
 
 Animal study (rat, n=17, 3 age groups) showing that aging (18-month-old rats) significantly impairs alveolar socket healing — reduced bone volume/trabecular thickness, empty sockets with inflammatory infiltrate — compared to younger animals, emphasizing age-specific considerations in dental rehabilitation.
 
-## 한줄요약
+(incomplete)
 
-동물실험(쥐, n=17, 3연령군): 고령(18개월) 쥐에서 발치와 골재생 현저히 저하 — 골용적·골소주 두께 감소, 빈 소켓+염증세포 축적; 치과 재활 시 연령별 접근 필요.
+(incomplete)
+
+## 세줄요약
+
+동물실험(쥐, n=17, 3연령군): 고령(18개월) 쥐에서 발치와 골재생 현저히 저하 — 골용적·골소주 두께 감소, 빈 소켓+염증세포 축적;
+
+치과 재활 시 연령별 접근 필요.
+
+(incomplete)
 
 ## 1. Document Information
 

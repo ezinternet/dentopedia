@@ -6,7 +6,7 @@ date: 2026-06-17
 doi: 10.1186/s40729-026-00695-1
 source: komatsu-2026-uv-photofunctionalization-surface-agnostic-biofilm-soft-tissue-sr.md
 category: [implants/surface]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: false
 pmid: "42310175"
@@ -23,11 +23,21 @@ relations:
 tags: [uv-photofunctionalization, biofilm, soft-tissue, zirconia, titanium, surface-agnostic, peri-implant-health, positive-sum]
 ---
 
-## One-line Summary
-Systematic review with qualitative synthesis (34 studies: 9 bacterial/biofilm + 13 soft-tissue + 13 clinical) reframing UV photofunctionalization as a **surface-agnostic, topography-preserving "positive-sum" reactivation technology** — most consistently reducing early bacterial attachment/biofilm and enhancing fibroblast/epithelial sealing on titanium (emerging on zirconia), with the strongest clinical signal being accelerated implant stability development.
+## Three-line Summary
 
-## 한줄요약
-체계적 문헌고찰(정성적 종합, 34편 = 세균/바이오필름 9 + 연조직 13 + 임상 13): UV 광기능화 (Photofunctionalization)를 표면형태를 보존하는 표면 비의존(surface-agnostic) "포지티브섬" 재활성화 기술로 재개념화 — 티타늄에서 초기 세균 부착·바이오필름을 가장 일관되게 억제하고 섬유아세포/상피 봉쇄를 향상(지르코니아는 신흥 근거); 임상에서 가장 일관된 신호는 가속된 임플란트 안정성 발달.
+Systematic review with qualitative synthesis (34 studies: 9 bacterial/biofilm + 13 soft-tissue + 13 clinical) spanning titanium and zirconia — the first UV-PF SR to jointly cover all three peri-implant health domains across both materials.
+
+UV photofunctionalization most consistently reduced early bacterial attachment/biofilm and enhanced fibroblast/epithelial sealing on titanium (emerging evidence on zirconia), with the strongest and most consistent clinical signal being accelerated implant stability development.
+
+Reframes UV-PF as a surface-agnostic, topography-preserving "positive-sum" reactivation strategy enabling zone-specific implant design; limited by heterogeneous protocols and absence of pooled effect estimates (abstract-only).
+
+## 세줄요약
+
+체계적 문헌고찰 정성적 종합 (34편 = 세균/바이오필름 9 + 연조직 13 + 임상 13, 티타늄·지르코니아 모두 포함) — UV 광기능화 (Photofunctionalization, UV-PF)를 3개 임플란트 주위 건강 영역 × 2개 소재에 걸쳐 통합한 최초의 체계적 고찰.
+
+티타늄에서 초기 세균 부착·바이오필름 억제와 섬유아세포·상피 봉쇄 향상이 가장 일관된 소견(지르코니아는 신흥 근거); 임상에서 가장 일관된 신호는 가속된 임플란트 안정성 발달.
+
+UV-PF를 표면형태 보존형 표면 비의존 (surface-agnostic) "포지티브섬" 재활성화 기술로 재개념화, 구역별 표면형태 설계 전략 가능; 이질적 프로토콜·메타분석 없음·초록만 입수된 한계.
 
 ## Summary
 **Abstract-only — full text not retrieved.** This is the newest (2026) and broadest UV photofunctionalization (UV-PF) systematic review, from the Ogawa group (same lineage as our Ogawa 3D-theory and Park tri-interface pages). It evaluates whether UV-PF of titanium and zirconia confers clinically relevant advantages across three peri-implant-health domains — (1) bacterial attachment/biofilm, (2) soft-tissue sealing, and (3) human clinical outcomes — and synthesizes 34 articles qualitatively (no meta-analysis).
@@ -64,6 +74,6 @@ Its central reframing: UV-PF is a **surface-agnostic physicochemical reactivatio
 - [[implants/surface/dorigatti-de-avila-2015-uv-photofunctionalization-bacterial-biofilm]] — bacterial/biofilm interface evidence this SR aggregates and extends.
 - [[implants/surface/ogawa-2025-3d-theory-osseointegration-material-topography]] — aging/topography theory this SR operationalizes as "surface-agnostic".
 - [[implants/surface/hirota-2020-uv-photofunctionalization-dental-implant-7year]] — long-term clinical UV-PF outcomes.
-- [[implants/surface/pesce-2020-photo-plasma-activation-titanium-sr-ma]] — adjacent SR+MA on photo/plasma surface activation.
+- [[implants/surface/plasma/pesce-2020-photo-plasma-activation-titanium-sr-ma]] — adjacent SR+MA on photo/plasma surface activation.
 - [[implants/surface/iwasa-2011-tio2-micro-nano-hybrid-biological-aging]] — biological-aging mechanism.
 - [[overviews/plasma-surface-treatment-dental-implants]] — candidate overview anchor.

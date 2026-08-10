@@ -9,8 +9,18 @@ pdf_filename: herrera-2022-treatment-stage-iv-periodontitis-efp.pdf
 source_collection: external
 ---
 
-## One-line Summary
-EFP S3 guideline for stage IV periodontitis: interdisciplinary rehabilitation (orthodontics, splinting, prosthetics) following active periodontal therapy; based on 13 commissioned SRs.
+## Three-line Summary
+EFP S3 clinical practice guideline for treatment of stage IV periodontitis: interdisciplinary rehabilitation (orthodontics, splinting, prosthetics) following active periodontal therapy;
+
+based on 13 commissioned systematic reviews.
+
+(see methodology).
+## 세줄요약
+EFP S3 수준 임상 진료 지침(stage IV 치주염 치료): 능동적 치주 치료 후 학제간 재활치료(교정치료, 치아 고정, 보철 재활) 권고; 13개의 주문형 체계적 문헌고찰 기반.
+
+Stage IV = Stage III의 심각도에 추가 기능 장애(치아 파탄/이동, 교합 붕괴, 치아 동요도 ≥2, 심한 치조제 결손); <20개 잔존치.
+
+임상적 의미: 능동 치주 치료 완료 후 생역학적 안정성과 기능 회복을 위해 교정·고정·보철이 필수적 보조 치료; 높은 재발률(SPT ≤3개월) 관리 필수.
 
 ## 1. Document Information
 - **Journal**: Journal of Clinical Periodontology 2022; 49(Suppl. 24): 4–71

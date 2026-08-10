@@ -16,13 +16,21 @@ text_filename: hawthan-2023-survival-fixed-prosthetics-vital-nonvital.txt
 
 Provides concrete 5-year survival rates disaggregated by tooth vitality, post type, AND crown material — exactly the cross-variable data needed for clinical decision-making in post-and-core planning. Directly extends [[wiki/post-and-core/overview-post-and-core-decision-framework]] by quantifying the material × post-type interaction on survival outcomes.
 
-## One-line Summary
+## Three-line Summary
 
-SR (26 studies, ≥24 mo): fiber-post + all-ceramic SCs achieve 95.0% 5-year survival on nonvital teeth vs 85.7% without post; tooth vitality significantly predicts FDP survival (84.9% vital vs 81.3% nonvital, P=.049).
+SR (26 studies, ≥24 mo): fiber-post + all-ceramic SCs achieve 95.0% 5-year survival on nonvital teeth vs 85.7% without post;
 
-## 한줄요약
+tooth vitality significantly predicts FDP survival (84.9% vital vs 81.3% nonvital, P=.049).
 
-체계적 고찰 (26편): 비활력치에 파이버포스트 + 올세라믹 단관은 5년 생존율 95.0%로 최우수; 포스트 없음은 85.7%; 지대치 활력 유무가 FDP 예후에 통계적으로 유의한 영향(P=.049).
+(incomplete)
+
+## 세줄요약
+
+체계적 고찰 (26편): 비활력치에 파이버포스트 + 올세라믹 단관은 5년 생존율 95.0%로 최우수;
+
+포스트 없음은 85.7%;
+
+지대치 활력 유무가 FDP 예후에 통계적으로 유의한 영향(P=.049).
 
 ## 1. Document Information
 

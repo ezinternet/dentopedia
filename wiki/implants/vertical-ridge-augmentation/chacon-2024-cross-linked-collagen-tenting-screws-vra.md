@@ -7,7 +7,7 @@ doi: 10.11607/prd.6373
 pmid: "37471156"
 source: chacon-2024-cross-linked-collagen-tenting-screws-vra.md
 category: [implants/vertical-ridge-augmentation]
-confidence: case-report
+evidence_level: case-report
 text_path: /Users/oracleneo/llm-wiki/papers/chacon-2024-cross-linked-collagen-tenting-screws-vra.txt
 text_filename: chacon-2024-cross-linked-collagen-tenting-screws-vra.txt
 source_collection: pubmed-text
@@ -18,13 +18,21 @@ relations:
     target: sabri-2024-titanium-mesh-bone-augmentation-sr-ma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Case series (n=10, esthetic zone): cross-linked collagen membrane + tenting screws (no Ti mesh) → VBG 6.2 ± 1.61 mm (80% defect resolution); low complications; 9.3-month healing.
+Case series (n=10 patients, esthetic zone, severe vertical defects) evaluating a Ti-mesh-free vertical ridge augmentation technique: titanium tenting screws placed at planned augmentation height, cross-linked resorbable collagen membrane draped over the screws, bone graft placed underneath.
 
-## 한줄요약
+Mean vertical bone gain was 6.2 ± 1.61 mm with 80% defect resolution after mean 9.3 months of healing; complication rate was low (exact figures not in abstract).
 
-증례시리즈 (n=10, 심미 구역): 가교화 콜라겐막 + 텐팅 스크류(Ti 메쉬 없음) → 수직골증대 6.2 ± 1.61 mm(결손 해소율 80%); 합병증 낮음; 평균 치유 9.3개월.
+The 6.2 mm VBG exceeds the pooled Ti-mesh mean (3.36 mm from Sabri 2024 SR+MA), suggesting tenting screws + cross-linked collagen can match rigid mesh approaches for esthetic-zone VRA while eliminating the need for mesh removal surgery; however, the case-series design with abstract-only reporting prevents definitive comparison.
+
+## 세줄요약
+
+증례 시리즈(n=10명, 심미 구역, 중증 수직 결손): 계획 증대 높이에 Ti 텐팅 스크류 식립 후 가교화(Cross-linked, XL) 흡수성 콜라겐막을 덮고 이식재를 삽입하는 Ti 메쉬 없는 수직골증대(Vertical Ridge Augmentation, VRA) 기법.
+
+평균 수직 골증대(Vertical Bone Gain, VBG) 6.2 ± 1.61 mm, 결손 해소율 80%; 평균 치유 기간 9.3개월; 합병증 낮음(초록에 수치 미기재).
+
+6.2 mm VBG는 Sabri 2024 SR+MA의 Ti 메쉬 통합 평균(3.36 mm)보다 높으나, 증례 시리즈·초록 수준 보고로 직접 비교 불가 — 임상적 의의는 메쉬 제거 2차 수술 없이 심미 구역 VRA가 가능하다는 개념 증명.
 
 ## Summary
 

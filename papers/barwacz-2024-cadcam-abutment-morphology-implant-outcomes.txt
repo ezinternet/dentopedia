@@ -1,0 +1,166 @@
+Title: Effect of CAD/CAM Abutment Morphology on the Outcomes of Implant Therapy: A Randomized Controlled Trial
+Authors: Barwacz CA, Swenson M, Couso-Queiruga E, Comnick C, Xie XJ, Avila-Ortiz G
+Journal: Clinical Oral Implants Research
+DOI: 10.1111/clr.14389
+PMID: 39641983
+PMCID: PMC11891029
+Source: PubMed Central (PMC) full text, retrieved via PubMed MCP get_full_text_article
+
+ABSTRACT
+
+Objectives
+Variations in transmucosal abutment contour design may affect the outcomes of implant therapy. This randomized controlled trial was primarily aimed at testing the effect that CAD/CAM zirconia abutments with either a concave or linear divergent transmucosal morphology have on peri-implant mucosal dynamics and indicators of peri-implant health at 1 year after final implant-supported prosthesis insertion in the anterior maxilla.
+
+Materials and Methods
+Following computer-guided implant placement and osseointegration, eligible subjects were randomized into either the experimental (concave morphology) or the control (linear divergent morphology) group. A comprehensive set of outcomes of interest related to peri-implant soft tissue dynamics, phenotypical features, and indicators of peri-implant health were assessed at different time points over a 1-year period after insertion of the final restoration.
+
+Results
+Out of 60 initially recruited subjects, a total of 54 completed the study (n = 29 in the experimental group concave / n = 25 in the control group). Overall implant survival and restoration rates between master impression and 12 months were 100% and 98.2%, respectively. Although a trend for coronal migration of the buccal mucosa zenith, gain in mucosal thickness, and increased probing depth and bleeding on probing was observed in both groups, these changes were clinically negligible, and no substantial differences were observed between study groups regardless of variations in transmucosal abutment morphology.
+
+Conclusion
+The use of either linear divergent or concave custom CAD/CAM zirconia abutments in a screw-retained, delayed loading approach yielded no significant differences.
+
+FULL TEXT
+
+1 Introduction
+
+The perception of an implant-supported restoration as esthetically pleasing is in large part attributable to the peri-implant mucosal architecture and phenotypical features that frame the clinical crown (Avila-Ortiz et al.; Furhauser et al.). In order for an implant-supported restoration to accurately mimic its adjacent or contralateral natural counterpart, the restorative complex must traverse the supracrestal connective tissue, the junctional epithelium, and the sulcular epithelium (Tomasi et al.), transitioning from a typically cylindrical implant interface to an anatomic configuration determined by the clinical crown (Weisgold, Arnoux, and Lu).
+
+Sufficient mucosal height and thickness, normal surface texture, and an adequate contour of the peri-implant soft tissues is often necessary to achieve an ideal outcome in the context of implant therapy. It has been recognized that a prosthetic abutment's transmucosal contour design, including any subtle changes to both its angle and morphology of emergence, can have significant effects on the profile of the peri-implant mucosal architecture (González-Martín et al.; Pelekanos and Vergoullis; Su et al.). Additionally, abutment material biocompatibility, surface contour angle, morphologic characteristics, and abutment disinfection protocols are factors that may influence peri-implant health (Barwacz et al.; Canullo et al.; Han et al.; Katafuchi et al.; Pelekos et al.; Sancho-Puchades et al.; Sanz-Martín et al.).
+
+Recent descriptive strategies and clinical guidelines have been proposed to establish design parameters that optimize peri-implant mucosal outcomes as they relate to three-dimensional implant positioning (Esquivel, Meda, and Blatz) and prosthetic management of the transmucosal compartment (Chu et al.; Fabbri and Sorrentino; Steigmann et al.; Zarauz et al.). These guidelines have demarcated discrete zones of the transmucosal emergence profile and have advocated for these zones to be prosthetically optimized through immediate or delayed provisionalization to facilitate optimal biologic and esthetic treatment outcomes (Gomez-Meda, Esquivel, and Blatz).
+
+While these clinical guidelines are based on sound clinical expertise and experience, they have inherent limitations. First, most anterior implant restorations in practice are restored in clinical scenarios in which implant provisionalization is not conducted due to, for example, cost, time, clinician preference, or a combination thereof. Second, despite recent evidence generated in preclinical (Kim et al.) and clinical studies (Redemagni et al.; Rompen et al.) demonstrating a causative relationship between transmucosal abutment morphology and histomorphometric and soft tissue outcomes, respectively, there are few well-conducted, randomized clinical trials (RCTs) from which to draw upon for evidence pertaining to clinical management of the abutment's transmucosal morphologic design in the anterior maxillary region.
+
+A recent RCT evaluated the impact that concave or convex screw-retained delayed analog provisional restorations in incisor, canine, and premolar sites have on peri-implant soft tissue outcomes at 1 year, as compared to a control standard healing abutment (Siegenthaler et al.). Sites randomized to convex transmucosal abutment morphologies demonstrated significantly greater prevalence of mucosal recession (64.3%) as compared with concave (14.3%) or control (straight healing abutment) morphologies (31.4%). Yet the authors directly acknowledge the significant increase in cost (> 50%) and time (2.5 times more appointments) to care completion that implant provisionalization brings forth. Notably, other investigators have observed equal peri-implant mucosal volume at 2 years with or without a provisional restoration, potentially calling into question the benefit of this treatment approach (Jemt).
+
+To gather additional knowledge on the optimal transmucosal abutment morphology design when transitioning directly from a standard healing abutment to a custom CAD/CAM abutment, an RCT was conducted. The aim of this study was to test the effect that screw-retained CAD/CAM zirconia abutments directly veneered with feldspathic porcelain with either a concave or linear divergent transmucosal morphology have on discrete outcomes of implant therapy.
+
+2 Materials and Methods
+
+2.1 Experimental Design, Center, Ethical Approval, and Registration
+
+This study was designed as a single-center, two-arm, parallel group RCT on adult human subjects who received screw-retained CAD/CAM zirconia abutments (Atlantis Crown Abutment, Dentsply Sirona Implants, Molndal, Sweden) with either a linear divergent (control) or concave (experimental) transmucosal emergence morphology. The study was conducted at the University of Iowa College of Dentistry and Dental Clinics in compliance with the CONSORT guidelines and the Declaration of Helsinki, and is concordant with ISO 14155. The study was approved by the Institutional Review Board (IRB) of the University of Iowa (IRB ID#: 201302798) and registered prospectively.
+
+2.2 Sample Size Calculation
+
+Power/effect-size calculations targeted change in mid-facial peri-implant mucosal zenith position at 12 months relative to baseline, with a minimum clinically relevant difference of 1.0 mm between abutment groups. SD estimates of 0.4-0.7 mm were drawn from the literature (Cardaropoli, Lekholm, and Wennstrom; Glauser, Zembic, and Hammerle). Calculations used alpha = 0.05 for the key 12-month comparison and alpha = 0.05/4 = 0.0125 (Bonferroni for four follow-up time points). Power was set at 80%/90%. At least 99% power was anticipated to detect the effect size with adjustment for multiple comparisons and 15% attrition if true SD <= 0.7 mm; for SD = 1.0 mm, >= 93% power for a single test and 82% with multiple-comparison adjustment plus 15% attrition. A sample size of 30 subjects per group was deemed adequate.
+
+2.3 Subject Eligibility and Recruitment Criteria
+
+Subjects requiring replacement of a single tooth in the anterior maxilla (first premolar to first premolar) were recruited.
+
+Inclusion criteria: (1) informed consent; (2) >= 18 years of age; (3) requiring replacement of a single-rooted bounded tooth in the maxilla region 5-12 with an implant-supported restoration; (4) adjacent teeth stable, natural, without periodontal bone loss (< 2.0 mm) or significant soft tissue loss; (5) adjacent teeth demonstrate stable occlusal guidance allowing non-functional disclusion in eccentric positions; (6) an opposing dentition with teeth, implants, or fixed prosthesis; (7) edentulous >= 4 months at study site; (8) buccal-lingual bone width >= 5.5 mm on CBCT; (9) mesial-distal bone level distance between adjacent teeth >= 5.5 mm; (10) baseline mid-buccal keratinized mucosal height >= 2 mm.
+
+Exclusion criteria: insufficient interocclusal distance; > 2 mm vertical bone loss on adjacent teeth; untreated rampant caries/uncontrolled periodontal disease; tobacco use within 6 months; liver/kidney dysfunction or failure; uncontrolled diabetes mellitus; current alcohol/drug abuse; systemic/local disease compromising healing or osseointegration; substances influencing bone metabolism; need for systemic corticosteroids or medications influencing healing/osseointegration; history of head/neck radiation; known pregnancy; unable/unwilling to return for 12-month follow-up; unlikely to comply per investigator judgment; involvement in study planning/conduct; previous enrollment in the present study.
+
+2.4 Outcomes of Interest
+
+Primary: Apico-coronal change of the mid-facial peri-implant mucosal zenith from final restoration insertion to 1 year.
+
+Secondary: Changes in submarginal buccal soft tissue thickness from final restoration insertion to 1 year; changes in keratinized mucosa width (KMW) at the mid-facial aspect from final restoration insertion to 1 year; changes in peri-implant health indicators (marginal bone level [MBL], mucosal index [MI, i.e., Silness and Loe's Gingival Index applied to peri-implant mucosa], probing depth [PD], bleeding on probing [BOP]); correlation between topographic/volumetric changes of the linear divergent (control) or concave (experimental) abutment and bucco-lingual thickness and mid-facial mucosal zenith changes.
+
+2.5 Clinical and Laboratory Procedures
+
+Baseline diagnostic records (intraoral photographs, diagnostic models, periodontogram, CBCT) were obtained. Implants (OsseoSpeed EV, Astra Tech Implant System, Dentsply Sirona) were virtually planned using guided-surgery software (Simplant Pro) in a prosthetically oriented position, implant platform >= 3.0 mm apical to the planned mid-facial mucosal margin zenith, allowing screw retention of the final restoration. Tooth-supported stereolithographic surgical guides (Simplant) were additively manufactured for full restrictive digital static computer-aided implant placement (sCAIP). All implants were placed by a single surgeon (G.A.O.) per manufacturer recommendations. All patients received a standard healing abutment (Uni Abutment EV, Dentsply Sirona) at implant placement (IP). At 10-14 days post-IP sites were inspected; healing continued to 8 weeks total, at which point a master impression was obtained (periapical radiograph confirmed complete seating of the impression coping; open-tray implant-level elastomeric impression obtained). At this point subjects were randomized via simple randomization by a Clinical Research Coordinator not involved in the study to a concave (experimental) or linear divergent (control) facial transmucosal contour abutment.
+
+Custom screw-retained CAD/CAM zirconia abutments (Atlantis Crown Abutment) were digitally designed using Virtual Atlantis Design (VAD) software. The definitive implant-supported restoration was inserted 4 weeks after master impressioning and torqued to 25 Ncm. PTFE tape was condensed in the screw-access channel; circumferential porcelain was etched (IPS Ceramic Etching Gel, Ivoclar Vivadent) and silanated (Bis-Silane, Bisco) before obturation of the screw-access channel with resin composite (Filtek Supreme Ultra, 3M).
+
+2.6 Data Collection
+
+An independent calibrated examiner (E.C.Q.) repeated linear and volumetric measurements on 10 random abutments, confirming ICC >= 0.9. STL files from linear divergent and concave abutments were superimposed for best-fit alignment (Geomagic Control X); a 3D color-map comparison established average error of ±0.1 mm in unmodified regions. For linear change, a sagittal section at the middle of each abutment was made and the distance from a standardized reference point to the most coronal end of the abutment margin finish line was measured (mm). For volumetric change, a frontal plane dividing the abutment profile in half was used and the enclosed volume between this plane and the facial aspect of each abutment was measured (mm3).
+
+2.7 Maintenance and Follow-Up Visits
+
+Subjects were recalled at 1, 3, 6, and 12 months after baseline (final restoration insertion). Assessments:
+
+2.7.1 Mid-Facial Apico-Coronal Peri-Implant Mucosal Zenith Level: most apical aspect of marginal mid-facial mucosa relative to the implant crown's incisal edge, measured with a standardized digital stereotactic camera (Canfield Dental Camera) plus a custom patient-specific bite fork (VPS bite registration) enabling triangulated X/Y/Z focal-plane photographs; measured in calibrated pixels standardized to mm via a UNC-15 probe reference image, analyzed with ImageJ (NIH).
+
+2.7.2 Submarginal Buccal Soft Tissue Thickness: tip of a #15 endodontic k-file, oriented 2.0 mm apical to a line bisecting adjacent natural-tooth zeniths, inserted perpendicular to the abutment long axis through mid-facial mucosa until resistance from the abutment's transmucosal external wall; measured with an endodontic ruler from tip to a silicone stop at the mucosal border.
+
+2.7.3 Mid-Facial Keratinized Mucosal Width: UNC-15 probe, mid-facial aspect, parallel to long axis, from mucogingival junction to mucosal zenith.
+
+2.7.4 Peri-Implant Health Indicators: MBL from standardized periapical radiographs (custom bite-registration jig on a position indicating device), same examiner (E.C.Q.), mesial and distal relative to first implant microthread. Plaque index (PI), MI, PD, BOP assessed at 6 sites per implant with a UNC-15 probe.
+
+2.8 Statistical Analyses
+
+Descriptive statistics (mean, SD, median), mixed models, and Pearson correlation were used. Subjects were a random effect; other outcome factors were fixed effects. MBL analysis used ICC (intra-rater reliability) and a two-sample t-test between groups. Analyses performed in R version 3.6.0.
+
+3 Results
+
+3.1 Population and Implants
+
+Sixty participants (29 women [48.3%], 31 men [51.7%]; mean age 58.7 years, range 23.5-79.2) received 60 implants in incisor (31, 51.6%), canine (7, 11.7%), and first premolar (22, 36.7%) sites of the anterior maxilla. In the concave group, one subject exited at 6 months due to a prematurely fractured abutment neck requiring a new restoration. In the linear divergent group, five subjects were lost to follow-up: one implant failure after randomization but before master impression, three failures to appoint after the 3-month visit, one death after the 6-month visit. At the 12-month recall, 54 subjects completed the study (29 experimental concave / 25 control linear divergent). Overall implant survival and restoration success rates between master impression and 12 months were 100% and 98.2%, respectively.
+
+Table 2 (Study population demographics): Initial subjects n=60 (30 linear divergent / 30 concave); incisor n=31 (14/17); canine n=7 (3/4); premolar n=22 (13/9); male n=31 (18 [30.0%] / 13 [21.7%]); female n=29 (12 [20.0%] / 17 [28.3%]). 12-month recall subjects n=54 (25 linear divergent / 29 concave); incisor n=29 (12/17); canine n=6 (2/4); premolar n=19 (11/8); male n=29 (16 [29.6%] / 13 [24.0%]); female n=25 (9 [16.6%] / 16 [29.6%]).
+
+3.2 Mid-Facial Apico-Coronal Peri-Implant Mucosal Zenith
+
+Baseline mean mid-facial mucosal zenith: control 9.86 ± 1.15 mm (range 7.42-11.90, median 10.06); experimental 9.77 ± 1.15 mm (range 7.46-11.67, median 9.86). At 1 year: control 9.62 ± 1.26 mm (range 6.89-11.54, median 9.80); experimental 9.60 ± 1.17 mm (range 6.91-11.45, median 9.70). Mixed models showed no significant difference in mucosal zenith changes between control and experimental groups (p = 0.853). As a function of time, coronal mid-facial mucosal zenith changes were significant for all subjects (p < 0.001), with the greatest gain between abutment delivery and the 1-month recall.
+
+3.3 Buccal Soft Tissue Thickness
+
+Baseline: control 2.72 ± 1.13 mm (range 1.5-3.9, median 2.50); experimental 2.81 ± 1.13 mm (range 1.5-3.9, median 2.50). At 1 year: control 2.79 ± 0.52 mm (range 1.8-3.7, median 2.80); experimental 2.60 ± 0.47 mm (range 1.9-3.7, median 2.55). No significant effect of group (p = 0.674) or time (p = 0.144).
+
+3.4 Mid-Facial Keratinized Mucosal Width
+
+Baseline: control 2.70 ± 1.14 mm (range 0.5-5.0, median 3.00); experimental 3.31 ± 1.84 mm (range 1.0-8.4, median 3.00). At 1 year: control 3.26 ± 1.06 mm (range 0.5-4.7, median 3.30); experimental 3.88 ± 1.64 mm (range 1.4-8.4, median 3.40). No significant effect of group allocation (p = 0.106). As a function of time, significant gain in KMW (p < 0.001).
+
+3.5 Peri-Implant Health Indicators
+
+3.5.1 MBL: Intra-rater ICC = 0.96 (95% CI 0.95-0.97, p < 0.001). Control group mean MBL change baseline-to-1-year: distal -0.04 ± 0.24 mm (range -0.98 to 0.23, median -0.02); mesial -0.01 ± 0.19 mm (range -0.38 to 0.49, median -0.02). Experimental group: distal -0.02 ± 0.18 mm (range -0.41 to 0.38, median 0.00); mesial 0.00 ± 0.14 mm (range -0.32 to 0.31, median 0.00). Neither distal (p = 0.771) nor mesial (p = 0.773) MBL change differed significantly between groups at 1 year.
+
+3.5.2 PI: Control at 1 month 0.36 ± 0.67 (range 0.00-2.67, median 0.00); at 1 year 0.45 ± 0.62 (range 0.00-2.67, median 0.33). Experimental at 1 month 0.29 ± 0.51 (range 0.00-2.50, median 0.00); at 1 year 0.57 ± 0.48 (range 0.00-1.67, median 0.67). No significant group difference at 1 year (p = 0.988); significant change over time (p = 0.044).
+
+3.5.3 MI: Control at 1 month 0.74 ± 0.63 (range 0.00-2.00, median 0.67); at 1 year 0.91 ± 0.51 (range 0.33-2.00, median 0.67). Experimental at 1 month 0.59 ± 0.47 (range 0.00-2.00, median 0.50); at 1 year 0.90 ± 0.54 (range 0.00-2.17, median 0.67). No significant group difference at 1 year (p = 0.409); significant change over time (p = 0.001).
+
+3.5.4 PD: Control at 1 month 2.53 ± 0.45 mm (range 1.67-3.25, median 2.50); at 1 year 2.67 ± 0.54 mm (range 1.67-4.00, median 2.83). Experimental at 1 month 2.42 ± 0.40 mm (range 1.67-3.17, median 2.50); at 1 year 2.55 ± 0.50 mm (range 1.67-4.00, median 2.54). No significant group difference at 1 year (p = 0.307) or over time (p = 0.096), though a trend toward slightly increased values.
+
+3.5.5 BOP (0-6 sites): Control at 1 month 1.48 ± 1.53 (range 0-6, median 1); at 1 year 1.48 ± 1.31 (range 0-6, median 1). Experimental at 1 month 1.10 ± 1.25 (range 0-6, median 1); at 1 year 1.61 ± 1.45 (range 0-6, median 1). No significant group difference at 1 year (p = 0.917) or over time (p = 0.079); trend toward slightly increased values with time.
+
+Table 3 summary (baseline -> 12 months):
+- Mucosal zenith: control 9.86 -> 9.62 mm (+0.24 mm change magnitude); experimental 9.77 -> 9.60 mm (+0.17 mm)
+- Bucco-lingual thickness: control 2.72 -> 2.79 mm (+0.05 mm); experimental 2.81 -> 2.60 mm (-0.21 mm)
+- KMW: control 2.70 -> 3.26 mm (+0.56 mm); experimental 3.31 -> 3.88 mm (+0.57 mm)
+- MBL (distal): control -0.50 -> -0.38 mm; experimental -0.55 -> -0.51 mm
+- MBL (mesial): control -0.53 -> -0.48 mm; experimental -0.54 -> -0.51 mm
+- PI: control 0.36 -> 0.45; experimental 0.29 -> 0.57
+- MI: control 0.74 -> 0.91; experimental 0.59 -> 0.90
+- PD: control 2.53 -> 2.67 mm; experimental 2.42 -> 2.55 mm
+- BOP: control 1.48 -> 1.48; experimental 1.10 -> 1.61
+
+3.6 Linear and Volumetric Changes in Abutment Design
+
+Superimposition of STL files (predicate linear vs final experimental concave design) quantified linear (mm) and volumetric (mm3) transition-contour changes. Predicate (linear) mean linear dimension 2.50 ± 0.63 mm (range 1.42-4.11, median 2.46); experimental (concave) mean 2.65 ± 0.66 mm (range 1.57-4.40, median 2.54); mean delta 0.15 ± 0.14 mm (range 0.01-0.61, median 0.12). Predicate mean volume 165.89 ± 41.74 mm3 (range 91.96-242.66, median 165.80); experimental mean volume 157.94 ± 41.11 mm3 (range 88.12-226.81, median 161.70); mean delta -7.95 ± 6.10 mm3 (range -21.79 to -0.26, median -6.54).
+
+3.6.1 Abutment Design Correlation Analyses
+
+Linear/volumetric change vs bucco-lingual thickness change: mixed models showed neither time (p = 0.80) nor linear change (p = 0.47) significant for linear change vs thickness; neither time (p = 0.79) nor volume (p = 0.79) significant for volume vs thickness. Pearson correlations (not controlling for time): linear change vs mean buccal thickness change r = -0.16 (p = 0.42); volumetric change vs mean bucco-lingual thickness change r = 0.06 (p = 0.75) — no significant correlation.
+
+Linear/volumetric change vs mid-facial mucosal zenith change: mixed models showed neither time (p = 0.46) nor linear change (p = 0.92) significant; neither time (p = 0.46) nor volume (p = 0.81) significant. Pearson correlations: linear change vs mean mid-facial zenith change r = 0.02 (p = 0.92); volumetric change vs mean mid-facial zenith change r = 0.05 (p = 0.81) — no significant correlation.
+
+4 Discussion
+
+This single-center, parallel-arm RCT evaluated the effect of discrete modifications to the facial transmucosal transition profile of custom CAD/CAM zirconia abutments on peri-implant mucosal dynamics and peri-implant health indicators over 12 months. A recent systematic review with meta-analysis on emergence profile morphology noted a scarcity of studies due to novelty, short follow-up, and methodological variability in what constitutes concave, divergent, or convex profiles (Valente et al.). This study mirrors the most frequently practiced clinical sequence — progressing directly from a standard healing abutment to the definitive patient-specific CAD/CAM abutment in a delayed approach — rather than immediate provisionalization.
+
+Subtractive modification of the CAD/CAM abutment's transmucosal transition profile (concave vs predicate linear divergent), connected to an internal conical connection implant body, did not significantly impact mid-facial mucosal zenith changes, peri-implant buccal soft tissue thickness, KMW, or peri-implant health indicators (MBL, PI, MI, PD, BOP) over the first year. Time of service correlated with subtle coronal migration of the mid-facial mucosal zenith and increased KMW. High levels of prosthetic success and mucosal stability agreed with other trials using ceramic abutments over similar or longer timeframes (Fenner et al.; Zembic et al.). Elevated PI/MI and a non-significant trend toward greater PD/BOP at 1 year agreed with findings from another trial using a similar prosthetic design (Del Castillo et al.).
+
+Comparison with related studies: In a split-mouth RCT, Patil et al. compared a prefabricated titanium abutment with an experimental concave macrogroove (0.5 mm depth, 1.25 mm concave profile height) versus a linear divergent control (cement-retained, second-stage-connected) — no significant differences in MBL, PES, PI, PD, or BOP at 1 year, nor in patient-reported/professional esthetic scores. This differs methodologically from the present study (second-stage connection, titanium, prefabricated, cement-retained vs the present study's screw-retained custom zirconia CAD/CAM abutments connected at master-impression stage).
+
+Findings are complementary to two RCTs on custom CAD/CAM abutments with internal conical connections and concave/convex mid-facial transition morphologies. Koutouzis et al. randomized healed maxillary premolar sites at implant placement to titanium CAD/CAM abutments (concave or convex facial transition, cement-retained provisional, definitive cement-retained restoration ~3 months after placement); like the present study, no significant differences in mid-facial mucosal changes at 1 year (p = 0.80) or 3 years (p = 0.98) between groups. However, contrasting with the present findings, apical migration of the mucosal margin was noted for convex (-0.76 ± 0.72 mm) and concave (-0.69 ± 0.89 mm) abutments, limited to the first 3 months and then stabilizing — potential explanations include abutment biomaterial biocompatibility, immediate (Koutouzis) vs delayed (present study) abutment connection, and cement vs screw retention.
+
+Separately, Siegenthaler et al. (Thoma group) reported an RCT on concave vs convex emergence profile around custom zirconia CAD/CAM abutments supporting single-tooth "screwmented" restorations, including delayed provisionalization and duplication of the transitional mucosal contour. Mucosal margin recession at 1 year occurred around 64.3% of convex-profile restorations vs 14.3% of concave-profile restorations, with an odds ratio of 12.6 for convex profiles being associated with recession, despite 84% of subjects having a thick baseline mucosal phenotype at baseline. No significant differences in MBL, PES, WES, or mucosal thickness were found between their groups at 1 year. Both the Koutouzis and Siegenthaler/Thoma studies compared convex-to-concave transitions, whereas the present study compared linear-divergent-to-concave transitions.
+
+Strengths: porcelain directly veneered to the coronal segment (extending 0.5 mm submarginally) instead of cement-retained restorations, maximizing surface contact between the abutment's transmucosal portion and the peri-implant mucosa, eliminating the abutment-crown prosthetic microgap and potential submarginal excess cement — addressing a known source of long-term biological complications (Kraus et al.). Other unique methodological factors: (1) repeatable tri-axial stereotactic photography for calibrated mid-facial mucosal zenith tracking over time; (2) STL superimposition to quantify linear/volumetric abutment design changes and relate them to mucosal outcomes; (3) use of sCAIP to standardize implant placement depth/positioning and facilitate screw retention.
+
+Limitations: no professional esthetic index (e.g., PES) or patient-reported outcome measures (PROMs) were collected; baseline mucosal height/phenotype prior to implant placement was not assessed; 1-year follow-up is relatively short and longer-term data are needed.
+
+5 Conclusion
+
+The use of either linear divergent or concave custom CAD/CAM zirconia abutments directly veneered with ceramic in a screw-retained, delayed loading approach yielded no significant differences pertaining to peri-implant mucosal dynamics or peri-implant health indicators. The impact of abutment design on peri-implant mucosal dynamics appears multifactorial and complex. Although abutment design did not significantly influence 1-year mucosal thickness or zenith position changes, clinicians should adopt a holistic surgical-plus-prosthetic approach, including a personalized maintenance program, to achieve optimal long-term peri-implant tissue outcomes.
+
+Conflicts of Interest: C.A.B. and G.A.O. have received lecture honoraria from Dentsply Sirona. M.S., E.C.Q., C.C., and X.J.X. declare no conflicts of interest.
+
+Ethics: Approved by the Institutional Review Board, University of Iowa, United States (201302798); prospectively registered.
+
+Source: PubMed / PMC (https://pmc.ncbi.nlm.nih.gov/articles/PMC11891029/). DOI: https://doi.org/10.1111/clr.14389

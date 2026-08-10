@@ -17,13 +17,21 @@ text_filename: ashley-2018-sedation-children-undergoing-dental-treatment.txt
 
 Adds the pharmacological-sedation arm to the wiki's dental-anxiety management coverage: existing pages emphasize non-pharmacological/behavioural approaches (hypnosis in [[behavioral-dentistry/dental-anxiety/cernega-2022-efficacy-hypnosis-dental-anxiety-phobia]], virtual reality, contemporary assessment/management in [[behavioral-dentistry/dental-anxiety/pediatric-2026-dental-anxiety-contemporary-assessment-management]]). This Cochrane SR+MA quantifies what conscious sedation (specifically oral midazolam) achieves for behaviour management in uncooperative paediatric patients, anchoring the evidence ceiling for the drug-based pathway. (Note: PMC returned empty full text — abstract-only.)
 
-## One-line Summary
+## Three-line Summary
 
-Cochrane SR+MA (2nd update; 50 RCTs, 3704 children ≤16y): moderate-certainty evidence that oral midazolam 0.25–1 mg/kg improves cooperative behaviour vs placebo (SMD 1.96, 95% CI 1.59–2.33; 6 studies, 202 participants, I²=90%); evidence for 33 other sedatives too sparse/heterogeneous to pool, and 81% of trials at high risk of bias.
+Cochrane SR+MA (2nd update, 50 RCTs, 3704 children ≤16 years) evaluating conscious sedation for behaviour management during dental treatment across 34 different sedative agents, routes, and doses.
 
-## 한줄요약
+Oral midazolam 0.25–1 mg/kg is the only sedative with poolable moderate-certainty evidence of benefit over placebo (SMD 1.96, 95% CI 1.59–2.33; 6 studies, 202 participants, I²=90%); adverse effects were few and minor.
 
-코크란 체계적 문헌고찰·메타분석(2차 업데이트, RCT 50편·만 16세 이하 소아 3704명): 경구 미다졸람(oral Midazolam) 0.25–1 mg/kg가 위약 대비 협조적 행동을 개선한다는 중등도 확실성 근거(SMD 1.96, 95% CI 1.59–2.33; 6편·202명, I²=90%). 나머지 33종 진정제는 근거가 너무 적고 이질적이라 통합 불가, 시험의 81%가 높은 비뚤림 위험.
+Evidence for the remaining 33 sedatives is too sparse and heterogeneous to pool; 81% of trials carry high risk of bias, highlighting an urgent need for standardized, adequately powered trials.
+
+## 세줄요약
+
+코크란 SR+MA(2차 업데이트, RCT 50편·만 16세 이하 소아 3704명) — 치과 치료 시 행동 관리를 위한 의식하 진정(conscious sedation) 34종 약제·경로·용량 평가.
+
+경구 미다졸람(oral midazolam) 0.25–1 mg/kg가 위약 대비 협조적 행동을 개선한다는 중등도 확실성 근거(SMD 1.96, 95% CI 1.59–2.33; 6편·202명, I²=90%)가 유일하게 통합 분석 가능했고, 부작용은 경미.
+
+나머지 33종 진정제는 근거가 부족하고 이질적이어서 메타분석 불가; 81%가 높은 비뚤림 위험 — 표준화된 대규모 RCT 설계가 시급함.
 
 ## 1. Document Information
 

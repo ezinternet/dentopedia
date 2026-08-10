@@ -9,8 +9,21 @@ pdf_filename: sorgato-2025-drill-bit-wear-temperature.pdf
 source_collection: external
 ---
 
-## One-line Summary
-In vitro CNC-controlled study (PLOS ONE 2025): direct positive correlation between drill bit wear (assessed by SEM) and bone temperature increase across 150 holes per drill set — far beyond the manufacturer-recommended ~25–30 use limit; correlation with hole geometry is weaker.
+## Three-line Summary
+
+In vitro CNC-controlled study (PLOS ONE 2025): direct positive correlation between drill bit
+
+wear (assessed by SEM) and bone temperature increase across 150 holes per drill
+
+set — far beyond the manufacturer-recommended ~25–30 use limit; correlation with hole geometry is weaker.
+
+## 세줄요약
+
+In vitro CNC-controlled study (PLOS ONE 2025): direct positive correlation between drill bit
+
+wear (assessed by SEM) and bone temperature increase across 150 holes per drill
+
+set — far beyond the manufacturer-recommended ~25–30 use limit; correlation with hole geometry is weaker.
 
 ## 1. Document Information
 - Journal: PLOS ONE 20(3):e0319492, 19 March 2025

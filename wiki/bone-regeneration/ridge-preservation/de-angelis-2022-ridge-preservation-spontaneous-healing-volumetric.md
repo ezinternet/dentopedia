@@ -6,7 +6,7 @@ date: 2022-12-01
 doi: 10.1186/s40729-022-00456-w
 source: de-angelis-2022-ridge-preservation-spontaneous-healing-volumetric.md
 category: [bone-regeneration/ridge-preservation]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/de-angelis-2022-ridge-preservation-spontaneous-healing-volumetric.pdf
 pdf_filename: de-angelis-2022-ridge-preservation-spontaneous-healing-volumetric.pdf
 source_collection: external
@@ -18,13 +18,21 @@ relations:
     target: sanchez-perez-2025-dbbm-alveolar-ridge-preservation-histologic
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective comparative study (n=45 single-tooth sites; 23 spontaneous healing vs 22 ARP with bovine xenograft + resorbable pericardium membrane) with 6-month CBCT volumetric superimposition: ARP roughly halved horizontal ridge loss at 1 mm (0.86 vs 2.03 mm, P<0.001) and volumetric shrinkage (62.66 vs 106.41 mm³, P=0.004), improved PES (11.6 vs 9.9, P=0.007), trended toward less later grafting (9% vs 26%, NS), with equal pain/satisfaction and 100% 1-year implant survival.
+Retrospective comparative study (Catholic University Rome, n=45 single-tooth sites; 23 spontaneous healing vs. 22 ARP with cortico-spongious bovine xenograft + resorbable pericardium membrane, non-randomized allocation) with 6-month CBCT volumetric superimposition.
 
-## 한줄요약
+ARP roughly halved horizontal width loss at 1 mm (0.86 vs 2.03 mm, p<0.001), volumetric shrinkage (62.66 vs 106.41 mm³, p=0.004), and improved Pink Esthetic Score (PES: 11.6 vs 9.9, p=0.007); pain and satisfaction were equivalent; 1-year implant survival was 100% in both groups.
 
-후향적 비교(단일치 발치 45부위; 자연치유 23 vs 소뼈 xenograft+흡수성 심막막 ARP 22). 6개월 CBCT 중첩에서 ARP가 1 mm 수평폭 수축을 절반(0.86 vs 2.03 mm, P<0.001), 체적 수축도 감소(62.66 vs 106.41 mm³, P=0.004)시켰고 PES 향상(11.6 vs 9.9)·후속 골이식 감소 경향(9% vs 26%, NS)을 보임. 통증·만족도는 동등, 1년 임플란트 생존율 양군 100%.
+Thick soft-tissue and buccal bone phenotype independently reduced ridge loss in both groups; a trend toward fewer additional grafting procedures with ARP (9% vs 26%) was not statistically significant in this small sample.
+
+## 세줄요약
+
+후향적 비교 연구 (Retrospective Comparative Study, 로마 가톨릭대, n=45 단일치 발치 부위; 자연치유 23 vs 소 이종골+흡수성 심막막 치조제 보존술 (ARP) 22, 비무작위 배정): 6개월 콘빔 전산화 단층촬영 (CBCT) 체적 중첩.
+
+ARP가 1 mm 수평폭 손실 절반 감소 (0.86 vs 2.03 mm, p<0.001), 체적 수축 감소 (62.66 vs 106.41 mm³, p=0.004), 분홍 심미 점수 (Pink Esthetic Score, PES) 향상 (11.6 vs 9.9, p=0.007); 통증·만족도 동등; 1년 임플란트 생존율 양군 100%.
+
+두꺼운 연조직·협측골 표현형이 양 군 모두에서 보호 인자; ARP 후 추가 골이식 감소 경향 (9% vs 26%)은 소규모로 통계 유의하지 않음.
 
 ## Summary
 

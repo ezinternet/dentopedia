@@ -17,13 +17,21 @@ text_filename: nagaoka-2017-mdp-zirconia-chemical-interaction-nmr.txt
 
 This paper supplies the atomic-level mechanistic basis for why 10-MDP-containing primers/cements bond durably to zirconia — the chemistry that downstream clinical comparisons (cleaning protocols, primer head-to-heads) take for granted. It establishes, via ¹H/³¹P MAS NMR + 2D HETCOR, that 10-MDP binds zirconia through both ionic interaction (deprotonated P-O⁻ ↔ partial-positive Zr) AND hydrogen bonding (P=O···Zr-OH / P-OH···Zr-OH), rejecting the prior "ionic-only" hypothesis. It is the zirconia counterpart of the MDP-on-tooth-substrate nanolayering work and underpins [[wiki/resin-bonding/yoshihara-2011-nanolayering-mdp-enamel-dentin]]: both establish that 10-MDP's bonding effectiveness rests on a specific, NMR/TEM-verified chemical interaction with the substrate, not merely on micromechanical retention.
 
-## One-line Summary
+## Three-line Summary
 
-In-vitro NMR mechanistic study (¹H/³¹P MAS NMR + 2D ¹H→³¹P HETCOR) showing 10-MDP binds zirconia via both ionic (deprotonated P-O⁻ ↔ partial-positive Zr) and hydrogen bonding (P=O / non-deprotonated P-OH ↔ Zr-OH), with concentration-dependent shear bond strength; the "ionic-only" hypothesis was rejected.
+In-vitro NMR mechanistic study (¹H/³¹P MAS NMR + 2D ¹H→³¹P HETCOR) showing 10-MDP binds zirconia via both ionic (deprotonated P-O⁻ ↔ partial-positive Zr) and hydrogen bonding (P=O / non-deprotonated P-OH ↔ Zr-OH), with concentration-dependent shear bond strength;
 
-## 한줄요약
+the "ionic-only" hypothesis was rejected.
 
-10-MDP가 지르코니아에 어떻게 결합하는지 핵자기공명(¹H/³¹P MAS NMR + 2D ¹H→³¹P HETCOR)으로 원자 수준에서 규명한 in-vitro 연구. 이온결합(탈양성자화된 P-O⁻ ↔ 부분 양전하 Zr)과 수소결합(P=O·비탈양성자 P-OH ↔ Zr-OH)이 함께 작용하며, 전단결합강도(SBS)는 농도 의존적으로 증가했다. "이온결합 단독" 가설은 기각되었다.
+(incomplete)
+
+## 세줄요약
+
+10-MDP가 지르코니아에 어떻게 결합하는지 핵자기공명(¹H/³¹P MAS NMR + 2D ¹H→³¹P HETCOR)으로 원자 수준에서 규명한 in-vitro 연구.
+
+이온결합(탈양성자화된 P-O⁻ ↔ 부분 양전하 Zr)과 수소결합(P=O·비탈양성자 P-OH ↔ Zr-OH)이 함께 작용하며, 전단결합강도(SBS)는 농도 의존적으로 증가했다.
+
+"이온결합 단독" 가설은 기각되었다.
 
 ## 1. Document Information
 

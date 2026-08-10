@@ -9,8 +9,21 @@ pdf_filename: padhye-2020-quantitative-edentulous-posterior-maxilla.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Retrospective CBCT study of 349 edentulous posterior maxillary sites from 250 patients: 55.45% of molar and 54.42% of premolar sites had horizontal ridge width < 6 mm, 67.83% of molar and 44.86% of premolar sites had apico-coronal bone height < 8 mm, and 54.14% of all sites had oblique sinus-floor morphology — supporting routine CBCT pre-implant planning and a high need for sinus floor augmentation in this population.
+## Three-line Summary
+
+Retrospective CBCT study of 349 edentulous posterior maxillary sites from 250 patients: 55.45% of molar and 54.42% of premolar sites had horizontal
+
+ridge width < 6 mm, 67.83% of molar and 44.86% of premolar sites had apico-coronal bone height < 8 mm, and 54.14%
+
+of all sites had oblique sinus-floor morphology — supporting routine CBCT pre-implant planning and a high need for sinus floor augmentation in this population.
+
+## 세줄요약
+
+Retrospective CBCT study of 349 edentulous posterior maxillary sites from 250 patients: 55.45% of molar and 54.42% of premolar sites had horizontal
+
+ridge width < 6 mm, 67.83% of molar and 44.86% of premolar sites had apico-coronal bone height < 8 mm, and 54.14%
+
+of all sites had oblique sinus-floor morphology — supporting routine CBCT pre-implant planning and a high need for sinus floor augmentation in this population.
 
 ## 1. Document Information
 - **Journal**: Journal of Maxillofacial and Oral Surgery 2020;19(1):125–130

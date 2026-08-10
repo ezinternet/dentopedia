@@ -6,7 +6,7 @@ date: 2023-12-07
 doi: 10.3389/fbioe.2023.1309503
 source: zhao-2023-enhancing-dentin-bonding-quality-acetone.md
 category: [resin-bonding]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/zhao-2023-enhancing-dentin-bonding-quality-acetone.pdf
 pdf_filename: zhao-2023-enhancing-dentin-bonding-quality-acetone.pdf
 source_collection: external
@@ -16,13 +16,21 @@ relations:
     target: mortazavi-2012-ethanol-wet-bonding-clinical-trial
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In vitro microtensile study (60 third molars, 4 solvent groups): acetone wet-bonding preserved bond strength after thermocycling/collagenase aging (p<0.05) without affecting immediate strength, with less nanoleakage and suppressed MMP collagenolytic activity vs water wet-bonding.
+In vitro study (60 third molars, 4 solvent groups: water/ethanol/50% acetone/100% acetone) testing acetone wet-bonding (AWB) with Singlebond Universal under three aging conditions (24 h, 10,000 thermocycles, 1-month collagenase).
 
-## 한줄요약
+AWB preserved bond strength after thermocycling/collagenase aging (p<0.05) with no difference in immediate strength, plus reduced nanoleakage and suppressed hybrid-layer MMP collagenolytic activity vs water wet-bonding.
 
-60개 제3대구치 미세인장 실험(4개 용매군): 아세톤 습윤접착이 즉시 접착강도는 유지한 채 열순환·콜라겐분해효소 노화 후 강도를 보존(p<0.05), 물 습윤접착 대비 나노누출 감소 및 MMP 콜라겐분해활성 억제.
+Acetone is a viable alternative to ethanol for dentin wet-bonding — lower viscosity improves wettability and water-chasing efficiency — but evidence is bench-level only.
+
+## 세줄요약
+
+60개 제3대구치를 4개 용매군(물·에탄올·50% 아세톤·100% 아세톤)으로 나눠 Singlebond Universal로 접착 후 즉시/열순환 10,000회/콜라겐분해효소 1개월 노화 조건에서 미세인장결합강도·나노누출·in situ 자이모그래피·접촉각을 평가한 in vitro 연구.
+
+아세톤 습윤접착(AWB)은 즉시 결합강도는 차이 없었으나 노화 후 강도를 유의하게 보존(p<0.05)하였고, 물 습윤접착 대비 나노누출 감소 및 혼합층 MMP 콜라겐분해 활성을 억제.
+
+아세톤은 에탄올과 대등한 결합 내구성 향상 효과를 보이며, 점도가 낮아 상아질 접촉각을 줄이고 수분 추적(water-chasing) 효율이 높은 대안 용매로 제안되나 근거는 실험실 수준에 한한다.
 
 ## Summary
 

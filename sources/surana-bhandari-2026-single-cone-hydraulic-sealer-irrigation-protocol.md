@@ -16,13 +16,21 @@ text_filename: surana-bhandari-2026-single-cone-hydraulic-sealer-irrigation-prot
 
 PubMed 감시(one-cone technique) — Camilleri 그룹이 단일콘+hydraulic cement sealer에서 **세정 프로토콜(HEDP 지속적 킬레이션)이 dentin-sealer 계면과 항균성을 좌우**함을 보임. 단일콘 클러스터([[endodontics/elmsmari-2025-single-cone-bioceramic-clinical-success-sr-ma]], [[endodontics/song-2022-sealer-based-obturation-epoxy-calcium-silicate-rct]])가 다루지 않은 "충전 전 세정이 봉쇄·생체활성에 미치는 영향" 축을 추가한다.
 
-## One-line Summary
+## Three-line Summary
 
-Split-tooth in-vitro study (4 sealers × 3 irrigation sequences) — continuous chelation with HEDP caused less dentin erosion, a larger mineral zone at the hydraulic-cement/dentin interface, and improved sealer antimicrobial properties; all sealers lost antimicrobial efficacy after contact with irrigated dentin.
+Split-tooth in-vitro study (4 sealers × 3 irrigation sequences) — continuous chelation with HEDP caused less dentin erosion, a larger mineral zone at the hydraulic-cement/dentin interface, and improved sealer antimicrobial properties;
 
-## 한줄요약
+all sealers lost antimicrobial efficacy after contact with irrigated dentin.
 
-split-tooth in-vitro(실러 4종 × 세정 3종) — HEDP 지속적 킬레이션은 dentin 침식을 줄이고 hydraulic cement/dentin 계면의 미네랄 영역을 넓히며 실러 항균성을 향상; 모든 실러는 세정된 dentin 접촉 후 항균 효과가 감소.
+(incomplete)
+
+## 세줄요약
+
+split-tooth in-vitro(실러 4종 × 세정 3종) — HEDP 지속적 킬레이션은 dentin 침식을 줄이고 hydraulic cement/dentin 계면의 미네랄 영역을 넓히며 실러 항균성을 향상;
+
+모든 실러는 세정된 dentin 접촉 후 항균 효과가 감소.
+
+(incomplete)
 
 ## 1. Document Information
 

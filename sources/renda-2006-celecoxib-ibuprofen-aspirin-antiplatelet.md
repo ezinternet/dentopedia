@@ -9,8 +9,21 @@ pdf_filename: renda-2006-celecoxib-ibuprofen-aspirin-antiplatelet.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Placebo-controlled RCT in 24 OA + stable IHD patients on aspirin 100 mg: ibuprofen 600 mg TID significantly raised serum TXB2 and platelet aggregation (aspirin effect abolished); celecoxib 200 mg BID had no effect on platelet COX-1 inhibition despite equivalent COX-2 suppression.
+## Three-line Summary
+
+Placebo-controlled RCT in 24 OA + stable IHD patients on aspirin 100 mg: ibuprofen
+
+600 mg TID significantly raised serum TXB2 and platelet aggregation (aspirin effect abolished); celecoxib
+
+200 mg BID had no effect on platelet COX-1 inhibition despite equivalent COX-2 suppression.
+
+## 세줄요약
+
+Placebo-controlled 무작위 대조 시험 (RCT) in 24 OA + stable IHD patients on aspirin 100 mg: ibuprofen
+
+600 mg TID significantly raised serum TXB2 and platelet aggregation (aspirin effect abolished); celecoxib
+
+200 mg BID had no effect on platelet COX-1 inhibition despite equivalent COX-2 suppression.
 
 ## 1. Document Information
 - **Journal**: Clinical Pharmacology & Therapeutics 2006;80:264–74

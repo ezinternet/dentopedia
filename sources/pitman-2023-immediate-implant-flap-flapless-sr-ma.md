@@ -10,8 +10,21 @@ pdf_filename: pitman-2023-immediate-implant-flap-flapless-sr-ma.pdf
 source_collection: external
 ---
 
-## One-line Summary
-SR+MA (Cosyn 그룹): 단일 즉시식립 시 mucoperiosteal flap vs flapless — 협측 hard/soft tissue 변화, 임상·심미·PROMs 비교; RCT만 포함.
+## Three-line Summary
+
+SR+MA (Cosyn 그룹): 단일 즉시식립 시
+
+mucoperiosteal flap vs flapless — 협측
+
+hard/soft tissue 변화, 임상·심미·PROMs 비교; RCT만 포함.
+
+## 세줄요약
+
+SR+MA (Cosyn 그룹): 단일 즉시식립 시
+
+mucoperiosteal flap vs flapless — 협측
+
+hard/soft tissue 변화, 임상·심미·PROMs 비교; RCT만 포함.
 
 ## 1. Document Information
 - **Title**: Immediate implant placement with flap or flapless surgery: A systematic review and meta-analysis
@@ -36,9 +49,9 @@ PRISMA. Two reviewers. RoB Cochrane. Random-effects meta-analysis.
 
 ## 6. Related Work
 - [[immediate-implant/esthetic-soft-tissue/seyssens-2021-immediate-implant-connective-tissue-graft-sr-ma]] — Cosyn 시리즈 — CTG
-- [[immediate-implant/seyssens-2022-immediate-implant-socket-grafting-sr-ma]] — Cosyn 시리즈 — socket grafting
+- [[immediate-implant/gap-grafting/seyssens-2022-immediate-implant-socket-grafting-sr-ma]] — Cosyn 시리즈 — socket grafting
 - [[immediate-implant/esthetic-soft-tissue/pitman-2022-immediate-implant-provisionalization-sr-ma]] — Cosyn 시리즈 — immediate provisionalization
-- [[immediate-implant/mansouri-2025-flapless-immediate-implant-bone-grafting-sr-ma]] — flapless + 골이식 SR+MA
+- [[immediate-implant/gap-grafting/mansouri-2025-flapless-immediate-implant-bone-grafting-sr-ma]] — flapless + 골이식 SR+MA
 
 ## 7. Limitations and Future Work
 - 자세한 한계·후속 연구 방향은 원문 Discussion/Conclusion 참고.

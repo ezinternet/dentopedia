@@ -4,10 +4,11 @@ title: "비축방향 식립 각도 → 경부 응력·MBL 추정 (chairside, 교
 type: interactive
 date: 2026-06-09
 status: draft
+verified: 2026-07-13
 category: implant-placement
 agenda: agenda/2026-06-09_nonaxial-angulation-interactive.md
 source_wiki:
-  - wiki/implants/kim-2026-implant-angulation-peri-implant-bone.md
+  - wiki/implants/peri-implantitis/kim-2026-implant-angulation-peri-implant-bone.md
   - wiki/overviews/implant-occlusion-loading-biomechanics-overview.md
   - wiki/occlusion/di-fiore-2022-periimplant-bone-loss-overload-occlusal-analysis.md
 tags: [implant, angulation, nonaxial, mbl, occlusion, chairside-calculator, educational]
@@ -15,6 +16,14 @@ notes: |
   단일 HTML, 외부 CDN 없음, 오프라인 사용 가정. 인라인 CSS/JS.
   응력 모델 = F·sin(θ) 협측분력 + Kim 2026 인용 "15°당 +25%, 30°↑ +50%" 경험배수의 교육용 근사. FEA 아님.
   데이터: Kim 2026 후향(506 implants, 5.1y) — 비축 0.22±0.48 vs 축 0.10±0.39 mm(P<.05), 각도×implant-FDP 상호작용 Δ0.373 mm.
+  [2026-07-13 재검증] STALE 신호 확인 — source_wiki인 implant-occlusion-loading-biomechanics-overview.md가
+  2026-07-07 커밋(831e30c)에서 갱신됨. git log -p로 diff 확인 결과, 해당 커밋은 순수 추가(0 삭제)로
+  Zhou 2021(교합력 시간경과, T-Scan)을 "Evidence Update" 섹션으로 append한 것뿐 — 이 계산기가 쓰는
+  명제 7(Kim 2026 비축 각도·MBL·15°/30° 배수 모델)은 수정되지 않음. 따라서 임상 수치/JS 상수 변경 없음(코스메틱).
+  [2026-08-07 재검증] interactive-staleness.py가 di-fiore-2022 STALE로 신호(근거 2026-07-29
+  refactor(implants/survival) 대규모 재분류 커밋). 실측 diff = wikilink 1줄 경로 변경뿐
+  ([[implants/song-2021-...]] → [[implants/survival/song-2021-...]]), 본문 임상 수치 무변화.
+  재작성 불필요 재확인.
 ---
 -->
 <!DOCTYPE html>

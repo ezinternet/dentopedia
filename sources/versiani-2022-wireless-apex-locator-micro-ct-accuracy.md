@@ -10,8 +10,21 @@ pdf_filename: versiani-2022-wireless-apex-locator-micro-ct-accuracy.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Micro-CT로 Wirele-X와 RootZX II 정확도 생체 내(in vivo) 비교: ±0.5mm 기준 정확도 90.9% vs 81.8%; 통계적 유의차 없음(P=.61) — 두 EAL 임상적 동등.
+## Three-line Summary
+
+Micro-CT로 Wirele-X와 RootZX II 정확도 생체 내(in
+
+vivo) 비교: ±0.5mm 기준 정확도 90.9% vs
+
+81.8%; 통계적 유의차 없음(P=.61) — 두 EAL 임상적 동등.
+
+## 세줄요약
+
+Micro-CT로 Wirele-X와 RootZX II 정확도 생체 내(in
+
+vivo) 비교: ±0.5mm 기준 정확도 90.9% vs
+
+81.8%; 통계적 유의차 없음(P=.61) — 두 EAL 임상적 동등.
 
 ## 1. Document Information
 - **Journal**: Journal of Endodontics 2022;48:1152-1160

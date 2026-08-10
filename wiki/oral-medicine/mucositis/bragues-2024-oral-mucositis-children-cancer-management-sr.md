@@ -6,7 +6,7 @@ date: 2024-04-12
 doi: 10.3390/cancers16081548
 source: bragues-2024-oral-mucositis-children-cancer-management-sr.md
 category: [oral-medicine/mucositis]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/bragues-2024-oral-mucositis-children-cancer-management-sr.txt
 pdf_filename: bragues-2024-oral-mucositis-children-cancer-management-sr.txt
 source_collection: pubmed-text
@@ -18,13 +18,21 @@ text_filename: bragues-2024-oral-mucositis-children-cancer-management-sr.txt
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (PRISMA, PROSPERO CRD42022347208; 39 studies, n=14–148, modified Newcastle–Ottawa quality) of pediatric cancer-therapy-induced oral mucositis therapies: chlorhexidine best for incidence, honey best for duration, olive oil best for pain, and palifermin reduces incidence/severity/duration, while calcium phosphate showed no effect — but overall evidence remains inconclusive for firm protocols.
+PRISMA systematic review (PROSPERO CRD42022347208; 2655 records screened, 39 studies included, n=14–148; no meta-analysis due to heterogeneity) of cancer-therapy-induced oral mucositis (OM) management in pediatric patients (≤18 y) across chemo/radiotherapy/HSCT.
 
-## 한줄요약
+Chlorhexidine was most effective for OM incidence; honey for duration; olive oil for pain; palifermin (KGF) reduced incidence/severity/duration in acute leukemia; calcium phosphate showed no effect across all 3 studies; LLLT/photobiomodulation was the most-studied intervention (8 studies, 20%) with inconsistent results.
 
-소아 항암치료 구강점막염 치료를 다룬 체계적 문헌고찰 (PRISMA, 39편, n=14–148): 발생률엔 클로르헥시딘, 기간엔 꿀, 통증엔 올리브유가 가장 효과적이고 팔리퍼민은 발생률·중증도·기간을 줄였으나, 칼슘인산염은 효과 없음 — 전반적 근거는 아직 불충분.
+Overall evidence remains inconclusive for establishing firm pediatric OM protocols, but the findings support ranking interventions by target outcome (incidence vs. duration vs. pain) and positioning the pediatric dentist within the oncology care team.
+
+## 세줄요약
+
+PRISMA 체계적 문헌고찰(PROSPERO CRD42022347208; 2655건 → 39편 포함, n=14–148; 이질성으로 메타분석 불가) — 소아(≤18세) 항암·방사선·조혈모세포이식 유발 구강점막염(OM) 관리 중재 비교.
+
+OM 발생률엔 클로르헥시딘, 기간엔 꿀, 통증엔 올리브유가 최적; 팔리퍼민(KGF)은 급성백혈병에서 발생률·중증도·기간 모두 감소; 칼슘인산염은 3편 모두 효과 없음; LLLT/광생체조절이 가장 많이 연구된 중재(8편, 20%)이나 결과 불일치.
+
+소아 OM 프로토콜 확립을 위한 근거는 아직 불충분 — 결과지표별 중재 순위화 접근이 실용적이며 소아치과의의 종양케어팀 참여가 권고됨.
 
 ## Summary
 

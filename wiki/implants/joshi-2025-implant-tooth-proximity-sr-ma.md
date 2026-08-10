@@ -8,20 +8,28 @@ pmid: "41531572"
 pmcid: "PMC12791176"
 source: joshi-2025-implant-tooth-proximity-sr-ma.md
 category: [implants]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 text_path: /Users/oracleneo/llm-wiki/papers/joshi-2025-implant-tooth-proximity-sr-ma.txt
 text_filename: joshi-2025-implant-tooth-proximity-sr-ma.txt
 tags: [implant-to-tooth-distance, ITD, proximity, pulpal-damage, bone-loss, safety-margin]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (11 studies, 1,727 patients, 2,000+ implants): <1.5 mm implant-to-tooth distance — pulpal/periapical damage in 20–25% of contact cases; marginal bone loss in up to 4%; implant survival consistently >95%; pooled effect size 0.11.
+SR+MA (11 studies, 1,727 patients, >2,000 implants): clinical and radiographic impact of dental implant placement in close proximity to natural teeth, focusing on complications to adjacent teeth and the implant itself.
 
-## 한줄요약
+Pulpal/periapical damage in 20–25% of contact cases; interdental bone loss in up to 4% of implants; implant survival consistently >95%; pooled effect size 0.11 (95% CI 0.03–0.22), I²=95%; recommended safe margin ≥1.5 mm implant surface to root surface.
 
-SR+MA (11편, 1,727명): 임플란트-치근 <1.5 mm → 치수 손상 20–25% (접촉 케이스), 골소실 최대 4%; 임플란트 생존율 >95%; 풀링 효과크기 0.11; 안전거리 ≥1.5 mm 권고.
+Primary risk from proximity is to the adjacent natural tooth (pulp necrosis, caries, structural damage), not the implant itself; bone-level implants are more susceptible than tissue-level implants at close distances.
+
+## 세줄요약
+
+SR+MA (11편, 1,727명, >2,000 임플란트): 임플란트의 자연치 근접 식립이 인접 자연치 및 임플란트 자체에 미치는 임상·방사선학적 영향 분석.
+
+치수·치근단 병변 발생률 접촉 케이스의 20–25%; 치간 골소실 최대 4%; 임플란트 생존율 일관되게 >95%; 풀링 효과크기 0.11 (95% CI 0.03–0.22), I²=95%; 안전거리 ≥1.5 mm(임플란트 표면-치근 표면) 권고.
+
+근접 식립의 주된 위험은 임플란트 자체보다 인접 자연치 생존 위협(치수 괴사·우식); 골수준(BL) 임플란트가 조직수준(TL)보다 좁은 거리에서 더 민감.
 
 ## Summary
 
@@ -53,6 +61,6 @@ SR+MA (11편, 1,727명): 임플란트-치근 <1.5 mm → 치수 손상 20–25% 
 - BL 임플란트가 TL보다 근접 거리에 더 민감 (Ng 2018)
 
 ## Related Papers
-- [[implants/tarnow-2000-inter-implant-distance-crestal-bone-height]] — IID ≥3 mm 룰 (임플란트-임플란트); 본 논문은 임플란트-자연치 side
-- [[implants/ng-2018-implant-tooth-proximity-bone-loss]] — 이 SR에 포함; BL vs TL 구분 근거
+- [[implants/mbl/tarnow-2000-inter-implant-distance-crestal-bone-height]] — IID ≥3 mm 룰 (임플란트-임플란트); 본 논문은 임플란트-자연치 side
+- [[implants/mbl/ng-2018-implant-tooth-proximity-bone-loss]] — 이 SR에 포함; BL vs TL 구분 근거
 - [[implants/morales-schwarz-2025-1mm-interimplant-distance-10year-case]] — 좁은 IID 케이스 (임플란트-임플란트)

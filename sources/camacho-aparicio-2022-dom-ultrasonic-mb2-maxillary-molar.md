@@ -11,8 +11,21 @@ pdf_filename: camacho-aparicio-2022-dom-ultrasonic-mb2-maxillary-molar.pdf
 source_collection: external
 ---
 
-## One-line Summary
-In vivo validity study (84 patients, CBCT gold standard): MB2 prevalence 79%; DOM alone sensitivity 82%; DOM+ultrasonic 86% sensitivity; specificity 100% all stages; CBCT confirms ground truth.
+## Three-line Summary
+
+In vivo 3-stage validity study (n=84 patients, UNAM Mexico City) comparing explorer alone, DOM, and DOM plus ultrasonic dentin removal for locating MB2 in maxillary first molars, using CBCT as gold standard (inter-examiner kappa=0.91).
+
+MB2 prevalence was 79% by CBCT; sequential addition of instruments improved sensitivity (explorer 79% → DOM 82% → DOM+ultrasonic 86%) while specificity and PPV remained 100% at all stages and NPV improved from 56% to 67%.
+
+DOM plus selective ultrasonic dentin removal provides the highest sensitivity for MB2 detection, but the additional dentin removal is irreversible and should be reserved for cases where anatomy strongly suggests a missed canal.
+
+## 세줄요약
+
+상악 제1대구치 MB2 위치 확인을 위한 in vivo 타당도 연구(n=84, CBCT 표준): 탐침 단독, 치과수술현미경(DOM, Dental Operating Microscope), DOM+초음파 삭제를 순차 비교.
+
+CBCT 기준 MB2 유병률 79%; 각 단계별 민감도(Sensitivity) 79%→82%→86%로 향상, 특이도(Specificity)·양성예측치(PPV) 전 단계 100%, 음성예측치(NPV) 56%→67% 개선.
+
+DOM+초음파 선택적 상아질 삭제가 가장 높은 민감도를 제공하나, 비가역적 삭제인 만큼 해부학적으로 근관 존재가 강하게 의심되는 경우에만 적용해야 한다.
 
 ## 1. Document Information
 UNAM, Mexico City. In vivo 3-stage clinical study using CBCT as gold standard. Kappa=91% between examiners.

@@ -1,0 +1,71 @@
+Title: Prevalence of Keratosis in the Oral Cavity: A Clinical Retrospective Study
+Authors: Manya Nautiyal, Jayanth Kumar Vadivel, Karthikeyan Ramalingam
+Journal: Cureus, 2024;16(1):e52199
+PMID: 38347988
+PMCID: PMC10859883
+DOI: 10.7759/cureus.52199
+
+Abstract
+
+Introduction: A lesion in the oral cavity can appear clinically white due to an increase in keratin (hyperkeratosis), an increase in the thickness of the spongiotic cells (acanthosis), accumulation of fluid within the epithelium, and formation of the pseudomembrane. There are several innocuous white lesions, while only a few require aggressive management. The lesions of frictional keratosis, tobacco pouch keratosis, and morsicatio buccarum (MB) are innocuous white lesions that can be treated with simple treatments. This paper aimed to study the prevalence of the three white lesions among the patients visiting Saveetha Dental College. The objectives were to study the gender prevalence of the lesions and the average age distribution of these lesions.
+
+Methodology: The study was a retrospective clinical study that collected data from DIAS (Digital Information and Archiving Software) over four years among the patients visiting Saveetha Dental College. The inclusion and exclusion criteria were based on the clinical diagnostic features, and the existence of any other oral potentially malignant disorder made the exclusion criteria. The collected data were entered into SPSS version 26.0 and analyzed for descriptive and inferential statistics.
+
+Results: The total number of patients with the lesions mentioned above was 5,613, with an average age of 37.28 years. The most common lesion was frictional keratosis with 4,026 patients, followed by tobacco pouch keratosis with 1,537 patients. The least common was MB, with 54 patients. Based on gender, all of the above lesions were most commonly seen in men. Frictional keratosis and MB were seen in middle age, while tobacco pouch keratosis was seen in middle to old age.
+
+Conclusion: This study helps us understand the prevalence of innocuous keratotic lesions in a South Indian population. This could potentially reduce the need for biopsy and instead try less invasive management, reserving biopsy for cases with no response to therapy.
+
+Full Text
+
+Introduction
+
+Most white lesions of the oral cavity are benign, but a few are categorized as oral potentially malignant disorders (OPMD), the most common being leukoplakia. Most white lesions from keratosis are due to friction from sharp teeth or tobacco-related habits (nicotine/nitrosamines causing epithelial thickening). Smokeless tobacco (SLT) use is rising in Southeast Asia; in India SLT is the second most common tobacco habit after smoking in men and highest habit in women. Moist snuff (higher alkalinity/mucosal penetration) is associated with tobacco pouch keratosis prevalence as high as 60% among users. GATS-2 data: 28.6% (266.8 million) Indian adults ≥15y use tobacco in some form (42.4% men, 14.2% women); bidi (7.7%) and khaini (11.2%) most common smoked/smokeless products.
+
+Frictional keratosis occurs from trauma by sharp teeth, toothbrushes, or dental appliances; reported prevalence 0.26%-5.3%. Linea alba is sometimes mistaken for a potentially malignant disorder. Morsicatio buccarum (MB) is a lesion from chronic cheek biting, a form of obsessive neurosis. These lesions are reversible on removal of the causative irritant and require no medical intervention; distinguishing them is important to avoid unnecessary treatment.
+
+Materials and Methods
+
+Data collected from DIAS (Saveetha Dental College, Chennai, India) for patients treated June 2019-June 2023. Ethics approval: IHEC/SDC/UG-2157/23/OMED/303. Diagnosis confirmed based on specific treatment response of the lesions. Data analyzed by SPSS v26.0 (chi-square test, descriptive/inferential statistics; normality checked via Shapiro-Wilk).
+
+Inclusion/exclusion criteria:
+- Frictional keratosis: inclusion = clinically identifiable irritation/trauma source at lesion site, white clinical appearance at contact site; exclusion = no clinical response to irritant removal after 4 weeks, or other OPMD associated.
+- Tobacco pouch keratosis: inclusion = history of quid/SLT use, white velvety patch at contact site; exclusion = no response to anti-oxidants after habit cessation for 4 weeks, or other associated OPMD.
+- Morsicatio buccarum: inclusion = history of cheek biting present; exclusion = other associated OPMD.
+
+Results
+
+Screened 144,056 patients (Oral Medicine Dept, Saveetha Dental College, June 2019-May 2023); single-center, single ethnicity population.
+
+Frictional keratosis: non-scrapable white patch related to sharp tooth/irritant (example given: buccoverted tooth #18).
+Tobacco pouch keratosis: white patch at SLT contact site (example: labial mucosa).
+Morsicatio buccarum (MB): white line along bite plane of dentition (example: along occlusal plane, posterior buccal mucosa).
+
+Total 5,613 patients with one of the three lesions = 3.89% prevalence among all patients visiting the institution. Age range 18-78y, mean 37.28y; age distribution approximated a normal (bell curve) distribution confirmed by Shapiro-Wilk test.
+
+By lesion, mean age: frictional keratosis 26.28y, MB 29.34y, tobacco pouch keratosis 44.53y.
+
+Frictional keratosis: n=4022 (71.65% of the 5,613); gender split 72.5% male, 27.5% female.
+Tobacco pouch keratosis: n=1537 (27.38%); gender split 93.55% male, 6.45% female.
+Morsicatio buccarum: n=54 (0.9%); gender split 75.92% male, 24.08% female.
+
+Inferential statistics: chi-square test for gender association within each lesion category, p=0.01 (significant); linear-by-linear association between gender and lesion type, p=0.034 (significant).
+
+Year-by-year breakdown (2019 partial-2023 partial) tables show consistent male predominance across all three lesion types each year.
+
+Discussion
+
+71.62% of lesions in this study were frictional keratosis, consistent with Müller et al. Clinicians can consider removing an identifiable trauma/parafunctional habit source before biopsy. Frictional keratosis is entirely benign; no aggressive treatment needed beyond removing the etiology (or halting the habit if habit-induced).
+
+True prevalence of frictional keratosis is uncertain historically because many lesions are misdiagnosed as leukoplakia. Pinto et al. (study among children) found frictional keratosis prevalence 0.26-5.3%. In this study, frictional keratosis predominated in the 3rd decade (mean age 26.23y); rarely corrugated with ulceration. Linea alba has been mistaken for frictional keratosis but is triggered by limited buccal overjet rather than a point irritant. Tobacco pouch keratosis most commonly at buccal mucosa and retromolar pad, consistent with this study; next most common site the crest of edentulous alveolar ridges.
+
+Tobacco pouch keratosis is caused by constant frictional irritation from rough/abrasive betel-quid components (not a direct chemical effect), with fibrin deposition and secondary keratinization; severity depends on quid type, habit frequency, and duration of contact; lesion resolves in 5-6 weeks after habit cessation. Reported as most common lesion among SLT users in the Indian subcontinent, typically 4th-5th decade; this study's mean age for tobacco pouch keratosis (44.53y) is consistent.
+
+Morsicatio buccarum is a continuation of linea alba from chronic cheek biting causing keratinization along buccal mucosa via sustained mild trauma; carries no carcinogenic risk. Beyond reduced buccal overjet, may relate to anxiety (conscious/unconscious cheek biting), psychiatric disorders, learning disabilities, and rare syndromes (Lesch-Nyhan syndrome, Riley-Day syndrome). Typically reported in the 3rd decade; this study's mean age 29.34y is consistent.
+
+Gender findings: tobacco pouch keratosis more common in men in this study, contrasting a survey by Naveen Kumar et al. reporting women practicing tobacco habits more; frictional keratosis more common in men here, contrasting Arora et al. who found frictional keratosis more common in women (attributed to microtrauma from household activities). Majorana et al. (10-year pediatric series, ages 0-12) found MB slightly more common in females, inconsistent with this study's male predominance.
+
+Limitations: single-center (unicentric) study; diagnosis based on clinical response to treatment rather than histopathological confirmation; future studies could examine treatment options and healing rapidity with patient-specific measures.
+
+Conclusions
+
+Frictional keratosis, tobacco pouch keratosis, and morsicatio buccarum prevalence characterized in a four-year retrospective South Indian cohort. Frictional keratosis was the most common innocuous keratotic lesion; all three lesions were more common in men. Since diagnosis relied on clinical exam plus favorable treatment response, biopsy can often be deferred and reserved for lesions unresponsive to conservative therapy — not all oral white lesions are potentially malignant.

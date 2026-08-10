@@ -1,0 +1,69 @@
+Title: Association of Sleep Disorders with Temporomandibular Joint Pain Dysfunction Syndrome
+Authors: Albadi Mazen Anwar Abdullah, Abuthnain May Muteb, Alshahrani Mozon Mubarak Abdullatif, Alrajhi Joud Faisal Abdullah, Alshehri Ghada Mohammed Jaber, Issrani Rakhi
+Journal: Journal of Pharmacy & Bioallied Sciences
+PMID: 41852968
+PMCID: PMC12995045
+DOI: 10.4103/jpbs.jpbs_1573_25
+Source: PubMed Central (PMC), retrieved via PubMed MCP get_full_text_article
+
+ABSTRACT
+
+Temporomandibular disorders (TMD) are frequently related to sleep disorders, such as bad/sleep quality, insomnia, sleep apnea, and bruxism. In this systematic review, we integrated the evidence from seven seminal studies, all of which indicated worse sleep quality and increased pain sensitivity in TMD patients, and the degenerative joint changes are associated with stress and poor sleep. Although the association is bilateral, the evidence that the bruxism and obstructive sleep apnea are also bilateral is not consistent. Overall, the results illuminate the significance of the diligent assessment of sleep in TMD treatment and strengthen the value of a multimodal therapy in ANV treatment.
+
+INTRODUCTION
+
+Temporomandibular disorders (TMD) are a cluster of musculoskeletal and neuromuscular conditions that affect the temporomandibular joint (TMJ), masticatory muscles, and the anatomic structures. They are among the most frequent causes of nondental orofacial pain and are responsible for significant limitations of mastication, phonation, and quality of life. In addition to local pain, TMD has been implicated as being related to factors such as the psychosocial stress, the emotional disorder, and sleep disturbances.
+
+Sleep disturbances including insomnia, poor sleep quality, obstructive sleep apnea (OSA), and bruxism are commonly observed in the general population and are established contributors to chronic pain disorders. It is clear from existing data that TMD patients, in comparison with healthy controls have poorer quality of sleep as measured by subjective questionnaires and objective sleep studies (polysomnography). In addition, sleep disorders such as sleep apnea and sleep bruxism have been associated with an increased prevalence of TMJ degenerative changes.
+
+This systematic review aims to synthesize the available evidence exploring the association between sleep disorders and temporomandibular joint pain dysfunction.
+
+METHODS
+
+This systematic review was conducted following standard guidelines for evidence synthesis in biomedical research. A comprehensive literature search was performed in PubMed, Scopus, and Web of Science databases using combinations of keywords. Studies published in English and involving adult populations were considered.
+
+Inclusion criteria were observational or comparative studies that investigated the relationship between sleep disorders and TMD, with sleep outcomes assessed either subjectively (questionnaires, sleep quality indices) or objectively (polysomnography). Exclusion criteria included case reports, reviews, animal studies, and studies without clear sleep or TMD outcome measures.
+
+A total of seven relevant studies were identified. These comprised prospective cohorts, cross-sectional analyses, and polysomnographic investigations, published between 2009 and 2024. Data were extracted regarding study design, population, type of sleep disorder evaluated, and main findings. The results are presented narratively and summarized in a single comparative table.
+
+RESULTS
+
+Seven studies published between 2009 and 2024 fulfilled the inclusion criteria. Collectively, these studies investigated the association of sleep quality, sleep disorders, and bruxism with temporomandibular disorders across diverse populations and study designs.
+
+Polysomnographic studies provided evidence of sleep-structure disturbances in women with TMD, with an increased number of respiratory events and poorer sleep continuity compared with controls. Self-reported data have demonstrated that TMD patients suffer from a worse sleep quality than the healthy subjects. Sleep apnea symptoms were found to be a substantial predictor for the development of TMD according to large cohort information. Experimental investigations also connected sleep disturbance with increased pain sensitivity, implicating an involvement of pain modulation.
+
+Across studies, poor sleep quality, sleep apnea symptoms, and bruxism were consistently associated with TMD pain or degenerative changes, although the strength of association varied by condition and diagnostic method.
+
+Table 1 — Summary of included studies examining the association between sleep disorders and temporomandibular joint pain dysfunction:
+
+- Dubrovsky — Polysomnographic study — Women with TMD — Sleep continuity, respiratory events — TMD patients had poorer sleep quality and altered respiratory parameters
+- Lee — Cross-sectional — Chronic TMD vs. healthy controls — Sleep quality (questionnaires) — TMD patients showed significantly poorer sleep quality
+- Sanders — Prospective cohort (OPPERA) — Community cohort — Sleep apnea symptoms — Sleep apnea strongly associated with increased TMD risk
+- Smith — Laboratory experimental — TMD patients — Sleep disorders and pain sensitivity — Sleep disorders linked with higher laboratory pain sensitivity
+- Yap — Cross-sectional — Degenerative TMJ patients — Sleep quality and emotional disturbance — Degenerative TMJ disease associated with disturbed sleep and emotional distress
+- Dias — Cross-sectional — Patients with bruxism and TMJ changes — Sleep bruxism, sleep quality — Bruxism associated with low sleep quality and TMJ degeneration
+- Tran — Comparative study — TMJ degeneration group vs. controls — Sleep quality — Poor sleep quality significantly associated with degenerative TMJ changes
+
+DISCUSSION
+
+The association between sleep disturbances and TMD are thought to overlap with good evidence of a reciprocal relationship. Sleep disturbances are highly prevalent among those with TMD, as up to 90% of patients experience poor sleep compared to around 15% of the population without TMD. In a recent systematic review on painful TMD and sleep quality, most included studies were able to demonstrate that there was some significant association between TMD symptoms and poor sleep (p < 0.05), again suggesting that sleep was an important comorbidity factor.
+
+Sleep disturbances can aggravate pain via the orbit of the descending pain modulation system, central sensitization, and increased inflammation. Elevated cortisol levels due to stress, which can by itself interfere with sleep, have also been found in untreated patients with TMD and sleep bruxism. On the other hand, untreated sleep apnea is associated with hypoxia and systemic inflammation and may exacerbate the severity of orofacial pain and TMD symptoms.
+
+Moreover, the support for the muscle bruxism–TMD link is inconsistent. Some studies find a nonsignificant relationship between bruxism and TMD pain, which further indicates the necessity for stronger, objectively based evaluations. This variability could be attributed to different methods of diagnosis—polysomnography versus self-report—and inconsistencies in classifying the subtypes of bruxism and TMD.
+
+From a clinical perspective, the high frequency of sleep disturbances in TMD patients should encourage systematic screening. Instruments such as the PSQI or the STOP-Bang may help in the recognition of suboptimal sleepers or suspects of sleep apnea. Since sleep disorders can exacerbate TMD symptoms and pain, and vice versa, a multidisciplinary treatment plan with dental, sleep medicine, and psychological therapy is necessary.
+
+Behavioral therapies—CBT-I and even the use of physical interventions such as nightguards and jaw exercises—have been shown to alleviate TMD and sleep symptoms. For sleep apnea patients, treatments such as CPAP can have systemic benefits, and potentially also reduce TMD symptoms, although additional clinical trials are required to confirm this.
+
+The included studies in our review generally agree with more broad findings: an association for poor sleep quality and TMD is relatively uniform—but bruxism and sleep apnea risk findings are heterogeneous across studies. A broader systematic review found that, although poor sleep quality is consistently related to TMD, the evidence is inadequate or conflicting in respect of OSA or sleep bruxism.
+
+Specifically, Sánchez Romero found insufficient evidence linking TMJ osteoarthritis with increased sleep disorders, pointing to condition-specific variations. Meanwhile, Dreweck's systematic review confirmed a robust association between painful TMD and poor sleep quality in adults, reinforcing findings across diagnostic methods and populations.
+
+Our results should be considered in the context of cross-sectional data, the small sample size, and the different diagnostic criteria used. Most evaluations include self-reported measures and this memory bias can be a problem. Longitudinal studies or intervention studies that are few in the corpus are very rare in the literature, leading to restricted causal inferences. Furthermore, diverse TMD types and sleep disorder definitions have made the direct comparison with other studies difficult.
+
+CONCLUSION
+
+Individuals with TMD consistently exhibit worse sleep quality and those with sleep apnea symptoms have greater odds of TMD. TMJ degenerative disease and bruxism have also been linked to poor sleep and psychological disturbances. Although evidence of bruxism and obstructive sleep apnea remains conflicting, the evidence overall favors routine sleep screening and multidisciplinary management of TMD, with further studies required to determine causality, and to trial specific interventions.
+
+Conflict of interest: There are no conflicts of interest.

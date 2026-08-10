@@ -15,13 +15,21 @@ text_filename: kim-2016-occupational-radiation-procedures-doses-korean-dentists.
 
 한국 치과의사의 방사선 피폭량을 국가 선량 레지스트리 데이터로 실측한 유일한 국내 코호트. [[radiology/benavides-2023-patient-shielding-dentomaxillofacial-radiography]]의 납복 불필요 논의와 [[radiology/gijbels-2005-dosimetry-digital-panoramic-occupational-exposure]]의 이론적 선량 추정치를 실제 한국 임상현장 데이터로 맥락화.
 
-## One-line Summary
+## Three-line Summary
 
 Cross-sectional survey of 658 South Korean dentists linked to national dose registry: mean annual effective dose 0.18 mSv (male) / 0.13 mSv (female), far below the 20 mSv limit, with panoramic radiography being the most frequent procedure.
 
-## 한줄요약
+(incomplete)
 
-한국 치과의사 658명 국가선량레지스트리 연계 조사: 연평균 유효선량 남성 0.18 mSv, 여성 0.13 mSv — 직업한도(20 mSv/y)의 1% 미만; 파노라마가 가장 빈번한 방사선 시술.
+(incomplete)
+
+## 세줄요약
+
+한국 치과의사 658명 국가선량레지스트리 연계 조사: 연평균 유효선량 남성 0.18 mSv, 여성 0.13 mSv — 직업한도(20 mSv/y)의 1% 미만;
+
+파노라마가 가장 빈번한 방사선 시술.
+
+(incomplete)
 
 ## 1. Document Information
 

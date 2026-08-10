@@ -12,11 +12,21 @@ source_collection: external
 ## Why Ingested
 Fatigue-bond-strength durability evidence for HEMA-free two-step universal adhesives; supports [[resin-bonding/tsujimoto-2022-two-step-hema-free-universal-adhesive-durability]].
 
-## One-line Summary
+## Three-line Summary
+
 In-vitro fatigue bond strength + SEM finding two-step HEMA-free G2-Bond Universal highest enamel fatigue strength in E&R mode.
 
-## 한줄요약
-in-vitro 피로결합강도 — 2-step HEMA-free G2-Bond이 E&R 모드 법랑질 최고.
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
+In-vitro fatigue bond strength + SEM finding two-step HEMA-free G2-Bond Universal highest enamel fatigue strength in E&R mode.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 J Funct Biomater 2022; 13: 134. DOI 10.3390/jfb13030134. Open access. Univ. of Iowa / Creighton / Univ. of Minnesota (MDRCBB).

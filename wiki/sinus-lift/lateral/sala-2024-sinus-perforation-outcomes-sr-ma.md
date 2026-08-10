@@ -6,7 +6,7 @@ date: 2024-02-22
 doi: 10.3390/jcm13051253
 source: sala-2024-sinus-perforation-outcomes-sr-ma.md
 category: [sinus-lift/lateral]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/sala-2024-sinus-perforation-outcomes-sr-ma.pdf
 pdf_filename: sala-2024-sinus-perforation-outcomes-sr-ma.pdf
 source_collection: external
@@ -18,11 +18,21 @@ relations:
     target: soares-2024-sinus-membrane-perforation-repair-review
 ---
 
-## One-line Summary
-SR+MA (29 studies, 6,860 implants): sinus floor-penetrating implant failure rate 2.1%; membrane-perforated vs intact sinus augmentation OR 1.347 (p=0.197, NS) — perforation does not significantly increase implant failure risk.
+## Three-line Summary
 
-## 한줄요약
-SR+MA (29편, 6,860개 임플란트): 상악동 저부 천공 (Sinus Floor Perforation) 임플란트 실패율 2.1%; 슈나이더 막 천공 (Schneiderian Membrane Perforation, SMP) 상악동거상술 vs 비천공 간 임플란트 실패 오즈비 (Odds Ratio, OR) 1.347 (p=0.197) — 천공 자체는 유의한 실패 위험인자 아님.
+SR+MA (29 studies, PRISMA 2020, PROSPERO-registered) analyzing two distinct perforation scenarios: (1) dental implants penetrating the sinus floor without augmentation and (2) Schneiderian membrane perforation during sinus augmentation.
+
+Sinus floor-penetrating implant failure rate was 2.1% overall (1.0% excluding historical machined implants); membrane-perforated vs intact sinus augmentation showed OR 1.347 (95% CI 0.857–2.117, p=0.197, NS) with I²=36.1% across 6,860 implants.
+
+Neither perforation scenario significantly elevates implant failure risk when managed appropriately; perforation size remains an unresolved subgroup signal requiring larger targeted studies.
+
+## 세줄요약
+
+SR+MA (29편, PRISMA 2020, PROSPERO 등록): (1) 보강 없이 상악동저를 관통한 임플란트, (2) 상악동거상술 중 슈나이더 막 (Schneiderian Membrane) 천공 — 두 가지 천공 시나리오 분석.
+
+상악동저 관통 임플란트 실패율 2.1% (역사적 기계가공 임플란트 제외 시 1.0%); 막 천공 vs 비천공 상악동거상술 임플란트 실패 오즈비 (Odds Ratio, OR) 1.347 (95% CI 0.857–2.117, p=0.197, 비유의) — 6,860개 임플란트, I²=36.1%.
+
+적절히 관리된 두 천공 시나리오 모두 임플란트 실패위험 유의 상승 없음; 천공 크기 효과는 메타분석 불가 — 대형 파열의 위험 신호는 미해결.
 
 ## Summary
 

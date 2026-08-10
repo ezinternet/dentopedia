@@ -6,20 +6,28 @@ date: 2019-06-01
 doi: 10.1016/j.pdpdt.2019.04.023
 source: armand-2019-comparison-root-canal-disinfection.md
 category: [endodontics/cold-plasma]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/armand-2019-comparison-root-canal-disinfection.pdf
 pdf_filename: armand-2019-comparison-root-canal-disinfection.pdf
 source_collection: external
 tags: [cold-plasma, PDT, photodynamic-therapy, E-faecalis, root-canal-disinfection, biofilm, endodontics]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In vitro study (n=100 extracted teeth, 1-week E. faecalis biofilm) showing He/O₂ cold plasma jet achieves the greatest CFU reduction (~5.2 log; log 5.39→0.2) and complete SEM-confirmed biofilm elimination — outperforming PDT and pure He plasma — in the first direct head-to-head comparison of these modalities.
+In vitro study (n=100 extracted single-rooted teeth, 1-week E. faecalis ATCC 29212 biofilm) performing the first direct head-to-head comparison of cold plasma jet (He and He/O₂) versus photodynamic therapy (PDT) for root canal disinfection.
 
-## 한줄요약
+He/O₂ plasma jet (8 min) achieved the greatest CFU reduction (~5.2 log; from log 5.39 to 0.2) with SEM-confirmed complete biofilm elimination and obliterated dentinal tubule openings — outperforming PDT (ranked second) and pure He plasma (ranked third), all significantly better than control.
 
-시험관 연구(n=100)에서 He/O₂ 냉플라즈마가 PDT 및 He 플라즈마보다 E. faecalis 바이오필름 제거 효과가 우수했으며(CFU log 5.39→0.2), SEM상 완전한 바이오필름 소실을 최초로 직접 비교·확인했다.
+The established efficacy ranking (He/O₂ > PDT > He plasma) and evidence of dentinal tubule penetration position He/O₂ plasma as a strong adjunct disinfection candidate for complex root canal anatomy where liquid photosensitiser distribution may be uneven.
+
+## 세줄요약
+
+발치 단근 100개(1주 E. faecalis 바이오필름) in vitro 연구 — 냉 플라즈마 제트(He, He/O₂) vs 광역동치료(PDT) 근관 소독 최초 직접 비교.
+
+He/O₂ 플라즈마(8분)가 CFU 약 5.2 log 감소(log 5.39→0.2), SEM상 완전한 바이오필름 소실·상아세관 개구부 폐쇄 — PDT(2위)·순수 He 플라즈마(3위) 모두 대조군 대비 유의한 효과.
+
+He/O₂ > PDT > He 플라즈마의 항균력 순위와 상아세관 침투 근거는 복잡한 근관 해부에서 액체 광감작제 분포가 고르지 않을 때 He/O₂ 플라즈마를 유력한 보조 소독법으로 뒷받침한다.
 
 ## Summary
 

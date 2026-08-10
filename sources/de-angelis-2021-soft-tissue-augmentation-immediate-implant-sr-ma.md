@@ -13,13 +13,21 @@ source_collection: external
 
 This SR+MA provides the key quantitative pooled estimates for SCTG benefit (MBML, FSTT, MBL) during IIPP — critical numbers missing from the narrative summaries in [[wiki/immediate-implant/type-1a-immediate-placement-immediate-loading-decision]] and [[wiki/immediate-implant/immediate-implant-soft-tissue-gap-grafting-material-choice]]. The WMD figures (MBML 0.54 mm, FSTT 0.79 mm, MBL 0.13 mm) are benchmarks for deciding when SCTG is mandatory at the time of immediate implant placement.
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 7 studies (n=272) shows SCTG at IIPP significantly reduces mid-buccal mucosal recession (WMD 0.54 mm), increases facial soft tissue thickness (WMD 0.79 mm), and reduces marginal bone loss (WMD 0.13 mm) at 12 months versus no graft.
+SR+MA (7 studies, n=272, PROSPERO CRD42020181407) of simultaneous SCTG vs no graft at immediate implant placement with provisionalization (IIPP) in the esthetic zone; all studies ≤12-month follow-up.
 
-## 한줄요약
+SCTG significantly improved all three pooled outcomes vs no-graft: mid-buccal mucosal recession reduced by WMD 0.54 mm (95% CI 0.33–0.75, I²=16%), facial soft-tissue thickness increased by WMD 0.79 mm (95% CI 0.37–1.22), and marginal bone loss reduced by WMD 0.13 mm (95% CI 0.07–0.18, I²=0%).
 
-즉시임플란트+즉시임시치아(IIPP) 시 결합조직이식(SCTG) 동시 시행은 12개월 시점에서 협측점막퇴축 0.54 mm 감소, 연조직두께 0.79 mm 증가, 변연골소실 0.13 mm 감소 효과를 보인 SR+MA (7개 연구, n=272).
+These WMD benchmarks confirm that SCTG at IIPP protects not only soft tissue but also marginal bone; the evidence base is limited by short follow-up (≤12 months) and high risk of bias in 3 of 4 included RCTs.
+
+## 세줄요약
+
+SR+MA(7편, n=272, PROSPERO CRD42020181407): 즉시식립+즉시임시수복(IIPP) 시 결합조직이식(SCTG) 동시 시행 vs 무이식 비교, 최대 12개월 추적.
+
+SCTG군이 모든 풀링 지표에서 유의 우월: 협측 점막 퇴축 WMD 0.54 mm 감소(I²=16%), 협측 연조직 두께 WMD 0.79 mm 증가, 변연골 손실 WMD 0.13 mm 감소(I²=0%).
+
+이 WMD 수치는 SCTG가 연조직뿐 아니라 변연골도 보호함을 정량화하는 기준치이며, 12개월 이내 단기 추적 및 포함 RCT 3편의 높은 비뚤림 위험이 근거의 주요 한계.
 
 ## 1. Document Information
 

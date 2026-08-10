@@ -6,7 +6,7 @@ date: 2023-09-26
 doi: 10.1111/clr.14150
 source: stefanini-2023-soft-tissue-augmentation-peri-implant-sr.md
 category: [implants/soft-tissue]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/stefanini-2023-soft-tissue-augmentation-peri-implant-sr.pdf
 pdf_filename: stefanini-2023-soft-tissue-augmentation-peri-implant-sr.pdf
 source_collection: external
@@ -20,13 +20,21 @@ relations:
     target: peri-implant-soft-tissue-dehiscence-prevention
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review of 15 prospective studies (≥36-month follow-up, up to 10 yr) finds that soft tissue augmentation at implants yields survival rates of 90.9–100%, stable soft tissue margins (CTG: −0.06 mm apical shift / 4.8 yr), maintained KMW and MT gains, and stable MBL (≤0.6 mm loss), while non-augmented controls exhibit progressive soft tissue recession averaging 0.96 mm over 6.2 years.
+Systematic review of 15 prospective studies (≥36-month follow-up, up to 10 years) comparing soft tissue augmentation (STA) vs. non-augmented controls at implant sites.
 
-## 한줄요약
+CTG-bilaminar techniques yielded only −0.06 mm mean soft-tissue margin apical shift over 4.8 years (survival 90.9–100%, MBL ≤0.6 mm), while non-augmented controls lost 0.96 mm on average; the 10-year Seyssens cohort showed 100% recession ≥1 mm without CTG vs. 0% with CTG.
 
-15편 전향적 연구(추적 ≥36개월, 최장 10년) 체계적 고찰: CTG 기반 이중층 연조직 증대 후 생존율 90.9–100%, 각화점막폭·점막두께 유지·증가, 변연골소실 ≤0.6 mm로 안정적이며, 비증대 대조군은 평균 6.2년간 0.96 mm 점막퇴축 발생.
+Early STA gains in KMW and mucosal thickness are durable at 3–10 years, confirming medium-to-long-term stability; qualitative synthesis only — heterogeneity precluded meta-analysis.
+
+## 세줄요약
+
+임플란트 주위 연조직 증대(STA) 효과를 추적 ≥36개월 전향적 연구 15편으로 체계적으로 고찰.
+
+CTG 이층술은 4.8년간 변연 위치 평균 −0.06 mm에 그쳤고(생존율 90.9–100%, MBL ≤0.6 mm), 비증대 대조군은 6.2년 평균 0.96 mm 퇴축; 10년 코호트에서 CTG 비시행 시 100% ≥1 mm 퇴축, CTG 시행 시 0%.
+
+초기에 얻은 각화점막폭·점막두께 이득은 3–10년까지 안정적으로 유지됨 — 이질성으로 메타분석 불가, 정성적 종합만 수행.
 
 ## Summary
 
@@ -76,7 +84,7 @@ STA was performed with either an apically positioned flap (APF) combined with a 
 
 ## Related Papers
 
-- [[implants/thoma-2018-soft-tissue-augmentation-periimplant-health]] — short-term network MA establishing STA efficacy; this SR extends to medium/long term
-- [[implants/thoma-2021-soft-tissue-management-implants-eao-consensus]] — EAO 2021 consensus on peri-implant soft tissue management, clinical guidance context
+- [[implants/soft-tissue/thoma-2018-soft-tissue-augmentation-periimplant-health]] — short-term network MA establishing STA efficacy; this SR extends to medium/long term
+- [[implants/soft-tissue/thoma-2021-soft-tissue-management-implants-eao-consensus]] — EAO 2021 consensus on peri-implant soft tissue management, clinical guidance context
 - [[overviews/peri-implant-soft-tissue-dehiscence-prevention]] — overview on soft tissue dehiscence prevention strategies, to which this SR contributes long-term outcome data
 - [[implants/peri-implantitis/roccuzzo-2025-keratinized-mucosa-peri-implant-20year-mandible]] — 20-year keratinized mucosa data extending the long-term perspective

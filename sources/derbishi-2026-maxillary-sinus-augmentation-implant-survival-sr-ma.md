@@ -13,13 +13,21 @@ source_collection: external
 
 상악동거상술 전반(측방+경치조)의 임플란트 생존율 baseline을 갱신하기 위해 인제스트. short-implant 대안 논쟁([[sinus-lift/lateral/toledano-2022-short-versus-standard-implants-sinus]], [[sinus-lift/lateral/mester-2023-short-vs-standard-implants-sinus-floor-elevation-sr-ma]])의 비교 기준이 되는 "sinus augmentation 자체의 생존율 >97%"를 정량 확인하되, crestal approach의 낮은 실패율은 환자 선택 교란임을 명시.
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review + meta-analysis concluding maxillary sinus floor augmentation is highly reliable with long-term implant survival exceeding 97%; the crestal approach showed fewer failures but likely confounded by patient selection, and overall certainty was low.
+SR+MA of studies on implant survival after maxillary sinus floor augmentation, comparing crestal vs lateral approaches.
 
-## 한줄요약
+Long-term implant survival after sinus augmentation exceeded 97%; the crestal approach showed fewer implant failures, though this comparison was likely confounded by patient selection bias.
 
-체계적 문헌고찰+메타분석 — 상악동저거상술은 장기 임플란트 생존율 97% 초과로 신뢰성 높음; 경치조(crestal) 접근의 낮은 실패율은 환자 선택 교란 가능성, 근거 확실성은 낮음.
+The >97% survival benchmark confirms sinus augmentation as highly reliable, but overall certainty of evidence was rated low, and methodologically rigorous standardized-reporting trials are needed.
+
+## 세줄요약
+
+상악동저거상술 후 임플란트 생존율을 분석한 SR+MA; 경치조(crestal) vs 측방(lateral) 접근 비교 포함.
+
+장기 임플란트 생존율 97% 초과; 경치조 접근의 낮은 실패율은 환자 선택 교란 가능성 명시.
+
+생존율 >97%로 상악동거상술의 신뢰성 확인되나, 근거 확실성은 낮음(GRADE low); 표준화된 무작위 대조시험 필요.
 
 ## 1. Document Information
 - Cureus 2026, published 2026-02-08. Open access (CC BY 4.0).

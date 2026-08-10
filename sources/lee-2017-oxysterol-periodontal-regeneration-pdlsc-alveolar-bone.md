@@ -9,9 +9,23 @@ pdf_filename: lee-2017-oxysterol-periodontal-regeneration-pdlsc-alveolar-bone.pd
 source_collection: external
 ---
 
+## Three-line Summary
+In-vitro (human PDLSC) and in-vivo (rat alveolar bone defect) experimental study: equimolar oxysterol combination (22(S)- and 20(S)-hydroxycholesterol) drives PDLSC osteogenic differentiation and socket bone healing equivalent to rhBMP-2.
+
+SS oxysterols induced LXRα/β and Hedgehog (Smo/Gli1) signaling with reciprocal cross-talk; mutual LXR↔Hh interaction shown via siRNA knockdown and Smo inhibition; in-vivo: new bone volume (μCT) qualitatively similar to BMP-2, higher than control.
+
+Clinical implication: natural oxysterols represent a cost-effective, naturally occurring alternative to rhBMP-2 for osteoinductive regeneration, lacking BMP-2's safety concerns (ectopic bone, inflammation, malignancy risk); mechanism-based candidate for biologics-enhanced periodontal and alveolar bone regeneration.
+
+## 세줄요약
+In-vitro (인간 PDLSC) + in-vivo (쥐 발치와 골결손) 실험 연구: 등몰 oxysterol 조합(22(S)·20(S)-hydroxycholesterol) → PDLSC osteogenesis와 발치와 골재생을 rhBMP-2 수준으로 유도.
+
+SS oxysterol은 LXRα/β·Hedgehog(Smo/Gli1) 신호를 활성화; LXR↔Hh 상호작용을 siRNA 녹다운·Smo 억제로 입증; in-vivo: μCT 신생골 용량 BMP-2와 정성적 유사, 대조군보다 높음.
+
+임상적 의미: 천연 oxysterol은 BMP-2의 안전 우려(이소성 골, 염증, 악성화 위험) 없는 cost-effective한 osteoinductive 분자 대안; 치주·발치와 골재생의 biologics 보강을 위한 기전 기반 후보.
+
 ## Why Ingested
 
-기존 wiki의 골내결손/치주재생 근거는 술식·이식재 중심이고 (예: [[periodontics/stavropoulos-2021-periodontal-regeneration-intrabony-nma]]), 재생을 구동하는 osteoinductive factor(BMP-2 대안)의 분자생물학적 근거는 비어 있었다. 본 in-vitro PDLSC + in-vivo rat alveolar bone defect 연구는 천연 oxysterol (SS) 조합이 LXR↔Hedgehog cross-talk를 통해 PDLSC osteogenesis와 발치와 골재생을 BMP-2 수준으로 유도함을 보여, BMP-2 부작용(이소성 골형성·염증·발암 우려) 없는 osteoinductive 분자 후보로 [[bone-biology/tokavanich-2025-control-alveolar-bone-development]]·[[bone-regeneration/ridge-preservation/suarez-lopez-del-amo-2022-efficacy-biologics-alveolar-ridge]]의 biologics 논의를 분자기전 측면에서 보강한다.
+기존 wiki의 골내결손/치주재생 근거는 술식·이식재 중심이고 (예: [[periodontics/host-modulation/stavropoulos-2021-periodontal-regeneration-intrabony-nma]]), 재생을 구동하는 osteoinductive factor(BMP-2 대안)의 분자생물학적 근거는 비어 있었다. 본 in-vitro PDLSC + in-vivo rat alveolar bone defect 연구는 천연 oxysterol (SS) 조합이 LXR↔Hedgehog cross-talk를 통해 PDLSC osteogenesis와 발치와 골재생을 BMP-2 수준으로 유도함을 보여, BMP-2 부작용(이소성 골형성·염증·발암 우려) 없는 osteoinductive 분자 후보로 [[bone-biology/tokavanich-2025-control-alveolar-bone-development]]·[[bone-regeneration/ridge-preservation/suarez-lopez-del-amo-2022-efficacy-biologics-alveolar-ridge]]의 biologics 논의를 분자기전 측면에서 보강한다.
 
 ## 1. Document Information
 

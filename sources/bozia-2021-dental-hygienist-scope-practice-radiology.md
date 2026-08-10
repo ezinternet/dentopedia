@@ -17,11 +17,21 @@ text_filename: bozia-2021-dental-hygienist-scope-practice-radiology.txt
 
 [[practice-management/ha-2023-dentist-issues-constitutional-court-decisions]] maps how Korean constitutional jurisprudence draws the boundaries of the dental scope of practice; this paper supplies the international comparator — a worldwide survey of how 26 countries legally delegate (or withhold) oral radiography from the dental hygienist (DH). It is a concrete case study of task redistribution / scope-of-practice regulation, the same legal axis the Korean review examines, and shows how widely a single delegated task (taking/indicating/diagnosing radiographs, owning equipment) varies by jurisdiction — even within a single country by state/province.
 
-## One-line Summary
-Worldwide cross-sectional survey (27-item online questionnaire, 26/31 IFDH/EDHF member countries, 84% response): 78% of countries legally let dental hygienists take intraoral radiographs but 42% require a dentist referral first, 46% bar DHs from radiographic diagnosis, and only 27% let DHs independently own radiographic equipment — scope of practice varies by country and sometimes by state/province.
+## Three-line Summary
 
-## 한줄요약
-전 세계 단면조사 (27문항 온라인 설문, IFDH/EDHF 회원 31개국 중 26개국 응답, 응답률 84%): 78%의 국가에서 치과위생사(Dental Hygienist, DH)가 구내 방사선촬영을 합법적으로 시행하나 42%는 치과의사 의뢰가 선행돼야 하고, 46%는 DH의 방사선 진단을 금지하며, 27%만 DH 단독 장비 소유를 허용 — 업무범위(scope of practice)는 국가별·때로 주/도별로 상이.
+Worldwide cross-sectional survey (27-item online questionnaire; 26/31 IFDH/EDHF member countries; 84% response rate) assessing the legal scope of practice of dental hygienists (DHs) specifically in oral radiology across four competencies: taking, indicating, diagnosing, and owning radiographic equipment.
+
+78% of countries allow DHs to take intraoral radiographs, but 42% require prior dentist referral; 46% prohibit DH radiographic diagnosis; only 27% permit independent equipment ownership; only 5 countries (19%) grant full competency in all four tasks.
+
+Scope of practice varies markedly by country and sometimes within a country by state/province; DHs not affiliated with IFDH/EDHF (large Asian/South American populations) were excluded, limiting the global picture; authors call for a common international framework.
+
+## 세줄요약
+
+전 세계 단면 설문(27문항 온라인; IFDH/EDHF 회원 31개국 중 26개국 응답; 84%): 치과위생사(Dental Hygienist, DH)의 구강방사선 촬영·의뢰·진단·장비 소유 4가지 법적 업무범위 평가.
+
+78%의 국가에서 구내 방사선촬영 허용; 그 중 42%는 치과의사 사전 의뢰 필수; 46%는 DH 방사선 진단 금지; 27%만 장비 독립 소유 허용; 4가지 전부 허용 국가는 5개국(19%)에 불과.
+
+업무범위는 국가별·때로 주/도별로 큰 차이; IFDH/EDHF 비가입 국가(아시아·남미 인구) 제외로 전 세계적 대표성 제한; 국제 공통 프레임워크 수립 필요.
 
 ## 1. Document Information
 - **Title**: Worldwide Review of Dental Hygienists' Extended Scope of Practice in Radiology

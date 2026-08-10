@@ -13,13 +13,21 @@ source_collection: external
 
 플라즈마 배치(2026-05-31)에서 골유착·항균이 아닌 **보철 시멘트 유지력** 축. 비열 플라즈마가 지르코니아 크라운–티타늄 지대주 유지력을 높이는지, 그리고 그 효과가 열순환(aging)·프라이머 병용에서 어떻게 달라지는지 검증. [[wiki/implants/surface/plasma/wagner-2022-cold-atmospheric-plasma-implant-materials]]의 지르코니아 젖음성 결과와 연결.
 
-## One-line Summary
+## Three-line Summary
 
-In vitro study (24 zirconia blocks for surface free energy; 120 zirconia-crown/Ti-abutment assemblies for retentive strength, self-adhesive resin cement): non-thermal atmospheric plasma (NTP) raised zirconia surface free energy and, without thermocycling, increased retentive strength vs control — but after 5000-cycle thermocycling the NTP-vs-control difference disappeared, and combining NTP with silane/primer gave significantly lower retention than silane/primer alone.
+In vitro study of 120 zirconia-crown/titanium-abutment assemblies cemented with self-adhesive resin cement (G-CEM LinkAce), testing non-thermal atmospheric pressure plasma (NTP) alone and in combination with silane or primer, with and without 5,000-cycle thermocycling.
 
-## 한줄요약
+NTP significantly raised zirconia surface free energy and increased retentive strength vs control without thermocycling (p<0.05), but this benefit disappeared after 5,000 thermal cycles; moreover, NTP combined with silane/primer produced significantly lower retention than silane/primer alone after aging (p<0.05).
 
-in vitro(표면자유에너지용 지르코니아 24블록; 유지력용 지르코니아크라운-Ti지대주 120쌍, 자가접착 레진시멘트): 비열 대기압 플라즈마(NTP)는 지르코니아 표면자유에너지를 높이고 비열순환 조건에서 유지력을 대조군보다 증가 — 그러나 5000회 열순환 후에는 NTP-대조 차이가 사라졌고, NTP+실란/프라이머 병용은 실란/프라이머 단독보다 유지력이 유의하게 낮았다.
+Clinically, NTP alone does not provide durable retention improvement for zirconia-crown cementation, and combining NTP with silane or primer may be detrimental after aging — plasma pretreatment should not replace established surface priming protocols.
+
+## 세줄요약
+
+자가접착 레진시멘트(G-CEM LinkAce)를 이용한 지르코니아 크라운-티타늄 지대주 120쌍 in vitro 연구: 비열 대기압 플라즈마(NTP) 단독 및 실란/프라이머 병용, 열순환(5,000회) 조건 포함.
+
+NTP는 열순환 전 지르코니아 표면자유에너지와 유지력을 대조군 대비 유의하게 향상시켰으나(p<0.05), 5,000회 열순환 후에는 그 차이가 소실; NTP+실란/프라이머 병용은 열순환 후 실란/프라이머 단독보다 유지력이 유의하게 낮았다(p<0.05).
+
+NTP 단독으로는 시효 후 지속적인 유지력 향상이 없고, 실란/프라이머와 병용 시 오히려 유지력이 감소할 수 있으므로, 기존 표면 처리 프로토콜을 대체하지 말아야 한다.
 
 ## 1. Document Information
 

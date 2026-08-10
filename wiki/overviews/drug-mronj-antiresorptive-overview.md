@@ -15,12 +15,12 @@ source_papers:
   - drug/iwata-2025-amoxicillin-duration-mronj-extraction-japan-retrospective
   - drug/kwon-2023-mronj-position-papers-what-changed
   - drug/jkda-2021-60-1-004
-  - implants/kim-2026-dental-implant-osteoporosis-osteosclerosis
+  - implants/survival/kim-2026-dental-implant-osteoporosis-osteosclerosis
   - drug/moreno-rabie-2023-3d-mronj-risk-oncologic-tooth-extraction
   - drug/koth-2017-clinical-radiographic-haematological-bisphosphonate-therapy
   - drug/mronj/kim-2025-medication-related-osteonecrosis-jaw-evidence
   - drug/mronj/cho-2026-clinical-characteristics-osteonecrosis-jaw-related
-confidence: synthesis
+evidence_level: synthesis
 source: synthesis
 agenda: agenda/2026-05-27_drug-overview-split.md
 relations:
@@ -46,12 +46,21 @@ relations:
 > - 임플란트: 항흡수제 시작 **후** 식립 시 실패율 23%, 실패의 83%가 MRONJ (Li 2024 SR, 445개). 평균 잠복기 34개월, 후방 하악이 최다 부위 → 신규 식립은 매우 신중·case-by-case.
 > - 한국 종설 anchor: Choi/JKDA 2022 (BMA 환자 implant 결정 4단계 framework, cut-off RCT 부재), Kim 2026 (골다공증 경구 BP는 MRONJ 저위험·임플란트 비금기이나 장기 생존율 82.6–94.1%로 하락 — MRONJ 저위험이 장기 성공을 보장하지 않음).
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis of papers (SR, position papers, cohorts, narrative) on MRONJ and antiresorptive-drug dental management. Core thesis: the first prevention strategy is dental clearance BEFORE starting antiresorptive therapy; once started, avoid extractions, use minimally invasive technique, antibiotic prophylaxis, and regular follow-up. Clinical takeaway: denosumab risk is driven by cumulative dose (MRONJ surges at ≥32 doses), AAOMS 2022 expands surgical treatment to all stages and drops the drug-holiday recommendation, the Korean 2025 position statement codifies drug-specific holidays, and implants placed after antiresorptive initiation carry ~23% failure (83% MRONJ-related) so new placement must be case-by-case.
+Synthesis of 14 papers (SR, position papers, cohorts, narrative) on MRONJ/antiresorptive dental management: dental clearance BEFORE starting antiresorptive therapy is the most effective prevention (Baghalipour 2025 4-tier framework); denosumab risk is cumulative-dose-driven — MRONJ 31.2% at ≥32 doses in breast-cancer bone metastasis cohort (Yokoo 2025, ROC AUC 0.83); extraction history OR 4.40, each additional dose adds 4.7% odds; AAOMS 2022 expands surgical treatment to all stages (1–3) and drops the drug-holiday and CTX-testing recommendations (Kwon 2023).
 
-## 한줄요약
-약물관련악골괴사 (Medication-Related Osteonecrosis of the Jaw, MRONJ) 예방의 1차 전략은 항흡수제 시작 **전** 치과 클리어런스. 시작 후에는 발치 회피·최소침습·항생제 prophylaxis·정기 추적. Denosumab은 누적 dose가 위험 지표 (≥32 doses에서 위험 급증).
+Korean 2025 position statement (Kim 2025, 5 societies) codifies drug-specific pre-procedural holidays: oral BP extended use → 2-month holiday; IV zoledronate → 6–12-month holiday; denosumab → 3–4 months after last injection; 8-week diagnostic criterion relaxed; Korean national cohort (n=600,000) MRONJ incidence: oral BP 0.10%, denosumab 60 mg 0–0.18%; Xgeva (high-dose denosumab) vs Prolia (60 mg) treatment success 53.8% vs 85.0% (p=0.027; Cho 2026, n=178).
+
+Implants placed after antiresorptive initiation carry 23% failure (83% MRONJ-related; Li 2024 SR, 445 implants, mean latency 34 months, posterior mandible most common site) — new implant placement requires case-by-case judgment; pre-extraction antibiotic prophylaxis: single preoperative amoxicillin 500 mg = 3-day course for low-risk patients (Iwata 2025, n=160) — minimizes AMR; 1st-line post-extraction analgesia preference is acetaminophen over NSAIDs (avoid NSAID/COX-2 inhibitors in all antiresorptive patients — osseointegration/healing risk).
+
+## 세줄요약
+
+약물관련악골괴사(Medication-Related Osteonecrosis of the Jaw, MRONJ) 14편 통합: 예방 1차 전략은 항흡수제 시작 전 치과 클리어런스(Baghalipour 2025 4단계 프레임워크); 데노수맙(Denosumab) 위험은 누적 용량 의존 — 유방암 골전이 코호트 ≥32회 시 MRONJ 31.2%(Yokoo 2025 ROC AUC 0.83); 발치력 OR 4.40; 미국구강악안면외과학회(AAOMS) 2022는 수술 치료를 전 병기로 확대, 약물 중단(drug holiday)·CTX 검사 권고 삭제(Kwon 2023).
+
+한국 2025 포지션 스테이트먼트(Kim 2025, 5개 학회): 경구 비스포스포네이트(Bisphosphonate, BP) 장기 사용 2개월·정맥 졸레드로네이트(zoledronate) 6–12개월·데노수맙 마지막 주사 3–4개월 후 침습 시술; 한국 전국 코호트(60만명) 경구 BP 0.10%·데노수맙 60mg 0–0.18%; Xgeva vs Prolia 치료 성공률 53.8% vs 85.0%(p=0.027; Cho 2026 n=178).
+
+항흡수제 시작 후 식립 임플란트 실패율 23%, 실패의 83%가 MRONJ(Li 2024 SR 445개, 평균 잠복기 34개월, 후방 하악 최다) — 신규 식립은 case-by-case; 발치 전 예방적 항생제: 저위험군 단일 술전 아목시실린 500mg = 3일 코스와 동등(Iwata 2025 n=160); 술후 진통은 아세트아미노펜 우선, NSAID/COX-2 억제제 회피(골유착·치유 저해).
 
 ---
 
@@ -76,18 +85,18 @@ Synthesis of papers (SR, position papers, cohorts, narrative) on MRONJ and antir
 | **Denosumab (Xgeva 120mg)** | RANKL Ab | 암 | 높음 (누적 dose ≥32에서 31.2%) |
 | **Denosumab (Prolia 60mg q6m)** | RANKL Ab | 골다공증 | 중간 |
 | **Alendronate, Risedronate (경구)** | BP | 골다공증 | 낮음 (장기 사용 시 상승) |
-| **Romosozumab** | Sclerostin Ab | 골다공증 | [근거강함] AAOMS 2022에 신규 추가, 보고 증가 |
-| **국소 BP 도포** | — | 임플란트 표면 | [claude해석] 골유착 촉진 가능성, MRONJ 위험 없음 |
+| **Romosozumab** | Sclerostin Ab | 골다공증 | [확인] AAOMS 2022에 신규 추가, 보고 증가 |
+| **국소 BP 도포** | — | 임플란트 표면 | [미검증] 골유착 촉진 가능성, MRONJ 위험 없음 |
 
-[근거강함] Yokoo 2025 — 유방암 골전이 환자 324명, Denosumab Xgeva 120mg q4w. MRONJ 31.2%, ROC-derived threshold ≥32 누적 dose (AUC 0.83). 발치력 OR 4.40. **dose 1회 추가마다 MRONJ odds 4.7% 증가**.
+[확인] Yokoo 2025 — 유방암 골전이 환자 324명, Denosumab Xgeva 120mg q4w. MRONJ 31.2%, ROC-derived threshold ≥32 누적 dose (AUC 0.83). 발치력 OR 4.40. **dose 1회 추가마다 MRONJ odds 4.7% 증가**.
 
-[근거강함] Jung 2022 — 골다공증 환자 98명 5년 추적. MRONJ 4.1%, Denosumab 단독 vs BP+Denosumab 차이 없음. **류마티스 관절염이 유일한 유의 위험인자**. 발치 없이도 만성 치주염만으로 MRONJ 발생 가능.
+[확인] Jung 2022 — 골다공증 환자 98명 5년 추적. MRONJ 4.1%, Denosumab 단독 vs BP+Denosumab 차이 없음. **류마티스 관절염이 유일한 유의 위험인자**. 발치 없이도 만성 치주염만으로 MRONJ 발생 가능.
 
 ### Radiographic and Haematological Monitoring Signals
 
-[중간 근거] [[drug/koth-2017-clinical-radiographic-haematological-bisphosphonate-therapy]] — Retrospective record review of bisphosphonate-treated patients comparing BRONJ vs non-BRONJ groups: **alkaline phosphatase (ALP) and ESR were significantly elevated in the BRONJ group**, and BRONJ was associated with anaemia, leukocytosis, smoking, and tooth extraction.  Radiographic signs significantly more prevalent in BRONJ on panoramic/periapical imaging: persisting alveolar socket, osteolysis, bone sclerosis, and narrowing of the mandibular canal.  CTX did **not** differ significantly between groups — consistent with AAOMS 2022's exclusion of CTX from risk stratification (see §3 above).
+[중간 근거] [[drug/mronj/koth-2017-clinical-radiographic-haematological-bisphosphonate-therapy]] — Retrospective record review of bisphosphonate-treated patients comparing BRONJ vs non-BRONJ groups: **alkaline phosphatase (ALP) and ESR were significantly elevated in the BRONJ group**, and BRONJ was associated with anaemia, leukocytosis, smoking, and tooth extraction.  Radiographic signs significantly more prevalent in BRONJ on panoramic/periapical imaging: persisting alveolar socket, osteolysis, bone sclerosis, and narrowing of the mandibular canal.  CTX did **not** differ significantly between groups — consistent with AAOMS 2022's exclusion of CTX from risk stratification (see §3 above).
 
-[claude해석] 초록 기반 추출(전문 비공개)로 표본 크기·통계 세부가 불명 — 효과 크기 해석 불가. 그러나 "ALP·ESR 상승 + 잔존 발치와·골경화·골용해·하악관 협착"이 BRONJ를 감별하는 panoramic 신호라는 패턴은 Moreno Rabie 2023의 CBCT 소견(오steosclerosis, sequestrum)과 방향이 일치하며, CTX 무용론은 Ruggiero 2022 position paper와 부합.
+[미검증] 초록 기반 추출(전문 비공개)로 표본 크기·통계 세부가 불명 — 효과 크기 해석 불가. 그러나 "ALP·ESR 상승 + 잔존 발치와·골경화·골용해·하악관 협착"이 BRONJ를 감별하는 panoramic 신호라는 패턴은 Moreno Rabie 2023의 CBCT 소견(오steosclerosis, sequestrum)과 방향이 일치하며, CTX 무용론은 Ruggiero 2022 position paper와 부합.
 
 ---
 
@@ -112,16 +121,16 @@ Synthesis of papers (SR, position papers, cohorts, narrative) on MRONJ and antir
 | **2** | 노출 골 + 통증·감염 | 항생제 + 표재성 debridement |
 | **3** | 노출 골 + 통증·감염 + 병적골절·구강외피누공·하악연 침범 등 | 수술적 절제 + 항생제 + 재건 |
 
-[근거강함] Ruggiero AAOMS 2022 update — staging 정의 변경 없음. Drug holiday는 합의 없음(controversial). **CTX 검사는 위험 평가에서 제외됨**(이전 가이드에 있었으나 근거 부족).
+[확인] Ruggiero AAOMS 2022 update — staging 정의 변경 없음. Drug holiday는 합의 없음(controversial). **CTX 검사는 위험 평가에서 제외됨**(이전 가이드에 있었으나 근거 부족).
 
-[합의수준] Kwon 2023 (대한치과의사협회지 종설) — AAOMS position paper 변천을 BRONJ(2007) → MRONJ(2014) → 2022 update로 정리하며 임상 핵심 3가지 변경을 짚음:
-1. **정의 확대**: 면역조절제(Romosozumab 등)를 잠재적 ONJ 관련 약물로 추가. [claude해석] Romosozumab은 sclerostin inhibitor(골형성 촉진)로 항흡수제 class가 아니므로, class 귀속이 아니라 관찰된 ONJ 연관성에 근거한 추가.
+[확인] Kwon 2023 (대한치과의사협회지 종설) — AAOMS position paper 변천을 BRONJ(2007) → MRONJ(2014) → 2022 update로 정리하며 임상 핵심 3가지 변경을 짚음:
+1. **정의 확대**: 면역조절제(Romosozumab 등)를 잠재적 ONJ 관련 약물로 추가. [미검증] Romosozumab은 sclerostin inhibitor(골형성 촉진)로 항흡수제 class가 아니므로, class 귀속이 아니라 관찰된 ONJ 연관성에 근거한 추가.
 2. **수술적 치료 확대**: operative therapy를 진행성 병변에 한정하던 것에서 **전 stage(1·2·3)** 적응으로 전환.
 3. **Drug holiday 삭제**: 수술 전 drug holiday로 MRONJ를 예방한다는 권고가 2022 paper에서 **더 이상 지지되지 않음**. 위 §3 staging의 Stage 1 관리가 "추적"에서 보존적 수술까지 포함하도록 넓어진 것은 이 변경의 반영.
 
-[합의수준] **Kim 2025 (한국 5개 학회 공동 포지션 스테이트먼트)** — AAOMS 2022의 "합의 없음" 입장을 보완해, 한국 전국 코호트 데이터를 기반으로 약제별 예방적 drug holiday를 구체화. 근거 기반: 한국 IV BP 타이밍 코호트에서 ibandronate는 투여 중단 ~90일부터, zoledronate는 6개월 이후부터 위험 하락, 유의 감소는 ≥12개월 후. 권장 drug holiday — 경구 BP(장기 사용·위험인자 있는 경우): 침습 시술 전 2개월; IV zoledronate: 6-12개월; Denosumab: 마지막 주사 3-4개월 후 시술(골흡수 표지자 하강기·6-9개월 반동 골절 위험 전). 고골절위험 Dmab 환자의 연장 holiday 시: raloxifene (SERM) 간격 채움 전략 제안. 모든 drug class에서 시술 후 6-8주는 재투여 유예. [제해석] Kim 2025의 drug holiday SR 자체는 RR 0.73(95% CI 0.51-1.06)으로 통계적 비유의 — 권장은 기전 추정 + 한국 코호트 기반이며 RCT 수준 근거는 아님.
+[확인] **Kim 2025 (한국 5개 학회 공동 포지션 스테이트먼트)** — AAOMS 2022의 "합의 없음" 입장을 보완해, 한국 전국 코호트 데이터를 기반으로 약제별 예방적 drug holiday를 구체화. 근거 기반: 한국 IV BP 타이밍 코호트에서 ibandronate는 투여 중단 ~90일부터, zoledronate는 6개월 이후부터 위험 하락, 유의 감소는 ≥12개월 후. 권장 drug holiday — 경구 BP(장기 사용·위험인자 있는 경우): 침습 시술 전 2개월; IV zoledronate: 6-12개월; Denosumab: 마지막 주사 3-4개월 후 시술(골흡수 표지자 하강기·6-9개월 반동 골절 위험 전). 고골절위험 Dmab 환자의 연장 holiday 시: raloxifene (SERM) 간격 채움 전략 제안. 모든 drug class에서 시술 후 6-8주는 재투여 유예. [제해석] Kim 2025의 drug holiday SR 자체는 RR 0.73(95% CI 0.51-1.06)으로 통계적 비유의 — 권장은 기전 추정 + 한국 코호트 기반이며 RCT 수준 근거는 아님.
 
-[합의수준] Kwon 2023 (JKDA 한국어 종설) — AAOMS position paper 변천(2007 BRONJ → 2014 MRONJ → 2022 update)을 한국 임상가용으로 정리. 2022 핵심 변경 3가지: ① 면역조절제(Romosozumab 등) 정의에 추가, ② 수술적 치료를 **전 stage(1·2·3)**로 확대(이전엔 진행기 한정), ③ 술전 drug holiday 지지 근거 삭제. 위 Ruggiero 2022 원문 변경점과 동일 — 한국어 1차 anchor로 활용.
+[확인] Kwon 2023 (JKDA 한국어 종설) — AAOMS position paper 변천(2007 BRONJ → 2014 MRONJ → 2022 update)을 한국 임상가용으로 정리. 2022 핵심 변경 3가지: ① 면역조절제(Romosozumab 등) 정의에 추가, ② 수술적 치료를 **전 stage(1·2·3)**로 확대(이전엔 진행기 한정), ③ 술전 drug holiday 지지 근거 삭제. 위 Ruggiero 2022 원문 변경점과 동일 — 한국어 1차 anchor로 활용.
 
 ---
 
@@ -153,17 +162,17 @@ Synthesis of papers (SR, position papers, cohorts, narrative) on MRONJ and antir
 
 ### Pre-extraction CBCT Risk Signals (Oncologic Patients)
 
-[중간 근거] [[drug/moreno-rabie-2023-3d-mronj-risk-oncologic-tooth-extraction]] — Retrospective case–control (n=47 oncologic ARD patients, 87 extractions; KU Leuven): pre-operative CBCT identified **sequestrum formation and periosteal reaction as exclusive or borderline markers of the study group** (sequestrum: ARD group only; periosteal reaction borderline p=0.051), suggesting these 3D signs may represent pre-clinical MRONJ before frank bone exposure.  MRONJ incidence was 38% per extraction site; **smoking (all current smokers developed MRONJ), multiple simultaneous extractions, and a shorter drug holiday** (MRONJ+ mean 7.8 mo vs MRONJ− 27.5 mo, p=0.021) were the strongest clinical risk factors.  Drug-type note: bisphosphonate use produced significantly more osteosclerosis on CBCT; denosumab showed no early radiographic warning signal, raising the risk of late detection.
+[중간 근거] [[drug/mronj/moreno-rabie-2023-3d-mronj-risk-oncologic-tooth-extraction]] — Retrospective case–control (n=47 oncologic ARD patients, 87 extractions; KU Leuven): pre-operative CBCT identified **sequestrum formation and periosteal reaction as exclusive or borderline markers of the study group** (sequestrum: ARD group only; periosteal reaction borderline p=0.051), suggesting these 3D signs may represent pre-clinical MRONJ before frank bone exposure.  MRONJ incidence was 38% per extraction site; **smoking (all current smokers developed MRONJ), multiple simultaneous extractions, and a shorter drug holiday** (MRONJ+ mean 7.8 mo vs MRONJ− 27.5 mo, p=0.021) were the strongest clinical risk factors.  Drug-type note: bisphosphonate use produced significantly more osteosclerosis on CBCT; denosumab showed no early radiographic warning signal, raising the risk of late detection.
 
-[claude해석] 종양학적 고용량 ARD 환자(n=47, 단일 기관)에 국한된 결과이며 골막반응 연관은 borderline(p=0.051)이고 다변량 회귀 없음 — 일반화 전 신중. 그러나 "발치 전 CBCT에서 격리골(sequestrum)·골막반응이 보이면 MRONJ 위험 고위험 신호로 재평가하라"는 메시지는 임상적으로 유의미하며, 경구 BP 저위험군이 아닌 암 적응증 고위험군에 적용.
+[미검증] 종양학적 고용량 ARD 환자(n=47, 단일 기관)에 국한된 결과이며 골막반응 연관은 borderline(p=0.051)이고 다변량 회귀 없음 — 일반화 전 신중. 그러나 "발치 전 CBCT에서 격리골(sequestrum)·골막반응이 보이면 MRONJ 위험 고위험 신호로 재평가하라"는 메시지는 임상적으로 유의미하며, 경구 BP 저위험군이 아닌 암 적응증 고위험군에 적용.
 
 ---
 
 ## 5. 항생제 Prophylaxis — Single dose vs 3-day Course
 
-[근거강함] Iwata 2025 — 일본 4기관 후향 연구, n=160 저용량 BP 환자 발치 시 Amoxicillin (AMPC) 투여. **단일 술전 500mg vs 3일 코스 MRONJ 발생률 동등**. → **단일 술전 dose로 충분**, 항생제 내성(Antimicrobial Resistance, AMR) 회피.
+[확인] Iwata 2025 — 일본 4기관 후향 연구, n=160 저용량 BP 환자 발치 시 Amoxicillin (AMPC) 투여. **단일 술전 500mg vs 3일 코스 MRONJ 발생률 동등**. → **단일 술전 dose로 충분**, 항생제 내성(Antimicrobial Resistance, AMR) 회피.
 
-[claude해석] 저용량 BP·골다공증 적응증에 한정된 결과. 고위험군(IV BP·Denosumab·암 적응증)에는 그대로 적용하기 어려움. 그래도 "긴 코스가 좋다"는 기존 관행에 반증.
+[미검증] 저용량 BP·골다공증 적응증에 한정된 결과. 고위험군(IV BP·Denosumab·암 적응증)에는 그대로 적용하기 어려움. 그래도 "긴 코스가 좋다"는 기존 관행에 반증.
 
 → 항생제 처방 일반 원칙은 [[drug-antibiotic-stewardship-overview]] 참조.
 
@@ -171,7 +180,7 @@ Synthesis of papers (SR, position papers, cohorts, narrative) on MRONJ and antir
 
 ## 6. 임플란트 — 항흡수제 시작 **후** 식립한 case
 
-[근거강함] Li 2024 SR — 8개 연구, 임플란트 445개, 환자 135명. **항흡수제 시작 후 임플란트 실패율 23%**. 실패의 **83%가 MRONJ로 인한 실패**. 평균 latency 34개월, **하악 후방부가 가장 흔한 위치**.
+[확인] Li 2024 SR — 8개 연구, 임플란트 445개, 환자 135명. **항흡수제 시작 후 임플란트 실패율 23%**. 실패의 **83%가 MRONJ로 인한 실패**. 평균 latency 34개월, **하악 후방부가 가장 흔한 위치**.
 
 → 항흡수제 복용 중 신규 임플란트는 매우 신중. 식립 가능 케이스에서도:
 - 처방의 협진 + 정보 동의
@@ -182,14 +191,14 @@ Synthesis of papers (SR, position papers, cohorts, narrative) on MRONJ and antir
 [narrative-review] Choi (JKDA 2022, 단국대 통합치의학) — "BMA(Bisphosphonate·Denosumab) 복용 환자에서 임플란트가 MRONJ trigger·위험인자인가"를 한국 임상 관점에서 정리. 핵심은 **이 분야 자체에 high-level evidence 부재** — 명확한 cut-off나 drug holiday RCT가 없음. 따라서 결정은 case-by-case이며, 4단계 framework 권고:
 1. **Pre-implant 평가**: BMA 종류·기간·dose·식립 부위·구강위생
 2. **위험-이익 trade-off**: IV BMA(zoledronate 등) > 경구 BMA(alendronate 등) 위험. 골밀도가 implant 안정성에 미치는 영향 동시 고려
-3. **Drug holiday 결정**: 근거 약함 — 환자·의뢰의와 협의 ([합의수준] AAOMS position paper와 부합, [claude해석] 양적 효과 증거 부족)
+3. **Drug holiday 결정**: 근거 약함 — 환자·의뢰의와 협의 ([확인] AAOMS position paper와 부합, [미검증] 양적 효과 증거 부족)
 4. **식립 후 maintenance**: early detection, peri-implantitis 예방
 
-[claude해석] §6의 Li 2024 SR(시작 **후** 식립 실패 23%, 83% MRONJ)이 정량 근거라면, Choi 2022는 그 결정 과정을 한국 임상 맥락으로 구조화한 의사결정 보완재. 두 편을 함께 보면 "수치 → 결정 절차"가 연결됨.
+[미검증] §6의 Li 2024 SR(시작 **후** 식립 실패 23%, 83% MRONJ)이 정량 근거라면, Choi 2022는 그 결정 과정을 한국 임상 맥락으로 구조화한 의사결정 보완재. 두 편을 함께 보면 "수치 → 결정 절차"가 연결됨.
 
-[합의수준] Kim 2026 (전남대 종설, 골다공증·골경화증 임플란트) — 경구 비스포스포네이트 복용 **골다공증** 환자에서 MRONJ 발생률은 매우 낮아 임플란트 절대 금기가 아니며, 일부 장기 추적에서는 BP가 오히려 주위 골소실을 줄였다고 보고. drug holiday(술전 3개월~술후 3–6개월)는 고용량 IV·스테로이드 병용 등 고위험 프로파일에 한정 — Ruggiero 2022(합의 없음)·Li 2024(IV/암 적응증 고위험)와 방향 일치. [claude해석] 단, 같은 종설이 osteoporosis 임플란트 **장기(5–10년) 생존율은 82.6–94.1%로 하락**한다고 정리하므로(약물 위험과 별개로 골질 자체 문제), MRONJ 저위험이 곧 장기 성공을 보장하지 않음 → 장기 추적은 필수. 정량 상세는 [[implants/kim-2026-dental-implant-osteoporosis-osteosclerosis]].
+[확인] Kim 2026 (전남대 종설, 골다공증·골경화증 임플란트) — 경구 비스포스포네이트 복용 **골다공증** 환자에서 MRONJ 발생률은 매우 낮아 임플란트 절대 금기가 아니며, 일부 장기 추적에서는 BP가 오히려 주위 골소실을 줄였다고 보고. drug holiday(술전 3개월~술후 3–6개월)는 고용량 IV·스테로이드 병용 등 고위험 프로파일에 한정 — Ruggiero 2022(합의 없음)·Li 2024(IV/암 적응증 고위험)와 방향 일치. [미검증] 단, 같은 종설이 osteoporosis 임플란트 **장기(5–10년) 생존율은 82.6–94.1%로 하락**한다고 정리하므로(약물 위험과 별개로 골질 자체 문제), MRONJ 저위험이 곧 장기 성공을 보장하지 않음 → 장기 추적은 필수. 정량 상세는 [[implants/survival/kim-2026-dental-implant-osteoporosis-osteosclerosis]].
 
-[합의수준] Choi 2022 (JKDA, 단국대 통합치의학 종설) — BMA 복용 환자에서 implant 자체가 MRONJ 위험인자·trigger가 될 수 있음을 한국 임상가 관점에서 정리. implant-related ONJ incidence는 여전히 불확실해 임상의 hesitation의 근거가 되며, 식립 전 위험-이익 평가·식립 후 maintenance·조기 발견이 핵심. Li 2024 SR의 정량 실패율(23%)과 방향 일치.
+[확인] Choi 2022 (JKDA, 단국대 통합치의학 종설) — BMA 복용 환자에서 implant 자체가 MRONJ 위험인자·trigger가 될 수 있음을 한국 임상가 관점에서 정리. implant-related ONJ incidence는 여전히 불확실해 임상의 hesitation의 근거가 되며, 식립 전 위험-이익 평가·식립 후 maintenance·조기 발견이 핵심. Li 2024 SR의 정량 실패율(23%)과 방향 일치.
 
 ---
 
@@ -250,30 +259,30 @@ Synthesis of papers (SR, position papers, cohorts, narrative) on MRONJ and antir
 ## Related Papers
 
 ### Position·SR (1차 근거)
-- [[drug/ruggiero-2022-aaoms-mronj-position-paper-update]] — AAOMS 2022 position update, staging·drug holiday·Romosozumab·CTX
-- [[drug/kwon-2023-mronj-position-papers-what-changed]] — AAOMS 2007→2014→2022 변천, 2022 3대 변경 해설
+- [[drug/mronj/ruggiero-2022-aaoms-mronj-position-paper-update]] — AAOMS 2022 position update, staging·drug holiday·Romosozumab·CTX
+- [[drug/mronj/kwon-2023-mronj-position-papers-what-changed]] — AAOMS 2007→2014→2022 변천, 2022 3대 변경 해설
 - [[drug/mronj/kim-2025-medication-related-osteonecrosis-jaw-evidence]] — 한국 5개 학회 공동 2025 포지션 스테이트먼트: 약제별 drug holiday 타이밍 구체화, 전 병기 수술 권고, CTX 비권장, teriparatide 최강 근거 (consensus, JKAOMS 2025)
-- [[drug/baghalipour-2025-mronj-prevention-management-review]] — 4-level prevention framework
-- [[drug/li-2024-antiresorptive-implants-mronj-sr]] — 항흡수제 후 임플란트 23% 실패, 83% MRONJ
-- [[drug/jkda-2021-60-1-004]] — BMA 복용 환자 implant가 MRONJ trigger인가, 4단계 결정 framework (Choi/JKDA 2022)
+- [[drug/mronj/baghalipour-2025-mronj-prevention-management-review]] — 4-level prevention framework
+- [[drug/mronj/li-2024-antiresorptive-implants-mronj-sr]] — 항흡수제 후 임플란트 23% 실패, 83% MRONJ
+- [[drug/mronj/jkda-2021-60-1-004]] — BMA 복용 환자 implant가 MRONJ trigger인가, 4단계 결정 framework (Choi/JKDA 2022)
 
 ### Cohort·임상 근거
-- [[drug/jung-2022-denosumab-mronj-osteoporosis-5year]] — 골다공증 5년 cohort, RA가 독립 위험인자
-- [[drug/yokoo-2025-denosumab-mronj-breast-cancer-bone]] — 유방암 골전이 cohort, 누적 dose ≥32 임계
+- [[drug/mronj/jung-2022-denosumab-mronj-osteoporosis-5year]] — 골다공증 5년 cohort, RA가 독립 위험인자
+- [[drug/mronj/yokoo-2025-denosumab-mronj-breast-cancer-bone]] — 유방암 골전이 cohort, 누적 dose ≥32 임계
 - [[drug/mronj/cho-2026-clinical-characteristics-osteonecrosis-jaw-related]] — KNUDH 5년 코호트(n=178 DRONJ): Xgeva 53.8% vs Prolia 85.0% 치료 성공(p=0.027); 고용량 Dmab 유일한 독립 예측인자(OR 5.13); BP→Prolia 전환 발생 앞당기되 예후 불변 (retrospective, JKAOMS 2026)
-- [[drug/iwata-2025-amoxicillin-duration-mronj-extraction-japan-retrospective]] — 단일 vs 3일 AMPC 동등
+- [[drug/mronj/iwata-2025-amoxicillin-duration-mronj-extraction-japan-retrospective]] — 단일 vs 3일 AMPC 동등
 
 ### 영상·진단·모니터링
-- [[drug/moreno-rabie-2023-3d-mronj-risk-oncologic-tooth-extraction]] — 발치 전 CBCT에서 sequestrum·periosteal reaction이 종양학적 MRONJ 위험 신호; denosumab은 조기 방사선 징후 없음; MRONJ incidence 38%/site (oncologic cohort, n=47, case–control)
-- [[drug/koth-2017-clinical-radiographic-haematological-bisphosphonate-therapy]] — BRONJ vs 비BRONJ 비스포스포네이트 환자 비교: ALP·ESR 상승, panoramic 소견(잔존 발치와·골용해·골경화·하악관 협착), CTX 유의차 없음 — AAOMS 2022 CTX 제외 권고와 부합
+- [[drug/mronj/moreno-rabie-2023-3d-mronj-risk-oncologic-tooth-extraction]] — 발치 전 CBCT에서 sequestrum·periosteal reaction이 종양학적 MRONJ 위험 신호; denosumab은 조기 방사선 징후 없음; MRONJ incidence 38%/site (oncologic cohort, n=47, case–control)
+- [[drug/mronj/koth-2017-clinical-radiographic-haematological-bisphosphonate-therapy]] — BRONJ vs 비BRONJ 비스포스포네이트 환자 비교: ALP·ESR 상승, panoramic 소견(잔존 발치와·골용해·골경화·하악관 협착), CTX 유의차 없음 — AAOMS 2022 CTX 제외 권고와 부합
 
 ### Narrative·교육
-- [[drug/lee-2023-bisphosphonates-dental-procedures-bronj]] — BP 종류·작용·치과 안전·국소 도포 골유착 촉진
-- [[drug/kwon-2023-mronj-position-papers-what-changed]] — AAOMS position paper 변천(2007→2014→2022) 한국어 해설, 2022 변경 3가지
-- [[drug/jkda-2021-60-1-004]] — BMA 환자에서 implant가 MRONJ 위험인자, 한국 임상 perspective
+- [[drug/mronj/lee-2023-bisphosphonates-dental-procedures-bronj]] — BP 종류·작용·치과 안전·국소 도포 골유착 촉진
+- [[drug/mronj/kwon-2023-mronj-position-papers-what-changed]] — AAOMS position paper 변천(2007→2014→2022) 한국어 해설, 2022 변경 3가지
+- [[drug/mronj/jkda-2021-60-1-004]] — BMA 환자에서 implant가 MRONJ 위험인자, 한국 임상 perspective
 
 ### Cross-category (임플란트·골질)
-- [[implants/kim-2026-dental-implant-osteoporosis-osteosclerosis]] — 골다공증 경구 BP는 MRONJ 저위험·임플란트 비금기이나, 골다공증 임플란트 장기 생존율은 82.6–94.1%로 하락(골질 문제 별개). drug holiday는 고위험 한정 (narrative-review, 2026)
+- [[implants/survival/kim-2026-dental-implant-osteoporosis-osteosclerosis]] — 골다공증 경구 BP는 MRONJ 저위험·임플란트 비금기이나, 골다공증 임플란트 장기 생존율은 82.6–94.1%로 하락(골질 문제 별개). drug holiday는 고위험 한정 (narrative-review, 2026)
 
 ### 인접 overview
 - [[drug-clinical-decision-ladder]] — drug 카테고리 허브

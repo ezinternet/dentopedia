@@ -6,20 +6,28 @@ date: 2018-01-01
 doi: 10.17219/dmp/90729
 source: el-mowafy-2018-glass-ceramic-veneer-materials-narrative-review.md
 category: [veneers]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/el-mowafy-2018-glass-ceramic-veneer-materials-narrative-review.pdf
 pdf_filename: el-mowafy-2018-glass-ceramic-veneer-materials-narrative-review.pdf
 source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review (Dent Med Probl 2018; 5 pp.) covering porcelain veneer materials (feldspathic, pressed, CAD/CAM glass-ceramic), clinical indications, preparation, cementation, and survival data to 12 years; cites SR showing 89% overall survival at 9 years, with glass-ceramic (94%) outperforming feldspathic (87%).
+Narrative review (Dent Med Probl 2018, 5 pages) covering feldspathic, pressed, and CAD/CAM glass-ceramic porcelain veneers — full clinical workflow from indication and preparation through cementation and maintenance, drawing on studies up to 12 years follow-up.
 
-## 한줄요약
+Cited SR (Morimoto) reports 89% overall survival at 9 years (glass-ceramic 94% vs feldspathic 87%); a key survival predictor is preparation margin location, with dentin margins carrying a 10-fold higher failure rate than enamel margins.
 
-서술 검토(2018): 장석/가압/CAD/CAM 비니어의 적응증·전처치·접착·생존율 종합; 9년 생존율 89%(SR), 글래스세라믹 94% > 장석 87%; 변연 법랑질 미노출이 실패 위험을 10배 감소.
+The practical clinical take-away is that enamel-limited preparation at ~0.3 mm depth is the technique cornerstone, with sandblasting + HF etching + silane as the optimal intaglio surface treatment and ultrasonic seating to minimize cement film thickness.
+
+## 세줄요약
+
+서술 검토 (Dent Med Probl 2018, 5p): 장석질(Feldspathic)·가압(Pressed)·CAD/CAM 글래스세라믹 도재 비니어의 적응증·전처치·접착·유지관리 임상 전 과정 종합; Morimoto SR 인용 — 9년 생존율 89%(글래스세라믹 94% > 장석 87%).
+
+핵심 예후 인자: 변연 위치 — 상아질 변연은 법랑질 변연 대비 실패 위험 10배; 이갈이(Bruxism) 환자 생존율 ≈60% (PFM과 동등).
+
+임상적 의미: 법랑질 한정 ~0.3 mm 삭제가 기법의 핵심; 인타글리오(Intaglio) 표면처리는 모래분사(Sandblast) + HF 에칭 + 실란(Silane); 초음파 안착으로 시멘트 막 두께 최소화.
 
 ## Summary
 

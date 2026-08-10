@@ -6,18 +6,26 @@ date: 2025-04-02
 doi: 10.5051/jpis.2404660233
 source: kang-2025-implant-failure-predictors-ridge-preservation.md
 category: [bone-regeneration/ridge-preservation]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/kang-2025-implant-failure-predictors-ridge-preservation.pdf
 pdf_filename: kang-2025-implant-failure-predictors-ridge-preservation.pdf
 source_collection: external
 tags: [alveolar-ridge-preservation, ARP, implant-failure, pristine-bone-engagement, PBE, Cox-model, risk-factors]
 ---
 
-## One-line Summary
-Retrospective study (JPIS 2025, n=528 implants, 412 patients, 3.5 years): the only significant predictor of implant failure after ARP was pristine bone engagement (PBE) <1.1 mm (HR 2.50, P=0.004); cumulative success rate 89.0%; securing ≥1.1 mm of native bone engagement is essential.
+## Three-line Summary
+Retrospective cohort (Kyung Hee University, n=528 implants in 412 patients, mean 3.5-year follow-up) using Cox proportional hazards modeling to identify predictors of implant failure after alveolar ridge preservation.
 
-## 한줄요약
-retrospective(JPIS 2025, n=528 임플란트 412명, 3.5년): ARP 후 임플란트 실패 예측인자 — PBE <1.1mm → 실패 위험 HR 2.50(P=0.004); 누적 성공률 89.0%; 원발골 맞물림 최소 1.1mm 확보가 핵심.
+Pristine bone engagement (PBE) <1.1 mm was the only significant failure predictor (HR 2.50, 95% CI 1.34–4.67, P=0.004); cumulative implant success rate was 89.0% with 43 failed implants; no other demographic, clinical, or radiographic factor was significant.
+
+The clinical implication is that implant length must be planned to secure ≥1.1 mm of native (non-grafted) bone apical to the graft zone, since grafted socket material provides inferior initial anchorage.
+
+## 세줄요약
+후향적 코호트 (경희대병원, n=528 임플란트 412명, 평균 3.5년 추적): 치조제보존술 후 임플란트 실패 예측인자를 Cox 비례위험 모형으로 분석.
+
+원발골 맞물림 (Pristine Bone Engagement, PBE) <1.1 mm만이 유일하게 유의한 실패 예측인자였으며 (HR 2.50, 95% CI 1.34–4.67, P=0.004), 누적 성공률은 89.0% (실패 43개); 기타 인구학적·임상·방사선학적 인자는 유의하지 않았다.
+
+임상적 의의: 이식 재료로 채워진 소켓보다 원발골이 초기 고정력이 우수하므로, 임플란트 길이를 이식 구역 원방으로 최소 1.1 mm의 원발골 접촉이 확보되도록 계획해야 한다.
 
 ## Summary
 Retrospective cohort (Kyung Hee University, 2014–2020) evaluating predictors of implant failure after alveolar ridge preservation (ARP). Among n=528 implants from 412 patients followed for 3.5±1.8 years, pristine bone engagement (PBE) < 1.1 mm was the only significant predictor of implant failure in Cox proportional hazards modeling.

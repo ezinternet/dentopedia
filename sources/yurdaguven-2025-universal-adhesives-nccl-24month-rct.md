@@ -12,11 +12,21 @@ source_collection: external
 ## Why Ingested
 Universal adhesive 조성(monomer·HEMA·solvent) 차이가 NCCL 수복 임상결과에 영향 없음을 보인 2년 RCT. [[resin-bonding/peumans-2023-universal-adhesive-nccl-3year-rct]]·[[resin-bonding/omoto-2025-nccl-adhesion-strategies-4year-rct]]의 "접착제 종류보다 술식·산부식이 중요"라는 결론을 조성 변수 관점에서 보강.
 
-## One-line Summary
-Split-mouth RCT (32 patients, 256 NCCLs) finding two universal adhesives differing in monomer/HEMA/solvent performed equivalently at 24 months (98.2% success, 4 retention losses; selective enamel etch), with no significant between-adhesive difference on any criterion.
+## Three-line Summary
 
-## 한줄요약
+Split-mouth RCT (32 patients, 256 NCCLs) finding two universal adhesives differing in monomer/HEMA/solvent performed equivalently at 24 months (98.2% success, 4 retention losses;
+
+selective enamel etch), with no significant between-adhesive difference on any criterion.
+
+(incomplete)
+
+## 세줄요약
+
 NCCL 256개 2년 split-mouth RCT — monomer·HEMA·solvent 다른 universal adhesive 2종이 24개월 동등(성공 98.2%, 탈락 4개), 모든 항목서 유의차 없음(selective enamel etch).
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - BMC Oral Health 2025;25:1661. DOI 10.1186/s12903-025-07081-0. Open access (CC BY-NC-ND). Double-blind, split-mouth RCT.

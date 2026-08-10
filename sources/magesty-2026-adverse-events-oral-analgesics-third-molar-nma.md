@@ -17,13 +17,21 @@ text_filename: magesty-2026-adverse-events-oral-analgesics-third-molar-nma.txt
 
 Existing analgesics pages emphasize NSAID *efficacy* and serious long-term safety (GI/CV/renal) but lack a structured safety ranking for the acute single-dose third-molar model. This NMA (28 RCTs, 5306 patients) directly ranks adverse-event safety across single-dose oral regimens and contextualizes the NSAID risk as mostly minor/nocebo-driven, complementing the efficacy-focused [[drug/analgesics/watson-2022-acetaminophen-codeine-ibuprofen-third-molar-sr-ma]] and the broad [[drug/analgesics/moore-2015-single-dose-oral-analgesics-cochrane-overview]]. It also pairs with [[drug/analgesics/feldman-2024-nonopioid-opioid-third-molar-rct]] (nonopioid vs opioid in the same model).
 
-## One-line Summary
+## Three-line Summary
 
 Frequentist network meta-analysis of 28 RCTs (5306 third-molar patients): single-dose NSAID monotherapy ranked least safe by SUCRA (86.5%), but very low–low certainty and a high placebo adverse-event rate point to a predominant nocebo effect rather than true NSAID harm.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 28개 RCT(5306명, 하악 제3대구치 발치)의 빈도주의 네트워크 메타분석: 단회 경구 NSAID 단독요법이 SUCRA 안전성 순위에서 가장 위험(86.5%)했으나 근거 확실성은 매우 낮음~낮음이고 위약군 이상반응 빈도도 높아, 실제 NSAID 위해보다 노세보(nocebo) 효과가 주된 기전으로 해석됨.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

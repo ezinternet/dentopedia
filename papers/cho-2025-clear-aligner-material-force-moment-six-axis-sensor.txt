@@ -1,0 +1,103 @@
+INTRODUCTION
+
+Over recent decades, the demand for more aesthetic, comfortable, and hygienically manageable orthodontic appliances has led to a marked increase in the use of clear aligners. Traditionally, these aligners have been fabricated from thermoplastic materials through vacuum forming techniques. However, this method presents several limitations, including alteration of the mechanical properties of the material, geometric inaccuracies, dimensional instability, reduced strength, and lower wear resistance.
+
+The advent of three-dimensional (3D) printed clear aligners has improved fit and consistency in force application, making them an increasingly favored alternative to thermoformed aligners.Despite these advances, prior studies have highlighted the variable predictability of treatment outcomes with clear aligner therapy.For clinicians to achieve effective and efficient tooth movement, it is critical to better understand how clear aligners transmit forces and moments to teeth.
+
+With the advent of micro-sensor technology, real-timemeasurements of orthodontic forces and moments have become possible. Nonetheless, the biomechanics of clear aligners remains incompletely understood.Although composite attachments and geometric modifications to the aligner can enhance the predictability of tooth movement,it is essential to establish baseline data on the forces and moments applied by aligners without these adjunctive modifications. This foundational knowledge will help clarify the mechanical behavior of aligners under more typical clinical scenarios.
+
+However, earlier research has encountered several methodological challenges, including: (1) the sensors were positioned too close to the teeth, preventing the immersion of the typodont model in a water bath; (2) the sensor’s long axis did not align with the long axis of the teeth; (3) the teeth were not in contact with adjacent teeth, which differs from actual clinical situations; (4) absence of the root and periodontal ligament (PDL) space in the tooth model; (5) lack of emulation of the wet intraoral environment and body temperature; and (6) measurement of force and/or moment for only a single amount of tooth movement.
+
+This study addresses these limitations by utilizing a six-axis mechanical sensor and a typodont model designed to closely simulate clinical conditions. Since labial tipping of the anterior teeth is one of the basic movement types in orthodontic treatment, thisstudy aimed to analyze how varying degrees of labial tipping and different clear aligner materials affect the forces and moments applied to the teeth. The null hypothesis tested is that there is no significant difference in the forces and moments between the levels of labial tipping or the types of clear aligner materials.
+
+MATERIALS AND METHODS
+
+Construction of the maxillary typodont (and)
+
+A 3D virtual maxillary typodont model was created, incorporating the crown, root, and a 0.5 mm PDL space to simulate natural tooth mobility. The PDL space near the root apex was modified to accommodate a metal rod (1.96 mm diameter), which was later connected to a six-axis mechanical sensor. The physical model was 3D-printed using a dental printer with 100 µm layer thickness. The PDL space was filled with a custom soft resin made of two polymers and trimethylolpropane triacrylate, replicating natural tooth mobility.
+
+Experimental conditions for tooth movement ()
+
+Digital models were generated using 3D software (Meshmixer, ver. 3.5.474; Autodesk, San Francisco, CA, USA) to simulate labial tipping movements of the maxillary right lateral incisor (#12, the target tooth) with two displacement magnitudes (0.3 mm and 0.6 mm) to reflect clinical situations. No attachments were used in these experiments to isolate the effects of the aligner material on tooth movement.
+
+Composition of the experimental groups
+
+A total of six groups were formed based on (1) the amount of labial tipping of #12 (0.3 mm and 0.6 mm) and (2) the type of clear aligner material (Zendura [Bay Materials, LLC, Fremont, CA, USA], Trioclear [Perfection Aligner System Hong Kong Limited, Hong Kong], and Graphy TA-28 [Graphy, Seoul, Korea]). Detailed descriptions of each material and the fabrication methods are provided in. All aligners in each group were fabricated from the same material batch and processed under identical conditions to ensure material consistency.
+
+Each group consisted of six samples (n = 6). A power analysis was conducted using sample size determination software (version 2.0.1; Seoul National University Dental Hospital, Registration No. 2007-01-122-004453, Seoul, Korea) to determine the appropriate study sample size. The means and standard deviations from McKay et al.were referenced for this analysis. As a baseline, clear aligners fabricated from the original maxillary typodont without movement of #12 were used for each experiment.
+
+Connection to the sensors and computer
+
+The metal rod was inserted into the roots of both the target tooth (#12) and the adjacent tooth (maxillary right central incisor, #11) at one end, with the other end connected to the six-axis mechanical sensor apparatus (). The raw data for force and moment on both #11 and #12 were obtained using the software and connector ().
+
+The forces applied (Fx, Fy, and Fz) were calculated at the midpoints of the incisal edges. At the same time, the moments (Mx, My, and Mz) were determined based on the estimated centers of resistance located at the root apex of #11 and #12. Descriptions of forces and moments along the X, Y, and Z axes are enumerated inand.
+
+Measurement of force and moment
+
+The six-axis sensor was calibrated to zero using the system’s reset function after seating a baseline aligner on the maxillary typodont. Then, thermoplastic clear aligners of the experiment group were positioned from anterior to posterior teeth, and the typodont was placed in a 37°C constant-temperature water bath to simulate intraoral conditions. For the 3D-printed aligner, it was first immersed in a 60°C water bath for 5 seconds to increase flexibility, then seated onto the typodont and placed in the 37°C bath.
+
+Force (Fx, Fy, and Fz) and moment (Mx, My, and Mz) data were collected from both the target tooth (#12) and the adjacent tooth (#11) for each group. Data acquisition lasted 2 minutes, with the average values from the final 10 seconds used for analysis. All measurements were recorded in an Excel file for further statistical analysis.
+
+Reliability test
+
+In each group, the same operator (KCC) conducted two sets of remeasurements for force and moment, with a 2-week interval between sessions. The measurement error for force and moment was evaluated using the Dahlberg formula. The overall mean Dahlberg error was 88.79 mN for force (range: 0.01–673.10 mN) and 0.40 N mm for moment (range: 0.00007–2.94 N mm). The first set of measurements was selected for further analysis.
+
+Statistical analysis
+
+Descriptive statistics, Mann–Whitneytest, and Kruskal-Wallis test with DSCF pairwise comparison test were used for statistical analysis with SPSS software version 12.0 (SPSS Inc., Chicago, IL, USA). Avalue of < 0.05 was considered statistically significant.
+
+RESULTS
+
+Forces and moments for 0.3 mm vs. 0.6 mm labial tipping (,, and–)
+
+In Zendura, at 0.6 mm tipping, #12 exhibited a significant increase in labial inclination moment compared to 0.3 mm (< 0.05). Labial, mesial, and occlusal forces remained stable across the two tipping conditions, with no significant changes observed in distal angulation and distal-in rotation moments. In contrast, #11 experienced a significant increase in lingual and occlusal forces (< 0.01 and a reduction in distal-in rotation moment (< 0.01). A shift in angulation moment from mesial to distal was also recorded.
+
+In Trioclear, the labial force on #12 significantly decreased (< 0.05) as tipping increased from 0.3 mm to 0.6 mm, while occlusal direction force showed a significant increase (< 0.01). No significant alterations were seen in distal forces, but labial inclination moment increased (< 0.01), accompanied by a decrease in distal-in rotation moment. For #11, there were significant increases in lingual, distal, and occlusal forces (< 0.01), and both distal angulation and mesial-in rotation moments were significantly greater (all< 0.01).
+
+Unlike the other materials, Graphy showed no significant changes in labial inclination moment or distal direction forces on #12. However, a notable shift from occlusal to gingival force was observed as labial tipping increased to 0.6 mm (< 0.01). For #11, forces remained relatively unchanged across both tipping conditions.
+
+Comparison of forces and moments among aligner materials for 0.3 mm tipping (and)
+
+For #12, Zendura generated the greatest occlusal direction force, followed by Trioclear and Graphy (< 0.001). Although the labio-lingual and mesio-distal direction forces did not differ significantly among materials, Trioclear exhibited a significantly higher distal-in rotation moment than Graphy (< 0.01). Additionally, Graphy generated mesial angulation moment, whereas Zendura and Trioclear produced more distal angulation moment (< 0.01).
+
+For #11, Zendura produced the greatest lingual and occlusal direction forces, followed by Trioclear and Graphy (all< 0.001), with no significant difference in distal force. Regarding moments, Trioclear showed greater lingual inclination and distal-in rotation moments, while Zendura produced greater labial inclination and mesial-in rotation moments compared to Graphy (all< 0.001). Zendura also exhibited greater mesial angulation moment, while Trioclear produced greater distal angulation moment than Graphy (< 0.01).
+
+Comparison of forces and moments among aligner materials for 0.6 mm tipping (and)
+
+For #12, Zendura exerted the greatest occlusal force, followed by Trioclear and Graphy (< 0.001). Zendura also generated significantly higher labial forces compared to the other two materials (< 0.01). Trioclear and Graphy exhibited lower labial and lingual direction forces, with Graphy showing particularly low values (< 0.01). No significant differences were found in mesio-distal forces across the three aligners. In terms of moments, there was no significant difference in distal-in rotation moment among the three aligner materials. However, Zendura and Trioclear exhibited a stronger labial inclination moment than Graphy (< 0.01). Notably, Graphy displayed almost no angulation moment, whereas both Zendura and Trioclear produced distal angulation moment (< 0.001).
+
+For #11, Zendura produced the greatest lingual and occlusal direction forces, followed by Trioclear and Graphy (< 0.001). No significant difference was observed in the distal direction force between the three materials. For moments, Trioclear showed the highest distal angulation moment, followed by Zendura and Graphy (< 0.001). Trioclear also exhibited significant lingual inclination and mesial-in rotation moments, whereas Zendura and Graphy demonstrated labial inclination and distal-in rotation moments (< 0.01).
+
+DISCUSSION
+
+Thisstudy presents several innovative aspects that enhance its clinical relevance. First, the tooth movement model, designed using actual 3D-computed tomography data, accurately replicates root and PDL behavior. The customized soft resin used to simulate the PDL might provide realistic tooth mobility, while the alignment of the six-axis sensor with the long axis of the teeth ensured accurate 3D-force measurement. Additionally, the entire maxillary dentition was aligned with intact proximal contacts and submerged in a thermostatic water bath, replicating intraoral conditions. These features might contribute to a more realistic understanding of the biomechanical forces generated by clear aligners.
+
+Comparison of forces and moments at 0.3 mm vs. 0.6 mm labial tipping (and)
+
+In this study, clear aligner materials showed different characteristics and tendencies. Zendura demonstrated an increase in labial forces on #12 as labial tipping increased, with #11 showing reactive lingual forces. However, force differences for #12 were not statistically significant, likely due to variability in fit, possibly caused by poor aligner fit on the lateral incisor with a smaller size. In contrast, #11, being larger with more distinct anatomical features, transmitted forces more effectively. Both #11 and #12 experienced occlusal forces (extrusive force), explained by the aligner's dislodging force gripping the cervical undercuts. Moments for #12 consistently showed labial inclination, increasing with more tipping. Interestingly, #11 exhibited labial inclination moments despite receiving lingual forces, likely due to the unpredictable nature of aligner biomechanics.
+
+Similarly, the Trioclear aligner exerted labial forces on #12 and lingual forces on #11 in both 0.3 mm and 0.6 mm labial tipping groups. As labial tipping increased, labial forces on #12 significantly decreased (< 0.05), while #11 experienced an increase in lingual forces (< 0.01). This may be due to the better seating of #11 compared to #12. Both #11 and #12 also exhibited increased occlusal forces (extrusive force) as labial tipping increased (all< 0.01), indicating greater dislodging forces on the aligner.
+
+Comparison of force and moment among materials (,, and,)
+
+When comparing the three aligner materials at the same labial tipping degree, Zendura produced the highest forces on #11, followed by Trioclear and Graphy, with significant differences (< 0.001). The differences between Zendura and Trioclear may stem from their structural differences—Zendura is a one-layer sheet, and Trioclear consists of a three-layer structure, which may affect force transmission.Graphy’s lower force values could be due to its material composition or 3D printing process, which appears to generate lower forces than traditional thermoformed aligners.Additionally, Graphy’s shape-memory effect may take longer to manifest fully, further influencing the forces generated.
+
+Interestingly, only Trioclear produced the expected lingual inclination moment on #11, while Zendura and Graphy exhibited labial inclination moments. This deviation from expected force patterns may explain why aligner treatments sometimes fail to achieve 100% of the intended tooth movements, especially when using materials like Graphy, which may not transmit forces as predictably as thermoformed alternatives.
+
+Unexpected results with Graphy material
+
+Graphy TA-28 presented an unexpected feature. Although the target tooth (#12) was programmed to tip labially, Graphy generated lingual forces on the target tooth at 0.3 mm and 0.6 mm labial tipping. The reason for reverse-direction force might be explained by the following: (1) the aligner was softened in a 60°C water bath to increase flexibility for insertion. Under a slightly distorted new shape, the aligner tries to move the tooth through the combination of its inherent elasticity and heat-triggered shape memory effect; (2) the spring-back effect, due to shape memory, might not be fully expressed within the 2-minute measurement period; and (3) the residual stress, which was generated while inserting the aligner from labial to lingual, may have remained during the cooling process. Therefore, further investigation into the cooling period and material behavior under different conditions is necessary to better understand this phenomenon.
+
+Lower forces observed
+
+The forces and moments in the X and Y axes observed in this study were significantly smaller compared to those reported in other studies.Possible reasons include: (1) the presence of the root and PDL, which absorb some of the forces and moments; (2) #12 may have been influenced by the adjacent teeth (#11 and #13), preventing independent movement. Clinically, it is often challenging to precise control lateral incisors, particularly when in close contact with adjacent teeth; (3) the absence of attachments in this study, which could enhance force transmission; and (4) the relatively high forces and moments in the Z-axis may be attributed to the direct connection between the root apex and sensor, with no PDL space at the root apex to absorb the applied forces and moments. Although the biological response might not be proportional to the amount of force and moment, a lighter force may not slow down the rate of orthodontic tooth movement.
+
+Limitations of this study and suggestions for future research
+
+This study had some limitations. It did not account for simulated saliva, chewing forces, or the use of composite attachments and interproximal reduction, which are common in clinical practice and may impact aligner performance. Additionally, the short observation period does not capture long-term material behavior, including fatigue and the shape-memory effects of Graphy TA-28. Future research should explore how aligners perform over time, in more realistic conditions, and for various tooth movements like rotations and translations to better understand their biomechanical potential.
+
+CONCLUSIONS
+
+Clinicians should select the appropriate aligner material based on the specific biomechanical requirements to prevent unexpected forces and moments.
+
+The results of thisstudy may contribute to a better understanding of the biomechanics of labial tipping induced by clear aligners.

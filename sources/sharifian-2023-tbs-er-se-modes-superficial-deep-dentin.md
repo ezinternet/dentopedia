@@ -11,8 +11,21 @@ pdf_filename: sharifian-2023-tbs-er-se-modes-superficial-deep-dentin.pdf
 source_collection: external
 ---
 
-## One-line Summary
-In vitro (40 third molars): superficial > deep dentin µTBS for all adhesives (p=0.005); Scotchbond Universal in E&R mode highest µTBS overall; universal adhesive benefits from E&R mode; Clearfil SE Bond and Adper Single Bond 2 also tested.
+## Three-line Summary
+
+In vitro (40 third molars): superficial > deep dentin µTBS for all adhesives (p=0.005)
+
+Scotchbond Universal in E&R mode highest µTBS overall
+
+universal adhesive benefits from E&R mode; Clearfil SE Bond and Adper Single Bond 2 also tested.
+
+## 세줄요약
+
+In vitro (40 third molars): superficial > deep dentin µTBS for all adhesives (p=0.005)
+
+Scotchbond Universal in E&R mode highest µTBS overall
+
+universal adhesive benefits from E&R mode; Clearfil SE Bond and Adper Single Bond 2 also tested.
 
 ## 1. Document Information
 Babol University of Medical Sciences, Iran. Frontiers in Dentistry 2023. In vitro µTBS study comparing three adhesive systems (E&R, SE, and universal) across two dentin depths.

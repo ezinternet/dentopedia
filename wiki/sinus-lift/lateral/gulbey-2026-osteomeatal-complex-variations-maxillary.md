@@ -6,7 +6,7 @@ date: 2026-01-08
 doi: 10.1111/cid.70121
 source: gulbey-2026-osteomeatal-complex-variations-maxillary.md
 category: sinus-lift/lateral
-confidence: cross-sectional
+evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/gulbey-2026-osteomeatal-complex-variations-maxillary.pdf
 pdf_filename: gulbey-2026-osteomeatal-complex-variations-maxillary.pdf
 source_collection: external
@@ -18,13 +18,21 @@ relations:
     target: munakata-2021-sinus-membrane-thickness-edentulous-cbct
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective CBCT study (n=1957 sinuses) demonstrating that osteomeatal complex (OMC) anatomical variations — ostium width, infundibulum length, ethmoidal bulla diameter, and uncinate process superior attachment (UPSA) types 3/4/6 — are significantly associated with maxillary sinus mucosal thickening and ostium obstruction, expanding the CBCT risk-assessment framework before sinus floor elevation.
+Retrospective cross-sectional CBCT study (n=1957 maxillary sinuses) investigating associations between osteomeatal complex (OMC) anatomical dimensions and Schneiderian membrane thickening, the largest CBCT dataset specifically linking OMC variations to mucosal pathology.
 
-## 한줄요약
+Ostium width, infundibulum length, and ethmoidal bulla diameter all significantly positively correlated with mucosal thickness; UPSA types 3/4/6 were significantly associated with polypoid thickening and ostium obstruction; 54% of sinuses showed some mucosal thickening.
 
-후향적 CBCT 연구 (n=1957 상악동): 오스티오메아탈 복합체 (Osteomeatal Complex, OMC) 해부학적 변이 (골공 폭 [Ostium Width, OW], 누두부 길이 [Infundibulum Length, IL], 사골포 직경 [Ethmoidal Bulla Diameter, EBD], 구개돌기 상부 부착 [Uncinate Process Superior Attachment, UPSA] 유형 3·4·6) 가 점막 두께 (Mucosal Thickness, MT) 비후 및 골공 폐쇄와 유의하게 연관되어 상악동저 거상술 (Sinus Floor Elevation, SFE) 전 OMC 평가의 임상적 필요성 제시.
+Pre-SFE CBCT assessment should extend beyond sinus floor height to include systematic OMC mapping — particularly UPSA classification — with ENT consultation warranted for types 3/4/6.
+
+## 세줄요약
+
+후향적 단면 CBCT 연구 (n=1957 상악동): 오스티오메아탈 복합체 (Osteomeatal Complex, OMC) 해부학적 계측(골공 폭, 누두부 길이, 사골포 직경)이 점막 두께 (Mucosal Thickness, MT)와 모두 유의한 양의 상관, 구개돌기 상부 부착 (Uncinate Process Superior Attachment, UPSA) 유형 3·4·6은 폴립성 비후·골공 폐쇄와 유의 연관; 전체 54%에서 점막 비후 확인.
+
+가장 흔한 점막 비후 패턴은 편평형(23.5%); 남성에서 점막 두께·OMC 치수 모두 유의하게 큼.
+
+상악동저 거상술 (Sinus Floor Elevation, SFE) 전 CBCT 평가는 동저 높이·점막 두께에 그치지 않고 OMC 배액 해부학까지 포함해야 하며, UPSA 유형 3·4·6은 이비인후과 협진 고려 기준.
 
 ## Summary
 

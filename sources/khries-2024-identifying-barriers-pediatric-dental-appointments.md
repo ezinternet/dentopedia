@@ -17,13 +17,21 @@ text_filename: khries-2024-identifying-barriers-pediatric-dental-appointments.tx
 
 Extends appointment-attendance / non-attendance evidence from adults to the pediatric population — quantifying the parent-, patient-, and administrative-level barriers (forgetfulness, scheduling, staff miscommunication) that drive missed pediatric dental visits, directly informing scheduling and retention SOP. Reinforces the adult/general no-show and dental-attendance evidence in [[practice-management/jkda-2024-62-6-001]].
 
-## One-line Summary
+## Three-line Summary
 
-Cross-sectional questionnaire study (n=265 children <12 yr, Jordan): 44% missed-appointment rate despite 85% insured; non-attendance significantly linked to child age, gender, and public-transport use, with social/family commitments (15.5%), forgetfulness (11.2%), and staff miscommunication (10.3%) as leading barriers.
+Cross-sectional questionnaire study (n=265 children <12 yr, Jordan): 44% missed-appointment rate despite 85% insured;
 
-## 한줄요약
+non-attendance significantly linked to child age, gender, and public-transport use, with social/family commitments (15.5%), forgetfulness (11.2%), and staff miscommunication (10.3%) as leading barriers.
 
-요르단 12세 미만 소아 265명 단면 설문연구 — 85%가 보험이 있음에도 결손율(missed-appointment rate) 44%; 미내원은 연령·성별·대중교통 이용과 유의 연관, 주요 장벽은 가족·사회적 일정(15.5%), 망각(11.2%), 직원 의사소통 오류(10.3%).
+(incomplete)
+
+## 세줄요약
+
+요르단 12세 미만 소아 265명 단면 설문연구 — 85%가 보험이 있음에도 결손율(missed-appointment rate) 44%;
+
+미내원은 연령·성별·대중교통 이용과 유의 연관, 주요 장벽은 가족·사회적 일정(15.5%), 망각(11.2%), 직원 의사소통 오류(10.3%).
+
+(incomplete)
 
 ## 1. Document Information
 

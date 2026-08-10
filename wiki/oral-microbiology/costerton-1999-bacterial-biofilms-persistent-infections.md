@@ -6,7 +6,7 @@ date: 1999-05-21
 doi: 10.1126/science.284.5418.1318
 source: costerton-1999-bacterial-biofilms-persistent-infections.md
 category: [oral-microbiology]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/costerton-1999-bacterial-biofilms-persistent-infections.pdf
 pdf_filename: costerton-1999-bacterial-biofilms-persistent-infections.pdf
 source_collection: external
@@ -16,13 +16,21 @@ relations:
     target: jakubovics-2021-dental-plaque-biofilm-matrix
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Seminal Science review (Costerton, Stewart, Greenberg 1999) establishing that surface-attached bacteria embedded in a self-produced polymeric matrix form structured biofilm communities whose inherent tolerance to antibiotics and host defenses underlies most persistent and device-related chronic infections — explicitly including dental caries and periodontitis.
+Seminal Science narrative review establishing the canonical definition of a biofilm — "a structured community of bacterial cells enclosed in a self-produced polymeric matrix adherent to a surface" — with a reference table explicitly listing dental caries and periodontitis among >50% of persistent infections in mildly compromised hosts.
 
-## 한줄요약
+Three distinct mechanisms explain biofilm's inherent phenotypic antibiotic tolerance: (1) matrix penetration/reaction-diffusion barrier against reactive oxidants; (2) slow-growing nutrient-limited subpopulations; and (3) a distinct surface-induced biofilm phenotype — all demonstrated via the P. aeruginosa cystic-fibrosis lung biofilm model.
 
-표면에 부착해 자가 생성 고분자 기질에 둘러싸인 세균이 구조화된 biofilm 군집을 형성하며, 항생제·숙주 방어에 대한 내재적 내성으로 인해 우식·치주염을 포함한 대부분의 지속성·기구관련 만성 감염의 근본 원인임을 확립한 Science의 기념비적 리뷰(1999).
+Clinically, antibiotics clear shed planktonic cells (transient symptom relief) but spare the biofilm, producing recurring infection cycles that often resolve only with physical/surgical removal — a paradigm that underlies all downstream dental plaque biofilm management rationale.
+
+## 세줄요약
+
+표면 부착 세균이 자가 생성 고분자 기질에 둘러싸여 구조화된 biofilm 군집을 이루며, 경증 면역저하 숙주의 감염 >50%가 biofilm 기반임을 확립한 Science 기념비적 Narrative review — 우식·치주염이 참조표에 명시적 포함.
+
+항생제 내성의 3가지 내재적 표현형 기전: (1) 기질의 반응성 산화물 확산 차단; (2) 영양 결핍으로 인한 저속 성장 아집단; (3) 표면 유도 biofilm 표현형 — P. aeruginosa 낭포성 섬유증 폐 biofilm 모델로 입증.
+
+항생제는 유리부유(Planktonic) 세포만 제거하고 biofilm은 보존되어 감염이 반복되며, 물리적·외과적 제거 없이는 근절이 어렵다는 임상 패러다임 — 치과 치태 생물막 관리 근거의 개념적 모체.
 
 ## Summary
 

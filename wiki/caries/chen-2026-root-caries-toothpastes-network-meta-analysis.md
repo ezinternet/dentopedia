@@ -6,7 +6,7 @@ date: 2026-02-18
 doi: 10.1016/j.jdent.2026.106582
 source: chen-2026-root-caries-toothpastes-network-meta-analysis.md
 category: [caries]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/chen-2026-root-caries-toothpastes-network-meta-analysis.pdf
 pdf_filename: chen-2026-root-caries-toothpastes-network-meta-analysis.pdf
 source_collection: external
@@ -16,13 +16,21 @@ relations:
     target: meyer-lueckel-2019-intervene-root-caries-process-sr-ma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR + network meta-analysis (Cochrane, 9 databases; 13 in vitro + 3 in situ + 12 clinical studies): high-concentration sodium fluoride toothpaste (5000 ppm) most effectively reduces root-caries lesion depth, hardens lesions, and prevents new caries — bioactive Ca/P and arginine+fluoride pastes are alternatives, while standard 1450 ppm NaF may be insufficient in high-risk patients.
+SR and network meta-analysis (9 databases, PROSPERO CRD42024512171; 13 in vitro + 3 in situ + 12 clinical RCTs) ranking toothpaste active ingredients for root-caries management; all clinical GRADE certainty rated low.
 
-## 한줄요약
+NMA cumulative ranking placed 5000 ppm NaF first (RR 2.55 for lesion hardening, 95% CI 1.68–3.86), bioactive Ca/P second (RR 1.81, 95% CI 1.39–2.36), arginine+fluoride third; standard 1450 ppm NaF ranked fourth.
 
-SR + 네트워크 메타분석 (Cochrane, 9개 DB; in vitro 13 + in situ 3 + 임상 12편): 고농도 불화나트륨 치약(5000 ppm)이 치근우식 병변 깊이 감소·경화·신규 우식 예방에 가장 효과적 — 생활성 칼슘/인산 및 아르기닌+불소 치약은 대안, 표준 1450 ppm NaF는 고위험 환자에서 불충분할 수 있음.
+5000 ppm NaF is the first-line non-invasive prescription therapy for active root caries; OTC bioactive or arginine+fluoride toothpastes are viable alternatives; standard NaF alone is likely insufficient for high-risk patients.
+
+## 세줄요약
+
+SR + 네트워크 메타분석(9개 DB, PROSPERO CRD42024512171; in vitro 13 + in situ 3 + 임상 RCT 12편) — 치근우식(Root Caries) 관리를 위한 치약 성분 순위 도출; 임상 결과 전체 GRADE 근거 수준 낮음.
+
+NMA 누적 순위: 5000 ppm NaF 1위(병변 경화 RR 2.55, 95% CI 1.68–3.86), 생활성 Ca/P 2위(RR 1.81, 95% CI 1.39–2.36), 아르기닌+불소 3위; 표준 1450 ppm NaF 4위.
+
+5000 ppm NaF(처방)가 활성 치근우식의 1차 비침습적 치료; 시판 생활성 또는 아르기닌+불소 치약은 대안; 표준 NaF 단독은 고위험 환자에서 불충분.
 
 ## Summary
 

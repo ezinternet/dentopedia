@@ -13,13 +13,21 @@ source_collection: external
 
 radiology 카테고리 저선량 CBCT 프로토콜의 임상채택 근거. [[radiology/oenning-2019-halve-dose-paediatric-cone-beam-ct]]의 소아 최적화·[[radiology/hidalgo-rivas-2015-low-dose-cbct-anterior-maxilla-children]]의 저선량 프로토콜을 성인 일상진료 레벨로 일반화.
 
-## One-line Summary
+## Three-line Summary
 
-Phantom study: ULD/LD CBCT (ProMax 3D Mid, Orthophos SL) cut dose ~6× with 'acceptable-to-good' quality; high tube voltage reduces dose without quality loss.
+Phantom study comparing ultra-low-dose (ULD), low-dose (LD), and standard (STD) CBCT protocols on two machines (ProMax 3D Mid, Orthophos SL) evaluated by four oral-maxillofacial radiologists using a 5-point Likert scale.
 
-## 한줄요약
+ULD and LD protocols achieved 'acceptable-to-good' subjective image quality while reducing effective dose approximately 6-fold versus standard protocols; high tube voltage (kVp) approaches reduce dose without degrading diagnostic quality.
 
-팬텀 연구: ULD/LD CBCT(ProMax 3D Mid·Orthophos SL)가 선량 ~6배 절감하며 '수용~양호' 화질. 고관전압이 화질저하 없이 선량저감.
+Low-dose CBCT protocols can be adopted as the default for routine dental diagnostic tasks, with standard protocols reserved for cases demanding maximum image quality.
+
+## 세줄요약
+
+두 CBCT 기종(ProMax 3D Mid·Orthophos SL)의 초저선량(ULD)·저선량(LD)·표준(STD) 프로토콜을 구강악안면방사선과 전문의 4인이 5점 Likert로 평가한 팬텀 연구.
+
+ULD·LD 프로토콜이 표준 대비 유효선량 약 6배 절감하면서 '수용~양호' 수준의 화질 유지; 고관전압(kVp) 설정이 화질 저하 없이 선량을 줄이는 효과적 방법.
+
+루틴 치과 진단 업무에 저선량 프로토콜을 기본으로 채택하고, 최고 화질이 요구되는 경우에만 표준 프로토콜을 사용하도록 권고 가능.
 
 ## 1. Document Information
 

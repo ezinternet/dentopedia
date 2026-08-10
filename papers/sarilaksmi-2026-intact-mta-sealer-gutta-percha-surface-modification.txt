@@ -1,0 +1,66 @@
+Title: Surface Modification of Gutta-Percha for the Use of Intact MTA as a Root Canal Sealer
+PMID: 42346685 | PMCID: PMC13301227 | DOI: 10.3390/jfb17060294
+Journal: Journal of Functional Biomaterials, 2026-06
+Authors: Sarilaksmi N, Nagano-Takebe F, Takahashi M, Kado T, Endo K, Nezu T
+
+1. Introduction
+
+Root canal obturation fills the instrumented canal with a sealer and core obturation material to prevent microorganism contamination. Endodontic treatment success ranges 85–95%, but inadequate cleaning, shaping, and obturation are important causes of failure. Achieving an adequate seal is critical for preventing reinfection and long-term success; good obturation requires good affinity between sealer and core obturation material.
+
+Gutta-percha (GP) is the most common core obturation material (chemical structure: 1,4-trans-polyisoprene). However, GP has poor adhesion and hydrophobicity, which may compromise obturation quality; GP should have good affinity for dentinal walls and sealer.
+
+Mineral trioxide aggregate (MTA) was introduced as a root-end filling material and has been proposed for pulp capping, apexification, and perforation repair. Due to excellent biocompatibility/bioactivity, MTA has been used clinically for root canal filling, but obturation with MTA alone is unsatisfactory because it cannot fill anatomical irregularities/apical areas — hence proposals to use MTA as a sealer rather than obturation material.
+
+Additional components are often added to MTA-based sealers to improve properties (methylcellulose/calcium chloride shorten setting time; propylene glycol improves handling), but other additives can influence cell viability and cause cytotoxicity in gingival fibroblasts. Altering MTA formulation may affect its properties — hence advisable to use intact (unmodified) MTA as a sealer.
+
+Surface modification can improve biomaterial properties without altering bulk properties. Plasma treatment is economical/effective for improving wettability and surface roughness, improving material adhesion, though surface wettability regains its original condition (hydrophobic recovery) within a short time. Surfactants can also improve wettability — cetylpyridinium chloride (CPC), a cationic surfactant, decreases surface tension and improves root canal wettability; CPC may enhance GP wettability to achieve better affinity with intact MTA.
+
+Aim: use MTA as an endodontic sealer without altering its bulk material, by modifying the GP surface. Wettability/surface chemistry of GP, physicochemical properties of MTA, and interfacial sealing performance were evaluated. Null hypothesis: plasma and CPC treatment of GP would not affect wettability, interfacial adaptation, or sealing performance with intact MTA as sealer.
+
+2. Materials and Methods
+
+2.1 GP Specimens: Flattened GP specimens (1.5 mm thick, GC Gutta-percha Bar Plus) pressed between heated glass plates. Groups: control (no treatment), atmospheric air plasma treatment (PT), immersion in 100 mM CPC solution (CT), plasma + CPC (PC). n=9 per group for contact angle; n=4 for XPS; n=4 for XRD.
+
+2.2 Surface Treatment: Atmospheric air plasma (PIB-10, discharge current 6 mA, 1 min). CPC solution: 358 mg CPC monohydrate in 10 mL distilled water (100 mM); GP dipped 5 min, excess removed by mild air blow.
+
+2.3 Contact Angle/SFE: Measured via Phoenix Alpha device; 5 µL water droplet; measured immediately, at 2, 4, 8 weeks. Contact angle from droplet diameter/height (ImageJ); surface free energy (SFE) calculated from contact angle.
+
+2.4 XPS: C1s, O1s, Cl2p, N1s spectra via ESCA-850 (Mg Kα, 7kV, 30mA, vacuum).
+
+2.5 XRD: MTA powder (TMR-MTA Mielle) and paste (mixed with water or 100 mM CPC) analyzed via MiniFex 600-C (40kV, 15mA, 2θ=10–70°, 10°/min); measured 2h after mixing on day 1 and day 7. n=4 per condition.
+
+2.6 Flowability: ISO 6876:2012 method — sealer between glass plates with 100g weight, diameter measured after 10 min. MTA powder:liquid ratio 2:1, n=6.
+
+2.7 Setting Time: Vicat needle, 37°C/100% RH, n=5, powder:liquid ratio 3:1.
+
+2.8 Compressive Strength: Cylindrical specimens (5.3mm dia × 8mm height), powder:liquid 3:1; 37°C/100%RH 2h initial set then stored in distilled water at 37°C; tested days 1 and 7 (n=5/group), Autograph AG-IS, 1mm/min.
+
+2.9 Root Canal Specimen Prep: Ethics approval (No. 260), informed consent. Single-rooted teeth, decoronated to 15mm, working length 1mm short. Instrumented with K-files 15–80 to size #80; single-cone obturation with GPP #80. Groups A–D: MTA sealer with different GP surface treatments (A=control untreated GP); Group E: conventional ZnO-based sealer (Canals-N) as reference. n=3/group. Incubated 37°C/100%RH 24h.
+
+2.10 Interfacial Sealing (Dye Penetration): Coronal dye reservoir (0.1% methylene blue, 23°C/100%RH, 7 days). Specimens embedded in acrylic resin, ground cross-sectionally (600→1000 grit), observed at 50x/100x (Nikon MA200) at 100 µm intervals; images analyzed in ImageJ. Dye penetration = distance from coronal surface to deepest methylene blue point; sealer voids/gaps between sealer and GP also evaluated.
+
+2.11 Statistics: SPSS v26; one-way ANOVA + Tukey (equal variances) or Games-Howell (unequal); Mann-Whitney U for non-normal two-group comparisons; P<0.05 significant.
+
+3. Results
+
+3.1 Wettability: Control contact angle 113.27°±5.64 (hydrophobic, >90°). PT: 22.21°±4.42; CT: 19.54°±5.24; PC: 21.99°±6.08 — all significantly lower than control immediately after treatment (P<0.05). At 2 weeks, PT group not significantly different from control's baseline (hydrophobic recovery); PC group remained significantly lower than control even after 8 weeks. SFE improved in all surface-treated groups (PT/CT/PC), decreasing over time (paralleling contact-angle trend).
+
+3.2 XPS: C1s/O1s peaks in all groups at 285.0/532.7 eV. PT group N1s single peak at 400.5 eV (-NH2). CT/PC groups: N1s main peak 402.2 eV + subpeak 399.5 (CT)/399.9 (PC). Cl2p band at ~197 eV with shoulder, deconvoluted into two pairs. Pure-CPC N1s/Cl2p spectra resembled CT/PC groups, indicating CPC coating/attachment to GP surface.
+
+3.3 CPC Effect on MTA Physicochemical Properties: Only setting time showed significant difference (P<0.05, CPC prolonged it). Compressive strength: lower in CPC group day 1, higher day 7, but not significantly different (P>0.05) overall. XRD: large peaks 28.3°/31.4° (ZrO2) in powder and both pastes; smaller peaks 30.1°/32.6°/34.4°/41.3° (Ca3SiO5/Ca2SiO4, main MTA components). Calcite (CaCO3, 30.1°/39.3°) observed day 1 in CPC group and day 7 in water group.
+
+3.4 Dye Penetration: Group A (untreated GP) showed significantly higher dye penetration than other groups (P<0.05). Groups B, C, D (surface-treated GP with MTA) not significantly different from Group E (ZnO reference, P>0.05). Dye penetration at sealer-root-canal-wall interface not significantly different among groups (P>0.05). Cross-sectional images at 3mm depth: Groups A–D had gaps at sealer–GPP interface; void formation observed only in Group A; Group E showed good affinity at both interfaces.
+
+4. Discussion
+
+4.1 Surface Hydrophilization: Control contact angle >90° confirmed GP hydrophobicity; treatment reduced angle to <90° (hydrophilic), consistent with SFE improvement, matching prior plasma-treatment literature. PT group wettability decreased then recovered by week 2 (hydrophobic recovery, consistent with prior plasma-aging studies) — attributed to decay of the polar -NH2 group introduced by plasma. CPC molecule (hydrophilic pyridinium ring + Cl– counterion, hydrophobic C16 chain) explains N/Cl XPS bands in CT/PC groups, confirming CPC attachment. Strong correlation (r=0.99) between SFE and N1s/Cl2p peak intensity across CT/PC groups supports CPC-driven wettability enhancement. PC group (plasma before CPC immersion) showed the smallest hydrophobic recovery over time — combining both methods gave the most stable hydrophilic effect, likely via more stable surfactant adsorption on the plasma-modified surface.
+
+4.2 CPC Effect on MTA Physicochemistry: MTA requires water/humidity to hydrate; CPC on the GP surface may influence this. Main MTA setting product (calcium silicate hydrate, C-S-H) is not XRD-detectable due to nanoscale/poor crystallinity; calcite (byproduct of Ca(OH)2 + CO2) is monitored instead — associated with beneficial setting/mechanical effects and enhanced MTA retention (reduced porosity/marginal gap) in prior literature, consistent with the CPC group's greater (nonsignificant) compressive strength. CPC significantly prolonged MTA setting time — interpreted as the hydrophilic CPC head adsorbing onto the MTA surface with the hydrophobic tail oriented toward the aqueous phase, hindering water access to the hydrophobic MTA surface. Flowability did not differ between mixing liquids, but neither met the ISO requirement (diameter >20mm) — low MTA flowability may promote void formation during obturation, so further formulation work is needed; CPC itself did not affect flowability. Compressive strength not significantly different between mixing liquids.
+
+4.3 Sealing Ability vs ZnO-Based Sealer: Dye penetration was evaluated via horizontal grinding/coronal observation (rather than conventional apical sectioning) to better assess circumferential sealer-GP-dentin affinity. Group A (untreated GP + MTA) showed significantly more sealer–GPP interface leakage than other groups — attributed to poor affinity between hydrophilic MTA and hydrophobic untreated GP, increasing the tendency of sealer to pull away from GP and cause void formation. Surface-treated GP (Groups B–D) improved affinity with MTA, matching wettability improvements, and performed comparably to the ZnO-based reference sealer (Canals-N, itself hydrophobic via fatty-acid/rosin components matched to hydrophobic GPP). Dentinal-wall–sealer interface dye penetration showed no group differences — intact MTA has good dentin-wall affinity via hydrophilicity, expansion during setting, and hydroxyapatite/mineral infiltration zone formation on dentin in simulated body fluid. Findings support rejecting the null hypothesis: plasma and CPC surface treatment improved GP wettability and interfacial sealing with intact MTA.
+
+Limitations: (1) interfacial sealing assessed by dye penetration/serial cross-sections rather than micro-CT (no 3D void/gap quantification); (2) in vitro study, not fully replicating long-term clinical environment; (3) sample sizes based on prior studies/preliminary experiments without formal power analysis — statistical power should be interpreted cautiously.
+
+5. Conclusions
+
+Atmospheric air plasma treatment and 100 mM CPC immersion improved GP wettability for use with intact MTA, without altering GP or MTA bulk composition. Plasma irradiation before CPC immersion (PC) provided the most stable hydrophilic surface over time via more stable surfactant adsorption. Hydrophilized GP + intact MTA achieved favorable sealing ability, preventing void formation and minimizing interface gaps. CPC surface modification did not interfere with MTA's setting reaction or compressive strength, though it prolonged setting time.

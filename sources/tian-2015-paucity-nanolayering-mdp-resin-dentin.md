@@ -17,13 +17,21 @@ text_filename: tian-2015-paucity-nanolayering-mdp-resin-dentin.txt
 
 Direct counterpoint to the foundational nanolayering claim. [[wiki/resin-bonding/yoshihara-2011-nanolayering-mdp-enamel-dentin]] established that 10-MDP self-assembles into ordered nanolayers at the resin-dentin interface and hypothesized this drives bond durability. Tian et al. (2015) tested whether seven *commercialized* 10-MDP self-etch/universal adhesives actually reproduce this structure on human dentin — and found nanolayering is RARELY present, challenging its real-world clinical relevance for bond longevity. Ingested to balance the Yoshihara mechanism page with the dissenting commercial-product evidence (concentration dependence: profuse at 15% experimental, sparse in commercial formulations).
 
-## One-line Summary
+## Three-line Summary
 
-In-vitro TEM + thin-film XRD study (7 commercial 10-MDP adhesives, n=6 TEM / n=4 XRD; experimental 15/10/5 wt% primers): profuse ~3.7 nm-periodicity nanolayering appears at 15% 10-MDP but is rarely seen in commercial adhesives, challenging nanolayering as a clinical bond-longevity mechanism.
+In-vitro TEM + thin-film XRD study (7 commercial 10-MDP adhesives, n=6 TEM / n=4 XRD;
 
-## 한줄요약
+experimental 15/10/5 wt% primers): profuse ~3.7 nm-periodicity nanolayering appears at 15% 10-MDP but is rarely seen in commercial adhesives, challenging nanolayering as a clinical bond-longevity mechanism.
 
-In-vitro TEM·박막 XRD 연구(상용 10-MDP 접착제 7종, TEM n=6/XRD n=4; 실험용 15/10/5 wt% 프라이머): 15% 10-MDP에서는 ~3.7 nm 주기의 풍부한 나노레이어링이 나타나지만 상용 접착제에서는 거의 관찰되지 않아, 나노레이어링이 결합 내구성의 임상적 기전이라는 주장에 의문을 제기.
+(incomplete)
+
+## 세줄요약
+
+In-vitro TEM·박막 XRD 연구(상용 10-MDP 접착제 7종, TEM n=6/XRD n=4;
+
+실험용 15/10/5 wt% 프라이머): 15% 10-MDP에서는 ~3.7 nm 주기의 풍부한 나노레이어링이 나타나지만 상용 접착제에서는 거의 관찰되지 않아, 나노레이어링이 결합 내구성의 임상적 기전이라는 주장에 의문을 제기.
+
+(incomplete)
 
 ## 1. Document Information
 

@@ -12,11 +12,21 @@ source_collection: external
 ## Why Ingested
 Universal adhesive의 ER vs SEE 적용 모드 비교 3년 RCT. 기존 [[resin-bonding/oza-2022-universal-adhesive-nccl-rct-2year]]·[[resin-bonding/hong-2021-universal-adhesive-etching-modes-sr-ma]]의 "모드 무차이" 근거를 long-term primary data로 보강.
 
-## One-line Summary
-Split-design RCT (51 patients, 251 NCCLs) showing Clearfil Universal Bond Quick performs equivalently in etch-and-rinse vs self-etch-with-selective-enamel-etching modes at 3 years (success 82.6% vs 83.8%; retention 87.2% vs 86.3%).
+## Three-line Summary
 
-## 한줄요약
+Split-design RCT (51 patients, 251 NCCLs) showing Clearfil Universal Bond Quick performs equivalently in etch-and-rinse vs self-etch-with-selective-enamel-etching modes at 3 years (success 82.6% vs 83.8%;
+
+retention 87.2% vs 86.3%).
+
+(incomplete)
+
+## 세줄요약
+
 NCCL 251개 3년 RCT — Clearfil Universal Bond Quick의 ER 모드와 SEE 모드가 성공률(82.6% vs 83.8%)·유지율(87.2% vs 86.3%)에서 유의차 없음.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - J Adhes Dent 2023;25:133-146. DOI 10.3290/j.jad.b4186751. CC BY 4.0. KU Leuven (BIOMAT, Van Meerbeek group).

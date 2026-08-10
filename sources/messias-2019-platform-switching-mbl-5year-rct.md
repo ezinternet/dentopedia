@@ -9,8 +9,21 @@ pdf_filename: messias-2019-platform-switching-mbl-5year-rct.pdf
 source_collection: external
 ---
 
-## One-line Summary
-등가성 RCT 5년 추적(n=60명, 128 임플란트): PS 생존율 96.6%; PS MBL 0.23 mm 낮음(p=0.025); 두 군 비동등 선언 — PS가 골보존 면에서 우수
+## Three-line Summary
+
+등가성 RCT 5년 추적(n=60명, 128 임플란트): PS 생존율 96.6%
+
+PS MBL 0.23 mm 낮음(p=0.025)
+
+두 군 비동등 선언 — PS가 골보존 면에서 우수
+
+## 세줄요약
+
+등가성 RCT 5년 추적(n=60명, 128 임플란트): PS 생존율 96.6%
+
+PS MBL 0.23 mm 낮음(p=0.025)
+
+두 군 비동등 선언 — PS가 골보존 면에서 우수
 
 ## 1. Document Information
 - **Title**: Peri-implant marginal bone loss reduction with platform-switching components: 5-Year post-loading results of an equivalence randomized clinical trial

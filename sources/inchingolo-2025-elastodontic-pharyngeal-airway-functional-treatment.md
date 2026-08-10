@@ -17,13 +17,21 @@ text_filename: inchingolo-2025-elastodontic-pharyngeal-airway-functional-treatme
 
 Extends the airway/OSA axis of myofunctional elastodontic therapy: where [[wiki/orthodontics/myofunctional/inchingolo-2022-amcop-elastodontic-protocol-interception-review]] describes the AMCOP elastodontic interceptive protocol qualitatively, this retrospective cephalometric study quantifies the *magnitude* of pharyngeal airway change AMCOP produces versus mainstream functional appliances (Twin Block, RPE) in the same Class II growing cohort. It anchors a key clinical caveat — elastodontic airway gains are real but the smallest of the three (small-to-moderate effect sizes), and all gains are 2D-morphological, not functional.
 
-## One-line Summary
+## Three-line Summary
 
 Retrospective lateral-cephalometric comparison (n=50 growing Class II children, 6–12 y) of pharyngeal airway change after Twin Block vs RPE vs AMCOP elastodontic therapy: all three significantly enlarged SPAS/MAS/PAS, but Twin Block produced the largest gains (SPAS +2.1 mm, large effect d=1.35) and AMCOP the smallest (SPAS +0.85 mm, small-moderate d=0.55).
 
-## 한줄요약
+(incomplete)
 
-후향적 측방두부방사선 비교(성장기 II급 아동 50명, 6–12세)로 Twin Block·RPE·AMCOP 탄성교정장치(elastodontic)의 인두기도(pharyngeal airway) 변화를 비교: 세 장치 모두 SPAS/MAS/PAS를 유의하게 넓혔으나 Twin Block이 가장 컸고(SPAS +2.1mm, 큰 효과크기 d=1.35) AMCOP이 가장 작음(SPAS +0.85mm, d=0.55). 모든 변화는 2D 형태학적 변화이며 기능적(airflow/AHI) 개선은 입증 안 됨.
+(incomplete)
+
+## 세줄요약
+
+후향적 측방두부방사선 비교(성장기 II급 아동 50명, 6–12세)로 Twin Block·RPE·AMCOP 탄성교정장치(elastodontic)의 인두기도(pharyngeal airway) 변화를 비교: 세 장치 모두 SPAS/MAS/PAS를 유의하게 넓혔으나 Twin Block이 가장 컸고(SPAS +2.1mm, 큰 효과크기 d=1.35) AMCOP이 가장 작음(SPAS +0.85mm, d=0.55).
+
+모든 변화는 2D 형태학적 변화이며 기능적(airflow/AHI) 개선은 입증 안 됨.
+
+(incomplete)
 
 ## 1. Document Information
 

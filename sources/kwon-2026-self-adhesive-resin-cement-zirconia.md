@@ -9,8 +9,21 @@ pdf_filename: kwon-2026-self-adhesive-resin-cement-zirconia.pdf
 source_collection: external
 ---
 
-## One-line Summary
-In-vitro (J Funct Biomater 2026): 자가접착 레진시멘트(SARC) 3종(TheraCem·Clearfil SA·RelyX U200) 지르코니아 접착 평가 — TheraCem 최우수 SBS; 프라이머 유의 향상; 열순환 10,000회 모든 군 SBS 감소.
+## Three-line Summary
+
+In-vitro (J Funct Biomater 2026): 자가접착 레진시멘트(SARC) 3종(TheraCem·Clearfil SA·RelyX U200) 지르코니아 접착 평가 — TheraCem 최우수 SBS
+
+프라이머 유의 향상
+
+열순환 10,000회 모든 군 SBS 감소.
+
+## 세줄요약
+
+In-vitro (J Funct Biomater 2026): 자가접착 레진시멘트(SARC) 3종(TheraCem·Clearfil SA·RelyX U200) 지르코니아 접착 평가 — TheraCem 최우수 SBS
+
+프라이머 유의 향상
+
+열순환 10,000회 모든 군 SBS 감소.
 
 ## 1. Document Information
 J Funct Biomater 2026;17:70. doi:10.3390/jfb17020070. 경희대 치의학과. n=180 소결 지르코니아, 열순환 10,000회 (5-55°C).

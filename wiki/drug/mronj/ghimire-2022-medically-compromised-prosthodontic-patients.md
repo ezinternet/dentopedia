@@ -6,7 +6,7 @@ date: 2022-01-11
 doi: 10.1155/2022/7510578
 journal: International Journal of Dentistry 2022:7510578
 source: ghimire-2022-medically-compromised-prosthodontic-patients.md
-confidence: narrative-review
+evidence_level: narrative-review
 category: [drug/mronj]
 pdf_path: /Users/oracleneo/llm-wiki/papers/ghimire-2022-medically-compromised-prosthodontic-patients.pdf
 pdf_filename: ghimire-2022-medically-compromised-prosthodontic-patients.pdf
@@ -14,11 +14,21 @@ source_collection: external
 tags: [systemic-disease, prosthodontics, arthritis, cardiovascular, diabetes, bisphosphonate, MRONJ, renal, liver, oncology, drug-interaction]
 ---
 
-## One-line Summary
-Narrative review: prosthetic treatment modification guidelines for 9 systemic disease categories in elderly patients (arthritis, cardiovascular, endocrine, hematologic-oncologic, neurological, bone disease, pulmonary, hepatic, renal) — includes bisphosphonate BRONJ, radiation osteonecrosis, and DMARDs interactions.
+## Three-line Summary
 
-## 한줄요약
-서술적 고찰: 노인 전신질환 9개 그룹(관절염·심혈관·내분비·혈액종양·신경·골질환·폐·간·신장)의 보철 치료 수정 지침 — 비스포스포네이트 BRONJ, 방사선 골괴사, DMARDs 상호작용 포함
+Narrative review (Int J Dent 2022) covering prosthetic treatment modification guidelines for 9 systemic disease categories in elderly patients (arthritis, cardiovascular, endocrine, hematologic-oncologic, neurological, bone disease, pulmonary, hepatic, renal).
+
+Key prosthodontic decision rules: oral BP <3 yr proceed normally; oral BP >3 yr or IV BP requires drug holiday + specialist evaluation before implants; head/neck radiation >50 Gy contraindicates implants in the radiation field without HBO evaluation; HbA1c ≥9% delays implant placement.
+
+Clinical implication: this review provides a quick-reference table of prosthetic modifications by systemic disease, prioritizing fixed over removable prosthetics in most medically compromised patients.
+
+## 세줄요약
+
+서술적 고찰(Int J Dent 2022) — 노인 전신질환 9개 그룹(관절염·심혈관·내분비·혈액종양·신경·골질환·폐·간·신장)의 보철 치료 수정 지침.
+
+주요 보철 결정 원칙: 경구 BP <3년은 정상 진행; >3년 또는 IV BP는 drug holiday + 전문가 평가 후 임플란트; 방사선 조사 >50 Gy는 HBO 평가 없이 임플란트 금기; HbA1c ≥9%는 임플란트 연기.
+
+임상적 의미: 전신질환별 보철 수정 사항을 단일 표로 제공하며, 대부분의 전신질환 환자에서 가철성보다 고정성 보철을 우선 권장.
 
 ## Summary
 Narrative review of prosthodontic treatment modifications for 9 systemic disease categories commonly affecting aged patients. Unique focus: restorative/prosthetic decision-making (fixed vs removable, implant eligibility) under medical compromise.
@@ -55,6 +65,6 @@ Narrative review of prosthodontic treatment modifications for 9 systemic disease
 - IV bisphosphonate (oncologic): implants and surgical extractions contraindicated without specialist evaluation
 
 ## Related Papers
-- [[drug/gupta-2022-dental-management-cardiovascular-disease]] — detailed CVD protocols including drug interactions
-- [[drug/ufcd-2019-medically-complex-patients-management-guidelines]] — comprehensive protocol guideline
-- [[drug/inchingolo-2024-anticoagulation-therapy-dental-practice-sr]] — anticoagulation: do not stop for routine procedures
+- [[drug/anticoagulants/gupta-2022-dental-management-cardiovascular-disease]] — detailed CVD protocols including drug interactions
+- [[drug/mronj/ufcd-2019-medically-complex-patients-management-guidelines]] — comprehensive protocol guideline
+- [[drug/anticoagulants/inchingolo-2024-anticoagulation-therapy-dental-practice-sr]] — anticoagulation: do not stop for routine procedures

@@ -9,8 +9,21 @@ pdf_filename: almashaan-2023-lithium-disilicate-survival-sr.pdf
 source_collection: external
 ---
 
-## One-line Summary
-리튬 디실리케이트(Lithium Disilicate, LDS) 고정성 보철물 생존율 SR (Medicina 2023): 2006–2022 문헌 검색; LDS vs PFM 비교; LDS 단관 생존율 양호, 장경간 FPD는 한계.
+## Three-line Summary
+
+Systematic review without meta-analysis (Medicina 2023; PubMed/EMBASE/Google Scholar, January 2006–August 2022) evaluating survival and complication rates of complete-coverage lithium disilicate fixed prostheses on natural tooth abutments versus non-LDS alternatives.
+
+LDS single crowns show 5-year survival rates comparable to or exceeding PFM (>90%); LDS FPDs have higher fracture risk for longer spans than metal-ceramic FPDs; main complications are chipping/fracture and secondary caries.
+
+No meta-analysis was possible due to study heterogeneity; cementation protocols and tooth preparation designs were not standardized across included studies, limiting direct comparisons.
+
+## 세줄요약
+
+체계적 문헌고찰 (메타분석 없음; 2006–2022 문헌; 자연치 지대치 위 LDS 완전 피개 고정성 보철물의 생존율·합병증 평가).
+
+LDS 단관은 5년 생존율 PFM과 동등 이상(>90%); 다단 가교 LDS FPD는 금속도재 FPD보다 파절 위험 높음; 주요 합병증은 칩핑/파절·이차 우식.
+
+연구 이질성으로 메타분석 불가; 접착 프로토콜·치아 삭제 디자인 비표준화로 직접 비교 제한.
 
 ## 1. Document Information
 - **Journal**: Medicina 2023, 59, 95

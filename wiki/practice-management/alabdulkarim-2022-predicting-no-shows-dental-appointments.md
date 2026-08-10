@@ -6,7 +6,7 @@ date: 2022-11-09
 doi: 10.7717/peerj-cs.1147
 source: alabdulkarim-2022-predicting-no-shows-dental-appointments.md
 category: [practice-management]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 full_text: true
 pmid: "36426240"
@@ -20,13 +20,21 @@ relations:
     target: alkhurayji-2024-factors-patient-failure-attend-dental
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective machine-learning study (n=196,018 dental appointments, single Riyadh clinic, 2019; 42.7% no-show) building per-appointment no-show predictors — best model AUC 0.718, F1 66.5% — using a novel binary-sequence representation of no-show history, with cross-clinic generalization and a proposal to shorten high-risk appointment slots.
+Retrospective machine-learning study (n=196,018 dental appointments from a single Riyadh clinic in 2019; 42.7% no-show rate) training logistic regression, random forest, and gradient boosting classifiers to predict per-appointment no-shows, validated on a second clinic (n=49,007).
 
-## 한줄요약
+The best model reached AUC 0.718 and F1 66.5%; lead time was the single strongest predictor (removing it dropped AUC by 7.5–7.9%); the novel binary-sequence encoding of prior no-show history improved logistic-regression AUC by 2–5%; models generalized to the second clinic with RF AUC 0.748 / F1 0.665.
 
-후향적 머신러닝 연구(사우디 리야드 치과 1년치 예약 196,018건, 노쇼율 42.7%)로 예약별 노쇼 예측 모델을 구축 — 최고 모델 AUC 0.718, F1 66.5%. 노쇼 이력을 이진 시퀀스로 표현하는 새 방법을 쓰고, 다른 치과로의 일반화를 확인했으며, 고위험 예약의 진료시간을 단축하는 스케줄링 활용안을 제시한다.
+Predictions should inform scheduling by shortening appointment-slot durations for high-risk patients rather than overbooking, capping the cost of a missed slot while minimizing disruption.
+
+## 세줄요약
+
+후향적 머신러닝 연구 (사우디 리야드 치과 예약 196,018건, 2019년, 노쇼율 42.7%): 로지스틱 회귀·랜덤 포레스트·그래디언트 부스팅으로 예약별 노쇼 예측 모델 구축, 2차 기관(49,007건) 검증.
+
+최우수 모델 AUC 0.718, F1 66.5%; 예약 리드타임(lead time)이 단일 최강 예측인자(제거 시 AUC −7.5~7.9%); 노쇼 이력 이진 시퀀스(binary sequence) 표현이 LR AUC 2~5% 향상; 2차 기관 RF AUC 0.748 / F1 0.665.
+
+고위험 예약에는 과예약(overbooking) 대신 예약 슬롯 단축으로 결석 비용을 줄이고 후속 환자 불편을 최소화하는 스케줄링 전략을 권고.
 
 ## Summary
 

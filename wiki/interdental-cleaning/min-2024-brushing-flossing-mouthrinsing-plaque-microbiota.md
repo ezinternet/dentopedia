@@ -6,20 +6,28 @@ date: 2024-05-17
 doi: 10.1186/s12903-024-04362-y
 source: min-2024-brushing-flossing-mouthrinsing-plaque-microbiota.md
 category: [interdental-cleaning]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 text_path: /Users/oracleneo/llm-wiki/papers/min-2024-brushing-flossing-mouthrinsing-plaque-microbiota.txt
 text_filename: min-2024-brushing-flossing-mouthrinsing-plaque-microbiota.txt
 tags: [listerine, mouthwash, essential-oil, plaque, microbiome, flossing, oral-hygiene, metagenomics, vpcr]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-12-week parallel RCT (n=256 gingivitis subjects, 5 arms) using quantitative shotgun metagenomics showed brushing+flossing had no additional effect on supragingival plaque microbiota vs. brushing alone, while essential-oil mouthrinses (with/without alcohol) significantly reduced microbial diversity, species richness, and total bacterial abundance; flossing+rinsing showed subgingival synergy not seen with either alone.
+Examiner-blind 12-week parallel RCT (n=288 analyzed, 258 gingivitis subjects across 5 arms: brushing only, brushing+flossing, brushing+Listerine Antiseptic, brushing+Listerine Zero, and brushing+flossing+Listerine Zero) using first-ever quantitative absolute-abundance shotgun metagenomics (CMU via spiked-DNA).
 
-## 한줄요약
+Brushing+flossing produced no significant difference vs brushing alone in supragingival plaque microbiota (diversity, richness, total bacteria all NS); all essential-oil mouthrinse arms significantly reduced these metrics (alcohol-containing BA reducing gingivitis-associated species by 91–94%); flossing+rinsing combined was the only regimen with significant subgingival synergy (reduced total bacteria, P. gingivalis, F. nucleatum).
 
-12주 평행군 RCT (치은염 256명, 5군)에서 샷건 메타게놈 정량분석 결과, 치솔질+치실(BF)은 치솔질 단독(B) 대비 치은연상 플라크 미생물군집(Supragingival Plaque Microbiome)에 유의한 차이 없었으나, 에센셜오일 가글(BA·BZ·BFZ)은 다양성(Shannon-Weaver)·종 풍부도·총 세균량을 유의하게 감소시켰고, 치실+가글 병용(BFZ)만이 치은연하(Subgingival)에서 상승효과(Synergy)를 나타냈다.
+Flossing alone provides no meaningful antimicrobial benefit over brushing at the supragingival level, while essential-oil mouthrinses do; combined flossing+rinsing achieves subgingival pathogen reduction neither agent accomplishes alone, though prominent industry authorship (J&J) warrants caution.
+
+## 세줄요약
+
+검사자 맹검 12주 평행군 RCT(n=288 분석, 치은염 258명 5군: 칫솔질 단독·+치실·+Listerine Antiseptic·+Listerine Zero·+치실+Listerine Zero): 최초의 정량 절대풍도 샷건 메타게놈(CMU, spiked-DNA 표준) 적용.
+
+치솔질+치실(BF)은 칫솔질 단독 대비 치은연상 플라크 미생물군집(다양성·풍부도·총세균량)에서 유의차 없음; 에센셜오일 가글 3군 모두 유의한 감소(알코올 함유 BA가 치은염 연관 세균 91–94% 감소로 최강); 치실+가글 병용만이 치은연하에서 총세균·P. gingivalis·F. nucleatum 유의 감소(상승효과).
+
+치실 단독은 칫솔질 대비 치은연상 항균 효과가 없고, 에센셜오일 가글은 효과적이며; 치실+가글 병용은 단독으로는 불가능한 치은연하 병원균 감소를 달성한다. 단, 저자 대다수가 J&J 소속으로 이해충돌에 주의.
 
 ## Summary
 

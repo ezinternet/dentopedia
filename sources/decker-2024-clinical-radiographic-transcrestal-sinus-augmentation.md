@@ -11,8 +11,25 @@ pdf_filename: decker-2024-clinical-radiographic-transcrestal-sinus-augmentation.
 source_collection: external
 ---
 
-## One-line Summary
-Scoping review (PRISMA-ScR, 37 articles from 633 records) of 25-year transcrestal sinus floor elevation (TSFE) literature. Identifies 4 treatment modalities (osteotome + 3 alternatives). Reports radiographic bone levels, implant failure >5 yr, ISQ at placement, complications across techniques.
+## Three-line Summary
+
+Scoping review (PRISMA-ScR, 37 articles from 633 records, ≥12-month healing required) of 25 years of transcrestal sinus floor elevation (TSFE) literature identifying 4 treatment modalities — traditional osteotome and 3 alternatives — across RCTs, prospective cohorts, and non-randomized controlled designs.
+
+Primary outcomes were radiographic bone levels and implant failure >5 years; secondary outcomes included ISQ at placement and complication rates; full numerical modality-specific values are in the source tables.
+
+Heterogeneous outcome reporting across primary studies and absence of statistical pooling limit comparative conclusions; standardized reporting is needed for future TSFE meta-analyses.
+
+## 세줄요약
+
+PRISMA-ScR 스코핑 리뷰 (633건 → 37편 포함, 추적 최소 12개월) — 25년간의 경치조골 상악동 거상술 (Transcrestal Sinus Floor Elevation, TSFE) 문헌을 4가지 시술법(전통적 골삭제 바 + 3가지 대안)으로 분류했다.
+
+주요 결과는 방사선학적 골 수준과 5년 이상 임플란트 실패율이며, 2차 결과로 식립 시 ISQ와 합병증률을 보고한다.
+
+1차 연구들의 결과 보고 이질성이 높고 통계적 통합이 없어 시술법 간 직접 비교는 제한적이며, 향후 TSFE 메타분석을 위한 표준화된 보고 기준이 필요하다.
+
+## Why Ingested
+
+[역소급 작성 2026-07-05 — 원 인제스트(2026-05-18) 당시 동기 기록 없음. [[overviews/sinus-lift-technique-selection]]에서 확인되는 현재 역할을 백필.] [[overviews/sinus-lift-technique-selection]] 기법선택 표에서 25년치 TSFE 4개 술식을 통째로 분류한 스코핑 리뷰(37편) — sirinirund-2025(sr, ≥5mm 기준)·shalash-2023(prospective)·toledano-2022(sr+ma)와 함께 경치조골 접근법 비교의 폭넓은 배경지도를 제공.
 
 ## 1. Document Information
 University of Michigan group (Decker, Stuhr, Testori, Wang). Decker and Stuhr share first authorship. Published in CID, open-access.

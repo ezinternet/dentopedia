@@ -6,7 +6,7 @@ date: 2024-02-06
 doi: 10.4103/ams.ams_165_23
 source: mohsen-2024-vitamin-d-deficiency-osseointegration-prospective.md
 category: [implants/vitamin-d]
-confidence: prospective
+evidence_level: prospective
 source_collection: pubmed-text
 full_text: true
 pmid: "39184430"
@@ -22,13 +22,21 @@ relations:
     target: buzatu-2024-vitamin-d-osseointegration-human-studies-sr
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Prospective study (143 implant sites / 53 patients, RFA-measured stability): overall early implant failure 7% (10/143), but 46.2% at serum vitamin D <10 ng/mL vs 4.5% (>30 ng/mL) and 2.3% (10–30 ng/mL); deficiency also tracked lower CBCT bone density, lower ISQ, and a higher immature/mature collagen ratio.
+Single-center prospective observational study (53 patients, 143 implants, Egypt 2020–2023) testing whether pre-operative serum 25(OH)D category predicts early dental implant failure (EDIF) within 12 weeks.
 
-## 한줄요약
+Overall EDIF was 6.9% (10/143), but 46.2% in the deficient (<10 ng/mL) group vs 2.3% (10–30 ng/mL) and 4.5% (>30 ng/mL) — a steep dose-response confirmed by bone biopsy showing higher immature/mature collagen ratio and lower CBCT bone density and ISQ in deficient patients.
 
-전향 연구(임플란트 143부위/환자 53명, 공명주파수분석(Resonance Frequency Analysis, RFA) 안정성 측정): 전체 조기 임플란트 실패(Early Dental Implant Failure, EDIF) 7%(10/143)이나 혈청 비타민 D <10 ng/mL군에서 46.2%로 급증(>30 ng/mL: 4.5%, 10–30 ng/mL: 2.3%); 결핍군은 CBCT 골밀도와 임플란트 안정성 지수(Implant Stability Quotient, ISQ)가 낮고 미성숙/성숙 콜라겐 비율이 높았다.
+Vitamin D deficiency isolated as the dominant risk signal (age, gender, smoking, and controlled diabetes were non-significant); the 46.2% figure rests on only 6 failures in 13 deficient implants, limiting precision.
+
+## 세줄요약
+
+단일기관 전향적 관찰 연구 (53명·임플란트 143개, 이집트 2020–2023) — 수술 전 혈청 25(OH)D 범주가 12주 이내 조기 임플란트 실패 (Early Dental Implant Failure, EDIF)를 예측하는지 검증.
+
+전체 EDIF 6.9%(10/143); 결핍군(<10 ng/mL) 46.2% vs 부족군(10–30 ng/mL) 2.3% vs 충분군(>30 ng/mL) 4.5% — 골생검에서 미성숙/성숙 콜라겐 비율 증가, CBCT 골밀도 및 임플란트 안정성 지수 (ISQ) 감소로 용량-반응 확인.
+
+비타민 D 결핍이 주요 위험 신호로 분리됨(나이·성별·흡연·조절된 당뇨는 비유의); 46.2% 수치는 13개 임플란트 중 6개 실패에 근거해 신뢰구간이 넓음.
 
 ## Summary
 

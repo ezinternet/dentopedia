@@ -13,13 +13,21 @@ source_collection: external
 
 [[wiki/drug/catella-lawson-2001-cyclooxygenase-inhibitors-aspirin-nejm]]는 NSAID-aspirin 약력학 상호작용을 다룬 2001년 근거인데, 저용량 aspirin의 메커니즘·효능·출혈 위험에 대한 30년치 종합이 필요했다. 본 2024 State-of-the-Art Review는 치과 발치·임플란트 수술 전 항혈소판 관리 의사결정에 적용(applies-to)할 최신 통합 근거를 제공한다 (저용량 aspirin 중단 여부 판단의 근거).
 
-## One-line Summary
+## Three-line Summary
 
 State-of-the-art narrative review of 30 years of low-dose aspirin (75–100 mg/day) evidence: irreversible platelet COX-1 acetylation suppresses thromboxane A2, reducing atherothrombosis (e.g., RR 0.52, NNT 10 in one secondary-prevention dataset) while increasing GI bleeding and lowering colorectal adenoma recurrence.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 저용량 aspirin(75–100 mg/일)에 관한 30년 근거를 통합한 State-of-the-Art 종설로, 혈소판 COX-1의 비가역적 아세틸화가 thromboxane A2를 억제해 죽상혈전증을 줄이고(일부 2차예방 데이터 상대위험비 0.52, NNT 10) 위장관 출혈을 늘리며 대장 선종 재발을 낮춘다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

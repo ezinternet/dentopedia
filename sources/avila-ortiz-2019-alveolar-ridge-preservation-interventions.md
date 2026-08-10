@@ -14,8 +14,21 @@ source_collection: external
 
 The EFP/AO consensus SR+MA that supplies the 9-modality ARP taxonomy underpinning [[overviews/socket-preservation-arp-overview]], and the "ARP is effective" position that [[overviews/bone-regeneration-socket-biology-and-arp-critique]] weighs against the Cochrane downgrade. Pairs with [[atieh-2021-interventions-replacing-missing-teeth]] as the two anchor syntheses on ARP efficacy.
 
-## One-line Summary
-SR+MA of 22 RCTs (25 articles) categorizing ARP into 9 distinct treatment modalities — all reduce post-extraction dimensional loss vs spontaneous healing, but no head-to-head superiority of any single modality on patient-reported outcomes; published as the EFP/AO Workshop reference paper.
+## Three-line Summary
+
+EFP/AO Workshop SR+MA (J Clin Periodontol 2019; 22 RCTs, 25 articles) systematically classifying alveolar ridge preservation into 9 distinct treatment modalities and comparing each to spontaneous socket healing in randomized controlled trials.
+
+All modalities significantly reduced horizontal and vertical ridge dimensional loss vs spontaneous healing; no single modality demonstrated head-to-head superiority; xenograft/allograft with socket sealing had the most evidence; PROMs were too sparsely reported for pooled analysis.
+
+ARP is effective and should be offered to patients; choice of modality cannot be definitively ranked from current evidence, and standardized outcome reporting in future RCTs is urgently needed.
+
+## 세줄요약
+
+EFP/AO 워크샵 SR+MA (J Clin Periodontol 2019; RCT 22편, 25 논문) — 치조제보존술(ARP)을 9가지 처치 양식으로 분류하여 각각을 자연 치유 대조군과 무작위대조시험 수준에서 비교.
+
+모든 양식이 자연 치유 대비 수평·수직 치수 소실을 유의하게 감소; 단일 우위 양식 없음; 이종/동종골+소켓 밀폐(Socket Sealing)가 근거 가장 풍부; 환자보고결과(PROM)는 분석에 충분치 않음.
+
+ARP는 효과적이며 환자에게 제공돼야 함; 최적 양식 순위는 현재 근거로 결정 불가 — 향후 표준화된 결과 보고 체계의 RCT 필요.
 
 ## 1. Document Information
 - **Journal**: Journal of Clinical Periodontology 2019;46(Suppl 21):195–223 (EFP/AO Consensus Workshop)

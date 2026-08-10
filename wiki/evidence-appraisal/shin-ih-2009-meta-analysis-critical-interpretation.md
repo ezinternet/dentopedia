@@ -6,18 +6,28 @@ date: 2009-10-01
 doi: null
 source: shin-ih-2009-meta-analysis-critical-interpretation.md
 category: evidence-appraisal
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/shin-ih-2009-meta-analysis-critical-interpretation.pdf
 pdf_filename: shin-ih-2009-meta-analysis-critical-interpretation.pdf
 source_collection: external
 tags: [meta-analysis, systematic-review, critical-appraisal, korean, biostatistics]
 ---
 
-## One-line Summary
-Korean-language educational tutorial (Korean Association for the Study of the Liver 2009 invited lecture) on critically interpreting meta-analysis (MA): grounds MA in a prior well-conducted systematic review, distinguishes continuous (SMD) vs categorical (OR/RR) effect-size pathways, and names homogeneity (Cochran Q), publication bias (funnel plot), and effect-direction consistency as the key diagnostics.
+## Three-line Summary
 
-## 한줄요약
-2009 대한간학회 추계학술대회 초청강의 (한국어): 메타분석의 정의·필요성·전제조건·효과크기 산정·이질성 검정·출판편향까지 임상의 비판적 해석을 위한 입문 핸드아웃.
+Korean-language invited-lecture tutorial (Korean Association for the Study of the Liver 2009) on critically interpreting meta-analysis: defines MA as valid only when the upstream systematic review has identified high-quality comparable studies via PICO and reproducible search, then distinguishes continuous (standardized mean difference) vs categorical (OR/RR/rate difference) effect-size pathways.
+
+Three diagnostics that every clinician should check are identified: homogeneity (Cochran Q, conventional alpha 0.10), publication bias (funnel plot including language/database bias), and effect-direction consistency across studies — illustrated with a 17-trial hypothetical showing why naive vote-counting fails.
+
+This lecture-style handout is a low-cost Korean-language orientation for clinicians new to meta-analysis, but predates I² conventions, PRISMA 2020, GRADE, and network meta-analysis — use Shin WJ 2015 for the updated methodology treatment.
+
+## 세줄요약
+
+대한간학회 2009 추계학술대회 초청강의 (한국어): PICO·재현 가능 검색으로 고질 연구를 선별한 상류 SR이 선행되어야만 MA가 유효함을 전제로, 연속형(표준화 평균차)·범주형(OR/RR/율차) 효과크기 산정 경로를 구분.
+
+임상의가 반드시 확인해야 할 세 가지 진단 지표: 동질성(Cochran Q, alpha 0.10 관례)·출판편향(funnel plot, 언어/데이터베이스 편향 포함)·효과방향 일관성 — 17편 가상 예시로 단순 투표 계산의 실패를 시연.
+
+메타분석에 처음 입문하는 한국어 임상의용 저비용 개론이나, I² 관례·PRISMA 2020·GRADE·네트워크 메타분석 이전 기준 — 방법론 심화는 Shin WJ 2015 참조.
 
 ## Summary
 A Korean-language tutorial that grounds meta-analysis (MA) in the prior step of a well-conducted systematic review (SR), then walks through how clinicians should read a forest plot. It is conceptually a precursor to Shin WJ 2015 in this wiki — same language, similar coverage, earlier and more lecture-style.

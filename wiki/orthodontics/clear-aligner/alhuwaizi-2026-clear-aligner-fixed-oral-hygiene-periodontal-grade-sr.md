@@ -6,7 +6,7 @@ date: 2026-04-03
 doi: 10.1093/ejo/cjaf100
 source: alhuwaizi-2026-clear-aligner-fixed-oral-hygiene-periodontal-grade-sr.md
 category: [orthodontics/clear-aligner]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: false
 pmid: "42163541"
@@ -21,13 +21,21 @@ relations:
     target: baneshi-2024-clear-aligners-malocclusion-sr-ma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Qualitative SR with GRADE (6 RCTs, 2015–April 2025): periodontal/hygiene parameters significantly better with clear aligners than fixed appliances, but 5/6 RCTs at high RoB and certainty only very-low (oral hygiene) to low (periodontal) — the CA advantage is highly compliance-dependent and no firm conclusion is possible.
+Qualitative systematic review (1098→6 RCTs, 2015–April 2025; RoB 2 + GRADE; no meta-analysis) comparing oral hygiene and periodontal health between clear aligners and fixed appliances.
 
-## 한줄요약
+Periodontal parameters were qualitatively significantly better with clear aligners, but 5 of 6 RCTs were at high risk of bias; GRADE certainty was very low for oral hygiene level and low for periodontal health, preventing any firm conclusion.
 
-GRADE 기반 정성 SR(RCT 6편, 2015–2025.4): 치주·구강위생 지표는 투명교정장치(CA)가 고정장치(FA)보다 유의하게 양호하나, 6편 중 5편이 high RoB이고 근거확실성은 구강위생 very-low·치주 low. CA의 우위는 순응도(compliance)에 크게 좌우되어 확정 결론 불가.
+The clear aligner periodontal advantage is highly compliance-dependent, not intrinsic to the device — counsel patients on wear time and hygiene adherence rather than promising inherent gum protection.
+
+## 세줄요약
+
+정성적 체계적 문헌고찰(1098→RCT 6편, 2015–2025.4; RoB 2+GRADE; MA 미시행) — 투명교정장치(Clear Aligner, CA) vs 고정장치(Fixed Appliance, FA)의 구강위생·치주건강 비교.
+
+치주 지표는 CA가 정성적으로 유의하게 양호하나, 6편 중 5편 high RoB; GRADE 근거확실성 구강위생 very-low·치주 low — 확정 결론 불가.
+
+CA의 치주 우위는 장치 고유 특성이 아닌 환자 순응도(Compliance)에 크게 좌우 — 교정 장치 선택보다 착용 시간·위생 관리 상담이 더 중요.
 
 ## Summary
 

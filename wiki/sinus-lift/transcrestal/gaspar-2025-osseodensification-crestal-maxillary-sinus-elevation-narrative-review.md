@@ -6,18 +6,26 @@ date: 2025-01-01
 doi: 10.1111/cid.13399
 source: gaspar-2025-osseodensification-crestal-maxillary-sinus-elevation-narrative-review.md
 category: [sinus-lift/transcrestal]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/gaspar-2025-osseodensification-crestal-maxillary-sinus-elevation-narrative-review.pdf
 pdf_filename: gaspar-2025-osseodensification-crestal-maxillary-sinus-elevation-narrative-review.pdf
 source_collection: external
 tags: [sinus-lift, transcrestal, osseodensification, Densah, CSFE, narrative-review]
 ---
 
-## One-line Summary
-Narrative review (lead OD-TSFE researchers): proposes three residual-bone-height (RBH)-stratified osseodensification (OD) transcrestal sinus floor elevation (TSFE) protocols applicable down to RBH ~2 mm, identifies RBH ≤2–3 mm as the dominant Schneiderian membrane perforation risk factor, and reports OD advantages over lateral window/osteotome (higher primary ISQ, lower perforation, better PROMs) — framed as a paradigm shift, with conflict-of-interest caveats.
+## Three-line Summary
+Narrative review by lead OD-TSFE researchers synthesizing biomechanical, histologic, and clinical evidence for osseodensification (OD)-mediated transcrestal sinus floor elevation (TSFE) across all residual bone height (RBH) ranges.
 
-## 한줄요약
-경치조골 상악동 거상술(Transcrestal Sinus Floor Elevation, TSFE) + 골밀도화(Osseodensification, OD) 종합 서술리뷰 — 잔존 골높이(Residual Bone Height, RBH) 기반 3가지 프로토콜 제안(≥2 mm까지 적용). RBH ≤2–3 mm가 슈나이더막 천공 위험인자. 측방창 대비 환자보고결과(Patient-Reported Outcome Measures, PROMs) 우수, 합병증률 낮음 — paradigm shift로 평가.
+Three RBH-stratified OD protocols are proposed (Sinus Lift I ≥6 mm, Sinus Lift II 4–5 mm, extended approach 2–3 mm), with RBH ≤2–3 mm identified as the dominant Schneiderian membrane perforation risk factor.
+
+OD-TSFE is reported to yield higher primary ISQ, lower perforation rates, and better patient-reported outcome measures (PROMs) than lateral window or osteotome approaches, though findings are from inventor-led groups without formal evidence grading.
+
+## 세줄요약
+골밀도화(Osseodensification, OD) 경치조골 상악동거상술(Transcrestal Sinus Floor Elevation, TSFE) 서술리뷰 — 잔존 골높이(Residual Bone Height, RBH) 기반 3가지 프로토콜(Sinus Lift I ≥6 mm, II 4–5 mm, 확장형 2–3 mm) 제안.
+
+RBH ≤2–3 mm가 슈나이더막(Schneiderian membrane) 천공의 주요 독립 위험인자로 확인됨.
+
+측방창 술식 대비 1차 임플란트 안정성 지수(Implant Stability Quotient, ISQ) 우수·천공률 낮음·환자보고결과(PROMs) 개선되나, 발명자 주도 서술리뷰로 이해충돌 주의 필요.
 
 ## Summary
 Narrative review by lead OD-TSFE researchers proposing three RBH-stratified protocols (matched to Versah Sinus Lift I/II and Combined approaches) and synthesizing biomechanical, histologic, and clinical evidence.
@@ -39,7 +47,7 @@ Three RBH-stratified protocols proposed: (1) Sinus Lift I for RBH ≥6 mm, (2) S
 Narrative — no formal evidence grading. Authors heavily involved in OD development (potential conflict of interest). Protocols are proprietary (Versah Densah® burs). Long-term implant survival data still maturing.
 
 ## Related Papers
-- [[implants/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — original OD paper
+- [[implants/osseodensification/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — original OD paper
 - [[sinus-lift/transcrestal/mazor-2024-maxillary-sinus-membrane-perforation-osseodensification]]
 - [[sinus-lift/transcrestal/cobo-vazquez-2025-crestal-sinus-lift-osteotome-vs-osseodensification]]
 - [[sinus-lift/transcrestal/el-ghobashy-osseodensification-vs-osteotome-transcrestal-sinus]] — RCT OD vs osteotome

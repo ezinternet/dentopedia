@@ -13,13 +13,21 @@ source_collection: external
 
 Cold atmospheric plasma (CAP) is emerging as a disinfection modality in endodontics, but its efficacy relative to established intracanal medicaments (Ca(OH)₂, TAP) against the most resistant endodontic pathogen — E. faecalis — has rarely been benchmarked head-to-head in a well-controlled in vitro model. This paper provides that direct comparison and reinforces the overview framework being built in [[endodontics/irrigation/ardila-2026-intracanal-medicaments-enterococcus-faecalis-sr]], which identified antibiotic pastes as superior to Ca(OH)₂ against E. faecalis.
 
-## One-line Summary
+## Three-line Summary
 
-In vitro study (n=63 teeth, 21-day E. faecalis biofilm): triple antibiotic paste completely eliminated bacteria (greatest CFU reduction); helium/oxygen cold atmospheric plasma significantly reduced biofilm but less so than TAP; calcium hydroxide showed no significant reduction versus positive control.
+In vitro study (n=63 single-rooted human teeth, 21-day mature E. faecalis ATCC 29212 biofilm) directly comparing three intracanal treatments: triple antibiotic paste (TAP 10 mg/mL, 12 days), helium/oxygen cold atmospheric plasma (CAP, 10 min), and calcium hydroxide (12 days).
 
-## 한줄요약
+TAP achieved complete bacterial elimination (greatest CFU reduction, P<0.05 vs control); CAP significantly reduced biofilm (P<0.05) but less than TAP; calcium hydroxide showed no significant CFU reduction versus positive control; efficacy hierarchy: TAP > CAP > Ca(OH)₂.
 
-체외 연구(63개 발치치, 21일 E. faecalis 바이오필름): 삼중항생제 페이스트(TAP)가 완전한 균 제거(최대 CFU 감소)를 달성했고, 헬륨/산소 냉대기압 플라즈마는 유의하게 감소시켰으나 TAP보다 열세였으며, 수산화칼슘은 대조군 대비 유의한 차이가 없었다.
+CAP has biological plausibility as an endodontic disinfectant via RONS generation, but clinical delivery challenges and the 10-min vs 12-day time inequivalence limit direct comparison; Ca(OH)₂ alone appears insufficient against mature E. faecalis biofilm.
+
+## 세줄요약
+
+체외 연구(단근치 63개, 21일 E. faecalis ATCC 29212 성숙 바이오필름) — 삼중항생제 페이스트(Triple Antibiotic Paste, TAP 10 mg/mL, 12일), 헬륨/산소 냉대기압 플라즈마(Cold Atmospheric Plasma, CAP, 10분), 수산화칼슘(Ca(OH)₂, 12일)의 직접 비교.
+
+TAP 완전 균 제거(최대 집락형성단위(Colony Forming Unit, CFU) 감소, P<0.05); CAP는 유의하게 감소(P<0.05)하나 TAP 미만; Ca(OH)₂는 대조군 대비 유의차 없음 — 효능 서열: TAP > CAP > Ca(OH)₂.
+
+CAP는 활성산소·질소종(Reactive Oxygen and Nitrogen Species, RONS)을 통한 항균 생물학적 타당성이 있으나, 임상 근관 내 전달의 기술적 한계와 처치 시간 불일치(10분 vs 12일)로 직접 비교에 제한이 있고, Ca(OH)₂ 단독은 성숙 바이오필름에 부족함.
 
 ## 1. Document Information
 

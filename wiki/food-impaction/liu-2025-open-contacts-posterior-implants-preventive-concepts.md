@@ -6,7 +6,7 @@ date: 2025-09-03
 doi: 10.1016/j.jds.2025.08.035
 source: liu-2025-open-contacts-posterior-implants-preventive-concepts.md
 category: [food-impaction]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: true
 pmid: "41585145"
@@ -22,13 +22,19 @@ relations:
     target: fathi-2022-prevalence-proximal-contact-loss-umbrella
 ---
 
-## One-line Summary
+## Three-line Summary
+Narrative review (56 studies, PubMed/Scopus/Google Scholar 2000–2024) plus an embedded 148-case, 25-year single-operator retrospective with a matched conventional control (n=102) on open proximal contacts beside posterior implants.
 
-Narrative review (56 studies + a 148-case, 25-year private-practice retrospective) of open proximal contacts beside posterior implants; introduces the **MM-DD occlusal-adjustment** concept (remove the mesial-of-mesial-tooth and distal-of-distal-tooth occlusal contacts to steer adjacent teeth *toward* the implant), reporting open-contact incidence 11.5% vs the 34-66% conventional range.
+Open-contact incidence in the MM-DD group was 11.5% (vs 38.2% matched control and the reported 34–66% conventional range); food impaction 18.4% vs 76.9% in controls' open-contact cases; subgroup risk highest in mandibular arch, single-unit restorations, and patients <50 years.
 
-## 한줄요약
+MM-DD (remove mesial-of-mesial-tooth and distal-of-distal-tooth occlusal contacts at crown delivery) is a promising preventive concept that leverages mesial drift, but all evidence is retrospective/single-operator without RCT, limiting clinical adoption guidance.
 
-후방 임플란트 인접 개방접촉(open contact, proximal contact loss, PCL)의 다인자성 원인·발생률·결과를 정리하고, 인접 자연치를 임플란트 쪽으로 유도하는 MM-DD 교합조정 개념(근심치의 근심 / 원심치의 원심 교합접촉 제거)을 제안한 서술적 리뷰 — MM-DD군 개방접촉 11.5% vs 통상 34-66%(후향·단일 술자, RCT 없음).
+## 세줄요약
+서술적 리뷰(56편, 2000–2024) + 단일 술자 148 케이스 25년 후향 임상 데이터 및 대조군(n=102): 구치부 임플란트 인접 개방접촉(open contact, PCL)의 원인·위험인자·결과 및 예방 개념 정리.
+
+MM-DD 교합조정(crown 장착 시 근심 인접치의 근심·원심 인접치의 원심 교합접촉 제거)군에서 개방접촉 11.5% vs 대조군 38.2%; 식편압입 18.4% vs 76.9%; 하악·단일 보철물·50세 미만에서 위험 높음.
+
+MM-DD는 생리적 mesial drift를 이용한 예방적 교합조정 개념으로 가능성이 있으나 모든 근거가 후향·단일 술자 연구이며 무작위 대조시험이 없어 임상 채택은 신중해야 한다.
 
 ## Summary
 

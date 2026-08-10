@@ -17,13 +17,21 @@ text_filename: yu-2023-mandibular-advancement-aligner-vs-functional-class-ii-sr-
 
 `clear-aligner` 복잡/Class II 축: distalization([[wiki/orthodontics/clear-aligner/bhate-2025-cat-maxillary-molar-distalization-class-ii-sr]]) 외 또 다른 Class II 전략(mandibular advancement, MA aligner)을 functional appliance와 비교. PMC OA 전문(efetch).
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (9 controlled trials, n=283): mandibular advancement aligners and traditional functional appliances give comparable skeletal/dental Class II correction (SNA/SNB/ANB/overjet n.s.); aligners control lower-incisor proclination better (1.94 deg less) but produce less mandibular ramus growth (Co-Go 1.10 mm less).
+SR+MA (9 controlled trials, n=283): mandibular advancement aligners and traditional functional appliances give comparable skeletal/dental Class II correction (SNA/SNB/ANB/overjet n.s.);
 
-## 한줄요약
+aligners control lower-incisor proclination better (1.94 deg less) but produce less mandibular ramus growth (Co-Go 1.10 mm less).
 
-SR+MA(대조연구 9편, n=283): MA aligner와 전통적 functional appliance의 골격·치성 Class II 교정은 유사(SNA/SNB/ANB/overjet 무의미). aligner가 하악 전치 순측경사를 더 잘 억제(1.94도 적음)하나 하악지 성장(Co-Go)은 1.10 mm 적음.
+(incomplete)
+
+## 세줄요약
+
+SR+MA(대조연구 9편, n=283): MA aligner와 전통적 functional appliance의 골격·치성 Class II 교정은 유사(SNA/SNB/ANB/overjet 무의미).
+
+aligner가 하악 전치 순측경사를 더 잘 억제(1.94도 적음)하나 하악지 성장(Co-Go)은 1.10 mm 적음.
+
+(incomplete)
 
 ## 1. Document Information
 

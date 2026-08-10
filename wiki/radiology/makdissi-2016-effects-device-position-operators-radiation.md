@@ -6,7 +6,7 @@ date: 2016-01-01
 doi: 10.1259/dmfr.20150245
 source: makdissi-2016-effects-device-position-operators-radiation.md
 category: [radiology]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: false
 pmid: "26764582"
@@ -19,13 +19,21 @@ relations:
     target: benavides-2023-patient-shielding-dentomaxillofacial-radiography
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Phantom + TLD bench study of a NOMAD Pro handheld dental X-ray unit in 3 hold positions: operator scatter dose is negligible overall (peak 0.0310 mGy on the left palm, perpendicular hold) and well below IRR-1999 limits, but device position significantly affects exposure — so positioning protocols, personal dosemeters, training and audits are required.
+In-vitro phantom + TLD bench study of a NOMAD Pro handheld dental X-ray unit held in 3 positions (close/parallel, arms-extended/parallel, perpendicular), with dosemeters placed at the operator's eyes, thyroid, trunk, waist, hand, and feet across 30 exposures per position.
 
-## 한줄요약
+Peak operator scatter dose was 0.0310 mGy on the left palm (perpendicular hold) — negligible and well below IRR-1999 occupational limits — but device position significantly affected total operator exposure.
 
-핸드헬드 휴대용 치과 X-ray(NOMAD Pro)를 팬텀·열형광선량계(TLD)로 3가지 잡는 자세에서 측정한 벤치 연구. 술자(operator) 피폭은 전반적으로 무시할 수준(최고 0.0310 mGy, 왼손 손바닥, 수직 자세)이고 IRR-1999 한도보다 훨씬 낮지만, 기기를 잡는 자세가 피폭에 유의하게 영향을 주므로 자세 프로토콜·개인선량계·교육·정기 감사(audit)가 필요하다.
+Handheld dental X-ray units are safe for operator use, but because hold position significantly affects dose, strict positioning protocols, personal dosimetry, training, and regular audits are required.
+
+## 세줄요약
+
+NOMAD Pro 핸드헬드 휴대 치과 X-ray를 3가지 자세(근접·수평, 팔 뻗음·수평, 수직)로 잡아 팬텀·열형광선량계(Thermoluminescent Dosimeter, TLD)로 술자의 눈·갑상선·흉부·허리·손·발 피폭을 측정한 시험관 내 벤치 연구.
+
+술자 피폭 최고치는 왼손 손바닥 0.0310 mGy(수직 자세)로 IRR-1999 직업 한도보다 훨씬 낮았으나, 기기를 잡는 자세가 총 피폭에 유의한 영향을 미쳤다.
+
+핸드헬드 치과 X-ray는 술자 안전성이 확인되지만, 자세에 따른 피폭 차이가 유의하므로 자세 프로토콜·개인선량계·교육·정기 감사(Audit) 이행이 필수이다.
 
 ## Summary
 

@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1111/clr.14441
 source: mikulas-2025-digital-impression-accuracy-peri-implant-emergence-profile-sr.md
 category: prosthetic-materials
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "40219691"
@@ -22,13 +22,21 @@ relations:
     target: tajti-2023-monolithic-zirconia-metal-ceramic-implant-crowns-sr-ma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (24 studies; 1 pilot RCT, 2 cross-sectional, 4 cross-over, 12 case reports, 5 dental techniques) concluding indirect emergence-profile scanning (extraoral scan of the provisional, superimposed) most accurately captures the peri-implant emergence profile, whereas direct scanning after provisional removal shows considerable soft-tissue collapse (~200–500 μm immediate, up to ~1 mm by 20 min).
+Systematic review (PROSPERO CRD42023459484; 24 studies — 1 pilot RCT, 2 cross-sectional, 4 cross-over, 12 case reports, 5 dental techniques) comparing digital impression methods for capturing the peri-implant emergence profile (EP) of single implant-supported crowns; meta-analysis not performed due to high heterogeneity.
 
-## 한줄요약
+Indirect scanning (extraoral scan of the removed provisional superimposed onto the in-situ scan) most accurately replicates the EP; direct scanning after provisional removal shows significant soft-tissue collapse (~200–500 μm immediately, up to ~1 mm by 20 min) — Ling RCT: direct 1.87 mm vs indirect 0.75 mm labial deviation.
 
-체계적 문헌고찰(24편; 파일럿 RCT 1·단면 2·교차 4·증례 12·술식 5)로, 임플란트 주위 잇몸형태(emergence profile, EP)를 디지털로 캡처할 때 간접 스캐닝(임시보철 구외 스캔 중첩)이 가장 정확하며, 임시보철 제거 직후 직접 스캐닝은 연조직 붕괴(즉시 약 200~500 μm, 20분에 최대 약 1 mm)로 정확도가 낮다.
+Indirect EP scanning approaches conventional elastomeric accuracy and should be preferred over direct scanning for esthetic-zone single crowns; the clinical collapse threshold and standardized protocols remain undefined due to mostly moderate-to-high RoB studies.
+
+## 세줄요약
+
+임플란트 지지 단단관의 임플란트 주위 출현형태(Emergence Profile, EP)를 디지털로 캡처하는 방법을 비교한 체계적 문헌고찰(PROSPERO CRD42023459484; 24편 — 파일럿 RCT 1·단면 2·교차 4·증례 12·술식 5); 이질성으로 정량적 메타분석 불가.
+
+간접 스캐닝(제거한 임시보철 구외 스캔 중첩)이 EP를 가장 정확히 재현; 임시보철 제거 직후 직접 스캐닝은 연조직 붕괴(즉시 약 200–500 μm, 20분 내 최대 약 1 mm) — Ling RCT: 직접 1.87 mm vs 간접 0.75 mm 순순(labial) 편차.
+
+간접 스캐닝이 기존 탄성중합체 인상과 동등 수준에 근접해 심미부 단단관에 권장; 임상적 허용 붕괴 기준 및 표준 프로토콜은 아직 미정립.
 
 ## Summary
 

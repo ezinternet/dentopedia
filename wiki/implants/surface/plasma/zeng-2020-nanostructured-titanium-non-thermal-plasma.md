@@ -6,20 +6,28 @@ date: 2020-05-16
 doi: 10.3390/ijms21103533
 source: zeng-2020-nanostructured-titanium-non-thermal-plasma.md
 category: [implants/surface/plasma]
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/zeng-2020-nanostructured-titanium-non-thermal-plasma.pdf
 pdf_filename: zeng-2020-nanostructured-titanium-non-thermal-plasma.pdf
 source_collection: external
 tags: [plasma, nanostructure, titanate, decontamination, biofilm, osseointegration, BMSC, rat, peri-implantitis]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In vitro + in vivo (rat femur): handheld piezoelectric-direct-discharge non-thermal plasma on alkali-treated titanate nanonetwork (TNS) titanium eliminated S. aureus biofilm without destroying the nanostructure/roughness, and improved rat BMSC osteogenesis and in vivo bone formation — combined decontamination + osseointegration.
+In vitro + in vivo rat femur study: handheld piezoelectric-direct-discharge (PDD) non-thermal plasma applied to alkali-treated titanate nanonetwork (TNS) titanium eliminated S. aureus biofilm without disrupting the nanostructure or surface roughness.
 
-## 한줄요약
+The same plasma treatment improved rat bone marrow stromal cell (BMSC) osteogenesis markers in vitro and enhanced in vivo bone formation in the femur model, demonstrating simultaneous decontamination and osseointegration benefit.
 
-in vitro+in vivo(쥐 대퇴골): 휴대형 PDD 비열 플라즈마를 TNS 나노네트워크 Ti에 적용 — 나노구조·거칠기 유지하며 S. aureus 바이오필름 제거, 쥐 BMSC 골형성·in vivo 골형성 개선. 제염+골유착 동시.
+Because both nanostructure and plasma are present simultaneously, the independent contribution of plasma alone cannot be isolated; no human or loaded clinical data exist.
+
+## 세줄요약
+
+줄1: in vitro+in vivo(쥐 대퇴골): 휴대형 PDD 비열 플라즈마를 TNS 나노네트워크 티타늄에 적용 — 나노구조·거칠기 유지하며 S. aureus 바이오필름 완전 제거.
+
+줄2: 동일 플라즈마 처리가 쥐 BMSC 골형성 지표 개선(in vitro)·대퇴골 in vivo 골형성 향상 → 제염+골유착 동시 달성.
+
+줄3: 나노구조+플라즈마 병용이므로 플라즈마 단독 기여 분리 불가; 인체·부하 임상 데이터 없음.
 
 ## Summary
 

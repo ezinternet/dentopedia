@@ -13,13 +13,21 @@ source_collection: external
 
 이 SR+MA는 미적 최우선 구역(전치부) 임플란트 주위 연조직 증대 후 점막 두께·수직 수준 변화를 선형(linear)과 체적 변화(profilometric) 두 가지 결과지표로 계량화한 EAO 2021 컨센서스 지원 문헌이다. [[wiki/implants/stefanini-2023-soft-tissue-augmentation-peri-implant-sr]]는 중장기 peri-implant 조건에 초점을 맞추는 반면, 이 논문은 즉시·지연 식립 양쪽 시나리오에서 이식 유무에 따른 계량적 점막 변화 차이를 직접 메타분석으로 제시해 임상 의사결정 역치로 활용할 수 있다. [[wiki/implants/keratinized-mucosa-peri-implant-health-overview]] 합성 페이지에 수치 근거(vertical: 0.34 mm, thickness: 0.66 mm)를 보강한다.
 
-## One-line Summary
+## Three-line Summary
 
 SR+MA of 18 studies showing that soft-tissue grafting at esthetic-zone implant sites yields significantly less mid-buccal recession (0.34 mm gain, immediate) and greater mucosa thickness (0.66 mm, immediate) vs no graft, with stable medium-term outcomes.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 전치부 임플란트에서 연조직 이식술은 즉시 식립 시 점막 퇴축 감소(0.34 mm)와 두께 증가(0.66 mm)를 유의하게 제공하며, 중기까지 안정적으로 유지됨을 18개 연구 SR+MA로 확인한 논문.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

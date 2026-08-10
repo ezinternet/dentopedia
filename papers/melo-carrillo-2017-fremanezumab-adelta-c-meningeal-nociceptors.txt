@@ -1,0 +1,48 @@
+Title: Fremanezumab—A Humanized Monoclonal Anti-CGRP Antibody—Inhibits Thinly Myelinated (Aδ) But Not Unmyelinated (C) Meningeal Nociceptors
+
+Authors: Melo-Carrillo A, Strassman AM, Nir RR, Schain AJ, Noseda R, Stratton J, Burstein R
+Journal: The Journal of Neuroscience, 2017 Nov 1;37(44):10587-10596
+PMID: 28972120
+PMCID: PMC5666582
+DOI: 10.1523/JNEUROSCI.2211-17.2017
+
+[NOTE: PMC full-text body was returned empty by the PubMed MCP get_full_text_article tool
+for this PMCID (known PMC-empty-fulltext behavior for some J Neurosci articles). Only the
+structured abstract below was retrievable. full_text: false in the wiki frontmatter reflects this.]
+
+ABSTRACT:
+
+Calcitonin gene-related peptide (CGRP), the most abundant neuropeptide in primary afferent
+sensory neurons, is strongly implicated in the pathophysiology of migraine headache, but its
+role in migraine is still equivocal. As a new approach to migraine treatment, humanized
+anti-CGRP monoclonal antibodies (CGRP-mAbs) were developed to reduce the availability of CGRP,
+and were found effective in reducing the frequency of chronic and episodic migraine. We
+recently tested the effect of fremanezumab (TEV-48125), a CGRP-mAb, on the activity of
+second-order trigeminovascular dorsal horn neurons that receive peripheral input from the
+cranial dura, and found a selective inhibition of high-threshold but not wide-dynamic range
+class of neurons. To investigate the basis for this selective inhibitory effect, and further
+explore the mechanism of action of CGRP-mAbs, we tested the effect of fremanezumab on the
+cortical spreading depression-evoked activation of mechanosensitive primary afferent
+meningeal nociceptors that innervate the cranial dura, using single-unit recording in the
+trigeminal ganglion of anesthetized male rats. Fremanezumab pretreatment selectively
+inhibited the responsiveness of Aδ neurons, but not C-fiber neurons, as reflected in a
+decrease in the percentage of neurons that showed activation by cortical spreading depression.
+These findings identify Aδ meningeal nociceptors as a likely site of action of fremanezumab
+in the prevention of headache. The selectivity in its peripheral inhibitory action may partly
+account for fremanezumab's selective inhibition of high-threshold, as a result of a
+predominant A-δ input to high-threshold neurons, but not wide dynamic-range dorsal horn
+neurons, and why it may not be effective in all migraine patients.
+
+Recently, we reported that humanized CGRP monoclonal antibodies (CGRP-mAbs) prevent
+activation and sensitization of high-threshold (HT) but not wide-dynamic range
+trigeminovascular neurons by cortical spreading depression (CSD). In the current paper, we
+report that CGRP-mAbs prevent the activation of Aδ but not C-type meningeal nociceptors by
+CSD. This is the first identification of an anti-migraine drug that appears to be selective
+for Aδ-fibers (peripherally) and HT neurons (centrally). As the main CGRP-mAb site of action
+appears to be situated outside the brain, we conclude that the initiation of the headache
+phase of migraine depends on activation of meningeal nociceptors, and that for selected
+patients, activation of the Aδ-HT pain pathway may be sufficient for the generation of
+headache perception.
+
+Attribution: According to PubMed, this abstract is from Melo-Carrillo A et al., J Neurosci
+2017. DOI: https://doi.org/10.1523/JNEUROSCI.2211-17.2017

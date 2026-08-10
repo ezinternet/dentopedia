@@ -1,0 +1,133 @@
+Title: Analysis of Soft Tissue Healing Over Socket Orifice Sealed with Platelet-Rich Fibrin Membrane
+Authors: Manlerd R, Jirajariyavej B, Ruangsawasdi N, Thanasrisuebwong P
+Journal: European Journal of Dentistry (Mahidol University, Bangkok, Thailand)
+PMID: 41125096
+PMCID: PMC13337283
+DOI: 10.1055/s-0045-1812061
+Published: 2025-10-22
+
+Abstract
+
+Objective
+Socket sealing is a technique for alveolar ridge preservation following tooth extraction. Leukocyte and platelet-rich fibrin (L-PRF), an autologous platelet-derived material rich in growth factors, is used to support healing. However, its benefits for soft tissue healing compared with collagen sponge or spontaneous healing remain unclear. This study evaluated soft tissue healing outcomes, wound margin distance, inflammation, postoperative pain, and wound closure area, among sockets treated with L-PRF membrane, collagen sponge, or spontaneous healing.
+
+Materials and Methods
+A randomized controlled clinical trial was conducted on 45 extraction sites at the Faculty of Dentistry, Mahidol University, Bangkok, Thailand. Sockets were randomly assigned to L-PRF sealing, collagen sponge sealing, or spontaneous healing. Primary outcomes included wound margin distance reduction percentage, soft tissue healing index, and postoperative pain. The secondary outcome was wound closure area reduction percentage between the L-PRF and collagen sponge groups. Measurements were recorded postoperatively and on days 7, 14, and 21. Pain scores were recorded daily for 1 week. Age, sex, tooth position, and arch were evaluated as covariates.
+
+Statistical Analysis
+One-way ANOVA with least significant difference post-hoc test was used for primary outcomes, and an independent t-test was used for secondary outcomes (p < 0.05).
+
+Results
+Forty-five teeth were enrolled. Three teeth from the collagen sponge group were excluded due to infection and loss to follow-up; three additional teeth were recruited using the original allocation and randomization protocol. On day 7, L-PRF showed a significantly superior soft tissue healing index than collagen sponge (p = 0.002, 95% CI: [0.28, 1.18]) and spontaneous healing (p = 0.002, 95% CI: [0.28, 1.18]). On day 5, L-PRF reduced pain more than collagen sponge (p = 0.036, 95% CI: [0.04, 1.03]) and spontaneous healing (p = 0.026, 95% CI: [0.07, 1.06]). No significant differences in wound closure distance reduction percentage or wound area reduction percentage were observed among the groups.
+
+Conclusion
+L-PRF improved soft tissue healing and reduced postoperative pain within the first week, but showed no added benefit in wound closure compared with collagen sponge or spontaneous healing. L-PRF may support short-term symptom relief but not enhanced post-extraction soft tissue regeneration at the clinical relevance level.
+
+Full Text
+
+Introduction
+
+Soft tissue and alveolar bone have complementary roles; bone provides structural support for soft tissue positioning, while soft tissue contributes to protection from bacterial invasion and enhances the esthetic emergence profile. Following tooth extraction, the alveolar bone undergoes dynamic changes that may compromise surrounding soft tissues. Common post-extraction sequelae include inflammation, bleeding, and pain, whereas progressive vertical and horizontal bone loss, increased soft tissue thickness, and reduced keratinized mucosa can ultimately impair esthetic and functional outcomes of implant-supported prostheses.
+
+Alveolar ridge preservation (ARP) aims to maintain ridge contours after tooth extraction when delayed dental implant treatment is planned. One of the key approaches in ARP is socket sealing, which covers the extraction socket with biomaterials, such as soft tissue punches, collagen-based biomaterials, or blood-derived products. Socket sealing provides hemostasis, prevents food penetration, supports early wound healing, and promotes soft tissue regeneration. Studies have reported ARP protocols incorporating various socket sealing methods, either alone or combined with other regenerative approaches, demonstrating improved wound healing and ridge preservation outcomes. Furthermore, performing ARP was found to decrease resorption, especially in thin buccal bone wall (<1 mm) area, and also decrease the need for additional bone regeneration, such as ridge augmentation. Though in the posterior area or thick buccal bone wall, the benefit of ARP seems to be insubstantial. With regards to implant placement in the ARP site, a 10-year retrospective study revealed that implants placed in the ARP site remained stable in soft tissue with physiologic radiologic marginal bone loss. However, the advantage of soft tissue preservation and healing remains an area of ongoing investigation.
+
+Various biomaterials have been explored for their effectiveness in ARP, particularly in socket sealing. Collagen-based products, such as membranes, sponges, and plugs, are widely used for their ability to facilitate wound closure and epithelial growth. However, variations in resorption rate may influence their suitability for different clinical scenarios.
+
+Platelet-derived products are autogenous biomaterials that promote soft tissue healing. Among them, leukocyte and platelet-rich fibrin (L-PRF) are a potent source of growth factors, including transforming growth factor β1 (TGF-β1), vascular endothelial growth factor (VEGF), platelet-derived growth factor (PDGF), insulin-like growth factor (IGF), and bone morphogenetic protein (BMP). These factors stimulate cell proliferation, migration, and inflammation modulation, making L-PRF suitable for socket sealing. L-PRF is prepared by 12-minute centrifugation at 2,700 RPM, forming a three-dimensional fibrin matrix that traps platelets and leukocytes. While studies highlight its benefits in bone regeneration, its primary advantage appears to be in promoting early soft tissue recovery. Randomized controlled trials have demonstrated that L-PRF enhances soft tissue healing by reducing postoperative pain, accelerating the healing index in the first week, and preventing buccal soft tissue contour contraction. However, gaps remain in understanding its full potential, due to variations in study methodologies, small sample sizes, short follow-up periods, and inconsistent comparisons with other biomaterials.
+
+Given the promising benefits of L-PRF in socket sealing, this study aimed to evaluate its clinical outcomes on soft tissue healing. Wound margin distance reduction, soft tissue healing index, and postoperative pain were compared among three approaches: socket sealing using L-PRF, collagen sponge, and spontaneous healing. Additionally, wound closure area reduction was compared between the L-PRF and collagen sponge groups.
+
+Materials and Methods
+
+Trial Design and Patient Selection
+
+A prospective, randomized, controlled, parallel clinical trial was conducted at the Faculty of Dentistry, Mahidol University, from December 2022 to August 2024, in patients requiring tooth extraction. Participants received study information and provided written consent. The study followed the Declaration of Helsinki with approval from the Institutional Review Board of the Faculty of Dentistry and Faculty of Pharmacy, Mahidol University (COA.No.MU-DT/PY-IRB 2022/036.0508), registered at Thai Clinical Trials Registry (TCTR20250812006) and reported according to the CONSORT guideline.
+
+Inclusion criteria: ≥18 y of age; in good general health (ASA 1 or 2) with no contraindications for oral surgical procedures; extraction of upper or lower tooth/teeth due to periodontal disease, deep caries, endodontic complications, radicular fractures, unrestorable restorative reasons, or orthodontic reasons; presence of adjacent teeth or an implant at the extraction site; intact buccal bone plate, evaluated intraoperatively immediately after tooth extraction; no history of allergy or hypersensitivity to any products used in the study.
+
+Exclusion criteria: history of receiving drugs that influence bone metabolism (e.g., bisphosphonates); history of malignancy, radiotherapy, or chemotherapy for malignancy in the past 5 y; signs of acute inflammation, infection, or abscess; uncontrolled or untreated periodontal disease; smoking >10 cigarettes per day; inability to undergo radiographic examination; pregnancy or lactation; unwillingness to sign the consent form and comply with follow-up visits.
+
+Sample Size Calculation and Randomization
+
+The sample size was calculated using G*Power (version 3.1.9.6) based on a previous controlled clinical trial: mean group 1 = 3.6, SD group 1 = 0.6, mean group 2 = 4.2, SD group 2 = 0.5, ratio = 1.00, alpha = 0.05, power = 0.80. The number of samples was defined as 15 teeth per group. A total of 45 extraction sockets were divided into three groups: L-PRF, collagen sponge, and spontaneous healing (control).
+
+A computer-generated randomization table ensured balanced group allocation. Treatment codes were sealed in opaque envelopes by an independent collaborator. On the day of surgery, envelopes were assigned by a third-party collaborator not involved in the study, maintaining allocation concealment and blinding. The surgeon and statistician were blinded to the allocation, and all surgical procedures were performed by a single investigator.
+
+L-PRF Preparation
+
+Patients' whole blood was collected prior to surgery. Venous blood from the antecubital vein was drawn with a 21G needle to fill one to two 10-mL Clot Activator tubes (Intra-Spin, Intra-Lock International Inc., United States). The blood was centrifuged at 2,700 rpm for 12 minutes using an Intra-Spin system at room temperature, forming three layers with L-PRF obtained from the yellow middle layer, between the acellular plasma and red blood cell layer. The gel-like clot was transferred using sterilized forceps to a light metal plate (Xpression box) where it was lightly compressed by gravity for 5 minutes to remove excess serum and create a denser, cohesive fibrin matrix without damaging the fibrin/platelet structure.
+
+Surgical Procedures
+
+Preoperative panoramic or periapical radiographs confirmed clinical examination. A single surgeon performed all extractions atraumatically under local anesthesia (4% articaine, 1:100,000 epinephrine). After curettage to remove granulation tissue, sockets with intact walls were treated as follows:
+
+- L-PRF group: a single layer of L-PRF membrane was placed to cover the socket (an additional layer for larger sockets); secured with crisscross suture.
+- Collagen sponge group: collagen sponge (Collaplug, Zimmer Dental) inserted into the extraction socket; secured with crisscross suture.
+- Control group: crisscross suture to approximate wound margins; socket left to heal spontaneously (unsealed).
+
+Postoperative pain was managed with acetaminophen (500 mg) every 6 hours as needed; infection was controlled with amoxicillin (500 mg TID, 5 days) or clindamycin (300 mg TID, 5 days) in penicillin-allergic patients. Sutures were removed after 14 days.
+
+Primary Outcomes
+
+Primary outcomes: reduction of wound margin distance, soft tissue healing index, and postoperative pain scores.
+
+Wound margin distances were measured at the socket midpoint from buccolingual and mesiodistal aspects using a UNC-15 probe (mm), repeated 3 times, at days 0, 7, 14, and 21. Wound margin distance reduction percentage = (D0 − Dx)/D0 × 100.
+
+Soft tissue healing was assessed with the Landry healing index (tissue color, epithelialization of wound margins, bleeding on palpation, granulation, suppuration), scored 1 (very poor) to 5 (excellent), at days 7, 14, and 21.
+
+Postoperative pain was assessed with an 11-point NRS (0 = no pain, 10 = severe pain), recorded 4 times daily from surgery day to day 7; average scores at days 1, 3, 5, 7 compared between groups.
+
+Secondary Outcome
+
+Wound closure area reduction percentage compared between L-PRF and collagen sponge groups only. Sockets in both test groups were scanned with an intraoral scanner (TRIOS3, 3Shape) at days 0, 7, 14, 21; STL files processed with GOM Inspect software; wound area calculated in mm² via superimposition on day-0 models. Wound closure area reduction percentage = (A0 − Ax)/A0 × 100.
+
+Statistical Analysis
+
+SPSS v18. One-way ANOVA for continuous data (LSD post-hoc); Fisher's exact test and Pearson's chi-square for categorical data; independent t-test for wound closure area reduction (L-PRF vs collagen sponge). p < 0.05 significant.
+
+Results
+
+Demographic Data
+
+45 teeth initially assigned across three groups. All interventions delivered without complications; however, 3 teeth in the collagen sponge group were excluded (infection, loss to follow-up) and 3 additional teeth recruited under the same protocol. Final n = 48 teeth analyzed (3 excluded with no outcome data). Bivariate analyses showed significant association between tooth position and treatment group (p = 0.001), tooth position and healing index at day 14 (p=0.028) and day 21 (p=0.012), tooth position and postoperative pain at day 7 (p<0.01), sex and pain at day 1 (p=0.023), and arch and buccolingual reduction at days 7, 14, 21 (p<0.01), and arch and wound area reduction between days 21-0 (p=0.016). Intra-examiner reliability (Cohen's kappa) >0.847 across all measurements.
+
+Wound Margin Distance Reduction
+
+No significant differences in buccolingual or mesiodistal reduction percentages among L-PRF, collagen sponge, and spontaneous healing at any time point (days 7, 14, 21).
+
+Buccolingual reduction (%): Day 21-0: L-PRF 66.01±13.89, Collagen sponge 67.16±19.99, Control 63.00±24.92 (p=0.843).
+Mesiodistal reduction (%): Day 21-0: L-PRF 38.24±20.98, Collagen sponge 47.78±18.61, Control 41.96±20.97 (p=0.435).
+
+Postoperative Soft Tissue Healing
+
+Soft tissue healing index improved in all groups over time. On day 7, L-PRF significantly enhanced healing index compared with spontaneous healing (p=0.002, 95% CI [0.28,1.18]) and collagen sponge (p=0.002, 95% CI [0.28,1.18]). Day 7 healing index: L-PRF 3.93±0.70, Collagen sponge 3.20±0.56, Control 3.20±0.56 (p=0.002). No significant differences at day 14 (p=0.077) or day 21 (p=0.359).
+
+Postoperative Pain
+
+Pain scores gradually decreased over time, with no pain reported by day 7 in most groups. On day 5, L-PRF showed significantly lower pain than spontaneous healing (p=0.036, 95% CI [0.04,1.03]) and collagen sponge (p=0.026, 95% CI [0.07,1.06]). Day 5 pain: L-PRF 0.07±0.26, Collagen sponge 0.63±0.85, Control 0.60±0.75 (p=0.045). Day 1 pain: L-PRF 0.89±0.83, Collagen sponge 2.72±2.15, Control 2.08±2.66 (p=0.055, NS). Day 3: L-PRF 0.18±0.41, Collagen sponge 1.42±1.73, Control 1.23±1.86 (p=0.059, NS).
+
+Wound Closure Area Reduction (secondary outcome, L-PRF vs collagen sponge only)
+
+Wound area progressively decreased in both groups; no significant difference between L-PRF and collagen sponge at any follow-up: Day 7-0: L-PRF 64.41±12.20% vs Collagen sponge 59.04±17.44% (p=0.337). Day 14-0: L-PRF 74.29±9.46% vs Collagen sponge 71.34±13.78% (p=0.500). Day 21-0: L-PRF 80.12±10.27% vs Collagen sponge 80.38±13.97% (p=0.954).
+
+Discussion
+
+L-PRF is rich in lymphocytes, macrophages, and platelets that support healing: leukocytes regulate inflammation, prevent infection, promote angiogenesis/lymphangiogenesis; macrophages clear debris and release growth factors stimulating fibroblast proliferation, endothelial activity, collagen synthesis; platelets provide PDGF, VEGF supporting the wound healing cascade. In this study, L-PRF demonstrated superior early soft tissue healing (day 7) and lower postoperative pain (day 5) versus collagen sponge and spontaneous healing. However, neither L-PRF nor collagen sponge significantly reduced wound margin distances versus spontaneous healing, and L-PRF offered no advantage over collagen sponge in wound closure area reduction.
+
+Findings on buccolingual/mesiodistal reduction align with Asmael et al and Yerke et al (no significant PRF vs spontaneous healing difference at 21 days) and Suttapreyasri & Leepong / Asmael et al for mesiodistal. In contrast, Alrayyes et al reported a significant mesiodistal difference at day 21 between A-PRF and collagen sponge — attributed to measurement tool/site variability (digital calipers vs periodontal probe, intraoral vs plaster models). This study used an intraoral UNC-15 probe without fixed landmarks; future work should use stabilized stents and digital calipers.
+
+L-PRF's day-7 healing-index superiority aligns with prior studies showing PRF benefits in the first week post-extraction versus spontaneous healing, attributable to growth factors stimulating fibroblast chemotaxis/mitogenesis, collagen synthesis regulation, and vascular regeneration.
+
+Pain reduction findings are consistent with Temmerman et al (significant L-PRF pain reduction vs spontaneous healing on days 3,4,5), Marenzi et al (lower L-PRF pain early, converging by day 4), and De Almeida Barros Mourão et al (fewer analgesics needed with L-PRF in week 1). A systematic review by Moraschini et al supports PRF reducing postoperative pain via socket sealing (preventing food/debris entry, reducing painful stimuli) and possible immunological support from leukocytes.
+
+Wound closure area comparison (L-PRF vs collagen sponge, novel vs prior L-PRF-vs-spontaneous-healing comparisons): Aravena et al found no significant 3D volumetric differences between L-PRF and spontaneous healing at 1 week/3 months. Ghanaati et al reported significantly larger wound sizes in spontaneous healing vs PRF-treated sockets. In this study, L-PRF did not accelerate wound closure compared with collagen sponge — both act as hemostatic scaffolds, but collagen sponge lacks L-PRF's cellular components/growth factors/fibrin matrix. Guo et al (murine study) found collagen sponge delayed early socket healing over 14 days, reducing cell density and growth factor concentration in the initial phase — potentially explaining the inferior collagen sponge outcomes in healing index/pain (though not in wound closure area here).
+
+L-PRF requires invasive blood collection, longer chair time, specialized skills, and additional equipment (higher cost). Collagen sponge is user-friendly, cost-effective, with comparable wound-healing benefit in this study, and remains an effective practical hemostatic agent.
+
+Limitations: unbalanced tooth position distribution across groups (significant); complete-case analysis after 3 collagen-sponge dropouts requiring re-recruitment (potential bias, reduced power); no preoperative 3D radiographs for buccal bone thickness; no digital caliper/stabilized stent for consistent landmarks (measurement bias risk); correlations between primary predictors and dental arch suggest confounding.
+
+This study assessed only socket sealing (not socket filling or GBR) over 21 days — findings reflect early post-extraction soft-tissue closure, inflammation, and pain, with clinical relevance limited to short-term symptom relief rather than long-term ridge preservation or tissue regeneration. Longer follow-up needed for implant-related soft tissue evaluation.
+
+Conclusion
+
+Within the limitations of the study, L-PRF for socket sealing reduced early soft tissue inflammation and postoperative pain, especially in the first week. However, no significant differences were found among L-PRF, collagen sponge, and spontaneous healing in wound closure distance, nor between L-PRF and collagen sponge in wound closure area over 21 days. Therefore, while L-PRF may offer short-term symptom relief, it does not appear to enhance post-extraction soft tissue regeneration at a clinically relevant level.

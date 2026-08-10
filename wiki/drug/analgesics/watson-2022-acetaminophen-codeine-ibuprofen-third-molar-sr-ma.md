@@ -7,18 +7,28 @@ doi: 10.1093/pm/pnab334
 journal: Pain Medicine
 source: watson-2022-acetaminophen-codeine-ibuprofen-third-molar-sr-ma.md
 category: [drug/analgesics]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/watson-2022-acetaminophen-codeine-ibuprofen-third-molar-sr-ma.pdf
 pdf_filename: watson-2022-acetaminophen-codeine-ibuprofen-third-molar-sr-ma.pdf
 source_collection: external
 tags: [third-molar, post-extraction-pain, ibuprofen, acetaminophen, codeine, opioid, SR-MA, opioid-sparing, ADA-2022]
 ---
 
-## One-line Summary
-Systematic review and meta-analysis (Pain Med 2022; randomized blinded placebo-controlled RCTs, third molar extraction): ibuprofen 400 mg alone was equivalent to or better than acetaminophen 600 mg + codeine 60 mg combination, directly supporting opioid-sparing prescribing (ADA 2022 acute dental pain guidelines).
+## Three-line Summary
 
-## 한줄요약
-SR+MA (Pain Med 2022, SIU/WashU/UH): 제3대구치 발치 후 통증 — APAP 600 + codeine 60 병용 vs ibuprofen 400 단독 — ibuprofen 단독이 동등 또는 우수, opioid combination 정당화 부족 → ADA 2022 opioid-sparing 가이드라인 직접 지지.
+SR+MA of randomized blinded placebo-controlled RCTs (Pain Med 2022) comparing acetaminophen 600 mg + codeine 60 mg vs ibuprofen 400 mg for postoperative pain after third molar extraction.
+
+Ibuprofen 400 mg alone was equivalent to or superior to the acetaminophen + codeine combination for third molar pain relief, while avoiding opioid side effects.
+
+This directly contradicts long-standing opioid combination prescribing patterns for routine third molar surgery and is a key evidence base for the ADA 2022 acute dental pain guidelines on opioid sparing.
+
+## 세줄요약
+
+SR+MA (Pain Med 2022): 제3대구치 발치 후 통증에서 아세트아미노펜 600 mg + 코데인 60 mg 병용 vs 이부프로펜 400 mg 단독을 무작위·맹검·위약대조 RCT만 대상으로 비교.
+
+이부프로펜 400 mg 단독이 APAP+코데인 병용과 동등하거나 우수하고 오피오이드 부작용을 피할 수 있음.
+
+제3대구치 수술에 대한 오피오이드 병용 처방 관행을 정면으로 반박 — ADA 2022 급성 치과 통증 opioid sparing 가이드라인의 핵심 근거.
 
 ## Summary
 SR+MA of randomized, blinded, placebo-controlled RCTs comparing combination acetaminophen 600mg + codeine 60mg vs ibuprofen 400mg alone for third molar extraction pain. Ibuprofen 400mg alone equivalent to or better than APAP 600 + codeine 60 combination, while avoiding opioid side effects.
@@ -34,7 +44,7 @@ This evidence directly contradicts the long-standing US prescribing pattern of o
 PubMed + ClinicalTrials.gov; RCT-only (randomized, blinded, placebo-controlled); third molar extraction; pooled MA.
 
 ## Results
-[근거강함] Ibuprofen 400mg ≥ APAP 600 + codeine 60 in third molar post-extraction pain. Codeine combination not superior.
+[확인] Ibuprofen 400mg ≥ APAP 600 + codeine 60 in third molar post-extraction pain. Codeine combination not superior.
 
 ## Limitations
 - Only two regimens compared (no ibuprofen+APAP arm)
@@ -44,8 +54,8 @@ PubMed + ClinicalTrials.gov; RCT-only (randomized, blinded, placebo-controlled);
 For Korean third molar post-extraction analgesia: ibuprofen 400mg q6h ± APAP 1g q6h (alternating) covers the great majority of patients. Codeine combination prescriptions for routine third molar extraction in healthy adults are not evidence-supported and should be reserved for the small subset with NSAID contraindication or insufficient response to NSAID+APAP combination.
 
 ## Related Papers
-- [[drug/miroshnychenko-2023-dental-extraction-pain-network-meta]] — dental NMA (codeine 60 effectively placebo).
-- [[drug/moore-2015-single-dose-oral-analgesics-cochrane-overview]] — NNT framework.
-- [[drug/feldman-2024-nonopioid-opioid-third-molar-rct]] — recent ADA-supporting RCT.
-- [[drug/pak-2011-root-canal-pain-prevalence-severity]] — endodontic pain incidence.
-- [[drug/costa-2015-preemptive-nsaids-third-molar-pain-meta]] — preemptive third molar.
+- [[drug/analgesics/miroshnychenko-2023-dental-extraction-pain-network-meta]] — dental NMA (codeine 60 effectively placebo).
+- [[drug/analgesics/moore-2015-single-dose-oral-analgesics-cochrane-overview]] — NNT framework.
+- [[drug/analgesics/feldman-2024-nonopioid-opioid-third-molar-rct]] — recent ADA-supporting RCT.
+- [[endodontics/pak-2011-root-canal-pain-prevalence-severity]] — endodontic pain incidence.
+- [[drug/analgesics/costa-2015-preemptive-nsaids-third-molar-pain-meta]] — preemptive third molar.

@@ -6,7 +6,7 @@ date: 2023-01-21
 doi: 10.1038/s41598-022-26855-y
 source: alquria-2023-disinfection-protocols-bacteria-lta-lps.md
 category: [endodontics/irrigation]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/alquria-2023-disinfection-protocols-bacteria-lta-lps.pdf
 pdf_filename: alquria-2023-disinfection-protocols-bacteria-lta-lps.pdf
 source_collection: external
@@ -18,13 +18,21 @@ relations:
     target: bedran-2020-calcium-hydroxide-endotoxin-reduction-sr-ma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In-vitro dual-species (*E. faecalis* + GFP *E. coli*) biofilm model in 70 single-rooted premolars: PUI, XP-endo Finisher, and GentleWave all significantly reduced bacteria, LTA, and LPS, with GentleWave + minimally invasive technique most effective (XP-EF ≈ PUI); none fully eliminated LTA/LPS.
+In-vitro study using a novel dual-species (*E. faecalis* + GFP *E. coli*) biofilm model in 70 single-rooted mandibular premolars comparing PUI, XP-endo Finisher, and GentleWave multisonic protocols.
 
-## 한줄요약
+All three significantly reduced bacteria, LTA, and LPS; GentleWave + minimally invasive technique was most effective (p<0.05); XP-EF ≈ PUI; LTA and LPS remained detectable in 100% of samples after all protocols.
 
-70개 단근 소구치 dual-species(*E. faecalis* + GFP *E. coli*) 바이오필름 in-vitro: PUI·XP-endo Finisher·GentleWave 모두 세균·LTA·LPS를 유의하게 감소시켰고 GentleWave+최소침습기법이 가장 효과적(XP-EF ≈ PUI)이었으나, 어느 것도 LTA/LPS를 완전 제거하지 못했다.
+No current disinfection protocol fully eliminates endotoxins — the persistent LTA/LPS fraction is a biological risk factor that warrants further development of adjunctive therapies.
+
+## 세줄요약
+
+70개 단근 하악 소구치에서 이중종 (dual-species, *E. faecalis* + GFP *E. coli*) 바이오필름 in-vitro 연구 — PUI, XP-endo Finisher (XP-EF), GentleWave 3가지 프로토콜 비교.
+
+세 프로토콜 모두 세균·지질테이코산 (Lipoteichoic Acid, LTA)·지질다당류 (Lipopolysaccharide, LPS)를 유의하게 감소(p<0.05); GentleWave + 최소침습기법 가장 효과적; XP-EF ≈ PUI; 모든 시료에서 LTA/LPS 100% 잔존.
+
+현존 소독 프로토콜로 내독소 완전 제거 불가 — 잔존 LTA/LPS가 생물학적 위험인자로 추가 치료법 개발 필요.
 
 ## Summary
 

@@ -6,18 +6,26 @@ date: 2025-04-21
 doi: 10.11607/ijp.9388
 source: heimes-2025-immediate-implant-full-arch-rehabilitation.md
 category: [immediate-implant]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/heimes-2025-immediate-implant-full-arch-rehabilitation.pdf
 pdf_filename: heimes-2025-immediate-implant-full-arch-rehabilitation.pdf
 source_collection: external
 tags: [full-arch, immediate-implant, immediate-loading, All-on-4, MBL, prosthesis-survival, QoL, rehabilitation]
 ---
 
-## One-line Summary
-Narrative review (Int J Prosthodont 2025) of immediate implant placement and restoration in full-arch situations: implant survival >97%, success >95%, marginal bone loss (MBL) 0.29–1.48 mm over 1–5 years, prosthesis survival often >98%, and significantly improved quality of life, with mechanical complications remaining clinically significant.
+## Three-line Summary
+Narrative review (Int J Prosthodont 2025 Suppl; Mainz/Berlin) synthesizing current evidence for immediate implant placement and restoration in full-arch edentulous or fully extracted situations.
 
-## 한줄요약
-narrative-review(Int J Prosthodont 2025 Suppl, Mainz/Berlin): 전악 즉시식립·즉시수복 — 임플란트 생존율 >97%·성공율 >95%; MBL 0.29–1.48mm(1-5년); 보철 생존율 >98%; QoL 유의하게 향상; 기계적 합병증 상존.
+Implant survival >97%, success >95%; MBL 0.29–1.48 mm over 1–5 years; prosthesis survival often >98%; patient satisfaction and QoL significantly improved; veneer fractures and screw loosening remain clinically significant mechanical complications.
+
+Clinical implication: immediate full-arch implant placement and restoration is well-supported by current evidence in selected patients, but anatomical variation, primary stability thresholds, and mechanical complication management must be addressed in the planning phase.
+
+## 세줄요약
+서술적 문헌고찰 (Int J Prosthodont 2025 Suppl, Mainz/Berlin) — 완전 무치악 또는 전악 발치 상황에서의 즉시식립·즉시수복에 관한 현재 근거 종합.
+
+임플란트 생존율 >97%, 성공율 >95%; 변연골소실 (Marginal Bone Loss, MBL) 1–5년간 0.29–1.48 mm; 보철 생존율 >98%; 환자 만족도·삶의 질 유의 향상; veneer 파절·나사 풀림 등 기계적 합병증 지속 상존.
+
+임상 적용: 선별된 환자에서 전악 즉시식립·즉시수복은 근거가 충분하나 해부학적 변이·일차 안정성 확보·기계적 합병증 관리를 계획 단계에서 반드시 고려.
 
 ## Summary
 Narrative review (Johannes Gutenberg University Mainz, Charité Berlin) evaluating current evidence for immediate implant placement and restoration in full-arch edentulous or fully extracted situations. Consistently high survival rates with improved quality of life, though mechanical complications remain clinically significant.

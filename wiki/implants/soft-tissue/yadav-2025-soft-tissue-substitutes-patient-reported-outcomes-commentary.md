@@ -6,20 +6,28 @@ date: 2025-02-14
 doi: 10.1038/s41432-025-01121-y
 source: yadav-2025-soft-tissue-substitutes-patient-reported-outcomes-commentary.md
 category: [implants/soft-tissue]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/yadav-2025-soft-tissue-substitutes-patient-reported-outcomes-commentary.pdf
 pdf_filename: yadav-2025-soft-tissue-substitutes-patient-reported-outcomes-commentary.pdf
 source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-EBD commentary on a SR+MA (29 studies, 19 RCTs) showing that soft-tissue substitutes significantly reduce postoperative pain, analgesic use, and surgery time vs autogenous grafts in peri-implant soft tissue augmentation, while achieving equivalent patient satisfaction and esthetic perception.
+EBD commentary (Evid Based Dent 2025) critically appraising a SR+MA (29 studies, 19 RCTs) on patient-reported outcome measures (PROMs) comparing soft-tissue substitutes vs autogenous grafts for peri-implant soft tissue augmentation.
 
-## 한줄요약
+Substitutes significantly reduced postoperative pain on 0–100 VAS (WMD −14.91 to −21.43), analgesic use (~1.56 fewer tablets), and surgery time (~10.9 fewer minutes); patient satisfaction, esthetic perception, and quality of life were equivalent.
 
-임플란트 주변 연조직 증대 시 연조직 대체재(substitute)가 자가이식편 대비 수술 후 통증·진통제 소비·수술 시간을 유의하게 감소시키고 환자 만족도·심미 인식은 동등하다는 SR+MA(29연구, RCT 19개)를 비평한 EBD 코멘터리 (Evidence-Based Dentistry 2025;26:26–28).
+Substitutes offer a patient-experience advantage over SCTG without sacrificing subjective outcomes, supporting their use when donor-site morbidity avoidance is a priority.
+
+## 세줄요약
+
+임플란트 주위 연조직 증대 시 대체재(substitute) vs 자가이식편의 환자보고결과(PROMs)를 평가한 SR+MA(29편, RCT 19개)를 비평한 EBD 코멘터리(Evid Based Dent 2025).
+
+대체재는 수술 후 통증(VAS 0–100 WMD −14.91~−21.43), 진통제 소비(~1.56정 감소), 수술 시간(~10.9분 단축)에서 유의하게 우수; 환자 만족도·심미 인식·삶의 질은 동등.
+
+공여부 이환을 피하면서 동등한 주관적 결과를 얻을 수 있어 대체재가 환자 경험 면에서 유리한 선택지가 됨.
 
 ## Summary
 
@@ -66,7 +74,7 @@ Negative WMD = substitute favored (less pain, less analgesic use, shorter surger
 
 ## Related Papers
 
-- [[implants/oh-2024-keratinized-mucosa-augmentation-functioning-implants-sr-ma]] — SR+MA on keratinized mucosa augmentation outcomes around functioning implants; provides clinical endpoint context this commentary's PROM data complements
-- [[implants/montero-2022-soft-tissue-substitutes-vs-autogenous-keratinized-mucosa-sr]] — SR directly comparing soft tissue substitutes vs autogenous grafts for keratinized mucosa; clinical outcome counterpart to PROM evidence here
-- [[implants/sanz-2022-keratinized-mucosa-around-implants-consensus]] — consensus on keratinized mucosa requirements around implants; contextualizes why augmentation is performed and what patient burden the substitute approach reduces
+- [[implants/soft-tissue/oh-2024-keratinized-mucosa-augmentation-functioning-implants-sr-ma]] — SR+MA on keratinized mucosa augmentation outcomes around functioning implants; provides clinical endpoint context this commentary's PROM data complements
+- [[implants/soft-tissue/montero-2022-soft-tissue-substitutes-vs-autogenous-keratinized-mucosa-sr]] — SR directly comparing soft tissue substitutes vs autogenous grafts for keratinized mucosa; clinical outcome counterpart to PROM evidence here
+- [[implants/soft-tissue/sanz-2022-keratinized-mucosa-around-implants-consensus]] — consensus on keratinized mucosa requirements around implants; contextualizes why augmentation is performed and what patient burden the substitute approach reduces
 - [[overviews/keratinized-mucosa-peri-implant-health-overview]] — cross-paper synthesis on keratinized mucosa and peri-implant health; PROM advantage of substitutes updates the clinical decision layer of this overview

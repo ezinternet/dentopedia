@@ -13,13 +13,21 @@ source_collection: external
 
 Reinforces the platform-switching MBL benefit reported in the SR+MA anchor [[wiki/implants/strietzel-2015-platform-switching-mbl-sr-ma]] with primary RCT-level evidence, and adds a mechanistic layer: a split-mouth randomized trial showing platform switching both preserves bone and shifts peri-implant crevicular fluid bone biomarkers (RANKL/OPG, MCP-1) in a bone-protective direction.
 
-## One-line Summary
+## Three-line Summary
 
 Split-mouth RCT (94 implants, 27 subjects, 12-month): platform-switched implants showed less marginal bone loss (0.51 ± 0.31 mm vs 0.75 ± 0.29 mm, p<0.001) and lower RANKL/OPG ratio and MCP-1 levels than nonplatform-switched implants.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 분할구강 RCT(임플란트 94개, 환자 27명, 12개월): 플랫폼스위칭 임플란트가 비스위칭군보다 변연골소실이 적었고(0.51 ± 0.31 mm vs 0.75 ± 0.29 mm, p<0.001), RANKL/OPG 비·MCP-1 수치도 더 낮음.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

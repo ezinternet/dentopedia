@@ -13,13 +13,21 @@ source_collection: external
 
 Extends the MDP chemical-bonding story from tooth/zirconia substrates to **titanium**. The sibling page [[wiki/resin-bonding/nagaoka-2017-mdp-zirconia-chemical-interaction-nmr]] establishes (by NMR) that 10-MDP forms a stable phosphate–zirconium chemical bond; this 2022 review surveys the parallel evidence that the same family of functional monomers (MDP, MEPS, 6-MHPA, 4-META) chemically bonds resin luting agents to titanium/titanium alloy — closing the substrate gap and reinforcing the "functional-monomer surface treatment" theme across the resin-bonding category. Timely because cast titanium restorations were newly added to Japan's national health insurance (NHI) system as palladium/gold prices rose, expanding clinical demand for reliable resin-to-titanium luting.
 
-## One-line Summary
+## Three-line Summary
 
 Narrative literature review of 11 studies concluding that adhesive functional monomers (MDP, MEPS, 6-MHPA, 4-META) in primers/luting agents bond resin to titanium and titanium alloy as effectively as silanization plus tribochemical silica coating, with MDP-based and 4-META/MMA-TBB systems showing the highest bonding durability across thermocycling aging tests.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 서술적 문헌고찰 (11편 선별): 기능성 단량체(MDP·MEPS·6-MHPA·4-META)를 포함한 프라이머·접착제가 티타늄·티타늄 합금에 대한 레진 접착을 실란화 + 트라이보화학 실리카 코팅과 동등한 수준으로 촉진하며, MDP계 프라이머와 4-META/MMA-TBB 레진이 열순환 내구성에서 가장 우수한 결과를 보임.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

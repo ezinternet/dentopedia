@@ -13,13 +13,21 @@ source_collection: external
 
 연조직 두께 증가(Soft Tissue Thickening, STT)에 특화된 SR+MA가 부족한 상황에서, 기존 [[wiki/implants/keratinized-mucosa-peri-implant-health-overview]]는 KM 폭(Keratinized Mucosa Width) 중심으로 서술되어 있어 buccal STT gain의 정량적 근거가 취약하다. 본 Valles 2022 SR+MA는 CTG 대비 무처치·대체재(XCM/ADM/PRF)를 두 개의 PICOS로 분리해 STT WMD를 직접 제시하므로, 개요 페이지의 STT 섹션을 보강하는 핵심 근거로 활용된다.
 
-## One-line Summary
+## Three-line Summary
 
 SR+MA of 16 RCTs/CCTs (n=446 patients) showing CTG yields +0.64 mm STT gain vs no graft and +0.51 mm vs soft-tissue substitutes around dental implants, with better esthetic scores but no MBL benefit over substitutes.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 16개 RCT/CCT(446명) SR+MA: 임플란트 주위 연조직 두께 증가에서 CTG가 무처치 대비 +0.64 mm, 연조직 대체재 대비 +0.51 mm 우월한 STT를 제공하며 심미 점수도 유의하게 높으나, 변연골 소실(MBL)에서는 대체재와 차이 없음.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

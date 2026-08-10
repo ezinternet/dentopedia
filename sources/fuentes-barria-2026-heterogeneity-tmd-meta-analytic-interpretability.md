@@ -17,11 +17,21 @@ text_filename: fuentes-barria-2026-heterogeneity-tmd-meta-analytic-interpretabil
 
 A methodological caution flag for how we read TMD arthrocentesis meta-analyses. This Letter to the Editor (Fuentes-Barría 2026, *Jpn Dent Sci Rev*) argues that the Valenzuela-Fuenzalida et al. arthrocentesis SR+MA pools fundamentally non-comparable comparators (splints, physiotherapy, PRP/HA injections, arthroscopy, arthrocentesis variants) under extreme heterogeneity (I² 85–98%), so its pooled estimates lack a clinical referent. It `refines` (qualifies) our existing arthrocentesis SR+MA pages by warning that their high-I² pooled effects may reflect between-study dispersion rather than a real treatment effect — directly relevant to how confidently we read [[tmj/ijoms-2023-arthrocentesis-conservative-tmd-sr-ma]] (+1.12 mm MMO, high heterogeneity) and [[tmj/zhang-2024-arthrocentesis-injectable-agent-tmd-sr]]. Ingested as a critical-appraisal lens, not a new clinical result. According to PubMed; [DOI](https://doi.org/10.1016/j.jdsr.2026.04.004).
 
-## One-line Summary
-Letter to the Editor critiquing a TMD arthrocentesis SR+MA: pooling mechanistically distinct comparators under I²=85–98% heterogeneity (plus SMD on a mm scale and mixed diagnoses) leaves the pooled estimates clinically uninterpretable.
+## Three-line Summary
 
-## 한줄요약
-TMD 관절천자(Arthrocentesis) 메타분석 비판 서한: 기전이 다른 비교군을 I²=85–98% 극단적 이질성 속에 통합하면(게다가 mm 척도에 SMD 사용·진단명 혼재) 통합 추정치가 임상적으로 해석 불가능해진다는 방법론적 경고.
+Letter to the Editor (Jpn Dent Sci Rev 2026) critiquing the Valenzuela-Fuenzalida et al. TMD arthrocentesis meta-analysis for pooling mechanistically distinct comparators (splints, physiotherapy, injections, arthroscopy, arthrocentesis variants) and heterogeneous diagnoses.
+
+I² heterogeneity of 85–98% across outcomes indicates between-study dispersion that random-effects pooling does not resolve; SMD applied to mm-scale outcomes further reduces interpretability.
+
+The pooled summary estimates lack a coherent clinical referent — they reflect statistical aggregation of non-comparable data rather than a meaningful treatment effect, undermining clinical decision-making from the meta-analysis.
+
+## 세줄요약
+
+편지(Letter to the Editor, Jpn Dent Sci Rev 2026): TMD 관절천자(Arthrocentesis) 메타분석이 기전 상이한 비교군(교합판·물리치료·주입제·관절경·관절천자 변형)과 혼재 진단을 통합하는 문제 지적.
+
+I²=85–98% 극단적 이질성은 무작위효과 모형으로도 해소 불가; mm 척도에 표준화평균차(SMD) 적용으로 해석성 추가 악화.
+
+통합 추정치는 일관된 치료 효과 아닌 통계적 집계를 반영하며, 임상적 의사결정의 토대로 부적절함을 시사.
 
 ## 1. Document Information
 

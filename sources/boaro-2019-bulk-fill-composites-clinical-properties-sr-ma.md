@@ -9,8 +9,21 @@ pdf_filename: boaro-2019-bulk-fill-composites-clinical-properties-sr-ma.pdf
 source_collection: external
 ---
 
-## One-line Summary
-SR+MA of 103 articles (lab + RCT) showing bulk-fill composites have less shrinkage, less polymerization stress, and less cusp deflection than conventional composites, but lower microhardness at ≤2 mm; clinical performance equivalent in RCTs over 1–10 years.
+## Three-line Summary
+
+SR+MA (PubMed + Scopus, 103 articles; Peto method, RevMan) synthesizing both in vitro physicochemical properties and clinical RCT performance of bulk-fill composites vs conventional composites.
+
+Bulk-fill composites showed significantly less polymerization stress, less cusp deflection, and lower shrinkage (regular-viscosity similar; flowable less) than conventional composites; however, microhardness was lower at ≤2 mm depth; flowable bulk-fill exceeded conventional composites for degree of conversion at >2 mm; clinical RCT performance was equivalent over 1–10 years.
+
+The key clinical implication is that bulk-fill composites are safe for deep posterior cavities with adequate cure at depth, but the shallow microhardness deficit raises questions about optimal capping strategies; an abstract/text discrepancy on regular-viscosity shrinkage is a noted internal limitation.
+
+## 세줄요약
+
+SR+MA (PubMed + Scopus, 103편; Peto법, RevMan) — bulk-fill 복합레진 vs 일반 복합레진의 시험관 물성과 임상 RCT 성능 동시 합성.
+
+Bulk-fill이 중합 수축응력·교두 굴절 유의 감소, 수축도 낮음(일반 점도는 유사, 유동성은 감소); 단 ≤2 mm 두께에서 미세경도 낮음; 유동성 bulk-fill은 >2 mm 깊이에서 중합전환율 더 높음; 임상 RCT 성능은 1–10년 동등.
+
+심부 구치 와동에서 bulk-fill은 안전하게 적용 가능하나 표층 미세경도 감소로 최적 캡핑 전략에 대한 의문 남음; 일반 점도 수축에 대한 초록·본문 불일치가 내부 한계.
 
 ## 1. Document Information
 - **Type**: Systematic Review and Meta-analysis

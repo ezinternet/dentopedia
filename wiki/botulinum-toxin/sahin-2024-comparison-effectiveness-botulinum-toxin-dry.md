@@ -6,7 +6,7 @@ date: 2024-12-12
 doi: 10.22514/jofph.2024.043
 journal: J Oral Facial Pain Headache 2024;38(4):101-110
 source: sahin-2024-comparison-effectiveness-botulinum-toxin-dry.md
-confidence: rct
+evidence_level: rct
 category: botulinum-toxin
 pdf_path: /Users/oracleneo/llm-wiki/papers/sahin-2024-comparison-effectiveness-botulinum-toxin-dry.pdf
 pdf_filename: sahin-2024-comparison-effectiveness-botulinum-toxin-dry.pdf
@@ -14,11 +14,21 @@ source_collection: external
 tags: [BoNT-A, dry-needling, manual-therapy, pharmacological-therapy, bruxism, myalgia, head-to-head-RCT, OHIP-14]
 ---
 
-## One-line Summary
-4-arm RCT (n=80, 12 weeks, NCT06583551) — BoNT-A, dry needling, pharmacological therapy, and manual therapy showed no between-group differences on VAS/MMO/OHIP-14; only the BoNT-A group showed a worsening trend in OHIP-14.
+## Three-line Summary
 
-## 한줄요약
-4-arm RCT (n=80, 12주, NCT06583551) — BoNT-A·DN·PT·MT 네 치료 모두 VAS/MMO/OHIP-14에서 그룹 간 차이 없음, BoNT-A의 OHIP-14만 오히려 악화 추세.
+4-arm parallel RCT (n=80, 20 per arm, Istanbul; NCT06583551) in bruxism patients with masticatory myalgia (44F/36M), randomly assigned to BoNT-A, dry needling (DN), pharmacological therapy (PT), or manual therapy (MT), with VAS, MMO, and OHIP-14 measured at baseline, 2, 4, and 12 weeks.
+
+All four arms produced significant within-group VAS pain reduction (p≤0.002), but no between-group differences emerged on any outcome at any timepoint; the BoNT-A group uniquely showed within-group OHIP-14 worsening (12.05→16.95, p=0.020) while MMO did not improve in any group.
+
+Clinical implication: BoNT-A offers no superiority over DN, PT, or MT on pain at 12 weeks in bruxism-induced myalgia — choose the least invasive option; the OHIP-14 worsening signal in the BoNT-A arm warrants patient counseling about potential QoL trade-offs (e.g., chewing function) despite pain relief.
+
+## 세줄요약
+
+이스탄불 4군 병렬 RCT(n=80, 각 20명; NCT06583551) — 교근통 동반 브럭시즘 환자를 BoNT-A·DN(건식침)·PT(약물치료)·MT(도수치료) 4개 군에 무작위 배정, VAS·MMO·OHIP-14를 baseline·2·4·12주에 측정.
+
+4개 군 모두 군내 VAS 유의 감소(p≤0.002)했으나 군간 차이는 어떤 결과에서도 없었음; BoNT-A 군만 군내 OHIP-14 유의 악화(12.05→16.95, p=0.020); MMO는 어느 군에서도 유의 변화 없음.
+
+임상 의미: 브럭시즘 교근통 12주 기간에서 BoNT-A는 DN·PT·MT 대비 통증 우월성 없음 — 최소 침습 옵션 우선 선택; BoNT-A 군의 OHIP-14 악화 신호는 통증 개선에도 불구한 QoL(저작기능) 트레이드오프에 대한 사전 상담의 필요성을 시사함.
 
 ## Summary
 This 4-arm parallel RCT (Hamidiye, Istanbul) randomized 80 bruxism patients with masticatory myalgia to BoNT-A, dry needling (DN), pharmacological therapy (PT), or manual therapy (MT) (20 each), measuring VAS, MMO, and OHIP-14 at baseline, 2, 4, and 12 weeks. All four treatments produced significant within-group VAS pain reduction (p<0.001 for BoNT-A/DN/MT; p=0.002 for PT), but no between-group differences at any timepoint and no MMO change in any group. The null hypothesis of equivalence was supported. OHIP-14 worsened over time only in the BoNT-A group (within-group p=0.020), suggesting non-pain QoL trade-offs.

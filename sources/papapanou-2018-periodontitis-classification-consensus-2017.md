@@ -9,8 +9,21 @@ pdf_filename: papapanou-2018-periodontitis-classification-consensus-2017.pdf
 source_collection: external
 ---
 
-## One-line Summary
-2017 치주 세계 워크샵 Workgroup 2 합의: 치주염 새 분류 체계(병기 I–IV, 등급 A–C) 발표.
+## Three-line Summary
+
+2017 치주 세계 워크샵 Workgroup
+
+2 합의: 치주염 새 분류
+
+체계(병기 I–IV, 등급 A–C) 발표.
+
+## 세줄요약
+
+2017 치주 세계 워크샵 Workgroup
+
+2 합의: 치주염 새 분류
+
+체계(병기 I–IV, 등급 A–C) 발표.
 
 ## 1. Document Information
 - **Title**: Periodontitis: Consensus report of workgroup 2 of the 2017 World Workshop on the Classification of Periodontal and Peri-Implant Diseases and Conditions
@@ -36,7 +49,7 @@ source_collection: external
 새 분류의 임상 적용 장기 검증 필요.
 
 ## 6. Related Work
-- [[periodontics/smiley-2015-nonsurgical-periodontitis-srp-guideline]] — related
+- [[periodontics/non-surgical-instrumentation/smiley-2015-nonsurgical-periodontitis-srp-guideline]] — related
 - [[periodontics/manresa-2018-supportive-periodontal-therapy-cochrane]] — related
 
 ## 7. Glossary

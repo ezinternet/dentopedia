@@ -13,13 +13,21 @@ source_collection: external
 
 Supplies a key modifier for the [[wiki/overviews/unopposed-tooth-overeruption-overview]] thesis that overeruption is a periodontal-ligament/alveolar-bone phenomenon (so whether a tooth is endodontically treated vs. vital is irrelevant — the active tissue is the periodontium, not the pulp). This controlled rat micro-CT experiment dissociates the two drivers — loss of antagonist and periodontitis — and shows periodontitis *amplifies* the supraposition of an unopposed tooth, with the largest effect on the lingual alveolar bone level. It reinforces [[wiki/occlusion/wang-2022-unopposed-molar-overeruption-implant-cbct]] (clinical CBCT magnitude of unopposed molar overeruption) by giving the mechanistic/animal-model counterpart for why compromised periodontium accelerates extrusion.
 
-## One-line Summary
+## Three-line Summary
 
-Animal study (60 adult male rats, 4 groups, 4 wk, micro-CT) showing loss of antagonist causes unopposed-molar overeruption that becomes significantly *larger* in the presence of experimentally induced periodontitis, with the lingual alveolar bone level lowered most.
+Controlled animal study (60 adult male rats, 2×2 design: unopposed/healthy, unopposed/periodontitis, opposed/healthy, opposed/periodontitis; 4 weeks; micro-CT) separating the effects of loss of antagonist and experimental periodontitis on molar overeruption.
 
-## 한줄요약
+Loss of antagonist alone caused unopposed molars to extrude; when combined with ligature-induced periodontitis, overeruption became significantly larger, with the greatest alveolar bone loss on the lingual surface of unopposed periodontally affected molars.
 
-동물실험(성체 수컷 백서 60마리, 4군, 4주, micro-CT): 대합치 상실은 무대합 대구치의 과맹출(supraposition)을 유발하고, 실험적 치주염(periodontitis)이 동반되면 과맹출이 유의하게 더 커지며, 설측 치조골(alveolar bone) 수준이 가장 많이 낮아졌다.
+Demonstrates that periodontitis amplifies (rather than initiates) molar overeruption, providing mechanistic evidence that compromised periodontal support accelerates the vertical displacement of unopposed teeth.
+
+## 세줄요약
+
+대조군·치료군 설계(2×2): 정상/대합·정상/대합·치주염, 정상/무대합·치주염/무대합 — 성체 수컷 백서 60마리(각군 15), 4주 관찰 후 micro-CT로 대구치 위치·치조골 수준 측정.
+
+대합치 상실 단독으로 무대합 대구치 과맹출 유발; 실험적 치주염(치경부 실 결찰)이 동반되면 과맹출이 유의하게 커졌고, 설측 치조골이 모든 군 대비 가장 많이 소실.
+
+치주염은 과맹출을 *개시*하지 않으나 *증폭*함을 보여, 치주 지지력 저하가 무대합 치아의 수직 이동을 가속한다는 임상 관찰의 기전적 근거 제공.
 
 ## 1. Document Information
 

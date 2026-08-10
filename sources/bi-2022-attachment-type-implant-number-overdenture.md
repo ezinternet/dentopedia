@@ -13,13 +13,23 @@ source_collection: external
 
 This network meta-analysis directly addresses the clinical question of which combination of implant number and attachment system (ball, bar, locator, telescopic, magnet) yields the best peri-implant health in mandibular overdentures — a topic not yet covered in the wiki. Extends [[complete-denture/alhajj-2017-occlusal-vertical-dimension-complete-denture-review]] by adding the implant-supported overdenture arm of complete denture rehabilitation.
 
-## One-line Summary
+## Three-line Summary
 
-Bayesian network meta-analysis (28 studies, n=1166, 2666 implants) found that 4-implant bar and telescopic ODs showed significantly less marginal bone loss than 2-implant locator, but no clear superiority emerged across most attachment-implant combinations for peri-implant health.
+Bayesian network meta-analysis (28 studies: 19 RCTs, 6 retrospective, 3 prospective; n=1,166 patients, 2,666 implants; PROSPERO registered) comparing 12 combinations of implant number (1–4) × attachment type (ball, bar, locator, telescopic, magnet) for peri-implant health in mandibular overdentures; follow-up 12 months to 10 years.
 
-## 한줄요약
+Overall pooled implant survival rate 98.4%; 4-implant bar and 4-implant telescopic showed significantly lower marginal bone loss than 2-implant locator (the only significant MBL finding); no significant differences in PPD, bleeding index, or gingival index among the 12 intervention groups.
 
-28개 연구를 포함한 베이지안 네트워크 메타분석에서 4임플란트+바/텔레스코픽 피개의치가 2임플란트+로케이터보다 유의하게 낮은 변연골 소실을 보였으나, 대부분의 임플란트 수-어태치먼트 조합 간에는 치주 건강 결과에서 명확한 우열이 없었다.
+Heterogeneity in implant systems, loading protocols, and follow-up durations limits interpretation; only one 3-implant study; patient-reported outcomes (QoL, satisfaction) not synthesized.
+
+## 세줄요약
+
+베이지안 네트워크 메타분석(28개 연구: RCT 19, 후향적 6, 전향적 3; 환자 1,166명, 임플란트 2,666개; PROSPERO 등록) — 하악 피개의치(Mandibular Overdenture, OD) 임플란트 수(1–4개) × 어태치먼트 유형(볼·바·로케이터·텔레스코픽·마그넷) 12가지 조합의 주위 건강 비교; 추적 12개월–10년.
+
+총 합산 임플란트 생존율 98.4%; 4임플란트 바 및 텔레스코픽이 2임플란트 로케이터보다 유의하게 낮은 변연골 소실(MBL)(유일한 유의한 MBL 결과); PPD·출혈지수·치은지수에서 12군 간 유의한 차이 없음.
+
+임플란트 시스템·부하 프로토콜·추적 기간 이질성이 해석 제한; 3임플란트 연구 1편뿐; 환자 보고 결과(삶의 질, 만족도) 미합산.
+
+## 1. Document Information
 
 ## 1. Document Information
 

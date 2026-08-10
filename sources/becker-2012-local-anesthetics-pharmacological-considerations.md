@@ -13,13 +13,21 @@ source_collection: external
 
 The wiki's local-anesthesia pages are clinical-outcome studies; none provides the foundational pharmacology (pKa/onset, protein-binding/duration, lipid-solubility/potency, max-dose tables, toxicity) that anchors clinical interpretation. This continuing-education review supplies that substrate and underpins [[wiki/drug/karm-2017-lidocaine-epinephrine-200000-third-molar]] (epinephrine concentration/cardiovascular effects) and the buffered-LA cluster ([[wiki/drug/kalra-2024-buffered-lidocaine-articaine-extraction-rct]], [[wiki/drug/karunakar-2024-buffered-precooled-lidocaine-ianb-pulpitis]], [[wiki/drug/hamad-2025-buffered-lidocaine-infiltration-extraction-rct]], [[wiki/drug/gandhi-2022-preheated-buffered-lignocaine-ianb-pulpitis-rct]]) by explaining the pH/pKa onset mechanism those papers manipulate. Also grounds the articaine-paresthesia caveat in [[wiki/drug/karm-2017-lidocaine-epinephrine-200000-third-molar]].
 
-## One-line Summary
+## Three-line Summary
 
-Narrative continuing-education review (Anesth Prog 2012) of dental local-anesthetic pharmacology — sodium-channel mechanism, ester vs amide metabolism, pKa→onset, protein-binding→duration, lipid-solubility→potency, a maximum-dose table (mg/kg and total mg) for lidocaine/mepivacaine/prilocaine/articaine/bupivacaine, plus toxicity (CNS seizures, bupivacaine cardiotoxicity, prilocaine methemoglobinemia, 4% articaine/prilocaine paresthesia 7.3×/3.6×).
+Narrative continuing-education review (Anesth Prog 2012) synthesizing dental local-anesthetic pharmacology — sodium-channel mechanism, ester vs amide metabolism, and the pKa→onset / protein-binding→duration / lipid-solubility→potency triad — for five agents (lidocaine, mepivacaine, prilocaine, articaine, bupivacaine).
 
-## 한줄요약
+Maximum-dose tables (mg/kg and absolute mg) are provided for each agent; toxicity landmarks include CNS seizure thresholds (lidocaine >10 µg/mL serum), bupivacaine cardiotoxicity, prilocaine methemoglobinemia, and 4% articaine/prilocaine paresthesia risk (7.3× and 3.6× vs other LAs, respectively).
 
-치과 국소마취 약리학 narrative 평론(Anesth Prog 2012) — 나트륨채널 기전, 에스터 vs 아미드 대사, pKa→발현, 단백결합→지속, 지질용해도→효능, lidocaine/mepivacaine/prilocaine/articaine/bupivacaine 최대용량표(mg/kg 및 총 mg), 독성(CNS 경련, bupivacaine 심독성, prilocaine 메트헤모글로빈혈증, 4% articaine/prilocaine 감각이상 7.3배/3.6배) 정리.
+This pharmacological foundation is clinically essential for safe dosing calculations, buffered-LA onset interpretation, and understanding why inflamed tissue (low pH) reduces onset of all dental local anesthetics.
+
+## 세줄요약
+
+치과 국소마취제 약리학 총론 narrative 평론(Anesth Prog 2012) — 나트륨채널 기전, 에스터/아미드 대사 분류, pKa→발현·단백결합→지속·지질용해도→효능 삼축(三軸) + 최대용량표.
+
+독성 이정표: lidocaine CNS 경련(혈중 >10 µg/mL), bupivacaine 심독성, prilocaine 메트헤모글로빈혈증(o-톨루이딘), 4% articaine/prilocaine 감각이상 7.3배/3.6배.
+
+임상적 의미: 안전한 용량 계산·완충 국소마취(Buffered LA) 발현 해석·염증 조직 발현 저하 원리 이해를 위한 약리학 기초로 필수.
 
 ## 1. Document Information
 
@@ -47,7 +55,7 @@ Narrative review (not systematic). Synthesizes classic pharmacokinetic studies (
 
 ## 4. Key Results and Benchmarks
 
-### Maximum doses & properties (Becker & Reed Table 2) [합의수준]
+### Maximum doses & properties (Becker & Reed Table 2) [확인]
 
 | Formulation | Max dose mg/kg (total mg) | Elimination t½β (min) | Pulpal duration (infiltration / block) | Soft-tissue duration |
 |---|---|---|---|---|
@@ -64,7 +72,7 @@ Narrative review (not systematic). Synthesizes classic pharmacokinetic studies (
 † Articaine 7 mg/kg in US package insert; Canadian insert suggests 5 mg/kg for children; 500 mg total inferred at 70 kg.
 ‡ Bupivacaine not FDA-approved for children <16; total ~90 mg.
 
-### Other quantitative anchors [합의수준]
+### Other quantitative anchors [확인]
 
 - **Lidocaine toxicity**: signs may start at serum >5 µg/mL; convulsive seizures generally >10 µg/mL. 400 mg lidocaine submucosal stays well below toxic serum levels (~10-cartridge historical limit).
 - **Peak serum**: 20–30 min post-injection (alone); delayed/reduced by adding 1:200,000 epinephrine.

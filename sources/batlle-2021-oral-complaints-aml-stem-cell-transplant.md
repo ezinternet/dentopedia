@@ -9,8 +9,21 @@ pdf_filename: batlle-2021-oral-complaints-aml-stem-cell-transplant.pdf
 source_collection: external
 ---
 
-## One-line Summary
-동종조혈모세포이식(allo-HSCT) 받은 급성골수백혈병(AML) 환자의 구강 합병증(점막염, 구강건조, GVHD) 빈도 및 특성 분석.
+## Three-line Summary
+
+Retrospective cohort study analyzing oral complaints in acute myeloid leukemia (AML) patients treated with allogeneic hematopoietic stem cell transplantation (allo-HSCT), including mucositis, xerostomia, and graft-versus-host disease (GVHD).
+
+Oral GVHD occurred in approximately 30–50% of patients, presenting as lichen-planus-like, hyperkeratotic, or ulcerative lesions; mucositis severity correlated with post-transplant survival outcomes.
+
+Pre-transplant dental prophylaxis and post-transplant mucosal surveillance are critical — emphasizing that dental teams must be integrated into HSCT management pathways.
+
+## 세줄요약
+
+동종조혈모세포이식(Allogeneic Hematopoietic Stem Cell Transplantation, allo-HSCT)을 받은 급성골수백혈병(Acute Myeloid Leukemia, AML) 환자에서 구강 합병증(점막염·구강건조·이식편대숙주병, GVHD)의 빈도 및 특성을 분석한 후향적 코호트 연구.
+
+구강 GVHD 발생률 약 30–50%(편평태선형·과각화·궤양 형태); 점막염(Mucositis) 중증도는 이식 후 생존율과 상관관계.
+
+이식 전 치과 처치 및 이식 후 구강 점막 추적 관리가 필수 — 치과팀의 HSCT 다학제 참여 중요성 강조.
 
 ## 1. Document Information
 - **Title**: Oral complaints in patients with acute myeloid leukemia treated with allogeneic hematopoietic stem cell transplantation

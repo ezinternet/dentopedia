@@ -13,13 +13,21 @@ source_collection: external
 
 지대주 나사 조임 반복 시 예압(preload) 감소 현상은 임상적으로 나사 풀림 합병증의 핵심 원인이다. 탄소 코팅(carbon-coated) 나사의 마찰계수 변화가 예압에 미치는 영향을 정량화한 기초 연구로, [[prosthetic-materials/implant-abutment-screw-loosening]] 관련 임상 결정(재조임 횟수 제한, 나사 교체 정책)의 근거로 활용.
 
-## One-line Summary
+## Three-line Summary
 
 In vitro study (n=25 implant-abutment-screw complexes, Nobel Biocare) showed repeated tightening to 25 Ncm (×10) significantly decreased preload from 329.9 N to 253.7 N and increased the coefficient of friction from 0.33 to 0.44, suggesting carbon-coated screws should not be reused.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 탄소 코팅 지대주 나사를 25 Ncm으로 10회 반복 조임 시 예압(preload)이 329.9 N → 253.7 N으로 유의하게 감소하고 마찰계수가 0.33 → 0.44로 증가하여, 코팅 나사 재사용은 최적 예압 달성에 실패함을 시험관 내 실험으로 확인.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

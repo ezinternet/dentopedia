@@ -1,0 +1,49 @@
+{
+  "overview": "early-implant-failure-risk-prevention-overview",
+  "date": "2026-07-23",
+  "title": "조기 임플란트 실패 위험·예방 — 리콜",
+  "source_wiki": [
+    "wiki/overviews/early-implant-failure-risk-prevention-overview.md"
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "q": "조기 임플란트 실패(EIF)의 정의와 가장 일관된 가변 위험인자는?",
+      "opts": [
+        "보철 로딩 후 주위염에 의한 실패 — 위험인자는 나이",
+        "보철 로딩 전 골유착 실패(전체 소실의 약 절반); 흡연이 가장 일관된 가변 위험인자(풀링 OR 2.59, 용량 의존적)",
+        "EIF는 과부하가 원인이다",
+        "EIF는 위험인자가 없다"
+      ],
+      "ans": 1,
+      "rat": "EIF = 보철 로딩 전 골유착 실패, 후기 실패와 기전·위험인자 다르며 전체 소실의 약 절반(Lin 48.1%). 발생률 임플란트 단위 1~4%. 흡연이 가장 일관된 가변 위험인자(Fan OR 2.59, 용량 의존, 보정 후에도 유의). 전신: 당뇨 RR 2.75·두경부 방사선 RR 2.73(Moy). 해부: 후방 상악·4형 골 반복 검출.",
+      "cite": "overviews/early-implant-failure-risk-prevention-overview"
+    },
+    {
+      "id": "q2",
+      "q": "조기 실패에서 가장 강한 술식 예측인자는?",
+      "opts": [
+        "임플란트 브랜드",
+        "즉시 잠정보철/즉시로딩(immediate provisional) — Yari에서 가장 강한 단일 예측인자(OR 3.42); all-on-four 고위험 시나리오",
+        "지연 로딩",
+        "임플란트 색상"
+      ],
+      "ans": 1,
+      "rat": "즉시 잠정보철/즉시로딩이 Yari에서 가장 강한 단일 예측인자(OR 3.42), all-on-four 고위험 시나리오. 부위 이력도 인자 — 치주문제 발치 부위(OR 2.53)·기존 골증대 부위(OR 2.24)·부비동 증대 후. EIF는 숙주(금연)×골질/부위×술식(로딩)의 다변량 문제.",
+      "cite": "overviews/early-implant-failure-risk-prevention-overview"
+    },
+    {
+      "id": "q3",
+      "q": "조기 실패 예방에서 술전 항생제 예방의 효과는?",
+      "opts": [
+        "EIF를 크게 줄인다",
+        "위약대조 이중맹검 RCT만 모은 SR+MA(Momand)에서 EIF를 유의하게 못 줄임(RR 0.66 비유의, NNT 143) — 비복잡 케이스에서 통상 예방은 스튜어드십 관점에서 지양",
+        "모든 케이스에서 필수",
+        "항생제가 유일한 예방책"
+      ],
+      "ans": 1,
+      "rat": "술전 항생제 예방은 EIF를 유의하게 못 줄임 — RR 0.66(비유의), NNT 143, GRADE 중간(Momand). 단 즉시 발치와 식립만은 예외 신호. 광기능화(UV 표면처리)도 보호 경향이나 비유의(OR 0.51, p=0.25). 레버는 금연 상담·후방상악/저밀도골 보수적 로딩·부위 선택.",
+      "cite": "overviews/early-implant-failure-risk-prevention-overview"
+    }
+  ]
+}

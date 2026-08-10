@@ -12,11 +12,21 @@ source_collection: external
 ## Why Ingested
 The keystone of the expectations axis -- it answers 'what do complainants actually want?' using justice theory. It explains why purely defensive or apology-only responses fail, and sets the standard the response-axis papers ([[complaint-management/12913_2021_Article_6733]], [[complaint-management/pone.0325185]]) are measured against.
 
-## One-line Summary
-Survey of 424 hospital complainants showing the dominant goal is preventing recurrence; they prioritise impartial procedure, explanation over apology, and rarely seek money.
+## Three-line Summary
 
-## 한줄요약
-병원 민원인 424명 설문 — 최우선 목표는 '재발 방지', 공정한 절차·(사과보다) 설명을 중시하고 금전 보상 요구는 드묾.
+Cross-sectional survey of 424 hospital patients (75% response) who lodged formal complaints with complaint committees in 74 Dutch hospitals; questionnaire administered at the start of the complaint procedure using justice-theory framework items.
+
+Patients' predominant objective was preventing recurrence; an impartial committee was most important to 87%; explanation (65%) ranked higher than apology (41%) as the most important element of a fair response.
+
+Only 7% of complainants sought financial compensation, contradicting the assumption that litigation is the primary driver; restoring the doctor-patient relationship was important to only 32%, and changing hospital performance to prevent recurrence was the primary desired outcome (79%).
+
+## 세줄요약
+
+네덜란드 74개 병원 민원위원회에 정식 민원 제기한 환자 424명(응답률 75%) 횡단면 설문; 민원 절차 시작 시점에 정의 이론(justice theory) 기반 항목 응답.
+
+환자의 최우선 목표는 재발 방지; 공정한 위원회(87% 중요), 설명(65% 최중요) > 사과(41%).
+
+금전 보상 요구는 7%뿐(소송 우선 가정 반박); 의사-환자 관계 회복 중요도 32%, 재발 방지 병원 성과 변화 최우선 79%.
 
 ## 1. Document Information
 - BMC Health Services Research 2006;6:106. Open access.

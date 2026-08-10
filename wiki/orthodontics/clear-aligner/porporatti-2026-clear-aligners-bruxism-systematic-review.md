@@ -6,7 +6,7 @@ date: 2026-03-17
 doi: "10.1111/joor.70189"
 source: porporatti-2026-clear-aligners-bruxism-systematic-review.md
 category: [orthodontics/clear-aligner]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "41841364"
@@ -17,13 +17,21 @@ text_filename: porporatti-2026-clear-aligners-bruxism-systematic-review.txt
 tags: [clear-aligner, bruxism, sleep-bruxism, awake-bruxism, EMG, parafunction]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (11 studies, n=818, 72.8% female; meta-analysis infeasible) concluding clear aligner therapy has a predominantly **neutral** effect on bruxism — frequently reducing tonic contractions (clenching) but with inconsistent/transient effects on phasic activity (grinding) and no change in overall sleep-bruxism index; aligners cannot be classified as protective or harmful (GRADE moderate for RCTs, very low for non-randomised).
+First systematic review of clear aligner therapy (CAT) and bruxism (PROSPERO CRD420251053793; PRISMA 2020; GRADE; 857 records → 11 studies, n=818, 72.8% female; 5 RCTs + 6 non-randomised; meta-analysis infeasible due to heterogeneity in diagnostic method and follow-up).
 
-## 한줄요약
+No study altered the overall sleep-bruxism (SB) index; aligners frequently reduced tonic contractions (clenching) while effects on phasic activity (grinding) were inconsistent/transient (one RCT reported a transient increase); awake bruxism was generally unaffected; GRADE certainty moderate for RCTs, very low for non-randomised studies.
 
-체계적 문헌고찰 (11편, n=818, 여성 72.8%, 메타분석 불가): 투명교정장치 (Clear Aligner)는 이갈이 (Bruxism)에 대체로 **중립적** — 긴장성 수축 (tonic/clenching)은 자주 감소하나 위상성 수축 (phasic/grinding)과 수면이갈이지수 (SB index)에는 일관·지속 효과 없음. 보호인자도 위험인자도 아님 (근거수준 RCT 중등도, 비무작위 매우 낮음).
+Clear aligners can be classified as neither protective nor harmful for bruxism on current evidence; apparent reduction signals came from tonic/clenching effects and early self-report, while the "risk" signals came from cross-sectional studies without baseline data that cannot establish temporality.
+
+## 세줄요약
+
+이갈이(Bruxism)와 투명교정(CAT)에 대한 최초 체계적 문헌고찰 (PROSPERO CRD420251053793; PRISMA 2020; GRADE; 857건 → 11편, n=818, 여성 72.8%; RCT 5 + 비무작위 6; 진단방법·추적기간 이질성으로 메타분석 불가).
+
+수면이갈이지수(SB index)를 변화시킨 연구 없음; 투명교정은 긴장성 수축(tonic/clenching)을 자주 감소시키나 위상성 수축(phasic/grinding)에는 비일관·일시적(한 RCT는 일시적 증가 보고); 깨어있을 때 이갈이(awake bruxism)에는 대체로 영향 없음; GRADE 확실성 RCT 중등도, 비무작위 매우 낮음.
+
+현재 근거에서 투명교정은 이갈이에 보호인자도 위험인자도 아님; 감소 신호는 tonic/clenching 효과·초기 자기보고, "위험" 신호는 기저선 없는 단면 연구에서 나와 인과관계 불명.
 
 ## Summary
 

@@ -6,7 +6,7 @@ date: 2023-10-01
 doi: 10.1186/s12998-023-00489-x
 source: menendez-torre-2023-dry-needling-vs-manual-therapy-tmd-nma.md
 category: [tmj]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/menendez-torre-2023-dry-needling-vs-manual-therapy-tmd-nma.pdf
 pdf_filename: menendez-torre-2023-dry-needling-vs-manual-therapy-tmd-nma.pdf
 source_collection: external
@@ -18,13 +18,21 @@ relations:
     target: gonzalez-sanchez-2023-tmj-physiotherapy-treatment-sr
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review + frequentist network meta-analysis (17 RCTs qualitative, 8 in NMA, n=556) of myofascial TMD pain: the indirect dry-needling-vs-manual-therapy comparison was non-significant (MD −0.263 [−1.517, 0.992] on 10-point VAS), yet manual therapy ranked the most likely modality to reduce short-term pain (SUCRA 0.932) ahead of deep dry needling (0.775); evidence is low-quality and protocol-heterogeneous.
+Systematic review + frequentist random-effects NMA (17 RCTs qualitative, 8 in NMA, n=556, PROSPERO-registered) testing dry needling (DN) vs manual therapy (MT) for myofascial TMD pain; no head-to-head RCT existed, so comparisons are indirect via a five-node network (DN, MT, cognitive therapy, BTX, placebo).
 
-## 한줄요약
+Indirect DN vs MT comparison: MD −0.263 (95% CI −1.517 to 0.992) — non-significant; SUCRA ranking placed MT first (0.932), DN second (0.775), BTX last (0.103); MT and DN both significantly outperformed BTX; I²=65%, publication-bias signal.
 
-근막성 측두하악장애(TMD) 통증에 대한 체계적 문헌고찰 + 빈도주의 네트워크 메타분석 (정성 17 RCT, NMA 8편, n=556): 건침 대 도수치료의 간접 비교는 유의차 없음 (MD −0.263 [−1.517, 0.992], 10점 VAS)이었으나, 단기 통증 감소 가능성 순위는 도수치료(SUCRA 0.932)가 심부건침(0.775)보다 앞섬 — 근거 질이 낮고 프로토콜 이질성이 큼.
+For myofascial TMD, MT and DN are both reasonable short-term pain options with no proven superiority over each other; the NMA's ranking (MT>DN) should be interpreted with caution given large heterogeneity, funnel asymmetry, and PEDro quality variability.
+
+## 세줄요약
+
+체계적 문헌고찰 + 빈도주의 랜덤효과 네트워크 메타분석 (정성 17 RCT, NMA 8편, n=556, PROSPERO 등록): 건침(DN) vs 도수치료(MT) 직접 비교 RCT 없어 5노드 네트워크(DN·MT·인지치료·BTX·위약) 통한 간접 비교.
+
+DN vs MT 간접 비교: MD −0.263 (95% CI −1.517~0.992) — 유의차 없음; SUCRA 순위 MT 1위(0.932), DN 2위(0.775), BTX 최하위(0.103); MT·DN 모두 BTX 대비 유의하게 우월; I²=65%, 출판 편향 신호.
+
+근막성 TMD에서 MT·DN 모두 합리적인 단기 통증 중재이며 서로 간 우월성 없음; 다만 큰 이질성·깔때기 비대칭·PEDro 질 편차를 고려해 SUCRA 순위는 조심스럽게 해석해야 함.
 
 ## Summary
 

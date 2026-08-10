@@ -6,7 +6,7 @@ date: 2026-01-01
 doi: 10.1111/clr.70106
 source: araujo-2026-buccal-gap-width-alveolar-reduction-iip-cbct.md
 category: [immediate-implant/esthetic-soft-tissue]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 full_text: true
 pmid: "41823398"
@@ -24,13 +24,21 @@ relations:
 tags: [immediate-implant, buccal-gap, DBBM, ridge-preservation, maxillary-central-incisor, CBCT, alveolar-process, esthetic-zone, buccal-bone, retrospective]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective CBCT cohort (n=28 maxillary central incisors, contralateral pristine-tooth control, mean 6 y in function): a DBBM-grafted buccal gap > 2 mm preserved > 90% of alveolar-process cross-sectional area (8.5% ± 11% reduction), whereas a grafted narrow gap (≤ 2 mm) lost ~41% (p<0.001); gap width was the only significant predictor of resorption, with baseline buccal bone thickness and CTG non-significant.
+Retrospective CBCT cohort (n=28 maxillary central incisors, contralateral pristine tooth as within-subject control, mean 6 years in function) isolating buccal-gap width as a determinant of ridge preservation after immediate implant placement with DBBM grafting.
 
-## 한줄요약
+A DBBM-grafted buccal gap >2 mm preserved >90% of alveolar-process cross-sectional area (8.5% ± 11% reduction), whereas a grafted narrow gap ≤2 mm lost ~41% (p<0.001); gap width was the only significant predictor in regression — baseline buccal bone thickness and CTG were non-significant.
 
-후향적 CBCT 코호트(상악 중절치 28부위, 반대측 자연치 대조, 평균 6년): DBBM으로 이식한 협측 gap이 2 mm 초과면 치조제 단면적의 90% 이상(8.5% 감소)을 보존했으나, 2 mm 이하 좁은 gap은 약 41% 흡수(p<0.001). gap 폭이 유일한 흡수 예측인자였고 기준 협측골 두께·결합조직이식(CTG)은 비유의.
+Gap width, not buccal-wall thickness, governs dimensional preservation: the >2 mm threshold corresponds to the ITI Type-1A survival criterion and provides its dimensional mechanism; generalization is limited by single-operator design and central-incisor-only sample.
+
+## 세줄요약
+
+후향적 CBCT 코호트 (상악 중절치 28부위, 반대측 자연치 대조, 평균 6년): DBBM 이식 즉시 임플란트에서 협측 gap 폭이 치조제 보존의 결정인자임을 규명.
+
+Gap >2 mm → 치조제 단면적 90% 이상 보존(8.5% 감소); gap ≤2 mm → 약 41% 흡수(p<0.001); 회귀분석에서 gap 폭만 유의 예측인자 — 기준 협측골 두께·CTG 비유의.
+
+협측골 두께가 아닌 gap 충전 부피가 보존을 결정 — >2 mm 기준은 ITI Type-1A 생존 기준에 해당하는 기전적 근거를 제공; 단일 술자·중절치 한정으로 일반화 제한.
 
 ## Summary
 

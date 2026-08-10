@@ -7,7 +7,7 @@ type: overview
 category: [overviews]
 tags: [EAL, working-length, apex-locator, apical-constriction, RootZX, protocol]
 source_papers: 
-confidence: synthesis
+evidence_level: synthesis
 source: synthesis
 ---
 
@@ -26,12 +26,21 @@ source: synthesis
 > - 정확도 저하 조건 3 — NaOCl 존재: 측정값이 더 짧게 나옴(p<0.05) → flooding 전 측정하거나 후 재확인.
 > - 임상 takeaway: cervical flaring 후 건조 → 적정 K-file → APEX "0.5" 도달·5초 안정 확인 → 전치 −0.85mm/구치 −0.70mm 설정 → 방사선 확인(충돌 시 EAL 우선) → NaOCl 후 재측정. 개별 근거 수준은 낮으나 방향성은 일관됨.
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis of 6 papers on electronic apex locator (EAL) working-length protocol. Core thesis: the EAL "0" reading marks the apical foramen (AF), but the ideal obturation endpoint is the apical constriction (AC), so a fixed distance must be subtracted — anatomically AC–AF averages 0.85 mm for anterior and 0.70 mm for posterior teeth (Mousavi 2018), making the common −0.5 mm rule an under-correction. Clinical takeaway: EAL accuracy is generation-independent and device-robust, but degrades with divergent/wide foramina (file-size matching matters) and in the presence of NaOCl (re-measure), so confirm a stable ≥5-second reading and set WL at −0.85 mm anterior / −0.70 mm posterior.
+Synthesis of 6 papers on electronic apex locator (EAL) working-length protocol: EAL "0" marks the apical foramen (AF — the widest opening) but the ideal obturation endpoint is the apical constriction (AC — the narrowest point near the CDJ), so a fixed distance must be subtracted; AC–AF averages 0.847 mm for anterior and 0.709 mm for posterior teeth (Mousavi 2018, p=0.035), making the widely used −0.5 mm rule an anatomically insufficient under-correction.
 
-## 한줄요약
-EAL 프로토콜 6편 합성: EAL "0"=대공(AF) 위치; 종지점은 협부(AC)이므로 전치 −0.85mm·구치 −0.70mm가 해부학적으로 정확; 발산형·광근첨공에서 기기별·파일 크기 매칭이 정확도 결정
+EAL generation (3rd–6th) makes no significant difference in accuracy (Pisano 2024 umbrella review) — upgrade for ergonomics, not precision; RootZX II vs Wirele-X: 81.8% vs 90.9% accuracy (NS, p=0.61; Versiani 2022 micro-CT); Korean practice pattern: 89% prefer EAL, 41% still use "APEX −0.5 mm," 74% prefer EAL over radiograph on conflict (Ahn 2016 survey, n=90%+ response rate); accuracy degrades under 3 conditions: divergent apex (only RootZX II and EPex Pro are unaffected), wide apex ≥0.6 mm (file-size matching essential), NaOCl flooding (measure before or re-measure after).
+
+Clinical protocol: cervical flaring → dry → appropriate K-file → reach "0.5" stable for ≥5 seconds → set WL at anterior −0.85 mm / posterior −0.70 mm → confirm with radiograph (prefer EAL if conflict) → re-measure after NaOCl irrigation; evidence level for each component is low but directionally consistent.
+
+## 세줄요약
+
+전자근관장측정기(Electronic Apex Locator, EAL) 프로토콜 6편 합성: EAL "0"은 대공(Apical Foramen, AF) 위치; 이상적 충전 종지점은 근단협착부(Apical Constriction, AC)이므로 일정 거리를 빼야 함 — 해부학적으로 전치 −0.85mm·구치 −0.70mm(Mousavi 2018); 흔히 쓰는 −0.5mm 룰은 특히 전치에서 AC에 못 미치는 보수적 안전 마진.
+
+세대(3~6세대) 간 정확도 차이 없음(Pisano 2024 우산형 리뷰); 한국 현황: EAL 선호 89%·읽기 "APEX −0.5mm" 1위 41%·EAL과 방사선 충돌 시 EAL 우선 74%(Ahn 2016); 정확도 저하 3조건: 발산형 근첨공(Raypex 6·CanalPro 저하, RootZX II·EPex Pro 영향 없음)·광근첨공 ≥0.6mm(파일 크기 매칭 필수)·NaOCl 존재(측정값 단축).
+
+임상 프로토콜: 경부 성형 후 건조 → 적정 K-file → "0.5" 도달·5초 안정 확인 → 전치 −0.85mm/구치 −0.70mm 설정 → 방사선 확인(충돌 시 EAL 우선) → NaOCl 후 재측정.
 
 ---
 

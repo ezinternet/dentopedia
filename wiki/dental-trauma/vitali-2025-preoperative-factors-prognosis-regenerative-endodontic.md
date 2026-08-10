@@ -6,7 +6,7 @@ date: 2025-08-31
 doi: 10.1111/iej.70025
 source: vitali-2025-preoperative-factors-prognosis-regenerative-endodontic.md
 category: [dental-trauma]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: false
 pmid: "40887721"
@@ -19,13 +19,21 @@ relations:
     target: zhou-2022-regenerative-endodontic-immature-teeth-trauma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (20 studies, 13 observational + 7 RCT; GRADE very low): REP clinical/radiographic healing exceeds 81% regardless of pre-op factors, but trauma-related necrosis (RR 3.59), incisors (RR 1.90), and apical lesions (RR 2.55) carry a higher root-development-failure risk.
+SR+MA (six databases + grey literature; 20 studies — 13 observational + 7 RCTs; Newcastle-Ottawa and Cochrane RoB 2; GRADE; meta-analyses of proportions and RRs) investigating pre-operative factors affecting prognosis of regenerative endodontic procedures (REP) — trauma is a leading cause of the pulp necrosis in immature teeth that REP addresses.
 
-## 한줄요약
+REP clinical/radiographic healing exceeds 81% regardless of pre-operative factors; however, the harder root-development endpoint is factor-sensitive — trauma-related necrosis (vs anatomic anomaly) carries 3.59× root-development failure risk, incisors 1.90×, and pre-existing apical lesions 2.55×.
 
-SR+MA (20편, 관찰 13 + RCT 7; GRADE 매우 낮음): 재생근관치료(REP)의 임상·방사선학적 치유는 술전 인자와 무관하게 81%를 초과하나, 외상성 치수괴사(RR 3.59)·절치(RR 1.90)·치근단 병소(RR 2.55)는 치근발육 실패 위험이 더 높다.
+This is the first synthesis isolating necrosis aetiology (trauma vs anomaly) as a REP prognostic factor; overall GRADE certainty is very low, but the findings are clinically important for counselling patients and choosing irrigation protocols when REP is planned after traumatic necrosis.
+
+## 세줄요약
+
+SR+MA (6개 데이터베이스 + 회색문헌; 20편 — 관찰연구 13 + RCT 7; Newcastle-Ottawa 및 Cochrane RoB 2 평가; GRADE; 비율 및 RR 메타분석): 재생근관치료(Regenerative Endodontic Procedure, REP) 예후에 영향하는 술전 인자 규명 — 외상은 REP 대상인 미성숙치 치수괴사의 주요 원인.
+
+REP 임상·방사선학적 치유는 술전 인자와 무관하게 81% 초과; 그러나 치근발육이라는 더 어려운 결과지표는 인자에 민감 — 외상성 치수괴사(vs 해부학적 이상)는 3.59배, 절치 1.90배, 기존 치근단 병소 2.55배의 치근발육 실패 위험.
+
+괴사 원인(외상 vs 이상)을 REP 예후 인자로 분리한 첫 번째 종합 연구; 전체 GRADE 매우 낮음이나, 외상 후 REP 계획 시 환자 상담 및 세정 프로토콜 선택에 임상적으로 중요하다.
 
 ## Summary
 

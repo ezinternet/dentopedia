@@ -13,13 +13,21 @@ source_collection: external
 
 식립 시점 프로토콜 비교에서 **조기식립(early placement)**이 즉시·지연 식립 대비 실패율은 동등하면서 주위 경조직 안정성에서 즉시식립보다 우수한지에 대한 정량 근거. 즉시 vs 지연을 다룬 [[immediate-implant/tonetti-2017-immediate-vs-delayed-implant-timing-rct]]과 [[immediate-implant/esthetic-soft-tissue/buser-2017-implant-placement-timing-post-extraction-esthetic]]의 의사결정 틀에 early arm을 정량적으로 보강한다.
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 12 studies finding early implant placement yields implant failure rates equivalent to immediate and delayed protocols, but with significantly less marginal bone loss than immediate placement into fresh sockets (WMD −0.14 mm, 95% CI −0.22 to −0.05).
+SR+MA of 12 clinical studies comparing early implant placement (Type 2/3, 4–16 weeks) to immediate (Type 1) and delayed protocols on implant failure rate and peri-implant marginal bone level.
 
-## 한줄요약
+Early placement showed equivalent implant failure rates vs immediate (RD −0.018, p=0.416) and delayed (RD −0.008, p=0.670) protocols, but significantly less marginal bone loss than immediate placement into fresh sockets (WMD −0.14 mm, 95% CI −0.22 to −0.05, p=0.001).
 
-12편 SR+MA — 조기식립은 즉시·지연 식립과 임플란트 실패율이 동등하나, 신선 발치와 즉시식립보다 변연골소실이 유의하게 적었다(WMD −0.14 mm).
+Early placement offers a peri-implant hard-tissue stability advantage over immediate fresh-socket placement while matching survival rates — supporting it as a valid protocol choice when esthetic urgency does not require immediate implantation.
+
+## 세줄요약
+
+조기식립(Type 2/3, 4–16주)을 즉시·지연 식립과 비교한 임플란트 실패율 및 변연골수준 SR+MA (12편).
+
+조기식립의 실패율은 즉시(RD −0.018, p=0.416)·지연(RD −0.008, p=0.670) 대비 동등; 신선 발치와 즉시식립 대비 변연골소실이 유의하게 적었다(WMD −0.14 mm, 95% CI −0.22 to −0.05, p=0.001).
+
+조기식립은 즉시식립과 생존율 동등 + peri-implant 경조직 안정성 우위 — 즉시 심미가 불필요한 경우 유효한 프로토콜 대안.
 
 ## 1. Document Information
 

@@ -10,8 +10,21 @@ pdf_filename: ufcd-2019-medically-complex-patients-management-guidelines.pdf
 source_collection: external
 ---
 
-## One-line Summary
-148-page UF dental school clinical guideline covering 23 systemic conditions + ASA classification + vasoconstrictor use; comprehensive dental management protocols per disease with medical consultation indications.
+## Three-line Summary
+
+148-page UF dental school clinical guideline covering 23
+
+systemic conditions + ASA classification + vasoconstrictor use;
+
+comprehensive dental management protocols per disease with medical consultation indications.
+
+## 세줄요약
+
+148-page UF dental school 임상적 (Clinical) guideline covering 23
+
+systemic conditions + ASA classification + vasoconstrictor use;
+
+comprehensive dental management protocols per disease with medical consultation indications.
 
 ## 1. Document Information
 - Source: University of Florida College of Dentistry, Clinical Guidelines

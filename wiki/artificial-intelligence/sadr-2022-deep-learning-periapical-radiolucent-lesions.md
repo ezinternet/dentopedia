@@ -6,7 +6,7 @@ date: 2023-03-01
 doi: 10.1016/j.joen.2022.12.007
 source: sadr-2022-deep-learning-periapical-radiolucent-lesions.md
 category: [artificial-intelligence]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: false
 pmid: "36563779"
@@ -19,13 +19,21 @@ relations:
     target: abbott-2024-ai-platforms-dental-caries-detection
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of diagnostic test accuracy (18 SR, 6 pooled; QUADAS-2 + GRADE) of deep learning vs expert clinicians for periapical radiolucent lesion detection: pooled sensitivity 0.925 (95% CI 0.862–0.960), specificity 0.852 (0.810–0.885), diagnostic OR 71.7, GRADE certainty "high" — the only dental-AI review in this cluster reaching high certainty.
+SR+MA of diagnostic test accuracy (18 SRs, 6 pooled; QUADAS-2 + GRADE) testing deep learning vs expert clinicians for periapical radiolucent lesion detection on dental radiographs (PA, panoramic, CBCT).
 
-## 한줄요약
+Pooled sensitivity 0.925 (95% CI 0.862–0.960), specificity 0.852 (0.810–0.885), diagnostic OR 71.7; GRADE certainty "high" — the only dental-AI SR in this wiki reaching high certainty.
 
-치근단 방사선투과 병소 검출 딥러닝 vs 전문의 진단정확도 체계적 문헌고찰+메타분석(SR 18편, 풀링 6편): 통합 민감도 0.925, 특이도 0.852, 진단 오즈비 71.7, GRADE 근거수준 "높음" — 다만 대부분 연구가 비뚤림 위험. (Based on articles retrieved from PubMed; abstract-only)
+Clinically, DL performs comparably to expert clinicians for PA lesion detection; most primary studies had high risk of bias and the SR was limited to 6/18 studies for meta-analysis, so caution in individual-model adoption is warranted.
+
+## 세줄요약
+
+치근단 방사선투과 병소 검출 딥러닝 vs 전문의 진단정확도 SR+MA (18편 SR, 6편 풀링; QUADAS-2 + GRADE); 파노라마·치근단·CBCT 다양식 포함.
+
+통합 민감도 0.925(95% CI 0.862–0.960), 특이도 0.852(0.810–0.885), 진단 오즈비(diagnostic Odds Ratio, dOR) 71.7; GRADE 근거수준 "높음" — 이 wiki 치과 AI SR 중 유일한 high 등급.
+
+딥러닝은 전문의와 유사한 수준으로 치근단 병소를 검출할 수 있으나, 대부분 연구가 비뚤림 위험이 높고 풀링 가능 연구가 6편에 불과해 개별 모델 임상 도입 시 신중이 필요하다.
 
 ## Summary
 

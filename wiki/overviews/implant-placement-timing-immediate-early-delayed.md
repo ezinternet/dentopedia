@@ -6,7 +6,7 @@ date: 2026-06-28
 doi: N/A
 source: synthesis
 category: overviews
-confidence: synthesis
+evidence_level: synthesis
 pdf_path: N/A
 pdf_filename: N/A
 source_collection: synthesis
@@ -28,13 +28,21 @@ tags: [overview, placement-timing, immediate-implant, early-placement, delayed-i
 > - **Cochrane 신선 발치와 직접 비교(Esposito 2010, SR+MA, 7 RCT)**: 즉시 vs 지연 — 2 RCT(n=126)에서 생존·심미·MBL 유의차 없음; **즉시-지연(Immediate-delayed, 4–8주)** vs 지연 — 2년 심미 우수(RR=1.68) BUT 5년 합병증 4배(RR=4.20); 골대체제(무기 소 골) 자가골 대용 허용; 전 연구 비뚤림 위험 높음·검정력 부족. → 즉시-지연 전략은 단기 심미 이득이 장기 합병증 위험으로 상쇄됨을 시사.
 > - 미해결: 조기 vs 즉시 vs 지연을 표준화된 심미 endpoint로 분리한 head-to-head RCT 드묾; "조기"(Type 2 vs 3) 정의가 연구마다 불일치; 환자보고결과는 시점에 따라 잘 안 갈림(PROM 도구 개선 필요).
 
-## One-line Summary
+## Three-line Summary
 
-Across the ITI Type 1–4 timing spectrum, implant survival is broadly equivalent, but the esthetic/biological cost falls on **immediate (Type 1)** placement: a landmark RCT shows immediate placement needs more augmentation (72% vs 44%), causes more wound failures (26% vs 5%), and yields worse pink esthetics (42% vs 19% inadequate) than delayed; a meta-analysis shows **early (Type 2/3)** placement matches immediate/delayed for survival while losing less marginal bone than immediate — making early placement the risk-balanced default when esthetics are critical and the site is not ideal for immediate.
+Synthesis of 12 papers (2 landmark RCTs, 2 SR+MAs, multiple narrative reviews) on ITI Type 1–4 placement timing: across the spectrum, implant survival is broadly equivalent, but the esthetic/biological cost falls on immediate (Type 1) placement — Tonetti 2017 RCT (n=124) shows immediate needs more augmentation (72% vs 44%), more wound failures (26% vs 5%), and more inadequate pink esthetics (42% vs 19% inadequate) compared to 12-week delayed placement.
 
-## 한줄요약
+Early (Type 2/3) placement is the risk-balanced hedge: Bassir 2019 SR+MA (12 studies) shows early placement matches immediate/delayed for failure rate while losing less marginal bone than immediate (WMD −0.14 mm); periapical lesion >5 mm is the dominant real-world contraindication to immediate (Bineviciute 2024, 186 clinicians survey); and large bony-defect sockets can still reach delayed-equivalent 10-year outcomes with immediate + GBR + deferred provisional (Meijer 2024 RCT), though this is operator-dependent.
 
-ITI Type 1–4 시점 전반에서 임플란트 생존율은 대체로 동등하나, 심미·생물학적 비용은 **즉시(Type 1)** 식립에 집중된다: 대표 RCT는 즉시식립이 지연 대비 골증대(72% vs 44%)·창상실패(26% vs 5%)·부적절 심미(42% vs 19%)가 많음을 보이고, 메타분석은 **조기(Type 2/3)** 식립이 즉시·지연과 생존율은 동등하면서 즉시보다 변연골 손실이 적음을 보여 — 심미가 중요하고 부위가 즉시식립에 이상적이지 않을 때 조기식립이 위험 균형 기본값이 된다.
+The Cochrane review (Esposito 2010, 7 RCTs) cautions that "immediate-delayed" (4–8 wk soft-tissue healing only) yields better 2-year esthetics (RR=1.68) but 4× more complications at 5 years (RR=4.20) — this intermediate timing is not a safely improved compromise over conventional delayed placement.
+
+## 세줄요약
+
+12편 종합(RCT 2, SR+MA 2, 서술고찰 다수): ITI Type 1–4 시점 전반에서 임플란트 생존율은 대체로 동등하나, 심미·생물학적 비용은 즉시(Type 1) 식립에 집중 — Tonetti 2017 RCT(n=124)에서 즉시식립이 12주 지연 대비 골증대 필요(72% vs 44%)·창상실패(26% vs 5%)·부적절 심미(42% vs 19%) 더 많음.
+
+조기(Type 2/3) 식립이 위험 균형 hedge: Bassir 2019 SR+MA(12편)에서 조기는 즉시·지연과 실패율 동등 + 즉시보다 MBL이 적음(WMD −0.14mm); 근단병소 >5mm가 즉시식립의 지배적 실세계 금기(Bineviciute 2024, 설문 186명); 큰 골결손도 즉시+GBR+지연 임시보철로 10년 지연 동등 결과 가능(Meijer 2024 RCT) — 단, 술자 의존적.
+
+Cochrane(Esposito 2010, 7 RCT): 즉시-지연(4–8주 연조직 치유만) 전략은 2년 심미가 나으나(RR=1.68) 5년 합병증이 4배(RR=4.20) — "짧은 지연"이 지연식립의 안전한 개선판이 아님을 주의.
 
 ## Thesis
 
@@ -58,22 +66,22 @@ A fourth comparison — **immediate-delayed (4–8 wk soft-tissue healing only, 
 | [[immediate-implant/esthetic-soft-tissue/buser-2017-implant-placement-timing-post-extraction-esthetic]] | narrative-review | esthetic zone | "When immediate, when early, when late?" — the canonical decision framework. |
 | [[immediate-implant/esthetic-soft-tissue/chen-2014-esthetic-outcomes-immediate-early-implant]] | (esthetic outcomes) | esthetic zone | Esthetic outcomes by timing; early placement favorable risk profile. |
 | [[immediate-implant/thoma-2026-timing-dental-implant-placement-past]] | narrative-review | — | Contemporary perspective on placement timing (past/present/future). |
-| [[immediate-implant/pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma]] | sr+ma | — | Periapical pathology at the immediate site — a key contraindication modifier. |
+| [[immediate-implant/infected-socket/pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma]] | sr+ma | — | Periapical pathology at the immediate site — a key contraindication modifier. |
 | [[immediate-implant/bineviciute-2024-attitudes-surgeons-immediate-implant-survey]] | cross-sectional | 186 clinicians | Real-world criteria: periapical lesion >5 mm dominant contraindication; low socket-classification uptake. |
 | [[immediate-implant/qian-2024-anterior-maxillary-implants-placement-loading-nma]] | sr+ma (NMA) | anterior maxilla | Network ranking of placement × loading combinations. |
 | [[immediate-implant/esthetic-soft-tissue/samet-2023-immediate-placement-loading-esthetic-zone]] | (narrative) | esthetic zone | Combined placement + loading decision context. |
 | [[immediate-implant/esthetic-soft-tissue/peitsinis-2025-implant-placement-timing-loading-protocols]] | (review) | — | Timing × loading protocol interplay. |
-| [[immediate-implant/meijer-2024-immediate-implant-bony-defect-10year-rct]] | rct | 10-yr | Even bony-defect sockets reach delayed-equivalent 10-yr outcomes with immediate + GBR + deferred provisional (operator-dependent). |
+| [[immediate-implant/gap-grafting/meijer-2024-immediate-implant-bony-defect-10year-rct]] | rct | 10-yr | Even bony-defect sockets reach delayed-equivalent 10-yr outcomes with immediate + GBR + deferred provisional (operator-dependent). |
 | [[immediate-implant/esposito-2010-fresh-extraction-sockets-immediate-cochrane]] | sr+ma Cochrane (7 RCT, 2010) | n=126 (immediate vs delayed comparison) | Immediate vs immediate-delayed vs delayed in fresh sockets — immediate vs delayed: no significant differences (2 RCTs); **immediate-delayed vs delayed: better esthetics at 2y (RR=1.68) BUT 4× more complications at 5y (RR=4.20)**; bone substitutes acceptable in place of autogenous graft; all studies high risk of bias, underpowered. |
 
 ## Clinical Decision Points
 
-1. **Esthetic-zone single tooth, intact buccal plate, no apical infection, thick phenotype** → immediate (Type 1) is reasonable and time-efficient; pair with gap graft ± CTG. [근거강함, selected cases]
-2. **Esthetic zone but thin/compromised plate, soft-tissue deficiency, or any apical lesion** → favor **early (Type 2/3)**: equivalent survival, less marginal bone loss than immediate, lower wound-failure risk. [근거강함]
-3. **Periapical lesion > 5 mm / active infection** → dominant real-world contraindication to immediate; debride and place early/delayed (Bineviciute 2024; Pranckeviciene 2024). [합의수준]
-4. **Large bony defect but expertise + GBR available** → immediate + GBR + deferred provisional can still reach delayed-equivalent 10-yr outcomes (Meijer 2024) — but this is operator-dependent, not a default. [근거강함, conditional]
-5. **When esthetics are paramount and the site is not ideal** → the Tonetti RCT is the cautionary anchor: immediate placement tripled augmentation need and inadequate-PES rate vs delayed. [근거강함]
-6. **Immediate-delayed (4–8 wk) as a "safer immediate" compromise** → the Cochrane review (Esposito 2010) cautions against this framing: better 2-year esthetics (RR=1.68) are offset by 4× more complications at 5 years (RR=4.20). Bone substitutes are acceptable when autogenous graft is not preferred. All comparisons based on few underpowered high-bias RCTs — treat as signal, not definitive evidence. [합의수준 — GRADE 매우 낮음]
+1. **Esthetic-zone single tooth, intact buccal plate, no apical infection, thick phenotype** → immediate (Type 1) is reasonable and time-efficient; pair with gap graft ± CTG. [확인, selected cases]
+2. **Esthetic zone but thin/compromised plate, soft-tissue deficiency, or any apical lesion** → favor **early (Type 2/3)**: equivalent survival, less marginal bone loss than immediate, lower wound-failure risk. [확인]
+3. **Periapical lesion > 5 mm / active infection** → dominant real-world contraindication to immediate; debride and place early/delayed (Bineviciute 2024; Pranckeviciene 2024). [확인]
+4. **Large bony defect but expertise + GBR available** → immediate + GBR + deferred provisional can still reach delayed-equivalent 10-yr outcomes (Meijer 2024) — but this is operator-dependent, not a default. [확인, conditional]
+5. **When esthetics are paramount and the site is not ideal** → the Tonetti RCT is the cautionary anchor: immediate placement tripled augmentation need and inadequate-PES rate vs delayed. [확인]
+6. **Immediate-delayed (4–8 wk) as a "safer immediate" compromise** → the Cochrane review (Esposito 2010) cautions against this framing: better 2-year esthetics (RR=1.68) are offset by 4× more complications at 5 years (RR=4.20). Bone substitutes are acceptable when autogenous graft is not preferred. All comparisons based on few underpowered high-bias RCTs — treat as signal, not definitive evidence. [확인 — GRADE 매우 낮음]
 
 ## Gaps & Future Research
 

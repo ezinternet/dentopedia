@@ -10,13 +10,23 @@ source_collection: external
 ---
 
 ## Why Ingested
-치주염의 비외과적 치료(SRP)에 대한 부가요법 근거를 보강하기 위해 ingest. SRP 단독 가이드라인을 다룬 [[periodontics/smiley-2015-nonsurgical-periodontitis-srp-guideline]]와 대비되며, 오존 부가효과가 작고 이질성이 높아 부가요법의 한계를 보여주는 근거로 활용.
+치주염의 비외과적 치료(SRP)에 대한 부가요법 근거를 보강하기 위해 ingest. SRP 단독 가이드라인을 다룬 [[periodontics/non-surgical-instrumentation/smiley-2015-nonsurgical-periodontitis-srp-guideline]]와 대비되며, 오존 부가효과가 작고 이질성이 높아 부가요법의 한계를 보여주는 근거로 활용.
 
-## One-line Summary
-SR+MA of 7 RCTs (n=13-113 per study) finding ozone as an adjunct to scaling and root planing produced small, mostly non-significant improvements in PPD, CAL, PI, GI under high heterogeneity (I2=80.49%).
+## Three-line Summary
 
-## 한줄요약
-7개 RCT를 메타분석(연구당 n=13-113)한 결과, 오존 치료를 SRP(scaling and root planing)에 부가하면 PPD·CAL·PI·GI가 소폭 개선되나 대부분 통계적으로 유의하지 않고 이질성이 매우 높음(I2=80.49%).
+SR+MA of 7 RCTs (n=13–113 per study, chronic and aggressive periodontitis adults) comparing ozone adjunct — gaseous, aqueous, or ozonated oil gel — to SRP alone over ≥6 weeks.
+
+All four pooled estimates (PPD WMD 0.03, PI WMD −0.23, GI WMD −0.45, CAL WMD −0.26) had 95% CIs crossing zero and were not statistically significant under a random-effects model; heterogeneity was very high (I²=80.49%).
+
+The ozone adjunct does not produce a clinically meaningful benefit over SRP alone with current evidence; high heterogeneity from varied ozone forms, doses, and protocols prevents robust conclusions.
+
+## 세줄요약
+
+SR+MA — 7편의 RCT (연구당 n=13~113, 성인 만성·공격성 치주염) 에서 오존 부가요법(가스·수용액·오존화 오일 겔)과 SRP (scaling and root planing) 단독을 비교했다.
+
+네 가지 통합 결과(PPD WMD 0.03, PI −0.23, GI −0.45, CAL −0.26) 모두 95% CI가 0을 포함해 통계적으로 유의하지 않았으며, 이질성이 매우 높았다(I²=80.49%).
+
+현재 근거로 오존 부가요법은 SRP 단독 대비 임상적으로 의미 있는 이득을 제공하지 않으며, 오존 형태·용량·프로토콜의 다양성에서 비롯된 높은 이질성이 강력한 결론을 어렵게 한다.
 
 ## 1. Document Information
 - Title: Ozone Therapy in Periodontics: A Meta-analysis

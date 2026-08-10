@@ -10,8 +10,21 @@ pdf_filename: yang-2024-sinus-septa-wall-thickness-perforation-risk.pdf
 source_collection: external
 ---
 
-## One-line Summary
-SR+MA: 상악동 중격 존재 및 측벽 두께 증가가 슈나이더막 천공 위험을 유의하게 높임; 중격 존재 시 OR 2배 이상, 측벽 두께>2mm 시 천공 위험 증가.
+## Three-line Summary
+
+SR+MA: 상악동 중격 존재 및 측벽 두께 증가가
+
+슈나이더막 천공 위험을 유의하게 높임; 중격 존재 시
+
+OR 2배 이상, 측벽 두께>2mm 시 천공 위험 증가.
+
+## 세줄요약
+
+SR+MA: 상악동 중격 존재 및 측벽 두께 증가가
+
+슈나이더막 천공 위험을 유의하게 높임; 중격 존재 시
+
+OR 2배 이상, 측벽 두께>2mm 시 천공 위험 증가.
 
 ## 1. Document Information
 - **Journal**: PLOS ONE 2024;19(8):e0308166

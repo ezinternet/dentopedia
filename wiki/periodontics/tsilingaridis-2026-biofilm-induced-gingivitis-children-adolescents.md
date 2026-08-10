@@ -6,7 +6,7 @@ date: 2026-03-29
 doi: 10.1111/jcpe.70122
 source: tsilingaridis-2026-biofilm-induced-gingivitis-children-adolescents.md
 category: [periodontics]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "41905896"
@@ -20,13 +20,21 @@ relations:
     target: caton-2018-classification-scheme-periodontal-periimplant-diseases
 ---
 
-## One-line Summary
+## Three-line Summary
 
-EFP/EAPD-commissioned systematic review (269 studies, 47 countries; 22 large low-bias studies pooled) — dental biofilm-induced gingivitis affects ~52% of children/adolescents (95% CI 42–62%, I²>99%; 34% CPI to 80% bleeding-index), rises with age/puberty, is socioeconomically patterned, and is best controlled by supervised fluoride toothbrushing plus school/caregiver education.
+EFP/EAPD-commissioned SR (269 studies, 47 countries; 22 large low-bias studies pooled for meta-analysis; PRISMA + ENTREQ; databases to January 2025) on biofilm-induced gingivitis in systemically healthy children and adolescents (<18 years), framed by the 2017 World Workshop classification.
 
-## 한줄요약
+Pooled gingivitis occurrence ~52% (95% CI 42–62%, I²>99%); ranges from 34% (CPI-based) to 80% (bleeding index); rises with age/puberty and follows a socioeconomic gradient; flossing added no benefit over brushing alone; none of the 269 studies used the 2017 World Workshop gingivitis case definition.
 
-EFP/EAPD 의뢰 체계적 문헌고찰(269편, 47개국; 대규모·저편향 22편 풀링) — 전신질환 없는 소아·청소년의 치면세균막유발 치은염 유병률 약 52%(95% CI 42–62%, I²>99%; CPI 34%~출혈지수 80%), 연령·사춘기와 함께 증가하고 사회경제적 격차를 따르며, 관리는 감독하 불소 칫솔질 + 학교·보호자 교육이 핵심.
+Supervised toothbrushing with fluoridated toothpaste + school/caregiver education is the cornerstone of management; electric vs manual toothbrush evidence is inconclusive; CHX is adjunctive only; three evidence voids identified: gingivitis diagnosis, non-biofilm gingival diseases, tobacco exposure in under-18s.
+
+## 세줄요약
+
+EFP/EAPD 의뢰 SR (269편, 47개국; 대규모·저편향 22편 풀링; 2025년 1월까지 검색): 2017 World Workshop 분류 틀 내에서 전신질환 없는 18세 미만의 치면세균막유발 치은염 발생·결정요인·관리·OHRQoL 평가.
+
+풀링 유병률 약 52%(95% CI 42–62%, I²>99%); 진단 방법에 따라 CPI 34%~출혈지수 80%; 연령·사춘기에 따라 증가, 사회경제적 격차 존재; 치실은 칫솔질 단독 대비 추가 이익 없음; 포함된 269편 중 2017 WW 치은염 기준을 사용한 연구는 0편.
+
+감독하 불소 칫솔질 + 학교·보호자 교육이 관리 핵심; 전동 vs 수동 칫솔 근거 불명확; CHX는 선택적 보조; 3가지 증거 공백(치은염 진단기준 적용·비치면세균막 치은질환·18세 미만 흡연) 확인됨.
 
 ## Summary
 
@@ -84,5 +92,5 @@ A noted gap: **none of the 269 studies used the 2017 World Workshop gingivitis c
 
 - [[periodontics/caton-2018-classification-scheme-periodontal-periimplant-diseases]] — the 2017 World Workshop classification framework this review applies to the under-18 population (this review notes no included study actually used its gingivitis case definition).
 - [[periodontics/papapanou-2018-periodontitis-classification-consensus-2017]] — companion 2017 WW consensus (periodontitis staging/grading); same classification system this pediatric review operates within.
-- [[periodontics/jo-2008-management-of-dental-biofilm-through]] — professional oral health care improving patient plaque-control ability; aligns with this review's finding that supervised/education-based biofilm control is the cornerstone of gingivitis management.
-- [[periodontics/buskermolen-2018-saliva-derived-biofilms-gingiva-model]] — biofilm–gingiva interaction model underpinning the host–biofilm mechanism of gingivitis.
+- [[periodontics/oral-hygiene-instruction/jo-2008-management-of-dental-biofilm-through]] — professional oral health care improving patient plaque-control ability; aligns with this review's finding that supervised/education-based biofilm control is the cornerstone of gingivitis management.
+- [[oral-microbiology/buskermolen-2018-saliva-derived-biofilms-gingiva-model]] — biofilm–gingiva interaction model underpinning the host–biofilm mechanism of gingivitis.

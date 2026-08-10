@@ -6,18 +6,28 @@ date: 2016-01-01
 doi: 10.1111/prd.12170
 source: buser-2017-implant-placement-timing-post-extraction-esthetic.md
 category: [immediate-implant/esthetic-soft-tissue]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/buser-2017-implant-placement-timing-post-extraction-esthetic.pdf
 pdf_filename: buser-2017-implant-placement-timing-post-extraction-esthetic.pdf
 source_collection: external
 tags: [immediate-implant, timing, ITI, esthetic-zone, early-implant, risk-factors, Type-I-IV]
 ---
 
-## One-line Summary
-ITI narrative review (Periodontol 2000 2017) of implant placement timing in esthetic single-tooth sites, defining Type I–IV (immediate/early/late) protocols; Type I (immediate) carries 20–30% risk of >1mm midfacial recession without strict selection criteria, survival exceeds 95% across all timings, and the three dominant esthetic-failure risk factors are thin biotype, buccal implant malposition, and thin/damaged facial wall.
+## Three-line Summary
 
-## 한줄요약
-narrative-review(Periodontol 2000 2017;73): ITI 즉시/조기/지연 식립 역사적 고찰 — Type I(즉시) 20-30% 퇴축 위험; 선택기준 충족 시 위험 감소; Type II/III 조기식립 더 예측가능; 생존율은 모든 시점 >95%.
+ITI narrative review (Periodontol 2000 2017;73, Buser et al.) tracing the history of implant placement timing from 1975 to 2013, defining Type I (immediate), II (early 4–8 wk), III (early 12–16 wk), and IV (late >6 mo) protocols for esthetic single-tooth sites.
+
+Type I (immediate) carries a 20–30% risk of >1 mm midfacial recession without strict case selection; survival exceeds 95% across all timing types; three key esthetic-failure risk factors are thin tissue biotype, buccal implant malposition, and thin or damaged facial wall.
+
+Type II/III early placement is more esthetically predictable than Type I; proper patient selection (intact facial wall, medium/thick biotype) substantially mitigates but does not eliminate the Type I recession risk.
+
+## 세줄요약
+
+ITI 내러티브 고찰 (Periodontol 2000 2017;73, Buser et al.): 1975–2013 임플란트 식립 시기 역사 및 Type I(즉시)·II(4–8주)·III(12–16주)·IV(6개월+) 분류 정의.
+
+Type I(즉시) — 선택 기준 없을 경우 1 mm 이상 순측 점막 퇴축 위험 20–30%; 모든 식립 시기 생존율 >95%; 3대 심미 실패 위험인자: 얇은 생체형·협측 오식립·얇거나 손상된 협측벽.
+
+Type II/III 조기 식립이 더 예측 가능한 심미 결과 — 엄격한 선택 기준(온전한 협측벽·중등도/두꺼운 생체형)이 Type I 위험을 줄이나 제거하지는 않음.
 
 ## Summary
 ITI-affiliated narrative review (Periodontol 2000, Buser et al.) tracing the historical development of implant timing protocols in the esthetic zone from 1975 to 2013. Provides current clinical recommendations for when to use ITI Type I (immediate), Type II (early 4–8wk), Type III (early 12–16wk), or Type IV (late >6mo) approaches.

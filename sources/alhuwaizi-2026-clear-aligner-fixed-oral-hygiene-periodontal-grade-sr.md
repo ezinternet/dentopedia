@@ -16,13 +16,21 @@ text_filename: alhuwaizi-2026-clear-aligner-fixed-oral-hygiene-periodontal-grade
 
 `clear-aligner` sweep의 **치주·구강위생 축에 GRADE 등급을 입힌** RCT-only SR. periodontal SR+MA [[wiki/orthodontics/clear-aligner/crego-ruiz-2023-periodontal-gingival-recession-aligner-vs-fixed-sr-ma]] 의 신중한 결론("CA가 치주에 다소 유리하나 근거 약함")을 GRADE 인증서로 보강 — 본 리뷰는 oral hygiene level은 **very low**, periodontal health는 **low** 등급으로 못 박고, CA 우위가 **순응도 의존(compliance-dependent)**임을 명시. paywall이라 abstract-only.
 
-## One-line Summary
+## Three-line Summary
 
-Qualitative SR with GRADE (6 RCTs, 2015–April 2025): periodontal/hygiene parameters significantly better with clear aligners than fixed appliances, but 5/6 RCTs at high RoB and certainty only very-low (oral hygiene) to low (periodontal) — the CA advantage is highly compliance-dependent and no firm conclusion is possible.
+Qualitative SR applying dual RoB 2 + GRADE appraisal (6 RCTs, 2015–April 2025) on oral hygiene and periodontal health outcomes comparing clear aligners (CA) vs. conventional fixed appliances (FA) in orthodontic patients.
 
-## 한줄요약
+Periodontal parameters were significantly better with CA, but 5/6 RCTs were at high risk of bias; GRADE certainty was very low for oral hygiene and low for periodontal health, with no meta-analysis possible due to heterogeneity.
 
-GRADE 기반 정성 SR(RCT 6편, 2015–2025.4): 치주·구강위생 지표는 투명교정장치(CA)가 고정장치(FA)보다 유의하게 양호하나, 6편 중 5편이 high RoB이고 근거확실성은 구강위생 very-low·치주 low. CA의 우위는 순응도(compliance)에 크게 좌우되어 확정 결론 불가.
+The CA periodontal advantage is compliance-dependent rather than an intrinsic device superiority; no firm clinical recommendation can be drawn until standardized, lower-risk-of-bias RCTs controlling for oral hygiene instruction and patient adherence are available.
+
+## 세줄요약
+
+RoB 2 + GRADE 이중 평가를 적용한 정성 SR(RCT 6편, 2015–2025.4): 투명교정장치(CA) vs 고정장치(FA)의 구강위생·치주 건강 비교.
+
+치주 지표는 CA에서 유의하게 양호했으나 6편 중 5편이 high RoB; GRADE 근거확실성은 구강위생 very-low, 치주 low이며 이질성으로 메타분석 불가.
+
+CA의 치주 우위는 장치 자체의 본질적 우월성이 아닌 순응도(compliance) 의존적임; 구강위생 지도와 순응도를 통제한 표준화된 low-RoB RCT가 확보되기 전까지 확실한 임상 권고는 불가.
 
 ## 1. Document Information
 

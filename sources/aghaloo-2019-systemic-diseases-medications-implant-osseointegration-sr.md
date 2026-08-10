@@ -16,13 +16,21 @@ text_filename: aghaloo-2019-systemic-diseases-medications-implant-osseointegrati
 
 Provides broad systemic-disease and medication context for osseointegration risk in medically compromised (including autoimmune) implant candidates, reinforcing the sibling autoimmune-specific review [[wiki/implants/esimekara-2022-dental-implants-autoimmune-diseases-sr]]. This ITI consensus SR anchors the wider systemic-risk landscape (diabetes, osteoporosis, RA, HIV, CVD, neurologic, hypothyroid, plus SSRI/PPI medications) into which the autoimmune-implant evidence is situated.
 
-## One-line Summary
+## Three-line Summary
 
-ITI consensus systematic review (abstract-only) finding that most systemic diseases — including well-controlled diabetes, osteoporosis, HIV, CVD, neurologic disorders, hypothyroidism, and rheumatoid arthritis — show no direct evidence of reduced implant osseointegration, while SSRIs and PPIs show preliminary negative effects and antiresorptives warrant ONJ caution.
+ITI consensus systematic review (IJOMI 2019 supplement; abstract-only) evaluating the effects of systemic diseases (diabetes, osteoporosis, HIV, CVD, neurologic, hypothyroidism, RA) and medications (SSRIs, PPIs, antiresorptives) on dental implant osseointegration.
 
-## 한줄요약
+Most systemic diseases show no direct evidence of reduced osseointegration in well-controlled patients; however, long-term peri-implant complications can increase (e.g., in diabetes), and SSRIs/PPIs have preliminary negative effects on osseointegration requiring validation.
 
-ITI 합의 체계적 문헌고찰(초록만 확보): 잘 조절된 당뇨, 골다공증, HIV, 심혈관질환, 신경질환, 갑상선저하증, 류마티스관절염(Rheumatoid Arthritis, RA) 모두 골유착(Osseointegration)률을 직접적으로 낮춘다는 근거는 없으며, 선택적 세로토닌 재흡수 억제제(SSRI)·양성자펌프억제제(Proton Pump Inhibitor, PPI)는 예비적 부정적 효과를, 골흡수억제제는 악골괴사(ONJ) 주의를 시사함.
+Antiresorptive medications warrant ONJ caution rather than concern over osseointegration per se; disease control and concomitant medications must guide clinical decision-making.
+
+## 세줄요약
+
+ITI 합의 체계적 문헌고찰(IJOMI 2019 보충호; 초록만 확보): 당뇨·골다공증·HIV·심혈관질환·신경질환·갑상선저하증·류마티스관절염(RA)과 SSRI·PPI·골흡수억제제가 임플란트 골유착에 미치는 영향 평가.
+
+대부분의 전신질환은 잘 조절된 경우 골유착률을 직접 낮추지 않으나, 당뇨에서 장기 치주조직 합병증이 증가할 수 있고, SSRI·PPI는 예비적 부정적 신호로 추가 검증 필요.
+
+골흡수억제제는 골유착 실패보다 악골괴사(ONJ) 위험이 주된 고려 사항이며, 질환 조절 상태와 복용 약물이 치료 계획에 반드시 반영되어야 함.
 
 ## 1. Document Information
 

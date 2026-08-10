@@ -6,18 +6,26 @@ date: 2014-02-01
 doi: "10.1002/eji.201344202"
 source: hajishengallis-2014-porphyromonas-gingivalis-host-manipulation.md
 category: [oral-microbiology]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/hajishengallis-2014-porphyromonas-gingivalis-host-manipulation.pdf
 pdf_filename: hajishengallis-2014-porphyromonas-gingivalis-host-manipulation.pdf
 source_collection: external
 tags: [P-gingivalis, keystone-pathogen, complement, C5aR, TLR2, gingipains, SerB, immune-evasion, periodontitis, dysbiosis]
 ---
 
-## One-line Summary
-Narrative review detailing how P. gingivalis serially subverts gingival epithelial cell innate immunity (FimA/SerB invasion, chemokine paralysis, miRNA reprogramming), complement (gingipain-mediated C3 degradation, C5aR–TLR2 crosstalk), and adaptive immunity (IL-12/IFN-γ suppression via ERK1/2-IRF-1) to function as a keystone pathogen orchestrating periodontal dysbiosis.
+## Three-line Summary
+Narrative review systematically detailing the molecular arsenal of P. gingivalis immune subversion at three levels: (1) epithelial invasion via FimA–β1-integrin with SerB dephosphorylation of NF-κBp65 suppressing CXCL8; (2) gingipain-mediated C3 degradation (all complement pathways blocked) while independently generating C5a; (3) C5aR–TLR2 crosstalk in macrophages suppressing iNOS killing and IL-12/IFN-γ via cAMP-PKA–GSK3β and ERK1/2-IRF-1.
 
-## 한줄요약
-Narrative review: P. gingivalis가 FimA 침투·SerB CXCL8 억제·gingipain C3 분해·C5aR-TLR2 crosstalk(iNOS·IL-12 억제)으로 단계적으로 숙주 면역을 조작해 치주 dysbiosis를 주도하는 분자 기전 총정리.
+C5aR-knockout mice fail to be colonized by P. gingivalis, develop no dysbiosis, and sustain no bone loss — placing C5aR as the single required host receptor for P. gingivalis-driven periodontal disease; P. gingivalis also regulates ~30% of its expressed proteome depending on niche context (community vs. planktonic vs. epithelial).
+
+These mechanisms collectively allow a quantitatively minor organism to sustain a nutrient-rich inflammatory dysbiosis benefiting the entire community, with C5aR and the complement–TLR2 crosstalk axis identified as high-priority therapeutic targets.
+
+## 세줄요약
+P. gingivalis 숙주 면역 조작의 분자 기전 3단계 Narrative review: (1) FimA–β1-integrin 침투 + SerB CXCL8 억제; (2) gingipain의 C3 분해(보체 전 경로 차단) + 독자적 C5a 생성; (3) C5aR–TLR2 crosstalk으로 대식세포 iNOS·IL-12/IFN-γ 억제.
+
+C5aR 결핍 마우스는 P. gingivalis 집락화·dysbiosis·골 소실이 모두 차단 → C5aR이 치주질환의 필수 숙주 수용체; P. gingivalis는 서식 맥락(군집/부유/상피)에 따라 단백질체의 ~30%를 차등 조절.
+
+정량적으로 소수인 P. gingivalis가 공동체 전체에 이익이 되는 영양 풍부한 염증성 dysbiosis를 유지하는 기전이 밝혀지며, C5aR 및 보체–TLR2 crosstalk이 주요 치료 표적으로 확인.
 
 ## Summary
 This review systematically details the molecular arsenal by which P. gingivalis manipulates host immunity at three levels. At the epithelial interface, FimA fimbriae engage β1-integrin while SerB dephosphorylates NF-κBp65 (S536), suppressing CXCL8 production and neutrophil recruitment (chemokine paralysis); Ndk blocks P2X7 apoptosis. In the GCF/immune-cell compartment, gingipains degrade C3 (blocking all complement pathways) while independently generating C5a via C5-convertase-like activity, activating C5aR–TLR2 crosstalk in macrophages to suppress iNOS killing and IL-12/IFN-γ immunity while upregulating bone-resorptive cytokines (TNF, IL-1β, IL-6, IL-17A). P. gingivalis also differentially regulates ~30% of its proteome in community contexts, and interspecies interactions (Mfa1–SspA/B with S. gordonii) are tightly regulated via tyrosine kinase/phosphatase signaling. Collectively these mechanisms allow a quantitatively minor organism to sustain a nutrient-rich inflammatory dysbiosis benefiting the entire community.

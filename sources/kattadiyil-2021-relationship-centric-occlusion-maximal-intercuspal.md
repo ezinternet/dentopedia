@@ -16,13 +16,21 @@ text_filename: kattadiyil-2021-relationship-centric-occlusion-maximal-intercuspa
 
 This is the keystone paper of a 6-paper CR/CO/MICP batch establishing the foundational treatment-position framework — when to restore in centric occlusion (condyle-seated) versus the maximal intercuspal position. It reinforces and gives the evidence-grade backbone for [[occlusion/kwak-2024-masticatory-positioning-occlusal-stability-full-mouth]], which examines masticatory positioning and occlusal stability in full-mouth rehabilitation; this consensus statement supplies the upstream "which treatment position" decision that paper builds on.
 
-## One-line Summary
+## Three-line Summary
 
-Best Evidence Consensus Statement (J Prosthodont 2021; literature review screening >15,000 → 313 SR/RCT/MA/clinical-trial articles): centric occlusion (condyle-seated) and maximal intercuspal position are usually NON-coincident in dentate/partially dentate patients, and complete mouth rehabilitation should be restored in centric occlusion.
+Best Evidence Consensus Statement (J Prosthodont 2021;
 
-## 한줄요약
+literature review screening >15,000 → 313 SR/RCT/MA/clinical-trial articles): centric occlusion (condyle-seated) and maximal intercuspal position are usually NON-coincident in dentate/partially dentate patients, and complete mouth rehabilitation should be restored in centric occlusion.
 
-베스트 에비던스 합의문(J Prosthodont 2021, >15,000편 검색 → 313편 분석): 대부분의 유치악·부분유치악 환자에서 중심교합(centric occlusion, CO; 과두안정위)과 최대교두감합위(maximal intercuspal position, MIP)는 일치하지 않으며, 전악 재건은 중심교합(CO)에서 회복하는 것이 권장된다.
+(incomplete)
+
+## 세줄요약
+
+베스트 에비던스 합의문(J Prosthodont 2021, >15,000편 검색 → 313편 분석): 대부분의 유치악·부분유치악 환자에서 중심교합(centric occlusion, CO;
+
+과두안정위)과 최대교두감합위(maximal intercuspal position, MIP)는 일치하지 않으며, 전악 재건은 중심교합(CO)에서 회복하는 것이 권장된다.
+
+(incomplete)
 
 ## 1. Document Information
 

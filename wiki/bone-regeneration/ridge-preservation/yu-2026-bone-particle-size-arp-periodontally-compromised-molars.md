@@ -6,7 +6,7 @@ date: 2026-01-01
 doi: 10.1016/j.identj.2026.109515
 source: yu-2026-bone-particle-size-arp-periodontally-compromised-molars.md
 category: bone-regeneration/ridge-preservation
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 full_text: true
 pmid: "41865493"
@@ -24,13 +24,21 @@ relations:
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective cohort (n=96 stage III/IV periodontitis molar sockets; 48 small- [0.25–1 mm] vs 48 large-particle [1–2 mm] DBBM ARP): large particle showed only a non-significant trend toward greater vertical central socket height (8.54 vs 7.76 mm, P=.077); ridge dimensions were maintained regardless of particle size, with socket integrity and jaw mattering more.
+Retrospective cohort (n=96 stage III/IV periodontitis molar sockets, Jan 2020–Dec 2024; 48 small-particle [0.25–1 mm] vs 48 large-particle [1–2 mm] DBBM + Bio-Gide ARP, flapless, CBCT T0/T1 4–8 months) — the first study examining DBBM particle-size choice specifically in periodontally compromised molar sockets.
 
-## 한줄요약
+Large particle showed only a non-significant trend toward greater vertical central socket height (8.54 vs 7.76 mm, P=.077) and greater volume gain (369 vs 239 mm³, P=NS); multivariate regression identified socket integrity (+1.027 mm per intact wall ≥5 mm, P<.001) and jaw (mandible > maxilla, P=.007) as the dominant determinants of central height — particle size was significant but a minor lever (P=.041).
 
-후향 코호트(중증 치주염 III/IV기 대구치 발치와 96개; 소입자 0.25–1 mm 48개 vs 대입자 1–2 mm 48개 DBBM 치조제보존술): 대입자가 중심 수직골높이에서 비유의 증가 경향(8.54 vs 7.76 mm, P=.077)만 보였고, 입자 크기와 무관하게 치조제 치수가 유지됐으며 소켓 무결성·악골이 더 중요했다.
+DBBM particle size is not a critical decision variable for ARP in periodontally compromised molar sockets; baseline socket integrity and jaw location should drive treatment planning, and 73% of sites still allowed standard implant placement without augmentation.
+
+## 세줄요약
+
+후향 코호트(중증 치주염 III/IV기 대구치 발치와 96개; 소입자 0.25–1 mm vs 대입자 1–2 mm Bio-Oss + Bio-Gide, 비판막, CBCT T0/T1 4–8개월): 치주염 대구치 발치와에서 DBBM 입자 크기 영향을 최초로 조사한 연구이다.
+
+대입자군은 중심 수직 소켓 높이에서 비유의 증가 경향만 보였고(8.54 vs 7.76 mm, P=.077), 다변량 회귀에서 소켓 무결성(벽 ≥5 mm당 +1.027 mm, P<.001)과 악골(하악 > 상악, P=.007)이 지배적 결정 인자였으며 입자 크기는 유의하나 작은 영향(P=.041)이었다.
+
+DBBM 입자 크기는 치주염 대구치 치조제보존술에서 핵심 결정 변수가 아니며, 소켓 무결성과 악골 위치가 치료 계획을 주도해야 한다. 전체 사이트의 73%는 추가 골증대 없이 표준 임플란트 식립이 가능했다.
 
 ## Summary
 

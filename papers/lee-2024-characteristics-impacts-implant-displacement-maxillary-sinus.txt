@@ -1,0 +1,95 @@
+Characteristics and impacts of dental implant displacement into the maxillary sinus
+Lee C, Kim DY, Han JJ
+Journal of Dental Sciences 2025;20(2):775-782 (e-pub 2024-10-22)
+DOI: 10.1016/j.jds.2024.10.013  PMID: 40224111  PMCID: PMC11993010
+Seoul National University, School of Dentistry / SNU Dental Hospital, Dept. of OMFS, Korea
+Source: PubMed Central full text (JATS), retrieved via PubMed MCP.
+
+=== ABSTRACT ===
+Background/purpose: Dental implants displaced into the maxillary sinus are considered to require
+surgical removal as the treatment of choice, but displaced implants affect the sinus in different
+ways. This study evaluated characteristics and impacts of implant displacement into the maxillary
+sinus.
+Materials/methods: Fourteen sinuses with displaced implants were included. Demographic and
+radiographic data were analyzed, focusing on the impact of demographics, timing of displacement,
+duration of retention, and residual bone height on sinus opacification and sinus wall thickness.
+Results: Implants displaced during/early after placement in 9 cases and after functional loading in
+5. Higher sinus opacification (p=0.019) and increased wall thickness (p=0.198, ns) in displacement
+after functional loading. Longer retention -> higher opacification/wall thickness (ns). Univariate
+regression: timing of displacement significantly influenced opacification (p=0.013) and wall
+thickness (p=0.013). In all cases, no evidence of site preparation or short implants.
+Conclusion: Adequate pre-implant site preparation and timely intervention are essential to prevent
+and manage implant displacement into the maxillary sinus.
+
+=== INTRODUCTION ===
+Posterior maxilla is type IV bone (thin cortex, low-density cancellous) -> poor quality, low primary
+stability. Post-extraction resorption + sinus pneumatization -> insufficient quantity. Complications
+in posterior-maxilla implants include impaired osseointegration, membrane perforation, oroantral
+fistula, paranasal sinusitis, and displacement of graft/implant into the sinus. Reported displacement
+cases rose ~17-fold: 13 cases (1990-2000) -> 222 cases (2011-2021). Symptoms: purulent nasal
+discharge, obstruction, foul smell, facial swelling; rarely pansinusitis, intracranial infection, or
+migration into nasal cavity/other sinuses. Surgical removal = gold standard, via three approaches:
+Caldwell-Luc, lateral window, endoscopic endonasal. Most prior studies focused on surgical technique
+and on pre-loading displacement; impact on the sinus and post-loading displacement understudied.
+
+=== METHODS ===
+Retrospective cohort (Helsinki, IRB SNU Dental Hospital ERI24010). Patients treated Oct 2020-Jan 2024
+for implant migration into maxillary sinus. Inclusion: retrieval of displaced implant + pre/postop
+radiographs (panoramic, Waters, CT). Recorded: demographics (age, sex, smoking, systemic disease),
+pre-implant surgical history, site, timing of displacement, retention duration.
+Surgery: modified ENDOSCOPIC-ASSISTED sinus surgery for retrieval +/- oroantral communication closure
+under IV sedation/GA. 1.5-2 cm vestibular mucoperiosteal incision, flap; two vertical osteotomies on
+anterolateral sinus wall to create a bony window sized for a four-hole microplate; microplate applied,
+then superior+inferior horizontal osteotomies; microplate-attached bony window separated and stored in
+warm saline; horizontal incision on sinus membrane (No.12 scalpel); implant located under endoscope;
+removed with suction tip, sinus forceps, or curettes; inflamed mucosa selectively removed; warm
+irrigation; bony window repositioned and fixed with microscrews; closure 4-0 Vicryl.
+Radiographic: implant type (fixture only vs fixture+abutment) on panoramic; location + prior sinus
+graft on CT; residual alveolar bone height (coronal CT). Sinus opacification score 0-4 (0 none,
+1 mucosal thickening, 2 partial <70%, 3 subtotal 70-<100%, 4 total 100%). Sinus wall thickness
+measured 8 mm above sinus floor at anterior+lateral wall midpoints (mean); >=3 mm indicates osteitis.
+Postop healing on Waters at 6 months. Stats: SPSS 26; Mann-Whitney U, Fisher exact, Wilcoxon signed
+rank; univariate linear regression; p<0.05.
+
+=== RESULTS ===
+15 underwent removal; 13 met criteria (2 excluded, no CT). One patient displaced twice (different
+sites/times) -> 14 displacements. 8 male (61.5%), 5 female; mean age 64.6 +/- 9.9 (44-78). 10 smokers,
+1 non-smoker, 2 unknown. Systemic: 5 none; 4 hypertension, 3 diabetes. Original sites: maxillary 2nd
+molar 9 (64.3%), 1st molar 5 (35.7%). Timing: 9 during peri-implant surgery phase, 5 after functional
+loading. Retention: 7 <3 months, 7 >3 months.
+Radiographic: 12 implants within sinus, 2 across sinus floor. Residual alveolar bone height
+4.7 +/- 1.9 mm (perioperative 3.9 +/- 1.6 vs post-loading 5.9 +/- 1.8, p=0.067).
+- Sinus opacification: mean 2.4 +/- 1.5 preop; POST-LOADING 3.6 +/- 0.9 vs SURGERY 1.7 +/- 1.3
+  (p=0.019, significant). Preop: complete opacification 5 (35.7%), subtotal 2 (14.3%), partial/none 7
+  (50.0%). Postop Waters improved in ALL; 11 with postop CT dropped to 0.4 +/- 0.8 at 6 months
+  (p=0.002).
+- Sinus wall thickness: 1.6 +/- 0.8 mm (displaced) vs 1.1 +/- 0.2 mm (normal side), p=0.002. By
+  timing: post-loading 2.3 +/- 1.1 vs perioperative 1.2 +/- 0.2 (p=0.198, ns). OSTEITIS (>=3 mm) in
+  2/5 (40%) post-loading cases, 0 in perioperative.
+- By retention: >3 months (opacification 3.0 +/- 1.2; wall 2.0 +/- 1.1) > <3 months (1.7 +/- 1.6;
+  1.2 +/- 0.2) but ns (p=0.165; p=0.209).
+Univariate regression -> preop sinus opacification: AGE (p=0.034, coef 0.088), DIABETES (p=0.025, coef
+2.091), TIMING of displacement (p=0.013, coef 1.933). Sex/other systemic/retention/residual
+bone/smoking not significant. Sinus wall thickness -> only TIMING significant (p=0.013, coef 1.094).
+
+=== DISCUSSION / KEY POINTS ===
+Displacement can irritate mucosa / obstruct ostiomeatal complex -> sinusitis, onset delayed months-
+years; not all symptomatic. Literature sinusitis incidence 33-48%; many asymptomatic (Chiapasco 14/27
+no foreign-body reaction/infection). Here 50% partial/no opacification preop. Post-loading displacement
+= more severe opacification (possible pre-existing peri-implantitis odontogenic sinusitis worsening;
+oral-pathogen-contaminated implants/abutments; residual cement). Chronic sinusitis increases normal
+wall (0.1-0.9 mm) to ~2.6 mm (osteitis = neo-osteogenesis); osteitis linked to poorer ESS response
+(worse prognosis). Post-loading cases had thicker walls (2 patients >3.0 mm = osteitis); perioperative
+all <1.5 mm -> early surgical intervention advised for post-loading displacement.
+Risk factors for displacement: insufficient bone volume, poor quality, low primary stability,
+inadequate drilling, unfavorable occlusal load, osseointegration failure, surgical inexperience. Here
+mean residual bone <5.0 mm yet NO site preparation / short-implant use in any of 14 cases. Consistent
+with Galindo-Moreno (bone <6 mm in most; ~73.3% no grafting) and an SR (>half of 182 patients no
+pre-implant surgery) -> inadequate site prep with insufficient bone raises displacement risk.
+Limitations: small n; rare complication; no histopathology; osteitis extent/treatment consensus
+lacking.
+
+=== CONCLUSION ===
+To prevent displacement, perform adequate bone grafting with a site-specific approach after thorough
+preop analysis of residual alveolar bone. When displacement occurs, remove the implant promptly for a
+more favorable surgical outcome (especially after functional loading).

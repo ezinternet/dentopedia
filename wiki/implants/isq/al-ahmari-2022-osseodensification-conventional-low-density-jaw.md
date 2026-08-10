@@ -6,18 +6,31 @@ date: 2022-01-01
 doi: 10.3233/THC-220048
 source: al-ahmari-2022-osseodensification-conventional-low-density-jaw.md
 category: [implants/isq]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/al-ahmari-2022-osseodensification-conventional-low-density-jaw.pdf
 pdf_filename: al-ahmari-2022-osseodensification-conventional-low-density-jaw.pdf
 source_collection: external
 tags: [implants, isq, osseodensification, low-density-bone, split-mouth]
+relations:
+  - type: refines
+    target: althobaiti-2023-osseodensification-conventional-drilling-isq-sr
 ---
 
-## One-line Summary
-Split-mouth in vivo clinical study in low-density jaw bone (20 patients, 40 implants): osseodensification (OD) vs conventional drilling differed significantly only in immediate post-op bone density, while primary/secondary stability, plaque index, BOP, pocket depth, and marginal bone loss showed no significant difference — a human counterpoint to OD-favorable pooled literature.
+## Three-line Summary
 
-## 한줄요약
-저밀도 골 split-mouth 인체 연구(20명, 40 implant): 골밀도만 OD에서 유의하게 높고, 1차/2차 안정성·PI·BOP·PD·MBL은 유의차 없음 — OD 안정성 우위의 임상 반례.
+Split-mouth prospective clinical study (20 patients, 40 implants, low-density jaw bone) directly comparing osseodensification (Densah) vs conventional drilling with the patient as their own control.
+
+Osseodensification showed a significant advantage only in immediate post-operative bone density; primary/secondary stability, plaque index, BOP, pocket depth, and marginal bone loss showed no statistically significant differences.
+
+A human controlled counterpoint to OD-favorable pooled literature; the authors' conclusion ("better primary stability") is more favorable than the null stability results warrant — interpret the data, not the abstract.
+
+## 세줄요약
+
+Split-mouth 전향적 임상 연구 (20명·임플란트 40개, 저밀도 악골) — 골밀도화 (Osseodensification, OD·Densah) vs 통상 드릴링을 환자 자기 대조 설계로 직접 비교.
+
+OD가 유의하게 우수한 결과는 수술 직후 CBCT 골밀도뿐; 1차/2차 안정성·치태지수 (PI)·출혈탐침 (BOP)·탐침깊이 (PD)·변연골소실 (MBL) 모두 유의차 없음.
+
+OD 우호적 풀링 문헌에 대한 인체 대조 반례; 저자의 결론("더 나은 1차 안정성")은 실제 null 안정성 결과보다 긍정적으로 서술 — 초록이 아닌 데이터를 해석해야 함.
 
 ## Summary
 Split-mouth in vivo clinical study in low-density jaw bone comparing osseodensification (Densah) vs conventional drilling. The only significant OD advantage was immediate post-op bone density; stability and peri-implant clinical endpoints did not differ significantly.
@@ -35,5 +48,5 @@ Provides a human controlled counterpoint to the OD-favorable pooled literature: 
 
 ## Related Papers
 - [[implants/isq/althobaiti-2023-osseodensification-conventional-drilling-isq-sr]] — OD ISQ systematic review (OD-favorable)
-- [[implants/inchingolo-2021-osseodensification-implant-site-osteotomy-sr-ma]] — OD osteotomy SR+MA
+- [[implants/osseodensification/inchingolo-2021-osseodensification-implant-site-osteotomy-sr-ma]] — OD osteotomy SR+MA
 - [[implants/isq/arpudaswamy-2025-osseodensification-conventional-implant-stability-rabbit]] — animal RCT showing OD secondary-stability gain (contrast)

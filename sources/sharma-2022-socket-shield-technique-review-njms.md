@@ -14,8 +14,21 @@ source_collection: external
 
 SST vs conventional immediate implant 비교 review — 19편 eligible. [[immediate-implant/socket-shield/gharpure-2022-socket-shield-conventional-implant-sr-ma]] SR+MA의 narrative review 보완. ESIC Dental College (Delhi, India) perspective.
 
-## One-line Summary
-Review (ESIC Dental College Delhi, NJMS 2022): SST vs conventional immediate implant placement treatment outcome 비교 — PubMed/Google Scholar/Cochrane 검색 606 articles → 19 eligible.
+## Three-line Summary
+
+Review (ESIC Dental College Delhi, NJMS 2022): SST
+
+vs conventional immediate implant placement treatment outcome 비교
+
+— PubMed/Google Scholar/Cochrane 검색 606 articles → 19 eligible.
+
+## 세줄요약
+
+Review (ESIC Dental College Delhi, NJMS 2022): SST
+
+vs conventional immediate implant placement treatment outcome 비교
+
+— PubMed/Google Scholar/Cochrane 검색 606 articles → 19 eligible.
 
 ## 1. Document Information
 저자: Ankit Sharma, Komal Maheshwari, Bhawana Tiwari (corresp), Dwarakananda Naik. ESIC Dental College, Rohini, Delhi, India. National Journal of Maxillofacial Surgery (Medknow).

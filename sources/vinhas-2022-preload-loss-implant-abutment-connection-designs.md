@@ -15,15 +15,23 @@ text_filename: vinhas-2022-preload-loss-implant-abutment-connection-designs.txt
 
 ## Why Ingested
 
-Extends the screw-mechanics evidence anchored by [[prosthetic-materials/velez-2020-implant-connection-abutment-design-screw]] by directly testing whether *connection design* (external vs internal) governs preload maintenance. The clinically actionable finding — re-tightening the retaining screw a few minutes after insertion measurably restores preload (sedimentation/embedment relaxation), and connection design itself does NOT determine preload retention — reinforces why the retightening step matters more than the choice of connection geometry.
+Extends the screw-mechanics evidence anchored by [[prosthetic-materials/abutment-screw/velez-2020-implant-connection-abutment-design-screw]] by directly testing whether *connection design* (external vs internal) governs preload maintenance. The clinically actionable finding — re-tightening the retaining screw a few minutes after insertion measurably restores preload (sedimentation/embedment relaxation), and connection design itself does NOT determine preload retention — reinforces why the retightening step matters more than the choice of connection geometry.
 
-## One-line Summary
+## Three-line Summary
 
 In vitro RTV study of 180 Klockner implants (4 connection designs, external SK2/KL & internal Vega/Essential) finding connection design did not influence preload maintenance, cyclic loading (500 N × 1000 cycles) significantly lowered removal torque for all connections, and multiple re-tightening yielded higher RTV than single tightening (except Vega) — hence clinically retighten retaining screws a few minutes after insertion.
 
-## 한줄요약
+(incomplete)
 
-180개 Klockner 임플란트(외부연결 SK2/KL·내부연결 Vega/Essential 4종)의 제거토크값(RTV) 실험. 연결방식(connection design)은 예압(preload) 유지에 영향이 없었고, 반복하중(500 N×1000회)은 모든 연결에서 제거토크를 유의하게 낮췄으며, 다회 재조임이 단회 조임보다 높은 RTV를 보였다(Vega 제외) → 임상적으로 보철나사는 식립 수 분 뒤 재조임 권장.
+(incomplete)
+
+## 세줄요약
+
+180개 Klockner 임플란트(외부연결 SK2/KL·내부연결 Vega/Essential 4종)의 제거토크값(RTV) 실험.
+
+연결방식(connection design)은 예압(preload) 유지에 영향이 없었고, 반복하중(500 N×1000회)은 모든 연결에서 제거토크를 유의하게 낮췄으며, 다회 재조임이 단회 조임보다 높은 RTV를 보였다(Vega 제외) → 임상적으로 보철나사는 식립 수 분 뒤 재조임 권장.
+
+(incomplete)
 
 ## 1. Document Information
 

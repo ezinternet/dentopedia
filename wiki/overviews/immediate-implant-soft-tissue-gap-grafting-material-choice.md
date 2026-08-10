@@ -6,7 +6,7 @@ date: 2026-06-07
 doi: N/A
 source: synthesis
 category: overviews
-confidence: synthesis
+evidence_level: synthesis
 pdf_path: N/A
 pdf_filename: N/A
 source_collection: synthesis
@@ -31,13 +31,21 @@ relations:
 > - 임상 takeaway: 이 페이지는 '이식 여부'가 아닌 '어떤 이식재'를 다루는 material-selection 보완 페이지. 얇은 표현형·고심미 요구 → SCTG 1차, gap ≥2mm → 콜라겐 함유 골대체재.
 > - 근거 한계: 자가 vs 대체재 head-to-head 부피 endpoint 부족, BSM 합병증 신호(RR 3.50)는 저확실성 미확인, 경조직+연조직 동시 이식 효과크기 동시 보고 드묾.
 
-## One-line Summary
+## Three-line Summary
 
-At immediate implants, two graft decisions are separate: (1) **hard-tissue gap grafting** with a bone substitute reduces horizontal buccal resorption (~MD −0.5 mm) and improves esthetics but raises complications (RR ~3.5), and adding collagen improves buccal thickness/esthetics further; (2) **soft-tissue augmentation** with autogenous connective tissue graft (SCTG) is the strongest performer (buccal thickness +0.74 mm, mid-buccal level +0.5 mm, PES +0.79, less recession), xenogeneic collagen matrix is a viable donor-site-free alternative, and a customized healing abutment alone is insufficient.
+At immediate implants, two graft decisions must be kept anatomically separate: for the hard-tissue gap, a bone substitute reduces horizontal buccal resorption (MD −0.52 mm, PES +1.49; Zaki 2021 SR+MA, 20 RCTs) with a complication signal (RR 3.50, low certainty), and adding collagen to the graft further improves buccal thickness and esthetics (Liu 2023, 7 RCTs).
 
-## 한줄요약
+For soft-tissue augmentation, autogenous SCTG is the strongest performer (buccal tissue thickness +0.74 mm, mid-buccal level +0.5 mm, PES +0.79, MBL −0.11 mm; Aldhohrah 2022 SR+MA; ranked #1 in Azadi 2025 Bayesian NMA of 21 RCTs); xenogeneic collagen matrix is a viable donor-site-free alternative; a customized healing abutment alone is insufficient for thin sites (midfacial change −1.54 mm vs CTG −0.74 mm; Fettouh 2024 RCT).
 
-즉시식립의 이식 결정은 두 갈래로 분리된다: (1) **gap 골이식**(골대체재)은 수평 협측 흡수를 줄이고(약 MD −0.5 mm) 심미를 높이나 합병증을 증가(RR ~3.5)시키며 콜라겐 병용 시 협측 두께·심미가 더 개선되고, (2) **연조직 증대**는 자가 결합조직이식(SCTG)이 가장 우수(협측 두께 +0.74 mm·중협측 수준 +0.5 mm·PES +0.79·퇴축 감소), 이종 콜라겐 기질은 공여부 없는 대안, 맞춤형 치유지대주 단독은 불충분하다.
+CTG maintains rather than increases the gingival level (RCT-only pooling: MD 0.09 mm, NS; Torra-Moneny 2024); simultaneously, vestibular-socket-tunnel approach preserves papillae better than open-flap GBR (PES 12.78 vs 11.56, p=0.03; Ebrahim 2026 RCT) and DDBM vs e-PRF membranes are equivalent at 24 months for posterior mandibular IIP GBR (Abdelsameaa 2026 RCT, n=40).
+
+## 세줄요약
+
+즉시식립 이식 결정은 두 해부학적 축으로 분리해야 한다: **경조직 gap 이식** — 골대체재(BSM)는 수평 협측 흡수 MD −0.52 mm·PES +1.49를 얻으나 합병증을 증가(RR 3.50, 낮은 확실성; Zaki 2021 SR+MA)시키며, 콜라겐 병용 시 협측 두께·심미가 추가 개선된다(Liu 2023, 7 RCT).
+
+**연조직 증대** — 자가 SCTG가 최우수(협측두께 +0.74 mm·중협측 수준 +0.5 mm·PES +0.79·MBL −0.11 mm; Aldhohrah 2022 SR+MA; Azadi 2025 NMA 1위); 이종 콜라겐 기질은 공여부 없는 대안; 맞춤 치유지대주 단독은 얇은 부위에 불충분(−1.54 mm vs CTG −0.74 mm; Fettouh 2024 RCT); CTG는 치은 수준을 "유지"하는 것이지 "증가"가 아님(RCT-only MD 0.09 mm, NS; Torra-Moneny 2024).
+
+전정부 터널(VST) 접근은 open-flap 대비 유두를 유의하게 보존(PES 12.78 vs 11.56, p=0.03; Ebrahim 2026 RCT, n=20)하며; 하악 구치 즉시식립 GBR에서 DDBM vs e-PRF 막은 24개월 동등(Abdelsameaa 2026 RCT, n=40)으로, 차폐막 선택의 새 데이터가 추가되었다.
 
 ## Thesis
 
@@ -54,11 +62,11 @@ Adjacent overviews treat the *procedural* yes/no of these variables: [[overviews
 
 | Study | Type | n / scope | Axis | Core contribution |
 |---|---|---|---|---|
-| [[immediate-implant/zaki-2021-bone-substitute-materials-immediate-implant-sr-ma]] | sr+ma | 20 RCT / 848 pt | gap (hard) | BSM: horizontal buccal resorption MD −0.52 mm, PES +1.49, failure NS, **complications RR 3.50**. |
-| [[immediate-implant/liu-2023-collagen-immediate-implant-soft-hard-tissue-sr-ma]] | sr+ma | 7 RCT / 205 pt | gap (hard) | Collagen + bone graft → better buccal thickness & esthetics vs graft alone; failure/soft-tissue NS. |
-| [[immediate-implant/elsheikh-2023-prf-xenograft-alloplastic-immediate-implant]] | (gap fillers) | RCT | gap (hard) | Head-to-head PRF vs xenograft vs alloplast as gap fillers. |
-| [[immediate-implant/sanz-2017-bone-graft-gap-immediate-implant-rct]] | rct | esthetic zone | gap (hard) | Gap grafting preserves buccal contour (anchor RCT). |
-| [[immediate-implant/seyssens-2022-immediate-implant-socket-grafting-sr-ma]] | sr+ma | 15 RCT / n=577 | gap (hard) | Socket grafting reduces buccal bone loss; gap ≥2 mm threshold. |
+| [[immediate-implant/gap-grafting/zaki-2021-bone-substitute-materials-immediate-implant-sr-ma]] | sr+ma | 20 RCT / 848 pt | gap (hard) | BSM: horizontal buccal resorption MD −0.52 mm, PES +1.49, failure NS, **complications RR 3.50**. |
+| [[immediate-implant/gap-grafting/liu-2023-collagen-immediate-implant-soft-hard-tissue-sr-ma]] | sr+ma | 7 RCT / 205 pt | gap (hard) | Collagen + bone graft → better buccal thickness & esthetics vs graft alone; failure/soft-tissue NS. |
+| [[immediate-implant/gap-grafting/elsheikh-2023-prf-xenograft-alloplastic-immediate-implant]] | (gap fillers) | RCT | gap (hard) | Head-to-head PRF vs xenograft vs alloplast as gap fillers. |
+| [[immediate-implant/gap-grafting/sanz-2017-bone-graft-gap-immediate-implant-rct]] | rct | esthetic zone | gap (hard) | Gap grafting preserves buccal contour (anchor RCT). |
+| [[immediate-implant/gap-grafting/seyssens-2022-immediate-implant-socket-grafting-sr-ma]] | sr+ma | 15 RCT / n=577 | gap (hard) | Socket grafting reduces buccal bone loss; gap ≥2 mm threshold. |
 | [[immediate-implant/esthetic-soft-tissue/aldhohrah-2022-soft-tissue-augmentation-immediate-delayed-sctg-sr-ma]] | sr+ma | 12 studies | soft | SCTG vs others: BTT +0.74, MGL +0.5, PES +0.79, MBL −0.11 mm — strongest soft-tissue anchor. |
 | [[immediate-implant/esthetic-soft-tissue/de-angelis-2021-soft-tissue-augmentation-immediate-implant-sr-ma]] | sr+ma | 7 studies / 272 pt | soft | SCTG at IIPP: MBML −0.54 mm recession (WMD, p<0.001), FSTT +0.79 mm (WMD, p<0.001), MBL −0.13 mm (WMD, p<0.001) at 12 months; I²=0–16%. |
 | [[immediate-implant/esthetic-soft-tissue/seyssens-2021-immediate-implant-connective-tissue-graft-sr-ma]] | sr+ma | esthetic zone | soft | CTG reduces midfacial recession ~0.4–0.7 mm. |
@@ -66,26 +74,26 @@ Adjacent overviews treat the *procedural* yes/no of these variables: [[overviews
 | [[immediate-implant/esthetic-soft-tissue/torra-moneny-2024-connective-tissue-grafts-immediate-implant-sr-ma]] | sr+ma | 5 RCT / 245 pt | soft | CTG maintains gingival level (MD 0.09 mm, NS trend) — level-keeping, not volume-adding. |
 | [[immediate-implant/esthetic-soft-tissue/fettouh-2024-soft-tissue-volume-midfacial-gingival-immediate-implant]] | rct | 39 sites | soft | CTG −0.74 vs bone graft −0.98 vs healing abutment −1.54 mm; CTG cuts volume loss 5-fold. |
 | [[immediate-implant/esthetic-soft-tissue/de-angelis-2021-immediate-implant-provisionalization-soft-tissue-retrospective]] | retrospective | 48 sites | soft | Xenogeneic collagen matrix ≈ SCTG for FSTT/marginal level; no-graft worst. |
-| [[implants/thoma-2021-soft-tissue-management-implants-eao-consensus]] | consensus | 6th EAO | soft | STA reduces mid-buccal recession + thickens mucosa at immediate placement; autograft tendency > substitute; timing unclear. |
+| [[implants/soft-tissue/thoma-2021-soft-tissue-management-implants-eao-consensus]] | consensus | 6th EAO | soft | STA reduces mid-buccal recession + thickens mucosa at immediate placement; autograft tendency > substitute; timing unclear. |
 | [[immediate-implant/esthetic-soft-tissue/rondone-2024-tissue-grafts-immediate-implant-sr-ma]] | sr+ma | — | soft | Tissue grafts at immediate implants — esthetic benefit. |
 | [[immediate-implant/esthetic-soft-tissue/sutariya-2022-soft-tissue-immediate-provisionalization-sr-ma]] | sr+ma | — | soft | PES-centered soft-tissue/provisional synthesis. |
-| [[immediate-implant/dutra-2025-customized-healing-abutments-immediate-implants]] | (CHA) | — | soft | Customized healing abutment — socket sealing, contour support. |
+| [[immediate-implant/esthetic-soft-tissue/dutra-2025-customized-healing-abutments-immediate-implants]] | (CHA) | — | soft | Customized healing abutment — socket sealing, contour support. |
 | [[immediate-implant/esthetic-soft-tissue/elgendi-2025-peri-implant-soft-tissue-conditioning]] | — | — | soft | Soft-tissue conditioning at immediate implants. |
 
 ## Clinical Decision Points
 
 **Axis 1 — Hard-tissue gap graft (the jumping gap):**
-1. Gap ≥ 2 mm → graft with a bone substitute. Reduces horizontal buccal resorption (MD −0.52 mm) and improves PES (+1.49) without affecting survival (Zaki 2021). [근거강함]
+1. Gap ≥ 2 mm → graft with a bone substitute. Reduces horizontal buccal resorption (MD −0.52 mm) and improves PES (+1.49) without affecting survival (Zaki 2021). [확인]
 2. Prefer a **collagen-containing** bone substitute — adds buccal-thickness and esthetic benefit over plain graft (Liu 2023). [근거중간]
 3. Weigh the **complication signal**: BSM use raised overall complications (RR 3.50, low certainty) — counsel and monitor (Zaki 2021). [근거약함→주의]
 
 **Axis 2 — Soft-tissue augmentation (facial mucosa):**
-1. Thin phenotype / high esthetic demand → **autogenous SCTG is first choice** (BTT +0.74, MGL +0.5, PES +0.79, MBL −0.11; Aldhohrah 2022; ranked #1 in Azadi 2025 NMA). An independent SR+MA of 7 studies (n=272) focused on IIPP confirms: SCTG reduces mid-buccal mucosal recession by WMD 0.54 mm, increases FSTT by WMD 0.79 mm, and reduces marginal bone loss by WMD 0.13 mm at 12 months, all with low heterogeneity (I²=0–16%) — [[immediate-implant/esthetic-soft-tissue/de-angelis-2021-soft-tissue-augmentation-immediate-implant-sr-ma]]. [근거강함]
+1. Thin phenotype / high esthetic demand → **autogenous SCTG is first choice** (BTT +0.74, MGL +0.5, PES +0.79, MBL −0.11; Aldhohrah 2022; ranked #1 in Azadi 2025 NMA). An independent SR+MA of 7 studies (n=272) focused on IIPP confirms: SCTG reduces mid-buccal mucosal recession by WMD 0.54 mm, increases FSTT by WMD 0.79 mm, and reduces marginal bone loss by WMD 0.13 mm at 12 months, all with low heterogeneity (I²=0–16%) — [[immediate-implant/esthetic-soft-tissue/de-angelis-2021-soft-tissue-augmentation-immediate-implant-sr-ma]]. [확인]
 2. To avoid a donor site → **xenogeneic collagen matrix** is a reasonable substitute (≈ SCTG for FSTT/level; De Angelis 2021), though autograft retains a consistent non-significant edge (Thoma 2021 EAO). [근거중간]
 3. CTG **maintains** the gingival level rather than increasing volume (Torra-Moneny 2024) — set expectations accordingly. [근거중간]
 4. A **customized healing abutment alone is insufficient** to hold midfacial contour in thin sites (Fettouh 2024: −1.54 mm recession vs −0.74 with CTG). [근거중간 RCT]
 
-**Timing:** Perform soft-tissue augmentation **simultaneously with immediate placement** in high-esthetic-priority cases; no preferable timepoint is established (Thoma 2021 EAO). [합의수준]
+**Timing:** Perform soft-tissue augmentation **simultaneously with immediate placement** in high-esthetic-priority cases; no preferable timepoint is established (Thoma 2021 EAO). [확인]
 
 ## Axis 3 — 차폐막 재료 선택 (biological membrane equivalence, 2026 신규)
 
@@ -93,7 +101,7 @@ Adjacent overviews treat the *procedural* yes/no of these variables: [[overviews
 
 | Study | Type | n | Comparison | Core finding |
 |---|---|---|---|---|
-| [[immediate-implant/abdelsameaa-2026-dentine-membrane-eprf-gbr-immediate-implant-rct]] | rct (24mo) | 40 (하악 구치 IIP) | **DDBM** vs **e-PRF** membrane (GBR) | ISQ·PPD·MBL·골밀도 전부 군간 NS; 100% 생존. 두 자가막 24개월 동등. |
+| [[immediate-implant/gap-grafting/abdelsameaa-2026-dentine-membrane-eprf-gbr-immediate-implant-rct]] | rct (24mo) | 40 (하악 구치 IIP) | **DDBM** vs **e-PRF** membrane (GBR) | ISQ·PPD·MBL·골밀도 전부 군간 NS; 100% 생존. 두 자가막 24개월 동등. |
 
 **임상 시사점**:
 - 하악 구치 즉시식립 GBR에서 **자가 상아질 유래 차폐막(DDBM)**과 **extended PRF(e-PRF) 막**은 24개월 임상·방사선 결과가 동등하다.
@@ -103,7 +111,7 @@ Adjacent overviews treat the *procedural* yes/no of these variables: [[overviews
 
 ## Axis 4 — 수술 접근(Surgical Access): VST vs 개방형 피판 GBR (Type II socket, 2026 신규)
 
-[[immediate-implant/ebrahim-2026-vestibular-socket-therapy-immediate-implant-rct]] (BMC Oral Health 2026, n=20, 상악 비구치 Type II socket):
+[[immediate-implant/gap-grafting/ebrahim-2026-vestibular-socket-therapy-immediate-implant-rct]] (BMC Oral Health 2026, n=20, 상악 비구치 Type II socket):
 
 **연구 설계**: 동일 allograft + xenograft + pericardium 막 조건에서 **수술 접근법만** 차이:
 - VST군: 전정부 터널(vestibular tunnel) 접근 — 유두 절개 없음

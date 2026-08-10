@@ -13,13 +13,21 @@ source_collection: external
 
 radiology 카테고리 파노라마 일상 선량저감의 직접 근거(조사야 제한). [[radiology/lee-2019-monte-carlo-paediatric-panoramic-dose-reduction]]가 빔높이를 최대 인자로 지목한 것과 동일 기전을 임상 의뢰패턴으로 검증.
 
-## One-line Summary
+## Three-line Summary
 
-Phantom MOSFET dosimetry (full panoramic 17.6 µSv) + 252-referral audit: collimated panoramic protocols cut dose without losing diagnostic info.
+In-vitro study (MOSFET dosimetry on Rando phantom, Planmeca ProMax 2D; 10 exposures per protocol) measuring effective dose for full panoramic (17.6 µSv) and 9 collimated protocols; paired with a retrospective audit of 252 specialist-clinic referrals to assess clinical applicability of collimation.
 
-## 한줄요약
+Full panoramic effective dose was 17.6 µSv; 9 collimated protocols mapped to common diagnostic indications showed substantially lower doses; the 252-referral audit showed that the majority of cases could have been managed with a collimated rather than full-field exposure.
 
-팬텀 MOSFET 선량측정(풀 파노라마 17.6 µSv)+의뢰 252건 분석: collimation 파노라마가 진단정보 손실 없이 선량저감.
+Routine collimation should be applied whenever the diagnostic task allows — it reduces effective dose without diagnostic information loss; beam height is the dominant dose-reduction factor for panoramic radiography.
+
+## 세줄요약
+
+In-vitro 연구(Rando 팬텀 MOSFET 선량측정, Planmeca ProMax 2D; 프로토콜당 10회) — 풀 파노라마(17.6 µSv) 및 9개 콜리메이션 프로토콜 유효선량 측정; 전문의 의뢰 252건 후향 분석 병행.
+
+풀 파노라마 유효선량 17.6 µSv; 일반 진단 적응증에 대응하는 9개 콜리메이션 프로토콜은 현저히 낮은 선량; 252건 분석에서 대부분의 증례가 전체 조사야 대신 콜리메이션 촬영으로 관리 가능했음.
+
+진단 목적상 허용되는 경우 콜리메이션을 일상적으로 적용해야 하며, 이는 진단 정보 손실 없이 선량을 줄이고 빔 높이(조사야 크기)가 파노라마 선량저감의 가장 중요한 인자이다.
 
 ## 1. Document Information
 

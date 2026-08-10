@@ -9,8 +9,21 @@ pdf_filename: malzoni-2021-lprf-schneiderian-membrane-large-perforations.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Case series of 9 large Schneiderian membrane (SM) perforations during lateral-window sinus floor augmentation (SFA) repaired with leukocyte- and platelet-rich fibrin (L-PRF) membranes plus deproteinized bovine bone (Bio-Oss) and collagen barrier; 8-month re-entry placed 13 implants with satisfactory primary stability; 3–5 year radiographic follow-up showed osseointegration of all 13 implants and no signs of sinus infection or mucus.
+## Three-line Summary
+
+Case series of 9 large Schneiderian membrane (SM) perforations during lateral-window sinus floor augmentation (SFA) repaired with leukocyte- and platelet-rich fibrin (L-PRF) membranes plus deproteinized bovine bone (Bio-Oss) and collagen barrier
+
+8-month re-entry placed 13 implants with satisfactory primary stability
+
+3–5 year radiographic follow-up showed osseointegration of all 13 implants and no signs of sinus infection or mucus.
+
+## 세줄요약
+
+Case series of 9 large Schneiderian membrane (SM) perforations during lateral-window sinus floor augmentation (SFA) repaired with leukocyte- and platelet-rich fibrin (L-PRF) membranes plus deproteinized bovine 골 (Bone) (Bio-Oss) and collagen barrier
+
+8-month re-entry placed 13 임플란트 (Implant) with satisfactory primary stability
+
+3–5 year radiographic follow-up 보였음 골일체화 (Osseointegration) of all 13 임플란트 (Implant) and no signs of sinus infection or mucus.
 
 ## 1. Document Information
 - **Journal**: Journal of Oral Implantology 2021;47(1):31–35

@@ -1,0 +1,49 @@
+{
+  "overview": "bone-quality-implant-risk-modification-overview",
+  "date": "2026-07-23",
+  "title": "골질과 임플란트 위험 수정 — 리콜",
+  "source_wiki": [
+    "wiki/overviews/bone-quality-implant-risk-modification-overview.md"
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "q": "골질(Lekholm-Zarb I~IV / Misch D1~D4)에 따른 임플란트 실패 위험은?",
+      "opts": [
+        "골질은 실패 위험과 무관",
+        "type IV(저밀도·얇은 피질·상악 구치부)는 ~1.5~1.9배 더 실패(Rosa 2024, 49편·29,905 임플란트); ISQ 밴드 type IV 58~65 vs type I 72~80",
+        "type I이 가장 실패율이 높다",
+        "골질은 ISQ에 영향을 주지 않는다"
+      ],
+      "ans": 1,
+      "rat": "type IV(저밀도·얇은 피질·상악 구치부)는 ~1.5~1.9배 더 실패(Rosa 2024 SR+MA, 49편·29,905). ISQ 밴드: type IV 58~65 vs type I 72~80, type I=II 동등, III 중간. 밀도별 생존 D-I 97.6%→D-IV 88.8%(Khaohoen 2023). 안정성은 피질골 맞물림 — 치조정 피질골 두께가 가장 강한 ISQ 예측인자, 깊은 해면골은 얇은 피질을 대체 못 함.",
+      "cite": "overviews/bone-quality-implant-risk-modification-overview"
+    },
+    {
+      "id": "q2",
+      "q": "연질골(D3/D4)에서 안정성을 높이는 수정 레버(stackable)는?",
+      "opts": [
+        "임플란트 길이를 최대한 늘린다",
+        "언더드릴링/골밀도화(OD)·테이퍼 매크로디자인·직경>길이·생체활성 표면·지연 부하 — 연질골일수록 매크로디자인 차이는 줄고 드릴링 프로토콜이 더 중요",
+        "가장 매끄러운 표면 선택",
+        "연질골에서는 수정 레버가 없다"
+      ],
+      "ans": 1,
+      "rat": "연질골 수정 레버(stackable): 언더드릴링/OD, 테이퍼 매크로디자인, 길이보다 직경(Diameter>Length), 생체활성·친수성 표면, 지연 부하. 연질골일수록 매크로디자인 차이는 줄고 드릴링 프로토콜이 더 중요(Stoilov 2023). 저밀도 형태 레시피: 원추형·직경 ≥4mm·reverse-buttress·작은 pitch·깊은 thread, 거친 표면(생존 97.1%).",
+      "cite": "overviews/bone-quality-implant-risk-modification-overview"
+    },
+    {
+      "id": "q3",
+      "q": "골밀도화(OD)가 연질골 골질 수정에서 갖는 위치는?",
+      "opts": [
+        "OD는 생존율을 확실히 올린다",
+        "OD는 삽입토크(IT)를 올리지만(39 vs 32 Ncm) ISQ·6개월 생존은 동등(Mello-Machado 2021) — 생존 업그레이드가 아닌 안정성 보존 옵션",
+        "OD는 ISQ를 확실히 올린다",
+        "OD는 연질골에서 금기"
+      ],
+      "ans": 1,
+      "rat": "OD는 IT를 올리지만(39 vs 32 Ncm) ISQ·6개월 생존은 동등(Mello-Machado 2021 RCT, n=16) — 생존 업그레이드가 아닌 안정성 보존 옵션. 표면 레버: 연질골에서 생체활성 표면이 T30/T45 ISQ dip 제거해 45일 부하 가능(Canullo 2024). 부하 결정: 얇은 치조정 피질·낮은 ISQ→지연 부하, ISQ <~65에서 조기 부하 강행 금지.",
+      "cite": "overviews/bone-quality-implant-risk-modification-overview"
+    }
+  ]
+}

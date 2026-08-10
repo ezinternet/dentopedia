@@ -6,7 +6,7 @@ date: 2025-10-06
 doi: 10.7759/cureus.93987
 source: fayad-2025-vertical-dimension-determination-prosthodontics-review.md
 category: [complete-denture]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/fayad-2025-vertical-dimension-determination-prosthodontics-review.pdf
 pdf_filename: fayad-2025-vertical-dimension-determination-prosthodontics-review.pdf
 source_collection: external
@@ -18,13 +18,21 @@ relations:
     target: goyal-2026-anthropometric-methods-vertical-dimension-occlusion-sr-ma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Comprehensive narrative review (79 studies, Cureus 2025) cataloging OVD-determination methods from classical (facial/anthropometric, phonetics, swallowing, physiologic rest + freeway space, cephalometry) to digital (3D facial scan, CBCT, CAD/CAM, AI); no single method is universally superior, so a combined traditional + digital multifactorial approach is recommended.
+Comprehensive narrative review (79 studies, Cureus 2025) cataloging OVD-determination methods from classical (facial/anthropometric, phonetics, swallowing, physiologic rest + freeway space, cephalometry) to digital (3D facial scan, CBCT, CAD/CAM, AI).
 
-## 한줄요약
+No single method is universally superior; key reference numbers are freeway space ≈ 2–4 mm and closest speaking space ≈ 1–2 mm; excessive VDO causes muscle fatigue and ridge resorption, while reduced VDO causes overclosure with deepened mentolabial fold and mentalis strain.
 
-종합 narrative 리뷰(79편, Cureus 2025) — 교합수직고경(OVD) 결정법을 고전적(안면·인체계측, 음성학, 연하, 생리적 안정위 + freeway space, 두부계측)부터 디지털(3D 안면스캔, CBCT, CAD/CAM, AI)까지 망라; 단일 우월 방법 없음 → 전통+디지털 다인자 접근 권고.
+A combined traditional + digital multifactorial approach is recommended, individualized per patient, as Willis-gauge assumptions fail in some populations and the Boos bimeter tends to overestimate VDO.
+
+## 세줄요약
+
+종합 서술 리뷰(79편, Cureus 2025) — 교합수직고경(OVD) 결정법을 고전적(안면·인체계측, 음성학, 연하, 생리적 안정위 + freeway space ≈ 2–4 mm, 두부계측)부터 디지털(3D 안면스캔, CBCT, CAD/CAM, AI)까지 망라하였다.
+
+단일 우월 방법은 없으며, 과도한 OVD는 근피로·치조골 흡수, 감소된 OVD는 심화된 이순와(mentolabial fold)·mentalis 긴장의 과폐합 안모를 초래한다.
+
+Willis 게이지 전제(안면 상·하 1/3 동등)는 일부 집단에서 실패하고 Boos bimeter는 과대추정 경향이 있으므로 전통+디지털 다인자 병용 접근이 권장된다.
 
 ## Summary
 

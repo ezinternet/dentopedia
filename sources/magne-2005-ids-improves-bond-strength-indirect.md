@@ -13,15 +13,27 @@ source_collection: external
 
 [[resin-bonding/magne-2005-immediate-dentin-sealing-fundamental-procedure]] narrative review의 in-vitro 정량 증거를 제공하는 Magne 본인의 후속 study. IDS 임상 권고의 1차 µTBS evidence — 후속 [[resin-bonding/hardan-2022-immediate-dentin-sealing-sr-ma]] SR+MA의 핵심 inclusion paper.
 
-## One-line Summary
+## Three-line Summary
 
-JPD 94(6):511-519, Dec 2005 — Magne et al. (USC) in-vitro µTBS — 15 human molars, OptiBond FL (3-step E&R): IDS µTBS 58.25 MPa ≈ direct control 55.06 MPa (P>.05) >> DDS 11.58 MPa (P=.0081). SEM에서 hybrid layer 3–5 µm DDS는 disruption 관찰.
+In-vitro µTBS study (15 human molars, 3 groups × 5, OptiBond FL 3-step etch-and-rinse, 24h water storage) comparing immediate dentin sealing (IDS), delayed dentin sealing (DDS), and direct immediate bonding (control) for bond strength to indirect restorations.
+
+IDS µTBS (58.25 MPa) was equivalent to the direct control (55.06 MPa, P>.05) and both were dramatically superior to DDS (11.58 MPa, P=.0081); SEM confirmed a well-organized 3–5 µm hybrid layer in IDS and control groups vs marked disruption in DDS.
+
+IDS restores bond strength to direct-bonding levels, preventing the ~5-fold drop seen with delayed sealing; clinicians should seal dentin immediately after preparation when planning indirect restorations, noting this study used a single 3-step E&R adhesive with no long-term aging.
+
+## 세줄요약
+
+In-vitro 미세인장결합강도(µTBS) 연구(인간 대구치 15개, 3군×5, OptiBond FL 3단계 산부식법, 24시간 수중 보관): 즉시 상아질 봉쇄(IDS) vs 지연 봉쇄(DDS) vs 직접 즉시 접착(대조군) 비교.
+
+IDS µTBS(58.25 MPa)는 직접 접착 대조군(55.06 MPa)과 동등(P>.05)하며 DDS(11.58 MPa)의 약 5배(P=.0081); SEM에서 IDS·대조군은 3–5 µm 혼성층이 정연한 반면 DDS는 현저한 붕괴 소견.
+
+간접 수복 시 삭제 직후 즉시 상아질 봉쇄(IDS)를 시행하면 직접 접착 수준의 결합강도를 회복할 수 있다 — 단 단일 접착제(3-step E&R) 및 단기(24h) 결과이므로 범용 접착제 및 장기 임상 성적으로 일반화는 제한적.
 
 ## 1. Document Information
 
 저자: Pascal Magne DMD PhD, Tae Hyung Kim DDS, Domenico Cascione CDT, Terence E. Donovan DDS (USC, Herman Ostrow School of Dentistry).
 저널: The Journal of Prosthetic Dentistry, Volume 94, Issue 6, P511-519, December 2005.
-Article ID: S0022-3913(05)00557-3. DOI: 10.1016/j.prosdent.2005.10.010 [미검증 — article ID로부터 추정].
+Article ID: S0022-3913(05)00557-3. DOI: 10.1016/j.prosdent.2005.10.010 [미검증, article ID로부터 추정한 값].
 유형: In-vitro µTBS study.
 
 ## 2. Key Contributions

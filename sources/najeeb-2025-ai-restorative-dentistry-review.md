@@ -9,8 +9,21 @@ pdf_filename: najeeb-2025-ai-restorative-dentistry-review.pdf
 source_collection: external
 ---
 
-## One-line Summary
-BMC Oral Health 2025;25:592 — PRISMA-style literature review (63 studies, 2020–Jan 2025) of AI in restorative dentistry: caries detection (up to 95% accuracy), endodontics, dental restorations, tooth surface loss, shade determination, regenerative dentistry; flags data privacy, algorithmic bias, AI training programs in dental education.
+## Three-line Summary
+
+BMC Oral Health 2025;25:592 — PRISMA-style literature review (63 studies, 2020–Jan 2025) of AI
+
+in restorative dentistry: caries detection (up to 95% accuracy), endodontics, dental restorations, tooth surface
+
+loss, shade determination, regenerative dentistry; flags data privacy, algorithmic bias, AI training programs in dental education.
+
+## 세줄요약
+
+BMC Oral Health 2025;25:592 — PRISMA-style literature review (63 studies, 2020–Jan 2025) of AI
+
+in restorative dentistry: caries detection (up to 95% accuracy), endodontics, dental restorations, tooth surface
+
+loss, shade determination, regenerative dentistry; flags data privacy, algorithmic bias, AI training programs in dental education.
 
 ## 1. Document Information
 - Journal: BMC Oral Health 2025;25:592

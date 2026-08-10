@@ -6,7 +6,7 @@ date: 2025-11-11
 doi: 10.7759/cureus.96558
 source: abdallaoui-2025-transverse-ridge-expansion-bone-grafting-sr.md
 category: [bone-regeneration]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "41393660"
@@ -20,13 +20,21 @@ relations:
     target: ayoub-2018-ridge-splitting-horizontal-augmentation-case
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Qualitative systematic review (PRISMA, 15 clinical studies — RCTs/cohorts/case series, baseline ridge 2.5-4.5 mm) of transverse ridge expansion (TRE) with vs without bone grafting: both achieve predictable widening of 3.2-6.1 mm with implant survival 92-100%; grafting adds only a modest, clinically non-significant gain — so TRE alone is reliable for ridges ≥3 mm, while grafting is reserved for ridges <3 mm or when long-term volume preservation is the goal.
+Qualitative systematic review (Cureus 2025; PRISMA; 15 clinical studies — RCTs, cohorts, case series; baseline ridge width 2.5–4.5 mm) compared transverse ridge expansion (TRE) with versus without adjunctive bone grafting for horizontally deficient ridges.
 
-## 한줄요약
+Both TRE-alone and TRE+graft achieved predictable widening of 3.2–6.1 mm with implant survival 92–100%; grafting added only a modest, clinically non-significant horizontal gain (grafted 4.5–6.1 mm vs non-grafted 3.2–5.0 mm) with equivalent complication rates.
 
-정성적 체계적 문헌고찰(PRISMA, 임상연구 15편 — RCT/코호트/증례군, 기준 치조제 폭 2.5-4.5 mm): 횡적 치조제 확장술(Transverse Ridge Expansion, TRE)을 골이식 유무로 비교 — 양쪽 모두 3.2-6.1 mm 폭 증가와 임플란트 생존율 92-100% 달성. 골이식의 추가 이득은 통계적·임상적으로 미미하므로, ≥3 mm 치조제는 확장술 단독으로 신뢰 가능하고 <3 mm 또는 장기 부피 보존이 필요할 때만 선택적으로 골이식한다.
+The evidence-supported clinical rule is width-based: ridges ≥3 mm respond reliably to TRE alone, while grafting is reserved for ridges <3 mm or where long-term dimensional volume preservation is required.
+
+## 세줄요약
+
+정성적 체계적 문헌고찰(Cureus 2025; PRISMA; 임상연구 15편 — RCT·코호트·증례군; 기준 치조제 폭 2.5–4.5 mm): 횡적 치조제 확장술(Transverse Ridge Expansion, TRE) 단독 vs 골이식 병용 비교.
+
+양쪽 모두 3.2–6.1 mm 폭 증가·임플란트 생존율 92–100% 달성; 골이식 추가 이득은 통계적·임상적으로 미미(이식군 4.5–6.1 mm vs 비이식군 3.2–5.0 mm, 합병증 유사).
+
+근거 기반 의사결정 규칙: ≥3 mm 치조제는 TRE 단독으로 신뢰 가능; <3 mm 또는 장기 부피 보존 필요 시에만 골이식을 선택적 보조로 활용한다.
 
 ## Summary
 

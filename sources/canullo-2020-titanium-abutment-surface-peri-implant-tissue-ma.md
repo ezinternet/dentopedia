@@ -16,13 +16,21 @@ text_filename: canullo-2020-titanium-abutment-surface-peri-implant-tissue-ma.txt
 
 Healing-abutment batch — where [[wiki/implants/ruhstorfer-2024-customized-vs-conventional-healing-abutments-sr]] asks whether abutment *shape/customization* governs soft-tissue outcomes, this paper isolates the orthogonal variable: does abutment *surface* (machined vs anodized/laser/other modifications) drive peri-implant soft-tissue attachment, inflammation, and maintenance? Reinforces the sibling by showing that surface — not only macro-geometry — is a candidate determinant, with a meta-analytic answer (no short-term difference; contradictory long-term).
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review + meta-analysis (10 studies; 6 pooled — 4 RCT/2 CCT, 118 patients, 182 implants): modified titanium abutment surfaces show no significant short-term difference vs controls in plaque index, bleeding on probing, or probing depth; long-term (5–6 y) studies report contradictory results depending on surface technique.
+Systematic review and meta-analysis (10 studies total; 6 pooled via random-effects DerSimonian-Laird: 4 RCT+2 CCT, 118 patients, 182 implants) evaluating the effect of modified versus unmodified titanium abutment surfaces on short-term peri-implant soft-tissue inflammation (plaque index, bleeding on probing, probing depth).
 
-## 한줄요약
+Modified titanium abutment surfaces showed no statistically significant short-term differences versus control surfaces for plaque index (p=0.091), bleeding on probing (p=0.099), or probing depth (p=0.488); four long-term studies (5–6 years) reported contradictory results depending on the surface-modification technique.
 
-체계적 문헌고찰 + 메타분석 (10편 포함, 6편 풀링 — RCT 4·CCT 2, 환자 118명·임플란트 182개): 변형된 티타늄 어버트먼트 표면은 단기적으로 플라크 지수·탐침 시 출혈(BoP)·탐침 깊이(PD)에서 대조군과 유의한 차이가 없었고, 장기(5~6년) 연구는 표면 처리 기법에 따라 상반된 결과를 보였다.
+Abutment surface modification does not appear to benefit peri-implant soft-tissue health in the short term; long-term evidence is conflicting and insufficient to recommend routine use of modified surfaces.
+
+## 세줄요약
+
+SR+MA (10편 포함; 6편 랜덤효과 풀링: RCT 4·CCT 2, 118명·182개 임플란트): 변형 대 비변형 티타늄 어버트먼트 표면이 단기 임플란트주위 연조직 염증(플라크 지수·탐침출혈·탐침깊이)에 미치는 영향 평가.
+
+변형 티타늄 어버트먼트 표면은 단기 플라크 지수(p=0.091)·탐침출혈(BoP, p=0.099)·탐침깊이(PD, p=0.488) 모두에서 대조군과 유의한 차이 없음; 장기(5~6년) 4편은 표면처리 기법에 따라 상반된 결과.
+
+단기적으로 어버트먼트 표면처리가 임플란트주위 연조직 건강에 이점이 없고 장기 근거도 상충하여, 일상적 변형 표면 권고는 불충분하다.
 
 ## 1. Document Information
 

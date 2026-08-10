@@ -9,19 +9,27 @@ text_path: /Users/oracleneo/llm-wiki/papers/eberlikose-2026-botulinum-toxin-mand
 text_filename: eberlikose-2026-botulinum-toxin-mandibular-bone-bruxism.txt
 source: eberlikose-2026-botulinum-toxin-mandibular-bone-bruxism.md
 category: [botulinum-toxin]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 full_text: false
 tags: [bruxism, bone-remodeling, panoramic, mandible]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective case-control (n=60, 3 groups: BoNT-A bruxism / untreated bruxism / healthy controls) using panoramic radiography over 6 months showed BoNT-A group had significantly increased cortical thickness and reduced G2/G3 pathological mandibular morphology vs untreated bruxism; antegonial notch depth unchanged. Abstract-only.
+Retrospective case-control (n=60, 3 equal groups: BoNT-A-treated bruxism / untreated bruxism / healthy controls) using panoramic radiography at baseline and 6-month follow-up — the first study to provide radiographic evidence of BoNT-A effects on mandibular bone morphology.
 
-## 한줄요약
+BoNT-A group showed significantly increased cortical thickness and reduced prevalence of pathological G2/G3 mandibular morphology vs untreated bruxism (both p<0.05); antegonial notch depth (AND) showed no significant change between groups.
 
-파노라마 방사선 사진 이용 후향 케이스-컨트롤(n=60, 3군: BoNT-A 브럭시즘 / 미치료 브럭시즘 / 건강 대조군)에서 BoNT-A 군이 미치료 군 대비 피질골 두께 증가, 비정상 하악골 형태(G2/G3) 감소; 전각절흔심도(AND)는 유의차 없음. 초록만.
+Proposed mechanism — BoNT-A reduces masticatory load → reversed pathological bone apposition per Wolff's law — but abstract-only data limit mechanistic conclusions; AND appears to be a less sensitive monitoring index than cortical thickness for BoNT-A effects.
+
+## 세줄요약
+
+파노라마 방사선 기반 후향 케이스-컨트롤(n=60, 3군 각 20명: BoNT-A 브럭시즘 / 미치료 브럭시즘 / 건강 대조군), baseline 및 6개월 추적 — 브럭시즘 BoNT-A의 하악골 경조직 변화를 방사선으로 처음 보고한 연구.
+
+BoNT-A군이 미치료 브럭시즘군 대비 피질골 두께 유의 증가 및 병적 형태(G2/G3) 빈도 유의 감소(모두 p<0.05); 전각절흔심도(AND)는 군 간 유의차 없음.
+
+임상 의미: BoNT-A → 교합력 감소 → 피질골 리모델링 정상화(Wolff 법칙 역방향)가 제안되며, 모니터링 지표로는 AND보다 피질골 두께가 유용; 초록만이므로 수치 해석에 주의 요함.
 
 ## Summary
 

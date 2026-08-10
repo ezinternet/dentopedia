@@ -17,11 +17,21 @@ text_filename: alsaloum-2026-proximal-contact-loss-interproximal-caries-implants
 
 기존 식편압입 카테고리는 근접접촉소실 (Proximal Contact Loss, PCL) 의 유병률·부위·위험인자를 정량화한 SR/MA·코호트 중심이었으나, **PCL이 인접 자연치의 인접면 우식 (interproximal caries) 으로 이어지는 생물학적 연쇄**를 명시적으로 다룬 페이지가 없었다. 본 narrative review (Alsaloum 2026) 는 PCL을 단순 보철 합병증이 아닌 우식 발생의 직접 위험인자로 재규정하고, 임플란트 함입 (infraposition) 의 성장·연령·성별 메커니즘까지 묶어 "PCL → 식편압입 → biofilm → 우식·골소실" 인과 경로를 보강한다. 또한 [[food-impaction/sheba-2023-interproximal-contact-loss-systematic-meta]] 의 정량 결과(mesial 44.2% vs distal 27.5%)와 일관된 mesial 우위를 narrative로 재확인.
 
-## One-line Summary
-Narrative review reframing proximal contact loss (PCL) between implant restorations and adjacent natural teeth as a direct biological risk factor for interproximal caries — synthesizing PCL prevalence (18–66%), consistent mesial > distal predominance, time-dependent progression (~9–10%/year; ~50% lost by 3–9 yr), the implant-infraposition (lifelong ~0.1–0.2 mm/yr eruption) growth mechanism by age/sex, and prevention via tight contacts + Essix retainers (~15–50% PCL reduction).
+## Three-line Summary
 
-## 한줄요약
-서술적 리뷰: 임플란트 보철-자연치 사이 근접접촉소실(PCL)을 인접면 우식의 직접 위험인자로 재규정 — PCL 유병률 18–66%, 일관된 mesial>distal, 시간의존 진행(연 ~9–10%, 3–9년 내 절반 소실), 평생 치아맹출(~0.1–0.2 mm/yr)에 의한 임플란트 함입 기전, Essix 리테이너로 PCL ~15–50% 감소.
+Narrative review (Clinical, Cosmetic and Investigational Dentistry 2026) reframing proximal contact loss (PCL) between implant-supported restorations and adjacent natural teeth as a direct biological risk factor for interproximal caries, synthesizing prevalence, site pattern, time-course, growth mechanism, and prevention across prospective, retrospective, and cross-sectional studies.
+
+PCL prevalence ranges 18–66% with a typical increase of ~9–10%/year (~50% of contacts lost by 3–9 years); mesial predominance is consistent across cohorts (mesial 42–52% vs distal 15–28%); lifelong natural tooth eruption (~0.1–0.2 mm/year in adults) drives implant infraposition; Essix retainers reduce PCL by ~15–50%.
+
+The review frames the PCL→food impaction→cariogenic biofilm→interproximal caries causal pathway mechanistically, but no pooled caries-incidence figure is reported — the caries connection remains inferential rather than directly measured in cited studies.
+
+## 세줄요약
+
+서술적 리뷰 (Clinical, Cosmetic and Investigational Dentistry 2026) — 임플란트 보철-자연치 사이 근접접촉소실(Proximal Contact Loss, PCL)을 인접면 우식의 직접 생물학적 위험인자로 재규정; 유병률·부위·시간 경과·성장 기전·예방 종합.
+
+PCL 유병률 18–66%, 연 ~9–10% 증가(3–9년 내 약 50% 소실); mesial 우위 일관(근심 42–52% vs 원심 15–28%); 평생 자연치 맹출 (~0.1–0.2 mm/yr)이 임플란트 함입 유발; Essix 리테이너로 PCL ~15–50% 감소.
+
+PCL→식편압입→우식원성 biofilm→인접면 우식의 인과 경로를 기전적으로 제시하나, 합산 우식 발생률 수치 없음 — 우식 연관성은 측정값이 아닌 추론.
 
 ## 1. Document Information
 

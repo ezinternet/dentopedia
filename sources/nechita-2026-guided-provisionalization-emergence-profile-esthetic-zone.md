@@ -17,13 +17,21 @@ text_filename: nechita-2026-guided-provisionalization-emergence-profile-esthetic
 
 기존 [[immediate-implant/esthetic-soft-tissue/donker-2025-immediate-implant-provisionalization-digital-workflow-prospective]]가 디지털 워크플로우 기반 즉시 프로비저널라이제이션의 전향적 근거를 제공하는데, 본 retrospective cohort (Nechita 2026)는 거기에 더해 **무회전방지(non-antirotational) 5° Morse taper 인터페이스**라는 특이한 변형을 다룬다 — 가이드로 미리 제작한 프로비저널 크라운을 회전 적응 가능하게 두어 식립 위치 편차를 보상한다는 개념. 이로써 emergence profile shaping 프로비저널라이제이션의 연조직·골 결과 근거를 확장한다.
 
-## One-line Summary
+## Three-line Summary
 
 Retrospective single-arm cohort (n=20 single esthetic-zone implants) of a digitally planned, guide-delivered immediate provisionalization protocol on non-antirotational 5° Morse taper implants: provisional retention without major intervention 75%, 1-year MBL 0.37 mm, buccal contour gain 1.41 mm, complete papilla preserved in 70%.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 심미부위 단일 임플란트 20개에 대한 후향 단일군 코호트 — 디지털 계획·가이드 전달의 즉시 프로비저널라이제이션(무회전방지 5° Morse taper) 결과: 주요 개입 없는 프로비저널 유지율 75%, 1년 변연골소실 0.37 mm, 협측 윤곽 증가 1.41 mm, 완전 유두 보존 70%.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

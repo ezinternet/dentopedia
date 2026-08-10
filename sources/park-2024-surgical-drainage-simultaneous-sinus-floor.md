@@ -17,13 +17,21 @@ text_filename: park-2024-surgical-drainage-simultaneous-sinus-floor.txt
 
 만성 상악동염 (Chronic Maxillary Sinusitis, CMS) 환자에서 내시경 부비동 수술 (Functional Endoscopic Sinus Surgery, FESS) 없이 상악동거상술 (Maxillary Sinus Floor Augmentation, MSFA)을 동시에 시행할 수 있는지는 임상에서 중요한 결정 분기점. 이 증례 보고는 구강내 배액만으로 CMS를 해결하면서 동시에 MSFA + 임플란트 식립에 성공한 드문 사례를 제시하여, 기존 [[sinus-lift/lateral/craig-2024-ent-oral-surgeon-collaboration-sinus-elevation]]에서 다루는 ENT-구강외과 협진 필요성에 대한 보완적 시각을 제공한다.
 
-## One-line Summary
+## Three-line Summary
 
 Case report (n=2) demonstrating that intraoral surgical drainage with intentional Schneiderian membrane incision, simultaneous with lateral-window MSFA and implant placement, resolved chronic maxillary sinusitis without FESS, with favorable 1-year outcomes.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 만성 상악동염 환자 2명에서 FESS 없이 측방창 접근 MSFA 도중 구강내 배액(의도적 막 절개)을 동시 시행하여 1년 추적에서 성공적인 임플란트 생존율과 상악동 병변 소실을 보고한 증례 보고.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

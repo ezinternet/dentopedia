@@ -9,8 +9,21 @@ pdf_filename: zhang-2021-exercise-vs-splint-tmd-sr-ma.pdf
 source_collection: external
 ---
 
-## One-line Summary
-SR+MA comparing exercise therapy to occlusal splints for painful TMD; found exercise therapy equivalent or superior for pain relief and MMO improvement, suggesting it as a viable non-appliance alternative.
+## Three-line Summary
+
+SR+MA comparing exercise therapy to occlusal splints for painful
+
+TMD; found exercise therapy equivalent or superior for pain
+
+relief and MMO improvement, suggesting it as a viable non-appliance alternative.
+
+## 세줄요약
+
+체계적 고찰 및 메타분석 (SR+MA) comparing exercise therapy to occlusal splints for painful
+
+TMD; found exercise therapy equivalent or superior for pain
+
+relief and MMO improvement, suggesting it as a viable non-appliance alternative.
 
 ## 1. Document Information
 - **Journal**: Annals of Palliative Medicine 2021;10(6):6122–6132

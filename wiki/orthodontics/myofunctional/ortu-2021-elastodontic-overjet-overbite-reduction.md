@@ -6,7 +6,7 @@ date: 2021-05-17
 doi: 10.1186/s12903-021-01628-7
 source: ortu-2021-elastodontic-overjet-overbite-reduction.md
 category: [orthodontics/myofunctional]
-confidence: prospective
+evidence_level: prospective
 source_collection: pubmed-text
 full_text: true
 pmid: "34001097"
@@ -20,13 +20,21 @@ relations:
     target: ureni-2024-elastodontic-devices-sagittal-malocclusion-scoping-review
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Prospective controlled clinical study (n=60 children aged 7–15, Class II div 1/2; 30 EQ Series II [Eptamed] vs 30 Occlus-o-Guide) where both elastodontic devices reduced overjet and overbite over 12 months, with the EQ Series II achieving significantly lower OJ and OB at T1 than Occlus-o-Guide (p=0.0019), measured by iTero digital-model evaluation.
+Prospective controlled clinical study (n=60 children aged 7–15, Class II div 1/2) comparing two overnight-wear elastodontic devices — EQ Series II (Eptamed, n=30) vs Occlus-o-Guide (n=30) — over 12 months, with OJ/OB measured by iTero digital 3D model superimposition.
 
-## 한줄요약
+Both devices significantly reduced overjet and overbite from baseline; however, the EQ Series II achieved significantly lower OJ and OB values at T1 than the Occlus-o-Guide (p=0.0019), demonstrating that device design affects correction magnitude.
 
-전향적 대조 임상연구 (소아 60명, 7~15세, 2급 부정교합 1·2류; EQ Series II [Eptamed] 30명 vs Occlus-o-Guide 30명) — 두 탄성교정장치 (Elastodontic Device) 모두 12개월간 수평피개 (Overjet, OJ)·수직피개 (Overbite, OB)를 감소시켰고, EQ Series II가 1년 후 OJ·OB를 Occlus-o-Guide보다 유의하게 더 낮춤 (p=0.0019). iTero 디지털 모델로 평가.
+Elastodontic appliances are a low-burden interceptive option for Class II growing patients, but device brand/design matters — the evidence base is small-sample, single-center, and limited to 12-month follow-up.
+
+## 세줄요약
+
+전향적 대조 임상연구(소아 60명, 7~15세, 2급 부정교합 1·2류) — EQ Series II(Eptamed, n=30) vs Occlus-o-Guide(n=30) 야간착용, 12개월, OJ/OB를 iTero 디지털 모델로 평가.
+
+두 탄성교정장치(Elastodontic Device) 모두 수평피개(Overjet, OJ)·수직피개(Overbite, OB)를 유의하게 감소시켰으나, EQ Series II가 1년 후 OJ·OB를 Occlus-o-Guide보다 유의하게 더 낮춤(p=0.0019) — 장치 설계가 교정량에 영향.
+
+탄성교정장치는 성장기 2급 환자의 부담이 적은 차단치료 옵션이나, 브랜드·설계 선택이 중요하며 소규모·단기 단일기관 근거 수준의 한계가 있음.
 
 ## Summary
 

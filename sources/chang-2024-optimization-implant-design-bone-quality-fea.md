@@ -13,13 +13,21 @@ source_collection: external
 
 저밀도골(D3·D4)에서 thread depth를 최적화하면 crestal 응력·임플란트 변위를 정량적으로 얼마나 줄이는지 보여, FEA 클러스터([[implants/leblebicioglu-kurtulus-2022-fea-implant-design-bone-density-stress]], [[implants/hussein-2019-thread-depth-implant-shape-stress-mandible-fea]])에 "골질별 설계 최적화"라는 처방적 결론을 추가하기 위해 인제스트.
 
-## One-line Summary
+## Three-line Summary
 
-Optimization-based finite element study showing that increasing thread depth reduces crestal cortical stress by ~40% and implant displacement by ≥9% in D3/D4 (low-density) bone, but has little effect in D2 bone.
+Optimization-based 3D finite element analysis of a mandibular implant varying thread pitch and depth across three bone quality classes (D2, D3, D4) to minimize implant displacement and crestal cortical stress.
 
-## 한줄요약
+Increasing thread depth reduced crestal cortical stress by ~40% and implant displacement by ≥9% in D3/D4 low-density bone; the same optimization had negligible effect in D2 dense bone.
 
-최적화 기반 FEA — D3·D4 저밀도골에서 thread depth 증가가 crestal cortical 응력을 약 40%, 임플란트 변위를 ≥9% 감소시키나, D2 골에서는 효과 미미.
+Thread depth optimization is clinically meaningful only in low-density bone (D3/D4); prescribing deeper-threaded implants for these patients can reduce crestal overload and improve primary stability.
+
+## 세줄요약
+
+하악 임플란트의 thread pitch·depth를 세 가지 골질(D2·D3·D4)에서 최적화한 3D FEA.
+
+D3·D4 저밀도골에서 thread depth 증가 시 crestal 피질골 응력 ~40%·임플란트 변위 ≥9% 감소; D2 골에서는 효과 미미.
+
+Thread depth 최적화 전략은 저밀도골(D3·D4)에서만 임상적으로 유의미하며, 해당 골질 환자에 더 깊은 나사산 임플란트 선택 시 crestal 과부하 감소 기대 가능.
 
 ## 1. Document Information
 - Journal of Dental Sciences 2024. DOI: 10.1016/j.jds.2024.09.017. Open access (CC BY-NC-ND).

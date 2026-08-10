@@ -13,13 +13,21 @@ source_collection: external
 
 골유착 (Osseointegration, OI) 기반 임플란트 치의학 50년의 이정표를 총체적으로 정리한 Buser et al. 2017 서술 리뷰로, wiki 내 임플란트 관련 다수 페이지([[implants/overview]], [[implants/surface]], [[sinus-lift/lateral]], [[immediate-implant]], [[bone-regeneration]])의 역사적·임상적 배경 근거로 활용. 브로네마르크(Brånemark)와 슈뢰더(Schroeder) 학파의 이중 기원, 표면처리 패러다임 전환, 디지털 임플란트 치의학의 현황 및 논쟁점(peri-implantitis, foreign-body reaction hypothesis, zirconia implant)을 한 편에 집약한 핵심 참고문헌.
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review (Periodontology 2000, 2017) tracing 50 years of osseointegration-based implant dentistry — from Brånemark/Schroeder foundations to moderately rough surfaces, bone augmentation, digital workflows, and open controversies (peri-implantitis, zirconia implants).
+Narrative review (Periodontology 2000, 2017; Buser, Sennerby, De Bruyn) tracing 50 years of osseointegration-based implant dentistry from the parallel Brånemark (Gothenburg) and Schroeder (Bern) founding schools through moderately rough surfaces (Sa 1–2 µm), GBR, digital workflows, and current controversies.
 
-## 한줄요약
+Key milestones quantified: SLA moderately rough surfaces enabled early loading (3–6 wk); simultaneous GBR for horizontal defects is well-documented; peri-implantitis patient-level prevalence estimated ~10–20% at ≥5 years; second-generation zirconia (Y-TZP) implants showed early promise but lacked long-term data.
 
-Periodontology 2000 (2017) 서술 리뷰 — 브로네마르크/슈뢰더가 정립한 골유착 (Osseointegration, OI) 개념부터 중등도 거친 표면, 골증대술, 디지털 워크플로우, 주위염 논쟁과 지르코니아 임플란트까지 50년의 흐름을 총정리.
+Open questions as of 2017 remain clinically relevant: whether marginal bone loss represents a biofilm-driven disease vs foreign-body reaction, standardized peri-implantitis case definitions, and long-term RCT data for zirconia implants.
+
+## 세줄요약
+
+Buser·Sennerby·De Bruyn의 50주년 서술 리뷰(Periodontology 2000, 2017) — 브로네마르크(예테보리)·슈뢰더(베른) 창립 학파부터 중등도 거친 표면(Sa 1–2 µm), 유도골재생(GBR), 디지털 워크플로우, 현재의 논쟁점까지 총정리.
+
+핵심 수치: SLA 표면으로 조기 부하(3–6주) 가능; 수평 결손 동시 GBR 근거 확립; 임플란트 주위염(peri-implantitis) 환자 수준 유병률 ≥5년 시점 약 10–20%; 2세대 지르코니아(Y-TZP) 임플란트 초기 가능성은 있으나 장기 데이터 부재.
+
+2017년 기준 미해결 과제 — 변연골 소실이 바이오필름 기반 질환인지 이물반응인지, 표준화된 주위염 정의, 지르코니아 임플란트 장기 RCT — 는 현재도 임상적 관련성을 유지.
 
 ## 1. Document Information
 

@@ -6,7 +6,7 @@ date: 2026-06-15
 doi: N/A
 source: N/A
 category: overviews
-confidence: synthesis
+evidence_level: synthesis
 pdf_path: N/A
 pdf_filename: N/A
 source_collection: synthesis
@@ -31,14 +31,27 @@ tags: [veneer, laminate-veneer, feldspathic, lithium-disilicate, zirconia, survi
 > - 최소삭제 장기 실증(Reis 2025 case report): 법랑질 한정 ~0.2mm 치경부 삭제 + <0.5mm thin 장석 라미네이트가 12년+ 추적에서 파절·우식·과민·재수복 0 — Axis 3 최소침습 원칙(법랑질 confinement·≥50% 법랑질 본딩·≥70% 법랑질 변연)의 single-case 장기 근거.
 > - 제작 방식 축 확장(Basheer 2026 scoping, 30편·대부분 in-vitro): CAD/CAM 절삭과 3D 프린팅 적층 모두 임상 허용 변연적합(<120µm) 달성 — 밀링 LDS가 강도·색안정성 우수(빠름, 45~90분), 3D 프린팅은 적합·맞춤성 우수(특히 비니어, 단 90~150분·경도/색안정성 낮음); 비니어가 3D 프린팅 최대 기회 영역이나 장기 임상시험 부재.
 > - 합의문(Beuer 2025, SSRD/SEPES/PROSEC; 2편 SR+MA·35편 기반)이 위 메타분석 수치를 임상 권고로 전환: ① feldspathic·LRGC·LDS 모두 권고(LDS 합병증 최소), ② 가능한 한 법랑질 접착(상아질·기존수복물 접착은 장기 합병증↑), ③ 삭제 시 평평한 절치 피개(butt-joint)가 non-overlap·구개부 chamfer보다 실패율 낮음 — Axis 3의 무삭제/butt-joint 선택에 합의 수준 근거 추가. 후방 부분피개수복(PCR)까지 범위 확장(LDS 93.7%/RMC 89.3% 3년).
+> - 실패 모드 위계 실증(Alghazzawi 2024, narrative-review): **파절(Fracture) > 탈락(Debonding) > 색변화(Color Change)** — in-vitro 기전과 임상 순위 일치; 유리세라믹(450 MPa) > 장석 도재(feldspathic, 60~70 MPa)의 파절 저항이 재료별 합병증 gradient의 물리적 근거. 이 위계는 위 메타분석 생존율 유사성과 상보적(생존은 비슷해도 실패 양상이 다름).
+> - 시간·재료별 생존 실증(Komine 2024, 55편·narrative-review): ≤5년 95.1~100% → >10년 72.6~95.0%, 연간 개입률 3년 0.6 → 10년 1.78로 상승; LDS 하한(87%)이 장석(64%)·LRG(76%)보다 높음. 즉시 상아질 봉쇄(Immediate Dentin Sealing, IDS) 시 11년 96.4% vs 미시행 81.8%; 이갈이 나이트가드(splint) 8년 89.1% vs 63.9% — Axis 2 합병증·Axis 3 법랑질 축을 정량 보강.
+> - 삭제 대 무삭제(feldspathic) 후향 실증(Mihali 2022, 170개·7년, retrospective): prep vs no-prep 생존곡선 차이 없음(91.77%, p=0.247), 무삭제가 심미·교합마모·재발우식·치주에서 우수; **0.5mm 장석 비니어 파절 0건** vs 두꺼운(>1.5~2mm) 비니어 파절↑ 두께 역설 — Axis 3의 무삭제 동등성에 코호트 근거 추가.
+> - 무삭제(no-prep) 간접 복합레진 실증(Kam-Hepdeniz 2023, prospective): 84개월 91.3%(Kaplan-Meier), 치아파절·이차우식·대합치 마모·과민 0건이나 표면 거칠기(56%)·변연 착색(21%) 잦음 — Axis에서 복합레진이 법랑질 접착 시 세라믹 대안이 될 수 있음을 실측 보강(단 유지 부담).
+> - 하이브리드 레진매트릭스 세라믹(Resin Matrix Ceramic, RMC/PICN·RNC) 수복물별 성능(Alghauli 2025, sr+ma): **비니어·교합면 비니어에선 LDS와 동등**, inlay/onlay는 direct composite보다 우수하나 **크라운에선 합병증↑** — 비니어 적응증에 한해 RMC를 LDS 대안으로 정량 근거화(수복물 형태 의존).
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis of 10 papers (5 SR+MA, 1 SR, 2 in-vitro, 1 narrative review, 1 SEM pilot) covering ceramic and composite veneer survival, material complication burden, incisal coverage design, preparation invasiveness, fabrication technique, HF etching protocol, and cementation bond strength — establishing a clinically actionable evidence hierarchy for veneer material and protocol selection.
+Synthesis of 10 papers (5 SR+MA, 1 SR, 2 in-vitro, 1 narrative review, 1 SEM pilot): all ceramic veneer materials achieve statistically similar long-term survival (93–97%; feldspathic 96.13%, LDS 96.81%, LRGC 93.70%, zirconia 100% at 2.6 yr — Klein 2025, 29 studies, 7,753 veneers), but LDS is preferred for its dramatically lower complication burden (10-yr technical complications 6.1% vs feldspathic 41.48%).
 
-## 한줄요약
+Dentin margin exposure is the single strongest failure predictor (≈10× vs enamel-confined margins; El-Mowafy 2018), and incisal coverage design does not significantly affect survival (OR 1.25 NS; Albanesi 2016); minimal prep (0.2–0.5 mm) equals or exceeds conventional prep (0.3–1.0 mm) in survival (Ali 2023).
 
-라미네이트 비니어 10편 종합 (SR+MA 5편 포함): 소재별 생존율은 유사하나 합병증 부담은 LDS가 가장 낮고 (기술적 합병증 6.1% vs 장석 41.48%@10년), 접착 기질·제작기법·HF 에칭 시간이 결합강도를 결정하는 핵심 변수임.
+Fabrication technique determines optimal HF etching time (platinum foil 120 s, refractory die 90 s at 9.6% HF; Gonzalez-Martin 2024 SEM); LDS bond strength 25.4 MPa vs transparent zirconia 12.1 MPa (Hajeer 2026 in-vitro); enamel-confined adhesive margin is the non-negotiable prerequisite for all minimally invasive approaches.
+
+## 세줄요약
+
+10편 종합(SR+MA 5편 포함): 모든 세라믹 비니어 재료의 장기 생존율은 통계적으로 유사(93–97%; feldspathic 96.13%, LDS 96.81%, LRGC 93.70%)하나 LDS가 합병증 부담 가장 낮음(10년 기술적 합병증 6.1% vs 장석 41.48%; Klein 2025, 29편·7,753 비니어).
+
+상아질 변연 노출이 실패율 ≈10배(El-Mowafy 2018); 절단연 피개 디자인은 생존율에 영향 없음(OR 1.25 NS; Albanesi 2016); 최소삭제(0.2–0.5 mm)가 전통적 삭제(0.3–1.0 mm)와 동등 이상(Ali 2023) — 법랑질 한정 변연이 모든 최소침습 접근의 비협상 전제조건.
+
+제작기법이 HF 에칭 시간을 결정(백금박 120초·refractory die 90초; Gonzalez-Martin 2024 SEM); LDS 결합강도 25.4 MPa vs 투명 지르코니아 12.1 MPa(Hajeer 2026 in-vitro); 제작기법 정보를 기공사로부터 확인 후 에칭 프로토콜 적용 필요.
 
 ## Summary
 
@@ -48,15 +61,15 @@ The evidence converges on a counterintuitive but practically important finding: 
 
 **핵심 명제 (Evidence Propositions)**
 
-1. **Ceramic laminate veneers demonstrate clinically acceptable long-term survival across all four material types.** Klein et al. (2025), the largest and most comprehensive SR+MA (29 studies, 7,753 veneers, 1.0–20.7 years), found pooled survival of feldspathic 96.13%, LRGC 93.70%, LDS 96.81%, and zirconia 100% (at 2.6 years), with no statistically significant difference between feldspathic, LRGC, and LDS. [근거강함]
+1. **Ceramic laminate veneers demonstrate clinically acceptable long-term survival across all four material types.** Klein et al. (2025), the largest and most comprehensive SR+MA (29 studies, 7,753 veneers, 1.0–20.7 years), found pooled survival of feldspathic 96.13%, LRGC 93.70%, LDS 96.81%, and zirconia 100% (at 2.6 years), with no statistically significant difference between feldspathic, LRGC, and LDS. [확인]
 
-2. **LDS offers a decisive complication advantage over feldspathic and LRGC at 10 years.** At approximately 10.4 years observation, technical complication rates were: feldspathic 41.48%, LRGC 29.87%, and LDS 6.1%; biological complications followed the same gradient (feldspathic 6.51%, LRGC 4.4%, LDS 0.45%) (Klein et al. 2025). The complication gap, not survival, is the primary argument for LDS in long-term treatment planning. [근거강함]
+2. **LDS offers a decisive complication advantage over feldspathic and LRGC at 10 years.** At approximately 10.4 years observation, technical complication rates were: feldspathic 41.48%, LRGC 29.87%, and LDS 6.1%; biological complications followed the same gradient (feldspathic 6.51%, LRGC 4.4%, LDS 0.45%) (Klein et al. 2025). The complication gap, not survival, is the primary argument for LDS in long-term treatment planning. [확인]
 
-3. **Incisal coverage does not significantly alter veneer survival.** Albanesi et al. (2016), in the only SR+MA focused exclusively on this question (8 studies, 1,145 screened), found survival of 88% with vs 91% without incisal coverage, with an OR of 1.25 (95% CI crosses 1.0; not significant). Morimoto et al. (2016) independently reported the same OR in their broader SR+MA. Clinicians may therefore choose incisal extension based on esthetic and occlusal rationale, not survival prognosis. [근거강함]
+3. **Incisal coverage does not significantly alter veneer survival.** Albanesi et al. (2016), in the only SR+MA focused exclusively on this question (8 studies, 1,145 screened), found survival of 88% with vs 91% without incisal coverage, with an OR of 1.25 (95% CI crosses 1.0; not significant). Morimoto et al. (2016) independently reported the same OR in their broader SR+MA. Clinicians may therefore choose incisal extension based on esthetic and occlusal rationale, not survival prognosis. [확인]
 
-4. **Minimally invasive veneers (0.2–0.5 mm) demonstrate equal or superior survival to conventional preparations (0.3–1.0 mm).** Ali (2023), a SR of 4 comparative studies, found MPVs showed higher survival rates and longer mean success periods than CVs, refuting the prior assumption of conventional preparation superiority. Ultra-thin contact-lens feldspathic veneers (0.2–0.3 mm) additionally eliminate anesthesia and temporization steps. [합의수준 — 4편 연구, 비교 RCT 없음]
+4. **Minimally invasive veneers (0.2–0.5 mm) demonstrate equal or superior survival to conventional preparations (0.3–1.0 mm).** Ali (2023), a SR of 4 comparative studies, found MPVs showed higher survival rates and longer mean success periods than CVs, refuting the prior assumption of conventional preparation superiority. Ultra-thin contact-lens feldspathic veneers (0.2–0.3 mm) additionally eliminate anesthesia and temporization steps. [확인 — 4편 연구, 비교 RCT 없음]
 
-5. **Dentin margin exposure is the single most powerful clinical failure predictor, conferring 10× higher failure rate than enamel-confined margins.** El-Mowafy et al. (2018) synthesized this finding from Gurel et al. (580 veneers, 12 years). This penalty applies regardless of material, reaffirming enamel preservation as the cornerstone of preparation philosophy. [합의수준 — narrative review level]
+5. **Dentin margin exposure is the single most powerful clinical failure predictor, conferring 10× higher failure rate than enamel-confined margins.** El-Mowafy et al. (2018) synthesized this finding from Gurel et al. (580 veneers, 12 years). This penalty applies regardless of material, reaffirming enamel preservation as the cornerstone of preparation philosophy. [확인 — narrative review level]
 
 6. **Platinum foil fabrication produces the best marginal fit but requires longer HF etching (120 s vs 90 s) to achieve optimal intaglio microroughness.** Sorensen et al. (1992) established platinum foil superiority for vertical marginal fidelity over refractory die in a controlled in-vitro study (though at the cost of more overcontouring). Sim and Ibbetson (1993) confirmed this in a four-way ranking (platinum foil best > refractory die > cast ceramic 0.5 mm > cast ceramic 1.0 mm; p < .001). Gonzalez-Martin et al. (2024) then showed by SEM that the structurally distinct intaglio surfaces produced by these two techniques demand technique-specific etching protocols: 120 s for platinum foil vs 90 s for refractory die (both with 9.6% HF), with 150 s conferring no additional benefit. [in-vitro 한정]
 
@@ -64,9 +77,9 @@ The evidence converges on a counterintuitive but practically important finding: 
 
 8. **Enamel substrate yields approximately twice the bond strength of a composite core under light-cured resin cement.** Hajeer et al. (2026) found enamel substrate 21.1 MPa vs composite core 11.3 MPa. This quantitative substrate penalty aligns with the clinical observation (El-Mowafy 2018) that dentin and composite cores elevate failure risk, and provides an in-vitro mechanism. [in-vitro 한정]
 
-9. **Resin composite laminate veneers show 88% pooled survival but require active maintenance; direct (91%) outperforms indirect (84%).** Lim et al. (2023), in the only SR+MA dedicated to composite veneers (7 studies, 24–97 months), identified surface roughness, color mismatch, and marginal discoloration as the dominant complications — all clinically manageable without replacement but demanding monitoring. [근거강함]
+9. **Resin composite laminate veneers show 88% pooled survival but require active maintenance; direct (91%) outperforms indirect (84%).** Lim et al. (2023), in the only SR+MA dedicated to composite veneers (7 studies, 24–97 months), identified surface roughness, color mismatch, and marginal discoloration as the dominant complications — all clinically manageable without replacement but demanding monitoring. [확인]
 
-10. **Zirconia laminate veneers show 100% survival and 0% complication at 2.6 years but have no long-term (≥5 year) clinical data.** Klein et al. (2025) included zirconia in the SR+MA but noted that the available evidence is short-term only, precluding long-term planning decisions. Hajeer et al. (2026) adds an in-vitro bonding caveat (12.1 MPa vs LDS 25.4 MPa). Zirconia remains a promising but unvalidated long-term option as of 2026. [합의수준]
+10. **Zirconia laminate veneers show 100% survival and 0% complication at 2.6 years but have no long-term (≥5 year) clinical data.** Klein et al. (2025) included zirconia in the SR+MA but noted that the available evidence is short-term only, precluding long-term planning decisions. Hajeer et al. (2026) adds an in-vitro bonding caveat (12.1 MPa vs LDS 25.4 MPa). Zirconia remains a promising but unvalidated long-term option as of 2026. [확인]
 
 ---
 
@@ -85,6 +98,16 @@ The most comprehensive cross-material comparison is Klein et al. (2025): 29 stud
 | All ceramic (pooled) | — | — | 89% (84–94%) at 9 yr |
 
 Note: Morimoto (2016) survival values appear lower than Klein (2025) partly due to different follow-up periods and how study arms were pooled. No material difference is statistically significant in either SR+MA by metaregression.
+
+A 2024 narrative-review pair adds a time-resolved and material-floor view consistent with the pooled figures. Komine et al. (2024), reviewing 55 clinical studies, reports silica-based ceramic survival decaying with follow-up (95.1–100% at ≤5 yr → 82.5–100% at ≤10 yr → 72.6–95.0% at >10 yr), with the annual intervention rate rising from 0.6 (3 yr) to 1.78 (10 yr), and material-specific survival ranges of feldspathic 64–100%, LRG 76–100%, and LDS 87–100% (LDS has the highest floor). Indirect composite is inferior long-term (75% at 10 yr). Alghazzawi et al. (2024) independently confirms overall >90% survival at 10+ years. Mihali et al. (2022), a 7-year retrospective cohort of 170 feldspathic veneers, contributes a concrete cohort figure of 91.77% overall survival with no difference between vertical-prep and no-prep curves (p=0.247). Kam-Hepdeniz et al. (2023) extends the composite line with a prospective no-prep indirect microhybrid composite cohort surviving 91.3% at 84 months (Kaplan-Meier).
+
+| Material | Komine 2024 range (55 studies) | Other new data |
+|---|---|---|
+| Feldspathic | 64–100% | Mihali 2022: 91.77% at 7 yr (170 veneers, prep=no-prep, p=0.247); 0.5 mm = zero fractures |
+| LRG (leucite) | 76–100% | — |
+| Lithium disilicate (LDS) | 87–100% (highest floor) | — |
+| Indirect composite | 75% at 10 yr (historical) | Kam-Hepdeniz 2023: 91.3% at 84 mo (no-prep, enamel-bonded) |
+| RMC (PICN/RNC) veneer | — | Alghauli 2025: comparable to LDS for veneer indication |
 
 Resin composite (Lim et al. 2023, SR+MA of 7 studies): 88% overall (95% CI: 81–94%) at 24–97 months, with direct 91% vs indirect 84%. Composite veneers are competitive in short-medium follow-up but the evidence horizon is shorter than for ceramics.
 
@@ -106,6 +129,8 @@ Klein et al. (2025) is uniquely granular, separating technical, esthetic, and bi
 The technical complication rate differential between feldspathic (41.48%) and LDS (6.1%) — nearly 7-fold — at 10 years is the single most clinically impactful quantitative finding in this body of literature. Even accounting for the modest survival difference, a patient with feldspathic veneers is far more likely to require intervention (repair, re-cementation, re-polishing) than one with LDS over a decade.
 
 Morimoto et al. (2016) reported fracture/chipping as 4% (3–6%), debonding 2% (1–4%), secondary caries 1%, and marginal discoloration 2% at median 9 years — an earlier and less granular snapshot consistent with Klein 2025's categories.
+
+Alghazzawi et al. (2024) resolves these complication counts into an explicit **failure-mode hierarchy: fracture > debonding > color change** — fracture driven by unfavorable occlusion, parafunction, inadequate preparation design, and low-modulus thick cement layers; debonding by dentin exposure, contamination, and inadequate surface treatment; color change by cement type and translucency mismatch. This clinical ranking aligns with the in-vitro fracture-resistance gap between glass-ceramic (~450 MPa) and feldspathic (~60–70 MPa), giving the material-level complication gradient a mechanical basis: survival across materials is similar, but *how* they fail differs. Komine et al. (2024) adds a temporal split — debonding/fracture (adhesive errors) dominate the first 5 years, while caries and marginal breakdown dominate beyond 5 years — informing recall design. Bruxism is a modifiable threat: an occlusal splint raised 8-year survival to 89.1% vs 63.9% without (Komine 2024, citing Faus-Matoses n=364), so a night guard is mandatory for parafunctional patients.
 
 Incisal coverage and survival (Albanesi 2016): incisal coverage OR 1.25 (not significant) — preparation design does not drive complication risk in the data available.
 
@@ -130,6 +155,10 @@ Preparation thickness: MPV 0.2–0.5 mm (contact-lens ultra-thin: 0.2–0.3 mm) 
 Chandode et al. (2026), a narrative clinical-considerations review, sharpens this into a no-preparation (no-prep) vs conventional (CV) indication map. Both techniques show high survival (91–100%), with no-prep slightly higher on average (~97% vs ~92%) and fewer catastrophic failures, and no-prep success reaching **up to 97.4% when bonded to enamel** in well-selected cases. The decisive boundary is case selection, not survival: no-prep is favored for well-aligned teeth with minimal esthetic demand (preserving enamel, avoiding anesthesia/temporaries, lower postoperative sensitivity), but is **contraindicated for intrinsic discoloration, misalignment, or major morphological/contour correction** — situations where the controlled reduction of CV (cited at 0.3–1.0 mm) is needed for masking and to avoid over-contouring (the key no-prep pitfall). Chandode reframes the two as complementary rather than competing, with enamel as the deciding substrate. (Note: this is narrative-level evidence with heterogeneous, sometimes trauma-inclusive failure definitions, and long-term [>10 yr] no-prep-specific data remains less characterized than for CV.)
 
 Reis et al. (2025) supplies a concrete long-term exemplar of the enamel-confined minimally invasive end of this spectrum: a 12+ year case of thin (<0.5 mm) feldspathic laminates on ~0.2 mm cervical knife-edge preparations, with the explicit adhesion threshold restated (ideal when ≥50% bonding substrate is enamel AND ≥70% of margin remains in enamel). Survival was complication-free over the follow-up — illustrating, at single-case level, that conservative depth combined with strict enamel confinement is the durable combination, consistent with the El-Mowafy/Gurel penalty below.
+
+Mihali et al. (2022) provides direct cohort evidence for the prep-vs-no-prep equivalence at the material level: in 170 feldspathic veneers over 7 years, vertical-prep and no-prep survival curves did not differ (91.77% overall, p=0.247), and no-prep scored significantly better on esthetic form, occlusal wear, recurrent caries, and periodontal response. The same cohort surfaces a **thickness paradox** — 0.5 mm feldspathic veneers had zero fractures while thicker (>1.5–2 mm) veneers were more fracture-prone due to unsupported ceramic mass, reinforcing that adhesive luting (not bulk) governs thin-ceramic durability. Komine et al. (2024) supplies the substrate-recovery lever for the cases where enamel cannot be fully preserved: immediate dentin sealing (IDS) recovered survival from 81.8% (without) to 96.4% (with) at 11 years (citing Gresnigt), so IDS is the mitigation when dentin exposure is unavoidable.
+
+Kam-Hepdeniz et al. (2023) extends the minimally invasive principle to composite: a no-prep indirect microhybrid composite cohort (enamel-bonded) survived 91.3% at 84 months with zero tooth fracture, zero secondary caries, and zero antagonist wear — failures limited to 4 debondings and 3 (hard-food) fractures. It demonstrates that enamel confinement, not the ceramic material per se, is what carries the low-biologic-complication no-prep profile; the trade-off is a maintenance burden (surface roughness 56%, marginal discoloration 21% — polishable minor complications).
 
 The critical caveat (El-Mowafy 2018, Gurel et al. data): regardless of overall preparation invasiveness, any preparation that exposes a dentin or composite margin carries a 10× higher failure rate than enamel-confined margins. Minimally invasive does not mean margin-careless — enamel confinement is non-negotiable for prognosis.
 
@@ -201,7 +230,7 @@ The substrate penalty is equally important: composite core yields only 53% of th
 
 ---
 
-## Clinical Decision Threads [claude해석]
+## Clinical Decision Threads [미검증]
 
 *These represent synthesis-level interpretation and working hypotheses, not established protocol. Clinical decisions should incorporate individual case factors.*
 
@@ -215,7 +244,10 @@ The evidence from Ali (2023) argues against reflexive conventional preparation �
 Gonzalez-Martin et al. (2024) established that platinum foil and refractory die surfaces are not interchangeable at the same etching time. When prescribing to a dental laboratory, the technique used must be communicated back to the clinician so the correct etching protocol is applied at cementation (120 s platinum foil, 90 s refractory die, with 9.6% HF; 150 s adds no benefit). Sorensen (1992) and Sim (1993) confirm that platinum foil remains the gold standard for marginal fit despite its overcontouring trade-off — a relevant consideration when marginal integrity is the priority over pure contour accuracy.
 
 **Thread 4 — Composite veneer niche:**
-Composite laminate veneers (Lim 2023: 88% survival, 24–97 months) are a legitimate option for younger patients, high dental anxiety cases, or interim restorations where reversibility and repairability outweigh longevity. Their higher maintenance burden (surface roughness, color mismatch) makes them more labor-intensive over time. The direct method (91%) outperforms indirect (84%) in the available dataset — favoring chairside direct composite when composite is chosen. They should not compete with ceramic in cases where ≥10-year predictability with low reintervention is the treatment objective.
+Composite laminate veneers (Lim 2023: 88% survival, 24–97 months) are a legitimate option for younger patients, high dental anxiety cases, or interim restorations where reversibility and repairability outweigh longevity. Their higher maintenance burden (surface roughness, color mismatch) makes them more labor-intensive over time. The direct method (91%) outperforms indirect (84%) in the available dataset — favoring chairside direct composite when composite is chosen. Kam-Hepdeniz et al. (2023) shows that when composite is placed no-prep on enamel, indirect microhybrid composite can reach 91.3% at 84 months with a clean biologic profile, so enamel-bonded no-prep composite is a defensible middle path. They should not compete with ceramic in cases where ≥10-year predictability with low reintervention is the treatment objective.
+
+**Thread 5 — Hybrid resin-matrix ceramics (RMC) are restoration-type dependent:**
+Alghauli et al. (2025), a SR+MA, found that RMC (polymer-infiltrated ceramic network / resin-nanoceramic — PICN/RNC) laminate and occlusal veneers are comparable to lithium disilicate, and RMC inlays/onlays outperform direct composite, but RMC crowns carry higher complication rates than conventional ceramics. The clinical read is indication-specific: RMC is a favorable, LDS-equivalent choice for the **veneer** indication, but its milling-friendly machinability does not transfer to crown geometry, where it should be avoided.
 
 ---
 
@@ -236,3 +268,13 @@ Composite laminate veneers (Lim 2023: 88% survival, 24–97 months) are a legiti
 - [[veneers/reis-2025-minimally-invasive-feldspathic-laminate-12year-followup]] — 12+ year case report of thin (<0.5 mm) enamel-confined feldspathic laminates with zero complication; long-term clinical face on the Axis 1 feldspathic survival figure and the Axis 3 enamel-confinement / ≥50% enamel-bonding threshold
 - [[inlay/basheer-2026-cadcam-3dprinted-inlays-onlays-veneers-scoping]] — scoping review (30 studies, mostly in-vitro) mapping CAD/CAM milling vs 3D printing across inlays/onlays/veneers; extends Axis 4 fabrication to the digital milled-vs-printed divide (both ≤120 µm fit; milled = strength/speed, printed = adaptation/customization, veneers the top 3D-printing opportunity; no long-term trials). Primary category is inlay — only veneer-relevant findings integrated here
 - [[veneers/beuer-2025-ceramic-pcr-laminate-veneer-consensus]] — SSRD/SEPES/PROSEC consensus statement built on the Klein SR+MA; converts Axis 1/2 survival-complication data into clinical recommendations (recommend feldspathic/LRGC/LDS, bond to enamel, prefer butt-joint when preparing) and extends scope to posterior partial coverage restorations. Adds the consensus-level "what to do" layer to Axis 3
+
+### 신규 ingest cluster — 생존율·합병증 추가 근거 (2026-07-01, 5편)
+
+이 5편은 상위 메타분석(Klein 2025 / Morimoto 2016)의 생존율·합병증 서사를 실패 모드 위계·시간축·삭제-무삭제 코호트·복합레진/하이브리드 재료 축으로 정량 보강한다. (중복이던 `ceramic-veneer-survival-complications-overview`를 본 페이지에 흡수하며 통합.)
+
+- [[veneers/alghazzawi-2024-clinical-survival-rate-laboratory-failure-veneers]] — narrative-review; 실패 모드 위계 **파절 > 탈락 > 색변화** 정립, >90% 10년+ 생존, 법랑질 보존을 최상위 생존 결정인자로 지목 (유리세라믹 450 MPa vs 장석 60~70 MPa 파절 저항 기전)
+- [[veneers/komine-2024-clinical-performance-laminate-veneers-review]] — narrative-review (55편); 시간별 생존 95.1~100%(≤5y)→72.6~95.0%(>10y), 연간 개입률 0.6→1.78, 재료별 하한 feldspathic 64% / LRG 76% / LDS 87%; IDS 11년 96.4% vs 81.8%, 이갈이 splint 8년 89.1% vs 63.9%
+- [[veneers/mihali-2022-feldspathic-ceramic-veneers-retrospective-7year]] — retrospective (170개·7년); prep vs no-prep 생존 차이 없음(91.77%, p=0.247), 0.5mm 장석 파절 0건 vs 두꺼운 비니어 파절↑ 두께 역설
+- [[veneers/kam-hepdeniz-2023-no-prep-indirect-composite-laminate]] — prospective; 무삭제 간접 복합레진 84개월 91.3%(Kaplan-Meier), 치아파절·이차우식·대합치 마모 0건, 표면 거칠기 56%·변연 착색 21%가 주요 minor 합병증
+- [[dental-materials/alghauli-2025-clinical-complications-survival-rate-resin]] — sr+ma; 하이브리드 RMC(PICN/RNC)는 비니어·교합면 비니어에서 LDS와 동등, inlay/onlay는 direct composite보다 우수, 크라운은 합병증↑ — 수복물 형태 의존

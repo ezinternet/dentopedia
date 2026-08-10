@@ -6,18 +6,26 @@ date: 2023-08-25
 doi: 10.1111/prd.12508
 source: mardas-2023-alveolar-ridge-preservation-overtreatment.md
 category: [bone-regeneration/ridge-preservation]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/mardas-2023-alveolar-ridge-preservation-overtreatment.pdf
 pdf_filename: mardas-2023-alveolar-ridge-preservation-overtreatment.pdf
 source_collection: external
 tags: [alveolar-ridge-preservation, arp, socket-graft, socket-sealing, gbr, overtreatment, decision-framework]
 ---
 
-## One-line Summary
-Critical narrative review (Periodontology 2000, open access): examining evidence for each of ARP's four objectives, the authors conclude ARP is safe and effective but may constitute overtreatment in posterior sites with thick bony walls, sites planned for immediate implant, and sites already staged for augmentation — where the incremental benefit over natural healing is insufficient.
+## Three-line Summary
+Critical narrative review (Periodontology 2000, open access; Mardas, Macbeth, Donos, Jung, Zuercher) examining evidence for each of ARP's four canonical objectives: limiting dimensional change, promoting new bone formation, preserving soft tissue contour, and enabling implant placement without further augmentation.
 
-## 한줄요약
-비판적 종설 (Periodontology 2000, 오픈액세스): 치조제 보존술 (Alveolar Ridge Preservation, ARP)의 네 가지 목표(차원 변화 제한, 신생골 형성, 연조직/윤곽 유지, 추가 증대술 없이 임플란트 식립)별 근거를 검토하고, ARP는 안전·유효하지만 후방 두꺼운 골벽 부위·즉시식립 예정 부위 등에서는 자연치유 (Unassisted Healing) 대비 의미있는 추가 이득이 부족해 과잉치료가 될 수 있다고 결론.
+ARP reduces horizontal loss by ~1.5–2 mm and vertical mid-buccal loss by ~1–1.5 mm but does not consistently increase vital bone formation, and the incremental benefit over natural healing is insufficient in posterior sites with thick bony walls, sites planned for immediate implant, and sites already staged for augmentation.
+
+The paper offers a scenario-based decision framework distinguishing socket graft vs socket sealing as functionally different ARP strategies, repositioning ARP as a scenario-dependent intervention rather than a universal post-extraction default.
+
+## 세줄요약
+비판적 종설 (Periodontology 2000 오픈액세스; Mardas 외): ARP의 네 가지 목표 — ①차원 변화 제한, ②신생골 형성, ③연조직/윤곽 유지, ④추가 증대 없이 임플란트 식립 — 각각의 근거를 검토.
+
+ARP는 수평 흡수 ~1.5–2 mm, 수직 협측 흡수 ~1–1.5 mm를 줄이지만 신생 생활골 형성을 일관되게 증가시키지 못하며, 후방 두꺼운 골벽·즉시식립 예정 부위·이미 증대 계획 부위에서는 자연치유 대비 증분 이익이 불충분하다.
+
+소켓 이식 vs 소켓 실링을 기능적으로 구분하는 시나리오 기반 의사결정 틀을 제시하여, ARP를 발치 후 기본값이 아닌 상황 의존적 중재로 재정의한다.
 
 ## Summary
 This **critical narrative review** in Periodontology 2000 examines whether **alveolar ridge preservation (ARP)** is universally indicated or selectively useful. The authors structure the analysis around ARP's four canonical objectives — (1) limiting postextraction dimensional change, (2) promoting new bone formation in the socket, (3) preserving soft tissue contour, and (4) enabling implant placement without further augmentation — and grade the evidence for each. Drawing on prior SRs (Tan 2012, Avila-Ortiz 2014, Couso-Queiruga 2021), they conclude that ARP **reduces but does not eliminate** horizontal/vertical ridge loss, **does not consistently increase vital bone formation** (and may delay it due to residual graft particles), and **improves soft tissue/contour outcomes mainly via socket-sealing techniques**. The added benefit is greatest in the **anterior maxilla with thin buccal walls** and smallest in posterior sites with thick walls — where ARP risks becoming overtreatment. The paper offers a scenario-based decision framework rather than a universal recommendation.

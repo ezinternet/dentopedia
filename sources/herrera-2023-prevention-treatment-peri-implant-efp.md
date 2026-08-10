@@ -9,8 +9,18 @@ pdf_filename: herrera-2023-prevention-treatment-peri-implant-efp.pdf
 source_collection: external
 ---
 
-## One-line Summary
-EFP S3 clinical practice guideline for prevention and treatment of peri-implant mucositis and peri-implantitis; 13 commissioned SRs; structured recommendations covering pre-implant to supportive care.
+## Three-line Summary
+EFP S3 clinical practice guideline for prevention and treatment of peri-implant mucositis and peri-implantitis: 13 commissioned systematic reviews;
+
+structured recommendations covering pre-implant assessment through long-term supportive peri-implant care.
+
+(see methodology).
+## 세줄요약
+EFP S3 수준 임상 진료 지침(주위염 질환 예방·치료): 임플란트 계획·식립·로딩·지지 치료 전 과정 포괄; 13개의 주문형 체계적 문헌고찰 기반.
+
+주위염의 위험인자: 치주염 병력(가장 강함), 불량한 플라크 관리, 흡연, 당뇨병, 부적절한 각화 점막, 시멘트 초과; 예방 권고: 임플란트 전 치주염 치료, 개선 가능한 위험인자 최적화, 충분한 각화 점막.
+
+임상적 의미: 구조적 지지 임플란트 주위 관리(SPIC) 프로그램의 도입·유지가 주위염 발생 억제의 핵심; 주위염 발생 시 비수술적 기계 제거에서 시작하고 필요시 외과적 접근, 임플란트 표면 제균 필수.
 
 ## 1. Document Information
 - **Journal**: Journal of Clinical Periodontology 2023; 50(Suppl. 26): 4–76

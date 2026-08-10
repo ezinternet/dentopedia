@@ -1,0 +1,575 @@
+INTRODUCTION
+
+The antagonist tooth wear is the process of occlusal wear of the tooth in one jaw caused by the slide or contact of the occlusal surfaces of the tooth or restorative material in the other jaw. Occlusion, tone of muscles, joint conditions, personal eating habits, parafunctional behaviors, neuromuscular forces, and the kind of restorative materials – such as ceramics, metals, or composites – all affect wear patterns.[]
+
+Any material can wear down or abrade another material, including enamel. The wear characteristics of dental restoration materials are different from those of natural teeth and can alter the opposing enamel’s rate of deterioration. The wear resistance of the restorative material and enamel should ideally be comparable because excessive wear could result in clinical issues such as dentine hypersensitivity, deterioration of the teeth’s occlusive surfaces, loss of the vertical dimension, poor masticatory function linked to temporomandibular joint remodeling, and esthetic impairment.[] Thus, when choosing restorative materials, it is important to take into account the enamel wear brought on by restorations.
+
+According to Lambrechts., opposing enamel wears down by 20–40 μm annually on average.[] The finest restorative material has been and is still thought to be gold alloy since it wears and acts the most like enamel. However, because of its esthetic shortcomings and financial constraints, it is frequently disregarded in favor of alternatives that appear more “natural.” For many years, porcelain has served as an esthetic substitute for gold alloy in a variety of applications. The most common type of this restoration is feldspathic porcelain bonded to a metal substructure. It is said that feldspathic porcelain is wear-resistant, brittle, abrasive, and sensitive to polishing techniques.[,] The manufacturer created modern porcelain systems (ceramics) such as yttrium tetragonal zirconia, glass-infiltrated alumina, lithium disilicate, and leucite-reinforced glass ceramics to overcome this.[] The antagonist natural enamel wears less on surfaces that are highly polished and glazed. These all-ceramic materials have been shown to be esthetically pleasing, long-lasting, chemically inert, biocompatible, and resistant to wear and fractures in practical use. All-ceramics has attempted to address the issue of excessive enamel wear, but the solution has not been perfected as each material shows varying rates of wear on antagonist natural enamel.[,,]
+
+Because of zirconia’s superior mechanical qualities such as its high strength, fracture toughness, and biocompatibility, it has gained popularity in recent decades.[] Even though zirconia has outstanding physical qualities, veneer chipping is one of its primary causes for failure. To prevent veneer chipping, dental manufacturers created monolithic zirconia prostheses, which are dependent on the material’s strength and toughness.[]
+
+Compared to alternative ceramic or metal-ceramic restorations, monolithic zirconia crowns have been demonstrated to generate less opposing enamel wear in a number ofandtests. Furthermore, compared to glazed zirconia, polished zirconia may show less enamel wear.[,,,,,,,,]
+
+The clinical assessment of monolithic zirconia-induced enamel wear and other dental ceramics has been reported in various systematic reviews but not all the reviews compared zirconia with other dental ceramics; hence, it was essential to combine all those systematic reviews to compare the antagonist enamel wear against zirconia and other dental ceramics to come to one conclusion for clinicians to select the best material for crown and bridge which causes least antagonist enamel wear.
+
+Therefore, the purpose of this umbrella study was to thoroughly examine the systematic reviews on antagonist enamel wear opposing zirconia crowns compared to other ceramics and natural enamel.
+
+MATERIALS AND METHODS
+
+The Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) standards were followed in the conduct of this umbrella review, which was first registered in PROSPERO (Registration number CRD42023430885).
+
+The focused question was “Do zirconia crowns, as opposed to natural enamel and other dental ceramics, cause greater wear of antagonist enamel?” The PICOTS, i.e. the Population, Intervention, Comparison, Outcome, Time Period, and Study Design format was used [].
+
+The inclusion criteria were systematic reviews with or without a meta-analysis that evaluate the antagonist enamel wear, studies on tooth wear against zirconia crowns, studies involving tooth wear against different types of ceramic crowns, and publications in the English language with a follow-up time of 6–24 months. A literature review, case reports, case series, cohort, case–control, cross-sectional, animal, andorexperimental research were among the exclusion criteria, as were investigations on ceramic restorations other than crowns.
+
+An electronic search was done for papers published between January 1, 2013, and January 1, 2023, using the databases Cochrane Central, EBSCOhost, PubMed (including MEDLINE), and Google Scholar.
+
+The MeSH terms and free text terms were obtained by searching key concepts in the MeSH database and a thorough evaluation of related articles, thesaurus, dictionaries, and entry terms. Using the appropriate Boolean operators (AND, OR, and NOT), terms such as “crowns,” “dental crowns,” “tooth wear,” “dental enamel,” “antagonist,” “occlusal wear,” “enamel wear,” zirconia, zirconi, and “zirconium dioxide,” “ceramic crowns,” “full ceramic crowns,” “metal ceramic,” “feldspathic porcelain,” and “ithium disilicate” were combined [].
+
+Two reviewers (HN and BA) carried out an independent electronic search. An electronic search yielded 86 items in total. The resulting articles were analyzed to check for duplicates. The PRISMA 2020 flow diagram provides a thorough explanation of the data selection process [].
+
+The study characteristics of each systematic review were extracted, including study details, search details, analysis, and results/findings by two independent reviewers (HN and BA). In the event that there was still a dispute between the two calibrated reviewers, a third reviewer (PB) was consulted. Inter-reviewer reliability was checked through Cohen’s kappa coefficient.[] The Cohen’s kappa coefficient values obtained for title, abstract, and full-text screening were 0.63, 0.68, and 0.75, respectively, indicating moderate inter-reviewer agreement for title, abstract, and full-text screening.
+
+A meta-analysis was not carried out because of variations in the study design, measurement techniques, and outcome variables.
+
+The Assessment of Multiple Systematic Reviews (AMSTAR)-2 criteria were used to independently evaluate the quality of the chosen articles [].[]
+
+Table 1
+
+Population, Intervention, Comparators, Outcomes, and Timing/Setting criteria
+
+PICOTS
+
+Characteristics
+
+Population
+
+Participants receiving full-coverage crowns
+
+Intervention
+
+Full-coverage crowns of zirconia
+
+Comparison
+
+Full-coverage crowns of different types of ceramics (feldspathic porcelain, leucite-reinforced glass ceramic, lithium disilicate glass-ceramic, glass-infiltrated alumina, and yttrium tetragonal zirconia, porcelain fused to metal) and natural enamel
+
+Outcome
+
+Wear of antagonist enamel
+
+Time period
+
+Follow-up of 6–24 months
+
+Study design
+
+An umbrella review
+
+PICOTS: Population, Intervention, Comparators, Outcomes, Timing/Setting
+
+Table 2
+
+Population, intervention, comparators, and outcomes concept table
+
+PICO
+
+Population
+
+Intervention
+
+Comparison
+
+Outcome
+
+Key concepts
+
+Participants receiving full-coverage crowns
+
+Full-coverage crowns of zirconia
+
+Full-coverage crowns of different types of ceramics
+
+Antagonist enamel wear
+
+ControlledVocabularyTerms (MeSH terms)
+
+Crowns
+
+Yttria-stabilized tetragonal zirconiaZirconium oxide
+
+CeramicsLithia disilicateDental porcelain
+
+Dental enamelEnamel microabrasionTooth wearDental restoration wear
+
+Free textTerms/textWords/TiAb
+
+CrownDental crownsDental crownCrown, dentalCrowns, dental
+
+Y-TZP ceramicYttria-stabilized tetragonal zirconia polycrystal[All Fields] AND ("ceramics"[MeSH Terms] OR ceramic[Text Word])Zirconium dioxideZirconiaZirconium oxide hydrateZirconium oxide, (95) Zr-labeled
+
+CeramicLithium disilicatePorcelainPorcelain, dentalDental porcelainsPorcelains, dental
+
+EnamelDental enamelEnamels, dentalEnamel cuticleDental microabrasionEnamel microabrasionsTooth wearsDental wearRestoration occlusal wearWear, restoration occlusal
+
+PICO: Population, intervention, comparators, and outcomes
+
+Table 3
+
+Quality risk assessment by the assessment of multiple systematic reviews-2 tool
+
+AMSTAR-2 checklist
+
+Hmaidouch and Weigl[]
+
+Gou.[]
+
+Solá-Ruíz.[]
+
+León Velastegui,.[]
+
+Did the research questions and inclusion criteria for the review include the components of PICO?
+
+Partially yes
+
+Yes
+
+Yes
+
+Yes
+
+Did the report of the review contain an explicit statement that the review methods were established before the conduct of the review and did the report justify any significant deviations from the protocol?
+
+No
+
+No
+
+Yes
+
+Yes
+
+Did the review authors explain their selection of the study designs for inclusion in the review?
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Did the review authors use a comprehensive literature search strategy?
+
+Partially yes
+
+Partially yes
+
+Partially yes
+
+Partially yes
+
+Did the review authors perform study selection in duplicate?
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Did the review authors perform data extraction in duplicate?
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Did the review authors provide a list of excluded studies and justify the exclusions?
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Did the review authors describe the included studies in adequate detail?
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Did the review authors use a satisfactory technique for assessing the RoB in individual studies that were included in the review?
+
+No
+
+No
+
+Yes
+
+Yes
+
+Did the review authors report on the sources of funding for the studies included in the review?
+
+Yes
+
+No
+
+Yes
+
+Yes
+
+If meta-analysis was performed, did the review authors use appropriate methods for statistical combination of results?
+
+NMC
+
+NMC
+
+Yes
+
+Yes
+
+If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis or other evidence synthesis?
+
+NMC
+
+NMC
+
+Yes
+
+Yes
+
+Did the review authors account for RoB in individual studies when interpreting/discussing the results of the review?
+
+No
+
+No
+
+Yes
+
+Yes
+
+Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?
+
+No
+
+No
+
+Yes
+
+Yes
+
+If they performed quantitative synthesis, did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?
+
+NMC
+
+NMC
+
+Yes
+
+No
+
+Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?
+
+Yes
+
+No
+
+Yes
+
+Yes
+
+NMC: No meta-analysis conducted, AMSTAR: Assessment of multiple systematic reviews, RoB: Risk of bias, PICO: Population, intervention, comparators, and outcomes
+
+Figure 1
+
+The Preferred Reporting Items for Systematic Reviews and Meta-Analyses 2020 flow diagram
+
+RESULTS
+
+Eighty-six articles were found through electronic searches, and they were compared meticulously with respect to the author’s name, year of publication, title, abstract, as well as the journal name, issue, and volume number. After thorough checking, five duplicate articles were identified and subsequently eliminated leaving behind 81 articles. The pertinent titles of the studies that were discovered by the computerized search were independently examined by two calibrated reviewers (HN and BA). Following a title screening, 73 items were removed out of a total of 81. Hence, reviews of the literature, scoping reviews, randomized controlled trials, clinical trials, case reports, case series, or papers about various restorative materials were among the articles that were removed. The abstracts of the papers that were deemed pertinent after the title screening were now independently reviewed by two calibrated reviewers (HN and BA). One article was eliminated as it was not retrieved even after contacting the authors of the article []. Three articles were further excluded after the abstract screening.[,,] The articles eliminated through abstract screening werestudies. Hence [], four articles were selected after abstract screening and thus were included in this umbrella review.
+
+If there was still a dispute between the two calibrated reviewers over the choice of article, a third reviewer (PB) was consulted.
+
+The study characteristics of each systematic review were extracted by two independent reviewers (HN and BA), including study details (title, author, journal, publication year, article type, number of reviewed articles, type of analyzed articles, and the conclusion in correspondence to purpose), type of restorative material used, wear quantification method, wear quantification unit and time frame, search details, appraisal, analysis, and result/findings [Tablesand]. Discussion with a third reviewer (PB) resolved any disagreements between the reviewers.
+
+By selecting “yes,” “partial yes,” or “no” for each of the 16 criteria on the AMSTAR 2 checklist, two investigators independently evaluated the risk of bias (RoB) of the systematic reviews that were included. “No meta-analysis conduct” is the designation given to systematic reviews that did not include a meta-analysis. Each included systematic review’s overall confidence was rated as “high,” “moderate,” “low,” or “critically low.” The seven domains that were judged essential for a systematic review and meta-analysis to determine overall confidence were 2, 4, 7, 9, 11, 13, and 15. The two reviewers did not dispute with each other. Using the AMSTAR-2 critical appraisal tool,[] two studies[,] were rated as high quality and two studies (Hmaidouch and Weigl,[] in 2013, and Gou.,[] in 2019) were rated as critically low quality.
+
+Majority of the studies compared the antagonist enamel wear against monolithic zirconia crowns with lithium disilicate and feldspathic porcelain crowns taking natural enamel as a comparison group. Most of the studies have used a three-dimensional (3D) scanner (image superimposition) technique as a wear quantification method and μm, mmas a wear quantification unit. All of the studies had follow-up periods ranging from 6 to 24 months. The majority of research had focused on posterior teeth as a location for crowns and evaluated antagonist enamel wear. The findings showed that zirconia had considerably less antagonist wear than feldspathic groups, and surface polishing had less enamel wear than glazing.
+
+Supplementary Table 1
+
+Excluded studies (3)
+
+Study ID
+
+Author
+
+Year
+
+Title
+
+1
+
+Passos.[]
+
+2013
+
+wear behavior of zirconia opposing enamel: A systematic review
+
+2
+
+Aljomard.[]
+
+2020
+
+Enamel wear against monolithic zirconia restorations: A meta-analysis and systematic review ofstudies
+
+3
+
+Ghaffari.[]
+
+2022
+
+Natural teeth wear opposite to glazed and polished ceramic crowns: A systematic review
+
+Supplementary Table 2
+
+Included studies (4)
+
+Study ID
+
+Author
+
+Year
+
+Title
+
+1
+
+Hmaidouch and Weigl[]
+
+2013
+
+Tooth wear against ceramic crowns in the posterior region: A systematic literature review
+
+2
+
+Gou.[]
+
+2018
+
+Antagonist enamel wear of tooth-supported monolithic zirconia posterior crowns: Systematic review
+
+3
+
+Solá-Ruíz.[]
+
+2020
+
+Wear in antagonist teeth produced by monolithic zirconia crowns: A systematic review and meta-analysis
+
+4
+
+León Velastegui.[]
+
+2022
+
+Enamel wear of antagonist tooth caused by dental ceramics: Systematic review and meta-analysis
+
+Table 4
+
+Summary of included studies with study characteristics
+
+Study ID
+
+Title
+
+Author name
+
+Year
+
+Study type
+
+Studies included
+
+Time frame
+
+Wear quantification unit
+
+Wear quantification method
+
+1
+
+Tooth wear against ceramic crowns in the posterior region: A systematic literature review
+
+Hmaidouch and Weigl[]
+
+2013
+
+SR -
+
+5
+
+6 months–3 years
+
+μm, mm
+
+Noncontacting laser profile meter, 3D laser scanner
+
+2
+
+Antagonist enamel wear of tooth-supported monolithic zirconia posterior crowns: A SR
+
+Gou.[]
+
+2018
+
+SR -
+
+5
+
+12–24 months
+
+μm, mm
+
+3D scanner
+
+3
+
+Wear in antagonist teeth produced by monolithic zirconia crowns: A SRMA
+
+Solá-Ruíz.[]
+
+2020
+
+SRMA -
+
+4
+
+12–24 months
+
+μm, mm
+
+3D scanner (image superimposition)
+
+4
+
+Enamel wear of antagonist tooth caused by dental ceramics: SRMA
+
+León Velastegui.[]
+
+2022
+
+SRMA -
+
+12
+
+3–24 months
+
+μm, mm
+
+Intraoral scanner BluecamPVS impression/cast scanned using a 3D white light scannerIntraoral scannerPVS impression scanned with noncontacting laser profile meterSEM, PVS impressions/cast scanned by a 3D laser scanner
+
+3D: Three-dimensional, PVS: Polyvinyl siloxane, SEM: Scanning electron microscopy, SRMA: Systematic review and Meta-analysis, SR: Systematic review
+
+Table 5
+
+Outcome of the included studies
+
+Study ID
+
+Title
+
+Study group
+
+Comparison group
+
+Conclusion
+
+1
+
+Tooth wear against ceramic crowns in the posterior region: A systematic literature review[]
+
+Metal ceramic (IPS classic feldspathic porcelain)All ceramic-lithium disilicate
+
+Enamel
+
+It can be assumed that when enamel is opposed by unglazed and unpolished ceramic surface, the wear rate of enamel is higher than when opposed by glazed or polished one
+
+2
+
+Antagonist enamel wear of tooth-supported monolithic zirconia posterior crowns: A SR[]
+
+Monolithic zirconia
+
+Enamel
+
+Antagonist enamel wear of zirconia was similar to or more than that of natural teeth but less than that of metal ceramics
+
+3
+
+Wear in antagonist teeth produced by monolithic zirconia crowns: A SRMA[]
+
+Monolithic Zirconia Crowns
+
+Enamel
+
+Monolithic zirconia crowns cause greater wear of the antagonist tooth over time
+
+4
+
+Enamel wear of antagonist tooth caused by dental ceramics: SRMA[]
+
+Lithium disilicate, feldspathic, zirconia, ZLS, monolithic zirconia
+
+Enamel
+
+Feldspathic produces greater wear from ceramic restorations. Zirconia generates the least wear that will decrease over time, and it will be equal to or less than the natural wear in the tooth
+
+ZLS: Zirconia-reinforced lithium silicate, SRMA: Systematic review and meta-analysis
+
+DISCUSSION
+
+An umbrella review is used to quickly assess a large amount of evidence and compare the findings of previous systematic reviews. As so, they constitute one of the greatest degrees of evidence synthesis that are presently accessible. An umbrella review assesses and synthesizes the findings of several systematic reviews to improve readability, eliminate ambiguities, spot possible knowledge gaps, and compile the essential facts about the subject of interest into a comprehensive reference work. Therefore, an umbrella review approach was used in an attempt to compile the evidence on the material of choice for crown and bridge causing least antagonist enamel wear.
+
+This umbrella review was performed to evaluate systematic reviews on tooth wear against zirconia and ceramic crowns in the posterior region insituations. Detailed full-text analysis of these four reviews revealed that in two of them (Gou., in 2019, Solá-Ruíz., in 2020),[,] the authors made the same investigation and evaluated the antagonist enamel wear against monolithic zirconia.
+
+In most of the studies,[,,,] the quantity of worn dental tissues was measured after cementing the crowns; impressions were made of each of the maxillary and mandibular arches at 1 week (baseline), and after 6 months, 1 year, and 2 years. Using type IV gypsum, a dental technician formed the resulting gypsum casts, which were then scanned with the same 3D laser scanner. In a study by Hmaidouch and Weigl,[] in 2013, a noncontacting laser profilometer was used to digitize the impressions of the reconstructed teeth and their opponent to quantify wear. To quantify the wear, different software brands were used to calculate the difference between the original and final images of the scanned casts or impressions using 3D superimposition.
+
+According to the findings of Solá-Ruíz.,[] a tooth that is antagonistic to monolithic zirconia crowns can experience maximum wear of 6.13 μm per month, while monolithic zirconia crowns can endure maximum wear of 3.40 μm per month.
+
+In the study by Hmaidouch and Weigl.,[] the accelerated loss of enamel is not correlated with ceramic hardness; rather, it is more influenced by ceramic microstructure and roughness. Consequently, surface treatment of ceramics to preserve their smooth surface during clinical use was crucial in preventing wear of the opposing tooth structure. In the first 2 years, there was no discernible correlation between bite force and tooth wear. However, bite force had a substantial impact on contralateral antagonist enamel wear in the 3year.[]
+
+León Velastegui.[] determined the mean amount of linear antagonist wear resulting from the different types of ceramic: 8.9149 μm for feldspathic, 0.0189 μm for lithium disilicate, and 0.2574 μm for zirconia. The material that causes the most wear in dental tissue is feldspathic ceramic; intermediate wear is caused by lithium disilicate; and the least amount of wear is caused by zirconia in linear terms.[] Wear increased over time, while the antagonistic enamel wear rate decreased over time. A possible reason is that break-in wear takes over immediately after restorations are placed and levels off within approximately 2 years due to reduced occlusal loading. It has been reported that molars experience more wear than premolars because of the greater occlusal force. A natural tooth also causes physiological wear. According to the study,[] it averages 29 μm in molars and 15 μm in incisors during 1 year.
+
+Gou.[] state that compared to glazed zirconia, polished zirconia has been reported to result in less antagonist tooth wear. This may be the result of thinner, weaker glazing layers that, even in the absence of any prior occlusal adjustment, will deteriorate during the first few months of the restorations being inserted. This raises the likelihood of wear by exposing the uneven surface. Therefore, to mitigate the negative impact of roughened ceramic materials on the wear of opposing teeth, the restorations should be suitably polished following any occlusal modifications made during cementation. Gou.[] reported that the wear of zirconia antagonist enamel exceeded that of monolithic zirconia crowns.
+
+Four databases were thoroughly searched to reduce the bias in the evidence selection process. This umbrella review is somewhat biased due to selection bias, even with its extensive efforts, as the search approach did not include any gray literature. There was also usage of the English language filter. This could lead to missing out of certain potential research articles. The evaluation of publication bias has not been conducted here due to the insufficient number of research for each parameter to properly detect this kind of bias. Any intentional divergence from reality during the collection, recall, recording, and administration of study data is referred to as information bias. By having two reviewers (HN and BA) separately examine the data and a third reviewer (PB) reconcile any discrepancies between the two reviewers, this bias has been reduced to a minimum.
+
+An umbrella review’s evidence must be just as strong or impartial as that of the original data sources. It is necessary to evaluate each included study for significant sources of bias. Here, the RoB in the various research has been determined using the AMSTAR-2 critical evaluation technique.
+
+The study designs, measurement techniques, and outcome variables used in each of the included studies in this comprehensive review demonstrated heterogeneity. Therefore, it was not possible to do a quantitative analysis using a meta-analysis.
+
+This umbrella review had two limitations: first, it only included English-language publications in its search results; second, due to the heterogeneity of the included systematic reviews, a meta-analysis was not conducted.
+
+CONCLUSION
+
+Over time, the opposing enamel wear caused by polished monolithic zirconia will be either equal to or less than that of natural enamel wear. Polished monolithic zirconia also maintains lower values of enamel wear compared to metal ceramics, feldspathic porcelains, and lithium disilicate.
+
+Financial support and sponsorship
+
+Nil.
+
+Conflicts of interest
+
+There are no conflicts of interest.

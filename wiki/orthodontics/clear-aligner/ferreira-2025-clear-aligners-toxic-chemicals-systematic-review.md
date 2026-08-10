@@ -6,7 +6,7 @@ date: 2025-05-10
 doi: "10.3390/jfb16050173"
 source: ferreira-2025-clear-aligners-toxic-chemicals-systematic-review.md
 category: [orthodontics/clear-aligner]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "40422837"
@@ -22,13 +22,21 @@ relations:
     target: thakur-2026-probiotics-clear-aligner-biofilm-rct
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (7 in-vitro/in-vivo studies, PRISMA/QUIN) concluding clear aligners are generally safe but with residual concern over thermoplastic chemical leaching (BPA below toxic limits), thermoforming-increased cytotoxicity, and moderate cytotoxicity in some materials (notably Biolon, 64.6% viability; 5 of 7 studies judged safe).
+Systematic review (PRISMA/QUIN, 413 records screened, 7 in-vitro/in-vivo studies included) on whether clear aligner thermoplastic materials release toxic chemicals — the first SR restricted to aligners alone, excluding multi-material orthodontic devices.
 
-## 한줄요약
+5 of 7 studies concluded clear aligners are safe for clinical use; cell viability ranged from Duran (84.6%, lowest cytotoxicity) to Biolon (64.6%, highest); BPA was detectable but generally within regulatory limits; thermoforming significantly increased cytotoxicity, especially for TPU and Zendura materials.
 
-체계적 문헌고찰(7편 in-vitro/in-vivo, PRISMA/QUIN)로, 투명교정장치는 대체로 안전하나 열가소성 소재의 화학물질 용출(BPA는 독성 기준 이하), 열성형 시 세포독성 증가, 일부 소재(특히 Biolon 64.6% 생존율)의 중등도 세포독성이 잔존 우려이며 7편 중 5편이 "안전"으로 결론.
+Residual concerns include long-term cumulative chemical exposure (particularly for adolescents/pregnant women) and endocrine-disruptor risk from BPA substitutes (BPS/BPF); clinical advice is to avoid hot/acidic beverages while wearing aligners and maintain meticulous hygiene.
+
+## 세줄요약
+
+체계적 문헌고찰 (PRISMA/QUIN, 413건 검색, 7편 포함): 투명교정장치 단독만 포함한(다재료 장치 제외) 최초 SR로, 열가소성 소재의 화학물질 독성 여부를 검토.
+
+7편 중 5편이 임상 사용 안전 결론; 세포생존율은 Duran(84.6%, 독성 최소)부터 Biolon(64.6%, 독성 최대) 범위; BPA는 검출되나 규제 기준 이하; 열성형이 세포독성을 유의하게 높임(특히 TPU·Zendura).
+
+잔존 우려사항: 청소년·임산부의 장기 누적 노출, BPA 대체물질(BPS·BPF)의 내분비계 교란 가능성; 임상 권고는 착용 중 뜨겁거나 산성 음료 회피, 철저한 구강위생 유지.
 
 ## Summary
 

@@ -6,7 +6,7 @@ date: 2022-05-01
 doi: 10.4317/medoral.25265
 source: otero-2022-informed-consent-dentistry-medicine-spain.md
 category: [behavioral-dentistry/communication-relationship]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: true
 pmid: "35368004"
@@ -20,13 +20,21 @@ relations:
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review of Spanish informed-consent (IC) law and jurisprudence plus an INFLESZ readability analysis of official dental ICDs: IC is a care PROCESS in which the signature is the last link (it is NOT the ICD form), defective IC has produced more convictions than malpractice, and every analysed dental ICD (INFLESZ 41.24–52.18) fell below the 55-point readability threshold for the general Spanish public.
+Narrative/legal review of Spain's Law 41/2002 and jurisprudence, plus INFLESZ readability analysis of 9 official dental informed-consent documents (ICDs) spanning orthodontics, implant, filling, extraction, endodontics, periapical surgery, pulp treatment, periodontics, and oral surgery — establishing that IC is a care process, not a document, with the signature as merely the last link.
 
-## 한줄요약
+Approximately 90% of legal claims against dentists relate to defects in information transmission, and to date more practitioners have been convicted for defective IC than for malpractice; omission or defective IC generates civil liability for physical and moral damage even when no malpractice existed.
 
-스페인 사전동의(Informed Consent, IC) 법·판례 내러티브 리뷰 + 공식 치과 동의서(ICD)의 가독성(INFLESZ) 분석: IC는 서명이 마지막 고리인 '진료 과정'이지 동의서 문서가 아니며, 결함 있는 IC가 의료과실보다 더 많은 유죄판결을 냈고, 분석한 9개 치과 ICD 모두 일반 대중 접근 기준(55점) 미만으로 "다소 읽기 어려움"이었다.
+All 9 analysed dental ICDs scored INFLESZ 41.24–52.18, all below the 55-point threshold for general-public accessibility ("somewhat difficult"), confirming that a signed form does not ensure the patient read or understood the content.
+
+## 세줄요약
+
+스페인 법률 41/2002 및 판례 검토 + 9개 공식 치과 동의서(Informed Consent Document, ICD; 교정·임플란트·충전·발치·근관치료·치근단수술·미성숙치수치료·치주·구강외과)의 INFLESZ 가독성 분석: 사전동의(IC)는 서명이 마지막 고리인 진료 과정이지, 동의서 문서 자체가 IC가 아니다.
+
+치과의사·의사에 대한 법적 청구의 약 90%가 정보 전달 결함과 IC 결함에서 비롯되며, 현재까지 의료과실보다 결함 있는 IC로 인한 유죄판결이 더 많다; IC 누락·결함은 과실 없이도 민사상 신체적·정신적 손해 배상 책임을 유발한다.
+
+분석한 9개 치과 ICD 모두 INFLESZ 41.24–52.18점으로 일반 대중 접근 기준(55점) 미만("다소 어려움")이며, 서명했다고 읽고 이해했음을 의미하지 않는다.
 
 ## Summary
 

@@ -6,18 +6,28 @@ date: 2024-10-01
 doi: 10.1016/j.joen.2024.07.005
 source: artaza-2024-outcome-nonsurgical-root-canal-treatment.md
 category: [endodontics/irrigation]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/artaza-2024-outcome-nonsurgical-root-canal-treatment.pdf
 pdf_filename: artaza-2024-outcome-nonsurgical-root-canal-treatment.pdf
 source_collection: external
 tags: []
 ---
 
-## One-line Summary
-Retrospective study (199 teeth/184 patients, single operator, NaOCl single-visit protocol, >1–8 y follow-up): nonsurgical RCT of large apical periodontitis lesions healed/healing in 89% (loose) / 67% (rigid) for initial treatment and 79% / 47% for retreatment; previous abscess, antibiotic use, lesions ≥10 mm, and sinus tract worsened outcome, and CBCT-evaluated cases showed lower healed rates.
+## Three-line Summary
 
-## 한줄요약
-후향연구(199개 치아/184명, 단일 술자, NaOCl 1회내원 프로토콜, 1~8년 추적): 큰 근단치주염 병소의 비수술적 근관치료 성공률은 초치료 89%(loose)/67%(rigid), 재치료 79%/47%였고, 과거 농양·항생제 사용·10 mm 이상 큰 병소·누공이 예후를 악화시켰으며 CBCT로 평가한 경우 치유율이 더 낮았다.
+Retrospective study (199 teeth / 184 patients, single operator, predominantly single-visit NaOCl protocol, >1–8 years follow-up) evaluating nonsurgical root canal treatment and retreatment of large apical periodontitis lesions.
+
+Favorable outcomes were achieved in 89% (loose) / 67% (rigid) of initial treatments and 79% (loose) / 47% (rigid) of retreatments; previous abscess, antibiotic use, lesions ≥10 mm, and sinus tract worsened prognosis, and CBCT-evaluated cases showed lower healed rates than radiograph-evaluated cases.
+
+Nonsurgical treatment is a valid first-line approach even for large apical periodontitis lesions, but outcome figures depend on assessment modality (CBCT vs 2D radiograph) and lesion severity.
+
+## 세줄요약
+
+후향 연구(치아 199개/환자 184명, 단일 술자, NaOCl 단회내원 프로토콜 우세, 1~8년 추적): 큰 근단치주염 병소의 비수술 근관치료·재치료 결과를 평가.
+
+초치료 성공률 89%(loose)/67%(rigid), 재치료 79%/47%; 과거 농양력·항생제 사용·병소 크기 ≥10 mm·누공이 예후 불량인자이며 CBCT 평가 시 치유율이 2D 방사선보다 낮음.
+
+큰 병소에서도 비수술적 접근이 1차 치료로 타당하나, 예후 결과값은 평가 방법(CBCT vs 2D 방사선)에 따라 달라짐을 고려해야 함.
 
 ## Summary
 This single-operator retrospective study evaluated the outcome of nonsurgical root canal treatment and orthograde retreatment of teeth carrying **large** apical periodontitis lesions — a presentation for which clinicians often consider surgery. Across 199 teeth from 184 patients, mostly treated in a single visit with NaOCl irrigation and followed from more than one year up to eight years, the authors show that high favorable outcomes are achievable nonsurgically. Initial treatment reached 89% success under a loose criterion (67% under a rigid one), and retreatment reached 79% (47% rigid). The study reinforces a nonsurgical-first stance for large lesions while flagging the clinical features that lower the odds of healing.

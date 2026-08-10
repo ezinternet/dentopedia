@@ -6,7 +6,7 @@ date: 2026-04-09
 doi: 10.1016/j.jdent.2026.106686
 source: mohamed-2026-preformed-metal-crowns-conventional-vs-hall-rct.md
 category: [caries]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/mohamed-2026-preformed-metal-crowns-conventional-vs-hall-rct.pdf
 pdf_filename: mohamed-2026-preformed-metal-crowns-conventional-vs-hall-rct.pdf
 source_collection: external
@@ -16,13 +16,19 @@ relations:
     target: konukman-turker-2026-hall-vs-modified-hall-primary-molars-rct
 ---
 
-## One-line Summary
+## Three-line Summary
+12-month non-inferiority RCT (80 carious primary molars, Qatar; 73 returned) comparing PMC placement by conventional technique (CT: preparation + caries removal) vs Hall technique (HT: no preparation, no caries removal).
 
-12-month non-inferiority RCT (n=80 carious primary molars, Qatar; 73 returned): preformed metal crowns by conventional technique (CT) vs Hall technique (HT) both achieved 100% "Successful" clinical outcomes and 100% restoration survival at 12 months (P=1.0); HT-induced OVD increase (mean 1.18±0.68 mm) resolved to baseline within 1 month (P=0.32).
+Both CT and HT achieved 100% clinical success and 100% restoration survival at 12 months (McNemar P=1.0); post-HT OVD increase (mean 1.18±0.68 mm) fully resolved to baseline within 1 month (P=0.32).
 
-## 한줄요약
+HT is clinically non-inferior to CT at 12 months; the transient post-seating bite step resolves within one month and should not deter clinicians from choosing HT.
 
-12개월 비열등성 RCT (카타르 유구치 80개, 73개 추적): 기성 금속관(Preformed Metal Crown, PMC)을 전통 삭제 기법(CT)과 Hall 기법(HT)으로 수복한 두 군 모두 임상 성공 100%·생존 100%였고(P=1.0), HT 직후 늘어난 교합 수직고경(OVD, 1.18±0.68 mm)은 1개월 내 기저치로 회복되어 유의차 없었다(P=0.32).
+## 세줄요약
+12개월 비열등성 RCT (카타르 유구치 80개, 73개 추적): PMC를 전통 삭제 기법(CT: 삭제+우식 제거) vs Hall 기법(HT: 무삭제·무마취)으로 비교.
+
+두 군 모두 12개월 임상 성공 100%·수복 생존 100% (McNemar P=1.0); HT 직후 교합수직고경(OVD) 증가(평균 1.18±0.68 mm)는 1개월 내 기저치 완전 회복(P=0.32).
+
+HT는 12개월 시점에서 CT에 비열등하며, 시술 직후 일시적 교합 변화는 1개월 내 해소되어 HT 선택을 기피할 이유가 되지 않는다.
 
 ## Summary
 

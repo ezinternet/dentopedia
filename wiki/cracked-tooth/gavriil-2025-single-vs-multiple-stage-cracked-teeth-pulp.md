@@ -6,7 +6,7 @@ date: 2025-06-26
 doi: 10.1016/j.joen.2025.06.013
 source: gavriil-2025-single-vs-multiple-stage-cracked-teeth-pulp.md
 category: [cracked-tooth]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: false
 pmid: "40581327"
@@ -19,13 +19,21 @@ relations:
     target: zhang-2024-cracked-teeth-treatment-outcomes-sr-ma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Abstract-only SR+MA (14 cohort studies, symptomatic vital cracked teeth): single- vs multiple-stage treatment did not differ for pulp survival/success, but single-stage with indirect restorations gave the best pulp success, onlays outperformed crowns, direct restorations were inferior for pulp success, and short interim duration (1–2 wk) beat long; 1-yr tooth survival 96.1–100%; very low certainty.
+Abstract-only SR+MA (14 cohort studies, symptomatic vital cracked teeth, ≥1-year follow-up) comparing single-stage (SST) vs multiple-stage (MST) restorative approaches for pulp outcomes.
 
-## 한줄요약
+SST and MST did not differ significantly for 1- or 2-year pulp survival or 1-year pulp success; however single-stage with indirect restorations gave the best pulp success (superior to MST+indirect p<0.05 and SST+direct p<0.001), onlays outperformed crowns (p<0.05), direct restorations were inferior for pulp success despite comparable survival, and short interim phase (1–2 weeks) outperformed long (2–3 months); 1-year tooth survival 96.1–100%; GRADE very low certainty.
 
-abstract-only SR+MA(14 코호트, 증상성 생활 균열치): single vs multiple-stage 간 치수생존·성공 차이 없음. 단 single-stage+간접수복이 치수성공 최고, onlay>crown, direct는 치수성공 열등, 임시기간 짧을수록(1–2주) 유리; 1년 치아생존 96.1–100%; 확실성 매우 낮음.
+Staging alone does not determine pulp fate — restoration type and interim duration do; favor prompt indirect onlay for vital cracked teeth; very-low certainty from observational evidence limits practice-defining recommendations.
+
+## 세줄요약
+
+Abstract-only SR+MA (코호트 14편, 증상성 생활 균열치, ≥1년 추적): SST vs MST 수복 방식에 따른 치수 결과 비교.
+
+SST vs MST 간 1·2년 치수생존 및 1년 치수성공 유의차 없음; 그러나 SST+간접수복이 치수성공 최고(MST+간접 대비 p<0.05, SST+direct 대비 p<0.001), onlay > crown(p<0.05), direct 방식은 생존률은 동등하나 치수성공 열등(p<0.001), 임시기간 1–2주 > 2–3개월; 1년 치아생존 96.1–100%; 확실성 매우 낮음.
+
+치수 예후는 staging 자체가 아니라 수복물 종류와 임시 기간이 결정 — 증상성 생활 균열치에는 신속한 onlay 간접 수복 권장; 관찰연구 기반으로 확실성 매우 낮음.
 
 ## Summary
 

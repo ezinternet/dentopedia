@@ -6,18 +6,28 @@ date: 2021-01-01
 doi: 10.1038/s41368-021-00125-5
 source: li-2021-periodontium-orthodontic-tooth-movement-biomechanics.md
 category: [orthodontics]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/li-2021-periodontium-orthodontic-tooth-movement-biomechanics.pdf
 pdf_filename: li-2021-periodontium-orthodontic-tooth-movement-biomechanics.pdf
 source_collection: external
 tags: [orthodontic-tooth-movement, otm, pdl, pdlc, osteocyte, mechanosensing, rankl, sterile-inflammation, root-resorption, optimal-orthodontic-force, biomechanics]
 ---
 
-## One-line Summary
-Structured literature review (6,808 → 170 studies) updating orthodontic tooth movement (OTM) periodontium biomechanics/biology for the 2020s: proposes PDL cells (PDLCs) and osteocytes as primary mechanosensors within a 4-step sequential model (extracellular mechanobiology → cell strain → cell activation/differentiation → tissue remodeling), with clinical implications for optimal orthodontic force (OOF), acceleration, and root resorption prevention.
+## Three-line Summary
 
-## 한줄요약
-교정적 치아이동(OTM) 치주조직 생역학·생물학 종합 리뷰 (IJOS 2021): 6,808편 → 170편; PDL세포·골세포 일차 기계감지 새 가설; 4단계 순차 모델(세포외 기계생물학→세포변형→세포활성화→조직재형성); 최적교합력·가속·치근흡수 임상 의의.
+Structured literature review (6,808 → 170 studies after quality filtering, IJOS 2021, West China Hospital) updating OTM periodontium biomechanics and biology for the 2020s decade.
+
+PDL cells (PDLCs) and osteocytes are proposed as primary mechanosensors within a novel 4-step sequential model: extracellular mechanobiology → cell strain → cell activation/differentiation (RANKL↑ compression, Runx2↑ tension, sterile inflammation) → tissue remodeling (bone resorption/formation, PDL width changes).
+
+Clinical implications include defining the optimal orthodontic force (OOF) to avoid sustained hyalinization or root resorption, with CBCT monitoring recommended for high-risk cases.
+
+## 세줄요약
+
+교정적 치아이동(OTM)의 치주조직 생역학·생물학을 2020년대 시점으로 갱신한 구조화 문헌고찰 (IJOS 2021; 6,808편→170편, 서중국 구강의학병원).
+
+PDL 세포(PDLCs)와 골세포(osteocyte)를 일차 기계감지세포로 새롭게 제안하는 4단계 순차 모델: ①세포외 기계생물학 → ②세포변형 → ③세포 활성/분화(RANKL↑·Runx2↑·무균성 염증) → ④조직 재형성(골흡수/형성·PDL 폭 변화).
+
+최적 교정력(OOF)을 초과하면 지속 초자화나 치근흡수가 발생하므로 고위험군에서는 CBCT 모니터링이 권고됨.
 
 ## Summary
 Structured literature review (6,808 → 170 studies after quality/relevance filtering) updating OTM mechanisms for the 2020s decade. IJOS 2021. West China Hospital of Stomatology, Sichuan University.

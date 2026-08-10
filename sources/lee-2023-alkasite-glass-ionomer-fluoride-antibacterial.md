@@ -13,8 +13,21 @@ source_collection: external
 
 대한치과의사협회지 2023 일괄 ingest. Cention N(alkasite) 신소재의 불소 유리·항균·pH를 GIC(Fuji IX GP, Fuji II LC)와 비교한 in-vitro 자료. 기존 [[dental-materials/ge-2023-glass-ionomer-secondary-caries-sr-ma]](GIC 이차우식 SR/MA)와 [[dental-materials/schmidt-2024-root-caries-restorative-adhesive-nma]](근면우식 수복재 NMA)의 "수복재 항우식 특성" 라인에 alkasite 벤치 데이터를 추가.
 
-## One-line Summary
-In vitro comparison showing Cention N (alkasite) releases fluoride continuously over 3 months and is antibacterial like glass ionomers, with the highest pH of the materials tested — but lower antibacterial activity than Fuji IX GP/Fuji II LC against S. mutans and lower fluoride release than Fuji IX GP.
+## Three-line Summary
+
+In vitro comparison showing Cention N (alkasite) releases fluoride continuously over 3 months and is antibacterial
+
+like glass ionomers, with the highest pH of the materials tested — but lower antibacterial activity
+
+than Fuji IX GP/Fuji II LC against S. mutans and lower fluoride release than Fuji IX GP.
+
+## 세줄요약
+
+In vitro comparison showing Cention N (alkasite) releases fluoride continuously over 3 months and is antibacterial
+
+like glass ionomers, with the highest pH of the materials tested — but lower antibacterial activity
+
+than Fuji IX GP/Fuji II LC against S. mutans and lower fluoride release than Fuji IX GP.
 
 ## 1. Document Information
 - Journal: 대한치과의사협회지 (J Korean Dent Assoc) 61(8):504–, 2023 (11 pages)

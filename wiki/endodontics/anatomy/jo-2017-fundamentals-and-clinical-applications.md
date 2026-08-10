@@ -5,7 +5,7 @@ year: 2017
 doi: ""
 date: 2017-01-01
 source: jo-2017-fundamentals-and-clinical-applications.md
-confidence: narrative-review
+evidence_level: narrative-review
 category: [endodontics/anatomy]
 pdf_path: /Users/oracleneo/llm-wiki/papers/jo-2017-fundamentals-and-clinical-applications.pdf
 pdf_filename: jo-2017-fundamentals-and-clinical-applications.pdf
@@ -14,11 +14,21 @@ tags: [근관-치료, 근관-치료-난제, 근관-해부학, 해부학적-다�
 ---
 
 
-## One-line Summary
-Clinical perspective (16+ years of practice): anatomical individuality — not inadequate technique or training — is the fundamental source of endodontic difficulty; root canal treatment cannot be truly standardized, and realistic expectations plus anatomy-matched case selection (CBCT, ultrasonics, microscopy aid but cannot reshape anatomy) are advocated.
+## Three-line Summary
 
-## 한줄요약
-16년 경험 임상관점: 해부학적 다양성이 근관치료 난제의 핵심; 술자 기술이 아닌 해부학이 제약요인; 현실적 기대치 설정
+Clinical perspective (author: 13+ years specialized training, 16+ years practice): anatomical individuality — not inadequate technique or training — is the fundamental source of endodontic difficulty, since no two teeth share identical internal anatomy and treatment must always accommodate the root rather than standardizing it.
+
+Extended experience reveals more variation, not less; CBCT, ultrasonics, and microscopy aid management but cannot modify anatomy, so the key skills are early recognition of difficult anatomy and appropriate specialist referral.
+
+The practical takeaway is anatomy-matched case selection: routine anatomy → proceed with confidence; moderate complexity → modify technique and accept limitation; genuinely difficult anatomy with poor prognosis → candid discussion of alternatives before committing.
+
+## 세줄요약
+
+임상관점(전문의 훈련 13년↑, 임상 16년↑): 해부학적 개인차 — 술기 부족이 아닌 해부학 자체 — 가 근관치료 난제의 근본; 모든 치아는 내부 해부가 독특하여 진정한 표준화 불가.
+
+경험이 쌓일수록 더 많은 변이를 인식; CBCT·초음파·현미경은 관리 보조도구이지 해부학을 바꾸지 않음 — 핵심 역량은 복잡 해부의 조기 인식과 적절한 의뢰.
+
+임상 결론: 난이도에 맞는 증례 선택 — 복잡 해부에서는 완벽한 결과보다 안전한 한계 인정·환자 솔직 설명이 전문직 성숙의 표지.
 
 # Root Canal Treatment: Fundamental Challenges from Anatomical Variation
 

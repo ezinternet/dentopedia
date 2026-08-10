@@ -10,8 +10,21 @@ pdf_filename: vidovic-juras-2024-antibiotic-prophylaxis-dental-procedures.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Narrative review (2024): antibiotic prophylaxis indications significantly narrowed due to antibiotic resistance concerns; currently indicated for IE high-risk, immunocompromised, IV bisphosphonate/antiangiogenic, irradiated head/neck; prosthetic joints no longer routine.
+## Three-line Summary
+
+Narrative review (2024): antibiotic prophylaxis indications significantly narrowed due to antibiotic resistance concerns
+
+currently indicated for IE high-risk, immunocompromised, IV bisphosphonate/antiangiogenic, irradiated head/neck
+
+prosthetic joints no longer routine.
+
+## 세줄요약
+
+Narrative review (2024): antibiotic prophylaxis indications significantly narrowed due to antibiotic resistance concerns
+
+currently indicated for IE high-risk, immunocompromised, IV bisphosphonate/antiangiogenic, irradiated head/neck
+
+prosthetic joints no longer routine.
 
 ## 1. Document Information
 - Journal: Dentistry Journal 12(11):364 (November 2024)

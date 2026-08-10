@@ -13,13 +13,21 @@ source_collection: external
 
 광중합 레진 시멘트를 사용한 리튬 디실리케이트와 고투명 지르코니아 비니어의 접착 강도를 정량적으로 비교한 SR+MA가 부재하여 인제스트. [[veneers/klein-2025-ceramic-laminate-veneer-survival-complications-sr-ma]]에서 다루는 세라믹 비니어 임상 생존율을 접착 메커니즘 측면에서 보완한다.
 
-## One-line Summary
+## Three-line Summary
 
 SR+MA of 6 in vitro studies (n=64 specimens): light-cured resin cement bond strength was higher for lithium disilicate veneers (25.4 MPa) than translucent zirconia (12.1 MPa), with enamel substrate (21.1 MPa) outperforming composite core (11.3 MPa).
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 6편 인비트로 연구 SR+MA: 광중합 레진 시멘트 접착 강도는 리튬 디실리케이트(25.4 MPa)가 고투명 지르코니아(12.1 MPa)보다 높고, 에나멜 기질(21.1 MPa)이 복합재 코어(11.3 MPa)보다 우수.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

@@ -11,8 +11,21 @@ pdf_filename: tay-2003-dentin-adhesives-hydrophilic.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Narrative review (Tay & Pashley 2003): simplified self-etch and one-bottle adhesives are overly hydrophilic → water permeability → water blisters, bond degradation, incompatibility with dual-cure composites; 3-step systems remain gold standard.
+## Three-line Summary
+
+Narrative review (Tay & Pashley 2003): simplified self-etch and one-bottle
+
+adhesives are overly hydrophilic → water permeability → water blisters,
+
+bond degradation, incompatibility with dual-cure composites; 3-step systems remain gold standard.
+
+## 세줄요약
+
+Narrative review (Tay & Pashley 2003): simplified self-etch and one-bottle
+
+adhesives are overly hydrophilic → water permeability → water blisters,
+
+bond degradation, incompatibility with dual-cure composites; 3-step systems remain gold standard.
 
 ## 1. Document Information
 Georgia Health Sciences University (then Medical College of Georgia). JCDA 2003. Key conceptual paper by two of the most cited researchers in dentin adhesion science. Peer-reviewed clinical practice article.

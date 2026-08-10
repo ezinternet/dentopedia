@@ -12,11 +12,21 @@ source_collection: external
 ## Why Ingested
 큰 근단치주염 병소(특히 ≥10 mm cyst-like 병소)에서 비수술적 근관치료가 외과적 개입 없이도 높은 치유율을 낼 수 있는지에 대한 실제 임상 근거를 보강한다. NaOCl 세정 기반 디스인펙션 프로토콜의 치유 결과를 다루므로 [[endodontics/irrigation/rossi-fedele-2023-irrigation-dressing-apical-periodontitis-sr-ma]]의 세정·드레싱이 근단치주염 치유에 미치는 영향 결론을 임상 outcome 측면에서 확장한다.
 
-## One-line Summary
-Retrospective study (199 teeth/184 patients, single operator, NaOCl single-visit protocol, >1–8 y follow-up): nonsurgical RCT of large apical periodontitis lesions healed/healing in 89% (loose) / 67% (rigid) for initial treatment and 79% / 47% for retreatment; previous abscess, antibiotic use, lesions ≥10 mm, and sinus tract worsened outcome, and CBCT-evaluated cases showed lower healed rates.
+## Three-line Summary
 
-## 한줄요약
-후향연구(199개 치아/184명, 단일 술자, NaOCl 1회내원 프로토콜, 1~8년 추적): 큰 근단치주염 병소의 비수술적 근관치료 성공률은 초치료 89%(loose)/67%(rigid), 재치료 79%/47%였고, 과거 농양·항생제 사용·10 mm 이상 큰 병소·누공이 예후를 악화시켰으며 CBCT로 평가한 경우 치유율이 더 낮았다.
+Retrospective outcome study (199 teeth/184 patients, single expert operator, NaOCl single-visit protocol, >1–8 year follow-up) evaluating nonsurgical root canal treatment/retreatment specifically for teeth with large apical periodontitis lesions.
+
+Initial treatment success: 89% loose (67% healed, 22.5% healing) / 67% rigid; retreatment: 79% loose / 47% rigid; negative prognostic variables were previous abscess, prior antibiotic use, lesions ≥10 mm, and sinus tract; CBCT-evaluated cases showed lower healed rates than radiograph-only cases.
+
+Nonsurgical treatment is a viable first approach even for large periapical lesions; CBCT detects residual disease more sensitively, which explains the lower radiographic "healed" rates — not true lower efficacy.
+
+## 세줄요약
+
+후향 결과 연구(199치아/184명, 단일 전문 술자, NaOCl 1회 내원, 1~8년 추적) — 큰 근단치주염 병소에서 비수술적 근관치료·재치료 성과 평가.
+
+초치료 성공률: loose 89%(치유 67%·치유 중 22.5%) / rigid 67%; 재치료: loose 79% / rigid 47%; 예후 악화 인자: 이전 농양·항생제·병소 ≥10 mm·누공; CBCT 평가 시 방사선 단독보다 치유율 낮음.
+
+큰 근단치주염에서도 비수술적 치료가 1차 선택 가능; CBCT가 잔류 병소를 더 예민하게 탐지해 치유율이 낮게 보이는 것 — 실제 효능 차이 아님.
 
 ## 1. Document Information
 - **Title**: Outcome of Nonsurgical Root Canal Treatment of Teeth With Large Apical Periodontitis Lesions: A Retrospective Study

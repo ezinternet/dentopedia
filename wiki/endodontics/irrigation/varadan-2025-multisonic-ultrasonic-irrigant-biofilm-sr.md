@@ -6,7 +6,7 @@ date: 2025-03-21
 doi: 10.7759/cureus.80938
 source: varadan-2025-multisonic-ultrasonic-irrigant-biofilm-sr.md
 category: [endodontics/irrigation]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/varadan-2025-multisonic-ultrasonic-irrigant-biofilm-sr.pdf
 pdf_filename: varadan-2025-multisonic-ultrasonic-irrigant-biofilm-sr.pdf
 source_collection: external
@@ -18,13 +18,21 @@ relations:
     target: paixao-2022-sonic-ultrasonic-activation-sr-ma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (3 in-vitro studies, multispecies biofilm in extracted teeth) finding GentleWave multisonic activation achieved bacterial reduction similar to passive ultrasonic irrigation — multisonic did not consistently outperform ultrasonic.
+PRISMA systematic review (3 in-vitro studies, PROSPERO CRD42024583277) comparing GentleWave® multisonic activation against ultrasonic (PUI/PiezoFlow) for removing multispecies/polymicrobial biofilm from extracted human teeth — deliberately excluding monospecies E. faecalis models as unrepresentative.
 
-## 한줄요약
+GentleWave achieved bacterial reduction (qPCR/CFU) similar to ultrasonic activation overall; GW marginally outperformed in 2 of 3 studies, but the difference was not consistent and the synthesis judged the two broadly comparable.
 
-다균종 biofilm을 심은 발치치아 모델 3편(in vitro)을 모은 체계적 문헌고찰: GentleWave 멀티소닉 활성화는 초음파 활성화(PUI)와 세균 감소량이 비슷했고, 멀티소닉이 일관되게 더 우수하지는 않았다.
+Only 3 qualifying studies were identified, limiting conclusions; the expensive multisonic system does not demonstrate a consistent bench advantage over standard ultrasonic activation for multispecies biofilm reduction.
+
+## 세줄요약
+
+GentleWave® 멀티소닉(Multisonic)과 초음파 활성화(Passive Ultrasonic Irrigation, PUI/PiezoFlow)의 다균종 바이오필름(Multispecies Biofilm) 제거 비교 PRISMA 체계적 고찰(발치치아 in vitro 3편; PROSPERO CRD42024583277) — 단균종 E. faecalis 모델은 임상 대표성 부족으로 제외.
+
+GentleWave는 qPCR/CFU 기반 세균 감소량이 초음파 활성화와 전반적으로 비슷했고, 3편 중 2편에서 소폭 우세했으나 차이가 일관되지 않아 두 방법은 대등하다고 평가됨.
+
+적격 연구가 3편에 불과해 결론 제한적 — 고가의 멀티소닉 시스템이 표준 초음파 활성화 대비 일관된 벤치 우위를 보이지 않음.
 
 ## Summary
 

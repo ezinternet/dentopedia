@@ -16,13 +16,21 @@ category: [botulinum-toxin]
 
 기존 보유 BoNT-A 논문은 onabotulinumtoxinA(Botox) 위주이며 incobotulinumtoxinA(Xeomin)의 표준화 프로토콜 근거가 부재함. [[botulinum-toxin/manfredini-2019-botulinum-toxin-bruxism-tmj-rct]]를 포함한 기존 연구들이 이형성 프로토콜로 비교를 어렵게 하는 문제를 해소하기 위해, DC/TMD 기준으로 진단 확정하고 표준화된 Xeomin 프로토콜(Ângelo Protocol)을 적용한 12개월 후향 코호트를 추가.
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective cohort (n=98) of DC/TMD-confirmed myogenous TMD patients treated with a standardized incobotulinumtoxinA (Xeomin) protocol showed significant reduction in myalgia severity (r=0.86) and VAS pain at 12 months, with preserved MMO and a 79.6% favorable outcome rate.
+Retrospective observational cohort (n=98; 85.7% female; DC/TMD-confirmed myogenous TMD; 12-month follow-up) of the standardized Ângelo incobotulinumtoxinA (Xeomin) protocol (~200 U bilateral masseter + temporalis + SCM) plus 5 physiotherapy sessions.
 
-## 한줄요약
+Myalgia severity decreased significantly from median 3.0 to 0.0 (r=0.86, large effect); VAS pain fell from 2.44 to 0.37 (Cohen's d=0.76); MMO was preserved; favorable outcome (myalgia 0–1, VAS ≤2, MMO ≥35 mm) achieved in 79.6%.
 
-DC/TMD로 진단된 근육성 악관절장애 환자(n=98)에게 표준화된 incobotulinumtoxinA(Xeomin) 프로토콜을 적용한 12개월 후향 코호트로, 근통 중증도(r=0.86) 및 VAS 통증이 유의하게 감소하고 최대 개구량이 유지되며 79.6% 호전율을 달성.
+No control group and adjunctive physiotherapy prevent isolation of the BoNT-A effect; multicenter RCT data are needed before wide adoption of this incobotulinumtoxinA protocol.
+
+## 세줄요약
+
+DC/TMD 진단 근육성 악관절장애(n=98; 여성 85.7%; 보존치료 실패 ≥3개월) 환자에게 표준화된 Ângelo 프로토콜(incobotulinumtoxinA ~200 U 양측 교근·측두근·흉쇄유돌근 + 물리치료 5회) 적용, 12개월 후향 코호트.
+
+근통 중증도 중앙값 3.0→0.0(r=0.86 대효과), VAS 통증 2.44→0.37(Cohen's d=0.76), 최대개구량(MMO) 보존; 79.6%에서 호전 기준(근통 0–1, VAS ≤2, MMO ≥35 mm) 달성.
+
+대조군 없고 물리치료 병행으로 BoNT-A 단독 효과 분리 불가 — 다기관 RCT가 프로토콜 확산 전 필요.
 
 ## 1. Document Information
 

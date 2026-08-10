@@ -12,11 +12,21 @@ source_collection: external
 ## Why Ingested
 Provides the only high-throughput in-vitro proteomics dataset quantifying S. mutans behavior in mixed-species biofilms, directly grounding the EPS-matrix virulence concepts described in [[oral-microbiology/koo-2013-exopolysaccharides-matrix-biofilm-virulence]] and [[oral-microbiology/karygianni-2020-biofilm-matrixome-extracellular-components]].
 
-## One-line Summary
-In-vitro MudPIT proteomics study of S. mutans UA159 in 3-species biofilms (with A. naeslundii and S. oralis on saliva-coated hydroxyapatite) showing that mixed-species context up-regulates glucan-synthesis proteins (GtfB/C, DexA), glucan-binding protein GbpB, acid-stress adaptations (F1F0-ATPase, FabM, GroEL), and detects up to 60% of the S. mutans proteome.
+## Three-line Summary
 
-## 한줄요약
-In-vitro 정량 프로테오믹스(MudPIT): S. mutans가 혼합균종 바이오필름에서 글루칸 합성(gtfBC, dexA)·산 내성(F1F0-ATPase, FabM) 단백질을 단일균종 대비 유의하게 증가시켜 우세종으로 전환됨 (P<0.05).
+In-vitro MudPIT proteomics study of S.
+
+mutans UA159 in 3-species biofilms (with A.
+
+naeslundii and S. oralis on saliva-coated hydroxyapatite) showing that mixed-species context up-regulates glucan-synthesis proteins (GtfB/C, DexA), glucan-binding protein GbpB, acid-stress adaptations (F1F0-ATPase, FabM, GroEL), and detects up to 60% of the S. mutans proteome.
+
+## 세줄요약
+
+In-vitro 정량 프로테오믹스(MudPIT): S.
+
+mutans가 혼합균종 바이오필름에서 글루칸 합성(gtfBC, dexA)·산 내성(F1F0-ATPase, FabM) 단백질을 단일균종 대비 유의하게 증가시켜 우세종으로 전환됨 (P<0.05).
+
+(incomplete)
 
 ## 1. Document Information
 - PLoS ONE. 2012;7(9):e45795. Published September 25, 2012.

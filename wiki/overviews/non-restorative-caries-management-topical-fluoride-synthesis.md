@@ -4,7 +4,7 @@ authors: synthesis page (compiled by Claude from 9 wiki entries, 2026-06-19; +Bh
 year: 2026
 date: 2026-06-19
 category: overviews
-confidence: synthesis
+evidence_level: synthesis
 source_collection: internal
 tags: [overview, caries, non-restorative, topical-fluoride, fluoride-varnish, silver-diamine-fluoride, sdf, arginine, root-caries, caries-arrest, claude-synthesis]
 source: synthesis
@@ -36,13 +36,21 @@ relations:
 > - 핵심 긴장: SDF 효능 vs 흑색착색 / FV 보편성 vs 비우월·비용불확실·고위험군 단독 무효 / 수복 위계 미확립 — "삭제 최소화"가 현대 우식관리의 방향.
 > - 미충족: 장기(>2년)·경성 종점 RCT 부족, 약제간 직접비교 한정, 비용효과 지역편향.
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis of 9 wiki papers on non-restorative caries management (NRCT): because caries is a reversible biofilm–acid disease, active non-cavitated lesions can be arrested or reversed chemically without drilling — silver diamine fluoride (SDF) and sealant+fluoride rank most effective overall (Urquhart 2019 ADA NMA), SDF outperforms fluoride varnish for early childhood caries (Zheng 2025) at the cost of black staining, high-fluoride (5000 ppm) toothpaste is first-line for root caries (Chen 2026, Meyer-Lueckel 2019), fluoride varnish is ubiquitous but neither superior to sealant (Chestnutt 2017) nor of clearly favorable cost-effectiveness (Kumar 2026), 8% arginine is a fluoride-free alternative (Yin 2025), and restoration is reserved for cavitated/esthetic/failed-arrest cases where the root-caries material hierarchy is itself weakly established (Schmidt 2024).
+Synthesis of 9 wiki papers on non-restorative caries management (NRCT): because caries is a reversible biofilm–acid disease, active non-cavitated lesions can be arrested or reversed chemically — silver diamine fluoride (SDF) and sealant+fluoride combination rank most effective overall (Urquhart 2019 ADA network meta-analysis), SDF outperforms fluoride varnish (FV) for early childhood caries prevention fraction 39% (Zheng 2025 RCT), and high-fluoride toothpaste (5000 ppm) is first-line for root caries depth/hardness/new-lesion prevention (Chen 2026 NMA, Meyer-Lueckel 2019).
 
-## 한줄요약
+Fluoride varnish is ubiquitous but not superior to sealant on first molars across three independent sources (Chestnutt 2017 cluster-RCT: 17.5% vs 19.6% caries, NS; Kashbour 2020 Cochrane: OR 0.67, very low certainty; Rashed 2022 SR+MA: RR 0.65, NS, I²=89%) and fails even combined with saliva substitute in very-high-risk irradiated head-and-neck cancer patients (Bhandari 2026 RCT, n=482); 8% arginine toothpaste is a validated fluoride-free alternative (Yin 2025 SR+MA: 26% caries reduction vs NaF).
 
-비수복적 우식관리(NRCT) 위키 9편 종합 — 우식은 가역적 생물막-산 질환이라 활성 비공동성 병소는 삭제 없이 화학적 정지·역전 가능. SDF·실란트+불소가 전반 최상(Urquhart 2019), SDF가 ECC서 불소바니시보다 우수하나 흑색착색(Zheng 2025), 치근우식 1차는 고농도(5000ppm) 불소치약(Chen 2026·Meyer-Lueckel 2019), 불소바니시는 보편적이나 실란트 대비 비우월·비용불확실(Chestnutt 2017·Kumar 2026), 8% 아르기닌은 무불소 대안(Yin 2025), 수복은 공동성·실패시 한정(위계 미확립, Schmidt 2024).
+Restoration is reserved for cavitated/esthetic/failed-arrest cases; the root-caries material hierarchy (composite ≳ GIC) is itself weakly established (Schmidt 2024, low certainty), reinforcing the "minimize removal" philosophy — non-restorative intervention should precede any drilling decision.
+
+## 세줄요약
+
+비수복적 우식관리(Non-Restorative Caries Treatment, NRCT) 9편 종합: 우식은 가역적 생물막-산 질환이라 활성 비공동성 병소는 화학적으로 정지·역전 가능 — SDF(Silver Diamine Fluoride)·실란트+불소 조합이 전반 최상(Urquhart 2019 ADA 네트워크 메타분석), SDF는 ECC에서 불소바니시보다 우수(예방분율 39%, Zheng 2025), 치근우식 1차는 고농도 불소치약 5000 ppm(Chen 2026 NMA, Meyer-Lueckel 2019).
+
+불소바니시(Fluoride Varnish, FV)는 보편적이나 제1대구치에서 실란트와 비우월(Chestnutt 2017·Kashbour 2020·Rashed 2022 세 독립 연구 모두 NS) + 방사선 우식 고위험군 단독 무효(Bhandari 2026 RCT n=482); 8% 아르기닌 치약은 NaF 대비 우식 26% 감소(Yin 2025)로 무불소 대안.
+
+수복은 공동성·심미·정지 실패 시에만 한정; 치근우식 수복재 위계(복합레진 ≳ GIC)는 근거 약함(Schmidt 2024, 낮은 확실성) — "삭제 최소화"가 현대 우식관리의 방향임을 재확인.
 
 ## Summary
 

@@ -6,20 +6,28 @@ date: 2024-05-01
 doi: 10.1016/j.ijom.2023.11.009
 source: deng-2024-posterior-open-wound-healing-immediate-implant.md
 category: [immediate-implant/esthetic-soft-tissue]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/deng-2024-posterior-open-wound-healing-immediate-implant.pdf
 pdf_filename: deng-2024-posterior-open-wound-healing-immediate-implant.pdf
 source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective cohort (32 patients / 40 posterior immediate implants; 20 reactive soft tissue [RST] vs 20 absorbable collagen sponge [ACS]): both materials gave comparable total soft-tissue healing scores, gingival recession, and hard-tissue (HBW, MBL) changes at ~6 months — ACS scored better tissue colour but worse fibrous repair.
+Retrospective cohort (32 patients / 40 posterior immediate implants, single centre) comparing reactive soft tissue (RST, n=20) vs absorbable collagen sponge (ACS, n=20) for open-wound sealing at ~6 months.
 
-## 한줄요약
+Both materials showed comparable total soft-tissue healing scores, gingival recession, HBW, and MBL; ACS scored better on tissue colour (p=0.016) but worse on fibrous repair (p=0.043).
 
-후향적 코호트 (환자 32명 / 후방 즉시식립 임플란트 40개; 반응성 연조직 RST 20 vs 흡수성 콜라겐 스펀지 ACS 20): 두 재료 모두 약 6개월 시점에 총 연조직 치유 점수·치은퇴축·경조직(수평 골폭 HBW, 변연골 MBL) 변화가 비슷했고, ACS가 조직 색조는 더 좋았으나 섬유성 회복은 더 나빴다.
+Both RST and ACS are viable for open-wound closure in posterior immediate implants — choice may hinge on the colour-vs-fibrous-repair trade-off and preference for autologous vs ready-made material.
+
+## 세줄요약
+
+후향적 코호트(환자 32명 / 후방 즉시식립 40개, 단일기관) — 반응성 연조직(RST, n=20) vs 흡수성 콜라겐 스펀지(ACS, n=20)로 발치와 개방 창상 sealing 비교, 약 6개월 추적.
+
+두 재료 모두 총 연조직 치유 점수·치은퇴축·HBW·MBL 변화 비슷; ACS가 조직 색조 우세(p=0.016), RST가 섬유성 회복 우세(p=0.043).
+
+RST·ACS 모두 구치부 즉시식립 개방창 처치에 유효 — 색조 대 섬유성 회복의 상충관계와 자가조직 채취 선호 여부에 따라 선택.
 
 ## Summary
 
@@ -60,7 +68,7 @@ Note: the available PDF is the ScienceDirect landing page (abstract + section sn
 
 ## Related Papers
 
-- [[immediate-implant/zhou-2024-open-closed-flap-collagen-membrane-immediate-implant]] — also studies open-wound management in IIP (open vs closed flap with collagen membrane); Deng contrasts open-wound *sealing materials* rather than flap design.
+- [[immediate-implant/gap-grafting/zhou-2024-open-closed-flap-collagen-membrane-immediate-implant]] — also studies open-wound management in IIP (open vs closed flap with collagen membrane); Deng contrasts open-wound *sealing materials* rather than flap design.
 - [[immediate-implant/esthetic-soft-tissue/elgendi-2025-peri-implant-soft-tissue-conditioning]] — CAD-CAM socket-sealing abutment as another open-socket sealing/soft-tissue-conditioning approach for posterior immediate implants.
 - [[immediate-implant/araujo-2019-socket-healing-immediate-implant-review]] — biologic basis of socket healing with/without immediate implant placement (cited reference).
 - [[immediate-implant/esthetic-soft-tissue/donker-2025-immediate-implant-provisionalization-digital-workflow-prospective]] — alternative soft-tissue sealing via immediate provisionalization workflow.

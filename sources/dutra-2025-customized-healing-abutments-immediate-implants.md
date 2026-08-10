@@ -10,8 +10,19 @@ pdf_filename: dutra-2025-customized-healing-abutments-immediate-implants.pdf
 source_collection: external
 ---
 
-## One-line Summary
-RCT (n=31): 즉시식립 시 customized healing abutment (CHA) vs PTFE 차폐막 + 우골이식 — 유두 변화에서 대조군이 유의하게 더 큰 값 (즉 CHA가 유두 보존 우수); 골능 부피·각화점막 두께·VAS 통증 평가.
+## Three-line Summary
+Single-blind RCT (n=31 patients; control n=15: immediate implant + bovine bone + PTFE barrier; experimental n=16: immediate implant + bovine bone + customized healing abutment [CHA]) comparing papilla preservation and tissue outcomes at immediate implant sites.
+
+The control group showed significantly greater papilla change (i.e., worse papilla preservation; p<0.05 by Mann-Whitney), while bone ridge volume, keratinized mucosa thickness, and VAS postoperative pain were also assessed between groups.
+
+CHA use at immediate implant placement is favorable for gingival papilla preservation, but the small sample (n=31) and single-operator design limit generalizability; the study provides direct clinical comparison of the socket-sealing abutment concept.
+
+## 세줄요약
+단일맹검 무작위대조시험(n=31; 대조군 n=15: 즉시식립 + 우골이식 + PTFE 차폐막; 실험군 n=16: 즉시식립 + 우골이식 + 맞춤형 치유지대주[CHA]) — 유두 보존과 연조직 결과 비교.
+
+대조군에서 유두 변화량이 유의하게 더 컸으며(즉 CHA군이 유두 보존 우수, Mann-Whitney p<0.05), 골능 부피·각화점막 두께·VAS 통증도 군간 비교 시행.
+
+즉시식립 시 CHA 사용은 치간유두 보존에 유리하나, n=31 소규모·단일 술자 설계로 일반화에 한계가 있으며, 소켓 밀봉 어버트먼트 개념에 대한 직접 임상 RCT 비교임.
 
 ## 1. Document Information
 - **Title**: Effectiveness of customized healing abutments in immediate implants: a randomized clinical trial

@@ -17,13 +17,13 @@ the extrinsic/intrinsic acid classification framework underpinning both in-vitro
 [[dental-erosion/souza-2020-citrus-sweets-enamel-erosion-invitro]]); complements the broader
 mineral-loss review by [[dental-erosion/west-2014-enamel-mineral-loss]].
 
-## One-line Summary
+## Three-line Summary
 Concise narrative review (Quintessence Int 2016;47(4):275–278) defining dental erosion as
 acid-related non-microbial tooth structure loss, classifying aetiology as extrinsic (dietary acids)
 or intrinsic (endogenous acid), and identifying nutrition, saliva, systemic disease, and
 mechanical stress (abrasion/attrition) as key severity-modifying parameters.
 
-## 한줄요약
+## 세줄요약
 Narrative review (Quintessence Int 2016): 치과 침식 = 세균 비관여 산에 의한 치질 소실;
 외인성(식이산) vs 내인성(위산)으로 분류하고, 영양·타액·전신질환·마모력이 중증도를 결정하며
 임상 문진·검진으로 위험인자 식별 및 제거 전략 수립 강조.

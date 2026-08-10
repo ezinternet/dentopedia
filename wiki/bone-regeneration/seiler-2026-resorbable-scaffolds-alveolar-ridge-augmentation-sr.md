@@ -6,7 +6,7 @@ date: 2026-06-01
 doi: 10.1186/s40729-026-00679-1
 source: seiler-2026-resorbable-scaffolds-alveolar-ridge-augmentation-sr.md
 category: bone-regeneration
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "42223759"
@@ -14,8 +14,8 @@ pmcid: "PMC13226745"
 source_url: https://pmc.ncbi.nlm.nih.gov/articles/PMC13226745/
 text_path: /Users/oracleneo/llm-wiki/papers/seiler-2026-resorbable-scaffolds-alveolar-ridge-augmentation-sr.txt
 text_filename: seiler-2026-resorbable-scaffolds-alveolar-ridge-augmentation-sr.txt
-pdf_path: /Users/oracleneo/llm-wiki/papers/seiler-2026-resorbable-scaffolds-alveolar-ridge-augmentation-sr.txt
-pdf_filename: seiler-2026-resorbable-scaffolds-alveolar-ridge-augmentation-sr.txt
+pdf_path: /Users/oracleneo/llm-wiki/papers/seiler-2026-resorbable-scaffolds-alveolar-ridge-augmentation-sr.pdf
+pdf_filename: seiler-2026-resorbable-scaffolds-alveolar-ridge-augmentation-sr.pdf
 tags: [gbr, resorbable-scaffold, ridge-augmentation, titanium-mesh, pcl, plga, beta-tcp, barrier-membrane]
 relations:
   - type: extends
@@ -24,13 +24,21 @@ relations:
     target: wang-2025-gelatin-polylactic-acid-pla-membrane-gbr-rct
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (PRISMA/PROSPERO; 7 human studies, 39 patients, 45 ridges; 1 RCT) finding resorbable scaffolds (PLA/PCL/PLGA/β-TCP) are a viable, second-surgery-avoiding alternative to titanium meshes for alveolar ridge augmentation — but evidence is too sparse and heterogeneous for meta-analysis, risk of bias is high, and degradation kinetics were unreported in every study.
+Systematic review (PRISMA-P/PROSPERO; 3,704 records screened → 7 human studies, 39 patients, 45 ridges; 1 RCT, 1 prospective comparative, 3 case series, 2 case reports) evaluating resorbable scaffolds (PLA, PCL, PLGA, β-TCP; two customized/3D-printed) for alveolar ridge augmentation.
 
-## 한줄요약
+Where reported, 4 of 7 studies showed 100% implant survival and hard tissue gain was adequate, but clinical/methodological heterogeneity precluded meta-analysis; critically, degradation kinetics were unreported in all 7 studies, with residual scaffold particles observed at intermediate follow-up.
 
-체계적 문헌고찰(7개 임상연구, 환자 39명·치조제 45부위, RCT 1편): resorbable scaffold(PLA/PCL/PLGA/β-TCP)는 티타늄 메쉬와 달리 2차 제거 수술이 필요 없는 치조제 증대 대안으로 보이나, 연구 수가 적고 이질성이 커 메타분석이 불가하며 비뚤림 위험이 높고 모든 연구에서 분해속도가 보고되지 않았다.
+Resorbable scaffolds are a plausible second-surgery-avoiding alternative to titanium meshes but the evidence base is far weaker — larger standardized RCTs with CBCT volumetric and histomorphometric endpoints and degradation-time reporting are needed before evidence-based recommendations can be made.
+
+## 세줄요약
+
+체계적 문헌고찰(PRISMA-P/PROSPERO; 3,704건 스크리닝 → 7개 임상연구, 환자 39명·치조제 45부위, RCT 1편 포함): PLA·PCL·PLGA·β-TCP 흡수성 스캐폴드(맞춤형 3D 프린팅 2건 포함) 치조제 증대 평가.
+
+보고된 연구에서 4/7편 임플란트 생존 100% 및 적절한 경성조직 증대; 그러나 이질성으로 메타분석 불가; 결정적으로 7편 모두 분해속도 미보고, 중간 추적에서 잔존 스캐폴드 입자 관찰.
+
+2차 제거 수술을 피하는 대안으로 가능성 있으나 근거는 티타늄 메쉬 대비 매우 약함 — 분해속도·CBCT 체적·조직형태계측 포함한 표준화된 대규모 RCT 필요.
 
 ## Summary
 

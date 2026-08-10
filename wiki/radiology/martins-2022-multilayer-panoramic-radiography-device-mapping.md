@@ -6,7 +6,7 @@ date: 2022-01-01
 doi: 10.1259/dmfr.20210082
 source: martins-2022-multilayer-panoramic-radiography-device-mapping.md
 category: [radiology]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/martins-2022-multilayer-panoramic-radiography-device-mapping.pdf
 pdf_filename: martins-2022-multilayer-panoramic-radiography-device-mapping.pdf
 source_collection: external
@@ -16,13 +16,21 @@ relations:
     target: devlin-2013-object-position-magnification-panoramic-radiography
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Technical mapping of an OP300 Maxio multilayer panoramic device: all 5 image layers curved (39–51°), maxilla anteriorly displaced vs mandible, layers thicker at mandible.
+In-vitro technical mapping study of the OP300 Maxio multilayer panoramic device using an acrylic plate with 1,156 holes and 20 metal spheres placed in 15 arrangements at maxillary and mandibular levels, measuring magnification and distortion (ImageJ) to define the focal trough for each of 5 image layers.
 
-## 한줄요약
+All 5 layers were curved (39–51°); the maxillary anterior region was anteriorly displaced relative to the mandibular region; mandibular layers were thicker than maxillary, and inner layers thinner than outer layers.
 
-OP300 Maxio 다층 파노라마 초점골(focal trough) 매핑: 5개 영상층 모두 곡선(39~51°), 상악이 하악보다 전방 변위, 하악측 층이 더 두꺼움.
+Understanding the geometric differences between multilayer focal troughs is clinically relevant for selecting the appropriate image layer and avoiding positioning artifacts that can mimic or obscure pathology.
+
+## 세줄요약
+
+아크릴 판(1,156개 구멍, 20개 금속구, 15가지 배치)을 이용해 OP300 Maxio 다층 파노라마 기기의 5개 영상층 초점골(Focal Trough)을 확대율·왜곡률(ImageJ) 기준으로 매핑한 체외 연구.
+
+5개 층 모두 곡선형(39~51°); 상악 전방부는 하악보다 앞쪽에 위치; 하악측 초점골이 상악보다 두꺼우며, 안쪽 층이 바깥층보다 얇음.
+
+다층 파노라마에서 각 층의 기하학적 차이를 이해하면 올바른 층 선택과 자세 허상(Positioning Artifact)으로 인한 오진을 방지할 수 있음.
 
 ## Summary
 

@@ -11,15 +11,23 @@ source_collection: external
 
 ## Why Ingested
 
-[[oral-medicine/jaaskelainen-2018-burning-mouth-syndrome-neuropathic-pain]]가 제시한 BMS 말초 small fiber 손상 가설을 PRISMA 체계적 고찰로 정량화. [[oral-medicine/canfora-2025-burning-mouth-syndrome-pathogenesis-review]] 병태생리 페이지를 분자 마커(TRPV1, P2X3, Nav1.7/1.9, NGF) 수준으로 보강하며, 말초 기전을 [[orofacial-pain/wilke-2020-chloride-underrated-ion-nociceptors]]의 nociceptor 흥분성 분자 substrate와 연결한다.
+[[oral-medicine/burning-mouth-syndrome/jaaskelainen-2018-burning-mouth-syndrome-neuropathic-pain]]가 제시한 BMS 말초 small fiber 손상 가설을 PRISMA 체계적 고찰로 정량화. [[oral-medicine/burning-mouth-syndrome/canfora-2025-burning-mouth-syndrome-pathogenesis-review]] 병태생리 페이지를 분자 마커(TRPV1, P2X3, Nav1.7/1.9, NGF) 수준으로 보강하며, 말초 기전을 [[orofacial-pain/wilke-2020-chloride-underrated-ion-nociceptors]]의 nociceptor 흥분성 분자 substrate와 연결한다.
 
-## One-line Summary
+## Three-line Summary
 
 PRISMA systematic review (PROSPERO CRD42024555839) of small fiber neuropathy in BMS: across included studies, tongue biopsies show 30–60% reductions in nerve fiber density plus altered TRPV1/P2X3/NGF expression, Nav1.7 overexpression, and sensory threshold abnormalities, strongly supporting SFN as a core pathophysiologic mechanism.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 PRISMA 체계적 고찰(PROSPERO CRD42024555839) — BMS 환자 혀 생검에서 신경섬유밀도가 30~60% 감소하고 TRPV1·P2X3·NGF 발현 변화, Nav1.7 과발현, 감각역치 이상이 일관되게 관찰돼, 소섬유신경병증(SFN)이 BMS의 핵심 병태생리임을 강하게 지지.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 
@@ -58,8 +66,8 @@ PRISMA 체계적 고찰(PROSPERO CRD42024555839) — BMS 환자 혀 생검에서
 
 ## 6. Related Work
 
-- [[oral-medicine/jaaskelainen-2018-burning-mouth-syndrome-neuropathic-pain]] — the subtype/neuropathic framing this SR quantifies.
-- [[oral-medicine/canfora-2025-burning-mouth-syndrome-pathogenesis-review]] — broader pathogenesis review.
+- [[oral-medicine/burning-mouth-syndrome/jaaskelainen-2018-burning-mouth-syndrome-neuropathic-pain]] — the subtype/neuropathic framing this SR quantifies.
+- [[oral-medicine/burning-mouth-syndrome/canfora-2025-burning-mouth-syndrome-pathogenesis-review]] — broader pathogenesis review.
 - [[orofacial-pain/wilke-2020-chloride-underrated-ion-nociceptors]] — molecular substrate (nociceptor ion channels) underlying the marker changes.
 
 ## 7. Glossary

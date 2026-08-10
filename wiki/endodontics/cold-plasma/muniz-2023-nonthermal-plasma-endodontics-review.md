@@ -6,20 +6,28 @@ date: 2023-05-09
 doi: 10.3390/biomedicines11051401
 source: muniz-2023-nonthermal-plasma-endodontics-review.md
 category: [endodontics/cold-plasma]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/muniz-2023-nonthermal-plasma-endodontics-review.pdf
 pdf_filename: muniz-2023-nonthermal-plasma-endodontics-review.pdf
 source_collection: external
 tags: [cold-plasma, NTPP, endodontics, E-faecalis, antimicrobial, ROS, RNS, biofilm, plasma-jet, DBD]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Integrative review of 17 in vitro/ex vivo studies (2007–2022): non-thermal atmospheric pressure plasma (NTPP) shows strong antimicrobial activity against E. faecalis and C. albicans with ≥8 min direct exposure, synergistic when combined with NaOCl/CHX, but lacks clinical standardization.
+Integrative review (17 in vitro/ex vivo studies, 2007–2022; 4 databases) of non-thermal atmospheric pressure plasma (NTPP) in endodontic root canal disinfection, covering device types (DBD and plasma jet), working gases (He/Ar), exposure modes (direct and plasma-activated liquid), and target pathogens (E. faecalis, C. albicans).
 
-## 한줄요약
+NTPP shows strong antimicrobial activity against E. faecalis and C. albicans, with maximum efficacy at ≥8 min direct exposure; combining NTPP with NaOCl or CHX produces synergistic effects allowing shorter plasma times; plasma-activated liquid (PAL) delivery is promising but has only 2 supporting studies.
 
-17편 통합 리뷰(2007–2022): 비열 대기압 플라즈마(NTPP)는 E. faecalis 및 C. albicans에 강한 살균력을 보이며(직접 노출 ≥8분 시 최대), 기존 세정제와 병용 시 상승 효과 — 그러나 표준 프로토콜 부재로 임상 이전 단계.
+Critical limitations are the absence of clinical trials (all evidence is in vitro/ex vivo) and no consensus on optimal gas type, flow rate, electrode distance, or power density, making cross-study comparison unreliable and clinical translation premature.
+
+## 세줄요약
+
+17편 in vitro/ex vivo 연구(2007–2022, 4개 데이터베이스) 통합 리뷰: 비열 대기압 플라즈마(NTPP)의 근관 소독 효능을 장치 유형(DBD·플라즈마 제트), 작동 가스(He/Ar), 노출 방식(직접·플라즈마 활성 액체), 주요 병원균(E. faecalis·C. albicans)별로 분석.
+
+직접 노출 ≥8분에서 최대 항균 효과; NaOCl·CHX와 병용 시 상승 작용으로 플라즈마 시간 단축 가능; 플라즈마 활성 액체(PAL)는 가능성 있으나 지지 연구 2편에 불과.
+
+임상 시험 전무(전체 in vitro/ex vivo), 최적 가스·유량·전극 거리·출력 밀도 합의 없어 교차 연구 비교가 신뢰하기 어렵고 임상 이전으로 판단된다.
 
 ## Summary
 

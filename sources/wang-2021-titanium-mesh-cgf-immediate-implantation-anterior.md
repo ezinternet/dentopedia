@@ -9,8 +9,21 @@ pdf_filename: wang-2021-titanium-mesh-cgf-immediate-implantation-anterior.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Short-term clinical evaluation of titanium mesh combined with CGF (Concentrated Growth Factor) membranes for GBR at immediate implant placement in anterior maxilla. Reports acceptable hard-tissue reconstruction and contour preservation.
+## Three-line Summary
+
+Short-term clinical evaluation of titanium mesh combined with CGF
+
+(Concentrated Growth Factor) membranes for GBR at immediate implant
+
+placement in anterior maxilla. Reports acceptable hard-tissue reconstruction and contour preservation.
+
+## 세줄요약
+
+Short-term 임상적 (Clinical) evaluation of titanium mesh combined with CGF
+
+(Concentrated Growth Factor) membranes for GBR at immediate implant
+
+placement in anterior maxilla. Reports acceptable hard-tissue reconstruction and contour preservation.
 
 ## 1. Document Information
 - **Title:** Short-Term Evaluation of Guided Bone Reconstruction with Titanium Mesh Membranes and CGF Membranes in Immediate Implantation of Anterior Maxillary Tooth
@@ -33,7 +46,7 @@ Short follow-up; non-comparative; CGF preparation operator-dependent.
 
 ## 6. Related Work
 - [[immediate-implant/esthetic-soft-tissue/qian-2023-iip-buccal-bone-dehiscence-anterior-maxilla]]
-- [[immediate-implant/trombelli-2024-bioarp-bone-dehiscence-immediate-implant]]
+- [[immediate-implant/gap-grafting/trombelli-2024-bioarp-bone-dehiscence-immediate-implant]]
 
 ## 7. Glossary
 - **IIP:** Immediate Implant Placement — placement at the time of tooth extraction.

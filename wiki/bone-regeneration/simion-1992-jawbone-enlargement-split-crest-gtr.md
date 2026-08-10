@@ -6,7 +6,7 @@ date: 1992-01-01
 doi: ""
 source: simion-1992-jawbone-enlargement-split-crest-gtr.md
 category: [bone-regeneration]
-confidence: case-report
+evidence_level: case-report
 source_collection: pubmed-text
 full_text: false
 pmid: "1298734"
@@ -19,13 +19,21 @@ relations:
     target: ayoub-2018-ridge-splitting-horizontal-augmentation-case
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Case series (n=5): a single-stage split-crest that longitudinally divides the ridge to provoke a greenstick fracture, spreads the cortical plates with a chisel, places immediate implants, and covers with e-PTFE (GTR) — yielding 1–4 mm width gain (greater in the maxilla) with histologic interpositional bone regeneration.
+Case series (n=5, abstract-only) describing one of the earliest codified split-crest techniques: longitudinal ridge division to provoke a controlled greenstick fracture, chisel-spreading of cortical plates, immediate implant placement, and e-PTFE membrane coverage (GTR).
 
-## 한줄요약
+Ridge-width gain measured 1–4 mm (greater in the maxilla), and histology confirmed bone regeneration between the two split cortical halves.
 
-split-crest 고전 증례군(n=5): 치조제를 길이방향으로 분할해 녹색골절을 유발하고 끌로 피질판을 벌린 뒤 즉시 임플란트 식립·e-PTFE 막(GTR) 적용 → 폭 1–4 mm 증가(상악에서 더 큼), 조직학적으로 분할면 사이 골재생 확인.
+This 1992 paper established the deliberate greenstick split-crest concept with simultaneous implant placement and GTR that later staged and osseodensification-assisted variants build upon; evidence level is a small descriptive case series with no control group.
+
+## 세줄요약
+
+증례군(n=5, 초록만): 최초 정형화 split-crest 술식 중 하나 — 치조제 길이방향 분할로 녹색골절(greenstick fracture) 유도, 끌로 피질판 이개, 즉시 임플란트 식립, e-PTFE 막(유도조직재생술, Guided Tissue Regeneration, GTR) 적용.
+
+치조제 폭 1–4 mm 증가(상악 > 하악), 조직학적으로 분할 피질판 사이 골재생 확인.
+
+1992년 고전 논문으로, 의도적 녹색골절 split-crest + 즉시 식립 + GTR 개념을 확립; 이후 단계적 변법·골밀도화 보조 변법의 원형이나 대조군 없는 소수 기술보고 수준.
 
 ## Summary
 
@@ -53,4 +61,4 @@ Clinical case series with biometric and histologic assessment. 5 patients with s
 
 - [[bone-regeneration/enislidis-2006-staged-ridge-splitting-implant-mandible]] — reinforced/extended by; the staged mandibular variant that predetermines the greenstick-fracture line.
 - [[bone-regeneration/ayoub-2018-ridge-splitting-horizontal-augmentation-case]] — reinforces; later single-stage ridge-split case in the same lineage.
-- [[implants/versah-protocols/guner-2025-osseodensification-ridge-split-implant-stability]] — extended by; osseodensification-assisted modern ridge split.
+- [[implants/osseodensification/guner-2025-osseodensification-ridge-split-implant-stability]] — extended by; osseodensification-assisted modern ridge split.

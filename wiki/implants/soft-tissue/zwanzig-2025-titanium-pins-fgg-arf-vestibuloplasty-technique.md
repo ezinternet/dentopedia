@@ -6,20 +6,28 @@ date: 2025-03-01
 doi: 10.11607/prd.7197
 source: zwanzig-2025-titanium-pins-fgg-arf-vestibuloplasty-technique.md
 category: [implants/soft-tissue]
-confidence: case-report
+evidence_level: case-report
 pdf_path: /Users/oracleneo/llm-wiki/papers/zwanzig-2025-titanium-pins-fgg-arf-vestibuloplasty-technique.pdf
 pdf_filename: zwanzig-2025-titanium-pins-fgg-arf-vestibuloplasty-technique.pdf
 source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Technique report (n = 3) demonstrating that titanium pins — repurposed from GBR fixation — can reliably stabilize free gingival grafts (FGGs) and apically repositioned flaps (ARFs) during vestibuloplasty, achieving successful KM augmentation with minimal shrinkage in sites where conventional suturing was impractical.
+Technique report (n=3 patients) describing the repurposing of standard GBR titanium fixation pins to stabilize free gingival grafts (FGG) and apically repositioned flaps (ARF) during vestibuloplasty where conventional suturing was impractical due to heavy muscle pull.
 
-## 한줄요약
+All three patients achieved successful graft integration, increased KM width and vestibular depth, and minimal graft shrinkage without complications; pin fixation maintains intimate graft-periosteum contact to promote revascularization and reduce ischemic shrinkage.
 
-증례 보고(n=3): GBR 티타늄 핀을 전정성형술 중 FGG/ARF 고정에 재활용하여 기존 봉합이 어려운 부위에서도 최소 수축으로 각화점막 증대에 성공한 새로운 고정 술식 소개.
+The technique expands the utility of hardware already in implant surgical kits but requires RCT validation; quantitative KM measurements are available only in the full text.
+
+## 세줄요약
+
+강한 근육 견인으로 기존 봉합이 어려운 부위에서 전정성형술 시 FGG/ARF 고정을 위해 표준 GBR 티타늄 고정핀을 재활용하는 술식 보고(n=3).
+
+3예 모두 이식편 통합 성공·각화점막 폭 및 전정 깊이 증가·최소 수축 달성, 합병증 없음; 핀이 이식편-골막 밀착을 유지해 재혈관화 촉진 및 허혈성 수축 감소.
+
+기존 임플란트 수술 키트 기구를 활용해 실용적이나 무작위 임상시험 근거 필요; 정량적 KM 수치는 원문(전문)에만 있음.
 
 ## Summary
 
@@ -56,6 +64,6 @@ Authors recommend randomized clinical trials for formal efficacy evaluation.
 ## Related Papers
 
 - [[overviews/keratinized-mucosa-peri-implant-health-overview]] — synthesis of KM adequacy thresholds and peri-implant health consequences; provides the clinical rationale for why this technique matters
-- [[implants/oh-2024-keratinized-mucosa-augmentation-functioning-implants-sr-ma]] — SR+MA on KM augmentation outcomes around functioning implants; establishes efficacy benchmark for FGG
-- [[implants/sanz-2022-keratinized-mucosa-around-implants-consensus]] — consensus document on KM around implants including technique recommendations that this paper's approach augments
-- [[implants/zhang-2025-expert-consensus-km-augmentation-second-stage]] — expert consensus on KM augmentation at second-stage surgery; technique choice context
+- [[implants/soft-tissue/oh-2024-keratinized-mucosa-augmentation-functioning-implants-sr-ma]] — SR+MA on KM augmentation outcomes around functioning implants; establishes efficacy benchmark for FGG
+- [[implants/soft-tissue/sanz-2022-keratinized-mucosa-around-implants-consensus]] — consensus document on KM around implants including technique recommendations that this paper's approach augments
+- [[implants/soft-tissue/zhang-2025-expert-consensus-km-augmentation-second-stage]] — expert consensus on KM augmentation at second-stage surgery; technique choice context

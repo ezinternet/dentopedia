@@ -13,13 +13,21 @@ source_collection: external
 
 This is the landmark review that systematized the six biological causes of post-treatment (persistent) apical periodontitis, anchoring the etiology side of the periapical-diagnosis category. It extends [[wiki/endodontics/diagnosis/karamifar-2020-endodontic-periapical-lesion-an-overview]] (which describes lesion types) by explaining *why* a radiolucency fails to heal after endodontic treatment, and it sharpens the vital-vs-nonvital framing in [[wiki/endodontics/diagnosis/asgary-2024-apical-periodontitis-vital-nonvital]] by detailing the microbial and non-microbial mechanisms that sustain disease.
 
-## One-line Summary
+## Three-line Summary
 
 Narrative review (Nair 2006, Int Endod J) consolidating the six biological causes of persistent apical periodontitis after root canal treatment: (i) intraradicular infection, (ii) extraradicular infection (periapical actinomycosis), (iii) foreign-body reaction to extruded materials, (iv) endogenous cholesterol crystals, (v) true (apical) cysts, and (vi) fibrous scar tissue healing.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 Nair의 2006년 종설 (Int Endod J) — 근관치료 후에도 사라지지 않는 치근단치주염(persistent apical periodontitis)의 여섯 가지 생물학적 원인을 정리한 고전 리뷰: ① 근관 내 잔존 감염, ② 근관 외 감염(주로 치근단 방선균증), ③ 밀려나온 재료에 대한 이물반응, ④ 콜레스테롤 결정 축적, ⑤ 진성 낭종(true cyst), ⑥ 반흔조직 치유.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

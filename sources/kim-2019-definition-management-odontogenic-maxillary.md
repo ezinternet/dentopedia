@@ -13,13 +13,21 @@ source_collection: external
 
 치성 상악동염 (Odontogenic Maxillary Sinusitis, OMS) 의 정의·병인·진단·수술적 관리(CLP vs FESS vs MESS)를 체계적으로 정리한 기초 내러티브 리뷰. [[wiki/oral-medicine/psillas-2020-odontogenic-maxillary-sinusitis-comprehensive-review]]와 [[wiki/oral-medicine/lin-2024-odontogenic-maxillary-sinusitis-expert-consensus]]의 선행 근거 문헌으로, OMS 분류·병리·미생물학적 배경을 이해하는 데 필수적인 참고 문헌임.
 
-## One-line Summary
+## Three-line Summary
 
 2019 narrative review by Kim (Seoul National University) summarizing the pathophysiology, microbiology, diagnosis, and consolidated surgical management (CLP/FESS/MESS) of odontogenic maxillary sinusitis (OMS), which accounts for 30–40% of all chronic maxillary sinusitis cases.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 서울대 김승민 2019 내러티브 리뷰: 치성 상악동염 (OMS)이 만성 상악동염의 30–40%를 차지하며, 병태생리·미생물학·진단·CLP/FESS/MESS 수술 관리를 종합 정리.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

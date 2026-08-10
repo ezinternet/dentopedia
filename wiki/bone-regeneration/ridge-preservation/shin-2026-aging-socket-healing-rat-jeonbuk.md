@@ -7,7 +7,7 @@ doi: 10.1111/eos.70099
 pmid: "42059861"
 source: shin-2026-aging-socket-healing-rat-jeonbuk.md
 category: bone-regeneration/ridge-preservation
-confidence: animal
+evidence_level: animal
 source_collection: pubmed-text
 full_text: false
 tags: [aging, socket-healing, bone-regeneration, rat-model, geriatric-dentistry, alveolar-bone]
@@ -15,13 +15,21 @@ text_path: /Users/oracleneo/llm-wiki/papers/shin-2026-aging-socket-healing-rat-j
 text_filename: shin-2026-aging-socket-healing-rat-jeonbuk.txt
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Rat model (n=17, 3 age groups) demonstrating that senescent (18-month-old) rats show significantly impaired alveolar socket healing — reduced bone volume, trabecular thickness, empty sockets with inflammatory infiltrate — versus middle-aged (10M) animals which showed the best regenerative response.
+Animal study (male Sprague-Dawley rats, n=17, 3 age groups: 2M/10M/18M) from Jeonbuk National University quantifying age-dependent alveolar socket healing at 2 weeks post-extraction by micro-CT, serum bone turnover markers, and histology.
 
-## 한줄요약
+Senescent (18M) rats showed significantly reduced bone volume and trabecular thickness with empty sockets and inflammatory cell accumulation; paradoxically, middle-aged (10M) rats exhibited maximal ALP socket filling and the best healing, outperforming both young and old groups.
 
-쥐 모델(n=17, 3연령군): 고령(18개월) 쥐에서 발치와 골재생 현저히 저하 — 골용적·골소주 두께 감소, 빈 소켓+염증세포 축적; 10개월군에서 최적 골재생 확인.
+Age-related impairment of socket healing supports more aggressive ridge preservation protocols in elderly patients, and TRAP5b/osteocalcin marker profiles may serve as healing prognosis indicators.
+
+## 세줄요약
+
+동물 연구 (수컷 스프라그-돌리 쥐, n=17, 3연령군: 2개월/10개월/18개월, 전북대학교): 하악 발치 후 2주 시점 마이크로 전산화단층촬영 (micro-CT)·혈청 골대사 표지자·조직학으로 연령 의존적 발치와 치유 정량화.
+
+고령 (18M)군에서 골용적 (Bone Volume, BV)·골소주 두께 (Trabecular Thickness, Tb.Th) 현저 감소, 빈 소켓+염증세포 축적; 역설적으로 중년 (10M)군이 최대 알칼리인산분해효소 (Alkaline Phosphatase, ALP) 소켓 충전 및 최적 치유를 보여 청년군(2M)도 상회.
+
+고령 쥐의 발치와 치유 저하는 고령 환자에서 치조제 보존의 강화된 프로토콜 필요성을 지지하며, TRAP5b 및 osteocalcin 표지자는 치유 예후 선별 도구로 활용 가능성이 있다.
 
 ## Summary
 

@@ -6,7 +6,7 @@ date: 2021-04-01
 doi: 10.1111/jopr.13316
 source: kattadiyil-2021-relationship-centric-occlusion-maximal-intercuspal.md
 category: [occlusion]
-confidence: consensus
+evidence_level: consensus
 source_collection: pubmed-text
 full_text: false
 pmid: "33783091"
@@ -19,13 +19,21 @@ relations:
     target: kwak-2024-masticatory-positioning-occlusal-stability-full-mouth
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Best Evidence Consensus Statement (J Prosthodont 2021; >15,000 articles screened → 313 SR/RCT/MA/clinical-trial articles analyzed): centric occlusion (condyle-seated) and maximal intercuspal position are usually NON-coincident in dentate and partially dentate patients, and complete mouth rehabilitation should be restored in centric occlusion.
+Best Evidence Consensus Statement (J Prosthodont 2021) analyzing >15,000 screened articles (313 SRs, RCTs, meta-analyses, and clinical trials) to address two focus questions: CO–MIP coincidence frequency and preferred treatment position for complete mouth rehabilitation.
 
-## 한줄요약
+In most dentate and partially dentate patients, centric occlusion (CO, condyle-seated) and the maximal intercuspal position (MIP) do NOT coincide; CO–MIP discrepancy is associated with occlusal instability and TMD, though no adverse prosthodontic outcomes are proven in healthy patients treated in either position.
 
-베스트 에비던스 합의문(>15,000편 검색→313편 분석): 대부분 환자에서 중심교합(CO; 과두안정위)과 최대교두감합위(MIP)는 불일치하며, 전악 재건은 중심교합(CO)에서 회복하라는 결론.
+For complete mouth rehabilitation, the statement recommends restoring in centric occlusion (CO–MIP coincident, anchored at CO) based on the available best evidence.
+
+## 세줄요약
+
+15,000편 이상을 검색해 SR·RCT·MA·임상시험 313편을 분석한 베스트 에비던스 합의문(J Prosthodont 2021): 중심교합(CO; 과두안정위)–최대교두감합위(MIP) 일치 빈도와 전악 수복 치료위 선택이라는 두 가지 임상 질문에 답했다.
+
+대부분의 유치악·부분 무치악 환자에서 CO와 MIP는 불일치하며, CO–MIP 불일치는 교합 불안정 및 측두하악장애(TMD)와 연관되지만, 건강한 환자에서 어느 위치로 수복해도 나쁜 보철 예후가 확정적으로 증명되지는 않는다.
+
+전악 수복 시에는 중심교합(CO–MIP 일치, CO 기준) 위치에서 회복하도록 권고한다.
 
 ## Summary
 

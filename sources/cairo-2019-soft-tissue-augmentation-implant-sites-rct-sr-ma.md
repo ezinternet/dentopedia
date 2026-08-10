@@ -13,13 +13,21 @@ source_collection: external
 
 임플란트 주위 연조직 증대술의 RCT 근거를 정량화한 핵심 SR+MA로, autogenous CTG와 이종이식 콜라겐 매트릭스(XCM) 간 연조직 두께 증가량(STT WMD −0.30 mm, CTG 우위)을 처음 메타분석한 논문이다. 기존 [[wiki/overviews/keratinized-mucosa-peri-implant-health-overview]]의 치료 근거 섹션과 [[wiki/implants/montero-2022-soft-tissue-substitutes-vs-autogenous-keratinized-mucosa-sr]]의 선행 evidence로서 연결된다.
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 14 RCTs (475 patients, 538 implants) showing soft-tissue augmentation improves keratinized tissue height and thickness at implant sites, with connective tissue graft (CTG) superior to xenogeneic collagen matrix (XCM) for soft-tissue thickness gain (WMD −0.30 mm, 95% CI −0.43 to −0.17).
+SR+MA restricted to RCTs (14 RCTs, 475 patients, 538 implants) evaluating surgical soft-tissue augmentation at implant sites for keratinized tissue height and soft-tissue thickness.
 
-## 한줄요약
+Augmentation improves both keratinized tissue height and thickness versus no augmentation; CTG is superior to xenogeneic collagen matrix for soft-tissue thickness gain (WMD −0.30 mm, 95% CI −0.43 to −0.17, p<0.00001), but only 5/14 RCTs were at low risk of bias.
 
-14개 RCT (475명, 538개 임플란트) 메타분석: 임플란트 주위 연조직 증대술은 각화조직 높이·두께를 향상시키며, 연결조직이식(CTG)이 이종콜라겐 매트릭스(XCM)보다 연조직 두께 증가에 유의하게 우수함(WMD −0.30 mm).
+CTG remains the gold-standard for soft-tissue thickness gain at implant sites; XCM is an evidence-supported but slightly inferior substitute, and more low-bias RCTs are needed before definitive procedural recommendations can be made.
+
+## 세줄요약
+
+RCT만 포함한 SR+MA (14편, 475명, 538개 임플란트): 임플란트 주위 연조직 수술적 증대술의 각화조직 높이 및 연조직 두께 효과 평가.
+
+증대술은 대조군 대비 각화조직 높이·두께 모두 개선; 연결조직이식(CTG, Connective Tissue Graft)은 이종콜라겐 매트릭스(XCM, Xenogeneic Collagen Matrix) 대비 연조직 두께 증가에 유의하게 우수(WMD −0.30 mm, 95% CI −0.43 to −0.17), 그러나 14편 중 9편이 비뚤림 위험 불명확 또는 높음.
+
+임플란트 주위 연조직 두께 증가에 CTG가 여전히 표준이며, XCM은 근거 있는 대안이나 CTG보다 열등; 확실한 권고를 위해 저비뚤림 RCT가 더 필요함.
 
 ## 1. Document Information
 

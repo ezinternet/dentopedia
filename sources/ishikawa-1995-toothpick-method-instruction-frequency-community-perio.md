@@ -14,15 +14,23 @@ text_filename: ishikawa-1995-toothpick-method-instruction-frequency-community-pe
 
 ## Why Ingested
 
-Classic Watanabe-toothpick-method community program (T. Watanabe is a coauthor) showing an instruction-frequency *dose effect* — repeated (3×) vs single brushing instruction — on periodontal health, complementing the toothpick-method evidence base. It reinforces [[periodontics/rajwani-2020-manual-toothbrushing-techniques-plaque-gingivitis-sr]] (which catalogs the Watanabe/toothpick technique among manual methods) and pairs with [[periodontics/lee-2020-watanabe-toothpick-method-srp-diabetic-periodontitis-rct]] (professional repeated toothpick-method brushing as adjunct). Note: this page is **abstract-only** (Japanese paper, English abstract; PubMed-truncated at 250 words) — full text not retrieved; do not invent numbers beyond the abstract.
+Classic Watanabe-toothpick-method community program (T. Watanabe is a coauthor) showing an instruction-frequency *dose effect* — repeated (3×) vs single brushing instruction — on periodontal health, complementing the toothpick-method evidence base. It reinforces [[periodontics/oral-hygiene-instruction/rajwani-2020-manual-toothbrushing-techniques-plaque-gingivitis-sr]] (which catalogs the Watanabe/toothpick technique among manual methods) and pairs with [[periodontics/oral-hygiene-instruction/lee-2020-watanabe-toothpick-method-srp-diabetic-periodontitis-rct]] (professional repeated toothpick-method brushing as adjunct). Note: this page is **abstract-only** (Japanese paper, English abstract; PubMed-truncated at 250 words) — full text not retrieved; do not invent numbers beyond the abstract.
 
-## One-line Summary
+## Three-line Summary
 
 Community comparative intervention (n=31 three-time vs n=40 single toothpick-method instruction, 1-year follow-up): repeated instruction significantly reduced gingival redness/swelling and gave higher CPITN improvement, while single instruction did not change gingival inflammation at 1 year — repeated instruction outperformed single.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 지역사회 비교중재연구(와타나베 이쑤시개법 칫솔질 지도, 3회 반복 n=31 vs 1회 n=40, 1년 추적): 반복 지도군만 치은 발적·종창이 유의 감소하고 CPITN 개선율이 더 높았으며, 1회 지도군은 1년 후 치은 염증이 변하지 않음 — 반복 지도가 단일 지도보다 우월.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 
@@ -70,8 +78,8 @@ Community comparative intervention (n=31 three-time vs n=40 single toothpick-met
 
 ## 6. Related Work
 
-- [[periodontics/rajwani-2020-manual-toothbrushing-techniques-plaque-gingivitis-sr]] — SR cataloging manual toothbrushing techniques including the toothpick (Watanabe) method.
-- [[periodontics/lee-2020-watanabe-toothpick-method-srp-diabetic-periodontitis-rct]] — RCT of professional Watanabe/toothpick-method brushing as an SRP adjunct in diabetic periodontitis.
+- [[periodontics/oral-hygiene-instruction/rajwani-2020-manual-toothbrushing-techniques-plaque-gingivitis-sr]] — SR cataloging manual toothbrushing techniques including the toothpick (Watanabe) method.
+- [[periodontics/oral-hygiene-instruction/lee-2020-watanabe-toothpick-method-srp-diabetic-periodontitis-rct]] — RCT of professional Watanabe/toothpick-method brushing as an SRP adjunct in diabetic periodontitis.
 
 ## 7. Glossary
 

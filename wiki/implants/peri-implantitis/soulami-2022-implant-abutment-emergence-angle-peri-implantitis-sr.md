@@ -6,7 +6,7 @@ date: 2022-04-19
 doi: 10.1002/cre2.594
 source: soulami-2022-implant-abutment-emergence-angle-peri-implantitis-sr.md
 category: implants/peri-implantitis
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/soulami-2022-implant-abutment-emergence-angle-peri-implantitis-sr.pdf
 pdf_filename: soulami-2022-implant-abutment-emergence-angle-peri-implantitis-sr.pdf
 source_collection: external
@@ -16,13 +16,21 @@ relations:
     target: lin-2025-influence-of-prosthetic-designs
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (3 studies, 168–349 implants): a larger implant-abutment emergence angle (>30°) and a convex emergence profile are associated with higher peri-implantitis prevalence / marginal bone loss vs EA <30°; with only 3 eligible studies, causality is unproven and findings need cautious reading.
+Systematic review (ACTA; 1116 titles screened → 3 studies included, 168–349 implants each) on implant-abutment emergence angle (EA) and emergence profile (EP) as risk variables for peri-implant disease.
 
-## 한줄요약
+EA >30° was associated with significantly higher peri-implantitis prevalence vs EA <30° in bone-level implants (two studies), and a convex EP was linked to higher prevalence (one study), with no meta-analysis possible given only 3 eligible studies.
 
-체계적 문헌고찰(3편, 임플란트 168–349개): 큰 출현각(>30°)·볼록한 출현윤곽이 작은 각(<30°)보다 임플란트주위염·변연골소실과 연관. 3편뿐이라 인과성 미확립, 신중 해석 필요.
+Evidence supports a restorative bias toward smaller emergence angles and concave/straight profiles — particularly for bone-level implants — to ease hygiene access and limit marginal bone loss, but causality remains unproven.
+
+## 세줄요약
+
+체계적 문헌고찰(ACTA; 1116편 검색 → 3편 포함, 각 168–349개 임플란트): 임플란트-지대주 출현각(Emergence Angle, EA)과 출현 윤곽(Emergence Profile, EP)이 임플란트 주위 질환 위험 변수인지 검토.
+
+골수준(Bone-level) 임플란트에서 EA >30°는 <30° 대비 임플란트주위염(Peri-implantitis) 유병률이 유의하게 높았고(2편), 볼록 EP도 높은 유병률과 연관됐으나(1편), 3편만으로 메타분석 불가.
+
+보철 설계 측면에서 골수준 임플란트는 작은 출현각과 오목/직선형 윤곽이 구강위생 접근성 개선 및 변연골소실 감소에 유리하나, 인과성은 미확립.
 
 ## Summary
 

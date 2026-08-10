@@ -6,20 +6,28 @@ date: 2019-05-09
 doi: 10.1016/j.dental.2019.05.002
 source: dimitriadi-2019-silane-reactivity-lithium-disilicate-bond-strength.md
 category: [resin-bonding]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/dimitriadi-2019-silane-reactivity-lithium-disilicate-bond-strength.pdf
 pdf_filename: dimitriadi-2019-silane-reactivity-lithium-disilicate-bond-strength.pdf
 source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In vitro (5 silane products, polished vs. HF-etched lithium disilicate, 13C-NMR + ATR-FTIR + SBS Weibull): Prehydrolyzed silanol monomer (Calibra Silane) achieved highest bond reliability; universal adhesives/primers contain degraded siloxane forms with reduced chemical bonding; HF etching compensates via micromechanical retention.
+In vitro study (5 commercial silane products, polished vs HF-etched lithium disilicate, 13C-NMR + ATR-FTIR + SBS Weibull analysis, n=20/group) characterizing silane chemical status in vials and correlating it with ceramic bond strength.
 
-## 한줄요약
+Only Calibra Silane contained active silanol monomers (highest Weibull characteristic life); universal adhesives/multicomponent primers contained siloxane adducts or polymers (reduced reactivity); HF etching significantly elevated SBS across all products, partially compensating for degraded silane chemistry.
 
-In vitro (5종 실란, 광택 vs HF 에칭 리튬 디실리케이트, NMR+FTIR+SBS): 사전가수분해 실란올 단량체(Calibra Silane)가 최고 접착 신뢰도; 유니버설 접착제는 실록산 형태로 반응성 저하; HF 에칭이 기계적 유지력으로 보상.
+Universal adhesives marketed as containing silane are NOT chemically equivalent to dedicated prehydrolyzed silane primers for ceramic bonding — a separate silane primer is preferred, especially on polished surfaces; HF etching partially rescues deficient silane chemistry via micromechanical retention.
+
+## 세줄요약
+
+In vitro 연구(시판 실란 5종, 광택 vs HF 에칭 리튬 디실리케이트, 13C-NMR + ATR-FTIR + 전단결합강도(Shear Bond Strength, SBS) Weibull 분석, n=20/군): 실란 화학적 상태와 세라믹 결합강도의 상관관계 규명.
+
+Calibra Silane만이 활성 실란올 단량체 함유(최고 Weibull 특성수명); 유니버설 접착제·복합 프라이머는 실록산 중합체/부가물 형태로 반응성 저하; HF 에칭이 모든 제품에서 SBS를 유의하게 증가시켜 저하된 실란 화학을 부분 보상.
+
+'실란 함유' 유니버설 접착제는 전용 사전가수분해 실란 프라이머와 화학적으로 동등하지 않으며, 특히 광택면에서는 별도 실란 프라이머 사용을 권장; HF 에칭은 불충분한 실란 화학을 기계적 유지력으로 부분 보완함.
 
 ## Summary
 

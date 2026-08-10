@@ -1,0 +1,152 @@
+Title: Neurological Complications of Local Anesthesia in Dentistry: A Review
+Authors: Hashsaam Ghafoor, Saad Haroon, Sundus Atique, Anwar Ul Huda, Osman Ahmed, Ali O Mohamed Bel Khair, Aijaz Abdus Samad
+Journal: Cureus. 2023 Dec 19;15(12):e50790
+DOI: 10.7759/cureus.50790
+PMID: 38239523
+PMCID: PMC10796083
+Source: PubMed Central full text (get_full_text_article)
+
+=== ABSTRACT ===
+
+Local anesthesia is a technique that temporarily desensitizes a specific body area, typically for a surgical procedure, dental work, or pain management. It is described as a sensation loss in a specific area of the body due to depression of excitation in the nerve endings or due to the inhibition of the conduction process within the peripheral nerves. It allows for safer and more comfortable medical procedures, reducing the need for general anesthesia and facilitating faster recovery. Local anesthesia is generally safe, but like any medical intervention, it carries potential risks and side effects. The complications related to local anesthetics can be assessed in terms of neurological, vascular, local, systemic, and neurological. In this review article, we discussed the neurological complications of local anesthesia related to the ophthalmic nerve, maxillary nerve, mandibular nerve, branches of the trigeminal nerve, and facial nerve. These include diplopia, ptosis, paralysis of the eye, blindness, paresthesia, trismus, soft tissue lesions, edema, hematoma, facial blanching, infection, allergy, overdose, neuralgia, facial palsy, etc.
+
+=== FULL TEXT ===
+
+Introduction and background
+
+Neurological complications associated with local anesthesia (LA) in dentistry are rare but significant occurrences that warrant attention and consideration. LA is commonly administered in dental procedures to ensure patient comfort and pain control during various dental treatments, such as root canal therapy, dental extractions, and pulp capping procedures. While the use of LA is generally considered safe, there have been reported cases of neurological complications that range from mild and transient to severe and long-lasting. Although these complications are uncommon, understanding and addressing them are crucial for providing safe and effective dental care.
+
+Review
+
+Definition
+
+LA is described as a reversible sensation loss in a specific area of the body due to depression of excitation in the nerve endings or the inhibition of the conduction process within the peripheral nerves.
+
+Components
+
+LA is composed of water-soluble salts derived from lipid-soluble alkaloids. They possess a structure comprised of three components, namely, lipophilic aromatic group, intermediary link, and hydrophilic amine group. LA is classified into amides or esters based on the intermediary link. By extending the length of the carbon chains connected to the amide linkage, tertiary amine, or aromatic ring, LA, such as lidocaine and bupivacaine, exhibits enhanced lipid solubility, potency, as well as extended duration of action (e.g., eutectic mixture of local anesthetics (EMLA) is a eutectic combination of 2.5% lidocaine and 2.5% prilocaine).
+
+Clinical uses
+
+The use of LA is applied to various clinical scenarios in hospital practice, including dental procedures, minor surgical procedures, obstetrics and gynecology, ophthalmology, regional anesthesia, dermatology, and pain management (trigger point injections, joint injections, nerve blocks for neuropathic pain, trigeminal neuralgia, myofascial pain syndrome, and arthritis).
+
+Types of complications
+
+Vascular: Rare; can occur if LA solution is accidentally injected into a blood vessel or vasoconstrictors are used improperly, leading to systemic toxicity or localized ischemia. Local anesthetics are vasodilators; adding a vasoconstrictor (adrenaline) improves anesthetic onset/duration, reduces bleeding, and decreases systemic absorption. Aspiration before/during injection and knowledge of anatomical landmarks reduce vascular complications.
+
+Local: pain at injection site, needle fracture, anesthesia prolongation, sensory disorders, trismus, lack of effect, infectivity, soft tissue injury, gingival lesions, hematoma, edema, ophthalmologic complications.
+
+Systemic: psychogenic reactions, allergy, methemoglobinemia, systemic toxicity.
+
+General complications: ocular, neurological, allergy, hematoma, osteomyelitis, ankylosis, needle breakage, blanching, tissue necrosis, isolated atrial fibrillation, pregnancy-related complications.
+
+Ocular: Diplopia (resolves 15 min-24h); partial/complete vision loss, strabismus, uniocular blindness, blurred vision (usually transient). Rishiraj et al. reported permanent unilateral vision loss after combined infiltration + IANB with prilocaine, unresolved at two months. Ngeow et al. reported accommodation loss ipsilateral to IANB. Studies reported inability to abduct the eye. Penarrocha-Diago et al. reported 10 patients with external rectus palsy and one with superior oblique impairment (inability to look downward). Posteriorly dislocated eyeballs from eye muscle function loss reported. Eyelid dropping documented in multiple studies; one study reported incapacity to fully close eyelids. Goldenberg described numbness of eyebrows/eyelids after infiltration anesthesia. Pupil excessive contraction and excessive dilation both reported. Burning sensation and pain reported by Uckan et al. Overall anticipated prevalence of ocular unfavorable outcomes: 0.07%-0.09%.
+
+Neurological: Rare but important. Includes nerve injury, neurotoxicity, transient neurological symptoms (TNS), and CNS effects. Nerve injury can occur from needle trauma during insertion or local anesthetic toxicity. Hillerup et al. reported 54 patients with cranial nerve V injury following IANB (lingual nerve 77.8%, IAN 22.2%). Symptoms: allodynia, dysesthesia, paresthesia. Garisto et al. documented lingual and IAN involvement in 89% and 11% of cases respectively. Kingon et al. reported five cases of paresthesia/dysesthesia after mental nerve block or IANB. A case of permanent nerve injury with hearing loss, facial numbness, ataxia, and facial palsy on the injection side was reported. Total prevalence of permanent nerve injury from mandibular LA: 0.000007%-0.003%. Moorthy et al. reported maxillary infiltration paresthesia (numb upper lip). A case of inflammatory trigeminal lesions with numbness/paresthesia of face, lip, tongue, forearm, hand (all transient) reported.
+
+Allergy: Additives (metabisulfite, methylparaben) can trigger reactions. Anaphylactic shock reported after lidocaine (facial edema, orbit closure, urticaria, respiratory difficulty at 20 min). Articaine allergy documented in two studies (erythema, dizziness, facial edema, palpitations, chest pain, respiratory distress). Diphenhydramine-as-LA allergic reaction with diffuse inflammation at 24h. Ross et al. documented two serum-type reactions with mepivacaine.
+
+Hemorrhage/Hematoma: Bajkin et al. found only two minor hematomas among anticoagulated patients, no protracted hemorrhage. Dougall et al. found no hematoma >2mm after buccal infiltration in hemophilia patients. Brodsky et al. documented ear problems (pressure, sudden sensorineural hearing loss) after Gow-Gates injection. Srisurang et al. compared mepivacaine/articaine/lidocaine — only two ecchymoses with articaine. IAN injury from traumatic injection can cause hematoma via epineural blood vessel trauma, compressing nerve fibers and causing localized neurotoxicity; damage can extend beyond 30 minutes; reactive fibrosis/scarring can inhibit nerve healing.
+
+Needle Breakage: Pogrel reported 16 cases over 25 years (four met inclusion criteria, age>18); IAN block fracture in three cases; prevalence 0.000007%. Zijderveld et al. and Rahman et al. reported individual cases.
+
+Osteomyelitis: Barnard reported a case after maxillary infiltration — cheek swelling, pain, trismus (8mm opening), ipsilateral mental nerve paresthesia, "moth-eaten" radiographic appearance.
+
+Tissue Necrosis: Woodmansey et al. described osteonecrosis after intraosseous anesthesia (perforator detachment). Another study reported skin necrosis after dental LA, resolving after 3 days.
+
+Blanching: Webber et al. described blanching after IAN block (paleness of infraorbital area, nose, lip, lower eyelid with hemifacial numbness). Another case report of skin paleness above the lip after IAN block.
+
+Ankylosis: Luchetti et al. studied jaw ankylosis association in fibrodysplasia ossificans progressiva patients after LA — five patients with permanent jaw ankylosis/ossification.
+
+Isolated Atrial Fibrillation: Manani et al. reported a case after bilateral maxillary infiltration with mepivacaine, resolving ~12 hours later.
+
+Pregnancy-Related Adverse Effects: Hagai et al. compared dental LA-exposed vs control pregnancies — main abnormality rate 4.8% vs 3.3% (P=0.300, not significant).
+
+=== Neurological complications (main section) ===
+
+The most common nerves involved during dental procedures under LA are the fifth cranial nerve (trigeminal) and the seventh cranial nerve (facial), both of which can have neurological complications with LA use.
+
+Trigeminal Nerve: Sensory innervation of face and neck; carries sensory and motor components. Trigeminal (Gasserian) ganglion lies in Meckel's cave. Three divisions:
+
+- Ophthalmic (CN V1): exits ganglion, traverses cavernous sinus, enters orbit via superior orbital fissure; divides into frontal, nasociliary, lacrimal nerves supplying forehead, eyelids, nose, scalp.
+- Maxillary (CN V2): traverses cavernous sinus, exits via foramen rotundum into pterygopalatine fossa; branches: infraorbital, sphenopalatine, palatine, zygomatic; sensory to midface.
+- Mandibular (CN V3): mixed sensory-motor, smallest intracranial segment; exits via foramen ovale into infratemporal fossa; splits into anterior trunk (motor to muscles of mastication + long buccal nerve) and posterior trunk (lingual, inferior alveolar, auriculotemporal nerves). Chorda tympani joins the facial nerve in the infratemporal fossa. Auriculotemporal nerve supplies auricle/tragus/posterior temple; IAN supplies chin/lip via mental and mylohyoid branches.
+
+Facial Nerve (CN VII): emerges via stylomastoid foramen; chorda tympani branches off before exit (secretomotor to sublingual/submandibular glands, taste to anterior 2/3 tongue). Bifurcates into cervical and temporal branches before entering parotid gland, then splits into temporal, buccal, zygomatic, cervical, mandibular branches supplying mimetic muscles.
+
+Other nerves: Lingual nerve (V3 branch, anterior 2/3 tongue sensation); IAN (V3 branch, lower teeth/chin/lower lip); mental nerve (IAN terminal branch, lower lip/chin); posterior superior alveolar nerve (PSAN, V2 branch, upper molars/premolars).
+
+Signs of Neurological Complications: complete/partial loss of sensation, prolonged numbness of tongue/cheek/gingiva, loss of sensation beyond expected LA duration, numbness of jaw/face, tingling, unusual/persistent pain or burning at injection site.
+
+Symptoms of Neurological Complications: agitation, restlessness, irritability, anxiety, confusion, impaired judgment, disorientation, dizziness, light-headedness, feeling faint, drowsiness, fatigue, metallic taste.
+
+Incidence: Difficult to estimate precisely due to confounding risk factors. For peripheral nerve blocks (PNB) generally, incidence <3% (mostly temporary sensory loss); persistent nerve injury 0.02%-0.5%. Urban and Urquhart: neurological deficit incidence 3%-5% at two weeks post brachial plexus block, but only 0.4% beyond four weeks. Elevated risk of protracted paresthesia after 4% articaine vs other agents. Hillerup et al.: 4% articaine associated with neurosensory problems in two trigeminal branches, mainly with mandibular blocks.
+
+--- Ophthalmic nerve ---
+
+When LA affects the ophthalmic nerve/branches, it can cause direct ocular effects and periorbital effects, typically transient/reversible. Contributing factors: diffusion, venous injection, unintentional needle penetration into the orbit, retrograde arterial injection, embolism, sympathetic impulse generation.
+
+Nerve blocks associated with ocular complications: IAN block and PSAN block. Over the last 45 years, ocular complications after middle/PSAN blocks reported twice as frequently as after IANB. PSAN originates in pterygopalatine fossa before entering infraorbital canal; supplies maxillary sinus mucosa and periodontal ligament/alveoli/pulpal tissue of maxillary molars. IAN runs along lateral pterygoid muscle, anteroposterior to lingual nerve, up to mental foramen, terminating as mental and incisive nerves; accompanied by inferior alveolar vein/artery.
+
+Common symptoms: double vision, blurred vision, squinting, vision loss, reduced sensation of lower/upper eyelids, upper eyelid drooping, transient dizziness, difficulty reading (accommodation paralysis).
+
+Complications of Ophthalmic Nerve:
+
+- Diplopia: mostly from intravascular LA injection. Proximity of inferior alveolar artery to IAN raises intravascular injection risk. High injection pressure can redirect anesthetic toward the maxillary artery; the middle meningeal artery (MMA) originates near the inferior alveolar artery's origin, raising risk of anesthetic entering MMA. MMA's ophthalmic division can anastomose with the lacrimal artery; lateral rectus muscle blood supply comes from the lateral muscular trunk and lacrimal artery of the ophthalmic artery — causing lateral rectus paralysis and diplopia. Alternatively, venous injection can drain into the pterygoid plexus and cavernous sinus; the abducens nerve traversing the cavernous sinus is vulnerable, causing lateral rectus paralysis/diplopia.
+- Paralysis of the eye: venous drainage into pterygoid plexus/cavernous sinus creates backflow pressure, causing oculomotor nerve paralysis (oculomotor nerve enters cavernous sinus roof near dorsum sellae).
+- Blindness (amaurosis): central retinal artery (CRA, branch of ophthalmic artery) affected if anesthetic flows through the MMA into the ophthalmic artery then retinal artery — can cause blindness and pupillary light reflex loss. CRA reflex vasospasm causes ischemia and retinal necrosis leading to permanent blindness. De Keyzer et al. and Rishiraj et al. reported perpetual unilateral blindness after intraoral LA; one case involved a bacterial-endocarditis patient who lost vision in the left eye after dental extraction pre-mitral-valve-surgery — suggested preventable with aspiration before/during injection to avoid intravascular injection/fluid emboli occluding the ophthalmic artery.
+- Ptosis, strabismus, loss of accommodation: accommodation depends on lens elasticity + ciliary muscle contraction, innervated via short ciliary nerves (ciliary ganglion postganglionic, parasympathetic preganglionic via oculomotor nerve). Oculomotor nerve paralysis → ptosis, pupil dilation, strabismus, accommodation loss (ciliary muscle, internal rectus, sphincter pupillae paralyzed). Partial paralysis possible: internal strabismus from internal rectus spasm, near-vision-only accommodation from ciliary muscle spasm, miosis from pupillary sphincter irritation. Some similarity to Horner's syndrome (ptosis, conjunctival vascular dilation, miosis, facial/arm/neck/shoulder rash) — proposed mechanism: inadvertent LA injection into the stellate ganglion.
+
+--- Maxillary nerve ---
+
+Second division of CN V; carries touch, pain, temperature from maxillary teeth, sinuses, nasal cavity, palate. Exits via foramen rotundum.
+
+Complications of Maxillary Nerve Block (MNB):
+
+- Paresthesia: relatively rare; due to nerve trauma or local hematoma. Recovery typically 6-12 months, variable by injury extent.
+- Facial nerve paralysis (FNP): infrequent, actual prevalence unknown; most immediate-onset cases recover within seven hours; delayed onset can extend recovery. Immediate type mechanisms: direct needle trauma, hematoma with nerve compression, air blast during surgery, infiltration of peripheral facial nerve branches by LA. Delayed type proposed mechanisms: (a) latent viral reactivation (herpes zoster/simplex) triggered by local trauma causing neural sheath inflammation/dysfunction; (b) axonal ischemia from late reflex spasm of the vasa nervorum via sympathetic vascular reflex (external carotid artery plexus stimulation) — needle mechanical action, LA infiltration, epinephrine/breakdown products all proposed contributory factors; (c) excessive facial nerve stretching from prolonged oral instrumentation causing ischemia/direct damage; (d) intra-arterial inadvertent injection causing retrograde arterial flow and distal (including central) spread of anesthetic.
+- Trismus: lockjaw from muscle spasm; causes include repeated injections in short time, intramuscular injection/hematoma, needle breakage near styloid process, incorrect needle position, low-grade infection.
+- Soft tissue lesions: uncommon; from needle trauma, biting injury, chewing on hard objects, infection, or allergic reaction.
+- Edema: uncommon after MNB; from trauma, allergy, infection, hemorrhage, irritating solution injection; treat trauma-related edema like a hematoma; infection-related edema treated with antibiotics.
+- Facial blanching: uncommon; reversible end-organ phenomenon via sympathetic vasospasm affecting terminal maxillary artery branches, observed in infraorbital artery distribution.
+- Hematoma: from vessel wall damage; management: observation, cold compression, compression bandage, or aspiration/surgical drainage if severe.
+- Infection: generally low risk; from needle contamination or latent viral reactivation; use chlorhexidine mouthwash; avoid injecting through infected tissue (low local pH ionizes LA, reducing membrane penetration — "failed block"). Signs: increased pain, swelling, redness, warmth, pus/drainage, fever/malaise. Treatment: antibiotics, wound care, drainage.
+
+--- Mandibular nerve ---
+
+Most-used block in dentistry; mixed sensory-motor; sensory to buccal mucosa/mandibular teeth/skin below mouth; motor to muscles of mastication; exits via foramen ovale. MNB (mandibular nerve block) involves blocking inferior alveolar, auriculotemporal, buccal, incisive, mental, lingual, and mylohyoid nerves. Damage can cause numbness, taste loss, or pain in lip mucosa/tongue.
+
+Complications of Mandibular Nerve Block:
+
+- Hypersensitivity (allergy): type I (IgE-mediated) and type IV (T-cell-mediated, mainly from topical anesthetics, localized edema). Prevalence of adverse outcomes from LA generally 0.1-1%; true allergy <1% of these. Range: mild (itching, erythema, urticaria) to severe (respiratory distress, angioedema) to life-threatening anaphylaxis (apnea, hypotension, loss of consciousness).
+- Toxicity (overdose): younger patients more susceptible; most adverse events occur during injection or within 5-10 minutes. Systemic toxicity from elevated blood levels (single intravascular injection or repeated injections). Biphasic CNS reaction; generalized tonic-clonic convulsion is typical severe reaction. Early signs: dizziness, confusion, anxiety; then drowsiness, tinnitus, diplopia, circumoral numbness/tingling; objective signs: muscle twitching, slurred/talkative speech, shivering, tremors, then seizure; respiratory arrest and unconsciousness possible. CVS response also biphasic: initial stimulation (increased BP/HR), then vasodilation with myocardial depression and decreased BP; cardiac arrest and bradycardia possible; cardiodepressant effects only at elevated blood levels. Prevention: careful injection technique, monitoring, weight-based max dose knowledge (4% LA needs half the volume of 2% for same dose); aspiration reduces intravascular injection risk; slow injection minimizes tissue distortion/discomfort; clinician/assistant should remain with patient during onset; stop LA administration immediately upon signs of toxicity.
+- Hematoma: pterygomandibular space bleeding from needle prick; uncommon; pain, swelling, limited mouth opening; treatment mainly symptomatic ± prophylactic antibiotics; usually self-resolving.
+- Trismus: decreased mandibular range of motion after injection; hematoma accumulation can hinder excursive movement; acute-phase treatment: analgesics, soft diet, gradual physiotherapy if needed.
+- Paresthesia: prolonged anesthesia beyond expected duration, from nerve trauma (e.g., needle trauma); patients who feel initial electric-shock sensation during injection may develop persistent anesthesia. More frequent with 4% solutions (prilocaine, articaine) vs lower-concentration LAs — possibly due to higher concentration, clinician preference patterns, and commercial articaine's routine combination with epinephrine (increasing neurotoxicity risk; epinephrine not typically added to other common dental LAs).
+- Neuralgia: episodic, severe intermittent pain in head/neck nerve branches. Trigeminal neuralgia (TN, "tic douloureux") — one of the most severe/recognized neuralgias, distinct from facial tics (involuntary spasms, cause unclear, possibly genetic/movement-control-region related). TN: sharp, intense, stabbing (electric-shock-like) pain ± burning, triggered by gentle touch, unpredictable onset, among the most painful human conditions. >85% of TN cases are classical TN (trigeminal nerve compression at the dorsal root entry zone, typically by the superior cerebellar artery, SCA); remainder are secondary TN (multiple sclerosis or space-occupying lesion, e.g., meningioma, vestibular schwannoma).
+
+--- Facial nerve ---
+
+CN VII, exits via stylomastoid foramen; chorda tympani branches before exit (secretomotor to sublingual/submandibular glands; taste from anterior 2/3 tongue, excluding vallate papillae); bifurcates into cervical and temporal branches before parotid gland, then splits into cervical, mandibular, buccal, temporal, zygomatic branches supplying facial expression muscles.
+
+Bell's Palsy (Facial Nerve Palsy, FNP): the most frequent neurological complication after IANB.
+
+Symptoms of peripheral FNP: generalized weakness of ipsilateral face, incapability to close eyelids, nasolabial fold obliteration, drooping mouth corner, mouth deviation toward the unaffected side. May also report retroauricular pain and reduced taste sensation. Peripheral vs central distinction: upper-motor-neuron lesions spare the forehead (bilateral cortical innervation via crossing corticonuclear fibers); peripheral (lower motor neuron) lesions involve all facial muscles including the forehead.
+
+FNP after IANB can be immediate or delayed onset.
+
+Immediate Palsy: generally recovers within three hours of LA administration. Possible mechanisms: facial nerve trunk anatomical variation (nerve passage along parotid gland's deep surface), congenital anomaly (gland failing to envelop the nerve/its divisions, increasing direct LA exposure risk), or the parotid gland capsule preventing LA escape once deposited in gland substance, maintaining elevated local concentration against facial nerve branches. These explanations do not account for chorda tympani involvement/taste disturbance, FNP after posterior alveolar nerve block, or delayed-onset palsy hours after anesthesia has worn off.
+
+Delayed Palsy: onset several hours to days post-injection. Three proposed hypotheses: (1) LA or its breakdown products excite the sympathetic plexus of the external carotid artery; fibers travel with the stylomastoid artery (branch of occipital artery in ~66% of cases, otherwise auricular artery) through the parotid gland; stylomastoid sympathetic plexus activation triggers delayed reflex vasospasm of vessels supplying the facial nerve, causing ischemic neuritis and edema (superior cervical ganglion is the source of these sympathetic fibers, giving anterior/lateral/medial branches; the anterior branch extends toward the carotid arteries forming perivascular plexuses); (2) needle mechanical action stimulating the same sympathetic plexus; (3) latent viral infection reactivation from procedural trauma causing neural sheath inflammation/dysfunction.
+
+Transient Amaurosis: a more alarming complication — transient blindness reported following an inferior dental (alveolar) block.
+
+Complications of other nerve blocks: mental or infraorbital nerve blocks with soft tissue infiltration can cause adverse effects, but no major complications reported for these specifically.
+
+Table 1 (direct effects on the eye): Diplopia — extraocular muscle dysfunction from LA affecting the ophthalmic nerve. Ptosis — upper eyelid drooping from LA effect on elevator muscles. Mydriasis — pupil dilation from LA affecting iris muscles/parasympathetic innervation.
+
+Table 2 (periorbital effects): Facial paralysis — LA affecting CN VII causing facial muscle weakness/paralysis. Periorbital blanching — temporary vasoconstriction causing pale/blanched periorbital appearance.
+
+Conclusions
+
+Neurological complications associated with LA are relatively rare but can occur, including nerve injury, neurotoxicity, and systemic toxicity; overall incidence is low. Proper technique, appropriate dosages, and meticulous monitoring minimize risk. Clinicians administering LA should be well-trained and knowledgeable about potential complications and their management. If a neurological complication arises, prompt recognition and management are crucial — discontinuing anesthetic administration, providing supportive care, and consulting a specialist/neurologist for further evaluation and treatment when necessary.

@@ -3,7 +3,7 @@ title: "Overview: Dental Workforce Delegation, Skill-Mix & Team Communication"
 type: synthesis
 category: overviews
 date: 2026-06-27
-confidence: synthesis
+evidence_level: synthesis
 source_collection: synthesis
 source_papers:
   - wiki/practice-management/chen-2024-dental-hygienist-autonomy-care-utilization.md
@@ -30,13 +30,21 @@ tags: [workforce, skill-mix, delegation, dental-hygienist, dental-therapist, sco
 > - **소통은 구조화된 도구로 개선 가능**: Müller 2018 SR(11편)은 인계도구 SBAR(Situation·Background·Assessment·Recommendation)가 환자안전을 개선(중등도 근거), 특히 전화 소통에서. Buljac-Samardzic 2020 SR(297편)은 팀 효과성 개입을 훈련(CRM·TeamSTEPPS·시뮬레이션)/도구(SBAR·체크리스트)/조직재설계/프로그램의 3+1로 분류하고 원리기반·시뮬레이션 훈련을 가장 유망으로 지목. ※이 4편은 치과 특이 근거가 아니라 일반의료 근거를 치과 팀에 외삽한 것.
 > - **임상·운영 시사점**: ① 위임은 예방업무부터, 자율성은 적정선까지(과도한 자율성은 치료접근 저하 위험), ② 취약지에 우선 배치, ③ 감독구조 명시는 임상 안전이자 환자 신뢰 요건, ④ 우리 관할권의 실제 법적 범위를 먼저 확인(국가·주별 상이), ⑤ DT/DH 역할에 대한 환자 커뮤니케이션을 병행, ⑥ 위임 확대와 함께 팀 훈련(시뮬레이션·TeamSTEPPS)과 구조화 인계(SBAR)에 투자 — 위임의 안전 배당은 팀이 실제로 소통할 때만 실현. 한국 맥락의 규제 경계는 [[practice-management/ha-2023-dentist-issues-constitutional-court-decisions]] 참조.
 
-## One-line Summary
+## Three-line Summary
 
-Across an econometric difference-in-differences study (Chen 2024), a worldwide regulatory survey (Bozia 2021), a caregiver-acceptance survey (Vu 2024), and four general-healthcare teamwork/communication reviews cross-applied to dentistry (Schmutz 2019, Manser 2009, Müller 2018, Buljac-Samardzic 2020), delegating tasks to dental auxiliaries (hygienists, therapists) expands access — most in provider-shortage areas — but the autonomy level behaves like a dose with a trade-off (moderate autonomy raises preventive care, the highest autonomy lowers treatment use), scope is regulated very differently across jurisdictions (and even within federal countries), public acceptance exists but is conditional on dentist supervision, and the whole arrangement only pays off if the enlarged team communicates (teamwork↔performance r=0.28; structured hand-offs like SBAR and principle-based/simulation team training are the actionable levers).
+Synthesis over 7 papers (econometric DiD Chen 2024, worldwide regulatory survey Bozia 2021, caregiver-acceptance survey Vu 2024, and 4 general-healthcare teamwork/communication reviews cross-applied to dentistry) examining what happens when tasks shift from the dentist to dental hygienists (DH) and dental therapists (DT).
 
-## 한줄요약
+Delegation expands access — most in provider-shortage areas — but DH autonomy is dose-dependent (moderate raises preventive-care visits; highest level reduces treatment utilization), scope is regulated differently across and within jurisdictions (oral-radiography authority varies in 26 countries), and caregiver acceptance of DT procedures is conditional on dentist supervision (p<0.001, Vu 2024).
 
-일곱 편(이중차분 경제학 Chen 2024, 전 세계 규제 단면조사 Bozia 2021, 보호자 수용도 조사 Vu 2024 + 치과에 외삽한 일반의료 팀워크·소통 근거 4편: Schmutz 2019·Manser 2009·Müller 2018·Buljac-Samardzic 2020)을 종합하면, 치과 보조인력(DH·DT)에 대한 업무위임은 특히 취약지에서 접근성을 늘리지만 자율성 수준은 트레이드오프를 동반하고(적정=예방↑, 최고=치료↓), 업무범위 규제는 관할권마다(연방국가는 주별로도) 크게 다르며, 대중 수용은 존재하되 치과의사 감독을 조건으로 하고, 이 모든 것은 확대된 팀이 실제로 소통할 때만(팀워크↔수행 r=0.28; SBAR 인계·원리기반/시뮬레이션 훈련이 레버) 결실을 맺는다.
+The access dividend is realized only if the enlarged team communicates: teamwork↔clinical performance r=0.28 (Schmutz 2019 SR+MA, 1390 teams); actionable levers are structured hand-offs (SBAR, strongest for telephone communication) and principle-based/simulation team training (CRM/TeamSTEPPS).
+
+## 세줄요약
+
+7편 종합(이중차분 Chen 2024, 전세계 규제 단면조사 Bozia 2021, 보호자 수용도 Vu 2024, 일반의료 팀워크·소통 4편)으로 본 치과 보조인력(DH·DT) 위임의 3축.
+
+위임은 특히 취약지에서 접근성을 늘리지만 DH 자율성은 용량 의존적(적정=예방 방문↑, 최고=치료 이용↓); 업무범위 규제는 관할권마다 상이(26개국 구강 방사선촬영 허용 78%, 진단 금지 46%)하고, 보호자의 DT 수용은 치과의사 감독 조건부(p<0.001).
+
+접근성 배당은 팀이 실제로 소통할 때만 실현됨 — 팀워크↔수행 r=0.28(Schmutz 2019 SR+MA, 1390팀); SBAR 구조화 인계·원리기반/시뮬레이션 훈련(CRM·TeamSTEPPS)이 레버.
 
 ## Thesis
 

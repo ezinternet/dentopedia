@@ -1,0 +1,37 @@
+Dental Implant Survival after Postoperative Infection
+Tabrizi R, Zarchini R, Ozkan BT, Majdi S
+Journal of Maxillofacial and Oral Surgery 2020;21(3):796-801
+DOI: 10.1007/s12663-020-01460-6
+PMCID: PMC9474760
+PMID: 36274880
+
+[ABSTRACT ONLY — full text not retrieved via PMC]
+
+PURPOSE
+Early postoperative infection can lead to dental implant failure. This study aimed to evaluate the frequency of failed and survived implants after acute postoperative infection and the related factors.
+
+MATERIALS AND METHODS
+Cross-sectional cohort study evaluating early infection after dental implant surgery.
+Study variables: site of implant placement, age and gender, bone augmentation, postoperative antibiotic therapy, smoking, time of infection occurrence/diagnosis.
+Outcome: failed vs survived implants (2 groups).
+n = 980 patients total.
+
+RESULTS
+- 34 (3.46%) out of 980 patients developed postoperative infection following implant placement
+- 25 males, 9 females
+- 10 implants (29.4%) survived (group 1)
+- 24 implants (70.6%) failed (group 2)
+
+Significant differences between failed vs survived groups (p < 0.05) regarding:
+- Number of smoker patients
+- Fresh socket vs delayed implant placement
+- Patients who received bone graft
+- Mean time of infection diagnosis
+
+Kaplan–Meier analysis:
+- Without postoperative antibiotics: risk of failure increased by 1.1× (HR) when infection occurred at 4 days after surgery
+- With postoperative antibiotics (smokers): risk of failure increased when infection occurred after 6 days
+- With postoperative antibiotics (non-smokers): risk of failure increased when infection occurred after 9 days
+
+CONCLUSION
+Smoking, early infection, fresh socket placement, and placement of implants along with bone substitutes may increase the failure rate after acute infection in dental implant placement.

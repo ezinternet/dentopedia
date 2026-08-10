@@ -9,8 +9,18 @@ pdf_filename: hasegawa-2020-meso-micro-nano-rough-titanium-surface.pdf
 source_collection: external
 ---
 
-## One-line Summary
-In-vivo/in-vitro study: acid-etching cpTi at 140°C creates hierarchical meso+micro+nano surface (Ra 6-12× higher); osteoblast differentiation ↑ without compromising attachment; bone-implant integration significantly enhanced vs micro-only.
+## Three-line Summary
+In-vivo/in-vitro study: acid-etching cpTi at 140°C creates hierarchical meso+micro+nano surface (Ra 6-12× higher);
+
+osteoblast differentiation ↑ without compromising attachment; bone-implant integration significantly enhanced vs micro-only.
+
+(see methodology).
+## 세줄요약
+in vivo/in vitro 연구(쥐 대퇴골 모델): 140°C 산식각 처리가 계층적 중간규모(20-50µm spike, 140°C 이상에서만 형성)·미규모·나노규모 표면 생성; Ra는 미규모 단독 표면 대비 6-12배 증가.
+
+골모세포 부착·분화(ALP, 광화) 유의 증가, in vivo BIC 및 푸시인 강도 미규모 단독 대비 유의 증가(BIC: ~60% vs ~90%).
+
+임상적 의미: 계층적 표면 위상은 骨유도성 능력과 세포 증식을 양립시키며, 중간규모 스파이크가 골-임플란트 통합의 주요 예측 인자(회귀분석 유의).
 
 ## 1. Document Information
 Int J Mol Sci 2020;21:783. doi:10.3390/ijms21030783. UCLA + Aichi Gakuin. Published 2020-01-25.

@@ -10,8 +10,21 @@ pdf_filename: li-2025-immediate-implant-periodontitis-short-term-retrospective.p
 source_collection: external
 ---
 
-## One-line Summary
-중국 Jinan Univ 후향 연구 (FCIMB 2025, n=95 환자/234 implants, 평균 58.6세, 2018 AAP/EFP 분류): 치주염 환자에서 systematic periodontal treatment 없이 즉시 식립 — 1년 생존율 97.86%; Stage IV 및 Grade C에서 생존율 유의하게 낮음 (Kaplan-Meier).
+## Three-line Summary
+
+중국 Jinan Univ 후향 연구 (FCIMB 2025, n=95 환자/234 implants, 평균 58.6세,
+
+2018 AAP/EFP 분류): 치주염 환자에서 systematic periodontal treatment 없이 즉시 식립 —
+
+1년 생존율 97.86%; Stage IV 및 Grade C에서 생존율 유의하게 낮음 (Kaplan-Meier).
+
+## 세줄요약
+
+중국 Jinan Univ 후향 연구 (FCIMB 2025, n=95 환자/234 임플란트, 평균 58.6세,
+
+2018 AAP/EFP 분류): 치주염 환자에서 systematic periodontal treatment 없이 즉시 식립 —
+
+1년 생존율 97.86%; Stage IV 및 Grade C에서 생존율 유의하게 낮음 (Kaplan-Meier).
 
 ## 2. Key Contributions
 - 2018 AAP/EFP 분류 (Stage·Grade) 사용 — 동시대 표준.
@@ -22,7 +35,7 @@ source_collection: external
 Retrospective n=95 patients / 234 implants, Jinan Univ Stomatological Hospital 2017-2022; 2018 AAP/EFP Stage by CBCT MBL + Grade by annual loss rate, smoking, diabetes; atraumatic extraction + Bio-Oss + Bio-Gide; 12 month follow-up; outcomes survival, mSBI, mPLI, MBL, PPD.
 
 ## 4. Key Results
-[근거강함]
+[확인]
 - 1년 생존율: 97.86%
 - Stage IV, Grade C: 유의하게 낮은 생존
 - Postop: mSBI, mPLI 유의 차이 between Stages (p=0.002, 0.007), Grade NS
@@ -36,7 +49,7 @@ Retrospective n=95 patients / 234 implants, Jinan Univ Stomatological Hospital 2
 
 ## 6. Related Work
 - [[implants/carra-2023-primordial-primary-prevention-peri-implant-sr-ma]] — primordial prevention (treat periodontitis first).
-- [[immediate-implant/colak-2023-immediate-implant-periapical-pathology-retrospective]] — periapical immediate.
+- [[immediate-implant/infected-socket/colak-2023-immediate-implant-periapical-pathology-retrospective]] — periapical immediate.
 - [[implants/galarraga-vinueza-2025-peri-implant-disease-risk-factors]] — risk factors.
 
 ## 7. Glossary

@@ -15,13 +15,21 @@ The "what modulates overeruption" table in [[wiki/overviews/unopposed-tooth-over
 
 Note: only abstract-level detail available from the source PDF (publisher landing-page print). No full Results body, tables, or numeric effect sizes are present in the retrieved file.
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective clinical study (n=91 patients with partially or completely unopposed posterior teeth): partial occlusal contact did NOT reduce the extent of overeruption versus complete lack of contact, and partially-opposed teeth tipped MORE — partial contact should not be relied on to maintain vertical tooth position.
+Retrospective clinical observational study (n=91 patients, Leeds, comparing completely unopposed vs partially-opposed posterior teeth) measuring overeruption extent and degree of tipping; only abstract-level data available.
 
-## 한줄요약
+Partial occlusal contact did not reduce the extent of overeruption versus complete absence of occlusal contact; partially-opposed teeth showed significantly greater tipping than completely unopposed teeth; there was no significant correlation between overeruption extent and tipping.
 
-후향적 임상연구 (91명, 부분/완전 대합치 상실 후방치). 부분 교합접촉 (Partial Occlusal Contact) 은 완전 무대합 대비 정출 (Overeruption) 양을 줄이지 못했고, 부분대합치는 오히려 더 많이 경사 (Tipping) 됨 — 부분접촉만으로 수직 치아위치를 유지한다고 믿어선 안 된다.
+Partial residual contact cannot be relied upon clinically to prevent overeruption or maintain vertical tooth position — the absence of full functional intercuspal loading permits eruptive drift regardless of partial contact.
+
+## 세줄요약
+
+후향적 임상 관찰 연구 (n=91명, Leeds, 완전 무대합 vs 부분 대합 후방치 비교): 과맹출(Overeruption) 정도와 경사(Tipping) 각도를 계측; 초록 수준 데이터만 이용 가능.
+
+부분 교합접촉(Partial Occlusal Contact)은 완전 무대합 대비 과맹출 양을 줄이지 못했으며, 부분 대합치는 오히려 완전 무대합치보다 유의하게 더 많이 경사; 과맹출 정도와 경사 사이의 상관관계는 비유의.
+
+부분 접촉이 남아있더라도 완전한 기능적 교합 하중 없이는 맹출 이동이 발생하므로, 부분 접촉만으로 치아 수직 위치를 유지한다고 믿어선 안 됨.
 
 ## 1. Document Information
 

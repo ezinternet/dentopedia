@@ -6,7 +6,7 @@ date: 2024-10-01
 doi: 10.3390/medicina60101610
 source: lee-2024-impact-polydeoxyribonucleotides-morphology-viability-osteogenic.md
 category: [pdrn]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/lee-2024-impact-polydeoxyribonucleotides-morphology-viability-osteogenic.pdf
 pdf_filename: lee-2024-impact-polydeoxyribonucleotides-morphology-viability-osteogenic.pdf
 source_collection: external
@@ -18,13 +18,21 @@ relations:
     target: ku-2025-polydeoxyribonucleotide-pdrn-dentistry-narrative-review
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In vitro study on human gingiva-derived mesenchymal stem cell (GMSC) spheroids: PDRN was non-cytotoxic across all tested doses and significantly increased calcium deposition at 75 μg/mL by Day 14, with a marker-specific dose-response (RUNX2 peaked at 25 μg/mL, COL1A1 at 75 μg/mL).
+In vitro 3D spheroid study using human gingiva-derived mesenchymal stem cells (GMSCs) tested at PDRN concentrations of 25, 50, 75, and 100 μg/mL over Days 7 and 14, assessing viability, osteogenic differentiation, and gene expression (RUNX2, COL1A1) including RNA sequencing.
 
-## 한줄요약
+PDRN was non-cytotoxic across all doses; calcium deposition was significantly higher at 75 μg/mL by Day 14; RUNX2 mRNA peaked at 25 μg/mL while COL1A1 peaked at 75 μg/mL; RNA-seq identified distinct osteogenic gene clusters in PDRN-treated spheroids.
 
-GMSC spheroid in vitro에서 PDRN의 osteogenic effect 검증. D14, 75 μg/mL에서 calcium deposition 유의 증가. RUNX2는 25 μg/mL, COL1A1은 75 μg/mL에서 peak — marker별로 최적 농도가 다름.
+The marker-specific dose-response undermines any notion of a single optimal PDRN concentration, and the GMSC spheroid model provides a 3D mechanistic platform that extends the in vitro osteogenic evidence beyond 2D cell lines.
+
+## 세줄요약
+
+줄1: 인간 치은 유래 중간엽 줄기세포(GMSC) spheroid에 PDRN 25/50/75/100 μg/mL을 적용해 생존성·골분화·유전자 발현(RUNX2, COL1A1) 및 RNA-seq을 7·14일에 평가한 in vitro 연구.
+
+줄2: 모든 농도에서 세포독성 없음; D14 75 μg/mL에서 calcium 침착 유의 증가; RUNX2 mRNA는 25 μg/mL, COL1A1은 75 μg/mL에서 최고치; RNA-seq에서 골형성 관련 유전자 클러스터 확인.
+
+줄3: 골분화 마커별로 최적 농도가 달라 단일 최적 농도 개념이 성립하지 않으며, 3D spheroid 모델이 2D 세포주를 넘어선 기전 탐색 플랫폼을 제공.
 
 ## Summary
 

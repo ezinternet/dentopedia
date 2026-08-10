@@ -19,13 +19,21 @@ Seeds the wiki's first CeraSeal / premixed bioceramic-sealer cytotoxicity anchor
 
 Source: PubMed Central full text (PMCID PMC10003288), DOI 10.4103/jcd.jcd_320_22.
 
-## One-line Summary
+## Three-line Summary
 
 In-vitro L929 fibroblast MTT/microscopy study (n=36, 4 sealers x 0 h/24 h/7 d) showing calcium-silicate sealers CeraSeal and Bio-C drop from severe cytotoxicity at 0 h to noncytotoxic (>90% viability) by 24 h, while AH Plus stays severely cytotoxic at all time points and MTA-Fillapex remains moderate.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 L929 섬유아세포 MTT/현미경 in-vitro 연구(n=36, 4종 실러 x 0시간/24시간/7일): 칼슘실리케이트 실러 CeraSeal·Bio-C는 0시간 심한 세포독성에서 24시간에 무독성(생존율 >90%)으로 회복, AH Plus는 전 기간 심한 독성 유지, MTA-Fillapex는 중등도에 머묾.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

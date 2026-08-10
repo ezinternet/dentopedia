@@ -13,8 +13,21 @@ source_collection: external
 
 잔존골 높이(Residual Bone Height, RBH)가 극도로 낮은 경우(0.4–1.5 mm)에도 골밀도화(Osseodensification, OD) 경치조골 접근이 측방창(Lateral Window)을 대체할 수 있는지 검증하는 사례. 전통적으로 측방창 전용 영역으로 여겨지던 RBH ≤1.5 mm까지 경치조골 적응증을 확장하는 근거로, 술식 선택의 경계 사례를 채운다. See [[overviews/sinus-lift-technique-selection]].
 
-## One-line Summary
-3-patient case series proposing an OD-based crestal sinus window technique for very low RBH (0.4–1.5 mm), reporting 10.3–13.6 mm vertical bone gain comparable to lateral window with no membrane perforations.
+## Three-line Summary
+
+3-patient case series proposing an OD-based crestal sinus window technique
+
+for very low RBH (0.4–1.5 mm), reporting 10.3–13.6 mm vertical
+
+bone gain comparable to lateral window with no membrane perforations.
+
+## 세줄요약
+
+3-patient 증례 모음 (Case Series) proposing an OD-based crestal sinus window technique
+
+for very low RBH (0.4–1.5 mm), reporting 10.3–13.6 mm vertical
+
+bone gain comparable to lateral window with no membrane perforations.
 
 ## 1. Document Information
 - **Type**: Case report / case series (n = 3 patients)

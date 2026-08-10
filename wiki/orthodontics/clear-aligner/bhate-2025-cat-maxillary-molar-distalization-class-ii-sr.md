@@ -6,7 +6,7 @@ date: 2025-06-30
 doi: 10.4103/jispcd.jispcd_59_24
 source: bhate-2025-cat-maxillary-molar-distalization-class-ii-sr.md
 category: [orthodontics/clear-aligner]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "40838033"
@@ -17,13 +17,21 @@ text_filename: bhate-2025-cat-maxillary-molar-distalization-class-ii-sr.txt
 tags: [clear-aligner, invisalign, distalization, class-ii, predictability, achieved-predicted, molar]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR (11 studies, n=278, all Invisalign): clear aligners achieve maxillary molar distalization up to ~2 mm with good accuracy; achieved-vs-predicted was 36-75% (M6), 42-72% (M7), derotation 63-78%; moderate-quality, mostly retrospective evidence.
+Systematic review (PROSPERO; 547→11 clinical studies, n=278, all Invisalign; 8 retrospective, 3 prospective; NOS+ROBINS-I; AHRQ moderate quality) examining clear aligner maxillary molar distalization for Class II malocclusion.
 
-## 한줄요약
+Clear aligners achieved maxillary molar distalization ranging 0.67–2.54 mm (practical ceiling ~2 mm); achieved-vs-predicted expression was 36.5–75.5% for M6, 41.9–72.2% for M7, and derotation accuracy 62.7–77.5%; attachments and microimplants with Class I elastics reduced anchorage loss.
 
-SR(11편, n=278, 전부 Invisalign): 상악 대구치 distalization 최대 약 2 mm 양호한 정확도. 달성/예측 = M6 36-75%, M7 42-72%, derotation 63-78%. 근거 moderate, 대부분 후향적.
+Plan aligner molar distalization with realistic expectations (~2 mm ceiling, significant under-expression), build in overcorrection, and reinforce anchorage with attachments/TADs.
+
+## 세줄요약
+
+체계적 문헌고찰(PROSPERO; 547→임상연구 11편, n=278, 전부 Invisalign; 후향 8·전향 3; NOS+ROBINS-I; AHRQ moderate) — 투명교정장치(Clear Aligner Therapy, CAT)에 의한 상악 대구치 원심이동(Distalization) 효과 검토.
+
+달성 원심이동량 0.67~2.54 mm(실용적 상한 ~2 mm); 달성/예측 표현율 — 제1대구치(M6) 36.5~75.5%, 제2대구치(M7) 41.9~72.2%, 회전 정확도 62.7~77.5%; 어태치먼트·미니스크루+Class I 고무줄이 고정원 손실 감소.
+
+투명교정 대구치 원심이동은 현실적 기대치(~2 mm 한계, 상당한 과소표현)와 함께 계획하고, 과교정 설계 및 어태치먼트/TAD로 고정원 보강 필요.
 
 ## Summary
 

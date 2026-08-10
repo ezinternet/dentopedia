@@ -4,25 +4,30 @@ title: "Drill Thermal Protocol Selector — Chairside"
 type: interactive
 date: 2026-05-27
 status: draft
-verified: 2026-06-27
+verified: 2026-07-21
 category: implant-placement
 agenda: agenda/2026-05-27_chairside-interactives-batch.md
 source_wiki:
   - wiki/overviews/implants-clinical-decision-ladder.md
   - wiki/overviews/osseodensification-clinical-applications.md
-  - wiki/implants/bento-2023-steel-versus-zirconia-drills-heat.md
-  - wiki/implants/sorgato-2025-drill-bit-wear-temperature.md
-  - wiki/implants/saxena-2024-guided-implant-drilling-bone-temperature.md
-  - wiki/implants/marzorati-2026-osseodensification-standard-osteotomy-torque-isq-sr-ma.md
-  - wiki/implants/woods-2022-does-irrigating-while-drilling-decrease.md
-  - wiki/implants/rugova-2024-thermal-evaluation-bone-drilling-sequential.md
-  - wiki/implants/heuzeroth-2021-thermal-exposure-osteotomy-osseointegration.md
-  - wiki/implants/jain-2024-heat-generation-pain-piezosurgery-drilling.md
+  - wiki/implants/osteotomy-thermal/bento-2023-steel-versus-zirconia-drills-heat.md
+  - wiki/implants/osteotomy-thermal/sorgato-2025-drill-bit-wear-temperature.md
+  - wiki/implants/osteotomy-thermal/saxena-2024-guided-implant-drilling-bone-temperature.md
+  - wiki/implants/osseodensification/marzorati-2026-osseodensification-standard-osteotomy-torque-isq-sr-ma.md
+  - wiki/implants/osseodensification/de-lima-2026-osseodensification-vs-conventional-drilling-exvivo.md
+  - wiki/implants/osteotomy-thermal/woods-2022-does-irrigating-while-drilling-decrease.md
+  - wiki/implants/osteotomy-thermal/rugova-2024-thermal-evaluation-bone-drilling-sequential.md
+  - wiki/implants/osteotomy-thermal/heuzeroth-2021-thermal-exposure-osteotomy-osseointegration.md
+  - wiki/implants/osteotomy-thermal/jain-2024-heat-generation-pain-piezosurgery-drilling.md
+  - wiki/implants/osseodensification/de-agostinho-neto-2026-in-vitro-evaluation-different-implant-systems.md
+  - wiki/bone-regeneration/lopez-valverde-2025-bone-expansion-compaction-densification-narrow-crests-sr-ma.md
+  - wiki/implants/coyac-2019-preclinical-model-links-osseo-densification-misfit.md
 tags: [implants, drilling, thermal, osseointegration, osseodensification, chairside-calculator, hygienist-tool]
 notes: |
   단일 HTML. drill thermal stress 위험 평가 + OD 전환 권고.
   47°C 1min · 50°C bone osteonecrosis 임계 (Eriksson 1983, Heuzeroth 2021 등).
   로직 출처: implants-clinical-decision-ladder 축 3 (신설).
+  verified 2026-07-02: implants-clinical-decision-ladder 2026-07-01 갱신은 reorg/dedup(구조적)으로 thermal 임계값(47°C/1min·50°C) 무변화 재확인.
 ---
 -->
 <!DOCTYPE html>
@@ -220,7 +225,7 @@ function calculate(e){
   else if (useRatio >= 0.4) score += 5;
 
   // Method
-  if (method === 'od') { score -= 10; refs.push('Marzorati 2026 SR-MA: OD가 standard 대비 thermal 유리'); refs.push('Soldatos 2024: OD bur 23회+ 재사용 + 800/1200 RPM 시 ΔT가 47°C 초과; 1000 RPM 최저 발열'); if (use >= 23) { score += 10; flags.push('<span class="flag">OD bur 23회+ 재사용 — Soldatos 2024 47°C 초과 위험</span>'); } }
+  if (method === 'od') { score -= 10; refs.push('Marzorati 2026 SR-MA: OD가 standard 대비 thermal 유리'); refs.push('Soldatos 2024: OD bur 23회+ 재사용 + 800/1200 RPM 시 ΔT가 47°C 초과; 1000 RPM 최저 발열'); refs.push('de Lima 2026 ex vivo (Type IV, 1000rpm+관수): OD 최고온도 28–31°C로 conventional과 NS (p=0.087)·47°C 임계 한참 미만 — OD thermal 비열등 재확인'); refs.push('⚠️ 과잉 OD 천장: Coyac 2019(쥐 전임상, 초록 전용) — 고미스핏 배정 시 골밀도화→미세골절→골세포 사멸→조기 실패("excessive osseo-densification → osseo-destruction"). 크기 미상이나 Rizk 2024 임상 실패 3건이 독립 확인. IT·발열이 올라갈수록 ceiling 의심'); refs.push('de Agostinho Neto 2026 in vitro (소 늑골 극저밀도, n=5–8): 3개 시스템(SIN/VERSAH/MAXIMUS) 모든 지표 NS — "유용성 한계점(threshold of utility)" 가능성, 검정력 부족 유력'); if (use >= 23) { score += 10; flags.push('<span class="flag">OD bur 23회+ 재사용 — Soldatos 2024 47°C 초과 위험</span>'); } }
   else if (method === 'guided') { score += 8; flags.push('<span class="flag">Guided sleeve가 irrigation 방해 — Saxena 2024</span>'); refs.push('Saxena 2024: guided + sleeve heat dispersion 방해'); }
   else if (method === 'piezo') { score -= 5; refs.push('Jain 2024: piezo 통증·heat 저감'); }
 
@@ -275,7 +280,7 @@ function calculate(e){
       bt <= 2 ? 'Bone type ' + ['','I','II','III','IV'][bt] + ' + 고밀도 — OD 전환 또는 staged 분할 osteotomy 검토' : '',
       'Sequential drill 단계 엄격 준수',
       method === 'guided' ? 'Guided drilling 시 sleeve 외부 추가 irrigation 필수' : '',
-      method !== 'od' && bt >= 3 ? 'OD (Densah Bur) 전환 — IT(삽입토크) 일관 상승 [근거강함], thermal 유리; 단 ISQ 이득은 인체 SR+MA에서 NS·논쟁적 (osseodensification overview)' : ''
+      method !== 'od' && bt >= 3 ? 'OD (Densah Bur) 전환 — IT(삽입토크) 일관 상승 [근거강함], thermal 유리; 단 ISQ 이득은 인체 SR+MA에서 NS·논쟁적; ⚠️ 좁은 치조정 + 과잉 밀도화 주의(Coyac 2019 천장, Rizk 2024 실패 3건); 극저밀도골은 이득 미확인(de Agostinho Neto 2026 null)' : ''
     ].filter(x => x);
   }
 

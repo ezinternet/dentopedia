@@ -17,13 +17,21 @@ text_filename: chandode-2026-no-preparation-conventional-veneers-clinical-consid
 
 사용자가 "무삭제 라미네이트(no-prep veneer)·접착·프렙" 주제를 PubMed 전문 감시로 인제스트 요청. 기존 [[wiki/veneers/ali-2023-conventional-minimally-invasive-veneers-sr]](conventional vs minimally invasive SR)와 [[wiki/veneers/gonzalez-martin-2024-ultrathin-feldspathic-veneer-sem-etching]](ultrathin enamel-etch bench)는 있지만, no-prep ↔ conventional 적응증·생존율을 **결정 트리 관점에서 직접 대비한 narrative review**가 없었다. 본 리뷰는 "법랑질에 본딩될 때 no-prep 성공률 ≤97.4%, 두 술식 생존율 91–100% (no-prep 97% vs conventional 92%)"라는 비교 수치와 case-selection 경계(intrinsic discoloration·misalignment·형태 불일치 → conventional)를 제공해 veneers overview 합성의 분기 근거로 활용.
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review (Bioinformation 2026) comparing no-preparation vs conventional porcelain veneers: both show high survival (91–100%; no-prep mean ~97% vs conventional ~92%), no-prep success up to 97.4% when enamel-bonded, but no-prep is contraindicated for intrinsic discoloration, misalignment, or major morphological/contour correction — favoring a patient-specific, enamel-centered, complementary (not competing) treatment philosophy.
+Narrative review (Bioinformation 2026) comparing no-preparation (additive/contact-lens) veneers versus conventional porcelain laminate veneers across survival, esthetics, and case-selection criteria.
 
-## 한줄요약
+Both techniques show high survival (91–100%); no-prep mean ~97% vs conventional ~92%; no-prep success reaches 97.4% when bonded to intact enamel; conventional reduction ranges 0.3–1.0 mm for improved masking/contour control.
 
-무삭제(no-prep) 비니어와 통상(conventional) 비니어를 비교한 narrative review (Bioinformation 2026). 두 술식 모두 생존율 91–100%로 높고(무삭제 평균 ~97% vs 통상 ~92%), 법랑질 접착 시 무삭제 성공률 최대 97.4%지만, 내인성 변색·치아 부정정렬·형태 큰 수정이 필요한 경우엔 무삭제가 부적응 — 환자별·법랑질 중심으로 두 술식을 경쟁이 아닌 상호보완으로 선택할 것.
+No-prep is contraindicated for intrinsic discoloration, misalignment, or significant morphological discrepancy; both techniques are complementary, with selection driven by enamel availability and case-specific indication.
+
+## 세줄요약
+
+무삭제(no-prep/contact-lens) 비니어와 통상(conventional) 도재 라미네이트 비니어의 생존율·심미·적응증을 비교한 narrative review (Bioinformation 2026).
+
+두 술식 모두 생존율 91–100% 높음(무삭제 평균 ~97% vs 통상 ~92%); 법랑질 접착 시 무삭제 성공률 최대 97.4%; 통상 삭제량 0.3–1.0 mm.
+
+무삭제는 내인성 변색·부정정렬·형태 수정이 큰 경우 부적응; 법랑질 보존 여부와 증례별 적응증에 따라 두 술식을 상호보완적으로 선택해야 함.
 
 ## 1. Document Information
 

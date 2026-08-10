@@ -3,7 +3,7 @@ title: "Overview: Dental Health Economics — Demand, Cost-Sharing & Workforce"
 type: synthesis
 category: overviews
 date: 2026-06-27
-confidence: synthesis
+evidence_level: synthesis
 source_collection: synthesis
 source_papers:
   - wiki/practice-management/listl-2019-what-is-health-economics-oral-health.md
@@ -24,13 +24,21 @@ tags: [health-economics, cost-sharing, demand, workforce, supplier-induced-deman
 > - **인력 계획 원칙**: 인력은 공급 관성(supply inertia)이 아니라 **시스템 목표(필요·수요)**에서 도출해야 한다 (Listl). Chen은 이를 실증한다 — 위생사 자율성은 인력 정책 레버이지 단순 규제완화가 아니다.
 > - **임상·정책 시사점**: 치과 수요 변화는 항상 정보 비대칭·SID 렌즈로 해석할 것; 본인부담 효과는 보장체계(universal vs US)에 따라 다르다; 업무범위 확대는 용량 trade-off를 동반하는 접근성 레버다; 한국 데이터는 없어 직접 적용 전 맥락 보정 필수.
 
-## One-line Summary
+## Three-line Summary
 
-A 3-paper synthesis framing dental care as an economically atypical market (asymmetric information, supplier-induced demand, market failure → efficiency/equity trade-offs): Listl 2019 supplies the health-economics framework, and two difference-in-differences natural experiments instantiate it — Ono 2022 (removing a childhood subsidy did NOT change utilization in universal-coverage Japan) on the demand side and Chen 2024 (hygienist autonomy raises prevention but maximal autonomy lowers treatment use, strongest in shortage areas) on the supply side.
+Synthesis of 3 papers framing dental care as an economically atypical market where asymmetric information, supplier-induced demand (SID), and market failure produce efficiency/equity distortions (Listl 2019 narrative review framework): standard price and supply levers behave counterintuitively because the provider-as-agent dynamic enables demand creation.
 
-## 한줄요약
+Two difference-in-differences natural experiments test these distortions: on the demand side, removing a childhood dental subsidy at age 10 in universal-coverage Japan produced no significant 12-month change in utilization, cost, or severe conditions (Ono 2022, 1,108 children / 6,276 visits — the price change off an already-low base had no marginal effect); on the supply side, increasing dental hygienist autonomy shows a non-monotonic dose-response — moderate autonomy raises total visits via more preventive care, but maximal autonomy lowers treatment use — with both effects amplified in provider-shortage areas (Chen 2024 DiD, MEPS 2001–2014).
 
-논문 3편 종합: 치과 진료는 정보 비대칭·공급자 유발 수요·시장 실패가 작동하는 경제학적 비정상 시장이며(효율·형평 trade-off), Listl 2019가 그 이론 틀을, Ono 2022(수요측 보조금 중단 → 이용 변화 없음, 전국민보장 일본)와 Chen 2024(공급측 위생사 자율성 → 예방↑·최고자율성에서 치료↓, 취약지에서 증폭)라는 두 이중차분(DiD) 자연실험이 그 실증을 제공한다.
+Clinical bottom line: interpret demand shifts through the asymmetric-information/SID lens, not naive supply-and-demand; cost-sharing effects are context-dependent (null in universal-coverage Japan ≠ high-cost-sharing US); hygienist scope-of-practice is a workforce access lever with a dose-response turning point; Korean data are absent and require context-adjustment before direct application.
+
+## 세줄요약
+
+3편 종합: 치과 진료는 정보 비대칭·공급자 유발 수요(SID)·시장 실패가 작동하는 비정상 시장 — 표준 가격·공급 레버가 직관과 다르게 반응한다(Listl 2019 이론 틀).
+
+두 이중차분(DiD) 자연실험: 수요측 — 전국민보장 일본의 10세 소아 치과 보조금 중단이 12개월 이용·비용·중증 상태에 유의한 변화 없음(Ono 2022, 1,108명); 공급측 — 위생사 자율성은 비단조(non-monotonic) 반응: 중간 자율성은 예방진료로 방문 증가, 최고 자율성은 치료 이용 감소, 취약지에서 양 효과 증폭(Chen 2024 DiD).
+
+임상·정책 결론: 수요 변화는 항상 SID 렌즈로 해석; 본인부담 효과는 전국민보장 vs 고본인부담 맥락 구분; 위생사 업무범위 확대는 접근성 레버이나 용량 trade-off 수반; 한국 데이터 없어 직접 적용 전 맥락 보정 필수.
 
 ## Thesis
 

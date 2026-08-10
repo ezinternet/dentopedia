@@ -6,18 +6,28 @@ date: 2023-06-20
 doi: 10.3390/jcm12124156
 source: gonzalez-sanchez-2023-tmj-physiotherapy-treatment-sr.md
 category: [tmj]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/gonzalez-sanchez-2023-tmj-physiotherapy-treatment-sr.pdf
 pdf_filename: gonzalez-sanchez-2023-tmj-physiotherapy-treatment-sr.pdf
 source_collection: external
 tags: [tmd, physiotherapy, manual-therapy, therapeutic-exercise, photobiomodulation, conservative-treatment, sr]
 ---
 
-## One-line Summary
-SR (15 RCTs, J Clin Med 2023): physiotherapy — especially manual therapy combined with therapeutic exercise — effectively reduces TMD pain, improves function and QoL; combination therapy yields best results.
+## Three-line Summary
 
-## 한줄요약
-SR (15 RCT): 수기치료+운동치료 병용이 TMD 통증·기능·삶의 질에 가장 효과적인 물리치료 접근.
+Systematic review (PRISMA, PROSPERO-registered; 15 RCTs from 656 screened; J Clin Med 2023) evaluating all major physiotherapy modalities for temporomandibular disorders in adults.
+
+All modalities — manual therapy, therapeutic exercise, photobiomodulation, cervico-mandibular mobilization, and electrotherapy — were effective for reducing TMD pain; combination of manual therapy and therapeutic exercise consistently achieved the best outcomes across multiple studies.
+
+Physiotherapy is supported as evidence-based first-line conservative treatment for TMD before invasive intervention; a multidisciplinary approach integrating physiotherapy, dentistry, and psychology is recommended for complex cases.
+
+## 세줄요약
+
+성인 TMD에서 주요 물리치료 방식 전체를 평가한 체계적 문헌고찰 (PRISMA, PROSPERO 등록; 656편에서 15 RCT 포함; J Clin Med 2023).
+
+도수치료·치료적 운동·광생물조절·경부-하악 가동화·전기치료 모두 TMD 통증 감소에 효과적; 도수치료+치료적 운동 병용이 여러 연구에서 가장 일관된 최선 결과.
+
+물리치료는 침습적 처치 전 근거 기반 1차 보존 치료로 지지; 복합 증례는 물리치료·치과·심리학 다학제 접근 권고.
 
 ## Summary
 This systematic review (PRISMA, PROSPERO-registered) evaluated physiotherapy interventions for temporomandibular disorders. From 656 articles screened across four databases, 15 RCTs were included. All major physiotherapy modalities — manual therapy, therapeutic exercise, photobiomodulation, cervico-mandibular mobilization, and electrotherapy — were effective for reducing TMD pain. The critical finding: combination of manual therapy and therapeutic exercise consistently achieved the best treatment outcomes across multiple studies. This SR supports physiotherapy as evidence-based first-line conservative treatment for TMD.

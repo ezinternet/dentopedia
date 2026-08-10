@@ -6,18 +6,28 @@ date: 2013-11-17
 doi: 10.3343/alm.2013.33.6.393
 source: weykamp-2013-hba1c-review-analytical-clinical-aspects.md
 category: [drug/systemic-disease]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/weykamp-2013-hba1c-review-analytical-clinical-aspects.pdf
 pdf_filename: weykamp-2013-hba1c-review-analytical-clinical-aspects.pdf
 source_collection: external
 tags: [hba1c, glycemic-control, assay-methods, standardization, ngsp, ifcc, poc]
 ---
 
-## One-line Summary
-Narrative review of HbA1c measurement covering 5 assay methods (ion exchange chromatography, capillary electrophoresis, affinity chromatography, immunoassay, enzymatic), IFCC/NGSP dual standardization, Hb variant/HbF interference, and clinical application (diagnostic ≥6.5% threshold, pregnancy, point-of-care) — including the quality limitations of chairside POC testing relevant to dental screening.
+## Three-line Summary
 
-## 한줄요약
-서술적 고찰 (Ann Lab Med 2013) — HbA1c 측정 5개 방법(IEC, CE, AC, 면역측정, 효소법)의 원리·강약, IFCC/NGSP 표준화, Hb 변이체·HbF·유도체 간섭, 진단(≥6.5%)·임신·POC 임상 응용 종합. 치과 chairside POC 검사의 한계도 언급.
+Single-author narrative review (Ann Lab Med 2013, Cas Weykamp, MCA Laboratory Netherlands) of the full landscape of HbA1c measurement, covering 5 assay methods, dual IFCC/NGSP standardization, Hb variant/HbF interference, and clinical applications including chairside POC testing.
+
+The 5 methods (IEC/HPLC, capillary electrophoresis, affinity chromatography, immunoassay, enzymatic) differ in variant detection and throughput; the enzymatic method is largely variant-independent and preferred in mixed-variant populations; diagnostic threshold is ≥6.5% (≥48 mmol/mol); all 99% of clinically relevant Hb variants fall into S/C/D/E categories with distinct geographic distributions.
+
+For dental use, POC HbA1c is convenient for pre-surgical screening but carries quality concerns when operated by non-laboratory staff — use for screening and refer to a laboratory for diagnostic-grade results before high-risk surgery (implant placement, multiple extractions).
+
+## 세줄요약
+
+단일저자 서술적 고찰(Ann Lab Med 2013, Cas Weykamp, 네덜란드 MCA 연구소) — HbA1c 측정 5개 방법(IEC·CE·AC·면역측정·효소법)의 원리·강약, IFCC/NGSP 이중 표준화, Hb 변이체·HbF 간섭, 진단·임신·POC 임상 응용 종합.
+
+5개 방법 중 효소법은 변이체 독립적이어서 혼합 인구 집단에서 선호; 진단 역치 ≥6.5%(≥48 mmol/mol); 임상적으로 유의한 Hb 변이체의 99%는 S/C/D/E 유형(각각 지리적 분포 상이).
+
+치과 활용 시 POC HbA1c는 수술 전 스크리닝에 편리하나 비실험실 직원 조작 시 품질 우려가 있어 고위험 수술(임플란트·다발성 발치) 전에는 스크리닝 후 검사실 측정값으로 확인하는 것이 권고된다.
 
 ## Summary
 Single-author narrative review by Cas Weykamp (MCA Laboratory, Netherlands) covering the full landscape of HbA1c assays. The review groups methods into two principles — **separation methods** (Ion Exchange Chromatography, Capillary Electrophoresis, Affinity Chromatography) based on physicochemical differences between glycated and non-glycated Hb, and **chemical reaction methods** (Immunoassay, Enzymatic) based on specific binding or enzymatic cleavage. It describes the dual standardization architecture (IFCC Reference Measurement Procedure as gold standard, NGSP-traceable to DCCT as clinical anchor) and the resulting dual reporting in % (NGSP) vs mmol/mol (IFCC). Clinical sections cover diagnostic application (≥6.5% threshold), pregnancy use, and Point-of-Care (POC) testing strengths (convenience) and weaknesses (variable quality from non-laboratory staff).

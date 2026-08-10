@@ -6,20 +6,28 @@ date: 2025-03-06
 doi: "PMID:40047360"
 source: sabri-2025-keratinized-mucosa-implant-health-umbrella-review.md
 category: [implants/peri-implantitis]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/sabri-2025-keratinized-mucosa-implant-health-umbrella-review.pdf
 pdf_filename: sabri-2025-keratinized-mucosa-implant-health-umbrella-review.pdf
 source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Umbrella SR + meta-meta-analysis of 10 SRs (2012–2023): KM width < 2 mm is independently associated with greater mucosal recession (eOR 4.05), higher gingival/plaque indices, and greater marginal bone loss (eOR 1.852), with no significant effect on bleeding on probing or pocket depth.
+Umbrella systematic review + quantitative meta-meta-analysis of 10 SRs (2012–2023; Sabri, Wang, Barootchi group) examining peri-implant keratinized mucosa (KM) width significance, using Hedges' g converted to equivalent odds ratios (eOR).
 
-## 한줄요약
+KM width <2 mm was significantly associated with worse mucosal recession (eOR 4.05), gingival inflammation (eOR 3.131), plaque scores (eOR 5.34), and marginal bone loss (eOR 1.852), while BOP, pocket depth, and implant survival showed no significant association.
 
-10개 SR을 통합한 우산형 체계적 고찰 + 메타-메타분석: 각화점막 (Keratinized Mucosa, KM) 폭 < 2 mm는 치은퇴축 (eOR 4.05)·치은지수·수정플라그지수·변연골소실 (eOR 1.852)과 유의한 연관성이 있으나, 탐침 시 출혈·탐침 깊이와는 유의한 연관성 없음.
+Follow-up duration did not moderate outcomes, suggesting KM-related risk is persistent rather than time-dependent; the highest-tier evidence confirms inadequate KM as a clinically meaningful risk factor for peri-implant soft- and hard-tissue outcomes.
+
+## 세줄요약
+
+우산형 체계적 고찰(Umbrella Systematic Review) + 메타-메타분석(Meta-meta-analysis), 10개 SR(2012–2023; Sabri, Wang, Barootchi 그룹): Hedges' g를 동등 오즈비(Equivalent Odds Ratio, eOR)로 변환해 임플란트 주위 각화점막(Keratinized Mucosa, KM) 폭의 임상적 의의를 최고 수준에서 종합.
+
+KM <2 mm는 치은 퇴축(eOR 4.05)·치은지수(eOR 3.131)·수정 치태지수(eOR 5.34)·변연골소실(eOR 1.852)과 유의하게 연관됐으며, 탐침 시 출혈(BOP)·탐침 깊이·임플란트 생존율은 유의한 연관 없음.
+
+추적 기간이 유의한 결과 조절 변수가 아니었으므로 KM 부족 관련 위험은 시간 의존적이 아니라 지속적이며, 임플란트 주위 연·경조직 모두에 임상적으로 의미있는 위험인자임이 최고 수준 근거로 확인됨.
 
 ## Summary
 

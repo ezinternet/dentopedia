@@ -6,18 +6,28 @@ date: 2023-12-01
 doi: 10.1097/MD.0000000000036391
 source: feng-2024-autogenous-particulated-dentin-graft-arp.md
 category: [bone-regeneration/ridge-preservation]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/feng-2024-autogenous-particulated-dentin-graft-arp.pdf
 pdf_filename: feng-2024-autogenous-particulated-dentin-graft-arp.pdf
 source_collection: external
 tags: [ARP, socket-preservation, autogenous-dentin, APD, meta-analysis, RCT, histomorphometry, DBBM]
 ---
 
-## One-line Summary
-SR+MA (10 RCTs, n=182): autogenous particulated dentin (APD) is superior to other grafted materials for horizontal ridge width and labial bone height preservation, with +10.51% higher vital bone area and −8.76% lower residual graft area compared with other bone substitutes.
+## Three-line Summary
 
-## 한줄요약
-체계적 문헌고찰 + 메타분석 (10편 무작위 대조 시험 (Randomized Controlled Trial, RCT), n = 182): 자가치아입자 (Autogenous Particulated Dentin, APD)는 발치와 보존 (Alveolar Ridge Preservation, ARP)에서 수평적 치조제 폭과 순측 골 높이 유지에 우수하며, 다른 골이식재 (Other Grafted Materials, OGM) 대비 활성 골 면적이 +10.51% 더 높고 잔존 이식재 면적은 -8.76% 더 낮음.
+PRISMA SR+MA (PROSPERO CRD42023409339, 10 RCTs, n=182) evaluating autogenous particulated dentin (APD) as an ARP graft vs. blood clot healing (BCH) and other grafted materials (OGM: DBBM, β-TCP, allograft) — the first quantitative pooled analysis of APD for socket preservation.
+
+APD significantly preserves horizontal ridge width vs. BCH (+1.61 mm, 95% CI 0.76–2.46) and OGM (+1.28 mm, 95% CI 1.08–1.48); vs. OGM, APD yields +10.51% vital bone area (p<.001) and −8.76% residual graft area — APD resorbs/integrates faster than xenograft.
+
+APD is a viable same-day autograft using the extracted tooth itself, with equivalent or superior outcomes to xenograft; the pooled sample (n=182) and heterogeneous APD prep protocols limit certainty before declaring APD broadly superior to DBBM.
+
+## 세줄요약
+
+PRISMA 체계적 문헌고찰 및 메타분석 (Systematic Review with Meta-Analysis, SR+MA, PROSPERO CRD42023409339, 10개 무작위 대조 시험, n=182): 발치와 보존술 (Alveolar Ridge Preservation, ARP)에서 자가치아 입자 (Autogenous Particulated Dentin, APD) vs 혈병 치유 (Blood Clot Healing, BCH) 및 기타 골이식재 (Other Grafted Materials, OGM) — 최초 APD ARP 정량 풀링 분석.
+
+APD가 수평 치조제 폭 보존에서 BCH 대비 +1.61 mm (95% CI 0.76–2.46), OGM 대비 +1.28 mm (95% CI 1.08–1.48) 우수; OGM 대비 활성 골 면적 +10.51%, 잔존 이식재 면적 −8.76% (APD가 이종골보다 빠르게 흡수·통합).
+
+APD는 발치 당일 발치 치아 자체를 이식재로 쓰는 자가이식 대안으로 이종골과 동등 이상의 결과 — 단 n=182 소규모·APD 제조법 이질성으로 이종골 대비 광범위한 우월성 선언에는 추가 대규모 무작위 대조 시험 필요.
 
 ## Summary
 PRISMA-compliant meta-analysis (PROSPERO CRD42023409339) pooling 10 RCTs (182 patients) on **autogenous particulated dentin (APD)** as an ARP graft, comparing against blood clot healing (BCH) or other grafted materials (OGM: DBBM, β-TCP, allograft). APD significantly outperformed both comparators on ridge dimensional preservation, and outperformed OGM on vital bone formation and graft resorption — establishing APD as a credible same-day, low-cost autograft for ARP.

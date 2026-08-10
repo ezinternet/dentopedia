@@ -6,18 +6,28 @@ date: 2026-04-22
 doi: 10.1111/cid.70156
 source: tisci-2026-isq-it-mbl-survival-sr-ma.md
 category: [implants/isq]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/tisci-2026-isq-it-mbl-survival-sr-ma.pdf
 pdf_filename: tisci-2026-isq-it-mbl-survival-sr-ma.pdf
 source_collection: external
 tags: [ISQ, RFA, insertion-torque, MBL, implant-survival, SR+MA, primary-stability]
 ---
 
-## One-line Summary
-PRISMA-compliant SR+MA (48 studies; 20 for quantitative ISQ-IT synthesis): ISQ correlates moderately with insertion torque (pooled Pearson r=0.44, 95% CI 0.32–0.55, p<0.001) but with substantial heterogeneity (I²>90%); surviving implants trend toward higher baseline ISQ (MD=10.22, NS), and MBL/success were not quantifiable — ISQ is a useful complementary primary-stability indicator but not an independent predictor of MBL or survival.
+## Three-line Summary
 
-## 한줄요약
-ISQ–삽입토크 상관관계 SR+MA (48편): 중등도 유의 상관(r=0.44, p<0.001)이나 I²>90% — ISQ는 1차 안정성의 보조 지표로 유효하지만 MBL·생존율의 독립 예측인자로 쓰기엔 근거 불충분 (CIDRE 2026).
+PRISMA-compliant SR+MA (48 studies; 20 for quantitative synthesis) examining the relationship between ISQ, insertion torque (IT), marginal bone loss (MBL), and implant survival in systemically healthy patients.
+
+Pooled ISQ–IT correlation is moderate and significant (Pearson r=0.44, 95% CI 0.32–0.55, p<0.001) but with substantial heterogeneity (I²>90%); surviving implants trended toward higher baseline ISQ (MD=10.22) but NS; quantitative synthesis of MBL and success was not feasible.
+
+ISQ is a valid complementary primary-stability indicator alongside IT but current evidence does not support it as an independent predictor of MBL or implant survival.
+
+## 세줄요약
+
+PRISMA 준수 SR+MA (48편; 정량 합성 20편): 임플란트 안정성 지수 (Implant Stability Quotient, ISQ)와 삽입 토크 (Insertion Torque, IT), 변연골 소실 (Marginal Bone Loss, MBL), 생존율의 관계 평가.
+
+ISQ–IT 풀링 상관계수 중등도 유의 (Pearson r=0.44, 95% CI 0.32–0.55, p<0.001), 단 I²>90%로 이질성 매우 높음; 생존 임플란트가 실패 임플란트보다 기저 ISQ 높은 경향(MD=10.22)이나 비유의; MBL·성공률 정량 합성 불가.
+
+ISQ는 IT와 함께 보조적 1차 안정성 지표로 유효하나, MBL·생존율의 독립 예측인자로 쓰기 위한 근거는 현재 불충분하다.
 
 ## Summary
 PRISMA-compliant SR+MA (48 studies, 20 for quantitative ISQ-IT analysis) examining whether ISQ correlates with insertion torque (IT), marginal bone loss (MBL), and implant survival/success in systemically healthy patients. Pooled Pearson r for ISQ-IT = 0.44 (95% CI 0.32–0.55, p<0.001) — moderate and statistically significant. However, I²>90% indicates substantial heterogeneity that limits clinical interpretability. Surviving implants showed higher baseline ISQ (mean difference 10.22) but pooled estimate was not statistically significant. Quantitative synthesis for MBL and success was not feasible due to inconsistent reporting. Conclusion: ISQ has value as a complementary primary stability indicator alongside IT, but current evidence does not support it as an independent predictor of MBL or implant survival.

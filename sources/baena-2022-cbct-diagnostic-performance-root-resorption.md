@@ -13,11 +13,21 @@ source_collection: external
 
 radiology 카테고리 보강(진단정확도+피폭). 진단정확도와 유효선량을 한 논문에서 정량 - [[radiology/khafaji-2023-scattered-dose-eye-dentistry-cbct]](피폭)·[[radiology/tay-2022-influence-cbct-endodontic-treatment-planning]](정당화)와 삼각.
 
-## One-line Summary
-SR+MA (17 studies) - CBCT for external root resorption has pooled sensitivity 78.1% and specificity 79.3% (ranges 42-98% / 49-96%); effective dose 34-1073 microSv, highlighting accuracy-dose trade-off.
+## Three-line Summary
 
-## 한줄요약
-SR+MA(17편) - 외흡수(ERR) 진단에서 CBCT 민감도 78.1%·특이도 79.3%(범위 42-98%/49-96%); 유효선량 34-1073 µSv로 정확도-피폭 trade-off 부각.
+SR+MA (17 studies, PRISMA/QUADAS-2) evaluating CBCT diagnostic accuracy for external root resorption in vivo and in vitro across 7,841 screened records.
+
+Pooled sensitivity 78.1% (range 42–98%) and specificity 79.3% (range 49–96%); effective radiation dose ranged widely from 34 to 1,073 µSv across included protocols.
+
+Clinicians should weigh the diagnostic benefit of CBCT against substantial dose variation; high-resolution protocols improve detection but increase exposure, and in vitro studies dominate limiting real-world applicability.
+
+## 세줄요약
+
+SR+MA(17편, PRISMA/QUADAS-2) — 외흡수(External Root Resorption, ERR) 진단에 대한 CBCT 정확도를 생체내·시험관 연구에서 평가.
+
+통합 민감도 78.1%(범위 42–98%), 특이도 79.3%(범위 49–96%); 유효선량은 프로토콜에 따라 34–1,073 µSv로 큰 편차.
+
+진단 이득과 피폭량의 trade-off를 고려해야 하며, in vitro 연구 비중이 높아 임상 적용 시 주의가 필요하다.
 
 ## 1. Document Information
 J Evid Based Dent Pract 2022;23(1):101803 · Teresa Baena-de la Iglesia, Rosa Maria Yanez-Vico, Alejandro Iglesias-Linares (Complutense Madrid) · 2022 · DOI: 10.1016/j.jebdp.2022.101803. Study type: sr+ma.
@@ -30,7 +40,7 @@ J Evid Based Dent Pract 2022;23(1):101803 · Teresa Baena-de la Iglesia, Rosa Ma
 DTA 프로토콜 SR+MA, PRISMA, QUADAS-2. 7841→17편(in vivo 6편 low RoB).
 
 ## 4. Key Results and Benchmarks
-민감도 78.12%·특이도 79.25%(범위 42-98%/49.3-96.3%); 유효선량 34-1073 µSv [근거강함~합의수준].
+민감도 78.12%·특이도 79.25%(범위 42-98%/49.3-96.3%); 유효선량 34-1073 µSv [확인].
 
 ## 5. Limitations and Future Work
 in vitro 다수, 측정·classification 이질.

@@ -13,13 +13,21 @@ source_collection: external
 
 리튬 디실리케이트 세라믹 접착에서 실란의 화학적 상태(실란올 단량체 vs 실록산 중합체)와 표면 처리(광택 vs HF 에칭)가 접착강도에 미치는 영향을 13C-NMR·ATR-FTIR·SBS로 체계적으로 분석한 논문. 유니버설 접착제 내 실란 활성도 저하 문제를 근거 있게 설명하여 [[resin-bonding/kheirkhah-2021-universal-adhesive-silane-porcelain-repair-bond]]의 임상 관찰(별도 실란 필요성)에 분자적 근거를 제공한다.
 
-## One-line Summary
+## Three-line Summary
 
-In vitro (5 silane products × 2 ceramic surface conditions, 13C-NMR + ATR-FTIR + SBS Weibull analysis): Prehydrolyzed silanol monomer (Calibra Silane) achieved highest bond strength; universal adhesives/primers containing siloxane adducts showed reduced chemical bonding, with HF etching compensating by micromechanical retention.
+In vitro study (5 silane products × 2 surface conditions — polished vs HF-etched lithium disilicate IPS e.max, n=20/group) using 13C-NMR to characterize silane chemical status, ATR-FTIR to confirm ceramic–silane bonding, and SBS Weibull analysis to measure bond strength.
 
-## 한줄요약
+Prehydrolyzed silanol monomer (Calibra Silane) ranked highest in SBS on both polished and HF-etched surfaces; universal adhesives/primers containing siloxane adducts (Scotchbond Universal, Monobond Plus) showed reduced chemical bonding confirmed by ATR-FTIR, with HF etching compensating via micromechanical retention to near-equivalent final bond strength.
 
-In vitro (5종 실란 제품, 광택 vs HF 에칭 리튬 디실리케이트, NMR+FTIR+SBS): 사전가수분해 실란올 단량체(Calibra Silane)가 최고 접착강도; 유니버설 접착제의 실록산 중합체는 화학결합력 저하, HF 에칭이 기계적 유지력으로 보상.
+Silane chemistry (silanol monomer vs siloxane adduct/polymer) critically determines chemical coupling to ceramic; when a universal adhesive with degraded silane is used, HF etching is essential to achieve adequate bond strength via mechanical retention.
+
+## 세줄요약
+
+In vitro 연구(5종 실란 제품, 광택 vs HF 에칭 리튬 디실리케이트 IPS e.max, n=20/군) — 13C-NMR로 실란 화학 상태 분류, ATR-FTIR로 세라믹-실란 결합 확인, SBS 와이불(Weibull) 분석으로 접착강도 측정.
+
+사전가수분해 실란올 단량체(Calibra Silane)가 광택·HF 에칭 모두에서 최고 SBS; 유니버설 접착제/프라이머의 실록산 중합체는 ATR-FTIR에서 화학결합력 저하 확인, HF 에칭이 기계적 유지력으로 최종 강도를 보완해 근사값 달성.
+
+실란 화학 상태(실란올 단량체 vs 실록산 중합체)가 세라믹 화학 결합력을 결정적으로 좌우; 열화된 실란이 포함된 유니버설 접착제 사용 시 기계적 유지력을 위해 HF 에칭이 필수.
 
 ## 1. Document Information
 

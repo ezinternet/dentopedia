@@ -6,18 +6,26 @@ date: 2021-09-18
 doi: "10.1007/s00784-021-04183-1"
 source: shan-2021-low-level-light-therapy-dentin-hypersensitivity-sr-ma.md
 category: [dentin-hypersensitivity]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/shan-2021-low-level-light-therapy-dentin-hypersensitivity-sr-ma.pdf
 pdf_filename: shan-2021-low-level-light-therapy-dentin-hypersensitivity-sr-ma.pdf
 source_collection: external
 tags: [dentin-hypersensitivity, lllt, photobiomodulation, meta-analysis]
 ---
 
-## One-line Summary
-SR+MA (35 articles; 20 RCTs pooled) showing low-level light therapy beats placebo for immediate (SMD 1.09), interim (1.32), and persistent (2.86) DH relief, but is not superior to other desensitizers except fluoride, with high heterogeneity (I² 64–95%).
+## Three-line Summary
+SR+MA (35 articles; 20 RCTs pooled, 6 databases to Dec 2020) evaluating low-level light therapy (LLLT/photobiomodulation) for dentin hypersensitivity at immediate, interim, and persistent time horizons versus placebo and other desensitizers.
 
-## 한줄요약
-SR+MA(35편·RCT 20편): LLLT는 placebo 대비 즉시(SMD 1.09)·중간(1.32)·지속(2.86) 효과 우수하나 fluoride 외 타 제제 대비 우월성 없음(I² 64–95%).
+LLLT significantly outperformed placebo at all three horizons (SMD 1.09 → 1.32 → 2.86); it was not superior to other desensitizing strategies except fluoride agents (interim SMD 0.31; persistent 0.45); I² was 64–95%.
+
+LLLT is effective for DH and outperforms fluoride at longer follow-up, but is comparable to other desensitizers — high heterogeneity and lack of low-risk-of-bias RCTs with standardized settings limit protocol recommendations.
+
+## 세줄요약
+SR+MA(35편·RCT 20편, 2020.12까지): LLLT/광생체조절이 즉시·중간·지속 시간대에서 위약 및 타 탈감작제와 비교.
+
+LLLT는 위약 대비 세 시간대 모두 유의하게 우수(SMD 1.09→1.32→2.86); 불소 제제 제외 타 탈감작제 대비 우월성 없음(I²=64–95%).
+
+LLLT는 DH에 효과적이며 장기 추적에서 불화물 능가, 그러나 타 제제와 동등 — 높은 이질성·낮은 근거 질로 표준 프로토콜 미확립.
 
 ## Summary
 This PRISMA-based systematic review and meta-analysis evaluated low-level light therapy (LLLT/photobiomodulation) for dentin hypersensitivity across immediate, interim, and persistent time horizons. Against placebo, LLLT showed positive and increasing effect sizes (SMD 1.09 → 1.32 → 2.86). Against other desensitizing strategies, LLLT offered no significant advantage except over fluoride agents (interim SMD 0.31; persistent 0.45). Substantial heterogeneity (I² 64–95%) tempers confidence, and the authors call for low-risk-of-bias RCTs with standardized settings and longer follow-up.

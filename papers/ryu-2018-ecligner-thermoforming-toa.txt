@@ -1,0 +1,88 @@
+TITLE: Effects of thermoforming on the physical and mechanical properties of thermoplastic materials for transparent orthodontic aligners
+
+AUTHORS: Ryu JH, Kwon JS, Jiang HB, Cha JY, Kim KM
+
+JOURNAL: Korean Journal of Orthodontics, 2018; 48(5):316-325
+
+DOI: 10.4041/kjod.2018.48.5.316
+PMID: 30206530
+PMCID: PMC6123073
+
+SOURCE: PubMed Central full text (get_full_text_article)
+
+---
+
+INTRODUCTION
+
+With an increase in the demand for adult orthodontics, the demand for esthetic orthodontic appliances that can replace the commonly used metal brackets is also increasing. Conventional orthodontic brackets frequently increase the risk of carious lesions and cause gingivitis and periodontitis because of surrounding plaque accumulation. This results in impaired oral health in addition to poor esthetics during orthodontic treatment. To remedy this problem, transparent orthodontic aligners (TOAs) have been introduced as alternatives for fixed brackets and wires. TOAs can be easily inserted and removed and do not affect the chewing ability of the patient. Therefore, they are widely used in adult orthodontic treatment.
+
+Tooth movement without the use of bands, brackets, or wires was described as early as 1945 by Kesling, who reported the use of a flexible tooth positioning appliance. Subsequently, Sheridan and other researchers developed various types of invisible retainers. Align Technology, Inc. (Santa Clara, CA, USA) introduced the Invisalign system two decades ago, which further developed the principles of Kesling, Nahoum, and other researchers using computer-aided design (CAD)/computer-aided manufacturing (CAM) technology combined with laboratory techniques that facilitated the fabrication of a series of customized esthetic dental devices that were removable and could move teeth from the beginning to the end. Furthermore, Cassetta et al. developed a new orthodontic treatment technique in combination with computer-guided, minimally-invasive flapless corticotomy.
+
+The effectiveness of TOAs for orthodontic treatment has been widely reported. These aligners have been used in clinical applications where stepped teeth have been moved by approximately 0.25 to 0.33 mm. Activation of the device every 2 weeks was effective for orthodontic tooth movement. TOAs have also been studied using simulation systems and sensors. The force applied on teeth in the x, y, and z directions was measured in patients who received TOAs made from thermoplastic materials based on a three-dimensional (3D)-printed design crafted using CAD/CAM technology. In another study, the force and torque on the teeth were measured using a force-torque sensor after the insertion of TOAs. Simon et al. quantified the forces and moments delivered on incisors, premolars, and molars by a single aligner and a series of aligners. In addition, Li et al. reported that the amount of activation affected the orthodontic force imparted by aligners, and that the amount of lingual bodily movement of the maxillary central incisor for the initial 4 or 5 days is an important aspect of orthodontic treatment incorporating an aligner. However, one study reported that orthodontic treatment with TOAs was not effective because the delivered force was only 60% to 70% of the required force.
+
+The majority of current aligner manufacturers use modified polyethylene terephthalate glycol (PETG), although polypropylene, polycarbonate, thermoplastic polyurethanes, copolyester, and many other materials are also used.
+
+In the present study, we focused on thermoplastic materials used for the fabrication of TOAs, which have been evaluated for their physical and mechanical properties according to the material type and thickness. Ryokawa et al. studied the mechanical properties of thermoplastic materials in a simulated oral environment and evaluated thickness changes after thermoforming. Min et al. considered the level of forces delivered by thermoplastic TOAs for inducing physiological tooth movement and reported that the thickness of the thermoplastic material affected the amount of deflection after repeated loading and stress. Moreover, the material thickness and amount of deflection showed the largest effect on force and stress. Kwon et al. assessed the force delivery properties of thermoplastic orthodontic materials and found that the forces delivered by thin materials were greater than those delivered by thick materials of the same brand. Another study developed a new type of transparent orthodontic appliance using hybrid thermoplastic materials with a multilayered structure and evaluated the mechanical properties using tensile testing. However, there are no standard methods for evaluating the mechanical and physical properties of thermoplastic materials used for the fabrication of TOAs.
+
+The purpose of the present study was to address this gap by systematically evaluating the physical and mechanical properties of TOAs in consideration of the clinical environment in which they would be applied. A multiscale evaluation was performed after the thermoforming of various thermoplastic materials with different thicknesses in order to test the null hypothesis that the mechanical and physical properties of all materials would remain unchanged after thermoforming.
+
+MATERIALS AND METHODS
+
+Specimen preparation
+
+The following thermoplastic materials used for the fabrication of TOAs were evaluated in this study: Duran (Scheu Dental, Iserlohn, Germany), eCligner (eCligner, Seoul, Korea), Essix A+ (Dentsply Raintree Essix, Sarasota, FL, USA), and Essix ACE (Dentsply Raintree Essix). The properties of each material and the thermoforming conditions (thicknesses, temperatures, heating times, and cooling times) are shown. Specifically, 0.5-mm-thick Duran, Essix A+, and eCligner; 0.75-mm-thick Duran, Essix A+, Essix ACE, and eCligner; and 1.0-mm-thick Duran, Essix A+, and Essix ACE were used.
+
+Models were constructed to mimic the average length (2 mm), clinical crown height (8.5 mm), and width (7 mm) of the maxillary central incisor in Korean adults. A fabricated mold was placed in a thermoforming caster (Biostar; Scheu Dental). Heat and vacuum were applied during thermoforming as recommended by the manufacturer. The models generated from the deformed thermoplastic materials were removed, and surface X was cut out from each model and used as a specimen for analysis.
+
+Measurement of transparency using spectrophotometry
+
+The transparency was measured for five specimens of each material and thickness before and after thermoforming. For measurement of the transparency of each specimen, visible light (400-700 nm) was used in the transmittance mode of a spectrophotometer (CM-3500D; Konica Minolta, Tokyo, Japan).
+
+Water absorption and water solubility
+
+For all four materials, tests for water absorption and solubility were performed according to International Organization for Standardization (ISO) 20795-2 (2013). Five specimens of the thickest material from each brand (1.0 mm for all except eCligner, which was 0.75 mm) were prepared and stored at 37 degrees C +/- 1 degree C for 14 days.
+
+Surface hardness test
+
+Five specimens of the thickest material from each brand were prepared (1.0 mm for all except eCligner, which was 0.75 mm), and their surface hardness was measured using the Knoop hardness tester (DMH-2; Mastsuzawa Siki Co. Ltd., Akita, Japan). An indentation was created by application of a load of 9.8 N for 10 seconds.
+
+Three-point bending test
+
+For all four materials, a three-point bending test was performed according to ISO 20795-2 (2013). Five specimens for each material and thickness were prepared with a length of 24 mm in order to take into account the actual clinical situation. The flexure modulus of each specimen was measured using a universal testing machine (Model 3366; Instron, Norwood, MA, USA). A strain interval of 0.5 mm was set from 0.5 to 1.0 mm at a crosshead speed of 5 mm/min. The 0.5- to 1.0-mm range was selected on the basis of a previous clinical finding that TOAs could induce the movement of stepped teeth by approximately 0.25 to 0.33 mm.
+
+Tensile test
+
+Six rectangular specimens for each material and thickness were prepared with a breadth of 5 mm and length of 40 mm. A tensile test was performed using a universal testing machine (Model 5942; Instron). The distance between the points supporting the specimen was 20 mm. The elastic modulus was determined by setting the crosshead speed at 12 mm/min.
+
+Statistical analysis
+
+All data are expressed as means +/- standard deviations. Data for each material and thickness were analyzed using one-way analysis of variance (ANOVA) with analysis using Tukey's test. Student's t-test was used to compare the values before and after thermoforming among each material and thickness (p < 0.01). All statistical analyses were performed using IBM SPSS Statistics for Windows, version 23.0.
+
+RESULTS
+
+Transparency: After thermoforming, the transparency of 0.5- and 0.75-mm-thick eCligner exhibited a greater decrease than that of Duran and Essix A+ of the same thicknesses, while the transparency of 0.75-mm-thick Essix ACE exhibited a greater decrease than that of 0.75-mm-thick eCligner. Moreover, the transparency of the 0.5-, 0.75-, and 1.0-mm-thick Duran and Essix A+ specimens was significantly lower after thermoforming than before thermoforming, whereas there were no significant differences for the eCligner and Essix ACE specimens of all thicknesses before and after thermoforming.
+
+Water absorption/solubility: The water absorption ability was the highest for eCligner before thermoforming and Duran after thermoforming. Before thermoforming, the water solubility of eCligner was higher than that of Duran, Essix A+, and Essix ACE. After thermoforming, the water solubility of Duran was higher than that of eCligner and Essix ACE. For all four materials, the water absorption ability increased after thermoforming. The water solubility of Duran, Essix A+, and Essix ACE was significantly higher after thermoforming than before thermoforming; the opposite was true for eCligner (water solubility decreased after thermoforming).
+
+Surface hardness: The surface hardness of all four materials showed no significant difference before thermoforming. However, the hardness of the eCligner specimens was greater than that of the Essix A+ and Essix ACE specimens after thermoforming. The Essix A+ and Essix ACE specimens exhibited greater surface hardness after thermoforming than before thermoforming. However, the Duran and eCligner specimens showed no significant difference before and after thermoforming.
+
+Flexure modulus (three-point bending): At the 0.5-mm thickness, the flexure modulus for all three materials (Duran, Essix A+, eCligner) significantly increased after thermoforming. At the 0.75-mm thickness, the modulus for Duran and eCligner significantly increased after thermoforming. At the 0.5-mm thickness, there were no significant differences in flexural forces among eCligner, Duran, and Essix A+, both before and after thermoforming. At the 0.75-mm thickness, eCligner and Essix A+ showed significantly higher flexural forces than did Duran and Essix ACE before thermoforming.
+
+Elastic modulus (tensile): At the 0.75-mm thickness, there were no significant differences in the elastic modulus among the four materials, both before and after thermoforming. There were no significant changes in the modulus for Essix A+ and eCligner at 0.75 mm after thermoforming.
+
+DISCUSSION
+
+The study performed a multiscale evaluation after the thermoforming of four thermoplastic materials (Duran, Essix A+, Essix ACE, and eCligner) with different thicknesses. Results revealed significant changes in different evaluated parameters, including the transparency, water absorption and solubility, surface hardness, flexure and elastic moduli, and tensile and flexural forces, after thermoforming. The null hypothesis was rejected.
+
+For eCligner specifically:
+- Water absorption was highest before thermoforming
+- Water solubility decreased after thermoforming (unlike other materials)
+- Surface hardness did not change significantly after thermoforming
+- Transparency did not change significantly after thermoforming
+- Flexure modulus increased at 0.5 mm and 0.75 mm after thermoforming
+
+The study recommends that thermoplastic materials for TOAs should be carefully selected depending on the treatment required, because some may exhibit a significant decrease in flexural forces after thermoforming and exhibit permanent deformation during treatment.
+
+CONCLUSION
+
+The physical and mechanical properties of thermoplastic materials used for the fabrication of TOAs should be evaluated after thermoforming in order to characterize their properties for clinical application. From the clinical perspective, TOAs should be carefully selected depending on the treatment required, because some may exhibit a significant decrease in flexural forces after thermoforming and exhibit permanent deformation during treatment.

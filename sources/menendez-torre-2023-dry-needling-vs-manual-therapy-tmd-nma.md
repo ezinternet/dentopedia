@@ -13,13 +13,21 @@ source_collection: external
 
 Part of a TMD physical-therapy ingest batch. This is the only systematic review/NMA we hold that *directly* pits dry needling against manual therapy for myofascial TMD pain — it answers the clinician's "which conservative modality is better" question with a head-to-head (indirect) ranking, complementing the procedure-level evidence on each technique. It shares senior co-author Aitor Martín Pintado-Zugasti with [[wiki/tmj/martin-pintado-2014-spray-stretch-postneedling-soreness-rct]] (post-needling soreness RCT), and reinforces the manual-therapy efficacy signal in [[wiki/tmj/gonzalez-sanchez-2023-tmj-physiotherapy-treatment-sr]]. It also frames the dry-needling-vs-stretch comparison in [[wiki/tmj/ustun-2024-dry-needling-cold-spray-stretching-rct]] and the conservative-care section of [[wiki/tmj/chan-2022-myogenous-tmd-diagnosis-treatment-review]], and feeds [[wiki/overviews/spray-and-stretch-tmd-myofascial-synthesis]].
 
-## One-line Summary
+## Three-line Summary
 
-Frequentist network meta-analysis (17 RCTs qualitative, 8 in NMA, n=556) of myofascial TMD pain: indirect dry-needling-vs-manual-therapy comparison showed NO significant difference (MD −0.263 [−1.517, 0.992] on 10-point VAS), but manual therapy ranked most likely to reduce pain (SUCRA 0.932) ahead of deep dry needling (0.775); low-quality, heterogeneous evidence.
+Frequentist network meta-analysis (17 RCTs qualitative, 8 in NMA, n=556) of myofascial TMD pain: indirect dry-needling-vs-manual-therapy comparison showed NO significant difference (MD −0.263 [−1.517, 0.992] on 10-point VAS), but manual therapy ranked most likely to reduce pain (SUCRA 0.932) ahead of deep dry needling (0.775);
 
-## 한줄요약
+low-quality, heterogeneous evidence.
+
+(incomplete)
+
+## 세줄요약
 
 근막성 측두하악장애(TMD) 통증에 대한 빈도주의 네트워크 메타분석 (정성 17 RCT, NMA 8편, n=556): 건침(dry needling) 대 도수치료(manual therapy)의 간접 비교는 유의차 없음 (MD −0.263 [−1.517, 0.992], 10점 VAS)이었으나, 통증 감소 가능성 순위는 도수치료(SUCRA 0.932)가 심부건침(0.775)보다 높음 — 근거 질은 낮고 프로토콜 이질성이 큼.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

@@ -1,0 +1,203 @@
+INTRODCUTION
+
+Glass fiber posts (GFPs) are widely used in endodontically treated teeth when reinforcement of core build-up materials and support for subsequent indirect restorations are required.Owing to their lower modulus of elasticity compared with metal posts, GFPs facilitate a more uniform distribution of functional stresses along the post–dentin complex.Restorations employing GFPs demonstrate superior long-term durability, with effective adhesion between the post, resin cement, and dentin being a critical determinant of clinical success.,
+
+Past evidence reported that applying a silane coupling agent to the post surface can chemically enhance the bond strength with resin cement, without the need for prior surface treatment.Nevertheless, the effectiveness of silanization in increasing the retention of glass fiber posts remains controversial, prompting investigation into other surface treatment approaches.Hydrogen peroxide (HO) is generally considered the conventional method in dentistry for enhancing the surface roughness (R) of GFPs, thereby increasing the mechanical retention of the bonding cement. However, the aggressive nature of this chemical agent may damage the surrounding tooth structure.
+
+Various lasers have been used due to their advantages in many areas of dentistry.,Many researchers have recently become interested in the Neodymium-doped Yttrium Orthovanadate (Nd: YVO) laser due to its remarkable mechanical and physical properties.A short pulse width and high-power density characterize this laser. According to AlRefeai, the PBS of GFPs to resin cement may be enhanced by using an Nd: YVOlaser as a post-surface conditioner.However, the existing literature remains limited regarding the effectiveness of this laser as a surface conditioning regime for GFPs, and hence, further investigation is warranted.
+
+GFP can be cemented with different types of resin cements, which are categorized by polymerization method (light-cured, chemically cured, or dual-cured) and dentin conditioning approach (total-etch or self-adhesive). Light-cured resin cements are infrequently used for the cementation of glass fiber posts because light transmission to the apical region of the root canal is limited.Consequently, dual-cure resin cements (DCRCs) are considered the material of choice for GFP cementation. Dual-cure systems integrate the advantages of light-activated polymerization with an additional chemical curing mechanism, ensuring adequate polymerization throughout the root canal.Recent literature has documented limitations with conventional DCRC bonded using the total etch (TE) technique, which requires conditioning with 37% phosphoric acid.These limitations include technique sensitivity and procedural complexity from multiple steps. To overcome this, a self-adhesive dual-cure resin cement (SADCRC) was introduced to simplify the cementation procedure and reduce the necessary steps.
+
+The current investigation was predicated on the assumption that the Rand PBS of GFP conditioned with HOand the Nd: YVOlaser would not differ significantly from the control. Furthermore, it was also anticipated that PBS of GFP would not differ significantly when bonded with CDCRC or SADCRC within the same conditioning group. Thus, the objective of the present study was to compare the effects of different post-surface conditioners on Ra and bond strength of GFP bonded using CDCRC and SADCRC.
+
+METHODOLOGY
+
+The present in vitro study was approved by King Abdulaziz University FC-741-2025; dated June 23, 2025 and followed the in vitro study guidelines CRIS. The study lasted four months, from July 1, 2025 to October 30, 2025. Sixty single-rooted premolars with fully formed apices, free from caries, cracks, root resorption, or fractures, having a straight root canal (curvature ≤ 20°), and no previous root canal treatment. Samples were submerged in 0.2% thymol solution (Caelo, Hilden, Germany). Soft tissues were scraped off using #15 surgical blades (Swann-Morton, Sheffield, England). A double-sided diamond disc (Komet, Santo Andre, SP, Brazil) was used with continuous water irrigation to cut the crown portion and standardize the root length at 15 mm. All samples were embedded in auto polymerizing acrylic resin (Heraeus Kulzer’s Technovit 4000).
+
+Sample preparation:
+
+Endodontic access cavities were prepared using a high-speed handpiece with a #10 K-file (Dentsply Sirona, Charlotte, NC, USA). Canal patency was confirmed by advancing a #15 K-file until visible at the apical foramen. Working length (WL) was established by shortening the root length by 1 mm. Root canal instrumentation was performed using the ProTaper Universal rotary system (Dentsply Sirona) till F3 finishing file. During preparation, 5-mL of 2.5% sodium hypochlorite (NaOCl) solution (Hedinger, Stuttgart, Germany) was used between each file. After instrumentation, 5 mL of 2.5% NaOCl, 5 mL saline solution, and 5 mL of 17% EDTA (MD Cleanser, Meta Biomed, Cheongwon-gun, Korea) were sequentially added, with EDTA left for one minute as the final disinfectant. The final 10 mL saline wash removed the remaining EDTA. ProTaper Universal paper points (Dentsply Sirona) were used to dry the canals. F3 gutta-percha and AH Plus sealer (Dentsply York, PA, USA) were used in the single-cone technique for obturation. Access cavities were then closed with Cavit (3M ESPE, Maplewood, USA).
+
+Post space preparation:
+
+The root canal filling was removed to a length of 10 mm using a Peeso reamer (1-5; Mani Inc., Japan). The apical third of the root was left with about 4 mm of gutta-percha, which was confirmed radiographically. The canals were washed with 5 mL of 2.5% NaOCl solution followed by 5 mL of 17% EDTA as a final disinfectant for 1 min. The canals were then dried using absorbent paper.
+
+Conditioning of GFP:
+
+Eighty-one (White Post DC #2, FGM, Joinville, SC, Brazil) GFP were split into three groups based on the conditioning regime applied (n= 25)
+
+No conditioning (Control) GFP was not treated with any conditioner.
+
+24% HOSilane. In this group, the GFP (White Post DC #2, FGM, Joinville, SC, Brazil) were immersed in 24% HOfor 60 seconds, then rinsed with water and air-dried using gentle air blasts. Subsequently, a silane coupling agent, Monobond Plus (Ivoclar Vivadent), was applied to the posts using a disposable applicator and left to react for 60 seconds, followed by gentle air-drying of the post surfaces.
+
+YVOlaser- Silane In this group, GFP specimens were surface-conditioned using an Nd: YVOlaser (Frankfurt Laser Corporation, Friedrichsdorf, Germany). The laser was configured to produce surface indentations with a vertical spacing of 200 µm and a depth of 150 µm, following the protocol described by Alkhudhairy et al. Laser irradiation was performed perpendicularly with an 8 ns pulse width, a photo-irradiation speed of 500 mm/s, a frequency of 25 kHz, a wavelength of 1064 nm, and a power density of 5.3 MW/cm. Specimens were exposed for 33 seconds at a working distance of 197 mm above the surface. After laser treatment, the post surfaces were thoroughly cleaned and air-dried.
+
+Rassessment:
+
+Five posts from each group were subjected to Ranalysis using a profilometer (Surfcorder SE700, Kosaka Laboratory, Tokyo, Japan). A stylus (5 µm) on a measuring device was used to scan the sample surface. The scan distance of the stylus was 0.75 mm. For each sample, the Rwas measured three times. These three measurements were then averaged to calculate the Ra value.,
+
+Following 15 seconds of 37% phosphoric acid etching, the root canals were washed and dried with paper points. A microbrush was used to apply All Bond 2 (Bisco Dental, Schaumburg, IL, USA) into the canal. Light curing was performed for ten seconds as per the manufacturer’s instructions. Duo-Link cement was injected into the canals using a syringe tip after preparation. GFP posts were inserted firmly into the canal for 30 s after cement application. Excess cement was removed, and the operator held the post while it was light-cured for 40 seconds.
+
+Following the manufacturer’s directions, SADCRC (Rely X Unicem, 3M ESPE, St. Paul, MN, USA) was mixed. The cement was injected into the canal and also applied to the posts. Posts were then inserted into the canals using hard finger pressure. The excess cement was removed, and the post was held in position by the operator’s hand while light curing was carried out for 20 secs, in accordance with the manufacturer’s instructions. Samples storage and artificial aging. All specimens were stored in distilled water at 37 °C for one week and then subjected to 10,000 thermocycling cycles between 5 °C and 55 °C, with a dwell time of 30 seconds at each temperature.
+
+Preparation of samples for analysis of push-out bond strength:
+
+Using a hard tissue microtome (Isomet 1000; Buehler, USA) and constant water irrigation to avoid overheating, sixty samples luted with GFP were transversely sectioned perpendicular to the post beginning at 6 mm from the specimen’s apex. One slice was obtained from each third, i.e., cervical, middle, and apical, measuring 2.0 ± 0.2 mm. One slice from each region was selected at depths of 1, 4, and 7 mm from the coronal to the apical direction.
+
+PBS testing:
+
+A universal testing machine (EMIC, São José dos Pinhais, SP, Brazil) was used to measure PBS. Each root slice was secured to a metallic device with a central aperture larger than the canal. Metallic plunger (coronal 1.4 mm, middle 1.2 mm, and apical 0.9 mm) was used to apply force to the GFP dentin interface, covering it without contacting the canal walls. Force was applied from apical to coronal at 0.5 mm/min until failure, and values were reported in MPa.
+
+Failure mode analysis:
+
+Two Investigators used a stereomicroscope (“LYNX” Lawrence & Mayo) at 40× magnification to examine each slice and categorize failure patterns. Fractures are categorized as adhesive, cohesive, and admixed.
+
+Statistical analysis:
+
+Normality of the data was assessed using the Shapiro-Wilk test.ANOVA and post hoc tests were used to evaluate whether the groups differed significantly. All statistical analyses were conducted using SPSS (version 21.0; IBM Corp., Armonk, NY, USA).
+
+RESULTS
+
+Ra assessment:
+
+The Ra of GFP following distinct surface pretreatment techniques is shown in. The highest Ra (1.32 ± 0.22 µm) was observed in Group-2 (Nd: YVOlaser) samples. Whereas Group-1 (Control) had the lowest Ra (µm). An intergroup comparison revealed that there was no discernible difference between the Group-2(µm) and Group-3 Ra results (p > 0.05).
+
+Table-I
+
+Shows the Ra of the glass fiber post following various surface pretreatment methods.
+
+Pretreating agents
+
+Mean ± SD (µm)
+
+p-value!
+
+Group-1: No conditioning (Control)
+
+0.43 ± 0.11
+
+< 0.05
+
+Group-2: 24%HO-silane
+
+1.28 ± 0.18
+
+Group-3: Nd: YVO4 laser-silane
+
+1.32 ± 0.22
+
+! ANOVA
+
+(HO): Hydrogen peroxide, (Nd: YVO4) laser: Neodymium-doped yttrium orthovanadate (Nd: YVO4) laser
+
+Same letters in each row show statistically significant difference (p<0.05), Post Hoc Tukey.
+
+PBS assessment:
+
+showed the PBS of GFP attached to canal dentin following the use of various adhesive cements and surface pretreatments. The cervical third of Group-3A (Nd: YVO4 laser-Silane + CDCRC) (11.26±1.17 MPa) displayed the highest bond strength outcome. Whereas, the apical third of Group-1A (No conditioning-Silane + CDCRC) (3.78±0.21 MPa) exhibited the lowest bond strength. Intergroup comparison analysis showed that Group-2A (HO-Silane+CDCRC) (Cervical: 11.47±0.52 MPa, Middle: 9.67±0.43 MPa, Apical: 7.02±0.54 MPa) and Group-3A (Nd: YVO4 laser-Silane + CDCRC) (Cervical: 11.26±0.32 MPa, Middle: 9.52±0.54 MPa, Apical: 7.32±0.43 MPa) exhibited comparable scores of bond strength at all three sections (p>0.05). Likewise, Group-2B (HO-Silane + SADCRC) (Cervical: 9.41±0.27 MPa, Middle: 10.80±0.19 MPa, Apical: 11.31±0.21 MPa) and Group-3B (Nd: YVO4 laser-Silane+SADCRC) (Cervical: 9.56±0.17 MPa, Middle: 10.76±0.23 MPa, Apical: 11.23±0.17 MPa) also showed no discernible variation in their PBS results at all three thirds of the canal(p>0.05).
+
+However, Group-1A (No conditioning-Silane+CDCRC) (Cervical: 6.21±0.91 MPa, Middle: 5.09±0.13 MPa, Apical: 3.78±0.21 MPa) and Group-1B (No conditioning-Silane + SADCRC) (Cervical: 5.12±0.20 MPa, Middle: 5.86±0.11 MPa, Apical: 6.75±0.21 MPa) displayed a significant difference in the PBS outcomes(p < 0.05). Regarding intragroup comparisons, bond strength in the CDCRC groups declines from the cervical to the apical third (p < 0.05). In contrast, in the SADCRC groups, PBS increases from the cervical to the apical third (p < 0.05).
+
+Table-II
+
+PBS of GFP bonded to the canal dentin after applying different adhesive cements and surface treatments.
+
+Pretreating agents
+
+Mean ±SD Cervical (MPa)
+
+Mean ± SD Middle (MPa)
+
+Mean ± SD Apical (MPa)
+
+P-value!
+
+Group-1A: No conditioning -Silane + CDCRC
+
+6.21±0.91
+
+5.09±0.13
+
+3.78±0.21
+
+< 0.05
+
+Group-1B: No conditioning -Silane + SADCRC
+
+5.12±0.20
+
+5.86±0.11
+
+6.75±0.21
+
+-
+
+11.47±0.52
+
+9.67±0.43
+
+7.02±0.54
+
+-
+
+9.41±0.27
+
+10.80±0.19
+
+11.31±0.21
+
++
+
+11.26±0.17
+
+9.52±0.54
+
+7.32±0.43
+
+Group-3B: Nd: YVO4 laser-Silane + SADCRC
+
+9.56±0.17
+
+10.76±0.23
+
+11.23±0.17
+
+! ANOVA
+
+(HO): Hydrogen peroxide, (Nd: YVO4) laser: Neodymium-doped yttrium orthovanadate (Nd: YVO4) laser
+
+Data with Different superscript lower-case alphabets denote statistically significant differences within the same column (p < 0.05). Data with different upper-case letters denote significant differences within each row (p < 0.05), Post Hoc Tukey.
+
+Failure mode analysis:
+
+presents the fracture mode analysis across the tested groups. It was observed that admixed failures were more common in all three sections of H2O+ SADCRC and Nd: YVO4 laser + SADCRC. Whereas the cervical section of HO+ CDCRC and Nd: YVO4 laser + CDCRC displayed admixed failures. On the other hand, the middle and apical sections presented adhesive failures. No conditioning-Silane+CDCRC and No conditioning -Silane + SADCRC also displayed adhesive failures the most at all three thirds.
+
+Fig.1
+
+Distribution of Adhesive, Cohesive, and Admixed Failure Modes Across All Groups.
+
+DISCUSSION
+
+The current investigation examined Rand PBS of GFP conditioned with HO-silane, and the Nd:YVOlaser did not differ significantly from the control. Furthermore, it was also anticipated that PBS of GFP would not differ significantly when bonded with CDCRC or SADCRC within the same conditioning group. Based on the findings, both HO-silane- and Nd: YVO-laser-treated samples showed significantly different Rand bond strength compared to the control, thereby rejecting the primary null hypothesis. Additionally, significant differences in bond strength were observed between the SADCRC and CDCRC groups, thereby rejecting the secondary hypothesis. The PBS test was employed because it is the most clinically relevant method, as it applies a load along the longitudinal interface between the adhesive material and dentin.
+
+The present study found that GFP treated with an Nd: YVOlaser and HOpretreatment displayed comparable Ra scores, both of which were significantly lower than the control. PBS among these groups at all three sections was comparable when bonded with the same luting cement. The effectiveness of Nd: YVOlaser as a surface conditioning method aligns with previous research by AlRefeai et al., who reported that laser irradiation increases surface roughness by creating controlled micro-irregularities. These surface alterations significantly increase the bonding area and enhance micromechanical retention between the fiber post and resin cement.Nd: YVOlaser treatment, attributed to partial resin matrix removal through photomechanical, photochemical, and photothermal interactions.Similarly, HOconditioning produced acceptable Ra and BS outcomes. As an oxidizing agent, HOselectively degrades the epoxy resin matrix through electrophilic reactions, creating surface irregularities that enhance micromechanical interlocking.
+
+Bond strength in CDCRC groups declined from the cervical to the apical third (p<0.05), whereas SADCRC groups showed increased PBS from the cervical to the apical third. CDCRC bonding relies on micromechanical retention through smear layer removal and dentinal tubule exposure.The 37% phosphoric acid etching efficiently eliminates the smear layer, particularly in the cervical region.Reduced apical bond strength may result from a smaller diameter and decreased density of dentinal tubules in the apical third, along with debris contamination and reduced light penetration.Conversely, SADCRC groups demonstrated increased PBS from cervical to apical regions, potentially linked to reduced tubule density, favoring bond strength and higher moisture tolerance. However, cervical third bond strength was reduced compared to the control due to limited demineralization capacity. The cement’s low pH fails to adequately demineralize dentinal tubules, preventing sufficient infiltration of methacrylate phosphate ester and creating interfacial gaps.,
+
+Regarding fracture modes, admixed failures predominated in HO+SADCRC and Nd: YVOlaser + SADCRC groups across all sections. Coronal sections of HO+CDCRC and Nd: YVOlaser + CDCRC also displayed admixed failures, while middle and apical sections presented adhesive failures. The conditioning groups predominantly exhibited adhesive failures, consistent with the bond-strength results.
+
+Novelty and Contribution to Medical Literature:
+
+This is the first study demonstrating Nd: YVOlaser as a superior, safer alternative to hydrogen peroxide for fiber post surface treatment—addressing a critical gap where current chemical conditioning protocols pose oxidative degradation risks, require prolonged application times, and show inconsistent clinical outcomes. The pioneering evaluation of laser-silane synergy establishes that combining photothermal micro-ablation with chemical coupling agents achieves bond strengths exceeding 11 MPa—well above the 5 MPa clinical threshold for withstanding masticatory forces—while eliminating post-operative sensitivity and cytotoxicity concerns associated with HOresidues.
+
+Limitations:
+
+It includes the in vitro design, which does not fully reflect the complexity of the oral environment; use of a single laser parameter set, which may have influenced outcomes; unstandardized cement layer thickness, which may have affected stress distribution; and aging limited to thermocycling without mechanical loading.
+
+CONCLUSIONS
+
+A neodymium-doped yttrium orthovanadate laser can be a suitable alternative to hydrogen peroxide. Self-adhesive resin cement exhibited satisfactory performance in all three thirds of the canal.
+
+Recommendations:
+
+Future investigations should employ atomic force microscopy for deeper surface analysis. Additional in vivo and laboratory research is required to validate these findings.

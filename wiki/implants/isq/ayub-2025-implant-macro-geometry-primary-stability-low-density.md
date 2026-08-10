@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.4103/jispcd.jispcd_155_24
 source: ayub-2025-implant-macro-geometry-primary-stability-low-density.md
 category: [implants/isq]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: true
 pmid: "40433430"
@@ -20,13 +20,21 @@ relations:
     target: rittipakorn-2025-clockwise-osseodensification-primary-stability-cadaveric
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In vitro polyurethane-block study (36 implants, 3 macro-geometries × bone types 3 and 4): implant geometry and bone density were the key determinants of primary stability — triple-thread Zimmer TSV gave the highest insertion/removal torque, while double-thread, deeper-thread Dentium Superline gave the highest ISQ, in both low-density bone types.
+In vitro polyurethane-block study (36 implants, 3 macro-geometries × bone types 3 and 4) comparing primary stability metrics across three commercial tapered implants in low-density synthetic bone.
 
-## 한줄요약
+Triple-thread Zimmer TSV achieved the highest insertion torque (type 3: 30.21 Ncm; type 4: 18.07 Ncm) and removal torque, while double-thread, deeper-thread Dentium Superline achieved the highest ISQ (type 3: 63.29; type 4: 58.46); all metrics differed significantly (p<0.001), and bone density correlated strongly with stability (r=0.83–0.97).
 
-폴리우레탄 블록 in vitro 연구(임플란트 36개, 매크로지오메트리 3종 × 골질 3·4형): 1차 안정성은 임플란트 형태와 골밀도가 핵심 결정인자였고, triple-thread Zimmer TSV가 삽입/제거 토크 최고, 깊은 double-thread Dentium Superline이 ISQ 최고였다(두 저밀도골 모두).
+The metric used determines which implant design ranks best — high insertion torque and high ISQ reward different thread geometry features — warranting caution when selecting implants based on a single stability measure in soft bone.
+
+## 세줄요약
+
+폴리우레탄 블록 in vitro 연구(임플란트 36개, 매크로지오메트리 3종 × 골질 3·4형): 저밀도 합성골에서 3개 상업용 테이퍼형 임플란트의 1차 안정성 지표를 비교하였다.
+
+삽입·제거 토크(Insertion Torque, IT/Removal Torque, RT)는 triple-thread Zimmer TSV가 최고(골질 3형 IT 30.21 Ncm), ISQ는 깊은 double-thread Dentium Superline이 최고(골질 3형 63.29, 4형 58.46); 모든 지표 간 유의한 차이(p<0.001)와 강한 골밀도 상관(r=0.83–0.97).
+
+사용 지표에 따라 최우수 임플란트 순위가 달라지므로 — 높은 삽입 토크와 높은 ISQ는 서로 다른 나사산 형태를 선호함 — 단일 안정성 지표만으로 임플란트를 선택하면 연약한 골에서 오판할 위험이 있다.
 
 ## Summary
 
@@ -74,4 +82,4 @@ The null hypothesis was rejected: all three metrics differed significantly acros
 
 ## Related Papers
 
-- [[implants/versah-protocols/rittipakorn-2025-clockwise-osseodensification-primary-stability-cadaveric]] — reinforces: complementary determinant of primary stability in low-density bone (surgical drilling technique / osseodensification axis vs this paper's implant macro-geometry axis).
+- [[implants/osseodensification/rittipakorn-2025-clockwise-osseodensification-primary-stability-cadaveric]] — reinforces: complementary determinant of primary stability in low-density bone (surgical drilling technique / osseodensification axis vs this paper's implant macro-geometry axis).

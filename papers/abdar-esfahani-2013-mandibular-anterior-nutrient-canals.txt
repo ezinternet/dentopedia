@@ -1,0 +1,99 @@
+Title: Mandibular Anterior Nutrient Canals in Periapical Radiography in Relation to Hypertension
+Authors: Abdar-Esfahani M, Mehdizade M
+Journal: Nephro-Urology Monthly, 2013;6(1):e15292
+PMID: 24719810
+PMCID: PMC3968996
+DOI: 10.5812/numonthly.15292
+
+Abstract:
+
+Background:
+Hypertension (HTN) is the most commonly encountered systemic disease in general population. Nutrient canals contain blood vessels and nerves that mostly appear in the anterior mandibular region. Nutrient canals are not detected in radiographs of all patients, and their normalcy is controversial by many investigators.
+
+Objectives:
+The present study investigated the correlation between the appearance of nutrient canals and hypertension as a potential clue to diagnose patients with hypertension.
+
+Patients and Methods:
+Thirty two patients with HTN and 32 normotensive subjects were selected. Periapical radiographs were taken from mandibular anterior cuspid-central incisor region since nutrient canals are commonly observed in this area. Data was analyzed by SPSS software with Chi-square and Fisher tests.
+
+Results:
+The incidence of nutrient canals was 37.5% in patients with hypertension and 53.1% in the normotensive subjects, but this difference was not statistically significant (P = 0.209). We did not find any association between duration of hypertension (P = 0.292) or controlled hypertension (P = 0.144), and the presence of nutrient canals. The mean of subject age with nutrient canal was more than those without nutrient canals, and this difference was statistically significant in normotensive patients.
+
+Conclusions:
+This study revealed that there was no significant association between mandibular anterior nutrient canals and hypertension.
+
+Full Text:
+
+1. Background
+
+Nutrient canals contain blood vessels and nerves that mostly appear in mandibular anterior region. Nutrient canals have a vertical direction rather than horizontal, and also have been called vascular channels, circulatory canals or interdental canals. Some investigators believed the presence of nutrient canals in mandibular anterior region as normal anatomic features, but some others reported radiographic appearance of nutrient canals as pathologic conditions. According to the findings, some pathologic conditions presumably correlated with radiographic appearance of nutrient canals were periodontal disease, hypertension, diabetes, tuberculosis, rickets, calcium deficiency, disuse atrophy, and coarctation of aorta. Hypertension is an important health problem which increases the risk of developing cardiovascular disease, stroke and renal disease. Hypertension is the most commonly encountered systemic disease in general population. Dental services in patients with hypertension require special care. Hypertension is virtually without symptoms, and is usually detected randomly when patient visits his or her physician due to other reasons. Thus, it could be important to discover some clues for the diagnosis of hypertension.
+
+2. Objectives
+
+Nutrient canals are not detected in radiographs of all patients and their normalcy is controversial by many investigators. Recent studies suggested that further investigations are needed to clear the association between the presence of nutrient canals and systemic disease such as hypertension. The present study investigated the correlation between the appearance of nutrient canals and hypertension.
+
+3. Patients and Methods
+
+3.1. Participants
+
+This is a case-control study conducted on patients with hypertension and subjects without evidence of blood pressure disease. Patients with hypertension were chosen from those who referred to cardiovascular research center in Isfahan city, Iran. Normotensive subjects were chosen from those who referred to dental school of Isfahan University of Medical Sciences, Iran for dental problems. Patients with diabetes, periodontal disease, tuberculosis, rickets and pregnant women were excluded. Sixty four participants were selected aged between 30 to 55 years. Thirty two patients with HTN confirmed by a cardiologist, and 32 normotensive subjects were chosen by simple randomization.
+
+Sample size was calculated based on d = 0.3, P1 = 0.35, P2 = 0.05, β = 0.1, α = 0.05.
+
+The relevant ethics committee of Isfahan University of Medical Sciences, Isfahan, Iran approved the research (project number: 82100). Informed consent form was completed by the subjects.
+
+3.2. Radiography
+
+Periapical radiographs were taken by using the Kodak E-speed films and the long cone trophy bisecting angle technique and x-ray unit (70 kilo voltage peak and 10 milliamperes) from the mandibular anterior cuspid-central incisor region since nutrient canals are commonly observed in this area. The radiologists were blinded to the clinical status of normotensive and hypertensive subjects. Radiographic findings for each participant were recorded on special forms.
+
+3.3. Assessment of Blood Pressure
+
+Systolic and diastolic blood pressures were measured by a standardized mercury sphygmomanometer on the right arm. Subjects were asked to sit in a comfortable place for 15 minutes. Before measuring the blood pressure, drinking tea or coffee, smoking, full bladder and physical activity were assessed. The systolic blood pressure was defined as the appearance of the first sound (Korotkoff phase 1), and diastolic blood pressure was defined as the disappearance of the sound (Korotkoff phase 5). Blood pressures higher than 140/90 mmHg was defined as hypertension, and less than 140/90 mmHg as normal.
+
+3.4. Statistical Analysis
+
+SPSS software (version 21) was used for statistical analysis. Chi square test and fisher test were applied for assessing the presence of nutrient canals in normotensive and hypertensive subjects. P < 0.05 was considered statistically significant.
+
+4. Results
+
+This study was conducted on 32 patients with HTN and 32 normotensive subjects. There was 34 females (53.12%) and 30 males (46.87%). The incidence of nutrient canals was 37.5% in patients with HTN, and 53.1% in the normotensive subjects, but this difference was not statistically significant (P = 0.209).
+
+We separately analyzed incidence of nutrient canals in hypertensive male and female. Findings showed that there was no significant association between the incidence of nutrient canals and genders (P = 0.761). In addition, there was no significant association between the incidence of nutrient canals in normotensive male and female (P = 0.804).
+
+Patients with HTN and normotensive subjects who had nutrient canal were older than those without nutrient canals. In normotensive subjects, the mean age of subject with nutrient canal was statistically significantly more than those without nutrient canals (P < 0.001). In whole population, the mean age in participants with nutrient canals (47.1 ± 3.2) was 5 years more than those without nutrient canals significantly (42.6 ± 5.1) (P = 0.002).
+
+We did not find any association between duration of hypertension (P = 0.292) or controlled hypertension (P = 0.144) and the presence of nutrient canals.
+
+Table 1. Characteristics of Participants
+- Body mass index, mean ± SD, kg/m2: HTN 23.2 ± 2.77, Normotensive 22.5 ± 2.95, P = 0.71
+- FBS, mean ± SD, mg/dL: HTN 103.0 ± 12.1, Normotensive 101.8 ± 17.0, P = 0.9
+- TC, mean ± SD, mg/dL: HTN 194.2 ± 12.87, Normotensive 184.4 ± 37.46, P = 0.59
+- TG, mean ± SD, mg/dL: HTN 149.6 ± 5.94, Normotensive 147.2 ± 5.06, P = 0.51
+- HDL, mean ± SD, mg/dL: HTN 42.0 ± 2.38, Normotensive 43.7 ± 2.27, P = 0.41
+- LDL, mean ± SD, mg/dL: HTN 114.4 ± 1.37, Normotensive 107.0 ± 5.09, P = 0.09
+
+Table 2. Incidence of Nutrient Canals in Normotensive and Hypertensive Patients
+- Present: Normotensive 17 (53.1%), Hypertensive 12 (37.5%), Total 29 (45.3%), P = 0.209
+- Absent: Normotensive 15 (46.9%), Hypertensive 20 (62.5%), Total 35 (54.7%)
+- Total: Normotensive 32 (100%), Hypertensive 32 (100%), Total 64 (100%)
+
+Table 3. Incidence of Nutrient Canals in Hypertensive Male and Female
+- Present: Male 9 (39.1%), Female 3 (33.3%), Total 12 (37.5%), P = 0.761
+- Absent: Male 14 (60.9%), Female 6 (66.7%), Total 20 (62.5%)
+- Total: Male 23 (100%), Female 9 (100%), Total 32 (100%)
+
+Table 4. Mean of Age in Normotensive and Hypertensive Patients (Nutrient Canal Present vs Absent)
+- Patients with HTN: Present 48.8 (3.8), Absent 45.1 (4.2), P = 0.06
+- Normotensive subjects: Present 45.9 (6.9), Absent 39.2 (8.3), P < 0.001
+
+5. Discussion
+
+We found that frequency of nutrient canals in anterior segment of mandible in patients with HTN was more than those normotensive participants. However, there was no significant difference between the two groups. The mean age of subject with nutrient canal was more than those without nutrient canals, and this difference was statistically significant in normotensive patients. There was no significant association between sex and nutrient canals.
+
+Yilmaz et al. reported that nutrient canals were not indicative for hypertension. In addition, Patni et al. did not show any association between nutrient canals and hypertension. Others have also indicated that the presence of nutrient canals did not correlate significantly with systemic diseases such as hypertension. However, some studies showed a positive correlation between nutrient canals and systemic disease. Mani et al. indicated that the prevalence of nutrient canals in patients with HTN was significantly more than control group. They reported that nutrient canals could be used as a clue to diagnose patients with HTN. Other studies confirmed these findings.
+
+In the current study, the association of nutrient canals and hypertension was not sex-dependent. However, Patsakas et al. reported that nutrient canals were more frequent in hypertensive males than females. Mani et al. found a higher prevalence of nutrient canals in hypertensive females than males.
+
+Our results showed that aging leads to an increase in the presence of nutrient canals. Some studies similar to our findings found a positive association between prevalence of nutrient canals and increasing age. Bilge et al. indicated that prevalence of nutrient canals in older participants was more than younger ones.
+
+In conclusion, this study revealed that there was no significant association between mandibular anterior nutrient canals and hypertension. However, increasing age might increase the presence of nutrient canals.

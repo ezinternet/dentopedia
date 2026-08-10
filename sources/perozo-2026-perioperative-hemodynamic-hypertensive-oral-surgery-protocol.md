@@ -17,13 +17,21 @@ text_filename: perozo-2026-perioperative-hemodynamic-hypertensive-oral-surgery-p
 
 Wiki had vasoconstrictor-in-LA risk only for pregnancy ([[drug/systemic-disease/uritu-2025-vasoconstrictor-dental-anesthesia-pregnancy-sr]]); the controlled-hypertensive perioperative pathway (BP-based risk tiers, epinephrine cap, NSAID-avoidance, chairside emergency drugs) was undocumented. This pilot cohort (n=39) supplies effect sizes — hemorrhage 66.7% vs 9.5%, baseline-HTN eta-squared=0.33 — and a packaged 3-phase chairside protocol, extending the medically-compromised-patient management thread.
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective analysis of prospectively collected observational data (n=39: 21 normotensive vs 18 treated hypertensive) showing baseline hypertensive status is the dominant perioperative hemodynamic determinant (eta-squared=0.33) and a 7-fold higher hemorrhagic-complication rate (66.7% vs 9.5%, p=0.008) during oral surgery; introduces the unvalidated 3-phase Perozo perioperative BP-management protocol.
+Retrospective analysis of prospectively collected observational data (n=39: 21 normotensive vs 18 treated hypertensive) showing baseline hypertensive status is the dominant perioperative hemodynamic determinant (eta-squared=0.33) and a 7-fold higher hemorrhagic-complication rate (66.7% vs 9.5%, p=0.008) during oral surgery;
 
-## 한줄요약
+introduces the unvalidated 3-phase Perozo perioperative BP-management protocol.
+
+(incomplete)
+
+## 세줄요약
 
 전향적으로 수집된 관찰자료의 후향분석(n=39: 정상혈압 21 vs 치료중 고혈압 18)으로, 기저 고혈압 상태가 구강수술 중 혈역학 변동의 최대 결정인자(eta제곱=0.33)이고 출혈합병증이 7배 높았음(66.7% vs 9.5%, p=0.008)을 보였으며, 미검증 3단계 Perozo 수술전후 혈압관리 프로토콜을 제안한다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

@@ -16,13 +16,21 @@ full_text: false
 
 즉시부하(Immediate Loading) 프로토콜 하에서의 ISQ 변화 궤적을 초기 데이터셋으로 확립하기 위해 인제스트. 기존 [[implants/isq/andersson-2019-rfa-factors-5year-neoss-survival]] 페이지는 5년 생존·ISQ 임계값에 집중하나, 부하 후 0→30→60→90일간의 ISQ 안정성 dip 패턴을 시계열로 기록한 초기 임상 근거가 없었음. Balshi 2005는 Brånemark 시스템에서 즉시부하 후 1개월 ISQ 저하→2·3개월 회복의 "안정성 골재형성 궤적"을 처음 기술한 기초 참고문헌.
 
-## One-line Summary
+## Three-line Summary
 
-Prospective study (n=51 patients, 344 implants, Brånemark/Teeth-in-a-Day protocol) showing ISQ dips from 70.35 at placement to 66.38 at 30 days then recovers to 68.82 by 90 days, with lower stabilities in softer bone, posterior regions, and females; 98.5% survival.
+Prospective study (n=51 patients, 344 Brånemark System implants; 276 with complete RFA data; Teeth-in-a-Day immediate-loading protocol; 4 RFA timepoints: placement, 30d, 60d, 90d) quantifying ISQ stability trajectories after immediate loading.
 
-## 한줄요약
+ISQ dipped from 70.35 at placement to 66.38 at 30 days (osseointegration dip), then recovered to 68.01 at 60 days and 68.82 at 90 days; softer bone, posterior jaw, and female sex were associated with lower ISQ at all timepoints; 98.5% implant survival.
 
-전향적 연구(51명, 344개 임플란트, Brånemark Teeth-in-a-Day 즉시부하): 식립 시 ISQ 70.35 → 30일 66.38(최저)→ 90일 68.82 회복; 연조직·구치부·여성에서 낮은 안정성; 임플란트 생존율 98.5%.
+This "stability dip-and-recovery" trajectory established the canonical ISQ pattern for immediately loaded implants; the minimum 2-month undisturbed healing recommendation derives directly from when the dip resolves.
+
+## 세줄요약
+
+전향적 연구(n=51명, 344 Brånemark System 임플란트; RFA 완전 데이터 276개; Teeth-in-a-Day 즉시부하 프로토콜; 식립·30일·60일·90일 4회 RFA 측정) — 즉시부하 후 ISQ 안정성 궤적 정량화.
+
+ISQ 식립 시 70.35 → 30일 66.38(최저: 골재형성 dip) → 60일 68.01 → 90일 68.82 회복; 연조직·구치부·여성에서 모든 시점에 낮은 ISQ; 임플란트 생존율 98.5%.
+
+이 '안정성 dip-and-recovery' 궤적이 즉시부하 임플란트의 고전적 ISQ 패턴을 정립했으며, dip 해소 시점(약 2개월)에서 최소 무부하 치유 권고가 유래.
 
 ## 1. Document Information
 

@@ -17,13 +17,21 @@ text_filename: aljabaa-2014-interventions-improve-adherence-orthodontic-patients
 
 Adolescent orthodontic adherence (oral hygiene, appointment attendance, instruction recall) is the behavioral substrate that behaviour-change counseling such as motivational interviewing aims to move. This SR maps which intervention *types* actually shift adherence in 12–18 y patients, complementing the early-childhood MI evidence in [[behavioral-dentistry/motivational-interviewing/jahanshahi-2022-motivational-interviewing-prevent-early-childhood]] and the behaviour-change-mechanism framing of MI in general practice ([[behavioral-dentistry/motivational-interviewing/kay-2016-motivational-interviewing-general-dental-practice]]). Note: PMC `get_full_text_article` returned an empty body, so this page is built from the structured abstract (`full_text: false`).
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (3 databases, 1966–Mar 2012) of RCTs on adherence-improving interventions in orthodontic patients aged 12–18; 381 articles screened → 4 RCTs, each testing a different method (rewards/awards, Hawthorne effect, written information, plaque-microbiology demonstration); all except the reward/award intervention improved adherence, but evidence is insufficient to identify a single best method.
+Systematic review of RCTs (3 databases, 1966–March 2012, 381 articles screened → 4 RCTs) on interventions to improve adherence in orthodontic patients aged 12–18, covering oral hygiene, attendance, recall of instructions, and clinical plaque indices.
 
-## 한줄요약
+Four RCTs each tested a distinct intervention (rewards/awards, Hawthorne effect, written information, plaque-microbiology demonstration); three improved adherence while the reward/award intervention did not; no single method was superior.
 
-12–18세 교정환자의 순응도(adherence) 향상 중재를 다룬 RCT를 모은 체계적 문헌고찰(3개 DB, 1966~2012.3) — 381편 중 4편의 RCT만 포함, 각각 서로 다른 방법(보상/시상, 호손효과, 서면정보, 플라크 미생물 시연)을 사용했고 보상/시상을 제외한 모든 중재가 순응도를 개선했으나 단일 최적 방법을 정할 근거는 부족하다.
+The effective interventions share a common thread — clinician time and attention explaining why adherence matters rather than extrinsic incentives; however, with only 4 heterogeneous RCTs and a 2012 search cut-off, no reliable recommendation can be made for a single best approach.
+
+## 세줄요약
+
+체계적 문헌고찰(RCT 전용, 3개 DB, 1966–2012.3, 381편 → 4편 포함): 12–18세 교정환자의 구강위생·내원·지시사항 이해 등 순응도 향상 중재 평가.
+
+4편의 RCT는 각각 서로 다른 방법(보상/시상, 호손효과, 서면정보, 플라크 미생물 시연)을 사용; 보상/시상만 효과 없었고 나머지 3가지는 순응도 개선; 최우수 방법은 확정 불가.
+
+효과적 중재의 공통점은 외재적 인센티브가 아닌 '왜 순응이 필요한가를 설명하는 임상가의 시간과 관심'; 단 4편으로만 구성된 이질적 증거 기반과 2012년 검색 한계로 단일 최적 중재 권고 불가.
 
 ## 1. Document Information
 

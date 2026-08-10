@@ -6,7 +6,7 @@ date: 2015-01-01
 doi: 10.1177/1535370214549518
 source: verissimo-2014-collagen-membranes-gbr-rat-calvarial.md
 category: [bone-regeneration]
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/verissimo-2014-collagen-membranes-gbr-rat-calvarial.pdf
 pdf_filename: verissimo-2014-collagen-membranes-gbr-rat-calvarial.pdf
 source_collection: external
@@ -16,13 +16,21 @@ relations:
     target: sasaki-2021-barrier-membranes-tissue-regeneration-review
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Animal study (n=190 Wistar rats, 5-mm CSD, 4–12 weeks) showing GA-crosslinked mineralized polyanionic collagen membranes produced more new bone than a commercial membrane and resisted resorption over 12 weeks while reducing TNF-α.
+Animal study (n=190 Wistar rats, 5.25-mm calvarial critical-size defects, sacrifice at 24h/4/8/12 weeks) comparing three novel GA-crosslinked polyanionic collagen (PAC) membranes (0, 25, or 75 hydroxyapatite soaking cycles) against a commercial demineralized bovine collagen membrane (Genderm) and sham.
 
-## 한줄요약
+All three GA-crosslinked membranes significantly outperformed Genderm in new bone formation at all post-baseline timepoints; the commercial membrane resorbed by 12 weeks while GA-crosslinked membranes remained structurally intact in a fibrous capsule; TNF-α was significantly lower in GA-crosslinked groups at 24h (P<0.05), with no elevation of MPO or IL-1β.
 
-동물실험(흰쥐 190마리, 5-mm 두개골 임계결손, 최대 12주) — GA 가교 광물화 폴리음이온 콜라겐 막이 상업용 막보다 신생골을 더 많이 형성하고 12주 동안 흡수되지 않으며 TNF-α를 감소시킴.
+Increasing mineral cycling (0→25→75 HA cycles) did not further improve outcomes — GA crosslinking itself is the primary driver of both sustained barrier function and superior bone formation, but fibrous capsule formation around the membrane at 12 weeks warrants monitoring in clinical translation.
+
+## 세줄요약
+
+동물실험(Wistar 흰쥐 190마리, 5.25-mm 두개골 임계결손, 24h·4·8·12주 희생): GA 가교 폴리음이온 콜라겐(Polyanionic Collagen, PAC) 막 3종(HA 소킹 0·25·75사이클) vs 상업용 탈회 우골 콜라겐 막(Genderm) + sham 비교.
+
+GA 가교 3군 모두 전 시점에서 Genderm보다 신생골 유의하게 우수; 상업용 막 12주에 흡수된 반면 GA 가교막은 12주 구조 보존(섬유성 피막 내); 24h TNF-α 유의 감소(GA군), MPO·IL-1β 군간 차이 없음.
+
+HA 광물화 사이클 증가(0→25→75)는 추가 이득 없음 — GA 가교 자체가 우수한 신생골 형성과 장기 장벽기능의 핵심 동인; 12주 섬유성 피막 형성은 임상 번역 시 모니터링 필요.
 
 ## Summary
 

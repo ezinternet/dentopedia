@@ -5,7 +5,7 @@
 diff-style `@@` meta lines, anchors snippets on frontmatter, and shows
 scattered scores. This consumes qmd's `--format json` (robust) and reformats
 into a compact, numbered, colorized list, enriching each hit with the real
-page title + `## 한줄요약` read straight from the file. Fully local, no tokens.
+page title + `## 세줄요약` read straight from the file. Fully local, no tokens.
 
 Usage:
     scripts/qq.py "하중 임계값"            # hybrid query + rerank (default 8 hits)
@@ -50,7 +50,7 @@ def read_gist(rel_path):
 
     qmd anchors hits on frontmatter lines, so its snippet is often just YAML.
     Instead we read the file and extract the frontmatter `title:` plus the
-    `## 한줄요약` / `## One-line Summary` body — the real gist of the page.
+    `## 세줄요약` / `## Three-line Summary` body — the real gist of the page.
     """
     full = os.path.join(REPO_ROOT, rel_path)
     title, gist = "", ""
@@ -85,8 +85,8 @@ def read_gist(rel_path):
                 return " ".join(buf)
         return ""
 
-    gist = (section_body("## 한줄요약")
-            or section_body("## One-line Summary")
+    gist = (section_body("## 세줄요약")
+            or section_body("## Three-line Summary")
             or section_body("## Summary"))
     if not gist:  # overview pages: first 한국어 핵심요약 bullet
         for ln in lines:

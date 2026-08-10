@@ -13,8 +13,21 @@ source_collection: external
 
 기존 [[endodontics/anatomy/sujith-2014-microscope-ultrasonic-mb2-detection-vivo]] (microscope+ultrasonic vs naked-eye)와 [[endodontics/anatomy/camacho-aparicio-2022-dom-ultrasonic-mb2-maxillary-molar]] (DOM+ultrasonic)를 보완해 진단도구 4종(naked-eye/3.5× loupe/16× microscope/CBCT) 동시 비교 ex-vivo data. 임상 의사결정 — 'CBCT 추가 indication' 임계값 보강.
 
-## One-line Summary
-Ex-vivo 147 extracted maxillary molars: CBCT sensitivity 0.88·specificity 0.88; CBCT ≈ 16× microscope ≈ reference standard (sectioning) — 둘 다 loupe·naked-eye보다 우수.
+## Three-line Summary
+
+Ex vivo diagnostic accuracy study (n=147 extracted human maxillary molars, Lutheran University of Brazil 2018) simultaneously comparing four MB2 detection methods — naked-eye, 3.5× loupe, 16× microscope, and CBCT — against a sectioning reference standard.
+
+CBCT achieved sensitivity 0.88 and specificity 0.88 (PPV 0.84, NPV 0.91), statistically equivalent to the 16× microscope, while both outperformed the 3.5× loupe and naked-eye, which had substantially lower sensitivity.
+
+Findings are limited by the ex vivo setting (no clinical environment noise), unspecified CBCT voxel size, and the potential for the sectioning reference standard itself to introduce false positives; this study provides the strongest ex vivo case for CBCT or microscope as the threshold for reliable MB2 detection.
+
+## 세줄요약
+
+Ex vivo 진단 정확도 연구 (발치된 상악 대구치 147개, 브라질 루터란 대학교 2018) — MB2 검출 4가지 방법(육안·3.5× 루페·16× 현미경·CBCT)을 단면 절단 기준 표준(reference standard)과 동시 비교.
+
+CBCT 민감도 0.88·특이도 0.88 (PPV 0.84, NPV 0.91) — 16× 치과용 현미경 (Dental Operating Microscope, DOM)과 통계적으로 동등하며, 둘 다 3.5× 루페·육안보다 우수한 민감도.
+
+Ex vivo 환경(임상 잡음 미반영), CBCT 복셀 크기 미명시, 기준 표준(단면 절단) 자체의 위양성 가능성이 한계로, 이 연구는 신뢰할 만한 MB2 검출의 임계 기준으로 CBCT 또는 현미경을 지지하는 가장 강력한 ex vivo 근거를 제공.
 
 ## 1. Document Information
 - Iranian Endodontic Journal 13(2):204-208, 2018

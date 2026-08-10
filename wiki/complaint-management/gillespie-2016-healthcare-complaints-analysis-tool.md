@@ -6,18 +6,26 @@ date: 2016-01-06
 doi: "10.1136/bmjqs-2015-004596"
 source: gillespie-2016-healthcare-complaints-analysis-tool.md
 category: complaint-management
-confidence: cross-sectional
+evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/gillespie-2016-healthcare-complaints-analysis-tool.pdf
 pdf_filename: gillespie-2016-healthcare-complaints-analysis-tool.pdf
 source_collection: external
 tags: [classification, HCAT, instrument, severity]
 ---
 
-## One-line Summary
-Development and reliability study creating HCAT: 7 problem categories x 4 severity levels, plus stage-of-care and harm coding, validated on UK national complaint samples.
+## Three-line Summary
+Instrument development and reliability study creating HCAT through iterative discriminant-validity testing with educated lay raters (n=58, 58, 55) and progressively larger UK national complaint samples (n=25, 80, 137, 839), with final reliability test on 125 complaints by 14 lay raters.
 
-## 한줄요약
-HCAT 개발·신뢰도 연구 — 7개 문제범주×4단계 심각도 + 진료단계·위해 코딩을 영국 전국 민원 표본으로 검증.
+HCAT comprises 7 problem categories (quality, safety, environment, institutional processes, listening, communication, respect and patient rights), each coded at 4 severity levels, plus orthogonal coding for stage-of-care and degree of harm; mean 1.94 problems per complaint letter.
+
+HCAT converts heterogeneous free-text complaint narratives into structured, quantifiable, severity-weighted data suitable for organisational learning, trend monitoring, and cross-institutional benchmarking.
+
+## 세줄요약
+HCAT 개발·신뢰도 연구: 훈련된 비전문 평가자(n=58·58·55)를 통한 반복 변별 타당도 검증 + 영국 전국 민원 표본 단계적 확대(n=25·80·137·839), 최종 신뢰도 검증(14명 평가자·125건).
+
+HCAT = 7개 문제범주(quality·safety·environment·institutional processes·listening·communication·respect)×4단계 심각도 + 진료 단계·위해 직교 코딩; 편지당 평균 1.94개 문제 식별.
+
+자유형식 민원 텍스트를 구조화·정량화·심각도 가중 데이터로 변환해 조직 학습·추세 모니터링·기관 간 비교에 활용 가능.
 
 ## Summary
 Gillespie and Reader developed HCAT, the first reliability-tested instrument for coding free-text complaint letters. Building on their 2014 taxonomy, they introduced severity as a coding dimension and defined seven problem categories grouped into three domains, plus stage-of-care and harm. Through iterative discriminant-validity testing and coding of progressively larger UK national samples, they produced a tool that lay raters could apply reliably (mean 1.94 problems per letter). HCAT converts heterogeneous complaint narratives into structured, comparable data for organisational learning.

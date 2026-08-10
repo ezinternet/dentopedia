@@ -9,8 +9,21 @@ pdf_filename: ayubianmarkazi-2018-immediate-implant-sinus-elevation-crestal.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Retrospective case series (19 patients, 22 implants in fresh maxillary molar sockets) combining immediate implant placement with simultaneous transcrestal (Summers/BAOSFE) sinus floor elevation and early loading: 100% survival and 95.45% success at mean 33.12 ± 16.98 months follow-up; mean crestal bone resorption only −0.054 ± 0.56 mm.
+## Three-line Summary
+
+Retrospective case series (19 patients, 22 immediately placed implants in fresh maxillary molar sockets) combining simultaneous transcrestal sinus floor elevation (Summers' BAOSFE) and early loading, with mean follow-up of 33.12 ± 16.98 months (up to 5 years).
+
+Survival rate 100% and Buser success rate 95.45%; mean crestal bone resorption only −0.054 ± 0.56 mm; 31.8% of implant surfaces showed coronal bone gain; one peri-implantitis case was managed with GBR and resolved.
+
+This combined protocol can achieve outcomes comparable to staged approaches even in posterior maxilla with limited interradicular bone (≥5–6 mm), but its single-arm retrospective design and small sample limit the strength of conclusions.
+
+## 세줄요약
+
+후향적 증례 시리즈 (환자 19명, 상악 구치부 신선 발치와 즉시식립 임플란트 22개) — 경치조골 상악동거상술(Summers' BAOSFE)과 즉시식립·조기부하의 동시 시행, 평균 추적 33.12 ± 16.98개월(최장 5년).
+
+생존율 100%, Buser 성공율 95.45%; 평균 변연골 흡수 −0.054 ± 0.56 mm; 31.8%의 임플란트 면에서 관상골 획득; 1예 임플란트 주위염 발생 후 골재생으로 해결.
+
+격막골 ≥5–6 mm 이상인 후방 상악에서 분단계 접근법에 필적하는 결과 가능성 — 단, 단일군 후향 설계·소규모 표본으로 근거 수준 제한적.
 
 ## 1. Document Information
 - **Journal**: Journal of Advanced Periodontology & Implant Dentistry 2018;10(2):68–76.

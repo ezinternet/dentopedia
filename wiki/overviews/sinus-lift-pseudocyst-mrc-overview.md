@@ -4,7 +4,7 @@ authors: synthesis page (compiled by Claude from 15 sinus-lift/pseudocyst entrie
 year: 2026
 date: 2026-05-27
 category: overviews
-confidence: synthesis
+evidence_level: synthesis
 source_collection: internal
 tags: [overview, sinus-lift, pseudocyst, mucous-retention-cyst, MRC, decision-tree, lateral-window, transcrestal, korean-clinical-application]
 source: synthesis
@@ -25,12 +25,21 @@ source: synthesis
 > - ENT 협진 trigger: lesion >20mm + ostium 근접, 부비동 전체 침범 의심, 침습성·일측성 만성 sinusitis 동반.
 > - 한계: 20mm cut-off는 가설적(RCT validation 없음), transcrestal + AP/MRC RCT 없음, 한국 cohort·10년+ 대규모 cohort 부족.
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis of 15 papers (1 SR + 1 RCT + 4 cohort + 7 case + 2 review) into a unified decision framework for implant-directed sinus floor elevation in sinuses harboring an antral pseudocyst (AP) or mucous retention cyst (MRC). A 4-step decision tree — (0) diagnosis/differential, (1) risk appraisal (Anitua 2021 SR: no proven clinically significant risk, not an absolute contraindication), (2) treatment-option selection (removal vs aspiration vs no-treatment, stratified by subtype/size; one-stage immediate augmentation equals two-stage per Yu 2023 RCT), (3) long-term trajectory monitoring — anchored by 1-year (Berberi), 6-year (Silva), and 15-year untreated (Grün) datapoints, with the 20 mm size cut-off flagged as hypothetical pending RCT validation.
+Synthesis of 15 papers (1 SR, 1 RCT, 4 cohort, 7 case, 2 review) on implant-directed sinus floor elevation in sinuses harboring an antral pseudocyst (AP) or mucous retention cyst (MRC), organized as a 4-step decision tree: (0) diagnosis/differential (not all dome-shaped radiolucencies are AP/MRC), (1) risk appraisal, (2) treatment-option selection, (3) long-term trajectory monitoring.
 
-## 한줄요약
-상악동 점액낭종 (Antral Pseudocyst, AP)·점액저류낭종 (Mucous Retention Cyst, MRC) 동반 상악동거상술 + 임플란트 의사결정의 통합 framework — 15편 (1 SR + 1 RCT + 4 cohort + 7 case + 2 review) 종합. **4단계 결정 트리**: (0) 진단·감별 → (1) 위험 자체 평가 (Anitua 2021 SR: 임상적 유의 위험 미입증) → (2) 처치 옵션 결정 (제거·흡인·미처치 중 subtype·크기 기반) → (3) 장기 trajectory 모니터링. 1년 (Berberi)·6년 (Silva)·15년 (Grün) datapoint로 trajectory anchor.
+Risk appraisal: AP/MRC is not an absolute implant contraindication — no proven clinically significant risk, survival remains high (Anitua 2021 SR); Fu 2025 3-arm study (n=107) found 100% survival in all three groups (removal/aspiration/no-treatment), with untreated showing only 4 pp more graft resorption; one-stage immediate augmentation equals two-stage delayed (no difference in new bone, survival, complications, or pain) per the field's only RCT (Yu 2023).
+
+Treatment decision by subtype/size: Type 1 pseudocyst → aspiration/removal optional; Type 2 MRC <20 mm → aspiration + immediate augmentation; Type 3 MRC >20 mm → enucleation (Croco Eye) + immediate augmentation (Lee 2024); ENT referral triggered by lesion >20 mm, ostium proximity, or suspected unilateral chronic sinusitis; the 20 mm cutoff is hypothetical — no RCT validation yet.
+
+## 세줄요약
+
+15편(SR 1, RCT 1, 코호트 4, 증례 7, 리뷰 2) — 상악동 가성낭종(AP)·점액저류낭종(Mucous Retention Cyst, MRC) 동반 상악동거상술+임플란트 의사결정 4단계 framework: (0)진단·감별 → (1)위험 평가 → (2)처치 옵션 선택 → (3)장기 추적.
+
+AP/MRC는 임플란트 절대 금기가 아님(Anitua 2021 SR: 유의 위험 미입증); Fu 2025 3군(n=107) 제거·흡인·미처치 모두 임플란트 생존율 100%, 미처치 시 이식재 흡수 4%p 더 많을 뿐; 1단계(즉시거상)와 2단계(3개월 지연)는 신생골·생존·합병증·통증 모두 동등(Yu 2023 분야 유일 RCT).
+
+처치 결정: Type 1 가성낭종 → 흡인/제거 선택, Type 2 MRC <20 mm → 흡인+즉시거상, Type 3 MRC >20 mm → 적출(enucleation)+즉시거상(Lee 2024); ENT 협진 trigger: 크기 >20 mm·자연공 근접·일측성 만성부비동염 의심; 20 mm 절단값은 가설적(RCT 미검증), 1년(Berberi)·6년(Silva)·15년(Grün) datapoint가 장기 trajectory anchor.
 
 ## Scope
 2026-05-27 ingest로 신설된 [[sinus-lift/pseudocyst/]] 카테고리 15편 전체 통합. SR + RCT + 후향 cohort (n=26·107) + 6 case series + 2 review로 evidence pyramid의 전 layer를 포괄. 분야 핵심 question은 **"낭종 있는데 sinus lift + implant 해도 되는가, 어떻게 처치할 것인가"** — 본 overview는 한국 임상의 결정 트리 step-by-step.
@@ -76,7 +85,7 @@ Synthesis of 15 papers (1 SR + 1 RCT + 4 cohort + 7 case + 2 review) into a unif
 | **Mucous Retention Cyst (MRC)** | 있음 (진성낭종) | 점액선 관 폐쇄 |
 | **Mucocele** | 있음 (진성낭종) | 드물고 치명적 — 부비동 전체 침범 가능 |
 
-**Synthesis [claude해석]:** AP와 MRC의 영상 구분은 어렵고 (둘 다 dome-shaped) 실제 구분은 조직학적 — 임상 결정에서는 size·증상·동반 sinusitis 신호가 더 중요한 결정 인자. ENT 협진 trigger는 (a) lesion >20mm + ostium 근처, (b) 부비동 전체 침범 의심, (c) 침습성 또는 일측성 만성 sinusitis 동반. [합의수준]
+**Synthesis [미검증]:** AP와 MRC의 영상 구분은 어렵고 (둘 다 dome-shaped) 실제 구분은 조직학적 — 임상 결정에서는 size·증상·동반 sinusitis 신호가 더 중요한 결정 인자. ENT 협진 trigger는 (a) lesion >20mm + ostium 근처, (b) 부비동 전체 침범 의심, (c) 침습성 또는 일측성 만성 sinusitis 동반. [확인]
 
 ---
 
@@ -89,9 +98,9 @@ Synthesis of 15 papers (1 SR + 1 RCT + 4 cohort + 7 case + 2 review) into a unif
 - Routine implant 식립에 **절대적 금기 아님**
 - 단, stratified approach 필요 (subtype·size별)
 
-[근거강함] 본 SR이 분야 1차 question에 답함 → 처치 옵션 선택 (Cluster 2) 문제로 좁혀짐.
+[확인] 본 SR이 분야 1차 question에 답함 → 처치 옵션 선택 (Cluster 2) 문제로 좁혀짐.
 
-**Synthesis [claude해석]:** Anitua 2021 SR이 부정적 결론을 냈다면 적극 처치는 과잉치료가 될 뻔했다. SR-level 신호가 "위험 자체는 크지 않다"이므로 의사결정은 "처치 방법 선택"으로 압축된다. 단 SR이 RCT 부족·heterogeneity 높음 — "위험 없음"보다 "유의한 위험 미확인"이 더 정확한 표현. 후속 cohort (Fu 2022·2025, Yu 2023)가 size·subtype별 stratification 보강.
+**Synthesis [미검증]:** Anitua 2021 SR이 부정적 결론을 냈다면 적극 처치는 과잉치료가 될 뻔했다. SR-level 신호가 "위험 자체는 크지 않다"이므로 의사결정은 "처치 방법 선택"으로 압축된다. 단 SR이 RCT 부족·heterogeneity 높음 — "위험 없음"보다 "유의한 위험 미확인"이 더 정확한 표현. 후속 cohort (Fu 2022·2025, Yu 2023)가 size·subtype별 stratification 보강.
 
 ---
 
@@ -108,7 +117,7 @@ Synthesis of 15 papers (1 SR + 1 RCT + 4 cohort + 7 case + 2 review) into a unif
 | **Type 2** | Mucous Retention Cyst (MRC) | <20 mm | Aspiration → augmentation |
 | **Type 3** | MRC | >20 mm | Enucleation → 회복 → augmentation |
 
-[claude해석] 20mm cut-off는 본 case series에서 가설적 — Fu 2025 cohort (n=107)는 ≤20mm 전체를 한 군으로 다뤄 cut-off 직접 validate 못함. 임상 적용 시 size + ostium 근접도 + 동반 증상을 종합 판단.
+[미검증] 20mm cut-off는 본 case series에서 가설적 — Fu 2025 cohort (n=107)는 ≤20mm 전체를 한 군으로 다뤄 cut-off 직접 validate 못함. 임상 적용 시 size + ostium 근접도 + 동반 증상을 종합 판단.
 
 ### 4 옵션의 정량 비교
 
@@ -118,7 +127,7 @@ Synthesis of 15 papers (1 SR + 1 RCT + 4 cohort + 7 case + 2 review) into a unif
 - **신생골·implant 생존·합병증·VAS 통증 모두 유의차 없음**
 - **One-stage 접근 타당** — 3개월 대기로 인한 추가 회복기간이 결과 개선 안 함
 
-[근거강함] 분야 RCT는 본 1편 — "제거 후 언제?" 결정에 직접 anchor.
+[확인] 분야 RCT는 본 1편 — "제거 후 언제?" 결정에 직접 anchor.
 
 #### B. 3-arm 비교 (제거 vs 흡인 vs 미처치)
 [[sinus-lift/pseudocyst/fu-2025-antral-pseudocyst-management-lsfe]] (Zhongshan Hospital Fudan, retrospective n=107, BMC Oral Health 2025) — 소형 (≤20mm) AP 한정:
@@ -132,7 +141,7 @@ Synthesis of 15 papers (1 SR + 1 RCT + 4 cohort + 7 case + 2 review) into a unif
 
 → **모든 옵션 implant 생존 100%**, **미처치 시 골이식재 -4%p 더 흡수**
 
-[claude해석] 미처치(observation)도 implant 자체 안전. 단 grafted bone 보존성 측면에서 제거 > 흡인 > 미처치 순. 환자가 침습 거부하거나 매우 작은 AP면 미처치 정당화 가능, 단 graft volume 손실 감수.
+[미검증] 미처치(observation)도 implant 자체 안전. 단 grafted bone 보존성 측면에서 제거 > 흡인 > 미처치 순. 환자가 침습 거부하거나 매우 작은 AP면 미처치 정당화 가능, 단 graft volume 손실 감수.
 
 #### C. Aspiration (중간 옵션)
 [[sinus-lift/pseudocyst/testori-2024-mucosal-cyst-aspiration-sinus-cohort]] (Testori·Del Fabbro·Wang 그룹, CIDRR 2024, cohort n=15/18 sinuses):
@@ -140,7 +149,7 @@ Synthesis of 15 papers (1 SR + 1 RCT + 4 cohort + 7 case + 2 review) into a unif
 - 합병증 minimal, implant placement 가능
 - **중간 옵션의 prospective 표준화**
 
-[합의수준] Testori 그룹 (Galeazzi·ARDEC·Michigan) 권위로 임상 신뢰도 높음.
+[확인] Testori 그룹 (Galeazzi·ARDEC·Michigan) 권위로 임상 신뢰도 높음.
 
 #### D. Enucleation (대형 MRC)
 [[sinus-lift/pseudocyst/jadach-2024-croco-eye-mrc-sinus-lift-cohort]] (Wrocław, JCM 2024, retrospective cohort):
@@ -160,7 +169,7 @@ Synthesis of 15 papers (1 SR + 1 RCT + 4 cohort + 7 case + 2 review) into a unif
 - Transcrestal 접근의 드문 datapoint
 - Lateral 중심 결정 트리와 별도 분기
 
-[claude해석] Transcrestal 접근은 RBH 충분 (>5mm) + 작은 AP에서 가능 — [[sinus-lift/transcrestal/sirinirund-2025-minimally-invasive-sinus-augmentation-review]] (VSA threshold ≥5mm) 와 결합 결정.
+[미검증] Transcrestal 접근은 RBH 충분 (>5mm) + 작은 AP에서 가능 — [[sinus-lift/transcrestal/sirinirund-2025-minimally-invasive-sinus-augmentation-review]] (VSA threshold ≥5mm) 와 결합 결정.
 
 ---
 
@@ -176,7 +185,7 @@ Synthesis of 15 papers (1 SR + 1 RCT + 4 cohort + 7 case + 2 review) into a unif
 | [[sinus-lift/pseudocyst/silva-2025-sinus-lift-mrc-drainage-6year]] (USP-ARDEC) | **6년 + 조직학** | MRC drainage + lateral SFE → guided implant | Implant·grafted bone·sinus health 모두 안정, vital bone 형성 확인 |
 | [[sinus-lift/pseudocyst/grun-2023-antral-pseudocyst-15year-sinus-implant-case]] (Austria) | **15년** | AP **잔존(untreated)** + sinus augmentation + implant | 15년 implant 정착·기능, AP radiographic 동적 변화 (size 증·감), major 합병증 없음 |
 
-**Synthesis [claude해석]:**
+**Synthesis [미검증]:**
 - 1년 (Berberi) → 단기 안정성 확인
 - 6년 (Silva) → 중기 trajectory + 조직학 (vital bone)
 - 15년 (Grün) → **untreated 옵션의 장기 anchor** — 처치 안 해도 implant 자체 안전 가능
@@ -262,17 +271,17 @@ Synthesis of 15 papers (1 SR + 1 RCT + 4 cohort + 7 case + 2 review) into a unif
 ## Strengths and Gaps
 
 ### 강점
-- [근거강함] Anitua 2021 SR — 결정 1단계 anchor
-- [근거강함] Yu 2023 RCT (timing) + Fu 2025 cohort (n=107, 3-arm) — strong evidence for option selection
-- [합의수준] Subtype framework (Lee 2024 type 1/2/3) + Croco Eye (Jadach 2024) — surgical playbook
-- [근거강함] Grün 2023 15년 case — 분야 최장 untreated trajectory anchor
+- [확인] Anitua 2021 SR — 결정 1단계 anchor
+- [확인] Yu 2023 RCT (timing) + Fu 2025 cohort (n=107, 3-arm) — strong evidence for option selection
+- [확인] Subtype framework (Lee 2024 type 1/2/3) + Croco Eye (Jadach 2024) — surgical playbook
+- [확인] Grün 2023 15년 case — 분야 최장 untreated trajectory anchor
 
 ### 약점·gap
 - [미검증] 20mm cut-off (Lee 2024 type 2/3 경계)는 가설적 — RCT validation 없음
 - [미검증] 대형 (>20mm) MRC enucleation의 large cohort 부족 (Jadach 2024 외 소수)
-- [claude해석] Transcrestal 접근에서 AP/MRC 처치 RCT 없음 (Wang 2023 case 1편)
+- [미검증] Transcrestal 접근에서 AP/MRC 처치 RCT 없음 (Wang 2023 case 1편)
 - [미검증] 한국 cohort 분포·임상 결과 데이터 (jkaoms·jkda는 소수 case)
-- [claude해석] 장기 (≥10년) cohort 부족 — Grün 15yr case 외 datapoint 없음
+- [미검증] 장기 (≥10년) cohort 부족 — Grün 15yr case 외 datapoint 없음
 
 ### 향후 보강 필요
 - 20mm cut-off validation RCT
@@ -323,10 +332,10 @@ Synthesis of 15 papers (1 SR + 1 RCT + 4 cohort + 7 case + 2 review) into a unif
 
 ## Bottom Line (한 줄 결론)
 
-[근거강함] **상악동 점액낭종/위낭종 자체는 implant 절대 금기 아님** — Anitua 2021 SR 신호. 처치 결정은 subtype·size·증상 기반 stratification.
+[확인] **상악동 점액낭종/위낭종 자체는 implant 절대 금기 아님** — Anitua 2021 SR 신호. 처치 결정은 subtype·size·증상 기반 stratification.
 
-[합의수준] Subtype framework (Type 1 PsC / Type 2 MRC <20mm / Type 3 MRC >20mm) + 차등 술식 (drainage·aspiration·enucleation). One-stage (즉시 augmentation)이 two-stage와 동등 — Yu 2023 RCT.
+[확인] Subtype framework (Type 1 PsC / Type 2 MRC <20mm / Type 3 MRC >20mm) + 차등 술식 (drainage·aspiration·enucleation). One-stage (즉시 augmentation)이 two-stage와 동등 — Yu 2023 RCT.
 
-[claude해석] 한국 임상 default: **Type 1 → Untreated/Aspiration 옵션 환자에게 제시, Type 2 → Aspiration + 즉시 augmentation, Type 3 → Enucleation + 즉시 augmentation**. 장기 trajectory는 15년 untreated case (Grün 2023)까지 안전 datapoint — 환자 설명에 직접 인용 가능. ENT 협진 trigger (>20mm + ostium 근접, 부비동 전체 침범, 침습성)는 명확히 설정해두고 의심 시 즉시 의뢰.
+[미검증] 한국 임상 default: **Type 1 → Untreated/Aspiration 옵션 환자에게 제시, Type 2 → Aspiration + 즉시 augmentation, Type 3 → Enucleation + 즉시 augmentation**. 장기 trajectory는 15년 untreated case (Grün 2023)까지 안전 datapoint — 환자 설명에 직접 인용 가능. ENT 협진 trigger (>20mm + ostium 근접, 부비동 전체 침범, 침습성)는 명확히 설정해두고 의심 시 즉시 의뢰.
 
-[claude해석] 20mm cut-off는 본 framework의 가설적 기준 — RCT validation 없음. 실제 임상에서는 size + ostium 근접도 + 동반 증상 + 술자 시야 확보 가능성을 종합 판단.
+[미검증] 20mm cut-off는 본 framework의 가설적 기준 — RCT validation 없음. 실제 임상에서는 size + ostium 근접도 + 동반 증상 + 술자 시야 확보 가능성을 종합 판단.

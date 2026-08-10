@@ -12,11 +12,21 @@ source_collection: external
 ## Why Ingested
 Explains WHY responders default to the defensive moves catalogued in [[complaint-management/12913_2021_Article_6733]]: contradictory organisational demands. Moves the response axis from blaming individuals to fixing the system -- the lever a clinic owner actually controls.
 
-## One-line Summary
-Mixed-methods study of UK hospital staff responding to online criticism, identifying six defensive tactics arising from contradictory work demands.
+## Three-line Summary
 
-## 한줄요약
-온라인 비판에 응답하는 영국 병원 직원 혼합방법 연구 — 모순된 업무 요구에서 비롯된 6가지 방어 전술 규명.
+Mixed-methods explanatory sequential study (PLOS ONE 2025) of UK hospital staff responses to online public criticism collected from the Care Opinion feedback platform, combining quantitative reliability coding and qualitative analysis of response patterns.
+
+Six defensive tactics were reliably identified: redirecting to alternate channels, evading the substantive issue, psychologizing concerns as emotional rather than factual, invalidating concerns as incomplete, closing the feedback episode prematurely, and offering bespoke workarounds instead of systemic change.
+
+Defensive responses reflect structural contradictions in organization role demands (transparency vs. reputation protection, responsiveness vs. workload management) rather than individual failing, and are associated with lower-quality engagement and reduced organizational learning.
+
+## 세줄요약
+
+혼합방법 순차설명 연구(PLOS ONE 2025): Care Opinion 온라인 공개 피드백에 응답하는 영국 병원 직원들; 정량적 신뢰성 코딩 + 질적 분석.
+
+6가지 방어 전술 신뢰성 있게 식별: 채널 재지정·실질 회피·심리화(정서적으로 주장)·증거 불완전성 주장·피드백 조기 종료·체계 대신 개별 해결책 제시.
+
+방어적 대응은 개인 결함이 아니라 조직 역할의 모순(투명성 vs 평판 보호, 반응성 vs 업무 부담)에서 비롯; 낮은 질의 소통·조직 학습 감소와 연관.
 
 ## 1. Document Information
 - PLOS One 2025;20(6):e0325185. CC BY. No specific funding.

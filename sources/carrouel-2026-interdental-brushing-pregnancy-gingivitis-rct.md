@@ -17,13 +17,21 @@ text_filename: carrouel-2026-interdental-brushing-pregnancy-gingivitis-rct.txt
 
 This RCT secondary analysis (n=323) quantifies calibrated **interdental brush (IDB)** use plus individualised instruction as a primary-prevention strategy for pregnancy-associated gingivitis — a high-value interdental-cleaning efficacy result (BOP 56%→12%, −79.9%; IDB the strongest independent predictor of bleeding resolution, OR=3.14). It extends [[wiki/interdental-cleaning/el-haddad-2026-toothpick-use-interdental-papilla-loss-cross-sectional]] (interdental-cleaning behaviour and outcomes) with hard RCT efficacy data in a special-risk population, and complements plaque/gingivitis device-efficacy evidence in [[wiki/periodontics/luo-2026-electric-toothbrush-technologies-plaque-gingivitis-nma]].
 
-## One-line Summary
+## Three-line Summary
 
-Multicentre single-blind RCT (secondary analysis, n=323 nulliparous women at preeclampsia risk, intact periodontium, enrolled at 12 wk gestation): daily calibrated interdental brushes + instruction vs routine antenatal care cut BOP from 56% to 12% (−79.9%, p<0.001) by 8 months — most of it in the first week — while controls stayed flat; IDB use was the strongest independent predictor of bleeding resolution (OR=3.14, 95% CI 2.01–4.90).
+Multicentre single-blind RCT secondary analysis (n=323 nulliparous women at preeclampsia risk, intact periodontium, enrolled at 12 weeks gestation across 6 antenatal clinics in Dakar, Senegal) comparing daily calibrated interdental brushes plus individualised instruction versus routine antenatal care over 8 months.
 
-## 한줄요약
+Interdental brushing reduced bleeding on probing (BOP) from 56% to 12% (−79.9%, p<0.001) while controls remained flat; most reduction occurred within the first week; IDB use was the strongest independent predictor of bleeding resolution (OR=3.14, 95% CI 2.01–4.90; multivariable OR=3.84, 95% CI 2.01–7.32).
 
-다기관 단일맹검 RCT(2차 분석, n=323, 자간전증 고위험·임신 12주 등록 초임부): 매일 보정형 치간칫솔(IDB)+개별 지도군이 일상 산전관리 대조군 대비 8개월째 탐침 시 출혈(BOP)을 56%→12%로 −79.9% 감소시켰고(p<0.001) 대부분 첫 주에 일어났으며, 치간칫솔 사용이 출혈 소실의 가장 강력한 독립 예측인자였다(OR=3.14, 95% CI 2.01–4.90).
+Daily interdental brushing is an effective and safe primary-prevention strategy for pregnancy-associated gingivitis that can be integrated into routine antenatal oral care; however, this trial was powered for preeclampsia, not gingival outcomes, and IDB did not significantly reduce obstetric endpoints.
+
+## 세줄요약
+
+다기관 단일맹검 RCT 2차 분석(n=323, 자간전증 고위험·임신 12주 등록 초임부, 세네갈 다카르 6개 산전 클리닉): 매일 보정형 치간칫솔(IDB, Interdental Brush)+개별 지도 대 일상 산전관리 비교, 8개월 추적.
+
+치간칫솔군은 탐침 시 출혈(BOP, Bleeding on Probing)을 56%→12%로 −79.9% 감소(p<0.001), 대조군은 변화 없음; 감소의 대부분은 첫 주에 발생; 치간칫솔 사용이 출혈 소실의 가장 강력한 독립 예측인자(OR=3.14, 95% CI 2.01–4.90; 다변량 OR=3.84).
+
+매일 치간칫솔 사용은 임신 관련 치은염에 대한 효과적·안전한 1차 예방 전략으로 산전 구강관리에 통합 가능; 단, 본 시험은 자간전증을 주결과변수로 설계되어 산과적 결과에는 유의한 효과 없음.
 
 ## 1. Document Information
 

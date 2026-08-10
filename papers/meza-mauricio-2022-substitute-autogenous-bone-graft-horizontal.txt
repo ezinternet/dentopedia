@@ -1,0 +1,134 @@
+Title: How efficacious is the combination of substitute bone graft with autogenous bone graft in comparison with substitute bone graft alone in the horizontal bone gain? A systematic review and meta-analysis
+
+Authors: Meza-Mauricio J, et al.
+Journal: J Clin Exp Dent, 2022
+PMID: 36046167
+PMCID: PMC9422965
+DOI: 10.4317/jced.59087
+Source: PubMed Central full text (retrieved via PubMed MCP get_full_text_article)
+
+=== ABSTRACT ===
+
+Background
+
+A systematic review (SR) was conducted to answer the following focused question based on PICO strategy: In patients who were submitted to horizontal guided bone regeneration, "how efficacious is the combination of substitute bone graft with autogenous bone graft in comparison with substitute bone graft alone, in terms of bone gain?"
+
+Material and Methods
+
+MEDLINE (PubMed), Scopus, Embase, Web of Science databases were searched, and hand searches were made up to June 2021, to find randomized clinical trials comparing the clinical effects of autogenous bone graft + substitute bone graft versus substitute bone graft alone in the treatment of horizontal guided bone regeneration.
+
+Results
+
+Four trials representing 109 individuals were included. All studies included in this SR used allogeneic bone graft. The meta-analysis did not show any statistically significant difference between the groups, for horizontal bone gain at a distance of 0 mm (MD: -0.46; 95%CI: -1.03 – 0.11) or at a distance of 4 to 5 mm from the top of the crestal alveolar ridge (MD: 0.17; 95%CI: -1.08 – 1.42).
+
+Conclusions
+
+Within limitations of this systematic review, it was concluded that the addition of autogenous bone graft to the allogeneic bone graft did not significantly increase the quantity of regenerated bone.
+
+Bone graft, bone regeneration, allograft.
+
+=== FULL TEXT ===
+
+Introduction
+
+Osseointegrated dental implants are an ideal alternative solution to replacing missing teeth; however, their successful placement is directly related to the quantity and quality of bone in edentulous areas. Tooth removal is often followed by a bone remodeling process leading to gradual reduction in horizontal and vertical bone ridge height. Bone resorption primarily occurs in the buccal aspect and increases over time. During the first year, loss of teeth results in a 25% reduction in bone width and a decrease of 4 mm in vertical bone height, and these changes could negatively affect the esthetic results of a final rehabilitation, irrespective of whether traditional rehabilitation or dental implant placement is performed. If an appropriate 3D positioning of implants cannot be achieved in the residual bone, ridge augmentation should be performed. Several techniques are now being used for this purpose such as distraction osteogenesis, ridge splitting, autogenous bone (AB) block, and guided bone regeneration (GBR).
+
+Augmentation using GBR has become a major treatment option to provide optimal bone support for osseointegrated dental implants. Simple defects, including dehiscence and fenestration defects were initially treated with GBR. Furthermore, GBR has been used for horizontal and vertical ridge augmentations and the success rate of implant treatment in the area restored by the GBR technique has been shown to similar to that of implant treatment in the healthy native bone region.
+
+AB is considered the gold standard graft material for GBR because of its osteogenic, osteoinductive, and osteoconductive properties. AB is commonly harvested from the ramus and symphysis. Considering its limitations, autologous grafts may need a second surgical site to enable their harvesting, which increases patient's morbidity, pain or discomfort, and other complications related to increased surgical time and invasiveness of the procedure. As an alternative to autogenous graft, various bone substitutes, including xenografts, alloplastic grafts, and allografts have been used to GBR. However, some researchers have advocated the necessity of mixing AB with the various bone substitutes in order to combine the osteogenic and osteoinductive growth factors of autogenous bone with the osteoconductive properties of a bone substitute.
+
+To date, there still is no consensus about the need to combine substitute graft material with AB graft, but the addition of AB graft could increase bone formation in comparison with allogenic graft alone. Therefore, the present systematic review was conducted to answer the following focused question based on PICO strategy: In patients who were submitted to horizontal guided bone regeneration, how efficacious is the combination of substitute bone graft with autogenous bone graft in comparison with substitute bone graft alone, in terms of bone gain?
+
+Material and Methods
+
+-Protocol and registration
+
+This systematic review was conducted in accordance with the Transparent Reporting of Systematic Reviews and Meta-Analysis – PRISMA Statement. Its protocol was registered on INPLASY (registration number 202180109), available at https://inplasy.com/inplasy-2021-8-0109/.
+
+-Focused question
+
+In patients who were submitted to horizontal guided bone regeneration, how efficacious is the combination of substitute bone graft with autogenous bone graft in comparison to substitute bone graft alone, in terms of bone gain?
+
+-Eligibility criteria (PICOS)
+
+(P)opulation: Patients with horizontal atrophic alveolar ridge in need of horizontal guided bone regeneration prior to dental implant installation.
+(I)ntervention: Bone augmentation using guided bone regeneration, performed with particulate materials (autologous bone chips) and/or osteoconductive materials (allografts, xenografts, or alloplastic bone substitute materials).
+(C)omparison: Substitute bone graft + autogenous bone graft vs substitute bone graft alone.
+(O)utcome: Horizontal bone gain (primary outcome), graft resorption, histological findings, patient-reported outcome measurements (secondary outcomes).
+(S)tudy design: Randomized clinical trials (RCTs).
+
+Only adults (≥18y) were included, no restriction on ethnicity/gender, no minimum sample size. Exclusion: individuals with systemic diseases/conditions that might compromise GBR (e.g., diabetes).
+
+-Search strategy
+
+MEDLINE (PubMed), Embase, Scopus, Web of Science searched up to June 2021 by two independent reviewers (J.M.M. and C.P.F.), no date/language restrictions. Grey literature (System for Information on Grey Literature in Europe, New York Academy of Medicine Grey Literature Report) also screened, per AMSTAR guideline. Hand searches performed in Clinical Implants Dentistry and Related Research, Journal of Clinical Periodontology, Clinical Oral Implants Research, Clinical Oral Investigations, and reference lists of included studies.
+
+-Data collection, extraction and management
+
+Titles/abstracts screened by two reviewers independently (J.M.M. and G.M.A.). Full-text review by two independent reviewers; Kappa (Cohen's κ) used to assess agreement; disagreements resolved by discussion/third reviewer (M.F.). Data extraction by two independent researchers (M.M.H.M. and L.R.) using predefined spreadsheets; missing data requested from authors by email. Extracted variables: journal, authors, year, study design, intervention type, membrane, graft material, membrane fixation method, horizontal bone gain, mean graft resorption, % autogenous bone relative to substitute bone, histological findings, PROMs, n per group, follow-up period.
+
+-Risk of bias
+
+Cochrane RoB 2 tool used by two reviewers (C.P.F. and J.M.M.), assessing "assignment to intervention" (intention-to-treat effect) across five domains: low risk / some concerns / high risk. Disagreements resolved by discussion / third reviewer (G.R.).
+
+-Data analysis and synthesis
+
+One author (F.W.M.G.M.) performed statistical analysis. Two meta-analyses for horizontal bone gain: (1) at 0 mm from the crest, (2) at 4-5 mm from the crest. Mean difference (MD) between baseline and last follow-up calculated per study/group, with 95% CI, significance threshold p<0.05. Subgroup analyses by membrane type (acellular dermal matrix vs collagenous membrane). RevMan 5.3 used; heterogeneity assessed via Cochran's Q (threshold p=0.1) and I² (>50% = high heterogeneity); random-effects model used given methodological differences among studies.
+
+-Certainty of evidence
+
+GRADE approach (very low / low / moderate / high), integrating risk of bias, heterogeneity/inconsistency, indirectness, imprecision, and other considerations (publication bias, effect magnitude, confounding, dose-response).
+
+Results
+
+-Study selection
+
+541 studies identified; after duplicate removal, 220 screened; 215 excluded by title/abstract; 5 full texts assessed; 1 excluded (bone augmentation of bony dehiscence around oral implants — did not meet eligibility). 4 studies included in SR and meta-analyses. Reviewer agreement excellent (Kappa ≥0.85).
+
+-Study characteristics
+
+4 RCTs conducted 2010-2020. Two conducted in USA, one in Israel, one in Iran. All used freeze-dried bone allograft, so the evaluated comparison was: allogeneic bone graft + autogenous bone graft (test) vs allogeneic bone graft alone (control). Total 109 individuals (55 test, 54 control), age range 21-73. Membranes used: acellular dermal matrix (2 studies) and collagen membrane (2 studies). Fixation methods: titanium tacks, bone screw, suture (horizontal mattress, anchored to periosteum); one study did not fix the membrane. Horizontal bone gain assessed via cone-beam CT in 3 studies, modified digital caliper in 1 study.
+
+-Risk of bias of individual studies
+
+All studies had some risk-of-bias concerns. Randomization process/allocation sequence adequately reported in only one study; no baseline differences reported in that study. Participants could not be blinded (donor site awareness); only one study described blinding of caregivers/outcome assessors. In one study, the same surgeon took measurements (increasing risk of bias). Only one study was prospectively registered in a clinical trials database (registered after study conclusion).
+
+-Ratio of autogenous:allogeneic bone graft
+
+Reported in 3 studies. Two used 50%:50% autogenous:allogeneic; one used 30% autogenous : 70% allogeneic. Harvesting instruments varied: bone scrapers, ultrasonic bone saw, rotary collecting bone instrument.
+
+-Clinical results
+
+Baseline mean horizontal bone width (test vs control mm): 3.82±1.4 vs 3.21±1.2; 3.53±1.3 vs 2.17±0.58; 3.2±0.7 vs 3.0±0.6; 1.9±0.78 vs 2.22±1.02 (only one study showed statistically significant between-group difference at baseline). Evaluation time: 6 months in 3 studies, 4 months in 1 study. Post-surgical mean horizontal bone width (test vs control mm): 6.75±1.22 vs 6.25±1.35; 7.13±1.96 vs 7.17±1.28; 6.7±1.7 vs 6.8±1.9; 4.3±1.68 vs 5±1.15. All studies found no statistically significant between-group difference in mean horizontal bone gain.
+
+Implant placement: Hashemipoor et al. — only 2 patients in the allogeneic-alone group needed complementary GBR at implant insertion due to insufficient bone. Beitlitum et al. — 2 patients (allogeneic-alone) and 3 patients (combination) needed complementary GBR.
+
+Graft resorption (2 studies): Cadwel et al. — combination group 0.68±0.72 mm (16.91%±17.10%) vs allogeneic-alone 0.42±0.60 mm (11.12%±15.11%), p>0.05. Patel et al. — combination group 2.9±1.9 mm (30%) vs allogeneic-alone 2.3±1.9 mm (25%), p>0.05.
+
+-Histological findings
+
+2 studies. Patel et al.: combination group 35% vital bone / 26% nonvital bone / 39% trabecular space vs allogeneic-alone 39%/24%/37% (no significant difference, p>0.05). Hashemipoor et al.: combination group 46.07±6.34% new bone / 9.08±2.33% remaining graft particles / 44.83±6.55% soft tissue vs allogeneic-alone 43.71±5.63%/9.86±2.16%/46.42±7.33% (no significant difference, p>0.05).
+
+-Patient-reported outcomes
+
+Not reported in any included trial — could not be investigated.
+
+-Meta-analysis synthesis
+
+At 0 mm from the crestal alveolar ridge (4 studies): no statistically significant difference (MD: -0.46; 95% CI: -1.03 to 0.11); low heterogeneity (I²=22%, p=0.28). Subgroup: collagen membrane MD -0.81 (95%CI -1.80 to 0.18); acellular dermal matrix MD -0.07 (95%CI -0.80 to 0.66).
+
+At 4-5 mm from the crestal alveolar ridge (2 studies only): no statistically significant difference (MD: 0.17; 95%CI -1.08 to 1.42); higher heterogeneity (I²=57%, p=0.13). Subgroup: collagen membrane MD 0.78 (95%CI -0.32 to 1.88); acellular dermal matrix MD -0.50 (95%CI -1.73 to 0.73).
+
+-Certainty of evidence
+
+Very low certainty for both outcomes (GRADE), due to risk of bias concerns across all included studies and small sample sizes; moderate heterogeneity noted for the 4-5mm outcome.
+
+Discussion
+
+First SR+MA comparing horizontal ridge width gain between allogeneic bone graft alone vs allogeneic + autogenous bone graft combination. No significant difference in horizontal bone gain between groups at either measured distance. Discussion notes autogenous bone graft's traditional "gold standard" status (osteogenic cells, growth factors, biocompatibility) yet no added benefit was demonstrated when combined with allograft. Comparison to a separate RCT (autogenous block graft vs GBR alone) found no significant bone-width difference at 6/18 months, but autogenous block grafting had significantly higher sensory disturbance (p=0.02) and hematoma (p=0.002) rates — i.e., harvesting morbidity without gain benefit. Resorbable membranes (collagen and acellular dermal matrix) performed similarly with no significant difference in bone gain by membrane subgroup. Membrane exposure rates were low in included studies; one study had 12.5% early postoperative infection rate leading to near-complete graft loss (no between-group significance). No consensus on optimal autograft:substitute ratio; ratios used ranged 30:70 to 90:10 in the literature, generally without significant differences in bone gain by ratio, though the discussion notes a trend that larger autogenous fractions may yield modestly more new bone histologically (not statistically significant within this dataset). Autogenous bone graft resorption rate literature range cited as 12-80%, consistent with the trend (non-significant) of higher resorption in combination groups observed here.
+
+Limitations: only 4 RCTs available, small defect sizes (patients missing 2-4 teeth — not generalizable to larger defects), majority of included studies had high risk of bias, frequent lack of blinding (inherent to donor-site awareness), few available studies in the literature on this specific comparison.
+
+Conclusions
+
+Within the limitations of this study (very low GRADE certainty, small n, risk of bias), the addition of autogenous bone graft to allogeneic bone graft did not significantly increase the quantity or quality of regenerated bone for horizontal ridge augmentation. Results must be interpreted with caution given the low number of RCTs.

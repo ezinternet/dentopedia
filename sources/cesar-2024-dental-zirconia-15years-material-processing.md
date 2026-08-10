@@ -13,13 +13,21 @@ source_collection: external
 
 Covers the full 15-year evolution of dental zirconia: 3Y-TZP → 4Y/5Y-PSZ → composition-gradient multilayer blocks, including powder technology, sintering advances, translucency-strength trade-off, and processing trends. Provides the key taxonomic and generational framework for understanding differences between zirconia types. Extends [[dental-materials/zirconia/chopra-2024-mechanical-characteristics-zirconia-dentistry]] by adding the material-science evolution and processing perspective missing from the mechanical-properties focus.
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review (5102 articles, Web of Science) covering 15 years of dental zirconia evolution from monolithic 3Y-TZP to composition-gradient multilayer 5Y-PSZ, with synthesis of powder technology, sintering, translucency-strength trade-offs, and clinical indication expansion.
+Narrative review based on 5102 Web of Science articles categorized into 31 research groups, tracing 15 years (2008–2023) of dental zirconia evolution from first-generation opaque 3Y-TZP through composition-gradient multilayer 5Y-PSZ CAD/CAM blocks.
 
-## 한줄요약
+Increasing yttria content (3Y→5Y) drives translucency improvement but reduces strength (3Y-TZP ~900–1200 MPa → 5Y-PSZ ~600–700 MPa); modern composition-gradient multilayer disks combine 3Y-TZP base layers (strength) with 5Y-PSZ top layers (translucency), resolving the earlier inter-layer flaw problem via novel powder compaction.
 
-5102편 문헌 분석 기반 서술적 고찰로, 2008–2023년 치과용 지르코니아의 3Y-TZP에서 다층 조성경사형 5Y-PSZ까지 15년 진화 과정·분말기술·소결·투광성-강도 상충관계를 총괄한다.
+This is a narrative review without systematic meta-analysis; the wide commercial product range causes clinical material-selection confusion, and high-speed sintering plus additive manufacturing require significant improvement before routine adoption.
+
+## 세줄요약
+
+Web of Science 5102편을 31개 연구군으로 분류한 서술적 고찰로, 2008–2023년 치과용 지르코니아의 1세대 불투명 3Y-TZP에서 조성경사형 다층 5Y-PSZ CAD/CAM 블록까지 15년 진화를 추적.
+
+이트리아 함량 증가(3Y→5Y)에 따라 투광성이 향상되지만 강도가 저하(3Y-TZP ~900–1200 MPa → 5Y-PSZ ~600–700 MPa); 최신 조성경사형 다층 블록은 기저층 3Y-TZP(강도)와 상부 5Y-PSZ(투광성)를 조합해 이전 세대의 층간 결함 문제를 신형 분말 압축 공정으로 해결.
+
+서술적 고찰로 체계적 메타분석은 없으며, 다양한 상업 제품이 임상적 재료 선택에 혼란을 야기하고 고속 소결 및 적층 제조는 임상 적용 전 추가 개선이 필요.
 
 ## 1. Document Information
 

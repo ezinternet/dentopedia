@@ -17,13 +17,21 @@ text_filename: pertek-hatipoglu-2025-radicular-grooves-cshaped-taurodontism-prem
 
 literature-surveillance `c-shaped-canal` 토픽 첫 sweep(2026-06-19)의 OA:PMC 1순위 후보. 기존 C-shaped 유병률 SR+MA [[wiki/endodontics/anatomy/yousefi-2025-cshaped-canal-prevalence-cbct-sr-ma]] 를 **하악 제1소구치 + 다기관 1차 데이터(20개국 12,000치)** 로 보강하고, 소구치 C-shaped를 다룬 [[wiki/endodontics/anatomy/brea-2021-cbct-cshaped-mandibular-premolars]] · [[wiki/endodontics/anatomy/yu-2012-cbct-mandibular-premolars-root-canal-morphology]] 를 확장한다. radicular groove·taurodontism 동반 출현(공유 발생 경로)까지 한 데이터셋에서 정량화한 점이 신규. PubMed 출처, CC BY 4.0 OA 전문 확보.
 
-## One-line Summary
+## Three-line Summary
 
-Multicenter cross-sectional study with meta-analytic pooling (20 countries, 6,000 participants / 12,000 bilateral mandibular first premolars, CBCT): C-shaped canal global prevalence 10% (95% CI 7–12%; Asia 19%, Europe 3%), radicular grooves 20%, taurodontism 7%; all three show strong bilateral symmetry and inter-correlation (shared developmental pathways).
+Multicenter cross-sectional study with meta-analytic pooling (20 countries, 6,000 participants / 12,000 bilateral mandibular first premolars, CBCT): C-shaped canal global prevalence 10% (95% CI 7–12%;
 
-## 한줄요약
+Asia 19%, Europe 3%), radicular grooves 20%, taurodontism 7%;
 
-다기관 단면연구+메타분석(20개국, 6,000명/12,000 양측 하악 제1소구치, CBCT): C-shaped 근관 전세계 유병률 10%(95% CI 7–12%; 아시아 19%·예멘 31% 최고, 유럽 3% 최저), radicular groove 20%, taurodontism 7% — 세 변이 모두 강한 양측 대칭성·상호 상관(공유 발생 경로)을 보임. I²=98%로 지역간 이질성 큼.
+all three show strong bilateral symmetry and inter-correlation (shared developmental pathways).
+
+## 세줄요약
+
+다기관 단면연구+메타분석(20개국, 6,000명/12,000 양측 하악 제1소구치, CBCT): C-shaped 근관 전세계 유병률 10%(95% CI 7–12%;
+
+아시아 19%·예멘 31% 최고, 유럽 3% 최저), radicular groove 20%, taurodontism 7% — 세 변이 모두 강한 양측 대칭성·상호 상관(공유 발생 경로)을 보임.
+
+I²=98%로 지역간 이질성 큼.
 
 ## 1. Document Information
 

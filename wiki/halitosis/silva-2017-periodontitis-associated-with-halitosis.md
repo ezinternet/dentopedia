@@ -6,20 +6,28 @@ date: 2017-07-27
 doi: 10.1111/jcpe.12786
 source: silva-2017-periodontitis-associated-with-halitosis.md
 category: [halitosis]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/silva-2017-periodontitis-associated-with-halitosis.pdf
 pdf_filename: silva-2017-periodontitis-associated-with-halitosis.pdf
 source_collection: external
 tags: [halitosis, periodontitis, volatile-sulfur-compounds, meta-regression, oral-malodor]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 5 population-based studies: periodontitis is associated with 3.16× higher odds of halitosis (OR 3.16; 95% CI 1.12–8.95); measurement criteria for both conditions explain the majority of between-study heterogeneity.
+SR+MA of 5 population-based cross-sectional observational studies (1,107 articles screened) providing the first pooled estimate of the association between periodontitis and halitosis.
 
-## 한줄요약
+Individuals with periodontitis had 3.16× higher odds of halitosis (OR 3.16; 95% CI 1.12–8.95); meta-regression showed halitosis diagnostic criteria explained ~45% and periodontitis case definitions ~24% of between-study heterogeneity.
 
-5개 인구 기반 관찰연구 SR+MA: 치주염(Periodontitis)이 있으면 구취(Halitosis) 오즈가 3.16배 높으며(OR 3.16; 95% CI 1.12–8.95), 측정 기준 차이가 이질성의 대부분을 설명함.
+The association is statistically significant but based entirely on cross-sectional data — standardized diagnostic criteria for both conditions are needed before causal claims or clinical thresholds can be established.
+
+## 세줄요약
+
+치주염(Periodontitis)과 구취(Halitosis) 연관성을 인구기반 횡단연구 5편으로 처음 정량 합성한 SR+MA(1,107편 검색).
+
+치주염 환자는 구취 오즈가 3.16배 높음(OR 3.16; 95% CI 1.12–8.95); 메타회귀에서 구취 진단 기준 차이가 이질성의 약 45%, 치주염 정의 기준이 약 24%를 설명.
+
+통계적으로 유의한 연관성이지만 모두 횡단연구 — 인과관계 주장 및 임상 역치 설정 전에 두 질환 모두 표준화된 진단 기준이 필요.
 
 ## Summary
 

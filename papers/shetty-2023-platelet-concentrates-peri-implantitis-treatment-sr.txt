@@ -1,0 +1,130 @@
+Title: Effect of platelet concentrates on the treatment outcome of peri implantitis: A systematic review
+Authors: Shetty NR, Menaka KB
+Journal: Journal of Indian Society of Periodontology, 2023-03-04
+PMID: 37152466
+PMCID: PMC10159101
+DOI: 10.4103/jisp.jisp_622_21
+Source: PubMed Central (retrieved via PubMed MCP get_full_text_article)
+
+ABSTRACT
+
+Platelet concentrates (PCs) are biological agents known to promote soft as well as hard tissue healing. The review aimed at evaluating the effectiveness of PCs for treating peri-implantitis (PI). Five electronic databases were systematically reviewed followed by a handsearch of relevant journals. The selected studies focused on the predetermined primary and secondary outcomes. The primary outcomes were bleeding on probing, probing depth, marginal bone level. RevMan 5.4.1 software was used for risk bias analysis. The search retrieved 12 articles, and only one study compared PC and open flap debridement. Other three studies with different control arms were included to evaluate the overall effect of different PCs in treatment of PI. High heterogeneity was found regarding study design, sample size, surgical techniques, and methods for preparing PCs. The use of platelet-rich fibrin for PI over conventional therapy was beneficial in improving clinical parameters. In addition, PC when combined with graft materials provided a significant improvement in parameters assessed. The preliminary data regarding the use of different PC in treatment of PI seem to be promising. However, due to lack of comparative randomized controlled trials, future clinical research is necessary to comment on the role of PCs for treating PI.
+
+INTRODUCTION
+
+Dental implants have been widely accepted for replacing missing teeth to improve functional efficiency and quality of life of the patient. Analogous to gingivitis and periodontitis affecting the natural teeth, the inflammatory process around the dental implants and peri-implant tissues is termed as peri-implantitis (PI). By definition, PI is "the inflammation of the peri-implant tissues accompanied with changes in the level of crestal bone and with the presence of bleeding on probing and or suppuration, with or without concomitant deepening of peri-implant pockets."
+
+In recent times, the use of biologic agents consisting of growth and differentiation factors has been shown to modulate the wound healing response in both soft and hard tissues. Platelet concentrates (PCs) are blood-derived products rich in platelets and growth factors (GFs). There are two main types of PCs: platelet-rich plasma (PRP) and platelet-rich fibrin (PRF): pure form (i.e., P-PRP and P-PRF) or rich in leukocytes (i.e., L-PRP and L-PRF).
+
+There has been a rising interest in the application of PCs for the treatment of intraoral clinical conditions, to promote bone and soft tissue healing, for example, in alveolar ridge augmentation, periodontal surgery, socket preservation, implant surgery, endodontic regeneration, and sinus augmentation. The biochemical components of PCs have prominent synergistic effects on healing process. A reservoir of platelets, leukocytes, cytokines, and immune cells, PCs allow slow release of cytokines and GFs that stimulate the fibroblasts and the osteoblastic activity to enhance angiogenesis which provides foundation for tissue healing and regeneration. Studies have demonstrated PCs to contain antimicrobial activity against the periodontal disease-associated bacteria which are implicated to be associated with PI and may provide additional benefit for treating the microbial etiology of peri-implant disease.
+
+The goal for treating PI is the resolution of soft tissue inflammation and thereupon preventing further marginal bone loss which is reflected as improvement in bleeding on probing (BOP), probing depth (PD), and gain in marginal bone level (MBL). In recent years, systematic reviews have gathered evidence on the use of PC for postextraction socket healing, alveolar socket preservation, surgical treatment of periodontal disease, and intrabony defects. In all of the above-stated reviews, PCs showed a significant positive effect on the outcomes assessed. Till date, two systematic reviews are reported on the effects of PRF and PRP to enhance treatment outcomes of implant therapy. No systematic review has focused on the use of different types of PCs exclusively in treatment of PI. Therefore, the aim of the present review is to update and gather all the currently available researches on PCs to treat PI.
+
+MATERIALS AND METHODS
+
+Protocol and registration
+
+The review was registered in PROSPERO with registration ID-CRD42020202363 and conducted according to the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) statement, and a detailed protocol was established.
+
+Eligibility criteria
+
+The focused question formulated was based on the PRISMA guidelines:
+
+Population (P) = Patients with the signs of PI
+Intervention (I) = The use of PCs in the treatment of PI
+Comparison (C) = Treatment of PI using conventional flap therapy/open flap debridement (OFD)
+Outcome (O) = Clinical parameters with respect to BOP, pocket PD, and radiographic parameters with respect to MBL.
+
+The following PICO question was raised: "Does the use of PCs over OFD or conventional flap therapy in the treatment of PI provide beneficial clinical and radiographic outcomes?"
+
+Search strategy
+
+A systematic literature search on five electronic databases (PubMed, Google Scholar, ProQuest, Cochrane, and Ovid MEDLINE) was performed. Articles published in English up to December 31, 2020, were considered. An additional handsearch was performed including the bibliographies of all relevant papers for possible additional studies.
+
+Search terms
+
+The electronic search included the terms related to intervention and the following combination of keywords, MeSH and Emtree terms were used: "Peri-implantitis" OR "periimplantitis" AND "open flap debridement" OR "conventional flap therapy" AND "regenerative therapy" AND "platelet concentrates" AND "platelet-rich plasma" OR "PRP" AND "platelet-rich fibrin" OR "PRF" AND "leukocyte platelet-rich fibrin" OR "L-PRF" AND "concentrated growth factor" OR "CGF." In addition, the search filters for randomized controlled trials (RCTs), prospective clinical trials, and case series were applied. The search was limited to human studies.
+
+Inclusion and exclusion criteria
+
+RCTs, controlled clinical trials, case series, and case-control studies with at least five patients and 6-month follow-up. Studies regarding treatment of PI combined with PCs were included. In-vitro, preclinical, and animal studies were excluded.
+
+Screening and data extraction
+
+Two reviewers independently performed the screening of the titles and abstracts retrieved by the electronic and handsearch based on the inclusion criteria. When the information with respect to the title and abstract of an article was insufficient, the full text was obtained. Discrepancies were solved by discussion, and the final decision was achieved after discussion with a third reviewer. The articles that fulfilled the inclusion criteria were processed for data extraction. The reviewers extracted relevant data, the outcomes were compiled, and all the data extracted were double-checked.
+
+Outcome variables
+
+The primary and secondary outcome variables were predetermined for extracting the data from the selected studies. The primary outcomes measured were BOP, PD, and MBL, and the secondary outcomes were clinical attachment level (CAL), mucosal recession (MR), and keratinized mucosa (KM). The change in outcome variables from baseline to 6-month follow-up was considered.
+
+Assessment of risk of bias
+
+The risk of bias assessment was done using RevMan 5.4.1 software. The risk of bias of included studies was evaluated independently and in duplicate by two reviewers. The methodological quality of all the included studies was evaluated using the Cochrane Collaboration's tool for assessing the risk of bias in RCTs. Any disagreement was discussed until consensus was achieved. Studies were categorized into high, unclear, and low risks. High risk of bias: if one or more key domains were not present; unclear risk of bias: if one or more key domains were not described; low risk of bias: if all quality criteria were judged as present. The risk of bias was synthesized by means of a graph.
+
+Data analysis
+
+For each trial, the mean difference in the primary and secondary outcome variables was assessed. Appropriate data of interest on the stated variables are tabulated and discussed. The WMD with 95% confidence interval of each variable was calculated to estimate the effect of interventions. Clinical heterogeneity with the I^2 statistic, which ranges between 0% and 100%, was assessed. Owing to great heterogeneity among the selected studies and lack of literature with well-designed RCT, no meta-analysis could be performed.
+
+RESULTS
+
+The electronic search provided 441 studies. After screening the titles, 12 articles were identified, out of which 3 duplicate articles were excluded. Abstract screening was done for nine articles, and five articles were excluded for reasons mentioned in Table 1. Out of four studies, only one study answered the main focused question which compared the effect of PCs with OFD and the remaining three studies evaluated the overall effect of PCs for treating PI.
+
+Table 1 -- List of excluded studies and reasons for exclusion:
+- Roos-Jansaker 2007: Treatment of peri-implantitis using bone substitute with or without membrane -- PCs not used
+- Jang 2010: Restoration of peri-implant defect using PRF and silk fibroin powder combination graft -- Animal study
+- Lee 2012: Restoration of peri-implant defect by PRF -- Animal study
+- Simsek 2016: Treatment of peri-implant defect using DFDBA, PRF, and rifamycin SV sodium salt -- Animal study
+- Roccuzzo 2016: Treatment peri-implant defect by deproteinized bovine bone material with 10% collagen -- PCs not used
+
+Study characteristics
+
+Out of the four studies, two were RCTs, one was prospective clinical study, and one was case series. Of the two RCTs, one study by Hamzacebi evaluated the effect of the use of PCs over OFD for treating PI and the other RCT by Isler compared collagen membrane and CGF. One prospective study by Guler compared xenograft, collagen membrane, and PRF membrane against PTG and PRF membrane, and a case series by Martin used L-PRF and xenograft for treating peri-implant defects. The mean age of the participants was 56 years in all studies except for Martin who did not mention the age of participants. One hundred and thirty dental implants were treated, and the follow-up duration ranged from 3 to 12 months with a mean period of 6 months.
+
+Table 2 -- Features of included studies:
+
+Study 1 -- Author: Hamzacebi 2015; Study design: RCT; Follow-up: BL, 3 months, 6 months; Age: 60.98+/-11.90; Sample size: 38; Decontamination: PeriBrush and 4% pH1 citric acid for 3 min or TTc HCL solution in 20 ml sterile saline; PC preparation: PRF 3000 rpm for 10 min; Interventional group: PRF membrane; Comparison group: OFD.
+
+Study 2 -- Author: Guler 2017; Study design: Prospective clinical trial; Follow-up: BL, 6 months; Age: 45.36+/-14.1; Sample size: 35; Decontamination: Rotary titanium brush; PC preparation: PRF 3000 rpm for 10 min; Interventional group: Grafted with PTG and PRF membrane alone; Comparison group: Grafted with xenograft, collagen membrane, and PRF membrane.
+
+Study 3 -- Author: Isler 2018; Study design: RCT; Follow-up: BL, 6 months, 12 months; Age: CGF group 57.96+/-9.07, CM group 56.15+/-9.23; Sample size: 52; Decontamination: NR; PC preparation: CGF (2700 rpm/2min, 2400 rpm/4min, 2700 rpm/4min, 3000 rpm/3min); Interventional group: Grafted with bone substitute (Bio-Oss) and CGF; Comparison group: Grafted with bone substitute (Bio-Oss) and collagen membrane (Bio-Gide).
+
+Study 4 -- Author: Martins 2019; Study design: Case series; Follow-up: BL, 6 months; Age: ND; Sample size: 5; Decontamination: Titanium curette and glycerine airflow (Perio-Mate, NSK); PC preparation: L-PRF (2700 rpm/2min, 2400 rpm/4min, 3000 rpm/3min); Interventional group: Treated with L-PRF and xenograft; Comparison group: ND.
+
+Primary and secondary outcomes
+
+All the parameters with the use of PRF showed a significant improvement when compared to OFD alone in treatment of PI as reported by Hamzacebi. The use of different PCs alone or in combination with regenerative materials showed a similar improvement as demonstrated in the remaining three studies. Isler reported a maximum reduction in BOP (24.32% +/- 11.22%) at 6 months using Bio-Oss along with CGF.
+
+Assessment of risk of bias
+
+The risk of bias within each study is mentioned, and the studies were categorized into high, medium, and low risks. Randomization was reported by Isler. Allocation concealment was reported in all the included studies. Blinding of the participants and personnel was unclear for all the studies. Blinding of outcome assessment was done in one study. Two studies showed attrition bias. Selective reporting and other biases remained at low risk with unclear measure for one study regarding the former.
+
+DISCUSSION
+
+Various treatment options are determined to achieve the resolution of PI. The nonsurgical treatment option seems to be inadequate in moderate-to-severe forms of PI, thereby necessitating the need for surgical access to treat PI.
+
+Conventional therapy with OFD, regenerative and resective procedures combined with various methods of surface decontamination, has been documented to achieve variable success in the treatment of PI. However, the conventional OFD lacks in regenerating tissues destroyed by the disease process. Therefore, different biomaterials based on their endogenous regenerative potential such as enamel matrix derivative, bone morphogenetic proteins, GFs, PCs, and fibrin glues have helped in the healing of both soft tissues and hard tissues following implant placement.
+
+Two systematic reviews on the use of PRF and PRP to enhance the outcomes of implant therapy are reported in literature. To the best of our knowledge, no review on overall effects of different PCs for PI is available. The present systematic review focused on RCTs, clinical controlled trials, and case series that evaluated the effects of different PCs on the treatment outcome of PI. The attempt to answer the focused question revealed only one randomized controlled study. Therefore, the review also evaluated the application of PCs with different comparison arms and regenerative materials for treating PI.
+
+The primary outcomes evaluated were BOP, PD, and MBL. The secondary outcomes evaluated were CAL, KM, and MR.
+
+Overall improvements in the clinical parameters showed that PRF application achieved a significant improvement than access flap alone. At 6 months, the PRF group presented with a greater reduction in PD and more CAL gain compared to the control group. In a study by Thorat, the use of PRF for treating intrabony defects demonstrated greater improvement in PD reduction and CAL gain with greater intrabony defect fill than OFD alone.
+
+With respect to MR, the results obtained were 0.62 +/- 0.49 mm at baseline and 0.14 +/- 0.28 mm at 6 months. A study by Heitz-Mayfield demonstrated a MR of 1 mm to be expected following peri-implant surgery. However, the results of the RCT by Hamzacebi support the finding of Sharma and Pradeep where they obtained a greater root coverage when intrabony defects were treated with PRF in chronic periodontitis. The gain in the amount of KM reported by Hamzacebi using PRF was shown to be significant as compared to OFD with a similar significant reduction reported in BOP at 6 months.
+
+PRF when used alone or in combination with other materials showed improvement in clinical parameters reported in studies by Guler, Isler, and Martin who reported a maximum reduction in BOP at 6 months using xenograft, i.e., Bio-Oss along with CGF. However, Ahmad reported that the BOP changes were not significant when intrabony defects were treated using the modified minimally invasive surgical technique along with PRF as compared to the control group without PRF. A possible explanation for these varying results between the studies could be because of the difference in preparation of CGF and PRF in relation to their centrifugation protocol promoting better healing in one group.
+
+The MBL changes were recorded by Isler, from baseline to 12 months, and reported a significant improvement using CGF when compared to their control group receiving collagen membrane only. Furthermore, studies have evaluated a similar effect with the application of PRF around peri-implant defects in animal studies which achieved new bone formation in 29.30% and 43.07% of subjects. These studies imply that PRF can be utilized as an additional filling material for treating small bony defects in combination with other regenerative materials.
+
+The mean reduction in PD was greater in the study by Martin, and a significant gain in the CAL was observed where the peri-implant defects were treated with L-PRF and xenograft. In a study by Sharma and Pradeep, treatment of 3-walled intrabony defects using PRF alone showed reduction in PD and gain in CAL from baseline to 9 months. Moreover, a study by Lekovic reported a significantly greater improvement in PD reduction and gain in CAL which was observed when PRF was combined with bovine porous bone mineral as compared to the use of PRF alone for the treatment of intrabony periodontal defect.
+
+A statistically significant less MR after treatment at 3 and 6 months was noted (P < 0.001). No significant change in the gingival marginal level was reported by Sharma and Pradeep (P = 0.51) and Ahmad (P = 1.0) where PRF was used to treat the intrabony defects. The minimal coronal movement of gingival margin reported in the present review and supporting studies attributes to the synergistic effect of adhesive property of fibrin glue and the surgical technique used as reported by Aroca.
+
+The gain in the KM was observed to be significant in the present review at 6 months with the use of PRF as per the findings documented by Aroca using modified coronally advanced flap with PRF membrane for treating Miller's class I and class II gingival recession. However, Thamaraiselvan reported no significant increase in the width of KM with CAF and PRF from baseline to 6 months (2.30 +/- 0.82 mm and 2.70 +/- 0.67 mm, P > 0.05) for treating Miller's class I and class II gingival recession. These contradictory results with respect to improvement in MR and KM could be because of confounding factors such as gingival phenotype and underlying bony architecture that could affect the overall treatment outcome of gingival recession and not solely depend on the biomaterial used.
+
+CONCLUSION
+
+The literature over the past decade has proved the effective role of PCs for treating periodontal defects and promoting regeneration. Within the limitations of the review, the use of PRF in treatment of PI over conventional therapy provided improved clinical outcomes. PC combined with other grafting and biomaterials also demonstrated beneficial results. Based on the included studies, an overall improvement in the clinical parameters, with its effective role in wound healing, advocates the additional use of PCs for treating PI. However, due to a low number of well-controlled RCTs without a standardized comparison group, a definitive conclusion is not possible. The role of PCs in the treatment of PI is still in its infancy. Large-scale RCTs with a homogeneous comparison group and the use of a defined preparation protocol for PCs are recommended for future research.
+
+Financial support and sponsorship: Nil.
+Conflicts of interest: There are no conflicts of interest.

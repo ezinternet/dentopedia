@@ -1,0 +1,57 @@
+Radiographic artifacts in the diagnosis of dental caries: systematic review with meta-analysis
+Dioguardi M, Guerra C, Sovereto D, Martella A, Zhurakivska K, Tisci A, Esperouz F, Bizzoca ME, Sanesi L, Mastrangelo F, Lo Muzio L, Cirillo N, Ciavarella D, Ballini A.
+Oral Radiology. 2025;42(2):281-296.
+DOI: 10.1007/s11282-025-00879-2
+PMID: 41331196  PMCID: PMC12988984
+Source: PubMed Central full text (get_full_text_article)
+Registration: PROSPERO CRD420251083823; PRISMA-compliant.
+
+=== ABSTRACT ===
+Radiographic caries diagnosis is complicated by radiographic OPTICAL effects — the Mach band effect and triangular-shaped radiolucencies (TSR) — which cause FALSE POSITIVES, especially in bitewing radiographs, risking overdiagnosis/overtreatment. Aim: clarify the real prevalence of these optical effects and quantify their influence on caries diagnostic errors.
+SR+MA (PRISMA, PROSPERO CRD420251083823). PubMed/Scopus/Cochrane + grey literature. Inclusion: clinical/in vitro/ex vivo studies on TSR and Mach band on intraoral radiographs (bitewing or periapical) reporting diagnostic performance/prevalence/misinterpretation. Risk of bias: AXIS, QUADAS-2. Random-effects meta-analyses.
+Of 640 reports, 5 studies included. Overall prevalence of non-carious TSR on maxillary molars = 26.44% (270/1021). Meta-analysis: optical effects (TSR or Mach band) → false-positive caries/fracture diagnoses in ~13% of observations (60/464). High heterogeneity (I² > 90%); certainty low to very low.
+Conclusion: optical effects (esp. TSR, Mach band) are highly prevalent in bitewing images and significantly increase false-positive caries diagnoses, especially in children. Interpret radiographs with caution; correlate with clinical exam.
+
+=== THE THREE OPTICAL EFFECTS ===
+1) CERVICAL BURNOUT: radiographic effect mimicking a carious lesion near the cementum-enamel junction (CEJ). X-ray beam passes tangentially across the curved proximal tooth surface → less dental structure → localized apparent radiolucency, typically between CEJ and alveolar crest where dentin is thinner. More pronounced in multirooted teeth when buccal/lingual roots don't overlap; shallow root bifurcation accentuates it.
+2) MACH BAND EFFECT: optical ILLUSION — adjacent areas of differing density/brightness make the eye perceive exaggerated contrast at the interface. At the enamel-dentine junction (EDJ) on bitewing → apparent radiolucency suggesting caries. Positive Mach band = lighter band where radiopaque meets radiolucent; negative Mach band = darker band at the border. Masking the radiopaque enamel: if band disappears → false-positive optical effect; if persists → possible true outer-dentine lesion.
+3) TRIANGULAR-SHAPED RADIOLUCENCIES (TSR): non-carious, predominantly on MESIAL surfaces of MAXILLARY molars (deciduous & permanent). Attributed to superimposition of the Carabelli cusp + maxillary-molar anatomy. Mach-band-related. Commonly mistaken for carious lesions.
+
+=== METHODS ===
+PRISMA + Cochrane Handbook. PROSPERO CRD420251083823. Databases: Cochrane, PubMed, Scopus + grey literature (Google Scholar, ScienceDirect, DANS). Search: "triangular-shaped radiolucencies" OR "Mach band". Two reviewers screen/extract; third adjudicates. Risk of bias: AXIS (primary/prevalence outcome), QUADAS-2 (secondary/diagnostic outcome). GRADE for certainty. Meta-analysis: OpenMeta[Analyst] v10, DerSimonian-Laird random effects. Publication bias: Egger's test + funnel plot.
+
+Two outcomes:
+- Primary (PICO): prevalence of non-carious TSR on deciduous/permanent molars.
+- Secondary (PICO): proportion of false-positive diagnoses (TSR/Mach band misread as caries or fracture).
+
+=== STUDY SELECTION ===
+640 records → 589 after dedup → 9 full-text → 5 included (2 primary outcome, 3 secondary). 5 studies published 2001–2021.
+Primary outcome studies (TSR prevalence, bitewing): Kühnisch 2008 (Germany, 113 children 11–12y, 445 surfaces), Khayam 2013 (Iran, 144 adults 18–24y, 576 molars/288 bitewings).
+Secondary outcome studies (false positives): Nielsen 2001 (USA, 73 participants, Mach band as fracture, 26.0% FP), Movahhedian 2016 (Iran, in vitro, 94 observers×3 teeth, TSR as caries, 12.8% FP), Tabari 2021 (Iran, in vivo, 109 teeth pediatric, TSR as caries, 4.6% FP).
+
+=== META-ANALYSIS RESULTS ===
+PRIMARY — TSR prevalence on maxillary molars:
+- Raw pooled: 270/1021 = 26.44%.
+- Random-effects pooled proportion: 0.308 (95% CI 0.129–0.487), I² ≈ 98.1%, p<0.001.
+- Subgroups: PERMANENT molars 0.199 (95% CI 0.036–0.363; 158/802; I²=97.5%); PRIMARY molars 0.477 (95% CI 0.225–0.728; 112/223; I²=92.1%).
+- By tooth type: second primary molar >60% (60.3%), primary first molar 34.6%, permanent first molar 24.8–29.5%, permanent second molar 5.9%.
+- Pooled by group: primary molars 51.1% vs permanent 27.4% — TSR much more prevalent in DECIDUOUS dentition (pediatric risk).
+
+SECONDARY — false positives from optical effects:
+- 60/464 = 12.93%; pooled 0.133 (95% CI 0.041–0.225), I²=89.5%, p=0.004.
+- Range across studies: 4.6% (Tabari, TSR/in vivo) to 26.0% (Nielsen, Mach band as fracture/simulated).
+
+Publication bias: Egger's test intercept −6.91, p=0.5677 → no significant asymmetry (but low power, few studies).
+GRADE: primary outcome LOW; secondary outcome VERY LOW certainty (observational, high inconsistency I²>90%, indirectness, imprecision).
+
+=== MITIGATION / CLINICAL ===
+- MASKING TEST: opaque card over enamel margin — radiolucency disappears → Mach band (false positive); persists → true demineralization.
+- Digital software / contrast adjustment (e.g., Qaramaleki et al.): analyzes grey-level variation within radiolucent area — varying grey → possible caries; uniform → Mach band illusion.
+- Beam angle / centering, digital post-processing, and (future) AI-assisted tools.
+- Clinical impact: ~13% false positives risk unnecessary restorative/endodontic/extraction treatment; over-two-thirds overestimation reported in one example; pediatric primary molars especially at risk. Radiography should support, not confound, clinical diagnosis.
+
+=== LIMITATIONS ===
+Only 5 studies; high heterogeneity (I²>90%); GRADE low–very low. Many studies used extracted teeth / lab / student observers, not real patients; no standardized TSR/Mach-band criteria; radiographic (not histological/clinical) reference in several. Need prospective, multicenter, standardized studies + observer training + AI.
+
+=== CONCLUSION ===
+Radiographic optical effects (TSR, Mach band, cervical burnout) have ~26% prevalence in bitewing radiographs (TSR mostly mesial maxillary molars), and cause ~13% false-positive caries/fracture diagnoses. Given low certainty, clinicians should combine radiographs with thorough clinical exam. TSR notably more prevalent in primary dentition (pediatric).

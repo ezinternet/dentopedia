@@ -9,8 +9,21 @@ pdf_filename: ragucci-2020-immediate-implant-molar-extraction-sockets.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Systematic review + meta-analysis of immediate implant placement in molar extraction sockets. Pooled survival rates are comparable to delayed placement when primary stability and septum-driven positioning are achieved.
+## Three-line Summary
+
+Systematic review + meta-analysis of immediate implant placement in
+
+molar extraction sockets. Pooled survival rates are comparable to
+
+delayed placement when primary stability and septum-driven positioning are achieved.
+
+## 세줄요약
+
+체계적 고찰 (Systematic Review, SR) + 메타분석 (Meta-analysis, MA) of immediate 임플란트 (Implant) placement in
+
+molar extraction sockets. Pooled 생존율 (Survival rate)s are comparable to
+
+delayed placement when primary stability and septum-driven positioning are achieved.
 
 ## 1. Document Information
 - **Title:** Immediate implant placement in molar extraction sockets: a systematic review and meta-analysis
@@ -32,9 +45,9 @@ Pooled implant survival ~97–98%, comparable to delayed protocols. Heterogeneit
 Heterogeneity in implant systems and surgical protocols. Limited long-term (>5 yr) data.
 
 ## 6. Related Work
-- [[immediate-implant/smith-2013-classification-molar-extraction-immediate-implant]]
-- [[immediate-implant/pavlovic-2022-interradicular-septum-morphology-molar-iip]]
-- [[immediate-implant/milenkovic-2022-interradicular-septum-classification-iip]]
+- [[immediate-implant/molar-septum/smith-2013-classification-molar-extraction-immediate-implant]]
+- [[immediate-implant/molar-septum/pavlovic-2022-interradicular-septum-morphology-molar-iip]]
+- [[immediate-implant/molar-septum/milenkovic-2022-interradicular-septum-classification-iip]]
 - [[immediate-implant/deporter-2021-cbct-immediate-maxillary-molar-implant-planning]]
 
 ## 7. Glossary

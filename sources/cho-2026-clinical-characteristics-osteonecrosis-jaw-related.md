@@ -13,13 +13,21 @@ source_collection: external
 
 직전 세션의 MRONJ 임상 Q&A에서 "Prolia vs Xgeva MRONJ 치료 예후 차이"를 Jung 2022(n=98 Prolia-only)와 Yokoo 2025(n=324 Xgeva-only 암환자)로만 간접 비교해야 했음. Cho 2026은 같은 기관(KNUDH)에서 Prolia(G1), BP→Prolia 전환(G2), Xgeva(G3)를 직접 비교(n=178)하여 치료 성공률 차이를 통계적으로 확인한 최초의 3군 비교 한국 코호트. [[drug/mronj/jung-2022-denosumab-mronj-osteoporosis-5year]]를 직접 확장하고 [[drug/mronj/yokoo-2025-denosumab-mronj-breast-cancer-bone]]의 고용량 DRONJ 예후불량 소견을 골다공증 맥락에서 재확인.
 
-## One-line Summary
+## Three-line Summary
 
-Single-institution 5-year retrospective cohort (n=178 DRONJ patients, KNUDH) showing Xgeva 120mg had significantly worse treatment success (53.8%) vs Prolia 60mg (85.0%) or BP-to-Prolia switch (82.8%), with Dmab dose as the only significant predictor (OR 5.13).
+Single-institution 5-year retrospective cohort (n=178 DRONJ patients, KNUDH Korea) comparing Prolia 60mg (G1, n=60), BP-to-Prolia switch (G2, n=105), and Xgeva 120mg (G3, n=13) using 2022 AAOMS staging criteria; surgical treatment in 82% of cases.
 
-## 한줄요약
+Xgeva 120mg had significantly worse treatment success (53.8%) vs Prolia 60mg (85.0%) or BP-to-Prolia switch (82.8%; overall p=0.027), and Dmab dose was the only significant independent predictor in multivariate analysis (OR 5.13, 95% CI 1.19–22.14, p=0.028); BP→Prolia switch accelerated DRONJ onset (16.0 vs 23.2 months, p<0.001) without worsening prognosis.
 
-경북대학교치과병원 5년 후향적 코호트(n=178 DRONJ) — Xgeva 치료 성공률 53.8% vs Prolia 85.0%(p=0.027), 고용량 Dmab만이 치료 실패의 유일한 독립 예측인자(OR 5.13), BP→Prolia 전환군은 발생 시점 앞당기되 예후 차이 없음.
+Clinicians should anticipate substantially worse treatment outcomes (roughly half the success rate) for DRONJ arising under high-dose Xgeva vs osteoporosis-dose Prolia; peri-implantitis was the trigger in 12.4% of cases, making implant planning in antiresorptive-exposed patients a critical risk decision.
+
+## 세줄요약
+
+경북대학교치과병원 5년 후향적 코호트 (n=178 DRONJ 환자) — Prolia 60mg(G1, n=60), BP→Prolia 전환(G2, n=105), Xgeva 120mg(G3, n=13) 3군 비교; 82%에서 수술적 치료.
+
+Xgeva 120mg 군의 치료 성공률 53.8% — Prolia 60mg(85.0%) 및 BP→Prolia 전환(82.8%)보다 유의하게 낮음(전체 p=0.027); 다변량 분석에서 Dmab 용량만이 유일한 독립 예측인자(OR 5.13, p=0.028); BP→Prolia 전환군은 DRONJ 발병 시점을 앞당기나(16.0 vs 23.2개월, p<0.001) 예후 차이는 없음.
+
+고용량 Xgeva (데노수맙, Denosumab) 투여 환자에서 DRONJ 발생 시 치료 성공률이 골다공증 용량 Prolia 대비 약 절반 수준으로 저하되므로 임상에서 각별한 주의가 필요; 임플란트 주위염(Peri-implantitis)이 전체의 12.4%에서 DRONJ 유발 인자로 확인되어 항흡수제 노출 환자의 임플란트 계획 시 위험 평가가 중요함.
 
 ## 1. Document Information
 

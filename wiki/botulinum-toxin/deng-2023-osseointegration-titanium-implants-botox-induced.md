@@ -6,7 +6,7 @@ date: 2023-02-25
 doi: 10.3390/biomimetics8010093
 journal: Biomimetics 2023;8(1):93
 source: deng-2023-osseointegration-titanium-implants-botox-induced.md
-confidence: animal
+evidence_level: animal
 category: botulinum-toxin
 pdf_path: /Users/oracleneo/llm-wiki/papers/deng-2023-osseointegration-titanium-implants-botox-induced.pdf
 pdf_filename: deng-2023-osseointegration-titanium-implants-botox-induced.pdf
@@ -14,11 +14,19 @@ source_collection: external
 tags: [BoNT-A, animal, rat, osseointegration, BIC, SLAnano, semaphorin-3A, bone-loss, click-hydrogel, mechanical-unloading]
 ---
 
-## One-line Summary
-Rat femur animal study (botox-induced muscle-paralysis/mechanical-unloading model) showing botox degrades trabecular and cortical bone and impairs osseointegration of smooth (PT) titanium implants (removal torque ↓56% in rough Ti), while biomimetic SLAnano surfaces preserve BIC and local semaphorin 3A (sema3A) hydrogel further enhances BIC for SLAnano (no effect on smooth implants).
+## Three-line Summary
+Rat femur animal study (n=6 groups, BTX-induced hindlimb paralysis/mechanical-unloading model) comparing smooth (PT) vs biomimetic (SLAnano) titanium implants with and without local semaphorin 3A (sema3A) hydrogel delivery.
 
-## 한줄요약
-Rat femur 동물실험 — botox 유발 근마비는 trabecular/cortical bone 모두 손상시키고 smooth (PT) 임플란트 osseointegration을 망가뜨리나, biomimetic SLAnano 표면 + 국소 sema3A hydrogel은 BIC 회복.
+BTX degraded trabecular and cortical bone and impaired osseointegration of smooth PT implants (removal torque ↓56%); SLAnano surfaces preserved BIC under unloading, and sema3A in click-hydrogel further enhanced BIC for SLAnano implants only — no effect on smooth surfaces.
+
+Clinical implication: in patients with prolonged BTX masseter/temporalis use, biomimetic (SLA/SLAnano) implant surfaces are mechanistically preferable over smooth machined surfaces, as surface roughness — not biologic supplementation alone — rescues osseointegration under mechanical unloading.
+
+## 세줄요약
+Rat femur 6군 동물실험 — BTX 유발 근마비 모델(기계적 언로딩)에서 smooth(PT) vs biomimetic(SLAnano) 티타늄 임플란트와 세마포린 3A(sema3A) 하이드로겔 국소 투여를 비교.
+
+BTX는 해면골·피질골을 모두 손상시키고 smooth 임플란트의 osseointegration을 망가뜨렸으며(제거토크 ↓56%); SLAnano 표면은 언로딩 하에서도 BIC를 유지했고, sema3A 추가 시 SLAnano 군에서만 BIC가 더 상승(smooth 군엔 효과 없음).
+
+임상 의미: 장기간 BTX 교근·측두근 주사 환자에서 임플란트 식립 시 biomimetic 표면(SLA 계열)을 우선 선택하는 것이 기전적으로 타당하며, 표면 거칠기가 생물학적 보조제보다 더 결정적인 요인임.
 
 ## Summary
 This VCU animal study used a rat botox-paralysis model (botulinum toxin A injection into hindlimb) as an analogue of mechanically unloaded bone, then placed customized titanium implants in the distal femur with either smooth (PT) or biomimetic multiscale (SLAnano) surfaces, with or without local semaphorin 3A (sema3A) delivered in a Cu-free click hydrogel. Botox dramatically reduced trabecular and cortical bone (BV/TV, thickness, porosity) and impaired osseointegration. Biomimetic SLAnano surfaces preserved BIC under mechanical unloading; adding sema3A via hydrogel further enhanced BIC for SLAnano implants but had no effect on smooth implants. Mechanical strength of bone integrated with rough implants dropped 56% under botox, regardless of sema3A.

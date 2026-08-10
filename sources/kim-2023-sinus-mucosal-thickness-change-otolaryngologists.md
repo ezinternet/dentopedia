@@ -17,13 +17,21 @@ text_filename: kim-2023-sinus-mucosal-thickness-change-otolaryngologists.txt
 
 ENT-dental 협진 프로토콜에서 술전 상악동점막두께 (MSMT)가 임플란트 시술 후 악화되는지를 종단적으로 확인하기 위해 인제스트. 기존 [[sinus-lift/lateral/lee-2020-msmt-mod-ratio-sinus-augmentation-risk]]의 MSMT/MOD 비율 위험지표 제안을 보강하며, 술후 MSMT가 유의하게 변하지 않음을 실증한 후속 데이터를 제공한다.
 
-## One-line Summary
+## Three-line Summary
 
 Retrospective study (n=9) of ENT-screened patients with preoperative maxillary sinus mucosal thickening found no significant MSMT change post-implantation across sinus augmentation, bone grafting, and no-grafting groups (p > 0.05).
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 이비인후과 의뢰 후 술전 상악동점막비후 환자 9명을 후향 분석한 결과, 상악동 거상·골이식·무이식 세 군 모두에서 술후 MSMT가 유의하게 변하지 않았다 (p > 0.05).
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

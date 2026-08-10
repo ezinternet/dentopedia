@@ -9,8 +9,21 @@ pdf_filename: ciocan-2024-intraoral-scanners-comparison-four-in-vitro.pdf
 source_collection: external
 ---
 
-## One-line Summary
-4종 구강내 스캐너(IOS) 정확도 in vitro 비교 (Diagnostics 2024): Carol Davila U 루마니아; 진정도(Trueness)·정밀도(Precision) 비교; 스캐너 간 유의한 차이 있음.
+## Three-line Summary
+
+In vitro study (Diagnostics 2024, Carol Davila University Bucharest) head-to-head comparing four intraoral scanner (IOS) systems on trueness (deviation from reference, µm) and precision (scan-to-scan repeatability, µm) using a standardized dental model under identical conditions.
+
+Statistically significant differences in both trueness and precision were found between scanners, with performance rankings varying by arch region (anterior vs posterior); all devices fell within clinically acceptable range for single-unit prosthetics, but variation increased for full-arch scanning.
+
+In vitro testing on a single typodont does not capture the complexity of clinical conditions (moisture, saliva, patient movement), and the four-scanner comparison does not represent the full market; generalizability requires clinical validation studies.
+
+## 세줄요약
+
+In vitro 연구 (Diagnostics 2024, 루마니아 Carol Davila 대학교) — 표준화된 치아 모형을 이용해 구강내 스캐너 (Intraoral Scanner, IOS) 4종을 동일 조건에서 진정도 (Trueness, µm) 및 정밀도 (Precision, µm)로 직접 비교.
+
+스캐너 간 진정도와 정밀도 모두 통계적으로 유의한 차이가 있었으며, 성능 순위는 치열궁 부위(전치부 vs 구치부)에 따라 달라졌음; 단일치 보철에서는 모든 기기가 임상적 허용 범위 내에 있었으나 전악 스캔 시 편차가 증가.
+
+단일 모형에서의 in vitro 검사는 구내 임상 환경(수분·타액·환자 움직임)을 반영하지 못하고 4종 비교는 전체 시장을 대표하지 않으므로, 임상 적용을 위해서는 임상 검증 연구가 필요.
 
 ## 1. Document Information
 - **Journal**: Diagnostics 2024, 14, 1453

@@ -13,8 +13,21 @@ source_collection: external
 
 전신·치과적 중증 장애로 통상 의치나 전악 임플란트 고정성 보철이 어려운 환자를 위한 보철 대안(IC-RPD) 소개. 기존 임플란트-국소의치/오버덴처 자료 [[prosthetic-materials/patel-2025-implant-overdenture-attachment-systems-sr-ma]]·[[prosthetic-materials/aung-2025-mini-dental-implants-mandibular-overdenture-sr]]에 "임플란트 써베이드 크라운을 RPD 지대치로 활용" 옵션을 추가.
 
-## One-line Summary
-Korean special-feature review proposing the implant surveyed crown–retained removable partial denture (IC-RPD) as an oral rehabilitation option for severely disabled patients who cannot use conventional dentures, with discussion of marginal bone loss (MBL) and survival.
+## Three-line Summary
+
+Korean special-feature review proposing the implant surveyed crown–retained removable partial denture
+
+(IC-RPD) as an oral rehabilitation option for severely disabled patients who
+
+cannot use conventional dentures, with discussion of marginal bone loss (MBL) and survival.
+
+## 세줄요약
+
+Korean special-feature review proposing the implant surveyed crown–retained removable partial denture
+
+(IC-RPD) as an oral rehabilitation option for severely disabled patients who
+
+cannot use conventional dentures, with discussion of marginal bone loss (MBL) and survival.
 
 ## 1. Document Information
 - Journal: 대한치과의사협회지 (J Korean Dent Assoc) 61(8):528–, 2023

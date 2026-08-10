@@ -6,7 +6,7 @@ date: 2026-06-27
 doi: N/A
 source: N/A
 category: overviews
-confidence: synthesis
+evidence_level: synthesis
 pdf_path: N/A
 pdf_filename: N/A
 source_collection: synthesis
@@ -14,7 +14,7 @@ tags: [black-stain, EBS, caries, actinomyces, iron-sulfide, microbiome, gut-micr
 relations:
   - type: extends
     target: zyla-2015-black-stain-dental-caries-review
-  - type: reinforces
+  - type: extends
     target: mousa-2022-black-stain-caries-children-sr-ma
 ---
 
@@ -33,13 +33,21 @@ relations:
 > - **임상 takeaway**: BS는 **제거 대상 병변이 아니라 낮은 우식위험의 표지**. 보호자에게 안심시키고, 심미 목적의 스케일링 외 공격적 처치는 피하며, BS 아동이라도 식이·불소 예방의 끈은 놓지 말 것(역상관 ≠ 면역).
 > - **확신도**: 역상관(축 4)·착색 기전(축 2)은 근거 강함(SR+MA + 다수 일치); 미생물 정체(축 3)·인과 방향은 미결(이질성·NGS vs 배양 불일치).
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis of 6 papers (2 narrative reviews, 3 microbiome/cross-sectional studies, 1 SR+MA) on dental black stain (BS): an extrinsic ferric-sulfide cervical pigmentation (bacterial H₂S + salivary Fe³⁺ → FeS) that is consistently and inversely associated with caries (pooled OR 0.67, 95% CI 0.54–0.82; Mousa 2022), driven by a low-cariogenic biofilm and protective salivary chemistry (↑Ca/phosphate, ↑pH, ↑buffering). The classic Actinomyces-dominance narrative holds in primary dentition (Li 2015) and large pediatric epidemiology (Zheng 2023, n=2,675, EBS 12.10%) but is challenged in adult permanent dentition by NGS showing Capnocytophaga/Neisseria/Corynebacterium dominance (Çelik 2021). Causality (direct protection vs constitutional confounding) is unresolved; a novel gut-microbiome signature (Lactobacillus in EBS+ caries-free children) hints at a systemic component. Clinically, BS is a benign marker of low caries risk, not a lesion to aggressively remove — first-line treatment is repeated ultrasonic scaling, with caution against enamel wear.
+Synthesis of 6 papers (2 narrative reviews, 3 microbiome/cross-sectional studies, 1 SR+MA) on dental black stain (BS): an extrinsic ferric-sulfide cervical pigmentation (bacterial H₂S + salivary Fe³⁺ → FeS) that is consistently and inversely associated with caries across primary and permanent dentition, with prevalence 2.4–20%.
 
-## 한줄요약
+Pooled OR for caries is 0.67 (95% CI 0.54–0.82; Mousa 2022 SR+MA, 14 studies); the classic Actinomyces-dominance narrative holds in primary dentition (Li 2015, Zheng 2023 n=2,675) but NGS in adults shows Capnocytophaga/Neisseria/Corynebacterium dominance (Çelik 2021), and a gut-microbiome Lactobacillus signature has been identified in EBS+ caries-free preschoolers.
 
-치아 흑색착색(Black Stain, BS) 6편 종합. BS는 세균 H₂S + 타액 Fe³⁺ → 황화철(FeS) 외인성 치경부 착색이며 우식과 일관된 역상관(SR+MA OR 0.67). ①착색기전 = Fe/S 화학 + 식이 chromogen. ②우식역상관 = OR 0.67·우식치 −0.98개(Mousa), 성인·취학전 모두 재확인. ③미생물 = 소아는 Actinomyces 우점이나 성인 영구치 NGS는 Capnocytophaga/Neisseria 우점(Çelik) — "Actinomyces 단독" 흔들림. ④타액 = Ca·완충능·pH↑로 탈회 억제. ⑤인과 = 직접보호 vs 체질교란 미결. ⑥장축 = EBS+ 아동 장내 Lactobacillus 신규. 임상: 병변 아닌 저우식위험 표지 — 과도 제거 금물, 예방은 유지.
+Clinically, BS is a benign marker of low caries risk rather than a lesion requiring aggressive removal; causality (direct biofilm protection vs constitutional confounding) is unresolved; first-line treatment is repeated ultrasonic scaling with caution against enamel wear.
+
+## 세줄요약
+
+치아 흑색착색 (Black Stain, BS) 6편 종합: BS는 세균 황화수소(H₂S) + 타액 철이온(Fe³⁺) → 황화철(FeS) 침착이며 우식과 일관된 역상관 — SR+MA (Mousa 2022, 14편) 에서 우식 교차비(OR) 0.67 (95% CI 0.54–0.82), 우식치 −0.98개, 성인·취학전 아동 모두 재확인.
+
+미생물 정체는 이질적: 소아 유치에서는 Actinomyces 우점(Li 2015, Zheng 2023)이나 성인 영구치 NGS에서는 Capnocytophaga/Neisseria/Corynebacterium 우점(Çelik 2021) — "Actinomyces 단독" 서사가 흔들림; 인과 방향(직접 보호 vs 저우식 체질 교란)은 관찰연구로 미결; EBS+ 무우식 아동에서 장내 Lactobacillus 바이오마커가 신규 보고(Zheng 2023)되어 전신 성분 가능성 시사.
+
+임상 결론: BS는 제거 대상 병변이 아닌 저우식위험의 표지 — 과도한 기계적 제거는 법랑질 마모 위험이 있고 1차 치료는 반복 초음파 스케일링이며, BS 아동이라도 불소·식이 예방은 유지(역상관 ≠ 면역).
 
 ## Summary
 

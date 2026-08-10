@@ -1,0 +1,49 @@
+{
+  "overview": "reis-2024-biomimetic-restorative-myths-narrative",
+  "date": "2026-07-23",
+  "title": "생체모방 수복치의학 신화 비판 — 리콜",
+  "source_wiki": [
+    "wiki/overviews/reis-2024-biomimetic-restorative-myths-narrative.md"
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "q": "생체모방 수복치의학(BRD) 9개 프로토콜에 대한 Reis 2024의 종합 판정은?",
+      "opts": [
+        "9개 모두 강한 임상 근거로 지지",
+        "9개 중 깊은 변연 거상(DME, #7)만 임상 근거 있고, 나머지는 표준 접착치의학 대비 우월성의 고수준(RCT/SR) 근거 부족",
+        "9개 모두 근거 없음",
+        "즉시 상아질 봉쇄(IDS)만 지지됨"
+      ],
+      "ans": 1,
+      "rat": "Reis/Loguercio 그룹 비판적 narrative 리뷰: 9개 프로토콜 중 깊은 변연 거상(DME, #7)만 임상 근거 있음(치은연하 변연의 유효한 대안). 나머지는 표준 접착치의학 대비 우월성의 고수준 근거 부족 — protocol-by-protocol 판정(PubMed/Embase/Cochrane, RCT·SR 중심).",
+      "cite": "overviews/reis-2024-biomimetic-restorative-myths-narrative"
+    },
+    {
+      "id": "q2",
+      "q": "in vitro 지지는 있으나 임상적으로 의심받는 두 프로토콜은?",
+      "opts": [
+        "DME와 알루미나 air abrasion",
+        "클로르헥시딘(CHX) MMP 억제(#4)와 즉시 상아질 봉쇄(IDS, #6) — 실험실 데이터는 지지하나 수명 개선의 임상 근거 없음/지연 봉쇄와 유사",
+        "우식 탐지 염색과 후방부 법랑질 bevel",
+        "fiber inserts와 decoupling"
+      ],
+      "ans": 1,
+      "rat": "미해결(in vitro 지지 있으나 임상 의심): #4 CHX MMP 억제 — 실험실 데이터는 MMP 억제·혼성층 안정성 지지하나 수명 개선의 임상 근거 없음; #6 IDS — in vitro 결합강도 우수(Hardan 2022)하나 임상적으로 술후 민감도·수명이 지연 봉쇄(DDS)와 유사. 도전받는 것: 우식 탐지 염색·air abrasion·후방부 bevel·decoupling·fiber inserts.",
+      "cite": "overviews/reis-2024-biomimetic-restorative-myths-narrative"
+    },
+    {
+      "id": "q3",
+      "q": "이 리뷰가 BRD 진영의 강한 버전(steelman)에 대해 인정하는 것은?",
+      "opts": [
+        "BRD 프레임워크 전체가 무의미하다",
+        "기저 패러다임(결합강도·변연밀폐·치수생활력·중합응력 감소 통합)은 타당하고 현대 접착치의학과 정렬 — 분쟁은 '특정 프로토콜 주장'이지 '프레임워크'가 아님",
+        "모든 BRD 프로토콜이 옳다",
+        "DME도 근거 없다"
+      ],
+      "ans": 1,
+      "rat": "steelman: 전통 수복의 높은 실패율, 결합강도·변연밀폐·치수생활력·중합응력 감소를 통합하는 패러다임 자체는 타당 — 저자들도 DME 인정하고 기저 패러다임이 현대 접착치의학과 정렬됨을 인정. 분쟁은 '특정 프로토콜 주장'이지 '프레임워크'가 아님. 도입 동인으로 인지편향(신규성·권위) 지목(Alleman·Magne 등 비판 대상 명시).",
+      "cite": "overviews/reis-2024-biomimetic-restorative-myths-narrative"
+    }
+  ]
+}

@@ -6,18 +6,28 @@ date: 2024-04-23
 doi: 10.4103/jips.jips_18_24
 source: tayari-2024-implant-supported-overdenture-failures-sr.md
 category: [complete-denture]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/tayari-2024-implant-supported-overdenture-failures-sr.pdf
 pdf_filename: tayari-2024-implant-supported-overdenture-failures-sr.pdf
 source_collection: external
 tags: [implant-overdenture, risk-factors, failure-rate, attachment-systems, loading-protocol]
 ---
 
-## One-line Summary
-PRISMA systematic review of 20 studies (2018–2023) identifying risk factors for implant-supported overdenture failures: maxillary arch, fewer implants, immediate loading, poor systemic health, and absence of metal-reinforced prosthesis design each independently elevate failure rates.
+## Three-line Summary
 
-## 한줄요약
-PRISMA 체계적 문헌고찰 (20편, 2018–2023): 임플란트 지지 피개의치 실패 위험인자 — 상악 악궁, 임플란트 수 부족, 즉시 부하, 불량 전신 상태, 금속 보강 없는 의치 기저부 설계가 각각 독립적으로 실패율을 높인다.
+PRISMA systematic review of 20 studies (PubMed/Cochrane/LILACS, 2018–2023; 13 RCTs, 1 prospective CT, 5 observational) identifying risk factors for implant-supported overdenture (IOD) failures across implant and prosthetic failure categories.
+
+Key risk factors: maxillary arch (higher implant failure ~5% vs mandibular ~3.3%), fewer than 2 mandibular / 4 maxillary implants, immediate loading (all failures in one trial within 12 weeks), poor systemic health (diabetes/smoking/bisphosphonates), locator attachment (higher peri-implantitis), and absence of metal framework reinforcement (prosthetic fracture up to 60–70% without it).
+
+Mandibular 2-implant IOD remains the robust standard of care; maxillary IOD requires ≥4 implants + metal-reinforced framework + total palatal coverage to reduce failure, and immediate loading should be avoided in compromised hosts.
+
+## 세줄요약
+
+PRISMA 체계적 고찰 (20편, 2018–2023) — 임플란트 피개의치(IOD)의 임플란트 실패와 보철 실패 위험인자를 환자·악궁·임플란트 수·부하 프로토콜·어태치먼트·의치 설계 등 다영역으로 분류.
+
+주요 위험인자: 상악 악궁(실패율 ~5% vs 하악 ~3.3%), 임플란트 수 부족(하악<2개/상악<4개), 즉시 부하(1 연구에서 모든 실패가 12주 내 발생), 불량 전신 상태(당뇨·흡연·비스포스포네이트), 로케이터 어태치먼트(주위염↑), 금속 보강 없는 의치 설계(보철 파절 60–70%).
+
+하악 2임플란트 IOD는 강력한 표준; 상악 IOD는 4개 이상 임플란트 + 금속 보강 기저부 + 전부 구개 피개가 핵심 실패 방지 요소이며, 전신 불량 환자의 즉시 부하는 피해야 함.
 
 ## Summary
 This PRISMA-compliant systematic review (Journal of Indian Prosthodontic Society, 2024) by Tayari et al. from the University of Monastir synthesizes evidence on variables associated with failure of implant-supported overdentures (IODs). Searching MEDLINE/PubMed, Cochrane, and LILACS for studies published between 2018 and 2023, the authors retained 20 articles — 13 RCTs, 1 prospective clinical trial, 3 prospective cohorts, 2 retrospective studies, and 1 cross-sectional study. Risk of bias was assessed using the Cochrane Collaboration tool.

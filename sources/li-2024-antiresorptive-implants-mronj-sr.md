@@ -9,8 +9,21 @@ pdf_filename: li-2024-antiresorptive-implants-mronj-sr.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Systematic review (8 studies, 445 implants, 135 subjects): 23% implant failure rate after antiresorptive drug initiation post-osseointegration; 83% of failures caused by MRONJ; mean latency 34 months; mandibular posterior most common site.
+## Three-line Summary
+
+Systematic review (8 studies, 445 implants, 135 subjects): 23% implant failure rate after antiresorptive drug initiation post-osseointegration
+
+83% of failures caused by MRONJ
+
+mean latency 34 months; mandibular posterior most common site.
+
+## 세줄요약
+
+체계적 고찰 (Systematic Review, SR) (8 studies, 445 임플란트 (Implant)s, 135 subjects): 23% 임플란트 (Implant) failure rate after antiresorptive drug initiation post-골일체화 (Osseointegration)
+
+83% of failures caused by MRONJ
+
+mean latency 34 months; mandibular posterior most common site.
 
 ## 1. Document Information
 - **Journal**: Journal of Clinical Medicine 2024, 13, 2091

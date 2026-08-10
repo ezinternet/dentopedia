@@ -13,11 +13,21 @@ source_collection: external
 
 Most high-quality ARP evidence comes from anterior/intact sockets; whether ARP helps at periodontally compromised MOLAR sockets (severe stage III/IV periodontitis, multi-wall infrabony defects) is the open question this protocol targets — it extends the scope-of-ARP debate in [[bone-regeneration/ridge-preservation/mardas-2023-alveolar-ridge-preservation-overtreatment]] (when is ARP overtreatment?) and complements the posterior-only RCT [[bone-regeneration/ridge-preservation/arroteia-2025-alveolar-ridge-preservation-posterior-rct]] by adding a severe-periodontitis molar indication with histology and 3D soft-tissue endpoints. Ingested as the registered design (ChiCTR2200056335); a protocol with planned methodology only — no outcomes reported yet.
 
-## One-line Summary
-Study protocol (BMC Oral Health 2022): 2-arm parallel RCT design (n=70 molar sites), ARP vs natural healing at severe-periodontitis (stage III/IV) molar extraction sockets; primary outcomes = CBCT vertical/horizontal ridge change, 3D soft-tissue contour & mucosa thickness, histology, periodontal parameters — no results yet.
+## Three-line Summary
 
-## 한줄요약
-연구 프로토콜(BMC Oral Health 2022): 중증 치주염(stage III/IV) 대구치 발치와에서 치조제보존(ARP) vs 자연치유를 비교하는 2군 평행 RCT 설계(n=70 발치 부위); 1차 결과 = CBCT 수직·수평 변화, 3D 연조직 윤곽·점막 두께, 조직학, 치주 지표 — 아직 결과 없음.
+Study protocol (BMC Oral Health 2022): 2-arm parallel RCT design (n=70 molar sites), ARP vs natural healing at severe-periodontitis (stage III/IV) molar extraction sockets;
+
+primary outcomes = CBCT vertical/horizontal ridge change, 3D soft-tissue contour & mucosa thickness, histology, periodontal parameters — no results yet.
+
+(incomplete)
+
+## 세줄요약
+
+연구 프로토콜(BMC Oral Health 2022): 중증 치주염(stage III/IV) 대구치 발치와에서 치조제보존(ARP) vs 자연치유를 비교하는 2군 평행 RCT 설계(n=70 발치 부위);
+
+1차 결과 = CBCT 수직·수평 변화, 3D 연조직 윤곽·점막 두께, 조직학, 치주 지표 — 아직 결과 없음.
+
+(incomplete)
 
 ## 1. Document Information
 - **Type**: Study protocol (RCT protocol — no results yet), SPIRIT-compliant

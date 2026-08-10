@@ -6,7 +6,7 @@ date: 2011-08-01
 doi: 10.1177/0022034510391799
 source: liu-2011-limitations-bonding-dentin-bond-degradation-review.md
 category: [resin-bonding]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: false
 pmid: "21220360"
@@ -22,13 +22,21 @@ relations:
     target: zhou-2025-collagen-crosslinkers-naocl-dentin-bond-strength-sr-ma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review (Liu et al. 2011, J Dent Res; abstract-only retrieved) framing resin-dentin bond degradation as hydrolysis of suboptimally polymerized hydrophilic resin plus MMP/cysteine-cathepsin collagenolysis of the water-rich, resin-sparse hybrid layer, and synthesizing five experimental strategies to extend bond longevity.
+Narrative review (J Dent Res 2011; abstract-only retrieved; Liu, Tjäderhane, Breschi, Mazzoni et al.) synthesizing the literature on resin-dentin bond degradation mechanisms and five experimental counter-strategies to extend bond longevity.
 
-## 한줄요약
+Resin-dentin bond deterioration is driven by two coupled mechanisms: hydrolysis of suboptimally polymerized hydrophilic resin components and collagenolysis of the water-rich, resin-sparse hybrid layer by endogenous MMPs and cysteine cathepsins — with water as the central enabling agent; five experimental strategies are proposed (degree-of-conversion optimization, anti-MMP adhesive monomers, cross-linking agents, ethanol wet-bonding, biomimetic remineralization).
 
-서술적 리뷰(Liu 등 2011, J Dent Res; 초록만 확보): 레진-상아질 결합 열화를 친수성 레진의 가수분해 + 물이 많고 레진이 부족한 혼성층의 MMP·시스테인 카텝신 콜라겐 분해로 설명하고, 결합 수명 연장을 위한 5가지 실험 전략을 종합한다.
+No single strategy overcomes the dentin-bonding durability barrier; combining multiple approaches (e.g., CHX pretreatment + hydrophobic resin coat + high conversion) is the realistic route — a mechanistic rationale that underpins current adjunct clinical practices.
+
+## 세줄요약
+
+서술적 리뷰(J Dent Res 2011; 초록만 확보; Liu, Tjäderhane, Breschi, Mazzoni 등) — 레진-상아질 결합 열화 기전과 수명 연장을 위한 5가지 실험 전략을 종합.
+
+레진-상아질 결합 열화는 친수성 레진 성분의 가수분해와, 물이 많고 레진이 부족한 혼성층에서 내인성 MMP·시스테인 카텝신에 의한 콜라겐 분해라는 두 가지 연동 기전으로 발생하며 수분이 공통 매개체; 5가지 실험 전략(중합도 향상·항-MMP 단량체·교차결합제·에탄올 습윤접착·생체모방 재광화)을 제안.
+
+어떤 단일 전략도 상아질 접착 내구성 한계를 단독으로 극복하지 못하며, 복합 전략 조합(예: CHX 전처리 + 소수성 레진 코트 + 고중합도)이 현실적 방향이다 — 현 보조 임상 술식들의 기계론적 근거.
 
 ## Summary
 

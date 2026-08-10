@@ -1,0 +1,27 @@
+Title: Management of complex orthodontic cases using aligners: A comparative study
+Authors: Hamid Syed MA, Chappidi C, Mubashir Z, Shekhar V, Singareddy LP, Tiwari R, Tiwari HD
+Year: 2026
+Journal: Bioinformation 22(3):1429-1432
+PMID: 42145383
+PMCID: PMC13177106
+DOI: 10.6026/973206300221429
+
+ABSTRACT:
+Clear aligners are increasingly being used for complex malocclusions; however, adequate outcome data comparing them with fixed appliances in high-difficulty cases is still limited. This prospective comparative study compared occlusal outcomes, efficiency, and patient-reported experience between clear aligners and fixed appliances in complex orthodontic cases. Both modalities produced clinically significant occlusal correction; however, fixed appliances showed increased efficiency in extraction-heavy biomechanics while aligners showed increased initial patient-reported comfort and OHRQoL. Aligners may be useful in complex cases when biomechanics has been well-staged and compliance is high; fixed appliances remain beneficial for extraction space closure and root control.
+
+METHODS:
+Prospective comparative study, university-affiliated orthodontic clinic. Patients aged 16-35 years with complex malocclusion, defined as any two of: severe crowding (≥6mm at least one arch), premolar extraction plan, significant rotation/torque demands (≥15° rotation OR ≥8° planned incisor torque correction), deep/open bite requiring vertical control, clinically relevant asymmetry requiring staged mechanics. N=60 (n=30 per group). Self-selection not specified; groups allocated to aligner or fixed appliance. Aligner group: clear aligner therapy with attachments, elastics, and refinements permitted. Fixed group: preadjusted edgewise with conventional mechanics. Primary outcome: PAR score change T0 to completion. Secondary: treatment duration (months), clinical visits, refinements/finishing phases, OHIP-14 at 1 month and at completion. Statistics: independent t-test or Mann-Whitney; chi-square for categorical; p<0.05.
+
+KEY RESULTS:
+- Baseline comparability achieved (age, sex, PAR, complexity features, p>0.05)
+- Severe crowding: ~2/3 of patients; ~1/2 required premolar extractions
+- PAR reduction: substantial in both groups; no statistically significant between-group difference
+- Treatment duration: FA significantly shorter (p<0.05 — specific values not reported in extract)
+- Number of refinement/finishing stages: more with aligners
+- Clinical visit burden: lower with aligners
+- OHIP-14 at 1 month: significantly better (lower) in aligner group (p<0.05)
+- OHIP-14 at completion: no significant difference between groups
+- Aligners: superior short-term PRO/OHIP-14; inferior efficiency in extraction-heavy cases
+
+CONCLUSIONS:
+Both modalities achieve equivalent occlusal improvement in complex cases. Fixed appliances: shorter treatment duration, better efficiency for extraction mechanics and root control. Clear aligners: superior short-term patient-reported comfort (OHIP-14 at 1 month). Long-term QoL comparable. Aligner success in complex cases requires meticulous staging, well-designed auxiliaries, and high patient compliance.

@@ -15,15 +15,23 @@ text_filename: garcia-rios-2022-oral-manifestations-systemic-lupus-erythematosus
 
 ## Why Ingested
 
-Part of an autoimmune-dentistry batch building out the oral-medicine view of systemic autoimmune disease. Where [[wiki/implants/esimekara-2022-dental-implants-autoimmune-diseases-sr]] covers whether implants survive in autoimmune patients (SLE among them), this SR maps the *oral mucosal/soft-tissue burden* of SLE itself — oral ulcers (the most prevalent, and a classification criterion), hyposalivation, mucosal lesions, caries and periodontal disease — which is the diagnostic and risk context a clinician needs before considering any implant or restorative work in these patients. It also reinforces the oral-mucosal differential-diagnosis theme shared with [[wiki/oral-medicine/kaur-2022-oral-lichen-planus-malignant-disorder-appraisal]] (SLE oral lesions mimic lichen planus, pemphigus, syphilis).
+Part of an autoimmune-dentistry batch building out the oral-medicine view of systemic autoimmune disease. Where [[wiki/implants/esimekara-2022-dental-implants-autoimmune-diseases-sr]] covers whether implants survive in autoimmune patients (SLE among them), this SR maps the *oral mucosal/soft-tissue burden* of SLE itself — oral ulcers (the most prevalent, and a classification criterion), hyposalivation, mucosal lesions, caries and periodontal disease — which is the diagnostic and risk context a clinician needs before considering any implant or restorative work in these patients. It also reinforces the oral-mucosal differential-diagnosis theme shared with [[wiki/oral-medicine/opmd/kaur-2022-oral-lichen-planus-malignant-disorder-appraisal]] (SLE oral lesions mimic lichen planus, pemphigus, syphilis).
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (15 STROBE-appraised observational studies, PRISMA/PROSPERO CRD42021291356) finding oral ulcers the most prevalent oral manifestation of SLE (11 of 14 prevalence studies), most commonly on the hard palate, with hyposalivation, pigmentation, glossodynia, cheilitis and secondary Sjögren also frequent.
+Systematic review (15 observational studies, 2012–2022, STROBE-appraised, PROSPERO CRD42021291356) synthesizing oral manifestations of systemic lupus erythematosus across multiple geographic regions.
 
-## 한줄요약
+Oral ulcers are the most prevalent oral manifestation of SLE (present in 11 of 14 prevalence-reporting studies), primarily located on the hard palate; hyposalivation affects >75% of SLE patients and is worsened by disease activity; other manifestations include pigmentation, glossodynia, cheilitis, and secondary Sjögren syndrome.
 
-전신홍반루푸스(SLE) 환자의 구강 증상을 다룬 15편 관찰연구 체계적 고찰 — 구강궤양(oral ulcer)이 가장 흔한 증상(14편 중 11편)이며 경구개(hard palate)에 호발, 타액감소·색소침착·설통·구순염·이차 쇼그렌도 빈번. 구강궤양은 청소년기 발병 SLE에서 특히 흔하다.
+Oral ulceration and hyposalivation are particularly pronounced in juvenile-onset SLE compared to adult-onset, suggesting age-related disease mechanisms and informing surveillance of dental complications in this high-risk population.
+
+## 세줄요약
+
+전신홍반루푸스(SLE) 환자의 구강 증상을 다룬 체계적 고찰(관찰 연구 15편, 2012–2022, STROBE 평가, PROSPERO CRD42021291356).
+
+구강궤양(oral ulcer)이 가장 흔한 증상(14개 유병률 연구 중 11편)이며 경구개(hard palate)에 호발; 타액감소는 SLE 환자의 75% 초과에서 발생하며 질환 활동성으로 악화; 색소침착·설통·구순염·이차 쇼그렌증도 빈번.
+
+구강궤양·타액감소는 청소년기 발병 SLE에서 성인 발병보다 현저하며, 이 고위험군의 치과 합병증 감시 및 기전 이해에 임상적 시사 제공.
 
 ## 1. Document Information
 
@@ -77,7 +85,7 @@ Systematic review (15 STROBE-appraised observational studies, PRISMA/PROSPERO CR
 ## 6. Related Work
 
 - Sibling autoimmune-dentistry page on implant outcomes in autoimmune disease: [[wiki/implants/esimekara-2022-dental-implants-autoimmune-diseases-sr]].
-- Oral-mucosal potentially-malignant-disorder appraisal whose lesions enter the SLE differential: [[wiki/oral-medicine/kaur-2022-oral-lichen-planus-malignant-disorder-appraisal]].
+- Oral-mucosal potentially-malignant-disorder appraisal whose lesions enter the SLE differential: [[wiki/oral-medicine/opmd/kaur-2022-oral-lichen-planus-malignant-disorder-appraisal]].
 
 ## 7. Glossary
 

@@ -6,18 +6,29 @@ date: 2021-05-14
 doi: "10.4103/jomfp.JOMFP_232_20"
 source: worawongvasu-2021-nccl-sem-characterization.md
 category: nccl
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/worawongvasu-2021-nccl-sem-characterization.pdf
 pdf_filename: worawongvasu-2021-nccl-sem-characterization.pdf
 source_collection: external
 tags: [nccl, sem, abfraction, ultrastructure, microfracture]
+relations:
+  - type: contradicts
+    target: nascimento-2016-abfraction-etiology-diagnosis-treatment
 ---
 
-## One-line Summary
-SEM study of 10 extracted premolars with NCCLs: 4/10 showed microfracture features supporting abfraction, while all showed abrasion/erosion signatures, reinforcing multifactorial etiology.
+## Three-line Summary
+Ex vivo SEM study (JEOL JSM-6480 LV, x40–x20,000) of 10 extracted human premolars bearing NCCLs of varied morphology (concave, shallow, wedge-shaped, notched, irregular), one tooth per patient.
 
-## 한줄요약
-NCCL 소구치 10개 SEM 연구 — 4/10에서 abfraction 지지 microfracture, 전체에서 abrasion/erosion 흔적을 관찰해 다인성 병인을 뒷받침.
+4/10 lesions displayed fracture lines and fracture surfaces interpreted as abfraction-compatible ultrastructural evidence; the remaining 6 showed linear parallel scratches (abrasion) and exposed dentinal tubules with poorly fixed collagen fibers (erosion), supporting a multifactorial model.
+
+As a small descriptive study it cannot establish causation for the fracture findings, functioning as suggestive rather than definitive counter-evidence to reviews that classify abfraction as unproven.
+
+## 세줄요약
+NCCL을 가진 소구치 발치치 10개를 JEOL JSM-6480 LV SEM(x40–x20,000)으로 검사한 ex vivo 서술적 연구 — 환자당 치아 1개, 다양한 형태(오목형·쐐기형·불규칙형 포함).
+
+10개 중 4개에서 파절선·파절면 등 abfraction(교합 미세파절)에 부합하는 초미세구조 소견; 나머지 6개는 선형 긁힘(abrasion)과 상아세관 노출·불량고정 콜라겐섬유(erosion) 소견 — 다인성 병인 지지.
+
+소규모 서술 연구로 인과관계를 확립하기 어렵고, abfraction을 '미입증'으로 분류한 기존 문헌에 대한 방증 수준의 제안 근거로만 기능.
 
 ## Summary
 This ex vivo SEM study examined ten extracted human premolars (one per patient) bearing NCCLs of varied morphology (concave, shallow, wedge-shaped, notched, irregular). At low magnification all lesions appeared crescent-shaped, bounded above by enamel and below by cementum. Four of the ten lesions displayed fracture lines and fracture surfaces — ultrastructural features the author interprets as direct support for the abfraction (occlusal microfracture) theory. The remaining six showed parallel linear scratches (abrasion) and exposed dentinal tubules with a network of poorly fixed collagen fibers (erosion/biocorrosion). The study concludes that abrasion and erosion are consistent associated etiologic factors and that at least some lesions show findings compatible with abfraction, supporting a multifactorial model. As a small descriptive ex vivo study it cannot establish that occlusal stress caused the observed fractures, so it functions as suggestive counter-evidence to reviews (e.g., Nascimento 2016) that call abfraction unproven.

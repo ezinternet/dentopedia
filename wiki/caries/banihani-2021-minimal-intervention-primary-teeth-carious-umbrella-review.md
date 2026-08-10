@@ -6,7 +6,7 @@ date: 2021-11-16
 doi: 10.1007/s40368-021-00675-6
 source: banihani-2021-minimal-intervention-primary-teeth-carious-umbrella-review.md
 category: caries
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "34784027"
@@ -20,13 +20,21 @@ relations:
     target: garcia-miralles-2026-sdf-cavitated-primary-molars-sr
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Umbrella review of 18 systematic reviews (95 underlying studies) on minimal intervention dentistry (MID) for dentinal caries in primary teeth: 38% SDF, Hall Technique, selective caries removal, and single-surface ART effectively arrest dentinal caries vs no treatment/conventional restoration — while fissure sealants and resin infiltration are explicitly NOT recommended for dentinal lesions (their evidence is dominated by enamel/outer-third-dentine lesions).
+Umbrella review of 18 SRs (95 underlying studies) evaluating minimal intervention dentistry (MID) for dentinal caries (ICDAS 4–5) in primary teeth without local anaesthesia; 10/18 SRs were at high risk of bias (ROBIS).
 
-## 한줄요약
+38% SDF showed 53–91% biannual arrest; Hall Technique 3% vs 37% failure over controls (OR 8.35 in deep lesions); single-surface ART 86% success at 3 years; selective removal reduced pulp exposure risk by 69–77%.
 
-유치 상아질 우식 최소개입치료(MID) 우산리뷰(SR 18편·기저 연구 95편): 38% SDF·Hall Technique·선택적 우식제거·단면 ART는 무처치/통상복원 대비 상아질 우식을 정지시키나, fissure sealant과 resin infiltration은 상아질 병소 관리에 권장되지 않는다(근거가 법랑질·상아질 외측 1/3 병소에 치우쳐 제외됨).
+Fissure sealants and resin infiltration are explicitly not recommended for dentinal caries in primary teeth (their evidence base is dominated by enamel/outer-third lesions); four MID techniques — SDF, HT, selective caries removal, ART — are endorsed.
+
+## 세줄요약
+
+유치 상아질 우식(ICDAS 4–5) 최소개입치료(Minimal Intervention Dentistry, MID)에 관한 우산 리뷰(SR 18편·기저연구 95편); 10/18 SR이 ROBIS 고위험 편향.
+
+38% SDF 반년 도포 시 우식 정지율 53–91%; Hall Technique 실패율 대조군 대비 3% vs 37%(깊은 우식 OR 8.35); 단면 ART 3년 성공률 86%; 선택적 절삭은 치수 노출 위험 69–77% 감소.
+
+Fissure sealant·수지침투(resin infiltration)는 유치 상아질 우식 관리에 권장되지 않음(근거가 법랑질·상아질 외측 1/3 병소 중심); SDF·HT·선택적 절삭·ART 4가지 기법이 근거 있는 MID 선택지.
 
 ## Summary
 

@@ -6,18 +6,28 @@ date: 2022-02-08
 doi: 10.3389/fdmed.2021.767226
 source: zhou-2022-regenerative-endodontic-immature-teeth-trauma.md
 category: [endodontics/regenerative]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/zhou-2022-regenerative-endodontic-immature-teeth-trauma.pdf
 pdf_filename: zhou-2022-regenerative-endodontic-immature-teeth-trauma.pdf
 source_collection: external
 tags: [regenerative-endodontics, rep, immature-permanent-tooth, ipt, dental-trauma, pulp-necrosis, apexification, apexogenesis, pulp-revascularization, mta, biodentine, partial-pulpotomy]
 ---
 
-## One-line Summary
-Review comparing REP approaches in traumatized immature permanent teeth (Front Dent Med 2022): compares pulp preservation, Ca(OH)₂ apexification, MTA apical plug, and revascularization; distinguishes apical closure vs resumed root development as goals; high procedural heterogeneity, no standard protocol established.
+## Three-line Summary
 
-## 한줄요약
-외상 미성숙 영구치(IPT) 재생근관치료(REP) 접근법 비교 리뷰 (Front Dent Med 2022): 치수보존술·Ca(OH)₂·MTA 근단폐쇄·혈관재생 등 장단점 비교; 근단폐쇄 vs 근관발달 재개 목표 구분; 술식 이질성 높아 표준 프로토콜 미정.
+Narrative review (Front Dent Med 2022, Huazhong University) comparing five REP approaches for traumatized immature permanent teeth: direct pulp capping, partial pulpotomy, Ca(OH)₂ apexification, MTA apical plug, and revascularization.
+
+The key conceptual distinction is apexification (achieves apical barrier only, walls stay thin) versus revascularization/REP (resumes root development with continued dentin deposition); dental trauma affects 7.4–58% of children aged 8–11 years, creating high clinical relevance.
+
+High procedural heterogeneity across case reports means no standard protocol is established, and histological evidence shows regenerated tissue is predominantly cementum-/bone-like rather than true pulp-dentin complex.
+
+## 세줄요약
+
+서술적 리뷰(Front Dent Med 2022, 화중과기대)로 외상 미성숙 영구치에서 직접 치수복조·부분치수절단술·Ca(OH)₂ 근단폐쇄·MTA 근단플러그·혈관재생 등 5가지 접근법을 비교.
+
+핵심 개념 구분: apexification(근단 장벽만 형성, 상아질벽 얇게 유지) vs 혈관재생/REP(치근 발육 재개, 상아질 침착 지속); 외상은 8–11세 소아의 7.4–58%에서 발생해 임상적 중요성이 높음.
+
+증례 보고 위주로 술식 이질성이 높아 표준 프로토콜이 없으며, 재생된 조직의 조직학적 실체는 진성 치수-상아질 복합체가 아닌 백악질·골 유사 조직인 경우가 많다.
 
 ## Summary
 Narrative review comparing different REP approaches in immature permanent teeth (IPT) following dental trauma. Front Dent Med 2022, Huazhong University of Science and Technology, Wuhan. Focus on case reports of direct pulp capping, partial pulpotomy, Ca(OH)₂ apexification, MTA apexification, apexogenesis, and pulp revascularization.

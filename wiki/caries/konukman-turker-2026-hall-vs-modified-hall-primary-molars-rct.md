@@ -6,7 +6,7 @@ date: 2026-01-12
 doi: 10.1186/s12903-026-07667-2
 source: konukman-turker-2026-hall-vs-modified-hall-primary-molars-rct.md
 category: [caries]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: true
 pmid: "41526924"
@@ -20,13 +20,21 @@ relations:
     target: smail-faugeron-2018-pulp-treatment-primary-teeth-cochrane
 ---
 
-## One-line Summary
+## Three-line Summary
 
-RCT (268 primary molars, deep dentine caries) over 24 months: Hall technique (HT, seal caries under SSC, no caries removal) vs modified HT (selective removal of outer carious layer first) gave statistically equal 24-mo success (86.6% vs 92.8%, p=0.121); SSC fit was decisive in HT (insufficient fit → 40% major failure vs 7.3% with good fit).
+Parallel two-arm RCT (268 primary molars, 189 children aged 3–10 years; deep dentine caries with vital pulp, block-randomized 1:1) comparing Hall technique (HT, SSC placement without caries removal) vs modified HT (selective removal to soft dentine before SSC placement) over 24 months.
 
-## 한줄요약
+24-month success was statistically equivalent: 86.6% (HT) vs 92.8% (modified HT), p=0.121; major failures (irreversible pulpitis/abscess) were 10.1% vs 3.6%; in HT, insufficient SSC marginal fit produced 40.0% major failure vs 7.3% with sufficient fit (p=0.005).
 
-RCT(유구치 268개, deep dentine caries) 24개월: Hall technique(HT, 우식제거 없이 SSC로 봉입) vs modified HT(바깥 우식층 선택제거 후 SSC) 성공률 통계적 동등(86.6% vs 92.8%, p=0.121). HT에서 SSC 적합도가 결정적 — 부적합 시 major failure 40% vs 적합 7.3%.
+HT remains a reliable child-friendly option for deep carious primary molars; achieving good SSC marginal fit is the primary operator-controllable lever against pulpal failure; selective caries removal before placement buffers against leakage-related failures with no pulp exposures.
+
+## 세줄요약
+
+깊은 상아질 우식(deep dentine caries)의 유구치 268개(189명, 3–10세; 생활치, 1:1 블록 무작위배정) 대상 평행 2군 RCT — Hall technique (HT, 우식 제거 없이 SSC 봉입) vs modified HT (바깥 우식층 선택 제거 후 SSC), 24개월 추적.
+
+24개월 성공률 통계적 동등: HT 86.6% vs modified HT 92.8%(p=0.121); 주요 실패(비가역 치수염/농양) 10.1% vs 3.6%; HT에서 SSC 변연 적합도 부적합 시 주요 실패 40.0% vs 적합 7.3%(p=0.005).
+
+HT는 깊은 우식 유구치에서 어린이 친화적인 신뢰할 수 있는 선택지; SSC 적합도가 치수 실패를 막는 가장 중요한 술자 조절 요소; 선택적 절삭은 변연 누출 실패를 완충, 치수 노출 없음.
 
 ## Summary
 
@@ -34,7 +42,7 @@ According to PubMed ([DOI 10.1186/s12903-026-07667-2](https://doi.org/10.1186/s1
 
 In 268 primary molars (189 children, 3–10 y) randomized 1:1 to HT vs modified HT (selective removal to soft dentine, ICCC-style, before crowning), **24-month success was statistically equivalent: 86.6% (HT) vs 92.8% (modified HT), p=0.121** — the null hypothesis held. However, the trajectory consistently favored modified HT on the most important endpoint: major failures (irreversible pulpitis/abscess requiring pulpotomy or extraction) were 10.1% (HT) vs 3.6% (modified HT) at 24 months. The standout secondary finding is that **SSC marginal fit was decisive in conventional HT**: teeth with insufficient fit had 40.0% major failure and only 50.0% success, versus 7.3% major failure and 89.9% success with sufficient fit (p=0.005). In the modified-HT arm, insufficient fit did NOT produce major failures — suggesting that removing the bulk of infected dentine buffers against the consequences of marginal leakage. First primary molars (harder to fit) underperformed second molars in the modified arm.
 
-Clinically: HT remains a reliable, child-friendly option for deep carious primary molars, and **getting a good crown fit is the operator-controllable lever that most protects against pulpal failure**; selectively removing the outer caries first is a reasonable adjunct in deep lesions, especially where ideal fit is uncertain, with no pulp exposures observed. This complements the wiki's conservative primary-tooth pulp pathway ([[endodontics/smail-faugeron-2018-pulp-treatment-primary-teeth-cochrane]], [[endodontics/aapd-2024-vital-pulp-therapy-primary-teeth-guideline]]).
+Clinically: HT remains a reliable, child-friendly option for deep carious primary molars, and **getting a good crown fit is the operator-controllable lever that most protects against pulpal failure**; selectively removing the outer caries first is a reasonable adjunct in deep lesions, especially where ideal fit is uncertain, with no pulp exposures observed. This complements the wiki's conservative primary-tooth pulp pathway ([[endodontics/vpt/smail-faugeron-2018-pulp-treatment-primary-teeth-cochrane]], [[endodontics/vpt/aapd-2024-vital-pulp-therapy-primary-teeth-guideline]]).
 
 ## Key Contributions
 
@@ -55,7 +63,7 @@ Two-arm parallel RCT (NCT05220865), 268 primary molars, block-randomized 1:1 HT 
 
 ## Related Papers
 
-- [[endodontics/smail-faugeron-2018-pulp-treatment-primary-teeth-cochrane]] — Cochrane review of pulp treatment in primary teeth
-- [[endodontics/aapd-2024-vital-pulp-therapy-primary-teeth-guideline]] — AAPD VPT primary teeth guideline
+- [[endodontics/vpt/smail-faugeron-2018-pulp-treatment-primary-teeth-cochrane]] — Cochrane review of pulp treatment in primary teeth
+- [[endodontics/vpt/aapd-2024-vital-pulp-therapy-primary-teeth-guideline]] — AAPD VPT primary teeth guideline
 - [[endodontics/vpt/chawla-2026-pulpotomy-vs-pulpectomy-primary-teeth-sr-ma]] — pulpotomy vs pulpectomy in primary teeth (companion)
 - [[glass-ionomer/ali-eldin-2026-giomer-hvgic-class-ii-primary-molars-rct]] — primary-molar Class II restorative RCT

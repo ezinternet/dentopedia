@@ -1,0 +1,1109 @@
+Introduction
+
+In endodontics, an accurate diagnosis is essential for effective clinical management. Periapical lesions of endodontic origin represent the most common pathology in dental practice and sometimes are challenging to diagnose []. These lesions are usually caused by pulp necrosis and bacterial invasion in the periapical region []. The initial inflammatory stage is acute apical periodontitis and appears radiographically as the widening of the periodontal ligament with pain upon percussion and palpation []. Its rapid progression may cause abrupt swelling and other cardinal signs, such as pain, heat and redness, characterizing the acute phase of dentoalveolar abscesses []. Pus discharge, fistulas and the absence of pain are common features of chronic dentoalveolar abscesses. Chronic phase (radicular cyst or periapical granuloma) may occur, typically identified as painless radiolucency characterizing chronic apical periodontitis [].
+
+In endodontic practice, clinical tests and parameters, together with clinical and imaging examinations, are used to assess the dental pulp status []. Dental pulp assessments, including vitality tests, percussion and palpation, and imaging findings guide the endodontic diagnostic process [,]. The clinical differential diagnosis of inflammatory endodontic periapical lesions may be complex due to their resemblance to several noninflammatory conditions in periapical locations [].
+
+In the literature, many pathologic categories have been reported in periapical locations, mimicking those of inflammatory endodontic origin, especially malignancies and noninflammatory odontogenic lesions [,]. Making an accurate clinical diagnosis is challenging due to the clinical similarities among lesions of endodontic origin. The aim of this review study was to discuss the differential diagnosis of several types of pathologies, appearing as dentoalveolar abscesses or apical periodontitis.
+
+Materials and Methods
+
+Search strategy
+
+Case reports of nonendodontic lesions misdiagnosed as radiolucent periapical endodontic lesion published from 1978 to 2020 were retrieved from the PubMed (MEDLINE) database. Predefined keywords were used to search the articles: “Acute and Chronic Apical Periodontitis”, “Acute Dentoalveolar Abscess”, “Acute Apical Periodontitis”, “Periapical Abscess”, “Chronic Apical Periodontitis”, “Periapical Granuloma”, “Radicular Cyst”, And “Chronic Dentoalveolar Abscess”. Each of these terms were combined with the term “Misdiagnosed”, “Mimicking”, “Masquerading” or “Simulating”.
+
+Inclusion and exclusion criteria
+
+Only well-documented case reports of pathological entities in periapical location published in dental or medical journals in English with detailed information on the symptoms, signs, imaging findings and diagnosis were included. Reviews, clinical trials, case reports with incomplete clinical or radiographical data or microscopic images were excluded.
+
+Appraisal of the literature
+
+All case reports fulfilling the selection criteria were reviewed to identify radiolucent nonendodontic periapical lesions focused on the questions: “Which pathological entities mimick radiolucent endodontic lesions in periapical location? Based on endodontic clinical parameters, what are the contrasting features?” When there were similar case reports, the most recent report was considered for analysis. Thirty pathological entities were grouped into categories based on anatomical variations, nonodontogenic cysts, odontogenic lesions, bone-related lesions, and malignancies.
+
+Table 1
+
+Clinical aspects of nonendodontic entities resembling dentoalveolar abscess or apical periodontitis [n (%)]
+
+Endodontic misdiagnosis
+
+Total
+
+Pain N(%)
+
+Swelling
+
+N(%)
+
+PVT N(%)
+
+30 (100)
+
+Yes, 16 (53.3)
+
+No, 14 (46.7)
+
+Yes, 17 (56.6)
+
+No, 13 (43.4)
+
+Positive, 6 (31,6)
+
+Negative, 13 (68.4)
+
+Dentoalveolar abscess
+
+5 (16.7)
+
+Yes, 5 (100)
+
+Yes, 5 (100)
+
+Positive, 2 (66.6)Negative, 1 (33.4)
+
+Acute
+
+4 (80)
+
+Yes, 4 (100)
+
+Yes, 4 (100)
+
+Positive, 2 (100)
+
+Chronic
+
+1 (20)
+
+Yes, 1 (100)
+
+Yes, 1 (100)
+
+Negative, 1 (100)
+
+Apical periodontitis
+
+25 (83.3)
+
+Yes, 11 (44)No, 14 (56)
+
+Yes, 13 (52)No, 12 (48)
+
+Positive, 4 (25)Negative, 12 (75)
+
+Acute
+
+3 (12)
+
+Yes, 3 (100)
+
+Yes, 1 (33.4)No, 2 (66.6)
+
+Negative, 1 (100)
+
+Chronic
+
+22 (88.8)
+
+Yes, 8 (36.4)No, 14 (63.6)
+
+Yes, 11 (50)No, 11 (50)
+
+Positive, 3 (20)Negative, 12 (80)
+
+PVT: Pulp vitality testing.
+
+Table 2
+
+Distribution of pathological categories simulating inflammatory periapical endodontic lesions [n (%)]
+
+Pathologic categories
+
+n (%)
+
+Mean age (range)
+
+Sex
+
+Pain
+
+Swelling
+
+Site
+
+pulp vitality test (PVT)
+
+Authors
+
+Total
+
+30 (100)
+
+39.2 (14 to 81)
+
+M>F
+
+Yes, 16 (53.3)No, 14 (46.7)
+
+Yes, 17 (56.6)No, 13 (43.4)
+
+Md>Mx
+
+Positive, 6 (31,6)Negative, 13 (68.4)
+
+Malignant tumors
+
+13 (43.3)
+
+42.6 (16 to 72)
+
+M>F
+
+Yes, 11 (84.6)No, 2 (15.4)
+
+Yes, 8 (61.5)No, 5 (38.5)
+
+Md=Mx
+
+Positive, 3 (37.5)Negative, 5 (62.5)
+
+Primary tumors
+
+10 (77.0)
+
+37.2 (16 to 72)
+
+M>F
+
+Yes, 9 (90)No, 1 (10)
+
+Yes, 8 (80)No, 2 (20)
+
+Md<Mx
+
+Positive, 3 (50)Negative, 3 (50)
+
+Chondroblastic osteosarcoma
+
+1 (3.3)
+
+18
+
+M
+
+Yes
+
+Yes
+
+Md
+
+Positive
+
+Yamamoto[6]
+
+Langerhans cell histiocytosis
+
+1 (3.3)
+
+39
+
+M
+
+Yes
+
+Yes
+
+Mx
+
+Positive
+
+Peters. [8]
+
+Plasmacytoma
+
+1 (3.3)
+
+43
+
+M
+
+Yes
+
+Yes
+
+Mx
+
+NI
+
+Allegra[9]
+
+Burkitt's lymphoma
+
+1 (3.3)
+
+16
+
+M
+
+Yes
+
+Yes
+
+Md
+
+NI
+
+Ardekian[10]
+
+Ewing’s sarcoma
+
+1 (3.3)
+
+19
+
+F
+
+Yes
+
+Yes
+
+Mx
+
+Negative
+
+Bornstein[11]
+
+Multiple myeloma
+
+1 (3.3)
+
+55
+
+F
+
+No
+
+Yes
+
+Md
+
+Positive
+
+Dharanjani[12]
+
+Adenoid cystic carcinoma
+
+1 (3.3)
+
+43
+
+M
+
+Yes
+
+No
+
+Mx
+
+Negative
+
+Park[13]
+
+Eosinophilic granuloma
+
+1 (3.3)
+
+39
+
+M
+
+Yes
+
+Yes
+
+Md
+
+NI
+
+Lee[14]
+
+Non-Hodgkin lymphoma
+
+1 (3.3)
+
+72
+
+M
+
+Yes
+
+Yes
+
+Mx
+
+Negative
+
+Shilkofski[15]
+
+Mesenchymal chondrosarcoma
+
+1 (3.3)
+
+28
+
+F
+
+Yes
+
+No
+
+Md
+
+NI
+
+Bueno[16]
+
+Metastatic tumors
+
+3 (33.3)
+
+50.3 (40 to 62)
+
+M>F
+
+Yes, 2 (66.6)No, 1 (33.3)
+
+Yes, 1 (33.3)No, 2 (66.6)
+
+Md (100)
+
+Negative 2 (100)
+
+Hepatocellular carcinoma
+
+1 (3.3)
+
+62
+
+M
+
+No
+
+No
+
+Md
+
+Negative
+
+Fujihara[17]
+
+Breast carcinoma
+
+1 (3.3)
+
+40
+
+F
+
+Yes
+
+No
+
+Md
+
+Negative
+
+Khalili[18]
+
+Carcinoma of pancreas
+
+1 (3.3)
+
+49
+
+M
+
+Yes
+
+Yes
+
+Md
+
+NI
+
+Selden[19]
+
+Odontogenic cysts
+
+4 (13.2)
+
+44.7 (14 to 70)
+
+M=F
+
+No (75)
+
+Yes (75)
+
+Md=Mx
+
+Negative (100)
+
+Lateral periodontal cyst
+
+1 (3.3)
+
+70
+
+F
+
+No
+
+No
+
+Mx
+
+Negative
+
+Nikitakis[20]
+
+Odontogenic keratocyst
+
+1 (3.3)
+
+55
+
+M
+
+No
+
+Yes
+
+Md
+
+Negative
+
+Santos[21]
+
+Orthokeratinized odontogenic cyst
+
+1 (3.3)
+
+40
+
+F
+
+Yes
+
+Yes
+
+Mx
+
+Negative
+
+Servato[22]
+
+Paradental cyst
+
+1 (3.3)
+
+14
+
+M
+
+No
+
+Yes
+
+Md
+
+Negative
+
+Silva[23]
+
+Odontogenic tumors
+
+3 (9.9)
+
+28.3 (18 to 42)
+
+M>F
+
+No (66.6)
+
+No (66.6)
+
+Md<Mx
+
+Negative (66.6)
+
+Ameloblastoma
+
+1 (3.3)
+
+18
+
+M
+
+Yes
+
+No
+
+Md
+
+Negative
+
+Kashyap[24]
+
+Central odontogenic fibroma
+
+1 (3.3)
+
+42
+
+M
+
+No
+
+No
+
+Mx
+
+Positive
+
+Huey[25]
+
+Adenomatoid odontogenic tumor
+
+1 (3.3)
+
+25
+
+F
+
+No
+
+Yes
+
+Mx
+
+Negative
+
+Bhandari[7]
+
+Nonodontogenic cysts
+
+3 (9.9)
+
+34.6 (32 to 37)
+
+M<F
+
+No (100)
+
+Yes (100)
+
+Md<Mx
+
+Negative 2 (100)
+
+Nasolabial cyst
+
+1 (3.3)
+
+32
+
+F
+
+No
+
+Yes
+
+Mx
+
+Negative
+
+Rallan[26]
+
+Nasopalatine cyst
+
+1 (3.3)
+
+35
+
+M
+
+No
+
+Yes
+
+Mx
+
+NI
+
+Aparna[27]
+
+Simple bone cyst
+
+1 (3.3)
+
+37
+
+F
+
+No
+
+Yes
+
+Md
+
+Negative
+
+Hs[28]
+
+Bone related lesions
+
+2 (8)
+
+37.3 (34.5 to 40)
+
+M<F
+
+Yes (100)
+
+No (100)
+
+Md (100)
+
+Positive (100)
+
+Cemento-osseous dysplasia
+
+1 (3.3)
+
+34.5
+
+F
+
+Yes
+
+No
+
+Md
+
+Positive
+
+Brody[29]
+
+Ossifying fibroma
+
+1 (3.3)
+
+40
+
+F
+
+Yes
+
+No
+
+Md
+
+NI
+
+de Moraes Ramos-Perez[30]
+
+Anatomic defects
+
+2 (6.6)
+
+35 (25 to 45)
+
+M>F
+
+No (100)
+
+No (100)
+
+Md=Mx
+
+NI (100)
+
+Maxillary sinus variation
+
+1 (3.3)
+
+25
+
+M
+
+No
+
+No
+
+Mx
+
+NI
+
+Deyhimi[31]
+
+Stafne bone cavity
+
+1 (3.3)
+
+45
+
+M
+
+No
+
+No
+
+Md
+
+NI
+
+Sekerci[32]
+
+Giant cell lesion
+
+1 (3.3)
+
+18
+
+M<F
+
+No (100)
+
+Yes (100)
+
+Md (100)
+
+Positive (100)
+
+Central giant cell lesion
+
+1 (3.3)
+
+18
+
+F
+
+No
+
+Yes
+
+Md
+
+Positive
+
+Candeiro[33]
+
+Hamartoma
+
+1 (3.3)
+
+81
+
+F
+
+No (100)
+
+No (100)
+
+Md (100)
+
+NI (100)
+
+Lymphangioma
+
+1 (3.3)
+
+81
+
+F
+
+No
+
+No
+
+Md
+
+NI
+
+Rodrigues. [34]
+
+Pseudotumor
+
+1 (3.3)
+
+42
+
+M>F
+
+Yes (100)
+
+No (100)
+
+Md
+
+NI
+
+Inflammatory myofibroblastc tumor
+
+1 (3.3)
+
+42
+
+M
+
+Yes
+
+No
+
+Md
+
+NI
+
+Adachi[35]
+
+NI: no information. PVT: Pulp vitality testing
+
+Results
+
+A primary search resulted in 426 cases reports, and 111 were relevant to the subject, following inclusion criteria. Case reports showing only microscopical or radiographical findings analysis or with the absence of clinical features were excluded. Case reports of the same pathological entity were selected according to exclusion criteria (=81). A total of 30 pathological entities of non-endodontic origin appeared in the periapical region, mimicking inflammatory endodontic lesions (and). Malignancies (primary and metastatic tumors) were the most frequent category, representing 45.1% (=13), followed by noninflammatory odontogenic lesions (23.1%,=7). Other pathologic categories, such as nonodontogenic cysts, bone-related lesions and anatomic defects, may also simulate those of inflammatory endodontic origin lesions. Local pain was reported in 53.3% of malignancies. Swelling was a common clinical feature among noninflammatory odontogenic lesions (57.1%) and primary malignant tumors (80%). Dental pulp sensibility/vitality tests of involved teeth in nonendodontic lesions were negative in 68.4%.
+
+Of all 30 nonendodontic periapical entities (), cases simulates apical periodontitis (83.3%,=25) or dentoalveolar abscesses (16.7%,=5). Clinical parameters fail to distinguish nonendodontic lesions from endodontic origin. Local pain was frequently reported in nonendodontic entities (53.3%) mainly in malignant tumors (84.6%). Most pathological entities (63.6%) simulating chronic apical periodontitis were also asymptomatic (). Swelling was a common clinical sign among nonendodontic entities in periapical location with 56.6%. Most of the periapical lesions of noninflammatory origin showed negative response in dental pulp sensibility/vitality tests (68.4%,=13).
+
+andsummarizes clinical and pathological features of the malignancies mimicking periapical endodontic lesions. Most of the lesions were primary tumors (77%,=10), and 23% (=3) were metastasis. Malignant tumors in periapical location showed mean age of 37.2 in primary tumors and 50.3 in metastatic lesions. Pain was reported in 84.6% (=11) of individuals with malignancies simulating endodontic periapical lesions. Swelling occurred in the majority of malignancies, especially in those simulating primary tumors. Simultaneously, pain and swelling were reported in 69.2% of all malignancies in the periapical location. Clinical tests, including the pulp sensibility/vitality tests (PVT) was performed in eight cases that resembled endodontic periapical lesions. A negative pulp response was observed in 62.5% of the cases.
+
+Table 3
+
+Clinical features of 13 malignancies simulating endodontic origin lesions
+
+Malignancies
+
+Endodontic misdiagnosis
+
+Dentoalveolar abscess
+
+Acute
+
+Chronic
+
+Apical periodontitis
+
+Acute
+
+Chronic
+
+Total N (%)
+
+13 (100)
+
+5 (38.5)
+
+4 (80)
+
+1 (20)
+
+8 (61.5)
+
+2 (25)
+
+6 (75)
+
+Primary tumor
+
+Total N (%)
+
+10 (77.0)
+
+4 (80)
+
+3 (75)
+
+1 (25)
+
+6 (75)
+
+2 (33.4)
+
+4 (66.6)
+
+Mean age
+
+(range, yrs)
+
+37.2(16 to 72)
+
+36.3(16 to 72)
+
+24.3(16 to 39)
+
+72
+
+37.8(19 to 55)
+
+23.5(19 to 28)
+
+45(39 to 55)
+
+Pain N (%)
+
+Yes, 9 (90)No, 1 (10)
+
+Yes, 4 (100)
+
+Yes, 3 (100)
+
+Yes, 1 (100)
+
+Yes, 5 (83.3)No, 1 (16.7)
+
+Yes, 2 (100)
+
+Yes, 3 (75)No, 1 (25)
+
+Swelling N (%)
+
+Yes, 8 (80)No, 2 (20)
+
+Yes, 4 (100)
+
+Yes, 3 (100)
+
+Yes, 1 (100)
+
+Yes, 4 (66.6)No, 2 (33)
+
+Yes, 1 (50)No, 1 (50)
+
+Yes, 3 (75)No, 1 (25)
+
+Swelling
+
+N (%)
+
+Positive,3 (50)Negative,3 (50)
+
+Positive,2 (66.6)Negative,1 (33.4)
+
+Positive,2 (100)
+
+Negative,1 (100)
+
+Positive, 1(33.3)Negative,2 (66.6)
+
+Negative,1 (100)
+
+Positive, 1 (50)Negative, 1 (50)
+
+Metastatic tumor
+
+Total N (%)
+
+3 (23.0)
+
+1 (20)
+
+1 (100)
+
+-
+
+2 (25)
+
+-
+
+2 (100)
+
+Mean age (range, yrs)
+
+50.3(40 to 62)
+
+49
+
+49
+
+-
+
+51(40 to 62)
+
+-
+
+51(40 to 62)
+
+Pain N (%)
+
+Yes, 2 (66.6)No, 1 (33.3)
+
+Yes, 1 (100)
+
+Yes, 1 (100)
+
+-
+
+Yes, 1 (50)No, 1 (50)
+
+-
+
+Yes, 1 (50)No, 1 (50)
+
+Swelling
+
+N (%)
+
+Yes, 1 (33.3)No, 2 (66.6)
+
+No, 1 (100)
+
+No, 1 (100)
+
+-
+
+Yes, 1 (50)No, 1 (50)
+
+-
+
+Yes, 1 (50)No, 1 (50)
+
+Swelling
+
+N (%)
+
+Negative2 (100)
+
+N 1 (100)
+
+N 1 (100)
+
+-
+
+Negative2 (100)
+
+-
+
+Negative2 (100)
+
+NI: no information. PVT: Pulp vitality testing
+
+Figure 1
+
+Flowchart showing clinical features of 30 nonendodontic periapical entities reported as endodontic origin. Most of pathologies appeared as apical periodontitis and few mimicking dentoalveolar abscess (asterisk)
+
+Discussion
+
+The diagnostic process of endodontic pathologies can be complex, impacting the therapeutic outcome. Clinical parameters including pain, swelling and the dental pulp sensibility/vitality tests are essential for assessing periapical lesions of endodontic origin [,,]. Limitations in the pulp sensibility/vitality tests’ analysis, as well as individual pain thresholds make it difficult to determine the diagnostic accuracy of the dental pulp vitality [38]. In this review, we showed that pain status, swelling and negative pulp response are also reported among noninflammatory periapical lesions. These may lead to misdiagnosis of periapical lesions of endodontic origin [,]. In the present study, 30 radiolucent pathological entities of nonendodontic origin in periapical location are discussed. Surprisingly, malignant tumors represented the majority of pathological entities [,-].
+
+Signs and symptoms typically identified in periapical pathologies of endodontic origin, including pain, swelling and negative pulp response, are also reported in noninflammatory entities [,,]. Primary malignancies may appear as swelling mimicking dentoalveolar abscesses in the acute phase [10]. Dental pulp vitality needs to be assessed to distinguish malignancies in periapical locations from those of endodontic origin. However, a lack of cardinal signs, including heat, redness, and pus discharge, leads to discard entities of inflammatory origin [,]. In contrast, swelling is usually absent in metastatic tumors as seen in periapical location [,]. Likewise, local pain is reported in periapical malignancies as well as in the acute phases of dentoalveolar abscesses and apical periodontitis [8, 16]. Dental pulp necrosis consequent of tumor progression in the periapical region may also be misdiagnosed as those of endodontic origin []. The lack of local pain usually reported in metastases is explained by perineurial and perivascular invasive tumor growth patterns around dental roots [,]. Differential diagnosis of periapical radiolucencies is challenging and involves a minucious review of patient’s dental history. Interestingly, patients affected by metastatic tumors in the periapical region have a higher mean age. No other clinical aspects are helpful in distinguishing periapical lesions. Taken together, these results suggest that patients complaining of symptomatic swelling surrounded by vital teeth may have a noninflammatory endodontic process [,]. In addition, when there is local pain without facial enlargement surrounding nonvital teeth, the differential diagnosis shifts to lesions with endodontic origin. Here, several pathological entities may appear as periapical radiolucencies, such as odontogenic tumors and anatomical defects [].
+
+In endodontics, extensive bone resorption in chronic apical periodontitis is caused by pulp necrosis and bacterial invasion. It appears as asymptomatic radiolucency without volumetric enlargement []. These changes are not restricted to lesions of endodontic origin. Here, several pathological entities may appear as periapical radiolucencies, such as odontogenic tumors and anatomical defects [,]. Root resorption is helpful in distinguishing apical periodontitis from some odontogenic lesions in periapical locations [,,,,]. This radiographical feature is rarely detected in inflammatory periapical lesions []. Another clinical aspect is the incomplete repair process followed by endodontic treatment, which can be misdiagnosed as a persistent lesion or even remaining periapical scar [].
+
+In the endodontic practice, gingival sulcus probing examination must be considered, since periodontal lesions may appear as periapical radiolucency []. Another clinical situation that may simulate periapical endodontic lesions is foreign body reaction with persistent inflammatory response and no clinical signs of regression []. Finally, all periapical lesions must be accurately investigated to discard nonendodontic lesions [].
+
+Conclusion
+
+Several nonendodontic conditions may clinically resemble those of inflammatory endodontic origin, especially malignancies and noninflammatory odontogenic lesions. Clinical tests and parameters seem to be limited in distinguishing radiolucent endodontical from nonendodontical conditions. All periapical lesions must be investigated to discard a wide range of entities of nonendodontic origin.
+
+Conflict of Interest:
+
+‘None declared’.

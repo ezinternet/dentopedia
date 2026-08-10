@@ -6,20 +6,28 @@ date: 2021-04-16
 doi: 10.1007/s00784-021-03912-w
 source: elchaar-2021-tapered-self-cutting-tissue-level-minipig.md
 category: [implants]
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/elchaar-2021-tapered-self-cutting-tissue-level-minipig.pdf
 pdf_filename: elchaar-2021-tapered-self-cutting-tissue-level-minipig.pdf
 source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Animal study (minipig, n=48 implants, 12 wk, moderate bone): novel fully tapered self-cutting tissue-level implant (Straumann TLX) achieved non-inferior BIC (45–61% vs 52–55%) and superior crestal bone maintenance (fBIC) vs Straumann Standard Plus across three diameters, with 4–5× higher insertion torques.
+Animal study (minipig, n=48 implants, 8 animals, split-mouth, 12 wk, moderate type 2/3 bone): novel fully tapered self-cutting tissue-level implant (Straumann TLX) vs Straumann Standard Plus across three diameter groups.
 
-## 한줄요약
+Non-inferior BIC confirmed in all diameter groups (45–61% vs 52–55%); superior crestal bone maintenance (fBIC) favoring TLX, significant in the small-diameter group (p=0.047); bench insertion torques 4–5× higher for TLX (23–54 vs 5–11 Ncm).
 
-동물연구(미니피그, n=48, 12주, 중등 골질): 신규 완전 테이퍼형 자가절삭 조직 수준 임플란트(Straumann TLX)가 기존 Standard Plus 대비 BIC 비열등(45–61% vs 52–55%), 치조정 골 유지(fBIC) 우위, 삽입 토크 4–5배 높음.
+Provides pre-clinical evidence supporting TLX for immediate placement in compromised bone quality; limitation is non-randomized pilot design with industry affiliation.
+
+## 세줄요약
+
+동물연구(미니피그, n=48 임플란트, n=8, split-mouth, 12주, 중등 type 2/3 골질): Straumann TLX(완전 테이퍼형 자가절삭 조직수준) vs Standard Plus, 3가지 직경군 비교.
+
+모든 직경군에서 BIC 비열등 확인(45–61% vs 52–55%); 치조정 골 유지(fBIC) TLX 우위, 소직경군 유의(p=0.047); 삽입 토크 4–5배 높음(23–54 vs 5–11 Ncm).
+
+저밀도골·즉시식립 임상 적용의 전임상 근거 제공; 비무작위 파일럿 + 산업계 소속 한계.
 
 ## Summary
 
@@ -83,7 +91,7 @@ No fibrous encapsulation; no peri-implant inflammation at any site.
 
 ## Related Papers
 
-- [[implants/atieh-2025-tissue-vs-bone-level-peri-implantitis-sr-ma]] — SR+MA demonstrating tissue-level implant advantage in crestal bone level preservation; this minipig study provides supporting pre-clinical mechanistic data for TLX within the tissue-level category
-- [[implants/mortazavi-2021-bone-loss-tissue-bone-level-implants]] — comparative bone loss analysis around tissue vs bone level implants; contextualizes the fBIC differences observed here
-- [[implants/cosola-2020-bone-tissue-level-radiological-sr]] — radiological SR on bone/tissue-level crestal bone behavior; provides the radiographic clinical translation counterpart to this histomorphometric animal study
-- [[implants/solderer-2025-tissue-level-implant-bone-loss-factors]] — factors modifying bone loss around tissue-level implants; relevant for understanding when TLX crestal bone advantages may be amplified or diminished clinically
+- [[implants/peri-implantitis/atieh-2025-tissue-vs-bone-level-peri-implantitis-sr-ma]] — SR+MA demonstrating tissue-level implant advantage in crestal bone level preservation; this minipig study provides supporting pre-clinical mechanistic data for TLX within the tissue-level category
+- [[implants/mbl/mortazavi-2021-bone-loss-tissue-bone-level-implants]] — comparative bone loss analysis around tissue vs bone level implants; contextualizes the fBIC differences observed here
+- [[implants/mbl/cosola-2020-bone-tissue-level-radiological-sr]] — radiological SR on bone/tissue-level crestal bone behavior; provides the radiographic clinical translation counterpart to this histomorphometric animal study
+- [[implants/mbl/solderer-2025-tissue-level-implant-bone-loss-factors]] — factors modifying bone loss around tissue-level implants; relevant for understanding when TLX crestal bone advantages may be amplified or diminished clinically

@@ -10,8 +10,21 @@ pdf_filename: guardieiro-2023-chitosan-cellulose-hemostasis-dapt-rct.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Within-person, single-blind RCT (J Evid Based Dent Pract 2023, n=DAPT 환자): 이중 항혈소판 (DAPT) 환자 발치에서 chitosan-기반 국소 지혈제 vs cellulose oxidized gauze — chitosan이 출혈시간 단축 + 치유 개선; DAPT 환자 발치 시 chitosan 지혈제 우위.
+## Three-line Summary
+
+Within-person, single-blind RCT (J Evid Based Dent Pract 2023, n=DAPT 환자): 이중
+
+항혈소판 (DAPT) 환자 발치에서 chitosan-기반 국소 지혈제 vs cellulose oxidized gauze —
+
+chitosan이 출혈시간 단축 + 치유 개선; DAPT 환자 발치 시 chitosan 지혈제 우위.
+
+## 세줄요약
+
+Within-person, single-blind RCT (J Evid Based Dent Pract 2023, n=DAPT 환자): 이중
+
+항혈소판 (DAPT) 환자 발치에서 chitosan-기반 국소 지혈제 vs cellulose oxidized gauze —
+
+chitosan이 출혈시간 단축 + 치유 개선; DAPT 환자 발치 시 chitosan 지혈제 우위.
 
 ## 1. Document Information
 - Authors: Guardieiro B, Santos-Paul MA, Furtado RHM, Dalçóquio T, Salsoso R, Neves IL, Neves RS, Cavalheiro Filho C, Baracioli LM, Nicolau JC
@@ -31,7 +44,7 @@ Within-person, single-blind RCT (J Evid Based Dent Pract 2023, n=DAPT 환자): �
 - Interventions: chitosan-based hemostat vs cellulose oxidized gauze
 
 ## 4. Key Results
-[근거강함] Chitosan-based hemostat:
+[확인] Chitosan-based hemostat:
 - Reduced bleeding time vs cellulose oxidized gauze
 - Improved healing
 

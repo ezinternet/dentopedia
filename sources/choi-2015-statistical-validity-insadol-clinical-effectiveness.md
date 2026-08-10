@@ -10,8 +10,21 @@ pdf_filename: choi-2015-statistical-validity-insadol-clinical-effectiveness.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Korea University + Mayo Clinic critical methodological appraisal of the 5 (4 analyzable) Korean clinical trials of Insadol (옥수수 불검화 정량추출물 = titrated unsaponifiable Zea mays L. fraction) used by the manufacturer to claim periodontal efficacy — concludes that none of the trials provide compelling evidence due to flawed randomization, missing rationale for sample size, inappropriate statistical tests, unclear blinding, and inconsistent follow-up periods.
+## Three-line Summary
+
+Critical methodological appraisal (대한치과의사협회지 2015; Korea University + Mayo Clinic) of the 5 Korean clinical trials (4 analyzable, 1982–1994) cited by the Insadol manufacturer to support periodontal efficacy of its 옥수수 불검화 정량추출물 (titrated unsaponifiable Zea mays L. fraction) product.
+
+None of the 4 analyzable trials demonstrated compelling clinical evidence: 3/4 never checked randomization balance, 1/4 explicitly failed randomization, 3/4 used inappropriate statistical tests, blinding was unclear in 2/4, and no trial reported a sample-size rationale; no clinical trial has been conducted since 1994 (20-year gap at time of writing).
+
+Despite holding 66.8% of the Korean periodontal-drug market (2011), Insadol's evidence base is methodologically inadequate; absence of evidence ≠ evidence of absence, but a properly designed RCT with pre-specified sample size, blinded outcomes, and direct between-group comparisons remains absent.
+
+## 세줄요약
+
+방법론적 비판 고찰(대한치과의사협회지 2015; 고려대학교 + Mayo Clinic): 인사돌(Insadol, 옥수수 불검화 정량추출물) 제조사가 치주 효능 근거로 제시한 한국 임상시험 5편(분석 가능 4편, 1982–1994)을 9개 방법론적 변수로 평가.
+
+분석 가능한 4편 모두 설득력 있는 임상 근거 미제공: 4편 중 3편이 무작위배정 균형 미검증, 1편은 균형 실패, 3편이 부적절한 통계검정, 2편이 맹검 불명확, 전편이 표본크기 근거 부재; 1994년 이후 20년간 신규 임상시험 없음.
+
+2011년 한국 치주치료제 시장 66.8%를 점유하지만 근거 기반이 방법론적으로 불충분; 근거 부재 ≠ 비효과성이며, 사전 명시 표본 크기·맹검·직접 군간 비교를 갖춘 제대로 된 RCT 부재.
 
 ## 1. Document Information
 - Authors: Yong-Geun Choi¹ (corresponding via Sang-Wan Shin), Steven E. Eckert² (Mayo Clinic), Jeong-Yol Lee¹, Sang-Wan Shin¹ (Korea University Guro Hospital, swshin@korea.ac.kr)

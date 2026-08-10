@@ -3,7 +3,7 @@ title: "Overview: Patient Complaint Management — Classification → Expectatio
 type: synthesis
 category: overviews
 date: 2026-06-12
-confidence: synthesis
+evidence_level: synthesis
 source_papers:
   - wiki/complaint-management/reader-2014-patient-complaints-healthcare-taxonomy.md
   - wiki/complaint-management/gillespie-2016-healthcare-complaints-analysis-tool.md
@@ -42,11 +42,21 @@ tags: [overview, complaint-management, patient-experience, dental]
 > - 수술적 치과의 반복 책임 근거(Park 2016): 감염 즉시 배양·치료, 적시 의뢰, 감염관리 기록, **명시적 술전 동의** — 감염위험 동의 누락은 독립적으로 책임 성립.
 > - 미해결: 치과 특이적 HCAT validation 부재, CODE의 대조군 효과 데이터 부재, 한국어 민원 감성분석 모델 부재, 대응 protocol이 해결률을 바꾼다는 RCT 근거 부재.
 
-## One-line Summary
-A four-stage pipeline — classify the complaint, understand what the complainant expects, respond without defensiveness, and train staff to do so — that turns scattered patient-complaint research into an operational complaint system, with a dental applied layer.
+## Three-line Summary
 
-## 한줄요약
-환자 민원을 (1) 분류하고 (2) 민원인이 무엇을 기대하는지 파악하고 (3) 방어적이지 않게 대응하며 (4) 그 역량을 교육으로 정착시키는 4단계 파이프라인. 일반 healthcare 근거 + 치과 적용층으로 구성.
+Synthesis of 20 papers organizing patient-complaint research into a four-stage operational pipeline: classification (Reader 2014 SR, 88,069 complaints: clinical 33.7% / management 35.1% / relationship 29.1%; HCAT 7-category instrument) → expectation (complainants want recurrence prevention and honest explanation first; money only 7%, Friele 2006) → response (defensiveness is structural, not individual, Gillespie 2025; fauxpology and subjectivising are the failure modes) → education (CODE model: operational + interpersonal training in parallel, Elias 2025).
+
+Dental applied layer shows dentists carry the highest complaint rate (42.7/1,000/year, Thomas 2018), endodontics the highest malpractice exposure, and Korean covenant-not-to-sue agreements are legally binding in only 26.5% of cases (Kwon 2017).
+
+Clinical bottom line: the strongest lever a clinic controls is the response-and-training layer; structured complaint classification converts complaints into safety signals (60% of complaints show greater harm than staff noticed, Van Dael 2022), and rubber-dam use plus accurate records is simultaneously clinical safety and legal defense.
+
+## 세줄요약
+
+20편 종합: 환자 민원을 분류(Reader 2014 SR 88,069건 — 임상 33.7%·관리 35.1%·관계 29.1%; HCAT 7범주) → 기대 파악(민원인은 재발방지·정직한 설명 우선, 금전 7%뿐, Friele 2006) → 대응(방어성은 구조적 문제, "fauxpology"·주관화가 실패 패턴, Gillespie 2025) → 교육(CODE 모델: 운영·대인 훈련 병행, Elias 2025)의 4단계 파이프라인.
+
+치과 적용층: 치과의사 민원율 최고(42.7/1,000/년, Thomas 2018), 근관치료 의료과실 노출 최대; 한국 부제소 합의는 26.5%만 후속 소송 차단(Kwon 2017).
+
+임상 결론: 대응·교육층이 클리닉이 통제할 수 있는 가장 강한 lever — 분류는 민원을 안전사건 신호로 전환하고(불만의 60%에서 더 큰 위해 확인, Van Dael 2022), 러버댐·기록 충실도는 임상 안전이자 법적 방어다.
 
 ## Thesis
 Patient complaints are not noise to be deflected but a structured information source for safety and quality. The evidence converges on a single actionable claim: dissatisfaction persists less because of the original clinical error than because of *how the complaint is classified, what the complainant actually wanted, and how the response is worded*. The strongest lever a clinic controls is therefore the response-and-training layer, supported by a structured classification habit. This overview organises twenty papers into the pipeline **classification → expectation → response → education**, then adds a **dental applied** layer (epidemiology, medico-legal, procedural risk) and a **litigation** tail (settlement validity, infection liability, national claim trends).
@@ -110,9 +120,9 @@ For a dental practice translating this evidence into operating procedure:
 8. **Write settlement agreements for content, not ritual.** In Korean precedents only 26.5% of covenant-not-to-sue settlements actually barred a later claim — enforceability turns on what the agreement *says* (scope, waived claims, consideration), and goodwill free re-treatment is not credited against compensation (Kwon 2017). For surgical dentistry, the recurring liability grounds are concrete and pre-emptable: culture and treat infection promptly, refer when indicated, document infection control, and obtain explicit preoperative consent covering infection risk — a missing infection-consent is independently actionable (Park 2016). At the macro level, East Asian malpractice claims mostly settle and judged cases lean physician-favorable (Taniguchi 2023, JP 75.8%), but that tilt does not dilute the case-level grounds.
 
 ## Gaps & Future Research
-- **No dental-specific HCAT validation.** Classification evidence is hospital/nursing-derived; transferability to private dental complaints is interpretive [claude해석]. A dental HCAT adaptation is an open opportunity.
-- **No controlled CODE outcome data.** Elias 2025 is descriptive; effectiveness vs usual training is untested [추정].
-- **Korean context now partial.** Korean court-precedent evidence on settlement-agreement validity and SSI liability is now in (Kwon 2017, Park 2016), and Japanese national trends add an East Asian macro frame (Taniguchi 2023) — but all three are plastic-surgery / cross-specialty, applied to dentistry by analogy of shared civil-law structure [claude해석]. Korean *dental*-specific complaint epidemiology and consumer-dispute pathways remain uncovered — see [[practice-management/ha-2023-dentist-issues-constitutional-court-decisions]] for adjacent Korean legal material.
+- **No dental-specific HCAT validation.** Classification evidence is hospital/nursing-derived; transferability to private dental complaints is interpretive [미검증]. A dental HCAT adaptation is an open opportunity.
+- **No controlled CODE outcome data.** Elias 2025 is descriptive; effectiveness vs usual training is untested [미검증].
+- **Korean context now partial.** Korean court-precedent evidence on settlement-agreement validity and SSI liability is now in (Kwon 2017, Park 2016), and Japanese national trends add an East Asian macro frame (Taniguchi 2023) — but all three are plastic-surgery / cross-specialty, applied to dentistry by analogy of shared civil-law structure [미검증]. Korean *dental*-specific complaint epidemiology and consumer-dispute pathways remain uncovered — see [[practice-management/ha-2023-dentist-issues-constitutional-court-decisions]] for adjacent Korean legal material.
 - **Sentiment analytics are language-bound.** Zheng 2025's emotional-language model is Chinese-trained; a Korean complaint-text model would need separate development.
 - **Weak causal designs on the response side.** Li 2024 and most response-axis studies are pre/post or case studies; the field lacks RCT-level evidence that a given response protocol changes resolution rates.
 
@@ -126,3 +136,10 @@ For a dental practice translating this evidence into operating procedure:
 - [[behavioral-dentistry/body-dysmorphic-disorder/nabavizadeh-2023-prevalence-of-body-dysmorphic-disorder]] — adjacent (upstream): BDD as a patient-selection driver of esthetic-procedure dissatisfaction that feeds the complaint/litigation tail.
 - [[behavioral-dentistry/communication-relationship/ho-2025-overview-dentist-patient-communication-quality]] — adjacent: dentist–patient communication quality.
 - [[practice-management/ha-2023-dentist-issues-constitutional-court-decisions]] — adjacent: Korean dental legal/regulatory context.
+- [[overviews/patient-safety-culture-dentistry-overview]] — upstream: "fix the system, not the sentence" — safety culture, teamwork, and non-punitive reporting are the structural preconditions that keep complaints from recurring.
+
+## Evidence Update — Written Informed Consent and Litigation Outcomes in Cosmetic Procedures (Grillo 2023)
+
+Grillo 2023 (retrospective 10-year litigation analysis, Brazil 2012–2022; 992 facial cosmetic surgery cases, 122 meeting inclusion criteria) provides litigation-level data on the protective value of written informed consent (WIC). Appropriate WIC was associated with **favorable defendant outcomes**, significantly reducing both litigation losses and financial damage. Mean financial damage was $59,536 (range $75–$500,000). Female patients were significantly more prone to initiating litigation, and the number of legal disputes increased over the decade — consistent with rising patient aesthetic expectations and awareness. For dental cosmetic procedures (whitening, veneers, implant aesthetics), this forensic data reinforces the complaint management framework in this overview: rigorous WIC documentation is not just an ethical obligation but a quantifiable litigation-risk reduction tool.
+
+- [[complaint-management/grillo-2023-written-informed-consent-facial-cosmetic]] — 10-yr litigation study: WIC → fewer losses + lower financial damage ($59K mean); female patients more litigious; cosmetic procedures need rigorous consent documentation.

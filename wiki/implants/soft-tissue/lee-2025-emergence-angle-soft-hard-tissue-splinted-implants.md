@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1111/clr.70035
 source: lee-2025-emergence-angle-soft-hard-tissue-splinted-implants.md
 category: [implants/soft-tissue]
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/lee-2025-emergence-angle-soft-hard-tissue-splinted-implants.txt
 pdf_filename: lee-2025-emergence-angle-soft-hard-tissue-splinted-implants.txt
 source_collection: pubmed-text
@@ -22,11 +22,21 @@ relations:
     target: jensen-2023-iti-consensus-bone-dimensions-soft-tissue
 ---
 
-## One-line Summary
-Beagle dog split-mouth preclinical study (n=5 dogs, 30 implants, 30° narrow vs 60° wide emergence angle, splinted prostheses, 6-month function): wide emergence angle produced greater crestal bone remodeling (24-wk T-splint 1.4 vs 0.57 mm), larger infiltrated connective tissue, shorter connective tissue attachment (~0.7 vs ~1.1 mm), and reduced peri-implant epithelial collagen — failing to form an adequate soft tissue seal.
+## Three-line Summary
 
-## 한줄요약
-비글견 split-mouth 전임상 (n=5, 임플란트 30개): 넓은 출현각 (Emergence Angle 60°)이 좁은 각도 (30°)보다 변연골 개조를 더 일으키고 결합조직 부착을 짧게(~0.7 vs ~1.1 mm) 만들어 안정적 연조직 봉쇄 (Soft Tissue Seal) 형성을 방해했다.
+Beagle dog split-mouth preclinical study (5 dogs, 30 equicrestal implants as three-implant splints per side; narrow 30° vs wide 60° emergence angle; 6 months of function) using radiographic, histomorphometric, and polarized-light collagen quantification outcomes.
+
+Wide emergence angle (60°) produced greater crestal bone remodeling at 24 weeks (T-splint: 1.4 vs 0.57 mm), larger infiltrated connective tissue zone, shorter connective tissue attachment (~0.7 vs ~1.1 mm), longer junctional epithelium (~2.7 vs ~2.1 mm), and lower peri-implant epithelial collagen fraction compared to narrow (30°).
+
+Wide prosthetic emergence angle compromises biologic width formation and the soft tissue seal — the mechanistic chain is wide contour → inadequate connective tissue adhesion → bacterial infiltration → bone remodeling — making emergence angle a modifiable prosthetic risk factor for peri-implant disease.
+
+## 세줄요약
+
+비글견 split-mouth 전임상 연구(5마리, 임플란트 30개: 3개 연결 스플린트/측; 좁은 30° vs 넓은 60° 출현각(Emergence Angle, EA); 6개월 기능 부하): 방사선·조직형태계측·편광 콜라겐 정량 평가.
+
+넓은 출현각(60°)이 24주 변연골 개조 증가(T-splint: 1.4 vs 0.57 mm), 침윤 결합조직 구역 확대, 결합조직 부착 단축(~0.7 vs ~1.1 mm), 접합상피 연장(~2.7 vs ~2.1 mm), 임플란트 주위 상피 콜라겐 분율 감소를 초래하였다.
+
+넓은 보철 출현각은 생물학적 폭경(Biologic Width) 형성과 연조직 봉쇄를 방해하며 — 넓은 윤곽→결합조직 접착 불충분→세균 침투→골 개조의 기전으로 — 출현각은 임플란트 주위 질환의 수정 가능한 보철 위험인자이다.
 
 ## Summary
 This is the first preclinical animal study to test how the **restorative prosthetic emergence angle** — not merely abutment geometry — affects peri-implant soft and hard tissues. In a split-mouth design across 5 beagle dogs (30 implants placed equicrestally as three-implant splints per hemi-mandible), each side received custom titanium abutments with either a **narrow (NE, 30°)** or **wide (WE, 60°)** emergence angle, restored with splinted resin crowns and followed for 6 months of function. Radiographs (0/4/12/24 wk), undecalcified histomorphometry, and circularly polarized light collagen quantification were stratified by splint position (T-end, T-splint, M-splint).

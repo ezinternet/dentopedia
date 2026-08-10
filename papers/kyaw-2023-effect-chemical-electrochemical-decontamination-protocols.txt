@@ -1,0 +1,29 @@
+SOURCE: PubMed abstract (full text not retrieved — no PMC; paywalled)
+PMID: 37654160 | DOI: 10.1111/cid.13269
+Kyaw TT, Abdou A, Arunjaroensuk S, Nakata H, Kanazawa M, Pimkhaokham A.
+"Effect of chemical and electrochemical decontamination protocols on single and multiple-used healing abutments: A comparative analysis of contact surface area, micro-gap, micro-leakage, and surface topography."
+Clin Implant Dent Relat Res. 2023;25(6):1207-1215. (e-pub 2023-09-01)
+
+== ABSTRACT (full) ==
+Aim: Although combined chemical + electrochemical decontamination can completely remove contaminants from ONE-TIME used HAs, effectiveness in MULTIPLE-used HAs is unknown. Investigate effect of reuse frequency on implant–HA contact surface area, micro-gap, microleakage, and surface topography after chemical vs combined chemical+electrochemical decontamination.
+
+Methods: 90 bone-level titanium implants assembled with 90 bone-level HAs; 80 contaminated HAs collected from human participants. Divided by cleaning protocol:
+- Group I: ultrasonication with 5.25% NaOCl 15 min + steam autoclave.
+- Group II: ultrasonication with 5.25% NaOCl 15 min + ELECTROCHEMICAL cleaning + steam autoclave.
+- Group III (control): 10 new unused HAs.
+Cleaning applied after each insertion: (a) single-use+1 cycle, (b) double-use+2 cycles, (c) triple-use+3 cycles, (d) >triple-use+>3 cycles.
+Assessed: contact surface area + micro-gap by micro-CT; microleakage by 2% methylene blue; surface morphology by SEM; elemental composition by EDX.
+
+Results:
+- Group Id (NaOCl only, >triple use) = smallest contact surface area.
+- Micro-gap volume + microleakage differed significantly (p<0.001), descending: Id > Ic > Ib > IId > Ia, IIa, and III.
+  (i.e., repeated NaOCl-only use worsened micro-gap/leakage; combined + electrochemical stayed near control.)
+- Groups IIa, IIb, IIc (combined, up to triple use): residual biological debris optimally removed WITHOUT altering surface properties.
+
+Conclusions:
+- Combined chemical + electrochemical decontamination is MORE effective than NaOCl alone, particularly for multiple consecutive uses — decreases micro-gap volume + microleakage without surface alterations.
+- Titanium HA reuse can be considered MULTIPLE times IF cleaned + sterilized with combined chemical + electrochemical decontamination protocols.
+- NaOCl-only cleaning changed the implant–HA contact surface area.
+
+Study type: Randomized Controlled Trial (highest design in the set — bench/RCT on retrieved HAs). Pro-reuse-with-rigorous-protocol pole.
+MeSH: Decontamination, Dental Implants, SEM, Steam, Surface Properties, Titanium, X-Ray Microtomography.

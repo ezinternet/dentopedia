@@ -1,0 +1,348 @@
+<!--
+---
+title: "GCF 바이오마커 매트릭스 chairside 결정도구 (Gingival Crevicular Fluid Biomarker Matrix)"
+type: interactive
+date: 2026-07-23
+status: done
+category: overviews
+agenda: agenda/2026-07-03_gcf-biomarker-interactive.md
+source_wiki:
+  - wiki/overviews/gingival-crevicular-fluid-biomarker-diagnostics-overview.md
+  - wiki/oral-microbiology/teles-2024-salivary-biomarkers-periodontitis-progression.md
+  - wiki/oral-microbiology/regueira-iglesias-2024-salivary-microbiome-periodontitis-diagnostic.md
+  - wiki/periodontics/non-surgical-instrumentation/donertas-2026-gbt-subgingival-debridement-gcf-biomarkers.md
+  - wiki/periodontics/cosin-villanueva-2024-micrornas-gingival-crevicular-fluid-periodontal.md
+  - wiki/periodontics/fadli-2024-oral-gingival-crevicular-fluid-jawbone-turnover.md
+  - wiki/periodontics/foroughi-2025-bridging-oral-systemic-health-periodontal.md
+  - wiki/orthodontics/bud-2024-gingival-crevicular-fluid-biomarkers-orthodontic.md
+---
+-->
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>GCF 바이오마커 매트릭스 결정도구</title>
+<style>
+  :root {
+    --bg: #f4f6f9;
+    --card: #ffffff;
+    --ink: #17233d;
+    --muted: #5a6478;
+    --line: #e2e7ef;
+    --accent: #2563a8;
+    --accent-soft: #e5eefa;
+    /* function-layer colors */
+    --inf: #b4452b;      --inf-soft: #fbe9e4;   /* inflammatory cytokines */
+    --enz: #7a5cb8;      --enz-soft: #efe9fb;   /* enzymes / MMP */
+    --bone: #b8860b;     --bone-soft: #fbf2dc;  /* bone-turnover */
+    --epi: #1f7a6b;      --epi-soft: #e3f3ef;   /* epigenetic miRNA */
+    --shadow: 0 2px 10px rgba(20,30,55,.07);
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Noto Sans KR', 'Segoe UI', sans-serif;
+    background: var(--bg); color: var(--ink);
+    padding: 22px 14px 60px; min-height: 100vh; line-height: 1.55;
+  }
+  .container { max-width: 820px; margin: 0 auto; }
+  header h1 { font-size: 1.4rem; letter-spacing: -.02em; }
+  header p.sub { color: var(--muted); font-size: .88rem; margin-top: 6px; }
+  .tabs { display:flex; gap:8px; margin: 20px 0 18px; flex-wrap: wrap; }
+  .tab {
+    flex:1; min-width: 130px; text-align:center; padding:11px 10px; border:1.5px solid var(--line); border-radius:11px;
+    background:var(--card); cursor:pointer; font-size:.9rem; font-weight:700; color:var(--muted); transition:all .14s;
+  }
+  .tab.active { border-color:var(--accent); background:var(--accent-soft); color:var(--accent); }
+  .tab:hover { border-color:var(--accent); }
+  .view { display:none; }
+  .view.active { display:block; animation: fade .18s ease; }
+  @keyframes fade { from { opacity:0; transform: translateY(4px); } to { opacity:1; transform:none; } }
+  .card { background:var(--card); border:1px solid var(--line); border-radius:14px; padding:18px; box-shadow:var(--shadow); margin-bottom:14px; }
+  h2 { font-size:1.05rem; margin-bottom:4px; }
+  h3 { font-size:.95rem; margin: 14px 0 6px; }
+  .hint { color:var(--muted); font-size:.85rem; margin-bottom:12px; }
+  /* purpose selector */
+  .purposes { display:grid; grid-template-columns: 1fr; gap:10px; }
+  @media(min-width:620px){ .purposes { grid-template-columns: repeat(3,1fr); } }
+  .purpose {
+    border:1.5px solid var(--line); border-radius:12px; padding:14px; cursor:pointer; background:var(--card); transition:all .14s; text-align:left;
+  }
+  .purpose:hover { border-color:var(--accent); transform: translateY(-2px); }
+  .purpose.active { border-color:var(--accent); background:var(--accent-soft); }
+  .purpose .ic { font-size:1.5rem; }
+  .purpose .t { font-weight:800; font-size:.95rem; margin:6px 0 3px; }
+  .purpose .d { font-size:.8rem; color:var(--muted); }
+  #result { margin-top:6px; }
+  .panel-markers { display:flex; flex-wrap:wrap; gap:7px; margin:8px 0 4px; }
+  .chip { display:inline-flex; align-items:center; gap:5px; padding:5px 11px; border-radius:20px; font-size:.83rem; font-weight:700; border:1px solid transparent; }
+  .chip.inf { background:var(--inf-soft); color:var(--inf); }
+  .chip.enz { background:var(--enz-soft); color:var(--enz); }
+  .chip.bone { background:var(--bone-soft); color:var(--bone); }
+  .chip.epi { background:var(--epi-soft); color:var(--epi); }
+  .kv { margin:10px 0; }
+  .kv .k { font-weight:700; font-size:.82rem; color:var(--accent); text-transform:uppercase; letter-spacing:.03em; }
+  .kv .v { font-size:.9rem; margin-top:2px; }
+  .cite { font-size:.78rem; color:var(--muted); font-style:italic; }
+  .warn-box { background:var(--inf-soft); border-left:4px solid var(--inf); border-radius:8px; padding:10px 12px; font-size:.84rem; margin-top:10px; }
+  /* matrix table */
+  .filters { display:flex; flex-wrap:wrap; gap:7px; margin-bottom:12px; }
+  .fbtn { padding:6px 12px; border-radius:18px; border:1.5px solid var(--line); background:var(--card); cursor:pointer; font-size:.82rem; font-weight:700; color:var(--muted); }
+  .fbtn.active { color:#fff; }
+  .fbtn[data-l="all"].active { background:var(--accent); border-color:var(--accent); }
+  .fbtn[data-l="inf"].active { background:var(--inf); border-color:var(--inf); }
+  .fbtn[data-l="enz"].active { background:var(--enz); border-color:var(--enz); }
+  .fbtn[data-l="bone"].active { background:var(--bone); border-color:var(--bone); }
+  .fbtn[data-l="epi"].active { background:var(--epi); border-color:var(--epi); }
+  .tbl-wrap { overflow-x:auto; }
+  table { border-collapse:collapse; width:100%; font-size:.83rem; min-width: 560px; }
+  th, td { text-align:left; padding:9px 10px; border-bottom:1px solid var(--line); vertical-align:top; }
+  th { font-size:.76rem; text-transform:uppercase; letter-spacing:.03em; color:var(--muted); background:#fafbfd; position:sticky; top:0; }
+  td.marker { font-weight:800; white-space:nowrap; }
+  .dot { display:inline-block; width:9px; height:9px; border-radius:50%; margin-right:6px; vertical-align:middle; }
+  .dot.inf{background:var(--inf);} .dot.enz{background:var(--enz);} .dot.bone{background:var(--bone);} .dot.epi{background:var(--epi);}
+  tr[data-layer] { transition: opacity .12s; }
+  tr.hidden { display:none; }
+  /* compartment */
+  .comp-grid { display:grid; grid-template-columns:1fr; gap:12px; }
+  @media(min-width:620px){ .comp-grid { grid-template-columns: repeat(3,1fr); } }
+  .comp { border:1.5px solid var(--line); border-radius:12px; padding:14px; }
+  .comp.gcf { border-top:4px solid var(--accent); }
+  .comp.sal { border-top:4px solid var(--epi); }
+  .comp.blood { border-top:4px solid var(--inf); }
+  .comp h4 { font-size:1rem; margin-bottom:2px; }
+  .comp .scope { font-size:.78rem; color:var(--muted); margin-bottom:8px; }
+  .comp ul { list-style:none; font-size:.83rem; }
+  .comp li { padding:3px 0 3px 16px; position:relative; }
+  .comp li.pro::before { content:"＋"; position:absolute; left:0; color:var(--epi); font-weight:800; }
+  .comp li.con::before { content:"−"; position:absolute; left:0; color:var(--inf); font-weight:800; }
+  .legend { display:flex; flex-wrap:wrap; gap:12px; font-size:.78rem; color:var(--muted); margin:2px 0 14px; }
+  .legend span { display:inline-flex; align-items:center; }
+  .foot { font-size:.8rem; color:var(--muted); margin-top:8px; }
+  .foot a { color:var(--accent); }
+  code { background:#eef1f6; padding:1px 5px; border-radius:5px; font-size:.85em; }
+</style>
+</head>
+<body>
+<div class="container">
+  <header>
+    <h1>🧪 GCF 바이오마커 매트릭스 결정도구</h1>
+    <p class="sub">치은열구액(Gingival Crevicular Fluid, GCF) — 부위특이·비침습 삼출액. GCF 5편 + 타액 대조축 2편 종합 근거 기반. <b>연구·모니터링 도구</b>이지 아직 독립 진단검사가 아님.</p>
+  </header>
+
+  <div class="tabs">
+    <div class="tab active" data-tab="decide">🎯 결정도구</div>
+    <div class="tab" data-tab="matrix">📊 바이오마커 매트릭스</div>
+    <div class="tab" data-tab="sample">💧 시료 선택</div>
+  </div>
+
+  <!-- ============ TAB 1: DECISION ============ -->
+  <section class="view active" id="decide">
+    <div class="card">
+      <h2>무엇을 감시하려는가?</h2>
+      <p class="hint">임상 목적을 고르면 GCF 마커 패널·읽는 의미·채취법·핵심 수치·주의점을 돌려줍니다.</p>
+      <div class="purposes">
+        <button class="purpose" data-p="perio">
+          <div class="ic">🦠</div>
+          <div class="t">치주 진단·치료반응</div>
+          <div class="d">중증도 판정 / SRP·GBT 전후 추세</div>
+        </button>
+        <button class="purpose" data-p="ortho">
+          <div class="ic">🦷</div>
+          <div class="t">교정 치아이동(OTM) 모니터링</div>
+          <div class="d">활성 이동 확인 / 압박·긴장측</div>
+        </button>
+        <button class="purpose" data-p="bone">
+          <div class="ic">🩻</div>
+          <div class="t">골대사·전신 read-out</div>
+          <div class="d">골흡수/형성 / 전신위험 층화</div>
+        </button>
+      </div>
+    </div>
+    <div class="card" id="result" style="display:none;"></div>
+  </section>
+
+  <!-- ============ TAB 2: MATRIX ============ -->
+  <section class="view" id="matrix">
+    <div class="card">
+      <h2>바이오마커 매트릭스</h2>
+      <p class="hint">마커 × 기능계층 × 읽는 의미 × 근거논문. 계층으로 필터하세요.</p>
+      <div class="legend">
+        <span><span class="dot inf"></span>염증 사이토카인</span>
+        <span><span class="dot enz"></span>효소·MMP</span>
+        <span><span class="dot bone"></span>골대사 조절</span>
+        <span><span class="dot epi"></span>후성유전 miRNA</span>
+      </div>
+      <div class="filters">
+        <button class="fbtn active" data-l="all">전체</button>
+        <button class="fbtn" data-l="inf">염증</button>
+        <button class="fbtn" data-l="enz">효소/MMP</button>
+        <button class="fbtn" data-l="bone">골대사</button>
+        <button class="fbtn" data-l="epi">miRNA</button>
+      </div>
+      <div class="tbl-wrap">
+        <table id="mtable">
+          <thead><tr><th>마커</th><th>읽는 의미</th><th>핵심 수치·특징</th><th>근거</th></tr></thead>
+          <tbody>
+            <tr data-layer="inf"><td class="marker"><span class="dot inf"></span>IL-1β</td><td>활성 염증 — GCF 5편 전부 관통하는 최견고 마커, 타액에서도 진행 신호</td><td>GBT가 기존치료 대비 유의 감소(1·3개월, <code>p&lt;0.05</code>); OTM 초기 이동 구동</td><td>Donertas · Bud · Fadli · Foroughi</td></tr>
+            <tr data-layer="inf"><td class="marker"><span class="dot inf"></span>TNF-α</td><td>염증 매개; 고민감·저특이(전신염증 시)</td><td>OTM 1–24h 상승; GBT-RCT에선 군간 차이 없음</td><td>Bud · Donertas · Foroughi</td></tr>
+            <tr data-layer="inf"><td class="marker"><span class="dot inf"></span>PGE2</td><td>골흡수 촉진; 압박·긴장 양측 상승</td><td>압박 PDL세포에서 FAK·PGE2 활성↑</td><td>Bud</td></tr>
+            <tr data-layer="inf"><td class="marker"><span class="dot inf"></span>IL-34</td><td>치주염 GCF 유의 골대사 패널</td><td>파골세포 분화 관여</td><td>Fadli</td></tr>
+            <tr data-layer="enz"><td class="marker"><span class="dot enz"></span>MMP-9</td><td>조직 재형성; <b>활성 치아이동 초기마커</b></td><td>교정력 후 <b>4시간 내 검출</b>, OTM 내내 상승</td><td>Bud · Foroughi</td></tr>
+            <tr data-layer="enz"><td class="marker"><span class="dot enz"></span>MMP-8</td><td>치주 염증·조직 붕괴</td><td>GBT-RCT에선 군간 차이 없음</td><td>Foroughi · Donertas</td></tr>
+            <tr data-layer="enz"><td class="marker"><span class="dot enz"></span>ALP</td><td>골<b>형성</b> 효소 — 긴장측</td><td>day 14 상승, 긴장&gt;압박; Twin Block&gt;Clear Block/Forsus</td><td>Bud</td></tr>
+            <tr data-layer="bone"><td class="marker"><span class="dot bone"></span>RANKL : OPG 비</td><td>골재형성 <b>마스터 스위치</b>; 흡수에 특이적</td><td>압박 RANKL↑·OPG↓(흡수) / 긴장 OPG↑(형성)</td><td>Bud · Foroughi · Fadli</td></tr>
+            <tr data-layer="bone"><td class="marker"><span class="dot bone"></span>스클레로스틴(Sclerostin)</td><td>Wnt 억제 → 골형성 억제 마커</td><td>치주염 GCF 유의 패널</td><td>Fadli</td></tr>
+            <tr data-layer="bone"><td class="marker"><span class="dot bone"></span>오스테오칼신(OC)</td><td>골형성/대사 — 후기 상</td><td>GCF peak day 7–14, day 14·21 유의 상승</td><td>Bud · Fadli</td></tr>
+            <tr data-layer="bone"><td class="marker"><span class="dot bone"></span>N-telopeptide(NTx)</td><td>골<b>흡수</b> 마커 — 후기 상</td><td>day 7→21 상승, day 21 최대</td><td>Bud</td></tr>
+            <tr data-layer="epi"><td class="marker"><span class="dot epi"></span>miR-146a</td><td>TLR신호/사이토카인 조절 — 진단후보</td><td><b>AUC &gt; 0.8</b> 진단 타당성; GCF 내 방향 미확정</td><td>Cosín-Villanueva</td></tr>
+            <tr data-layer="epi"><td class="marker"><span class="dot epi"></span>miR-200b (200b-3p)</td><td>면역세포 분화·초기 염증 — 진단후보</td><td><b>AUC &gt; 0.8</b>; 치주염+당뇨/CVD 동반 시 더↑</td><td>Cosín-Villanueva</td></tr>
+            <tr data-layer="epi"><td class="marker"><span class="dot epi"></span>miR-223</td><td>선천면역·파골세포 분화 — 진단후보</td><td><b>AUC &gt; 0.8</b>; 당뇨 동반 시 더↑</td><td>Cosín-Villanueva</td></tr>
+            <tr data-layer="epi"><td class="marker"><span class="dot epi"></span>miR-23a</td><td>골형성 억제(파괴적) — 진단후보</td><td><b>AUC &gt; 0.8</b>; 초기 병기 상승</td><td>Cosín-Villanueva</td></tr>
+            <tr data-layer="epi"><td class="marker"><span class="dot epi"></span>miR-203</td><td>VEGFA 표적·혈관신생 억제 — <b>보호인자</b></td><td><b>AUC &gt; 0.8 미달</b> → 진단마커 ✗ (치료표적 후보)</td><td>Cosín-Villanueva</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ TAB 3: COMPARTMENT ============ -->
+  <section class="view" id="sample">
+    <div class="card">
+      <h2>어느 시료를 채취할까?</h2>
+      <p class="hint">"어떤 신호가 필요한가"로 시료를 고릅니다. <b>구강강 특이 마커는 없음</b> — 모두 전신 유래라 단일마커 질병특이 진단은 불가.</p>
+      <div class="comp-grid">
+        <div class="comp gcf">
+          <h4>💧 GCF</h4>
+          <div class="scope">단일 부위 / 치아</div>
+          <ul>
+            <li class="pro">부위특이 — 국소 치주·골 반응 직접 반영</li>
+            <li class="pro">비침습·반복 가능 (흡수지 스트립 30–60초, 무손상)</li>
+            <li class="con">미량 — 부위별 채취 번거로움</li>
+            <li class="con">혈액·타액 오염 주의(오염 시 폐기)</li>
+          </ul>
+        </div>
+        <div class="comp sal">
+          <h4>🫗 타액(Saliva)</h4>
+          <div class="scope">전악 평균</div>
+          <ul>
+            <li class="pro">편리·대용량 — 스크리닝 적합</li>
+            <li class="pro"><b>진행(progression)을 잡는 유일한 매체</b> — 진행군에서 IFNγ·IL-6·VEGF·IL-1β·MMP-8·IL-10·OPG 상승 (Teles 2024, 전향 415명·1년)</li>
+            <li class="pro">미생물 DNA 축도 성립 — 타액 16S 분류기 AUC 0.944 (Regueira-Iglesias 2024, 796명)</li>
+            <li class="con">희석된 전악 평균 — 비특이</li>
+            <li class="con">GCF 마커가 대거 중첩됨(GCF는 타액의 일부)</li>
+          </ul>
+        </div>
+        <div class="comp blood">
+          <h4>🩸 혈액/혈청</h4>
+          <div class="scope">전신</div>
+          <ul>
+            <li class="pro">표준 골대사·염증 패널(CRP·IL-6)</li>
+            <li class="pro">치료 반응은 반영 — NSPT 후 CRP·MMP-8·MMP-9·MPO 감소</li>
+            <li class="con">침습적</li>
+            <li class="con">부위 아닌 전신 상태 반영</li>
+            <li class="con"><b>진행 감시엔 부적합</b> — 혈청 지표는 진행과 연관 없음 (Teles 2024)</li>
+          </ul>
+        </div>
+      </div>
+      <div class="warn-box">
+        <b>규칙:</b> 부위특이 신호(단일치아 치주 추세·활성 OTM) → <b>GCF</b> · 전악 스크리닝 → <b>타액</b> · 전신부하 → <b>혈액</b>. 부위특이 GCF의 자매 종합은 전악 타액 <a href="#" onclick="return false;">saliva-diagnostics overview</a> 참고.
+      </div>
+      <div class="warn-box">
+        <b>2026-07-23 갱신 — 목적별로 매체를 갈라야 한다:</b> 위 규칙(<i>공간 해상도</i> 기준)에 <b>목적</b> 축이 하나 더 붙는다. <b>활성도·진행 감시</b>가 목적이면 <b>타액이 1순위이고 혈청은 쓰지 않는다</b> — 302명 치주염 + 113명 건강군을 2개월마다 1년 추적한 전향 연구에서 타액 지표는 진행군을 갈라냈지만 <b>혈청 지표는 진행과 전혀 연관되지 않았다</b>(Teles 2024). 혈청은 <i>치료 효과</i> 매체이지 <i>진행 탐지</i> 매체가 아니다. 진행 신호 핵심 3종 = <b>IFNγ·IL-1β·MMP-8</b>이며, 이 중 IL-1β·MMP-8은 GCF 축의 최견고 마커와 겹친다 — 두 매체가 같은 분자를 다른 공간 해상도로 본다.
+      </div>
+    </div>
+  </section>
+
+  <div class="card">
+    <h3>⚠️ 공통 한계 (모든 목적에 적용)</h3>
+    <ul style="font-size:.85rem; padding-left:18px;">
+      <li>구강강 특이 마커 부재 — 단일마커 질병특이 진단 불가 (Fadli)</li>
+      <li>표준 컷오프·수집 표준화 부재 → 이질성으로 메타분석 불가 (Cosín-Villanueva)</li>
+      <li>MRONJ의 인체 GCF 연구 전무 — 타액(MMP-9/TNF-α/IL-6)이 현재 유일 신호 (Fadli)</li>
+      <li>효소면역측정법(ELISA) 비용·시간이 chairside 병목 → 멀티플렉스 POC(LFA·바이오센서·미세유체)+AI가 해법 (Foroughi)</li>
+    </ul>
+    <p class="foot">근거: GCF 바이오마커 종합 overview + GCF 5편(Donertas 2026 RCT · Cosín-Villanueva 2024 SR · Fadli 2024 scoping · Foroughi 2025 narrative · Bud 2024 narrative) + 타액 대조축 2편(Teles 2024 전향 코호트 415명 · Regueira-Iglesias 2024 단면 796명, 2026-07-23 추가). 모든 수치는 해당 논문에서 인용 — 신규 생성 없음.</p>
+  </div>
+</div>
+
+<script>
+  // tabs
+  document.querySelectorAll('.tab').forEach(t=>{
+    t.addEventListener('click',()=>{
+      document.querySelectorAll('.tab').forEach(x=>x.classList.remove('active'));
+      document.querySelectorAll('.view').forEach(x=>x.classList.remove('active'));
+      t.classList.add('active');
+      document.getElementById(t.dataset.tab).classList.add('active');
+    });
+  });
+
+  // decision panels
+  const DATA = {
+    perio: {
+      title: "🦠 치주 진단·치료반응",
+      markers: [["IL-1β","inf"],["TNF-α","inf"],["MMP-8","enz"],["MMP-9","enz"],["miR-146a","epi"],["miR-200b","epi"],["miR-223","epi"],["miR-23a","epi"]],
+      primary: "IL-1β (치료반응) · miRNA 4종 (진단)",
+      read: "중증도는 사이토카인/MMP가 병기와 함께 상승(건강 &lt; 치은염 &lt; 치주염). 진단 후보 miRNA는 AUC>0.8 기준으로 miR-146a·200b(-3p)·223·23a 합격, miR-203 불합격(보호인자).",
+      number: "Donertas RCT(n=80, Stage 1–2): GBT가 기존 큐렛+초음파 대비 GI·PI·GCF IL-1β 유의 감소(1·3개월, p&lt;0.05). 단 TNF-α·IL-10·MMP-8은 군간 차이 없음.",
+      sample: "흡수지 스트립 30–60초, 대상 치아 열구. 혈액/타액 오염 시 폐기.",
+      caveat: "마커 선택이 결론을 좌우 — GBT의 이점은 IL-1β에 국한(TNF-α/MMP-8엔 없음). 치은염·교합·위생 confounder 통제 필요.",
+      cite: "Donertas 2026 · Cosín-Villanueva 2024"
+    },
+    ortho: {
+      title: "🦷 교정 치아이동(OTM) 모니터링",
+      markers: [["MMP-9","enz"],["IL-1β","inf"],["TNF-α","inf"],["PGE2","inf"],["RANKL:OPG","bone"],["ALP","bone"],["OC","bone"],["NTx","bone"]],
+      primary: "MMP-9 (초기·활성) · RANKL:OPG (재형성 방향)",
+      read: "초기 염증상(IL-1β·TNF-α·PGE2·MMP-9) → 후기 골대사상(ALP·OC·NTx). 압박측 RANKL↑·OPG↓(흡수), 긴장측 OPG↑·ALP↑(형성).",
+      number: "MMP-9는 교정력 후 4시간 내 검출되는 활성 치아이동 초기마커. ALP는 day 14 긴장측 상승, OC는 GCF peak day 7–14, NTx는 day 21 최대.",
+      sample: "흡수지 스트립 30–60초. 압박측·긴장측 구분 채취. 전신건강자 대상 연구 기준.",
+      caveat: "GCF 신호를 OTM에 귀속시키려면 치은염·교합력·위생을 통제해야 함. ELISA 비용/복잡성이 일상화 장벽.",
+      cite: "Bud 2024"
+    },
+    bone: {
+      title: "🩻 골대사·전신 read-out",
+      markers: [["RANKL:OPG","bone"],["스클레로스틴","bone"],["OPG","bone"],["IL-34","inf"],["MMP-8","enz"],["MMP-9","enz"]],
+      primary: "RANKL:OPG 비 (골흡수 특이) · 스클레로스틴/OPG/IL-34 패널",
+      read: "GCF 유의 골대사 패널 = IL-1β·스클레로스틴·OPG·IL-34(주로 치주염·골다공증). RANKL:OPG 비는 골흡수에 신뢰성 있게 특이적. 전신위험(CVD·당뇨·RA 등) 층화엔 CRP+IL-6(혈액)와 상보.",
+      number: "골다공증: 비스포스포네이트 3–6개월 후 GCF OPG↑. CRP+IL-6 병합은 유의한 CVD 예측인자(Foroughi 인용).",
+      sample: "GCF(부위) + 타액/혈액(전신) 병용 권장. GCF는 타액의 일부라 마커 중첩.",
+      caveat: "MRONJ는 인체 GCF 연구 전무 — 현재 타액(MMP-9/TNF-α/IL-6)이 유일 신호. 어떤 마커도 구강강 특이 아님 → 단독 질병특이 진단 불가.",
+      cite: "Fadli 2024 · Foroughi 2025"
+    }
+  };
+  const layerName = {inf:"염증", enz:"효소/MMP", bone:"골대사", epi:"miRNA"};
+  document.querySelectorAll('.purpose').forEach(b=>{
+    b.addEventListener('click',()=>{
+      document.querySelectorAll('.purpose').forEach(x=>x.classList.remove('active'));
+      b.classList.add('active');
+      const d = DATA[b.dataset.p];
+      const chips = d.markers.map(m=>`<span class="chip ${m[1]}">${m[0]}</span>`).join('');
+      const r = document.getElementById('result');
+      r.style.display='block';
+      r.innerHTML = `
+        <h2>${d.title}</h2>
+        <div class="panel-markers">${chips}</div>
+        <div class="kv"><div class="k">1차 마커</div><div class="v">${d.primary}</div></div>
+        <div class="kv"><div class="k">읽는 의미</div><div class="v">${d.read}</div></div>
+        <div class="kv"><div class="k">핵심 수치</div><div class="v">${d.number}</div></div>
+        <div class="kv"><div class="k">채취</div><div class="v">${d.sample}</div></div>
+        <div class="warn-box"><b>주의:</b> ${d.caveat}</div>
+        <p class="cite">출처: ${d.cite}</p>`;
+      r.scrollIntoView({behavior:'smooth', block:'nearest'});
+    });
+  });
+
+  // matrix filter
+  document.querySelectorAll('.fbtn').forEach(f=>{
+    f.addEventListener('click',()=>{
+      document.querySelectorAll('.fbtn').forEach(x=>x.classList.remove('active'));
+      f.classList.add('active');
+      const l = f.dataset.l;
+      document.querySelectorAll('#mtable tbody tr').forEach(tr=>{
+        tr.classList.toggle('hidden', l!=='all' && tr.dataset.layer!==l);
+      });
+    });
+  });
+</script>
+</body>
+</html>

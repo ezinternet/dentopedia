@@ -16,13 +16,21 @@ text_filename: donertas-2026-gbt-subgingival-debridement-gcf-biomarkers.txt
 
 Head-to-head RCT comparing Guided Biofilm Therapy (GBT) against conventional curette + ultrasonic debridement, measuring gingival crevicular fluid (GCF) inflammatory biomarkers (IL-1β, IL-10, TNF-α, MMP-8) — adds biomarker-level (immunological) evidence to the GBT-vs-conventional question. It reinforces the clinical-index RCT [[wiki/periodontics/cyris-2024-guided-biofilm-therapy-versus-conventional]] (GBT comparable/favorable for plaque control), while refining the more cautious systematic-review conclusion in [[wiki/periodontics/yein-2026-guided-biofilm-therapy-periodontal-efficacy-sr]] that GBT is not clinically superior — here GBT does beat conventional on GI, PI, and IL-1β but not on the deeper inflammatory markers (TNF-α, IL-10, MMP-8).
 
-## One-line Summary
+## Three-line Summary
 
-Prospective RCT (n=80, Stage 1–2 periodontitis) finds GBT significantly outperforms conventional curette+ultrasonic debridement on Gingival Index, Plaque Index, and GCF IL-1β at 1 and 3 months (p<0.05), with no between-group difference in TNF-α, IL-10, or MMP-8 (abstract-only — full text not retrieved).
+Prospective RCT (n=80, Stage 1–2 periodontitis, nonsmoking systemically healthy adults) comparing Guided Biofilm Therapy (GBT) vs conventional curette+ultrasonic debridement at baseline, 1 month, and 3 months.
 
-## 한줄요약
+Both modalities improved all clinical and GCF biomarker indicators from baseline (p<0.001); GBT showed significantly greater reductions in Gingival Index, Plaque Index, and IL-1β vs conventional therapy at 1 and 3 months (p<0.05).
 
-전향적 무작위 임상연구(n=80, Stage 1–2 치주염): 가이드 바이오필름 치료(Guided Biofilm Therapy, GBT)가 1·3개월 시점에서 치은지수(GI)·치태지수(PI)·치은열구액(GCF) IL-1β를 기존 큐렛+초음파 치료보다 유의하게 더 감소시켰으나(p<0.05), TNF-α·IL-10·MMP-8에는 군간 차이가 없었다 (초록 기반 — 전문 미확보).
+No between-group difference was found for TNF-α, IL-10, or MMP-8, limiting the claim of broad immunological superiority for GBT; longer-term and larger studies are needed.
+
+## 세줄요약
+
+전향적 무작위 임상연구(n=80, Stage 1–2 치주염, 비흡연·전신건강): 가이드 바이오필름 치료(Guided Biofilm Therapy, GBT) vs 큐렛+초음파 기존 치료를 기저·1·3개월에 비교.
+
+두 술식 모두 모든 임상·GCF 생표지자 지표를 기저 대비 유의하게 개선했으나(p<0.001), GBT가 1·3개월 시점 치은지수(GI)·치태지수(PI)·IL-1β 감소에서 기존 치료보다 유의하게 우수(p<0.05).
+
+TNF-α·IL-10·MMP-8에는 군간 차이가 없어 GBT의 면역학적 우위 주장은 제한적이며, 장기 대규모 연구가 필요하다.
 
 ## 1. Document Information
 

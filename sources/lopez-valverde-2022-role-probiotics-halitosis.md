@@ -13,13 +13,21 @@ source_collection: external
 
 구강 유래 구취(halitosis)의 비항균제 치료 대안으로서 프로바이오틱스의 임상적 유효성을 평가한 SR+MA. 기존 [[halitosis/memon-2022-aetiology-associations-halitosis-systematic]]의 원인론·역학 관점을 보완하는 치료 개입 근거로 활용.
 
-## One-line Summary
+## Three-line Summary
 
 SR+MA (4 RCTs, n=283): probiotics (Streptococcus salivarius K12/M18, Weissella cibaria) showed no statistically significant reduction in oral halitosis measures (p=0.53), though individual trials suggest potential benefit.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 SR+MA (4 RCT, n=283): 프로바이오틱스(Streptococcus salivarius K12/M18, Weissella cibaria)가 구강 구취를 통계적으로 유의하게 줄이지 못했으나(p=0.53) 일부 개별 연구는 긍정적 효과를 시사.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

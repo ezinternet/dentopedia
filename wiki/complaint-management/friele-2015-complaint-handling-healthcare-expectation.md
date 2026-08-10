@@ -6,18 +6,26 @@ date: 2015-01-01
 doi: "10.1186/s13104-015-1479-z"
 source: friele-2015-complaint-handling-healthcare-expectation.md
 category: complaint-management
-confidence: cross-sectional
+evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/friele-2015-complaint-handling-healthcare-expectation.pdf
 pdf_filename: friele-2015-complaint-handling-healthcare-expectation.pdf
 source_collection: external
 tags: [expectations, expectation-gap, survey]
 ---
 
-## One-line Summary
-Paired surveys of 3,366 physicians and 1,422 public respondents revealing a large gap: the public expects complaint handling to go badly, physicians expect it to go well.
+## Three-line Summary
+Two parallel cross-sectional surveys using identical expectation items — physicians (panel n=3,366, 57% response; GPs, specialists, nursing-home physicians) and the Dutch public (healthcare consumer panel n=1,422, 68% response) — measuring expectations about complaint handling in healthcare.
 
-## 한줄요약
-의사 3,366명·일반인 1,422명 병행 설문 — 일반인은 민원 처리를 부정적으로, 의사는 긍정적으로 기대하는 큰 격차 확인.
+The public held strongly negative expectations about complaint handling while physicians held far more positive expectations; the gap was large and statistically significant across all items.
+
+This entrenched expectation asymmetry means complainants and clinicians start from opposite premises, and because negative preconceptions are self-confirming, persistent dissatisfaction is a structural problem not solved by individual goodwill.
+
+## 세줄요약
+의사(패널 n=3,366, 응답률 57%)와 일반인(n=1,422, 68%) 병행 횡단 설문: 동일 문항으로 의료 민원 처리에 대한 기대치 측정.
+
+일반인은 민원 처리에 강한 부정적 기대, 의사는 훨씬 긍정적 기대 — 모든 항목에서 크고 유의한 격차 확인.
+
+이 기대치 비대칭은 구조적 문제로, 부정적 선입관은 자기 충족적 — 개인의 선의만으로는 민원 불만족이 해결되지 않는다.
 
 ## Summary
 Friele, Reitsma and de Jong ran identical expectation surveys on 3,366 physicians and 1,422 members of the public. The public expected complaint handling to be poor; physicians expected it to be good. This large, significant gap means complainant and clinician enter the encounter with opposite premises, and because negative preconceptions are self-confirming, dissatisfaction persists even when physicians act in good faith. The study locates a structural driver of complaint dissatisfaction upstream of any individual response.

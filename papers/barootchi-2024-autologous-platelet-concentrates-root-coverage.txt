@@ -1,0 +1,914 @@
+Autologous platelet concentrates in root coverage procedures
+
+Barootchi S, Tavelli L, Ravida A, Wang HL, et al.
+Periodontology 2000. 2024.
+DOI: 10.1111/prd.12614
+PMID: 39403998
+PMCID: PMC11808447
+Source: https://pmc.ncbi.nlm.nih.gov/articles/PMC11808447/
+
+Retrieved via PubMed Central (PMC) full-text service.
+
+============================================================
+ABSTRACT
+============================================================
+
+Abstract
+
+Gingival recessions are vastly prevalent among the general population. With regards to their treatment, recent advancements in periodontal and microsurgical procedures, focusing on minimal invasiveness and patient‐centered therapies, have propelled a shift in their contemporary treatment, highlighting the field of biologics and bioactive mediators. Among different classes and types of biologics, autologous platelet concentrates (APCs), also referred to as autologous blood‐derived products, are commonly used and preferred among many clinicians. These are essentially obtained via venipuncture (intravenous access) followed by centrifugation, for which numerous protocols and preparation methods have been used, leading to varieties of blood‐derived products. In this review, via a systematic search, we explored the efficacy of the different utilized preparation methods and centrifugation protocols of APCs (e.g., platelet‐rich plasma (PRP), platelet‐rich fibrin (PRF), leucocyte‐PRF, advanced‐PRF, concentrated growth factor (CGF), etc.) for the treatment of type 1 gingival recessions (RT1, without interproximal attachment loss or noticeable tooth displacement), as well as their effectiveness relative to a common control (treatment with flap advancement alone without any additional material). Based on the available literature from randomized trials found in our systematic search, we observed that utilization of PRF can significantly enhance treatment outcomes when performing a coronally advanced flap, in terms of the amount of root coverage. The improvement in root coverage was further enhanced in the presence of baseline keratinized tissue width, and with an increasing relative magnitude (the more the baseline keratinized tissue width, the better the root coverage outcomes when using PRF). The efficacy of these products needs to be further explored with different graft substitutes and matrices, as well as relative to other commonly applied biologics, through well‐conducted and adequately‐powered randomized clinical trials.
+
+============================================================
+FULL TEXT
+============================================================
+
+1
+
+INTRODUCTION
+
+Gingival recession (GR) is a highly prevalent condition,,characterized by the apical shift of the gingival margin in relation to the cemento‐enamel junction (CEJ) resulting in the exposure of the root surface to the oral cavity.Epidemiological studies report a prevalence of mid‐facial GRs of up to 99.7%.,If untreated, these conditions have a high likelihood of progression over time,,,,,with a recent longitudinal study demonstrating that, over a period of 4 years, 86.9% of sites with pre‐existing GRs showed a progression of the condition, while 35.9% of sites developed GRs.
+
+Although GR is not directly associated with tooth loss, possible negative sequelae of GRs include esthetic concerns, dental hypersensitivity, and carious/non‐carious cervical lesions.,,In particular, GRs occurring in the esthetic zone can also have a negative impact on an individual's quality of life.,,,
+
+Over the years, surgical interventions have proven effective in treating these conditions.,The first attempts for root coverage procedures involved the use of barrier membranes with the goal of regenerating the lost periodontium.,,,Later on, it was shown that a coronally advanced flap (CAF) alone could also be a viable option for the treatment of GRs,,,nonetheless often showing reoccurrence of the recession in the medium and long term.,,,,The combination of CAF with autogenous connective tissue graft (CTG) was found effective in covering the recession defect and in converting the gingival phenotype,,,,which is one of the main factors positively influencing the stability of the gingival margin over time.,,A large body of evidence supports the efficacy of the CTG‐based root coverage procedure, which nowadays is considered the gold standard treatment when it comes to the percentage of recession coverage.,,
+
+Nevertheless, CTG is characterized by several drawbacks, mainly related to patient‐reported outcomes due to the palatal harvesting, such as increased invasiveness of the procedure, post‐operative discomfort, and time to recovery, all of which have gained a great deal of attention especially in recent years.,,,,,,A recent study collected questionnaires from subjects who underwent palatal harvesting 10–15 years prior to the survey, demonstrating that patient experience of a previous autogenous graft harvesting had an influence on their decision to undergo future treatment.Subjects reporting a painful experience associated with palatal harvesting are reluctant to have grafting procedures done even after 10–15 years.Aside from patients' post‐operative discomfort, several other complications related to palatal harvesting may occur, including injury to the greater palatine artery, intra‐ and post‐operative bleeding, necrosis of the palatal flap, change of feeding habits, sensory disorders, and epithelial cyst formation at the treated site.,,,,,
+
+Therefore, it is not surprising that several alternative procedures—not involving autogenous grafts—have been explored over the years.,,,,Allo‐ and xeno‐geneic‐derived graft substitutes have gained popularity in the last decades due to their unlimited availability and lower morbidity compared to CTG.,,,
+
+On the other hand, biologic agents, such as autologous platelet concentrates (APCs) (also referred to as autogenous‐derived blood products), enamel matrix derivatives (EMD), and recombinant human platelet‐derived growth factor‐BB (rhPDGF‐BB) have been utilized for a large variety of applications in the dental field, including root coverage procedures.,,,,,,,,,
+
+The current review focuses on the employment of APCs in root coverage procedures, the current evidence and literature supporting their use, their different methods of preparation, their relative efficacy as it pertains to root coverage procedures and outcomes, and future directions in this field and clinical applicability.
+
+2
+
+CLASSIFICATIONS, PROTOCOLS, AND BIOLOGIC PRINCIPLES OF APCS
+
+Since the late 1990s, several investigators proposed the application of APCs, such as platelet‐rich plasma (PRP), and plasma rich in growth factors (PRGF) as healing promoters and growth factor secretors.,,,,APCs are blood‐derived extracts that are processed following the centrifugation of blood samples.,,,,The first generation of APCs includes PRP and PRGF that are processed with anticoagulants and prepared using activators or CaCl.,These biological agents have traditionally shown several limitations such as high cost, extended centrifugation protocols, complicated handling for daily providers, the need for additional materials, the short release of growth factor, and weak fibrin network formation.
+
+Consequently, modifications to preparation methods were introduced via what some have referred to as a second generation of APCs, such as the platelet‐rich fibrin (PRF), which included a simpler centrifugation protocol with superior biological results compared to the first generation of platelet concentrates.,,PRF does not require anticoagulants which renders it a completely autologous biomaterial, moreover, with lower cost and preparation time than the first‐generation APCs. PRF is a strong fibrin network scaffold that enfolds a higher number of growth factors such as PDGF, TGF‐β1, IGF, and VEGF and cytokines that can be released in a relatively more sustained period.,The PRF scaffold can support cell migration, proliferation, and differentiation over the surgical site.
+
+Numerous protocols have been proposed to prepare PRF varieties (i.e., leucocyte‐PRF, advanced‐PRF, titanium‐PRF, and concentrated‐PRF), involving vertical tubes and horizontal centrifuge disposition, diverse centrifugation periods, with various round per minute (RPM) and relative centrifugation force (RCF) protocols.,In general, PRF protocol requires an immediate centrifugation following blood extraction to counteract clot formation and guarantee appropriate cells and growth factor density. Following centrifugation, a fibrin clot is produced over a red blood cell concentrate, which later with controlled pressure can be transformed into a membrane enclosing host platelets and leukocytes that can promote tissue regeneration, angiogenesis, stem cell recruitment, and wound closure.,Particularly, PRF has shown beneficial regenerative potential in soft tissue healing, due to its high angiogenic potential.Therefore, PRF has been considered a biologic agent of interest for the treatment of GRs.,Other variations of APCs have also emerged throughout the years (such as the concentrated growth factor (CGF) as an example), each of which was proposed and set forth with a certain variation to the PRF protocol, to theoretically render an enhanced outcome or increased effective growth factor and/or stem cells concentration.,,Figuredepicts the different generations of APCs.
+
+Although several clinical studies have evaluated the use of APCs for the treatment of recession defects compared to conventional root coverage approaches,,,,,,the literature is still inconclusive with regards to which method of preparation can render superior results. Our systematic review and network meta‐analysis (NMA) thus evaluate the effect of APCs and their centrifugation protocols for the treatment of GRs.
+
+FIGURE 1
+
+Different generations of autologous platelet concentrates (APCs). PPP, platelet‐poor plasma; PRF, platelet‐rich fibrin; PRGF, plasma rich in growth factor; PRP, platelet‐rich plasma; RBCs, red blood cells.
+
+3
+
+SELECTION OF EVIDENCE
+
+The systematic review portion of the current review was registered prior to its commencement on the PROSPERO International Prospective Register of Systematic reviews database (), and written in accordance with the Cochrane Collaboration guidelinesand reported in accordance with the Preferred Reporting Items for Systematic reviews and Meta‐Analysis Extension (PRISMA) statement for Systematic Reviews incorporating network meta‐analyses for healthcare interventions.,
+
+3.1
+
+Objectives
+
+In the current review, our aim was to address the following focused question:
+
+‘Does the method of autologous blood centrifugation protocol impact the outcomes of root coverage procedures, relative to the clinical measures of percent root coverage (mRC), gain in gingival thickness (GT), and gain in keratinized tissue width (KTW)’.
+
+3.2
+
+Population, intervention, comparison, outcome, and study () question
+
+The following Population,Intervention, Comparison, Outcomes, and Study (PICOS) framework was used to guide the inclusion and exclusion of studies for the aforementioned focused questions:
+
+Population (P): Patients undergoing surgical treatment of recession type (RT) 1 gingival recession defects.
+
+Intervention (I): Surgical treatment for gingival recessions with the aim of root coverage using APCs, such as the PRF, PRP, and so on or with flap alone.
+
+Comparison (C): Possible comparisons include different APC protocols and treatment with CAF alone as a positive control group.
+
+Outcome (O): For inclusion, studies must present any of the clinical outcomes: mRC, gain in GT, and KTW.
+
+Study (S): For a quantitative assessment and comparative analysis, only data from randomized controlled clinical trials with a defined protocol were considered. Studies must also have at least a 6‐month duration (after the root coverage procedure) and provide the aforementioned clinical outcomes at that interval.
+
+3.3
+
+Eligibility criteria and transitivity
+
+To assure transitivity and methodological strength, a series of strict inclusion and exclusion criteria were set a priori to address and observe for significant heterogeneity among the trials in terms of their design‐driven differences, selection criteria, interventions, and their overall approach:
+
+3.3.1
+
+Inclusion criteria
+
+Randomized controlled clinical trials with a sample size of at least 10 patients per treatment arm.
+
+Duration of follow‐up reaching at least 6 months after the root coverage therapy (without limitations for the final follow‐up).
+
+Studies must be reporting on the outcomes of periodontal plastic/root coverage procedures for the treatment of RT1 gingival recession defects.
+
+Studies that provide data on at least one of the outcome measures of mRC, recession depth, KTW, or GT.
+
+Utilization of a form/preparation of APCs.
+
+Smoking not being an eligibility criterion. In studies that included smokers, it was planned to stratify the effect on the treatment outcomes, if data were available.
+
+3.3.2
+
+Exclusion
+
+Non‐randomized studies (non‐randomized prospective studies, case–control studies, case series, and case reports).
+
+Studies with less than 6 months of follow‐up after root coverage therapy.
+
+The use of non‐APC based biologics/approaches (e.g., platelet‐derived growth factor, EMD, etc.), or guided tissue regeneration for regeneration of recession defects, and/or clinical trials which in addition to the stated, do not have a treatment arm consisting of flap treatment alone (e.g., CAF alone treatment arm).
+
+Laser treatment.
+
+3.4
+
+Information sources and search strategy
+
+A detailed literature search was conducted. First, a computerized systematic search was performed in the following electronic data bases for the selection of trials that met the inclusion criteria: The national library of Medicine (MEDLINE via PubMed); EMBASE via OVID; the Cochrane Central Register of Controlled Trials; and Latin American & Caribbean Health Sciences Literature (LILACS), Web of Science, and Scopus. To search for unpublished trials, gray literature, nonprofit reports, government research, or other materials,and OpenGrey () were also electronically explored.
+
+The search strategy was first designed using a string of medical subject headings and free text terms for the MEDLINE database and then modified appropriately to be used in other database searches. No restrictions were assigned regarding the date of publication, journal, or the language used. The search results were downloaded to a reference manager software (Endnote 21) to facilitate duplicate removal and cross‐reference checks. Details regarding the search strategy and the development of the search key terms for every database are presented in the Appendix. The last search was conducted on January 30, 2023.
+
+To ensure a thorough screening process, the electronic search was complimented by an additional manual search of the following journals:,,,, andand. The manual search in the referenced sources was performed from January 1, 2000 to January 30, 2023. Additionally, reference lists of the retrieved studies for full‐text screening and previous reviews investigating periodontal plastic procedures were screened for missing records and article identification.,,,,,,,,
+
+3.5
+
+Study selection
+
+Two pre‐calibrated review authors (SB and LT) screened the titles and abstracts (as available) of the studies identified in the searches, in duplicate and independently. Subsequently, the full text of all publications appearing to meet the inclusion criteria or for which there was not sufficient information in the title and abstract to make a decision, were obtained. At this first stage, any study considered potentially relevant by at least one of the reviewers was included in the next screening phase. Subsequently, the full‐text publications were also evaluated in duplicate and independently by the same examiners. The examiners were calibrated with the first 10 full‐text, consecutive publications. Any disagreement on the eligibility of studies was resolved through discussion between both reviewers until consensus was reached or through arbitration by a third reviewer (HLW). All potentially relevant studies that did not meet the eligibility criteria were excluded and the reasons for exclusion were recorded. Inter‐examiner agreement following full‐text assessment was calculated via kappa statistics.
+
+In the case of multiple retrieved publications reporting on the same study or investigating the same population at different follow‐up intervals and/or secondary analysis of the same data, a decision was made to pool together all relevant data as a single comprehensive report with the most complete data for inclusion in the analysis. SB and LT assessed the pooled studies independently and included only those reporting data on the study's clinical outcomes. Disagreement on the selection of the studies was resolved in the same manner as previously mentioned.
+
+3.6
+
+Data extraction and management
+
+Two review authors (SB and LT) independently extracted all relevant details from the selected trials using a predetermined data extraction form specifically designed for this review that was first piloted in a small number of studies. At each stage, any debate between the reviewers was resolved through discussion and consensus. If a disagreement persisted, the judgment of a third reviewer (HLW) was decisive. Aside from the primary clinical outcomes (at every follow‐up interval), the following study details were extracted:
+
+When dealing with missing data, if a study did not provide any information on any of the clinical outcomes, attempts were made to contact the authors of that study to obtain the missing values. If the attempts were not successful, the trial was excluded.
+
+3.7
+
+Quality assessment and risk of bias
+
+The risk of bias for the included trials was assessed using version 2 of the Cochrane risk‐of‐bias tool for randomized trials (RoB 2).This tool evaluates bias across five domains: the randomization process, deviations from intended interventions, missing outcome data, measurement of the outcome, and selection of the reported result. According to the tool's algorithms, each trial's overall risk of bias was classified as low if all domains were at low risk, and high if any domain was at high risk or if multiple domains were classified as having some concerns. If only one domain was classified as having some concerns, the overall risk of bias for that trial was categorized as “of some concern.”
+
+The risk of bias for each trial was independently assessed by two reviewers (SB and LT). The effect of interest was assignment to the intervention (intention to treat). For each study, the risk of bias per domain and overall was rated as low, with some concerns, or high (serious or very serious concerns) through consensus between reviewers. Any disagreement was discussed between the same investigators and a third review author (HS) was consulted in case there was no further agreement, however, no study was excluded on the basis of the risk of bias within a study.
+
+3.8
+
+Data analysis and statistical methodology
+
+For studies published more than once (i.e., duplicates), or those that utilized the same patient population, only one report with the most informative and complete data was included in the analyses. The goal was to assess the outcomes of root coverage procedures among study trials relative to the impact or the influence of different APC concentrations/preparations.
+
+To evaluate the transitivity assumption underlying NMA, the distribution of clinical and methodological variables that could act as effect modifiers across treatment comparisons (such as the study design/approach, and baseline measures of the relevant variable) were compared.We investigated if these variables were similarly distributed across our included trials grouped by comparison by assessment of box plots, and appropriate regression analyses.
+
+Consequently, a mixed‐model approach to NMA was conducted for root coverage procedures for changes in mRC, GT, and KTW. Treatment with the coronally advanced flap alone served as the reference for the comparisons, and thus as the control group.
+
+Baseline characteristics (i.e., Rec, GT, and KT baseline) were accounted for in each corresponding model and controlled for along with the type of treatment approach (single/multiple site treatment) for capturing potential heterogeneity and possible confounders. The arms were weighted according to the treated sample size. The analyses accounted for correlations induced by multi‐group studies, using multivariate distributions. The variance in the random‐affects distribution (heterogeneity variance) was considered to measure the extent of across‐study and within‐comparison variability on the treatment effects.
+
+To obtain direct and indirect pairwise comparisons for exploring a significant difference among other groups, different reference levels were specified in the models and contrasts were recorded along with their standard errors, andvalues. Next, confidence intervals were produced, and a‐value threshold of 0.05 was set for statistical significance. A network plot, representing the assessed and formulated relationships between groups through the NMA was produced. The linearity assumption was tested for all models by including quadratic terms, however no evidence of non‐linearity was observed. All analyses were performed by an author with experience in biostatistics (SB) using the lme4,lmerTest,dplyr,and tidyrstatistical packages in R (version 4.2.1). The igraphand ggplot2packages were used to make the network plots, and the plot for representation of the outcomes from the multi‐regression model.
+
+4
+
+SYNTHESIS OF RESULTS
+
+4.1
+
+Search results and study selection—the current evidence and studies utilizing platelet concentrates
+
+A complete description of the search strategy is brought in detail in the Appendix. Briefly, throughout the electronic systematic search, a total of 5348 potentially eligible records were found. Subsequent to duplicate removal, and screening by titles and abstract, 2788 records eventually remained which were subjected to the full‐text assessment. Following through evaluation of the individual texts and deep read of the full papers, 109 RCTs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,remained to be included in the present review and were reserved for data extraction. Inter‐examiner agreement throughout the initial screening, and inclusion by full‐text assessment was excellent (kappa scores of 0.93 and 0.97, respectively).The primary reason for exclusion of the articles during the full‐text assessment was due to non‐randomization, and not being compatible with the current study protocol. Details on the excluded references are presented in the Appendix(Table).
+
+4.2
+
+Characteristic of the included trials
+
+Among the 109 included RCTs, most had been conducted in Europe, followed by South America, North America, and Asia. The general characteristics of the studies are depicted in the Appendix(Table). Nevertheless, not all arms of the included trials could be included in the analyses as some did not fit the inclusion criteria. Details regarding their exclusion can be found in the Appendix(Table).
+
+From the total of 109 trials on root coverage procedures, 105 had reported data on KTW, 108 had reported data on Rec, whereas 46 had assessed GT. In total 4712 treated GRs, in 3188 patients were included in the NMA. The preparations of the APCs included: PRF used in 32 treatment arms,,,,,,,,,,,,,,,,,,,,,,,,,,,,,CGF as performed in four treatment arms,,,,leukocyte‐ and PRF (L‐PRF) used in three treatment arms,,,platelet concentrate graft (PCG) used in one arm,PRPused in three treatment arm,,,titanium‐prepared PRF (T‐PRF) used in one treatment arm,and treatment with flap alone as carried out in 99 treatment arms,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,(Tableand Tableof the Appendix). Except for one RCT comparing CAF + PRF with CAF + CGF,the treatment arms of PRF, CGF, PCG, PRP, and T‐PRF had never been directly compared in a clinical trial previously.
+
+Tabledepicts the protocols utilized for obtaining APCs in the included studies.
+
+TABLE 1
+
+Interventions of the included studies.
+
+Publications
+
+APC‐based root coverage procedures
+
+CAF + PRF (= 26)
+
+Agarwal et al. (2016), Aroca et al. (2009), Collins et al. (2021), Culhaoglu et al. (2018), Dandekar et al. (2019), Debnath and Chatterjee (2018), Dholakia et al. (2020), Dixit et al. (2018), Eren and Atilla (2014), Gupta et al. (2015), Jain et al. (2017), Jankovic et al. (2010), Jankovic et al. (2012), Joshi et al. (2020), Kuka et al. (2018), Kumar et al. (2017), Mufti et al. (2017), Oncu (2017), Padma et al. (2013), Potey et al. (2019), Rajeswari et al. (2021), Rehan et al. (2018), Shivakumar et al. (2016), Tazegul et al. (2022), Thamaraiselvan et al. (2015), Uraz et al. (2015),,,,,,,,,,,,,,,,,,,,,,,,,
+
+VISTA + PRF (= 7)
+
+Hegde et al. (2021), Jain et al. (2021), Rajeswari et al. (2021), Subbareddy et al. (2020),,,
+
+Andrade Aldana et al. (2021), Tavakoli et al. (2021), Tunali et al. (2015),,
+
+CAF + CGF (= 3)
+
+Bozkurt Dogan et al. (2015), El‐kholy et al. (2022), Tazegul et al. (2022),,
+
+CAF + PRP (= 3)
+
+Aggour et al. (2015), Biradar et al. (2015), Huang et al. (2005),,
+
+CAF + PCG (= 1)
+
+Kumar and Murthy (2013)
+
+CAF + T‐PRF (= 1)
+
+Uzub et al. (2018)
+
+TUN + CGF (= 1)
+
+Xue et al. (2022)
+
+Flap alone
+
+CAF (= 75)
+
+Agarwal et al. (2016), Aggour et al. (2015), Ahmedbeyli et al. (2014), Amarante et al. (2000), Aroca et al. (2009), Bansal et al. (2016), Barootchi et al. (2019), Barrella et al. (2016), Bherwani et al. (2014), Biradar et al. (2015), Bozkurt Dogan et al. (2015), Cairo et al. (2016), Cardaropoli and Cardaropoli (2009), Cardaropoli et al. (2014), Castellanos et al. (2006), Clementini et al. (2018), Cordaro et al. (2012), Cortellini et al. (2009), Culhaoglu et al. (2018), da Silva et al. (2004), de Queiroz Cortes et al. (2004), de Queiroz Cortes et al. (2006), Del Pizzo et al. (2005), Deshpande et al. (2014), Dixit et al. (2018), George et al. (2018), Gil et al. (2020), Gilbert et al. (2015), Gupta et al. (2015), Hagewald et al. (2002), Huang et al. (2005), Jepsen et al. (2013), Jepsen et al. (2017), Khobragade et al. (2016), Kuis et al. (2013), Kuka et al. (2018), Kumar et al. (2017), Leknes et al. (2005), Lins et al. (2003), Lops et al. (2015), Lucchesi et al. (2007), Mahajan et al. (2007), Mathias‐Santamaria et al. (2021), Modica et al. (2000), Moka et al. (2014), Moreira et al. (2016), Nassar et al. (2014), Nisha and Shashikumar (2021), Ozcelik et al. (2011), Ozturan et al. (2011), Padma et al. (2013), Pilloni et al. (2006), Pilloni et al. (2019), Pini Prato et al. (2011), Potey et al. (2019), Rajendran et al. (2018), Rasperini et al. (2018), Rotundo et al. (2019), Sangiorgio et al. (2017), Santana et al. (2010a), Santana et al. (2010b), Santana et al. (2019), Shivakumar et al. (2016), Spahr et al. (2005), Stefanini et al. (2016), Thakare et al. (2015), Thamaraiselvan et al. (2015), Thombre et al. (2013), Trombelli et al. (1996), Wennstrom et al. (1996), Zucchelli et al. (2009a), Zucchelli et al. (2009b), Zucchelli et al. (2014), Zucchelli et al. (2016),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+
+LCPF (= 4)
+
+Ahmedbeyli et al. (2019), Santana et al. (2010a), Santana et al. (2019), Zucchelli et al. (2012),,,
+
+SCPF (= 10)
+
+Bhandari et al. (2015), Bittencourt et al. (2006), Bittencourt et al. (2007), Bittencourt et al. (2009), Franca‐Grohmann et al. (2019), Jerripothula et al. (2021), Moka et al. (2014), Nassar et al. (2014), Santana et al. (2010b), Singh et al. (2015),,,,,,,,,
+
+VISTA (= 1)
+
+Rajendran et al. (2018)
+
+Abbreviations: APC, autologous platelet concentrates; CAF, coronally advanced flap; CGF, concentrate growth factor; LCPF, laterally coronally positioned flap; PCG, platelet concentrate graft; PRF, platelet‐rich fibrin; PRP, platelet‐rich plasma; SCPF, semilunar coronally positioned flap; T‐PRF, titanium‐prepared platelet‐rich fibrin; TUN, tunnel technique; VISTA, vestibular incision subperiosteal tunnel approach.
+
+TABLE 2
+
+Centrifugation protocols for APCs.
+
+Publication, reference
+
+Treatment arm
+
+Centrifugation protocol
+
+Final product
+
+Agarwal et al. (2016)
+
+CAF + PRF
+
+NR
+
+PRF membrane
+
+Aggour et al. (2015)
+
+CAF + PRP
+
+NR
+
+Liquid PRP
+
+Andrade Aldana et al. (2021)
+
+CAF + L‐PRF
+
+408for 12 min
+
+L‐PRF membrane
+
+Aroca et al. (2009)
+
+CAF + PRF
+
+3000for 10 min
+
+PRF membrane
+
+Biradar et al. (2015)
+
+CAF + PRP
+
+1300for 10 min, then 2000for 10 min
+
+Liquid PRP
+
+Bozkurt Dogan et al. (2015)
+
+CAF + CGF
+
+30 s acceleration, 2700for 2 min, 2400for 4 min, 2700for 4 min, 3000for 3 min, 36 s deceleration
+
+CGF membrane
+
+Collins et al. (2021)
+
+CAF + PRF
+
+2700for 12 min
+
+PRF membrane
+
+Culhaoglu et al. (2018)
+
+CAF + PRF
+
+2700for 12 min
+
+2 PRF membranes (in test group 1) and 4 PRF membranes (in test group 2)
+
+Dandekar et al. (2019)
+
+CAF + PRF
+
+NR
+
+PRF membrane
+
+Debnath and Chatterjee (2018)
+
+CAF + PRF
+
+2800for 12 min
+
+PRF membrane
+
+Dholakia et al. (2019)
+
+CAF + PRF
+
+3000for 10 min
+
+PRF membrane
+
+Dixit et al. (2018)
+
+CAF + PRF
+
+2700for 12 min
+
+PRF membrane
+
+El‐kholy et al. (2022)
+
+CAF + CGF
+
+2 min 2700, 4 min at 2400, 4 min at 2700, 3 min at 3000, and 36 s deceleration
+
+CGF membrane
+
+Eren and Atilla (2014)
+
+CAF + PRF
+
+400for 12 min
+
+PRF membrane
+
+Gupta et al. (2015)
+
+CAF + PRF
+
+2700for 12 min
+
+PRF membrane
+
+Hegde et al. (2021)
+
+VISTA + PRF
+
+3000for 10 min
+
+PRF membrane
+
+Huang et al. (2005)
+
+CAF + PRP
+
+1300for 10 min, 2000for 10 min
+
+Liquid PRP
+
+Jain et al. (2017)
+
+CAF + PRF
+
+3000for 10 min
+
+PRF membrane
+
+Jain et al. (2021)
+
+VISTA + PRF
+
+1500for 14 min
+
+PRF membrane
+
+Jankovic et al. (2010)
+
+CAF + PRF
+
+3000for 10 min
+
+PRF membrane
+
+Jankovic et al. (2012)
+
+CAF + PRF
+
+3000for 10 min
+
+PRF membrane
+
+Joshi et al. (2020)
+
+CAF + PRF
+
+3000for 10 min
+
+PRF membrane
+
+Kuka et al. (2018)
+
+CAF + PRF
+
+3000for 10 min
+
+PRF membrane
+
+Kumar et al. (2013)
+
+CAF + PCG
+
+1300for 10 min, 2000for 10 min
+
+Collagen sponge soaked with PCG
+
+Kumar et al. (2017)
+
+CAF + PRF
+
+NR
+
+PRF membrane
+
+Mufti et al. (2017)
+
+CAF + PRF
+
+3000for 10 min
+
+PRF membrane
+
+Oncu (2017)
+
+CAF + PRF
+
+2700for 12 min
+
+PRF membrane
+
+Padma et al. (2013)
+
+CAF + PRF
+
+3000for 10 min
+
+PRF membrane
+
+Potey et al. (2019)
+
+CAF + PRF
+
+NR
+
+PRF membrane
+
+Rajeswari et al. (2021)
+
+CAF + PRF
+
+NR
+
+PRF membrane
+
+VISTA + PRF
+
+Rehan et al. (2018)
+
+CAF + PRF
+
+3000for 10 min
+
+PRF membrane
+
+Shivakumar et al. (2016)
+
+CAF + PRF
+
+2700for 12 min
+
+PRF membrane
+
+Subbareddy et al. (2020)
+
+VISTA + PRF
+
+3000for 10 min
+
+PRF membrane
+
+Tavakoli et al. (2021)
+
+CAF + PRF
+
+2700for 12 min
+
+PRF membrane
+
+Tazegul et al. (2022)
+
+CAF + PRF
+
+2700for 12 min
+
+PRF membrane
+
+CAF + CGF
+
+2700 to 3000for 13 min
+
+CGF membrane
+
+Thamaraiselvan et al. (2015)
+
+CAF + PRF
+
+3000for 10 min
+
+PRF membrane
+
+Tunali et al. (2015)
+
+CAF + PRF
+
+2700for 12 min
+
+PRF membrane
+
+Uraz et al. (2015)
+
+CAF + PRF
+
+2700for 12 min
+
+PRF membrane
+
+Uzun et al. (2018)
+
+CAF + T‐PRF
+
+2700for 12 min
+
+T‐PRF membrane
+
+Xue et al. (2022)
+
+TUN + CGF
+
+30 s acceleration, 2 min 2700, 4 min 2400, 4 min 2700, 3 min 3000, 36 s deceleration
+
+CGF membrane
+
+Abbreviations: CAF, coronally advanced flap; CGF, concentrate growth factor; L‐PRF, leukocyte‐ and platelet‐rich fibrin; NR, not reported; PCG, platelet concentrate graft; PRF, platelet‐rich fibrin; PRP, platelet‐rich plasma; T‐PRF, titanium‐prepared platelet‐rich fibrin; TUN, tunnel technique; VISTA, vestibular incision subperiosteal tunnel approach.
+
+4.3
+
+Assessment of the risk of bias
+
+A total of 111 studies were assessed for risk of bias using the RoB‐2 tool. Of these, 34 studies (30.6%),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,were judged to have a low risk of bias across all domains, while 32 studies (28.8%),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,were rated as having some concerns. The remaining 45 studies (40.5%),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,were determined to have a high risk of bias. The most common sources of bias were identified in domains related to deviations from intended interventions (Domain 2) and missing outcome data (Domain 4). Specifically, 21 studies (18.9%) had high risk in domain 2 and 19 studies (17.1%) in domain 4. Most of the high‐risk bias assessments were due to the absence of a blinded examiner for the outcomes as reported in the publications.
+
+Detailed results regarding the assessment of the bias for each selected study can be found in the Appendix(Table, as well as presented and summarized in Figuresand, respectively).
+
+4.4
+
+Synthesis of the mixed‐model‐based
+
+Figureillustrates the formulated comparisons between the assessed treatment arms through the NMA. Due to the scarcity of information and lack of common denominating treatments, the NMA models only compare the treatment arms of CAF, CAF + PRF, CAF + PRP, and CAF + CGF which derive data from at least three independent clinical trials with at least one common treatment arm (a total of 92 independent studies). Thus, no statistical comparison is provided for the treatment arms of CAF + T‐PRF and CAF + PCG.
+
+FIGURE 2
+
+Network meta‐analysis of eligible comparisons among clinical trials. Gray solid lines connect treatments that are directly compared in at least 1 study. Studies contributing with only one arm are not presented. Gray dotted lines display the indirect comparison of the treatments that have not been compared head‐to‐head previously and formed through the network model. Note that distances are for plot clarity alone. The node size is proportional to the number of treated sites. CAF, coronally advanced flap; CGF, concentrate growth factor; PRF, platelet‐rich fibrin; PRP, platelet‐rich plasma.
+
+4.4.1
+
+Network meta‐Analysis on root coverage outcomes
+
+Mean root coverage as an individual outcome of root coverage
+
+Considering the included treatment arms of CAF + PRF, CAF + PRP, CAF + CGF, and CAF alone (as the reference), only the treatment arm of CAF + PRF was shown to have a statistically significant higher mRC than CAF, with an estimate of 6.12% (95% CI [1.83, 10.42],= 0.02), while the other arms of CAF + CGF (7.47% (95% CI [−3.88, 18.82],= 0.33)), CAF + PRP (−0.61% (95% CI [−14.43, 13.21],= 0.92)) failed to reveal any significance in the model. In addition, the parameter of the KTW baseline showed a significant, and positive interaction with the treatment arm CAF + PRF (4.98 (95% CI [0.85, 9.12]),= 0.03), and time displayed a negative interaction in the model (−0.146 (95% CI [0.21, −0.08]),< 0.01).
+
+Keratinized tissue width as an individual outcome of root coverage
+
+With regards to the model of KTW, with CAF as the reference category, none of the included treatment arms showed a significant effect in the model, with the following estimates for CAF + PRP (−0.66 mm (95% CI [−5.31, 3.98]),= 0.77), CAF + PRF (−0.1 mm (95% CI [−0.87, 0.67]),= 0.79), and CAF + CGF (0.84 mm (95% CI [−1.24, 2.93]),= 0.42). In this model, time showed a statistically significant positive effect (0.003 mm (95% CI [−0.0003, 0.007]),= 0.03), indicating a slow, but true increase in KTW over time, across all treatments despite the specific arm.
+
+Gingival thickness gain as an individual outcome of root coverage
+
+For the outcome of GT, similar to KTW, none of the treatment arms revealed a significant effect in the model, with the estimates of CAF + PRP (−0.31 mm, 95% CI [−1.16, 0.53],= 0.461), CAF + PRF (0.04 mm, 95% CI [−0.301, 0.39],= 0.78), and CAF + CGF (0.25 mm, 95% CI [−0.56, 1.06],= 0.53). Time, in this model, displayed a negative effect (−0.004 (95% CI [−0.007, −0.001]),< 0.001) indicating a reduction in GT among treatments over time.
+
+5
+
+DISCUSSION OF RESULTS
+
+5.1
+
+Background and evolution of root coverage in this era
+
+The field of periodontal plastic surgery has witnessed a significant evolution over the last decades.,,,,,,While the advantages of the autogenous CTG have been well documented, the increasing attention toward patient‐reported outcomes have also shown the limitations of CTG‐based root coverage procedures.,,,,,Substantial post‐operative pain and bleeding from the palatal donor site are common sequelae of CTG harvesting procedures, as well as possible laceration of the primary palatal flap, injury to the greater palatine artery, intraoperative bleeding, flap sloughing/necrosis and exposure of the palatal bone, persistent sensory disfunction, and epithelial cyst formation at the recipient site,(Figure). Nonetheless, the autogenous CTG is still regarded as the most popular approach for the treatment of gingival recessions, however, a more selective and site‐specific use of this approach, together with a substantial reduction of the CTG dimensions, has been recommended.,
+
+Advances in tissue engineering and biomaterial sciences have also allowed the development of a large variety of soft tissue graft substitutes and biologic agents that have been extensively utilized for oral soft tissue augmentative procedures, including treatment of gingival recessions,,,,(Figure). These approaches do not require palatal harvesting, and they are generally preferred by patients over CTG‐based therapies, especially when it comes to self‐assessment of post‐operative morbidity.,,Among these alternatives to CTG, APCs have progressively gained popularity among clinicians and patients, due to the possibility of enhancing wound healing using patients' own blood, and its mental perception with regards to it being the patient's “own” product.,,,While potential drawbacks to utilization and obtaining APCs have also been noted (such as the discomfort or anxiety of blood sampling, the variability in patients' blood, its preparation, etc), in the last 25 years many preparation techniques have been introduced to obtain platelet concentrates and utilized routinely among patients and by clinicians.,,,,,,Many clinical studies have also been conducted to compare these APC approaches to the standard CTG graft for root coverage procedures (Table). Although it has been advocated that PRF has superior growth factor concentration and sustained delivery compared to the first generation of platelet concentrates,,,no clinical trials have yet provided acomparison of different platelet concentrates for root coverage outcomes.
+
+FIGURE 3
+
+Cases exemplifying possible complications of palatal harvesting. (A) Laceration of the primary palatal flap following single incision technique. (B) Bone exposure following sub‐epithelial connective tissue graft harvesting approach. (C) Epithelial cyst causing a pseudo‐pocket on the mid‐buccal aspect of a canine previously treated with connective tissue graft for root coverage purposes. Reproduced with permission from John Wiley and Sons.
+
+FIGURE 4
+
+Root coverage procedure and gingival phenotype modification with the tunneled coronally advanced flap (TCAF) in combination with a xenogeneic collagen matrix loaded with recombinant human platelet‐derived growth factor‐BB (rhPDGF‐BB). (A) Baseline; (B) TCAF incisions; (C) xenogeneic collagen matrix soaked with rhPDGF‐B; (D) collagen matrix sutured to the de‐epithelialized papilla and to the periosteum and inserted underneath the tunneled portion of the flap; (E) flap closure; and (F) 6‐month outcome.
+
+TABLE 3
+
+Randomized controlled clinical trials providing head‐to‐head comparisons between the autogenous connective tissue graft (CTG) and platelet‐rich fibrin (PRF) for the treatment of gingival recession, and the observed clinical outcomes.
+
+References
+
+Treatment arms (sites)
+
+Follow‐up (months)
+
+mRC CTG group (mean ± SD) (%)
+
+mRC PRF group (mean ± SD) (%)
+
+KTW gain CTG group (mean ± SD) (mm)
+
+KTW gain PRF group (mean ± SD) (mm)
+
+Collins et al. (2021)
+
+CAF + CTG (10) vs. CAF + PRF (10)
+
+7
+
+96.97 ± NR
+
+93.33 ± NR
+
+NR
+
+NR
+
+Eren and Atilla (2014)
+
+CAF + CTG (22) vs. CAF + PRF (22)
+
+6
+
+94.2 ± NR
+
+92.7 ± NR
+
+1.22 ± NR
+
+0.93 ± NR
+
+Hedge et al. (2021)
+
+VISTA + CTG (16) vs. VISTA + PRF (16)
+
+6
+
+86.43 ± NR
+
+83.25 ± NR
+
+NR
+
+NR
+
+Jankovic et al. (2012)
+
+CAF + CTG (15) vs. CAF + PRF (15)
+
+6
+
+91.96 ± 15.46
+
+88.68 ± 10.65
+
+1.44 ± NR
+
+0.88 ± NR
+
+Joshi et al. (2020)
+
+CAF + CTG (15) vs. CAF + PRF (15)
+
+6
+
+93.33 ± 9.76
+
+70.64 ± 14.30
+
+1.6 ± NR
+
+1.47 ± NR
+
+Kumar et al. (2017)
+
+CAF + CTG (15) vs. CAF + PRF (15)
+
+6
+
+58.9 ± 25.9
+
+74.4 ± 36.7
+
+1.2 ± NR
+
+1.14 ± NR
+
+Oncu (2017)
+
+CAF + CTG (30) vs. CAF + PRF (30)
+
+6
+
+84 ± NR
+
+77.12 ± NR
+
+1.73 ± NR
+
+1.1 ± NR
+
+Subbareddy et al. (2020)
+
+VISTA + CTG (33) vs. VISTA + PRF (25)
+
+6
+
+See Appendix
+
+See Appendix
+
+Tunali et al. (2015)
+
+CAF + CTG (22) vs. CAF + PRF (22)
+
+12
+
+77.36 ± NR
+
+76.63 ± NR
+
+0.6 ± NR
+
+0.53 ± NR
+
+Uraz et al. (2015)
+
+CAF + CTG (52) vs. CAF + PRF (54)
+
+6
+
+96.46 ± NR
+
+75.26 ± NR
+
+1.18 ± NR
+
+1.18 ± NR
+
+Uzun et al. (2018)
+
+TUN + CTG (51) vs. TUN + PRF (63)
+
+12
+
+93.22 ± NR
+
+93.29 ± NR
+
+0.75 ± NR
+
+1.97 ± NR
+
+Abbreviations: CAF, coronally advanced flap; CTG, connective tissue graft; KTW, keratinized tissue width; mRC, mean root coverage; NR, not reported; PRF, platelet‐rich fibrin; SD, standard deviation; TUN, tunnel technique; VISTA, vestibular incision subperiosteal tunnel approach.
+
+5.2
+
+Results from the systematic review and NMA on differentpreparation methods
+
+The present systematic review utilized a mixed model approach for conducting a NMA that allowed for obtaining direct and indirect comparisons among different APCs relative to negative control, as treatment using flap alone. We observed that PRF was the only platelet concentrate that significantly enhanced clinical root coverage outcomes of CAF alone, in terms of mRC (representative of mean recession changing that takes into account the initial recession depth), while PRP and CGF did not. The different growth factor release kinetics that characterized the various platelet concentrates, with PRF exhibiting a continual and steady release of signaling molecules over a 10‐day period, may explain these findings.Indeed, a prolonged and sustained release of growth factors with anti‐inflammatory and angiogenetic properties can result in a faster resolution of the inflammatory phase and an accelerated rate for re‐epithelialization and wound closure, leading to reduced shrinkage of the soft tissues.Interestingly, the NMA revealed that KTW at baseline was significantly associated with the final mRC of PRF. In other terms, PRF‐based root coverage procedures achieve higher percentages of root coverage in the presence of increasing values for KTW (such that the more keratinized tissue width is present at baseline, the better the outcomes would be).
+
+5.3
+
+Comparison with the literature
+
+This finding is in line with previous studies highlighting the pivotal role of baseline KTW on short‐, and even long‐term root coverage outcomes when using biomaterials and biologic agents.,,,,,,,Considering that a substantial gain in KTW following root coverage procedures can be expected with only autogenous grafts, the findings from our analysis advocate for the use of PRF in the presence of an adequate band of KTW at baseline. It should be mentioned that GT is another key parameter for the long‐term stability of the root coverage outcomes.,,Nevertheless, in line with previous investigations showing limited benefits of APCs in augmenting GT,,,the findings of our statistical analysis revealed that GT remained essentially unchanged following root coverage procedures with platelet concentrates alone. Future studies assessing the root coverage outcomes of soft tissue constructs involving PRF in combination with non‐autogenous scaffolds/matrices are advocated.
+
+Furthermore, as points of consideration, readers are to bear in mind that the true effectiveness of APCs as it pertains to contemporary root coverage approaches, needs to be further explored when applied in the clinical setting in combination with conjunction with different graft substitutes and matrices, as well as the autogenous CTG itself for exploring the added benefits of these products and the scaffolding properties of different matrices. In addition, as it relates to our current analysis, readers are to note that while our results revealed a significant improvement of root coverage results (in terms of mean root coverage) when PRF is utilized in combination with (and relative to) a CAF, and our previous statements on the importance of contemporary treatment protocols and the application of less invasives procedures and complications of the autogenous grafts, it is certain that on the average case and across most defects, the use of the autogenous CTG would lead to significantly higher root coverage outcomes compared to the application of PRF alone. This, certainly is due to the notion that an autogenous CTG obtained from the palate includes viable cells that will be transplanted at the time of the procedure to the recipient site, and acts in a fundamentally different way, as compared to the entire line of biologics and bioactive mediators, among which our focus has been PRF (as it is shown to render the highest percentage of root coverage relative to other APCs we investigated). Also, readers are to bear in mind that conceivably all of the stated biologics would perform better when mixed with another scaffolding material, matrix, or graft, in the form of either being used to hydrate a non‐autogenous soft tissue grafting material or when and if added alongside the CTG, to the recipient bed or graft itself. Indeed, these concepts are to be explored in future research.
+
+5.4
+
+Incorporation of biologics with scaffold for growth factory delivery and sustained healing potential
+
+It is reasonable to assume that any biologic or bioactive mediator, when utilized with an appropriate scaffold may provide a more sustained and constant delivery of the healing effect and thus enhance the benefits of the growth factor(s) (Figure). In addition, the application of soft tissue grafting matrices which have been shown to provide a significant increase in gingival thickness is to be considered, due to the importance of gingival thickness on long‐term stability of outcomes. Figureshows the healing of multiple adjacent gingival recessions with an acellular dermal matrix hydrated and combined with PRF. Preliminary results from clinical research also support the increased tissue perfusion (conveying potentially enhanced healing) and graft integration of soft tissue graft substitutes when utilized with such biologics and healing enhancers.
+
+FIGURE 5
+
+Root coverage of multiple gingival recessions in the anterior maxillary region associated with previously restored non‐carious cervical lesions for a patient planning to undergo orthodontic therapy. (A) Maxillary gingival recessions at baseline. Notice the previously restored, and currently contaminated composite restorations. (B) Incision design for the tunneled coronally advanced flap (TCAF). (C) Reflection of a split‐thickness flap and reflection of the papillae between the canine and premolars. (D) Removal of the previous composite filling and restoration of the coronal portion of the cervical lesion with a composite filling takes place after scaling and root planning and decontamination of the exposed root and coronal surfaces. The anatomic papillae that were incised are also de‐epithelialized. (E) PRF is obtained after venipuncture and during centrifugation, an appropriate size of a human dermal matrix is prepared and hydrated with the obtained growth factors. (F) The growth factor is also applied on the root surfaces and periosteum. (G) The hydrated dermal matrix is secured and sutured using 7‐0 polyglycolic acid suture (PGA) material. (H) The remainder of the obtained growth factors are applied on the graft and (I) the flap is coronally positioned and sutured using 6‐0 polyprolene single interrupted sling sutures. (J) Initial follow‐up at approximately 2–3 week's time frame where sutures are removed. (K) 3‐ and (L) 6‐month healing after the surgical intervention demonstrating satisfactory root coverage results.
+
+FIGURE 6
+
+Demonstration of the clinical healing and ultrasonographic assessment of the treated maxillary canine as part of the previous case (Figure). The panels on the right of the clinical photo are representations of the ultrasound imaging modes on the mid‐facial aspect of the same tooth at each healing time (B*: B‐mode, CV: color velocity, and CP: color power). CV and CP display information regarding the perfusion of blood in the region. Note the CV and CP images that correspond to the immediate post‐operative scans that display the grafted soft tissues and the region that is not vascularized, showing the dermal matrix. Note the same region starts to increase in vascularity as the healing progresses and at 3–6 months where the graft and flap are ultrasonographically indistinguishable and graft integration has already occurred at 3 months. The displayed color velocity visualizes the velocity (speed) at which blood flows, while color power shows the amount of blood flowing within the ultrasound beam in the field of view. Color velocity imaging was performed with a constant velocity scale (±2.3 cm/s), with red indicating blood flow toward the transducer and blue denoting blood flow in the opposite direction. Color power is displayed in a single hue of red.
+
+5.5
+
+Factors to consider for root coverage: When can we expect to gain more from using biologics and healing enhancers? And in what scenarios could we expect similar results from, and biologics with, or without a non‐autogenous graft?
+
+Among the literature, many factors (on a patient/systemic, as well as local level) have been identified to be associated with the outcomes of root coverage procedures. Indeed technical/surgical factors pertinent to the surgery (such as the skill and experience of the operator) are also notable here. Among systemic factors, the presence of any potential medication or systemic condition that can affect the healing of oral tissues can also affect the outcomes of root coverage surgery. This could be factors such as uncontrolled diabetes, smoking (which could have both a systemic as well as local effect), alcohol intake, and so on.
+
+When it comes to the patient, compliance, particularly during the initial period of wound healing (i.e., the first 2–3 weeks) is of paramount importance. For this reason, clinicians are strongly suggested to review pertinent post‐operative information ahead of time, and not only after the procedure. A thorough overview of post‐op instructions during the consultation visit and prior to scheduling the procedure can provide patients with ample time for preparation and adjustments to lifestyle and routine habits. This is crucial and should not be ignored. It is suggested that post‐operatively all detailed instructions be provided to patients in written form, and discussed with patients again, after the visit (sometimes done via post‐op communication after the procedure).
+
+As it relates to relevant local/site factors, over the years, many that could potentially limit, or aid in the final amount of root coverage, have also been highlighted. These include, but are not limited to, interproximal attachment levels, the soft tissue phenotype, vestibular depth, tooth positioning, the papillae, and location of the tooth in the arch, among others.,,,,,,
+
+In fact, several of the above factors have been noted as reasons for adjusting traditional flap designs, when attempting root coverage procedures.For example, it has been suggested that the amount of KTW, the presence of interproximal attachment loss, recession depth, and the dimension of the papillae are to be considered when choosing the flap approach for root coverage procedure (coronally advanced flap, tunnel techniques, tunneled coronally advanced flap, etc.).,,,,,
+
+When considering the above, it can be reasoned that the more favorable the pertinent conditions can be (as it relates to patient/systemic and local factors), the more chance of obtaining heightened successful results after root coverage surgery, and thus, the less can be the need for utilization of CTG. While it has not yet been empirically proven, it can be assumed based on the current knowledge that in a compliant patient, treating minimal gingival recession defects (such as up to 3 mm) in the anterior maxilla (where the gingival tissues tend to be with greater bands of KTW and GT, with deeper vestibule, wider papillae, etc.) utilization of CTG may not be needed or could potentially provide nominal results as compared to only utilizing biologic agents with or without graft substitutes. Conversely, in the treatment of mandibular canines where more deficient papillae are noted, as well as a shallow vestibule and lack of KTW and GT of the gingivae, it can be assumed that regardless of the surgical approach (flap design), the application of CTG would likely lead to significantly enhanced results.
+
+In addition, when it comes to the selection of graft materials, while graft substitutes have shown capable of increasing GT,a predictable increasing of KTW seems to be a property of autogenous grafts alone. Therefore, CTG should be preferred in the absence of KTW or in scenarios with a minimal amount of KTW, whereas in the presence of an adequate band of KTW, clinicians should consider using graft substitutes, for significantly reducing post‐operative morbidity. In addition, clinicians should bear in mind that in the case of treating multiple adjacent recession defects, a combination of autogenous CTG and matrices can be employed, based on the phenotypic characteristics of the sites, thus utilizing a site‐specific approach for biomaterial and graft selection.
+
+The use of biologics in addition to autogenous graft and substitutes has also been recommended for challenging cases (e.g., severe recession defects), and/or in combination with matrices in clinical scenarios when CTG is not or cannot be utilized.,Adjunctive use of biologics can further enhance initial post‐operative healing,and may also aid in increasing the volume stability of the selected graft material.,
+
+5.6
+
+Can biologics orreplace autogenous graft?
+
+Patient‐reported outcomes, including post‐operative discomfort, treatment satisfaction, and subjective self‐reported esthetic evaluation, are nowadays considered important outcomes as clinical and objective professionally evaluated esthetic outcomes of root coverage procedures. There is robust evidence for the superiority of CTG in terms of mean and complete root coverage compared to graft substitutes and biologics,,,nevertheless, routinely labeling the CTG as the “gold standard” in all scenarios may also not be appropriate. The optimum treatment or selection of an approach may vary from case to case, of from patient to patient. Clinician considerations, preferences, and patient's expectations are also to be considered. Overall, biologics have shown capable of promoting root coverage of recession defects, in particular when applied in combination with matrices/scaffolds.,,,,Combination therapies may also be recommended instead of, or combined with autogenous CTG in case of multiple recession defects. Autogenous grafts should be preferred at sites with deep recessions, and at sites lacking keratinized tissue, while combination therapies should be considered at sites having a consistent band of keratinized gingiva.,,Particularly it should be noted that in the case of untreated dentition, the presence of KT is also correlated with an increased GT, both of which can help the root coverage approach in providing stability to the blood clot and during the fragile initial phase of the healing (the critical 2 weeks post‐op).
+
+We recommend selecting the graft of choice based on considering the patient's goals and expectations, as well as the specific anatomical characteristics of the mucogingival defects (i.e., the gingival phenotype to be treated as well as the severity of the defect, and the papillae), and importantly the patients' medical history.
+
+5.7
+
+Limitations of the systematic review
+
+We note that certain aspects were not able to be explored in our current analysis, due to the scarcity of information on this topic (combination of different matrices with APCs and biologics). Similarly, an exploration and statistical assessment of other commonly used and currently available growth factors and biologic agents, needs to occur relative to APCs each of which may provide their own specific benefit in a situation. Thus, we encourage the conduction of future studies, in particular randomized trials, ideally those with adequate control groups, to explore the relative efficacy and indeed the cost‐effectiveness of the variety of growth factors, in the realm of tissue‐engineering root coverage, and in general, periodontal regenerative procedures. Lastly, as it relates to standardized reporting of the blood preparation protocols, future studies should adopt a uniform method and statement, as commonly and scientifically described to reduce confusion with readers and aid in comprehension among clinicians as well. In addition, this will help in the critical assessment of readers and scientific scholars when reviewing the reported literature and specifically when considering implementation into daily patient care.
+
+5.8
+
+Evidence‐based clinical guidelines on APCs
+
+The use of APCs for root coverage procedure was found overall effective in reducing the amount of gingival recession.
+
+Among them, only PRF demonstrated to be able to increase the mean root coverage of CAF.
+
+KTW at baseline was found to be a key factor determining the root coverage outcomes with CAF, either alone or in combination with APCs.
+
+APCs did not significantly improve KTW or GT.
+
+The use of APCs for root coverage procedures is recommended in the presence of KTW and together with a matrix/scaffold to also promote a gain in GT.
+
+6
+
+CONCLUSIONS
+
+From the results of this systematic review and NMA, based on the available evidence from randomized trials, we found that the addition of PRF to CAF can potentially lead to an increased mean root coverage when treating gingival recessions, and when compared with the application of PRP, and CGF. It was also observed that the benefit of PRF in combination with CAF, was also intensified with the presence of keratinized tissue width at baseline, with an increasing relative association.
+
+We note that the true efficacy of autologous blood‐derived products as it pertains to root coverage, needs to be explored in conjunction with different graft substitutes and matrices, as well as relative to other commonly applied biologics (such as recombinant human platelet‐derived growth factor, enamel matrix derivatives, etc.), and thus the literature requires further support from conduction of randomized controlled clinical trials explicitly addressing this topic.
+
+FUNDING INFORMATION
+
+None. The study was self‐supported.
+
+CONFLICT OF INTEREST STATEMENT
+
+The authors declare no conflicts of interest.
+
+ETHICS STATEMENT
+
+Not applicable.
+
+PATIENT CONSENT STATEMENT
+
+Not applicable.
+
+Supporting information
+
+Appendix S1:

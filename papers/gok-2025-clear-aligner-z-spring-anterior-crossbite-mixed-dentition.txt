@@ -1,0 +1,23 @@
+Title: Effect of clear aligners and Z-spring appliance on anterior crossbite correction and quality of life in the mixed dentition: a randomized clinical trial
+Authors: Gok BN, Gungor AY, Erken Gungor O
+Journal: The Angle Orthodontist
+DOI: 10.2319/022125-154.1
+PMID: 41015409
+PMCID: PMC12746677
+Source: PubMed/PMC abstract (full text not retrieved via PMC — abstract-only; PMC returned empty body)
+
+Objectives
+
+To compare the effects of clear aligners and a Z-spring appliance on anterior crossbite correction and oral health-related quality of life in children with isolated dental (pseudo-Class III) anterior crossbite in the mixed dentition.
+
+Materials and Methods
+
+Thirty patients aged 7-12 years with Angle Class I molar relationship and isolated pseudo-Class III anterior crossbite were randomly assigned 1:1 to clear aligners (Group A, n=15) or a Z-spring appliance (Group B, n=15). Treatment duration, cephalometric changes, dental cast (model) analysis, and oral health-related quality of life (COHIP-SF-19) were assessed.
+
+Results
+
+Anterior crossbite was corrected successfully in all patients in both groups. Treatment duration was significantly shorter in Group B (Z-spring): 48.4 +/- 27 days vs 96.3 +/- 22.7 days in Group A (clear aligners) (p < .05). Cephalometrically, U1-NA angle increased 5.9 degrees in Group A and 7.7 degrees in Group B; overjet increased 4 mm in Group A and 4.2 mm in Group B (both within-group p < .01), with no significant between-group difference in change (p > .05). Model analysis showed Group A had significant increases in incisal (2.6 mm) and gingival (1.17 mm) arch depth (p < .001), while Group B showed no significant arch-depth change (p > .05). COHIP-SF-19 scores were comparable between groups (p > .05).
+
+Conclusions
+
+Both clear aligners and the Z-spring appliance effectively corrected anterior crossbite in the mixed dentition, but the Z-spring achieved correction roughly twice as fast. The two appliances produced different tooth movement patterns (Z-spring favoring tipping; clear aligners producing tipping, alignment, and bodily movement with arch-depth increase). Quality of life outcomes were similar between groups.

@@ -1,0 +1,49 @@
+{
+  "overview": "root-coverage-surgery-graft-adjunct-outcome-overview",
+  "date": "2026-07-23",
+  "title": "치근피개 수술 — 이식재·보조재·결과 — 리콜",
+  "source_wiki": [
+    "wiki/overviews/root-coverage-surgery-graft-adjunct-outcome-overview.md"
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "q": "혈소판풍부피브린(PRF)을 이미 이식재(예: 탈상피 치은이식 DGG)가 놓인 위에 추가하면 어떻게 되는가?",
+      "opts": [
+        "치근피개율이 유의하게 더 올라간다",
+        "피개 이득은 없고(DGG 93.30% vs DGG+L-PRF 95.28%, p>0.05) 유의한 차이는 술후 통증 감소뿐(Corekci 2025)",
+        "각화조직폭이 유의하게 증가한다",
+        "치은 두께가 두 배가 된다"
+      ],
+      "ans": 1,
+      "rat": "Corekci 2025 split-mouth RCT(n=15): DGG 93.30% vs DGG+L-PRF 95.28% 유의차 없음, 모든 이차 지표도 NS. 유의한 효과는 술후 6–7일 통증·2/3/5일 불편감 감소뿐. 이식재가 이미 피개 결과를 포화시킨다. '이식재가 피개를, 보조재가 이환율을 정한다'.",
+      "cite": "overviews/root-coverage-surgery-graft-adjunct-outcome-overview"
+    },
+    {
+      "id": "q2",
+      "q": "맨 치관변위판막(CAF)에 혈소판 농축물을 더할 때의 근거는? (Barootchi 2024, 109 RCT)",
+      "opts": [
+        "PRF·PRP·CGF 모두 유의하게 피개를 올린다",
+        "PRF만 평균치근피개율을 유의하게 올렸고(+6.12%) 그마저 기저 각화조직폭이 클수록 커진다 — 도움이 가장 필요한 케이스에서 가장 적게 돕는다",
+        "PRP가 가장 효과적이다",
+        "어떤 농축물도 효과가 없다"
+      ],
+      "ans": 1,
+      "rat": "Barootchi 2024 NMA(109 RCT, 4712 결손): CAF+PRF만 MRC +6.12%(95% CI 1.83–10.42, p=0.02) 유의, PRP·CGF는 무효. PRF 이득은 기저 KTW가 클수록 커지는 교호작용(+4.98, p=0.03). 신뢰구간 하한 1.83%는 임상적으로 미미할 수 있음.",
+      "cite": "overviews/root-coverage-surgery-graft-adjunct-outcome-overview"
+    },
+    {
+      "id": "q3",
+      "q": "Cairo 2025 메타회귀가 밝힌, 동의 설명을 재구성하게 만드는 지표 해리(dissociation)는?",
+      "opts": [
+        "평균 치근피개율(MRC%)이 술자 심미점수·환자 만족도 둘 다와 상관한다",
+        "MRC%는 술자 심미점수(RES)와는 상관하나 환자 심미 만족도와는 무상관 — 지각과민 완화는 술식 무관하게 발생",
+        "MRC%가 환자 만족도와만 상관한다",
+        "MRC%는 어떤 결과와도 상관하지 않는다"
+      ],
+      "ans": 1,
+      "rat": "Cairo 2025(50 RCT, 1820명): MRC%는 RES와 유의 연관, 환자 심미 만족도와는 무상관. 상아질 지각과민은 술식 종류와 무관하게 감소. 술자가 최적화하는 mm는 환자 만족을 예측하지 못하므로 동의 설명의 초점을 '몇 mm'에서 '시린 것·회복'으로.",
+      "cite": "overviews/root-coverage-surgery-graft-adjunct-outcome-overview"
+    }
+  ]
+}

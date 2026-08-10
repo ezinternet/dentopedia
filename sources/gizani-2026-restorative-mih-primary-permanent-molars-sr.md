@@ -13,13 +13,21 @@ source_collection: external
 
 기존 [[wiki/caries/konukman-turker-2026-hall-vs-modified-hall-primary-molars-rct]] (Hall technique RCT)와 [[wiki/caries/chavhan-2026-zirconia-vs-ssc-primary-dentition-sr-ma]] (preformed crown SR-MA)는 정상 우식치 대상의 수복재 비교를 다룬다. 본 SR (Gizani 2026)은 동일한 수복 옵션(GIC, 레진, 세라믹, 기성금속관, Hall technique)을 **법랑질 저광화 (Molar Incisor Hypomineralization, MIH)**라는 별도 질환 맥락에서 성공률·치수/치주 영향·OHRQoL로 종합해, 우식 치아 근거를 MIH 표면 결함 치아로 확장·대비하는 근거로 활용.
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (20 studies, 1,231 children, search to Sept 2025) of restorative interventions for MIH-affected first permanent molars (FPMs) and hypomineralized second primary molars (HSPM): overall clinical success 84% (12 mo) → 94% (18 mo) → 92% (24 mo) → 83% (36 mo); lowest for GIC (53% at 12 mo), highest (100%) for fabricated ceramic (18 mo) and preformed metal crowns/PMCs (24 mo); heterogeneity precluded meta-analysis and no evidence-based best-approach recommendation could be drawn.
+Systematic review (20 studies, 1,231 children, search to Sept 2025) of restorative interventions for MIH-affected first permanent molars (FPMs) and hypomineralized second primary molars (HSPM): overall clinical success 84% (12 mo) → 94% (18 mo) → 92% (24 mo) → 83% (36 mo);
 
-## 한줄요약
+lowest for GIC (53% at 12 mo), highest (100%) for fabricated ceramic (18 mo) and preformed metal crowns/PMCs (24 mo);
 
-체계적 문헌고찰 (20편, 1,231명, 2025년 9월까지 검색): **법랑질 저광화 (MIH)** 침범 제1대구치(FPM)·저광화 제2유구치(HSPM)의 수복 중재 성공률 종합 — 전체 임상 성공률 84%(12개월)→94%(18개월)→92%(24개월)→83%(36개월); 글래스아이오노머(GIC) 최저(12개월 53%), 제작 세라믹(18개월)·기성금속관(PMC, 24개월) 최고(100%); 이질성으로 메타분석 불가, 근거 기반 최적 수복법 권고 불가.
+heterogeneity precluded meta-analysis and no evidence-based best-approach recommendation could be drawn.
+
+## 세줄요약
+
+체계적 문헌고찰 (20편, 1,231명, 2025년 9월까지 검색): **법랑질 저광화 (MIH)** 침범 제1대구치(FPM)·저광화 제2유구치(HSPM)의 수복 중재 성공률 종합 — 전체 임상 성공률 84%(12개월)→94%(18개월)→92%(24개월)→83%(36개월);
+
+글래스아이오노머(GIC) 최저(12개월 53%), 제작 세라믹(18개월)·기성금속관(PMC, 24개월) 최고(100%);
+
+이질성으로 메타분석 불가, 근거 기반 최적 수복법 권고 불가.
 
 ## 1. Document Information
 

@@ -9,8 +9,21 @@ pdf_filename: genc-2025-cleaning-protocols-zirconia-bond-strength.pdf
 source_collection: external
 ---
 
-## One-line Summary
-In-vitro (J Adhes Dent 2025): 모노리식 지르코니아 타액 오염 후 세정 6종 비교 — 샌드블라스팅+Ivoclean(9.3 MPa) 최우수; 이소프로판올 최열등; 알코올·물·퍼미스 무효.
+## Three-line Summary
+
+In-vitro (J Adhes Dent 2025): 모노리식 지르코니아 타액 오염 후 세정 6종 비교 — 샌드블라스팅+Ivoclean(9.3 MPa) 최우수
+
+이소프로판올 최열등
+
+알코올·물·퍼미스 무효.
+
+## 세줄요약
+
+모노리식 지르코니아에 인공타액 오염 후 6가지 세정 방법 비교 in vitro (n=105, 열순환 5000회)
+
+샌드블라스팅+Ivoclean: 9.3 MPa 최우수, Ivoclean 단독 7.21 MPa, 이소프로필알코올 3.04 MPa(대조군 3.65)
+
+타액 오염 제거 시 Ivoclean 필수, 샌드블라스팅 병용 권장; 알코올 단독은 추천 불가
 
 ## 1. Document Information
 J Adhes Dent 2025;27:93-102. doi:10.3290/j.jad.c_2011. Selcuk University (Turkey) + Univ Zurich. 모노리식 지르코니아 105개 시편, 열순환 5,000회.

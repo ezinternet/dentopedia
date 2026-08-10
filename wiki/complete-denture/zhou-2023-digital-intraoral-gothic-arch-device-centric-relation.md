@@ -6,7 +6,7 @@ date: 2023-02-18
 doi: 10.19723/j.issn.1671-167X.2023.01.015
 source: zhou-2023-digital-intraoral-gothic-arch-device-centric-relation.md
 category: [complete-denture]
-confidence: prospective
+evidence_level: prospective
 source_collection: pubmed-text
 full_text: false
 pmid: "36718696"
@@ -22,13 +22,21 @@ relations:
     target: fayad-2025-vertical-dimension-determination-prosthodontics-review
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Prospective in-mouth paired comparison (n=10 edentulous patients) showing a digitally manufactured simple intraoral Gothic arch tracer matches the conventional intraoral tracer for centric-relation registration — all mandibular positional deviations <0.5 mm — while cutting clinical chair time from ~57.5 to ~41.9 min (P<0.01).
+Prospective within-patient paired comparison (n=10 edentulous outpatients) validating a CAD/CAM-manufactured simplified intraoral Gothic arch tracer against the conventional intraoral device for centric-relation (CR) registration in complete-denture prosthodontics.
 
-## 한줄요약
+The digital simplified tracer reproduced conventional CR to within 0.5 mm in all midline and molar regions (labial/buccal-lingual and vertical), and significantly reduced clinical operating time from 57.5 ± 2.37 min to 41.90 ± 2.64 min (P<0.01); denture try-in showed no midline deviation or instability in either group.
 
-무치악 환자 10명 대상 구내 짝지움 전향적 비교로, 디지털 제작 간이 구내 고딕아치 장치가 전통적 구내 장치와 정중관계 등록에서 일치(하악 위치 편차 모두 0.5 mm 이내)하면서 임상 시간을 약 57.5분에서 41.9분으로 단축(P<0.01)함을 보였다.
+A CAD/CAM simplified intraoral Gothic arch device is a clinically acceptable, time-saving alternative for CR determination — though the study is limited by n=10, a single Chinese-language journal source, and abstract-only availability.
+
+## 세줄요약
+
+무치악 외래환자 10명 자가대조 전향적 비교 — CAD/CAM 제작 간이 구내 고딕아치 장치를 기존 구내 장치와 정중관계(CR) 등록 정확도로 비교.
+
+디지털 간이 장치가 기존 장치와의 차이를 중절치·구치부 모든 방향에서 0.5 mm 이내로 유지; 임상 소요시간을 57.5±2.37분 → 41.90±2.64분으로 유의하게 단축(P<0.01); 시적 의치에서 정중선 편위·불안정 없음.
+
+CAD/CAM 간이 구내 고딕아치 장치는 시간 절약 없이 정확도를 유지하는 실용적 대안; 단, n=10 소규모·중국어 학술지 원문 미확보의 한계 존재.
 
 > [!note] Abstract-only ingest
 > Full text was not available from PMC (Chinese-language journal). This page is written from the translated abstract; fabrication, scanner, and statistical detail are not captured. Source: PubMed / PMC9894803, [DOI](https://doi.org/10.19723/j.issn.1671-167X.2023.01.015).

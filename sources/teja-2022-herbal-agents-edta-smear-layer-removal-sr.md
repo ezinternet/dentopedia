@@ -13,11 +13,21 @@ source_collection: external
 
 [[endodontics/irrigation/fortea-2024-chelating-agents-endodontic-treatment-sr]]의 EDTA 기준에 herbal 대체제(천연 킬레이터) 비교 축 추가. quixabeira·noni·oregano·neem이 smear layer 제거에서 EDTA에 비빌 수 있는지 정리.
 
-## One-line Summary
+## Three-line Summary
+
 SR of in vitro studies comparing herbal agents with EDTA for smear-layer removal, finding quixabeira, Morinda citrifolia, oregano extract, and neem better than other herbals but EDTA generally remaining the reference.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 In vitro SR: smear layer 제거에서 herbal 대체제와 EDTA 비교 — quixabeira·noni·오레가노·님이 타 herbal보다 우수하나 EDTA가 대체로 기준.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - Int J Environ Res Public Health 2022;19:6870. MDPI. Open Access.

@@ -10,8 +10,21 @@ pdf_filename: kim-2022-ca-implant-superhydrophilic-surface-long-term.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Retrospective study (258 Osstem CA implants, 120 patients, avg 62 months): 97.3% survival, 94.2% success, MBL 0.074mm — super hydrophilic calcium-modified SA surface demonstrates excellent long-term outcomes.
+## Three-line Summary
+
+Retrospective study (258 Osstem CA implants, 120 patients, avg
+
+62 months): 97.3% survival, 94.2% success, MBL 0.074mm —
+
+super hydrophilic calcium-modified SA surface demonstrates excellent long-term outcomes.
+
+## 세줄요약
+
+Retrospective study (258 Osstem CA implants, 120 patients, avg
+
+62 months): 97.3% survival, 94.2% success, MBL 0.074mm —
+
+super hydrophilic calcium-modified SA surface demonstrates excellent long-term outcomes.
 
 ## 1. Document Information
 - Journal: BMC Oral Health 22:97 (2022)

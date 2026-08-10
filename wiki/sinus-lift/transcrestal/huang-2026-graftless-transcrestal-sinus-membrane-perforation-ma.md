@@ -6,7 +6,7 @@ date: 2026-06-04
 doi: 10.2340/aos.v85.46021
 source: huang-2026-graftless-transcrestal-sinus-membrane-perforation-ma.md
 category: [sinus-lift/transcrestal]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "42240171"
@@ -22,13 +22,21 @@ relations:
     target: guo-2020-non-grafted-platelet-concentrations-grafted-transcrestal-sinus
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (14 studies, 2119 graftless transcrestal sinus-lift sites): pooled Schneiderian membrane perforation incidence 1% (95% CI 0–6%), early implant failure ≤12mo 1%, no postoperative sinusitis/epistaxis; subgroup shows motor-driven OD 34% perforation vs conventional osteotome 0% (GRADE very low certainty).
+SR+MA (14 studies, 4 RCTs + 10 non-randomised cohorts, 1370 patients, 2119 graftless transcrestal sinus-lift sites) — the first meta-analysis isolating Schneiderian membrane perforation rates specific to graftless transcrestal techniques.
 
-## 한줄요약
+Pooled perforation incidence was 1% (95% CI 0–6%), early implant failure ≤12 months was 1%, and no postoperative sinusitis or epistaxis was reported; surgical technique explained 66.9% of heterogeneity, with motor-driven osseodensification (OD) at 34% versus conventional osteotome at 0% perforation.
 
-SR+MA (14편, 무이식 경치조골 상악동거상 부위 2119곳): 슈나이더막 천공 발생률 통합 1% (95% CI 0–6%), 12개월 내 조기 임플란트 실패 1%, 술후 부비동염·비출혈 보고 없음. 단 모터구동 골밀도화(OD) 34% 천공 vs 전통 osteotome 0%로 술식 의존성이 큼 (GRADE 매우 낮은 확실성).
+Graftless transcrestal sinus elevation is a low-complication approach overall, but technique selection is critical — conventional osteotome (OSFE) is the safest, while motor-driven OD carries a substantially higher perforation risk requiring training and strict speed/torque adherence (GRADE very low certainty for all outcomes).
+
+## 세줄요약
+
+SR+MA (14편, RCT 4 + 비무작위 10, 환자 1370명, 무이식 경치조골 상악동거상 부위 2119곳) — 무이식 transcrestal 기법에서 슈나이더막(Schneiderian membrane) 천공률만 독립 분석한 최초 메타분석.
+
+통합 천공 발생률 1% (95% CI 0–6%), 12개월 내 조기 임플란트 실패 1%, 술후 부비동염·비출혈 보고 없음; 이질성의 66.9%를 술식(technique)이 설명 — 모터구동 골밀도화(Osseodensification, OD) 34% vs 전통 osteotome(OSFE) 0%.
+
+전반적으로 무이식 경치조골 상악동거상은 안전하나, 술식 선택이 결정적 — 기존 osteotome·최소침습(MISE)이 가장 안전하며, 모터구동 OD는 천공 위험이 현저히 높아 교육과 제조사 속도·토크 준수 필수 (GRADE 전 항목 매우 낮은 확실성).
 
 ## Summary
 

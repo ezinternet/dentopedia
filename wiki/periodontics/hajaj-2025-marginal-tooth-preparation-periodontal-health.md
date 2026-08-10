@@ -6,7 +6,7 @@ date: 2025-10-04
 doi: 10.3390/jcm14197038
 source: hajaj-2025-marginal-tooth-preparation-periodontal-health.md
 category: [periodontics]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/hajaj-2025-marginal-tooth-preparation-periodontal-health.pdf
 pdf_filename: hajaj-2025-marginal-tooth-preparation-periodontal-health.pdf
 source_collection: external
@@ -18,13 +18,21 @@ relations:
     target: lamichhane-2025-crown-margins-marginal-adaptation-periodontal
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review (112 studies) comparing horizontal preparations (chamfer/shoulder) with the vertical Biologically Oriented Preparation Technique (BOPT); BOPT is associated with greater gingival thickness, stable probing depths (<0.2 mm variation), lower BOP (<10%), and up to 10-year margin stability, but evidence is limited and superiority over horizontal designs is unproven.
+Narrative review (112 studies, structured search across PubMed/MEDLINE/Scopus/Web of Science/Google Scholar, Jan 2000–Jan 2025) comparing horizontal finish lines (chamfer/shoulder) with the vertical Biologically Oriented Preparation Technique (BOPT) across periodontal, biomechanical, esthetic, and digital-workflow outcomes.
 
-## 한줄요약
+BOPT is associated with increased gingival thickness, stable probing depths (<0.2 mm variation), BOP <10%, and up to 10-year margin stability; subgingival chamfer/shoulder designs are linked to BOP >25% and anterior papilla loss at 2–3 years.
 
-내러티브 리뷰(112편): 수평 변연(chamfer/shoulder) vs 수직 변연 BOPT. BOPT는 치은 두께 증가·안정적 probing depth(<0.2mm)·낮은 BOP(<10%)·10년 변연 안정성과 연관되나 근거가 제한적이고 우월성은 미입증.
+BOPT is a promising preparation concept for anterior/thin-biotype situations and reduces tooth structure loss in vitro, but superiority over conventional horizontal designs is unproven due to heterogeneous evidence — individualization is required (BOPT for anterior/thin biotype, horizontal for posterior/high biomechanical demand).
+
+## 세줄요약
+
+내러티브 리뷰 (112편, 검색 2000–2025년 1월): 수평 변연(챔퍼/숄더)과 수직 변연 생물학적 지향 치아 삭제법(Biologically Oriented Preparation Technique, BOPT)을 치주·생역학·심미·디지털 워크플로우 영역에서 비교.
+
+BOPT는 치은 두께 증가·probing depth 안정(<0.2 mm)·BOP <10%·10년 변연 안정성과 연관; 치은연하 챔퍼/숄더는 2–3년 시 BOP >25% 및 전방부 치간유두 소실과 연관.
+
+BOPT는 전방부/얇은 치은생물형에서 유망하고 시험관 내 치질 보존 우수하나, 이질적 근거로 수평 변환 대비 우월성은 미입증 — 증례별 적용 필요(전방/얇은 생물형→BOPT, 구치/고하중→수평 변환).
 
 ## Summary
 

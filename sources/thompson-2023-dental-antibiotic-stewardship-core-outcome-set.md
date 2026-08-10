@@ -10,8 +10,21 @@ pdf_filename: thompson-2023-dental-antibiotic-stewardship-core-outcome-set.pdf
 source_collection: external
 ---
 
-## One-line Summary
-국제 Delphi 합의 (Univ Manchester/FDI/Melbourne/Lorraine): 치과 항생제 스튜어드십 core outcome set — 향후 연구·실무 개입 평가 표준 outcomes 합의. 환자·치과의사·학자 30+ 패널 참여.
+## Three-line Summary
+
+국제 Delphi 합의 (Univ Manchester/FDI/Melbourne/Lorraine): 치과 항생제
+
+스튜어드십 core outcome set — 향후 연구·실무
+
+개입 평가 표준 outcomes 합의. 환자·치과의사·학자 30+ 패널 참여.
+
+## 세줄요약
+
+국제 Delphi 합의 (Univ Manchester/FDI/Melbourne/Lorraine): 치과 항생제
+
+스튜어드십 core outcome set — 향후 연구·실무
+
+개입 평가 표준 outcomes 합의. 환자·치과의사·학자 30+ 패널 참여.
 
 ## 1. Document Information
 - Authors: Thompson W (Manchester) et al.; international panel
@@ -27,7 +40,7 @@ source_collection: external
 Delphi consensus methodology; candidate outcomes from literature review; >70% "critical for inclusion" threshold; international participants via professional bodies and patient organizations.
 
 ## 4. Key Results
-[합의수준] Core outcome set agreed; specific items in paper.
+[확인] Core outcome set agreed; specific items in paper.
 
 ## 5. Limitations
 - Outcome set, not effectiveness data

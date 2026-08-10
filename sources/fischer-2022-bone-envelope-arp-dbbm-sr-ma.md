@@ -13,13 +13,21 @@ source_collection: external
 
 Quantifies the residual bone envelope (width/height) achievable after ARP with DBBM — directly answers the clinical question "can we place standard-diameter implants without additional augmentation?" after socket preservation. Provides probability figures (6–19%) for implant placement with ≥2 mm surrounding bone, which is crucial context for [[bone-regeneration/ridge-preservation/scheyer-2016-alveolar-ridge-preservation-multicentre-rct]] and other ARP protocol pages.
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 9 RCTs (177 ARP vs 130 SH implants): DBBM-based ARP gains 1.13 mm ridge width on average, but only 6–19% of cases achieve ≥2 mm circumferential bone to avoid all further augmentation.
+SR+MA of 9 RCTs (177 ARP vs 130 SH implants) comparing alveolar ridge preservation with deproteinized bovine bone mineral (DBBM) to spontaneous healing.
 
-## 한줄요약
+DBBM-based ARP gains 1.13 mm ridge width on average (95% CI 0.28–1.98); probability of placing implants without additional GBR at 4 mm diameter is only 14%, dropping to 6% at 5 mm diameter.
 
-9개 RCT 메타분석: DBBM 치조골보존술은 평균 1.13 mm 폭 유지 이점을 주나, 추가 골증대 없이 표준 직경 임플란트 식립 가능한 경우는 6–19%에 불과.
+Although ARP provides measurable ridge preservation, 80–94% of cases still require additional augmentation at implant placement, limiting the standalone utility of ARP in avoiding staged GBR protocols.
+
+## 세줄요약
+
+9개 RCT의 체계적 고찰·메타분석: 탈단백 우골(DBBM) 기반 치조골보존술(ARP)을 자연치유와 비교 (ARP 177개, 자연치유 130개 임플란트).
+
+DBBM-ARP는 평균 1.13 mm 폭 이득(95% CI 0.28–1.98); 직경 4 mm 임플란트 추가 골증대 없이 식립 가능 확률 14%, 5 mm에서는 6%에 불과.
+
+ARP는 측정 가능한 골보존 효과가 있으나, 경우의 80–94%에서 여전히 임플란트 식립 시점에 추가 골증대(GBR)가 필요하므로 단독 요법으로는 제한적.
 
 ## 1. Document Information
 

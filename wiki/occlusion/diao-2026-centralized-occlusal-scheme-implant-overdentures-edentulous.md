@@ -6,7 +6,7 @@ date: 2026-02-18
 doi: 10.19723/j.issn.1671-167X.2026.01.017
 source: diao-2026-centralized-occlusal-scheme-implant-overdentures-edentulous.md
 category: [occlusion]
-confidence: prospective
+evidence_level: prospective
 source_collection: pubmed-text
 full_text: false
 pmid: "41633595"
@@ -22,13 +22,21 @@ relations:
     target: bhambhani-2020-choosing-denture-occlusion-systematic-review
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Randomized crossover trial (n=5 edentulous, 2 mandibular implants each): a novel "centralized occlusal scheme" — maxillary canines reshaped to add centric contacts over the canine pillar — improved occlusal contact area by 21.22% and masticatory efficiency by 21.87% vs conventional bilateral balanced occlusion, restoring chewing to 55.13% of natural dentition, with comparable satisfaction/speech/aesthetics (abstract-only).
+Randomized crossover RCT (n=5 completely edentulous patients, each with 2 mandibular implants; within-patient randomized sequence; outcomes: masticatory efficiency via two-color chewing-gum method, occlusal contact area via digital virtual-articulating-paper, patient satisfaction questionnaires, and FEA) comparing a novel "centralized occlusal scheme" against conventional bilateral balanced occlusion in implant overdentures (abstract-only; full text not retrievable).
 
-## 한줄요약
+The centralized scheme — maxillary canines reshaped to provide centric contacts over the canine buttress/pillar — improved occlusal contact area by 21.22% (95% range 17.48–26.01%) and masticatory efficiency by 21.87% (17.51–24.18%), restoring chewing to 55.13% of natural-dentition efficiency, while patient satisfaction, speech, and aesthetics were comparable between schemes; FEA confirmed the centralized design extended the support area to the maxillary canine region.
 
-무치악 환자 5명(하악 임플란트 각 2개) 무작위 크로스오버 연구. 상악 견치를 개형해 정중 교합접촉을 추가한 새 "집중교합형(centralized occlusal scheme)"이 전통적 양측성 균형교합 대비 교합접촉면적 21.22%·저작효율 21.87% 향상(자연치열의 55.13%까지 회복), 만족도·발음·심미는 동등 (초록만 확보).
+Preliminary feasibility evidence (n=5, surrogate short-term endpoints) supports the centralized occlusal scheme as a mechanically rational alternative to bilateral balanced occlusion for mandibular two-implant overdentures that better aligns load with the anterior implant support center.
+
+## 세줄요약
+
+무작위 크로스오버 무작위대조시험(n=5 완전 무치악, 각 하악 임플란트 2개, 환자 내 무작위 순서): 신규 "집중교합형(centralized occlusal scheme)"과 전통적 양측성 균형교합(Bilaterally Balanced Occlusion)을 비교했으며 저작효율(두 색 껌법)·교합접촉면적(디지털 가상교합지)·만족도 설문·유한요소분석(FEA)으로 평가하였다(초록만 확보).
+
+집중교합형 — 상악 견치를 변형해 견치 지주(canine pillar) 위에 정중 교합접촉 추가 — 은 교합접촉면적을 21.22%·저작효율을 21.87% 향상시켜 자연치열 효율의 55.13%까지 회복했으며, 환자 만족·발음·심미는 양 군 동등했고 FEA에서 지지 면적이 상악 견치 영역까지 확장됨을 확인하였다.
+
+예비 타당성 근거(n=5, 대리 단기 결과)이지만, 집중교합형이 전방 임플란트 지지 중심에 하중을 더 잘 맞추는 역학적으로 합리적인 대안임을 지지한다.
 
 ## Summary
 

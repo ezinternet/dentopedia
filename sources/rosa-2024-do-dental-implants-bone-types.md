@@ -10,8 +10,21 @@ pdf_filename: rosa-2024-do-dental-implants-bone-types.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Systematic review and meta-analysis of 49 studies (29,905 implants) confirms that implants in bone type IV fail significantly more than in types I, II, and III, with type I and II showing equivalent survival rates and both superior to type III.
+## Three-line Summary
+
+Systematic review and meta-analysis of 49 studies (29,905 implants) confirms that implants in
+
+bone type IV fail significantly more than in types I, II, and III,
+
+with type I and II showing equivalent survival rates and both superior to type III.
+
+## 세줄요약
+
+체계적 고찰 (SR) and 메타분석 (MA) of 49 studies (29,905 임플란트) confirms that 임플란트 in
+
+bone type IV fail 유의미한ly more than in types I, II, and III,
+
+with type I and II showing equivalent 생존율s and both superior to type III.
 
 ## 1. Document Information
 - **Type**: Systematic review and meta-analysis (PRISMA / PROSPERO CRD42021229775)

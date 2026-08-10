@@ -6,19 +6,28 @@ date: 2021-04-16
 doi: 10.3390/jcm10081733
 source: jeon-2021-orthodontic-tooth-movement-mechanisms-animal.md
 category: [orthodontics]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/jeon-2021-orthodontic-tooth-movement-mechanisms-animal.pdf
 pdf_filename: jeon-2021-orthodontic-tooth-movement-mechanisms-animal.pdf
 source_collection: external
 tags: [orthodontic-tooth-movement, otm, rankl, tnf-alpha, dkk1, sclerostin, tgf-beta, bmp, mechanosensing, osteoclastogenesis, transgenic-animal, pdl]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Critical review of transgenic animal model studies on orthodontic tooth movement (OTM) mechanisms (JCM 2021): compression-side osteoclastogenesis driven by sterile inflammation (TNF, IL-1, IL-6, PGE₂), RANKL, and Wnt inhibitors DKK1/sclerostin, versus tension-side bone formation via BMP/Runx2, with FAK, cilia, and ion channels as PDL mechanosensors; conditional knockout/overexpression models establish cause-and-effect not obtainable from human GCF or in vitro studies.
+Critical review of transgenic animal model studies (JCM 2021, Univ. Pennsylvania) establishing cause-and-effect mechanisms of orthodontic tooth movement (OTM) via conditional knockout and overexpression models.
 
-## 한줄요약
-교정적 치아이동(OTM) 기전 형질전환 동물 연구 critical review (JCM 2021): 압박측 파골세포생성(RANKL·TNF-α)·인장측 골형성(BMP·Runx2); DKK1·sclerostin Wnt 억제; 기계감지(FAK·cilia·이온채널) 경로 규명.
+Compression-side sterile inflammation (TNF, IL-1, IL-6, PGE₂) drives RANKL-mediated osteoclastogenesis, while Wnt inhibitors DKK1 and sclerostin suppress osteoblast activity; tension-side bone formation is governed by BMP/Runx2; FAK, cilia, and ion channels act as PDL mechanosensors.
+
+Transgenic animal models provide the causal mechanistic data that human GCF cytokine studies and in vitro work cannot — they identify which molecular signals are necessary vs. incidental for OTM.
+
+## 세줄요약
+
+교정적 치아이동(OTM) 기전을 형질전환 동물 모델(조건부 녹아웃·과발현)로 인과관계를 규명한 critical review (JCM 2021, 펜실베이니아대).
+
+압박측: 무균성 염증(TNF·IL-1·IL-6·PGE₂) → RANKL 매개 파골세포생성; Wnt 억제제 DKK1·sclerostin이 조골세포 억제; 장력측: BMP/Runx2 주도 골형성; FAK·cilia·이온채널이 PDL 기계감지.
+
+형질전환 동물 모델은 인간 GCF 연구나 체외 실험이 제공하지 못하는 인과관계 데이터를 제공하여 어떤 분자 신호가 OTM에 필수인지 규명함.
 
 ## Summary
 Critical review of transgenic animal model studies for orthodontic tooth movement (OTM) mechanisms. Published April 2021, JCM 10:1733, University of Pennsylvania. Summarizes cellular and molecular events established via cause-and-effect from knockout/overexpression animal models.

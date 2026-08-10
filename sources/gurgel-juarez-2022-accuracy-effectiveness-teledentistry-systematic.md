@@ -17,13 +17,21 @@ text_filename: gurgel-juarez-2022-accuracy-effectiveness-teledentistry-systemati
 
 Opens a teledentistry (원격치과, teledentistry) sub-topic in the thin practice-management category — the service-delivery evidence base for remote referral, triage, screening, and treatment planning, sharpened by COVID-19. Pairs with the concurrently-ingested teledentistry cost umbrella review and extends practice-management beyond the in-clinic operational/legal focus of [[practice-management/nosrat-2025-endodontist-gp-nsrct-clinical-approaches-cohort]] toward how care is delivered at a distance.
 
-## One-line Summary
+## Three-line Summary
 
 Umbrella review (review of 6 SRs, >7,000 participants, 30 primary studies of interest) finding teledentistry is an effective means for dental referrals, treatment planning, and treatment monitoring, with sensitivity/specificity of 80-88% / 73-95% for referrals and diagnostic-treatment planning — though the included SRs were of low/critically low AMSTAR-2 quality.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 6개 체계적문헌고찰(SR)을 종합한 우산형 리뷰(umbrella review, >7,000명, 관심 1차연구 30편): 원격치과(teledentistry)는 치과 의뢰(referral)·치료계획·치료 모니터링에 효과적이며 의뢰·진단치료계획의 민감도/특이도가 80-88% / 73-95%로 대면검사에 필적 — 단 포함된 SR들은 AMSTAR-2 기준 low/critically low 품질이라 결론은 잠정적.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

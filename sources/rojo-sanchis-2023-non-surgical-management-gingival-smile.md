@@ -10,8 +10,21 @@ pdf_filename: rojo-sanchis-2023-non-surgical-management-gingival-smile.pdf
 source_collection: external
 ---
 
-## One-line Summary
-PRISMA-compliant SR+MA (15 studies qualitative, 11 quantitative, 1250 → 15 screening): BTX-A reduces gummy smile by pooled -3.22 mm at 2 weeks (95% CI -4.43 to -2.01) and -2.70 mm at 3 months (95% CI -4.52 to -0.88); pre-treatment exposure 3.5-7.2 mm; LLSAN/LLS/zygomaticus minor injected at 1.25-7.5 U/side; effect duration mostly 4-6 months with no return to baseline at 12 weeks.
+## Three-line Summary
+
+PRISMA-compliant SR+MA (15 studies qualitative, 11 quantitative, 1250 → 15 screening): BTX-A reduces gummy smile by pooled -3.22 mm at 2 weeks (95% CI -4.43 to -2.01) and -2.70 mm at 3 months (95% CI -4.52 to -0.88)
+
+pre-treatment exposure 3.5-7.2 mm
+
+LLSAN/LLS/zygomaticus minor injected at 1.25-7.5 U/side; effect duration mostly 4-6 months with no return to baseline at 12 weeks.
+
+## 세줄요약
+
+PRISMA-compliant 체계적 고찰 및 메타분석 (SR+MA) (15 studies qualitative, 11 quantitative, 1250 → 15 screening): BTX-A reduces gummy smile by pooled -3.22 mm at 2 weeks (95% CI -4.43 to -2.01) and -2.70 mm at 3 months (95% CI -4.52 to -0.88)
+
+pre-treatment exposure 3.5-7.2 mm
+
+LLSAN/LLS/zygomaticus minor injected at 1.25-7.5 U/side; effect duration mostly 4-6 months with no return to baseline at 12 weeks.
 
 ## 1. Document Information
 - Authors: Rojo-Sanchis C, Montiel-Company JM, Tarazona-Álvarez B, Haas-Junior OL, Peiró-Guijarro MA, Paredes-Gallardo V, Guijarro-Martínez R

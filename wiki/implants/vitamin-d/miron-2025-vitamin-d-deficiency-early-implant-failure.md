@@ -6,7 +6,7 @@ date: 2025-10-30
 doi: 10.1111/prd.70017
 source: miron-2025-vitamin-d-deficiency-early-implant-failure.md
 category: [implants/vitamin-d]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: false
 pmid: "41163589"
@@ -21,13 +21,21 @@ relations:
     target: fan-2024-smoking-early-implant-failure-sr-ma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (43 studies = 16 animal + 27 human, search to May 2025) finding that vitamin D deficiency is associated with up to a fourfold increase in early implant failures, while pre-surgical supplementation improved bone-implant contact (BIC) and osseointegration even in high-risk diabetic patients.
+Systematic review (43 studies = 16 animal + 27 human, search to May 2025) — the largest synthesis to date on vitamin D status and dental implant osseointegration, covering both supplementation and surface-coating intervention designs.
 
-## 한줄요약
+Vitamin D deficiency is associated with up to a fourfold increase in early implant failures; pre-surgical supplementation improved BIC and osseointegration outcomes in 22 of 27 human studies, including high-risk diabetic patients.
 
-체계적 문헌고찰(43편 = 동물 16편 + 사람 27편, 2025년 5월까지 검색)로, 비타민 D 결핍(Vitamin D deficiency)이 조기 임플란트 실패(Early Dental Implant Failure, EDIF)를 최대 4배까지 증가시키며, 수술 전 보충이 당뇨 등 고위험군에서도 골-임플란트 접촉(Bone-to-Implant Contact, BIC)과 골유착을 개선했다고 보고.
+Pre-operative vitamin D screening and correction is recommended as a modifiable intervention to reduce early failure risk; evidence is abstract-only, and the 43-study base spans heterogeneous animal and observational human designs.
+
+## 세줄요약
+
+체계적 문헌고찰 (43편 = 동물 16 + 사람 27, 2025년 5월까지 검색) — 비타민 D와 임플란트 골유착(Osseointegration)에 관한 현재까지 가장 큰 종합 분석, 보충제 및 표면 코팅 개입 설계 모두 포함.
+
+비타민 D 결핍 (Vitamin D Deficiency)은 조기 임플란트 실패 (Early Dental Implant Failure, EDIF)를 최대 4배 증가시키며; 사람 연구 27편 중 22편에서 수술 전 보충이 골-임플란트 접촉률 (BIC)과 골유착 개선, 당뇨 등 고위험군 포함.
+
+수술 전 비타민 D 선별검사 및 교정이 조기 실패 위험을 줄이는 교정 가능한 개입으로 권고; 초록만 입수된 상태이며, 43편의 근거는 이질적인 동물·관찰적 인체 연구가 혼재.
 
 ## Summary
 
@@ -61,5 +69,5 @@ This systematic review (Periodontology 2000, Miron et al. 2025) examined the rel
 
 - [[implants/vitamin-d/werny-2022-vitamin-d-osseointegration-dental-implants-sr]] — earlier SR on vitamin D and osseointegration; this paper extends it with a larger, more recent evidence base.
 - [[implants/vitamin-d/tallon-2024-vitamin-d-osseointegration-umbrella-review]] — umbrella review in the same subdomain; sibling synthesis.
-- [[implants/moy-2005-dental-implant-failure-rates-risk]] — foundational implant failure risk-factor study; vitamin D deficiency adds a modifiable systemic risk factor.
-- [[implants/fan-2024-smoking-early-implant-failure-sr-ma]] — SR+MA on smoking and early implant failure; parallel modifiable-risk-factor evidence for EDIF.
+- [[implants/survival/moy-2005-dental-implant-failure-rates-risk]] — foundational implant failure risk-factor study; vitamin D deficiency adds a modifiable systemic risk factor.
+- [[implants/survival/fan-2024-smoking-early-implant-failure-sr-ma]] — SR+MA on smoking and early implant failure; parallel modifiable-risk-factor evidence for EDIF.

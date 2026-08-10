@@ -16,13 +16,21 @@ text_filename: thakur-2026-probiotics-clear-aligner-biofilm-rct.txt
 
 `clear-aligner` 위생관리 축의 **개입(intervention) 데이터**. SR들이 일관되게 보고하는 "aligner는 치주 우위지만 plaque/biofilm 누적은 여전히 관리 대상"이라는 문제( [[wiki/orthodontics/clear-aligner/alhuwaizi-2026-clear-aligner-fixed-oral-hygiene-periodontal-grade-sr]] 가 위생/치주 등급으로 정립)에 대해, 소비자용 probiotic 4종(드링크·린스·구미·캡슐)이 aligner biofilm(CFU·EPS)을 단기적으로 줄일 수 있는지 직접 시험한 4-period crossover RCT. abstract-only, preliminary.
 
-## One-line Summary
+## Three-line Summary
 
-4-period single-blind crossover RCT (n=20 Invisalign users): all four consumer probiotic forms (drink/rinse/gummy/capsule) significantly reduced aligner biofilm viable counts (CFU/mL) and EPS matrix fluorescence vs pre-intervention (P<0.001), CFU reductions 0.62–1.06 log10 with the probiotic drink (Yakult) largest (1.055 log10); preliminary — short duration, label-only verification, no comparison vs mechanical cleaning.
+4-period single-blind crossover RCT (n=20 Invisalign users): all four consumer probiotic forms (drink/rinse/gummy/capsule) significantly reduced aligner biofilm viable counts (CFU/mL) and EPS matrix fluorescence vs pre-intervention (P<0.001), CFU reductions 0.62–1.06 log10 with the probiotic drink (Yakult) largest (1.055 log10);
 
-## 한줄요약
+preliminary — short duration, label-only verification, no comparison vs mechanical cleaning.
 
-4기간 단일맹검 교차 RCT(n=20 Invisalign 사용자): 소비자용 프로바이오틱 4종(드링크·린스·구미·캡슐) 모두 aligner biofilm 생균수(CFU/mL)와 EPS 기질 형광을 개입 전 대비 유의하게 감소(P<0.001), CFU 감소 0.62–1.06 log10로 드링크(야쿠르트)가 최대(1.055 log10). 단기간·라벨만 확인·기계적 세정 비교 없음 → 예비 결과.
+(incomplete)
+
+## 세줄요약
+
+4기간 단일맹검 교차 RCT(n=20 Invisalign 사용자): 소비자용 프로바이오틱 4종(드링크·린스·구미·캡슐) 모두 aligner biofilm 생균수(CFU/mL)와 EPS 기질 형광을 개입 전 대비 유의하게 감소(P<0.001), CFU 감소 0.62–1.06 log10로 드링크(야쿠르트)가 최대(1.055 log10).
+
+단기간·라벨만 확인·기계적 세정 비교 없음 → 예비 결과.
+
+(incomplete)
 
 ## 1. Document Information
 

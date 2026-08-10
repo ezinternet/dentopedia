@@ -6,18 +6,28 @@ date: 2008-05-01
 doi: 10.1177/154405910808700510
 source: wise-2008-tooth-eruption-orthodontic-movement-mechanisms.md
 category: [orthodontics]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/wise-2008-tooth-eruption-orthodontic-movement-mechanisms.pdf
 pdf_filename: wise-2008-tooth-eruption-orthodontic-movement-mechanisms.pdf
 source_collection: external
 tags: [tooth-eruption, orthodontic-tooth-movement, otm, dental-follicle, pdl, rankl, opg, csf-1, osteoclastogenesis, osteogenesis]
 ---
 
-## One-line Summary
-Comparative narrative review (J Dent Res 2008) of the molecular mechanisms of tooth eruption versus orthodontic tooth movement (OTM): both rely on osteoclastogenesis/osteogenesis and share core machinery (RANKL, OPG, CSF-1), but eruption requires the dental follicle and is physiological/developmental, whereas OTM requires the PDL and combines pathological and physiological responses.
+## Three-line Summary
 
-## 한줄요약
-치아 맹출(Tooth Eruption)과 교정적 치아이동(OTM) 기전 비교 리뷰 (J Dent Res 2008): 맹출은 치낭(dental follicle) 필수; 두 과정 모두 RANKL/OPG/CSF-1 공유; 맹출은 생리적·OTM은 병리+생리 복합; 하배열 영구치 vs 연속맹출치 기전 차이.
+Comparative narrative review (J Dent Res 2008, LSU/Univ. Washington) of the molecular mechanisms governing tooth eruption versus orthodontic tooth movement (OTM), synthesizing surgical, transgenic, and pharmacological evidence.
+
+Both processes depend on osteoclastogenesis and osteogenesis sharing core machinery (RANKL, OPG, CSF-1); eruption requires the dental follicle as its essential soft tissue and is primarily physiological/developmental; OTM requires the PDL and combines pathological (reversible injury, hyalinization) and physiological (mechanoadaptation) responses; CSF-1 is critical for limited-eruption teeth but not continuous-eruption teeth.
+
+Understanding the shared and distinct molecular pathways has translational implications: disrupting the RANKL/CSF-1 axis could selectively modulate eruption or OTM rate for clinical benefit.
+
+## 세줄요약
+
+치아 맹출(Tooth Eruption)과 교정적 치아이동(OTM) 기전을 외과적·형질전환·약물 근거를 통합하여 비교한 narrative review (J Dent Res 2008).
+
+두 과정 모두 RANKL·OPG·CSF-1 공유; 맹출은 치낭(dental follicle) 필수, 생리적·발달 과정; OTM은 PDL 필수, 병리적(가역적 손상·초자화)+생리적(기계적응) 복합; CSF-1은 한정 맹출 치아에는 필수이나 연속 맹출 치아에는 비필수.
+
+공유·비공유 분자 경로의 이해는 RANKL/CSF-1 축 조절을 통한 맹출 속도 또는 OTM 속도 선택적 변경이라는 임상 번역 가능성을 제시.
 
 ## Summary
 Comparative narrative review of molecular mechanisms of tooth eruption and orthodontic tooth movement (OTM). J Dent Res 2008;87(5):414–434. NIHMS49084. LSU Veterinary Medicine (Wise) + University of Washington Orthodontics (King).

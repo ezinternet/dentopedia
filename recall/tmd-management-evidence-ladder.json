@@ -1,0 +1,49 @@
+{
+  "overview": "tmd-management-evidence-ladder",
+  "date": "2026-07-23",
+  "title": "턱관절장애(TMD) 관리 근거 사다리 — 리콜",
+  "source_wiki": [
+    "wiki/overviews/tmd-management-evidence-ladder.md"
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "q": "TMD 관리에서 최고 근거의 치료 세 가지는? (BMJ NMA 2023, Yao, 233 RCT)",
+      "opts": [
+        "교합조정·교합거상·비가역 교합치료",
+        "인지행동치료(CBT)+바이오피드백(RD 36%), 치료사 보조 하악 가동화(36%), 수기 트리거포인트(32%)",
+        "관절천자·관절경·개방수술",
+        "장기 NSAIDs 단독요법"
+      ],
+      "ans": 1,
+      "rat": "BMJ NMA 2023(233 RCT, 59 개입) TOP 3: CBT+바이오피드백(위험차 36%), 치료사 보조 하악 가동화(36%), 수기 트리거포인트(32%) → '운동·대처 촉진 치료가 일관 최선'. 보존·비약물 1차, 비가역 교합치료는 최후. 유병률 31%, 근육형이 가장 흔함(45%).",
+      "cite": "overviews/tmd-management-evidence-ladder"
+    },
+    {
+      "id": "q2",
+      "q": "'교합조정·교합거상이 TMD의 1차 치료'라는 주장에 대한 근거는?",
+      "opts": [
+        "강한 근거로 지지된다",
+        "Cochrane 2024(Singh): 교합 중재 근거 매우 낮음, 교합조정 미지지 — '교합조정·교합거상이 TMD 1차'는 오판",
+        "관절통에만 유효하다",
+        "근육형 TMD에서만 1차 치료다"
+      ],
+      "ans": 1,
+      "rat": "Cochrane 2024(Singh): 교합 중재 evidence 매우 낮음, 교합조정 미지지 → '교합조정·교합거상이 TMD 1차'는 오판. 스플린트 vs 운동은 동등 또는 운동 우위(Zhang 2021), 안정화 스플린트는 conditional add-on. 약물은 전반 GRADE 낮음 — 비약물과 병행, 단독 만성 사용 지양.",
+      "cite": "overviews/tmd-management-evidence-ladder"
+    },
+    {
+      "id": "q3",
+      "q": "관절천자(arthrocentesis)의 최신 근거와 예외(부가 주입제)는?",
+      "opts": [
+        "관절천자는 모든 보존치료보다 우월하다",
+        "32 RCT SR+MA에서 통증(VAS) 차이 없음(p=0.55)·MMO는 오히려 비교군 우세 — 우월성 미입증(보조 옵션); 단 i-PRF 병용은 통증 VAS −1.62·MMO +5.03mm 유의(GRADE moderate)",
+        "관절천자는 효과가 전혀 없다",
+        "관절천자는 1차 치료로 권장된다"
+      ],
+      "ans": 1,
+      "rat": "Valenzuela-Fuenzalida 2026(32 RCT, n=1247): 관절천자 통증 차이 없음(MD −0.25, p=0.55), MMO/MIO 비교군 우세 → 우월성 미입증, 보조 옵션. 예외: i-PRF 병용은 통증 VAS −1.62·MMO +5.03mm 유의(TSA 확인, GRADE moderate; Bader Alzamanan 2026). 풀링 추정치는 극단적 이질성(I²=85–98%)으로 해석 주의.",
+      "cite": "overviews/tmd-management-evidence-ladder"
+    }
+  ]
+}

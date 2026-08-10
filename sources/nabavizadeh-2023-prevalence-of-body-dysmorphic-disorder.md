@@ -13,11 +13,21 @@ source_collection: external
 
 심미 치과(라미네이트·스마일디자인·전치부 보철) 환자 중 신체이형장애(Body Dysmorphic Disorder, BDD) 환자는 술 후 불만족·반복 시술·분쟁으로 이어진다. 이 SR+MA는 가장 유사한 심미수술군(rhinoplasty)에서 BDD 유병률을 정량화해, 심미 진료 전 심리 스크리닝 필요성의 근거가 된다. 방금 ingest한 의료분쟁 클러스터 [[complaint-management/park-2016-analysis-of-malpractice-claims-associated]]·[[complaint-management/kwon-2017-analysis-of-the-legal-effect]]의 상류(분쟁 유발 환자 요인)를 설명하는 patient-selection 근거.
 
-## One-line Summary
+## Three-line Summary
+
 Systematic review + meta-analysis of 18 studies (n=2,132) finding a pooled body dysmorphic disorder prevalence of 32.7% (95% CI 23.6–41.7) among rhinoplasty candidates, varying by diagnostic tool and region.
 
-## 한줄요약
-연구 18편(n=2,132) SR+MA — 코성형 지원자의 신체이형장애(BDD) 통합 유병률 32.7%(95% CI 23.6–41.7); 진단도구·지역에 따라 편차.
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
+연구 18편(n=2,132) SR+MA — 코성형 지원자의 신체이형장애(BDD) 통합 유병률 32.7%(95% CI 23.6–41.7);
+
+진단도구·지역에 따라 편차.
+
+(incomplete)
 
 ## 1. Document Information
 - Health Science Reports 2023;6:e1495. Narrative Review labeled, but methodologically a systematic review + meta-analysis (PRISMA/MOOSE).

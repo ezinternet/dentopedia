@@ -13,13 +13,21 @@ source_collection: external
 
 Comprehensive physiology-grounded narrative review of oral local anesthesia in pregnancy — gives the mechanistic "why" (cardiovascular/respiratory/hepatic/renal changes, placental transfer, FDA categories) behind the agent-selection conclusions of [[wiki/drug/uritu-2025-vasoconstrictor-dental-anesthesia-pregnancy-sr]]. Both converge on 2% lidocaine + 1:200,000 epinephrine as the best maternal/fetal balance, so this review reinforces the SR with physiological rationale.
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review (West China Hospital of Stomatology, 182 studies included from 546 screened): standard oral local anesthesia is safe throughout pregnancy; 2% lidocaine with 1:200,000 epinephrine best balances maternal/fetal safety and efficacy; lidocaine and prilocaine are FDA category B (safe) while articaine/mepivacaine/bupivacaine are category C (caution); best elective timing is weeks 14–20 (second trimester), with semi-supine positioning and BP monitoring for high-risk mothers.
+Narrative review (West China Hospital of Stomatology, 182 studies included from 546 screened): standard oral local anesthesia is safe throughout pregnancy;
 
-## 한줄요약
+2% lidocaine with 1:200,000 epinephrine best balances maternal/fetal safety and efficacy;
 
-내러티브 리뷰 (West China Hospital of Stomatology, 546편 스크리닝 중 182편 포함): 표준 구강 국소마취는 임신 전 기간 안전; 2% 리도카인 + 1:200,000 에피네프린이 모체/태아 안전성·효능 균형 최선; 리도카인·프릴로카인은 FDA 카테고리 B(안전), 아티카인·메피바카인·부피바카인은 C(주의); 선택적 치료 최적 시기는 임신 14–20주(2분기), 고위험 산모는 반좌위·혈압 모니터링.
+lidocaine and prilocaine are FDA category B (safe) while articaine/mepivacaine/bupivacaine are category C (caution); best elective timing is weeks 14–20 (second trimester), with semi-supine positioning and BP monitoring for high-risk mothers.
+
+## 세줄요약
+
+내러티브 리뷰 (West China Hospital of Stomatology, 546편 스크리닝 중 182편 포함): 표준 구강 국소마취는 임신 전 기간 안전;
+
+2% 리도카인 + 1:200,000 에피네프린이 모체/태아 안전성·효능 균형 최선;
+
+리도카인·프릴로카인은 FDA 카테고리 B(안전), 아티카인·메피바카인·부피바카인은 C(주의); 선택적 치료 최적 시기는 임신 14–20주(2분기), 고위험 산모는 반좌위·혈압 모니터링.
 
 ## 1. Document Information
 

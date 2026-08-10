@@ -15,15 +15,23 @@ text_filename: demolon-2026-periodontitis-bone-loss-signaling-pathways.txt
 
 ## Why Ingested
 
-치주 위키에는 임상·술식·재생 근거는 풍부하지만 치주인대·백악질·치조골 파괴의 **분자 신호전달 메커니즘** 전반을 다루는 페이지가 없었다. 이 2026년 Bone Research 리뷰는 NF-κB·JAK/STAT·MAPK·PI3K/Akt 4대 경로와 파골세포 분화 전사인자(NFATc1, c-Fos, c-Src)를 망라하고 신흥 치료표적(소분자 억제제·biologics·천연화합물)을 비판적으로 평가한다. [[periodontics/liu-2019-periodontal-bone-ligament-cementum-regeneration]]의 재생공학 페이지를 분자 메커니즘 측면에서 보강하고, [[periodontics/kwon-2021-current-concepts-management-periodontitis]]의 임상 관리 근거에 기계론적 배경을 제공한다.
+치주 위키에는 임상·술식·재생 근거는 풍부하지만 치주인대·백악질·치조골 파괴의 **분자 신호전달 메커니즘** 전반을 다루는 페이지가 없었다. 이 2026년 Bone Research 리뷰는 NF-κB·JAK/STAT·MAPK·PI3K/Akt 4대 경로와 파골세포 분화 전사인자(NFATc1, c-Fos, c-Src)를 망라하고 신흥 치료표적(소분자 억제제·biologics·천연화합물)을 비판적으로 평가한다. [[periodontics/host-modulation/liu-2019-periodontal-bone-ligament-cementum-regeneration]]의 재생공학 페이지를 분자 메커니즘 측면에서 보강하고, [[periodontics/kwon-2021-current-concepts-management-periodontitis]]의 임상 관리 근거에 기계론적 배경을 제공한다.
 
-## One-line Summary
+## Three-line Summary
 
-Comprehensive 2026 narrative review of molecular signaling pathways (NF-κB, JAK/STAT, MAPK, PI3K/Akt) driving osteoclastogenesis and alveolar bone loss in periodontitis, with critical evaluation of emerging therapeutic strategies.
+Comprehensive 2026 narrative review (Bone Research, multi-institutional: UNESP, U. Chile, UCLA) of molecular signaling pathways — NF-κB, JAK/STAT, MAPK, PI3K/Akt — driving osteoclastogenesis and alveolar bone loss in periodontitis (~700 million affected globally, ~11% of global population), with critical evaluation of emerging therapeutic strategies.
 
-## 한줄요약
+NFATc1 is the master osteoclast transcription factor downstream of RANKL/RANK signaling; canonical NF-κB (IKKβ/p65:p50) mediates acute inflammatory osteoclastogenesis while non-canonical NF-κB (IKKα/RelB:p52) sustains chronic bone loss; JAK/STAT via IL-6/IL-17A→STAT3 amplifies NFATc1 expression; and PI3K/Akt→mTOR activates osteoclastogenesis.
 
-치주염에서 파골세포 분화와 치조골 소실을 구동하는 NF-κB·JAK/STAT·MAPK·PI3K/Akt 신호경로 및 신흥 치료전략을 망라한 2026년 종설.
+Absence of validated clinical biomarkers for active vs. quiescent disease is the key barrier to precision biologic therapy; biologics (denosumab, JAK inhibitors) carry systemic risks (MRONJ, immunosuppression) requiring local delivery platforms for periodontal translation.
+
+## 세줄요약
+
+2026년 Bone Research 종합 종설(UNESP·칠레대·UCLA 다기관): 치주염(전 세계 약 7억 명, 전 인구의 약 11% 이환)에서 파골세포생성 (Osteoclastogenesis)과 치조골 소실을 구동하는 NF-κB·JAK/STAT·MAPK·PI3K/Akt 4대 신호경로와 신흥 치료전략을 망라한 기전 리뷰.
+
+NFATc1이 RANKL/RANK 신호 하류 파골세포 마스터 전사인자이며, 정규 NF-κB는 급성 염증성 파골세포생성을, 비정규 NF-κB는 만성 골소실을 유지함; JAK/STAT (IL-6/IL-17A→STAT3)은 NFATc1 발현을 증폭하고, PI3K/Akt→mTOR은 파골세포를 활성화함.
+
+활동성 vs. 정지기 질환을 구별할 수 있는 검증된 임상 바이오마커의 부재가 표적 생물학적 치료의 핵심 장벽이며, 데노수맙 (Denosumab)·JAK 억제제는 MRONJ·면역억제 등 전신 부작용으로 치주 장기 사용에 국소 전달 플랫폼 개발이 필수적임.
 
 ## 1. Document Information
 

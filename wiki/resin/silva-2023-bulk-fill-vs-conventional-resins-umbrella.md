@@ -6,18 +6,28 @@ date: 2023-06-08
 doi: 10.3390/polym15122613
 source: silva-2023-bulk-fill-vs-conventional-resins-umbrella.md
 category: [resin]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/silva-2023-bulk-fill-vs-conventional-resins-umbrella.pdf
 pdf_filename: silva-2023-bulk-fill-vs-conventional-resins-umbrella.pdf
 source_collection: external
 tags: []
 ---
 
-## One-line Summary
-Umbrella review (AMSTAR 2: included SRs low-to-moderate quality) of bulk-fill vs conventional resin composites for posterior direct restorations: the pooled meta-analysis directionally favored conventional resin (~5× odds) but was not statistically significant, and the two showed similar behavior on abrasion, microleakage, modulus of elasticity, and polymerization shrinkage — bulk-fill's main advantage being clinical simplification.
+## Three-line Summary
 
-## 한줄요약
-우산형 리뷰(AMSTAR 2, 낮음~보통 수준): 전반적 메타분석은 통계적 비유의 범위 내에서 기존 레진 쪽으로 약 5배 유리하나, 마모·미세누출·탄성계수·중합수축 등 대부분의 물성에서 벌크필과 기존 레진은 유사한 거동을 보임.
+Umbrella review (PRISMA, AMSTAR 2; PubMed/MEDLINE, Embase, Cochrane, WOS; University of Coimbra) synthesizing systematic reviews comparing bulk-fill versus conventional resin composites for posterior direct restorations.
+
+The pooled meta-analysis directionally favored conventional resin (~5× odds) but was not statistically significant; abrasion, microleakage, modulus of elasticity, and polymerization shrinkage were similar between groups.
+
+AMSTAR 2 quality of included SRs was low to moderate, limiting certainty; the practical clinical interpretation is equivalence, with bulk-fill offering procedural simplification as its main advantage.
+
+## 세줄요약
+
+우산형 리뷰(PRISMA, AMSTAR 2; PubMed/MEDLINE·Embase·Cochrane·WOS; Coimbra대): 구치부 직접수복에서 벌크필 vs 기존 복합레진을 비교한 체계적 문헌고찰들을 종합.
+
+전체 메타분석은 통계적 비유의(non-significant) 범위 내에서 기존 레진 쪽으로 약 5배 유리한 방향; 마모·미세누출·탄성계수·중합수축은 두 재료 유사한 거동.
+
+포함 SR의 AMSTAR 2 질 낮음~보통 수준으로 근거 불확실성 높음; 실용적 임상 해석은 동등, 벌크필의 주요 장점은 임상 절차 단순화.
 
 ## Summary
 This umbrella review (University of Coimbra, PRISMA standards, AMSTAR 2) synthesized evidence from multiple systematic reviews comparing bulk-fill versus conventional resin composites for posterior direct restorations, searching PubMed/MEDLINE, Embase, Cochrane Library, and WOS. AMSTAR 2 quality assessment rated included SRs as low to moderate quality. The pooled meta-analysis, though without statistical significance, favored conventional resin with approximately 5× greater likelihood of a favorable result. Despite this directional finding, bulk-fill and conventional resins showed similar behavior across multiple specific properties: abrasion resistance, microleakage, modulus of elasticity, and polymerization shrinkage. The review acknowledged bulk-fill's key advantage: simplification of the clinical process for posterior direct restorations.

@@ -6,7 +6,7 @@ date: 2022-10-14
 doi: 10.1111/cid.13146
 source: wang-2023-smoking-schneiderian-membrane-perforation-sinus.md
 category: [sinus-lift/lateral]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/wang-2023-smoking-schneiderian-membrane-perforation-sinus.pdf
 pdf_filename: wang-2023-smoking-schneiderian-membrane-perforation-sinus.pdf
 source_collection: external
@@ -14,17 +14,25 @@ tags: [smoking, schneiderian-membrane, perforation, sinus-lift, risk-factor, odd
 relations:
   - type: extends
     target: diaz-olivares-2021-schneiderian-membrane-perforation-sinus-lift
-  - type: reinforces
+  - type: extends
     target: sinus-lift-lateral-2026-synthesis
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 9 studies (n=1,424 patients); smoking significantly increases the risk of Schneiderian membrane perforation during maxillary sinus floor augmentation (OR 1.58, 95% CI 1.10–2.25, I²=5%).
+First SR+MA (9 studies, 8 retrospective + 1 clinical trial; n=1,424 patients) pooling evidence on smoking as a risk factor for Schneiderian membrane perforation during maxillary sinus floor augmentation.
 
-## 한줄요약
+Smoking significantly increased perforation risk (OR 1.58, 95% CI 1.10–2.25, p<0.05; I²=5%; no publication bias, Egger's p=0.827), representing a ~58% higher odds versus non-smokers.
 
-SR+MA (9편, n=1,424): 흡연 (Smoking)이 상악동거상술 (Maxillary Sinus Floor Augmentation, SFE) 중 슈나이더 막 천공 (Schneiderian Membrane Perforation, SMP) 위험을 유의하게 증가시킴 — OR 1.58 (95% CI 1.10–2.25, I²=5%).
+Smoking status should be assessed preoperatively and cessation counseled; smokers undergoing sinus lift should be consented for elevated perforation risk and repair materials prepared in advance.
+
+## 세줄요약
+
+최초 SR+MA (9편, n=1,424): 상악동거상술 (Maxillary Sinus Floor Augmentation, SFE) 중 슈나이더 막 천공 (Schneiderian Membrane Perforation, SMP)에 대한 흡연의 위험을 집계한 최초의 체계적 고찰.
+
+흡연이 천공 위험을 유의하게 증가시킴 (OR 1.58, 95% CI 1.10–2.25; I²=5%; 출판 비뚤림 없음, Egger p=0.827) — 비흡연 대비 약 58% 높은 교차비.
+
+수술 전 흡연력을 평가하고 금연을 권고해야 하며, 흡연 환자는 천공 위험 증가에 대한 동의를 받고 PRF·콜라겐 막 등 수복 재료를 미리 준비해야 한다.
 
 ## Summary
 
@@ -95,3 +103,4 @@ Smoking impairs the mucociliary function and vascular supply of the sinus mucosa
 - [[sinus-lift/lateral/manor-2024-cbct-prognostic-factors-sinus-perforation]] — CBCT-based anatomical predictors of SMP; smoking is a complementary non-anatomical predictor
 - [[sinus-lift/lateral/malzoni-2021-lprf-schneiderian-membrane-large-perforations]] — PRF repair of large perforations; relevant when smokers sustain perforations
 - [[overviews/sinus-lift-lateral-2026-synthesis]] — synthesis overview of SMP risk, repair, and technique; smoking risk axis not yet covered
+- [[overviews/smoking-tobacco-periodontal-implant-overview]] — synthesis of the full smoking/tobacco-periodontal-implant evidence cluster.

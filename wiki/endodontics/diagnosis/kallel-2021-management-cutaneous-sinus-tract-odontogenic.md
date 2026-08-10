@@ -6,7 +6,7 @@ date: 2021-10-09
 doi: 10.4103/jcd.jcd_56_21
 source: kallel-2021-management-cutaneous-sinus-tract-odontogenic.md
 category: endodontics/diagnosis
-confidence: case-report
+evidence_level: case-report
 pdf_path: /Users/oracleneo/llm-wiki/papers/kallel-2021-management-cutaneous-sinus-tract-odontogenic.pdf
 pdf_filename: kallel-2021-management-cutaneous-sinus-tract-odontogenic.pdf
 source_collection: external
@@ -18,13 +18,21 @@ relations:
     target: bodner-2012-cutaneous-sinus-tract-dental
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Case report (n=1, 44-y female, 18-month follow-up): a chronically draining chin lesion repeatedly misdiagnosed and treated with cryotherapy, surgery, and prolonged antibiotics was an odontogenic cutaneous sinus tract; root canal treatment (+ surgery after a 2-week recurrence) resolved it with clear periapical healing at 18 months — underscoring dentist–physician communication for correct diagnosis.
+Case report (n=1, 44-year-old female) of a chronically draining facial sinus tract on the chin that was repeatedly misdiagnosed by physicians as a skin lesion and treated with cryotherapy, surgical excision, and prolonged antibiotics — all unsuccessful.
 
-## 한줄요약
+Clinical and radiographic evaluation confirmed an odontogenic cutaneous sinus tract; root canal treatment resolved the tract, with a 2-week recurrence managed by supplementary apical surgery, and clear periapical healing documented at 18 months.
 
-증례 보고(n=1, 44세 여성, 18개월 추적): 만성 배농 턱 병변이 반복 오진되어 냉동치료·수술·장기 항생제를 받았으나 실제는 **치성 피부누공(odontogenic cutaneous sinus tract)**; 근관치료(2주 후 재발로 외과 처치 추가)로 해소, 18개월째 치근단 치유 확인 — 정확한 진단을 위한 치과-의과 소통의 중요성.
+The case underscores that odontogenic cutaneous sinus tracts can present without dental symptoms and with the lesion distant from the causative tooth, making dentist–physician communication essential before dermatologic or antibiotic management is initiated.
+
+## 세줄요약
+
+증례 보고(n=1, 44세 여성): 턱 부위 만성 배농 병변이 피부 질환으로 오진되어 냉동치료·외과적 절제·장기 항생제를 반복 시행받았으나 모두 실패.
+
+임상·방사선 평가로 치성 피부누공(odontogenic cutaneous sinus tract)으로 확진; 근관치료 시행, 2주 후 재발로 외과적 처치 추가, 18개월째 치근단 방사선 치유 명확히 확인.
+
+치과 증상 없이 원인치아에서 멀리 떨어진 피부에 개구하는 치성 피부누공의 특성상, 피부과적·항생제 치료 착수 전 치과 기원 감별을 위한 치과-의과 협력이 필수임을 실증.
 
 ## Summary
 
@@ -58,4 +66,4 @@ Case report (n=1, 44-y female, 18-month follow-up): a chronically draining chin 
 
 - [[endodontics/anatomy/chen-2016-diagnosis-treatment-odontogenic-cutaneous-sinus]] — 동일 질환의 진단·치료 리뷰를 증례로 확장(extends).
 - [[oral-surgery/bodner-2012-cutaneous-sinus-tract-dental]] — 치성 피부누공 증례군을 보강(reinforces).
-- [[drug/teoh-2021-oral-antibiotic-empirical-acute-dentoalveolar-infections]] — 감염원 제거 우선 원리; 본 증례는 장기 무효 항생제의 반면교사.
+- [[drug/antibiotics/teoh-2021-oral-antibiotic-empirical-acute-dentoalveolar-infections]] — 감염원 제거 우선 원리; 본 증례는 장기 무효 항생제의 반면교사.

@@ -6,7 +6,7 @@ date: 2020-06-15
 doi: 10.1111/edt.12564
 source: debrier-2020-storage-avulsed-tooth-prior.md
 category: [dental-trauma]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: false
 pmid: "32344468"
@@ -19,13 +19,21 @@ relations:
     target: kumari-2025-effect-splinting-outcomes-replantation-avulsed
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (33 studies, 10 in MA; GRADE low–very low): for storing an avulsed tooth before replantation, HBSS, propolis, oral rehydration salts, rice water, and cling film preserve periodontal-ligament-cell viability at least as well as (or better than) milk; saline and tap water are inferior to milk.
+Cochrane First Aid / Belgian Red Cross SR+MA (33 studies, 10 pooled; GRADE low–very low; 4118 references screened from 9 databases) ranking layperson-accessible storage media against milk on PDL-cell viability surrogate — the critical interim step between avulsion and replantation.
 
-## 한줄요약
+HBSS (SMD +2.47), propolis (+1.73), oral rehydration salts (+4.16), rice water, and cling film all preserved PDL-cell viability at least as well as or better than milk; saline (SMD −4.35) and tap water, buttermilk, castor oil, and GC Tooth Mousse were significantly worse than milk.
 
-SR+MA (33편, MA 10편; GRADE 낮음–매우 낮음): 탈구치(avulsed tooth) 재식 전 보관 매체로 HBSS·프로폴리스·경구수액염(ORS)·쌀뜨물·랩이 우유 이상으로 치주인대(PDL) 세포 생존율을 보존하고, 식염수·수돗물은 우유보다 나쁘다.
+Evidence certainty is low to very low due to surrogate outcome (cell viability, not clinical healing) and indirectness, but the "do not use saline/tap water" message is the clearest actionable finding for first-aid guidance.
+
+## 세줄요약
+
+Cochrane First Aid / 벨기에 적십자 SR+MA (33편, 10편 메타분석; GRADE 낮음–매우 낮음; 9개 데이터베이스 4118건 검색): 탈구치 재식 전 임시 보관 매체를 치주인대(PDL) 세포 생존율 대리지표로 우유 대비 비교.
+
+HBSS (SMD +2.47), 프로폴리스(+1.73), 경구수액염(Oral Rehydration Salts, ORS; +4.16), 쌀뜨물, 랩은 우유 이상으로 PDL 세포 생존율 보존; 식염수(SMD −4.35), 수돗물, 버터밀크, 피마자유, GC Tooth Mousse는 우유보다 유의하게 낮음.
+
+대리지표(세포 생존율) 및 간접성으로 근거 확실성은 낮음–매우 낮음이나, "식염수/수돗물 사용 금지"는 응급처치 지침에서 가장 명확한 실천 가능한 권고다.
 
 ## Summary
 

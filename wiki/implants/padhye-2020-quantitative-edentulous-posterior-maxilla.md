@@ -6,18 +6,28 @@ date: 2019-05-09
 doi: 10.1007/s12663-019-01236-7
 source: padhye-2020-quantitative-edentulous-posterior-maxilla.md
 category: implants
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/padhye-2020-quantitative-edentulous-posterior-maxilla.pdf
 pdf_filename: padhye-2020-quantitative-edentulous-posterior-maxilla.pdf
 source_collection: external
 tags: [CBCT, posterior-maxilla, edentulous, ridge-dimension, sinus-floor-obliqueness, implant-planning, augmentation-need]
 ---
 
-## One-line Summary
-Retrospective CBCT study (349 edentulous posterior-maxilla sites, 250 patients): over half of sites had inadequate horizontal width (<6 mm), most molar sites had inadequate vertical height (<8 mm), and 54.14% had an oblique sinus floor — so augmentation (sinus elevation/GBR) is frequently required before standard implant placement, supporting routine pre-implant CBCT.
+## Three-line Summary
 
-## 한줄요약
-콘빔 전산화 단층촬영 (Cone Beam Computed Tomography, CBCT) 후향 분석 (349개 무치악 부위, 250명): 상악 구치부 부위의 절반 이상이 수평 폭 < 6 mm·수직 골 높이 < 8 mm이며 54.14%가 경사진 상악동 저부 → 표준 임플란트 식립 전 증대술이 빈번하게 필요함.
+Retrospective cross-sectional CBCT analysis (349 edentulous posterior maxillary sites, 250 patients, Indian referral cohort) measuring horizontal ridge width, apico-coronal bone height, and sinus-floor obliqueness at premolar and molar sites.
+
+Over half of all sites had horizontal width <6 mm (molar 55.5%, premolar 54.4%), 67.8% of molar sites had vertical height <8 mm requiring sinus elevation, and 54.1% showed an oblique sinus floor increasing perforation risk.
+
+A high fraction of posterior maxillary patients will need at least one augmentative procedure before standard implant placement, supporting routine pre-implant CBCT as the default rather than an optional step.
+
+## 세줄요약
+
+후향적 콘빔 전산화단층촬영(Cone Beam Computed Tomography, CBCT) 단면 분석 (349개 무치악 상악 구치부, 250명, 인도 의뢰 코호트) — 수평 골폭·수직 골고·상악동 저부 경사를 측정.
+
+수평 폭 <6 mm: 대구치 55.5%, 소구치 54.4%; 수직고 <8 mm: 대구치 67.8%에서 상악동 거상 필요; 상악동 경사저(Oblique Sinus Floor) 54.1% — 상악동 천공(Sinus Membrane Perforation) 위험↑.
+
+상악 구치부 무치악 환자의 과반에서 표준 임플란트 식립 전 증대술 필요 → 임플란트 계획 시 CBCT를 기본으로 시행해야 한다는 근거 제공.
 
 ## Summary
 Retrospective CBCT analysis quantifying the residual alveolar ridge in 349 edentulous posterior maxillary sites from 250 patients. More than half of all sites — molar and premolar — had inadequate horizontal width (< 6 mm) for a standard-diameter implant, and the majority of molar sites had inadequate vertical bone (< 8 mm) for a standard-length implant without sinus elevation. Over half of all sites had an oblique sinus floor, an additional anatomic factor that elevates membrane perforation risk during lateral-window sinus floor augmentation.

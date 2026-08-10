@@ -1,0 +1,97 @@
+Title: Efficacy of 8% arginine associated with low-level laser therapy in the treatment of dentin hypersensitivity: randomized double-blind clinical trial
+Authors: Leal Barbosa V, Westenhofen D, Scherdien Silva P, Zimmer R, Rivera Oballe H, Quevedo Miguens Júnior SA, Galia Reston E
+Journal: Lasers in Medical Science, 2026; 41(1)
+PMID: 42322443 | PMCID: PMC13283190 | DOI: 10.1007/s10103-026-04927-z
+Source: PubMed / PMC — https://pmc.ncbi.nlm.nih.gov/articles/PMC13283190/
+
+=== ABSTRACT ===
+Purpose: To evaluate the efficacy of 8% arginine-based desensitizing toothpaste and photobiomodulation (PBM), used alone or in combination, in the treatment of dentin hypersensitivity (DH). Materials and methods: This randomized, double-blind, parallel-group clinical trial included participants with DH who were allocated into four groups: laser group (LG), arginine group (AG), combined laser and arginine group (LAG), and control group (CG). Clinical assessments were performed at baseline and after 2, 4, and 8 weeks. DH was evaluated using evaporative (air stimulus) and tactile tests applied to the cervical-buccal surface of the teeth, with pain intensity recorded using the Visual Analog Scale (VAS). Linear mixed-effects models were used for longitudinal continuous outcomes (Schiff and VAS scores), while generalized estimating equations were applied for tactile sensitivity outcomes, adopting a significance level of 5%. Results: A total of 60 participants were enrolled, and 54 completed the study. A significant reduction in DH was observed over time for both Schiff scores and VAS values (p < 0.001). Mean Schiff scores decreased from 5.0 (± 0.8) at baseline to 1.9 (± 1.3) at 8 weeks, while VAS scores also showed significant reductions. All groups demonstrated improvement in DH symptoms; however, no statistically significant differences were observed between interventions at any time point (p > 0.05). Conclusions: All evaluated therapies were effective in reducing DH over the 8-week follow-up period, with a progressive reduction in symptoms over time. However, no statistically significant differences were observed between the interventions, and no additive effect was identified for the combined therapy. Clinical trial registration: Brazilian Clinical Trials Registry ReBEC; RBR2vxzvkz, October 13, 2023.
+
+=== FULL TEXT ===
+
+Introduction
+
+Dentin hypersensitivity (DH) is a common condition in clinical practice that negatively impacts patients' quality of life. It is characterized by a short, sharp pain arising from exposed dentin in response to external stimuli—typically thermal, evaporative, tactile, or osmotic—that cannot be attributed to any other dental condition. The prevalence of DH varies considerably across populations, with a pooled estimate of approximately 33.5% reported in a systematic review.
+
+The hydrodynamic theory remains the most widely accepted explanation for DH, suggesting that fluid movement within dentinal tubules activates mechanosensitive nerve fibers, resulting in pain. Clinically, evaporative and tactile stimuli are commonly used to assess DH, and pain intensity is frequently measured using the Visual Analog Scale (VAS).
+
+Several therapeutic approaches have been proposed, including agents that promote dentinal tubule occlusion and those that modulate neural transmission. Among these, desensitizing toothpastes containing 8% arginine have demonstrated efficacy by forming a calcium-rich layer that occludes dentinal tubules. In parallel, photobiomodulation has been shown to reduce DH symptoms through modulation of inflammatory processes and neural activity.
+
+Red (approximately 660 nm, within the red spectral range of ~ 600–700 nm) and near-infrared wavelengths (~ 808–980 nm) have been investigated in the management of DH, due to their potential effects on neural modulation and pain reduction. In mineralized dental tissues, both wavelength ranges present low absorption by hydroxyapatite, allowing light transmission toward deeper structures, including the pulp.
+
+Although both chemical and physical therapies have shown effectiveness, there is no consensus on a gold-standard treatment for DH, and the potential additive effect of combining therapies remains unclear. Therefore, the aim of this randomized clinical trial was to evaluate the efficacy of 8% arginine-based desensitizing toothpaste and PBM, used alone or in combination, in the treatment of dentin hypersensitivity. The null hypothesis was that no difference would be observed between the interventions over time.
+
+Methodology
+
+Study design and ethical considerations
+Randomized, double-blind, parallel-group clinical trial, conducted in accordance with the CONSORT guidelines. Approved by the Research Ethics Committee of the Lutheran University of Brazil (protocol n. 5.326.784; CAAE: 30439120.7.0000.5349) and registered at the Brazilian Clinical Trials Registry (ReBEC – RBR-2vxzvkz). All participants provided written informed consent.
+
+Eligibility criteria and recruitment
+Participants recruited from the dental clinics of the Lutheran University of Brazil between August 2022 and December 2023. Individuals aged ≥ 18 years presenting with non-carious cervical lesions and DH in at least two non-adjacent teeth were included. DH confirmed by an evaporative stimulus (air jet), defined as a score of 2 or 3 on the Schiff Cold Air Sensitivity Scale (0–3). Participants periodontally healthy (probing depth ≤ 3, bleeding on probing < 10%, no clinical attachment loss ≥2 mm at two non-adjacent interproximal sites, and VPI and GBI lower than 20%).
+Exclusion: allergy to tested products, oral mucosal lesions, pregnancy/breastfeeding, current chemo/radiotherapy, endodontic lesions, extensive restorations, previous periodontal therapy, previous dental bleaching, current use of desensitizing toothpaste, or participation in other clinical studies.
+
+Sample size calculation
+Based on a pilot study (21 participants) using G*Power 3.1. Effect size 0.53 estimated from mean/SD of Schiff score, alpha 5%, power 80%, resulting in minimum 44 participants. 60 recruited to account for losses.
+
+Randomization and blinding
+Block randomization generated by Random.org by an independent researcher. Allocation concealment via sequentially numbered, opaque, sealed envelopes. Both participants and the outcome assessor were blinded. Toothpastes placed in identical opaque containers.
+
+Interventions
+All participants received standardized oral hygiene instructions (toothbrushing twice daily, soft-bristled toothbrush). LG and CG used fluoridated toothpaste (1,450 ppm fluoride); AG and LAG received fluoridated toothpaste with additional 8% arginine desensitizing agent.
+
+Laser group (LG): PBM using Photon Lase III (DMC, São Paulo, Brazil). Diode laser, continuous mode, wavelength 660 nm, output power 100 mW (0.1 W), spot size 0.028 cm². Applied perpendicular to cervical-buccal surface at 0.5 cm distance via metallic spacer. 3 points per tooth, 28 s per point (84 s per tooth). Total energy 8.4 J, nominal energy density 300 J/cm².
+
+Arginine group (AG): Fluoridated toothpaste (1.14% sodium monofluorophosphate) containing 8% arginine + calcium carbonate (Colgate Sensitive Pro Relief Original). ~0.25 g (pea-sized) applied topically to cervical-buccal surface with gloved finger for 1 min.
+
+Laser + arginine group (LAG): Same procedures as AG and LG; performed sequentially — topical arginine toothpaste followed immediately by PBM (same parameters).
+
+Control group (CG): Simulated PBM (sham laser, audible signal but no energy emission) + standard fluoridated toothpaste (1,450 ppm; Colgate Sensitive Maximum Cavity Protection), without desensitizing agents.
+
+Outcome assessment
+Assessments at baseline and after 2, 4, and 8 weeks. DH evaluated using evaporative stimulus (standardized air jet from triple syringe, perpendicular, 1 cm distance, polypropylene barrier). Recorded via Schiff Cold Air Sensitivity Scale (0–3; scores 2–3 = DH). After 3 min, tactile test using #5 explorer probe passed mesio-distally; recorded as binary (present/absent). Pain intensity via VAS (0–10), before and immediately after intervention at each time point.
+
+Statistical analysis
+Linear mixed-effects models (fixed effects: group, time, group × time; random intercepts for participants) for Schiff and VAS. Generalized estimating equations (GEE) for binary tactile sensitivity. R software v4.3.1, significance 5%.
+
+Results
+
+Participant characteristics
+60 enrolled; 54 completed the 8-week evaluation. 120 teeth evaluated, predominantly premolars (68.3–69.2%), followed by canines (14.2–18.0%), molars (14.2%), incisors (2.5%). Mean age 51.4 (± 12.6) years; most female (76.6%); non-smokers (90%); no systemic comorbidities (61.7%); frequent consumption of acidic foods/citrus (50%) and sugary foods (46.7%). No significant baseline differences among groups.
+Group sizes: LG n=16, AG n=17, LAG n=11, CG n=16.
+
+Overall effect over time
+Progressive, statistically significant reduction in DH over time. Mean Schiff scores decreased from 5.0 (± 0.8) at baseline to 1.9 (± 1.3) at 8 weeks (p < 0.001). VAS also significantly reduced for both evaporative and tactile stimuli (p < 0.001).
+Overall longitudinal (irrespective of group):
+- Schiff: baseline 5.0(±0.8) → 2wk 3.5(±1.2) → 4wk 2.9(±1.2) → 8wk 1.9(±1.3); Δ -3.1(±1.5)
+- VAS pre-intervention: 6.3(±2.1) → 3.4(±2.7) → 2.7(±2.6) → 1.8(±2.5); Δ -3.5(±2.7)
+- VAS post-intervention: 5.1(±2.3) → 3.0(±2.4) → 2.2(±2.2) → 1.6(±2.3); Δ -0.7(±2.0)
+
+Comparison between intervention groups
+All groups reduced Schiff and VAS over time. NO statistically significant differences between groups at any period (p > 0.05); no significant group × time interaction.
+Schiff Score by group (baseline / 8 weeks / Δ):
+- LG: 4.8±0.8 / 1.9±1.6 / -3.0±1.7
+- AG: 5.1±0.9 / 2.1±1.3 / -2.9±1.5
+- LAG: 5.1±0.9 / 2.0±1.1 / -2.9±0.9
+- CG: 5.1±0.8 / 1.6±1.3 / -3.5±1.7
+- p (group) baseline 0.573, 2wk 0.434, 4wk 0.356, 8wk 0.695, Δ 0.686
+VAS Δ by group: LG -3.7±2.7, AG -3.7±2.7, LAG -3.4±2.8, CG -3.1±3.0 (p 0.966)
+
+Association between tactile sensitivity and VAS (GEE)
+Higher mean VAS in teeth with tactile sensitivity vs without at baseline (6.6±2.5 vs 5.1±2.5, p=0.037) and at 4 weeks (4.4±2.8 vs 2.4±2.2, p=0.009). Borderline at 2 weeks (p=0.053); no significant association at 8 weeks (p=0.823). GEE: presence of tactile sensitivity associated with ~1.46 VAS unit increase during early periods.
+
+Adverse effects
+No adverse effects or complications reported by any participant.
+
+Discussion (key points)
+- All interventions gave statistically significant DH reduction over time, regardless of group.
+- No significant between-group differences at any time point — comparable effectiveness across strategies.
+- Greater reduction during initial follow-up may reflect early clinical response + oral hygiene standardization; later stabilization.
+- PBM parameters: 100 mW, 660 nm, 8.4 J, 300 J/cm². Absence of superiority for PBM consistent with SRs reporting heterogeneous laser effects.
+- 8% arginine + calcium carbonate: mineral-rich layer occluding dentinal tubules, reducing fluid movement/sensitivity.
+- Combination PBM + arginine did NOT show additive or synergistic effect vs isolated therapies.
+- Notable DH reduction in control group — partly placebo response + Hawthorne effect (greater attention to oral hygiene during monitoring).
+- Higher VAS after evaporative (air) than tactile stimulation — hydrodynamic changes from rapid air evaporation.
+- Limitations: DH is multifactorial; etiology/duration not individually stratified; participant losses → unbalanced final group sizes; absence of significant between-group differences should be interpreted with caution. Strengths: randomized design, allocation concealment, blinded outcome assessment, standardized protocols.
+
+Conclusions
+All evaluated interventions were associated with reductions in DH throughout follow-up, more pronounced during the initial interval then progressive stabilization. No statistically significant differences between interventions at any time point, and no additive effect for combined PBM + 8% arginine toothpaste.

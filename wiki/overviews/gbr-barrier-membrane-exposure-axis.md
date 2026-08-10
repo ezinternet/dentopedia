@@ -6,7 +6,7 @@ date: 2026-06-04
 doi: N/A
 source: N/A
 category: overviews
-confidence: synthesis
+evidence_level: synthesis
 pdf_path: N/A
 pdf_filename: N/A
 source_collection: synthesis
@@ -30,11 +30,21 @@ relations:
 > - 축4(티타늄메쉬): 맞춤형 CAD/CAM 메쉬(CTM)는 수직 증대는 메쉬-무관(NS)이나 수평 증대 우위(6.38 vs 3.85mm)·노출 경향 낮음(Ragucci 2025); 노출은 수직 골 yield를 깎음(Tay 2022, ratio-of-means 0.62~0.65).
 > - 임상 결론: 막 화학이 노출 내성 baseline을 정하지만(비가교 > 화학가교), 통제 가능한 외과 변수(절개 위치·판막 생존 길이·무장력 1차 봉합)가 노출 결과를 지배.
 
-## One-line Summary
-Synthesis of 12 GBR barrier-membrane papers organized around membrane exposure as the dominant failure mode, across four axes — membrane material/cross-linking, membrane configuration, flap/incision design, and titanium-mesh customization — converging on the rule that exposure is governed more by soft-tissue/flap management than by membrane brand, and that non-cross-linked resorbable membranes tolerate exposure better than chemically cross-linked ones.
+## Three-line Summary
 
-## 한줄요약
-GBR 차폐막 12편을 "막노출(membrane exposure)"이라는 공통 실패 모드 중심으로 4축(재료·가교, 막 구성, 판막·절개 설계, 티타늄메쉬 맞춤화)으로 통합. 핵심 결론은 노출은 막 종류보다 연조직·판막 관리가 좌우하며, 비가교 흡수성 막이 화학가교막보다 노출을 더 잘 견딘다는 것.
+Synthesis of 12 GBR barrier-membrane papers organized around membrane exposure as the dominant failure mode across four axes — membrane material/cross-linking, membrane configuration, flap/incision design, and titanium-mesh customization.
+
+Chemical cross-linking raises exposure ~30% over non-cross-linked membranes without a bone-gain payoff (Wessing 2018 SR+MA); flap design and residual keratinized tissue predict exposure better than membrane brand (Park 2007 prospective; Lee 2018 SR+MA), and flap elevation costs 3.21 mm of keratinized gingiva.
+
+Customized CAD/CAM titanium mesh is superior for horizontal gain (6.38 vs 3.85 mm) but not vertical gain; mesh/membrane exposure directly reduces vertical bone yield (ratio-of-means 0.62–0.65, Tay 2022 SR+MA).
+
+## 세줄요약
+
+GBR 차폐막 12편을 "막노출(membrane exposure)"이라는 공통 실패 모드 중심으로 4축(재료·가교, 막 구성, 판막·절개, 티타늄메쉬 맞춤화)으로 통합 — 노출은 막 브랜드보다 연조직·판막 관리가 좌우한다.
+
+화학가교막은 비가교막 대비 노출 ~30% 더 많고 골이득은 없으며(Wessing 2018 SR+MA), 판막 절개 위치·각화치은 폭이 노출을 예측하고(Park 2007 전향), 판막 거상 자체가 각화치은 3.21 mm 손실을 초래한다(Lee 2018 SR+MA).
+
+맞춤형 CAD/CAM 메쉬는 수평 증대 우위(6.38 vs 3.85 mm)지만 수직은 차이 없고, 메쉬 노출은 수직 골 수율을 직접 삭감한다(ratio-of-means 0.62–0.65; Tay 2022 SR+MA).
 
 ## Summary
 
@@ -42,26 +52,26 @@ Across the collagen-membrane, synthetic-membrane, and titanium-mesh literature, 
 
 ### Axis 1 — Membrane material & cross-linking
 
-1. **Chemical cross-linking raises exposure risk without a clear bone-gain payoff.** Wessing 2018 SR+MA (20 controlled studies) found cross-linked membranes exposed ~30% more often than non-cross-linked, while collagen-membrane + particulate lateral GBR was effective overall and simultaneous vs subsequent implant placement gave similar survival. [합의수준 — SR+MA]
-2. **Non-cross-linked resorbable membranes trend to higher bone gain + lower exposure.** Wessing 2016 multicenter RCT (creos xenoprotect/CXP vs reference) showed a non-significant trend favoring CXP on both bone gain and exposure at dehisced single-implant sites — directionally consistent with Axis-1 proposition 1, but interim. [근거강함 RCT, but interim/NS]
-3. **Cross-linking by dehydrothermal (physical) route behaves benignly.** Lee 2015 RCT (n=28 dehiscence) found dehydrothermally cross-linked (DCM) vs non-cross-linked (NCM) collagen both improved clinical/CBCT parameters at 16 weeks; DCM showed slower degradation (residual leaflets) **without** the elevated exposure signal attributed to chemically cross-linked membranes — i.e. cross-linking *method* matters, not cross-linking per se. [근거강함 RCT]
-4. **A synthetic gelatin/PLA membrane is non-inferior to a commercial PLA matrix.** Wang 2025 RCT (n=32) found GT/PLA vs Guidor® equal on bone resorption, osteogenic efficacy, exposure, and infection at 6 months — a viable low-cost alternative where collagen is the default. [근거강함 RCT, in single-tooth defects]
+1. **Chemical cross-linking raises exposure risk without a clear bone-gain payoff.** Wessing 2018 SR+MA (20 controlled studies) found cross-linked membranes exposed ~30% more often than non-cross-linked, while collagen-membrane + particulate lateral GBR was effective overall and simultaneous vs subsequent implant placement gave similar survival. [확인 — SR+MA]
+2. **Non-cross-linked resorbable membranes trend to higher bone gain + lower exposure.** Wessing 2016 multicenter RCT (creos xenoprotect/CXP vs reference) showed a non-significant trend favoring CXP on both bone gain and exposure at dehisced single-implant sites — directionally consistent with Axis-1 proposition 1, but interim. [확인 RCT, but interim/NS]
+3. **Cross-linking by dehydrothermal (physical) route behaves benignly.** Lee 2015 RCT (n=28 dehiscence) found dehydrothermally cross-linked (DCM) vs non-cross-linked (NCM) collagen both improved clinical/CBCT parameters at 16 weeks; DCM showed slower degradation (residual leaflets) **without** the elevated exposure signal attributed to chemically cross-linked membranes — i.e. cross-linking *method* matters, not cross-linking per se. [확인 RCT]
+4. **A synthetic gelatin/PLA membrane is non-inferior to a commercial PLA matrix.** Wang 2025 RCT (n=32) found GT/PLA vs Guidor® equal on bone resorption, osteogenic efficacy, exposure, and infection at 6 months — a viable low-cost alternative where collagen is the default. [확인 RCT, in single-tooth defects]
 
 ### Axis 2 — Membrane configuration
 
-5. **Doubling the collagen layer does not improve preservation.** Choi 2017 randomized pilot (n=11 molars, open-healing ARP) found single- vs double-layer collagen membrane equivalent (width −1.7 vs −1.8 mm) — more membrane ≠ more protection. [합의수준, small pilot]
-6. **Graft + resorbable membrane substantially beats natural healing.** Troiano 2018 SR+MA+TSA (7 studies) quantified allograft/xenograft + resorbable membrane vs natural healing at horizontal −2.19 mm and vertical −1.72 mm less resorption, TSA-confirmed. [근거강함 SR+MA+TSA]
+5. **Doubling the collagen layer does not improve preservation.** Choi 2017 randomized pilot (n=11 molars, open-healing ARP) found single- vs double-layer collagen membrane equivalent (width −1.7 vs −1.8 mm) — more membrane ≠ more protection. [확인, small pilot]
+6. **Graft + resorbable membrane substantially beats natural healing.** Troiano 2018 SR+MA+TSA (7 studies) quantified allograft/xenograft + resorbable membrane vs natural healing at horizontal −2.19 mm and vertical −1.72 mm less resorption, TSA-confirmed. [확인 SR+MA+TSA]
 
 ### Axis 3 — Flap & incision design (the dominant exposure lever)
 
-7. **Exposure is a flap-design problem, not only a membrane-material one.** Park 2007 prospective human study (25 patients, 29 dehiscence defects) showed incision location relative to the mucogingival junction and "surviving flap length" (vs adjacent keratinized-gingiva width) predicted early exposure; sites not re-covered by 1 month stayed exposed, and graft-alone flaps survived 1.6 mm farther beyond adjacent KG width than membrane-covered flaps (P=0.002) — the stiff/avascular membrane compromises overlying flap perfusion. [근거강함 prospective]
-8. **Flap elevation costs keratinized tissue.** Lee 2018 SR+MA (11 studies) found flap vs flapless ARP equivalent on bone width/height, but flap elevation reduced keratinized gingiva width by 3.21 mm more — relevant because thin/reduced soft tissue is itself an exposure risk factor (Park 2007). [근거강함 SR+MA]
+7. **Exposure is a flap-design problem, not only a membrane-material one.** Park 2007 prospective human study (25 patients, 29 dehiscence defects) showed incision location relative to the mucogingival junction and "surviving flap length" (vs adjacent keratinized-gingiva width) predicted early exposure; sites not re-covered by 1 month stayed exposed, and graft-alone flaps survived 1.6 mm farther beyond adjacent KG width than membrane-covered flaps (P=0.002) — the stiff/avascular membrane compromises overlying flap perfusion. [확인 prospective]
+8. **Flap elevation costs keratinized tissue.** Lee 2018 SR+MA (11 studies) found flap vs flapless ARP equivalent on bone width/height, but flap elevation reduced keratinized gingiva width by 3.21 mm more — relevant because thin/reduced soft tissue is itself an exposure risk factor (Park 2007). [확인 SR+MA]
 
 ### Axis 4 — Titanium mesh & vertical augmentation
 
-9. **For vertical gain, mesh customization buys fit, not height.** Ragucci 2025 SR+MA (22 studies, 608 patients, 1,318 implants) found customized CAD/CAM mesh (CTM) vs conventional mesh (TM) equal on vertical gain (5.14 vs 6.24 mm, NS), but CTM superior on horizontal gain (6.38 vs 3.85 mm, P=0.004) with an exposure trend favoring CTM (20.3% vs 30.9%, NS). [합의수준 SR+MA, mostly retrospective]
-10. **Mesh/membrane exposure directly cuts vertical bone yield.** Tay 2022 SR+MA (31 publications) found healing complications reduced vertical bone gain (ratio-of-means 0.62–0.65) though uncommon (~11% site-level) — exposure is not just a soft-tissue nuisance, it degrades the regenerative result. [근거강함 SR+MA]
-11. **Customized Ti-mesh is the practical state of the art for non-space-maintaining vertical defects.** Chiapasco 2021 documented CAD/CAM customized titanium mesh GBR workflow; this is the substrate Ragucci 2025 later pooled. [합의수준 / technique]
+9. **For vertical gain, mesh customization buys fit, not height.** Ragucci 2025 SR+MA (22 studies, 608 patients, 1,318 implants) found customized CAD/CAM mesh (CTM) vs conventional mesh (TM) equal on vertical gain (5.14 vs 6.24 mm, NS), but CTM superior on horizontal gain (6.38 vs 3.85 mm, P=0.004) with an exposure trend favoring CTM (20.3% vs 30.9%, NS). [확인 SR+MA, mostly retrospective]
+10. **Mesh/membrane exposure directly cuts vertical bone yield.** Tay 2022 SR+MA (31 publications) found healing complications reduced vertical bone gain (ratio-of-means 0.62–0.65) though uncommon (~11% site-level) — exposure is not just a soft-tissue nuisance, it degrades the regenerative result. [확인 SR+MA]
+11. **Customized Ti-mesh is the practical state of the art for non-space-maintaining vertical defects.** Chiapasco 2021 documented CAD/CAM customized titanium mesh GBR workflow; this is the substrate Ragucci 2025 later pooled. [확인 / technique]
 
 ### Decision synthesis (clinical bottom line)
 

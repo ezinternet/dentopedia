@@ -13,13 +13,21 @@ source_collection: external
 
 radiology 카테고리 파노라마 판독 함정(허상)의 실무 근거. [[radiology/kim-2024-real-ghost-pseudo-ghost-images-panoramic]]의 실상·허상·유사허상 증례와 짝을 이루어 판독 오류 방지 매뉴얼의 근거.
 
-## One-line Summary
+## Three-line Summary
 
 Pictorial essay (dry skull + clinical case) demonstrating panoramic ghost-image formation from metal objects in the head/neck to prevent misdiagnosis.
 
-## 한줄요약
+(incomplete)
 
-파노라마 허상(ghost image) 형성을 두개골+임상증례로 보여주는 화보형 논문. 두경부 금속에 의한 허상 오진 방지가 목적.
+(incomplete)
+
+## 세줄요약
+
+파노라마 허상(ghost image) 형성을 두개골+임상증례로 보여주는 화보형 논문.
+
+두경부 금속에 의한 허상 오진 방지가 목적.
+
+(incomplete)
 
 ## 1. Document Information
 

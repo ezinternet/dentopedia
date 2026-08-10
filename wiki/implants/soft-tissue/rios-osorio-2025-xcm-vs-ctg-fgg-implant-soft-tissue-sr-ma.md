@@ -6,7 +6,7 @@ date: 2025-08-21
 doi: 10.5051/jpis.2500260013
 source: rios-osorio-2025-xcm-vs-ctg-fgg-implant-soft-tissue-sr-ma.md
 category: implants/soft-tissue
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/rios-osorio-2025-xcm-vs-ctg-fgg-implant-soft-tissue-sr-ma.pdf
 pdf_filename: rios-osorio-2025-xcm-vs-ctg-fgg-implant-soft-tissue-sr-ma.pdf
 source_collection: external
@@ -18,13 +18,21 @@ relations:
     target: montero-2022-soft-tissue-substitutes-vs-autogenous-keratinized-mucosa-sr
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 17 RCTs: non-crosslinked XCM is inferior to CTG for mucosal thickness (MD −0.27 mm, P=0.01) but crosslinked XCM (VCMX) equals CTG; FGG is superior to XCM* for keratinized mucosa width gain (MD 1.47 mm, P=0.0006) at implant sites.
+SR+MA of 17 RCTs comparing xenogeneic collagen matrices (XCM) vs autogenous grafts (CTG/FGG) for mucosal thickness and keratinized mucosa width augmentation at implant sites.
 
-## 한줄요약
+Non-crosslinked XCM is inferior to CTG for mucosal thickness (MD −0.27 mm, P=0.01), but crosslinked VCMX equals CTG (MD −0.02 mm, P=0.83); FGG exceeds XCM for keratinized mucosa width by 1.47 mm (P=0.0006).
 
-17편 RCT SR+MA: 임플란트 부위 연조직 증대에서 비가교 이종 콜라겐 매트릭스 (XCM, Xenogeneic Collagen Matrix)는 결합조직이식 (CTG, Connective Tissue Graft) 대비 점막두께 (MT, Mucosal Thickness) 열위(MD −0.27 mm, P=0.01)이나 가교형 VCMX는 CTG와 동등; 유리치은이식 (FGG, Free Gingival Graft)은 XCM 대비 각화점막폭 (KMW, Keratinized Mucosa Width) 1.47 mm 우위.
+Clinicians should distinguish XCM subtypes: VCMX (Fibro-Gide) is a morbidity-sparing CTG equivalent for volume augmentation, but FGG remains the gold standard when keratinized mucosa width is the primary goal.
+
+## 세줄요약
+
+17편 RCT SR+MA — 임플란트 부위 점막두께·각화점막폭 증대를 위한 이종 콜라겐 매트릭스 (XCM, Xenogeneic Collagen Matrix) 대 자가이식(CTG/FGG) 비교 연구.
+
+비가교형 XCM은 결합조직이식 (CTG, Connective Tissue Graft) 대비 점막두께 열위(MD −0.27 mm, P=0.01)이나, 가교형 VCMX는 CTG와 동등(MD −0.02 mm, P=0.83); 유리치은이식 (FGG, Free Gingival Graft)은 각화점막폭 (KMW, Keratinized Mucosa Width) 1.47 mm 우위(P=0.0006).
+
+XCM 아형 구분이 임상적으로 필수: VCMX(Fibro-Gide)는 볼륨 증대 시 CTG 대체 가능하나, KMW 확보가 목적이면 FGG가 여전히 표준.
 
 ## Summary
 

@@ -6,18 +6,28 @@ date: 2023-12-15
 doi: 10.1136/bmj-2023-076227
 source: bmj-2023-tmd-chronic-pain-management-guideline.md
 category: [tmj]
-confidence: consensus
+evidence_level: consensus
 pdf_path: /Users/oracleneo/llm-wiki/papers/bmj-2023-tmd-chronic-pain-management-guideline.pdf
 pdf_filename: bmj-2023-tmd-chronic-pain-management-guideline.pdf
 source_collection: external
 tags: [guideline, tmd, chronic-pain, conservative-first, botulinum-toxin, occlusal-splint]
 ---
 
-## One-line Summary
-BMJ Rapid Recommendations clinical practice guideline (2023, GRADE EtD) for chronic TMD pain: strong recommendation for conservative reversible care first, strong recommendation against irreversible occlusal modification, and conditional recommendation for botulinum toxin (BTX) in refractory myofascial pain.
+## Three-line Summary
 
-## 한줄요약
-BMJ 2023 임상진료지침: 만성 악관절증(TMD) 통증에 보존적·가역적 치료 우선 원칙; 비가역적 교합처치 강력 반대; 불응성 근막통에 보툴리눔독소(BTX) 조건부 권고.
+BMJ Rapid Recommendations clinical practice guideline (2023, multidisciplinary panel, GRADE Evidence-to-Decision framework) for management of chronic pain associated with temporomandibular disorders (TMD).
+
+Strong recommendation for conservative reversible treatments as first-line care (education + self-care); conditional recommendations for occlusal splint, physiotherapy/exercise, short-term NSAIDs/muscle relaxants, amitriptyline, and botulinum toxin (BTX) for refractory myofascial pain; strong recommendation against all irreversible occlusal modifications (grinding, crowns for TMD indication).
+
+Arthrocentesis as first-line receives a conditional recommendation against; irreversible occlusal modification is the only category with a strong recommendation against — reflecting that structural harm must not be done in the name of treating a largely reversible condition.
+
+## 세줄요약
+
+만성 악관절증(TMD) 통증 관리에 관한 BMJ Rapid Recommendations 임상진료지침 (2023, 다학제 패널, GRADE Evidence-to-Decision 프레임워크).
+
+보존적·가역적 치료(교육+자기관리) 강력 권고 우선; 교합안정장치·물리치료·운동·단기 NSAIDs·근이완제·아미트리프틸린 조건부 권고, 불응성 근막통에 보툴리눔독소(BTX) 조건부 권고; 모든 비가역적 교합 처치(교합 조정, TMD 적응증 크라운) 강력 반대.
+
+1차 관절천자(Arthrocentesis)는 조건부 반대; 비가역적 교합 처치만이 강력 반대(strong against)로, 대부분 가역적 질환인 TMD에 구조적 손상을 일으켜선 안 된다는 원칙 반영.
 
 ## Summary
 The BMJ Rapid Recommendations panel published this clinical practice guideline in December 2023 for managing chronic pain associated with 악관절증 (Temporomandibular Disorder, TMD). Using GRADE Evidence-to-Decision framework, the panel issued a strong recommendation for conservative, reversible treatments as first-line care. 교합안정장치 (Occlusal Splint) and physiotherapy/exercise received conditional recommendations as adjuncts. 보툴리눔독소 (Botulinum Toxin, BTX) was conditionally recommended for refractory myofascial pain unresponsive to conservative measures. A strong recommendation against all irreversible occlusal modifications (grinding, crowns for TMD indication) was issued. This guideline represents the current authoritative evidence-to-practice synthesis for chronic TMD pain.

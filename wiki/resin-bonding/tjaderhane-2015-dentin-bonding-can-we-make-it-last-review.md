@@ -6,7 +6,7 @@ date: 2015-01-01
 doi: 10.2341/14-095-BL
 source: tjaderhane-2015-dentin-bonding-can-we-make-it-last-review.md
 category: [resin-bonding]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/tjaderhane-2015-dentin-bonding-can-we-make-it-last-review.pdf
 pdf_filename: tjaderhane-2015-dentin-bonding-can-we-make-it-last-review.pdf
 source_collection: external
@@ -16,13 +16,21 @@ relations:
     target: liu-2011-limitations-bonding-dentin-bond-degradation-review
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review (Buonocore Lecture, Operative Dentistry 2015) demonstrating that dentin bond durability is undermined by endogenous MMPs and cysteine cathepsins degrading hybrid-layer collagen, and cataloging five countermeasure families: enzyme inhibitors (esp. chlorhexidine), chemical bonding (10-MDP), collagen cross-linkers, ethanol-wet bonding, and biomimetic remineralization.
+Narrative review (Buonocore Lecture, Operative Dentistry 2015) synthesizing hybrid-layer degradation mechanisms and durability countermeasures across 150 references, framing endogenous MMPs (MMP-2/-3/-8/-9/-20) and cysteine cathepsins B/K as the primary collagen-degradation drivers.
 
-## 한줄요약
+Pooled analysis of 25 CHX studies (102 groups, ≥6 months) confirmed chlorhexidine significantly reduces bond-strength loss; five countermeasure families cataloged — enzyme inhibitors, 10-MDP ionic bonding, collagen cross-linkers (EDC, proanthocyanidins), ethanol-wet bonding, and biomimetic remineralization.
 
-서술형 리뷰(Buonocore 강연) — 상아질 접착 내구성 저하의 핵심 원인은 내인성 기질금속단백분해효소(MMP)와 시스테인 카텝신(cysteine cathepsin)에 의한 혼합층(hybrid layer) 콜라겐 분해이며, 클로르헥시딘(chlorhexidine)을 포함한 5가지 대응 전략을 체계적으로 정리한다.
+Three-step etch-and-rinse and two-step self-etch adhesives remain the most reliable benchmarks; CHX can and should be used until alternative strategies are proven safe and equally effective.
+
+## 세줄요약
+
+150편 참고문헌을 아우른 서술형 리뷰(Buonocore 강연, Operative Dentistry 2015) — 혼합층(hybrid layer) 콜라겐 분해의 주 원인으로 내인성 MMP(MMP-2/-3/-8/-9/-20)와 시스테인 카텝신 B/K를 규명하고, 25개 CHX 연구 풀링 분석(102군, ≥6개월)에서 클로르헥시딘이 결합강도 손실을 유의하게 감소시킴을 확인.
+
+5가지 대응 전략(효소 억제제·10-MDP 이온결합·콜라겐 가교제(EDC·프로안토시아니딘)·에탄올 습윤접착·생체모방 재광화)을 체계적으로 정리; 상아질 결합강도는 심부에서 30–50%, 우식이환 상아질에서 20–50% 낮다.
+
+3단계 etch-and-rinse와 2단계 self-etch 접착제가 여전히 가장 신뢰할 수 있는 기준이며, 다른 전략이 검증되기 전까지 CHX 적용을 권고한다.
 
 ## Summary
 

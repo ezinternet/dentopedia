@@ -9,8 +9,21 @@ pdf_filename: bmj-2023-tmd-chronic-pain-management-guideline.pdf
 source_collection: external
 ---
 
-## One-line Summary
-BMJ Rapid Recommendations clinical practice guideline (2023) for chronic TMD-associated pain; recommends conservative non-pharmacological treatments first, with conditional recommendations for splints, exercise, and BTX in refractory cases.
+## Three-line Summary
+
+BMJ Rapid Recommendations multidisciplinary clinical practice guideline (2023) for chronic temporomandibular disorder (TMD)-associated pain, developed using GRADE Evidence-to-Decision framework with patient representatives, covering education, physiotherapy, splints, pharmacotherapy, and interventional approaches.
+
+Strong recommendation for conservative reversible first-line treatments (education, self-care, jaw rest) and strong recommendation against irreversible occlusal modifications; conditional recommendations for stabilization splints, physiotherapy, and botulinum toxin (BTX) in refractory myofascial pain unresponsive to other treatments.
+
+The underlying evidence base is predominantly low GRADE certainty; acute TMD management is not addressed; BTX and arthrocentesis are relegated to adjunctive/refractory roles, not first-line.
+
+## 세줄요약
+
+BMJ Rapid Recommendations 다학제 임상 실무 지침 (2023) — 만성 턱관절장애(TMD) 관련 통증에 대한 GRADE 근거-결정 프레임워크 기반, 교육·물리치료·교합안정장치·약물·시술 전 범위 포괄.
+
+보존적·가역적 1차 치료(교육·자가관리·하악 휴식)에 강력 권고, 비가역적 교합 수정에 강력 반대; 교합안정장치·물리치료에 조건부 찬성, 난치성 근막통에 한해 보툴리눔 독소(BTX)에 조건부 찬성.
+
+기저 근거의 GRADE 수준이 대체로 낮음; 급성 TMD 관리는 미포함; BTX와 관절천자는 1차가 아닌 난치성 보조 역할로 제한.
 
 ## 1. Document Information
 - **Journal**: BMJ 2023;383:e076227

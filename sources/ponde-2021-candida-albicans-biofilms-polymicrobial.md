@@ -12,11 +12,21 @@ source_collection: external
 ## Why Ingested
 Provides the fungal biofilm perspective that complements bacterial matrix reviews; C. albicans cross-kingdom interactions with S. mutans and oral bacteria are directly relevant to [[oral-microbiology/karygianni-2020-biofilm-matrixome-extracellular-components]] and [[oral-microbiology/koo-2013-exopolysaccharides-matrix-biofilm-virulence]].
 
-## One-line Summary
-Narrative review of C. albicans biofilm formation, transcriptional regulation, ECM composition, antifungal resistance mechanisms, and polymicrobial interactions with oral bacteria, establishing biofilm-associated candidaemia (>400,000 cases/year; ~50% mortality) as a major clinical challenge.
+## Three-line Summary
 
-## 한줄요약
-Narrative review: C. albicans 바이오필름 형성·ECM 조성(proteins 55%, carbohydrates 25%, lipids 15%, nucleic acids 5%)·항진균 내성·구강 세균과의 polymicrobial 상호작용 총괄 — 칸디다혈증(연간 >40만 명, 사망률 ~50%) 임상 맥락 제시.
+Narrative review of C.
+
+albicans biofilm formation, transcriptional regulation, ECM composition, antifungal resistance mechanisms, and polymicrobial interactions with oral bacteria, establishing biofilm-associated candidaemia (>400,000 cases/year;
+
+~50% mortality) as a major clinical challenge.
+
+## 세줄요약
+
+Narrative review: C.
+
+albicans 바이오필름 형성·ECM 조성(proteins 55%, carbohydrates 25%, lipids 15%, nucleic acids 5%)·항진균 내성·구강 세균과의 polymicrobial 상호작용 총괄 — 칸디다혈증(연간 >40만 명, 사망률 ~50%) 임상 맥락 제시.
+
+(incomplete)
 
 ## 1. Document Information
 - Critical Reviews in Microbiology. 2021;47(1):91–111. Published online 2021 January. Author manuscript via NIH Public Access (PMC).

@@ -6,7 +6,7 @@ date: 2026-04-18
 doi: 10.1016/j.jdsr.2026.04.001
 source: valenzuela-fuenzalida-2026-arthrocentesis-vs-other-modalities-tmd-sr-ma.md
 category: [tmj]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "42016156"
@@ -22,13 +22,21 @@ relations:
     target: zhang-2024-arthrocentesis-injectable-agent-tmd-sr
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 32 RCTs (n=1247; 640 arthrocentesis vs 607 other modalities) finds arthrocentesis is NOT superior for pain (VAS MD −0.25, 95% CI −1.09–0.59, p=0.55, I²=96%); MMO (SMD −0.67, p=0.005) and MIO (SMD −2.93, p=0.0004) statistically favored comparators; only masticatory efficiency (2 studies) favored arthrocentesis — all low-to-very-low GRADE certainty.
+PRISMA 2020 SR+MA (32 RCTs, n=1247; 640 arthrocentesis vs 607 comparators — conservative therapy, intra-articular injections, arthroscopy, alternative protocols) comparing arthrocentesis against all therapeutic modalities for temporomandibular disorders.
 
-## 한줄요약
+Arthrocentesis showed no superiority for pain (VAS MD −0.25, p=0.55, I²=96%), and MMO (SMD −0.67, p=0.005) and MIO (SMD −2.93, p=0.0004) statistically favored comparators; only masticatory efficiency (2 studies) favored arthrocentesis — all low-to-very-low GRADE certainty with extreme heterogeneity.
 
-32개 RCT(1247명) SR+MA: 관절천자(Arthrocentesis)는 다른 치료법(보존·관절내주사·관절경 등) 대비 통증(VAS) 차이 없고(MD −0.25, p=0.55), 최대개구량(MMO)·최대절치개구(MIO)는 오히려 비교군 우세 — 우월성 미입증, 근거확실성 매우 낮음, 단계적 치료의 보조옵션으로만 해석.
+Arthrocentesis is not first-line or demonstrably superior to other modalities; it remains a reasonable minimally-invasive step for conservative-refractory intra-articular TMD before surgery within a stepwise treatment plan.
+
+## 세줄요약
+
+PRISMA 2020 SR+MA (32개 RCT, 1247명): 관절천자(Arthrocentesis) vs 보존치료·관절내주사·관절경·대체 프로토콜 등 모든 치료 양식 비교.
+
+관절천자는 통증(VAS MD −0.25, p=0.55, I²=96%)에서 우월성 없고, MMO(SMD −0.67, p=0.005)·MIO(SMD −2.93, p=0.0004)는 오히려 비교군 우세; 저작 효율(2편)만 관절천자 우세 — 모든 결과 low-to-very-low GRADE, 극심한 이질성.
+
+관절천자는 1차 치료 또는 우월 치료가 아님 — 보존 치료 불응성 관절내 TMD에서 수술 전 단계적 치료의 보조 선택지로만 해석.
 
 ## Summary
 

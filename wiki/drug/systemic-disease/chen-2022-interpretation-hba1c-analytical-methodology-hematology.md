@@ -6,18 +6,28 @@ date: 2022-10-04
 doi: 10.3892/etm.2022.11643
 source: chen-2022-interpretation-hba1c-analytical-methodology-hematology.md
 category: [drug/systemic-disease]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/chen-2022-interpretation-hba1c-analytical-methodology-hematology.pdf
 pdf_filename: chen-2022-interpretation-hba1c-analytical-methodology-hematology.pdf
 source_collection: external
 tags: [hba1c, interference, anemia, ckd, hemoglobinopathy, drug-interference, dental-systemic-evaluation]
 ---
 
-## One-line Summary
-Narrative review (Exp Ther Med 2022, Kunming Medical Univ.) — HbA1c interference systematized across 3 axes (① method-specific variants/derivatives, ② biochemical glycation rate, ③ RBC lifespan changes); catalogs false-high/false-low direction by condition (anemia, CKD, HbS/C/D/E, pregnancy, aspirin, vitamin C, dapsone) — basis for limitations of HbA1c alone in pre-extraction/pre-implant assessment.
+## Three-line Summary
 
-## 한줄요약
-서술적 고찰 (Exp Ther Med 2022, Kunming Medical Univ) — HbA1c 간섭을 3축 (① 측정법 특이 변이체·유도체 ② 생화학적 글리케이션 속도 ③ 적혈구 수명 변화) 으로 체계화; 빈혈·CKD·HbS/C/D/E·임신·약물 (아스피린·비타민C·dapsone) 별 위양성·위음성 방향 카탈로그. 발치·임플란트 전 평가에서 HbA1c 단독 판단의 한계 근거.
+Narrative review (Exp Ther Med 2022, Kunming Medical Univ., PubMed/Embase/Web of Science/Cochrane/CNKI) systematizing HbA1c interference across 3 axes: method-specific Hb variants/derivatives, biochemical glycation rate differences, and RBC lifespan changes.
+
+Shortened RBC lifespan (hemolytic anemia, G6PD deficiency, transfusion <3 months, late pregnancy, EPO) falsely lowers HbA1c; prolonged lifespan (iron-deficiency anemia, B12/folate deficiency, splenectomy) falsely raises it; drug interferences (high-dose aspirin, vitamin C, dapsone, antiretrovirals) are also cataloged by direction.
+
+Before relying on HbA1c for pre-extraction/pre-implant diabetic risk stratification, screen for conditions that invalidate it (CKD, iron-deficiency anemia, HbE in Southeast Asians, recent transfusion) and use alternative biomarkers (fructosamine, glycated albumin, 1,5-AG, CGM TIR) when discordance occurs.
+
+## 세줄요약
+
+서술적 고찰(Exp Ther Med 2022, Kunming Medical Univ) — PubMed·Embase·Web of Science·Cochrane·CNKI 검색 기반으로 HbA1c 간섭을 3축(① 측정법 특이 변이체·유도체 ② 생화학적 글리케이션 속도 ③ 적혈구 수명 변화)으로 체계화; 측정법(IEC·BAC·CE·IA·효소법) × Hb 변이체 교차표로 각 조건별 위양성·위음성 방향을 카탈로그화.
+
+적혈구 수명 단축(용혈성빈혈·G6PD 결핍·수혈 3개월 내·임신 말기·EPO 치료)→HbA1c 위낮음; 수명 연장(철 결핍빈혈·B12/엽산결핍·비장절제)→위높음; 약물 간섭(아스피린 고용량·비타민C·dapsone·항레트로바이러스제)도 정리; 불일치 시 대안 지표(fructosamine·glycated albumin·1,5-AG·CGM TIR) 사용 권고.
+
+발치·임플란트 전 당뇨 위험 평가 시 CKD·철결핍빈혈·동남아 HbE 분포·수혈 이력 등이 있으면 HbA1c 단독 판단을 지양하고 손가락 채혈 혈당 또는 대안 지표로 검증해야 한다.
 
 ## Summary
 The Chen 2022 review proposes a **three-axis interference framework** for HbA1c interpretation: (1) **methodological** — Hb variants and HbF/derivative interference specific to each detection method (IEC, BAC, CE, IA, enzymatic); (2) **biochemical** — variable glycation rates of Hb variants vs HbA producing bias particularly in affinity chromatography; (3) **hematological** — RBC lifespan changes from hemolysis, transfusion, iron deficiency, splenectomy, CKD/uremia, and erythropoietin therapy. The paper systematically catalogs the **direction of bias** (falsely low vs falsely high HbA1c) for each interfering condition and emphasizes that clinical HbA1c must be reconciled with fingerstick capillary glucose or alternative biomarkers (fructosamine, glycated albumin, 1,5-anhydroglucitol, CGM-derived TIR) when discordance with clinical picture occurs.

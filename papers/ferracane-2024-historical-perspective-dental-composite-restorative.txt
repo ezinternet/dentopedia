@@ -1,0 +1,63 @@
+A Historical Perspective on Dental Composite Restorative Materials
+Ferracane JL.
+Journal of Functional Biomaterials. 2024;15(7):173.
+DOI: 10.3390/jfb15070173
+PMID: 39057295  PMCID: PMC11277709
+Source: PubMed Central full text (get_full_text_article)
+
+=== ABSTRACT ===
+This review article will discuss the origin of resin-based dental composite materials and their adoption as potentially useful adjuncts to the primary material used by most dentists for direct restorations. The evolution of the materials, largely driven by the industry's response to the needs of dentists, has produced materials that are esthetic, strong, and versatile enough to be used in most areas of the oral cavity to replace or restore missing tooth structures. Significant advancements, such as the transition from chemical to light-curing materials, refinements in reinforcing particles to produce optimum polishing and wear resistance, formulating pastes with altered viscosities to create highly flowable and highly stiff materials, and creating materials with enhanced depth of cure to facilitate placement, will be highlighted. Future advancements will likely reflect the movement away from simply being a biocompatible material to one that is designed to produce some type of beneficial effect upon interaction within the oral environment. These new materials have been called "bioactive" by virtue of their potential effects on bacterial biofilms and their ability to promote mineralization of adjacent tooth structures.
+
+=== 1. INTRODUCTION (pre-composite era → Bowen's resin) ===
+Resin-based composites (RBCs) are now the most-used dental material (esthetics, properties, reasonable cost, versatility, acceptable clinical performance), though clinical longevity remains less than ideal.
+Pre-composite esthetic dentistry (anterior only):
+- Silicate cements (earliest esthetic anterior).
+- Early 1950s: PMMA resin = pre-polymerized PMMA powder + methyl methacrylate (MMA) liquid monomer; cured by amine-peroxide reaction (German researchers, 1940s).
+- PMMA deficiencies: marginal staining/discoloration from high polymerization shrinkage, no bonding to tooth, large thermal-expansion mismatch vs tooth, pulpal reactions from MMA toxicity, inherently weak.
+- Dr. Rafael Bowen: first tried epoxy resins filled with crushed fused quartz — epoxies adhered but didn't set in moist conditions and rapid-polymerization chemicals were tissue-irritating.
+- Bowen then created a hybrid molecule from methacrylate + epoxide = Bis-GMA (bisphenol A glycidyl methacrylate), "Bowen's resin." US patent 3,066,112 issued 1962; introduced in dental literature 1963. This paved the path for modern RBCs.
+- New composites vs acrylics: stronger, stiffer, less polymerization shrinkage, thermal expansion closer to tooth, more esthetic.
+- Dr. Michael Buonocore: acid-etch technique for enamel (phosphoric acid) enabled mechanical adhesion + reliable sealing of enamel margins.
+- Initially: anterior restorations only (esthetics); posterior direct restorations still done with dental amalgam. This evolved as composite properties and tooth adhesion improved.
+The review focus: chronologically identify significant changes to polymerization initiators, resin monomers, and fillers that produced commercial products. Many formulation changes were direct responses to practitioner needs (focus groups with key opinion leaders).
+
+=== 2. ADVANCES IN INITIATING POLYMERIZATION ===
+- Initial commercial composites: two-part paste (peroxide initiator + amine activator), mixed → auto/self-cure in minutes.
+- ~1970: UV light activation (benzoin methyl ether or similar UV-sensitive compounds) for sealants/composites — removed need to mix pastes/working time. Limited by UV penetration depth (<400 nm) and high-intensity UV exposure concerns.
+- Late 1970s–early 1980s: UV replaced by visible-light activation — camphorquinone (CQ) + tertiary amine co-initiator in single paste. CQ absorbs ~468 nm (blue); amine becomes radical that initiates polymerization by splitting C=C bond.
+- CQ is bright yellow; incomplete bleaching leaves undesirable color (esp. unfilled adhesive). Alternative "less yellow" photoinitiators: PPD (1-phenyl-1,2-propanedione), BAPO, TPO (acylphosphine oxides), germanium-based Ivocerin — absorb mostly UV, extending only to ~400–410 nm. Diphenyliodonium hexafluorophosphate combined with CQ boosts efficiency (common commercially).
+- Curing lights: first = quartz tungsten halogen (QTH, ~400–540 nm, filtered). Enabled on-demand set + 2 mm increments. QTH inefficient (mostly heat).
+- LEDs replaced QTH: less heat, no filters (emit ~420–500 nm). Early LEDs low output; by mid-2000s high-power LEDs dominated. Current LEDs ~800–2000 mW/cm², battery-friendly.
+- Irradiance ↑ → shorter cure per increment (from 40 s → 10–20 s → even 1–3 s for very high-power 3000–4000 mW/cm² lights). Exposure reciprocity (energy = irradiance × time) has been DISCREDITED as a general rule — only rough guidance. Controversy remains over very-high-irradiance/short-duration effects on composite quality.
+- 1990s: laser and plasma arc (PAC) high-output lights. Recent: LED laser unit (Monet, AMD Lasers) — stable output over distance, collimated, high irradiance.
+- Multi-wave / poly-wave LEDs (2–3 blue chips + 1 near-violet ~400–410 nm chip) to cure composites with alternative photoinitiators; concern: non-uniform beam across tip → reduced curing efficiency.
+
+=== 3. ADVANCES IN MONOMER TECHNOLOGY ===
+- First successful composites: Bis-GMA dimethacrylate diluted with TEGDMA (triethyleneglycol dimethacrylate); ground quartz/glass fillers.
+- Bis-GMA (512 g/mol) >> MMA (100 g/mol); two C=C double bonds/molecule → cross-linked thermoset network.
+- Many dimethacrylates introduced; no consistent evidence any resin system clinically outperforms others.
+- BPA concern: BPA not used in formulation, not a Bis-GMA degradation byproduct, but may form via hydrolysis of other dimethacrylates → many "BPA-free" claims.
+- Polymerization shrinkage = major challenge. Larger dimethacrylates shrink several times less than small monomers (MMA). Key insight: shrinkage itself not the main cause of marginal defects — rather the INTERNAL STRESS from shrinkage resisted by adhesion to cavity.
+- Low-shrinkage strategy #1: larger/longer monomers (less dimensional change per monomer-monomer link). Commercial: DX511 (Kalore, GC), TCD-urethane (Venus Diamond, Kulzer), dimer dicarbamate dimethacrylate (N'Durance, Septodont).
+- Strategy #2: epoxide/ring-opening — oxiranes/oxaspiro (recalls Bowen's epoxy idea). Commercial: Filtek LS Silorane (3M ESPE) — cationic ring-opening (not free-radical), needs dedicated adhesive. Ring-opening expansion offsets contraction. Good properties, reduced shrinkage, but clinical studies = equivalent, NOT significantly improved.
+- Strategy #3: ormocer (organically modified ceramic, late 1990s) — sol-gel inorganic silica backbone + organic methacrylate side chains; light-cured; lower shrinkage due to size. Products: Admira (Voco), Definite (Degussa), Ceram-X (Dentsply) + dimethacrylate diluents. SR: performed like bulk-fill but slightly less successful than conventional in posterior; more sensitivity/marginal degradation (from diluents).
+- Self-adhesive direct composites (no separate adhesive): first as flowables (adhesive chemistry) — mixed success, traditional flowable+adhesive equal/better. Heavily filled self-adhesive types mimic GIC/compomer (carboxylic acid groups). Activa (Pulpdent) w/o adhesive → poor clinical performance <1 yr, discontinued; but acceptable in primary teeth WITH adhesive. SureFil One (Dentsply) self-adhesive bulk-fill — reasonable success, but discontinued (supply issues).
+- Bulk-fill composites (early 2010s): 4–5 mm increments, single cure. Needed low polymerization stress (stress/microleakage correlate with resin volume) + enhanced depth of cure. First = flowables e.g. SDR Flow (Dentsply), lower mechanical props → need "capping" layer of posterior composite. Later full-cavity fill (max 4–5 mm). Cure depth enhanced by matching filler/matrix refractive index + larger particles (less scattering). Tetric Evoceram Bulk Fill (Ivoclar) = efficient photoinitiator. Filtek One Bulk Fill (3M), Tetric PowerFill (Ivoclar) = covalent adaptable networks (addition-fragmentation chain transfer) for internal reorganization/lower stress. In vitro + clinical: bulk-fills perform as well as incrementally placed conventional composites.
+- Other low-stress: nanogels (internally cross-linked polymer globules) in matrix or on filler; thiourethane oligomers in matrix or on filler — slow polymerization, no loss of conversion, substantial fracture-toughness increase.
+
+=== 4. ADVANCES IN FILLER TECHNOLOGY ===
+- Original: large quartz/glass fillers (10–20 µm avg, largest >50 µm) = good strengtheners (crack blunting/deflection) but poor wear + hard to polish. Wear = soft resin lost between hard particles → particles loosen/release → voids, rough surface, further wear.
+- Solution: smaller fillers. Major advance = aerosol silica NANOFILLERS ~40–50 nm (misnamed "microfillers"). "Microfill" composites: high gloss maintained (particles wear at resin rate). Superior against abrasion (toothbrushing) but lose material faster under heavy occlusal force. Wear resistance ∝ flexure strength & fracture toughness ∝ filler amount. Microfill filler loading <50 vol% → limited properties. To maximize: pre-polymerized resin blocks (high particle concentration) ground into ≥50 µm particles — individual hard particles stay nanoscale → excellent polishing.
+- "Hybrid" composite: large reinforcing fillers + small nanoparticles (nanoparticles fill spaces, maximize loading/wear resistance). Ideal properties via multi-size particle packing. Large particles still a wear issue → finer grinding → minifills → microhybrids. With pre-polymerized resin fillers → nanohybrids.
+- True nanofill: only Filtek Supreme (3M) = solely nanosized particles, high concentration; good properties, wear resistance, polishability.
+- Supra-nanofills: Estelite Sigma, Omnichroma (Tokuyama) — spherical uniform 100–300 nm, excellent polish. Single-shade "blend-in" composites: Omnichroma, Transcend (Ultradent), Admira Fusion x-tra (Voco), Venus Diamond/Pearl One (Kulzer). Trend to simplify shade systems.
+- Flowable vs packable: flowable = less filler OR low-viscosity resin (higher loading). Packable = high viscosity/stiffness via filler distribution (not overall amount) → similar props to conventional. Sonicfill (Kerr) = sonic-energy dispensed to lower viscosity.
+- Filler composition: originally radiolucent silica/quartz (hard to detect recurrent caries). Heavy-metal glasses (barium, aluminum, strontium, zirconium) → radiopaque, diagnostic advantage. Properties driven by filler content/size/distribution/shape/amount (rule of mixtures → maximize filler, except flowables). Fibers/whiskers as reinforcement: Alert (Pentron) fiber-reinforced = high fracture toughness/strength but poor polish/wear (exposed fibers break off). Silicon nitride ceramic whiskers = strong but need heat-cure (opaque). everX Posterior (GC) = fiber bulk-fill needing non-fiber capping layer.
+
+=== 5. NEW DIRECTIONS: "BIOACTIVITY" & SELF-HEALING ===
+- Future = "bioactivity" (no consensus definition): material does MORE than restore — additional beneficial effect via chemical/biological process. For composites: interact with microbial environment to affect caries recurrence, or remineralize lost tooth structure.
+- Anti-biofilm approaches: anti-fouling (block protein/bacteria adhesion), antimicrobial (kill on contact or via released toxic component), anti-biofilm (release components affecting biofilm formation without killing).
+- Clearfil Protect Bond (Kuraray) adhesive: tethered (non-releasing) quaternary ammonium MDPB (12-methacryloyloxydodecyl pyridinium bromide) — contact bacterial kill, reduced dentin mineral loss in situ, but NO improved clinical performance vs non-MDPB adhesive.
+- Infinix (Nobio): quaternary ammonium tethered to silica nanofiller — reduced mineral loss in situ gap model.
+- Ion-releasing fillers: Activa (Pulpdent), Beautifil (Shofu) — remineralization/reduce mineral loss. Cention N ("alkasite" calcium fluorosilicate filler) — acceptable posterior performance over 2 years. Effectiveness needs long-term clinical research. Regulatory: FDA 510K (substantial equivalence) vs full premarket approval depending on claims.
+- Self-healing composites: stop crack propagation by healing crack region — intrinsic (encapsulated healing agents released on cracking) or extrinsic (external heat/light). No dental product exists yet; active research.

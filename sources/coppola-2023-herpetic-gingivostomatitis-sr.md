@@ -13,13 +13,21 @@ source_collection: external
 
 Fills a herpes-cluster gap in oral-medicine: PHGS management lacked a wiki page. Pairs with [[oral-medicine/mancini-2025-oral-herpes-treatment-sr]] (recurrent HSV) and is anchored to the [[overviews/oral-medicine-decision-ladder]] vesiculo-ulcerative axis.
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (5 studies, 364 patients, mean age 7.6 y) of primary herpetic gingivostomatitis (PHGS) management — only weak evidence that early aciclovir shortens lesion healing and symptom duration; most regimens are empiric symptomatic care.
+PRISMA systematic review (Clinical Oral Investigations 2023; 5 studies, 364 patients, mean age 7.6 years, immunocompetent children) evaluating antiviral and supportive interventions for primary herpetic gingivostomatitis (PHGS).
 
-## 한줄요약
+Only one study provided weak evidence that early aciclovir (within ~72 h of onset) shortens lesion healing and symptom duration; all other regimens were empiric symptomatic care with no effect on viral replication.
 
-체계적 문헌고찰(5편, 364명, 평균 7.6세) — 1차 헤르페스 치은구내염(PHGS)에서 조기 아시클로버가 치유·증상기간을 줄인다는 약한 근거만 존재, 대부분은 경험적 대증요법.
+Diagnostic delay beyond ~72 h undermines antiviral efficacy; the evidence base is very small and too heterogeneous for treatment recommendations, and RCTs are impractical given the self-limiting rapid course.
+
+## 세줄요약
+
+PRISMA 체계적 문헌고찰(Clinical Oral Investigations 2023; 5편, 364명, 평균 7.6세 면역정상 소아): 면역정상 환자의 1차 헤르페스 치은구내염(PHGS) 항바이러스·지지 치료 중재 효과 평가.
+
+단 1편만이 조기 아시클로버(발병 ~72시간 이내)가 병변 치유·증상기간을 단축한다는 약한 근거 제시; 나머지 치료는 바이러스 복제에 영향 없는 경험적 대증요법.
+
+72시간 초과 진단 지연 시 항바이러스 효과 소실; 근거 기반이 매우 작고 이질적이어서 치료 권고안 도출 불가, 빠른 자가 치유 경과로 RCT 설계 자체가 비현실적.
 
 ## 1. Document Information
 

@@ -1,0 +1,30 @@
+Title (Chinese, original): 单纯锥度固位种植体在后牙区慢性根尖感染患牙即刻种植的5年临床观察
+Title (English, translated): Immediate implantation of simple taper retentive implants in chronic apical infected teeth in the posterior region: a 5-year clinical observation.
+
+Authors: Zhang Xu, Wei Shibo, Yu Fei, Wu Hao, Cao Liangwei, Cao Ning, Wei Hongwu, Guo Shuigen
+Affiliation: Dept. of Stomatology, The Fourth Affiliated Hospital of Nanchang University, Nanchang 330009, China.
+
+Journal: Hua Xi Kou Qiang Yi Xue Za Zhi (West China Journal of Stomatology)
+DOI: 10.7518/hxkq.2024.2024166
+PMID: 39610073
+PMCID: PMC11669932
+Publication date: 2024-12-01, volume 42, issue 6, pages 764-772
+
+[Abstract-only retrieval — PMC full-text body field returned empty for this article (original text is Chinese; PMC record carries only the structured abstract). English abstract below via PubMed MCP get_article_metadata.]
+
+English Abstract:
+
+This study aims to evaluate the mid- and long-term clinical efficacies of simple taper retentive implants for immediate placement in chronic apical infected teeth in the posterior region.
+
+A total of 36 patients with 41 simple taper retentive implants were included in the study conducted. These patients underwent immediate implant treatment for teeth with chronic apical infection in the posterior region. The soft and hard tissues surrounding the implants were assessed and documented over a period of 5 years following the completion of crown restoration.
+
+During the 5 years follow-up period, one implant failed with mobility, and the implant survival rate was 97.6%. The mean marginal bone resorption was (-0.74±1.03) mm from the immediate post-implant placement to the immediate post-crown restoration, and the difference in marginal bone heights between the two time points was statistically significant (<0.05). The mean marginal bone resorption was (-0.21±0.70) mm from the immediate post-crown restoration to the 5-year post-crown restoration, and the difference in marginal bone height between the two time points was not statistically significant (>0.05). No significant difference (>0.05) was observed in bone resorption between mesial and distal, maxillary and mandibular, different tooth positions, and different implant lengths. The soft tissue surrounding the implants remained healthy at the 5-years follow-up period, one implant exhibited peri-implantitis, and no mechanical complications were observed. The overall satisfaction of patients was good.
+
+Immediate placement of simple taper retentive implants after thorough debridement of chronic infected alveolar socket in the posterior region can achieve good mid- and long-term clinical outcomes after 5 years of loading. The soft and hard tissues were maintained in a steady state, which expanded the indications for immediate implantation.
+
+Original Chinese Abstract (structured):
+
+目的: 探讨单纯锥度固位种植体在后牙区慢性根尖感染患牙行即刻种植的中远期临床疗效。
+方法: 选取慢性根尖感染后牙即刻种植患者36例，共植入单纯锥度固位种植体41枚。冠修复完成后，追踪观察5年，评估并记录种植体周围软硬组织状况，对临床效果进行评价。
+结果: 随访5年期间，1枚种植体松动失败，种植体存留率为97.6%。种植体植入后即刻至冠修复后即刻平均边缘骨吸收为(-0.74±1.03) mm，冠修复后即刻与种植体植入后即刻边缘骨高度差异有统计学意义(<0.05)；冠修复后即刻至冠修复后5年平均边缘骨吸收为(-0.21±0.70) mm，冠修复后5年与冠修复后即刻边缘骨高度差异无统计学意义(>0.05)。近远中、上下颌、不同牙位、不同种植体长度冠修复后5年间骨吸收量组间比较差异无统计学意义(>0.05)。随访5年，种植体周围软组织健康状况良好，1枚植体发生种植体周围炎，所有种植体无机械并发症发生；患者总体满意度较好。
+结论: 后牙区慢性根尖感染患牙彻底清创后单纯锥度固位植体即刻种植，负载5年后软硬组织稳定，具有良好的中远期临床疗效，扩大了即刻种植的适应证。

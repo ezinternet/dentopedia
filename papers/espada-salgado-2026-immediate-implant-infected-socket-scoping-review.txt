@@ -1,0 +1,20 @@
+Title: Immediate implant placement in infected extraction sockets: A scoping review of case selection, decontamination protocols, clinical outcomes and complications.
+
+Authors: Espada-Salgado F-M, Iuga M-M, Oprea B
+
+Journal: Medicina Oral, Patologia Oral y Cirugia Bucal
+DOI: 10.4317/medoral.28256
+PMID: 42367104
+Publication date: 2026-06-29
+
+[Abstract-only retrieval — no PMC full text available for this journal/article; PubMed MCP get_article_metadata returned structured abstract below, no full body text.]
+
+Abstract:
+
+This scoping review aimed to map the extent and nature of the evidence on immediate implant placement in infected extraction sockets, with emphasis on case selection, decontamination protocols, adjunctive interventions, clinical outcomes, and complications.
+
+This review was conducted in accordance with Joanna Briggs Institute guidance for scoping reviews and reported following PRISMA-ScR. Searches were performed in Scopus, Web of Science Core Collection, PubMed/MEDLINE, LILACS via BVS, SciELO, and ClinicalTrials.gov up to 17 March 2026. After removal of duplicates, 72 records were screened independently by two reviewers, and 24 clinical studies published between 2015 and 2025 met the inclusion criteria.
+
+The included evidence comprised case reports, case series, retrospective studies, prospective cohort studies, one split-mouth study, and one randomized trial. Most studies evaluated infected sockets associated with endodontic or periapical lesions, whereas periodontal and mixed lesions were less frequently addressed. Across studies, atraumatic extraction, meticulous socket debridement, and achievement of primary stability were consistently reported as key procedural steps. Adjunctive measures included systemic antibiotics, chlorhexidine decontamination, bone grafts, barrier membranes, platelet concentrates, laser therapy, vestibular socket techniques, and immediate provisionalization. Although most studies reported favorable implant survival, marginal bone stability, and esthetic outcomes, the evidence was heterogeneous, largely observational, and frequently non-comparative.
+
+The available evidence suggests that immediate implant placement in infected extraction sockets may be feasible in carefully selected cases when meticulous debridement and adequate primary stability are achieved. However, due to the heterogeneity, limited comparative evidence, and variability in infection definitions and treatment protocols, no standardized clinical protocol can currently be recommended. Further well-designed comparative studies with standardized reporting are needed.

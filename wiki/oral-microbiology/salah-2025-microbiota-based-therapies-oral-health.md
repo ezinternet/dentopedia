@@ -6,20 +6,28 @@ date: 2025-10-11
 doi: 10.1007/s12223-025-01324-x
 source: salah-2025-microbiota-based-therapies-oral-health.md
 category: [oral-microbiology]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 text_path: /Users/oracleneo/llm-wiki/papers/salah-2025-microbiota-based-therapies-oral-health.txt
 text_filename: salah-2025-microbiota-based-therapies-oral-health.txt
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review (Folia Microbiologica 2025) cataloguing oral dysbiosis mechanisms across caries, periodontitis, halitosis, and candidiasis, then surveying emerging microbiota-based therapies: probiotics, postbiotics, predatory bacteria (Bdellovibrio bacteriovorus), bacteriophages, and oral microbiota transplantation.
+Narrative review (Folia Microbiologica 2025) cataloguing oral dysbiosis mechanisms across caries (Takahashi-Nyvad 3-stage model), periodontitis (red complex gingipain/complement subversion), halitosis (VSC-producing anaerobes), and candidiasis (Candida–S. mutans ALS3/glucan synergy), then surveying five emerging microbiota-based therapeutic strategies.
 
-## 한줄요약
+Probiotics (S. salivarius M18/K12, Lactobacillus spp.) reduce plaque/bleeding indices and modulate cytokines; postbiotics (heat-killed L. paracasei ET-22) match live bacteria for VSC/pathogen reduction; predatory bacteria (B. bacteriovorus) selectively kill Gram-negative periopathogens without harming commensals; lytic bacteriophages against S. mutans/E. faecalis/F. nucleatum show in vivo efficacy; a pediatric oncology OMT pilot reduced chemotherapy-induced mucositis.
 
-2025년 narrative review: 구강 미생물 불균형(우식·치주염·구취·칸디다증) 기전을 정리하고, 프로바이오틱스·포스트바이오틱스·포식세균(Bdellovibrio)·박테리오파지·구강 미생물 이식(OMT) 등 신흥 생태학적 치료 전략을 체계적으로 개관.
+All novel strategies face shared limitations: inter-individual microbiome variability, narrow phage host ranges, inability of BALOs to target Gram-positive cariogenic bacteria, and the absence of human periodontal RCTs for OMT.
+
+## 세줄요약
+
+Narrative review (Folia Microbiologica 2025): 우식(Takahashi-Nyvad 3단계 모델)·치주염(red complex gingipain/보체 조작)·구취(VSC 생산 혐기균)·칸디다증(ALS3/glucan 공생 시너지)의 구강 미생물 불균형 기전 정리 후 5가지 신흥 치료 전략 개관.
+
+프로바이오틱스(S. salivarius M18/K12, Lactobacillus)가 치은 지수·사이토카인 개선; 포스트바이오틱스(사멸 L. paracasei ET-22)가 생균 대비 동등한 VSC·병원균 억제; B. bacteriovorus가 공생균 손상 없이 Gram-음성 치주병원균 선택적 사멸; S. mutans·E. faecalis·F. nucleatum 용균 파지의 in vivo 효능; 소아 항암 OMT 파일럿에서 구강점막염 감소.
+
+모든 신흥 전략의 공통 한계: 개인별 미생물 변이, 파지 숙주범위 협소, BALOs의 Gram-양성균(S. mutans) 비표적, 구강 OMT 인간 임상 RCT 부재.
 
 ## Summary
 
@@ -90,8 +98,8 @@ Emerging therapies reviewed include:
 
 ## Related Papers
 
-- [[oral-microbiology/index]] — oral microbiome ecology and dysbiosis framework
-- [[periodontics/index]] — periodontitis management context for red complex relevance
-- [[caries/index]] — caries ecology and S. mutans cariogenic mechanisms
-- [[halitosis/index]] — VSC production and halitosis microbiota associations
-- [[oral-medicine/mucositis/index]] — OMT pilot in pediatric oncology mucositis prevention context
+- [[index]] — oral microbiome ecology and dysbiosis framework
+- [[index]] — periodontitis management context for red complex relevance
+- [[index]] — caries ecology and S. mutans cariogenic mechanisms
+- [[index]] — VSC production and halitosis microbiota associations
+- [[index]] — OMT pilot in pediatric oncology mucositis prevention context

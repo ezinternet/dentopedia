@@ -16,13 +16,21 @@ text_filename: qadeer-2023-occlusal-contacts-maximum-intercuspation-dentate.txt
 
 Establishes the baseline question of what a "normal" number of occlusal contacts at maximum intercuspation (MICP) actually is, and shows the count is driven mainly by the detection method — directly reinforcing [[occlusion/didier-2026-occlusal-contacts-ios-vs-carbon-paper-concordance]], which demonstrates that contact detection differs by indicator (IOS vs carbon paper). Anchors the MICP-contact theme for the CR/CO/MICP batch alongside [[occlusion/kattadiyil-2021-relationship-centric-occlusion-maximal-intercuspal]] and [[occlusion/velasquez-2022-occlusal-analysis-natural-dentition-sr]].
 
-## One-line Summary
+## Three-line Summary
 
 Systematised review of 18 studies over four decades (1980s–2022) finding the number of occlusal contacts at MICP in dentate adults ranges widely from 11 to 70, with variation driven mainly by the occlusal indicator/technique and population differences.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 18편(1980년대–2022)을 종합한 systematised review로, 유치악 성인의 최대교두감합위(MICP) 교합접촉 수는 11~70개로 크게 분포하며 그 차이는 주로 사용된 교합지시재·기법과 대상 집단의 차이에서 비롯된다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

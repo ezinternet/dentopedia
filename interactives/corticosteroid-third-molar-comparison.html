@@ -1,0 +1,221 @@
+<!--
+---
+title: "코르티코스테로이드 약물 비교 매트릭스 — 사랑니 발치"
+type: interactive
+date: 2026-07-29
+status: done
+category: drug/analgesics
+agenda: agenda/2026-07-29_corticosteroid-third-molar-interactives.md
+source_wiki:
+  - wiki/drug/analgesics/buyukkurt-2006-prednisolone-diclofenac-third-molar-rct.md
+  - wiki/drug/analgesics/ibikunle-2016-prednisolone-qol-third-molar-rct.md
+  - wiki/drug/analgesics/gholami-2021-methylprednisolone-masseter-gluteal-third-molar-rct.md
+  - wiki/drug/analgesics/larsen-2021-methylprednisolone-doses-split-mouth-rct.md
+  - wiki/drug/analgesics/singh-2023-dexamethasone-vs-methylprednisolone-third-molar-sr-ma.md
+  - wiki/drug/analgesics/liborio-2025-methylprednisolone-third-molar-sr-ma.md
+  - wiki/drug/analgesics/tamgadge-2025-preoperative-dexamethasone-third-molar-pain-swelling-trismus.md
+tags: [corticosteroid, third-molar, dexamethasone, methylprednisolone, prednisolone, comparison-matrix, interactive]
+---
+-->
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>코르티코스테로이드 약물 비교 매트릭스 — 사랑니 발치</title>
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:-apple-system,BlinkMacSystemFont,'Helvetica Neue',sans-serif;color:#1a1a18;background:#f5f4f0;padding:1.5rem}
+h1{font-size:18px;font-weight:500;margin-bottom:4px}
+.subtitle{font-size:12px;color:#888780;margin-bottom:1.25rem}
+.tab-row{display:flex;gap:6px;margin-bottom:0;border-bottom:1px solid #d3d1c7;padding-bottom:0}
+.tab{padding:6px 14px;font-size:13px;cursor:pointer;border-radius:6px 6px 0 0;border:1px solid transparent;color:#5f5e5a;background:transparent;transition:all .15s;font-family:inherit}
+.tab.active{border-color:#d3d1c7;border-bottom-color:#fff;background:#fff;color:#1a1a18;font-weight:500}
+.panel-wrap{background:#fff;border:1px solid #d3d1c7;border-top:none;border-radius:0 0 8px 8px;padding:1rem}
+.panel{display:none}.panel.active{display:block}
+table{width:100%;border-collapse:collapse;font-size:13px;table-layout:fixed}
+th,td{padding:8px 10px;border:0.5px solid #d3d1c7;vertical-align:top;text-align:left}
+th{background:#f1efe8;font-weight:500;font-size:12px;color:#5f5e5a}
+.badge{display:inline-block;padding:2px 7px;border-radius:10px;font-size:11px;font-weight:500;white-space:nowrap}
+.b-green{background:#EAF3DE;color:#3B6D11}
+.b-amber{background:#FAEEDA;color:#854F0B}
+.b-blue{background:#E6F1FB;color:#185FA5}
+.b-gray{background:#f1efe8;color:#5f5e5a}
+.b-red{background:#FCEBEB;color:#A32D2D}
+.note{font-size:11px;color:#888780;margin-top:3px;line-height:1.4}
+.ev{font-size:10px;color:#b4b2a9;font-style:italic}
+.row-drug td:first-child{font-weight:500;background:#f1efe8;width:120px}
+.legend{display:flex;gap:8px;flex-wrap:wrap;margin-top:1rem;padding-top:0.75rem;border-top:0.5px solid #d3d1c7}
+.legend-item{display:flex;align-items:center;gap:4px;font-size:11px;color:#5f5e5a}
+.section-head{font-size:11px;font-weight:500;color:#5f5e5a;margin-bottom:0.75rem;text-transform:uppercase;letter-spacing:.04em}
+.sources{margin-top:1.25rem;padding-top:1rem;border-top:0.5px solid #d3d1c7;font-size:11px;color:#888780;line-height:1.6}
+</style>
+</head>
+<body>
+<h1>코르티코스테로이드 약물 비교 매트릭스</h1>
+<p class="subtitle">사랑니 발치(Third Molar Surgery) 술후 관리 · LLM-Wiki 임상 도구 · 2025-07</p>
+
+<div class="tab-row">
+  <button class="tab active" onclick="show('efficacy',this)">효능 비교</button>
+  <button class="tab" onclick="show('protocol',this)">투여 프로토콜</button>
+  <button class="tab" onclick="show('evidence',this)">근거 수준</button>
+</div>
+
+<div class="panel-wrap">
+
+<div class="panel active" id="efficacy">
+  <p class="section-head">임상 목표별 약물 효능</p>
+  <table>
+    <thead>
+      <tr>
+        <th style="width:120px">임상 목표</th>
+        <th>덱사메타손<br><span class="ev">Dexamethasone</span></th>
+        <th>메틸프레드니솔론<br><span class="ev">Methylprednisolone</span></th>
+        <th>프레드니솔론<br><span class="ev">Prednisolone</span></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr class="row-drug">
+        <td>개구제한<br>(Trismus)</td>
+        <td><span class="badge b-green">1순위 ✓</span><div class="note">Dexa &gt; MP (SMD −0.69mm, p&lt;0.0001)<br>Singh 2023 SR+MA; Libório 2025 I²=0%</div></td>
+        <td><span class="badge b-amber">2순위</span><div class="note">SR+MA에서 dexa보다 열위<br>단독 RCT 2건 모두 null</div></td>
+        <td><span class="badge b-amber">2순위</span><div class="note">단독 데이터 제한적<br>diclofenac 병용 시 trismus day2,7 유의 개선</div></td>
+      </tr>
+      <tr class="row-drug">
+        <td>통증<br>(Pain)</td>
+        <td><span class="badge b-blue">동등</span><div class="note">Dexa vs MP: pain NS<br>Singh 2023</div></td>
+        <td><span class="badge b-blue">동등</span><div class="note">MP vs Dexa: pain NS<br>Singh 2023</div></td>
+        <td><span class="badge b-green">병용 우선 ✓</span><div class="note">Pred+Diclo: 6h 통증 유의 우월<br>Buyukkurt 2006; 단독은 7h만 유의</div></td>
+      </tr>
+      <tr class="row-drug">
+        <td>부종<br>(Swelling)</td>
+        <td><span class="badge b-blue">동등</span><div class="note">Dexa vs MP: swelling NS<br>Singh 2023</div></td>
+        <td><span class="badge b-blue">동등</span><div class="note">MP vs Dexa: swelling NS<br>Singh 2023</div></td>
+        <td><span class="badge b-green">병용 우선 ✓</span><div class="note">Pred+Diclo: day7 부종 유의 감소<br>단독은 day2만 유의</div></td>
+      </tr>
+      <tr class="row-drug">
+        <td>삶의 질<br>(QoL/OHIP-14)</td>
+        <td><span class="badge b-gray">데이터 없음</span></td>
+        <td><span class="badge b-red">Null</span><div class="note">OHIP-14 대조군 대비 NS<br>Larsen 2021 split-mouth RCT n=52</div></td>
+        <td><span class="badge b-green">양성 ✓</span><div class="note">OHIP-14 유의 개선<br>점막하(Submucosal) &gt; 경구(Oral) (p=0.001)<br>Ibikunle 2016 n=186</div></td>
+      </tr>
+    </tbody>
+  </table>
+  <div class="legend">
+    <div class="legend-item"><span class="badge b-green">녹색</span> 우선 선택 / 양성</div>
+    <div class="legend-item"><span class="badge b-amber">주황</span> 차선 / 주의</div>
+    <div class="legend-item"><span class="badge b-blue">파랑</span> 동등 / 중립</div>
+    <div class="legend-item"><span class="badge b-red">빨강</span> Null / 열위</div>
+    <div class="legend-item"><span class="badge b-gray">회색</span> 데이터 없음</div>
+  </div>
+</div>
+
+<div class="panel" id="protocol">
+  <p class="section-head">투여 프로토콜 비교</p>
+  <table>
+    <thead>
+      <tr>
+        <th style="width:120px">항목</th>
+        <th>덱사메타손<br><span class="ev">Dexamethasone</span></th>
+        <th>메틸프레드니솔론<br><span class="ev">Methylprednisolone</span></th>
+        <th>프레드니솔론<br><span class="ev">Prednisolone</span></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr class="row-drug">
+        <td>추천 용량</td>
+        <td>4 mg (선제적)<br><span class="note">Tamgadge 2025</span></td>
+        <td>20–40 mg<br><span class="note">Larsen 2021: 20/30/40 모두 NS — 용량 효과 없음</span></td>
+        <td>25–40 mg<br><span class="note">Buyukkurt: 25mg IM; Ibikunle: 40mg</span></td>
+      </tr>
+      <tr class="row-drug">
+        <td>투여 경로</td>
+        <td><span class="badge b-green">IV / IM / 점막하</span><div class="note">경구도 사용 가능</div></td>
+        <td><span class="badge b-amber">IM / 경구</span><div class="note">점막하(Masseter) vs 둔부근(Gluteal) NS<br>Gholami 2021 — 경로 차이 없음</div></td>
+        <td><span class="badge b-green">점막하 우선 ✓</span><div class="note">점막하 &gt; 경구 QoL (p=0.001)<br>Ibikunle 2016</div></td>
+      </tr>
+      <tr class="row-drug">
+        <td>투여 타이밍</td>
+        <td><span class="badge b-green">선제적(술전)</span><div class="note">마취 시 또는 직전 권장</div></td>
+        <td><span class="badge b-blue">술전/술후</span><div class="note">술후 단회 투여 데이터 다수</div></td>
+        <td><span class="badge b-blue">술직후 IM</span><div class="note">Buyukkurt: 술후 즉시 투여</div></td>
+      </tr>
+      <tr class="row-drug">
+        <td>병용 전략</td>
+        <td><span class="badge b-gray">단독 데이터 중심</span></td>
+        <td><span class="badge b-gray">단독 vs 위약</span></td>
+        <td><span class="badge b-green">+ NSAID 권장 ✓</span><div class="note">Pred+Diclofenac 시너지 확인<br>Buyukkurt 2006</div></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="panel" id="evidence">
+  <p class="section-head">근거 수준 요약</p>
+  <table>
+    <thead>
+      <tr>
+        <th style="width:130px">논문</th>
+        <th>설계</th>
+        <th>약물</th>
+        <th>핵심 결과</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="font-weight:500">Singh 2023</td>
+        <td><span class="badge b-green">SR+MA (7 RCT)</span></td>
+        <td>Dexa vs MP</td>
+        <td>Trismus: dexa 우위 (SMD −0.69, p&lt;0.0001) · Pain/Swelling: NS</td>
+      </tr>
+      <tr>
+        <td style="font-weight:500">Libório 2025</td>
+        <td><span class="badge b-green">SR+MA (9 RCT)</span></td>
+        <td>MP</td>
+        <td>Trismus↓ I²=0%; pain NS; dexa &gt; MP 확인</td>
+      </tr>
+      <tr>
+        <td style="font-weight:500">Larsen 2021</td>
+        <td><span class="badge b-blue">RCT n=52</span></td>
+        <td>MP 20/30/40mg</td>
+        <td>모든 지표 NS — 용량 효과 없음, QoL null</td>
+      </tr>
+      <tr>
+        <td style="font-weight:500">Gholami 2021</td>
+        <td><span class="badge b-blue">RCT n=60</span></td>
+        <td>MP 경로 비교</td>
+        <td>Masseter vs Gluteal vs 대조 — 전부 NS</td>
+      </tr>
+      <tr>
+        <td style="font-weight:500">Ibikunle 2016</td>
+        <td><span class="badge b-blue">RCT n=186</span></td>
+        <td>Prednisolone</td>
+        <td>QoL 개선; 점막하 &gt; 경구 (p=0.001)</td>
+      </tr>
+      <tr>
+        <td style="font-weight:500">Buyukkurt 2006</td>
+        <td><span class="badge b-blue">RCT n=45</span></td>
+        <td>Pred + Diclofenac</td>
+        <td>병용 &gt; 단독: pain 6h, trismus day2&7, swelling day7</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+</div>
+
+<div class="sources">
+  <strong>근거 논문:</strong> Singh 2023 (PROSPERO CRD42020161341) · Libório 2025 (PROSPERO CRD42024512561) · Larsen 2021 · Gholami 2021 · Ibikunle 2016 · Buyukkurt 2006<br>
+  <strong>위키 경로:</strong> wiki/drug/analgesics/ · 생성: 2026-07-29
+</div>
+
+<script>
+function show(id, btn){
+  document.querySelectorAll('.panel').forEach(p=>p.classList.remove('active'));
+  document.querySelectorAll('.tab').forEach(t=>t.classList.remove('active'));
+  document.getElementById(id).classList.add('active');
+  btn.classList.add('active');
+}
+</script>
+</body>
+</html>

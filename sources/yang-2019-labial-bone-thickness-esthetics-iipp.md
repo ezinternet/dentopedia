@@ -9,8 +9,21 @@ pdf_filename: yang-2019-labial-bone-thickness-esthetics-iipp.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Prospective cohort study quantifying the impact of labial bone thickness on PES/WES esthetic outcomes after immediate implant placement with immediate provisionalization in the esthetic zone.
+## Three-line Summary
+
+Prospective cohort study quantifying the impact of labial
+
+bone thickness on PES/WES esthetic outcomes after immediate
+
+implant placement with immediate provisionalization in the esthetic zone.
+
+## 세줄요약
+
+Prospective 코호트 (Cohort) study quantifying the impact of labial
+
+bone thickness on PES/WES esthetic outcomes after immediate
+
+implant placement with immediate provisionalization in the esthetic zone.
 
 ## 1. Document Information
 - **Title:** The thickness of labial bone affects the esthetics of immediate implant placement and provisionalization in the esthetic zone: A prospective cohort study
@@ -32,8 +45,8 @@ Esthetic outcomes deteriorate as labial bone thickness decreases. The 1–2 mm t
 Cohort (non-randomized); follow-up bound by study horizon; threshold values still population-specific.
 
 ## 6. Related Work
-- [[immediate-implant/shafizadeh-2021-alveolar-bone-thickness-healthy-sr]]
-- [[immediate-implant/altarawneh-2018-bone-dimensions-anterior-maxilla-cbct]]
+- [[immediate-implant/anatomic-assessment/shafizadeh-2021-alveolar-bone-thickness-healthy-sr]]
+- [[immediate-implant/anatomic-assessment/altarawneh-2018-bone-dimensions-anterior-maxilla-cbct]]
 - [[immediate-implant/esthetic-soft-tissue/staas-2026-fiipp-palatal-position-cbct-3year]]
 
 ## 7. Glossary

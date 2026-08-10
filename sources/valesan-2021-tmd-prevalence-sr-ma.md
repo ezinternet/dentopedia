@@ -9,8 +9,21 @@ pdf_filename: valesan-2021-tmd-prevalence-sr-ma.pdf
 source_collection: external
 ---
 
-## One-line Summary
-SR+MA on TMD prevalence; pooled global prevalence approximately 31% for any TMD sign/symptom, with higher rates in women and younger adults; provides epidemiological foundation for TMD research and resource planning.
+## Three-line Summary
+
+SR+MA on TMD prevalence
+
+pooled global prevalence approximately 31% for any TMD sign/symptom, with higher rates in women and younger adults
+
+provides epidemiological foundation for TMD research and resource planning.
+
+## 세줄요약
+
+체계적 고찰 및 메타분석 (SR+MA) on TMD prevalence
+
+pooled global prevalence approximately 31% for any TMD sign/symptom, with higher rates in women and younger adults
+
+provides epidemiological foundation for TMD research and resource planning.
 
 ## 1. Document Information
 - **Journal**: Clinical Oral Investigations 2021;25:441–453

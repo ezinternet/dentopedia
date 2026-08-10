@@ -9,8 +9,21 @@ pdf_filename: wise-2008-tooth-eruption-orthodontic-movement-mechanisms.pdf
 source_collection: external
 ---
 
-## One-line Summary
-치아 맹출과 교정적 치아이동 기전 비교 리뷰 (J Dent Res 2008): 치낭(dental follicle)이 맹출의 핵심; 두 과정 모두 RANKL/OPG/CSF-1 경로 공유; 기전적 차이는 개입 방식의 차이로 이어짐. NIHMS49084.
+## Three-line Summary
+
+치아 맹출과 교정적 치아이동 기전 비교 리뷰 (J Dent Res 2008): 치낭(dental follicle)이 맹출의 핵심
+
+두 과정 모두 RANKL/OPG/CSF-1 경로 공유
+
+기전적 차이는 개입 방식의 차이로 이어짐. NIHMS49084.
+
+## 세줄요약
+
+치아 맹출과 교정적 치아이동 기전 비교 리뷰 (J Dent Res 2008): 치낭(dental follicle)이 맹출의 핵심
+
+두 과정 모두 RANKL/OPG/CSF-1 경로 공유
+
+기전적 차이는 개입 방식의 차이로 이어짐. NIHMS49084.
 
 ## 1. Document Information
 - **Journal**: Journal of Dental Research 2008, 87(5): 414–434

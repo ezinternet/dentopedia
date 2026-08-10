@@ -6,18 +6,29 @@ date: 2024-02-14
 doi: "10.12659/MSM.943489"
 source: durrant-2024-gic-load-bearing-restorations-sr.md
 category: glass-ionomer
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/durrant-2024-gic-load-bearing-restorations-sr.pdf
 pdf_filename: durrant-2024-gic-load-bearing-restorations-sr.pdf
 source_collection: external
 tags: [gic, load-bearing, class-i, class-ii, rct, systematic-review]
+relations:
+  - type: refines
+    target: gizani-2026-restorative-mih-primary-permanent-molars-sr
 ---
 
-## One-line Summary
-Systematic review of 12 RCTs (Med Sci Monit 2024) concluding GIC performs comparably to conventional materials for several clinical parameters in Class I/II load-bearing restorations.
+## Three-line Summary
+Systematic review (EBSCO/PubMed/Embase/Cochrane, RCTs only, 12 trials) evaluating GIC clinical performance across USPHS-type parameters in Class I and II load-bearing restorations.
 
-## 한줄요약
-RCT 12편 SR — 하중부(Class I/II) 수복에서 GIC가 여러 임상 지표상 기존 재료와 비교 가능한 성능을 보인다는 결론.
+GIC was rated suitable and comparable to traditional materials for surface margin, esthetic anatomical form, retention/fracture, marginal adaptation, occlusal contour, wear, and approximal form; no significant differences in postoperative sensitivity, recurrent caries, or tooth integrity; patient and periodontal response favored GIC.
+
+The RCT-only scope directly addresses the long-standing concern about GIC in load-bearing areas, though some esthetic parameters (staining, color match, translucency) showed variation vs comparators.
+
+## 세줄요약
+RCT만 포함한 SR (EBSCO/PubMed/Embase/Cochrane, 12편) — Class I·II 하중부 수복에서 USPHS 유형 지표 별 GIC 임상 성능 평가.
+
+표면 변연·수복 형태·유지/파절·변연 적합·교합면 윤곽·마모·인접면에서 GIC가 기존 재료와 동등; 술후 과민증·이차우식·치아 온전성에 유의차 없음; 환자 및 치주 반응은 GIC 유리.
+
+하중부 GIC 적용에 대한 오랜 우려를 RCT 근거로 직접 반박하나, 변색·색조 일치·반투명도 등 일부 심미 지표에서 비교재료 대비 차이가 있었다.
 
 ## Summary
 This systematic review searched EBSCO, PubMed, Embase, and Cochrane, including only RCTs, and reviewed 12 trials to determine GIC suitability for load-bearing (Class I and II) restorations. Across staining/margin, color match, translucency, esthetic anatomical form, retention, material fracture, marginal adaptation, surface luster, occlusal contour, wear, and approximal form, GIC showed significant variation versus comparators in some parameters but was rated suitable on surface margin, esthetic form, retention/fracture, marginal adaptation, occlusal contour, wear, and approximal form. No significant differences in postoperative sensitivity, recurrent caries, or tooth integrity. Patient view and periodontal response favored GIC.

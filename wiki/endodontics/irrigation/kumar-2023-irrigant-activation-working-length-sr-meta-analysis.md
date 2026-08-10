@@ -6,7 +6,7 @@ date: 2023-01-26
 doi: 10.14744/eej.2022.87587
 journal: European Endodontic Journal 8(1):1-19
 source: kumar-2023-irrigant-activation-working-length-sr-meta-analysis.md
-confidence: sr+ma
+evidence_level: sr+ma
 category: [endodontics/irrigation]
 pdf_path: /Users/oracleneo/llm-wiki/papers/kumar-2023-irrigant-activation-working-length-sr-meta-analysis.pdf
 pdf_filename: kumar-2023-irrigant-activation-working-length-sr-meta-analysis.pdf
@@ -14,11 +14,19 @@ source_collection: external
 tags: [irrigation, PUI, ANP, sonic, working-length, irrigant-activation, sr+ma, endovac]
 ---
 
-## One-line Summary
-SR+MA: irrigant delivery to working length ranked — ANP (EndoVac) > PUI > sonic > MDA > conventional needle irrigation; all activation techniques significantly superior to conventional needle irrigation.
+## Three-line Summary
+Systematic review and meta-analysis (MEDLINE, Scopus, Cochrane) comparing irrigation activation techniques for delivery of irrigant to working length in mature permanent teeth — covering apical negative-pressure (ANP/EndoVac), passive ultrasonic (PUI), sonic, manual dynamic activation (MDA), and conventional needle irrigation (CNI).
 
-## 한줄요약
-SR+MA: 관개액 근첨부 도달 효율 비교 — ANP(EndoVac) > PUI > 소닉 > MDA > 일반 주사기; 모든 활성화 기법이 conventional needle보다 유의하게 우수
+All activation techniques were significantly superior to conventional needle irrigation (p<0.05); the ranking by irrigant delivery to working length was ANP (EndoVac) first, PUI second, sonic third, MDA fourth — consistent across both straight and curved canals.
+
+Most included studies were in vitro or ex vivo, limiting direct clinical translation; ANP system availability varies by practice setting, making PUI the practical strong second-line option with broad availability.
+
+## 세줄요약
+성숙 영구치에서 근관 세정제 활성화 기법의 근첨부 도달 효율을 비교한 체계적 문헌고찰·메타분석(MEDLINE·Scopus·Cochrane) — 음압(ANP/EndoVac)·수동초음파(PUI)·소닉·수동역동(MDA)·일반 주사기(CNI) 포함.
+
+모든 활성화 기법이 CNI보다 유의하게 우월(p<0.05); 근첨부 도달 효율 순위: ANP(EndoVac) 1위 > PUI 2위 > 소닉 3위 > MDA 4위 — 직·만곡 근관 모두 일관.
+
+포함 연구 대부분 in vitro·ex vivo로 직접 임상 전환에 한계; ANP는 보급 제한으로 PUI가 광범위 가용 차선 옵션.
 
 ## Summary
 Systematic review and meta-analysis comparing irrigant activation techniques (IATs) for delivery of irrigant to working length (WL) in mature permanent teeth. Searched MEDLINE, Scopus, Cochrane. Conclusion: all IATs superior to conventional needle irrigation (CNI); ANP (apical negative pressure, EndoVac) ranked first, PUI second.

@@ -16,11 +16,21 @@ text_filename: feng-2024-polyurethane-dimethacrylate-low-shrinkage-composite.txt
 
 [[resin/meereis-2018-polymerization-shrinkage-stress-resin-sr-ma]]가 "레진 기질(matrix) 개질이 수축응력 감소에 최대 기여"라고 결론지었는데, 본 in-vitro 재료개발 연구는 그 전략의 구체적 사례(polyurethane dimethacrylate oligomer PU-MA + glass flake filler)로 volume shrinkage 1.35% 달성 + 노화 후 기계적 안정성을 보강한다. matrix-modification 가설의 실증 데이터. abstract-only.
 
-## One-line Summary
-In-vitro material-development study showing a Bis-GMA/TEGDMA composite modified with 20 wt% polyurethane dimethacrylate (PU-MA) oligomer and 75 wt% glass-flake/borosilicate fillers (PU-PG-75%) achieves low volumetric shrinkage (1.35%) with mechanical properties that remain relatively stable after 60-day water immersion + 5000 thermocycles.
+## Three-line Summary
 
-## 한줄요약
-In-vitro 재료개발: Bis-GMA/TEGDMA에 20 wt% 폴리우레탄 디메타크릴레이트(PU-MA) 올리고머 + 75 wt% 글래스 플레이크 충전 시(PU-PG-75%) 부피수축 1.35%로 낮추고, 60일 침수 + 5000회 열순환 노화 후에도 기계적 물성이 상용품보다 안정적.
+In-vitro material-development study (bench-fabricated resin composite) comparing Bis-GMA/TEGDMA base resin modified with 20 wt% polyurethane dimethacrylate (PU-MA) oligomer + 65–75 wt% glass-flake/borosilicate fillers against commercial control materials.
+
+PU-PG-75% formulation achieved the lowest volumetric shrinkage at 1.35%, with flexural strength, elastic modulus, and Vickers hardness remaining relatively stable after 60-day water immersion combined with 5000 thermocycles, whereas commercial products showed marked property decline.
+
+Clinical concern: higher filler content reduces depth of cure and increases water sorption/solubility; bench-only data without clinical cavity or in vivo validation limits applicability to chairside use.
+
+## 세줄요약
+
+In-vitro 재료개발: Bis-GMA/TEGDMA 베이스 레진에 20 wt% 폴리우레탄 디메타크릴레이트(PU-MA) 올리고머 + 65~75 wt% 글래스 플레이크·보로실리케이트 충전재를 가한 복합 처방 대 상용품 대조군 비교.
+
+PU-PG-75% 처방은 부피수축 1.35%로 최소화하였으며, 60일 수침 + 5000회 열순환 후에도 굴곡강도·탄성계수·비커스 경도가 상대적으로 안정적인 반면, 상용 제품들은 물성 저하가 현저함.
+
+임상적 고려: 충전재 함량 증가는 경화깊이 감소·수흡수/용해도 증가를 초래하며, 벤치 전용 데이터로 임상 공동 또는 생체 내 검증이 없어 의자 사이드 적용 가능성 제한됨.
 
 ## 1. Document Information
 - Journal: Journal of Dentistry, 2024;151:105426

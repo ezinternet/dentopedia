@@ -9,8 +9,21 @@ pdf_filename: zingel-2025-nsaids-cardiovascular-risk-inflammatory-arthritis.pdf
 source_collection: external
 ---
 
-## One-line Summary
-서술적 고찰: 염증성 관절염(RA·AS) 환자에서 NSAIDs가 CV 위험을 증가시키지 않으며, 오히려 전신염증 억제를 통해 심보호 효과 가능성 논의 — 치과 관련성: RA/AS 환자 치과 처치 시 NSAID 처방 안전성 참고 (2025).
+## Three-line Summary
+
+서술적 고찰
+
+염증성 관절염(RA·AS) 환자에서 NSAIDs가 CV 위험을 증가시키지 않으며, 오히려 전신염증 억제를 통해 심보호 효과 가능성 논의 — 치과 관련성
+
+RA/AS 환자 치과 처치 시 NSAID 처방 안전성 참고 (2025).
+
+## 세줄요약
+
+서술적 고찰
+
+염증성 관절염(RA·AS) 환자에서 NSAIDs가 CV 위험을 증가시키지 않으며, 오히려 전신염증 억제를 통해 심보호 효과 가능성 논의 — 치과 관련성
+
+RA/AS 환자 치과 처치 시 NSAID 처방 안전성 참고 (2025).
 
 ## 1. Document Information
 - Journal: Seminars in Arthritis and Rheumatism (Elsevier) 2025; PII S2667089525000550

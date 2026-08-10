@@ -16,13 +16,21 @@ text_filename: erdogdu-2024-abutment-angle-bone-quality-fatigue-fea.txt
 
 인접 자연치가 경사진 경우 임플란트를 대합치 치조골에 수직으로 식립하면 지대주 각도 보정이 필요한데, 각도 지대주가 응력·피로 강도에 미치는 영향이 궁금했음. 본 FEA는 멀티유닛 vs 시멘트형 지대주의 각도별 피로 성능을 직접 비교해 [[implants/chi-2024-customized-angled-abutment-tooth-inclination-fea]]의 전임상 근거를 보강한다.
 
-## One-line Summary
+## Three-line Summary
 
-FEA (maxillary 3-unit bridge, 150 N oblique, 6 abutment configs × 2 bone types): abutment angle ↑ → von Mises stress ↑ and fatigue performance ↓; multiunit abutments outperform cemented at all angles; resorbed bone amplifies both findings.
+FEA (maxillary 3-unit bridge, 150 N oblique, 6 abutment configs × 2 bone types): abutment angle ↑ → von Mises stress ↑ and fatigue performance ↓;
 
-## 한줄요약
+multiunit abutments outperform cemented at all angles;
 
-FEA (상악 3단 브릿지, 150 N 사선 하중, 6 지대주 구성 × 2 골 유형): 지대주 각도 증가 → 응력 증가·피로 강도 감소; 멀티유닛 지대주가 시멘트형보다 모든 각도에서 우수; 흡수 골에서 두 경향 모두 심화.
+resorbed bone amplifies both findings.
+
+## 세줄요약
+
+FEA (상악 3단 브릿지, 150 N 사선 하중, 6 지대주 구성 × 2 골 유형): 지대주 각도 증가 → 응력 증가·피로 강도 감소;
+
+멀티유닛 지대주가 시멘트형보다 모든 각도에서 우수;
+
+흡수 골에서 두 경향 모두 심화.
 
 ## 1. Document Information
 

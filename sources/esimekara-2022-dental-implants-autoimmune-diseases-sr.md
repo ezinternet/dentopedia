@@ -13,13 +13,21 @@ source_collection: external
 
 Seeds the autoimmune-disease dental-treatment evidence cluster: this is the most comprehensive systematic review of dental implants across autoimmune diseases (55 studies, 9 distinct conditions) and serves as the hub of the batch, complementing the disease-specific sibling [[wiki/implants/almeida-2017-dental-implants-sjogren-syndrome-sr]] (Sjögren-only SR). It reinforces the broad "systemic disease rarely contraindicates implants if hygiene/recall are strict" position of [[wiki/implants/aghaloo-2019-systemic-diseases-medications-implant-osseointegration-sr]].
 
-## One-line Summary
+## Three-line Summary
 
-PRISMA systematic critical review (55 studies, 9 autoimmune diseases) finding dental implant survival comparable to the general population, though secondary Sjögren's and erosive oral lichen planus raise peri-mucositis and marginal bone loss risk.
+PRISMA systematic critical review synthesizing 55 studies across 9 distinct autoimmune diseases (Sjögren's, OLP, T1DM, RA, SSc, CD, SLE, MMP, PV) to evaluate dental implant treatment outcomes.
 
-## 한줄요약
+Overall implant survival comparable to the general population despite heterogeneity; secondary Sjögren's syndrome (especially with RA co-occurrence) and erosive oral lichen planus showed higher peri-implant mucositis (up to 94% in SS) and marginal bone loss risk.
 
-PRISMA 체계적 비판적 고찰 (55편, 자가면역질환 9종): 치과 임플란트 생존율은 일반 인구와 동등하나, 이차 쇼그렌증후군과 미란성 구강편평태선에서 임플란트주위점막염(peri-mucositis)과 변연골소실(MBL) 위험이 증가.
+Meticulous oral hygiene and long-term follow-up are universal requirements; implants are not contraindicated in autoimmune-disease patients, though OLP requires prophylactic corticosteroids and T1DM mandates strict glycemic control (HbA1c).
+
+## 세줄요약
+
+PRISMA 체계적 비판적 고찰: 쇼그렌증후군(SS), 구강편평태선(OLP), 제1형당뇨병(T1DM), 류마티스관절염(RA), 경피증(SSc), 크론병(CD), 전신홍반성낭창(SLE), 점막류천포창(MMP), 천포창(PV) 등 자가면역질환 9종 관련 55개 연구 종합.
+
+임플란트 생존율은 전반적으로 일반 인구 수준이나, 이차 쇼그렌증후군(특히 RA 동반)과 미란성 OLP에서 임플란트주위점막염(SS에서 최대 94%) 및 변연골소실 위험 증가.
+
+엄격한 구강위생 관리와 장기 추적관찰이 핵심 요건이며, 자가면역질환 환자에게 임플란트는 금기가 아니나 OLP는 예방적 스테로이드, T1DM은 엄격한 혈당 조절(HbA1c) 필수.
 
 ## 1. Document Information
 

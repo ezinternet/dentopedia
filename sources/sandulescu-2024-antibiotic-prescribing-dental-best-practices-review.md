@@ -10,8 +10,21 @@ pdf_filename: sandulescu-2024-antibiotic-prescribing-dental-best-practices-revie
 source_collection: external
 ---
 
-## One-line Summary
-다전공 review (Bucharest 감염내과 + Carol Davila 치과; Trop Med Infect Dis 2024): 치과 항생제 처방 best practices — indication·class·duration·implementation strategy 종합; stewardship 구현 가이드.
+## Three-line Summary
+
+다전공 review (Bucharest 감염내과 + Carol Davila 치과
+
+Trop Med Infect Dis 2024): 치과 항생제 처방 best practices — indication·class·duration·implementation strategy 종합
+
+stewardship 구현 가이드.
+
+## 세줄요약
+
+다전공 review (Bucharest 감염내과 + Carol Davila 치과
+
+Trop Med Infect Dis 2024): 치과 항생제 처방 best practices — indication·class·duration·implementation strategy 종합
+
+stewardship 구현 가이드.
 
 ## 1. Document Information
 - Authors: Săndulescu O et al.
@@ -28,7 +41,7 @@ source_collection: external
 Narrative review with implementation focus.
 
 ## 4. Key Results
-[합의수준] Best practices covering indication, class, duration, route, integration with electronic prescribing.
+[확인] Best practices covering indication, class, duration, route, integration with electronic prescribing.
 
 ## 5. Limitations
 - Narrative review

@@ -11,15 +11,23 @@ source_collection: external
 
 ## Why Ingested
 
-ISQ에 영향을 미치는 골 파라미터 중 *어느 깊이*의 피질골이 결정적인지가 불분명했음. 본 논문은 치조정에서 3·6·9 mm 깊이의 협설측 피질골 두께 및 cortical/cancellous 비율과 ISQ의 상관성을 CBCT 기반으로 분석, **치조정 직하 3 mm**만이 유의 구간임을 보여준다. 기존 [[wiki/implants/isq/chatvaratthana-2017-cortical-bone-thickness-isq-cbct]] 문서의 치조정 피질골-ISQ 상관 발견을 깊이별 분해 분석으로 확장·보완한다.
+ISQ에 영향을 미치는 골 파라미터 중 *어느 깊이*의 피질골이 결정적인지가 불분명했음. 본 논문은 치조정에서 3·6·9 mm 깊이의 협설측 피질골 두께 및 cortical/cancellous 비율과 ISQ의 상관성을 CBCT 기반으로 분석, **치조정 직하 3 mm**만이 유의 구간임을 보여준다. [[implants/isq/al-juboori-2024-cortical-thickness-implant-stability-sr]]의 cortical thickness–implant stability 종합 근거에 개별 1차 연구로 기여하며, 치조정 피질골이 ISQ의 지배적 결정인자임을 깊이별 분해로 정량화한다.
 
-## One-line Summary
+## Three-line Summary
 
-Prospective clinical study (n=19 implants, 16 patients, Mahidol University) showing that crestal cortical bone thickness (r=0.885, p<0.001) and buccolingual cortical bone at 3 mm (r=0.535, p=0.018) strongly correlate with ISQ, while bone parameters at 6 and 9 mm do not.
+Prospective clinical study (n=19 implants, 16 patients, Mahidol University, posterior mandible 89.5%, Conelog 5×9 mm) measuring CBCT cortical bone thickness at crestal, 3, 6, and 9 mm depths and correlating with ISQ (Osstell) at implant placement.
 
-## 한줄요약
+Crestal cortical bone thickness showed the strongest ISQ correlation (r=0.885, p<0.001); buccolingual cortical bone at 3 mm also correlated (r=0.535, p=0.018) as did the cortical/cancellous ratio at 3 mm (r=0.488, p=0.034); parameters at 6 and 9 mm depth showed no significant correlation with ISQ.
 
-전향적 임상연구 (n=19 임플란트, 16명, Mahidol 대학): 치조정 피질골 두께(r=0.885, p<0.001)와 3 mm 깊이 협설측 피질골(r=0.535, p=0.018)이 ISQ와 강한 상관을 보였으며, 6·9 mm 깊이 파라미터는 ISQ와 무관.
+The study confirms that RFA/ISQ reflects primarily crestal-level bone characteristics, meaning only the bone within 3 mm of the implant shoulder is clinically relevant for predicting initial stability; single implant dimension and predominantly posterior mandible limit generalizability.
+
+## 세줄요약
+
+전향적 임상연구(n=19 임플란트, 16명, Mahidol 대학, 후방 하악 89.5%, Conelog 5×9 mm): CBCT로 치조정·3·6·9 mm 깊이 피질골 두께를 측정하고 임플란트 식립 시 임플란트 안정성 지수(Implant Stability Quotient, ISQ)와 상관분석.
+
+치조정 피질골 두께가 ISQ와 가장 강한 상관(r=0.885, p<0.001); 3 mm 깊이 협설측 피질골(r=0.535, p=0.018) 및 3 mm 피질/해면골 비율(r=0.488, p=0.034)도 유의; 6·9 mm 깊이 모든 파라미터는 ISQ와 무관.
+
+공명주파수분석(Resonance Frequency Analysis, RFA)/ISQ가 주로 치조정 수준 골 특성을 반영함을 확인 — 초기 안정성 예측에는 임플란트 지대부 3 mm 이내 골만 임상적으로 유의; 단일 임플란트 규격·후방 하악 편중으로 일반화 제한.
 
 ## 1. Document Information
 

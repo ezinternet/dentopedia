@@ -11,8 +11,21 @@ pdf_filename: shacham-2020-eal-wide-apical-foramen-ex-vivo.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Ex vivo (10 teeth, foramen widened to 0.6–0.8mm): EAL accuracy and stability both improve as file size approaches foramen diameter; introduces "stability" as a new accuracy parameter; file matching to canal diameter recommended.
+## Three-line Summary
+
+Ex vivo (10 teeth, foramen widened to 0.6–0.8mm): EAL accuracy and stability both improve as file size approaches foramen diameter
+
+introduces "stability" as a new accuracy parameter
+
+file matching to canal diameter recommended.
+
+## 세줄요약
+
+Ex vivo (10 teeth, foramen widened to 0.6–0.8mm): EAL accuracy and stability both improve as file size approaches foramen diameter
+
+introduces "stability" as a new accuracy parameter
+
+file matching to canal diameter recommended.
 
 ## 1. Document Information
 IDF Medical Corps, Israel. BDJ Open 2020. Ex vivo study addressing EAL accuracy in wide apical foramina. Novel contribution: introduces EAL measurement "stability" (constant reading ≥5 seconds) as a validity parameter alongside accuracy.

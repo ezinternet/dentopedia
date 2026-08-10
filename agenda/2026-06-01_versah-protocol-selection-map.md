@@ -4,11 +4,11 @@ type: agenda
 date: 2026-06-01
 status: done
 source_wiki:
-  - wiki/implants/versah-protocols/versah-densah-sinus-lift-i-protocol-rbh-6mm-minimum.md
-  - wiki/implants/versah-protocols/versah-densah-sinus-lift-ii-protocol-rbh-4-5mm.md
-  - wiki/implants/versah-protocols/versah-combined-molar-septum-expansion-sinus-lift-protocol.md
-  - wiki/implants/versah-protocols/versah-idr-ii-immediate-dentoalveolar-restoration-protocol.md
-  - wiki/implants/versah-protocols/versah-immediate-implant-placement-protocol.md
+  - wiki/implants/osseodensification/versah-densah-sinus-lift-i-protocol-rbh-6mm-minimum.md
+  - wiki/implants/osseodensification/versah-densah-sinus-lift-ii-protocol-rbh-4-5mm.md
+  - wiki/implants/osseodensification/versah-combined-molar-septum-expansion-sinus-lift-protocol.md
+  - wiki/implants/osseodensification/versah-idr-ii-immediate-dentoalveolar-restoration-protocol.md
+  - wiki/implants/osseodensification/versah-immediate-implant-placement-protocol.md
 output_wiki:
   - wiki/overviews/versah-protocol-selection-map.md
 ---

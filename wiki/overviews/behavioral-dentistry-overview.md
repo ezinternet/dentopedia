@@ -6,7 +6,7 @@ date: 2026-06-02
 doi: N/A
 source: N/A
 category: overviews
-confidence: synthesis
+evidence_level: synthesis
 pdf_path: N/A
 pdf_filename: N/A
 source_collection: synthesis
@@ -32,11 +32,21 @@ tags: [behavioral-dentistry, patient-communication, motivational-interviewing, p
 > - (신규) 치과불안 ladder에 약물 진정(sedation) rung 추가 — Appukuttan 2016이 식별→심리치료(인지행동치료, CBT 최강)→약물(진정/전신마취) 단계틀을 제시하고, 소아 경구 midazolam 0.25–1mg/kg는 협조도 개선(Cochrane SR+MA, 표준화평균차 SMD 1.96; Ashley 2018), 성인 사랑니 의식하진정은 결과지표 비표준화로 결론 보류(Melini 2020).
 > - (신규) MI는 더 큰 행동변화 이론지형의 한 기법 — Kitsaras 2023이 COM-B·행동변화수레바퀴(Behaviour Change Wheel)·co-design을 제시, Aljabaa 2014(교정 순응도 RCT 4편)는 보상/award를 빼면 대부분 중재가 순응도를 개선하나 단일 최적법 근거는 없다고 정리. 환자만족은 5차원(quality·interaction·access·environment·cost)으로 측정(Ebn Ahmady 2015).
 
-## One-line Summary
-Master synthesis of the behavioral-dentistry category (30 papers, 4 axes) — the non-clinical layer that decides whether clinical work lands: motivational interviewing (behavior change), communication & relationship (how care is delivered and decided), patient-reported outcomes (how the patient judges it), and dental anxiety (the barrier that gates all three).
+## Three-line Summary
 
-## 한줄요약
-행동치의학 카테고리 마스터 통합(30편, 4축) — 임상 술식의 성패를 좌우하는 비임상 층위. 동기면담(행동변화)·커뮤니케이션과 관계(전달·의사결정)·환자보고결과(환자의 평가)·치과불안(세 축을 가로막는 장벽).
+Synthesis page spanning 30 papers across 4 axes of behavioral dentistry (motivational interviewing, communication & relationship, patient-reported outcomes, dental anxiety) — the non-clinical layer that determines whether clinical work actually succeeds in producing behavior change, shared decisions, and acceptable patient experience.
+
+MI is firmly effective in general medicine (Lundahl 2013 SR+MA, 48 RCTs, n=9,618, OR 1.55 95% CI 1.40–1.71) and pediatric ECC prevention (Jahanshahi 2022 SR+MA, 6 RCTs, n=2,776), but narrows to BoP −6.41pp only in adult periodontal MI (Cartes-Velasquez 2024); communication is the top determinant of the dentist–patient relationship (Choi 2024), and dental anxiety is confirmed as a physiological and behavioral gate across all three other axes (Pandey 2025, Al Homoud 2023).
+
+The clinical implication is a staged approach: screen for past negative dental experience and anxiety at intake, use non-pharmacological strategies (tell-show-do, distraction) around LA/drilling, apply MI selectively (strong evidence for children/ECC, limited for adult periodontal behavior), use SDM + expectation alignment for complex restorative/esthetic decisions, and capture outcomes with validated PRO instruments — implementation training should use role-play, not didactic lecture.
+
+## 세줄요약
+
+행동치의학 카테고리 30편을 4축(동기면담, 커뮤니케이션과 관계, 환자보고결과, 치과불안)으로 묶은 마스터 통합 페이지 — 술식이 완벽해도 환자의 행동 변화·공유의사결정·결과 인식·내원 협조가 없으면 임상 outcome이 무너진다는 명제가 전체 축.
+
+동기면담(Motivational Interviewing, MI)은 의료 일반에서 교차비(Odds Ratio, OR) 1.55(95% CI 1.40–1.71, 48 RCT, n=9,618; Lundahl 2013)로 견고하고 영유아 우식(Early Childhood Caries, ECC) 예방에도 효과(6 RCT, n=2,776; Jahanshahi 2022)지만, 성인 치주에서는 치은출혈지수(Bleeding on Probing, BoP) −6.41pp만 유의(Cartes-Velasquez 2024); 커뮤니케이션이 의사-환자 관계(Dentist–Patient Relationship, DPR) 최대 결정요인(Choi 2024), 치과불안은 생리·행동 지표로 확인된 모든 축의 장벽(Pandey 2025, Al Homoud 2023).
+
+임상 제언: ① 접수 시 과거 부정경험·불안 스크리닝 → ② 국소마취·드릴링 전 비약물 전략(tell-show-do, distraction) → ③ MI는 영유아 우식엔 우선 적용, 성인 구강엔 제한적 기대 → ④ 복잡한 보철·심미 결정에 공유의사결정(Shared Decision-Making, SDM)+기대 정렬 → ⑤ 검증된 환자보고결과(Patient-Reported Outcome, PRO) 도구로 결과 측정; 동기면담 교육은 강의 아닌 롤플레이로 정착.
 
 ## Summary
 
@@ -44,12 +54,12 @@ Master synthesis of the behavioral-dentistry category (30 papers, 4 axes) — th
 
 핵심 명제 6개:
 
-1. **MI는 의료 일반에서 견고한 효과(OR 1.55, 95% CI 1.40–1.71), 짧은 상담에서도 작동** — Lundahl 2013 SR+MA(48 RCT, n=9,618). 치과 한정 subset도 일관(Kay 2016 SR, 8편/5 RCT 전부 양성). [근거강함]
-2. **그러나 성인 구강 outcome으로 좁히면 효과는 약화** — Cartes-Velasquez 2024 SR+MA(성인 7 RCT, 전부 치주)에서 BoP −6.41pp만 유의, plaque·gingival index는 비유의. 반면 영유아 우식(ECC) 예방은 효과(Jahanshahi 2022 SR+MA, 6 RCT n=2,776), 단 세션 횟수보다 quality·≥3년 follow-up이 결정. [합의수준]
-3. **효과(efficacy)와 정착(implementation)은 별개** — Rogers 2022 단면조사: 위생사 95%가 MI 사용·98%가 효과 인식하나 "환자가 정말 바뀌나"에 회의. 계획행동이론 3요소(태도·규범·지각된 통제)가 사용을 예측 → 교육·환경 설계 lever. MI는 영양상담(Anderson 2025, NRACT 도구)·일반건강증진(Bonetti 2018 ENGAGE, <5분·signposting)으로 적응증 확장. [합의수준]
-4. **커뮤니케이션이 의사-환자 관계의 최대 결정요인** — Choi 2024 scoping(서울대, 1,727→16편)에서 "communication"(8회) > "trust"(6회), 결정요인 대부분이 clinical-process domain. Ho 2025가 그 communication을 중요성·장벽·전략·교육 4축으로 실무화(환자중심 전제 + jargon-free 언어 + 비언어 + 구조화 교육). Khalifah 2019 SR이 26 skill × 4 범주 taxonomy 제공. [합의수준]
-5. **선택지가 갈리는 결정엔 SDM과 기대관리가 필수** — Elwyn 2025 consensus primer(13개국 25인 ISDM)가 임상의 관점 SDM 실행틀을 제시, Dawood 2025가 임플란트·심미에서 소셜미디어發 비현실적 기대를 투명한 소통·사전동의로 정렬(미정렬 시 cognitive dissonance·불만·술자 burnout). [claude해석]
-6. **환자보고결과(PRO)는 술식 성공과 다른 성공 척도이고, 불안이 그 모두를 gating** — Doğramacı 2023(endo)·Arunyanak 2024(perio/implant)가 PROM/PREM 틀을 정의(단, OHRQoL 측정도구 미검증 문제). 불안은 소아(Al Homoud 2023, n=150; 연령 효과 유의·성별 무의)·성인 생리지표(Pandey 2025, 국소마취·드릴링서 HR 유의 상승, 과거 부정경험이 불안↑ p=0.018)로 실측되며, tell-show-do·modeling·VR distraction 등 비약물 전략이 일관 효과(Cristea 2026; 성인 phobia는 jkda-2021 단계적 framework). [합의수준]
+1. **MI는 의료 일반에서 견고한 효과(OR 1.55, 95% CI 1.40–1.71), 짧은 상담에서도 작동** — Lundahl 2013 SR+MA(48 RCT, n=9,618). 치과 한정 subset도 일관(Kay 2016 SR, 8편/5 RCT 전부 양성). [확인]
+2. **그러나 성인 구강 outcome으로 좁히면 효과는 약화** — Cartes-Velasquez 2024 SR+MA(성인 7 RCT, 전부 치주)에서 BoP −6.41pp만 유의, plaque·gingival index는 비유의. 반면 영유아 우식(ECC) 예방은 효과(Jahanshahi 2022 SR+MA, 6 RCT n=2,776), 단 세션 횟수보다 quality·≥3년 follow-up이 결정. [확인]
+3. **효과(efficacy)와 정착(implementation)은 별개** — Rogers 2022 단면조사: 위생사 95%가 MI 사용·98%가 효과 인식하나 "환자가 정말 바뀌나"에 회의. 계획행동이론 3요소(태도·규범·지각된 통제)가 사용을 예측 → 교육·환경 설계 lever. MI는 영양상담(Anderson 2025, NRACT 도구)·일반건강증진(Bonetti 2018 ENGAGE, <5분·signposting)으로 적응증 확장. [확인]
+4. **커뮤니케이션이 의사-환자 관계의 최대 결정요인** — Choi 2024 scoping(서울대, 1,727→16편)에서 "communication"(8회) > "trust"(6회), 결정요인 대부분이 clinical-process domain. Ho 2025가 그 communication을 중요성·장벽·전략·교육 4축으로 실무화(환자중심 전제 + jargon-free 언어 + 비언어 + 구조화 교육). Khalifah 2019 SR이 26 skill × 4 범주 taxonomy 제공. [확인]
+5. **선택지가 갈리는 결정엔 SDM과 기대관리가 필수** — Elwyn 2025 consensus primer(13개국 25인 ISDM)가 임상의 관점 SDM 실행틀을 제시, Dawood 2025가 임플란트·심미에서 소셜미디어發 비현실적 기대를 투명한 소통·사전동의로 정렬(미정렬 시 cognitive dissonance·불만·술자 burnout). [미검증]
+6. **환자보고결과(PRO)는 술식 성공과 다른 성공 척도이고, 불안이 그 모두를 gating** — Doğramacı 2023(endo)·Arunyanak 2024(perio/implant)가 PROM/PREM 틀을 정의(단, OHRQoL 측정도구 미검증 문제). 불안은 소아(Al Homoud 2023, n=150; 연령 효과 유의·성별 무의)·성인 생리지표(Pandey 2025, 국소마취·드릴링서 HR 유의 상승, 과거 부정경험이 불안↑ p=0.018)로 실측되며, tell-show-do·modeling·VR distraction 등 비약물 전략이 일관 효과(Cristea 2026; 성인 phobia는 jkda-2021 단계적 framework). [확인]
 
 ## Results
 
@@ -122,8 +132,8 @@ Master synthesis of the behavioral-dentistry category (30 papers, 4 axes) — th
 ## Open Questions / 추가 검증 필요
 
 - 성인 구강건강에서 MI의 진짜 효과 크기 — Cartes-Velasquez 2024가 BoP 외 비유의로 결론 보류. [미검증]
-- OHRQoL/PROM 측정도구의 치과 영역 validation 부족(Doğramacı 2023 명시). [근거강함]
-- VR/immersive distraction의 RCT 근거는 아직 emerging(Cristea 2026). [claude해석]
+- OHRQoL/PROM 측정도구의 치과 영역 validation 부족(Doğramacı 2023 명시). [확인]
+- VR/immersive distraction의 RCT 근거는 아직 emerging(Cristea 2026). [미검증]
 - Anderson 2025는 초록 기반 ingest — full text 확보 시 재검증 필요.
 
 ## Related Pages
@@ -138,3 +148,9 @@ Master synthesis of the behavioral-dentistry category (30 papers, 4 axes) — th
 
 - [[behavioral-dentistry/motivational-interviewing/vilar-doceda-2023-behavioral-interventions-periodontitis-patients-improve]] — Systematic review (no meta-analysis) of 21 studies (16 RCTs, 5 NRCTs … (sr, 2023)
 - [[behavioral-dentistry/motivational-interviewing/zhan-2024-motivational-interviewing-periodontal-treatment-outcomes]] — SR+MA of 7 RCTs (n=474; 6 in meta-analysis) found NO significant difference between motivational interviewing and standard oral health instruction on … (sr+ma, 2024)
+
+## Evidence Update — CRO vs PRO Discordance in Periodontal/Implant Aesthetics (Tonetti 2025)
+
+Tonetti 2025 (EFP expert consensus, Florence January 2025; 40 experts from 12+ countries; 5 commissioned SRs) examined patient-reported outcome measures (PRO/PROM) in three clinical scenarios: gingival recession defects (GRD), peri-implant buccal soft-tissue dehiscences (PSTD), and implant placement with soft-tissue augmentation (STA). A systematic discordance emerged: **superior root coverage (CAF+CTG)** produces high clinician-rated aesthetic scores (CRO) but does **not** correspondingly improve patient-perceived aesthetics. The only scenario with concordant PRO+CRO improvement is PSTD treated with STA (CTG under CAF), where both clinician and patient aesthetics improve together. This consensus-level finding has direct implications for patient counseling before aesthetic periodontal surgery: root coverage outcomes should be framed as functionally and periodontally beneficial, not as automatically delivering the esthetic satisfaction patients anticipate.
+
+- [[behavioral-dentistry/patient-reported-outcomes/tonetti-2025-aesthetics-patient-reported-outcomes-consensus]] — EFP consensus: CAF+CTG improves CRO but not PRO; patient-perceived aesthetics and clinician scores diverge — counsel patients accordingly.

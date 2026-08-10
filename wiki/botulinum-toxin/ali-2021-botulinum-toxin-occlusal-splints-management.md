@@ -6,7 +6,7 @@ date: 2021-07-10
 doi: 10.1016/j.sdentj.2021.07.001
 journal: Saudi Dental Journal 2021;33(8):1004-1011
 source: ali-2021-botulinum-toxin-occlusal-splints-management.md
-confidence: rct
+evidence_level: rct
 category: botulinum-toxin
 pdf_path: /Users/oracleneo/llm-wiki/papers/ali-2021-botulinum-toxin-occlusal-splints-management.pdf
 pdf_filename: ali-2021-botulinum-toxin-occlusal-splints-management.pdf
@@ -14,11 +14,21 @@ source_collection: external
 tags: [BTX, occlusal-splint, sleep-bruxism, implant-overdenture, PSQI, Bruxoff, RCT, 12-month-follow-up]
 ---
 
-## One-line Summary
-3-arm RCT (n=42, 12 months) in implant-overdenture sleep bruxers: both BTX and occlusal splint significantly improved PSQI sleep quality and patient satisfaction over overnight-OD-removal control (p≤0.0013), with BTX achieving the lowest scores at 9–12 months.
+## Three-line Summary
 
-## 한줄요약
-3-arm RCT (n=42, 12개월) implant overdenture bruxer — BTX와 splint 모두 PSQI·환자만족도 유의 개선 (p≤0.0013), BTX가 9-12개월 시점에서 가장 우수.
+3-arm parallel RCT (n=42, 12 months, NCT04366869) in definite sleep bruxers (AASM + Bruxoff EMG/ECG) with implant-retained single-arch overdentures, comparing BTX injection, conventional occlusal splint, and overnight overdenture removal (control).
+
+Both BTX and occlusal splint significantly improved PSQI sleep quality and patient satisfaction over the control at all time points (p≤0.0013); BTX achieved the lowest scores at 9 and 12 months, with the BTX–splint sleep-quality gap widening over time; mechanical prosthodontic complications were highest in the control group.
+
+BTX has a clinically meaningful late-phase advantage for sleep quality in implant-overdenture bruxers, but the choice between BTX and splint must weigh compliance, adverse-event profile (muscle/bone effects), and prosthesis-specific factors.
+
+## 세줄요약
+
+줄1: 확진 수면 브럭시즘(AASM + Bruxoff EMG/ECG) implant-overdenture 환자 3군 RCT (n=42, 12개월, NCT04366869) — BTX 주사 vs 교합안정장치 vs 야간 overdenture 제거(대조군).
+
+줄2: BTX·splint 모두 전 시점에서 대조군 대비 PSQI·환자만족도 유의 개선(p≤0.0013); BTX는 9·12개월 시점에서 최저 수치 기록, 시간이 지날수록 BTX·splint 수면 질 차이 확대; 보철 기계적 합병증은 대조군에서 최다.
+
+줄3: Implant-overdenture 브럭시즘 환자에서 BTX는 장기 수면 질 측면에서 splint보다 우위이나, 순응도·근육·골 부작용 프로파일·보철 특성을 고려한 선택 필요.
 
 ## Summary
 This 3-arm RCT (NCT04366869, MSA Cairo + Taibah + Ibb) compared botulinum toxin (BTX) injection (n=14), conventional occlusal splint (n=14), and overnight OD removal (control, n=14) in implant-overdenture-rehabilitated sleep bruxers (definite SB by AASM + Bruxoff ambulatory EMG/ECG). Over 12 months, BTX and splint groups significantly improved patient satisfaction (TMD numeric scale: baseline ≈9 → 12-mo 3.8 BTX, 4.3 splint, 7.49 control) and sleep quality (PSQI: ≈8 → 5.04 BTX, 6.94 splint, 8.30 control), with BTX achieving the lowest scores at 9 and 12 months for both outcomes. Mechanical (prosthodontic) complications were highest in the control group.

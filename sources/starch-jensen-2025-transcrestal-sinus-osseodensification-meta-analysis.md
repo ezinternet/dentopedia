@@ -11,8 +11,21 @@ pdf_filename: starch-jensen-2025-transcrestal-sinus-osseodensification-meta-anal
 source_collection: external
 ---
 
-## One-line Summary
-SR+MA (6 RCTs, search to 2025-03-19, low GRADE): Osseodensification-mediated transcrestal sinus elevation (TSMEOD) yields **higher ISQ at placement and abutment connection** vs osteotome-mediated (OMSFE) or lateral window (MSFA), with comparable implant survival.
+## Three-line Summary
+
+SR+MA (6 RCTs, search to 2025-03-19, low GRADE): Osseodensification-mediated transcrestal
+
+sinus elevation (TSMEOD) yields **higher ISQ at placement and abutment
+
+connection** vs osteotome-mediated (OMSFE) or lateral window (MSFA), with comparable implant survival.
+
+## 세줄요약
+
+체계적 고찰 및 메타분석 (SR+MA) (6 무작위 대조 시험 (RCT)s, search to 2025-03-19, low GRADE): Osseodensification-mediated transcrestal
+
+sinus elevation (TSMEOD) yields **higher ISQ at placement and abutment
+
+connection** vs osteotome-mediated (OMSFE) or lateral window (MSFA), with comparable implant survival.
 
 ## 1. Document Information
 JOMR open-access SR+MA. PRISMA-compliant. Database search: MEDLINE/Embase/Cochrane through March 19, 2025.

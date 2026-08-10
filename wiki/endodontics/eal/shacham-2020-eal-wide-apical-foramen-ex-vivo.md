@@ -6,7 +6,7 @@ date: 2020-01-01
 doi: 10.1038/s41405-020-00052-3
 journal: BDJ Open 6:22
 source: shacham-2020-eal-wide-apical-foramen-ex-vivo.md
-confidence: in-vitro
+evidence_level: in-vitro
 category: [endodontics/eal]
 pdf_path: /Users/oracleneo/llm-wiki/papers/shacham-2020-eal-wide-apical-foramen-ex-vivo.pdf
 pdf_filename: shacham-2020-eal-wide-apical-foramen-ex-vivo.pdf
@@ -14,11 +14,21 @@ source_collection: external
 tags: [EAL, wide-apical-foramen, stability, file-size, working-length, SAF, in-vitro]
 ---
 
-## One-line Summary
-Ex vivo study (10 teeth, apical foramen 0.6–0.8 mm): EAL accuracy and stability both improve as file diameter approaches foramen diameter; SAF is also effective; file matching is key for wide foramina.
+## Three-line Summary
 
-## 한줄요약
-Ex vivo 10개 치아(근첨공 0.6–0.8mm): 파일 직경이 근첨공 직경에 근접할수록 EAL 정확도·안정성 모두 향상; SAF도 유효; 광근첨공 시 파일 매칭이 핵심
+Ex vivo study (10 teeth with wide apical foramina 0.6–0.8 mm, IDF Medical Corps Israel) evaluating EAL accuracy and a novel stability parameter (constant reading ≥5 seconds) across increasing file sizes and with a self-adapting file (SAF).
+
+Both accuracy and stability improved significantly as file diameter approached foramen diameter (p<0.05), with accuracy and stability correlated; undersized files in wide foramina produced unstable, unreliable readings; SAF matched the performance of a correctly sized conventional file.
+
+An unstable EAL reading (<5 s constant) signals inaccuracy — in wide-foramen cases, expand to a snug file before trusting the measurement, and consider SAF as a valid alternative.
+
+## 세줄요약
+
+Ex vivo 연구, 광근첨공(0.6–0.8mm) 치아 10개(이스라엘 군 치무)에서 파일 크기 증가 및 SAF 조건에 따른 EAL 정확도와 새로운 안정성 지표(≥5초 지속 표시)를 평가.
+
+파일 직경이 근첨공 직경에 근접할수록 정확도·안정성 모두 유의하게 향상(p<0.05), 두 지표는 상관관계; 소직경 파일로는 측정 불안정 — SAF는 적절한 파일과 동등한 성능.
+
+EAL 수치가 5초 미만으로 불안정하면 부정확 신호 — 광근첨공 증례에서는 snug 파일로 확장 후 측정하거나 SAF 활용을 고려.
 
 ## Summary
 Ex vivo study (10 teeth, IDF Medical Corps Israel) evaluating EAL accuracy and stability in wide apical foramina (0.6–0.8mm). Introduces **measurement stability** (constant reading ≥5 seconds) as a new validity parameter. Key finding: accuracy and stability both improve as file size approaches foramen diameter — and the two parameters correlate significantly.

@@ -6,18 +6,28 @@ date: 2025-07-04
 doi: 10.3390/cancers17132242
 source: yokoo-2025-denosumab-mronj-breast-cancer-bone.md
 category: [drug/mronj]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/yokoo-2025-denosumab-mronj-breast-cancer-bone.pdf
 pdf_filename: yokoo-2025-denosumab-mronj-breast-cancer-bone.pdf
 source_collection: external
 tags: [mronj, denosumab, breast-cancer, bone-metastasis, cumulative-dose, tooth-extraction, roc-threshold]
 ---
 
-## One-line Summary
-Retrospective cohort (n=324 breast cancer patients with bone metastases on denosumab 120 mg q4w): MRONJ developed in 31.2%, with ROC analysis identifying ≥32 cumulative doses as the optimal risk threshold (AUC 0.83); multivariate analysis confirmed cumulative dose (OR 1.047/dose, ~4.7% increased odds per dose) and tooth extraction history (OR 4.40) as the only independent predictors.
+## Three-line Summary
 
-## 한줄요약
-유방암 골전이 환자 denosumab 120mg 324명 후향 코호트: MRONJ 31.2%, ROC 분석으로 누적 32회 투여 임계치 확인(AUC 0.83), 발치력 OR 4.40, 매 1회 추가 투여 시 MRONJ 오즈 4.7% 증가.
+Retrospective cohort of 324 breast cancer patients with bone metastases on denosumab 120 mg q4w (Fukuyama City Hospital, Japan, 2012–2024), evaluating MRONJ incidence and predictors with ROC analysis.
+
+MRONJ developed in 31.2% (101/324); ROC analysis identified ≥32 cumulative doses as the optimal threshold (AUC 0.83, sensitivity 71.3%, specificity 81.6%), and multivariate regression confirmed cumulative dose (OR 1.047/dose) and tooth extraction history (OR 4.40) as the only independent predictors.
+
+Enhanced MRONJ surveillance is warranted from approximately 32 months of monthly Xgeva therapy, and pre-treatment dental extraction should be completed before initiation when feasible.
+
+## 세줄요약
+
+유방암 골전이 환자 324명에게 denosumab 120 mg 4주 간격 투여 후 MRONJ 발생 및 예측 인자를 ROC 분석으로 평가한 후향 코호트(후쿠야마 시립병원, 2012–2024).
+
+MRONJ 발생률 31.2%(101/324); ROC 분석으로 누적 32회 투여가 최적 임계값(AUC 0.83, 민감도 71.3%, 특이도 81.6%)이었으며, 다변량 분석에서 누적 투여 횟수(OR 1.047/회)와 발치 기왕력(OR 4.40)만이 독립적 예측인자였다.
+
+Xgeva 32개월 투여 시점부터 강화 모니터링이 권장되며, 치료 전 발치가 가능하다면 사전에 완료해야 한다.
 
 ## Summary
 Retrospective cohort of 324 female patients with breast cancer and bone metastases receiving Xgeva®/Ranmark® (denosumab 120 mg SC q4w) at Fukuyama City Hospital (May 2012 – August 2024). MRONJ developed in 31.2% (101/324). ROC analysis identified 32 cumulative doses as the optimal threshold (AUC 0.83; sensitivity 71.3%, specificity 81.6%). Multivariate analysis confirmed cumulative dose (OR 1.047/dose) and tooth extraction history (OR 4.40) as the only independent MRONJ predictors. This is the first study to use ROC analysis to define a specific cumulative dose cutoff for denosumab-MRONJ in breast cancer.
@@ -72,7 +82,7 @@ Retrospective cohort of 324 female patients with breast cancer and bone metastas
 - Prior literature: MRONJ 0.5–2.1% (year 1) → 1.3–3.2% (year 3); this study's 31.2% likely reflects referral bias and long follow-up (up to 2024 for treatments started 2012)
 
 ## Related Papers
-- [[drug/ruggiero-2022-aaoms-mronj-position-paper-update]] — MRONJ definition and staging
-- [[drug/jung-2022-denosumab-mronj-osteoporosis-5year]] — osteoporosis-dose denosumab MRONJ (4.1%)
-- [[drug/li-2024-antiresorptive-implants-mronj-sr]] — implant failure from ARD-induced MRONJ
-- [[drug/baghalipour-2025-mronj-prevention-management-review]] — MRONJ management
+- [[drug/mronj/ruggiero-2022-aaoms-mronj-position-paper-update]] — MRONJ definition and staging
+- [[drug/mronj/jung-2022-denosumab-mronj-osteoporosis-5year]] — osteoporosis-dose denosumab MRONJ (4.1%)
+- [[drug/mronj/li-2024-antiresorptive-implants-mronj-sr]] — implant failure from ARD-induced MRONJ
+- [[drug/mronj/baghalipour-2025-mronj-prevention-management-review]] — MRONJ management

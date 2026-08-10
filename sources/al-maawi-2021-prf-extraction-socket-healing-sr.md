@@ -9,8 +9,21 @@ pdf_filename: al-maawi-2021-prf-extraction-socket-healing-sr.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Systematic review of 20 RCTs/controlled studies showing PRF significantly improves early socket healing (pain, soft tissue, bone fill) within 2–3 months but offers no clear advantage at 6 months.
+## Three-line Summary
+
+Systematic review of 20 randomized/controlled studies evaluating PRF (Platelet-Rich Fibrin) vs no PRF for pain, soft tissue healing, and bone regeneration following fresh tooth extraction.
+
+PRF significantly reduced postoperative pain in 66.6% of studies (especially days 1–3), improved soft tissue healing in 75% of studies at 1 week, and increased socket bone fill in 85% of studies within 8–15 weeks; however, no advantage was demonstrated at 6 months.
+
+PRF is most effective in the early healing period (2–3 months); it is not recommended as a long-term ridge-preservation substitute, and no data exist on subsequent implant outcomes in PRF-treated sockets.
+
+## 세줄요약
+
+체계적 문헌고찰 (20편 무작위/대조 연구) — 신선 발치 후 혈소판풍부피브린(Platelet-Rich Fibrin, PRF) vs 대조군의 통증, 연조직 치유, 골재생 비교.
+
+PRF는 통증 66.6% 연구에서 유의하게 감소(특히 1–3일), 연조직 치유 1주 75% 개선, 골충전(socket fill) 8–15주 내 85% 연구에서 높았으나, 6개월 시점에서는 우위 없음.
+
+PRF는 조기 치유(2–3개월) 단계에서 가장 효과적; 장기 치조제 보존 대체재로는 근거 부족하며, PRF 처치 발치와의 향후 임플란트 결과 데이터가 부재함.
 
 ## 1. Document Information
 - **Journal**: International Journal of Implant Dentistry 2021;7:117

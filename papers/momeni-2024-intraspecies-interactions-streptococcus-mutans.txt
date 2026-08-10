@@ -1,0 +1,186 @@
+Intraspecies interactions of Streptococcus mutans impact biofilm architecture and virulence determinants in childhood dental caries
+Momeni SS, Cao X, Xie B, Rainey K, Childers NK, Wu H.
+mSphere. 2024 Jul 11;9(7):e0077823.
+DOI: 10.1128/msphere.00778-23
+PMID: 38990043 | PMCID: PMC11288028
+Source: PubMed Central full text (get_full_text_article)
+
+NOTE: In the PMC extraction below, the italicized species name "Streptococcus mutans"
+(and its abbreviation "S. mutans") was frequently stripped by the JATS-to-text
+converter, leaving gaps. Reconstruct "S. mutans" where the sentence grammar demands
+a subject/organism. Genotype labels G09 and G18 are the two clinical S. mutans strains
+studied; UA159 is the S. mutans reference control strain.
+
+=====================================================================
+ABSTRACT
+
+Early childhood dental caries (ECC) is the most common chronic disease among children,
+especially among low socioeconomic populations. S. mutans is most frequently associated
+with initiation of ECC. Although many studies report children with multiple S. mutans
+strains (i.e., genotypes) have greater odds of developing ECC, studies investigating
+intraspecies interactions in dental caries are lacking. This study investigates the impact
+of intraspecies interactions on cariogenic and fitness traits of clinical S. mutans isolates
+using in vitro (biofilm) and in vivo (Drosophila model) approaches. Association analysis
+evaluated if presence of multiple S. mutans genotypes within the first year of colonization
+was associated with caries. Initially, clinical S. mutans isolates from 10 children were
+evaluated. S. mutans strains (G09 and G18, most prevalent) isolated from one child were used
+for subsequent analysis. Biofilm analysis was performed for single and mixed cultures to
+assess cariogenic traits, including biofilm biomass, intracellular polysaccharide, pH, and
+glucan. Confocal laser scanning microscopy (CLSM) and time-lapse imaging were used to
+evaluate spatial and temporal biofilm dynamics, respectively. A Drosophila model was used to
+assess colonization. Results showed the mean biofilm pH was significantly lower in co-cultured
+biofilms versus monoculture. Doubling of S. mutans biofilms was observed by CLSM and
+colonization in Drosophila for co-cultured. Individual strains occupied specific domains in
+co-culture and G09 contributed most to increased co-culture biofilm thickness and colonization
+in Drosophila. Biofilm formation and acid production displayed distinct signatures in
+time-lapsed experiments. This study illuminates that intraspecies interactions of S. mutans
+significantly impacts biofilm acidity, architecture, and colonization.
+
+IMPORTANCE: This study sheds light on the complex dynamics of a key contributor to early
+childhood dental caries (ECC) by exploring intraspecies interactions of different S. mutans
+strains and their impact on cariogenic traits. Utilizing clinical isolates from children with
+ECC, the research highlights significant differences in biofilm architecture and acid production
+in mixed versus single genotype cultures. The findings reveal that co-cultured S. mutans strains
+exhibit increased cell density and acidity, with individual strains occupying distinct domains.
+These insights, enhanced by use of time-lapsed confocal laser scanning microscopy and a
+Drosophila model, offer a deeper understanding of ECC pathogenesis and potential avenues for
+targeted interventions.
+
+=====================================================================
+INTRODUCTION (key points)
+
+- Dental caries affects >80% of the human population worldwide; most common chronic disease
+  of children and adolescents (CDC). WHO: 60-80% of school children in industrialized countries.
+- Early childhood caries (ECC): decayed/missing/filled tooth surfaces (DMFS) in children <6 y.
+  Severe ECC (SECC) is highly prevalent in marginalized/low-SES groups.
+- Cariogenic dominant microorganisms: mutans streptococci (MS), lactobacilli, bifidobacteria,
+  yeasts. S. mutans is the most effective predictor of future caries incidence.
+- S. mutans pathogenic features: (1) bind teeth via tenacious biofilms (dental plaque),
+  (2) metabolize fermentable carbohydrates (esp. sucrose) to organic acids, (3) aciduricity
+  (survive acidic environment). Intracellular iodophilic polysaccharide (IPS) indicates
+  glycogen storage → continued acid production after carbohydrate depletion.
+- Prior 8-year longitudinal epidemiological study (African-American, high-caries-risk,
+  non-fluoridated population): children with higher S. mutans counts 5.6x more likely to
+  develop caries; children with multiple S. mutans genotypes 4.5x more likely to have caries
+  experience; younger children (<6 y) 2.9x more likely to have multiple genotypes.
+- Gap: most research evaluates single or interspecies/polymicrobial biofilms; intraspecies
+  interactions among multiple S. mutans genotypes are understudied. Prior intraspecies work
+  focused on bacteriocins (mutacins) via stab-agar antagonism (some strains inhibit others).
+- Hypothesis: presence of multiple S. mutans genotypes contributes significantly to cariogenic
+  traits and may provide mutualistic benefit for S. mutans fitness.
+
+=====================================================================
+RESULTS
+
+1. Presence of multiple genotypes within the first year of detection is significantly
+   associated with caries (n=78 children; Fisher's exact test).
+   - At INITIAL detection: multiple genotypes NOT significantly associated with caries (p=0.327)
+     [logical: 1-2 y lag from colonization to detectable caries].
+   - WITHIN FIRST YEAR of detection: multiple genotypes SIGNIFICANTLY associated with ECC
+     (p=0.019). Mean number of genotypes in multi-genotype children = 2.7 (range 2-6).
+   - Most multi-genotype children acquired genotypes at 1-2.5 y of age.
+   - Of 14 caries-free children, 12 (86%) did NOT maintain persistent S. mutans colonization
+     over the 6-year study.
+   TABLE 1 data:
+     Initial detection — Caries: 1 genotype 44 (56.4%), >1 genotype 20 (25.6%); No caries:
+       1 genotype 12 (15.4%), >1 genotype 2 (2.6%); p=0.327.
+     Within first year — Caries: 1 genotype 23 (29.5%), >1 genotype 41 (52.6%); No caries:
+       1 genotype 10 (12.8%), >1 genotype 4 (5.1%); p=0.019.
+     Genotype count distribution (first year): 1→33, 2→28, 3→9, 4→4, 5→3, 6→1.
+
+2. Biofilm pH significantly lower in co-cultured biofilms (in vitro static biofilms).
+   - 9 of 10 children: co-culture biofilms trend lower pH than mean mono-culture (increased
+     pHrodo fluorescence).
+   - Overall population: co-cultures show significantly increased pHrodo fluorescence (lower pH)
+     AND greater cell density (increased Syto9). First indication co-cultures may be thicker.
+   - No overall significant differences in biofilm biomass or IPS for the population.
+   - Child 5 (subject C-232, genotypes G09 + G18, the two most prevalent in this population)
+     selected for further analysis. Co-culture consistently more acidic than mono-culture.
+   - G18 mono-culture: significantly lower biomass than G09 and than UA159 control; but
+     significantly higher IPS than UA159 (greater glycogen storage). G18 contributes most to
+     acidic biofilm pH. G18 glucan significantly lower than G09/co-culture — acidic phenotype
+     NOT explained by glucan differences.
+   - Cell density (Syto9, 2D) consistently higher in co-culture than mono G18.
+
+3. Co-culturing significantly increases S. mutans cell density and biofilm thickness (CLSM).
+   - G09 tagged mCherry (red), G18 tagged GFP (green) for CLSM.
+   - Co-culture total fluorescence (GFP+mCherry combined) almost DOUBLED vs mono-cultures,
+     despite equal starting inoculum (50/50) — increased cell density in mix.
+   - G09 showed significantly greater biofilm thickness in mix than its mono-culture.
+   - Both mono-cultures had significantly reduced thickness vs UA159.
+   - Mean volume/area: statistically significant doubling of S. mutans in mix vs mono/UA159.
+   - Spatial architecture: mono G09 (red) = large aggregates with glucan matrix (blue) between;
+     mono G18 = confluent "lawn" phenotype, minimal glucan. In co-culture, G09 forms
+     larger/taller aggregates that collapse into "volcano-like" structures over negative space
+     in the underlying glucan layer. Each strain occupies a SPECIFIC DOMAIN, no apparent overlap.
+   - Caveat: mCherry tagging of G18 induced an aggregate phenotype artifact → use alternate
+     fluorescent protein as control. mCherry did NOT cause G09 aggregation (GFP-G09 same).
+   - Differential CFU plating (antibiotic-selective media): equal ~50/50 strain distribution
+     pre- and post-biofilm; total inoculum comparable between mono/co-cultures.
+
+4. Different clinical strains display distinguishable biofilm and acid-formation phenotypes
+   (time-lapse imaging, 24-30 h).
+   - Biofilm formation distinguishable as early as 3-4 h. G09 = dense microcolony-like
+     mini-aggregates early; G18 = thinner, broader "fish net" networks of streptococcal chains.
+   - Strains occupy distinct domains, no appreciable overlap.
+   - Biofilm pH dynamics (pHrodo red, both strains GFP-tagged, 30 h): pHrodo fluorescence
+     continually increased with TWO distinct phases (~10-11 h and ~24-26 h). GFP peaked at
+     8-9 h, decreased (GFP pH-sensitivity / acid tolerance), then partially recovered and
+     plateaued ~25-26 h. pHrodo peaked within 2 h after each GFP peak. Bi-phasic acid formation
+     suggests an equilibration/acid-tolerance-response period.
+
+5. Co-culture improves S. mutans colonization (Drosophila melanogaster capillary-feeding model).
+   - Bacterial consumption (5% sucrose) comparable across strains; day > night consumption.
+   - G09 colonization within Drosophila consistently GREATER when G18 also present (mutualistic).
+   - On antibiotic-selective media, co-culture CFUs consistent with CLSM doubling; on plain THA
+     (total count) CFUs equalled mean of mono-cultures → antibiotic-selective media needed for
+     accurate differential recovery.
+
+=====================================================================
+DISCUSSION (key points)
+
+- Presence of MORE S. mutans genotypes contributes to a significantly more acidic environment,
+  enhancing cariogenicity (4-genotype children more acidic than 2-genotype).
+- G18 contributes most to acidic biofilm pH; G09 contributes most to increased biofilm thickness.
+  Co-culture is mutually beneficial for overall colonization (esp. G09) → greater cariogenic
+  potential than either mono-culture.
+- Increased cell density (Syto9 2D), CLSM doubling, and Drosophila colonization doubling all
+  support that multiple S. mutans genotypes are mutually beneficial for biofilm formation and
+  persistence. More robust/thicker biofilms improve colonization and persistence.
+- Clinical strains differ markedly from the reference UA159 in cariogenic phenotype — biofilm
+  experiments should include clinical strains, not just UA159.
+- Greater G09 biofilm height + fuller G18 coverage increase surface area available for other
+  organisms to attach → increased cariogenic potential of co-cultured S. mutans.
+- 86% of caries-free children did not persistently colonize S. mutans (acquired and lost, or
+  transient colonization) — candidate subjects for host immunology/microbiome studies.
+- Summary: when multiple strains G09 and G18 are present, significant increases in colonization,
+  surface-area coverage, cell density, and acid production. High prevalence of G09 and G18 +
+  large percentage of children with multiple strains within first year of detection → having
+  multiple genotypes (particularly G09 + G18) is a strong risk factor for early childhood caries.
+
+=====================================================================
+MATERIALS AND METHODS (summary)
+
+- Bacterial strains: S. mutans isolates from 78 African-American children (~1 y at baseline,
+  followed to 6 y) from an 8-year longitudinal high-caries-risk, non-fluoridated population.
+  >14,000 isolates → 34 representative genotypes by rep-PCR + whole genome sequencing.
+  65.8% of children had ECC by age 4. Child C-232 (Child 5; G09 + G18) selected for depth study.
+  UA159 = positive control reference strain.
+- Mutant constructions: G09/G18 modified with fluorescent-protein + antibiotic-resistance
+  plasmids (pVPT-GFP + Kan; mCherry + Ery). Kanamycin 1 mg/mL, erythromycin 10 µg/mL for
+  S. mutans; kanamycin 50 µg/mL for E. coli.
+- Static biofilm: THB + 1% sucrose, 96-well, 16 h, 5% CO2, 37°C. Biomass = crystal violet;
+  IPS = iodine assay; pH = pHrodo red; glucan = cascade blue; cell density = Syto9. ImageJ
+  quantification of fluorescence. 10-children screen = 1 biological replicate (trend only);
+  C-232 = ≥3 biological × 3 technical replicates.
+- CLSM: 8-well ibidi slides, overnight biofilm, Zeiss LSM 880/980, 40x water immersion,
+  Imaris v10.0.1 analysis; height from orthogonal projections. 3 biological replicates.
+- Time-lapse: Zeiss Cell Discoverer7 (CD7), 50x water immersion, hourly imaging 24-30 h,
+  37°C/5% CO2, mCherry + GFP + oblique-illumination brightfield.
+- Differential plating: antibiotic-selective THA, pre-plate (inoculum) vs post-plate (16 h
+  biofilm, sonicated), CFU/mL enumeration.
+- Drosophila colonization: capillary-feeding, 7 male Canton-S flies (1-3 d), antibiotic
+  pre-treatment, twice-daily feeding of S. mutans in 5% sucrose for 3 days, 5 flies pulverized,
+  serial dilution on antibiotic THA, CFU enumeration.
+- Statistics: Fisher's exact test (genotype-caries association); Student's t-test or one-way
+  ANOVA + Tukey post-hoc; significance p<0.05.

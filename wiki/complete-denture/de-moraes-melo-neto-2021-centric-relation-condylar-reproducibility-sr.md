@@ -6,7 +6,7 @@ date: 2021-09-01
 doi: 10.1055/s-0041-1735903
 source: de-moraes-melo-neto-2021-centric-relation-condylar-reproducibility-sr.md
 category: [complete-denture]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "34921385"
@@ -22,13 +22,21 @@ relations:
     target: fayad-2025-vertical-dimension-determination-prosthodontics-review
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (6 low-quality clinical studies, complete-dentition non-TMD subjects) comparing centric-relation recording techniques *within the same method*: all 6 compared only bimanual manipulation vs chin-point guidance (guided method) — 3 favored bimanual, 2 equivalent, 1 favored chin-point — so bimanual manipulation is the more recommended CR technique.
+PRISMA systematic review of 6 low-quality clinical studies in complete-dentition, non-TMD subjects compared centric-relation recording techniques within the guided-method family only; all 6 studies compared bimanual manipulation vs chin-point guidance.
 
-## 한줄요약
+Bimanual manipulation was superior in 3 studies, equivalent in 2, and inferior in only 1, making it the more recommended CR recording technique for dentate non-TMD patients.
 
-체계적 문헌고찰(6편, 모두 저질·완전치열·비TMD)로 중심위(Centric Relation, CR) 획득 술식을 동일 방법 내에서 비교 — 6편 모두 유도법의 양손조작(Bimanual) 대 턱끝유도(Chin-point guidance)만 비교, 3편 양손조작 우세·2편 동등·1편 턱끝유도 우세 → 과두위치 재현성에서 양손조작법이 더 권장됨.
+Major evidence gaps remain: no head-to-head data for graphic (gothic-arch) vs physiologic techniques, and no studies included edentulous patients, limiting direct applicability to complete-denture prosthodontics.
+
+## 세줄요약
+
+PRISMA 체계적 문헌고찰(6편, 모두 저질·완전치열·비TMD)로 중심위(Centric Relation, CR) 획득 술식을 동일 방법 내에서 비교하였으며, 6편 모두 유도법의 양수조작(Bimanual) 대 턱끝유도(Chin-point guidance)만 비교하였다.
+
+양수조작법이 3편에서 우세, 2편에서 동등, 1편에서만 열위로 과두위치 재현성이 더 높아 치아가 있는 비TMD 환자에게 권장된다.
+
+그래픽법(고딕아치) 및 생리적 기법 간 직접 비교 연구가 없고 무치악 환자 데이터도 없어 총의치 보철에 대한 직접 적용은 제한적이다.
 
 ## Summary
 

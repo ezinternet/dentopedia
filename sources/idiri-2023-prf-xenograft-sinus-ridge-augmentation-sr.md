@@ -13,13 +13,21 @@ source_collection: external
 
 SR specifically on PRF+xenograft (DBBM/BioOss) combination for sinus and ridge augmentation — integrates PRF adjunct evidence across two GBR contexts (sinus lift and mandibular horizontal/vertical GBR). Provides the systematic review-level synthesis needed to contextualize individual RCTs. [[bone-regeneration/wessing-2018-gbr-collagen-membranes-particulate-graft-sr-ma]]
 
-## One-line Summary
+## Three-line Summary
 
-SR of 7 RCTs (PROSPERO CRD42023411160; PRISMA 2020): PRF+DBBM shows no statistically significant benefit over DBBM alone in sinus lift histomorphometry, but may reduce graft resorption in mandibular GBR.
+SR of 7 RCTs (PROSPERO CRD42023411160;
 
-## 한줄요약
+PRISMA 2020): PRF+DBBM shows no statistically significant benefit over DBBM alone in sinus lift histomorphometry, but may reduce graft resorption in mandibular GBR.
 
-7편 RCT 대상 SR: PRF+DBBM은 상악동거상술 조직형태계측 결과에서 DBBM 단독 대비 유의한 이점 없음; 하악 수평 GBR에서는 골이식재 흡수 감소 가능성.
+(incomplete)
+
+## 세줄요약
+
+7편 RCT 대상 SR: PRF+DBBM은 상악동거상술 조직형태계측 결과에서 DBBM 단독 대비 유의한 이점 없음;
+
+하악 수평 GBR에서는 골이식재 흡수 감소 가능성.
+
+(incomplete)
 
 ## 1. Document Information
 

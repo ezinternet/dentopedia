@@ -7,7 +7,7 @@ doi: ""
 pmid: "39123337"
 source: vu-2024-caregivers-perceptions-dental-therapists.md
 category: [practice-management]
-confidence: cross-sectional
+evidence_level: cross-sectional
 source_collection: pubmed-text
 full_text: false
 source_url: https://pubmed.ncbi.nlm.nih.gov/39123337/
@@ -19,13 +19,21 @@ relations:
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Cross-sectional survey (J Dent Child 2024; n=202 caregivers of pediatric medical patients at an urban teaching hospital) finding caregivers are receptive to midlevel dental therapists (DT) performing restorations, extractions, and emergency care, while strongly agreeing (p<0.001) such procedures should be done under dentist supervision; abstract-only. (DOI not indexed; PMID 39123337.)
+Cross-sectional validated-survey study (J Dent Child 2024; n=202 caregivers of pediatric medical patients at an urban teaching hospital; ML 71.2% vs UML 28.7% subgroups) assessing caregiver acceptance of midlevel dental therapists (DT).
 
-## 한줄요약
+ML caregivers significantly agreed with DTs performing primary tooth restorations (p<0.001), permanent tooth restorations (p=0.001), primary extractions (p=0.022), and emergency treatment (p<0.001); both ML and UML groups strongly agreed procedures should occur under dentist supervision (p<0.001).
 
-소아 의과 환자 보호자 202명 단면조사(J Dent Child 2024): 보호자들은 중간단계 치과인력인 치과치료사(Dental Therapist, DT)의 수복·발치·응급처치 수행에 수용적이나, 치과의사 감독 하 시행을 강하게 지지(p<0.001)했고 DT에 대한 대중 인지도 제고가 필요. (초록만)
+Public awareness of DT education, scope of practice, and workforce integration remains a gap; prior midlevel medical care experience (ML) independently predicts greater acceptance of DT-delivered dental care.
+
+## 세줄요약
+
+도시 교육병원 소아 내과 환자 보호자 단면조사(n=202; 중간단계 의료인력 경험군 ML 71.2% vs 비경험군 UML 28.7%): 중간단계 치과치료사(Dental Therapist, DT) 수용도 평가.
+
+ML군에서 DT의 유치 수복(p<0.001)·영구치 수복(p=0.001)·유치 발치(p=0.022)·응급처치(p<0.001) 수행에 유의한 동의; ML·UML 모두 치과의사 감독 하 시행에 강하게 동의(p<0.001).
+
+DT 교육·업무범위·인력 통합에 대한 공중 인지도가 부족하며, 중간단계 의료인력 이용 경험이 DT 수용을 독립적으로 예측 — 인지도 제고 전략이 선행되어야 함.
 
 ## Summary
 

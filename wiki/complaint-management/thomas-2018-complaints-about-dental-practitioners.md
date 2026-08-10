@@ -6,18 +6,28 @@ date: 2018-01-01
 doi: "10.1111/adj.12625"
 source: thomas-2018-complaints-about-dental-practitioners.md
 category: complaint-management
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/thomas-2018-complaints-about-dental-practitioners.pdf
 pdf_filename: thomas-2018-complaints-about-dental-practitioners.pdf
 source_collection: external
 tags: [dental, epidemiology, regulation, risk-factors]
 ---
 
-## One-line Summary
-National Australian cohort (2011-2016) showing dentists have the highest complaint rate of 14 health professions (42.7/1000/yr); 4% of dentists generate 49% of complaints; most concern treatment.
+## Three-line Summary
 
-## 한줄요약
-호주 전국 코호트(2011-2016) — 치과의사가 14개 보건직종 중 민원율 최고(연 1000명당 42.7건); 4%의 치과의사가 민원의 49% 발생, 대부분 치료 관련.
+National retrospective cohort of Australian health practitioner complaints (January 2011–December 2016) across 14 professions, using negative binomial regression to identify dental-specific risk factors.
+
+Dental practitioners comprised 3.5% of practitioners but ~10% of complaints, the highest rate of all 14 professions (42.7/1,000/year); 4% of dentists accounted for 49% of dentist complaints, with male sex and treatments/procedures (59%) as leading risk factors.
+
+Most closed cases required no regulatory action (~60%), but the extreme concentration among a small group points to targeted risk management as the most effective intervention.
+
+## 세줄요약
+
+2011–2016년 호주 14개 보건직종 전국 민원 데이터 후향 코호트 — 음이항 회귀로 치과 특이 위험인자 분석.
+
+치과의사는 전체 의료인의 3.5%에 불과했으나 민원의 약 10%를 차지해 14개 직종 중 최고 민원율(연 1,000명당 42.7건); 4%의 치과의사가 전체 치과 민원의 49%를 발생시켰고, 남성·치료·처치(59%)가 주요 위험인자였다.
+
+종결 사례의 약 60%는 규제 조치 불필요였으나, 소수 고위험 집단에 집중된 분포는 표적화된 위험 관리가 가장 효과적 중재임을 시사한다.
 
 ## Summary
 Thomas and colleagues analysed six years of Australian national complaint data and found dental practitioners are complained about disproportionately -- 3.5% of practitioners but ~10% of complaints, the highest rate of fourteen professions (42.7/1000/year). Complaints were highly concentrated: about 4% of dentists generated nearly half of all dentist complaints, men were at higher risk, and treatments/procedures dominated (59%). Most closed cases required no regulatory action. The study supplies the dental epidemiology that the general complaint-science pipeline applies to, and points to targeting the small high-risk group.

@@ -6,20 +6,28 @@ date: 2023-01-01
 doi: 10.4103/jispcd.JISPCD_265_21
 source: rosas-diaz-2023-rfa-mapping-nanostructured-hydroxyapatite.md
 category: [implants/isq]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/rosas-diaz-2023-rfa-mapping-nanostructured-hydroxyapatite.pdf
 pdf_filename: rosas-diaz-2023-rfa-mapping-nanostructured-hydroxyapatite.pdf
 source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Prospective case series (n=21 analyzed, 8 patients; SIN-UNITITE nano-HA surface) mapping ISQ weekly over 20 weeks: universal stability dip at weeks 2–3, full recovery to or above baseline by weeks 8–10; larger diameter (4.3 mm) and higher torque (≥40 N-cm) confer the highest ISQ values throughout.
+Prospective observational case series (8 patients, 23 SIN-UNITITE nano-HA surface implants placed, 21 analyzed after 2 failures) performing weekly RFA mapping over 20 weeks to characterize the stability trajectory of nanostructured hydroxyapatite-coated implants.
 
-## 한줄요약
+A universal stability dip occurred at weeks 2–3 for all subgroups, with full recovery to or above baseline by weeks 8–10; 4.3 mm diameter and ≥40 N-cm insertion torque subgroups had the highest ISQ throughout; mandible dipped at weeks 3–4 while maxilla dipped earlier at week 1; 20-week survival was 91.3%.
 
-나노구조 하이드록시아파타이트 코팅 임플란트(n=21, 8명)의 20주 주간 ISQ 추적: 식립 2–3주 내 안정성 dip 발생, 8–10주에 기저치 이상 회복; 직경 4.3 mm 및 삽입토크 ≥40 N-cm 군에서 가장 높은 ISQ.
+The primary-to-secondary stability dip is not abolished by nano-HA coating — confirming a universal biologic transition — and implants with lower initial ISQ dip later and more deeply but converge to comparable ISQ (~68–74) by week 20.
+
+## 세줄요약
+
+전향적 관찰 증례연구(8명, SIN-UNITITE 나노구조 수산화인회석(Nano-HA) 코팅 임플란트 23개 식립·21개 분석): 20주간 주간 RFA 측정으로 새로운 표면 코팅 임플란트의 안정성 궤적을 기록하였다.
+
+모든 하위군에서 2–3주에 ISQ dip 발생, 8–10주에 기저치 이상 회복; 4.3 mm 직경·삽입 토크 ≥40 N-cm 군이 전기간 최고 ISQ; 상악은 1주에 조기 dip, 하악은 3–4주에 dip; 20주 생존율 91.3%.
+
+나노-HA 코팅도 1차→2차 안정성 dip을 없애지 못하며, 초기 ISQ가 낮은 임플란트는 더 늦고 깊게 dip하지만 20주에는 유사한 ISQ(~68–74)로 수렴한다.
 
 ## Summary
 
@@ -78,4 +86,4 @@ Subgroup analysis revealed that larger diameter (4.3 mm), longer implants (>10 m
 
 - [[overviews/implants-isq-stability-ladder]] — generalized ISQ ladder and primary→secondary stability dip framework; this paper adds nano-HA surface-specific week-by-week data
 - [[overviews/isq-loading-threshold]] — loading decision thresholds based on ISQ; this paper's week 8–10 recovery plateau is relevant for early-loading protocol timing with nano-HA implants
-- [[implants/arghami-2021-immediate-early-loading-hydroxyapatite-coated]] — immediate/early loading outcomes for hydroxyapatite-coated implants; complements this paper's stability timeline with clinical loading results
+- [[implants/loading-protocol/arghami-2021-immediate-early-loading-hydroxyapatite-coated]] — immediate/early loading outcomes for hydroxyapatite-coated implants; complements this paper's stability timeline with clinical loading results

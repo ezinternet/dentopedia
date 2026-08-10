@@ -6,20 +6,28 @@ date: 2004-07-19
 doi: 10.1111/j.1600-0501.2004.01059.x
 source: nedir-2004-predicting-osseointegration-primary-stability-rfa.md
 category: [implants/isq]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/nedir-2004-predicting-osseointegration-primary-stability-rfa.pdf
 pdf_filename: nedir-2004-predicting-osseointegration-primary-stability-rfa.pdf
 source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Prospective RFA study (36 patients, 106 ITI SLA implants: 63 immediately loaded + 43 delayed) showing Osstell could not reliably detect mobile implants, but all delayed-loaded implants with ISQ-at-placement ≥49 and all immediately-loaded implants with ISQ-at-placement ≥54 achieved and maintained osseointegration at 1 year — with healing-phase stability trajectories differing by ISQ-at-placement band.
+Prospective RFA study (36 patients, 106 ITI SLA implants: 63 immediately loaded + 43 delayed; ISQ tracked at 8 time points over 12 weeks) investigating whether primary stability at placement predicts osseointegration and differs by loading protocol.
 
-## 한줄요약
+Osstell RFA could not reliably detect mobile implants; however, all delayed-loaded implants with ISQ ≥49 and all immediately-loaded implants with ISQ ≥54 at placement achieved osseointegration at 1 year — the 2 failures had placement ISQ just below each threshold (48 and 53 respectively).
 
-전향적 RFA 연구 (환자 36명, ITI SLA 임플란트 106개: 즉시부하 63 + 지연부하 43) — Osstell은 동요 임플란트를 신뢰성 있게 감별하지 못했으나, 식립 시 ISQ가 지연부하군 ≥49·즉시부하군 ≥54인 임플란트는 모두 1년 시점 골유착을 달성·유지했고, 치유기 안정성 변화 패턴은 식립 시 ISQ 구간별로 달랐다.
+Immediately loaded implants require a higher placement ISQ threshold than delayed-loaded implants (≥54 vs ≥49), and the ISQ trajectory during healing (rise vs transient dip vs plateau) is predictable from the initial ISQ band.
+
+## 세줄요약
+
+전향적 RFA 연구(36명, ITI SLA 임플란트 106개: 즉시부하 63 + 지연부하 43): 식립 시 1차 안정성이 골유착 여부를 예측하는지, 부하 프로토콜별로 다른지 8시점 12주 ISQ 추적으로 규명하였다.
+
+Osstell RFA는 동요 임플란트를 신뢰성 있게 감별하지 못했으나, 식립 시 ISQ ≥49(지연부하)·≥54(즉시부하)인 임플란트는 1년 시점 전원 골유착 달성 — 실패 2례는 각 역치 바로 미만(ISQ 48·53).
+
+즉시부하는 지연부하보다 높은 식립 시 ISQ 역치(≥54 vs ≥49)가 필요하며, 치유 중 ISQ 궤적(상승·일시 저하 후 회복·초기 저하 후 안정)은 식립 시 ISQ 구간으로 예측 가능하다.
 
 ## Summary
 

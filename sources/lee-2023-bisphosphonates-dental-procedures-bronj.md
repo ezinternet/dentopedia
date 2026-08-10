@@ -10,8 +10,21 @@ pdf_filename: lee-2023-bisphosphonates-dental-procedures-bronj.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Narrative review: bisphosphonates (oral/IV) mechanism, BRONJ risk stratification, dental procedure safety; topical BPs enhance osseointegration; systemic (IV especially) → high BRONJ risk; prevention = oral hygiene + pre-treatment dental clearance.
+## Three-line Summary
+
+Narrative review: bisphosphonates (oral/IV) mechanism, BRONJ risk stratification, dental procedure safety
+
+topical BPs enhance osseointegration
+
+systemic (IV especially) → high BRONJ risk; prevention = oral hygiene + pre-treatment dental clearance.
+
+## 세줄요약
+
+Narrative review: bisphosphonates (oral/IV) mechanism, BRONJ risk stratification, dental procedure safety
+
+topical BPs enhance osseointegration
+
+systemic (IV especially) → high BRONJ risk; prevention = oral hygiene + pre-treatment dental clearance.
 
 ## 1. Document Information
 - Journal: Cancers 15(22):5366 (November 2023)

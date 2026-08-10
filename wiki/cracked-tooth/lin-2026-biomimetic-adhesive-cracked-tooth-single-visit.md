@@ -6,7 +6,7 @@ date: 2026-02-27
 doi: 10.1155/crid/5525524
 source: lin-2026-biomimetic-adhesive-cracked-tooth-single-visit.md
 category: cracked-tooth
-confidence: case-report
+evidence_level: case-report
 pdf_path: /Users/oracleneo/llm-wiki/papers/lin-2026-biomimetic-adhesive-cracked-tooth-single-visit.txt
 pdf_filename: lin-2026-biomimetic-adhesive-cracked-tooth-single-visit.txt
 source_collection: pubmed-text
@@ -21,13 +21,21 @@ relations:
     target: wang-2025-crown-vs-porcelain-inlay-cracked-teeth-rct
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Single case report (n=1): a cracked, endodontically treated maxillary first molar (#16) restored in **one visit** using the morphology-driven preparation technique (MDPT) — a minimally invasive lithium-disilicate (IPS e.max Press) occlusal veneer with butt-joint proximal margins (1.2–1.3 mm) and hollow-chamfer axial walls, bonded over a short-fiber-reinforced composite (SFRC) access build-up; complete pain resolution and intact, healthy result at 15-month follow-up.
+Single case report (n=1, 36-year-old male): a cracked maxillary first molar (#16) with reversible pulpitis and crack extending into the pulp chamber, treated in one visit due to patient relocation — microscopic RCT followed immediately by morphology-driven preparation technique (MDPT) and bonded lithium-disilicate (IPS e.max Press) occlusal veneer.
 
-## 한줄요약
+MDPT delivered minimally invasive cuspal-coverage (occlusal 1.0–1.5 mm, butt-joint proximal margins 1.2–1.3 mm, hollow-chamfer axial walls) with SFRC access build-up; complete pain resolution; restoration intact with healthy periapical and periodontal status at 15-month follow-up.
 
-단일 증례 보고 (n=1): 균열이 있는 근관치료된 상악 제1대구치(#16)를 단일 내원에 형태기반 최소침습 삭제(MDPT)로 수복 — 근·원심 butt-joint 변연(1.2–1.3 mm) + 협·구개측 hollow-chamfer를 가진 리튬 디실리케이트(IPS e.max Press) 교합 비니어를 단섬유강화복합레진(SFRC) 와동 충전 위에 접착. 15개월 추적에서 통증 완전 소실, 수복물 온전·치주 건강.
+Illustrates a viable single-visit conservative workflow for cracked RCT-indicated teeth using anatomy-guided preparation; does not establish superiority over full-coverage crown — single uncontrolled case with short follow-up.
+
+## 세줄요약
+
+단일 증례 보고 (n=1, 36세 남성): 균열이 있고 가역성 치수염이 있는 상악 제1대구치(#16), 균열이 치수강까지 진행 — 환자 이주로 인해 단일 내원에 현미경 근관치료 + MDPT + 리튬 디실리케이트(IPS e.max Press) 교합 비니어 즉시 수복.
+
+MDPT(교합면 1.0–1.5 mm, 근·원심 butt-joint 1.2–1.3 mm, hollow-chamfer 축벽) + SFRC 와동 충전; 통증 완전 소실; 15개월 추적에서 수복물 온전·치주·치근단 건강.
+
+균열 치아의 단일 내원 최소침습 수복 워크플로를 실증하나, 단일 비대조 증례·단기 추적으로 전관 크라운 대비 우월성 입증 불가.
 
 ## Summary
 

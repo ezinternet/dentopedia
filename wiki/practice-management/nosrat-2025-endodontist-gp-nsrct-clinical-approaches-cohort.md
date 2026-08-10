@@ -6,18 +6,28 @@ date: 2025-05-19
 doi: "10.1111/iej.14264"
 source: nosrat-2025-endodontist-gp-nsrct-clinical-approaches-cohort.md
 category: [practice-management]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/nosrat-2025-endodontist-gp-nsrct-clinical-approaches-cohort.pdf
 pdf_filename: nosrat-2025-endodontist-gp-nsrct-clinical-approaches-cohort.pdf
 source_collection: external
 tags: [practice-management, endodontics, practice-patterns, rubber-dam, standard-of-care, pbrn]
 ---
 
-## One-line Summary
-Prospective cohort (US National Dental PBRN, PREDICT Project) showing endodontists were significantly more likely than general dentists to use >5× magnification, rubber dam isolation, NaOCl irrigation, and EDTA/H2O2/chlorhexidine during non-surgical root canal treatment.
+## Three-line Summary
 
-## 한줄요약
-전향 코호트(미국 PBRN PREDICT): NSRCT에서 GD 대비 근관전문의가 >5× 확대경·러버댐·NaOCl·EDTA/H2O2/CHX 사용률이 유의하게 높음.
+Prospective cohort study (US National Dental PBRN PREDICT Project; 49 endodontists + general dentists; consecutive NSRCT cases) comparing real-world technique choices between specialists and generalists in everyday US dental practice.
+
+Endodontists were significantly more likely than general dentists to use >5× magnification, rubber dam isolation, sodium hypochlorite irrigation, and supplemental EDTA/H2O2/chlorhexidine — quantifying a measurable standard-of-care gap in procedural quality.
+
+The data serve as a benchmark for continuing-education priorities and clinic protocol development; outcomes data from the same cohort are needed to determine whether these technique differences translate to different patient results.
+
+## 세줄요약
+
+미국 전국 치과 PBRN PREDICT 전향 코호트(근관전문의 49명 + 일반치과의사; 연속 NSRCT 증례)에서 전문의와 일반의의 실제 술식 선택을 비교.
+
+근관전문의가 일반치과의사보다 >5× 배율 확대경·러버댐 격리·NaOCl 세정·EDTA/H2O2/CHX 보조세정 사용률이 유의하게 높아 처치 질 표준 간 격차를 수치화함.
+
+결과 데이터와의 연계 없이는 술식 차이가 환자 예후 차이로 이어지는지 확인 불가; 계속교육 우선순위 및 원내 프로토콜 개발의 벤치마크로 활용 가능.
 
 ## Summary
 This prospective practice-based research network study compared how endodontists and general dentists actually perform non-surgical root canal treatment in everyday US practice. Endodontists were significantly more likely to adopt quality-associated procedural steps — higher magnification (>5×), rubber dam isolation, sodium hypochlorite irrigation, and supplemental EDTA/hydrogen peroxide/chlorhexidine irrigation — than general dentists. The data quantify a real-world standard-of-care gap between specialists and generalists, useful as a benchmark for clinic protocols and continuing-education priorities rather than a verdict on individual outcomes.

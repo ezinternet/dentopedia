@@ -1,0 +1,91 @@
+The Causes of Dental Implant Migration into the Maxillary Sinus: A Case Series Study from 25 Years of Experience
+Mahmood Hashemi H, Mohammadi S, Razmara F
+Journal of Dentistry (Shiraz, Iran) 2024;25(1):86-90
+DOI: 10.30476/dentjods.2023.95807.1898  PMID: 38544771  PMCID: PMC10963871
+Tehran University of Medical Sciences, School of Dentistry, OMFS / Craniomaxillofacial Research Center, Iran
+Source: PubMed Central full text (JATS), retrieved via PubMed MCP.
+
+=== ABSTRACT ===
+Dental implants to restore edentulous jaws are commonplace. In the maxilla, following tooth
+extraction, alveolar bone height decreases, increasing the risk of implants migrating into the sinus.
+Caldwell-Luc and endoscopic surgery are used to retrieve implants. This case series collected data
+from 39 patients with implant displacement into the maxillary sinus over 25 years. All implants were
+removed using the Caldwell-Luc technique. Migration happened following functional loading, during the
+prosthetic procedure due to lack of osseointegration in 3 patients, and during implant placement into
+a fresh socket in 3 patients. In the remaining cases, migration occurred preoperatively or
+postoperatively prior to implant loading. Insufficient bone quantity sometimes causes migration; in
+case of minimal bone height, a sinus lift before implant placement should be conducted. Retrieval via
+the Caldwell-Luc approach proved a reliable technique.
+
+=== INTRODUCTION ===
+Posterior maxillary tooth loss -> edentulism, bone resorption. Implant placement is the treatment of
+choice (safe, excellent prognosis). Panoramic + CBCT before insertion are imperative to assess
+residual bone volume/landmarks. If ridge height is inadequate, sinus elevation (sinus lift) should be
+performed. Failure to plan/assess bone may cause complications such as implant dislocation into the
+sinus. Migration can induce sensory disorder, sinusitis, oroantral fistula; the dislocated implant
+disturbs sinus anatomy and the mucociliary escalator. Migration can occur during placement or
+postoperatively (during osseointegration, after load, or during prosthetic restoration). Contributing
+factors: sinus pneumatization, extremely resorbed bone, excessive bite force, bruxism, absence of
+primary stability, inexperienced surgeon, over-drilling, intense tapping, peri-implantitis bone loss,
+and considerable pressure on non-integrated implant removal. Instant removal is generally suggested;
+if delayed, control sinusitis first. Surgical approaches: Caldwell-Luc antrostomy (intraoral, through
+a bony window in the lateral wall; better visualization, easier access, can be done under local
+anesthesia) and endoscopic sinus surgery (transnasal via the ostium; general anesthesia, more
+expensive equipment, longer operation).
+
+=== METHODS / CASE PRESENTATION ===
+Ethics: Tehran University of Medical Sciences IR.TUMS.DENTISTRY.REC.1401.036. Over 25 years
+(1996-2021), 39 patients (21 female, 18 male) referred to a private clinic for implant displacement
+into the maxillary antrum. Age range 28-73 (F), 30-70 (M). ALL removed via Caldwell-Luc under local
+anesthesia by a single proficient surgeon.
+Preop (48 h before): Co-amoxiclav 625 mg TID + 0.2% chlorhexidine (CHX) rinse. Local anesthesia;
+osteotomy with dental carbide bur #5 under constant saline irrigation to create a bony window in the
+lateral antral wall; incision in sinus membrane; implant retrieved by suction or rongeur; flap sutured
+4-0 Vicryl. Postop: antibiotics (1 week), nasal decongestant spray, analgesic; avoid nose-blowing 2
+weeks; 0.2% CHX rinse twice daily for 7 days.
+
+=== RESULTS — CAUSES OF MIGRATION (n=39) ===
+Displacement during implant placement (intraoperative) = 22 patients:
+  - Inadequate bone height: 11 (6M, 5F)
+  - Over-drilling / wide socket: 11 (4M, 7F)
+  - Closed (crestal) sinus lift procedure: 6 (2M, 4F)
+  - Immediate implantation into fresh extraction socket: 3 (2M, 1F)
+Postoperative:
+  - Placement of healing abutment (lack of osseointegration): 5 (3M, 2F)
+  - Prosthetic procedures (inadequate osseointegration): 3 (1M, 2F)
+[Table 1 grouping: Intraoperation = immediate implantation, inadequate bone height, closed sinus lift,
+over-drilling; Post-operation = healing abutment placement, prosthetic procedures.]
+Patient acceptance: 31 patients (13 men, 18 women) were RELUCTANT toward further implant placement
+after displacement; the rest accepted resumption of reconstruction/implant placement.
+Follow-up: no complications during 2-10 year post-surgery follow-up.
+
+=== DISCUSSION ===
+Prevention principles: dentists must recognize and manage this complication; accurate radiographic
+assessment before retrieval to localize the implant. Migration can be intra- or postoperative
+(before or after loading). Intraoperative displacement: low bone quality/quantity, inexpert surgeon,
+over-preparation, heavy pressure during implantation, sinus perforation while drilling -> poor primary
+stability (major reason at this stage); inadequate initial stability -> micromotion -> impaired
+clotting/revascularization -> obstructed ossification. Postoperative before loading: loss of
+osseointegration from bone infection, osteoporosis/osteopenia. After functional loading: erratic
+masticatory force, destructive forces on surrounding bone, loading <3 weeks after placement.
+Two management methods: Caldwell-Luc (intraoral anterolateral window) vs endoscopic (transnasal).
+Caldwell-Luc is suggested for foreign-body retrieval, oroantral-fistula repair, failed endoscopic
+surgery, mucous cell metaplasia. Authors used Caldwell-Luc for all cases. Comparators: Maciel (1 case,
+insufficient bone height, Caldwell-Luc); Mumtaz (headache/nasal blockage 1 yr, Caldwell-Luc); Manor
+(55 cases, sinus augmentation in 46 before placement, Caldwell-Luc in 52; sinusitis + oroantral
+communication most common complications); Hamdoon (11 patients, Caldwell-Luc least challenging);
+Sgaramella (21 cases/24 implants, displacement after op before load in 10, after loading in 1,
+Caldwell-Luc in 8). Caldwell-Luc is the gold standard for sinus entry regarding mucosal regeneration,
+better healing, less inflammation, local anesthesia, fewer complications vs endoscopy. Insufficient
+bone height from pneumatization/alveolar loss is the leading cause; when bone height <5 mm, sinus lift
+should be conducted before implant placement to prevent failure/migration (Sgaramella: <5 mm at 19/24
+sites; sinus lift not done in 15/21). Most cases were male in several comparators (Mumtaz, Manor,
+Hamdoon) though not Sgaramella. Displacement causes patient reluctance for re-treatment (here 31/39
+reluctant) -> good pre-op bone evaluation prevents displacement and motivates completion of treatment.
+Strength: no prior study across different implantation stages; extended follow-up.
+
+=== CONCLUSION ===
+A very thorough pre-operative bone assessment prevents such complications. With minimal bone height,
+perform a sinus lift before placement to increase bone quantity/quality. Ensure primary stability at
+insertion, and adequate osseointegration before impression-taking. Retrieval of a displaced implant
+via the Caldwell-Luc approach proved a reliable technique with fewer complications.

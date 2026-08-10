@@ -6,20 +6,28 @@ date: 2025-01-06
 doi: 10.1111/jcpe.14129
 source: urban-2025-collagen-membrane-vertical-ridge-ptfe-mesh-rct.md
 category: [implants/vertical-ridge-augmentation]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/urban-2025-collagen-membrane-vertical-ridge-ptfe-mesh-rct.pdf
 pdf_filename: urban-2025-collagen-membrane-vertical-ridge-ptfe-mesh-rct.pdf
 source_collection: external
 tags: [ptfe-mesh, collagen-membrane, pseudo-periosteum, non-inferiority, vbg]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Non-inferiority RCT (n=30): perforated Ti-reinforced d-PTFE mesh alone vs PTFE + collagen membrane (CM) for VRA — non-inferiority of PTFE alone NOT demonstrated for absolute vertical bone gain (4.5±2.1 vs 4.1±2.7 mm), but complications (6.7% both) and bone density were comparable; PTFE+CM had more type-1 pseudo-periosteum, suggesting CM helps exclude soft-tissue ingrowth.
+Non-inferiority RCT (n=30) comparing perforated Ti-reinforced d-PTFE mesh alone vs PTFE + collagen membrane (CM) for VRA at 9-month mesh removal.
 
-## 한줄요약
+PTFE alone failed to demonstrate non-inferiority for absolute vertical bone gain (4.1±2.7 vs 4.5±2.1 mm, PTFE+CM); complication rate 6.7% in both groups; bone density comparable.
 
-비열등성 RCT (n=30): 천공형 Ti-보강 d-PTFE mesh 단독 vs PTFE+콜라겐막(CM) — 절대 수직골증가(4.5±2.1 vs 4.1±2.7 mm)에서 PTFE 단독 비열등성 입증 실패, 합병증(양군 6.7%)·골밀도는 유사. PTFE+CM에서 type-1 가골막 더 많아 CM이 연조직 침입 차단에 기여 시사.
+PTFE+CM produced more type-1 pseudo-periosteum, suggesting the collagen membrane compensates for cell-occlusion loss from mesh perforations; current evidence does not support omitting the CM.
+
+## 세줄요약
+
+비열등성 RCT (n=30): 천공형 Ti-보강 d-PTFE mesh 단독 vs PTFE+콜라겐막(CM) — 9개월 후 VRA 결과 비교.
+
+PTFE 단독의 절대 수직골증가 비열등성 입증 실패(4.1±2.7 vs 4.5±2.1 mm); 합병증률 양군 6.7%; 골밀도 동등.
+
+PTFE+CM에서 type-1 가골막 발생 더 많아 CM이 연조직 침입을 차단함을 시사 — 현 근거상 CM 생략 지지 불가.
 
 ## Summary
 

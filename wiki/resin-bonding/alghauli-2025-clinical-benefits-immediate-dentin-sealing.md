@@ -6,20 +6,31 @@ date: 2025-10-01
 doi: 10.1016/j.prosdent.2024.04.014
 source: alghauli-2025-clinical-benefits-immediate-dentin-sealing.md
 category: [resin-bonding]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/alghauli-2025-clinical-benefits-immediate-dentin-sealing.pdf
 pdf_filename: alghauli-2025-clinical-benefits-immediate-dentin-sealing.pdf
 source_collection: external
 tags: [ids, indirect-restoration, clinical-outcome, survival, postoperative-sensitivity, sr-ma]
+relations:
+  - type: contradicts
+    target: josic-2022-ids-postoperative-sensitivity-sr-ma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-JPD 2025 SR+MA (11 clinical studies): immediate dentin sealing (IDS) for indirect restorations reduced complications versus non-IDS, with survival 96.4–100% vs 81.8–96.7% and significantly lower postoperative sensitivity (POS) intensity and incidence (P<.05) — though this POS benefit directly conflicts with the Josic 2022 SR+MA no-difference conclusion.
+SR+MA (JPD 2025) of 11 clinical trials (search through December 2023) comparing immediate dentin sealing (IDS) versus non-IDS (DDS/conventional) protocols for indirect restorations on complications, survival, and postoperative sensitivity.
 
-## 한줄요약
+IDS showed higher survival rates (96.4–100% vs 81.8–96.7%), fewer complications, and significantly lower postoperative sensitivity (POS) intensity and incidence (P<0.05); survival advantage narrowed with longer follow-up (negative correlation); directly conflicts with Josic 2022 SR+MA (4 studies, GRADE low) finding no POS difference.
 
-JPD 2025 SR+MA (11 clinical studies): IDS 적용 indirect restoration은 non-IDS 대비 complication ↓, survival 96.4–100% vs 81.8–96.7%, POS intensity·incidence 유의 감소 (P<.05). 단 josic-2022 SR+MA는 POS no-difference 결론 — 직접 충돌.
+IDS appears beneficial for indirect restoration survival and complications at the SR+MA clinical level, but the POS benefit is contested; clinicians should communicate the unresolved conflict to patients rather than promising sensitivity reduction.
+
+## 세줄요약
+
+SR+MA (JPD 2025, 2023년 12월까지 검색) — 11개 임상 연구에서 즉시 상아질 피개 (IDS, Immediate Dentin Sealing) vs 비IDS(DDS/전통) 프로토콜의 간접 수복물 합병증·생존율·술후 과민증 비교.
+
+IDS 생존율 96.4–100% vs 비IDS 81.8–96.7%, 합병증 감소, 술후 과민증 (POS, Postoperative Sensitivity) 강도·발생률 유의 감소(P<0.05); 생존율 차이는 추적기간과 음의 상관; Josic 2022 SR+MA (4개 연구, GRADE low)의 POS 차이 없다는 결론과 직접 충돌.
+
+IDS는 SR+MA 임상 수준에서 생존율·합병증 면에서 유리하나, POS 감소는 논쟁 중 — POS 약속 없이 환자에게 양쪽 근거를 설명하는 것이 적절.
 
 ## Summary
 
@@ -54,8 +65,8 @@ The IDS-favorable POS result directly contradicts Josic 2022 SR+MA (4 studies, G
 - [[resin-bonding/samartzi-2021-immediate-dentin-sealing-review]] — narrative review predating both SR+MAs.
 - [[resin-bonding/magne-2005-immediate-dentin-sealing-fundamental-procedure]] — IDS concept originating paper.
 
-## 임상 적용 [claude해석]
+## 임상 적용 [미검증]
 
-- [근거강함, 단 conflict 존재] IDS 보호 효과는 SR+MA 수준에서 임상 outcome (complication·survival) 지지.
-- [합의수준] POS reduction은 Alghauli 2025와 Josic 2022 정면 충돌; "결론 미정" 상태로 환자 설명 권장.
-- [claude해석] IDS 시행이 cost-benefit 면에서 inlay/onlay/veneer protocol에 표준 inclusion할 만함; 다만 POS 감소를 환자에게 약속하지는 말 것.
+- [확인, 단 conflict 존재] IDS 보호 효과는 SR+MA 수준에서 임상 outcome (complication·survival) 지지.
+- [확인] POS reduction은 Alghauli 2025와 Josic 2022 정면 충돌; "결론 미정" 상태로 환자 설명 권장.
+- [미검증] IDS 시행이 cost-benefit 면에서 inlay/onlay/veneer protocol에 표준 inclusion할 만함; 다만 POS 감소를 환자에게 약속하지는 말 것.

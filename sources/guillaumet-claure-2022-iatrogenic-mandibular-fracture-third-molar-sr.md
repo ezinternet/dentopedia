@@ -9,8 +9,21 @@ pdf_filename: guillaumet-claure-2022-iatrogenic-mandibular-fracture-third-molar-
 source_collection: external
 ---
 
-## One-line Summary
-Systematic review on prevalence and risk factors of iatrogenic mandibular fractures (intra- and postoperative) following lower third molar extraction, with incidence ranging 0.0033%–0.075%.
+## Three-line Summary
+
+Systematic review on prevalence and risk factors
+
+of iatrogenic mandibular fractures (intra- and postoperative)
+
+following lower third molar extraction, with incidence ranging 0.0033%–0.075%.
+
+## 세줄요약
+
+체계적 고찰 (Systematic Review, SR) on prevalence and risk factors
+
+of iatrogenic mandibular fractures (intra- and postoperative)
+
+following lower third molar extraction, with incidence ranging 0.0033%–0.075%.
 
 ## 1. Document Information
 - **Journal**: Journal of Clinical and Experimental Dentistry 2022;14(1):e85-94

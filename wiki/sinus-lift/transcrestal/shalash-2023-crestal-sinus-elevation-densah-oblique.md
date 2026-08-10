@@ -6,18 +6,28 @@ date: 2023-01-01
 doi: 10.1186/s40729-023-00510-1
 source: shalash-2023-crestal-sinus-elevation-densah-oblique.md
 category: [sinus-lift/transcrestal]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/shalash-2023-crestal-sinus-elevation-densah-oblique.pdf
 pdf_filename: shalash-2023-crestal-sinus-elevation-densah-oblique.pdf
 source_collection: external
 tags: [sinus-lift, transcrestal, osseodensification, Densah, oblique-sinus-floor, RBH]
 ---
 
-## One-line Summary
-Prospective study (n=16, residual bone height [RBH] 4–7 mm, oblique sinus floor): osseodensification crestal sinus floor elevation (CSFE) with Densah burs and simultaneous implant placement achieved mean 4.42 mm sinus lift, mean insertion torque 35.5 Ncm, 6.25% (1/16) perforation, and 100% 1-year success.
+## Three-line Summary
 
-## 한줄요약
-전향적 연구(n=16, RBH 4–7mm, 경사진 동저): Densah bur 골밀도화 경치조골 거상 — 평균 거상 4.42mm·삽입토크 35.5Ncm·천공 1례·1년 100% 성공.
+Prospective single-arm study (n=16, RBH 4–7 mm, oblique sinus floor) evaluating osseodensification crestal sinus floor elevation (CSFE) with Densah burs and simultaneous implant placement in an anatomically challenging scenario.
+
+Mean sinus lift achieved was 4.42 mm with mean insertion torque 35.5 Ncm; Schneiderian membrane perforation occurred in 1 of 16 cases (6.25%); 1-year clinical success was 100%.
+
+This is the first prospective study specifically targeting oblique sinus floor anatomy with osseodensification, supporting OD as a preferred technique for moderately atrophic posterior maxilla with anatomical challenges.
+
+## 세줄요약
+
+경사진 동저(Oblique Sinus Floor) 해부를 가진 환자(n=16, RBH 4–7 mm)에서 Densah 버 골밀도화(Osseodensification, OD) 경치조골 동저 거상(Crestal Sinus Floor Elevation, CSFE) + 동시 임플란트 식립을 평가한 전향적 단일군 연구.
+
+평균 동굴 거상 4.42 mm, 평균 삽입토크 35.5 Ncm; 슈나이더 막(Schneiderian Membrane) 천공 1례(6.25%); 1년 임상 성공률 100%.
+
+경사진 동저에 OD CSFE를 적용한 최초 전향적 연구 — 해부학적으로 도전적인 중등도 위축 상악 후방부에 OD가 적합함을 뒷받침.
 
 ## Summary
 Prospective clinical study evaluating osseodensification crestal sinus floor elevation (CSFE) using Densah burs in 16 patients with oblique sinus floor anatomy and RBH 4–7mm. The OD technique uses counterclockwise non-excavating burs that compress and compact trabecular bone, reducing perforation risk even in anatomically challenging oblique floors. All cases achieved 1-year clinical success.
@@ -44,5 +54,5 @@ Prospective clinical study evaluating osseodensification crestal sinus floor ele
 
 ## Related Papers
 - [[sinus-lift/transcrestal/starch-jensen-2025-transcrestal-sinus-osseodensification-meta-analysis]] — SR+MA showing OD higher ISQ vs OMSFE
-- [[implants/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — original OD paper
+- [[implants/osseodensification/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — original OD paper
 - [[sinus-lift/transcrestal/gaspar-2025-osseodensification-crestal-maxillary-sinus-elevation-narrative-review]] — narrative review of OD for sinus

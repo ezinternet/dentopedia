@@ -10,8 +10,21 @@ pdf_filename: ko-2024-hydroxyapatite-nano-coated-sla-immediate-implants.pdf
 source_collection: external
 ---
 
-## One-line Summary
-단일맹검 RCT (n=40, SNU 서울대): 상악 구치부 즉시식립 시 HA 나노코팅 SLA 임플란트 vs 무코팅 SLA — ISQ·volumetric changes·PROMs 평가; 가이드 수술 적용.
+## Three-line Summary
+
+단일맹검 RCT (n=40, SNU 서울대): 상악 구치부
+
+즉시식립 시 HA 나노코팅 SLA 임플란트 vs
+
+무코팅 SLA — ISQ·volumetric changes·PROMs 평가; 가이드 수술 적용.
+
+## 세줄요약
+
+단일맹검 RCT (n=40, SNU 서울대): 상악 구치부
+
+즉시식립 시 HA 나노코팅 SLA 임플란트 vs
+
+무코팅 SLA — ISQ·volumetric changes·PROMs 평가; 가이드 수술 적용.
 
 ## 1. Document Information
 - **Title**: Implant stability, volumetric changes, and patient-reported outcomes of hydroxyapatite nano-coated sandblasted/acid-etched (SLA) implants compared to uncoated SLA implants in immediate placement: a randomized clinical trial
@@ -35,7 +48,7 @@ SNU IRB-approved. Digital surgical guide. ISQ at placement, 4-6 wk, prosthetic p
 상악 구치부 즉시식립처럼 1차 안정성 확보가 어려운 부위에서 HA 나노코팅이 osseointegration 가속화를 통해 implant stability dip을 완화할 가능성. 코팅 표면처리 비교 RCT는 드묾.
 
 ## 6. Related Work
-- [[implants/atieh-2025-tissue-vs-bone-level-peri-implantitis-sr-ma]] — long-term peri-implant outcomes by implant type
+- [[implants/peri-implantitis/atieh-2025-tissue-vs-bone-level-peri-implantitis-sr-ma]] — long-term peri-implant outcomes by implant type
 - [[immediate-implant/arghami-2021-immediate-early-loading-hydroxyapatite-coated]] — HA-coated implants long-term — 7yr RCT
 
 ## 7. Limitations and Future Work

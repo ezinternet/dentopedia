@@ -13,13 +13,21 @@ source_collection: external
 
 접착 시스템의 hybridization quality (나노누출)와 즉각 결합강도 간 상관관계를 실험적으로 입증한 초기 근거 논문으로, [[wiki/resin-bonding/breschi-2025-adhesive-dentistry-evolution-review]]의 SE Bond 우위 서술을 구체적 수치로 뒷받침하고, [[wiki/resin-bonding/hardan-2021-universal-adhesive-dentin-bond-sr-ma]]의 2-step SE 우위 메타분석의 메커니즘적 기반으로 활용.
 
-## One-line Summary
+## Three-line Summary
 
 In vitro microtensile study (10 molars, 5 adhesives) demonstrating that two-step self-etch adhesives (especially Clearfil SE Bond) achieve higher bond strength and superior hybridization quality vs single-step self-etch and etch-and-rinse systems.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 10개 대구치, 5종 접착제 비교 in vitro 연구: 2-step 자가산부식(특히 Clearfil SE Bond)이 single-step 자가산부식 및 산부식-수세 방식 대비 높은 접착강도와 우수한 혼성층 질을 보임.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

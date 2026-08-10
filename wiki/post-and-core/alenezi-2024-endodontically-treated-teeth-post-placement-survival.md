@@ -6,7 +6,7 @@ date: 2024-09-04
 doi: 10.2334/josnusd.24-0098
 source: alenezi-2024-endodontically-treated-teeth-post-placement-survival.md
 category: [post-and-core]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: false
 pmid: "39231718"
@@ -19,13 +19,21 @@ relations:
     target: mously-2024-anterior-endocrowns-alternative-core-crown
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (17 clinical studies in quantitative synthesis, 7,278 patients / 7,330 ETT): post placement was associated with a statistically significant improvement in survival of endodontically treated teeth vs no post (P<0.001).
+SR+MA (57 studies qualitative, 17 clinical studies quantitative — 11 prospective, 6 retrospective — 7,278 patients / 7,330 ETT, mean age 45.5 yr) comparing post-placed vs no-post restoration of endodontically treated teeth.
 
-## 한줄요약
+Post placement was associated with a statistically significant improvement in survival compared to no-post restoration (P<0.001).
 
-SR+MA(정량분석 임상연구 17편, 환자 7,278명·근관치료치아 7,330개): 포스트 식립이 무포스트 대비 근관치료치아 생존율을 유의하게 향상시켰음(P<0.001).
+The pooled clinical advantage for posts must be interpreted in context: current minimally invasive evidence finds no post benefit when adequate ferrule and coronal walls remain — individual structural assessment is paramount.
+
+## 세줄요약
+
+SR+MA (정성 57편·정량 임상 17편 — 전향 11·후향 6 — 환자 7,278명·근관치료치아 (Endodontically Treated Teeth, ETT) 7,330개, 평균 연령 45.5세) — 포스트 식립 vs 무포스트 수복 생존율 비교.
+
+포스트 식립이 무포스트 대비 생존율 유의하게 향상 (P<0.001).
+
+임상 데이터의 집합적 이점이 존재하지만, 적절한 페룰과 치관부 벽이 잔존할 경우 포스트가 불필요하다는 최소침습 근거와 병렬 해석 필요 — 개별 잔존 구조 평가가 핵심.
 
 ## Summary
 

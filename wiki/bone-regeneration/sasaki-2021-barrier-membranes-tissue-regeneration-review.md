@@ -6,7 +6,7 @@ date: 2021-05-29
 doi: 10.1080/26415275.2021.1925556
 source: sasaki-2021-barrier-membranes-tissue-regeneration-review.md
 category: [bone-regeneration]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/sasaki-2021-barrier-membranes-tissue-regeneration-review.pdf
 pdf_filename: sasaki-2021-barrier-membranes-tissue-regeneration-review.pdf
 source_collection: external
@@ -16,13 +16,21 @@ relations:
     target: verissimo-2014-collagen-membranes-gbr-rat-calvarial
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review (Osaka University, 2021, Biomaterial Investigations in Dentistry) providing a comprehensive component-based taxonomy of dental GTR/GBR barrier membranes — non-biodegradable (PTFE variants, Ti, Co alloys) and biodegradable (collagen crosslinking types, aliphatic polyesters, inorganic composites) — and identifying the absence of clinical selection guidelines beyond biodegradability.
+Narrative review (Osaka University, 2021) classifying all dental GTR/GBR barrier membranes by component type: non-biodegradable (e-PTFE, d-PTFE, Ti-reinforced PTFE, pure Ti, Co-Cr alloys) and biodegradable (collagen with six crosslinking methods, PLA/PGA/PLGA/PCL polyesters, inorganic composites).
 
-## 한줄요약
+Key functional benchmarks established: GTR requires 4–6 weeks of barrier function; GBR requires 16–24 weeks; native collagen membranes resorb within GBR's required window, motivating crosslinking strategies; ribose and EDC crosslinking are more favorable than GA or UV (inflammatory/cytotoxic).
 
-서사적 고찰(오사카대, 2021) — GTR/GBR용 장벽막 전체를 성분별(비생분해성 PTFE·Ti·Co 합금 vs 생분해성 콜라겐·폴리에스터·무기복합재)로 분류하고, 생분해성 외 임상 선택 지침이 없음을 확인하는 기준 분류 체계 제시.
+No evidence-based clinical selection guidelines exist beyond the biodegradability binary — membrane choice remains clinician-experience-dependent, and inorganic-composite biodegradable membranes remain at research stage.
+
+## 세줄요약
+
+서사적 고찰(오사카대, 2021): GTR/GBR 차폐막 전체를 성분별 분류 — 비생분해성(e-PTFE·d-PTFE·Ti 강화 PTFE·순Ti·Co-Cr 합금) + 생분해성(6가지 가교법 콜라겐·PLA/PGA/PLGA/PCL·무기복합재).
+
+기능 기준 확립: GTR 4–6주, GBR 16–24주 장벽기능 필요; 비가교 콜라겐은 GBR 기간 내 흡수 → 가교화 필요; ribose·EDC 가교가 GA·UV보다 유리(염증·세포독성 낮음).
+
+생분해성 여부 외 임상 선택 지침은 근거 없음 — 술자 경험 의존; 무기복합재 생분해성 막은 연구 단계.
 
 ## Summary
 

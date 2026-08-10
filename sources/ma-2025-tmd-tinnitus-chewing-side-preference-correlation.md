@@ -13,13 +13,21 @@ source_collection: external
 
 [[wiki/tmj/zheng-2023-unilateral-chewing-tmj-structure-tmd]]가 편측저작(chewing-side preference)이 TMD의 위험인자임을 정리했지만, 편측저작이 **이명(tinnitus)** 같은 이과(耳科) 증상과 연결되는지는 위키에 없었다. 본 횡단연구(Ma 2025, n=285)는 TMD 환자에서 이명-편측저작의 정적 상관(同側性 포함)과 이명-관절통의 연관을 직접 보여 편측저작→TMD→이명 축을 보강한다. 같은 연구진의 [[wiki/tmj/ma-2022-condyle-position-chewing-side-preference-cbct]](편측저작-과두위치 CBCT)와 짝을 이루는 편측저작 시리즈.
 
-## One-line Summary
+## Three-line Summary
 
-Cross-sectional study (n=285 TMD patients, PLA General Hospital) finding chewing-side preference is significantly more common in TMD patients with tinnitus (90.7% vs 76.0%), with tinnitus side positively correlated to the habitual chewing side and to TMJ-area pain — but not to clicking, limited opening, or disc-displacement type.
+Single-center retrospective cross-sectional study (n=285 TMD patients, PLA General Hospital Beijing, December 2020–May 2024) analyzing the correlation between tinnitus, chewing-side preference (gum-chewing test + interview), and TMD clinical symptoms using CBCT and TMJ MRI.
 
-## 한줄요약
+Chewing-side preference was significantly more common in the tinnitus subgroup (90.7%, n=43) than the non-tinnitus group (76.0%, n=242; χ²=4.613, P<0.05); tinnitus side positively correlated with the habitual chewing side (P<0.05); TMJ-area pain — but not clicking, limited opening, or disc-displacement morphology — was associated with tinnitus (93.0% vs 73.6%, P<0.05).
 
-TMD 환자 285명 횡단연구: 이명을 동반한 TMD 환자에서 편측저작 비율이 유의하게 높고(90.7% vs 76.0%), 이명 발생측이 습관적 저작측 및 관절통과 정적 상관 — 단 관절잡음·개구제한·관절원판 변위 유형과는 무관.
+Chewing-side preference may contribute to unexplained tinnitus through ipsilateral TMJ loading, warranting inclusion of chewing-habit correction in tinnitus workup for TMD patients; the small tinnitus subgroup (n=43) and retrospective design limit causal inference.
+
+## 세줄요약
+
+단일기관 후향 횡단연구(TMD 환자 285명, 중국인민해방군 총병원, 2020.12–2024.05): 구강내과 CBCT·TMJ MRI를 포함한 임상 증상과 편측저작 습관(껌 씹기 테스트+면담)이 이명과 어떻게 연관되는지 분석.
+
+이명 동반군(n=43)의 편측저작 비율 90.7%로 비이명군(76.0%)보다 유의하게 높았고(P<0.05); 이명 발생측이 습관적 저작측과 유의한 양의 상관(P<0.05); 관절통은 이명군에서 유의하게 많았으나(93.0% vs 73.6%, P<0.05) 관절잡음·개구제한·원판변위 유형은 차이 없음.
+
+편측저작→동측 TMJ 과부하 경로가 원인불명 이명의 기여 인자일 수 있어 이명 환자 평가에 저작 습관 교정이 보조적으로 고려되어야 한다 — 단 이명 소군(n=43)의 적은 수와 후향 설계로 인과관계는 추후 전향 연구가 필요.
 
 ## 1. Document Information
 

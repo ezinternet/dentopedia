@@ -6,20 +6,28 @@ date: 2023-01-01
 doi: 10.11607/prd.6179
 source: attia-2023-coronally-advanced-lingual-flap-titanium-mesh.md
 category: [suture-wound-closure]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/attia-2023-coronally-advanced-lingual-flap-titanium-mesh.pdf
 pdf_filename: attia-2023-coronally-advanced-lingual-flap-titanium-mesh.pdf
 source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-RCT (n=14, posterior mandible horizontal GBR with titanium mesh) showing the coronally advanced lingual flap (CALF) achieved markedly greater lingual flap advancement (14.4 vs 3.9 mm) and zero titanium-mesh exposure vs 83.3% early exposure without CALF.
+RCT (n=14, posterior mandible horizontal GBR with titanium mesh) comparing coronally advanced lingual flap (CALF) vs buccal-advancement-only closure.
 
-## 한줄요약
+CALF increased mean lingual advancement from 3.9 ± 1.1 mm to 14.4 ± 3.8 mm (p<.0001) and reduced early titanium-mesh exposure from 83.3% (NO-CALF) to 0% (CALF), with no CALF-related complications.
 
-하악 구치부 수평 골유도재생술(GBR)·티타늄 메시 14명 대상 RCT. 설측 피판 거상량을 3.9mm에서 14.4mm로 크게 늘려 메시 노출을 83.3%(NO-CALF)에서 0%(CALF)로 없앤 관상측 전진 설측 피판(CALF) 기법.
+Lingual flap mobilization is the critical determinant of primary closure over titanium mesh in the posterior mandible; CALF reliably eliminates mesh exposure by shifting the advancement burden to the lingual side.
+
+## 세줄요약
+
+하악 구치부 수평 GBR·티타늄 메시 14명 RCT로 관상측 전진 설측 피판(CALF) 대 협측 전진 단독 비교.
+
+CALF군에서 설측 피판 전진량이 3.9±1.1mm에서 14.4±3.8mm로 증가(p<.0001)하고 메시 조기 노출이 83.3%에서 0%로 감소했으며 CALF 관련 합병증 없음.
+
+하악 구치부 티타늄 메시 GBR의 일차 폐쇄 핵심 제한인자는 설측 피판 가동성이며, CALF는 부하를 설측으로 전환해 메시 노출을 예방함.
 
 ## Summary
 
@@ -53,4 +61,4 @@ In horizontal ridge augmentation of the posterior mandible with titanium mesh (T
 - [[suture-wound-closure/wang-2024-poncho-technique-titanium-mesh-bone-regeneration]] — sibling Ti-mesh primary-closure flap (major advancement); independent technique addressing the same mesh-exposure problem.
 - [[suture-wound-closure/plonka-2017-flap-designs-flap-advancement-implant-therapy]] — systematic-review framework; CALF is a major-advancement (≥7 mm) lingual technique within its taxonomy.
 - [[suture-wound-closure/moslemi-2016-periosteal-releasing-incision-diode-laser-gbr]] — alternative advancement route (periosteal releasing incision) for tension-free GBR closure.
-- [[suture-wound-closure/lee-2018-flap-management-alveolar-ridge-preservation]] — broader flap-management context.
+- [[bone-regeneration/ridge-preservation/lee-2018-flap-management-alveolar-ridge-preservation]] — broader flap-management context.

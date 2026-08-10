@@ -1,0 +1,18 @@
+Title: Alkali treatment of microrough titanium surfaces affects macrophage/monocyte adhesion, platelet activation and architecture of blood clot formation
+
+Authors: Milleret V, Tugulu S, Schlottig F, Hall H
+
+Journal: European Cells & Materials. 2011 May 15;21:430-444; discussion 444.
+DOI: 10.22203/ecm.v021a32
+PMID: 21604243
+Source: PubMed abstract (full text not retrieved — no PMC deposit for this PMID; European Cells & Materials publishes open access on its own site, not indexed in PMC)
+
+Abstract:
+
+Titanium implants are most commonly used for bone augmentation and replacement due to their favorable osseointegration properties. Here, hyperhydrophilic sand-blasted and acid-etched (SBA) titanium surfaces were produced by alkali treatment and their responses to partially heparinized whole human blood were analyzed. Blood clot formation, platelet activation and activation of the complement system was analyzed revealing that exposure time between blood and the material surface is crucial as increasing exposure time results in higher amount of activated platelets, more blood clots formed and stronger complement activation. In contrast, the number of macrophages/monocytes found on alkali-treated surfaces was significantly reduced as compared to untreated SBA Ti surfaces. Interestingly, when comparing untreated to modified SBA Ti surfaces very different blood clots formed on their surfaces. On untreated Ti surfaces blood clots remain thin (below 15 mm), patchy and non-structured lacking large fibrin fiber networks whereas blood clots on differentiated surfaces assemble in an organized and layered architecture of more than 30 mm thickness. Close to the material surface most nucleated cells adhere, above large amounts of non-nucleated platelets remain entrapped within a dense fibrin fiber network providing a continuous cover of the entire surface. These findings might indicate that, combined with findings of previous in vivo studies demonstrating that alkali-treated SBA Ti surfaces perform better in terms of osseointegration, a continuous and structured layer of blood components on the blood-facing surface supports later tissue integration of an endosseous implant.
+
+MeSH terms: Antithrombin III; Blood Coagulation; Cell Adhesion; Complement C5a; Fibrin; Humans; Implants, Experimental; Kallikreins; Macrophages; Microscopy, Electron, Scanning; Monocytes; P-Selectin; Peptide Hydrolases; Platelet Activation; Sodium Hydroxide; Surface Properties; Thrombosis; Titanium
+
+Article type: Journal Article
+Language: eng
+Citation: Volume 21, Pages 430-444; discussion 444

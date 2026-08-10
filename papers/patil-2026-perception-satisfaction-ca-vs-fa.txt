@@ -1,0 +1,32 @@
+Title: Perception and satisfaction in patients using clear aligners versus fixed orthodontic appliances
+Authors: Patil P, Setty GPV, Shafiuddin B, Hussain A, Paul S, Karim R, Ahmed MK
+Year: 2026
+Journal: Bioinformation 22(2):770-775
+PMID: 42109316
+PMCID: PMC13150237
+DOI: 10.6026/973206300220770
+
+ABSTRACT:
+Patient satisfaction drives orthodontic treatment success, yet clear aligners (CA) versus fixed appliances (FA) comparisons remains inconclusive. This prospective cohort study assessed psychosocial impact, satisfaction and OHRQoL in 120 patients over 12 months using validated questionnaires at multiple timepoints. CA users reported significantly higher aesthetic satisfaction throughout (p<0.001), with 78.3% rating aesthetics excellent vs 41.7% in FA at 12 months. Comfort scores strongly favored CA (p<0.001), while oral health-related quality of life (OHRQoL) was comparable at endpoint (p=0.342) despite similar treatment durations. Clear aligners advance orthodontic practice as an aesthetically superior, comfortable alternative that matches fixed appliance functional outcomes.
+
+METHODS:
+Prospective parallel-group cohort study, March 2021 – February 2024, university orthodontic clinic. 120 adult patients (18-45 years), n=60 per group. Self-selection of treatment modality (not randomized) with matching for age, gender, PAR score, aesthetic concern. Inclusion: Angle Class I or II non-extraction; good periodontal health. Exclusion: prior orthodontic Tx, severe crowding, surgical cases. CA group: Invisalign, weekly aligner change, 22h/day wear, 6-week recall. FA group: 0.022" slot MBT edgewise, 4-week recall. Assessments at T0 (baseline), T1 (3mo), T2 (6mo), T3 (12mo). Blind clinical examiner. Primary outcomes: PIDAQ (Psychosocial Impact of Dental Aesthetics Questionnaire, 23 items), TSQ (Treatment Satisfaction Questionnaire, 15 items), VAS (pain, aesthetic acceptability, overall satisfaction). Secondary: OHIP-14, plaque index, gingival index, white spot lesions, treatment duration. Statistics: SPSS 26; Shapiro-Wilk; independent t-test/Mann-Whitney; repeated-measures ANOVA with Bonferroni.
+
+KEY RESULTS:
+- 120/120 (100%) completed 12-month follow-up (60 per group)
+- Baseline matched: mean age CA 28.4±6.7 vs FA 27.9±7.1 (p=NS); PAR CA 28.4±5.2 vs FA 29.1±5.8 (p=NS); PIDAQ 42.3±8.7 vs 43.1±9.2 (p=NS)
+- PIDAQ at 12 months: CA 18.4±6.2 vs FA 29.7±7.8 (p<0.001) — superior CA psychosocial adjustment
+- Aesthetic concern subscale at 12mo: CA 3.2±1.4 vs FA 6.8±2.1 (p<0.001)
+- VAS aesthetics "excellent" (≥80) at 12mo: CA 78.3% vs FA 41.7% (p<0.001)
+- VAS comfort at 12mo: CA 7.8±1.4 vs FA 5.9±1.6 (p<0.001)
+- Pain severity: T1 CA 3.2±1.1 vs FA 5.8±1.4 (p<0.001); T2 CA 2.1±0.9 vs FA 3.4±1.2 (p<0.001); T3 comparable (1.8±0.8 vs 2.0±0.9, p=0.234)
+- OHIP-14 at 3mo: CA 21.4±5.8 vs FA 26.8±6.2 (p<0.001); at 12mo: CA 12.4±4.1 vs FA 13.7±4.6 (p=0.156 — CONVERGED)
+- Plaque index at 6mo: CA 1.2±0.5 vs FA 1.8±0.6 (p<0.001)
+- White spot lesions: CA 11.7% vs FA 31.7% (p=0.008)
+- Treatment duration: similar between groups
+- Self-reported wear time: 21.8±1.2 hours/day
+- TSQ total at 12mo: CA 82.4±8.7 vs FA 71.3±9.8 (p<0.001)
+- Aligner maintenance frustration: 23.3% CA patients reported frustration
+
+CONCLUSIONS:
+CA superior to FA in aesthetic satisfaction and comfort over 12 months in adult non-extraction cases. OHIP-14 (OHRQoL) converges by 12 months despite early CA advantage. Periodontal health better with CA. Treatment choice should be guided by patient values, lifestyle, and case complexity; CA requires motivated adherence.

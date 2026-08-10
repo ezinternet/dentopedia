@@ -6,7 +6,7 @@ date: 2025-09-01
 doi: 10.1186/s12903-025-06777-7
 source: al-suliman-2025-surgicel-gelfoam-post-extraction-bleeding-anticoagulant.md
 category: [drug/anticoagulants]
-confidence: prospective
+evidence_level: prospective
 source_collection: pubmed-text
 full_text: true
 pmid: "40890693"
@@ -24,13 +24,21 @@ relations:
     target: guardieiro-2023-chitosan-cellulose-hemostasis-dapt-rct
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Prospective single-blinded split-mouth clinical trial (40 patients, 80 sockets; 20 aspirin + 20 warfarin) — Surgicel (oxidized cellulose) beat Gelfoam (gelatin sponge) on the same patient's contralateral socket for hemostasis (VIBe), 24-h delayed bleeding, gingival healing, and pain (all p<0.05); warfarin patients fared worse than aspirin patients.
+Prospective single-blinded split-mouth clinical trial (n=40 anticoagulated patients — 20 aspirin, 20 warfarin; 80 matched extraction sockets) comparing Surgicel (oxidized cellulose) vs Gelfoam (gelatin sponge) as socket dressings without anticoagulant interruption.
 
-## 한줄요약
+Surgicel outperformed Gelfoam on all endpoints in the same patient: hemostasis (VIBe, p<0.0001), 24-h delayed bleeding, gingival healing at day 7, and pain (all p<0.05); warfarin patients had significantly worse outcomes than aspirin patients across both dressings.
 
-전향적 단일맹검 분악(split-mouth) 임상시험 (환자 40명, 발치와 80곳; 아스피린 20 + 와파린 20) — Surgicel(산화셀룰로오스)이 같은 환자 반대쪽 발치와에서 Gelfoam(젤라틴 스폰지)보다 지혈·24시간 지연출혈·치은치유·통증 모두 우수(전부 p<0.05); 와파린군이 아스피린군보다 결과 나쁨.
+Local hemostatic dressing allows anticoagulation to continue uninterrupted; when choosing between agents, oxidized cellulose (Surgicel) is preferable to gelatin sponge — limited by non-randomized fixed side allocation and absence of DOAC patients.
+
+## 세줄요약
+
+전향적 단일맹검 분악 임상시험 (항응고제 유지 환자 40명 — 아스피린 20명·와파린 20명, 발치와 80곳): Surgicel(산화셀룰로오스) vs Gelfoam(젤라틴 스폰지) 비교.
+
+같은 환자 내에서 Surgicel이 지혈(VIBe, p<0.0001)·24시간 지연출혈·7일째 치은 치유·통증 모두 우수(전부 p<0.05); 와파린군이 아스피린군보다 모든 지표에서 유의하게 나쁨.
+
+지역 지혈제로 항응고제 중단 불필요; 선택 시 산화셀룰로오스 권장 — 단, 비무작위 고정 분악 배정, DOAC 환자 미포함이 한계.
 
 ## Summary
 

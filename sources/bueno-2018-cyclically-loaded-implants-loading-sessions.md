@@ -13,13 +13,21 @@ source_collection: external
 
 임플란트 주위 골치유에 대한 반복 하중의 용량-반응(dose-response) 관계를 동물 모델(쥐 경골)에서 직접 검증한 기초 연구. 교합 하중 빈도가 골-임플란트 접촉률(Bone-to-Implant Contact, BIC)과 골치유에 미치는 영향을 정량화해 [[wiki/occlusion/implant-occlusion-loading-biomechanics-overview]]의 과부하 역치 논의에 실험적 근거를 제공한다.
 
-## One-line Summary
+## Three-line Summary
 
-Rat tibia animal study (n=27, 3 groups) showing that doubling cyclic loading sessions (2× vs 1× per day, 60 cycles of 1.5 N, 7 days) significantly reduces BIC and increases bone-implant distance, demonstrating a dose-dependent detrimental effect of cumulative micromotion on early peri-implant bone healing.
+Animal study in rat tibia BIGI (bone-implant gap interface) model, n=27 (3 groups: unloaded, 1× daily loading, 2× daily loading; 60 cycles of 1.5 N axial force for 7 days); histomorphometry, FEA, and DNA microarray at 7-day endpoint.
 
-## 한줄요약
+Doubling daily loading sessions (2× vs 1× or unloaded) significantly reduced bone-to-implant contact (BIC) and bone formation area near the implant and increased bone-implant distance (BID), with FEA showing ~94 µm implant displacement and up to 60% compressive strain at thread crests.
 
-쥐 경골 동물 실험(n=27, 3군)에서 하루 2회 반복 하중군이 1회군 및 무하중군에 비해 골-임플란트 접촉률(BIC) 유의감소·골-임플란트 거리(BID) 유의증가를 보여, 누적 미세동요(micromotion)의 용량 의존적 골치유 악화 효과를 규명하였다.
+1× daily loading produced no significant difference from unloaded controls, suggesting a threshold exists; the mechanism appears to be cumulative inflammation (enhanced in 2× group by microarray), and the finding is specific to a machined-surface implant in a gap-healing model.
+
+## 세줄요약
+
+쥐 경골 골-임플란트 간격 계면(Bone Implant Gap Interface, BIGI) 모델, n=27(무하중·1일1회·1일2회 3군), 1.5 N 축방향 60사이클 7일간 반복 하중; 조직형태계측·유한요소해석(Finite Element Analysis, FEA)·DNA 마이크로어레이 분석.
+
+1일 2회 하중군은 1회군·무하중군 대비 골-임플란트 접촉률(Bone-to-Implant Contact, BIC)과 접촉면 신생골 면적이 유의감소, 골-임플란트 거리(Bone-Implant Distance, BID)가 유의증가(p<0.05); FEA상 나사산 정부 최대 60% 압축변형률, ~94 µm 임플란트 변위.
+
+1일 1회 하중은 무하중 대조군과 유의차 없어 허용 역치가 존재함을 시사; 2회군 마이크로어레이에서 염증·면역 경로 상향조절이 심화 — 기계가공면 임플란트의 간격치유 특정 모델 결과이므로 표면처리 임플란트 임상 직접 일반화는 제한.
 
 ## 1. Document Information
 

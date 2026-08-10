@@ -17,13 +17,21 @@ text_filename: morales-schwarz-2025-1mm-interimplant-distance-10year-case.txt
 
 임플란트 간격 관련 핵심 케이스: 권고 기준 3 mm보다 훨씬 좁은 1 mm IID에서 10년 관찰. 현대 임플란트 디자인(내부 원추형 연결부, 플랫폼 스위칭, 오목형 지대주, 치조정하 식립)이 골소실 방지에 미치는 영향을 보여줌. [[implants/tarnow-2000-inter-implant-distance-crestal-bone-height]] 의 3 mm 룰 원조 논문에 대한 중요한 임상적 업데이트.
 
-## One-line Summary
+## Three-line Summary
 
-Case report + literature review (10yr follow-up, IID=1 mm, platform-switch BL implants): bone maintained 1.40 mm coronal to implant-abutment connection at 10 years; 2 animal studies on 1 mm IID also show no bone loss vs wider distances.
+Case report + literature review (10yr follow-up, IID=1 mm, platform-switch BL implants): bone maintained 1.40 mm coronal to implant-abutment connection at 10 years;
 
-## 한줄요약
+2 animal studies on 1 mm IID also show no bone loss vs wider distances.
 
-케이스보고+문헌고찰 (10년, IID=1 mm, 플랫폼 스위칭 골수준 임플란트): 임플란트-지대주 연결부보다 1.40 mm 상방 골 유지; 1 mm IID 동물실험 2편도 넓은 거리 대비 골소실 없음.
+(incomplete)
+
+## 세줄요약
+
+케이스보고+문헌고찰 (10년, IID=1 mm, 플랫폼 스위칭 골수준 임플란트): 임플란트-지대주 연결부보다 1.40 mm 상방 골 유지;
+
+1 mm IID 동물실험 2편도 넓은 거리 대비 골소실 없음.
+
+(incomplete)
 
 ## 1. Document Information
 - **Journal**: International Journal of Implant Dentistry 2025;11(1):8

@@ -13,13 +13,21 @@ source_collection: external
 
 신규 [[overviews/narrow-diameter-implants-clinical-outcomes-overview]] 의 무치악 하악 overdenture 축을 담당. 한국 연구진(고려대) SR+MA로, NDI가 RDI 대비 생존·MBL 동등하면서 환자만족·OHRQoL은 오히려 우위라는 PROM 차원의 근거 — 노년·의학적 취약 환자 적응증과 직결.
 
-## One-line Summary
+## Three-line Summary
 
 SR+MA (12 publications, 8 independent studies) finding narrow-diameter implants for mandibular overdentures match regular-diameter implants on survival and MBL while delivering significantly better patient satisfaction and oral health-related quality of life.
 
-## 한줄요약
+(incomplete)
 
-12편 논문(독립 연구 8편) 체계적 고찰·메타분석. 하악 임플란트 피개의치(mandibular overdenture)에서 좁은 직경 임플란트(NDI)는 정규 직경(RDI)과 생존율·변연골소실(MBL)이 동등했고, 환자 만족도(VAS)와 구강건강 삶의질(OHRQoL)은 유의하게 더 좋았다.
+(incomplete)
+
+## 세줄요약
+
+12편 논문(독립 연구 8편) 체계적 고찰·메타분석.
+
+하악 임플란트 피개의치(mandibular overdenture)에서 좁은 직경 임플란트(NDI)는 정규 직경(RDI)과 생존율·변연골소실(MBL)이 동등했고, 환자 만족도(VAS)와 구강건강 삶의질(OHRQoL)은 유의하게 더 좋았다.
+
+(incomplete)
 
 ## 1. Document Information
 - Journal: Journal of Prosthodontics 2023;32(8):669–678 (first published June 27, 2023)

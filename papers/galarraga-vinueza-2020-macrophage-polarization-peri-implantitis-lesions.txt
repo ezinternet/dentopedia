@@ -1,0 +1,61 @@
+Macrophage polarization in peri-implantitis lesions
+
+Galarraga-Vinueza ME, Obreja K, Ramanauskaite A, Magini R, Begic A, Sader R, Schwarz F.
+Clinical Oral Investigations. 2021;25(4):2335-2344.
+DOI: 10.1007/s00784-020-03556-2 · PMID: 32886246 · PMCID: PMC7966129
+Source: https://pmc.ncbi.nlm.nih.gov/articles/PMC7966129/
+
+=== ABSTRACT ===
+
+Objectives: To immunohistochemically characterize and correlate macrophage M1/M2 polarization status with disease severity at peri-implantitis sites.
+
+Materials and methods: A total of twenty patients (n=20 implants) diagnosed with peri-implantitis (bleeding on probing with or without suppuration, probing depths ≥6 mm, and radiographic marginal bone loss ≥3 mm) were included. Severity classified as slight, moderate, and advanced. Granulation tissue biopsies were obtained during surgical therapy and prepared for immunohistological assessment and macrophage polarization characterization. Macrophages, M1, and M2 phenotypes were identified through immunohistochemical markers (CD68, CD80, and CD206) and quantified through histomorphometrical analyses.
+
+Results: Macrophages exhibiting positive CD68 expression occupied a mean proportion of 14.36% (95% CI 11.4-17.2) of the inflammatory connective tissue (ICT) area. Positive M1 (CD80) and M2 (CD206) macrophages occupied 7.07% (95% CI 5.9-9.4) and 5.22% (95% CI 3.8-6.6) of the ICT, respectively. Mean M1/M2 ratio was 1.56 (95% CI 1.12-1.9). Advanced peri-implantitis cases expressed significantly higher M1 (%) vs M2 (%). Significant correlation between CD68 (%) and M1 (%) expression and probing depth (PD) values.
+
+Conclusion: Macrophages constitute a considerable proportion of the inflammatory cellular composition at peri-implantitis sites, revealing significantly higher M1 inflammatory phenotype expression at advanced peri-implantitis sites, which could play a critical role in disease progression.
+
+Clinical relevance: Macrophages have critical functions to establish homeostasis and disease. Bacteria might induce oral dysbiosis unbalancing the host's immunological response and triggering inflammation around dental implants. M1/M2 status could reveal peri-implantitis' underlying pathogenesis.
+
+=== INTRODUCTION ===
+
+Macrophages are central players in immune-inflammatory processes with high cellular plasticity and phagocytic capacity. Macrophages activated by bacterial sub-products (lipopolysaccharides) or IFN-γ present an M1 phenotype associated with pro-inflammatory responses, phagocytosis, tissue destruction, and IL-6/IL-1β production. Alternative M2 macrophages are associated with anti-inflammatory reactions, IL-10 and TGF-β production, tissue repair, and angiogenesis.
+
+Peri-implantitis is a plaque-associated inflammatory pathological condition in tissues around dental implants. Carcuac and Berglundh reported macrophages occupied 11% of inflammatory cell composition at peri-implantitis sites. Limited studies assess macrophage polarization in periodontal disease; some suggest periodontitis pathogenesis relates to enhanced M1 inflammatory expression (Zhou et al.: higher M1 in periodontitis vs gingivitis/healthy, higher M1/M2 ratio). One study comparing periodontitis and peri-implantitis showed peri-implantitis sites had higher M1 polarization. This study aimed to characterize and correlate M1/M2 polarization with disease severity at peri-implantitis sites.
+
+=== MATERIALS AND METHODS ===
+
+20 patients (n=20 implants, mean age 66.7 y, range 53-80) treated at Department of Oral Surgery and Implantology, Goethe University Frankfurt (May-Nov 2019). Peri-implantitis = BOP with/without suppuration + PD ≥6 mm + radiographic MBL ≥3 mm. Severity by defect length and MBL ratio: slight <25%, moderate 25-50%, advanced >50% of implant length. Ethics protocol 92/19.
+
+Inclusion: signed consent; ≥18 y; partially/totally edentulous with implant-supported prosthesis; ≥1 screw-type titanium implant diagnosed with peri-implantitis indicated for surgery; no implant mobility; plaque index <1; non-smokers.
+Exclusion: contraindications for surgery; untreated periodontal disease; pregnant/lactating; autoimmune/inflammatory diseases; uncontrolled diabetes (HbA1c >7); corticosteroid therapy; smokers.
+
+Clinical: KM width; BOP; PD; plaque index; mucosal recession; suppuration. Six aspects per implant. MBL via ImageJ radiographic evaluation.
+
+Sample collection: pre-operative supra-gingival cleaning; standardized surgical protocol. All granulation tissue circumferentially harvested from the intrabony defect area using plastic curettes, rinsed with saline, placed in 4% buffered formalin. Serial 4 μm sections.
+
+Immunohistochemistry: CD68 (1:200, macrophages), CD80 (1:200, M1), CD206 mannose receptor (1:300, M2). EnVision detection, Mayer's hematoxylin counterstain.
+
+Histological analysis: infiltrated connective tissue (ICT) surface area delimited; positive cell proportions (%) for macrophages, M1, M2 per sample. CD68 used as control to corroborate CD80/CD206 areas correspond to macrophages.
+
+Statistics: paired t-test (M1 vs M2 within severity), one-way ANOVA + Tukey (among groups), linear regression (CD68%, M1%, M2%, M1/M2 vs BOP% and PD). α=0.05. n=6 per severity group (moderate had n=8, random-sampled to 6 for inter-group).
+
+=== RESULTS ===
+
+20 patients (12 F, 8 M). Seven (35%) had history of periodontal disease. None smokers. Mean implant function 9.15 ± 6 years before surgery.
+
+Granulation tissue biopsies mean surface area 7.61 ± 1.4 mm². ICT surface area 2.5 ± 1.9 mm² (33% of biopsy). CD68 macrophages occupied mean 14.36% (95% CI 11.4-17.2) of ICT. M1 (CD80) 7.07% (95% CI 5.9-9.4); M2 (CD206) 5.22% (95% CI 3.8-6.6). No significant difference between overall mean M1 and M2 (p>0.05). Mean M1/M2 ratio 1.56 (95% CI 1.12-1.9).
+
+By severity: slight (n=6) CD68 13%, M1 7.5%, M2 6%; moderate (n=6) CD68 15.8%, M1 6.1%, M2 5.5%; advanced (n=6) CD68 12.8%, M1 8.5%, M2 3.9%. M1% significantly higher than M2% at advanced cases (p=0.01). No significant M1/M2 differences among the three severity groups.
+
+Linear regression: CD68% significantly correlated with PD (Coef=3.18, R=0.77, p=2.7E-07). M1% significantly correlated with PD (Coef=1.65, R=0.57, p=0.0001). No significant associations between PD/BOP and M2% or M1/M2 ratio.
+
+=== DISCUSSION ===
+
+Macrophages constitute a distinct proportion of the inflammatory infiltrate at peri-implantitis sites, with higher M1 inflammatory phenotype and increased M1/M2 ratio, particularly at advanced cases. CD68% and M1% correlated with PD, implying macrophages play a considerable role in peri-implantitis onset and progression.
+
+First study associating macrophage polarization with peri-implant disease severity. Results (CD68 ~14%, M1 ~7%) closely relate to a prior periodontitis-vs-peri-implantitis comparison (14.92% CD68, 7.06% M1). M1 phenotype relates to "destructive" inflammatory response and osteolytic effect. In chronic inflammation, Th1/Th17 promote inflammation/osteolysis (M1), whereas Th2/Tregs reduce disease (M2). M1→M2 switch central to decreasing chronic inflammation and osteolytic effects.
+
+Prior studies: macrophages 5-11% of inflammatory composition at peri-implantitis (Berglundh 5.2%; Carcuac & Berglundh 11%). This study's higher proportion (14.36%) may relate to severity or to focus on intrabony-defect granulation tissue (vs supracrestal biopsies), since macrophages play a key role in granulation tissue formation. Limitations: no healthy peri-implant tissue comparison (ethical); peri-implant soft tissue component not analyzed; marker cross-reactivity (CD68/CD80/CD206 can stain other cells).
+
+Conclusion: Macrophages show higher M1 inflammatory phenotype and higher M1/M2 ratio, particularly at advanced peri-implantitis sites; M1 could play an important role in inflammatory response, progression, and osteolytic effect. Future research on immune-modulating agents to modulate M1/M2 status for disease resolution and tissue repair.

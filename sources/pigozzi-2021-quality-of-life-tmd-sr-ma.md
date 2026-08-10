@@ -12,11 +12,21 @@ source_collection: external
 ## Why Ingested
 TMD 환자의 삶의 질을 RDC/DC-TMD 진단 그룹별로 정량화한 첫 SR+MA. [[tmj/kapos-2020-temporomandibular-disorders-aetiology-diagnosis-review]]의 역학·삶의 질 서술을 메타분석 수치로 확인; [[tmj/yao-2023-chronic-tmd-pain-sr-nma-bmj]]의 만성 통증 치료 NMA의 QoL 근거를 보강.
 
-## One-line Summary
-SR+MA (24 studies, n=3,829, Health Qual Life Outcomes 2021): all TMD axis I groups show significantly worse QoL vs controls; muscle disorders (SMD 0.82) and arthralgia/arthrosis (SMD 0.98) worse than disc displacement (SMD 0.59).
+## Three-line Summary
 
-## 한줄요약
-SR+MA (24편, n=3,829): 모든 TMD 진단 그룹에서 삶의 질 유의하게 저하; 근육형·관절통/관절염형이 디스크변위형보다 더 낮음.
+SR+MA (24 studies, n=3,829, Health Qual Life Outcomes 2021): all TMD axis I groups show significantly worse QoL vs controls;
+
+muscle disorders (SMD 0.82) and arthralgia/arthrosis (SMD 0.98) worse than disc displacement (SMD 0.59).
+
+(incomplete)
+
+## 세줄요약
+
+SR+MA (24편, n=3,829): 모든 TMD 진단 그룹에서 삶의 질 유의하게 저하;
+
+근육형·관절통/관절염형이 디스크변위형보다 더 낮음.
+
+(incomplete)
 
 ## 1. Document Information
 - **Journal**: Health and Quality of Life Outcomes 19:83 (2021)

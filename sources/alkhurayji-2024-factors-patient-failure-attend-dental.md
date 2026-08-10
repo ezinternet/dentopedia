@@ -17,13 +17,21 @@ text_filename: alkhurayji-2024-factors-patient-failure-attend-dental.txt
 
 Adds the first operational appointment-attendance / no-show evidence to the practice-management category, which previously held only regulatory ([[practice-management/ha-2023-dentist-issues-constitutional-court-decisions]]) and clinical-workflow ([[practice-management/nosrat-2025-endodontist-gp-nsrct-clinical-approaches-cohort]]) pages. Missed appointments are a core chair-time and resource-efficiency problem; this retrospective gives concrete who/when patterns (single, female, ≤35y, morning slots) that managers can act on, extending the category from "what the clinic may do" toward "how the clinic runs its schedule."
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective record review of 1,364 missed dental appointments (Riyadh military medical city, Jan–May 2024): nonattendees were predominantly single (56.2%), female (60.7%), ≤35y (67.3%), with morning slots and new-patient/initial visits most missed; day-of-week and age vs. time/date showed no significant association.
+Retrospective secondary analysis (n=1,364 missed appointments, Prince Sultan Military Medical City Riyadh Dental Center, January–May 2024) using chi-square, ANOVA, and correlation tests to identify patient and scheduling factors associated with dental appointment nonattendance.
 
-## 한줄요약
+Nonattendees were predominantly single (56.2%), female (60.7%), and aged ≤35 years (67.3%); morning slots and new/initial-visit appointments had the highest miss rates (Tuesday peak n=331); however, no statistically significant associations were found between day-of-week and demographic variables (all p>0.05).
 
-사우디 리야드 군병원 치과센터의 4개월간 미내원(no-show) 1,364건 후향 분석 — 미내원자는 미혼(56.2%), 여성(60.7%), 35세 이하(67.3%)가 다수였고 오전·초진 예약에서 결석이 많았으며, 요일·연령과 시간/날짜 사이에는 유의한 연관이 없었다.
+The demographic skew (young, single, female, new-patient) provides operational targets — offering evening and walk-in slots may recover missed chair time; the single-center military-city population, 4-month window, and absence of a comparison attended-appointment group limit generalizability.
+
+## 세줄요약
+
+후향 2차 데이터 분석(n=1,364 미내원, 사우디 리야드 술탄왕자 군병원 치과센터, 2024.1–5): 카이제곱·ANOVA·상관분석으로 미내원 관련 환자·예약 요인 분석.
+
+미내원자는 미혼(56.2%)·여성(60.7%)·35세 이하(67.3%) 다수; 오전 예약·초진이 가장 많이 미내원(화요일 최고 n=331); 단, 요일-인구통계 변수 간 유의 연관 없음(모두 p>0.05).
+
+젊은 미혼 여성·초진 환자의 미내원 집중 패턴은 저녁 예약 및 당일 워크인 슬롯 제공이라는 운영적 대응 근거를 제공; 단 단일 군병원 소속 집단·4개월 기간·내원 비교군 없음이 일반화 한계.
 
 ## 1. Document Information
 

@@ -6,7 +6,7 @@ date: 2014-06-10
 doi: 10.1016/j.apmr.2014.05.021
 source: martin-pintado-2014-spray-stretch-postneedling-soreness-rct.md
 category: [tmj]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: false
 pmid: "24928191"
@@ -22,13 +22,21 @@ relations:
 > [!note] Extra-masticatory (transferable) evidence
 > Conducted on a **latent trigger point in the upper trapezius of healthy volunteers** — not symptomatic masticatory pain. Filed under `tmj` to keep the spray-and-stretch cluster together; read it as technique-level evidence with limited direct transfer to jaw muscles.
 
-## One-line Summary
+## Three-line Summary
 
-Single-blind RCT (n=70 healthy, latent upper-trapezius MTrP) — spray-and-stretch after dry needling reduced postneedling soreness but only short-term (<6 h); no effect on pressure pain threshold; psychological distress correlated with postneedling pain.
+Single-blind RCT (n=70 healthy volunteers, latent upper-trapezius trigger point) testing spray-and-stretch (ethyl chloride) vs no intervention after dry needling, with 72-hour VAS soreness and pressure pain threshold follow-up.
 
-## 한줄요약
+Spray-and-stretch significantly reduced postneedling soreness immediately after application (F=3.19, P<.05) but between-group difference was gone by 6 hours; pressure pain threshold was unchanged (P=.131); psychological distress (somatization, anxiety, hostility) correlated with postneedling pain.
 
-단일맹검 RCT (n=70 건강인, 상부 승모근 잠복 트리거포인트) — 건침 후 분사신장이 건침통증을 줄였으나 효과는 단시간(<6시간)에 그쳤고 압통역치는 변화 없음; 심리적 디스트레스가 건침후 통증과 상관.
+Spray-and-stretch is a short-lived adjunct to blunt postneedling soreness rather than a durable analgesic; its role is transient neurophysiologic (cutaneous-cooling reflex), not tissue change.
+
+## 세줄요약
+
+단일맹검 RCT (n=70 건강인, 상부 승모근 잠복 트리거포인트): 건침 후 분사신장(에틸클로라이드) vs 무처치 비교, 72시간 VAS 통증 및 압통역치 추적.
+
+분사신장이 적용 직후 건침통증 유의하게 감소(F=3.19, P<.05)했으나 6시간 후 군 간 차이 소멸; 압통역치는 변화 없음(P=.131); 심리적 디스트레스가 건침후 통증과 상관.
+
+분사신장은 건침 후 통증을 단기(6시간 미만)에 경감하는 보조 수단이며, 지속적 진통보다는 피부냉각 반사에 의한 일시적 신경생리 효과임.
 
 ## Summary
 

@@ -13,13 +13,21 @@ source_collection: external
 
 [[wiki/drug/moore-2015-single-dose-oral-analgesics-cochrane-overview]]는 단회용량 경구진통제의 효능을 광범위하게 다루지만 etoricoxib 개별 약물의 발치 후 통증 효능은 따로 정량화하지 않았다. 본 2021 SR+MA는 사랑니 수술 후 etoricoxib 단독을 비선택 NSAID와 직접 비교해 그 gap을 확장(extends)하며, 한국 치과 발치 후 진통 프로토콜 결정에 직접 적용 가능하다.
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 8 high-quality trials (6 pooled) found etoricoxib (120 mg the dominant dose) significantly reduced the NUMBER of patients needing rescue analgesia after third molar surgery vs nonselective NSAIDs (p=0.0004; vs ibuprofen 400 mg p=0.00001), with no significant difference in adverse effects.
+Systematic review + meta-analysis of 8 high-quality RCTs (6 pooled in quantitative synthesis) comparing etoricoxib vs nonselective NSAIDs for analgesia after third molar surgery.
 
-## 한줄요약
+Etoricoxib 120 mg (the dominant dose) significantly reduced the proportion of patients requiring rescue analgesia vs nonselective NSAIDs overall (p=0.0004) and specifically vs ibuprofen 400 mg (p=0.00001); no significant difference in adverse effects.
 
-8편의 고품질 임상시험(6편 메타분석)을 종합한 SR+MA로, etoricoxib(주로 120 mg)가 사랑니 수술 후 비선택적 NSAID 대비 구제 진통제가 필요한 환자 수를 유의하게 줄였고(p=0.0004, 이부프로펜 400 mg 대비 p=0.00001), 이상반응에는 유의한 차이가 없었다.
+Limited by few high-quality trials and predominantly single-dose, short-term postoperative data; several efficacy outcomes derived from single studies only.
+
+## 세줄요약
+
+사랑니 수술 후 진통을 위해 etoricoxib과 비선택적 NSAID를 비교한 8편의 고품질 RCT를 종합한 SR+MA(6편을 정량 합성).
+
+Etoricoxib 120 mg(주요 용량)은 비선택적 NSAID 대비 구제 진통제가 필요한 환자 비율을 유의하게 감소(p=0.0004)시켰고, 특히 이부프로펜 400 mg 대비에서 통계적으로 강력한 우월성 입증(p=0.00001); 이상반응에는 차이 없음.
+
+고품질 임상시험 수 적음, 주로 단회용량 단기 수술 후 진통 데이터 제한, 일부 결과는 단일 연구 유래 등의 한계 존재.
 
 ## 1. Document Information
 

@@ -13,11 +13,21 @@ source_collection: external
 
 [[overviews/dentin-hypersensitivity-overview]]의 진단·기전·치료 단계 흐름에 임상 의사결정 narrative를 보강. 환자 동기·술자 지식이 장기 결과를 좌우한다는 점을 강조해 in-office/at-home 옵션 선택의 맥락 제공.
 
-## One-line Summary
+## Three-line Summary
+
 Narrative review summarizing DH mechanisms (hydrodynamic theory), diagnosis, and at-home/in-office treatment options, emphasizing that successful outcomes depend on patient motivation and clinician knowledge.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 Narrative review: DH 기전(유체역학설)·진단·가정용/진료실용 치료를 정리하고, 성공적 결과는 환자 동기와 술자 지식에 달렸음을 강조.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - Dental and Medical Problems 2022;59(3):451–460. Universiti Sains Malaysia.

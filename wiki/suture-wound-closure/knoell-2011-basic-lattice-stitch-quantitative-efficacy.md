@@ -6,7 +6,7 @@ date: 2011-12-01
 doi: 10.1111/j.1524-4725.2011.02125.x
 source: knoell-2011-basic-lattice-stitch-quantitative-efficacy.md
 category: [suture-wound-closure]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/knoell-2011-basic-lattice-stitch-quantitative-efficacy.pdf
 pdf_filename: knoell-2011-basic-lattice-stitch-quantitative-efficacy.pdf
 source_collection: external
@@ -16,13 +16,21 @@ tags: [suture-biomechanics, lattice-stitch, tension-dispersion, dermatologic-sur
 > [!warning] Source is abstract-only
 > The ingested PDF is the publisher abstract page (full text paywalled). All numeric values are from the structured abstract; the force-measurement device, full methods, and figures were not recoverable. Re-ingest from full text for deeper methodology.
 
-## One-line Summary
+## Three-line Summary
 
-Biomechanical clinical-repair study (n=21 closures, closing tensions 0.3-4.0 N): the basic lattice stitch dispersed 54.4 ± 3.2% more tissue tension away from the perpendicular plane of closure than a simple interrupted stitch (p<.005).
+Biomechanical clinical-repair study (n=21 wound closures, closing tensions 0.3–4.0 N) comparing the basic lattice stitch to a simple interrupted stitch across the relevant range of wound-closure forces.
 
-## 한줄요약
+The lattice stitch reduced tissue tension in the perpendicular plane of closure by 54.4 ± 3.2% compared with simple interrupted suture (p<.005).
 
-생체역학 임상 봉합 연구 (n=21 봉합, 폐쇄 장력 0.3-4.0 N): 기본 격자 봉합(basic lattice stitch)이 단순 단속 봉합보다 폐쇄 수직면에서 조직 장력을 54.4 ± 3.2% 더 분산시켰음 (p<.005).
+The lattice stitch is mechanically justified for high-tension or atrophic-skin repairs where redistributing force away from the closure plane reduces the risk of tearing and wound dehiscence; limited by abstract-only data and no healing outcomes.
+
+## 세줄요약
+
+임상 창상 봉합 생체역학 연구(n=21, 폐쇄 장력 0.3–4.0 N)로 기본 격자 봉합과 단순 단속 봉합을 비교.
+
+격자 봉합이 폐쇄 수직면의 조직 장력을 단순 봉합 대비 54.4±3.2% 줄임(p<.005).
+
+고장력 또는 위축 피부 봉합에서 격자 봉합은 장력 재분산의 생체역학적 근거를 제공하나 초록 수준 데이터이며 치유 결과는 보고되지 않음.
 
 ## Summary
 

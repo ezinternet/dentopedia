@@ -8,7 +8,7 @@ pmid: "37065128"
 pmcid: "PMC10103904"
 source: zheng-2023-oral-gut-microbiome-black-stain-caries.md
 category: [caries]
-confidence: cross-sectional
+evidence_level: cross-sectional
 source_collection: pubmed-text
 text_path: /Users/oracleneo/llm-wiki/papers/zheng-2023-oral-gut-microbiome-black-stain-caries.txt
 text_filename: zheng-2023-oral-gut-microbiome-black-stain-caries.txt
@@ -19,13 +19,21 @@ relations:
     target: li-2015-microbiota-black-stain-primary-dentition
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Epidemiologic survey (n=2,675 preschool children) found EBS prevalence of 12.10% with significantly lower caries/dmft in EBS children; 16S rRNA profiling showed Actinomyces/Rothia enrichment in EBS+ caries-free plaque and, for the first time, a Lactobacillus-enriched gut microbiome signature in EBS+ children.
+Two-phase cross-sectional study: epidemiologic survey (n=2,675 preschool children aged 3–6 years, China) combined with 16S rRNA microbiome profiling of supragingival plaque and fecal samples in four EBS×caries groups (BCP, BP, CP, P; n=13 each).
 
-## 한줄요약
+EBS prevalence was 12.10%; EBS children had significantly lower caries prevalence and dmft (p<0.01); Actinomyces and Rothia were enriched in EBS+/caries-free plaque, while Streptococcus mutans dominated the caries-only (no EBS) group.
 
-취학 전 아동 2,675명 역학조사에서 EBS 유병률 12.10%, EBS 아동은 우식·dmft가 유의하게 낮았으며, EBS+ 무우식 치태에서 Actinomyces·Rothia 증가 및 EBS+ 아동의 장내 Lactobacillus 고유 신호가 처음 보고되었다.
+This is the first study to characterize the gut microbiome in EBS children: a distinctive Lactobacillus-enriched gut signature in the EBS+/caries-free group suggests a potential systemic or immune component to EBS-associated caries protection.
+
+## 세줄요약
+
+역학조사(n=2,675명, 3–6세 취학 전 아동, 중국)와 치은연상 치태 및 분변의 16S rRNA 미생물 군집 분석을 결합한 2단계 단면 연구(EBS×우식 4군: BCP·BP·CP·P, 각 n=13).
+
+조기 흑색 착색(Early Black Stain, EBS) 유병률 12.10%; EBS 아동은 우식 유병률·dmft 유의하게 낮음(p<0.01); EBS+/무우식 치태에서 Actinomyces·Rothia 증가, 우식만(EBS 없음) 군에서 Streptococcus mutans 우점.
+
+EBS 아동의 장내 미생물 군집을 최초로 규명 — EBS+/무우식 군에서 Lactobacillus 풍부한 고유 장내 신호가 확인되어 전신적 또는 면역적 기전의 가능성을 시사.
 
 ## Summary
 

@@ -3,7 +3,7 @@ title: "Present status and future directions of intracanal medicaments"
 authors: "Ordinola-Zapata R, Noblett WC, Perez-Ron A, Ye Z, Vera J"
 year: 2022
 doi: "10.1111/iej.13731"
-category: [endodontics]
+category: ['endodontics/irrigation']
 pdf_path: /Users/oracleneo/llm-wiki/papers/ordinola-zapata-2022-intracanal-medicaments-status-directions.pdf
 pdf_filename: ordinola-zapata-2022-intracanal-medicaments-status-directions.pdf
 source_collection: external
@@ -12,11 +12,21 @@ source_collection: external
 ## Why Ingested
 Companion IEJ 2022 supplement review covering the inter-appointment phase of root canal treatment — when and why to use intracanal medicaments — directly extending [[endodontics/irrigation/boutsioukis-2022-irrigants-irrigation-methods-status-directions]] and providing the post-irrigation clinical decision framework not covered by [[endodontics/irrigation/khoury-2024-endodontic-irrigants-comprehensive-perspective-review]].
 
-## One-line Summary
+## Three-line Summary
+
 Narrative review examining calcium hydroxide and other intracanal medicaments, proposing a staging system for apical periodontitis severity to guide medicament selection and multi-appointment strategy, with ~19% of patients developing severe postoperative pain at 1 week cited as a key clinical trigger.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 Narrative review: 근관내 약제(수산화칼슘 중심) 적응증·병기별 선택 전략 — AP 병기 분류 제안, 술후 심한 통증 발생률 19% 등 임상 예후 인자 정량화.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - Int Endod J. 2022;55(Suppl 3):613–636. Received 12 February 2022; accepted 21 March 2022.

@@ -1,0 +1,18 @@
+Title: Enamel damage from tooth-whitening- a systematic review and meta-analysis.
+Authors: Márton P, Antal M, Kiss-Dala S, Agócs G, Qian X, Hegyi P, Varga G, Ábrám E
+Journal: Journal of Dentistry, 2026; 172:106786
+DOI: 10.1016/j.jdent.2026.106786
+PMID: 42176771
+Publication Date: 2026-05-22
+
+ABSTRACT:
+
+Objective: To determine whether hydrogen- or carbamide-peroxide bleaching alters human enamel microhardness using ISO 28,399-aligned eligibility criteria.
+
+Methods: Following PRISMA 2020 and Cochrane Handbook guidelines (PROSPERO CRD42023472326), four databases were systematically searched. In vitro studies measuring enamel Vickers or Knoop microhardness before and after bleaching were included. A multilevel random-effects meta-analysis using log-transformed ratios of means (ROM) was performed. Prespecified moderators, including peroxide concentration, exposure time, indentation load and dwell time, were examined using meta-regression.
+
+Results: Of 81 eligible studies, nine entered quantitative synthesis. Pooled analysis showed a small microhardness reduction (ROM = 0.89; 95% CI: 0.84–0.94; p < 0.01). Exposure time was a significant moderator: a tenfold increase corresponded to a 6.8% decrease in Knoop hardness (95% CI: 13.0%–0.2%; p = 0.044). This association became non-significant after exclusion of one influential study (estimate: 1.9% decrease; 95% CI: 6.8% decrease – 3.3% increase). Residual heterogeneity remained moderate (tau = 0.074; I² = 50.8%). Time-course analyses suggested larger changes at lower peroxide concentrations.
+
+Conclusion: Peroxide-based bleaching produced statistically detectable but small, outlier-sensitive enamel microhardness reductions, without clear evidence of clinically meaningful effects (ROM exceeding 10%). Current evidence does not strongly support strict regulatory peroxide limits. Further ISO 28,399-compliant studies are needed. Within the limitations of in vitro evidence, peroxide bleaching appears unlikely to cause clinically meaningful harm in enamel integrity, when used according to recommended protocols, supporting continued clinical use. More standardized, clinically relevant outcome measures rather than isolated laboratory hardness measurements are needed.
+
+Keywords: Carbamide peroxide; Dental enamel; Enamel microhardness; Hydrogen peroxide; Meta-analysis; Tooth bleaching

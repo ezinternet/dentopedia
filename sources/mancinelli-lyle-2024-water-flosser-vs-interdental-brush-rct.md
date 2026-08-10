@@ -17,13 +17,21 @@ text_filename: mancinelli-lyle-2024-water-flosser-vs-interdental-brush-rct.txt
 
 기존 위키에는 치간청소 기기 간 직접 head-to-head 비교가 부족했다 — [[interdental-cleaning/thomassen-2025-airfloss-essential-oils-vs-floss-rct]]는 에어플로스 vs 치실(군간 무차이), [[interdental-cleaning/yiamwattana-2025-oral-irrigator-vs-floss-orthodontic-sr-ma]]는 구강세정기 vs 치실(NS)이었다. 본 RCT(Mancinelli-Lyle 2024)는 물세정기(WF) vs **치간칫솔(IDB)**을 4주간 BOPP/BOMP·치은마모로 직접 비교한 드문 동급 비교로, 치간청소 기기선택 질문에 핵심 근거를 보강한다.
 
-## One-line Summary
+## Three-line Summary
 
 RCT (single-blind parallel, n=78 young adults with moderate gingivitis): water flosser (WF, n=40) vs interdental brush (IDB, n=38) adjunct to manual brushing over 4 weeks — both reduced BOMP/BOPP (p=0.000), but WF was significantly more effective than IDB for marginal gingival health (all-sites BOMP p=0.003, BOPP p=0.030) with no difference in gingival abrasion.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 RCT(단일맹검 평행, n=78 중등도 치은염 청년): 물세정기(WF, n=40) vs 치간칫솔(IDB, n=38)을 칫솔질 보조로 4주 비교 — 두 기기 모두 BOMP/BOPP 감소(p=0.000)했으나, WF가 변연치은 건강(전체부위 BOMP p=0.003, BOPP p=0.030)에서 IDB보다 유의하게 더 효과적이었고 치은마모 차이는 없었다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

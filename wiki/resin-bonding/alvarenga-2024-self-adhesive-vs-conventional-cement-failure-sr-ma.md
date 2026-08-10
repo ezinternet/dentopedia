@@ -6,7 +6,7 @@ date: 2024-11-01
 doi: 10.1016/j.prosdent.2024.04.027
 source: alvarenga-2024-self-adhesive-vs-conventional-cement-failure-sr-ma.md
 category: [resin-bonding]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: false
 pmid: "38797576"
@@ -21,13 +21,21 @@ relations:
     target: ghodsi-2023-resin-cement-partial-coverage-sr
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review + meta-analysis of 9 RCTs finding no significant difference in the clinical failure rate of indirect single-tooth restorations cemented with self-adhesive resin cement versus conventional cements — self-adhesive resin cement is a technique-simplifying, recommendable luting option.
+SR+MA (PROSPERO CRD42020215577) of 9 RCTs comparing self-adhesive resin cement versus conventional cements for clinical failure rates of indirect single-tooth restorations using pooled hazard ratios.
 
-## 한줄요약
+8 of 9 trials and the pooled estimate showed no significant difference in failure rate between cement classes; one discordant trial reported higher failure for ceramic crowns with self-adhesive cement; overall pooled result favored no difference.
 
-RCT 9편의 체계적 문헌고찰 + 메타분석 — 간접 단일치 수복물을 자가접착 레진시멘트(self-adhesive resin cement)로 합착해도 기존 시멘트(conventional cement) 대비 임상 실패율에 유의차가 없어, 술식이 단순한 자가접착 레진시멘트를 임상적으로 권장할 수 있다.
+Self-adhesive resin cement can be recommended as a technique-simplifying default for routine indirect single-tooth restorations; caution applies to high-esthetic, low-strength ceramic crowns where conventional adhesive protocols may be preferable.
+
+## 세줄요약
+
+SR+MA (PROSPERO CRD42020215577) — 9편 RCT에서 자가접착 레진시멘트 (Self-Adhesive Resin Cement, SARC) vs 기존 시멘트 (Conventional Cement)의 간접 단일치 수복물 임상 실패율 비교 (위험비 풀링).
+
+9편 중 8편·전체 풀링 모두 군간 유의한 실패율 차이 없음; 1편에서 자가접착 레진시멘트 합착 세라믹 크라운의 유의 높은 실패 보고 — 유일한 불일치 결과; 전체 결론: 유의차 없음.
+
+자가접착 레진시멘트는 일반 간접 단일치 수복물에서 술식 단순화 목적으로 권장 가능; 고심미·저강도 세라믹 크라운에는 기존 접착 프로토콜이 더 적합할 수 있어 주의 요함.
 
 ## Summary
 
@@ -60,5 +68,5 @@ This is a **clinical-outcome** complement to the wiki's mostly in-vitro adhesive
 ## Related Papers
 
 - [[resin-bonding/borouziniat-2024-self-adhesive-vs-etch-resin-cement-zirconia-sr-ma]] — reinforces: in-vitro SR+MA showing self-adhesive ≈ self-etch bond strength to zirconia; Alvarenga extends that non-inferiority to clinical restoration survival.
-- [[resin-bonding/ghodsi-2023-resin-cement-partial-coverage-sr]] — applies-to: narrative SR on resin-cement selection per restoration type; Alvarenga gives RCT-level survival support, while Ghodsi's caution about thin/low-strength ceramics aligns with the lone discordant ceramic-crown trial here.
+- [[prosthetic-materials/ghodsi-2023-resin-cement-partial-coverage-sr]] — applies-to: narrative SR on resin-cement selection per restoration type; Alvarenga gives RCT-level survival support, while Ghodsi's caution about thin/low-strength ceramics aligns with the lone discordant ceramic-crown trial here.
 - [[resin-bonding/de-oliveira-2021-10-mdp-self-etch-adhesive-dentin-sr]] — refines: another instance where strong in-vitro signals did not translate into a clinical advantage, reinforcing caution about extrapolating bench data.

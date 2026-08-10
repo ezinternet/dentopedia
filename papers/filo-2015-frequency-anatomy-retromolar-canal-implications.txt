@@ -1,0 +1,12 @@
+Title: Frequency and anatomy of the retromolar canal - implications for the dental practice.
+Authors: Filo K, Schneider T, Kruse AL, Locher M, Grätz KW, Lübbers HT
+Journal: Swiss Dental Journal. 2015;125(3):278-92.
+DOI: 10.61872/sdj-2015-03-149
+PMID: 26168686
+
+Abstract:
+The retromolar canal (RMC) is an anatomical variant of the mandibular canal. Apart from blood vessels it also contains accessory nerve fibers and is clinically important, because its presence can account for failures of mandibular block anesthesias and in rare cases, injuries of its neurovascular bundle can lead to complications such as hemorrhages and dysesthesias. The aim of this retrospective case study was to analyze the frequency and anatomy of the RMC using cone beam computed tomography (CBCT) in order to draw conclusions for the dental practice. A total of 680 CBCT scans comprising 1,340 mandibular sides were evaluated. A total of 216 RMCs (16.12%) were found. The most common appearance of the canal (39.82%) corresponded to type A1 (vertical course), whereas type C (horizontal course) occurred least often (6.02%). Mean measured values were 1.03 mm (SD=0.27mm) regarding the RMC diameter, 10.19 mm (SD=2.64mm) regarding the RMC height and 15.10 mm (SD=2.83 mm) regarding the distance of the RMC to the second molar. Neither demographic factors nor the spatial resolution of the CBCT had a statistically significant impact on the frequency of the RMC. Since the present study revealed a frequency of RMCs amounting to 16.12% (corresponding approximately to every sixth retromolar area), we recommend to spare it during surgery or to consider an additional locoregional anesthesia in the retromolar region. For preoperative diagnosis the CBCT has proved suitable, offering the possibility to select the spatial resolution depending on the indication, so that radiation exposure is reduced without a decrease in validity.
+
+Keywords: retromolar canal; retromolar foramen; variation of mandibular canal; cone beam computed tomography.
+
+[Note: full text not retrieved — abstract only, per PubMed MCP metadata. No PMCID available for this article. Retrospective CBCT study, n=680 scans/1340 mandibular sides.]

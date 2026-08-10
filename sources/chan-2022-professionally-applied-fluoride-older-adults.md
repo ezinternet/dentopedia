@@ -13,11 +13,19 @@ source_collection: external
 
 신설 geriatric-dentistry의 실무 핵심(위생사 적용 가능). [[caries/meyer-lueckel-2019-intervene-root-caries-process-sr-ma]]의 비침습 개입을 노년 특화·정량으로 보강.
 
-## One-line Summary
-SR+MA (7 studies) - in older adults, 38% silver diamine fluoride both prevents and arrests root caries (root caries-prevented fraction 25-71%; arrest 42% at 24mo), while 5% NaF varnish (64%) and 1.23% APF gel (32%) prevent root caries.
+## Three-line Summary
+SR+MA of 7 clinical trials investigating professionally applied fluoride therapy (SDF, NaF varnish, APF gel) for root caries prevention and arrest in older adults.
 
-## 한줄요약
-SR+MA(7편) - 노인에서 38% SDF가 근관면 우식 예방·정지 모두 효과(예방분율 25-71%; 24개월 정지율 42%), 5% NaF varnish(64%)·1.23% APF gel(32%)은 예방 효과.
+38% silver diamine fluoride (SDF) both prevents root caries (prevented fraction 25–71%) and arrests existing lesions (42% arrest rate at 24 months); 5% NaF varnish prevents root caries at 64% and 1.23% APF gel at 32%.
+
+SDF is the only agent demonstrating both prevention and arrest of root caries in older adults, making it the preferred professionally applied agent for this population.
+
+## 세줄요약
+SDF·NaF varnish·APF gel의 노인 근관면 우식 예방·정지 효과를 검토한 임상시험 7편 SR+MA.
+
+38% SDF는 예방(예방분율 25–71%)과 정지(24개월 정지율 42%) 모두 효과; 5% NaF varnish 예방 64%, 1.23% APF gel 예방 32%.
+
+노인에서 예방과 정지를 모두 달성하는 유일한 전문가 적용 불소제는 SDF로, 고령 환자 우선 선택약임.
 
 ## 1. Document Information
 Journal of Dentistry 2022;125:104273 · Alice Kit Ying Chan, Manisha Tamrakar, Chloe Meng Jiang, Yiu Cheung Tsang, Katherine Chiu Man Leung, Chun Hung Chu · 2022 · DOI: 10.1016/j.jdent.2022.104273. Study type: sr+ma.
@@ -31,7 +39,7 @@ Journal of Dentistry 2022;125:104273 · Alice Kit Ying Chan, Manisha Tamrakar, C
 5개 DB(~2021.12), 비교군 있는 임상시험 7편. Cochrane RoB.
 
 ## 4. Key Results and Benchmarks
-38% SDF 근관면 우식 예방분율 25-71%, 24개월 정지율 42%(95%CI 33-49); NaF varnish 64%·APF 32% 예방 [근거강함~합의수준].
+38% SDF 근관면 우식 예방분율 25-71%, 24개월 정지율 42%(95%CI 33-49); NaF varnish 64%·APF 32% 예방 [확인].
 
 ## 5. Limitations and Future Work
 포함 7편, 추적·농도·빈도 이질.

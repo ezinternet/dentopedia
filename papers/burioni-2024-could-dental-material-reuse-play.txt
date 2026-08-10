@@ -1,0 +1,51 @@
+SOURCE: PubMed Central full text (PMC11048622)
+PMID: 38671808 | DOI: 10.3390/bioengineering11040387
+Burioni R, Silvestrini L, D'Orto B, Tetè G, Nagni M, Polizzi E, Gherlone EF.
+"Could Dental Material Reuse Play a Significant Role in Preservation of Raw Materials, Water, Energy, and Costs? Microbiological Analysis of New versus Reused Healing Abutments: An In Vitro Study."
+Bioengineering (Basel). 2024;11(4):387.
+
+== ABSTRACT ==
+Aim: Compare reused+sterilized versus new healing abutments (HAs) to assess whether a decontamination and sterilization process removes residual proteins; whether reused HAs are as safe as new.
+Materials/methods: Sept 2022–Oct 2023. HA screws divided into new vs previously-used-in-patients. Subjected to a decontamination+sterilization protocol; sterility evaluation + surface protein levels recorded.
+Results: Significant difference in OD562 nm between new and reused HAs. Treated HAs still contaminated by residual proteins.
+Conclusion: Although sterilization achieves total eradication of pathogens (from an infectious standpoint), surface proteins remain on reused healing abutments.
+
+== KEY FULL-TEXT POINTS ==
+Introduction:
+- Manufacturers widely acknowledge HAs as essential DISPOSABLE (single-use) components.
+- Reuse motivations: saving titanium, cost reduction, pollution reduction, WHO 2030 sustainability goals.
+- Main reason for "disposable" designation: intrinsic susceptibility to contamination and thread wear → can harm the implant internal structure, screw engagement area, titanium composition.
+- Analogy: stainless steel burs, titanium drills are reusable per manufacturer (ultrasonic bath + autoclave). So reusability is not unheard of in dentistry.
+- Central concern: contamination post-use. Plaque biofilm + gingival epithelium + blood + saliva → free proteins/amino acids firmly attached to titanium, hard to remove. Residual debris disrupts abutment–implant alignment, introduces contaminants into peri-implant soft tissue → immune/inflammatory response from denatured proteins.
+- Second concern: multiple sterilization cycles → surface alterations → weakened transmucosal barrier → bacterial infiltration → implant failure.
+
+Materials/Methods:
+- IRCCS San Raffaele Hospital, Milan. STROBE cohort guideline.
+- HAs: Winsix, Biosafin (Cefla, Imola, Italy).
+- One HA per patient, taken at implant reopening (bone healing 4–5 mo upper, 3 mo lower).
+- Test group (TG) = 40 reused+sterilized; Control group (CG) = 35 new.
+- Sterility: extraction under laminar flow, deposit in Tryptone Soya Broth, incubate 24 h at 37°C, turbidity = growth.
+- Surface protein: Micro BCA assay, OD 562 nm spectrophotometry.
+- Statistics: SPSS v20, Shapiro-Wilk, one-way ANOVA, independent t-test, Tukey adjustment, α=0.05.
+
+Results:
+- Sterility: NO turbidity in any sample (TG or CG). Protocol effective at removing infective agents / bacteria.
+- Residual protein: reused HAs coated with surface proteins even after sterilization.
+- Average residual protein in TG eluate = 23.88 µg/mL; total solution 500 µL → ~12 µg protein per screw.
+- One-way ANOVA F(2,45)=7.34, p<0.01.
+- Independent t-test new vs reused: t(30)=4.52, p<0.001.
+- Mean surface protein: reused 18.76 µg/mL (SD 3.62) vs new 9.35 µg/mL (SD 2.15); mean difference 9.41 µg/mL (95% CI 4.28–14.54).
+
+Discussion (cites prior literature):
+- Concordant: a 120-HA study (autoclave alone vs +airflow polishing vs +NaOCl) → significant debris in first two, minimal staining with NaOCl → decontamination achievable with specific procedures.
+- Bidra et al. SR: 6 studies; 3 said routine methods insufficient, 2 with additional regimen achieved complete removal, 1 said routine sufficient.
+- Wadhwani et al.: 100 HAs from 8 clinics; even after sterilization, 99% contaminated with proteins/peptides → transmission concern.
+- Stacchi et al.: 30 test HAs (mechanical+ultrasonic+autoclave) → 11 contaminated; all control HAs (automated cleaning + autoclave) contaminated.
+- Sanchez-Garces: 55 used+sterilized HAs, no bacterial growth but significant debris (total organic carbon).
+- Sennerby et al. (in vivo rat): used Ti screws → ↑ activated macrophages + fibrous encapsulation vs new.
+- Cakan et al.: 60 used+sterilized HAs; contaminated screw grooves in 10.5%, debris-filled driver slots in 5.2%.
+
+Conclusion:
+- Infectiously: reuse could be considered safe (bacteria more resistant than viruses; all sterile).
+- Protein: sterilization does NOT completely remove proteins; clinical significance of the new-vs-reused difference cannot be determined a priori.
+- Call for further study on other sterilization procedures + biomechanical implications.

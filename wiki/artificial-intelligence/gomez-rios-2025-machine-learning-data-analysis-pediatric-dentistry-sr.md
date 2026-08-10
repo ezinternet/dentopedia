@@ -6,7 +6,7 @@ date: 2025-05-01
 doi: 10.23804/ejpd.2025.2288
 source: gomez-rios-2025-machine-learning-data-analysis-pediatric-dentistry-sr.md
 category: [artificial-intelligence]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: false
 pmid: "40434067"
@@ -19,13 +19,21 @@ relations:
     target: garg-2026-artificial-intelligence-pediatric-dentistry-umbrella-review
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (PRISMA, QUADAS-2; 20 of 1945 screened articles) showing machine learning in paediatric dentistry is dominated by caries prediction (14/20 studies; socio-demographic/behavioural/biological predictors), with ML cost analyses favouring sealants + fluoride and authors calling for ML-specific methodological guidelines and quality scales.
+PRISMA systematic review (QUADAS-2; 4 databases; 1945 screened, 20 included) of machine-learning applications for database analysis in paediatric dentistry, covering caries prediction, OHRQoL in adolescents, sedation predictors, and preventive-service effectiveness.
 
-## 한줄요약
+Caries prediction dominated (14/20 studies; socio-demographic, behavioural, and biological predictors); ML cost analysis found early-caries children incur higher insurer costs and sealants + fluoride treatment groups show greater cost savings.
 
-체계적 문헌고찰(PRISMA, QUADAS-2; 1945편 중 20편)로, 소아치과 머신러닝(Machine Learning, ML)은 우식 예측(20편 중 14편; 사회인구·행동·생물학적 예측인자)에 집중되어 있고, ML 비용분석은 실란트+불소가 비용 절감에 유리함을 보였으며, ML 전용 방법론 지침·질 평가 척도가 필요하다고 결론.
+ML can surface patterns in large paediatric dental datasets, especially for caries risk stratification, but ML-specific methodological guidelines and quality-appraisal scales are still lacking; abstract-only limits per-model detail.
+
+## 세줄요약
+
+소아치과에서 머신러닝(Machine Learning, ML)을 이용한 데이터 분석 적용 현황을 다룬 체계적 문헌고찰(PRISMA, QUADAS-2; 4개 데이터베이스, 1,945편 스크리닝 후 20편 포함).
+
+우식 예측이 20편 중 14편으로 지배적(사회인구학적·행동·생물학적 예측인자 사용); ML 비용분석은 조기 우식 아동이 더 높은 보험비용을 유발하며 실란트+불소 처치군에서 더 큰 비용 절감을 보임.
+
+소아치과 ML은 대규모 데이터에서 패턴을 발굴하는 데 가치가 있으나 ML 전용 방법론 지침과 질 평가 척도가 없어 결과 해석에 주의가 필요하다(초록만 확보).
 
 ## Summary
 

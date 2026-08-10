@@ -6,7 +6,7 @@ date: 2018-09-04
 doi: 10.1001/jamainternmed.2018.3713
 source: panagioti-2018-retracted-physician-burnout-patient-safety.md
 category: professional-wellbeing
-confidence: sr+ma
+evidence_level: sr+ma
 retraction_status: RETRACTED
 pdf_path: /Users/oracleneo/llm-wiki/papers/panagioti-2018-retracted-physician-burnout-patient-safety.pdf
 pdf_filename: panagioti-2018-retracted-physician-burnout-patient-safety.pdf
@@ -20,13 +20,23 @@ This paper has been **RETRACTED** by JAMA Internal Medicine (a correction was al
 2. Recognize the paper when it shows up in others' references.
 3. Look for newer, non-retracted analyses on the same question.
 
-## One-line Summary
-[RETRACTED] SR+MA (originally 47 observational studies, 42,473 physicians) that reported physician burnout associated with ~2-fold odds of unsafe care, unprofessional behavior, and lower patient satisfaction — now retracted by JAMA Internal Medicine; the effect estimates must NOT be cited, and burnout→patient-outcome causal claims require separate non-retracted evidence. Page kept only as a retraction flag.
+## Three-line Summary
 
-## 한줄요약
-[RETRACTED] 원래 medic burnout이 환자 안전·전문직업성·환자 만족도 저하와 2배 odds로 연관된다는 SR+MA였으나 JAMA Intern Med에서 철회됨. effect size는 인용 금지. burnout → 환자 outcome 인과 추론에는 retraction 이후 nondisputed evidence를 별도 확인할 것.
+[RETRACTED] Originally an SR+MA of 47 observational studies (42,473 physicians) reporting physician burnout associated with ~2-fold odds of unsafe care, unprofessional behavior, and lower patient satisfaction — subsequently retracted by JAMA Internal Medicine.
 
-## Summary
+Effect estimates (OR ~2.0 for unsafe care, depersonalization as strongest subscale predictor, early-career amplification) must NOT be cited; the wiki page exists as an explicit retraction flag for a high-profile paper that accumulated heavy downstream citations before withdrawal.
+
+The general plausibility of burnout–adverse care correlations is not disproven, but quantification requires locating separate non-retracted evidence; this page serves only to prevent accidental citation of withdrawn data.
+
+## 세줄요약
+
+[RETRACTED] 원래 47개 관찰 연구(42,473명 의사) SR+MA로, 번아웃이 불안전 진료·비전문직업성·환자 만족도 저하와 약 2배 odds로 연관된다고 보고 — JAMA Intern Med에서 철회.
+
+효과 크기 추정치(OR ~2.0, 비인격화(DP) 최강 예측 인자, 초기 경력 증폭) 인용 금지; 고인용 논문이 철회 전 광범위하게 인용됐기 때문에 wiki는 명시적 retraction flag로 이 페이지를 유지.
+
+번아웃-환자 결과 상관관계의 일반적 타당성은 반증되지 않았으나, 수치 인용은 retraction 이후 비분쟁(non-disputed) 근거를 별도 확인 후 사용할 것.
+
+## Summary (Original Claims — Now Withdrawn, Do Not Cite)
 Panagioti et al. originally pooled 47 observational studies (42,473 physicians) and reported that physician burnout was associated with roughly 2-fold odds of unsafe care, unprofessional behavior, and lower patient satisfaction. Depersonalization was identified as the most consequential MBI subscale, and the burnout-unprofessionalism link was strongest in early-career physicians.
 
 **This meta-analysis has since been retracted.** The original PDF still shows up frequently in literature searches and downstream citations, so the wiki keeps it as a flagged entry rather than silently dropping it. Effect estimates from this paper should not appear in any of our derived clinical or operational documents.

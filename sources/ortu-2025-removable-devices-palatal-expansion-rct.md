@@ -16,13 +16,21 @@ text_filename: ortu-2025-removable-devices-palatal-expansion-rct.txt
 
 Highest-evidence (RCT) paper in the EF-Line / elastodontic myofunctional-orthodontics batch — it head-to-head compares an elastodontic device against a conventional removable expander on a hard transverse-expansion endpoint, anchoring the batch's strongest claim that elastodontic appliances can match traditional removable mechanics. Pairs directly with the sibling transverse/expansion comparison [[wiki/orthodontics/myofunctional/ortu-2024-haas-expander-vs-elastodontic-crossbite]], extending it from a fixed-vs-elastodontic contrast (Haas) to a removable-vs-elastodontic contrast (Schwartz plate). Abstract-only — full text not retrieved.
 
-## One-line Summary
+## Three-line Summary
 
-RCT (n=70 children, mean age 11±1 y) comparing the Eptamed Equilibrator elastodontic device (series 00) vs the Schwartz plate for palatal expansion of posterior crossbite; the elastodontic device achieved expansion comparable to the conventional removable plate but with greater patient comfort and compliance.
+RCT (n=70 children, mean age 11±1 y) comparing the Eptamed Equilibrator elastodontic device (series 00) vs the Schwartz plate for palatal expansion of posterior crossbite;
 
-## 한줄요약
+the elastodontic device achieved expansion comparable to the conventional removable plate but with greater patient comfort and compliance.
 
-후방 교차교합 아동 70명(평균 11±1세)을 대상으로 엘라스토돈틱 장치(Eptamed Equilibrator series 00)와 슈바르츠 판(Schwartz plate)의 구개 확장 효과를 비교한 무작위대조시험(RCT). 엘라스토돈틱 장치는 전통적 가철식 확장 장치와 동등한 확장량을 보이면서 환자 편안함과 순응도가 더 높았다 (초록만 확보).
+(incomplete)
+
+## 세줄요약
+
+후방 교차교합 아동 70명(평균 11±1세)을 대상으로 엘라스토돈틱 장치(Eptamed Equilibrator series 00)와 슈바르츠 판(Schwartz plate)의 구개 확장 효과를 비교한 무작위대조시험(RCT).
+
+엘라스토돈틱 장치는 전통적 가철식 확장 장치와 동등한 확장량을 보이면서 환자 편안함과 순응도가 더 높았다 (초록만 확보).
+
+(incomplete)
 
 ## 1. Document Information
 

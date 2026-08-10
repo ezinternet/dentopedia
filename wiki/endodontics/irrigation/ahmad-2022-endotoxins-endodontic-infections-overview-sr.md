@@ -6,7 +6,7 @@ date: 2022-12-08
 doi: 10.1038/s41432-022-0826-x
 source: ahmad-2022-endotoxins-endodontic-infections-overview-sr.md
 category: [endodontics/irrigation]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/ahmad-2022-endotoxins-endodontic-infections-overview-sr.pdf
 pdf_filename: ahmad-2022-endotoxins-endodontic-infections-overview-sr.pdf
 source_collection: external
@@ -18,13 +18,21 @@ relations:
     target: ordinola-zapata-2022-intracanal-medicaments-status-directions
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Overview of 5 systematic reviews (2 high-quality by AMSTAR2): endotoxin levels correlate with symptomatic teeth; chemomechanical preparation and calcium hydroxide ICM significantly reduce but cannot eliminate endotoxins; multi-session treatment outperforms single-session in symptomatic apical periodontitis.
+Umbrella review (overview of SRs) synthesizing 5 systematic reviews of endotoxins in endodontic infections (databases to July 2021, AMSTAR2 quality-appraised, 2 high-quality).
 
-## 한줄요약
+Endotoxin levels correlate with clinical symptoms (exudation, prior pain, percussion pain); Ca(OH)₂ ICM significantly reduced LPS (SMD −1.051, I²=83.3%); multi-session outperformed single-session in symptomatic apical periodontitis.
 
-5개 체계적 문헌고찰 종합 overview(AMSTAR2 고품질 2편): endotoxin 수치는 증상치와 상관하고, 화학기계적 형성과 수산화칼슘 첩약은 endotoxin을 유의하게 감소시키나 완전 제거는 못 하며, 증상성 근단치주염에서 다회 내원이 단회보다 우수하다.
+No conventional chemomechanical or medicament protocol eliminates endotoxin, making the case for more effective disinfection therapies in symptomatic cases.
+
+## 세줄요약
+
+근관 내 내독소 (endotoxin) 관련 SR 5편을 종합한 umbrella review (AMSTAR2 고품질 2편, 자료 2021년 7월까지).
+
+Endotoxin 수치는 삼출·이전 통증·타진 통증과 상관; 수산화칼슘 (Ca(OH)₂) 첩약이 LPS를 유의하게 감소(SMD −1.051, I²=83.3%); 증상성 근단 치주염에서 다회 내원이 단회보다 우수.
+
+어떤 기존 화학기계적 처치·첩약도 내독소를 완전 제거하지 못함 — 증상성 증례에서 보다 효과적인 소독법이 필요.
 
 ## Summary
 
@@ -55,6 +63,6 @@ Endotoxin levels were significantly higher in teeth with exudation, a prior pain
 ## Related Papers
 
 - [[endodontics/irrigation/bedran-2020-calcium-hydroxide-endotoxin-reduction-sr-ma]] — extends/aggregates: this overview includes Bedran as a primary SR
-- [[endodontics/ordinola-zapata-2022-intracanal-medicaments-status-directions]] — reinforces the intracanal-medicament limitation at SR-of-SRs level
+- [[endodontics/irrigation/ordinola-zapata-2022-intracanal-medicaments-status-directions]] — reinforces the intracanal-medicament limitation at SR-of-SRs level
 - [[endodontics/irrigation/alquria-2023-disinfection-protocols-bacteria-lta-lps]] — protocol-level evidence of incomplete LTA/LPS elimination
 - [[endodontics/irrigation/rossi-fedele-2023-irrigation-dressing-apical-periodontitis-sr-ma]] — dressing/irrigation efficacy on clinical apical periodontitis endpoint

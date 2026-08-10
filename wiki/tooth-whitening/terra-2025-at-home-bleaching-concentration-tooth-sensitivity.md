@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1016/j.jdent.2025.105891
 source: terra-2025-at-home-bleaching-concentration-tooth-sensitivity.md
 category: [tooth-whitening]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: false
 pmid: "40484311"
@@ -19,13 +19,21 @@ relations:
     target: de-geus-2025-at-home-vs-in-office-bleaching
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Bayesian NMA (77 studies, 50 meta-analyzed; GRADE low) — at-home tooth sensitivity rises with peroxide concentration: CP 20–22% and HP 14–16% carry ~2.8–2.9× the sensitivity risk of HP 2–4%, and CP 20–22% ~2× that of CP 10–11%; but on average sensitivity is mild for every concentration.
+Bayesian NMA of 77 RCTs (50 meta-analyzed; GRADE low; PROSPERO CRD42021265220) comparing at-home bleaching concentration tiers (HP 2–4% to 14–16%; CP 5% to 20–22%) for tooth sensitivity risk and intensity.
 
-## 한줄요약
+Higher concentrations carry significantly greater sensitivity risk: CP 20–22% and HP 14–16% confer ~2.8–2.9× the sensitivity risk of HP 2–4% (RR 2.8–2.9), and CP 20–22% approximately 2× that of CP 10–11% (RR 2.0; NRS MD 0.51); VAS detected no significant intensity differences.
 
-베이지안 NMA (77편) — 자가미백 민감도는 농도가 높을수록 증가: CP 20–22%·HP 14–16%는 HP 2–4% 대비 약 2.8–2.9배, CP 20–22%는 CP 10–11% 대비 약 2배. 그래도 전체적으로 민감도 강도는 경미(근거 낮음).
+CP 10–11% is the comfort sweet spot — meaningfully lower sensitivity than higher concentrations while remaining effective; because average intensity is mild across all concentrations, the gradient is a prescribing-comfort lever, not a safety gate.
+
+## 세줄요약
+
+베이지안 NMA (RCT 77편, 50편 메타분석; GRADE 낮음) — 자가미백 농도 티어(HP 2–4%~14–16%; CP 5%~20–22%) 간 치아 민감도 위험·강도 비교.
+
+고농도일수록 민감도 위험 유의하게 증가: CP 20–22%·HP 14–16%는 HP 2–4% 대비 약 2.8–2.9배(RR), CP 20–22%는 CP 10–11% 대비 약 2배(RR 2.0; NRS MD 0.51); VAS 기준 강도 차이는 유의하지 않음.
+
+CP 10–11%가 편안함 최적 농도 — 고농도 대비 민감도 유의하게 낮고 효능 유지; 전반적으로 강도가 경미하므로 농도 선택은 안전 문제가 아닌 처방 편의 최적화 기준.
 
 ## Summary
 

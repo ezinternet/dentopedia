@@ -6,18 +6,28 @@ date: 2022-07-05
 doi: 10.3390/jcm11133909
 source: panda-2022-regenerative-apexification-immature-teeth-sr-ma.md
 category: [endodontics/regenerative]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/panda-2022-regenerative-apexification-immature-teeth-sr-ma.pdf
 pdf_filename: panda-2022-regenerative-apexification-immature-teeth-sr-ma.pdf
 source_collection: external
 tags: [RET, apexification, immature-teeth, necrotic-pulp, root-development, SR+MA]
 ---
 
-## One-line Summary
-SR+MA of RET vs apexification in necrotic immature permanent teeth (J Clin Med 2022): survival and success rates similar, but RET significantly superior for root length increase and dentin wall thickness.
+## Three-line Summary
 
-## 한줄요약
-미성숙 영구치 비활력 RET vs apexification SR+MA(J Clin Med 2022): 생존·성공율 유사, 치근 길이/벽 두께는 RET 유의 우위.
+PRISMA 2020 SR+MA (J Clin Med 2022) comparing regenerative endodontic treatment (RET) versus apexification in necrotic immature permanent teeth across multiple clinical outcomes.
+
+Survival and success rates were statistically similar between RET and apexification, but RET was significantly superior for root length increase and dentinal wall thickness increase.
+
+RET offers a clear biological advantage for root development in immature teeth, making it the preferred approach when continued root maturation is clinically important.
+
+## 세줄요약
+
+PRISMA 2020 준수 SR+MA(J Clin Med 2022)로 미성숙 영구치 비활력치에서 재생근관치료(RET) 대 apexification을 다차원 비교.
+
+생존율과 성공율은 두 방법 간 유의차 없으나, 치근 길이 증가와 상아질 벽 두께 증가에서는 RET가 유의하게 우위.
+
+치근 발육이 임상적으로 중요한 경우 RET가 명확한 생물학적 이점을 제공하므로 미성숙치에서 우선 고려해야 한다.
 
 ## Summary
 J Clin Med 2022. PRISMA 2020 준수 SR+MA. 미성숙 영구치 비활력 대상 RET vs apexification 다차원 비교(생존율, 성공율, 치근 발육).

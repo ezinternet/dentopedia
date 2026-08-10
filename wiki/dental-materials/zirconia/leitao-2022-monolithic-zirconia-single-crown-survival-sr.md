@@ -6,20 +6,28 @@ date: 2022-01-01
 doi: 10.2186/jpr.JPR_D_21_00081
 source: leitao-2022-monolithic-zirconia-single-crown-survival-sr.md
 category: [dental-materials/zirconia]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/leitao-2022-monolithic-zirconia-single-crown-survival-sr.pdf
 pdf_filename: leitao-2022-monolithic-zirconia-single-crown-survival-sr.pdf
 source_collection: external
 tags: [monolithic-zirconia, CAD-CAM, single-crown, survival, systematic-review, meta-analysis]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 9 studies (n=1,657 monolithic zirconia CAD/CAM single crowns): survival rates 91–100% across studies; short follow-up (mean 1.07 yrs), high heterogeneity (I²=93.74%), bruxism subgroup shows markedly lower marginal integrity.
+First SR+MA exclusively on monolithic zirconia (MZ) tooth-supported CAD/CAM single crowns (9 studies, 594 patients, 1,657 restorations, PRISMA-compliant, PROSPERO CRD42020166112): survival rates ranged 91–100% across studies.
 
-## 한줄요약
+Data quality was limited by very short mean follow-up (1.07 years), moderate-only NOS quality for all included studies, and high heterogeneity (I²=93.74%) preventing a precise pooled estimate; no chipping was reported (by definition, monolithic design).
 
-단일치아 지지 모놀리식 지르코니아 크라운 SR+MA (9편, 1,657개): 생존율 91–100%로 임상적 가능성 확인되나, 평균 추적기간 1.07년의 단기 데이터·높은 이질성이 한계; 이갈이 환자는 변연 완전성 급격히 저하.
+Bruxism subgroup showed markedly reduced marginal integrity (31.60%) and no significant correlation between survival rate and cementation type or follow-up duration, highlighting bruxism as the primary identifiable risk factor.
+
+## 세줄요약
+
+모놀리식 지르코니아(MZ) CAD/CAM 단관 첫 SR+MA (9편, 594명, 1,657개, PRISMA, PROSPERO CRD42020166122): 생존율 91–100% 범위, 임상적 가능성 확인.
+
+평균 추적기간 1.07년(단기)·전 연구 중등도 NOS·높은 이질성(I²=93.74%)으로 정확한 풀드 추정치 산출 불가; 칩핑 없음(모놀리식 설계 특성).
+
+이갈이(Bruxism) 아군에서 변연 완전성 31.60%로 급격히 저하; 생존율과 합착 방식·추적기간 간 유의한 상관 없음 — 이갈이가 주요 위험인자.
 
 ## Summary
 
@@ -61,5 +69,5 @@ Leitão et al. (2022) is the first SR+MA specifically focused on monolithic zirc
 ## Related Papers
 
 - [[dental-materials/zirconia/pjetursson-2018-zirconia-metal-ceramic-crown-survival-sr]] — SR of veneered zirconia implant SCs (excluded MZ; context for this paper)
-- [[dental-materials/warreth-2020-all-ceramic-restorations-narrative-review]] — narrative overview of all-ceramic options
+- [[dental-materials/ceramic/warreth-2020-all-ceramic-restorations-narrative-review]] — narrative overview of all-ceramic options
 - [[dental-materials/zirconia/koenig-2021-ltd-monolithic-zirconia-prospective]] — LTD aging concern for monolithic 3Y-TZP

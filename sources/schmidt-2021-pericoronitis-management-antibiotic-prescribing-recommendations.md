@@ -15,15 +15,23 @@ text_filename: schmidt-2021-pericoronitis-management-antibiotic-prescribing-reco
 
 ## Why Ingested
 
-The wiki currently lacks any dedicated pericoronitis page, despite pericoronitis being one of the highest-frequency oral-surgery diagnoses driving inappropriate antibiotic use in dentistry. This paper fills that gap with a combined evidence-based therapy review (Part A) and systematic review of prescribing behaviour (Part B), directly reinforcing the stewardship principles already documented in [[drug/antibiotics/mendez-romero-2025-antibiotic-stewardship-dentistry-sr]] and providing the clinical context that is absent from [[oral-surgery/damico-2025-third-molar-surgical-indications-guidelines]] regarding pericoronitis-specific management.
+The wiki currently lacks any dedicated pericoronitis page, despite pericoronitis being one of the highest-frequency oral-surgery diagnoses driving inappropriate antibiotic use in dentistry. This paper fills that gap with a combined evidence-based therapy review (Part A) and systematic review of prescribing behaviour (Part B), directly reinforcing the stewardship principles already documented in [[drug/antibiotics/mendez-romero-2025-antibiotic-stewardship-dentistry-sr]] and providing the clinical context that is absent from [[oral-surgery/third-molar/damico-2025-third-molar-surgical-indications-guidelines]] regarding pericoronitis-specific management.
 
-## One-line Summary
+## Three-line Summary
 
-Dual-part review (narrative + SR, 11 studies) showing ~75% of dentists prescribe antibiotics for pericoronitis despite evidence that local irrigation/debridement and operculectomy are the appropriate first-line treatments; amoxicillin and metronidazole are most commonly prescribed, and systemic antibiotics should be reserved for infection spread or systemic involvement.
+Dual-part review (narrative + SR, 11 studies) showing ~75% of dentists prescribe antibiotics for pericoronitis despite evidence that local irrigation/debridement and operculectomy are the appropriate first-line treatments;
 
-## 한줄요약
+amoxicillin and metronidazole are most commonly prescribed, and systemic antibiotics should be reserved for infection spread or systemic involvement.
+
+(incomplete)
+
+## 세줄요약
 
 서술 검토(Part A) + 체계적 문헌고찰(Part B, 11편) 결과, 치과의사의 약 75%가 치관주위염에 항생제를 처방하나 근거 기반 치료는 국소 세척·변연제거 및 판절제술(operculectomy)이며 항생제는 감염 확산·전신 증상 시에만 적용해야 함.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 
@@ -102,7 +110,7 @@ Dual-part review (narrative + SR, 11 studies) showing ~75% of dentists prescribe
 ## 6. Related Work
 
 - [[drug/antibiotics/mendez-romero-2025-antibiotic-stewardship-dentistry-sr]] — Broader SR on antibiotic stewardship in dentistry; Schmidt 2021 provides disease-specific prescribing data reinforcing stewardship need.
-- [[oral-surgery/damico-2025-third-molar-surgical-indications-guidelines]] — Third molar surgical indications guidelines; Schmidt 2021 applies-to the pericoronitis-specific extraction decision context.
+- [[oral-surgery/third-molar/damico-2025-third-molar-surgical-indications-guidelines]] — Third molar surgical indications guidelines; Schmidt 2021 applies-to the pericoronitis-specific extraction decision context.
 - [[drug/antibiotics/de-angelis-2025-antibiotic-third-molar-extraction-prevention-sr]] — SR on prophylactic antibiotics for third molar extraction; Schmidt 2021 complements by addressing the pericoronitis treatment (not prophylaxis) scenario.
 
 ## 7. Glossary

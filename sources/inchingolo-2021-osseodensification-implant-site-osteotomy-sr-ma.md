@@ -13,8 +13,21 @@ source_collection: external
 
 Part of the osseodensification (OD) primary-stability evidence base — a 16-article SR+MA quantifying OD's effect on insertion torque and BIC vs conventional drilling, plus the clockwise-vs-counterclockwise mode comparison, feeding the [[overviews/osseodensification-clinical-applications]] synthesis. Reinforces the torque/BIC gains reported in [[implants/gaikwad-2022-osseodensification-animal-biomechanics-bic-sr-ma]].
 
-## One-line Summary
-SR + meta-analysis (16 articles, 11 clinical studies) — osseodensification raises insertion torque and BIC vs conventional drilling, with significant difference in BIC and torque between clockwise vs counter-clockwise OD mode and no difference in BAFO.
+## Three-line Summary
+
+SR + meta-analysis (16 articles, 11 clinical studies) — osseodensification raises insertion
+
+torque and BIC vs conventional drilling, with significant difference in BIC and
+
+torque between clockwise vs counter-clockwise OD mode and no difference in BAFO.
+
+## 세줄요약
+
+SR + 메타분석 (Meta-analysis, MA) (16 articles, 11 임상적 (Clinical) studies) — osseodensification raises insertion
+
+torque and 골-임플란트 접촉률 (Bone-to-Implant Contact, BIC) 대 (vs) conventional drilling, with 유의미한 (Significant) difference in 골-임플란트 접촉률 (Bone-to-Implant Contact, BIC) and
+
+torque between clockwise 대 (vs) counter-clockwise OD mode and no difference in BAFO.
 
 ## 1. Document Information
 - **Type**: Systematic review with meta-analysis (animal studies pooled)

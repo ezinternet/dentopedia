@@ -17,13 +17,21 @@ text_filename: manekar-2022-modern-devices-alveolar-ridge-split-expansion-sr.txt
 
 The wiki's existing alveolar-ridge-split pages document the *technique* (deliberate greenstick/buccal corticotomy in [[wiki/bone-regeneration/enislidis-2006-staged-ridge-splitting-implant-mandible]], chisel split-crest + GTR in [[wiki/bone-regeneration/simion-1992-jawbone-enlargement-split-crest-gtr]], and the case-level horizontal augmentation in [[wiki/bone-regeneration/ayoub-2018-ridge-splitting-horizontal-augmentation-case]]) but all rely on chisel/piezo instrumentation. This SR+MA is the missing *device-choice* evidence: it directly compares ultrasonographic (USG/piezo) vs motorized ridge expander (MRE) for ARSE and maps each device to its biology — USG to osteo-mobilization (precise osteotomy), MRE to minimally invasive osteo-condensation — telling the clinician which device fits which split strategy. It extends ayoub-2018's single-case horizontal-augmentation rationale to a pooled 24-study, 1287-implant evidence base.
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (24 studies, 1287 implants in 634 patients) of modern ARSE devices: USG (piezo) yields 3.40 mm ridge width gain vs MRE 2.83 mm (p<0.0001), overall implant survival 98.07%; USG suits osteo-mobilization, MRE suits minimally invasive osteo-condensation.
+SR+MA (24 studies, 1287 implants in 634 patients) of modern ARSE devices: USG (piezo) yields 3.40 mm ridge width gain vs MRE 2.83 mm (p<0.0001), overall implant survival 98.07%;
 
-## 한줄요약
+USG suits osteo-mobilization, MRE suits minimally invasive osteo-condensation.
 
-치조제 분할·확장(ARSE) 현대 기구를 비교한 체계적 문헌고찰+메타분석(24편, 환자 634명·임플란트 1287개): 초음파(피에조, USG)가 골폭 증가 3.40 mm로 전동확장기(MRE) 2.83 mm보다 우수(p<0.0001), 전체 임플란트 생존율 98.07%. USG는 골이동술(osteo-mobilization), MRE는 최소침습 골응축(osteo-condensation)에 적합.
+(incomplete)
+
+## 세줄요약
+
+치조제 분할·확장(ARSE) 현대 기구를 비교한 체계적 문헌고찰+메타분석(24편, 환자 634명·임플란트 1287개): 초음파(피에조, USG)가 골폭 증가 3.40 mm로 전동확장기(MRE) 2.83 mm보다 우수(p<0.0001), 전체 임플란트 생존율 98.07%.
+
+USG는 골이동술(osteo-mobilization), MRE는 최소침습 골응축(osteo-condensation)에 적합.
+
+(incomplete)
 
 ## 1. Document Information
 

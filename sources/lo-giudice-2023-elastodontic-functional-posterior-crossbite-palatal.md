@@ -19,13 +19,21 @@ Extends the elastodontic/myofunctional evidence base along the **transverse / po
 
 (Note: the requested sibling stem `ortu-2024-haas-expander-vs-elastodontic-crossbite` does not exist in the wiki; the closest existing transverse/crossbite sibling is `ortu-2025-removable-devices-palatal-expansion-rct`, used for cross-linking instead.)
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective cohort (n=39; TG=25, CG=14, mean age 7y) — AMCOP elastodontic activator corrected functional posterior cross-bite and increased palatal symmetry (surface-matching 81.1%→92.3%) plus intermolar/intercanine widths over 12 months, versus no change in untreated controls.
+Retrospective cohort (n=39;
 
-## 한줄요약
+TG=25, CG=14, mean age 7y) — AMCOP elastodontic activator corrected functional posterior cross-bite and increased palatal symmetry (surface-matching 81.1%→92.3%) plus intermolar/intercanine widths over 12 months, versus no change in untreated controls.
 
-후향적 코호트 (n=39; 치료군 25, 대조군 14, 평균 7세) — AMCOP 탄성교정장치(Elastodontic Appliance, EA)가 기능성 후방 교차교합(Functional Posterior Cross-Bite, FPXB)을 교정하고 12개월간 구개 대칭성(표면 일치율 81.1%→92.3%)과 대구치/견치 폭경을 증가시켰으며, 미치료 대조군은 변화 없었다.
+(incomplete)
+
+## 세줄요약
+
+후향적 코호트 (n=39;
+
+치료군 25, 대조군 14, 평균 7세) — AMCOP 탄성교정장치(Elastodontic Appliance, EA)가 기능성 후방 교차교합(Functional Posterior Cross-Bite, FPXB)을 교정하고 12개월간 구개 대칭성(표면 일치율 81.1%→92.3%)과 대구치/견치 폭경을 증가시켰으며, 미치료 대조군은 변화 없었다.
+
+(incomplete)
 
 ## 1. Document Information
 

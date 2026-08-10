@@ -6,7 +6,7 @@ date: 2025-07-01
 doi: 10.1186/s12903-025-06330-6
 source: farsiani-2025-photofunctionalized-implants-fractal-bone-analysis-rct.md
 category: [implants/surface]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: true
 pmid: "40598042"
@@ -24,13 +24,21 @@ relations:
     target: seol-2017-uv-implant-resonance-frequency-early-loading
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Split-mouth double-blind RCT (BMC Oral Health 2025; 21 patients, 42 implants, bilateral posterior mandible): UV-photofunctionalized (test) sites showed a statistically significant pre-to-post-placement rise in peri-implant trabecular fractal dimension (FD 1.075 → 1.103, p=0.044) while non-PF controls did not (1.113 → 1.118, p=0.794); 100% early survival in both arms, ISQ not measured — first human study to evaluate PF effect on peri-implant bone via fractal analysis.
+Split-mouth double-blind RCT (21 patients, 42 implants, bilateral posterior mandible) using panoramic fractal dimension (FD) as a non-invasive, ISQ-independent bone-quality surrogate for UV photofunctionalization (PF) — the first human study to use this imaging endpoint for PF.
 
-## 한줄요약
+UV-PF sites showed a statistically significant pre-to-post-placement FD rise (1.075 → 1.103, p=0.044) while non-PF controls did not change (1.113 → 1.118, p=0.794); the inter-group difference closed by the post-placement timepoint (p=0.428), indicating PF-site catch-up.
 
-분할입(split-mouth) 이중맹검 RCT (BMC Oral Health 2025, 환자 21명·임플란트 42개, 양측 하악 구치부): UV 광기능화 (Photofunctionalization, PF) 처리군은 식립 전→후 임플란트 주위 해면골 프랙탈 차원 (Fractal Dimension, FD)이 유의하게 상승(1.075→1.103, p=0.044), 비처리 대조군은 무변화(1.113→1.118, p=0.794); 양군 조기 생존율 100%, 임플란트 안정성 지수 (ISQ)는 미측정 — 프랙탈 분석으로 PF의 임플란트 주위 골 영향을 평가한 최초의 인체 연구.
+PF appears to accelerate peri-implant trabecular bone organization detectable by fractal analysis; 100% early survival in both arms; ISQ not measured and 2D panoramic FD limits functional interpretation.
+
+## 세줄요약
+
+분할입(split-mouth) 이중맹검 RCT (환자 21명·임플란트 42개, 양측 하악 구치부) — 파노라마 기반 프랙탈 차원 (Fractal Dimension, FD)을 UV 광기능화 (Photofunctionalization, PF)의 비침습적 골질 대리 지표로 평가한 최초의 인체 연구.
+
+PF 처리군만 식립 전→후 FD 유의 상승 (1.075→1.103, p=0.044); 대조군은 무변화 (1.113→1.118, p=0.794); 식립 후 군간 차이 소실 (p=0.428) — PF 부위가 대조군 수준으로 추격.
+
+PF가 프랙탈 분석으로 검출 가능한 임플란트 주위 해면골 조직화를 가속하는 것으로 해석; 양군 조기 생존율 100%; 임플란트 안정성 지수 (ISQ) 미측정, 2D 파노라마 FD의 기능적 해석 한계.
 
 ## Summary
 

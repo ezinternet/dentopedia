@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.2341/24-078-LIT
 source: de-geus-2025-at-home-vs-in-office-bleaching.md
 category: [tooth-whitening]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: false
 pmid: "40485133"
@@ -16,13 +16,21 @@ text_filename: de-geus-2025-at-home-vs-in-office-bleaching.txt
 tags: [tooth-whitening, bleaching, in-office, at-home, hydrogen-peroxide, carbamide-peroxide, tooth-sensitivity]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Updated SR+MA (32 RCTs, 23 meta-analyzed; GRADE low) — at-home and in-office vital bleaching produce equivalent shade-guide change (ΔSGU); at-home has significantly lower sensitivity intensity (SMD −0.78) and slightly greater instrumental ΔE, but sensitivity *risk* does not differ by technique.
+Updated SR+MA (32 RCTs including 6 new 2024 studies, 23 meta-analyzed; GRADE low certainty) comparing at-home vs in-office vital tooth bleaching across efficacy and adverse-effect outcomes.
 
-## 한줄요약
+At-home and in-office bleaching produce equivalent shade-guide change (ΔSGU, SMD 0.04, p=0.68); at-home has significantly lower sensitivity intensity (SMD −0.78, p=0.04) and slightly greater instrumental color change (ΔE, SMD 0.49, p=0.006), but sensitivity risk does not differ (RR 0.82, p=0.19).
 
-갱신 SR+MA (RCT 32편) — 자가미백과 진료실미백의 색조 단위(ΔSGU) 변화는 동등; 자가미백이 민감도 강도는 유의하게 낮고 ΔE는 약간 큼. 민감도 발생 위험 자체는 두 방식 간 차이 없음(근거 수준 낮음).
+Mode selection can be based on patient preference and convenience — efficacy is equivalent; at-home may provide modestly lower sensitivity intensity, but all conclusions rest on low-certainty evidence and should not be stated as strong efficacy claims.
+
+## 세줄요약
+
+갱신 SR+MA (RCT 32편, 2024년 신규 6편 포함, 23편 메타분석; GRADE 낮음)로 자가미백 대 진료실미백의 효과와 부작용을 비교.
+
+ΔSGU 동등(SMD 0.04, p=0.68); 자가미백이 민감도 강도 유의하게 낮음(SMD −0.78, p=0.04)·ΔE 약간 높음(SMD 0.49, p=0.006); 민감도 발생 위험은 두 방식 간 차이 없음(RR 0.82, p=0.19).
+
+효과 동등·민감도 강도 약간 낮음으로 자가미백 선호 가능하나 모든 결론이 낮은 확실성 근거이므로 강한 효과 주장으로 제시하면 안 됨.
 
 ## Summary
 

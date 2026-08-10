@@ -13,8 +13,21 @@ source_collection: external
 
 측방 상악동거상술(Maxillary Sinus Floor Augmentation, MSFA)에서 탈단백우골(Deproteinized Bovine Bone, DPBB)이 장기적으로 흡수되는지에 대한 오랜 논쟁의 핵심 증거. 11년 인체 생검으로 DPBB가 거의 흡수되지 않는 영구 골전도성 지지체임을 보여, 이식재 선택 종합의 토대가 된다(Sartori 2003의 흡수 소견과 대비). See [[overviews/sinus-lift-lateral-2026-synthesis]].
 
-## One-line Summary
-Human biopsies harvested 11 years after MSFA with 80% DPBB + 20% autogenous bone (n=11 patients): 44.7% lamellar bone, 38% marrow, 17.3% DPBB; DPBB-bone contact 61.5%; particle size unchanged vs 6-month and pristine — DPBB does not resorb, integrates as a permanent osteoconductive scaffold.
+## Three-line Summary
+
+Human biopsies harvested 11 years after MSFA with 80% DPBB + 20% autogenous bone (n=11 patients): 44.7% lamellar bone, 38% marrow, 17.3% DPBB
+
+DPBB-bone contact 61.5%
+
+particle size unchanged vs 6-month and pristine — DPBB does not resorb, integrates as a permanent osteoconductive scaffold.
+
+## 세줄요약
+
+Human biopsies harvested 11 years after MSFA with 80% DPBB + 20% autogenous bone (n=11 patients): 44.7% lamellar bone, 38% marrow, 17.3% DPBB
+
+DPBB-bone contact 61.5%
+
+particle size unchanged vs 6-month and pristine — DPBB does not resorb, integrates as a permanent osteoconductive scaffold.
 
 ## 1. Document Information
 - **Journal**: Clinical Oral Implants Research 2010;21(9):961–970 (e-pub 3 Aug 2010).

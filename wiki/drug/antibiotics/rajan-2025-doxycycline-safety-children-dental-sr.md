@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.3389/fphar.2025.1646638
 source: rajan-2025-doxycycline-safety-children-dental-sr.md
 category: [drug/antibiotics]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "41069592"
@@ -20,13 +20,21 @@ relations:
     target: bazsefidpay-2023-antibiotic-restrictive-use-adherence-recommendation
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (5 studies, n=162 children <8 years): short-course doxycycline (median 8.5 days) caused dental staining in only 1/162 children (0.62%; 1 premature neonate only), with pooled adverse event proportion of 0.21 (95% CI: 0.13–0.28) and I²=0%, supporting revised AAP/CDC guidance permitting doxycycline use in young children for life-threatening indications such as RMSF.
+SR+MA (5 studies, n=162 children <8 years) evaluating dental staining risk from short-course doxycycline (median 8.5 days) across RMSF, CNS infection, atypical pneumonia, and premature infant indications.
 
-## 한줄요약
+Dental staining occurred in only 1/162 children (0.62%; 1 premature neonate); 0/137 in permanent dentition; pooled adverse event proportion 0.21 (95% CI 0.13–0.28; I²=0%).
 
-SR+MA (5개 연구, n=162명, 8세 미만): 단기 독시사이클린(doxycycline, Doxy) 투여(중앙값 8.5일) 후 치아 착색(tooth staining)은 162명 중 1명(0.62%, 미숙아 신생아 1건)에서만 발생, 통합 이상반응 비율 0.21 (95% CI: 0.13–0.28)로 AAP/CDC의 생명위협 적응증 소아 사용 지침 개정을 지지한다.
+Prescribers should not withhold doxycycline from children under 8 for life-threatening indications (RMSF, scrub typhus); doxycycline's calcium-binding affinity (19%) is half that of older tetracyclines, explaining the lower staining risk.
+
+## 세줄요약
+
+SR+MA (5편, n=162명, 8세 미만): RMSF·CNS감염·비정형폐렴·미숙아 등 적응증에서 단기 독시사이클린(Doxycycline, Doxy) 투여(중앙값 8.5일) 시 치아 착색 위험 평가.
+
+치아 착색 1/162(0.62%, 미숙아 1건); 영구치 검사 137명 중 0건; 통합 이상반응 비율 0.21(95% CI 0.13–0.28; I²=0%).
+
+생명위협 적응증(리케차감염 등)에서 8세 미만 소아에게 독시사이클린을 보류하지 말 것; 칼슘 결합 친화도(19%)가 테트라사이클린(39.5%)의 절반 수준으로 착색 위험이 낮음.
 
 ## Summary
 
@@ -93,6 +101,6 @@ The key finding is that dental staining attributable to doxycycline occurred in 
 
 ## Related Papers
 
-- [[drug/bazsefidpay-2023-antibiotic-restrictive-use-adherence-recommendation]] — antibiotic restrictive use adherence; this review adds pediatric age-specific evidence for when restriction should not apply
-- [[drug/sandulescu-2024-antibiotic-prescribing-dental-best-practices-review]] — antibiotic prescribing best practices in dentistry; doxycycline pediatric safety relevant to prescribing decisions
-- [[drug/thornhill-2019-adverse-reactions-oral-antibiotics-dentists]] — adverse reactions to antibiotics relevant to understanding doxycycline risk profile
+- [[drug/antibiotics/bazsefidpay-2023-antibiotic-restrictive-use-adherence-recommendation]] — antibiotic restrictive use adherence; this review adds pediatric age-specific evidence for when restriction should not apply
+- [[drug/antibiotics/sandulescu-2024-antibiotic-prescribing-dental-best-practices-review]] — antibiotic prescribing best practices in dentistry; doxycycline pediatric safety relevant to prescribing decisions
+- [[drug/antibiotics/thornhill-2019-adverse-reactions-oral-antibiotics-dentists]] — adverse reactions to antibiotics relevant to understanding doxycycline risk profile

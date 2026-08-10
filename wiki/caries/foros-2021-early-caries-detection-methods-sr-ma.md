@@ -6,18 +6,26 @@ date: 2021-06-15
 doi: 10.1159/000516084
 source: foros-2021-early-caries-detection-methods-sr-ma.md
 category: [caries]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/foros-2021-early-caries-detection-methods-sr-ma.pdf
 pdf_filename: foros-2021-early-caries-detection-methods-sr-ma.pdf
 source_collection: external
 tags: [caries-detection, ICDAS, DIAGNOdent, bitewing, sensitivity, specificity]
 ---
 
-## One-line Summary
-SR+MA of early caries detection (51 studies): DIAGNOdent Pen showed highest sensitivity (Se 0.81–0.89); bitewing radiography had the lowest sensitivity for occlusal early lesions (Se 0–0.29).
+## Three-line Summary
+SR+MA of early caries detection (51 studies, 2000–2019) comparing diagnostic accuracy of DIAGNOdent, ICDAS-II, bitewing radiography, and other methods in primary and permanent teeth.
 
-## 한줄요약
-초기 우식 탐지 SR+MA(51개 연구): DIAGNOdent Pen Se 0.81–0.89 최고, 방사선 교합면 Se 0–0.29로 조기 병소 탐지 최저.
+DIAGNOdent Pen had the highest sensitivity for occlusal surfaces (Se 0.81–0.89, Sp 0.71–0.80); bitewing radiography had the lowest sensitivity for early occlusal lesions (Se 0–0.29).
+
+Non-radiographic methods are essential adjuncts for early caries detection; ICDAS-II offers a balanced Se/Sp profile (Se 0.62–1.0, Sp 0.50–0.84) for clinical use.
+
+## 세줄요약
+SR+MA (51편, 2000–2019): 영구치·유치 교합면·인접면별 탐지도 정량 — 탐지 방법 간 Se/Sp를 QUADAS-2로 평가.
+
+DIAGNOdent Pen Se 0.81–0.89로 최고; 방사선(bitewing) 교합면 초기 우식 Se 0–0.29로 최저; ICDAS-II는 Se 0.62–1.0·Sp 0.50–0.84로 균형.
+
+조기 탐지에는 비방사선 보완 수단이 필수이며, DIAGNOdent Pen이 교합면 초기 우식 탐지에 임상적으로 가장 유용하다.
 
 ## Summary
 Caries Research 2021 SR+MA. 51개 연구(2000–2019). 영구치·유치 교합면·인접면별 Se/Sp 정량. QUADAS-2 질 평가.

@@ -6,20 +6,28 @@ date: 2021-12-17
 doi: 10.1055/s-0041-1735908
 source: simasetha-2021-surface-treatment-lithium-disilicate-bond-strength.md
 category: [resin-bonding]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/simasetha-2021-surface-treatment-lithium-disilicate-bond-strength.pdf
 pdf_filename: simasetha-2021-surface-treatment-lithium-disilicate-bond-strength.pdf
 source_collection: external
 tags: [lithium-disilicate, silane, shear-bond-strength, resin-cement, surface-treatment]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In vitro (n=70, 7 groups): adding a resin adhesive after silane on HF-etched lithium disilicate was the key variable — experimental silane + Adper Scotchbond adhesive achieved the highest SBS (45.49 MPa); silane alone (KS) was no better than the untreated control.
+In vitro study (n=70, 7 groups; Vintage LD Press lithium disilicate; all specimens 4.5% HF etched 20 s; 5,000 thermal cycles) comparing three silane agents and two adhesive co-applications for shear bond strength to RelyX U200 dual-cure resin cement.
 
-## 한줄요약
+Experimental γ-MPS silane + Adper Scotchbond adhesive (EXP/ADP) achieved the highest SBS (45.49 MPa), closely matched by EXP/SGII (41.38 MPa); adding adhesive after silane was the critical step; commercial Kerr Silane Primer (KS) alone was statistically no better than the untreated control (20.17 vs 18.36 MPa).
 
-인 비트로 (n=70, 7그룹): HF 산처리된 리튬 디실리케이트에 실란 후 접착제 추가가 핵심 — 실험적 실란+Adper Scotchbond 조합에서 최고 전단결합강도(45.49 MPa) 달성; 상용 실란 단독(KS)은 무처리 대조군과 유의미한 차이 없음.
+For lithium disilicate bonding, applying an adhesive layer after silanization is mandatory for clinically meaningful bond strength — commercial silane alone is insufficient; pure γ-MPS experimental silane with co-formulant-free formulation outperforms commercial silane primers.
+
+## 세줄요약
+
+In vitro 연구 (n=70, 7그룹; Vintage LD Press 리튬 디실리케이트 (Lithium Disilicate Glass-Ceramic, LDGC); 전 시편 4.5% HF 20초 부식; 열순환 5,000회) — 실란 3종 및 접착제 병용 2종의 RelyX U200 이중경화 레진시멘트에 대한 전단결합강도 비교.
+
+실험적 γ-MPS 실란 + Adper Scotchbond 접착제(EXP/ADP) 최고 SBS 45.49 MPa, EXP/SGII(41.38 MPa)와 근접; 실란 후 접착제 추가가 결정적 단계; 상용 Kerr Silane Primer (KS) 단독은 무처리 대조군과 유의차 없음(20.17 vs 18.36 MPa).
+
+리튬 디실리케이트 접착 시 실란처리 후 접착제 레이어 적용은 의미 있는 결합강도를 위해 필수; 상용 실란 단독으로는 불충분; 공단량체 미함유 순수 γ-MPS 실란이 상용 실란 프라이머보다 우수.
 
 ## Summary
 

@@ -12,11 +12,21 @@ source_collection: external
 ## Why Ingested
 food-impaction 카테고리의 한국 임상 retrospective 근거로 인제스트. cast model 분석으로 "기존 인접 자연치 사이 interproximal gap"을 강력한 PCL 예측인자(OR 2.7–3.3)로 제시 — [[food-impaction/liang-2020-prevalence-associated-factors-retrospective]]의 인자 목록을 환자 고유 해부로 확장한다.
 
-## One-line Summary
-Retrospective cast-model study (293 implants from 240 patients): 30.7% of implant sites developed PCL, half by 19.2 months; a pre-existing interproximal gap between adjacent natural teeth was the strongest factor (logistic OR 2.684; GEE OR 3.255).
+## Three-line Summary
 
-## 한줄요약
-후향 cast model 연구(293 임플란트, 240명): 임플란트 부위 30.7%에서 PCL, 절반이 19.2개월 내 발생; 인접 자연치 간 기존 interproximal gap이 최강 인자(OR 2.684 로지스틱, 3.255 GEE).
+Retrospective cast-model study (293 implants from 240 patients): 30.7% of implant sites developed PCL, half by 19.2 months;
+
+a pre-existing interproximal gap between adjacent natural teeth was the strongest factor (logistic OR 2.684;
+
+GEE OR 3.255).
+
+## 세줄요약
+
+후향 cast model 연구(293 임플란트, 240명): 임플란트 부위 30.7%에서 PCL, 절반이 19.2개월 내 발생;
+
+인접 자연치 간 기존 interproximal gap이 최강 인자(OR 2.684 로지스틱, 3.255 GEE).
+
+(incomplete)
 
 ## 1. Document Information
 - Journal of the Korean Association of Oral and Maxillofacial Surgeons 2025;51(1):26-32. DOI 10.5125/jkaoms.2025.51.1.26. Seoul National University Bundang Hospital / SNU School of Dentistry.

@@ -1,0 +1,101 @@
+Advancing Adhesive Strategies for Endodontically Treated Teeth—Part I: Impact of Endodontic Irrigation Protocols on the Chemical Composition and Structural Integrity of Coronal Dentin
+
+Joana A. Marques, Rui I. Falacho, Sara Fateixa, Francisco Caramelo, João Miguel Santos, João Rocha, Markus B. Blatz, João Carlos Ramos, Paulo J. Palma
+
+Journal of Esthetic and Restorative Dentistry (2025) 37(7):1848–1864
+DOI: 10.1111/jerd.13460
+PMID: 40123171 | PMCID: PMC12159793
+Source: PubMed Central full text (get_full_text_article)
+
+===== ABSTRACT =====
+
+Objective: To evaluate the effects of four endodontic irrigation protocols on the chemical composition and ultrastructure of coronal dentin.
+
+Materials and Methods: Coronal dentin fragments were assigned to five study groups: NaOCl (3% sodium hypochlorite), NaOCl/EDTA (3% NaOCl and 17% EDTA), NaOCl/EDTA/CHX (3% NaOCl, 17% EDTA and 2% chlorhexidine), NaOCl/HEDP (mixture of 3% NaOCl and 9% etidronic acid), and control (distilled water). Confocal Raman microscopy analyzed the spatial distribution of organic and inorganic components; attenuated total reflection Fourier transform infrared spectroscopy (ATR-FTIR) and energy-dispersive spectroscopy (EDS) assessed surface composition. Ultrastructure was assessed with SEM. A mixed linear model was used (α = 0.05).
+
+Results: All NaOCl-treated groups showed reduced amide II (p<0.001), indicating protein degradation. Exclusive NaOCl irrigation yielded the lowest amide II, highest mineral content, and increased phosphate/amide II and carbonate/phosphate ratios (p<0.05). Chelators reduced mineral content (p<0.001), with NaOCl/HEDP and NaOCl/EDTA/CHX producing more mineralized surfaces than NaOCl/EDTA and control groups (p<0.05). A general decrease in organic (C and N) and an increase in inorganic (O, P, and Ca) components occurred, particularly in NaOCl and NaOCl/HEDP groups. EDTA disturbed the Ca/P equilibrium (p<0.05). SEM showed a dense smear layer and mostly obliterated tubules in NaOCl and control samples; chelators reduced the smear layer, partially opened tubules, and caused erosion.
+
+Conclusions: Exclusive 3% NaOCl produces hypermineralized, collagen-depleted coronal dentinal surfaces with a dense smear layer. Sequential 17% EDTA induces stronger demineralization than continuous chelation with 9% HEDP. Both EDTA- and HEDP-treated coronal dentin display partially opened tubules, erosion, and substantial smear layer reduction.
+
+Clinical Significance: Clinically recommended endodontic irrigation protocols significantly alter the chemical composition and ultrastructural integrity of coronal dentin, the primary substrate for adhesive restorations.
+
+===== NATIVE DENTIN COMPOSITION AND STRUCTURE (Introduction) =====
+
+Dentin is a complex, moist, heterogeneous, and dynamic substrate. Human dentin is composed of approximately:
+- 20% by weight (33% by volume) organic matrix
+- 70% by weight (45% by volume) inorganic phase
+- the remainder being water (~10% by weight)
+
+The extracellular organic dentinal matrix is 90 wt% type I collagen and 10% non-collagenous proteins. During dentinogenesis, the collagen fibrillar network becomes embedded in a hydroxyapatite crystallite matrix, forming the inorganic phase of dentin.
+
+A key feature of dentin is its tubularity, which contributes to its permeability. Dentin's ultrastructure encompasses dentinal tubules that decrease in number and diameter from the deeper to the more superficial layers, surrounded by mineralized intertubular dentin and highly mineralized peritubular dentin. Despite average values, regional variations in both composition and structure are observed.
+
+Coronal vs radicular dentin:
+- Coronal dentin: higher tubular density → notably more permeable substrate; chemically has lower collagen content and a higher mineral-to-collagen ratio.
+- Radicular dentin: higher degree of fine branching (especially in low tubule-density areas); greater proportion of intertubular dentin; progressive reduction in tubules from coronal to apical; collagen fibrils larger in diameter with distinct orientations.
+
+Irrigants and dentin: NaOCl, a proteolytic agent, selectively targets organic matter but also dissolves exposed and mineral-bound dentinal collagen. Chelating agents induce demineralization; extent of deproteinization/decalcification depends on concentration and exposure time.
+
+Irrigant chemistry summary:
+- NaOCl: alkaline (pH 11–12), 0.5%–6%; broad-spectrum antimicrobial + dissolves organic tissue via free available chlorine (OCl– and HOCl, strong oxidizers); loses most activity within ~2 min; does NOT remove smear layer (no action on inorganic).
+- EDTA: chelator, 15%–17%, pH 7–8; removes inorganic smear layer via Ca chelation; used as auxiliary AFTER NaOCl (mixing depletes free chlorine); 1-min irrigation recommended to avoid severe peritubular erosion.
+- HEDP (etidronate): weak chelator, pH 10.5–12; "soft/continuous chelation" — mixed with NaOCl in a single solution used throughout preparation (does not compromise NaOCl short-term); slower demineralization kinetics but comparable smear-layer removal over longer contact.
+- CHX (2%): cationic bisguanide, pH 5.5–7; substantivity via electrostatic bond to hydroxyapatite phosphate (release up to 12 weeks); does NOT dissolve pulp → used as final irrigant.
+
+===== MATERIALS AND METHODS =====
+
+In vitro study following PRILE 2021 guidelines. 25 intact human third molars (16–40 yr, caries/crack/restoration-free, not root-treated), disinfected in 1% chloramine-T. Deep coronal dentin discs (0.6 mm → finished 0.5 mm) with standardized smear layer (600-grit SiC).
+
+Five groups (each tooth provided 5 fragments; groups = fixed effects, teeth = random effects):
+- DW (control): distilled water, 30 min, renewed every 2 min
+- NaOCl: 3% NaOCl (37°C, 30 min, renewed every 2 min)
+- NaOCl/EDTA: 3% NaOCl (37°C, 30 min) then 17% EDTA (1 min)
+- NaOCl/EDTA/CHX: 3% NaOCl (37°C, 30 min) → 17% EDTA (1 min) → distilled water (1 min) → 2% CHX (2 min)
+- NaOCl/HEDP: 3% NaOCl / 9% HEDP mixture (37°C, 30 min, renewed every 2 min; freshly prepared every 20 min)
+
+Analyses:
+- Confocal Raman microscopy (n=1/group): phosphate 960 cm⁻¹, carbonate 1070 cm⁻¹, organic matrix/collagen 2875 cm⁻¹.
+- ATR-FTIR (n=22): normalized to amide I (~1640); quantified amide II (~1550), phosphate (~1010), carbonate (~871); computed phosphate/amide II and carbonate/phosphate ratios.
+- EDS (n=4): atomic % of C, N, O, P, Ca; Ca/P ratio. (C, N = organic; Ca, P = inorganic; O = both.)
+- SEM: dentin ultrastructure, 2500× and 10,000×.
+
+===== KEY RESULTS =====
+
+--- ATR-FTIR (mean ± SD, n=22), Table 3 ---
+Group            | Amide II       | Phosphate         | Carbonate      | Phosphate/amide II  | Carbonate/phosphate
+DW (control)     | 20.39 ± 2.48   | 1205.87 ± 130.90  | 31.00 ± 2.83   | 60.17 ± 11.19       | 0.026 ± 0.002
+NaOCl            | 1.67 ± 0.78    | 8980.99 ± 2243.16 | 244.11 ± 42.95 | 6378.97 ± 2730.61   | 0.028 ± 0.003
+NaOCl/EDTA       | 15.25 ± 3.90   | 1557.42 ± 318.27  | 38.17 ± 7.88   | 114.05 ± 57.82      | 0.025 ± 0.002
+NaOCl/EDTA/CHX   | 10.47 ± 4.94   | 2538.16 ± 1084.06 | 60.39 ± 24.63  | 374.81 ± 358.50     | 0.024 ± 0.002
+NaOCl/HEDP       | 11.56 ± 2.21   | 2491.60 ± 554.21  | 58.16 ± 9.30   | 224.96 ± 73.15      | 0.024 ± 0.003
+(All variables statistically significant across groups, p<0.001.)
+
+--- EDS elemental atomic % (mean ± SD, n=4), Table 4 ---
+Group            | C            | N           | O            | P            | Ca           | Ca/P
+DW (control)     | 19.41 ± 1.40 | 5.36 ± 0.58 | 47.63 ± 0.97 | 9.23 ± 0.55  | 17.20 ± 0.36 | 1.87 ± 0.08
+NaOCl            | 9.70 ± 0.87  | 2.91 ± 0.26 | 54.32 ± 1.33 | 10.83 ± 0.72 | 20.59 ± 0.86 | 1.90 ± 0.07
+NaOCl/EDTA       | 17.42 ± 1.96 | 6.63 ± 0.75 | 47.60 ± 1.46 | 8.93 ± 0.81  | 17.70 ± 1.03 | 1.99 ± 0.08
+NaOCl/EDTA/CHX   | 12.95 ± 2.60 | 4.71 ± 0.71 | 51.39 ± 1.96 | 9.69 ± 0.44  | 19.31 ± 0.92 | 1.99 ± 0.02
+NaOCl/HEDP       | 10.29 ± 1.32 | 3.62 ± 0.58 | 53.53 ± 0.70 | 10.59 ± 0.45 | 19.81 ± 0.73 | 1.87 ± 0.05
+(All elements + Ca/P significant across groups; Ca/P p=0.005.)
+
+Interpretation:
+- NaOCl alone → "ghost mineral layer": maximal collagen/protein degradation (amide II 1.67, C and N lowest), mineral-rich exposed surface (phosphate 8980.99; highest Ca and P), hypermineralized. Dense smear layer, obliterated tubules (SEM).
+- EDTA (NaOCl/EDTA) → removes mineral, exposes previously embedded collagen (amide II rises to 15.25; C, N rise); mineral back near control; opens tubules with peritubular erosion; disturbs Ca/P equilibrium (1.99 vs control 1.87).
+- CHX (NaOCl/EDTA/CHX) → intermediate collagen (CHX binds negatively charged glutamic/aspartic residues in collagen, lowering amide II/III vs EDTA); Ca/P 1.99; ultrastructure similar to NaOCl/EDTA (CHX does not dissolve tissue).
+- HEDP (NaOCl/HEDP, continuous chelation) → intermediate collagen; weaker chelator than EDTA (less demineralization despite 30 min vs EDTA 1 min); Ca/P 1.87 (like control); highest surface roughness (concurrent deproteinization + demineralization); partially opened tubules, intertubular erosion.
+- Ca/P ratio preserved (~1.87, mirroring natural dentin) in DW, NaOCl, and NaOCl/HEDP; disturbed (↑1.99) only by EDTA-containing sequences.
+
+SEM ultrastructure:
+- Control & NaOCl: dense smear layer, occluded tubules, smear plugs; no erosion.
+- NaOCl/EDTA & NaOCl/EDTA/CHX: open/partially open tubules (calyx-shaped orifices), peritubular debris, erosion signs; the two are structurally similar.
+- NaOCl/HEDP: partially open uniform tubules, intertubular erosion, surface roughening, thin smear layer.
+
+===== DISCUSSION / CONCLUSION HIGHLIGHTS =====
+
+- ATR-FTIR amide I/II/III bands = type I collagen (organic); phosphate/carbonate bands = apatite (inorganic). First study to use Raman imaging to characterize post-endodontic-irrigation coronal dentin.
+- NaOCl deproteinizes with no mineral removal → leaves collagen-sparse, mineral-rich "ghost" surface. Chelators (EDTA > HEDP) demineralize and expose collagen.
+- Despite EDTA's much shorter contact (1 min) vs HEDP (30 min), EDTA promotes more pronounced demineralization (strong vs weak chelator).
+- Stable Ca/P in NaOCl and NaOCl/HEDP suggests preserved natural mineral proportion; EDTA sequences disturb it.
+- Clinical relevance: these compositional/ultrastructural changes to coronal dentin (the primary adhesive substrate) — altered collagen network, Ca levels, smear-layer pattern, and an oxygen-rich surface — may compromise bonding of the final restoration, though the protocols remain necessary and standard.
+- Limitations: single concentration/contact time each; 30-min single-session simulation (multi-session could worsen effects); no agitation/preheating variables; roughness not quantified; in vitro.

@@ -13,13 +13,21 @@ source_collection: external
 
 Part of a recent GBR / ridge-augmentation collection. This SR+MA quantifies how cross-linking, implant-placement timing, membrane fixation, and decortication affect collagen-membrane GBR outcomes — providing pooled evidence that complements single grafting-material studies like [[bone-regeneration/ridge-preservation/majzoub-2019-influence-different-grafting-materials]] and the membrane-design evidence in [[bone-regeneration/ridge-preservation/choi-2017-single-double-layer-collagen-membrane-arp]].
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 20 RCTs/prospective controlled studies (1980–2014): collagen-membrane + particulate-graft lateral ridge GBR is effective; cross-linked membranes exposed ~30% more often than non-cross-linked, simultaneous and staged implant placement had similar survival (so simultaneous is recommended when possible), and membrane fixation + decortication offer additional vertical/horizontal bone-gain benefit.
+SR+MA of 20 RCTs/prospective controlled studies (1980–2014): collagen-membrane + particulate-graft lateral ridge GBR is effective;
 
-## 한줄요약
+cross-linked membranes exposed ~30% more often than non-cross-linked, simultaneous and staged implant placement had similar survival (so simultaneous is recommended when possible), and membrane fixation + decortication offer additional vertical/horizontal bone-gain benefit.
+
+(incomplete)
+
+## 세줄요약
 
 20편 RCT·전향적 대조연구(1980–2014) SR+MA: 콜라겐막 + 입자형 이식재를 이용한 측방 치조제 GBR은 효과적이며, 교차결합막은 비교차결합막보다 노출률이 약 30% 높았고, 동시 식립과 지연 식립의 생존율이 유사해 가능하면 동시 식립이 권장되며, 막 고정과 피질골 천공(decortication)은 추가적 수직·수평 골증대 이점을 준다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

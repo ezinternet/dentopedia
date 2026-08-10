@@ -9,8 +9,21 @@ pdf_filename: aung-2025-mini-dental-implants-mandibular-overdenture-sr.pdf
 source_collection: external
 ---
 
-## One-line Summary
-PRISMA SR+MA of mini dental implant (MDI; <3 mm diameter) retained overdentures (6 RCTs, 101 patients, 234 mini-implants): ball, bar, and ERA® attachments yielded similar marginal bone loss, while **telescopic attachments showed significantly more MBL (p<0.05)**; maximum bite force and implant survival were not significantly different across attachments; ball attachments had the lowest prosthetic maintenance.
+## Three-line Summary
+
+PRISMA SR+MA of 6 RCTs (101 patients, 234 mini dental implants <3 mm) comparing attachment systems (ball, bar, ERA®, telescopic) for mandibular implant-retained overdentures, published in BMC Oral Health 2025.
+
+Ball, bar, and ERA® attachments yielded similar marginal bone loss and bite force, while telescopic attachments showed significantly more MBL (p<0.05); survival rates were high across all systems; ball attachments required the least prosthetic maintenance.
+
+Evidence supports ball/bar/ERA® as equivalent and safe for MDI overdentures, with telescopic attachments cautioned against due to greater bone loss, but the body of evidence is small (6 RCTs, 101 patients) with heterogeneous protocols.
+
+## 세줄요약
+
+PRISMA SR+MA (RCT 6편, 환자 101명, 미니 임플란트 234개, 직경 <3 mm) — 하악 임플란트 피개의치(Overdenture)용 어태치먼트 시스템(볼·바·ERA®·텔레스코픽) 비교.
+
+볼·바·ERA® 어태치먼트는 변연골 소실(MBL)과 교합력에서 유사, 텔레스코픽은 유의하게 MBL 증가(p<0.05); 전체 생존율 높음; 볼 어태치먼트가 보철적 유지관리 최소.
+
+볼/바/ERA®는 MDI 피개의치에 동등하게 안전하나 텔레스코픽은 골 소실 위험으로 주의 필요 — 단, 근거 규모가 작아(RCT 6편, 101명) 일반화에 한계.
 
 ## 1. Document Information
 - **Journal**: BMC Oral Health 2025;25:560

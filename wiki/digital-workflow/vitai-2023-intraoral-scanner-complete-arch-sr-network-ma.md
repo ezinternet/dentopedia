@@ -6,18 +6,26 @@ date: 2023-07-27
 doi: 10.1016/j.jdent.2023.104636
 source: vitai-2023-intraoral-scanner-complete-arch-sr-network-ma.md
 category: [digital-workflow]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/vitai-2023-intraoral-scanner-complete-arch-sr-network-ma.pdf
 pdf_filename: vitai-2023-intraoral-scanner-complete-arch-sr-network-ma.pdf
 source_collection: external
 tags: []
 ---
 
-## One-line Summary
-SR + network meta-analysis of IOS complete-arch scanning accuracy — device-specific trueness and precision rankings provided; error increases with arch extension and when scanning beyond natural teeth.
+## Three-line Summary
+Systematic review and network meta-analysis (J Dent 2023, PubMed/Embase, in vitro studies) evaluating and ranking multiple IOS devices by trueness and precision for complete-arch scanning.
 
-## 한줄요약
-IOS 전악 스캔 정확도 SR + 네트워크 MA — 기기별 trueness·precision 순위 제시, 스캔 전략·악궁 연장 시 오차 증가.
+Significant inter-device accuracy differences were identified for complete-arch scans; all devices showed error accumulation with increasing arch length and extended edentulous spans; scan path strategy significantly affected accuracy.
+
+No single device was universally superior, and the findings inform device selection and scan strategy decisions when planning full-arch digital impressions.
+
+## 세줄요약
+SR + 네트워크 MA(J Dent 2023, PubMed/Embase, in vitro): 다수 IOS 기기의 전악 스캔 trueness·precision을 비교 랭킹.
+
+기기 간 전악 스캔 정확도 유의한 차이 존재; 모든 기기에서 악궁 연장 및 무치악 구간 확대 시 오차 누적; 스캔 경로 전략이 정확도에 유의한 영향.
+
+단일 기기가 전반적으로 우수하지 않아, 전악 디지털 인상 계획 시 기기 선택과 스캔 전략을 함께 고려해야 함.
 
 ## Summary
 SR and network meta-analysis evaluating and ranking complete-arch scanning accuracy (trueness, precision) across multiple IOS devices.

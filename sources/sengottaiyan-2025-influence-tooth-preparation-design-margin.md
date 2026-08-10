@@ -13,13 +13,21 @@ source_collection: external
 
 [[wiki/prosthetic-materials/tiu-2015-clinical-tooth-preparations-measuring-sr]] catalogued preparation geometry and measuring methods generically; it predates the fully-digital (IOS → CAD → mill) zirconia workflow and does not resolve which finish-line / taper / occlusal-reduction design minimizes marginal and internal misfit in that workflow. This 2025 PROSPERO-registered systematic review (27 in vitro studies) extends Tiu by translating preparation-design choices into specific marginal-discrepancy and internal-gap recommendations for digitally fabricated zirconia prostheses.
 
-## One-line Summary
+## Three-line Summary
 
 Systematic review of 27 in vitro studies: rounded-shoulder finish line favored marginal fit, chamfer favored internal adaptation, and increased taper plus planar occlusal reduction improved fit of digitally fabricated zirconia prostheses (all within the ~60–120 µm clinically acceptable range).
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 27편 in vitro 연구 체계적 고찰: 디지털 제작 지르코니아 보철에서 둥근 숄더 변연선은 변연 적합을, 챔퍼는 내면 적합을 유리하게 했고, 테이퍼 증가와 평면형 교합삭제가 적합도를 개선(모두 임상 허용범위 ~60–120 µm 이내).
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

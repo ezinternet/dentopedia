@@ -6,20 +6,28 @@ date: 2016-07-21
 doi: 10.1371/journal.pone.0159843
 source: huynh-2016-saline-rinsing-gingival-fibroblast-wound-healing.md
 category: [periodontics]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/huynh-2016-saline-rinsing-gingival-fibroblast-wound-healing.pdf
 pdf_filename: huynh-2016-saline-rinsing-gingival-fibroblast-wound-healing.pdf
 source_collection: external
 tags: [saline, wound-healing, gingival-fibroblast, NaCl, FAK, ECM, cell-migration, chloride]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In vitro study (PLOS ONE 2016, n = primary hGFs) demonstrating that 0.9–1.8% NaCl rinsing significantly promotes human gingival fibroblast migration and upregulates COL1, fibronectin, and FAK, with 1.8% optimal and Cl⁻ ion identified as the active mediator; no effect on oral keratinocytes.
+In vitro study (PLOS ONE 2016, Chulalongkorn University) using primary human gingival fibroblasts (hGFs) and oral keratinocytes (hNOKs) exposed 3×/day to 2-minute rinses with 0–7.2% NaCl, assessing migration, proliferation, ECM gene expression, and cytoskeletal reorganization.
 
-## 한줄요약
+0.9–1.8% NaCl significantly promoted hGF migration (scratch and transwell assays, p<0.05/0.01) and upregulated COL1 >3-fold, fibronectin, and FAK mRNA at 1.8%; 7.2% NaCl inhibited migration; hNOKs showed no response; Cl⁻ ion (not Na⁺ or osmolarity) was identified as the active mediator by ion-substitution controls.
 
-In vitro 연구 (PLOS ONE 2016): 0.9–1.8% NaCl 세척이 치은 섬유아세포(hGF) 이동을 유의하게 촉진하고 COL1·피브로넥틴·FAK를 상향 조절하며, 1.8%가 최적; Cl⁻ 이온이 핵심 매개체이고 구강 각화세포에는 효과 없음.
+0.9–1.8% saline is a physiologically grounded wound-rinsing agent whose gingival wound-healing benefit is migration-driven via Cl⁻-mediated FAK/focal-adhesion activation; concentrations ≥7.2% are inhibitory, defining a therapeutic window for clinical saline rinse recommendations post-surgery.
+
+## 세줄요약
+
+In vitro 연구 (PLOS ONE 2016, 출라롱콘대): 1차 인체 치은 섬유아세포(hGF)·구강 각화세포(hNOK)에 0–7.2% NaCl 1일 3회 2분 세척 노출; 이동·증식·세포외기질(ECM) 유전자 발현·세포골격 재구성 평가.
+
+0.9–1.8% NaCl은 hGF 이동을 유의하게 촉진(p<0.05/0.01)하고 1.8%에서 COL1 >3배·피브로넥틴·FAK mRNA 상향 조절; 7.2%는 이동 억제; hNOK 무반응; 이온 대체 실험에서 Cl⁻ 이온이 핵심 매개체로 확인.
+
+0.9–1.8% 생리식염수는 Cl⁻ 매개 FAK/초점 접착 활성화를 통한 이동 촉진으로 치은 창상 치유 효과가 있으며, ≥7.2%는 억제 — 수술 후 생리식염수 구강 세척 농도에 대한 치료적 근거를 제공한다.
 
 ## Summary
 
@@ -63,6 +71,6 @@ This PLOS ONE study from Chulalongkorn University (Bangkok) provided the first c
 
 ## Related Papers
 
-- [[periodontics/buskermolen-2018-saliva-derived-biofilms-gingiva-model]] — gingival tissue model context; biofilm–fibroblast interactions
-- [[periodontics/deepthi-2020-ozone-therapy-periodontics-meta-analysis]] — adjunct wound-healing intervention in periodontics for comparison
+- [[oral-microbiology/buskermolen-2018-saliva-derived-biofilms-gingiva-model]] — gingival tissue model context; biofilm–fibroblast interactions
+- [[periodontics/non-surgical-instrumentation/deepthi-2020-ozone-therapy-periodontics-meta-analysis]] — adjunct wound-healing intervention in periodontics for comparison
 - [[suture-wound-closure/sen-2024-sutureless-multiple-suture-third-molar-inflammation]] — clinical wound closure post-surgery where saline rinsing is commonly prescribed

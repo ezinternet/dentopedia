@@ -15,16 +15,19 @@ providing pH and titratable-acidity benchmarks directly relevant to the dietary-
 discussed in [[dental-erosion/kanzow-2016-etiology-pathogenesis-dental-erosion]] and the
 acid-challenge methodology used in [[dental-erosion/souza-2020-citrus-sweets-enamel-erosion-invitro]].
 
-## One-line Summary
-In-vitro profilometry study (n = 96 enamel specimens from 24 third molars) comparing the
-erosive potential of five soft drinks over 10 days (30 immersions), finding Coca-Cola (pH 2.67)
-most erosive at 15 min and orange juice (pH 3.73, highest titratable acidity) equally erosive at
-longer exposures, while strawberry yoghurt (pH 4.21) caused no significant enamel roughness change.
+## Three-line Summary
+In-vitro profilometry study (n = 96 enamel specimens from 24 human third molars) comparing the erosive potential of five soft drinks and yoghurt over 10 days of repeated immersion.
 
-## 한줄요약
-In-vitro 연구 (n=96 법랑질 시편, 10일 침지): pH 2.67 Coca-Cola가 단기(15분) 가장 강한 침식을
-유발하고, pH 3.73 오렌지주스는 장기(30·60분) 동등하게 침식; pH 4.21 딸기요구르트는 유의한 침식
-없음 — 적정산도(TA)가 pH만큼 중요한 침식 예측인자임을 시사.
+Coca-Cola (pH 2.67, phosphoric acid) caused the most rapid erosion at 15 min (Ra 1.49 μm), while orange juice (pH 3.73, highest titratable acidity 5.70 mL) matched it at 30–60 min; strawberry yoghurt (pH 4.21) caused no detectable erosion.
+
+Low pH alone does not predict erosion rank — titratable acidity (buffering capacity) is equally important, and saturated calcium/phosphate beverages (yoghurt) protect enamel despite acidic exposure.
+
+## 세줄요약
+In-vitro 표면거칠기 연구 (n=96 법랑질 시편, 24개 사랑니, 10일 30회 침지): 5가지 청량음료의 침식성 비교.
+
+Coca-Cola (pH 2.67, 인산)은 15분에 가장 빠른 침식 (Ra 1.49 μm); 오렌지주스 (pH 3.73, 적정산도 5.70 mL)는 30–60분에 동등하게 침식; 딸기요구르트 (pH 4.21)는 침식 없음.
+
+pH 단독으로는 침식성 순위를 예측할 수 없음 — 적정산도(완충용량)가 동등하게 중요하며, 포화 칼슘/인산염 음료는 산성 노출에도 불구하고 법랑질 보호.
 
 ## 1. Document Information
 - Med Princ Pract. 2015;24(5):451–457. Published online 19 June 2015.

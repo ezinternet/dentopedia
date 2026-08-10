@@ -13,13 +13,21 @@ source_collection: external
 
 [[wiki/bone-regeneration/ridge-preservation/bassir-2018-alveolar-ridge-preservation-meta-analysis]]는 효과량을 conventional + radiographic 측정 혼합으로 pooling했으나, 본 SR+MA (Pickert 2022)는 CBCT 측정만으로 한정해 측정-이질성을 제거하고 graft 재료군(xenogenic vs allogenic) 간 직접 비교를 제공한다 — anchor의 "어느 재료가 우월한가" 미해결 질문을 CBCT subgroup 근거로 보강.
 
-## One-line Summary
+## Three-line Summary
 
 SR+MA (16 qualitative / 9 quantitative RCTs, CBCT-only) showing xenogenic graft materials produced significantly less vertical and horizontal ridge reduction than allogenic in alveolar ridge preservation, though no material fully prevented dimensional loss.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 CBCT 측정만 모은 SR+MA(정성 16편·정량 9편)로, 치조제보존술에서 xenograft가 allograft보다 수직·수평 골 흡수를 유의하게 덜 일으켰으나(P<0.05) 어떤 재료도 치조제 치수 손실을 완전히 막지는 못했다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

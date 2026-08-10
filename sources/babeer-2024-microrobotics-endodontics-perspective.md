@@ -10,13 +10,23 @@ source_collection: external
 ---
 
 ## Why Ingested
-Frontier perspective on magnetically controlled microrobots for root canal disinfection — a technology review extending [[endodontics/irrigation/boutsioukis-2022-irrigants-irrigation-methods-status-directions]] (which concluded current activation methods cannot predictably access anatomical intricacies) into nanotechnology-enabled multifunctional solutions. Complements [[endodontics/ordinola-zapata-2022-intracanal-medicaments-status-directions]] by targeting inaccessible biofilm that even optimal medicament strategies cannot reach.
+Frontier perspective on magnetically controlled microrobots for root canal disinfection — a technology review extending [[endodontics/irrigation/boutsioukis-2022-irrigants-irrigation-methods-status-directions]] (which concluded current activation methods cannot predictably access anatomical intricacies) into nanotechnology-enabled multifunctional solutions. Complements [[endodontics/irrigation/ordinola-zapata-2022-intracanal-medicaments-status-directions]] by targeting inaccessible biofilm that even optimal medicament strategies cannot reach.
 
-## One-line Summary
-Perspective narrative review describing three categories of magnetically controlled microrobots (aggregated iron oxide microswarms, 3D-molded soft helicoids ~700 μm × 1.5 mm, and helical silica nanorobots ~3 μm) that can disrupt biofilm, generate ROS, deliver antibiotics on-demand, and retrieve microbiome samples from root canal intricacies inaccessible to conventional methods.
+## Three-line Summary
 
-## 한줄요약
-Perspective review: 자기장 제어 마이크로로봇(IONP 마이크로스웜·3D 헬리코이드·실리카 나노로봇) 3종이 근관 난접근부의 바이오필름 파괴·살균·진단 샘플 채취를 동시 수행 — 기존 세정·활성화법의 한계를 극복하는 차세대 근관 치료 기술.
+Perspective narrative review (Int Endod J 2024;57(7):861–871, University of Pennsylvania/King Abdulaziz University) describing three categories of magnetically controlled microrobots for endodontic disinfection: aggregated IONP microswarms, 3D-molded soft helicoids (~700 μm × 1.5 mm), and helical silica nanorobots (~3 μm).
+
+All three platforms demonstrated in vitro or ex vivo capacity to disrupt biofilm, generate ROS, penetrate dentinal tubules (up to ~1000 μm), deliver antibiotics on-demand, and retrieve microbiome samples from sites inaccessible to conventional irrigation/activation; IONP microswarms showed higher killing vs 3% NaOCl in preliminary experiments.
+
+These technologies remain in preclinical (in vitro/ex vivo) stages; complete nanoparticle retrieval, in vivo safety, and clinical translation are unresolved — the perspective identifies the gap that existing activation methods leave unaddressed.
+
+## 세줄요약
+
+퍼스펙티브 내러티브 리뷰 (Int Endod J 2024;57(7):861–871, 펜실베니아대/킹 압둘아지즈대) — 근관 소독을 위한 3종 자기장 제어 마이크로로봇: IONP 마이크로스웜(Microswarm), 3D 성형 연성 헬리코이드(~700 μm × 1.5 mm), 나선형 실리카 나노로봇(~3 μm).
+
+3종 모두 in vitro/ex vivo에서 바이오필름 파괴·ROS 생성·상아세관 침투(~1000 μm)·항생제 온디맨드 방출·미생물 샘플 회수 능력 확인; IONP 마이크로스웜은 예비 실험에서 3% NaOCl 대비 높은 살균력.
+
+전임상(in vitro/ex vivo) 단계로 완전한 나노입자 회수·생체 내 안전성·임상 전환 미해결 — 기존 근관 세정·활성화법으로 접근 불가능한 해부학적 복잡 부위 문제를 해결할 미래 기술.
 
 ## 1. Document Information
 - Int Endod J. 2024;57(7):861–871 (published July 2024; PMC available from August 2024). DOI: 10.1111/iej.14082.

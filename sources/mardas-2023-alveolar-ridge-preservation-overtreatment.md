@@ -9,8 +9,21 @@ pdf_filename: mardas-2023-alveolar-ridge-preservation-overtreatment.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Critical review (Periodontology 2000, open access) examining the four conventional objectives of **alveolar ridge preservation (ARP)** — limiting dimensional change, promoting bone formation, preserving soft tissue/contour, and enabling implant placement without additional augmentation — and concluding that ARP is clinically valid and safe but is not universally indicated; in selected scenarios (thick walls, posterior sites, no esthetic demand) unassisted socket healing yields comparable outcomes and ARP can constitute overtreatment.
+## Three-line Summary
+
+Critical review (Periodontology 2000, open access) examining the four conventional objectives of **alveolar ridge preservation (ARP)**
+
+limiting dimensional change, promoting bone formation, preserving soft tissue/contour, and enabling implant placement without additional augmentation
+
+and concluding that ARP is clinically valid and safe but is not universally indicated; in selected scenarios (thick walls, posterior sites, no esthetic demand) unassisted socket healing yields comparable outcomes and ARP can constitute overtreatment.
+
+## 세줄요약
+
+Critical review (Periodontology 2000, open access) examining the four conventional objectives of **alveolar ridge preservation (ARP)**
+
+limiting dimensional change, promoting bone formation, preserving soft tissue/contour, and enabling implant placement without additional augmentation
+
+and concluding that ARP is 임상적 (Clinical)ly valid and safe but is not universally indicated; in selected scenarios (thick walls, posterior sites, no esthetic demand) unassisted socket healing yields comparable outcomes and ARP can constitute overtreatment.
 
 ## 1. Document Information
 - **Journal**: Periodontology 2000 2023;93(1):289–308

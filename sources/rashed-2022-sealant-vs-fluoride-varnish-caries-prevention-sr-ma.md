@@ -17,13 +17,21 @@ text_filename: rashed-2022-sealant-vs-fluoride-varnish-caries-prevention-sr-ma.t
 
 Sealant 감시 인제스트 — 치면열구전색 (Pit-and-Fissure Sealant, PFS) vs 불소바니시 (Fluoride Varnish, FV) 직접비교 SR+MA 근거. 동일한 head-to-head RCT 질문을 다룬 [[caries/chestnutt-2017-fissure-seal-fluoride-varnish-trial]]를 재확인·집계하고(둘 다 "2년 시점 유의차 없음"), 비용·시술 용이성 논거에서 [[caries/kumar-2026-fluoride-varnish-caries-prevention-cost-effectiveness-sr-ma]]와 짝을 이룬다.
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (4 RCTs, 1249 children, all 24-month follow-up): pit-and-fissure resin sealant and fluoride varnish show **no significant difference** in caries prevention of first permanent molars (caries-increment RR 0.65, 95% CI 0.31-1.35, p=0.26, I²=89%; DMFS MD 0.09, 95% CI -0.03 to 0.21), so FV is favored as cheaper/easier.
+SR+MA (4 RCTs, 1249 children, all 24-month follow-up): pit-and-fissure resin sealant and fluoride varnish show **no significant difference** in caries prevention of first permanent molars (caries-increment RR 0.65, 95% CI 0.31-1.35, p=0.26, I²=89%;
 
-## 한줄요약
+DMFS MD 0.09, 95% CI -0.03 to 0.21), so FV is favored as cheaper/easier.
 
-SR+MA (RCT 4편, 어린이 1249명, 모두 24개월 추적): 제1대구치 우식예방에서 치면열구전색(레진계)과 불소바니시는 **유의한 차이 없음**(우식증가 RR 0.65, 95% CI 0.31-1.35, p=0.26, I²=89%; DMFS MD 0.09, 95% CI -0.03~0.21) → 더 싸고 시술이 쉬운 불소바니시를 권장.
+(incomplete)
+
+## 세줄요약
+
+SR+MA (RCT 4편, 어린이 1249명, 모두 24개월 추적): 제1대구치 우식예방에서 치면열구전색(레진계)과 불소바니시는 **유의한 차이 없음**(우식증가 RR 0.65, 95% CI 0.31-1.35, p=0.26, I²=89%;
+
+DMFS MD 0.09, 95% CI -0.03~0.21) → 더 싸고 시술이 쉬운 불소바니시를 권장.
+
+(incomplete)
 
 ## 1. Document Information
 

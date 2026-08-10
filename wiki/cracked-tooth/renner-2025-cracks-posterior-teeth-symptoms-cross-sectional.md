@@ -6,7 +6,7 @@ date: 2025-04-24
 doi: 10.1111/adj.13075
 source: renner-2025-cracks-posterior-teeth-symptoms-cross-sectional.md
 category: cracked-tooth
-confidence: cross-sectional
+evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/renner-2025-cracks-posterior-teeth-symptoms-cross-sectional.txt
 pdf_filename: renner-2025-cracks-posterior-teeth-symptoms-cross-sectional.txt
 source_collection: pubmed-text
@@ -23,13 +23,21 @@ relations:
     target: raj-2025-cracked-tooth-syndrome-diagnostic-dilemma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective practice-based cross-sectional study (147 patient records, single Australian general practice, 2014–2017) of posterior cracked teeth: 55.1% were asymptomatic and 55.1% of cracks were invisible until the restoration was removed; cold sensitivity was associated with unrestored marginal ridges (OR 2.89), pre-removal-visible cracks (OR 3.04) and combined body+cusp cracks (OR 3.11), and inversely with staining (OR 0.30); 51.7% gave a negative bite test, with positive bite test driven by pain-on-biting (OR 36.96), molars (OR 3.71) and visible cracks (OR 3.44); intersecting cracks were tied to molars (OR 8.79) and amalgam (OR 4.81).
+Retrospective practice-based cross-sectional study (147 posterior cracked teeth, single Australian general practice, 2014–2017) capturing cracks visible only after restoration removal — a population missed by specialist-referral registries.
 
-## 한줄요약
+55.1% of cracked teeth were asymptomatic and 55.1% were invisible until restoration removal; cold sensitivity was associated with unrestored marginal ridges (OR 2.89), pre-removal-visible cracks (OR 3.04), and combined body+cusp cracks (OR 3.11) but inversely with staining (OR 0.30); 51.7% of confirmed cracked teeth returned a negative bite test.
 
-후향적 단면 개원가 연구 (호주 일반치과 1곳, 환자기록 147건, 2014–2017): 구치부 균열치의 55.1%가 무증상, 55.1%는 수복물을 떼어내야 균열이 보였다. 한랭 민감성(cold sensitivity)은 비수복 변연융선(unrestored marginal ridge, OR 2.89)·제거 전 가시 균열(OR 3.04)·체부+교두 복합균열(body & cusp crack, OR 3.11)과 연관, 착색 균열과는 역연관(OR 0.30). 균열치의 51.7%가 bite test 음성이며 양성은 교합통(OR 36.96)·대구치(OR 3.71)·가시 균열(OR 3.44)이 견인. 교차균열(intersecting crack)은 대구치(OR 8.79)·아말감(OR 4.81)과 연관 — 전문의 진료 문헌과 다른 일반 개원가의 실제 양상.
+A negative bite test does not rule out a crack; routine restoration replacement should trigger comprehensive re-examination of the tooth including the cavity floor and cusp bases, as the majority of cracks in a general-practice setting are asymptomatic and hidden under restorations.
+
+## 세줄요약
+
+후향적 단면 개원가 연구 (호주 일반치과 1곳, 147건, 2014–2017): 전문의 의뢰 중심 기존 연구와 달리 수복물 제거 후에야 발견되는 균열을 포함한 일반 개원가 실제 양상 분석.
+
+균열치의 55.1%가 무증상이고 55.1%는 수복물 제거 전엔 비가시적; 한랭 민감성은 비수복 변연융선(OR 2.89)·가시 균열(OR 3.04)·체부+교두 복합균열(OR 3.11)과 연관, 착색과는 역연관(OR 0.30); 균열치의 51.7%에서 bite test 음성.
+
+Bite test 음성이라도 균열을 배제할 수 없음; 수복물 교체 시 치수강 바닥·교두 기저부까지 반드시 재검사해야 하며, 일반 개원가에서는 대부분의 균열치가 무증상·수복물 하방에 숨어 있음.
 
 ## Summary
 

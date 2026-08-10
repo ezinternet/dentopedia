@@ -9,19 +9,27 @@ text_path: /Users/oracleneo/llm-wiki/papers/aldosari-2026-occlusal-splints-vs-bo
 text_filename: aldosari-2026-occlusal-splints-vs-botulinum-sleep-bruxism-sr-ma.txt
 source: aldosari-2026-occlusal-splints-vs-botulinum-sleep-bruxism-sr-ma.md
 category: [botulinum-toxin]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: false
 tags: [sleep-bruxism, occlusal-splint, tmj, sr-ma, comparative]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (36 studies, adults with sleep bruxism) comparing occlusal splints (OS) vs BTX-A: no significant difference in pain reduction at intermediate follow-up; BTX-A faster short-term relief; OS preferred for mechanical protection; moderate certainty of evidence. Abstract-only.
+SR+MA (36 included studies, 8 databases searched 1998–February 2025, GRADE evidence assessment) comparing occlusal splints (OS) versus BTX-A in adults with sleep bruxism for pain, jaw muscle activity, bite force, mandibular mobility, QoL, and adverse events.
 
-## 한줄요약
+No statistically significant difference in pain reduction was found between OS and BTX-A at intermediate follow-up (moderate certainty); BTX-A produced faster short-term pain relief and temporarily reduced jaw muscle activity and bite force, while OS provided irreplaceable mechanical tooth-surface protection.
 
-성인 수면 브럭시즘 대상 SR+MA(36개 연구)에서 교합안정장치(OS)와 BTX-A는 중간 추적 시점 통증 감소에 유의한 차이가 없었으며, BTX-A는 단기 통증 완화가 더 빠름; 기계적 보호 목표 시 OS 선호; 증거 확실성 중등도. 초록만.
+The clinical algorithm that emerges is OS as conservative first-line when mechanical sequelae prevention is paramount, and BTX-A when rapid pain relief is the priority or OS is not tolerated. (abstract-only)
+
+## 세줄요약
+
+줄1: SR+MA(36개 연구, 8개 DB 1998~2025년 2월) — 성인 수면 브럭시즘 대상 교합안정장치(OS) vs BTX-A 비교: 통증·근활성·교합력·악관절 가동성·QoL·부작용 GRADE 평가.
+
+줄2: 중간 추적 시점 통증 감소: OS와 BTX-A 유의한 차이 없음(중등도 확실성); BTX-A는 단기 통증 완화 빠르고 교합력·근활성 일시 감소; OS는 치아 기계적 보호 기능 대체 불가.
+
+줄3: 기계적 손상 예방이 우선이면 OS 1차 선택, 빠른 통증 완화 우선 또는 OS 불내성 시 BTX-A 선택이 합리적 임상 알고리즘. (초록만)
 
 ## Summary
 

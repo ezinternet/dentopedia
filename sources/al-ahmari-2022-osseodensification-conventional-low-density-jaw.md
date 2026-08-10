@@ -13,8 +13,21 @@ source_collection: external
 
 OD 안정성 우위가 일관되다는 흐름([[implants/isq/althobaiti-2023-osseodensification-conventional-drilling-isq-sr]], [[implants/inchingolo-2021-osseodensification-implant-site-osteotomy-sr-ma]])에 대한 임상 반례. split-mouth 인체 연구인데 골밀도 외 1차/2차 안정성·MBL에서 유의차 없음 — living-document 원칙상 "OD 효과의 적용 한정" 근거로 보관. 동물 RCT [[implants/isq/arpudaswamy-2025-osseodensification-conventional-implant-stability-rabbit]]와도 대비.
 
-## One-line Summary
-Split-mouth in vivo study (20 patients, 40 implants, low-density bone): only immediate post-op bone density significantly favored OD; primary/secondary stability, PI, BOP, PD, and marginal bone loss did NOT differ significantly between OD and conventional.
+## Three-line Summary
+
+Split-mouth in vivo study (20 patients, 40 implants, low-density jaw bone) comparing osseodensification (Densah) vs conventional drilling.
+
+Immediate post-operative bone density was significantly higher with OD; however, primary stability, secondary stability, plaque index, BOP, pocket depth, and marginal bone loss showed no significant difference between groups.
+
+Caution: OD does not consistently confer a measurable stability advantage in low-density bone in this human controlled trial — useful counterweight to OD-favorable pooled SR/MA evidence.
+
+## 세줄요약
+
+분악(split-mouth) 인체 임상연구 (환자 20명, 임플란트 40개, 저밀도 악골) — 골밀도화(Osseodensification, OD) vs 표준 드릴링 비교.
+
+술 직후 골밀도는 OD에서 유의하게 높았으나, 1차·2차 안정성, 플라크지수(PI), 탐침 시 출혈(BOP), 탐침 깊이(PD), 변연골 소실(MBL) 모두 양 군 간 유의차 없음.
+
+저밀도 골에서 OD가 일관되게 안정성 우위를 보인다는 SR+MA 결론을 제한하는 임상 반례 — OD 적응 범위를 신중히 평가해야 함을 시사.
 
 ## 1. Document Information
 - Technology and Health Care 2022. doi 10.3233/THC-220048. Split-mouth in vivo clinical study.

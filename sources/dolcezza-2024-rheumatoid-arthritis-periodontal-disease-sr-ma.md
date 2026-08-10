@@ -17,13 +17,21 @@ text_filename: dolcezza-2024-rheumatoid-arthritis-periodontal-disease-sr-ma.txt
 
 기존 [[periodontics/qiao-2020-rheumatoid-arthritis-risk-periodontitis-sr-ma]]는 치주염→RA *위험* 방향(OR 1.69)을 다루며 "RA 환자에서 치주 치료가 RA 질병활성도를 낮춘다"는 점을 별도로 언급만 했다. 본 Dolcezza 2024 SR+MA(RCT 6편)는 바로 그 **치료(중재) 방향**을 정량화 — 비외과적 치주치료가 DAS28과 CAL을 유의하게 개선함을 보여 qiao-2020을 **보강(reinforces)**한다 (역학적 연관 → 중재적 근거로 확장).
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review + meta-analysis (6 RCTs; periodontal-treatment n=124 vs control n=131) showing non-surgical periodontal therapy in patients with both periodontal disease and rheumatoid arthritis significantly reduces RA activity (DAS28 mean difference −0.56, 95% CI −0.82 to −0.31, p=0.001; I²=39%) and improves clinical attachment level (CAL −0.41 mm, 95% CI −0.70 to −0.12, p=0.006; I²=7%), trim-and-fill adjusted to −0.39 DAS28 points and −0.30 mm.
+Systematic review + meta-analysis of 6 RCTs (periodontal-treatment n=124 vs control n=131) examining whether non-surgical periodontal therapy in patients with concurrent periodontal disease and rheumatoid arthritis reduces RA disease activity.
 
-## 한줄요약
+Non-surgical periodontal therapy significantly reduced RA activity (DAS28 mean difference −0.56, 95% CI −0.82 to −0.31, p=0.001; I²=39%) and improved clinical attachment level (CAL −0.41 mm, 95% CI −0.70 to −0.12, p=0.006; I²=7%); trim-and-fill adjusted estimates remained significant at −0.39 DAS28 points and −0.30 mm.
 
-치주질환과 류마티스 관절염(RA)을 함께 가진 환자에서 비외과적 치주치료(scaling/root planing)가 RA 활성도(DAS28)를 유의하게 낮추고(평균차 −0.56, 95% CI −0.82~−0.31, p=0.001; I²=39%) 임상부착수준(CAL)을 개선한다(−0.41 mm, 95% CI −0.70~−0.12, p=0.006; I²=7%)는 RCT 6편(치료군 124 vs 대조군 131) SR+MA, trim-and-fill 보정 후 −0.39 DAS28점·−0.30 mm.
+Treating periodontal disease has an adjunctive benefit on RA disease activity; however, only 6 small RCTs with short ~2-month follow-up were available, limiting durability conclusions and precluding replacement of antirheumatic therapy.
+
+## 세줄요약
+
+치주질환과 류마티스 관절염(RA)을 동시에 가진 환자 대상으로 비외과적 치주치료가 RA 활성도를 낮추는지 검증한 RCT 6편(치료군 124명 vs 대조군 131명)의 SR+MA.
+
+비외과적 치주치료는 RA 활성도(DAS28)를 유의하게 감소시키고(평균차 −0.56, 95% CI −0.82~−0.31, p=0.001; I²=39%), 임상부착수준(CAL)을 개선했으며(−0.41 mm, 95% CI −0.70~−0.12, p=0.006; I²=7%), trim-and-fill 보정 후에도 유의성이 유지되었다(−0.39 DAS28점·−0.30 mm).
+
+치주치료가 RA 활성도에 부가적 이점을 가지나, 단 6편의 소규모 RCT·약 2개월의 단기 추적으로 지속성 결론이 제한적이며 항류마티스 치료를 대체할 수 없다.
 
 ## 1. Document Information
 

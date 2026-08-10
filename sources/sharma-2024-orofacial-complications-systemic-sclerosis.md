@@ -17,13 +17,21 @@ text_filename: sharma-2024-orofacial-complications-systemic-sclerosis.txt
 
 전신경화증(Systemic Sclerosis, SSc) 환자의 구강 합병증(소구증·구강건조증·치주염·하악골 흡수)을 의학적 고려 대상 환자 관리 맥락에서 정리하기 위해 인제스트. SSc 환자의 ~14%가 동반하는 이차성 쇼그렌증후군의 구강 건조 기전과 연결되어 [[drug/systemic-disease/shiboski-2016-acr-eular-sjogren-classification-criteria]]를 보강하고, 면역억제 환자 임플란트 의사결정 관점에서 [[drug/systemic-disease/shahi-2026-implant-outcomes-diabetes-mellitus-sr]]와 대비된다.
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review (J Dent Res, 3-author) of orofacial complications in systemic sclerosis: microstomia (52–80%), xerostomia (sicca 70%; secondary Sjögren ≤14%), more severe periodontitis (stage III/IV in 90% dcSSc vs 60% lcSSc), condylar resorption (10–50%), trigeminal neuralgia, dysgeusia; MMP-9/CXCL-4 in GCF track early disease; dental implants can succeed but need vasculopathy/bone-quality risk assessment.
+Narrative review (J Dent Res, 3-author) of orofacial complications in systemic sclerosis: microstomia (52–80%), xerostomia (sicca 70%;
 
-## 한줄요약
+secondary Sjögren ≤14%), more severe periodontitis (stage III/IV in 90% dcSSc vs 60% lcSSc), condylar resorption (10–50%), trigeminal neuralgia, dysgeusia;
 
-전신경화증의 구강안면 합병증을 정리한 서술적 종설(J Dent Res, 3저자): 소구증(52–80%), 구강건조증(sicca 70%·이차 쇼그렌 ≤14%), 더 심한 치주염(dcSSc III/IV기 90% vs lcSSc 60%), 하악과두 흡수(10–50%), 삼차신경통, 미각이상; 치은열구액 MMP-9·CXCL-4가 조기 질환과 상관; 임플란트는 혈관병증·골질 평가가 전제되면 성공 가능.
+MMP-9/CXCL-4 in GCF track early disease; dental implants can succeed but need vasculopathy/bone-quality risk assessment.
+
+## 세줄요약
+
+전신경화증의 구강안면 합병증을 정리한 서술적 종설(J Dent Res, 3저자): 소구증(52–80%), 구강건조증(sicca 70%·이차 쇼그렌 ≤14%), 더 심한 치주염(dcSSc III/IV기 90% vs lcSSc 60%), 하악과두 흡수(10–50%), 삼차신경통, 미각이상;
+
+치은열구액 MMP-9·CXCL-4가 조기 질환과 상관;
+
+임플란트는 혈관병증·골질 평가가 전제되면 성공 가능.
 
 ## 1. Document Information
 

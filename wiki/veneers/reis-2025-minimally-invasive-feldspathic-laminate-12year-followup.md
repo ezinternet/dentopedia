@@ -6,7 +6,7 @@ date: 2025-07-13
 doi: 10.1111/jerd.70001
 source: reis-2025-minimally-invasive-feldspathic-laminate-12year-followup.md
 category: [veneers]
-confidence: case-report
+evidence_level: case-report
 source_collection: pubmed-text
 full_text: true
 pmid: "40653452"
@@ -22,13 +22,21 @@ relations:
     target: gonzalez-martin-2024-ultrathin-feldspathic-veneer-sem-etching
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Case report (J Esthet Restor Dent 2025) of maxillary anterior diastema closure and morphology correction with thin (<0.5 mm) feldspathic laminates on enamel-limited (~0.2 mm cervical, knife-edge) minimally invasive preparations — HF + phosphoric-acid clean + silane on ceramic, 3-step adhesive + light-cured veneer cement under cotton-roll isolation — surviving 12+ years with no fracture, caries, pulpal change, sensitivity, or repair.
+Case report (J Esthet Restor Dent 2025; 23-year-old male, maxillary anterior diastema closure and morphology correction) using thin (<0.5 mm) feldspathic laminates on minimally invasive enamel-confined preparations (~0.2 mm cervical, knife-edge finish line) with a full analog workflow (additive wax-up → PVS index → bis-acrylic mock-up → refractory-die feldspathic laminates).
 
-## 한줄요약
+Adhesive protocol: 10% HF 90 s + 37% phosphoric acid clean + silane on ceramic; 3-step adhesive (Scotchbond Multi-Purpose) + light-cured RelyX Veneer cement under cotton-roll isolation; at 12+ years of follow-up the only finding was subtle marginal staining from gingival recession — zero fracture, secondary caries, pulpitis/necrosis, sensitivity, or repair.
 
-상악 전치 치간이개 폐쇄·형태 수정을 thin (<0.5 mm) feldspathic 라미네이트로 시행한 case report (J Esthet Restor Dent 2025). 법랑질 한정 최소삭제(치경부 ~0.2 mm, knife-edge) + 세라믹 HF/인산 세척·실란, 3-step 접착제·광중합 비니어 시멘트, 코튼롤 격리로 접착하여 **12년+ 추적 동안 파절·우식·치수변화·과민·재수복 없이 생존**.
+The clinical significance is a real-world demonstration that the ≥50% enamel substrate / ≥70% enamel margin adhesion rule and enamel-limited minimally invasive preparation can sustain feldspathic laminate veneers beyond 12 years with an exceptional biologic and mechanical safety profile; limitation: single case, no comparative data.
+
+## 세줄요약
+
+증례 보고 (J Esthet Restor Dent 2025; 23세 남성, 상악 전치 치간이개·형태 수정): 부가형 왁스업→PVS 인덱스→bis-acryl 목업 아날로그 워크플로우, <0.5 mm 장석질 라미네이트, 법랑질 한정 최소삭제(치경부 ~0.2 mm, knife-edge 마무리선).
+
+접착 프로토콜: 세라믹 HF 10% 90초 + 인산 37% 세척 + 실란 → 3-step 접착제(Scotchbond Multi-Purpose) + 광중합 RelyX Veneer 시멘트, 코튼롤 격리; 12년+ 추적에서 치은 퇴축에 의한 미세 변연 착색만 관찰 — 파절·이차 우식·치수 병변·과민·재수복 0건.
+
+임상적 의미: 법랑질 ≥50% 기질·변연 ≥70% 법랑질 접착 원칙과 최소삭제를 준수하면 장석질 라미네이트가 12년 이상 우수한 생물학적·기계적 안전 프로파일 유지 가능; 단, 단일 증례로 일반화 불가.
 
 ## Summary
 

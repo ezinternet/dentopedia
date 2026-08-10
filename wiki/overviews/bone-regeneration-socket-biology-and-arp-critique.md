@@ -6,18 +6,23 @@ date: 2026-05-26
 doi: N/A
 source: N/A
 category: overviews
-confidence: synthesis
+evidence_level: synthesis
 pdf_path: N/A
 pdf_filename: N/A
 source_collection: synthesis
 tags: [bone-regeneration, arp, socket-healing, biology, overtreatment, failure-modes, prf, calcium-sulphate, ridge-split, peri-implantitis, overview]
+relations:
+  - type: extends
+    target: adams-2022-clinical-evidence-alveolar-ridge-preservation
+  - type: refines
+    target: bone-regeneration-protocol-ladder
 ---
 
 ## 한국어 핵심요약
 
 > [!summary] 한국어 핵심요약
 > - 이 페이지의 핵심 명제: 치조제 보존술(Alveolar Ridge Preservation, ARP)은 보편 권고가 아니라 **시나리오 의존적 개입**이며, "언제 안 해도 되나·왜 실패하나·무엇을 더할 수 있나"를 다루는 do-ARP의 짝(counterpoint) 페이지다.
-> - 발치 후 협측골 흡수는 다발골(bundle bone) 의존성 때문에 **생물학적으로 불가피** — 즉시식립 단독으로도 막지 못한다 (Araujo 2005, 개 조직학). [근거강함]
+> - 발치 후 협측골 흡수는 다발골(bundle bone) 의존성 때문에 **생물학적으로 불가피** — 즉시식립 단독으로도 막지 못한다 (Araujo 2005, 개 조직학). [확인]
 > - 자연 치유 1년 동안 협설폭(buccolingual width) ~50% 감소, 그 중 2/3가 첫 3개월에 발생 (Schropp 2003, 인간 전향). ARP·즉시식립 timing 임계값.
 > - ARP를 **하지 말아야 할** 시나리오: ①후방부 두꺼운 협측 골벽(BBT ≥ 1.5 mm) + 식립 예정 ②즉시식립 가능 부위 ③이미 GBR 예정인 큰 결손 ④임플란트 계획 없는 가철식/FPD (심미부위 예외).
 > - ARP 후 임플란트 실패의 단일 유의 예측인자는 **순수골 결합(Pristine Bone Engagement, PBE) < 1.1 mm → HR 2.50** (Kang 2025, n=528). 임플란트 길이가 graft zone보다 ≥1.1 mm 더 native bone에 박히도록 계획.
@@ -32,24 +37,32 @@ tags: [bone-regeneration, arp, socket-healing, biology, overtreatment, failure-m
 > - **손상된(damaged) socket의 생물학적 보강**: rhBMP-2는 즉시 적용이 2주 지연보다 신생골 우위(10.8 vs 6.3 mm², p=0.043; Kim 2020, 비글견) — 단 초기 염증은 즉시군에서 더 강함. PRF sticky bone(i-PRF+DPBM)은 2벽 결손에서 GBR(DPBM+콜라겐막)과 신생골 형성 동등(non-inferior)이며 PRF는 1주차 osteocalcin·VEGF·IL-6만 소폭 상향(Park 2022, 비글견) — 축 4 adjunct 신호 보강(PRF는 SR 우위 미입증과 일관).
 > - 임상 takeaway: ARP 결정의 분모는 자연 치유다. ARP intervention 효과(수평 1.86–2.19 mm 감소)를 자연 치유 baseline과 비교해 net gain이 충분할 때만 시행. 단 고령·감염·손상 socket은 baseline 치유능 자체가 저하되므로(Shin 2026, Lee 2021) intact-socket 회의론을 그대로 적용하지 말 것.
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis (counterpoint to the do-ARP protocol-ladder page) organizing ~20 unsynthesized bone-regeneration papers across 5 axes — socket healing biology, ARP critical appraisal (when NOT to graft), ARP-then-implant failure predictors, adjunct materials, and beyond-ARP scenarios. Core thesis: Alveolar Ridge Preservation (ARP) is a scenario-dependent intervention, not a universal recommendation — post-extraction buccal resorption is biologically inevitable (bundle-bone dependence; Araujo 2005), ARP preserves dimension but not vital-bone quality (residual graft particles), and the single significant predictor of post-ARP implant failure is Pristine Bone Engagement (PBE) < 1.1 mm → HR 2.50 (Kang 2025, n=528). Clinical takeaway: judge ARP's net gain against the natural-healing baseline and plan implant length to engage ≥1.1 mm of native bone beyond the graft zone.
+Synthesis (counterpoint to the do-ARP protocol-ladder page) across 5 axes — socket healing biology, ARP critical appraisal (when NOT to graft), post-ARP implant failure predictors, adjunct materials, and beyond-ARP scenarios: post-extraction buccal resorption is biologically inevitable (bundle-bone dependence; Araujo 2005 dog histology), ~50% of buccolingual width lost by 1 year with 2/3 occurring in the first 3 months (Schropp 2003 prospective).
 
-## 한줄요약
+ARP preserves dimension but not vital-bone quality (residual graft particles keep new bone % low at 6 months: 16% vital bone, 32% residual xenograft; Mardas 2023, Poli 2017); the single significant predictor of post-ARP implant failure is Pristine Bone Engagement (PBE) < 1.1 mm → HR 2.50 (Kang 2025, n=528); and Mardas 2023's overtreatment criticism applies to intact sockets, while damaged/infected sockets clearly benefit (ARP reduces implant-site failure from 4.7% to 0.8%; Lee 2021).
 
-발치 socket 자연 치유 생물학 (Araujo·Cardaropoli·Schropp 고전 axis) + 치조제 보존술 (Alveolar Ridge Preservation, ARP) 의 한계·실패·과잉치료 비판 axis 를 합성. [[bone-regeneration-protocol-ladder]] (do-ARP) 의 counterpoint 페이지 — "언제 안 해도 되나·왜 실패하나·무엇을 더할 수 있나" 의 spine.
+Clinical takeaway: judge ARP's net gain against the natural-healing baseline; plan implant length to engage ≥1.1 mm of native bone beyond the graft zone; aging reduces socket healing capacity (Shin 2026 animal), justifying extended healing periods in elderly; calcium sulfate 50:50 mix improves new-bone quality at 4 months (Signoriello 2025); PRF has only narrative-level evidence.
+
+## 세줄요약
+
+발치와 자연 치유 생물학 + ARP 한계·과잉치료 비판 5축 종합 — do-ARP 페이지의 대응쌍: 협측골 흡수는 다발골(bundle bone) 의존으로 생물학적 불가피(Araujo 2005), 협설폭 1년 ~50% 감소의 2/3이 첫 3개월 발생(Schropp 2003).
+
+ARP는 차원 보존이지 골 질 향상이 아님 — 6개월 신생골 16%·잔류 이종골 32%(Poli 2017); ARP 후 임플란트 실패 단일 유의 예측인자 = 순수골 결합(Pristine Bone Engagement, PBE) < 1.1mm → HR 2.50(Kang 2025, n=528); 과잉치료 비판(Mardas 2023)은 온전 소켓 전제이며 감염·손상 소켓은 ARP 실익 분명(Lee 2021: 식립 불가율 4.7%→0.8%).
+
+임상 결론: ARP의 순이득을 자연치유 baseline과 비교해 판단; 임플란트 길이는 graft zone보다 ≥1.1mm 이상 native bone 확보; 고령·손상 소켓은 intact-socket 회의론을 그대로 적용 금지; 황산칼슘(calcium sulphate) 50:50 혼합이 신생골 quality 개선(Signoriello 2025); PRF는 SR 수준 근거 미입증.
 
 ## Summary
 
 [[bone-regeneration-protocol-ladder]] 가 "ARP 를 어떻게 할 것인가" 의 protocol ladder 라면, 본 페이지는 그 보완쌍 — (1) 자연 치유의 생물학적 기전, (2) ARP 비판·과잉치료 논쟁, (3) ARP 후 임플란트 실패 예측인자, (4) 보조 재료 (PRF, calcium sulphate, mixed graft), (5) ARP 가 부족한 시나리오 (ridge split, peri-implantitis GBR) 5축. Araujo 2005 의 2단계 흡수 기전부터 Mardas 2023 의 overtreatment 비판까지 한 페이지로 묶음.
 
 핵심 명제 5개:
-1. **발치 후 협측골 흡수는 bundle bone 의존성 때문에 생물학적으로 불가피** — Araujo 2005 dog histology. 즉시식립도 단독으로 예방 불가. [근거강함]
-2. **자연 치유 1년 — 협설폭 ~50% 감소, 그 중 2/3 는 첫 3개월** — Schropp 2003 인간 prospective. ARP·즉시식립 결정의 timing 임계값. [근거강함]
-3. **ARP 는 보편적 권고 아닌 scenario-dependent intervention. 후방부 두꺼운 골벽·즉시식립 예정 부위는 과잉치료** — Mardas 2023 Periodontology 2000. [합의수준]
-4. **ARP 후 임플란트 실패 단일 유의 예측인자 — Pristine Bone Engagement (PBE) < 1.1 mm → HR 2.50** — Kang 2025 retrospective (n=528, 3.5y). 외과 술식 시 implant 길이로 graft zone 보다 ≥1.1 mm 보 native bone 확보 prerequisite. [근거강함]
-5. **Late xenograft failure (5-13y 만성 섬유 포함·peri-implantitis 양상) 은 보고되지만 SR 에서 빠짐** — Adams 2022 BDJ. Atieh 2021 Cochrane "very low certainty" 와 결이 맞음. [claude해석]
+1. **발치 후 협측골 흡수는 bundle bone 의존성 때문에 생물학적으로 불가피** — Araujo 2005 dog histology. 즉시식립도 단독으로 예방 불가. [확인]
+2. **자연 치유 1년 — 협설폭 ~50% 감소, 그 중 2/3 는 첫 3개월** — Schropp 2003 인간 prospective. ARP·즉시식립 결정의 timing 임계값. [확인]
+3. **ARP 는 보편적 권고 아닌 scenario-dependent intervention. 후방부 두꺼운 골벽·즉시식립 예정 부위는 과잉치료** — Mardas 2023 Periodontology 2000. [확인]
+4. **ARP 후 임플란트 실패 단일 유의 예측인자 — Pristine Bone Engagement (PBE) < 1.1 mm → HR 2.50** — Kang 2025 retrospective (n=528, 3.5y). 외과 술식 시 implant 길이로 graft zone 보다 ≥1.1 mm 보 native bone 확보 prerequisite. [확인]
+5. **Late xenograft failure (5-13y 만성 섬유 포함·peri-implantitis 양상) 은 보고되지만 SR 에서 빠짐** — Adams 2022 BDJ. Atieh 2021 Cochrane "very low certainty" 와 결이 맞음. [미검증]
 
 ## Key Contributions
 
@@ -65,7 +78,7 @@ Synthesis (counterpoint to the do-ARP protocol-ladder page) organizing ~20 unsyn
 
 ### 축 1 — Socket Healing Biology (the baseline ARP must beat)
 
-**핵심 수치**: 자연 치유 12mo — 협설폭 ~50% 감소, 협측 수직 ~1 mm, 손실의 2/3 가 첫 3개월. 협측은 bundle bone 의존이라 설측보다 항상 더 흡수. [근거강함]
+**핵심 수치**: 자연 치유 12mo — 협설폭 ~50% 감소, 협측 수직 ~1 mm, 손실의 2/3 가 첫 3개월. 협측은 bundle bone 의존이라 설측보다 항상 더 흡수. [확인]
 
 | Spine paper | Evidence | Key finding |
 |---|---|---|
@@ -78,9 +91,9 @@ Synthesis (counterpoint to the do-ARP protocol-ladder page) organizing ~20 unsyn
 | [[bone-regeneration/lee-2026-animal-models-bone-regeneration-review]] | narrative-review (JPIS 2026, SNU) | 골재생 전임상 동물모델 hierarchy — 설치류 (스크리닝) → 토끼 (중간) → 개 (인체유사) → 미니돼지 (최고유사). 번역 한계·표준화 강조 |
 | [[bone-regeneration/ridge-preservation/shin-2026-aging-socket-healing-rat-jeonbuk]] | animal (rat, 3 age groups, 전북대) | **노화(aging)가 socket 치유능을 저하** — 고령(18M) 군은 골용적·골소주 두께 감소·빈 소켓+염증세포 축적; 역설적으로 10M(중년)이 ALP 최대·최적 골재생, 2M(young) 능가. 자연 치유 baseline이 연령 의존적임을 보여줌 |
 
-**Shin 2026 의 함의 (축 1 보강)**: 본 축의 자연-치유 baseline(Araujo·Schropp·Cardaropoli)은 모두 정상 연령 모델이다. Shin 2026 은 그 baseline 자체가 **연령 의존적**임을 보인다 — 고령(senescent) socket 은 골용적·골소주 두께가 유의하게 낮고 빈 소켓+염증세포로 치유 실패하며, 골재생 peak 은 youth 가 아니라 middle age(10M, ALP 최대)다. 즉 "ARP 가 자연 치유를 얼마나 이기는가"의 분모(자연 치유능)는 고령에서 낮아지므로, 고령 환자에서 ARP·생물학적 보강·치유기간 연장의 net gain 은 상대적으로 커질 수 있다 — 축 2 의 "when NOT to graft" 회의론을 고령 socket 에 그대로 적용해선 안 된다는 nuance. [claude해석 — 동물 단일 timepoint(2wk), 인체 외삽 한계]
+**Shin 2026 의 함의 (축 1 보강)**: 본 축의 자연-치유 baseline(Araujo·Schropp·Cardaropoli)은 모두 정상 연령 모델이다. Shin 2026 은 그 baseline 자체가 **연령 의존적**임을 보인다 — 고령(senescent) socket 은 골용적·골소주 두께가 유의하게 낮고 빈 소켓+염증세포로 치유 실패하며, 골재생 peak 은 youth 가 아니라 middle age(10M, ALP 최대)다. 즉 "ARP 가 자연 치유를 얼마나 이기는가"의 분모(자연 치유능)는 고령에서 낮아지므로, 고령 환자에서 ARP·생물학적 보강·치유기간 연장의 net gain 은 상대적으로 커질 수 있다 — 축 2 의 "when NOT to graft" 회의론을 고령 socket 에 그대로 적용해선 안 된다는 nuance. [미검증 — 동물 단일 timepoint(2wk), 인체 외삽 한계]
 
-**임상 함의**: ARP 결정의 분모는 자연 치유. 그것의 baseline 을 protocol-ladder 의 ARP intervention 효과 (수평 1.86-2.19 mm 감소) 와 비교해서 net gain 평가. [근거강함]
+**임상 함의**: ARP 결정의 분모는 자연 치유. 그것의 baseline 을 protocol-ladder 의 ARP intervention 효과 (수평 1.86-2.19 mm 감소) 와 비교해서 net gain 평가. [확인]
 
 **오판 패턴 (myth 박멸)**:
 - "즉시식립이면 골 보존된다" — Araujo 2005 반박. 즉시식립도 협측 붕괴 막지 못함.
@@ -89,7 +102,7 @@ Synthesis (counterpoint to the do-ARP protocol-ladder page) organizing ~20 unsyn
 
 ### 축 2 — ARP Critical Appraisal: When to NOT graft
 
-**1차 권고**: ARP 는 universal 권고 아닌 scenario-dependent. **후방부 두꺼운 골벽 · 즉시식립 예정 · 이미 큰 결손으로 추가 GBR 예정 부위** 에서는 net gain 작아 과잉치료. [합의수준]
+**1차 권고**: ARP 는 universal 권고 아닌 scenario-dependent. **후방부 두꺼운 골벽 · 즉시식립 예정 · 이미 큰 결손으로 추가 GBR 예정 부위** 에서는 net gain 작아 과잉치료. [확인]
 
 | Spine paper | Evidence | Key finding |
 |---|---|---|
@@ -100,9 +113,9 @@ Synthesis (counterpoint to the do-ARP protocol-ladder page) organizing ~20 unsyn
 | [[bone-regeneration/ridge-preservation/lee-2021-alveolar-ridge-preservation-periodontally-compromised]] | retrospective (인간 n=418 부위, 287명, SNU) | **감염 socket subgroup 에서 ARP 실익 입증** — 치주적으로 손상된 발치와에서 ARP 가 임플란트 식립 불가율 4.7%→0.8% 로 유의 감소. 식립 시 수평·수직·총 골이식 필요를 다변량 회귀에서 "no-ARP" 가 독립 예측 (location · sex 와 함께). overtreatment 비판의 socket-condition-dependent 반례 |
 | [[bone-regeneration/ridge-preservation/muller-2025-arp-vs-sh-early-implant-3year-rct]] | RCT (탐색적, 인간 n=35, 3년, Zurich) | **ARP vs 자연치유(SH) 직접 비교 — 3년 우위 NS**. 조기 식립(8주) 전 DBBM-C/CM·DBBM-C·SH 3군 모두 외형 감소 통계 유의하나 임상적 미미(−0.23·−0.21·−0.33 mm), 군 간 차이·변연골 소실·임상지표 모두 NS. intact-socket(협측판 ≤50% 소실) 에서 ARP 가 SH 대비 측정 가능한 우위를 못 보인 직접 RCT 근거 (단 검정력 부족) |
 
-**Mardas 2023 의 overtreatment 비판은 socket 상태에 의존한다 (Lee 2021 의 nuance)**: Mardas 2023 의 "ARP 는 흔히 과잉치료" 논증은 **intact socket** 을 전제로 한다 — 두꺼운 협측 골벽·즉시식립 가능 부위에서는 net gain 이 작다는 것이 핵심이다. 그러나 실제 임상에서 발치되는 치아의 다수는 치주·치주-치내 병변으로 상실된 **감염 (compromised) socket** 이다. Lee 2021 (후향, 418 부위 / 287 명, SNU) 은 바로 이 subgroup 에서 ARP 가 임플란트 식립 불가율을 4.7%→0.8% 로 낮추고, 식립 시점의 골이식 필요·범위 (수평·수직·총) 까지 attenuate 한다는 것을 보였다 — 다변량 logistic regression 에서 "no-ARP" 가 location · sex 와 함께 독립 예측인자였다. 즉 **overtreatment 라는 비판은 보편적 명제가 아니라 socket 상태에 조건부**다: intact socket 에서는 Mardas 2023 의 회의론이 타당하지만, 감염·치주 손상 socket 에서는 ARP 가 식립 자체를 enable 하는 tangible benefit 을 갖는다. "when to NOT graft" 의 ladder 는 이 socket 상태 축을 반드시 포함해야 한다. [근거강함 (단일센터·비무작위 confounder 한계)]
+**Mardas 2023 의 overtreatment 비판은 socket 상태에 의존한다 (Lee 2021 의 nuance)**: Mardas 2023 의 "ARP 는 흔히 과잉치료" 논증은 **intact socket** 을 전제로 한다 — 두꺼운 협측 골벽·즉시식립 가능 부위에서는 net gain 이 작다는 것이 핵심이다. 그러나 실제 임상에서 발치되는 치아의 다수는 치주·치주-치내 병변으로 상실된 **감염 (compromised) socket** 이다. Lee 2021 (후향, 418 부위 / 287 명, SNU) 은 바로 이 subgroup 에서 ARP 가 임플란트 식립 불가율을 4.7%→0.8% 로 낮추고, 식립 시점의 골이식 필요·범위 (수평·수직·총) 까지 attenuate 한다는 것을 보였다 — 다변량 logistic regression 에서 "no-ARP" 가 location · sex 와 함께 독립 예측인자였다. 즉 **overtreatment 라는 비판은 보편적 명제가 아니라 socket 상태에 조건부**다: intact socket 에서는 Mardas 2023 의 회의론이 타당하지만, 감염·치주 손상 socket 에서는 ARP 가 식립 자체를 enable 하는 tangible benefit 을 갖는다. "when to NOT graft" 의 ladder 는 이 socket 상태 축을 반드시 포함해야 한다. [확인 (Lee 2021 수치 4.7%→0.8% 자체, 단일센터·비무작위 confounder 한계), 종합 결론(overtreatment 비판의 socket-조건부성)은 미검증 — Claude 해석]
 
-**Müller 2025 — intact socket 에서 ARP 의 SH 대비 우위는 3년에도 NS**: Mardas 2023 의 과잉치료 논증이 narrative 였다면, Müller 2025 (탐색적 RCT, n=35, Zurich) 는 그것을 **직접 RCT 로 검증**한 데이터다. 협측판 ≤50% 소실의 (intact 에 가까운) 단일치 socket 에서 조기 식립(8주) 전 DBBM-C/CM · DBBM-C · 자연치유(SH) 3군을 비교했을 때, 3년 외형 감소는 세 군 모두 통계적으로 유의했으나 임상적으로 미미했고(median −0.23 · −0.21 · −0.33 mm), **군 간 차이는 비유의**였다 — 변연골 소실·plaque·BOP·PPD 도 모두 NS. SH 가 수치적으로 가장 큰 감소를 보였지만 ARP 가 이를 통계적으로 이기지 못했다. 즉 intact 에 가까운 socket + 조기 식립 맥락에서는 ARP 의 net gain 이 작다는 Mardas 의 회의론과 결이 맞는다. 단 본 시험은 명시적으로 underpowered(탐색적, n=35)이고 식립 시 일부 군에 동시 GBR 이 시행돼 효과가 희석됐을 수 있으므로 "ARP 무용" 의 확정 근거가 아니라 **intact socket 에서 우위 입증 실패**로 읽어야 한다. [근거강함(RCT)이나 검정력 한계 — claude해석]
+**Müller 2025 — intact socket 에서 ARP 의 SH 대비 우위는 3년에도 NS**: Mardas 2023 의 과잉치료 논증이 narrative 였다면, Müller 2025 (탐색적 RCT, n=35, Zurich) 는 그것을 **직접 RCT 로 검증**한 데이터다. 협측판 ≤50% 소실의 (intact 에 가까운) 단일치 socket 에서 조기 식립(8주) 전 DBBM-C/CM · DBBM-C · 자연치유(SH) 3군을 비교했을 때, 3년 외형 감소는 세 군 모두 통계적으로 유의했으나 임상적으로 미미했고(median −0.23 · −0.21 · −0.33 mm), **군 간 차이는 비유의**였다 — 변연골 소실·plaque·BOP·PPD 도 모두 NS. SH 가 수치적으로 가장 큰 감소를 보였지만 ARP 가 이를 통계적으로 이기지 못했다. 즉 intact 에 가까운 socket + 조기 식립 맥락에서는 ARP 의 net gain 이 작다는 Mardas 의 회의론과 결이 맞는다. 단 본 시험은 명시적으로 underpowered(탐색적, n=35)이고 식립 시 일부 군에 동시 GBR 이 시행돼 효과가 희석됐을 수 있으므로 "ARP 무용" 의 확정 근거가 아니라 **intact socket 에서 우위 입증 실패**로 읽어야 한다. [확인 (Müller 2025 RCT 결과 자체, 검정력 한계로 underpowered), 종합 해석(overtreatment 비판과의 연결)은 미검증 — Claude 해석]
 
 **임상 ladder — when NOT to grafte**:
 
@@ -122,11 +135,11 @@ Synthesis (counterpoint to the do-ARP protocol-ladder page) organizing ~20 unsyn
 | 연조직 윤곽 유지 | ~ 중간 | Socket sealing (FGG·CTG) 기법에서만 robust |
 | 추가 증대 없이 식립 | ~ 중간 | 협측 thin · 큰 결손에서 ARP 만으로는 부족 |
 
-**오판 패턴**: "ARP 했으니 신생골 quality 가 자연치유보다 좋다" — Mardas 2023 에 의하면 vital bone % 는 오히려 잔류 입자 때문에 늦거나 적음. ARP 의 목적은 dimension 보존이지 골 quality 향상이 아님. [근거강함]
+**오판 패턴**: "ARP 했으니 신생골 quality 가 자연치유보다 좋다" — Mardas 2023 에 의하면 vital bone % 는 오히려 잔류 입자 때문에 늦거나 적음. ARP 의 목적은 dimension 보존이지 골 quality 향상이 아님. [확인]
 
 ### 축 3 — ARP Failure Predictors & Late Complications
 
-**1차 권고**: ARP 후 임플란트 식립 시 **Pristine Bone Engagement (PBE) ≥ 1.1 mm** 확보 prerequisite. 외과 계획 단계에서 implant length 가 graft zone 보다 1.1 mm 이상 native bone 에 박힐 수 있는지 확인. [근거강함]
+**1차 권고**: ARP 후 임플란트 식립 시 **Pristine Bone Engagement (PBE) ≥ 1.1 mm** 확보 prerequisite. 외과 계획 단계에서 implant length 가 graft zone 보다 1.1 mm 이상 native bone 에 박힐 수 있는지 확인. [확인]
 
 | Spine paper | Evidence | Key finding |
 |---|---|---|
@@ -140,13 +153,13 @@ Synthesis (counterpoint to the do-ARP protocol-ladder page) organizing ~20 unsyn
 3. 후방부 — 하악신경 거리 prerequisite 우선. PBE 1.1 mm 확보 위한 무리한 길이 선택 금기.
 4. 5-13y follow-up plan — peri-apical / CBCT 정기 점검. Late failure 양상 (잔류 입자·섬유 포함) 환자 사전 고지.
 
-**Jung 2025 의 함의**: ISQ 가 ARP 영역에서 신생골 quality proxy 로 작동 안 함. 즉 ARP 후 ISQ 60+ 라도 long-term 골 quality 보장 안 됨. ISQ 는 load decision spine ([[implants-isq-stability-ladder]]) 에서만 활용. [claude해석]
+**Jung 2025 의 함의**: ISQ 가 ARP 영역에서 신생골 quality proxy 로 작동 안 함. 즉 ARP 후 ISQ 60+ 라도 long-term 골 quality 보장 안 됨. ISQ 는 load decision spine ([[implants-isq-stability-ladder]]) 에서만 활용. [미검증]
 
-**오판 패턴**: "ARP 했으니 implant 길이는 평소대로" — Kang 2025 의 PBE 1.1 mm rule. 무시 시 HR 2.50. [근거강함]
+**오판 패턴**: "ARP 했으니 implant 길이는 평소대로" — Kang 2025 의 PBE 1.1 mm rule. 무시 시 HR 2.50. [확인]
 
 ### 축 4 — Adjunct Materials & Bioactive Carriers
 
-**1차 권고**: 표준 DBBM + collagen 막 이외에, 빠르게 흡수되는 carrier (calcium sulphate) · 자가 혈소판 함유물 (PRF) 가 보조로 검토 가능. Net gain 은 작지만 specific scenario 에서 합리적. [합의수준]
+**1차 권고**: 표준 DBBM + collagen 막 이외에, 빠르게 흡수되는 carrier (calcium sulphate) · 자가 혈소판 함유물 (PRF) 가 보조로 검토 가능. Net gain 은 작지만 specific scenario 에서 합리적. [확인]
 
 | Spine paper | Evidence | Key finding |
 |---|---|---|
@@ -160,14 +173,14 @@ Synthesis (counterpoint to the do-ARP protocol-ladder page) organizing ~20 unsyn
 **임상 ladder — adjunct 선택**:
 1. **표준 case (4벽 socket + immediate implant 6mo+ 지연)** → DBBM + collagen 막 단독. Adjunct 불필요.
 2. **빠른 implant timing 원함 (3-4mo 후 식립)** → DBBM + CalMatrix (calcium sulphate 50:50). Signoriello 2025 의 vital bone 62.5% 이점.
-3. **고령·당뇨 등 치유 지연 risk** → PRF + DBBM 병용. 가속 효과 미약하나 환자 만족도·연조직 치유 보조. [claude해석] Ucer 2023 narrative.
+3. **고령·당뇨 등 치유 지연 risk** → PRF + DBBM 병용. 가속 효과 미약하나 환자 만족도·연조직 치유 보조. [미검증] Ucer 2023 narrative.
 4. **Cost-sensitive + 영구 보철 (implant 없음)** → β-TCP 단독. Pezzella 2026 ([[bone-regeneration-protocol-ladder]] 참조).
 
-**Manfro 2013 의 함의**: 이종골 brand 선택은 무관하지 않음. Gen-Ox 같은 일부 product 는 혈병 수준. 실제 evidence-rich brand (Bio-Oss · Bone-Fill) 선택해야 함. [claude해석] — 단일 동물 study 이라 일반화 한계.
+**Manfro 2013 의 함의**: 이종골 brand 선택은 무관하지 않음. Gen-Ox 같은 일부 product 는 혈병 수준. 실제 evidence-rich brand (Bio-Oss · Bone-Fill) 선택해야 함. [미검증] — 단일 동물 study 이라 일반화 한계.
 
 **손상된(damaged) socket 의 biologic 보강 — Kim 2020 · Park 2022 (Yonsei 비글견)**: 위 adjunct 논의는 대체로 intact socket 가정인데, 두 Yonsei 동물 study 는 **2벽 결손/손상 socket** 의 생물학적 보강을 직접 다룬다. Kim 2020(비글견 n=5, split-mouth)은 rhBMP-2 의 적용 **timing** 을 분리 — CBCP 에 BMP-2 를 즉시 적용한 군이 2주 지연 주입군보다 신생골 면적이 유의하게 컸다(10.8 vs 6.3 mm², p=0.043; 폭경 차이 없음). 초기 염증은 즉시군에서 더 강했으나 결과를 악화시키지 않아, "염증 가라앉은 뒤 지연 주입이 낫다"는 가설을 반박하고 **손상 socket 에서 BMP-2 즉시 loading** 을 지지한다. Park 2022(비글견, 2벽 결손, 8주)는 **PRF sticky bone(i-PRF+DPBM) ± solid-PRF 막이 GBR(DPBM+콜라겐막)과 신생골 형성·graft 통합에서 동등(non-inferior)** 임을 보였고, PRF 의 효과는 1주차 osteocalcin·VEGF·IL-6 의 소폭 상향에 그쳐 골 부피 우위로 전환되지 않았다. 두 결과의 함의: 손상 socket 에서도 PRF 는 GBR 의 비열등 대체가 될 수 있으나(술식 단순화·자가 이점), 그 가치는 골 부피 증가가 아니라 편의·연조직 쪽이다 — 이는 본 페이지 PRF 회의론(SR 우위 미입증) 및 Alavi 2024 의 L-PRF 차원-보존 null 과 일관한다. [근거: 동물·소표본 — 인체 외삽 한계]
 
-**오판 패턴**: "PRF 가 ARP 효과를 SR 수준으로 향상" — narrative review 만 있음. SR+MA 부재. 임상 net gain 측정 어려움. [claude해석]
+**오판 패턴**: "PRF 가 ARP 효과를 SR 수준으로 향상" — narrative review 만 있음. SR+MA 부재. 임상 net gain 측정 어려움. [미검증]
 
 ### 축 5 — Beyond ARP: Ridge Split, Peri-implantitis GBR
 
@@ -245,8 +258,8 @@ ARP 가 부족한 시나리오 — 이미 흡수된 ridge 재건 (수평 부족)
 | [[bone-biology/tokavanich-2025-control-alveolar-bone-development]] | animal (mouse, conditional KO) | SIK2/SIK3 (PTH/PTHrP signaling 하부) — 치조골 osteoblast maturation·BV/TV·발치 후 socket 치유 조절 |
 
 **임상 함의 (추가)**:
-- RRR이 pathological이라는 시각은 ARP의 합리화를 보강 — barrier function 회복 + lymphocyte 매개 osteoclast 차단 관점에서 ARP의 의의 재해석 가능. [claude해석]
-- SIK 신호 — 임상 적용은 [미검증]. PTH/teriparatide와의 연결점으로 향후 RRR/ARP 약물 후보. [추정]
+- RRR이 pathological이라는 시각은 ARP의 합리화를 보강 — barrier function 회복 + lymphocyte 매개 osteoclast 차단 관점에서 ARP의 의의 재해석 가능. [미검증]
+- SIK 신호 — 임상 적용은 [미검증]. PTH/teriparatide와의 연결점으로 향후 RRR/ARP 약물 후보. [미검증]
 
 ### Related overviews
 
@@ -265,8 +278,8 @@ ARP 가 부족한 시나리오 — 이미 흡수된 ridge 재건 (수평 부족)
 - [ ] Existing protocol-ladder 의 broken wikilink (`couso-queiruga-...-systemati`) 수정 필요 (별도 작업).
 
 확신도 등급 글로벌:
-- 축 1 socket biology = [근거강함] (dog landmark + 인간 prospective).
-- 축 2 critical appraisal = [합의수준] (narrative review 중심, SR 부재).
-- 축 3 failure predictors PBE = [근거강함] (n=528 retrospective Cox + animal 보조).
-- 축 4 adjunct materials = [합의수준]+[claude해석] (RCT 부족, in vitro/case 중심).
+- 축 1 socket biology = [확인] (dog landmark + 인간 prospective).
+- 축 2 critical appraisal = [확인] (narrative review 중심, SR 부재).
+- 축 3 failure predictors PBE = [확인] (n=528 retrospective Cox + animal 보조).
+- 축 4 adjunct materials = [확인 (개별 연구 결과), 임상 ladder 권고는 미검증 — Claude 종합] (RCT 부족, in vitro/case 중심).
 - 축 5 beyond ARP = [미검증] (case report 만, SR 부재).

@@ -13,13 +13,21 @@ source_collection: external
 
 이 SR+MA는 각화점막 폭경(KMW) ≥2 mm이 임플란트 주위 건강에 미치는 효과에 대해 기존의 소규모 메타분석(9개 연구)을 30개 연구로 대폭 확장하여 pooled effect estimate를 제시한다. 기존 [[wiki/implants/peri-implantitis/roccuzzo-2025-keratinized-mucosa-peri-implant-20year-mandible]]가 20년 장기 관찰로 KMW의 역할을 보여주지만 단일 코호트에 제한되는 반면, 이 MA는 4개 데이터베이스에서 추출한 30편을 통해 PI, GI, BI, BL에 대한 정량적 효과 크기를 확립하여 임상 의사결정에 직접 활용 가능한 수치를 제공한다.
 
-## One-line Summary
+## Three-line Summary
 
 SR+MA of 30 studies (n=1,773 subjects, 5,241 implants) showing that adequate KMW (≥2 mm) significantly reduces plaque index (MD −0.30), gingival index (MD −0.26), bleeding index (MD −0.20), and marginal bone loss (MD −0.27 mm) compared to KMW <2 mm, while probing depth and CAL differences were non-significant.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 30개 연구(1,773명, 임플란트 5,241개) 메타분석 결과, 각화점막 폭 ≥2 mm인 임플란트는 <2 mm 대비 치태지수(MD −0.30), 치은지수(MD −0.26), 출혈지수(MD −0.20), 변연골소실(MD −0.27 mm)이 유의하게 낮았으나 탐침깊이·임상부착수준 차이는 유의하지 않았다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

@@ -16,13 +16,21 @@ pdf_path: null
 
 무치악 환자에서 경사 식립(tilted implant) vs 수직 식립(axial implant) 선택의 핵심 SR. [[implants/implants-clinical-decision-ladder]] 의 식립 경로 결정 근거 보강을 위해 인제스트.
 
-## One-line Summary
+## Three-line Summary
 
 SR (42 studies, level I–II): intentionally tilted implants show no difference in survival, marginal bone loss, prosthesis survival, or PROMs versus axially placed implants in edentulous jaws.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 체계적 문헌고찰 (42편): 무치악 악궁에서 경사 임플란트(tilted implant)는 수직 임플란트(axial implant)와 생존율·변연골 소실·보철 생존·환자보고결과 모두 유의한 차이 없음.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - **Journal**: Clinical Oral Implants Research (Suppl 16)

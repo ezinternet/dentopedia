@@ -6,7 +6,7 @@ date: 2022-09-10
 doi: 10.3390/ijms231810516
 source: fujioka-kobayashi-2022-synthetic-biomaterials-dbbm-augmentation.md
 category: [bone-regeneration]
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/fujioka-kobayashi-2022-synthetic-biomaterials-dbbm-augmentation.pdf
 pdf_filename: fujioka-kobayashi-2022-synthetic-biomaterials-dbbm-augmentation.pdf
 source_collection: external
@@ -16,13 +16,21 @@ relations:
     target: fischer-2022-bone-envelope-arp-dbbm-sr-ma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Rat critical-size defect study (n=30 defects, 5 groups, 4 weeks): α-TCP or BBCP mixed 1:1 with DBBM rescued new bone formation to empty-defect levels; DBBM alone paradoxically showed significantly less new bone than the empty defect control (p=0.025).
+Rat calvarial critical-size defect study (n=30 defects, 5 groups: empty control, DBBM alone, and three α-TCP/BBCP + DBBM 1:1 hybrids) assessed by micro-CT and histomorphometry at 4 weeks.
 
-## 한줄요약
+DBBM alone showed paradoxically less new bone than the empty defect control (p=0.025), while all three synthetic additive combinations (α-TCP, BBCP 3%HA, BBCP 6%HA) rescued new bone formation to empty-defect levels without sacrificing volume maintenance.
 
-쥐 임계골결손 5군 비교(4주): α-TCP 또는 BBCP+DBBM 혼합은 음성대조군 수준 신생골 회복; DBBM 단독은 빈 결손 대조군보다 유의하게 낮은 신생골량(p=0.025).
+Hybrid grafting — DBBM providing long-term volume + resorbable synthetic providing early osteoconductive scaffold — may better balance the resorption/bone-formation trade-off than DBBM alone; HA coating degree (3% vs 6%) had no significant effect at 4 weeks.
+
+## 세줄요약
+
+쥐 두개골 임계결손(5군, n=30, 4주): 빈 결손 대조군·DBBM 단독·α-TCP 또는 BBCP+DBBM 혼합 3종을 미세CT·조직형태계측으로 평가.
+
+DBBM 단독이 역설적으로 빈 결손보다 신생골 유의하게 적음(p=0.025); α-TCP 또는 BBCP를 1:1 혼합하면 신생골이 빈 결손 수준으로 회복되며 체적도 유지.
+
+DBBM(장기 체적 유지)+흡수성 합성재(조기 골전도 scaffold) 혼합 전략이 DBBM 단독보다 흡수-골형성 균형 면에서 유리; HA 코팅 비율(3% vs 6%) 차이는 4주 시점에서 무의미.
 
 ## Summary
 

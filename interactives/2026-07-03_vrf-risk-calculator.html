@@ -1,0 +1,272 @@
+<!--
+---
+title: "수직치근파절(VRF) 위험도 계산기 — 근관치료 대구치 (Vertical Root Fracture Risk Calculator)"
+type: interactive
+date: 2026-07-03
+status: done
+category: endodontics
+agenda: agenda/2026-07-03_vrf-risk-calculator-interactive.md
+source_wiki:
+  - wiki/endodontics/shaping/lee-2026-residual-pericervical-apical-dentine-vertical.md
+  - wiki/endodontics/shaping/rathke-2024-ex-vivo-minimally-invasive-endodontic.md
+  - wiki/endodontics/diagnosis/alkhani-2026-optical-coherence-tomography-detection-dental.md
+  - wiki/cracked-tooth/patel-2025-position-statement-longitudinal-cracks-fractures.md
+  - wiki/overviews/cracked-tooth-syndrome-overview.md
+---
+-->
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>VRF 위험도 계산기</title>
+<style>
+  :root {
+    --bg: #f4f6f9;
+    --card: #ffffff;
+    --ink: #17233d;
+    --muted: #5a6478;
+    --line: #e2e7ef;
+    --accent: #b4452b;
+    --accent-soft: #fbe9e4;
+    --low: #1f7a6b;      --low-soft: #e3f3ef;
+    --mid: #b8860b;      --mid-soft: #fbf2dc;
+    --high: #b4452b;     --high-soft: #fbe9e4;
+    --warn: #7a5cb8;     --warn-soft: #efe9fb;
+    --shadow: 0 2px 10px rgba(20,30,55,.07);
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Noto Sans KR', 'Segoe UI', sans-serif;
+    background: var(--bg); color: var(--ink);
+    padding: 22px 14px 60px; min-height: 100vh; line-height: 1.55;
+  }
+  .container { max-width: 820px; margin: 0 auto; }
+  header h1 { font-size: 1.4rem; letter-spacing: -.02em; }
+  header p.sub { color: var(--muted); font-size: .88rem; margin-top: 6px; }
+  .card { background:var(--card); border:1px solid var(--line); border-radius:14px; padding:18px; box-shadow:var(--shadow); margin-bottom:14px; }
+  h2 { font-size:1.05rem; margin-bottom:4px; }
+  h3 { font-size:.95rem; margin: 14px 0 6px; }
+  .hint { color:var(--muted); font-size:.85rem; margin-bottom:12px; }
+  .field { margin-bottom: 16px; }
+  .field label.title { display:block; font-weight:800; font-size:.92rem; margin-bottom:8px; }
+  .opts { display:grid; grid-template-columns: 1fr; gap:8px; }
+  @media(min-width:620px){ .opts.g2 { grid-template-columns: repeat(2,1fr); } .opts.g4 { grid-template-columns: repeat(2,1fr); } }
+  .opt {
+    border:1.5px solid var(--line); border-radius:10px; padding:10px 12px; cursor:pointer; background:var(--card);
+    transition:all .14s; text-align:left; font-size:.85rem;
+  }
+  .opt:hover { border-color:var(--accent); }
+  .opt.active { border-color:var(--accent); background:var(--accent-soft); }
+  .opt .t { font-weight:700; }
+  .opt .d { color:var(--muted); font-size:.78rem; margin-top:2px; }
+  .opt .or { display:inline-block; margin-top:4px; font-size:.75rem; font-weight:800; color:var(--accent); }
+  #result { margin-top: 6px; }
+  .tier-badge { display:inline-flex; align-items:center; gap:8px; padding:10px 16px; border-radius:12px; font-weight:800; font-size:1.05rem; }
+  .tier-low { background:var(--low-soft); color:var(--low); }
+  .tier-mid { background:var(--mid-soft); color:var(--mid); }
+  .tier-high { background:var(--high-soft); color:var(--high); }
+  .factor-row { display:flex; justify-content:space-between; align-items:center; padding:8px 0; border-bottom:1px dashed var(--line); font-size:.85rem; }
+  .factor-row:last-child { border-bottom:none; }
+  .factor-row .fname { color:var(--ink); }
+  .factor-row .fval { color:var(--muted); font-size:.8rem; }
+  .factor-row .for-badge { font-weight:800; color:var(--accent); min-width:64px; text-align:right; }
+  table { width:100%; border-collapse: collapse; font-size:.83rem; margin-top:8px; }
+  th, td { text-align:left; padding:7px 8px; border-bottom:1px solid var(--line); }
+  th { color:var(--muted); font-weight:700; font-size:.78rem; }
+  .badge { display:inline-block; padding:2px 8px; border-radius:20px; font-size:.72rem; font-weight:700; }
+  .badge.rct { background:#e5eefa; color:#2563a8; }
+  .badge.retro { background:var(--mid-soft); color:var(--mid); }
+  .badge.invitro { background:#efe9fb; color:#7a5cb8; }
+  .badge.sr { background:#e3f3ef; color:#1f7a6b; }
+  .warn-card { background:var(--warn-soft); border:1px solid #d8ccef; border-radius:12px; padding:14px; margin-top:14px; }
+  .warn-card h3 { color:var(--warn); margin-top:0; }
+  .cite { font-size:.75rem; color:var(--muted); margin-top:4px; }
+  .footnote { font-size:.78rem; color:var(--muted); margin-top:18px; padding-top:12px; border-top:1px solid var(--line); }
+  .caveat { background:#fff8e8; border:1px solid #f0deae; border-radius:10px; padding:12px 14px; font-size:.82rem; color:#7a5c1f; margin-bottom:14px; }
+</style>
+</head>
+<body>
+<div class="container">
+  <header>
+    <h1>🦷 수직치근파절(VRF) 위험도 계산기</h1>
+    <p class="sub">근관치료된 대구치 · isolated periodontal probing depth ≥5mm 내원 시 발치 vs 보존 결정 보조 — Lee 2026 case-control (44 VRF vs 92 control) 기반</p>
+  </header>
+
+  <div class="caveat">
+    ⚠️ 이 도구는 단일 case-control 연구(n=136, 일본 전문 근관치료 클리닉, 2012–2020)에서 도출된 adjusted OR을 곱하여 만든 <b>상대위험 층화 휴리스틱</b>입니다. 원논문은 로지스틱 회귀 절편(intercept)을 보고하지 않아 개별 환자의 정확한 발병 확률은 계산할 수 없습니다 — 통합모델 전체 성능(AUC 0.940)만 논문에서 직접 인용 가능하며, 아래 위험 구간(저/중/고) 경계는 <b>이 도구가 자체 설정</b>한 것으로 논문의 공식 임계값이 아닙니다. 외부 검증 전까지 진단검사 대체 불가 — 보조 참고용.
+  </div>
+
+  <div class="card">
+    <h2>1. 위험인자 입력</h2>
+    <p class="hint">근관치료된 대구치, isolated PD≥5mm 소견 기준. 각 항목에서 해당하는 값을 선택하세요.</p>
+
+    <div class="field">
+      <label class="title">① 잔존 치근단부(apical) 상아질</label>
+      <div class="opts g2" id="opt-apical">
+        <div class="opt" data-key="apical" data-val="normal" data-or="1">
+          <div class="t">Intact / Minimum / Traditional</div>
+          <div class="d">RCF(또는 근관)/치근폭 비율 ≤ 0.21</div>
+        </div>
+        <div class="opt" data-key="apical" data-val="excessive" data-or="12.9">
+          <div class="t">Excessive (과도 삭제)</div>
+          <div class="d">비율 &gt; 0.21</div>
+          <div class="or">adjusted OR 12.9 (95% CI 2.92–57.5)</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="field">
+      <label class="title">② 치아 종류</label>
+      <div class="opts g2" id="opt-tooth">
+        <div class="opt" data-key="tooth" data-val="ref" data-or="1">
+          <div class="t">상악 대구치 (기준군)</div>
+        </div>
+        <div class="opt" data-key="tooth" data-val="mand1" data-or="19.2">
+          <div class="t">하악 제1대구치</div>
+          <div class="or">adjusted OR 19.2 (95% CI 2.44–150.5)</div>
+        </div>
+        <div class="opt" data-key="tooth" data-val="mand2" data-or="18.9">
+          <div class="t">하악 제2대구치</div>
+          <div class="or">adjusted OR 18.9 (95% CI 1.85–193.7)</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="field">
+      <label class="title">③ 재근관치료(reRCT) 병력</label>
+      <div class="opts g2" id="opt-rerct">
+        <div class="opt" data-key="rerct" data-val="0" data-or="1">
+          <div class="t">없음</div>
+        </div>
+        <div class="opt" data-key="rerct" data-val="1" data-or="9.89">
+          <div class="t">1회</div>
+          <div class="or">adjusted OR 9.89 (95% CI 1.68–58.2)</div>
+        </div>
+        <div class="opt" data-key="rerct" data-val="2" data-or="87.9">
+          <div class="t">2회 이상</div>
+          <div class="or">adjusted OR 87.9 (95% CI 10.7–722.1)</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="field">
+      <label class="title">④ 1차 근관치료(pRCT) 후 경과기간</label>
+      <div class="opts g2" id="opt-time">
+        <div class="opt" data-key="time" data-val="under15" data-or="1">
+          <div class="t">15년 미만</div>
+        </div>
+        <div class="opt" data-key="time" data-val="over15" data-or="20.7">
+          <div class="t">15년 이상</div>
+          <div class="or">adjusted OR 20.7 (95% CI 4.20–102.0)</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="card" id="result-card" style="display:none;">
+    <h2>2. 위험 층화 결과</h2>
+    <div id="tier-badge"></div>
+    <div style="margin-top:14px;">
+      <h3>입력 인자 요약</h3>
+      <div id="factor-list"></div>
+    </div>
+    <p class="cite">이 도구 자체 구간 설정: 복합 OR 배수 &lt; 15 = 저위험 / 15–150 = 중등도 / &gt; 150 = 고위험 (원논문 threshold 아님, 4개 인자의 adjusted OR을 곱한 상대배수 기준). 통합모델 자체 성능: sensitivity 85.7% · specificity 89.5% · PPV 78.9% · NPV 93.2% · AUC 0.940 (95% CI 0.899–0.981, p&lt;0.001) — Lee 2026.</p>
+  </div>
+
+  <div class="card">
+    <h2>근거 논문 요약</h2>
+    <table>
+      <thead><tr><th>논문</th><th>근거등급</th><th>핵심 내용</th></tr></thead>
+      <tbody>
+        <tr>
+          <td>Lee 2026<br><span class="cite">DOI 10.1002/cre2.70293</span></td>
+          <td><span class="badge retro">case-control</span></td>
+          <td>근관치료 대구치 44 VRF vs 92 대조 — 치경부 아닌 <b>치근단부</b> 상아질 과소실이 최강 예측인자. 통합모델 AUC 0.940</td>
+        </tr>
+        <tr>
+          <td>Rathke 2024<br><span class="cite">DOI 10.1038/s41598-024-63396-y</span></td>
+          <td><span class="badge invitro">ex vivo</span></td>
+          <td>최소침습 근관성형(#40/.04)이 관행확대(#80) 대비 VRF·균열 유의하게 줄이지 못함 — "성형만 줄이면 안전" 통념에 반증</td>
+        </tr>
+        <tr>
+          <td>Alkhani 2026<br><span class="cite">DOI 10.1002/cre2.70323</span></td>
+          <td><span class="badge sr">scoping review</span></td>
+          <td>OCT 진단 민감도 83–98%/특이도 63–100% — 비방사선 대안이나 침투깊이 한계로 아직 CBCT 대체 불가</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <div class="warn-card">
+    <h3>⚠️ "성형을 최소화하면 파절이 예방된다"는 통념 주의</h3>
+    <p>Rathke 2024 (ex vivo, n=18/군)에서 최소침습 근관성형(#40/.04)은 관행 확대(ISO #80) 대비 씹기 시뮬레이션 후 VRF 저항성·균열 발생률을 유의하게 낮추지 못했으며, 오히려 +MIE/시멘트 실러 조합은 무처치 대조군보다 저항성이 낮았습니다(p=0.020). 근관성형 술식 자체보다 <b>재치료 횟수·경과기간·치아종류</b>가 이번 계산기의 더 강한 예측인자입니다.</p>
+    <p class="cite">근거: [[endodontics/shaping/rathke-2024-ex-vivo-minimally-invasive-endodontic]]</p>
+  </div>
+
+  <div class="footnote">
+    출처: [[endodontics/shaping/lee-2026-residual-pericervical-apical-dentine-vertical]] · [[endodontics/shaping/rathke-2024-ex-vivo-minimally-invasive-endodontic]] · [[endodontics/diagnosis/alkhani-2026-optical-coherence-tomography-detection-dental]] · [[overviews/cracked-tooth-syndrome-overview]]<br>
+    이 도구는 단일 근거 연구 기반 참고 자료이며 진단검사를 대체하지 않습니다. Agenda: agenda/2026-07-03_vrf-risk-calculator-interactive.md
+  </div>
+</div>
+
+<script>
+  const state = { apical: null, tooth: null, rerct: null, time: null };
+  const orMap = { apical: {}, tooth: {}, rerct: {}, time: {} };
+  const labelMap = {
+    apical: { normal: 'Intact/Minimum/Traditional', excessive: 'Excessive (>0.21)' },
+    tooth: { ref: '상악 대구치', mand1: '하악 제1대구치', mand2: '하악 제2대구치' },
+    rerct: { '0': '없음', '1': '1회', '2': '2회 이상' },
+    time: { under15: '15년 미만', over15: '15년 이상' }
+  };
+  const fieldTitle = { apical: '치근단부 상아질', tooth: '치아 종류', rerct: 'reRCT 병력', time: 'pRCT 경과기간' };
+
+  document.querySelectorAll('.opt').forEach(el => {
+    const key = el.dataset.key, val = el.dataset.val, or = parseFloat(el.dataset.or);
+    orMap[key][val] = or;
+    el.addEventListener('click', () => {
+      document.querySelectorAll(`.opt[data-key="${key}"]`).forEach(o => o.classList.remove('active'));
+      el.classList.add('active');
+      state[key] = val;
+      render();
+    });
+  });
+
+  function render() {
+    const filled = Object.values(state).filter(v => v !== null).length;
+    const card = document.getElementById('result-card');
+    if (filled === 0) { card.style.display = 'none'; return; }
+    card.style.display = 'block';
+
+    let product = 1;
+    const rows = [];
+    for (const key of ['apical','tooth','rerct','time']) {
+      const val = state[key];
+      const or = val !== null ? orMap[key][val] : 1;
+      product *= or;
+      rows.push({
+        name: fieldTitle[key],
+        val: val !== null ? labelMap[key][val] : '(미입력 — 기준값 가정)',
+        or: or
+      });
+    }
+
+    let tier, tierClass, tierLabel;
+    if (product < 15) { tier = 'low'; tierClass = 'tier-low'; tierLabel = '🟢 저위험'; }
+    else if (product < 150) { tier = 'mid'; tierClass = 'tier-mid'; tierLabel = '🟡 중등도 위험'; }
+    else { tier = 'high'; tierClass = 'tier-high'; tierLabel = '🔴 고위험'; }
+
+    document.getElementById('tier-badge').innerHTML =
+      `<span class="tier-badge ${tierClass}">${tierLabel} — 복합 OR 배수 ${product < 1000 ? product.toFixed(1) : product.toExponential(2)}×</span>`;
+
+    document.getElementById('factor-list').innerHTML = rows.map(r => `
+      <div class="factor-row">
+        <span class="fname">${r.name}</span>
+        <span class="fval">${r.val}</span>
+        <span class="for-badge">${r.or === 1 ? '기준' : 'OR ' + r.or}</span>
+      </div>
+    `).join('');
+  }
+</script>
+</body>
+</html>

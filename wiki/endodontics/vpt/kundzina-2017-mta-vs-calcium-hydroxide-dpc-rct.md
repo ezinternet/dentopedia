@@ -6,18 +6,26 @@ date: 2016-11-07
 doi: 10.1111/iej.12719
 source: kundzina-2017-mta-vs-calcium-hydroxide-dpc-rct.md
 category: [endodontics/vpt]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/kundzina-2017-mta-vs-calcium-hydroxide-dpc-rct.pdf
 pdf_filename: kundzina-2017-mta-vs-calcium-hydroxide-dpc-rct.pdf
 source_collection: external
 tags: [DPC, MTA, calcium-hydroxide, RCT, adult, carious-exposure, 3-year]
 ---
 
-## One-line Summary
-Multicenter RCT of DPC for carious pulp exposure in adult posterior teeth (70 patients, 3 years): MTA group showed superior survival rate vs Ca(OH)₂.
+## Three-line Summary
+Multicenter parallel-group RCT (IEJ 2017, 70 adults aged 18–55, 36 months) comparing White ProRoot MTA vs Dycal Ca(OH)₂ for direct pulp capping (DPC) of carious posterior pulp exposures.
 
-## 한줄요약
-성인 구치 우식 노출 DPC: MTA vs Ca(OH)₂ 다기관 RCT(70명, 3년) — MTA 군 생존율 우위.
+MTA showed significantly superior 3-year survival vs Ca(OH)₂ (Dycal); post-operative pain at 1 week was similar between groups; success was defined as asymptomatic + positive vitality response + no radiographic pathology.
+
+This adult-focused RCT complements pediatric-dominant DPC literature and supports MTA as the superior capping material over Ca(OH)₂ specifically for carious adult posterior pulp exposures.
+
+## 세줄요약
+성인(18–55세) 영구 구치 우식 노출 직접치수복조(Direct Pulp Capping, DPC): White ProRoot MTA vs Dycal 수산화칼슘(Calcium Hydroxide, Ca(OH)₂) 다기관 병렬 무작위 대조 연구(RCT)(70명, 36개월, IEJ 2017).
+
+MTA 군이 3년 생존율에서 Ca(OH)₂(Dycal) 군보다 유의하게 우월; 술후 1주 통증은 양 군 유사; 성공 기준: 무증상·생활 반응 양성·방사선 이상 없음.
+
+소아 편중 문헌 흐름에 성인 데이터를 추가한 RCT로, 우식 성인 구치 노출에서 수산화칼슘 대비 MTA의 우위를 뒷받침한다.
 
 ## Summary
 IEJ 2017 다기관 RCT. 18–55세 성인 70명; MTA(White ProRoot, n=33) vs Ca(OH)₂(Dycal, n=37); 36개월 추적. 성공 기준: 무증상 + 활력 반응 + 방사선 이상 없음.

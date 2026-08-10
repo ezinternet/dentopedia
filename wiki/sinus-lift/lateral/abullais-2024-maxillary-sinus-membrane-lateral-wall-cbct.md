@@ -6,7 +6,7 @@ date: 2024-03-25
 doi: 10.1371/journal.pone.0298403
 source: abullais-2024-maxillary-sinus-membrane-lateral-wall-cbct.md
 category: sinus-lift/lateral
-confidence: cross-sectional
+evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/abullais-2024-maxillary-sinus-membrane-lateral-wall-cbct.pdf
 pdf_filename: abullais-2024-maxillary-sinus-membrane-lateral-wall-cbct.pdf
 source_collection: external
@@ -18,13 +18,21 @@ relations:
     target: manor-2024-cbct-prognostic-factors-sinus-perforation
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective CBCT study (n=75, 150 sinuses, Saudi Arabia) showing facial index type (euryprosopic/mesoprosopic/leptoprosopic) has no significant correlation with maxillary sinus membrane thickness (MT) or lateral wall thickness (LWT); females had significantly thicker LWT (p<0.05) and premolar MT was significantly greater than molar MT (p<0.001).
+Retrospective CBCT image analysis (n=75 subjects, 150 sinuses, southwestern Saudi Arabia) testing whether facial index type (euryprosopic/mesoprosopic/leptoprosopic) predicts maxillary sinus membrane thickness (MT) or lateral wall thickness (LWT) — a potential clinical shortcut for risk stratification without CBCT.
 
-## 한줄요약
+No significant correlation was found between facial index and either MT or LWT; females had significantly thicker LWT than males in both premolar (1.83 vs 1.54 mm, p=0.018) and molar (1.89 vs 1.56 mm, p=0.032) regions; premolar MT (1.46 mm) was significantly greater than molar MT (1.17 mm, p<0.001).
 
-후향적 원뿔빔 전산화 단층 촬영 (CBCT) 연구 (n=75, 150 상악동, 사우디): 안면지수 (Facial Index) 유형이 상악동 막 두께 (Membrane Thickness, MT) 및 측벽 두께 (Lateral Wall Thickness, LWT)와 무관; 여성의 LWT가 남성보다 유의하게 두꺼움(p<0.05); 소구치 MT > 대구치 MT (p<0.001).
+Facial morphotype cannot substitute for CBCT in surgical risk assessment — clinicians must perform CBCT regardless of face shape; female sex is a practical flag for thicker lateral wall requiring longer osteotomy in the lateral window approach.
+
+## 세줄요약
+
+안면지수(Facial Index) 유형(광면형/중면형/장면형)이 상악동 막 두께(Membrane Thickness, MT) 및 측벽 두께(Lateral Wall Thickness, LWT)의 대리 예측인자가 될 수 있는지를 검증한 후향적 CBCT 연구(n=75, 150 동, 사우디 남서부).
+
+안면지수 유형과 MT·LWT 간 유의한 상관 없음; 여성의 LWT가 남성보다 소구치(1.83 vs 1.54 mm, p=0.018)·대구치(1.89 vs 1.56 mm, p=0.032) 부위 모두 유의하게 두꺼움; 소구치 MT(1.46 mm)가 대구치 MT(1.17 mm)보다 유의하게 두꺼움(p<0.001).
+
+안면 형태로 CBCT를 대체할 수 없음 — 얼굴 모양과 무관하게 CBCT 필수; 여성은 측방 창 골절제 시 두꺼운 측벽에 주의 필요.
 
 ## Summary
 

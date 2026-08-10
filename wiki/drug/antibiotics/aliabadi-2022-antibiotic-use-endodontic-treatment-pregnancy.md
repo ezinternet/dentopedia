@@ -6,7 +6,7 @@ date: 2022-01-01
 doi: 10.4081/ejtm.2022.10813
 source: aliabadi-2022-antibiotic-use-endodontic-treatment-pregnancy.md
 category: [drug/antibiotics]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/aliabadi-2022-antibiotic-use-endodontic-treatment-pregnancy.pdf
 pdf_filename: aliabadi-2022-antibiotic-use-endodontic-treatment-pregnancy.pdf
 source_collection: external
@@ -18,13 +18,21 @@ relations:
     target: drug-antibiotic-stewardship-overview
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review (Zahedan Univ, Iran): odontogenic pain/infection affects >43% of pregnant women; endodontic treatment with appropriate drugs is safe and should not be delayed — amoxicillin/penicillin/cephalexin first-line antibiotics (erythromycin/clindamycin if penicillin-allergic), acetaminophen first-line analgesic, 1:100,000 epinephrine LA, 2nd trimester safest for elective care.
+Narrative review (Zahedan University, Iran) on pharmacotherapy for endodontic treatment in pregnancy, covering antibiotics, analgesics, local anesthesia, and intracanal agents across all three trimesters.
 
-## 한줄요약
+Odontogenic infection affects >43% of pregnant women; treatment is safe and should not be delayed — first-line antibiotics are amoxicillin/penicillin/cephalexin (erythromycin/clindamycin if penicillin-allergic), acetaminophen is the first-line analgesic, and 1:100,000 epinephrine local anesthesia is safe.
 
-내러티브 리뷰 (이란 Zahedan 의대): 임산부 >43%가 치성 통증·감염을 겪으며, 적절한 약물과 함께라면 근관치료 (Root Canal Therapy, RCT)는 안전하고 미뤄선 안 됨 — 1차 항생제 아목시실린·페니실린·세팔렉신(페니실린 알러지 시 에리스로마이신·클린다마이신), 1차 진통제 아세트아미노펜 (Acetaminophen), 국소마취 1:100,000 에피네프린, 선택 시술은 2분기가 가장 안전.
+The 2nd trimester is optimal for elective endodontic care; untreated odontogenic infection poses greater maternal-fetal risk than appropriate dental pharmacotherapy, but this is a non-systematic narrative review with low evidence weight.
+
+## 세줄요약
+
+이란 Zahedan 의대의 내러티브 리뷰로, 임신 3분기 전체에 걸쳐 근관치료 시 항생제·진통제·국소마취·근관내 약제의 안전한 사용을 정리.
+
+임산부 >43%가 치성 통증·감염을 경험하며, 근관치료(Root Canal Therapy, RCT)는 안전하고 미뤄선 안 됨 — 1차 항생제 아목시실린/페니실린/세팔렉신, 1차 진통제 아세트아미노펜(Acetaminophen), 1:100,000 에피네프린 국소마취 안전.
+
+선택적 시술에는 2분기가 가장 안전하나, 미치료 치성감염이 적절한 약물 사용보다 더 큰 위험을 가지며, 본 논문은 비체계적 내러티브 리뷰로 근거 수준이 낮다.
 
 ## Summary
 
@@ -54,6 +62,6 @@ This narrative review addresses a common but under-guided scenario: pregnant pat
 
 ## Related Papers
 
-- [[drug/zhou-2023-pregnancy-physiology-oral-local-anesthesia-review]] — reinforces: detailed local-anesthesia-in-pregnancy physiology and agent choice.
-- [[drug/orire-2026-revisiting-disulfiram-reaction-alcohol-metronidazole]] — metronidazole (listed here as an intracanal agent) alcohol-interaction context.
+- [[local-anesthesia/zhou-2023-pregnancy-physiology-oral-local-anesthesia-review]] — reinforces: detailed local-anesthesia-in-pregnancy physiology and agent choice.
+- [[drug/antibiotics/orire-2026-revisiting-disulfiram-reaction-alcohol-metronidazole]] — metronidazole (listed here as an intracanal agent) alcohol-interaction context.
 - [[overviews/drug-antibiotic-stewardship-overview]] — applies-to: dental antibiotic prescribing principles, here applied to pregnancy.

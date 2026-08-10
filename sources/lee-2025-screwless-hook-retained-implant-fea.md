@@ -11,15 +11,23 @@ source_collection: external
 
 ## Why Ingested
 
-기존 [[prosthetic-materials/hamed-2020-screw-vs-cement-implant-sr]]에서 스크류 유지 vs 시멘트 유지 비교가 주된 논쟁이었으나, 스크류와 시멘트를 모두 사용하지 않는 신규 후크(hook) 유지 방식(HRP)에 대한 FEA 근거가 없었음. 본 연구는 SCRP·SRP·HRP 세 시스템을 동일 조건에서 직접 비교한 최초 FEA 논문으로, HRP의 생역학적 타당성을 뒷받침하는 기초 근거를 제공함.
+기존 [[prosthetic-materials/abutment-screw/hamed-2020-screw-vs-cement-implant-sr]]에서 스크류 유지 vs 시멘트 유지 비교가 주된 논쟁이었으나, 스크류와 시멘트를 모두 사용하지 않는 신규 후크(hook) 유지 방식(HRP)에 대한 FEA 근거가 없었음. 본 연구는 SCRP·SRP·HRP 세 시스템을 동일 조건에서 직접 비교한 최초 FEA 논문으로, HRP의 생역학적 타당성을 뒷받침하는 기초 근거를 제공함.
 
-## One-line Summary
+## Three-line Summary
 
 3D FEA (n=3 systems, 100N vertical/30° oblique): novel hook-retained prosthesis (HRP) showed lower implant stress (21.33 MPa) than screw-and-cement (SCRP, 32.91 MPa) and comparable to cementless screw-retained (SRP, 21.92 MPa), with similar peri-implant bone stress across all groups.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 3D 유한요소분석에서 새로운 후크유지 보철(HRP)의 임플란트 최대 폰미제스 응력(21.33 MPa)이 스크류-시멘트 유지(SCRP, 32.91 MPa)보다 낮고 시멘트리스 스크류유지(SRP, 21.92 MPa)와 유사하여 HRP가 SCRP의 대안으로 타당함을 확인함.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 
@@ -93,7 +101,7 @@ Key findings:
 
 ## 6. Related Work
 
-- Hamed 2020 — screw vs cement SR+MA: [[prosthetic-materials/hamed-2020-screw-vs-cement-implant-sr]]
+- Hamed 2020 — screw vs cement SR+MA: [[prosthetic-materials/abutment-screw/hamed-2020-screw-vs-cement-implant-sr]]
 - Chan 2026 — FEA CAD/CAM zirconia vs 3D-printed hybrid: [[prosthetic-materials/chan-2026-fea-cad-cam-zirconia-3d-printed-hybrid]]
 
 ## 7. Glossary

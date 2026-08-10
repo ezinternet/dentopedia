@@ -12,6 +12,20 @@ source_collection: local
 tags: [Astra-implant, screw-loosening, fixture-fracture, prosthetic-complications, surgical-technique, abutment-fixation, clinical-management]
 ---
 
+## Three-line Summary
+Clinical case-based guide documenting Astra implant–specific complications including screw loosening and fixture fracture from 16+ years of prosthodontic-surgical experience.
+
+Root causes of loosening include suboptimal abutment selection, insufficient torque protocol, excessive cantilever, and fixture-abutment interface characteristics; fixture fracture occurs under specific load patterns; most complications are preventable via proper surgical and prosthetic technique.
+
+Clinical implication: systematic abutment selection, standardized torque protocols, periodic screw checks, and integrated surgical-prosthodontic planning are essential for long-term Astra implant stability and survival.
+
+## 세줄요약
+16년 이상의 보철-수술 임상 경험 기반 Astra 임플란트의 나사 풀림, 픽스쳐 골절 등 시스템 특이적 합병증을 다루는 증례 기반 임상 가이드.
+
+나사 풀림의 원인: 지대주 선택 오류, 불충분한 토크 프로토콜, 과도한 캔틸레버, 픽스쳐-지대주 인터페이스 특성; 픽스쳐 골절은 특정 하중 패턴에서 발생; 대부분의 합병증은 적절한 수술·보철 기법으로 예방 가능.
+
+임상적 의미: 체계적 지대주 선택, 표준화된 토크 프로토콜, 정기적 나사 검증, 수술-보철 통합 계획이 장기 Astra 임플란트 안정성·생존에 필수.
+
 ## 한 줄 요약
 나사 풀림 및 픽스쳐 골절 등 Astra 임플란트의 흔한 합병증에 대한 해결책을 다루는 임상 가이드이며, 수술 기법과 보철 관리 전략에 중점을 둠.
 

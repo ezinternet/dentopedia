@@ -9,8 +9,21 @@ pdf_filename: saravi-2021-cadcam-all-ceramic-fdp-clinical-sr-ma.pdf
 source_collection: external
 ---
 
-## One-line Summary
-CAD/CAM 전부도재 FPD 임상성적 SR+MA (Materials 2021): 단관 vs FPD 생존율 비교; 최신 세라믹 FPD 5년 생존율 높음; 파절이 주요 합병증.
+## Three-line Summary
+
+CAD/CAM 전부도재 FPD 임상성적 SR+MA (Materials 2021): 단관 vs FPD 생존율 비교
+
+최신 세라믹 FPD 5년 생존율 높음
+
+파절이 주요 합병증.
+
+## 세줄요약
+
+CAD/CAM 전부도재 FPD 임상성적 SR+MA (Materials 2021): 단관 vs FPD 생존율 비교
+
+최신 세라믹 FPD 5년 생존율 높음
+
+파절이 주요 합병증.
 
 ## 1. Document Information
 - **Journal**: Materials 2021, 14, 2672

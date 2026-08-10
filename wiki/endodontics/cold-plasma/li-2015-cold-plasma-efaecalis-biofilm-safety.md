@@ -6,20 +6,28 @@ date: 2015-08-01
 doi: "10.1016/j.joen.2014.12.005"
 source: li-2015-cold-plasma-efaecalis-biofilm-safety.md
 category: [endodontics/cold-plasma]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/li-2015-cold-plasma-efaecalis-biofilm-safety.pdf
 pdf_filename: li-2015-cold-plasma-efaecalis-biofilm-safety.pdf
 source_collection: external
 tags: [cold-plasma, E-faecalis, biofilm, endodontics, disinfection, ROS, antimicrobial, dentin-safety]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In vitro study showing AC argon/oxygen cold plasma completely eradicates 3-week mature E. faecalis root canal biofilm in 12 minutes — outperforming 1-week Ca(OH)₂ and chlorhexidine — with no significant dentin microhardness or roughness change.
+In vitro study (extracted human single-root canal teeth, 3-week mature E. faecalis biofilm) evaluating AC argon/oxygen atmospheric cold plasma for endodontic disinfection, with simultaneous mechanical safety testing of dentin.
 
-## 한줄요약
+Cold plasma completely eradicated biofilm at 12 minutes (0 CFU, confirmed by SEM and CLSM live/dead staining), outperforming all conventional medicaments — Ca(OH)₂, 2% CHX gel, and their combination — which each failed to achieve complete sterilization even after 1 week.
 
-In vitro: AC 아르곤/산소 냉각 플라즈마 12분으로 3주 성숙 E. faecalis 근관 바이오필름 완전 제거, Ca(OH)₂·CHX 1주 처치보다 우수; 상아질 미세경도·조도 변화 없어 기계적 안전성 확인.
+Vickers microhardness and 3D laser profilometry showed no significant dentin structural change after plasma treatment, establishing both efficacy and mechanical safety and identifying plasma-generated ROS as the primary bactericidal mechanism.
+
+## 세줄요약
+
+발치 단근 치아(3주 성숙 E. faecalis 바이오필름) in vitro: AC 아르곤/산소 냉각 플라즈마를 근관 소독 및 상아질 안전성 동시 평가.
+
+플라즈마 12분에서 완전 균 사멸(0 CFU, SEM+CLSM 확인) — 1주 Ca(OH)₂, 2% CHX 젤, 병용 처치 모두 완전 제거 실패로 플라즈마 우위.
+
+Vickers 경도 및 3D 레이저 조도 측정에서 상아질 구조 변화 없음(p>0.05) — 항균 효과와 기계적 안전성 동시 확인, 주요 살균 기전은 플라즈마 유래 활성산소종(ROS).
 
 ## Summary
 
@@ -57,5 +65,5 @@ SEM and CLSM at 12 min confirmed total biofilm disruption and 100% cell death by
 
 ## Related Papers
 
-- [[endodontics/irrigation/jungbauer-2021-cold-atmospheric-plasma-antimicrobial-sr]] — SR on CAP antimicrobial efficacy; Li 2015 is a primary study this review would include
+- [[implants/surface/plasma/jungbauer-2021-cold-atmospheric-plasma-antimicrobial-sr]] — SR on CAP antimicrobial efficacy; Li 2015 is a primary study this review would include
 - [[endodontics/cold-plasma/li-2015-cold-plasma-efaecalis-biofilm-safety]] — this page (self)

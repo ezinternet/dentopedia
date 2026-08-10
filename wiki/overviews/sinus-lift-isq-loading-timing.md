@@ -7,7 +7,7 @@ type: overview
 category: [overviews]
 tags: [ISQ, sinus-lift, loading-timing, RBH, two-stage, TSFE, stability-dip, osseodensification]
 source_papers: 
-confidence: synthesis
+evidence_level: synthesis
 source: synthesis
 ---
 
@@ -26,12 +26,21 @@ source: synthesis
 > - 임상 의사결정: RBH <5mm는 측창법(2단계, 식립 3개월 후 ISQ 재측정), 5-9mm는 TSFE 동시식립(osseodensification+tapered 권장, ISQ >70이면 12주 조기부하).
 > - 전체 근거 수준은 중등도 이하(Ramirez n=10, Jelusic 단일시점, Allurkar in vitro, Liu n=1, Starch-Jensen Low GRADE) — 개별 환자 골질·RBH·술기에 따라 ISQ를 직접 측정해 판단하는 것이 원칙.
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis of 7 wiki papers answering "when can a post-sinus-lift implant be loaded" from Implant Stability Quotient (ISQ) trajectories: two-stage lateral-window cases reach loadable ISQ (~70+) at 3–6 months after placement, while transcrestal simultaneous placement permits 12-week early loading when insertion ISQ ≥70. Residual bone height (RBH), surgical technique (osseodensification > osteotome), and tapered macrodesign drive the ISQ trajectory; overall evidence is moderate-or-lower, so per-patient ISQ measurement remains the governing principle.
+Synthesis of 7 wiki papers (1 SR+MA, 2 prospective, 1 in-vitro, 3 smaller studies) answering "when can a post-sinus-lift implant be loaded" from ISQ (Implant Stability Quotient) trajectories across two-stage lateral-window and transcrestal simultaneous-placement protocols.
 
-## 한줄요약
-상악동거상술 후 ISQ 기반 부하 시기: 2단계 측창법은 식립 후 3–6개월(ISQ 70+ 도달), 경유돌 동시식립은 초기 ISQ≥70 확인 시 12주 조기부하 가능; RBH·술기·거시디자인이 ISQ 궤적 결정
+Two-stage lateral-window placement starts at ISQ ~60s (not immediately loadable) and reaches ISQ ≥73 at 3 months with bovine bone mineral (BBM) or at 6 months with β-TCP; by 4 months all graft types statistically equal ungrafted natural bone (p=0.789, Jelusic 2014); transcrestal simultaneous placement with insertion ISQ ≥70 permits 12-week early loading (Liu 2018 RBH 3.5 mm ISQ 72.6); osseodensification significantly raises ISQ over osteotome technique (Starch-Jensen 2025 SR+MA, Low GRADE).
+
+ISQ loading thresholds: <60 → delayed loading (4–6 months additional observation); 60–70 → early loading with close monitoring; >70 → immediate/early loading acceptable; serial ISQ tracking is more informative than any single reading, and a stability dip at 2–4 weeks requires re-measurement before loading — overall evidence is moderate-or-lower, so per-patient ISQ measurement governs final decisions.
+
+## 세줄요약
+
+7편 종합(SR+MA 1, 전향적 2, in-vitro 1, 기타 3) — 2단계 측창법 및 경유돌 동시식립에서 임플란트 안정성 지수(Implant Stability Quotient, ISQ) 궤적과 부하 시기.
+
+2단계 측창법: 식립 직후 ISQ 60 초반(즉시부하 불가) → 소뼈 유래 골(BBM)군 3개월 ISQ ≥73 부하 가능, β-TCP군은 6개월 대기; 4개월이면 이식재 종류 무관 비증대 자연골과 통계적 동등(p=0.789); 경유돌 동시식립은 초기 ISQ ≥70 시 12주 조기부하 가능(Liu 2018 잔존골고(RBH) 3.5 mm에서 ISQ 72.6); 골밀도화(Osseodensification)가 골삭제술(osteotome)보다 ISQ 유의하게 높음(Starch-Jensen 2025, 낮은 GRADE).
+
+ISQ 부하 임계값: <60 → 지연부하(4–6개월 추가 관찰), 60–70 → 조기부하+면밀 모니터링, >70 → 즉시/조기부하 고려; 안정성 딥(stability dip) 2–4주 구간 부하 금지·재측정; 전체 근거는 중등도 이하라 개별 환자 ISQ 직접 측정이 결정 원칙.
 
 ## Summary
 

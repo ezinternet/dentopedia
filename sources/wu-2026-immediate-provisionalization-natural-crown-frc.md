@@ -17,13 +17,21 @@ text_filename: wu-2026-immediate-provisionalization-natural-crown-frc.txt
 
 기존 [[immediate-implant/esthetic-soft-tissue/de-angelis-2021-immediate-implant-provisionalization-soft-tissue-retrospective]] 등 즉시식립·즉시 임시수복(immediate provisionalization) 페이지는 대부분 implant-supported provisional을 전제로 하고, 따라서 충분한 1차 안정성(primary stability)이 필수 조건이다. 본 RCT (Wu 2026)는 1차 안정성이 부족한 esthetic zone 외상치 증례에서 implant를 지지로 쓰지 않고 환자 자연치관(natural crown) + 섬유강화복합 스플린트(FRC splint)를 인접치에 고정하는 non-implant-supported 임시수복이라는 다른 분기를 평가해, 기존 immediate provisionalization 적응증을 "1차 안정성 미달 케이스"로 확장한다. PES 보존·술후 통증 감소 근거로 활용.
 
-## One-line Summary
+## Three-line Summary
 
 Exploratory RCT (n=20, anterior maxilla IIP, 4-5 mo) in which immediate non-implant-supported provisionalization using the patient's own natural crown fixed with an FRC splint to adjacent teeth preserved pink esthetic score (PES) and reduced early postoperative pain/swelling vs delayed restoration, with no significant difference in gingival height change.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 탐색적 RCT (전치부 상악 즉시식립 IIP, n=20, 4-5개월): 환자 자연치관 + 섬유강화복합 스플린트(FRC)를 인접치에 고정하는 비-임플란트지지 즉시 임시수복이 지연수복 대비 분홍심미점수(PES)를 유지하고 술후 초기 통증·종창을 줄였으며, 치은 높이 변화에는 군간 유의차가 없었다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

@@ -6,7 +6,7 @@ date: 2016-01-01
 doi: unknown
 journal: Korean Journal of Conservative Dentistry (보존과학회지)
 source: ahn-2016-survey-working-length-determination.md
-confidence: cross-sectional
+evidence_level: cross-sectional
 category: [endodontics/eal]
 pdf_path: /Users/oracleneo/llm-wiki/papers/ahn-2016-survey-working-length-determination.pdf
 pdf_filename: ahn-2016-survey-working-length-determination.pdf
@@ -14,11 +14,21 @@ source_collection: external
 tags: [working-length, EAL, apex-locator, apical-limit, survey, Korean]
 ---
 
-## One-line Summary
-Cross-sectional questionnaire survey of Korean dental-school endodontic faculty (90% response rate): 89% prefer electronic apex locators (EAL) over radiography for working length, 78% favor an apical limit 0.5–1.0 mm short of the radiographic apex, and 74% trust the EAL over the radiograph when they conflict.
+## Three-line Summary
 
-## 한줄요약
-설문조사(치과대학): EAL 89%가 근관장 측정 우선; 방사선적 근단 0.5–1.0mm 단에서 근관장 설정(78%)
+Cross-sectional questionnaire survey of Korean dental-school endodontic faculty with a 90% response rate, assessing preferences for working length determination methods and apical limit settings.
+
+EAL was preferred over radiography by 89% of respondents; 78% set the apical limit 0.5–1.0 mm short of the radiographic apex; and 74% trusted the EAL reading when EAL and radiograph conflicted.
+
+The most common protocol was APEX mark minus 0.5 mm (41%), confirming EAL as the academic standard in Korean endodontics, with radiography used for confirmation rather than as the primary reference.
+
+## 세줄요약
+
+한국 치과대학 보존과학(근관치료) 교원을 대상으로 한 횡단 설문조사, 응답률 90%로 근관장측정 방법 선호도 및 근단 한계 설정 기준을 파악.
+
+EAL이 방사선보다 선호(89%); 근단 한계는 방사선적 근단 0.5–1.0mm 단(78%); EAL·방사선 결과 충돌 시 EAL 우선(74%).
+
+가장 많이 사용하는 EAL 프로토콜은 APEX 표시에서 0.5mm 감산(41%) — EAL이 한국 치과 학계의 표준으로 확립되었음을 확인, 방사선은 확인 수단으로만 활용.
 
 ## Summary
 A questionnaire survey of endodontic faculty at Korean dental schools (90% response rate) found that **89% prefer electronic apex locators (EAL)** over radiography for working length determination, and **78% favor an apical limit of 0.5–1.0 mm short of the radiographic apex**. When EAL and radiographic measurements conflict, 74% trust the EAL result. The most common EAL protocol: read the APEX mark, then subtract 0.5 mm (41%).

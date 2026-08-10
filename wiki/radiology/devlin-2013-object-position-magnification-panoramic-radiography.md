@@ -6,7 +6,7 @@ date: 2013-01-01
 doi: 10.1259/dmfr/29951683
 source: devlin-2013-object-position-magnification-panoramic-radiography.md
 category: [radiology]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/devlin-2013-object-position-magnification-panoramic-radiography.pdf
 pdf_filename: devlin-2013-object-position-magnification-panoramic-radiography.pdf
 source_collection: external
@@ -16,13 +16,21 @@ relations:
     target: martins-2022-multilayer-panoramic-radiography-device-mapping
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Theoretical + ball-bearing study: panoramic magnification ~1.29 horizontal/1.26 vertical; only certain focal-trough positions give zero distortion; 6 mm sphere best for calibration.
+Theoretical analysis combined with a ball-bearing phantom study (plastic skull, 2.5 mm and 6 mm steel spheres, 21 repeated exposures with re-seating) deriving magnification equations linking object size, position, and panoramic machine parameters.
 
-## 한줄요약
+Mean horizontal magnification was ~1.29 (2.5 mm sphere) / ~1.29 (6 mm sphere) and vertical ~1.26; zero distortion occurs only at specific focal-trough positions and horizontal positioning errors cause distortion even within the trough; the 6 mm ball bearing gave more reliable magnification/position estimation than the 2.5 mm sphere.
 
-이론+볼베어링 실험: 파노라마 확대율 수평 ~1.29·수직 ~1.26. 초점골 내 특정 위치에서만 왜곡 0. 보정용은 6 mm 구체가 우수.
+Panoramic radiographs cannot be used as reliable metric tools without individual calibration; positioning precision within the focal trough matters, and a 6 mm calibration object should be used when dimensional measurements are required.
+
+## 세줄요약
+
+파노라마 확대율 수식과 볼베어링 팬텀 실험(플라스틱 두개골, 2.5 mm·6 mm 강구, 21회 반복 촬영)을 결합해 물체 위치·크기·장비 파라미터와 확대율의 관계를 도출한 연구.
+
+수평 확대율 ~1.29·수직 ~1.26; 왜곡 0이 되는 것은 초점골(Focal Trough) 내 특정 위치에서만, 수평 위치 오차 시 초점골 내에서도 왜곡 발생; 6 mm 구체가 2.5 mm보다 확대율·위치 추정에 신뢰도 높음.
+
+파노라마 영상은 개별 보정 없이 계측 도구로 사용 불가; 치수 측정이 필요한 경우 6 mm 보정 물체 사용 권장.
 
 ## Summary
 

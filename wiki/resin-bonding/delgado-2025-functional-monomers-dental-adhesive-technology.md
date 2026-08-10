@@ -6,7 +6,7 @@ date: 2025-10-07
 doi: 10.3290/j.jad.c_2297
 source: delgado-2025-functional-monomers-dental-adhesive-technology.md
 category: resin-bonding
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: true
 pmid: "41054813"
@@ -20,13 +20,21 @@ relations:
     target: fehrenbach-2021-10-mdp-bonding-performance-sr-ma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review (PubMed/Scopus/LILACS, 2005–2025) of acidic functional monomers in contemporary dental adhesives: 10-MDP dominates (~50% of marketed products) and beats 4-META and GPDM on bonding, hydrolytic stability and collagen interaction; 4-META is a carboxylic monomer (two -COOH groups) that hydrolyzes to 4-MET (pKa ≈ 2.9, vs 10-MDP 2.2) and is structurally weaker but still widely used.
+Narrative review (PubMed/Scopus/LILACS, 2005–2025) from Van Meerbeek's group mapping physico-chemical properties (MW, Log P, pKa) and bonding performance of the three key acidic functional monomers — 10-MDP, GPDM, and 4-META — across self-etch and universal adhesive systems.
 
-## 한줄요약
+10-MDP (~50% of marketed adhesives) outperforms 4-META and GPDM on bond strength, hydrolytic stability, and collagen interaction via ~1.9-nm nano-layered Ca salts; 4-META is a carboxylic monomer (pKa ≈ 2.9) that hydrolyzes to 4-MET and forms more soluble, less stable Ca salts without stable collagen complexation.
 
-내러티브 리뷰(2005–2025): 현대 치과 접착제의 산성 기능성 단량체를 정리한다. 10-MDP가 시판 제품의 약 50%를 차지하며 결합력·가수분해 안정성·콜라겐 상호작용에서 4-META·GPDM보다 우수하다. 4-META는 카르복실기 2개를 가진 카르복실산계 단량체로 수용액에서 4-MET로 가수분해되고(4-MET pKa ≈ 2.9, 10-MDP는 2.2) 구조적으로 약하나 여전히 널리 쓰인다.
+Monomer chemistry — not marketing — should guide adhesive selection: 10-MDP's long 10-carbon spacer + phosphate group explains its clinical superiority; only 40 wt% 4-META maintains bonding at 1 year, relevant to the Super-Bond/4-META-MMA-TBB resin family used in fragment repair.
+
+## 세줄요약
+
+Van Meerbeek 그룹의 내러티브 리뷰(PubMed/Scopus/LILACS, 2005–2025): 현대 자가산부식(Self-Etch, SE) 및 유니버설 접착제의 핵심 산성 기능성 단량체(Functional Monomer, FM) 3종(10-MDP, GPDM, 4-META)의 물리화학적 특성(MW, Log P, pKa)과 결합 성능 종합.
+
+10-MDP(시판 제품의 약 50%)는 약 1.9 nm 나노층 칼슘염 형성·안정적 콜라겐 복합체로 결합력·가수분해 안정성·콜라겐 상호작용에서 4-META·GPDM 보다 우수; 4-META는 카르복실산계(pKa ≈ 2.9)로 수용액에서 4-MET로 가수분해되어 더 용해성 높은 칼슘염을 형성하며 콜라겐 안정적 복합체 형성 불가.
+
+접착제 선택은 마케팅이 아닌 단량체 화학으로 해야 하며, 10-MDP의 10탄소 사슬+인산기 구조가 임상 우위를 설명; 4-META는 40 wt% 농도에서만 1년 접착 유지 — Super-Bond/4-META-MMA-TBB 레진을 이용한 치근파절 수복 시 임상적으로 중요한 맥락.
 
 ## Summary
 
@@ -82,4 +90,4 @@ For this wiki the page's value is as the **canonical 4-META composition referenc
 - [[resin-bonding/etiennot-2025-mdp-saliva-contaminated-dentin]] — 10-MDP behaviour under saliva contamination; same monomer-chemistry frame.
 - [[overviews/adhesive-bonding-strategies-overview]] — cross-paper synthesis of E&R vs SE strategies that this monomer-chemistry review feeds.
 - [[resin-bonding/kikuta-2025-fillers-4-meta-mma-tbb-resin-root-caries]] — sibling Super-Bond page: fillers in 4-META-MMA-TBB resin for root caries (clinical application of the 4-META chemistry detailed here).
-- [[oral-surgery/corbella-2025-surgical-techniques-vertical-root-fractures-sr]] — sibling Super-Bond page: 4-META-MMA-TBB resin in vertical-root-fracture bonding/repair.
+- [[resin-bonding/corbella-2025-surgical-techniques-vertical-root-fractures-sr]] — sibling Super-Bond page: 4-META-MMA-TBB resin in vertical-root-fracture bonding/repair.

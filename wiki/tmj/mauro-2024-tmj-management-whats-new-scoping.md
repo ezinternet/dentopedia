@@ -6,18 +6,26 @@ date: 2024-05-23
 doi: 10.3390/dj12060157
 source: mauro-2024-tmj-management-whats-new-scoping.md
 category: [tmj]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/mauro-2024-tmj-management-whats-new-scoping.pdf
 pdf_filename: mauro-2024-tmj-management-whats-new-scoping.pdf
 source_collection: external
 tags: [tmd, scoping-review, physiotherapy, cbt, ozone, prp, botulinum-toxin, splint, arthrocentesis, arthroscopy, surgery, acupuncture, emerging-treatments]
 ---
 
-## One-line Summary
-Scoping review of 109 SRs (Dent J 2024): tiered TMD management — non-invasive first (CBT/PT), then minimally invasive (splints/BTX/PRP/injections), surgery last; emerging: PRP, O2O3, stem cells show promise.
+## Three-line Summary
+PRISMA-ScR scoping review (Dentistry Journal 2024) of 109 systematic reviews published 2019–2024 across Scopus/PubMed/Embase/Web of Science, mapping all evidence-based TMD treatment categories.
 
-## 한줄요약
-109편 SR 대상 scoping review (2024): TMD 단계적 치료 — 비침습 우선(CBT·PT), 최소침습(스플린트·BTX·PRP·관절주사), 수술 최후; 신흥 치료(PRP·오존·줄기세포) 주목.
+Physical therapy + manual therapy holds the strongest non-invasive evidence; CBT is effective for chronic/biopsychosocial TMD; splints and IA injections are the best-supported minimally invasive options; PRP, O2O3 (ozone), and stem cells are emerging but need more RCTs; surgery is last resort.
+
+The 2024 evidence map confirms a tiered approach (PT/CBT → splint/BTX/PRP → arthroscopy > open surgery) and provides the most comprehensive cross-category treatment overview to that date; no original data or GRADE assessment.
+
+## 세줄요약
+PRISMA-ScR 범위 문헌고찰 (Dentistry Journal 2024): 2019–2024년 발표된 체계적 문헌고찰 109편을 대상으로 TMD 치료 모든 영역의 근거를 지도화.
+
+물리치료·수기치료가 비침습 치료 중 가장 강한 근거; CBT는 만성·생물심리사회적 TMD에 효과적; 스플린트와 관절 내 주사가 최소침습 중 최우수; PRP·O2O3·줄기세포는 유망하나 추가 RCT 필요; 수술은 최후 수단.
+
+2024년 기준 단계적 치료(PT/CBT → 스플린트/BTX/PRP → 관절경 > 개방수술) 체계를 확인하는 가장 포괄적인 교차 카테고리 개요; 원데이터 없음, GRADE 평가 없음.
 
 ## Summary
 Comprehensive scoping review (PRISMA-ScR) of 109 SRs and MAs published 2019–2024 across Scopus/PubMed/Embase/Web of Science. Categories: 39 non-invasive articles, 120 minimally invasive references (7 sub-categories), 15 surgical articles. Key finding: PT+manual therapy has the strongest non-invasive evidence; multimodal approaches (CBT + PT + splint) are optimal; emerging modalities (PRP, O2O3, stem cells) show promise but need more RCTs. Surgery (arthroscopy > open) remains last resort after conservative failure.

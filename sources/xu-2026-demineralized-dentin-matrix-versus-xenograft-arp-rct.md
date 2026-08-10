@@ -17,13 +17,21 @@ text_filename: xu-2026-demineralized-dentin-matrix-versus-xenograft-arp-rct.txt
 
 [[bone-regeneration/ridge-preservation/feng-2024-autogenous-particulated-dentin-graft-arp]]가 autogenous dentin graft의 ARP 효과를 보였으나, gold-standard xenograft (DBBM)와의 직접 head-to-head RCT + 6개월 histology 근거가 부족했다. 본 RCT (Xu 2026, n=50)는 DDM vs DBBM을 CBCT 차원변화·histomorphometry로 직접 비교해, [[bone-regeneration/ridge-preservation/kim-2024-collagenated-xenograft-arp-rct]] 같은 xenograft RCT에 autogenous-dentin 대안 근거를 보강한다.
 
-## One-line Summary
+## Three-line Summary
 
-RCT (n=50; DDM 25 vs DBBM 25): autogenous demineralized dentin matrix showed greater early (3-mo) horizontal resorption at mid-socket (0.77 vs 0.44 mm, p=0.006) but comparable 6-month dimensional stability and superior histological tissue integration (active remodeling, SATB2+ osteoblasts) vs DBBM.
+RCT (n=50;
 
-## 한줄요약
+DDM 25 vs DBBM 25): autogenous demineralized dentin matrix showed greater early (3-mo) horizontal resorption at mid-socket (0.77 vs 0.44 mm, p=0.006) but comparable 6-month dimensional stability and superior histological tissue integration (active remodeling, SATB2+ osteoblasts) vs DBBM.
 
-RCT (n=50; DDM 25 vs DBBM 25): 자가 탈회상아질기질(DDM)은 3개월 시점 socket 중간부 수평흡수가 더 컸으나(0.77 vs 0.44 mm, p=0.006), 6개월 차원안정성은 DBBM과 동등했고 조직학적 통합·신생골 형성은 더 우수해 ARP 대안으로 유효.
+(incomplete)
+
+## 세줄요약
+
+RCT (n=50;
+
+DDM 25 vs DBBM 25): 자가 탈회상아질기질(DDM)은 3개월 시점 socket 중간부 수평흡수가 더 컸으나(0.77 vs 0.44 mm, p=0.006), 6개월 차원안정성은 DBBM과 동등했고 조직학적 통합·신생골 형성은 더 우수해 ARP 대안으로 유효.
+
+(incomplete)
 
 ## 1. Document Information
 

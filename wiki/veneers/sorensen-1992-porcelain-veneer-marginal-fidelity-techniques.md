@@ -6,20 +6,28 @@ date: 1992-01-01
 doi: 10.1016/0022-3913(92)90040-H
 source: sorensen-1992-porcelain-veneer-marginal-fidelity-techniques.md
 category: [veneers]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/sorensen-1992-porcelain-veneer-marginal-fidelity-techniques.pdf
 pdf_filename: sorensen-1992-porcelain-veneer-marginal-fidelity-techniques.pdf
 source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In-vitro study (JPD 1992, n = matched incisors) comparing platinum foil vs. refractory die veneers: platinum foil had significantly better vertical marginal fidelity but more overcontouring; both techniques showed universal microleakage at the tooth–composite resin interface; no correlation found between marginal gap size and microleakage.
+In-vitro study (JPD 1992) comparing platinum foil vs. refractory die porcelain veneers on matched maxillary incisors with 0.5 mm intraenamel labial preparations, etched and cemented with composite resin, subjected to 1,000 thermocycles and analyzed with silver-nitrate microleakage staining at ×250.
 
-## 한줄요약
+Platinum foil produced significantly better vertical marginal fidelity but significantly more overcontouring; both techniques exhibited universal microleakage at the tooth–composite resin interface, with the porcelain–composite interface remaining essentially sealed; no significant correlation was found between marginal gap size and microleakage extent.
 
-시험관 내 연구(JPD 1992): 백금박 기법이 수직 변연 적합도 우수, 레프랙토리 다이가 과풍융 적음; 양군 모두 치아-레진 계면에서 보편적 미세 누출 발생; 변연 간격 크기와 미세 누출량 간 상관없음.
+The finding that gap size does not predict microleakage has direct clinical implications: minimizing the marginal gap alone does not guarantee a sealed tooth–cement interface, pointing to bond quality at the dentinal substrate as the critical variable.
+
+## 세줄요약
+
+시험관 내 연구 (JPD 1992): 대응된 상악 절치에 0.5 mm 법랑질 내 삭제 후 백금박 vs 내화다이 도자기 비니어를 제작·접착 후 열순환 1,000회, 질산은 미세누출 염색 ×250 분석.
+
+백금박이 수직 변연 적합도 유의하게 우수하나 과풍융(overcontouring)도 유의하게 많음; 치아–복합레진 계면에서 양군 모두 보편적 미세누출(universal microleakage), 도자기–복합레진 계면은 거의 밀폐; 변연 간격 크기와 미세누출량 간 유의 상관 없음.
+
+변연 간격이 작다고 미세누출이 방지되는 것이 아님 — 치아-시멘트 계면의 결합 질이 핵심임을 시사, 접착 프로토콜의 중요성을 지지.
 
 ## Summary
 

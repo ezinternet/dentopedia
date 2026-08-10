@@ -13,13 +13,21 @@ source_collection: external
 
 Short implant vs sinus floor elevation 비교를 ≥5년 장기 RCT로 한정해 근거 수준을 높이기 위해 인제스트. [[sinus-lift/lateral/chaware-2021-short-vs-long-implant-sinus-graft-sr-ma]] 의 혼합 추적 결과를 장기 subset으로 정제하며, ISR에서 standard+SFE가 수치상 높으나 유의차 미달임을 보여 short implant 비열등 thesis를 조건부로 강화.
 
-## One-line Summary
+## Three-line Summary
 
 SR+MA of 5 RCTs (≥5-year follow-up) showing no significant difference in implant survival between short implants and standard implants + sinus floor elevation, with significantly lower marginal bone loss and fewer biological complications favoring short implants.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 ≥5년 추적 RCT 5편 메타분석 — short implant vs standard implant+상악동거상술의 생존율 유의차 없음(RR 0.97, p=0.07), 변연골소실은 short implant가 유의하게 적고 생물학적 합병증도 적음.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - J Pers Med 2023;13(2):169. Published 2023-01-18.

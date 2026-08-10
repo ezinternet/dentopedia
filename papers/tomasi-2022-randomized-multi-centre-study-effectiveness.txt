@@ -1,0 +1,1152 @@
+TITLE: A randomized multi-centre study on the effectiveness of non-surgical periodontal therapy in general practice.
+AUTHORS: Tomasi C, et al.
+YEAR: 2022
+DOI: 10.1111/jcpe.13703
+PMID: 35833528
+PMCID: PMC9796759
+============================================================
+Clinical Relevance
+
+: Available evidence on non‐surgical periodontal therapy is largely based on efficacy studies. It is needed to evaluate the effectiveness of treatment protocols for patients in general dental practice.
+
+: No significant differences in clinical outcomes were observed between the two non‐surgical approaches at 6 months. The GPIC protocol, however, was more time efficient.
+
+: A strategic focus on patient education establishing a sufficient level of oral hygiene is beneficial. Treatment strategies should be based on individual patient needs. The need for mechanical debridement should be evaluated avoiding over‐instrumentation. Smoking cessation should be addressed.
+
+1
+
+INTRODUCTION
+
+According to the Clinical Practice Guidelines for the management of periodontitis produced by the European Federation of Periodontology (Sanz et al.,), treatment should be provided in a step‐wise approach. Thus, following communication with the patient regarding diagnosis, aetiology and therapeutic options, the first step of therapy aims at establishing adequate patient‐performed infection control (Carra et al.,) and control of risk factors, for example, smoking cessation (Ramseier et al.,). In the second step, teeth with pathological periodontal pocket formation require mechanical instrumentation to further reduce the bacterial load (Suvan et al.,). This strategy was evaluated, among others, by Wennström et al. () who applied a guided approach to periodontal infection control (GPIC). This approach included an initial phase of patient education for the establishment of adequate self‐performed infection control prior to the initiation of mechanical instrumentation, which was carried out in one session of ultrasonic debridement. At the 3‐month evaluation, residual pathology guided the clinician in the allocation of additional mechanical subgingival instrumentation.
+
+Pocket closure (probing pocket depth [PPD] ≤ 4 mm) is recognized as a relevant clinical outcome of periodontal therapy (Loos & Needleman,). There is evidence (Eberhard et al.,; Suvan et al.,) that a single session of ultrasonic instrumentation results in treatment outcomes of similar magnitude when compared with conventional section‐wise scaling and root planing (SRP). Both treatment approaches are recognized by Swedish (Socialstyrelsen,) and European guidelines (Sanz et al.,). As the evidence was largely generated in randomized control trial studies, the external validity of these findings remains to be evaluated (Suvan et al.,). Available evidence is essentially based on efficacy evaluations, that is, care provided under ideal conditions to selected populations, while studies evaluating effectiveness of therapy, that is, care provided to the general population under conditions found in practice, are lacking.
+
+The overall objective of the current field study was to evaluate the effectiveness of clinical and patient‐centred outcomes of the GPIC approach when compared with conventional non‐surgical periodontal treatment (CNST). It was hypothesized that the treatment effect obtained by GPIC should not be inferior to CNST at 6 months.
+
+2
+
+MATERIALS AND METHODS
+
+2.1
+
+Study design
+
+The study was designed as a multi‐centre, quasi‐randomized, two‐armed field study focusing on the effectiveness of non‐surgical treatment of patients with periodontitis. The study protocol was evaluated and approved by the Regional Ethical Review Board, Gothenburg, Sweden (Dnr: 288‐13) and registered at ClinicalTrials.gov (). Written informed consent was obtained from all participants. A flow chart of the study is shown in Figure.
+
+FIGURE 1
+
+Flow chart of the clinical field study outline. DH, dental hygienist; ITT, Intention To Treat; OH, Oral Hygiene; VAS, Visual Analog Scale
+
+2.2
+
+Therapists
+
+All interventions were performed by registered dental hygienists (DHs) within the Public Dental Service, Region Västra Götaland, Sweden. Based on a pre‐study questionnaire (Liss et al.,), DHs treating adult patients with periodontitis on a regular basis were identified. Of 120 DHs invited, 95 (employed at 59 clinics within general dental care) agreed to participate.
+
+Each DH was randomized to one of two treatment protocols (GPIC or CNST). Prior to randomization, DHs were stratified with regard to geographical location and sociodemographic characteristics of the respective clinics. Randomization was performed by the use of a computer‐generated random numbers table. All DHs attended a 1‐day training session including (i) principles of Good Clinical Practice in research, (ii) a detailed review of the respective research protocols and (iii) calibration of all clinical assessments. In addition, DHs allocated to the GPIC group received detailed instructions to ensure standardized treatment procedures. A study monitor performed repeated site visits at all clinics throughout the study period.
+
+2.3
+
+Patient enrolment
+
+Adult patients diagnosed with periodontitis were considered. The patient should have a minimum of 18 teeth with ≥5 teeth showing periodontal pockets at proximal sites (PPD ≥ 5 mm and bleeding on probing [BoP]). Further, to be eligible, the patient should have a general health allowing periodontal treatment in a general care setting and a sufficient understanding of the Swedish language. Subjects having received subgingival instrumentation within 6 months prior to enrolment were not considered. Recruitment was started in June 2014 and completed by December 2017.
+
+The characteristics of the patient sample are presented in Table. Subjects presented with a mean of 10 and 12 periodontal pockets in GPIC and CNST, respectively. The mean percentage of sites with PPD ≥5 mm at baseline (experimental sites) was 15% and 17%, respectively. Based on assessments of PPD, 18% of patients in GPIC and 10% in CNST were categorized as periodontitis stage II (Papapanou et al.,), while the remaining patients were classified as periodontitis stage III or IV. In all, 46% of subjects in GPIC and 59% in CNST presented with ≥4 teeth with PPD ≥6 mm.
+
+TABLE 1
+
+Characteristics of the study sample at baseline
+
+GPIC (= 280 patients)
+
+CNST (= 335 patients)
+
+Age, mean ± SD (range)
+
+53.3 ± 11.6 (26–78)
+
+53.3 ± 12.6 (25–82)
+
+Gender, %
+
+Female
+
+45.7
+
+43.6
+
+Male
+
+54.3
+
+56.4
+
+Education, %
+
+Elementary school
+
+21.5
+
+18.6
+
+High school
+
+46.2
+
+47.4
+
+University
+
+32.3
+
+33.9
+
+Smoker, %
+
+Current
+
+22.5
+
+25.3
+
+Years smoking
+
+31.8 ± 14.4
+
+33.8 ± 12.8
+
+Cigarettes/day
+
+9.8 ± 5.4
+
+11.4 ± 6.0
+
+Former
+
+37.5
+
+36.4
+
+Years cessation
+
+12.4 ± 11.0
+
+13.8 ± 12.8
+
+Years smoking
+
+20.3 ± 12.3
+
+20.6 ± 13.1
+
+Cigarettes/day before quitting
+
+14.5 ± 7.4
+
+13.2 ± 7.0
+
+Never
+
+40.0
+
+38.3
+
+Body mass index, %
+
+Underweight (<18.5)
+
+1.1
+
+0.3
+
+Normal (18.5–24.9)
+
+28.6
+
+34.6
+
+Overweight (25–29.9)
+
+51.4
+
+43.0
+
+Obesity (≥30)
+
+18.8
+
+22.1
+
+Systemic health status, % (ASA classification)
+
+Healthy
+
+78.3
+
+81.0
+
+Minor disease
+
+19.2
+
+18.7
+
+Major disease
+
+2.5
+
+0.3
+
+No. of teeth
+
+26.0 ± 2.3
+
+26.5 ± 2.2
+
+No. of teeth with PPD ≥ 5 mm
+
+10.4 ± 4.5
+
+11.5 ± 4.9
+
+No. of teeth with PPD ≥ 6 mm
+
+3.9 ± 3.5
+
+5.2 ± 4.4
+
+Periodontal disease severity, %
+
+Stage II
+
+18.2
+
+10.4
+
+Stage III–IV (≤3 teeth with PPD ≥ 6 mm)
+
+36.1
+
+31.0
+
+Stage III–IV (≥4 teeth with PPD ≥ 6 mm)
+
+45.7
+
+58.6
+
+: Data are represented as mean ± SD and %. Total number of participants= 615.
+
+Abbreviations: CNST, conventional non‐surgical therapy; GPIC, guided periodontal infection control; PPD, probing pocket depth.
+
+2.3.1
+
+Power calculation
+
+The study was designed as a non‐inferiority study. The primary outcome variable was pocket closure (PPD ≤ 4 mm). Based on data presented by Wennström et al. (), a total sample of 506 patients (253 patients per group) would provide a power of 80% at a significance level of< .05 to detect a difference of 5% between groups. Considering the risk of drop‐out, we aimed to include 700 patients.
+
+2.4
+
+Interventions
+
+2.4.1
+
+Guided periodontal infection control
+
+The protocol included dedicated visits focusing on patient education and motivation towards efficient self‐performed infection control. Prior to subgingival debridement, the patient had to demonstrate sufficient oral hygiene (full‐mouth plaque score < 30%). Then, full‐mouth ultrasonic debridement was performed during a single session (EMS Piezon®, P and PS tips, EMS Dental, Nyon, Switzerland).
+
+2.4.2
+
+Conventional non‐surgical treatment
+
+The conventional treatment approach comprised, in an integrated manner, patient education, motivation and SRP at consecutive appointments. No specific directives in regard to therapy were provided. The number of sessions required to complete CNST was judged by the DH, that is, “business as usual”. Sessions were typically booked in an interval of 1–2 weeks.
+
+Two to four weeks after the baseline phase of treatment, patients in both groups were scheduled for oral hygiene control. Subsequently, patients were recalled at 3 months for evaluation and re‐instrumentation (SRP using hand and/or ultrasonic instruments) of sites with residual PPD ≥5 mm and clinical signs of inflammation. An additional evaluation was performed at 6 months.
+
+2.5
+
+Data collection
+
+Patient characteristics (e.g., age, gender and systemic health status) were noted. PPD and BoP were assessed at four sites per tooth (mesial, buccal, distal and lingual) at baseline and at 3 and 6 months. PPD values ≥4 mm were recorded to the nearest millimetre. For clinical assessments, DHs used a standardized periodontal probe (52B XSI Perio Probe, LM Dental, Parainen, Finland; 2 mm markings and 0.5 mm tip diameter). Dental plaque was scored as present/absent at four sites/tooth in quadrants 1 and 3. Clinical data were entered and stored in electronic patient records.
+
+In addition, the following information was recorded for each treatment session:
+
+Any adverse events were noted at 2–4 weeks.
+
+2.6
+
+Patient‐reported outcomes
+
+Impact of the treatment on self‐perceived oral health was assessed. At the 6‐month evaluation, patients responded to the question: “”. Patient response was scored on a 5‐point scale from “very much improved” to “worse”.
+
+2.7
+
+Data analysis
+
+All patients who received and completed the baseline treatment phase were considered in the analysis by applying a modified intention‐to‐treat strategy (Figure). For patients subsequently lost to follow‐up, the recorded data from the latest available time point were brought forward. Third molars were excluded from the analysis, as were distal sites of second molars in the presence of a third molar. The primary outcome was pocket closure (PPD ≤ 4 mm). Data were described using mean values, standard deviations as well as proportions. Treatment time was expressed in minutes and the use of local anaesthesia was measured through number of carpules.
+
+Comparisons between treatment groups were performed using independent‐test for continuous variables after verifying normal distributions and chi‐square test for categorical parameters. Descriptive analysis was performed using SPSS (version 26, IBM, Armonk, NY). A logistic multilevel analysis (STATA 16.1, StataCorp, College Station, TX and MLwiN 3.05, Centre for Multilevel Modelling, Bristol, United Kingdom) with three levels (clinician, patient and tooth site) was performed to evaluate the probability of pocket closure. In a second linear multilevel analysis (two levels: clinician and patients), change in the proportion/number of teeth with periodontal pockets following treatment was estimated. Analyses were adjusted for patient‐ and treatment‐related factors. The relationship between clinical and patient‐reported outcomes was assessed using partial correlation adjusted for treatment allocation and baseline disease severity.
+
+3
+
+RESULTS
+
+DHs were randomly assigned to GPIC (= 47) and CNST (= 48). Of 825 invited patients, 689 agreed to participate in the study. While 74 patients did not complete the baseline phase of treatment, the modified intention‐to‐treat analysis comprised 615 patients (GPIC: 280; CNST: 335). A total of 48 patients were lost to follow‐up prior to the 6‐month evaluation. For details, see Figure.
+
+Details pertaining to therapy are described in Table. Treatment time including patient education/motivation and mechanical instrumentation during the baseline phase was 96 ± 33 min for GPIC and 120 ± 50 min for CNST (< .001). The time used for re‐treatment at 3 months was similar in both groups. Overall, the average treatment time was 134 ± 40 min for GPIC and 161 ± 61 min for CNST (< .001). More anaesthesia was used in CNST during the baseline treatment phase, while no differences were observed during re‐treatment. No adverse events were reported.
+
+TABLE 2
+
+Treatment description
+
+GPIC (= 280 patients)
+
+CNST (= 335 patients)
+
+‐Value
+
+Total treatment time baseline phase (min)
+
+96.1 ± 33.8
+
+119.7 ± 50.3
+
+<.001
+
+Time patient education baseline phase (min)
+
+57.1 ± 30.6
+
+39.3 ± 20.4
+
+<.001
+
+Time mechanical instr. baseline phase (min)
+
+39.0 ± 14.0
+
+80.4 ± 41.6
+
+<.001
+
+No. of visits for treatment, %
+
+1
+
+3.6
+
+3.9
+
+2
+
+23.8
+
+27.5
+
+3
+
+39.7
+
+35.9
+
+4
+
+30.0
+
+17.4
+
+5 or more
+
+2.9
+
+15.3
+
+No. of instrumentation sessions, %
+
+1
+
+100.0
+
+29.0
+
+2
+
+0.0
+
+37.7
+
+3
+
+0.0
+
+17.7
+
+4 or more
+
+0.0
+
+15.6
+
+Instruments used initial, %
+
+Ultrasonic
+
+100.0
+
+13.4
+
+Hand instruments
+
+0.0
+
+14.0
+
+Ultrasonic and hand instruments
+
+0.0
+
+72.6
+
+Anaesthetic used initial, %
+
+None
+
+70.0
+
+59.9
+
+<.001
+
+Anaesthetic injection
+
+4.5
+
+23.6
+
+Anaesthetic gel
+
+21.4
+
+12.6
+
+Both
+
+4.1
+
+3.9
+
+Anaesthetic injected (carpules)
+
+0.2 ± 0.7
+
+1.2 ± 2.3
+
+<.001
+
+Anaesthetic gel (carpules)
+
+0.3 ± 0.6
+
+0.3 ± 0.7
+
+.581
+
+Time for check‐up at 2–4 weeks (min)
+
+18.6 ± 10.0
+
+17.9 ± 10.3
+
+.464
+
+Total treatment time 3 months (min)
+
+37.8 ± 15.4
+
+40.2 ± 22.3
+
+.136
+
+Time patient education 3 months (min)
+
+12.8 ± 8.5
+
+13.3 ± 10.6
+
+.595
+
+Time mechanical instrumentation 3 months (min)
+
+24.9 ± 13.1
+
+27.0 ± 18.8
+
+.146
+
+Instruments used 3 months, %
+
+Ultrasonic
+
+65.7
+
+75.0
+
+.734
+
+Hand instruments
+
+9.8
+
+12.5
+
+Ultrasonic and hand instruments
+
+24.5
+
+12.5
+
+Anaesthetic used 3 months, %
+
+None
+
+81.9
+
+79.2
+
+.819
+
+Anaesthetic injection
+
+4.2
+
+6.0
+
+Anaesthetic gel
+
+12.2
+
+13.0
+
+Both
+
+1.7
+
+1.8
+
+Anaesthetic injected (carpules)
+
+0.1 ± 0.4
+
+0.2 ± 0.7
+
+.181
+
+Anaesthetic gel (carpules)
+
+0.1 ± 0.3
+
+0.3 ± 2.0
+
+.179
+
+Total treatment time baseline + 3 months (min)
+
+134.0 ± 40.1
+
+160.9 ± 61.3
+
+<.001
+
+Total. mechanical instrumentation time baseline + 3 months (min)
+
+64.7 ± 21.3
+
+107.5 ± 49.2
+
+<.001
+
+Mean instrument time per closed pocket (min)
+
+9.5 ± 10.5
+
+14.5 ± 20.8
+
+.001
+
+: Data are represented as mean ± SD and %. Total number of participants= 615.
+
+Abbreviations: CNST, conventional non‐surgical therapy; GPIC, guided periodontal infection control.
+
+a
+
+‐test and independent samplestest.
+
+3.1
+
+Treatment outcomes
+
+Treatment resulted in a significant reduction of BoP at 6 months. About 69%–72% of all initial pockets were closed. No significant differences between treatment groups were observed, neither for initially shallow (5–6 mm) nor deep (≥7 mm) sites (Figure). The proportion of closed pockets for initially shallow sites was 72% (GPIC) and 75% (CNST). The respective proportions for initially deep sites were 30% and 33%.
+
+Treatment outcomes at patient level were associated with disease severity (staging). While about 75% of all pockets resolved in patients with stage II periodontitis, the respective proportions of pocket closure were about 66% and 50% in patients with localized and generalized stage III–IV periodontitis, respectively (Table). Among the most affected subjects, 6% were free of any periodontal pocket (PPD ≥ 5 mm) after treatment, while about 62% presented with >4 teeth with residual pockets. No differences between groups were observed.
+
+As shown in Table, more than 75% of all patients judged their oral health to be significantly improved (“much improved” and/or “very much improved”) after treatment. A significant positive correlation (0.16;< .001) was observed between patient‐reported outcome and clinical results expressed as percentage of pocket closure at 6 months. Figurein the appendix shows a scatterplot to illustrate the relation between self‐perceived benefit from the treatment and clinical improvement as measured from number of teeth with residual PPD ≥5 mm at baseline and 6 months.
+
+FIGURE 2
+
+(a) Mean bleeding on probing (BoP) scores for experimental sites (baseline probing pocket depth [PPD] ≥ 5 mm) and (b) proportion of pockets closed at the 6‐month examination. Mean values and SD. CNST, conventional non‐surgical therapy; GPIC, guided periodontal infection control
+
+TABLE 3
+
+Treatment outcomes according to disease severity: Percentage of patients with teeth with probing pocket depth (PPD) ≤5 mm, number of teeth at given time points with different pocket depth, average percentage of closed pockets (PPD ≤ 4 mm) and patient‐reported perception regarding oral health outcome “How would you compare your oral health after treatment with the way it was before treatment?”
+
+Stage II
+
+‐Value
+
+Stage III–IV (≤3 teeth PPD ≥ 6 mm)
+
+‐Value
+
+Stage III–IV (>3 teeth PPD ≥ 6 mm)
+
+‐Value
+
+= 51
+
+= 35
+
+= 101
+
+= 104
+
+= 128
+
+= 196
+
+GPIC
+
+CNST
+
+GPIC
+
+CNST
+
+GPIC
+
+CNST
+
+Patients % at 6 months with
+
+No tooth with PPD ≥ 5 mm
+
+35.3
+
+48.6
+
+.167
+
+14.9
+
+18.3
+
+.623
+
+6.3
+
+6.1
+
+.446
+
+1–4 teeth with PPD ≥ 5 mm
+
+41.2
+
+42.9
+
+48.5
+
+51.0
+
+30.5
+
+32.7
+
+>4 teeth with PPD ≥ 5 mm
+
+23.5
+
+8.5
+
+36.6
+
+30.7
+
+63.2
+
+61.2
+
+No. of teeth at baseline
+
+26.1 ± 2.3
+
+27.1 ± 1.3
+
+.023
+
+26.3 ± 2.2
+
+26.8 ± 2.0
+
+.088
+
+25.8 ± 2.4
+
+26.2 ± 2.4
+
+.112
+
+No. of teeth with PPD ≥ 5 mm
+
+Baseline
+
+8.7 ± 3.1
+
+8.6 ± 2.3
+
+.976
+
+8.4 ± 3.0
+
+9.2 ± 3.5
+
+.087
+
+12.7 ± 4.9
+
+13.3 ± 5.0
+
+.287
+
+3 months
+
+2.6 ± 2.8
+
+1.8 ± 1.8
+
+.119
+
+4.4 ± 3.1
+
+4.2 ± 3.2
+
+.642
+
+7.9 ± 4.6
+
+7.9 ± 5.4
+
+.899
+
+6 months
+
+2.4 ± 2.7
+
+1.5 ± 1.9
+
+.108
+
+3.7 ± 2.9
+
+3.4 ± 3.2
+
+.501
+
+7.0 ± 5.0
+
+7.0 ± 5.1
+
+.975
+
+% closed pockets (PPD ≤ 4 mm)
+
+3 months
+
+76.0 ± 31.7
+
+83.3 ± 19.8
+
+.233
+
+64.0 ± 27.6
+
+64.7 ± 26.2
+
+.849
+
+53.7 ± 29.9
+
+57.9 ± 28.5
+
+.210
+
+6 months
+
+81.9 ± 23.8
+
+90.6 ± 13.4
+
+.054
+
+71.9 ± 26.0
+
+75.4 ± 23.5
+
+.321
+
+61.6 ± 28.5
+
+65.2 ± 27.1
+
+.260
+
+Initial PPD 5–6 mm
+
+3 months
+
+76.0 ± 31.7
+
+83.3 ± 19.8
+
+.233
+
+65.6 ± 27.6
+
+66.5 ± 25.7
+
+.810
+
+58.5 ± 30.6
+
+61.6 ± 28.8
+
+.348
+
+6 months
+
+81.9 ± 23.8
+
+90.6 ± 13.4
+
+.054
+
+73.4 ± 25.8
+
+77.7 ± 23.0
+
+.217
+
+66.0 ± 28.6
+
+69.5 ± 26.7
+
+.259
+
+Initial PPD ≥ 7 mm
+
+3 months
+
+—
+
+—
+
+—
+
+9.6 ± 28.4
+
+22.8 ± 39.0
+
+.153
+
+28.1 ± 39.1
+
+24.7 ± 36.9
+
+.496
+
+6 months
+
+—
+
+—
+
+—
+
+21.2 ± 40.4
+
+28.8 ± 43.1
+
+.487
+
+31.6 ± 39.7
+
+32.8 ± 38.9
+
+.818
+
+Patient‐reported oral health outcome, %
+
+Very much better
+
+28.6
+
+27.6
+
+.754
+
+28.4
+
+20.9
+
+.338
+
+26.0
+
+34.4
+
+.396
+
+Much better
+
+54.3
+
+62.1
+
+44.3
+
+56.0
+
+52.0
+
+41.6
+
+Slightly better
+
+14.3
+
+10.3
+
+20.5
+
+19.8
+
+18.0
+
+20.1
+
+No difference
+
+0.0
+
+0.0
+
+6.8
+
+3.3
+
+4.0
+
+3.9
+
+Worst
+
+2.8
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+: Data are represented as % or mean ± SD. Total number of participants= 615.
+
+Abbreviations: CNST, conventional non‐surgical therapy:= 335; GPIC, guided periodontal infection control:= 280; PPD.
+
+a
+
+‐test and independent samplestest.
+
+3.2
+
+Multilevel models
+
+The first model with pocket closure (yes/no) as the dependent outcome revealed that initial PPD was a significant predictor at site level. Thus, the probability of pocket closure was significantly lower for a deep when compared with a shallow site. Each mm of the initial PPD decreased the probability of closing the pocket by odds ratio (OR) 0.33 (95% confidence interval [CI] 0.31–0.36). Probability of pocket closure was affected by age (OR 0.97; 95% CI 0.96–0.98), smoker versus non‐smoker (OR 0.56; 95% CI 0.37–0.85) and molar versus incisor/canine (OR 0.41; 95% CI 0.35–0.48). Treatment group and body mass index (BMI) had no significant impact. The model explained 27% of the variance as testified from thevalue. For details, see Table. Figureillustrates the predicted probability of closing a pocket by initial PPD, smoking status and tooth category, and Tablereport predicted probabilities with 95% CIs.
+
+The second model using proportion of teeth with residual pockets as a continuous outcome demonstrated that the proportion of teeth with pockets at baseline, age and smoking status were significant predictors (Table). Thus, as illustrated in Figure, current smokers showed less pocket reduction at 6 months when compared with non‐smokers and former smokers. Also, in this model, neither treatment group nor BMI had a significant impact. The results from the third model with number of teeth with residual pockets are presented in Table. Both models explained 40% of the variance. Figureillustrates the influence of smoking status.
+
+Time efficiency, expressed as minutes of instrumentation per closed pocket, was greater for GPIC (9.5 ± 10.5 min/closed pocket) than CNST (14.5 ± 20.8 min/closed pocket;< .001; Table).
+
+TABLE 4
+
+Multilevel logistic regression model to predict probability of pocket closure at 6 months
+
+Variables
+
+B
+
+95% CI
+
+‐Value
+
+Constant
+
+10.18
+
+9.19 to 11.19
+
+.000
+
+Test/GPIC group (ref: Control/CNST group)
+
+−0.35
+
+−0.85 to 0.09
+
+.117
+
+PPD at baseline
+
+−1.10
+
+−1.19 to −1.02
+
+.000
+
+Smoking (ref: non‐smoker)
+
+Current smoker
+
+−0.65
+
+−1.06 to −0.22
+
+.003
+
+Former smoker
+
+−0.35
+
+−0.71 to 0.02
+
+.066
+
+Age
+
+−0.03
+
+−0.05 to −0.02
+
+.000
+
+BMI (ref: Normal/underweight)
+
+BMI overweight
+
+0.19
+
+−0.17 to 0.55
+
+.311
+
+BMI obese
+
+−0.12
+
+−0.57 to 0.34
+
+.607
+
+Tooth type (ref: Anterior)
+
+Premolar
+
+−0.33
+
+−0.50 to −0.15
+
+.000
+
+Molar
+
+−0.93
+
+−1.09 to −0.77
+
+.000
+
+Random part
+
+Variance operator level
+
+0.69
+
+0.39 to 1.23
+
+Variance patient level
+
+2.77
+
+2.28 to 3.36
+
+: Adjusted for systemic health and gender. LL = −4581.88 Wald test 0.0000.27.
+
+Abbreviations: BMI, body mass index; CI, confidence interval; CNST, conventional non‐surgical therapy; GPIC, guided periodontal infection control; PPD, probing pocket depth.
+
+FIGURE 3
+
+Predicted probability of pocket closure at 6 months according to smoking and tooth type
+
+FIGURE 4
+
+Predicted proportion of teeth with probing pocket depth (PPD) ≥5 mm at 6 months according to smoking habit
+
+4
+
+DISCUSSION
+
+The present multi‐centre study evaluated the effectiveness of two treatment protocols of non‐surgical periodontal therapy. While no significant differences in clinical outcomes were observed between the two protocols at 6 months, treatment time and number of sessions were significantly lower for the guided periodontal infection control procedure than conventional non‐surgical therapy. In addition, multilevel regression analyses revealed that smoking habits and age among patients affected the probability of pocket closure.
+
+There are several components of the present study that underpin the importance of the obtained results. Thus, the characteristics of effectiveness are illustrated by a representative study population and a treatment carried out in general practice. In addition, the achieved outcomes of 70% of pocket closure at 6 months after non‐surgical therapy are in line with data from efficacy studies reported in a systematic review by Suvan et al. (). Our findings are also in agreement with observations made in a study on GPIC by Wennström et al. (), who reported that pocket closure was more frequent at initially shallow (86%) than at deep sites (50%). While a similar difference in outcomes between initially shallow and deep sites was observed in the present study, a slightly lower rate of treatment success for deep sites (30%) was noted. It should be kept in mind, however, that the present data exhibited an overall larger variation in treatment outcomes than typically shown in efficacy studies. This observation is not unexpected as our data originate from a heterogeneous patient sample treated by a multitude of clinicians. In addition, DHs were recruited among professionals with a wide range of working experience (average: 13 years), as previously described by Liss et al. () (Table).
+
+The analysis of the data in the present study revealed that complete disease resolution at 6 months was rarely observed among patients with severe forms of the disease, that is, generalized periodontitis stage III and IV. While this observation is in agreement with results reported in the systematic review by Suvan et al. (), it should be noted that the distribution of subjects with severe forms of periodontitis was unbalanced between treatment groups. As the variation in disease severity may have influenced clinicians in their decision to enrol study participants, all analyses were adjusted for disease severity at baseline.
+
+In accordance with findings reported in studies by Koshy et al. () and Wennström et al. (), the present study demonstrated that GPIC was a more time‐efficient protocol than CNST. Not only was the time of instrumentation significantly lower in GPIC than for CNST, clinicians also used smaller amounts of local anaesthesia. In this context, it noteworthy that the same study population did not report any significant differences between groups in terms of treatment discomfort or pain (Liss et al.,). Thus, given the clinical effectiveness and the apparent patient acceptance in combination with potential health economic benefits, it is reasonable to suggest that caregivers should consider implementing the principles of GPIC. A further note regarding the findings of the present study was that the total treatment time was unrelated to the severity of the disease at baseline (Table). This observation may reflect a commonly applied standardized approach to periodontal care in general practice rather than decisions on treatment based on individual needs.
+
+The analysis of data in the present study identified factors that influenced treatment outcomes. Patients categorized as smokers showed a lower probability of pocket closure at 6 months. This observation is consistent with findings reported previously (D'Aiuto et al.,; Tomasi et al.,; Wan et al.,) and highlights the importance of smoking cessation as part of the management of periodontitis. Age was also found to have a significant impact, as indicated by a lower response to treatment in older patients. A similar observation was reported in a retrospective study by Trombelli et al. (), who demonstrated that elderly subjects showed a higher number of residual pockets after treatment. A third factor influencing treatment outcomes in the present analysis was tooth category, which is in line with data presented in efficacy studies (D'Aiuto et al.,; Tomasi et al.,; Wan et al.,).
+
+In the interpretation of the findings, limitations and strengths of the present study need to be considered. First, the lack of comprehensive assessments of plaque scores and local anatomical features (e.g., angular bony defects and furcation defects) together with a potential selection bias of study participants may have impacted evaluations. The challenge of calibrating 95 clinicians in terms of treatment and examination procedures should also be acknowledged. The strengths of the study include the choice of clinically relevant outcomes (Hujoel,; Tomasi & Wennström,; Loos & Needleman,) and the representative and large sample of patients and clinicians reflecting day‐to‐day clinical practice.
+
+5
+
+CONCLUSIONS
+
+This field study demonstrated that both GPIC and CNST were effective non‐surgical treatment protocols for periodontitis. GPIC was more time‐effective. Patient education should include information on the detrimental effects of smoking on periodontal health.
+
+AUTHOR CONTRIBUTIONS
+
+Cristiano Tomasi performed the data analysis and was involved in interpretation of data and drafting of the manuscript. Anna Liss contributed to data collection, data analysis, interpretation of data and drafting of the manuscript. Maria Welander contributed to interpretation of data and drafting of the manuscript. Anna Ydenius Alian contributed to data collection and preliminary analysis. Kajsa H. Abrahamsson and Jan L. Wennström designed, planned and coordinated the study. Both contributed to data analysis, interpretation of data and drafting of the manuscript.
+
+FUNDING INFORMATION
+
+This study received financial support from The Research Foundation for Västra Götaland (VGFOUREG‐388361; 474381; 568841), TUA‐Research Funding (TUAGBG‐210211; 364881; 364641) and the Public Dental Service, Region Västra Götaland, Sweden. The funders had no influence on the study design or collection, analysis and interpretation of data.
+
+CONFLICT OF INTEREST
+
+All authors declare no conflicts of interest.
+
+ETHICS STATEMENT
+
+The study protocol was approved by the Regional Ethical Review Board, Gothenburg, Sweden (Dnr: 288‐13) and registered at ClinicalTrials.gov (). Written informed consent was obtained from all participants.

@@ -6,7 +6,7 @@ date: 2021-01-01
 doi: 10.1186/s40729-021-00365-4
 source: de-angelis-2021-soft-tissue-augmentation-immediate-implant-sr-ma.md
 category: [immediate-implant/esthetic-soft-tissue]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/de-angelis-2021-soft-tissue-augmentation-immediate-implant-sr-ma.pdf
 pdf_filename: de-angelis-2021-soft-tissue-augmentation-immediate-implant-sr-ma.pdf
 source_collection: external
@@ -20,13 +20,21 @@ relations:
     target: type-1a-immediate-placement-immediate-loading-decision
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 7 studies (n=272) demonstrates that simultaneous SCTG at IIPP significantly reduces mid-buccal recession (WMD 0.54 mm), increases facial soft tissue thickness (WMD 0.79 mm), and reduces marginal bone loss (WMD 0.13 mm) at 12 months, with low heterogeneity (I² 0–16%).
+SR+MA (PROSPERO CRD42020181407, 7 studies, n=272, Int J Implant Dent 2021) quantifying the benefit of simultaneous subepithelial connective tissue grafting (SCTG) at immediate implant placement and provisionalization (IIPP) in the esthetic zone.
 
-## 한줄요약
+SCTG significantly reduced mid-buccal mucosal recession (WMD 0.54 mm, 95% CI 0.33–0.75), increased facial soft tissue thickness (WMD 0.79 mm, CI 0.37–1.22), and reduced marginal bone loss (WMD 0.13 mm, CI 0.07–0.18) at 12 months; heterogeneity was low across all outcomes (I² 0–16%).
 
-IIPP(즉시식립+즉시임시치아) 시 SCTG 동시 시행은 12개월 기준 협측점막퇴축 0.54 mm 감소, 연조직두께 0.79 mm 증가, 변연골소실 0.13 mm 감소를 보인 SR+MA (7개 연구, n=272, 이질성 낮음).
+Short observation window (all studies ≤12 months), medium-to-high RoB in most included RCTs, and small sample (n=272) limit confidence; the MBL benefit suggests SCTG also protects bone, not only soft tissue.
+
+## 세줄요약
+
+SR+MA (PROSPERO CRD42020181407, 7편, n=272, Int J Implant Dent 2021): 즉시식립+즉시임시치아(IIPP) 시 상피하결합조직이식(SCTG) 동시 시행 효과 정량화.
+
+SCTG → 12개월 기준 순측 점막 퇴축 WMD 0.54 mm 감소(CI 0.33–0.75), 연조직 두께 WMD 0.79 mm 증가(CI 0.37–1.22), 변연골소실 WMD 0.13 mm 감소(CI 0.07–0.18); 이질성 낮음(I² 0–16%).
+
+추적 ≤12개월·대부분 RCT 중등도-고위험 비뚤림·n=272 소규모로 근거 강도 제한; MBL 감소 신호는 SCTG가 연조직뿐 아니라 골 보호에도 기여할 가능성 시사.
 
 ## Summary
 
@@ -84,4 +92,4 @@ Surgical protocol across included studies: flapless, non-traumatic extraction, b
 - [[immediate-implant/esthetic-soft-tissue/aldhohrah-2022-soft-tissue-augmentation-immediate-delayed-sctg-sr-ma]] — SR+MA comparing SCTG for immediate vs delayed implants; reinforces SCTG benefit findings
 - [[immediate-implant/esthetic-soft-tissue/azadi-2025-soft-tissue-grafting-immediate-implant-bayesian-nma]] — Bayesian NMA ranking multiple STA strategies at IIPP; extends this MA's binary comparison
 - [[immediate-implant/esthetic-soft-tissue/parvini-2023-loading-grafting-immediate-implants-minipigs]] — animal study on loading/grafting interaction at immediate implants; provides biologic context
-- [[immediate-implant/type-1a-immediate-placement-immediate-loading-decision]] — synthesis overview for type 1a IIPP decision; this MA supplies key quantitative benchmarks
+- [[overviews/type-1a-immediate-placement-immediate-loading-decision]] — synthesis overview for type 1a IIPP decision; this MA supplies key quantitative benchmarks

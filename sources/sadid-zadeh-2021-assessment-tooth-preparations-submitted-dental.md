@@ -13,13 +13,21 @@ source_collection: external
 
 [[wiki/prosthetic-materials/tiu-2015-clinical-tooth-preparations-measuring-sr]] established the ideal-preparation benchmarks (TOC, occluso-cervical height, finish line) but stopped short of quantifying how far real-world clinician preparations stray from them for the now-dominant monolithic zirconia crown. This 2021 cross-sectional STL audit fills that currency/applicability gap by measuring 392 actual lab-submitted preparations against the textbook standards Tiu et al. catalogued, reinforcing the recurring conclusion that preparation guidelines are widely missed in practice.
 
-## One-line Summary
+## Three-line Summary
 
 Cross-sectional STL audit (n=392 posterior preparations from 3 labs) found most monolithic zirconia preparations exceeded 20° TOC and >50% had undercut, unsupported enamel, and/or unacceptable finish-line quality.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 392개 후방치아 모놀리식 지르코니아 크라운 프렙(STL 파일) 단면조사: 대부분 총교합수렴각(TOC) 20° 초과, 50% 이상에서 언더컷·미지지 법랑질·부적합 변연선 품질이 확인되어 임상 프렙이 이상 기준에서 크게 벗어남.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

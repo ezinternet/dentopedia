@@ -1,0 +1,396 @@
+Introduction
+
+The adoption of CAD-CAM technology in restorative dentistry has significantly increased in recent years, particularly for the fabrication of indirect restorations. A wide range of materials, such as glass ceramic, zirconia, hybrid ceramics, and resin composites, are now available for CAD-CAM manufacturing [,]. The clinical success of these restorations depends not only on the mechanical and aesthetic properties of the restorative material but also on the polymerization efficiency of the luting materials, which ensures the long-term stability of the bonded interface [–]. Ceramic-based CAD-CAM materials offer excellent aesthetic outcomes, high mechanical strength, and superior biocompatibility. However, their high elastic modulus and inherent brittleness make them prone to crack propagation and fracture under functional stresses. In addition, their surface hardness may contribute to wear of opposing dentition and complicate intraoral adjustments or repairs [,,].
+
+In contrast, resin composites are more easily repairable and less abrasive to opposing teeth, offering favorable handling characteristics. Nevertheless, they present limitations such as lower wear resistance, greater water sorption, and potential color instability when compared to ceramics. To address these drawbacks, hybrid ceramics-such as resin nanoceramics and polymer-infiltrated ceramic networks-have been developed, combining the elasticity and reparability of resin composites with the aesthetic and optical properties of ceramics [,]. These materials typically consist of a ceramic matrix (e.g., silica or zirconia) reinforced with a resin-based polymer network, offering a more balanced mechanical performance and improved machinability. The optical properties of restorative materials, including translucency and opalescence, as well as their thickness, directly affect the amount of light transmitted to the underlying luting materials [–]. Studies have shown that as ceramic or hybrid ceramic thickness increases, light transmittance significantly decreases by up to 50% for some materials with a 2 mm thickness, thereby limiting the degree of conversion (DC) of light-cured resin-based luting materials [–]. Insufficient polymerization of these materials has been associated with compromised mechanical properties, increased solubility, marginal microleakage, and an increased risk of secondary caries, ultimately reducing the longevity of the restoration []. Conversely, achieving a high DC is critical for optimal hardness, color stability, bond strength, and biocompatibility [,].
+
+Resin cements are available in light-cured, dual-cured, and self-cured formulations. Dual-cured resin cements are frequently recommended for the luting of ceramic restorations because of their ability to undergo chemical polymerization when light transmission is limited. Nevertheless, light-cured resin composites have also been successfully used in clinical practice. These materials provide extended working time, superior aesthetic properties, and easier removal of excess material; however, their performance is highly dependent on sufficient light transmission through the restoration [–]. In this context, recent advancements in bulk-fill composites have focused on improving light transmittance by optimizing filler size and content and incorporating advanced photoinitiator systems. These modifications have allowed bulk-fill composites to achieve more reliable polymerization at depths of up to 4 mm [–]. As a result, they have been proposed as potential alternative luting materials, although their clinical application for cementing indirect restorations remains limited and underexplored. Furthermore, variations in filler type, resin matrix composition, and optical properties among commercially available materials may lead to significant differences in their polymerization behavior and clinical performance [–].
+
+Moreover, the effect of varying ceramic substrate thickness on the polymerization of these materials has not been adequately addressed in the literature. Therefore, this study aimed to investigate the effect of hybrid ceramic restoration thickness on the degree of conversion of three luting materials: a dual-cure resin cement, a flowable light-cured composite, and a bulk-fill light-cured composite. Although the polymerization behavior of luting materials has been extensively studied, limited data exist on the use of flowable and bulk-fill composites as luting materials beneath CAD/CAM restorations.
+
+The null hypotheses of this study were as follows:
+
+The thickness of hybrid ceramic substrates has no significant effect on their optical properties, including translucency parameters and contrast ratio.
+
+There is no significant difference in the degree of conversion among dual-cure resin cement, bulk-fill composite, and flowable composite under identical conditions.
+
+The degree of conversion of luting materials is not significantly affected by the thickness of the overlying hybrid ceramic substrate.
+
+Materials and methods
+
+In this in vitro study, one type of hybrid ceramic CAD/CAM material and three types of luting materials from the same manufacturer-dual-cured resin cement (Estecem II Plus, Tokuyama), light-cured flowable composite (Estelite Universal Flow, Tokuyama), and bulk-fill composite (Estelite Bulk-Fill Flow, Tokuyama)-were used (Table). The hybrid ceramic substrates and luting materials were prepared according to the study protocol, and the workflow is illustrated in Fig..
+
+Table 1
+
+Name, description, composition, and manufacturer of the materials used in this study
+
+Product name/Manufacturer
+
+Material Description
+
+Composition
+
+CeraSmart 270(A2 HT)/
+
+GC Dental Products, Europe
+
+Hybrid nanoceramic CAD/CAM block
+
+71% silica (20 nm) and Ba glass (300 nm) nanoparticles
+
+29% Bis-MEPP, UDMA, DMA
+
+Estecem II (Universal)/
+
+Tokuyama Dental
+
+Dual-cure resin cement
+
+Paste A: Bis-GMA, TEGDMA, Bis-MPEPP, silica-zirconia filler, others
+
+Paste B: Bis-GMA, TEGDMA, Bis-MPEPP, silica-zirconia filler, camphorquinone,
+
+Estelite Universal
+
+Flow Super Low (A2)/
+
+Tokuyama Dental
+
+Supra-nano filled
+
+resin composite
+
+Spherical silica-zirconia filler (mean particle size: 200 nm), Composite filler Bis-GMA, Bis-MPEPP, TEGDMA, UDMA, Mequinol, Dibutyl hydroxyl toluene, UV absorber.
+
+Estelite Bulk-fill Flow
+
+(A2)/ Tokuyama Dental
+
+Supra-nano spherical filler resin composite
+
+Bis-MPEPP, TEGDMA, Bis-GMA Silica-zirconia 70 wt %, 56 vol%
+
+*wt. weight vol. volume,urethandimethacrylate,triethyleneglycolimethacrylate,2-bis (4- methyacryloxypolyethoxyphenyl) propane, anddodecyldimethacrylate,-bisphenol A-glycidyl methacrylate
+
+Fig. 1
+
+Flowchart of the study design, including evaluation of optical properties of CAD/CAM substrates and luting material specimens. RTP: Relative Translucency (CIELab); RTP: Relative Translucency (CIEDE2000); OP: Opalescence; CR: Contrast Ratio; DC: Degree of Conversion
+
+Substrate preparation for simulation of indirect restoration
+
+In this study, a hybrid ceramic CAD/CAM material (CERASMART™ CAD blocks, GC, Tokyo, Japan) was used to simulate indirect restorations. The selected test material was shade A2 with high translucency (HT) properties (Table). Test substrates measuring 16 × 12 mm were prepared in three different thicknesses (1.5 mm, 2.0 mm, and 2.5 mm). Sectioning was performed using a diamond disc under water cooling at low speed (150 rpm) with an Isomet cutting device (Buehler, Düsseldorf, Germany).
+
+For assessing the translucency and opalescence of the CAD/CAM substrates, six samples were prepared for each thickness group without cementation and used for spectrophotometric measurements. To standardize the surfaces, all samples were finished and polished using silicon carbide abrasive papers ranging from #280 to #2200 grit. Thicknesses of the substrates were verified using a digital caliper with accuracy of ± 0,01 mm (Mitutoyo Corp, Tokyo, Japan).
+
+The upper surfaces of the CAD/CAM substrates were further polished using medium and fine silicone discs, followed by polishing with a polishing paste (Diapolisher, GC, Tokyo, Japan) according to the manufacturer’s instructions. After the finishing and polishing procedures, the substrates were ultrasonically cleaned in distilled water for 10 min, air-dried, and subsequently subjected to spectrophotometric measurements.
+
+Spectrophotometric measurements
+
+The color coordinates of all substrates were measured using a spectrophotometer (VITA EasyshadeAdvance 4.0, Vita Zahnfabrik, Germany) according to the CIE Lab* color system under standard illuminant D65 on standardized white (L* = 93.26, a* = −0.61, b* = 2.09) and black (L* = 2.93, a* = 0.38, b* = −0.34) backgrounds. The spectrophotometer was calibrated before measurements, and all readings were performed by a single trained operator to minimize variability. Three consecutive measurements on each specimen were averaged for analysis. During measurements, the probe was placed perpendicularly at the specimen center using a 45:0 geometry with air as the optical interface [].
+
+Because actual black and white backings were used, the calculated translucency parameters reflect relative values specific to the experimental conditions [].
+
+The relative translucency parameter based on the CIE Lb* system (RTP) was calculated as the color difference between measurements obtained over black and white backgrounds using the following formula:
+
+where the subscripts “B” and “W” represent measurements taken over black and white backgrounds, respectively. Higher RTPvalues indicate greater translucency, whereas lower values indicate increased opacity [].
+
+In addition, the relative translucency parameter based on the CIEDE2000 color-difference formula (RTP) was calculated as the color difference between black and white background measurements according to the following equation [].
+
+In this formula, lightness (L′), chroma (C′), and hue (H′) of the specimens over the black and the white backgrounds, respectively. The rotation functionaccounts for the interaction between hue and chroma differences in the blue region.,, andare the weighting functions for adjusting the total colour difference for variations at the perceived level with variations in the position of the colour coordinate difference between the two colour determinations. The parametric factors (,, and) were set to 1 [RTP(1:1:1)] [–].
+
+Differences in RTP values of the substrates obtained in this study were evaluated against established 50%:50% translucency perceptibility (TPT= 0.6) and acceptability (TAT= 2.6) thresholds for RTP, as well as perceptibility (TPT= 1.3) and acceptability (TAT= 4.4) thresholds for RTP[].
+
+OP is calculated as follows:
+
+Land Lcoordinate values measured on the white and black background were used to calculate the luminance as follows (Yn is equal to 100) []:
+
+The property known as CR assesses the translucency or opacity of materials by measuring the specimen’s reflectance against a black background and its reflectance against a white background [].
+
+The Contrast Ratio (CR) was calculated using the Y values of samples recorded on white (Yw) and black (Y) backgrounds as follows:
+
+Preparation of luting material specimens and evaluation of the degree of conversion (DC%)
+
+Following the preparation of the CAD/CAM substrates, dual-cure resin cement, bulk-fill composite, and flowable composite were polymerized through substrate thicknesses of 1.5 mm, 2.0 mm, and 2.5 mm. To standardize the thickness of the luting material layer, an experimental setup was prepared as illustrated in Fig.. Two Mylar strips and an aluminum foil spacer with a central opening were positioned between a black glass plate and a custom-made black cardboard holder containing the CAD/CAM substrate. The luting materials were placed in a flowable consistency into the central opening of the aluminum foil, covered with a Mylar strip, and polymerized through the CAD/CAM substrate. Polymerization of the luting materials was performed using a polywave LED curing unit (Valo X, Ultradent, USA) operating at an intensity of 1000 Mw/cmand a wavelength range of 385–515 nm. The curing light was applied at a distance of 0 mm from the surface and perpendicular to it (90° angle). The dual-cure resin cement specimens were light-cured for 20 s under standardized pressure conditions. Initially, firm finger pressure was applied for 5 s to seat the specimens, followed by the application of a vertical load of 25 N for 2.5 min []. Flowable composite specimens were polymerized for 20 s, and bulk-fill composite specimens were polymerized for 10 s in accordance with the manufacturer’s instructions, using the CAD/CAM substrate as the bonding surface. The luting specimens were prepared with a standardized final thickness of 80 μm, which was verified using a digital caliper with an accuracy of ± 0.01 mm. After polymerization, the cement discs were stored in a dry, dark environment at 37 °C for 24 h []. As a result, a total of 63 luting material specimens were obtained (= 7 per material).
+
+Fig. 2
+
+Experimental setup for polymerization of luting material specimens through CAD/CAM substrates with different thicknesses. (a) Side view of the setup. Luting material specimens were polymerized using an LED light-curing device, with light passing through the substrate to the specimen beneath. (b) Top view of the CAD/CAM substrate placed inside the black cardboard
+
+The degree of C = C conversion for the luting materials was examined using a Perkin Elmer Spectrum Two FTIR spectrometer equipped with a diamond attenuated total reflectance (ATR) unit. Spectra were recorded with 32 scans over a spectral range of 400 to 4000 cmat a resolution of 4 cm.
+
+The seven luting materials in each group were analyzed in both polymerized and unpolymerized states using ATR-FTIR. Uncured materials were applied directly to the ATR crystal, whereas cured samples were first pulverized with a mortar and pestle to obtain a fine powder. All spectra were recorded under identical conditions and subjected to baseline correction; however, no ATR correction was applied during data analysis.
+
+The spectral analysis focused on the region between 1550 cmand 1660 cm. Two key peaks were selected for the DC% calculations: 1608 or 1592 cm(representing the internal aromatic carbon double bond, C=C) and 1634 cm(representing the methacrylate carbon double bond, C=C). The degree of conversion (DC%) was calculated using the following formula.
+
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$DC=\left[1-\frac{\frac{1634c{m}^{-1}}{1608c{m}^{-1}or1592c{m}^{-1}}cured}{\frac{1634c{m}^{-1}}{1608c{m}^{-1}or1592c{m}^{-1}}uncured}\right]x100$$\end{document}
+
+Statistical analysis
+
+Statistical analyses were conducted using IBM SPSS Statistics for Windows (version 23/25, IBM Corp, Armonk, NY, USA) and the Jamovi software package (The Jamovi Project, Version 2.3). All statistical analyses were performed at a 95% confidence level. Descriptive statistics, including mean (X̄), standard deviation (SD), minimum (Min), and maximum (Max) values, were calculated for all measurements. Optical parameters were analyzed using one-way ANOVA, followed by Tukey’s multiple comparison test to assess differences between groups and substrate thicknesses (< 0.05). The degree of conversion (DC) data were first assessed for normality using the Shapiro-Wilk test. Since the data did not conform to normal, a robust ANOVA was performed to evaluate the effects of luting material type and CAD/CAM substrate thickness. Pairwise comparisons were conducted using the Bonferroni test. Post-power analysis was performed using G*Power 3.1 (Heinrich Heine University, Düsseldorf, Germany). All data are presented as mean±standard deviation and median (minimum-maximum) where appropriate. Statistical significance was set at< 0.05.
+
+Results
+
+Post-hoc power analysis revealed that with a sample size of 63 and a large effect size (f = 2.75), the statistical power of the study was calculated as 1.000 (exceeded 0.99) at a significance level of α = 0.05.
+
+Relative translucency parameter, contrast ratio, and opalescence parameter
+
+The RTP, RTP, CR, and OP values demonstrated statistically significant differences according to the substrate thicknesses (< 0.001 for all parameters, Table; Fig.).
+
+Table 2
+
+Mean ± SD and range (min-max) values of RTP, RTP, OP, and CR parameters of hybrid ceramic substrates with different thicknesses
+
+Optical Parameters
+
+Substrate Thickness
+
+p
+
+1.5 mm
+
+2.0 mm
+
+2.5 mm
+
+RTP
+
+11.21 ± 1.4
+
+(9.2-12.95)
+
+7.9 ± 1.5
+
+(6.01–9.78)
+
+6.06 ± 1.1
+
+(4.01–7.57)
+
+0.000
+
+RTP
+
+16.51 ± 1.5
+
+(14.42–18.52)
+
+11.52 ± 1.5
+
+(9.47–13.81)
+
+8.46 ± 1.2
+
+(6.35–10.32)
+
+0.000
+
+OP
+
+7.35 ± 0.6
+
+(6.36–8.23)
+
+6.73 ± 0.2
+
+(6.48–7.27)
+
+5.87 ± 0.5
+
+(5.24–6.74)
+
+0.000
+
+CR
+
+0.63 ± 0.04
+
+(0.58–0.70)
+
+0.74 ± 0.05
+
+(0.68–0.81)
+
+0.81 ± 0.04
+
+(0.76–0.89)
+
+0.000
+
+There is no difference between the main effects indicated by the same letter
+
+Fig. 3
+
+Mean ± SD and range (min-max) values of RTP, RTP, OP, and CR parameters according to hybrid ceramic substrates with different thicknesses. Error bars indicate standard deviation
+
+For RTP, the highest value was observed at a thickness of 1.5 mm (11.21 ± 1.4), which significantly decreased as the thickness increased, reaching the lowest value at 2.5 mm (6.06 ± 1.1). A similar trend was observed for RTP, with values decreasing from 16.51 ± 1.5 at 1.5 mm to 8.46 ± 1.2 at 2.5 mm.
+
+Regarding opalescence (OP), the highest value was measured at 1.5 mm (7.35 ± 0.6) and decreased to 5.87 ± 0.5 at 2.5 mm. Conversely, the contrast ratio (CR) increased with thickness, showing the lowest value at 1.5 mm (0.63 ± 0.04) and the highest at 2.5 mm (0.81 ± 0.04).
+
+These findings indicate that increasing the substrate thickness significantly reduces translucency and opalescence while increasing the contrast ratio.
+
+For both RTPand RTP, translucency differences exceeded the perceptibility (TPT= 0.6; TPT= 1.3) and acceptability (TAT= 2.6; TAT= 4.4) thresholds reported in the literature [] in the 1.5–2.0 mm and 1.5–2.5 mm thickness comparisons. In contrast, differences between 2.0 and 2.5 mm remained within the acceptability limits, indicating a limited clinical impact at higher thicknesses (Fig.).
+
+Fig. 4
+
+Comparison of RTPand RTPValues with 50%:50% Translucency Perceptibility and Acceptability Thresholds
+
+Degree of conversion values
+
+The degree of conversion values varied significantly according to the type of luting material and CAD/CAM substrate thickness (Table; Fig.). At a substrate thickness of 1.5 mm, the flowable composite exhibited the highest mean DC value (36.57 ± 1.8), followed by the dual-cure resin cement (28.01 ± 5.1) and the bulk-fill composite (23.34 ± 3.6), with no statistically significant difference between the dual-cure resin cement and the bulk-fill composite. At a thickness of 2.0 mm, the flowable composite again showed the highest mean DC value, which was statistically similar to that of the dual-cure resin cement. The bulk-fill composite demonstrated the lowest mean DC value (22.69 ± 2.9); however, this difference was not statistically significant compared with the dual-cure resin cement. At a substrate thickness of 2.5 mm, the dual-cure resin cement exhibited the highest mean DC value (30.88 ± 2.5), followed by the bulk-fill composite (19.50 ± 5.9) and the flowable composite (11.69 ± 2.1). Statistical analysis revealed that under 1.5 mm and 2.0 mm substrate thicknesses, the mean DC of the flowable composite was significantly higher than that of both the bulk-fill composite and the dual-cure resin cement (< 0.05). In contrast, the DC of the flowable composite decreased significantly at 2.5 mm compared with its values at 1.5 mm and 2.0 mm (< 0.05). No significant differences in DC were observed for the dual-cure resin cement and bulk-fill composite across different substrate thicknesses (> 0.05). Furthermore, a statistically significant interaction effect between the luting material and substrate thickness was detected (< 0.001), indicating that the influence of substrate thickness on DC depended on the type of luting material used.
+
+Table 3
+
+Mean ± SD and range (min-max) values of the degree of conversion for luting material specimens polymerized through different hybrid ceramic substrate thicknesses
+
+Luting Materials
+
+Hybrid Ceramic Substrate Thickness
+
+Total
+
+p
+
+1.5 mm
+
+2.0 mm
+
+2.5 mm
+
+Dual-cure
+
+Resin Cement
+
+28.013 ± 5.17
+
+(23.89–38.84)
+
+27.16 ± 2.23
+
+(22.53–29.39)
+
+30.88 ± 2.53
+
+(27.0-33.92)
+
+28.69 ± 3.76
+
+(22.53–38.84)
+
+Luting Materials
+
+0.011
+
+Bulk-fill
+
+Composite
+
+23.34 ± 3.61
+
+(15.85–26.75)
+
+22.69 ± 2.88
+
+(18.45–25.55)
+
+19.501 ± 5.92
+
+(13.04–28.27)
+
+21.84 ± 4.46
+
+(13.04–28.27)
+
+Substrate Thickness
+
+< 0.001
+
+Flowable
+
+Composite
+
+36.57 ± 1.82
+
+(33.14–38.92)
+
+30.18 ± 1.92
+
+(27.53–32.84)
+
+11.69 ± 2.19
+
+(8.22–13.81)
+
+25.49 ± 11.15
+
+(8.22–38.92)
+
+Luting Materials
+
+×
+
+Substrate Thickness
+
+< 0.001
+
+Total
+
+29.308 ± 6.66
+
+(15.85–38.92)
+
+26.68 ± 3.87
+
+(18.45–32.84)
+
+20.28 ± 8.90
+
+(8.22–33.92)
+
+25.34 ± 7.75
+
+(8.22–38.92)
+
+Different uppercase letters indicate significant differences in the interaction effects, whereas different lowercase letters indicate significant differences in the main effects
+
+Fig. 5
+
+Comparison of the degree of conversion (%) of luting material specimens polymerized through different substrate thicknesses. The middle line of each boxplot represents the median (50th percentile), the box indicates the interquartile range (25th–75th percentiles), and the whiskers show the minimum and maximum values
+
+Discussion
+
+Cementation is a crucial factor in the long-term success of indirect restorations. Variables such as degree of conversion, mechanical strength, bond durability, working time, color stability, and restorative thickness should be considered in the selection of luting materials. A higher DC reduces residual monomers and marginal degradation, enhancing both physical and biological performance [–].
+
+The study showed that both the type of luting material and the thickness of the CAD/CAM substrates significantly influenced the degree of conversion. Flowable composite exhibited superior polymerization under 1.5 mm and 2 mm substrates, whereas dual-cure resin cement showed the highest DC at 2.5 mm. These findings provide valuable insights for optimizing material selection in clinical situations where indirect restoration thickness varies. Overall, the results demonstrate that the polymerization efficiency of luting materials depends on both the material type and the thickness of the hybrid ceramic substrate, leading to the rejection of the null hypothesis regarding DC independence from substrate thickness.
+
+The thickness of CAD/CAM substrates strongly affects light transmission, and areas such as the gingival floor or deep cavity bases may receive insufficient light, particularly in posterior regions with thick or non-uniform restorations [–]. This may result in suboptimal polymerization and reduce clinical performance.
+
+In our study, RTP, RTP, OP, and CR values were found to differ significantly according to substrate thickness (Table; Fig.). The results indicate that translucency decreases as substrate thickness increases. The differences in translucency among various Cerasmart substrate thicknesses exceeded the translucency perceptibility (TP) threshold in all comparisons, suggesting that even small changes in restoration thickness can be visually detected by both patients and clinicians. Previous studies [,] have also reported that increasing ceramic thickness reduces light transmission, resulting in a more opaque optical behavior. Changes in substrate thickness had a greater impact at lower initial thicknesses, which contributed to exceeding the TA threshold. Our results showed that a 0.5 mm increase from 1.5 mm was enough to surpass this threshold. Further increases may raise the risk of esthetic problems, especially in anterior areas. However, the difference between 2.0 mm and 2.5 mm substrates was perceptible, it did not exceed the clinical acceptability limit, indicating that the optical impact of thickness increases becomes limited at higher substrate thicknesses. Wu et al. [] reported a non-linear (curvilinear) relationship between ceramic thickness and translucency, in which translucency continuously decreased with increasing thickness, whereas the magnitude of differences became less pronounced at higher thickness ranges. Parallel to this significant reduction in light transmission, the polymerization efficiency of the luting materials was directly affected. Indeed, the light attenuation observed with increasing substrate thickness constitutes the primary mechanism underlying the decrease in DC values.
+
+These results suggest that the 1.5–2.0 mm interval represents an esthetically critical threshold, as translucency alterations surpass clinical acceptability. Conversely, the stabilization of optical shifts beyond 2.0 mm leads us to propose that although minor thickness changes are initially unforgiving, subsequent increases may yield more manageable esthetic outcomes through clinical compensation.
+
+In line with the literature [–], our study showed that as substrate thickness increased, contrast ratio (CR) values also increased, and the material became more opaque. Additionally, our study demonstrated a decrease in opalescence values. This may be attributed to the scattering of shorter wavelengths of light, resulting in a more pronounced bluish-reflective appearance of the material. The OP and CR parameters were used as complementary measures of translucency to evaluate the opacity–translucency balance and the light transmission capacity of the material []. When considered together with the DC results, these parameters provide a clinically meaningful framework for explaining the effect of increased substrate thickness on reduced light transmission and, consequently, on the polymerization of luting materials.
+
+Taken together, these findings demonstrate that restoration thickness directly affects translucency, CR, and OP values, consequently influencing the polymerization efficiency of both flowable and bulk-fill composite luting materials. These results led to the rejection of the null hypothesis, stating that “the thickness of hybrid ceramic substrates has no statistically significant effect on their optical properties, including translucency parameters and contrast ratio.” Clinically, these findings highlight the importance of considering restoration thickness in color matching and esthetic planning of indirect restorations.
+
+Resin cements and resin composites are commonly used for luting purposes [,,]. However, resin cements are known to have lower filler content, reduced mechanical performance, and a tendency toward discoloration over time, which may compromise esthetics and durability []. These limitations have led many clinicians to prefer conventional or flowable composites for cementation, especially in esthetic regions [,]. Nonetheless, when the restoration is thick, light transmission may be inadequate to properly cure the composite resin []. In this context, bulk-fill composites have emerged as promising alternatives. Their increased translucency and modified filler characteristics allow for greater depth of cure [,]. Our findings confirm this, as the bulk-fill material maintained relatively high DC values under a 2.5 mm hybrid ceramic substrate, outperforming flowable composite in those conditions.
+
+Estecem II, a self-adhesive dual-cure resin cement, showed moderate and relatively stable DC values across all thicknesses, particularly under 2.5 mm substrates, indicating that its chemical curing mechanism provides some compensation in deeper areas. However, its performance was inferior to that of flowable composites under 1.5 mm and 2 mm thicknesses, consistent with previous reports showing lower DC values for self-adhesive resin cements compared to composite-based alternatives under ceramic substrates of varying thickness []. Notably, the interaction between luting material type and substrate thickness was statistically significant, highlighting that the effect of thickness on polymerization is material-dependent. Flowable composites performed well under thin ceramics. However, their polymerization decreased significantly under 2.5 mm.
+
+When bulk-fill composites were evaluated independently, a slight numerical decrease in DC values was observed with increasing substrate thickness; however, these differences were not statistically significant, indicating that the polymerization of bulk-fill composites is less affected by substrate thickness compared to flowable composites. Under identical substrate thicknesses, the null hypothesis stating that “there is no significant difference in the degree of conversion among dual-cure resin cement, flowable composite, and bulk-fill composite under identical conditions” was partially rejected. Although bulk-fill composites have higher filler content and favorable mechanical properties, their polymerization efficiency becomes limited under thicker ceramic substrates (> 2.0 mm) due to insufficient light transmission, consistent with previous reports demonstrating pronounced light attenuation through ceramic materials [,,,].
+
+Bulk-fill composites emerged as promising alternatives due to their increased translucency. Our findings confirm that while flowable composites perform optimally under thin ceramics (≤ 2.0 mm), their polymerization efficiency declines significantly at 2.5 mm. In contrast, bulk-fill materials maintained stable DC values even under thicker substrates, though they did not surpass the performance of dual-cure resin cement (Estecem II) at the 2.5 mm threshold. This positions bulk-fill composites as a reliable light-cure alternative for moderate thicknesses, while reinforcing dual-cure cements as the gold standard for restorations exceeding 2.0 mm.
+
+The limitations of the present study include the fact that it was conducted under controlled in-vitro conditions, which do not fully replicate the clinical environment, such as salivary contamination, thermal fluctuations, occlusal loading, pulpal temperature, or oral pH variations. Therefore, further clinical trials and in-situ evaluations are necessary to validate the applicability of these results under real-world conditions.
+
+Conclusion
+
+This in vitro study demonstrated that substrate thickness is one of the key factors influencing the polymerization behavior of luting materials used for indirect restorations. An increase in substrate thickness affects the optical properties of the restoration and reduces polymerization efficiency, particularly in light-cured flowable composites. Flowable composite luting material specimens may be more suitable for thin restorations, where sufficient light transmission can be achieved. Dual-cure luting materials provided more stable DC values and reliable polymerization across all thicknesses and therefore appear to be more appropriate for thicker restorations. Bulk-fill composites may be considered as an alternative for the cementation of thin restorations (≤ 2.0 mm), where adequate light transmission is ensured. However, their use under thicker substrates should be approached with caution. Further clinical and long-term studies are needed to validate the applicability of bulk-fill composites as luting materials in different restorative scenarios.

@@ -6,18 +6,26 @@ date: 2025-11-25
 doi: 10.1111/jerd.70060
 source: chaple-gil-2026-bulk-fill-incremental-class-ii-sr-nma.md
 category: [resin]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/chaple-gil-2026-bulk-fill-incremental-class-ii-sr-nma.pdf
 pdf_filename: chaple-gil-2026-bulk-fill-incremental-class-ii-sr-nma.pdf
 source_collection: external
 tags: []
 ---
 
-## One-line Summary
-Systematic review and network meta-analysis (12 RCTs) of Class II posterior restorations found no statistically significant difference between any bulk-fill subtype and incremental layering for marginal adaptation, fractures, or retention at 6, 12, or 24 months; risk ratios clustered around unity, with ormocer-based and overlay bulk-fill composites ranking highest (non-significantly) at 12–24 months.
+## Three-line Summary
+SR and network meta-analysis (12 RCTs; PRISMA 2020; PROSPERO CRD420251170292) comparing multiple bulk-fill subtypes (ormocer, overlay, flowable, sculptable) against incremental layering specifically in Class II posterior restorations at 6, 12, and 24 months.
 
-## 한줄요약
-12개 RCT 네트워크 메타분석(NMA): 2급 구치부 수복에서 벌크필 전 아형(ormocer, overlay, flowable 등)과 적층충전 간 6·12·24개월 모든 시점에서 변연적합도, 파절, 유지율 유의차 없음; ormocer 기반 벌크필이 비통계적으로 최고 순위.
+No statistically significant difference was found between any bulk-fill subtype and incremental layering for marginal adaptation, fractures, or retention at any timepoint; risk ratios clustered around unity; ormocer-based and overlay bulk-fill composites ranked highest (non-significantly) at 12–24 months by P-score.
+
+This is the first NMA to rank multiple bulk-fill subtypes simultaneously for Class II restorations, confirming that viscosity and curing mode do not significantly affect comparative clinical outcomes vs. incremental technique.
+
+## 세줄요약
+2급 구치부 수복에서 다양한 벌크필 아형(ormocer·overlay·flowable·sculptable) vs 적층충전을 비교한 최초의 SR+NMA(12개 RCT; PRISMA 2020; PROSPERO 등록).
+
+6·12·24개월 모든 시점에서 벌크필 어느 아형도 적층충전과 변연적합도·파절·유지율의 유의한 차이 없음; 리스크비 1.0 근방; ormocer·overlay 벌크필이 P-score 비통계적 최상위.
+
+벌크필 점성·광중합 방식이 임상 결과에 미치는 영향 없음을 최초로 NMA 방식으로 확인 — 2급 수복에서 벌크필과 적층충전은 동등.
 
 ## Summary
 This SR+NMA (PROSPERO CRD420251170292; PRISMA 2020) included 12 RCTs and performed network meta-analyses at 6, 12, and 24 months for Class II posterior restorations. Primary outcomes were marginal adaptation, fractures, and retention. No statistically significant differences were observed between any bulk-fill subtype and incremental layering at any timepoint. Risk ratios clustered around unity. P-scores showed minimal ranking variability, confirming comparable outcomes among bulk-fill subtypes regardless of viscosity or curing mode. Ormocer-based and overlay bulk-fill composites showed the highest (non-statistically superior) ranking probabilities at 12 and 24 months. CINeMA evaluation found predominantly low concerns for indirectness and risk of bias, supporting network robustness and transitivity.

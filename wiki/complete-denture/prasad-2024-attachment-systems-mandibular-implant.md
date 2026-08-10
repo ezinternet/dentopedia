@@ -6,20 +6,28 @@ date: 2024-08-01
 doi: 10.1016/j.prosdent.2022.07.013
 source: prasad-2024-attachment-systems-mandibular-implant.md
 category: [complete-denture]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/prasad-2024-attachment-systems-mandibular-implant.pdf
 pdf_filename: prasad-2024-attachment-systems-mandibular-implant.pdf
 source_collection: external
 tags: [implant-overdenture, attachment-systems, mandibular-overdenture, LOCATOR, ball-attachment, bar-attachment, magnet, prosthetic-complications, survival-rate]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 25 RCTs (2154 implants, 737 overdentures) found implant and overdenture survival is high regardless of attachment type, with LOCATOR showing fewest prosthetic complications and magnets having 7.4× more than other systems.
+RCT-exclusive SR+MA of 25 RCTs (PROSPERO CRD42021253566, 2154 implants, 737 overdentures) compared LOCATOR, ball, bar, magnet, and telescopic/Conus attachments for mandibular implant-supported overdentures on survival and complications.
 
-## 한줄요약
+Overall implant failure rate was 2.0% (95% CI 1.3–3.2%) and overdenture failure rate 4.2% (95% CI 1.6–10.5%), both independent of attachment type; LOCATOR showed the fewest prosthetic complications, magnets had 7.4× more than all other systems, and splinted vs unsplinted systems showed no significant difference in biological complications (P=.902).
 
-25개 RCT SR+MA에서 어태치먼트 종류와 무관하게 임플란트 98%, 피개의치 95.8% 생존율을 보였으며, LOCATOR가 보철 합병증 최소, 마그넷이 7.4배 최다였다.
+LOCATOR is the preferred unsplinted attachment; magnets should be used with caution; bar confers no biological advantage over unsplinted systems, removing a key rationale for mandatory bar use.
+
+## 세줄요약
+
+RCT 한정 SR+MA(25편, PROSPERO CRD42021253566, 2154개 임플란트, 737개 피개의치)로 하악 임플란트 지지 피개의치의 LOCATOR·볼·바·자석·텔레스코픽/코너스 어태치먼트를 생존율과 합병증 측면에서 비교하였다.
+
+전체 임플란트 실패율 2.0%(95% CI 1.3–3.2%), 피개의치 실패율 4.2%(95% CI 1.6–10.5%)로 어태치먼트 종류와 무관하게 높았으며; LOCATOR가 보철 합병증 최소, 자석이 7.4배 최다, 스플린트 vs 비스플린트는 생물학적 합병증 유의차 없음(P=.902)이었다.
+
+LOCATOR는 비스플린트 선택에서 최적이며, 자석은 신중히 사용하고, 바는 비스플린트 대비 생물학적 이점이 없어 필수 사용 근거가 제거되었다.
 
 ## Summary
 
@@ -85,6 +93,6 @@ This 2024 SR+MA from the Journal of Prosthetic Dentistry analyzed 25 RCTs to com
 
 ## Related Papers
 
-- [[implants/liu-2021-immediate-delayed-loading-overdenture-mbl-sr-ma]] — loading protocol effects on MBL in mandibular overdentures
-- [[implants/park-2023-narrow-regular-diameter-mandibular-overdentures]] — implant diameter effects on mandibular overdenture outcomes
+- [[implants/full-arch/liu-2021-immediate-delayed-loading-overdenture-mbl-sr-ma]] — loading protocol effects on MBL in mandibular overdentures
+- [[implants/short-narrow/park-2023-narrow-regular-diameter-mandibular-overdentures]] — implant diameter effects on mandibular overdenture outcomes
 - [[complete-denture/alhajj-2017-occlusal-vertical-dimension-complete-denture-review]] — complete denture prosthodontic framework within which attachment selection occurs

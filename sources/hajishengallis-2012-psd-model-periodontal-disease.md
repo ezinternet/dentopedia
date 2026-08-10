@@ -12,11 +12,21 @@ source_collection: external
 ## Why Ingested
 Introduces the Polymicrobial Synergy and Dysbiosis (PSD) model — the paradigm-shifting framework that underpins all subsequent periodontal pathogenesis literature in this wiki, including [[oral-microbiology/hajishengallis-2014-porphyromonas-gingivalis-host-manipulation]] and [[oral-microbiology/lamont-2014-polymicrobial-synergy-dysbiosis-inflammatory]].
 
-## One-line Summary
-Narrative review proposing the PSD model of periodontitis etiology, in which keystone pathogens (exemplified by P. gingivalis at <0.01% of microbiota) remodel a symbiotic community into a dysbiotic, bone-destructive state through polymicrobial synergy and host immune subversion.
+## Three-line Summary
 
-## 한줄요약
-Narrative review: 치주염은 'red complex' 특정균 단독 병원론을 넘어, keystone pathogen(P. gingivalis <0.01%)이 공생 미생물군을 dysbiotic 상태로 재편하여 숙주 면역을 우회하는 다균종 시너지·dysbiosis(PSD) 모델로 설명됨.
+Narrative review proposing the PSD model of periodontitis etiology, in which keystone pathogens (exemplified by P.
+
+gingivalis at <0.01% of microbiota) remodel a symbiotic community into a dysbiotic, bone-destructive state through polymicrobial synergy and host immune subversion.
+
+(incomplete)
+
+## 세줄요약
+
+서술적 리뷰 — 치주염의 etiology를 'Red Complex' 특정 병원균 단독 이론에서 벗어나 다균종 시너지·dysbiosis (Polymicrobial Synergy and Dysbiosis, PSD) 모델로 재프레임.
+
+Keystone pathogen (P. gingivalis, 미생물총의 <0.01% 미만)이 공생 미생물군 전체를 dysbiotic 상태로 재편하여 숙주 면역 (보체·TLR2 신호)을 우회, 골 파괴를 주도.
+
+P. gingivalis가 germ-free 쥐에서는 치주염을 유발하지 못하므로 병원성은 개재균(Accessory Pathogen) 공존에 의존 — 숙주-미생물-microbiota 3자 상호작용 패러다임 도입.
 
 ## 1. Document Information
 - Mol Oral Microbiol. 2012;27(6):409–419. NIH Public Access Author Manuscript.

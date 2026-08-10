@@ -9,8 +9,21 @@ pdf_filename: bourouni-2021-resin-infiltration-white-spot-sr-ma.pdf
 source_collection: external
 ---
 
-## One-line Summary
-레진침투(resin infiltration)가 교정 후/비-교정 WSL 및 불소증(fluorosis)의 외관 개선에 유의미한 효과; 불소 바니시 대비 SMD 1.24 우위.
+## Three-line Summary
+
+Systematic review and meta-analysis (11 studies, 413 patients, 1,834 teeth; 5 databases including CENTRAL and EMBASE) evaluating resin infiltration efficacy for masking post-orthodontic or non-post-orthodontic white spot lesions (WSL) and fluorosis.
+
+Resin infiltration was significantly more effective than untreated controls (SMD 1.24, 95% CI 0.59–1.88) and superior to fluoride varnish (MD 4.76); adjunct bleaching did not significantly alter optical improvement outcomes.
+
+Evidence quality is limited by small heterogeneous RCTs and lack of long-term durability data; resin infiltration shows moderate evidence for WSL masking but long-term effectiveness remains unconfirmed.
+
+## 세줄요약
+
+체계적 문헌고찰 + 메타분석(11편, 환자 413명, 치아 1,834개; 5개 DB): 교정 후/비-교정 백색 반점 병소(white spot lesion, WSL) 및 불소증(fluorosis) 외관 개선을 위한 레진침투(resin infiltration) 효능 평가.
+
+레진침투 > 무처치 대조군(SMD 1.24, 95% CI 0.59–1.88); 불소 바니시 대비 유의하게 우수(MD 4.76); 표백 병행 여부는 외관 개선 결과에 유의차 없음.
+
+포함 연구 소규모·이질적이고 장기 내구성 데이터 부족; 중등도 근거 수준으로 WSL 개선 효과를 지지하나 장기 유효성은 미확인.
 
 ## 1. Document Information
 - **Title**: Efficacy of resin infiltration to mask post-orthodontic or non-post-orthodontic white spot lesions or fluorosis

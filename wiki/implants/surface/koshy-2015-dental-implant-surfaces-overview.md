@@ -6,20 +6,28 @@ date: 2015-01-01
 doi: "10.5005/jp-journals-10004-1028"
 source: koshy-2015-dental-implant-surfaces-overview.md
 category: [implants/surface]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/koshy-2015-dental-implant-surfaces-overview.pdf
 pdf_filename: koshy-2015-dental-implant-surfaces-overview.pdf
 source_collection: external
 tags: [implant-surface, titanium, surface-modification, roughness, osseointegration]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Narrative overview (2015) cataloguing additive (TPS, HA), subtractive (SLA, acid etching, anodization), and material-modification (laser, ion implantation) titanium implant surface methods and their macro/micro/nano roughness effects on osseointegration.
+Narrative overview (2015) cataloguing titanium implant surface modifications — additive (TPS, HA), subtractive (SLA, acid etching, anodization), and material-modification (laser, ion implantation) — and their macro/micro/nano roughness effects on osseointegration.
 
-## 한줄요약
+SLA (Sa ~1.5–2 µm) is identified as the gold-standard subtractive method; optimal roughness Sa 1–2 µm balances BIC gain against peri-implantitis risk; HA coatings provide early bone apposition but carry delamination risk long-term.
 
-서술 리뷰 (2015): 티타늄 임플란트 표면처리를 첨가형(TPS, HA 코팅), 삭감형(SLA, 산에칭, 양극산화), 재질변형(레이저, 이온주입)으로 체계화하고, 거시·미시·나노 표면거칠기가 골유착에 미치는 영향을 정리.
+Clinically, the transmucosal collar benefits from smooth surfaces to minimize plaque; short implants in poor-quality bone benefit from maximally rough subosseous surfaces; bioactive coatings (BMP-2, RGD) represent an emerging frontier.
+
+## 세줄요약
+
+서술 리뷰 (2015): 티타늄 임플란트 표면처리를 첨가형(TPS, HA 코팅), 삭감형(SLA, 산에칭, 양극산화), 재질변형(레이저, 이온주입)으로 체계화하고 거시·미시·나노 표면거칠기가 골유착에 미치는 영향을 정리.
+
+SLA(Sa ~1.5–2 µm)는 삭감형 표면처리의 표준; 최적 거칠기 Sa 1–2 µm는 골-임플란트 접촉률 (BIC) 향상과 주위염 위험을 균형화; HA 코팅은 초기 골 부착에 유리하지만 장기 박리 위험 있음.
+
+임상적으로 경점막 칼라는 매끄럽게(플라크 억제), 저밀도 골 내 짧은 임플란트는 최대 조도 표면 선택; 성장인자(BMP-2, RGD) 생활성 코팅이 다음 프론티어.
 
 ## Summary
 
@@ -65,4 +73,4 @@ Narrative literature review; no systematic search/PRISMA protocol. Synthesizes b
 
 ## Related Papers
 
-- [[implants/surface/att-2012-uv-light-titanium-osseointegration]] — UV photofunctionalization as a surface-activation method (extends this overview's additive/modification taxonomy)
+- Att & Ogawa (2012), UV-light titanium osseointegration *(not yet in wiki)* — UV photofunctionalization as a surface-activation method (extends this overview's additive/modification taxonomy)

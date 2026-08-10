@@ -16,13 +16,21 @@ text_filename: su-2023-mdp-resin-zirconia-bonding-durability-sr-ma.txt
 
 Largest MDP–zirconia bonding-durability meta-analysis we hold (72 studies in SR / 68 in MA), it quantifies what [[wiki/resin-bonding/nagaoka-2017-mdp-zirconia-chemical-interaction-nmr]] explains mechanistically: the NMR work shows that 10-MDP forms a chemical (P–O–Zr) bond to the zirconia surface, and this MA confirms that bond degrades after aging yet is best preserved when 10-MDP is combined with additional surface treatments. It reinforces the network-meta-analytic ranking in [[wiki/resin-bonding/li-2024-zirconia-surface-treatments-monomers-nma]].
 
-## One-line Summary
+## Three-line Summary
 
 Systematic review + meta-analysis (72 studies SR / 68 in MA, abstract-only, Chinese-language): 10-MDP-pretreated resin-to-zirconia bond strength falls significantly after aging (MD 5.58 MPa), is unaffected by MDP application vehicle (primer/adhesive/cement), and is significantly higher when 10-MDP is combined with additional surface treatments (MD 10.17 MPa) vs MDP alone.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 체계적 문헌고찰 + 메타분석 (SR 72편 / MA 68편, 초록만, 중국어 논문): 10-MDP 전처리한 레진-지르코니아 결합강도는 노화 후 유의하게 감소(MD 5.58 MPa)하며, MDP 적용 매개체(프라이머/접착제/시멘트)에 따른 차이는 없고, 10-MDP를 추가 표면처리와 병용하면 MDP 단독 대비 노화 후 결합강도가 유의하게 향상(MD 10.17 MPa)된다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

@@ -16,13 +16,21 @@ text_filename: asaad-2019-shared-decision-making-sdm-dentistry.txt
 
 Extends our SDM coverage with a dentistry-specific narrative review that frames informed consent and patient decision aids (PDAs) as integral to the SDM process. It reinforces the general SDM model in [[behavioral-dentistry/communication-relationship/elwyn-2025-shared-decision-making-primer-clinicians]] and grounds it in concrete dental fields, complementing the broader communication-quality picture in [[behavioral-dentistry/communication-relationship/ho-2025-overview-dentist-patient-communication-quality]].
 
-## One-line Summary
+## Three-line Summary
 
-Concise narrative review (PubMed/MEDLINE) finding that SDM is applied in dentistry but with limited published evidence, that informed consent intertwines with the SDM process, and that patient decision aids (PDAs) need further development across dental fields.
+Concise narrative review searching PubMed/MEDLINE to map the current state of shared decision-making (SDM) application in dental practice, its relationship to informed consent, and the role of patient decision aids (PDAs).
 
-## 한줄요약
+Only a limited number of published studies on SDM in dentistry are available; SDM is multifactorially influenced, and informed consent is framed as integral to the SDM process from the outset.
 
-치과 분야의 공유의사결정(Shared Decision-Making, SDM)을 다룬 간결한 서술적 종설로, SDM이 치과에 적용되고는 있으나 출판된 근거는 제한적이며, 충분한설명 후 동의(informed consent)가 SDM 과정과 긴밀히 얽혀 있고, 환자 의사결정 보조도구(Patient Decision Aids, PDA)가 더 많은 치과 영역에서 개발될 필요가 있음을 정리했다.
+PDAs have been developed for some dental fields but need expansion across more specialties; a critical gap is the absence of systematic evidence underpinning SDM implementation in dentistry.
+
+## 세줄요약
+
+PubMed/MEDLINE 서술적 종설 — 치과 임상에서의 공유의사결정(Shared Decision-Making, SDM) 현황, 충분한설명 후 동의(informed consent)와의 관계, 환자 의사결정 보조도구(Patient Decision Aid, PDA)의 역할을 정리함.
+
+치과 SDM에 관한 출판 연구는 소수에 불과하고 다인자적 영향을 받으며, 충분한설명 후 동의는 고품질 정보 제공과 PDA 활용을 시작으로 SDM 과정에 통합되어 있음.
+
+일부 치과 분야에 PDA가 개발되어 있으나 더 많은 영역으로 확대가 필요하며, 체계적 방법론 부재로 결론의 신뢰성이 제한됨.
 
 ## 1. Document Information
 

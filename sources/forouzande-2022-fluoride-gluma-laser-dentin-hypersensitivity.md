@@ -13,11 +13,21 @@ source_collection: external
 
 기존 [[dentin-hypersensitivity/jkda-2022-60-4-005]] 및 [[overviews/dentin-hypersensitivity-overview]]의 in-office 탈감작 옵션 비교를 임상 RCT 수치로 보강. Er,Cr:YSGG 레이저 단독/병용이 NaF varnish 대비 우월한지에 대한 직접 근거.
 
-## One-line Summary
-Single-session clinical trial (55 patients / 165 teeth, 5 groups n=33) finding Er,Cr:YSGG laser alone or with Gluma reduced DH more than 5% NaF varnish over 6 months, though all treatments significantly reduced sensitivity.
+## Three-line Summary
 
-## 한줄요약
-임상시험(55명·165치, 5군 각 33치): Er,Cr:YSGG 레이저 단독 또는 Gluma 병용이 6개월간 5% 불화나트륨 바니시보다 상아질 과민증(Dentin Hypersensitivity, DH)을 더 줄였고, 모든 처치가 유의하게 통증을 감소시킴.
+Single-session clinical trial with 55 patients (165 hypersensitive teeth), 5 parallel treatment groups (n=33 each): NaF varnish (F), Gluma (G), Er,Cr:YSGG laser (L), Gluma+laser (GL), and varnish+Gluma (VL), with VAS measurement at baseline, 15 min, 1 week, 1 month, and 6 months.
+
+All treatment groups significantly reduced dentin hypersensitivity at all timepoints compared to baseline; Er,Cr:YSGG laser alone or combined with Gluma significantly outperformed NaF varnish at 1 week, 1 month, and 6 months (P<0.05).
+
+Laser-containing treatments demonstrated superior and sustained efficacy suggesting photonic tubule occlusion is more durable than chemical approaches alone; single-session design without placebo control limits generalizability to multi-visit protocols.
+
+## 세줄요약
+
+1회 세션 임상시험: 55명, 165개 과민치, 5개 병렬군(각 33치) — 5% 불화나트륨 바니시(F), Gluma(G), Er,Cr:YSGG 레이저(L), Gluma+레이저(GL), 바니시+Gluma(VL)를 비교하고 기저·15분·1주·1개월·6개월에 VAS 측정.
+
+모든 처치군이 기저선 대비 모든 시점에서 상아질 과민증을 유의하게 감소시켰으며, Er,Cr:YSGG 레이저 단독 또는 Gluma 병용이 1주·1개월·6개월에 불화나트륨 바니시를 유의하게 능가(P<0.05).
+
+레이저 포함 처치가 우수하고 지속적인 효과를 보여 광자적(photonic) 세뇨관 폐쇄가 화학적 접근만 사용할 때보다 더 오래 지속됨을 시사; 위약군 없는 1회 세션 설계로 다회 방문 프로토콜의 외삽 제한.
 
 ## 1. Document Information
 - Lasers in Medical Science, 2022. Received 4 Mar 2022 / Accepted 24 May 2022.

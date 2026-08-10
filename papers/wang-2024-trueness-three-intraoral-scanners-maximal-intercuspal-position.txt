@@ -1,0 +1,47 @@
+[ABSTRACT ONLY — PMC11034409 returned an EMPTY full-text body via get_full_text_article (2 attempts, Chinese-language journal PMC known failure mode). PMID 38597082. DOI 10.7518/hxkq.2024.2023277. Content below is the structured abstract as returned by PubMed MCP (get_article_metadata for the English abstract; get_full_text_article for the Chinese abstract), verbatim.]
+
+TITLE: Trueness evaluation of three intraoral scanners for the recording of maximal intercuspal position
+TITLE (Chinese, as returned): 3种口内扫描仪用于咬合关系记录的准确度研究
+AUTHORS: Wang Siyu, Zhou Zheqing, Yuan Quan, Yue Li, Yang Shengtao
+AFFILIATIONS: State Key Laboratory of Oral Diseases & National Center for Stomatology & National Clinical Research Center for Oral Diseases & Dept. of Dental Technology, West China Hospital of Stomatology, Sichuan University, Chengdu 610041, China. (Yuan Quan: Dept. of Oral Implantology, same institution)
+JOURNAL: Hua xi kou qiang yi xue za zhi = Huaxi kouqiang yixue zazhi = West China journal of stomatology. 2024 Apr 01;42(2):227-233.
+DOI: 10.7518/hxkq.2024.2023277
+PMID: 38597082
+PMCID: PMC11034409
+PII: 1000-1182(2024)02-0227-07
+LANGUAGE: eng
+ARTICLE TYPE: Journal Article
+MESH TERMS: Humans; Molar; Incisor; Mandible; Maxilla; Computer-Aided Design; Imaging, Three-Dimensional; Dental Impression Technique
+KEYWORDS: digital dentistry; intraoral scanner; maximal intercuspal position; occlusal relationship
+
+ABSTRACT (English, as returned by get_article_metadata):
+
+This clinical study aimed to assess the trueness of three intraoral scanners for the recor-ding of the maximal intercuspal position (MIP) to provide a reference for clinical practice.
+
+Ten participants with good occlusal relationship and healthy temporomandibular joint were recruited. For the control group, facebow transferring procedures were performed, and bite registrations at the MIP were used to transfer maxillary and mandibular casts to a mechanical articulator, which were then scanned with a laboratory scanner to obtain digital cast data. For the experimental groups, three intraoral scanners (Trios 3, Carestream 3600, and Aoralscan 3) were used to obtain digital casts of the participants at the MIP following the scanning workflows endorsed by the corresponding manufacturers. Subsequently, measurement points were marked on the control group's digital casts at the central incisors, canines, and first molars, and corresponding distances between these points on the maxillary and mandibular casts were measured to calculate the sum of measured distances (D). Distances between measurement points in the incisor (D), canine (D), and first molar (D) regions were also calculated. The control group's maxillary and mandibular digital casts with the added measurement points were aligned with the experimental group's casts, and D, D, D, and D values of the aligned control casts were determined. Statistical analysis was performed on D, D, D, and D obtained from both the control and experimental groups to evaluate the trueness of the three intraoral scanners for the recording of MIP.
+
+[NOTE — extraction artifact: the source abstract text drops the subscript labels on repeated "D" mentions (should read D-total, D-incisor, D-canine, D-first-molar per the Results section values); reproduced as returned by PubMed MCP, not corrected here.]
+
+In the control group, D, D, D, and D values were (39.58±6.40), (13.64±3.58), (14.91±2.85), and (11.03±1.56) mm. The Trios 3 group had values of (38.99±6.60), (13.42±3.66), (14.55±2.87), and (11.03±1.69) mm. The Carestream 3600 group showed values of (38.57±6.36), (13.56±3.68), (14.45±2.85), and (10.55±1.41) mm, while the Aoralscan 3 group had values of (38.16±5.69), (13.03±3.54), (14.23±2.59), and (10.90±1.54) mm. Analysis of variance revealed no statistically significant differences between the experimental and control groups for overall deviation D (p=0.96), as well as local deviations D (p=0.98), D (p=0.96), and D (p=0.89).
+
+With standardized scanning protocols, the three intraoral scanners demonstrated comparable trueness to traditional methods in recording MIP, fulfilling clinical requirements.
+
+ABSTRACT (Chinese, as returned by get_full_text_article — structured 目的/方法/结果/结论):
+
+目的
+
+探究3种口内扫描仪用于获取最大牙尖交错位（MIP）咬合关系的准确度，为临床实践提供参考。
+
+方法
+
+招募10名上下颌牙列完整、咬合关系正常的受试者。对照组采用面弓转移和咬合记录将位于MIP的上下颌石膏模型固定在架上，并使用桌面扫描仪对固定的模型进行扫描以获得数字化模型数据；实验组分别使用Trios 3、Carestream 3600以及Aoralscan 3口内扫描仪对受试者进行口内扫描以获取位于MIP时上下颌口扫模型数据。在对照组数字化模型的上下颌双侧中切牙、尖牙和第一磨牙上设置测量点并测量上下颌对应同名牙上测量点之间的距离，获得测量的距离之和D，同时计算模型中切牙区、尖牙区以及第一磨牙区的测量点间距离之和，分别记为D、D、D。将添加测量点的对照组上下颌模型分别与实验组上下颌口扫模型进行精确匹配，计算匹配后对照组模型的D、D、D和D。对对照组和实验组获得的D、D、D、D进行统计学分析，以评估3种口内扫描仪记录咬合关系的准确度。
+
+结果
+
+对照组D、D、D、D的值分别为（39.58±6.40）、（13.64±3.58）、（14.91±2.85）、（11.03±1.56）mm，Trios 3组相应的值为（38.99±6.60）、（13.42±3.66）、（14.55±2.87）、（11.03±1.69）mm，Carestream 3600组相应的值为（38.57±6.36）、（13.56±3.68）、（14.45±2.85）、（10.55±1.41）mm，Aoralscan 3组相应的值为（38.16±5.69）、（13.03±3.54）、（14.23±2.59）、（10.90±1.54）mm。方差分析显示无论是整体偏差D（P=0.96），还是局部偏差D（P=0.98）、D（P=0.96）、D（P=0.89），3种口内扫描仪获取的数字化模型与对照组模型之间差异均无统计学意义。
+
+结论
+
+在规范的操作流程下，3种口内扫描仪获取的MIP咬合关系与传统方法无差异，满足临床诊疗的需求。
+
+[END OF RETRIEVED CONTENT — no Introduction/Methods/full Results/Discussion body was available; PMC full-text extraction returned an empty string for this record.]

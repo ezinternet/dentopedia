@@ -13,13 +13,21 @@ source_collection: external
 
 Provides a comprehensive component-based taxonomy of all barrier membranes used in GTR/GBR dentistry — non-biodegradable (e-PTFE, d-PTFE, titanium, cobalt alloys) and biodegradable (collagen crosslinking variants, aliphatic polyesters, inorganic composites). This taxonomic framework is the essential reference map for situating all animal and clinical membrane studies in the wiki. Foundational companion to [[bone-regeneration/verissimo-2014-collagen-membranes-gbr-rat-calvarial]] and [[bone-regeneration/park-2015-edc-crosslinked-collagen-bcp-gbr-rabbit]].
 
-## One-line Summary
+## Three-line Summary
 
 Narrative review (Osaka University, 2021) organizing all commercially available and research-stage barrier membranes for dental GTR/GBR by component type, contrasting non-biodegradable (PTFE, Ti, Co) vs biodegradable (collagen, polyesters, inorganic composites) materials and identifying gap in clinical selection guidelines.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 서사적 고찰(오사카대, 2021) — GTR/GBR용 장벽막을 비생분해성(PTFE·Ti·Co 합금) vs 생분해성(콜라겐·지방족 폴리에스터·무기복합재) 성분별로 체계적으로 분류하고 임상 선택 지침의 공백을 확인함.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

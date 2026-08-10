@@ -17,13 +17,21 @@ text_filename: lee-2020-watanabe-toothpick-method-srp-diabetic-periodontitis-rct
 
 This RCT (Lee 2020, Seoul National University) tests the **Watanabe method (toothpick method)** of professional toothbrushing as a once-weekly adjunct to SRP in T2DM chronic periodontitis — a clinical application of the toothpick brushing technique to a high-risk systemic population, where the mechanical-stimulation/wound-healing effect (not just plaque removal) is the rationale. It extends [[periodontics/baeza-2020-effect-periodontal-treatment-patients-periodontitis]] (SRP lowers HbA1c in T2DM) by adding the toothpick-method arm, and complements [[drug/enteghad-2024-diabetes-mellitus-periodontal-periimplant-disease-review]] on the bidirectional diabetes–periodontitis link.
 
-## One-line Summary
+## Three-line Summary
 
 Double-blind RCT (n=60 T2DM chronic-periodontitis patients, 3 arms, 12 wk): both SRP and SRP + Watanabe-method toothpick toothbrushing (SRPAT, once weekly x5) improved HbA1c and periodontal status, but only SRPAT significantly reduced serum endotoxin (-0.78 EU/mL, p=0.003) and produced significantly greater BOP reduction (-16.5% vs SRP -7.3%).
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 이중맹검 RCT(2형 당뇨 만성 치주염 60명, 3군, 12주): SRP군과 SRP+와타나베(toothpick)법 추가칫솔질군(SRPAT, 주1회 x5) 모두 HbA1c·치주상태 개선, 그러나 혈청 내독소 유의 감소(-0.78 EU/mL, p=0.003)와 더 큰 BOP 감소(-16.5% vs SRP -7.3%)는 SRPAT군에서만 나타남.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 
@@ -85,9 +93,9 @@ Double-blind RCT (n=60 T2DM chronic-periodontitis patients, 3 arms, 12 wk): both
 
 - [[periodontics/baeza-2020-effect-periodontal-treatment-patients-periodontitis]] — SR+MA: SRP lowers HbA1c (~0.56%) and CRP in T2DM periodontitis; this RCT adds the toothpick-method adjunct arm.
 - [[periodontics/simpson-2022-treatment-periodontitis-glycaemic-control-people]] — Cochrane SR+MA: subgingival instrumentation lowers HbA1c ~0.43% in diabetics (concordant magnitude).
-- [[periodontics/barahim-2024-ozone-gel-srp-diabetic-periodontitis-rct]] — RCT of a different SRP adjunct (ozone gel) in T2DM stage III periodontitis.
+- [[periodontics/non-surgical-instrumentation/barahim-2024-ozone-gel-srp-diabetic-periodontitis-rct]] — RCT of a different SRP adjunct (ozone gel) in T2DM stage III periodontitis.
 - [[drug/enteghad-2024-diabetes-mellitus-periodontal-periimplant-disease-review]] — bidirectional diabetes–periodontitis relationship.
-- [[periodontics/rajwani-2020-manual-toothbrushing-techniques-plaque-gingivitis-sr]] — SR of manual toothbrushing techniques (context for brushing-method efficacy).
+- [[periodontics/oral-hygiene-instruction/rajwani-2020-manual-toothbrushing-techniques-plaque-gingivitis-sr]] — SR of manual toothbrushing techniques (context for brushing-method efficacy).
 
 ## 7. Glossary
 

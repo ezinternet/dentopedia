@@ -6,18 +6,26 @@ date: 2023-07-03
 doi: 10.2341/22-067-LIT
 source: assis-2023-acid-etching-universal-adhesive-nccl-sr-ma.md
 category: [resin-bonding]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/assis-2023-acid-etching-universal-adhesive-nccl-sr-ma.pdf
 pdf_filename: assis-2023-acid-etching-universal-adhesive-nccl-sr-ma.pdf
 source_collection: external
 tags: []
 ---
 
-## One-line Summary
-SR+MA of 20 RCTs (PROSPERO-registered) on universal adhesives in noncarious cervical lesions (NCCLs): etch-and-rinse (E&R) outperformed self-etch (SE) for medium-term (12–36 month) retention, marginal adaptation, marginal discoloration, and secondary caries, whereas SE produced lower postoperative sensitivity — a durability-vs-sensitivity trade-off.
+## Three-line Summary
+PROSPERO-registered SR+MA (20 RCTs; databases searched through December 2021; NCCL restored with universal adhesives; etch-and-rinse vs self-etch strategy comparison) — the largest NCCL-specific universal adhesive SR+MA to date.
 
-## 한줄요약
-비우식성 치경부 병소(NCCL) 20개 RCT 메타분석 결과, 유니버설 접착제 산부식-세척법(E&R)이 자가산부식법(SE) 대비 중기(12–36개월) 유지율·변연적합도·변연착색에서 우수하나, SE는 술후 과민증이 더 낮음.
+Etch-and-rinse outperformed self-etch for medium-term (12–36 month) retention, marginal adaptation, marginal discoloration, and secondary caries, while self-etch produced lower postoperative sensitivity.
+
+A clinically meaningful durability-vs-sensitivity trade-off exists: prefer E&R for longevity in NCCL restorations, SE when postoperative sensitivity is a priority concern.
+
+## 세줄요약
+PROSPERO 등록 SR+MA (RCT 20편, 2021.12까지 검색) — 비우식성 치경부 병소(NCCL)에서 유니버설 접착제의 산부식-세척(E&R) vs 자가산부식(SE) 전략 비교, 현재까지 가장 큰 NCCL 특이적 SR+MA.
+
+E&R이 중기(12–36개월) 유지율·변연적합도·변연착색·이차우식에서 SE보다 우수; SE는 술후 과민증 발생률이 더 낮음.
+
+내구성(E&R)과 과민 감소(SE) 사이의 임상적으로 의미 있는 trade-off — NCCL 장기 유지 목표 시 E&R, 술후 과민증이 우선 고려사항일 때 SE 선택.
 
 ## Summary
 This PROSPERO-registered SR+MA included 20 RCTs comparing etch-and-rinse (E&R) and self-etch (SE) strategies for universal adhesives in NCCLs. E&R demonstrated better medium-term (>12–36 months) retention, lower marginal discoloration, better marginal adaptation, and lower secondary caries rates. However, SE was associated with lower postoperative sensitivity, representing a clinically meaningful trade-off. Databases searched through December 2021 (PubMed/MEDLINE, Scopus, Web of Science, Cochrane Library).

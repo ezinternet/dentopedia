@@ -9,8 +9,21 @@ pdf_filename: hajibagheri-2025-prf-alveolar-osteitis-post-extraction-sr.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Systematic review finding that platelet-rich fibrin (PRF) significantly reduces alveolar osteitis (dry socket), postoperative edema, restricted mouth opening, and pain following tooth extraction.
+## Three-line Summary
+
+Systematic review finding that platelet-rich fibrin (PRF)
+
+significantly reduces alveolar osteitis (dry socket), postoperative
+
+edema, restricted mouth opening, and pain following tooth extraction.
+
+## 세줄요약
+
+체계적 고찰 (Systematic Review, SR) finding that platelet-rich fibrin (PRF)
+
+significantly reduces alveolar osteitis (dry socket), postoperative
+
+edema, restricted mouth opening, and pain following tooth extraction.
 
 ## 1. Document Information
 - **Journal**: BMC Oral Health 2025;25:869

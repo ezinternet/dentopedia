@@ -11,15 +11,23 @@ source_collection: external
 
 ## Why Ingested
 
-이 endotoxin 배치에서 calcium hydroxide(CH) intracanal medication의 LPS 감소 효과를 정량화하는 핵심 SR+MA. [[endodontics/ordinola-zapata-2022-intracanal-medicaments-status-directions]]의 CH 한계 서술과 [[endodontics/irrigation/rossi-fedele-2023-irrigation-dressing-apical-periodontitis-sr-ma]]의 medicament 효과 평가를 endotoxin endpoint로 확장하며, "CH는 endotoxin을 감소시키나 완전 제거는 못 한다"는 배치 thesis의 정량적 근거를 제공한다.
+이 endotoxin 배치에서 calcium hydroxide(CH) intracanal medication의 LPS 감소 효과를 정량화하는 핵심 SR+MA. [[endodontics/irrigation/ordinola-zapata-2022-intracanal-medicaments-status-directions]]의 CH 한계 서술과 [[endodontics/irrigation/rossi-fedele-2023-irrigation-dressing-apical-periodontitis-sr-ma]]의 medicament 효과 평가를 endotoxin endpoint로 확장하며, "CH는 endotoxin을 감소시키나 완전 제거는 못 한다"는 배치 thesis의 정량적 근거를 제공한다.
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (9 studies qualitative, 7 meta-analyzed): calcium hydroxide intracanal medication significantly reduced LPS before and after chemomechanical preparation (SMD ≈ −0.9 to −1.1, p<0.001) but did not eliminate endotoxin completely; certainty of evidence very low.
+SR+MA (J Endod 2020; 9 studies qualitative, 7 meta-analyzed) examining whether calcium hydroxide (Ca[OH]₂) intracanal medication reduces endotoxin/LPS in infected root canals, with subgroup analysis by formulation, irrigant, and presence of added antimicrobial substance.
 
-## 한줄요약
+Ca(OH)₂ significantly reduced LPS both before CMP (SMD −1.087, 95% CI −1.453 to −0.721, p<0.001, I²=58.7%) and after CMP (SMD −0.919, 95% CI −1.156 to −0.682, p<0.001, I²=24.7%); adding an antimicrobial substance raised the incidence of LPS reduction from 61.7% to 98.9%.
 
-체계적 문헌고찰+메타분석(정성 9편, 메타 7편): 수산화칼슘 근관내 첩약은 화학기계적 형성 전후 모두 LPS를 유의하게 감소(SMD 약 −0.9~−1.1, p<0.001)시켰으나 endotoxin을 완전히 제거하지는 못했으며 근거 확실성은 매우 낮음.
+Ca(OH)₂ does not eliminate endotoxin completely regardless of irrigant used, certainty of evidence is very low due to heterogeneous formulations and mostly pre-post designs without control groups.
+
+## 세줄요약
+
+SR+MA(J Endod 2020; 정성 9편, 메타 7편) — 감염 근관에서 수산화칼슘(CH) 근관내 첩약의 LPS/endotoxin 감소 효과를 항균제 첨가 유무·세정액 종류별 서브그룹으로 분석.
+
+CH는 화학기계적 성형 전후 모두 LPS를 유의하게 감소(SMD −1.09 / −0.92, p<0.001)시켰으며, 항균제 첨가 시 LPS 감소 발생률 98.9% vs 미첨가 61.7%.
+
+그러나 세정액과 무관하게 LPS를 완전 제거하지 못하고, 근거 확실성은 매우 낮아(GRADE) — CH를 "endotoxin 제거 도구"로 과신해서는 안 됨.
 
 ## 1. Document Information
 
@@ -57,7 +65,7 @@ SR+MA (9 studies qualitative, 7 meta-analyzed): calcium hydroxide intracanal med
 
 ## 6. Related Work
 
-- Endpoint-level extension of intracanal-medicament reviews ([[endodontics/ordinola-zapata-2022-intracanal-medicaments-status-directions]], [[endodontics/irrigation/rossi-fedele-2023-irrigation-dressing-apical-periodontitis-sr-ma]]).
+- Endpoint-level extension of intracanal-medicament reviews ([[endodontics/irrigation/ordinola-zapata-2022-intracanal-medicaments-status-directions]], [[endodontics/irrigation/rossi-fedele-2023-irrigation-dressing-apical-periodontitis-sr-ma]]).
 - Included as a primary SR within the SR-of-SRs overview ([[endodontics/irrigation/ahmad-2022-endotoxins-endodontic-infections-overview-sr]]).
 
 ## 7. Glossary

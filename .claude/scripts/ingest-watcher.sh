@@ -1,7 +1,33 @@
 #!/usr/bin/env bash
-# llm-wiki PDF ingest watcher
-# Monitors /Users/oracleneo/llm-wiki root for new PDFs
-# Automatically calls claude CLI to ingest them
+#
+# ingest-watcher.sh — llm-wiki PDF ingest watcher (launchd-managed).
+#
+# WHAT: fswatch-es the llm-wiki root (depth 1) for new PDFs and hands each one to the
+# claude CLI to run the full CLAUDE.md ingest pipeline (papers/ → sources/ → wiki/ →
+# index.md → qmd re-index → per-file commit → push). KeepAlive=true, so launchd keeps
+# the watcher alive across crashes and reboots.
+#
+# Managed by: ~/Library/LaunchAgents/com.llmwiki.ingest-watcher.plist
+# Tracked copy of that plist: .claude/scripts/com.llmwiki.ingest-watcher.plist
+#   (launchd only reads ~/Library/LaunchAgents — the in-repo copy is the versioned
+#    master; edit it there, then re-install with the cp below.)
+#
+# Install:    cp .claude/scripts/com.llmwiki.ingest-watcher.plist ~/Library/LaunchAgents/
+#             launchctl load -w ~/Library/LaunchAgents/com.llmwiki.ingest-watcher.plist
+# Stop it:    launchctl unload ~/Library/LaunchAgents/com.llmwiki.ingest-watcher.plist
+# Watch it:   tail -f .claude/scripts/ingest-watcher.log
+# Is it on?:  launchctl list | grep ingest-watcher     # also: pgrep -fl fswatch
+#
+# NOTE: this job auto-ingests UNATTENDED — it invokes the claude CLI with
+# --dangerously-skip-permissions and pushes to origin/main without review. Load it only
+# when you actually want every PDF dropped in the wiki root to ingest itself. As of
+# 2026-07-16 the job is NOT loaded (plist present, launchctl list shows nothing);
+# ingests are being run on demand instead. Loading it is a deliberate decision, not a
+# repair step.
+#
+# DEPENDS: fswatch (/opt/homebrew/bin/fswatch — `brew install fswatch`) and the claude
+# CLI at $CLAUDE_BIN below. Both are outside this repo; a fresh machine needs them
+# installed before this agent does anything.
 
 WIKI_DIR="/Users/oracleneo/llm-wiki"
 PAPERS_DIR="$WIKI_DIR/papers"

@@ -6,20 +6,28 @@ date: 2025-09-25
 doi: 10.3390/biomedicines13102343
 source: lyu-2025-underwater-discharge-plasma-root-canal-rct.md
 category: [endodontics/cold-plasma]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/lyu-2025-underwater-discharge-plasma-root-canal-rct.pdf
 pdf_filename: lyu-2025-underwater-discharge-plasma-root-canal-rct.pdf
 source_collection: external
 tags: [cold-plasma, UDP, root-canal-irrigation, NaOCl, endodontics, RCT, PAI, VAS]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-First RCT pilot (n=28, 4 months) of underwater discharge plasma (UDP) vs. 6% NaOCl for root canal irrigation — comparable pain reduction and periapical healing, no adverse effects.
+First prospective parallel-group RCT pilot (n=28, 14 per group, 4-month follow-up, Hallym University Sacred Heart Hospital, Korea) comparing underwater discharge plasma (UDP; PLAZEN RCT® device) to 6% NaOCl as root canal irrigants in adults requiring root canal treatment.
 
-## 한줄요약
+VAS pain scores and PAI periapical healing scores were comparable between groups at 4 months (PAI: UDP 1.66±0.79 vs NaOCl 1.43±0.62, p=0.401); numerically lower clinical success in the UDP group (71.4% vs 92.9%) was non-significant (p=0.326), likely reflecting underpowering (power=0.65); no adverse effects were observed.
 
-수중방전 플라즈마(UDP)와 6% NaOCl 근관세정을 비교한 최초의 RCT 파일럿(n=28, 4개월): 통증 감소 및 치근단 치유 동등, 부작용 없음.
+UDP generates bactericidal ROS (<40°C) within the aqueous canal environment via impedance-guided discharge, addressing NaOCl's extrusion injury risk and limited penetration into complex anatomy, but larger RCTs with microbiological endpoints and ≥1-year follow-up are needed before routine recommendation.
+
+## 세줄요약
+
+성인 근관치료 환자를 대상으로 한 최초의 수중방전 플라즈마(UDP; PLAZEN RCT®) vs 6% NaOCl 비교 전향적 평행군 RCT 파일럿(n=28, 한국 한림대학교성심병원, 4개월 추적).
+
+4개월 시점 VAS 통증·PAI 치근단 치유 모두 두 군 간 유의한 차이 없음(PAI: UDP 1.66±0.79 vs NaOCl 1.43±0.62, p=0.401); UDP 임상 성공률 수치상 낮음(71.4% vs 92.9%)이나 비유의(p=0.326, 통계력 부족); 부작용 없음.
+
+UDP는 임피던스 유도 방전으로 수성 근관 환경 내 40°C 미만에서 살균성 ROS 생성 — NaOCl의 압출 독성·복잡 해부 침투 한계를 보완하나 일상 임상 권고 전에 미생물학적 종말점 포함 대규모 RCT가 필요.
 
 ## Summary
 

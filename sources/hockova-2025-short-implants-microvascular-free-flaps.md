@@ -9,8 +9,21 @@ pdf_filename: hockova-2025-short-implants-microvascular-free-flaps.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Five-year prospective study of 13 head-and-neck cancer patients (44 implants) who received short dental implants in microvascular bone free flaps (fibula/iliac crest/scapula). Assesses survival, success, and quality-of-life.
+## Three-line Summary
+
+Five-year prospective study of 13 head-and-neck cancer patients (44
+
+implants) who received short dental implants in microvascular bone
+
+free flaps (fibula/iliac crest/scapula). Assesses survival, success, and quality-of-life.
+
+## 세줄요약
+
+Five-year 전향적 (Prospective) study of 13 head-and-neck cancer patients (44
+
+implants) who received short dental implants in microvascular bone
+
+free flaps (fibula/iliac crest/scapula). Assesses survival, success, and quality-of-life.
 
 ## 1. Document Information
 - **Title:** Quality of life of patients receiving short dental implants in microvascular free flaps: a five year prospective study

@@ -18,8 +18,21 @@ Retained NOT as a citable source but as a retraction/context reference — it do
 ## ⚠️ RETRACTION NOTICE
 This paper has been **RETRACTED** by JAMA Internal Medicine. The original PDF carries an Article Alert: "This article has been retracted." A correction was also published. Treat all numerical findings as historical/contextual only — do not cite the effect estimates as reliable evidence.
 
-## One-line Summary
-[RETRACTED] Originally reported that physician burnout (47 studies, n=42,473) was associated with ~2× odds of unsafe care, unprofessional behavior, and low patient satisfaction, with depersonalization the strongest link — but the meta-analysis was retracted, so effect sizes should not be cited.
+## Three-line Summary
+
+[RETRACTED] Originally reported that physician burnout (47 studies, n=42,473) was associated with ~2×
+
+odds of unsafe care, unprofessional behavior, and low patient satisfaction, with depersonalization the
+
+strongest link — but the meta-analysis was retracted, so effect sizes should not be cited.
+
+## 세줄요약
+
+[RETRACTED] Originally reported that physician burnout (47 studies, n=42,473) was associated with ~2×
+
+odds of unsafe care, unprofessional behavior, and low patient satisfaction, with depersonalization the
+
+strongest link — but the 메타분석 (Meta-analysis, MA) was retracted, so effect sizes should not be cited.
 
 ## 1. Document Information
 - Journal: JAMA Internal Medicine, 178(10):1317–1331, Published Online Sep 4, 2018
@@ -36,7 +49,7 @@ This paper has been **RETRACTED** by JAMA Internal Medicine. The original PDF ca
 - Depersonalization subscale identified as the strongest predictor
 - Association between unprofessionalism and burnout was particularly high in early-career physicians
 
-## 3. Methodology
+## 3. Methodology (Original — Now Withdrawn, Do Not Cite)
 - Databases: MEDLINE, EMBASE, PsycInfo, CINAHL through Oct 22, 2017
 - Quantitative observational studies
 - Random-effects models, I² heterogeneity tests, publication bias tests

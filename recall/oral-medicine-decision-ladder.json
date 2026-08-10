@@ -1,0 +1,49 @@
+{
+  "overview": "oral-medicine-decision-ladder",
+  "date": "2026-07-23",
+  "title": "구강내과 결정 사다리 — 리콜",
+  "source_wiki": [
+    "wiki/overviews/oral-medicine-decision-ladder.md"
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "q": "구강백반증(OLK)의 악성전환률과 biopsy 우선 대상은?",
+      "opts": [
+        "악성전환률 약 30%, 모든 백반증 즉시 절제",
+        "pooled 악성변환률 6.64%(Pimenta-Barros 2025) — 비균질형(RR 4.23)·고위험부위(혀 측면·구강저)는 biopsy 우선, 이형성 진단 시 외과 절제",
+        "악성전환은 없으므로 관찰만",
+        "균질형이 비균질형보다 위험이 높다"
+      ],
+      "ans": 1,
+      "rat": "OLK pooled 악성변환률 6.64%(95% CI 5.21–8.21, Pimenta-Barros 2025, 55연구 n=41,231). 비균질형 RR 4.23, 이형성(OED) RR 2.75, 설측연 절대 MT 12.71%. 균질형+소병소+위험인자 통제가능→위험인자 제거+3–6개월 monitoring; 비균질형·고위험부위→biopsy 우선; 이형성→외과 절제. 수술 후 재발 OL은 악성변환 7.39배(Sapkota 2024).",
+      "cite": "overviews/oral-medicine-decision-ladder"
+    },
+    {
+      "id": "q2",
+      "q": "구강편평태선(OLP)의 실제 악성전환률과 임상적 함의는?",
+      "opts": [
+        "5% 이상으로 매우 높아 즉시 절제 필요",
+        "고품질 연구만 보면 0.5–1.4%(Gonzalez-Moles 2021) — 과거 5% 보고는 진단 오류 가능성; 단 OLP는 당뇨·하시모토·C형간염 등 전신 동반질환 marker",
+        "악성전환이 전혀 없다",
+        "OLP는 전신질환과 무관하다"
+      ],
+      "ans": 1,
+      "rat": "OLP 진정한 악성전환률 0.5–1.4%(고품질 연구만, Gonzalez-Moles 2021), 과거 5% 보고는 진단 오류 가능(Kaur 2022) → 과대 위험 인식 회피. 단 전신 동반질환 marker — 당뇨 OR 1.64·하시모토 2.23·셀리악 18.44·C형간염 4.09·우울 6.15. 치료: 망상형→monitoring, 미란·위축형→국소 스테로이드(clobetasol 0.05% BID).",
+      "cite": "overviews/oral-medicine-decision-ladder"
+    },
+    {
+      "id": "q3",
+      "q": "단측(편측) 상악동 혼탁을 볼 때 우선 의심해야 할 것은?",
+      "opts": [
+        "항상 알레르기성 부비동염",
+        "치성 상악동염(OMS) — 단측 상악동 혼탁의 30–72%가 치성 원인, 의심 대구치 평가 후 CT/CBCT로 apex 침범·구강상악동누공 확인, 치과+ENT 다학제",
+        "종양을 먼저 의심",
+        "치성 원인은 드물다"
+      ],
+      "ans": 1,
+      "rat": "단측 상악동 혼탁의 30–72%가 치성 원인(Lin 2024, Psillas 2020) → 단측 후방 sinusitis는 치과 origin 우선 의심. 의심 대구치(특히 1·2·3번) 평가 → CT/CBCT로 apex 침범·OAF·잔존 root tip 확인 → 치과 처치 + ENT 다학제(FESS). 구강내과는 전반적으로 narrative review 비중이 높음.",
+      "cite": "overviews/oral-medicine-decision-ladder"
+    }
+  ]
+}

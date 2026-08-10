@@ -10,8 +10,21 @@ pdf_filename: moy-2005-dental-implant-failure-rates-risk.pdf
 source_collection: external
 ---
 
-## One-line Summary
-21년간 단일 술자의 4,680개 임플란트 코호트에서 당뇨(RR 2.75), 두경부 방사선(RR 2.73), PMHRT(RR 2.55), 흡연(RR 1.56), 고령(RR 2.24)이 유의한 실패 위험인자로 확인; 고혈압·심질환·스테로이드는 유의하지 않음.
+## Three-line Summary
+
+Retrospective cohort study of 4,680 implants in 1,140 patients placed by a single surgeon at UCLA over 21 years (1982–2003), using logistic regression to quantify relative risks for implant failure across systemic and site-related variables.
+
+Diabetes (RR 2.75), head-and-neck radiation (RR 2.73), postmenopausal HRT (RR 2.55), age 60–79 (RR 2.24), and smoking (RR 1.56) were all significant failure risk factors; hypertension, cardiac disease, and steroid use were not significant, and overall failure rates were 8.16% maxilla vs 4.93% mandible.
+
+There are no absolute contraindications to implants, but diabetes and radiation each roughly triple the risk; smoking failures cluster within year 1, diabetic failures persist long-term (>10 years), and radiation failures concentrate within year 2 — timing patterns that should guide monitoring protocols.
+
+## 세줄요약
+
+단일 술자 UCLA 21년 후향적 코호트(임플란트 4,680개, 환자 1,140명): 로지스틱 회귀로 임플란트 실패 관련 전신·부위 위험인자의 상대위험도(RR) 정량화.
+
+당뇨(RR 2.75)·두경부 방사선(RR 2.73)·PMHRT(RR 2.55)·고령 60–79세(RR 2.24)·흡연(RR 1.56)은 유의한 실패 위험인자였고, 고혈압·심질환·스테로이드는 유의하지 않았으며 전체 실패율은 상악 8.16% vs 하악 4.93%.
+
+임플란트의 절대 금기는 없으나, 당뇨·방사선은 실패 위험을 약 2.7배 높이고, 흡연 실패는 1년 내·당뇨 실패는 10년 이상 지속·방사선 실패는 2년 내에 집중되므로 각 조건에 맞는 추적 관찰 프로토콜이 필요.
 
 ## 1. Document Information
 - **Journal**: International Journal of Oral & Maxillofacial Implants 2005;20:569-577

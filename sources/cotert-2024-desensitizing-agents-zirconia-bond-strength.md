@@ -13,11 +13,21 @@ source_collection: external
 
 [[resin-bonding/anithakumari-2022-desensitizing-agents-bond-strength-sr]]의 "탈감작제가 결합강도에 미치는 영향" 질문을 self-adhesive resin cement + zirconia 시나리오로 직접 검증. 보철 전 탈감작제 도포가 SBS를 낮추는지에 대한 실무 근거. [[dentin-hypersensitivity/jiang-2022-desensitizing-agents-permeability-cytotoxicity]]와 제제 동일군.
 
-## One-line Summary
-In vitro SBS study (80 molars, 8 groups n=10, thermocycled) finding Admira, Smart Protect, and Gluma increased shear bond strength of zirconia to dentin with a self-adhesive cement, supporting their pre-cementation use.
+## Three-line Summary
 
-## 한줄요약
-In vitro 전단결합강도(SBS) 연구(80치·8군 각 10·열순환): self-adhesive cement 사용 시 Admira·Smart Protect·Gluma가 지르코니아-상아질 SBS를 증가시켜 세멘 전 도포를 지지.
+In vitro shear bond strength (SBS) study (80 extracted molars, 8 groups n=10 each, thermocycled 2500 cycles) testing 7 desensitizing agents on zirconia-to-dentin bonding with Rely-X U200 self-adhesive resin cement.
+
+Admira (resin-based), Smart Protect (glutaraldehyde/HEMA), and Gluma (glutaraldehyde/HEMA) produced the highest SBS values (~10.70, 9.62, 8.90 MPa); oxalate- and fluoride-based agents (e.g., Bifluoride) yielded the lowest values (down to ~1.60 MPa).
+
+Resin-based and glutaraldehyde/HEMA desensitizers can be applied before cementing zirconia restorations without compromising bond strength; oxalate/fluoride agents should be used with caution.
+
+## 세줄요약
+
+In vitro 전단결합강도 (Shear Bond Strength, SBS) 연구 (발거치 80개, 8군 각 n=10, 열순환 2500회): Rely-X U200 자가접착 레진 시멘트로 지르코니아-상아질을 합착할 때 탈감작제 7종의 영향을 비교.
+
+레진계 Admira (~10.70 MPa), 글루타르알데하이드/HEMA계 Smart Protect (~9.62 MPa), Gluma (~8.90 MPa)가 최고값; 옥살레이트·불소계 제제(Bifluoride 등)는 ~1.60 MPa로 최저치.
+
+레진계·글루타르알데하이드/HEMA계 탈감작제는 지르코니아 보철 합착 전 도포 가능; 옥살레이트/불소계 제제는 SBS 저하 위험이 있어 주의 요망.
 
 ## 1. Document Information
 - BMC Oral Health 2024;24:1403. İzmir/İstanbul private practice + Ege University Prosthodontics.

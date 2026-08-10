@@ -9,8 +9,21 @@ pdf_filename: rodrigues-2022-srp-brazilian-anterior-bone-housing-isd.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Cross-sectional CBCT study of 420 maxillary anterior teeth in 70 Brazilian patients reporting Kan-class SRP distribution.
+## Three-line Summary
+
+Cross-sectional CBCT study of 420
+
+maxillary anterior teeth in 70
+
+Brazilian patients reporting Kan-class SRP distribution.
+
+## 세줄요약
+
+Cross-sectional CBCT study of 420
+
+maxillary anterior teeth in 70
+
+Brazilian patients reporting Kan-class SRP distribution.
 
 ## 1. Document Information
 - **Title:** Tomographic sagittal root position in relation to maxillary anterior bone housing in a Brazilian population
@@ -32,10 +45,10 @@ Class I 65.2%, II 9.3%, III 0.7%, IV 24.8%. Sex not associated (p=0.307); age di
 Cross-sectional; single-center; younger-skewed cohort.
 
 ## 6. Related Work
-- [[immediate-implant/kan-2011-sagittal-root-position-immediate-implant-anterior]]
-- [[immediate-implant/rodrigues-2022-srp-periodontal-phenotype-anterior-maxillary]]
-- [[immediate-implant/habib-2024-srp-decision-making-immediate-implant-cbct]]
-- [[immediate-implant/kong-2020-srp-maxillary-anterior-korean-population]]
+- [[immediate-implant/anatomic-assessment/kan-2011-sagittal-root-position-immediate-implant-anterior]]
+- [[immediate-implant/anatomic-assessment/rodrigues-2022-srp-periodontal-phenotype-anterior-maxillary]]
+- [[immediate-implant/anatomic-assessment/habib-2024-srp-decision-making-immediate-implant-cbct]]
+- [[immediate-implant/anatomic-assessment/kong-2020-srp-maxillary-anterior-korean-population]]
 
 ## 7. Glossary
 - **IIP:** Immediate Implant Placement — placement at the time of tooth extraction.

@@ -4,14 +4,27 @@ authors: Axelle Ickroth, Véronique Christiaens, Jeremy Pitman, Jan Cosyn
 year: 2025
 doi: 10.3390/jcm14072462
 journal: Journal of Clinical Medicine 2025;14:2462
-category: [bone-regeneration]
+category: ['immediate-implant']
 pdf_path: /Users/oracleneo/llm-wiki/papers/ickroth-2025-immediate-implant-intact-nonintact-sockets.pdf
 pdf_filename: ickroth-2025-immediate-implant-intact-nonintact-sockets.pdf
 source_collection: external
 ---
 
-## One-line Summary
-즉시식립 온전 vs 비온전 소켓 체계적 고찰(20개 연구, 525개 임플란트): BBT·연조직·심미·생존율 모두 유사하나, 비온전 소켓 연구 질 극히 낮음 — 결론 도출 주의 필요.
+## Three-line Summary
+
+즉시식립 온전 vs 비온전 소켓 체계적 고찰(20개 연구,
+
+525개 임플란트): BBT·연조직·심미·생존율 모두 유사하나, 비온전 소켓 연구
+
+질 극히 낮음 — 결론 도출 주의 필요.
+
+## 세줄요약
+
+즉시식립 온전 vs 비온전 소켓 체계적 고찰(20개 연구,
+
+525개 임플란트): BBT·연조직·심미·생존율 모두 유사하나, 비온전 소켓 연구
+
+질 극히 낮음 — 결론 도출 주의 필요.
 
 ## 1. Document Information
 - **Journal**: Journal of Clinical Medicine 2025;14:2462

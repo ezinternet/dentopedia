@@ -6,7 +6,7 @@ date: 2024-01-24
 doi: 10.4103/jisp.jisp_597_22
 source: mohapatra-2024-water-flosser-vs-floss-plaque-sr.md
 category: [interdental-cleaning]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "38434511"
@@ -22,13 +22,21 @@ relations:
     target: yiamwattana-2025-oral-irrigator-vs-floss-orthodontic-sr-ma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (PRISMA/PROSPERO-registered, 7 RCTs, ~155 vs 156 adults; qualitative synthesis, NO meta-analysis due to I²=97% heterogeneity): the majority of trials (4/7) favored water flossers over dental floss for plaque reduction — particularly at inaccessible interproximal areas — while 3/7 found no between-group difference; GRADE certainty "moderate."
+Systematic review (PRISMA/PROSPERO-registered; 6 databases + hand search, Jan 2002–Oct 2022; 7 RCTs included, n=34–83 each, qualitative synthesis only because I²=97% precluded meta-analysis) comparing water flosser vs dental floss for plaque reduction in adults >18 years.
 
-## 한줄요약
+4 of 7 trials favored water flossers over dental floss for plaque reduction (example: Goyal 2013 water flosser 74.4% vs floss 57.7% whole-mouth reduction), particularly at inaccessible posterior/interproximal sites; 3/7 found no between-group difference; GRADE certainty "moderate" with serious imprecision.
 
-성인에서 물치실(water flosser) vs 치실(dental floss)의 치면세균막 감소 효과를 비교한 체계적 문헌고찰(RCT 7편, PRISMA·PROSPERO 등록; 정량 메타분석은 I²=97% 이질성으로 미시행). 7편 중 4편이 물치실 우위(특히 접근 어려운 인접면), 3편은 차이 없음 — GRADE 근거 "moderate".
+Water flossers are directionally superior to floss for plaque, especially at hard-to-reach areas, making them a preferred option for patients with limited dexterity, orthodontic appliances, or prostheses; the extreme heterogeneity (I²=97%) limits certainty.
+
+## 세줄요약
+
+체계적 문헌고찰(PRISMA/PROSPERO 등록; 6개 데이터베이스, 2002–2022; RCT 7편, n=34–83, I²=97%로 메타분석 불가, 정성 합성만): 성인에서 워터플로서 vs 치실의 치태 감소 비교.
+
+7편 중 4편이 워터플로서 우위(예: Goyal 2013 전악 74.4% vs 57.7%), 특히 접근 어려운 후방부·인접면에서; 3편은 차이 없음; GRADE "moderate," 부정확도 "심각".
+
+워터플로서가 치태 감소에서 치실보다 방향적으로 우세하며, 특히 손재주가 부족하거나 교정장치·보철 환자에게 선호됨; 극심한 이질성(I²=97%)으로 확실성은 제한적이다.
 
 ## Summary
 

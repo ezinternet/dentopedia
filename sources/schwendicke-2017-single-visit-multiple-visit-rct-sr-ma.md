@@ -11,15 +11,23 @@ source_collection: external
 
 ## Why Ingested
 
-근관치료 1회법 vs 다회법 비교에서 장기 합병증, 술후 통증, flare-up 위험도를 동시에 분석한 SR+MA+TSA(시험순차분석)가 필요했음. 특히 [[endodontics/ordinola-zapata-2022-intracanal-medicaments-status-directions]]에서 근관내 medicament(수산화칼슘) 사용 근거를 보완하는 임상 outcome 데이터로 활용되며, 이 SR이 해당 논쟁의 핵심 기반 문헌임.
+근관치료 1회법 vs 다회법 비교에서 장기 합병증, 술후 통증, flare-up 위험도를 동시에 분석한 SR+MA+TSA(시험순차분석)가 필요했음. 특히 [[endodontics/irrigation/ordinola-zapata-2022-intracanal-medicaments-status-directions]]에서 근관내 medicament(수산화칼슘) 사용 근거를 보완하는 임상 outcome 데이터로 활용되며, 이 SR이 해당 논쟁의 핵심 기반 문헌임.
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA+TSA of 29 RCTs (4,341 patients): single-visit RCT did not increase long-term complications or postoperative pain vs multiple-visit, but significantly raised flare-up risk (RR 2.13; 95% CI 1.16–3.89), though all evidence was weak-to-moderate and firm TSA conclusions were not reached.
+SR+MA+TSA of 29 RCTs (4,341 patients): single-visit RCT did not increase long-term complications or postoperative pain vs multiple-visit, but significantly raised flare-up risk (RR 2.13;
 
-## 한줄요약
+95% CI 1.16–3.89), though all evidence was weak-to-moderate and firm TSA conclusions were not reached.
 
-29개 RCT(4,341명) SR+MA+TSA: 1회법과 다회법 간 장기 합병증·술후 통증 차이 없음; 단, 1회법의 flare-up 위험 유의하게 높음(RR 2.13)—전반적 근거 수준 낮음-보통, TSA 기준 확정 결론 미도달.
+(incomplete)
+
+## 세줄요약
+
+29개 RCT(4,341명) SR+MA+TSA: 1회법과 다회법 간 장기 합병증·술후 통증 차이 없음;
+
+단, 1회법의 flare-up 위험 유의하게 높음(RR 2.13)—전반적 근거 수준 낮음-보통, TSA 기준 확정 결론 미도달.
+
+(incomplete)
 
 ## 1. Document Information
 

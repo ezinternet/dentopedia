@@ -6,18 +6,28 @@ date: 2024-05-02
 doi: 10.1177/22808000241250118
 source: habibzadeh-2024-full-ceramic-rbfdp-sr.md
 category: [prosthetic-materials]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/habibzadeh-2024-full-ceramic-rbfdp-sr.pdf
 pdf_filename: habibzadeh-2024-full-ceramic-rbfdp-sr.pdf
 source_collection: external
 tags: [rbfdp, resin-bonded-bridge, all-ceramic, zirconia, cantilever, debonding]
 ---
 
-## One-line Summary
-Systematic review (14 studies, 2010–2020) of full-ceramic resin-bonded fixed dental prostheses (RBFDPs): 3–10-year survival 76–100%, cantilever single-abutment design outperforming two-abutment fixed-fixed, zirconia frameworks (IPS e.max ZirCAD / In-Ceram zirconia) superior to In-Ceram alumina, retentive features (box/groove/pinhole) improving survival, and debonding the most common failure mode.
+## Three-line Summary
 
-## 한줄요약
-Full-ceramic 레진본드 보철물(RBFDP) 14편 SR: 3–10년 생존율 76–100%, cantilever (단일 abutment) 디자인이 fixed-fixed보다 우세, IPS e.max ZirCAD·In-Ceram zirconia·CAD/CAM 지르코니아가 주류 framework, debonding이 최다 실패 양상.
+Systematic review (14 studies, 2010–2020, English) evaluating design, material, and outcome variables for full-ceramic resin-bonded fixed dental prostheses (RBFDPs).
+
+3–10-year survival ranged 76–100%; cantilever single-abutment design outperformed fixed-fixed two-abutment; zirconia frameworks (IPS e.max ZirCAD, In-Ceram zirconia) exceeded In-Ceram alumina (85.3–94.8%); retentive preparation features improved survival; debonding was the most common failure mode.
+
+Cantilever full-ceramic RBFDP with zirconia framework and proximal retentive aids is the evidence-based configuration for conservative anterior single-tooth replacement.
+
+## 세줄요약
+
+Full-ceramic 레진본드 고정성 보철물(RBFDP) 관련 14편 체계적 문헌고찰(2010–2020, 영어).
+
+3–10년 생존율 76–100%; cantilever 단일지대치 디자인 > fixed-fixed; IPS e.max ZirCAD·In-Ceram zirconia가 In-Ceram alumina(85.3–94.8%)보다 우수; 유지 형성(box/groove/pinhole)이 생존율 향상; 탈본드(debonding)가 최다 실패 양상.
+
+보존적 전방부 단일치 수복에서 지르코니아 프레임워크 + 유지 형성 + cantilever 디자인 조합이 근거 기반 선택이다.
 
 ## Summary
 SR of 14 studies (2010–2020 English) on full-ceramic resin-bonded fixed dental prostheses (RBFDPs). Survival rate 76–100% over 3–10 years follow-up. Cantilever single-abutment design outperformed two-abutment fixed designs (less debonding from differential abutment movement). Dominant framework materials: IPS e.max ZirCAD, In-Ceram alumina, zirconia CAD/CAM. In-Ceram alumina showed lower survival (85.3–94.8%) than zirconia variants. Retentive features (proximal box, groove, pinhole) improved survival. Standard surface treatment: air abrasion + silanization or HF etching. Adhesive resin cements dominant. Debonding > framework fracture in failure modes.

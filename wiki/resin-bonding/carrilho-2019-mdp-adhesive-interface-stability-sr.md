@@ -6,7 +6,7 @@ date: 2019-03-07
 doi: 10.3390/ma12050790
 source: carrilho-2019-mdp-adhesive-interface-stability-sr.md
 category: [resin-bonding]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "30866488"
@@ -20,13 +20,21 @@ relations:
     target: yoshihara-2011-nanolayering-mdp-enamel-dentin
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (PRISMA-P; 72 of 1383 references) finding that 10-MDP self-etch/universal adhesives form a nano-layered, acid-base-resistant interface with low-solubility MDP-Ca salts, giving the most hydrolytically stable, durable resin-dentin bond among functional monomers — when applied by scrubbing with adequate infiltration time.
+Systematic review (PRISMA-P; 1383 references screened, 72 included) examining 10-MDP-based self-etch/universal adhesive interface characteristics across three outcome buckets: nanolayering (7 studies), acid-base-resistant zone (6 studies), and adhesive stability (22 studies).
 
-## 한줄요약
+10-MDP self-assembles into nano-layered structures and forms an acid-base-resistant zone with water-insoluble MDP-Ca salts (lower solubility than competing monomers), making the interface stable after 1 year of water storage; GPDM and PEM-F show equivalent or superior stability in limited comparisons; co-formulants (ethanol, HEMA) and under-concentration compromise the benefit.
 
-체계적 문헌고찰(PRISMA-P, 1383편 중 72편): 10-MDP 자가부식·유니버설 접착제는 나노층·산-염기 저항층·저용해도 MDP-Ca 염을 형성해 기능성 모노머 중 가장 안정적이고 내구성 있는 레진-상아질 결합을 만든다 — 문지르기 도포와 충분한 침투 시간 전제.
+Apply 10-MDP adhesives with an active scrubbing technique and adequate dwell/infiltration time; use selective enamel etching with higher-pH one-bottle systems; HEMA-free formulations are preferred for durability.
+
+## 세줄요약
+
+체계적 문헌고찰 (PRISMA-P, 1383편 중 72편 포함) — 10-MDP 기반 자가부식·유니버설 접착제 계면 특성을 3개 결과 버킷(나노층: 7편, 산-염기 저항층: 6편, 접착 안정성: 22편)으로 검토.
+
+10-MDP (10-methacryloyloxydecyl dihydrogen phosphate)는 나노층 자기조립 및 산-염기 저항층 (Acid-Base Resistant Zone, ABRZ)을 형성하고, 저용해도 MDP-Ca 염 생성으로 1년 수분 보관 후에도 계면 안정 유지; GPDM·PEM-F도 동등/우월 안정성 일부 보고; 에탄올·HEMA 공단량체·농도 부족이 이점을 훼손.
+
+10-MDP 접착제는 문지르기 도포·충분한 침투 시간 적용; 고pH 1단계 시스템에는 선택적 법랑질 부식 병용; HEMA-free 제형이 내구성에 유리.
 
 ## Summary
 

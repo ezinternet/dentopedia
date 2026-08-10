@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1186/s12903-025-07465-2
 source: diaz-2025-antibiotics-sinus-lift-infection-umbrella.md
 category: [drug/antibiotics]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "41413511"
@@ -22,13 +22,21 @@ relations:
     target: kozuma-2017-chronic-sinusitis-sinus-augmentation-infection
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Umbrella review of 7 SR/MAs (>18,900 patients) finds postoperative infection rates of 0.3–11.6% after sinus floor elevation; low-certainty evidence supports antibiotic prophylaxis only in high-risk scenarios (membrane perforation, extensive lateral approach, systemic comorbidities), while routine use in uncomplicated procedures is unnecessary.
+Umbrella review of 7 SR/MAs (>18,900 patients, >28,000 implants) covering antibiotic use for sinus floor elevation (SFE) infection prevention and management; AMSTAR 2 + GROOVE + GRADE triple appraisal.
 
-## 한줄요약
+Postoperative infection rates ranged 0.3–11.6% (lateral window 1.7–2.9% vs transcrestal 0.3–1.0%); implant survival consistently >90% regardless of antibiotic regimen; no statistically significant difference in implant failure with vs without antibiotics (Salgado-Peralvo 2023, high-quality); GRADE certainty LOW for prophylaxis efficacy.
 
-7개 SR/MA umbrella review(환자 18,900명+): 상악동거상술(Sinus Floor Elevation, SFE) 후 감염률 0.3–11.6%, 항생제(Antibiotic, ATB) 예방은 슈나이더막(Schneiderian Membrane, SM) 천공·광범위 측방 접근·전신질환 등 고위험군에서만 근거(낮은 확실성), 단순 SFE에서 루틴 투여는 불필요.
+Risk-based antibiotic prescribing is warranted — routine prophylaxis in uncomplicated SFE is unsupported; reserve antibiotics for Schneiderian membrane perforation, extensive lateral approach, smoking, pre-existing sinusitis, or systemic comorbidities.
+
+## 세줄요약
+
+7개 SR/MA 우산 리뷰(환자 18,900명+, 임플란트 28,000개+): 상악동거상술(Sinus Floor Elevation, SFE) 후 감염률 0.3–11.6%, 측방 접근(1.7–2.9%) > 경치조골(0.3–1.0%) — 수술법이 항생제 요법보다 감염률 결정에 중요.
+
+임플란트 생존율은 항생제 투여 여부와 관계없이 일관되게 90% 초과(최고 98.4%); GRADE 근거 수준: 항생제 예방 효과 낮음(LOW), 감염 관리 매우 낮음(VERY LOW); 단순 SFE에서 통상적 항생제 예방은 근거 불충분.
+
+슈나이더막(Schneiderian Membrane, SM) 천공·광범위 측방 접근·흡연·기왕 부비동염·전신질환 등 고위험 시나리오에서만 항생제 처방이 정당화되는 위험 기반 처방 원칙 지지.
 
 ## Summary
 
@@ -120,7 +128,7 @@ For infection management, Allevi et al. 2022 reported that endoscopic sinus surg
 ## Related Papers
 
 - [[sinus-lift/lateral/kozuma-2017-chronic-sinusitis-sinus-augmentation-infection]] — SFE 후 만성 부비동염 감염 관리 패턴 (본 umbrella review가 상위 근거로 보강)
-- [[drug/torof-2023-antibiotic-dental-implant-procedures-sr-ma]] — 임플란트 시술 전반 항생제 SR/MA (SFE 특화 umbrella review와 상호 보완)
-- [[drug/de-angelis-2025-antibiotic-third-molar-extraction-prevention-sr]] — 발치 후 항생제 예방 SR (같은 항균제 관리 체계 맥락)
-- [[drug/sandulescu-2024-antibiotic-prescribing-dental-best-practices-review]] — 치과 항생제 처방 모범 사례
+- [[drug/antibiotics/torof-2023-antibiotic-dental-implant-procedures-sr-ma]] — 임플란트 시술 전반 항생제 SR/MA (SFE 특화 umbrella review와 상호 보완)
+- [[drug/antibiotics/de-angelis-2025-antibiotic-third-molar-extraction-prevention-sr]] — 발치 후 항생제 예방 SR (같은 항균제 관리 체계 맥락)
+- [[drug/antibiotics/sandulescu-2024-antibiotic-prescribing-dental-best-practices-review]] — 치과 항생제 처방 모범 사례
 - [[sinus-lift/lateral/derbishi-2026-maxillary-sinus-augmentation-implant-survival-sr-ma]] — 상악동거상술 임플란트 생존율 SR/MA (감염과 생존율 연계)

@@ -6,18 +6,28 @@ date: 2025-02-18
 doi: 10.3290/j.jad.c_1966
 source: etiennot-2025-mdp-saliva-contaminated-dentin.md
 category: [resin-bonding]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/etiennot-2025-mdp-saliva-contaminated-dentin.pdf
 pdf_filename: etiennot-2025-mdp-saliva-contaminated-dentin.pdf
 source_collection: external
 tags: [10-mdp, saliva-contamination, katana-cleaner, clearfil-se-bond, universal-adhesive, decontamination]
 ---
 
-## One-line Summary
-In-vitro µTBS study (KU Leuven, Van Meerbeek group) on saliva-contaminated dentin: 2-step SE Clearfil SE Bond 2 (CSE2) maintained bond strength without separate decontamination, whereas 1-step SE Clearfil Universal Bond Quick (CUBQ) required Katana Cleaner or CSE2 primer decontamination for full bond recovery; CSE2 > CUBQ overall.
+## Three-line Summary
 
-## 한줄요약
-KU Leuven Van Meerbeek 그룹의 µTBS 연구: 2-step SE Clearfil SE Bond 2(CSE2)는 타액 오염 후 추가 처치 없이도 결합강도 유지 가능, 1-step SE Clearfil Universal Bond Quick(CUBQ)는 Katana Cleaner 또는 CSE2 primer로 decontamination 필요.
+In vitro µTBS study (KU Leuven BIOMAT, Van Meerbeek group; bur-cut dentin, 4 decontamination conditions, immediate + 50,000-thermocycle aging) comparing 2-step SE Clearfil SE Bond 2 (CSE2) vs 1-step SE Clearfil Universal Bond Quick (CUBQ) on saliva-contaminated dentin.
+
+CSE2 (2-step SE) maintained satisfactory µTBS after saliva contamination without additional decontamination; CUBQ (1-step SE) required Katana Cleaner (10-MDP-containing) or CSE2 primer decontamination for full bond recovery; CSE2 outperformed CUBQ overall.
+
+For 2-step SE adhesives, saliva contamination may not require separate decontamination; for 1-step SE/universal adhesives, always decontaminate with a 10-MDP-containing cleaner or separate primer — rubber dam remains the primary safeguard.
+
+## 세줄요약
+
+In vitro 미세인장결합강도(Microtensile Bond Strength, µTBS) 연구(KU Leuven BIOMAT, Van Meerbeek 그룹; 버 절삭 상아질, 4가지 오염제거 조건, 즉시 + 열순환 50,000회 노화): 타액 오염 상아질에서 2-step SE Clearfil SE Bond 2(CSE2) vs 1-step SE Clearfil Universal Bond Quick(CUBQ) 비교.
+
+CSE2(2-step SE)는 타액 오염 후 별도 오염제거 없이도 만족스러운 µTBS 유지; CUBQ(1-step SE)는 Katana Cleaner(10-MDP 함유) 또는 CSE2 프라이머로 오염제거가 있어야 결합강도 완전 회복; CSE2가 전반적으로 CUBQ보다 우수.
+
+2-step SE 접착제는 타액 오염 후 별도 오염제거 없이도 가능할 수 있으나, 1-step SE/유니버설 접착제는 10-MDP 함유 클리너 또는 별도 프라이머로 반드시 오염제거 필요 — 러버댐이 일차적 예방책임.
 
 ## Summary
 In vitro µTBS study from KU Leuven BIOMAT (Van Meerbeek group). Two Kuraray adhesives — Clearfil SE Bond 2 (2-step SE, CSE2) and Clearfil Universal Bond Quick (1-step SE, CUBQ) — were tested for bond strength to saliva-contaminated bur-cut dentin under various decontamination protocols: Katana Cleaner (KC, 10-MDP-containing), CSE2 primer (CSE2p), no decontamination (negative control), and no saliva (positive control). Specimens tested immediately (1-week water storage) and aged (50,000 thermocycles). Linear mixed modeling (REML, α=0.05).

@@ -1,0 +1,39 @@
+Cone beam CT evaluation of the presence of anatomic accessory canals in the jaws
+
+Eshak M, Brooks S, Abdel-Wahed N, Edwards PC
+Dentomaxillofacial Radiology, 2014;43(4):20130259
+PMID: 24670010 | PMCID: PMC4082258 | DOI: 10.1259/dmfr.20130259
+
+NOTE: PMC full-text body was returned empty by the PubMed MCP get_full_text_article
+tool for this article (empty full_text field in the API response). Only the
+structured abstract below was retrievable. This file preserves that abstract
+verbatim as the source text for sources/wiki authoring (full_text: false).
+
+Objective:
+To assess the prevalence, location and anatomical course of accessory canals of
+the jaws using cone beam CT.
+
+Methods:
+A retrospective analysis of 4200 successive cone beam CT scans, for patients of
+both genders and ages ranging from 7 to 88 years, was performed. They were
+exposed at the School of Dentistry, University of Michigan, Ann Arbor, MI. After
+applying the exclusion criteria (the presence of severe ridge resorption,
+pre-existing implants, a previously reported history of craniofacial
+malformations or syndromes, a previous history of trauma or surgery, inadequate
+image quality and subsequent scans from the same individuals), 4051 scans were
+ultimately included in this study.
+
+Results:
+Of the 4051 scans (2306 females and 1745 males) that qualified for inclusion in
+this study, accessory canals were identified in 1737 cases (42.9%; 1004 females
+and 733 males). 532 scans were in the maxilla (13.1%; 296 females and 236 males)
+and 1205 in the mandible (29.8%; 708 females and 497 males).
+
+Conclusion:
+A network of accessory canals bringing into communication the inner and outer
+cortical plates of the jaws was identified. In light of these findings,
+clinicians should carefully assess for the presence of accessory canals prior to
+any surgical intervention to decrease the risk for complications.
+
+Keywords: CBCT, accessory canals, incisive canal, interforaminal, lingual
+vascular canals

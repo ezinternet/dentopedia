@@ -6,7 +6,7 @@ date: 2021-05-05
 doi: 10.34172/joddd.2021.021
 journal: J Dent Res Dent Clin Dent Prospects 2021;15(2):122-128
 source: mate-2021-clinical-electromyographic-evaluation-botulinum-toxin.md
-confidence: prospective
+evidence_level: prospective
 category: botulinum-toxin
 pdf_path: /Users/oracleneo/llm-wiki/papers/mate-2021-clinical-electromyographic-evaluation-botulinum-toxin.pdf
 pdf_filename: mate-2021-clinical-electromyographic-evaluation-botulinum-toxin.pdf
@@ -14,11 +14,21 @@ source_collection: external
 tags: [gummy-smile, botulinum-toxin-a, electromyography, c-map, llsan, zygomaticus, prospective, subtype-tailored]
 ---
 
-## One-line Summary
-Prospective single-arm clinical study (n=10) of subtype-tailored low-dose BTX-A (1.25 U/site) for gummy smile: gingival display fell from 6.20 → 3.30 mm at 2 weeks (−2.90 mm, p<0.001) with C-MAP dropping 254.7 → 114.8 µV; both returned toward baseline by 6 months. First study to use EMG (C-MAP) to objectively quantify upper-lip elevator blockade by BTX-A.
+## Three-line Summary
 
-## 한줄요약
-Prospective n=10: subtype별 1.25 U/site BTX-A 주입 후 잇몸노출 6.20 → 3.30 mm (-2.90, p<0.001), C-MAP 254.7 → 114.8 µV (2주차) — EMG로 muscle blockade 객관 확인한 첫 임상연구; 6개월 baseline 근접 회복.
+Prospective single-arm clinical study (n=10, IRB-approved, India, 2016–2018) of subtype-tailored low-dose BTX-A (1.25 U/site, 8 mL/100 U dilution) for gummy smile, pairing photographic gingival display and C-MAP electromyography across 4 subtypes (anterior, posterior, mixed, asymmetric) at pre-op, 2 weeks, 3 months, and 6 months.
+
+Gingival display dropped 6.20→3.30 mm at 2 weeks (−2.90 mm, p<0.001), partially rebounded to 4.40 mm at 3 months (p=0.004), and returned to near-baseline (5.60 mm, NS) at 6 months; C-MAP decreased from 254.7→114.8 µV at 2 weeks (directional, p=0.080) with a significant wane between 2 weeks and 3 months (p=0.015); 70% were fully satisfied at 6 months and 70% would repeat.
+
+This is the first study to use surface EMG (C-MAP) to objectively quantify upper-lip elevator blockade by BTX-A; C-MAP variability (wide SD) limits individual diagnostic utility, but re-injection can be planned around the 3-month mark when the clinical effect significantly fades.
+
+## 세줄요약
+
+전향 단일군 임상연구(n=10, 인도 KIMSDU, 2016–2018) — subtype별 1.25 U/site BTX-A로 gummy smile을 치료하고 사진 잇몸노출 및 C-MAP EMG를 4개 시점(pre-op, 2주, 3개월, 6개월)에 추적.
+
+잇몸노출: 2주차 -2.90 mm(6.20→3.30, p<0.001), 3개월 -1.80 mm(p=0.004), 6개월 거의 기저치 복귀(5.60 mm, NS); C-MAP: 254.7→114.8 µV(2주, p=0.080, NS), 2주-3개월 간 유의 감소(p=0.015); 6개월 만족도 70% '매우 만족', 70% 재시술 의향.
+
+EMG(C-MAP)로 상순 거상근 차단을 객관화한 첫 임상연구; C-MAP 분산(SD 넓음)이 개인별 진단 활용을 제한하나 3개월 시점이 임상 효과 유의 감소 시점 → 재주사 계획 기준점.
 
 ## Summary
 Prospective single-arm clinical study (n=10) that pairs clinical (photographic gingival display) and electromyographic (compound muscle action potential, C-MAP) outcomes for BTX-A treatment of gummy smile across 4 subtypes (anterior, posterior, mixed, asymmetric). Dose 1.25 U per site (lower than typical Yonsei protocols). Gingival display dropped 6.20 → 3.30 mm at 2 weeks (significant, p<0.001) with C-MAP dropping 254.7 → 114.8 µV (directional but not statistically significant due to wide SD); both gradually returned toward baseline by 6 months. First study to use EMG to objectively quantify upper lip elevator blockade by BTX-A.

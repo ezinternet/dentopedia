@@ -12,11 +12,21 @@ source_collection: external
 ## Why Ingested
 기존 [[overviews/sinus-lift-technique-selection]] Section 3(천공 위험·관리)는 격벽·측벽 두께만 천공 위험인자로 다룬다. 이 논문은 **bucco-palatal sinus width >12mm**를 천공·조기실패 양쪽의 독립 위험인자로 추가하는 핵심 근거다. 또한 [[sinus-lift/transcrestal/guo-2020-non-grafted-platelet-concentrations-grafted-transcrestal-sinus]] 비이식 TSFE 안전성 논의를 RBH≤5mm 저잔존골 극단 케이스로 확장한다.
 
-## One-line Summary
-Retrospective multicenter study (n=430 implants, RBH ≤5 mm, transcrestal sinus floor elevation): early implant failure 2.8%; bucco-palatal sinus width >12 mm (OR 8.5) and membrane perforation (OR 4.21) are the only independent predictors of early failure.
+## Three-line Summary
 
-## 한줄요약
+Retrospective multicenter study (n=430 implants, RBH ≤5 mm, transcrestal sinus floor elevation): early implant failure 2.8%;
+
+bucco-palatal sinus width >12 mm (OR 8.5) and membrane perforation (OR 4.21) are the only independent predictors of early failure.
+
+(incomplete)
+
+## 세줄요약
+
 후향적 다기관 연구(n=430, RBH≤5mm 경치조골 거상): 조기 임플란트 실패 2.8%, 협구개 상악동 폭 >12mm(OR 8.5)와 막천공(OR 4.21)이 조기 실패의 유일한 독립 위험인자.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - Journal: Clinical Oral Implants Research 2022;33(6):783–791

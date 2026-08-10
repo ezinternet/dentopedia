@@ -1,0 +1,81 @@
+Title: Incidence of nutrient canals in hypertensive patients: A radiographic study
+Authors: Kumar VR, Naik RM, Singh RT, Guruprasad Y
+Journal: Journal of Natural Science, Biology, and Medicine, 2014;5(1):164-9
+PMID: 24678218
+PMCID: PMC3961925
+DOI: 10.4103/0976-9668.127318
+Source: PubMed Central (PMC) full text, retrieved via PubMed MCP get_full_text_article
+
+ABSTRACT
+
+Objectives:
+
+To determine if any correlation exists in the presence of nutrient canals in hypertensive patients and nonhypertensive patients, to compare the incidence of nutrient canals in different age groups, and also to compare the incidence of nutrient canals between dentulous and edentulous patients.
+
+Materials and Methods:
+
+This study was carried out on patients, who were divided into a control group comprising of healthy individuals, without history of hypertension and a study group of patients with the history of hypertension. The necessary information like age of the patient, presence or absence of hypertension, its duration, and blood pressure were recorded. An intraoral periapical radiograph of lower anterior region was made using bisecting angle technique and was interpreted. The presence or absence of nutrient canals, bone loss, and the levels of bone loss were recorded. The results so obtained were subjected to statistical analysis.
+
+Results:
+
+We found that the incidence of nutrient canals was statistically higher in the study group (55.2%) as compared to the control group (36.2%). The incidence of nutrient canals was also found to be increased with, the age till 60 years, amount of alveolar bone loss and in edentulous patients.
+
+Conclusion:
+
+Hypertension being one of the most commonly encountered medical problems in dental practice and many cases being undiagnosed, the presence of nutrient canal though not entirely indicative of hypertension, should increase the suspicion of the condition to be investigated further.
+
+FULL TEXT
+
+INTRODUCTION
+
+Nutrient canals are the radiolucencies representing the spaces in bone through which blood vessels and nerves travel to supply surrounding structures. They were first described by Hirschfeld in the year 1923 and called them interdental channels. The terminal points of these canals are seen as small nutrient foramina. They appear most frequently on the intraoral periapical radiograph (IOPAR) of the mandibular anterior region, followed by the mandibular premolar region and the wall of maxillary sinus. Periapical dental radiography, despite being two dimensional and limited in size, appears to be the best projection to identify the nutrient canals in the anterior mandible.
+
+Some consider them as normal structures, whereas others have correlated the radiographic appearance of nutrient canals with various pathologic conditions such as periodontal disease, hypertension, diabetes, tuberculosis, rickets, calcium deficiency, disuse atrophy, and coarctation of aorta. The present study was undertaken to determine if a correlation in the appearance of nutrient canals with hypertension exists and to determine whether the presence of nutrient canals can be used as an evidence for the detection of hypertensive patients.
+
+MATERIALS AND METHODS
+
+After obtaining ethical committee clearance from the institutional review board, 2989 known hypertensive and normal healthy individuals ranging from 10 to 70 years of age, visiting the Department of Oral Medicine and Radiology were included in this study. Patients with history of systemic disorders like diabetes, tuberculosis, coarctation of aorta, rickets, and other bone disorders, smokers, and any patients with periapical lesions were excluded.
+
+Medical history of the patients was taken to include them into control and study group. In a known hypertensive patient, duration of the hypertension was recorded; blood pressure was determined by auscultatory method in sitting posture and recorded in the proforma. Later on IOPAR of lower anterior region was made using New Life Radiology S.R.L. intraoral X-ray machine with exposure parameters of 70 kVp and 10 mAs. The film was exposed using bisecting angle technique with exposure time of 0.6 and 0.5 s for the dentulous and edentulous patients, respectively.
+
+Radiographs were processed in automatic film processor (Periomat) and mounted on a viewer. The radiographs were interpreted using a magnifying lens. The presence of bone loss was recorded as alveolar bone loss up to 1/3, 2/3, and beyond 2/3 of root length and placed under poor periodontal status category. Radiographs of patients without any bone loss were placed under good periodontal status category. Radiographs of patients with missing lower anterior teeth were placed under edentulous category. Presence or absence of nutrient canals, their number, and location were recorded in a proforma in a sequential manner.
+
+Study group included 1440 cases of known hypertensive, further subdivided into three subgroups:
+Group 1: 574 hypertensive patients without any evidence of alveolar bone loss
+Group 2: 655 hypertensive patients with bone loss
+Group 3: 211 hypertensive edentulous patients
+
+Control group included 1549 cases of known nonhypertensive, further subdivided into:
+Group 1: 813 healthy individuals without any evidence of bone loss
+Group 2: 632 healthy individuals with bone loss
+Group 3: 104 healthy edentulous patients
+
+Statistical methods: Descriptive statistical analysis was carried out. Chi-square test was used to find the significance of incidence of nutrient canals in hypertensive vs nonhypertensive patients, and binomial probability distribution was used for significance of incidence according to study features. A 95% confidence interval was computed.
+
+RESULTS
+
+Out of 2989 patients, 1354 (45.3%) patients showed the presence of nutrient canals. In the study group, 794 (55.2%) patients showed presence of nutrient canals; in the control group, 560 (36.2%) patients showed presence of nutrient canals. The incidence of nutrient canals was 2.17 times more in the study group compared to the control group, with a significant value of 0.001.
+
+Age groups: In 10-20 years, all 60 patients belonged to control group, 14 (23.3%) had nutrient canals. In 21-30 years, 2 study-group patients (none had NC), 190 control-group patients, 42 (22.1%) had NC. In 31-40 years, 191 study / 537 control patients: 50 (26.2%) and 168 (31.2%) respectively had NC. In 41-50 years, 392 study / 415 control: 251 (63.9%) study and 166 (39.9%) control had NC. In 51-60 years, 472 study / 229 control: 302 (63.7%) study and 120 (52.4%) control had NC. In 61-70 years, 383 study / 118 control: 191 (49.9%) study and 49 (41.5%) control had NC.
+
+Periodontal status: Out of 1229 study-group patients, 180 (31.4%) without bone loss and 494 (75.4%) with bone loss had NC. Out of 1445 control-group patients, 127 (15.6%) without and 378 (59.8%) with bone loss had NC.
+
+Extent of bone loss: Out of 1387 patients without bone loss, 307 (22.1%) had NC. Among 520 patients with bone loss up to 1/3 root length, 230 (44.2%) had NC. Among 490 and 277 patients with bone loss up to 2/3 and more than 2/3 root length respectively, 338 (68.9%) and 210 (75.8%) had NC.
+
+Severity of hypertension (British Hypertension Society categories): Among 230 patients with mild hypertension, 128 (55.7%) had NC. Out of 140 with moderate hypertension, 81 (57.9%) had NC. Out of 48 with severe hypertension, 28 (58.3%) had NC.
+
+Duration of hypertension: Among 422 patients suffering 1-3 years, 260 (61.6%) had NC. Among 564 suffering 4-6 years, 332 had NC. Out of 272 suffering 7-9 years, 170 (62.5%) had NC. Out of 182 suffering more than 10 years, only 32 (17.6%) had NC.
+
+Dentulous vs edentulous: Among 315 edentulous patients overall, 175 (55.5%) had NC; among 2674 dentulous patients, 1179 (44.1%) had NC. Among 211 edentulous patients in the study group, 120 (56.8%) had NC; among 104 edentulous patients in control group, 55 (52.8%) had NC — no significant difference between hypertensive and nonhypertensive edentulous patients.
+
+DISCUSSION
+
+Past studies on incidence of nutrient canals showed varied results ranging from 88% to 5%. In this study of 2989 patients, incidence was 45.3%. The higher incidence in the study group (55.2%) vs control group (36.2%) was consistent with two previous studies. The principal effects of hypertension are dilatation of arterioles, hypertrophy and hyperplasia of the vessel wall, and arteriosclerosis; narrowing of the lumen in arteriosclerosis may lead to opening of more collaterals, which may explain the increased incidence of nutrient canals in hypertensive patients.
+
+There was significant difference in NC incidence within age groups, especially above 40 years, but decreased incidence above 60 and below 30 years, consistent with prior studies; the postulated reason for decrease in aged patients is calcification of blood vessels with aging.
+
+NC incidence correlated with periodontal disease: more patients with bone loss (54.8%) showed NC vs those without (34.9%); within study group, patients with bone loss (75.4%) showed higher NC than control group with bone loss (59.8%); similarly among patients without bone loss, study group (31.4%) showed higher NC than control group (15.6%). NC incidence increased as bone loss increased, attributed to increased bone density from sclerotic trabecular bone changes in periodontal disease.
+
+NC incidence in edentulous patients was higher than dentulous patients, consistent with a previous study, with no major difference between hypertensive and nonhypertensive edentulous patients — attributed to alveolar bone resorption and remaining bone thickness after tooth loss.
+
+NC incidence did not correlate with severity or duration of hypertension overall, but showed a significant reduction in patients with hypertension for more than 10 years, which the authors attribute to calcification of blood vessels as the terminal stage of arteriosclerosis in long-standing hypertension, leading to disappearance of nutrient canals.

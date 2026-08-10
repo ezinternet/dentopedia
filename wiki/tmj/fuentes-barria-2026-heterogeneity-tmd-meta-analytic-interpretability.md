@@ -6,7 +6,7 @@ date: 2026-04-23
 doi: 10.1016/j.jdsr.2026.04.004
 source: fuentes-barria-2026-heterogeneity-tmd-meta-analytic-interpretability.md
 category: [tmj]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: true
 pmid: "42064356"
@@ -22,11 +22,21 @@ relations:
     target: zhang-2024-arthrocentesis-injectable-agent-tmd-sr
 ---
 
-## One-line Summary
-Letter to the Editor (narrative critique) of a TMD arthrocentesis SR+MA: pooling mechanistically distinct comparators (splints, physiotherapy, PRP/HA, arthroscopy, arthrocentesis variants) under I²=85–98% — plus SMD on a mm scale and mixed diagnoses — leaves the pooled estimates without a clinical referent and clinically uninterpretable.
+## Three-line Summary
 
-## 한줄요약
-TMD 관절천자(Arthrocentesis) 메타분석을 비판하는 편집자 서한: 기전이 다른 비교군을 I²=85–98% 극단적 이질성 속에 통합하고 mm 척도에 SMD를 쓰고 진단명을 섞으면, 통합 추정치는 임상적 기준점을 잃어 해석 불가능해진다.
+Letter to the Editor (narrative critique, Japanese Dental Science Review 2026) critiquing the clinical interpretability of a TMD arthrocentesis SR+MA that pooled mechanistically distinct comparators (splints, physiotherapy, PRP/HA, arthroscopy, arthrocentesis variants).
+
+Extreme statistical heterogeneity (I²=85–98%) combined with pooling of mechanistically incoherent comparators, use of SMD on already-clinically-meaningful mm-scale outcomes (MMO), and mixing of heterogeneous TMD diagnoses render the pooled estimates without a clear clinical referent and therefore clinically uninterpretable.
+
+This is a transferable EBM caution: when I² exceeds 85% and comparators are mechanistically distinct, a statistically significant pooled effect does not constitute actionable clinical evidence — pre-specified subgroup analyses stratified by comparator type and diagnosis are required.
+
+## 세줄요약
+
+악관절천자(Arthrocentesis) SR+MA의 임상 해석가능성을 비판하는 편집자 서한 (Japanese Dental Science Review 2026): 기전이 다른 비교군(스플린트·물리치료·PRP/HA·관절경·관절천자 변형)을 단일 추정치로 통합한 문제 지적.
+
+극단적 이질성(I²=85–98%)·기전 비일관적 비교군 통합·mm 단위 결과에 SMD 사용(최대개구량 MMO)·혼합 진단이 복합되어, 통합 추정치가 임상적 기준점을 상실하고 해석 불가능해짐.
+
+이식 가능한 EBM 교훈: I²>85%·비동질 비교군에서 통계적으로 유의한 pooled effect는 실행 가능한 임상 근거가 될 수 없으며, 비교군 유형·진단별 사전 명시 하위그룹 분석이 필수.
 
 ## Summary
 This is a Letter to the Editor in *The Japanese Dental Science Review* (2026), not a primary study — `confidence: narrative-review`. Fuentes-Barría critiques a meta-analysis by Valenzuela-Fuenzalida et al. on arthrocentesis effectiveness in temporomandibular disorders (TMD), arguing the analysis is internally valid in form but clinically uninterpretable in substance.

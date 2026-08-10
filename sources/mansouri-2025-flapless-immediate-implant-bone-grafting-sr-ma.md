@@ -10,8 +10,21 @@ pdf_filename: mansouri-2025-flapless-immediate-implant-bone-grafting-sr-ma.pdf
 source_collection: external
 ---
 
-## One-line Summary
-SR+MA: flapless 즉시식립 시 peri-implant gap에 골이식 추가 vs 비추가 — hard/soft tissue 변화를 평가; RCT 한정.
+## Three-line Summary
+
+SR+MA: flapless 즉시식립 시 peri-implant
+
+gap에 골이식 추가 vs 비추가
+
+— hard/soft tissue 변화를 평가; RCT 한정.
+
+## 세줄요약
+
+SR+MA: flapless 즉시식립 시 peri-implant
+
+gap에 골이식 추가 vs 비추가
+
+— hard/soft tissue 변화를 평가; RCT 한정.
 
 ## 1. Document Information
 - **Title**: Flapless Immediate Implant Placement With and Without Bone Grafting: A Systematic Review and Meta-Analysis
@@ -35,7 +48,7 @@ Pre-registered protocol. RCT included only. Meta-analyses where feasible; otherw
 Flapless 즉시식립은 연조직 보존에 유리하지만 jump space ≥2 mm 시 골이식 동반이 권장. 단, RCT 수 제한적이고 follow-up 다양.
 
 ## 6. Related Work
-- [[immediate-implant/seyssens-2022-immediate-implant-socket-grafting-sr-ma]] — general IIP + socket grafting SR+MA
+- [[immediate-implant/gap-grafting/seyssens-2022-immediate-implant-socket-grafting-sr-ma]] — general IIP + socket grafting SR+MA
 - [[immediate-implant/pitman-2023-immediate-implant-flap-flapless-sr-ma]] — flap vs flapless SR+MA — 동일 cosyn 그룹
 
 ## 7. Limitations and Future Work

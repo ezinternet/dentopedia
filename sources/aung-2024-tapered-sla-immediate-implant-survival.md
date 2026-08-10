@@ -15,15 +15,23 @@ text_filename: aung-2024-tapered-sla-immediate-implant-survival.txt
 
 ## Why Ingested
 
-A site-specific (positional) survival breakdown for immediately-placed tapered SLA bone-level implants — it sharpens the pooled SR+MA picture of [[immediate-implant/patel-2023-immediate-vs-delayed-implant-survival-sr-ma]] by showing *where* immediate placement fails (maxillary anterior/molar, all sinus-related) vs where it is reliable (mandible 100%, premolar 100%), and complements the tapered-implant primary-stability focus of [[immediate-implant/sierra-rebolledo-2021-undersized-drilling-immediate-tapered-implants-maxilla]].
+A site-specific (positional) survival breakdown for immediately-placed tapered SLA bone-level implants — it sharpens the pooled SR+MA picture of [[immediate-implant/patel-2023-immediate-vs-delayed-implant-survival-sr-ma]] by showing *where* immediate placement fails (maxillary anterior/molar, all sinus-related) vs where it is reliable (mandible 100%, premolar 100%), and complements the tapered-implant primary-stability focus of [[immediate-implant/primary-stability/sierra-rebolledo-2021-undersized-drilling-immediate-tapered-implants-maxilla]].
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective single-surgeon SNU study of 49 immediately placed tapered SLA internal-submerged bone-level implants (34 patients, 5–14 yr follow-up): cumulative 5-yr survival 93.88%, with 100% in the mandible and both premolar regions, lowest in maxillary anterior (85.38%); all 3 failures were maxillary sinus–related.
+Retrospective single-surgeon cohort (SNUDH, 34 patients, 49 immediately placed tapered SLA bone-level implants, 5–14 yr follow-up) evaluating positional survival outcomes of a two-stage immediate-placement protocol without routine grafting.
 
-## 한줄요약
+Cumulative 5-yr survival 93.88%; mandible and premolar regions achieved 100%, maxillary anterior was lowest at 85.38%, and all 3 failures were maxillary sinus–related; progressive marginal bone gain (not loss) was observed through 5 years.
 
-서울대 단일 술자 후향연구 49개 즉시식립 tapered SLA 골수준 임플란트(환자 34명, 5–14년): 5년 누적 생존율 93.88%, 하악 전 부위·상하악 소구치부 100%, 상악 전치부 최저(85.38%), 실패 3개 모두 상악동 병변 연관.
+Position-specific risk framing supports site-by-site decision-making for immediate implant placement: mandible and premolar sites are highly predictable; maxillary anterior/molar sites with sinus involvement warrant caution or additional procedures.
+
+## 세줄요약
+
+서울대 단일 술자 후향 코호트(환자 34명, 즉시식립 tapered SLA 골수준 임플란트 49개, 5–14년 추적) — 2단계 즉시식립 프로토콜의 부위별 생존율 평가.
+
+5년 누적 생존율 93.88%; 하악 전 부위·상하악 소구치부 100%, 상악 전치부 최저(85.38%); 실패 3개 모두 상악동 병변 연관; 5년간 변연골 소실이 아닌 골 획득(Bone Gain) 관찰.
+
+부위별 위험 분류에 따른 임상 의사결정 근거 — 하악 및 소구치부는 높은 예측성, 상악동 관련 상악 전치·구치부는 추가 처치 또는 신중한 환자 선택 필요.
 
 ## 1. Document Information
 

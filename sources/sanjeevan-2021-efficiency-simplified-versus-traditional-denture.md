@@ -13,13 +13,21 @@ source_collection: external
 
 Existing wiki pages on complete denture fabrication (e.g., [[wiki/complete-denture/khorasani-2024-3d-printed-vs-milled-complete]]) focus on digital/CAD-CAM methods; this SR+MA (n=19 RCTs) specifically benchmarks simplified chair-side impression/jaw-record techniques against conventional multi-appointment workflows, filling a gap in evidence on clinical time, cost, and patient-reported outcomes for resource-limited settings.
 
-## One-line Summary
+## Three-line Summary
 
 SR+MA of 19 RCTs found simplified complete denture fabrication saves ~77 min of clinical time and ~$86 USD in cost per case with no significant difference in patient satisfaction or OHRQoL at 6 months versus conventional technique.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 19개 RCT의 SR+MA에서 간소화 총의치 제작법은 기존법 대비 임상시간 약 77분, 비용 약 86달러 절감, 환자만족도 및 구강건강관련 삶의질(OHRQoL)에서는 유의한 차이 없음.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

@@ -6,7 +6,7 @@ date: 2024-05-02
 doi: 10.1055/s-0044-1782214
 journal: European Journal of Dentistry 18(4):1101-1106
 source: furlan-2024-apical-foramen-morphology-efl-accuracy.md
-confidence: in-vitro
+evidence_level: in-vitro
 category: [endodontics/eal]
 pdf_path: /Users/oracleneo/llm-wiki/papers/furlan-2024-apical-foramen-morphology-efl-accuracy.pdf
 pdf_filename: furlan-2024-apical-foramen-morphology-efl-accuracy.pdf
@@ -14,11 +14,21 @@ source_collection: external
 tags: [EAL, EFL, apical-foramen, foramen-morphology, rootzx, raypex, working-length, in-vitro]
 ---
 
-## One-line Summary
-In vitro study (30 mandibular premolars, alginate model) of 4 electronic foramen locators (EFL): all accurate in fully formed apices, but divergent (open) apical foramina significantly reduced Raypex 6 and CanalPro accuracy (p<0.05) while RootZX II and EPex Pro were unaffected; penetration depth (0.0 vs −1.0 mm) had no effect.
+## Three-line Summary
 
-## 한줄요약
-In vitro 30개 소구치: 4종 EFL 모두 정상 근첨에서 정확; 발산형(divergent) 근첨공에서 Raypex 6·CanalPro 정확도 저하(p<0.05); RootZX II·EPex Pro는 영향 없음
+In vitro study of 30 mandibular premolars mounted in alginate, testing four electronic foramen locators (RootZX II, Raypex 6, EPex Pro, CanalPro) across three apical foramen morphologies: fully formed, immature parallel-walled, and immature divergent.
+
+All devices were accurate in fully formed foramina; divergent apical morphology significantly reduced accuracy for Raypex 6 and CanalPro (p<0.05) but left RootZX II and EPex Pro unaffected; penetration depth (0.0 vs −1.0 mm) had no significant effect on any device.
+
+For open or divergent apices (young patients, root resorption), RootZX II or EPex Pro are preferable over Raypex 6 or CanalPro; in normal anatomy all four devices are interchangeable.
+
+## 세줄요약
+
+In vitro 연구, 하악 소구치 30개를 알지네이트 모델에 거치 후 EFL 4종(RootZX II, Raypex 6, EPex Pro, CanalPro)을 정상·미성숙 평행벽·미성숙 발산형 세 가지 근첨공 형태에서 비교.
+
+정상 근첨에서는 4종 모두 정확; 발산형(divergent) 근첨공에서 Raypex 6·CanalPro의 정확도 유의하게 저하(p<0.05), RootZX II·EPex Pro는 영향 없음; 삽입 깊이(0.0 vs −1.0mm)는 어느 기기에도 유의한 영향 없음.
+
+개방/발산형 근첨(미성숙·흡수) 증례에서는 RootZX II 또는 EPex Pro를 선택, Raypex 6·CanalPro는 주의; 정상 근첨에서는 4종 모두 대체 가능.
 
 ## Summary
 In vitro study (30 mandibular premolars, alginate model) comparing RootZX II, Raypex 6, EPex Pro, and CanalPro across 3 foramen morphologies: fully formed, immature parallel walls, immature divergent walls. All devices accurate in normal anatomy; divergent foramen negatively affects Raypex 6 and CanalPro at 0.0mm penetration.

@@ -1,0 +1,53 @@
+{
+  "slug": "halitosis",
+  "date": "2026-07-01",
+  "title": "구취(할리토시스) 자가테스트",
+  "emoji": "😮‍💨",
+  "category": "perio-maintenance",
+  "agenda": "agenda/2026-07-01_halitosis-education.md",
+  "source_wiki": [
+    "wiki/overviews/halitosis-etiology-measurement-management-overview.md",
+    "wiki/halitosis/silva-2017-estimated-prevalence-halitosis-sr.md",
+    "wiki/halitosis/szalai-2023-organoleptic-halitometric-assessments-do-not.md",
+    "wiki/halitosis/wang-2024-association-between-halitosis-and.md",
+    "wiki/halitosis/dou-2016-halitosis-helicobacter-pylori-meta-analysis.md",
+    "wiki/halitosis/huang-2022-efficacy-of-probiotics-in.md",
+    "wiki/halitosis/wang-2022-clinical-efficacy-photodynamic-therapy.md"
+  ],
+  "overview": {
+    "path": "overviews/halitosis-etiology-measurement-management-overview",
+    "label": "구취 원인·측정·관리 종합 overview"
+  },
+  "questions": [
+    { "q": "구취(할리토시스) 원인의 대다수(80–90%)는 어디에서 비롯되나?",
+      "opts": ["소화기(위장) 문제", "구강내 — 설태·치주염·구강위생 불량", "이비인후과 문제", "약물 부작용"],
+      "ans": 1,
+      "rat": "구취의 80–90%는 구강내 원인(특히 설태·치주염). 10–20%만 구강외(이비인후·소화기·약물).",
+      "cite": "overviews/halitosis-etiology-measurement-management-overview" },
+    { "q": "성인 구취의 대략적 유병률은?",
+      "opts": ["약 5%", "약 15%", "약 32%", "약 60%"],
+      "ans": 2,
+      "rat": "인구기반 SR: 유병률 31.8%(95% CI 24.6–39.0). 흔한 문제.",
+      "cite": "halitosis/silva-2017-estimated-prevalence-halitosis-sr" },
+    { "q": "구취 측정의 임상 기준(gold standard)은?",
+      "opts": ["할리미터(휘발성황화합물 측정기) 수치", "관능검사(코로 맡는 OLT)", "타액 pH", "환자 자가보고"],
+      "ans": 1,
+      "rat": "관능검사(OLT)가 유일한 임상 기준. 할리미터 등 기기는 OLT와 중등도 상관(r=0.65–0.76)에 불과해 대체 불가.",
+      "cite": "halitosis/szalai-2023-organoleptic-halitometric-assessments-do-not" },
+    { "q": "치주염과 구취의 관계로 옳은 것은?",
+      "opts": ["관련 없음", "구취 위험을 약 4배 높인다", "구취를 낮춘다", "청소년에서만 관련"],
+      "ans": 1,
+      "rat": "치주염 환자에서 구취 위험 약 4배 증가(OR 4.05–4.52). 치주 평가가 구취 접근의 핵심 축.",
+      "cite": "halitosis/wang-2024-association-between-halitosis-and" },
+    { "q": "구강 관리로 개선되지 않는 지속적 구취에서, 원인 검사로 고려할 수 있는 것은?",
+      "opts": ["헬리코박터 파일로리(H. pylori) 검사", "혈당 검사만", "알레르기 검사", "아무 검사도 불필요"],
+      "ans": 0,
+      "rat": "H. pylori 감염 시 구취 위험 2.85배, 제균 성공 후 유의 감소(RR 0.17, 약 83%↓). 지속 구취에서 고려.",
+      "cite": "halitosis/dou-2016-halitosis-helicobacter-pylori-meta-analysis" },
+    { "q": "프로바이오틱스의 구취 근거상 위치로 옳은 것은?",
+      "opts": ["단독 표준치료로 충분", "단기(≤4주) VSC 감소는 있으나 근거 일관성 부족 — 보조요법", "효과 전혀 없음", "장기 완치 입증"],
+      "ans": 1,
+      "rat": "단기 VSC·관능점수 감소는 있으나 4주 후 효과 소실, 일부 메타분석은 비유의(p=0.53). 단독 표준치료 근거는 부족 — 보조요법.",
+      "cite": "halitosis/huang-2022-efficacy-of-probiotics-in" }
+  ]
+}

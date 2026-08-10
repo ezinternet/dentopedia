@@ -6,20 +6,28 @@ date: 2023-10-16
 doi: 10.3390/biom13101528
 source: alqutaibi-2023-cap-bacterial-reduction-implants-sr.md
 category: [implants/surface/plasma]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/alqutaibi-2023-cap-bacterial-reduction-implants-sr.pdf
 pdf_filename: alqutaibi-2023-cap-bacterial-reduction-implants-sr.pdf
 source_collection: external
 tags: [plasma, decontamination, peri-implantitis, biofilm, implant-surface]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (MEDLINE/PubMed + EMBASE; 15 studies): CAP effectively reduced bacterial loads on dental implant surfaces (incl. S. mitis, S. aureus) and combated biofilm/plaque relevant to peri-implantitis — promising decontamination, mostly pre-clinical evidence.
+Systematic review (MEDLINE/PubMed + EMBASE to May 2023; 15 controlled studies included) specifically targeting CAP's bactericidal efficacy on dental implant surfaces relevant to peri-implantitis.
 
-## 한줄요약
+CAP effectively reduced bacterial loads of clinically relevant species including S. mitis and S. aureus, and combated biofilm and plaque formation across the included studies.
 
-체계적 문헌고찰(15편): CAP는 임플란트 표면 세균(S. mitis, S. aureus 등)을 효과적으로 감소, 임플란트주위염 관련 바이오필름·플라크 억제 — 제염 옵션으로 유망하나 대체로 전임상.
+The evidence base is predominantly pre-clinical (in vitro/animal); no pooled quantitative estimate was reported and clinical peri-implantitis outcomes remain unavailable, limiting immediate clinical guideline translation.
+
+## 세줄요약
+
+줄1: 체계적 문헌고찰(MEDLINE/PubMed+EMBASE; 2023년 5월까지; 대조군 포함 15편): 임플란트주위염 관련 CAP의 임플란트 표면 살균 효과 특화 합성.
+
+줄2: S. mitis·S. aureus 등 임상 관련 균종의 세균 부하 효과적 감소, 바이오필름·플라크 억제 확인.
+
+줄3: 근거의 대부분이 전임상(in vitro/동물); 통합 정량적 추정치 없고 임상 임플란트주위염 결과 데이터 부재 — 즉각적 임상 지침 적용 제한.
 
 ## Summary
 

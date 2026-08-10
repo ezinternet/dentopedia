@@ -13,13 +13,21 @@ source_collection: external
 
 기존 [[tmj/zheng-2023-unilateral-chewing-tmj-structure-tmd-review]]는 편측저작(habitual chewing side)이 TMD 위험인자라는 narrative review였으나, 임상에서 "어느 쪽으로 씹는지가 통증 쪽과 일치하는가"의 직접 측정 근거는 부족했다. 본 cross-sectional double-blind 연구(Santana-Mora 2021)는 교합치료 이력이 없는 정상교합 만성 편측 TMD 환자 24명에서 저작측·과로(condylar path, CP)·측방유도(lateral guidance, LG)를 정량 측정하여, 통증측 = 습관저작측 + steep CP + flat LG의 측면 dimorphism을 실측 데이터로 보강한다. [[tmj/kapos-2020-temporomandibular-disorders-aetiology-diagnosis-review]]의 "etiology unknown" 명제에 말초 biodynamic 인자 후보를 추가한다.
 
-## One-line Summary
+## Three-line Summary
 
 Cross-sectional double-blind study (n=24, chronic unilateral TMD, untreated normal occlusion): the habitual chewing side coincided with the TMD-painful side in 15/17 (Kappa=0.767), with a steeper condylar path (50.5° vs 45.5°, P=0.002) and flatter lateral guidance (38.0° vs 47.5°, P<0.001) on the affected side.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 교합치료 이력 없는 정상교합 만성 편측 TMD 환자 24명 단면연구: 습관저작측이 통증측과 일치(17명 중 15명, Kappa=0.767)했고, 통증측은 과로각이 더 가파르고(50.5° vs 45.5°, P=0.002) 측방유도각이 더 평평했다(38.0° vs 47.5°, P<0.001).
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

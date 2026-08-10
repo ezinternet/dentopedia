@@ -9,8 +9,21 @@ pdf_filename: pitman-2022-immediate-implant-provisionalization-sr-ma.pdf
 source_collection: external
 ---
 
-## One-line Summary
-즉시식립 후 즉시임시치관 유무에 따른 임플란트 생존율, MBL, 연조직 결과 비교 SR+MA.
+## Three-line Summary
+
+즉시식립 후 즉시임시치관 유무에
+
+따른 임플란트 생존율, MBL,
+
+연조직 결과 비교 SR+MA.
+
+## 세줄요약
+
+즉시식립 후 즉시임시치관 유무에
+
+따른 임플란트 생존율, MBL,
+
+연조직 결과 비교 SR+MA.
 
 ## 1. Document Information
 - **Title**: Immediate implant placement with or without immediate provisionalization: A systematic review and meta-analysis
@@ -36,7 +49,7 @@ PubMed/Medline/Cochrane 검색; RCT 및 전향적 연구 포함.
 단기 자료 중심; 전치부 위주.
 
 ## 6. Related Work
-- [[immediate-implant/wittneben-2023-immediate-implant-loaded-single-crown-sr]] — related
+- [[immediate-implant/loading-protocol/wittneben-2023-immediate-implant-loaded-single-crown-sr]] — related
 - [[immediate-implant/esthetic-soft-tissue/gaddale-2024-immediate-implant-loading-esthetic-tissue-sr-ma]] — related
 
 ## 7. Glossary

@@ -13,13 +13,21 @@ source_collection: external
 
 미니피그 동물모델 임플란트 연구의 해석 기준을 확립하기 위해 수집. 표면처리, 골유착 기전, 수술 프로토콜 관련 동물 연구를 평가할 때 BIC 기준값 및 모델 특성을 알아야 하므로, [[wiki/implants/bosshardt-2017-osseointegrated-titanium-zirconia-review]]의 골유착 기전 리뷰를 보완하는 전임상 모델 메타데이터 기반으로 활용.
 
-## One-line Summary
+## Three-line Summary
 
 SR+MA of 55 minipig intraoral implant studies (n≈550 animals): mean BIC 59.88% (95% CI 57.43–62.33), increasing significantly over time, with high heterogeneity (I²>90%) explained by observation interval and implant surface.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 미니피그 구내 임플란트 모델 55편 SR+MA: 평균 골-임플란트 접촉률(BIC) 59.88%, 관찰기간 및 임플란트 표면에 따라 유의한 차이, 이종성 매우 높음(I²>90%).
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

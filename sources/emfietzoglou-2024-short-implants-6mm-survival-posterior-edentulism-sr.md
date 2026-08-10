@@ -13,13 +13,21 @@ source_collection: external
 
 [[overviews/short-implant-vs-sinus-augmentation-decision]] 에서 "short implant" 정의(≤6 mm)를 엄격히 한정한 RCT-only 근거를 보강하기 위해 인제스트. 기존 pooling SR/MA들이 4–8 mm를 묶은 데 비해, 본 SR은 ≤6 mm vs >6 mm를 분리해 가장 짧은 임플란트의 생존·MBL·주위염을 평가.
 
-## One-line Summary
+## Three-line Summary
 
 Systematic review of RCTs comparing short (≤6 mm) vs longer (>6 mm) rough-surface implants in posterior partial edentulism, assessing survival, marginal bone loss, peri-implantitis, and technical complications (≥1-year post-loading).
 
-## 한줄요약
+Short implants positioned as an alternative to bone-regeneration procedures for resorbed ridges; outcomes include survival rates, peri-implant marginal bone loss, peri-implantitis prevalence, and technical complications.
+
+Strict ≤6 mm definition and RCT-only inclusion with rough-surface restriction narrows the evidence pool, but provides high-quality comparability for the most aggressive length reduction.
+
+## 세줄요약
 
 RCT 체계적 문헌고찰 — 후방 부분무치악에서 short(≤6 mm) vs longer(>6 mm) 거친표면 임플란트의 생존율·변연골소실·주위염·기술적 합병증 비교(≥1년 하중 후).
+
+골소실 치조골에서 short 임플란트를 골재생술의 대안으로 위치; 결과 측정은 생존율, 변연골소실, 주위염 유병률, 기술적 합병증 포함.
+
+≤6 mm 엄격한 정의 및 RCT만 포함, 거친표면 한정으로 근거풀이 축소되나, 가장 극단적인 길이 감소에 대한 높은 품질 비교가능성 제공.
 
 ## 1. Document Information
 - Dentistry Journal (Dent J) 2024;12(6):185. Published 2024-06-17. Open access (MDPI, CC BY).

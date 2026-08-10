@@ -6,7 +6,7 @@ date: 2020-01-01
 doi: 10.5125/jkaoms.2020.46.1.58
 source: kwon-2020-closure-oroantral-fistula-local.md
 category: oral-surgery
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/kwon-2020-closure-oroantral-fistula-local.pdf
 pdf_filename: kwon-2020-closure-oroantral-fistula-local.pdf
 source_collection: external
@@ -18,13 +18,21 @@ relations:
     target: kim-2019-definition-management-odontogenic-maxillary
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review with case series (Kyung Hee University) of local flap techniques for OAF closure — buccal advancement flap (small OAFs), buccal fat pad (medium-large), palatal rotational flap (> 10 mm) — with a size-and-sinusitis decision algorithm.
+Narrative review with illustrative case series (Kyung Hee University OMS) describing three local flap techniques for oroantral fistula (OAF) closure — buccal advancement flap (small OAFs), buccal fat pad (medium-large defects), palatal rotational flap (>10 mm) — with a size-and-sinusitis decision algorithm.
 
-## 한줄요약
+Buccal advancement flap is simplest but reduces buccal sulcus depth; buccal fat pad preserves sulcus depth and self-epithelializes in 2–6 weeks; palatal rotational flap provides the most robust tissue for large defects but leaves a raw donor site requiring secondary healing.
 
-구강상악동루 (Oroantral Fistula, OAF) 국소 피판 폐쇄술 서술적 문헌고찰: 크기 기반 알고리즘(< 3 mm 자연치유 관찰, < 5 mm 단순봉합, ≥ 5 mm 피판)과 협측 전진 피판·협측 지방 패드·구개 회전 피판의 적응증·장단점 비교.
+Sinusitis must be controlled before fistula closure — the OAF tract acts as drainage and premature closure risks worsening sinus disease; closure within 48 hours of onset achieves the best outcomes.
+
+## 세줄요약
+
+경희대 구강악안면외과 서술적 문헌고찰·증례 시리즈: 구강상악동루(OAF) 폐쇄를 위한 3가지 국소 피판술 — 협측 전진 피판(소형), 협측 지방 패드(중대형), 구개 회전 피판(10 mm 초과) — 크기·상악동염 기반 의사결정 알고리즘 포함.
+
+협측 전진 피판은 기술적으로 단순하나 협측 소구 깊이 감소; 협측 지방 패드(Buccal Fat Pad, BFP)는 소구 보존·2–6주 내 자연 재상피화; 구개 회전 피판은 대형 결손에 가장 강건하나 공여부 노출 골 이차치유 필요.
+
+상악동염이 있으면 피판 폐쇄 전 감염 조절 필수(루공은 배농 경로 역할); 발생 48시간 내 폐쇄 시 성공률 최고.
 
 ## Summary
 
@@ -88,6 +96,6 @@ All OAF cases presented were treated successfully with complete closure using th
 
 ## Related Papers
 
-- [[oral-medicine/lin-2024-odontogenic-maxillary-sinusitis-expert-consensus]] — OMS expert consensus: FESS sequencing, sinus-lift OMS prevention; this paper provides the OAF-specific surgical closure detail
-- [[oral-medicine/kim-2019-definition-management-odontogenic-maxillary]] — OMS definition and management framework; this paper extends with flap technique specifics
-- [[oral-medicine/psillas-2020-odontogenic-maxillary-sinusitis-comprehensive-review]] — comprehensive OMS review; complementary ENT perspective on sinusitis management before/after OAF closure
+- [[oral-medicine/odontogenic-sinusitis/lin-2024-odontogenic-maxillary-sinusitis-expert-consensus]] — OMS expert consensus: FESS sequencing, sinus-lift OMS prevention; this paper provides the OAF-specific surgical closure detail
+- [[oral-medicine/odontogenic-sinusitis/kim-2019-definition-management-odontogenic-maxillary]] — OMS definition and management framework; this paper extends with flap technique specifics
+- [[oral-medicine/odontogenic-sinusitis/psillas-2020-odontogenic-maxillary-sinusitis-comprehensive-review]] — comprehensive OMS review; complementary ENT perspective on sinusitis management before/after OAF closure

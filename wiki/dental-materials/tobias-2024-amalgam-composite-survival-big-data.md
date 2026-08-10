@@ -6,18 +6,29 @@ date: 2024-06-10
 doi: 10.3390/bioengineering11060579
 source: tobias-2024-amalgam-composite-survival-big-data.md
 category: [dental-materials]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/tobias-2024-amalgam-composite-survival-big-data.pdf
 pdf_filename: tobias-2024-amalgam-composite-survival-big-data.pdf
 source_collection: external
 tags: [amalgam, composite-resin, survival-rate, big-data, real-world, maccabi, multi-surface, single-surface, failure-rate, cox-regression]
+relations:
+  - type: contradicts
+    target: al-sulimman-2025-composite-amalgam-failure-risk-sr-ma
 ---
 
-## One-line Summary
-Big-data retrospective cohort (Israel Maccabi, 58 clinics, 650,000+ patients, 2014–2021): amalgam annual failure rate 3.5% vs composite 4.5%; HR 1.29; significant difference only in multi-surface composite restorations.
+## Three-line Summary
+Retrospective cohort using electronic records from 58 Israeli Maccabi clinics (>650,000 patients, ~260,905 with restorations, 2014–2021), comparing amalgam and composite resin survival by Kaplan-Meier and Cox regression adjusted for age, sex, surface number, tooth type, and operator.
 
-## 한줄요약
-Big-data 후향적 코호트 (이스라엘 Maccabi, 58개소, 650,000명 이상, 2014–2021): 아말감(Amalgam) 연간 실패율 3.5% vs 복합레진(Composite Resin) 4.5%; HR 1.29; 다면(Multi-surface) 레진에서만 유의한 차이.
+Annual failure rate: amalgam 3.5% vs composite 4.5% (HR 1.29, p<0.001), driven by multi-surface composite restorations; single-surface restorations showed no significant difference between materials.
+
+In the era of Minamata Convention mercury restrictions, multi-surface composite carries measurably higher real-world failure risk than amalgam, while single-surface composites are comparable in longevity.
+
+## 세줄요약
+이스라엘 Maccabi 58개 클리닉의 전자 건강 기록(환자 65만 명 이상, 약 26만 905명 수복물 보유, 2014–2021)을 이용한 후향적 코호트로, 나이·성별·면 수·치아 유형·술자 보정 Cox 회귀분석 시행.
+
+연간 실패율: 아말감(Amalgam) 3.5% vs 복합레진(Composite Resin) 4.5%(HR 1.29, p<0.001) — 다면(Multi-surface) 복합레진이 주요 원인; 단면(Single-surface) 수복물은 재료 간 유의한 차이 없음.
+
+미나마타 협약(Minamata Convention) 수은 규제 시대에 다면 복합레진은 실세계에서 아말감보다 유의하게 높은 실패 위험을 보이나, 단면 수복물에서는 두 재료의 수명이 동등.
 
 ## Summary
 Largest real-world dataset comparing amalgam and composite resin restoration survival. Retrospective cohort using electronic health records from 58 dental clinics (440 dental units) in the Maccabi Healthcare Fund (Israel), 2014–2021. Primary outcome: restoration failure defined as replacement, root canal treatment, or extraction within follow-up. Kaplan-Meier survival analysis and Cox proportional hazards regression with adjustment for age, sex, number of surfaces, tooth type, and operator.

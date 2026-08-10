@@ -6,7 +6,7 @@ date: 2025-04-14
 doi: 10.1093/jac/dkaf118
 source: mendez-romero-2025-antibiotic-stewardship-dentistry-sr.md
 category: [drug/antibiotics]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "40243511"
@@ -24,13 +24,21 @@ relations:
     target: sutej-2024-antibiotic-prescribing-trends-dentistry-croatia
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 23 studies (1997–2023) shows antibiotic stewardship interventions — especially audit+feedback and audit+education — reduce inappropriate antibiotic prescribing among dentists by 70% (95% CI 33.3%–86.4%), with RCT-only subgroup showing 63.9% reduction; evidence quality is low due to predominance of uncontrolled pre-post designs.
+SR+MA (23 studies 1997–2023, 6 databases; first meta-analysis of dental antibiotic stewardship interventions) covering dentist-level prescribing outcomes; dentists prescribe ~10% of all antibiotics globally with 50–80% inappropriate rates.
 
-## 한줄요약
+Stewardship interventions reduced inappropriate antibiotic prescribing by 70% overall (95% CI 33.3%–86.4%); audit+feedback achieved 75.0% reduction and audit+education 73.3%; RCT-only subgroup (2 RCTs, I²=0%) showed 63.9% reduction — a more reliable estimate.
 
-항생제 청지기 SR+MA (23개 연구, 1997–2023): 감사+피드백 (Audit and Feedback, A&F) 및 감사+교육 기반 중재가 치과의사의 부적절 처방을 70% 감소시키며, 이는 임상에서 실행 가능한 가장 효과적인 항균제 내성 (Antimicrobial Resistance, AMR) 대응 전략임.
+Evidence quality is low (20/23 studies were uncontrolled pre-post designs; predominantly UK studies) — active/personalized feedback outperforms passive strategies; higher-quality RCTs and studies from under-researched regions (Latin America, Africa) are urgently needed.
+
+## 세줄요약
+
+항생제 청지기(Antibiotic Stewardship) SR+MA (23편, 1997–2023, 6개 DB): 치과의사 대상 항생제 중재 효과를 정량화한 최초 메타분석; 전 세계 항생제 처방의 ~10%가 치과 처방이며 부적절 처방률 50–80%.
+
+전체 중재군에서 부적절 처방 70% 감소(95% CI 33.3–86.4%); 감사+피드백(Audit and Feedback, A&F) 75.0%, 감사+교육(Audit and Education) 73.3%; RCT만의 추정치는 63.9%(I²=0%)로 더 신뢰할 수 있는 수치.
+
+근거 수준 낮음(20/23편이 비교군 없는 사전-사후 설계; 영국 편중) — 개인화 피드백 전략이 수동적 전략보다 효과적; 라틴아메리카·아프리카 등 고-처방률 지역의 RCT가 시급히 필요.
 
 ## Summary
 
@@ -101,9 +109,9 @@ The quality of the evidence is rated as low. Twenty of 23 studies used pre-post 
 
 ## Related Papers
 
-- [[drug/mendez-millan-2024-antibiotic-overprescription-apical-periodontitis-sr-ma]] — SR+MA on inappropriate antibiotic prescribing rates in apical periodontitis; this paper extends by providing intervention effectiveness data
-- [[drug/sbricoli-2024-antibiotic-prescribing-habits-dentistry-survey]] — International survey of dentist prescribing habits (baseline data this SR's interventions would address)
-- [[drug/sutej-2024-antibiotic-prescribing-trends-dentistry-croatia]] — Prescribing trends study; reinforced by stewardship effectiveness evidence here
-- [[drug/bazsefidpay-2023-antibiotic-restrictive-use-adherence-recommendation]] — Adherence to antibiotic restriction recommendations; contextualizes compliance gap this SR addresses
-- [[drug/thompson-2023-dental-antibiotic-stewardship-core-outcome-set]] — Core outcome set for dental antibiotic stewardship research; methodologically related
-- [[drug/sandulescu-2024-antibiotic-prescribing-dental-best-practices-review]] — Best practices review for antibiotic prescribing in dentistry; policy complement to this SR
+- [[drug/antibiotics/mendez-millan-2024-antibiotic-overprescription-apical-periodontitis-sr-ma]] — SR+MA on inappropriate antibiotic prescribing rates in apical periodontitis; this paper extends by providing intervention effectiveness data
+- [[drug/antibiotics/sbricoli-2024-antibiotic-prescribing-habits-dentistry-survey]] — International survey of dentist prescribing habits (baseline data this SR's interventions would address)
+- [[drug/antibiotics/sutej-2024-antibiotic-prescribing-trends-dentistry-croatia]] — Prescribing trends study; reinforced by stewardship effectiveness evidence here
+- [[drug/antibiotics/bazsefidpay-2023-antibiotic-restrictive-use-adherence-recommendation]] — Adherence to antibiotic restriction recommendations; contextualizes compliance gap this SR addresses
+- [[drug/antibiotics/thompson-2023-dental-antibiotic-stewardship-core-outcome-set]] — Core outcome set for dental antibiotic stewardship research; methodologically related
+- [[drug/antibiotics/sandulescu-2024-antibiotic-prescribing-dental-best-practices-review]] — Best practices review for antibiotic prescribing in dentistry; policy complement to this SR

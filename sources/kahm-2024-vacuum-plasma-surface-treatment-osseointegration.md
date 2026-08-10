@@ -13,13 +13,21 @@ source_collection: external
 
 플라즈마 배치(2026-05-31)에서 vacuum plasma(진공 플라즈마, 산업체 Plasmapp) 변형 + ISQ/조직계측 동시 측정 in vivo. **결과가 유의하지 않은 음성(null) 근거**라, 배치 내 동물연구들의 "방향은 일관되나 개별 연구 검정력 부족" 패턴을 보여주는 중요한 균형추. [[wiki/implants/surface/plasma/nevins-2023-gas-plasma-titanium-implant-osseointegration]]·[[wiki/implants/surface/plasma/naujokat-2019-cold-argon-plasma-osseointegration-pigs]]의 양성 동물 결과와 직접 대비된다.
 
-## One-line Summary
+## Three-line Summary
 
-In vivo rabbit study (18 SLA implants in 6 rabbits, femur, 4 weeks): vacuum-plasma (VP) treated implants showed higher bone area ratio, bone volume, and ISQ than controls, but none of the differences reached statistical significance; both groups achieved good osseointegration.
+In vivo rabbit study (18 SLA implants in 6 rabbits, femur placement, 4-week sacrifice) comparing untreated SLA implants with vacuum-plasma (VP)-treated SLA implants, using histomorphometry (bone area ratio, BIC), micro-CT (bone volume), and RFA (ISQ) as endpoints.
 
-## 한줄요약
+VP-treated implants showed directionally higher bone area ratio, bone volume, and ISQ than controls, but none of the differences reached statistical significance; both groups achieved good osseointegration.
 
-토끼 in vivo(SLA 임플란트 18개, 6마리, 대퇴골, 4주): 진공 플라즈마(VP) 처리군이 골면적비·골량·임플란트 안정성지수(ISQ)가 대조군보다 높았으나, 어느 항목도 통계적 유의차에 도달하지 못함. 두 군 모두 양호한 골유착.
+The study is underpowered (18 implants, single timepoint) and industry-affiliated; its honest null result is an important counterpoint to positive animal plasma studies and underscores the need for adequately powered confirmatory trials.
+
+## 세줄요약
+
+토끼 6마리 대퇴골에 SLA 임플란트 18개(무처리 대조 vs 진공 플라즈마(VP) 처리)를 식립하고 4주 후 희생해 조직계측(골면적비·BIC)·micro-CT(골량)·RFA(ISQ)로 평가한 in vivo 연구이다.
+
+VP 처리군에서 골면적비·골량·ISQ 모두 수치상 높았으나, 어느 항목도 통계적 유의차에 도달하지 못했으며 두 군 모두 양호한 골유착을 보였다.
+
+소표본(임플란트 18개)·단일 시점·산업체 협력 연구로 검정력이 부족하며, 이 음성(null) 결과는 긍정적 동물연구들에 대한 중요한 균형추 역할을 한다.
 
 ## 1. Document Information
 
@@ -37,6 +45,7 @@ In vivo rabbit study (18 SLA implants in 6 rabbits, femur, 4 weeks): vacuum-plas
 
 - 18 SLA implants; untreated vs vacuum-plasma (VP) treated; placed in femurs of 6 rabbits.
 - Sacrifice at 4 weeks. Endpoints: BIC and bone area ratio (BA) histology, bone volume + ISQ (micro-CT/RFA).
+- **Device parameters (added 2026-08-10, re-checked PDF for a user question on vacuum-plasma treatment times):** ACTILINK™ mini (Plasmapp Co., Ltd., Daejeon, South Korea). Implant inserted into device slot; vacuum formed by 10 s pumping to ~5 Torr; **VP-treated for 60 s**. DBD configuration — polyethylene packaging as dielectric barrier, device metal body as powered electrode, implant grounded via pumping outlet. No external gas.
 
 ## 4. Key Results and Benchmarks
 
@@ -60,3 +69,4 @@ In vivo rabbit study (18 SLA implants in 6 rabbits, femur, 4 weeks): vacuum-plas
 
 - Vacuum plasma (VP) = 진공 플라즈마. ISQ = implant stability quotient (임플란트 안정성 지수).
 - BA = bone area ratio (골면적비); SLA = sand-blasted, large-grit, acid-etched.
+- DBD = dielectric barrier discharge (유전체 장벽 방전). ACTILINK™ mini = Plasmapp사(社)의 체어사이드 진공 플라즈마 장비, 60초/사이클.

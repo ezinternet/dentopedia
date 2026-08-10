@@ -6,7 +6,7 @@ date: 2022-04-30
 doi: 10.1111/iej.13758
 source: karaoglan-2022-single-two-visit-retreatment-periapical-rct.md
 category: [endodontics/visit-protocol]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/karaoglan-2022-single-two-visit-retreatment-periapical-rct.pdf
 pdf_filename: karaoglan-2022-single-two-visit-retreatment-periapical-rct.pdf
 source_collection: external
@@ -18,13 +18,21 @@ relations:
     target: schwendicke-2017-single-visit-multiple-visit-rct-sr-ma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-RCT (n=100, single-rooted asymptomatic retreatment teeth with periapical lesions, 24-mo follow-up): single-visit (CHX final irrigation) vs two-visit (Ca(OH)₂ dressing) root canal retreatment showed no significant difference in healing (88.6% vs 86.7% healed, p>.05); lesion size and pre-op filling length affected outcome.
+RCT (n=100, single-rooted asymptomatic root-canal-treated teeth with periapical lesions, 24-month follow-up) comparing single-visit retreatment (2% CHX final irrigation) vs two-visit retreatment (Ca(OH)₂ inter-appointment dressing).
 
-## 한줄요약
+Healing was equivalent between groups at 24 months (single-visit 88.6% vs two-visit 86.7% healed, p>.05); periapical lesion size and pre-operative root-filling length significantly affected outcome.
 
-RCT (n=100, 근단병소 동반 무증상 단근 재치료치, 24개월 추적): 단일내원(CHX 최종세정) vs 2회내원(Ca(OH)₂ 첩약) 근관 재치료가 치유율에서 유의차 없음(88.6% vs 86.7% 치유, p>.05); 병소 크기·술전 근충 길이가 결과에 영향.
+Single-visit retreatment with CHX final irrigation achieves equivalent 24-month healing to two-visit Ca(OH)₂ protocols, with lesion size as the primary prognostic factor rather than visit number.
+
+## 세줄요약
+
+RCT(n=100, 근단병소 동반 무증상 단근 기치료치, 24개월 추적): 단일내원 재치료(2% CHX 최종 세정) vs 2회내원 재치료(수산화칼슘(Calcium Hydroxide, CH) 내원간 첩약) 비교.
+
+24개월 치유율 동등(단일내원 88.6% vs 2회내원 86.7%, p>.05); 근단병소 크기·술전 근충 길이가 결과에 유의한 영향.
+
+CHX 최종 세정을 이용한 단일내원 재치료가 Ca(OH)₂ 다회내원과 동등한 24개월 치유를 달성하며, 내원 횟수보다 병소 크기가 주요 예후인자.
 
 ## Summary
 

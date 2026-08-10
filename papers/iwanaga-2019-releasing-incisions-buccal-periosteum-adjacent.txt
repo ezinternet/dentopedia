@@ -1,0 +1,27 @@
+SOURCE: PubMed abstract (full text not retrieved — no PMC; likely paywalled)
+PMID: 31538246 | DOI: 10.1007/s00276-019-02319-3
+Iwanaga J, Shiromoto K, Tubbs RS.
+"Releasing incisions of the buccal periosteum adjacent to the lower molar teeth can injure the facial artery: an anatomical study."
+Surg Radiol Anat. 2019 Sep 19;42(1):31-34.
+
+== ABSTRACT (full) ==
+Periosteal releasing incision (PRI) techniques are often used with guided bone regeneration procedures. As complications such as intra- and postoperative bleeding have been noticed, we aimed to study and clarify these as related to the PRI, especially on the mandibular buccal periosteum.
+
+Fourteen sides from seven fresh-frozen Caucasian cadaveric heads were used in this study. The seven cadavers were derived from two females and five males. The mean age at the time of death was 75.9 ± 10.8 years. The PRI was made using a no. 15c blade using a surgical microscope. Subsequently, the fat tissue lateral to the periosteum was slightly dissected. The diameter of the facial artery (or its branch) and closest relationship between the tooth and position of the artery was recorded. Finally, the artery was traced back proximally to clarify its origin.
+
+On all sides, the inferior labial artery (ILA) was identified in the fat tissue lateral to and close to the periosteum. The ILA was closest to the periosteum at the midpoint of the PRI (approximately between the first and second molar teeth area or 10 mm mesial to the apex of the retromolar pad). The mean diameter of the ILA was 2.72 ± 0.26 mm.
+
+This anatomical finding should encourage dentists to make the PRI incision without invading the tissue underneath the periosteum.
+
+== METADATA ==
+Authors / affiliations:
+- Joe Iwanaga — Seattle Science Foundation, Seattle, WA, USA; Dept. of Anatomy, Kurume University School of Medicine, Kurume, Japan
+- Koshi Shiromoto — White Dental Office Hanzomon, Tokyo, Japan
+- R Shane Tubbs — Seattle Science Foundation, Seattle, WA, USA; Dept. of Anatomical Sciences, St. George's University, Grenada
+
+Journal: Surgical and Radiologic Anatomy (Surg Radiol Anat), 2019 Sep 19;42(1):31-34.
+Article type: Journal Article (cadaveric anatomical study)
+Study type: In-vitro / ex-vivo cadaveric anatomical dissection study (14 sides, 7 fresh-frozen Caucasian cadaveric heads).
+MeSH-adjacent keywords: periosteal releasing incision, guided bone regeneration, facial artery, inferior labial artery, mandible, buccal periosteum, retromolar pad.
+
+Note: abstract-only ingestion — full text not retrieved (no PMCID on record). All content above is the complete structured abstract as retrieved from PubMed; no additional body-text detail (e.g., per-cadaver figures, statistical tests beyond mean ± SD) is available and none is invented.

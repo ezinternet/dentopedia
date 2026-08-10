@@ -6,7 +6,7 @@ date: 2024-01-09
 doi: 10.3390/nu16020209
 source: buzatu-2024-vitamin-d-osseointegration-human-studies-sr.md
 category: [implants/vitamin-d]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "38257102"
@@ -22,13 +22,21 @@ relations:
     target: tallon-2024-vitamin-d-osseointegration-umbrella-review
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (PRISMA) of 7 human studies (2008–2021; 1462 participants, 4450 implants); implant loss 3.9–11.4% (avg 8.37%), highest (11.1%) in severe vitamin D deficiency compounded by smoking/periodontitis — but overall no significant association between vitamin D level and osseointegration; supports pre-surgical vitamin D screening.
+PRISMA systematic review of 7 human studies (2008–2021; 1,462 participants, 4,450 implants) providing the first human-only evidence map of vitamin D status and implant osseointegration.
 
-## 한줄요약
+Implant loss ranged 3.9–11.4% (average 8.37%), highest (11.1%) when severe vitamin D deficiency was compounded by smoking and periodontitis; overall no statistically significant association between vitamin D level and osseointegration was established.
 
-사람 대상 7편(2008–2021; 참가자 1462명·임플란트 4450개)을 묶은 PRISMA 체계적 고찰(systematic review, SR). 임플란트 소실률(implant loss rate)은 3.9–11.4%(평균 8.37%)로, 중증 비타민 D 결핍(severe vitamin D deficiency)에 흡연·치주염이 겹치면 최고 11.1%. 다만 비타민 D 수치와 골유착(osseointegration) 사이에 통계적으로 유의한 연관성은 없었고, 술전 비타민 D 선별검사를 권고. 비타민 D 수용체 다형성(Vitamin D Receptor polymorphism, VDR) 결과는 연구마다 엇갈림(TaqI 무관, rs3782905 allele G는 불량 골유착과 연관).
+Pre-surgical screening and correction of deficiency is recommended as a practical risk-reduction measure, especially when combined with other risk factors; a single RCT met high-quality criteria in this body of evidence.
+
+## 세줄요약
+
+PRISMA 체계적 고찰 (7편, 2008–2021; 참가자 1,462명·임플란트 4,450개) — 비타민 D 상태와 골유착(Osseointegration)의 사람 대상 근거를 처음으로 지도화한 리뷰.
+
+임플란트 소실률 (Implant Loss Rate) 3.9–11.4% (평균 8.37%); 중증 비타민 D 결핍 (Severe Vitamin D Deficiency)에 흡연·치주염이 겹치면 최고 11.1%; 비타민 D 수치와 골유착 간 통계적으로 유의한 연관성은 입증되지 않음.
+
+결핍은 개연성 있는 위험인자이므로 술전 선별검사 및 교정 권고; 고품질 연구는 1편의 RCT에 불과하고 비타민 D 수용체 다형성(Vitamin D Receptor polymorphism, VDR) 결과도 상충(TaqI 무관, rs3782905 allele G는 불량 골유착 관련).
 
 ## Summary
 
@@ -71,4 +79,4 @@ This human-only systematic review (Buzatu 2024, *Nutrients*) asks whether serum 
 
 - [[implants/vitamin-d/miron-2025-vitamin-d-deficiency-early-implant-failure]] — reinforces: independently flags vitamin D deficiency as an early-implant-failure risk factor.
 - [[implants/vitamin-d/tallon-2024-vitamin-d-osseointegration-umbrella-review]] — refines: higher-tier umbrella review reaches an inconclusive verdict; this human SR supplies the study-level human loss numbers underneath it.
-- [[implants/fan-2024-smoking-early-implant-failure-sr-ma]] — anchor: smoking as an early-failure driver; Mangano shows smoking compounds vitamin D deficiency into ~4× early-loss risk.
+- [[implants/survival/fan-2024-smoking-early-implant-failure-sr-ma]] — anchor: smoking as an early-failure driver; Mangano shows smoking compounds vitamin D deficiency into ~4× early-loss risk.

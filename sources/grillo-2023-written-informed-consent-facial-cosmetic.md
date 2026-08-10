@@ -16,13 +16,21 @@ text_filename: grillo-2023-written-informed-consent-facial-cosmetic.txt
 
 Reinforces the medico-legal value of documentation seen in [[complaint-management/park-2016-analysis-of-malpractice-claims-associated]]: this Brazilian 10-year litigation analysis quantifies that appropriate written informed consent shifts facial-cosmetic-surgery lawsuits toward favorable defendant outcomes and reduces financial damage — direct evidence that consent quality is a defensible complaint/malpractice control, relevant to dental cosmetic/esthetic procedures.
 
-## One-line Summary
+## Three-line Summary
 
 Retrospective 10-year (2012-2022) analysis of Brazilian facial cosmetic surgery litigation (992 identified, 122 included) found written informed consent significantly reduces both litigation losses and mean financial damage ($59,536).
 
-## 한줄요약
+(incomplete)
 
-브라질 안면성형수술 소송 10년치(2012-2022, 992건 검색·122건 포함)를 후향 분석한 결과, 적절한 서면 동의서(written informed consent)가 패소와 배상액(평균 $59,536)을 유의하게 줄였다.
+(incomplete)
+
+## 세줄요약
+
+브라질 안면성형수술 소송 10년치 (2012–2022, 전체 992건 중 판결 또는 합의 기록 122건) 후향 분석 — 서면 동의 (Written Informed Consent) 적절성과 소송 결과의 관계를 정량화.
+
+적절한 서면 동의서 제시는 의사 패소 위험을 유의하게 감소시키고, 평균 배상액 대폭 억제 ($59,536).
+
+환자 성별(여성), 소송 증가 추세, 특과 분포 (성형외과 67%, 악안면외과 9%) 를 파악; 치료 동의서 문서화의 의료법적 방어 가치 입증.
 
 ## 1. Document Information
 

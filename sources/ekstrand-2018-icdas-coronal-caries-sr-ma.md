@@ -9,8 +9,21 @@ pdf_filename: ekstrand-2018-icdas-coronal-caries-sr-ma.pdf
 source_collection: external
 ---
 
-## One-line Summary
-ICDAS 재현성·정확도 SR(54개 연구): 재현성 pooled >0.65, SROC 면적 D1 기준 >0.75로 전반적 양호; 병소 활성도 평가 시스템도 중등도 성능.
+## Three-line Summary
+
+ICDAS (국제우식탐지평가시스템) 재현성·정확도 SR+MA (54개 연구, 2016년까지): 재현성 pooled >0.65 (substantial); SROC 면적 D1 >0.75, D3 >0.90 (양호~우수).
+
+Diagnostic odds ratio (DOR) ≥6 (양호한 변별력); ICDAS 연계 활성도 평가 시스템은 moderate 재현성·정확도; active lesion은 2년 후 진행 위험 증가.
+
+D1 기준 낮은 특이도, 활성도 평가 표준화 필요; 연구 이질성 있으나 전반적으로 임상 진단 정확도 수용 가능.
+
+## 세줄요약
+
+ICDAS 재현성·정확도 종합 SR+MA (54개 연구): 재현성 pooled >0.65 (substantial), SROC D1 >0.75·D3 >0.90.
+
+DOR ≥6 (우수 변별력); 활성도 평가 시스템은 중등도 성능; active lesion 2년 진행 위험 증가 경향.
+
+D1 기준 낮은 특이도 및 활성도 표준화 개선 필요; 임상 정확도는 충분.
 
 ## 1. Document Information
 - **Title**: The International Caries Detection and Assessment System – ICDAS: A Systematic Review

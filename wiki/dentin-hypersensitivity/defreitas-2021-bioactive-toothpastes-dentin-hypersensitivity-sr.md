@@ -6,7 +6,7 @@ date: 2021-04-18
 doi: "10.1016/j.sdentj.2021.04.004"
 source: defreitas-2021-bioactive-toothpastes-dentin-hypersensitivity-sr.md
 category: [dentin-hypersensitivity]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/defreitas-2021-bioactive-toothpastes-dentin-hypersensitivity-sr.pdf
 pdf_filename: defreitas-2021-bioactive-toothpastes-dentin-hypersensitivity-sr.pdf
 source_collection: external
@@ -16,11 +16,21 @@ relations:
     target: joshi-2013-novamin-gluma-dentinal-tubule-occlusion-sem
 ---
 
-## One-line Summary
-Systematic review (15 RCTs; 7 low / 4 high / 4 moderate risk of bias) concluding low-concentration bioactive compounds (2.5–7.5%) are effective for dentin hypersensitivity both at-home and in-office.
+## Three-line Summary
 
-## 한줄요약
-SR(RCT 15편): 저농도(2.5–7.5%) 생활성 화합물 치약이 가정용·진료실용 모두 DH에 효과적.
+Systematic review (PROSPERO/PRISMA; 15 RCTs; 7 low / 4 high / 4 moderate risk of bias) of bioactive-glass-containing dentifrices for dentin hypersensitivity, applied at-home or in-office.
+
+Low-concentration bioactive compounds (2.5–7.5%) reduced dentin hypersensitivity effectively across both delivery modes; heterogeneity in formulations and mixed methodological quality limit the strength of conclusions.
+
+Bioactive-glass dentifrices are a viable conservative option for dentin hypersensitivity management; standardization of formulations and rigorous trial design are needed to confirm long-term efficacy.
+
+## 세줄요약
+
+체계적 고찰(PROSPERO/PRISMA; RCT 15편; 비뚤림 위험 낮음 7편·높음 4편·중등도 4편): 생활성 유리(bioactive-glass) 함유 치약을 가정용 또는 진료실용으로 사용한 상아질 과민증(Dentin Hypersensitivity, DH) 연구 분석.
+
+저농도(2.5–7.5%) 생활성 화합물이 두 적용 방식 모두에서 DH를 효과적으로 감소; 제형 이질성 및 연구 질 혼재로 결론 강도 제한.
+
+생활성 유리 치약은 DH의 보수적 관리 옵션으로 유효하나, 장기 효과 확인을 위해 제형 표준화 및 엄격한 임상시험 설계 필요.
 
 ## Summary
 This PROSPERO-registered systematic review assessed randomized trials of bioactive-glass-containing dentifrices for dentin hypersensitivity, applied at-home or in-office. Across 15 studies of mixed methodological quality, low-concentration bioactive compounds (2.5–7.5%) reduced DH, supporting bioactive dentifrices as a viable conservative option. The heterogeneity of formulations and risk of bias temper the strength of the conclusion.

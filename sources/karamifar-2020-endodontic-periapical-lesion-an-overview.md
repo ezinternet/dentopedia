@@ -13,11 +13,21 @@ source_collection: external
 
 치수진단 클러스터의 하류(downstream): 치수 괴사가 진단·치료되지 않으면 근단병소(periapical lesion)로 진행한다. 본 overview는 근단병소의 병인·진단(특히 granuloma vs cyst 감별)·치료 선택지를 정리해, pulp 진단 [[endodontics/diagnosis/donnermeyer-2023-effectiveness-of-diagnosing-pulpitis-a]]의 결과 단계를 채운다. 신설 endodontics/diagnosis 카테고리의 근단 축.
 
-## One-line Summary
+## Three-line Summary
+
 Narrative overview of periapical (apical periodontitis) lesions covering etiology, diagnosis, and treatment, noting histopathology remains the diagnostic standard while CBCT/MRI/echography show promise for differentiating granuloma from cyst.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 근단병소(치근단성 치주염)의 병인·진단·치료를 정리한 narrative overview — 진단 표준은 여전히 조직병리이나 CBCT·MRI·echography가 육아종/낭종 감별에 유망.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - Eur Endod J 2020;5(2):54–67. Original Article / Overview. DOI 10.14744/eej.2020.42714.

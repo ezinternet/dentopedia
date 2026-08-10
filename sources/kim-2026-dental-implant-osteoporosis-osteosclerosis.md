@@ -13,13 +13,21 @@ source_collection: external
 
 골대사 질환 환자(골다공증·골경화성 병변)에서 임플란트 의사결정을 한 장으로 묶은 한국 석사학위 종설. 기존 [[overviews/drug-systemic-disease-dental-management-overview]]와 [[drug/li-2024-antiresorptive-implants-mronj-sr]]가 약물·MRONJ 축을 다루고, [[implants/raghavan-2025-bone-density-implant-dentistry-review]]·[[implants/munjal-2015-implants-low-density-bone-d3d4]]가 골밀도 축을 다루는데, 이 종설은 골다공증(저밀도)과 5종 골경화성 병변(고밀도/병적 골)을 한 프레임에 넣어 양극단 골질에서의 임플란트 성공률·수술전략을 대비시킨다. 골경화성 병변(COD, condensing osteitis, idiopathic osteosclerosis, cementoblastoma, hypercementosis) 내 임플란트라는, 위키에 비어있던 주제를 채운다.
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review of 30 human studies (2008–2025) summarizing dental implant survival and surgical considerations in osteoporosis and five osteosclerotic jaw lesions; osteoporosis shows healthy-comparable short-term survival (97.9–100%) but declines to 82.6–94.1% at 5–10 years with greater marginal bone loss, while osteosclerotic-lesion outcomes are lesion-type dependent (florid COD and intralesional placement worst).
+Narrative review of 30 human studies (2008–2025) summarizing dental implant survival and surgical considerations in osteoporosis and five osteosclerotic jaw lesions;
 
-## 한줄요약
+osteoporosis shows healthy-comparable short-term survival (97.9–100%) but declines to 82.6–94.1% at 5–10 years with greater marginal bone loss, while osteosclerotic-lesion outcomes are lesion-type dependent (florid COD and intralesional placement worst).
 
-인간 대상 30편(2008–2025)을 검토한 종설. 골다공증은 단기 생존율(97.9–100%)이 건강군과 유사하나 5–10년에 82.6–94.1%로 떨어지고 주위 골소실이 커지며, 골경화성 5개 병변은 병변 유형에 따라 결과가 갈린다(범발형 COD·병소 내 직접 식립이 최악).
+(incomplete)
+
+## 세줄요약
+
+인간 대상 30편(2008–2025)을 검토한 종설.
+
+골다공증은 단기 생존율(97.9–100%)이 건강군과 유사하나 5–10년에 82.6–94.1%로 떨어지고 주위 골소실이 커지며, 골경화성 5개 병변은 병변 유형에 따라 결과가 갈린다(범발형 COD·병소 내 직접 식립이 최악).
+
+(incomplete)
 
 ## 1. Document Information
 

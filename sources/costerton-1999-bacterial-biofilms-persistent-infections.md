@@ -13,13 +13,21 @@ source_collection: external
 
 This is the seminal Science review that reframed biofilms — not planktonic cells — as the dominant mode of bacterial life and the root cause of persistent, antibiotic-tolerant chronic infections; ingested as the foundational citation underpinning every plaque-as-biofilm argument in the wiki. It establishes the structure-and-tolerance principles that the oral biofilm matrix work of [[oral-microbiology/jakubovics-2021-dental-plaque-biofilm-matrix]] specializes to dental plaque, and grounds the community-behavior premise of the polymicrobial models in [[oral-microbiology/lamont-2014-polymicrobial-synergy-dysbiosis-inflammatory]].
 
-## One-line Summary
+## Three-line Summary
 
-Seminal Science review (Costerton, Stewart, Greenberg 1999) establishing that surface-attached bacteria embedded in a self-produced polymeric matrix form structured biofilm communities whose inherent tolerance to antibiotics and host defenses underlies most persistent and device-related chronic infections — including dental caries and periodontitis.
+Seminal narrative review (Science 1999; Costerton, Stewart, Greenberg; Center for Biofilm Engineering, Montana State University) synthesizing evidence that surface-attached bacteria enclosed in a self-produced polymeric matrix — biofilms — represent the dominant mode of bacterial life in most environments, accounting for >50% of human bacterial infections.
 
-## 한줄요약
+Biofilm communities exhibit inherent antibiotic and host-defense tolerance through three mechanisms: matrix diffusion barrier, slow-growth nutrient-limited subpopulations, and a distinct surface-induced phenotype; antibiotic cycles clear planktonic-shed cells but spare the biofilm, causing the characteristic relapse cycles seen in dental caries, periodontitis, cystic-fibrosis pneumonia, and device-related infections.
 
-표면에 부착해 자가 생성 고분자 기질에 둘러싸인 세균이 구조화된 biofilm 군집을 형성하며, 항생제·숙주 방어에 대한 내재적 내성으로 인해 우식·치주염을 포함한 대부분의 지속성·기구관련 만성 감염의 근본 원인임을 확립한 Science의 기념비적 리뷰(Costerton, Stewart, Greenberg 1999).
+This foundational paper reframes the dental plaque paradigm — caries and periodontitis are biofilm diseases requiring physical/mechanical disruption, not merely antibiotic treatment — and underlies every plaque-as-biofilm argument in the oral microbiology literature.
+
+## 세줄요약
+
+기념비적 종설(Science 1999; Costerton, Stewart, Greenberg; 몬태나주립대 Center for Biofilm Engineering): 표면에 부착해 자가 생성 고분자 기질(matrix)에 둘러싸인 biofilm 세균이 대부분 환경의 지배적 세균 생존 형태이며 인간 세균 감염의 >50%를 차지한다는 패러다임 확립.
+
+biofilm 내 세균이 항생제·숙주 방어에 내재적으로 내성을 갖는 세 가지 기전 — 기질 확산 장벽·서성장 영양결핍 아집단·표면 유도 페노타입; 항생제 치료는 부유 세균(planktonic)만 제거하고 biofilm을 온존해 우식·치주염·CF 폐렴 등에서 재발 반복.
+
+치과 플라크를 biofilm 질환으로 재규정한 기초 문헌 — 우식·치주염은 항생제만으로는 부족하고 기계적 파괴(scaling, brushing)가 필수임을 선언하며, 구강 미생물학 전반의 biofilm 논거의 기반이 됨.
 
 ## 1. Document Information
 

@@ -13,13 +13,21 @@ source_collection: external
 
 상악동 거상술 (Maxillary Sinus Floor Augmentation, MSFA) 측방 접근 시 술 중 출혈 합병증의 주요 원인인 후상치조동맥 (Posterior Superior Alveolar Artery, PSAA) 의 CBCT 해부학적 위치 데이터가 기존 wiki에 부재. 본 연구는 255명 510개 상악동 CBCT 코호트로 PSAA 유병률·직경·유형·알치조 거리 등 수술 계획에 직결되는 계측값을 제공하며, [[wiki/sinus-lift/lateral/yang-2024-sinus-septa-wall-thickness-perforation-risk]] 및 [[wiki/sinus-lift/lateral/turker-2026-maxillary-sinus-septa-perforation-risk]]의 CBCT 기반 천공 위험 예측 축을 혈관 해부학 측면으로 확장.
 
-## One-line Summary
+## Three-line Summary
 
 Retrospective CBCT study (n=255, 510 sinuses, Turkey) mapping the posterior superior alveolar artery (PSAA): bilateral prevalence 70.2%, predominantly intraosseous type, diameter <1 mm in ~55%, mean distance to alveolar crest ~16 mm — critical preoperative landmarks for lateral sinus lift vascular complication prevention.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 후향 CBCT 연구 (255명, 510개 상악동): 후상치조동맥 (Posterior Superior Alveolar Artery, PSAA) 양측 유병률 70.2%, 골내형 (intraosseous) 우세, 직경 <1 mm 약 55%, 치조정까지 평균 거리 ~16 mm — 측방 상악동 거상술 혈관 합병증 예방을 위한 수술 전 CBCT 핵심 지표.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

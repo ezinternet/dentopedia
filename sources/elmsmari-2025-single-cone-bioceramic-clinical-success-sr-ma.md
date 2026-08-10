@@ -17,13 +17,21 @@ text_filename: elmsmari-2025-single-cone-bioceramic-clinical-success-sr-ma.txt
 
 PubMed 감시(one-cone technique) — 단일콘+bioceramic의 **임상·방사선 성공률**을 RCT만으로 합산한 첫 SR+MA로, 기존 위키의 단일콘 클러스터를 임상 근거 최상단에서 묶어준다. [[endodontics/spinelli-2024-three-year-single-cone-ceraseal-cohort]](단일 코호트)와 [[endodontics/song-2022-sealer-based-obturation-epoxy-calcium-silicate-rct]](단일 RCT)가 보여준 "CaSi ≈ resin" 신호를 메타 수준에서 재확인·정량화한다. [[overviews/ceraseal-bioceramic-sealer-clinical-material-synthesis]] thesis 보강.
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 3 RCTs (n=259) — single-cone bioceramic obturation showed numerically higher periapical success than conventional techniques at 6/12/18 mo (88.7/87.1/92.0% vs 76.4/76.4/90.7%) but no statistically significant difference (OR 1.12–2.09, all p>0.05); GRADE certainty low.
+SR+MA of 3 RCTs (n=259) comparing single-cone bioceramic obturation vs conventional techniques on clinical and radiographic periapical healing at 6–18 months.
 
-## 한줄요약
+Single-cone bioceramic showed numerically higher periapical success at all time points (6 mo: 88.7% vs 76.4%; 12 mo: 87.1% vs 76.4%; 18 mo: 92.0% vs 90.7%) but no statistically significant differences (OR 1.12–2.09, all p>0.05).
 
-RCT 3편(259명) SR+MA — 단일콘 bioceramic 충전은 6/12/18개월 치근단 성공률이 전통기법보다 수치상 높았으나(88.7/87.1/92.0% vs 76.4/76.4/90.7%) 통계적 유의차 없음(OR 1.12–2.09, 모두 p>0.05); GRADE 근거수준 낮음.
+GRADE certainty is low due to only 3 RCTs, risk of bias, and imprecision; gap narrows by 18 months, suggesting potential equivalence with longer follow-up.
+
+## 세줄요약
+
+RCT 3편(259명) SR+MA — 단일콘 bioceramic 충전법과 전통 충전법의 6–18개월 임상·방사선학적 치근단 치유를 비교.
+
+단일콘 bioceramic은 모든 추적 시점에서 수치상 높은 치근단 성공률을 보였으나(6개월: 88.7% vs 76.4%; 12개월: 87.1% vs 76.4%; 18개월: 92.0% vs 90.7%) 통계적으로 유의한 차이 없음(OR 1.12–2.09, 모두 p>0.05).
+
+GRADE 근거수준은 낮음(RCT 3편만, 비뚤림 위험, 비정밀성); 18개월에 격차 축소로 장기 추적 시 동등성 시사 가능성 있음.
 
 ## 1. Document Information
 

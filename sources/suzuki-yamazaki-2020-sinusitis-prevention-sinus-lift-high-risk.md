@@ -14,13 +14,21 @@ source_collection: external
 
 상악동거상술 후 상악동염(Post-Sinus-Lift Maxillary Sinusitis, PSLMS) 예방 축이 현재 [[wiki/overviews/odontogenic-maxillary-sinusitis-overview]] 에서 다뤄지지 않는 "고위험 환자의 비침습적 내과적 예방" 관점을 보완한다. 본 증례는 비중격만곡(Septal Deviation), 함기화 중비갑개(Concha Bullosa), 할러 세포(Haller Cell), 알레르기성 비점막 부종이 복합된 환자에서 국소 스테로이드(Fluticasone) + 류코트리엔 수용체 길항제(Leukotriene Receptor Antagonist, LTRA) + 주술기 항생제를 조합해 수술 없이 합병증을 예방한 유일한 보고로, 이비인후과–치과 협진의 임상 프로토콜 근거로 활용한다.
 
-## One-line Summary
+## Three-line Summary
 
 Case report (n=1, 48M) demonstrating noninvasive prevention of post-sinus-lift maxillary sinusitis in a high-risk patient (septal deviation, concha bullosa, Haller cell, allergic rhinitis) via preoperative topical steroid + leukotriene receptor antagonist + perioperative antibiotics, with uneventful bilateral sinus lift outcome at 7 months.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 증례 보고 (n=1, 48세 남성): 비중격만곡·함기화 중비갑개·할러 세포·알레르기 비점막 부종이 복합된 상악동거상술 고위험 환자에서 국소 스테로이드 + 류코트리엔 수용체 길항제 + 주술기 항생제 조합으로 수술 없이 상악동염 합병증을 예방하여 양측 상악동거상술 후 7개월 경과 이상 없음.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

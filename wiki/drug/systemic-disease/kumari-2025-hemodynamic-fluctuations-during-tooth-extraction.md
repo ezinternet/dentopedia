@@ -6,7 +6,7 @@ date: 2025-07-14
 doi: 10.4103/jpbs.jpbs_687_25
 source: kumari-2025-hemodynamic-fluctuations-during-tooth-extraction.md
 category: [drug/systemic-disease]
-confidence: prospective
+evidence_level: prospective
 source_collection: pubmed-text
 full_text: true
 pmid: "41164587"
@@ -19,13 +19,21 @@ relations:
 tags: [hypertension, hemodynamics, tooth-extraction, local-anesthesia, epinephrine]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Prospective observational study (n=50 normotensive adults) showing SBP, DBP and HR rise significantly (P=0.0001) during injection and extraction under 2% lidocaine + 1:100,000 adrenaline, peaking at the extraction step and recovering below baseline by 5 min postop; authors urge anxiolysis/sedation caution in anxious and hypertensive patients.
+Prospective observational study (n=50 normotensive adults, equal male/female, mean age 45.8 y) measuring SBP, DBP, HR, and SpO2 at 4 timepoints (preop, injection, extraction, 5-min postop) under 2% lidocaine + 1:100,000 adrenaline; hypertensives were excluded.
 
-## 한줄요약
+All hemodynamic parameters varied significantly across time (P=0.0001): SBP/DBP/HR peaked at the extraction step (SBP 128 mmHg, HR 84.6 bpm), then fell below baseline by 5 min postop (SBP 122 mmHg, HR 76.5 bpm); SpO2 remained stable (~97–98%); females showed larger BP rises.
 
-전향적 관찰연구 (정상혈압 성인 50명): 2% 리도카인 + 1:100,000 아드레날린 하 발치 시 수축기·이완기 혈압과 심박수가 마취주사·발치 단계에서 유의하게 상승(P=0.0001), 발치 시점 최고치 후 술후 5분에 기저치 이하로 회복 — 불안·고혈압 환자에서 진정/항불안제 사용 권고.
+This normotensive reference curve provides a baseline for estimating the steeper expected response in true hypertensives, supporting the rationale for anxiolysis and intraoperative BP monitoring in at-risk patients.
+
+## 세줄요약
+
+전향적 관찰연구(정상혈압 성인 50명, 남녀 동수, 평균 45.8세) — 2% 리도카인 + 1:100,000 아드레날린 하 발치 시 4시점(술전·주사·발치·술후 5분)에서 SBP·DBP·HR·SpO2 측정; 고혈압 환자 제외.
+
+모든 혈역학 지표가 시간에 따라 유의하게 변화(P=0.0001): SBP·DBP·HR은 발치 단계에서 최고치(SBP 128 mmHg, HR 84.6 bpm), 이후 술후 5분에 기저치 이하로 회복(SBP 122 mmHg, HR 76.5 bpm); SpO2 안정(97–98%); 여성에서 BP 변화폭 더 큼.
+
+이 정상혈압 기준 곡선은 고혈압 환자의 더 큰 반응을 추정하는 참고 기준이 되며, 불안 환자·고혈압 환자에서 항불안 처치 및 술중 혈압 모니터링의 근거를 지지한다.
 
 ## Summary
 

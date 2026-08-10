@@ -14,13 +14,21 @@ source_url: https://doi.org/10.1111/clr.12490
 
 19년 장기 추적으로 전악 고정성 보철의 미스피트(평균 150 μm)와 나사 합병증·골 소실 관계를 3D 스캐너로 정량화. [[implants/katsoulis-2017-misfit-implant-prosthesis-clinical-outcomes-sr]] 에서 인용된 핵심 장기 임상 데이터.
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective (n=30 edentulous patients, avg 19yr follow-up): average framework misfit 150 μm; weak correlation with bone loss (R²=0.04); but prostheses with screw complications had significantly higher misfit (169 vs 134 μm, P=.005).
+Retrospective (n=30 edentulous patients, avg 19yr follow-up): average framework misfit 150 μm;
 
-## 한줄요약
+weak correlation with bone loss (R²=0.04);
 
-후향 코호트 (n=30 무치악 환자, 평균 19년): 프레임워크 미스피트 평균 150 μm; 골 소실과 약한 상관(R²=0.04); 나사 합병증 보철이 없는 보철보다 미스피트 유의하게 높음(169 vs 134 μm, P=.005).
+but prostheses with screw complications had significantly higher misfit (169 vs 134 μm, P=.005).
+
+## 세줄요약
+
+후향 코호트 (n=30 무치악 환자, 평균 19년): 프레임워크 미스피트 평균 150 μm;
+
+골 소실과 약한 상관(R²=0.04);
+
+나사 합병증 보철이 없는 보철보다 미스피트 유의하게 높음(169 vs 134 μm, P=.005).
 
 ## 1. Document Information
 - **Journal**: Clinical Oral Implants Research 2014;26(10):1129-34
@@ -59,7 +67,7 @@ Retrospective (n=30 edentulous patients, avg 19yr follow-up): average framework 
 
 ## 6. Related Work
 - [[implants/katsoulis-2017-misfit-implant-prosthesis-clinical-outcomes-sr]] — SR citing this study
-- [[implants/couso-queiruga-2025-misfit-implant-prosthesis-bone-loss]] — updates bone loss threshold to ≥0.1 mm
+- [[implants/mbl/couso-queiruga-2025-misfit-implant-prosthesis-bone-loss]] — updates bone loss threshold to ≥0.1 mm
 
 ## 7. Glossary
 - **Framework misfit / marginal gap**: deviation between prosthesis interface and implant platform when seated

@@ -6,18 +6,28 @@ date: 2025-01-27
 doi: ""
 source: arpudaswamy-2025-osseodensification-conventional-implant-stability-rabbit.md
 category: [implants/isq]
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/arpudaswamy-2025-osseodensification-conventional-implant-stability-rabbit.pdf
 pdf_filename: arpudaswamy-2025-osseodensification-conventional-implant-stability-rabbit.pdf
 source_collection: external
 tags: [implants, isq, osseodensification, primary-stability, animal, rabbit]
 ---
 
-## One-line Summary
-Split-body animal RCT in low-density (D4) rabbit femoral condyle (8 rabbits, 16 implants): osseodensification (OD) vs conventional drilling significantly raised insertion torque (33.0 vs 31.1 Ncm, p=0.028) and 3-month secondary ISQ (75 vs 67.3, p=0.035) but not placement-day ISQ (~63.6, NS) — the gain was in secondary stability.
+## Three-line Summary
 
-## 한줄요약
-토끼 대퇴골(D4 저밀도) split-body RCT(n=8, 16 implant): OD가 삽입 토크와 3개월 ISQ를 유의하게 높였으나, 식립 시점 ISQ는 차이 없음 — 2차 안정성 이득이 핵심.
+Split-body animal RCT (8 New Zealand white rabbits, 16 implants, 3.1 × 8 mm) in low-density (D4) femoral condyle comparing osseodensification (Densah burs) vs conventional drilling at placement and 3 months.
+
+OD significantly increased insertion torque (33.0 vs 31.1 Ncm, p=0.028) and 3-month secondary ISQ (75.0 vs 67.3, p=0.035), but placement-day ISQ was equivalent in both groups (~63.6, NS).
+
+In low-density bone, OD's main benefit is on secondary stability (3-month ISQ) and torque, not on primary (placement-day) ISQ — clinically, the advantage manifests during osseointegration, not at the time of surgery.
+
+## 세줄요약
+
+저밀도(D4) 토끼 대퇴골 split-body 동물 RCT(토끼 8마리, 임플란트 16개, 3.1 × 8 mm)에서 골밀도화(OD, Densah bur) 대 기존 드릴링을 식립 당일과 3개월 시점에 비교하였다.
+
+OD군은 삽입 토크(33.0 대 31.1 Ncm, p=0.028)와 3개월 2차 ISQ(75.0 대 67.3, p=0.035)가 유의하게 높았으나, 식립 당일 ISQ는 양군 동등(약 63.6, NS).
+
+저밀도골에서 OD의 주요 이득은 2차 안정성(3개월 ISQ) 및 토크이며 1차 ISQ에는 영향이 없음 — 임상적으로 OD 효과는 수술 시점이 아닌 골유착 과정에서 발현된다.
 
 ## Summary
 Animal split-body RCT in low-density (D4) rabbit femoral condyle comparing osseodensification (Densah) vs conventional drilling. OD improved insertion torque and secondary (3-month) stability, but not primary stability measured by ISQ at placement.
@@ -36,6 +46,6 @@ Separates OD's effect on primary (placement) vs secondary (3-month) stability in
 
 ## Related Papers
 - [[implants/isq/althobaiti-2023-osseodensification-conventional-drilling-isq-sr]] — OD vs conventional ISQ systematic review
-- [[implants/inchingolo-2021-osseodensification-implant-site-osteotomy-sr-ma]] — OD osteotomy SR+MA
+- [[implants/osseodensification/inchingolo-2021-osseodensification-implant-site-osteotomy-sr-ma]] — OD osteotomy SR+MA
 - [[implants/isq/al-ahmari-2022-osseodensification-conventional-low-density-jaw]] — clinical split-mouth, largely null stability finding (contrast)
 - [[overviews/implants-isq-stability-ladder]] — where this sits on the stability-evidence ladder

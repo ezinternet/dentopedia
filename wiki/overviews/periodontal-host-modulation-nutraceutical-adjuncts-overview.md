@@ -7,13 +7,13 @@ source_wiki:
   - wiki/periodontics/heo-2022-omega-3-fatty-acids-periodontitis-ma.md
   - wiki/periodontics/fernandez-2025-coenzyme-q10-nonsurgical-periodontal-sr.md
   - wiki/periodontics/rasoolzadeh-2022-coenzyme-q10-periodontitis-sr-ma.md
-  - wiki/periodontics/sherif-2025-iprf-vitamin-c-nonsurgical-periodontitis.md
-  - wiki/drug/analgesics/hong-2019-randomized-double-blind-placebo-controlled-multicenter.md
-  - wiki/drug/analgesics/oliveira-2024-periodontal-host-modulation-avocado-soybean.md
-  - wiki/periodontics/aimetti-2025-doxycycline-local-delivery-periodontal-regeneration-rct.md
+  - wiki/periodontics/non-surgical-instrumentation/sherif-2025-iprf-vitamin-c-nonsurgical-periodontitis.md
+  - wiki/periodontics/hong-2019-randomized-double-blind-placebo-controlled-multicenter.md
+  - wiki/periodontics/oliveira-2024-periodontal-host-modulation-avocado-soybean.md
+  - wiki/periodontics/host-modulation/aimetti-2025-doxycycline-local-delivery-periodontal-regeneration-rct.md
   - wiki/periodontics/angelopoulou-2026-melatonin-adjunct-nspt-t2dm-sr-ma.md
 category: [periodontics]
-confidence: synthesis
+evidence_level: synthesis
 tags: [host-modulation, nutraceutical, omega-3, CoQ10, vitamin-C, ASU, melatonin, doxycycline, MMP, periodontal-adjunct, NSPT, type-2-diabetes]
 ---
 
@@ -31,13 +31,21 @@ tags: [host-modulation, nutraceutical, omega-3, CoQ10, vitamin-C, ASU, melatonin
 > - **공통 결론(임상 위계)**: ① 기계적 치면세균막 제거(SRP/PMPR)가 비타협 기반, ② 영양·항산화 보조제는 잘해야 sub-mm 부가효과(EFP 반대 또는 very-low 확실성), ③ 임상적 의미있는 부가효과는 약물-수술 병용(국소 DOX+재생술)에서만 관찰됨.
 > - **구분되는 인접 주제**: 본 종합은 *전신·국소 숙주조절/영양* 보조제에 한정. 생균제(probiotics)·항균광역동치료(aPDT)는 [[periodontal-adjunctive-therapy-probiotics-pdt-overview]], 국내 OTC 잇몸약(인사돌·이가탄 성분)은 [[otc-periodontal-adjunct-drugs-insadol-igatan]]로 분리되어 있다.
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis of 7 papers on host-modulation and nutraceutical adjuncts to mechanical periodontal therapy (omega-3, CoQ10, antioxidant vitamins, ASU, MMP-inhibition): these agents consistently produce statistically detectable but sub-millimeter, low-to-very-low-certainty PD/CAL gains; positive meta-analyses conflict with guideline recommendations (EFP against omega-3) and with each other (CoQ10 by route and risk-of-bias), and the only clinically meaningful effect comes from local doxycycline within a regenerative-surgical protocol (NNT=2.73) — not from standalone supplements. Mechanical debridement remains the non-negotiable foundation.
+Synthesis of 7 papers on host-modulation/nutraceutical adjuncts (omega-3, CoQ10, antioxidant vitamins, ASU, melatonin, local doxycycline): all produce statistically detectable but sub-millimeter PD/CAL gains of low-to-very-low certainty — positive meta-analyses conflict with guideline recommendations (EFP recommends against omega-3) and with each other (CoQ10 gel vs oral route conflict resolved by risk-of-bias stratification).
 
-## 한줄요약
+The one clinically meaningful effect is local doxycycline applied 2 weeks before MIST + EMD + xenograft (Aimetti 2025, triple-blind RCT, n=60: CAL +0.9 mm, composite success 83.3% vs 46.7%, NNT=2.73) — an MMP-modulating antibiotic in a regenerative-surgical context, not a standalone supplement.
 
-기계적 치주치료에 더하는 숙주조절·영양보조제(오메가-3·CoQ10·항산화 비타민·ASU·MMP 억제) 7편 종합: 모두 통계적으로는 검출되나 1 mm 미만·low~very-low 확실성의 PD/CAL 이득에 그치고, 양성 메타분석이 가이드라인(EFP 오메가-3 반대) 및 서로(CoQ10 경로·비뚤림)와 충돌하며, 임상적으로 의미있는 효과는 단독 보충제가 아니라 재생수술에 병용한 국소 독시사이클린(NNT=2.73)에서만 나온다 — 기계적 치석제거가 비타협 기반.
+A T2DM-specific melatonin signal (Angelopoulou 2026, SR+MA, 3 RCTs, PPD SMD −1.99, CAL SMD −1.49, HbA1c SMD −1.15; all GRADE low) stands apart as a comorbidity-conditioned exploratory finding; mechanical debridement (SRP/PMPR) remains the non-negotiable foundation.
+
+## 세줄요약
+
+숙주조절·영양보조제(오메가-3·CoQ10·항산화비타민·아보카도/대두 불검화물(ASU)·멜라토닌·국소 독시사이클린) 7편 종합 — 모두 통계적으로는 검출되나 1 mm 미만·low~very-low 확실성의 치주낭깊이(Probing Pocket Depth, PPD)/임상부착수준(Clinical Attachment Level, CAL) 이득에 그침.
+
+양성 메타분석이 가이드라인(유럽치주학회(EFP) 오메가-3 반대) 및 서로(CoQ10: 겔 권장 구형 SR vs 겔 무효 신형 경로층화 SR)와 충돌; 임상적으로 의미있는 효과는 재생수술 맥락의 국소 독시사이클린(Aimetti 2025, NNT=2.73)에서만.
+
+당뇨병(Type 2 Diabetes Mellitus, T2DM) 특이적 멜라토닌 신호(Angelopoulou 2026, 3 RCT, PPD/CAL/HbA1c 모두 GRADE low)는 전신질환 동반 맥락의 탐색적 발견 — 기계적 치석제거가 비타협 기반.
 
 ## Thesis
 
@@ -76,6 +84,11 @@ Synthesis of 7 papers on host-modulation and nutraceutical adjuncts to mechanica
 - **Aimetti 2025** (triple-blind RCT, n=60, stage III/IV): local doxycycline 2 weeks before MIST + EMD + xenograft (BOOST) → CAL gain 4.1 vs 3.2 mm (p=0.019), composite success 83.3% vs 46.7% (NNT=2.73), radiographic bone fill 3.5 vs 2.7 mm at 1 year.
 - **Interpretation:** the one cluster member with a clinically meaningful effect — but it is an MMP-modulating antibiotic deployed inside a regenerative-surgical protocol, the opposite of a standalone supplement. It anchors the "host modulation works *when integrated with definitive therapy*" end of the spectrum. (Systemic sub-antimicrobial-dose doxycycline / Periostat is the textbook HMT agent and shares this MMP-inhibition mechanism.)
 
+### 7. Vitamin D (bone-anabolic / immunomodulatory) — the only agent here with a documented *upper* threshold
+- **Duarte 2025** (narrative review, SANRA, PubMed-only): vitamin D deficiency is consistently associated with impaired osseointegration, reduced bone-to-implant contact (BIC), and accelerated marginal bone loss (MBL). Mechanistically, calcitriol upregulates RUNX2, ALP, osteopontin (OPN), and osteocalcin (OCN) in periodontal ligament and peri-implant cells, suppresses RANKL/TNF-α/IL-1 signaling, and enhances mineral nodule formation. Both systemic supplementation and topical implant-surface coating are documented strategies.
+- **The threshold finding**: hypervitaminosis D (**>70 ng/mL**) was associated with a **21.1-fold increase in peri-implant bone loss**. This makes vitamin D the only agent in this cluster where the dose–response is explicitly non-monotonic — more is not better, and the harm signal sits above the deficiency signal in clinical consequence.
+- **Interpretation:** the evidence base is predominantly **preclinical** (animal and in vitro) with only limited clinical studies, no standardized dosing protocol, and unknown behavior in diabetes, osteoporosis, or other systemic comorbidities. The practical takeaway is asymmetric: **correcting documented deficiency is defensible; supplementing to high-normal or above is not**, and the U-shape means "just take vitamin D for your implants" is affirmatively bad advice. Where a patient is already supplementing, a serum 25(OH)D level is the relevant check before implant surgery — not a reflexive dose increase. [확인(수치)/미검증(임상 인과)]
+
 ## Decision Framework
 
 | Adjunct | Best evidence | Effect size | Certainty | Practical stance |
@@ -88,18 +101,21 @@ Synthesis of 7 papers on host-modulation and nutraceutical adjuncts to mechanica
 | Melatonin 3 mg/night (T2DM only) | SR+MA, 3 RCT (Angelopoulou 2026) | PPD SMD −1.99, CAL SMD −1.49, HbA1c SMD −1.15 | **low** | T2DM-specific exploratory signal; not standard |
 | ASU | animal (Oliveira 2024) | bone-loss reduction | preclinical | Hypothesis-generating only |
 | Local doxycycline + regen surgery | RCT (Aimetti 2025) | CAL +0.9 mm, NNT 2.73 | moderate | Meaningful — but surgical/regenerative context |
+| Vitamin D — correcting deficiency | narrative review (Duarte 2025) | impaired BIC/MBL when deficient | preclinical-dominant | Correct documented deficiency before implant surgery |
+| Vitamin D — supplementing above normal | narrative review (Duarte 2025) | **>70 ng/mL → 21.1× peri-implant bone loss** | preclinical-dominant | **Do not** push high-dose; check 25(OH)D if already supplementing |
 
 **Clinical rule of thumb:** Foundation = SRP/PMPR (± regenerative surgery for deep intrabony defects). Supplements (omega-3, CoQ10, antioxidant vitamins, ASU) are optional, low-yield add-ons — counsel honestly that benefit is sub-millimeter and certainty weak. If host modulation is genuinely pursued for advanced disease, the evidence points to MMP-targeting drugs integrated with definitive (often surgical) therapy, not to consumer nutraceuticals.
 
 ## Related Papers
-- [[periodontics/heo-2022-omega-3-fatty-acids-periodontitis-ma]] — omega-3 MA; positive but EFP-discordant
-- [[periodontics/fernandez-2025-coenzyme-q10-nonsurgical-periodontal-sr]] — CoQ10 route-stratified SR (oral weak, gel inert)
-- [[periodontics/rasoolzadeh-2022-coenzyme-q10-periodontitis-sr-ma]] — older CoQ10 SR+MA; conflict resolved by RoB/route
-- [[periodontics/sherif-2025-iprf-vitamin-c-nonsurgical-periodontitis]] — vitamin C + I-PRF; null vs PMPR
-- [[periodontics/angelopoulou-2026-melatonin-adjunct-nspt-t2dm-sr-ma]] — melatonin 3 mg/night NSPT adjunct in T2DM periodontitis; SR+MA positive (PPD/CAL/HbA1c/hs-CRP) but GRADE-low, T2DM-restricted
-- [[drug/analgesics/hong-2019-randomized-double-blind-placebo-controlled-multicenter]] — vitamin C/E + lysozyme (CELC/IGATAN); GI only
-- [[drug/analgesics/oliveira-2024-periodontal-host-modulation-avocado-soybean]] — ASU; animal host-modulation
-- [[periodontics/aimetti-2025-doxycycline-local-delivery-periodontal-regeneration-rct]] — local doxycycline + regen surgery; only clinically meaningful effect
+- [[periodontics/host-modulation/heo-2022-omega-3-fatty-acids-periodontitis-ma]] — omega-3 MA; positive but EFP-discordant
+- [[periodontics/host-modulation/fernandez-2025-coenzyme-q10-nonsurgical-periodontal-sr]] — CoQ10 route-stratified SR (oral weak, gel inert)
+- [[periodontics/host-modulation/rasoolzadeh-2022-coenzyme-q10-periodontitis-sr-ma]] — older CoQ10 SR+MA; conflict resolved by RoB/route
+- [[periodontics/non-surgical-instrumentation/sherif-2025-iprf-vitamin-c-nonsurgical-periodontitis]] — vitamin C + I-PRF; null vs PMPR
+- [[periodontics/host-modulation/angelopoulou-2026-melatonin-adjunct-nspt-t2dm-sr-ma]] — melatonin 3 mg/night NSPT adjunct in T2DM periodontitis; SR+MA positive (PPD/CAL/HbA1c/hs-CRP) but GRADE-low, T2DM-restricted
+- [[periodontics/host-modulation/hong-2019-randomized-double-blind-placebo-controlled-multicenter]] — vitamin C/E + lysozyme (CELC/IGATAN); GI only
+- [[periodontics/host-modulation/oliveira-2024-periodontal-host-modulation-avocado-soybean]] — ASU; animal host-modulation
+- [[periodontics/host-modulation/aimetti-2025-doxycycline-local-delivery-periodontal-regeneration-rct]] — local doxycycline + regen surgery; only clinically meaningful effect
+- [[implants/vitamin-d/duarte-2025-vitamin-d-periimplant-periodontal]] — vitamin D in peri-implant healing and periodontal disease; RUNX2/ALP/OPN/OCN upregulation and RANKL suppression, but hypervitaminosis D (>70 ng/mL) associated with 21.1-fold peri-implant bone loss — the cluster's only documented upper threshold
 
 ## Related Overviews
 - [[periodontal-adjunctive-therapy-probiotics-pdt-overview]] — local/microbiome adjuncts (probiotics, aPDT)

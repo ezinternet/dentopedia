@@ -6,7 +6,7 @@ date: 2020-06-17
 doi: 10.34172/joddd.2020.028
 source: nisar-2020-collagen-plug-socket-preservation.md
 category: [bone-regeneration/ridge-preservation]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/nisar-2020-collagen-plug-socket-preservation.pdf
 pdf_filename: nisar-2020-collagen-plug-socket-preservation.pdf
 source_collection: external
@@ -16,13 +16,21 @@ relations:
     target: covani-2022-alveolar-bone-remodeling-collagen-socket
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Split-mouth prospective study (n=30) showing collagen plug + PRP significantly preserved crestal bone height vs extraction alone at 3 and 6 months (p<0.001), but did not significantly preserve ridge width (p>0.05).
+Split-mouth prospective study (n=30, 18–30 years, bilateral matching extractions) comparing collagen plug (KOLSPON) saturated with PRP vs extraction alone for socket preservation at 3 and 6 months using RVG (height) and bone calipers (width).
 
-## 한줄요약
+Collagen plug + PRP significantly preserved crestal bone height at both time points (p<0.001), but alveolar ridge width showed no significant difference between groups at either time point (p>0.05).
 
-분할구강 전향적 연구 (n=30): 콜라겐 플러그+PRP군에서 치조골 높이 유의하게 보존 (p<0.001, 3·6개월), 치조골 폭경은 유의차 없음 (p>0.05) — 단순 플러그로는 수평 보존 불충분.
+The finding that a collagen plug preserves height but not width indicates it is insufficient as a complete ARP solution; sites requiring both vertical and horizontal maintenance need an additional particulate graft.
+
+## 세줄요약
+
+분할구강 전향적 연구 (n=30, 18–30세, 좌우 대칭 발치 부위): RVG (높이) 및 골 캘리퍼 (폭경)로 3·6개월에 콜라겐 플러그 (KOLSPON) + PRP vs 발치단독을 비교.
+
+치조정 골높이는 처치군에서 3·6개월 모두 유의하게 보존되었으나 (p<0.001), 치조제 폭경은 양군 간 어느 시점에도 유의차 없었다 (p>0.05).
+
+콜라겐 플러그가 수직은 보존하나 수평은 보존하지 못한다는 결과는, 수직·수평 모두 보존이 필요한 부위에서 입자형 이식재 추가가 필요함을 시사한다.
 
 ## Summary
 

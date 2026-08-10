@@ -13,13 +13,21 @@ source_collection: external
 
 [[wiki/oral-surgery/cervera-espert-2016-coronectomy-mandibular-third-molar-sr]] established coronectomy as a nerve-sparing alternative but left the *re-intervention* burden (how often, when, why retained roots need a second surgery) underspecified. This 2025 umbrella review (SR of SRs) is the first synthesis to quantify re-intervention rate (4.45%), timing (mean 10.4 months), and indication breakdown — directly extending the older anchor's safety/efficacy story into the long-term follow-up dimension.
 
-## One-line Summary
+## Three-line Summary
 
-Umbrella review (6 systematic reviews, 5896 subjects, 7913 successful coronectomies): overall re-intervention rate 4.45%, mostly within ~10 months, driven by root exposure (16.76%) and migration (12.20%), with IAN injury rare (0.76%).
+Umbrella review (SR of SRs) of 6 systematic reviews encompassing 5896 subjects and 7913 successful coronectomies of mandibular third molars, with AMSTAR 2 quality appraisal and Corrected Cover Area overlap assessment.
 
-## 한줄요약
+Overall re-intervention rate was 4.45%, occurring at a mean of 10.4 months post-operatively; primary indications were root exposure (16.76%) and root migration (12.20%), while IAN injury remained rare at 0.76%.
 
-체계적 문헌고찰의 체계적 고찰 (SR of SRs, 6편·5896명·성공 치관절제 7913건): 재수술률 4.45%, 평균 10.4개월 내, 주원인은 치근 노출(16.76%)과 이동(12.20%), 하치조신경 손상은 0.76%로 드묾.
+Coronectomy carries a low but real secondary-surgery burden concentrated in the first year; standardized definitions of "re-intervention" and imaging protocols are needed before meta-analytic pooling is feasible.
+
+## 세줄요약
+
+하악 제3대구치 치관절제술(coronectomy)을 다룬 6편의 체계적 고찰을 대상으로 한 우산형 리뷰(SR of SRs); 대상 5896명, 성공적 치관절제 7913건, AMSTAR 2 질 평가 및 Corrected Cover Area 중복도 산정.
+
+전체 재수술률 4.45%, 평균 10.4개월 시점에 발생; 주요 원인은 치근 노출(16.76%)과 치근 이동(12.20%)이었으며, 하치조신경(IAN) 손상은 0.76%로 드묾.
+
+치관절제 후 재수술 부담은 낮지만 실재하며 첫 1년 내에 집중되므로, 술 후 1년간 방사선학적 추적이 필요하고 향후 메타분석을 위한 "재수술" 정의 표준화가 요구됨.
 
 ## 1. Document Information
 

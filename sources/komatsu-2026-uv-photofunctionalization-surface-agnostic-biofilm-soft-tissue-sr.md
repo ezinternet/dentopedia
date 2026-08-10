@@ -16,11 +16,21 @@ text_filename: komatsu-2026-uv-photofunctionalization-surface-agnostic-biofilm-s
 
 This is the newest (2026) and broadest UV photofunctionalization systematic review, reframing the technology as a **surface-agnostic / topography-preserving** strategy for peri-implant health — a conceptual upgrade over the existing narrative-review and single-interface evidence we hold. It extends the bacterial/biofilm evidence in [[implants/surface/dorigatti-de-avila-2015-uv-photofunctionalization-bacterial-biofilm]], reinforces and elevates (narrative → SR) the tri-interface review [[implants/surface/park-2025-uv-photofunctionalization-osseointegration-soft-tissue]], and operationalizes the aging/topography framing of [[implants/surface/ogawa-2025-3d-theory-osseointegration-material-topography]]. It is a candidate anchor for [[overviews/plasma-surface-treatment-dental-implants]]. Same group as our Ogawa/Park UCLA pages.
 
-## One-line Summary
+## Three-line Summary
+
 Systematic review with qualitative synthesis (34 studies: 9 bacterial/biofilm + 13 soft-tissue + 13 clinical) framing UV photofunctionalization as a surface-agnostic, topography-preserving "positive-sum" reactivation technology — most consistently reducing early bacterial attachment/biofilm and enhancing fibroblast/epithelial sealing on Ti (and emerging on zirconia), with the strongest clinical signal being accelerated implant stability development.
 
-## 한줄요약
-체계적 문헌고찰(정성적 종합, 34편 = 세균/바이오필름 9 + 연조직 13 + 임상 13): UV 광기능화 (Photofunctionalization)를 표면형태를 바꾸지 않는 표면 비의존(surface-agnostic) "포지티브섬" 재활성화 기술로 재개념화 — 티타늄(및 신흥 지르코니아)에서 초기 세균 부착·바이오필름을 가장 일관되게 억제하고 섬유아세포/상피 봉쇄를 향상; 임상에서 가장 일관된 신호는 가속된 임플란트 안정성 발달.
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
+체계적 문헌고찰(정성적 종합, 34편 = 세균/바이오필름 9 + 연조직 13 + 임상 13): UV 광기능화 (Photofunctionalization)를 표면형태를 바꾸지 않는 표면 비의존(surface-agnostic) "포지티브섬" 재활성화 기술로 재개념화 — 티타늄(및 신흥 지르코니아)에서 초기 세균 부착·바이오필름을 가장 일관되게 억제하고 섬유아세포/상피 봉쇄를 향상;
+
+임상에서 가장 일관된 신호는 가속된 임플란트 안정성 발달.
+
+(incomplete)
 
 ## 1. Document Information
 International Journal of Implant Dentistry, 2026 (published 2026-06-17). DOI 10.1186/s40729-026-00695-1. PMID 42310175. PMCID: none. From the Ogawa group (UCLA Weintraub Center lineage), same group as [[implants/surface/ogawa-2025-3d-theory-osseointegration-material-topography]] and [[implants/surface/park-2025-uv-photofunctionalization-osseointegration-soft-tissue]]. **Abstract-only — full text not retrieved** (pubmed-text branch, `full_text: false`); all content below is at the abstract level.

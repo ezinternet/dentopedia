@@ -13,13 +13,21 @@ source_collection: external
 
 기존 [[wiki/dentin-hypersensitivity/ramli-2022-successful-dentin-hypersensitivity-treatment-strategies]] 및 [[wiki/dentin-hypersensitivity/li-2026-physical-chemical-strategies-dentin-hypersensitivity]] 가 치료 전략에 치중한 반면, 본 2026 서사 리뷰는 역사적 배경·역학·기전 이론(수역학설, 직접 신경지배설, 신경가소성, 상아모세포 기계감각)까지 통합해 진단 배제 과정과 Triple-C 유지 프레임워크를 포함한 포괄적 임상 로드맵을 제공한다. 기전 논의에서 신경가소성(neuroplasticity) 및 TRP 채널·CGRP 경로의 최신 근거를 추가해 기존 페이지를 보강·확장하는 역할.
 
-## One-line Summary
+## Three-line Summary
 
-2026 narrative review — comprehensive overview of dentin hypersensitivity mechanisms (hydrodynamic, direct innervation, neuroplasticity, odontoblast mechanosensory), stepwise diagnosis, and management (home care through biomimetic/nanotech approaches); Triple-C recall framework.
+2026 narrative review — comprehensive overview of dentin hypersensitivity mechanisms (hydrodynamic, direct innervation, neuroplasticity, odontoblast mechanosensory), stepwise diagnosis, and management (home care through biomimetic/nanotech approaches);
 
-## 한줄요약
+Triple-C recall framework.
+
+(incomplete)
+
+## 세줄요약
 
 2026 서사 리뷰 — 상아질 과민증의 기전(수역학설·신경가소성·TRP), 단계적 진단 배제, 가정 요법부터 바이오미메틱·나노기술까지 포괄적 관리 전략 및 Triple-C 유지 체계 정리.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

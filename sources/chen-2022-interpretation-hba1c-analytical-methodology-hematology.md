@@ -9,8 +9,21 @@ pdf_filename: chen-2022-interpretation-hba1c-analytical-methodology-hematology.p
 source_collection: external
 ---
 
-## One-line Summary
-Narrative review (Exp Ther Med 2022) cataloging three classes of HbA1c interference — methodological (Hb variants, HbF, derivatives by assay), biochemical (variable glycation rate), and hematological (RBC lifespan changes from anemia, hemolysis, transfusion, CKD) — with a unified framework for cautious clinical interpretation.
+## Three-line Summary
+
+Narrative review (Exp Ther Med 2022) cataloging HbA1c interference across methodological, biochemical, and hematological axes — Hb variants (S, C, D, E, HbF), RBC-lifespan alterations, and drugs (aspirin, dapsone, vitamins C/E) assessed against five detection methods (IEC, BAC, CE, IA, enzymatic).
+
+Conditions falsely lowering HbA1c include hemolytic anemia, recent transfusion, and erythropoietin therapy; conditions falsely elevating it include iron deficiency, B12/folate deficiency, uremia (HbCarb), and high-dose aspirin; diagnostic cutoff remains ≥6.5% (≥48 mmol/mol).
+
+Clinicians should always reconcile a discordant HbA1c with fructosamine or time-in-range; NGSP-IFCC conversion is NGSP (%) = 0.09148 × IFCC (mmol/mol) + 2.152.
+
+## 세줄요약
+
+서사적 고찰(Exp Ther Med 2022): HbA1c 간섭을 방법론적(Hb 변이체, HbF, 분석법별 특이성), 생화학적(당화율 변이), 혈액학적(적혈구 수명 변화 — 용혈빈혈·수혈·에리스로포에틴·CKD) 세 축으로 분류하고, 5가지 검출법(IEC·BAC·CE·IA·효소법)별 간섭 패턴을 정리.
+
+HbA1c를 위음성으로 낮추는 상태: 용혈빈혈·수혈(<3개월)·임신 후기·에리스로포에틴; 위양성으로 높이는 상태: 철결핍빈혈·B12/엽산결핍·요독증(HbCarb)·고용량 아스피린; 당뇨 진단 기준은 ≥6.5%(≥48 mmol/mol).
+
+임상에서 HbA1c가 임상상과 불일치하면 과당아민(fructosamine, 2–3주 평균) 또는 CGM-유도 time-in-range로 교차 확인해야 하며, NGSP–IFCC 환산식은 NGSP = 0.09148 × IFCC + 2.152.
 
 ## 1. Document Information
 - **Title**: Interpretation of HbA1c lies at the intersection of analytical methodology, clinical biochemistry and hematology (Review)

@@ -6,7 +6,7 @@ date: 2012-02-01
 doi: 10.1111/j.1365-2842.2011.02252.x
 source: lindskog-stokland-2012-changes-molar-position-missing-opposed.md
 category: [occlusion]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/lindskog-stokland-2012-changes-molar-position-missing-opposed.pdf
 pdf_filename: lindskog-stokland-2012-changes-molar-position-missing-opposed.pdf
 source_collection: external
@@ -16,13 +16,21 @@ relations:
     target: wang-2022-unopposed-molar-overeruption-implant-cbct
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Prospective 12-year panoramic study of 292 women: unopposed molars carried a 4.9× higher risk of ≥2 mm overeruption (95% CI 1.5–15.3) than opposed molars, averaging ~4.5% (≈0.9 mm) and increasing with reduced alveolar bone support; mesial tipping was small (mean 0.8°) and unrelated to the edentulous space, but overeruption and tipping interacted significantly.
+Prospective population-based longitudinal study (292 women, 12-year panoramic radiograph interval) measuring overeruption, mesial tipping, and alveolar bone height changes in opposed vs unopposed molars.
 
-## 한줄요약
+Unopposed molars had a 4.9× higher risk of ≥2 mm overeruption than opposed molars (95% CI 1.5–15.3); mean overeruption was modest at ~4.5% (≈0.9 mm) but increased as alveolar bone support decreased; mesial tipping was small (mean 0.8°) and unpredicted by the edentulous space, yet tipping and overeruption interacted significantly.
 
-여성 292명 12년 파노라마 전향연구: 대합치 없는 대구치는 대합치 있는 대구치보다 ≥2 mm 정출 위험이 4.9배(95% CI 1.5–15.3) 높았고 평균 약 4.5%(≈0.9 mm)였으며 치조골 지지가 줄수록 정출이 커졌다. 근심 경사(평균 0.8°)는 결손 공간으로 예측되지 않았으나 정출과 경사는 유의하게 상호작용했다.
+Clinically significant (≥2 mm) overeruption is the tail risk, not the mean outcome; reduced periodontal support amplifies overeruption risk, making it the key modifier for individualized treatment planning around unopposed teeth.
+
+## 세줄요약
+
+여성 292명의 파노라마 방사선 사진을 12년 간격으로 비교한 전향 코호트 연구: 대합치 유무에 따른 대구치의 정출, 근심 경사, 치조골 높이 변화를 측정했다.
+
+대합치 없는 대구치는 대합치 있는 대구치보다 ≥2 mm 정출 위험이 4.9배 높았으며(95% CI 1.5–15.3), 평균 정출량은 ~4.5%(≈0.9 mm)로 적당하지만 치조골 지지가 감소할수록 정출이 커졌다; 근심 경사(평균 0.8°)는 결손 공간과 무관하나 정출과 경사는 유의하게 상호작용했다.
+
+임상적으로 유의미한 정출(≥2 mm)은 평균이 아니라 위험분포의 꼬리 쪽 현상이므로, 치주 지지 감소 여부가 대합치 없는 치아 처치 결정의 핵심 수식인자다.
 
 ## Summary
 

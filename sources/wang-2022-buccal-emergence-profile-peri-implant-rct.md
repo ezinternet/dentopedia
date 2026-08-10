@@ -16,13 +16,21 @@ text_filename: wang-2022-buccal-emergence-profile-peri-implant-rct.txt
 
 Emergence-profile design is the core "how to shape the abutment/restoration" lever for protecting the peri-implant buccal mucosal margin — directly informing the healing-abutment / emergence-profile batch. This RCT supplies the quantitative threshold (emergence angle ~32° vs 40°; W/H-ratio-driven design) that complements the sibling convex-vs-concave evidence in [[wiki/implants/siegenthaler-2022-convex-emergence-profile-mucosal-recession-rct]] and the customized-abutment workflow rationale in [[wiki/implants/ruhstorfer-2024-customized-vs-conventional-healing-abutments-sr]].
 
-## One-line Summary
+## Three-line Summary
 
-RCT (n=21, single mandibular molars, supracrestal mucosa ≥2 mm): a buccal emergence profile designed from the mucosal width/height (W/H) ratio (test) cut 12-month gingival recession to 0.13 ± 0.32 mm vs 0.63 ± 0.38 mm for the healing-abutment-derived profile (control, p=0.006), with a lower initial emergence angle (31.4° vs 40.0°, p=0.025).
+Parallel-group RCT (n=21 patients, single mandibular molar implants, supracrestal mucosal thickness ≥2 mm, China ChiCTR1900022100) comparing a W/H-ratio-based emergence profile design (test) against maintaining the healing abutment profile (control) over 12 months.
 
-## 한줄요약
+The W/H-ratio-designed profile significantly reduced 12-month gingival recession: 0.13 ± 0.32 mm (test) vs 0.63 ± 0.38 mm (control, p=0.006); initial emergence angle was also significantly lower in the test group (31.4° vs 40.0°, p=0.025), identifying ~32° as a candidate threshold for preserving the buccal gingival margin.
 
-무작위대조시험 (RCT, n=21, 하악 단일 대구치, 치조정상부 점막 두께 ≥2 mm): 협측 점막 폭/높이비 (Width/Height ratio, W/H)를 기준으로 설계한 출현윤곽 (Emergence Profile) 시험군은 12개월 치은 퇴축이 0.13 ± 0.32 mm로, 치유 지대주 윤곽을 유지한 대조군 0.63 ± 0.38 mm보다 유의하게 적었고 (p=0.006), 초기 출현 각도 (Emergence Angle)도 더 낮았다 (31.4° 대 40.0°, p=0.025).
+Generalizability is limited by small sample, single tooth type (mandibular molars with ≥2 mm supracrestal tissue only), 12-month follow-up, and the ~32° angle threshold being within-trial rather than externally validated — abstract-only retrieval means full MBL/failure/blinding data were not available.
+
+## 세줄요약
+
+평행그룹 무작위대조시험 (RCT, n=21, 하악 단일 대구치 임플란트, 치조정상부 점막 두께 ≥2 mm, China ChiCTR1900022100) — 협측 점막 폭/높이비 (Width/Height ratio, W/H) 기반 출현윤곽 (Emergence Profile) 설계 (시험군) 대 치유 지대주 윤곽 유지 (대조군) 12개월 비교.
+
+W/H비 기반 설계 시험군에서 12개월 치은 퇴축이 유의하게 감소: 0.13 ± 0.32 mm vs 0.63 ± 0.38 mm (p=0.006); 초기 출현 각도 (Emergence Angle)도 시험군에서 유의하게 낮았으며 (31.4° vs 40.0°, p=0.025), ~32°가 협측 치은 변연 보존을 위한 후보 임계값으로 제시됨.
+
+소표본·단일 치형 (치조정상부 점막 ≥2 mm 하악 대구치만)·12개월 추적·시험 내 임계값(외부 검증 미실시)의 한계가 있으며, 초록만 수집되어 전체 MBL·실패·맹검 데이터 미확보.
 
 ## 1. Document Information
 

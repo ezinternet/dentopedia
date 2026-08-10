@@ -9,8 +9,21 @@ pdf_filename: shafizadeh-2021-alveolar-bone-thickness-healthy-sr.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Systematic review and meta-analysis pooling CBCT alveolar bone thickness measurements from healthy dentitions. Confirms anterior teeth carry the thinnest buccal plates, with thickness increasing posteriorly. No consistent gender or smoking effect.
+## Three-line Summary
+
+Systematic review and meta-analysis pooling CBCT alveolar bone thickness measurements from healthy dentitions.
+
+Confirms anterior teeth carry the thinnest buccal plates, with thickness increasing posteriorly.
+
+No consistent gender or smoking effect.
+
+## 세줄요약
+
+체계적 고찰 (Systematic Review, SR) and 메타분석 (Meta-analysis, MA) pooling CBCT alveolar bone thickness measurements from healthy dentitions.
+
+Confirms anterior teeth carry the thinnest buccal plates, with thickness increasing posteriorly.
+
+No consistent gender or smoking effect.
 
 ## 1. Document Information
 - **Title:** Alveolar bone thickness overlying healthy maxillary and mandibular teeth: A systematic review and meta-analysis
@@ -32,9 +45,9 @@ Anterior buccal plate predominantly thin (often ≤1 mm). Posterior regions thic
 Heterogeneity in measurement levels (crest vs apex). CBCT voxel size variability across primary studies.
 
 ## 6. Related Work
-- [[immediate-implant/altarawneh-2018-bone-dimensions-anterior-maxilla-cbct]]
+- [[immediate-implant/anatomic-assessment/altarawneh-2018-bone-dimensions-anterior-maxilla-cbct]]
 - [[immediate-implant/esthetic-soft-tissue/yang-2019-labial-bone-thickness-esthetics-iipp]]
-- [[immediate-implant/dossantos-2019-buccal-bone-root-inclination-alveolar-cbct]]
+- [[immediate-implant/anatomic-assessment/dossantos-2019-buccal-bone-root-inclination-alveolar-cbct]]
 
 ## 7. Glossary
 - **IIP:** Immediate Implant Placement — placement at the time of tooth extraction.

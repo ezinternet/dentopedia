@@ -9,8 +9,21 @@ pdf_filename: lages-2018-isq-insertion-torque-correlation-sr.pdf
 source_collection: external
 ---
 
-## One-line Summary
-SR (12 studies, PRISMA): no statistically significant correlation between insertion torque and ISQ (r=0.366, p=0.079); IT and RFA measure independent aspects of primary stability — low certainty evidence.
+## Three-line Summary
+
+SR (12 studies, PRISMA): no statistically significant correlation between
+
+insertion torque and ISQ (r=0.366, p=0.079); IT and RFA
+
+measure independent aspects of primary stability — low certainty evidence.
+
+## 세줄요약
+
+SR (12 studies, PRISMA): no statistically significant correlation between
+
+insertion torque and ISQ (r=0.366, p=0.079); IT and RFA
+
+measure independent aspects of primary stability — low certainty evidence.
 
 ## 1. Document Information
 - Journal: Clinical Implant Dentistry and Related Research 2018;20(1):26–33

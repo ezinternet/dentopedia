@@ -6,18 +6,28 @@ date: 2023-09-01
 doi: 10.1016/j.jebdp.2023.101886
 source: afrashtehfar-2023-dental-profession-high-prevalence-burnout.md
 category: professional-wellbeing
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/afrashtehfar-2023-dental-profession-high-prevalence-burnout.pdf
 pdf_filename: afrashtehfar-2023-dental-profession-high-prevalence-burnout.pdf
 source_collection: external
 tags: [burnout, commentary, MBI, JEBDP, emotional-exhaustion]
 ---
 
-## One-line Summary
-JEBDP-commissioned commentary/critical appraisal of Moro et al. 2022 (the dentist burnout SR+MA) — no new data; it endorses the MBI-only inclusion criterion and the EE/DP/PA subscale frame and reinforces emotional exhaustion (EE) ~28% as the dominant signal, providing a published peer-reviewer perspective to cite alongside the primary SR+MA.
+## Three-line Summary
 
-## 한줄요약
-JEBDP가 Moro 2022 SR+MA에 붙인 공식 reviewer 코멘터리 — 새 데이터 없음, 그러나 동지(同誌) 비평을 통해 핵심 finding(EE 28% 압도)에 편집권위적 무게를 더한다. 인용 가치는 reviewer 입장 정리.
+JEBDP-commissioned commentary and critical appraisal of Moro et al. 2022 (the dentist burnout SR+MA) — no new primary data are presented.
+
+The commentary endorses the MBI-only inclusion criterion and the three-subscale (EE/DP/PA) architecture, reinforcing emotional exhaustion (EE) ~28% as the dominant and most clinically meaningful signal in dental burnout.
+
+Its practical value is as a published peer-reviewer endorsement that demonstrates the field accepted Moro 2022's conclusions; citing both papers reduces single-study citation risk for the 13% overall prevalence figure.
+
+## 세줄요약
+
+JEBDP가 Moro 2022 SR+MA에 붙인 공식 reviewer 코멘터리 — 신규 1차 데이터 없음.
+
+MBI 단독 포함기준 및 3개 하위척도(정서적 소진(EE)/비인격화(DP)/개인 성취감 저하(PA)) 구조를 지지; 정서적 소진(EE) ~28%가 임상적으로 가장 의미 있는 신호임을 강조.
+
+실용적 가치: 동 저널의 편집권위 있는 peer-reviewer 공식 승인 — Moro 2022와 함께 인용 시 단일논문 인용 위험 감소.
 
 ## Summary
 This is the JEBDP-commissioned commentary/critical appraisal of Moro et al. 2022 (the dentist burnout SR+MA). Afrashtehfar and Jurado restate the underlying study methodology, endorse the MBI-only inclusion criterion, and reinforce the emotional-exhaustion-dominant pattern in the findings. No new data, no re-analysis — its value is as a published peer-reviewer perspective demonstrating that the field accepted the Moro SR+MA's conclusions.

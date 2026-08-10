@@ -12,11 +12,21 @@ source_collection: external
 ## Why Ingested
 Paediatric HVGIC-vs-composite evidence for the GIC cluster; supports [[glass-ionomer/krishnakumar-2024-hvgic-composite-primary-teeth-sr]].
 
-## One-line Summary
+## Three-line Summary
+
 SR of 4 clinical trials finding no significant difference between HVGIC and composite resin in primary-teeth restorations.
 
-## 한줄요약
-임상시험 4편 SR — 유치 수복에서 HVGIC와 composite resin 간 유의차 없음.
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
+SR of 4 임상적 (Clinical) trials finding no significant difference between HVGIC and composite resin in primary-teeth restorations.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 Int J Clin Pediatr Dent 2024; 17(2): 101–108. DOI 10.5005/jp-journals-10005-2757. Open access (CC BY). Government Dental College & Hospital, Nagpur, India.

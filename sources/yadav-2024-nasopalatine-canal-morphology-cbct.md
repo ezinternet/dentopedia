@@ -13,13 +13,21 @@ source_collection: external
 
 Anterior maxillary implant placement requires thorough knowledge of 비비구개관 (Nasopalatine Canal, NPC) dimensions and morphological variants to avoid nerve/vascular injury. This cross-sectional CBCT study (n=102) provides sex- and age-stratified morphometric data that supplements [[wiki/radiology/yadav-2024-nasopalatine-canal-morphology-cbct]] and informs safe implant planning in the esthetic zone.
 
-## One-line Summary
+## Three-line Summary
 
-Cross-sectional CBCT study (n=102, Indian population) characterizing nasopalatine canal length, diameter, shape, orientation, and opening count across age groups and sexes, with statistically significant sex and age differences in several dimensions.
+Retrospective cross-sectional CBCT morphometric study (n=102, 54F/48M, southern Indian population, Manipal College of Dental Sciences) characterizing nasopalatine canal (NPC) length, diameter, shape, orientation, and opening count across six age groups and both sexes.
 
-## 한줄요약
+Significant sex differences were found: males had longer NPC (10.19 vs 9.16 mm, p=0.012) and greater anteroposterior diameter at palatal opening (3.53 vs 2.92 mm, p<0.001); cylindrical shape was most common (25.5%) with seven distinct sagittal shapes identified; mediolateral diameter increased significantly with age (≥61y vs ≤20y, p=0.027).
 
-인도인 102명 CBCT 단면연구: 비비구개관(NPC)의 길이·직경·형태·방향·개구 수를 성별·연령별로 분석하여 전방 상악 임플란트 수술 시 해부학적 기준 제공.
+For anterior maxillary implant planning, these sex- and age-stratified NPC dimensions provide a risk reference — canal proximity risks include nasopalatine nerve injury (loss of sensation), vascular injury (bleeding), and post-traumatic NPC cyst formation.
+
+## 세줄요약
+
+후향적 CBCT 단면 형태 계측 연구 (n=102, 여성 54·남성 48명, 인도 남부 Manipal 치과대학) — 비비구개관 (Nasopalatine Canal, NPC)의 길이·직경·형태·방향·개구 수를 성별·연령군별로 분석.
+
+성별 차이 유의: 남성이 NPC 길이 더 길고 (10.19 vs 9.16 mm, p=0.012), 구개쪽 개구부 전후 직경 더 큼 (3.53 vs 2.92 mm, p<0.001); 원통형 (Cylindrical) 형태가 가장 흔함 (25.5%); 내외측 직경은 고령군에서 유의하게 증가 (≥61세 vs ≤20세, p=0.027).
+
+전방 상악 임플란트 계획 시 성별·연령별 NPC 치수를 위험 참고 기준으로 활용해야 하며, NPC 인접 손상 위험으로는 비구개 신경 손상(감각 소실)·혈관 손상(출혈)·외상 후 NPC 낭종 형성이 있음.
 
 ## 1. Document Information
 

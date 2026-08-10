@@ -2,7 +2,7 @@
 title: "Correlation of anthropometric methods with standard method of recording the vertical dimension of occlusion: A systematic review and meta-analysis"
 authors: Goyal N, Kaurani P, Goyal A, Karuveettil V, Gutjahr G, Janakiram C, et al.
 year: 2026
-doi: J Prosthet Dent 2026;135(3):528-538
+doi: "10.1016/j.prosdent.2025.04.029"
 category: [complete-denture]
 pdf_path: /Users/oracleneo/llm-wiki/papers/goyal-2026-anthropometric-methods-vertical-dimension-occlusion-sr-ma.pdf
 pdf_filename: goyal-2026-anthropometric-methods-vertical-dimension-occlusion-sr-ma.pdf
@@ -13,13 +13,21 @@ source_collection: external
 
 Provides the missing quantitative layer under the OVD-determination narratives: the two review pages [[complete-denture/alhajj-2017-occlusal-vertical-dimension-complete-denture-review]] and [[complete-denture/fayad-2025-vertical-dimension-determination-prosthodontics-review]] *list* anthropometric/craniofacial-landmark methods but do not pool their accuracy. This SR+MA ranks 11 anthropometric methods by their pooled correlation with the standard OVD recording method, identifying which facial/finger measurement is the strongest predictor.
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review + meta-analysis (13 cross-sectional studies, 3275 participants, 11 anthropometric methods; J Prosthet Dent 2026) finding anthropometric (facial/finger) measurements correlate highly overall with the standard OVD recording method — thumb length strongest overall (r ≈ 0.63 common / 0.57 random), distal outer-canthus–rima-oris strongest in men (≈0.57–0.58), little-finger length strongest in women (≈0.46) — but with very high heterogeneity (I² up to 99%) and high risk of bias in patient selection/index test.
+Systematic review + meta-analysis (13 cross-sectional studies, 3275 participants, 11 anthropometric methods;
 
-## 한줄요약
+J Prosthet Dent 2026) finding anthropometric (facial/finger) measurements correlate highly overall with the standard OVD recording method — thumb length strongest overall (r ≈ 0.63 common / 0.57 random), distal outer-canthus–rima-oris strongest in men (≈0.57–0.58), little-finger length strongest in women (≈0.46) — but with very high heterogeneity (I² up to 99%) and high risk of bias in patient selection/index test.
 
-체계적 문헌고찰 + 메타분석(13편 단면연구, 3275명, 11개 인체계측법; J Prosthet Dent 2026) — 인체계측(안면·손가락) 측정이 표준 OVD 기록법과 전반적으로 높은 상관; 전체 최강은 엄지 길이(r≈0.63 고정/0.57 임의), 남성은 외안각–구열 거리(≈0.57–0.58), 여성은 새끼손가락 길이(≈0.46). 단 이질성 매우 높고(I² 최대 99%) 환자선정·index test 비뚤림 위험 높음.
+(incomplete)
+
+## 세줄요약
+
+체계적 문헌고찰 + 메타분석(13편 단면연구, 3275명, 11개 인체계측법;
+
+J Prosthet Dent 2026) — 인체계측(안면·손가락) 측정이 표준 OVD 기록법과 전반적으로 높은 상관;
+
+전체 최강은 엄지 길이(r≈0.63 고정/0.57 임의), 남성은 외안각–구열 거리(≈0.57–0.58), 여성은 새끼손가락 길이(≈0.46). 단 이질성 매우 높고(I² 최대 99%) 환자선정·index test 비뚤림 위험 높음.
 
 ## 1. Document Information
 

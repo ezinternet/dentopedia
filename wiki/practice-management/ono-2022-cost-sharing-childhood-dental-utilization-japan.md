@@ -6,7 +6,7 @@ date: 2022-01-24
 doi: 10.1111/cdoe.12730
 source: ono-2022-cost-sharing-childhood-dental-utilization-japan.md
 category: [practice-management]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 full_text: false
 pmid: "35072286"
@@ -19,13 +19,21 @@ relations:
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective difference-in-differences study of Japanese administrative dental claims (1108 children, 6276 visits, 455 clinics) finding that discontinuing a childhood dental subsidy at age 10 produced NO significant short-term (12-month) change in utilization, cost, or acute severe dental conditions.
+Retrospective difference-in-differences natural experiment using Kumamoto Prefecture administrative dental claims (1108 children, 6276 visits, 455 clinics, 2014–2015) comparing municipalities that discontinued the childhood dental subsidy at age 10 vs those that retained it.
 
-## 한줄요약
+Discontinuing the subsidy produced no significant short-term (12-month) change in first visits (mean ratio 1.01), total visits (1.01), cost (+0.7 USD, CI −0.2–1.6), or acute severe dental conditions (1.06) — every interval spanning the null.
 
-일본 행정 치과 청구자료 후향적 이중차분(DiD) 연구(아동 1108명·내원 6276건·치과 455곳) — 만 10세에 소아 치과 보조금을 중단해도 12개월 단기 동안 이용량·비용·급성 중증 치과상태에 유의한 변화가 없었음.
+The null finding is specific to a universal-coverage setting where residual cost-sharing was already minimal; the small price change tested limits conclusions about cost-sharing relevance in higher out-of-pocket contexts such as Korea.
+
+## 세줄요약
+
+일본 구마모토현 행정 치과 청구자료 이중차분(DiD) 자연실험(아동 1108명·내원 6276건·치과 455곳, 2014–2015): 만 10세에 소아 치과 보조금을 중단한 시정촌 대 유지 시정촌을 비교.
+
+12개월 단기 추적에서 초진(1.01)·총내원(1.01)·비용(+$0.7, CI −0.2–1.6)·급성 중증 치과상태(1.06) 모두 귀무값을 포함해 유의한 변화 없음.
+
+이미 본인부담이 극소화된 공공보험 환경에서 소액 비용 변화를 시험한 결과이므로, 본인부담이 높은 한국 등 다른 의료체계에 직접 일반화하는 것은 제한적.
 
 ## Summary
 

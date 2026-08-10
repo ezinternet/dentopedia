@@ -6,18 +6,28 @@ date: 2021-08-01
 doi: 10.1016/j.jdent.2021.103723
 source: laumbacher-2021-zirconia-prosthetic-restorations-long-term-sr.md
 category: [prosthetic-materials]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/laumbacher-2021-zirconia-prosthetic-restorations-long-term-sr.pdf
 pdf_filename: laumbacher-2021-zirconia-prosthetic-restorations-long-term-sr.pdf
 source_collection: external
 tags: [zirconia, crown, FDP, chipping, veneering, monolithic, implant, survival-rate, long-term]
 ---
 
-## One-line Summary
-Overview of 38 systematic reviews (~10,000 zirconia restorations) covering tooth- and implant-supported single crowns and FDPs: satisfactory 5-year survival across all types (91–100%), with veneering-ceramic chipping the most frequent technical complication — addressable by monolithic design.
+## Three-line Summary
 
-## 한줄요약
-38개 체계적 문헌고찰 개요(~10,000개 지르코니아 수복물): 치아지지·임플란트지지 단관 및 고정성 국소의치 모두 5년 생존율 양호, 베니어 도재 치핑이 가장 흔한 기술적 합병증이며 단일체 디자인으로 해결 가능.
+Overview of 38 systematic reviews (~10,000 zirconia restorations, 2006–2021) covering tooth- and implant-supported single crowns and FDPs; Cohen's kappa = 0.917 for study selection.
+
+5-year survival was satisfactory across all restoration types (tooth-supported SC 91.2–95.9%; implant-supported SC 97.1–97.6%; FDPs 89.4–100%); chipping of the veneering ceramic was the most frequent technical complication.
+
+Monolithic zirconia design addresses the dominant chipping problem; the long-term effect of hard zirconia on the masticatory system and opposing dentition remains insufficiently studied.
+
+## 세줄요약
+
+38개 체계적 문헌고찰(~10,000개 지르코니아 수복물, 2006–2021)을 종합한 개요로, 치아·임플란트지지 단관 및 고정성 국소의치(Fixed Dental Prosthesis, FDP)를 망라함; 심사자 간 Cohen's kappa = 0.917.
+
+5년 생존율 전반적으로 양호(치아지지 단관 91.2–95.9%, 임플란트지지 단관 97.1–97.6%, FDP 89.4–100%); 베니어 도재 치핑이 가장 흔한 기술적 합병증.
+
+모놀리식 디자인으로 치핑 문제 해결 가능하나, 단단한 지르코니아가 교합계·대합치에 미치는 장기 영향은 여전히 불명확.
 
 ## Summary
 An overview (summary) of 38 systematic reviews encompassing approximately 10,000 zirconia-based prosthodontic restorations, covering both tooth-supported (TS) and implant-supported (IS) single crowns (SCs) and fixed dental prostheses (FDPs). Five-year survival rates were satisfactory across all restoration types. **Chipping of the veneering ceramic** was the most frequent technical complication, followed by framework fracture and loss of retention. The authors conclude that chipping can be overcome by adapted design or monolithic fabrication, though clinical systematic reviews on monolithic zirconia specifically were rare at time of publication. The impact of wear-resistant zirconia on the masticatory system (TMJ, opposing teeth) remains unclear.

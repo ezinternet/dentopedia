@@ -13,13 +13,21 @@ source_collection: external
 
 상악동 거상술 합병증 중 가장 흔한 상악동막 천공(perforation)의 처치 방법을 체계적으로 정리한 한국어 종설로, [[wiki/sinus-lift/lateral]] 범주의 임상적 처치 결정 트리를 보완하기 위해 수집. 천공 크기별(5 mm 미만 / 5~10 mm / 10 mm 이상) 처치 프로토콜과 임플란트 성공률 데이터를 직접 제공한다.
 
-## One-line Summary
+## Three-line Summary
 
 Korean narrative review (PubMed 1998–2009, 7 studies, n>436 implants) summarizing repair techniques for maxillary sinus membrane perforations by size, with implant success rates ranging 69.6–98.9%.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 한국 종설(PubMed 1998~2009, 7편, 임플란트 436개 이상): 상악동막 천공 크기별 처치법(교원질막, 층판골, 협부지방대, 봉합술)과 임플란트 성공률(69.6~98.9%) 정리.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

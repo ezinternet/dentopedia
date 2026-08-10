@@ -6,18 +6,26 @@ date: 2023-01-01
 doi: 10.1007/s00784-023-05050-x
 source: bresser-2023-intracoronal-restorations-longevity-sr-ma.md
 category: [inlay]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/bresser-2023-intracoronal-restorations-longevity-sr-ma.pdf
 pdf_filename: bresser-2023-intracoronal-restorations-longevity-sr-ma.pdf
 source_collection: external
 tags: []
 ---
 
-## One-line Summary
-SR+MA (12 studies, 946 restorations, 1–7 year follow-up) comparing intracoronal indirect restorations of gold, lithium disilicate, leucite, and indirect resin composite: indirect resin composite showed higher failure rates, while gold and lithium disilicate had superior long-term longevity and leucite performed satisfactorily.
+## Three-line Summary
+SR+MA (PRISMA/PROSPERO; 12 studies, 946 restorations, 1–7 year follow-up) comparing clinical longevity of intracoronal indirect restorations: gold, lithium disilicate, leucite, and indirect resin composite.
 
-## 한줄요약
-SR+MA(12편, 946개 수복물, 1-7년): 교내 간접수복물 4재료 비교 — 간접레진 실패율 높음; 금·리튬디실리케이트 장기 생존율 우수; 루사이트도 양호
+Indirect resin composite showed significantly higher failure rates; gold and lithium disilicate demonstrated superior survival probability; leucite performed satisfactorily but below the two top materials.
+
+Heterogeneity and a limited number of long-term RCTs restrict the certainty of these rankings; the primary outcome was risk difference using a random-effects model.
+
+## 세줄요약
+SR+MA (PRISMA/PROSPERO; 12편, 946개 수복물, 1–7년 추적): 인트라코로날 간접 수복물 4가지 재료(금·리튬디실리케이트·루사이트·간접레진)의 임상 수명 비교.
+
+간접레진 실패율 유의하게 높음; 금·리튬디실리케이트 생존 확률 최우수; 루사이트는 양호하나 두 상위 재료에 못 미침.
+
+연구 간 이질성이 크고 장기 RCT가 부족해 재료 순위에 대한 근거 확실도가 제한됨.
 
 ## Summary
 SR+MA (PRISMA, PROSPERO CRD42021233185) comparing clinical longevity of intracoronal indirect restorations: gold, lithium disilicate, leucite, and indirect resin composite. 12 studies, 946 restorations, 1–7 year follow-up. Indirect resin composite showed higher failure rates; gold and lithium disilicate demonstrated superior longevity; leucite performed satisfactorily.

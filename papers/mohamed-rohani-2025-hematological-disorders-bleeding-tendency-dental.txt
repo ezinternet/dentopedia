@@ -1,0 +1,25 @@
+Title: The Dental Management of Patients With Common Hematological Disorders and Bleeding Tendency.
+
+Authors: Maryani Mohamed Rohani, Aisyah Ahmad Fisal
+Affiliation: Department of Paediatric Dentistry & Orthodontics, Faculty of Dentistry, Universiti Malaya, Kuala Lumpur, Malaysia.
+
+Journal: Special Care in Dentistry (Spec Care Dentist) 2025;45(4):e70090
+DOI: 10.1111/scd.70090
+PMID: 40843974
+PMCID: none (no PMC full text available)
+Article types: Journal Article; Review
+Language: eng
+
+Keywords: anticoagulants; antiplatelet agents; dental extraction; hemophilia; local hemostatic measures; multiple myeloma; von Willebrand disease
+
+MeSH terms: Humans; Hematologic Diseases; Dental Care for Chronically Ill; Anticoagulants; Blood Coagulation Disorders; Risk Assessment
+
+--- ABSTRACT (source: PubMed; full text not retrieved) ---
+
+Hematological conditions such as anemia, hemophilia, von Willebrand disease, leukemia, and multiple myeloma can lead to various oral manifestations, including delayed wound healing, mucosal ulcers, and increased bleeding risk. This review article outlines the implications of anticoagulant and antiplatelet therapies on dental procedures, highlighting the need for careful risk assessment and management strategies. The article emphasizes the importance of understanding these disorders for dental professionals to provide safe and effective care. The review also provides insights into diagnostic criteria for hematological disorders, and the collaborative approach required between dentists and hematologists. By addressing these critical aspects, the article aims to guide dental practitioners in enhancing patient outcomes while managing the complexities associated with bleeding problems.
+
+--- END ABSTRACT ---
+
+NOTE: This is an abstract-only ingest. No PMCID exists for this record; full text was not retrieved.
+The abstract contains no quantitative data — no effect sizes, incidence rates, or thresholds.
+Retrieved via PubMed. Source: https://pubmed.ncbi.nlm.nih.gov/40843974/

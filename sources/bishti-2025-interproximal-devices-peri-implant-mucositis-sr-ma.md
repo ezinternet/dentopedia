@@ -17,13 +17,21 @@ text_filename: bishti-2025-interproximal-devices-peri-implant-mucositis-sr-ma.tx
 
 SR+MA (Bishti 2025, RWTH Aachen) on **self-performed interproximal cleaning** (dental floss vs interdental brush vs water flosser/oral irrigator ± CHX) **adjunctive to toothbrushing** around implant-supported restorations for managing peri-implant mucositis — the device-level home-care question that natural-tooth periodontal evidence has long answered but implant evidence had not. It complements [[implants/peri-implantitis/jepsen-2015-primary-prevention-periimplantitis-managing-mucositis]] (mucositis is the reversible precursor to peri-implantitis; primary prevention = patient-administered plaque control) by quantifying *which* interproximal aids actually move PI/BOP around implants, and pairs with the adjunctive-therapy framing of [[implants/peri-implantitis/mauriello-2026-peri-implant-mucositis-adjunctive-narrative-review]].
 
-## One-line Summary
+## Three-line Summary
 
-PRISMA SR+MA (792 records → 6 RCTs, only 2 meta-analysed for I²=68–98% heterogeneity): oral irrigators and interdental brushes showed higher but NOT significant improvement in peri-implant mucositis signs vs dental floss, and toothbrushing + water oral irrigator was NOT significantly better than toothbrushing alone for BOP/PI — all devices give some benefit but self-performed interproximal-hygiene evidence around implants remains limited.
+PRISMA SR+MA (RWTH Aachen, 792 records → 6 RCTs restricted to implant-supported restorations with peri-implant mucositis; only 2 eligible for meta-analysis due to I²=68–98% heterogeneity) comparing self-performed interproximal aids (dental floss, interdental brush, oral irrigator ± CHX) adjunctive to toothbrushing.
 
-## 한줄요약
+Oral irrigators and interdental brushes showed descriptively higher improvement in BOP/PI vs dental floss but the difference was not statistically significant; pooled meta-analysis of 2 studies showed toothbrushing + water flosser was NOT significantly better than toothbrushing alone for modified PI (I²=68%) or BOP (I²=98%).
 
-PRISMA 체계적문헌고찰+메타분석(792편→6 RCT, 이질성 I²=68–98%로 2편만 메타분석): 구강세정기(water flosser)와 치간칫솔이 치실보다 임플란트 주위 점막염 개선이 더 컸으나 통계적으로 유의하지 않았고, 칫솔질+물 구강세정기가 칫솔질 단독 대비 BOP/PI에서 유의차 없음 — 모든 기구가 일부 효과는 있으나 임플란트 주위 자가 치간위생 근거는 여전히 제한적.
+All devices provided some benefit, but robust evidence is lacking — future RCTs with standardized mucositis criteria, ≥6-month follow-up, and toothbrushing-alone controls are needed before recommending one device over another around implants.
+
+## 세줄요약
+
+PRISMA SR+MA (RWTH Aachen, 792편→6 RCT, 임플란트 지지 수복물+점막염 환자 한정; 이질성 I²=68–98%로 2편만 메타분석) — 칫솔질 외 치실·치간칫솔·구강세정기(물/CHX) 자가 치간위생의 임플란트 주위 점막염 효과 비교.
+
+구강세정기·치간칫솔이 치실 대비 BOP/PI 개선이 기술적으로 더 컸으나 통계적 유의차 없음; 풀링 메타분석에서 칫솔질+물 구강세정기는 칫솔질 단독 대비 변형 치면세균막지수(I²=68%)·BOP(I²=98%) 모두 유의차 없음.
+
+모든 기구에서 일부 효과는 확인되나 임플란트 주위 자가 치간위생의 강력한 근거 부재 — 표준화된 점막염 정의·≥6개월 추적·칫솔질 단독 대조군을 갖춘 대규모 RCT 필요.
 
 ## 1. Document Information
 

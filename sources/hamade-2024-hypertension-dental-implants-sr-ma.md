@@ -17,13 +17,21 @@ text_filename: hamade-2024-hypertension-dental-implants-sr-ma.txt
 
 기존 [[drug/systemic-disease/al-ansari-2022-diabetes-mellitus-dental-implants-sr-ma]]·[[drug/systemic-disease/shahi-2026-implant-outcomes-diabetes-mellitus-sr]]가 당뇨(systemic comorbidity)와 임플란트 실패의 관계를 다뤘으나 고혈압(Hypertension)은 위키에 부재했다. 본 SR+MA (Chrcanovic 그룹, 2024, 24편)는 고혈압이 임플란트 실패 위험을 높이지 않는다는 근거를 제공해 전신질환별 임플란트 위험 평가 페이지군을 보강한다.
 
-## One-line Summary
+## Three-line Summary
 
 SR+MA (24 studies, 21,066 implants) finding that hypertensive patients show no higher dental-implant failure odds than normotensive patients (OR 1.100, 95% CI 0.709-1.707, p=0.671).
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 24편·임플란트 21,066개 SR+MA — 고혈압 환자의 임플란트 실패 위험은 정상혈압 환자와 차이 없음 (OR 1.100, 95% CI 0.709-1.707, p=0.671).
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

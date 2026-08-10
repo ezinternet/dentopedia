@@ -6,19 +6,31 @@ date: 2010-08-03
 doi: 10.1111/j.1600-0501.2010.01939.x
 source: mordenfeld-2010-msfa-dpbb-biopsies-11year.md
 category: sinus-lift/lateral
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/mordenfeld-2010-msfa-dpbb-biopsies-11year.pdf
 pdf_filename: mordenfeld-2010-msfa-dpbb-biopsies-11year.pdf
 source_collection: external
 tags: []
+relations:
+  - type: contradicts
+    target: sartori-2003-msfa-bio-oss-10year-case-report
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Prospective human histomorphometric biopsy study (n=11 re-entry biopsies at mean 11.5 years after maxillary sinus floor augmentation [MSFA] with 80% deproteinized bovine bone [DPBB] + 20% autogenous bone): tissue composition was lamellar bone 44.7%, marrow 38%, DPBB 17.3%, with DPBB-bone contact 61.5%; particle length/area did not differ from 6-month or pristine particles, indicating DPBB does not resorb but integrates as a permanent osteoconductive scaffold.
+Prospective human histomorphometric biopsy study (n=11 re-entry biopsies at mean 11.5 years) of maxillary sinus floor augmentation (MSFA) with 80% deproteinized bovine bone (DPBB) + 20% autogenous bone in 20 patients with severe posterior maxillary atrophy.
 
-## 한줄요약
-11년 후 인체 biopsy (n=11, 80% DPBB + 20% 자가골 MSFA): 라멜라골 44.7% / 골수강 38% / DPBB 17.3%; DPBB-bone contact 61.5%; 입자 크기 6개월 시점·미사용 입자와 차이 없음 — DPBB는 흡수되지 않고 영구 osteoconductive scaffold로 통합.
+Tissue composition at 11 years: lamellar bone 44.7%, marrow 38%, DPBB 17.3%; DPBB–bone contact 61.5%; particle length and area did not differ from 6-month biopsies or pristine unused particles (all NS).
+
+DPBB does not undergo clinically meaningful resorption over 11 years but integrates as a permanent osteoconductive scaffold — providing the strongest histomorphometric evidence against DPBB resorption.
+
+## 세줄요약
+
+전향적 인체 조직형태계측 생검 연구 (n=11 재진입 생검, 평균 11.5년): 심한 후방 상악 위축 20명 대상 상악동거상술 (Maxillary Sinus Floor Augmentation, MSFA) — 80% 탈단백 우골 (Deproteinized Bovine Bone, DPBB) + 20% 자가골 혼합.
+
+11년 후 조직 구성: 라멜라골 (Lamellar Bone) 44.7%, 골수강 38%, DPBB 17.3%; DPBB-골 접촉률 61.5%; 입자 길이·면적은 6개월 및 미사용 입자와 통계적 차이 없음.
+
+DPBB는 11년에 걸쳐 임상적으로 의미 있는 흡수가 일어나지 않으며 영구적 골전도 스캐폴드 (Osteoconductive Scaffold) 로 통합 — DPBB 비흡수 명제를 지지하는 가장 강력한 조직학적 근거.
 
 ## Summary
 Mordenfeld 등(2010)은 심한 후방 상악 위축 환자 20명 중 11명에서 MSFA(80% DPBB + 20% 자가골) 후 평균 11.5년에 re-entry biopsy를 시행, 비탈회 plastic-embedded histomorphometry로 정량했다. 11년 시점 조직 구성은 라멜라골 44.7%, 골수강 38%, DPBB 17.3%이고 DPBB 표면의 약 61.5%가 골에 직접 접촉했다. 결정적 발견은 입자의 길이·면적이 6개월 시점 동일 환자 샘플 및 제조사 pristine 입자와 통계적으로 차이가 없다는 점 — DPBB는 11년에 걸쳐 임상적으로 의미 있는 흡수가 일어나지 않으며 영구 골유도 scaffold로 통합된다. 이 논문은 "DPBB가 흡수되는가" 논쟁을 정량적으로 종결한 핵심 근거다.

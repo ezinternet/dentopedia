@@ -16,13 +16,21 @@ text_filename: kim-2022-abutment-connection-mbl-survival.txt
 
 한국 강릉원주대 치과병원의 5년 장기 후향적 연구로 external vs internal 연결 타입 간 MBL을 동일 설계 임플란트로 비교. SCRP가 적은 MBL과 유의하게 관련된다는 보조 발견(p=0.027)이 [[prosthetic-materials/scrp-overview]] 작성에 중요한 근거.
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective 5-year cohort (374 implants, Korea) comparing external vs internal abutment connections found no survival difference (93.3% vs 90.7%) but greater MBL at 1 year for external connections; SCRP use was independently associated with significantly less marginal bone loss (p=0.027).
+Retrospective 5-year cohort (374 implants, Korea) comparing external vs internal abutment connections found no survival difference (93.3% vs 90.7%) but greater MBL at 1 year for external connections;
 
-## 한줄요약
+SCRP use was independently associated with significantly less marginal bone loss (p=0.027).
+
+(incomplete)
+
+## 세줄요약
 
 후향적 5년 코호트(374개 임플란트, 강릉원주대)에서 외부연결 vs 내부연결 임플란트 생존율은 차이 없었으나(93.3% vs 90.7%), 1년 시점 MBL은 외부연결에서 유의하게 크고(1.23 vs 0.72mm, p<0.001), 나사-시멘트 혼합유지 보철 (Screw-and-Cement-Retained Prosthesis, SCRP) 사용이 적은 변연골흡수와 유의하게 연관됨(p=0.027).
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

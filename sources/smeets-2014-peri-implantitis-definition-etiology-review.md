@@ -13,13 +13,21 @@ source_collection: external
 
 임플란트 주위염 (Peri-implantitis) 카테고리의 foundational reference로 ingest. 정의·역학·위험인자·예방·치료(보존적/외과적)를 단일 리뷰에서 체계화한 점이 유용하며, [[implants/peri-implantitis]] 신규 카테고리 구축의 핵심 앵커 논문으로 활용.
 
-## One-line Summary
+## Three-line Summary
 
 Narrative review (Head & Face Medicine 2014) covering definition, pathogenesis, epidemiology (prevalence up to 56%), risk factors (smoking, periodontitis history, systemic disease), and treatment hierarchy (CIST protocol) for peri-implantitis.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 서술적 리뷰 (2014): 임플란트 주위염 정의·병인·역학(유병률 최대 56%)·위험인자(흡연·치주염 병력·전신질환)·CIST 치료 프로토콜 체계 정리.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

@@ -11,15 +11,23 @@ source_collection: external
 
 ## Why Ingested
 
-This is the evidence backbone for the **toothpick method (Watanabe method) of manual toothbrushing** — the systematic review that benchmarks the toothpick method head-to-head against Bass / modified Bass / Charter's / Fones / scrub / roll / Stillman for plaque and gingivitis. It contextualizes our powered-vs-manual technique pages: where [[periodontics/liu-2026-powered-manual-toothbrushes-orthodontic-sr-ma]] and [[periodontics/luo-2026-electric-toothbrush-technologies-plaque-gingivitis-nma]] rank *powered* brush technologies, this Rajwani 2020 SR establishes that among *manual* techniques no single method has proven superior (excessive between-study heterogeneity), which is the comparator baseline those powered-brush SMDs are measured against.
+This is the evidence backbone for the **toothpick method (Watanabe method) of manual toothbrushing** — the systematic review that benchmarks the toothpick method head-to-head against Bass / modified Bass / Charter's / Fones / scrub / roll / Stillman for plaque and gingivitis. It contextualizes our powered-vs-manual technique pages: where [[periodontics/oral-hygiene-instruction/liu-2026-powered-manual-toothbrushes-orthodontic-sr-ma]] and [[periodontics/oral-hygiene-instruction/luo-2026-electric-toothbrush-technologies-plaque-gingivitis-nma]] rank *powered* brush technologies, this Rajwani 2020 SR establishes that among *manual* techniques no single method has proven superior (excessive between-study heterogeneity), which is the comparator baseline those powered-brush SMDs are measured against.
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (13 studies: 5 RCTs, 7 experimental non-RCT, 1 in vitro) comparing 10 manual toothbrushing techniques — no single technique is proven superior for plaque/gingivitis due to excessive methodological heterogeneity; the toothpick method beat Bass in the one study that tested it (Morita 1998).
+Systematic review (13 studies: 5 RCTs, 7 experimental non-RCT, 1 in vitro) comparing 10 manual toothbrushing techniques — no single technique is proven superior for plaque/gingivitis due to excessive methodological heterogeneity;
 
-## 한줄요약
+the toothpick method beat Bass in the one study that tested it (Morita 1998).
 
-체계적 문헌고찰 (13편: RCT 5·비무작위 실험 7·in vitro 1)로 수동 칫솔질 기법 10종을 비교한 연구. 연구 간 이질성이 너무 커서 어느 한 기법도 치면세균막·치은염 제거에 우월하다고 결론낼 수 없음 — 단, 토스픽법(Watanabe법)은 이를 검증한 유일한 연구(Morita 1998)에서 Bass법보다 우수했다.
+(incomplete)
+
+## 세줄요약
+
+체계적 문헌고찰 (13편: RCT 5·비무작위 실험 7·in vitro 1)로 수동 칫솔질 기법 10종을 비교한 연구.
+
+연구 간 이질성이 너무 커서 어느 한 기법도 치면세균막·치은염 제거에 우월하다고 결론낼 수 없음 — 단, 토스픽법(Watanabe법)은 이를 검증한 유일한 연구(Morita 1998)에서 Bass법보다 우수했다.
+
+(incomplete)
 
 ## 1. Document Information
 
@@ -85,8 +93,8 @@ Per-study findings:
 
 ## 6. Related Work
 
-- [[periodontics/luo-2026-electric-toothbrush-technologies-plaque-gingivitis-nma]] — ranks *powered* brush technologies (O-R > sonic > ultrasonic); Rajwani is the *manual*-technique comparator baseline.
-- [[periodontics/liu-2026-powered-manual-toothbrushes-orthodontic-sr-ma]] — powered vs manual in ortho patients (Rajwani explicitly excludes ortho).
+- [[periodontics/oral-hygiene-instruction/luo-2026-electric-toothbrush-technologies-plaque-gingivitis-nma]] — ranks *powered* brush technologies (O-R > sonic > ultrasonic); Rajwani is the *manual*-technique comparator baseline.
+- [[periodontics/oral-hygiene-instruction/liu-2026-powered-manual-toothbrushes-orthodontic-sr-ma]] — powered vs manual in ortho patients (Rajwani explicitly excludes ortho).
 - [[periodontics/tsilingaridis-2026-biofilm-induced-gingivitis-children-adolescents]] — biofilm-induced gingivitis & oral hygiene in <18 (Rajwani excludes <17), adjacent prevention evidence.
 
 ## 7. Glossary

@@ -17,11 +17,21 @@ text_filename: liu-2026-monoblock-vs-twinblock-splint-addwr-rct.txt
 
 The wiki's TMD splint evidence ([[tmj/zhang-2020-occlusal-splint-tmd-rct-sr]], [[tmj/zhang-2021-exercise-vs-splint-tmd-sr-ma]]) centres on stabilization splints and pain endpoints; it lacks a head-to-head RCT on anterior repositioning splint (ARS) *designs* for anterior disc displacement with reduction (ADDwR) specifically. This RCT (Liu 2026, n=118) directly compares a novel one-piece Mono-Block ARS against the Twin-Block ARS, extending the splint evidence from "splint vs no treatment" to "which ARS design" and reinforcing the recurring finding that splints relieve symptoms without durably repositioning the disc.
 
-## One-line Summary
-Open-label RCT (n=118, ADDwR) — a novel one-piece Mono-Block (nMB) anterior repositioning splint beat the Twin-Block (TB) splint on joint-noise reduction (T6 82.1% vs 54.4%, p=0.001) and patient comfort/stability, while pain relief, mouth opening, and CBCT disc-condyle position were equivalent; neither splint durably repositioned the disc.
+## Three-line Summary
 
-## 한줄요약
-공개표지 RCT (n=118, 정복성 전방관절원판변위 ADDwR) — 신규 일체형 단일블록 전방재위치장치(novel Mono-Block, nMB)가 트윈블록(Twin-Block, TB)보다 관절잡음 감소(6개월 82.1% vs 54.4%, p=0.001)와 편안함·안정성에서 우월; 통증·최대개구량(MMO)·CBCT 과두-와 위치는 동등하고 두 장치 모두 관절원판을 지속적으로 정복시키지는 못함.
+Open-label RCT (n=118, ADDwR) — a novel one-piece Mono-Block (nMB) anterior repositioning splint beat the Twin-Block (TB) splint on joint-noise reduction (T6 82.1% vs 54.4%, p=0.001) and patient comfort/stability, while pain relief, mouth opening, and CBCT disc-condyle position were equivalent;
+
+neither splint durably repositioned the disc.
+
+(incomplete)
+
+## 세줄요약
+
+공개표지 RCT (n=118, 정복성 전방관절원판변위 ADDwR) — 신규 일체형 단일블록 전방재위치장치(novel Mono-Block, nMB)가 트윈블록(Twin-Block, TB)보다 관절잡음 감소(6개월 82.1% vs 54.4%, p=0.001)와 편안함·안정성에서 우월;
+
+통증·최대개구량(MMO)·CBCT 과두-와 위치는 동등하고 두 장치 모두 관절원판을 지속적으로 정복시키지는 못함.
+
+(incomplete)
 
 ## 1. Document Information
 

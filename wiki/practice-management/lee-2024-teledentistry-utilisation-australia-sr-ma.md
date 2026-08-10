@@ -6,7 +6,7 @@ date: 2024-07-24
 doi: 10.1016/j.jdent.2024.105265
 source: lee-2024-teledentistry-utilisation-australia-sr-ma.md
 category: [practice-management]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: false
 pmid: "39059707"
@@ -19,13 +19,21 @@ relations:
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (18 articles, Australia, to June 2024): teledentistry is an effective caries-screening tool (average sensitivity 69.7%, specificity 97.4%), with patients positive but clinicians mixed, economic evaluations suggesting cost savings, and improved access in regional/rural/remote areas.
+SR+MA (18 articles across 6 diagnostic tests, 6 cross-sectional, 4 economic evaluations, 1 qualitative, 1 expert opinion; PubMed/Google Scholar/EMBASE/Web of Science to June 2024; JBI critical appraisal) evaluating teledentistry utilization in Australia across diagnostic accuracy, stakeholder acceptance, and cost-effectiveness.
 
-## 한줄요약
+Pooled caries-screening accuracy: average sensitivity 69.7%, average specificity 97.4% (non-significant negative correlation between the two, r=0.432); patient acceptance was positive, clinician opinions were mixed; economic evaluations suggested cost savings for both patients and providers; access improved especially in regional/rural/remote areas.
 
-호주 대상 SR+MA (논문 18편, 2024년 6월까지): 원격치과(teledentistry)는 우식 스크리닝 도구로 효과적이며(평균 민감도 69.7%, 특이도 97.4%), 환자는 긍정적이나 임상의는 의견이 갈렸고, 경제성 평가에서 비용 절감 가능성이 확인되어 지방·농어촌·오지 지역 접근성을 높인다.
+High specificity (97.4%) means few false positives, making teledentistry a useful rule-in screen, but moderate sensitivity (~70%) means roughly 30% of caries lesions may be missed — confirming that teledentistry screens but does not replace in-person examination.
+
+## 세줄요약
+
+SR+MA (진단 정확도 6편·단면 6편·경제성평가 4편·질적연구 1편·전문가의견 1편 등 18편; PubMed/Google Scholar/EMBASE/Web of Science ~2024년 6월; JBI 비뚤림 평가): 호주의 원격치의학(teledentistry) 활용을 진단 정확도·수용성·비용 측면에서 평가.
+
+통합 우식 스크리닝 평균 민감도 69.7%, 특이도 97.4% (양자 간 음의 상관 비유의, r=0.432); 환자 수용성 긍정, 임상의 의견 혼재; 경제성 평가는 환자·의료제공자 모두 비용 절감 가능성; 지방·농어촌·오지 접근성 향상.
+
+특이도 97.4%(위양성 적음) → 유용한 rule-in 스크리닝 도구이나, 민감도 ~70%로 우식 병소 약 30%가 검출 누락될 수 있어 원격 스크리닝이 대면 검사를 대체하지 못함을 확인.
 
 > abstract-only — full text not retrieved.
 

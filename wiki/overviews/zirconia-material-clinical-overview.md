@@ -6,7 +6,7 @@ date: 2026-06-16
 doi: N/A
 source: N/A
 category: overviews
-confidence: synthesis
+evidence_level: synthesis
 pdf_path: N/A
 pdf_filename: N/A
 source_collection: synthesis
@@ -28,13 +28,21 @@ tags: [zirconia, y-tzp, monolithic-zirconia, ltd, low-temperature-degradation, c
 > - 임상 의사결정: 비이갈이 환자 고하중 구치부 단일관 → 모놀리식 3Y-TZP(최대 강도, 단 LTD 감시), 심미 전치-구치부 → 4Y-PSZ 또는 다층(3Y base+5Y top)이 현 시장 표준. 이갈이 환자는 베니어·모놀리식 모두 위험 상승 → 교합 보호+추적.
 > - chairside 교합 조정 시 grinding mark를 재도입하면 새 응력집중 생성 → 조정 후 반드시 재연마·재유약 후 장착. 단 유약은 LTD 보호가 아니므로 LTD 완화 전략으로 제시 금지.
 
-## One-line Summary
+## Three-line Summary
 
-Dental zirconia has evolved from opaque 3Y-TZP cores (900–1200 MPa, LTD-susceptible) to composition-gradient multilayer restorations spanning all esthetic indications; 5-year survival is comparable to metal-ceramic (97.6% veneered, 91–100% monolithic), but intraoral LTD confirmed from 6 months with grain pull-out nanoparticle concern at 5 years, and CAD/CAM milling defects — not intrinsic blank flaws — are the dominant fracture initiators in as-sintered clinical restorations.
+Synthesis of dental zirconia across 9 studies: evolution from opaque 3Y-TZP cores (900–1200 MPa; LTD-susceptible via t→m phase transformation) through yttria-content-graded generations to composition-gradient multilayer blocks; strength hierarchy Y-TZP (800–1500 MPa) > lithium disilicate (300–500 MPa) > feldspathic porcelain (70–90 MPa; Warreth 2020), with each generation trading strength for translucency as cubic phase increases (Cesar 2024).
 
-## 한줄요약
+5-year survival is comparable to metal-ceramic (veneered 97.6% vs 98.3%, NS; monolithic 91–100%), but veneered zirconia has 10× higher material fracture (2.1% vs 0.2%, p=0.001; Pjetursson 2018 SR, 35 studies, n=5,275); intraoral LTD confirmed from 6 months, progressing significantly to 5 years as localized monoclinic clusters, glazing offers no protection, and grain pull-out from occlusal tribological stress raises a new nanoparticle-release concern (Koenig 2021, 2024).
 
-치과용 지르코니아는 불투명 3Y-TZP 코어(900–1200 MPa, LTD 취약)에서 조성경사 다층 블록까지 진화했으며, 5년 생존율은 금속도재관과 유사하나(베니어 97.6%, 모놀리식 91–100%), 구강 내 LTD가 6개월부터 확인되고 5년에 나노입자 유출이 우려되며, CAD/CAM 밀링 결함이 임상 파절의 주된 기원이다.
+CAD/CAM milling defects — not intrinsic blank flaws — dominate fracture initiation in as-sintered restorations; in-mouth repair protocol for veneered fractures is Al₂O₃ abrasion + HF + silane + MDP adhesive + composite (monolithic: abrasion + MDP only); bruxism reduces monolithic marginal integrity to 31.6%; clinical selection: monolithic 3Y-TZP for high-load non-bruxist posterior, 4Y-PSZ or multilayer for esthetic anterior-posterior.
+
+## 세줄요약
+
+치과용 지르코니아 9편 종합: 불투명 3Y-TZP 코어(900–1200 MPa, 정방→단사정 변태강화·LTD 취약)에서 조성경사 다층 블록까지 진화; 강도 위계 Y-TZP > 이규산리튬(300–500 MPa) > 장석질 도재(70–90 MPa; Warreth 2020); 이트리아 함량↑ = 투명도↑·입방상↑ but 변태강화 약화→강도↓(Cesar 2024).
+
+5년 생존율은 금속도재관과 유사(베니어 97.6% vs 98.3%, NS)하나 재료 파절은 10배 높고(2.1% vs 0.2%, p=0.001; Pjetursson 2018 SR, 35편), 구강 내 LTD는 6개월부터 확인·5년까지 유의 진행, 유약 보호효과 없음; 5년 교합 tribological 마모에서 나노입자 유출 가능성 신규 우려(Koenig 2024).
+
+CAD/CAM 밀링 결함이 임상 파절의 주된 기원이며, 구강 내 파절 수리는 Al₂O₃ 분사+HF+silane+MDP+복합레진(모놀리식은 분사+MDP만); 이갈이는 모놀리식 마진 완전성을 31.6%로 하락; 비이갈이 후방 고하중 → 모놀리식 3Y-TZP, 심미부 → 4Y-PSZ·다층블록.
 
 ## Summary
 
@@ -230,7 +238,12 @@ When veneered zirconia chips or fractures, intraoral repair is the first-line op
 
 ## Related Papers
 
-- [[dental-materials/warreth-2020-all-ceramic-restorations-narrative-review]] — dental ceramic classification (composition × fabrication), strength hierarchy, clinical indication mapping
+
+### 신규 ingest cluster (2026-07-15)
+
+- [[dental-materials/ceramic/cuzic-2025-clinicians-guide-material-selection-all-ceramics]] — Narrative review (58 articles): decision framework — silica-based ceramics (HF+silane, translucent anterior) vs oxide/zirconia (air-abrasion+MDP, high-strength posterior) — decision support, not new data
+
+- [[dental-materials/ceramic/warreth-2020-all-ceramic-restorations-narrative-review]] — dental ceramic classification (composition × fabrication), strength hierarchy, clinical indication mapping
 - [[dental-materials/zirconia/chopra-2024-mechanical-characteristics-zirconia-dentistry]] — mechanical property deep-dive: transformation toughening, LTD mechanism, fatigue, surface modification
 - [[dental-materials/zirconia/kwon-2024-strength-limiting-defects-zirconia-cad-cam]] — CAD/CAM milling defects vs. intrinsic blank flaws as fracture origins; polishing paradox; Weibull analysis
 - [[dental-materials/zirconia/cesar-2024-dental-zirconia-15years-material-processing]] — definitive generational taxonomy (3Y → 5Y → multilayer); powder technology; sintering; alumina/yttria trade-off
@@ -238,6 +251,6 @@ When veneered zirconia chips or fractures, intraoral repair is the first-line op
 - [[dental-materials/zirconia/leitao-2022-monolithic-zirconia-single-crown-survival-sr]] — SR+MA, 9 studies, n=1,657: first meta-analysis specifically on monolithic zirconia single crowns; bruxism risk; short follow-up caveat
 - [[dental-materials/zirconia/koenig-2021-ltd-monolithic-zirconia-prospective]] — first prospective clinical LTD documentation, 2-year: onset at 6 months, two LTD mechanisms, glazing non-protective
 - [[dental-materials/zirconia/koenig-2024-ltd-monolithic-zirconia-5year-prospective]] — 5-year prospective LTD follow-up: significant progression, nanoparticle concern, 4.5% fracture rate
-- [[dental-materials/alqarawi-2022-intraoral-repair-fractured-ceramics-review]] — intraoral ceramic repair protocol by substrate; two-substrate protocol for veneered zirconia; bond strength as critical determinant
+- [[dental-materials/ceramic/alqarawi-2022-intraoral-repair-fractured-ceramics-review]] — intraoral ceramic repair protocol by substrate; two-substrate protocol for veneered zirconia; bond strength as critical determinant
 - [[overviews/zirconia-implant-clinical-outcomes]] — complementary overview: zirconia implant (not prosthetic material) survival, marginal bone loss, and patient-reported outcomes
 - [[overviews/zirconia-types-clinical-selection]] — sibling overview: 3Y/4Y/5Y/UHTZ **grade-selection** decision axes (this page = material science overall; that page = which grade for which indication)

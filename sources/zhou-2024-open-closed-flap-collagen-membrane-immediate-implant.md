@@ -11,15 +11,23 @@ source_collection: external
 
 ## Why Ingested
 
-Part of a recent GBR / immediate-implant wound-closure collection. This two-cohort study tests whether open healing of an exposed collagen membrane can replace flap-release/CTG complete closure at immediate-implant GBR sites — directly extending the flap-vs-flapless debate in [[immediate-implant/pitman-2023-immediate-implant-flap-flapless-sr-ma]] and the open-vs-closed healing question in [[immediate-implant/bouffleur-2026-open-vs-closed-healing-immediate-implant-rct]].
+Part of a recent GBR / immediate-implant wound-closure collection. This two-cohort study tests whether open healing of an exposed collagen membrane can replace flap-release/CTG complete closure at immediate-implant GBR sites — directly extending the flap-vs-flapless debate in [[immediate-implant/pitman-2023-immediate-implant-flap-flapless-sr-ma]] and the open-vs-closed healing question in [[immediate-implant/esthetic-soft-tissue/bouffleur-2026-open-vs-closed-healing-immediate-implant-rct]].
 
-## One-line Summary
+## Three-line Summary
 
-Two retrospective cohorts (118 patients; 58 complete closure vs 60 open healing) of immediate implant + simultaneous GBR with Bio-Gide: open healing of the exposed collagen membrane gave bone/soft-tissue outcomes equivalent to flap-released complete closure when initial crestal wound width was ≤6 mm, with less pain/swelling.
+Two retrospective cohorts (118 patients;
 
-## 한줄요약
+58 complete closure vs 60 open healing) of immediate implant + simultaneous GBR with Bio-Gide: open healing of the exposed collagen membrane gave bone/soft-tissue outcomes equivalent to flap-released complete closure when initial crestal wound width was ≤6 mm, with less pain/swelling.
 
-즉시식립 + 동시 GBR(Bio-Gide) 두 후향적 코호트(118명; 완전봉합 58 vs 개방치유 60): 초기 치조정 창상폭 ≤6 mm일 때 노출된 콜라겐막의 개방치유가 판막이완 완전봉합과 동등한 골·연조직 결과를 보였고 통증·부종은 더 적었다.
+(incomplete)
+
+## 세줄요약
+
+즉시식립 + 동시 GBR(Bio-Gide) 두 후향적 코호트(118명;
+
+완전봉합 58 vs 개방치유 60): 초기 치조정 창상폭 ≤6 mm일 때 노출된 콜라겐막의 개방치유가 판막이완 완전봉합과 동등한 골·연조직 결과를 보였고 통증·부종은 더 적었다.
+
+(incomplete)
 
 ## 1. Document Information
 

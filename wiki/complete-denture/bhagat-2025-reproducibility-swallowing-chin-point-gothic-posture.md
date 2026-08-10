@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.4103/jpbs.jpbs_787_25
 source: bhagat-2025-reproducibility-swallowing-chin-point-gothic-posture.md
 category: [complete-denture]
-confidence: in-vivo
+evidence_level: in-vivo
 source_collection: pubmed-text
 full_text: true
 pmid: "41164589"
@@ -20,13 +20,21 @@ relations:
     target: kwak-2024-masticatory-positioning-occlusal-stability-full-mouth
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In-vivo clinical method comparison (n=30 edentulous/overdenture patients, custom digital intraoral gothic-arch tracer): digital gothic-arch tracing was the most reproducible centric-relation recording method (~0.98 / ~99% reliability) and posture-independent; light chin-point guidance was second (~0.79 / ~88%) and remained reliable in the supine posture; swallowing was least reproducible (~0.62 / ~77%) and dependable only upright — so chin-point guidance is preferable to swallowing chairside.
+In-vivo within-subject method comparison (n=30 edentulous/overdenture patients) using a custom digital intraoral gothic-arch tracer to evaluate three centric-relation recording techniques — swallowing, light chin-point guidance, and gothic-arch tracing — across upright and supine postures.
 
-## 한줄요약
+Gothic-arch tracing was most reproducible (coefficient ~0.98, reliability ~99%) and posture-independent; light chin-point guidance ranked second (~0.79, ~88%) and remained reliable supine; swallowing was least reproducible (~0.62, ~77%) and dependable only upright (all differences p=0.000).
 
-생체 임상 비교 (무치악·오버덴처 환자 30명, 자체 제작 디지털 구내 고딕아치 트레이서): 디지털 고딕아치 트레이싱이 중심위(CR) 기록 재현성 최고(~0.98 / ~99%)이며 체위 무관, 라이트 턱끝유도(chin-point)가 2위(~0.79 / ~88%)이면서 앙와위에서도 신뢰 가능, 삼킴법은 재현성 최저(~0.62 / ~77%)이고 직립에서만 믿을 만 — 따라서 의자 옆 임상에서는 삼킴보다 턱끝유도가 우수.
+Clinicians should prefer light chin-point guidance over swallowing for chairside centric-relation recording, especially for supine patients; gothic-arch tracing remains the reproducibility gold standard when quantitative precision is required.
+
+## 세줄요약
+
+생체 내 동일 피험자 방법 비교 연구 (무치악·오버덴처 환자 n=30명): 자체 제작 디지털 구내 고딕아치 트레이서를 이용해 삼킴법, 라이트 턱끝유도(chin-point guidance), 고딕아치 트레이싱 세 가지 중심위(CR) 기록법을 직립·앙와위 체위에서 평가.
+
+고딕아치 트레이싱이 재현성 최고(계수 ~0.98, 신뢰도 ~99%, 체위 무관); 라이트 턱끝유도는 2위(~0.79, ~88%)이며 앙와위에서도 신뢰 가능; 삼킴법은 최저(~0.62, ~77%)이며 직립에서만 믿을 만 (모든 차이 p=0.000).
+
+임상에서는 체위 무관한 신뢰도 측면에서 삼킴보다 라이트 턱끝유도가 우선 선택이며, 정량적 정밀도가 요구될 경우 고딕아치 트레이싱이 기준이 됨.
 
 ## Summary
 

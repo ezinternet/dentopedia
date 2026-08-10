@@ -6,7 +6,7 @@ date: 2026-05-29
 doi: "10.4103/JCDE.JCDE_504_26"
 source: singh-2026-is-your-research-statistically-significant.md
 category: evidence-appraisal
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/singh-2026-is-your-research-statistically-significant.pdf
 pdf_filename: singh-2026-is-your-research-statistically-significant.pdf
 source_collection: external
@@ -16,11 +16,21 @@ relations:
     target: flechner-2011-pvalues-confidence-intervals-number-needed
 ---
 
-## One-line Summary
-Editorial arguing that statistical significance and clinical significance are not the same — a clinically meaningful effect (e.g., reduced microleakage or debris extrusion) can fail to reach p<0.05 from small samples or variability — and that results must be read with effect size, confidence intervals, and clinical relevance, not p-value alone.
+## Three-line Summary
 
-## 한줄요약
-Editorial — 통계적 유의성 ≠ 임상적 유의성; 표본 부족·변동성 때문에 임상적으로 의미 있는 효과(미세누출·debris extrusion 감소 등)가 p<0.05에 도달하지 못할 수 있으므로, p-value가 아니라 effect size·신뢰구간·임상적 관련성으로 해석해야 한다.
+Editorial (JCDE 2026, editor-in-chief) arguing that statistical significance and clinical significance diverge in both directions: a clinically meaningful reduction in microleakage or apical debris extrusion can fail p<0.05 due to small samples or high variability, while a trivially small effect can reach p<0.05 in a large-enough study.
+
+The prescription is a six-point interpretive checklist — clinical relevance, biological plausibility, patient-centered outcomes, effect size, confidence intervals, and real-world applicability — with p-value as a complement to, not a replacement for, clinical judgment.
+
+A non-significant result in an underpowered dental study is "absence of evidence," not "evidence of absence," making this a brief but essential companion to Flechner 2011 and D'Arrigo 2024 for interpreting in-vitro and small-sample dental literature.
+
+## 세줄요약
+
+Editorial (JCDE 2026, 편집장): 통계적 유의성과 임상적 유의성은 양방향으로 불일치 — 소표본·고변동성으로 임상적으로 의미 있는 미세누출·첨단 debris extrusion 감소가 p<0.05 미달 가능; 반대로 충분히 큰 표본에서 임상적으로 사소한 효과도 p<0.05 도달.
+
+6가지 p값 너머 해석 기준 제시: 임상 관련성·생물학적 개연성·환자 중심 결과·효과크기·신뢰구간·실세계 적용 가능성 — 통계는 임상 판단을 보완할 뿐 대체 불가.
+
+저검력 치과 연구의 비유의 결과는 '효과 없음의 근거'가 아닌 '근거 없음' — Flechner 2011·D'Arrigo 2024와 함께 in-vitro·소표본 치과 문헌 해석의 필수 동반 참조.
 
 ## Summary
 This editorial by the JCDE editor-in-chief is a short, pointed reminder that p<0.05 is neither necessary nor sufficient for clinical importance. It walks through the Catch-22 familiar to clinician-researchers: a material can perform better clinically yet miss statistical significance because of small samples, low power, or high variability — and conversely a statistically significant result can be clinically trivial. Two dental examples ground the point: a small, non-significant reduction in microleakage may still cut bacterial penetration, postoperative sensitivity, and secondary caries; a slight, non-significant decrease in apical debris extrusion may still mean less postoperative pain. The prescription is to interpret results through clinical relevance, biological plausibility, patient-centered outcomes, effect size, confidence intervals, and real-world applicability, treating statistics as a complement to — not a replacement for — clinical judgment.

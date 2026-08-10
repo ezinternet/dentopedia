@@ -6,7 +6,7 @@ date: 2026-04-30
 doi: 10.1186/s40510-026-00620-7
 source: fonseca-planells-2026-clear-aligner-maxillary-expansion-growing.md
 category: [orthodontics/clear-aligner]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "42060239"
@@ -17,13 +17,21 @@ text_filename: fonseca-planells-2026-clear-aligner-maxillary-expansion-growing.t
 tags: [clear-aligner, invisalign, maxillary-expansion, transverse, growing-patients, mixed-dentition, dentoalveolar, meta-analysis]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (15 studies, 7 pooled) in growing patients: clear aligners can achieve maxillary expansion but produce significantly LESS transverse gain than conventional expanders — intermolar (6-6) −1.77 mm, palatal volume −460.6 mm³, arch perimeter −1.75 mm in favor of conventional expanders; aligner expansion is mainly dentoalveolar (anterior, deciduous teeth), evidence mostly retrospective / moderate RoB.
+PROSPERO-registered SR+MA (PRISMA, 5 databases, 267 screened, 15 included / 7 meta-analyzed) comparing clear aligner maxillary expansion to conventional expanders in growing/mixed-dentition patients — the first quantitative transverse comparison for this population.
 
-## 한줄요약
+Clear aligners produced significantly less transverse gain than conventional expanders: intermolar distance (6-6) −1.77 mm (95% CI 0.97–2.57; p<0.0001), palatal volume −460.6 mm³ (p=0.0011), and arch perimeter −1.75 mm (p=0.0003); aligner-driven expansion was predominantly dentoalveolar (anterior, deciduous teeth) rather than skeletal/posterior.
 
-성장기 환자 SR+MA(15편, 7편 pooled): 투명교정으로 상악 확장은 가능하나 conventional expander 대비 횡적 확장량이 유의하게 적음 — 구치간폭(6-6) −1.77 mm, 구개 용적 −460.6 mm³, 호선 둘레 −1.75 mm 모두 conventional 우위. aligner 확장은 주로 치조성(전치부·유치)이며 근거 대부분 후향적·중등도 RoB.
+For mild dentoalveolar transverse needs in a growing patient aligners are a plausible esthetic option, but for true skeletal transverse deficiency conventional expanders remain superior; evidence is mostly retrospective with moderate risk of bias, so conclusions are provisional.
+
+## 세줄요약
+
+PROSPERO 등록 SR+MA (PRISMA, 5개 데이터베이스, 267건 검색, 15편 포함/7편 메타분석): 성장기/혼합치열 환자에서 투명교정 상악 확장과 conventional expander를 비교한 최초 정량 연구.
+
+투명교정이 conventional expander 대비 횡적 확장량 유의하게 부족: 구치간 거리(6-6) −1.77 mm (p<0.0001), 구개 용적 −460.6 mm³ (p=0.0011), 호선 둘레 −1.75 mm (p=0.0003); 투명교정 확장은 골격성·후방부보다 치조성·전치부·유치 중심.
+
+경미한 치조성 횡적 필요에서 성장기 환자에게 투명교정은 심미적 옵션 가능하나, 진성 골격성 횡적 부족에는 conventional expander 우위; 근거 대부분 후향적·중등도 비뚤림 위험으로 결론은 잠정적.
 
 ## Summary
 

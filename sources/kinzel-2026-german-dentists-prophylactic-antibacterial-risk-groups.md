@@ -17,13 +17,21 @@ text_filename: kinzel-2026-german-dentists-prophylactic-antibacterial-risk-group
 
 기존 [[drug/antibiotics/sbricoli-2024-antibiotic-prescribing-habits-dentistry-survey]] (이탈리아 치과의사 설문)와 [[drug/antibiotics/loper-2025-prophylactic-antibiotics-infective-endocarditis-dental-sr]] (심내막염 예방 SR)이 보여준 "가이드라인 대비 과처방·국가별 편차" 패턴이 독일 위험군 환자에서도 재현되는지 확인하기 위해 인제스트. 본 설문 (Kinzel 2026, n=537)은 4개 위험군 (심내막염·관절치환·당뇨·면역억제/장기이식)을 비교해, 심내막판막·면역억제군에서만 양성 trend가 있고 당뇨·관절치환에서는 음성 consensus까지 나타나는 stewardship 현황을 보강한다.
 
-## One-line Summary
+## Three-line Summary
 
-Cross-sectional online survey of 537 German dentists (from 1070 participants, ~0.5% of the profession): prophylactic antibacterial-drug (ABD) use is generally restrained but highly inconsistent — a positive trend only in endocarditis-risk and immunosuppression/organ-transplant groups, a negative trend to negative consensus in diabetes and joint-replacement groups; amoxicillin is the overwhelming first-line and clindamycin the second-line drug across all four groups.
+Cross-sectional online survey of 537 German dentists (from 1070 participants, ~0.5% of the profession): prophylactic antibacterial-drug (ABD) use is generally restrained but highly inconsistent — a positive trend only in endocarditis-risk and immunosuppression/organ-transplant groups, a negative trend to negative consensus in diabetes and joint-replacement groups;
 
-## 한줄요약
+amoxicillin is the overwhelming first-line and clindamycin the second-line drug across all four groups.
+
+(incomplete)
+
+## 세줄요약
 
 독일 치과의사 537명 대상 횡단 온라인 설문: 예방적 항균제 (ABD) 처방은 전반적으로 절제돼 있으나 매우 불일치 — 심내막염 위험군·면역억제/장기이식군에서만 양성 trend, 당뇨·관절치환군에서는 음성 trend~음성 consensus였고, 네 군 모두 1차약 아목시실린·2차약 클린다마이신이 압도적이었다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 
@@ -73,7 +81,7 @@ According to PubMed, this summary is based on Kinzel & Seifert, *Int J Dent* 202
 - [[drug/antibiotics/sbricoli-2024-antibiotic-prescribing-habits-dentistry-survey]] — analogous dentist-prescribing survey (Italy); same over-prescription/variation finding.
 - [[drug/antibiotics/loper-2025-prophylactic-antibiotics-infective-endocarditis-dental-sr]] / [[drug/antibiotics/sperotto-2024-antibiotic-prophylaxis-infective-endocarditis-sr-ma]] / [[drug/antibiotics/wilson-2021-ie-prophylaxis-aha-scientific-statement]] — the AHA-derived endocarditis-prophylaxis evidence base this survey benchmarks against.
 - [[drug/antibiotics/mendez-romero-2025-antibiotic-stewardship-dentistry-sr]] / [[drug/antibiotics/thompson-2023-dental-antibiotic-stewardship-core-outcome-set]] — antibiotic stewardship framing.
-- [[drug/antibiotics/wagner-2022-diabetes-mellitus-dental-implants-sr]] — diabetes + implants context.
+- [[drug/systemic-disease/wagner-2022-diabetes-mellitus-dental-implants-sr]] — diabetes + implants context.
 
 ## 7. Glossary
 

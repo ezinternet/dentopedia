@@ -6,7 +6,7 @@ date: 2022-12-03
 doi: 10.1186/s12903-022-02619-y
 source: wang-2022-unopposed-molar-overeruption-implant-cbct.md
 category: [occlusion]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 full_text: true
 pmid: "36463135"
@@ -19,13 +19,21 @@ relations:
     target: mao-2024-occlusal-changes-implant-supported-single-crowns
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective CBCT cohort (59 patients, 68 unopposed molars, all periodontitis): unopposed molars over-erupted a mean 0.43 mm (max 0.75 mm) and tipped 1.7° buccally within ~9 months between antagonist extraction and implant restoration — overeruption is a true 3D movement (vertical + tipping + rotation) and is fastest in the early period.
+Retrospective CBCT superimposition cohort (59 patients, 68 unopposed molars, all with periodontitis) measuring 3D tooth position change between antagonist extraction and implant restoration over ~9 months.
 
-## 한줄요약
+Unopposed molars over-erupted a mean 0.43 mm (maximum 0.75 mm) and tipped 1.7° buccally; movement is a compound 3D event (vertical migration + buccal tipping + rotation), with one outlier erupting 2.56 mm in just 9 months.
 
-후향적 CBCT 코호트(환자 59명·대합치 없는 대구치 68개, 전원 치주염): 대합치 발치부터 임플란트 보철까지 약 9개월 동안 대합치 없는 대구치가 평균 0.43 mm(최대 0.75 mm) 정출하고 협측으로 1.7° 경사 — 정출은 수직 이동·경사·회전이 섞인 3차원 움직임이며 초기에 가장 빠르다.
+Even within the typical implant treatment timeline, unopposed molars keep migrating — space management (monitoring, provisional contact, or timely restoration) should be planned proactively, particularly in patients with periodontitis.
+
+## 세줄요약
+
+대합치 발치~임플란트 보철 약 9개월간의 3차원 치아 이동을 측정한 후향적 CBCT 중첩 코호트(환자 59명·대합치 없는 대구치 68개, 전원 치주염).
+
+대합치 없는 대구치가 평균 0.43 mm(최대 0.75 mm) 정출(Overeruption)하고 협측으로 1.7° 경사; 수직 이동·경사·회전이 합쳐진 3차원 복합 움직임이며, 극단적 경우 9개월 내 2.56 mm 정출.
+
+임플란트 치료 기간 내에도 대합치 없는 구치는 계속 이동 — 특히 치주염 환자는 공간 관리(모니터링·임시 교합 접촉·조기 보철)를 사전 계획해야 함.
 
 ## Summary
 

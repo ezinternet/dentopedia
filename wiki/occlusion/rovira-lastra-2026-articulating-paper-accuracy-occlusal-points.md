@@ -6,7 +6,7 @@ date: 2026-05-10
 doi: "10.3390/diagnostics16101450"
 source: rovira-lastra-2026-articulating-paper-accuracy-occlusal-points.md
 category: [occlusion]
-confidence: cross-sectional
+evidence_level: cross-sectional
 source_collection: pubmed-text
 full_text: true
 pmid: "42196816"
@@ -19,13 +19,21 @@ relations:
     target: didier-2026-occlusal-contacts-ios-vs-carbon-paper-concordance
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Cross-sectional test–retest validity study (n=32 natural dentitions, scanned silicone registration as reference standard): articulating paper detected 81% of posterior occlusal contact points (true-positive) with a 15% false-positive rate; 200 µm paper produced fewer false positives (9.4%) than 100 µm (20.6%), the mandibular arch outperformed the maxillary, and the pulling technique conferred no benefit.
+Cross-sectional test–retest validity study (n=32 natural dentitions) using scanned polyvinyl-siloxane registration as reference standard to evaluate articulating paper accuracy for posterior occlusal contact point detection.
 
-## 한줄요약
+Articulating paper achieved 81% true-positive detection with a 15% false-positive rate; 200 µm paper had significantly fewer false positives (9.4%) than 100 µm (20.6%), and requiring bilateral arch coincidence collapsed false positives to 2.0%.
 
-단면 test–retest 타당도 연구(n=32 자연치열, 스캔한 실리콘 인기 = 기준표준): 교합지는 구치부 교합접촉점의 81%만 검출(진양성)하고 15%는 위양성이었으며, 200 µm 교합지(위양성 9.4%)가 100 µm(20.6%)보다 정확하고 하악궁이 상악궁보다 우수했으며 당기기(pulling) 기법은 이점이 없었다.
+Clinicians should prefer 200 µm paper over 100 µm, verify cusp-tip marks on both arches before adjusting, and not rely on the pulling technique — mandibular arch inspection is both more accurate and easier.
+
+## 세줄요약
+
+단면 타당도 연구(n=32 자연치열): 스캔한 폴리비닐실록산(Polyvinylsiloxane) 실리콘 인기를 기준표준으로 교합지(Articulating Paper)의 구치부 교합접촉점 검출 정확도를 평가.
+
+진양성률 81%, 위양성률 15%; 200 µm 교합지(위양성 9.4%)가 100 µm(20.6%)보다 유의하게 정확하며, 양측 궁 일치 기준 적용 시 위양성 2.0%로 감소.
+
+200 µm 교합지 선택, 교두정 마크는 양측 일치 확인 후 교합 조정, 당기기(Pulling) 기법은 이점 없음 — 하악궁 검사가 더 정확하고 용이.
 
 ## Summary
 

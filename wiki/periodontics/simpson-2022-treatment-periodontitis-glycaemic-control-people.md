@@ -6,20 +6,28 @@ date: 2022-04-01
 doi: 10.1002/14651858.CD004714.pub4
 source: simpson-2022-treatment-periodontitis-glycaemic-control-people.md
 category: [periodontics]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/simpson-2022-treatment-periodontitis-glycaemic-control-people.pdf
 pdf_filename: simpson-2022-treatment-periodontitis-glycaemic-control-people.pdf
 source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Cochrane SR+MA (35 RCTs, 3249 randomised participants, mostly type 2 diabetes): periodontal treatment by subgingival instrumentation produced a moderate-certainty absolute HbA1c reduction of 0.43% (4.7 mmol/mol) at 3-4 months vs no treatment/usual care, sustained at 6 and 12 months.
+Cochrane SR+MA (35 RCTs, 3249 randomised participants, predominantly type 2 diabetes) evaluating whether periodontal treatment by subgingival instrumentation (SRP ± adjuncts) improves glycaemic control vs no active treatment/usual care.
 
-## 한줄요약
+HbA1c reduction vs no treatment: −0.43% (4.7 mmol/mol) at 3–4 months (30 studies, 2443 participants; moderate certainty), sustained at 6 months (−0.30%) and 12 months (−0.50%); sensitivity analysis restricted to low-risk-of-bias studies supported the result.
 
-Cochrane 체계적 문헌고찰+메타분석(RCT 35편, 무작위배정 3249명, 대부분 제2형 당뇨): 치은연하 기구조작(subgingival instrumentation, SRP)에 의한 치주치료가 무처치/일상관리 대비 3-4개월 시점 당화혈색소(HbA1c)를 0.43%(4.7 mmol/mol) 절대 감소시켰고(중등도 근거), 6·12개월에도 유지됨.
+Periodontal treatment provides a clinically significant, moderate-certainty improvement in glycaemic control in diabetic patients; the 2022 update doubled prior study and participant counts and concludes further no-treatment comparison trials are unlikely to change this finding.
+
+## 세줄요약
+
+Cochrane SR+MA (RCT 35편, 무작위배정 3249명, 대부분 제2형 당뇨): 치은연하 기구조작(SRP ± 보조) vs 무처치/일상관리로 당혈색소(HbA1c) 개선 효과 평가.
+
+3–4개월 HbA1c −0.43%(4.7 mmol/mol; 30편, 2443명; 중등도 근거), 6개월 −0.30%, 12개월 −0.50%로 지속; 저 비뚤림 위험 민감도 분석에서도 결과 지지됨.
+
+치주치료는 당뇨 환자의 혈당 조절에 임상적으로 유의한 중등도 근거 수준의 개선 효과를 제공하며, 2022년 업데이트는 연구·참여자 수를 두 배로 늘려 추가 비교 연구가 결론을 바꾸기 어렵다고 결론 내림.
 
 ## Summary
 
@@ -52,5 +60,5 @@ This Cochrane systematic review and meta-analysis (2022 update, CD004714.pub4) e
 
 ## Related Papers
 
-- [[periodontics/smiley-2015-nonsurgical-periodontitis-srp-guideline]] — extends non-surgical SRP efficacy evidence from periodontal endpoints to a systemic glycaemic outcome (HbA1c).
-- [[periodontics/meng-2024-nspt-cardiovascular-risk-markers-sr-ma]] — complementary SR+MA on NSPT systemic effects, pairing the cardiovascular and metabolic (diabetes) impacts of periodontal therapy.
+- [[periodontics/non-surgical-instrumentation/smiley-2015-nonsurgical-periodontitis-srp-guideline]] — extends non-surgical SRP efficacy evidence from periodontal endpoints to a systemic glycaemic outcome (HbA1c).
+- [[periodontics/non-surgical-instrumentation/meng-2024-nspt-cardiovascular-risk-markers-sr-ma]] — complementary SR+MA on NSPT systemic effects, pairing the cardiovascular and metabolic (diabetes) impacts of periodontal therapy.

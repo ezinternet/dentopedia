@@ -17,13 +17,21 @@ text_filename: pal-2014-trends-management-myofascial-pain.txt
 
 TMD 물리치료 분사신장(spray-and-stretch) 논문 감시의 (A) 영역 — 분사신장을 마스티케이션 근막통 관리의 한 모달리티로 배치한 악안면외과 영역 리뷰. [[tmj/koole-2019-spray-stretch-technique-mouth-opening]]가 분사신장의 즉시 개구량 효과만 측정한 단편 근거라면, 본 리뷰는 그 기법이 들어가는 전체 치료 사다리(occlusal splint·물리치료·TENS·LLLT·근이완제·TCA·BTX 주사)를 제공해 [[tmj/chan-2022-myogenous-tmd-diagnosis-treatment-review]]의 근육형 TMD 치료 프레임을 보강한다. PMC 전문 확보.
 
-## One-line Summary
+## Three-line Summary
 
 Narrative/management review (orofacial maxillofacial perspective) placing the spray-and-stretch technique within a two-phase treatment algorithm for masticatory myofascial pain — alongside occlusal splints, massage, ultrasound, TENS, LLLT, biofeedback, trigger-point injection (saline/LA/botulinum toxin), muscle relaxants (tizanidine), and tricyclic antidepressants.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 악안면 영역 근막통 관리 리뷰 — 분사신장(spray-and-stretch)을 교합 스플린트·물리치료(마사지·초음파·TENS·LLLT·바이오피드백)·트리거포인트 주사(생리식염수·국소마취제·보툴리눔)·근이완제(tizanidine)·삼환계 항우울제를 포함한 2단계 치료 알고리즘 안에 위치시킴.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

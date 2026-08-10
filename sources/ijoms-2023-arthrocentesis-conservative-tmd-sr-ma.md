@@ -9,8 +9,21 @@ pdf_filename: ijoms-2023-arthrocentesis-conservative-tmd-sr-ma.pdf
 source_collection: external
 ---
 
-## One-line Summary
-SR+MA of 7 RCTs (448 patients) comparing arthrocentesis vs. conservative management for painful TMD; arthrocentesis significantly improved MMO (+1.12 mm, p=0.001) with borderline pain benefit.
+## Three-line Summary
+
+SR+MA of 7 RCTs (448 patients) comparing arthrocentesis
+
+vs. conservative management for painful TMD; arthrocentesis significantly
+
+improved MMO (+1.12 mm, p=0.001) with borderline pain benefit.
+
+## 세줄요약
+
+체계적 고찰 및 메타분석 (SR+MA) of 7 무작위 대조 시험 (RCT)s (448 patients) comparing arthrocentesis
+
+대 (vs). 보존적 (Conservative) management for painful TMD; arthrocentesis 유의미한 (Significant)ly
+
+improved MMO (+1.12 mm, p=0.001) with borderline pain benefit.
 
 ## 1. Document Information
 - **Journal**: International Journal of Oral and Maxillofacial Surgery 2023;52(8):889–896

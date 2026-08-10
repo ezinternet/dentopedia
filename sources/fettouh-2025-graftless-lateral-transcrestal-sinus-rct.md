@@ -17,13 +17,21 @@ text_filename: fettouh-2025-graftless-lateral-transcrestal-sinus-rct.txt
 
 PubMed 감시 인제스트(transcrestal sinus lift)로 발굴한 신규 head-to-head RCT. 기존 [[sinus-lift/transcrestal/farina-2018-morbidity-transcrestal-lateral-sinus-floor-elevation]]가 측방 vs 경치조골의 morbidity를 비교했다면, 본 RCT는 **둘 다 graftless** 조건에서 4–6 mm 잔존골 부위의 12개월 ISQ·수직골증가·MBL을 직접 비교해 "안정성은 동등, 수직골증가는 측방이 우월, 합병증·불편감은 측방이 많음"이라는 trade-off를 정량화한다. graft 없는 transcrestal 적응증 논의를 [[sinus-lift/transcrestal/sansupakorn-2024-osfe-bcp-graft-versus-no-graft-rct]]의 graft-vs-no-graft 축과 보완적으로 확장한다. PMC 전문 미제공 — abstract-only.
 
-## One-line Summary
+## Three-line Summary
 
-RCT (n=26, RBH 4–6 mm, graftless) comparing lateral window vs transcrestal/crestal maxillary sinus floor elevation: no significant 12-month ISQ difference (80.92 vs 80.19) and no MBL difference, but significantly greater intra-sinus vertical bone gain with the lateral window (3.82 vs 2.42 mm) at the cost of more postoperative complications and patient discomfort.
+Randomized controlled trial (n=26 sites, residual ridge height 4–6 mm, graftless sinus floor elevation) comparing lateral window versus crestal/transcrestal approach in a single-center delayed implant placement design.
 
-## 한줄요약
+At 12 months, implant stability (ISQ) was equivalent between groups (lateral 80.92 ± 4.57 vs crestal 80.19 ± 7.28; not significant), and marginal bone loss showed no intergroup difference (p = 0.31), but intra-sinus vertical bone gain was significantly greater with the lateral window (3.82 ± 0.84 mm vs 2.42 ± 1.39 mm, p < 0.001).
 
-무이식(graftless) 측방 vs 경치조골 상악동거상 RCT (n=26, 잔존골 4–6 mm) — 12개월 ISQ(80.92 vs 80.19)·변연골소실 차이 없음, 그러나 수직골증가는 측방이 유의하게 큼(3.82 vs 2.42 mm), 대신 측방이 합병증·환자 불편감 더 많음.
+Greater bone gain with the lateral approach must be weighed against significantly more postoperative complications and patient discomfort; clinical relevance of the superior bone gain in the 4–6 mm ridge window is debatable when stability equivalence is achieved via either approach.
+
+## 세줄요약
+
+무이식(graftless) 상악동거상술에서 측방 접근법 vs 경치조골 접근법을 비교한 단일센터 RCT (n=26개 부위, 잔존골높이 4–6 mm, 지연식립 설계).
+
+12개월 시점에서 임플란트 안정성(ISQ)은 양군 간 동등(측방 80.92 ± 4.57 vs 경치조골 80.19 ± 7.28; 통계적 차이 없음)하였고 변연골소실도 차이 없었으나(p = 0.31), 상악동 내 수직골증가는 측방이 유의하게 높았음(3.82 ± 0.84 mm vs 2.42 ± 1.39 mm, p < 0.001).
+
+측방 접근의 우월한 골증가는 유의하게 더 많은 술후 합병증과 환자 불편감을 수반하며, 안정성이 이미 동등하게 달성되는 4–6 mm 잔존골 범위에서 그 임상적 의미는 논쟁의 여지가 있다.
 
 ## 1. Document Information
 

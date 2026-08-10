@@ -13,13 +13,21 @@ source_collection: external
 
 Specifically addresses PRF socket preservation in heavy smokers (≥10 cigarettes/day) — smoking is a key modifier in extraction socket healing that most ARP trials explicitly exclude. Provides four-arm comparison (A-PRF, sticky bone/A-PRF, FDBA/CM, collagen plug alone) in a high-risk population. [[bone-regeneration/ridge-preservation/kollati-2019-cerabone-prf-socket-preservation-rct]]
 
-## One-line Summary
+## Three-line Summary
 
-Four-arm single-blind RCT (n=18 smokers, 40 sockets) comparing A-PRF, sticky bone+A-PRF, FDBA+collagen membrane, and resorbable collagen plug alone for soft-tissue healing after ARP in upper molars: A-PRF groups showed significantly better mesio-distal closure and healing index; collagen plug alone performed worst.
+Four-arm single-blind RCT (n=18 heavy smokers ≥10 cigarettes/day, 40 upper molar sockets; King Saud University; NCT05161455; 28-day follow-up) comparing A-PRF, sticky bone+A-PRF, FDBA+collagen membrane, and resorbable collagen plug alone for soft-tissue healing after alveolar ridge preservation.
 
-## 한줄요약
+Both A-PRF groups showed significantly better mesio-distal soft-tissue closure (p=0.012) and healing pattern index (p<0.0001) versus collagen plug alone; FDBA+CM showed intermediate results; A-PRF and sticky bone+A-PRF did not differ significantly from each other.
 
-흡연자 대상 4군 RCT (n=18, 소켓 40개): A-PRF 및 A-PRF+sticky bone군에서 순수 콜라겐 플러그군 대비 유의하게 우수한 연조직 폐합 및 치유 지수, FDBA+CM군은 중간 수준 (추적 28일).
+This is among the first RCTs examining PRF specifically in heavy smokers for ARP; short 28-day follow-up without bone volume or implant outcome data, and a small sample (n=18) limit long-term conclusions.
+
+## 세줄요약
+
+4군 단일 맹검 RCT (n=18 중증 흡연자, 소켓 40개; 상악 구치부; NCT05161455; 28일 추적) — A-PRF, sticky bone+A-PRF, FDBA+콜라겐막, 흡수성 콜라겐 플러그 단독 비교 (치조제 보존술 후 연조직 치유).
+
+A-PRF 두 군 모두 콜라겐 플러그 단독 대비 순구개-원심 연조직 폐합(p=0.012)·치유 지수(p<0.0001) 유의하게 우수; FDBA+CM 중간 수준; A-PRF와 sticky bone+A-PRF 군 간 유의차 없음.
+
+중증 흡연자 대상 PRF 치조제 보존술 초기 RCT; 28일 단기 추적·골 부피/임플란트 결과 없음·소표본(n=18)으로 장기 결론 제한.
 
 ## 1. Document Information
 

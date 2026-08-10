@@ -7,7 +7,7 @@ doi: 10.11607/jomi.10506
 journal: International Journal of Oral & Maxillofacial Implants 39(4):615-624
 source: ozbay-2024-enamel-matrix-derivative-transcrestal-sinus-rct.md
 category: [sinus-lift/transcrestal]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: false
 pmid: "38788135"
@@ -20,13 +20,21 @@ relations:
     target: guo-2020-non-grafted-platelet-concentrations-grafted-transcrestal-sinus
 ---
 
-## One-line Summary
+## Three-line Summary
 
-RCT (24 patients, 40 implants) of transcrestal sinus floor elevation with vs without enamel matrix derivative: EMD significantly increased endo-sinus bone gain at 3 months (3.72 vs 3.10 mm) but the difference disappeared by 12 months, with no inter-group ISQ difference.
+RCT (24 patients, 40 implants, parallel-arm, CBCT-based) comparing transcrestal sinus floor elevation with enamel matrix derivative (EMD+TSFE, n=20) versus TSFE alone (n=20) at 3 and 12 months.
 
-## 한줄요약
+EMD significantly increased endo-sinus bone gain (ESBG) at 3 months (3.72 vs 3.10 mm, p<0.05), but this advantage disappeared by 12 months and no inter-group implant stability (ISQ) difference was found at either timepoint.
 
-경치조골 상악동거상에 법랑기질유도체(EMD) 첨가 RCT(24명·40 임플란트) — EMD군 3개월 endo-sinus 골증가 유의(3.72 vs 3.10 mm)이나 12개월엔 차이 소실, 군간 ISQ 차이 없음.
+EMD accelerates early apical bone formation after transcrestal sinus elevation but confers no durable bone or stability advantage at one year, limiting its clinical justification given the added cost.
+
+## 세줄요약
+
+RCT (24명·40 임플란트, 병렬군, CBCT 기반) — 법랑기질유도체(Enamel Matrix Derivative, EMD) 첨가 경치조골 상악동거상술(TSFE) vs TSFE 단독을 3개월·12개월에 비교.
+
+EMD군에서 3개월 상악동내 골증가(Endo-Sinus Bone Gain, ESBG) 유의하게 큼(3.72 vs 3.10 mm, p<0.05), 그러나 12개월 시점에서 군간 차이 소실, 군간 임플란트 안정성 지수(Implant Stability Quotient, ISQ) 차이도 없음.
+
+EMD가 초기(3개월) 첨단 골형성을 가속하나 1년 시점 지속적 골량·안정성 이점은 없어, 추가 비용 대비 임상적 효용 제한적.
 
 ## Summary
 

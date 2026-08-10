@@ -7,7 +7,7 @@ doi: "10.5125/jkaoms.2025.51.6.333"
 pmid: "41466542"
 source: kim-2025-medication-related-osteonecrosis-jaw-evidence.md
 category: [drug/mronj]
-confidence: consensus
+evidence_level: consensus
 source_collection: pubmed-text
 full_text: false
 source_url: https://www.jkaoms.org/journal/view.html?doi=10.5125%2Fjkaoms.2025.51.6.333
@@ -21,13 +21,21 @@ relations:
     target: kwon-2023-mronj-position-papers-what-changed
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Korean 5-society multidisciplinary consensus (2025) providing drug-class-specific prophylactic drug holiday timings (oral BP 2 mo; IV zoledronate 6-12 mo; denosumab 3-4 mo post-last-dose) and recommending early surgical intervention for all MRONJ stages, supported by Korean nationwide cohort data.
+Korean 5-society multidisciplinary consensus position statement (2025) developed by systematic review plus 3-round Delphi expert survey, incorporating a 600,000-patient Korean nationwide bisphosphonate cohort (MRONJ prevalence 0.04%).
 
-## 한줄요약
+Drug-class-specific prophylactic drug holiday recommendations: oral BP 2 months pre-procedure; IV zoledronate 6–12 months; denosumab 3–4 months post-last-dose; Stage 1 conservative management failed in 91.3% — early surgery now recommended at all stages; CTX explicitly not useful.
 
-한국 5개 학회 공동 2025 MRONJ 포지션 스테이트먼트 — 약제별 예방적 drug holiday (oral BP 2개월, IV zoledronate 6-12개월, denosumab 수술 3-4개월 전 시행), 전 병기 적극 수술, Stage 0 유지, CTX 비권장, teriparatide 보조 요법 근거 최강.
+Korea-specific thresholds (e.g., IV BP holiday benefit only from ≥12 months) differ from AAOMS 2022; teriparatide (6-month adjunct RCT) carries the strongest evidence for MRONJ resolution.
+
+## 세줄요약
+
+한국 5개 학회 공동 2025 MRONJ 포지션 스테이트먼트 — 체계적 문헌고찰 + 3라운드 델파이 합의, 60만 명 코호트(MRONJ 유병률 0.04%) 포함.
+
+약제별 예방적 drug holiday: oral BP 2개월, IV zoledronate 6-12개월, denosumab 마지막 투여 후 3-4개월; Stage 1 보존치료 91.3% 실패 → 전 병기 수술 권장; CTX 비유용 확인.
+
+한국 특이 임계값(IV BP 효과 ≥12개월 이후), AAOMS 2022와 차이 있음; teriparatide 6개월 보조 요법이 가장 강한 RCT 근거.
 
 ## Summary
 

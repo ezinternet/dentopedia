@@ -6,7 +6,7 @@ date: 2026-05-05
 doi: 10.3390/medicina62050888
 source: hartmann-2026-bio-oss-collagen-ridge-preservation-cbct-cohort.md
 category: [bone-regeneration/ridge-preservation]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 full_text: true
 pmid: "42195141"
@@ -24,13 +24,21 @@ relations:
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective CBCT cohort (n=80; 60 with complete imaging) shows ridge preservation with Bio-Oss Collagen still incurs ~3–18% residual alveolar volume loss vs pre-extraction root volume (maxillary molars worst ~18%, maxillary premolars best ~3%); 78/80 sites reached implant placement without further augmentation.
+Retrospective CBCT cohort (n=80 posterior sites; volumetric subset n=60) using 3D Slicer segmentation to compare pre-extraction root volume against post-ARP alveolar volume after Bio-Oss Collagen ridge preservation in a German private practice (2018–2022).
 
-## 한줄요약
+ARP with Bio-Oss Collagen still incurred 3–18% residual volumetric loss depending on site (maxillary molar worst ~18%; maxillary premolar best ~3%), yet 78 of 80 sites reached implant placement without further augmentation.
 
-후향적 CBCT 코호트(n=80, 영상 완전 60)에서 Bio-Oss Collagen 치조제보존 후에도 발치 전 치근 체적 대비 약 3~18% 잔여 골흡수가 남았고(상악 대구치 ~18% 최대, 상악 소구치 ~3% 최소), 80건 중 78건은 추가 골증대 없이 임플란트 식립이 가능했다.
+No patient or treatment covariate independently predicted preservation degree, and the study is limited by its retrospective design and the use of pre-extraction root volume as a surrogate for ideal alveolar volume.
+
+## 세줄요약
+
+후향적 CBCT 코호트 (n=80 후방치 부위, 체적 분석 n=60): 3D Slicer로 발치 전 치근 체적(기준)과 Bio-Oss Collagen 치조제보존 후 치조골 체적을 비교한 독일 개인 의원 연구 (2018–2022).
+
+Bio-Oss Collagen 보존 후에도 부위별로 3–18%의 잔여 체적 손실이 남았으나 (상악 대구치 ~18% 최대, 상악 소구치 ~3% 최소), 80건 중 78건은 추가 골증대 없이 임플란트 식립에 성공했다.
+
+환자·치료 공변량 중 보존 정도에 독립적으로 유의한 인자는 없었으며, 후향적 설계와 치근 체적을 이상적 치조골 체적의 대리 지표로 사용한 점이 주요 한계이다.
 
 ## Summary
 

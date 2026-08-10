@@ -16,13 +16,21 @@ text_filename: murat-2025-all-on-4-implant-angulation-load-direction-fea.txt
 
 임플란트 각도와 하중 방향의 상호작용이 피질골 응력에 미치는 영향을 통합적으로 분석한 최초 연구. 인접치 경사에 따른 임플란트 각도 보정 임상 결정에 생역학적 근거를 제공. [[implants/erdogdu-2024-abutment-angle-bone-quality-fatigue-fea]]의 지대주 각도 효과와 짝을 이룬다.
 
-## One-line Summary
+## Three-line Summary
 
-FEA+RSM (All-on-4, 15 configurations): frontal load angle (BL) is the #1 stress factor (29.8%); implant angulation #2 (27.0%); lowest cortical stress at 15° tilt + 45° oblique; highest at 45° tilt + 90° frontal load (265.72 MPa); no single universally optimal angle.
+FEA+RSM (All-on-4, 15 configurations): frontal load angle (BL) is the #1 stress factor (29.8%);
 
-## 한줄요약
+implant angulation #2 (27.0%);
 
-FEA+RSM (All-on-4, 15개 구성): 전두면 하중각(협설 방향)이 피질골 응력 1위 결정 요인(29.8%); 임플란트 각도 2위(27.0%); 최소 응력 15° 경사+45° 사선 하중; 최대 265.72 MPa(45°+90° 전두면 하중); 단일 최적 각도는 없음.
+lowest cortical stress at 15° tilt + 45° oblique; highest at 45° tilt + 90° frontal load (265.72 MPa); no single universally optimal angle.
+
+## 세줄요약
+
+FEA+RSM (All-on-4, 15개 구성): 전두면 하중각(협설 방향)이 피질골 응력 1위 결정 요인(29.8%);
+
+임플란트 각도 2위(27.0%);
+
+최소 응력 15° 경사+45° 사선 하중; 최대 265.72 MPa(45°+90° 전두면 하중); 단일 최적 각도는 없음.
 
 ## 1. Document Information
 

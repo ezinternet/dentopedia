@@ -6,7 +6,7 @@ date: 2026-05-06
 doi: 10.1186/s12903-026-08519-9
 source: cao-2026-diode-laser-pulpotomy-sr-ma.md
 category: [endodontics/vpt]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/cao-2026-diode-laser-pulpotomy-sr-ma.pdf
 pdf_filename: cao-2026-diode-laser-pulpotomy-sr-ma.pdf
 source_collection: external
@@ -16,13 +16,21 @@ relations:
     target: chawla-2026-pulpotomy-vs-pulpectomy-primary-teeth-sr-ma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 15 RCTs (n=1,092 primary teeth): diode-laser pulpotomy achieved clinical/radiographic success rates equivalent to all comparators at 3–12 months (RR≈1.00, p>0.05), while significantly reducing pathologic PDL-space widening (RR=0.39, 95% CI 0.17–0.90, p=0.03); wavelength and capping material did not affect success.
+SR+MA of 15 RCTs (2005–2024, n=1,092 primary molar teeth in children aged 3–9 years) comparing diode-laser-assisted pulpotomy against conventional techniques (FC, FS, MTA, electrosurgery, and others).
 
-## 한줄요약
+Diode laser achieved clinical and radiographic success equivalent to all comparators at every follow-up point from 3 to 12 months (RR≈1.00, I²=0%), while significantly reducing pathologic PDL-space widening (RR=0.39, 95% CI 0.17–0.90, p=0.03); wavelength (632–660 nm vs 810–980 nm) and capping material did not affect success.
 
-15건 RCT(n=1,092 유치) SR+MA: diode laser 펄포토미는 3~12개월 임상·방사선 성공률이 모든 대조군과 동등(RR≈1.00, p>0.05)하며, 치주인대(PDL) 공간 병적 확대를 유의하게 감소(RR=0.39, 95% CI 0.17–0.90, p=0.03); 파장(632–660 nm vs 810–980 nm) 및 복조재 종류는 성공률에 무관.
+The PDL-widening benefit is statistically fragile (lost significance when one study was excluded in sensitivity analysis) and overall methodological quality was limited, positioning diode laser as a viable but not superior alternative to formocresol or MTA with the primary advantage of avoiding chemical toxicity and tooth discoloration.
+
+## 세줄요약
+
+15편 RCT(2005–2024, 유치 대구치 1,092개, 3–9세) SR+MA: diode laser 치수절단술을 FC·FS·MTA·전기수술 등과 비교.
+
+3–12개월 임상·방사선 성공률이 모든 대조군과 동등(RR≈1.00, I²=0%); PDL 공간 병적 확대만 유의하게 감소(RR=0.39, 95% CI 0.17–0.90, p=0.03); 파장·복조재 종류는 성공률에 무관.
+
+PDL 확대 이점은 단 1편 제외 시 유의성 소실로 통계적 취약성 있고 전체 방법론적 질은 낮아, diode laser는 우수하지 않지만 화학 독성 및 치아 변색 회피 측면에서 FC·MTA의 실질적 대안으로 볼 수 있다.
 
 ## Summary
 
@@ -93,5 +101,5 @@ PDL-space widening with ZOE capping (N=8, n=602): RR=0.29, 95% CI 0.11–0.78, p
 ## Related Papers
 
 - [[endodontics/vpt/chawla-2026-pulpotomy-vs-pulpectomy-primary-teeth-sr-ma]] — pulpotomy vs pulpectomy primary teeth SR+MA
-- [[endodontics/aapd-2024-vital-pulp-therapy-primary-teeth-guideline]] — AAPD VPT primary teeth guideline
+- [[endodontics/vpt/aapd-2024-vital-pulp-therapy-primary-teeth-guideline]] — AAPD VPT primary teeth guideline
 - [[endodontics/vpt/fasoulas-2023-pulpotomy-direct-pulp-capping-sr-ma]] — pulpotomy vs DPC SR+MA

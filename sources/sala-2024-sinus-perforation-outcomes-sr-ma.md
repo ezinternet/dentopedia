@@ -14,11 +14,21 @@ source_collection: external
 
 기존 [[wiki/sinus-lift/lateral/diaz-olivares-2021-schneiderian-membrane-perforation-sinus-lift]]와 [[wiki/sinus-lift/lateral/soares-2024-sinus-membrane-perforation-repair-review]]는 수복 후 임플란트 생존율을 다루나, 상악동 저부 천공 임플란트(비상악동거상술)와 막 천공 상악동거상술 두 시나리오를 동일 SR+MA 내에서 비교한 데이터가 부족했다. 본 Sala 2024 SR+MA(29편)는 "임플란트가 부비동 내로 돌출된 경우" + "거상술 중 막이 찢어진 경우" 양쪽의 임플란트 실패율을 직접 계량화해 overviews/sinus-lift-lateral-2026-synthesis의 예후 근거를 보강한다.
 
-## One-line Summary
-SR+MA (29 studies): sinus floor penetrating implants failure rate 2.1%; membrane-perforated vs intact augmentation OR 1.347 (p=0.197, NS) — perforation does not significantly increase implant failure risk.
+## Three-line Summary
 
-## 한줄요약
-SR+MA (29편): 상악동 저부 천공 임플란트 실패율 2.1%; 막 천공 상악동거상술 vs 비천공 간 임플란트 실패 OR 1.347 (p=0.197) — 천공 여부가 유의한 실패 위험인자 아님.
+SR+MA (29 studies): sinus floor penetrating implants failure rate 2.1%;
+
+membrane-perforated vs intact augmentation OR 1.347 (p=0.197, NS) — perforation does not significantly increase implant failure risk.
+
+(incomplete)
+
+## 세줄요약
+
+SR+MA (29편): 상악동 저부 천공 임플란트 실패율 2.1%;
+
+막 천공 상악동거상술 vs 비천공 간 임플란트 실패 OR 1.347 (p=0.197) — 천공 여부가 유의한 실패 위험인자 아님.
+
+(incomplete)
 
 ## 1. Document Information
 

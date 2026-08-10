@@ -9,8 +9,21 @@ pdf_filename: meereis-2018-polymerization-shrinkage-stress-resin-sr-ma.pdf
 source_collection: external
 ---
 
-## One-line Summary
-SR+MA of 62 in vitro studies on composition strategies for reducing polymerization shrinkage stress in resin-based dental materials; resin matrix modification (including SDR-type chemistry and low-shrinkage monomers) is the most effective strategy, while alternative photoinitiators alone show no significant benefit.
+## Three-line Summary
+
+SR+MA of 62 in vitro studies on composition strategies for reducing polymerization shrinkage
+
+stress in resin-based dental materials; resin matrix modification (including SDR-type chemistry and low-shrinkage
+
+monomers) is the most effective strategy, while alternative photoinitiators alone show no significant benefit.
+
+## 세줄요약
+
+체계적 고찰 및 메타분석 (SR+MA) of 62 시험관내 (In vitro) studies on composition strategies for reducing polymerization shrinkage
+
+stress in resin-based dental materials; resin matrix modification (including SDR-type chemistry and low-shrinkage
+
+monomers) is the most effective strategy, while alternative photoinitiators alone show no 유의미한 (Significant) benefit.
 
 ## 1. Document Information
 - **Type**: Systematic Review and Meta-analyses (multiple meta-analyses by composition strategy subgroup)

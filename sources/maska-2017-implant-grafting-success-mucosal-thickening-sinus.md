@@ -17,13 +17,21 @@ text_filename: maska-2017-implant-grafting-success-mucosal-thickening-sinus.txt
 
 상악동 점막비후가 임플란트 및 골이식 성공률에 미치는 임상적 영향을 CBCT로 직접 평가한 후향적 연구. "생리적 점막비후는 임플란트 실패와 무관하다"는 핵심 임상 결론을 제공. 새로운 "Mucosal Thickening Index" 제안. [[sinus-lift/lateral/akbari-2022-maxillary-sinus-mucosal-thickening-ridge-height]]와 함께 점막비후 임상의사결정의 근거.
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective CBCT study (n=29, University of Michigan, mean follow-up 3.3y) showed 100% implant survival despite 93.1% prevalence of mucosal thickening; only periodontal disease history was significantly associated with thickening severity.
+Retrospective CBCT study (n=29, University of Michigan, mean follow-up 3.3y) showed 100% implant survival despite 93.1% prevalence of mucosal thickening;
 
-## 한줄요약
+only periodontal disease history was significantly associated with thickening severity.
+
+(incomplete)
+
+## 세줄요약
 
 CBCT 후향적 연구(n=29, 추적 3.3년): 93.1%에서 점막비후 존재에도 임플란트 생존율 100%, 치주질환 과거력만이 비후 정도와 유의한 연관인자.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

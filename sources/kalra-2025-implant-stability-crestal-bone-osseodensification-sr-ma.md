@@ -13,8 +13,21 @@ source_collection: external
 
 Recent (2025) SR+MA refining the osseodensification (OD) evidence base for low-density bone — confirms the ISQ stability gain seen across [[overviews/osseodensification-clinical-applications]] but adds that crestal bone level (CBL) change does NOT differ between OD and conventional drilling, an important boundary on OD's benefit. Reinforces the ISQ findings of [[implants/gaspar-2022-implant-stability-osseodensification-conventional-sr-ma]].
 
-## One-line Summary
-SR+MA in J Prosthet Dent 2025;133(6):1462.e1–1462.e7 — 5 studies, 109 patients, 198 implants in low-density bone: OD significantly raised ISQ at both baseline and follow-up (P<.05), but crestal bone level (CBL) changes did NOT differ significantly between OD and conventional drilling (P>.05) at either timepoint.
+## Three-line Summary
+
+SR+MA in J Prosthet Dent 2025;133(6):1462.e1–1462.e7 — 5 studies, 109 patients, 198 implants in low-density
+
+bone: OD significantly raised ISQ at both baseline and follow-up (P<.05), but crestal bone level
+
+(CBL) changes did NOT differ significantly between OD and conventional drilling (P>.05) at either timepoint.
+
+## 세줄요약
+
+골밀도화(OD) vs 일반 시추 프로토콜의 임플란트 안정성·한계골 수준 비교 SR+MA (J Prosthet Dent 2025): 5편, 109명, 198개 임플란트, 저밀도골
+
+OD는 기초값·추적 모두에서 ISQ 유의하게 상승 (P<0.05), 한계골 수준(CBL) 변화는 OD와 일반 시추 간 유의차 없음 (P>0.05)
+
+OD는 1·2차 안정성 및 골 확장에는 유리하나 한계골 손실 예방에는 효과 없음.
 
 ## 1. Document Information
 - **Type**: PRISMA systematic review + meta-analysis

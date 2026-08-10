@@ -10,8 +10,21 @@ pdf_filename: adel-2023-longevity-efficacy-neurotoxin-injection-lip.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Experimental single-arm study (n=10 female, ages 25-37) combining IncoBotulinumTox A pre-surgery + lip repositioning surgery + 3 repeat BTX injections at 2/4/8 months: gingival display 5.12 mm → 0 mm at 14 days through 8 months, with only 0.78 mm relapse at 12 months; interlabial distance 17.99 → 6.84 mm at 14 days, gradually increasing to 12.21 mm at 12 months. Combined approach proposed as longer-lasting solution than either modality alone.
+## Three-line Summary
+
+Single-arm experimental study (n=10 White females, ages 25–37) combining IncoBotulinumToxin A (Xeomin) pre-surgery, lip repositioning surgery, and 3 repeat BTX-A injections at 2/4/8 months for gummy smile from hypermobility or short upper lip.
+
+Gingival display reduced from 5.12 mm to 0 mm at 14 days through 8 months, with only 0.78 mm relapse at 12 months; interlabial distance decreased from 17.99 mm to 6.84 mm at 14 days, gradually increasing to 12.21 mm at 12 months (p < 0.0001 for both).
+
+No serious complications; the combined approach is proposed as longer-lasting than either modality alone, though the very small sample (n=10), absence of a control arm, and short follow-up (1 year) severely limit generalizability.
+
+## 세줄요약
+
+단일군 실험연구(n=10, 백인 여성 25–37세): IncoBotulinumToxin A(Xeomin) 사전 주사 + 입술위치변경수술 + 수술 2·4·8개월 후 BTX-A 추가 주사를 병합하여 과운동형/짧은 상순으로 인한 거미 smile을 치료.
+
+치은 노출 5.12 mm → 8개월까지 0 mm 완전 소실, 12개월 재발 0.78 mm; 순간 거리 17.99 → 6.84 mm(14일) → 12.21 mm(12개월) (p < 0.0001).
+
+심각한 합병증 없음; 병합 요법이 단독 요법보다 지속적이라고 제안하나, 대조군 없는 소규모(n=10) 단기(1년) 연구라는 중대한 한계가 있음.
 
 ## 1. Document Information
 - Author: Noury Adel, MSc — Oral and Maxillofacial Surgery Specialist, Private Practice, Cairo, Egypt

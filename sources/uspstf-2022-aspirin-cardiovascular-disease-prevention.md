@@ -10,8 +10,21 @@ pdf_filename: uspstf-2022-aspirin-cardiovascular-disease-prevention.pdf
 source_collection: external
 ---
 
-## One-line Summary
-USPSTF 2022 권고 갱신 (JAMA): 40-59세 ≥10% 10년 CVD 위험 성인 — 저용량 aspirin 1차예방 small net benefit (C grade, 개별 결정); ≥60세 — 신규 시작 권고 안 함 (출혈 위험 > 이득, D grade). 2016 권고에서 후퇴.
+## Three-line Summary
+
+USPSTF 2022 권고 갱신 (JAMA): 40-59세 ≥10% 10년 CVD 위험 성인
+
+저용량 aspirin 1차예방 small net benefit (C grade, 개별 결정); ≥60세
+
+신규 시작 권고 안 함 (출혈 위험 > 이득, D grade). 2016 권고에서 후퇴.
+
+## 세줄요약
+
+USPSTF 2022 권고 갱신 (JAMA): 40-59세 ≥10% 10년 CVD 위험 성인
+
+저용량 aspirin 1차예방 small net benefit (C grade, 개별 결정); ≥60세
+
+신규 시작 권고 안 함 (출혈 위험 > 이득, D grade). 2016 권고에서 후퇴.
 
 ## 1. Document Information
 - Authors: USPSTF (US Preventive Services Task Force)
@@ -32,7 +45,7 @@ USPSTF commissioned systematic review of:
 - Harms (especially bleeding)
 
 ## 4. Key Results
-[근거강함]
+[확인]
 | Age | 2016 USPSTF | 2022 USPSTF |
 |---|---|---|
 | 50-59 y, ≥10% CVD risk | B grade (recommend) | merged into 40-59 C |

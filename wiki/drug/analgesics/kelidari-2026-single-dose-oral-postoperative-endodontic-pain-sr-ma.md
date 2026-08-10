@@ -6,7 +6,7 @@ date: 2026-01-26
 doi: 10.1186/s12903-025-07458-1
 source: kelidari-2026-single-dose-oral-postoperative-endodontic-pain-sr-ma.md
 category: drug/analgesics
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "41588508"
@@ -22,13 +22,21 @@ relations:
     target: samani-2025-nsaids-endodontic-postoperative-network
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Frequentist network meta-analysis (10 RCTs qualitative, 5 quantitative, n=347): for single-dose oral analgesia after non-surgical RCT, Diclofenac+Acetaminophen is best for immediate relief (6–8 h, MD −6.28), while Novafen and Naproxen sustain efficacy at 12–24 h; Diclofenac+Acetaminophen reverses toward placebo by 24 h.
+Frequentist network meta-analysis (PRISMA, 10 RCTs qualitative, 5 quantitative, n=347; PROSPERO CRD420251001005) — first SR/NMA restricted exclusively to single-dose postoperative analgesia after non-surgical root canal treatment, deliberately excluding pre- and intra-operative dosing to minimize adverse effects and adherence problems.
 
-## 한줄요약
+Diclofenac+Acetaminophen provides the largest immediate (6–8 h) pain reduction (MD −6.28, 95% CI −11.99 to −0.56) but reverses toward placebo by 24 h; Novafen (ibuprofen+acetaminophen+caffeine) and Naproxen sustain efficacy across 12–24 h; NSAIDs remain the dependable first line; tramadol works but carries opioid side effects; alprazolam adds no true analgesia.
 
-네트워크 메타분석 (RCT 10편 정성·5편 정량, n=347): 비수술 근관치료 후 단회투여 경구 진통제 — 즉각(6–8h) 진통은 디클로페낙+아세트아미노펜(MD −6.28)이 최고, 12–24h 지속 효과는 노바펜·나프록센이 우수, 디클로페낙+아세트아미노펜은 24h엔 위약 수준으로 소실.
+For clinical prescribing: choose Diclofenac+Acetaminophen or Novafen for fast onset and Naproxen or Novafen for sustained 24-h coverage; high heterogeneity (I²>70% at 6–8 h and 24 h) and only 5 pooled RCTs limit certainty.
+
+## 세줄요약
+
+빈도주의 네트워크 메타분석(PRISMA, 정성 RCT 10편·정량 5편, n=347; PROSPERO CRD420251001005): 비수술 근관치료(Root Canal Treatment, RCT) 후 단회투여 술후 진통제만을 대상으로 한 최초 SR/NMA — 다회 투여·술전·술중 투여 배제로 처방 결정 시나리오에 특화.
+
+즉각(6–8시간) 진통: 디클로페낙+아세트아미노펜(Diclofenac+Acetaminophen) 최고(MD −6.28)이나 24시간에 위약 수준으로 소실; 지속(12–24시간): 노바펜(Novafen; 이부프로펜+아세트아미노펜+카페인)·나프록센(Naproxen) 우수; NSAIDs가 전반적 1차 선택; 트라마돌(Tramadol)은 효과적이나 오피오이드 부작용; 알프라졸람(Alprazolam)은 진통 효과 없음.
+
+임상 처방 지침: 빠른 발현에는 디클로페낙+아세트아미노펜 또는 노바펜, 24시간 지속에는 나프록센 또는 노바펜 선택; I²>70%의 높은 이질성과 5편의 정량적 RCT는 확실성 한계를 시사.
 
 ## Summary
 

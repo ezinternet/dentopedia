@@ -9,8 +9,21 @@ pdf_filename: liu-2019-immediate-implant-transalveolar-sinus-elevation.pdf
 source_collection: external
 ---
 
-## One-line Summary
-RCT (one-year) in maxillary molar region: immediate implant placement + transalveolar (transcrestal) sinus floor elevation with nonsubmerged healing (test) vs delayed implant placement after staged sinus lift (control); 100% survival in both groups, but test group preserved significantly more buccal ridge dimensions (horizontal shrinkage 0.65 vs 1.23 mm, vertical resorption 0.60 vs 1.53 mm; P < .0001).
+## Three-line Summary
+
+RCT (one-year) in maxillary molar region: immediate implant placement + transalveolar (transcrestal) sinus floor elevation with nonsubmerged healing (test) vs delayed implant placement after staged sinus lift (control)
+
+100% survival in both groups, but test group preserved significantly more buccal ridge dimensions (horizontal shrinkage 0.65 vs 1.23 mm, vertical resorption 0.60 vs 1.53 mm
+
+P < .0001).
+
+## 세줄요약
+
+무작위 대조 시험 (RCT) (one-year) in maxillary molar region: immediate 임플란트 (Implant) placement + transalveolar (transcrestal) sinus floor elevation with nonsubmerged healing (test) vs delayed 임플란트 (Implant) placement after staged sinus lift (control)
+
+100% survival in both groups, but test group preserved 유의미한 (Significant)ly more buccal ridge dimensions (horizontal shrinkage 0.65 vs 1.23 mm, vertical resorption 0.60 vs 1.53 mm
+
+P < .0001).
 
 ## 1. Document Information
 - **Journal**: Clinical Implant Dentistry and Related Research 2019;21(3):462–472.

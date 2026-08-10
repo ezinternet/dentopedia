@@ -9,8 +9,21 @@ pdf_filename: miyazaki-2015-saliva-zirconia-bond-contact-angle.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Dental Materials Journal 2015;34(1):91-97: saliva contamination of zirconia reduces resin cement bond strength; contact angle measurement correlates with bondability; cleaning with NaOH-ZrO2 agent (Ivoclean) most effective.
+## Three-line Summary
+
+Dental Materials Journal 2015;34(1):91-97: saliva contamination of zirconia reduces resin cement bond strength
+
+contact angle measurement correlates with bondability
+
+cleaning with NaOH-ZrO2 agent (Ivoclean) most effective.
+
+## 세줄요약
+
+Dental Materials Journal 2015;34(1):91-97: saliva contamination of zirconia reduces resin cement bond strength
+
+contact angle measurement correlates with bondability
+
+cleaning with NaOH-ZrO2 agent (Ivoclean) most effective.
 
 ## 1. Document Information
 Journal: Dental Materials Journal 2015;34(1):91-97

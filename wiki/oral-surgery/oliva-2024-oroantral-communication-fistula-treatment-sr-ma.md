@@ -6,7 +6,7 @@ date: 2024-05-20
 doi: 10.3390/dj12050147
 source: oliva-2024-oroantral-communication-fistula-treatment-sr-ma.md
 category: oral-surgery
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/oliva-2024-oroantral-communication-fistula-treatment-sr-ma.pdf
 pdf_filename: oliva-2024-oroantral-communication-fistula-treatment-sr-ma.pdf
 source_collection: external
@@ -18,13 +18,21 @@ relations:
     target: lin-2024-odontogenic-maxillary-sinusitis-expert-consensus
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR + network meta-analysis (9 studies, 7 RCTs, n=519 OACs) established buccal fat pad as the superior closure method over buccal advancement flap (OR 15; p=0.0002) and palatal rotational flap (OR 15.29; p=0.002); PRF comparisons inconclusive.
+Systematic review and network meta-analysis (9 studies, 7 RCTs, n=519 OACs; PRISMA; PubMed/Scopus/Google Scholar) comparing four surgical modalities for oroantral communication/fistula closure: buccal advancement flap (BAF), buccal fat pad (BFP), palatal rotational flap, and PRF membrane.
 
-## 한줄요약
+BFP demonstrated statistically significant superiority over both BAF (OR 15, 95% CI 3.52–63.83; p=0.0002) and palatal rotational flap (OR 15.29, 95% CI 2.63–88.93; p=0.002); BAF versus palatal flap showed no significant difference; dental extraction accounted for 76.3% of all OAC etiologies.
 
-SR+네트워크 메타분석(9건, 7 RCT, n=519): 구강상악동교통(OAC)·누공(OAF) 폐쇄에서 협측지방패드(BFP)가 협측전진피판(OR 15, p=0.0002) 및 구개회전피판(OR 15.29, p=0.002) 대비 유의하게 우수; PRF 비교는 근거 불충분.
+Treatment within 24–48 hours achieves 90–95% success — after 48 hours, epithelialization reduces secondary closure success to ~67% and sinusitis develops in 50% within 3 days; BFP is the evidence-based first choice for OAC/OAF closure.
+
+## 세줄요약
+
+SR+네트워크 메타분석(9건, 7 RCT, n=519; PRISMA; PubMed·Scopus·Google Scholar): 구강상악동교통(OAC)·구강상악동루(OAF) 폐쇄를 위한 4가지 술식(협측 전진 피판·협측 지방 패드·구개 회전 피판·PRF 막) 비교.
+
+협측 지방 패드(BFP)가 협측 전진 피판(OR 15, p=0.0002) 및 구개 회전 피판(OR 15.29, p=0.002) 대비 유의하게 우수; 협측 전진 피판 vs 구개 피판 차이 없음; 발치가 전체 OAC 원인의 76.3% 차지.
+
+발생 24–48시간 내 치료 시 성공률 90–95%; 48시간 후에는 상피화로 2차 폐쇄 성공률 ~67%로 하락, 3일 내 50%에서 상악동염 발생 — BFP가 OAC/OAF 폐쇄의 근거 기반 1차 선택.
 
 ## Summary
 
@@ -87,6 +95,6 @@ This 2024 systematic review and network meta-analysis (PRISMA-compliant) searche
 
 ## Related Papers
 
-- [[oral-medicine/psillas-2020-odontogenic-maxillary-sinusitis-comprehensive-review]] — OMS comprehensive review: OAC as the primary pathway for odontogenic sinusitis; this NMA extends by quantifying best closure method
-- [[oral-medicine/lin-2024-odontogenic-maxillary-sinusitis-expert-consensus]] — OMS expert consensus: addresses FESS sequencing after OAC closure; this paper provides the surgical closure evidence base
-- [[oral-medicine/kim-2019-definition-management-odontogenic-maxillary]] — OMS management: OAC/OAF as risk factor for odontogenic sinusitis development; this NMA completes the prevention–closure loop
+- [[oral-medicine/odontogenic-sinusitis/psillas-2020-odontogenic-maxillary-sinusitis-comprehensive-review]] — OMS comprehensive review: OAC as the primary pathway for odontogenic sinusitis; this NMA extends by quantifying best closure method
+- [[oral-medicine/odontogenic-sinusitis/lin-2024-odontogenic-maxillary-sinusitis-expert-consensus]] — OMS expert consensus: addresses FESS sequencing after OAC closure; this paper provides the surgical closure evidence base
+- [[oral-medicine/odontogenic-sinusitis/kim-2019-definition-management-odontogenic-maxillary]] — OMS management: OAC/OAF as risk factor for odontogenic sinusitis development; this NMA completes the prevention–closure loop

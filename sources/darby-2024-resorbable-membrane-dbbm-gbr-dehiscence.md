@@ -13,13 +13,21 @@ source_collection: external
 
 Direct comparison of resorbable collagen membrane + DBBM vs DBBM alone in standardized 5×3 mm buccal dehiscence defects at early implant placement — quantifies the membrane's additive value for new bone percentage in anterior maxilla. Provides unique translational evidence using the maxillary second incisor canine model, which more closely resembles clinical anterior implant sites than the commonly used posterior mandible model. Extends [[bone-regeneration/wessing-2018-gbr-collagen-membranes-particulate-graft-sr-ma]] with site-specific histological data.
 
-## One-line Summary
+## Three-line Summary
 
-Animal study (9 dogs, split-mouth): resorbable collagen membrane over DBBM in buccal dehiscence defects tended to retain more bone substitute (%BS, p=0.052) but did not increase new bone formation compared to DBBM alone.
+Animal study (9 dogs, split-mouth, maxillary I2 model) evaluating resorbable collagen membrane + DBBM vs DBBM alone in standardized 5×3 mm buccal dehiscence defects at early implant placement (6-week healing).
 
-## 한줄요약
+Membrane tended to retain more bone substitute (%BS, p=0.052) and mineralized tissue at central sections but produced no significant difference in new bone formation (B, %B), first bone-to-implant contact (fBIC), or buccal bone thickness vs DBBM alone.
 
-개 9마리 분구강 동물실험: 교원막+DBBM vs DBBM 단독 — 막이 골대체재 잔존을 높이는 경향(p=0.052)이나 신생골 형성에는 유의차 없음.
+The barrier membrane protects graft volume but does not accelerate new bone formation at 6 weeks in buccal dehiscence defects — a finding that refines the general GBR SR+MA conclusion in favor of site-specific histological data.
+
+## 세줄요약
+
+동물 연구(개 9마리, 분구강 설계, 상악 측절치 모델): 표준화된 5×3 mm 협측 열개 결손부에서 흡수성 교원막+DBBM과 DBBM 단독을 조기 식립(6주 치유) 후 비교.
+
+교원막은 중앙부 골대체재 잔존(%BS, p=0.052) 경향을 보였으나, 신생골 형성(B, %B)·최초 골-임플란트 접촉점(fBIC)·협측 골두께에서는 유의한 차이 없음.
+
+장벽막은 이식재 체적을 보호하지만 6주 시점의 협측 열개 결손 신생골 형성에는 가속 효과가 없음 — 일반적인 GBR SR+MA 결론을 부위별 조직학 데이터로 세분화.
 
 ## 1. Document Information
 

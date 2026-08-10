@@ -6,7 +6,7 @@ date: 2023-09-01
 doi: 10.1002/cre2.787
 source: shekarian-2023-cshaped-canals-three-rooted-mandibular-iranian.md
 category: [endodontics/anatomy]
-confidence: cross-sectional
+evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/shekarian-2023-cshaped-canals-three-rooted-mandibular-iranian.pdf
 pdf_filename: shekarian-2023-cshaped-canals-three-rooted-mandibular-iranian.pdf
 source_collection: external
@@ -16,13 +16,21 @@ relations:
     target: song-2008-cross-sectional-morphology-and-minimum-canal
 ---
 
-## One-line Summary
+## Three-line Summary
 
-CBCT study of 292 Iranian patients (291 first, 402 second, 200 third mandibular molars): C-shaped canal prevalence 1.7%/2%/2% respectively; three-rooted molars most common in first molars (2.7%), most molars two-rooted.
+Descriptive cross-sectional CBCT study of 893 mandibular molars (291 first, 402 second, 200 third) in 292 Iranian patients, examining C-shaped canal prevalence and root number across all three molar positions.
 
-## 한줄요약
+C-shaped canal prevalence was low across all positions (1.7% first, 2% second, 2% third molars), while three-rooted molars were most frequent in first molars (2.7%); the vast majority of molars were two-rooted.
 
-이란인 292명 CBCT 연구(하악 제1·제2·제3대구치 291/402/200) — C-shaped canal 유병률 각각 1.7%/2%/2%, 3근치는 제1대구치(2.7%)에서 최다, 대부분 2근치.
+The low C-shaped prevalence in the Iranian population contrasts sharply with East-Asian data, and missed radix entomolaris in first molars remains the primary missed-anatomy risk in this population.
+
+## 세줄요약
+
+이란인 292명 하악대구치 893개(제1·제2·제3대구치 291/402/200개) 대상 기술적 단면 CBCT 연구; 모든 구치 위치에서 C-shaped 근관 유병률 및 근 수 측정.
+
+C-shaped 근관 유병률은 모든 위치에서 낮음(제1: 1.7%, 제2: 2%, 제3: 2%); 3근치는 제1대구치(2.7%)에서 가장 흔하며, 대부분 2근치.
+
+이란 인구의 낮은 C-shaped 유병률은 동아시아 데이터와 대조되며, 이 인구에서 놓치기 쉬운 해부학적 위험은 주로 제1대구치의 radix entomolaris.
 
 ## Summary
 

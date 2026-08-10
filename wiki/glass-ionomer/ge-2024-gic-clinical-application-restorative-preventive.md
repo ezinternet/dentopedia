@@ -6,18 +6,26 @@ date: 2024-07-27
 doi: "10.1016/j.jds.2024.07.021"
 source: ge-2024-gic-clinical-application-restorative-preventive.md
 category: glass-ionomer
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/ge-2024-gic-clinical-application-restorative-preventive.pdf
 pdf_filename: ge-2024-gic-clinical-application-restorative-preventive.pdf
 source_collection: external
 tags: [gic, cgic, rmgic, hvgic, preventive-dentistry, restorative]
 ---
 
-## One-line Summary
-Narrative review (J Dent Sci 2024) summarizing current evidence for glass ionomer cement (GIC) across restorative and preventive dentistry following WHO's 2021 listing of GIC as an Essential Medicine.
+## Three-line Summary
+Narrative review (J Dent Sci 2024) updating the clinical evidence for GIC (CGIC, HVGIC, RMGIC) across restorative and preventive dentistry applications following WHO's 2021 Essential Medicines listing and the Minamata Convention's amalgam phase-down.
 
-## 한줄요약
-WHO가 2021년 GIC를 필수의약품으로 등재한 배경 위에서, GIC의 임상 적응증별 근거를 정리한 narrative review.
+GIC use as restorative cement, luting cement, and dental sealant is well supported by current evidence; the liner/base indication remains debatable; HVGIC shows superior mechanical properties and durability for Atraumatic Restorative Treatment (ART).
+
+Although GIC's fluoride release, direct chemical adhesion, and biocompatibility are clinically valuable, the narrative format without quantitative synthesis limits the strength of evidence for each specific indication.
+
+## 세줄요약
+WHO 2021년 필수의약품 등재 및 수은에 관한 미나마타 협약 배경 아래, GIC(CGIC·HVGIC·RMGIC) 임상 적응증별 근거를 정리한 narrative review (J Dent Sci 2024).
+
+수복 시멘트·합착 시멘트·치아 실란트로서의 사용은 근거 충분; 라이너/베이스 적응증은 근거 불충분; HVGIC는 ART에서 기계적 성능·내구성 우수.
+
+불소 방출·화학 접착·생체친화성이 임상적 강점이나, 정량적 합성 없는 narrative 형식이 특정 적응증 근거 강도를 제한한다.
 
 ## Summary
 The WHO added GIC to its Model List of Essential Medicines in 2021, and the Minamata Convention's amalgam phase-down is expected to increase GIC use. This review classifies GIC by composition — conventional GIC (CGIC), high-viscosity GIC (HVGIC), and resin-modified GIC (RMGIC) — and appraises its roles as restorative material, luting cement, liner/base, and sealant. GIC's defining properties are direct chemical adhesion to tooth structure, a coefficient of thermal expansion close to dentin, biocompatibility, and sustained fluoride release. The authors conclude that use as restorative cement, luting cement, and dental sealant is well supported, while use as liner/base remains debatable.

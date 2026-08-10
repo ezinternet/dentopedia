@@ -13,15 +13,23 @@ text_filename: thereza-bussolaro-2026-cbct-ian-predictive-factors-sr-ma.txt
 
 ## Why Ingested
 
-기존 [[oral-surgery/li-2022-ian-position-nerve-injury-sr-ma]]는 파노라마 방사선 기반 IAN canal 위치 분류에 의존하는 반면, 본 SR+MA (Thereza-Bussolaro 2026)는 CBCT 단층 영상에서 검출 가능한 8가지 해부학적 특징의 Odds Ratio를 정량화해 임상적 위험 예측을 한 단계 진전시킨다.
+기존 [[oral-surgery/nerve-injury/li-2022-ian-position-nerve-injury-sr-ma]]는 파노라마 방사선 기반 IAN canal 위치 분류에 의존하는 반면, 본 SR+MA (Thereza-Bussolaro 2026)는 CBCT 단층 영상에서 검출 가능한 8가지 해부학적 특징의 Odds Ratio를 정량화해 임상적 위험 예측을 한 단계 진전시킨다.
 
-## One-line Summary
+## Three-line Summary
 
 SR+MA of 18 CBCT-based studies identifying 8 tomographic predictors of inferior alveolar nerve (IAN) injury during mandibular third molar extraction, with absent cortical bone (OR 9.87), dumbbell-shaped canal (OR 8.25), and lingual canal position (OR 3.82) as highest-risk features.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 18개 CBCT 연구 SR+MA — 하치조신경관(IAN) 피질골 소실(OR 9.87), 아령형 관(OR 8.25), 설측 위치(OR 3.82)가 하치조신경 손상(IAN injury)의 주요 CBCT 예측 인자임을 정량화.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - **Journal**: Journal of the American Dental Association (JADA)

@@ -15,15 +15,23 @@ text_filename: ren-2024-morse-taper-abutment-subsidence-locking-force.txt
 
 ## Why Ingested
 
-"어버트먼트 침하(sinking-down)"는 순수 Morse taper(Bicon형) 마찰결합 임플란트의 임상 특유 현상으로, 시멘트·스크류 보철과 달리 별도 고정 스크류 없이 마찰력만으로 결합되어 시간이 지나며 기구·교합력에 의해 어버트먼트가 추가로 가라앉아 후기 교합관계가 바뀐다. 기존 [[implants/seong-2016-external-internal-implant-connection-system]]는 외부/내부 연결 생역학을 다루지만 마찰결합(taper-lock) 특유의 침하 정량 데이터가 없었고, [[prosthetic-materials/ziada-2025-abutment-material-stress-distribution-fea]]는 어버트먼트 응력만 FEA로 본다. 본 벤치 실험(Ren 2024)은 침하량(subsidence)과 결합력(locking force)을 잠금깊이·잠금기둥경·외벽두께·하중으로 정량화해 "왜 ≥5회 가압 시팅과 지연 최종 교합조정이 필요한가"의 근거를 제공한다.
+"어버트먼트 침하(sinking-down)"는 순수 Morse taper(Bicon형) 마찰결합 임플란트의 임상 특유 현상으로, 시멘트·스크류 보철과 달리 별도 고정 스크류 없이 마찰력만으로 결합되어 시간이 지나며 기구·교합력에 의해 어버트먼트가 추가로 가라앉아 후기 교합관계가 바뀐다. 기존 [[implants/seong-2016-external-internal-implant-connection-system]]는 외부/내부 연결 생역학을 다루지만 마찰결합(taper-lock) 특유의 침하 정량 데이터가 없었고, [[prosthetic-materials/abutment-screw/ziada-2025-abutment-material-stress-distribution-fea]]는 어버트먼트 응력만 FEA로 본다. 본 벤치 실험(Ren 2024)은 침하량(subsidence)과 결합력(locking force)을 잠금깊이·잠금기둥경·외벽두께·하중으로 정량화해 "왜 ≥5회 가압 시팅과 지연 최종 교합조정이 필요한가"의 근거를 제공한다.
 
-## One-line Summary
+## Three-line Summary
 
 In-vitro bench study on Bicon-type pure Morse taper (1.5° taper) implant-abutment specimens (≥10 per group) showing abutment subsidence rises with seating load (r=0.645) but falls most strongly with deeper locking depth (r=−0.807) and larger locking-post diameter and thicker implant outer wall, while pull-apart locking force rises with load (r=0.963), depth (r=0.607), and post diameter (r=0.372) — supporting ≥5 seating loadings and delayed final occlusal adjustment to prevent late occlusal change from continued sinking.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 순수 Morse taper(Bicon형, 1.5°) 임플란트-어버트먼트 벤치 실험(그룹당 ≥10): 어버트먼트 침하량은 시팅 하중↑에 따라 증가(r=0.645)하나 잠금깊이↑(r=−0.807, 최강)·잠금기둥경↑·외벽두께↑에 따라 감소했고, 분리 결합력은 하중(r=0.963)·잠금깊이(r=0.607)·기둥경(r=0.372)에 따라 증가 — 후기 교합변화를 막으려면 시팅 시 ≥5회 가압과 최종 교합조정 지연을 권고.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

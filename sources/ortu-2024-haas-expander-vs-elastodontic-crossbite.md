@@ -17,13 +17,21 @@ text_filename: ortu-2024-haas-expander-vs-elastodontic-crossbite.txt
 
 First head-to-head comparison we hold of an **elastodontic (myofunctional) device versus a rigid orthopaedic palatal expander (Haas)** for transverse maxillary deficiency in growing children — the authors note "there are no articles in the literature comparing the results obtained with elastodontic appliances and traditional orthopaedic appliances." It directly complements the sibling RCT [[wiki/orthodontics/myofunctional/ortu-2025-removable-devices-palatal-expansion-rct]] (removable elastodontic devices for palatal expansion) by adding a rigid-expander control arm, letting the wiki contrast functional vs skeletal expansion mechanisms and their equivalence on dentoalveolar transverse outcomes.
 
-## One-line Summary
+## Three-line Summary
 
-Single-centre prospective comparative study (n=64, ages 7–8; 32 elastodontic Equilibrator vs 32 Haas expander) finding **no statistically significant difference** in intermolar (IMW) or intercanine (ICW) width gain at 12 months — the two devices were equally effective, with the elastodontic device offering greater comfort and lower relapse/complication risk.
+Single-centre prospective comparative study (n=64, ages 7–8;
 
-## 한줄요약
+32 elastodontic Equilibrator vs 32 Haas expander) finding **no statistically significant difference** in intermolar (IMW) or intercanine (ICW) width gain at 12 months — the two devices were equally effective, with the elastodontic device offering greater comfort and lower relapse/complication risk.
 
-단일기관 전향적 비교연구(n=64, 7~8세; 탄성교정장치 Equilibrator 32명 vs Haas 확장장치 32명)에서 12개월째 상악 대구치간폭경(IMW)·견치간폭경(ICW) 증가량에 **통계적 유의차 없음** — 두 장치 효과는 동등하며, 탄성교정장치가 편안함·재발/합병증 측면에서 유리.
+(incomplete)
+
+## 세줄요약
+
+단일기관 전향적 비교연구(n=64, 7~8세;
+
+탄성교정장치 Equilibrator 32명 vs Haas 확장장치 32명)에서 12개월째 상악 대구치간폭경(IMW)·견치간폭경(ICW) 증가량에 **통계적 유의차 없음** — 두 장치 효과는 동등하며, 탄성교정장치가 편안함·재발/합병증 측면에서 유리.
+
+(incomplete)
 
 ## 1. Document Information
 

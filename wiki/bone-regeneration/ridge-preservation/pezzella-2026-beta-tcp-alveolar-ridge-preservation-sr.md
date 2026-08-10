@@ -6,7 +6,7 @@ date: 2026-01-01
 doi: 10.3390/jfb17050247
 source: pezzella-2026-beta-tcp-alveolar-ridge-preservation-sr.md
 category: [bone-regeneration/ridge-preservation]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/pezzella-2026-beta-tcp-alveolar-ridge-preservation-sr.pdf
 pdf_filename: pezzella-2026-beta-tcp-alveolar-ridge-preservation-sr.pdf
 source_collection: external
@@ -16,11 +16,21 @@ relations:
     target: majzoub-2019-influence-different-grafting-materials
 ---
 
-## One-line Summary
-SR (J Funct Biomater 2026, 5 RCTs): β-TCP alone for ARP shows variable results — more resorption than xenograft or equivalent to FDBA depending on formulation; composite β-TCP materials are comparable to DBBM; evidence is limited and heterogeneous, making β-TCP's ARP role provisional.
+## Three-line Summary
 
-## 한줄요약
-sr(J Funct Biomater 2026, RCT 5편): β-TCP 단독 ARP — 이종골보다 흡수 많거나 동급(가변적); 복합재료 β-TCP = DBBM 동등; 근거 제한·이질적; β-TCP의 ARP 역할 잠정적.
+Systematic review (University of Naples, 5 RCTs, search to April 2026) evaluating β-tricalcium phosphate (β-TCP) for alveolar ridge preservation (ARP) using CBCT-based dimensional outcomes at ≥4 months.
+
+β-TCP alone produced variable results — ranging from greater resorption versus xenograft to comparable outcomes versus FDBA — whereas combined β-TCP formulations performed comparably to DBBM.
+
+Evidence is limited and heterogeneous across formulations, socket management, and outcome assessment, making any recommendation for β-TCP in ARP provisional.
+
+## 세줄요약
+
+나폴리 페데리코 II 대학 체계적 문헌고찰 (Systematic Review, SR): RCT 5편, 2026년 4월까지 검색, 콘빔전산화단층촬영 (Cone-Beam Computed Tomography, CBCT) 기반 4개월 이상 추적 치수 변화 평가.
+
+β-삼인산칼슘 (β-Tricalcium Phosphate, β-TCP) 단독 치조제 보존술 (Alveolar Ridge Preservation, ARP)은 이종골 대비 흡수 증가 또는 동결건조동종골 (Freeze-Dried Bone Allograft, FDBA) 대비 동등이라는 가변적 결과; 복합 β-TCP 제재는 탈단백우골 (Deproteinized Bovine Bone Mineral, DBBM)과 동등.
+
+제형·소켓 처치·평가 방법의 이질성이 커 β-TCP의 ARP 내 역할은 잠정적 수준에 머물며, 일관된 권고를 내리기에 근거가 불충분하다.
 
 ## Summary
 Systematic review (University of Naples Federico II, search to April 2026) evaluating β-tricalcium phosphate (β-TCP) for alveolar ridge preservation. Five RCTs met inclusion criteria. β-TCP alone shows variable results; combined formulations are more consistent and comparable to DBBM.

@@ -10,8 +10,21 @@ pdf_filename: starch-jensen-2019-sinus-augmentation-barrier-membrane-window.pdf
 source_collection: external
 ---
 
-## One-line Summary
-SR+MA(6개 RCT): 측창 상악동 거상술 시 차폐막 피개 vs 비피개 — 임플란트 생존율·골형성·합병증에서 통계적 유의차 없음; 차폐막 일상적 사용의 근거 불충분.
+## Three-line Summary
+
+SR+MA(6개 RCT): 측창 상악동 거상술 시 차폐막
+
+피개 vs 비피개 — 임플란트 생존율·골형성·합병증에서 통계적
+
+유의차 없음; 차폐막 일상적 사용의 근거 불충분.
+
+## 세줄요약
+
+SR+MA(6개 RCT): 측창 상악동 거상술 시 차폐막
+
+피개 vs 비피개 — 임플란트 생존율·골형성·합병증에서 통계적
+
+유의차 없음; 차폐막 일상적 사용의 근거 불충분.
 
 ## 1. Document Information
 - **Journal**: Journal of Oral & Maxillofacial Research 2019;10(4):e1

@@ -10,8 +10,21 @@ pdf_filename: sbricoli-2024-antibiotic-prescribing-habits-dentistry-survey.pdf
 source_collection: external
 ---
 
-## One-line Summary
-이탈리아 Padova/Naples 치과의사 설문 연구 (Antibiotics 2024): 치과 항생제 처방 행태 — 가이드라인 대비 과잉처방·부적절 적응 흔함; AMR 인식과 처방 행동 간 괴리. 스튜어드십 (stewardship) intervention 근거.
+## Three-line Summary
+
+이탈리아 Padova/Naples 치과의사 설문 연구 (Antibiotics 2024): 치과 항생제
+
+처방 행태 — 가이드라인 대비 과잉처방·부적절 적응 흔함; AMR
+
+인식과 처방 행동 간 괴리. 스튜어드십 (stewardship) intervention 근거.
+
+## 세줄요약
+
+이탈리아 Padova/Naples 치과의사 설문 연구 (Antibiotics 2024): 치과 항생제
+
+처방 행태 — 가이드라인 대비 과잉처방·부적절 적응 흔함; AMR
+
+인식과 처방 행동 간 괴리. 스튜어드십 (stewardship) intervention 근거.
 
 ## 1. Document Information
 Authors: Sbricoli L, Grisolia G, Stellini E, Bacci C, Annunziata M, Bressan E
@@ -28,7 +41,7 @@ Journal: Antibiotics 2024;13:189
 Questionnaire administered to Italian dentists; analyzed prescribing habits, indication appropriateness, AMR awareness.
 
 ## 4. Key Results
-[합의수준] Overprescription patterns identified; indications often diverge from guideline recommendations; AMR awareness does not translate to behavior change.
+[확인] Overprescription patterns identified; indications often diverge from guideline recommendations; AMR awareness does not translate to behavior change.
 
 ## 5. Limitations
 - Self-report bias (questionnaire)

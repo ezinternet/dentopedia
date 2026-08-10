@@ -6,7 +6,7 @@ date: 2024-01-01
 doi: 10.21873/invivo.13535
 source: andriakopoulou-2024-oral-mucositis-pediatric-prevention-sr-ma.md
 category: [oral-medicine/mucositis]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: false
 pmid: "38688628"
@@ -20,13 +20,21 @@ relations:
     target: dean-2022-oral-chronic-gvhd-review
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (34 RCTs identified, 5 meta-analyzed) of oral mucositis (OM) prevention/treatment in pediatric cancer patients: topical honey shortened hospital stay in severe OM (MD=-4.33 days, p=0.002); LLLT showed no benefit for OM grade >=II (RR=0.99).
+SR+MA (MEDLINE + Scopus, Jan 2000–Mar 2023; 34 RCTs identified, 5 pooled) of oral mucositis (OM) prevention and treatment in pediatric cancer patients (chemotherapy/radiotherapy/HSCT); chemotherapy-induced OM incidence in children can reach 91.5%.
 
-## 한줄요약
+Topical honey significantly shortened hospital stay in severe OM (MD = −4.33 days, p = 0.002); LLLT showed no benefit for OM grade ≥II (RR = 0.99, p = 0.99) in the pooled pediatric analysis.
 
-소아암 환자 구강점막염(OM) 예방·치료 SR+MA(RCT 34편 확인, 5편 메타분석): 국소 꿀이 중증 OM 입원기간 단축(MD=-4.33일, p=0.002), 저출력레이저(LLLT)는 OM grade >=II에 효과 없음(RR=0.99).
+Honey is the only meta-analytically supported pediatric OM agent in this review; only 5 of 34 RCTs were poolable (the honey estimate rests on 2 RCTs), and authors call for further high-quality pediatric RCTs.
+
+## 세줄요약
+
+소아암 환자(항암·방사선·조혈모세포이식) 구강점막염(Oral Mucositis, OM) 예방·치료 SR+MA(MEDLINE+Scopus 2000–2023, RCT 34편 확인, 5편 메타분석); 소아 항암 유발 OM 발생률 최대 91.5%.
+
+국소 꿀이 중증 OM 입원기간을 유의하게 단축(MD=−4.33일, p=0.002); 저출력레이저치료(LLLT)는 OM grade≥II에 효과 없음(RR=0.99, p=0.99).
+
+꿀이 유일하게 메타분석 지지를 받은 소아 OM 치료제; 5편만 풀링 가능하고 꿀 추정치는 RCT 2편에 근거 — 추가 고품질 소아 RCT 필요.
 
 ## Summary
 
@@ -58,6 +66,6 @@ Oral mucositis (OM) is a common, serious complication of cancer treatment; chemo
 
 ## Related Papers
 
-- [[oral-medicine/dean-2022-oral-chronic-gvhd-review]] — extends; shared pediatric/HSCT oral-complication context (oral chronic GVHD vs conditioning-induced mucositis)
-- [[oral-medicine/coppola-2023-herpetic-gingivostomatitis-sr]] — adjacent oral ulcerative/erosive condition and OM differential in immunocompromised children
-- [[oral-medicine/belenguer-guallar-2014-recurrent-aphthous-stomatitis-review]] — adjacent oral-ulcer symptom-management literature
+- [[oral-medicine/immune-mediated/dean-2022-oral-chronic-gvhd-review]] — extends; shared pediatric/HSCT oral-complication context (oral chronic GVHD vs conditioning-induced mucositis)
+- [[oral-medicine/hsv/coppola-2023-herpetic-gingivostomatitis-sr]] — adjacent oral ulcerative/erosive condition and OM differential in immunocompromised children
+- [[oral-medicine/aphthous-stomatitis/belenguer-guallar-2014-recurrent-aphthous-stomatitis-review]] — adjacent oral-ulcer symptom-management literature

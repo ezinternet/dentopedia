@@ -13,13 +13,21 @@ source_collection: external
 
 Quantifies whether gingival phenotype (thin vs thick) drives implant survival, complementing the soft-tissue/keratinized-mucosa evidence in [[wiki/overviews/keratinized-mucosa-peri-implant-health-overview]] and the soft-tissue phenotype-modification work in [[wiki/implants/tavelli-2021-soft-tissue-phenotype-modification-peri-implant-nma]]; finds phenotype relates to survival only *indirectly* via peri-implantitis/MBL risk, not directly.
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (8 studies): implant success >91% at up to 5 years for BOTH thin and thick gingival phenotypes; phenotype does not directly determine survival but the thin phenotype is a main risk factor for additional marginal bone loss, so its effect on survival is indirect (via peri-implantitis/MBL).
+Systematic review (8 heterogeneous studies, PRISMA/JBI) examining whether gingival phenotype (thin vs thick) influences implant survival rate and clinical parameters including marginal bone level (MBL) at up to 5-year follow-up.
 
-## 한줄요약
+Implant success exceeded 91% for both thin and thick phenotypes; thin phenotype did not directly determine survival but was identified as one of the main risk factors for additional marginal bone loss, suggesting an indirect path to increased peri-implantitis risk.
 
-체계적 문헌고찰(8편): 얇은·두꺼운 치은 표현형 모두 5년까지 성공률 >91%. 표현형이 생존율을 직접 결정하지는 않으나, 얇은 표현형은 추가 변연골소실의 주요 위험인자 — 따라서 생존율에 미치는 영향은 임플란트주위염/MBL을 통한 간접적 경로.
+The thin-phenotype effect on implant survival is mediated through MBL/peri-implantitis rather than direct failure; evidence is non-conclusive due to only 8 heterogeneous studies with variable phenotype assessment methods.
+
+## 세줄요약
+
+체계적 문헌고찰(8편, PRISMA/JBI): 치은 표현형(얇음 vs 두꺼움)이 임플란트 생존율 및 변연골소실(MBL) 등 임상 지표에 미치는 영향을 최대 5년 추적하여 검토.
+
+얇은·두꺼운 표현형 모두 임플란트 성공률 >91%; 얇은 표현형이 생존율을 직접 결정하지는 않으나 추가 변연골소실의 주요 위험인자로, 임플란트주위염(Peri-implantitis)/MBL을 통한 간접적 생존율 영향 경로가 시사됨.
+
+얇은 표현형의 생존율 영향은 MBL 매개 간접 경로이나, 포함 연구 8편에 불과하고 표현형 평가 방법이 이질적이어서 임상적 결론은 비확정적임.
 
 ## 1. Document Information
 

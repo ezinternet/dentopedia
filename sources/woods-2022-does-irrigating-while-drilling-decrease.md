@@ -9,8 +9,21 @@ pdf_filename: woods-2022-does-irrigating-while-drilling-decrease.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Preclinical in vivo dog tibial study (Iowa Orthop J 2022, 42:22, Level II): saline irrigation and sharp drill bits significantly reduce drilling-induced temperature rise and acute osteonecrosis; conventional trocar-tip Kirschner wires produced the largest temperature rise and the most necrosis.
+## Three-line Summary
+
+Preclinical in vivo dog tibial study (Iowa Orthop J 2022, 42:22, Level II):
+
+saline irrigation and sharp drill bits significantly reduce drilling-induced temperature rise and acute
+
+osteonecrosis; conventional trocar-tip Kirschner wires produced the largest temperature rise and the most necrosis.
+
+## 세줄요약
+
+Pre임상적 (Clinical) 생체내 (In vivo) dog tibial study (Iowa Orthop J 2022, 42:22, Level II):
+
+saline irrigation and sharp drill bits significantly reduce drilling-induced temperature rise and acute
+
+osteonecrosis; conventional trocar-tip Kirschner wires produced the largest temperature rise and the most necrosis.
 
 ## 1. Document Information
 - Journal: Iowa Orthopaedic Journal 2022;42:22 (Volume 42, Issue 2)

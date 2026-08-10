@@ -14,13 +14,21 @@ source_collection: external
 
 측방창 (Lateral Window) 상악동거상술에서 잔류 치조골 높이 (Residual Ridge Height, RRH)가 슈나이더 막 천공 (Sinus Membrane Perforation, SMP)의 위험인자인지 처음으로 메타분석으로 집계한 SR+MA. 기존 [[wiki/overviews/sinus-lift-lateral-2026-synthesis]]의 "Cluster 2 — 해부학적 위험 예측" 축에서 잔류골 높이 항목이 누락되어 있었으며, 본 논문이 그 공백을 채우는 핵심 근거로 작용. [[wiki/sinus-lift/lateral/yang-2024-sinus-septa-wall-thickness-perforation-risk]] (격벽·측벽 두께), [[wiki/sinus-lift/lateral/manor-2024-cbct-prognostic-factors-sinus-perforation]] (CBCT 예측인자)와 함께 술전 위험 평가 체계를 보완.
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (10 studies, 1,809 sinus lifts): lower residual ridge height is significantly associated with Schneiderian membrane perforation during lateral-window sinus floor elevation (MD −0.89 mm, 95% CI −1.47 to −0.31; small RRH OR 2.47, NS in primary analysis but significant after outlier removal).
+SR+MA (10 studies, 1,809 sinus lifts): lower residual ridge height is significantly associated with Schneiderian membrane perforation during lateral-window sinus floor elevation (MD −0.89 mm, 95% CI −1.47 to −0.31;
 
-## 한줄요약
+small RRH OR 2.47, NS in primary analysis but significant after outlier removal).
 
-SR+MA (10연구, 1,809회 상악동거상술): 잔류 치조골 높이 (Residual Ridge Height, RRH)가 낮을수록 측방창 (Lateral Window) 상악동거상술에서 슈나이더 막 천공 위험 증가 (MD −0.89 mm; 이분형 분석 OR 2.47, 이상치 제거 시 유의).
+(incomplete)
+
+## 세줄요약
+
+SR+MA (10연구, 1,809회 상악동거상술): 잔류 치조골 높이 (Residual Ridge Height, RRH)가 낮을수록 측방창 (Lateral Window) 상악동거상술에서 슈나이더 막 천공 위험 증가 (MD −0.89 mm;
+
+이분형 분석 OR 2.47, 이상치 제거 시 유의).
+
+(incomplete)
 
 ## 1. Document Information
 

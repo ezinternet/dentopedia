@@ -9,8 +9,21 @@ pdf_filename: turker-2026-maxillary-sinus-septa-perforation-risk.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Retrospective CBCT analysis of 300 individuals: maxillary sinus septa were predominantly mediolateral (91.7%) and located in the premolar region (40.0%); using a modified seven-class radiographic system, the most frequent predicted Schneiderian membrane (SM) perforation risk classes were Class I (33.0%) and Class III (32.7%); moderate predicted risk was higher in females (p = 0.011) and septum location was significantly associated with predicted risk (p < 0.001), while posterior dentition status and septum orientation were not.
+## Three-line Summary
+
+Retrospective CBCT analysis of 300 individuals: maxillary sinus septa were predominantly mediolateral (91.7%) and located in the premolar region (40.0%)
+
+using a modified seven-class radiographic system, the most frequent predicted Schneiderian membrane (SM) perforation risk classes were Class I (33.0%) and Class III (32.7%)
+
+moderate predicted risk was higher in females (p = 0.011) and septum location was significantly associated with predicted risk (p < 0.001), while posterior dentition status and septum orientation were not.
+
+## 세줄요약
+
+Retrospective CBCT analysis of 300 individuals: maxillary sinus septa were predominantly mediolateral (91.7%) and located in the premolar region (40.0%)
+
+using a modified seven-class radiographic system, the most frequent predicted Schneiderian membrane (SM) perforation risk classes were Class I (33.0%) and Class III (32.7%)
+
+moderate predicted risk was higher in females (p = 0.011) and septum location was significantly associated with predicted risk (p < 0.001), while posterior dentition status and septum orientation were not.
 
 ## 1. Document Information
 - **Journal**: Surgical and Radiologic Anatomy 2026;48:112

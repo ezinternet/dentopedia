@@ -4,7 +4,7 @@ authors: synthesis page (compiled by Claude from 16 wiki entries, 2026-06-21)
 year: 2026
 date: 2026-06-21
 category: overviews
-confidence: synthesis
+evidence_level: synthesis
 source_collection: internal
 tags: [overview, tmd, myofascial-pain, myogenous-tmd, physical-therapy, manual-therapy, exercise-therapy, dry-needling, spray-and-stretch, botulinum-toxin, network-meta-analysis, decision-tree, conservative-management]
 source: synthesis
@@ -24,13 +24,21 @@ source: synthesis
 > - **임상 bottom line**: 근막성 TMD 1차는 *운동+도수치료+행동치료*(능동), trigger-point 표적엔 DN/분사신장(상호교환), 불응 시 BTX(통증엔 효과·개구엔 무효), 수동 전기물리치료는 보조. TMD 80%+ 비수술 관리 가능(Alowaimer 2024).
 > - **근거 공백**: 저작근 대상 분사신장 무작위 시험 0편(승모근 근거 전이), 모달리티 직접비교 head-to-head 부족, 대부분 단기 추적·이질성으로 MA 제한. 모달리티 우열보다 **순응도·다학제·능동참여**가 결과를 좌우.
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis of 16 wiki pages comparing conservative physical-therapy modalities for myofascial/myogenous TMD (therapeutic exercise, manual therapy, dry needling, spray-and-stretch, intramuscular/botulinum injection, plus electrophysical and behavioral adjuncts) into an evidence-ranked decision tree — anchored by Yao 2023's BMJ network meta-analysis (233 RCTs) which puts active treatments (CBT+biofeedback, jaw mobilization, manual trigger-point therapy) at the top and pharmacology at the bottom.
+Synthesis of 16 papers comparing conservative physical-therapy modalities for myofascial/myogenous TMD, anchored by Yao 2023 BMJ SR+NMA (233 RCTs, n=8,713, 59 interventions): top-3 pain-reducing interventions are CBT+biofeedback (~36% RD), jaw mobilization (~36%), and manual trigger-point therapy (~32%), all with moderate-to-high certainty; pharmacology ranks at the bottom with low certainty.
 
-## 한줄요약
+The evidence ladder runs: Step 1 (foundation) patient education + self-care + therapeutic exercise (equal to occlusal splint on pain; Zhang 2021 SR+MA) → Step 2 (core) add manual therapy (MT + exercise = best combination, González-Sánchez 2023 SR) → Step 3 (trigger-point target) dry needling ↔ spray-and-stretch are interchangeable adjuncts (head-to-head no significant difference) → Step 4 (escalation) BTX-A reduces pain vs placebo but does NOT improve MMO and is not first-line.
 
-근막성/근육형 TMD 보존적 물리치료 모달리티(운동·도수치료·건침·분사신장·근육내/보툴리눔 주사 + 전기물리·행동 보조)를 근거순 결정 트리로 종합한 16편 — Yao 2023 BMJ 네트워크 메타분석(233 RCT)이 능동치료(CBT+바이오피드백·하악 가동화·수기 트리거포인트)를 최상위, 약물을 최하위에 둠.
+Clinical bottom line: active patient-engaged therapies (exercise + manual therapy + behavioral) consistently outperform passive modalities and pharmacology; CBT/biofeedback should be co-managed; >80% of TMD is manageable non-surgically; TENS/LLLT monotherapy shows limited benefit and should be reserved as an adjunct only.
+
+## 세줄요약
+
+16편 종합: Yao 2023 BMJ SR+NMA(233 RCT, n=8,713, 59개입)에서 통증 감소 TOP3는 CBT+바이오피드백(RD ~36%)·하악 가동화(~36%)·수기 트리거포인트(~32%), 모두 중등~높은 근거; 약물은 낮은 근거로 최하위.
+
+근거 사다리: 교육+자가관리+운동치료(1차, 교합안정장치와 통증 동등) → 도수치료 추가(MT+운동 병용 최선) → 건침↔분사신장(3차, 트리거포인트 표적, 상호교환) → BTX-A(통증 효과, 개구 무효, 보존 불응 시 단계적 추가).
+
+임상 결론: 능동치료(운동·도수·행동)가 수동 전기물리치료·약물보다 일관되게 우위; TMD 80%+ 비수술 관리 가능; 심리·기분 동반 시 예후 악화 → CBT 공동 관리 필수.
 
 ## Scope
 

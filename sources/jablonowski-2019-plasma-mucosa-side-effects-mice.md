@@ -13,13 +13,21 @@ source_collection: external
 
 플라즈마 배치 2차(2026-05-31)의 **안전성(safety) 축**. 골유착·항균 이득과 별개로 CAP를 구강 점막에 직접 적용했을 때 조직 손상이 있는지 동물에서 검증해, [[wiki/overviews/plasma-surface-treatment-dental-implants]]가 임플란트주위염 chairside 적용을 논할 때 필요한 안전성 전제를 채운다. [[wiki/implants/surface/plasma/alqutaibi-2023-cap-bacterial-reduction-implants-sr]] 제염 적용의 안전 근거.
 
-## One-line Summary
+## Three-line Summary
 
-In vivo mouse safety study (180 male B6C3F1 mice, 12 groups; buccal mucosa treated with two CAP sources for 10 s or 1 min, vs UV and untreated controls; sacrificed 1 day or 1 week later): assesses short-term mucosal tissue damage before in-human CAP use for peri-implant disease — an explicit pre-clinical safety check.
+In vivo mouse safety study (180 male B6C3F1 mice, 12 groups, n=15/group) in which buccal mucosa was treated with two CAP sources (kINPen 09, PS-MWM) at 10 s or 1 min, with UV (8 s/48 s) and untreated controls, sacrificed at 1 day or 1 week for histopathological assessment.
 
-## 한줄요약
+The study was explicitly designed as a pre-clinical safety screen to detect short-term harmful mucosal damage before CAP is applied to human subjects for peri-implant disease management.
 
-쥐 in vivo 안전성 연구(수컷 B6C3F1 180마리, 12군; 협측 점막에 2종 CAP를 10초·1분 적용, UV·무처리 대조, 1일·1주 후 희생): 사람 대상 임플란트주위염 CAP 적용 전 단기 점막 손상 여부를 평가한 전임상 안전성 검증.
+Short observation (≤1 week) and device-specific parameters mean findings are tied to the tested sources; translation to other CAP devices or longer-term mucosal effects requires separate evaluation.
+
+## 세줄요약
+
+수컷 B6C3F1 마우스 180마리(12군, n=15/군)를 대상으로 협측 점막에 2종 CAP 장비(kINPen 09, PS-MWM)를 10초·1분씩 적용하고 UV·무처리 대조와 비교, 1일·1주 후 희생해 조직병리로 단기 점막 손상을 평가했다.
+
+본 연구는 임플란트주위염 치료에 사람에게 CAP를 적용하기 전 전임상 안전성을 확인하기 위한 명시적 안전성 스크리닝 목적으로 설계됐다.
+
+관찰기간이 1주 이내로 짧고 특정 장비·파라미터에 한정되므로, 다른 CAP 장비나 장기적 점막 효과로의 확장에는 별도 연구가 필요하다.
 
 ## 1. Document Information
 

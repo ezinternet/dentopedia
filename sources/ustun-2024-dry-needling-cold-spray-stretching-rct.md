@@ -16,13 +16,21 @@ text_filename: ustun-2024-dry-needling-cold-spray-stretching-rct.txt
 
 TMD 분사신장 논문 감시 (B) 영역 — 분사신장(cold-spray-stretching)의 **1차 RCT 근거**. [[tmj/koole-2019-spray-stretch-technique-mouth-opening]]·[[tmj/pal-2014-trends-management-myofascial-pain]]가 마스티케이션/구강안면 영역이지만 RCT 비교 근거가 없는 반면, 본 연구는 분사신장을 건침(dry needling)과 직접 비교한 무작위 대조군 연구다. 단 부위가 **상부 승모근**이라 마스티케이션 직접 근거가 아닌 전이가능(transferable) 기법 근거로 분류. 분사신장 종합 overview의 evidence-weight 기둥.
 
-## One-line Summary
+## Three-line Summary
 
-Prospective single-blind RCT (n=60, upper-trapezius MPS) — cold-spray-stretching vs dry needling over 3 weekly sessions; both improved pain, function, sEMG and ultrasound histogram (P<.05), with cold-spray-stretching showing higher algometer (pain-threshold) and NDI scores than dry needling (P<.008 and P<.028). Extra-masticatory (transferable) technique evidence; abstract-only.
+Prospective single-blind RCT (n=60, upper-trapezius MPS) — cold-spray-stretching vs dry needling over 3 weekly sessions;
 
-## 한줄요약
+both improved pain, function, sEMG and ultrasound histogram (P<.05), with cold-spray-stretching showing higher algometer (pain-threshold) and NDI scores than dry needling (P<.008 and P<.028).
 
-전향 단일맹검 RCT (n=60, 상부 승모근 근막통) — 분사신장 vs 건침 3주(주 1회); 두 군 모두 통증·기능·sEMG·초음파 호전(P<.05), 분사신장군이 압통역치(algometer)·NDI에서 건침보다 우수(P<.008, P<.028). 교근 외(승모근) 전이가능 근거, 초록 기반.
+Extra-masticatory (transferable) technique evidence; abstract-only.
+
+## 세줄요약
+
+전향 단일맹검 RCT (n=60, 상부 승모근 근막통) — 분사신장 vs 건침 3주(주 1회);
+
+두 군 모두 통증·기능·sEMG·초음파 호전(P<.05), 분사신장군이 압통역치(algometer)·NDI에서 건침보다 우수(P<.008, P<.028).
+
+교근 외(승모근) 전이가능 근거, 초록 기반.
 
 ## 1. Document Information
 

@@ -13,13 +13,21 @@ source_collection: external
 
 어버트먼트 나사 풀림(screw loosening)은 임플란트 보철에서 가장 흔한 기계적 합병증이며, CAD-CAM 맞춤 어버트먼트(custom abutment)와 기성 어버트먼트(stock abutment) 중 어느 쪽이 장기 하중에 더 안정적인지 근거가 부족했다. 본 연구는 200만 사이클 피로 시험 후 제거 토크값(Removal Torque Value, RTV)과 SEM 표면 분석을 통해 두 어버트먼트 유형의 기계적 동등성을 확인, [[prosthetic-materials/overview-implant-abutment-connection-stability]] 종합 페이지의 근거를 강화한다.
 
-## One-line Summary
+## Three-line Summary
 
 In-vitro study (n=44 conical-hex assemblies) showing CAD-CAM custom abutments had lower baseline removal torque than stock abutments but maintained equivalent preload stability after 2 million fatigue cycles, with greatest preload loss occurring before 1 million cycles.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 체외 실험(n=44, 내부 원추형-헥스 연결)에서 CAD-CAM 맞춤 어버트먼트(custom abutment)는 기성 어버트먼트(stock abutment)보다 기저 제거 토크값(Removal Torque Value, RTV)이 낮았으나, 200만 사이클 피로 하중 후 예압(preload) 유지 능력은 동등하였으며 가장 큰 예압 소실은 50,000~100만 사이클 구간에서 발생하였다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

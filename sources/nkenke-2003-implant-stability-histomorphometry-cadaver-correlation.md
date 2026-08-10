@@ -11,15 +11,23 @@ source_collection: external
 
 ## Why Ingested
 
-일차안정성의 생물학적 기질(골밀도·histomorphometry)을 직접 상관시킨 고전 cadaver 연구로, 현대 ISQ·토크 상관 논의의 근거 토대로 인제스트. [[implants/isq/chatvaratthana-2017-cortical-bone-thickness-isq-cbct]] 및 [[implants/isq/lages-2018-isq-insertion-torque-correlation-sr]] 의 상관 주장에 역사적·기계적 anchor를 제공.
+일차안정성의 생물학적 기질(골밀도·histomorphometry)을 직접 상관시킨 고전 cadaver 연구로, 현대 ISQ·토크 상관 논의의 근거 토대로 인제스트. [[implants/isq/chatvaratthana-2017-cortical-bone-crestal-buccolingual-isq]] 및 [[implants/isq/lages-2018-isq-insertion-torque-correlation-sr]] 의 상관 주장에 역사적·기계적 anchor를 제공.
 
-## One-line Summary
+## Three-line Summary
 
 Human cadaver correlation study (48 stepped-cylinder implants in 4 maxillae/mandibles) relating implant primary stability to CT bone mineral density and histomorphometric parameters of the implant site.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 인체 cadaver 상관 연구(stepped-cylinder 임플란트 48개, 상·하악 4구) — 임플란트 일차안정성을 CT 골밀도·식립부 histomorphometric 지표와 상관 분석.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - Clinical Oral Implants Research 2003;14(5):601–609.

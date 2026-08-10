@@ -17,13 +17,21 @@ text_filename: gaafar-2025-inflammatory-response-neosealer-ceraseal-fibroblasts.
 
 Seeds the wiki's first **CeraSeal biocompatibility / human-gingival-fibroblast (HGF) inflammatory-response** page and supplies the head-to-head CeraSeal vs NeoSEALER Flo cytotoxicity/cytokine comparison that the existing CeraSeal cluster lacks. It reinforces the in-vitro CeraSeal characterization work in [[endodontics/maharti-2024-calcium-silicate-apatite-deposition-ph]] (CeraSeal apatite-deposition / pH bioactivity) and [[endodontics/kunam-2024-wettability-ahplus-ceraseal-guttaflow]] (CeraSeal vs AH Plus wettability), and supplies the cellular-safety substrate behind the favorable clinical outcomes reported in [[endodontics/spinelli-2024-three-year-single-cone-ceraseal-cohort]]. Source: PubMed/PMC ([DOI](https://doi.org/10.1186/s12903-025-05692-1)).
 
-## One-line Summary
+## Three-line Summary
 
-In-vitro MTT + qRT-PCR study (HGF-1 fibroblasts, 25–100% eluates, days 1/3/7) finding both premixed bioceramic sealers cause concentration- and time-dependent cytotoxicity and IL-6/IL-8/TNF-α upregulation, with NeoSEALER Flo slightly more cytotoxic/pro-inflammatory than CeraSeal, while AH Plus (epoxy-resin control) produced the highest cytokine levels overall.
+In vitro experimental study (BMC Oral Health 2025) comparing cellular cytotoxicity and inflammatory response of CeraSeal and NeoSEALER Flo bioceramic sealers vs AH Plus using HGF-1 human gingival fibroblasts, MTT viability assay, and qRT-PCR of IL-6/IL-8/TNF-α at days 1, 3, and 7 with eluate concentrations 25–100%.
 
-## 한줄요약
+NeoSEALER Flo reduced HGF viability 45% at 100% eluate concentration vs CeraSeal 35%; both bioceramics showed concentration- and time-dependent cytotoxicity; AH Plus (epoxy-resin control) produced the highest pro-inflammatory cytokine levels (IL-6 190 pg/mL, IL-8 140 pg/mL, TNF-α 100 pg/mL at 100%).
 
-인간 치은 섬유아세포(HGF) 대상 in-vitro 연구(MTT + qRT-PCR, 25–100% 용출액, 1/3/7일): 두 전혼합 바이오세라믹 실러 모두 농도·시간 의존적 세포독성과 IL-6/IL-8/TNF-α 상향을 보였고, NeoSEALER Flo가 CeraSeal보다 약간 더 독성·염증유발이 강했으며, 대조군 AH Plus(에폭시 레진)가 사이토카인 수치는 가장 높았다.
+Biocompatibility ranking: CeraSeal > NeoSEALER Flo > AH Plus; both bioceramic sealers significantly safer than epoxy-resin on protein-level inflammatory markers, supporting their clinical use in cases of high sealer-extrusion or apical periodontitis risk.
+
+## 세줄요약
+
+In vitro 실험실 연구(BMC Oral Health 2025): CeraSeal·NeoSEALER Flo 바이오세라믹 실러 vs AH Plus를 인간 치은 섬유아세포(HGF-1)에서 비교; MTT 생존성 검사 + IL-6/IL-8/TNF-α의 qRT-PCR, 1/3/7일, 25–100% 용출액.
+
+NeoSEALER Flo가 100% 용출액에서 HGF 생존률 45% 감소 vs CeraSeal 35%; 두 바이오세라믹 모두 농도·시간 의존적 세포독성; AH Plus(에폭시 레진)가 최고 사이토카인(IL-6 190 pg/mL, IL-8 140, TNF-α 100).
+
+생체적합성 순위: CeraSeal > NeoSEALER Flo > AH Plus; 바이오세라믹 모두 단백 수준 염증 표지자에서 에폭시 레진보다 유의하게 우수해, 높은 실러 과압출·근단염증 위험군의 임상 사용을 뒷받침.
 
 ## 1. Document Information
 

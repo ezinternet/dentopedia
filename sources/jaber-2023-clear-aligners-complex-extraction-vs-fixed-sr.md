@@ -17,13 +17,21 @@ text_filename: jaber-2023-clear-aligners-complex-extraction-vs-fixed-sr.txt
 
 `clear-aligner` sweep 발치·복잡 케이스 축의 **앵커**. 앵커 umbrella [[wiki/orthodontics/clear-aligner/yassir-2022-cat-vs-fat-overview-systematic-reviews]] 의 "중증 열등" 결론을 소구치 발치 케이스 한정으로 검증 — predicted/achieved 괴리, FA의 buccolingual inclination·기간 우위를 명시. PMC OA 전문.
 
-## One-line Summary
+## Three-line Summary
 
 SR (6 trials, n=283, premolar-extraction/complex cases): clear aligners and fixed appliances reach equivalent ABO-OGS/PAR outcomes, but fixed appliances achieve better buccolingual inclination and occlusal contacts in shorter time, while aligners show notable predicted-vs-achieved discrepancies in extraction cases.
 
-## 한줄요약
+(incomplete)
 
-SR(6편, n=283, 소구치 발치/복잡): CA와 FA의 ABO-OGS/PAR 결과는 동등하나, FA가 buccolingual inclination·교합접촉이 더 좋고 기간이 짧음. 발치 케이스에서 CA는 predicted-achieved 괴리가 뚜렷.
+(incomplete)
+
+## 세줄요약
+
+SR(6편, n=283, 소구치 발치/복잡): CA와 FA의 ABO-OGS/PAR 결과는 동등하나, FA가 buccolingual inclination·교합접촉이 더 좋고 기간이 짧음.
+
+발치 케이스에서 CA는 predicted-achieved 괴리가 뚜렷.
+
+(incomplete)
 
 ## 1. Document Information
 

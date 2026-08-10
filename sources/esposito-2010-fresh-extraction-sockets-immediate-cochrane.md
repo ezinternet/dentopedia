@@ -13,13 +13,21 @@ source_collection: external
 
 즉시식립(즉시·즉시지연·지연) 시기 비교에 대한 Cochrane 체계적 문헌고찰로, 현재 wiki에서 가장 상위 수준의 근거가 필요한 식립 시기 결정 문제를 다룬다. 기존 [[immediate-implant/araujo-2019-socket-healing-immediate-implant-review]]가 생물학적 기전을 설명하는 반면, 이 Cochrane SR+MA는 RCT 합성을 통해 임상 결과(생존율·합병증·심미) 비교 근거를 제공한다.
 
-## One-line Summary
+## Three-line Summary
 
-Cochrane SR+MA of 7 RCTs (2010) found insufficient evidence to favor any implant placement timing (immediate, immediate-delayed, or delayed), with early placement potentially offering aesthetic benefits but higher complication risks.
+Cochrane SR+MA of 7 RCTs comparing immediate (Type 1), immediate-delayed (Type 2), and delayed (Type 3) implant placement timing in fresh extraction sockets.
 
-## 한줄요약
+Immediate-delayed implants showed better patient satisfaction and mucosal aesthetics at 2 years vs. delayed (RR = 1.68 appropriate mucosal level), but significantly more complications at 5 years (RR = 4.20; 95% CI 1.01–17.43); no differences between immediate and delayed groups.
 
-7개 RCT를 합성한 2010년 Cochrane 체계적 문헌고찰로, 즉시·즉시지연·지연 식립 중 어느 시기도 명확히 우월하지 않으며 조기 식립은 심미적 이점 가능성과 함께 합병증 위험이 높을 수 있음을 보고했다.
+Insufficient evidence to recommend one timing over another; early placement may offer aesthetic advantages but carries higher complication burden that persists despite initial satisfaction gains—future well-powered RCTs needed.
+
+## 세줄요약
+
+신선한 발거 치조제에 즉시식립(Type 1), 즉시지연식립(Type 2), 지연식립(Type 3) 시기를 비교한 7개 RCT의 Cochrane 체계적 문헌고찰.
+
+즉시지연식립은 지연식립 대비 2년째 환자만족도 및 점막심미 우수(적절 점막높이 RR = 1.68)했으나, 5년째 합병증이 유의하게 많음(RR = 4.20; 95% CI 1.01–17.43); 즉시식립과 지연식립 간 유의 차이 없음.
+
+어느 시기 식립이 명확히 우월한지 근거 불충분; 조기 식립은 심미 이점 제공하나 초기 만족감에도 불구하고 합병증 부담이 지속되므로, 향후 충분 검정력의 RCT 필요.
 
 ## 1. Document Information
 

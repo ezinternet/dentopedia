@@ -6,7 +6,7 @@ date: 2021-07-01
 doi: 10.1016/j.dental.2021.03.008
 source: koenig-2021-ltd-monolithic-zirconia-prospective.md
 category: [dental-materials/zirconia]
-confidence: prospective
+evidence_level: prospective
 superseded_by: koenig-2024-ltd-monolithic-zirconia-5year-prospective
 superseded_scope: partial
 pdf_path: /Users/oracleneo/llm-wiki/papers/koenig-2021-ltd-monolithic-zirconia-prospective.pdf
@@ -18,13 +18,21 @@ tags: [zirconia, LTD, aging, 3Y-TZP, monolithic-zirconia, Raman, prospective]
 > [!note] Partially superseded → [[dental-materials/zirconia/koenig-2024-ltd-monolithic-zirconia-5year-prospective]]
 > 5-year results from the same cohort extend the LTD timeline and add grain pull-out nanoparticle concern. This 2-year paper retains value as the original LTD onset documentation and mechanism description. (set 2026-06-16)
 
-## One-line Summary
+## Three-line Summary
 
-First prospective study with ex vivo Raman/SEM monitoring (n=101 posterior elements, 2 years): LTD confirmed in intraoral 3Y-TZP monolithic zirconia from 6 months; grain pull-out in occlusal areas; glazing offers no protection.
+First prospective clinical study with ex vivo Raman spectroscopy and SEM monitoring (n=101 posterior 3Y-TZP monolithic zirconia, 4 timepoints over 2 years) confirming that low-temperature degradation (LTD) occurs in functioning intraoral restorations.
 
-## 한줄요약
+LTD onset was detected at 6 months; two distinct mechanisms were identified — classical nucleation-growth in axial areas and tribological grain pull-out in occlusal areas; glazed surfaces provided no protection against LTD.
 
-첫 전향적 임상 연구로 구강 내 3Y-TZP 모놀리식 지르코니아의 저온열화(LTD)를 라만 분광법으로 확인 (n=101, 2년): 6개월 후 LTD 발생, 교합면 그레인 탈락, 유약 보호 효과 없음.
+At 2 years, no prosthetic failures were attributed to LTD and the ISO 25% monoclinic-phase threshold was not exceeded, but the clinical impact remained unknown pending longer follow-up.
+
+## 세줄요약
+
+첫 전향적 임상 연구(n=101, 3Y-TZP 모놀리식 지르코니아, 4회 측정, 2년): 구강 내 기능 중인 보철물에서 저온열화(LTD, Low-Temperature Degradation)가 라만 분광법으로 확인됨.
+
+LTD 발생: 6개월부터 시작, 두 가지 기전 — 축면은 핵 성장형, 교합면은 마찰 그레인 탈락형; 유약 처리 표면도 LTD 보호 효과 없음.
+
+2년 시점에서 LTD로 인한 보철물 파절 없음, ISO 25% 임계값 초과 없음 — 임상적 영향은 장기 추적 필요(5년: Koenig 2024).
 
 ## Summary
 

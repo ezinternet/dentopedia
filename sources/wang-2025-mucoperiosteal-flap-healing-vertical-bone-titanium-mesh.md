@@ -13,13 +13,21 @@ source_collection: external
 
 Part of a focused collection on vertical ridge augmentation with titanium mesh, contributing direct evidence on the flap-management problem (mesh exposure, keratinized gingiva loss). This beagle study tests whether an open-healing approach without periosteal releasing incision can heal over a Ti-membrane and *widen* keratinized gingiva — directly addressing the exposure risk reported in [[implants/vertical-ridge-augmentation/chiapasco-2021-customized-cadcam-titanium-meshes-gbr]] and complementing the soft-tissue-expansion mechanism in [[implants/vertical-ridge-augmentation/kaner-2017-pre-augmentation-soft-tissue-expansion-vertical-bone]].
 
-## One-line Summary
+## Three-line Summary
 
 Randomized-block animal study (6 beagle dogs, 4 surgical protocols, ~12 sites/group): a mucoperiosteal flap left open without periosteal releasing incision (PRI) healed over a clean titanium-membrane surface during vertical bone augmentation with the lowest dehiscence (group C 8.3% vs PRI groups 41.67–50%) and a +1.77 mm gain in keratinized gingiva (vs −4.37 mm with PRI + closure, p<.001).
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 무작위블록 동물 연구 (비글견 6마리, 4개 프로토콜, 군당 약 12부위): 골막이완절개(PRI) 없이 일차봉합을 하지 않은 점막골막피판이 깨끗한 티타늄막 위에서 치유되어 열개율이 가장 낮았고(C군 8.3% vs PRI군 41.67–50%) 각화치은이 +1.77 mm 증가(PRI+봉합군 −4.37 mm, p<.001).
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

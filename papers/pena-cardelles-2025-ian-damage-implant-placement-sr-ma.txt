@@ -1,0 +1,130 @@
+Inferior alveolar nerve damage related to dental implant placement. A systematic review and meta-analysis
+Peña-Cardelles J-F, Markovic J, Akhondi S, Pedrinaci I, Lanis A, Gallucci G-O
+Med Oral Patol Oral Cir Bucal. 2025 Jul 1;30(4):e578-e589.
+PMID: 40192114 | PMCID: PMC12221155 | DOI: 10.4317/medoral.27125
+Source: PubMed / PMC full text (get_full_text_article)
+
+=== ABSTRACT ===
+
+Background
+A concern associated with implant placement is the potential occurrence of neurovascular lesions and subsequent development of sensory alterations in patients undergoing implant placements. The objective of this review is to evaluate the incidence of neurosensory alterations based on the proximity between the implant and the mandibular canal.
+
+Material and Methods
+A systematic review was conducted in MEDLINE, Web of Science, and Scopus. Studies with common variables were selected to conduct a meta-analysis. The patient classification was based on the mandibular canal-implant distance. Neurosensory alteration percentages were calculated for each study and group.
+
+Results
+The findings indicate significant correlations between implant placement proximity and neurosensory risks. The incidence of neurosensory alterations in patients with implants placed at a distance ≥ 2 mm from the mandibular canal was 0%. Similarly, for distances between 1-2 mm from the mandibular canal, the incidence remained at 0%. However, for implants placed at a distance of 0-1 mm from the mandibular canal, the incidence of neurosensory alterations was 68%. Additionally, patients with implants that intruded into the canal had an incidence of 53% in the development of neurosensorial alterations.
+
+Conclusions
+A distance of 1 mm from the mandibular canal might be safe. Implants placed at a distance less than 1 mm from the mandibular canal exhibit neurosensory alterations. Clinicians should be aware of the potential risk of nerve injury and adopt appropriate precautions, including meticulous preoperative planning and three-dimensional radiographic images.
+
+Keywords: Inferior alveolar nerve injury, mandibular canal, neurosensory disturbances, dental implant complications.
+
+=== FULL TEXT ===
+
+Introduction
+
+In recent years, notable progress has been observed in the field of dental implantology, establishing dental implants as a reliable treatment modality for replacing missing teeth. Similar to other treatment modalities, implant dentistry is not exempt from complications. A major concern associated with implant placement is the potential occurrence of neurovascular lesions and subsequent development of sensory alterations in patients undergoing this treatment.
+
+The prevalence of implant placements has experienced a notable surge, which, in turn, has led to a corresponding increase in the documentation of neurovascular injuries over time in the scientific literature. Neurovascular complications tend to be most frequent in the mandibular region.
+
+This complication may occur either from direct nerve trauma or as a consequence of indirect trauma, such as pressure exerted by a hematoma surrounding the neurovascular canal. Additionally, instances of chronic neuropathy have been reported in cases where implants were positioned close to the nerve without direct contact, leading to chronic stimulation.
+
+The nervous system configuration within the mandible has been extensively investigated to identify risks and prevent injury to neural structures. Various types of nerve lesions are classified based on the extent of physical damage and associated symptomatology, which is crucial for prognostic considerations. These classifications include neuropraxia, axonotmesis, and neurotmesis.
+
+The occurrence of neuropathic pain after implant therapy shows variations across different studies, ranging from 0% to 24% in the literature. Among the affected nerves, the inferior alveolar nerve (IAN) is the most commonly injured, followed by the lingual nerve. The primary factors contributing to IAN lesions are mainly iatrogenic, and the resolution of these injuries often takes more than 8 weeks. Nevertheless, approximately 80% of cases recover normal sensation within 6 months post-injury, with 91% experiencing full recovery after one year.
+
+A safety distance of 2 mm was initially established by Misch and Crawford and later corroborated by Bartling. This distance has been widely accepted in the literature as a means to mitigate nerve damage and neurosensory alterations associated with implant placement. Although more accurate diagnostic modalities, such as cone-beam computed tomography (CBCT) appeared in this field, the 2 mm safety distance based on panoramic X-ray studies remains a standard reference.
+
+The objective of this review is to evaluate the incidence of neurosensory alterations (NA) based on the proximity between the implant and the mandibular canal.
+
+Material and Methods
+
+This systematic review was structured according to the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) Statement.
+
+PICO question: "How does the distance (I) between the implant and the mandibular canal (C) impact the development of NA (O) in patients (P)?"
+P: Patients underwent implant placements.
+I: Distance between the implant and the mandibular canal.
+C: Different distances between the implant and the mandibular canal.
+O: Type of NA development.
+
+Inclusion Criteria: studies on human subjects; RCTs; non-randomized controlled clinical trials; prospective or retrospective cohort studies; cross-sectional studies; case-control studies; case series with more than 20 cases; case reports; observational studies. Published in English within the last 10 years.
+
+Exclusion Criteria: animal studies; cadaver studies; experimental laboratory studies; systematic reviews and meta-analyses; duplicated publications; books/chapters; letters to the Editor; commentaries.
+
+Literature search performed up to March 3rd, 2023 across MEDLINE (via PubMed), Web of Science, and Scopus. Bibliographic references of selected articles also reviewed. Two independent researchers performed the search (JF. P-C. and J.M). Search terms: (Neuropathic OR nerve injury OR neurosensory disturbance OR numbness OR sensory disturbance OR dysesthesia OR paresthesia OR altered sensation) AND dental implant.
+
+Agreement between reviewers measured with the Kappa coefficient. Concordance between reviewers = 92.5%. Disagreements resolved with a third reviewer (AL).
+
+Meta-analysis: Studies with common variables and homogeneity were selected. Studies were required to report the number of implants, number of patients, and distance between the implant and the NA. Patient classification based on the nerve canal-implant distance: 0-1 mm, 1-2 mm, and ≥2 mm. NA percentages categorized as either hyperesthesia and/or neuropathic pain group, or hypoesthesia group, following IASP definitions. Quantitative synthesis with SPSS v28. Fixed- or random-effect models applied based on heterogeneity. Forest plots used.
+
+Risk of bias assessed with the Newcastle-Ottawa Scale (observational studies).
+
+Results
+
+Study selection: The search strategy yielded 1254 results (PubMed: 658, Scopus: 44, Web of Science: 552). After 10-year chronological limitation, 771 articles remained. After English language criterion, 761 articles. After human subjects criterion, 667 articles. After removing duplicates (=171), 496 articles retained. After title/abstract screening, 437 papers excluded → 58 potential references. After full-text examination, 44 excluded → 14 observational studies ultimately included.
+
+Neurosensory Alterations and Sensory Testing:
+- One study assessed extra and intraoral NA of the IAN in 33 patients with dental implants on one side of the posterior mandible. Average distance from implant to mandibular canal was 2.65±1.75 mm.
+- Retrospective study of 34 patients with trigeminal neuropathy following implant placement (NPSI, thermal/electric QST, QualST, CBCT). Numbness was the most common symptom (91% of patients); evoked pain reported by 94%.
+- One study found 1.3% of implants positioned within 2 mm of the mandibular canal, 0.39% at <1 mm. One implant placed within 0-0.99 mm presented temporary NA.
+- Another study (60 patients, 101 implants): implants that resulted in NA had average implant penetration into the mandibular canal of -0.86 ±0.5 mm.
+- Transient alterations reported in 348 patients with implants placed close to the mandibular canal; NA more prevalent when implants placed within 1.5 mm of the canal.
+- One study identified high incidence of implants affecting accessory lingual canals, leading to NA in 27% of patients.
+- A study of 7,602 patients found neurosensory damage to trigeminal nerve branch in 56 cases, with implant placement a common cause. Hypoesthesia most frequent, followed by neuropathic pain.
+- Analysis of 16 patients with sensory disturbances: hyperalgesia in 31.25%, hypoalgesia in 68.75%. Postoperative disturbances related to bleeding during surgery, pain during drilling, and modifications to implant size. Dental implants were the most common etiological factor for nerve injury.
+
+Demographic and Clinical Factors:
+- Older women more susceptible to IAN damage.
+- Most neuropathic pain/NA cases occurred in patients over 60, primarily women.
+- Analysis of 1,065 patients receiving 3,025 implants: sensitivity disturbances typically resolved within 13 months. No correlation between bone above mandibular canal, implant length, operator experience, or ridge atrophy and incidence of altered sensation. Many cases evaluated only with panoramic X-rays.
+
+Management and Outcomes of Neuropathic Pain:
+- Case series of 26 patients with neuropathic pain: those with implant removal within three months experienced symptom improvement; removal after four months did not improve symptoms.
+- Retrospective cohort of 53 cases of iatrogenic trigeminal nerve injury: dental implant placement a common cause, often with pain. All implant cases had persistent symptoms three months post-treatment onset. Third molar extractions were the most common cause, followed by implant placements.
+
+Preoperative Planning:
+- CBCT and CT techniques utilized in preoperative planning/postoperative diagnostics in most included studies. Some used panoramic X-ray.
+- A study of 92 patients with neurosensory deficiencies: majority of cases associated with preoperative planning relying on panoramic or periapical radiographs rather than CT scans (76% of NA cases relied on periapical/panoramic radiographs).
+- CBCT limitations noted: radiation exposure, artefacts/image distortions (metallic objects), limited soft tissue visualization, resolution limits for thin bony structures, measurement accuracy issues, beam hardening artefacts.
+
+META-ANALYSIS RESULTS
+
+NA rate based on implant distance to the IAN canal:
+- ≥2 mm: incidence of NA = 0% (CI 0.00-0.00)
+- 1-2 mm: incidence = 0% (CI 0.01-0.02)
+- 0-1 mm: incidence = 68% (CI 0.09-1.28)
+- Intrusion into mandibular canal: incidence = 53% (CI 0.13-0.82)
+
+Hypoesthesia:
+- ≥2 mm and 1-2 mm groups: 0% (CI 0-0)
+- 0-1 mm: 58% (CI 0.06-1.11)
+- Canal intrusion: 42% (CI 0.42-1.26)
+- Both 0-1 mm and intrusion groups showed significant differences vs 1-2 mm and ≥2 mm groups.
+
+Hyperesthesia:
+- ≥2 mm and 1-2 mm groups: 0% (CI 0-0 and 0.01-0.02)
+- 0-1 mm: 10% (CI 0.1-0.3)
+- Canal intrusion: 46% (CI 0.16-1.08)
+
+Risk of bias (Newcastle-Ottawa Scale): Five studies good quality; several medium quality (minor limitations in cohort comparability/follow-up); remaining low quality (follow-up length, cohort selection).
+
+Discussion
+
+Reported prevalence of nerve injury varies substantially: some studies <1%, others up to 24%, and one identifying 43.5% nerve injuries following dental implant placement. Diversity may stem from differences in anatomical conditions, surgical techniques (free hand vs guided surgery), digital planning, and follow-up time.
+
+Digital implant planning (CBCT + virtual planning) should be regarded as gold standard. A study revealed 76% of cases with NA relied on treatment planning with periapical or panoramic radiographs instead of virtual planning. Despite CBCT-based planning, IAN injury occurred due to mandibular canal intrusion of 0.86 ± 0.5 mm — so computer-assisted implant surgery (CAIS) is crucial to prevent deviations.
+
+The safety distance of 2 mm from Misch & Crawford (1990) and Bartling (1999) has been well accepted. However, implant dentistry has advanced (new surfaces, narrow/short implants, computer-guided surgery). Bartling (1999) included 94 patients of which eight presented NA. The present meta-analysis extracted from 1636 patients who received implants between the mandibular canal and 3 mm. The same behavior of >1mm and >2mm regarding NA development supports updated safety distance information.
+
+One study reported NA in patients with implants placed within 0.5-1.5 mm. Another retrospective study of 1957 patients reported only one case of temporary hypoesthesia when the implant was placed less than 2 mm from the IAN. The meta-analysis involved 1636 patients with distances of 1, 2 and 3 mm.
+
+Recovery: 23 of 1065 patients presented sensitivity disturbance after one month but all recovered after 13 months. Numbness most common symptom (91%). Nerve injury more common in women: one study found women older than 60 had trigeminal neuropathy; another found women 3.29 times more likely to get IAN injuries than men.
+
+Limitations: heterogeneity and retrospective nature of included studies; variations in criteria defining nerve injury/reporting; meta-analyses conducted with a reduced number of studies.
+
+Clinical implications: Maintaining a 1 mm distance between the implant apex and the mandibular canal may be sufficient to prevent NA. Within 1 mm, hypoesthesia occurs in ~58% of cases. When the implant penetrates the canal, hypoesthesia develops in 42% of cases, and may also result in hyperesthesia and neuropathic pain in 46% of cases. Explained by significant intra-canal damage (fractures of canal roof, internal hemorrhage, bone debris) = direct mechanical stimulation of nerve fibers vs indirect stimulation when implants placed further away.
+
+Conclusions
+
+Clinicians should be aware of the potential risk of nerve injury and adopt appropriate precautions, including meticulous preoperative planning and three-dimensional radiographic images, since incidence may be influenced by implant length, diameter, and distance from implant to mandibular canal. This study concludes that a distance of 1 mm from the mandibular canal might be safe. Further prospective randomized clinical trials should be performed to confirm these findings.

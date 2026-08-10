@@ -6,18 +6,26 @@ date: 2018-06-26
 doi: 10.1186/s40729-018-0128-4
 source: luz-2018-maxillary-sinus-3d-cbct-evaluation.md
 category: digital-workflow
-confidence: cross-sectional
+evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/luz-2018-maxillary-sinus-3d-cbct-evaluation.pdf
 pdf_filename: luz-2018-maxillary-sinus-3d-cbct-evaluation.pdf
 source_collection: external
 tags: []
 ---
 
-## One-line Summary
-Retrospective CBCT analysis (64 patients, 128 maxillary sinuses): 3D volumetric measurement using implant-planning software (SMOP) yielded mean bony sinus volume 17.1 cm³, sinus obliteration in 42.2% (mean obliterated volume 5.1 cm³) associated with sinus pathology, and significantly larger bony sinus volume in males.
+## Three-line Summary
+Retrospective cross-sectional CBCT study (University of Zurich 2018, 64 patients, 128 maxillary sinuses from a single 2013 tertiary center dataset) using SMOP implant-planning software to perform 3D volumetric segmentation via parallel coronal closed-curve technique (15–25 curves per sinus at 2 mm intervals).
 
-## 한줄요약
-콘빔 컴퓨터 단층촬영 (Cone-Beam Computed Tomography, CBCT) 후향 분석 (64명, 128 상악동): 임플란트 계획 소프트웨어(SMOP)로 3D 부피·표면적을 산출했고, 골성 상악동 평균 부피 17.1 cm³, 폐색 상악동 비율 42.2% (평균 폐색 부피 5.1 cm³), 폐색 부피는 상악동 병변과 연관, 남성에서 골성 상악동 부피가 유의하게 컸다.
+Mean osseous-bordered sinus volume was 17.1 cm³ (surface 39.7 cm²) and residual pneumatized volume 15 cm³; sinus obliteration was present in 42.2% (mean obliterated volume 5.1 cm³), significantly associated with sinus pathology; males had significantly larger osseous sinus volume than females.
+
+No significant association was found between sinus volume and age, dentition state, communicating tooth roots, or season of scan, supporting the use of CBCT + implant-planning software for routine 3D sinus assessment in pre-implant planning.
+
+## 세줄요약
+후향적 단면 CBCT 연구 (취리히대 2018, 64명, 상악동 128개, 단일기관 2013년 데이터): SMOP 임플란트 계획 소프트웨어로 관상 폐쇄 곡선(2 mm 간격, 동당 15–25개) 기법을 사용해 3D 체적 분할.
+
+골성 상악동 평균 부피 17.1 cm³(표면적 39.7 cm²), 잔여 함기화 부피 15 cm³; 42.2%에서 폐색 있음(평균 폐색 부피 5.1 cm³)이며 상악동 병변과 유의한 연관; 남성의 골성 부피가 여성보다 유의하게 컸다.
+
+상악동 부피와 연령, 치아 상태, 인접 치근, 계절 간 유의한 연관 없음; CBCT + 임플란트 계획 소프트웨어가 임플란트 전 계획 시 일상적 3D 상악동 평가에 적합함을 뒷받침.
 
 ## Summary
 This 2018 University of Zurich CBCT study used the SMOP implant-planning software to perform 3D volumetric measurement of the maxillary sinus in 128 sinuses from 64 patients. The authors quantified both the **osseous-bordered volume** (the bony envelope of the sinus) and the **mucosa-bordered (remaining pneumatized) volume**, treating the difference as the **obliteration volume** caused by mucosal thickening or pathology. The work establishes population reference values and demonstrates that CBCT combined with curve-based segmentation is feasible for routine 3D sinus assessment in implant planning.

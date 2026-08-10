@@ -15,13 +15,21 @@ source_collection: external
 
 > NOTE: This source is extracted from the Taylor & Francis abstract/landing page only (full text behind paywall). Methodology specifics (mesh, material properties, exact stress values in MPa) are NOT recoverable — only the structured Abstract, keywords, sample composition, and qualitative conclusions are captured. Quantitative stress magnitudes are absent.
 
-## One-line Summary
+## Three-line Summary
 
-Finite-element analysis of 35 patient-derived models (11 asymptomatic, 10 mandibular prognathism, 5 retrusion, 9 deviation) under unilateral molar occlusion: mandibular deformity raises condyle and articular-disc stress, with facial asymmetry (deviation) producing the highest TMJ stress and therefore the highest TMD risk; chewing on the non-deviated side worsens it.
+Finite-element analysis of 35 patient-derived models (11 asymptomatic, 10 mandibular prognathism, 5 retrusion, 9 deviation) under unilateral molar occlusion: mandibular deformity raises condyle and articular-disc stress, with facial asymmetry (deviation) producing the highest TMJ stress and therefore the highest TMD risk;
 
-## 한줄요약
+chewing on the non-deviated side worsens it.
 
-유한요소해석(FEA) 연구 (환자 기반 모델 35개: 무증상 11, 하악전돌 10, 하악후퇴 5, 하악편위 9). 단일 대구치 교합 시 하악 기형이 과두·관절원판 응력을 높이며, 특히 안면 비대칭(편위)이 TMJ 응력을 가장 크게 증가시켜 TMD 위험이 가장 높다. 편위 환자가 비편위측으로 씹으면 응력이 더 커진다.
+(incomplete)
+
+## 세줄요약
+
+유한요소해석(FEA) 연구 (환자 기반 모델 35개: 무증상 11, 하악전돌 10, 하악후퇴 5, 하악편위 9).
+
+단일 대구치 교합 시 하악 기형이 과두·관절원판 응력을 높이며, 특히 안면 비대칭(편위)이 TMJ 응력을 가장 크게 증가시켜 TMD 위험이 가장 높다.
+
+편위 환자가 비편위측으로 씹으면 응력이 더 커진다.
 
 ## 1. Document Information
 

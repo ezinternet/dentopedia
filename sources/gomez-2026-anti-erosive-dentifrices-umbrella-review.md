@@ -16,13 +16,21 @@ text_filename: gomez-2026-anti-erosive-dentifrices-umbrella-review.txt
 
 Top-of-evidence-pyramid umbrella review (SR of SRs) answering *which* toothpaste chemistries actually protect against erosive tooth wear — stannous-containing formulations (stabilized SnF2 / multi-ion fluoride) come out ahead of conventional NaF/NaMFP, with calcium-based/biomimetic technologies still heterogeneous. This adds a prevention/management layer to [[wiki/dental-erosion/kanzow-2016-etiology-pathogenesis-dental-erosion]], which classifies ETW aetiology but leaves the dentifrice-choice question open. **Abstract-only — full text not retrieved (no PMC open access); all numbers below are from the published abstract.**
 
-## One-line Summary
+## Three-line Summary
 
-Umbrella review (8 SRs; PRISMA 2020, JBI, AMSTAR 2, ConQual): fluoridated > non-fluoridated dentifrices for enamel/dentin protection, with stannous-containing (SnF2 / multi-ion) formulations most consistently superior to NaF/NaMFP under erosive/erosive-abrasive protocols (certainty moderate for stannous, low/very-low for emerging tech), but evidence is dominated by in vitro/in situ short-term models — not proof of reduced clinical ETW.
+Umbrella review (8 SRs;
 
-## 한줄요약
+PRISMA 2020, JBI, AMSTAR 2, ConQual): fluoridated > non-fluoridated dentifrices for enamel/dentin protection, with stannous-containing (SnF2 / multi-ion) formulations most consistently superior to NaF/NaMFP under erosive/erosive-abrasive protocols (certainty moderate for stannous, low/very-low for emerging tech), but evidence is dominated by in vitro/in situ short-term models — not proof of reduced clinical ETW.
 
-엄브렐러 리뷰(SR 8편; PRISMA 2020·JBI·AMSTAR 2·ConQual): 불소 함유 치약이 비함유 대비 법랑질·상아질 보호에 우수하며, 그중 주석 함유(SnF2·다중이온) 제형이 침식·침식마모 조건에서 NaF/NaMFP보다 가장 일관되게 우수(주석=중등도 확실성, 신기술=낮음/매우 낮음). 단, 근거가 in vitro/in situ 단기 모델에 치우쳐 임상 ETW 진행 감소의 증거는 아님.
+(incomplete)
+
+## 세줄요약
+
+엄브렐러 리뷰 (체계적고찰 8편, PRISMA 2020·JBI·AMSTAR 2·ConQual 평가) — 치아침식 (Erosive Tooth Wear, ETW) 방지에 효과적인 치약 성분을 계층화 평가.
+
+불소 함유 치약이 비함유 대비 법랑질·상아질 보호에 우수하며, 그중 주석 함유 (Stannous Fluoride, SnF2) 제형이 침식·침식마모 조건에서 염화나트륨불화(Sodium Fluoride, NaF)보다 가장 일관되게 우수 (주석 확실성=중등도, 신기술=낮음/매우 낮음).
+
+단, 근거가 in vitro/in situ 단기 모델에 치우쳐 임상 ETW 진행 감소의 증거는 아님.
 
 ## 1. Document Information
 

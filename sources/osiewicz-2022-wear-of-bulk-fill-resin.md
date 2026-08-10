@@ -13,13 +13,21 @@ source_collection: external
 
 기존 벌크필 임상 근거 페이지([[resin/silva-2023-bulk-fill-vs-conventional-resins-umbrella]], [[resin/boaro-2019-bulk-fill-composites-clinical-properties-sr-ma]])는 주로 변연적합·생존율 중심이고, 벌크필의 **마모저항·경도** 기전 데이터는 부족했다. 본 in-vitro 연구(Osiewicz 2022)는 벌크필이 응력부담 부위에서 단독으로는 부적합하나 일반 컴포지트 커버층 아래에서는 충분히 단단하다는 기전적 근거를 제공해 임상 페이지를 보강한다.
 
-## One-line Summary
+## Three-line Summary
 
 In-vitro two/three-body ACTA wear study of 4 bulk-fill composites vs 1 nanohybrid (Grandio): uncovered bulk-fills wore 59-118 µm/200k cycles vs 31 µm for the nanohybrid and had much lower Vickers hardness, but a 0.5-1.0 mm conventional cover layer wore the same as the nanohybrid alone (bulk-fill substrate stiff enough to act as a monoblock).
 
-## 한줄요약
+(incomplete)
 
-In-vitro ACTA 마모시험 — 벌크필 레진 4종 vs 나노하이브리드(Grandio) 비교: 커버 없는 벌크필은 59-118 µm/200k cycle로 나노하이브리드(31 µm)보다 마모가 크고 비커스 경도도 낮았으나, 0.5-1.0 mm 일반 컴포지트로 덮으면 나노하이브리드 단독과 동일한 마모를 보여 벌크필이 단단한 받침(monoblock) 역할을 함. 단독 응력 부담 부위에는 부적합.
+(incomplete)
+
+## 세줄요약
+
+In-vitro ACTA 마모시험 — 벌크필 레진 4종 vs 나노하이브리드(Grandio) 비교: 커버 없는 벌크필은 59-118 µm/200k cycle로 나노하이브리드(31 µm)보다 마모가 크고 비커스 경도도 낮았으나, 0.5-1.0 mm 일반 컴포지트로 덮으면 나노하이브리드 단독과 동일한 마모를 보여 벌크필이 단단한 받침(monoblock) 역할을 함.
+
+단독 응력 부담 부위에는 부적합.
+
+(incomplete)
 
 ## 1. Document Information
 

@@ -6,7 +6,7 @@ date: 2024-06-20
 doi: 10.1007/s40265-024-02048-x
 journal: Drugs 2024;84(7):779-809
 source: de-la-torre-canales-2024-botulinum-toxin-a-myogenous.md
-confidence: sr+ma
+evidence_level: sr+ma
 category: botulinum-toxin
 pdf_path: /Users/oracleneo/llm-wiki/papers/de-la-torre-canales-2024-botulinum-toxin-a-myogenous.pdf
 pdf_filename: de-la-torre-canales-2024-botulinum-toxin-a-myogenous.pdf
@@ -17,11 +17,21 @@ relations:
     target: zhu-2020-btx-painful-tmd-sr-ma
 ---
 
-## One-line Summary
-Umbrella review of 18 high-quality systematic reviews of BoNT-A for myogenous TMD (M-TMD): BoNT-A reduces pain more than placebo but is not superior to standard treatments and gives no MMO benefit, while carrying meaningful adverse events (muscle atrophy/fatty infiltration, reduced bite force, mandibular/condylar bone-volume loss) — recommending BoNT-A as last-line therapy.
+## Three-line Summary
 
-## 한줄요약
-18개 고품질 SR을 모은 umbrella review — BoNT-A는 위약보다는 우월하나 표준치료엔 비우월, 근육·골조직 부작용 위험으로 "마지막 옵션" 권고.
+Umbrella review (Aromataris methodology, 8 databases through December 2023, 18 high-quality SRs retained, PROSPERO CRD42023468160) of BoNT-A for myogenous temporomandibular disorders (M-TMD) in adults — the highest-level synthesis available for this indication.
+
+BoNT-A reduces pain more than placebo but is not superior to standard treatments (splints, physiotherapy, pharmacotherapy) for pain or MMO; adverse events include muscle atrophy/fatty infiltration, bite-force reduction, and mandibular/condylar/alveolar bone-volume loss.
+
+BoNT-A is explicitly recommended as last-line therapy for M-TMD after conservative standard-care failure, and informed consent must include musculoskeletal adverse effects beyond transient injection-site events.
+
+## 세줄요약
+
+줄1: Umbrella review (Aromataris 방법론, 8개 DB 2023년 12월까지, 고품질 SR 18개, PROSPERO 등록) — 성인 근육성 악관절장애(M-TMD)에 대한 BoNT-A의 최고 수준 근거 종합.
+
+줄2: BoNT-A는 위약보다 통증 감소 우수하나 표준치료(교합안정장치·물리치료·약물) 대비 통증·MMO 개선에서 비우월; 부작용으로 근육 위축·지방 침윤·교합력 감소·하악골·과두·치조골 소실 확인.
+
+줄3: M-TMD에서 BoNT-A는 보존적 표준치료 실패 후 마지막 옵션으로 권고; 동의 획득 시 일시적 주사 부위 반응 이상의 근골격계 부작용 반드시 포함.
 
 ## Summary
 This Karolinska-led umbrella review aggregates 18 high-quality systematic reviews of BoNT-A for myogenous temporomandibular disorders (M-TMD), the highest-evidence synthesis to date. BoNT-A reduces pain more than placebo but does not outperform standard treatments (splints, physiotherapy, pharmacotherapy), and provides no MMO benefit over either. The authors highlight a substantive adverse-event profile — muscle atrophy, fatty infiltration, bite-force reduction, and mandibular/condylar bone-volume loss — and explicitly recommend BoNT-A as a last-line therapy for M-TMD.

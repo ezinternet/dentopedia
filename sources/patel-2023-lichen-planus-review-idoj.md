@@ -9,8 +9,21 @@ pdf_filename: patel-2023-lichen-planus-review-idoj.pdf
 source_collection: external
 ---
 
-## One-line Summary
-편평태선(LP) 전신 임상양상(피부, 손발톱, 점막, 모발) 및 면역병리기전 고찰; 구강 LP 포함.
+## Three-line Summary
+
+편평태선(LP) 전신 임상양상(피부, 손발톱,
+
+점막, 모발) 및 면역병리기전
+
+고찰; 구강 LP 포함.
+
+## 세줄요약
+
+편평태선(LP) 전신 임상양상(피부, 손발톱,
+
+점막, 모발) 및 면역병리기전
+
+고찰; 구강 LP 포함.
 
 ## 1. Document Information
 - **Title**: Lichen planus: A chronic immune-mediated inflammatory disorder — review
@@ -36,7 +49,7 @@ LP는 만성 재발성; 구강 LP 완치 불가. 스테로이드 국소 도포�
 치료 RCT 부족.
 
 ## 6. Related Work
-- [[oral-medicine/srivastava-2022-oral-lichen-planus-diagnosis-management-review]] — related
+- [[oral-medicine/lichen-planus/srivastava-2022-oral-lichen-planus-diagnosis-management-review]] — related
 
 ## 7. Glossary
 Wickham striae: 위컴선조; Koebner phenomenon: 쾨브너 현상; interface dermatitis: 경계부 피부염

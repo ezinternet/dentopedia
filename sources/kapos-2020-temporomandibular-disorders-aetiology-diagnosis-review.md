@@ -12,11 +12,21 @@ source_collection: external
 ## Why Ingested
 TMD의 역학·원인·진단·치료를 DC/TMD 기준과 OPPERA 연구 데이터 기반으로 종합한 현대적 narrative review. [[tmj/haggman-henrikson-2017-pharmacological-orofacial-pain-sr-ma]]의 약물치료 근거와 [[tmj/gonzalez-sanchez-2023-tmj-physiotherapy-treatment-sr]]의 물리치료 근거를 통합하는 개념적 틀 제공.
 
-## One-line Summary
-Narrative review (Oral Surgery 2020): TMD is biopsychosocial/multifactorial; DC/TMD covers 12 diagnoses; OPPERA data — 4% annual incidence, 36% adult prevalence; conservative multidisciplinary treatment first-line.
+## Three-line Summary
 
-## 한줄요약
-서술 고찰 (2020): TMD는 생물심리사회적·다인성; DC/TMD 12개 진단 분류; 성인 36% 유병률; 보존적 다학제 치료 우선.
+Narrative review (Oral Surgery 2020): TMD is biopsychosocial/multifactorial;
+
+DC/TMD covers 12 diagnoses;
+
+OPPERA data — 4% annual incidence, 36% adult prevalence; conservative multidisciplinary treatment first-line.
+
+## 세줄요약
+
+서술 고찰 (2020): TMD는 생물심리사회적·다인성;
+
+DC/TMD 12개 진단 분류;
+
+성인 36% 유병률; 보존적 다학제 치료 우선.
 
 ## 1. Document Information
 - **Journal**: Oral Surgery 13(4):321–334 (2020); NIHMS preprint available

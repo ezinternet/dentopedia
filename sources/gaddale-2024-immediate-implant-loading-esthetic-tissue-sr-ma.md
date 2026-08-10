@@ -9,8 +9,21 @@ pdf_filename: gaddale-2024-immediate-implant-loading-esthetic-tissue-sr-ma.pdf
 source_collection: external
 ---
 
-## One-line Summary
-심미부 즉시식립+즉시부하 후 연·경조직 변화 SR+MA.
+## Three-line Summary
+
+심미부 즉시식립+즉시부하
+
+후 연·경조직
+
+변화 SR+MA.
+
+## 세줄요약
+
+심미구역(전치·소구치) 즉시식립 + 즉시부하 술식 후 연조직·경조직 변화 SR+MA (2024)
+
+MBL (1년): -0.30mm (95% CI -0.42 ~ -0.18); 협측 뼈 두께 감소 보고; 생존율 95.1–98.9%
+
+신중한 환자 선정 및 프로비전 설계로 심미 성능 및 뼈 안정성 모두 달성 가능
 
 ## 1. Document Information
 - **Title**: Soft and hard tissue changes following immediate implant placement and immediate loading in aesthetic zone: a systematic review and meta-analysis
@@ -36,7 +49,7 @@ PRISMA 기반 SR+MA; RCT 위주 포함.
 추적 기간 다양; 술식 표준화 부족.
 
 ## 6. Related Work
-- [[immediate-implant/wittneben-2023-immediate-implant-loaded-single-crown-sr]] — related
+- [[immediate-implant/loading-protocol/wittneben-2023-immediate-implant-loaded-single-crown-sr]] — related
 - [[immediate-implant/esthetic-soft-tissue/pitman-2022-immediate-implant-provisionalization-sr-ma]] — related
 
 ## 7. Glossary

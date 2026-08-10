@@ -13,13 +13,21 @@ source_collection: external
 
 This is the foundational study that defined the subgingival microbial "complexes" (red, orange, yellow, green, purple) by which periodontal microbiology has been organized for 25+ years; ingested as the historical anchor against which later community-ecology models are read. It is the "red complex / specific-pathogen" paradigm that [[oral-microbiology/hajishengallis-2012-psd-model-periodontal-disease]] explicitly moves "beyond" toward polymicrobial synergy and dysbiosis, and it grounds the network/keystone organization synthesized in [[oral-microbiology/sedghi-2021-oral-microbiome-key-organisms-networks]].
 
-## One-line Summary
+## Three-line Summary
 
-Landmark cross-sectional study (185 subjects, 13,261 plaque samples, 40 taxa by checkerboard DNA-DNA hybridization) that defined five recurrent subgingival microbial complexes, with the "red complex" (P. gingivalis, T. forsythia, T. denticola) most tightly linked to pocket depth and bleeding on probing.
+Landmark cross-sectional study (185 subjects, 13,261 plaque samples, 40 taxa by checkerboard DNA-DNA hybridization) that defined five recurrent subgingival microbial complexes, with the "red complex" (P.
 
-## 한줄요약
+gingivalis, T.
 
-185명·13,261개 치태 시료·40종을 checkerboard DNA-DNA hybridization으로 분석해 다섯 개의 치은연하 미생물 복합체를 정의한 기념비적 연구로, "red complex"(P. gingivalis, T. forsythia, T. denticola)가 치주낭 깊이·탐침시 출혈과 가장 강하게 연관됨을 밝힘.
+forsythia, T. denticola) most tightly linked to pocket depth and bleeding on probing.
+
+## 세줄요약
+
+185명·13,261개 치태 시료·40종을 checkerboard DNA-DNA hybridization으로 분석해 다섯 개의 치은연하 미생물 복합체를 정의한 기념비적 연구로, "red complex"(P.
+
+gingivalis, T.
+
+forsythia, T. denticola)가 치주낭 깊이·탐침시 출혈과 가장 강하게 연관됨을 밝힘.
 
 ## 1. Document Information
 

@@ -6,20 +6,28 @@ date: 2022-08-18
 doi: "10.1016/j.jobcr.2022.08.004"
 source: verma-2022-socket-shielding-esthetic-region-review.md
 category: [immediate-implant/socket-shield]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/verma-2022-socket-shielding-esthetic-region-review.pdf
 pdf_filename: verma-2022-socket-shielding-esthetic-region-review.pdf
 source_collection: external
 tags: [socket-shield, root-membrane, esthetic-zone, buccal-bone, immediate-implant]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review concluding that socket shielding (intentional retention of the buccal root fragment) effectively minimizes buccal bone resorption and contour change as a minimally invasive, graft-optional approach in the esthetic zone, but that supporting evidence remains limited and larger studies are needed.
+Narrative review (PubMed/Google Scholar/Cochrane) evaluating socket shielding — intentional retention of the buccal root fragment — as a minimally invasive esthetic-zone preservation option at immediate implant placement.
 
-## 한줄요약
+Buccal-dominant post-extraction ridge resorption physiology motivates root-fragment retention; socket shielding minimizes buccal bone and contour loss, and grafting is optional.
 
-서술적 리뷰 — 소켓 쉴드(협측 치근편 의도적 보존)는 심미부에서 협측골 흡수·윤곽 변화를 효과적으로 줄이는 최소침습·골이식 선택적 기법이나, 근거가 제한적이어 대규모 연구가 필요하다는 결론.
+Supporting evidence remains limited and large-population studies are needed before routine adoption.
+
+## 세줄요약
+
+서술 고찰 (PubMed/Google Scholar/Cochrane): 협측 치근편 의도적 보존(소켓 실드)의 심미부 임플란트 적용 가능성 평가.
+
+협측 우세 치조제 흡수를 치근편 잔존으로 억제 — 협측골·윤곽 소실 최소화, 골이식 선택적 가능한 최소침습 술식.
+
+근거 제한적, 대규모 연구 필요 — 일상적 적용 전 추가 임상 검증 요구.
 
 ## Summary
 

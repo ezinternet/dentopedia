@@ -1,0 +1,84 @@
+Title: Oral Tori Findings in an Adult Albanian Population: A Single-Center Pilot Study
+Authors: Valbona Disha, Bora Zaimi, Elizana Petrela
+Journal: Dentistry Journal (Dent J Basel), 2024;12(8):242
+DOI: 10.3390/dj12080242
+PMID: 39195086
+PMCID: PMC11354121
+Source: PubMed Central full text (get_full_text_article)
+
+Abstract
+
+Tori are bony growths in the mouth caused by genetic and environmental factors. Oral tori may grow over time and interfere with oral hygiene, speech, mastication, and the application of dentures. The aim of this study was to evaluate the prevalence and patterns of torus mandibularis and torus palatinus according to age and gender among people in Albania. A single-center pilot study was conducted at Diamond Dental Hospital (DDH) from 1 February to 30 April 2024 in Tirana, Albania. Written consent was obtained from each participant. The patients were interviewed by one trained researcher and examined intraorally by one experienced examiner. Photographs were taken of any positive findings. The prevalence of oral tori in this sample from Albania was very high at 48%, and the peak incidence was in the 18-29 age group (54%). The most common type was torus mandibularis, with a prevalence of 39%. The most prevalent form of torus palatinus was flat (71%) and of torus mandibularis was solitary bilateral (48%). This single-center pilot study found a high prevalence of oral tori among people in Tirana, Albania. Its prevalence was not related to gender or bruxism. Dental professionals should note the high occurrence of oral tori and their importance in dental practice.
+
+1. Introduction
+
+Oral tori are non-pathological, self-limiting anatomical bony protuberances that typically appear on the alveolar surfaces of the human jaw, and are commonly found on long bones where tendons and muscles are located.
+
+Although they have been the subject of many studies, the cause and process of their onset remain unknown. Multiple contributing factors are believed to underlie their onset — genetic and environmental. One theory, the Osteogenic-Periosteal Stretch Hypothesis (Garcia), argues the process limits the chin from experiencing excessive deformation; torus formation is localized to the premolar region. Genetic theories propose hereditary factors play a predominant role; environmental factors are also implicated, as tori generally appear during the third decade of life. Possible explanations include occlusal stress applied by the teeth to the alveolar bone, and high-altitude hypoxia (higher torus mandibularis percentage reported at higher altitudes in one study). A substantial correlation has been found between torus palatinus and other genetically based bony dysostoses characterized by increased bone mass. Investigations of hyperparathyroidism's impact on tori development have been carried out, though no association was found between tori and secondary hyperparathyroidism in peritoneal dialysis patients.
+
+Tori usually appear in the second or third decade of life. They are generally asymptomatic and do not usually need removal. They may reduce in dimension due to tooth loss and bone resorption around age 50. Larger tori can interfere with denture production, phonetics, tongue movements, deglutition, and mastication. They can increase risk of temporomandibular disorders, cause poor esthetics, and contribute to obstructive sleep apnea. They can inhibit oral hygiene and lead to periodontal disease, cause difficulty during intraoral film placement, and complicate laryngoscopy/endotracheal intubation during general anesthesia. Being covered by thin, poorly vascularized mucosa, they are prone to ulceration, especially with ill-fitting dentures or in patients receiving bisphosphonates. Surgical removal is indicated when they cause these problems.
+
+Oral tori may develop on the upper and/or lower jaw: torus mandibularis (TM, lingual mandible, above the mylohyoid ridge, extending to canine/premolar region — unilateral/bilateral, solitary/multiple, or combined), torus palatinus (TP, midline palate, classified by shape as flat/spindle/nodular/lobular and by size as small <3mm, medium 3-6mm, large >6mm), or alveolar bone exostoses (ABEs, buccal/labial side of both jaws, typically distal premolar-molar regions, less common than tori).
+
+Diagnosis is by clinical and radiological examination; biopsy is usually not required, but differential diagnosis should consider unilateral or fast-growing lesions — osteoma, peripheral ossifying fibroma, osteochondroma, osteosarcoma, osteoblastoma — especially with paresthesia or pain. Oral tori may be used as autogenous bone graft sources during implant placement, can indicate mandibular advancement device success in OSA patients, and are used in forensic anthropology for identification.
+
+Prevalence varies widely across countries and races: Asians have higher prevalence, Blacks (16%) and Whites (8%) lower. No published prevalence studies existed for Albania prior to this study — a gap in dental health planning data. Aim: determine prevalence, pattern, and distribution by gender/age of oral tori in Albanian patients at Diamond Dental Hospital, Tirana.
+
+2. Materials and Methods
+
+Single-center pilot study, Diamond Dental Hospital (DDH), Tirana, Albania, 1 February-30 April 2024. Ethical approval: Council of Ethics UMT No. 375/1. Written informed consent obtained.
+
+Subjects: adults ≥18 years, categorized by gender and 6 age groups (18-29, 30-39, 40-49, 50-59, 60-69, 70-79). One trained researcher examined all participants intraorally to prevent inter-observer bias.
+
+Inclusion: all DDH dental patients ≥18 years, any gender, Albanian ethnicity, dentulous or edentulous, no history of orthodontic treatment, consenting.
+Exclusion: non-consenting; questionable tori (tumors/cysts); prior maxillary/mandibular surgery for tumors/fractures with incomplete healing; soft tissue growth/hyperplasia in both jaws; non-Albanian ethnicity.
+
+Clinical exam performed in a dental chair under artificial light using sterilized mouth mirrors. Presence of oral tori determined visually and by palpation. Occlusion class (Angle's classification) recorded. Patients interviewed for demographic data (age, gender), self-reported vitamin D level, Ca level, and bruxism (clenching day/night) via questionnaire.
+
+Torus palatinus/mandibularis/ABE examined by palpation with index finger at palate midline, sublingual mandible, and buccal/lingual distal regions of both jaws. Recorded as present/absent. Palatal bony prominence shape recorded as flat, spindle, nodular, or lobular. Torus mandibularis recorded as unilateral solitary, bilateral solitary, unilateral multiple, bilateral multiple, or bilateral combined.
+
+Statistics: SPSS 26.0; frequencies/percentages for categorical variables, central tendency/dispersion for numerical variables; Chi-square test for group comparisons; p<0.05 significant.
+
+3. Results
+
+122 patients total: 37% male, 63% female. Age range 18-79 years, mean 32.3 ± 12.7 years. Overall prevalence of any oral tori: 48.4%. Torus mandibularis highest at 39%, followed by alveolar bone exostosis 16%, torus palatinus 14%.
+
+Of 59 patients with oral tori: 41% male, 59% female. By location: torus mandibularis only 59.3%, torus palatinus only 11.9%, alveolar bone exostosis 6.8%; combinations occurred in some patients, but none had torus palatinus + ABE combined.
+
+Age distribution: 54.2% of tori cases in the 18-29 age group (TM present in 56.3% of this group: 72.4% female, 31.6% male; TP in 42.9%: 36.4% female, 66.7% male; ABE in 62.5%: 60% female, 66.7% male). Second highest, 30.5%, in 30-39 age group (TP 43%, TM 27%, ABE 25%). 40-49 age group: TM 12.5% (10.3% female, 15.8% male), TP 14.3% (33.3% female, 14.3% male), ABE 12.5% (20% female, 0% male). Lower prevalence in 50-59 and 70-79 groups (1.7% each); no tori cases in 60-69 group. No statistically significant age-group difference (p not significant).
+
+No significant gender difference in distribution of tori patterns. Of 14 patients with torus palatinus (11.5% overall): 11 female (14.3%), 3 male (6.7%); most common shape flat (71.4%), spindle-shaped and lobular each 18.2%; no nodular form seen; no significant gender difference in TP pattern (p=0.466).
+
+Of 48 patients with torus mandibularis (39.3% overall): 29 female (37.7%), 19 male (42.2%); most common pattern bilateral solitary (47.9%), rarest multiple unilateral (2.1%); no significant gender difference (p=0.359).
+
+Alveolar bone exostosis present in equal percentage of both genders (p=0.968, not significant).
+
+Bruxism and malocclusion present in both groups (with tori: 53% bruxism, 43% malocclusion; without tori: 20% bruxism, 10% malocclusion); bruxism more common in females. Association between bruxism/malocclusion and tori presence non-significant (p=0.745 and p=0.813 respectively).
+
+4. Discussion
+
+Prevalence of oral tori in this Albanian sample (48.3%) was substantially higher than prior reports: Agbor et al. 2.1%, Sathya K et al. 12.5%, Al Quran FA et al. 13.9%, Santosh et al. 27.76%, Sing et al. 33%, Mohd et al. 38%.
+
+Global prevalence ranges from 1-64% for TM and 0.4-61.7% for TP depending on population. In this study, TM 39.3% and TP 11.5%, broadly comparable to other reports (Faiza M.: TM 10.9%, TP 16.3%; Kumar Singh A. et al.: TM 8.9%, TP 27.9%; Ahmed H.: TM 5.7%, TP 23.7%; Telang et al.: TM 3.3%, TP 13.2%; Ramsha et al.: TM 3.3%, TP 0.6%).
+
+A single individual can rarely have multiple oral tori types; one study reported that having a palatine exostosis doubles the likelihood of mandibular exostosis, suggesting a shared underlying tendency across exostosis forms. In the present study, 10.2% of patients had all types; 10.2% had TM+ABE; 1.7% had TM+TP.
+
+No significant relationship between oral tori occurrence and gender was found here, contrasting with some studies reporting higher TP prevalence and larger tori dimensions in females, though other studies also report no gender difference.
+
+Age pattern: peak prevalence in the youngest (18-29) age group here, similar to Hiremath et al., while some other studies (Chang et al., Agbor et al.) found peaks in older age groups (e.g., 60-69). Possible mechanism for age-related decline: reduced occlusal force from soft diet and tooth loss.
+
+Morphology: flat TP shape most common here (71.4%), consistent with Al-Bayaty et al. (48% flat) but contrasting with Simunkovic SK et al. and Jainkittivong et al. (spindle-shaped most common, 45.6% and 56%). TM bilateral solitary most common here (47.9%), similar direction to Simunković SK et al. (35.4% bilateral) and Guru et al. (78.3% bilateral).
+
+Association between clenching/grinding and TM has been reported by Guru et al. and others; a prior Albanian bruxism prevalence study found 41% bruxism in 310 subjects. In the present study, bruxism was common (44.4% males, 49.4% females) and malocclusion present (15.6% males, 14.3% females) but showed no significant association with tori presence — possibly due to small sample size; larger surveys are needed.
+
+Predisposing factors discussed: calcium supplementation and low vitamin D may cause alveolar exostosis; vitamin D deficiency can cause lower bone mineral density and jawbone resorption. A prior Albanian study found high vitamin D deficiency in parathyroid-problem and control groups with hypercalcemia. This study's questionnaire could not collect complete vitamin D/Ca data, limiting analysis of that association.
+
+A correlation between higher TM prevalence and higher altitude has been proposed; Tirana is not high-altitude but has high air pollution, which the authors speculate could plausibly relate to oral tori via reduced oxygen levels — a hypothesis for future research.
+
+Prosthodontic implications: tori position, size, and form determine problems for denture fabrication; large bilateral forms and the nodular TP type carry higher risk of prosthodontic difficulty. Medium/large tori should be surgically removed before denture construction or design changes; small tori require observation only, without clinical significance otherwise.
+
+Strength: single trained/experienced examiner reduced inter-examiner bias. Limitations: small sample size (n=122); incomplete vitamin D/calcium data from patient self-report.
+
+5. Conclusions
+
+This single-center pilot study found a high prevalence of oral tori (48%) among people in Tirana, Albania, with torus mandibularis the most common type (39%). Prevalence was not related to gender or bruxism. Dental professionals should note the high occurrence of oral tori in this population and its importance in dental practice (denture design, differential diagnosis, and periodontal/oral-hygiene counseling).

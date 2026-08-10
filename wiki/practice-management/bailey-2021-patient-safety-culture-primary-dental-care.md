@@ -6,7 +6,7 @@ date: 2021-03-01
 doi: 10.1177/2050168420980990
 source: bailey-2021-patient-safety-culture-primary-dental-care.md
 category: [practice-management]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: false
 pmid: "33722142"
@@ -19,13 +19,21 @@ relations:
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review/perspective (Prim Dent J 2021) arguing that patient safety must move from secondary-care/academic research into primary dental care — where ~95% of care is delivered — using human factors, second-victim awareness, restraint on over-regulation, and a non-punitive culture as the tools to build a patient safety culture in practice.
+Narrative review/perspective (Prim Dent J 2021) noting that ~95% of dental care is delivered in primary care but most patient-safety research originates from secondary-care and academic settings, creating a gap between where evidence is generated and where it must be applied.
 
-## 한줄요약
+The paper synthesizes the existing safety evidence base — human factors (error as systemic rather than individual), second-victim recognition (clinicians involved in incidents are themselves harmed and need support), and the risk of over-regulation suppressing open reporting — into actionable culture-building tools for the primary-care dental practice.
 
-치과 진료의 약 95%가 일차의료(개원가)에서 이뤄지지만 환자안전 근거는 대부분 2차 진료·학계에서 나온다는 점을 지적하고, 인적요인(Human Factors)·제2의 피해자(Second Victim) 개념·과잉규제 경계·비처벌적 안전문화 조성을 도구로 개원 치과에 환자안전 문화를 정착시키는 법을 논한 서술적 관점 논문 (Narrative Review, Prim Dent J 2021).
+A patient safety culture in dentistry requires shared values, psychological safety, open incident reporting, and learning over blame; the abstract-only evidence base of this article is an orienting framework, not a source of effect estimates.
+
+## 세줄요약
+
+서술적 관점 논문 (Prim Dent J 2021): 치과 환자안전 연구의 대부분이 2차 의료·학계에서 나오지만 실제 진료의 ~95%는 일차 의료(개원가)에서 이루어진다는 맥락 격차(evidence gap)를 지적.
+
+인적요인(Human Factors, 오류는 시스템·팀·환경의 상호작용 결과), 제2의 피해자(Second Victim, 사고 연루 임상의도 지원이 필요), 과잉규제가 개방적 보고·학습 문화를 억제할 위험을 핵심 도구로 제시.
+
+개원 치과의 환자안전 문화는 공유 가치관·심리적 안전감·개방적 사고(incident) 보고·비처벌적 학습 체계로 구축되며, 이 논문은 방향 정립 프레임으로 효과 추정치는 없음.
 
 ## Summary
 

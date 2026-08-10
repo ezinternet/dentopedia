@@ -11,15 +11,23 @@ source_collection: external
 
 ## Why Ingested
 
-근관치료의 단회 vs 다회 내원 프로토콜 비교는 임상 의사결정의 핵심 질문이며, 기존 위키에 이 주제의 SR+MA 페이지가 없어 근거 공백이 있었음. [[endodontics/visit-protocol/mergoni-2022-single-versus-multiple-visits-cochrane-sr]]는 47 RCT(5805명)를 종합한 Cochrane pub4 업데이트로, [[wiki/endodontics/ordinola-zapata-2022-intracanal-medicaments-status-directions]]에서 논의되는 interappointment medication의 임상적 가치를 성과 관점에서 직접 보완한다.
+근관치료의 단회 vs 다회 내원 프로토콜 비교는 임상 의사결정의 핵심 질문이며, 기존 위키에 이 주제의 SR+MA 페이지가 없어 근거 공백이 있었음. [[endodontics/visit-protocol/mergoni-2022-single-versus-multiple-visits-cochrane-sr]]는 47 RCT(5805명)를 종합한 Cochrane pub4 업데이트로, [[wiki/endodontics/irrigation/ordinola-zapata-2022-intracanal-medicaments-status-directions]]에서 논의되는 interappointment medication의 임상적 가치를 성과 관점에서 직접 보완한다.
 
-## One-line Summary
+## Three-line Summary
 
-Cochrane SR+MA pub4 (47 RCTs, n=5805 teeth): single-visit and multiple-visit root canal treatment show equivalent radiological outcomes; single-visit has modestly higher pain within 1 week (RR 1.55, moderate certainty).
+Cochrane SR+MA pub4 (47 RCTs, n=5805 teeth): single-visit and multiple-visit root canal treatment show equivalent radiological outcomes;
 
-## 한줄요약
+single-visit has modestly higher pain within 1 week (RR 1.55, moderate certainty).
+
+(incomplete)
+
+## 세줄요약
 
 Cochrane SR+MA pub4 (47건 RCT, 5805명): 단회·다회 근관치료의 방사선학적 성공률은 동등하며, 단회군에서 1주 내 통증 보고 비율이 약간 높음 (RR 1.55, 중등도 근거).
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

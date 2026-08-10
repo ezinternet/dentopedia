@@ -1,0 +1,60 @@
+The influence of broach design on bone friction and osseodensification in total hip arthroplasty.
+
+Bätz J, Syrigos S, Vorbeck M, Prüch E, Campbell G, Morlock M.
+Institute of Biomechanics, TUHH Hamburg University of Technology, Denickestraße 15, 21073 Hamburg, Germany.
+Corresponding author: johanna.baetz@tuhh.de
+
+Clinical Biomechanics (Bristol, Avon). 2019;73:234-240.
+DOI: 10.1016/j.clinbiomech.2019.12.012
+PMID: 32062473
+PII: S0268-0033(19)30643-6
+Publication date: 2019-12-18
+Article types: Journal Article; Research Support, Non-U.S. Gov't
+Language: eng
+
+SOURCE NOTE: Retrieved via PubMed MCP (get_article_metadata, PMID 32062473) on 2026-07-17.
+No PubMed Central (PMC) record exists for this article (convert_article_ids returned pmid
+only, no pmcid), and no PDF was obtained. This file contains the PubMed-indexed structured
+abstract ONLY — not the full text. Wiki/source pages built from this file are marked
+full_text: false.
+
+KEYWORDS: Broaching; Compaction; Osseodensification; Periprosthetic fracture risk; μCT analysis
+
+MeSH TERMS: Aged; Animals; Arthroplasty, Replacement, Hip; Cattle; Femur; Friction;
+Hip Prosthesis; Humans; Mechanical Phenomena; Prosthesis Design; X-Ray Microtomography
+
+
+ABSTRACT
+
+BACKGROUND
+
+The process of cavity preparation by broaching has an impact on the primary stability of
+uncemented hip stems and on the periprosthetic fracture risk. Osseodensifying broaches may
+increase primary stability, but have the potential to raise cortex strains and facilitate
+fracture. The aim of this study was to determine the influence of broach design on the forces
+acting during broaching, on the microstructure of the broached bone bed and the amount and
+depth of osseodensification.
+
+METHODS
+
+Broach models representing compaction, blunt extraction and sharp extraction broaches, were
+used for quasi-static simulation of femoral cavity preparation on bovine trabecular bone
+cuboids. Broaching forces were measured and micro-computed tomography scans performed prior
+and after testing. Friction coefficients during broaching, bone densification parameters and
+size of the debris particles pushed into the bone were determined.
+
+FINDINGS
+
+Friction coefficients during sharp extraction exceeded those during compaction and blunt
+extraction broaching (by 38% and 37%, P < .001). Total bone densification was enhanced for
+compaction and blunt extraction compared to sharp extraction broaching (increase of 121% and
+117%, P = .005), resulting from higher densification depths for compaction (P = .001) and
+higher maximum densification for blunt extraction broaching (P = .008), with the latter
+producing fewer large particles than compaction broaching (P = .005).
+
+INTERPRETATION
+
+Higher friction coefficients indicate a decreased periprosthetic fracture risk with sharp
+extraction broaches for equal implantation forces. The blunt extraction and compaction designs
+investigated densified the bone to a similar extent. Blunt extraction broaching may support
+better osseointegration due to smaller bone debris particles.

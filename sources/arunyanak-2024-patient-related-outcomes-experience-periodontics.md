@@ -13,13 +13,21 @@ source_collection: external
 
 [[wiki/behavioral-dentistry/patient-reported-outcomes/dogramaci-2023-patient-related-outcomes-ohrqol-endodontics]]가 endo의 PRO/PREM 틀을 세웠다면, 본 review(Periodontology 2000, 2024)는 같은 틀을 치주·임플란트·peri-implantitis 환자로 확장 — 임플란트 후보의 행동·심리사회 평가, 기대·인식이 만족·장기성공에 미치는 영향. 우리 클리닉 임플란트 상담과 [[wiki/behavioral-dentistry/communication-relationship/dawood-2025-patient-expectations-implant-aesthetic-dentistry]](기대관리)를 PRO 측정 측면에서 보강.
 
-## One-line Summary
+## Three-line Summary
 
-Review (Periodontology 2000) of behavioral/psychosocial and PRO/PRE assessment in periodontitis, implant-therapy candidate, and peri-implantitis patients — treatment improves quality of life, but diverse patient expectations/perceptions can undermine satisfaction and long-term implant success; a thorough pre-therapy behavioral assessment plus remedial correction of misperceptions is essential.
+Review (Periodontology 2000, 2024) of behavioral/psychosocial and PRO/PRE assessment in three patient groups: periodontitis patients, implant-therapy candidates, and peri-implantitis patients, authored by a multinational team (Chulalongkorn, Tufts, Harvard, Karolinska).
 
-## 한줄요약
+Periodontitis treatment and implant rehabilitation both significantly improve quality of life; however, heterogeneous patient expectations and perceptions can undermine satisfaction and long-term implant success; a peri-implantitis diagnosis carries substantial psychological burden affecting trust and adherence.
 
-치주·임플란트·peri-implantitis 환자의 행동·심리사회 및 PRO/PRE 평가 review(Periodontology 2000) — 치료는 삶의 질을 개선하나, 환자마다 다른 기대·인식이 만족과 장기 임플란트 성공을 저해할 수 있음. 치료 전 행동평가와 오인식 교정(remedial action)이 필수. peri-implantitis 진단은 불신·분노·distress의 원천.
+Pre-therapy behavioral assessment of expectations, perceptions, and behavioral-disorder risk is essential, with remedial correction before proceeding; PRO/PRE instruments for implant/peri-implant care are not yet standardized.
+
+## 세줄요약
+
+서술적 고찰(Periodontology 2000, 2024) — 치주염 환자·임플란트 후보·peri-implantitis 환자 3군에서 행동·심리사회 및 PRO/PRE 평가를 다국적 팀이 검토.
+
+치주 치료·임플란트 보철 모두 삶의 질 유의하게 개선; 이질적 기대·인식은 만족과 장기 임플란트 성공을 저해; peri-implantitis 진단은 불신·분노·distress의 원천.
+
+치료 전 행동 평가(기대·인식·행동장애 위험) 및 오인식 교정이 필수; 임플란트·주위염 PRO/PRE 도구는 아직 표준화 미비.
 
 ## 1. Document Information
 - Journal: Periodontology 2000 2024;95:40–50

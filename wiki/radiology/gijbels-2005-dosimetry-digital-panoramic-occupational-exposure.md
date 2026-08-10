@@ -7,7 +7,7 @@ doi: "10.1259/dmfr/65011036"
 pmid: "15897285"
 source: gijbels-2005-dosimetry-digital-panoramic-occupational-exposure.md
 category: [radiology]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: false
 tags: [panoramic, occupational-dose, scatter, operator-protection]
@@ -18,13 +18,21 @@ text_path: /Users/oracleneo/llm-wiki/papers/gijbels-2005-dosimetry-digital-panor
 text_filename: gijbels-2005-dosimetry-digital-panoramic-occupational-exposure.txt
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Phantom dosimetry across 5 digital panoramic units: scatter dose at 1 m from unit is ≤0.60 μGy per exposure; 500 panoramics/year yields only 5–40 μSv annual operator organ dose.
+In-vitro phantom dosimetry study measuring occupational scatter radiation at 1 m from 5 digital panoramic units at thyroid and gonadal levels in 5 positions around each unit.
 
-## 한줄요약
+Maximum scatter dose at 1 m was 0.60 μGy per exposure; extrapolating to 500 panoramics/year, annual operator organ dose was 5–15 μSv (thyroid) and 5–40 μSv (gonads); between-machine variation was up to 10-fold.
 
-5종 디지털 파노라마 장치 팬텀 실험: 1 m 거리 산란선량 ≤0.60 μGy/촬영, 연간 500회 시 술자 갑상선 5–15 μSv, 생식선 5–40 μSv — 연간 직업한도의 0.3% 이하.
+Operator dose at ≥1 m is far below both the occupational limit (20 mSv/year) and the public dose limit (1 mSv/year), supporting that lead aprons are unnecessary for operators standing at distance during panoramic exposures.
+
+## 세줄요약
+
+5종 디지털 파노라마 장치를 대상으로 한 팬텀 직업 산란선량 실험 — 갑상선·생식선 높이에서 장치 주변 5개 위치 1 m 거리 측정.
+
+1 m 거리 최대 산란선량 0.60 μGy/촬영; 연간 500회 외삽 시 술자 갑상선 5–15 μSv, 생식선 5–40 μSv; 장치 간 변동 최대 10배.
+
+1 m 거리 술자 선량은 직업 한도 (20 mSv/년)와 공중 선량 한도 (1 mSv/년) 모두 훨씬 하회 — 파노라마 촬영 시 거리를 유지하는 술자에게 납 앞치마 불필요.
 
 ## Summary
 

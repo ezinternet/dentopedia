@@ -2,7 +2,7 @@
 title: "Single- vs Multiple-Visit Endodontics: Healing & Pain Outcomes — 5-paper synthesis"
 type: synthesis
 date: 2026-06-16
-confidence: synthesis
+evidence_level: synthesis
 category: [overviews]
 source_collection: synthesis
 tags: []
@@ -28,13 +28,21 @@ source_wiki:
 > - 임상 결정: 한 번에 청소·건조 가능한 단순 단근치는 단일내원이 효율적 기본값, 건조 불가(지속 삼출·weeping canal·급성 농양)·복잡 해부는 다회내원+Ca(OH)₂(치유 촉진제가 아닌 내원간 항균 통제).
 > - 환자 상담: 생활치 단일내원 시 첫 주 불편감 가능성을 미리 알리고 진통제 선제 권고 — 금기가 아니라 상담 포인트.
 
-## One-line Summary
+## Three-line Summary
 
-Across the largest Cochrane SR+MA (Mergoni 2022, 47 RCTs), a second SR+MA+TSA (Schwendicke 2017, 29 RCTs), and three recent RCTs spanning primary apical periodontitis (Bobba 2026), post-operative pain (Chaitanya 2024), and retreatment (Karaoğlan 2022), single- and multiple-visit root canal treatment converge on no clinically significant difference in radiographic healing or post-operative pain — the only consistent nuance being a small, transient early-pain signal in single-visit treatment (most pronounced in vital teeth, RR 2.16), contrasted by a slight single-visit healing edge (RR 1.10) reported in Rossi-Fedele's 2023 SR+MA.
+Synthesis of 5 papers (Cochrane SR+MA 47 RCTs n=5805, SR+MA+TSA 29 RCTs n=4341, and 3 RCTs covering primary apical periodontitis, postoperative pain, and retreatment) on single- vs multiple-visit root canal treatment outcomes.
 
-## 한줄요약
+All five syntheses converge: no clinically significant difference in radiographic healing at ≥1 year (Mergoni 2022 RR 0.93, moderate certainty), long-term complications (Schwendicke 2017 RR 1.00), or postoperative pain — including in primary apical periodontitis (Bobba 2026 healing 93.3% vs 86.7%, p>0.05) and retreatment (Karaoğlan 2022 88.6% vs 86.7%, p>0.05); the only consistent nuance is a small transient early-pain signal in single-visit treatment for vital teeth (RR 2.16, first week only).
 
-가장 큰 Cochrane SR+MA(Mergoni 2022, 47 RCT), TSA를 적용한 두 번째 SR+MA(Schwendicke 2017, 29 RCT), 그리고 1차성 근단치주염(Bobba 2026)·술후 통증(Chaitanya 2024)·재치료(Karaoğlan 2022)를 다룬 최근 RCT 3편이 모두 — 단일내원과 다회내원 근관치료 사이에 방사선학적 치유·술후 통증의 임상적으로 유의한 차이가 없다는 결론으로 수렴한다. 유일하게 일관된 nuance는 단일내원군의 작고 일시적인 초기 통증 신호(특히 생활치, RR 2.16)이며, 이와 대비되게 Rossi-Fedele 2023 SR+MA는 단일내원의 소폭 치유 우위(RR 1.10)를 보고한다.
+Single-visit is the efficient default when canals can be fully cleaned and dried in one appointment; multiple-visit plus Ca(OH)₂ dressing is reserved for persistent exudate, weeping canals, or acute abscess — not because the dressing improves healing, but for inter-appointment antimicrobial control; patients having single-visit treatment on vital teeth should be warned of possible first-week discomfort.
+
+## 세줄요약
+
+5편 종합 (Cochrane SR+MA 47 RCT, SR+MA+TSA 29 RCT, RCT 3편 — 1차성 근단치주염·술후 통증·재치료) — 단일내원 vs 다회내원 근관치료 결과 비교.
+
+모든 5편이 수렴: 방사선학적 치유(Mergoni 2022 RR 0.93, 중등도 확실성), 장기 합병증(Schwendicke 2017 RR 1.00), 술후 통증에서 임상적으로 유의한 차이 없음 — 1차성 근단치주염(Bobba 2026 93.3% vs 86.7%, p>0.05)·재치료(Karaoğlan 2022 88.6% vs 86.7%, p>0.05)에도 동등; 유일한 nuance는 생활치 단일내원 첫 1주 초기 통증 신호(RR 2.16, 일시적).
+
+단일내원은 완전 세정·건조 가능 시 효율적 기본값; 다회내원+수산화칼슘(Ca(OH)₂) 드레싱은 지속 삼출·급성 농양에 한해 내원간 항균 통제 목적으로 사용 — 드레싱이 치유를 개선하는 것이 아님; 생활치 단일내원 환자에게는 첫 1주 불편감 가능성을 미리 설명해야 한다.
 
 ## Thesis
 
@@ -86,7 +94,7 @@ Because efficacy is equivalent, the decision is driven by **case factors and log
 
 ## Related Pages
 
-- [[endodontics/vertucci-2026-single-vs-multiple-visit-endodontics-umbrella]] — umbrella SR of 12 SRs (Gupta 2026); reinforces no consistent post-op pain difference, flags primary-study overlap
+- [[endodontics/visit-protocol/vertucci-2026-single-vs-multiple-visit-endodontics-umbrella]] — umbrella SR of 12 SRs (Gupta 2026); reinforces no consistent post-op pain difference, flags primary-study overlap
 - [[endodontics/visit-protocol/mergoni-2022-single-versus-multiple-visits-cochrane-sr]] — largest Cochrane SR+MA; equivalent healing, transient single-visit early-pain signal
 - [[endodontics/visit-protocol/schwendicke-2017-single-visit-multiple-visit-rct-sr-ma]] — SR+MA+TSA; equivalence with TSA-corrected flare-up signal
 - [[endodontics/visit-protocol/bobba-2026-single-multiple-visit-rct-apical-periodontitis]] — RCT; equivalent PAI healing in primary apical periodontitis

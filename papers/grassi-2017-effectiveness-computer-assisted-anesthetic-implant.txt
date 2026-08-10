@@ -1,0 +1,14 @@
+EFFECTIVENESS OF COMPUTER-ASSISTED ANESTHETIC DELIVERY SYSTEM (STA) IN DENTAL IMPLANT SURGERY: A PROSPECTIVE STUDY.
+Grassi FR, Rapone B, Scarano Catanzaro F, Corsalini M, Kalemaj Z. Oral Implantol (Rome). 2017;10(4):381-389. doi:10.11138/orl/2017.10.4.381. PMID 29682255. PMCID PMC5892653.
+
+[ABSTRACT-ONLY — full text not retrieved from PMC]
+
+Objectives: This prospective cohort study aimed to investigate effectiveness of Computerized Local Anesthesia (CLA) on oral implantology through estimation of pain and discomfort and total quantity of injected anesthetic.
+
+Methods: Forty-five consecutive patients whose treatment plan included immediate or late dental implants were included in this study. The main inclusion criteria comprised: previous implant intervention under conventional anesthesia (CA) during the past 3 years and no previous treatment of pain relief. All patients reported on a 0-10 scale on previous experience with CA, and new experience with CLA. The same CLA system, namely Single Tooth Anesthesia (STA) was used for all patients with half of the quantity normally used for CA. Data on quantity of anesthetic and reported ratings were collected and described. Potential associations and determinant variables were analysed through correlation analysis and regression models.
+
+Results: Out of 45 patients, 27 received post-extractive implant surgery whereas the rest 18 implant surgery on healed sites. The reported pain from STA (mean 1.6, SD 0.7) showed important difference as compared to CA (7.9, SD 1.2; z=5.873; p<0.0001). The comfort perceived during the STA ranged from 7 to 10 (mean 9.5, SD 0.79). A second injection with half of the initial dose was necessary in three cases only.
+
+Conclusions: STA system proved to be effective during interventions of dental implantology, by markedly reducing patients' pain and discomfort and the total quantity of necessary anesthetic.
+
+Keywords: computerized local anesthesia, dental anxiety, intraligamentary anesthesia, pain and discomfort, single tooth anesthesia

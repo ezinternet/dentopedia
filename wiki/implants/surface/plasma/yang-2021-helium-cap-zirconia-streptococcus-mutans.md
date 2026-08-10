@@ -6,20 +6,28 @@ date: 2021-01-01
 doi: 10.1016/j.msec.2020.111633
 source: yang-2021-helium-cap-zirconia-streptococcus-mutans.md
 category: [implants/surface/plasma]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/yang-2021-helium-cap-zirconia-streptococcus-mutans.pdf
 pdf_filename: yang-2021-helium-cap-zirconia-streptococcus-mutans.pdf
 source_collection: external
 tags: [plasma, helium-cap, zirconia, S-mutans, biofilm, reactive-oxygen-species, time-decay, in-vitro]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In vitro zirconia study: helium cold atmospheric plasma (CAP) increased O/C ratio and hydrophilicity (good biocompatibility) and inhibited early S. mutans adhesion/biofilm via reactive oxygen species — but the antibacterial effect lasted only ~24 h, attenuated at 48 h, and disappeared by 72 h.
+In vitro zirconia study: helium cold atmospheric plasma (CAP) increased the O/C ratio and hydrophilicity with confirmed good biocompatibility, and inhibited early S. mutans adhesion and biofilm formation via reactive oxygen species (ROS).
 
-## 한줄요약
+The antibacterial effect followed a time-decay curve: active at ~24 h, attenuated at 48 h, and completely absent by 72 h post-treatment.
 
-지르코니아 in vitro: 헬륨 CAP가 O/C 비·친수성↑(생체적합성 양호), 반응성 산소종으로 S. mutans 초기 부착·바이오필름 억제 — 단 항균효과는 약 24h만 지속, 48h 약화, 72h 소실.
+Plasma-decontaminated zirconia surfaces should be used promptly (within ~24 h) to capture the antibacterial window; the single-species, in vitro design limits generalization to multi-species clinical biofilm.
+
+## 세줄요약
+
+줄1: 지르코니아 in vitro: 헬륨 CAP가 O/C 비·친수성↑(생체적합성 양호), 반응성 산소종(ROS)으로 S. mutans 초기 부착·바이오필름 억제.
+
+줄2: 항균효과는 시간 의존적 감소 — 약 24h 유효, 48h 약화, 72h 완전 소실.
+
+줄3: 플라즈마 처리 지르코니아는 항균 창(~24h 이내) 활용을 위해 즉시 사용해야 하며, 단일 균종·in vitro 한계로 임상 다균종 바이오필름 일반화는 제한.
 
 ## Summary
 

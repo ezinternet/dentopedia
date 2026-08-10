@@ -3,7 +3,7 @@ title: "Perioperative Anti-inflammatory Drugs and Recovery after Periodontal Sur
 authors: M. Abusamak, A. Elananza, I. Alshdaifat, F.S. Al-Hamed, H. Al-Waeli
 year: 2025
 doi: 10.1177/23800844251365539
-category: [drug/antibiotics]
+category: ['drug/analgesics']
 pdf_path: /Users/oracleneo/llm-wiki/papers/abusamak-2025-perioperative-anti-inflammatory-periodontal-surgery-sr-ma.pdf
 pdf_filename: abusamak-2025-perioperative-anti-inflammatory-periodontal-surgery-sr-ma.pdf
 source_collection: external
@@ -16,13 +16,21 @@ relations:
 
 치주수술 전후 항염증제(NSAIDs vs 스테로이드(SAIDs)) 선택에 대한 SR+MA. 기존 [[drug/]] 카테고리에 수술 후 통증관리 SR+MA 없음. [[drug/mohammadpour-2025-antibiotic-prophylaxis-oral-surgery-sr]]과 보완관계 — 치주·구강외과 수술 전후 약물관리(항생제 + 항염증제)의 양 축을 형성.
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 6 RCTs (n=262) comparing perioperative NSAIDs vs corticosteroids (SAIDs) after periodontal surgery: NSAIDs superior for early pain (0–6 h), SAIDs superior for late pain (48 h), swelling and rescue medication comparable — moderate-to-low certainty evidence.
+SR+MA (JDR Clin Transl Res 2025; PROSPERO CRD42024568891; Dalhousie/Qatar University; 6 RCTs, n=262 adults undergoing periodontal surgery) — the first direct comparison of perioperative NSAIDs vs corticosteroids (SAIDs) after periodontal (not third-molar) surgery.
 
-## 한줄요약
+NSAIDs were superior for early pain at 0–6 hours (MD 1.00–2.33 on 0–100 VAS, GRADE moderate); SAIDs were superior at 48 hours (MD −0.23, GRADE moderate); swelling and rescue medication were not significantly different between drug classes.
 
-치주수술 후 항염증제 비교 SR+MA(6 RCTs, n=262): NSAIDs는 초기 통증(0–6시간) 감소에, 스테로이드(SAIDs)는 48시간 통증 감소에 유리하며, 부종·진통제 추가 복용은 동등 — 근거 수준 중등도-낮음.
+For simple periodontal procedures: NSAIDs (faster onset 30–60 min) are preferred for early pain control; for complex plastic surgery (GBR, soft-tissue augmentation): SAIDs are preferred to minimize wound dehiscence risk and provide better late-phase anti-inflammatory cover — pharmacokinetic timing must be planned the night before.
+
+## 세줄요약
+
+SR+MA (JDR Clin Transl Res 2025; PROSPERO CRD42024568891; 달하우지/카타르 대학교; 6 RCTs, n=262 성인 치주수술 환자) — 치주수술 후 비스테로이드성 항염증제 (Nonsteroidal Anti-Inflammatory Drugs, NSAIDs) vs 스테로이드성 항염증제 (Steroidal Anti-Inflammatory Drugs, SAIDs) 최초 직접 비교.
+
+NSAIDs는 초기 통증(0–6시간) 우위 (0–100 시각아날로그척도 (Visual Analog Scale, VAS) 기준 MD 1.00–2.33, GRADE 중등도); SAIDs는 48시간 통증 우위 (MD −0.23, GRADE 중등도); 부종·진통제 추가 복용은 차이 없음.
+
+단순 치주수술: 빠른 발현(30–60분) NSAIDs 선호; 복잡한 재생/연조직 수술 (GBR, 연조직 증대): 창상 열개 위험 최소화 및 후기 항염 커버를 위해 SAIDs 선호 — 수술 전날 밤부터 투약 계획 필요.
 
 ## 1. Document Information
 

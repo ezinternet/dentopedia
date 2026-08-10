@@ -17,13 +17,21 @@ text_filename: botelho-2025-antibiotics-periodontal-treatment-umbrella.txt
 
 기존 위키에 개별 항생제 SRs(de-angelis-2025, mendez-millan-2024 등)는 존재하나, 치주치료에서의 항생제 전반을 메타분석의 방법론적 질과 증거 강도 측면에서 종합 평가한 상위 증거(umbrella review)가 없었음. 항생제 스튜어드십(antimicrobial stewardship) 관점에서 처방 근거를 재점검하는 데 핵심 레퍼런스가 됨. [[drug/sandulescu-2024-antibiotic-prescribing-dental-best-practices-review]] 및 [[drug/bazsefidpay-2023-antibiotic-restrictive-use-adherence-recommendation]]과 함께 치과 항생제 적정사용 클러스터를 구성함.
 
-## One-line Summary
+## Three-line Summary
 
-Umbrella review of 44 SRs (221 meta-analyses) on systemic and local antibiotics in periodontal therapy: despite some statistically robust estimates, overall evidence is weak due to critically low methodological quality of underlying SRs, supporting antibiotic stewardship over routine use.
+Umbrella review (PROSPERO CRD42024527222; 44 SRs, 221 meta-analyses; search to March 2024) synthesizing evidence for systemic and local antibiotics as adjuncts in periodontal therapy using AMSTAR-2 quality grading and meta-analytic strength tiers.
 
-## 한줄요약
+Only 4 meta-analyses reached "strong" evidence (systemic antibiotics combined: CAL +0.3 mm, BoP −6.6%, pocket closure −14.5%), but all were derived from low-to-critically-low AMSTAR-2 SRs, downgrading every finding to overall "weak" evidence; 65.6% of SRs were critically low quality.
 
-체계적 문헌고찰(Systematic Review, SR) 44편·메타분석(Meta-analysis, MA) 221개를 포함한 우산형 고찰(Umbrella Review): 전신·국소 항생제 모두 통계적으로 유의한 임상적 부착 수준(Clinical Attachment Level, CAL) 개선을 보였으나 기반 SR의 방법론적 질이 대부분 낮아 전체 근거등급은 "약함"으로 평가되었고, 항생제 스튜어드십(Antimicrobial Stewardship)을 지지함.
+Antibiotics should NOT be used routinely in periodontal therapy; their use should be reserved for severe/aggressive periodontitis; antibiotic-specific longitudinal RCTs with standardized outcomes are needed.
+
+## 세줄요약
+
+우산형 고찰(PROSPERO CRD42024527222; SR 44편·MA 221개): 치주 치료 보조 전신·국소 항생제의 AMSTAR-2 질 등급과 메타분석 강도를 결합 평가하며 2024년 3월까지 검색.
+
+"강함(strong)" MA 4개(전신 항생제: CAL +0.3 mm, BoP −6.6%, 포켓 폐쇄 −14.5%)가 확인됐으나 모두 낮음~매우 낮음 질의 SR에서 도출돼 전체 근거 등급은 "약함"으로 하향; SR 65.6%가 "매우 낮음(critically low)" 질.
+
+치주 치료에서 항생제 일상 사용은 금지, 중증·공격성 치주염에만 제한; 항생제별 장기 RCT가 필요함.
 
 ## 1. Document Information
 

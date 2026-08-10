@@ -11,15 +11,23 @@ source_collection: external
 
 ## Why Ingested
 
-Part of a recent third-molar / post-operative-morbidity collection. This Evidence-Based Dentistry summary review appraises a split-mouth RCT showing cooled (4°C/10°C) saline irrigation reduces pain, trismus and swelling after third molar surgery — a low-cost intraoperative measure that complements the morbidity-reduction adjuncts in [[oral-surgery/pattnayak-2024-prf-prp-third-molar-extraction-sr]] and the surgical-technique evidence in [[oral-surgery/bailey-2020-surgical-techniques-mandibular-wisdom-teeth-sr]].
+Part of a recent third-molar / post-operative-morbidity collection. This Evidence-Based Dentistry summary review appraises a split-mouth RCT showing cooled (4°C/10°C) saline irrigation reduces pain, trismus and swelling after third molar surgery — a low-cost intraoperative measure that complements the morbidity-reduction adjuncts in [[oral-surgery/third-molar/pattnayak-2024-prf-prp-third-molar-extraction-sr]] and the surgical-technique evidence in [[oral-surgery/third-molar/bailey-2020-surgical-techniques-mandibular-wisdom-teeth-sr]].
 
-## One-line Summary
+## Three-line Summary
 
 Evidence-Based Dentistry summary review of a double-blind, split-mouth RCT (48 patients): irrigating with cooled saline (4°C or 10°C) during mandibular third molar surgery significantly reduced post-operative pain, analgesic use, trismus and swelling versus 25°C saline, with the 4°C group performing best.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 근거기반치의학(EBD) 요약 리뷰가 평가한 이중맹검 split-mouth RCT(48명): 하악 사랑니 수술 중 냉각 식염수(4°C 또는 10°C) 세척이 25°C 대비 술후 통증·진통제 사용·개구장애·부종을 유의하게 줄였으며 4°C군이 가장 우수했다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

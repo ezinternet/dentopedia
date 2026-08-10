@@ -9,8 +9,21 @@ pdf_filename: farina-2023-minimal-invasiveness-transcrestal-sinus-elevation.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Systematic review (19 articles, 15 studies) on what makes transcrestal sinus floor elevation (tSFE) less invasive: powered instruments with stop devices, screwable osteotomes, standardized drill sequences with trephine cores, and immediate implant placement at molar extraction sites with ≥4 mm interradicular septum all reduce invasiveness while preserving clinical effectiveness.
+## Three-line Summary
+
+Systematic review (Periodontology 2000, 2023, vol 91(1):145–166, 19 articles / 15 controlled clinical trials): transcrestal sinus floor elevation (tSFE) 최소 침습성 결정 요인 — powered osteotomes (stop devices), screwable osteotomes, standardized drill sequences (trephine core harvest), immediate implant at molar ≥4mm interradicular septum.
+
+Powered instruments > manual osteotomes on morbidity without clinical efficacy loss; standardized drill + trephine sequence 술시간↓ + 환자 수용성↑ + 조직형태학 출력; molar RBH ≥4mm 시 일단계 immediate tSFE+implant 타당.
+
+19개 논문, 15개 독립 연구; 이질성 높음 (protocol/graft/implant geometry) → formal MA pooling 제한; 장기 MBL/생존 데이터 희박; 환자 보고 계측 불일치.
+
+## 세줄요약
+
+tSFE 최소 침습성 SR (19 articles, 15 studies): powered + stop devices, screwable osteotomes, drill+trephine sequence, molar ≥4mm immediate tSFE.
+
+Powered > manual (이환 감소, 효과 동등); drill+trephine 술시간↓, 수용성↑, 조직형태학; molar ≥4mm immediate 타당.
+
+Protocol 이질성 높음, 장기 MBL/생존 희박, 환자 보고 불일치.
 
 ## 1. Document Information
 - **Journal**: Periodontology 2000, vol. 91, issue 1, pp. 145–166

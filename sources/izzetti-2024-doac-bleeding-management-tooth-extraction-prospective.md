@@ -17,13 +17,21 @@ text_filename: izzetti-2024-doac-bleeding-management-tooth-extraction-prospectiv
 
 기존 [[drug/anticoagulants/moldovan-2023-anticoagulant-oral-surgery-bleeding-sr]] (SR) 와 [[drug/anticoagulants/inchingolo-2024-anticoagulation-therapy-dental-practice-sr]] (SR) 가 제시한 "발치 시 직접경구항응고제(Direct Oral Anticoagulant, DOAC)는 중단 불필요, 국소지혈로 충분"이라는 결론을, 49명 전향코호트의 시간순(intra/peri/post-op) 출혈 동역학으로 보강한다. 특히 DOAC 중단 여부가 출혈률에 영향을 주지 않았다는 1차 데이터가 위 SR들의 권고를 뒷받침한다.
 
-## One-line Summary
+## Three-line Summary
 
-Prospective cohort (n=49 DOAC patients, 136 extractions): ~50% had intra-/early peri-op bleeding peaking day 1 post-op, but all episodes were mild and controlled with local hemostasis; DOAC suspension did NOT reduce post-operative bleeding, while >3 teeth, flap elevation, and osteotomy raised bleeding rates.
+Prospective cohort (n=49 DOAC patients, 136 extractions): ~50% had intra-/early peri-op bleeding peaking day 1 post-op, but all episodes were mild and controlled with local hemostasis;
 
-## 한줄요약
+DOAC suspension did NOT reduce post-operative bleeding, while >3 teeth, flap elevation, and osteotomy raised bleeding rates.
 
-전향코호트(DOAC 49명·발치 136개): 약 50%에서 술중·초기 술후 출혈(1일째 최고)이 있었으나 모두 경미하고 국소지혈(거즈압박·트라넥삼산)로 조절됐고, DOAC 중단은 술후 출혈을 줄이지 못함. 3개 초과 발치·판막거상·골삭제가 출혈률을 높임.
+(incomplete)
+
+## 세줄요약
+
+전향코호트(DOAC 49명·발치 136개): 약 50%에서 술중·초기 술후 출혈(1일째 최고)이 있었으나 모두 경미하고 국소지혈(거즈압박·트라넥삼산)로 조절됐고, DOAC 중단은 술후 출혈을 줄이지 못함.
+
+3개 초과 발치·판막거상·골삭제가 출혈률을 높임.
+
+(incomplete)
 
 ## 1. Document Information
 

@@ -6,7 +6,7 @@ date: 2025-02-12
 doi: 10.3390/healthcare13040396
 source: badahdah-2025-dental-water-jet-plaque-gingivitis-sr.md
 category: [interdental-cleaning]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "39997271"
@@ -22,13 +22,21 @@ relations:
     target: yiamwattana-2025-oral-irrigator-vs-floss-orthodontic-sr-ma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review + meta-analysis (18 RCTs; 15 in MA; n≈1005) of a water jet (WJ) added to manual brushing vs floss or brushing-alone, in BOTH regular and orthodontic patients: WJ gives slight, time- and population-dependent bleeding (moderate certainty) and gingival benefits, no consistent plaque advantage; benefits are larger vs brushing-alone than vs floss and in orthodontic patients.
+SR+MA (PROSPERO CRD42022296752; 18 RCTs, 15 in meta-analysis, n≈1005; ROB 2 + GRADE) pooling regular and fixed-orthodontic patients in a 2×2 design — water jet (WJ) vs floss and WJ vs brushing-alone — stratified by follow-up duration (short 2–3 wk; intermediate 4–6 wk; long >6 wk).
 
-## 한줄요약
+WJ provided slight, time- and population-dependent improvements in bleeding index (moderate GRADE certainty) and gingival index, but no consistent plaque index advantage; benefits were larger versus brushing-alone than versus floss, and larger in orthodontic than regular patients.
 
-체계적 문헌고찰+메타분석(RCT 18편, MA 15편, n≈1005) — 물제트(Water Jet, WJ)를 칫솔질에 추가했을 때, 일반·교정환자 모두에서 출혈(중등도 근거)과 치은지수에 시기·인구집단에 따라 약간의 이득은 있으나 치면세균막 감소엔 일관된 우위 없음. 이득은 치실보다 '칫솔질 단독' 대비, 일반환자보다 교정환자에서 더 뚜렷하며, WJ는 칫솔질을 대체하지 못하는 보조수단.
+WJ is a recommended compliance-friendly adjunct for patients with brackets, fixed prostheses, or poor flossing compliance, and is not a brushing substitute; claims that WJ beats floss on plaque are likely an artifact of studies lacking adequate follow-up.
+
+## 세줄요약
+
+SR+MA(PROSPERO CRD42022296752; RCT 18편, MA 15편, n≈1005; ROB 2 + GRADE) — 일반환자·고정 교정장치 환자에서 물제트(Water Jet, WJ) vs 치실, WJ vs 칫솔질 단독의 2×2 설계, 추적 기간별(단기 2–3주·중기 4–6주·장기 >6주) 층화.
+
+WJ는 출혈지수(Bleeding Index, 중등도 근거)·치은지수에서 시기·환자군에 따라 약간의 이점 제공, 치면세균막지수에서는 일관된 우위 없음; 이점은 치실 대비보다 칫솔질 단독 대비, 일반환자보다 교정환자에서 더 뚜렷.
+
+WJ는 교정 장치·고정 보철·치실 사용 불량 환자의 순응도 친화적 보조 수단으로 권장; 칫솔질 대체 불가; WJ가 치실보다 치면세균막 감소에 우수하다는 주장은 추적 기간이 없는 연구의 인공산물일 가능성.
 
 ## Summary
 

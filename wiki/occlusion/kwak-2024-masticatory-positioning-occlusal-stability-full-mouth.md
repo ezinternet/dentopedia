@@ -6,7 +6,7 @@ date: 2025-03-31
 doi: 10.21851/obr.25.008
 source: kwak-2024-masticatory-positioning-occlusal-stability-full-mouth.md
 category: [occlusion]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/kwak-2024-masticatory-positioning-occlusal-stability-full-mouth.pdf
 pdf_filename: kwak-2024-masticatory-positioning-occlusal-stability-full-mouth.pdf
 source_collection: external
@@ -16,13 +16,21 @@ relations:
     target: sippy-2021-condylar-incisal-guidance-canine-group-function-schemes
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Prospective 10-year follow-up case series (n=16) using an intraoral Gothic arch tracer to set the normalized hard-food chewing position (CM-H) as the therapeutic position for full-mouth rehabilitation; CM-H↔MICP concordance was 63% at both timepoints and overall four-movement stomatognathic recovery improved 19%, supporting long-term stability of chewing-position-centered occlusion.
+Prospective 10-year follow-up case series (n=16 full-mouth rehabilitation patients, 4 groups by TMD status and treatment type) using an intraoral Gothic arch tracer (N-GAT) to set the normalized hard-food chewing position (CM-H) as the therapeutic occlusal position.
 
-## 한줄요약
+CM-H↔MICP concordance remained stable at 63% (10/16) at both recording timepoints (~10 years apart); masticatory-muscle health (CM-H↔CM-S) improved from 69% to 81%, TMJ health (CM-H↔BM) from 6% to 31%, and overall four-movement stomatognathic recovery improved by 19%.
 
-전악 수복 환자 16명을 약 10년 추적한 전향적 증례군 — 구내 고딕아치 트레이서로 정상화한 단단한 음식 저작위치(CM-H)를 치료위로 설정. CM-H↔최대교두감합위(MICP) 일치율이 1·2차 모두 63%로 유지되고 4운동 전체 회복률은 19% 개선되어, 저작위 중심 교합 재건의 장기 안정성을 뒷받침.
+Occlusion reconstructed around the normalized chewing position remains stable over a decade and supports recovery of masticatory-muscle and TMJ function; patients who received occlusal adjustment alongside reconstruction (groups G1/G4) outperformed those who did not (G3).
+
+## 세줄요약
+
+전악 수복 환자 16명(TMD 상태·치료 방법에 따른 4군)을 약 10년 추적한 전향적 증례군 연구: 구내 고딕아치 트레이서(N-GAT)로 정규화한 단단한 음식 저작위치(CM-H)를 치료 교합위로 설정했다.
+
+CM-H↔최대교두감합위(MICP) 일치율은 두 기록 시점 모두 63%(10/16)로 안정적이었으며, 저작근 건강(CM-H↔CM-S)은 69%→81%, 턱관절 건강(CM-H↔BM)은 6%→31%, 4운동 전체 구강악계 회복률은 19% 향상됐다.
+
+저작위 중심으로 재건된 전악 교합은 10년 후에도 안정적으로 유지되며 저작근·TMJ 기능 회복을 지원한다; 교합조정을 병행한 군(G1/G4)이 교합조정 없는 군(G3)보다 CM-H↔MICP 안정성에서 우수했다.
 
 ## Summary
 

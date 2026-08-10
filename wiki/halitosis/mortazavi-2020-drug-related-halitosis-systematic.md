@@ -6,7 +6,7 @@ date: 2020-01-01
 doi: 10.3290/j.ohpd.a44679
 source: mortazavi-2020-drug-related-halitosis-systematic.md
 category: [halitosis]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/mortazavi-2020-drug-related-halitosis-systematic.pdf
 pdf_filename: mortazavi-2020-drug-related-halitosis-systematic.pdf
 source_collection: external
@@ -16,13 +16,21 @@ relations:
     target: memon-2022-aetiology-associations-halitosis-systematic
 ---
 
-## One-line Summary
+## Three-line Summary
 
-PRISMA systematic review (34 studies, n=30,736) identifying 10 pharmacological groups — including aminothiols (up to 100% incidence), anticholinergics, antidepressants, and chemotherapeutic agents — that cause extra-oral halitosis as a systemic drug side effect.
+PRISMA systematic review of 34 clinical trials/cohorts (n=30,736 patients; through February 2019) cataloguing medications causing extra-oral halitosis as a systemic drug side effect.
 
-## 한줄요약
+Overall 6.2% of patients experienced drug-related halitosis; 10 pharmacological groups identified — aminothiols (cysteamine up to 100% incidence), anticholinergics (oxybutynin 15.5%), antidepressants, and chemotherapeutic agents among the highest-burden groups.
 
-PRISMA 체계적 문헌고찰(34편, n=30,736): 아미노티올계(최대 100%), 항콜린제, 항우울제 등 10개 약물군이 전신 부작용으로 구외성 구취를 유발함을 규명.
+Clinicians should screen medication history when evaluating halitosis patients, as even non-oral routes (IV, topical, eye drops) can produce halitosis via bloodborne pulmonary excretion of volatile drug metabolites.
+
+## 세줄요약
+
+34편 임상시험·코호트(n=30,736, 2019년 2월까지) PRISMA 체계적 문헌고찰; 전신 약물 부작용으로 구외성 구취를 유발하는 약물 총망라.
+
+전체 6.2% 환자에서 약물 관련 구취 발생; 아미노티올계(cysteamine 최대 100%), 항콜린제(oxybutynin 15.5%), 항우울제, 항암제 등 10개 약물군 규명.
+
+구취 평가 시 반드시 약물 복용력 확인 필요; 비경구 투여 경로(정맥·점안제)도 휘발성 대사산물의 폐 배출을 통해 구취를 유발할 수 있음.
 
 ## Summary
 

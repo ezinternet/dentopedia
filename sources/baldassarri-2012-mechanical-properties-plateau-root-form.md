@@ -13,13 +13,21 @@ source_collection: external
 
 Plateau root form (PRF) 임플란트 주위 피질골의 나노인덴테이션 (Nanoindentation) 기계적 성질이 기능 연수에 따라 어떻게 변화하는지에 대한 인간 회수 연구(Human Retrieval Study)로, 기능 부하 기간에 따른 골 성숙 및 기계적 특성 변화의 근거를 제공한다. 이 논문은 [[wiki/implants/gil-2015-progressive-plateau-root-form-osseointegration-retrieval]]의 조직형태계측(Histomorphometry) 데이터와 상보적인 기계적 데이터를 제공하며, PRF 임플란트 장기 골-임플란트 반응 메커니즘 이해를 위해 인제스트함.
 
-## One-line Summary
+## Three-line Summary
 
-Human retrieval study (n=30 implants, 0.3–24 years) showing cortical bone elastic modulus and hardness around plateau root form implants increase significantly during the first 5 years of function (r=0.84 and r=0.78 respectively) and stabilize thereafter, measured by nanoindentation.
+Human retrieval study (n=30 plateau root form implants; in vivo time 0.3–24 years; nanoindentation under wet conditions, Oliver–Pharr method, 120 indentations/implant; NYU College of Dentistry) quantifying peri-implant cortical bone mechanical properties over time.
 
-## 한줄요약
+Both elastic modulus (r=0.84) and hardness (r=0.78) showed significant positive correlations with time in vivo; values were significantly higher after 5 years (p<0.001) and then stabilized; arch location and implant surface treatment had no significant long-term effect.
 
-인간 회수 임플란트 연구(n=30, 0.3–24년 기능)에서 플래토 루트폼 임플란트 주위 피질골의 탄성계수(Elastic Modulus)와 경도(Hardness)가 기능 후 5년까지 유의하게 증가하고(r=0.84, r=0.78) 이후 안정화됨을 나노인덴테이션으로 확인.
+The 5-year stabilization threshold in bone mechanical properties around plateau implants provides a biomechanical anchor for long-term osseointegration models, but the retrospective design and moderate sample size (n=30) limit causal inference.
+
+## 세줄요약
+
+인간 회수 연구(plateau root form 임플란트 n=30; 기능 기간 0.3–24년; 습식 나노인덴테이션, Oliver–Pharr 방법, 임플란트당 120 indentation; NYU 치과대) — 시간에 따른 임플란트 주위 피질골 기계적 성질 정량화.
+
+탄성계수(r=0.84)·경도(r=0.78) 모두 기능 기간과 유의한 양의 상관; 5년 이후 값이 유의하게 높고(p<0.001) 이후 안정화; 악궁 위치와 임플란트 표면처리는 장기 기계적 성질에 유의한 영향 없음.
+
+5년 안정화 역치가 플래토 임플란트 장기 골유착 모델의 기계적 기준점을 제시하나, 후향적 설계와 중간 크기 표본(n=30)으로 인과관계 추론 제한.
 
 ## 1. Document Information
 

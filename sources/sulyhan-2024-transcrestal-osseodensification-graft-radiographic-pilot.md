@@ -13,13 +13,21 @@ source_collection: external
 
 경치조골 상악동거상에 osseodensification + 이식재를 결합했을 때의 골고 증가·수축·안정성 상관을 정량화하기 위해 인제스트. [[sinus-lift/transcrestal/starch-jensen-2025-transcrestal-sinus-osseodensification-meta-analysis]] 의 골증대 효과를 CBCT 기반 12개월 추적 pilot으로 보강하고, [[sinus-lift/transcrestal/yousry-2025-ozone-gel-osseodensification-transcrestal-sinus-rct]] 의 무이식 결과와 대비.
 
-## One-line Summary
+## Three-line Summary
 
 Pilot CBCT study (13 patients, RBH <8 mm) of transcrestal sinus elevation by osseodensification with graft, showing significant immediate bone-height gain of 6.65 mm, modest 0.90 mm graft contraction at 12 months, and 100% implant success.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 CBCT pilot 연구(환자 13명, 잔존골고 <8 mm) — osseodensification+이식재 경치조골 상악동거상으로 즉시 6.65 mm 골고 증가, 12개월째 이식재 수축 0.90 mm, 임플란트 성공률 100%.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - Biomimetics 2024;9(5):276. Published 2024-05-04.

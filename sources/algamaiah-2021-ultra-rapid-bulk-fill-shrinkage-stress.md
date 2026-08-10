@@ -16,11 +16,21 @@ text_filename: algamaiah-2021-ultra-rapid-bulk-fill-shrinkage-stress.txt
 
 [[resin/parra-gatica-2023-flowable-bulk-fill-composites-sr]]와 [[resin/boaro-2019-bulk-fill-composites-clinical-properties-sr-ma]]는 표준 광중합 벌크필을 다루지만, 임상에서 확산 중인 3초 초고조사(>3000 mW/cm²) URPBF 소재의 수축 strain/stress 거동, 그리고 AFCT(addition-fragmentation chain transfer) 첨가제가 stress를 낮추는 기전은 위키에 없었다. Watts 그룹의 본 연구는 "초고조사 = strain 약간↓이지만 stress 약간↑(network mobility 감소)" 트레이드오프와 AFCT의 stress-relaxation 효과를 보강한다. abstract-only.
 
-## One-line Summary
-In-vitro bench study of ultra-rapid (3 s, ~3000-3200 mW/cm²) bulk-fill composites (PFill with an AFCT agent, PFlow) vs comparators, finding ultra-high irradiance over ultra-short periods slightly lowers shrinkage strain but slightly raises stress (reduced network mobility), while the AFCT agent in PFill measurably lowers shrinkage stress even under high-irradiance curing.
+## Three-line Summary
 
-## 한줄요약
-In-vitro (초고속 3초·~3000 mW/cm² 벌크필 PFill/PFlow vs 비교군): 초단시간 고조사는 수축 strain은 약간 낮추나 stress는 약간 높임(network mobility 감소); PFill의 AFCT 첨가제는 고조사에서도 수축응력을 유의하게 낮춤.
+In-vitro bench study (Dental Materials 2021;37:559–567) measuring polymerization shrinkage strain (bonded-disk) and stress (Bioman II) of ultra-rapid bulk-fill composites (PFill with AFCT agent, PFlow) vs comparators (ECeram, EFlow) under three curing protocols (3 s at 3000/3200 mW/cm² vs 10 s at 1200 mW/cm²).
+
+Ultra-high irradiance over ultra-short periods (3 s) slightly lowered shrinkage strain but slightly raised stress due to reduced network mobility; PFill's AFCT agent yielded significantly lower shrinkage stress than ECeram regardless of curing protocol (p<0.05).
+
+Bench-only study with n=5 and no cavity/C-factor model; long-term conversion and mechanical consequences of 3-second curing were not assessed.
+
+## 세줄요약
+
+In vitro 연구(Dental Materials 2021;37:559–567): 초고속(3초, ~3000–3200 mW/cm²) 벌크필 레진(PFill-AFCT 첨가, PFlow) vs 비교군(ECeram, EFlow)의 중합수축 strain(접착디스크법)과 stress(Bioman II) 측정, 3가지 조사 프로토콜 비교.
+
+3초 초고조사는 수축 strain 약간 감소·stress 약간 증가(network mobility 감소); PFill(AFCT 첨가제)은 모든 조사 프로토콜에서 ECeram 대비 수축응력 유의하게 낮음(p<0.05).
+
+n=5의 벤치 연구이며 C-factor·공동 모형 없음; 3초 조사의 장기 중합도·기계적 특성 미평가.
 
 ## 1. Document Information
 - Journal: Dental Materials, 2021;37(4):559-567

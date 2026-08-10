@@ -6,7 +6,7 @@ date: 2024-07-31
 doi: 10.3892/br.2024.1827
 source: vorovenci-2024-horizontal-ridge-augmentation-od-gbr-ridge-split-sr-ma.md
 category: [bone-regeneration]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "39161939"
@@ -20,15 +20,33 @@ relations:
     target: ayoub-2018-ridge-splitting-horizontal-augmentation-case
   - type: reinforces
     target: chen-2022-reverse-drilling-technique-alveolar-ridge-expansion
+  - type: reinforces
+    target: tian-2019-alveolar-ridge-expansion-osseodensification-osteotome
+  - type: extends
+    target: simion-1992-jawbone-enlargement-split-crest-gtr
+  - type: extends
+    target: bone-regeneration-protocol-ladder
+  - type: extends
+    target: enislidis-2006-staged-ridge-splitting-implant-mandible
+  - type: extends
+    target: koutouzis-2019-alveolar-ridge-expansion-osseodensification-multicenter-retrospective
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (18 studies, 17 meta-analyzed as 21 groups; 336 patients / 665 implants; Jan 2017–Dec 2022) head-to-head ranking of horizontal ridge augmentation by mean bone gain: **GBR 4.04 mm > RS 3.66 mm > OD 2.15 mm** (ANOVA P=0.002), with implant survival ~99% for all three and OD applied to the widest ridges, RS to the narrowest.
+SR+MA (PRISMA, 18 studies → 17 meta-analyzed as 21 independent groups; 336 patients / 665 implants; Jan 2017–Dec 2022) providing the first pooled head-to-head comparison of guided bone regeneration (GBR), ridge splitting (RS), and osseodensification (OD) for horizontal ridge augmentation.
 
-## 한줄요약
+Mean horizontal bone gain ranked GBR 4.036 mm > RS 3.661 mm > OD 2.151 mm (ANOVA P=0.002); GBR vs RS was not significant (P=0.09), while both significantly exceeded OD; implant survival was ~99% for all three techniques, and OD was applied to the widest ridges (4.37 mm initial width) while RS was applied to the narrowest (3.43 mm).
 
-수평 치조제 증대 3종을 직접 비교한 SR+MA(18편, 메타분석 17편, 환자 336명/임플란트 665개): 평균 수평 골증대량은 **가이드골재생(GBR) 4.04 mm > 치조제분할(RS) 3.66 mm > 골밀도화 치조제확장(OD) 2.15 mm** (P=0.002). 임플란트 생존율은 세 방법 모두 ~99%로 차이 없음. OD는 가장 넓은 치조제(4.37 mm)에, RS는 가장 좁은 치조제(3.43 mm)에 적용됨.
+Implant survival is not the discriminating factor (~99% all techniques) — selection should be driven by required bone gain magnitude, starting ridge width, complication profile (GBR: 20% membrane dehiscence; RS: 12.3% site dehiscence; OD: favorable safety), and autologous/mixed graft significantly augments gain (4.98 vs 2.47 mm no-graft, P<0.001).
+
+## 세줄요약
+
+SR+MA(PRISMA, 17편 메타분석 21군; 환자 336명·임플란트 665개; 2017–2022): 수평 치조제 증대 3종 — 가이드골재생(Guided Bone Regeneration, GBR)·치조제분할(Ridge Split, RS)·골밀도화(Osseodensification, OD) — 최초 풀링 직접비교.
+
+평균 수평 골증대: GBR 4.036 mm > RS 3.661 mm > OD 2.151 mm (P=0.002); GBR vs RS 차이 NS(P=0.09), 둘 다 OD보다 유의하게 큼; 임플란트 생존율 3가지 모두 ~99%; OD는 가장 넓은 치조제(초기 4.37 mm)에, RS는 가장 좁은 치조제(3.43 mm)에 적용.
+
+생존율은 변별인자 아님 — 술식 선택은 필요 골증대량·초기 치조제 폭·합병증 프로파일(GBR: 막 열개 20%; RS: 열개 12.3%; OD: 안전성 양호)·자가골/혼합 이식 여부(4.98 mm, 무이식 대비 P<0.001)로 결정해야 함.
 
 ## Summary
 
@@ -70,8 +88,8 @@ Critically, the three techniques are applied to **different starting ridge width
 - [[bone-regeneration/ayoub-2018-ridge-splitting-horizontal-augmentation-case]] — ridge-split case; this MA quantifies the RS gain (3.66 mm) it exemplifies.
 - [[bone-regeneration/simion-1992-jawbone-enlargement-split-crest-gtr]] — split-crest + GTR origin paper; RS lineage pooled here.
 - [[bone-regeneration/enislidis-2006-staged-ridge-splitting-implant-mandible]] — staged mandibular ridge-split; RS technique in the pool.
-- [[implants/chen-2022-reverse-drilling-technique-alveolar-ridge-expansion]] — OD/reverse-drilling expansion; this MA places OD gain (2.15 mm) in context.
-- [[implants/tian-2019-alveolar-ridge-expansion-osseodensification-osteotome]] — OD vs osteotome ridge expansion; OD arm.
-- [[implants/koutouzis-2019-alveolar-ridge-expansion-osseodensification-multicenter-retrospective]] — multicenter OD expansion; a study cited in this MA's OD subgroup.
-- [[implants/versah-protocols/guner-2025-osseodensification-ridge-split-implant-stability]] — OD + ridge-split combined (a future-direction combination this MA flagged but could not pool).
+- [[implants/osteotomy-thermal/chen-2022-reverse-drilling-technique-alveolar-ridge-expansion]] — OD/reverse-drilling expansion; this MA places OD gain (2.15 mm) in context.
+- [[implants/osseodensification/tian-2019-alveolar-ridge-expansion-osseodensification-osteotome]] — OD vs osteotome ridge expansion; OD arm.
+- [[implants/osseodensification/koutouzis-2019-alveolar-ridge-expansion-osseodensification-multicenter-retrospective]] — multicenter OD expansion; a study cited in this MA's OD subgroup.
+- [[implants/osseodensification/guner-2025-osseodensification-ridge-split-implant-stability]] — OD + ridge-split combined (a future-direction combination this MA flagged but could not pool).
 - [[overviews/bone-regeneration-protocol-ladder]] — synthesis; supplies the GBR > RS > OD gain hierarchy to the augmentation decision ladder.

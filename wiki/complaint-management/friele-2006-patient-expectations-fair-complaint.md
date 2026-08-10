@@ -6,18 +6,29 @@ date: 2006-08-18
 doi: "10.1186/1472-6963-6-106"
 source: friele-2006-patient-expectations-fair-complaint.md
 category: complaint-management
-confidence: cross-sectional
+evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/friele-2006-patient-expectations-fair-complaint.pdf
 pdf_filename: friele-2006-patient-expectations-fair-complaint.pdf
 source_collection: external
 tags: [expectations, justice-theory, fairness]
+relations:
+  - type: contradicts
+    target: mccreaddie-2021-qualitative-study-nhs-complaint
 ---
 
-## One-line Summary
-Survey of 424 hospital complainants showing the dominant goal is preventing recurrence; they prioritise impartial procedure, explanation over apology, and rarely seek money.
+## Three-line Summary
+Cross-sectional survey of 424 Dutch hospital complainants (75% response, 74 hospitals) at the start of their complaint procedure, applying justice theory to measure expectations of fair procedure, communication, and outcome.
 
-## 한줄요약
-병원 민원인 424명 설문 — 최우선 목표는 '재발 방지', 공정한 절차·(사과보다) 설명을 중시하고 금전 보상 요구는 드묾.
+Preventing recurrence was the dominant motive; 87% prioritised an impartial committee; explanation was most important to 65% vs apology to only 41%; only 7% sought financial compensation.
+
+Complaint responses should prioritise impartial procedure, transparent explanation, and organisational change over apology or monetary settlement, as these are what complainants actually value.
+
+## 세줄요약
+네덜란드 74개 병원 민원인 424명(응답률 75%) 횡단 설문: 민원 절차 시작 시점에 정의이론(justice theory)으로 공정한 절차·소통·결과 기대 측정.
+
+재발 방지가 최우선 동기; 87%가 공정한 위원회 우선시; 설명이 중요하다는 응답 65% vs 사과 41%; 금전 보상 원하는 경우 7% 불과.
+
+민원 응대는 사과나 금전 보상보다 공정한 절차·투명한 설명·조직 개선에 초점을 맞춰야 한다 — 이것이 민원인의 실제 기대이다.
 
 ## Summary
 Friele and Sluijs surveyed 424 Dutch hospital complainants at the start of their complaint procedure, using justice theory to map expectations of fair procedure, communication, and outcome. The dominant motive was preventing the incident from recurring, not compensation -- only 7% wanted money. Complainants prioritised an impartial committee (87%), respectful treatment, an organisational change (79%), and disclosure of mistakes; explanation mattered more than apology, and few sought to repair the personal doctor-patient relationship. The paper establishes the empirical benchmark for what 'fair' complaint handling must deliver.

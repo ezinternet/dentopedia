@@ -6,7 +6,7 @@ date: 2026-03-30
 doi: 10.2147/CCIDE.S585610
 source: alsaloum-2026-proximal-contact-loss-interproximal-caries-implants-review.md
 category: [food-impaction]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: true
 pmid: "41939798"
@@ -20,11 +20,21 @@ relations:
     target: sheba-2023-interproximal-contact-loss-systematic-meta
 ---
 
-## One-line Summary
-Narrative review reframing proximal contact loss (PCL) between implant restorations and adjacent natural teeth as a *direct biological risk factor for interproximal caries* — synthesizing PCL prevalence (18–66%), consistent mesial > distal predominance, time-dependent progression (~9–10%/year; ~50% of contacts lost by 3–9 yr), the implant-infraposition growth mechanism (lifelong ~0.1–0.2 mm/yr tooth eruption against a fixed implant), and prevention via tight contacts + Essix retainers (~15–50% PCL reduction).
+## Three-line Summary
 
-## 한줄요약
-서술적 리뷰: 임플란트 보철-자연치 사이 근접접촉소실(PCL)을 인접면 우식(interproximal caries)의 직접 위험인자로 재규정 — PCL 유병률 18–66%, 일관된 mesial>distal, 시간의존 진행(연 ~9–10%, 3–9년 내 접촉 절반 소실), 평생 치아맹출(~0.1–0.2 mm/yr) 대비 고정 임플란트로 인한 함입 기전, Essix 리테이너로 PCL ~15–50% 감소.
+Narrative review (PMC 2026; non-systematic) reframing proximal contact loss (PCL) between implant restorations and adjacent natural teeth not as a prosthetic nuisance but as a direct biological risk factor for interproximal caries on the adjacent natural tooth.
+
+PCL prevalence ranges 18–66% with consistent mesial > distal predominance; time-dependent progression ~9–10%/year (~50% of contacts lost within 3–9 years) is mechanistically attributed to lifelong natural-tooth eruption/mesial drift (~0.1–0.2 mm/yr) against an ankylosed implant falling into relative infraposition.
+
+Prevention (tight initial contacts plus Essix retainers, ~15–50% PCL reduction) and regular proximal radiographic follow-up are the key clinical takeaways; caries risk is inferred mechanistically — no numeric caries-incidence outcome was reported.
+
+## 세줄요약
+
+서술적 리뷰(PMC 2026; 비체계적): 임플란트 보철-자연치 사이 근접접촉소실(PCL, Proximal Contact Loss)을 단순 보철적 문제가 아닌 인접 자연치 인접면 우식의 직접 생물학적 위험인자로 재규정.
+
+PCL 유병률 18–66%, 일관된 mesial>distal 우위; 시간의존 진행 연 ~9–10%(3–9년 내 접촉 절반 소실) — 기전: 평생 치아맹출/근심 이동(~0.1–0.2 mm/yr) 대비 고정된 임플란트의 상대적 함입.
+
+초기 긴밀 접촉 확보 + Essix 리테이너(PCL ~15–50% 감소)가 핵심 예방 전략; 정기적 인접면 방사선 추적 필요; 우식 발생률 수치는 보고되지 않음(기전적 추론).
 
 ## Summary
 This narrative review consolidates the literature on proximal contact loss (PCL) between implant-supported restorations and adjacent natural teeth, and — its distinctive contribution — reframes PCL not as a mere prosthetic nuisance but as a **direct biological risk factor for interproximal caries on the adjacent natural tooth**. The proposed causal chain: the open embrasure created by PCL traps food and plaque → shifts the local microbiota toward a cariogenic biofilm that routine hygiene cannot clear → sustained acid production → demineralization of the vulnerable proximal surface, alongside gingival inflammation and local alveolar bone loss (food impaction associated with inflammatory peri-implant soft-tissue change in >50% of impacted cases).

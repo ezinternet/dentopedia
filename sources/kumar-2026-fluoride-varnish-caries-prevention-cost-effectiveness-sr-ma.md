@@ -16,13 +16,21 @@ text_filename: kumar-2026-fluoride-varnish-caries-prevention-cost-effectiveness-
 
 This SR+MA (Kumar 2026, 23 economic evaluations) pools the **cost-effectiveness** (incremental net monetary benefit, INMB) of professional fluoride varnish (FV) for childhood caries prevention vs other preventive measures, finding NO significant economic advantage of FV over comparators in high-income countries (total INMB $124.1, I²=0%). It adds the economic-evidence layer to [[wiki/caries/chestnutt-2017-fissure-seal-fluoride-varnish-trial]], whose RCT found FV clinically equivalent to fissure sealant yet "cost-effective in a program" — Kumar's pooled economic finding qualifies that single-trial cost claim as uncertain. It also complements the clinical FV/varnish-composition material in [[wiki/caries/jkda-2023-61-7-004]]. NOTE: abstract-only — full text not retrieved (no PMC OA).
 
-## One-line Summary
+## Three-line Summary
 
 SR+MA of 23 cost-effectiveness studies (836 screened): pooled incremental net monetary benefit (INMB) of fluoride varnish vs other caries-preventive interventions in children was $124.1 (I²=0%), showing NO significant economic difference — cost-effectiveness of FV remains uncertain in high-income countries from the healthcare provider/payer perspective.
 
-## 한줄요약
+(incomplete)
 
-23개 경제성평가 연구 SR+MA (836편 스크리닝): 소아 우식예방에서 불소바니시(FV) vs 다른 예방중재의 통합 증분순화폐편익(INMB)이 $124.1 (I²=0%)로 비용효과 차이 없음 — 고소득국 의료공급자/지불자 관점에서 FV의 비용효과는 불확실. (임상효능이 아닌 경제성 분석)
+(incomplete)
+
+## 세줄요약
+
+23개 경제성평가 연구 SR+MA (836편 스크리닝): 소아 우식예방에서 불소바니시(FV) vs 다른 예방중재의 통합 증분순화폐편익(INMB)이 $124.1 (I²=0%)로 비용효과 차이 없음 — 고소득국 의료공급자/지불자 관점에서 FV의 비용효과는 불확실.
+
+(임상효능이 아닌 경제성 분석)
+
+(incomplete)
 
 ## 1. Document Information
 

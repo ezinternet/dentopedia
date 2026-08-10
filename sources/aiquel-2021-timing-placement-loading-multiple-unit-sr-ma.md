@@ -13,13 +13,21 @@ source_collection: external
 
 The existing [[wiki/implants/zhou-2021-placement-loading-protocols-single-implants-sr]] and [[wiki/implants/benic-2014-loading-protocols-single-implant-crowns-sr-ma]] focus on single-unit implant crowns; this SR+MA (Aiquel 2021, Clin Oral Implants Res) specifically addresses **multiple-unit fixed dental prostheses (FDPs)** supported by ≥2 implants — a distinct clinical context where cantilever forces, splinted biomechanics, and patient selection criteria differ. It is the companion SR to the ITI S5 Consensus on multiple-unit FDPs and provides the only meta-analysis on DPIL vs. DPDL survival for this prosthetic category.
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (14 studies, 21 cohort groups, ≥3-yr follow-up) found that in multiple-unit implant-supported FDPs, all placement/loading combinations except IPIL achieved >90% implant survival, and a meta-analysis of 3 RCTs showed no significant survival difference between delayed placement with immediate vs. delayed loading (p = .227).
+SR+MA (14 studies, 21 cohort groups, ≥3-yr follow-up) restricted to multiple-unit implant-supported fixed dental prostheses (FDPs, ≥2 implants), mapping 5 of 9 possible placement/loading protocol combinations.
 
-## 한줄요약
+All protocols except IPIL achieved >90% implant survival; a meta-analysis of 3 RCTs found no significant difference between delayed placement with immediate vs. delayed loading (DPIL 97.2% vs. DPDL 98.1%, p=.227).
 
-복수 임플란트 지지 고정성 국소의치(FDP)에 대한 SR+MA(14편, ≥3년 추적): IPIL을 제외한 모든 식립·부하 조합에서 생존율 >90%, 지연식립-즉시부하(DPIL) vs. 지연식립-지연부하(DPDL) 간 생존율 차이 없음(p = .227; GRADE 근거수준 매우 낮음).
+GRADE certainty is very low for all comparisons due to extreme heterogeneity, and biological complication (mucositis) data are absent from the literature — firm protocol recommendations for multiple-unit FDPs are not yet warranted.
+
+## 세줄요약
+
+복수 임플란트 지지 고정성 국소의치(FDP, ≥2임플란트) 전용 SR+MA(14편, 21코호트군, ≥3년 추적); 9개 식립·부하 프로토콜 중 5개만 문헌에 존재.
+
+즉시식립-즉시부하(IPIL)를 제외한 모든 조합에서 생존율 >90%; 3개 RCT 메타분석 결과 DPIL(97.2%) vs DPDL(98.1%) 생존율 차이 없음(p=.227).
+
+GRADE 근거확실성은 전 비교에서 '매우 낮음'이며 구강점막염 보고는 0편 — 다수 임플란트 FDP 프로토콜에 대한 확실한 권고는 아직 불가.
 
 ## 1. Document Information
 

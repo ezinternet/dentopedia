@@ -14,13 +14,21 @@ source_collection: external
 
 임플란트 픽스처-어버트먼트 연결부(fixture-abutment connection) 설계의 외부/내부 연결 차이는 임상 프로토콜, 합병증 발생률, 골 응력 분산에 직접 영향을 미친다. 한국 임상 맥락에서 이 내용을 정리한 KDA 교육 리뷰로, [[implants/ayoub-2024-abutment-bending-guide-one-piece-implant]]의 단일-구조 어버트먼트 굽힘 특성 논의와 연계하여 외부/내부 연결 생역학을 이해하는 배경 문서로 활용.
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review (Korean Dental Association, 2016) comparing external hexagon vs. internal connection implant systems across biomechanics, microgap, clinical procedures, and prosthetic applications.
+Narrative review (Korean Dental Association, 2016) comparing external hexagon vs.
 
-## 한줄요약
+internal connection implant systems across biomechanics, microgap, clinical procedures, and prosthetic applications.
+
+(incomplete)
+
+## 세줄요약
 
 대한치과의사협회지 2016년 서술 리뷰 — 외부 육각형 연결과 내부 연결 임플란트 시스템을 생역학, 마이크로갭, 임상 술식, 보철 적용 측면에서 비교.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

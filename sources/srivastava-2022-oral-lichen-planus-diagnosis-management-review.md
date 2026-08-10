@@ -9,8 +9,21 @@ pdf_filename: srivastava-2022-oral-lichen-planus-diagnosis-management-review.pdf
 source_collection: external
 ---
 
-## One-line Summary
-OLP 진단 기준, 임상 유형 분류, 병리기전, 치료 옵션 전반을 다루는 실용적 임상 고찰.
+## Three-line Summary
+
+OLP 진단 기준, 임상
+
+유형 분류, 병리기전, 치료
+
+옵션 전반을 다루는 실용적 임상 고찰.
+
+## 세줄요약
+
+OLP 진단 기준, 임상
+
+유형 분류, 병리기전, 치료
+
+옵션 전반을 다루는 실용적 임상 고찰.
 
 ## 1. Document Information
 - **Title**: Diagnosis and management of oral lichen planus — Review
@@ -36,7 +49,7 @@ Erosive/atrophic OLP가 증상 심하고 악성전환 위험 높음. 1차 치료
 RCT 부재; 치료 효과 비교 근거 약함.
 
 ## 6. Related Work
-- [[oral-medicine/gonzalez-moles-2021-lichen-planus-malignant-transformation-sr]] — related
+- [[oral-medicine/opmd/gonzalez-moles-2021-lichen-planus-malignant-transformation-sr]] — related
 
 ## 7. Glossary
 fluocinolone acetonide: 플루오시놀론 아세토나이드; tacrolimus: 타크롤리무스; bullous OLP: 수포형 OLP

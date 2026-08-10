@@ -9,8 +9,21 @@ pdf_filename: opatragoon-2024-primer-applications-zirconia-bond.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Eur J Dent 2024;18:1004-1011: multiple primer applications (1 vs 2 vs 3 coats) on dental zirconia SBS — additional applications do not significantly increase SBS beyond single application; 1 coat is sufficient.
+## Three-line Summary
+
+Eur J Dent 2024;18:1004-1011: multiple primer applications (1 vs 2
+
+vs 3 coats) on dental zirconia SBS — additional applications
+
+do not significantly increase SBS beyond single application; 1 coat is sufficient.
+
+## 세줄요약
+
+Eur J Dent 2024;18:1004-1011: multiple primer applications (1 vs 2
+
+vs 3 coats) on dental zirconia SBS — additional applications
+
+do not significantly increase SBS beyond single application; 1 coat is sufficient.
 
 ## 1. Key Results
 - Tested multiple MDP primer application numbers on zirconia SBS

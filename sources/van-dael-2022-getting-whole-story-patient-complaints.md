@@ -12,11 +12,21 @@ source_collection: external
 ## Why Ingested
 Shows the downstream payoff of structured complaint classification ([[complaint-management/bmjqs-2015-004596]]): coded complaints linked to staff incident reports surface safety signals staff miss. Reframes complaints as a patient-safety data source, not just a service grievance.
 
-## One-line Summary
-Retrospective linkage of 5 years of complaints and staff incident reports at a London hospital; overlapping cases (n=446) carried higher harm and revealed events staff missed.
+## Three-line Summary
 
-## 한줄요약
+Retrospective linkage of 5 years of complaints and staff incident reports at a London hospital;
+
+overlapping cases (n=446) carried higher harm and revealed events staff missed.
+
+(incomplete)
+
+## 세줄요약
+
 런던 대형병원 5년치 민원·직원 사고보고 후향적 연결 — 중복 사례(446건)는 위해도가 높고 직원이 놓친 사건을 드러냄.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - Journal of Health Services Research & Policy 2022;27(1):41-49.

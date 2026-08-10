@@ -17,13 +17,21 @@ full_text: true
 
 Ti mesh 대안의 핵심 비교 논문. **d-PTFE Ti 강화막 vs Ti mesh + 가교화 콜라겐막** 을 직접 무작위 비교한 유일한 RCT. 두 술식의 수직골증대량(4.2 vs 4.1 mm, NS)·합병증률(15.0 vs 21.1%, NS) 동등성을 확인하며, d-PTFE막의 조작 용이성과 Ti mesh의 신경 손상 위험을 문헌화. [[wiki/implants/vertical-ridge-augmentation/cucchi-2024-ptfe-mesh-ti-mesh-vertical-ridge-rct]] 이전 동일 저자의 선행 파일럿 RCT.
 
-## One-line Summary
+## Three-line Summary
 
-Pilot RCT (n=40, posterior mandible): d-PTFE Ti-reinforced membrane vs Ti mesh + cross-linked collagen → VBG 4.2 vs 4.1 mm (NS); complications 15.0 vs 21.1% (NS); d-PTFE simpler to handle (fewer surgical complications 5% vs 15.8%).
+Pilot double-blind RCT (n=40, 108 simultaneous implants, posterior mandible) comparing Ti-reinforced d-PTFE membrane (Group A) vs Ti mesh + cross-linked collagen membrane (Group B) for vertical ridge augmentation, with 9-month submerged healing.
 
-## 한줄요약
+Vertical bone gain was equivalent (4.2 vs 4.1 mm, p=0.58); healing complications 15.0% vs 21.1% (NS); d-PTFE had fewer surgical complications (5% vs 15.8%, NS) and was easier to handle; Ti mesh exposure caused 16.3% deficit in bone volume per cm² exposed.
 
-파일럿 RCT (n=40, 후방 하악): d-PTFE Ti 강화막 vs Ti 메쉬+가교화 콜라겐 → 수직골증대 4.2 vs 4.1 mm(NS); 합병증 15.0 vs 21.1%(NS); d-PTFE가 조작 더 간편(술중 합병증 5% vs 15.8%).
+Underpowered pilot study (designed for 35% complication difference) limited to single-center posterior mandible with no long-term implant outcome data.
+
+## 세줄요약
+
+파일럿 이중맹검 RCT (n=40, 동시 임플란트 108개, 하악 구치부) — Ti 강화 d-PTFE 막(A군) vs Ti 메쉬+가교화 콜라겐막(B군)의 수직골증대(Vertical Ridge Augmentation, VRA) 비교, 9개월 매몰 치유.
+
+수직골증대량(Vertical Bone Gain, VBG) 동등(4.2 vs 4.1 mm, p=0.58); 치유 합병증 15.0% vs 21.1%(NS); d-PTFE가 술중 합병증 더 적음(5% vs 15.8%, NS)·조작 간편; Ti 메쉬 노출 시 노출 cm²당 골부피 16.3% 감소.
+
+단일 센터·단일 술자·하악 구치부에 한정된 underpowered 파일럿(합병증 35% 차이 기준 설계)으로 장기 임플란트 결과 없음.
 
 ## 1. Document Information
 

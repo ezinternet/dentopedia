@@ -13,13 +13,21 @@ source_collection: external
 
 플라즈마 배치 2차(2026-05-31)에서 **machined vs rough 표면 모두**에서 탄소 제거·친수성·세포반응을 RNA 시퀀싱까지 동원해 본 기전 근거. [[wiki/implants/surface/plasma/wagner-2022-cold-atmospheric-plasma-implant-materials]](Harvard 같은 그룹)의 세포 기전 연구를 유전자발현 수준으로 확장.
 
-## One-line Summary
+## Three-line Summary
 
-In vitro study (machined and rough Ti discs): plasma significantly reduced surface carbon (p<0.001) and increased hydrophilicity (p<0.0001) without architecture change, promoted greater early-stage fibroblast and osteoblast attachment (differences diminishing after 12 h), and upregulated angiogenesis/proliferation genes (Apln, Crabp2 at 6 h in plasma-treated fibroblasts).
+In vitro study on machined and rough titanium discs testing plasma surface treatment for carbon removal, hydrophilicity, and cell/gene-expression responses in fibroblasts and osteoblasts (RNA sequencing included).
 
-## 한줄요약
+Plasma significantly reduced surface carbon (p<0.001) and increased hydrophilicity (p<0.0001) without altering surface architecture, and promoted greater early fibroblast and osteoblast attachment; differences diminished after 12 h, and angiogenesis/proliferation genes (Apln, Crabp2) were upregulated at 6 h in plasma-treated fibroblasts.
 
-machined·rough 티타늄 디스크 in vitro: 플라즈마는 표면 탄소 유의 감소(p<0.001)·친수성 증가(p<0.0001)를 형태변화 없이 달성하고, 섬유아세포·골모세포 초기 부착을 높였으며(12시간 후 차이 감소), 혈관신생·증식 유전자(Apln, Crabp2)를 6시간에 상향조절.
+The early-attachment benefit is transient (fades by 12 h) and all data are in vitro; clinical significance for peri-implant disease outcomes remains undetermined, and plasma should be applied immediately before cell/implant contact to capture peak benefit.
+
+## 세줄요약
+
+machined·rough 티타늄 디스크 in vitro 연구 — 플라즈마의 탄소 제거·친수성·세포 반응(RNA 시퀀싱)을 섬유아세포·골모세포에서 평가.
+
+플라즈마는 표면 탄소를 유의하게 감소시키고(p<0.001) 친수성을 증가시켰으며(p<0.0001) 형태 변화 없이 초기 세포 부착을 향상; 12시간 이후 차이는 감소했고 혈관신생·증식 유전자(Apln, Crabp2)는 6시간에 상향조절됨.
+
+초기 부착 이득은 일시적(12시간 후 소실)이며 모두 in vitro 결과이므로 임상 적용 시 식립 직전 처치로 최대 효과를 노려야 하고, 임플란트주위질환 임상 유의성은 추가 연구 필요.
 
 ## 1. Document Information
 

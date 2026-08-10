@@ -9,8 +9,21 @@ pdf_filename: lee-2011-isq-loading-protocol-prediction.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Prospective study (5-month, Asan Medical Center): ISQ values correlate with bone density and insertion torque; ISQ ≥65 at placement predicts successful early/immediate loading; ISQ trajectory monitored over 5 months.
+## Three-line Summary
+
+Prospective study (5-month, Asan Medical Center): ISQ values correlate with bone density and insertion torque
+
+ISQ ≥65 at placement predicts successful early/immediate loading
+
+ISQ trajectory monitored over 5 months.
+
+## 세줄요약
+
+Prospective study (5-month, Asan Medical Center): 임플란트 안정성 지수 (Implant Stability Quotient, ISQ) values correlate with 골 (Bone) density and insertion torque
+
+임플란트 안정성 지수 (Implant Stability Quotient, ISQ) ≥65 at placement predicts successful early/immediate loading
+
+임플란트 안정성 지수 (Implant Stability Quotient, ISQ) trajectory monitored over 5 months.
 
 ## 1. Document Information
 - **Journal**: Journal of Advanced Prosthodontics 2011; 3(2):76–80

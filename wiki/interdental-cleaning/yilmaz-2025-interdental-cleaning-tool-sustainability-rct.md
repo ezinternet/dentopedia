@@ -6,7 +6,7 @@ date: 2025-05-30
 doi: 10.1002/JPER.24-0551
 source: yilmaz-2025-interdental-cleaning-tool-sustainability-rct.md
 category: [interdental-cleaning]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: true
 pmid: "40444858"
@@ -20,13 +20,21 @@ relations:
     target: mancinelli-lyle-2024-water-flosser-vs-interdental-brush-rct
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Examiner-blinded RCT (n=54 completers, 24 weeks, periodontally healthy adults): rubber interdental picks were used regularly (≥3 days/week) for a mean 12.61/24 weeks vs 4.96/24 weeks for dental floss (p=0.003); between-group plaque/bleeding were similar but both negatively correlated with the number of weeks of regular use — adherence, not intrinsic efficacy, separated the tools.
+First RCT on interdental-cleaning tool adherence/sustainability (examiner-blinded, n=54 completers, Ege University Turkey; 24 weeks, infrequent recalls at weeks 8 and 24 to suppress Hawthorne effect) comparing rubber interdental picks (GUM) vs dental floss (GUM) in periodontally healthy adults.
 
-## 한줄요약
+Rubber picks were used regularly (≥3 days/week) for a mean 12.61/24 weeks vs 4.96/24 weeks for floss (p=0.003); plaque and bleeding indices were similar between groups but negatively correlated with weeks of regular use in both arms (p<0.05).
 
-검사자 맹검 무작위대조시험(RCT, n=54, 24주, 치주 건강 성인): 고무 치간 픽(rubber interdental pick)을 주 3일 이상 규칙적으로 사용한 주수는 평균 12.61/24주로 치실(dental floss) 4.96/24주보다 유의하게 높았다(p=0.003). 군 간 플라크·출혈 점수는 비슷했으나 규칙적 사용 주수와 음의 상관을 보여, 도구를 가르는 요인은 본질적 효능이 아니라 순응도(adherence)였다. 여기서 'sustainability'는 환경적 지속가능성이 아니라 사용 지속성/순응도이다.
+Adherence — not intrinsic device efficacy — is the key differentiator for real-world interdental cleaning outcomes; rubber picks are recommended for superior long-term adherence where interdental space permits passage.
+
+## 세줄요약
+
+치간 세정 도구 순응도/지속성에 관한 첫 RCT(검사자 맹검, n=54, 에게 대학 터키; 24주, 호손 효과 억제를 위해 8·24주에만 내원): 치주 건강 성인에서 고무 치간 픽(GUM) vs 치실(GUM) 비교.
+
+고무 치간 픽은 평균 12.61/24주, 치실은 4.96/24주의 규칙적 사용(≥3회/주)을 보여 치간 픽이 유의하게 높았고(p=0.003); 치태·출혈 지수는 두 군이 비슷했으나 규칙적 사용 주수와 두 군 모두 음의 상관(p<0.05).
+
+실제 치간 세정 결과를 결정하는 핵심 요소는 기기의 본질적 효능이 아닌 순응도이며; 치간 공간이 허용되는 경우 고무 치간 픽이 우월한 장기 순응도로 권장된다.
 
 ## Summary
 

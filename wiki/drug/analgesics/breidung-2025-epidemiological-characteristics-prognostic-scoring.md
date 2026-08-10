@@ -6,7 +6,7 @@ date: 2025-01-03
 doi: "10.3390/medicina61010066"
 source: breidung-2025-epidemiological-characteristics-prognostic-scoring.md
 category: [drug/analgesics]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 full_text: true
 pmid: "39859048"
@@ -21,13 +21,21 @@ relations:
     target: hohlfeld-2008-pyrazolinone-aspirin-antiplatelet-pharmacology
 ---
 
-## One-line Summary
+## Three-line Summary
 
-17-year single-center retrospective (n=68 histopathology-confirmed SJS/TEN) in which metamizole — a pyrazolone analgesic — was the single most frequent culprit drug (8 cases, ahead of allopurinol's 7); overall mortality 51%, and a CHAID classification tree (AUC 0.88) outperformed SCORTEN/Re-SCORTEN/ABCD-10 for mortality prediction.
+17-year single-center retrospective cohort (n=68 histopathology-confirmed SJS/TEN, Burn Unit Nuremberg Germany 2006–2023) analyzing culprit drugs, mortality predictors, and performance of legacy prognostic scores (SCORTEN, Re-SCORTEN, ABCD-10) vs a CHAID classification tree.
 
-## 한줄요약
+Metamizole (a pyrazolone analgesic) was the single most frequent culprit drug (8/68), ranking ahead of allopurinol (7); overall mortality was 51%; among legacy scores, only Re-SCORTEN discriminated survivors from non-survivors (3.0 vs 4.2, p=0.01); a CHAID classification tree (COPD, gender, hemoglobin, base excess) reached AUC 0.88 vs SCORTEN AUC 0.61.
 
-17년 단일기관 후향연구(조직검사 확진 SJS/TEN 68명)에서 **피린계 진통제 메타미졸(metamizole)이 단일 최다 원인약물(8건 > 알로푸리놀 7건)**, 전체 사망률 51%, 분류트리 모델(AUC 0.88)이 기존 SCORTEN 계열 점수보다 사망예측 우수.
+For dental drug-history taking, a reported "피린계 allergy" is not trivial — this class sits at the top of the SJS/TEN culprit list in populations where metamizole is commonly prescribed, reinforcing strict avoidance and substitution with acetaminophen.
+
+## 세줄요약
+
+17년 단일기관 후향 코호트(조직검사 확진 SJS/TEN 68명; 뉘른베르크 화상센터 2006–2023): 원인 약물·사망 예측인자·기존 예후 점수(SCORTEN·Re-SCORTEN·ABCD-10) vs CHAID 분류트리 성능 분석.
+
+메타미졸(Metamizole; 피린계 진통제)이 단일 최다 원인 약물(8/68건 > 알로푸리놀 7건); 전체 사망률 51%; 기존 점수 중 Re-SCORTEN만 생존군 vs 사망군 판별(3.0 vs 4.2, p=0.01); CHAID 분류트리(COPD·성별·헤모글로빈·염기과잉) AUC 0.88로 SCORTEN(0.61) 초과 — 단일기관으로 외적 타당성 미검증.
+
+치과 약물 병력 청취 시 "피린계 알레르기" 기록은 경시할 수 없음 — 메타미졸 처방이 흔한 지역에서 이 계열이 생명을 위협하는 중증 피부 약물 이상반응(Severe Cutaneous Adverse Reaction, SCAR) 최상위 원인이므로 아세트아미노펜(Acetaminophen) 대체 원칙 준수.
 
 ## Summary
 
@@ -61,4 +69,4 @@ Retrospective single-center cohort, Burn Unit, Klinikum Nuremberg (Germany), Jan
 
 - [[drug/analgesics/magesty-2026-adverse-events-oral-analgesics-third-molar-nma]] — extends the analgesic adverse-event picture to the life-threatening (SCAR) tail.
 - [[drug/anticoagulants/hohlfeld-2008-pyrazolinone-aspirin-antiplatelet-pharmacology]] — pyrazolinone (metamizole) pharmacology; this page adds the safety/hypersensitivity counterpart.
-- [[oral-medicine/kechichian-2024-erythema-multiforme-review]] — erythema multiforme, the milder end of the EM↔SJS/TEN differential spectrum.
+- [[oral-medicine/immune-mediated/kechichian-2024-erythema-multiforme-review]] — erythema multiforme, the milder end of the EM↔SJS/TEN differential spectrum.

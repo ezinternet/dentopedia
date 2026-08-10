@@ -13,13 +13,21 @@ source_collection: external
 
 교합 과부하가 임플란트 주위골에 미치는 영향을 다루는 [[wiki/overviews/implant-occlusion-loading-biomechanics-overview]] 종합 페이지에 동물모델 실험 근거가 부족했다. 본 연구는 개 상악에서 점진적 정적 교합력(100→200→300 g)이 BIC 및 골밀도에 미치는 영향을 조직학·조직형태계측학적으로 직접 측정한 유일한 점진적 프로토콜 동물실험으로, 진행성 부하가 BIC를 유의하게 높인다는 생역학적 근거를 제공하여 위 종합 페이지를 보강한다.
 
-## One-line Summary
+## Three-line Summary
 
 Animal (dog) histomorphometric RCT-analog: progressive static orthodontic loading (100→200→300 g, 9 wks) on 12 Biomet 3i implants in beagle maxillae significantly increased BIC vs unloaded controls (P = 0.018), with no difference in peri-implant bone density or crestal bone resorption.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 비글 개 상악에서 점진적 정적 교합력(100→200→300 g, 9주) 적용 임플란트(12개)가 무부하 대조군 대비 골-임플란트 접촉률(BIC)을 유의하게 높였고(P = 0.018), 골밀도 및 치조정 골흡수는 두 군 간 차이 없었다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

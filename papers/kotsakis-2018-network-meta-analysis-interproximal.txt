@@ -1,0 +1,70 @@
+Title: A Network Meta-analysis of Interproximal Oral Hygiene Methods in the Reduction of Clinical Indices of Inflammation
+
+Authors: Kotsakis GA, Lian Q, Ioannou AL, Michalowicz BS, John MT, Chu H.
+Journal: J Periodontol. 2018;89(5):558-570
+DOI: 10.1002/JPER.17-0368
+PMID: 29520910
+PMCID: PMC5984142
+Source: PubMed Central (full text, retrieved via PubMed MCP)
+
+Abstract
+
+Background
+A wide selection of Interdental Oral Hygiene (IOH) aids is available to consumers. Recommendations for selection are, however, limited by the lack of direct comparisons in available studies. We aimed to assess the comparative efficacy of IOH aids using Bayesian Network Meta-Analysis (BNMA).
+
+Methods
+Two independent reviewers performed a systematic literature review of randomized clinical trials assessing IOH aids, based on a focused question. Gingival inflammation (Gingival Index (GI), Bleeding-on-probing (BOP)) was the primary outcome and plaque and probing depth were secondary outcomes. A random-effects arm-based BNMA model was run for each outcome; posterior medians and 95% credible-intervals (CIs) summarized marginal distributions of parameters.
+
+Results
+A two-phase selection process identified 22 trials assessing 10 IOH aids as brushing adjuncts. Interdental brushes (IB) yielded the largest reduction in GI (0.23 [95% CI: 0.09, 0.37]) as toothbrushing adjuncts, followed by water-jet (WJ) (0.19 [95% CI: 0.14, 0.24]). Rankings based on posterior probabilities revealed that IB and WJ had the highest probability of being "best" (64.7% and 27.4%, respectively) for GI reduction, whereas the probability for toothpick and floss being the "best" IOH aids was near zero. Notably, except for toothpicks, all IOH aids were better at reducing GI as compared with control.
+
+Conclusions
+BNMA enabled us to quantitatively evaluate IOH aids and provide a global ranking of their efficacy. Interdental brushes and water-jets ranked high for reducing gingival bleeding, whereas toothpicks and floss ranked last. The patient-perceived benefit of IOH aids is not clear because gingival inflammation measures are physical indicators of periodontal health.
+
+Full Text
+
+Introduction
+
+Oral care over-the-counter products recorded nearly $5 billion in sales in 2012, according to a recent market survey. Dental floss, interdental brushes, waterjet devices, toothpicks and other interdental cleaning devices account for a substantial share of the market. Despite this sizeable retail market, relatively little data exists to enable oral health care professionals and consumers to compare among the many available products. In fact, the recent workshop consensus by the European Federation of Periodontology concluded "flossing cannot be recommended other than for sites of gingival and periodontal health, where inter-dental brushes will not pass through the interproximal area without trauma". Given that flossing was previously considered the gold standard for interproximal hygiene, these guidelines have further perplexed the selection of oral hygiene methods for interproximal cleaning.
+
+The association between interproximal oral hygiene (IOH) habits and reduction in plaque control has been well established. However, evidence regarding the most efficacious means of interdental tooth cleaning remains equivocal. Clinical studies on the efficacy of IOH aids are often industry-driven and such studies commonly employ a single intervention as compared to tooth brushing alone to test products of interest. Conventional pairwise meta-analysis is a valuable tool for comparing treatment effects between two interventions, but it has its limitations particularly when multiple interventions exist, such as in the case of oral hygiene aids. Network meta-analysis (NMA) has been introduced in oral health research as an approach that can combine direct and indirect comparisons among included studies. Thus, the aim of this study was to assess the comparative efficacy of IOH aids using Bayesian Network Meta-Analysis (BNMA).
+
+Methods
+
+PICO question: "For individuals physically able to perform oral hygiene tasks, will any specific means of interproximal tooth cleaning lead to greater reduction in plaque accumulation, gingival inflammation and pocket depth reduction in comparison to other means of interproximal tooth cleaning, or tooth brushing alone?" Gingival inflammation (GI, BOP) was the primary outcome; plaque and probing depth were secondary outcomes. PRISMA guidelines followed.
+
+Selection criteria: randomized clinical trials; IOH methods performed by physically competent persons; outcomes measuring gingival inflammation, plaque, or probing depth; at least 2 weeks follow-up. Exclusion: uncontrolled/non-randomized studies; fewer than 10 patients per group.
+
+Search strategy: Ovid Medline, EMBASE, Web of Science, 1/1/1980-04/17/2015, plus manual journal search. Two reviewers independently (G.K., A.I.), third reviewer (M.J.) for disagreements. Cohen's kappa used for inter-reviewer agreement.
+
+Data extraction: year, location, funding source, participants per arm, number of interventions, outcomes.
+
+Quality assessment: Cochrane Handbook risk-of-bias domains (selection, performance, detection, attrition, reporting bias) by two reviewers (G.K., M.J.).
+
+Statistical analysis: Random-effects arm-based (AB) Bayesian NMA model per outcome. Non-informative priors for fixed effects; weakly informative priors for covariance matrices. JAGS (v3.4.0) via "rjags" in R; MCMC Gibbs sampling, 4 chains x 100,000 samples after 50,000 burn-in; convergence via trace plots and Gelman-Rubin statistic. SUCRA (surface under the cumulative ranking curve) used for overall ranking (1 = best, 0 = worst).
+
+Results
+
+615 unique titles/abstracts identified; 544 excluded after title/abstract screening (kappa 0.85 [0.78, 0.91]); 71 full-text articles assessed, 49 excluded (kappa 0.80 [0.66, 0.95]); N=22 RCTs included in the NMA.
+
+Risk of bias: 4 studies low risk (Rosema 2011; Zimmer 2006; Mythri 2015; Jackson 2006); 1 study high risk (Walsh 1989); remaining unclear risk.
+
+Study characteristics: 22 RCTs, 18 interventions/combinations vs toothbrushing controls, grouped into 10 IOH method categories: flossing (FL), powered flossing (FL2), toothpicks (TP), toothpicks + intensive oral hygiene instruction (TO), water jet irrigation (WJ), interdental brushes (IB), gum massaging devices (MD), toothbrush only (Ctrl), powered/electric/sonic toothbrush (Powered Ctrl), powered control + water jet (PW). Arm sizes ranged N=10 to N=110. All studies reported gingival inflammation (mostly modified Quigley index; 2 studies reported BOP % only). Two studies reported plaque control record (%PCR) only and were excluded from plaque synthesis; remaining studies reported categorical plaque index (PI). Only 3 studies reported probing depth changes. 9/22 studies (40.9%) industry-funded.
+
+NMA results: 10 group nodes allowed 36 pairwise comparisons for PI and GI, 45 for BOP; only 3 comparisons (2 direct, 1 indirect) for PD due to sparse data.
+
+Toothpick + intensive oral hygiene instruction (TO) achieved greatest BOP reduction vs control (26.4% [95% CI 7.50, 45.4]); water-jet (WJ) second (19.3% [95% CI 16.2, 22.4]); floss (FL) and powered floss (FL2) significantly better than control but small effect size (FL 95% CI 5.1-10.3%, FL2 95% CI 2.0-11.2%). For GI, interdental brushes (IB) yielded the highest reduction (mean 0.23 [95% CI 0.09, 0.37]), WJ second (mean 0.19 [95% CI 0.14, 0.24]). For PI, IB outperformed most alternatives (mean 0.34 reduction vs control [95% CI 0.12, 0.56]). Only 6/21 active-treatment comparisons (excluding Ctrl/Powered Ctrl) were statistically significant for BOP.
+
+Treatment ranking: For BOP, TO (70.4%) and WJ (12.6%) most likely best. For GI, IB (64.7%) most likely best, followed by WJ. Highest SUCRA for PI was IB (95.5%), followed by PW. IB also ranked #1 for PD reduction.
+
+Discussion
+
+Interdental brushes and water-jets ranked high for reducing gingival bleeding; unsupervised flossing did not yield substantial reductions in gingival inflammation. Findings align with the 11th European Workshop in Periodontology consensus that flossing cannot be generally recommended for managing gingivitis except where interdental space is too limited for an interdental brush to pass without trauma. The NMA does not refute floss's efficacy for interproximal plaque removal when performed correctly — the technical difficulty of flossing likely explains its poor ranking versus other aids. Effectively performed flossing may still be efficacious against gingival inflammation and caries; professionally-supervised daily flossing reduced caries incidence by 40% in one schoolchildren study, but self-administered flossing trials largely failed to show a caries effect. Flossing is efficacious but its effective self-application is elusive; other adjuncts (interdental brushes, water-jet, toothpicks with instruction) have a higher likelihood of effectiveness.
+
+Strength: random-effects arm-based NMA model allowed inclusion of all possible treatment comparisons vs prior meta-analyses limited to direct estimates.
+
+Limitations: NMA models restricted to asynchronous per-outcome assessment (rankings vary by outcome and cannot be jointly modeled); small numbers of studies per intervention; heterogeneity in populations and IOH instruction methods; periodontal status of participants often unreported, precluding conclusions about pristine vs reduced periodontium (Christou et al. reported floss gave 50% less plaque reduction than interdental brushes in periodontitis patients, plausibly due to loss of papillary guidance); gingival inflammation is a physical indicator, not a patient-oriented outcome — OHRQoL measures were not captured.
+
+Conclusion
+
+Unsupervised flossing does not yield substantial reduction in gingival inflammation. Among 10 IOH aids, interdental brushes and water-jets ranked high for reducing gingival bleeding. No single IOH aid can be designated the universal gold standard — effectiveness depends on ease of use, appropriate instruction, interdental anatomy, and periodontal status. Practitioners should customize IOH aid recommendations and offer alternatives rather than universally prescribing one cleaning aid. Further well-designed, adequately powered trials are needed for more authoritative IOH selection guidelines.

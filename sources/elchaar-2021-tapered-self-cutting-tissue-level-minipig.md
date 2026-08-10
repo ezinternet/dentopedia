@@ -13,13 +13,21 @@ source_collection: external
 
 Tissue-level implant crestal bone behavior is a recurring clinical question; this pre-clinical study provides BIC and fBIC benchmarks for a novel fully tapered self-cutting tissue-level design (Straumann TLX) across three diameters in moderate bone quality, directly extending the evidence base reviewed in [[wiki/implants/atieh-2025-tissue-vs-bone-level-peri-implantitis-sr-ma]] regarding tissue-level implant crestal bone preservation advantages.
 
-## One-line Summary
+## Three-line Summary
 
-Animal (minipig, n=48 implants, 12 wk) non-inferiority study comparing a novel fully tapered self-cutting tissue-level implant (Straumann TLX) to the established Straumann Standard Plus across small/medium/large diameters in moderate bone: BIC was non-inferior (≈45–61% test vs 52–55% control), fBIC showed superior crestal bone maintenance for test implants, and insertion torques were markedly higher for the tapered design.
+Animal model (minipig, n=48 implants), 12-week submerged healing in moderate bone (Type 2/3), non-inferiority study comparing novel fully tapered self-cutting tissue-level implant (Straumann TLX) vs. established Straumann Standard Plus across three diameter groups (small/medium/large).
 
-## 한줄요약
+BIC was non-inferior across all diameters (TLX: 45–61% vs. Standard Plus: 52–55%, all p≥0.31), and fBIC (crestal bone level) was consistently higher (more coronal) for TLX implants, reaching statistical significance in small-diameter group (−19 vs −1026 μm, p=0.047).
 
-미니피그 하악(n=48개 임플란트, 12주 치유, 보통 골질) 비열등성 동물연구: 신규 완전 테이퍼형 자가절삭 조직 수준 임플란트(Straumann TLX)가 기존 Standard Plus 대비 BIC 비열등(≈45–61% vs 52–55%), fBIC(치조골 유지) 우위, 삽입 토크값 현저히 높음.
+Insertion torque in polyurethane bone surrogates was 4–5× higher for TLX (23–54 Ncm) than Standard Plus (5–11 Ncm), supporting primary stability for immediate/early placement; limitation is single 12-week timepoint without long-term follow-up and confounded variables (shape, thread design, osteotomy protocol differed simultaneously).
+
+## 세줄요약
+
+동물 모델(미니피그, n=48개 임플란트), 12주 침적 치유, 보통 골질(Type 2/3), 신규 완전 테이퍼형 자가절삭 조직수준 임플란트(Straumann TLX) vs. 기존 Straumann Standard Plus를 소/중/대 직경 3개 군에서 비교한 비열등성 연구.
+
+BIC 비열등성 확인 전 직경에서(TLX: 45–61% vs. Standard Plus: 52–55%, 모두 p≥0.31), fBIC(치조골 수준)는 TLX에서 일관되게 더 높았으며, 소직경 군에서 통계적 유의(−19 vs −1026 μm, p=0.047).
+
+폴리우레탄 골 대체재에서 삽입 토크는 TLX (23–54 Ncm)가 Standard Plus (5–11 Ncm) 대비 4–5배 높아 조기·즉시식립 가능성 시사; 제한점은 단일 12주 관찰 및 형태·나선·골절제 프로토콜이 동시에 다른 교란변수.
 
 ## 1. Document Information
 

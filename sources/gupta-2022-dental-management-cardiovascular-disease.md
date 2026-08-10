@@ -10,8 +10,21 @@ pdf_filename: gupta-2022-dental-management-cardiovascular-disease.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Narrative review covering dental management of 7 major CVD categories: hypertension (BP thresholds, drug interactions), IHD/MI (no elective <30 days post-MI), arrhythmia, IE, heart failure, stroke, pacemaker.
+## Three-line Summary
+
+Narrative review covering dental management of 7 major CVD
+
+categories: hypertension (BP thresholds, drug interactions), IHD/MI (no elective
+
+<30 days post-MI), arrhythmia, IE, heart failure, stroke, pacemaker.
+
+## 세줄요약
+
+Narrative review covering dental management of 7 major CVD
+
+categories: hypertension (BP thresholds, drug interactions), IHD/MI (no elective
+
+<30 days post-MI), arrhythmia, IE, heart failure, stroke, pacemaker.
 
 ## 1. Document Information
 - Journal: Reviews in Cardiovascular Medicine 23(8):261 (July 2022)

@@ -6,7 +6,7 @@ date: 2026-03-31
 doi: 10.6026/973206300221560
 source: chandode-2026-no-preparation-conventional-veneers-clinical-considerations.md
 category: [veneers]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: true
 pmid: "42145353"
@@ -22,13 +22,21 @@ relations:
     target: klein-2025-ceramic-laminate-veneer-survival-complications-sr-ma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review (Bioinformation 2026) comparing no-preparation vs conventional porcelain veneers: both reach high survival (91–100%; no-prep mean ~97% vs conventional ~92%, no-prep success up to 97.4% when enamel-bonded), but no-prep is contraindicated for intrinsic discoloration, misalignment, or major morphological/contour correction — supporting a patient-specific, enamel-centered approach where the two techniques are complementary rather than competing.
+Narrative review (Bioinformation 2026) comparing no-preparation (MPV) and conventional (CV) porcelain veneers across survival, enamel preservation, and biologic outcomes from a representative study sample (no formal systematic search).
 
-## 한줄요약
+Both techniques achieve high survival (91–100%); no-prep achieves a slightly higher mean (~97% vs ~92%) and up to 97.4% success when bonded to enamel, but study heterogeneity in survival/failure definitions limits direct comparisons.
 
-무삭제(no-prep) 비니어와 통상(conventional) 비니어를 비교한 narrative review (Bioinformation 2026). 두 술식 모두 생존율 91–100%(무삭제 평균 ~97% vs 통상 ~92%, 법랑질 접착 시 무삭제 성공률 최대 97.4%)로 높지만, 내인성 변색·부정정렬·형태 큰 수정이 필요하면 무삭제는 부적응 — 환자별·법랑질 중심으로 두 술식을 경쟁이 아닌 상호보완으로 선택할 것.
+No-prep is contraindicated for intrinsic discoloration, misalignment, and significant morphological corrections requiring controlled reduction; the decisive clinical message is that MPV and CV are complementary, patient-specific choices organized around enamel preservation.
+
+## 세줄요약
+
+내러티브 리뷰 (Bioinformation 2026): 무삭제(No-Preparation, MPV)와 통상(Conventional, CV) 도재 비니어를 생존율·법랑질 보존·생물학적 결과 측면에서 비교 (공식 체계적 검색 없음).
+
+두 술식 모두 생존율 91–100% (무삭제 평균 ~97% > 통상 ~92%), 법랑질 접착 시 무삭제 성공률 최대 97.4%; 단, 연구별 생존·실패 정의가 달라 직접 비교 한계.
+
+내인성 변색·부정정렬·큰 형태 수정 필요 시 무삭제는 금기 — MPV와 CV는 법랑질 중심의 환자별 상호보완적 선택으로 재정의.
 
 ## Summary
 

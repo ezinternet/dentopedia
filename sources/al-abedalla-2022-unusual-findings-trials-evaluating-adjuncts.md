@@ -13,13 +13,21 @@ source_collection: external
 
 근거평가 카테고리에서 "단일 연구그룹의 비현실적으로 큰 효과크기를 통계·보고질로 비판적 검증"하는 사례를 보강한다. [[evidence-appraisal/choi-2015-statistical-validity-insadol-clinical-effectiveness]]가 단일 그룹 인사돌 데이터의 통계적 타당성을 의심했듯, 본 part 2는 SRP 부가요법 RCT 32편의 CONSORT 보고질·trial registration 불일치를 정량화해 임상의가 증거를 무비판적으로 수용하지 말아야 함을 보여준다.
 
-## One-line Summary
+## Three-line Summary
 
-Methodological quality assessment (CONSORT + trial-registration audit) of 32 RCTs on SRP adjuncts published 2010–2017 by a single research group (GDCRI, Bangalore); all RCTs scored low on reporting quality, most CONSORT items <50% (including randomization, registration, blinding), only 38% had follow-up periods consistent with declared trial start/end dates — so the group's unusually large effect sizes should be viewed with extreme caution.
+Meta-research / CONSORT + trial-registration audit (32 RCTs, 2010–2017) of a single prolific research group (GDCRI, Bangalore) whose SRP-adjunct trials reported unusually large effect sizes never reproduced by other groups.
 
-## 한줄요약
+All 32 RCTs showed low reporting quality with most CONSORT items <50% fulfilled (including randomization, registration, and blinding items); only 38% presented follow-up periods consistent with declared trial start/end dates.
 
-단일 연구그룹(인도 GDCRI)이 2010–2017년 발표한 SRP 부가요법 RCT 32편의 보고질(CONSORT)·임상시험 등록 일치성 감사로, 모든 RCT가 낮은 보고질을 보였고 대부분 CONSORT 항목이 50% 미만(무작위배정·등록·맹검 포함), 등록기록과 추적기간이 일치한 RCT는 38%뿐이어서, 이 그룹이 보고한 비정상적으로 큰 효과크기는 극도의 주의가 필요하다는 메타-연구(part 2).
+The combined evidence of poor reporting quality, systematic registration discrepancies, and implausible timelines provides a concrete methodological explanation for the non-reproducible large effects — clinicians should treat this body of literature with extreme caution.
+
+## 세줄요약
+
+단일 연구그룹(인도 GDCRI)이 2010–2017년 발표한 SRP 부가요법 RCT 32편에 대한 CONSORT 보고질·임상시험 등록 일치성 사전등록 감사 연구(part 2).
+
+모든 32편이 낮은 보고질을 보였고 대부분 CONSORT 항목이 50% 미만(무작위배정·등록·맹검 포함), 등록 기간과 추적기간이 일치하는 RCT는 38%에 불과.
+
+낮은 보고질 + 등록 불일치 + 비현실적 타임라인이 중첩되어 이 그룹이 보고한 비정상적 효과크기의 신뢰성 상실을 구체적으로 설명하며, 임상의는 해당 문헌군을 극도로 주의해서 해석해야 한다.
 
 ## 1. Document Information
 

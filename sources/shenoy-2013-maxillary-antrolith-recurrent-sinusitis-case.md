@@ -17,13 +17,21 @@ text_filename: shenoy-2013-maxillary-antrolith-recurrent-sinusitis-case.txt
 
 상악동석이 재발성 상악동염과 구강상악동루(Oroantral Fistula)를 유발한 증례. Caldwell-Luc 수술 과거력이 있는 환자에서 잔류 골편이 상악동석의 nidus가 된 메커니즘을 설명. [[sinus-lift/pseudocyst/tan-2020-maxillary-antrolith-case-report-management]]의 무증상 소형 증례와 대비되는 증상성 대형(2×1cm) 증례.
 
-## One-line Summary
+## Three-line Summary
 
-Case report of a large (2×1cm) symptomatic maxillary antrolith causing recurrent sinusitis and oroantral fistula, arising from residual bone chips post-Caldwell-Luc; managed with repeat Caldwell-Luc and endoscopic sinus surgery.
+Case report of a large (2×1cm) symptomatic maxillary antrolith causing recurrent sinusitis and oroantral fistula, arising from residual bone chips post-Caldwell-Luc;
 
-## 한줄요약
+managed with repeat Caldwell-Luc and endoscopic sinus surgery.
 
-과거 Caldwell-Luc 수술 후 잔류 골편을 nidus로 형성된 2×1cm 대형 상악동석이 재발성 상악동염·구강상악동루를 유발한 증례; 반복 Caldwell-Luc+ESS로 제거.
+(incomplete)
+
+## 세줄요약
+
+과거 Caldwell-Luc 수술 후 잔류 골편을 nidus로 형성된 2×1cm 대형 상악동석이 재발성 상악동염·구강상악동루를 유발한 증례;
+
+반복 Caldwell-Luc+ESS로 제거.
+
+(incomplete)
 
 ## 1. Document Information
 

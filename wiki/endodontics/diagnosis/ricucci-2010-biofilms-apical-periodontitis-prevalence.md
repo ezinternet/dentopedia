@@ -6,7 +6,7 @@ date: 2010-08-01
 doi: 10.1016/j.joen.2010.04.007
 source: ricucci-2010-biofilms-apical-periodontitis-prevalence.md
 category: [endodontics/diagnosis]
-confidence: cross-sectional
+evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/ricucci-2010-biofilms-apical-periodontitis-prevalence.pdf
 pdf_filename: ricucci-2010-biofilms-apical-periodontitis-prevalence.pdf
 source_collection: external
@@ -18,13 +18,21 @@ relations:
     target: karamifar-2020-endodontic-periapical-lesion-an-overview
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Cross-sectional histobacteriologic study (Ricucci & Siqueira 2010, J Endod) of 106 roots with apical periodontitis: intraradicular biofilms in 77% of canals (untreated 80%, treated 74%), increasing with lesion size and significantly associated with epithelialized lesions (cysts 95%, abscesses 83%, granulomas 69.5%; p<0.001); extraradicular biofilms only 6%.
+Cross-sectional histobacteriologic study (Ricucci & Siqueira 2010, J Endod) of 106 roots with apical periodontitis (64 untreated, 42 treated) obtained by apical surgery or extraction, serially sectioned and stained for biofilm presence in apical canal, ramifications, and extraradicularly.
 
-## 한줄요약
+Intraradicular biofilms were present in 77% of all canals — strikingly similar between untreated (80%) and treated (74%) roots — and prevalence rose with lesion size (small 62% → very large 100%); biofilms were significantly more frequent in epithelialized lesions (cysts 95%, abscesses 83%, granulomas 69.5%; p<0.001); extraradicular biofilm occurred in only 6%.
 
-Ricucci & Siqueira (2010, J Endod) — 치근단치주염 치아 106개 치근에서 근관 내 바이오필름 77%(미치료 80%·치료 74%), 병소가 클수록·상피화 병소(낭종 95%·농양 83%·육아종 69.5%)일수록 유의하게 증가(p<0.001), 근관 외 바이오필름은 6%에 불과 — 치근단치주염을 바이오필름 유발 질환으로 분류.
+Standard root canal treatment does not reliably eradicate the apical biofilm, which explains persistent apical periodontitis; biofilm presence does not correlate with clinical symptoms, underscoring the silent nature of biofilm-driven endodontic infection.
+
+## 세줄요약
+
+Ricucci & Siqueira (2010, J Endod) 단면 조직세균학 연구: 치근단치주염 치근 106개(미치료 64개·치료 42개)를 외과적 발치 또는 치근단 절제 후 연속 절편·그람 변법 염색으로 근관 내·분지·근관 외 바이오필름 존재 평가.
+
+근관 내 바이오필름 전체 77% — 미치료(80%)와 치료(74%) 간 현저히 유사; 병소 클수록 증가(소 62%→매우 큰 병소 100%); 상피화 병소에서 유의하게 높음(낭종 95%·농양 83%·육아종 69.5%; p<0.001); 근관 외 바이오필름은 6%에 불과.
+
+통상 근관치료는 근단 바이오필름을 신뢰성 있게 제거하지 못해 지속성 치근단치주염의 기전을 설명; 바이오필름 존재는 임상 증상과 무관하여 치내치 감염의 무증상 특성을 뒷받침.
 
 ## Summary
 

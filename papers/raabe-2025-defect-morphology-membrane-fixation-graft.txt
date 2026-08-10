@@ -1,0 +1,98 @@
+The Effect of Defect Morphology and Membrane Fixation on 3D Graft Material Displacement During Primary Wound Closure in Horizontal Bone Augmentation—An Ex Vivo Study
+
+Raabe C, Cafferata EA, Zhou W, et al. 2025. Clinical Oral Implants Research.
+PMID: 41194314 | PMCID: PMC12975682 | DOI: 10.1111/clr.70072
+Source: PubMed Central full text (https://pmc.ncbi.nlm.nih.gov/articles/PMC12975682/)
+
+ABSTRACT
+
+Objectives
+This preclinical study evaluated the influence of two defect morphologies on graft material displacement (GMD) during primary wound closure in horizontal bone augmentation (HBA). Secondary aims included assessing the effect of membrane stabilization and the role of local soft tissue characteristics on GMD.
+
+Materials and Methods
+Standardized HBA procedures following guided bone regeneration principles were performed on fresh pig hemimandibles. Each mandible received two sequential HBAs, randomized for defect morphology—partially contained (PCD) vs. contained (CD)—and membrane stabilization with (+Pins) or without (−Pins) four fixation pins. GMD was assessed using cone-beam computed tomography and intraoral scanning by comparing graft dimensions before and after wound closure, at nine levels from the implant platform and across nine delimited sections, respectively.
+
+Results
+Sixty HBA procedures were analyzed. A notable GMD was observed for both PCD and CD, with no significant differences between them. In contrast, membrane stabilization significantly reduced three-dimensional GMD across all sections, with the most pronounced effect in the central-crestal section (p < 0.001). At the implant platform level, GMD was −15.8% ± 25.6% with pins vs. −38.1% ± 27.4% without pins (p < 0.001). Across all groups, GMD occurred in an apico-lateral direction, with the greatest volume loss in the central-crestal, mesial, and distal crestal sections. Soft tissue phenotype did not affect GMD (p ≥ 0.240).
+
+Conclusion
+Defect morphology did not significantly influence the notable apico-lateral GMD. However, membrane stabilization using pins effectively reduced graft displacement, minimizing movement during primary wound closure.
+
+1. Introduction
+
+Tooth extraction initiates physiological wound healing processes that ultimately result in varying degrees of alveolar ridge deficiencies. Alveolar ridge defects can be classified as vertical and/or horizontal, with horizontal deficiencies further subdivided into contained and non-contained types, based on their potential to stabilize graft materials. These dimensional alterations can pose challenges for dental implant therapy for tooth replacement, often necessitating bone augmentation procedures either prior to or simultaneously with implant placement. Successful bone regeneration contributes to satisfactory long-term outcomes of dental implant therapy, with guided bone regeneration (GBR) being the most widely used and well-documented biological principle for horizontal bone augmentation (HBA).
+
+GBR employs barrier membranes to selectively allow the migration of osteogenic cells into the defect area while excluding undesired cell types. Non-resorbable PTFE membranes reinforced with titanium provide superior structural support but are associated with higher rates of postoperative complications and necessitate a second surgical intervention for removal. For this reason, resorbable membranes are often preferred clinically. However, when used without additional support, barriers are prone to collapsing into the defect site, thereby limiting the volume of regenerated tissue. Thus, to prevent membrane collapse and maintain the intended regenerative space, the use of bone graft materials is generally recommended.
+
+Effective graft stabilization is crucial for successful healing, as micromovements of graft materials contribute to integration failure. Fully contained defects (e.g., 4-wall defects in fresh extraction sites with intact socket walls) are considered to provide ideal stability for graft materials. In contrast, resorption of the facial bone wall during early healing often transforms a 4-wall defect into a 3-wall defect with pronounced orofacial dimensions. In these cases, graft material stabilization relies primarily on the remaining adjacent bone walls, and membrane stabilization is typically not required. However, as healing progresses, ongoing remodeling of the alveolar ridge could lead to more extensive deficiencies, compromising natural graft containment and potentially necessitating additional measures to ensure adequate graft stabilization.
+
+Although HBAs have demonstrated clinical effectiveness, recent studies highlight the risk of intraoperative graft material displacement (GMD) during flap manipulation for primary wound closure. Particulate grafts covered with collagen membranes are susceptible to significant collapse, particularly at the crestal level of the grafted area. The extent of this collapse varies depending on grafting technique, material properties, and flap advancement technique. Nevertheless, the specific impact of defect morphology on GMD, as well as optimal strategies for maintaining graft stability, remains underexplored.
+
+This preclinical study aimed to evaluate the effect of two distinct defect morphologies on GMD during primary wound closure in the context of HBA. Secondary objectives included assessing the effect of membrane stabilization with four fixation pins and the influence of local soft tissue characteristics on GMD. Null hypotheses: defect morphology (H01), membrane stabilization (H02), and soft tissue phenotypical characteristics (H03) would not affect GMD.
+
+2. Materials and Methods
+
+Conducted at the Department of Oral Surgery and Implantology, Goethe University, Carolinum, Frankfurt am Main, Germany (October–November 2024), adhering to ARRIVE guidelines 2.0. Fresh hemi-mandibles from 30-week-old pigs (n = 30) were obtained from a local butcher; ethics approval was not required (ex vivo animal-tissue study). Before surgery, soft-tissue phenotypic characteristics — width of keratinized mucosa (KMW) and flap thickness (FT) — were recorded using a PCPUNC15 probe and an endodontic file. Flap thickness was measured at 3, 6, and 9 mm apically from the gingival margin.
+
+2.1 Surgical Procedure
+Hemimandibles were randomly allocated to one of two standardized horizontal bone defects at the second premolar sites. For each hemimandible, two HBA procedures were performed sequentially, randomized for membrane fixation. All procedures were performed by a single, experienced, board-certified oral surgeon using a standardized trapezoidal full-thickness flap with sulcular incision and two vertical releasing incisions. A modified periosteal releasing incision (~0.5 mm depth followed by blunt stretching) allowed tension-free flap advancement. After epicrestal decoronation of the second premolar, standardized bone defects (mesio-distal width × apico-coronal height × oro-facial depth) were created, each with a defect volume of 144 mm³.
+
+A dental implant (SPI Element 4.0 × 12.5 mm MC, Thommen Medical) was placed per manufacturer guidelines, implant platform aligned to the lingual bone crest, outer circumference 1 mm within the bony envelope.
+
+Defects were augmented using particulate xenograft (BioOss, Geistlich) soaked in radiocontrast agent (Gastrografin), over-contoured by 2 mm (initial graft thickness GMT_0 = 3 mm). A collagen membrane (BioGide, Geistlich) was applied with or without four fixation pins (Frios Membrane Tacks, Dentsply Sirona).
+
+Four study groups (equal sample sizes): PCD−Pins, PCD+Pins, CD−Pins, CD+Pins.
+
+An intraoral scan (IOS_1, Trios 5 wireless, 3Shape) and CBCT (CBCT_1, PaX-Reve3D, Vatech) of the "open-wound" situation were taken. A blinded clinician performed standardized primary wound closure (one horizontal mattress suture + nine single interrupted sutures, Optilene 5-0), verifying flap tension ≤0.1 N with a spring dynamometer. After wound closure, a second CBCT (CBCT_2) was obtained. Sutures were then gently removed, the flap reflected without disturbing the membrane, and a second intraoral scan (IOS_2, "re-opened-wound") was taken. All graft materials were removed, the site rinsed, and a second HBA procedure conducted with membrane fixation alternated.
+
+2.2/2.3 Analysis
+CBCT datasets analyzed with byzz nxt software; cross-sectional images perpendicular to mandibular curve and implant axis. Horizontal graft material thickness measured before (GMT_1) and after (GMT_2) primary wound closure in 1 mm increments from implant platform to 8 mm apically (L0–L8). GMD (mm/%) calculated as the change. All measurements performed twice by a single calibrated investigator (intra-rater interval 1 month).
+
+3D volumetric changes assessed by superimposing IOS_1 and IOS_2 using Zeiss Inspect 2025 (best-fit algorithm on adjacent tooth surfaces). A standardized 12×12 mm ROI centered on the grafted site was subdivided into a 3×3 grid (nine 4×4 mm subsections). Differences between IOS_1/IOS_2 subsections were visualized as color-coded maps; mean ± SD displacement computed per subsection.
+
+2.4 Sample Size and Statistics
+Sample size calculated for Cohen's f = 0.75 (based on a prior GMD/flap-advancement project); one-way ANOVA, 4 groups, α = 0.05, 90% power → required total ~30 procedures (8/group); allowing pairwise post hoc comparisons increased requirement to 42 (~11/group). Study planned for 60 procedures (15/group), exceeding both thresholds.
+
+Intra-rater reliability assessed via intra-class correlation coefficient (ICC). Mann-Whitney U test (non-normal) or t-test (normal) for two-group comparisons; ANOVA or Kruskal-Wallis for >2 groups, with Tukey's or Dunn's (Bonferroni-corrected) post hoc tests. Regression analysis explored relationship between predictors (KMW, FT3, FT6, FT9, FA) and dimensional changes. Analyses in R (v4.2.3).
+
+3. Results
+
+60 procedures performed across 30 pig hemimandibles (n=15 per group: PCD−Pins, CD−Pins, PCD+Pins, CD+Pins). ICC for GMT measurements = 0.91 (high reliability).
+
+3.1 Defect Morphology
+Overall mean relative GMD for PCD vs. CD was not significantly different at any assessed level (p ≥ 0.068): −28.3% ± 28.2% vs. −28.6% ± 33.2% at L0 (implant platform); −14.8% ± 15.6% vs. −13.5% ± 19.3% at L1; −9.4% ± 13.9% vs. −5.4% ± 14.9% at L2. GMT_1/GMT_2 (mm) for PCD vs CD: 2.5±0.9 → 1.8±0.8 vs. 2.6±0.7 → 1.9±0.7 at L0; 3.3±0.8 → 2.8±0.8 vs. 3.3±0.6 → 2.9±0.6 at L1; 3.8±0.7 → 3.4±0.7 vs. 3.6±0.6 → 3.4±0.5 at L2.
+
+3.2 Membrane Fixation
+Overall mean relative GMD significantly smaller for Pins vs. no Pins: −15.8%±25.6% vs. −38.1%±27.4% at L0 (p<0.001); −7.7%±15.9% vs. −19.6%±17.1% at L1 (p<0.001); −4.0%±13.8% vs. −10.4%±13.9% at L2 (p=0.007). No significant differences at L3–L8 (p ≥ 0.141).
+
+3.3 Interaction Term Analysis
+At L0: CD+Pins vs CD−Pins −13.2%±27.5% vs −39.8%±28.7% (p=0.016); PCD+Pins vs PCD−Pins −18.3%±24.3% vs −36.3%±26.3% (p=0.046). No significant differences between defect morphologies within pin/no-pin subgroups, or at other levels.
+
+3.4 Volumetric (IOS) GMD
+GMD occurred predominantly in an apico-lateral direction, with greatest loss consistently in the central-crestal section across all groups, followed by mesial and distal crestal sections. Volume gains noted in middle and apical sections. No significant PCD vs CD differences across the nine sections (p ≥ 0.086). GMD significantly lower with Pins vs no Pins in all sections except apical-distal (p ≤ 0.040). Within subgroups, significantly lower GMD in the three crestal sections for CD+Pins vs CD−Pins and PCD+Pins vs PCD−Pins (p ≤ 0.031).
+
+3.5 Soft Tissue Characteristics
+Mean KMW 7.6±1.1 mm; FT3 1.2±0.3 mm; FT6 1.1±0.4 mm; FT9 0.8±0.2 mm; FA (flap advancement) 8.7±1.0 mm. No statistically significant associations between KMW/FT3/FT6/FT9/FA and GMD (p ≥ 0.240).
+
+4. Discussion
+
+The study revealed notable apico-lateral GMD during primary wound closure regardless of whether the defect was partially contained or contained; this was not significantly affected by soft tissue characteristics. Membrane stabilization with four pins significantly reduced GMD. Hypotheses H01 and H03 were rejected (no effect found — i.e., defect morphology and soft tissue phenotype did NOT significantly affect GMD, consistent with the null), while H02 (membrane stabilization would not affect GMD) was rejected in the sense that pins DID significantly reduce GMD.
+
+No significant difference in GMD was observed between PCD and CD at the implant platform (−28.3%±4.2% and −28.5%±2.7% respectively), possibly attributable to graft over-contouring beyond the bony envelope compensating for expected postoperative remodeling. Reported GMD values align with the previously published range of −23% to −65% from other primary-wound-closure GMD studies (though those examined factors other than defect morphology).
+
+Membrane stabilization with four pins reduced GMD at the implant platform to −15.7%±16.1% (pin group) vs. −38%±9.4% (no-pin group). Prior studies reported GMD of −22.9%±21.2% for two-pin stabilization at the defect base and −14.2%±11.5% for periosteal suturing — suggesting four pins or periosteal suturing may be more effective than two pins alone by stabilizing a larger area. Assuming baseline GMT_0 = 3 mm, final GMT_2 was comparable (1.7–1.9 mm) across all groups regardless of defect type or membrane stabilization — but GMT_1 (after membrane, before closure) measured 2.9 mm (no-pin) vs. 2.2 mm (pin group), suggesting pin placement compresses the graft via membrane tension, while similar compression in no-pin sites occurs during flap closure itself. This implies graft compression is inevitable regardless of stabilization method — clinicians should over-augment accordingly; membrane fixation shifts the timing of compression, allowing reshaping after pin placement for greater procedural predictability.
+
+Alternative strategies to reduce GMD include L-shaped soft-block bone substitutes, titanium-reinforced membranes, or autogenous block grafts. Findings align with a micro-CT animal study showing membrane fixation in contained defects did not impact final ridge volume achieved through GBR. However, membrane stabilization may offer visual control over graft shaping prior to flap closure. Reported dimensional reductions for grafted ridges during healing are substantial (~26% after 4 months, up to 42% within the first postoperative year), underscoring the need for overcontouring and precise graft-dimension control.
+
+The volumetric (IOS-based) analysis complemented CBCT by elucidating GMD directionality across the entire grafted site (CBCT unsuitable for surface reconstruction due to metal artifact, thresholding issues, and limited spatial resolution near the implant). GMD occurred apico-laterally with the most pronounced loss in the central-crestal section (corresponding to the crestal implant region), followed by mesial/distal crestal sections — regions critical for esthetics (soft-tissue support) and peri-implant health (buccal bone wall thickness maintenance). This apico-lateral displacement was significantly reduced with four-pin membrane stabilization.
+
+Phenotypic soft-tissue characteristics were not associated with GMD, consistent with a prior study on flap advancement technique and GMD that found no confounding influence of flap characteristics. Standardized flap advancement (flap tension ≤0.1 N target) across groups may explain this; insufficient advancement could increase flap tension and forces on the augmented site — tensions above the threshold have been associated with significantly more wound dehiscence.
+
+Limitations: (1) standardized mandibular defect morphologies do not fully reflect clinical diversity, and gravitational effects in the maxilla may yield different outcomes; (2) ex vivo design does not replicate dynamic postoperative factors (muscular activity, mechanical forces, tissue swelling, healing); (3) despite careful handling, slight positional shifts during wound reopening for IOS_2 cannot be entirely ruled out, potentially biasing non-pin-fixation sites; (4) two procedures within the same hemi-mandible (sequential, randomized) may introduce intra-subject correlation, potentially affecting estimate precision; (5) future studies should investigate GMD in defect configurations with vertical components and evaluate GMD's clinical impact on long-term graft integration/stability.
+
+5. Conclusions
+
+Within study limitations: GMD during primary wound closure in HBA procedures was substantial and occurred in an apico-lateral direction regardless of defect morphology (partially contained vs. contained) or local soft tissue phenotype; four-pin membrane stabilization significantly reduced GMD, particularly at the crestal/implant-platform level.
+
+Author Contributions / Ethics / Conflicts of Interest
+Authors declare no conflicts of interest. Ethics approval not required (ex vivo pig hemimandible tissue from a butcher).

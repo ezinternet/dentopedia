@@ -11,15 +11,23 @@ source_collection: external
 
 ## Why Ingested
 
-하악 구치부 임플란트 식립 후 발생하는 감각이상(altered sensation / paresthesia)의 이환율, 원인, 경과, 치료에 대한 체계적 문헌 고찰이며, 국내 구강악안면외과 전문 석사논문으로서 한국 임상 맥락의 데이터(치과의사 설문 포함)를 포함한다. 기존 [[oral-surgery/lee-2015-inferior-alveolar-nerve-injury-management]] 페이지가 단일 증례(제3대구치 발거 후 IAN 손상)를 다루는 반면, 이 논문은 임플란트-특이적 IAN/정신신경/설신경 손상을 이환율 관점에서 종합한다.
+하악 구치부 임플란트 식립 후 발생하는 감각이상(altered sensation / paresthesia)의 이환율, 원인, 경과, 치료에 대한 체계적 문헌 고찰이며, 국내 구강악안면외과 전문 석사논문으로서 한국 임상 맥락의 데이터(치과의사 설문 포함)를 포함한다. 기존 [[oral-surgery/nerve-injury/lee-2015-inferior-alveolar-nerve-injury-management]] 페이지가 단일 증례(제3대구치 발거 후 IAN 손상)를 다루는 반면, 이 논문은 임플란트-특이적 IAN/정신신경/설신경 손상을 이환율 관점에서 종합한다.
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review (15 articles, PubMed 1990–2009 + Korean OMFS journal) of altered sensation following posterior mandibular implant placement: incidence 0–55%, mostly transient (resolves within 6 months), involving IAN, mental nerve, or lingual nerve, managed with NSAIDs non-surgically and microneuroanastomosis surgically.
+Narrative review (Korean OMFS master's thesis; 15 articles, PubMed 1990–2009 + Korean OMFS journal) of altered sensation following posterior mandibular implant placement, including incidence data from 5 clinical studies (3 retrospective, 2 prospective) and a dentist-survey dataset.
 
-## 한줄요약
+Reported incidence ranged widely from 0.08% (large prospective, 1,527 patients) to 55% (retrospective dentist survey); most cases involved the IAN and were transient, resolving within 6 months (82–90%); female sex and diabetes mellitus were associated with higher risk.
 
-서사적 문헌 고찰(15편, 2010) — 하악 구치부 임플란트 식립 후 감각이상(Altered Sensation)의 이환율은 0–55%로 문헌마다 상이하며, 대부분은 1차 수술 후 발생하고 일시적 손상은 6개월 이내 회복; 비외과적 치료는 NSAIDs, 외과적 치료는 미세신경문합술(Microneuroanastomosis).
+Non-surgical management uses NSAIDs (ibuprofen 800 mg); microneuroanastomosis is indicated for total anesthesia >3 months or dysesthesia >4 months; panoramic safety zone ≥2 mm above the mandibular canal is the primary prevention measure.
+
+## 세줄요약
+
+서사적 문헌 고찰(가톨릭대 치의학 석사논문; 15편, PubMed 1990–2009+한국 구강악안면외과학회지) — 임상연구 5편(후향 3, 전향 2) 및 치과의사 설문 포함, 하악 구치부 임플란트 후 감각이상(Altered Sensation) 종합.
+
+발생률은 전향 대규모(1,527명)의 0.08%~후향 치과의사설문의 55%로 큰 차이; 대부분 하치조신경(IAN) 침범, 일시적(82–90%가 6개월 내 회복); 여성·당뇨가 위험인자.
+
+비외과적 치료: NSAIDs(이부프로펜 800 mg); 전마취 >3개월·이상감각 >4개월이면 미세신경문합술; 파노라마 상 임플란트 선단 하악관 상방 ≥2 mm 안전구역이 핵심 예방기준.
 
 ## 1. Document Information
 

@@ -6,23 +6,28 @@ date: 2017-12-27
 doi: 10.1371/journal.pone.0190293
 source: chatvaratthana-2017-cortical-bone-crestal-buccolingual-isq.md
 category: [implants/isq]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/chatvaratthana-2017-cortical-bone-crestal-buccolingual-isq.pdf
 pdf_filename: chatvaratthana-2017-cortical-bone-crestal-buccolingual-isq.pdf
 source_collection: external
 tags: []
-relations:
-  - type: extends
-    target: chatvaratthana-2017-cortical-bone-thickness-isq-cbct
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Prospective study (n=19, Conelog, posterior jaws) showing crestal cortical bone thickness correlates strongly with ISQ at placement (r=0.885, p<0.001), with only 3 mm depth bone parameters (buccolingual cortical and cortical/cancellous ratio) being significant — 6 and 9 mm depths have no ISQ correlation.
+Prospective clinical study (19 Conelog implants, 16 patients, posterior mandible/maxilla) measuring CBCT-derived bone parameters at crestal, 3, 6, and 9 mm depths against ISQ at implant placement.
 
-## 한줄요약
+Crestal cortical bone thickness had the strongest correlation with ISQ (r=0.885, p<0.001); only 3 mm depth buccolingual cortical thickness (r=0.535, p=0.018) and cortical/cancellous ratio (r=0.488, p=0.034) were additionally significant — no parameters at 6 or 9 mm depth correlated with ISQ.
 
-전향적 연구(n=19, Conelog, 구치부): 치조정 피질골 두께가 ISQ와 강한 상관(r=0.885, p<0.001)이며, 3 mm 깊이의 협설측 피질골과 피질/해면골 비율만 유의—6·9 mm 깊이 파라미터는 ISQ와 무관.
+RFA primarily measures marginal bone stiffness within the crestal 3 mm zone; cancellous bone quantity at any depth is irrelevant to ISQ, making crestal cortical thickness the dominant pre-surgical predictor of primary stability.
+
+## 세줄요약
+
+전향적 임상연구(Conelog 임플란트 19개, 환자 16명, 구치부): CBCT로 치조정·3·6·9 mm 깊이 골 파라미터를 측정해 식립 시 ISQ와 비교하였다.
+
+치조정 피질골 두께가 ISQ와 가장 강한 상관(r=0.885, p<0.001)이었고, 3 mm 깊이 협설측 피질골(r=0.535, p=0.018)·피질/해면골 비율(r=0.488, p=0.034)만 추가로 유의 — 6·9 mm 깊이 및 전 깊이 해면골 두께는 ISQ와 무관.
+
+공명주파수분석(Resonance Frequency Analysis, RFA)은 치조정 3 mm 이내 피질골 강성을 주로 반영하므로, 해면골 양이 아닌 치조정 피질골 두께가 1차 안정성의 핵심 예측인자이다.
 
 ## Summary
 
@@ -63,6 +68,5 @@ The key finding is that ISQ is determined almost entirely by bone characteristic
 
 ## Related Papers
 
-- [[implants/isq/chatvaratthana-2017-cortical-bone-thickness-isq-cbct]] — same first author, different co-author team; complementary CBCT-ISQ study (different design)
 - [[implants/isq/al-juboori-2024-cortical-thickness-implant-stability-sr]] — SR on cortical thickness and implant stability; this study is a constituent primary study
 - [[implants/isq/andersson-2019-rfa-factors-5year-neoss-survival]] — RFA/ISQ factors over 5 years; marginal bone level as key RFA determinant aligns with this study's 3 mm depth finding

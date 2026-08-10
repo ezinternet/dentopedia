@@ -8,7 +8,7 @@ pmid: "25802850"
 pmcid: "PMC4354720"
 source: zyla-2015-black-stain-dental-caries-review.md
 category: [caries]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 text_path: /Users/oracleneo/llm-wiki/papers/zyla-2015-black-stain-dental-caries-review.txt
 text_filename: zyla-2015-black-stain-dental-caries-review.txt
@@ -16,13 +16,21 @@ full_text: false
 tags: [black-stain, caries, actinomyces, iron-sulfur, saliva, pediatric-dentistry]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review (2001–2014) finding black stain prevalence of 2.4–18% with equal sex distribution; dominated by low-cariogenicity *Actinomyces* microflora and associated with protective salivary chemistry, consistently linked to lower caries experience.
+Narrative review of English-language literature (2001–2014) on black stain (BS) etiology, prevalence, microbiological profile, chemical composition, and caries association — primarily pediatric populations; no formal PRISMA protocol.
 
-## 한줄요약
+BS prevalence ranged 2.4–18% with equal sex distribution; deposits are dominated by low-cariogenic Actinomyces species, with ferrous sulfide compounds responsible for dark pigmentation, and patients show elevated salivary calcium and buffering capacity.
 
-서사적 리뷰 (2001–2014): 블랙 스테인 (Black Stain, BS) 유병률 2.4–18%, 주요 미생물 Actinomyces, 철/황 복합체가 착색 원인이며 타액 완충능 증가로 우식 경험 저하와 연관.
+Most reviewed studies confirm BS is associated with lower caries experience (DMFT/dmft); however, the review lacks formal risk-of-bias assessment, limiting evidentiary weight.
+
+## 세줄요약
+
+블랙 스테인(Black Stain, BS) 원인·유병률·미생물 프로필·화학 성분·우식 연관에 관한 영문 문헌(2001–2014) 내러티브 리뷰 — 주로 소아 집단; PRISMA 없음.
+
+BS 유병률 2.4–18%, 성별 차이 없음; 치태는 저산생성 Actinomyces 우세, FeS 복합체가 착색 원인이며 BS 환자는 타액 칼슘·완충능이 높음.
+
+검토 연구 다수에서 BS↔낮은 DMFT/dmft 확인; 그러나 편향위험 평가가 없어 근거 강도는 제한적.
 
 ## Summary
 

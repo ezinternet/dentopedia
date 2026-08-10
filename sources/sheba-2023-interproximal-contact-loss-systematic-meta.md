@@ -12,11 +12,21 @@ source_collection: external
 ## Why Ingested
 food-impaction 카테고리에서 mesial vs distal ICL을 정량 pooling한 핵심 SR+MA로 인제스트. 기존 [[implants/kim-2026-proximal-contact-loss-implants-10years]]가 보고한 mesial 65.6% > distal 28.3% 패턴을 single-arm 메타분석으로 뒷받침한다.
 
-## One-line Summary
+## Three-line Summary
+
 Systematic review + single-arm meta-analysis (15 studies, 2014–2023, posterior only): pooled interproximal contact loss is 44.2% mesial vs 27.5% distal (high heterogeneity I²=87.8%), with no significant difference by age, gender, or arch.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 SR+single-arm MA(15편, 구치부): 통합 ICL은 mesial 44.2% vs distal 27.5%(이질성 I²=87.8%), 연령·성별·악궁에 따른 차이는 없다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - Journal of Prosthodontics 2023. DOI 10.1111/jopr.13780. Received 15 Jun 2023, Accepted 1 Oct 2023. OSF 등록(10.17605/OSF.IO/2S95Y). PRISMA 준거.

@@ -6,7 +6,7 @@ date: 2025-10-13
 doi: 10.4103/jpbs.jpbs_466_25
 source: tamgadge-2025-preoperative-dexamethasone-third-molar-pain-swelling-trismus.md
 category: drug/analgesics
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: true
 pmid: "42005489"
@@ -22,13 +22,21 @@ relations:
     target: satpathi-2024-corticosteroids-dentistry-review
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Split-mouth single-blind placebo-controlled trial (n=60 bilateral impacted mandibular third molars): a single preoperative 4 mg IM dexamethasone significantly lowered postoperative VAS pain (day 2: 1.2 vs 2.3; day 7: 0.4 vs 1.6, both p<0.001), improved mouth opening (3.5 vs 2.7 cm, p<0.001), and reduced facial swelling by day 7 (2.1 vs 2.8 cm, p=0.04), with no adverse reactions.
+Split-mouth single-blind placebo-controlled RCT (n=60 patients, 18–30 y, bilateral impacted mandibular third molars) comparing preoperative IM dexamethasone 4 mg vs sterile-water placebo on the contralateral side.
 
-## 한줄요약
+Dexamethasone significantly reduced VAS pain at day 2 (1.2 vs 2.3) and day 7 (0.4 vs 1.6, both p<0.001), improved mouth opening (3.5 vs 2.7 cm, p<0.001), and reduced facial swelling at day 7 (2.1 vs 2.8 cm, p=0.04); no adverse reactions reported.
 
-split-mouth 단일맹검 위약대조 시험 (n=60, 양측 매복 하악 사랑니): 술전 dexamethasone 4 mg 근육주사 1회가 위약 대비 술후 통증(2일 1.2 vs 2.3, 7일 0.4 vs 1.6, p<0.001), 개구량(3.5 vs 2.7 cm, p<0.001)을 유의하게 개선하고 7일째 부종도 줄였으며(2.1 vs 2.8 cm, p=0.04) 이상반응은 없었다.
+A single low-dose preoperative IM corticosteroid benefits all three classic third-molar sequelae simultaneously — supports routine preoperative dexamethasone for impacted third molar surgery; limited by moderate single-center sample and single-blind design.
+
+## 세줄요약
+
+분악(split-mouth) 단일맹검 위약대조 RCT (n=60명, 18–30세, 양측 매복 하악 사랑니): 술전 dexamethasone 4 mg 근육주사 1회 vs 반대측 생리식염수 위약 비교.
+
+Dexamethasone 투여 측에서 술후 통증(VAS 2일 1.2 vs 2.3, 7일 0.4 vs 1.6, 모두 p<0.001), 개구량(3.5 vs 2.7 cm, p<0.001), 7일째 부종(2.1 vs 2.8 cm, p=0.04) 모두 유의하게 개선; 이상반응 없음.
+
+단일 저용량 술전 근주 코르티코스테로이드가 통증·개구 제한·부종을 동시에 줄여 사랑니 발치 시 술전 dexamethasone 투여 근거를 지지하나, 단일 기관·단일맹검 설계가 한계.
 
 ## Summary
 

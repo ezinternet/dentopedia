@@ -13,13 +13,21 @@ source_collection: external
 
 Fills a 5-year currency gap against the older epidemiology anchor [[wiki/implants/derks-2015-peri-implant-health-disease-epidemiology]]: a 57-study SR+MA (search window through Dec 2021) that re-estimates peri-implantitis prevalence and quantifies how case definition, probing-depth use, and function time move the number. It refines, not overturns, the older anchor by showing the estimate is still highly definition-dependent.
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 57 observational/experimental studies: peri-implantitis prevalence is 19.53% (95% CI 12.87–26.19) at the patient level and 12.53% (95% CI 11.67–13.39) at the implant level, with the rate inflated when probing depth is used as a diagnostic criterion.
+Systematic review and meta-analysis (PROSPERO CRD42022313472) of 57 observational and experimental studies (search window Dec 2005–Dec 2021) reporting peri-implantitis prevalence in patients with ≥5 years of implant function.
 
-## 한줄요약
+Pooled peri-implantitis prevalence was 19.53% (95% CI 12.87–26.19) at the patient level and 12.53% (95% CI 11.67–13.39) at the implant level; using probing depth as a diagnostic criterion raised patient-level prevalence to 24.69% vs 17.56% without it, though the difference was not statistically significant (p=0.27); function time (5–9 y vs longer) did not significantly affect prevalence.
 
-57편 관찰·실험 연구 SR+MA: 임플란트주위염 유병률은 환자 단위 19.53% (95% CI 12.87–26.19), 임플란트 단위 12.53%이며, 탐침 깊이(probing depth)를 진단 기준에 포함하면 유병률이 더 높게 나옴.
+High residual heterogeneity persists even after restricting analyses to a single case definition, confirming that published prevalence figures are highly case-definition-dependent and that standardized diagnostic criteria are needed for cross-study comparison.
+
+## 세줄요약
+
+PROSPERO 등록 SR+MA — 임플란트 기능 5년 이상 환자의 임플란트주위염 유병률을 보고한 57편(관찰·실험연구, 검색 2005–2021) 포함.
+
+환자 단위 유병률 19.53% (95% CI 12.87–26.19), 임플란트 단위 12.53% (95% CI 11.67–13.39); 탐침 깊이(PD)를 진단 기준에 포함하면 환자 단위 24.69% 대 17.56%(미포함)으로 높아지나 통계적으로 유의하지 않음(p=0.27); 기능 기간(5–9년 대 그 이상) 간 유병률 차이 없음.
+
+사례 정의를 단일 기준으로 제한해도 이질성이 높게 잔존 — 발표된 유병률 수치는 진단 기준에 크게 의존하며, 연구 간 비교를 위해 표준화된 진단 기준 마련이 시급함을 확인.
 
 ## 1. Document Information
 

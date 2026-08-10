@@ -6,7 +6,7 @@ date: 2026-02-28
 doi: 10.6026/973206300220912
 source: motimath-2026-xenograft-prf-sinus-histomorphometric.md
 category: [sinus-lift/lateral]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/motimath-2026-xenograft-prf-sinus-histomorphometric.pdf
 pdf_filename: motimath-2026-xenograft-prf-sinus-histomorphometric.pdf
 source_collection: external
@@ -16,13 +16,21 @@ relations:
     target: almutairi-2025-lprf-dbbm-sinus-augmentation-sr-ma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Split-mouth prospective RCT (n=30, 60 sinuses, 9 months): A-PRF+DBBM significantly increased new bone formation (42.8% vs 31.2%, p=0.001) and reduced residual graft (28.4% vs 41.6%, p=0.001) vs DBBM alone; 100% implant survival both groups.
+Split-mouth prospective RCT (n=30, 60 sinuses) comparing A-PRF+DBBM versus DBBM alone in lateral window sinus augmentation (residual bone height ≤4 mm) with 9-month histomorphometric biopsy.
 
-## 한줄요약
+A-PRF+DBBM significantly increased new bone formation (42.8% vs 31.2%, p=0.001) and reduced residual graft material (28.4% vs 41.6%, p=0.001); implant survival was 100% in both groups.
 
-분할구강 전향 RCT (30명, 60동공, 9개월): A-PRF+DBBM은 DBBM 단독 대비 신생골 유의 증가(42.8 vs 31.2%, p=0.001) 및 잔류이식재 유의 감소(28.4 vs 41.6%); 양군 임플란트 생존율 100%.
+A-PRF (low-speed Choukroun protocol, 2700 rpm) should be considered as an adjunct to DBBM in lateral sinus augmentation to enhance bone quality, though all studies use split-mouth designs without long-term implant survival data beyond the graft maturation period.
+
+## 세줄요약
+
+분할구강 전향 RCT (30명, 60동공): 측방창 상악동거상술에서 잔류치조골 ≤4 mm 환자에 A-PRF+DBBM vs DBBM 단독을 비교하고 9개월 조직형태계측 생검으로 평가.
+
+A-PRF+DBBM군은 신생골 유의 증가(42.8 vs 31.2%, p=0.001), 잔류이식재 유의 감소(28.4 vs 41.6%, p=0.001); 양군 임플란트 생존율 100%.
+
+저속 원심분리(2700 rpm) A-PRF는 DBBM와 병용 시 골질 향상 효과가 있으나, 모든 연구가 split-mouth 설계이고 장기 임플란트 생존 데이터는 부족하다.
 
 ## Summary
 

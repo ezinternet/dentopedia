@@ -11,15 +11,23 @@ source_collection: external
 
 ## Why Ingested
 
-Provides the highest-evidence anchor for OLP symptomatic treatment, complementing the comparative-cost SR [[oral-medicine/sandhu-2022-oral-lichen-planus-treatment-sr]] and the management review [[oral-medicine/srivastava-2022-oral-lichen-planus-diagnosis-management-review]].
+Provides the highest-evidence anchor for OLP symptomatic treatment, complementing the comparative-cost SR [[oral-medicine/lichen-planus/sandhu-2022-oral-lichen-planus-treatment-sr]] and the management review [[oral-medicine/lichen-planus/srivastava-2022-oral-lichen-planus-diagnosis-management-review]].
 
-## One-line Summary
+## Three-line Summary
 
-Cochrane systematic review + meta-analysis (35 RCTs, 1474 patients): topical corticosteroids may resolve OLP pain better than placebo (RR 1.91, 95% CI 1.08-3.36, low certainty); topical tacrolimus may resolve pain better than clobetasol (very low certainty).
+Cochrane systematic review + meta-analysis (35 RCTs, 1474 patients): topical corticosteroids may resolve OLP pain better than placebo (RR 1.91, 95% CI 1.08-3.36, low certainty);
 
-## 한줄요약
+topical tacrolimus may resolve pain better than clobetasol (very low certainty).
+
+(incomplete)
+
+## 세줄요약
 
 코크란 SR+MA(35 RCT, 1474명): 국소 코르티코스테로이드가 위약보다 OLP 통증 해소에 우월할 수 있음(RR 1.91, 95% CI 1.08-3.36, 낮은 근거), 타크롤리무스가 클로베타솔보다 통증 해소에 나을 수 있음(매우 낮은 근거).
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

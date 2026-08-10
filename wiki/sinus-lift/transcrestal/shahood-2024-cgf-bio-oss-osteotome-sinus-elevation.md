@@ -6,7 +6,7 @@ date: 2024-01-01
 doi: 10.1186/s12903-024-05320-4
 source: shahood-2024-cgf-bio-oss-osteotome-sinus-elevation.md
 category: [sinus-lift/transcrestal]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/shahood-2024-cgf-bio-oss-osteotome-sinus-elevation.pdf
 pdf_filename: shahood-2024-cgf-bio-oss-osteotome-sinus-elevation.pdf
 source_collection: external
@@ -18,11 +18,19 @@ relations:
     target: sansupakorn-2024-osfe-bcp-graft-versus-no-graft-rct
 ---
 
-## One-line Summary
-Prospective 3-arm study (n=126 implants) in RBH ≤5 mm: Bio-Oss Collagen + CGF achieves ISR 96%, superior bone gain and lower pain versus no-graft or Bio-Oss alone.
+## Three-line Summary
+Prospective 3-arm study (n=126 implants, 123 patients, single center) in RBH ≤5 mm OSFE with simultaneous implant placement comparing no graft (Group A), Bio-Oss alone (Group B), and Bio-Oss Collagen + CGF (Group C) at 1-year functional loading.
 
-## 한줄요약
-RBH ≤5mm OSFE 전향적 3군 비교(126임플란트): Bio-Oss Collagen+CGF 조합이 생존율 96%, 골이득·통증 측면에서 무이식·Bio-Oss 단독보다 우수.
+Overall implant survival rate was 96%; Bio-Oss Collagen + CGF achieved the greatest endo-sinus bone gain and lowest total bone resorption, with significantly lower VAS pain scores versus Bio-Oss alone; graft volume was an independent predictor of survival.
+
+Combined Bio-Oss Collagen + CGF is the optimal grafting regimen for OSFE in low-RBH sites, offering both biological (bone gain/MBL) and patient-experience (pain reduction) advantages over xenograft alone or no graft.
+
+## 세줄요약
+전향적 3군 연구(n=126 임플란트, 123명, 단일 센터) — 잔존골높이(Residual Bone Height, RBH) ≤5 mm 골절단기 상악동거상술(Osteotome Sinus Floor Elevation, OSFE) 동시 식립에서 무이식(A군) vs Bio-Oss 단독(B군) vs Bio-Oss Collagen + 농축성장인자(CGF, C군) 비교.
+
+전체 임플란트 생존율(Implant Survival Rate, ISR) 96%; C군(Bio-Oss Collagen + CGF)이 최대 골증가·최저 골흡수, VAS 통증 유의하게 낮음(vs B군, p<0.001); 이식량(D)이 여러 시점에서 ISR 독립 예측인자.
+
+Bio-Oss Collagen + CGF 조합이 저 RBH OSFE 최적 이식 전략 — 골생물학적(골증가·MBL) 및 환자경험(통증 감소) 모두 Bio-Oss 단독 대비 우수.
 
 ## Summary
 

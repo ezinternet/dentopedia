@@ -1,0 +1,18 @@
+Title: Effect of at-home agents and concentrations on bleaching efficacy: A systematic review and network meta-analysis.
+Authors: Terra RMO, Favoreto MW, Morris T, Loguercio AD, Reis A
+Journal: Journal of Dentistry, 2025; 160:105857
+DOI: 10.1016/j.jdent.2025.105857
+PMID: 40460969
+Publication Date: 2025-06-01
+
+ABSTRACT:
+
+Objective: This systematic review and network meta-analysis (NMA) aimed to compare the efficacy of at-home bleaching agents and concentrations in patients with permanent dentition (PROSPERO 2021 CRD42021265220).
+
+Methods: Randomized clinical trials (RCTs) comparing any two at-home bleaching systems were considered eligible. A Bayesian NMA was conducted for color change (ΔE, ΔSGU) to compare different carbamide peroxide (CP) or hydrogen peroxide (HP) concentrations. The risk of bias (RoB) was assessed using the Cochrane tool 2.0 and the quality of evidence (QoE) with the GRADE approach. A comprehensive search was conducted in PubMed, Cochrane Central, LILACS/BBO, SCOPUS, Web of Science, EMBASE, and grey literature.
+
+Results: 81 studies were eligible and 53 included in the NMA. A high RoB was observed in most studies included. No statistically significant differences were found in most comparisons, except for the extreme concentrations. For ΔE: CP 5% vs. CP 15–17% (mean difference [95% CrI]: −3.36 [−6.53 to −0.22]); HP 2–4% vs. CP 15–17% (−1.85 [−3.63 to −0.08]); CP 5% vs. CP 35–37% (−4.23 [−8.21 to −0.22]). For ΔSGU: HP 14–16% vs. CP 5% (4.66 [0.27 to 9.01]); HP 14–16% vs. HP 2–4% (4.06 [0.74 to 7.46]). The QoE was low.
+
+Conclusion: Most at-home agents showed similar bleaching efficacy (ΔE, ΔSGU), except when the highest and lowest concentrations were compared with one another with a low QoE. Further well-designed, low-bias RCTs is essential to achieve higher QoE. Low-certainty evidence points to similar efficacy of most at-home bleaching agents across concentrations, suggesting their clinical versatility in dental practice.
+
+Keywords: Network meta-analysis; Systematic review; Tooth bleaching; Tooth bleaching agents; Tooth discoloration

@@ -6,18 +6,26 @@ date: 2021-01-01
 doi: 10.3390/ma14113102
 source: behera-2021-lithium-disilicate-vs-zirconia-inlays-1year.md
 category: [inlay]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/behera-2021-lithium-disilicate-vs-zirconia-inlays-1year.pdf
 pdf_filename: behera-2021-lithium-disilicate-vs-zirconia-inlays-1year.pdf
 source_collection: external
 tags: []
 ---
 
-## One-line Summary
-1-year prospective RCT (n=30; 15 per group) comparing pressed lithium disilicate (IPS e.max Press) vs zirconium dioxide (Dentcare) Class II inlays: both materials achieved satisfactory 1-year clinical performance with no statistically significant difference and no failures/debonding at 12 months; longer follow-up needed to differentiate materials.
+## Three-line Summary
+1-year prospective RCT (n=30; 15 per group) comparing pressed lithium disilicate (IPS e.max Press) vs zirconium dioxide (Dentcare) Class II inlay restorations in posterior teeth.
 
-## 한줄요약
-전향적 RCT(n=30, 1년): 리튬디실리케이트(IPS e.max Press) vs 지르코니아(Dentcare) 클래스II 인레이 — 양군 모두 1년 임상 성능 만족; 장기 비교 연구 필요
+Both materials achieved satisfactory 1-year clinical performance with no statistically significant difference between groups and no failures or debonding at 12 months.
+
+The short 1-year observation window is insufficient to distinguish material performance; longer follow-up studies are warranted before clinical recommendations can be made.
+
+## 세줄요약
+전향적 RCT(n=30; 각 15명): 리튬디실리케이트(IPS e.max Press) vs 지르코니아(Dentcare) 클래스 II 인레이 1년 비교.
+
+양군 모두 1년 임상 성능 만족; 군간 유의차 없음; 12개월 내 실패·탈락 없음.
+
+1년 관찰기간으로는 재료 간 차이 구별이 불충분하므로 장기 임상연구가 필요함.
 
 ## Summary
 One-year prospective RCT (n=30) comparing pressed lithium disilicate (IPS e.max Press) vs zirconium dioxide (Dentcare) Class II inlay restorations. Both materials achieved satisfactory 1-year clinical performance with no statistically significant differences. Longer follow-up is needed to reveal material differences.

@@ -1,0 +1,345 @@
+Introduction
+
+Temporomandibular disorders (TMDs) refer to several conditions that impact the temporomandibular joint (TMJ), muscles of mastication and associated structures; these disorders are characterized by chronic pain and dysfunction. According to previous studies, approximately 3 to 12% of the general population is affected by TMD, and these rates are three to five times greater for women, especially those who are middle-aged. A higher frequency of TMD has also been reported in women and young adults.
+
+Among those with TMD, it is common to experience headaches, neck pain, tinnitus, a feeling of fullness in the ear, dizziness, hearing loss, and problems with voice and speech production. Therefore, TMD is a major public health issuebecause it affects psychological status, general health, and social and economic well-being.
+
+To provide a standard system for diagnosing orofacial pain and the most frequent instances of TMD, the Research Diagnostic Criteria for Temporomandibular Disorders (RDC/TMD) were introduced in 1992. In 2014, to ensure better accuracy, usefulness, and validity of the system, the Diagnostic Criteria for Temporomandibular Disorders (DC/TMD) were released. Currently, the DC/TMD is regarded as the main system for classifying subjects with TMD. Patients can be grouped into major subgroups: pain-related TMD and headache, intra-articular joint disorders, degenerative joint disorders, and subluxation. For these categories to be considered different clinical entities, it is necessary to provide strong proof of their differences in terms of pathogenesis, treatment and/or prognosis.
+
+Although the inadequacies associated with the use of imaging for the diagnosis of TMJ arthralgia conditions have led to a greater emphasis on clinical characteristics that may be indicative of this condition, osteoarthritis (OA)-related subchondral bone alterations (SBAs) involving condylar articular cartilage and adjacent cortical and subcortical bone structures have become more recent focuses of interest. Using computed tomography and cone beam CT (CBCT) as the gold standard for evaluating the structural characteristics of TMJ OA, several authors have reported a significant association between TMJ pain and dysfunction parameters and those of TMJ condylar SBAs, including condylar resorption, overall destructive changes, osteophytes and flattening, and categorized condylar SBAs.
+
+Some studies have suggested that occlusal splint therapy can be helpful for a group of patients with TMJ pain. Even so, some argue that its effectiveness is not clear and its mechanism is not completely understood. Two previous studies investigated what factors influence the success of occlusal stabilization splints in patients with a TMJ arthralgia diagnosis according to RDC/TMD. One study revealed that severe pain at the start of treatment was linked to poor outcomes and that compared with women, men were more likely to improve after 2.5 months of treatment for arthrogenous TMD pain. According to another study, patients who had pain for less than six months were more likely to have a successful outcome. To the best of the authors’ knowledge, no study has addressed the role of clinical and SBA-related CBCT imaging parameters in the assessment of functional treatment outcomes in TMJ arthralgia patients managed by occlusal splint therapy.
+
+Therefore, the present exploratory study was undertaken to evaluate the impact of condylar SBAs on the 6-month functional results of TMJ arthralgia patients who were managed with a 3 mm resilient splint therapy. We hypothesized that patients with a higher SBA grade would have worse clinical functional outcomes after a 3 mm resilient splint therapy.
+
+Results
+
+Tabledisplays the characteristics of the participants included in the study. Among these patients, 98 (89.9%) were female and 11 (10.1%) were male, with ages ranging from 18 to
+
+Table 1
+
+Baseline data (= 109).temporomandibular joint,subchondral bone alteration,Jaw Functional Limitation Scale.
+
+Variables
+
+Value
+
+Age (years) (mean ± SD)
+
+44.3 (16.6)
+
+Gender (n) (% female)
+
+98 (89.9)
+
+Pain intensity (mm) (mean ± SD)
+
+57.2 (22.7)
+
+Time since pain onset (weeks) (mean ± SD)
+
+107.6 (263.7)
+
+Side of TMJ arthralgia
+
+Right (n) (%)
+
+58 (53.2)
+
+Left (n) (%)
+
+51 (46.8)
+
+Condylar SBAs in TMJs with arthralgia
+
+Erosion (n) (%)
+
+96 (88.1)
+
+Flattening (n) (%)
+
+60 (55.1)
+
+Sclerosis (n) (%)
+
+55 (50.5)
+
+Osteophyte (n) (%)
+
+48 (44.0)
+
+Resorption (n) (%)
+
+31 (28.4)
+
+Cyst (n) (%)
+
+16 (14.7)
+
+Condylar SBA severity in TMJs with arthralgia
+
+Mild (grade 1) (n) (%)
+
+36 (33.0)
+
+Moderate (grade 2) (n) (%)
+
+42 (38.5)
+
+Severe (grade 3–4) (n) (%)
+
+31 (28.4)
+
+JFLS-20 score
+
+Mastication (mean ± SD)
+
+23.0 (11.1)
+
+Mobility (mean ± SD)
+
+15.3 (7.0)
+
+Verbal/emotion (mean ± SD)
+
+17.6 (13.9)
+
+Sum (mean ± SD)
+
+18.6 (11.5)
+
+67 years and a mean age of 44.3 ± 16.6 years. SBAs of erosion, flattening, and sclerosis were observed in 88.1%, 55.1%, and 50.5% of the 109 TMJs with arthralgia, respectively, whereas osteophytes, resorption, and cysts were present in 44%, 28.4%, and 14.7% of the patients, respectively.
+
+The VAS pain intensity was considerably lower for all SBA severity groups at the 6-month follow-up (mild SBA grade group, 27.4 mm,< 0.001; moderate SBA grade group, 25.1 mm,< 0.001; severe SBA grade group, 23.3 mm,< 0.001, respectively).
+
+All JFLS scores significantly decreased from the pretherapeutic (T0) to the 6-month follow-up assessments (T1) (JFLS-M, 12.6,< 0.001; JFLS-JM, 7.3,< 0.001); JFLS-VEE, 7.5,< 0.001) (Table).
+
+Table 2
+
+Baseline and follow-up JFLS scores by condylar SBA severity,subchondral bone alteration,Jaw Functional Limitation Scale,immediately before splint therapy,follow-up at 6 months, *Analysis of intragroup differences with paired sample t-test,probability of type I error.
+
+Condylar SBA Severity
+
+JFLS Domains
+
+LimitationinMastication
+
+LimitationinVertical Jaw Mobility
+
+LimitationinVerbal and emotional expression
+
+LimitationinJaw Function (Sum)
+
+T0
+
+T1
+
+T0-T1
+
+P*
+
+P
+
+T0
+
+T1
+
+T0-T1
+
+P*
+
+P
+
+T0
+
+T1
+
+T0-T1
+
+P*
+
+P
+
+T0
+
+T1
+
+T0-T1
+
+P*
+
+P
+
+Mild (grade 1)
+
+(= 36)
+
+25.3 ± 10.4
+
+10.6 ± 13.2
+
+1 4.7 ± 11.8
+
+0.000
+
+16.3 ± 6.7
+
+8.1 ± 9.0
+
+8.1 ± 7.0
+
+0.000
+
+20.7 ± 15.2
+
+11.4 ± 14.6
+
+9.3 ± 9.6
+
+0.000
+
+20.8 ± 11.8
+
+10.1 ± 12.5
+
+10.7 ± 10.0
+
+0.000
+
+Moderate (grade 2)
+
+(= 42)
+
+25.6 ± 11.2
+
+11.8 ± 11.8
+
+13.8 ± 12.0
+
+0.000
+
+16.3 ± 7.8
+
+10.3 ± 7.5
+
+6.0 ± 5.6
+
+0.000
+
+18.7 ± 15.3
+
+12.2 ± 13.1
+
+6.5 ± 7.4
+
+0.000
+
+20.2 ± 12.4
+
+11.4 ± 11.0
+
+8.8 ± 9.4
+
+0.000
+
+Severe (grade 3–4)
+
+(= 31)
+
+16.7 ± 9.6
+
+8.0 ± 11.1
+
+8.6 ± 8.2
+
+0.000
+
+12.8 ± 5.5
+
+4.7 ± 4.6
+
+8.1 ± 5.2
+
+0.000
+
+12.4 ± 7.8
+
+5.7 ± 6.8
+
+6.8 ± 6.6
+
+0.000
+
+14.0 ± 8.0
+
+6.1 ± 8.0
+
+7.9 ± 6.8
+
+0.000
+
+Total
+
+(= 109)
+
+23.0 ± 11.1
+
+10.3 ± 12.1
+
+12.6 ± 11.2
+
+0.000
+
+15.3 ± 7.0
+
+8.0 ± 7.6
+
+7.3 ± 6.1
+
+0.000
+
+17.6 ± 13.9
+
+10.0 ± 12.4
+
+7.5 ± 8.0
+
+0.000
+
+18.6 ± 11.5
+
+9.5 ± 11.0
+
+9.2 ± 9.0
+
+0.000
+
+At baseline, no significant differences were found among the three SBA severity groups in terms of age, sex, or baseline pain intensity or duration (> 0.05). After the effect of baseline variables were controlled for with ANCOVA, the patients with severe condylar SBAs had significantly worse outcomes, as measured using the JFLS-M scores, compared with those with mild condylar SBAs (= 0.027) (Fig.).
+
+Fig. 1
+
+Error bar plots for the mean JFLS-M score changes among the three SBA severity groups. T0, before treatment; T1, 6-month follow-up.
+
+With respect to the JFLS-sum scores, a statistically significant difference in functional outcomes was noted between the mild and moderate (= 0.011) and severe SBA severity groups (= 0.002). Patients with moderate and severe condylar SBAs did not have significantly different functional outcomes (> 0.05) (Fig.).
+
+Fig. 2
+
+Error bar plots for the mean JFLS-sum score changes among the three SBA severity groups. T0, before treatment; T1, 6-month follow-up.
+
+Discussion
+
+In the present exploratory cohort study, a specific DC/TMD group of arthralgia patients was successfully followed to identify condylar SBA grades that may be related to the 6-month functional outcomes of a 3 mm resilient splint therapy. After age, sex, pain level, and pain duration were considered, the results indicated that baseline condylar SBA grade potentially plays a role in assessing which patients (unilateral arthralgia patients) would show less pronounced improvement during the 6-month follow-up. Previous studies have shown that TMD patients who have a high baseline level of pain, who belong to RDC/TMD Axis I Group I, who suffer from chronic pain, or who exhibit a grade of chronic pain of 3 or 4are less likely to achieve improvement. However, whether the parameters of SBA-related CBCT may be associated with important differences in functional outcomes following 6 months of occlusal splint therapy has not been investigated.
+
+Considering that, in general, erosion and resorption involving signs of outline disruption and uneven surfaces are indicative of more active and higher inflammatory phases, it is reasonable to hypothesize that these condylar changes may be associated with an increased risk for less pronounced improvements during treatment and the potential development of progressive arthritic condylar alterations. It may be challenging to assess the difference between inflammatory arthritis with secondary SBAs and age-related osteoarthrosis exclusively using CBCT studies. Therefore, ongoing CBCT studies should incorporate contrast-enhanced MR images to further provide evidence in support of this hypothesis.
+
+Further research including SBA-related CBCT parameters may lead to models that allow clinicians to determine which arthralgia patients are most likely to face less responsive TMD chronicity after starting a 3 mm resilient splint therapy. If patients have only limited improvement at the six-month follow-up, using this approach may provide the opportunity to consider a new treatment plan earlier—such as TMJ arthrocentesis and lavage—or wait for a 12 months or longer for follow-up. Adopting such strategies may help lessen the negative consequences caused by persistent and challenging TMD chronicity.
+
+Although the study included arthralgia patients based on specific DC/TMD criteria, these results might not be generalizable to other SBA grade-related arthralgia diagnoses. It is widely known that having comorbid anxiety, depression, and other psychological factors that are often associated with pain-related disability, may reveal the presence of serious pain behavior, which plays a fundamental role in the chronification of pain. Despite not assessing these psychosocial factors, the strong relationship between patients’ global impression of change and reduced pain-related scores identifies pain intensityand therefore the associated restrictions in jaw function as the most important component of patient’s response to treatment.
+
+The study comprised patients with a DC/TMD-specific diagnosis of unilateral arthralgia; however, this study’s results may not be generalized to all conditions of an acute and chronic unilateral arthralgia. It is evident that comorbidity of pain-related disability and psychological variables, such as depression and anxiety associated with socio-demographic variables, may indicate the existence of a severe pain behavior, which is fundamental in the process of pain chronification and the prediction of worse treatment outcomes. However, given the exploratory nature of this study, these confounding variables have not been controlled for. Therefore, to have a better understanding of the impact of condylar SBAs on the functional results of splint therapy in TMJ arthralgia patients, future studies should consider these possible confounders and include measures of psychosocial risk factors.
+
+In the current study a considerable decrease in VAS levels occurred with all SBA severity groups at the 6-month follow-up, the results of which may compare favorably with the reports of other authors describing the beneficial use of resilient splints in the management of patients with TMJ pain disorders. Although it may be hypothesized that occlusal splints correct the dysfunctional state by decreasing TMJ loading and promote healthy synovial fluid production, it has to be acknowledged that the specific therapeutic efficacy and the scientific basis of this therapeutic modality has not been validated. There is a sufficient amount of evidence to suggest that the fluctuating and self-limiting feature of TMD symptoms may have influenced the patients’ perception of overall improvement. Further, regression towards the mean, placebo effects, and non-specific effects of treatment are important aspects for a positive outcome, particularly in a long-term perspective. This aspect should be considered when interpreting the actual results, since a placebo group was not used as control.
+
+This is the first study to use a CBCT-based scoring system to estimate the relative importance of SBA severity groups that might affect functional outcomes associated with occlusal splint therapy in TMJ arthralgia patients. Although this grading system sets out a specific grading from mild to severe SBA alterations, future work should study how the stages progress with time. This would make it possible to explain the different clinical presentations and establish appropriate treatment strategies for each disease activity. With regard to the need for a sensitive scoring system to monitor condylar SBA alterations over time, it must be acknowledged that the proposed grouping of grade 3 and 4 condylar SBAs into a single ‘severe’ category may reduce discriminatory precision and ignore the presence of biologically distinct phases of structural progression. Ongoing testing and refinements are warranted in the future to assess the original CBCT-based 4-category scoring metricfor application in clinical trials and medical practice for patients with TMJ arthritis.
+
+Another concern is related to how much the use of CBCT may contribute to efficient treatment management of patients with TMJ disorders. According to De Boer et al., adding CBCT to physical and panoramic assessments of TMD disorder patients changed clinical decisions in more than half of the patients. Although these results may reinforce the use of CBCT in these clinical settings, it should be acknowledged that clinical decision-making is guided mainly by prognostic prediction models. Currenly, using such models has become a standard in health care, as these models consider demographics, clinical and imaging-based items, and distinct test results to assess the likelihood of a specific outcome. Using multivariable regression techniques, these models are generated during the development phase, and their effectiveness is subsequently assessed by testing them using an independent dataset. With respect to the probable usefulness of CBCT in the management of TMJ disorders, validation studies should be performed in the future before incorporating CBCT as a

@@ -1,0 +1,108 @@
+Resorption of retromolar bone grafts after alveolar ridge augmentation—volumetric changes after 12 months assessed by CBCT analysis
+
+Stricker A, Jacobs R, Maes F, et al. Int J Implant Dent. 2021.
+PMID: 33474648. PMCID: PMC7817723. DOI: 10.1186/s40729-020-00285-9.
+
+Abstract
+
+In this pilot study, a volumetric analysis of retromolar onlay bone grafts over a period of 12 months was conducted, using repeated CBCT imaging combined with automated image registration.
+
+Eleven patients being treated with 16 bone grafts taken from the retromolar area were examined by CBCT scanning prior to bone augmentation (T0), immediately after bone augmentation (T1) and after a healing time of 12 months after augmentation (T2). Graft volumes were measured at each time point after automated image registration of consecutive CBCT scans.
+
+The mean volume of the augmented site was 372.2 ± 179.4 mm3. Resorption relative to the original augmented volume was 43.7% ± 19.0% after 12 months.
+
+Three-dimensional graft resorption could be precisely depicted by the use of automated image registration for CBCT data over a period of 12 months and demonstrated extensive volumetric changes of bone grafts taken from the ascending ramus of the mandible.
+
+Graft resorption and continuous bony remodeling of the grafted site before and after implant insertion have to be carefully considered by the clinician.
+
+Introduction
+
+Sufficient bone quantity and quality at the recipient site is a major prerequisite for long-term success of dental implants. However, in many situations, there is a bone deficiency, indicating a surgical procedure that predictably leads to sufficient bone quantity prior to implant insertion.
+
+Guided bone regeneration (GBR), alveolar distraction osteogenesis, and onlay grafting have been described to augment the horizontal and vertical bone volume. Transplantation of autogenous bone grafts is the standard procedure for reconstruction of a severely resorbed alveolar crest prior to implant insertion.
+
+However, bone resorption both in height and width has been described for onlay grafts harvested from the iliac crest and ascending ramus of the mandible.
+
+Mechanical calipers and different radiographic techniques have been applied for assessment of the augmented areas prior to implant placement. Conventional radiographic imaging, using the parallel technique, bitewings or panoramic X-rays, allows an estimation of the vertical dimension of the bone graft. However, due to the inevitable overlay of anatomical structures and the presence of image distortion and blurring, adequate information about the horizontal dimension and the three-dimensional volume changes cannot be derived. In contrast, computed tomography (CT) and cone beam computed tomography (CBCT) technology may overcome these fundamental limitations and may be used for accurate three-dimensional representation of the alveolar bone before and after bone augmentation. Volumetric CT studies of autogenous onlay grafts harvested from the iliac crest demonstrated a rapid initial loss of bone height during the first 6 months of healing.
+
+Three-dimensional analysis using CBCT got increasingly popular because of its lower radiation and higher resolution compared to volumetric CT. Here, long-term stability of implants inserted in the pristine bone and assessment of onlay bone graft have been studied.
+
+In order to enable adequate prediction of volumetric changes of autogenous onlay bone grafts over time, the aim of this pilot study was to conduct a volumetric analysis using CBCT imaging at different postoperative time points combined with an automated image registration procedure, to accurately evaluate volume alterations of onlay graft augmentation with autogenous bone taken from the ascending ramus of the mandible over a period of 12 months.
+
+Materials and methods
+
+Patient selection
+
+In this study, patients of at least 18 years with autogenous bone grafts from the ascending alveolar ramus prior to dental implant placement were considered for this retrospective analysis. Study approval was obtained from the Ethical Committee of the University Medical Center Freiburg, Germany (138/14).
+
+All patients were healthy, non-smokers and had no general contraindications as history of malignancy, antiresorptive-, radio- or chemotherapy, pregnancy or nursing, and general diseases which may negatively affect bone or connective tissue metabolism or bone turnover rate.
+
+Local inclusion factors comprised a transversal width of the alveolar crest < 3 mm and a vertical height > 7 mm.
+
+A total of 220 patients being treated with retromolar bone grafts were initially screened for inclusion in this study. Based on the criteria above, 11 patients (10 female, 1 male) having a mean age of 53.0 years (range 20–69 years) could be selected for further analysis.
+
+Surgical procedure
+
+Bone augmentation was performed with local anesthesia in 8 patients, while 3 patients were operated under general anesthesia.
+
+After crestal incision and elevation of a muco-periostal flap, the atrophy of the recipient site was evaluated. Thereafter, a paramarginal incision in the retromolar region of the mandible was performed to get access for harvesting the cortico-cancellous bone graft from the ascending ramus of the mandible using a piezotome and chisel.
+
+Bone grafts were adapted to atrophic ridge anatomy with diamond burs before fixation to the recipient bone by two titanium screws of 1.5 mm diameter and 8 mm length (Bone Fixation Aesculap, Tuttlingen, Germany). Periostal release incision was followed by tension free wound closure with non-resorbable sutures (Seralon 5.0, Serag Wiessner, Germany). After surgery, antibiotics (Clindamycin 600 mg, 3x/d, 7 days), pain medication (Ibuprofen 400), and rinsing irrigation (0.1% CHX rinsing solution) were administered.
+
+CBCT analysis
+
+CBCT scans acquired at different time points were evaluated to assess volumetric changes of onlay grafts over time. CBCT scanning was performed prior to bone augmentation (T0), immediately after bone augmentation (T1), and at 12 months after bone augmentation (T2).
+
+All CBCT scans were acquired with an iCat Cone Beam 3D scanner (Imaging Sciences International, LLC, Hatfield, PA, USA) with the following scan parameters: 0.3 mm voxel size, 5 mA, 120 kV, and scanning time 8.9 s.
+
+For each patient, the baseline scan (T0) was aligned to the post-op scan (T1) and the follow-up scan (T2), using an automated image registration procedure. A rigid registration was used that was restricted to either the mandible or the maxilla, depending on the implant site. The accuracy of the registration was visually verified for all cases.
+
+The bony contours of the ROI for T0 were delineated and visualized against every aligned follow-up scan (T1, T2) to ensure bone volume measurements within identical anatomical regions at all time points. The additional amount of grafted bone extending the defined contours of the T0 region was measured by manual slice-by-slice delineation in the axial CBCT images. The total volume of the augmented site was calculated by automated interpolation between the axial slices (MeVisLab V.1, MeVis Medical Solutions AG, Bremen, Germany). All CBCT scans were analyzed by two independent examiners not involved in the surgical therapy of these patients.
+
+Statistical evaluation
+
+For this study, all available patients with a CBCT scan 12 months after augmentation were used; hence, no sample size calculation was performed. For the 11 patients, an effect size of 2.3 can be detected.
+
+For descriptive analysis, mean and standard deviation were computed. Intraclass correlation coefficients (ICC) were used to evaluate the agreement between the two observers for the different volume measurements. A paired t-test was applied to check for differences between the original bone volume and the 12-month value. Linear regression models with robust variance estimators were used to analyze both influence of jaw and age on the volume value.
+
+All calculations were performed with STATA 16 (StataCorp LT, College Station, TX, USA). Statistical significance was set to p < 0.05.
+
+Results
+
+Surgical rehabilitation affected 11 patients having 16 bone grafts, 4 in the maxilla, and 12 in the mandible, respectively.
+
+All onlay bone grafts healed uneventfully, without soft tissue dehiscence, and graft incorporation was successful to allow placement of 22 dental implants after a healing time of 104.4 ± 11.5 days.
+
+Final prosthodontic rehabilitation by implant-supported restorations was performed 105.2 ± 17.7 days after implant placement, or 209.6 ± 24.6 days after bone augmentation. No implants were lost during the entire observation period of 510.4 ± 180.2 days and thereafter up to now.
+
+Very high intraclass correlation between the volume measurements of the two observers for all time points: 0.999 (p < 0.0001).
+
+The mean bone volume of the augmented site was 372.2 ± 179.4 mm3 immediately post-operatively (T1) and 230.2 ± 185.7 mm3 after 12 months (T2), leading to an extent of total resorption relative to the original bone volume of 43.7% ± 19.0%, being highly significant (p < 0.001).
+
+Age: regression coefficient of -1.73 for age, meaning the volume change from baseline to the last time point became lower with increasing age, but was not significant (p = 0.175).
+
+Localization of onlay graft augmentation demonstrated differences: mean volume change from baseline to T2 in the lower jaw was 113.7 ± 34.7 mm3 (37.6% ± 16.7%). In the upper jaw, the difference was larger: 217.7 ± 56.2 mm3 (60.2% ± 16.4%), being statistically significant (p = 0.01).
+
+Discussion
+
+This pilot study is a three-dimensional CBCT study using an automated image registration procedure to analyze bone resorption of onlay grafts harvested from the ascending ramus of the mandible.
+
+Prior measurement approaches (Nyström 1995, Malchiodi, Anitua, Monje) used linear/cross-sectional measurement protocols rather than true volumetric assessment. Volumetric CT protocols were mostly applied to iliac onlay grafts, with manual delineation of grafted areas across cross-sections; orientation of cross-sections and landmark use varied and authors often did not disclose their protocol to differentiate bone graft from residual bone after healing. Spin-Neto et al. documented bone resorption over the complete bone volume in each grafted area. Lee and Kim assigned gray-value ranges from the donor site to grafted bone without validating accuracy. Kloss et al. inferred graft volume from height/width/depth measurements as superimposed rectangular pyramidal frustums.
+
+This study is based on automated image registration and geometric alignment of consecutive datasets for more consistent and precise evaluation. Because large variability of quantitative gray scale values (GSV) can occur in CBCT (radiation dose, field size, scattered radiation, reconstruction algorithm limitations), Hounsfield units used for CT tissue characterization may not directly apply to CBCT; the study used CBCT images acquired with identical exposure time and field-of-view to reduce GSV variability. Automated image registration allowed definition of identical ROI across time points, with residual bone assessed via stable landmarks outside the ROI to obtain baseline values.
+
+Regarding stability of onlay grafts at 12 months, existing literature is limited and controversial. Sbordone et al. detected volume resorption between 35 and 51% in iliac crest transplants and 45% for chin onlay grafts. In contrast, Kloss et al. reported a shrinkage rate of 12.5% ± 7.8% at 12 months for mandibular grafts in single tooth defects — opposite to the present findings. Lee and Kim showed mean graft resorption of 25.4% at 5.5 months after coverage of ascending-ramus onlay grafts with particulate cortical bone, fibrin sealant, and a resorbable collagen membrane.
+
+The sparse and highly variable data for onlay bone grafts from the ascending ramus of the mandible do not allow prediction of volume resorption during typical 3-6 month healing periods before implant placement.
+
+This pilot study showed continuous three-dimensional bone resorption of autogenous onlay grafts of 43.3% (43.7%) at 12 months after bone augmentation, using precise three-dimensional assessment based on automated image registration. By adopting identical bony contours and anatomical borders within consecutive CBCT scans, potential manual measurement errors could be reduced.
+
+Further studies with a clearly higher number of patients are necessary to document bone resorption after onlay grafting to establish standard values for clinical recommendations.
+
+Conclusions
+
+CBCT imaging at different time points combined with an automated image registration procedure allowed evaluation of volume alterations of onlay graft augmentation over a period of 12 months, demonstrating extensive volumetric changes of onlay bone grafts taken from the ascending ramus of the mandible.
+
+Graft resorption and continuous bony remodeling of the grafted site before and after implant insertion have to be carefully considered by the clinician.
+
+Randomized controlled studies with a larger study sample are needed to verify the present findings.

@@ -15,8 +15,21 @@ Versah 공식 프로토콜 — 상악 대구치부 중격 확장 + 경치조골 
 
 → 관련 wiki: [[wiki/overviews/osseodensification-clinical-applications]] / [[wiki/implants/versah-protocols/versah-combined-molar-septum-expansion-sinus-lift-protocol]]
 
-## One-line Summary
-Versah manufacturer protocol (2-page) for the combined molar septum expansion + crestal sinus lift workflow in upper molar sites with intact ≥4 mm interradicular septum.
+## Three-line Summary
+
+Versah manufacturer protocol (2-page) for the combined molar
+
+septum expansion + crestal sinus lift workflow in
+
+upper molar sites with intact ≥4 mm interradicular septum.
+
+## 세줄요약
+
+Versah manufacturer protocol (2-page) for the combined molar
+
+septum expansion + crestal sinus lift workflow in
+
+upper molar sites with intact ≥4 mm interradicular septum.
 
 ## 1. Document Information
 - **Title:** Osseodensification Combined Upper Molar Septum Expansion with Crestal Sinus Lift Protocol
@@ -38,7 +51,7 @@ Protocol outcome: single-procedure rehabilitation of upper molar with simultaneo
 Manufacturer marketing document — not peer-reviewed. Requires precise CBCT planning and septum integrity. See [[bleyan-2021-molar-septum-expansion-osseodensification-immediate-implant]] for clinical outcome data including the molar socket classification this protocol implicitly uses.
 
 ## 6. Related Work
-- [[immediate-implant/bleyan-2021-molar-septum-expansion-osseodensification-immediate-implant]]
+- [[immediate-implant/molar-septum/bleyan-2021-molar-septum-expansion-osseodensification-immediate-implant]]
 - [[sinus-lift/transcrestal/mazor-2024-maxillary-sinus-membrane-perforation-osseodensification]]
 - [[implants/versah-protocols/versah-densah-sinus-lift-ii-protocol-rbh-4-5mm]]
 - [[implants/versah-protocols/versah-immediate-implant-placement-protocol]]

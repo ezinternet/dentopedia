@@ -9,8 +9,21 @@ pdf_filename: nanda-2012-orthodontic-force-biological-response-review.pdf
 source_collection: external
 ---
 
-## One-line Summary
-교정력에 대한 PDL 및 치조골 반응 요약 고찰: 세포·신경전달물질·사이토카인 역할.
+## Three-line Summary
+
+교정력에 대한 PDL
+
+및 치조골 반응
+
+요약 고찰: 세포·신경전달물질·사이토카인 역할.
+
+## 세줄요약
+
+교정력에 대한 PDL
+
+및 치조골 반응
+
+요약 고찰: 세포·신경전달물질·사이토카인 역할.
 
 ## 1. Document Information
 - **Title**: Biological response to orthodontic forces: PDL and alveolar bone remodeling

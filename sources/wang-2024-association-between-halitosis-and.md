@@ -13,13 +13,21 @@ source_collection: external
 
 2024년 Clinical Oral Investigations에 게재된 SR+MA로, 구취(halitosis)와 치주염(periodontitis) 간 연관성을 OR로 정량화한 최신 근거. 기존 [[halitosis/silva-2017-periodontitis-associated-with-halitosis]]의 2017 SR+MA를 9편 관찰연구(585 cases, 1591 controls)로 업데이트하며, 측정방법(관능검사 vs VSC 측정)별 subgroup 분석을 추가해 임상적 해석을 보강한다.
 
-## One-line Summary
+## Three-line Summary
 
 SR+MA of 9 observational studies (585 cases, 1591 controls) found a significant positive association between halitosis and periodontitis, with OR ~4 for both organoleptic and VSC-based assessments.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 9편 관찰연구(585 증례, 1591 대조)의 SR+MA로, 구취와 치주염은 유의한 양의 연관성(OR≈4, 관능검사·VSC 측정 모두)을 보이나 이질성이 높아 추가 연구가 필요하다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

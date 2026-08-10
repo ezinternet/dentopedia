@@ -6,19 +6,28 @@ date: 2023-01-01
 doi: 10.1016/j.jormas.2023.101409
 source: van-der-merwe-2023-aminoglycosides-ludwigs-angina-63-cases.md
 category: [oral-surgery]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/van-der-merwe-2023-aminoglycosides-ludwigs-angina-63-cases.pdf
 pdf_filename: van-der-merwe-2023-aminoglycosides-ludwigs-angina-63-cases.pdf
 source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective culture analysis of 63 consecutive Ludwig's angina cases (predominantly odontogenic) showing Gram-positive streptococci — intrinsically resistant to aminoglycosides — as the dominant organisms; concludes empirical aminoglycoside use is not microbiologically justified and β-lactam-based regimens (e.g., ampicillin-sulbactam or β-lactam + metronidazole) are more appropriate, in a population with high diabetes and HIV prevalence.
+Retrospective chart and culture review of 63 consecutive Ludwig's angina cases at Steve Biko Academic Hospital, South Africa, with predominantly odontogenic (mandibular molar) source and high comorbidity burden (diabetes mellitus, HIV).
 
-## 한줄요약
-후향적 연구(n=63): 루드비히 앙기나의 균 배양 결과는 아미노글리코사이드에 내성인 연쇄구균이 주요 원인균으로, 경험적 아미노글리코사이드 사용은 미생물학적 근거가 부족함.
+Gram-positive streptococci — intrinsically resistant to aminoglycosides — were the dominant isolates; mixed flora with anaerobes was frequent; Gram-negative bacilli were a minority (more common in DM/HIV patients); empirical aminoglycoside coverage therefore failed to address the principal pathogens.
+
+Clinicians should favour β-lactam-based regimens (ampicillin-sulbactam, or β-lactam + metronidazole) over aminoglycoside-containing empirical protocols for Ludwig's angina; antibiotic stewardship review of institutional deep-neck-space infection protocols is warranted.
+
+## 세줄요약
+
+후향적 챠트·균 배양 검토 (n=63, 스티브 비코 학술병원, 남아공): 루드비히 앙기나(Ludwig's angina) 연속 증례, 주 원인은 하악 대구치 치원성, 당뇨·HIV 고위험 집단.
+
+아미노글리코사이드에 내성인 그람양성 연쇄구균(Streptococci)이 주요 분리균; 혐기균 혼합 감염 빈번; 그람음성 간균은 소수(당뇨·HIV 환자에서 다소 증가); 따라서 경험적 아미노글리코사이드는 주요 원인균을 포함하지 못함.
+
+루드비히 앙기나의 경험적 항생제 처방은 아미노글리코사이드 포함 요법 대신 β-락탐계(암피실린-술박탐, 또는 β-락탐 + 메트로니다졸)를 우선해야 하며, 기관 내 심경부감염 프로토콜에 대한 항생제 스튜어드십 재검토가 필요.
 
 ## Summary
 This retrospective study (J Stomatol Oral Maxillofac Surg 2023) analyzed 63 consecutive Ludwig's angina cases at the University of Pretoria / Steve Biko Academic Hospital, South Africa. The study challenges the empirical use of aminoglycosides in Ludwig's angina treatment protocols. Culture data showed predominantly Gram-positive streptococci — organisms intrinsically resistant to aminoglycosides — as the primary infecting organisms. The study has particular relevance to antibiotic stewardship in a population with high prevalence of diabetes mellitus and HIV.
@@ -48,5 +57,5 @@ This retrospective study (J Stomatol Oral Maxillofac Surg 2023) analyzed 63 cons
 
 ## Related Papers
 - [[oral-surgery/gargava-2022-deep-neck-space-infection-150-cases]] — complementary DNSI epidemiology and management study (150 cases)
-- [[drug/thornhill-2019-adverse-reactions-oral-antibiotics-dentists]] — antibiotic ADR rates 비교(amoxicillin vs clindamycin); antibiotic stewardship 근거.
-- [[drug/bazsefidpay-2023-antibiotic-restrictive-use-adherence-recommendation]] — 치과 항생제 제한적 사용 권고 adherence.
+- [[drug/antibiotics/thornhill-2019-adverse-reactions-oral-antibiotics-dentists]] — antibiotic ADR rates 비교(amoxicillin vs clindamycin); antibiotic stewardship 근거.
+- [[drug/antibiotics/bazsefidpay-2023-antibiotic-restrictive-use-adherence-recommendation]] — 치과 항생제 제한적 사용 권고 adherence.

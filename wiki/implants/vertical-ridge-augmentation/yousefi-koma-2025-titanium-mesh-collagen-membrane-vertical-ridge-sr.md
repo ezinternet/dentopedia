@@ -6,20 +6,28 @@ date: 2025-07-04
 doi: 10.3390/jfb16070246
 source: yousefi-koma-2025-titanium-mesh-collagen-membrane-vertical-ridge-sr.md
 category: [implants/vertical-ridge-augmentation]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/yousefi-koma-2025-titanium-mesh-collagen-membrane-vertical-ridge-sr.pdf
 pdf_filename: yousefi-koma-2025-titanium-mesh-collagen-membrane-vertical-ridge-sr.pdf
 source_collection: external
 tags: [titanium-mesh, collagen-membrane, dptfe, systematic-review, vbg]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (3 RCTs + 1 case series, 119 patients across 9 articles): adding a collagen membrane on top of titanium meshes or Ti-reinforced PTFE membranes made no significant difference in vertical bone gain or surgical/healing complication rates, suggesting the collagen membrane may be unnecessary in GBR-based VRA.
+Systematic review (PROSPERO-registered, 3 RCTs + 1 case series, 119 patients) examining whether a collagen membrane over titanium meshes or Ti-reinforced dPTFE membranes improves outcomes in GBR-based VRA.
 
-## 한줄요약
+Adding a collagen membrane produced no significant difference in vertical bone gain or surgical/healing complication rates across all included studies.
 
-체계적 문헌고찰(RCT 3편 + 증례군 1편, 9개 논문 119명): 티타늄 mesh 또는 Ti-보강 PTFE 막 위에 콜라겐막 추가 시 수직골증가·수술/치유 합병증률에 유의차 없음 — GBR 기반 VRA에서 콜라겐막이 불필요할 수 있음.
+Evidence base is small (3 RCTs), precluding a firm recommendation; further RCTs are required before routine CM omission can be adopted in clinical practice.
+
+## 세줄요약
+
+PROSPERO 등록 SR(RCT 3편+증례군 1편, 119명): Ti 메시 또는 Ti-보강 dPTFE 막 위 콜라겐막(CM) 추가 여부가 VRA 결과에 미치는 영향 검토.
+
+콜라겐막 추가 시 수직골증가 및 수술·치유 합병증률에 유의한 차이 없음.
+
+포함 연구가 3개 RCT로 적어 확정 권고 불가 — CM 일상 생략 전 추가 RCT 필요.
 
 ## Summary
 

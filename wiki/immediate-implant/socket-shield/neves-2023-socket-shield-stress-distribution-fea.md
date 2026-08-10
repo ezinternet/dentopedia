@@ -6,7 +6,7 @@ date: 2023-07-01
 doi: "10.4103/jisp.jisp_356_22"
 source: neves-2023-socket-shield-stress-distribution-fea.md
 category: [immediate-implant/socket-shield]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/neves-2023-socket-shield-stress-distribution-fea.pdf
 pdf_filename: neves-2023-socket-shield-stress-distribution-fea.pdf
 source_collection: external
@@ -16,13 +16,21 @@ relations:
     target: velasco-bohorquez-2021-socket-shield-failure-mbl-pes-sr-ma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Finite element analysis comparing socket shield (SS, 2.0-mm dentin fragment), heterologous bone graft (HBG), and a fully bone-embedded control (C) under oblique loading; both SS and HBG produced higher peri-implant bone stress than the control, with SS showing the highest stress concentration in peri-implant tissues.
+3D finite element analysis (FEA) of a maxillary central incisor implant-crown model under oblique loads (100 N lingual + 25.5 N incisal) comparing three buccal-wall conditions: socket shield (SS, 2.0-mm dentin fragment), heterologous bone graft (HBG), and control (fully healed bone).
 
-## 한줄요약
+Both SS and HBG produced higher peri-implant bone stress than the healed-bone control; SS showed the highest stress concentration in peri-implant tissues, while differences in the dentin fragment, graft, implant, and prosthetic components were minor.
 
-유한요소분석 — 소켓 쉴드(SS, 2.0 mm 치근편)·이종골이식(HBG)·완전 골내 대조(C) 비교에서 SS와 HBG 모두 대조군보다 주위골 응력이 높았고, SS가 주위 조직 응력 집중이 가장 컸다.
+FEA adds a biomechanical caution to the favorable clinical SST literature — retained root fragments concentrate peri-implant stress — but FEA stress magnitudes do not directly predict clinical failure.
+
+## 세줄요약
+
+상악 중절치 임플란트 크라운의 사위 하중(100 N 설측 + 25.5 N 절단) 모델을 3D 유한요소분석(FEA): 협측벽 조건을 소켓 쉴드(SS, 2.0 mm 치근편)·이종골이식(HBG)·대조(완전 치유골)로 비교.
+
+SS와 HBG 모두 대조군보다 주위골 응력 높음; SS가 주위 조직 응력 집중 최대. 치근편·이식재·임플란트·보철 구성요소 간 차이는 미미.
+
+소켓 쉴드 임상 문헌의 우호적 결과에 생역학적 경고를 추가 — 치근편 보존이 주위골 응력을 집중시키나, FEA 응력 크기가 임상 실패를 직접 예측하지는 않음.
 
 ## Summary
 

@@ -12,11 +12,21 @@ source_collection: external
 ## Why Ingested
 Connects complaint/malpractice risk to specific clinical procedures: endodontics generates the most malpractice claims, and the paper enumerates the procedural errors behind them. Turns the abstract complaint pipeline into concrete chairside risk points; pairs with [[endodontics/shaping]] technique pages.
 
-## One-line Summary
-Narrative review of clinical malpractice in endodontics, cataloguing pre-, intra-, and post-operative errors (perforation, ledging, hypochlorite accidents, instrument fracture, no rubber dam) and their legal ramifications.
+## Three-line Summary
 
-## 한줄요약
-근관치료 임상 과실 내러티브 리뷰 — 술전·술중·술후 오류(천공·레지·차아염소산 사고·기구파절·러버댐 미사용)와 법적 책임 정리.
+Narrative review (European Journal of Dentistry 2019) cataloguing clinical malpractice in endodontics — the dental discipline with the most frequently filed malpractice claims — across pre-operative, intra-operative, and post-operative error categories.
+
+Key errors include incorrect diagnosis, perforations, ledging/apical transportation/zipping, hypochlorite accidents, instrument fracture, and failure to use rubber dam (creating inhalation/ingestion liability); strict adherence to standard-of-care and thorough documentation are framed as the primary malpractice prevention strategies.
+
+Narrative (non-systematic) design with no quantitative risk estimates; legal context is generic rather than jurisdiction-specific, limiting direct applicability to specific legal systems.
+
+## 세줄요약
+
+서술적 리뷰 (European Journal of Dentistry 2019) — 치과 진료 분야 중 과실 청구가 가장 빈번한 근관치료의 술전·술중·술후 오류 유형과 법적 책임 정리.
+
+주요 오류: 오진·천공·레지/근첨 이동/지핑·차아염소산나트륨 사고·기구 파절·러버댐 미사용(흡인·삼킴 책임); 표준진료 준수·철저한 기록이 과실 예방 핵심.
+
+비체계적 서술 리뷰, 정량적 위험 추정치 없음; 법적 맥락이 특정 국가 법률에 특정되지 않아 직접 적용 제한.
 
 ## 1. Document Information
 - European Journal of Dentistry 2019;13(3):450-458 (Thieme). Review Article.

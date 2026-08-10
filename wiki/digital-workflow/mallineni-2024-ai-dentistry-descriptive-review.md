@@ -6,18 +6,26 @@ date: 2024-12-13
 doi: 10.3390/bioengineering11121267
 source: mallineni-2024-ai-dentistry-descriptive-review.md
 category: [digital-workflow]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/mallineni-2024-ai-dentistry-descriptive-review.pdf
 pdf_filename: mallineni-2024-ai-dentistry-descriptive-review.pdf
 source_collection: external
 tags: [AI, multi-specialty, forensic-odontology, pediatric-dentistry, evidence-based-dentistry, MDPI, descriptive-review]
 ---
 
-## One-line Summary
-Descriptive review (Bioengineering 2024;11:1267, multinational authors): AI has entered all dental disciplines (oral medicine, operative, pediatric, periodontics, orthodontics, OMFS, prosthodontics, forensic odontology); majority are imaging/optical diagnosis-based; insufficient data availability, uniformity, and computing power are bottlenecks limiting expansion into non-imaging tasks.
+## Three-line Summary
+Descriptive review (Bioengineering MDPI 2024;11:1267, 13 multinational authors from Saudi Arabia, India, USA, Japan) surveying AI applications across all dental disciplines including forensic odontology, framing AI as a complement to evidence-based dentistry rather than a replacement.
 
-## 한줄요약
-descriptive-review (Bioengineering 2024;11:1267, 다국적 저자): AI는 모든 치과 분야(구강내과·보존·소아·치주·교정·OMFS·보철·법의치과학)에 진입; 대다수가 방사선/광학 영상 기반 진단; 데이터 가용성·균일성·연산력 부족이 비-영상 작업 확산의 병목.
+AI has entered every dental specialty — oral medicine, operative, pediatric, periodontology, orthodontics, OMFS, prosthodontics, and forensic odontology — with radiographic and optical-image-based diagnosis as the dominant application pattern; already deployed capabilities include imaging/diagnosis, treatment planning, robotics/automation, AR/VR, and administrative support.
+
+Data availability, data uniformity, and computational power are the primary bottlenecks limiting AI expansion into non-imaging clinical tasks; the "skill-equaliser" framing (AI assisting less-skilled practitioners) depends on well-calibrated model confidence outputs.
+
+## 세줄요약
+서술적 리뷰 (Bioengineering MDPI 2024;11:1267, 사우디·인도·미국·일본 13인 다국적 저자): 법의치과학 포함 모든 치과 분야의 AI 적용 현황 조사; AI를 근거 중심 치의학의 보완 도구로 규정.
+
+AI는 구강내과·보존·소아·치주·교정·OMFS·보철·법의치과학 전 분야에 진입했으며, 방사선·광학 영상 기반 진단이 지배적 패턴; 영상 진단, 치료계획, 로봇/자동화, AR/VR, 행정 지원이 이미 배포됨.
+
+데이터 가용성·균일성·연산력이 비-영상 임상 작업으로의 AI 확산을 제한하는 주요 병목; "술기 평준화" 프레임은 모델 신뢰도 출력의 보정이 전제되어야 유효하다.
 
 ## Summary
 Descriptive review (Bioengineering MDPI, December 2024) by 13-author multinational team (Saudi Arabia, India, USA, Japan). Surveys AI applications across all dental disciplines including forensic odontology. Frames AI explicitly as complement to evidence-based dentistry, not replacement.
@@ -44,7 +52,7 @@ Descriptive review (Bioengineering MDPI, December 2024) by 13-author multination
 
 **Practice applications already deployed**: imaging/diagnosis, treatment planning, robotics/automation, AR/VR, data analytics, administrative support
 
-## Clinical Implications [claude해석]
+## Clinical Implications [미검증]
 - For Korean general practice: imaging-based caries/periapical detection AI is closest to drop-in deployment; integration with PMS still immature
 - "Skill-equaliser" framing is contestable — depends on whether AI confidence outputs are well-calibrated; overconfident AI in novice hands is worse than no AI
 - Evidence-based dentistry vs ML-trained-model dichotomy: ML models inherit literature bias (most are trained on labelled imaging without RCT-grade outcome linkage)

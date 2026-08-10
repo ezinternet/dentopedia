@@ -6,7 +6,7 @@ date: 2008-03-26
 doi: 10.1111/j.1600-0501.2007.01501.x
 source: lai-2008-rfa-iti-osteotome-sinus-elevation-without-graft.md
 category: [sinus-lift/transcrestal]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/lai-2008-rfa-iti-osteotome-sinus-elevation-without-graft.pdf
 pdf_filename: lai-2008-rfa-iti-osteotome-sinus-elevation-without-graft.pdf
 source_collection: external
@@ -16,11 +16,19 @@ relations:
     target: volpe-2022-osteotome-blood-clot-collagen-sponge-atrophied-maxilla
 ---
 
-## One-line Summary
-Prospective (n=42 ITI/SLA implants, 20-week RFA): graftless OSFE achieves 95.2% osseointegration; ISQ dips weeks 2–6, recovers by week 16; RBH 4–8 mm and bone type do not predict stability.
+## Three-line Summary
+Prospective RFA tracking study (n=42 ITI/SLA implants, 32 patients, posterior maxilla, RBH 4–8 mm, 8 measurement points over 20 weeks) evaluating implant stability dynamics after graftless osteotome sinus floor elevation (OSFE).
 
-## 한줄요약
-전향적(42 ITI-SLA 임플란트, 20주 RFA): 골이식 없는 OSFE 골유착 95.2%; ISQ는 2–6주 dip 후 16주 회복; RBH 4–8mm·골형은 안정성 예측인자 아님.
+Osseointegration was achieved in 40/42 implants (95.2%); ISQ showed a characteristic dip at weeks 2–6 during the primary-to-secondary stability transition, recovering to a stable plateau by week 16.
+
+Neither residual bone height (4–8 mm) nor bone type (Lekholm & Zarb type 3 vs 4) significantly predicted ISQ trajectories, challenging the assumption that soft bone is a contraindication for graftless OSFE.
+
+## 세줄요약
+전향적 공명주파수분석(Resonance Frequency Analysis, RFA) 추적 연구 (n=42 ITI/SLA 임플란트, 32명, 잔존골높이 4–8 mm, 20주간 8회 측정) — 골이식 없는 골절단기 상악동거상술(Osteotome Sinus Floor Elevation, OSFE) 후 안정성 변화 평가.
+
+골유착 성공 40/42 (95.2%); ISQ는 2–6주에 특징적 감소(stability dip) 후 16주에 안정 고원(stable plateau) 회복.
+
+잔존골높이(Residual Bone Height, RBH) 4–8 mm 범위와 골유형(Lekholm & Zarb type 3 vs 4) 모두 ISQ 궤적 예측인자 아님 — 연골(type 4)이 금기가 아님을 시사.
 
 ## Summary
 

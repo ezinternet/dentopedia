@@ -12,11 +12,21 @@ source_collection: external
 ## Why Ingested
 MAD와 MMA 수술의 상기도 확장 효과를 CBCT로 3D 비교한 최초 연구. [[tmj/pereira-2024-condylar-mandibular-movements-mad-osa-cbct]]의 MAD 연구를 보강하며, 하악 회전 방향 차이(시계방향 vs 반시계방향)가 상기도에 미치는 임상적 함의 제공.
 
-## One-line Summary
-Retrospective CBCT cohort (n=17 MAD, n=17 MMA, BMI-matched): MAD causes clockwise mandibular rotation and increases superior oropharynx; MMA causes counterclockwise rotation with greater gains across all UA regions.
+## Three-line Summary
 
-## 한줄요약
-후향적 CBCT 코호트 (MAD 17명, MMA 17명, BMI 매칭): MAD는 시계방향 하악 회전으로 상부 구인두 확장; MMA는 반시계방향으로 전 상기도 영역에서 더 큰 확장.
+Retrospective CBCT cohort (n=17 MAD, n=17 MMA, BMI-matched): MAD causes clockwise mandibular rotation and increases superior oropharynx;
+
+MMA causes counterclockwise rotation with greater gains across all UA regions.
+
+(incomplete)
+
+## 세줄요약
+
+후향적 CBCT 코호트 (MAD 17명, MMA 17명, BMI 매칭): MAD는 시계방향 하악 회전으로 상부 구인두 확장;
+
+MMA는 반시계방향으로 전 상기도 영역에서 더 큰 확장.
+
+(incomplete)
 
 ## 1. Document Information
 - **Journal**: BMC Oral Health (2023) 23:436

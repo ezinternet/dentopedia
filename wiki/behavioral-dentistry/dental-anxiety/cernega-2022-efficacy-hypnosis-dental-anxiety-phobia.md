@@ -6,7 +6,7 @@ date: 2022-04-22
 doi: 10.3390/brainsci12050521
 source: cernega-2022-efficacy-hypnosis-dental-anxiety-phobia.md
 category: [behavioral-dentistry/dental-anxiety]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "35624907"
@@ -19,13 +19,21 @@ relations:
 tags: [dental-anxiety, hypnosis, systematic-review]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 19 adult clinical trials (1979–2021; meta-analysis restricted to 5 STAI studies): hypnosis shows promising but highly heterogeneous, sometimes null/slightly-negative effects on dental anxiety, while CBT carried the most consistent efficacy evidence.
+PRISMA SR+MA (PROSPERO CRD42020172052; 257 records → 19 adult clinical trials, 1979–2021; 15 good / 4 fair quality) evaluating hypnosis and other non-pharmacological interventions for dental anxiety and phobia in adults; 15 different anxiety measurement instruments were used across studies.
 
-## 한줄요약
+Meta-analysis was restricted to 5 STAI-using studies due to severe measurement heterogeneity, yielding effect sizes ranging from −4.30 to 6.20 with no reliable pooled estimate; audiotape self-hypnosis showed generally positive narrative results (7/10 audio studies significant), but CBT demonstrated the strongest and most consistent efficacy evidence of all reviewed techniques.
 
-성인 19편 임상연구 체계적 문헌고찰·메타분석(1979–2021, 메타분석은 STAI 사용 5편만): 최면(Hypnosis)은 치과불안 감소에 긍정적이나 이질성이 매우 커 효과가 일관되지 않고 일부는 무효·약한 음의 효과를 보였으며, 가장 일관된 근거는 인지행동치료(CBT)였다.
+Hypnosis is a promising adjunct supported by fMRI neuroimaging evidence (reduced amygdala/ACC/insula activation) but cannot be reliably quantified until the field standardizes anxiety measurement; CBT — including one-session formats — is currently the treatment of choice for dental phobia.
+
+## 세줄요약
+
+PRISMA SR+MA(19편 성인 임상연구, 1979–2021, 15편 양호·4편 보통 질) — 성인 치과불안·공포에 대한 최면 및 비약물 중재 평가; 연구 간 불안 측정 도구가 15종에 달해 심각한 이질성.
+
+메타분석은 STAI 사용 5편만으로 제한, 효과크기 범위 −4.30 ~ 6.20으로 신뢰할 수 있는 통합 효과 없음; 오디오테이프 자기최면은 서술적으로 긍정(10편 중 7편 유의), 그러나 가장 일관된 근거는 CBT(1회 치료 포함).
+
+최면은 fMRI(편도체·ACC·섬엽 활성 감소) 신경생물학적 기전 지지로 가능성 있으나 측정 표준화 없이 정량화 불가; CBT는 현재 치과공포의 1차 선택 치료법.
 
 ## Summary
 

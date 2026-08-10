@@ -11,13 +11,23 @@ source_collection: external
 
 ## Why Ingested
 
-NON-DENTAL cross-domain 근거. 치과 wiki 전체에서 PDRN의 진통 효과에 대한 최고 등급 근거는 [[wiki/pdrn/kim-2026-efficacy-submucosal-polydeoxyribonucleotide-injection-impacted]] RCT 1편(발치 통증)뿐이다. 본 MSK meta-analysis는 PDRN 주사가 건/인대 통증을 줄이는지를 정량 합성해, 치과 술후 통증·TMJ 적응증의 "PDRN이 실제로 통증을 줄이는가" 외삽 근거로 사용. 단 근골격계 데이터이므로 치과 직접 적용은 [claude해석] 수준임을 명시.
+NON-DENTAL cross-domain 근거. 치과 wiki 전체에서 PDRN의 진통 효과에 대한 최고 등급 근거는 [[wiki/pdrn/kim-2026-efficacy-submucosal-polydeoxyribonucleotide-injection-impacted]] RCT 1편(발치 통증)뿐이다. 본 MSK meta-analysis는 PDRN 주사가 건/인대 통증을 줄이는지를 정량 합성해, 치과 술후 통증·TMJ 적응증의 "PDRN이 실제로 통증을 줄이는가" 외삽 근거로 사용. 단 근골격계 데이터이므로 치과 직접 적용은 [미검증] 수준임을 명시.
 
-## One-line Summary
-Meta-analysis (1 RCT + 3 retrospective, MSK): PDRN injection significantly improved tendon/ligament pain (SMD −1.43, 95% CI −1.80 to −1.06, P<0.00001); rotator-cuff subgroup pain improved but function/strength did not.
+## Three-line Summary
 
-## 한줄요약
-근골격계 PDRN 메타분석(RCT 1 + 후향 3). PDRN 주사가 건/인대 통증을 유의 개선(SMD −1.43, P<0.00001). 회전근개 아군에서 통증↓하나 기능·근력은 무변화. 비치과 데이터 — 치과 외삽은 해석 수준.
+Meta-analysis (1 RCT + 3 retrospective, MSK): PDRN injection significantly improved tendon/ligament pain (SMD −1.43, 95% CI −1.80 to −1.06, P<0.00001);
+
+rotator-cuff subgroup pain improved but function/strength did not.
+
+(incomplete)
+
+## 세줄요약
+
+근골격계 PDRN 메타분석(RCT 1 + 후향 3).
+
+PDRN 주사가 건/인대 통증을 유의 개선(SMD −1.43, P<0.00001).
+
+회전근개 아군에서 통증↓하나 기능·근력은 무변화. 비치과 데이터 — 치과 외삽은 해석 수준.
 
 ## 1. Document Information
 - Journal: Medicine (Baltimore) 2021;100

@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1186/s12903-025-07237-y
 source: mohammadpour-2025-antibiotic-prophylaxis-oral-surgery-sr.md
 category: [drug/antibiotics]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "41286855"
@@ -26,13 +26,21 @@ relations:
     target: vidovic-juras-2024-antibiotic-prophylaxis-dental-procedures
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Scoping review of 125 studies (25 RCTs, 60 cohort, 40 SRs) mapping antibiotic prophylaxis across oral and maxillofacial surgery: perioperative prophylaxis (≤24 h) is supported for third molar extraction, mandibular fractures, TMJ replacement, complex implants, and oncological resections; extended postoperative courses beyond 24 h do not reduce SSI and increase antimicrobial resistance risk.
+PRISMA-ScR scoping review (125 studies: 25 RCTs, 60 cohort, 40 SRs; 5 databases 2000–2025) mapping antibiotic prophylaxis across the entire oral and maxillofacial surgery spectrum using a four-tier contamination-risk classification (Type I–IV, SSI rates 1–>25%).
 
-## 한줄요약
+Perioperative antibiotic prophylaxis (≤24 h) is supported for third molar extraction (SSI reduction 60–70%), mandibular fractures, TMJ replacement, complex implants, and oncological resections; postoperative courses beyond 24 h do not reduce SSI and are associated with paradoxically increased late-onset infections; extended >7-day prophylaxis showed markedly higher SSI (Zosa et al.).
 
-구강악안면외과 125편(RCT 25·코호트 60·SR 40) 스코핑 리뷰: 제3대구치 발치·하악골절·TMJ 치환·복잡 임플란트·두경부종양에서 수술전후 항생제 예방투여 (Antibiotic Prophylaxis, AP) 지지; 술후 24시간 초과 연장 투여는 수술부위감염 (Surgical Site Infection, SSI) 감소 효과 없이 항균제 내성 (Antimicrobial Resistance, AMR) 위험만 증가.
+Amoxicillin/co-amoxiclav is first-line across most procedures; clindamycin is reserved for penicillin allergy only; ~55% of surgeons still prescribe ≥1 week postoperative antibiotics for open mandibular fractures — a major practice–evidence gap requiring antimicrobial stewardship.
+
+## 세줄요약
+
+PRISMA-ScR 스코핑 리뷰(125편: RCT 25·코호트 60·SR 40; 2000–2025): 구강악안면외과(Oral and Maxillofacial Surgery, OMS) 전 영역에 걸친 항생제 예방투여 근거를 4등급 오염도 분류(Type I–IV, 수술부위감염(Surgical Site Infection, SSI) 1–>25%)로 최초 통합.
+
+제3대구치 발치(SSI 60–70% 감소)·하악골절·TMJ 치환·복잡 임플란트·두경부종양에서 수술 전후(≤24h) 항생제 예방 지지; 24시간 이후 연장 투여는 SSI 감소 효과 없고 역설적 감염 증가와 연관; >7일 투여에서 만기 SSI 현저히 높음.
+
+아목시실린(Amoxicillin)/코아목시클라브(Co-amoxiclav)가 대부분 시술의 1차약; 클린다마이신(Clindamycin)은 페니실린 알레르기 시만 사용; ~55%의 외과의가 개방성 하악골절에 여전히 ≥1주 항생제를 처방 — 항균제 관리 필요성이 큰 임상-근거 괴리.
 
 ## Summary
 
@@ -102,10 +110,10 @@ First-line agents across procedures are amoxicillin (2 g single preoperative dos
 
 ## Related Papers
 
-- [[drug/de-angelis-2025-antibiotic-third-molar-extraction-prevention-sr]] — Third molar extraction AP SR; this review extends to full OMFS spectrum
-- [[drug/torof-2023-antibiotic-dental-implant-procedures-sr-ma]] — Implant AP SR+MA; this review contextualizes within broader OMFS evidence
-- [[drug/vidovic-juras-2024-antibiotic-prophylaxis-dental-procedures]] — AP for dental procedures broadly; this review adds OMFS/surgical fracture focus
-- [[drug/mendez-romero-2025-antibiotic-stewardship-dentistry-sr]] — AMS in dentistry SR; aligned stewardship conclusions
-- [[drug/loper-2025-prophylactic-antibiotics-infective-endocarditis-dental-sr]] — Endocarditis prophylaxis for dental procedures (complementary indication)
-- [[drug/diaz-2025-antibiotics-sinus-lift-infection-umbrella]] — Antibiotic use in sinus lift; overlapping with maxillofacial surgery scope
-- [[drug/sandulescu-2024-antibiotic-prescribing-dental-best-practices-review]] — Best practices in antibiotic prescribing; general framework aligned with this review's stewardship conclusions
+- [[drug/antibiotics/de-angelis-2025-antibiotic-third-molar-extraction-prevention-sr]] — Third molar extraction AP SR; this review extends to full OMFS spectrum
+- [[drug/antibiotics/torof-2023-antibiotic-dental-implant-procedures-sr-ma]] — Implant AP SR+MA; this review contextualizes within broader OMFS evidence
+- [[drug/mronj/vidovic-juras-2024-antibiotic-prophylaxis-dental-procedures]] — AP for dental procedures broadly; this review adds OMFS/surgical fracture focus
+- [[drug/antibiotics/mendez-romero-2025-antibiotic-stewardship-dentistry-sr]] — AMS in dentistry SR; aligned stewardship conclusions
+- [[drug/antibiotics/loper-2025-prophylactic-antibiotics-infective-endocarditis-dental-sr]] — Endocarditis prophylaxis for dental procedures (complementary indication)
+- [[drug/antibiotics/diaz-2025-antibiotics-sinus-lift-infection-umbrella]] — Antibiotic use in sinus lift; overlapping with maxillofacial surgery scope
+- [[drug/antibiotics/sandulescu-2024-antibiotic-prescribing-dental-best-practices-review]] — Best practices in antibiotic prescribing; general framework aligned with this review's stewardship conclusions

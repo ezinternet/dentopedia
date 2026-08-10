@@ -1,0 +1,61 @@
+General dentists' approach to dental management of patients taking anticoagulants: a national survey-based assessment: pre- and post-procedure practice
+
+Authors: Sharon Elad, Rebekah Boy, Michael C Leo, Greg C Connolly, Rita Cacciato, Jin Xiao, Suzanne Gillespie, Denis B Nyongesa, Gregg H Gilbert, Cyril Meyerowitz
+
+Journal: Oral Surgery, Oral Medicine, Oral Pathology and Oral Radiology (OOOO)
+Publication date: 2026-04-22
+DOI: 10.1016/j.oooo.2026.04.006
+PMID: 42315384
+PMCID: PMC13280281
+PII: S2212-4403(26)00143-4
+Article types: Journal Article
+Language: eng
+
+Affiliations:
+- Oral Medicine, Eastman Institute for Oral Health, University of Rochester Medical Center, Rochester, NY, USA
+- Kaiser Permanente Center for Health Research, Portland, OR, USA
+- Lipson Cancer Institute, Rochester Regional Health, Rochester, NY, USA
+- Clinical and Translational Research Core, Eastman Institute for Oral Health, University of Rochester Medical Center, Rochester, NY, USA
+- Dental Faculty Practice Group, Eastman Institute for Oral Health, University of Rochester Medical Center, Rochester, NY, USA
+- School of Dentistry, University of Alabama at Birmingham, National Dental Practice-Based Research Network, Birmingham, AL, USA
+
+NOTE: abstract-only — full text not retrieved. PMC13280281 returned an empty full_text body
+via the PubMed MCP get_full_text_article call on 2026-07-19. The text below is the structured
+abstract as indexed in PubMed/PMC.
+
+---
+
+ABSTRACT
+
+Aim:
+
+To determine the pre-operative and post-operative practices of general dentists (GDs) in the
+community for patients taking vitamin K antagonists (VKA) and direct oral anti-coagulants (DOACs).
+
+Methods:
+
+An online questionnaire was administered to GD members of the National Dental Practice-Based
+Research Network. GDs were queried about the interaction with the medical professional prior to
+dental treatment, use of laboratory tests to assess bleeding risk, measures to control bleeding,
+and comfort level with delivering dental care.
+
+Results:
+
+47.6% and 41.2% of GDs "always" consult with the patient's physician prior to an extraction in a
+patient on VKA or DOACs, respectively. 27.1% and 8.7% of GDs use laboratory tests to assess risk
+for bleeding prior to a dental extraction in patients on VKA and DOAC, respectively. For VKA
+patients, GDs prefer INR testing (68.4%), and for DOAC patients, most GDs are "unsure" what blood
+test to use. The most-used hemostatic agents were cellulose (65.1%), collagen (60.6%) and
+epinephrine infiltration (60.6%).
+
+Conclusions:
+
+GDs are uncertain about the best approach for patients taking DOACs. INR is not routinely used by
+most GDs to assess the bleeding risk in patients taking VKA. The most commonly used hemostatic
+agents are cellulose-based, collagen-based and vasoconstrictors.
+
+---
+
+Source: PubMed / PubMed Central. Retrieved 2026-07-19 via PubMed MCP.
+Article URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC13280281/
+DOI link: https://doi.org/10.1016/j.oooo.2026.04.006

@@ -9,8 +9,21 @@ pdf_filename: nasiri-2021-apex-locator-generations-accuracy-sr-ma.pdf
 source_collection: external
 ---
 
-## One-line Summary
-EAL 4세대별 근관 길이 측정 정확도 SR+MA(15개 연구): 4세대(multi-frequency) 전반적 우위, 세대 간 통계적 유의차 확인.
+## Three-line Summary
+
+EAL 4세대별 근관 길이 측정
+
+정확도 SR+MA(15개 연구): 4세대(multi-frequency) 전반적
+
+우위, 세대 간 통계적 유의차 확인.
+
+## 세줄요약
+
+EAL 4세대별 근관 길이 측정
+
+정확도 SR+MA(15개 연구): 4세대(multi-frequency) 전반적
+
+우위, 세대 간 통계적 유의차 확인.
 
 ## 1. Document Information
 - **Title**: Accuracy of different generations of apex locators in determining working length; a systematic review and meta-analysis

@@ -17,13 +17,21 @@ text_filename: son-2026-plga-membrane-horizontal-ridge-gbr-prospective.txt
 
 기존 GBR 차폐막 페이지들은 비흡수성(티타늄 메시)과 흡수성(콜라겐)의 trade-off — 메시는 안정적이나 노출률 15–50%·2차 제거 필요, 콜라겐은 노출은 적으나 비포위 결손에서 collapse — 라는 이분법에 머물러 있다 ([[bone-regeneration/liu-2026-barrier-membranes-gbr-design-applications]], [[bone-regeneration/sasaki-2021-barrier-membranes-tissue-regeneration-review]]). 본 prospective single-arm study는 3D-preformed resorbable PLGA membrane (3D-PRPM)이 메시의 강성과 콜라겐의 흡수성을 결합해 고정 없이·2차 제거 없이 ~3 mm 수평 증대를 달성하는지 검증해, 합성 흡수성 막 RCT ([[bone-regeneration/wang-2025-gelatin-polylactic-acid-pla-membrane-gbr-rct]])와 짝을 이루는 임상 근거를 추가한다.
 
-## One-line Summary
+## Three-line Summary
 
 Prospective single-arm clinical study (20 patients / 21 sites) of a 3D-preformed resorbable PLGA membrane (3D-PRPM, r-Builder, Osstem) with simultaneous implant placement and xenograft for horizontal ridge augmentation: mean horizontal bone augmentation 2.99 ± 1.15 mm, hard tissue gain 2.64 ± 1.10 mm at 5 months (HGR 87.2% ± 8.2%), with zero membrane exposure, infection, or dehiscence.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 전향적 단일군 임상연구(20명/21부위): 임플란트 동시 식립 + 이종골 + 3D 예성형 흡수성 PLGA 차폐막(3D-PRPM) 사용 시 수평 골증대 평균 2.99 mm, 5개월 경성조직 획득 2.64 mm(획득률 87.2%), 막 노출·감염·열개 0건.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

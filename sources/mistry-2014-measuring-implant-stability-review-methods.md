@@ -13,13 +13,21 @@ source_collection: external
 
 기존 [[implants/isq/huang-2020-isq-clinical-significance-literature-review]]와 [[implants/isq/al-jetaily-2010-osstell-periotest-implant-stability-in-vitro]]는 RFA/Periotest 중심의 임플란트 안정성 (Implant Stability) 측정을 다루지만, 측정 방법 전체 스펙트럼(임상 촉진·타진·역토크·절삭토크저항·Periotest·RFA)을 한 페이지에서 비교·서열화한 입문용 narrative review가 없었다. 본 Mistry 2014는 각 방법의 원리·한계를 정리하고 ISQ loading threshold(47/49/54)와 Periotest 해석 구간(−8~0 등)을 제공해 기존 ISQ 페이지들의 conceptual 발판으로 활용.
 
-## One-line Summary
+## Three-line Summary
 
 Narrative review of implant stability measurement methods (clinical perception, percussion, reverse torque, cutting torque resistance, Periotest, RFA/ISQ), concluding no single critical cutoff value reliably predicts implant success and RFA/ISQ is the most useful noninvasive option.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 임플란트 안정성 (Implant Stability) 측정 방법 6가지(임상 촉진·타진·역토크·절삭토크저항·Periotest·공명주파수분석 RFA/ISQ)를 정리한 narrative review로, 단일 임계값으로 성공/실패를 확정할 수 없으며 비침습적인 RFA/ISQ가 가장 유용하다고 결론.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

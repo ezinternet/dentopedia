@@ -1,0 +1,49 @@
+{
+  "overview": "prosthetic-materials-decision-ladder",
+  "date": "2026-07-23",
+  "title": "보철 재료 결정 사다리 — 리콜",
+  "source_wiki": [
+    "wiki/overviews/prosthetic-materials-decision-ladder.md"
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "q": "단관 재료 선택에서 단일체(monolithic) vs 베니어(veneered)의 근거는?",
+      "opts": [
+        "베니어가 칩핑이 적다",
+        "단일체 LDS 5년 생존 98.5%로 최고, 지르코니아·PFM 97.1%로 유사; 단일체 디자인이 베니어 대비 칩핑 유의 감소(Pjetursson 2026, 64편 11,560 crowns)",
+        "PFM이 생존율에서 명확히 열등",
+        "재료 간 생존율 차이가 매우 크다"
+      ],
+      "ans": 1,
+      "rat": "단일체 LDS 5년 생존 98.5%로 최고, 지르코니아·PFM 97.1%로 유사; 단일체가 베니어 대비 칩핑 유의 감소(Pjetursson 2026 SR+MA). ladder: 전치부 심미→단일체 LDS 또는 4Y-PSZ, 구치부 강도→단일체 3Y-TZP 또는 4Y-PSZ, 3-unit 브릿지→단일체 3Y-TZP(Waltenberger 2025 S3), 전악→3Y-TZP 또는 PFM.",
+      "cite": "overviews/prosthetic-materials-decision-ladder"
+    },
+    {
+      "id": "q2",
+      "q": "임플란트 보철의 나사 vs 시멘트 유지 1차 권장과 그 이유는?",
+      "opts": [
+        "시멘트 유지가 1차",
+        "나사 유지가 1차 — 시멘트 잔류로 인한 임플란트주위염 회피 + 회수 가능; 나사가 6개월 MBL SMD −0.63 낮고 합병증 46% 감소(Tomar 2025), 단 나사풀림 18%",
+        "나사와 시멘트는 완전히 동등",
+        "시멘트가 MBL을 더 줄인다"
+      ],
+      "ans": 1,
+      "rat": "1차 권장은 나사 유지 — 시멘트 잔류로 인한 임플란트주위염 회피 + 회수 가능. 나사가 6개월 MBL SMD −0.63 낮고 합병증 46% 감소(Tomar 2025), 단 나사풀림 18%(적정토크 35 Ncm·교합조정으로 감소). 시멘트 적응증: 나사 접근구가 심미 부담이고 지대주가 충분히 retentive(≥4mm)하며 마진이 치은연상일 때.",
+      "cite": "overviews/prosthetic-materials-decision-ladder"
+    },
+    {
+      "id": "q3",
+      "q": "하악 무치악 오버덴쳐의 1차 어태치먼트와 상악 임플란트 수는?",
+      "opts": [
+        "하악은 자석, 상악은 6 implant 필수",
+        "하악은 2 implant + 볼 어태치먼트가 1차(McGill consensus); 상악은 4 vs 6 implant 생존·합병증·만족 모두 NS → 4 implant + splinted bar가 합리적",
+        "하악은 로케이터만, 상악은 항상 6개",
+        "자석 어태치먼트가 가장 우수"
+      ],
+      "ans": 1,
+      "rat": "하악 무치악은 2 implant + 볼 어태치먼트가 1차(합병증 최소, McGill consensus), 좁은 악간공간은 로케이터, 자석은 열위로 회피. 상악 오버덴쳐는 4 vs 6 implant 생존·합병증·만족도 모두 NS → 환자 부담·외과시간 고려 시 4 implant + splinted bar가 합리적(DiFrancesco 2021).",
+      "cite": "overviews/prosthetic-materials-decision-ladder"
+    }
+  ]
+}

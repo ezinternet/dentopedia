@@ -16,13 +16,21 @@ text_filename: alenezi-2024-endodontically-treated-teeth-post-placement-survival
 
 Answers the most fundamental decision in the field — "do we even need a post?" — with clinical survival data, the necessary counterweight to the material-choice papers [[post-and-core/tsintsadze-2022-survival-rates-glass-fiber-metal-posts]]. Frames when a post adds value (it improves survival here), against the minimally-invasive no-post / endocrown alternative in [[post-and-core/mously-2024-anterior-endocrowns-alternative-core-crown]].
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (17 clinical studies in quantitative synthesis, 7,278 patients / 7,330 ETT): post placement was associated with a statistically significant improvement in survival of endodontically treated teeth vs no post (P<0.001).
+SR+MA of 57 studies (17 clinical studies in quantitative synthesis: 11 prospective, 6 retrospective; 7,278 patients, 7,330 endodontically treated teeth) examining post placement vs no-post on clinical survival; abstract-only ingest.
 
-## 한줄요약
+Post placement was associated with a statistically significant improvement in survival of endodontically treated teeth versus no post (P<0.001), providing the largest pooled clinical cohort addressing this question.
 
-SR+MA(정량분석 임상연구 17편, 환자 7,278명·근관치료치아 7,330개): 포스트 식립이 무포스트 대비 근관치료치아 생존율을 유의하게 향상시켰음(P<0.001).
+The study did not stratify by remaining coronal structure — the modern view holds that post benefit is conditional on substance loss — and heterogeneous study designs limit direct comparisons with in-vitro/biomechanical reviews.
+
+## 세줄요약
+
+SR+MA(정량분석 임상연구 17편: 전향 11·후향 6, 환자 7,278명·근관치료치아 7,330개): 포스트 식립 vs 무포스트 임상 생존율 비교; 초록만 수집.
+
+포스트 식립이 무포스트 대비 근관치료치아 생존율을 유의하게 향상(P<0.001); 본 주제에서 가장 큰 임상 풀링 코호트.
+
+잔존 치관 구조량별 층화 분석 없음 — 현대적 관점에서 포스트 유익성은 구조 손실 정도에 조건부; 연구 설계 이질성으로 in vitro/생역학 리뷰와 직접 비교 제한.
 
 ## 1. Document Information
 

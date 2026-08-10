@@ -13,13 +13,21 @@ source_collection: external
 
 GentleWave® multisonic (negative-apical-pressure) activation is marketed as the most powerful irrigant delivery system, but [[wiki/endodontics/irrigation/boutsioukis-2022-irrigants-irrigation-methods-status-directions]] holds that no activation method has been proven to improve clinical RCT outcomes over the NaOCl+EDTA standard. This SR directly tests multisonic vs ultrasonic activation on the most clinically relevant target (multispecies biofilm) and finds them broadly equivalent — reinforcing the "no method proven superior" thesis even at the bench level.
 
-## One-line Summary
+## Three-line Summary
 
 Systematic review (3 in-vitro studies, multispecies biofilm in extracted teeth) finding GentleWave multisonic activation achieved bacterial reduction similar to passive ultrasonic irrigation — multisonic did not consistently outperform ultrasonic.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 다균종 biofilm을 심은 발치치아 모델 3편(in vitro)을 모은 체계적 문헌고찰: GentleWave 멀티소닉 활성화는 초음파 활성화(PUI)와 세균 감소량이 비슷했고, 멀티소닉이 일관되게 더 우수하지는 않았다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

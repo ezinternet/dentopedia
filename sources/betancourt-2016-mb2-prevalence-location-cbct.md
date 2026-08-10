@@ -13,8 +13,21 @@ source_collection: external
 
 기존 wiki MB2 SR 페이지([[endodontics/anatomy/hasheminia-2025-mb2-prevalence-maxillary-molar-iranian-sr]], [[endodontics/anatomy/wu-2025-mb2-prevalence-maxillary-molar-han-cbct-sr]])의 primary CBCT 데이터로, 1MM/2MM을 동일 코호트(n=1,100)에서 직접 비교한 대규모 칠레 인구 표본. SR 메타데이터에 ethnic-population 가중치 보강.
 
-## One-line Summary
-CBCT 1100개 (550 1MM + 550 2MM) — MB2 prevalence: 1MM 69.82%(여성↑), 2MM 46.91%(남성↑); PMB1-PMB2 거리 1MM 2.68±0.49 mm, 2MM 2.41±0.64 mm.
+## Three-line Summary
+
+CBCT cross-sectional study (n=1,100: 550 maxillary first molars + 550 maxillary second molars, Chilean population) measuring MB2 prevalence and geometric location in both molar types using standardized coordinates 1 mm apical to the pulpal floor.
+
+MB2 prevalence: first molar 69.82% (females higher, p=0.005), second molar 46.91% (males higher, p<0.001); PMB1–PMB2 distance: 1MM 2.68±0.49 mm vs 2MM 2.41±0.64 mm.
+
+Single-population (Chilean) design limits ethnic generalizability; CBCT resolution differences from micro-CT are unvalidated; prevalence varies by measurement cross-section.
+
+## 세줄요약
+
+CBCT 횡단면 연구(총 1,100개: 상악 제1·2대구치 각 550개, 칠레 인구) — 치수강 저부 1 mm 하방 표준화 좌표계로 MB2 존재율과 기하학적 위치 측정.
+
+MB2 존재율: 제1대구치 69.82%(여성↑, p=0.005), 제2대구치 46.91%(남성↑, p<0.001); PMB1-PMB2 거리: 1MM 2.68±0.49 mm, 2MM 2.41±0.64 mm.
+
+단일 인구(칠레) 한계; 마이크로CT 검증 없는 CBCT 해상도 제한; 측정 단면 위치에 따라 존재율 변동 가능.
 
 ## 1. Document Information
 - BMC Oral Health 16:47 (2016)

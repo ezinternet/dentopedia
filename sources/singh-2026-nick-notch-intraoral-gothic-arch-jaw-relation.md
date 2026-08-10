@@ -19,13 +19,21 @@ text_filename: singh-2026-nick-notch-intraoral-gothic-arch-jaw-relation.txt
 
 According to PubMed, the source article is "Jaw relation recording using nick and notch technique with intraoral gothic arch tracing in completely edentulous patients: A clinical study" (Bioinformation, 2026; PMID 42282410; PMCID PMC13252300), [DOI](https://doi.org/10.6026/973206300222521).
 
-## One-line Summary
+## Three-line Summary
 
-Within-subject clinical comparative study (n=20 edentulous, ages 45-60); split-cast verification on a semi-adjustable articulator showed Nick and Notch wax registration gave the lowest jaw-relation discrepancy (centric 0.15 mm, protrusive 0.23 mm), intraoral Gothic arch tracing intermediate (0.42 / 0.51 mm), and extraoral Gothic arch tracing the highest (0.74 / 0.86 mm); all pairwise differences significant (p<0.001).
+Within-subject clinical comparative study (n=20 edentulous, ages 45-60);
 
-## 한줄요약
+split-cast verification on a semi-adjustable articulator showed Nick and Notch wax registration gave the lowest jaw-relation discrepancy (centric 0.15 mm, protrusive 0.23 mm), intraoral Gothic arch tracing intermediate (0.42 / 0.51 mm), and extraoral Gothic arch tracing the highest (0.74 / 0.86 mm);
 
-무치악 환자 20명(45-60세) 자가대조 임상비교연구. 반조절성 교합기 split-cast 검증에서 nick-and-notch 왁스 기록이 악간관계 오차가 가장 작았고(중심위 0.15 mm·전방위 0.23 mm), 구내 고딕아치 추적이 중간(0.42/0.51 mm), 구외 고딕아치 추적이 가장 컸다(0.74/0.86 mm). 모든 쌍별 차이 유의(p<0.001), 전방위 오차가 중심위보다 일관되게 큼.
+all pairwise differences significant (p<0.001).
+
+## 세줄요약
+
+무치악 환자 20명(45-60세) 자가대조 임상비교연구.
+
+반조절성 교합기 split-cast 검증에서 nick-and-notch 왁스 기록이 악간관계 오차가 가장 작았고(중심위 0.15 mm·전방위 0.23 mm), 구내 고딕아치 추적이 중간(0.42/0.51 mm), 구외 고딕아치 추적이 가장 컸다(0.74/0.86 mm).
+
+모든 쌍별 차이 유의(p<0.001), 전방위 오차가 중심위보다 일관되게 큼.
 
 ## 1. Document Information
 

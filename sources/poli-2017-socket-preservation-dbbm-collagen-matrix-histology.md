@@ -9,8 +9,21 @@ pdf_filename: poli-2017-socket-preservation-dbbm-collagen-matrix-histology.pdf
 source_collection: external
 ---
 
-## One-line Summary
-J Periodontal Implant Sci 2017;47(4):194-210: n=7, DBBM + porcine collagen matrix socket preservation, 6-month histology — width resorption 1.21mm, height 0.46mm; 31.97% residual xenograft, 16.02% new bone; uneventful healing.
+## Three-line Summary
+
+J Periodontal Implant Sci 2017;47(4):194-210: n=7, DBBM + porcine collagen matrix socket preservation, 6-month histology — width resorption 1.21mm, height 0.46mm
+
+31.97% residual xenograft, 16.02% new bone
+
+uneventful healing.
+
+## 세줄요약
+
+J Periodontal Implant Sci 2017;47(4):194-210: n=7, DBBM + porcine collagen matrix socket preservation, 6-month histology — width resorption 1.21mm, height 0.46mm
+
+31.97% residual xenograft, 16.02% new bone
+
+uneventful healing.
 
 ## 1. Key Results
 - 7 sockets, 7 patients; DBBM + non-crosslinked porcine collagen matrix (CM)

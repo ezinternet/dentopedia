@@ -9,8 +9,21 @@ pdf_filename: zailai-2025-bulk-fill-vs-conventional-composites-clinical-sr-ma.pd
 source_collection: external
 ---
 
-## One-line Summary
-SR+MA of 9 RCTs (632 restorations) finding no significant difference in failure rates between bulk-fill and incremental resin composites in posterior permanent teeth (RR = 0.82; 95% CI: 0.33–2.01; p = 0.67).
+## Three-line Summary
+
+SR+MA of 9 RCTs (632 restorations) finding no significant difference in failure rates between bulk-fill and incremental resin composites in posterior permanent teeth (RR = 0.82
+
+95% CI: 0.33–2.01
+
+p = 0.67).
+
+## 세줄요약
+
+체계적 고찰 및 메타분석 (SR+MA) of 9 무작위 대조 시험 (RCT)s (632 restorations) finding no significant difference in failure rates between bulk-fill and incremental resin composites in posterior permanent teeth (RR = 0.82
+
+95% CI: 0.33–2.01
+
+p = 0.67).
 
 ## 1. Document Information
 - **Type**: Systematic Review and Meta-analysis

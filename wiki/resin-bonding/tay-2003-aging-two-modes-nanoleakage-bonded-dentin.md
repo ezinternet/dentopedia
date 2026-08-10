@@ -6,7 +6,7 @@ date: 2003-07-01
 doi: 10.1177/154405910308200710
 source: tay-2003-aging-two-modes-nanoleakage-bonded-dentin.md
 category: [resin-bonding]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: false
 pmid: "12821715"
@@ -19,13 +19,21 @@ relations:
     target: tay-2003-water-treeing-degradation-dentin-adhesives
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In-vitro TEM study (abstract-only): bonded human dentin aged ≤12 months in artificial saliva, traced with 50 wt% ammoniacal silver nitrate, shows reticular nanoleakage within the hybrid layer early on, progressively replaced by water-tree silver uptake in the adhesive's water-binding domains — defining two aging-dependent nanoleakage modes and marking water-filled channels as hydrolytic-degradation sites.
+In vitro TEM nanoleakage study (human teeth, experimental filled-adhesive, aged ≤12 months in artificial saliva vs mineral-oil control, traced with 50 wt% ammoniacal silver nitrate; abstract-only retrieved).
 
-## 한줄요약
+Early aging produced reticular silver deposits within the bulk of the hybrid layer; with time these diminished and were replaced by silver uptake in water-binding domains of the adhesive layer (water-tree pattern), confirming two distinct, aging-dependent nanoleakage modes.
 
-In-vitro TEM 연구(초록만): 인공 타액에서 ≤12개월 노화시킨 접착 상아질을 50 wt% 암모니아 질산은으로 추적하면, 초기 혼성층(hybrid layer) 내 망상형(reticular) 나노누출이 점차 접착제 물 결합 영역의 워터트리(water tree)형 은 침착으로 대체된다 — 노화 의존적 두 가지 나노누출 양상을 정의하고 물 채워진 채널을 가수분해 열화 부위로 지목.
+These water-filled channels are potential hydrolytic-degradation sites; minimizing adhesive hydrophilicity and residual interface water (adequate solvent evaporation, hydrophobic overlayer) targets the mechanism that this study identifies as a progressive failure pathway.
+
+## 세줄요약
+
+In vitro TEM 나노누출 연구 (사람 치아, 실험용 충전형 접착제, 인공타액 ≤12개월 노화 vs 비수성 미네랄오일 대조, 50 wt% 암모니아 질산은 추적; 초록만 확보).
+
+초기 노화에서 혼성층(hybrid layer) 내부에 망상형(reticular) 은 침착이 나타나며, 시간이 지남에 따라 이 침착이 감소하고 접착제층의 수분 결합 영역에서 워터트리(water tree)형 은 침착이 증가 — 노화 의존적 두 가지 나노누출 양상을 정의.
+
+이들 수분 채워진 채널이 가수분해 열화의 잠재 경로임; 접착제 친수성·계면 잔류수분 최소화(충분한 용매 증발, 소수성 피복층)가 이 연구에서 확인된 점진적 파괴 기전을 표적으로 함.
 
 ## Summary
 

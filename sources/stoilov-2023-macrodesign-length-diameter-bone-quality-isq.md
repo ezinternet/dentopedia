@@ -10,8 +10,21 @@ pdf_filename: stoilov-2023-macrodesign-length-diameter-bone-quality-isq.pdf
 source_collection: external
 ---
 
-## One-line Summary
-In vitro PU foam study: diameter > length for primary stability; tapered (TE) macro-design outperforms parallel in all bone densities; drilling protocol must adapt to simulated bone quality for optimal IT and ISQ.
+## Three-line Summary
+
+In vitro PU foam study: diameter > length for primary stability
+
+tapered (TE) macro-design outperforms parallel in all bone densities
+
+drilling protocol must adapt to simulated bone quality for optimal IT and ISQ.
+
+## 세줄요약
+
+In vitro PU foam study: diameter > length for primary stability
+
+tapered (TE) macro-design outperforms parallel in all bone densities
+
+drilling protocol must adapt to simulated bone quality for optimal IT and ISQ.
 
 ## 1. Document Information
 - Journal: Journal of Functional Biomaterials 14:469 (2023)

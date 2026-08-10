@@ -13,13 +13,21 @@ source_collection: external
 
 This critical review quantifies how much of the canal wall instruments leave untouched (10–50% round canals, up to 80% oval canals) and lays out the rationale for supplementary disinfection — the mechanistic bridge between canal anatomy and persistent infection. It extends shaping work on instrument geometry/transportation in [[wiki/endodontics/shaping/kim-2021-protaper-waveone-trunatomy-canal-transportation]] and connects directly to irrigation-activation strategies in [[wiki/endodontics/irrigation/boutsioukis-2022-irrigants-irrigation-methods-status-directions]].
 
-## One-line Summary
+## Three-line Summary
 
-Critical review (Siqueira et al. 2018, Braz Oral Res) explaining why instruments leave substantial canal surface unprepared (~10–50% in round/small canals, up to 80% in oval/flattened canals; even higher apically), the resulting biofilm-persistence risk for post-treatment apical periodontitis, and strategies to compensate (adequate apical size, copious/renewed NaOCl, supplementary activation, anatomy-adapted techniques).
+Critical review (Siqueira et al.
 
-## 한줄요약
+2018, Braz Oral Res) explaining why instruments leave substantial canal surface unprepared (~10–50% in round/small canals, up to 80% in oval/flattened canals;
+
+even higher apically), the resulting biofilm-persistence risk for post-treatment apical periodontitis, and strategies to compensate (adequate apical size, copious/renewed NaOCl, supplementary activation, anatomy-adapted techniques).
+
+## 세줄요약
 
 Siqueira 등 (2018, Braz Oral Res) 비평적 종설 — 기구가 근관벽의 상당 부분을 건드리지 못하는 이유(원형/소형 근관 약 10–50%, 타원형/편평 근관 최대 80%, 근단부는 더 높음)와 그로 인한 바이오필름 잔존·치료 후 치근단치주염 위험, 이를 보완하는 전략(적절한 근단부 확대, 충분·교체되는 NaOCl, 보조 세정 활성화, 해부 맞춤 술식)을 정리.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

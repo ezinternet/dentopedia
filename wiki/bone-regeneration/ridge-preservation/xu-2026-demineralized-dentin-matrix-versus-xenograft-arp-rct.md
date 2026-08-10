@@ -6,7 +6,7 @@ date: 2026-05-22
 doi: 10.1186/s40729-026-00682-6
 source: xu-2026-demineralized-dentin-matrix-versus-xenograft-arp-rct.md
 category: [bone-regeneration/ridge-preservation]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: true
 pmid: "42174333"
@@ -24,13 +24,21 @@ relations:
     target: kim-2024-collagenated-xenograft-arp-rct
 ---
 
-## One-line Summary
+## Three-line Summary
 
-RCT (n=50; DDM 25 vs DBBM 25): autogenous demineralized dentin matrix showed greater early (3-mo) horizontal resorption at mid-socket (0.77 vs 0.44 mm, p=0.006) but comparable 6-month dimensional stability and superior histological tissue integration vs DBBM.
+Single-blind RCT (n=50; DDM n=25 vs DBBM/Bio-Oss n=25) comparing autogenous chairside-processed demineralized dentin matrix (400–800 µm) against the xenograft gold standard for alveolar ridge preservation after single premolar/molar extraction, with CBCT at 3 and 6 months plus 6-month core biopsies (10 patients).
 
-## 한줄요약
+DDM showed significantly greater mid-socket horizontal resorption at 3 months (0.77 vs 0.44 mm, p=0.006), but all dimensional outcomes were equivalent between groups at 6 months (all p>0.05); histologically, DDM demonstrated active biodegradation with osteoclastic remodeling and dense Ki-67/SATB2 staining, while DBBM remained a quiescent osteoconductive scaffold.
 
-RCT (n=50; DDM 25 vs DBBM 25): 자가 탈회상아질기질(DDM)은 3개월 socket 중간부 수평흡수가 더 컸으나(0.77 vs 0.44 mm, p=0.006), 6개월 차원안정성은 DBBM과 동등했고 조직학적 신생골 통합은 더 우수.
+DDM is a biologically active, autogenous, waste-to-resource ARP alternative that matches DBBM dimensional performance at 6 months — early contraction reflects physiological creeping substitution rather than failure — though the small histology subset (n=10) and single-center design limit generalizability.
+
+## 세줄요약
+
+단일맹검 무작위대조시험(n=50; DDM 25개 vs DBBM 25개): 자가 탈회상아질기질(Demineralized Dentin Matrix, DDM)과 이종골(Deproteinized Bovine Bone Mineral, DBBM)을 단일 치아 발치 후 치조제보존술에서 비교했으며 CBCT 3·6개월 및 6개월 골생검을 시행했다.
+
+DDM군은 3개월 소켓 중간부 수평흡수가 유의하게 컸으나(0.77 vs 0.44 mm, p=0.006), 6개월 시점의 모든 치수 결과는 양 군 간 동등했고(모두 p>0.05), 조직학적으로 DDM은 파골세포성 재형성·Ki-67/SATB2 양성 성숙 신생골을 보인 반면 DBBM은 비흡수 골전도성 지지체로 남았다.
+
+DDM은 6개월 치수 보존에서 DBBM과 동등한 자가 "폐기물 재자원화" 대안이며, 초기 수축은 생리적 포행대치의 반영이다. 단, 조직학 소그룹(n=10)·단일센터 설계·6개월 추적의 한계가 있다.
 
 ## Summary
 

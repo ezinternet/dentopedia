@@ -6,18 +6,26 @@ date: 2024-06-03
 doi: 10.3390/bioengineering11060565
 source: lopez-valverde-2024-alveolar-ridge-bone-mineral-graft-collagen.md
 category: [bone-regeneration/ridge-preservation]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/lopez-valverde-2024-alveolar-ridge-bone-mineral-graft-collagen.pdf
 pdf_filename: lopez-valverde-2024-alveolar-ridge-bone-mineral-graft-collagen.pdf
 source_collection: external
 tags: [alveolar-ridge-preservation, bone-mineral-graft, collagen-membrane, socket-preservation, meta-analysis]
 ---
 
-## One-line Summary
-SR+MA (Bioengineering 2024, 12 studies): bone mineral graft + collagen membrane vs. natural healing shows a preservation trend but no statistical significance (P>0.05); heterogeneity I²>75%; additional homogeneous RCTs needed.
+## Three-line Summary
+SR+MA (Bioengineering 2024; University of Salamanca + Coimbra; 12 studies, 561 screened) evaluating bone mineral grafts combined with resorbable collagen membranes vs spontaneous healing for alveolar ridge preservation, using Cochrane RoB and JBI methodology tools.
 
-## 한줄요약
-sr+ma(Bioengineering 2024): 12편; 골광물질이식 + 콜라겐막 vs 자연치유 — 보존 경향성 있으나 p>0.05(통계적 비유의); 이질성 I²>75% 높음; 추가 균질 RCT 필요.
+Despite a positive preservation trend, no statistical significance was achieved (P>0.05), limited by substantial heterogeneity (I²>75%) requiring random-effects modeling; collagen membranes were noted for their biocompatibility and resorbability.
+
+Results contrast with Avila-Ortiz 2014 (significant ARP benefit in RCT-only SR+MA), likely explained by this review's broader inclusion criteria, mixed material combinations, and higher heterogeneity — underscoring that not all SR+MAs on ARP reach the same conclusions.
+
+## 세줄요약
+SR+MA (Bioengineering 2024; 살라망카대+코임브라대; 12편, 561편 스크리닝): 흡수성 콜라겐막과 결합한 골광물질 이식재 vs 자연치유의 치조제보존 효과를 Cochrane RoB 및 JBI 방법론으로 평가.
+
+보존 경향성에도 불구하고 통계적 유의성에 도달하지 못했으며 (P>0.05), 이질성이 높아 (I²>75%) 무작위 효과 모형이 필요; 콜라겐막의 생체적합성·흡수성은 인정.
+
+Avila-Ortiz 2014 (RCT 한정 SR+MA에서 유의한 ARP 이점)와 대조를 이루며, 이는 넓은 포함 기준·혼합 재료 조합·높은 이질성에 기인하여, ARP SR+MA가 모두 동일한 결론에 이르지 않음을 보여준다.
 
 ## Summary
 Systematic review and meta-analysis (University of Salamanca + Coimbra) evaluating bone mineral grafts combined with resorbable collagen membranes vs spontaneous healing for alveolar ridge preservation. Despite a positive trend in dimensional preservation, no statistical significance was achieved, limited by high heterogeneity among included studies.

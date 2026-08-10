@@ -6,7 +6,7 @@ date: 2024-04-05
 doi: 10.1111/edt.12956
 source: tewari-2024-pulp-necrosis-lateral-luxation.md
 category: [dental-trauma]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: false
 pmid: "38576393"
@@ -16,13 +16,21 @@ text_filename: tewari-2024-pulp-necrosis-lateral-luxation.txt
 tags: [luxation, lateral-luxation, pulp-necrosis, root-resorption, EIRR, apex-maturity, prognosis]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (13 studies; GRADE very low): after lateral luxation of permanent anterior teeth, pooled pulp-necrosis prevalence is 57% overall — 58% in mature-apex vs only 12% in immature-apex teeth — and EIRR ~11%, so routine prophylactic pulp extirpation in mature teeth should be applied with caution.
+SR+MA (PROSPERO protocol; 13 studies, 1985–2020, hospital settings; GRADE; pooled proportions and relative risks) quantifying pulp-necrosis and root-resorption risk after lateral luxation of permanent anterior teeth — authored by Dental Trauma Guide / IADT-lineage investigators including Lauridsen and Andersson.
 
-## 한줄요약
+Pooled pulp-necrosis prevalence was 57% overall (95% CI 42–72%), stratified sharply by apex maturity: mature apex 58% (I²=86%) vs immature apex only 12% (I²=0%); external inflammatory root resorption (EIRR) affected ~11% overall, also higher in mature apex (RR 1.26).
 
-SR+MA (13편; GRADE 매우 낮음): 영구 전치 측방탈구(lateral luxation) 후 치수괴사 통합 유병률은 전체 57%이며 성숙치근 58% 대 미성숙치근 12%, 외부염증성치근흡수(EIRR)는 약 11%다. 따라서 성숙치에 대한 일률적 예방적 치수적출은 신중히 적용해야 한다.
+Even in mature-apex teeth the necrosis rate stays below 60%, and most outcomes carried GRADE very low certainty — so the authors argue against an absolute prophylactic-endodontics rule for mature laterally luxated teeth, with apex maturity as the dominant prognostic axis.
+
+## 세줄요약
+
+SR+MA (PROSPERO 프로토콜; 13편, 1985–2020, 병원 기반; GRADE; 통합 비율 및 상대위험도): 영구 전치 측방탈구(lateral luxation) 후 치수괴사·치근흡수 위험 정량화 — Dental Trauma Guide / IADT 연구자(Lauridsen, Andersson 등) 주도.
+
+통합 치수괴사 유병률 전체 57% (95% CI 42–72%), 치근 성숙도에 따라 명확히 층화: 성숙치근 58% (I²=86%) vs 미성숙치근 12% (I²=0%); 외부염증성치근흡수(External Inflammatory Root Resorption, EIRR) 전체 약 11%, 성숙치근에서 더 높음(RR 1.26).
+
+성숙치근이라도 괴사율이 60%를 넘지 않고 대부분 결과가 GRADE 매우 낮음 — 따라서 저자들은 성숙 측방탈구치에 대한 일률적 예방적 근관치료를 반대하며, 치근 성숙도가 주된 예후 결정축이다.
 
 ## Summary
 

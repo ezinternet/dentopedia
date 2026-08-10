@@ -11,15 +11,23 @@ source_collection: external
 
 ## Why Ingested
 
-이 endotoxin 배치의 최상위 종합(overview of SRs) 논문으로, 배치 내 [[endodontics/irrigation/bedran-2020-calcium-hydroxide-endotoxin-reduction-sr-ma]]를 포함한 5개 SR을 AMSTAR2로 평가해 "화학기계적 형성과 첩약 모두 endotoxin을 완전 제거 못 한다"는 배치 thesis의 근거 천장(evidence ceiling)을 명시한다. [[endodontics/ordinola-zapata-2022-intracanal-medicaments-status-directions]]의 medicament 한계 서술을 SR 수준 근거로 보강한다.
+이 endotoxin 배치의 최상위 종합(overview of SRs) 논문으로, 배치 내 [[endodontics/irrigation/bedran-2020-calcium-hydroxide-endotoxin-reduction-sr-ma]]를 포함한 5개 SR을 AMSTAR2로 평가해 "화학기계적 형성과 첩약 모두 endotoxin을 완전 제거 못 한다"는 배치 thesis의 근거 천장(evidence ceiling)을 명시한다. [[endodontics/irrigation/ordinola-zapata-2022-intracanal-medicaments-status-directions]]의 medicament 한계 서술을 SR 수준 근거로 보강한다.
 
-## One-line Summary
+## Three-line Summary
 
-Overview of 5 systematic reviews (2 high-quality by AMSTAR2): higher endotoxin levels correlate with symptomatic teeth (exudation, prior pain, pain on percussion); chemomechanical preparation and calcium hydroxide ICM significantly reduce but cannot eliminate endotoxins; multi-session RCT outperforms single-session for endotoxin removal in symptomatic apical periodontitis.
+Overview of systematic reviews (umbrella review) synthesizing 5 SRs on endotoxins in endodontic infections, appraised with AMSTAR2 (2 of 5 rated high quality); search to July 2021.
 
-## 한줄요약
+Higher endotoxin levels correlate with symptomatic teeth (exudation, prior pain, pain on percussion); chemomechanical preparation and calcium hydroxide ICM significantly reduce endotoxins (Ca(OH)₂ SMD −1.051, very-low certainty) but cannot eliminate them; multi-session RCT outperforms single-session for endotoxin removal in symptomatic apical periodontitis.
 
-5개 체계적 문헌고찰을 종합한 overview(AMSTAR2 고품질 2편): endotoxin 수치는 증상(삼출·기왕통·타진통)과 상관하며, 화학기계적 형성과 수산화칼슘 첩약은 endotoxin을 유의하게 감소시키나 완전 제거는 못 하고, 증상성 근단치주염에서 다회 내원이 단회보다 endotoxin 제거에 우수함.
+Conventional root canal preparation and intracanal medication are insufficient to eliminate endotoxins — improvement in disinfection strategies is needed; evidence ceiling is low (only 5 SRs, mostly observational primaries, high heterogeneity I²=83.3% for Ca(OH)₂ effect).
+
+## 세줄요약
+
+Overview of SRs (우산 리뷰): 근관 감염 endotoxin에 관한 SR 5편 종합 (AMSTAR2 평가 — 고품질 2편); 검색 2021년 7월까지.
+
+Endotoxin은 증상성 치아(삼출·기왕통·타진통)와 상관; 화학기계적 형성과 Ca(OH)₂ 첩약은 유의하게 감소시키나(SMD −1.051, 확실성 매우 낮음) 완전 제거 불가; 증상성 근단치주염에서 다회 내원이 단회보다 endotoxin 제거 우수.
+
+기존 근관 형성·세정·첩약만으로는 endotoxin 완전 제거 불가 — 더 효과적인 소독 전략 필요; 근거 수준 낮음(SR 5편, 주로 관찰연구 원시데이터, I²=83.3%).
 
 ## 1. Document Information
 
@@ -58,7 +66,7 @@ Overview of 5 systematic reviews (2 high-quality by AMSTAR2): higher endotoxin l
 ## 6. Related Work
 
 - Umbrella-level synthesis incorporating [[endodontics/irrigation/bedran-2020-calcium-hydroxide-endotoxin-reduction-sr-ma]] and related endotoxin SRs.
-- Reinforces medicament/disinfection limits described in [[endodontics/ordinola-zapata-2022-intracanal-medicaments-status-directions]] and the protocol comparison [[endodontics/irrigation/alquria-2023-disinfection-protocols-bacteria-lta-lps]].
+- Reinforces medicament/disinfection limits described in [[endodontics/irrigation/ordinola-zapata-2022-intracanal-medicaments-status-directions]] and the protocol comparison [[endodontics/irrigation/alquria-2023-disinfection-protocols-bacteria-lta-lps]].
 
 ## 7. Glossary
 

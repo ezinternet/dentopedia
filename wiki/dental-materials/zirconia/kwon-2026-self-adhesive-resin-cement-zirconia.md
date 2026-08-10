@@ -6,18 +6,26 @@ date: 2026-01-29
 doi: 10.3390/jfb17020070
 source: kwon-2026-self-adhesive-resin-cement-zirconia.md
 category: [dental-materials/zirconia]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/kwon-2026-self-adhesive-resin-cement-zirconia.pdf
 pdf_filename: kwon-2026-self-adhesive-resin-cement-zirconia.pdf
 source_collection: external
 tags: [SARC, self-adhesive-resin-cement, zirconia, MDP, primer, thermocycling, bond-strength, TheraCem]
 ---
 
-## One-line Summary
-In vitro (J Funct Biomater 2026, n=180, 10,000 thermocycles): 3 SARCs on sandblasted zirconia — SBS ranked TheraCem > Clearfil SA > RelyX U200; Z-Prime Plus primer significantly improved SBS in all groups; all groups showed SBS reduction after thermocycling.
+## Three-line Summary
+In vitro study (J Funct Biomater 2026, n=180 sandblasted zirconia specimens, 10,000 thermocycles at 5–55°C) comparing shear bond strength of three self-adhesive resin cements (SARCs) with/without Z-Prime Plus primer.
 
-## 한줄요약
-인비트로(J Funct Biomater 2026, n=180, 열순환 10,000회): 자가접착 레진시멘트 (SARC) 3종 지르코니아 접착 — 전단접착강도 (SBS) TheraCem > Clearfil SA > RelyX U200; 프라이머 (Z-Prime Plus) 모든 군 유의 향상; 열순환 후 전군 SBS 감소.
+SBS ranked TheraCem (MDP + calcium silicate) > Clearfil SA Luting > RelyX U200 across conditions; Z-Prime Plus primer significantly improved SBS in all groups; thermocycling significantly reduced SBS in all groups.
+
+TheraCem's calcium silicate component adds a second chemical bonding pathway beyond MDP alone, but primer application remains mandatory even with MDP-containing SARCs for durable zirconia bonding.
+
+## 세줄요약
+in-vitro(J Funct Biomater 2026, n=180, 사블라스팅 지르코니아, 열순환 10,000회): 자가접착 레진시멘트(SARC) 3종 × 프라이머 유무 전단접착강도 비교.
+
+SBS 순위: TheraCem(MDP+칼슘 실리케이트) > Clearfil SA > RelyX U200; Z-Prime Plus 프라이머 전군 유의 향상; 열순환 후 전군 SBS 유의 감소.
+
+TheraCem의 칼슘 실리케이트가 MDP에 더한 2차 화학결합 경로를 제공 — 그러나 MDP 포함 SARC에서도 프라이머 적용이 내구성 접착을 위해 필수.
 
 ## Summary
 In vitro study evaluating shear bond strength (SBS) of three self-adhesive resin cements (SARCs) to sandblasted zirconia, with/without Z-Prime Plus primer, before and after 10,000 thermocycles (5–55°C). TheraCem (MDP + calcium silicate) showed highest SBS across conditions. Primer application significantly enhanced SBS for all cements. Thermocycling significantly reduced SBS in all groups. RelyX U200 had lowest SBS but highest flexural strength and hardness.

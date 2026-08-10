@@ -6,7 +6,7 @@ date: 2021-09-09
 doi: 10.1155/2021/9536054
 source: franco-de-la-torre-2021-analgesic-efficacy-etoricoxib-following-third.md
 category: [drug/analgesics]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/franco-de-la-torre-2021-analgesic-efficacy-etoricoxib-following-third.pdf
 pdf_filename: franco-de-la-torre-2021-analgesic-efficacy-etoricoxib-following-third.pdf
 source_collection: external
@@ -16,13 +16,21 @@ relations:
     target: moore-2015-single-dose-oral-analgesics-cochrane-overview
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 8 high-quality trials (6 pooled) found etoricoxib (120 mg dominant dose) significantly reduced the NUMBER of patients needing rescue analgesia after third molar surgery vs nonselective NSAIDs (p=0.0004; vs ibuprofen 400 mg p=0.00001), with no significant difference in adverse effects.
+SR+MA (11 PICO-eligible trials, 8 high-quality, 6 pooled; PubMed+Google Scholar to July 2020) — first meta-analysis isolating etoricoxib's individual analgesic efficacy (vs nonselective NSAIDs) after third molar surgery; etoricoxib 120 mg was the dose in all quality studies.
 
-## 한줄요약
+Etoricoxib significantly reduced the number of patients needing rescue analgesia vs nonselective NSAIDs (p=0.0004) and vs ibuprofen 400 mg specifically (p=0.00001); total rescue analgesic consumption showed a non-significant trend in favor (MD −0.44, p=0.36); no significant difference in adverse effects.
 
-8편의 고품질 임상시험(6편 메타분석)을 종합한 SR+MA로, etoricoxib(주로 120 mg)가 사랑니 수술 후 비선택적 NSAID 대비 구제 진통제가 필요한 환자 수를 유의하게 줄였고(p=0.0004, 이부프로펜 400 mg 대비 p=0.00001), 이상반응에는 유의한 차이가 없었다.
+Etoricoxib 120 mg provides superior rescue-analgesia avoidance vs ibuprofen after third molar surgery with a comparable safety profile — clinically useful for patients where minimizing supplemental analgesic consumption is a priority.
+
+## 세줄요약
+
+SR+MA(PICO 충족 11편·고품질 8편·메타분석 6편; 2020년 7월까지): 에토리콕시브(Etoricoxib)의 개별 진통 효능을 비선택적 NSAID 대비 사랑니 발치 후 맥락에서 분리한 최초 메타분석; 모든 고품질 연구에서 에토리콕시브 120 mg 사용.
+
+에토리콕시브가 비선택적 NSAID 대비 구제 진통제 필요 환자 수를 유의하게 감소(p=0.0004); 이부프로펜(Ibuprofen) 400 mg 대비 더욱 유의(p=0.00001); 총 구제 진통제 소비는 유의하지 않은 경향(MD −0.44, p=0.36); 이상반응 유의차 없음.
+
+에토리콕시브 120 mg은 사랑니 발치 후 이부프로펜 대비 구제 진통제 회피에서 우월하며 안전성은 동등 — 술후 구제 진통제 최소화가 중요한 환자에서 임상적으로 유용한 선택지.
 
 ## Summary
 
@@ -53,4 +61,4 @@ This is the first meta-analysis to isolate the analgesic effectiveness of etoric
 
 ## Related Papers
 
-- [[drug/moore-2015-single-dose-oral-analgesics-cochrane-overview]] — moore 2015의 단회용량 경구진통제 효능 근거를 etoricoxib 개별 약물의 발치 후 구제진통 데이터로 확장(extends).
+- [[drug/analgesics/moore-2015-single-dose-oral-analgesics-cochrane-overview]] — moore 2015의 단회용량 경구진통제 효능 근거를 etoricoxib 개별 약물의 발치 후 구제진통 데이터로 확장(extends).

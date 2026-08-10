@@ -6,7 +6,7 @@ date: 2026-02-01
 doi: 10.3201/eid3202.251386
 source: slekovec-2026-legionella-water-flosser-france-case-report.md
 category: [interdental-cleaning]
-confidence: case-report
+evidence_level: case-report
 source_collection: pubmed-text
 full_text: true
 pmid: "41714876"
@@ -20,13 +20,21 @@ relations:
     target: mancinelli-lyle-2024-water-flosser-vs-interdental-brush-rct
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Case report (n=1, France 2026): a water flosser filled with nonsterile home tap water harbored *Legionella pneumophila* serogroup 1 (Lp1) biofilm (300 CFU/L) and was the whole-genome-identical (sequence type 42) source of fatal-risk nosocomial Legionnaires' disease in a 48-yo myeloma/auto-HSCT patient — first literature case linking an oral irrigator to *Legionella* infection, a low-incidence but serious infection-control signal for immunocompromised users.
+Case report (n=1, Besançon University Hospital, France 2026; 48-yo IgG-Kappa myeloma patient admitted for autologous HSCT): personal water flosser brought from home, used with nonsterile tap water and not captured at admission, cultured positive for Legionella pneumophila serogroup 1 (Lp1) at 300 CFU/L while all hospital water sources were negative.
 
-## 한줄요약
+Whole-genome sequencing confirmed the patient's clinical Lp1 isolate and the device isolate were identical (sequence type 42), establishing the water flosser as the Legionnaires' disease source; the patient survived a 62-day hospitalization including 47 days in the MICU after ARDS, dialysis, and cardiorespiratory arrest.
 
-증례 보고 (n=1, 프랑스 2026): 비멸균 수돗물을 채운 물치실(water flosser)이 레지오넬라(Lp1) 생물막(300 CFU/L)을 품고 있었고, 그 균주가 골수종·자가조혈모세포이식 환자의 병원내 레지오넬라병 균주와 전장유전체가 동일(sequence type 42)했다 — 구강 세정기(oral irrigator)와 레지오넬라 감염을 연결한 첫 문헌 사례로, 면역저하 사용자에게 드물지만 중대한 감염관리 경고.
+This is the first literature case linking an oral irrigator to Legionella infection; the mechanism is tap-water biofilm in an uncleaned reservoir aerosolized by the pressurized jet — clinicians should capture and control patient-owned aerosol-generating devices in immunocompromised inpatient settings.
+
+## 세줄요약
+
+증례 보고(n=1, 프랑스 브장송 대학병원 2026; 48세 IgG-카파 골수종, 자가 조혈모세포이식(autologous Hematopoietic Stem Cell Transplantation, auto-HSCT) 입원): 집에서 가져온 워터플로서를 비멸균 수돗물로 사용했으며 입원 시 재고 파악이 안 됐음; 기기에서 Legionella pneumophila serogroup 1(Lp1) 300 CFU/L 검출, 병원 수원은 모두 음성.
+
+전장유전체 분석으로 환자의 임상 분리주와 기기 분리주가 동일(sequence type 42) 확인 — 워터플로서가 병원내 레지오넬라병(Legionnaires' disease)의 원인으로 규명; 환자는 ARDS·투석·심폐정지 후 중환자실 47일 포함 62일 입원 끝에 생존.
+
+워터플로서와 레지오넬라 감염을 연결한 첫 문헌 사례; 기전은 미세정 저장조 내 수돗물 바이오필름이 가압 분사로 에어로졸화 — 면역저하 입원 환자의 개인 에어로졸 발생 기기는 입원 시 파악하고 사용을 통제해야 한다.
 
 ## Summary
 

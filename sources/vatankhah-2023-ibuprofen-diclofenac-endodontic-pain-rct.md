@@ -10,8 +10,21 @@ pdf_filename: vatankhah-2023-ibuprofen-diclofenac-endodontic-pain-rct.pdf
 source_collection: external
 ---
 
-## One-line Summary
-RCT (Eur Endod J 2023, n=비역가능 치수염 1대구치 환자): 술후 endodontic pain — diclofenac potassium 50mg이 ibuprofen 400mg보다 통증 free 비율 + 평균 통증 점수 유의하게 우수; 비가역적 치수염에서 diclofenac potassium 옵션.
+## Three-line Summary
+
+RCT (Eur Endod J 2023, n=비역가능 치수염 1대구치 환자): 술후
+
+endodontic pain — diclofenac potassium 50mg이 ibuprofen 400mg보다 통증 free
+
+비율 + 평균 통증 점수 유의하게 우수; 비가역적 치수염에서 diclofenac potassium 옵션.
+
+## 세줄요약
+
+RCT (Eur Endod J 2023, n=비역가능 치수염 1대구치 환자): 술후
+
+endodontic pain — diclofenac potassium 50mg이 ibuprofen 400mg보다 통증 free
+
+비율 + 평균 통증 점수 유의하게 우수; 비가역적 치수염에서 diclofenac potassium 옵션.
 
 ## 1. Document Information
 - Authors: Vatankhah M et al., Iran + Univ Maryland
@@ -27,7 +40,7 @@ RCT (Eur Endod J 2023, n=비역가능 치수염 1대구치 환자): 술후 endod
 RCT in irreversible pulpitis patients undergoing endodontic treatment; primary outcome PEP (postoperative endodontic pain); pain-free rates and VAS at multiple timepoints.
 
 ## 4. Key Results
-[근거강함]
+[확인]
 - Diclofenac potassium 50mg → significantly more patients pain-free vs ibuprofen 400mg
 - Diclofenac potassium → significantly lower mean pain scores at several timepoints
 - Conclusion: diclofenac potassium better analgesic for established irreversible pulpitis PEP

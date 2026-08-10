@@ -1,0 +1,49 @@
+{
+  "overview": "implants-clinical-decision-ladder",
+  "date": "2026-07-23",
+  "title": "임플란트 임상 결정 사다리 — 리콜",
+  "source_wiki": [
+    "wiki/overviews/implants-clinical-decision-ladder.md"
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "q": "임플란트주위 질환 유병률과 두 질환 공통의 강한 위험인자는?",
+      "opts": [
+        "점막염 5% / 임플란트주위염 1%, 위험인자는 나이뿐",
+        "점막염 43–46% / 임플란트주위염 21–22%, 치주염력과 흡연이 두 질환 모두의 강한 위험인자(Galarraga-Vinueza 2025, n=13,030)",
+        "두 질환 모두 유병률 90% 이상",
+        "위험인자는 임플란트 브랜드뿐"
+      ],
+      "ans": 1,
+      "rat": "임플란트주위 점막염 43–46% / 임플란트주위염 21–22%(Galarraga-Vinueza 2025 SR-MA, n=13,030), 치주염력·흡연이 두 질환 모두의 강한 위험인자. 흡연 조기 실패 OR 2.59(용량 의존), Type IV 골은 실패율 1.5–1.9배(Rosa 2024). 위험 tier: Low(비흡연·HbA1c<7·BBT≥1mm·Type I–III)=표준, High(흡연+치주염+불량위생)=연기 권고.",
+      "cite": "overviews/implants-clinical-decision-ladder"
+    },
+    {
+      "id": "q2",
+      "q": "짧은 임플란트(short, ≤6mm)와 골증대+긴 임플란트의 비교 근거는?",
+      "opts": [
+        "짧은 임플란트는 항상 열등하다",
+        "5–8년 장기 RCT에서 골증대+긴 임플란트 대비 비열등~우세하며 합병증 68% 적음(Sivolella 2025, Barausse 2024) → 골증대 회피 가능하면 우선",
+        "짧은 임플란트는 합병증이 더 많다",
+        "긴 임플란트가 항상 우월하다"
+      ],
+      "ans": 1,
+      "rat": "짧은 임플란트(≤6mm)는 5–8년 장기 RCT(Sivolella 2025, Barausse 2024)에서 골증대+긴 임플란트 대비 비열등~우세하며 합병증 68% 적음 → 골증대 회피 가능하면 우선. 플랫폼 스위칭은 MBL을 0.255–0.49mm 유의 감소(Messias 2019). 내부 연결(특히 Morse taper)이 마이크로갭·나사 안정성에서 우수.",
+      "cite": "overviews/implants-clinical-decision-ladder"
+    },
+    {
+      "id": "q3",
+      "q": "임플란트주위 연조직 건강의 각화점막(KT) 임계값과 임플란트주위염 치료 사다리는?",
+      "opts": [
+        "KT는 무관하며, 임플란트주위염은 즉시 임플란트 제거",
+        "KT ≥2mm가 임계값(<2mm 시 FGG/CTG 추가); 임플란트주위염(BoP+·골소실 ≥2mm)은 비외과 1차(adjunct 항생제로 PPD 0.6–1.15mm 추가) → 미해소 시 외과",
+        "KT ≥5mm가 임계값이다",
+        "임플란트주위염은 항상 외과로 시작"
+      ],
+      "ans": 1,
+      "rat": "KT ≥2mm가 임플란트주위 건강의 임계값, <2mm 시 FGG/CTG 추가(Thoma 2018). 치료 사다리: 점막염(BoP+·골소실 없음)→비외과(debridement+CHX)→재평가; 임플란트주위염(BoP+·골소실 ≥2mm)→비외과 1차(adjunct 항생제로 PPD 0.6–1.15mm 추가)→미해소 시 외과(절제형 또는 재생형).",
+      "cite": "overviews/implants-clinical-decision-ladder"
+    }
+  ]
+}

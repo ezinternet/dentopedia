@@ -15,7 +15,7 @@ source_wiki:
   - wiki/sinus-lift/lateral/mordenfeld-2014-msfa-dpbb-autogenous-implants-10year.md
 tags: [hygienist-training, isq, dbbm, slides, 2026-q2]
 marp: true
-theme: default
+theme: dentopedia
 paginate: true
 size: 16:9
 lang: ko
@@ -278,3 +278,5 @@ SOP:
 
 수고하셨습니다.
 질문은 차트룸에서 언제든.
+
+[📝 자가테스트 퀴즈 풀기 →](2026-05-25_hygienist-training_isq-stability-and-dbbm-quiz.html)

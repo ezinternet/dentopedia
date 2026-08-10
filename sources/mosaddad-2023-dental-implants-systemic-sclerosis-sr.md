@@ -17,13 +17,21 @@ text_filename: mosaddad-2023-dental-implants-systemic-sclerosis-sr.txt
 
 Scleroderma-specific implant evidence — systemic sclerosis (SSc) carries a unique surgical/prosthetic obstacle (progressive microstomia limiting access and removable-prosthesis use) that generic autoimmune-implant reviews do not isolate. Complements the broader sibling synthesis [[wiki/implants/esimekara-2022-dental-implants-autoimmune-diseases-sr]] by drilling into the SSc subpopulation and the disease-specific decision logic (fixed > removable, short implants/angled abutments, commissurotomy vs foldable prosthesis).
 
-## One-line Summary
+## Three-line Summary
 
 Systematic review of 14 case reports/series (37 SSc patients, 153 implants): implant survival 100% in case reports and 89.2% in the single case series, with SSc status showing no discernible impact on survival — but disease-specific risk assessment and microstomia management are essential.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 전신경화증(SSc) 환자 대상 14편(증례보고/증례군) 체계적 고찰(환자 37명·임플란트 153개): 임플란트 생존율은 증례보고 100%·증례군 89.2%로 SSc가 생존에 뚜렷한 악영향 없음 — 다만 소구증(microstomia) 대처와 학제간 위험 평가 필수.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

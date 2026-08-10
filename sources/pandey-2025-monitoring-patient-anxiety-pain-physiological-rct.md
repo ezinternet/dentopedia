@@ -15,13 +15,21 @@ dental-anxiety 하위 카테고리에 "성인·생리학적 객관지표" 축이
 
 > 주의: 제목·stem의 "RCT"는 randomized controlled trial이 아니라 **root canal treatment(근관치료)**를 뜻함. 연구 설계는 단일군 관찰연구(observational).
 
-## One-line Summary
+## Three-line Summary
 
-Observational study (n=76 adults, single-visit root canal treatment) — preoperative MDAS anxiety and VAS pain with HR/SpO2 monitored at 6 stages; HR rose significantly during local anesthesia (93.9±8.2) and drilling (94.7±8.07), especially with moderate anxiety/severe pain (p<0.05); prior negative dental experience raised anxiety (p=0.018); moderate positive anxiety–HR correlation, SpO2 stable.
+Observational study (n=76 adults, single-visit root canal treatment) — preoperative MDAS anxiety and VAS pain with HR/SpO2 monitored at 6 stages;
 
-## 한줄요약
+HR rose significantly during local anesthesia (93.9±8.2) and drilling (94.7±8.07), especially with moderate anxiety/severe pain (p<0.05);
 
-관찰연구(성인 76명, 단일내원 근관치료) — 술전 MDAS 불안·VAS 통증, HR/SpO2를 6단계 측정. 국소마취(93.9±8.2)·드릴링(94.7±8.07) 시 HR 유의 상승, 특히 중등도 불안·심한 통증군(p<0.05). 과거 부정적 치과경험자는 불안점수 유의 상승(p=0.018). 불안–HR 중등도 양의 상관, SpO2는 안정.
+prior negative dental experience raised anxiety (p=0.018); moderate positive anxiety–HR correlation, SpO2 stable.
+
+## 세줄요약
+
+관찰연구(성인 76명, 단일내원 근관치료) — 술전 MDAS 불안·VAS 통증, HR/SpO2를 6단계 측정.
+
+국소마취(93.9±8.2)·드릴링(94.7±8.07) 시 HR 유의 상승, 특히 중등도 불안·심한 통증군(p<0.05).
+
+과거 부정적 치과경험자는 불안점수 유의 상승(p=0.018). 불안–HR 중등도 양의 상관, SpO2는 안정.
 
 ## 1. Document Information
 - Journal: The Journal of Contemporary Dental Practice 2025

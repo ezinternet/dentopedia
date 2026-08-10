@@ -6,7 +6,7 @@ date: 2022-02-01
 doi: 10.1111/joor.13293
 source: ma-2022-condyle-position-chewing-side-preference-cbct.md
 category: [tmj]
-confidence: cross-sectional
+evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/ma-2022-condyle-position-chewing-side-preference-cbct.pdf
 pdf_filename: ma-2022-condyle-position-chewing-side-preference-cbct.pdf
 source_collection: external
@@ -18,13 +18,21 @@ relations:
     target: radej-2023-condylar-displacement-malocclusion-cr-mip-sr
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Cross-sectional CBCT study (n=90 unilateral-symptom TMD patients [69 with chewing-side preference, 21 without] + 20 asymptomatic): condylar position did not strongly differentiate CSP-related from non-CSP-related TMD; TMD-without-CSP patients had significantly more posterior condyles than asymptomatic controls (57.1% vs 30.0%, p<0.05), while CSP patients only trended posterior (53.6% vs 30.0%, p=0.054) — concluding posterior condyle is not a reliable TMD indicator.
+Cross-sectional CBCT study (n=90 unilateral-symptom TMD patients [69 with chewing-side preference (CSP), 21 without] + 20 asymptomatic controls) classifying condylar position from sagittal joint-space measurements.
 
-## 한줄요약
+TMD-without-CSP patients had significantly more posterior condyles than asymptomatic controls (57.1% vs 30.0%, p<0.05); CSP patients only trended posterior (53.6% vs 30.0%, p=0.054), and preferred vs unpreferred sides did not differ significantly.
 
-단면 CBCT 연구 (편측 증상 TMD 환자 90명 [편측저작 선호 CSP 있음 69명, 없음 21명] + 무증상 20명): 과두 위치는 CSP 관련 TMD와 비-CSP TMD를 잘 구분하지 못했고, CSP 없는 TMD 환자만 무증상군보다 유의하게 후방 과두가 많았으며(57.1% vs 30.0%, p<0.05), CSP 환자는 후방 경향만 보임(53.6% vs 30.0%, p=0.054) — 후방 과두는 TMD의 신뢰할 만한 지표가 아니라고 결론.
+Posterior condyle position should not be used as a reliable indicator of TMD or as a marker to differentiate CSP-related from non-CSP-related disease.
+
+## 세줄요약
+
+단면 CBCT 연구 (편측 증상 TMD 환자 90명 [편측저작선호 CSP 있음 69명·없음 21명] + 무증상 20명): 시상 관절간격 측정으로 과두 위치 분류.
+
+CSP 없는 TMD 환자만 무증상군보다 후방 과두 비율 유의하게 높음(57.1% vs 30.0%, p<0.05); CSP 환자는 경향만 보임(p=0.054)이며 선호측·비선호측 간 차이 없음.
+
+후방 과두 위치는 TMD의 신뢰할 만한 지표가 아니며, CSP 관련 vs 비-CSP 관련 TMD 감별에도 충분하지 않음.
 
 ## Summary
 

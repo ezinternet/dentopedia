@@ -6,7 +6,7 @@ date: 2026-04-08
 doi: 10.1111/ipd.70084
 source: garg-2026-artificial-intelligence-pediatric-dentistry-umbrella-review.md
 category: [artificial-intelligence]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: false
 pmid: "41952278"
@@ -19,13 +19,21 @@ relations:
     target: gomez-rios-2025-machine-learning-data-analysis-pediatric-dentistry-sr
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Umbrella review (7 SRs, 109 primary studies) finding AI — chiefly CNNs for imaging — reaches pooled sensitivity/specificity 80–83% and AUC 0.87–0.91 in pediatric dentistry, but most underlying reviews are low/critically-low quality, so evidence remains preliminary (abstract-only).
+Umbrella review (PROSPERO CRD420251142904; 7 systematic reviews, 109 primary studies) synthesizing SR-level evidence on AI in pediatric dentistry — caries detection, dental anomalies, cleft lip/palate, and risk prediction — appraised with AMSTAR-2 and overlap quantified (CCA=8.27%); abstract-only.
 
-## 한줄요약
+CNN-based imaging achieved pooled sensitivity/specificity 80–83% and AUC 0.87–0.91, but most included reviews were of low or critically-low AMSTAR-2 quality with limited bias assessment and no protocol registration.
 
-엄브렐러 리뷰 (체계적 문헌고찰 7편, 1차 연구 109편): 소아치과에서 인공지능 (Artificial Intelligence, AI), 특히 영상용 합성곱 신경망 (Convolutional Neural Network, CNN)은 통합 민감도/특이도 80–83%, 곡선하면적 (Area Under the Curve, AUC) 0.87–0.91로 우수하나, 포함된 리뷰 대부분이 낮은/매우 낮은 질이라 근거는 예비적 (초록만 확보).
+AI image-based diagnostics are promising in pediatric dentistry but evidence remains preliminary; vendor accuracy claims should not be interpreted as validated standard of care pending higher-quality research and methodological standardization.
+
+## 세줄요약
+
+소아치과 인공지능(Artificial Intelligence, AI) 근거를 체계적 문헌고찰(SR) 수준에서 통합한 엄브렐러 리뷰(7편 SR, 1차 연구 109편): 조기 유치 우식 4편, 치아 이상·구순구개열·우식 위험 예측 각 1편; AMSTAR-2 질 평가, 중복 보정 면적(Corrected Covered Area, CCA) 8.27%.
+
+영상 기반 합성곱 신경망(CNN)은 통합 민감도/특이도 80–83%, 곡선하면적(AUC) 0.87–0.91; 포함된 SR 대부분이 낮은/매우 낮은 AMSTAR-2 등급.
+
+소아치과 AI 영상 진단은 유망하나 근거가 예비적 — 벤더 정확도 수치를 표준 진료로 해석하지 말고 추가 고품질 연구 및 방법론 표준화 필요(초록만 확보).
 
 ## Summary
 

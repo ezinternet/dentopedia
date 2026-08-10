@@ -9,8 +9,21 @@ pdf_filename: qian-2023-iip-buccal-bone-dehiscence-anterior-maxilla.pdf
 source_collection: external
 ---
 
-## One-line Summary
-1-year prospective case series of immediate implant placement performed in maxillary anterior sites with pre-existing buccal bone dehiscence, combined with simultaneous GBR.
+## Three-line Summary
+
+1-year prospective case series of immediate implant
+
+placement performed in maxillary anterior sites with
+
+pre-existing buccal bone dehiscence, combined with simultaneous GBR.
+
+## 세줄요약
+
+1-year 전향적 (Prospective) 증례 모음 (Case Series) of immediate implant
+
+placement performed in maxillary anterior sites with
+
+pre-existing buccal bone dehiscence, combined with simultaneous GBR.
 
 ## 1. Document Information
 - **Title:** Clinical, radiographic, and esthetic evaluation of immediate implant placement with buccal bone dehiscence in the anterior maxilla: A 1-year prospective case series
@@ -34,7 +47,7 @@ Small n; 1-year follow-up; no comparator group.
 ## 6. Related Work
 - [[immediate-implant/esthetic-soft-tissue/pohl-2022-iipp-anterior-maxilla-buccal-dehiscence-pilot]]
 - [[immediate-implant/esthetic-soft-tissue/nassani-2025-immediate-vs-delayed-implant-bony-defect-commentary]]
-- [[immediate-implant/trombelli-2024-bioarp-bone-dehiscence-immediate-implant]]
+- [[immediate-implant/gap-grafting/trombelli-2024-bioarp-bone-dehiscence-immediate-implant]]
 
 ## 7. Glossary
 - **IIP:** Immediate Implant Placement — placement at the time of tooth extraction.

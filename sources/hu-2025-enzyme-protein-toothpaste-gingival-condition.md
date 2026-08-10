@@ -15,15 +15,23 @@ text_filename: hu-2025-enzyme-protein-toothpaste-gingival-condition.txt
 
 ## Why Ingested
 
-이가탄(Igatan)-family 성분 감시(surveillance) 인제스트 — 이가탄에프의 active 중 하나인 **리소짐 (Lysozyme)**이 치약(국소 도포)으로 전달될 때 치은 건강에 효과가 있는지 검증하는 RCT다. 본 연구의 test 치약은 lysozyme·lactoferrin·colostrum(IgG)·lactoperoxidase 효소-단백 시스템을 담고 있어, [[wiki/drug/analgesics/hong-2019-randomized-double-blind-placebo-controlled-multicenter]]의 전신 복용 이가탄(CELC, lysozyme 함유) tablet과 **동일 active(lysozyme)를 국소 vs 전신**으로 대비할 근거가 된다. 전신 이가탄의 제한적 efficacy와 달리 국소 치약은 GI·plaque에서 강한 우월성을 보여 전달 경로(local delivery) 논점을 보강한다.
+이가탄(Igatan)-family 성분 감시(surveillance) 인제스트 — 이가탄에프의 active 중 하나인 **리소짐 (Lysozyme)**이 치약(국소 도포)으로 전달될 때 치은 건강에 효과가 있는지 검증하는 RCT다. 본 연구의 test 치약은 lysozyme·lactoferrin·colostrum(IgG)·lactoperoxidase 효소-단백 시스템을 담고 있어, [[wiki/periodontics/hong-2019-randomized-double-blind-placebo-controlled-multicenter]]의 전신 복용 이가탄(CELC, lysozyme 함유) tablet과 **동일 active(lysozyme)를 국소 vs 전신**으로 대비할 근거가 된다. 전신 이가탄의 제한적 efficacy와 달리 국소 치약은 GI·plaque에서 강한 우월성을 보여 전달 경로(local delivery) 논점을 보강한다.
 
-## One-line Summary
+## Three-line Summary
 
 Double-blind RCT (n=251, Chinese adults with gingivitis, 26 weeks): a fluoride toothpaste containing enzymes + proteins (lysozyme, lactoferrin, colostrum-IgG, lactoperoxidase + amyloglucosidase/glucose oxidase) reduced Gingival Index (between-product diff −0.53, p<0.0001) and supragingival plaque MQHPI (diff −0.96, p<0.0001) at 26 wk vs control fluoride toothpaste, raising non-bleeding sites from 35.7% to 93.8% (vs 45.3% control).
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 이중맹검 RCT (n=251, 치은염 중국 성인, 26주): 효소-단백(리소짐·락토페린·초유 IgG·락토퍼옥시다제 등) 함유 불소 치약이 대조 불소 치약 대비 치은지수(GI, between-product 차 −0.53, p<0.0001)와 치은연상 치태(MQHPI, 차 −0.96, p<0.0001)를 유의하게 낮췄고, 비출혈 부위를 35.7%→93.8%(대조 45.3%)로 끌어올렸다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 
@@ -91,7 +99,7 @@ Double-blind RCT (n=251, Chinese adults with gingivitis, 26 weeks): a fluoride t
 
 - Prior UK double-blind RCT and Danish epidemiological study (≥12 months use) reported by the same group, both showing gingival-health benefit of the enzyme-protein toothpaste; the UK design used prophylaxis + 4-week control run-in to dampen the Hawthorne effect.
 - Mechanism: amyloglucosidase + glucose oxidase generate H₂O₂ from polyglucans; lactoperoxidase converts salivary thiocyanate to hypothiocyanite (antimicrobial); lysozyme cleaves gram-positive peptidoglycan; lactoferrin sequesters iron / inhibits oral pathogen metabolism; colostrum IgG provides passive immunity. A 14-week microbiome study showed a shift toward gingival-health-associated species.
-- **이가탄/CELC systemic tablet** ([[drug/analgesics/hong-2019-randomized-double-blind-placebo-controlled-multicenter]]) — shares the **lysozyme** active but delivered orally/systemically for periodontitis adjunct; contrast topical (this paper, strong GI/plaque effect) vs systemic delivery.
+- **이가탄/CELC systemic tablet** ([[periodontics/host-modulation/hong-2019-randomized-double-blind-placebo-controlled-multicenter]]) — shares the **lysozyme** active but delivered orally/systemically for periodontitis adjunct; contrast topical (this paper, strong GI/plaque effect) vs systemic delivery.
 
 ## 7. Glossary
 

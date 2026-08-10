@@ -14,13 +14,21 @@ pdf_filename: escribano-2010-low-concentration-chlorhexidine-periodontitis.txt
 
 "0.05% CHX가 효과 있는가?" 질문에 대한 직접 근거 RCT. [[james-2017-chlorhexidine-mouthrinse-adjunctive-gingival]]이 "농도 간 차이 없음"을 결론 내리는 바탕이 된 데이터군 — 저농도 CHX의 임상적 유효성을 뒷받침하며 유지 관리(SPC) 환자 적용 근거.
 
-## One-line Summary
+## Three-line Summary
 
-RCT (n=47, 3 months) — 0.05% CHX + 0.05% CPC mouth rinse in SPC non-compliant patients reduces plaque and salivary bacterial load significantly vs placebo; modest microbiological benefit.
+Double-blind RCT (n=47, 3 months) — 0.05% CHX + 0.05% CPC mouth rinse in supportive periodontal care (SPC) non-compliant patients with moderate-to-severe chronic periodontitis.
 
-## 한줄요약
+Plaque index significantly decreased in test group and increased in placebo group (p<0.001); F. nucleatum and P. intermedia counts in saliva and crevicular fluid also decreased; BoP significantly reduced.
 
-RCT (47명, 3개월) — SPC 불순응 치주염 환자에서 0.05% CHX + 0.05% CPC 가글은 위약 대비 플라크·타액 세균 유의하게 감소; 미생물학적 개선 효과.
+Clinical implications: low-concentration CHX formulation effective for patients with poor oral hygiene compliance; however, no significant differences in PPD or CAL attained, limiting clinical attachment improvement.
+
+## 세줄요약
+
+이중맹검 RCT (n=47, 3개월) — 중등~중증 만성 치주염의 SPC 불순응 환자에서 0.05% CHX + 0.05% CPC 가글의 유효성 검증.
+
+위약군과 비교하여 시험군의 플라크 지수 유의하게 감소, 위약군 증가 (p<0.001); 타액 및 치은열구 F. nucleatum, P. intermedia 균수 감소; BoP 유의하게 감소.
+
+임상적 의의: 저농도 CHX 제형이 구강위생 불순응 환자에 효과적이나, PPD·CAL 개선 없어 임상적 부착 회복의 한계.
 
 ## 1. Document Information
 
@@ -58,7 +66,7 @@ RCT (47명, 3개월) — SPC 불순응 치주염 환자에서 0.05% CHX + 0.05% 
 
 ## 6. Related Work
 
-- [[periodontics/james-2017-chlorhexidine-mouthrinse-adjunctive-gingival]] — Cochrane SR+MA; 이 RCT 포함 데이터
+- [[periodontics/oral-hygiene-instruction/james-2017-chlorhexidine-mouthrinse-adjunctive-gingival]] — Cochrane SR+MA; 이 RCT 포함 데이터
 
 ## 7. Glossary
 

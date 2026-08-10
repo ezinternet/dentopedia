@@ -6,7 +6,7 @@ date: 2025-07-05
 doi: 10.1186/s12903-025-06465-6
 source: ayyad-2025-topical-vitamin-d-immediate-implants-rct.md
 category: [implants/vitamin-d]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: true
 pmid: "40618145"
@@ -20,13 +20,21 @@ relations:
     target: miron-2025-vitamin-d-deficiency-early-implant-failure
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Two-arm RCT, 24 immediate anterior-mandible implants (12 control vs 12 + topical vitamin D3/calcitriol emulgel applied to the implant surface and osteotomy, no graft): the vitamin D arm showed significantly better 6-month probing depth (1.17 vs 1.83 mm) and bleeding index (0.58 vs 1.42), lower day-7 pain (1.00 vs 2.50 VAS, 81.2% reduction), higher ISQ (80 vs 75), and higher bone density (+18.1% vs +6.4%).
+Two-arm examiner-blinded RCT (n=24 immediate anterior-mandible implants, 12 control vs 12 topical calcitriol emulgel, no bone graft) isolating the local vitamin D3 effect in a single-tooth immediate-placement design.
 
-## 한줄요약
+The calcitriol arm showed significantly better 6-month probing depth (1.17 vs 1.83 mm), bleeding index (0.58 vs 1.42), day-7 pain VAS (1.00 vs 2.50, 81.2% reduction), ISQ (80 vs 75), and net bone density gain (+18.1% vs +6.4%).
 
-2군 무작위대조시험(RCT), 하악 전치부 즉시 임플란트(Immediate Implant) 24개(대조 12 vs 임플란트 표면·골삭제부에 국소 비타민 D3/칼시트리올(Calcitriol) 겔 도포 12, 골이식 없음): 칼시트리올군이 6개월째 탐침깊이(Probing Depth, 1.17 vs 1.83 mm)·출혈지수(Bleeding Index, 0.58 vs 1.42), 7일째 통증(VAS 1.00 vs 2.50, 81.2% 감소), 임플란트 안정성 지수(Implant Stability Quotient, ISQ 80 vs 75), 골밀도(+18.1% vs +6.4%)에서 모두 유의하게 우수했다.
+Topical calcitriol at immediate implant placement improves four convergent outcome domains simultaneously; 100% survival in both arms; limited to small single-center Egyptian cohort with short 6-month follow-up.
+
+## 세줄요약
+
+2군 평가자 맹검 RCT (n=24, 하악 전치부 즉시 임플란트(Immediate Implant), 대조 12 vs 국소 칼시트리올(Calcitriol) 겔 도포 12, 골이식 없음) — 국소 비타민 D3 효과를 단독으로 분리한 설계.
+
+칼시트리올군이 6개월 탐침깊이 (Probing Depth, 1.17 vs 1.83 mm)·출혈지수 (Bleeding Index, 0.58 vs 1.42), 7일 통증 (VAS 1.00 vs 2.50, 81.2% 감소), 임플란트 안정성 지수 (ISQ, 80 vs 75), 골밀도 순증가 (+18.1% vs +6.4%) 모두 유의하게 우수.
+
+즉시 식립 시 국소 칼시트리올은 4개 결과 영역에서 동시에 개선 효과; 양군 생존율 100%; 소규모 단일기관 이집트 코호트·6개월 추적 한계.
 
 ## Summary
 

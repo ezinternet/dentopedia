@@ -13,13 +13,21 @@ source_collection: external
 
 Part of a focused collection on vertical ridge augmentation (VRA) with Ti-mesh vs PTFE mesh GBR. This head-to-head non-inferiority RCT directly compares the two leading customized barrier devices, complementing the SR/MA evidence in [[implants/vertical-ridge-augmentation/cucchi-2024-vertical-ridge-augmentation-peri-implant-bone-loss-sr-ma]] and the membrane-coverage RCT in [[implants/vertical-ridge-augmentation/urban-2025-collagen-membrane-vertical-ridge-ptfe-mesh-rct]].
 
-## One-line Summary
+## Three-line Summary
 
-Non-inferiority RCT (n=48 treated of 50 randomized) comparing customized Ti-reinforced d-PTFE mesh vs customized CAD/CAM Ti-mesh for VRA: CAD/CAM Ti-mesh was non-inferior for complications; PTFE showed numerically higher VBG (5.79 vs 5.18 mm, p=.233) but significantly higher regeneration rate (99.5% vs 87.0%, p=.013); osseointegration ~98% in both.
+Non-inferiority double-blind RCT (50 randomized, 48 treated) comparing customized Ti-reinforced d-PTFE mesh (PTFE group) vs customized CAD/CAM Ti-mesh (Ti-mesh group) for vertical ridge augmentation in maxilla or mandible; 50:50 autogenous + DBBM graft; CBCT volumetric outcomes at re-entry.
 
-## 한줄요약
+CAD/CAM Ti-mesh was non-inferior to PTFE mesh for surgical and healing complication rates (SCR 12% vs 4%; HCR 8.3% vs 12.5%); PTFE showed numerically higher VBG (5.79 vs 5.18 mm, p=.233, NS) but significantly higher regeneration rate (99.5% vs 87.0%, p=.013); osseointegration ~98% in both groups.
 
-비열등성 RCT (50명 무작위배정, 48명 수술): 맞춤형 Ti-보강 d-PTFE mesh vs 맞춤형 CAD/CAM Ti-mesh VRA 비교 — 합병증 측면에서 Ti-mesh 비열등 확인, PTFE가 수직골증가량(5.79 vs 5.18 mm, p=.233)은 비유의하게 더 높았으나 재생률(99.5% vs 87.0%, p=.013)은 유의하게 높음, 골유착률 양군 약 98%.
+The study was powered for complications (primary), not for VBG or regeneration rate, so the significant regeneration-rate difference should be interpreted with caution given the small sample size.
+
+## 세줄요약
+
+비열등성 이중맹검 RCT (50명 무작위배정, 48명 수술) — 맞춤형 Ti 강화 d-PTFE 메쉬(PTFE군) vs 맞춤형 CAD/CAM Ti 메쉬(Ti 메쉬군)의 수직골증대(Vertical Ridge Augmentation, VRA) 비교; 자가골+탈단백우골(DBBM) 1:1 이식; 재진입 시 CBCT 체적 측정.
+
+CAD/CAM Ti 메쉬가 수술·치유 합병증에서 비열등 확인(SCR 12% vs 4%; HCR 8.3% vs 12.5%); PTFE군 수직골증대량(5.79 vs 5.18 mm, p=.233, NS) 비유의하게 높으나 재생률(99.5% vs 87.0%, p=.013) 유의하게 높음; 골유착률 양군 약 98%.
+
+연구가 합병증(1차 결과) 기준으로 표본 산정되어 재생률 차이는 소표본 한계 내에서 해석 필요.
 
 ## 1. Document Information
 

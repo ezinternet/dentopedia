@@ -6,7 +6,7 @@ date: 2014-08-01
 doi: 10.5125/jkaoms.2014.40.4.181
 source: jung-2014-preformed-titanium-mesh-peri-implant-bone-regeneration.md
 category: [implants/vertical-ridge-augmentation]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/jung-2014-preformed-titanium-mesh-peri-implant-bone-regeneration.pdf
 pdf_filename: jung-2014-preformed-titanium-mesh-peri-implant-bone-regeneration.pdf
 source_collection: external
@@ -16,13 +16,21 @@ relations:
     target: chiapasco-2021-customized-cadcam-titanium-meshes-gbr
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Prospective case series (10 patients / 12 implants) using a customized 3D preformed titanium mesh (SMARTbuilder; Osstem) over a 1:1 intraoral autograft + FDBA mixture for peri-implant dehiscence/fenestration defects: 4-month core biopsy showed ~80% vital bone, mesh exposure in 3/10 (30%), and all implants functional with stable marginal bone at 12 months.
+Preliminary prospective case series (10 patients, 12 implants, single center; Hanyang University) evaluating a customized 3D preformed titanium mesh (SMARTbuilder; Osstem, three defect-configuration types) for simultaneous GBR over peri-implant dehiscence/fenestration defects; graft was 1:1 intraoral autologous bone + FDBA.
 
-## 한줄요약
+Core biopsy at ~4-month re-entry (representative specimen) showed ~80% vital bone, ~15% remaining allograft, ~5% fibrous marrow; mesh exposure/flap dehiscence occurred in 3/10 patients (30%); all implants were functional with stable marginal bone on radiographs at 12 months.
 
-전치성 케이스 시리즈(환자 10명·임플란트 12개)로, 임플란트 식립 후 발생한 열개/천공 결손에 맞춤형 3차원 사전성형 티타늄 메쉬(SMARTbuilder; Osstem)를 자가골+동결건조동종골(FDBA) 1:1 혼합 위에 덮어 GBR 시행 — 4개월 코어 생검에서 신생골 약 80%, 메쉬 노출 3/10(30%)이었으나 모든 임플란트가 기능했고 12개월 변연골이 안정적이었다.
+The preformed round/blunt-edge design eliminates intraoperative cutting/bending, reducing edge-related mucosal irritation that leads to exposure — a conceptual precursor to later CAD/CAM customized Ti-mesh GBR; however, the 30% exposure rate remains substantial and limits direct clinical application.
+
+## 세줄요약
+
+예비 전향적 증례 시리즈(환자 10명·임플란트 12개, 한양대학교): 임플란트 식립 후 발생한 열개/천공 결손에 맞춤형 3D 사전성형 Ti 메시(SMARTbuilder; Osstem, 결손 유형별 3종)를 자가골+동결건조동종골(Freeze-Dried Bone Allograft, FDBA) 1:1 혼합 위에 동시 적용.
+
+약 4개월 재진입 코어 생검(대표 검체): 신생골 ~80%, 잔류 동종골 ~15%, 섬유성 골수 ~5%; 메시 노출/피판 열개 3/10(30%); 12개월 방사선 사진에서 모든 임플란트 기능 및 변연골 안정.
+
+사전 성형된 둥근/뭉툭한 엣지 디자인으로 수술 중 절단·굴곡 불필요 — 엣지 자극으로 인한 노출 감소 개념의 선구이나 노출률 30%로 여전히 높음; 이후 CAD/CAM 맞춤형 Ti 메시 GBR의 개념적 전신(前身).
 
 ## Summary
 

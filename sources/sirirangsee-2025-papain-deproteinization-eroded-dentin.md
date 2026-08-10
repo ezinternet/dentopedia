@@ -12,11 +12,21 @@ source_collection: external
 ## Why Ingested
 Pretreatment strategy for the difficult eroded-dentin substrate; supports [[resin-bonding/sirirangsee-2025-papain-deproteinization-eroded-dentin]].
 
-## One-line Summary
+## Three-line Summary
+
 In-vitro: papain deproteinization improves and stabilizes self-etch adhesive µTBS to eroded dentin (notably UBQ), with Raman-confirmed collagen removal.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 in-vitro — papain 탈단백이 침식상아질에서 self-etch µTBS 향상·안정화(UBQ 유의), Raman으로 collagen 제거 확인.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 Scientific Reports 2025; article s41598-025-92975-w. DOI 10.1038/s41598-025-92975-w. Open access. Chulalongkorn University; Tokyo Medical and Dental University.

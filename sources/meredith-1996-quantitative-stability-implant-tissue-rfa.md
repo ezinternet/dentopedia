@@ -13,13 +13,21 @@ source_collection: external
 
 This is the foundational origin paper that introduced **Resonance Frequency Analysis (RFA)** as a non-invasive method to quantify implant stability — the entire ISQ field traces back to it. The wiki's ISQ pages ([[implants/isq/sennerby-2008-implant-stability-resonance-frequency-analysis]]) and the [[overviews/isq-loading-threshold]] synthesis cite RFA-derived stability values constantly but lacked the original method paper that established the technique. Ingesting it anchors the ISQ knowledge atom to its primary source. (Note: the extractable PDF is the Wiley abstract page — claims below are grounded in the abstract only; no numeric results beyond the abstract are reported.)
 
-## One-line Summary
+## Three-line Summary
 
-Landmark in-vitro + in-vivo method paper that first introduced resonance frequency analysis (RFA) for quantifying implant-tissue interface stability; a small transducer's resonance frequency correlated strongly (r=0.94, p<0.01) with exposed fixture height and rose with surrounding-material stiffness, founding what later became the ISQ scale.
+Landmark in-vitro + in-vivo method paper that first introduced resonance frequency analysis (RFA) for quantifying implant-tissue interface stability;
 
-## 한줄요약
+a small transducer's resonance frequency correlated strongly (r=0.94, p<0.01) with exposed fixture height and rose with surrounding-material stiffness, founding what later became the ISQ scale.
+
+(incomplete)
+
+## 세줄요약
 
 공명주파수분석 (Resonance Frequency Analysis, RFA)을 임플란트-조직 계면 안정성 정량화에 처음 도입한 기념비적 in-vitro·in-vivo 방법 논문 — 소형 트랜스듀서의 공명주파수가 노출된 고정체 높이와 강한 상관(r=0.94, p<0.01)을 보였고 주변 재료의 강성(stiffness)이 증가하면 함께 상승했으며, 이것이 훗날 임플란트 안정성 지수 (Implant Stability Quotient, ISQ) 척도의 기원이 되었다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

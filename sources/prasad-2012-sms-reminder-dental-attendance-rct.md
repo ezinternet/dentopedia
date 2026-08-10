@@ -17,13 +17,21 @@ text_filename: prasad-2012-sms-reminder-dental-attendance-rct.txt
 
 The [[overviews/dental-appointment-no-show-overview]] flagged reminder-intervention RCT evidence as a gap — the overview catalogued no-show rates and reasons but lacked a controlled trial quantifying how much a reminder actually moves attendance. This paper supplies that: an SMS-reminder dental trial showing on-time attendance more than doubling (79.2% vs 35.5%). It also closes the loop on [[practice-management/bhatia-2018-pediatric-dental-appointments-no-show-rates-reasons]], where 48.3% of parents said they *want* a reminder the day before — Prasad 2012 demonstrates that acting on that preference works.
 
-## One-line Summary
+## Three-line Summary
 
 Controlled trial in 4 outpatient dental departments (India, n=206) — SMS appointment reminders raised on-time attendance to 79.2% vs 35.5% with no reminder.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 치과 외래 4개과 대조시험 (인도, n=206): SMS 예약 알림 문자를 받은 군의 정시 내원율 79.2%로, 무알림 대조군 35.5%보다 유의하게 높았다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

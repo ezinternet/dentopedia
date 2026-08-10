@@ -17,13 +17,21 @@ text_filename: mohammadpour-2025-antibiotic-prophylaxis-oral-surgery-sr.txt
 
 항생제 예방 투여 (Antibiotic Prophylaxis, AP)에 관한 기존 페이지들([[wiki/drug/de-angelis-2025-antibiotic-third-molar-extraction-prevention-sr]], [[wiki/drug/vidovic-juras-2024-antibiotic-prophylaxis-dental-procedures]])은 특정 술식(제3대구치 발치, 치과 처치)에 한정된 반면, 이 스코핑 리뷰는 구강악안면외과 전 술식(골절, 임플란트, 악교정, 종양, TMJ 치환 등)에 걸친 증거를 체계적으로 지도화하여 클리닉 의사결정을 위한 폭넓은 기준점을 제공한다.
 
-## One-line Summary
+## Three-line Summary
 
 Scoping review of 125 studies (25 RCTs, 60 cohort, 40 SRs) mapping antibiotic prophylaxis evidence across oral and maxillofacial surgery: perioperative prophylaxis (≤24 h) is supported for high-risk procedures, but extended postoperative courses beyond 24 h do not reduce SSI rates and increase antimicrobial resistance risk.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 구강악안면외과 125편(RCT 25, 코호트 60, SR 40) 스코핑 리뷰: 제3대구치 발치·하악골절·TMJ 치환·복잡 임플란트·두경부종양 절제술에서 항생제 예방투여 (Antibiotic Prophylaxis, AP)가 지지되나, 술후 24시간 초과 연장 투여는 수술부위감염 (Surgical Site Infection, SSI) 감소 효과 없이 항균제 내성 (Antimicrobial Resistance, AMR) 위험만 증가시킨다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

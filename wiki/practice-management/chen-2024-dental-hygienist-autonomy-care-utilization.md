@@ -6,7 +6,7 @@ date: 2024-03-27
 doi: 10.1002/hec.4832
 source: chen-2024-dental-hygienist-autonomy-care-utilization.md
 category: [practice-management]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 full_text: false
 pmid: "38536894"
@@ -19,13 +19,21 @@ relations:
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Difference-in-differences study on MEPS 2001–2014 (DHPPI-coded state regulations): granting dental hygienists *moderate* practice autonomy raises total dental visits through more *preventive* care, while the *highest* autonomy level reduces *treatment* use — both effects larger in provider-shortage areas.
+Difference-in-differences quasi-experimental study using MEPS 2001–2014 and an extended Dental Hygiene Professional Practice Index (DHPPI) capturing within-state U.S. regulatory changes to identify the causal effect of dental hygienist autonomy on care utilization (abstract-only — effect sizes not extractable).
 
-## 한줄요약
+Granting dental hygienists moderate autonomy raised total dental visits by increasing preventive care; the highest autonomy level was associated with a decrease in dental treatment utilization — a non-monotonic pattern; both effects were larger in dental-care provider shortage areas, where visits shifted toward hygienists.
 
-MEPS 2001–2014 자료를 이용한 이중차분(difference-in-differences) 연구. 치과위생사(dental hygienist)에게 *중간 수준*의 진료 자율성을 부여하면 예방치료(preventive care) 증가로 전체 치과 방문이 늘지만, *최고 수준* 자율성에서는 치료(treatment) 이용이 줄며, 두 효과 모두 치과의료 취약지(shortage area)에서 더 크게 나타난다.
+A single "more autonomy = more care" framing is incorrect: the access gain at moderate autonomy comes specifically through preventive visits, while excessive autonomy may reduce treatment utilization — with implications for dental workforce policy and scope-of-practice regulation.
+
+## 세줄요약
+
+이중차분(Difference-in-Differences, DiD) 준실험 연구: MEPS 2001~2014 자료와 저자들이 연장한 DHPPI(치과위생사 업무자율성지수)로 미국 州 단위 규제 변화의 인과적 효과를 추정 (초록만 수집 — 효과 크기 비추출).
+
+치과위생사(Dental Hygienist, DH)에게 중간 수준 자율성 부여 → 예방치료(preventive care) 증가를 통해 총 치과 방문 증가; 최고 자율성 단계 → 치료(treatment) 이용 감소(비단조적 패턴); 두 효과 모두 치과의료 취약지(shortage area)에서 크고 위생사 위탁 진료가 늘었음.
+
+"자율성 확대 = 진료 증가"라는 단순 도식은 틀림: 중간 자율성의 접근성 향상은 예방 방문에 국한, 과도한 자율성은 치료 이용을 줄일 수 있어 치과 인력 정책 수립 시 자율성 수준을 세분화해 고려해야 함.
 
 ## Summary
 

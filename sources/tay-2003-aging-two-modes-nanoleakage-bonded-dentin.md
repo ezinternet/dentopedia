@@ -16,13 +16,21 @@ text_filename: tay-2003-aging-two-modes-nanoleakage-bonded-dentin.txt
 
 This is the foundational paper that **defines the two distinct modes of nanoleakage expression** in bonded dentin — (1) *reticular* silver deposits within and along the hybrid layer, and (2) *water-tree* (spotted) silver uptake within the water-binding domains of the adhesive layer — and shows that aging shifts the dominant mode toward water trees. It mechanistically grounds the water-treeing concept used by the sibling page [[wiki/resin-bonding/tay-2003-water-treeing-degradation-dentin-adhesives]] and supplies the morphological tracer (ammoniacal silver nitrate / TEM) that links water sorption to hydrolytic bond degradation across the bond-durability literature ([[wiki/resin-bonding/liu-2011-limitations-bonding-dentin-bond-degradation-review]]).
 
-## One-line Summary
+## Three-line Summary
 
 In-vitro TEM study (abstract-only): bonded human dentin aged ≤12 months in artificial saliva traced with 50 wt% ammoniacal silver nitrate shows reticular nanoleakage within the hybrid layer early on, progressively replaced by water-tree silver uptake in the adhesive's water-binding domains — defining two aging-dependent nanoleakage modes and marking water-filled channels as hydrolytic-degradation sites.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 In-vitro TEM 연구(초록만): 인공 타액에서 ≤12개월 노화시킨 접착 상아질을 50 wt% 암모니아 질산은으로 추적하면, 초기에는 혼성층(hybrid layer) 내 망상형(reticular) 나노누출이 나타나다가 점차 접착제의 물 결합 영역에 워터트리(water tree)형 은 침착으로 대체된다 — 노화 의존적 두 가지 나노누출 양상을 정의하고, 물 채워진 채널을 가수분해 열화 부위로 지목.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

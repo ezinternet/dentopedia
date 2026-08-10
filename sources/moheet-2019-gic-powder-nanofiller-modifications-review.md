@@ -12,11 +12,21 @@ source_collection: external
 ## Why Ingested
 Materials-science basis for GIC mechanical-property improvement; supports [[glass-ionomer/moheet-2019-gic-powder-nanofiller-modifications-review]].
 
-## One-line Summary
+## Three-line Summary
+
 Narrative review of GIC-powder nano-filler modifications concluding nanoparticles generally improve physicomechanical properties.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 GIC 분말 나노필러 개질 review — 나노입자가 물성을 대체로 향상.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 European Journal of Dentistry (Thieme) 2019; 13: 470–. DOI 10.1055/s-0039-1693524. Universiti Sains Malaysia; Lincoln University College.

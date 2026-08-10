@@ -6,7 +6,7 @@ date: 2026-05-01
 doi: 10.4317/medoral.27956
 source: magesty-2026-adverse-events-oral-analgesics-third-molar-nma.md
 category: drug/analgesics
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "41578906"
@@ -24,13 +24,21 @@ relations:
     target: moore-2015-single-dose-oral-analgesics-cochrane-overview
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Frequentist network meta-analysis of 28 RCTs (5306 third-molar patients): single-dose NSAID monotherapy ranked least safe by SUCRA (86.5%) and placebo second (81.7%), while the NSAID+non-opioid+opioid triple combination was safest (15.5%); but very low–low certainty and the high placebo adverse-event rate indicate a predominant nocebo effect, not true NSAID harm.
+Frequentist NMA of 28 RCTs (5,306 third-molar extraction patients) comparing 7 analgesic-class regimens + placebo on medication-related adverse events.
 
-## 한줄요약
+NSAID monotherapy ranked least safe by SUCRA (86.5%) and placebo ranked second (81.7%); the NSAID+non-opioid+opioid triple combination ranked safest (15.5%).
 
-28개 RCT(5306명, 하악 제3대구치 발치)의 빈도주의 네트워크 메타분석: 단회 경구 NSAID 단독이 SUCRA 안전성 순위에서 가장 위험(86.5%)·위약이 2위(81.7%), NSAID+비마약성+마약성 3제 병용이 가장 안전(15.5%)했으나, 근거 확실성이 매우 낮음~낮음이고 위약군 이상반응도 높아 실제 NSAID 위해보다 노세보 효과가 주된 기전으로 해석됨.
+Very low–low certainty and the high placebo adverse-event rate indicate a predominant nocebo effect rather than true drug harm, so NSAIDs should remain first-line for post-extraction pain.
+
+## 세줄요약
+
+28개 RCT(5,306명, 하악 제3대구치 발치) 네트워크 메타분석 — 7개 진통제 약물군+위약의 이상반응을 비교한 SUCRA 분석.
+
+NSAID 단독군이 SUCRA 안전성 최하위(86.5%)였고 위약이 2위(81.7%)였으며, NSAID+비마약성+마약성 3제 병용군이 최상위(15.5%)로 가장 안전했다.
+
+근거 확실성이 매우 낮음~낮음이고 위약군 이상반응도 높아 NSAID의 겉보기 위험은 실제 약물 독성이 아닌 노세보 효과로 해석되며, NSAIDs는 계속 1차 선택약으로 유지되어야 한다.
 
 ## Summary
 

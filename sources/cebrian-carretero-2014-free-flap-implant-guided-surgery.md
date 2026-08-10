@@ -9,8 +9,21 @@ pdf_filename: cebrian-carretero-2014-free-flap-implant-guided-surgery.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Narrative review on guided implant surgery for dental rehabilitation in patients reconstructed with microvascular free flaps after maxillomandibular oncologic resection.
+## Three-line Summary
+
+Narrative review of the role of computer-guided implant surgery in dental rehabilitation of patients who underwent maxillomandibular oncologic resection and reconstruction with microvascular free flaps (fibula, iliac crest, scapula).
+
+Guided surgery enables prosthetically driven implant positioning in highest-quality bone regions, avoidance of osteosynthesis hardware, and predictable outcomes despite complex post-oncologic anatomy — none of which can be reliably achieved with conventional freehand placement.
+
+Evidence is case-illustration based with no quantitative outcome synthesis; the paper articulates principles rather than providing survival/complication data.
+
+## 세줄요약
+
+하악·상악 종양 절제 후 혈관유리피판(fibula, iliac crest, scapula)으로 재건된 환자에서 컴퓨터 가이드 임플란트 수술의 역할을 정리한 서술적 고찰.
+
+가이드 수술은 골질이 우수한 부위에 보철 주도적으로 임플란트를 배치하고 골유합 하드웨어를 피하며 복잡한 종양후 해부 구조에서도 예측 가능한 결과를 달성할 수 있게 한다.
+
+증례 사진 기반 서술 논문으로 정량적 생존율·합병증 분석은 없으며, 원리 제시에 집중.
 
 ## 1. Document Information
 - **Title:** Predictable dental rehabilitation in maxillomandibular reconstruction with free flaps. The role of implant guided surgery

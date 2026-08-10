@@ -9,8 +9,21 @@ pdf_filename: jung-2022-denosumab-mronj-osteoporosis-5year.pdf
 source_collection: external
 ---
 
-## One-line Summary
-5-year retrospective cohort (n=98, osteoporosis+tooth extraction): MRONJ rate 4.1%; no difference between denosumab-only vs BP+denosumab; rheumatoid arthritis was the only significant risk factor; MRONJ can arise from chronic periodontal inflammation without extraction.
+## Three-line Summary
+
+5-year retrospective cohort (n=98, osteoporosis+tooth extraction): MRONJ rate 4.1%
+
+no difference between denosumab-only vs BP+denosumab
+
+rheumatoid arthritis was the only significant risk factor; MRONJ can arise from chronic periodontal inflammation without extraction.
+
+## 세줄요약
+
+5년 후향적 코호트 (n=98, 골다공증+발치): 데노수맙 유도 약제 관련 악골괴사(MRONJ) 발생률 4.1%
+
+데노수맙 단독 vs 비스포스포네이트+데노수맙 간 MRONJ 발생률 유의차 없음 (p=1.00)
+
+류마토이드 관절염만이 유의한 위험인자 (OR 35.4, p=0.033), MRONJ는 발치 없이 만성 치주염으로도 발생 가능.
 
 ## 1. Document Information
 - **Journal**: Scientific Reports (2022) 12:8641

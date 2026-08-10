@@ -6,7 +6,7 @@ date: 2021-09-01
 doi: 10.2341/20-053-LIT
 source: de-oliveira-2021-10-mdp-self-etch-adhesive-dentin-sr.md
 category: [resin-bonding]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: false
 pmid: "35486508"
@@ -19,13 +19,21 @@ relations:
     target: fehrenbach-2021-10-mdp-bonding-performance-sr-ma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 11 RCTs in noncarious cervical lesions found no significant difference in clinical performance between self-etch adhesives with vs without the 10-MDP functional monomer (p=0.05; I²=0–53%; moderate-to-high GRADE certainty).
+SR+MA (PROSPERO CRD42016050538, 11 RCTs, 9 low/2 unclear risk of bias, GRADE moderate-to-high) comparing clinical performance of self-etch adhesives with vs without the 10-MDP functional monomer in noncarious cervical lesion (NCCL) restorations.
 
-## 한줄요약
+No statistically significant difference in any evaluated clinical criterion between 10-MDP-containing and 10-MDP-free self-etch adhesives (p=0.05; I²=0–53%); this is an abstract-only ingest — per-criterion effect sizes were not captured.
 
-11개 RCT를 메타분석한 결과, NCCL 수복에서 10-MDP 함유 self-etch 접착제와 비함유 접착제 사이에 임상 성과 차이가 없었다 (p=0.05, I²=0–53%, GRADE 중등도–높음).
+In vitro 10-MDP hydroxyapatite chemistry does not translate into measurable clinical NCCL superiority; adhesive selection should be based on overall track record and technique fit rather than 10-MDP presence alone.
+
+## 세줄요약
+
+PROSPERO 등록 체계적 문헌고찰+메타분석(11개 RCT, 비우식성 치경부 병소, GRADE 중등도–높음): 10-MDP 함유 자가산부식(Self-Etch, SE) 접착제 vs 비함유 접착제의 임상 성과를 비교.
+
+평가된 모든 임상 지표에서 10-MDP 유무에 따른 통계적 차이 없음(p=0.05, I²=0–53%); 초록만 수집(abstract-only)으로 세부 효과크기 미확보.
+
+In vitro에서 우수한 10-MDP의 수산화인회석(Hydroxyapatite, HAp) 결합력이 NCCL 임상 성과의 우위로 이어지지 않으므로, 접착제 선택은 10-MDP 함유 여부만으로 결정하지 말고 전반적인 임상 근거와 술식 적합성을 고려해야 함.
 
 ## Summary
 

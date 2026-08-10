@@ -6,7 +6,7 @@ date: 2006-06-01
 doi: 10.1111/j.1365-2842.2005.01587.x
 source: craddock-2006-deviation-broadrick-occlusal-curve-posterior.md
 category: [occlusion]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/craddock-2006-deviation-broadrick-occlusal-curve-posterior.pdf
 pdf_filename: craddock-2006-deviation-broadrick-occlusal-curve-posterior.pdf
 source_collection: external
@@ -16,13 +16,21 @@ relations:
     target: livas-2016-fixed-retention-unopposed-molar-overeruption
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective Broadrick-flag cast analysis (Leeds) showing posterior teeth unopposed for ≥5 years develop overeruption/tipping/drifting that deviates the occlusal curve from the ideal Broadrick curve — sometimes extremely — complicating harmonious occlusal rehabilitation; moderate tipping of the determinant tooth has little effect on the curve radius.
+Retrospective cast analysis applying the Broadrick flag method to dentitions deranged by posterior tooth loss (Leeds group, 2006), examining how posterior tooth positional changes affect deviation from the ideal anteroposterior occlusal curve and how tipping of the determinant tooth influences the Broadrick curve radius.
 
-## 한줄요약
+Posterior teeth unopposed for 5 or more years showed overeruption, tipping, and drifting that caused deviation from the ideal Broadrick curve — sometimes to an extreme degree, making harmonious occlusal rehabilitation difficult; moderate tipping of the posterior determinant tooth had little effect on the Broadrick curve radius, preserving method usability in mildly deranged arches.
 
-후방치가 5년 이상 무대합이면 과맹출·경사·이동으로 교합 곡선이 이상적 Broadrick 곡선(curve of Spee)에서 — 때로는 극심하게 — 편위해 조화로운 교합 재건이 어려워진다는 것을 보인 후향적 Broadrick-flag 연구. 결정치의 중등도 경사는 곡선 반경에 거의 영향을 주지 않았다.
+This paper forms the "consequence" half of the Craddock series — the 2004 study measured overeruption incidence (83.9%) while this 2006 study measures the prosthetic cost (extreme curve deviation) — and argues for earlier intervention before the 5-year window closes on straightforward rehabilitation options.
+
+## 세줄요약
+
+후향적 연구(Leeds그룹 2006): Broadrick flag 방법을 후방치 상실 후 변형된 교열(교합 곡선이 흐트러진 치열)에 적용하여, 후방치 위치 변화가 이상적 전후방 교합 곡선(Broadrick 곡선, curve of Spee)으로부터의 편위에 미치는 영향을 검토하였다.
+
+5년 이상 무대합 상태의 후방치는 과맹출·경사·이동으로 Broadrick 곡선에서 — 때로는 극심하게 — 편위해 조화로운 교합 재건을 어렵게 했으며, 후방 결정치의 중등도 경사는 곡선 반경에 거의 영향을 미치지 않아 경증 변형 치열에서도 방법론의 활용이 가능했다.
+
+이 논문은 Craddock 시리즈의 "결과" 편으로 — 2004년 연구가 정출 발생률(83.9%)을 측정했다면 이 2006년 연구는 보철적 비용(교합 곡선 극심한 편위)을 정량화하여 — 쉬운 재건 선택지가 사라지기 전 5년 창 이내의 조기 개입을 지지한다.
 
 ## Summary
 

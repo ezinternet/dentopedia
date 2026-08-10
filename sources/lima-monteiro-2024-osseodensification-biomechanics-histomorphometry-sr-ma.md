@@ -13,8 +13,21 @@ source_collection: external
 
 Combined human+animal SR+MA strengthening the osseodensification (OD) primary-stability evidence base — quantifies the human ISQ gain (median 8.57 at baseline, attenuating to MD 4.49 at secondary timepoint) and large animal histomorphometric effects (IT/BIC/BAFO), feeding the [[overviews/osseodensification-clinical-applications]] synthesis. Reinforces and updates the earlier pooled estimates of [[implants/inchingolo-2021-osseodensification-implant-site-osteotomy-sr-ma]].
 
-## One-line Summary
-SR+MA (Quintessence Int 2024;55:212–223) of 11 studies (8 databases through August 2021) — OD raised human ISQ by median 8.57 vs conventional drilling at baseline (no significant difference at secondary timepoint, MD 4.49) and yielded large effect sizes in animal studies (insertion torque MD 46.79; BIC MD 2.17; BAFO MD 2.11); certainty of evidence low to moderate.
+## Three-line Summary
+
+SR+MA (Quintessence Int 2024;55:212–223) of 11 studies (8 databases through August 2021) — OD raised human ISQ by median 8.57 vs conventional drilling at baseline (no significant difference at secondary timepoint, MD 4.49) and yielded large effect sizes in animal studies (insertion torque MD 46.79
+
+BIC MD 2.17
+
+BAFO MD 2.11); certainty of evidence low to moderate.
+
+## 세줄요약
+
+체계적 고찰 및 메타분석 (SR+MA) (Quintessence Int 2024;55:212–223) of 11 studies (8 databases through August 2021) — OD raised human 임플란트 안정성 지수 (Implant Stability Quotient, ISQ) by median 8.57 대 (vs) conventional drilling at baseline (no 유의미한 (Significant) difference at secondary timepoint, MD 4.49) and yielded large effect sizes in animal studies (insertion torque MD 46.79
+
+골-임플란트 접촉률 (Bone-to-Implant Contact, BIC) MD 2.17
+
+BAFO MD 2.11); certainty of evidence low to moderate.
 
 ## 1. Document Information
 - **Type**: Systematic review + meta-analysis (combined human + animal)

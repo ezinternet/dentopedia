@@ -13,11 +13,21 @@ source_collection: external
 
 의료분쟁의 거시 추세(전문과목별 소송 빈도·합의율·판결 결과)를 16년 전수 데이터로 보여주는 국가 단위 근거. 한국 판례 미시분석 [[complaint-management/kwon-2017-analysis-of-the-legal-effect]]·[[complaint-management/park-2016-analysis-of-malpractice-claims-associated]]에 거시 맥락을 제공하고, 기존 medico-legal 적용층 [[complaint-management/JISPCD-14-295]]을 일본 데이터로 확장한다. 동아시아(일본) 의료소송이 의료진에 유리하게 종결되는 비율을 정량화.
 
-## One-line Summary
+## Three-line Summary
+
 Descriptive study of all 13,340 closed medical malpractice claims from Japan's Supreme Court (2006–2021): 52.9% settled, 35.3% judged (75.8% favoring physicians), claim volume declining — sharply in OB/GYN after the 2009 no-fault compensation system.
 
-## 한줄요약
-일본 최고재판소 종결 의료소송 전수 13,340건(2006–2021) 기술연구 — 52.9% 합의, 35.3% 판결(이 중 75.8% 의료진 승), 전체 건수 감소세; 특히 산부인과는 2009년 무과실 보상제 도입 후 급감.
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
+일본 최고재판소 종결 의료소송 전수 13,340건(2006–2021) 기술연구 — 52.9% 합의, 35.3% 판결(이 중 75.8% 의료진 승), 전체 건수 감소세;
+
+특히 산부인과는 2009년 무과실 보상제 도입 후 급감.
+
+(incomplete)
 
 ## 1. Document Information
 - PLoS ONE 2023;18(12):e0296155. Research Article. Published 2023-12-18.

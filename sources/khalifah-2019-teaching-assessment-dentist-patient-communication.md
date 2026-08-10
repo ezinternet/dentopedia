@@ -13,8 +13,21 @@ source_collection: external
 
 Maps the taxonomy of dentist-patient communication skills and how they are taught/assessed, supplying the skills-and-training substrate for the communication branch of [[overviews/behavioral-dentistry-overview]].
 
-## One-line Summary
-SR of 50 studies (2000–2016) — identifies 26 dentist-patient communication skills in 4 categories (generic, case-specific, time-specific, emerging), and synthesizes teaching/assessment methodologies; field uses a mix of passive and active strategies, all assessment measures deemed valid and reliable, but study designs are weak.
+## Three-line Summary
+
+SR of 50 studies (2000–2016) — identifies 26 dentist-patient communication skills in 4 categories
+
+(generic, case-specific, time-specific, emerging), and synthesizes teaching/assessment methodologies; field uses a mix of passive
+
+and active strategies, all assessment measures deemed valid and reliable, but study designs are weak.
+
+## 세줄요약
+
+SR of 50 studies (2000–2016) — identifies 26 dentist-patient communication skills in 4 categories
+
+(generic, case-specific, time-specific, emerging), and synthesizes teaching/assessment methodologies; field uses a mix of passive
+
+and active strategies, all assessment measures deemed valid and reliable, but study designs are weak.
 
 ## 1. Document Information
 - Journal: Journal of Dental Education, 83(1):16–31, Jan 2019

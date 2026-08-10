@@ -17,13 +17,21 @@ text_filename: farina-2023-effectiveness-morbidity-costs-transcrestal-lateral-rb
 
 PubMed 감시 인제스트(transcrestal sinus lift)로 발굴한 신규 RCT 재분석. 기존 [[sinus-lift/transcrestal/farina-2018-morbidity-transcrestal-lateral-sinus-floor-elevation]]가 전체 코호트의 morbidity를 비교했다면, 본 재분석은 동일 RCT를 **잔존골 높이(RBH) <4 mm vs ≥4 mm로 층화**해 술식 선택을 RBH 기준으로 구체화한다 — RBH≥4 mm에서는 tSFE가 chair time·비용·이환율 모두 우월, RBH<4 mm에서는 tSFE 초기 통증↑·lSFE 멍/비용↑로 trade-off가 역전된다. 방금 추가한 [[sinus-lift/transcrestal/fettouh-2025-graftless-lateral-transcrestal-sinus-rct]](RBH 4–6 mm graftless 비교)의 결정 축을 <4 mm 구간으로 확장한다. PMC 전문 미제공 — abstract-only.
 
-## One-line Summary
+## Three-line Summary
 
-Re-analysis of a parallel-arm RCT (ITT 29 tSFE vs 28 lSFE) stratified by residual bone height: both techniques reach median 100% implant-surface bone contact, but at RBH ≥4 mm tSFE wins on chair time, cost, and morbidity, whereas at RBH <4 mm tSFE causes more early pain while lSFE causes more bruising and higher cost.
+RCT re-analysis (ITT 29 tSFE vs 28 lSFE) stratified by residual bone height (<4 mm vs ≥4 mm), comparing transcrestal and lateral sinus floor elevation on effectiveness, morbidity, and cost.
 
-## 한줄요약
+Both techniques achieved median 100% implant-surface bone contact (totCON%) regardless of RBH stratum, so the decision pivots on morbidity and cost trade-offs.
 
-평행-군 RCT 재분석(ITT tSFE 29 vs lSFE 28), 잔존골(RBH) 층화 — 양 술식 모두 임플란트면 골접촉 중앙값 100%, RBH≥4 mm에선 tSFE가 시술시간·비용·이환율 우월, RBH<4 mm에선 tSFE 초기 통증↑·lSFE 멍/비용↑로 trade-off.
+At RBH ≥4 mm, tSFE is superior on chair time, cost, and morbidity; at RBH <4 mm, tSFE causes more early pain (days 0–1) while lSFE causes more bruising and incurs higher cost — a genuine trade-off requiring site-specific pre-planning.
+
+## 세줄요약
+
+경치조골식 vs 측방식 상악동거상술(transcrestal vs lateral sinus floor elevation, tSFE vs lSFE)을 잔존골높이(RBH) <4 mm vs ≥4 mm로 층화해 비교한 RCT 재분석(ITT 29 vs 28명).
+
+양 술식 모두 임플란트 표면 골접촉(totCON%) 중앙값 100% 달성으로 유효성(effectiveness)은 동등하며, 술식 선택은 이환율·비용 trade-off로 결정된다.
+
+RBH≥4 mm에서는 tSFE가 시술 시간·비용·이환율 모두 우월하지만, RBH<4 mm에서는 tSFE의 초기 통증(0–1일) 증가 vs lSFE의 멍·비용 증가 trade-off가 발생해 술식 선택 전 환자별 진통 관리 계획이 필수다.
 
 ## 1. Document Information
 

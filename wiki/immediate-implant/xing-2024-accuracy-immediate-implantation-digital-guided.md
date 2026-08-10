@@ -7,7 +7,7 @@ doi: 10.1016/j.identj.2024.10.010
 journal: "International Dental Journal 75(2):439-452"
 source: xing-2024-accuracy-immediate-implantation-digital-guided.md
 category: [immediate-implant]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "39521681"
@@ -23,13 +23,21 @@ relations:
     target: schiavon-2025-computer-assisted-immediate-implant-accuracy-nma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review with single-arm meta-analysis (Int Dent J 2024; 7 studies, 202 patients / 215 immediate implants) of digital-template (static CAIS)-guided immediate implant placement accuracy: pooled coronal 0.74 mm, apical 1.01 mm, depth 0.50 mm, angular 2.34° deviation — generally acceptable, but with very high between-study heterogeneity (I² 75-99%) and timing (immediate vs delayed) not materially affecting accuracy.
+Systematic review with single-arm meta-analysis (7 studies, 202 patients / 215 implants) of static CAIS (digital template)-guided immediate implant placement accuracy across observational studies (5 retrospective, 2 prospective).
 
-## 한줄요약
+Pooled deviations were coronal 0.74 mm, apical 1.01 mm, depth 0.50 mm, angular 2.34°, comparing favorably with a healed-ridge benchmark (Schneider: 1.16 mm coronal, 1.96 mm apical), but heterogeneity was very high (I² 75–99%); timing (immediate vs delayed) did not significantly affect coronal/apical/depth deviation.
 
-SR + 단일군 메타분석 (Int Dent J 2024, 7연구·202명·215 즉시 임플란트): 디지털 템플릿(정적 CAIS) 가이드 즉시식립의 풀링 편차는 coronal 0.74 mm·apical 1.01 mm·depth 0.50 mm·angular 2.34°로 수용 가능하나 이질성 매우 높음(I² 75~99%). 즉시 vs 지연 식립 시점은 정확도에 유의한 차이 없음.
+Results are best read as order-of-magnitude benchmarks only; fully guided and tooth-supported protocols drove the favorable accuracy, and an immediate-specific failure mode (guide cannot be tried in before extraction) should be anticipated.
+
+## 세줄요약
+
+SR + 단일군 메타분석 (7연구·202명·215 임플란트): 관찰연구(후향 5, 전향 2)에서 정적 컴퓨터보조 임플란트 수술(Computer-Assisted Implant Surgery, CAIS) 가이드 즉시식립 정확도 분석.
+
+풀링 편차: coronal 0.74 mm·apical 1.01 mm·depth 0.50 mm·angular 2.34°. 기존 치유 골에서의 기준값(1.16 mm·1.96 mm)보다 양호하나 이질성 매우 높음(I² 75–99%); 즉시 vs 지연 시점은 coronal/apical/depth 정확도에 유의차 없음.
+
+결과는 대략적 기대치로만 해석해야 하며, 완전 가이드·치아지지형 프로토콜이 정확도를 견인함. 발치 전 가이드 적합 확인 불가라는 즉시식립 특이적 위험도 고려 필요.
 
 ## Summary
 

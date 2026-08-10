@@ -1,0 +1,14 @@
+Demystifying the connection between periodontal disease and chronic kidney disease - An umbrella review.
+
+He I, Poirier B, Jensen E, Kaur S, Hedges J, Jesudason S, Jamieson L, Sethi S.
+Journal of Periodontal Research. 2023;58(5):874-892.
+DOI: 10.1111/jre.13161
+PMID: 37477165
+
+ABSTRACT
+
+Chronic kidney disease (CKD) and poor oral health are inter-related and their significant impact on each other is well established in the literature. Many systematic reviews and meta-analyses have demonstrated a strong relationship between CKD and periodontitis, where periodontal treatment has shown potential in improving CKD outcomes. However, the quality of the studies and heterogeneity of the results show variation. The aim of this umbrella review was to review the quality of the current systematic reviews on the relationship between CKD and oral health with an emphasis on periodontal disease and to generate clinically relevant guidelines to maintain periodontal health in patients with CKD. This umbrella review was conducted and reported in alignment with the Joanna Briggs Institute and the PRISMA 2020 guidelines. The review protocol was established prior to commencing the review and registered on JBI and PROSPERO (CRD42022335209). Search strings were established for PubMed, Embase, Web of Science, Cochrane Database of Systematic Reviews, and Dentistry & Oral Science Source up to April 2022. All systematic reviews and meta-analyses that considered the relationship between CKD and periodontitis or periodontal treatment were included. Of 371 studies identified through the systematic search, 18 systematic reviews met the inclusion criteria. Ten studies assessed the relationship between oral health status and CKD with a focus on periodontitis and CKD, five reviewed the impact of periodontal treatment on CKD outcomes, two included both relationship and effectiveness of periodontal treatment and one qualitatively reviewed oral health-related quality of life in patients with kidney failure. Findings indicate there is a bidirectional relationship between CKD and periodontal disease. In view of the heterogeneity of the existing literature on CKD and periodontal disease, specific recommendations for the management of periodontitis among patients with CKD are proposed for medical professionals, dental professionals, and aged care workers based on the evidence collated in this review.
+
+Keywords: chronic kidney disease; periodontal disease; periodontitis; renal; umbrella review.
+
+[Note: PMC full text not available for this article (no PMCID assigned as of ingest date 2026-07-13). This artifact contains the PubMed abstract only, retrieved via PubMed MCP (search_articles / get_article_metadata). No further body text is available through PMC.]

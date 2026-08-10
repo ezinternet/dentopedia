@@ -9,8 +9,21 @@ pdf_filename: mills-2017-aphthous-stomatitis-oral-medicine-review.pdf
 source_collection: external
 ---
 
-## One-line Summary
-RAS 임상 양상, 병인론(면역·유전·영양·스트레스), 치료 옵션 고찰.
+## Three-line Summary
+
+RAS 임상
+
+양상, 병인론(면역·유전·영양·스트레스),
+
+치료 옵션 고찰.
+
+## 세줄요약
+
+RAS 임상
+
+양상, 병인론(면역·유전·영양·스트레스),
+
+치료 옵션 고찰.
 
 ## 1. Document Information
 - **Title**: Recurrent aphthous stomatitis: a potentially disabling condition
@@ -36,7 +49,7 @@ RAS는 자기제한적이나 빈발·대형 병소는 삶의 질 저하. 영양 
 저품질 연구 다수.
 
 ## 6. Related Work
-- [[oral-medicine/manfredini-2021-recurrent-aphthous-stomatitis-treatment]] — related
+- [[oral-medicine/aphthous-stomatitis/manfredini-2021-recurrent-aphthous-stomatitis-treatment]] — related
 
 ## 7. Glossary
 RAS: Recurrent Aphthous Stomatitis; self-limiting: 자기제한적; trigger: 유발인자

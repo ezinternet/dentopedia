@@ -15,15 +15,23 @@ text_filename: jian-2024-thalidomide-recurrent-aphthous-stomatitis-sr-ma.txt
 
 ## Why Ingested
 
-기존 [[oral-medicine/manfredini-2021-recurrent-aphthous-stomatitis-treatment]]가 재발성 아프타성 구내염(Recurrent Aphthous Stomatitis, RAS)의 단계적 치료(국소 우선 → 전신)를 다루지만 탈리도마이드(thalidomide)의 효능·안전성 근거를 정량적으로 다루지 않았다. 본 SR+MA(21 RCT, 1668명)는 국소제 무반응 major RAS에 대한 전신 2차 약제로서 탈리도마이드의 위치를 evidence-weight로 보강하며, 동시에 부작용(말초신경병증·혈전색전) 증가 신호를 정량화한다. [[oral-medicine/belenguer-guallar-2014-recurrent-aphthous-stomatitis-review]]·[[oral-medicine/gasmi-2021-oral-aphthous-pathophysiology-treatment]]의 치료 알고리즘과 짝을 이룸.
+기존 [[oral-medicine/aphthous-stomatitis/manfredini-2021-recurrent-aphthous-stomatitis-treatment]]가 재발성 아프타성 구내염(Recurrent Aphthous Stomatitis, RAS)의 단계적 치료(국소 우선 → 전신)를 다루지만 탈리도마이드(thalidomide)의 효능·안전성 근거를 정량적으로 다루지 않았다. 본 SR+MA(21 RCT, 1668명)는 국소제 무반응 major RAS에 대한 전신 2차 약제로서 탈리도마이드의 위치를 evidence-weight로 보강하며, 동시에 부작용(말초신경병증·혈전색전) 증가 신호를 정량화한다. [[oral-medicine/aphthous-stomatitis/belenguer-guallar-2014-recurrent-aphthous-stomatitis-review]]·[[oral-medicine/aphthous-stomatitis/gasmi-2021-oral-aphthous-pathophysiology-treatment]]의 치료 알고리즘과 짝을 이룸.
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 21 RCTs (n=1668): thalidomide significantly raised complete response (vs placebo RR 6.95; vs other drugs RR 2.18), prolonged recurrence interval (MD +26.91 d), accelerated healing and reduced ulcer number/size and TNF-α, but no pain (VAS) benefit and significantly more adverse events (RR 1.87) — best reserved for major or topical-refractory RAS.
+SR+MA of 21 RCTs (n=1668): thalidomide significantly raised complete response (vs placebo RR 6.95;
 
-## 한줄요약
+vs other drugs RR 2.18), prolonged recurrence interval (MD +26.91 d), accelerated healing and reduced ulcer number/size and TNF-α, but no pain (VAS) benefit and significantly more adverse events (RR 1.87) — best reserved for major or topical-refractory RAS.
+
+(incomplete)
+
+## 세줄요약
 
 21개 RCT(1668명) SR+MA: 탈리도마이드는 완전반응률(위약 대비 RR 6.95, 타약물 대비 RR 2.18)을 유의하게 높이고 재발간격(+26.91일)·치유속도·궤양 수/크기·TNF-α를 개선했으나 통증(VAS)은 개선 못 했고 부작용은 유의하게 증가(RR 1.87) — major RAS 또는 국소제 무반응 사례에 한정 권고.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 
@@ -82,10 +90,10 @@ SR+MA of 21 RCTs (n=1668): thalidomide significantly raised complete response (v
 
 ## 6. Related Work
 
-- [[oral-medicine/manfredini-2021-recurrent-aphthous-stomatitis-treatment]] — RAS stepwise treatment overview this paper supplies systemic 2nd-line evidence for.
-- [[oral-medicine/belenguer-guallar-2014-recurrent-aphthous-stomatitis-review]] — RAS classification and management review.
-- [[oral-medicine/gasmi-2021-oral-aphthous-pathophysiology-treatment]] — RAS pathophysiology (TNF-α/Th1) and treatment, mechanistic basis for thalidomide.
-- [[oral-medicine/mills-2017-aphthous-stomatitis-oral-medicine-review]] — oral-medicine RAS review.
+- [[oral-medicine/aphthous-stomatitis/manfredini-2021-recurrent-aphthous-stomatitis-treatment]] — RAS stepwise treatment overview this paper supplies systemic 2nd-line evidence for.
+- [[oral-medicine/aphthous-stomatitis/belenguer-guallar-2014-recurrent-aphthous-stomatitis-review]] — RAS classification and management review.
+- [[oral-medicine/aphthous-stomatitis/gasmi-2021-oral-aphthous-pathophysiology-treatment]] — RAS pathophysiology (TNF-α/Th1) and treatment, mechanistic basis for thalidomide.
+- [[oral-medicine/aphthous-stomatitis/mills-2017-aphthous-stomatitis-oral-medicine-review]] — oral-medicine RAS review.
 
 ## 7. Glossary
 

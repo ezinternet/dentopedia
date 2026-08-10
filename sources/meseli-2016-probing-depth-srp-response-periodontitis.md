@@ -9,8 +9,21 @@ pdf_filename: meseli-2016-probing-depth-srp-response-periodontitis.pdf
 source_collection: external
 ---
 
-## One-line Summary
-초기 탐침 깊이(Initial Probing Depth, IPD)와 치석제거·치근활택술(Scaling and Root Planing, SRP) 반응 전향적 연구 (JIUFD 2016): 1,672포켓, 15명; IPD=3mm 제외 모든 군 PD 감소 유의; 다근치 AG는 IPD≥7mm에서만 유의.
+## Three-line Summary
+
+초기 탐침 깊이(Initial Probing Depth, IPD)와 치석제거·치근활택술(Scaling and Root Planing, SRP) 반응 전향적 연구 (JIUFD 2016): 1,672포켓, 15명
+
+IPD=3mm 제외 모든 군 PD 감소 유의
+
+다근치 AG는 IPD≥7mm에서만 유의.
+
+## 세줄요약
+
+초기 탐침 깊이(Initial Probing Depth, IPD)와 치석제거·치근활택술(Scaling and Root Planing, SRP) 반응 전향적 연구 (JIUFD 2016): 1,672포켓, 15명
+
+IPD=3mm 제외 모든 군 PD 감소 유의
+
+다근치 AG는 IPD≥7mm에서만 유의.
 
 ## 1. Document Information
 - **Journal**: Journal of Istanbul University Faculty of Dentistry (JIUFD) 2016

@@ -9,8 +9,21 @@ pdf_filename: hong-2021-universal-adhesive-etching-modes-sr-ma.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Systematic review and meta-analysis of 13 clinical studies showing that etch-and-rinse mode for universal adhesives provides superior retention, marginal adaptation, and marginal staining compared to self-etch mode.
+## Three-line Summary
+
+Systematic review and meta-analysis of 13 clinical studies showing
+
+that etch-and-rinse mode for universal adhesives provides superior retention,
+
+marginal adaptation, and marginal staining compared to self-etch mode.
+
+## 세줄요약
+
+체계적 고찰 (Systematic Review, SR) and 메타분석 (Meta-analysis, MA) of 13 임상적 (Clinical) studies showing
+
+that etch-and-rinse mode for universal adhesives provides superior retention,
+
+marginal adaptation, and marginal staining compared to self-etch mode.
 
 ## 1. Document Information
 - **Journal**: Annals of Palliative Medicine, Vol 10, No 5, May 2021, pp. 5462–5473

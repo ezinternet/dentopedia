@@ -1,0 +1,107 @@
+Title: Detecting and monitoring dental plaque levels with digital 2D and 3D imaging techniques
+Authors: Giese-Kraft K, Jung K, Schlueter N, Vach K, Ganss C.
+Journal: PLoS ONE. 2022;17(2):e0263722
+DOI: 10.1371/journal.pone.0263722
+PMID: 35167618
+PMCID: PMC8846510
+Source: PubMed Central (PMC), fetched via PubMed MCP get_full_text_article
+
+Abstract:
+Detecting and monitoring dental plaque is an important issue in research and clinical practice. In this context, new digital imaging methods that permit permanent documentation of the clinical findings could be promising tools. The aim of the study was therefore to investigate whether disclosed plaque can be reliably visualised on 2D and 3D images captured with digital intraoral imaging devices. Clinical examination was the reference method. Twenty subjects (27.5±1.2 years) were included and plaque was measured at three different stages: habitual plaque (T1), after 72 h without oral hygiene (T2) and after a subsequent habitual brushing exercise (T3). At each time point, plaque was disclosed followed by the clinical examination and capturing the 2D and 3D images (intraoral-camera CS 1500 and intraoral-scanner CS 3600; Carestream Dental, Germany). Plaque amounts were recorded on oral and vestibular surfaces of the Ramfjord-teeth (16, 21, 24, 36, 41, 44) using the Rustogi-modified-Navy-Plaque-Index (RMNPI) and expressed as percentage of plaque-containing RMNPI areas of all RMNPI areas. At T1, percentages (mean±SD) obtained from the clinical examination, 2D and 3D images were 62.2±10.6, 65.1±10.0 and 64.4±10.6 resp. increasing to 76.9±8.0, 77.9±8.6 and 77.5±9.4 resp. at T2. After toothbrushing (T3), values decreased to 56.3±11.1, 58.2±12.1 and 61.2±10.8 resp. All methods were able to show statistically significant changes in plaque amounts at the different time points with in part statistically significant but minor differences between them. The Bland-Altmann analysis revealed a good agreement between values from both 2D and 3D images with the clinical examination. The agreement of the scores obtained with the both image-based methods for the single RMNPI areas with the clinical examination was mainly classified as substantial to almost perfect. Amounts of plaque can be reliably detected and monitored on 2D images from an intraoral camera and on 3D images from an intraoral scanner.
+
+Full Text:
+
+Introduction
+
+Dental caries and periodontal diseases are plaque-associated conditions with high global prevalence. Therefore, among other measures, achieving adequate oral hygiene levels is an urgent objective in prevention programmes as well as in individual oral health education. Part of such efforts is detecting and quantifying plaque and monitoring plaque levels. The most commonly used procedure is measuring plaque levels using clinical index systems. Mostly, plaque is disclosed and the amount of which is clinically recorded and scored in defined areas of the tooth. This approach has a long tradition, but a major disadvantage is that the clinical examination is not image-based. This means that the result can only be documented by the scores that are assigned chairside. Recoding into other indices, e.g. in order to make results comparable to other data sets, or addressing new research questions at a later point in time is therefore only possible to a very limited extent. Furthermore, the result depends on the current examination quality and cannot be repeated. It would therefore be desirable to have an image-based procedure that allows a permanent documentation of an oral hygiene status.
+
+In the context of plaque detection, intraoral images were mostly taken with extra-oral cameras. Respective applications are the detection of plaque on fluorescence images or the planimetric evaluation of conventional images. However, taking images of the entire dentition is very time-consuming and technically demanding. Furthermore, such images are often not evenly illuminated and the proximal areas in particular are not adequately visualised due to the curvature of the teeth. Intraoral cameras may be much better suited for this purpose, as they can be easily positioned at a favourable angle to the tooth axis and illuminate the object without flash.
+
+A relatively novel approach is 3D imaging with intraoral scanners. Such devices have many applications in dentistry and respective 3D data have been also used for diagnostic purposes e.g. monitoring tooth wear. Scanners are able to create colour 3D images in relatively short time and might be therefore a promising tool for detecting and monitoring dental plaque levels. Besides saving time, a major advantage of 3D imaging is that all areas of the tooth can be visualised very easily by rotating the object. Earlier studies already investigated differences between a digital camera versus an intraoral camera in terms of plaque imaging reliability, but there is just little known about this topic yet and further investigation have to be done. So far, however, there is little work done on plaque measurements with 2D or 3D imaging techniques, but there is first evidence that these techniques are very promising.
+
+The aim of the present study was therefore to investigate, whether plaque can be reliably detected, quantified and monitored on images obtained by the both intraoral imaging techniques. The method of comparison was the clinical examination.
+
+The Rustogi modification of the Navy-Plaque Index (RMNPI) was used and the plaque levels investigated were i) habitual, ii) after abstaining from oral hygiene for 72 h and iii) after a habitual toothbrushing procedure after this 72 h period.
+
+Subjects, materials and methods
+
+The present study is a prospective in vivo study and was approved by the Ethics Committee of the Justus-Liebig-University, Giessen, Germany (Doc. No 142/19). The consent was obtained in written form.
+
+It took place at the Department of Conservative and Preventive Dentistry, Dental Clinic of the Justus-Liebig-University Giessen, Germany and was performed according to the guidelines of Good Clinical Practice and the Declaration of Helsinki.
+
+The study group was a convenience sample and consisted of 20 subjects (16 female, 4 male) with a mean (±SD) age of 27.5±1.2 years, recruited via oral and written announcements. Inclusion criteria were: written informed consent, at least 18 years of age, full dentition up to the second molar without extensive fillings on vestibular and / or oral surfaces or prosthetic restorations, good general health based on their medical history, agreement to return for their scheduled visit and to follow all study procedures. Exclusion criteria were: frank carious lesions, insufficient fillings, dental malformations, gingival recessions >1/3 of the root length in the region of interest, active treatment for periodontitis, fixed orthodontic appliances (retainer permitted), or any disease or condition that could be expected to interfere with examination procedures or with the subject safely completing the study.
+
+Study procedures and 2D / 3D imaging process
+
+In order to ensure that different levels of plaque amounts could be detected, data were collected at the first appointment when subjects came with habitual plaque levels (T1; baseline), at the second appointment after 72 hours without oral hygiene (T2) and again after subsequent habitual toothbrushing (T3). All procedures were highly standardized and have been performed in the same order for all subjects.
+
+At the first visit, informed consent was obtained and subjects were screened for inclusion / exclusion criteria. After inclusion in the study (T1), dental plaque was disclosed with Mira-2-Tonsolution (Hager & Werken GmbH & Co KG, Duisburg, Germany). The disclosing agent was applied with a saturated foam pellet, thereafter the subjects rinsed with water for 10 s. This disclosing procedure was done twice. Immediately afterwards, plaque levels were recorded on the vestibular and oral surfaces of the Ramfjord-teeth (16, 21, 24, 36, 41, 44) using the Rustogi modification of the Navy-Plaque Index (RMNPI). After completing the clinical examination, intraoral 2D images and intraoral 3D scans (intraoral camera CS 1500 and intraoral scanner CS 3600 Carestream Dental LLC, Atlanta, United States and Stuttgart, Germany) were done. 2D images were taken using a dental air blower and the application of a lip retractor (OptraGate; Ivoclar Vivadent, Schaan, Liechtenstein) for full display. Four intraoral 2D images were taken from each of the teeth under study: from a mesial-lateral and distal-lateral view of both the vestibular and oral surface.
+
+Then an intraoral 3D-scan of the whole dentition was made, again with the lip retractor in situ. The scan area was kept dry by sucking off saliva and using an air blower. Areas that were not sufficiently well visualised were re-scanned ("black holes" / "blue areas" especially in proximal areas). Rescanning was done until the entire dental arch was completely displayed.
+
+Finally, the teeth were cleaned with pumice and a rubber cup until they were free from disclosed plaque. After 72 hours without oral hygiene (T2), plaque was again disclosed and the clinical examination and 2D and 3D imaging were done, all as described above. Next, subjects brushed their teeth depending on their preferred toothbrush type either with a manual toothbrush (elmex sensitive) or with a powered toothbrush (Professional Care 3000 oral-B) using toothpaste (blend-a-med PRO EXPERT) as they habitually do. Afterwards, the disclosing and imaging procedures were done a third time (T3). Finally, a second professional tooth cleaning completed the clinical study procedures.
+
+Plaque-index
+
+The RMNPI was determined for each Ramfjord-tooth during the clinical examination and afterwards on both 3D and 2D images. The vestibular and oral tooth surfaces of the Ramfjord-teeth were investigated and each of the nine RMNPI areas were scored 0 (no disclosed plaque visible) or 1 (any amount of disclosed plaque visible). The plaque index value was calculated as percentage of areas with plaque of the total areas.
+
+The judgement of the 3D and 2D images was carried out after the clinical examination was totally completed, with the 3D and 2D images being assessed separately from one another. Because of time lags and the large number of decisions, it was impossible for the two investigators to relate 3D and 2D images to one another; a randomization of the images for analysis was not performed.
+
+All images were evaluated using CS Mesh Viewer (Carestream Dental, Germany) and the same 15.6 inch monitor (Full-HD, 8-bit colour depth, RGB SDR, 120 Hz).
+
+Inter- and intra-examiner agreement
+
+The study was carried out by two investigators (K.G-K, K.J), who were extensively trained and calibrated before and during the investigation. Kappa scores were calculated for the single areas of the RMNPI of each of the six teeth under study, separately for all time points (T1-T3). Inter-examiner Kappa (clinical exam) ranged 0.853-0.957; 2D 0.742-0.912; 3D 0.720-0.854. Intra-examiner Kappa: examiner 1: 2D 0.781-0.878, 3D 0.781-0.819; examiner 2: 2D 0.782-0.948, 3D 0.880-0.966.
+
+Statistics
+
+Statistics were done with Stata and IBM SPSS Statistics v25. Parametric tests were used (no significant deviation from Gaussian distribution, Kolmogorov-Smirnov test). Linear mixed models were used for within-method and between-method comparisons, Scheffe correction for multiple testing. Bland-Altman plots were used for analysing agreement of plaque amount values from 2D and 3D images vs. clinical investigation (reference), separately for oral and vestibular surfaces. Regression analysis evaluated proportional bias. One-sample t-tests evaluated systematic bias. Kappa statistics were used for the 9 RMNPI areas separately.
+
+Results
+
+RMNPI scores
+
+The clinical investigation revealed a significant increase of plaque amounts when subjects abstained from oral hygiene compared to baseline (p<0.0001). After subjects had brushed their teeth, amounts decreased significantly (p<0.0001) to somewhat lower plaque levels than baseline (p<0.01). Similar was detected on both 2D and 3D images: plaque amounts increased without oral hygiene (each p<0.0001 vs baseline), and decreased significantly after brushing (each p<0.0001 vs T2). Post brushing plaque levels on 2D images were slightly lower than baseline (p=0.001) while there was no significant difference of plaque amounts between these time points on 3D images (n.s.; p=0.125).
+
+Changes in plaque amount at the different time points were more pronounced on vestibular surfaces than oral surfaces (both clinical exam and image analysis). At the different time points, there were few differences between values obtained from the different methods; minor order, in part statistically significant.
+
+The numerical increase of scores after abstaining from oral hygiene was most pronounced on vestibular surfaces, particularly the first upper molar, while changes on oral surfaces were relatively small.
+
+Percentages of plaque containing RMNPI areas of all RMNPI areas (mean(SD)):
+- All surfaces: T1 CE 62.1(10.6), 2D 65.1(10.0), 3D 64.4(10.6); T2 CE 76.9(8.0), 2D 77.9(8.6), 3D 77.5(9.4); T3 CE 56.3(11.1), 2D 58.2(12.1), 3D 61.2(10.8).
+- Vestibular surfaces: T1 CE 60.2(14.5), 2D 64.0(13.6), 3D 62.9(13.6); T2 CE 81.2(9.0), 2D 83.0(9.5), 3D 82.0(9.4); T3 CE 53.0(13.3), 2D 56.2(15.0), 3D 58.5(13.6).
+- Oral surfaces: T1 CE 64.1(11.8), 2D 66.2(11.7), 3D 65.8(11.6); T2 CE 72.5(9.3), 2D 72.9(9.9), 3D 73.0(11.8); T3 CE 59.7(11.9), 2D 60.3(11.7), 3D 63.8(10.8).
+
+Bland-Altman analyses revealed small systematic bias: slightly higher scores on 2D (except oral surfaces) and 3D images vs clinical examination. Oral surfaces: mean difference to clinical exam was -0.5±2.1 for 2D (n.s.; p=0.064) and -2.6±4.9 for 3D (p<0.001). Vestibular surfaces: -1.5±2.2 (p<0.001) for 2D, -1.5±2.4 (p<0.001) for 3D. No proportional bias except for 3D images of vestibular surfaces, where there was a minor but statistically significant tendency to higher scores at low plaque levels and lower values at higher plaque levels (r=0.069; p<0.05).
+
+Agreement of methods within the RMNPI areas
+
+Overall (Landis and Koch scale), the agreement between methods was substantial to almost perfect. 2D images agreed slightly better with clinical examination than 3D images. The two image-based methods showed very good agreement with each other.
+
+Results from 2D images showed substantial to almost perfect agreement to clinical examination for both oral and vestibular surfaces, lowest Kappa 0.681 (area D, oral surfaces). Results from 3D images on vestibular surfaces agreed almost as well as 2D analysis; lowest Kappa 0.491 (moderate agreement). On oral surfaces, 3D agreement with clinical exam was substantial in most cases, but only moderate in area C (κ=0.506) and only fair in area D (κ=0.269).
+
+Kappa coefficients (overall, all time points/areas merged), selected: Area A 0.648 (CE-2D 0.749, CE-3D 0.555, 2D-3D 0.634); Area B 0.811 (CE-2D 0.840, CE-3D 0.764, 2D-3D 0.831); Area E 0.898 (CE-2D 0.909, CE-3D 0.864, 2D-3D 0.919); Area G 0.756; Area H 0.726; Area I 0.770.
+
+Discussion
+
+The study investigated whether plaque can be reliably detected and monitored on colour images from an intraoral camera and an intraoral scanner. The RMNPI was chosen for its complexity (9 areas per tooth surface), though it does not differentiate the amount of plaque within an area (binary 0/1 per area), which limits discriminative power and explains relatively high RMNPI scores overall.
+
+A single 2D image could not capture the mesial and distal areas of a tooth equally well; four images per tooth were required. Partial-mouth recording (Ramfjord teeth) was used, valid for representing plaque levels in similar age groups.
+
+At baseline, 62.1% of RMNPI areas contained plaque; increased to 76.9% after 72h without oral hygiene (greater increase on vestibular surfaces, highest on upper first molar, corroborating earlier findings); habitual brushing reduced plaque only slightly below baseline.
+
+Both 2D and 3D imaging methods tracked the same directional changes as clinical exam. Overall tendency to numerically higher scores on both 2D and 3D vs clinical exam (also seen in Bland-Altman), explained by image enlargement, good illumination, and absence of patient-related factors that complicate clinical evaluation.
+
+Compared to 2D images (excellent resolution/sharpness), 3D images appeared somewhat pixelated and blurred, especially in proximal areas, and it was sometimes difficult to demarcate neighbouring teeth. This led to lower agreement with clinical exam in two gingival and one proximal area, but agreement remained substantial overall.
+
+For vestibular surfaces, 3D agreement was equivalent to 2D, but with a statistically significant small proportional error (3D may overestimate plaque at low magnitudes, underestimate at high magnitudes) — not clinically relevant at the plaque levels studied, but needs further investigation for smaller plaque amounts.
+
+For oral surfaces, no proportional error, but agreement with clinical exam was lower than vestibular — attributed to scanner head size making it difficult to display oral (lingual) surfaces of the mandible depending on anatomy. The scanner software allows access to underlying 2D images from which the 3D object is calculated (similar quality to intraoral camera images), offering a diagnostic fallback for suboptimal 3D areas.
+
+Limitations: only younger people with few restorations included; unclear how metallic restorations (crowns) affect 3D plaque detection; 3D imaging limited in patients with recessions/wide interdental spaces (e.g., periodontal disease); only one index (RMNPI) was used — other index systems should be investigated.
+
+Conclusion
+
+Amounts of plaque can be reliably detected and monitored on 2D images from an intraoral camera and on 3D images from an intraoral scanner when compared to clinical examination as reference. Intraoral 2D images allow more precise plaque determination but are relatively time-consuming to take and manage — more suitable for research questions and partial-mouth recordings. Intraoral scanners image the entire dental arch relatively quickly, and all areas can be assessed easily by rotating the 3D object, at some expense to image quality (at least currently). Intraoral scanners appear reliable enough to detect and monitor plaque in research and clinical practice at the plaque levels studied, and could be promising tools for comprehensive analysis and documentation of patients' oral hygiene status.
+
+MeSH terms: Adult; Dental Plaque; Female; Humans; Imaging, Three-Dimensional; Male; Photography, Dental; Prospective Studies

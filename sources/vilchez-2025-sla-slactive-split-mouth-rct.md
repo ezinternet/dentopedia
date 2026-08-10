@@ -17,13 +17,21 @@ text_filename: vilchez-2025-sla-slactive-split-mouth-rct.txt
 
 Surface chemistry comparisons (SLActive vs SLA) are frequently cited when discussing ISQ stability thresholds and early loading decisions. This RCT directly addresses whether the modified hydrophilic SLActive surface confers measurable ISQ or MBL advantages over conventional SLA in matched split-mouth pairs — a direct relevance to [[wiki/implants/isq/andersson-2019-rfa-factors-5year-neoss-survival]], which established that surface modifications influence early RFA trajectories. Vílchez 2025 provides Level I evidence that ISQ trajectories and MBL outcomes converge by 8 weeks and 12 months post-loading despite different surface chemistries.
 
-## One-line Summary
+## Three-line Summary
 
 Split-mouth RCT (n=68, 136 implants, 12 months): modified SLActive and conventional SLA Bone Level Tapered Roxolid implants showed no significant difference in ISQ or in the primary outcome (MBL change loading→12 months, 0.04 vs 0.07 mm, p=0.658), with 100% survival after loading in both groups.
 
-## 한줄요약
+(incomplete)
 
-무작위대조 분할구강 임상시험(n=68, 136개 임플란트, 12개월): 변형 SLActive와 기존 SLA 테이퍼형 임플란트 간 ISQ 및 1차 결과(부하 후 12개월 변연골 소실 변화량, 0.04 vs 0.07mm, p=0.658)에 유의한 차이 없음; 부하 이후 생존율 두 군 모두 100%.
+(incomplete)
+
+## 세줄요약
+
+무작위대조 분할구강 임상시험(n=68, 136개 임플란트, 12개월): 변형 SLActive와 기존 SLA 테이퍼형 임플란트 간 ISQ 및 1차 결과(부하 후 12개월 변연골 소실 변화량, 0.04 vs 0.07mm, p=0.658)에 유의한 차이 없음;
+
+부하 이후 생존율 두 군 모두 100%.
+
+(incomplete)
 
 ## 1. Document Information
 

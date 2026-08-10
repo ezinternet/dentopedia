@@ -17,13 +17,21 @@ text_filename: abada-2025-obturation-techniques-post-obturation-pain-rct.txt
 
 Seeds the wiki's first Ceraseal/bioceramic-sealer (calcium-silicate sealer) cluster with a head-to-head clinical RCT of CeraSeal vs AH Plus across three obturation techniques. Extends [[endodontics/song-2022-sealer-based-obturation-epoxy-calcium-silicate-rct]] (which found no postoperative-pain or extrusion difference between calcium-silicate and epoxy-resin sealers) by reporting, in 150 single-visit molar cases, that AH Plus produced significantly higher pain than CeraSeal overall and specifically under continuous-wave compaction. Provides a clinical-pain/extrusion anchor for the single-cone CeraSeal evidence in [[endodontics/spinelli-2024-three-year-single-cone-ceraseal-cohort]] and the apical-extrusion ranges in [[endodontics/zamparini-2023-premixed-calcium-silicate-carrier-based-2year]].
 
-## One-line Summary
+## Three-line Summary
 
-RCT (n=150 mandibular first molars, single-visit, asymptomatic irreversible pulpitis) comparing CeraSeal vs AH Plus across cold lateral / continuous-wave / single-cone obturation: pain was low-to-moderate (VAS 0–1.4) in all groups; obturation technique alone did not affect pain (p=0.124) but AH Plus gave significantly higher pain than CeraSeal overall (p<0.001) and under continuous-wave compaction (p<0.001); sealer-extrusion incidence did not differ between groups (p=0.499) but extrusion of either sealer raised pain (p<0.001).
+5-arm RCT (n=150 mandibular first molars, single-visit, asymptomatic irreversible pulpitis) comparing CeraSeal (bioceramic) vs AH Plus (epoxy-resin) sealers across cold lateral compaction, continuous-wave compaction, and single-cone obturation techniques.
 
-## 한줄요약
+Pain was low-to-moderate (VAS 0–1.4) across all groups; obturation technique alone did not affect pain (p=0.124), but AH Plus produced significantly higher pain than CeraSeal overall (p<0.001) and specifically under continuous-wave compaction (p<0.001); sealer extrusion incidence was similar between groups (p=0.499) but extrusion of either sealer independently raised pain (p<0.001).
 
-RCT(하악 제1대구치 150개, 단일내원, 무증상 비가역적 치수염): CeraSeal vs AH Plus를 측방가압·연속파가압·단일콘 충전으로 비교. 모든 군에서 통증 낮음(VAS 0–1.4). 충전법 자체는 통증 차이 없음(p=0.124)이나 AH Plus가 CeraSeal보다 통증 유의하게 높음(전체 p<0.001, 연속파가압에서 p<0.001). 실러 일출 빈도는 군간 차이 없음(p=0.499)이나 실러가 일출되면 통증 증가(p<0.001).
+Sealer chemistry (not obturation technique) drives postoperative pain differences — CeraSeal is preferable to AH Plus, with the penalty concentrated when AH Plus is used with heated compaction; sealer extrusion should be minimized regardless of sealer type.
+
+## 세줄요약
+
+5군 RCT (하악 제1대구치 150개, 단일 내원, 무증상 비가역적 치수염): CeraSeal(생체세라믹) vs AH Plus(에폭시 레진) 실러를 측방가압·연속파가압·단일콘 충전에 걸쳐 비교.
+
+전 군에서 통증 낮음(VAS 0–1.4); 충전법 자체는 통증 차이 없음(p=0.124), AH Plus가 CeraSeal보다 전반적으로 통증 유의하게 높음(p<0.001) — 연속파가압에서 차이 가장 큼(p<0.001); 실러 일출 빈도 군간 차이 없음(p=0.499)이나 일출 시 통증 증가(p<0.001).
+
+술후 통증 차이는 충전법이 아닌 실러 화학 조성이 결정 — AH Plus 대신 CeraSeal 우선, 특히 연속파가압 시; 실러 종류에 무관하게 일출 최소화가 핵심.
 
 ## 1. Document Information
 

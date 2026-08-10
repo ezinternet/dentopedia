@@ -1,0 +1,133 @@
+Introduction
+
+Tinnitus is a sound that is perceived in the absence of an acoustic event occurring external to the listener’s body. It is commonly described as the sound of, for example, crickets, winds, falling tap water, grinding steel, escaping steam sound, or as a combination of sounds (). Tinnitus can be perceived in one ear, both ears, or more centrally located “in the head” (). In adults of the general population, the prevalence of tinnitus ranges between 10% and 15% (D.). In people older than 60 years of age, the prevalence of tinnitus increases to about 18% ().
+
+In a minority of people with tinnitus, the sound is audible to an observer and is therefore called. In most of these patients, it is possible to determine the underlying etiology. However, in the vast majority of tinnitus sufferers, the sound is audible only to the patient and is called().
+
+Numerous studies suggest that subjective tinnitus arises in the central auditory system due to neuroplastic adaptations that occur in response to changes in the peripheral auditory system (;;;;). Animal studies indicate that peripheral damage, for example, noise trauma, results in changes in spontaneous neural activity (). The central auditory system is thought to compensate for the reduced input by upregulating the excitability of the central auditory neurons (;;).
+
+Two thirds of patients may experience modulations to their subjective tinnitus through somatosensory system effects in addition to those associated with central auditory neurons. These patients are able to modulate the loudness and pitch by muscle contractions of the neck, head, or jaw (;;;;;;;). To indicate this type of tinnitus, the termhas been proposed (). Moreover, cervical spine disorders (CSD; e.g., pain, tenderness;;;;;;;) or temporomandibular disorders (TMD;) are frequently associated with tinnitus. However, in most of these studies, the prevalence data are not compared with a control group, and the strength of the association between tinnitus and CSD or TMD remains unclear.
+
+To the best of our knowledge, a systematic review of studies on the association between subjective tinnitus and CSD or TMD has not yet been carried out. As movements of the neck and jaw may increase or decrease the loudness and pitch of tinnitus, understanding the association between tinnitus and CSD or TMD is important because in the future, treatment of CSD or TMD might be used to reduce tinnitus. The aim of the present study was to systematically analyze the level of evidence for a bidirectional association between subjective tinnitus and symptoms of CSD or TMD.
+
+Methods
+
+Identification and Selection of Studies
+
+A database search was performed in Medline, Embase, and Pedro to identify articles published within the time period of 1966 to September 2017. The following search terms were used: Tinnitus and (Temporomandibular Joint or Jaw or Cervical Vertebrae or Neck Muscles or Facial Muscles or Neck Pain or Masticatory Muscles or Musculoskeletal or Trigger point or ((Head or Jaw or Neck or Shoulder) and (Muscle or Pain or Trauma or injuries))) (Appendix 1: electronic search strategy).
+
+Titles and abstracts were assessed for their relevance by the first author (E. J. B.). In the next round, selected full-text articles were retrieved and their relevance independently assessed by two observers (E. J. B. and P. D.). Interobserver agreements were expressed as Cohen’s kappa. Inclusion criteria were aordesign in which tinnitus and CSD or TMD were treated as either primary or secondary outcomes and that this group was compared with a control group. Exclusion criteria were reviews, letters to the editor, animal studies, number of patients <10, and articles describing neck or jaw disorders caused by a trauma. The termwas used as part of the search strategy to avoid missing possibly relevant articles. No language restrictions were applied. In case the authors were not able to understand an article for language reasons, it was translated. References of the studies included were checked for relevant studies that had been missed in the database searches.
+
+Assessment of Characteristics of Studies
+
+The methodological quality of the studies included was independently judged by two observers (E.J. B. and E. A. K.) according to nine criteria of a modified version of. The criteria were (1) “Was the research question or objective in this article clearly stated and appropriate?” (2) “Was the study population clearly specified and defined?” (3) “Were controls selected or recruited from the same or similar population that gave rise to the patients (including the same timeframe)?” (4) “Were the definitions and inclusion and exclusion criteria used to identify or select patients and controls valid, reliable, and implemented consistently across all study participants?” (5) “Were the patients clearly defined and differentiated from controls?” (6) “Were the patients and controls randomly selected?” (7) “Were controls matched to patients on one or more attributes?” (8) “Were the measures of exposure clearly defined, valid, reliable, and implemented consistently across all study participants?” and (9) “Were the assessors blinded to the patient or control status of participants?” Criteria were scored: [+] = Yes, [–] = No, [?] = Cannot be determined/unclear/ not reported. Each quality item addresses a different source of potential bias and can impact study results disproportionately. If, for example, only one quality item is not fulfilled, it does not mean that the study has a better quality than a study with two quality items not fulfilled. Therefore, the results of methodological quality assessment will be described per item, without summing across items (see).
+
+Data Synthesis and Analysis
+
+Data were entered in the program Comprehensive Meta-Analysis V3 (Biostat, Englewood, NJ, USA). If odds ratios were provided in the original article, then they were entered into the database. When odds ratios were not reported, the data were entered into the database as they were reported in the article (). Meta-analyses were performed assuming a random-effects model. The summary statistic of the association between tinnitus and CSD or TMD was expressed as odds ratios. To explore publication bias for each association, funnel plots were made. To adjust for potential publication bias,nonparametric trim-and-fill approach to impute theoretical missing studies was applied.
+
+Results
+
+Search Strategy and Study Selection
+
+A total of 2,139 records were found: in PubMed, 1,069; in Embase, 1,053; and in Pedro, 17. After removing duplicates, 1,581 articles remained. In 1,517 of these, the association between tinnitus and CSD or TMD had not been studied. Two observers assessed the full text of 64 articles, of which 24 met the inclusion criteria. Interobserver agreement expressed as Cohen’s kappa was 0.70 (absolute agreement: 86%). Two of these articles,andwere based on the same data set asand, respectively. Only the latter articles were included, as they contained the most relevant information for this review. Consequently, a total of 22 independent articles were included in this study (;;;;;;;;;;;;;;;;;;;;;). No additional articles were identified from the reference lists of the articles (). No articles surfaced in our search strategy that needed translation.
+
+Data Extraction and Quality Assessment
+
+Study characteristics
+
+Almost all studies were cross-sectional (= 20) in design. Data of two longitudinal studies were extracted from baseline measurements (;;). Twelve studies investigated the presence of CSD or TMD in patients with and without tinnitus. Ten studies examined the presence of tinnitus in patients with and without TMD only. No studies were found in which tinnitus was explored in patients with and without CSD. Of the studies investigating the association between tinnitus and TMD, three studies examined patients with and without tinnitus, wherein both groups also complained about bruxism (), disc displacements of the temporomandibular joint (TMJ;), or headache or facial pain (). Most patients were recruited from general or specialized hospitals/ENT departments. Almost all studies included adult patients and controls of all ages. However, in one study, patients and controls were students less than 21 years old (), and in another study, patients and controls were exactly 70 or 76 years old (). In four studies, patients and controls were recruited from a community database (;;;;).
+
+Several studies also reported TMD symptoms of arthrogenous (TMDa) or myogenous origin (TMDm). If, in addition to an overall outcome for TMD, a TMDa or TMDm symptom was also reported, then these specified outcomes instead of TMD (not specified) were used in the meta-analyses. The following strategy was applied to decide whether TMDa was investigated in a study: (a) the authors of the study reported it; (b) if it was not reported, then data regarding disc derangement were used; (c) if these were not reported, then data regardingwere used; and (d) if these were missing, then data regarding joint sounds were used. For TMDm, (a) data regarding myofascial pain (dysfunction) were used; (b) if this was not reported, then Diagnosis Group I.a and I.b of the Research Diagnostic Criteria for Temporomandibular Disorders (RDC/TMD) were used (); (c) if these were not reported, then data regarding pain/tenderness on palpation of masticatory muscles were used; and (d) if these were not reported, then data regarding pain in the lower lateral face were used.
+
+Studies were grouped into one of five categories: (a) The association between tinnitus and CSD was analyzed in five studies (;;;;); (b) the association between tinnitus and disorders in both neck and jaw (CSD plus TMD) in three studies (;;); (c) the association between tinnitus and TMD (not specified) in six studies (;;;;;); (d) the association between tinnitus and TMDa in 11 studies (;;;;;;;;;;); and (e) the association between tinnitus and TMDm in seven studies (;;;;;;). Some studies considered multiple associations and, as a consequence, belonged to more than one category ().
+
+Quality assessment
+
+The number of quality criteria met by the studies ranged from 1 to 7 (). The interobserver agreement expressed as Cohen’s kappa was 0.33 (absolute agreement: 64%). Criteria for study objective, population, and group discrimination were fulfilled in 21 studies. Random selection of patients and controls was applied in three studies. In five studies, participants were matched for gender and age. In two studies, assessors were blinded. Patients and controls were recruited from the same population in 16 studies.
+
+Instruments to assess tinnitus, CSD, or TMD were well described in eight studies. In all eight studies, the RDC/TMD () was applied (;;;;;;;). Tinnitus was assessed with a single question in most of the studies (= 16). In six studies, this question was part of the RDC/TMD (;;;;;). In all other studies (= 10), tinnitus was assessed by a single question as part of author-designed questionnaires (nonvalidated). In six studies, a physician assessed tinnitus. No information about severity of tinnitus was reported.
+
+Participants were asked to report the presence of pain in the jaw, neck, and shoulder region by means of author-designed (nonvalidated) questionnaires in five studies (;;;;) or RDC/TMD (;;;;;;). In the other studies, participants were asked to report pain provoked during physical examination of that region, such as assessment of myofascial trigger points (TrPs;). In one study, a physician was trained to deliver a standardized finger pressure for evaluating TrPs (). In another study, an algometer was used for assessment of TrPs ().
+
+Meta-analysis
+
+The results ofwere reported as hazard ratios (tinnitus with and without TMD, Crude HR = 2.73,< .001) instead of odds ratios and were not included in the meta-analysis.reported not only significant differences in TMD between patients with and without tinnitus but also about CSD. Because no data of CSD were reported in the controls, these data were also not included in the meta-analysis.
+
+Tinnitus and CSD
+
+One study () did not and three studies did find a significant association between myofascial pain in the neck region and tinnitus. All studies investigated CSD in patients with and without tinnitus. The study-size weighted odds ratios ranged from 1.2 to 10.9, with an overall odds ratio of 2.6 (95% CI [1.1, 6.4];).
+
+Tinnitus and CSD plus TMD
+
+All three studies analyzing the association between tinnitus and CSD plus TMD found a significant association between myofascial complaints in head, jaw, neck, or shoulders. All studies investigated CSD plus TMD in patients with and without tinnitus. All patients were recruited from specialized hospitals. Of these patients, 67% to 83% perceived tinnitus. The study-size weighted odds ratios ranged from 4.9 to 7.0, with an overall odds ratio 5.5 (95% CI [3.4, 9.0]).
+
+Tinnitus and TMD (not specified)
+
+All studies but one () found an association between tinnitus and TMD (not specified). One study investigated TMD in patients with and without tinnitus (). Conversely, five studies investigated tinnitus in patients with and without TMD (;;;;). Overall, 37% to 88% of patients with TMD who were recruited from specialized TMD clinics perceived tinnitus. The study-size weighted odds ratios ranged from 1.7 to 44.3, with an overall odds ratio of 6.7 (95% CI [2.4, 18.8]).
+
+Tinnitus and TMDa
+
+Eight out of 11 studies found a significant association between tinnitus and TMDa. Of the patients who were recruited from specialized TMD clinics, 20% to 59% perceived tinnitus; when recruited elsewhere, 21% to 48% perceived tinnitus. Eight studies investigated TMDa in patients with and without tinnitus (;;;;;;;). Conversely, three studies examined tinnitus in patients with and without TMDa (;;). Temporomandibular disc displacements was investigated in four studies (;;;), while pain or noises in the TMJ were studied in the other studies. The study-size weighted odds ratios ranged from 1.2 to 9.9, with an overall odds ratio 2.3 (95% CI [1.5, 3.6]).
+
+Tinnitus and TMDm
+
+All seven studies found a significant association between tinnitus and TMDm. These studies examined myofascial pain in the jaw region. Five studies investigated TMDm in patients with and without tinnitus (;;;;). One study investigated tinnitus in patients with and without TMDm (). Patients were recruited from specialized TMD clinics. The study-size weighted odds ratios ranged from 1.3 to 10.0, with an overall odds ratio of 4.1 (95% CI [2.1, 8.1]).
+
+Finally, three studies investigated laterality between unilateral tinnitus and unilateral TMD (;;). In two studies, all the participants had both conditions on the same side (;), while the contralateral TMJ region was asymptomatic in 94% (). The third study found an association of laterality in 56.5% (> .001) of the patients between the tinnitus side (or the side with the worst tinnitus) and the side of the body with most TrPs ().
+
+Publication bias
+
+Based on the funnel plots (to ()), publication bias was suggested regarding the association between tinnitus and CSD/TMD, TMD (not specified), and TMDm. The overall odds ratio reduced afterfrom 5.5 to 4.9 for the association with CSD/TMD, from 6.7 to 4.5 for the association with TMD (not specified), and from 4.1 to 3.3 for the association with TMDm ().
+
+Discussion
+
+Summary of Main Results
+
+In the majority of the studies, a significant association between tinnitus and TMD was identified. This relationship is bidirectional meaning that, patients with tinnitus more frequently experienced TMD than subjects without tinnitus, and, vice versa, patients with TMD experienced tinnitus more frequently compared with subjects without TMD. For CSD, the results only revealed a unidirectional relationship. Thus, patients with tinnitus more frequently reported CSD. None of the included studies reported on the reverse relation, that is, whether patients with CSD have an increased probability to experience tinnitus. Meta-analysis showed that patients with tinnitus have an average of 2.6 and 6.7 times greater risk of reporting CSD or TMD, respectively.
+
+Bias and Quality Assessment
+
+Almost all studies reported a significant association between tinnitus and CSD or TMD, which may suggest a risk of publication bias. This bias seems to be confirmed by the absence of data points on the left side of the funnel plots in, (), and (). When theoretical missing studies were imputed, the adjusted odds ratios for these items reduced, but an association persisted. In, one theoretical missing study is imputed in the right side of the funnel plot causing a minimum increment of the adjusted odds ratio. This might be caused by a systematic difference between the studies of higher precision and the only study of lower precision. In the analysis, one outlier was found with an odds ratio of 44.3 (). Quality assessment could not sufficiently explain this outlier, except that the sample size was small.
+
+The methodological quality assessment showed that only in a few studies were the assessors blinded (2/22) and the patients and controls randomly selected (3/22) or matched for gender and age (5/22;). Despite this shortcoming, no studies found a significant difference regarding distribution of gender or mean age between comparison groups. Further, in some studies, patients and controls were not recruited from the same population. For instance, patients visiting a specialized TMD clinic were compared with controls visiting a dentist for minimal dental care. Consequently, recruitment from different populations may result in differences between groups that influence outcomes. To analyze effects of quality, we initially intended to perform a meta-regression to explore associations between quality criteria of studies and their outcomes. After reviewing the results, however, we decided to refrain from meta-regression because quality criteria were either met in the vast majority of studies or not met, resulting in a skewed distribution between studies.
+
+Instead of a validated questionnaire such as the(, tinnitus was often assessed by means of a single question as part of the RDC/TMD or other questionnaire. Thus, only information on the presence, and not about the severity, of tinnitus was provided. It is therefore unclear whether severity of tinnitus affected the associations.
+
+As only one author screened abstracts, titles, and selected full texts, studies may have been missed. To reduce the chance of missing studies, references of the included studies were checked.
+
+We used a modified version offor methodological quality assessment of case-control, cross-sectional, and cohort studies. A negative feature of this tool was that the quality criteria were widely interpretable, which resulted in a low kappa value, but with an acceptable absolute agreement. After discussion, however, consensus was reached on all topics. Classifying studies according to their risk of bias was considered, but it was impossible to state at which level and in which direction the individual quality items contributed to a study’s risk of bias. Therefore, the results of methodological quality assessment are described.
+
+In exploring the association between tinnitus and TMD, we combined studies recruiting patients with tinnitus in a TMD clinic and studies recruiting patients with TMD in a tinnitus clinic. This might have induced selection bias, but as the association was bidirectional, this analysis did not appear to influence results.
+
+The majority of the studies exploring the association between TMD and tinnitus are of acceptable quality, and almost all found an association between TMD and tinnitus. However, we found no high-quality studies, as each study had at least one critical unfilled individual quality criterion, such as lack of blinding or comparability of the groups, which could have contributed to a study’s risk of bias. Based on the Grading of Recommendations Assessment, Development and Evaluation level of evidence scale, we qualified the overall level of evidence for this association as low ().
+
+In addition, we found no high-quality studies exploring the association between CDS and tinnitus. In contrast to the good clinometric properties of the instrument assessing TMD, CSD was assessed only by means of author-designed questionnaires or by examination for tenderness or TrPs. The latter was almost always performed by means of palpation and only once by means of pressure algometry. Therefore, we also qualified the overall level of evidence for this association as low.
+
+Explanatory Models
+
+A frequently described explanation for subjective somatosensory tinnitus is that a TMJ disorder (e.g., disc displacement) or hypertonia of the masticatory muscles might influence middle ear muscle tension or ventilation through an anatomical connection (e.g., the tensor veli palatini, the eustachian tube, or several ligaments). These influences would generate afferent signals that would—via the cochlear nerve—influence the auditory pathways (for review, see). However, as tinnitus and its somatosensory modulation can persist after cutting the system off at the auditory nerve (D. M. Baguley, Axon, Winter, & Moffat,;), these peripheral explanations cannot provide the sole explanation. Recently, studies have shown anatomical and functional connections between the trigeminal and dorsal column systems of the somatosensory system and the cochlear nucleus (CN) of the auditory system in the medulla oblongata (). The spinal trigeminal nucleus receives nociceptive and proprioceptive input from the head, face, oral structures, TMJ, and cervical spine (C1–C3) and projects to the CN (). A possible functional role of the auditory-somatosensory interactions involves the differentiation between external auditory signals and those generated by the body itself (). This functional connection in the brainstem between the auditory and somatosensory system might mediate an association between subjective tinnitus and CSD and TMD (). In addition, in case of cochlear damage, this connection is upregulated, as over a time interval of days after reduced auditory nerve input, responses to somatosensory stimulation are heightened (). The interaction between both systems might explain why tinnitus sufferers can modulate the loudness and pitch of their tinnitus (;). It is also conceivable that based on stochastic resonance, the somatosensory input may lead to the development of subjective tinnitus, as it may lift subthreshold auditory nerve input to the CN above detection threshold ().
+
+The association between tinnitus and CSD or TMD is mostly ipsilateral (;;). This suggests that neural interactions between CSD or TMD and tinnitus are based on neural circuits that are sensitive to (mostly) ipsilateral stimuli. This is consistent with the functional connections between the spinal trigeminal nucleus and the CN, which are both located peripheral to major neural decussations in the brainstem (;). Thus, the possible ipsilateral association between tinnitus and CSD or TMD is consistent with a cross-modal mechanism between the trigeminal systems and the CN.
+
+To better understand a possible underlying mechanism, further exploration of the association between tinnitus and CSD or TMD is needed. This could include not only the relationship of CSD or TMD to unilateral tinnitus but also the different symptoms of TMD, such as disc derangement and pain, in relation to tinnitus.
+
+Clinical Implications
+
+This review implies that physical examination of the TMJ and the neck region may help explain some phenomena described by patients with tinnitus. However, our study does not provide information on possible effects of treatment of CSD or TMD on tinnitus. Nevertheless, explaining the existence of a possible association to the patient might support the patient’s ability to understand and cope with tinnitus.
+
+Recommendations
+
+Future studies investigating the association of tinnitus with CSD or TMD should focus on improving methodological quality, such as blinding and ensuring comparability of groups, and using validated instruments for diagnosing tinnitus and symptoms of CSD. CSD and TMD should also be evaluated on the side corresponding to the lateralization of the perceived tinnitus.
+
+Conclusion
+
+There is weak evidence for an association between subjective tinnitus and CSD and a bidirectional association between subjective tinnitus and TMD. However, the association between subjective tinnitus and CSD/TMD, TMD (not specified), and TMDm may be overestimated due to publication bias in the available studies.
+
+Supplemental Material
+
+Appendix - Supplemental material for Association Between Subjective Tinnitus and Cervical Spine or Temporomandibular Disorders: A Systematic Review
+
+Click here for additional data file.
+
+Supplemental material, Appendix for Association Between Subjective Tinnitus and Cervical Spine or Temporomandibular Disorders: A Systematic Review by E. J. Bousema, E. A. Koops, P. van Dijk and P. U. Dijkstra in Trends in Hearing

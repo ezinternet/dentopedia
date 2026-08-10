@@ -10,8 +10,21 @@ pdf_filename: botros-2025-early-conventional-loading-immediate-molar.pdf
 source_collection: external
 ---
 
-## One-line Summary
-RCT (n=27 환자, 30 임플란트): 구치부 즉시식립 + 무피판 가이드 수술 후 6주(G1) vs 3개월(G2) 부하 — 생존율 양군 100% (p=1); ISQ/RFA·DCA 차이 없음; 6주 조기부하 가능.
+## Three-line Summary
+
+RCT (27 patients, 30 implants) comparing early loading at 6 weeks (G1, n=15) vs conventional loading at 3 months (G2, n=15) following fully guided flapless immediate implant placement in molar sites with screw-retained monolithic zirconia restorations.
+
+Survival rate was 100% in both groups (p=1); ISQ by RFA (G1 74.4±5.54 vs G2 73.67±5.70) and DCA (G1 79.07±5.75 vs G2 78.93±4.48) showed no significant difference at the prosthetic phase.
+
+6-week early loading is clinically safe in guided flapless immediate molar implants with adequate primary stability, reducing treatment time; findings are limited by small sample size and short follow-up.
+
+## 세줄요약
+
+RCT (27명 환자, 30개 임플란트): 구치부 즉시식립 + 완전 가이드 무피판 수술 후 6주 조기부하(G1) vs 3개월 통상부하(G2) 비교; 단일체 지르코니아 나사유지형 보철 적용.
+
+양군 생존율 100%(p=1); 보철 시점 ISQ(RFA G1 74.4 vs G2 73.67) 및 DCA(G1 79.07 vs G2 78.93) 유의차 없음.
+
+적절한 1차 안정성 확보 시 6주 조기부하가 임상적으로 안전하여 치료 기간 단축 가능; 소규모·단기 추적의 한계 있음.
 
 ## 1. Document Information
 - **Title**: Early versus conventional loading for fully guided immediate implant placement in molar sites: a randomized controlled clinical study

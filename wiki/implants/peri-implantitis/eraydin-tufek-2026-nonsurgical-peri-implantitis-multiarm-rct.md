@@ -6,7 +6,7 @@ date: 2026-05-02
 doi: 10.1038/s41598-026-50332-5
 source: eraydin-tufek-2026-nonsurgical-peri-implantitis-multiarm-rct.md
 category: [implants/peri-implantitis]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: false
 pmid: "42069893"
@@ -19,13 +19,21 @@ relations:
     target: pujarern-2024-biofilm-removal-implant-airflow-erythritol
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Assessor-blinded multi-arm RCT (80 implants, 26 patients, 5 nonsurgical arms, 6 mo): all modalities improved PPD/BOP/plaque, with glycine powder air abrasion + mechanical instrumentation giving the greatest numerical reductions, but NO statistically significant between-group differences.
+Assessor-blinded multi-arm RCT (80 implants, 26 patients) comparing five nonsurgical decontamination strategies for early peri-implantitis with outcomes (PPD, BOP, modified plaque index) at baseline, 3 months, and 6 months.
 
-## 한줄요약
+All five modalities — mechanical instrumentation alone or combined with chlorhexidine, ozone, or glycine powder air abrasion — produced significant clinical improvement over 6 months, with the mechanical + glycine combination achieving the greatest numerical reductions; no statistically significant between-group differences were found.
 
-평가자-맹검 다군 RCT (임플란트 80개, 환자 26명, 비외과 5군, 6개월): 모든 방법이 PPD·BOP·치태를 개선했고 글리신 분말 에어아브레이전+기계적 기구조작이 수치상 가장 큰 감소를 보였으나, 군 간 통계적 유의차는 없었다.
+The null between-group result should not be read as proven equivalence given the small sample (26 patients, 5 arms); the study supports thorough nonsurgical debridement as the core intervention, with adjunct choice being secondary.
+
+## 세줄요약
+
+평가자-맹검 다군 무작위대조시험(RCT; 임플란트 80개, 환자 26명) — 초기 임플란트주위염에 대한 비외과적 오염제거 전략 5가지를 기저치·3개월·6개월 시점에서 탐침깊이(PPD)·탐침출혈(BOP)·변형치태지수로 비교.
+
+기계적 기구조작 단독 및 클로르헥시딘·오존·글리신 분말 에어아브레이전과의 조합 모두 6개월 동안 유의한 임상 개선을 보였고, 기계적 기구조작+글리신 에어아브레이전 조합이 수치상 최대 감소를 달성했으나, 군 간 통계적 유의차는 없었다.
+
+소표본(환자 26명, 5군)으로 인해 군 간 차이 없음이 동등성 증명은 아니며, 이 연구는 보조요법 선택보다 철저한 비외과적 변연부 청소 자체가 핵심 중재임을 지지한다.
 
 ## Summary
 

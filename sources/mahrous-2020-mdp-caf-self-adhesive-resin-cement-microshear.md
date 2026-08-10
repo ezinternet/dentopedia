@@ -12,11 +12,21 @@ source_collection: external
 ## Why Ingested
 Key bond-strength evidence behind TheraCem's zirconia/tooth bonding; supports [[resin/mahrous-2020-mdp-caf-self-adhesive-resin-cement-microshear]] and [[resin/theracem-bisco-product-reference]].
 
-## One-line Summary
+## Three-line Summary
+
 In-vitro micro-shear study: MDP/CaF self-adhesive cement (TheraCem) > non-MDP RelyX Unicem on enamel/dentin/zirconia after thermocycling.
 
-## 한줄요약
-in-vitro micro-shear — TheraCem이 RelyX Unicem보다 3개 기질 모두 우위(thermocycling 5000).
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
+In-vitro micro-shear study: MDP/CaF self-adhesive cement (TheraCem) > non-MDP RelyX Unicem on enamel/dentin/zirconia after thermocycling.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 Int J Periodontics Restorative Dent 2020; 40: 445–455. DOI 10.11607/prd.3992. PMID 32233200.

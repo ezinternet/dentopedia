@@ -13,8 +13,21 @@ source_collection: external
 
 [[endodontics/shaping/ozyurek-2017-protaper-cyclic-fatigue-sterilization]] PTG-superiority가 EdgeEvolve와 비교에선 어떤지 — single vs double curvature 양 조건에서 정량. 모든 condition에서 EdgeEvolve > PTG (fatigue·flexibility·surface). 클리닉 file 채택 의사결정 (PTG 대안) 근거.
 
-## One-line Summary
-In vitro (n=15/group): EdgeEvolve이 single·double curve canal 모두 cyclic fatigue·bending flexibility·surface smoothness 모두 PTG 대비 유의 우월 (p<0.05); Ni/Ti 함량은 동등.
+## Three-line Summary
+
+In vitro (n=15/group): EdgeEvolve이 single·double curve canal
+
+모두 cyclic fatigue·bending flexibility·surface smoothness 모두 PTG
+
+대비 유의 우월 (p<0.05); Ni/Ti 함량은 동등.
+
+## 세줄요약
+
+In vitro (n=15/group): EdgeEvolve이 single·double curve canal
+
+모두 cyclic fatigue·bending flexibility·surface smoothness 모두 PTG
+
+대비 유의 우월 (p<0.05); Ni/Ti 함량은 동등.
 
 ## 1. Document Information
 - Restorative Dentistry & Endodontics 44(2):e19, 2019

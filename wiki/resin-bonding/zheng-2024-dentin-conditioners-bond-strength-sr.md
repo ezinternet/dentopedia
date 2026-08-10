@@ -6,7 +6,7 @@ date: 2024-07-08
 doi: 10.1016/j.prosdent.2024.05.038
 source: zheng-2024-dentin-conditioners-bond-strength-sr.md
 category: [resin-bonding]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: false
 pmid: "38981805"
@@ -19,13 +19,21 @@ relations:
     target: liu-2011-limitations-bonding-dentin-bond-degradation-review
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (23 studies qualitative, 15 quantitative, random-effects SMD): acid-based dentin conditioners significantly improved long-term resin-dentin bond durability under both dry and wet bonding, while selective extrafibrillar demineralization conditioners enhanced bond strength under dry bonding (P<.001).
+SR+MA (23 qualitative, 15 quantitative studies; 4 databases 2013–2023): dentin-conditioner effectiveness varies by class and bonding condition, with acid-based conditioners the most studied.
 
-## 한줄요약
+Acid-based conditioners significantly improved long-term bond strength under both dry (P<.001) and wet (P=.006) bonding; selective extrafibrillar demineralization conditioners improved immediate and long-term strength under dry bonding (P<.001); metal salt-based conditioners improved only immediate strength under wet bonding (P=.010).
 
-SR+MA (정성 23편, 정량 15편, random-effects SMD): 산 기반 (acid-based) 상아질 조정제 (dentin conditioner)는 건·습 본딩 모두에서 장기 레진-상아질 결합 내구성을 유의하게 향상시켰고, 선택적 섬유외 탈회 (selective extrafibrillar demineralization) 조정제는 건식 본딩에서 결합강도를 높였다 (P<.001).
+Acid-based conditioning is the most condition-robust durability strategy; all data are in vitro, limiting direct prediction of clinical restoration survival.
+
+## 세줄요약
+
+4개 데이터베이스(PubMed·Web of Science·EMBASE·Cochrane, 2013–2023.7) 검색 후 정성 23편, 정량 15편을 포함한 SR+MA(무작위효과모형, 표준화평균차); 산 기반·선택적 섬유외 탈회·금속염 기반 조정제를 건식·습식 본딩 조건별로 분석.
+
+산 기반 조정제(acid-based conditioner)는 건식(P<.001)·습식(P=.006) 본딩 모두에서 장기 결합강도를 유의하게 향상; 선택적 섬유외 탈회 조정제는 건식 본딩에서 즉시·장기 강도 모두 향상(P<.001, 단 장기 부분군 표본 제한); 금속염 기반 조정제는 습식 본딩의 즉시 강도에만 효과(P=.010).
+
+결합 내구성이 우선순위일 때 산 기반 조정제가 가장 조건 독립적인 전략이며, 선택적 섬유외 탈회는 건식 본딩 프로토콜에 유망하나 근거가 얇다; 모든 데이터는 in vitro로 임상 보철 생존율에 직접 적용에는 한계가 있다.
 
 ## Summary
 

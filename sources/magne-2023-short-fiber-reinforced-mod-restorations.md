@@ -17,11 +17,21 @@ text_filename: magne-2023-short-fiber-reinforced-mod-restorations.txt
 
 위키의 중합수축 페이지들([[resin/meereis-2018-polymerization-shrinkage-stress-resin-sr-ma]], [[resin/parra-gatica-2023-flowable-bulk-fill-composites-sr]])은 수축·수축응력의 in-vitro 수치를 다루지만, 그 수축응력이 실제 치아에서 어떤 임상 손상(법랑질 균열·교두 변형·파국적 실패)으로 이어지는지를 보여주는 fatigue/crack 연구는 없었다. Magne 2023은 대형 MOD에서 "수축응력 → 법랑질 crack" 인과를 직접 시각화하고, V-factor를 낮추는 inlay 기법과 SFRC base가 이를 완화함을 보강한다. 또한 동일 SFRC라도 everX Posterior(-1.52%) vs everX Flow(-2.58%)의 수축 차이가 crack 발생을 가르는 결정적 변수임을 보여준다.
 
-## One-line Summary
+## Three-line Summary
+
 In-vitro fatigue + enamel-crack study (36 maxillary molars, n=12/group) showing that polymerization-shrinkage stress causes large (>3 mm) enamel cracks in 67-83% of direct MOD restorations of severely undermined cusps, whereas CAD/CAM inlays with a short-fiber-reinforced composite (SFRC) base (lowest V-factor) produce essentially no shrinkage cracks and the best survival and most reparable failure modes.
 
-## 한줄요약
-In-vitro 피로·균열 연구(상악 대구치 36개, 군당 12): 심하게 undermine된 교두의 대형 MOD에서 중합수축응력이 직접수복의 67-83%에 >3 mm 법랑질 균열을 유발; SFRC base + CAD/CAM 인레이(최저 V-factor)는 수축균열 거의 0·최고 생존율·가장 reparable한 파절양상.
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
+In-vitro 피로·균열 연구(상악 대구치 36개, 군당 12): 심하게 undermine된 교두의 대형 MOD에서 중합수축응력이 직접수복의 67-83%에 >3 mm 법랑질 균열을 유발;
+
+SFRC base + CAD/CAM 인레이(최저 V-factor)는 수축균열 거의 0·최고 생존율·가장 reparable한 파절양상.
+
+(incomplete)
 
 ## 1. Document Information
 - Journal: The Journal of Adhesive Dentistry, 2023;25:99-106

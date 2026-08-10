@@ -1,0 +1,259 @@
+[FULL TEXT — PubMed Central PMC12512631. PMID 41068732. DOI 10.1186/s12903-025-06880-9]
+[Extraction note: tables in the PMC full-text response had cell/column labels dropped by the source extraction (e.g. Table 4 subgroup-analysis "p-value" column headers render blank); rows and numeric values themselves are intact and reproduced verbatim below.]
+
+TITLE: Accuracy of artificial intelligence in orthodontic extraction treatment planning: a systematic review and meta analysis
+AUTHORS: Ziaei S, Samani D, Behjati M, Ravari AO, Salimi Y, Ahmadi S, Rajaei S, Alimohammadi F, Raji S, Deravi N, Fakhimi H
+JOURNAL: BMC Oral Health. 2025;25(1):1576.
+DOI: 10.1186/s12903-025-06880-9
+PMID: 41068732
+PMCID: PMC12512631
+PROSPERO: CRD42024582455
+
+ABSTRACT
+
+Background
+
+This study aimed to evaluate the diagnostic accuracy of artificial intelligence (AI) models in predicting dental extractions during orthodontic treatment planning.
+
+Method
+
+A systematic review and meta-analysis were conducted following PRISMA guidelines and registered in PROSPERO (CRD42024582455). Comprehensive searches were performed across PubMed, Scopus, Web Of Science, and Google Scholar up to June 2, 2025. Eligible cross-sectional studies assessing AI-based models against clinical standards were included. Data on model performance were extracted and pooled using a random-effects model. Subgroup and meta-regression analyses were conducted to explore heterogeneity.
+
+Results
+
+Seven cross-sectional studies from six countries with a combined sample of 6,261 patients were included. Pooled sensitivity and specificity of AI models were 70% (95% CI: 61–78) and 90% (95% CI: 87–92), respectively, though heterogeneity was high (I² = 96.7% and 93.7%). Convolutional neural networks (CNN)-based models (ResNet and VGG) demonstrated the highest diagnostic performance with no heterogeneity. Meta-regression showed that disease prevalence significantly influenced sensitivity (p = 0.050). Funnel plots revealed asymmetry, suggesting possible publication bias.
+
+Conclusion
+
+AI models, particularly CNN-based models, show promising accuracy in predicting the need for orthodontic extractions. Therefore, they can be used to create predictive models for orthodontic extractions to increase accuracy. Due to the high heterogeneity, further large-scale studies are needed to support clinical implementation.
+
+Supplementary Information
+
+The online version contains supplementary material available at 10.1186/s12903-025-06880-9.
+
+FULL TEXT
+
+Introduction
+
+Artificial Intelligence (AI) has been making significant progress in the medical sciences in recent years. The progress of AI in medicine has been recognized with the advancement of Clinical Decision Support Systems [,], which are interactive computer programs designed to assist physicians in enhancing diagnosis and determining optimal treatment plans.
+
+Machine Learning (ML) [,] is a subdivision of AI that enables computer systems to process, analyze, and interpret data in order to develop solutions for real-world challenges, such as designing software and websites, online data storage, and health management.
+
+Several AI-ML integrated programs have been expanded to support dentists in their clinical work. Some of them include AI in oral surgery [], diagnosis of proximal dental caries [], classification of malignant and premalignant oral smears [], localization of apical foramen [], and oral cancer prognosis []. Treatment planning and recognition form the essence of orthodontics.
+
+Several studies in orthodontics have applied AI and ML to support treatment planning, primarily focusing on cephalometric landmark detection [–] and predicting extraction versus non-extraction decisions [–].
+
+However, no study to date has offered a comprehensive framework to detect a patient's malocclusion, and the nature of treatment as a general and comprehensive assessment of multiple factors makes detection and treatment planning a complex process.
+
+Furthermore, recognition depends on orthodontist's clinical judgment, with different opinions on orthodontics posing a challenge to the standardization of a specific treatment, leading to conflicts within and between clinics. Treatment plans may vary significantly between experienced and less experienced orthodontists, despite access to similar diagnostic tools.
+
+Orthodontists have in-depth clinical expertise through many years of experience and expertise, as well as the support of additional and necessary diagnostic tools. ML models, by contrast, can rapidly obtain similar competencies by learning from large datasets provided by expert clinicians. Through pattern recognition and algorithmic analysis, these models can process complex information efficiently. This data-driven learning approach reduces the risk of human error, minimizes data loss, and addresses variations in treatment planning both within and between clinics. As a result, ML enhances the accuracy and consistency of diagnosis and treatment decisions [].
+
+The aim of this study was therefore to investigate ML models in the context of orthodontic treatment planning and the relationships between them.
+
+Method
+
+Study design
+
+To determine whether AI can accurately predict the need for dental extractions in orthodontic treatment planning, a systematic review and meta-analysis was carried out. In order to ensure transparency and reproducibility throughout the entire research process, the methodology has been outlined using the PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) guidelines []. The protocol of this article was registered on PROSPERO (CRD42024582455). To ensure a structured approach, the research question was developed using the PICO framework:
+
+Population (P): Patients undergoing orthodontic treatment planning.
+
+Intervention (I): Use of AI-based models to predict extraction decisions.
+
+Comparison (C): Conventional assessments by clinicians.
+
+Outcome (O): Diagnostic accuracy measures, including sensitivity and specificity.
+
+Search strategy
+
+For this review, a detailed and systematic search was conducted in three major electronic databases: PubMed, Scopus, Web of Science, and Google Scholar. All articles published up to June 2, 2025, were considered, using a strategy that combined relevant keywords and Medical Subject Headings (MeSH) terms related to AI, orthodontics, dental extractions, and treatment planning. Detailed search strategies for each database are provided in Table 1. The search strategy was designed to be highly sensitive, ensuring the inclusion of all relevant studies. Additionally, the reference lists of related articles were manually screened to identify any further eligible studies. No restrictions on language or publication date were applied during the initial search phase.
+
+Table 1 — Search strategy
+
+SEARCH ENGINE | SEARCH STRATEGY | Date and Number
+
+PubMed | (("machine learning"[Title/Abstract] OR "deep learning"[Title/Abstract] OR "artificial intelligence"[Title/Abstract] OR algorithm*[Title/Abstract]) AND (orthodontic*[Title/Abstract] OR "tooth extraction"[Title/Abstract] OR "treatment planning"[Title/Abstract] OR "decision making"[Title/Abstract] OR "diagnostic accuracy"[Title/Abstract])) | English, June 2nd, 2025 | 737
+
+Scopus | (TITLE-ABS-KEY("machine learning") OR TITLE-ABS-KEY("deep learning") OR TITLE-ABS-KEY("artificial intelligence") OR TITLE-ABS-KEY(algorithm*)) AND (TITLE-ABS-KEY(orthodontic*) OR TITLE-ABS-KEY("tooth extraction") OR TITLE-ABS-KEY("treatment planning") OR TITLE-ABS-KEY("decision making") OR TITLE-ABS-KEY("diagnostic accuracy")) | English, June 2nd, 2025 | 1407
+
+Google Scholar | allintitle: ("machine learning" OR "deep learning" OR "artificial intelligence" OR algorithm) AND ("orthodontic" OR "tooth extraction") | English, June 2nd, 2025 | 96
+
+Web of science | ((TI=("machine learning" OR "deep learning" OR "artificial intelligence" OR algorithm*) OR AB=("machine learning" OR "deep learning" OR "artificial intelligence" OR algorithm*)) AND (TI=(orthodontic* OR "tooth extraction") OR AB=(orthodontic* OR "tooth extraction")) AND (TI=("treatment planning" OR "decision making" OR "diagnostic accuracy") OR AB=("treatment planning" OR "decision making" OR "diagnostic accuracy"))) | English, June 2nd, 2025 | 228
+
+Table 2 — Baseline characteristics of the included studies
+
+First author/Reference | Year | Journal | Country | Design | Number of patients participants | Artificial intelligence used | Mean age | Sex (Percent of female) | Quality assessment score
+
+Mridula Trehan (27) | 2023 | Journal of Contemporary Orthodontics | India | Cross-sectional | 700 Cases: Training Set: 630 (284 extraction, 346 non-extraction); Test Set: 70 (38 extraction, 32 non-extraction) | Convolutional Neural Network (ResNet-50) | Not Reported | Not Reported | 7/8
+
+Lily E. Etemad (38) | 2024 | MDPI Bioengineering | USA | Cross-sectional | 1135 Cases: University 1: 297 (93 extraction, 204 non-extraction); University 2: 838 (208 extraction, 630 non-extraction) | Random Forest (RF) machine learning algorithm | 17.15 ± 8.67 (U1), 18.37 ± 10.69 (U2) | 55.89% (U1), 59.31% (U2) | 8/8
+
+Lily E. Etemad (27) | 2021 | Orthodontics & Craniofacial Research | USA | Cross-sectional | 838 patients (208 extraction, 630 non-extraction) | Random Forest (RF), Multilayer Perceptron (MLP) | 18.37 ± 10.63 | 59.3% female | 8/8
+
+Alberto Del Real (39) | 2022 | Korean Journal of Orthodontics | Chile | Cross-sectional | 214 Orthodontically Treated Patients | Automated machine learning software (Auto-WEKA) | 18–24 | 56% female | 6/8
+
+Jialiang Huang (30) | 2024 | Frontiers in Bioengineering and Biotechnology | China | Cross-sectional | 192 patients (Training Set: 134; Test Set: 58; 144 extraction, 48 non-extraction) | Decision Tree (DT), Random Forest (RF), SVM, MLP | Not Reported | Not Reported | 7/8
+
+Jiho Ryu (31) | 2023 | Scientific Reports | South Korea | Cross-sectional | 1636 patients (Training Set: 1300 maxillary/1436 mandibular photos; Test Set: 200 maxillary/200 mandibular) | ResNet50, ResNet101, VGG16, VGG19 CNNs (transfer learning) | 26.3 ± 4.2 (males), 23.7 ± 5.3 (females) | 51.96% female | 8/8
+
+Ila Motmaen (32) | 2024 | Clinical Oral Investigations | Germany | Retrospective cross-sectional | 1,184 patients (722 males, 462 females); 26,956 individual tooth images cropped from preoperative PANs | ResNet50 convolutional neural network (transfer learning) | 50.0 ± 20.3 (range 11–99) | 39.0% female | 8/8
+
+Study selection
+
+After the removal of duplicates, the titles and abstracts were independently screened by two reviewers to identify potentially eligible studies. This was followed by a full-text assessment of the selected articles to determine final inclusion. Disagreements between reviewers were resolved through discussion or, if necessary, consultation with a third reviewer. Studies were included if they [] investigated the use of AI in predicting the need for dental extractions in orthodontic treatment planning [], provided sufficient data for calculating diagnostic accuracy measures such as sensitivity and specificity, and [] were published in peer-reviewed journals. Studies were excluded if they contained unrelated data, lacked methodological detail, or were non-original research such as reviews or editorials (Fig. 1, PRISMA flow diagram — not reproduced here).
+
+Data extraction
+
+Data from the included studies were extracted independently by two reviewers using a standardized data extraction form. The extracted data included:
+
+Study characteristics (first author, year of publication, country, study design, sample size).
+
+AI model details (type of algorithm, training and testing datasets).
+
+Diagnostic performance metrics (sensitivity and specificity).
+
+Participant demographics (mean age, sex distribution).
+
+Quality assessment scores.
+
+Any disagreements during data extraction were resolved by consensus or referral to a third reviewer.
+
+Quality assessment
+
+The methodological quality of all studies included in this review was assessed using the JBI Critical Appraisal Checklist for Analytical Cross-Sectional Studies. It appraises domains including sample representativeness, validity of measurement, control of confounding factors, and appropriate statistical analysis. Each item is rated as "yes," "no," "unclear," or "not applicable", and an overall quality score is assigned to each eligible study.
+
+Statistical analysis
+
+All statistical analyses were performed using Python (version 3.13.5). To evaluate the diagnostic accuracy of ML algorithms, pooled sensitivity and specificity estimates were calculated using a random-effects model. Forest plots were generated to visualize individual and pooled estimates with 95% confidence intervals. Statistical heterogeneity was assessed using the I² statistic. Subgroup analyses were performed based on AI model type (e.g., ResNet, VGG, MLP, RF, and others). Meta-regression was conducted using a mixed-effects model to assess the effect of disease prevalence on sensitivity estimates. Funnel plots were visually inspected to assess publication bias. A p-value < 0.05 was considered statistically significant.
+
+Results
+
+Study selection and characteristics
+
+A comprehensive search across PubMed, Scopus, Web Of Science, and Google Scholar yielded a total of 2,468 articles. After removing 1076 duplicates, 1,392 articles underwent title and abstract screening, resulting in 75 studies for full-text review. Following the exclusion of studies with unrelated data. a total of seven studies published between 2021 and 2024 were included in this meta-analysis. All studies had a cross-sectional design. The included studies originated from different countries including India [], the USA [,], Chile [], China [], South Korea [], and Germany []. Sample sizes varied noticeably across studies, ranging from 192 to 1,636 patients.
+
+The mean age of participants varied widely depending on the study population, ranging from younger groups around 17–26 years old to a broader age range extending up to 99 years in one study []. The distribution of female gender across studies ranged from approximately 39–59%, with some studies not reporting sex distribution [,].
+
+AI techniques utilized across studies were predominantly based on convolutional neural networks (CNNs), including ResNet variants (ResNet-50, ResNet-101) [,,], VGG networks (VGG16, VGG19) [], and other machine learning algorithms such as Random Forest (RF) [,,], Multilayer Perceptron (MLP) [,], Decision Trees (DT) [], Support Vector Machines (SVM) [], and automated machine learning software (Auto-WEKA) [].
+
+All studies were assessed for quality, with scores ranging from 6/8 to 8/8, indicating moderate to high methodological rigor.
+
+Quality assessment
+
+The methodological quality of all studies included in this review was evaluated using the JBI Critical Appraisal Checklist for Analytical Cross-Sectional Studies. Detailed quality assessments for each individual study are provided in the Supplementary File.
+
+The methodological quality of the included studies was assessed using the Joanna Briggs Institute (JBI) Critical Appraisal Checklist for analytical cross-sectional studies. Three studies including Etemad et al. (2021), Motmaen et al., and Ryu et al. fulfilled all major appraisal criteria and were thus rated as high quality. These studies clearly defined inclusion criteria, provided detailed descriptions of settings and populations, used valid and reliable measures for exposures and outcomes, identified potential confounding factors, and applied appropriate statistical analyses. The remaining studies comprising Del Real et al., Etemad et al., Huang et al., and Trehan et al. met most criteria but had mostly some limitations in reporting clarity or control of confounding factors and were thus classified as having moderate quality. No study was excluded based on methodological quality. A summary table of the checklist is presented in Table 3.
+
+Table 3 — JBI critical appraisal checklist summary table
+
+Study | Clear inclusion criteria | Detailed study subjects and setting | Valid measured exposure | Standard measurement of the condition | Identified confounding factors | Stated strategies to deal with confounding factors | Valid measured outcomes | Appropriate statistical analysis
+
+Del Real et al. | Yes | Yes | Yes | Yes | No | No | Yes | Yes
+
+Etemad et al. | Yes | Yes | Yes | Yes | No | No | Yes | Yes
+
+Etemad et al. 2021 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes
+
+Huang et al. | Yes | No | Yes | Yes | Yes | Yes | Yes | Yes
+
+Motmaen et al. | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes
+
+Ryu et al. | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes
+
+Trehan et al. | Yes | Yes | Yes | Yes | No | No | Yes | Yes
+
+Diagnostic performance of AI models
+
+Figure [2] presents a forest plot displaying the specificity estimates and their 95%CIs from the included studies. Specificity values ranged from 0.44 (95% CI: 0.30–0.59) to 0.97 (95% CI: 0.95–0.98), with an overall pooled specificity of 0.90 (95% CI: 0.87–0.92). Sensitivity estimates ranged from 0.31 (95% CI: 0.22–0.42) to 0.94 (95% CI: 0.90–0.96), with an overall pooled sensitivity of 0.70 (95% CI: 0.61–0.78). The wide range in estimates underscores the variability in AI performance across studies. The 95% CIs provide a measure of uncertainty, with narrower intervals indicating more precise estimates. Also, the high degree of heterogeneity among the studies I² = 93.7% for specificity estimates and I² = 96.7% for sensitivity estimates, indicates extreme variability in the performance of the AI model across studies.
+
+[Fig. 2 — Forest Plot of Pooled Sensitivity and Specificity. This forest plot displays the sensitivity and specificity (with 95% CI) of artificial intelligence models in predicting orthodontic extraction decisions across three included studies (caption as published — text elsewhere in the article states seven studies were included in the meta-analysis). The pooled sensitivity was 0.70 (95% CI: 0.61–0.78), indicating a moderate to high ability of AI to correctly identify cases requiring extractions. The pooled specificity was 0.90 (95% CI: 0.87–0.92), reflecting the accuracy in identifying cases that do not require extractions.]
+
+Subgroup analysis by model type
+
+According to Table 4, subgroup analysis revealed that CNN-based models, particularly ResNet and VGG, demonstrated the highest and most consistent diagnostic performance. ResNet models showed a pooled sensitivity of 0.758 and specificity of 0.941, while VGG models achieved a sensitivity of 0.824 and specificity of 0.931. Both had no heterogeneity (I² = 0.0%). MLP models showed moderately high sensitivity (0.797) and specificity (0.794), but with substantial heterogeneity (I² >88%), indicating variability across studies. RF models performed less favorably, with lower sensitivity (0.731) and specificity (0.724), alongside moderate-to-high heterogeneity. Models grouped as Other had inconsistent results, with wide CIs and very high heterogeneity (I² >94%), limiting the reliability of their pooled estimates.
+
+Table 4 — Subgroup analysis of diagnostic performance by AI model type
+[Column headers for the two rightmost p-value columns were dropped by the PMC source extraction; inferred from body text as "p-value (Sensitivity)" and "p-value (Specificity)" respectively.]
+
+Model Type | No. of Studies | Sensitivity (95% CI) | I² (%) | p-value (Sensitivity) | Specificity (95% CI) | I² (%) | p-value (Specificity)
+
+CNN (ResNet) | 2 | 0.758 (0.693–0.822) | 0.0 | 0.4668 | 0.941 (0.923–0.960) | 0.0 | 0.4952
+
+CNN (VGG) | 2 | 0.824 (0.767–0.882) | 0.0 | 0.5424 | 0.931 (0.911–0.951) | 0.0 | 1.000
+
+Random Forest | 3 | 0.731 (0.637–0.824) | 91.1 | < 0.001 | 0.724 (0.622–0.825) | 78.5 | 0.0096
+
+Neural Network (MLP) | 4 | 0.797 (0.666–0.927) | 97.2 | < 0.001 | 0.794 (0.687–0.900) | 88.0 | < 0.001
+
+Other | 3 | 0.754 (0.471–1.037) | 98.7 | < 0.001 | 0.882 (0.790–0.974) | 94.5 | < 0.001
+
+Meta-Regression analysis
+
+A meta-regression was performed to explore the effect of disease prevalence on sensitivity estimates. The model demonstrated a statistically significant association between prevalence and sensitivity (β = 0.9923, p = 0.050). This indicates that studies with higher disease prevalence tended to report higher sensitivity values. These results highlight that prevalence may partially account for between-study differences in sensitivity.
+
+Publication bias assessment
+
+Two funnel plots were generated to evaluate publication bias for sensitivity and specificity estimates (Fig. [3]). Visual inspection of the plots suggests asymmetry, indicating potential publication bias.
+
+[Fig. 3 — Funnel Plot for Assessment of Publication Bias, showing asymmetry for both sensitivity (left) and specificity (right), suggesting potential publication bias.]
+
+Sensitivity analysis
+
+A leave-one-out sensitivity analysis was conducted to assess the stability of the pooled sensitivity across included studies (Fig. [4]). The analysis demonstrated that omitting individual studies did not substantially alter the overall pooled sensitivity, confirming the robustness of the pooled sensitivity estimate in our meta-analysis.
+
+[Fig. 4 — Leave-One-Out Sensitivity Analysis of Pooled Sensitivity.]
+
+Discussion
+
+Summary of findings
+
+The purpose of this meta-analysis was to investigate the diagnostic performance of AI models for the prediction of dental extractions during orthodontic treatment planning. The pooled sensitivity and specificity of eligible studies were 0.70 (95% CI: 0.61–0.78) and 0.90 (95% CI: 0.87–0.92), respectively, showing moderate to high diagnostic accuracy. However, significant heterogeneity existed (I² = 96.7% for sensitivity and 93.7% for specificity, p = 0.000), which indicates that the performance of AI models may vary depending on the study populations and methodological approaches.
+
+Subgroup analysis by model type provided further insights into performance variability. CNN-based models, demonstrated superior diagnostic performance with both high sensitivity (0.758–0.824) and specificity (0.931–0.941), and no observable heterogeneity. In contrast, MLP and RF models exhibited lower and more variable diagnostic performance, reflected in both their pooled estimates and high heterogeneity.
+
+Moreover, the meta-regression analysis showed that studies with a higher prevalence of extraction cases tended to report higher sensitivity. However, this may limit the generalizability of the models, as their performance could be biased toward over-represented outcomes.
+
+Also, the leave-one-out sensitivity analysis confirmed the robustness of the pooled sensitivity estimate in our meta-analysis.
+
+These findings highlight both the potential and limitations of AI applications in orthodontics, underscoring the need for further investigation.
+
+Comparison with previous research
+
+Given the pooled sensitivity of 70% and specificity of 90%, it appears that AI models are capable of detecting dental extraction cases with an acceptable level of accuracy. These outcomes align with earlier research that showed AI's effectiveness in orthodontic decision-making. For example, a study by Peilin et al. (2019) estimated the sensitivity and specificity of AI-based prediction models in orthodontic treatment planning to be 94.6% and 93.8%, respectively []. Similarly, Kuo et al. (2022) observed sensitivity and specificity rates of 92% and 91%, further supporting AI's diagnostic potential in clinical practice []. Trehan et al. (2023) evaluated a convolutional neural network (ResNet-50) trained on profile photographs and reported accuracy in predicting extraction decisions, with the model correctly identifying 65.12% of extraction cases and 62.9% of non-extraction cases, illustrating notable variability in AI performance in orthodontic treatment planning []. This variability underscores the need for standardized assessment protocols, validation frameworks, continuous training, and governance in orthodontic AI applications to improve model performance and ensure clinical generalizability [].
+
+Our results also align with a recent meta-analysis by Evangelista et al. [], which pooled data from six studies and reported an overall accuracy of 0.87 (95% CI: 0.75–0.96) for AI in orthodontic extraction decision-making. However, the study noted very low certainty of evidence due to methodological flaws and risk of bias, issues also reflected in our analysis.
+
+Our analysis's high heterogeneity (I² >85%) reflects significant differences in study design, population characteristics, and AI methodologies. For example, the study by Cirillo et al. [] utilized a CNN (ResNet-50) and achieved a sensitivity of 74%, while Pal et al. [] used a Random Forest algorithm and quoted a sensitivity of 90.6%. Our subgroup analysis confirms that model type significantly contributes to variability: CNN-based models, particularly ResNet and VGG, showed higher and more consistent diagnostic performance with minimal heterogeneity (I² = 0%). By contrast, models such as RF and MLP demonstrated greater variability in both sensitivity and specificity, coupled with high heterogeneity (I² >88%).
+
+Differences in training datasets also played a substantial role. Models trained on more balanced datasets, such as that used by Trehan et al. [] performed differently compared to those trained on highly imbalanced data, like the dataset used by Huang et al. [], which contained a higher proportion of extraction cases. Our meta-regression results support this observation, revealing a significant association between higher extraction prevalence and increased sensitivity. This means that models trained on datasets where extraction cases are more common may learn to identify those cases more accurately. However, this could reduce the model's ability to perform well on other datasets with different case distributions, which raises concerns about generalizability.
+
+Population characteristics such as age and sex distribution also varied notably across studies and may have influenced model performance. For instance, Motmaen et al. [] included a wide age range (11 to 99 years), potentially introducing anatomical diversity that could affect model accuracy. In contrast, other studies such as those by Etemad et al. [] and Del Real et al. [] focused on narrower age groups, primarily adolescents and young adults. Additionally, the absence of demographic data in several studies further complicates interpretation and may contribute to unexplained variance.
+
+Finally, the variability observed across studies may also reflect differences in study quality, sample size, and adherence to methodological standards. As previously emphasized by Chaurasia et al. [], comparing AI studies is challenging because of inconsistent reporting standards. Therefore, future studies should follow standardized guidelines for developing and evaluating AI models.
+
+Visual inspection of the funnel plots revealed asymmetry for both sensitivity and specificity, suggesting potential publication bias. Also, the wide spread of data points around the regression line suggests variability in effect sizes and may reflect variability in study quality or methodological rigor []. As, Schulzke et al. [] suggested reducing heterogeneity in meta-analysis needs high-quality and well-designed studies.
+
+Strengths and limitations
+
+The strengths are that the meta-analysis had an extended search strategy across multiple databases like PubMed, Scopus, Web Of Science, and Google Scholar; followed the PRISMA guidelines; and included studies from various geographical regions, which improves the generalizability of the results. However, the limitations included a small number of included studies (n = 7), which limits statistical power and generalizability. Additionally, since the included studies were conducted in only a few countries, the findings may not be representative of broader populations. Significant heterogeneity was observed (I² >85%), probably due to the difference in study design, populations, and AI algorithms, which complicates the interpretation of the pooled results. Further, the lack of detailed demographic and clinical data restricted subgroup analyses, and the cross-sectional design of the studies limits the ability to draw causal conclusions. Also, this study revealed high heterogeneity (I² = 96.7% for sensitivity, 93.7% for specificity) in AI model performance, driven by many factors: CNN-based models (ResNet, VGG) indicated low heterogeneity (I² = 0%) and superior performance, while traditional methods (RF, MLP) had high variability (I² >88%), likely due to inconsistent feature extraction. Extraction prevalence (25–54%) and demographic differences (sex, age) influenced sensitivity, with meta-regression showing higher prevalence linked to increased sensitivity (β = 0.9923, p = 0.050). Despite a moderate to high study quality (6/8–8/8), unclear reporting and funnel plot asymmetry indicated potential publication bias, which likely inflated performance estimates. In short, CNN models were most consistent, while dataset imbalances, design variability, and reporting gaps significantly contributed to heterogeneity. Standardization in methodology and transparency in reporting are needed to improve dependability.
+
+Despite heterogeneity, pooling remains appropriate because it quantifies the expected confine of AI performance in real-world settings, highlighting the need for standardization. The 95% prediction intervals for specificity and sensitivity illustrate this variability, emphasizing that future models may perform anywhere within these bounds depending on context.
+
+Despite these limitations, this review provides valuable insights and highlights the need for more large-scale, standardized studies. Future research should follow open reporting practices and consistent methodologies to enhance the reliability and applicability of AI in orthodontic treatment planning.
+
+Implications for clinical practice
+
+This meta-analysis provides evidence that AI models can support orthodontists in making evidence-based decisions regarding dental extractions. However, due to the observed heterogeneity and variability in diagnostic performance, these findings should be applied with caution. AI predictions should serve as complementary tools rather than definitive decision-makers, especially in complex cases where clinical judgment remains crucial. The development of standardized training datasets and robust validation protocols will be central to ensuring consistent and reliable AI performance across diverse patient populations.
+
+Future directions
+
+The limitations identified in this study highlight key areas for future research. There is a need for large-scale, multicenter studies employing standardized methodologies to more accurately determine the diagnostic performance of AI models in orthodontic treatment planning. Additionally, the adoption of transparent reporting frameworks—such as standardized guidelines designed for AI research, will support the development of more vigorous systematic reviews and meta-analyses. Further exploration of AI integration with advanced diagnostic tools, including 3D imaging and ML–based predictive analytics, may enhance clinical utility and improve decision-making in orthodontics.
+
+Conclusion
+
+This meta-analysis found that AI models, particularly CNN-based ones, show moderate to high diagnostic accuracy (sensitivity: 70%; specificity: 90%) in predicting dental extractions for orthodontic treatment planning. However, significant heterogeneity (I² >85%) suggests variability across study designs, populations, and methodologies. CNN models performed most consistently, while MLP and RF models showed greater variability. Higher extraction prevalence was linked to increased sensitivity but may reduce generalizability. Despite promising results, the limited number of studies and lack of detailed demographic data restrict clinical application. Future large-scale, standardized research is needed to validate AI's clinical utility in orthodontic decision-making.
+
+Supplementary Information
+
+Supplementary Material 1

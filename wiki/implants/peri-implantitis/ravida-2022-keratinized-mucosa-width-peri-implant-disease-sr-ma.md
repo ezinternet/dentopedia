@@ -6,7 +6,7 @@ date: 2022-01-01
 doi: 10.1111/cid.13080
 source: ravida-2022-keratinized-mucosa-width-peri-implant-disease-sr-ma.md
 category: [implants/peri-implantitis]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/ravida-2022-keratinized-mucosa-width-peri-implant-disease-sr-ma.pdf
 pdf_filename: ravida-2022-keratinized-mucosa-width-peri-implant-disease-sr-ma.pdf
 source_collection: external
@@ -18,13 +18,21 @@ relations:
     target: sanz-2022-keratinized-mucosa-around-implants-consensus
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR + meta-analysis + TSA (9 studies, 685 implants, interventional designs only): KMW <2 mm vs ≥2 mm showed significantly higher plaque accumulation (MD 0.37, p=0.002; TSA-confirmed), but MBL, PD, and soft-tissue recession differences were underpowered and inconclusive by TSA — overall risk of peri-implant disease attributable to KMW quantity remains low (GRADE: very low to low).
+SR + meta-analysis + TSA (9 studies, 685 implants, interventional designs only) restricting inclusion to controlled prospective/interventional designs to eliminate reverse-causation confounding.
 
-## 한줄요약
+KMW <2 mm vs ≥2 mm showed significantly higher plaque accumulation (MD 0.37, p=0.002; TSA-confirmed), but MBL (nominally p=0.03, TSA-reversed), PD, and soft-tissue recession were underpowered and inconclusive.
 
-SR+MA+TSA (9연구, 685임플란트, 개입 연구 한정): 각화점막폭(KMW) <2 mm는 플라크 지수만 유의하게 높았고(MD 0.37, TSA 확정), 변연골소실·탐침깊이·연조직 퇴축은 TSA상 검정력 부족으로 결론 불확정 — KMW 양 자체가 임플란트 주위 질환의 위험인자로 작용하는 근거 수준은 낮음(GRADE: very low~low).
+Overall risk of peri-implant disease attributable to KMW quantity remains low (GRADE: very low to low); future RCTs need ≥424 implants for MBL and ≥2171 for PD to reach conclusive power.
+
+## 세줄요약
+
+SR+MA+TSA (9연구·685임플란트, 개입·전향 연구만 포함) — 역인과 혼동 제거를 위해 횡단·후향 연구를 배제한 방법론적으로 엄격한 분석.
+
+각화점막폭 (Keratinized Mucosa Width, KMW) <2 mm는 플라크 지수만 유의하게 높았고(MD 0.37, p=0.002, TSA 확정), 변연골소실은 명목상 유의(p=0.03)했으나 TSA에서 검정력 부족으로 역전(필요정보크기 424 vs 실제 257).
+
+현재 근거 수준에서 KMW 양이 임플란트 주위 질환의 위험인자로 작용하는 근거는 낮음(GRADE: very low~low); MBL 결론에는 ≥424개, PD에는 ≥2171개 임플란트 규모의 RCT 필요.
 
 ## Summary
 
@@ -76,5 +84,5 @@ Positive MD = KMW≥2 mm group has lower outcome value (better result). All diff
 
 - [[implants/peri-implantitis/mahardawi-2023-lack-keratinized-mucosa-peri-implantitis-sr-ma]] — later SR+MA on the same KMW question; compare inclusion criteria and GRADE ratings
 - [[implants/peri-implantitis/zhang-2025-keratinized-mucosa-width-peri-implant-meta-analysis]] — more recent meta-analysis with updated studies; may include additional evidence
-- [[implants/peri-implantitis/sanz-2022-keratinized-mucosa-around-implants-consensus]] — expert consensus on KMW around implants published same year; contextualizes clinical recommendations
+- [[implants/soft-tissue/sanz-2022-keratinized-mucosa-around-implants-consensus]] — expert consensus on KMW around implants published same year; contextualizes clinical recommendations
 - [[implants/peri-implantitis/roccuzzo-2025-keratinized-mucosa-peri-implant-20year-mandible]] — 20-year mandibular implant data providing long-term observational context for KMW outcomes

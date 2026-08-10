@@ -11,8 +11,21 @@ source_collection: local
 tags: [chronic-periodontitis, non-surgical-therapy, surgical-therapy, scaling-root-planing, periodontal-disease, microbial-control]
 ---
 
-## One-line Summary
-Comprehensive review of non-surgical and surgical treatment approaches for chronic periodontitis with evidence-based outcomes.
+## Three-line Summary
+
+Comprehensive review of non-surgical
+
+and surgical treatment approaches
+
+for chronic periodontitis with evidence-based outcomes.
+
+## 세줄요약
+
+Comprehensive review of non-외과적 (Surgical)
+
+and 외과적 (Surgical) treatment approaches
+
+for chronic periodontitis with evidence-based outcomes.
 
 ## 1. Document Information
 - **Type**: Literature review/educational article

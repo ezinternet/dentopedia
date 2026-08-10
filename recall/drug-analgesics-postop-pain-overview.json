@@ -1,0 +1,49 @@
+{
+  "overview": "drug-analgesics-postop-pain-overview",
+  "date": "2026-07-23",
+  "title": "술후 통증 진통제 — 리콜",
+  "source_wiki": [
+    "wiki/overviews/drug-analgesics-postop-pain-overview.md"
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "q": "치과 술후 통증의 1차 선택 진통제와 opioid의 위치는?",
+      "opts": [
+        "Opioid 1차, 비-opioid 보조",
+        "Ibuprofen 400mg + Acetaminophen 1000mg 병용이 1차(최저 NNT ~1.5); Opioid는 비-opioid 대비 우월하지 않음(Feldman 2024: Hydrocodone+APAP가 Ibuprofen+APAP보다 전 시점 열등)",
+        "Acetaminophen 단독이 가장 효과적",
+        "Tramadol이 1차 선택"
+      ],
+      "ans": 1,
+      "rat": "1차: Ibuprofen 400 + APAP 1000 병용 — 최저 NNT ~1.5(Miroshnychenko 2023 NMA 82 RCT, Moore 2015 Cochrane). Opioid는 비-opioid 대비 비우월(Feldman 2024 RCT n=1,815), Oxycodone·Codeine·Tramadol은 위약 동등 → ADA opioid-sparing 지지. 투약은 교대(alternate)>동시(concurrent) — rescue 15% vs 53%(Gaballah 2025).",
+      "cite": "overviews/drug-analgesics-postop-pain-overview"
+    },
+    {
+      "id": "q2",
+      "q": "매복 제3대구치 발치에서 preemptive(술전) 약제의 근거는?",
+      "opts": [
+        "술전 NSAID가 명확히 유효",
+        "술전 NSAID는 효과 약함(Costa 2015, P=0.22)이나 술전 dexamethasone 4mg 근주 1회는 통증·개구량·부종 모두 개선(Tamgadge 2025, day7 VAS 0.4 vs 1.6, p<0.001)",
+        "술전 약제는 모두 무효",
+        "술전 opioid가 최선"
+      ],
+      "ans": 1,
+      "rat": "매복 제3대구치: preemptive NSAID는 효과 약함(Costa 2015 Meta, P=0.22) → 술후 즉시 first dose가 합리. 반면 술전 dexamethasone 4mg 근주 1회는 통증·개구량·부종 모두 개선(Tamgadge 2025 split-mouth RCT n=60). 임플란트·치주엔 preemptive NSAID 효과 있음(Gousias 2025) → 술전 30–60분 Ibuprofen 400mg 합리.",
+      "cite": "overviews/drug-analgesics-postop-pain-overview"
+    },
+    {
+      "id": "q3",
+      "q": "근관치료 술후 통증의 시간대 의존 약제 선택은?",
+      "opts": [
+        "모든 시간대에 동일 약제",
+        "즉각(6–8h)은 Diclofenac+APAP(MD −6.28) 또는 Ketorolac(SMD −0.82)이 최강이나 12–24h엔 위약 수준 소실; 12–24h 지속엔 Naproxen·Novafen 우수",
+        "12–24h에 opioid만 유효",
+        "근관치료는 술후 통증이 없다"
+      ],
+      "ans": 1,
+      "rat": "근관치료는 시간대 의존 — 즉각(6–8h) 진통은 Diclofenac+APAP(MD −6.28)·Ketorolac(SMD −0.82, rescue RR 0.50)이 최강이나 12–24h엔 위약 수준 소실(Kelidari 2026 NMA); 12–24h 지속엔 Naproxen·Novafen 우수. NSAID를 AE로 내리지 말 것 — 제3대구치 위약이 안전성 2위(nocebo 효과), NSAID 1차 유지(Magesty 2026).",
+      "cite": "overviews/drug-analgesics-postop-pain-overview"
+    }
+  ]
+}

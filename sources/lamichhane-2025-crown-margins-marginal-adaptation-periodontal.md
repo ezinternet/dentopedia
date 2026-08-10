@@ -13,13 +13,21 @@ source_collection: external
 
 Provides original clinical (cross-sectional) evidence for the failure-cascade thesis argued narratively in [[periodontics/srimaneepong-2022-fixed-prosthetic-restorations-periodontal-health]]: in a split-mouth design, FDP abutment teeth show significantly worse PI/GI/PD/CAL than matched non-abutment teeth. Also empirically tests (and complicates) the margin-position argument of [[periodontics/hajaj-2025-marginal-tooth-preparation-periodontal-health]] by finding margin location had no significant effect on abutment periodontal parameters in this cohort.
 
-## One-line Summary
+## Three-line Summary
 
-Analytical cross-sectional study (Nepal, n=95, split-mouth) — fixed-dental-prosthesis abutment teeth had significantly higher plaque index, gingival index, probing depth and clinical attachment loss than contralateral matched non-abutment teeth (all p<0.001); prosthesis duration and material affected PI/GI, but margin location showed no significant effect on abutment periodontal parameters.
+Analytical cross-sectional study (Nepal, n=95, split-mouth) — fixed-dental-prosthesis abutment teeth had significantly higher plaque index, gingival index, probing depth and clinical attachment loss than contralateral matched non-abutment teeth (all p<0.001);
 
-## 한줄요약
+prosthesis duration and material affected PI/GI, but margin location showed no significant effect on abutment periodontal parameters.
 
-분석적 단면연구(네팔, n=95, split-mouth): 고정성 보철 지대치는 대측 대조 비지대치보다 PI·GI·PD·CAL이 모두 유의하게 높음(p<0.001). 보철 사용기간·재료는 PI/GI에 영향을 줬으나, 변연 위치는 지대치 치주지표에 유의한 영향 없음.
+(incomplete)
+
+## 세줄요약
+
+분석적 단면연구(네팔, n=95, split-mouth): 고정성 보철 지대치는 대측 대조 비지대치보다 PI·GI·PD·CAL이 모두 유의하게 높음(p<0.001).
+
+보철 사용기간·재료는 PI/GI에 영향을 줬으나, 변연 위치는 지대치 치주지표에 유의한 영향 없음.
+
+(incomplete)
 
 ## 1. Document Information
 

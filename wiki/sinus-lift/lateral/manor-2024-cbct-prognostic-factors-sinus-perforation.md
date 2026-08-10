@@ -6,19 +6,28 @@ date: 2024-12-04
 doi: 10.1186/s12903-024-05133-5
 source: manor-2024-cbct-prognostic-factors-sinus-perforation.md
 category: sinus-lift/lateral
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/manor-2024-cbct-prognostic-factors-sinus-perforation.pdf
 pdf_filename: manor-2024-cbct-prognostic-factors-sinus-perforation.pdf
 source_collection: external
 tags: [cbct, sinus-perforation, schneiderian-membrane, lateral-window, risk-factors]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective CBCT case-control study (n=39 CBCT scans, study vs control by intraoperative perforation status) of lateral-window maxillary sinus augmentation (MSA): of 11 anatomic parameters, only maxillary sinus floor width was statistically significant (p<0.05, narrower in the perforation group); thin sinus floor, retention pseudocyst, septae, concave floor, and triangular sinus shape were trend-level risk patterns proposed as a preoperative CBCT Schneiderian-membrane perforation checklist.
+Retrospective CBCT case-control study (n=39 scans) of lateral-window maxillary sinus augmentation comparing 11 anatomic parameters between perforation and no-perforation groups.
 
-## 한줄요약
-후향적 환자-대조 (Retrospective case-control, n=39 CBCT): 측방 접근 (Lateral Window) 상악동 거상술 (Maxillary Sinus Augmentation, MSA) 시 슈나이더 막 (Schneiderian Membrane, SM) 천공의 원뿔빔 전산화 단층 촬영 (Cone-Beam Computed Tomography, CBCT) 예측 인자 — 얇은 상악동저, 잔류 가성낭종 (Retention Pseudocyst), 격벽 (Septae), 오목한 sinus floor, 삼각형 sinus shape; 통계적 유의성은 **MS floor width** 만 도달 (p<0.05).
+Of 11 anatomic parameters, only maxillary sinus floor width reached statistical significance (p<0.05, narrower in the perforation group).
+
+Thin sinus floor, retention pseudocyst, septae, concave floor, and triangular sinus shape were trend-level risk features proposed as a preoperative CBCT Schneiderian-membrane perforation checklist; presence of 3+ features warrants piezo, smaller osteotomy, and experienced surgeon.
+
+## 세줄요약
+
+후향적 환자-대조 연구 (Retrospective case-control, n=39 CBCT): 측방창 상악동거상술 (Lateral Window Maxillary Sinus Augmentation, MSA) 시 11개 해부학적 변수로 천공군 vs 비천공군 비교.
+
+11개 변수 중 상악동저 폭 (MS floor width) 만 통계적 유의차 도달 (p<0.05, 천공군에서 더 좁음).
+
+얇은 상악동저·잔류 가성낭종 (Retention Pseudocyst)·격벽 (Septae)·오목한 sinus floor·삼각형 sinus shape이 경향성 위험인자로, 3개 이상 존재 시 피에조·소형 창·숙련 술자 배정 권고.
 
 ## Summary
 Tel Aviv University 의 후향적 CBCT case-control 연구. 측방창 접근 sinus lift 시 SM perforation 이 발생한 군과 발생하지 않은 군의 CBCT 11개 anatomic parameter 를 두 명의 판독자가 독립적으로 측정하여 비교했다. 결과는 단일 anatomic feature 만으로는 statistically significant 한 risk factor 를 식별하기 어렵지만, **임상적으로 의미 있는 5가지 risk pattern** (thin floor + pseudocyst + septae + concave floor + triangular sinus shape) 을 제시 — 술전 CBCT checklist 로 활용 가능.

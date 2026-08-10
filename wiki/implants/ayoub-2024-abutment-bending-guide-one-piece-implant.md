@@ -6,18 +6,28 @@ date: 2024-05-24
 doi: ""
 source: ayoub-2024-abutment-bending-guide-one-piece-implant.md
 category: [implants]
-confidence: case-report
+evidence_level: case-report
 pdf_path: /Users/oracleneo/llm-wiki/papers/ayoub-2024-abutment-bending-guide-one-piece-implant.pdf
 pdf_filename: ayoub-2024-abutment-bending-guide-one-piece-implant.pdf
 source_collection: external
 tags: []
 ---
 
-## One-line Summary
-Case report: a novel digitally-guided Abutment Bending Verification Guide (ABVG) for predictable bending of one-piece compressive implant abutments (RealGuide.5 software, NeoBiotech NEO NAVIGUIDE KIT), achieving accurate abutment angulation matched to the pre-designed crown path of insertion without complications.
+## Three-line Summary
 
-## 한줄요약
-증례보고: 원피스 압축 임플란트 지대주 굴곡을 위한 디지털 유도 'Abutment Bending Verification Guide(ABVG)' 신기술 — RealGuide.5 소프트웨어·NeoBiotech 가이드키트 적용
+Case report presenting a novel Abutment Bending Verification Guide (ABVG) for digitally guided abutment angulation of one-piece compressive implants, designed simultaneously with the surgical placement guide using RealGuide.5 software and NeoBiotech NEO NAVIGUIDE KIT.
+
+The ABVG accurately matched abutment angulation to the pre-designed crown path of insertion with no complications, reducing intraoperative trial-and-error adjustment time and enabling reproducible abutment bending.
+
+Evidence is limited to a single case report — the technique requires prospective validation before wider adoption; clinical utility depends on the one-piece compressive implant system used.
+
+## 세줄요약
+
+증례보고 — RealGuide.5 소프트웨어와 NeoBiotech NEO NAVIGUIDE KIT를 이용해 원피스 압축 임플란트용 지대주 굴곡을 디지털 가이드로 정확히 구현하는 'Abutment Bending Verification Guide(ABVG)' 신기술 제시.
+
+ABVG는 사전 설계된 크라운 삽입로에 맞는 지대주 각도를 정확히 구현, 합병증 없이 수술 중 조정 시간 단축 및 재현 가능한 굴곡 달성.
+
+단일 증례보고로 근거 제한 — 광범위 채택 전 전향적 검증 필요; 임상 유용성은 사용 원피스 임플란트 시스템에 의존.
 
 ## Summary
 Case study presenting a novel Abutment Bending Verification Guide (ABVG) for predictable digital-guided bending of one-piece compressive implant abutments. RealGuide.5 software designed the ABVG alongside the surgical implant placement guide. NeoBiotech NEO NAVIGUIDE KIT used. The ABVG ensured accurate abutment angulation matching the pre-designed crown path of insertion.
@@ -40,4 +50,4 @@ Case study. One-piece compressive implant placement with need for abutment bendi
 - No complications reported
 
 ## Related Papers
-- [[implants/ayoub-2021-peri-implantitis-one-piece-implant-protocol]] — same author; one-piece implant peri-implantitis management
+- [[implants/peri-implantitis/ayoub-2021-peri-implantitis-one-piece-implant-protocol]] — same author; one-piece implant peri-implantitis management

@@ -6,7 +6,7 @@ date: 2014-06-13
 doi: 10.1371/journal.pone.0100066
 source: hayashi-2014-low-level-laser-periodontal-hypofunctional-teeth.md
 category: [occlusion]
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/hayashi-2014-low-level-laser-periodontal-hypofunctional-teeth.pdf
 pdf_filename: hayashi-2014-low-level-laser-periodontal-hypofunctional-teeth.pdf
 source_collection: external
@@ -18,13 +18,21 @@ relations:
     target: leone-2026-occlusal-overload-and-periodontitis-integrating
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Rat experimental study (n=24, 4 groups): occlusal hypofunction reduced PDL thickness and alveolar bone BMD; low-level laser (904–910 nm) irradiation restored both to control levels and raised bFGF/VEGF-positive cell counts (P<0.01).
+Rat experimental study (n=24, 4 groups): bite-raising appliance eliminated molar occlusal force for 2 weeks to model hypofunction, with or without low-level laser (LLL; 904–910 nm, 48.6 J, every other day).
 
-## 한줄요약
+Occlusal hypofunction significantly thinned PDL and reduced alveolar bone BMD vs controls; LLL irradiation restored both to control levels and recovered bFGF/VEGF-positive cell counts (P<0.01 by 7 weeks).
 
-랫드 실험(n=24, 4군): 교합 무자극(hypofunction)은 치주인대(PDL) 두께와 치조골 골밀도(BMD)를 떨어뜨렸고, 저출력 레이저(904–910 nm) 조사가 이를 대조군 수준으로 회복시키며 bFGF·VEGF 양성세포를 증가시켰다(P<0.01).
+Controlled LLL irradiation may recondition hypofunctional periodontium before orthodontic movement, but evidence remains limited to animal models.
+
+## 세줄요약
+
+랫드 실험(n=24, 4군): 교합거상 장치로 대구치 교합력을 2주간 제거하여 교합 무자극 상태를 만든 뒤 저출력 레이저(LLL; 904–910 nm, 48.6 J, 격일) 적용 여부를 비교했다.
+
+교합 무자극은 치주인대(PDL) 두께와 치조골 골밀도(BMD)를 유의하게 감소시켰으나, LLL 조사 시 7주차에 이를 대조군 수준으로 회복시키고 bFGF·VEGF 양성세포도 회복했다(P<0.01).
+
+LLL이 교합저기능 치주조직을 교정치료 전 재조건화할 수 있음을 시사하나, 근거는 동물실험 수준에 머물러 있다.
 
 ## Summary
 

@@ -6,7 +6,7 @@ date: 2023-02-20
 doi: 10.3390/ijerph20043726
 source: ren-2023-oral-irrigator-plaque-gingivitis-efficacy-safety-rct.md
 category: [interdental-cleaning]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: true
 pmid: "36834421"
@@ -20,13 +20,21 @@ relations:
     target: mancinelli-lyle-2024-water-flosser-vs-interdental-brush-rct
 ---
 
-## One-line Summary
+## Three-line Summary
 
-12-week single-blind parallel RCT (n=90 gingivitis patients; FAS 88) — adding a WaterPik oral irrigator (10–100 psi, adjustable) to manual toothbrushing significantly outperformed toothbrushing alone on gingival inflammation (MGI/BI/BOP% from 4 weeks; all p<0.001 by 8–12 weeks) and on plaque (T-QH significant from 8 weeks), with no serious adverse events and no increase in pain or dentin hypersensitivity.
+12-week single-blind parallel RCT (n=90 gingivitis patients, West China Hospital of Stomatology; FAS 88) comparing WaterPik ION oral irrigator (10–100 psi, adjustable, 90 s twice daily) adjunct to manual toothbrushing versus manual toothbrushing alone, with gingival inflammation and plaque indices plus safety (VAS pain, dentin hypersensitivity, gingival recession) as co-primary endpoints.
 
-## 한줄요약
+The oral irrigator adjunct significantly outperformed toothbrushing alone on gingival inflammation (MGI/BI/BOP% from 4 weeks, all p<0.001 by 8–12 weeks) and on plaque (T-QH, significant from 8 weeks); higher tolerable irrigation pressure correlated with greater BOP% reduction (rho=0.330, p=0.027); no serious adverse events, no increase in pain or dentin hypersensitivity.
 
-12주 단일맹검 평행 RCT(치은염 환자 90명; FAS 88) — 수동 칫솔질에 WaterPik 구강세정기(Oral Irrigator, 10–100 psi 조절형)를 더하면 칫솔질 단독보다 치은염(MGI/BI/BOP%, 4주부터·8–12주 모두 p<0.001)과 치태(T-QH, 8주부터 유의)를 유의하게 개선했고, 중대 이상반응·통증·상아질과민증 증가는 없었다.
+Oral irrigation is an effective and safe adjunct to manual toothbrushing for general-population gingivitis patients over 12 weeks, with anti-inflammatory benefit preceding plaque benefit and a favorable pressure dose-response.
+
+## 세줄요약
+
+12주 단일맹검 평행 RCT(치은염 환자 90명, 중국 서부 치과병원; FAS 88): WaterPik ION 구강세정기(10–100 psi 조절형, 1일 2회 90초)를 수동 칫솔질 보조로 추가 vs 수동 칫솔질 단독; 치은염·치태 지수와 안전성(VAS 통증·상아질과민증·치은퇴축)을 공동 1차 결과로 평가.
+
+구강세정기 보조가 치은염(MGI/BI/BOP%, 4주부터 유의, 8–12주 모두 p<0.001)과 치태(T-QH, 8주부터 유의)를 칫솔질 단독 대비 유의하게 개선; 허용 압력이 높을수록 BOP% 감소가 컸으며(rho=0.330, p=0.027); 중대 이상반응·통증·상아질과민증 증가 없음.
+
+구강세정기는 일반 집단 치은염 환자에서 12주간 수동 칫솔질의 효과적·안전한 보조 수단으로, 항염증 효과가 치태 제거 효과보다 먼저 나타나고 압력 용량-반응 관계가 존재한다.
 
 ## Summary
 

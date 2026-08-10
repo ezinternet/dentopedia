@@ -12,11 +12,21 @@ source_collection: external
 ## Why Ingested
 Directly extends the oral–cancer axis introduced in [[oral-microbiology/lamont-2018-oral-microbiota-dynamic-communities-host]] by critically reviewing the mechanistic and epidemiological evidence linking F. nucleatum — the bridging organism central to polymicrobial biofilm architecture — to OSCC, including paradoxical prognostic data and STAT3-driven carcinogenesis mechanisms.
 
-## One-line Summary
-Narrative critical review synthesizing evidence that F. nucleatum is enriched in OSCC biofilms and oral potentially malignant disorders, promotes carcinogenesis via STAT3/cyclin D1/MMP-9 activation, FadA/Fap2 adhesins, and immune evasion, with paradoxical findings that F. nucleatum positivity associates with better survival in OSCC (unlike in colorectal cancer).
+## Three-line Summary
 
-## 한줄요약
-Narrative critical review: F. nucleatum이 OSCC 종양·전암 병변에서 풍부하며 STAT3/cyclin D1/MMP-9 경로로 발암을 촉진하지만, 역설적으로 OSCC에서 F. nucleatum 양성이 더 좋은 생존율과 관련됨 (Neuzillet 등, n=151, 82.1% 양성; Chen 등, n=68, 55.8% 양성).
+Narrative critical review synthesizing evidence that F.
+
+nucleatum is enriched in OSCC biofilms and oral potentially malignant disorders, promotes carcinogenesis via STAT3/cyclin D1/MMP-9 activation, FadA/Fap2 adhesins, and immune evasion, with paradoxical findings that F.
+
+nucleatum positivity associates with better survival in OSCC (unlike in colorectal cancer).
+
+## 세줄요약
+
+Narrative critical review: F.
+
+nucleatum이 OSCC 종양·전암 병변에서 풍부하며 STAT3/cyclin D1/MMP-9 경로로 발암을 촉진하지만, 역설적으로 OSCC에서 F.
+
+nucleatum 양성이 더 좋은 생존율과 관련됨 (Neuzillet 등, n=151, 82.1% 양성; Chen 등, n=68, 55.8% 양성).
 
 ## 1. Document Information
 - BMC Cancer. 2021;21:1212. Published November 11, 2021. Open Access (CC BY 4.0).

@@ -13,13 +13,21 @@ source_collection: external
 
 This is the foundational longitudinal evidence behind the modern guidance synthesized in [[wiki/periodontics/ercoli-2021-fixed-dental-prostheses-restorations-periodontium]] and the biologic-width papers [[wiki/periodontics/hamasni-2017-biologic-width-restorative-dentistry]] / [[wiki/periodontics/alam-2024-supracrestal-tissue-attachment-biologic-width]]: it provides the 26-year prospective demonstration that subgingival restoration margins are detrimental to periodontal tissues, anchoring the perio-restorative batch with hard long-term cohort data rather than histology/case material.
 
-## One-line Summary
+## Three-line Summary
 
-26-year prospective longitudinal cohort (160 Norwegian males; 615 control vs 98 test mesial sites) showing subgingival filling margins cause higher plaque, gingival inflammation, and ~more attachment loss than supragingival/sound surfaces, with damage detectable 1–3 years after placement followed by a "burn-out" effect.
+26-year prospective longitudinal cohort (160 Norwegian males;
 
-## 한줄요약
+615 control vs 98 test mesial sites) showing subgingival filling margins cause higher plaque, gingival inflammation, and ~more attachment loss than supragingival/sound surfaces, with damage detectable 1–3 years after placement followed by a "burn-out" effect.
 
-26년 전향 종단 코호트(노르웨이 남성 160명; 대조 615 vs 시험 98 근심 부위) — 치은연하 수복물 변연이 치은연상/건전 부위보다 plaque·치은염증·부착소실을 증가시키며, 수복 1~3년 내 임상적으로 감지되고 이후 "burn-out" 양상을 보임.
+(incomplete)
+
+## 세줄요약
+
+26년 전향 종단 코호트(노르웨이 남성 160명;
+
+대조 615 vs 시험 98 근심 부위) — 치은연하 수복물 변연이 치은연상/건전 부위보다 plaque·치은염증·부착소실을 증가시키며, 수복 1~3년 내 임상적으로 감지되고 이후 "burn-out" 양상을 보임.
+
+(incomplete)
 
 ## 1. Document Information
 

@@ -16,13 +16,23 @@ text_filename: bhattacharya-2025-macrogeometry-implant-stability-bone-markers-sp
 
 [[implants/isq/]] 카테고리에 임플란트 거시형태(Macrogeometry, 매크로지오메트리) × ITV/ISQ 직접비교 RCT 부족; split-mouth 디자인이라 교란 최소화. 특히 healing chamber가 포함된 변형 매크로지오메트리가 ISQ 및 골표지자에 미치는 영향을 prospective double-blind split-mouth 설계로 평가한 점이 기존 관찰연구와 차별화됨.
 
-## One-line Summary
+## Three-line Summary
 
-Split-mouth RCT (n=18) — modified macrogeometry implants (healing chambers) showed similar ISQ/primary stability to conventional implants despite lower insertion torque, with significantly reduced peri-implant TNF-α at early healing.
+Prospective double-blind split-mouth RCT (n=18 patients with bilateral posterior edentulism, UNIP Brazil) comparing modified macrogeometry implants (healing chambers) vs conventional implants; insertion torque, ISQ via RFA, and peri-implant crevicular fluid bone markers measured up to 90 days.
 
-## 한줄요약
+Modified macrogeometry implants had significantly lower insertion torque (P<0.05) but equivalent ISQ at all timepoints (P>.05); TNF-α was significantly lower in the modified group (P<0.05); other bone markers showed no significant differences.
 
-Split-mouth RCT (n=18) — healing chamber가 있는 변형 매크로지오메트리 임플란트는 초기 삽입 토크가 낮음에도 기존 임플란트와 ISQ/일차안정성이 동등했으며, 초기 치유 시 peri-implant TNF-α는 유의하게 감소했다.
+Small sample (n=18), single center, 90-day follow-up; specific implant brands not disclosed; findings suggest low IT does not necessarily predict inferior ISQ stability when healing-chamber geometry is used.
+
+## 세줄요약
+
+전향적 이중맹검 스플릿-마우스 무작위대조시험(양측 구치부 무치악 환자 18명, 브라질 UNIP) — 힐링 챔버(Healing Chamber) 변형 매크로지오메트리 임플란트 vs 기존 임플란트 비교; 삽입 토크·RFA 기반 ISQ·치은열구액 골표지자를 90일까지 측정.
+
+변형 매크로지오메트리 임플란트에서 삽입 토크 유의하게 낮음(P<0.05)에도 모든 시점 ISQ 동등(P>.05); TNF-α 유의하게 낮음(P<0.05); 기타 골표지자 차이 없음.
+
+소규모(n=18)·단일 기관·90일 추적; 임플란트 브랜드 미공개; 힐링 챔버 형상 사용 시 낮은 삽입 토크가 반드시 낮은 ISQ 안정성을 예측하지 않음을 시사.
+
+## 1. Document Information
 
 ## 1. Document Information
 

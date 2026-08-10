@@ -13,13 +13,21 @@ source_collection: external
 
 Part of a focused collection on vertical/horizontal ridge augmentation with titanium mesh. This paper provides the human clinical outcome data (mean bone gain, exposure rate, implant survival) for customized CAD/CAM Ti-mesh GBR, anchoring the more procedural [[implants/vertical-ridge-augmentation/merli-2025-tacos-technique-alveolar-ridge-titanium-mesh]] technical note with retrospective evidence, and contrasting with the soft-tissue-focused mechanisms in [[implants/vertical-ridge-augmentation/kaner-2017-pre-augmentation-soft-tissue-expansion-vertical-bone]] and [[implants/vertical-ridge-augmentation/wang-2025-mucoperiosteal-flap-healing-vertical-bone-titanium-mesh]].
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective human study (41 patients, 53 atrophic sites, 106 implants): customized CAD/CAM titanium mesh GBR with autogenous bone + bovine bone mineral achieved mean vertical gain 4.78 mm and horizontal gain 6.35 mm, 11/53 mesh exposures, 100% implant survival (mean 10.6 mo post-loading).
+Retrospective human case series (41 patients, 53 severely atrophic sites, 106 implants; 2018–2019) of guided bone regeneration using customized CAD/CAM titanium meshes filled with autogenous bone chips + bovine bone mineral (BBM), with implant placement after mean 7 months mesh healing.
 
-## 한줄요약
+Mean vertical bone gain was 4.78 ± 1.88 mm and horizontal gain 6.35 ± 2.10 mm; mesh exposure occurred at 11/53 sites (20.8%), with significantly greater bone volume loss at exposed sites (p<0.001); 100% implant survival at mean 10.6 months post-loading.
 
-후향적 임상 연구 (환자 41명, 위축 부위 53곳, 임플란트 106개): 맞춤형 CAD/CAM 티타늄 메시 + 자가골/이종골(BBM) 골유도재생술로 수직 평균 4.78 mm, 수평 평균 6.35 mm 골증대를 얻었고, 53곳 중 11곳에서 메시 노출이 있었으나 임플란트 생존율은 100% (로딩 후 평균 10.6개월).
+Customized CAD/CAM Ti-mesh simplifies surgical shaping for severe atrophic ridges and achieves meaningful bone gain, but mesh exposure (~21%) is the primary biological risk and remains the main limitation; the short follow-up and single-arm retrospective design preclude definitive efficacy conclusions.
+
+## 세줄요약
+
+후향적 증례 시리즈(환자 41명, 심한 위축 부위 53곳, 임플란트 106개; 2018–2019): 맞춤형 CAD/CAM 티타늄 메시 + 자가골/이종골(BBM)로 GBR 후 평균 7개월 뒤 임플란트 식립.
+
+평균 수직 골증대 4.78 ± 1.88 mm, 수평 6.35 ± 2.10 mm; 53곳 중 11곳(20.8%)에서 메시 노출 발생, 노출 부위에서 골 부피 손실이 유의하게 큼(p<0.001); 로딩 후 평균 10.6개월 임플란트 생존율 100%.
+
+맞춤형 CAD/CAM 티타늄 메시는 심한 위축 치조제의 수술적 형태 조성을 단순화하고 의미 있는 골 증대를 달성하나, 메시 노출(~21%)이 주요 생물학적 위험; 단기 추적·단일군 후향 설계로 확정적 효능 결론 불가.
 
 ## 1. Document Information
 

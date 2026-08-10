@@ -6,18 +6,28 @@ date: 2021-01-01
 doi: 10.1007/s00784-020-03710-w
 source: valesan-2021-tmd-prevalence-sr-ma.md
 category: [tmj]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/valesan-2021-tmd-prevalence-sr-ma.pdf
 pdf_filename: valesan-2021-tmd-prevalence-sr-ma.pdf
 source_collection: external
 tags: [prevalence, tmd, epidemiology, meta-analysis, disc-displacement]
 ---
 
-## One-line Summary
-SR+MA (largest TMD prevalence synthesis at publication) reporting ~31% pooled prevalence for any temporomandibular disorder (TMD) sign/symptom, ~11–13% for painful TMD, ~30% for disc displacement, with women affected 1.5–2× more than men and a peak in the 20–45 year age group (I²>80%).
+## Three-line Summary
 
-## 한줄요약
-SR+MA: 악관절증(TMD) 전반적 유병률 약 31%; 통증성 TMD 약 11–13%; 여성이 남성보다 1.5–2배 높은 유병률; 20–45세 호발.
+SR+MA (largest TMD prevalence synthesis at publication) of population-based studies using standardized diagnostic criteria (RDC/TMD or DC/TMD), examining global TMD epidemiology.
+
+Pooled prevalence: any TMD sign/symptom ~31%; painful TMD ~11–13%; disc displacement ~30%; all analyses showed high heterogeneity (I²>80%).
+
+Women had 1.5–2× higher rates of painful TMD than men; peak age group was 20–45 years; disc displacement was frequently asymptomatic.
+
+## 세줄요약
+
+SR+MA: 표준 진단기준(RDC/TMD·DC/TMD) 기반 인구집단 연구를 대상으로 한 TMD 세계 유병률 통합 분석.
+
+통합 유병률: TMD 징후·증상 전체 약 31%, 통증성 TMD 약 11–13%, 관절원판 변위 약 30%; 모든 분석에서 높은 이질성(I²>80%).
+
+여성이 남성보다 통증성 TMD 1.5–2배 높음; 호발 연령 20–45세; 관절원판 변위의 상당수는 무증상.
 
 ## Summary
 This systematic review and meta-analysis published in Clinical Oral Investigations (2021) provides the largest epidemiological synthesis of 악관절증 (Temporomandibular Disorder, TMD) prevalence globally. Pooled data showed approximately 31% prevalence for any TMD sign or symptom in the general population. Painful TMD (myofascial pain and/or arthralgia) affected approximately 11–13%. Disc displacement prevalence was approximately 30%, though many cases are asymptomatic. Women showed 1.5–2× higher rates of painful TMD versus men. Peak prevalence was in the 20–45 year age group. High heterogeneity (I²>80%) across included studies reflects variation in diagnostic criteria and sampling methods.

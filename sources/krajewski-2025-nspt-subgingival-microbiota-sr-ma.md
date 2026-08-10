@@ -17,13 +17,21 @@ text_filename: krajewski-2025-nspt-subgingival-microbiota-sr-ma.txt
 
 비외과적 치주치료 (Non-Surgical Periodontal Therapy, NSPT)가 치은연하 미생물군에 미치는 영향을 최초로 4가지 탐지 기술을 통합해 메타분석한 SR+MA로, 기존 [[oral-microbiology/socransky-1998-microbial-complexes-subgingival-plaque]]의 red/orange complex bacteria 개념이 치료 맥락에서 어떻게 변화하는지 정량적으로 확인하는 근거로 활용.
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 115 studies (n=196 eligible) across four microbiological technologies confirms that NSPT significantly reduces mean counts of disease-associated subgingival species (A. actinomycetemcomitans, T. denticola, P. gingivalis, T. forsythia, E. nodatum, P. intermedia, C. rectus), with supportive periodontal care providing further reductions at 6 months.
+SR+MA of 115 studies (n=196 eligible) across four microbiological technologies confirms that NSPT significantly reduces mean counts of disease-associated subgingival species (A. actinomycetemcomitans, T.
 
-## 한줄요약
+denticola, P. gingivalis, T.
 
-115편(4가지 미생물 탐지기술)의 SR+MA로 NSPT가 치은연하 병원균(Pg, Td, Tf, Aa 등) 평균 개수를 유의미하게 감소시킴을 확인; 지지 치주치료(SPC) 추가 시 6개월 시점에 추가 감소 효과 입증.
+forsythia, E. nodatum, P. intermedia, C. rectus), with supportive periodontal care providing further reductions at 6 months.
+
+## 세줄요약
+
+115편(4가지 미생물 탐지기술)의 SR+MA로 NSPT가 치은연하 병원균(Pg, Td, Tf, Aa 등) 평균 개수를 유의미하게 감소시킴을 확인;
+
+지지 치주치료(SPC) 추가 시 6개월 시점에 추가 감소 효과 입증.
+
+(incomplete)
 
 ## 1. Document Information
 

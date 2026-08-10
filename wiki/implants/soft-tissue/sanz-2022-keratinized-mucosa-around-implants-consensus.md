@@ -6,7 +6,7 @@ date: 2022-01-01
 doi: 10.1111/clr.13956
 source: sanz-2022-keratinized-mucosa-around-implants-consensus.md
 category: [implants/soft-tissue]
-confidence: consensus
+evidence_level: consensus
 pdf_path: /Users/oracleneo/llm-wiki/papers/sanz-2022-keratinized-mucosa-around-implants-consensus.pdf
 pdf_filename: sanz-2022-keratinized-mucosa-around-implants-consensus.pdf
 source_collection: external
@@ -16,13 +16,21 @@ relations:
     target: thoma-2018-soft-tissue-augmentation-periimplant-health
 ---
 
-## One-line Summary
+## Three-line Summary
 
-DGI/SEPA/Osteology 2022 consensus (34 statements, 2 SRs, n=22+10 studies): keratinized peri-implant mucosa (KPIM) < 2 mm is associated with higher peri-implantitis prevalence, plaque, mucosal recession, and MBL; FGG is standard of care for augmentation, with xenogeneic substitutes non-inferior to CTG and offering lower morbidity.
+DGI/SEPA/Osteology 2022 consensus report based on 34 statements synthesizing 2 commissioned SRs (n=22 and 10 studies) on keratinized peri-implant mucosa (KPIM) width thresholds and surgical augmentation options.
 
-## 한줄요약
+KPIM < 2 mm is associated with higher peri-implantitis prevalence (10.5–44% vs 5.1–17%), more plaque, mucosal recession, and marginal bone loss; FGG is the standard of care for augmentation, and xenogeneic substitutes are non-inferior to CTG (WMD 0.8 mm, p=0.062) while saving ~18.5 min surgical time.
 
-DGI/SEPA/Osteology 2022 합의 보고서 (34개 성명·2편 SR): KPIM < 2 mm는 임플란트 주위염·치태·점막퇴축·변연골소실 증가와 연관되고, 자유치은이식(FGG)이 표준술식이며 이종이식(xenograft)은 결합조직이식(CTG)과 동등하면서도 이환율이 낮은 대안으로 합의된다.
+Measure KPIM with a mm-scaled probe at every follow-up; indicate augmentation when KPIM < 2 mm is accompanied by pathological changes — allogeneic substitutes shrink significantly more (−19.5%) than autogenous grafts and should not be equated with xenografts.
+
+## 세줄요약
+
+DGI/SEPA/Osteology 2022 합의 보고서 (34개 성명, 2편 SR: n=22개·10개 연구) — 각화 임플란트 주위 점막 (KPIM, Keratinized Peri-Implant Mucosa) 폭 기준치 및 외과적 증대 방법에 관한 합의.
+
+KPIM < 2 mm는 임플란트 주위염 유병률 증가(10.5–44% vs 5.1–17%), 치태·점막퇴축·변연골소실 (MBL, Marginal Bone Loss) 증가와 연관; 유리치은이식 (FGG, Free Gingival Graft)이 표준술식이며, 이종이식(xenograft)은 CTG와 동등(WMD 0.8 mm, p=0.062)하면서 수술시간 ~18.5분 단축.
+
+매 내원 시 mm 프로브로 KPIM 측정 필수; KPIM < 2 mm에 병적 변화 동반 시 증대술 시행 — 동종이식(allograft)은 자가이식보다 수축이 19.5% 유의하게 더 크므로 이종이식(xenograft)과 동일시 금지.
 
 ## Summary
 
@@ -99,7 +107,7 @@ The consensus establishes **KT < 2 mm** as the operative threshold for "inadequa
 
 ## Related Papers
 
-- [[implants/thoma-2021-soft-tissue-management-implants-eao-consensus]] — companion EAO 2021 consensus on soft-tissue management around implants; broader scope covering augmentation timing and flap design
-- [[implants/thoma-2018-soft-tissue-augmentation-periimplant-health]] — SR on soft-tissue augmentation procedures for peri-implant health; underpins recommendations in this consensus
+- [[implants/soft-tissue/thoma-2021-soft-tissue-management-implants-eao-consensus]] — companion EAO 2021 consensus on soft-tissue management around implants; broader scope covering augmentation timing and flap design
+- [[implants/soft-tissue/thoma-2018-soft-tissue-augmentation-periimplant-health]] — SR on soft-tissue augmentation procedures for peri-implant health; underpins recommendations in this consensus
 - [[implants/peri-implantitis/roccuzzo-2025-keratinized-mucosa-peri-implant-20year-mandible]] — 20-year retrospective data on KM around mandibular implants; long-term clinical evidence supporting this consensus's threshold statements
-- [[implants/jensen-2023-iti-consensus-bone-dimensions-soft-tissue]] — ITI 2023 consensus on bone dimensions and soft tissue; complementary consensus covering bone-level context for soft-tissue management
+- [[implants/soft-tissue/jensen-2023-iti-consensus-bone-dimensions-soft-tissue]] — ITI 2023 consensus on bone dimensions and soft tissue; complementary consensus covering bone-level context for soft-tissue management

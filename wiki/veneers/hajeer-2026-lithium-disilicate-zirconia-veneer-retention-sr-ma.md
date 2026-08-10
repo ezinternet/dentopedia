@@ -6,20 +6,28 @@ date: 2026-03-30
 doi: 10.1007/s44445-026-00156-w
 source: hajeer-2026-lithium-disilicate-zirconia-veneer-retention-sr-ma.md
 category: [veneers]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/hajeer-2026-lithium-disilicate-zirconia-veneer-retention-sr-ma.pdf
 pdf_filename: hajeer-2026-lithium-disilicate-zirconia-veneer-retention-sr-ma.pdf
 source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In vitro SR+MA of 6 studies: light-cured resin cement bond strength was markedly higher for lithium disilicate veneers (25.4 MPa) than translucent zirconia (12.1 MPa), and enamel substrate (21.1 MPa) outperformed composite core (11.3 MPa); high heterogeneity (I²=98.2%) limits clinical extrapolation.
+PRISMA 2020 SR+MA (1,936 screened records, 6 in vitro studies included; light-cured resin cements only) comparing bond strength of lithium disilicate (LDS) versus translucent zirconia (TZ) veneers cemented to enamel or composite-core substrates.
 
-## 한줄요약
+Pooled bond strength was 25.4 MPa for LDS versus 12.1 MPa for TZ; enamel substrate yielded 21.1 MPa versus composite core 11.3 MPa; meta-regression found an exploratory inverse trend between veneer thickness and bond strength; overall I²=98.2%.
 
-6편 인비트로 SR+MA: 광중합 레진 시멘트 접착 강도는 리튬 디실리케이트(25.4 MPa) > 고투명 지르코니아(12.1 MPa), 에나멜 기질(21.1 MPa) > 복합재 코어(11.3 MPa); 높은 이질성(I²=98.2%)으로 임상 직접 적용 제한.
+The clinical implication is that LDS + enamel is the highest-bond combination under light-cure protocols, but the high heterogeneity and all-in vitro evidence base mean findings should be treated as exploratory, not directly extrapolated to clinical retention outcomes.
+
+## 세줄요약
+
+PRISMA 2020 SR+MA (검색 1,936건 → 6편 인비트로 연구; 광중합 레진 시멘트 한정): 리튬 디실리케이트(Lithium Disilicate, LDS) vs 고투명 지르코니아(Translucent Zirconia, TZ) 비니어의 접착 강도 비교.
+
+LDS 25.4 MPa vs TZ 12.1 MPa; 법랑질(Enamel) 기질 21.1 MPa vs 복합재 코어(Composite Core) 11.3 MPa; 두께-접착강도 역상관(탐색적); I²=98.2% 고이질성.
+
+LDS + 법랑질 조합이 광중합 프로토콜 하 최고 접착 강도이나, 전량 인비트로·고이질성으로 탐색적 결론에 불과 — 임상 유지율로 직접 외삽 불가.
 
 ## Summary
 

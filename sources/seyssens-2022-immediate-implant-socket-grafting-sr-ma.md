@@ -10,8 +10,21 @@ pdf_filename: seyssens-2022-immediate-implant-socket-grafting-sr-ma.pdf
 source_collection: external
 ---
 
-## One-line Summary
-SR+MA (Cosyn, 15 RCT, n=577명, 604 임플란트 IIP+SG 298 vs IIP 306, follow-up 4-36개월): IIP 시 implant-socket gap에 골이식 (SG) 동반 vs 비동반 — hard tissue·일부 soft tissue 보존 유의.
+## Three-line Summary
+
+SR+MA (Cosyn, 15 RCT, n=577명, 604 임플란트 IIP+SG 298 vs
+
+IIP 306, follow-up 4-36개월): IIP 시 implant-socket gap에 골이식 (SG)
+
+동반 vs 비동반 — hard tissue·일부 soft tissue 보존 유의.
+
+## 세줄요약
+
+SR+MA (Cosyn, 15 RCT, n=577명, 604 임플란트 IIP+SG 298 vs
+
+IIP 306, follow-up 4-36개월): IIP 시 implant-socket gap에 골이식 (SG)
+
+동반 vs 비동반 — hard tissue·일부 soft tissue 보존 유의.
 
 ## 1. Document Information
 - **Title**: Immediate implant placement with or without socket grafting: A systematic review and meta-analysis
@@ -42,7 +55,7 @@ PRISMA. Two reviewers. Cochrane RoB. Random-effects MA.
 - [[immediate-implant/esthetic-soft-tissue/seyssens-2021-immediate-implant-connective-tissue-graft-sr-ma]] — Cosyn 시리즈 — CTG
 - [[immediate-implant/esthetic-soft-tissue/pitman-2022-immediate-implant-provisionalization-sr-ma]] — Cosyn 시리즈 — provisionalization
 - [[immediate-implant/pitman-2023-immediate-implant-flap-flapless-sr-ma]] — Cosyn 시리즈 — flap
-- [[immediate-implant/mansouri-2025-flapless-immediate-implant-bone-grafting-sr-ma]] — flapless + 골이식 SR+MA
+- [[immediate-implant/gap-grafting/mansouri-2025-flapless-immediate-implant-bone-grafting-sr-ma]] — flapless + 골이식 SR+MA
 
 ## 7. Limitations and Future Work
 - 자세한 한계·후속 연구 방향은 원문 Discussion/Conclusion 참고.

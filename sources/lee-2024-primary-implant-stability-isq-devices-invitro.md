@@ -13,13 +13,21 @@ source_collection: external
 
 기존 [[wiki/implants/isq/al-jetaily-2010-osstell-periotest-implant-stability-in-vitro]]은 Osstell과 Periotest를 비교했으나, 새로운 DCA 기기인 Anycheck(IST)와 RFA(Osstell Beacon+)의 직접 비교 데이터가 부족했음. 본 연구는 두 기기의 골밀도·임플란트 길이별 상관관계를 체계적으로 정리해 ISQ-IST 등가성 판단 근거를 제공.
 
-## One-line Summary
+## Three-line Summary
 
 In vitro study (n=60 implants, polyurethane bone blocks) comparing Osstell Beacon+ (ISQ/RFA) vs Anycheck (IST/DCA): both devices showed similar trends across bone densities and lengths, with Anycheck simpler to use regardless of operator expertise.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 인공 골블록(n=60) 체외 연구에서 Osstell Beacon+(ISQ/공명주파수분석)과 Anycheck(IST/감쇠용량분석)는 골밀도·임플란트 길이 변화에 따른 유사한 경향을 보였으며, Anycheck가 측정자 숙련도에 무관하게 사용이 간편했다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

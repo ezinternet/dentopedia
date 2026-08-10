@@ -6,7 +6,7 @@ date: 2026-05-23
 doi: null
 source: null
 category: evidence-appraisal
-confidence: synthesis
+evidence_level: synthesis
 pdf_path: null
 pdf_filename: null
 source_collection: internal
@@ -27,12 +27,21 @@ tags: [statistics, cheatsheet, abbreviations, biostatistics, critical-appraisal,
 > - 임상시험 분석군: 배정대로 분석 (Intention-to-Treat, ITT, 보수적·무작위화 이점 보존) vs 프로토콜 준수자만 (Per-Protocol, PP, 효능 과대평가 위험). 둘이 갈리면 탈락이 결과 관련일 가능성.
 > - 5대 오용 (논문 읽을 때 red flag): ① 흔한 결과에서 OR을 RR로 해석, ② p<0.05를 임상유의로 혼동, ③ CI 폭 무시, ④ SD↔SE 혼동, ⑤ ITT↔PP 차이 무시.
 
-## One-line Summary
+## Three-line Summary
 
-A reference cheatsheet that organizes the statistical abbreviations common in dental literature by analytical context — descriptive, inferential, effect size, diagnostic accuracy, meta-analysis, regression, survival, reliability/agreement, and clinical-trial analysis sets — pairing each term with its standard definition and most frequent misinterpretation. It flags the 5 highest-yield reading red flags: interpreting OR as RR for common outcomes, conflating p<0.05 with clinical significance, ignoring CI width, confusing SD with SE, and overlooking ITT–PP discrepancies.
+A reference cheatsheet organizing statistical abbreviations common in dental literature by 9 analytical contexts: descriptive (M/SD/SE/CI/IQR), inferential (p-value/α/β/Power/1-β), effect size (OR/RR/HR/ARR/NNT/SMD/d/ω²), diagnostic accuracy (Sn/Sp/PPV/NPV/LR/AUC), meta-analysis (WMD/WMD/MD/RR/OR pool/I²/RoB2/ROBINS-I/GRADE/funnel), regression (R²/β/OR from logit/Cox HR), survival (KM/log-rank/HR), reliability/agreement (ICC/κ/Bland-Altman), and clinical-trial analysis sets (ITT/mITT/PP/AT).
 
-## 한줄요약
-치과 논문에서 자주 만나는 통계 약자(descriptive·inferential·effect size·diagnostic·meta-analysis·regression·survival·agreement·trial set)를 카테고리별로 정리하고, 임상 해석에서 가장 자주 오용되는 5개 패턴(OR↔RR 혼동, p<0.05=임상유의 오역, CI 폭 무시, SD↔SE 혼동, ITT↔PP 차이 무시)을 신호로 표시.
+Each term is paired with its standard definition and its most common misinterpretation in dental papers (e.g., SD vs SE conflation, OR treated as RR for common outcomes, p<0.05 equated with clinical significance, CI width ignored, ITT–PP discrepancy overlooked).
+
+The five highest-yield reading red flags are: (1) OR interpreted as RR for common outcomes (e.g., peri-implant mucositis ~43%), which overestimates risk; (2) p<0.05 equated with clinical significance when n is large enough to detect a 0.1 mm MBL difference; (3) CI width dismissed when a confidence interval spans clinically inert to clinically critical; (4) SD/SE confusion that makes spread appear smaller than it is; (5) ITT/PP divergence ignored — when they differ, dropout is likely outcome-related.
+
+## 세줄요약
+
+치과 논문 통계 약자를 9개 맥락별로 정리한 치트시트: 기술통계(M/SD/SE/CI/IQR), 추론통계(p/α/β/Power), 효과크기(OR/RR/HR/ARR/NNT/SMD), 진단정확도(Sn/Sp/PPV/NPV/LR/AUC), 메타분석(WMD/I²/RoB2/ROBINS-I/GRADE), 회귀(R²/β/Cox HR), 생존분석(KM/log-rank/HR), 일치도(ICC/κ/Bland-Altman), 임상시험 분석군(ITT/PP/AT).
+
+각 용어마다 표준 정의 + 치과 논문에서 가장 흔한 오용을 쌍으로 제시(예: SD↔SE 혼동으로 산포 과소표시, 흔한 결과에서 OR을 RR로 오독 시 위험 과대평가, 큰 표본에서 p<0.05를 임상유의로 오역).
+
+5대 독해 레드플래그: ①흔한 결과(임플란트주위 점막염 ~43%)에서 OR을 RR로 해석; ②n이 클 때 MBL 0.1 mm 차이도 p<0.001 → p<0.05 = 임상유의 혼동; ③CI 폭 무시; ④SD↔SE 혼동(오차막대가 실제보다 작아 보임); ⑤ITT↔PP 불일치 무시(갈리면 탈락이 결과 관련일 가능성).
 
 ## Summary
 Reference cheatsheet for interpreting statistical reporting in dental research papers. Organized by analytical context: descriptive, inferential, effect size, diagnostic accuracy, meta-analysis, regression, survival analysis, reliability/agreement, and clinical trial analysis sets. Each entry pairs the standard definition with the most common misinterpretation observed in dental literature.

@@ -6,7 +6,7 @@ date: 2024-05-04
 doi: "10.3390/biomimetics9050276"
 source: sulyhan-2024-transcrestal-osseodensification-graft-radiographic-pilot.md
 category: [sinus-lift/transcrestal]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/sulyhan-2024-transcrestal-osseodensification-graft-radiographic-pilot.pdf
 pdf_filename: sulyhan-2024-transcrestal-osseodensification-graft-radiographic-pilot.pdf
 source_collection: external
@@ -18,11 +18,19 @@ relations:
     target: yousry-2025-ozone-gel-osseodensification-transcrestal-sinus-rct
 ---
 
-## One-line Summary
-Pilot CBCT study (13 patients, RBH <8 mm) of transcrestal sinus elevation by osseodensification with graft, showing +6.65 mm immediate bone-height gain, 0.90 mm graft contraction at 12 months, and 100% implant success.
+## Three-line Summary
+Prospective pilot CBCT study (13 patients, posterior maxilla, RBH <8 mm) evaluating transcrestal sinus floor elevation using osseodensification burs plus graft material.
 
-## 한줄요약
-CBCT pilot(환자 13명) — OD+이식재 경치조골 상악동거상으로 즉시 +6.65 mm 골고 증가, 12개월 수축 0.90 mm, 성공률 100%.
+Immediate bone-height gain was 6.65 ± 1.06 mm over a 5.70 mm preoperative baseline; graft contraction at 12 months was only 0.90 ± 0.49 mm, and all implants achieved 100% success with no correlation between bone height and stability.
+
+As an uncontrolled single-arm pilot, findings establish feasibility and effect size but cannot establish comparative superiority over other transcrestal techniques.
+
+## 세줄요약
+전향적 파일럿 콘빔CT(Cone-Beam CT, CBCT) 연구 (13명, 후방 상악, 잔존골 높이(Residual Bone Height, RBH) <8 mm): 골밀도화 (Osseodensification, OD) 버 + 이식재를 이용한 경치조골 상악동거상술 (Transcrestal Sinus Floor Elevation, TSFE) 평가.
+
+즉시 골고 증가 6.65 ± 1.06 mm (기저치 5.70 mm 대비), 12개월 이식재 수축 0.90 ± 0.49 mm, 임플란트 성공률 100%; 골고와 임플란트 안정성 간 상관관계는 없음.
+
+대조군이 없는 단일군 파일럿으로 실현 가능성과 효과 크기를 제공하지만, 타 경치조골 술식과의 비교 우위는 확인할 수 없음.
 
 ## Summary
 This single-arm pilot quantifies the radiographic performance of transcrestal sinus floor elevation done with osseodensification burs plus graft material in 13 patients with residual bone height under 8 mm. CBCT showed a significant immediate height gain of 6.65 mm over a 5.70 mm preoperative baseline, with only 0.90 mm of graft contraction by 12 months and 100% implant success. No correlation emerged between bone height and implant stability. As an uncontrolled pilot, it establishes feasibility and effect size rather than comparative superiority.
@@ -43,4 +51,4 @@ Prospective pilot; 13 patients (mean age 54.7 y); posterior maxilla, RBH <8 mm, 
 ## Related Papers
 - [[sinus-lift/transcrestal/starch-jensen-2025-transcrestal-sinus-osseodensification-meta-analysis]] — reinforces; pooled transcrestal OD bone-gain evidence.
 - [[sinus-lift/transcrestal/yousry-2025-ozone-gel-osseodensification-transcrestal-sinus-rct]] — contrasts; grafted OD gain here vs graftless/ozone null dimensional change there.
-- [[implants/marzorati-2026-osseodensification-standard-osteotomy-torque-isq-sr-ma]] — related; OD torque/ISQ effects.
+- [[implants/osseodensification/marzorati-2026-osseodensification-standard-osteotomy-torque-isq-sr-ma]] — related; OD torque/ISQ effects.

@@ -6,7 +6,7 @@ date: 2022-11-16
 doi: 10.3390/diagnostics12112819
 journal: Diagnostics 12(11):2819
 source: yeung-2022-cbct-maxillary-sinus-pathology-review.md
-confidence: narrative-review
+evidence_level: narrative-review
 category: [sinus-lift/pseudocyst]
 pdf_path: /Users/oracleneo/llm-wiki/papers/yeung-2022-cbct-maxillary-sinus-pathology-review.pdf
 pdf_filename: yeung-2022-cbct-maxillary-sinus-pathology-review.pdf
@@ -14,11 +14,21 @@ source_collection: external
 tags: [maxillary-sinus, CBCT, pathology, mucosal-thickness, antral-pseudocyst, MRC, sinusitis, imaging-review]
 ---
 
-## One-line Summary
-Narrative review (HKU OMFS, Diagnostics 2022): a comprehensive guide to CBCT evaluation of maxillary sinus health and pathology — normal anatomy, the sinus mucosal thickness (SMT) ≥2 mm pathology threshold, and imaging mapping of antral pseudocyst (AP), MRC, mucocele, septa, ostium patency, and Schneiderian membrane — framing the "step-zero" accurate-diagnosis phase of sinus lift decision-making.
+## Three-line Summary
 
-## 한줄요약
-Review (HKU OMFS, Diagnostics 2022): CBCT를 통한 상악동 건강·병변 평가의 종합 review — 정상 해부·SMT 임계값·AP/MRC/sinusitis/odontogenic/tumor pathology 영상 매핑. Sinus pathology의 imaging 결정 가이드.
+Narrative review (HKU OMFS, Diagnostics 2022) providing a comprehensive guide to CBCT evaluation of maxillary sinus health and pathology, covering normal anatomy, the sinus mucosal thickness (SMT) ≥2 mm pathology threshold, and imaging mapping of AP, MRC, mucocele, septa, ostium patency, and Schneiderian membrane.
+
+Key findings include that AP and MRC have overlapping imaging features and require histological confirmation for definitive distinction; mucocele may involve the entire sinus requiring ENT referral; implant placement septa carry an OR of 4.03 for complications.
+
+This review serves as the "step zero" diagnostic standard before sinus lift treatment decisions — CBCT is the primary imaging tool but cannot replace MRI and biopsy for neoplastic or soft-tissue lesions.
+
+## 세줄요약
+
+서술 고찰(홍콩대 구강악안면외과, Diagnostics 2022): 상악동 건강·병변의 CBCT 평가 종합 지침 — 정상 해부, 상악동 점막 두께(Sinus Mucosal Thickness, SMT) ≥2 mm 병리 기준, AP·MRC·점액류·세격(Septa)·자연공 개방·슈나이더막 영상 매핑.
+
+AP·MRC는 영상 소견 유사 → 조직학적 확진 필요; 점액류는 부비동 전체 침범 가능 → 이비인후과 협진; 부비동 세격은 임플란트 합병증의 OR 4.03.
+
+CBCT가 상악동 평가의 표준 1차 영상이지만 종양·연조직 병변은 MRI·조직검사 필요; 상악동거상술 결정 전 '0단계' 진단의 표준 참조 지침으로 활용.
 
 ## Summary
 HKU 그룹의 narrative review. CBCT가 sinus pathology 진단의 1차 도구로 자리잡은 현 상황에서 정상-병리 영상 표준 정리. AP/MRC 결정 트리의 0단계 (정확한 진단부터)를 다룸.
@@ -50,9 +60,9 @@ HKU 그룹의 narrative review. CBCT가 sinus pathology 진단의 1차 도구로
 
 ## Strengths and Caveats
 [narrative-review] Primary data 부재
-[합의수준] CBCT-based sinus 평가는 분야 표준
-[근거강함] HKU 그룹의 종합·교육적 review
-[claude해석] CBCT가 모든 진단 대체 못함 — soft tissue·neoplasm은 MRI·조직검사 필요
+[확인] CBCT-based sinus 평가는 분야 표준
+[미검증] HKU 그룹의 종합·교육적 review — review 성격에 대한 서술적 평가, 정량적 근거 강도 주장 아님
+[미검증] CBCT가 모든 진단 대체 못함 — soft tissue·neoplasm은 MRI·조직검사 필요
 
 ## Related Papers
 - [[sinus-lift/pseudocyst/nosaka-2024-sinus-elevation-radiopaque-lesions-review]] — radiopaque lesion 결정 framework

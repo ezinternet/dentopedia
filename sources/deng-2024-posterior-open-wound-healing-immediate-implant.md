@@ -11,15 +11,23 @@ source_collection: external
 
 ## Why Ingested
 
-즉시식립(immediate implant placement, IIP) 후 발치와의 개방형 창상(open wound) 관리법 비교가 위키에 부족하다. 기존 [[immediate-implant/zhou-2024-open-closed-flap-collagen-membrane-immediate-implant]]는 open vs closed flap을 collagen membrane으로 비교했고, [[immediate-implant/esthetic-soft-tissue/elgendi-2025-peri-implant-soft-tissue-conditioning]]는 CAD-CAM socket-sealing abutment로 연조직을 조절했다. 본 retrospective cohort는 자가 반응성 연조직 (Reactive Soft Tissue, RST) vs 흡수성 콜라겐 스펀지 (Absorbable Collagen Sponge, ACS)라는 제3의 개방창 sealing 선택지를 직접 대조해 이 결정 트리를 보강한다.
+즉시식립(immediate implant placement, IIP) 후 발치와의 개방형 창상(open wound) 관리법 비교가 위키에 부족하다. 기존 [[immediate-implant/gap-grafting/zhou-2024-open-closed-flap-collagen-membrane-immediate-implant]]는 open vs closed flap을 collagen membrane으로 비교했고, [[immediate-implant/esthetic-soft-tissue/elgendi-2025-peri-implant-soft-tissue-conditioning]]는 CAD-CAM socket-sealing abutment로 연조직을 조절했다. 본 retrospective cohort는 자가 반응성 연조직 (Reactive Soft Tissue, RST) vs 흡수성 콜라겐 스펀지 (Absorbable Collagen Sponge, ACS)라는 제3의 개방창 sealing 선택지를 직접 대조해 이 결정 트리를 보강한다.
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective cohort (32 patients / 40 posterior immediate implants; 20 RST vs 20 ACS): autologous reactive soft tissue and absorbable collagen sponge gave comparable total soft-tissue healing scores, gingival recession, and hard-tissue (HBW, MBL) changes at ~6 months — ACS scored better tissue colour but worse fibrous repair.
+Retrospective cohort (West China Hospital of Stomatology, Sichuan University; 32 patients, 40 posterior immediately placed implants; 20 autologous reactive soft tissue [RST] vs 20 absorbable collagen sponge [ACS]; ~6-month follow-up) comparing open-wound sealing strategies as an alternative to primary flap-to-flap closure.
 
-## 한줄요약
+Total soft-tissue healing scores at 2 weeks and gingival recession and hard-tissue outcomes (HBW, MBL) at ~6 months were comparable between RST and ACS; ACS showed significantly better tissue colour (p=0.016) while RST showed significantly better fibrous repair (p=0.043).
 
-후향적 코호트 (환자 32명 / 후방 즉시식립 임플란트 40개; RST 20 vs ACS 20): 자가 반응성 연조직 (Reactive Soft Tissue, RST)과 흡수성 콜라겐 스펀지 (Absorbable Collagen Sponge, ACS)는 약 6개월 시점에 총 연조직 치유 점수·치은퇴축·경조직(수평 골폭 HBW, 변연골 MBL) 변화가 서로 비슷했고, ACS가 조직 색조는 더 좋았으나 섬유성 회복은 더 나빴다.
+Both RST and ACS are effective for open-wound closure in posterior immediate implant placement; this retrospective single-centre study with n=20 per group and a novel non-validated scoring system limits generalizability, and long-term outcomes beyond 6 months were not assessed.
+
+## 세줄요약
+
+후향적 코호트 (화시 구강의학원, 쓰촨대학; 환자 32명·후방 즉시식립 임플란트 40개; 자가 반응성 연조직 [RST] 20개 vs 흡수성 콜라겐 스펀지 [ACS] 20개; 추적 약 6개월) — 플랩 일차 봉합의 대안으로 개방창 밀폐 방법을 비교했다.
+
+2주 시점 총 연조직 치유 점수와 약 6개월 시점의 치은 퇴축·경조직 결과(수평 골폭 HBW, 변연골 MBL)는 RST·ACS 간 비슷했으며, ACS는 조직 색조에서 유의하게 우수하고(p=0.016) RST는 섬유성 회복에서 유의하게 우수했다(p=0.043).
+
+후방 즉시식립에서 RST·ACS 모두 개방창 밀폐에 효과적이나, 그룹당 n=20의 단일 센터 후향적 설계와 미검증 신규 점수 체계가 일반화를 제한하며 6개월 이후 장기 결과는 평가되지 않았다.
 
 ## 1. Document Information
 

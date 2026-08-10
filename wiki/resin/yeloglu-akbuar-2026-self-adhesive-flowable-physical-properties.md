@@ -6,7 +6,7 @@ date: 2026-06-18
 doi: "10.1016/j.dental.2026.06.008"
 source: yeloglu-akbuar-2026-self-adhesive-flowable-physical-properties.md
 category: [resin]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: false
 pmid: "42315366"
@@ -20,13 +20,21 @@ relations:
     target: celik-2015-self-adhesive-flowable-nccl-6month
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In vitro lab study (5 flowable composites, n=10 each): the conventional flowable (Filtek Ultimate Flowable) had the highest microhardness, while bacterial adhesion was composition-dependent and not explained by surface roughness alone — resin matrix chemistry and filler composition drive both physical properties and biofilm affinity.
+In vitro comparative study (5 flowable composites: 4 self-adhesive vs 1 conventional Filtek Ultimate Flowable; n=10 each) measuring Vickers microhardness, surface roughness, color stability (ΔE after coffee staining), and dual-species bacterial adhesion (S. mutans and L. casei).
 
-## 한줄요약
+Conventional flowable (Filtek Ultimate Flowable) had the highest microhardness (p<0.05); Nova Compo SF had the lowest color change and among the lowest bacterial adhesion; Fusio Liquid Dentin had the highest surface roughness (Ra) and highest bacterial adhesion — but bacterial adhesion ranking did not correlate with surface roughness, implicating resin matrix chemistry and filler composition as primary drivers.
 
-In vitro 실험 (플로어블 레진 5종, 각 n=10): 통상형 플로어블이 미세경도 최고, 세균부착은 표면조도가 아닌 **레진 매트릭스·필러 성분**에 좌우 — self-adhesive flowable은 경도는 낮으나 일부 제품(Nova Compo SF)은 색안정성·낮은 세균부착에서 유리.
+Self-adhesive flowable composites trade mechanical performance for simplified application; Nova Compo SF stands out among self-adhesive options for color stability and low biofilm affinity, but none matches conventional flowable microhardness for stress-bearing sites.
+
+## 세줄요약
+
+In vitro 비교 연구 (플로어블 레진 5종: 자가접착형 4종 vs 통상형 Filtek Ultimate Flowable 1종, n=10) — 비커스 미세경도 (Vickers Microhardness, VHN)·표면조도 (Ra)·색안정성 (ΔE)·이중 균종 세균부착 (S. mutans·L. casei) 측정.
+
+통상형 플로어블이 미세경도 최고(p<0.05); Nova Compo SF가 색변화 최소·세균부착 최저군; Fusio Liquid Dentin이 조도 최고(Ra)이자 세균부착 최다 — 그러나 세균부착 순위는 표면조도가 아닌 레진 매트릭스 화학조성·필러 조성이 결정.
+
+자가접착형 플로어블은 경도를 희생하고 시술 단순성을 얻음; 고응력 부위에는 통상형 플로어블이 적합하며, 자가접착형 중에서는 Nova Compo SF가 색안정성·생물막 친화도에서 상대적 우위.
 
 ## Summary
 

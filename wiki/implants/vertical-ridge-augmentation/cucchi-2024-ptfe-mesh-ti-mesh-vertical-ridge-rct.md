@@ -6,20 +6,28 @@ date: 2024-07-30
 doi: 10.1111/clr.14350
 source: cucchi-2024-ptfe-mesh-ti-mesh-vertical-ridge-rct.md
 category: [implants/vertical-ridge-augmentation]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/cucchi-2024-ptfe-mesh-ti-mesh-vertical-ridge-rct.pdf
 pdf_filename: cucchi-2024-ptfe-mesh-ti-mesh-vertical-ridge-rct.pdf
 source_collection: external
 tags: [ti-mesh, ptfe-mesh, cad-cam, non-inferiority, vbg]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Non-inferiority RCT (n=48 treated of 50 randomized): customized CAD/CAM Ti-mesh was non-inferior to Ti-reinforced d-PTFE mesh for surgical/healing complications in VRA; PTFE gave numerically higher vertical bone gain (5.79 vs 5.18 mm, p=.233) and a significantly higher regeneration rate (99.5% vs 87.0%, p=.013), with ~98% osseointegration in both.
+Double-blind non-inferiority RCT (50 randomized, 48 treated; maxilla or mandible with vertical defects >3 mm) comparing customized Ti-reinforced d-PTFE mesh (PTFE group, n=24) vs CAD/CAM titanium mesh (Ti-mesh group, n=24), both with collagen membrane and 50:50 autogenous+DBBM graft.
 
-## 한줄요약
+CAD/CAM Ti-mesh was non-inferior to reinforced PTFE mesh for healing complications (8.3% vs 12.5%, non-inferiority confirmed); PTFE gave significantly higher regeneration rate (99.5% vs 87.0%, p=0.013) but VBG was not significantly different (5.79 vs 5.18 mm, p=0.233); osseointegration was equivalent (~98% both groups).
 
-비열등성 RCT (50명 무작위, 48명 수술): 맞춤형 CAD/CAM Ti-mesh가 Ti-보강 d-PTFE mesh 대비 수술/치유 합병증에서 비열등 — PTFE가 수직골증가(5.79 vs 5.18 mm, p=.233)와 재생률(99.5% vs 87.0%, p=.013)에서 더 높았고(VBG는 비유의), 양군 골유착률 약 98%.
+Both customized digital barrier systems achieve reliable VRA; PTFE's significantly better regeneration rate (though not VBG) means Ti-mesh remains a valid choice but PTFE may be preferred when maximizing regenerated volume is the primary goal.
+
+## 세줄요약
+
+이중맹검 비열등성 RCT(50명 무작위, 48명 수술; 수직 결손 >3 mm): 맞춤형 Ti 강화 d-PTFE 메시(PTFE군, n=24) vs CAD/CAM 티타늄 메시(Ti 메시군, n=24), 양 군 콜라겐막+자가골:탈단백우골(Deproteinized Bovine Bone Matrix, DBBM) 50:50 이식.
+
+CAD/CAM Ti 메시는 치유 합병증에서 비열등 확인(8.3% vs 12.5%); PTFE가 재생률(Regeneration Rate) 유의 우수(99.5% vs 87.0%, p=0.013); 수직 골증대(5.79 vs 5.18 mm, p=0.233) 차이 없음; 골유착(Osseointegration) 양 군 약 98% 동등.
+
+두 맞춤형 디지털 barrier가 모두 신뢰할 수 있는 수직골증대 제공; 재생률에서만 PTFE 유의 우수 — 최대 재생 용적이 목표라면 PTFE, 비용·공급 측면에서 Ti 메시도 타당한 선택.
 
 ## Summary
 

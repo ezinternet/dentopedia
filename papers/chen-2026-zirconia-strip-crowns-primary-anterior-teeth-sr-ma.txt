@@ -1,0 +1,468 @@
+TITLE: Effectiveness of prefabricated zirconia crowns and resin-bonded composite strip crowns in the restoration of pediatric primary anterior teeth: a systematic review and meta-analysis
+DOI: 10.1186/s12903-026-07759-z
+PMCID: PMC12931052
+PMID: 41612344
+
+ABSTRACT:
+Background
+
+Prefabricated zirconia crowns (PZCs) and resin-bonded composite strip crowns (RCSCs) represent the principal restorative approaches to handle caries in anterior primary teeth. However, the comparative effectiveness of these two materials remains inconclusive. This research aimed to systematically evaluate and compare the effectiveness of PZC and RCSC in the restoration of pediatric primary anterior teeth.
+
+Methods
+
+A search was implemented across multiple databases, encompassing Web of Science, PubMed, Embase, and The Cochrane Library. The search duration was from database inception to June 21, 2025. The Cochrane Risk of Bias Tool (RoB 2.0) was implemented to estimate the RoB in the eligible articles. The therapeutic effectiveness and adverse effects of PZC and RCSC were estimated by computing risk ratios (RR) and their corresponding 95% confidence intervals (CIs). Statistical analysis was implemented utilizing Stata 16 software.
+
+Results
+
+In total, 2725 articles were identified. Nine studies that involved 1746 primary anterior teeth from children aged 3–6 years were included. The incidence of secondary caries was considerably diminished in the PZC cohort relative to the control cohort (RR = 0.41, 95% CI: 0.18–0.92,= 0.030). Wear of the opposing teeth was significantly greater in the PZC cohort relative to the RCSC cohort (RR = 7.58, 95% CI: 2.73–21.07,< 0.001). The retention rate of the PZC cohort was notably higher than that of the RCSC cohort (RR = 0.15, 95% CI: 0.07–0.33,< 0.001). No considerable distinctions were detected in color mismatch between the two cohorts (RR = 0.24, 95% CI: 0.05–1.21,= 0.084). The incidence of restoration failure was considerably diminished in the PZC cohort (RR = 0.07, 95% CI: 0.02–0.22,< 0.001). The likelihood of gingival bleeding displayed no statistically significant distinction between the two cohorts (RR = 0.09, 95% CI: 0.01–1.73,= 0.109). Plaque formation was considerably less frequent in the PZC cohort (RR = 0.08, 95% CI: 0.01–0.23,< 0.001). The marginal fit was considerably superior in the PZC cohort (RR = 0.50, 95% CI: 0.05–8.70,= 0.672).
+
+Conclusion
+
+PZCs demonstrated superior performance in terms of secondary caries prevention, crown retention, success rates of restoration, marginal fit, and plaque accumulation. In contrast, RCSCs exhibited significantly less wear of opposing teeth.
+
+Supplementary Information
+
+The online version contains supplementary material available at 10.1186/s12903-026-07759-z.
+
+FULL TEXT:
+Background
+
+Early childhood caries (ECC) remains a prevalent global health issue, frequently leading to extensive destruction of primary anterior teeth. The restorative management of these carious lesions poses a significant clinical challenge, as ideal treatments must simultaneously achieve durability, aesthetics, and minimal biological cost in young patients with limited cooperation.
+
+Prefabricated zirconia crowns (PZCs) and resin-bonded composite strip crowns (RCSCs) have become the mainstream restoration methods for extensive caries in primary anterior teeth. RCSCs are the preferred choice for anterior teeth restorations due to their comparable color to natural teeth. Although they are not as durable as PZCs, they still represent a cost-effective and aesthetic choice for areas with less stress-bearing [,]. PZCs are more durable and aesthetic, which renders them appropriate for both anterior and posterior teeth. These crowns are biocompatible and possess a high degree of resistance to plaque accumulation, guaranteeing sustained function and aesthetics. Nevertheless, compared to RCSCs, they are more expensive, which might restrict their availability in certain situations [,]. The selection between PZC and RCSC ought to be determined by the patient’s particular clinical requirements, aesthetic preferences, the cost and longevity of the crowns. Aesthetic crowns are crucial in pediatric dental restoration, which can meet children’s functional and psychological demands, especially in instances of heavy damage or caries in anterior teeth [,].
+
+An ideal primary tooth restoration should ensure restore function and durability. Also, it ought to provide satisfactory aesthetics and biocompatibility while being well-tolerated by children. Among various restorative options, prefabricated crowns represent a key clinical technique. Prefabricated zirconia crowns (PZCs) have gained increasing popularity recently owing to their superior strength and aesthetics. Resin-bonded composite strip crowns (RCSCs) serve as a traditional, potentially less technique-sensitive aesthetic alternative. However, current studies show conflicting evidence regarding direct comparisons of these two restorations in terms of clinical effectiveness (e.g., crown retention, gingival health, color match). Consequently, a comprehensive evidence synthesis is urgently needed to guide clinical decision-making. This systematic review and meta-analysis sought to compare the effectiveness of PZCs and RCSCs in restoring primary anterior teeth.
+
+Methods
+
+This systematic review and meta-analysis was implemented as per the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines. The study protocol was registered on the International Prospective Register of Systematic Reviews (PROSPERO) website (CRD42024625706).
+
+Search strategy
+
+A search was implemented throughout PubMed, Embase, Cochrane Library, and Web of Science databases up to June 21, 2025. The language was restricted to English. The search was implemented utilizing a blend of subject headings and free terms, including the following keywords: zirconia, composite resins, crowns. Additionally, reference lists of related articles and grey literature were manually searched to seek studies that met the criteria. The specific search strategy is provided in Appendix 1.
+
+Inclusion and exclusion criteria
+
+Category
+
+Criteria
+
+Inclusion Criteria
+
+Participants
+
+Children aged < 13 years with primary anterior teeth requiring crown restoration due to causes such as dental caries or trauma.
+
+Intervention
+
+Prefabricated zirconia crowns (PZCs).
+
+Comparator
+
+Resin composite strip crowns (RCSCs).
+
+Study Design
+
+Randomized controlled trials (RCTs).
+
+Outcomes
+
+At least one of the following outcomes had to be reported: marginal fit, restoration failure, wear of opposing teeth, secondary caries, plaque index, crown retention, gingival bleeding rate, color mismatch.
+
+Exclusion Criteria
+
+Publication Type
+
+Animal or cell experiments, case reports, scientific experimental plans, reviews, letters, editorials, conference papers.
+
+Data & Availability
+
+Studies with missing, incomplete, or severely erroneous data; duplicate publications; full text unavailable.
+
+Population
+
+Studies with overlapping participant cohorts.
+
+Although the initial search strategy set an upper-age limit of 18 years to maximize search coverage, all studies ultimately included in the analysis exclusively focused on children aged < 13 years, aligning with the physiological age range of primary dentition.The outcome measures were pre-specified and categorized into two groups based on their clinical relevance: (i) indicators of treatment effectiveness, which reflect the desired functional and biological outcomes of the restoration, and (ii) indicators of adverse effects, which capture unintended complications or negative impacts on oral health.
+
+Indicators of treatment effectiveness included:
+
+Crown retention: The restoration remaining in place, indicating primary clinical success.
+
+Marginal fit: The integrity of the seal between the crown and the tooth, preventing microleakage.
+
+Color match: The aesthetic acceptability of the restoration.
+
+Absence of secondary caries: Indicating the crown's success in preventing recurrent disease.
+
+Absence of gingival bleeding: Reflecting good periodontal response to the restoration.
+
+Indicators of adverse effect included:
+
+Crown failure: Catastrophic events like fracture or loss requiring replacement.
+
+Plaque accumulation: Potential for the crown surface to promote biofilm formation.
+
+Wear of opposing teeth: Undesirable wear of the opposing natural tooth, a known concern with certain restorative materials [].
+
+Data extraction
+
+The retrieved articles were imported into EndNote (Clarivate Analytics, Philadelphia, PA, USA), and two researchers (Yi Chen and Rongsheng Xu) independently checked the titles and abstracts by the aforementioned criteria. They proceeded to conduct a second screening by reviewing the complete texts. Any divergences were figured out through discussion or by consulting a third researcher (Hongyu Pu). Data extraction was independently implemented by two researchers utilizing a pre-designed electronic form, encompassing the first author, publication year, country, randomization and blinding design, total sample size, number of cases in the PZC group and RCSC group, gender (male/female), age, and outcome measures.
+
+During extraction, if a study merely provided a qualitative description of results (e.g., most restorations were successful) without offering any quantifiable data for analysis, or if their reports contained irresolvable data discrepancies, it was excluded because the data could not be extracted. All such instances were documented and reported. Two reviewers independently extracted the funding sources and declaration of conflicts of interest for each study.
+
+Quality assessment
+
+Two authors (Yi Chen and Rongsheng Xu) independently estimated the quality of eligible articles utilizing the Cochrane Risk of Bias tool (ROB2.0) []. The ROB2.0 criteria include generation of random sequence, allocation concealment, implementation of blinding, missing data, and selective reporting. Each aspect was deemed as high risk, some concerns or low risk. If all five items are at low risk or only one item is at medium risk with the rest at low risk, the overall RoB of the study is considered low. If four or more items are at medium risk or any one item is at high risk, the overall RoB of the study is considered high. All other cases are rated as medium risk. Any discrepancies in the quality assessment were reviewed by a third investigator (Hongyu Pu).
+
+Statistical analysis
+
+Statistical analysis was performed using Stata/SE (Version 16.0; StataCorp LLC, College Station, TX, USA). The effectiveness and adverse events of PZCs and RCSCs were evaluated utilizing risk ratio (RR) and 95% confidence intervals (CIs). Heterogeneity was estimated utilizing the Cochrane Istatistic, with< 0.10 and I> 50% denoting statistically heterogeneity. If significant heterogeneity was displayed, a random-effects model was employed using the DerSimonian-Laird method; otherwise, a fixed-effects model was applied using the inverse-variance method []. Sensitivity analysis was implemented utilizing the leave-one-out method to estimate the stability of the results. Publication bias was appraised utilizing funnel plots and quantitatively identified by Egger’s test, with< 0.05 denoting significant bias.
+
+Results
+
+Literature search and screening process
+
+In total, 3760 articles were retrieved, and 1630 duplicates were excluded. After initial screening of titles and abstracts, we excluded reviews, conference abstracts, case reports, and animal studies. Full texts of potentially eligible studies were retrieved and assessed against the eligibility criteria. Articles that remained inaccessible despite exhaustive attempts (e.g., contacting authors, interlibrary loans) were excluded and documented. Reasons for full-text exclusion were recorded. One dissertation was removed because it duplicated an already-included journal article. A total of 2,112 studies were excluded during this process. All studies excluded at the full-text screening stage, along with their corresponding justifications, are comprehensively listed in Appendix 2. The remaining articles were fully reviewed, and 9 studies were finally included in this analysis, as illustrated in Fig..
+
+Fig. 1
+
+Literature search and screening process
+
+Basic features and quality assessment of included studies
+
+The 9 included studies [–] from 6 countries (Saudi Arabia, Turkey, Canada, India, Egypt, United Arab Emirates (UAE)) involved 1746 primary anterior teeth from children aged 3 to 6 years. All included studies compared PZCs with RCSCs. The primary outcomes encompassed marginal fit, restoration failure, wear of opposing teeth, and related parameters. The basic features of the eligible articles are showcased in Table. Notably, none of the included studies provided disaggregated outcome data stratified by specific anterior tooth positions (e.g., central incisors vs. lateral incisors).
+
+Table 1
+
+Basic information extraction table of the literature included
+
+First author
+
+Year of publication
+
+Study Design
+
+Region
+
+Total number of cases
+
+Number of cases in the Prefabricated zirconia crown group
+
+Number of cases in the resin-bonded composite strip crown group
+
+Age
+
+Outcome measures
+
+Declaration of Funding and Conflicts of Interest
+
+Alaki
+
+2020
+
+RCT
+
+Saudi Arabia
+
+120
+
+60
+
+60
+
+4.43
+
+Gum health, plaque index, secondary caries, filling failure, occlusion, and wear of the opposing teeth
+
+Funded by the Deanship of Sientific Research (DSR) at King
+
+Abdulaziz University, Jeddah, a non-profit institution
+
+Ozdemir
+
+2022
+
+RCT
+
+Turkey
+
+86
+
+43
+
+43
+
+3 ~ 5
+
+Crown retention, filling failure, color matching, secondary caries, clinical assessment of pulp health, radiographic assessment of pulp health, plaque index, gingival index
+
+Funded by the Hacettepe University Scientific Research Projects Coordination Unit, a non-profit institution
+
+Gill
+
+2020
+
+RCT
+
+Canada
+
+88
+
+40
+
+48
+
+3.4
+
+Crown fit, interproximal contact, color, crown retention, crown integrity, marginal fit, gingival condition, radiographic pulp changes, clinical pulp changes, trauma, secondary caries
+
+Partial funding for this study was from NuSmilein
+
+the form of materials. A portion of the funding was contributed by material suppliers.
+
+Vaghela
+
+2021
+
+RCT
+
+India
+
+102
+
+47
+
+55
+
+Color, crown retention, gingival index, crown contour, crown marginal integrity, tooth wear, secondary caries,
+
+Not declared
+
+VaddaMaNU
+
+2024
+
+RCT
+
+Saudi arabia
+
+240
+
+120
+
+120
+
+4.42
+
+Gum health, plaque index, secondary caries, filling failure, wear of the opposing teeth
+
+The authors extend their appreciation to the Deanship of Scientific Research at King Khalid University for funding this work through
+
+small group research project under grant number RGP1/347/44. Funded by a non-profit institution
+
+Singh
+
+2023
+
+RCT
+
+India
+
+480
+
+240
+
+240
+
+4 ~ 6
+
+Gingival index, simplified oral hygiene index, clinical success, radiographic success
+
+Not declared
+
+Elheeny
+
+2022
+
+RCT
+
+Egypt
+
+344
+
+170
+
+174
+
+36 M ~ 71 M
+
+Crown retention, color, contour, pulp condition, wear of the opposing teeth
+
+Authors declare no conflicts of interest, no specific funding; the work was self-funded.
+
+Elheeny
+
+2024
+
+RCT
+
+Egypt
+
+200
+
+100
+
+100
+
+Crown retention, marginal fit, marginal discoloration, color, anatomy
+
+Authors declare no conflicts of interest, no specific funding; the work was self-funded.
+
+Walia
+
+2014
+
+RCT
+
+UAE
+
+86
+
+43
+
+43
+
+3 ~ 5
+
+Filling failure, wear of the opposing teeth, gum health
+
+Authors declare no conflicts of interest, no specific funding; the work was self-funded.
+
+The results of RoB assessment for the eligible studies are illustrated in Fig.. Eight studies were rated as low overall RoB and one study was judged as high risk due to unclear randomization methods. Among the 9 included studies, 7 explicitly reported their funding sources. Of these, 6 studies received support from non-profit institutions, while 1 study disclosed industrial funding (specifically, NuSmilesponsored research on PZCs). The remaining 2 studies declared neither funding sources nor conflicts of interest.
+
+Fig. 2
+
+The results of RoB assessment for the eligible studies
+
+Meta-analysis results
+
+Effectiveness of treatment
+
+Secondary caries
+
+Five articles involving 636 primary anterior teeth analyzed this outcome. A fixed-effects model was leveraged, given that heterogeneity analysis displayed I= 0.0%,= 0.857. The aggregated results ascertained that the incidence of secondary caries was considerably diminished in the PZC cohort relative to the RCSC cohort (RR = 0.41; 95% CI: 0.18, 0.92;= 0.030) (Fig.A). The Galbraith plot is shown in Appendix 3.
+
+Fig. 3
+
+The result of meta-analysis and publication bias.secondary caries,crown retention,restoration failure
+
+Crown retention
+
+Five articles involving 820 primary anterior teeth analyzed this outcome. A fixed-effects model was leveraged, given that heterogeneity analysis displayed I= 0.0%,= 0.894. The aggregated results ascertained that the crown retention level was considerably elevated in the PZC cohort relative to the RCSC cohort (RR = 0.15; 95% CI: 0.07, 0.33;< 0.001) (Fig.B). The Galbraith plot is shown in Appendix 3.
+
+Restoration failure
+
+Three studies involving 241 primary anterior teeth analyzed this outcome. A fixed-effects model was leveraged, given that heterogeneity analysis displayed I= 0.00%,= 0.786. The aggregated results ascertained that the restoration failure level was considerably diminished in the PZC cohort relative to the RCSC cohort (RR = 0.07; 95% CI: 0.02, 0.22;< 0.001) (Fig.C). The Galbraith plot is shown in Appendix 3.
+
+Adverse effect
+
+Wear of opposing teeth
+
+Four studies involving 652 primary anterior teeth analyzed this outcome. A fixed-effects model was leveraged, given that heterogeneity analysis displayed I= 0.0%,= 0.810. The aggregated results ascertained that the level of wear of opposing teeth was considerably elevated in the PZC cohort relative to the RCSC cohort (RR = 7.58; 95% CI: 2.73, 21.07;< 0.001) (Fig.A). The Galbraith plot is shown in Appendix 3.
+
+Fig. 4
+
+The result of meta-analysis and publication bias.wear of opposing teeth,color mismatch,gingival bleeding rate,occurrence of plaque,marginal fit
+
+Color mismatch
+
+Four studies involving 734 primary anterior teeth analyzed this outcome. A random-effects model was leveraged, given that heterogeneity analysis displayed I= 71.6%,= 0.014. The aggregated results ascertained no considerable distinction in color mismatch between the PZC and RCSC cohorts (RR = 0.24; 95% CI: 0.05, 1.21;= 0.084) (Fig.B). The Galbraith plot is shown in Appendix 3.
+
+Gingival bleeding rate
+
+Three studies involving 446 primary anterior teeth analyzed this outcome. A fixed-effects model was leveraged, given that heterogeneity analysis displayed I= 90.0%,< 0.001. The aggregated results ascertained no statistical distinction in the probability of gingival bleeding between the PZC and RCSC cohorts (RR = 0.09; 95% CI: 0.01, 1.73;= 0.109) (Fig.C). The Galbraith plot is shown in Appendix 3.
+
+Occurrence of plaque
+
+Two studies involving 358 primary anterior teeth analyzed this outcome. A fixed-effects model was leveraged, given that heterogeneity analysis displayed I= 0.00%,= 0.814. The aggregated results ascertained that the probability of occurrence of plaque was considerably diminished in the PZC cohort relative to the RCSC cohort (RR = 0.08; 95% CI: 0.01, 0.23;< 0.001) (Fig.D). The Galbraith plot is shown in Appendix 3.
+
+Marginal fit
+
+Two studies involving 286 primary anterior teeth analyzed this outcome. A random-effects model was leveraged, given that heterogeneity analysis displayed I= 83.8%,= 0.013. The aggregated results ascertained that the level of marginal fit was considerably elevated in the PZC cohort relative to the RCSC cohort (RR = 0.50; 95% CI: 0.05, 8.70;= 0.672) (Fig.E). The Galbraith plot is shown in Appendix 3.
+
+Sensitivity analysis results
+
+To appraise the reliability of the meta-analysis results, sensitivity analysis was implemented for outcomes with more than three included studies. Each study was excluded separately to evaluate changes in the effect size. No obvious changes were detected in outcomes such as secondary caries, crown retention, restoration failure, wear of opposing teeth, color mismatch, and gingival bleeding rate, indicating that the results were reliable (Appendix 4).
+
+Publication bias
+
+To estimate publication bias, funnel plots and Egger’s test were leveraged for outcomes with five or more articles. The results exhibited that the funnel plot for crown retention was asymmetrical (Fig.a), suggesting the presence of publication bias, in conjunction with the Egger’s test result (= 0.041). The funnel plot for secondary caries showed symmetry (Fig.b), denoting no publication bias, in conjunction with the Egger’s test result (= 0.999). The publication bias for crown retention was corrected utilizing the trim-and-fill method. After correction, the combined effect size remained stable, suggesting that the results were robust.
+
+Fig. 5
+
+The result of meta-analysis and publication bias.crown retention,secondary caries
+
+Discussion
+
+The results indicate that PZCs demonstrated superior performance in terms of secondary caries, crown retention, success rate of restoration, gingival bleeding rate, marginal fit, and occurrence of plaque. In contrast, RCSCs were associated with a lower risk of wear on the opposing teeth compared to PZCs.
+
+The cumulative adverse effects and underlying mechanisms
+
+PZCs were associated with better gingival health outcomes compared to RCSCs. The reason may be that the highly polished surface of PZCs minimizes plaque accumulation [], while plaque accumulation leads to more severe gingival bleeding in RCSCs. Additionally, plaque accumulation results in a higher incidence of secondary caries in RCSCs, which in turn leads to poorer marginal fit. Poorer marginal fit leads to more plaque accumulation, resulting in more severe secondary caries and a vicious cycle. When secondary caries reach a certain level, the space between the tooth structure and the restoration increases, leading to the detachment of the restoration. This is consistent with the studies by Gill et al. [,,,]. S. K. Vaddamanu’s study [] revealed that after 12 months of follow-up, there were no cases of gingival bleeding in either the PZC group or the RCSC group. This result may be due to the fact that after using RCSCs for a period of time, the crown elongates. The restoration margin, which is originally subgingival, shifts towards the occlusal side, making the restoration margin easier to clean. After restoration with RCSCs, primary anterior teeth may elongate in the occlusal direction. Clearly, in resin crowns with supra-gingival or flush gingival margins, fewer plaques are accumulated, which alleviates gingival bleeding [].
+
+Wear of opposing teeth
+
+The wear behavior of dental restorative materials is a dual-faceted phenomenon, encompassing both the material’s own wear resistance and its potential to wear the opposing natural dentition. Material hardness significantly influences this process, though other factors also contribute. The Vickers Hardness (HV) of tooth enamel is approximately 300–400 HV, while fully dense zirconia exhibits significantly higher hardness (1000–1400 HV). This substantial differential led to the long-held concern from in-vitro studies that zirconia, functioning as an abrasive agent, would cause excessive wear of opposing teeth []. Such excessive wear could have distinct clinical implications: (i) for opposing primary teeth, a reduction of crown height may compromise masticatory function; and (ii) for erupting permanent teeth, it may cause non-physiologic attrition and potential dentin sensitivity.
+
+However, this theoretical risk must be reconciled with emerging clinical evidence. Contrary to laboratory predictions, a 2-year clinical trial found that polished 5Y-TZP zirconia crowns did not result in significantly greater enamel wear compared to natural enamel antagonists []. This discrepancy highlights the limitations of in-vitro testing and underscores the importance of surface characteristics over bulk material properties alone. The polishing state of zirconia appears to be a decisive factor, with highly polished surfaces dramatically reducing their abrasiveness against enamel.
+
+In contrast, composite resin materials like those used in RCSCs have a significantly lower hardness (50–80 HV) than enamel. While this lower hardness suggests they are potentially less abrasive to opposing teeth, their inherent susceptibility to wear can lead to unpredictable and uneven wear patterns. The resulting roughness may in fact accelerate wear on the opposing teeth over time [].
+
+Therefore, consensus regarding the superior crown type for minimizing the wear on opposing tooth remains elusive, particularly due to the lack of direct intra-patient comparative studies among PZCs, RCSCs, and natural teeth. The wear narrative for zirconia is complex: its intrinsic wear resistance is exceptionally low, but its effect on opposing enamel cannot be solely attributed to hardness. When optimally polished, its effect approaches that of natural enamel. Emerging materials like the novel bionic gradient zirconia/resin composites [] aim to optimize both wear resistance and biocompatibility to better mimic the natural dentition.
+
+Color
+
+Due to significant variations in the intraoral environment, such as pH and temperature, edges of composite resins may undergo aging and discoloration after prolonged use []. In contrast, zirconia, as a ceramic material, exhibits more stable performance compared to composite resin, with less noticeable color changes. Therefore, both dentists and patients are more satisfied with the color of teeth restored with PZCs compared to RCSCs [,,,].
+
+Sources and interpretation of heterogeneity
+
+Significant heterogeneity (I² = 0.00%) was observed in meta-analyses of secondary caries, crown retention, restoration failure, wear of opposing teeth, gingival bleeding rates, and occurrence of plaque. This indicates heterogeneity in effect sizes across studies rather than the estimation of a single true effect. Several factors may explain this heterogeneity. First, clinical heterogeneity arises from differences in baseline risk of caries among enrolled children, the skills of operators, and the brand of adhesive employed. Second, methodological heterogeneity predominantly stems from variable follow-up durations. Given this high heterogeneity, we used a fixed-effects model. The pooled effect size should be interpreted as an average estimate of effects across varying study contexts, and the interpretation of conclusions requires caution. Future studies should clarify these variations through standardized outcome reporting and detailed subgroup data.
+
+Considerations regarding tooth position
+
+A key finding of this systematic review is the consistent limitation in data reporting across comparative studies of PZCs and RCSCs: all studies pooled data from primary anterior teeth without providing outcomes stratified by specific tooth positions (e.g., central and lateral incisors). Given potential variations in crown morphology, occlusal loading forces, and aesthetic demands across different tooth positions, this data aggregation may obscure clinically relevant differences in crown effectiveness. For instance, smaller mandibular lateral incisors likely present distinct retention challenges compared to maxillary central incisors. Consequently, the results of this meta-analysis should be interpreted as average effects across the ‘primary anterior dentition cohort’. This finding highlights a pivotal direction for future clinical research: Larger-scale trials that report outcomes stratified by tooth position are needed to conduct more precise subgroup analyses, thereby guiding clinicians in selecting optimal restorations.
+
+Publication bias
+
+Publication bias was assessed for outcomes with ≥ 5 included studies, as the power of funnel plots and Egger’s test would be insufficient when the number of studies was small, compromising the reliability of conclusions. A key limitation of this systematic review was the detection of significant publication bias for the crown retention outcome (Egger’s test,= 0.041). The asymmetry of funnel plot strongly suggests that studies with smaller sample sizes or null/negative findings might remain unpublished. Although the trim-and-fill method indicated that the pooled effect size remained stable after imputation, this does not fully eliminate the risks of publication bias. Consequently, we must emphasize that the summarized superiority of crown retention is likely overestimated. Clinicians should interpret this finding cautiously as an upper-bound estimate of the effect. No publication bias was detected for outcomes like secondary caries. For outcomes with < 5 studies, quantitative assessment was unfeasible. This was regarded as a limitation of this study, and the corresponding findings should be interpreted with greater caution. This also highlights the urgent need for more well-designed clinical studies in this field, which can be published regardless of whether the results are positive or negative. The electronic search for this study covered four core databases: PubMed, Embase, Web of Science, and the Cochrane Library. This combination was selected in accordance with methodological guidance from the Cochrane Handbook and other systematic-review standards to achieve maximum coverage of the biomedical literature, particularly RCTs. However, although the grey-literature search of this systematic review covered major clinical-trial registries, it did not comprehensively screen all relevant conference abstract or dissertation databases. Consequently, potential publication bias cannot be ruled out. Although potential sponsorship bias exists, the direction of findings was broadly consistent across studies with different funding sources. Therefore, we consider it unlikely that such bias would alter our primary conclusions regarding the effectiveness of PZCs and RCSCs. Nevertheless, readers should remain cautious when interpreting the results, especially when appraising the benefits of specific branded products.
+
+This study is pioneering in implementing a meta-analysis of the clinical effects of PZCs and RCSCs. No similar studies were conducted before. We performed an extensive search, synthesizing the most comprehensive comparison studies on PZCs and RCSCs. However, this study has some limitations. First, due to the novelty of this research direction, related studies are scarce. Only two studies were included for marginal fit and plaque index, and hence the conclusions on these two indicators need to be validated in further research. Second, publication bias was found in crown retention. Although the trim-and-fill approach proved the stability of the results after correction, the results should still be viewed with caution. Although the grey-literature search of this systematic review covered major clinical-trial registries, it did not capture all relevant conference abstract or dissertation databases. Consequently, potential publication bias cannot be ruled out.4.7 Language Bias.
+
+This search was restricted to English-language publications, which may have introduced language bias, as studies with positive results are more likely to appear in English journals. Although this limitation was imposed for feasibility and resource reasons, it remains a weakness of the present systematic review. Future studies should incorporate additional languages to provide a more comprehensive evidence base.
+
+The above limitations compromise the credibility of this study. Future research should improve on the clinical effects of PZCs and RCSCs and how to balance the functional, aesthetic, and gingival health needs of restorations. Current evidence suggests that marginal fit, adhesive toxicity, and operational techniques are key influencing factors, but more high-quality studies are necessitated to investigate individual differences and long-term follow-up [].
+
+Strength of evidence, limitations, and RoB assessment
+
+The RoB assessment for studies included in this systematic review reveals a generally high RoB in the domain of blinding (blinding of participants and operators) due to the inherent nature of the interventions, which may affect the assessment of subjective outcomes (such as patients’ satisfaction). However, in key domains such as generation of random sequence and allocation concealment, most studies were rated as low risk. This finding may reduce the likelihood of selection bias. Importantly, sensitivity analyses conducted for objective primary outcomes (e.g., success rates of restoration) indicate that our main conclusions remain fundamentally unchanged after excluding studies with high RoB. Nevertheless, the findings should be interpreted with caution, and this methodological limitation should be noted. Future clinical trials should improve and report the blinding of outcome assessors.When interpreting the findings of this research, the RoB within the included studies must be taken into account. The primary limitation stems from high risk of performance and detection bias across most studies, as blinding clinicians and patients was technically unfeasible. This may lead to an overestimation of effect sizes for outcomes that rely heavily on subjective judgement. Even when only studies with the most rigorous methodology (low risk of randomisation and allocation-concealment bias) were included, the result remained statistically significant, although the effect size was attenuated. This demonstrates that our findings are robust. Therefore, while readers should remain cautious regarding subjectively assessed outcomes, the evidence presented in this research strongly indicates that PZCs outperform RCSCs in terms of secondary caries, crown retention, success rates of restoration, marginal fit, and plaque accumulation. Conversely, they exhibited greater wear of opposing teeth. Future research should employ more rigorous designs to validate these findings.
+
+Clinical considerations and future directions
+
+Beyond the direct clinical outcomes reported, several practical factors must be considered when choosing between PZCs and RCSCs in paediatric dentistry. First, the substantially higher cost of PZCs must be balanced against their potentially longer lifespan and lower failure rates. Second, significant variations in the availability of PZCs and required technical resources exist between private practices and public health systems, impacting their accessibility. Third, adjusting and cementing PZCs demand greater clinical expertise, whereas the technical proficiency required for the application of RCSCs is comparatively lower. Consequently, clinicians should inform crown selection by specific clinical contexts and integrate practical considerations such as cost, availability, operator experience, the cooperation of chidren, and the needs of individual patient.
+
+Conclusion
+
+Current evidence reveals that PZCs and RCSCs demonstrate complementary performance profiles. PZCs exhibit superior intrinsic restoration properties and durability, whereas RCSCs offer improved biomechanical compatibility toward opposing teeth. Therefore, clinical decision-making should extend beyond isolated parameters to incorporate comprehensive evaluation of individual patient factors. For children with high risk of caries, patients requiring long-term maintenance, or cases demanding exceptional esthetics, PZCs present more pronounced advantages. Future research should focus on surface modification techniques for PZCs to reduce wear on opposing teeth while preserving their core strengths.
+
+Supplementary Information
+
+Supplementary Material 1: Appendix 1 Search strategies.
+
+Supplementary Material 2
+
+Supplementary Material 3: Appendix 2 List of studies excluded after full-text assessment with reasons.
+
+Supplementary Material 4: Appendix 4 Sensitivity Analysis.
+
+Supplementary Material 5: Appendix 3 Galbraith plot.

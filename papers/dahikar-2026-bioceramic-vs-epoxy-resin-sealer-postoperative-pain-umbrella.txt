@@ -1,0 +1,146 @@
+Evidence synthesis of postoperative pain with bioceramic vs. epoxy resin sealers: umbrella review of randomized trials within existing systematic reviews
+
+Dahikar M, Mandwe A, Banga KS, Maniangat Luke A, Arora S, Khanvilkar U, Pawar AM.
+Frontiers in Dental Medicine, 2026;6:1749298. doi: 10.3389/fdmed.2025.1749298
+PMID: 41659194  PMCID: PMC12880009
+PROSPERO: CRD42023461029
+Source: PubMed Central full text (retrieved via PubMed MCP get_full_text_article)
+Note: source XML extraction dropped some inline statistical symbols (e.g., I-squared heterogeneity statistic rendered as "the statistic", "k" study-count symbol rendered as "< 10"/"< 10"). Numeric results below (SMD/RR/CI/percentages) are intact; narrative wording around symbols is preserved as extracted.
+
+===== ABSTRACT =====
+
+Objective
+The evidence on postoperative pain and clinical outcomes in patients receiving primary non-surgical root canal therapy with bioceramic vs. resin-based sealers was compiled in this comprehensive review from systematic reviews and meta-analyses.
+
+Methods
+The review followed PRISMA 2020 guidelines and was registered in PROSPERO (CRD42023461029). Systematic reviews included randomized or quasi-randomized trials of adult patients having treatment with either sealer type for postoperative pain, and used validated scales. Screening, data extraction, and quality assessment by AMSTAR-2 were completed independently by two reviewers and review overlap was measured with the Corrected Covered Area (CCA). Where feasible, random-effects meta-analyses were conducted to estimate standardized mean differences (SMD) in pain at 24 and 48 h. Heterogeneity was measured using the I-squared statistic and certainty of evidence with GRADE.
+
+Results
+Seven reviews (2020-2024) met eligibility, five with quantitative synthesis. Pooled analyses showed no significant differences in pain between sealer types within the first 6-48 h. Detected differences were small and clinically negligible. Both sealers showed similar analgesic use and flare-up rates. Methodological quality ranged from moderate to low; certainty of evidence for early pain was moderate and low for pain at >48 h due to study inconsistency and imprecision.
+
+Conclusions
+Bioceramic sealers offer only a minimal, clinically insignificant reduction in early postoperative pain compared to resin-based sealers. Both nevertheless remain suitable options for reducing patient discomfort. Future studies should standardize pain evaluation, include retreatment cases, and explain clinically significant findings.
+
+===== 1. INTRODUCTION =====
+
+Even though endodontics achieved a lot of innovation in both technology and methods, post-operative pain continues to be one of the most prevalent and most difficult complications of root canal treatment. The use of rotary and reciprocating instruments, activated irrigation and thermoplastic obturation greatly improved the clinical outcomes; still, many patients complain of pain during the initial healing phase. The reported occurrence of post-operative pain following non-surgical root canal treatment (NSRCT) is known to vary from 2.5% to 60%; reported estimates suggest that almost 40% of patients will experience some pain within the first 24 h of treatment, and nearly 10% will remain symptomatic after one week. Persistent post-operative discomfort represents both a clinical challenge and a patient-related issue, affecting satisfaction, acceptance of treatment, and overall perceived quality of care.
+
+There are multifactorial reasons for post-operative pain encompassing mechanical, microbial, and chemical events. The biological interaction of root canal sealers with periapical tissue has received particular attention in the literature, and sealer extrusion and/or irritation may elicit a short-lived inflammatory response, establishing pain and irritation to periradicular tissue. Chemical irritants, cytotoxicity, ion release, and interactions of the cement with dentin are important contributors to the extent and duration of post-treatment inflammation.
+
+Historically, epoxy resin-based sealers such as AH Plus and ADseal have been considered the gold standard due to their favorable sealing capacity, low solubility, and dimensional stability. However, their composition -- based on bisphenol-A epoxy resins and amine hardeners -- has raised biocompatibility concerns. The release of unpolymerized monomers and trace formaldehyde during polymerization may provoke periapical cytotoxic effects and local inflammatory reactions. To overcome these limitations, calcium silicate-based or hydraulic bioceramic sealers were introduced as bioactive alternatives. Bioceramic sealers like EndoSequence BC and iRoot SP have high biocompatibility due to their alkaline pH and continuous release of calcium and silicate ions, and they promote the formation of hydroxyapatite. Recently, scientists have been studying these bioceramic sealers at a cellular and tissue level. Inada et al. performed a dentin-tube experiment and showed that a ready-made bioceramic sealer exhibited better bioactivity, porosity, and interfacial adaptation compared to epoxy resin-based sealers, all while showing excellent biocompatibility. Similarly, Shokrzadeh et al. showed the bioceramic sealer had improved mineralization potential and less cytotoxicity to gingival fibroblasts compared to AH Plus. While laboratory studies have consistently shown bioceramic sealers showing superior bioactivity than AH Plus, it is important to note that clinical evidence has not consistently shown that this translates into reduced postoperative pain or periapical inflammation.
+
+Numerous randomized controlled trials and systematic reviews have compared bioceramic and resin-based sealers in terms of postoperative pain, but the conclusions were contradictory. Some clinical trials noted temporary reduction in early pain after using bioceramic sealers, however, most meta-analyses found there were no clinically meaningful differences. Even when there are statistically significant differences, the standardized mean differences (SMDs) reported for pain response in these reviews (approximately -0.15 to -0.25) were not of clinically meaningful superiority. These differences in findings could have arisen due to several methodological differences such as pulp status, study treatment protocols (single vs. multiple visits), irrigation and obturation techniques and methods of pain response assessment. Further, previous meta-analyses have employed different inclusion criteria and statistics, often from overlapping studies, adding to the complexity in the interpretation of these trials.
+
+Due to this variability, there has been an emerging emphasis on higher order evidence synthesis to improve understanding. Umbrella reviews, a systematic review of systematic reviews, provide a broad approach that accounts for overlapping meta-analytic data, quantifies redundancy and assesses quality using tools like AMSTAR-2. Umbrella reviews are specifically useful in endodontics where multiple reviews repeatedly examine the same questions or sub-questions but have minor inconsistencies in eligibility criteria or statistics.
+
+The present ambiguity surrounding the effect of sealer type on postoperative pain does not result from a dearth of research. Rather, the literature is inconsistent, conflicting, and fragmented. Although we have several systematic reviews on the topic, differences in confidence levels and methods for conducting analyses have not resulted in a conclusion. Therefore, clinicians are faced with a large body of literature that is ambiguous and does not offer clear clinical advice about advantageous postoperative outcomes of bioceramic over resin-based sealers in primary NSRCT.
+
+Accordingly, the purpose of this umbrella review is to critically appraise and synthesize the best available evidence comparing bioceramic and resin-based sealers in primary NSRCT. By considering overlap, methodological quality, and whether there is a certainty of findings in systematic reviews and meta-analyses, this umbrella review aims to clarify the ambiguity that exists and provide clinicians with sound, reliable evidence for sealer selection in endodontics with respect to patient-centered postoperative pain.
+
+===== 2. METHODOLOGY =====
+
+2.1 Protocol and reporting
+This comprehensive review complied with the Cochrane Handbook for Systematic Reviews of Interventions' methodological guidelines and the PRISMA 2020 statement. The Joanna Briggs Institute (JBI) Reviewer's Manual for umbrella reviews served as additional guidance for the methodology. PROSPERO registration ID: CRD42023461029.
+
+2.2 Eligibility criteria (PICOS)
+- Population: patients undergoing non-surgical root canal treatment of permanent teeth, irrespective of age, sex, or pulp status, as reported in the included reviews.
+- Intervention: root canal obturation using bioceramic (calcium silicate-based) sealers -- EndoSequence BC, iRoot SP, TotalFill BC, Endoseal MTA, and others.
+- Comparator: root canal obturation using resin-based sealers, predominantly epoxy resin-based formulations such as AH Plus.
+- Outcomes: primary -- postoperative pain intensity at 24 h and 48 h using validated pain scales (e.g., VAS); secondary -- pain beyond 48 h, analgesic consumption, flare-up incidence.
+- Study design: systematic reviews and meta-analyses of RCTs evaluating postoperative pain outcomes following root canal treatment.
+
+Systematic reviews and meta-analyses were eligible if they included RCTs, quasi-RCTs, or controlled clinical trials comparing bioceramic (hydraulic calcium silicate-based) sealers with epoxy resin-based sealers in adult patients undergoing primary, single-visit NSRCT. Eligible reviews were required to report postoperative pain as a primary or secondary outcome, measured using validated scales (VAS/NRS) or dichotomous outcomes (presence/absence of pain, analgesic intake, flare-up incidence). Only peer-reviewed English-language articles were included. Narrative reviews, case reports, animal studies, and reviews lacking comparative clinical data were excluded.
+
+2.3 Information sources and search strategy
+Search combined MeSH terms and free-text keywords for endodontic obturation, bioceramic sealers, resin-based sealers, and postoperative pain, across PubMed/MEDLINE, Scopus, Embase, Cochrane Library, Web of Science, LILACS and Google Scholar, plus grey literature (OpenGrey, SIGLE, OpenThesis). Search window: January 2000 - November 2024.
+
+2.4 Study selection
+Titles, abstracts, and full texts were independently screened by two reviewers; disagreements resolved by consensus or third-party adjudication. Duplicates and overlapping datasets carefully managed for unique study inclusion.
+
+2.5 Data extraction
+Standardized extraction form, independently verified: study characteristics (author, year, country, databases), number/design of primary studies, sample size, sealer type, outcome measures, follow-up time points, reported outcomes. Quantitative estimates (point estimates, RR, CI, heterogeneity statistics) organized into structured evidence tables.
+
+2.6 Quality appraisal
+Methodological quality of included reviews assessed independently with AMSTAR-2. Risk-of-bias assessments from individual reviews (Cochrane RoB-2 for RCTs, ROBINS-I for non-RCTs, or JBI tools) extracted and factored into interpretation. Reviews classified as high, moderate, low, or critically low quality.
+
+2.7 Data synthesis and statistical analysis
+Narrative synthesis summarized direction/consistency of findings. Where outcome data allowed, extracted RCT-level data were used in random-effects meta-analyses (DerSimonian-Laird) to compute pooled standardized mean differences (SMDs) with 95% CI for continuous outcomes (pain scores at 24 h, 48 h), each primary trial contributing only once per outcome/time point. SMDs standardized pain outcomes across different tools (VAS 100mm, NRS); negative SMD = bioceramic sealer had less pain than comparator. Pooled risk ratios (RRs) computed for binary outcomes (analgesic intake, flare-ups). Heterogeneity quantified with I-squared: low (<25%), moderate (25-75%), high (>75%). Small-study-bias tests not performed when k<10 per endpoint (qualitative funnel-plot frames used instead). Sensitivity analyses used alternate estimators (REML, Paule-Mandel) and Knapp-Hartung adjustments. Software: RevMan 5.4.1, Stata v16, R (meta package).
+
+2.8 Certainty of evidence
+GRADE framework applied per outcome, considering risk of bias, inconsistency, indirectness, imprecision, publication bias; each outcome rated high/moderate/low/very low certainty.
+
+2.9 Appraisal of review quality (AMSTAR-2)
+Domain-level AMSTAR-2 judgments per review, with an overall confidence rating per the critical-domain rules.
+
+===== 3. RESULTS =====
+
+3.1 Selection of studies
+569 records identified across eight databases and three grey-literature repositories. After removing 145 duplicates, 424 records screened by title/abstract; 257 excluded (not a SR/MA n=141; did not compare bioceramic vs. epoxy resin sealers n=63; animal/lab-based studies n=29; pediatric/retreatment populations n=14; conference abstracts/editorials/narrative reviews n=10). 75 full-text reports sought, 49 not retrieved, 26 assessed for eligibility, 19 excluded (lacking comparison group or improper outcome measures). Seven systematic reviews included; five with meta-analysis, one qualitative synthesis only (per narrative text: "seven had sufficient information to be included in the synthesis. Five of the reviews reported meta-analyses and one described qualitative synthesis only").
+
+3.2 Characteristics of included reviews
+Seven included SRs published 2020-2024, from Iran, Italy, India, Brazil, and Turkey, collectively analyzing 63 unique RCTs (some reviews included non-RCTs). Sample sizes 120 to >1,000 participants; follow-up intervals 24 h, 48 h, 7 days. Comparator sealers were predominantly AH Plus (resin) vs. EndoSequence BC, iRoot SP, Endoseal MTA, TotalFill (bioceramic). Outcomes: incidence/intensity of postoperative pain, analgesic use, flare-up rates.
+
+Included reviews (author, year, country, PROSPERO, N primary studies, quality tool, MA conducted, main conclusion):
+- Jamali et al. (Iran, no PROSPERO, 4 RCTs, Cochrane RoB-2, MA yes, Stata v16): no difference between resin-based and bioceramic sealers at 24-48h.
+- Mekhdieva et al. (Italy, PROSPERO yes, 9 RCTs, Cochrane RoB-2, MA yes, RevMan 5.4.1): bioceramic sealers showed significantly lower short-term pain and reduced analgesic use.
+- Sowmya (India, no PROSPERO, 6 RCTs, Cochrane RoB-2, MA no): no significant difference; more robust RCTs needed.
+- Sponchiado Junior et al. (Brazil, PROSPERO yes, 9 RCTs, JBI tool + GRADE, MA yes, RevMan 5.3): no difference in risk or intensity of postoperative pain; moderate certainty evidence.
+- Eren et al. (Turkey, PROSPERO yes, 8 RCTs + 3 non-RCTs, Cochrane RoB-2 + ROBINS-I, MA yes, Stata/MP 14.1): resin-based sealers do not increase incidence or intensity compared to other sealers.
+- Monteiro et al. (Brazil, PROSPERO yes, 15 RCTs, Cochrane RoB-2 + GRADE, network meta-analysis yes, R geMTC v3.4.2): no significant differences among sealers; evidence graded low to moderate.
+- Supare et al. (India, PROSPERO yes, 9 RCTs, Cochrane RoB-2, MA yes, RevMan 5.4): no significant differences in pain or analgesic use between sealer types.
+
+3.3 Evidence overlap
+Corrected Covered Area (CCA) analysis: moderate overlap (~12%) across included reviews (per-review CCA: Jamali 2020 10%, Mekhdieva 2021 15%, Sowmya 2021 12%, Sponchiado 2021 13%, Eren 2022 9%, Monteiro 2022 11%, Supare 2024 12%; mean ~11.7%). Moderate overlap indicates each SR added largely independent data, strengthening the umbrella synthesis.
+
+3.4 Quality of review methodology (AMSTAR-2)
+Four reviews rated moderate methodological quality, one rated high quality, one rated high risk of bias (no explicit reference to study selection/extraction process). Common strengths: complete literature searches, duplicate data extraction. Key weaknesses: inconsistent reporting of excluded studies, insufficient/no assessment of publication bias.
+
+3.5 Narrative synthesis of review findings
+Four reviews found no difference in postoperative pain between resin-based and bioceramic sealers. Two reviews noted a trend toward less pain with bioceramic sealers when measured close to the intervention (24-48h). No reviews found differences in analgesic consumption or flare-up incidence between sealer types.
+
+3.5.1 Pain intensity at 24h: pooled analysis of five RCTs -- SMD = -0.15 (95% CI -0.28 to -0.03, p<0.05); negligible heterogeneity (I-squared = 0%). Forest plot studies: Fonseca 2019, Ates 2019, Ates 2019 Vital, Yu 2020, Graunaite 2018, Supare 2024.
+
+3.5.2 Pain intensity at 48h: pooled analysis of four RCTs -- SMD = -0.29 (95% CI -0.42 to -0.16, p<0.001); small heterogeneity (I-squared = 0%). Forest plot studies: Fonseca 2019, Ates 2019, Ates 2019 Vital, Supare 2024.
+
+3.5.3 Analgesic use and flare-ups: pooled RR = 0.92 (95% CI 0.76-1.12) [note: figure caption elsewhere in the same section states pooled estimate 0.93, CI 0.82-1.04 -- both values as extracted from source] -- no significant difference between sealers. Forest plot studies: Fonseca, Ates, Graunaite, Yu, Tan, Supare.
+
+3.6 Certainty of evidence (GRADE)
+Summary table of pooled outcomes:
+- Postoperative pain at 6h: reviews Sponchiado 2021, Mekhdieva 2021, Monteiro 2022, Supare 2024; SMD = -0.12 (-0.38 to 0.14); slightly favours bioceramic (BC); certainty low (⚪⚪).
+- Postoperative pain at 24h: reviews Mekhdieva 2021, Monteiro 2022, Eren 2022, Supare 2024; SMD = -0.15 (-0.29 to -0.01); favors BC; certainty moderate (⚪⚪⚪).
+- Postoperative pain at 48h: reviews Sponchiado 2021, Monteiro 2022, Supare 2024; SMD = -0.29 (-0.51 to -0.08); favors BC; certainty moderate (⚪⚪⚪).
+- Pain at 72h or 7 days: reviews Mekhdieva 2021, Monteiro 2022, Supare 2024; SMD = -0.03 (-0.16 to 0.10); no difference; certainty moderate (⚪⚪⚪).
+- Analgesic consumption (24h): reviews Sponchiado 2021, Monteiro 2022, Supare 2024; RR = 0.91 (0.78-1.06); no difference; certainty low (⚪⚪).
+- Flare-up incidence: reviews Mekhdieva 2021, Eren 2022, Supare 2024; RR = 0.97 (0.74-1.26); no difference; certainty low (⚪⚪).
+
+Certainty rated moderate/low based on GRADE due to methodological limitations of contributing trials, clinical/methodological heterogeneity, and imprecision (CIs crossing the null in several outcomes). No outcome reached high certainty, emphasizing need for larger, more uniform RCTs. Overall pattern: moderate certainty for short-term effects (24-48h), limited confidence for longer-term/secondary outcomes.
+
+3.7 Small-study effects and robustness
+k<10 per endpoint precluded formal funnel-plot asymmetry (Egger) testing; conventional funnel frames used instead. Robustness checks: REML vs. Paule-Mandel estimators for continuous outcomes, different continuity-correction methods for rare events, Peto sensitivity for the binary endpoint, and removal of critically-low-AMSTAR-2 reviews -- none changed conclusions.
+
+3.8 Meta-regression analysis
+Moderators tested: treatment visit protocol (single vs. multiple visits), pulp status (vital vs. non-vital), pain-assessment scale (VAS vs. others), at 24h, 48h, and composite average. No statistically significant moderation effects for any variable at either time point or composite (all p>0.3); 95% CIs for moderator coefficients contained zero. Sealer-type pain difference not meaningfully influenced by visit protocol, pulp status, or pain scale.
+
+===== 4. DISCUSSION =====
+
+Even with advances in instrumentation, irrigation, and obturation technologies, postoperative pain remains a pressing clinical issue; a good number of patients report pain in the first 24-48h after root canal treatment. Pain intensity directly shapes patient satisfaction and perceived treatment success.
+
+This umbrella review is presented as the first comprehensive synthesis of SRs/MAs specifically comparing bioceramic (BC) vs. epoxy resin-based (ER) sealers in primary NSRCT, examining seven SRs (five with quantitative analyses) plus a de novo pooled meta-analysis. Primary conclusion: BC sealers may provide a small, short-term (first 48h) reduction in postoperative pain, but the effect is fleeting, small, and unlikely to be clinically meaningful beyond 48h.
+
+This is consistent with recent literature: Sponchiado Junior et al. found no difference in pain incidence or intensity (moderate-quality evidence, 9 RCTs). Mekhdieva et al. noted lower pain scores at 24h with BC sealers (SMD = -0.20) but concluded the reduction was not clinically meaningful. Supare et al. similarly found no significant differences in analgesic use or flare-up rates, reinforcing that any BC benefit is minimal and short-lived.
+
+Biological rationale: BC sealers release calcium/hydroxyl ions on hydration, creating an alkaline environment that may transiently modulate periapical inflammation, neutralize bacterial by-products, and stimulate surface hydroxyapatite deposition -- plausible mechanism for the small early-pain reduction. ER sealers (e.g., AH Plus) may release small quantities of unpolymerized monomers/trace formaldehyde during setting, potentially irritating periapical tissue briefly. However, once set, both sealer types become relatively inert; extruded material is generally contained by fibrous tissue, and inflammation/pain resolves within days regardless of sealer type (consistent with Graunaite et al. and Fonseca et al.).
+
+Other umbrella-level syntheses of postoperative-pain factors in endodontics report similarly modest/absent effects for procedural variables -- e.g., Abraham et al. found file kinematics (rotary vs. reciprocating) did not alter postoperative discomfort -- reinforcing that postoperative pain is multifactorial and no single factor (including sealer type) dominates.
+
+Clinical implication: sealer choice should not be driven primarily by anticipated postoperative discomfort. BC sealers may be preferred for material attributes (handling, sealing, flowability, biocompatibility, radiopacity) and in biologically demanding situations (vital pulp therapy, immature apices, single-visit treatment) due to favorable tissue compatibility. ER sealers remain dependable, especially for retreatment cases prioritizing retrievability and dimensional stability. Clinicians concerned about postoperative pain should instead focus on procedural factors with greater influence: apical patency, avoiding over-instrumentation, irrigation protocol, working-length confirmation, and a well-sealed coronal restoration.
+
+Strengths: methodological rigor (CCA overlap quantification ~12%, AMSTAR-2 + GRADE frameworks). Overall evidence certainty moderate for short-term pain, low for pain ≥48h. Most reported heterogeneity was methodological (inclusion criteria differences, pulpal status, single- vs. multi-visit, assessment intervals) rather than true clinical variability.
+
+Limitations: English-language restriction (possible language bias); findings inherit any bias present in the included reviews; heterogeneous pain-assessment methods across scale/timing/analgesic reporting complicate direct comparison; retreatment and multi-visit cases underrepresented; most primary RCTs had short follow-up (≤7 days), precluding assessment of long-term outcomes (periapical healing, persistent inflammation).
+
+Future research directions: standardized protocols and clinically meaningful outcomes; validated time-restricted pain assessment (e.g., 100mm VAS) at 6h, 24h, 48h, 7 days with baseline pain/analgesic use accounted for; adequately powered multicenter RCTs with uniform obturation/irrigation protocols; PRISMA 2020 compliance, PROSPERO pre-registration, publication-bias consideration; patient-reported outcome measures (PROMs) and quality-of-life indices; mechanistic studies of inflammatory biomarkers (IL-6, TNF-alpha, substance P); longer-term trials assessing periapical healing, radiographic bone density, and retreatability of BC vs. ER sealers.
+
+===== 5. CONCLUSION =====
+
+Bioceramic sealers are slightly less likely than resin-based sealers to cause postoperative pain in the first 48h, but the differences are slight, short-lived, and only moderately certain. Beyond this window there are no meaningful differences in flare-up rates, analgesic use, or pain. Sealer type is just one of several factors influencing postoperative pain, and clinical decisions should reflect realistic expectations and subtle clinical judgement rather than pain avoidance alone.

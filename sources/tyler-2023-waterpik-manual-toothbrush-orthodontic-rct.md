@@ -17,13 +17,21 @@ text_filename: tyler-2023-waterpik-manual-toothbrush-orthodontic-rct.txt
 
 A brand-named device (Waterpik) RCT added to manual toothbrushing in fixed-appliance orthodontic patients, with a 56-week follow-up that found **no benefit** for any oral-hygiene index — a long-follow-up counterweight to the short-term marketing claim that a Waterpik with an orthodontic tip improves plaque control. It pairs directly with [[wiki/interdental-cleaning/yiamwattana-2025-oral-irrigator-vs-floss-orthodontic-sr-ma]] (oral irrigator NOT superior to floss in fixed-appliance orthodontics): both point to no demonstrated superiority for water-flossing in this population, and Tyler is one of the few trials testing the irrigator as an *adjunct to* (not a replacement for) a manual toothbrush over a long course of treatment.
 
-## One-line Summary
+## Three-line Summary
 
 Single-centre two-arm parallel single-blind RCT (n=40, ages 10-20, upper+lower fixed appliances, 56-week follow-up): adding a Waterpik to a manual toothbrush produced NO statistically significant difference in plaque, gingival, or interdental-bleeding indices vs manual toothbrush alone — trial stopped at interim analysis, no evidence of benefit.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 단일기관 2군 평행 단일맹검 RCT (n=40, 10-20세, 상하악 고정성 교정장치, 56주 추적): 수동칫솔에 워터픽(Waterpik)을 추가해도 치면세균막·치은·치간출혈 지수 모두 수동칫솔 단독 대비 유의차 없음 — 중간분석에서 조기종료, 워터픽 부가 이점 근거 없음.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

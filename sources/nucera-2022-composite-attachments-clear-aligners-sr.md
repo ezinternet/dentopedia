@@ -17,13 +17,21 @@ text_filename: nucera-2022-composite-attachments-clear-aligners-sr.txt
 
 `clear-aligner` 예측가능성 축의 **기전 노드**: attachment가 어떤 이동의 발현(force/anchorage)을 개선하는지 정리. distalization([[wiki/orthodontics/clear-aligner/inchingolo-2023-clear-aligner-distalization-predictability-sr]])·trimline([[wiki/orthodontics/clear-aligner/nakornnoi-2024-aligner-trimline-biomechanics-tooth-movement-sr]])과 함께 "예측성 결정인자" 삼각을 구성. PMC OA 전문.
 
-## One-line Summary
+## Three-line Summary
 
-SR (5 clinical trials, medium RoB): composite attachments mostly increase aligner treatment effectiveness — improving anterior root torque, rotation, mesio-distal movement, and posterior anchorage; evidence for intrusion is weaker and lacking for extrusion and posterior expansion.
+SR (5 clinical trials, medium RoB): composite attachments mostly increase aligner treatment effectiveness — improving anterior root torque, rotation, mesio-distal movement, and posterior anchorage;
 
-## 한줄요약
+evidence for intrusion is weaker and lacking for extrusion and posterior expansion.
 
-SR(임상 5편, medium RoB): 컴포지트 attachment는 대체로 교정 효과를 높임 — 전치부 root torque·rotation·근원심 이동·후방 앵커리지 개선. 정출(intrusion) 근거는 약하고, 함입/후방 확장 근거는 부족.
+(incomplete)
+
+## 세줄요약
+
+SR(임상 5편, medium RoB): 컴포지트 attachment는 대체로 교정 효과를 높임 — 전치부 root torque·rotation·근원심 이동·후방 앵커리지 개선.
+
+정출(intrusion) 근거는 약하고, 함입/후방 확장 근거는 부족.
+
+(incomplete)
 
 ## 1. Document Information
 

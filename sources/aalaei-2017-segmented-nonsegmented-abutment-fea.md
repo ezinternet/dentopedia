@@ -11,15 +11,23 @@ source_collection: external
 
 ## Why Ingested
 
-세그먼트형(분리형) 어버트먼트와 비세그먼트형(일체형) 어버트먼트가 나사 유지형 보철물의 골 응력 분포에 미치는 영향을 FEA로 비교한 드문 연구. 기존 [[prosthetic-materials/velez-2020-implant-connection-abutment-design-screw]]가 임플란트 연결부·어버트먼트 디자인 일반론을 다루지만, 분절형 vs 비분절형 나사 어버트먼트 간 골 응력 차이를 직접 정량화한 데이터는 없어 보강 근거로 활용.
+세그먼트형(분리형) 어버트먼트와 비세그먼트형(일체형) 어버트먼트가 나사 유지형 보철물의 골 응력 분포에 미치는 영향을 FEA로 비교한 드문 연구. 기존 [[prosthetic-materials/abutment-screw/velez-2020-implant-connection-abutment-design-screw]]가 임플란트 연결부·어버트먼트 디자인 일반론을 다루지만, 분절형 vs 비분절형 나사 어버트먼트 간 골 응력 차이를 직접 정량화한 데이터는 없어 보강 근거로 활용.
 
-## One-line Summary
+## Three-line Summary
 
-3D FEA study (Straumann 4.1×10 mm, mandibular molar): segmented abutment reduced peri-implant bone stress (31 vs 126 MPa at 45° angular load) but increased abutment screw stress (430 vs 375 MPa) compared to non-segmented abutment.
+3D FEA in vitro study (CT-based mandibular molar model, Straumann 4.1×10 mm, 100 N axial and 45° oblique loads) comparing segmented vs non-segmented screw-retained abutments.
 
-## 한줄요약
+Segmented abutment reduced peri-implant bone stress 4-fold under angular load (31 vs 126 MPa) and micro-strain (2,400 vs 9,400 μɛ), but increased abutment screw stress (430 vs 375 MPa).
 
-3D 유한요소분석: 세그먼트형 어버트먼트는 각도 하중 시 골 응력을 대폭 감소(31 vs 126 MPa)시키지만 어버트먼트 나사 응력은 다소 증가(430 vs 375 MPa)시킨다.
+Segmented abutment design protects crestal bone under off-axis loading at the cost of higher screw stress — clinical outcome data are needed to validate these FEA predictions.
+
+## 세줄요약
+
+3D 유한요소분석 (CT 기반 하악 제1대구치 모델; Straumann 4.1×10 mm; 수직/45° 각도 100 N 하중; ANSYS) — 나사 유지형 보철물의 세그먼트형 vs 비세그먼트형 어버트먼트 골 응력 비교.
+
+세그먼트형 어버트먼트는 45° 각도 하중 시 골 응력을 대폭 감소(31 vs 126 MPa; 미변형률 2,400 vs 9,400 μɛ)시키지만 어버트먼트 나사 응력은 다소 증가(430 vs 375 MPa).
+
+일상적 비축 하중에서 치조정골 보호에는 세그먼트형이 유리하나 나사 풀림 위험은 상충 — 임상 결과 데이터로 FEA 예측 검증 필요.
 
 ## 1. Document Information
 

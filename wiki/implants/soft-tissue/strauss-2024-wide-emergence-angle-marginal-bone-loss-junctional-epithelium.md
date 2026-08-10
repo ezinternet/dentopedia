@@ -6,7 +6,7 @@ date: 2024-10-09
 doi: 10.1111/jcpe.14070
 source: strauss-2024-wide-emergence-angle-marginal-bone-loss-junctional-epithelium.md
 category: implants/soft-tissue
-confidence: animal
+evidence_level: animal
 source_collection: pubmed-text
 full_text: true
 pmid: "39385502"
@@ -24,13 +24,21 @@ relations:
     target: tavelli-2025-soft-tissue-dehiscences-implant-sites-ao-aap
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Preclinical RCT (6 mongrel dogs, 48 implant sites, 4 emergence-angle groups 20/40/60/80°, 24 wk): wider restorative emergence angle progressively increased marginal bone loss (24-wk MBL ~4× higher at 80° vs 20°) and ≥60° angles impaired junctional-epithelium continuity, supporting keeping the angle <40°.
+Preclinical RCT in 6 mongrel dogs (48 implant sites; emergence angles 20°/40°/60°/80°; 24-week follow-up) testing the effect of restorative emergence angle on peri-implant hard and soft tissue.
 
-## 한줄요약
+MBL increased dose-dependently with angle (24-wk MBL: 0.07 → 0.11 → 0.23 → 0.38 mm at 20°/40°/60°/80°, ~4× higher at 80° vs 20°); ≥60° angles histologically disrupted junctional-epithelium continuity and disorganized supracrestal connective tissue.
 
-전임상 RCT (개 6마리, 임플란트 48부위, emergence angle 20/40/60/80° 4군, 24주): 보철 emergence angle이 넓을수록 변연골소실(MBL)이 단계적으로 증가했고(80°군 24주 MBL이 20°군의 약 4배), 60° 이상 광각은 접합상피(junctional epithelium) 연속성을 손상시켜 — 각도를 40° 미만으로 유지할 것을 뒷받침.
+These findings provide a mechanistic rationale to keep the restorative emergence angle as narrow as clinically possible (<40°); study is preclinical, unloaded, and small-scale.
+
+## 세줄요약
+
+개 6마리(임플란트 48부위, emergence angle 20/40/60/80° 4군, 24주) 전임상 RCT — 보철 emergence angle이 임플란트 경·연조직에 미치는 영향 평가.
+
+MBL은 각도에 비례해 단계적으로 증가(24주 MBL: 20°=0.07 mm → 80°=0.38 mm, 약 4배); 60° 이상에서 조직학적으로 접합상피(junctional epithelium) 연속성 파괴 및 상부치조 결합조직 무질서화 확인.
+
+보철 emergence angle을 임상적으로 가능한 한 좁게(<40°) 유지해야 하는 기전적 근거 제공 — 단, 전임상·미교합 하중·소규모의 한계.
 
 ## Summary
 

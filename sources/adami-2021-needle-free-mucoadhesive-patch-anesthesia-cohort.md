@@ -13,13 +13,21 @@ source_collection: external
 
 Prospective clinical evidence for a needle-free mucoadhesive patch (lidocaine + prilocaine) that can replace infiltrative anesthesia in medium-complexity procedures — directly addresses the needle-phobia population (59% here) and the injection-pain problem that conventional agent-selection pages don't solve. Extends the injection-pain-minimization discussion in [[wiki/drug/zhou-2023-pregnancy-physiology-oral-local-anesthesia-review]] (which flags emerging needle-free formulations as promising-but-understudied) with actual clinical-cohort data.
 
-## One-line Summary
+## Three-line Summary
 
-Prospective one-arm open clinical cohort (USP Ribeirão Preto, n=58 adults, 65% women, mean age 50.7y): a tri-layered mucoadhesive patch delivering lidocaine + prilocaine HCl (1:1, 30 mg/patch) gave needle-free anesthesia in medium-complexity dental procedures, completing 90% of cases without any injection; mean onset ~13.2 min, effect 50–90 min, no side effects at 2 h or 6-month follow-up; 59% of subjects were needle-phobic/anxious (82% of them women).
+Prospective one-arm open clinical cohort (Braz Oral Res 2021; USP Ribeirão Preto, Brazil; n=58 adults, 65% women, mean age 50.7 y; ReBEC RBR-2jnmv8) evaluating a tri-layered mucoadhesive patch (lidocaine + prilocaine HCl 1:1, 30 mg) as primary needle-free anesthesia for medium-complexity dental procedures; 59% of subjects had needle phobia or anxiety.
 
-## 한줄요약
+90% of cases were completed with the patch alone (no injection needed); mean onset was 13.2 ± 6.3 min; effective anesthesia duration was 50–90 min; 10% required supplemental mepivacaine (all maxillary, all needle-phobic/anxious); no side effects at 2 h or 6-month follow-up.
 
-전향적 단일군 개방형 임상 코호트 (USP 히베이라웅프레투, n=58 성인, 여성 65%, 평균 50.7세): 리도카인 + 프릴로카인 HCl(1:1, 30 mg/패치) 3층 점막부착 패치가 중등도 복잡도 치과 처치에서 무침 마취 제공, 90% 케이스를 주사 없이 완료; 평균 발현 ~13.2분, 작용 50–90분, 2시간·6개월 추적 부작용 없음; 대상자 59%가 주사공포/불안(그중 82%가 여성).
+This tri-layer patch can replace infiltrative injection for medium-complexity procedures in the majority of patients — particularly beneficial for needle-phobic populations, though lack of a comparator arm limits efficacy quantification; mandibular cases all succeeded without supplementation.
+
+## 세줄요약
+
+전향적 단일군 개방형 임상 코호트 (Braz Oral Res 2021; USP 히베이라웅프레투, 브라질; n=58 성인, 여성 65%, 평균 50.7세; 주사공포/불안 59%): 리도카인 + 프릴로카인 HCl (1:1, 30 mg) 3층 점막부착 패치를 중등도 복잡도 치과 처치의 무침(needle-free) 주마취제로 평가.
+
+90% 케이스를 패치 단독으로 완료(추가 주사 불필요); 평균 마취 발현 13.2 ± 6.3분; 유효 마취 지속 50–90분; 10%는 메피바카인 추가 주사 필요(모두 상악, 모두 주사공포/불안군); 2시간·6개월 추적에서 부작용 없음.
+
+3층 패치는 대다수 환자에서 주사 마취 대체 가능 — 주사공포 집단에 특히 유익; 비교군 없어 효능 정량화 제한; 하악 케이스는 모두 추가 주사 없이 성공.
 
 ## 1. Document Information
 

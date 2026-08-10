@@ -9,8 +9,21 @@ pdf_filename: marty-2024-implant-treated-periodontitis-sr-ma.pdf
 source_collection: external
 ---
 
-## One-line Summary
-치주염 기왕력 환자 임플란트 건강 SR+MA (Dent J 2024): 10,775편 검색, 8편 정성적·10편 정량적 분석; 치주염 기왕력 → 골유착 실패·치주위임플란트염(Peri-implantitis) 위험 유의하게 증가.
+## Three-line Summary
+
+치주염 기왕력 환자 임플란트 건강 SR+MA (Dent
+
+J 2024): 10,775편 검색, 8편 정성적·10편 정량적
+
+분석; 치주염 기왕력 → 골유착 실패·치주위임플란트염(Peri-implantitis) 위험 유의하게 증가.
+
+## 세줄요약
+
+치주염 기왕력 환자 임플란트 건강 SR+MA (Dent
+
+J 2024): 10,775편 검색, 8편 정성적·10편 정량적
+
+분석; 치주염 기왕력 → 골유착 실패·치주위임플란트염(Peri-implantitis) 위험 유의하게 증가.
 
 ## 1. Document Information
 - **Journal**: Dentistry Journal 2024, 12, 240

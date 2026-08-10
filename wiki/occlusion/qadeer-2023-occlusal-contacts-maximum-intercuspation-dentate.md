@@ -6,7 +6,7 @@ date: 2023-03-27
 doi: 10.1111/joor.13451
 source: qadeer-2023-occlusal-contacts-maximum-intercuspation-dentate.md
 category: [occlusion]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: false
 pmid: "36943389"
@@ -19,13 +19,21 @@ relations:
     target: didier-2026-occlusal-contacts-ios-vs-carbon-paper-concordance
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematised review of 18 studies over four decades (1980s–2022): the number of occlusal contacts at maximum intercuspation (MICP) in dentate adults ranges widely from 11 to 70, driven mainly by the occlusal indicator/technique and population differences — so there is no single "normal" count.
+Systematised review (18 studies from the 1980s to 2022; 651 + 37 records screened across PubMed, Livivo, and Ovid) of quantitative occlusal contact counts at maximum intercuspation (MICP) in dentate adults.
 
-## 한줄요약
+The reported number of occlusal contacts at MICP ranged from 11 to 70 across included studies, with the nearly seven-fold spread driven primarily by occlusal indicator type (articulating paper, wax, shimstock, impression material, gnathodynamometers, digital systems) and population diversity.
 
-18편(1980년대–2022)을 종합한 systematised review로, 유치악 성인의 최대교두감합위(MICP) 교합접촉 수는 11~70개로 크게 분포하며, 이는 주로 사용한 교합지시재·기법과 대상 집단 차이 때문이라 단일한 "정상" 접촉 수는 존재하지 않는다.
+No single defensible "normal" contact count exists; method-specific standardized norms are required before contact counts can be meaningfully applied clinically or compared across studies.
+
+## 세줄요약
+
+유치악 성인의 최대교두감합위(MICP) 교합접촉 수를 정량화한 18편(1980년대–2022; PubMed·Livivo·Ovid 651+37편 검색)의 체계화된 문헌고찰.
+
+MICP 교합접촉 수는 11~70개로 거의 7배 범위를 보였으며, 이 차이는 주로 사용한 교합지시재(교합지, 왁스, shimstock, 인상재, 악력계, 디지털 시스템)와 대상 집단 차이 때문이었다.
+
+단일한 "정상" 교합접촉 수는 존재하지 않으며, 임상 적용과 연구 간 비교를 위해서는 측정 방법별로 표준화된 기준치가 필요하다.
 
 ## Summary
 

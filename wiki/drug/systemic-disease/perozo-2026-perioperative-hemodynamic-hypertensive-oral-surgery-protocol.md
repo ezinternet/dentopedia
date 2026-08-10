@@ -6,7 +6,7 @@ date: 2026-04-16
 doi: 10.7759/cureus.107163
 source: perozo-2026-perioperative-hemodynamic-hypertensive-oral-surgery-protocol.md
 category: [drug/systemic-disease]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 full_text: true
 pmid: "42147593"
@@ -22,13 +22,21 @@ relations:
     target: uritu-2025-vasoconstrictor-dental-anesthesia-pregnancy-sr
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective analysis of prospectively collected observational data (n=39: 21 normotensive vs 18 treated hypertensive) showing baseline hypertensive status is the dominant perioperative hemodynamic determinant (eta-squared=0.33) and a 7-fold higher hemorrhagic-complication rate (66.7% vs 9.5%, p=0.008) during oral surgery; proposes the unvalidated 3-phase Perozo perioperative BP-management protocol.
+Retrospective secondary analysis of prospectively collected observational data (n=39: 21 normotensive vs 18 treated/controlled hypertensive at two Venezuelan public hospitals) using repeated-measures ANOVA across 4 perioperative timepoints; excluded uncontrolled hypertension (SBP ≥180/DBP ≥110).
 
-## 한줄요약
+Baseline hypertensive status was the dominant perioperative hemodynamic determinant (eta-squared=0.33); hypertensives had markedly higher intraoperative SBP (170 vs 136 mmHg) and a 7-fold higher hemorrhagic-complication rate (66.7% vs 9.5%, p=0.008); epinephrine-containing lidocaine raised BP/HR more than plain mepivacaine, and morning procedures peaked higher than afternoon.
 
-전향적으로 수집된 관찰자료의 후향분석(n=39: 정상혈압 21 vs 치료중 고혈압 18)으로, 기저 고혈압 상태가 구강수술 중 혈역학 변동의 최대 결정인자(eta제곱=0.33)이고 출혈합병증이 7배 높았음(66.7% vs 9.5%, p=0.008)을 보였으며, 미검증 3단계 Perozo 수술전후 혈압관리 프로토콜을 제안한다.
+These observations formed the basis for the unvalidated 3-phase Perozo perioperative BP-management protocol (risk stratification → intraoperative emergency drugs with epinephrine cap 0.04 mg → postoperative monitoring), which requires multicenter prospective validation before adoption.
+
+## 세줄요약
+
+전향적으로 수집된 관찰자료의 후향분석(n=39: 정상혈압 21 vs 치료중 고혈압 18, 베네수엘라 공공병원 2곳) — 4시점 반복측정 ANOVA; 조절불량 고혈압(SBP ≥180/DBP ≥110) 제외.
+
+기저 고혈압 상태가 혈역학 변동의 최대 결정인자(eta제곱=0.33); 고혈압군에서 술중 SBP 더 높고(170 vs 136 mmHg), 출혈합병증 7배(66.7% vs 9.5%, p=0.008); 에피네프린 리도카인이 무혈관수축제 메피바카인보다 BP·HR 더 높였고, 오전 시술이 오후보다 최고 SBP 높았음.
+
+이 관찰로부터 3단계 Perozo 수술전후 혈압관리 프로토콜(위험 층화→술중 응급약 에피네프린 상한 0.04 mg→술후 모니터링)이 제안되었으나, 다기관 전향 검증 전까지는 임시 프레임워크로만 간주해야 한다.
 
 ## Summary
 
@@ -78,4 +86,4 @@ Arterial hypertension is the most common systemic disease in oral surgery patien
 
 - [[drug/systemic-disease/uritu-2025-vasoconstrictor-dental-anesthesia-pregnancy-sr]] — extends the vasoconstrictor-in-LA risk theme from pregnancy to controlled hypertension (epinephrine BP/HR effect, two-cartridge cap).
 - [[drug/systemic-disease/colibasanu-2025-drug-drug-interactions-dental-patients-retrospective]] — overlapping medically-compromised perioperative management; NSAID/analgesic and antihypertensive interaction considerations.
-- [[drug/systemic-disease/karm-2023-clinical-practice-guidelines-diagnostic-procedural-sedation]] — anxiety/sedation management complements Phase I anxiety-reduction and hemodynamic monitoring.
+- [[local-anesthesia/karm-2023-clinical-practice-guidelines-diagnostic-procedural-sedation]] — anxiety/sedation management complements Phase I anxiety-reduction and hemodynamic monitoring.

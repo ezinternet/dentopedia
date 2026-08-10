@@ -10,8 +10,21 @@ pdf_filename: meijer-2024-immediate-implant-bony-defect-10year-rct.pdf
 source_collection: external
 ---
 
-## One-line Summary
-10년 RCT (n=40, 20 vs 20): 협측 결손 ≥5 mm 있는 전치부 발치와 — 즉시식립 vs ARP 후 지연식립 — MBL·BBT·연조직·심미·만족도 10년 추적; 협측 골결손이라도 즉시식립이 가능한지를 결정.
+## Three-line Summary
+
+10년 RCT (n=40, 20 vs 20): 협측 결손 ≥5 mm 있는 전치부 발치와
+
+즉시식립 vs ARP 후 지연식립
+
+MBL·BBT·연조직·심미·만족도 10년 추적; 협측 골결손이라도 즉시식립이 가능한지를 결정.
+
+## 세줄요약
+
+10년 RCT (n=40, 20 vs 20): 협측 결손 ≥5 mm 있는 전치부 발치와
+
+즉시식립 vs ARP 후 지연식립
+
+MBL·BBT·연조직·심미·만족도 10년 추적; 협측 골결손이라도 즉시식립이 가능한지를 결정.
 
 ## 1. Document Information
 - **Title**: Immediate single-tooth implant placement in bony defect sites: A 10-year randomized controlled trial

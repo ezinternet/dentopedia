@@ -13,11 +13,21 @@ source_collection: external
 
 [[implants/surface/smeets-2016-implant-surface-modifications-osseointegration]] 이후 표면개질 분야의 현황·신경향(responsive coatings, omics, AI)을 통합 갱신. [[implants/surface/rehner-2025-dental-implants-nanoparticle-coatings-review]](나노입자 코팅 in vitro/in vivo)와 짝을 이뤄 표면 카테고리 종합 입력.
 
-## One-line Summary
+## Three-line Summary
+
 Narrative review — comprehensive survey of dental implant surface modification (physical/chemical/mechanical), bio-functionalized surfaces, and emerging responsive coatings / 'omics / AI directions.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 내러티브 리뷰: 임플란트 표면개질(물리·화학·기계적) 전반과 생기능화 표면, 그리고 반응성 코팅·오믹스·AI 등 신경향을 종합 정리.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - Journal of Materials Science: Materials in Medicine 2026;37:21 (online Dec 2025). Agharkar Research Institute, Pune.

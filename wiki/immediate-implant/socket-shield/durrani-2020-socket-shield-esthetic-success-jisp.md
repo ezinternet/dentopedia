@@ -6,7 +6,7 @@ date: 2020-05-04
 doi: 10.4103/jisp.jisp_557_19
 journal: Journal of Indian Society of Periodontology 24(3):289-294
 source: durrani-2020-socket-shield-esthetic-success-jisp.md
-confidence: narrative-review
+evidence_level: narrative-review
 category: [immediate-implant/socket-shield]
 pdf_path: /Users/oracleneo/llm-wiki/papers/durrani-2020-socket-shield-esthetic-success-jisp.pdf
 pdf_filename: durrani-2020-socket-shield-esthetic-success-jisp.pdf
@@ -14,11 +14,21 @@ source_collection: external
 tags: [socket-shield-technique, SST, esthetic-outcome, narrative-review, JISP, Banaras-Hindu-Univ, critical-evaluation]
 ---
 
-## One-line Summary
-Narrative review critically evaluating whether the socket-shield technique (SST) delivers genuine esthetic success, arguing that neither implant alone nor bone substitute plus immediate implant fully preserves peri-implant hard/soft tissue, while questioning SST's complication patterns and long-term outcome certainty.
+## Three-line Summary
 
-## 한줄요약
-Narrative review (Banaras Hindu Univ, JISP 2020): "Socket shield: An esthetic success?" — SST esthetic outcome의 비판적 평가. 인도 임상의 perspective의 review. [[immediate-implant/socket-shield/blaschke-2020-socket-shield-technique-critical-review]]와 같은 cautious cluster.
+Narrative review (Durrani et al., JISP 2020) critically evaluating whether the socket-shield technique (SST) delivers genuine esthetic success, starting from the premise that neither implant alone nor bone substitute plus immediate implant fully prevents peri-implant tissue resorption.
+
+SST is examined as a novel approach where retaining the buccal root fragment may block bundle bone resorption and improve hard/soft-tissue esthetic outcomes, but complication patterns and long-term evidence remain uncertain.
+
+The review concludes with a cautious position, recommending SST only in selected esthetic-priority cases while emphasizing that evidence quality is insufficient to endorse routine use.
+
+## 세줄요약
+
+서술적 고찰(Durrani 등, JISP 2020): 임플란트 단독 또는 골대체재+즉시식립만으로는 치주 조직 흡수를 완전히 막을 수 없다는 임상 인식에서 출발해 소켓실드(SST)의 심미적 성공 여부를 비판적으로 검토.
+
+협측 치근편 보존으로 bundle bone 흡수를 차단하고 경·연조직 심미를 개선할 수 있다는 가설을 검토하나 합병증 패턴 및 장기 결과는 불확실함.
+
+심미 우선 선택 증례에 한해 SST를 고려할 수 있으나 routine 사용을 뒷받침할 근거 수준이 부족함을 결론으로 제시.
 
 ## Summary
 Implant alone이나 bone substitute + immediate implant가 완전한 미용 결과를 보장 못한다는 임상 인식에서 출발해, SST가 협측 root 유지를 통해 hard/soft tissue 원형을 보존하는 novel approach인지 비판적 검토.
@@ -37,8 +47,8 @@ Implant alone이나 bone substitute + immediate implant가 완전한 미용 결�
 
 ## Strengths and Caveats
 [narrative-review] Single-institution
-[합의수준] SST critical evaluation 분야 cluster의 한 축
-[claude해석] "An esthetic success?" 의문 형식은 review의 비판적 tone 강조
+[미검증] SST critical evaluation 분야 cluster의 한 축
+[미검증] "An esthetic success?" 의문 형식은 review의 비판적 tone 강조
 
 ## Related Papers
 - [[immediate-implant/socket-shield/blaschke-2020-socket-shield-technique-critical-review]] — 같은 cautious cluster

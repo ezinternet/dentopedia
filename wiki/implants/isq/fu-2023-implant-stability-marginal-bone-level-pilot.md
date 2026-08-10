@@ -6,7 +6,7 @@ date: 2023-03-02
 doi: 10.1016/j.jds.2023.02.018
 source: fu-2023-implant-stability-marginal-bone-level-pilot.md
 category: [implants/isq]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/fu-2023-implant-stability-marginal-bone-level-pilot.pdf
 pdf_filename: fu-2023-implant-stability-marginal-bone-level-pilot.pdf
 source_collection: external
@@ -18,13 +18,21 @@ relations:
     target: isq-loading-threshold
 ---
 
-## One-line Summary
+## Three-line Summary
 
-2-year prospective pilot study (n=90 patients, 156 MIS Seven implants, Taiwan) found that bone density and insertion torque — not primary ISQ — are the dominant predictors of marginal bone loss, with secondary ISQ stabilizing after 6 months and converging across all subgroups by 24 months (mean ~74–75 ISQ).
+2-year prospective pilot study (90 patients, 156 MIS Seven implants, delayed loading) tracking ISQ at 10 time points and MBL at 7 time points over 24 months to identify predictors of marginal bone loss.
 
-## 한줄요약
+Bone density (r=0.826) and insertion torque (r=0.794) were the dominant MBL predictors — not primary ISQ; secondary ISQ stabilized after 6 months and converged across all subgroups to ~74–75 ISQ by 24 months; survival was 100%.
 
-90명·156개 임플란트 2년 전향적 파일럿(대만): 변연골 소실의 주 예측인자는 primary ISQ가 아닌 골밀도(r=0.826)·삽입 토크(r=0.794)이며, secondary ISQ는 6개월 이후 안정화돼 24개월 전 군 평균 ~74–75 ISQ로 수렴.
+Primary ISQ at placement does not predict MBL independently — its MBL-predictive value is outweighed by bone density and insertion torque, which should be the focus of pre-surgical risk stratification.
+
+## 세줄요약
+
+90명·156개 MIS Seven 임플란트 2년 전향적 파일럿(지연 부하): 10시점 ISQ 및 7시점 변연골 소실(Marginal Bone Loss, MBL)을 추적해 MBL 예측인자를 규명하였다.
+
+MBL의 주 예측인자는 골밀도(r=0.826)와 삽입 토크(IT, r=0.794)였고 primary ISQ는 독립 예측인자 아님; secondary ISQ는 6개월 이후 안정화되어 24개월 전 군 ~74–75 ISQ 수렴; 생존율 100%.
+
+식립 시 ISQ는 MBL 예측에서 골밀도·삽입 토크에 밀리므로, 수술 전 위험 계층화는 MBL 예측 측면에서 ISQ보다 골밀도와 IT에 집중해야 한다.
 
 ## Summary
 

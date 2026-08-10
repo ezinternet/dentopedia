@@ -15,13 +15,21 @@ source_collection: external
 
 > **Extraction note:** Source PDF is a Wiley Online Library landing page. It contains the full structured Abstract (Background/Objective/Methods/Results/Conclusion) with sample sizes and numeric results plus the complete reference list, but NOT the full Methods/Results body text, figures, or tables. Content below is grounded in the abstract; methodological specifics beyond the abstract (e.g. exact joint-space measurement protocol, age/sex distribution) are not recoverable from this PDF.
 
-## One-line Summary
+## Three-line Summary
 
-Cross-sectional CBCT study (n=90 unilateral-symptom TMD patients [69 with chewing-side preference, 21 without] + 20 asymptomatic): condylar position did not strongly differentiate CSP-related from non-CSP-related TMD; TMD-without-CSP patients had significantly more posterior condyles than asymptomatic controls (57.1% vs 30.0%, p<0.05), while CSP patients only trended posterior (53.6% vs 30.0%, p=0.054) — concluding posterior condyle is not a reliable TMD indicator.
+Cross-sectional CBCT study (n=90 unilateral-symptom TMD patients [69 with chewing-side preference, 21 without] + 20 asymptomatic): condylar position did not strongly differentiate CSP-related from non-CSP-related TMD;
 
-## 한줄요약
+TMD-without-CSP patients had significantly more posterior condyles than asymptomatic controls (57.1% vs 30.0%, p<0.05), while CSP patients only trended posterior (53.6% vs 30.0%, p=0.054) — concluding posterior condyle is not a reliable TMD indicator.
+
+(incomplete)
+
+## 세줄요약
 
 단면 CBCT 연구 (편측 증상 TMD 환자 90명 [편측저작 선호 CSP 있음 69명, 없음 21명] + 무증상 20명): 과두 위치는 CSP 관련 TMD와 비-CSP TMD를 잘 구분하지 못했고, CSP 없는 TMD 환자만 무증상군보다 유의하게 후방 과두가 많았으며(57.1% vs 30.0%, p<0.05), CSP 환자는 후방 경향만 보임(53.6% vs 30.0%, p=0.054) — 후방 과두는 TMD의 신뢰할 만한 지표가 아니라고 결론.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

@@ -9,19 +9,27 @@ text_path: /Users/oracleneo/llm-wiki/papers/angelo-2026-incobotulinumtoxina-stan
 text_filename: angelo-2026-incobotulinumtoxina-standardized-protocol-myogenous-tmd.txt
 source: angelo-2026-incobotulinumtoxina-standardized-protocol-myogenous-tmd.md
 category: [botulinum-toxin]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 full_text: true
 tags: [tmj, myogenous-tmd, xeomin, incobotulinumtoxinA]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective cohort (n=98, DC/TMD-confirmed myogenous TMD, 12-month follow-up) of a standardized incobotulinumtoxinA (Xeomin) injection protocol (~200U bilateral; masseter + temporalis + SCM) showed large reduction in myalgia (r=0.86), VAS pain (2.44→0.37), and preserved MMO; 79.6% favorable outcome rate.
+Retrospective single-center cohort (n=98, DC/TMD-confirmed myogenous TMD only, ≥3 months conservative failure, 12-month follow-up, Portugal) evaluating a fully described standardized incobotulinumtoxinA (Xeomin, ~200U bilateral) injection protocol across masseter, temporalis, and sternocleidomastoid, with 5 physiotherapy sessions as adjunct.
 
-## 한줄요약
+Large reductions in myalgia (r=0.86) and VAS pain (2.44 → 0.37, d=0.76) were achieved with preserved maximum mouth opening (MMO 42.55 → 43.10 mm, d=0.10); 79.6% achieved the composite favorable outcome; 20 treatment failures included 7 repeat BoNT-A and 5 arthrocentesis.
 
-DC/TMD로 진단 확정된 근육성 악관절장애 환자(n=98)에게 표준화된 incobotulinumtoxinA(Xeomin) 프로토콜(~200U, 교근·측두근·흉쇄유돌근 양측) 적용 12개월 후향 코호트 — 근통 대폭 감소(r=0.86), VAS 통증(2.44→0.37), 최대 개구량 유지, 79.6% 호전율.
+IncobotulinumtoxinA (only pure 150 kDa neurotoxin without complexing proteins) is advocated for lower immunogenicity and zero reported resistance cases, and the SCM inclusion is rationale-based on cervical-mandibular functional coupling.
+
+## 세줄요약
+
+줄1: DC/TMD로 진단 확정된 근육성 악관절장애(n=98, ≥3개월 보존치료 실패, 12개월 추적, 포르투갈) — 표준화된 incobotulinumtoxinA(Xeomin, ~200U 양측) 교근·측두근·흉쇄유돌근 주사 + 물리치료 5회 프로토콜 후향 코호트.
+
+줄2: 근통 대폭 감소(r=0.86), VAS 2.44→0.37(d=0.76), MMO 유지(42.55→43.10 mm, d=0.10); 79.6% 복합 호전 기준 달성; 치료 실패 20명(BTX 재주사 7, 관절강세척 5).
+
+줄3: IncobotulinumtoxinA는 복합단백 없는 순수 150 kDa 신경독소로 면역원성 최저·저항 사례 없음; 흉쇄유돌근 포함은 경부-하악 기능적 연결에 근거.
 
 ## Summary
 

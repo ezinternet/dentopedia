@@ -10,8 +10,21 @@ pdf_filename: qian-2024-anterior-maxillary-implants-placement-loading-nma.pdf
 source_collection: external
 ---
 
-## One-line Summary
-SR+NMA (Semmelweis): 상악 전치부 단일 임플란트 — type 1/2/3/4 placement × immediate/early/conventional loading 조합 — 생존율·MBL·심미·PROMs 비교; 다양한 프로토콜 직접·간접 비교.
+## Three-line Summary
+
+SR+NMA (Semmelweis): 상악 전치부 단일 임플란트
+
+type 1/2/3/4 placement × immediate/early/conventional loading 조합
+
+생존율·MBL·심미·PROMs 비교; 다양한 프로토콜 직접·간접 비교.
+
+## 세줄요약
+
+SR+NMA (Semmelweis): 상악 전치부 단일 임플란트
+
+type 1/2/3/4 placement × immediate/early/conventional loading 조합
+
+생존율·MBL·심미·PROMs 비교; 다양한 프로토콜 직접·간접 비교.
 
 ## 1. Document Information
 - **Title**: Comparison of implant placement and loading protocols for single anterior maxillary implants: A systematic review and network meta-analysis
@@ -36,7 +49,7 @@ PRISMA-NMA. Bayesian/frequentist NMA framework. SUCRA ranking. Risk of bias.
 
 ## 6. Related Work
 - [[immediate-implant/esthetic-soft-tissue/hamilton-2023-type1a-immediate-implant-immediate-loading-esthetic-sr-ma]] — ITI Type 1A selection criteria
-- [[immediate-implant/wittneben-2023-immediate-implant-loaded-single-crown-sr]] — Type 1A clinical performance
+- [[immediate-implant/loading-protocol/wittneben-2023-immediate-implant-loaded-single-crown-sr]] — Type 1A clinical performance
 - [[immediate-implant/zhou-2021-placement-loading-protocols-single-implants-sr]] — site-specific timing SR
 
 ## 7. Limitations and Future Work

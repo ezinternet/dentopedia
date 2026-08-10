@@ -16,13 +16,21 @@ text_filename: tewari-2024-pulp-necrosis-lateral-luxation.txt
 
 Quantifies the pulp-necrosis and root-resorption risk that decides whether a laterally luxated tooth needs prophylactic endodontic intervention — the diagnostic-prognostic backbone of the new `dental-trauma` category. The maturity-stratified necrosis risk (immature 12% vs mature 58%) links to pulp-survival decision logic in [[overviews/vital-pulp-therapy-decision-ladder]] and to trauma-driven REP prognosis in [[dental-trauma/vitali-2025-preoperative-factors-prognosis-regenerative-endodontic]].
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (13 studies; GRADE very low): after lateral luxation of permanent anterior teeth, pooled pulp-necrosis prevalence is 57% overall — 58% in mature-apex vs only 12% in immature-apex teeth — and EIRR ~11%, so routine prophylactic pulp extirpation in mature teeth should be applied with caution.
+SR+MA (13 studies;
 
-## 한줄요약
+GRADE very low): after lateral luxation of permanent anterior teeth, pooled pulp-necrosis prevalence is 57% overall — 58% in mature-apex vs only 12% in immature-apex teeth — and EIRR ~11%, so routine prophylactic pulp extirpation in mature teeth should be applied with caution.
 
-SR+MA (13편; GRADE 매우 낮음): 영구 전치 측방탈구(lateral luxation) 후 치수괴사 통합 유병률은 전체 57%로, 성숙치근 58% 대 미성숙치근 12%이며 외부염증성치근흡수(EIRR)는 약 11%다. 따라서 성숙치에 대한 일률적 예방적 치수적출은 신중히 적용해야 한다.
+(incomplete)
+
+## 세줄요약
+
+SR+MA (13편;
+
+GRADE 매우 낮음): 영구 전치 측방탈구(lateral luxation) 후 치수괴사 통합 유병률은 전체 57%로, 성숙치근 58% 대 미성숙치근 12%이며 외부염증성치근흡수(EIRR)는 약 11%다.
+
+따라서 성숙치에 대한 일률적 예방적 치수적출은 신중히 적용해야 한다.
 
 ## 1. Document Information
 

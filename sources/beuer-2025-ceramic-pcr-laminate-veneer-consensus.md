@@ -17,13 +17,21 @@ text_filename: beuer-2025-ceramic-pcr-laminate-veneer-consensus.txt
 
 This is the SSRD/SEPES/PROSEC consensus that sits directly on top of the laminate-veneer SR+MA we already hold ([[veneers/klein-2025-ceramic-laminate-veneer-survival-complications-sr-ma]]) — it converts that meta-analysis's pooled survival/complication numbers into actionable clinical statements (enamel bonding, butt-joint preparation, material choice). It supplies the consensus-level "what to actually do" layer that the existing SR pages ([[veneers/morimoto-2016-feldspathic-glass-ceramic-veneer-survival-sr-ma]], [[veneers/albanesi-2016-incisal-coverage-ceramic-laminate-veneer-sr-ma]]) leave implicit, and extends scope to posterior partial coverage restorations (onlays/occlusal veneers).
 
-## One-line Summary
+## Three-line Summary
 
-Consensus statement (SSRD/SEPES/PROSEC; built on 2 SR+MA, 35 studies) recommending feldspathic/LRGC/LDS for ceramic laminate veneers and LDS/RMC/LRGC for posterior partial coverage restorations, with enamel bonding and butt-joint preparation as key success drivers.
+Consensus statement (SSRD/SEPES/PROSEC conference, Working Group 1) built on two pre-conference SR+MA (35 publications) comparing ceramic laminate veneers and posterior partial coverage restorations (PCRs) across material types.
 
-## 한줄요약
+Ceramic laminate veneers showed pooled survival of 97.76% at 2.6Y, 97.12% at 5.0Y, 96.05% at 10.4Y; LDS had significantly fewer technical+biological complications vs feldspathic (p=0.044) and LRGC (p=0.033); posterior PCRs: LDS 93.7% vs RMC 89.3% survival at 3Y (NS).
 
-세라믹 라미네이트 비니어(feldspathic·LRGC·LDS)와 구치부 부분피개수복(LDS·RMC·LRGC)에 대한 SSRD/SEPES/PROSEC 합의문 — 2편의 체계적고찰·메타분석(35편) 위에서, 법랑질 접착과 butt-joint 변연 형성을 핵심 성공 요인으로 권고.
+Clinical recommendations: use feldspathic/LRGC/LDS for veneers; bond to enamel (dentin bonding raises complication risk); prefer flat incisal butt-joint preparation; use LDS/RMC/LRGC for posterior PCRs.
+
+## 세줄요약
+
+SSRD/SEPES/PROSEC 합의문 — 두 편의 SR+MA(35개 연구)를 토대로 세라믹 라미네이트 비니어와 구치부 부분피개수복(Partial Coverage Restoration, PCR) 재료를 비교.
+
+세라믹 라미네이트 비니어 pooled 생존율 2.6년 97.76%, 5.0년 97.12%, 10.4년 96.05%; 리튬 디실리케이트(Lithium Disilicate, LDS)가 feldspathic 및 LRGC보다 유의하게 적은 기술적·생물학적 합병증(p≤0.044); 구치부 PCR: LDS 93.7% vs 레진 매트릭스 세라믹(Resin Matrix Ceramic, RMC) 89.3% (3년, 비유의).
+
+임상 권고: 비니어는 feldspathic/LRGC/LDS 추천; 법랑질 접착 필수(상아질 접착 시 합병증↑); 절단연 butt-joint 형성 선호; 구치부 PCR은 LDS/RMC/LRGC 적합.
 
 ## 1. Document Information
 

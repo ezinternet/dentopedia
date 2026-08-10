@@ -17,13 +17,21 @@ text_filename: araujo-2026-buccal-gap-width-alveolar-reduction-iip-cbct.txt
 
 [[immediate-implant/esthetic-soft-tissue/hamilton-2023-type1a-immediate-implant-immediate-loading-esthetic-sr-ma]] identified a buccal gap > 2 mm as a favorable modifier for *implant survival* (+3.1 PP) but did not quantify the dimensional/ridge-preservation payoff of that threshold. This Araújo 2026 retrospective CBCT study (n=28 maxillary central incisors, contralateral-tooth control) is the first to isolate gap width as a determinant of alveolar-process preservation, giving the > 2 mm rule a hard-tissue mechanism. It also directly contrasts [[immediate-implant/esthetic-soft-tissue/yang-2019-labial-bone-thickness-esthetics-iipp]] — finding that baseline buccal bone *thickness* (not gap) was non-significant for resorption in central-incisor sites with thin walls.
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective CBCT cohort (n=28 maxillary central incisors, contralateral-tooth control, mean 6 y): DBBM-grafted buccal gap > 2 mm preserved > 90% of alveolar-process cross-sectional area (8.5% reduction) vs ~40% reduction with a narrow (≤ 2 mm) grafted gap (p<0.001).
+Retrospective CBCT cohort (n=28 maxillary central incisors, contralateral-tooth control, mean 6 y follow-up) isolating DBBM-grafted buccal gap width as a determinant of alveolar-process dimensional preservation after immediate implant placement.
 
-## 한줄요약
+Wide gap (>2 mm) preserved 91.5% of cross-sectional area (8.5% reduction) vs only 58.9% for narrow gap (≤2 mm; 41.1% reduction, p<0.001); buccal wall height reduction was −1.1% (wide) vs −52.3% (narrow, p<0.001); gap was the only significant regression predictor.
 
-후향적 CBCT 코호트(상악 중절치 28부위, 반대측 자연치 대조, 평균 6년): DBBM 이식한 협측 gap이 2 mm 초과면 치조제 단면적의 90% 이상 보존(8.5% 감소)했으나, 2 mm 이하 좁은 gap은 약 40% 흡수로 보존 실패(p<0.001).
+Gap width > 2 mm is a clinically actionable threshold for alveolar-process preservation — baseline buccal bone thickness was non-significant, meaning the healed wall is new bone formed within the graft, not salvaged original bone.
+
+## 세줄요약
+
+후향적 CBCT 코호트(상악 중절치 28부위, 반대측 자연치 대조, 평균 6년) — DBBM 이식 협측 gap 폭을 즉시식립 후 치조제 보존의 독립 결정인자로 평가.
+
+광폭 gap(>2 mm): 단면적 91.5% 보존(8.5% 감소); 협폭 gap(≤2 mm): 58.9% 보존(41.1% 감소, p<0.001); 협측 골정 높이 감소 −1.1%(광) vs −52.3%(협, p<0.001); 회귀분석에서 gap이 유일한 유의 예측인자.
+
+임상 실행 가능한 임계값: gap >2 mm — 기저 순측 골두께는 비유의(원래 얇은 골벽은 어차피 소실되고 이식재 내 신생골이 보존을 담당).
 
 ## 1. Document Information
 

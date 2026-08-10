@@ -9,8 +9,21 @@ pdf_filename: janyavula-2013-wear-polished-glazed-zirconia-enamel.pdf
 source_collection: external
 ---
 
-## One-line Summary
-J Prosthet Dent 2013;109:22-29: in vitro Alabama wear device — polished zirconia: no ceramic loss, least enamel wear; glazed zirconia: significant ceramic + enamel wear; veneering porcelain: most enamel wear; polish > glaze.
+## Three-line Summary
+
+J Prosthet Dent 2013;109:22-29: in vitro Alabama wear device — polished zirconia: no ceramic loss, least enamel wear
+
+glazed zirconia: significant ceramic + enamel wear
+
+veneering porcelain: most enamel wear; polish > glaze.
+
+## 세줄요약
+
+J Prosthet Dent 2013;109:22-29: 시험관내 (In vitro) Alabama wear device — polished zirconia: no ceramic loss, least enamel wear
+
+glazed zirconia: significant ceramic + enamel wear
+
+veneering porcelain: most enamel wear; polish > glaze.
 
 ## 1. Key Results
 - Groups: polished, glazed, polished+reglazed zirconia; veneering porcelain; enamel control

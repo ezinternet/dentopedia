@@ -13,13 +13,21 @@ source_collection: external
 
 교정 미니스크류(TAD) 일차안정성의 골 결정요인을 분리하기 위해 인제스트 — cortical BMD가 trabecular/total BMD보다 안정성을 좌우함을 보여, 임플란트 측 cortical-thickness 근거([[implants/isq/al-juboori-2024-cortical-thickness-implant-stability-sr]])와 메커니즘적으로 짝을 이룬다. 기존 미니스크류 실패/안정성 페이지([[orthodontics/katyal-2024-success-rate-factors-affecting-stability]])의 골질 변수 정량 보강.
 
-## One-line Summary
+## Three-line Summary
 
 Experimental study showing cortical bone mineral density (BMD), but not trabecular or total BMD, correlates with insertion torque and primary stability of orthodontic miniscrews, with CBCT and DEXA BMD strongly correlated.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 실험 연구 — cortical BMD만이 미니스크류 식립 토크·일차안정성과 상관(trabecular·total BMD는 약함·비유의), CBCT와 DEXA 골밀도는 강한 상관.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - Angle Orthodontist 2012;82(1):62–66.

@@ -6,18 +6,28 @@ date: 2024-10-01
 doi: 10.1111/joor.13780
 source: zhu-2024-exercise-therapy-tmj-derangement-sr.md
 category: [tmj]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/zhu-2024-exercise-therapy-tmj-derangement-sr.pdf
 pdf_filename: zhu-2024-exercise-therapy-tmj-derangement-sr.pdf
 source_collection: external
 tags: [exercise-therapy, tmj-internal-derangement, postoperative, rehabilitation, mouth-opening]
 ---
 
-## One-line Summary
-Systematic review (Journal of Oral Rehabilitation, 2024; mostly prospective cohorts/case series) of exercise therapy in postoperative TMJ internal derangement patients (after arthrocentesis, arthroscopy, open surgery): structured rehabilitation significantly improves maximum mouth opening (MMO) recovery and reduces pain vs surgery alone, with early initiation (≤1 week) and passive mobilization devices (TheraBite, Dynasplint) favored.
+## Three-line Summary
 
-## 한줄요약
-악관절 내장증(TMJ Internal Derangement) 수술/시술 후 운동치료 효과에 관한 SR: 조기 운동치료가 하악 최대개구량(MMO) 회복과 통증 감소에 유의하게 기여.
+Systematic review (PRISMA; PubMed, Embase, Cochrane, Web of Science; mostly prospective cohorts/case series; JOOR 2024) — first SR of exercise therapy specifically in postoperative/post-interventional TMJ internal derangement (after arthrocentesis, arthroscopy, or open surgery).
+
+Structured postoperative exercise significantly improved MMO recovery and reduced pain versus surgery alone; early initiation (≤1 week post-procedure) was generally superior to delayed start; TheraBite and Dynasplint passive mobilization devices showed consistent MMO benefit.
+
+Surgery alone is insufficient — postoperative rehabilitation is essential; long-term data beyond 6 months is lacking and most evidence comes from prospective cohorts/case series rather than RCTs.
+
+## 세줄요약
+
+체계적 문헌고찰 (PRISMA; PubMed·Embase·Cochrane·Web of Science; 주로 전향 코호트/증례군; JOOR 2024) — 악관절 내장증(TMJ Internal Derangement) 수술·시술 후 운동치료 최초 SR.
+
+구조화된 수술 후 운동치료는 수술 단독 대비 최대개구량(MMO) 회복과 통증 감소에 유의하게 기여; 조기 시작(시술 후 ≤1주)이 지연 시작보다 일반적으로 우수; TheraBite·Dynasplint 수동 가동화 기구가 MMO에 일관된 이점.
+
+수술 단독은 불충분 — 수술 후 재활이 필수; 6개월 이상 장기 데이터 부족, 대부분 RCT가 아닌 전향 코호트/증례군 근거.
 
 ## Summary
 This systematic review published in the Journal of Oral Rehabilitation (2024) is the first to focus on exercise therapy specifically in postoperative and post-interventional patients with 악관절 내장증 (TMJ Internal Derangement). Included studies covered patients after arthrocentesis, arthroscopy, and open joint surgery. Findings consistently demonstrated that structured postoperative exercise therapy significantly improves 하악 최대개구량 (Maximum Mouth Opening, MMO) recovery and reduces pain compared to surgery alone. Early initiation (within 1 week) was generally favored. Passive jaw mobilization devices (TheraBite, Dynasplint) showed consistent benefit.

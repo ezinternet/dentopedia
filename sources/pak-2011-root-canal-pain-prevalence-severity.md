@@ -3,14 +3,27 @@ title: "Pain Prevalence and Severity before, during, and after Root Canal Treatm
 authors: Jaclyn G Pak, Shane N White
 year: 2011
 doi: 10.1016/j.joen.2011.01.016
-category: [drug/analgesics]
+category: ['endodontics']
 pdf_path: /Users/oracleneo/llm-wiki/papers/pak-2011-root-canal-pain-prevalence-severity.pdf
 pdf_filename: pak-2011-root-canal-pain-prevalence-severity.pdf
 source_collection: external
 ---
 
-## One-line Summary
-SR+MA (J Endod 2011, 72편): 근관치료 전 통증 유병률 81%, 24h 후 40%, 1주 후 11%로 급감; 보조마취 필요율 60%.
+## Three-line Summary
+
+SR+MA (J Endod 2011, 72편): 근관치료
+
+전 통증 유병률 81%, 24h 후
+
+40%, 1주 후 11%로 급감; 보조마취 필요율 60%.
+
+## 세줄요약
+
+SR+MA (J Endod 2011, 72편): 근관치료
+
+전 통증 유병률 81%, 24h 후
+
+40%, 1주 후 11%로 급감; 보조마취 필요율 60%.
 
 ## 1. Document Information
 J Endod 2011;37:429-438. MEDLINE, Embase, Cochrane, PsycINFO 검색, 5,517편 확인 → 최종 72편 메타분석. UCLA School of Dentistry.

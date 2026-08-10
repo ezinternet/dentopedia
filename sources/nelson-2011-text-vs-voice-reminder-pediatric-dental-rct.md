@@ -16,13 +16,21 @@ text_filename: nelson-2011-text-vs-voice-reminder-pediatric-dental-rct.txt
 
 Counterpoint reminder RCT for the no-show overview: in a university pediatric dental clinic, **voice messages beat SMS text** at reducing no-shows — the opposite-channel result qualifies the blanket "send a reminder" recommendation by showing channel choice (and population) matters. Refines [[overviews/dental-appointment-no-show-overview]] by adding a head-to-head channel comparison rather than reminder-vs-none.
 
-## One-line Summary
+## Three-line Summary
 
-RCT (n=318 caregiver/child dyads) in a dental-school pediatric clinic: voice-message reminders had a lower no-show rate (8.2%) than SMS text (17.7%); SMS was not as effective as voice for randomly assigned reminder type.
+Parallel-group RCT (n=318 caregiver/child dyads, University of Washington pediatric dental clinic) comparing SMS text vs voice-message appointment reminders for no-show reduction.
 
-## 한줄요약
+Voice-message reminders had a significantly lower no-show rate (8.2%) than SMS (17.7%; unadjusted OR 2.41, P=.01; age-adjusted OR 2.12, P=.04); younger caregiver age was an independent predictor of nonattendance.
 
-치과대학 소아치과 RCT (n=318 보호자/아동 쌍): 음성 메시지 알림의 미내원율(8.2%)이 문자(SMS) 알림(17.7%)보다 낮았다 — 무작위 배정 상황에서 SMS가 음성보다 효과적이지 않았다.
+In a university pediatric dental clinic, voice messaging outperformed SMS for reducing no-shows; channel preferences may differ when patients self-select their reminder type rather than being randomly assigned.
+
+## 세줄요약
+
+병렬군 RCT(n=318 보호자/아동 쌍, 워싱턴대 소아치과): 예약 알림을 SMS 문자 vs 음성 메시지로 무작위 배정하여 미내원율을 비교.
+
+음성 알림군 미내원율 8.2% vs 문자 알림군 17.7%(비보정 OR 2.41, P=.01; 연령 보정 OR 2.12, P=.04); 보호자 연령이 낮을수록 미내원 위험 증가.
+
+치과대학 소아치과 환경에서는 음성 메시지가 SMS보다 미내원 감소에 더 효과적 — 단 환자가 알림 채널을 직접 선택하면 결과가 달라질 수 있으며 초록 기반 연구임을 감안해야 한다.
 
 ## 1. Document Information
 

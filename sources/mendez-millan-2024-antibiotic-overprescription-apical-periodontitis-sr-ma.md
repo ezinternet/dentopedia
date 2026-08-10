@@ -10,8 +10,21 @@ pdf_filename: mendez-millan-2024-antibiotic-overprescription-apical-periodontiti
 source_collection: external
 ---
 
-## One-line Summary
-SR+MA (Univ Sevilla): 근첨치주염 (apical periodontitis, AP) 치료에서 치과의사 항생제 과잉처방률 정량화 — 비적응 케이스에 광범위 항생제 처방 흔함; 근관치료가 우선 치료라는 ESE/AAE 입장과 괴리.
+## Three-line Summary
+
+SR+MA (Univ Sevilla): 근첨치주염 (apical periodontitis, AP) 치료에서
+
+치과의사 항생제 과잉처방률 정량화 — 비적응 케이스에 광범위
+
+항생제 처방 흔함; 근관치료가 우선 치료라는 ESE/AAE 입장과 괴리.
+
+## 세줄요약
+
+SR+MA (Univ Sevilla): 근첨치주염 (apical periodontitis, AP) 치료에서
+
+치과의사 항생제 과잉처방률 정량화 — 비적응 케이스에 광범위
+
+항생제 처방 흔함; 근관치료가 우선 치료라는 ESE/AAE 입장과 괴리.
 
 ## 1. Document Information
 - Authors: Méndez-Millán et al., Univ Sevilla Endodontic Section
@@ -27,7 +40,7 @@ SR+MA (Univ Sevilla): 근첨치주염 (apical periodontitis, AP) 치료에서 �
 SR+MA of dental prescribing studies focused on apical periodontitis indication.
 
 ## 4. Key Results
-[근거강함] Antibiotic prescription rate exceeds the indicated threshold (typically <5-10% should require antibiotics; observed rates much higher). Pooled estimates available in paper.
+[확인] Antibiotic prescription rate exceeds the indicated threshold (typically <5-10% should require antibiotics; observed rates much higher). Pooled estimates available in paper.
 
 ## 5. Limitations
 - Heterogeneity in study designs across countries

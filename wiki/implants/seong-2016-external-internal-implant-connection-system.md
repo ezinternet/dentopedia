@@ -6,20 +6,28 @@ date: 2016-01-01
 doi: ""
 source: seong-2016-external-internal-implant-connection-system.md
 category: [implants]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/seong-2016-external-internal-implant-connection-system.pdf
 pdf_filename: seong-2016-external-internal-implant-connection-system.pdf
 source_collection: external
 tags: [implant-connection, external-hexagon, internal-connection, morse-taper, microgap, platform-switching, abutment-design, biomechanics]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review (KDA 2016) comparing external hexagon vs. internal connection implant systems across biomechanics, microgap biology, and prosthetic considerations, concluding that internal (Morse taper) connections offer superior stress distribution and screw-joint stability.
+Korean Dental Association narrative review (2016; Korean body text/English abstract) comparing external hexagon (EH) vs internal connection (IC) implant-abutment designs across biomechanics, microgap biology, impression techniques, and prosthetic component selection, referencing key SRs (Gracis, Goiato, Schmitt).
 
-## 한줄요약
+Internal connections — particularly conical Morse taper designs — offer superior screw-joint stability via cold-weld effect, better lateral load distribution, and microgap repositioning away from crestal bone; external hexagons retain advantages in component library breadth and easier multiple-unit impression workflows.
 
-대한치과의사협회지 2016 서술 리뷰 — 외부 육각형 vs 내부 연결(모스 테이퍼) 시스템의 생역학·마이크로갭·보철 측면 비교; 내부 연결이 응력 분산 및 나사 안정성에서 유리하다고 결론.
+Screw-retained restorations are preferred for retrievability; abutment/connection selection should be guided by biomechanical requirements and prosthetic workflow — with Morse taper connections increasingly favoured for single-unit and esthetic cases.
+
+## 세줄요약
+
+대한치과의사협회지 서술 리뷰(Narrative Review; 2016; 한국어 본문/영어 초록) — 외부 육각형(External Hexagon, EH) vs 내부 연결(Internal Connection, IC) 임플란트-지대주 결합 시스템의 생역학·마이크로갭·인상채득·보철 구성요소 비교.
+
+내부 연결(특히 모스 테이퍼(Morse Taper) — 냉용접(Cold-weld) 효과로 나사-결합부(Screw Joint) 안정성 우수, 측방 하중 분산 향상, 마이크로갭(Microgap)이 치조골에서 내측으로 이동; 외부 육각형은 구성요소 라이브러리 폭넓고 다수 유닛 인상채득 용이.
+
+나사 유지(Screw-retained) 보철이 회수성 측면 선호; 모스 테이퍼 연결이 단일 임플란트·심미 증례에서 점차 선호되는 추세.
 
 ## Summary
 

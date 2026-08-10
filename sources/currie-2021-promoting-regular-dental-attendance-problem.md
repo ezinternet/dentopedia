@@ -13,8 +13,21 @@ source_collection: external
 
 Identifies dentist communication and the dentist-patient relationship as key levers for converting problem-orientated attenders to regular attendance, feeding the communication/relationship branch of [[overviews/behavioral-dentistry-overview]].
 
-## One-line Summary
-SR finds only 3 interventions targeted at problem-orientated (pain-only) dental attenders — dental anxiety clinic, advertising campaign of free dental update, free dental check-ups (Scotland policy change). Reporting is poor; key future intervention targets identified: dentist communication, dentist-patient relationship, raising awareness, free check-ups.
+## Three-line Summary
+
+Systematic review (3 included studies) on interventions promoting regular dental attendance in problem-orientated (pain-only) attenders — the ~1/3 of the UK population who only present with acute pain.
+
+Only 3 interventions identified: a dental anxiety clinic, a free-update advertising campaign, and a Scotland policy introducing free check-ups; all were poorly reported with no poolable data.
+
+Key future intervention targets identified are dentist communication, the dentist–patient relationship, raising awareness of need, and removal of cost barriers (free check-ups), highlighting a major evidence gap.
+
+## 세줄요약
+
+체계적 문헌고찰(포함 연구 3편) — 문제 중심 내원자(통증 시에만 내원하는 환자, 영국 전체의 약 1/3)의 정기 치과 방문을 촉진하는 중재를 체계적으로 조사.
+
+포함된 중재는 치과 불안 클리닉, 무료 치과 업데이트 홍보 캠페인, 스코틀랜드 무료 검진 정책 3가지뿐이었으며 보고 질이 낮아 통합 분석 불가.
+
+미래 중재 표적으로 술자 소통·치의-환자 관계·필요 인식 제고·비용 장벽 제거가 제시되어, 해당 집단의 근거 공백이 큰 임상 과제임을 확인.
 
 ## 1. Document Information
 - Journal: Journal of Oral Rehabilitation, 48:1183–1191, 2021

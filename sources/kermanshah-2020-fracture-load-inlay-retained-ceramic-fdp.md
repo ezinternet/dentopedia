@@ -9,8 +9,21 @@ pdf_filename: kermanshah-2020-fracture-load-inlay-retained-ceramic-fdp.pdf
 source_collection: external
 ---
 
-## One-line Summary
-인비트로(n=64, 5000회 열순환): 지르코니아 IRFPD·지르코니아강화리튬실리케이트 IRFPD 파절강도 — 지르코니아 IRFPD 672N으로 전통 FDP와 동등; VS-IRFPD 391N으로 유의하게 낮음
+## Three-line Summary
+
+인비트로(n=64, 5000회 열순환): 지르코니아 IRFPD·지르코니아강화리튬실리케이트 IRFPD
+
+파절강도 — 지르코니아 IRFPD 672N으로 전통
+
+FDP와 동등; VS-IRFPD 391N으로 유의하게 낮음
+
+## 세줄요약
+
+인비트로(n=64, 5000회 열순환): 지르코니아 IRFPD·지르코니아강화리튬실리케이트 IRFPD
+
+파절강도 — 지르코니아 IRFPD 672N으로 전통
+
+FDP와 동등; VS-IRFPD 391N으로 유의하게 낮음
 
 ## 1. Document Information
 - **Title**: Effect of ceramic material type on the fracture load of inlay-retained and full-coverage fixed dental prostheses

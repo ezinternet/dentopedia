@@ -9,8 +9,21 @@ pdf_filename: esposito-2015-immediate-loading-vs-delayed-anterior-rct.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Pragmatic multicenter RCT comparing immediate-loading post-extractive single implants vs delayed implants placed in preserved sockets after 4 months, in the anterior maxilla. Reports 1-year outcomes.
+## Three-line Summary
+
+Pragmatic multicenter RCT comparing immediate post-extractive single implants with immediate loading vs delayed placement after 4 months of socket preservation, in the anterior maxilla (≥35 Ncm primary stability gate; 1-year follow-up).
+
+No significant differences in implant failure rates or main esthetic/clinical outcomes between the immediate and delayed arms at 1 year after loading.
+
+With appropriate primary stability gating (≥35 Ncm), immediate post-extractive single implants are non-inferior to delayed placement at 1 year, supporting case-selective use of this approach.
+
+## 세줄요약
+
+상악 전치부 단일 임플란트에서 즉시 발치 후 즉시하중(≥35 Ncm 1차 안정성 조건)과 4개월 소켓 보존 후 지연식립을 비교한 실용적 다기관 RCT (1년 추적).
+
+1년 시점에서 두 군 간 임플란트 실패율 및 주요 심미·임상 결과에 유의한 차이 없음.
+
+1차 안정성이 확보된 경우 즉시 발치 후 즉시하중이 지연 방식과 동등한 결과를 보여, 선택적 케이스에서 이 접근법을 지지한다.
 
 ## 1. Document Information
 - **Title:** Immediate loading of post-extractive versus delayed placed single implants in the anterior maxilla: outcome of a pragmatic multicenter randomised controlled trial 1-year after loading
@@ -33,7 +46,7 @@ No significant differences in failure rates or main esthetic/clinical outcomes b
 
 ## 6. Related Work
 - [[immediate-implant/esthetic-soft-tissue/nassani-2025-immediate-vs-delayed-implant-bony-defect-commentary]]
-- [[immediate-implant/ragucci-2020-immediate-implant-molar-extraction-sockets]]
+- [[immediate-implant/molar-septum/ragucci-2020-immediate-implant-molar-extraction-sockets]]
 
 ## 7. Glossary
 - **IIP:** Immediate Implant Placement — placement at the time of tooth extraction.

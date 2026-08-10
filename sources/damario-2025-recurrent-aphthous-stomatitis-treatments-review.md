@@ -15,15 +15,23 @@ text_filename: damario-2025-recurrent-aphthous-stomatitis-treatments-review.txt
 
 ## Why Ingested
 
-[[oral-medicine/manfredini-2021-recurrent-aphthous-stomatitis-treatment]] already covers RAS management, but this 2025 review adds a focused 10-year (2013–2023) RCT-only synthesis (45 trials) that emphasizes the rising evidence for non-pharmacological options (LLLT, omega-3, natural mucoadhesives) over corticosteroids — reinforcing and extending the treatment-ladder picture. It also complements [[oral-medicine/gasmi-2021-oral-aphthous-pathophysiology-treatment]]'s pathophysiology-anchored treatment account with comparative pain-outcome data per modality.
+[[oral-medicine/aphthous-stomatitis/manfredini-2021-recurrent-aphthous-stomatitis-treatment]] already covers RAS management, but this 2025 review adds a focused 10-year (2013–2023) RCT-only synthesis (45 trials) that emphasizes the rising evidence for non-pharmacological options (LLLT, omega-3, natural mucoadhesives) over corticosteroids — reinforcing and extending the treatment-ladder picture. It also complements [[oral-medicine/aphthous-stomatitis/gasmi-2021-oral-aphthous-pathophysiology-treatment]]'s pathophysiology-anchored treatment account with comparative pain-outcome data per modality.
 
-## One-line Summary
+## Three-line Summary
 
-Narrative/literature review of 45 RCTs (2013–2023) on RAS treatment; non-pharmacological therapies (LLLT, omega-3, natural mucoadhesive gels) gave the best risk–benefit ratio, often matching or exceeding corticosteroids, with LLLT offering the fastest pain relief.
+PRISMA-structured narrative/literature review of 45 RCTs (2013–2023; PubMed, EMBASE, CINHAL) evaluating topical, systemic, and laser treatments for recurrent aphthous stomatitis (RAS), with pain as the primary comparable outcome.
 
-## 한줄요약
+Non-pharmacological therapies — particularly LLLT (fastest pain relief, day-1 effect; diode VAS 2.04 vs pharmacological 4.85 at day 1), omega-3 supplementation (VAS ~1.48 vs placebo ~6.6 at 6 months in 3 RCTs), and natural mucoadhesive gels (curcumin, myrrh, Aloe vera) — showed the best risk–benefit ratio, often matching or exceeding corticosteroids.
 
-RAS 치료 RCT 45편(2013–2023) 문헌고찰 — 저출력레이저(LLLT)·오메가-3·천연 점막부착 젤 같은 비약물 치료가 코르티코스테로이드에 못지않거나 더 나은 위험-이득비를 보였고, LLLT가 가장 빠른 통증 완화를 제공했다.
+Heterogeneous sample sizes and age ranges across 45 trials, mix of single-blind and double-blind designs, and no quantitative pooling (narrative synthesis only) limit the certainty of conclusions.
+
+## 세줄요약
+
+PRISMA 기반 서술적 문헌고찰 (RCT 45편, 2013–2023; PubMed·EMBASE·CINHAL) — 재발성 아프타성 구내염(Recurrent Aphthous Stomatitis, RAS)에 대한 국소·전신·레이저 치료를 평가, 통증을 주요 비교 결과로 사용.
+
+비약물 치료가 가장 우수한 위험-이득비 — 특히 저출력레이저(Low-Level Laser Therapy, LLLT, 가장 빠른 통증 완화; 다이오드 VAS day 1: 2.04 vs 약물 4.85), 오메가-3 보충제(6개월 RCT 3편 모두 위약 대비 유의 우위; VAS ~1.48 vs ~6.6), 천연 점막부착 젤(curcumin·myrrh·Aloe vera)이 코르티코스테로이드와 동등하거나 우위.
+
+45편 연구에서 표본 수·연령 범위 이질, 단일맹검/이중맹검 혼재, 정량적 통합(메타분석) 없는 서술 합성 — 결론의 확실성 제한.
 
 ## 1. Document Information
 
@@ -84,8 +92,8 @@ Double-blind studies provided the more robust evidence; LLLT, omega-3, and curcu
 
 ## 6. Related Work
 
-- Confirms and extends [[oral-medicine/manfredini-2021-recurrent-aphthous-stomatitis-treatment]] (RAS treatment/management) with a larger RCT-only evidence base.
-- Complements [[oral-medicine/gasmi-2021-oral-aphthous-pathophysiology-treatment]] (pathophysiology + treatment) and [[oral-medicine/belenguer-guallar-2014-recurrent-aphthous-stomatitis-review]] / [[oral-medicine/mills-2017-aphthous-stomatitis-oral-medicine-review]] (RAS overviews).
+- Confirms and extends [[oral-medicine/aphthous-stomatitis/manfredini-2021-recurrent-aphthous-stomatitis-treatment]] (RAS treatment/management) with a larger RCT-only evidence base.
+- Complements [[oral-medicine/aphthous-stomatitis/gasmi-2021-oral-aphthous-pathophysiology-treatment]] (pathophysiology + treatment) and [[oral-medicine/aphthous-stomatitis/belenguer-guallar-2014-recurrent-aphthous-stomatitis-review]] / [[oral-medicine/aphthous-stomatitis/mills-2017-aphthous-stomatitis-oral-medicine-review]] (RAS overviews).
 
 ## 7. Glossary
 

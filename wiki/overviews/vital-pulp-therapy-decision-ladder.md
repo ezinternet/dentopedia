@@ -6,7 +6,7 @@ date: 2026-06-06
 doi: N/A
 source: N/A
 category: overviews
-confidence: synthesis
+evidence_level: synthesis
 pdf_path: N/A
 pdf_filename: N/A
 source_collection: internal
@@ -28,11 +28,21 @@ tags: [VPT, vital-pulp-therapy, direct-pulp-capping, pulpotomy, MTA, Biodentine,
 > - 미성숙 치근이 VPT에 유리하나, 성숙 치근도 올바른 진단이면 허용(Taha 2017).
 > - 추적 필수: 6·12·24개월(모든 NMA서 시간 경과로 성공률 감소); 실패 징후 — 통증·종창·누공·치근단 병변·내흡수.
 
-## One-line Summary
-Synthesis of 11 VPT papers (3 SR+MA/NMA, 2 RCT, 1 consensus, 1 prospective, 1 in-vitro, 1 narrative-review, 1 clinical-lecture): Biodentine and MTA are first-line materials (OR 4.41 and 3.02 vs Ca(OH)₂); overall VPT success >93%; diagnosis of reversible vs irreversible pulpitis is the critical gate.
+## Three-line Summary
 
-## 한줄요약
-VPT 11편 종합: Biodentine·MTA 1차 재료(Ca(OH)₂ 대비 OR 4.41·3.02), 전체 VPT 성공률 >93%, 가역성 치수염 진단이 핵심 게이트.
+Synthesis of 11 VPT papers (3 SR+MA/NMA, 2 RCT, 1 consensus, 1 prospective, 1 in-vitro, 1 narrative-review, 1 clinical-lecture): Biodentine and MTA are first-line materials (OR 4.41 and 3.02 vs Ca(OH)₂ for DPC; SUCRA: Biodentine > MTA > TheraCal > Ca(OH)₂); Ca(OH)₂ is not recommended as first-line for any VPT modality (2.3–2.5× failure rate vs MTA; Komora 2024).
+
+Overall VPT success exceeds 93% in a Bayesian NMA with CINeMA grading (Elmsmari 2026, 35 RCTs), with MTA vs Ca(OH)₂ HIGH certainty advantage; within correctly selected reversible-pulpitis cases, material differences diminish — a 3-way RCT (Hu 2026, n=120) found iRoot BP Plus, MTA, and Ca(OH)₂ not significantly different (p=0.6), with proximal lesion the strongest failure predictor (OR 18.18).
+
+Diagnosis of reversible vs irreversible pulpitis is the critical gate: cold/EPT positive without spontaneous pain or >30-second lingering → reversible; bright-red bleeding self-limiting in 5 minutes at exposure → favorable; ESE 2019 provides the procedural hierarchy (IPC → DPC → partial pulpotomy → full pulpotomy → vital pulpectomy).
+
+## 세줄요약
+
+11편 종합(3 SR+MA/NMA, 2 RCT, 1 consensus, 1 전향, 1 in-vitro, 1 서술, 1 강의): Biodentine·MTA 1차 재료(DPC에서 Ca(OH)₂ 대비 OR 4.41·3.02; SUCRA: Biodentine > MTA > TheraCal > Ca(OH)₂); Ca(OH)₂는 어떤 VPT 술식에서도 1차 재료 비권장(MTA 대비 2.3–2.5배 실패율; Komora 2024).
+
+전체 VPT 성공률 >93%(Elmsmari 2026 Bayesian NMA, 35 RCT; MTA vs Ca(OH)₂ HIGH certainty 우월); 단 올바르게 선별된 가역성 치수염 증례에서는 재료 차이 소멸(Hu 2026 3-way RCT n=120, p=0.6), 근심면 우식이 최강 실패 예측인자(OR 18.18) — 재료 선택보다 증례 선택이 결과를 좌우.
+
+가역성 vs 비가역성 치수염 진단이 핵심 게이트: 냉/EPT 양성·자발통·30초 지속통 없음 → 가역성; 선홍색 노출부 출혈 5분 내 지혈 → 양호; ESE 2019 침습도 위계: IPC → DPC → 부분절단 → 전부절단 → 생활치수절단술 순.
 
 ## Summary
 
@@ -53,7 +63,7 @@ Four modalities, ordered from least to most invasive:
 | Partial pulpotomy | Shallow carious/traumatic exposure | Biodentine or MTA |
 | Full pulpotomy | Deeper exposure, symptomatic reversible pulpitis | MTA; vital pulpectomy (Jang 2026) |
 
-Ca(OH)₂ is NOT recommended as a first-line material for any VPT modality (ESE 2019 [근거강함], confirmed by 3 NMA [근거강함]).
+Ca(OH)₂ is NOT recommended as a first-line material for any VPT modality (ESE 2019 [확인], confirmed by 3 NMA [확인]).
 
 ---
 
@@ -68,7 +78,7 @@ Ca(OH)₂ is NOT recommended as a first-line material for any VPT modality (ESE 
 | TheraCal | intermediate | included |
 | Ca(OH)₂ | 1.00 (ref) | — |
 
-SUCRA ranking: Biodentine > MTA > TheraCal > Ca(OH)₂ [근거강함]
+SUCRA ranking: Biodentine > MTA > TheraCal > Ca(OH)₂ [확인]
 
 **Komora 2024 (NMA, 21 RCTs, mature permanent teeth) — failure rate OR vs MTA:**
 
@@ -78,16 +88,16 @@ SUCRA ranking: Biodentine > MTA > TheraCal > Ca(OH)₂ [근거강함]
 | Biodentine | 1.09 | 1.21 | 1.47 | NS |
 | Totalfill | 1.19 | 1.43 | NS | NS |
 
-Conclusion: Ca(OH)₂ fails at 2.3–2.5× the rate of MTA across all time points; Biodentine and Totalfill are equivalent to MTA. [근거강함]
+Conclusion: Ca(OH)₂ fails at 2.3–2.5× the rate of MTA across all time points; Biodentine and Totalfill are equivalent to MTA. [확인]
 
 **Elmsmari 2026 (Bayesian NMA + CINeMA, 35 RCTs, n=2,906):**
 - VPT success >93% across all modalities
 - MTA vs Ca(OH)₂: HIGH certainty superior
 - Biodentine vs Ca(OH)₂: MODERATE certainty superior
-- Silicate-vs-silicate (MTA vs Biodentine): no clear winner (overlapping credible intervals) [근거강함]
+- Silicate-vs-silicate (MTA vs Biodentine): no clear winner (overlapping credible intervals) [확인]
 
 **Pusa 2025 (SR+MA, 21 RCTs, n=1,816):**
-- DPC MTA vs Ca(OH)₂: RR 1.21 (95% CI 1.02–1.42), p=0.03 — MTA superior [근거강함]
+- DPC MTA vs Ca(OH)₂: RR 1.21 (95% CI 1.02–1.42), p=0.03 — MTA superior [확인]
 - DPC MTA vs Biodentine: NS
 - Partial vs full pulpotomy: NS
 
@@ -101,7 +111,7 @@ Direct 3-way comparison of iRoot BP Plus (bioceramic) vs ProRoot MTA vs Calxyl C
 | MTA | 93.1% |
 | Ca(OH)₂ | 84.6% |
 
-No significant difference between materials (p=0.6; log-rank p=0.66). The decisive finding is prognostic, not material: **proximal lesion location was the dominant failure predictor (OR=18.18, p=0.001)** — shifting attention from material selection to case selection. This nuances the silicate-vs-Ca(OH)₂ hierarchy above: in a *correctly selected* reversible-pulpitis case the three materials performed equivalently (the Ca(OH)₂ rate here, 84.6%, is far above its long-term failure signal in Komora/Hatipoglu), and the difference between Calxyl here and Dycal in Kundzina 2017 may explain why this RCT did not reproduce MTA's superiority. iRoot BP Plus matched MTA without MTA's discoloration/handling drawbacks. (32.5% dropout, COVID-related, limits power for small between-material differences.) [근거강함 for case-selection; material equivalence underpowered]
+No significant difference between materials (p=0.6; log-rank p=0.66). The decisive finding is prognostic, not material: **proximal lesion location was the dominant failure predictor (OR=18.18, p=0.001)** — shifting attention from material selection to case selection. This nuances the silicate-vs-Ca(OH)₂ hierarchy above: in a *correctly selected* reversible-pulpitis case the three materials performed equivalently (the Ca(OH)₂ rate here, 84.6%, is far above its long-term failure signal in Komora/Hatipoglu), and the difference between Calxyl here and Dycal in Kundzina 2017 may explain why this RCT did not reproduce MTA's superiority. iRoot BP Plus matched MTA without MTA's discoloration/handling drawbacks. (32.5% dropout, COVID-related, limits power for small between-material differences.) [확인 for case-selection; material equivalence underpowered]
 
 **Reparative dentin bridge — Nowicka 2015 (in vitro, micro-CT, 44 teeth):**
 - Bridge formation: Biodentine > MTA > Ca(OH)₂ >> Single Bond Universal
@@ -130,7 +140,7 @@ Before selecting VPT modality, confirm:
 1. **Pulp sensibility**: positive response to cold/EPT suggests vital pulp
 2. **Symptom pattern**: spontaneous pain, lingering pain >30 s → irreversible pulpitis → root canal treatment
 3. **Radiograph**: no periapical pathology, no internal resorption
-4. **Bleeding quality at exposure**: bright red, controlled hemostasis within 5 min → favorable [합의수준]
+4. **Bleeding quality at exposure**: bright red, controlled hemostasis within 5 min → favorable [확인]
 5. **Patient age/root maturity**: immature apex favors VPT (Jang 2026); mature apex also acceptable with correct diagnosis (Taha 2017)
 
 ---
@@ -160,4 +170,4 @@ All three NMA confirm success rates decline over time regardless of material (Ha
 
 ### 신규 추가 (2026-06)
 
-- [[endodontics/jkda-2025-63-2-005]] — Review (NHIS 일산병원 보존과 송민주, JKDA 2025): 미성숙 영구치의 vital pulp therapy … (narrative-review, 2025)
+- [[endodontics/vpt/jkda-2025-63-2-005]] — Review (NHIS 일산병원 보존과 송민주, JKDA 2025): 미성숙 영구치의 vital pulp therapy … (narrative-review, 2025)

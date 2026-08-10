@@ -16,13 +16,21 @@ text_filename: gomez-rios-2025-machine-learning-data-analysis-pediatric-dentistr
 
 Seeds the new `artificial-intelligence` category with primary-study-level evidence on machine learning (ML) in paediatric dentistry, paired with the higher-tier synthesis [[wiki/artificial-intelligence/garg-2026-artificial-intelligence-pediatric-dentistry-umbrella-review]] created alongside it. This SR provides the granular sub-topic breakdown (14/20 studies on caries prediction; predictor classes; cost-outcome findings) that the umbrella review aggregates, so the two reinforce each other and let later overview synthesis distinguish "what ML is used for" (this page) from "how strong the pooled evidence is" (the umbrella).
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (PRISMA, QUADAS-2; 20 of 1945 screened articles) finding machine learning in paediatric dentistry is dominated by caries prediction (14/20 studies, using socio-demographic/behavioural/biological predictors) and that ML-derived cost analyses favour sealants + fluoride, while concluding that ML-specific methodological guidelines and quality scales are still lacking.
+Systematic review (PRISMA, QUADAS-2;
 
-## 한줄요약
+20 of 1945 screened articles) finding machine learning in paediatric dentistry is dominated by caries prediction (14/20 studies, using socio-demographic/behavioural/biological predictors) and that ML-derived cost analyses favour sealants + fluoride, while concluding that ML-specific methodological guidelines and quality scales are still lacking.
 
-체계적 문헌고찰(PRISMA, QUADAS-2; 1945편 중 20편)로, 소아치과의 머신러닝(Machine Learning, ML)은 우식 예측(20편 중 14편, 사회인구·행동·생물학적 예측인자 사용)에 집중되어 있고 ML 비용분석은 실란트+불소가 비용 절감에 유리함을 보였으며, ML 전용 방법론 지침·질 평가 척도가 아직 부족하다고 결론.
+(incomplete)
+
+## 세줄요약
+
+체계적 문헌고찰(PRISMA, QUADAS-2;
+
+1945편 중 20편)로, 소아치과의 머신러닝(Machine Learning, ML)은 우식 예측(20편 중 14편, 사회인구·행동·생물학적 예측인자 사용)에 집중되어 있고 ML 비용분석은 실란트+불소가 비용 절감에 유리함을 보였으며, ML 전용 방법론 지침·질 평가 척도가 아직 부족하다고 결론.
+
+(incomplete)
 
 ## 1. Document Information
 

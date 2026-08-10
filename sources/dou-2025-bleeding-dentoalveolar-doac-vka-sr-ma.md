@@ -17,13 +17,21 @@ text_filename: dou-2025-bleeding-dentoalveolar-doac-vka-sr-ma.txt
 
 기존 [[drug/anticoagulants/inchingolo-2024-anticoagulation-therapy-dental-practice-sr]]와 [[drug/anticoagulants/moldovan-2023-anticoagulant-oral-surgery-bleeding-sr]]는 "루틴 치과 처치 시 항응고제 중단 불필요"를 narrative SR 수준에서 결론냈으나, DOAC vs VKA 출혈 위험의 효과크기(effect size)를 정량화하지 못했다. 본 SR+MA (Dou 2025, 29편·29,212명)는 처음으로 DOAC vs VKA 직접비교 pooled RR과 약물별(dabigatran/rivaroxaban/apixaban/edoxaban) subgroup 효과크기를 제시해 두 기존 SR의 임상 결론을 정량적으로 보강·확장한다.
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (29 studies, n=29,212): uninterrupted DOACs carry 21% lower post-dentoalveolar-surgery bleeding risk than VKAs (RR 0.79, 95% CI 0.68–0.92), driven mainly by dabigatran (RR 0.40); both DOACs (RR 3.23) and VKAs (RR 3.35) raise bleeding vs no-anticoagulant controls, but severe bleeding is rare. GRADE very low.
+SR+MA (29 studies, n=29,212): uninterrupted DOACs carry 21% lower post-dentoalveolar-surgery bleeding risk than VKAs (RR 0.79, 95% CI 0.68–0.92), driven mainly by dabigatran (RR 0.40).
 
-## 한줄요약
+Both DOACs (RR 3.23) and VKAs (RR 3.35) raise bleeding vs no-anticoagulant controls, but severe bleeding is rare.
 
-SR+MA (29편, n=29,212): 비중단(uninterrupted) DOAC는 치조골 수술 후 출혈 위험이 VKA보다 21% 낮음 (RR 0.79) — dabigatran(RR 0.40)이 주도; DOAC(RR 3.23)·VKA(RR 3.35) 모두 비복용군 대비 출혈 증가하나 중증 출혈은 드묾. 근거수준 very low.
+GRADE very low.
+
+## 세줄요약
+
+SR+MA (29편, n=29,212): 비중단(uninterrupted) DOAC는 치조골 수술 후 출혈 위험이 VKA보다 21% 낮음 (RR 0.79, 95% CI 0.68–0.92) — dabigatran(RR 0.40)이 주도.
+
+DOAC(RR 3.23)·VKA(RR 3.35) 모두 비복용군 대비 출혈 증가하나 중증 출혈은 드묾.
+
+근거수준 very low.
 
 ## 1. Document Information
 

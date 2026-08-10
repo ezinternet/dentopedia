@@ -9,8 +9,21 @@ pdf_filename: oh-2023-deep-learning-osseointegration-prediction-radiographs.pdf
 source_collection: external
 ---
 
-## One-line Summary
-BMC Oral Health 2023;23:208 (Gachon/Wonkwang): DL model on 580 patients/1206 implant radiographs — 7 models predict osseointegration status (pre vs post); reliable classification performance; multicenter validation needed for clinical deployment.
+## Three-line Summary
+
+BMC Oral Health 2023;23:208 (Gachon/Wonkwang): DL model on 580 patients/1206 implant radiographs — 7 models predict osseointegration status (pre vs post)
+
+reliable classification performance
+
+multicenter validation needed for clinical deployment.
+
+## 세줄요약
+
+BMC Oral Health 2023;23:208 (Gachon/Wonkwang): DL model on 580 patients/1206 implant radiographs — 7 models predict osseointegration status (pre vs post)
+
+reliable classification performance
+
+multicenter validation needed for 임상적 (Clinical) deployment.
 
 ## 1. Key Results
 - 580 patients, 1206 implants; panoramic + periapical radiographs

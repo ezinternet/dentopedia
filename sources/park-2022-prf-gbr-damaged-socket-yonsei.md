@@ -16,13 +16,21 @@ text_filename: park-2022-prf-gbr-damaged-socket-yonsei.txt
 
 연세대 치주과학교실(Research Institute for Periodontal Regeneration) 팀의 PRF vs GBR 직접 비교 동물 실험 — qRT-PCR(분자) + micro-CT + 조직학의 3중 분석으로 sticky bone 기법의 전임상 근거를 제공. [[bone-regeneration/ridge-preservation/alavi-2024-regenerative-grafts-socket-preservation-sr-ma]]의 L-PRF SR 결과에 대한 기초과학 보완 역할.
 
-## One-line Summary
+## Three-line Summary
 
 Beagle dog 2-wall defect model: sticky bone (PRF + DPBM) ± solid-PRF membrane performs comparably to GBR (collagen membrane + DPBM) in alveolar ridge area and new bone formation at 8 weeks, though PRF modestly upregulates osteocalcin, VEGF, and IL-6.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
 
 비글견 2벽성 결손 모델에서 sticky bone(PRF+DPBM) ± solid-PRF 멤브레인은 8주 신생골 형성 면적에서 GBR(콜라겐 멤브레인+DPBM)과 유의한 차이가 없었으나, PRF는 osteocalcin·VEGF·IL-6를 소폭 상향 조절하였다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

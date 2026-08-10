@@ -6,18 +6,26 @@ date: 2018-03-01
 doi: N/A
 source: sharafeddin-2018-mdp-primers-zirconia-bond.md
 category: [dental-materials/zirconia]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/sharafeddin-2018-mdp-primers-zirconia-bond.pdf
 pdf_filename: sharafeddin-2018-mdp-primers-zirconia-bond.pdf
 source_collection: external
 tags: [zirconia, MDP, primer, Z-prime-plus, universal-adhesive, bond-strength, SBS]
 ---
 
-## One-line Summary
-In vitro shear bond strength study (J Dent Shiraz 2018; zirconia-to-resin-cement): the dedicated conventional MDP primer Z-Prime Plus (22.45 MPa) outperformed the universal MDP-containing adhesive All-Bond Universal (17.51 MPa), and both greatly exceeded the unprimed control (7.58 MPa).
+## Three-line Summary
+In vitro shear bond strength study (J Dent Shiraz 2018) compared a dedicated zirconia MDP primer (Z-Prime Plus) versus a universal MDP-containing adhesive (All-Bond Universal) versus an unprimed control on zirconia-to-resin-cement bond.
 
-## 한줄요약
-in-vitro(J Dent Shiraz 2018): MDP 프라이머 비교 — Z-Prime Plus(22.45 MPa) > All-Bond Universal(17.51) > 무처리(7.58); 전용 MDP 프라이머가 범용 접착제보다 우수.
+The dedicated MDP primer Z-Prime Plus achieved the highest SBS (22.45 MPa), outperforming All-Bond Universal (17.51 MPa), while both greatly exceeded the unprimed control (7.58 MPa), demonstrating that dedicated primers with optimized MDP concentration outperform diluted MDP in universal adhesives.
+
+Clinically, a dedicated zirconia-specific MDP primer should be preferred over universal adhesives when maximum bond strength to zirconia is required.
+
+## 세줄요약
+in-vitro(J Dent Shiraz 2018): 전용 지르코니아 MDP 프라이머(Z-Prime Plus) vs 범용 MDP 접착제(All-Bond Universal) vs 무처리 대조군 전단결합강도 비교.
+
+Z-Prime Plus 최고(22.45 MPa) > All-Bond Universal(17.51 MPa) > 무처리(7.58 MPa); 전용 프라이머의 최적화된 MDP 농도가 범용 접착제의 희석 MDP보다 우수.
+
+지르코니아 접착 시 최고 결합강도를 원한다면 범용 접착제보다 전용 MDP 프라이머를 우선 선택한다.
 
 ## Summary
 In vitro comparison of zirconia-specific conventional MDP primer (Z-Prime Plus) vs universal MDP-containing adhesive (All-Bond Universal) on shear bond strength of zirconia to resin cement. Zirconia-specific primer significantly outperforms universal adhesive; both greatly surpass unprimed control.

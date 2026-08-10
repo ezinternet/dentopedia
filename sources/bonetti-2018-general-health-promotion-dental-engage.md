@@ -13,13 +13,21 @@ source_collection: external
 
 [[wiki/behavioral-dentistry/motivational-interviewing/kay-2016-motivational-interviewing-general-dental-practice]]·[[wiki/behavioral-dentistry/motivational-interviewing/anderson-2025-motivational-interviewing-nutritional-counseling-dentistry]]가 "치과에서 행동변화 상담이 효과적"임을 보였다면, 본 feasibility study는 그 상담을 "흡연·음주·식이"라는 일반건강 위험요인으로 확장했을 때 환자·GDP가 수용하는지를 실증 — opportunistic health promotion을 우리 클리닉 routine check-up에 넣을지에 대한 실행가능성(acceptance) 근거.
 
-## One-line Summary
+## Three-line Summary
 
-Feasibility study (Scotland) of ENGAGE, a <5-minute chairside intervention that communicates lifestyle-risk information (smoking/alcohol/diet) and signposts to free NHS helplines — patients overwhelmingly accept being asked (<10% would be offended), and 17/18 participating GDPs agreed it is deliverable in a routine check-up and an improvement over current practice.
+Mixed-methods feasibility study (BDJ 2018, Scotland): Study 1 — online survey of 200 NHS patients (random sample of 1,000 invited); Study 2 — 18 GDPs across 9 health boards delivered ENGAGE (a <5-minute risk-communication + NHS signposting intervention for smoking/alcohol/diet) to 335 check-up patients and reported on acceptability and deliverability.
 
-## 한줄요약
+Patient survey: <15% recalled being asked about lifestyle habits at their last dental visit; <10% would be embarrassed/offended if asked; >70% would feel reassured by the professionalism; <4% would be offended by receiving an NHS helpline leaflet.
 
-스코틀랜드 ENGAGE 실행가능성 연구 — 정기검진 중 5분 이내로 생활습관(흡연·음주·식이) 위험을 알리고 무료 NHS 상담전화로 연결하는 개입. 환자 거부감 거의 없음(<10%만 불쾌), 참여 GDP 18명 중 17명이 "검진 중 실행 가능하고 현행보다 개선"이라 평가.
+17/18 participating GDPs agreed ENGAGE is deliverable in a routine check-up and an improvement on current practice; effectiveness for actual behavior change has not yet been tested.
+
+## 세줄요약
+
+혼합방법 실행가능성 연구 (BDJ 2018, 스코틀랜드): 연구 1 — NHS 환자 200명(1,000명 중 무작위) 온라인 설문; 연구 2 — 9개 보건청 소속 GDP 18명이 정기검진 환자 335명에게 ENGAGE(5분 이내 흡연·음주·식이 위험정보 전달 + NHS 상담전화 안내 리플릿) 시행 후 수용성·실행가능성 보고.
+
+환자 설문: 지난 정기검진에서 생활습관 질문 받은 기억 <15%; 질문 시 불쾌/당혹감 <10%; >70%는 전문적 태도에 안심감; NHS 리플릿 수령에 불쾌 <4%.
+
+참여 GDP 18명 중 17명이 "정기검진 중 시행 가능하고 현행 대비 개선"에 동의 — 실제 행동 변화에 대한 효과는 아직 미검증.
 
 ## 1. Document Information
 - Journal: British Dental Journal 2018;225(7):645–(October 12 2018)

@@ -12,11 +12,21 @@ source_collection: external
 ## Why Ingested
 The dental epidemiology anchor: it quantifies how often and why dental practitioners are complained about, and the heavy concentration of complaints in a few practitioners. Grounds the general pipeline in dentistry and informs risk-targeting for a clinic. Links to [[practice-management/ha-2023-dentist-issues-constitutional-court-decisions]].
 
-## One-line Summary
-National Australian cohort (2011-2016) showing dentists have the highest complaint rate of 14 health professions (42.7/1000/yr); 4% of dentists generate 49% of complaints; most concern treatment.
+## Three-line Summary
 
-## 한줄요약
-호주 전국 코호트(2011-2016) — 치과의사가 14개 보건직종 중 민원율 최고(연 1000명당 42.7건); 4%의 치과의사가 민원의 49% 발생, 대부분 치료 관련.
+National Australian cohort (2011-2016) showing dentists have the highest complaint rate of 14 health professions (42.7/1000/yr);
+
+4% of dentists generate 49% of complaints;
+
+most concern treatment.
+
+## 세줄요약
+
+호주 전국 코호트(2011-2016) — 치과의사가 14개 보건직종 중 민원율 최고(연 1000명당 42.7건);
+
+4%의 치과의사가 민원의 49% 발생, 대부분 치료 관련.
+
+(incomplete)
 
 ## 1. Document Information
 - Australian Dental Journal 2018;63(3):285-293.

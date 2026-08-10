@@ -6,7 +6,7 @@ date: 2023-06-25
 doi: 10.12659/MSM.940635
 journal: Medical Science Monitor 29:e940635
 source: kotowska-rodziewicz-2023-nsaids-role-dentistry-review.md
-confidence: narrative-review
+evidence_level: narrative-review
 category: [drug/analgesics]
 pdf_path: /Users/oracleneo/llm-wiki/papers/kotowska-rodziewicz-2023-nsaids-role-dentistry-review.pdf
 pdf_filename: kotowska-rodziewicz-2023-nsaids-role-dentistry-review.pdf
@@ -14,11 +14,21 @@ source_collection: external
 tags: [NSAIDs, ibuprofen, COX-inhibitor, pain, analgesic, anti-inflammatory, orofacial-pain, dental-surgery, topical-NSAIDs]
 ---
 
-## One-line Summary
-Narrative review (Med Sci Monit 2023) of preclinical and clinical evidence for NSAIDs across all dental specialties: NSAIDs are WHO first-line drugs for orofacial pain/inflammation, act beyond COX inhibition (NF-κB, iNOS, oxidative stress), and topical NSAIDs are a promising direction to avoid systemic side effects.
+## Three-line Summary
 
-## 한줄요약
-서술적 고찰: NSAIDs는 WHO 1차 치과 진통제; 모든 진료과에 적용; COX 외 NF-kB·iNOS·산화스트레스 추가 기전; 국소 NSAIDs가 전신 부작용 없는 미래 방향
+Narrative review (Med Sci Monitor 2023) covering preclinical and clinical NSAID evidence across all dental specialties including conservative, oral surgery, periodontics, orthodontics, and oral medicine.
+
+NSAIDs are the WHO first-line drugs for orofacial pain/inflammation and act beyond COX inhibition via NF-κB suppression, iNOS inhibition, and oxidative stress reduction; ibuprofen 400–600 mg is the most evidence-based dental analgesic.
+
+Topical NSAIDs (benzydamine, diclofenac) are a promising future direction to preserve efficacy while avoiding systemic GI, renal, and cardiovascular side effects.
+
+## 세줄요약
+
+서술적 고찰 (Med Sci Monitor 2023): 보존·구외과·치주·교정·구강내과 등 전 진료과에서 NSAIDs의 전임상·임상 근거 정리.
+
+NSAIDs는 WHO 1차 치과 진통소염제; COX 억제 외 NF-κB·iNOS·산화스트레스 추가 기전 작용; 이부프로펜 400–600 mg이 가장 근거 있는 치과용 진통제.
+
+국소 NSAIDs(benzydamine·diclofenac)는 전신 GI·신장·심혈관 부작용 없이 효능을 유지하는 미래 방향으로 제시됨.
 
 ## Summary
 Narrative review covering NSAIDs in all dental specialties. NSAIDs are the **WHO first-line drugs** for orofacial pain and inflammation. Used across all dental fields. Additional anti-inflammatory mechanisms beyond COX inhibition identified. Topical NSAIDs (benzydamine, diclofenac) represent a promising direction to avoid systemic side effects.
@@ -72,6 +82,6 @@ Secondary:  NF-kB inhibition → ↓ TNF-α, IL-6, IL-1β
 - Advantage: avoids systemic GI, renal, cardiovascular, antiplatelet side effects
 
 ## Related Papers
-- [[drug/gupta-2022-dental-management-cardiovascular-disease]] — NSAIDs ↓ antihypertensive effect; interaction with epinephrine
-- [[drug/ghimire-2022-medically-compromised-prosthodontic-patients]] — NSAIDs contraindicated in CKD, AERD, active liver disease
-- [[drug/ufcd-2019-medically-complex-patients-management-guidelines]] — institutional guidance on analgesic selection per systemic condition
+- [[drug/anticoagulants/gupta-2022-dental-management-cardiovascular-disease]] — NSAIDs ↓ antihypertensive effect; interaction with epinephrine
+- [[drug/mronj/ghimire-2022-medically-compromised-prosthodontic-patients]] — NSAIDs contraindicated in CKD, AERD, active liver disease
+- [[drug/mronj/ufcd-2019-medically-complex-patients-management-guidelines]] — institutional guidance on analgesic selection per systemic condition

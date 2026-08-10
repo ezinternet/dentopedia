@@ -8,7 +8,7 @@ pmid: "26340752"
 pmcid: "PMC4560370"
 source: li-2015-microbiota-black-stain-primary-dentition.md
 category: [caries]
-confidence: cross-sectional
+evidence_level: cross-sectional
 source_collection: pubmed-text
 text_path: /Users/oracleneo/llm-wiki/papers/li-2015-microbiota-black-stain-primary-dentition.txt
 text_filename: li-2015-microbiota-black-stain-primary-dentition.txt
@@ -16,13 +16,19 @@ full_text: true
 tags: [black-stain, microbiome, 16S-rRNA, actinomyces, primary-dentition, caries-free, oral-microbiome]
 ---
 
-## One-line Summary
+## Three-line Summary
+16S rRNA amplicon cross-sectional study (25 caries-free Chinese children: BS+ n=10, BS− n=15) characterizing the oral microbiome of black stain (BS) plaque and saliva in the primary dentition.
 
-16S rRNA cross-sectional study in 25 caries-free children found that black stain (BS) plaque is enriched in Actinomyces, Haemophilus, and Treponema and shows lower salivary microbial diversity vs controls, with BS+ plaque samples splitting into two heterogeneous subgroups by PCA.
+BS+ plaque was enriched in Actinomyces, Haemophilus, Corynebacterium, and Treponema; salivary alpha diversity (Shannon/Simpson) was significantly lower in BS+ children; PCA showed BS+ plaque split into two heterogeneous subgroups.
 
-## 한줄요약
+Actinomyces is the candidate keystone taxon in BS formation; microbiome heterogeneity within BS+ suggests mechanistic or host subtypes, consistent with BS's known caries-protective association.
 
-우식이 없는 25명 아동 대상 16S rRNA 횡단 연구에서 흑색 착색(Black Stain, BS) 치태에는 Actinomyces 등이 증가하고 타액 미생물 다양성이 유의하게 감소하며, BS+ 치태는 PCA에서 두 이질적 아군으로 분리됨을 보였다.
+## 세줄요약
+16S rRNA 횡단 연구(우식 없는 아동 25명: BS+ 10명, BS− 15명): 유치열 흑색 착색(Black Stain, BS) 치태와 타액의 구강 미생물군 특성화.
+
+BS+ 치태에 Actinomyces·Haemophilus·Corynebacterium·Treponema 증가; 타액 알파다양성(Shannon/Simpson) BS+에서 유의 감소; PCA에서 BS+ 치태가 두 이질적 아군으로 분리.
+
+Actinomyces가 BS 형성의 핵심 분류군 후보이며, BS+ 내 미생물 이질성은 기계적 또는 숙주 아형의 존재를 시사한다.
 
 ## Summary
 

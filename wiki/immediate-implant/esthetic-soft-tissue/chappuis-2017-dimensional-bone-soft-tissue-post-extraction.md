@@ -6,18 +6,28 @@ date: 2016-01-01
 doi: 10.1111/prd.12167
 source: chappuis-2017-dimensional-bone-soft-tissue-post-extraction.md
 category: [immediate-implant/esthetic-soft-tissue]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/chappuis-2017-dimensional-bone-soft-tissue-post-extraction.pdf
 pdf_filename: chappuis-2017-dimensional-bone-soft-tissue-post-extraction.pdf
 source_collection: external
 tags: [post-extraction, bundle-bone, facial-bone-wall, socket-healing, esthetic, soft-tissue, bone-remodeling]
 ---
 
-## One-line Summary
-Narrative review (Periodontol 2000 2017) synthesizing animal/human evidence on post-extraction dimensional bone and soft tissue alterations in esthetic sites; the facial bone wall is <1mm in 90% of the anterior maxilla, bundle bone resorbs completely regardless of implant placement, a ~2mm facial wall is needed to maintain dimensions after immediate implant, and up to 50% of ridge width is lost in year one with two-thirds occurring within the first 3 months.
+## Three-line Summary
 
-## 한줄요약
-narrative-review(Periodontol 2000 2017;73): 발치 후 골·연조직 변화 생물학 종합 — 전방 상악 90%에서 협측골 <1mm; bundle bone 완전 소실; 즉시식립·소켓이식 영향; 2mm 협측벽 필요; 발치 후 치조골 2/3가 3개월 내 흡수.
+Narrative review (Periodontol 2000 2017;73, Chappuis, Araújo & Buser) synthesizing animal and human evidence on post-extraction dimensional bone and soft tissue alterations in esthetic sites and their clinical implications.
+
+The facial bone wall is <1 mm in 90% of anterior maxilla and <0.5 mm in 66%; bundle bone resorbs completely regardless of implant placement; up to 50% of ridge width is lost in year one with two-thirds occurring in the first 3 months; a ~2 mm facial wall is needed for dimensional stability after immediate implant.
+
+Socket grafting partially counteracts marginal ridge contraction but does not eliminate remodeling; sites with <1 mm facial wall are high-risk for Type I placement and should be directed to socket preservation plus Type II/III.
+
+## 세줄요약
+
+내러티브 고찰 (Periodontol 2000 2017;73, Chappuis·Araújo·Buser): 동물·인체 근거를 종합한 심미부 발치 후 골·연조직 변화 생물학 및 임상적 함의.
+
+전방 상악 협측벽 90%가 <1 mm, 66%가 <0.5 mm; bundle bone은 임플란트 식립 여부와 무관하게 완전 흡수; 1년 내 치조제 폭 50% 감소 중 2/3가 3개월 내 발생; 즉시 식립 후 치조제 보존에는 ~2 mm 협측벽 필요.
+
+소켓이식은 변연부 수축을 부분적으로 억제하나 리모델링 제거 불가 — 협측벽 <1 mm 부위는 발치와 보존 + 조기 식립(Type II/III)으로 전환 권고.
 
 ## Summary
 Companion review to Buser 2017 (same Periodontol 2000 issue), synthesizing animal and human evidence on the biology and clinical extent of post-extraction dimensional alterations. Identifies modulating factors and their implications for treatment planning in the esthetic zone.

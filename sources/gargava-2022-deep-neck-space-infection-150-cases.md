@@ -9,8 +9,21 @@ pdf_filename: gargava-2022-deep-neck-space-infection-150-cases.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Prospective study of 150 deep neck space infection (DNSI) cases at a tertiary care hospital in India; odontogenic source in 42.66%, Ludwig's angina most common site (24.66%), Streptococcus dominant organism (31.33%), I&D in 38%, emergency tracheostomy in a subset.
+## Three-line Summary
+
+Prospective study of 150 deep neck space infection (DNSI) cases at a tertiary
+
+care hospital in India; odontogenic source in 42.66%, Ludwig's angina most common site
+
+(24.66%), Streptococcus dominant organism (31.33%), I&D in 38%, emergency tracheostomy in a subset.
+
+## 세줄요약
+
+Prospective study of 150 deep neck space infection (DNSI) cases at a tertiary
+
+care hospital in India; odontogenic source in 42.66%, Ludwig's angina most common site
+
+(24.66%), Streptococcus dominant organism (31.33%), I&D in 38%, emergency tracheostomy in a subset.
 
 ## 1. Document Information
 - **Journal**: Indian Journal of Otolaryngology and Head & Neck Surgery 2022;74:5832-5835

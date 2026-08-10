@@ -6,20 +6,28 @@ date: 2022-01-19
 doi: 10.1111/cid.13057
 source: tay-2022-healing-complications-vertical-gbr-sr-ma.md
 category: [implants/vertical-ridge-augmentation]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/tay-2022-healing-complications-vertical-gbr-sr-ma.pdf
 pdf_filename: tay-2022-healing-complications-vertical-gbr-sr-ma.pdf
 source_collection: external
 tags: [healing-complications, membrane-exposure, vertical-gbr, ratio-of-means, meta-analysis]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR/MA of 31 publications: healing complications in vertical GBR significantly reduce bone gain — ratio of means of vertical bone gained 0.65 (95% CI 0.47–0.91) with membrane exposure and 0.62 (0.45–0.85) with abscess vs uneventful healing — yet complications are uncommon (~11% site-level, ~10.8% patient-level).
+SR+MA of 31 publications on healing complications in vertical GBR, evaluating ratio of means (RoM) of vertical bone gained with vs without complications.
 
-## 한줄요약
+Healing complications significantly reduce bone gain: membrane exposure RoM 0.65 (95% CI 0.47–0.91); abscess without exposure RoM 0.62 (95% CI 0.45–0.85) vs uneventful healing.
 
-31편 SR/MA: 수직 GBR 치유합병증은 골획득을 유의하게 감소 — 막노출 시 수직골증가 비(RoM) 0.65 (95% CI 0.47–0.91), 농양 시 0.62 (0.45–0.85), 정상 치유 대비. 다만 합병증 자체는 드뭄(부위 약 11%, 환자 약 10.8%).
+Complications are relatively uncommon (site-level ~11%, patient-level ~10.8%), so prevention remains critical as even rare events cause ~35–38% bone-gain penalty.
+
+## 세줄요약
+
+31편 대상 SR+MA: 수직 GBR의 치유합병증이 골증대량에 미치는 영향을 비(RoM)로 정량화.
+
+막노출 시 수직골증가 RoM 0.65 (95% CI 0.47–0.91), 농양(막노출 없음) RoM 0.62 (0.45–0.85) — 정상 치유 대비 약 35–38% 골획득 감소.
+
+합병증 발생 자체는 드물지만(부위 11%, 환자 10.8%) 발생 시 골획득 손실이 크므로 예방이 핵심 전략.
 
 ## Summary
 

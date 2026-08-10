@@ -16,13 +16,21 @@ text_filename: johnson-2020-intraoral-radiograph-dose-collimation-thyroid-shield
 
 [[radiology/ludlow-2008-patient-risk-dental-radiographic-examinations]]의 2008년 선량 데이터를 최신 장비·조준통으로 업데이트. NCPR Report No. 177(2019) 직사각조준 재권고를 검증하는 실험적 근거. 성인·소아 팬텀 모두 포함해 최신 FMS 선량 기준값 제공.
 
-## One-line Summary
+## Three-line Summary
 
-Phantom dosimetry (adult + child, 7 collimator systems): best FMS = Focus-RC 54 µSv adult / 44 µSv child; circular collimation 86–89 µSv; rectangular collimation outperforms thyroid shielding for thyroid dose reduction.
+Phantom dosimetry (adult + child, 7 collimator systems): best FMS = Focus-RC 54 µSv adult / 44 µSv child;
 
-## 한줄요약
+circular collimation 86–89 µSv;
 
-팬텀 선량측정(성인·소아, 7개 조준 시스템): 최저 FMS = Focus-RC 54 µSv 성인 / 44 µSv 소아; 원형조준 86–89 µSv; 직사각조준이 갑상선 차폐보다 갑상선 선량 감소에 더 효과적.
+rectangular collimation outperforms thyroid shielding for thyroid dose reduction.
+
+## 세줄요약
+
+팬텀 선량측정(성인·소아, 7개 조준 시스템): 최저 FMS = Focus-RC 54 µSv 성인 / 44 µSv 소아;
+
+원형조준 86–89 µSv;
+
+직사각조준이 갑상선 차폐보다 갑상선 선량 감소에 더 효과적.
 
 ## 1. Document Information
 

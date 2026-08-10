@@ -12,11 +12,21 @@ source_collection: external
 ## Why Ingested
 Cochrane 우식 예방 근거의 기준선(sealant vs no sealant)을 위키에 고정하기 위해 인제스트. 기존 [[caries/rashed-2022-sealant-vs-fluoride-varnish-caries-prevention-sr-ma]] 및 [[caries/chestnutt-2017-fissure-seal-fluoride-varnish-trial]]는 sealant와 fluoride varnish의 *상대* 효과를 다루나, 그 전제가 되는 "sealant가 무처치 대비 효과적"이라는 근거의 원전이 본 리뷰다. 자매편 [[caries/kashbour-2020-sealants-versus-fluoride-varnishes-decay]]와 한 쌍으로 묶인다.
 
-## One-line Summary
-Cochrane SR+MA (38 RCTs, 7924 children aged 5–16): resin-based fissure sealants reduced occlusal caries by 11–51% vs no sealant at 24 months (moderate-certainty evidence).
+## Three-line Summary
 
-## 한줄요약
-코크란 SR+MA (RCT 38편, 5–16세 아동 7,924명): 레진계 열구전색이 무전색 대비 24개월 시점 교합면 우식을 11–51% 감소시켰다(중등도 확실성).
+Cochrane SR+MA pub5 (38 RCTs, 7,924 children aged ≤20 years, ≥12-month follow-up) comparing resin-based fissure sealants vs no sealant, glass ionomer sealants vs no sealant, and one sealant vs another for occlusal caries prevention in permanent teeth.
+
+Resin-based sealants reduced occlusal caries 11–51% vs no sealant at 24 months (OR 0.12, 95% CI 0.08–0.19, moderate-certainty); absolute benefit varied by baseline risk (control 16% → 5.2% sealed; control 70% → 19% sealed); glass ionomer vs no sealant and one sealant vs another remained unresolved (very low certainty).
+
+Resin-based fissure sealants are effective for occlusal caries prevention in permanent first molars with moderate evidence; most pooled data derive from 1970s trials and contemporary high-fluoride populations may have lower absolute benefit.
+
+## 세줄요약
+
+코크란 SR+MA pub5 (RCT 38편, ≤20세 아동·청소년 7,924명, ≥12개월 추적): 레진계·글래스아이오노머계 열구전색 vs 무처치, 전색재 간 비교.
+
+레진계 열구전색이 무처치 대비 24개월 교합면 우식 11–51% 감소(OR 0.12, 중등도 확실성); 기저 우식 위험별 절대 효과 차이 있음(대조군 16% → 처치군 5.2%; 대조군 70% → 처치군 19%); 글래스아이오노머 전색 및 전색재 간 비교는 근거 불충분(매우 낮은 확실성).
+
+레진계 열구전색은 영구 제1대구치 교합면 우식 예방에 중등도 근거로 효과적; 주요 풀링 데이터가 1970년대 연구 기반이라 현대 고불소 환경에서의 절대 효과는 낮을 수 있음.
 
 ## 1. Document Information
 - **Journal**: Cochrane Database of Systematic Reviews, 2017, Issue 7, Art. No.: CD001830 (pub5)

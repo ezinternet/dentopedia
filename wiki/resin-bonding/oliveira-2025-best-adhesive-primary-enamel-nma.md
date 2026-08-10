@@ -6,7 +6,7 @@ date: 2025-11-01
 doi: 10.1016/j.jdsr.2025.11.005
 source: oliveira-2025-best-adhesive-primary-enamel-nma.md
 category: [resin-bonding]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "41458471"
@@ -21,13 +21,21 @@ relations:
     target: assis-2023-acid-etching-universal-adhesive-nccl-sr-ma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Bayesian network meta-analysis (14 in vitro studies, primary tooth enamel bond strength): 3-step etch-and-rinse ranked best (highest SUCRA); a two-bottle universal adhesive WITH phosphoric acid etching was statistically equivalent to it; within the same number of steps, self-etch ≈ etch-and-rinse — suggesting clinical steps can be reduced for deciduous enamel.
+Systematic review and Bayesian network meta-analysis (14 in vitro studies, 35 adhesive systems, 2001–2024) specifically on primary (deciduous) tooth enamel bond strength — the first NMA for this population; all studies were rated low risk of bias (QUIN tool).
 
-## 한줄요약
+3-step etch-and-rinse ranked highest by SUCRA; a two-bottle universal adhesive with prior phosphoric acid etching was statistically equivalent to it; within the same step count, self-etch ≈ etch-and-rinse — 1-step self-etch without phosphoric acid ranked last.
 
-베이지안 네트워크 메타분석 (in vitro 14편, 유치 법랑질 결합강도): 3단계 etch-and-rinse가 SUCRA 1위, 인산 산부식을 동반한 2병형 universal adhesive는 그와 통계적으로 동등, 같은 단계 수에서는 self-etch ≈ etch-and-rinse — 유치 법랑질에서 임상 단계 축소 여지를 시사.
+Clinical simplification appears feasible for deciduous enamel, but all data are 24 h in vitro bond strength without aging, so this is not a direct clinical recommendation; the aprismatic layer of primary enamel limits generalizability from permanent-tooth evidence.
+
+## 세줄요약
+
+첫 번째 유치 법랑질 특이적 체계적 문헌고찰 + 베이지안 네트워크 메타분석 (in vitro 14편, 35종 접착 시스템, 2001–2024년): 모든 연구가 QUIN 도구로 낮은 비뚤림 위험으로 평가됨.
+
+SUCRA 순위: 3단계 etch-and-rinse 1위, 인산 산부식 동반 2병형 universal adhesive가 통계적 동등, 동일 단계수 내에서 self-etch ≈ etch-and-rinse, 1단계 self-etch(산부식 없음)가 최하위.
+
+유치 법랑질에서 임상 단계 축소(의자 시간 감소, 소아 순응도 개선)가 가능해 보이나, 모든 근거가 24시간 in vitro 결합강도(노화 없음)이므로 직접적 임상 권고는 불가; 무주상층(aprismatic layer) 등 유치 고유 특성이 성인 근거의 직접 외삽을 제한함.
 
 ## Summary
 
