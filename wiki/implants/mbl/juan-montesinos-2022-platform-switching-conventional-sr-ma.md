@@ -14,6 +14,8 @@ tags: []
 relations:
   - type: refines
     target: strietzel-2015-platform-switching-mbl-sr-ma
+  - type: supersedes
+    target: implants/mbl/messias-2019-platform-switching-mbl-5year-rct
 ---
 
 ## Three-line Summary
