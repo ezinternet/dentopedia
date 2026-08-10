@@ -3144,7 +3144,7 @@ tags: []
 - [[implants/loading-protocol/benic-2014-loading-protocols-single-implant-crowns-sr-ma]] — Benic 2014 · sr+ma (11 RCT): 단관 즉시 vs 통상 로딩 생존·MBL 5년까지 동등 — 토크 ≥20–45 Ncm 또는 ISQ ≥60–65·동시증대 불필요 조건
 - [[implants/full-arch/liu-2021-immediate-delayed-loading-overdenture-mbl-sr-ma]] — Liu 2021 · sr+ma (5 RCT+2코호트·191pt): 하악 비연결형 오버덴처 즉시 vs 지연 로딩 MBL 동등, 즉시군 실패율 수치상 높음(5.03% vs 1.00%)
 - [[implants/full-arch/abdunabi-2019-immediately-loaded-maxillary-full-arch-sr]] — Abdunabi 2019 · sr (4 CCT): 무치악 상악 전악 즉시 로딩 — 만족도·합병증 차이 약한 근거만, 메타분석 불가
-- [[implants/full-arch/mehta-2021-tilted-axial-implants-edentulous-maxilla-sr-ma]] — Mehta 2021 · sr+ma (11편): 위축 무치악 상악 즉시 로딩에서 경사 vs 축방향 임플란트 3년 생존(RR 1.00)·MBL 동등
+- [[implants/full-arch/mehta-2021-tilted-axial-implants-edentulous-maxilla-sr-ma]] — Mehta 2021 · sr+ma (11편): 위축 무치악 상악 즉시 로딩에서 경사 vs 축방향 임플란트 3년 생존(RR 1.00)·MBL 동등 ⚠️ superseded by del-fabbro-2022
 - [[implants/full-arch/lin-2018-clinical-performance-tilted-versus-axial]] — Lin & Eckert 2018 · sr (42편, level I–II): 무치악 경사 vs 수직 임플란트 — 생존율·MBL·보철생존·PROMs 모두 유의차 없음
 - [[implants/del-fabbro-2014-marginal-bone-axial-tilted-sr-ma]] — Del Fabbro & Ceresoli 2014 · sr+ma (19편, n=670): 경사 vs 수직 임플란트 MBL 1년(0.34–1.14 vs 0.43–1.13 mm) — NS (P=.09); 상악 생존 97.4% < 하악 99.6%
 - [[implants/full-arch/del-fabbro-2022-full-arch-tilted-axial-implants-sr-ma]] — Del Fabbro 2022 · sr+ma (24편, n=2,637, 3–18yr): 임플란트 생존 93.91%·보철 99.31%; 수직(axial) MBL < 경사(tilted) P<.0001; 악궁 무관
