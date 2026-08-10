@@ -14,6 +14,8 @@ tags: [ridge-resorption, post-extraction, systematic-review, meta-analysis, benc
 relations:
   - type: refines
     target: tan-2012-post-extractional-alveolar-dimensional-changes
+  - type: supersedes
+    target: bone-regeneration/ridge-preservation/vanderweijden-2009-alveolar-bone-dimensional-changes
 ---
 
 ## Three-line Summary
