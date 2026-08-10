@@ -10,8 +10,13 @@ evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/derks-2015-peri-implant-health-disease-epidemiology.pdf
 pdf_filename: derks-2015-peri-implant-health-disease-epidemiology.pdf
 source_collection: external
-tags: [peri-implantitis, peri-implant-mucositis, epidemiology, prevalence]
+superseded_by: implants/peri-implantitis/reis-2025-peri-implant-disease-prevalence-world-workshop-criteria
+superseded_scope: full
+tags: [peri-implantitis, peri-implant-mucositis, epidemiology, prevalence, superseded]
 ---
+
+> [!warning] Superseded (full) → [[implants/peri-implantitis/reis-2025-peri-implant-disease-prevalence-world-workshop-criteria]]
+> Reis 2025 SR+MA (J Dent, 20편)가 **2017 세계 워크숍 (World Workshop, WW) 표준 진단 기준**을 전용해 임플란트 주위 질환 유병률을 재추정 — 점막염 63.0%·임플란트 주위염 25.0% (환자 수준). 이 페이지(2015, 혼합 정의, 11편)는 derks-2015 스스로 "정의 불일치가 유병률 추정의 최대 한계"라 지적했던 바로 그 문제를 해결한 후속 SR+MA에 의해 완전 대체됨. 유병률 수치 인용은 reis-2025를 우선할 것. (set 2026-08-11)
 
 ## Three-line Summary
 
