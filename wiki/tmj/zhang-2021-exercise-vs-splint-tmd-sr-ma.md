@@ -10,8 +10,13 @@ evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/zhang-2021-exercise-vs-splint-tmd-sr-ma.pdf
 pdf_filename: zhang-2021-exercise-vs-splint-tmd-sr-ma.pdf
 source_collection: external
-tags: [exercise-therapy, occlusal-splint, tmd, meta-analysis, painful-tmd]
+superseded_by: tmj/zhang-2026-nonpharmacological-myogenic-tmd-nma
+superseded_scope: partial
+tags: [exercise-therapy, occlusal-splint, tmd, meta-analysis, painful-tmd, superseded]
 ---
+
+> [!warning] Superseded (partial) → [[tmj/zhang-2026-nonpharmacological-myogenic-tmd-nma]]
+> Zhang 2026 NMA(BMC Oral Health, 41 RCT, 2021명, 근육성 악관절증)가 비약물 요법 10가지를 동시 비교 — PBMT가 통증 1위(SUCRA 88.9%), MT가 최대개구량 1위(92.9%). 운동치료와 교합안정장치 모두 대조군 대비 통증에서 유의하지 않아, zhang-2021의 "운동≈안정장치" 결론은 더 넓은 맥락에서 재해석 필요. zhang-2021의 두 요법 직접 비교 데이터는 여전히 유효하나 현행 최선 치료 선택 근거는 zhang-2026을 인용할 것. (set 2026-08-11)
 
 ## Three-line Summary
 
