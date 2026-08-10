@@ -10,8 +10,13 @@ evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/avila-ortiz-2019-alveolar-ridge-preservation-interventions.pdf
 pdf_filename: avila-ortiz-2019-alveolar-ridge-preservation-interventions.pdf
 source_collection: external
-tags: [systematic-review, meta-analysis, ARP, EFP-AO-consensus, RCT]
+superseded_by: bone-regeneration/ridge-preservation/canullo-2021-arp-biomaterials-dimensional-nma
+superseded_scope: partial
+tags: [systematic-review, meta-analysis, ARP, EFP-AO-consensus, RCT, superseded]
 ---
+
+> [!warning] Superseded (partial) → [[bone-regeneration/ridge-preservation/canullo-2021-arp-biomaterials-dimensional-nma]]
+> Canullo 2021 NMA (Clin Oral Investig, 88 RCT, 2805명)가 이종골 (Xenograft, XG)·동종골 (Allograft, AG)을 치수 보존 최상위 재료로 명시 — 이 페이지의 "단일 우월 재료 없음" 결론을 뒤집음. 88 RCT 네트워크 메타분석 (NMA)이 22 RCT 이진 메타분석보다 재료 비교에서 높은 증거 강도. **ARP 모달리티 분류 체계(EFP/AO 합의 프레임워크)와 환자 보고 결과(PROM) 분석은 이 페이지에만 있으므로 함께 참고할 것**; 재료 선택 근거 인용은 canullo-2021을 우선할 것. (set 2026-08-11)
 
 ## Three-line Summary
 
