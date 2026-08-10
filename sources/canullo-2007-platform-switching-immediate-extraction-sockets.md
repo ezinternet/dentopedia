@@ -4,7 +4,7 @@ authors: Canullo L, Rasperini G
 year: 2007
 doi: unknown
 category: [implants/mbl]
-source_collection: pubmed-text
+source_collection: pubmed-abstract
 full_text: false
 pmid: "18271382"
 text_path: /Users/oracleneo/llm-wiki/papers/canullo-2007-platform-switching-immediate-extraction-sockets.txt
