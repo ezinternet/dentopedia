@@ -2811,7 +2811,7 @@ tags: []
 - [[implants/surface/plasma/zheng-2020-non-thermal-atmospheric-plasma-titanium]] — 동물(쥐)+in vitro: 혼합가스 NTAP, 접촉각~100%↓·탄소~80%↓, BIC 25–40%↑·파골세포~50%↓
 - [[implants/surface/plasma/naujokat-2019-cold-argon-plasma-osseointegration-pigs]] — 동물(돼지, SLA 16개/4마리/8주): BIC 90.4 vs 86.5%, 증가폭 "약간"; 자료는 초록수준
 - [[implants/surface/plasma/nevins-2023-gas-plasma-titanium-implant-osseointegration]] — 동물(foxhound 6/36임플란트, 2·4·6주): BIC 4주 유의(p=0.046), 골수준 6주 유의(p=0.016)
-- [[implants/surface/plasma/kahm-2024-vacuum-plasma-surface-treatment-osseointegration]] — 동물(토끼 18/6마리, 4주): 진공플라즈마 BA·골량·ISQ 높으나 유의차 없음(null)
+- [[implants/surface/plasma/kahm-2024-vacuum-plasma-surface-treatment-osseointegration]] — 동물(토끼 18/6마리, 4주): 진공플라즈마(ACTILINK mini, ~5Torr/DBD/60초) BA·골량·ISQ 높으나 유의차 없음(null)
 - [[implants/surface/plasma/wagner-2022-cold-atmospheric-plasma-implant-materials]] — in vitro(Ti+지르코니아): CAP 원소조성 불변, 시간의존적 골모세포·섬유아세포 부착·증식↑
 - [[implants/surface/plasma/zeng-2020-nanostructured-titanium-non-thermal-plasma]] — in vitro+동물(쥐): 나노네트워크 Ti+PDD 플라즈마, 나노구조 유지하며 바이오필름 제거+골형성↑
 - [[implants/surface/plasma/hadzik-2023-anodized-titanium-transgingival-implant-surface]] — in vitro(연조직축): 양극산화+산소플라즈마("S")가 양극산화 단독보다 섬유아세포 부착·증식 유의↑
@@ -2820,13 +2820,13 @@ tags: []
 
 <!-- BATCH INGEST 2026-05-31 (2nd): plasma surface treatment — 11 more papers incl. 3 human (Stacchi RCT, Kwon RCT, Kim retrospective) -->
 - [[implants/surface/plasma/stacchi-2025-vacuum-plasma-early-implant-stability-rct]] — 사람 split-mouth RCT(24명/48임플란트): 진공플라즈마(Plasma X Motion, MegaGen, DBD 3kV/<13mbar/~50초) 60·90일 ISQ 유의↑(P=0.04,0.03), 절대차 작음, 토크 차이 없음
-- [[implants/surface/plasma/kwon-2024-actlink-plasma-rct-osseointegration-bone-regeneration]] — 사람 RCT(28명, SLA±플라즈마): 안정성·골결손 차이 없음, 변연골 변화만 유의↑(혼재 결과)
-- [[implants/surface/plasma/kim-2025-plasma-surface-treatment-implant-stability-retrospective]] — 사람 후향코호트(47명/73임플란트, 단일군): ISQ 78.97→83.74(8주,p<0.001)·stability dip 없음; 저ISQ·하악·짧은 fixture 이득 최대
+- [[implants/surface/plasma/kwon-2024-actlink-plasma-rct-osseointegration-bone-regeneration]] — 사람 RCT(28명, SLA±플라즈마 ACTILINK <10torr/3kV DBD/~1분): 안정성·골결손 차이 없음, 변연골 변화만 유의↑(혼재 결과)
+- [[implants/surface/plasma/kim-2025-plasma-surface-treatment-implant-stability-retrospective]] — 사람 후향코호트(47명/73임플란트, 단일군, ACTILINK Reborn 진공 5-10torr 60초x2회 — 논문초록은 "대기압"으로 오기): ISQ 78.97→83.74(8주,p<0.001)·stability dip 없음; 저ISQ·하악·짧은 fixture 이득 최대
 - [[implants/surface/plasma/danna-2015-atmospheric-pressure-plasma-implant-osseointegration]] — 동물(비글 7마리): 80초 APP texture Ti 6주 BIC만 유의↑(P<0.001), CaP·3주·BAFO 무효 — 표면·시점 의존
 - [[implants/surface/plasma/jang-2021-plasma-jet-titanium-osseointegration-animal]] — 동물(개 6마리/41임플란트): 플라즈마 제트 4주 BV·BIC↑(p<0.05), 8주 대조군 따라잡음 — 초기한정
 - [[implants/surface/plasma/long-2022-ntap-slactive-osseointegration-beagle]] — 동물(비글)+in vitro: NTAP가 상용 SLActive와 동등한 초기 골유착 — 노화없는 저비용 chairside 대안
-- [[implants/surface/plasma/lee-h-2022-dbd-plasma-titanium-implant-osseointegration]] — in vitro: DBD 장치(무균 유지) 탄소 60%↓·초친수성·세포반응↑
-- [[implants/surface/plasma/jeon-2024-vortex-direct-plasma-titanium-surface]] — in vitro: 자기장 vortex plasma가 대상 형상 무관 균일처리, 직접방전과 동등 효과
+- [[implants/surface/plasma/lee-h-2022-dbd-plasma-titanium-implant-osseointegration]] — in vitro: DBD 장치(무균 유지, 5-10torr/3kV/총 60초; 저자는 Diener 챔버형 ≥10분과 대비하며 설계동기로 제시) 탄소 60%↓·초친수성·세포반응↑
+- [[implants/surface/plasma/jeon-2024-vortex-direct-plasma-titanium-surface]] — in vitro: 자기장 vortex plasma(30초)가 대상 형상 무관 균일처리, 직접방전(15초)과 동등 효과
 - [[implants/surface/plasma/ho-2025-plasma-titanium-contaminants-biocompatibility]] — in vitro(+RNA-seq): 탄소↓(p<0.001)·친수성↑(p<0.0001)·초기 세포부착↑(12h후 소실)·Apln/Crabp2↑
 - [[implants/surface/plasma/yang-2021-helium-cap-zirconia-streptococcus-mutans]] — in vitro(지르코니아): 헬륨 CAP가 S.mutans 억제하나 효과 ~24h만 지속·72h 소실(시간감쇠)
 - [[implants/surface/plasma/jablonowski-2019-plasma-mucosa-side-effects-mice]] — 동물(쥐 180마리) 안전성: CAP 점막 단기 손상 여부 전임상 스크린
