@@ -392,7 +392,7 @@ tags: []
 - [[bone-regeneration/ridge-preservation/trombelli-2008-modeling-remodeling-human-extraction-sockets]] — 인체 발치공 6개월 조직학 연구 (27 biopsy): 발치 2–4주에 우세하던 육아조직 (granulation tissue)이 6주 전후로 잠정 기질 (provisional matrix)과 직조골 (woven bone)로 대체되며, 골모세포 (osteoblast) 활성은 6–8주에 정점을 찍고 이후 안정 상태로 유지되지만 무기질화의 시점은 개인차가 매우 크다.
 - [[bone-regeneration/ridge-preservation/feng-2024-autogenous-particulated-dentin-graft-arp]] — 체계적 문헌고찰 + 메타분석 (10편 RCT, n=182): 자가치아입자 (APD)는 발치와 보존에서 수평 치조제 폭과 순측 골 높이 유지에 우수하며, 타 이식재 대비 활성 골 면적 +10.51%, 잔존 이식재 -8.76%
 - [[bone-regeneration/ridge-preservation/jung-2018-alveolar-ridge-preservation-esthetic-zone]] — 서술적 리뷰(Perio 2000 2018): 심미영역 ARP 3시점(6–8주 연조직/4–6개월 경+연조직/6개월+ 경조직) — 협측 골판 상태와 임플란트 시점 매칭.
-- [[bone-regeneration/ridge-preservation/vanderweijden-2009-alveolar-bone-dimensional-changes]] — SR(12편 human): 발치 후 자연치유 시 치조제 폭 가중평균 3.87 mm 감소, 협측 중앙 높이 1.67 mm 감소 — 수평 흡수>수직 흡수.
+- [[bone-regeneration/ridge-preservation/vanderweijden-2009-alveolar-bone-dimensional-changes]] — SR(12편 human): 발치 후 자연치유 시 치조제 폭 가중평균 3.87 mm 감소, 협측 중앙 높이 1.67 mm 감소 — 수평 흡수>수직 흡수. ⚠️ superseded by couso-queiruga-2021
 - [[bone-regeneration/akbarzadeh-baghban-2009-bio-oss-autogenous-alveolar-sr-ma]] — SR + Bayesian MA(13편, 1998–2009): 골내결손 — Bio-Oss vs 자가골 NS(차이 0.04 mm); Bio-Oss vs OFD만 유의; 공여부 morbidity 회피 위해 Bio-Oss 1차 권고.
 - [[bone-regeneration/jensen-2009-bone-augmentation-localized-defects-review]] — ITI 4차 컨센서스 배경 SR(108편, 11 RCT): 4 결손유형(dehiscence·수평·수직·MSFA) — 단일 우월 protocol 없음; 증대골 임플란트 생존율 = 자연골(level A–B).
 - [[bone-regeneration/manfro-2013-bovine-bone-substitutes-comparative-histomorphometric]] — animal (rabbit, n=8, 8/12wk): Bio-Oss vs Bone-Fill vs Gen-Ox vs 혈병 — 12wk 신생골 9.32/9.01/3.02/0.63 mm²; "이종골은 다 같다" 가정 반증.
