@@ -75,6 +75,7 @@ The paper does not report a direct LPP-vs-APP statistical contrast (each is comp
 
 ## 6. Related Work
 
+- [[wiki/implants/surface/milleret-2011-alkali-titanium-blood-clot-platelet-complement]] — the mechanistic paper this study cites for hydrophilic-surface/blood-clot behavior; its exposure-time-dependent complement/platelet activation is a candidate (unconfirmed) explanation for the 24-h reversal.
 - [[wiki/implants/surface/plasma/hui-2020-cold-atmospheric-plasma-implantology-review]] — dual rationale (activation/decontamination) this paper adds an immunomodulation axis to.
 - [[wiki/implants/surface/plasma/ho-2025-plasma-titanium-contaminants-biocompatibility]] — plasma decontamination + biocompatibility, in vitro.
 - [[wiki/implants/surface/plasma/lee-2022-plasma-contaminated-zirconia-gingivalis-osteoblast]] — the cluster's other explicit dose-response finding (60 s good, 300–600 s backfires); Becker's 1-min-APP-vs-15-min-LPP asymmetry is a second, device-class-level dose data point.

@@ -17,6 +17,9 @@ relations:
   - type: extends
     target: implants/surface/plasma/hui-2020-cold-atmospheric-plasma-implantology-review
     note: "adds a third mechanistic axis (immunomodulation / cytokine downregulation) to the review's activation-vs-decontamination dual rationale, and is the wiki's first LPP-vs-APP head-to-head device comparison"
+  - type: applies-to
+    target: implants/surface/milleret-2011-alkali-titanium-blood-clot-platelet-complement
+    note: "the 24-h cytokine reversal this paper reports is plausibly a downstream instance of Milleret's exposure-time-dependent complement/platelet/coagulation activation mechanism — candidate, not confirmed"
 ---
 
 ## Three-line Summary
@@ -69,6 +72,7 @@ No direct LPP-vs-APP statistical test reported (each vs control only).
 
 ## Related Papers
 
+- [[implants/surface/milleret-2011-alkali-titanium-blood-clot-platelet-complement]] — the mechanistic paper this study cites for hydrophilic-surface/blood-clot behavior; its finding that complement/platelet/coagulation activation increases monotonically with blood-surface exposure time (independent of treatment) is a candidate — not confirmed — explanation for the 24-h cytokine reversal above.
 - [[implants/surface/plasma/hui-2020-cold-atmospheric-plasma-implantology-review]] — dual activation/decontamination rationale; this paper adds an immunomodulation axis.
 - [[implants/surface/plasma/ho-2025-plasma-titanium-contaminants-biocompatibility]] — plasma decontamination + biocompatibility, in vitro.
 - [[implants/surface/plasma/lee-2022-plasma-contaminated-zirconia-gingivalis-osteoblast]] — the cluster's other clear dose/time-matters finding (60 s good, 300–600 s backfires); Becker's 24-h reversal and 1-min-vs-15-min device asymmetry is a second, independent non-monotonicity data point.
