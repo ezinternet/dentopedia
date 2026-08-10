@@ -7,12 +7,11 @@ doi: 10.1016/j.jcms.2019.05.004
 source: becker-2019-lpp-app-plasma-proinflammatory-cytokines.md
 category: [implants/surface/plasma]
 evidence_level: in-vitro
-source_collection: pubmed-text
+pdf_path: /Users/oracleneo/llm-wiki/papers/becker-2019-lpp-app-plasma-proinflammatory-cytokines.pdf
+pdf_filename: becker-2019-lpp-app-plasma-proinflammatory-cytokines.pdf
+source_collection: external
 full_text: false
 pmid: "31151775"
-source_url: https://pubmed.ncbi.nlm.nih.gov/31151775/
-text_path: /Users/oracleneo/llm-wiki/papers/becker-2019-lpp-app-plasma-proinflammatory-cytokines.txt
-text_filename: becker-2019-lpp-app-plasma-proinflammatory-cytokines.txt
 tags: [plasma, LPP, APP, low-pressure-plasma, atmospheric-pressure-plasma, cytokine, IL1-beta, TNF-alpha, immunomodulation, whole-blood, in-vitro, abstract-only]
 relations:
   - type: extends
@@ -20,7 +19,7 @@ relations:
     note: "adds a third mechanistic axis (immunomodulation / cytokine downregulation) to the review's activation-vs-decontamination dual rationale, and is the wiki's first LPP-vs-APP head-to-head device comparison"
 ---
 
-abstract-only — full text not retrieved (no PMC full text for this PMID; paywalled Elsevier journal, PubMed abstract only)
+abstract-only — publisher landing/abstract page (ScienceDirect), full text not retrieved (paywalled — "Access through your organization"); Introduction/Abstract/References/funding retrieved, Methods/Results/Discussion truncated in the landing-page preview
 
 ## Three-line Summary
 
@@ -40,13 +39,14 @@ in vitro 연구: 4등급 티타늄 임플란트를 저압 플라즈마(Low-Press
 
 ## Summary
 
-This is the wiki plasma cluster's first paper to directly juxtapose low-pressure (vacuum-type) and atmospheric-pressure plasma on the same implant material with the same readout. Rather than the cluster's usual osseointegration/decontamination endpoints (BIC, ISQ, contact angle, bacterial adhesion), it introduces an immune/cytokine angle: plasma-treated titanium (either modality) downregulates IL1-β and TNF-α expression in human whole blood relative to untreated titanium, which the authors frame as potentially beneficial for early osseointegration by dampening the acute inflammatory response at implant placement. The key open question — whether LPP or APP is mechanistically or magnitude-wise superior — is not resolved in the abstract; full text would be needed to check if the study statistically compared the two treatment arms against each other rather than each against control.
+This is the wiki plasma cluster's first paper to directly juxtapose low-pressure (vacuum-type) and atmospheric-pressure plasma on the same implant material with the same readout — and, now that the ScienceDirect landing page has been retrieved, its Introduction confirms this contrast was the study's deliberate aim ("two different plasma generation methods at low and atmospheric pressure were used to demonstrate the possible effects of the type of plasma used on the immune response"), not an incidental grouping. Rather than the cluster's usual osseointegration/decontamination endpoints (BIC, ISQ, contact angle, bacterial adhesion), it introduces an immune/cytokine angle: plasma-treated titanium (either modality) downregulates IL1-β and TNF-α expression in human whole blood relative to untreated titanium, which the authors frame as potentially beneficial for early osseointegration by dampening the acute inflammatory response at implant placement. The key open question — whether LPP or APP is mechanistically or magnitude-wise superior — remains unresolved: Methods/Results/Discussion are still truncated behind the paywall in the retrieved artifact, so no direct LPP-vs-APP statistical contrast is available even now.
 
 ## Key Contributions
 
-- First wiki-held head-to-head test of LPP vs APP on titanium dental implants (same material, same assay).
+- First wiki-held head-to-head test of LPP vs APP on titanium dental implants (same material, same assay) — deliberately designed as such per the retrieved Introduction.
 - Adds a cytokine/immunomodulation endpoint (IL1-β, TNF-α) to a cluster otherwise built on bone-contact and surface-physics endpoints.
 - Proposes human whole blood as an in vitro screening model for implant-surface immunocompatibility.
+- Situates plasma treatment within a broader host-response rationale: the Introduction cites prior work reporting up to 300% higher BIC and 30% higher BAFO for chairside-plasma-conditioned vs untreated implants in a canine model (Coelho et al. 2012, cited by Becker — not independently verified against our own [[implants/surface/plasma/danna-2015-atmospheric-pressure-plasma-implant-osseointegration]] page, which is a different study by overlapping authors).
 
 ## Methodology
 
@@ -57,10 +57,10 @@ This is the wiki plasma cluster's first paper to directly juxtapose low-pressure
 ## Results
 
 - Untreated-implant control: significant ↑ IL1-β and TNF-α over time.
-- LPP-treated and APP-treated: significant ↓ IL1-β and TNF-α vs control.
-- No LPP-vs-APP direct statistical contrast reported in the abstract.
+- LPP-treated and APP-treated: significant ↓ IL1-β and TNF-α vs control ("substantially reduced" per the Discussion snippet).
+- No LPP-vs-APP direct statistical contrast retrieved — Methods/Results/Discussion remain truncated behind "Access through your organization" even in the fuller landing-page PDF.
 
-**Boundary (living-document):** abstract-only (full text not retrieved — no PMC deposit found, likely paywalled); device parameters, exact treatment time/dose, and statistics (n, p-values) not available at this tier; in vitro ex vivo whole-blood model, not a clinical or bone-contact osseointegration outcome — cytokine downregulation is a mechanistic/immunological signal, one step removed from the plasma cluster's usual BIC/ISQ endpoints.
+**Boundary (living-document):** abstract-only, upgraded 2026-08-10 from PubMed-metadata text to a ScienceDirect landing-page PDF — Introduction/references/funding now available, but Methods/Results/Discussion are still truncated (paywalled); device parameters, exact treatment time/dose, and statistics (n, p-values) remain unavailable at this tier. In vitro ex vivo whole-blood model, not a clinical or bone-contact osseointegration outcome — cytokine downregulation is a mechanistic/immunological signal, one step removed from the plasma cluster's usual BIC/ISQ endpoints. Industry-adjacent funding (Oral Reconstruction Foundation material donation, DGI grant); authors declare no conflicts of interest.
 
 ## Related Papers
 
