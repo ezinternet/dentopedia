@@ -4,15 +4,14 @@ authors: Becker M, Quabius ES, Kewitz T, Hansen L, Becker G, Kern M, Kersten H, 
 year: 2019
 doi: 10.1016/j.jcms.2019.05.004
 category: [implants/surface/plasma]
-source_collection: pubmed-text
+pdf_path: /Users/oracleneo/llm-wiki/papers/becker-2019-lpp-app-plasma-proinflammatory-cytokines.pdf
+pdf_filename: becker-2019-lpp-app-plasma-proinflammatory-cytokines.pdf
+source_collection: external
 full_text: false
 pmid: "31151775"
-source_url: https://pubmed.ncbi.nlm.nih.gov/31151775/
-text_path: /Users/oracleneo/llm-wiki/papers/becker-2019-lpp-app-plasma-proinflammatory-cytokines.txt
-text_filename: becker-2019-lpp-app-plasma-proinflammatory-cytokines.txt
 ---
 
-abstract-only — full text not retrieved (no PMC full text for this PMID; paywalled Elsevier journal, PubMed abstract only)
+abstract-only — publisher landing/abstract page (ScienceDirect), full text not retrieved (paywalled — "Access through your organization"); Introduction/Abstract/References/funding retrieved, Methods/Results/Discussion truncated in the landing-page preview
 
 ## Why Ingested
 
@@ -32,12 +31,14 @@ Both vacuum/low-pressure and atmospheric plasma modalities downregulate proinfla
 - DOI: 10.1016/j.jcms.2019.05.004
 - PMID: 31151775
 - Study type: in vitro (human whole blood ex vivo assay); institution: Christian-Albrechts University of Kiel, Germany
+- Funding: material donation by the Oral Reconstruction Foundation (former Camlog Foundation, grant CF11602) and a grant from the German Society of Implantology (DGI) — industry-adjacent funding, noted as a boundary below.
 
 ## 2. Key Contributions
 
 - First wiki-held paper to directly test **both** low-pressure (vacuum-type) and atmospheric-pressure plasma modalities on the same implant material and readout.
 - Introduces an immune/cytokine (IL1-β, TNF-α) endpoint not otherwise present in the plasma cluster (existing papers use BIC, ISQ, contact angle, bacterial adhesion).
 - Whole-blood in vitro model proposed as a screening assay for implant-surface immunocompatibility.
+- The Introduction (now retrieved) states the study's aim explicitly: "two different plasma generation methods at low and atmospheric pressure were used to demonstrate the possible effects of the type of plasma used on the immune response" — confirming the LPP-vs-APP contrast was the study's designed purpose, not an incidental grouping.
 
 ## 3. Methodology and Architecture
 
@@ -53,9 +54,11 @@ Both vacuum/low-pressure and atmospheric plasma modalities downregulate proinfla
 
 ## 5. Limitations and Future Work
 
-- **Abstract-only ingest** — full text not retrieved (no PMC deposit found for this PMID; likely paywalled). Methodological detail (plasma device/parameters, exact LPP vs APP dose/time, statistical test, n) not available at this tier.
+- **Abstract-only ingest, upgraded from PubMed-metadata to a ScienceDirect landing-page PDF (2026-08-10)** — Methods/Results/Discussion remain truncated ("…") in the retrieved artifact behind "Access through your organization"; plasma device/parameters, exact LPP vs APP dose/time, statistical test, and n are still not available at this tier.
+- The paper's own limitations snippet (partially visible) notes: "the immune reactivity of the blood stagnated after time without a supply of nutrients" — an ex vivo whole-blood degradation caveat, detail truncated.
 - In vitro ex vivo whole-blood model — not a clinical or animal osseointegration outcome; cytokine downregulation is a mechanistic/immunological signal, not a bone-contact or stability endpoint.
-- No direct statistical LPP-vs-APP contrast reported in the abstract; cannot yet confirm whether one modality is superior to the other from this source alone.
+- No direct statistical LPP-vs-APP contrast retrieved; cannot yet confirm whether one modality is superior to the other from this source alone, despite the Introduction confirming that contrast was the study's stated aim.
+- Industry-adjacent funding (Oral Reconstruction Foundation material donation, DGI grant) — authors declare no conflicts of interest, but the funding source is noted per wiki convention.
 
 ## 6. Related Work
 
