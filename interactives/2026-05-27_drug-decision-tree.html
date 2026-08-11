@@ -4,7 +4,7 @@ title: "약물 결정 트리 — Chairside (drug 5축 통합)"
 type: interactive
 date: 2026-08-07
 status: draft
-verified: 2026-08-07
+verified: 2026-08-11
 category: drug
 agenda: agenda/2026-05-27_chairside-interactives-batch.md
 source_wiki:
@@ -14,6 +14,7 @@ source_wiki:
   - wiki/overviews/drug-antibiotic-stewardship-overview.md
   - wiki/overviews/drug-analgesics-postop-pain-overview.md
   - wiki/overviews/drug-systemic-disease-dental-management-overview.md
+  - wiki/drug/analgesics/beaudart-2025-celecoxib-safety-musculoskeletal-sr-ma.md
 tags: [drug, chairside-calculator, decision-tree, perioperative, prophylaxis, analgesia, mronj]
 notes: |
   단일 HTML, 외부 CDN 없음. iPad chairside 가정.
@@ -23,6 +24,11 @@ notes: |
   verified 2026-07-14: drug-systemic-disease-dental-management-overview §10 신규(2026-07-14, Khalilurrahman 2026 SR-MA — RAAS 억제제·스타틴의 치주 상태 영향)는 주제가 "치주 위험 모니터링"으로, 본 툴의 5축(항응고·MRONJ·항생제·진통제·LA/DDI) 절차적 투약 결정과는 무관 — 축 5(CVD 체크박스)의 epinephrine-β차단제 DDI 로직도 별개 사안(급성 심혈관 안전 vs 만성 치주 상태)이라 변경 대상 아님. 임계값·권고 무변화 재확인.
   updated 2026-07-20: 항응고 오버뷰 2026-07-19 통합(13편) 반영 — ①Higashi 2025 DOAC trough 타이밍(Rivaroxaban 14h, Dabigatran·Apixaban 8h) ②Kaya 2025 출혈 위험 실측(Grade 3 8.1%, 국소 지혈 필수 근거) ③Lopez Silva 2025 Heparin(중단 불필요, 거즈만으로 지혈, 투여 직후 간격 확보) ④TXA 제형 사다리(분말·젤라틴+TXA 추가). Anticoagulant select에 Heparin 옵션 신설. 항생제 2026-07-15 추가 4편(bwire/esposito/kwon/liu)은 임계값 무변화 재확인.
   updated 2026-08-07: (1) 항응고 오버뷰 §2-5 임플란트 특이적 근거(2026-08-02 추가) 반영 — Madrid 2009 SR(19편, OAT/INR 2–4 유지 시 임플란트 비금기·INR은 출혈 예측인자 아님)·Chahine 2019 SR(10편 n=1,331, 8개 시술 카테고리, VKA·NOAC 유지가 헤파린 브리징보다 안전)·Lee 2024 코호트(연세대 n=537, 유지군 AF OR=6.051·VKI OR=3.679, 발치+골이식·다수임플란트·상악 수술이 시술 위험인자, 전 출혈 국소지혈로 해결) — 축1 임플란트 분기에 반영, ref 갱신. (2) 진통제 오버뷰 코르티코스테로이드 근거층(2026-07-29 추가) 반영 — Markiewicz 2008 SR-MA(12 RCT, 부종·개구제한 유의/통증 비유의)·Almeida 2019 SR-MA(17편, 동일 패턴)·Dan 2010 SR-MA(구강악안면 전반, 감염위험 증가 없음)·Bakri 2024 RCT(n=15, 3일 프레드니솔론 테이퍼 > 단회 25mg 부종·개구량, 통증 무차이) — 축4 매복 third molar 분기에 대안 프로토콜로 반영, ref 갱신. (3) 전신질환 오버뷰 임신 섹션(ACOG 2013, 2026-07-30 추가) 반영 — 방사선·LA·대부분 약물 포함 치과치료 전 임신기 안전 승인, 치주치료 조산 감소 효과 없음, 미치료 구강질환이 치료보다 위험 — 축5 임신 분기에 반영, ref 갱신. drug-mronj·drug-antibiotic-stewardship 두 소스는 이 기간 wikilink 경로 정리(fix(wikilinks))만 있었고 임상 수치 무변화 재확인.
+  updated 2026-08-11: 진통제 오버뷰 2026-08-09 추가분 중 Beaudart 2025 celecoxib umbrella
+  review(GI 궤양 RR 0.22 moderate, CV·신장 비열등 low certainty) → 축4 진통제 avoidNSAID
+  사유 문구에 GI 병력 대안(비-임플란트 한정)으로 반영. 동시 추가된 Maurice-Szamburski 2025
+  IV NSAID narrative review는 전신마취·진정 하 경구 불가 상황 전제라 본 도구(경구 chairside
+  권고) scope 밖 — 반영 대상 아님 확인.
 ---
 -->
 <!DOCTYPE html>
@@ -343,7 +349,7 @@ function calculate(e){
     if (preg === 'pregnant' && age >= 0) { avoidNSAID = true; reasonAvoid.push('임신 (특히 30주 이상)'); }
     if (egfr !== null && egfr < 60) { avoidNSAID = true; reasonAvoid.push(`eGFR ${egfr} < 60 — Gomes 2025 NSAID AKI OR 1.98`); }
     if (age >= 75) { avoidNSAID = true; reasonAvoid.push('고령 ≥75'); }
-    if (ulcer) { avoidNSAID = true; reasonAvoid.push('위궤양·GI 출혈력'); }
+    if (ulcer) { avoidNSAID = true; reasonAvoid.push('위궤양·GI 출혈력 (비-임플란트 시술이면 Celecoxib 대안 검토 가능 — GI 궤양 RR 0.22 moderate, 임플란트엔 COX-2 selective 회피 유지)'); }
     if (ac === 'warfarin' || ac === 'doac' || ac === 'dapt') { reasonAvoid.push('항응고·DAPT 동시 — NSAID 회피 또는 PPI 동반'); avoidNSAID = true; }
 
     // Aspirin 상호작용
