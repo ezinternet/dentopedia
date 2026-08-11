@@ -15,9 +15,16 @@ source_wiki:
   - wiki/post-and-core/wang-2019-fiber-posts-vs-metal-posts-severely-damaged.md
   - wiki/post-and-core/naumann-2017-ferrule-first-post-second-systematic-review.md
   - wiki/post-and-core/fathi-2022-prosthetic-restoration-endodontically-treated-teeth-umbrella.md
-verified: 2026-07-21
-verified_note: >
-  2026-07-07 커밋(6e4cdb6)은 overview 페이지에 "Evidence Update — Parapost
+  - wiki/post-and-core/reeh-1989-reduction-tooth-stiffness-result-endodontic.md
+  - wiki/post-and-core/carvalho-2020-endodontically-treated-teeth-restoration-adhesive-approach.md
+  - wiki/post-and-core/lane-2024-survival-success-rates-endodontically-treated.md
+  - wiki/post-and-core/suksaphar-2017-survival-fracture-ett-crown-resin-sr.md
+  - wiki/post-and-core/phengudom-2021-survival-fracture-endodontic-anterior.md
+  - wiki/post-and-core/intaraprasong-2024-post-endodontic-restorations-survival-fracture-cervical-lesions.md
+  - wiki/post-and-core/spielman-2012-restorative-outcomes-endodontically-treated-teeth-pearl-network.md
+verified: 2026-08-11
+notes: |
+  verified 2026-07-21: 2026-07-07 커밋(6e4cdb6)은 overview 페이지에 "Evidence Update — Parapost
   Microleakage" 절을 추가했으나, 이는 이미 2026-07-02 같은 날 이 도구보다 9분
   먼저 커밋된 개별 논문 페이지(wiki/post-and-core/alkahtani-2010-root-canal-
   sealers-timing-parapost.md)의 내용을 overview로 재synthesis(cross-link)한
@@ -25,6 +32,15 @@ verified_note: >
   AH26+즉시합착이 수치상 최소 누출 — 이 도구의 Step 1 tip·경고박스 문구와 이미
   일치. 결정 기준(ferrule 우선, 파이버 기본값, FRC>ParaPost 파절하중 수치)에는
   변화 없음 → 코스메틱, 임상 콘텐츠 미수정.
+  updated 2026-08-11: overview 2026-08-08~09 대규모 개정(7편 신규 synthesis + 4개 appendix를
+  thesis로 consolidate) 반영 — ①Reeh 1989 생역학 앵커(근관치료 ~5% vs MOD cavity ~63%
+  강성저하)를 start 노드 rationale에 추가 ②Lane 2024·Suksaphar 2017(구치부 onlay·직접레진
+  ≈ crown)·Phengudom 2021·Intaraprasong 2024(전치부 위험인자 계층화)·Carvalho 2020(post
+  필요성의 크라운재료 의존)을 nopost 결과에 "수복 범위" 블록으로 신설 ③Spielman 2012 PEARL
+  Network 실측 실패율(13.9%)을 footer에 참고 정보로 추가. 기존 포스트 재료(fiber vs metal)
+  결정 임계값·수치는 무변화 — 이번 추가는 "post 필요 없음" 판정 이후의 수복 범위(crown vs
+  onlay vs resin) 선택지를 보강한 것으로, 결정 트리 신규 질문 노드까지는 만들지 않음(범위
+  확장은 후속 검토 대상).
 ---
 -->
 <!DOCTYPE html>
@@ -184,6 +200,7 @@ verified_note: >
     핵심 원칙: ETT 수복은 <b>①포스트 필요여부 → ②ferrule 보존 → ③재료</b> 순차 결정이며, 재료 간 생존율은 대체로 통계적 동등(NS)이라 <b>실패양상</b>으로 해석한다.
     근거 종합: <a href="../wiki/overviews/post-and-core-fiber-post-decision-overview.md">post-and-core-fiber-post-decision-overview</a>.
     근거수준: in-vitro/FEA 비중 큼 — 효과크기보다 방향성으로 해석.
+    참고: 일반 개원가 3–5년 실측 실패율 13.9%(95% CI 12.1–15.8%) — 성공 예측인자는 full-coverage crown·인접면 접촉·건전한 치주 상태·전문의 근관치료 (Spielman 2012, PEARL Network, n=1,298).
   </footer>
 </div>
 
@@ -203,9 +220,9 @@ function showView(v){
 const NODES = {
   start: {
     q: "① 관상부 치질과 ferrule이 얼마나 남았나?",
-    sub: "포스트는 보조물이지 주역이 아니다 — 결정의 무게중심은 잔존 치질·ferrule에 있다.",
+    sub: "포스트는 보조물이지 주역이 아니다 — 결정의 무게중심은 잔존 치질·ferrule에 있다. 근관치료 자체는 치아 강성을 ~5%만 낮추고 MOD cavity 삭제가 ~63%를 낮춘다 — 치아를 약화시키는 건 근관치료가 아니라 수복을 위한 marginal ridge 삭제다 (Reeh 1989, in-vitro n=42).",
     opts: [
-      { label:"충분한 치질 + 원주형 ferrule 확보 가능", ic:"🟢", sub:"관상부 상당량 잔존, 1.5–2 mm 건전 상아질", go:"nopost" },
+      { label:"충분한 치질 + 원주형 ferrule 확보 가능", ic:"🟢", sub:"관상부 상당량 잔존, 1.5–2 mm 건전 상아질", result:"nopost" },
       { label:"관상부 치질 상당 소실 → 포스트로 코어 유지 필요", ic:"🟡", sub:"직접 코어만으로 유지 불충분", go:"walls" }
     ]
   },
@@ -224,9 +241,15 @@ const RESULTS = {
     h:"포스트 없이 진행 또는 엔도크라운 고려",
     p:"충분한 치질과 ferrule이 남으면 포스트의 독립적 이득이 거의 없다. 전향 임상 8편 중 7편에서 포스트 효과 없음 (Naumann 2017). ferrule이 있으면 전치부 엔도크라운이 post-core-crown과 파절저항 동등 이상이며 실패가 복구 가능하다 (Mously 2025; Lenz 2023).",
     blocks:[
-      { h:"권고", items:["포스트 생략 후 직접 코어 + 크라운, 또는 엔도크라운(리튬디실리케이트)","ferrule 1.5–2 mm 보존을 최우선으로"] }
+      { h:"권고", items:["포스트 생략 후 직접 코어 + 크라운, 또는 엔도크라운(리튬디실리케이트)","ferrule 1.5–2 mm 보존을 최우선으로"] },
+      { h:"수복 범위 — 크라운 vs 온레이 vs 직접레진 (손상 최소~중등도 시)", items:[
+        "구치부: 온레이 생존율이 full crown과 단중기(2–3년) 범위에서 중첩 — 치질 삭제량 감소가 명백한 이점 (Lane 2024 SR, 11편). 장기(5–10년) 데이터는 crown 중심이라 비교 근거 약함.",
+        "구치부 최대 3면 손상: 직접레진 vs 크라운 생존율 동등 (94–100% vs 91.9–100%, Suksaphar 2017 SR, n=623)",
+        "전치부는 전체적으로 크라운(99.1%) &gt; 직접레진(90.4%, P&lt;0.01) — 단 위험인자(치경부벽 &lt;3벽 HR 8.95, 치근두께-근관폭비 &lt;1:1:1 HR 12.98, 구치부 지지소실 HR 9.05, 이갈이 HR 19.37) 없으면 레진도 크라운과 동등 (Phengudom 2021, n=263)",
+        "post 필요성은 크라운 재료(접착 세라믹 vs PFM)와도 무관하지 않다 — 접착 세라믹은 post-free가 파국적 파절을 줄인다는 in-vitro 보고, PFM RCT는 post 식립군 성공률이 더 높음 (Carvalho 2020, narrative)"
+      ] }
     ],
-    cites:["Naumann 2017 (SR, 7/8편 포스트 무효)","Alenezi 2024 (포스트 이득은 치질소실 조건부)","Mously 2025 · Lenz 2023 (엔도크라운)"]
+    cites:["Naumann 2017 (SR, 7/8편 포스트 무효)","Alenezi 2024 (포스트 이득은 치질소실 조건부)","Mously 2025 · Lenz 2023 (엔도크라운)","Reeh 1989 (생역학 앵커, 근관치료 ~5%·MOD ~63% 강성저하)","Lane 2024 · Suksaphar 2017 (온레이·직접레진 vs 크라운 SR)","Phengudom 2021 · Intaraprasong 2024 (전치부 위험인자 계층화)","Carvalho 2020 (post 필요성은 크라운 재료 의존)"]
   },
   fiberStrong: {
     cls:"", tag:"파이버 포스트 (강력 권장)",
