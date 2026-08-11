@@ -108,6 +108,7 @@ tags: [navigation, category-index, overviews]
 | [[endodontic-endotoxin-lps-lta-overview|Endodontic Endotoxins (LPS) & LTA: Role in Infection and Removal by Treatment — 6-paper synthesis]] |
 | [[endodontic-flare-up-management-overview|근관치료 후 급성 악화(Endodontic Flare-Up) — 위험인자·예방·처치 근거 종합]] |
 | [[endodontic-postoperative-pain-overview|근관치료 후 통증(Post-endodontic Pain) — 시술 변수별 근거 종합 (Post-operative Pain in Endodontics)]] |
+| [[pdl-periapical-pain-mechanism-overview|PDL·치근단 통증 기전 — 근관치료 후 통증의 조직·신경 기반]] |
 | [[endodontic-pulp-periapical-diagnosis-overview|Overview: Endodontic Pulp & Periapical Diagnosis]] |
 | [[endodontic-umbrella-review-evidence-roundup-overview|Endodontic Umbrella-Review Evidence Roundup — Postop Pain · Periapical Diagnosis · Regeneration · Primary/VPT · Guided & Surgical]] |
 | [[endodontics-comprehensive-ladder|Endodontics — VPT·Regenerative·근관치료 의사결정 Comprehensive Ladder]] |
