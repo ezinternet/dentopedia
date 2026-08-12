@@ -10,6 +10,7 @@ source_wiki:
   - wiki/periodontics/fadli-2024-oral-gingival-crevicular-fluid-jawbone-turnover.md
   - wiki/periodontics/foroughi-2025-bridging-oral-systemic-health-periodontal.md
   - wiki/orthodontics/bud-2024-gingival-crevicular-fluid-biomarkers-orthodontic.md
+  - wiki/periodontics/herrera-2025-consensus-report-periodontal-diagnosis.md
 ---
 
 > [!summary] 한국어 핵심요약
