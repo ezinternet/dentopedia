@@ -9,7 +9,7 @@ category: [endodontics]
 confidence: sr+ma
 pdf_path: ""
 pdf_filename: ""
-source_collection: external
+source_collection: pubmed-abstract
 tags: [periodontal-endodontic-lesion, treatment-sequence, probing-depth, clinical-attachment-level, tooth-survival, endo-perio]
 ---
 
