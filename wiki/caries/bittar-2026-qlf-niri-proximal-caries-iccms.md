@@ -7,12 +7,11 @@ doi: 10.1186/s12903-026-08559-1
 source: bittar-2026-qlf-niri-proximal-caries-iccms.md
 category: caries
 evidence_level: cross-sectional
-source_collection: pubmed-text
-full_text: true
+source_collection: pubmed-abstract
 pmid: "42169111"
 pmcid: "PMC13429018"
-text_path: /Users/oracleneo/llm-wiki/papers/bittar-2026-qlf-niri-proximal-caries-iccms.txt
-text_filename: bittar-2026-qlf-niri-proximal-caries-iccms.txt
+
+
 tags: [caries-detection, QLF, NIRI, proximal-caries, ICCMS, diagnostic-accuracy, bitewing, iTero, QrayPen]
 relations:
   - type: reinforces
