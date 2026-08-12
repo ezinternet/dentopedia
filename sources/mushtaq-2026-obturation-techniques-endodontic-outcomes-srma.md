@@ -6,7 +6,7 @@ doi: "10.1038/s41598-026-37936-7"
 category: [endodontics/obturation]
 pdf_path: ""
 pdf_filename: ""
-source_collection: external
+source_collection: pubmed-abstract
 ---
 
 ## Why Ingested
