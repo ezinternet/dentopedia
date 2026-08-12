@@ -6,11 +6,11 @@ doi: "10.1016/j.identj.2025.104021"
 category: [endodontics]
 pdf_path: ""
 pdf_filename: ""
-source_collection: external
+source_collection: pubmed-abstract
 ---
 
 ## Why Ingested
-근관치료 성공률 향상 서베일런스. 치주-근관 복합 병소(PEL)에서 치료 순서(근관 우선 vs 치주 우선)가 성공률·임상 부착 수준에 미치는 영향을 16개 연구 1,468 케이스로 종합한 SR+MA. 기존 위키에 PEL 전용 페이지가 없어 지식 공백을 채움.
+근관치료 성공률 향상 서베일런스. 치주-근관 복합 병소(PEL)에서 치료 순서(근관 우선 vs 치주 우선)가 성공률·임상 부착 수준에 미치는 영향을 16개 연구 1,468 케이스로 종합한 SR+MA. 기존 위키에 PEL 전용 페이지가 없어 지식 공백을 채움. 해당 증거는 [[endodontics/endodontics]] 카테고리에 편입.
 
 ## One-line Summary
 SR+MA (16 studies, 1,468 cases) on combined periodontal-endodontic lesions: endodontic-first treatment significantly improved probing depth (MD -1.07 mm), CAL gain (MD 0.99 mm), and tooth survival/success (RR 1.22) vs periodontal-first or periodontal-only approaches.
