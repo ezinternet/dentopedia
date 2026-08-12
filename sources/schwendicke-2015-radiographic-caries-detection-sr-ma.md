@@ -12,7 +12,7 @@ pmid: "25724114"
 
 ## Why Ingested
 
-Landmark SR+MA (117 studies, 13,375 teeth, 19,108 surfaces) providing systematic quantitative evidence for radiographic caries detection accuracy stratified by lesion depth and location. Directly answers the clinical question of when proximal caries becomes radiographically visible on bitewing/PA — the largest synthesis on this topic in the dental literature as of 2015.
+Landmark SR+MA (117 studies, 13,375 teeth, 19,108 surfaces) providing systematic quantitative evidence for radiographic caries detection accuracy stratified by lesion depth and location. Directly answers the clinical question of when proximal caries becomes radiographically visible on bitewing/PA — the largest synthesis on this topic in the dental literature as of 2015. Foundational reference for [[caries/caries]] and [[radiology/radiology]] on the sensitivity limits of bitewing radiography.
 
 ## Three-line Summary
 
