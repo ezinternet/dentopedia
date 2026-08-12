@@ -204,10 +204,10 @@ body {
   background: #F6F7FC !important;
   color: #1B2038 !important;
   font-family: "Noto Sans KR", "Apple SD Gothic Neo", "Malgun Gothic", system-ui, sans-serif;
-  font-size: 21px;
+  font-size: 17px;
   line-height: 1.55;
   min-height: 100vh;
-  padding-bottom: 72px;
+  padding-bottom: 58px;
 }
 .topbar {
   position: sticky;
@@ -215,79 +215,79 @@ body {
   z-index: 20;
   background: #F6F7FC !important;
   border-bottom: 1px solid #DCE4F2;
-  padding: 15px 24px;
+  padding: 12px 19px;
   display: flex;
   align-items: center;
-  gap: 12px;
+  gap: 10px;
 }
 .search-wrap { flex: 1; position: relative; min-width: 0; }
 .search-icon {
-  position: absolute; left: 15px; top: 50%; transform: translateY(-50%);
-  color: var(--muted); pointer-events: none; width: 21px; height: 21px;
+  position: absolute; left: 12px; top: 50%; transform: translateY(-50%);
+  color: var(--muted); pointer-events: none; width: 17px; height: 17px;
 }
 #q {
-  width: 100%; height: 54px; padding: 0 18px 0 48px;
-  font-size: 20px; font-family: inherit; color: var(--text);
-  background: var(--surface); border: 1px solid var(--border); border-radius: 12px;
+  width: 100%; height: 43px; padding: 0 14px 0 38px;
+  font-size: 16px; font-family: inherit; color: var(--text);
+  background: var(--surface); border: 1px solid var(--border); border-radius: 10px;
   transition: border-color .15s, box-shadow .15s;
 }
 #q::placeholder { color: var(--muted); }
 #q:focus { outline: none; border-color: var(--accent); box-shadow: var(--focus-ring); }
 .btn {
-  height: 48px; padding: 0 17px; font-size: 18px; font-family: inherit; font-weight: 500;
+  height: 38px; padding: 0 14px; font-size: 14px; font-family: inherit; font-weight: 500;
   cursor: pointer; color: var(--muted); background: var(--surface);
-  border: 1px solid var(--border); border-radius: 11px; white-space: nowrap;
+  border: 1px solid var(--border); border-radius: 9px; white-space: nowrap;
   letter-spacing: .01em; transition: color .12s, border-color .12s, background .12s;
 }
 .btn:hover { color: var(--accent); border-color: var(--accent); background: var(--accent-dim); }
 .btn:focus-visible { outline: none; box-shadow: var(--focus-ring); }
-.stats-bar { display: flex; align-items: center; gap: 12px; padding: 18px 24px; flex-wrap: wrap; }
+.stats-bar { display: flex; align-items: center; gap: 10px; padding: 14px 19px; flex-wrap: wrap; }
 .stat {
-  display: inline-flex; align-items: baseline; gap: 8px;
+  display: inline-flex; align-items: baseline; gap: 6px;
   background: var(--surface); border: 1px solid var(--border);
-  border-radius: 12px; padding: 8px 20px; box-shadow: var(--shadow);
+  border-radius: 10px; padding: 6px 16px; box-shadow: var(--shadow);
 }
 .stat .n {
-  font-family: "Inter", system-ui, sans-serif; font-size: 30px; font-weight: 700;
+  font-family: "Inter", system-ui, sans-serif; font-size: 24px; font-weight: 700;
   color: var(--accent); font-variant-numeric: tabular-nums; letter-spacing: -.02em;
 }
-.stat .l { font-size: 18px; color: var(--muted); font-weight: 500; }
+.stat .l { font-size: 14px; color: var(--muted); font-weight: 500; }
 #grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(380px, 1fr));
-  gap: 15px; padding: 0 24px;
+  grid-template-columns: repeat(auto-fill, minmax(305px, 1fr));
+  gap: 12px; padding: 0 19px;
 }
 .card {
   background: #FFFFFF !important; border: 1px solid #DCE4F2;
   border-radius: var(--radius); box-shadow: var(--shadow); align-self: start; overflow: hidden;
 }
 .head {
-  display: flex; align-items: center; gap: 12px; cursor: pointer;
-  padding: 14px 18px; border-left: 5px solid var(--accent);
+  display: flex; align-items: center; gap: 10px; cursor: pointer;
+  padding: 11px 14px; border-left: 4px solid var(--accent);
   user-select: none; transition: background .1s;
 }
 .head:hover { background: var(--hover); }
 .head:focus-visible { outline: none; box-shadow: var(--focus-ring); }
-.head .nm { flex: 1; font-size: 20px; font-weight: 600; color: var(--text); line-height: 1.35; text-wrap: balance; }
+.head .nm { flex: 1; font-size: 16px; font-weight: 600; color: var(--text); line-height: 1.35; text-wrap: balance; }
 .cnt {
-  flex: none; font-family: "Inter", system-ui, sans-serif; font-size: 17px; font-weight: 700;
+  flex: none; font-family: "Inter", system-ui, sans-serif; font-size: 14px; font-weight: 700;
   font-variant-numeric: tabular-nums; background: var(--accent-dim); color: var(--accent);
-  border-radius: 999px; padding: 3px 12px; letter-spacing: .01em;
+  border-radius: 999px; padding: 2px 10px; letter-spacing: .01em;
 }
 .list { display: none; border-top: 1px solid var(--border); }
 .row {
-  display: flex; align-items: baseline; gap: 15px;
-  padding: 11px 18px 11px 23px; color: var(--text); text-decoration: none; transition: background .1s;
+  display: flex; align-items: baseline; gap: 12px;
+  padding: 9px 14px 9px 18px; color: var(--text); text-decoration: none; transition: background .1s;
 }
 .row:hover { background: var(--hover); }
 .row:focus-visible { outline: none; background: var(--hover); }
-.rt { flex: 1; min-width: 0; font-size: 19px; line-height: 1.45; color: var(--text); }
+.rt { flex: 1; min-width: 0; font-size: 15px; line-height: 1.45; color: var(--text); }
 .rd {
-  flex: none; font-family: "Inter", system-ui, sans-serif; font-size: 17px;
+  flex: none; font-family: "Inter", system-ui, sans-serif; font-size: 14px;
   color: var(--muted); font-variant-numeric: tabular-nums; white-space: nowrap; letter-spacing: .01em;
 }
-.no-results { grid-column: 1 / -1; padding: 60px 24px; text-align: center; color: var(--muted); font-size: 20px; display: none; }
-.foot { margin-top: 30px; padding: 0 24px; font-size: 17px; color: var(--muted); letter-spacing: .015em; }
+.no-results { grid-column: 1 / -1; padding: 48px 19px; text-align: center; color: var(--muted); font-size: 16px; display: none; }
+.foot { margin-top: 24px; padding: 0 19px; font-size: 14px; color: var(--muted); letter-spacing: .015em; }
 @media (prefers-reduced-motion: reduce) { *, *::before, *::after { transition: none !important; } }
 </style>
 </head>
