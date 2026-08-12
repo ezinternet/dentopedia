@@ -9,7 +9,7 @@ category: [endodontics]
 confidence: sr+ma
 pdf_path: ""
 pdf_filename: ""
-source_collection: external
+source_collection: pubmed-abstract
 tags: [cbct, success-rate, apical-periodontitis, outcome-assessment, nonsurgical-rct, retreatment, strict-criteria, loose-criteria]
 relations:
   - type: extends
