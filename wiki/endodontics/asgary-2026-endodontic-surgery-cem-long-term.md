@@ -9,7 +9,7 @@ category: [endodontics]
 confidence: retrospective
 pdf_path: ""
 pdf_filename: ""
-source_collection: external
+source_collection: pubmed-abstract
 tags: [endodontic-surgery, apicoectomy, CEM-cement, success-rate, systemic-disease, prognostic-factors, periapical-surgery]
 relations:
   - type: reinforces
