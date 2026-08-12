@@ -6,7 +6,7 @@ doi: "10.7759/cureus.98601"
 category: [endodontics]
 pdf_path: ""
 pdf_filename: ""
-source_collection: external
+source_collection: pubmed-abstract
 ---
 
 ## Why Ingested
