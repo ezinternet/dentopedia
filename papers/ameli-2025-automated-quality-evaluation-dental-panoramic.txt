@@ -1,0 +1,90 @@
+PMID: 40607073
+PMCID: PMC12210116
+DOI: 10.5624/isd.20240232
+Title: Automated quality evaluation of dental panoramic radiographs using deep learning
+Authors: Ameli N, Miri Moghaddam M, Lai H, Pacheco-Pereira C
+Journal: Imaging Science in Dentistry 2025;55(2):175-188
+Source: PMC full text
+
+---
+
+Introduction
+
+Panoramic radiography is a conventional dental imaging modality that captures a single image of the maxillomandibular region. Due to its capacity to provide a comprehensive view of the teeth, alveolar bone, temporomandibular joints, and surrounding structures, it is the most commonly used extraoral radiographic modality in dentistry. The interpretation of panoramic radiographs can be challenging due to the complex relationships among anatomical landmarks and the superimposition of structures, necessitating extensive training and experience. Accurately interpreting radiographs is a critical aspect of medical diagnosis and treatment planning, with the quality of the images playing a key role. Inadequate radiographic quality can lead to issues including misinterpretation, misdiagnosis, and poor treatment planning.
+
+The development of digital radiography has simplified the capture of 2-dimensional (2D) images and accelerated their processing. This modality provides dental professionals with tools to enhance radiograph quality, improving the accuracy of diagnostic interpretation. Additionally, digital radiography has made it easier to store, manage, and transmit images electronically. Consequently, the number of digital extraoral radiographs taken has risen significantly in recent years. This shift to digital platforms also offers a valuable educational resource, allowing dental students to access and review a wide array of radiographic images and thereby augment their learning and interpretive skills.
+
+The availability of a large volume of images enables the development of machine learning algorithms and artificial intelligence (AI) systems that can assist in clinical decision-making. These systems can analyze radiographs, identify potential abnormalities, and provide recommendations for treatment or further diagnostic testing. The application of deep neural networks to medical data, particularly through convolutional neural networks (CNNs), is increasing for tasks such as image classification, segmentation, detection, and anomaly identification. Among these models, the You Only Look Once (YOLO) series consists of real-time single-stage object detection algorithms that have gained popularity in the medical field for their speed and accuracy.
+
+The accuracy and reliability of these models depend on the use of high-quality, homogeneous images for training and validation, making quality control of input images a crucial step before using radiographs for model training. Image quality assessment (IQA) can be divided into objective and subjective approaches. In subjective assessment, human experts evaluate the quality of a radiograph to determine its clinical acceptability. With objective quality assessment, a model is developed to simulate this evaluation process by learning features from a labeled training dataset and using them to map scores to new data.
+
+The present study aims to develop and validate a deep learning (DL)-based model for the automated quality assessment of panoramic radiographs, classifying images based on key quality criteria including artifacts, coverage area, patient positioning, and contrast/density, while also assessing overall image acceptability for clinical diagnosis.
+
+Materials and Methods
+
+In a secondary data study approved by the University Ethics Board, 1,000 dental panoramic images, captured over the past 5 years (2018-2023), were extracted from the University of Alberta Mike Petryk School of Dentistry Oral Health clinic database. The digital panoramic radiographs were acquired using 3 OrthoPhos XG Series (Dentsply Sirona, Bensheim, Germany) devices.
+
+The study employs 4 parameters—coverage, artifacts, patient positioning, and contrast/density—to classify images. An overall IQA was also conducted to determine clinical acceptability for diagnostic purposes.
+
+Exclusion criteria: edentulous patients, primary teeth or mixed dentition, severe artifacts/distortions rendering quality assessment infeasible, duplicated or improperly labeled radiographs.
+
+Following calibration sessions, the quality of each image was independently assessed and scored by 2 dentists (N.A. and M.M.), trained by an expert OMFR (C. P.-P.), using predefined criteria based on the research of Choi et al.
+
+Patient positioning evaluation categories:
+- Chin positioning errors (too high or too low) → excessive curvature or flattening of the occlusal plane
+- Midline positioning errors → asymmetrical distortion of anatomical structures
+- Patient rotation or tilt → one side of mandible appears magnified while the other appears compressed
+- Anterior-posterior positioning errors (too far forward or backward) → affect magnification and sharpness of anterior teeth
+
+Inter-rater reliability (IRR) values: Kappa = 0.93 (artifacts), 0.74 (positioning), 0.89 (coverage area), 0.87 (contrast/density).
+
+Model Architecture:
+- YOLOv8 classification model with 141 layers
+- Training: 30 epochs, batch size 16, Adam-W optimizer, Automatic Mixed Precision
+- Learning rate: 0.0001 (cyclic learning rate scheduler)
+- Augmentation: scaling, translation, flipping, mosaic augmentation
+- Hyperparameter optimization for optimal performance
+
+Dataset breakdown (with augmentation):
+- Artifacts: 1,580 training images (139 with artifact, 140 without artifact)
+- Coverage area: 1,525 training images (99 poor, 170 moderate, 140 good)
+- Patient positioning: 1,450 training images (191 poor, 200 good)
+- Contrast/density: 905 training images + 335 validation (88 poor + 100 good)
+- Overall quality: 1,641 training images (196 unacceptable, 200 acceptable)
+
+Results
+
+IRR: Very good reliability across all criteria (Kappa 0.74–0.93)
+
+Validation Dataset Accuracies:
+- Artifact detection: 87.2% (122/143 artifact class correctly identified; 150/169 no-artifact class)
+- Coverage area: 74.1% (101/135 poor; 66/110 moderate; 107/125 good)
+- Patient positioning: 77.3% (98/130 poor; 99/125 good)
+- Contrast/density: 97.9% (165/170 poor; 163/165 good)
+- Overall quality: 79.3% (155/194 unacceptable; 163/207 acceptable)
+- Clinical acceptability average accuracy: 81.4%
+
+Test set performance highlights:
+- Contrast/density: strongest performance, balanced across classes
+- Coverage area: better in poor/moderate than good
+- Patient positioning: poor positioning detected more accurately than good (0.77 vs 0.69)
+
+Discussion
+
+YOLOv8 outperforms conventional CNN approaches (VGG16, ResNet, DenseNet) as a single-stage approach optimized for both speed and accuracy. Unlike multi-stage architectures (Faster R-CNN), YOLOv8 performs real-time assessment without compromising classification performance.
+
+YOLOv8's capacity to process full images—rather than patches—provides more comprehensive IQA, allowing improved detection of global radiographic errors (positioning, coverage) that patch-based models may miss.
+
+Previous estimate: up to 22% of panoramic radiographs require retakes.
+
+Limitations:
+- Dataset variability may affect model generalizability across clinical settings
+- Dataset does not fully represent all patient demographics
+- Image-level labels (not pixel-wise annotations) limit fine-grained quality variation capture
+- Real-time deployment requires further validation for clinical workflow integration
+- Limited availability of images with obvious quality errors across all 4 criteria
+- Variability in number of images across different categories
+
+Coverage area classification had the lowest accuracy (74.1%) due to subjective assessment nature, absence of clear moderate/poor/good boundaries, variation with positioning/operator technique, and collimation/overlapping structures.
+
+Future directions: larger diverse datasets, multi-task learning (simultaneous multi-criteria assessment), extension to periapical and CBCT modalities, real-world validation studies.
