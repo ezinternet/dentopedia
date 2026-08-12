@@ -2645,6 +2645,7 @@ tags: []
 - [[radiology/ramos-2016-ghost-images-metal-objects-panoramic]] — Ramos 2016 (pictorial, ISD): 두경부 금속에 의한 파노라마 허상 형성 화보
 - [[radiology/kim-2024-real-ghost-pseudo-ghost-images-panoramic]] — Kim 2024 (case, ISD): 귀걸이 실상+허상+유사허상; 회전중심 악골 외 확장
 - [[radiology/lingam-2023-common-errors-subjective-quality-panoramic]] — Lingam 2023 (cross-sectional, 2,629장): 파노라마 자세오류 10종 감사 — 유령상(error 10) ~2.2%로 최소 빈도지만 5–12세 소아에 유의 집중(P=0.001), 진단 불가 영상 ~15%(기준 ≤10% 초과)
+- [[radiology/ameli-2025-automated-quality-evaluation-dental-panoramic]] — Ameli 2025 (retrospective, n=1,000 OPG, 앨버타대): YOLOv8으로 파노라마 4개 화질기준(Artifact/Coverage/Positioning/Contrast) 자동분류 — 대조도 97.9%·인공물 87.2%·자세 77.3%·범위 74.1%·임상수용 81.4% 정확도
 - [[radiology/elkhateeb-2022-psp-image-plate-artifacts-prevalence]] — Elkhateeb 2022 (retrospective, 구내 PSP 5만 장, PMC): artifact 재촬영 7.1% — 그중 치근단(PA)이 80.8%; 술자오류 70.4%(cone cut 39.5% 최다)>판오류(교흔 40.3%)>스캐닝오류(지연 스캐닝 39.9%); kappa 0.99 — PA 기술적 artifact 유병률
 - [[radiology/dioguardi-2025-radiographic-artifacts-caries-diagnosis-sr-ma]] — Dioguardi 2025 SR+MA (5편, PMC): 구내 bitewing/PA 광학 artifact(Mach band·cervical burnout·TSR) — 상악 대구치 비우식 TSR ~26%(유치 51%>영구치 27%), 우식/파절 위양성 ~13%; masking test로 감별; GRADE 낮음~매우낮음 — PA 해석적 artifact
 
