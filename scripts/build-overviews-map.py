@@ -204,10 +204,10 @@ body {
   background: #F6F7FC !important;
   color: #1B2038 !important;
   font-family: "Noto Sans KR", "Apple SD Gothic Neo", "Malgun Gothic", system-ui, sans-serif;
-  font-size: 28px;
+  font-size: 21px;
   line-height: 1.55;
   min-height: 100vh;
-  padding-bottom: 96px;
+  padding-bottom: 72px;
 }
 .topbar {
   position: sticky;
@@ -215,79 +215,79 @@ body {
   z-index: 20;
   background: #F6F7FC !important;
   border-bottom: 1px solid #DCE4F2;
-  padding: 20px 32px;
+  padding: 15px 24px;
   display: flex;
   align-items: center;
-  gap: 16px;
+  gap: 12px;
 }
 .search-wrap { flex: 1; position: relative; min-width: 0; }
 .search-icon {
-  position: absolute; left: 18px; top: 50%; transform: translateY(-50%);
-  color: var(--muted); pointer-events: none; width: 28px; height: 28px;
+  position: absolute; left: 15px; top: 50%; transform: translateY(-50%);
+  color: var(--muted); pointer-events: none; width: 21px; height: 21px;
 }
 #q {
-  width: 100%; height: 72px; padding: 0 24px 0 60px;
-  font-size: 26px; font-family: inherit; color: var(--text);
-  background: var(--surface); border: 1px solid var(--border); border-radius: 14px;
+  width: 100%; height: 54px; padding: 0 18px 0 48px;
+  font-size: 20px; font-family: inherit; color: var(--text);
+  background: var(--surface); border: 1px solid var(--border); border-radius: 12px;
   transition: border-color .15s, box-shadow .15s;
 }
 #q::placeholder { color: var(--muted); }
 #q:focus { outline: none; border-color: var(--accent); box-shadow: var(--focus-ring); }
 .btn {
-  height: 64px; padding: 0 22px; font-size: 24px; font-family: inherit; font-weight: 500;
+  height: 48px; padding: 0 17px; font-size: 18px; font-family: inherit; font-weight: 500;
   cursor: pointer; color: var(--muted); background: var(--surface);
-  border: 1px solid var(--border); border-radius: 14px; white-space: nowrap;
+  border: 1px solid var(--border); border-radius: 11px; white-space: nowrap;
   letter-spacing: .01em; transition: color .12s, border-color .12s, background .12s;
 }
 .btn:hover { color: var(--accent); border-color: var(--accent); background: var(--accent-dim); }
 .btn:focus-visible { outline: none; box-shadow: var(--focus-ring); }
-.stats-bar { display: flex; align-items: center; gap: 16px; padding: 24px 32px; flex-wrap: wrap; }
+.stats-bar { display: flex; align-items: center; gap: 12px; padding: 18px 24px; flex-wrap: wrap; }
 .stat {
-  display: inline-flex; align-items: baseline; gap: 10px;
+  display: inline-flex; align-items: baseline; gap: 8px;
   background: var(--surface); border: 1px solid var(--border);
-  border-radius: 14px; padding: 10px 26px; box-shadow: var(--shadow);
+  border-radius: 12px; padding: 8px 20px; box-shadow: var(--shadow);
 }
 .stat .n {
-  font-family: "Inter", system-ui, sans-serif; font-size: 40px; font-weight: 700;
+  font-family: "Inter", system-ui, sans-serif; font-size: 30px; font-weight: 700;
   color: var(--accent); font-variant-numeric: tabular-nums; letter-spacing: -.02em;
 }
-.stat .l { font-size: 24px; color: var(--muted); font-weight: 500; }
+.stat .l { font-size: 18px; color: var(--muted); font-weight: 500; }
 #grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(480px, 1fr));
-  gap: 20px; padding: 0 32px;
+  grid-template-columns: repeat(auto-fill, minmax(380px, 1fr));
+  gap: 15px; padding: 0 24px;
 }
 .card {
   background: #FFFFFF !important; border: 1px solid #DCE4F2;
   border-radius: var(--radius); box-shadow: var(--shadow); align-self: start; overflow: hidden;
 }
 .head {
-  display: flex; align-items: center; gap: 16px; cursor: pointer;
-  padding: 18px 24px; border-left: 6px solid var(--accent);
+  display: flex; align-items: center; gap: 12px; cursor: pointer;
+  padding: 14px 18px; border-left: 5px solid var(--accent);
   user-select: none; transition: background .1s;
 }
 .head:hover { background: var(--hover); }
 .head:focus-visible { outline: none; box-shadow: var(--focus-ring); }
-.head .nm { flex: 1; font-size: 26px; font-weight: 600; color: var(--text); line-height: 1.35; text-wrap: balance; }
+.head .nm { flex: 1; font-size: 20px; font-weight: 600; color: var(--text); line-height: 1.35; text-wrap: balance; }
 .cnt {
-  flex: none; font-family: "Inter", system-ui, sans-serif; font-size: 22px; font-weight: 700;
+  flex: none; font-family: "Inter", system-ui, sans-serif; font-size: 17px; font-weight: 700;
   font-variant-numeric: tabular-nums; background: var(--accent-dim); color: var(--accent);
-  border-radius: 999px; padding: 4px 16px; letter-spacing: .01em;
+  border-radius: 999px; padding: 3px 12px; letter-spacing: .01em;
 }
 .list { display: none; border-top: 1px solid var(--border); }
 .row {
-  display: flex; align-items: baseline; gap: 20px;
-  padding: 14px 24px 14px 30px; color: var(--text); text-decoration: none; transition: background .1s;
+  display: flex; align-items: baseline; gap: 15px;
+  padding: 11px 18px 11px 23px; color: var(--text); text-decoration: none; transition: background .1s;
 }
 .row:hover { background: var(--hover); }
 .row:focus-visible { outline: none; background: var(--hover); }
-.rt { flex: 1; min-width: 0; font-size: 25px; line-height: 1.45; color: var(--text); }
+.rt { flex: 1; min-width: 0; font-size: 19px; line-height: 1.45; color: var(--text); }
 .rd {
-  flex: none; font-family: "Inter", system-ui, sans-serif; font-size: 22px;
+  flex: none; font-family: "Inter", system-ui, sans-serif; font-size: 17px;
   color: var(--muted); font-variant-numeric: tabular-nums; white-space: nowrap; letter-spacing: .01em;
 }
-.no-results { grid-column: 1 / -1; padding: 80px 32px; text-align: center; color: var(--muted); font-size: 26px; display: none; }
-.foot { margin-top: 40px; padding: 0 32px; font-size: 22px; color: var(--muted); letter-spacing: .015em; }
+.no-results { grid-column: 1 / -1; padding: 60px 24px; text-align: center; color: var(--muted); font-size: 20px; display: none; }
+.foot { margin-top: 30px; padding: 0 24px; font-size: 17px; color: var(--muted); letter-spacing: .015em; }
 @media (prefers-reduced-motion: reduce) { *, *::before, *::after { transition: none !important; } }
 </style>
 </head>
