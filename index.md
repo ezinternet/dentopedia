@@ -2115,6 +2115,8 @@ tags: []
 - [[caries/bourouni-2021-resin-infiltration-white-spot-sr-ma]] — SR+MA (Clin Oral Investig 2021): 레진 침투술 (Resin Infiltration) WSL — ΔWID −0.84 유의 개선; 맹출 후 WSL > 교정 후 WSL 효과; 추적 12–24개월
 - [[caries/foros-2021-early-caries-detection-methods-sr-ma]] — SR+MA (Caries Res 2021): 초기 우식 탐지 방법 비교 — DD Pen (진단용 형광장치) Se 0.81–0.89, Sp 0.87–0.96; 방사선 대비 보조 진단 가치 확인
 - [[caries/ekstrand-2018-icdas-coronal-caries-sr-ma]] — SR (Caries Res 2018): ICDAS 재현성 κ>0.65; D3 이상 SROC AUC 0.90; D1 병소 탐지 가장 어렵고 임상적 적용 가변성 큼
+- [[caries/schwendicke-2015-radiographic-caries-detection-sr-ma]] — SR+MA (J Dent 2015, 117편/13,375치아): 방사선 우식 탐지 정확도 — 초기 병소 Se 0.24–0.42(낮음), 상아질 병소 Se 0.36–0.56(중등도), 와동형 인접면 Se>0.60; 전체 특이도 높음(0.87–0.97)
+- [[caries/bittar-2026-qlf-niri-proximal-caries-iccms]] — 진단정확도연구 (BMC Oral Health 2026, 66명/297 인접면): QLF(QrayPen C) vs NIRI(iTero 5D) ICCMS 역치별 비교 — 초기 우식 AUC 0.73(중등도), 상아질 AUC 0.91, 심부상아질 NIRI AUC 0.98; 방사선 보조 도구 역할 확인
 - [[caries/malcangi-2023-enamel-remineralization-techniques-sr]] — SR (Bioengineering 2023): 에나멜 재광화 기법 — CPP-ACP·불소·레진침투 비교; RI가 초기 병소 표면하 광화 회복 최고; fluoride varnish 단독 예방 효과
 - [[caries/butera-2023-zinc-hydroxyapatite-enamel-dentin-remineralization]] — narrative-review (Biomimetics 2023, 30편/대부분 in vitro): 생체모방 zinc-carbonate hydroxyapatite(Zn-CHA) 치약·가글 — 법랑질/상아질 재광화·침식보호·상아세관 폐쇄(과민증) 신호, RCT 부족·중등도 비뚤림 (PMC9944842)
 - [[caries/hamdi-2024-orthodontic-adhesives-enamel-remineralization]] — SR (BMC Oral Health 2024, in vitro 24편): 교정 접착제에 생체활성 필러(BAG·n-HAP·n-ACP·n-AFCP·nCaF2)/불소방출 첨가 시 브라켓 주위 법랑질 재광화·탈회억제 — 24편 중 15편 고비뚤림, 메타분석 불가(근거 약함) (PMC11603835)
