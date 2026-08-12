@@ -9,7 +9,7 @@ category: [endodontics]
 confidence: sr
 pdf_path: ""
 pdf_filename: ""
-source_collection: external
+source_collection: pubmed-abstract
 tags: [nonsurgical-retreatment, persistent-apical-periodontitis, prognosis, cbct, microscope, niti-rotary, prognostic-factors]
 relations:
   - type: extends
