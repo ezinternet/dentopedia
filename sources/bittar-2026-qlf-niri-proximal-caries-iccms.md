@@ -5,17 +5,16 @@ year: 2026
 doi: 10.1186/s12903-026-08559-1
 category: caries
 evidence_level: cross-sectional
-source_collection: pubmed-text
-full_text: true
+source_collection: pubmed-abstract
 pmid: "42169111"
 pmcid: "PMC13429018"
-text_path: /Users/oracleneo/llm-wiki/papers/bittar-2026-qlf-niri-proximal-caries-iccms.txt
-text_filename: "bittar-2026-qlf-niri-proximal-caries-iccms.txt"
+
+
 ---
 
 ## Why Ingested
 
-Ingested to address the clinical question of how early proximal caries is detectable on radiographs. Directly tests QLF (QrayPen C) and NIRI (iTero Element 5D) as non-ionizing adjuncts to bitewing radiography for proximal caries at predefined ICCMS radiographic depth thresholds — the first such head-to-head comparison in vivo.
+Ingested to address the clinical question of how early proximal caries is detectable on radiographs. Directly tests QLF (QrayPen C) and NIRI (iTero Element 5D) as non-ionizing adjuncts to bitewing radiography for proximal caries at predefined ICCMS radiographic depth thresholds — the first such head-to-head comparison in vivo. Extends [[caries/foros-2021-early-caries-detection-methods-sr-ma]] and [[caries/schwendicke-2015-radiographic-caries-detection-sr-ma]] with in-vivo device-head-to-head data.
 
 ## Three-line Summary
 
