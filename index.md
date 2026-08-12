@@ -765,6 +765,8 @@ tags: []
 
 ## 근관치료 — 충전 길이·예후 (Endodontics: Obturation Length / Outcome)
 - [[overviews/obturation-length-outcome-overview]] — Synthesis 2026-07-05 (5편): 근관충전 종지점은 AC(RA 0–2mm short)·dense·no-extrusion; "얼마나 short"는 진단 종속 — 생활치수는 다소 물러남(Chugal 성공례 WL 1.23mm), 괴사+AP는 AC 근접(WL 1mm 손실당 실패 +14%); 과충전은 일관되게 예후↓ (Schaeffer +28.8% short>past-apex, Ng RA 2mm 이내, Ricucci excess↓, Sjogren filling level 유의)
+- [[endodontics/almufleh-2025-cbct-nonsurgical-rct-outcomes-srma]] — Almufleh 2025 · sr+ma · CBCT 기반 NSRCT 성공률: strict 기준 41.03% vs loose 기준 85.01% — 2D 방사선(~79%)보다 CBCT가 잔존 병소 훨씬 민감하게 탐지; 예후인자 4가지
+- [[endodontics/falatah-2025-nonsurgical-retreatment-persistent-ap-sr]] — Falatah 2025 · sr · 비수술적 재근관치료 (30편, 1988–2025): 예후 향상 4인자(술전 병소 없음/소·적절한 충전+치관 밀폐·전문의 시술·현대 술식); CBCT strict 기준 성공률 2D보다 낮음
 
 ## 근관치료 — 세정·활성화 (Endodontics: Irrigation)
 - [[endodontics/irrigation/hatipoglu-2025-irrigation-activation-postoperative-pain-network-meta]] — Hatipoğlu 2025 · sr+ma · 세정 활성화 7기법 NMA: 레이저활성화세정(LAI) 술후1일 통증 최저(SUCRA 85%), 수동역동(MDI) 최하위
@@ -1724,6 +1726,7 @@ tags: []
 
 
 ## 근관치료 — 충전·실러 (Endodontics: Obturation / Bioceramic Sealers)
+- [[endodontics/obturation/mushtaq-2026-obturation-techniques-endodontic-outcomes-srma]] — Mushtaq 2026 · sr+ma · 충전 기법 SR+MA (84편, 11,965 표본): 6·12개월 기법 간 성공률 무차이; 24개월 CLC(+5%)/CB(+7.5%) > SC; 3년 이후 수렴 — 술자 숙련도가 기법 선택보다 중요
 
 ### Ceraseal / 생체활성 실러 cluster (added 2026-06-23, PubMed full-text)
 - [[endodontics/spinelli-2024-three-year-single-cone-ceraseal-cohort]] — Spinelli 2024 · prospective · Ceraseal + single-cone: 92.7% survival, 92.1% PP healing at 36 mo; 100% in pulpitis/necrosis
@@ -1764,6 +1767,8 @@ tags: []
 - [[endodontics/pinto-2023-apical-periodontitis-chronic-disease-association-umbrella]] — Pinto 2023 · sr(umbrella, SR 9편, PMC 풀텍스트) · 근단주위염(AP)-전신질환 연관성: 당뇨병·심혈관질환·혈액질환·만성간질환·골다공증·자가면역질환과 양성 연관(중등도 근거), HIV는 무연관 — 근거 이질성으로 정량적 통합 없음 (DOI 10.22037/iej.v18i3.42560)
 - [[endodontics/zhang-2025-intentional-replantation-periapical-periodontitis-prognosis-sr-ma]] — Zhang 2025 · sr+ma (39편/2,305치, PMC 풀텍스트) · **발치 문턱의 보존 대안 — 의도적 재식(intentional replantation)** 예후: 통합 생존 0.89·성공 0.78. **단 39편 중 31편이 high risk of bias(low 0편)** — 89%를 느슨하게 잡을 것. 게다가 생존이 시간에 붕괴한다: 3개월 0.98 → 1년 0.91 → **8년 0.63**. 생존 저하 인자는 고령(SRR 0.73, p=0.048 취약)·치주치수복합병변(CPEL SRR 0.80, p=0.001 견고). 임플란트와 비교는 **안 함** (DOI 10.1186/s12903-025-06583-1)
 - [[endodontics/li-2026-root-canal-timing-autotransplanted-teeth-prognosis-sr-ma]] — Li 2026 · sr+ma (24편/1,473치, PMC 풀텍스트) · **또 다른 보존 대안 — 자가치아이식(autotransplantation, 성숙치)**: 전체 생존 95%·성공 92%·치근흡수 16%(계획자가 임플란트에 견줄 수치이나 **이 리뷰는 임플란트 비교 안 함**·단일군 추정). 논문의 실제 질문은 근관치료 시기 → 생존·성공엔 무영향, **예방적 술후 RCT가 치근흡수 최저(11%)**. 성숙치(complete root) 한정 — 미성숙 개방근단엔 적용 금지 (DOI 10.1186/s12903-026-08413-4)
+- [[endodontics/asgary-2026-endodontic-surgery-cem-long-term]] — Asgary 2026 · retrospective · CEM 근단 수술 (197치, 45.2개월 추적): 전체 성공 94.9%; 1·3·5년 실패없는 생존 96.4/92.7/87.3%; 전신질환만 독립적 실패 예측 인자(HR=5.87)
+- [[endodontics/fan-2025-perioendo-treatment-sequence-srma]] — Fan 2025 · sr+ma · 치주-근관 복합 병소 치료 순서 SR+MA (16편, 1,468케이스): 근관 우선이 치주 우선 대비 PD(MD -1.07mm)·CAL(+0.99mm)·치아 생존(RR 1.22) 모두 유의 우수; 단 I²=91–98% 높은 이질성
 
 ## 근관치료 — 생활치수치료 (Endodontics: Vital Pulp Therapy)
 - [[endodontics/vpt/lopes-2021-vital-nonvital-pulp-therapy-primary-dentition-umbrella]] — Lopes 2021 · sr(umbrella, SR 33편, PMC 풀텍스트) · 유치 생활/실활 치수치료 방법론 질 평가 — 3편 critically low·9편 low·17편 moderate·6편 high; 근거 질 중등도, 표준화 임상 프로토콜 위한 고품질 SR 추가 필요 (DOI 10.3390/jcm11010085)
