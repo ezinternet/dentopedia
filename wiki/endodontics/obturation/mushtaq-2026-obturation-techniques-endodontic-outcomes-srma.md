@@ -9,7 +9,7 @@ category: [endodontics/obturation]
 confidence: sr+ma
 pdf_path: ""
 pdf_filename: ""
-source_collection: external
+source_collection: pubmed-abstract
 tags: [obturation, success-rate, cold-lateral-condensation, single-cone, carrier-based, warm-vertical-compaction, bioceramic-sealer, retreatment]
 relations:
   - type: extends
