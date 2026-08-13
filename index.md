@@ -2333,6 +2333,8 @@ tags: []
 - [[behavioral-dentistry/communication-relationship/qadiri-2026-digital-smile-design-patient-satisfaction-treatment]] — Qadiri 2026 · prospective(n=80) · DSD 상담 후 이해도 2.9→4.4, 시각화 능력 2.5→4.8(p<0.001), 치료 수락률 85%; 비용 이해도도 유의 상승
 - [[behavioral-dentistry/communication-relationship/hayer-2022-gdp-perceptions-shared-decision-making-qualitative]] — Hayer 2022 · qualitative(n=9 영국 GDP) · SDM이 informed consent와 혼동됨; 장벽 3개: 소통 습관·소송 두려움·NHS 시간 압박 — 표준화 의사결정 도구 필요
 - [[behavioral-dentistry/communication-relationship/iyer-2025-aided-unaided-decision-making-partial-denture]] — Iyer 2025 · rct(n=76) · 부분의치 선택 PDA사용군 DCS 8.0 vs 비사용군 20.6(p<0.001); PDA군 71.1% 고정성 선택 — 정보 제공이 치료 선택을 바꿈
+- [[behavioral-dentistry/communication-relationship/okyere-boadu-2025-patient-challenges-dental-care-ghana]] — Okyere Boadu 2025 · mixed-methods(n=130, 가나) · 55.4%가 장벽 경험; 비용·예약 100%, 진료중 불안 77%·커뮤니케이션 부족 40.2%·비용투명성 부재 20.7% — 비용장벽→지연→악화→고비용 악순환 실증
+- [[behavioral-dentistry/communication-relationship/taylor-2022-unmet-dental-need-prevalence-us-adults]] — Taylor 2022 · cross-sectional(MEPS 2016, n=25,444) · 미충족 치과수요 6.0%; 치과보험 −1.7 pp, 저소득(빈곤) +4.2 pp — 소득·보험이 주요 결정인자
 
 #### patient-reported-outcomes
 - [[behavioral-dentistry/patient-reported-outcomes/dogramaci-2023-patient-related-outcomes-ohrqol-endodontics]] — Doğramacı 2023 · review · endo PCO/PRO·PROM/PREM 정의(ESE S3); OHRQoL 개선되나 측정도구 미검증
