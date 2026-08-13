@@ -1,0 +1,74 @@
+---
+title: "Randomized Clinical Trial on Caries Prevention of Silver Diamine Fluoride"
+authors: Zheng FM, Yan IG, Duangthip D, Lo ECM, Gao SS, Chu CH
+year: 2025
+date: 2025-09-09
+doi: 10.1177/00220345251363837
+source: zheng-2025-silver-diamine-fluoride-vs-varnish-caries-prevention-rct.md
+category: [caries]
+evidence_level: rct
+pdf_path: /Users/oracleneo/llm-wiki/papers/zheng-2025-silver-diamine-fluoride-vs-varnish-caries-prevention-rct.pdf
+pdf_filename: zheng-2025-silver-diamine-fluoride-vs-varnish-caries-prevention-rct.pdf
+source_collection: external
+tags: [sdf, fluoride-varnish, early-childhood-caries, primary-teeth, caries-prevention, rct]
+relations:
+  - type: extends
+    target: urquhart-2019-nonrestorative-treatments-caries-network-meta-analysis
+---
+
+## Three-line Summary
+
+30-month double-blind active-controlled superiority RCT (n=730, 365/arm; Hong Kong kindergartens; children aged 3–4 years; NCT04075474) applying semiannual 38% silver diamine fluoride (SDF) or 5% NaF varnish to all surfaces of primary maxillary anterior teeth; 85% retention at 30 months.
+
+New carious surfaces per child at 30 months: 0.35±1.09 (SDF) vs 0.54±1.50 (FV), Mann-Whitney p=0.048; GEE-adjusted OR 0.61 (95% CI 0.39–0.95, p=0.029), 39% prevented fraction; benefit only became significant from 24 months onward.
+
+SDF is superior to NaF varnish for preventing caries on proximal and smooth surfaces of primary anterior teeth over ≥24 months; short (12-month) prevention trials are inadequate for detecting this advantage; no adverse effects in 730 children over 18 applications.
+
+## 세줄요약
+
+30개월 이중맹검 활성대조 우월성 RCT(n=730, 365명/군; 홍콩 유치원; 3–4세; NCT04075474) — 6개월 간격 38% 은 디아민 불소(Silver Diamine Fluoride, SDF) 또는 5% NaF 바니시를 상악 유전치 전체 면에 도포; 30개월 유지율 85%.
+
+아동당 30개월 신규 우식면: SDF 0.35±1.09 vs FV 0.54±1.50(Mann-Whitney p=0.048); GEE 보정 OR 0.61(95% CI 0.39–0.95, p=0.029), 예방분율 39%; 효과는 24개월부터 유의.
+
+SDF가 ≥24개월 추적 시 유전치 인접면·평활면 우식 예방에서 NaF 바니시보다 우수; 12개월 이하 예방 시험은 이 효과를 포착하기에 부적절; 730명 18회 도포에서 부작용 없음.
+
+## Summary
+
+This is the first long-duration (30-month) RCT to test whether 38% **silver diamine fluoride (SDF)** prevents — rather than arrests — early childhood caries (ECC) on **sound** primary upper anterior teeth, head-to-head against the standard-of-care active comparator, **5% sodium fluoride varnish (FV)**. Conducted in 13 Hong Kong kindergartens with 730 children aged 3–4 y (October 2020 – October 2023), the double-blind superiority trial applied SDF or FV **semiannually** to all surfaces of the 6 maxillary anterior primary teeth.
+
+SDF was superior to FV. The mean number of new carious tooth surfaces per child at 30 mo was 0.35±1.09 (SDF) vs 0.54±1.50 (FV) — a difference of 0.19 surfaces (Mann-Whitney p=0.048). After GEE adjustment for tooth-surface type, the SDF group had an adjusted odds ratio of 0.61 (95% CI 0.39–0.95, p=0.029) for developing new carious surfaces, a 39% prevented fraction. The preventive advantage was not detectable at 6–18 mo and only became significant from 24 mo onward, underscoring that short (12-mo) caries-prevention trials are inadequate. SDF carries a higher fluoride concentration (44,800 ppm) than FV (22,600 ppm) plus silver's antibacterial action, supporting its dual mechanism. The WHO has added SDF to its Model List of Essential Medicines (2021).
+
+## Key Contributions
+
+- First long-term RCT of SDF's **preventive** effect on *sound* primary teeth (prior evidence was mostly arrest-focused or short-duration).
+- Direct head-to-head of the two leading professional topical agents — 38% SDF vs 5% NaF varnish — under double-blind conditions with a clinically meaningful 30-mo follow-up.
+- Establishes that the SDF preventive advantage is **time-dependent** (emerges only after 24 mo), with the largest effect on high-risk proximal surfaces.
+- Confirms safety: 18 applications over 30 mo provide a substantial margin against fluorosis; no adverse effects reported in 730 children.
+
+## Methodology
+
+- **Design**: Double-blind, stratified-randomized (caries risk: dmft >0 vs =0), 1:1 parallel 2-arm active-controlled superiority RCT. Block-of-8 randomization; opaque sealed-envelope allocation concealment. ClinicalTrials.gov **NCT04075474**. CONSORT 2010 compliant.
+- **Participants**: 730 healthy children aged 3–4 y (365/arm) across 13 kindergartens; Hong Kong water fluoridation 0.5 ppm. Excluded if uncooperative or on long-term medications.
+- **Intervention**: Semiannual application of 38% SDF (Advantage Arrest) or 5% NaF varnish (Duraphat) to all surfaces (~18) of the 6 primary upper anterior teeth. Per session: ~4.8 mg F (SDF) vs ~9.1 mg F (FV). Proximal surfaces of adjacent teeth shared one application.
+- **Outcomes**: Primary = mean new carious tooth surfaces/child at 30 mo (cavitation-level dmfs). Secondary = surface-level incidence (OR), surfaces split smooth (buccal/lingual) vs proximal (mesial/distal); proportions at each interim visit.
+- **Examiner**: Single trained, calibrated examiner; intra-examiner kappa ≥0.90 every period; 10% re-examined per visit; biannual recalibration.
+- **Analysis**: Modified intention-to-treat (final-exam completers); GEE (logit link, exchangeable correlation) adjusted for tooth-surface type; two-sided p < 0.05; SPSS v28.0.
+
+## Results
+
+- **Retention**: 621/730 completed (15% loss; SDF 307 [16%], FV 314 [14%], p=0.84); no significant baseline differences.
+- **Primary outcome (30 mo)**: new carious surfaces/child — SDF 0.35±1.09 vs FV 0.54±1.50 (Mann-Whitney p=0.048).
+- **Child-level caries incidence**: 15.6% (48/307) SDF vs 19.7% (62/314) FV (chi-square p=0.180, NS).
+- **Surface-level incidence**: 1.5% (108/7,224) SDF vs 2.2% (166/7,384) FV. Predicted probability: 0.83% (SDF) vs 1.36% (FV reference).
+- **GEE adjusted OR**: 30 mo = 0.61 (95% CI 0.39–0.95, p=0.029); 24 mo = 0.58 (95% CI 0.37–0.93, p=0.023). Sensitivity (433 non-dentist-visiting children, 10,680 surfaces): aOR 0.58 (95% CI 0.34–1.00, p=0.048) — unchanged.
+- **Prevented fraction**: 39% (SDF vs FV).
+- **Time course**: child-level differences NS at 6 mo (p=0.292), 12 mo (p=0.168), 18 mo (p=0.089); significant at 24 mo (p=0.028) and 30 mo (p=0.048).
+- **Tooth surface type**: proximal aOR 2.38 (95% CI 1.73–3.27, p<0.001) vs smooth — proximal far higher caries risk.
+- **Restorations**: no difference in fillings (21/307 SDF vs 20/314 FV, p=0.492). No adverse effects; 18 applications well within safety margin.
+- **Conclusion**: Semiannual SDF is more effective than FV at preventing caries on proximal and smooth surfaces of primary upper anterior teeth, with benefit emerging after 24 mo.
+
+## Related Papers
+
+- [[caries/urquhart-2019-nonrestorative-treatments-caries-network-meta-analysis]] — extends: Urquhart's ADA-guideline NMA ranked SDF and sealant+fluoride highest for caries *arrest/reversal*; this RCT adds direct *preventive* (sound-surface) evidence that SDF beats FV.
+- [[caries/meyer-lueckel-2019-intervene-root-caries-process-sr-ma]] — SR+MA where SDF (alongside 5000 ppm F and CHX varnish) arrested root-surface caries; complementary evidence on SDF's caries-control role in a different population.
+- [[caries/yin-2025-arginine-dentifrice-childhood-caries-rct]] — another 2025 childhood-caries prevention RCT (arginine dentifrice vs NaF); contrasting professionally applied (SDF/FV) vs self-applied topical strategy.

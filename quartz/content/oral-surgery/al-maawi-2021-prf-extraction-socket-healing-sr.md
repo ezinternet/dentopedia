@@ -1,0 +1,62 @@
+---
+title: "Efficacy of platelet-rich fibrin in promoting the healing of extraction sockets: a systematic review"
+authors: Sarah Al-Maawi, Kathrin Becker, Frank Schwarz, Robert Sader, Shahram Ghanaati
+year: 2021
+date: 2021-01-01
+doi: 10.1186/s40729-021-00393-0
+source: al-maawi-2021-prf-extraction-socket-healing-sr.md
+category: [oral-surgery]
+evidence_level: sr
+pdf_path: /Users/oracleneo/llm-wiki/papers/al-maawi-2021-prf-extraction-socket-healing-sr.pdf
+pdf_filename: al-maawi-2021-prf-extraction-socket-healing-sr.pdf
+source_collection: external
+tags: []
+---
+
+## Three-line Summary
+
+Systematic review (PubMed + Web of Knowledge; 20 randomized/controlled studies; no meta-analysis due to high heterogeneity in PRF preparation and outcome measurement) of PRF in fresh extraction sockets versus spontaneous healing.
+
+PRF improves early healing (2–3 months): postoperative pain reduced in 66.6% of studies, soft-tissue healing improved in 75%, and socket fill increased in 85%; however, at 6 months, dimensional bone loss showed no significant difference from spontaneous healing.
+
+Long-term implant outcome data in PRF-treated sockets are entirely absent, and lack of standardization in PRF preparation protocols is the major evidence gap preventing meta-analysis and definitive conclusions.
+
+## 세줄요약
+
+체계적 문헌고찰(Systematic Review; PubMed·Web of Knowledge; 무작위·대조 연구 20편; PRF 준비·결과 프로토콜 이질성으로 메타분석 불가) — 신선 발치와에서 혈소판풍부섬유소(Platelet-Rich Fibrin, PRF) 대 자연 치유 비교.
+
+PRF는 초기 치유(2–3개월)에 효과적: 통증 66.6%·연조직 치유 75%·골 충전(Socket Fill) 85% 개선; 그러나 6개월째 골 용적 소실(Dimensional Bone Loss)은 자연 치유와 유의한 차이 없음.
+
+PRF 처치 발치와의 장기 임플란트 결과 데이터 전무 — PRF 준비 비표준화가 핵심 근거 공백이며, 임플란트 예후 데이터 확보가 향후 연구 과제.
+
+## Summary
+This systematic review by Al-Maawi et al. (2021) addresses whether PRF improves outcomes in fresh extraction sockets compared to spontaneous healing. Twenty randomized and/or controlled studies were included from PubMed and Web of Knowledge. A meta-analysis was not performed due to high heterogeneity in PRF preparation and outcome measurement protocols. Results indicate that PRF is most effective in the early healing period (2–3 months) but provides no demonstrable advantage at 6 months. Long-term implant success data in PRF-treated sockets remain unavailable.
+
+## Key Contributions
+- First comprehensive systematic review examining PRF across all extraction socket healing outcomes (pain, soft tissue, bone volume, socket fill)
+- Establishes the time-dependent nature of PRF benefit: effective early, not at 6 months
+- Highlights lack of standardization in PRF preparation as a major evidence gap
+- Identifies absence of long-term implant outcome data as a critical research need
+
+## Methodology
+- Databases: PubMed, Web of Knowledge (Thomson Reuters), hand search of relevant journals
+- Study types included: randomized and/or controlled studies
+- Outcomes: postoperative pain, soft tissue healing (1 week), dimensional bone loss (8–15 weeks vs. 6 months), socket fill
+- No meta-analysis due to heterogeneity; qualitative synthesis only
+- 20 studies met inclusion criteria
+
+## Results
+| Outcome | Finding | % Studies |
+|---|---|---|
+| Postoperative pain | Significantly reduced by PRF (esp. days 1–3) | 66.6% |
+| Soft tissue healing (1 week) | Significantly improved in PRF group | 75% |
+| Dimensional bone loss (8–15 wk) | Significantly lower in PRF group | — |
+| Dimensional bone loss (6 months) | No significant difference | — |
+| Socket fill | Significantly higher in PRF group | 85% |
+
+Key conclusion: PRF benefit confined to early healing period (2–3 months post-extraction). No clear benefit for longer healing periods. No data on long-term implant outcomes in PRF-treated sockets.
+
+## Related Papers
+- [[bone-regeneration/ridge-preservation/bassir-2018-alveolar-ridge-preservation-meta-analysis]] — ARP SR+MA(21편); socket preservation의 정량 anchor.
+- [[bone-regeneration/ridge-preservation/ucer-2023-extraction-socket-augmentation-platelet-rich-fibrin]] — 발치와 ARP에서 PRF 골이식재 병용 종설.
+- [[immediate-implant/araujo-2019-socket-healing-immediate-implant-review]] — 즉시식립 socket healing 라틴아메리카 리뷰.

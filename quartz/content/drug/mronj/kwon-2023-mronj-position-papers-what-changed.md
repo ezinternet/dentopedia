@@ -1,0 +1,57 @@
+---
+title: "Position Papers on MRONJ (Medication related osteonecrosis of the jaw), What has changed?"
+authors: Tae-Geon Kwon
+year: 2023
+date: 2023-06-01
+doi: 10.22974/jkda.2023.61.7.001
+source: kwon-2023-mronj-position-papers-what-changed.md
+category: [drug/mronj]
+evidence_level: narrative-review
+pdf_path: /Users/oracleneo/llm-wiki/papers/kwon-2023-mronj-position-papers-what-changed.pdf
+pdf_filename: kwon-2023-mronj-position-papers-what-changed.pdf
+source_collection: external
+tags: [mronj, bronj, bisphosphonate, denosumab, antiresorptive, aaoms-position-paper, drug-holiday, romosozumab, korean-review]
+---
+
+## Three-line Summary
+
+Narrative review (JKDA 2023, Kwon TG) tracing AAOMS jaw-osteonecrosis position paper evolution (2007 BRONJ → 2014 MRONJ → 2022 update), comparing three clinically significant changes in the 2022 edition.
+
+The 2022 AAOMS update added immunomodulators (romosozumab) to the MRONJ definition, extended operative therapy to all stages (1, 2, 3) rather than advanced disease only, and removed the pre-surgical drug holiday recommendation due to insufficient evidence.
+
+Clinical implication: clinicians trained on pre-2022 guidelines should note that drug holiday is no longer recommended by AAOMS 2022, and stage 1 MRONJ now warrants surgical consideration — both are substantive practice changes.
+
+## 세줄요약
+
+서술적 고찰(JKDA 2023, 권태건) — AAOMS 턱뼈골괴사 권고안 변천(2007 BRONJ → 2014 MRONJ → 2022 update) 3가지 핵심 변경 사항 비교.
+
+2022 AAOMS 개정: (1) 정의에 면역조절제(Romosozumab 등) 추가, (2) 수술적 치료를 전 stage(1·2·3)로 확대, (3) 수술 전 drug holiday 권고 근거 부족으로 삭제.
+
+임상적 의미: 2022년 이전 지침으로 훈련된 임상가는 drug holiday 권고 삭제와 Stage 1의 수술적 접근 확대라는 두 가지 실질적 변화를 숙지해야 함.
+
+## Summary
+Korean clinician review of how the AAOMS jaw-osteonecrosis position papers evolved. Antiresorptives (bisphosphonate, denosumab) reduce skeletal-related events but are linked to ONJ. The term moved from BRONJ (2007) to MRONJ (2014), with a May 2022 update revising disease definition and management. Three changes matter most clinically.
+
+## Key Contributions
+- Clear before/after of the three substantive 2022 revisions
+- Terminology lineage BRONJ → MRONJ → 2022 update
+- Notes the literature-review basis behind the revisions
+
+## Methodology
+- Narrative review comparing successive AAOMS position papers.
+
+## Results
+- **Definition (2022)**: immune modulators (e.g., Romosozumab) added as potentially ONJ-related medications. [미검증] Romosozumab is mechanistically a sclerostin inhibitor (anabolic), so its inclusion is about observed ONJ association, not antiresorptive class membership.
+- **Treatment (2022)**: operative therapy now indicated across **all stages (1, 2, 3)** — a shift from reserving surgery for advanced disease.
+- **Drug holiday (2022)**: pre-surgical drug holiday to prevent MRONJ is **no longer supported/identified** in the 2022 paper.
+- Statements grounded in strict literature review; weakly-evidenced positions were revised.
+
+## Limitations
+- Single-society (AAOMS) focus; not a multi-guideline synthesis.
+- Position-paper recommendations partly rest on low-level evidence.
+
+## Related Papers
+- [[drug/mronj/ruggiero-2022-aaoms-mronj-position-paper-update]] — primary AAOMS 2022 paper interpreted here
+- [[drug/mronj/baghalipour-2025-mronj-prevention-management-review]] — MRONJ prevention/management review
+- [[drug/mronj/li-2024-antiresorptive-implants-mronj-sr]] — antiresorptives + implants MRONJ SR
+- [[drug/mronj/jung-2022-denosumab-mronj-osteoporosis-5year]] — denosumab MRONJ in osteoporosis

@@ -1,0 +1,76 @@
+---
+title: "Intraoral low-temperature degradation of monolithic zirconia dental prostheses: Results of a prospective clinical study with ex vivo monitoring"
+authors: Koenig V, Bekaert S, Dupont N, Vanheusden A, Le Goff S, Douillard T, Chevalier J, Djaker N, Lamy de la Chapelle M, Amiard F, Dardenne N, Wulfman C, Mainjot A
+year: 2021
+date: 2021-07-01
+doi: 10.1016/j.dental.2021.03.008
+source: koenig-2021-ltd-monolithic-zirconia-prospective.md
+category: [dental-materials/zirconia]
+evidence_level: prospective
+superseded_by: koenig-2024-ltd-monolithic-zirconia-5year-prospective
+superseded_scope: partial
+pdf_path: /Users/oracleneo/llm-wiki/papers/koenig-2021-ltd-monolithic-zirconia-prospective.pdf
+pdf_filename: koenig-2021-ltd-monolithic-zirconia-prospective.pdf
+source_collection: external
+tags: [zirconia, LTD, aging, 3Y-TZP, monolithic-zirconia, Raman, prospective]
+---
+
+> [!note] Partially superseded → [[dental-materials/zirconia/koenig-2024-ltd-monolithic-zirconia-5year-prospective]]
+> 5-year results from the same cohort extend the LTD timeline and add grain pull-out nanoparticle concern. This 2-year paper retains value as the original LTD onset documentation and mechanism description. (set 2026-06-16)
+
+## Three-line Summary
+
+First prospective clinical study with ex vivo Raman spectroscopy and SEM monitoring (n=101 posterior 3Y-TZP monolithic zirconia, 4 timepoints over 2 years) confirming that low-temperature degradation (LTD) occurs in functioning intraoral restorations.
+
+LTD onset was detected at 6 months; two distinct mechanisms were identified — classical nucleation-growth in axial areas and tribological grain pull-out in occlusal areas; glazed surfaces provided no protection against LTD.
+
+At 2 years, no prosthetic failures were attributed to LTD and the ISO 25% monoclinic-phase threshold was not exceeded, but the clinical impact remained unknown pending longer follow-up.
+
+## 세줄요약
+
+첫 전향적 임상 연구(n=101, 3Y-TZP 모놀리식 지르코니아, 4회 측정, 2년): 구강 내 기능 중인 보철물에서 저온열화(LTD, Low-Temperature Degradation)가 라만 분광법으로 확인됨.
+
+LTD 발생: 6개월부터 시작, 두 가지 기전 — 축면은 핵 성장형, 교합면은 마찰 그레인 탈락형; 유약 처리 표면도 LTD 보호 효과 없음.
+
+2년 시점에서 LTD로 인한 보철물 파절 없음, ISO 25% 임계값 초과 없음 — 임상적 영향은 장기 추적 필요(5년: Koenig 2024).
+
+## Summary
+
+Koenig et al. (2021) is the first prospective clinical study to document intraoral low-temperature degradation (LTD) in second-generation translucent 3Y-TZP monolithic zirconia dental prostheses using ex vivo Raman spectroscopy and SEM monitoring. The study enrolled 101 posterior tooth elements (molars and premolars) and monitored for 2 years at four timepoints. LTD began as early as 6 months post-insertion and progressed non-uniformly as localized clusters of monoclinic-transformed grains. The occlusal areas exhibited a distinct mechanism (tribological grain pull-out) from classical axial-area nucleation-growth LTD. Glazing was shown not to protect against LTD. At 2 years, no prosthetic failures were attributed to LTD, but the clinical impact remained unknown. The 5-year results were published in Koenig 2024.
+
+## Key Contributions
+
+- **Confirms in vivo LTD**: LTD occurs in functioning dental 3Y-TZP prostheses, not only under accelerated laboratory autoclave conditions
+- **Onset**: LTD begins at 6 months intraorally
+- **Two distinct mechanisms**:
+  - Axial areas: classical nucleation-growth LTD (surface-to-depth)
+  - Occlusal areas: tribological grain pull-out — standard Raman quantification underestimates severity here
+- **Glazing**: No protective effect against LTD
+- **Clinical impact**: Unknown at 2-year endpoint — no LTD-attributed failures
+
+## Methodology
+
+- Design: Prospective clinical study with ex vivo monitoring (ClinicalTrials NCT02150226)
+- n=101 posterior elements; 4 timepoints (baseline, 6m, 1y, 2y)
+- Ex vivo Raman spectroscopy: n=2,640 monoclinic phase measurement points per timepoint
+- SEM + Raman depth mapping on selected samples
+- Four surface types analyzed per element: occlusal, axial, glazed, unglazed
+- Approved by CHU Liège Ethics Committee; written patient consent
+
+## Results
+
+| Finding | Detail |
+|---|---|
+| LTD onset | 6 months after insertion |
+| LTD progression | Non-uniform, localized clusters; increases 6m → 2y |
+| Axial mechanism | Classical nucleation-growth, surface inward |
+| Occlusal mechanism | Grain pull-out (tribological stress); underestimates Vm |
+| Glaze protection | None |
+| Prosthetic failures from LTD | None reported at 2 years |
+| ISO threshold (25% Vm) | Not exceeded at 2 years |
+
+## Related Papers
+
+- [[dental-materials/zirconia/koenig-2024-ltd-monolithic-zirconia-5year-prospective]] — 5-year extension of this same cohort (grain pull-out + fracture rate 4.5%)
+- [[dental-materials/zirconia/leitao-2022-monolithic-zirconia-single-crown-survival-sr]] — SR+MA on MZ survival, does not address LTD
+- [[dental-materials/zirconia/pjetursson-2018-zirconia-metal-ceramic-crown-survival-sr]] — SR on veneered zirconia SCs; LTD not a focus

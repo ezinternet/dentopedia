@@ -1,0 +1,58 @@
+---
+title: "Enhanced Osseointegration and Bio-Decontamination of Nanostructured Titanium Based on Non-Thermal Atmospheric Pressure Plasma"
+authors: Zeng Y, Komasa S, Nishida H, Agariguchi A, Sekino T, Okazaki J
+year: 2020
+date: 2020-05-16
+doi: 10.3390/ijms21103533
+source: zeng-2020-nanostructured-titanium-non-thermal-plasma.md
+category: [implants/surface/plasma]
+evidence_level: animal
+pdf_path: /Users/oracleneo/llm-wiki/papers/zeng-2020-nanostructured-titanium-non-thermal-plasma.pdf
+pdf_filename: zeng-2020-nanostructured-titanium-non-thermal-plasma.pdf
+source_collection: external
+tags: [plasma, nanostructure, titanate, decontamination, biofilm, osseointegration, BMSC, rat, peri-implantitis]
+---
+
+## Three-line Summary
+
+In vitro + in vivo rat femur study: handheld piezoelectric-direct-discharge (PDD) non-thermal plasma applied to alkali-treated titanate nanonetwork (TNS) titanium eliminated S. aureus biofilm without disrupting the nanostructure or surface roughness.
+
+The same plasma treatment improved rat bone marrow stromal cell (BMSC) osteogenesis markers in vitro and enhanced in vivo bone formation in the femur model, demonstrating simultaneous decontamination and osseointegration benefit.
+
+Because both nanostructure and plasma are present simultaneously, the independent contribution of plasma alone cannot be isolated; no human or loaded clinical data exist.
+
+## 세줄요약
+
+줄1: in vitro+in vivo(쥐 대퇴골): 휴대형 PDD 비열 플라즈마를 TNS 나노네트워크 티타늄에 적용 — 나노구조·거칠기 유지하며 S. aureus 바이오필름 완전 제거.
+
+줄2: 동일 플라즈마 처리가 쥐 BMSC 골형성 지표 개선(in vitro)·대퇴골 in vivo 골형성 향상 → 제염+골유착 동시 달성.
+
+줄3: 나노구조+플라즈마 병용이므로 플라즈마 단독 기여 분리 불가; 인체·부하 임상 데이터 없음.
+
+## Summary
+
+The cluster's bridge paper: it does both jobs at once — cleans biofilm and improves bone response — on a nanotextured surface, and crucially the plasma does not destroy the nanostructure it is cleaning. That makes it the mechanistic rationale for using plasma both to activate a fresh surface and to rescue a contaminated one (peri-implantitis).
+
+## Key Contributions
+
+- Decontamination + osseointegration on one nanostructured surface.
+- Plasma cleans biofilm without damaging nanotopography.
+
+## Methodology
+
+- TNS specimens + PDD plasma; decontamination vs S. aureus.
+- Rat BMSCs (attachment/ALP/mineralization/osteogenic genes); in vivo rat femur.
+
+## Results
+
+- Nanotopography/roughness unchanged by plasma.
+- Cell + bone-formation activity improved.
+- Biofilm contamination eliminated.
+
+**Boundary (living-document):** combined nanostructure+plasma (plasma-specific effect not isolated); rat + in vitro; no human/clinical data.
+
+## Related Papers
+
+- [[implants/surface/plasma/zheng-2020-non-thermal-atmospheric-plasma-titanium]] — plasma-only Ti, rat in vivo.
+- [[implants/surface/plasma/alqutaibi-2023-cap-bacterial-reduction-implants-sr]] — decontamination SR.
+- [[implants/surface/plasma/lee-2022-plasma-contaminated-zirconia-gingivalis-osteoblast]] — decontamination + osteoblast on zirconia.

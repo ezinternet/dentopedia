@@ -1,0 +1,77 @@
+---
+title: "Advances in the Treatment of Peri-implantitis Bone Defects: Mechanisms, Diagnosis, and Regenerative Strategies–A Narrative Review"
+authors: "Linhan Su, Delin Guan, Peiyuan Xie, Yuxia Feng, Jianxue Li"
+year: 2026
+date: 2026-05-20
+doi: 10.1016/j.cpsurg.2026.102062
+source: su-2026-peri-implantitis-bone-defects-regenerative-strategies.md
+category: [implants/peri-implantitis]
+evidence_level: narrative-review
+pdf_path: /Users/oracleneo/llm-wiki/papers/su-2026-peri-implantitis-bone-defects-regenerative-strategies.pdf
+pdf_filename: su-2026-peri-implantitis-bone-defects-regenerative-strategies.pdf
+source_collection: external
+tags: []
+---
+
+## Three-line Summary
+
+Narrative review (Su et al. 2026, Current Problems in Surgery) synthesizing pathological mechanisms, CBCT-based diagnostics, and regenerative surgical strategies for peri-implantitis-associated bone defects in a Chinese military hospital context.
+
+Meta-analytic evidence favors xenogenic GBR over autogenous bone or non-GBR for inflammation reduction and radiographic bone gain; biodegradable Mg membranes offer mechanical stability with gradual resorption; 3D-printed Ti meshes improve precision but carry mesh exposure risk.
+
+CBCT is the diagnostic gold standard for 3D defect characterization; machine learning models integrating clinical variables show early promise for personalized peri-implantitis risk prediction.
+
+## 세줄요약
+
+서술 리뷰(Su et al. 2026, Current Problems in Surgery): 임플란트주위염(Peri-implantitis) 골 결손의 생물막·티타늄 부식·면역·기계적 병태기전, 콘빔 전산화 단층촬영(Cone Beam CT, CBCT) 기반 진단, 재생 외과 전략을 체계적으로 정리(중국 군병원 그룹).
+
+메타분석 근거는 이종골(Xenogenic) 골유도재생술(Guided Bone Regeneration, GBR)이 자가골 또는 비GBR 대비 염증 감소·방사선 골이득에 유리; 생분해성 마그네슘(Mg) 막은 기계적 지지+점진적 흡수; 3D 프린팅 티타늄 메쉬(Ti Mesh)는 복잡 증례 정밀도 향상이나 막 노출 위험 존재.
+
+CBCT는 3D 결손 특성화의 표준; 기계학습(Machine Learning) 모델을 활용한 개인화 임플란트주위염 위험 예측이 향후 유망한 방향으로 제시됨.
+
+## Summary
+
+Peri-implantitis is one of the leading causes of implant failure, driven by biofilm-mediated inflammation, titanium corrosion-induced ion release, immune dysregulation, and biomechanical overload. This 2026 narrative review from a Chinese military hospital (Su et al.) provides a structured overview covering:
+
+1. **Pathological mechanisms**: Microbial biofilm on titanium surfaces behaves differently from periodontal biofilm — distinct composition and antibiotic resistance profile. Ti corrosion releases metal ions exacerbating local inflammation. Systemic factors (diabetes, smoking) modulate the host response.
+
+2. **Diagnosis**: CBCT is the gold standard for 3D defect characterization (superior sensitivity/specificity for dehiscence and infrabony lesions vs. intraoral radiography). MRI and radionuclide bone scanning serve adjunctive roles. Digital bioinformatics applied to CBCT data enables objective monitoring of regenerative outcomes.
+
+3. **Regenerative treatment**: GBR is the central surgical approach. Meta-analytic evidence favors xenogenic bone substitutes over autogenous bone or non-GBR treatment for inflammation reduction and radiographic bone gain. Biodegradable magnesium membranes offer mechanical stability with gradual resorption aligned to bone healing. Customized 3D-printed titanium meshes improve precision for complex ridge augmentation but carry mesh exposure risk.
+
+4. **Emerging trends**: Machine learning models integrating demographic, medical, and surgical variables for personalized implant failure/peri-implantitis risk prediction. Novel biomaterials under investigation for predictable regeneration.
+
+## Key Contributions
+
+- Multifactorial pathogenesis framework: biofilm (distinct from periodontitis) + Ti corrosion + immune dysregulation + biomechanical overload
+- Diagnostic hierarchy: CBCT > conventional radiography; adjunctive MRI/radionuclide; digital bioinformatics for monitoring
+- Evidence summary that xenogenic GBR > autogenous bone or non-GBR for bone level outcomes
+- Introduces biodegradable Mg membranes as promising alternative to collagen/non-resorbable membranes
+- Machine learning as a route to personalized maintenance and risk stratification
+
+## Methodology
+
+- **Type**: Narrative review (not systematic; no PRISMA protocol reported)
+- **Database**: Author-selected literature, including meta-analyses, RCTs, and case series
+- **Published**: Current Problems in Surgery, accepted 2026-05-20
+- **Scope**: Mechanisms → morphology/classification → diagnosis → non-surgical therapy → surgical therapy (GBR, Ti mesh, novel membranes) → future directions
+
+## Results
+
+| Domain | Key Finding |
+|---|---|
+| GBR efficacy | Meta-analyses: low implant failure rates; favorable PD reduction + bone level gain |
+| Xenogenic vs autogenous | Xenogenic GBR > autogenous bone or non-GBR (inflammation, radiographic bone) |
+| 3D-printed Ti mesh | Enhanced precision for complex augmentation; mesh exposure is main complication |
+| Biodegradable Mg membrane | Mechanical stability + gradual resorption; promising over collagen/non-resorbable |
+| CBCT | Superior 3D defect detection for dehiscence and infrabony lesions |
+| Risk factors | Diabetes, smoking, periodontitis history → elevated peri-implant bone loss risk |
+| Postoperative pain | Short-term increase with resorbable GBR membranes; patient counseling needed |
+| Machine learning | Predicts implant failure/PI risk from demographic + clinical variables |
+
+## Related Papers
+
+- [[implants/peri-implantitis/hakkers-2026-reconstructive-peri-implantitis-3wall-4wall-rct]] — RCT: reconstructive PI treatment outcomes by defect morphology (3-wall vs 4-wall)
+- [[implants/peri-implantitis/monje-2025-surface-decontamination-reconstructive-peri-implantitis]] — Surface decontamination as prerequisite for reconstructive PI surgery
+- [[implants/peri-implantitis/baima-2022-surface-decontamination-protocols-surgical-periimplantitis]] — Decontamination protocol comparison in surgical PI treatment
+- [[implants/peri-implantitis/gardelis-2025-implant-surface-modifications-peri-implantitis]] — Implant surface modifications and peri-implantitis susceptibility

@@ -1,0 +1,68 @@
+---
+title: "Effect of preparation convergence on retention of multiple unit restorations — An in vitro study"
+authors: Dileep Nag Vinnakota
+year: 2015
+date: 2015-09-01
+doi: 10.4103/0976-237X.161914
+source: vinnakota-2015-convergence-retention-multiple-unit-invitro.md
+category: [prosthetic-materials/tooth-preparation]
+evidence_level: in-vitro
+pdf_path: /Users/oracleneo/llm-wiki/papers/vinnakota-2015-convergence-retention-multiple-unit-invitro.pdf
+pdf_filename: vinnakota-2015-convergence-retention-multiple-unit-invitro.pdf
+source_collection: external
+tags: [convergence-angle, TOC, retention, FPD, multi-unit, Ni-Cr, in-vitro, prosthodontics, zinc-phosphate]
+---
+
+## Three-line Summary
+
+In-vitro study (Contemp Clin Dent 2015, Ni-Cr single crowns and 3/6/9-unit FPDs; n=55/group) comparing tensile dislodgement force at 12° vs 20° total occlusal convergence (TOC).
+
+12° significantly outperformed 20° for canines (101.7 N vs 59.7 N) and molars (100.8 N vs 81.2 N) but not premolars (NS, p=0.12); retention scaled with FPD unit count except for the 3 vs 6-unit comparison at 20° TOC.
+
+TOC sensitivity is tooth-type dependent — canine preparations most critically require tighter convergence control, while premolars show more tolerance, and increasing FPD span partially compensates for higher convergence.
+
+## 세줄요약
+
+In-vitro 연구 (Contemp Clin Dent 2015;6(3):409, Narayana Dental College): Ni-Cr 단일 크라운·3/6/9유닛 FPD, 12° vs 20° 총교합수렴각(TOC) × 인장 탈락력 비교, 군당 n=55.
+
+12°가 견치(101.7 N vs 59.7 N)·대구치(100.8 N vs 81.2 N)에서 20° 대비 유의하게 우월(p<0.01); 소구치는 NS(p=0.12); 유닛 수 증가에 따라 유지력 비례 증가(단 20° 그룹 3↔6유닛은 NS).
+
+TOC 민감도는 치아 유형별 차이 — 견치는 수렴각 통제가 가장 중요; 소구치는 비교적 관대; FPD 유닛 수 증가가 부분적 보상 기전 역할.
+
+## Summary
+In vitro study (Contemporary Clinical Dentistry 2015) on Ni-Cr alloy single crowns and 3/6/9-unit FPDs cast from standardized milled dies at 12° vs 20° total occlusal convergence (TOC). Quantifies a per-tooth-type interaction in convergence sensitivity.
+
+## Key Contributions
+- **Per-tooth TOC sensitivity** documented: canine and molar are TOC-sensitive; premolar is not
+- Establishes that 12° outperforms 20° significantly for canines and molars but not premolars
+- **Multi-unit scaling**: retention increases with FPD unit count, except 3 vs 6 units at 20° NS
+
+## Methodology
+- Ni-Cr alloy single crowns + 3/6/9-unit FPDs from standardized milled dies
+- 12° (n=55) vs 20° (n=55) TOC
+- Zinc phosphate cement
+- Instron universal testing machine, tensile dislodgement
+- Mann-Whitney test
+
+## Results
+
+| Tooth type | 12° TOC (N) | 20° TOC (N) | P |
+|---|---|---|---|
+| Canine | 101.7 ± 7.5 | 59.7 ± 4.8 | <0.01 ** |
+| Premolar | 111.3 ± 9.9 | 93.0 ± 13.6 | 0.12 NS |
+| Molar | 100.8 ± 2.6 | 81.2 ± 2.6 | <0.01 ** |
+
+- Retention scales with unit number across most configurations
+- Exception: 3 vs 6 units at 20° group (P > 0.05) — saturation effect at higher TOC
+
+## Clinical Implications [미검증]
+- 견치 prep에서 TOC 통제가 가장 중요 — geometric단축이 retention과 직결
+- 소구치 단일 크라운은 TOC 약간 관대해도 retention 큰 차이 없음 — 임상적으로 access 어려운 경우 합리적 trade-off
+- FPD 유닛 증가가 retention 보완 기전이 됨 — 짧은 지대치 multi-unit에서는 unit 수가 partial compensation
+- 한국 임상: 짙은 발치/지대치 손상 후 단일 크라운보다 FPD가 retention 측면에서 유리할 수 있음. 단, biological cost와 trade-off
+
+## Related Papers
+- [[prosthetic-materials/tooth-preparation/tiu-2015-clinical-tooth-preparations-measuring-sr]] — TOC literature SR, 10-22° realistic range
+- [[prosthetic-materials/tooth-preparation/kharat-2015-convergence-marginal-seating-fpd-pier-abutment]] — convergence × marginal fit in FPD with pier
+- [[prosthetic-materials/tooth-preparation/abdulla-2018-convergence-all-ceramic-crowns-dubai-practice]] — clinical TOC mean 24.6° (MD) / 32.6° (BL)
+- [[prosthetic-materials/tooth-preparation/yang-2015-auxiliary-resistance-marginal-fitness-short-molar]] — auxiliary forms for overtapered short molars

@@ -1,0 +1,70 @@
+---
+title: "Worldwide Review of Dental Hygienists' Extended Scope of Practice in Radiology"
+authors: Bozia M, Berkhout E, van der Weijden F, Slot DE
+year: 2021
+date: 2021-07-06
+doi: 10.1016/j.identj.2021.05.010
+source: bozia-2021-dental-hygienist-scope-practice-radiology.md
+category: [practice-management]
+evidence_level: cross-sectional
+source_collection: pubmed-text
+full_text: true
+pmid: "34243959"
+pmcid: "PMC9275197"
+source_url: https://pmc.ncbi.nlm.nih.gov/articles/PMC9275197/
+text_path: /Users/oracleneo/llm-wiki/papers/bozia-2021-dental-hygienist-scope-practice-radiology.txt
+text_filename: bozia-2021-dental-hygienist-scope-practice-radiology.txt
+tags: []
+relations:
+  - type: applies-to
+    target: ha-2023-dentist-issues-constitutional-court-decisions
+---
+
+## Three-line Summary
+
+Worldwide cross-sectional survey (27-item online questionnaire to IFDH/EDHF national associations; 26 of 31 countries responded, 84% response rate) mapping the legal authority of dental hygienists (DHs) in oral radiology across four distinct competency domains.
+
+78% of countries legally permit DHs to take intraoral radiographs; however, 42% require a dentist referral first, 46% bar DHs from radiographic diagnosis, and only 27% allow independent equipment ownership; only 5 countries (19%) granted the full four-task set; CBCT was allowed in Australia, South Africa, Spain, Switzerland, and the US.
+
+Scope of practice for oral radiography is highly heterogeneous across countries and, in federal systems, across states/provinces — indicating no global consensus and significant barriers to cross-national DH mobility.
+
+## 세줄요약
+
+전 세계 단면 조사 (IFDH/EDHF 회원국 31개국 중 26개국 응답, 응답률 84%; 27문항 온라인 설문): 치과위생사(Dental Hygienist, DH)의 구강 방사선 촬영·처방·진단·장비 소유 4개 역할에 대한 법적 권한을 국가별로 분석.
+
+78%의 국가에서 DH의 구내 촬영 법적 허용; 42%는 치과의사 의뢰 선행 필요, 46%는 방사선 진단 금지, 27%만 단독 장비 소유 허용; 4개 역할 전부 허용 국가는 5개국(19%); CBCT는 호주·남아공·스페인·스위스·미국에서만 허용.
+
+구강 방사선에서의 DH 업무범위는 국가별·주/도별로 크게 다르며 글로벌 공통 기준이 없어 국가간 DH 이동을 저해.
+
+## Summary
+This international cross-sectional survey maps the **legal position** (not attitudes or practice patterns) of the dental hygienist (DH) in **oral radiology** — a task historically reserved to dentists. A 27-item peer-reviewed online questionnaire (developed per STROBE/CHERRIES) was emailed in 2018 to all national DH associations belonging to the International Federation of Dental Hygienists (IFDH) or the European Dental Hygienists Federation (EDHF). Of 31 countries contacted, 26 (84%) responded; Germany, Korea, Nepal, New Zealand, and the UAE did not.
+
+The central finding is heterogeneity: legal authority to take, indicate, diagnose, and own equipment for oral radiographs differs widely across countries — and within federal/multi-jurisdictional countries (US, Canada, Switzerland, Australia) it differs by state or province. The authors frame this as a **task-redistribution / scope-of-practice** issue and call for a worldwide common framework to ease cross-national DH mobility.
+
+## Key Contributions
+- First worldwide assessment of the DH's **legal** scope specifically in oral radiology (prior work covered attitudes or general scope).
+- Separates four distinct delegated competencies: taking radiographs, indicating (referral requirement), diagnosing from radiographs, and owning equipment.
+- Documents within-country (state/province) variation in federal systems.
+
+## Methodology
+- Cross-sectional international survey, part of the "Worldwide Dental Hygienists Extended Scope of Practice" project (ACTA, Amsterdam; ethics ref 201913).
+- Population: all DH associations that were IFDH/EDHF members in 2018 (31 countries).
+- 27-item Google Forms questionnaire; scoping + pilot, reviewed by 5 DHs, peer-reviewed by IFDH/EDHF/NVM; mixed open/closed items.
+- Emailed Nov 2018, reminders, closed Dec 2018; post-hoc validation email (79% validation response). Descriptive analysis only — no inferential statistics.
+
+## Results
+- **Response**: 26/31 countries (84%).
+- **Take intraoral radiographs**: 78% of countries legally permit DHs (body text reports 77%); not permitted in Austria, Czech Republic, Italy, Japan, Russia, Slovakia.
+- **Referral required**: 42% of countries require a dentist referral/indication before the DH takes a radiograph.
+- **Diagnosis**: 46% of countries bar DHs from formulating a radiographic diagnosis.
+- **Equipment ownership**: only 27% of countries allow DHs to independently own radiographic equipment.
+- **Full task set** (own + indicate + take + diagnose): 5 countries (19%).
+- **Autonomy context**: DH officially recognised in all but Austria; 58% allow independent practice; 54% allow direct access.
+- **Extraoral/CBCT**: panoramic barred in Sweden & Israel; only panoramic permitted in Poland; CBCT allowed to DHs in Australia, South Africa, Spain, Switzerland, US.
+- **Within-country variation**: scope differs across the 50 US states and across Canadian provinces (data reported as the common minimum).
+- *Note*: minor reporting discrepancy between abstract (78% take, 46% may not diagnose) and body (77% take, 50% may diagnose).
+
+## Related Papers
+- [[practice-management/ha-2023-dentist-issues-constitutional-court-decisions]] — applies-to: the Korean review examines how constitutional jurisprudence draws scope-of-practice boundaries; this paper is the international comparator showing how one delegated task (oral radiography) is regulated differently across 26 jurisdictions.
+- [[practice-management/chen-2024-dental-hygienist-autonomy-care-utilization]] — reinforces; econometric evidence that expanding dental-hygienist scope/autonomy shifts care utilization.
+- [[practice-management/vu-2024-caregivers-perceptions-dental-therapists]] — related; public acceptance of midlevel dental providers.

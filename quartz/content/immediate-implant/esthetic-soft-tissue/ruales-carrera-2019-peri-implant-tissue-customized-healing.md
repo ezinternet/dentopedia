@@ -1,0 +1,67 @@
+---
+title: "Peri-implant tissue management after immediate implant placement using a customized healing abutment"
+authors: Edwin Ruales-Carrera, Patrícia Pauletto, Karin Apaza-Bedoya
+year: 2019
+date: 2019-07-03
+doi: 10.1111/jerd.12512
+source: ruales-carrera-2019-peri-implant-tissue-customized-healing.md
+category: [immediate-implant/esthetic-soft-tissue]
+evidence_level: case-report
+pdf_path: /Users/oracleneo/llm-wiki/papers/ruales-carrera-2019-peri-implant-tissue-customized-healing.pdf
+pdf_filename: ruales-carrera-2019-peri-implant-tissue-customized-healing.pdf
+source_collection: external
+tags: [immediate-implant, soft-tissue, healing-abutment, emergence-profile, PEEK, chairside]
+relations:
+  - type: applies-to
+    target: gomez-meda-2021-esthetic-biological-contour-emergence-profile
+---
+
+## Three-line Summary
+
+Clinical technique description with illustrative cases demonstrating chairside fabrication of customized healing abutments (CHA) using PEEK or PMMA blocks placed immediately after extraction and implant insertion.
+
+CHA replicating the natural tooth's critical and subcritical contour zones preserved soft tissue architecture from extraction to final prosthesis without provisional restorations or a second surgical stage.
+
+The technique is indicated when primary stability is insufficient for immediate loading, offering a staged protocol that maintains the soft-tissue "tunnel" established at extraction.
+
+## 세줄요약
+
+발치 후 즉시 PEEK/PMMA 맞춤형 치유 지대주(CHA)를 의장 제작·장착해 연조직 외형을 보존하는 술식을 증례와 함께 제시한 임상 기법 보고.
+
+천임계·초임계 외형대를 자연치 형태에 맞추면 임시치관이나 재개방 수술 없이 최종 보철까지 연조직 구조를 유지했다.
+
+1차 안정성이 즉시부하 요건에 미달할 때 사용하며, 총 내원 횟수를 줄이면서 연조직 형태를 보존하는 staged 프로토콜로 활용된다.
+
+## Summary
+
+Ruales-Carrera et al. (2019) describe a simplified chairside technique using customized healing abutments (CHA) placed immediately after tooth extraction and implant insertion, when immediate loading is not feasible. By replicating the natural tooth's critical and subcritical contour zones, the CHA maintains the soft tissue "tunnel" established at the time of extraction, guiding mucosal healing without the need for provisional restorations or a second surgical stage. Cases in both anterior esthetic and posterior zones are presented, showing natural emergence profile at final prosthetic delivery with a reduced number of clinical steps.
+
+## Key Contributions
+
+- **Technique innovation**: CHA fabricated chairside (PEEK block or PMMA + titanium insert) matched to the extracted tooth's emergence geometry
+- **Dual-zone application**: Critical contour (supragingival gingival margin shaping) + subcritical contour (papilla and soft tissue tunnel support) both replicated
+- **When to use**: Immediate implant cases where primary stability is insufficient for loading (insertion torque too low, unfavorable bone, etc.), or when the patient/clinician prefers a staged loading protocol without compromising soft tissue
+- **Outcome**: Soft tissue architecture maintained from extraction to final prosthesis; no reopening surgery; fewer total visits
+
+## Methodology
+
+- Study design: Clinical technique description with illustrative cases
+- Abutment material: PEEK or PMMA milled blocks bonded to a titanium insert base
+- Timing: Type 1 (immediate) implant placement; CHA placed at same appointment
+- Zones: Anterior maxillary (esthetic) and posterior mandibular/maxillary cases
+- Reference framework: Dual-zone therapeutic concept (Chu et al. 2012); critical/subcritical contour (Su et al. 2010)
+
+## Results
+
+- CHA successfully preserved soft tissue contours until final prosthetic stage
+- Natural emergence profile achieved without need for mucosal conditioning with provisional crowns
+- Reopening surgery eliminated
+- Total number of clinical steps reduced vs. conventional healing abutment → provisional → final restoration pathway
+- No quantitative PES/WES scores or recession measurements reported (qualitative clinical assessment only)
+
+## Related Papers
+
+- [[immediate-implant/esthetic-soft-tissue]] — category overview for immediate implant esthetic/soft-tissue outcomes
+- Chu et al. 2012 — dual-zone therapeutic concept (cited foundational framework)
+- Su et al. 2010 — critical and subcritical contour (cited foundational framework)
+- Slagter et al. 2014 — SR of immediate placement in esthetic zone (cited background)

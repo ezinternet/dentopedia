@@ -1,0 +1,189 @@
+---
+title: "Oral Surgery — Third Molar·IAN·PRF·Dry Socket·Hemostasis Decision Ladder"
+authors: Synthesis (Damian Lee)
+year: 2026
+date: 2026-05-26
+doi: N/A
+source: N/A
+category: overviews
+evidence_level: synthesis
+pdf_path: N/A
+pdf_filename: N/A
+source_collection: synthesis
+tags: [oral-surgery, third-molar, coronectomy, ian-injury, prf, dry-socket, hemostasis, deep-neck-infection, decision-ladder, overview]
+relations:
+  - type: extends
+    target: daly-2022-local-interventions-management-alveolar-osteitis
+  - type: extends
+    target: garola-2021-clinical-management-alveolar-osteitis-systematic
+---
+
+## 한국어 핵심요약
+
+> [!summary] 한국어 핵심요약
+> - 구강외과 22편을 5축으로 묶은 결정 ladder — 제3대구치, 발치 후 합병증 감소, 지혈, 심경부 감염, 골 drilling 열·재건.
+> - 축1 제3대구치·IAN: 절대 적응증은 반복 관주위염·낭종·인접치 흡수; IAN(하치조신경, Inferior Alveolar Nerve) 고위험(canal 설측·근접 ≤1mm) 시 관상절제술(coronectomy) — IAN 손상 0.59%로 완전 발치 대비 IAN·dry socket 유의 감소, 재수술 5–12% 수용 가능[확인].
+> - 제3대구치 ladder: 무증상 매복은 NICE 보존/AAOMS risk-management → 적응증 있으면 CBCT로 IAN 영상평가 → 저위험은 완전 발치, 고위험은 coronectomy → 지연 골절 위험군(깊은 매복·수평·얇은 설측판·40–60세 남성)은 6주 soft diet+monitoring.
+> - 축2 발치 후 합병증: 항생제 예방은 dry socket·SSI 위험 감소하나 NNT=25 → 매복·외과적 발치에 한정(amoxicillin 2g 단일 술전, Camps-Font 2024 NMA), 단순 발치엔 불요.
+> - PRF(혈소판풍부피브린): 발치와 초기 2–3개월 통증 66%↓·연조직 75%↑·골 충전 85%↑이나 6개월 이후 자연치유와 동등(Al-Maawi 2021); PRF > PRP.
+> - LLLT(저출력 레이저 치료): 발치 후 통증·부종·trismus 중등도 감소, dry socket 치료에 Alvogyl 대안.
+> - 축3 지혈 ladder: 표준은 봉합+거즈 압박 30분 → 산화셀룰로오스(Surgicel)/젤라틴 스폰지(Gelfoam) 85%↑ → 항응고제·다중 발치는 트라넥사민산 5% 양치액 → 고위험·실패 시 피브린 실란트 70–90%.
+> - 축4 심경부 감염: 치성 origin 42.66%, 루드비히 협심증(Ludwig's angina) 24.66% — 1차 amoxicillin-clavulanate + clindamycin(페니실린 알러지), 아미노글리코사이드는 연쇄구균 내성으로 부적합; 기도 폐쇄 위험 시 응급실·기관절개 준비, 원인 dental 처치 즉시.
+> - 축5 골 drilling 열: 임계 47°C/1min·50°C/30s → osteonecrosis(Bertollo 2011); 충분한 saline irrigation·sharp bur·intermittent drilling. 의인성 하악 골절은 0.0033–0.075%로 드물지만 발생 시 중대.
+> - 확신도: 축1·2·4 [확인](SR+MA·NMA·prospective), 축3 [확인](narrative), 축5 [확인](고전 임계값).
+
+## Three-line Summary
+
+Synthesis of 22 oral-surgery papers across 5 clinical axes — third molars + inferior alveolar nerve (IAN), post-extraction complication reduction, hemostasis, deep neck infection, and bone-drilling thermal biology: extract third molars for absolute indications (recurrent pericoronitis, cyst, adjacent tooth resorption) and use coronectomy for high IAN risk (IAN injury 0.59% with coronectomy vs significantly higher with full extraction; Cervera-Espert 2016 SR+MA; re-operation rate 5–12% is acceptable); antibiotic prophylaxis reduces dry socket and SSI risk but NNT≈25 — reserved for impacted/surgical extractions only (single preop amoxicillin 2g, Camps-Font 2024 NMA, 16 RCTs, n=2158).
+
+PRF placed in the socket improves early outcomes (pain −66%, soft-tissue healing +75%, bone fill +85% at 2–3 months) but is equivalent to natural healing by 6 months (Al-Maawi 2021 SR, 20 studies); hemostasis escalates suture+30-min gauze → oxidized cellulose/gelatin sponge (85%+ control) → tranexamic acid 5% rinse (anticoagulant/multiple-extraction cases) → fibrin sealant (70–90%); LLLT moderately reduces post-extraction pain, swelling, and trismus (Gonzalez 2025 SR+MA).
+
+Deep neck infections are ~43% odontogenic (Gargava 2022), Ludwig's angina 24.66% of these, requiring first-line amoxicillin-clavulanate + airway vigilance + immediate dental source control; bone drilling exceeding 47°C/1 min risks osteonecrosis (Bertollo 2011 threshold) — mitigated by saline irrigation, sharp burs, and intermittent drilling.
+
+## 세줄요약
+
+구강외과 5축(제3대구치·IAN·관상절제술 / 발치후 PRF·dry socket / 항생제·LLLT 합병증 감소 / 지혈 / 심경부 감염·골 drilling) 22편 종합: 제3대구치는 절대 적응증(반복 치관주위염·낭종·인접치 흡수) 때 발치, IAN 고위험 시 관상절제술(Coronectomy) — IAN 손상률 0.59%(완전 발치 대비 유의 감소; Cervera-Espert 2016 SR+MA), 재수술률 5–12% 수용 가능; 항생제 예방은 dry socket·SSI 감소하나 NNT=25 → 매복·외과적 발치 한정(술전 amoxicillin 2g, Camps-Font 2024 NMA).
+
+PRF: 초기 2–3개월 통증 −66%·연조직 +75%·골충전 +85%, 6개월 이후 자연치유와 동등(Al-Maawi 2021 SR, 20편); 지혈 ladder: 봉합+거즈 → 산화셀룰로오스/젤라틴 스폰지(85%+) → 트라넥사민산 5% 양치(항응고제·다중 발치) → 피브린 실란트(70–90%).
+
+심경부 감염의 42.66%가 치성(Gargava 2022) — 루드비히 협심증 24.66%; 1차 amoxicillin-clavulanate + 기도 관리 + 즉시 치과 원인 처치; 골 drilling 임계 47°C/1min(Bertollo 2011) 초과 시 골괴사(Osteonecrosis) 위험 → saline 관개·예리한 bur·간헐적 drilling 필수.
+
+## Summary
+
+본 페이지는 wiki/oral-surgery/ 22 paper의 5-axis spine. 발치·코로네토미·합병증 관리·심경부 감염을 포함.
+
+핵심 명제 6개:
+1. **제3대구치 적응증 — 반복 관주위염, 낭종, 인접치 흡수 절대. IAN 고위험 시 coronectomy** — Damico 2025 narrative. [확인]
+2. **Coronectomy IAN 손상률 0.59%. 완전 발치 대비 IAN·dry socket 유의 감소. 재수술률 5-12% 수용 가능** — Cervera-Espert 2016 SR+MA, Peixoto 2024 SR+MA, Povoa 2021 SR (16편 2,176례). [확인]
+3. **제3대구치 발치 항생제 예방 — dry socket·SSI 위험 통계적 감소 but NNT=25 (de Angelis 2025 + Camps-Font 2024 NMA). 매복·외과적 발치에 한정** — Camps-Font 2024 NMA (16 RCT 2158명). [확인]
+4. **LLLT (Low-Level Laser Therapy) 발치 후 통증·부종·trismus 유의 감소. 중등도 효과 크기** — Gonzalez 2025 SR+MA. [확인]
+5. **PRF 발치와 — 초기 2-3개월 통증 66%↓, 연조직 75%↑, 골 충전 85%↑. 6개월 이후 자연치유와 차이 없음** — Al-Maawi 2021 SR (20편). [확인]
+6. **단측 상악 후방 sinusitis의 30-72%가 치성. 심경부 감염의 42.66%가 치성 — 발치·근관 처치가 1차 원인 통제** — [[overviews/oral-medicine-decision-ladder]] 축 6 + Gargava 2022 prospective. [확인]
+
+## Results
+
+### 축 1 — 제3대구치 (Third Molar) 적응증·합병증·IAN
+
+| Spine paper | Evidence | Key finding |
+|---|---|---|
+| [[oral-surgery/third-molar/damico-2025-third-molar-surgical-indications-guidelines]] | narrative-review | NICE·AAOMS — 절대적응증 (관주위염·낭종·인접 흡수). IAN 고위험 coronectomy |
+| [[oral-surgery/third-molar/bailey-2020-surgical-techniques-mandibular-wisdom-teeth-sr]] | sr (Cochrane) | 피판·설신경 보호·골삭제 — 종합 비교 |
+| [[oral-surgery/nerve-injury/sarikov-2014-ian-injury-third-molar-review]] | narrative-review (14편) | IAN 손상 0.35-8.4%. 24세 초과·수평매복·수련의 위험 |
+| [[oral-surgery/nerve-injury/li-2022-ian-position-nerve-injury-sr-ma]] | sr+ma (11편) | 설측 canal 위치 → IAN 손상 위험↑. 사전 영상평가 |
+| [[oral-surgery/nerve-injury/lee-2015-inferior-alveolar-nerve-injury-management]] | case-report | IAN 노출 → dexamethasone 국소 + prednisolone tapering → 36d 회복 |
+| [[oral-surgery/third-molar/pires-2017-late-mandibular-fracture-third-molar-sr]] | sr (124례) | 지연 골절 1-3주 내 하악각. 깊은 매복·수평·얇은 설측판 위험 |
+| [[guillaumet-claure-2022-iatrogenic-mandibular-fracture-third-molar-sr]] | sr | 의인성 골절 0.0033-0.075%. 40-60세 남성·깊은 매복 |
+| [[oral-surgery/third-molar/cervera-espert-2016-coronectomy-mandibular-third-molar-sr]] | sr+ma (12편) | Coronectomy — IAN·dry socket 유의 감소. 치근편 2y 2mm 이동 |
+| [[oral-surgery/third-molar/peixoto-2024-coronectomy-benefits-lower-third-molar-sr-ma]] | sr+ma | IAN 고위험 — coronectomy IAN 손상↓. 재수술 5-12% |
+| [[oral-surgery/third-molar/povoa-2021-coronectomy-inferior-alveolar-nerve-sr]] | sr (16편 2,176례) | Coronectomy IAN 손상 0.59%. 안전·실행 가능 대안 |
+
+**임상 ladder (제3대구치)**:
+1. **적응증 평가** — 무증상 매복 (asymptomatic impacted) → AAOMS 가이드라인은 risk-management. NICE는 무증상은 보존.
+2. **반복 관주위염·낭종·인접 흡수** → 발치 적응.
+3. **IAN 영상 평가** — CBCT 우선. canal 설측·근접 (≤ 1mm) 시 고위험.
+4. **저위험 IAN** → 완전 발치 + 표준 외과.
+5. **고위험 IAN (canal 접촉 또는 root grooving)** → Coronectomy (IAN 손상 0.59%). 재수술 5-12% 동의서.
+6. **지연 골절 위험 (깊은 매복·수평·얇은 설측판·40-60세 남성)** → 6주 부드러운 식이 + monitoring.
+
+### 축 2 — 발치 후 합병증 감소 (PRF·항생제·LLLT)
+
+| Spine paper | Evidence | Key finding |
+|---|---|---|
+| [[oral-surgery/third-molar/camps-font-2024-antibiotic-prophylaxis-dry-socket-nma]] | sr+ma (NMA, 16 RCT 2158명) | 항생제 예방 dry socket·SSI 위험 감소. 매복·외과 적응 |
+| [[oral-surgery/third-molar/gonzalez-2025-low-level-laser-third-molar-complications-sr-ma]] | sr+ma | LLLT — 통증·부종·trismus 유의 감소. 중등도 효과 |
+| [[oral-surgery/al-maawi-2021-prf-extraction-socket-healing-sr]] | sr (20편) | PRF — 2-3mo 통증 66%↓, 연조직 75%↑, 골 충전 85%↑ |
+| [[oral-surgery/third-molar/pattnayak-2024-prf-prp-third-molar-extraction-sr]] | sr (6편) | PRF > PRP — 연조직 치유·골밀도. PRF 준비 용이·완전 자가 |
+| [[oral-surgery/third-molar/hajibagheri-2025-prf-alveolar-osteitis-post-extraction-sr]] | sr | PRF — dry socket·부종·trismus·통증 유의 감소 |
+| [[oral-surgery/third-molar/rosa-2024-laser-therapy-dry-socket-sr]] | sr (3편) | LLLT — Alvogyl 대비 dry socket 치료 유효, 최소침습 대안 |
+| [[oral-surgery/ferrer-valdivia-2022-complications-simple-exodontia-sr]] | sr (3편) | 단순 발치 합병증 — trismus·치조염·잔존치근 흔함. 술자 경험 영향 |
+| [[oral-surgery/third-molar/daly-2022-local-interventions-management-alveolar-osteitis]] | sr+ma Cochrane (49 RCT, n=6,771) | CHX rinse (OR 0.38) · intrasocket gel (OR 0.44) — 건성 발치와 예방, 중등도 확실성; NNT≈7 (기저 유병률 30%) |
+| [[oral-surgery/third-molar/garola-2021-clinical-management-alveolar-osteitis-systematic]] | sr (17편, 39 치료, 2010–2020) | 성공 치료(통증 VAS ≤4 by day 2 또는 ≥85% pain-free by day 7) 53.8%; Alveogyl·Neocones·SaliCept·LLLT·PRF 유효 군집 |
+
+**임상 ladder (발치 합병증 감소)**:
+1. **단순 발치** → 표준 처치, 항생제 불요 (de Angelis 2025).
+2. **매복·외과적 발치** → amoxicillin 2g 단일 술전 (Camps-Font 2024 NMA). 술후 연장 안 함.
+3. **고위험 환자 (당뇨·면역저하·심내막염 고위험)** → 항생제 + 적극 monitoring.
+4. **PRF 적응** — 심미부 발치, 임플란트 계획, 자가 치유 가속 원하는 환자. 2-3mo benefit, 6mo 자연치유와 동등.
+5. **LLLT 보조** — 발치 직후 + 24/48h. 통증·부종 중등도 감소.
+6. **Dry socket 발생** — Alvogyl 또는 LLLT 대안 (Rosa 2024). 통증 조절. For **prevention** in high-risk extractions (surgical third molars, baseline prevalence ≥30%): chlorhexidine (CHX) rinse 0.12–0.2% (OR 0.38, 95% CI 0.25–0.58) or CHX intrasocket gel 0.2% (OR 0.44, 95% CI 0.27–0.71) reduce dry socket with moderate certainty — NNT≈7 at 30% prevalence; NNT rises to 33 at 5% and 162 at 1% ([[oral-surgery/third-molar/daly-2022-local-interventions-management-alveolar-osteitis]], Cochrane SR+MA, 49 RCTs, n=6,771). For **treatment** of established dry socket: only 53.8% of 39 interventions met the pain-control benchmark (VAS ≤4 by day 2 or ≥85% pain-free by day 7); successful options cluster as basic (intra-alveolar irrigation) and specific (Alveogyl, Neocones, SaliCept Patch, LLLT, PRF) — no single agent ranks superior due to heterogeneity ([[oral-surgery/third-molar/garola-2021-clinical-management-alveolar-osteitis-systematic]], SR, 17 trials).
+
+### 축 3 — 지혈 (Hemostasis)
+
+| Spine paper | Evidence | Key finding |
+|---|---|---|
+| [[oral-surgery/dinkova-2025-local-hemostasis-oral-surgery-review]] | narrative-review (51편) | 산화셀룰로오스·젤라틴 스폰지 85%↑. 트라넥사민산 50-60%. 피브린 70-90% |
+| [[endodontics/he-2026-hemostatic-agents-periapical-surgery-sr-ma]] | sr+ma (10편 388치, NMA) | **근관외과(periapical surgery) 지혈** — 평균 효능 63±6.6%, 제제 간 global 유의차 없으나 **NMA상 에피네프린·알루미늄 클로라이드(AlCl₃) > 콜라겐**(P<.05); 지혈 효능↔예후 무관, 흡연만 경향성(P=.074) |
+
+**임상 ladder (지혈)** — [[overviews/drug-clinical-decision-ladder]] 축 3 항응고제 환자 처치도 참조. 본 페이지는 모든 환자 일반 지혈 옵션.
+
+> **제제별 근거 심화는 [[overviews/local-hemostasis-agents-overview]]가 단일 출처다.** 아래 ladder는 "다음에 뭘 할까"의 빠른 결정용이고, 제제 간 head-to-head 비교(키토산 vs 산화셀룰로오스, Surgicel vs Gelfoam), TXA 제형 선택(양치액·분말·병용·거즈), 발치와와 근관외과 골소와의 제제군 차이, 아직 임상 근거가 아닌 재료의 격리는 그쪽에 있다.
+
+1. **표준 케이스** → 봉합 + 거즈 압박 30min.
+2. **출혈 지속** → 산화셀룰로오스 (Surgicel) 또는 젤라틴 스폰지 (Gelfoam) — 85% 이상 지혈.
+3. **항응고제 환자 또는 다중 발치** → 트라넥사민산 5% 양치액 (3 x daily 7d) + 봉합 + 압박.
+4. **고위험·실패 시** → 피브린 실란트 (Tisseel 등). 70-90% 효과.
+5. **드물게 재출혈 후송** — 응급실 협진.
+
+**근관외과(periapical surgery) 골소와 지혈은 별도 맥락** — 발치와 지혈(위 ladder)과 달리, apicoectomy/retrograde fill 시 골소와 출혈 통제는 시야·역충전 질을 좌우한다. He(Genchi) 2026 SR+MA(10편 388치)는 제제 간 global 차이는 없으나 **NMA에서 에피네프린(racemic pellet)·알루미늄 클로라이드(AlCl₃)가 콜라겐보다 우월**함을 보였고(평균 효능 63±6.6%), 지혈 효능이 치유 예후와는 무관하며 흡연만 약한 부정적 경향(P=.074)임을 보고 — 즉 골소와 지혈제는 콜라겐보다 에피네프린/AlCl₃을 1차로, 단 어느 제제를 쓰든 예후 자체는 술식·증례가 결정. [확인, 단 small base]
+
+### 축 4 — 심경부 감염 (Deep Neck Infection / Ludwig's Angina)
+
+| Spine paper | Evidence | Key finding |
+|---|---|---|
+| [[oral-surgery/gargava-2022-deep-neck-space-infection-150-cases]] | prospective (n=150) | 치성 42.66%. 루드비히 24.66%. 연쇄구균 31.33%. 응급기관절개 일부 |
+| [[oral-surgery/van-der-merwe-2023-aminoglycosides-ludwigs-angina-63-cases]] | retrospective (n=63) | 루드비히 — 연쇄구균이 아미노글리코사이드 내성. 경험적 아미노글리코사이드 부적합 |
+
+**임상 ladder (심경부 감염)**:
+1. **초기 증상 (안면 부종·trismus·연하 곤란)** → 응급 진단. 치성 origin 의심.
+2. **항생제 — 1차 amoxicillin-clavulanate** + clindamycin (페니실린 알러지). 아미노글리코사이드 부적합 (Van der Merwe 2023).
+3. **기도 폐쇄 위험 (루드비히, 후두부종)** → 응급실 후송. 기관절개술 준비.
+4. **절개 배농** — 38% (Gargava 2022). 영상 (CT) + 다학제.
+5. **원인 통제** — 발치·근관·OAF 폐쇄 등 dental origin 즉시 처치.
+
+### 축 5 — 골 drilling 열·재건 (보조)
+
+| Spine paper | Evidence | Key finding |
+|---|---|---|
+| [[oral-surgery/bertollo-2011-drilling-bone-practicality-limitations-complications]] | narrative-review (book chapter) | 골 drilling — 47°C/1min, 50°C/30s, 56°C 임계 — osteonecrosis; drill geometry·feed rate·irrigation |
+| [[oral-surgery/cebrian-carretero-2014-free-flap-implant-guided-surgery]] | narrative-review | 악골 재건 free flap + guided implant 위치 선정 |
+| [[oral-surgery/third-molar/guillaumet-claure-2022-iatrogenic-mandibular-fracture-third-molar-sr]] | sr | **하악 제3대구치 발치 의인성 골절** 유병률 0.0033%–0.075%; intra-/post-op 위험인자 |
+
+**임상 함의**:
+- 임플란트 osteotomy 시 열 control — 충분한 saline irrigation, sharp bur, intermittent drilling. Bertollo 2011 임계 47°C 인지.
+- Free flap 재건 환자 임플란트 — guided surgery 권장 (digital-workflow overview 참조).
+- 하악 제3대구치 발치 의인성 골절 — 매우 낮은 빈도(<0.1%)이나 발생 시 결과 중대. 깊은 매복·고령·atrophic mandible은 위험. 절골 분할·과도 force 회피, 술후 1주 soft diet 권장. [확인]
+
+## Phase 2 확장 후보 (Stub)
+
+- [ ] `wiki/overviews/coronectomy-protocol.md` — Coronectomy 적응증·술식·재수술 management 깊이.
+- [ ] `wiki/overviews/prf-clinical-applications.md` — PRF 발치·임플란트·재생술 통합 protocol.
+- [ ] `wiki/overviews/dry-socket-prevention-treatment.md` — Dry socket pathogenesis·예방·치료.
+- [ ] `wiki/overviews/deep-neck-infection-emergency-protocol.md` — 응급 protocol + 한국 의료 시스템.
+
+## Related overviews
+
+- [[overviews/drug-clinical-decision-ladder]] — 항생제·진통제·항응고제 (축 2·3)
+- [[overviews/oral-medicine-decision-ladder]] — OMS (축 4와 인접)
+- [[overviews/immediate-implant-decision-ladder]] — 발치+IIP 동시 (PRF)
+- [[overviews/bone-regeneration-protocol-ladder]] — 발치 후 ARP
+
+확신도 등급:
+- 축 1 제3대구치·coronectomy = [확인] (다수 SR+MA).
+- 축 2 PRF·항생제·LLLT = [확인] (SR+MA + NMA).
+- 축 3 지혈 = [확인] (narrative 위주).
+- 축 4 심경부 감염 = [확인] (prospective + retrospective).
+- 축 5 drilling 열·재건 = [확인] (Bertollo 1995/2011 고전 임계값).
+
+## Related Papers
+
+### 신규 추가 (2026-06)
+
+- [[oral-surgery/bodner-2012-cutaneous-sinus-tract-dental]] — Retrospective case series (n=28 children, mean age 10.25y): cutaneous sinus tract (CST) of dental origin most often arises from a carious mandibular f … (retrospective, 2012)
+- [[oral-surgery/third-molar/murphy-2022-cooled-saline-irrigation-third-molar-morbidity]] — Evidence-Based Dentistry summary review of a double-blind, split-mouth RCT (48 patients): irrigating with cooled saline (4°C or 10°C) during mandibula … (narrative-review, 2022)
+- [[oral-surgery/third-molar/daly-2022-local-interventions-management-alveolar-osteitis]] — Cochrane SR+MA (49 RCTs, n=6,771): CHX rinse (OR 0.38) and intrasocket gel (OR 0.44) reduce dry socket with moderate certainty; NNT≈7 at 30% baseline prevalence; Alvogyl > ZOE for pain at day 7 (very low certainty). (sr+ma, 2022)
+- [[oral-surgery/third-molar/garola-2021-clinical-management-alveolar-osteitis-systematic]] — SR (17 trials, 39 treatments, 2010–2020): 53.8% of AO treatments met pain-control benchmark (VAS ≤4 by day 2 or ≥85% pain-free by day 7); successful options = intra-alveolar irrigation, Alveogyl, Neocones, SaliCept Patch, LLLT, PRF; heterogeneity prevents ranking. (sr, 2021)
+- [[endodontics/he-2026-hemostatic-agents-periapical-surgery-sr-ma]] — SR+MA (10 studies, 388 teeth, network MA) of hemostatic agents in periapical (endodontic) surgery: mean efficacy 63±6.6%, epinephrine & aluminum chloride > collagen (P<.05); hemostasis unrelated to prognosis; informs hemostasis axis 3. (sr+ma, 2026)
+
+### 신규 추가 (2026-07)
+
+- [[oral-surgery/chiarella-2007-iatrogenic-bppv-dental-maxillofacial-surgery]] — ENT-perspective narrative review + case series (abstract-only): iatrogenic benign paroxysmal positional vertigo (BPPV) after dental/maxillofacial surgery, attributed to post-traumatic otoconia displacement; no incidence data, temporal association only. Generalizes the BPPV-as-surgical-complication mechanism beyond sinus-lift-specific reporting (cf. [[sinus-lift/transcrestal/stacchi-2022-transcrestal-sinus-complications-low-rbh]], 0.5% in a 430-implant TSFE cohort) — single paper, not yet a full axis; candidate for a future "vestibular/BPPV complication" axis if more papers accumulate. (case-report, 2007)

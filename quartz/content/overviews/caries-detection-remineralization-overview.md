@@ -1,0 +1,152 @@
+---
+title: "우식 탐지·백색반점·재광화·근관거리(root caries) 종합"
+authors: Synthesis (Damian Lee)
+year: 2026
+date: 2026-05-26
+doi: N/A
+source: N/A
+category: overviews
+evidence_level: synthesis
+pdf_path: N/A
+pdf_filename: N/A
+source_collection: synthesis
+tags: [caries, white-spot-lesion, wsl, icdas, diagnodent, remineralization, resin-infiltration, fluoride, cpp-acp, gic, root-caries, overview]
+relations:
+  - type: extends
+    target: hajishafiee-2023-ssb-taxation-sugars-caries-umbrella
+---
+
+## 한국어 핵심요약
+
+> [!summary] 한국어 핵심요약
+> - 핵심 명제: 우식 탐지·예방·관리 SR/SR+MA 8편을 **탐지·백색반점(WSL)·재광화·근관거리(root caries) 우식·2차 우식** 5축으로 통합한 결정 ladder.
+> - **탐지**: DIAGNOdent Pen이 가장 민감(민감도 0.81–0.89), 교합면 방사선은 0–0.29로 거의 무용 (Foros 2021 SR+MA). 따라서 "교합면 우식은 방사선으로 잡는다"는 오판 — 시진+ICDAS+DIAGNOdent 위주.
+> - **ICDAS**: 재현성 pooled >0.65, SROC D1 >0.75로 임상 표준 (Ekstrand 2018 SR, 54편). 코드 1–2 = 재광화 영역, 3 이상 = 수복 고려.
+> - **백색반점(White Spot Lesion, WSL)**: 외관 개선은 레진 침투(resin infiltration, Icon)가 NMA 최상위 — 불소 바니시 대비 표준화평균차(SMD) 1.24 우위 (Xie 2023 NMA, Bourouni 2021). 교정 후 WSL·불소증에도 효과.
+> - **재광화**: 불소 + CPP-ACP 병용이 가장 효과적; 유치는 불소 바니시/겔과 CPP-ACP 모두 유의하나 방법 간 차이 없음(NS) — 환자 협조도 위주 선택 (Malcangi 2023, Ancira-Gonzalez 2018).
+> - **근관거리(root) 우식**: 9개 RCT NMA에서 재료·접착 전략 간 통계적 차이 없음 (Schmidt 2024). 실무는 접근성·경부 민감도·구강위생으로 선택; 고령 hyposalivation 시 GIC 우선.
+> - **2차 우식 예방**: GIC = 레진 ≥ 아말감 (Ge 2023 SR+MA, 64 RCT). 고위험·저협조 환자엔 GIC 불소 방출 이점(ART) 활용.
+> - **추가 근거(2026-06)**: ADA NMA에서 SDF·sealant+fluoride 병용이 병소 정지·역전 최상위권 (Urquhart 2019); 제1대구치에선 치면열구전색 vs 불소바니시 상아질 우식 동등(19.6% vs 17.5%) → 집단검진 맥락에선 불소바니시가 비용효과 우위 (Chestnutt 2017 RCT).
+> - **임상 ladder(재광화)**: 성인 비활성 WSL → 불소 바니시(22,600 ppm) 3개월 + CPP-ACP 자가 + 식이 교육; 고위험 root caries → SDF 보조(변색 동의); 3–6개월 재평가 후 진행 시 수복.
+> - **확신도**: 축 1·2·5 = 근거강함(SR+MA 다수); 축 3 = 합의수준; 축 4 = "차이 없음" 결론에 근거강함.
+
+## Three-line Summary
+
+Synthesis of 8 caries SR/SR+MAs across 5 axes: for detection, DIAGNOdent Pen achieves sensitivity 0.81–0.89 while occlusal radiography is near-useless (0–0.29; Foros 2021 SR+MA), and ICDAS is the clinical standard (pooled ICC >0.65, SROC D1 >0.75; Ekstrand 2018 SR, 54 papers); for white spot lesion (WSL) esthetics, resin infiltration (Icon) is NMA top-ranked — SMD 1.24 over fluoride varnish (Xie 2023); for remineralization, fluoride + CPP-ACP combination is most effective.
+
+For root caries, 9-RCT NMA shows no statistical winner among restorative/adhesive strategies (Schmidt 2024) — select by access, hypersensitivity, and hygiene; for secondary caries prevention, GIC = composite ≥ amalgam (Ge 2023 SR+MA, 64 RCTs); adjunct SDF + sealant combination ranks top for lesion arrest/reversal (Urquhart 2019 ADA NMA); fissure sealant vs fluoride varnish for 1st molars is equivalent in dentin caries at high population prevalence, with fluoride varnish cost-effective in mass-screening contexts (Chestnutt 2017 RCT).
+
+Clinical takeaway: detect with vision + ICDAS + DIAGNOdent, not radiographs alone; favor resin infiltration when esthetics drive WSL management; for high-risk root caries add SDF (accept staining); select root-caries restorative materials by patient factors, not efficacy ranking; re-evaluate non-cavitated active lesions at 3–6 months.
+
+## 세줄요약
+
+우식 탐지·예방·관리 SR/SR+MA 8편 5축 통합: 탐지 — DIAGNOdent Pen 민감도 0.81–0.89(최고) vs 교합면 방사선 0–0.29(거의 무용; Foros 2021); ICDAS 임상 표준(ICC >0.65; Ekstrand 2018); 백색반점(White Spot Lesion, WSL) 외관 — 레진 침투(Resin Infiltration, Icon)가 NMA 최상위(불소 바니시 대비 SMD 1.24; Xie 2023).
+
+재광화 = 불소 + CPP-ACP 병용이 최선; 근관거리(root) 우식 수복 전략 간 통계적 winner 없음(Schmidt 2024 NMA, 9 RCT) — 접근성·민감도·위생으로 선택; 2차 우식 예방 = GIC ≥ 레진 ≥ 아말감 (Ge 2023 SR+MA, 64 RCT); SDF+실란트 병용이 병소 정지·역전 최상위권(Urquhart 2019 ADA NMA).
+
+임상 결론: 방사선 단독이 아닌 시진+ICDAS+DIAGNOdent로 탐지; WSL 심미 목적 → 레진 침투; 고위험 root caries → SDF 추가(착색 동의); root caries 재료 선택은 환자 인자 기준; 비와동성 활동 병소는 3–6개월 재평가.
+
+## Summary
+
+본 페이지는 wiki/caries/ 8편을 5축으로 통합. 탐지·예방·관리·근관거리 우식·2차 우식의 결정 ladder.
+
+핵심 명제 6개:
+1. **탐지 — DIAGNOdent Pen이 가장 민감(0.81–0.89), 방사선 교합면 0–0.29로 매우 낮음** — Foros 2021 SR+MA. [확인]
+2. **ICDAS — 재현성 pooled >0.65, SROC D1 >0.75; 임상 표준** — Ekstrand 2018 SR (54편). [확인]
+3. **WSL 외관 개선 — Resin infiltration이 NMA 최상위; 불소 바니시 대비 SMD 1.24 우위** — Xie 2023 NMA, Bourouni 2021 SR+MA. [확인]
+4. **재광화 — 불소 + CPP-ACP 병용이 가장 효과적; 유치는 불소 바니시·겔과 CPP-ACP 모두 유의** — Malcangi 2023 SR, Ancira-Gonzalez 2018 SR. [확인]
+5. **근관거리 우식 — 9개 RCT NMA에서 통계적 winner 없음; 2/3-step etch-and-rinse + 레진이 weak trend** — Schmidt 2024 NMA. [확인]
+6. **2차 우식 예방 — GIC = 레진 ≥ 아말감(64개 RCT MA)** — Ge 2023 SR+MA. [확인]
+
+## Results
+
+### 축 1 — 탐지 (Caries Detection)
+
+| Spine paper | Evidence | Key finding |
+|---|---|---|
+| [[caries/foros-2021-early-caries-detection-methods-sr-ma]] | sr+ma | DIAGNOdent Pen 민감도 0.81–0.89 최고; 교합면 방사선 0–0.29 |
+| [[caries/ekstrand-2018-icdas-coronal-caries-sr-ma]] | sr (54편) | ICDAS 재현성 pooled >0.65, SROC D1 >0.75; 병소 활성도 system도 중등도 |
+
+**임상 ladder (탐지)**:
+1. **시진** — ICDAS code (0–6) routine 기록. 활성도(active/inactive) 함께 평가.
+2. **방사선** — Bitewing 인접면 우식 표준. 교합면은 단독 한계 명확.
+3. **레이저 형광(DIAGNOdent Pen)** — 의심 부위 추가 평가. 영상화 보조.
+4. **임상 결정** — ICDAS 1–2 = 재광화 영역; 3 이상 = 수복 가능성.
+
+### 축 2 — White Spot Lesion (Aesthetics)
+
+| Spine paper | Evidence | Key finding |
+|---|---|---|
+| [[caries/xie-2023-white-spot-lesion-therapies-sr-nma]] | sr+nma | 4 치료법 — Resin infiltration optical 개선 최상위 |
+| [[caries/bourouni-2021-resin-infiltration-white-spot-sr-ma]] | sr+ma | 교정후/비교정 WSL + 불소증 — 불소 바니시 대비 SMD 1.24 우위 |
+
+**임상 ladder (WSL)**:
+1. **활성 평가** — opaque white(활성) vs glossy(비활성).
+2. **외관 우선 + 환자 동기** → Resin infiltration (Icon) 1차. 즉시 외관 개선.
+3. **외관보다 진행 방지** → 불소 바니시 + CPP-ACP 정기.
+4. **교정 후 WSL** → resin infiltration 효과 우위 (Bourouni 2021).
+5. **불소증** → resin infiltration도 효과 — Bourouni 2021.
+
+### 축 3 — 재광화 (Remineralization)
+
+| Spine paper | Evidence | Key finding |
+|---|---|---|
+| [[caries/malcangi-2023-enamel-remineralization-techniques-sr]] | sr | 불소·CPP-ACP·HAP·resin infiltration·SDF·레이저 — 불소+CPP-ACP 병용 효과적 |
+| [[caries/ancira-gonzalez-2018-white-spot-remineralisation-primary-sr]] | sr (9 RCT) | 유치 — 불소 바니시·겔·CPP-ACP 모두 유의, 방법 간 NS |
+
+**Population upstream**: An umbrella review of 14 SRs showed a 20% volumetric sugar-sweetened beverage tax reduces free sugars by ~4.0–4.4 g/day and would prevent 0.03 carious teeth per adult and 2.7–2.9% caries occurrence in children over 10 years across both HIC and LMIC — a modest per-person effect that becomes non-trivial at population scale ([[caries/hajishafiee-2023-ssb-taxation-sugars-caries-umbrella]], umbrella SR, 2023). [확인 — effect size modest, population impact scales with prevalence]
+
+**임상 ladder (재광화)**:
+1. **성인 비활성 WSL** — 불소 바니시(22,600 ppm) 3개월 + CPP-ACP 자가 사용 + 식이 교육.
+2. **소아·유치** — 불소 바니시/겔 또는 CPP-ACP — 방법 간 NS, 환자 협조도 위주.
+3. **고위험군 root caries** — SDF (silver diamine fluoride) 보조; 변색 동의 필요.
+4. **재평가 3–6개월** — 활성→비활성 전환 또는 진행 시 수복.
+
+### 축 4 — Root Caries
+
+| Spine paper | Evidence | Key finding |
+|---|---|---|
+| [[caries/schmidt-2024-root-caries-restorative-adhesive-nma]] | sr+nma (9 RCT, n=1263) | 모든 전략 통계적 차이 없음; 2/3-step etch-and-rinse + 레진 weak trend |
+
+**임상 함의**: 근관거리 우식 수복은 재료·접착 전략에 따른 결정적 차이 없음. 실무는 ①접근성 ②cervical sensitivity ③환자 oral hygiene 위주 선택. 고령자 hyposalivation 시 GIC 우선 고려. [확인]
+
+### 축 5 — 2차 우식 예방 (Secondary Caries)
+
+| Spine paper | Evidence | Key finding |
+|---|---|---|
+| [[caries/ge-2023-glass-ionomer-secondary-caries-sr-ma]] | sr+ma (64 RCT) | GIC = 레진, 양자 > 아말감 (유치·영구치 양쪽) |
+
+**임상 함의**: GIC와 레진의 2차 우식 예방 효과는 동등. 아말감은 열위. 고위험 우식 + 협조 어려운 환자는 GIC의 불소 방출 이점 활용 (atraumatic restorative treatment, ART). [확인]
+
+**오판 패턴**:
+- "교합면 우식은 방사선으로 잡는다" — 민감도 0–0.29로 거의 무용; 시진 + ICDAS + DIAGNOdent 위주. [확인]
+- "WSL은 다 불소만 발라준다" — 외관 우선 case는 resin infiltration이 격차 큰 우위. [확인]
+- "Root caries 재료 선택이 중요" — NMA에서 통계적 차이 없음; 접근성·환자 인자 위주. [확인]
+
+## Phase 2 확장 후보 (Stub)
+
+- [ ] `wiki/overviews/sdf-silver-diamine-fluoride-protocol.md` — SDF 프로토콜 세부.
+- [ ] `wiki/overviews/cariogram-risk-assessment.md` — 위험도 평가 통합.
+- [ ] `wiki/overviews/icon-resin-infiltration-clinical-protocol.md` — Icon 술기 깊이.
+
+## Related overviews
+
+- [[overviews/direct-resin-restoration-adhesion-placement-overview]] — 수복재 선택
+- [[overviews/dental-materials-decision-ladder]] — GIC vs 레진 vs 아말감
+- [[overviews/lithium-disilicate-inlay-onlay-evidence]] — 광범위 우식 후 간접 수복
+
+확신도 등급:
+- 축 1·2·5 = [확인] (SR+MA 다수)
+- 축 3 = [확인] (방법 간 NS, 임상 협조도 결정)
+- 축 4 = [확인] for "차이 없음" 결론
+
+## Related Papers
+
+### 신규 추가 (2026-06)
+
+- [[caries/urquhart-2019-nonrestorative-treatments-caries-network-meta-analysis]] — SR + network MA (ADA 가이드라인 근거): 비수복 우식 치료를 표면·치열별로 순위화 — **SDF·sealant+fluoride 병용이 병소 정지·역전에 최상위권** (sr+ma, 2019)
+- [[caries/chestnutt-2017-fissure-seal-fluoride-varnish-trial]] — RCT (1016명, 36개월): 제1대구치에서 **치면열구전색 vs 불소바니시 상아질 우식 유의차 없음**(19.6% vs 17.5%); 지역사회 프로그램에선 불소바니시가 비용효과 우위 (rct, 2017)
+
+- [[caries/hajishafiee-2023-ssb-taxation-sugars-caries-umbrella]] — Umbrella review (14 SRs): 20% volumetric SSB tax → free sugars ↓4.0–4.4 g/day → 0.03 fewer carious teeth/adult and 2.7–2.9% ↓ caries occurrence in children over 10y (HIC+LMIC); adds population/fiscal policy dimension to축 3 remineralization upstream prevention (umbrella sr, 2023)
+
+**갱신 메모 (2026-06-07)**: 두 논문은 축 3(예방·재광화)을 강화한다. Urquhart 2019 NMA는 기존 한줄요약의 "SDF·sealant+fluoride" 우위 주장에 ADA NMA 근거를 직접 제공하고, Chestnutt 2017 RCT는 **전색 vs 불소바니시가 동등**임을 보여 "고위험·저협조·집단검진 맥락에선 불소바니시가 비용효과적 대안"이라는 임상 분기를 추가한다. [확인] 단 Chestnutt은 제1대구치 한정 — 개별 고위험 소와열구엔 전색이 여전히 1차.

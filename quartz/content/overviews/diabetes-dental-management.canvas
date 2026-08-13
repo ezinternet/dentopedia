@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"id":"3a4b5c6d7e8f0001","type":"text","x":0,"y":-280,"width":960,"height":70,"text":"# 당뇨병 환자 치과 진료 가이드 (Diabetes Mellitus — Dental Management)","color":"5"},
+		{"id":"3a4b5c6d7e8f0002","type":"text","x":280,"y":-180,"width":400,"height":90,"text":"## 🏥 당뇨병 환자 치과 내원\n첫 방문 시 **HbA1c** 확인 필수\n식후 혈당·복용 약물 파악","color":"6"},
+		{"id":"3a4b5c6d7e8f0003","type":"text","x":0,"y":0,"width":290,"height":240,"text":"### ✅ 조절 양호\nHbA1c **< 7%**\n\n- 일반 치과 치료 모두 가능\n- 임플란트 적응증 (정상 대조군과 유사 성공률)\n- 발치 후 치유 양호\n- 치주 유지 치료 3–4개월 주기\n- 전신마취 시 금식 지침 확인","color":"4"},
+		{"id":"3a4b5c6d7e8f0004","type":"text","x":335,"y":0,"width":290,"height":240,"text":"### ⚠️ 중등도 조절\nHbA1c **7 – 9%**\n\n- 치료 가능, 주의 필요\n- 임플란트 실패 위험 증가 (OR 1.777)\n- 술전 항생제 예방 투여 권장\n- CHX 양치 (0.12%, 술전 1분)\n- 치유 지연 → 추적 관찰 강화\n- 감염 징후 적극 모니터링","color":"3"},
+		{"id":"3a4b5c6d7e8f0005","type":"text","x":670,"y":0,"width":290,"height":240,"text":"### 🚫 조절 불량\nHbA1c **> 9%**\n\n- 응급 처치만 시행\n- 선택적 수술·임플란트 연기\n- 내과 협진 필수 (혈당 조절 우선)\n- 임플란트 일시적 금기\n- 감염·치유 장애 위험 극히 높음\n- ASA III – IV 분류 적용","color":"1"},
+		{"id":"3a4b5c6d7e8f0006","type":"text","x":0,"y":300,"width":460,"height":210,"text":"### 🦷 임플란트 위험 증가\n*(al-Ansari 2022 SR+MA, 89편)*\n\n- 임플란트 실패 **OR 1.777** (p < 0.001)\n- **T1DM > T2DM** (OR 4.477 vs 1.388)\n- 변연골 소실(MBL) **+0.776 mm** 추가\n- 상악에서만 통계적으로 유의\n- **조절된 당뇨는 임플란트 금기 아님**\n→ HbA1c 조절 후 임플란트 계획 수립","color":"2"},
+		{"id":"3a4b5c6d7e8f0007","type":"text","x":500,"y":300,"width":460,"height":210,"text":"### 🔄 치주질환 양방향 연관\n*(Wagner 2022 SR, 40편)*\n\n- 당뇨 → 치주염 악화 (면역 저하, AGE 축적)\n- 치주염 → 혈당 조절 악화 (전신 염증 ↑)\n- **치주 치료 후 HbA1c 0.27–0.48% 감소**\n- SPT 주기: 조절 양호 3–4개월, 불량 1–2개월\n- 구강 건조증·칸디다증 동반 빈번","color":"2"},
+		{"id":"3a4b5c6d7e8f0008","type":"text","x":0,"y":570,"width":290,"height":220,"text":"### 💉 국소마취 & 혈관수축제\n*(UFCD 2019 가이드라인)*\n\n- 에피네프린 사용 **가능**\n- 2% 리도카인 1:100,000 기준\n- 카트리지 **2–3개 이하** 제한\n- 에피네프린 → 혈당 일시 상승 가능\n- 심혈관 합병증 동반 당뇨: 1:200,000\n- 아스피린 병용 시 지혈 시간 확인","color":"3"},
+		{"id":"3a4b5c6d7e8f0009","type":"text","x":335,"y":570,"width":290,"height":220,"text":"### 💊 예방적 항생제\n\n- 조절 불량 (HbA1c > 9%): **권장**\n- Amoxicillin **2 g** 술전 1시간\n- 페니실린 알레르기: Clindamycin 600 mg\n- 수술 후 항생제: 감염 위험 시 5–7일\n- 구강 칸디다 감염 주의 (항생제 후)\n- 면역 저하 → 기회 감염 가능성 ↑","color":"3"},
+		{"id":"3a4b5c6d7e8f000a","type":"text","x":670,"y":570,"width":290,"height":220,"text":"### ⚠️ 약물 상호작용 주의\n\n- **NSAIDs**: 혈당 변동 가능, 신기능 모니터\n- **코르티코스테로이드**: 혈당 급등 주의\n- **메트포르민 + 조영제**: 신기능 확인 후 사용\n- **설포닐유레아**: 저혈당 위험 ↑\n- **항응고제 병용**: 발치 전 INR 확인\n- 항우울제(TCA): 저혈압·빈맥 주의","color":"3"},
+		{"id":"3a4b5c6d7e8f000b","type":"text","x":0,"y":850,"width":960,"height":190,"text":"### 🚨 저혈당 응급처치 (혈당 < 70 mg/dL)\n\n**증상**: 발한·떨림·안절부절·창백·의식 혼탁·빈맥 → 즉시 치료 중단\n\n| 상태 | 처치 |\n|------|------|\n| **의식 있음** | 오렌지주스 150 mL 또는 포도당 정 15 g 즉시 경구 투여 → 15분 후 재확인 |\n| **의식 없음** | 50% 포도당 25 mL 정맥주사 또는 글루카곤 1 mg IM / SC → 119 호출 |\n\n**예방**: 치과 치료는 식후 최소 2시간 이후 권장 | 공복 예약 금지 | 혈당 측정기 진료실 비치","color":"1"},
+		{"id":"3a4b5c6d7e8f000c","type":"file","x":0,"y":1100,"width":300,"height":190,"file":"wiki/drug/al-ansari-2022-diabetes-mellitus-dental-implants-sr-ma.md"},
+		{"id":"3a4b5c6d7e8f000d","type":"file","x":330,"y":1100,"width":300,"height":190,"file":"wiki/drug/wagner-2022-diabetes-mellitus-dental-implants-sr.md"},
+		{"id":"3a4b5c6d7e8f000e","type":"file","x":660,"y":1100,"width":300,"height":190,"file":"wiki/drug/ufcd-2019-medically-complex-patients-management-guidelines.md"},
+		{"id":"3a4b5c6d7e8f000f","type":"text","x":0,"y":1340,"width":960,"height":70,"text":"**연관 캔버스**: [[overviews/isq-loading-flowchart]] — 당뇨 환자 임플란트 시 ISQ < 60 → 지연부하 프로토콜 적용 | 상악동 거상 후 ISQ 저하 예상 → 6–9개월 대기","color":"6"}
+	],
+	"edges":[
+		{"id":"3e4f5a6b7c8d0001","fromNode":"3a4b5c6d7e8f0002","fromSide":"bottom","toNode":"3a4b5c6d7e8f0003","toSide":"top","label":"< 7%","color":"4"},
+		{"id":"3e4f5a6b7c8d0002","fromNode":"3a4b5c6d7e8f0002","fromSide":"bottom","toNode":"3a4b5c6d7e8f0004","toSide":"top","label":"7–9%","color":"3"},
+		{"id":"3e4f5a6b7c8d0003","fromNode":"3a4b5c6d7e8f0002","fromSide":"bottom","toNode":"3a4b5c6d7e8f0005","toSide":"top","label":"> 9%","color":"1"},
+		{"id":"3e4f5a6b7c8d0004","fromNode":"3a4b5c6d7e8f0003","fromSide":"bottom","toNode":"3a4b5c6d7e8f0006","toSide":"top","fromEnd":"none","color":"4"},
+		{"id":"3e4f5a6b7c8d0005","fromNode":"3a4b5c6d7e8f0004","fromSide":"bottom","toNode":"3a4b5c6d7e8f0006","toSide":"top","fromEnd":"none","color":"3"},
+		{"id":"3e4f5a6b7c8d0006","fromNode":"3a4b5c6d7e8f0004","fromSide":"bottom","toNode":"3a4b5c6d7e8f0007","toSide":"top","fromEnd":"none","color":"3"},
+		{"id":"3e4f5a6b7c8d0007","fromNode":"3a4b5c6d7e8f0005","fromSide":"bottom","toNode":"3a4b5c6d7e8f0007","toSide":"top","fromEnd":"none","color":"1"},
+		{"id":"3e4f5a6b7c8d0008","fromNode":"3a4b5c6d7e8f0006","fromSide":"bottom","toNode":"3a4b5c6d7e8f0008","toSide":"top","fromEnd":"none"},
+		{"id":"3e4f5a6b7c8d0009","fromNode":"3a4b5c6d7e8f0006","fromSide":"bottom","toNode":"3a4b5c6d7e8f000c","toSide":"top","label":"근거","color":"2"},
+		{"id":"3e4f5a6b7c8d000a","fromNode":"3a4b5c6d7e8f0007","fromSide":"bottom","toNode":"3a4b5c6d7e8f000d","toSide":"top","label":"근거","color":"2"},
+		{"id":"3e4f5a6b7c8d000b","fromNode":"3a4b5c6d7e8f0008","fromSide":"bottom","toNode":"3a4b5c6d7e8f000e","toSide":"top","label":"근거","color":"3"},
+		{"id":"3e4f5a6b7c8d000c","fromNode":"3a4b5c6d7e8f000b","fromSide":"bottom","toNode":"3a4b5c6d7e8f000e","toSide":"top","label":"근거","color":"3"}
+	]
+}

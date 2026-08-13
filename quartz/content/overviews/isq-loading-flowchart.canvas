@@ -1,0 +1,34 @@
+{
+	"nodes":[
+		{"id":"1a2b3c4d5e6f0001","type":"text","text":"# ISQ 기반 임플란트 부하 프로토콜 결정 플로우차트","x":100,"y":-170,"width":800,"height":70,"color":"5"},
+		{"id":"1a2b3c4d5e6f0002","type":"text","text":"## ISQ 측정\nRFA / Osstell ISQ","x":350,"y":-70,"width":300,"height":80,"color":"6"},
+		{"id":"1a2b3c4d5e6f0003","type":"text","text":"**ISQ < 60**\n낮은 초기 안정성","x":0,"y":80,"width":220,"height":70,"color":"1"},
+		{"id":"1a2b3c4d5e6f0004","type":"text","text":"**ISQ 60 – 70**\n중간 안정성 (경계 구간)","x":340,"y":80,"width":320,"height":70,"color":"3"},
+		{"id":"1a2b3c4d5e6f0005","type":"text","text":"**ISQ > 70**\n높은 초기 안정성","x":780,"y":80,"width":220,"height":70,"color":"4"},
+		{"id":"1a2b3c4d5e6f0006","type":"text","text":"### ⏳ 지연부하\n3 – 6개월 치유 대기\n\n- 골밀도 불량 (D3/D4)\n- 상악동 거상 직후\n- 삽입 토크 < 20 Ncm","x":-20,"y":220,"width":260,"height":200,"color":"1"},
+		{"id":"1a2b3c4d5e6f0007","type":"text","text":"### ⚠️ 조기부하\n4 – 8주 후 부하\n\n- ISQ 상승 추세 확인 필수\n- Stability dip 통과 후 진행\n- 삽입 토크 20 – 35 Ncm","x":320,"y":220,"width":360,"height":200,"color":"3"},
+		{"id":"1a2b3c4d5e6f0008","type":"text","text":"### ✅ 즉시/조기부하\n식립 당일 또는 48h 이내\n\n- 삽입 토크 ≥ 35 Ncm\n- 전치부 단일치 프로토콜\n- 교합 접촉 없는 임시치관","x":760,"y":220,"width":260,"height":200,"color":"4"},
+		{"id":"1a2b3c4d5e6f0009","type":"file","file":"wiki/implants/isq/oh-2008-comparison-of-initial-implant-stability.md","x":-20,"y":420,"width":260,"height":250},
+		{"id":"1a2b3c4d5e6f000a","type":"file","file":"wiki/implants/isq/andersson-2019-rfa-factors-5year-neoss-survival.md","x":320,"y":420,"width":360,"height":200},
+		{"id":"1a2b3c4d5e6f000b","type":"file","file":"wiki/implants/isq/andreatta-2020-simplified-loading-protocol-neoss-1year.md","x":760,"y":420,"width":260,"height":250},
+		{"id":"1a2b3c4d5e6f000c","type":"text","text":"### ⚠️ Stability Dip 개념 (Sennerby 2008)\n식립 후 **2 – 4주**: 골 리모델링 → ISQ 일시적 저하\n**8 – 12주**: 이차 안정성 확립 → ISQ 회복·상승\n→ 조기부하 타이밍: dip 저점 이후 확인 필수","x":220,"y":735,"width":560,"height":130,"color":"2"},
+		{"id":"1a2b3c4d5e6f000f","type":"file","file":"wiki/implants/isq/bavetta-2019-insertion-torque-isq-immediate-loading-extraction-socket.md","x":850,"y":775,"width":300,"height":180},
+		{"id":"1a2b3c4d5e6f000d","type":"file","file":"wiki/implants/isq/sennerby-2008-implant-stability-resonance-frequency-analysis.md","x":320,"y":955,"width":380,"height":180},
+		{"id":"1a2b3c4d5e6f000e","type":"text","text":"**삽입 토크 + ISQ**\n복합 기준 권장\n\nISQ 단독보다\n예측도 향상","x":-20,"y":890,"width":190,"height":130,"color":"6"}
+	],
+	"edges":[
+		{"id":"1e2f3a4b5c6d0001","fromNode":"1a2b3c4d5e6f0002","fromSide":"bottom","toNode":"1a2b3c4d5e6f0003","toSide":"top","color":"1","label":"< 60"},
+		{"id":"1e2f3a4b5c6d0002","fromNode":"1a2b3c4d5e6f0002","fromSide":"bottom","toNode":"1a2b3c4d5e6f0004","toSide":"top","color":"3","label":"60 – 70"},
+		{"id":"1e2f3a4b5c6d0003","fromNode":"1a2b3c4d5e6f0002","fromSide":"bottom","toNode":"1a2b3c4d5e6f0005","toSide":"top","color":"4","label":"> 70"},
+		{"id":"1e2f3a4b5c6d0004","fromNode":"1a2b3c4d5e6f0003","fromSide":"bottom","toNode":"1a2b3c4d5e6f0006","toSide":"top"},
+		{"id":"1e2f3a4b5c6d0005","fromNode":"1a2b3c4d5e6f0004","fromSide":"bottom","toNode":"1a2b3c4d5e6f0007","toSide":"top"},
+		{"id":"1e2f3a4b5c6d0006","fromNode":"1a2b3c4d5e6f0005","fromSide":"bottom","toNode":"1a2b3c4d5e6f0008","toSide":"top"},
+		{"id":"1e2f3a4b5c6d0007","fromNode":"1a2b3c4d5e6f0006","fromSide":"bottom","toNode":"1a2b3c4d5e6f0009","toSide":"top","label":"근거 논문"},
+		{"id":"1e2f3a4b5c6d0008","fromNode":"1a2b3c4d5e6f0007","fromSide":"bottom","toNode":"1a2b3c4d5e6f000a","toSide":"top","label":"근거 논문"},
+		{"id":"1e2f3a4b5c6d0009","fromNode":"1a2b3c4d5e6f0008","fromSide":"bottom","toNode":"1a2b3c4d5e6f000b","toSide":"top","label":"근거 논문"},
+		{"id":"1e2f3a4b5c6d000a","fromNode":"1a2b3c4d5e6f0007","fromSide":"bottom","toNode":"1a2b3c4d5e6f000c","toSide":"top","color":"2"},
+		{"id":"1e2f3a4b5c6d000b","fromNode":"1a2b3c4d5e6f000c","fromSide":"bottom","toNode":"1a2b3c4d5e6f000d","toSide":"top","label":"근거 논문"},
+		{"id":"1e2f3a4b5c6d000c","fromNode":"1a2b3c4d5e6f000e","fromSide":"right","toNode":"1a2b3c4d5e6f0006","toSide":"bottom","toEnd":"none","color":"6"},
+		{"id":"1e2f3a4b5c6d000d","fromNode":"1a2b3c4d5e6f000f","fromSide":"left","toNode":"1a2b3c4d5e6f0008","toSide":"bottom","color":"4","label":"즉시부하 근거"}
+	]
+}
