@@ -173,6 +173,24 @@ Clinical takeaway: staged adoption — image-assisted diagnosis now (with regula
 
 5. **미성숙 영역 회피** — 자율 술식 시스템(robotics for direct dental procedures), end-to-end 워크플로우 자동화. Mallineni 2024·Gao 2025 모두 "연구 단계"로 명시. 도입 ROI 부정적. [확인]
 
+## Cluster 8 — Data-modality-first ML taxonomy (2026-08-13 addition)
+
+**Feher 2024 (narrative, Front Artif Intell 7:1427517, Harvard/Vienna)** — Cluster 2의 specialty-first 총론들과 달리, Feher는 ML 실무 관점에서 치과 AI를 **데이터 양식(Data Modality) × 모델링 유형(Modeling Type)** 행렬로 재편한다.
+
+**데이터 양식 3축**
+- **영상 데이터(Image data)**: 구내외 방사선(연 11억 장, 전 세계 영상 시술의 26%), 사진, CBCT, 초음파, 조직학, 3D 점군 — 가장 성숙하고 규모가 가장 크다.
+- **정형 수치 데이터(Structured numerical data)**: 임상 지표, 보험 청구·수가 코드, 웨어러블 센서 출력 — 표준화된 입력이 필요하며 치과 전자기록(EDR)에서 체계적으로 수집되는 경우는 드물다.
+- **비정형 텍스트 데이터(Unstructured textual data)**: 임상 노트, EDR 자유기술, 환자 서신 — 작성자 문체에 의존도가 높아 표준화가 가장 어렵다.
+
+**모델링 유형 3축**
+- **진단 모델링(Diagnostic modeling)**: 분류·검출(우식, 골소실, 임플란트 식별, 두부계측). 치과 AI 중 가장 성숙. Cluster 6·7의 모든 SR+MA anchor가 여기에 속한다.
+- **예후 모델링(Prognostic modeling)**: 결과 예측, 위험 계층화(임플란트 실패 위험, 치주 진행 예측). 진단보다 데이터 규모·기간 요건이 높아 임상 검증이 부족하다.
+- **생성 모델링(Generative modeling)**: 합성 데이터·이미지 증강, LLM 텍스트 생성(환자 응답, EDR 파싱). 2023–2024 이후 급부상; 임상 검증 아직 예비 단계.
+
+**Cluster 2와의 차별점**: Gao·Lee·Mallineni는 "어떤 치과 전공에서 AI가 무엇을 하는가"에 답한다. Feher는 "어떤 데이터 환경을 갖추면 어떤 ML이 가능한가"에 답한다 — 즉 AI 도입을 설계하는 임상가·기관에 더 직접적인 프레임워크다.
+
+**임상 함의** — 전자기록(EDR)이 자유기술 위주인 치과 개원가는 unstructured text AI 적용이 어렵고, 디지털 임프레션·CBCT를 갖춘 곳은 영상+3D 점군 AI 진입 장벽이 낮다. 진단 모델링부터 시작해 예후·생성 순으로 도입 복잡도가 증가한다. [미검증]
+
 ## Cluster-wide gaps
 
 - **임상 결과 RCT 부재** — 9편 어디에도 AI 도입 vs 미도입을 비교한 환자-결과 RCT가 등장하지 않는다. 지금까지의 evidence는 "AI 단독 정확도" 또는 "AI 보조 진단 정확도"에 머문다. 임플란트 영역 리뷰 계보(Revilla-Leon 2021 sr, Altalhi 2023·Srinivasan 2025·Saeed 2023 narrative)도 같은 한계를 공유한다 — 진단·식별 정확도는 축적됐으나 도입 후 임플란트 생존·합병증을 비교한 전향 비교연구는 부재.
@@ -181,6 +199,9 @@ Clinical takeaway: staged adoption — image-assisted diagnosis now (with regula
 - **윤리·법적 운영 가이드 부재** — Iqbal 2025가 17편 ChatGPT SR 중 윤리·법적 우려를 다룬 비중을 명시하지만 *어떻게 운영할지*에 대한 구체적 가이드는 거의 없음.
 
 ## Related Papers
+
+### 신규 ingest — data-modality-first taxonomy (2026-08-13)
+- [[artificial-intelligence/feher-2024-applied-ai-dentistry-data-modalities]] — Feher 2024 · narrative · Harvard: 치과 AI를 데이터 양식(영상·수치·텍스트)×모델링(진단·예후·생성) 행렬로 정리; 연 11억 장 방사선 = ML 최적 분야; XAI·LLM·규제 한계; cluster 8
 
 ### 신규 ingest cluster (2026-07-15)
 
