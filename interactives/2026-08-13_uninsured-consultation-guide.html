@@ -1,0 +1,932 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>비보험 치료 상담 도우미</title>
+<style>
+/* ─── Tokens ─────────────────────────────── */
+:root {
+  --bg:           #F2F3EF;
+  --surface:      #FFFFFF;
+  --surface-2:    #EAECE7;
+  --text:         #1A2030;
+  --text-muted:   #5A6475;
+  --primary:      #155E78;
+  --primary-lt:   #E4F0F5;
+  --primary-dk:   #0D4259;
+  --accent:       #D97A30;
+  --accent-lt:    #FDF0E4;
+  --positive:     #2D7A5A;
+  --positive-lt:  #E4F2EB;
+  --warn:         #B85C20;
+  --border:       #D2D5CC;
+  --shadow:       rgba(0,0,0,0.06);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg:           #0D1820;
+    --surface:      #142030;
+    --surface-2:    #1C2D3E;
+    --text:         #DCE8F2;
+    --text-muted:   #7A90A8;
+    --primary:      #4BA8C8;
+    --primary-lt:   #1A3248;
+    --primary-dk:   #7FC5DF;
+    --accent:       #F0924A;
+    --accent-lt:    #2E1E0E;
+    --positive:     #4AAA82;
+    --positive-lt:  #152E24;
+    --warn:         #E07840;
+    --border:       #2C3E52;
+    --shadow:       rgba(0,0,0,0.3);
+  }
+}
+:root[data-theme="dark"] {
+  --bg:           #0D1820;
+  --surface:      #142030;
+  --surface-2:    #1C2D3E;
+  --text:         #DCE8F2;
+  --text-muted:   #7A90A8;
+  --primary:      #4BA8C8;
+  --primary-lt:   #1A3248;
+  --primary-dk:   #7FC5DF;
+  --accent:       #F0924A;
+  --accent-lt:    #2E1E0E;
+  --positive:     #4AAA82;
+  --positive-lt:  #152E24;
+  --warn:         #E07840;
+  --border:       #2C3E52;
+  --shadow:       rgba(0,0,0,0.3);
+}
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Malgun Gothic', system-ui, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.55;
+  font-size: 14.5px;
+}
+
+a { color: var(--primary); }
+
+/* ─── Header ─────────────────────────────── */
+header {
+  background: var(--primary);
+  color: #fff;
+  padding: 22px 0 20px;
+}
+
+.container { max-width: 980px; margin: 0 auto; padding: 0 20px; }
+
+.header-row {
+  display: flex;
+  align-items: flex-start;
+  gap: 14px;
+}
+
+.header-icon {
+  font-size: 26px;
+  line-height: 1;
+  margin-top: 3px;
+  flex-shrink: 0;
+}
+
+.header-text h1 {
+  font-size: 1.35rem;
+  font-weight: 800;
+  letter-spacing: -0.025em;
+  line-height: 1.15;
+}
+
+.header-text p {
+  font-size: 0.8rem;
+  opacity: 0.78;
+  margin-top: 5px;
+  max-width: 520px;
+  line-height: 1.45;
+}
+
+/* ─── Stat strip ──────────────────────────── */
+.stat-strip {
+  background: var(--surface);
+  border-bottom: 1px solid var(--border);
+  overflow-x: auto;
+}
+
+.stat-row {
+  display: flex;
+  min-width: 480px;
+}
+
+.stat {
+  flex: 1;
+  padding: 13px 18px;
+  border-right: 1px solid var(--border);
+}
+.stat:last-child { border-right: none; }
+
+.stat-num {
+  font-size: 1.55rem;
+  font-weight: 800;
+  letter-spacing: -0.03em;
+  font-variant-numeric: tabular-nums;
+  line-height: 1;
+}
+.stat-num.teal  { color: var(--primary); }
+.stat-num.amber { color: var(--accent); }
+.stat-num.green { color: var(--positive); }
+.stat-num.warn  { color: var(--warn); }
+
+.stat-label {
+  font-size: 0.7rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  color: var(--text-muted);
+  margin-top: 3px;
+}
+
+.stat-src {
+  font-size: 0.65rem;
+  color: var(--text-muted);
+  opacity: 0.65;
+  margin-top: 2px;
+}
+
+/* ─── Main split ──────────────────────────── */
+.split {
+  display: grid;
+  grid-template-columns: 280px 1fr;
+  gap: 20px;
+  padding: 22px 0 0;
+  align-items: start;
+}
+
+@media (max-width: 680px) {
+  .split { grid-template-columns: 1fr; }
+}
+
+/* ─── Panel card ──────────────────────────── */
+.panel {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 1px 5px var(--shadow);
+}
+
+.panel-head {
+  background: var(--surface-2);
+  border-bottom: 1px solid var(--border);
+  padding: 11px 16px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.panel-title {
+  font-size: 0.72rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.09em;
+  color: var(--text-muted);
+  flex: 1;
+}
+
+.panel-count {
+  font-size: 0.7rem;
+  font-weight: 700;
+  padding: 2px 8px;
+  background: var(--accent);
+  color: #fff;
+  border-radius: 99px;
+  display: none;
+}
+.panel-count.visible { display: inline-block; }
+
+.panel-body { padding: 14px; }
+
+/* ─── Barriers ────────────────────────────── */
+.barrier-list { display: flex; flex-direction: column; gap: 7px; }
+
+.barrier-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  padding: 10px 12px;
+  border: 1.5px solid var(--border);
+  border-radius: 8px;
+  cursor: pointer;
+  background: var(--bg);
+  transition: border-color 0.14s, background 0.14s;
+  user-select: none;
+}
+
+.barrier-item:hover { border-color: var(--primary); background: var(--primary-lt); }
+
+.barrier-item.active {
+  border-color: var(--accent);
+  background: var(--accent-lt);
+}
+
+.barrier-item input[type="checkbox"] {
+  margin-top: 2px;
+  width: 15px;
+  height: 15px;
+  flex-shrink: 0;
+  accent-color: var(--accent);
+  cursor: pointer;
+}
+
+.barrier-icon { font-size: 1rem; margin-top: 1px; flex-shrink: 0; }
+
+.barrier-info { flex: 1; }
+
+.barrier-name {
+  font-weight: 700;
+  font-size: 0.82rem;
+  line-height: 1.2;
+}
+
+.barrier-hint {
+  font-size: 0.72rem;
+  color: var(--text-muted);
+  margin-top: 2px;
+  line-height: 1.35;
+}
+
+.reset-btn {
+  width: 100%;
+  margin-top: 12px;
+  padding: 8px;
+  font-size: 0.75rem;
+  font-weight: 700;
+  color: var(--text-muted);
+  background: transparent;
+  border: 1px solid var(--border);
+  border-radius: 7px;
+  cursor: pointer;
+  transition: background 0.12s, color 0.12s;
+  letter-spacing: 0.04em;
+}
+.reset-btn:hover { background: var(--surface-2); color: var(--text); }
+
+/* ─── Strategy panel ──────────────────────── */
+.strategy-empty {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 40px 20px;
+  color: var(--text-muted);
+  text-align: center;
+  gap: 10px;
+}
+
+.strategy-empty-icon { font-size: 2.2rem; opacity: 0.4; }
+.strategy-empty-text { font-size: 0.82rem; line-height: 1.5; max-width: 240px; }
+
+.strategy-list { display: flex; flex-direction: column; gap: 12px; }
+
+.s-card {
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  overflow: hidden;
+  background: var(--bg);
+}
+
+.s-head {
+  display: flex;
+  align-items: center;
+  gap: 9px;
+  padding: 9px 13px;
+  background: var(--primary-lt);
+  border-bottom: 1px solid var(--border);
+}
+
+.s-icon { font-size: 1rem; }
+
+.s-title {
+  flex: 1;
+  font-weight: 800;
+  font-size: 0.83rem;
+  color: var(--primary);
+  line-height: 1.2;
+}
+
+.s-badge {
+  font-size: 0.62rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  padding: 2px 7px;
+  border-radius: 99px;
+  background: var(--primary);
+  color: #fff;
+  flex-shrink: 0;
+  max-width: 140px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.s-body { padding: 11px 13px; display: flex; flex-direction: column; gap: 7px; }
+
+.s-action { font-size: 0.83rem; line-height: 1.5; }
+
+.s-quote {
+  background: var(--surface);
+  border-left: 3px solid var(--positive);
+  padding: 7px 11px;
+  border-radius: 0 6px 6px 0;
+  font-size: 0.79rem;
+  color: var(--text-muted);
+  font-style: italic;
+  line-height: 1.45;
+}
+
+.s-evidence {
+  font-size: 0.68rem;
+  color: var(--text-muted);
+  opacity: 0.75;
+  line-height: 1.4;
+}
+
+/* ─── Cascade section ─────────────────────── */
+.cascade-section { padding: 22px 0 28px; }
+
+.section-label {
+  font-size: 0.72rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.09em;
+  color: var(--text-muted);
+  margin-bottom: 12px;
+}
+
+.cascade-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 22px 24px 18px;
+  box-shadow: 0 1px 5px var(--shadow);
+}
+
+.cascade-intro {
+  font-size: 0.82rem;
+  color: var(--text-muted);
+  margin-bottom: 24px;
+  max-width: 600px;
+  line-height: 1.5;
+}
+
+.cascade-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 0;
+  position: relative;
+}
+
+@media (max-width: 600px) {
+  .cascade-grid {
+    grid-template-columns: 1fr 1fr;
+    gap: 14px 10px;
+  }
+}
+
+.cascade-track {
+  position: absolute;
+  top: 28px;
+  left: 7%;
+  right: 7%;
+  height: 3px;
+  background: linear-gradient(90deg, var(--positive) 0%, #8DB83A 30%, var(--accent) 65%, #C04020 100%);
+  border-radius: 2px;
+}
+
+@media (max-width: 600px) { .cascade-track { display: none; } }
+
+.cascade-stage {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding: 0 6px;
+}
+
+.cascade-dot {
+  width: 56px;
+  height: 56px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.3rem;
+  border: 3px solid var(--surface);
+  box-shadow: 0 0 0 2px var(--border);
+  margin-bottom: 12px;
+  position: relative;
+}
+
+.cascade-dot.s0 { background: var(--positive); }
+.cascade-dot.s1 { background: #7DB830; }
+.cascade-dot.s2 { background: var(--accent); }
+.cascade-dot.s3 { background: #C04020; }
+
+.cascade-when {
+  font-size: 0.65rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--text-muted);
+  margin-bottom: 4px;
+}
+
+.cascade-procedure {
+  font-weight: 800;
+  font-size: 0.82rem;
+  line-height: 1.2;
+  margin-bottom: 5px;
+}
+
+.cascade-complexity {
+  display: flex;
+  gap: 2px;
+  margin: 5px auto 6px;
+  justify-content: center;
+}
+
+.complexity-bar {
+  width: 6px;
+  border-radius: 2px;
+}
+
+.cascade-desc {
+  font-size: 0.7rem;
+  color: var(--text-muted);
+  line-height: 1.4;
+}
+
+.cascade-note {
+  margin-top: 18px;
+  padding: 10px 14px;
+  background: var(--primary-lt);
+  border-radius: 7px;
+  font-size: 0.76rem;
+  color: var(--primary);
+  line-height: 1.5;
+}
+
+/* ─── Footer ──────────────────────────────── */
+footer {
+  background: var(--surface);
+  border-top: 1px solid var(--border);
+  padding: 18px 0;
+}
+
+.footer-label {
+  font-size: 0.68rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--text-muted);
+  margin-bottom: 10px;
+}
+
+.paper-chips { display: flex; flex-wrap: wrap; gap: 7px; }
+
+.paper-chip {
+  padding: 4px 11px;
+  background: var(--primary-lt);
+  border: 1px solid var(--border);
+  border-radius: 99px;
+  font-size: 0.68rem;
+  color: var(--primary);
+  font-weight: 700;
+  line-height: 1.3;
+}
+
+.disclaimer {
+  margin-top: 14px;
+  font-size: 0.68rem;
+  color: var(--text-muted);
+  opacity: 0.75;
+  line-height: 1.5;
+}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="container">
+    <div class="header-row">
+      <div class="header-icon">🦷</div>
+      <div class="header-text">
+        <h1>비보험 치료 상담 도우미</h1>
+        <p>환자 장벽을 선택하면 근거 기반 상담 전략을 바로 제시합니다. 위키에 인제스트된 논문 7편에서 추출.</p>
+      </div>
+    </div>
+  </div>
+</header>
+
+<div class="stat-strip">
+  <div class="container">
+    <div class="stat-row">
+      <div class="stat">
+        <div class="stat-num amber">55.4%</div>
+        <div class="stat-label">치과 이용 전 장벽 경험</div>
+        <div class="stat-src">Okyere Boadu 2025, Ghana n=130</div>
+      </div>
+      <div class="stat">
+        <div class="stat-num warn">40.2%</div>
+        <div class="stat-label">진료 중 커뮤니케이션 부족</div>
+        <div class="stat-src">독립 장벽 (비용과 별도 측정)</div>
+      </div>
+      <div class="stat">
+        <div class="stat-num green">85%</div>
+        <div class="stat-label">DSD 상담 후 치료 수락률</div>
+        <div class="stat-src">Qadiri 2026, prospective n=80</div>
+      </div>
+      <div class="stat">
+        <div class="stat-num teal">6.0%</div>
+        <div class="stat-label">미충족 치과 수요 유병률</div>
+        <div class="stat-src">Taylor 2022, US MEPS n=25,444</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<main>
+  <div class="container">
+    <div class="split">
+
+      <!-- Left: Barriers -->
+      <div class="panel">
+        <div class="panel-head">
+          <span class="panel-title">환자 장벽 선택</span>
+          <span class="panel-count" id="count"></span>
+        </div>
+        <div class="panel-body">
+          <div class="barrier-list" id="barrierList">
+
+            <label class="barrier-item" data-key="cost">
+              <input type="checkbox" value="cost">
+              <span class="barrier-icon">💰</span>
+              <div class="barrier-info">
+                <div class="barrier-name">비용 부담</div>
+                <div class="barrier-hint">"지금 돈이 없어요" / 치료비 강하게 우려</div>
+              </div>
+            </label>
+
+            <label class="barrier-item" data-key="value">
+              <input type="checkbox" value="value">
+              <span class="barrier-icon">❓</span>
+              <div class="barrier-info">
+                <div class="barrier-name">가치 불확신</div>
+                <div class="barrier-hint">"꼭 해야 하나요?" / 치료 필요성 납득 어려움</div>
+              </div>
+            </label>
+
+            <label class="barrier-item" data-key="info">
+              <input type="checkbox" value="info">
+              <span class="barrier-icon">🗣️</span>
+              <div class="barrier-info">
+                <div class="barrier-name">정보 이해 부족</div>
+                <div class="barrier-hint">치료 계획 파악 어려움 / 반복 질문</div>
+              </div>
+            </label>
+
+            <label class="barrier-item" data-key="delay">
+              <input type="checkbox" value="delay">
+              <span class="barrier-icon">⏰</span>
+              <div class="barrier-info">
+                <div class="barrier-name">치료 지연 의향</div>
+                <div class="barrier-hint">"나중에 할게요" / 당장 미루려 함</div>
+              </div>
+            </label>
+
+            <label class="barrier-item" data-key="anxiety">
+              <input type="checkbox" value="anxiety">
+              <span class="barrier-icon">😨</span>
+              <div class="barrier-info">
+                <div class="barrier-name">치과 불안</div>
+                <div class="barrier-hint">두려움·공포 표현 / 예약 취소 이력</div>
+              </div>
+            </label>
+
+            <label class="barrier-item" data-key="conflict">
+              <input type="checkbox" value="conflict">
+              <span class="barrier-icon">🔀</span>
+              <div class="barrier-info">
+                <div class="barrier-name">선택지 갈등</div>
+                <div class="barrier-hint">여러 옵션 사이에서 결정 못 함</div>
+              </div>
+            </label>
+
+          </div>
+          <button class="reset-btn" id="resetBtn">선택 초기화</button>
+        </div>
+      </div>
+
+      <!-- Right: Strategies -->
+      <div class="panel" style="min-height:300px">
+        <div class="panel-head">
+          <span class="panel-title">근거 기반 개입 전략</span>
+        </div>
+        <div class="panel-body" id="strategyPanel">
+          <div class="strategy-empty">
+            <div class="strategy-empty-icon">←</div>
+            <div class="strategy-empty-text">왼쪽에서 환자의 장벽을 하나 이상 선택하면<br>맞춤 상담 전략을 보여드립니다.</div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- Cascade section -->
+    <div class="cascade-section">
+      <div class="section-label">치료 지연의 임상적 비용 — 악순환 메커니즘</div>
+      <div class="cascade-card">
+        <p class="cascade-intro">
+          비용 장벽으로 치료를 미루면 병증이 진행되어 결국 더 복잡하고 비싼 치료가 필요해집니다.
+          환자가 "나중에"라고 할 때 이 흐름을 구체적으로 보여주면 효과적입니다.
+          <strong>(Okyere Boadu 2025 — 환자 직접 경험 기술)</strong>
+        </p>
+
+        <div class="cascade-grid">
+          <div class="cascade-track"></div>
+
+          <div class="cascade-stage">
+            <div class="cascade-dot s0">🦷</div>
+            <div class="cascade-when">지금 치료</div>
+            <div class="cascade-procedure">보존치료<br><small>(충전·크라운)</small></div>
+            <div class="cascade-complexity">
+              <div class="complexity-bar" style="height:12px;background:var(--positive)"></div>
+              <div class="complexity-bar" style="height:6px;background:var(--border)"></div>
+              <div class="complexity-bar" style="height:6px;background:var(--border)"></div>
+              <div class="complexity-bar" style="height:6px;background:var(--border)"></div>
+            </div>
+            <div class="cascade-desc">치아 보존<br>최소 침습</div>
+          </div>
+
+          <div class="cascade-stage">
+            <div class="cascade-dot s1">🔬</div>
+            <div class="cascade-when">3–6개월 지연</div>
+            <div class="cascade-procedure">신경치료<br><small>(근관치료)</small></div>
+            <div class="cascade-complexity">
+              <div class="complexity-bar" style="height:12px;background:#7DB830"></div>
+              <div class="complexity-bar" style="height:12px;background:#7DB830"></div>
+              <div class="complexity-bar" style="height:6px;background:var(--border)"></div>
+              <div class="complexity-bar" style="height:6px;background:var(--border)"></div>
+            </div>
+            <div class="cascade-desc">감염 진행<br>방문 횟수 ↑</div>
+          </div>
+
+          <div class="cascade-stage">
+            <div class="cascade-dot s2">⚠️</div>
+            <div class="cascade-when">6–12개월 지연</div>
+            <div class="cascade-procedure">발치<br><small>(치아 상실)</small></div>
+            <div class="cascade-complexity">
+              <div class="complexity-bar" style="height:12px;background:var(--accent)"></div>
+              <div class="complexity-bar" style="height:12px;background:var(--accent)"></div>
+              <div class="complexity-bar" style="height:12px;background:var(--accent)"></div>
+              <div class="complexity-bar" style="height:6px;background:var(--border)"></div>
+            </div>
+            <div class="cascade-desc">치아 영구 상실<br>주변치 영향</div>
+          </div>
+
+          <div class="cascade-stage">
+            <div class="cascade-dot s3">🏗️</div>
+            <div class="cascade-when">12개월+</div>
+            <div class="cascade-procedure">임플란트<br><small>(±골이식)</small></div>
+            <div class="cascade-complexity">
+              <div class="complexity-bar" style="height:12px;background:#C04020"></div>
+              <div class="complexity-bar" style="height:12px;background:#C04020"></div>
+              <div class="complexity-bar" style="height:12px;background:#C04020"></div>
+              <div class="complexity-bar" style="height:12px;background:#C04020"></div>
+            </div>
+            <div class="cascade-desc">골소실로 이식 필요<br>치료 기간 수개월</div>
+          </div>
+
+        </div>
+
+        <div class="cascade-note">
+          💬 <strong>상담 활용법:</strong> 지금 보존치료 비용이 부담스럽다면, 발치 후 임플란트+골이식까지의 전체 비용·기간과 비교해 드리세요. "지금 치료가 장기적으로는 가장 저렴합니다"는 메시지가 지연 의향을 낮춥니다.
+        </div>
+      </div>
+    </div>
+  </div>
+</main>
+
+<footer>
+  <div class="container">
+    <div class="footer-label">근거 논문 — 위키 인제스트 완료</div>
+    <div class="paper-chips">
+      <span class="paper-chip">Okyere Boadu 2025 (Ghana, PLoS ONE)</span>
+      <span class="paper-chip">Taylor 2022 (US MEPS, CDOE)</span>
+      <span class="paper-chip">Qadiri 2026 (DSD, Cureus)</span>
+      <span class="paper-chip">Touati 2021 (Scoping, JERD)</span>
+      <span class="paper-chip">Iyer 2025 (PDA RCT, Cureus)</span>
+      <span class="paper-chip">Hayer 2022 (SDM, BDJ)</span>
+      <span class="paper-chip">Elwyn 2025 (SDM Primer)</span>
+      <span class="paper-chip">Wittink 2018 (Health Literacy)</span>
+    </div>
+    <p class="disclaimer">이 인터랙티브는 위키에 인제스트된 논문 기반의 임상 참고 자료입니다. 개별 환자의 상황은 담당 의사의 임상적 판단이 우선합니다.</p>
+  </div>
+</footer>
+
+<script>
+const STRATEGIES = {
+  cost: [
+    {
+      icon: '💬',
+      title: '사전 비용 공개 (Cost Transparency First)',
+      badge: 'Okyere Boadu 2025',
+      action: '비용 투명성 부재는 독립적인 장벽(20.7%)입니다. 치료 설명 전에 총 예상 비용과 분납 옵션을 구조화해서 먼저 제시하세요.',
+      quote: '"오늘 치료비와 납부 방법부터 먼저 말씀드릴게요. 총 비용은 OOO원이고, 3개월 분납도 가능합니다."',
+      evidence: 'Okyere Boadu 2025 — 비용 투명성 부재 20.7%, 커뮤니케이션 부족 40.2% 독립 장벽으로 측정됨'
+    },
+    {
+      icon: '📊',
+      title: '지연 비용 비교 제시',
+      badge: 'Okyere Boadu 2025',
+      action: '"지금 치료 vs 6개월 후 더 심해졌을 때"의 치료 복잡도와 비용 차이를 구체적으로 설명하세요. 아래 악순환 도식을 활용하세요.',
+      quote: '"지금 크라운으로 해결되는 게, 6개월 후엔 신경치료까지 필요할 수 있어요. 그러면 비용이 더 올라갑니다."',
+      evidence: 'Okyere Boadu 2025 — 지연→악화→고비용 악순환을 환자 경험 기반으로 질적 실증'
+    }
+  ],
+  value: [
+    {
+      icon: '🖥️',
+      title: '시각화 도구 사용 (DSD / 목업)',
+      badge: 'Qadiri 2026 · Touati 2021',
+      action: 'DSD, 목업, 전후 비교 사진 등 시각 자료를 사용하세요. 비용 이해도까지 유의하게 상승합니다(p<0.001). 시각화 도구 중 비용 투명성이 가장 크게 향상됩니다.',
+      quote: '"치료 후 예상 모습을 미리 보여드릴게요. 지금과 어떻게 달라질지 직접 확인하실 수 있습니다."',
+      evidence: 'Qadiri 2026 — DSD 후 비용 이해도 유의 상승(p<0.001), 치료 수락률 85%; Touati 2021 — 모든 시각적 도구가 수락에 긍정'
+    },
+    {
+      icon: '🎯',
+      title: '환자 가치관과 연결',
+      badge: 'Elwyn 2025',
+      action: '"어떤 게 가장 중요하세요?"로 시작해서 치료 이점을 환자의 우선순위(심미·기능·자신감·내구성)와 직접 연결하세요.',
+      quote: '"씹는 데 불편하다고 하셨는데, 이 치료를 하면 그 부분이 해결됩니다. 그게 제일 중요하셨죠?"',
+      evidence: 'Elwyn 2025 — SDM primer: 환자 가치관·선호 먼저 탐색이 치료 결정 핵심'
+    }
+  ],
+  info: [
+    {
+      icon: '🗣️',
+      title: '전문용어 없이 평어로 설명',
+      badge: 'Ho 2025 · Okyere Boadu 2025',
+      action: '의학·치과 전문용어를 일상 언어로 바꾸세요. 불명확한 설명은 불만족→치료 회피로 이어집니다.',
+      quote: '"임플란트는 빠진 치아 자리에 티타늄 뿌리를 심고, 그 위에 인공 치아를 붙이는 거예요. 평생 쓸 수 있는 치아를 만드는 것입니다."',
+      evidence: 'Ho 2025 — jargon-free 설명이 핵심 전략; Okyere Boadu 2025 — 불명확한 설명이 dissatisfaction 유발'
+    },
+    {
+      icon: '✅',
+      title: '방문당 3핵심 + Teach-back',
+      badge: 'Wittink 2018',
+      action: '한 번 방문에서 핵심 메시지를 3개 이상 전달하지 마세요. 마지막에 teach-back으로 이해도를 확인하세요.',
+      quote: '"오늘 가장 중요한 건 딱 세 가지예요. ①②③. 이 중 제일 기억나는 게 뭐예요?"',
+      evidence: 'Wittink 2018 — 방문당 3핵심·teach-back이 보편적 건강문해력 예방조치'
+    }
+  ],
+  delay: [
+    {
+      icon: '⚠️',
+      title: '악순환 흐름 설명 (Cascade)',
+      badge: 'Okyere Boadu 2025',
+      action: '지연이 어떻게 더 복잡한 치료로 이어지는지 단계별로 설명하세요. 아래 도식을 함께 보여주면 효과적입니다.',
+      quote: '"지금 신경치료까지만 하면 되는데, 더 기다리시면 발치 후 임플란트까지 필요해질 수 있어요. 오히려 비용이 더 올라갑니다."',
+      evidence: 'Okyere Boadu 2025 — 지연→악화→고비용 악순환, 환자가 직접 경험으로 기술'
+    },
+    {
+      icon: '📅',
+      title: '단계적 치료 계획 제안',
+      badge: '임상 적용',
+      action: '전체 치료를 한 번에 요구하지 말고, 우선순위를 정해 가장 급한 것부터 시작점을 만들어 주세요.',
+      quote: '"전부 다 한 번에 안 하셔도 됩니다. 가장 급한 OO부터 먼저 하고, 나머지는 순서 정해서 나눠서 해요."',
+      evidence: '비용 장벽 완화 + 치료 시작 진입 장벽 낮추기 (비용 분산 효과)'
+    }
+  ],
+  anxiety: [
+    {
+      icon: '🤝',
+      title: '불안 먼저 스크리닝',
+      badge: 'Okyere Boadu 2025',
+      action: '비용 얘기 전에 불안을 먼저 확인하세요. 불안이 비용 거절의 실제 이유일 수 있습니다(77%). 비용 설명보다 신뢰 형성이 먼저입니다.',
+      quote: '"치과에서 불안하거나 무서운 게 있으시면 편하게 말씀해 주세요. 치료 전에 다 확인하고 싶어요."',
+      evidence: 'Okyere Boadu 2025 — 치과 불안 77%; 불안은 비용 거절과 복합적으로 작용 (비용이 표면 이유일 수 있음)'
+    },
+    {
+      icon: '🎵',
+      title: 'Tell-Show-Do + 비약물 불안 관리',
+      badge: 'Cristea 2026',
+      action: '먼저 말로 설명하고, 기구를 보여주고, 천천히 진행하세요. 음악·분산 주의·이완 기법을 병행하세요.',
+      quote: '"이 기구가 뭐하는 건지 먼저 보여드릴게요. 준비되면 말씀해 주세요. 시작합니다."',
+      evidence: 'Cristea 2026 — Tell-Show-Do·VR distraction 등 비약물 불안 관리 근거 있음'
+    }
+  ],
+  conflict: [
+    {
+      icon: '📋',
+      title: '환자 의사결정 보조도구 (PDA) 제공',
+      badge: 'Iyer 2025',
+      action: '옵션 비교표(장단점, 비용, 수명, 유지 관리)를 서면으로 제공하세요. 결정갈등 점수(DCS)가 대폭 줄어듭니다.',
+      quote: '"두 가지 옵션을 비교한 표를 드릴게요. 집에서 보시고 다음 번에 결정하셔도 됩니다. 오늘 당장 결정 안 하셔도 돼요."',
+      evidence: 'Iyer 2025 — PDA 사용 시 DCS 8.0 vs 비사용 20.6(p<0.001); 정보 제공이 치료 선택 자체를 바꿈'
+    },
+    {
+      icon: '💭',
+      title: 'SDM — 가치관 먼저 탐색',
+      badge: 'Elwyn 2025 · Hayer 2022',
+      action: '옵션을 나열하기 전에 "어떤 게 가장 중요하세요?"로 시작하세요. 환자의 우선순위가 결정을 단순화합니다.',
+      quote: '"두 가지 다 좋은 선택인데요. 어떤 게 더 중요하세요? 비용? 얼마나 오래 가는지? 아니면 보이는 모습?"',
+      evidence: 'Elwyn 2025 + Hayer 2022 — SDM = 환자 가치관 탐색 → 공동 결정; informed consent와의 혼동 경계'
+    }
+  ]
+};
+
+const barrierList = document.getElementById('barrierList');
+const strategyPanel = document.getElementById('strategyPanel');
+const countEl = document.getElementById('count');
+const resetBtn = document.getElementById('resetBtn');
+
+function getSelected() {
+  return [...barrierList.querySelectorAll('input:checked')].map(i => i.value);
+}
+
+function buildStrategyCard(s) {
+  return `
+    <div class="s-card">
+      <div class="s-head">
+        <span class="s-icon">${s.icon}</span>
+        <span class="s-title">${s.title}</span>
+        <span class="s-badge" title="${s.badge}">${s.badge}</span>
+      </div>
+      <div class="s-body">
+        <div class="s-action">${s.action}</div>
+        <div class="s-quote">${s.quote}</div>
+        <div class="s-evidence">📎 ${s.evidence}</div>
+      </div>
+    </div>
+  `;
+}
+
+function render() {
+  const selected = getSelected();
+  const count = selected.length;
+
+  // Update count badge
+  if (count > 0) {
+    countEl.textContent = count + '개 장벽';
+    countEl.classList.add('visible');
+  } else {
+    countEl.classList.remove('visible');
+  }
+
+  // Update barrier item styles
+  barrierList.querySelectorAll('.barrier-item').forEach(item => {
+    const key = item.dataset.key;
+    const cb = item.querySelector('input');
+    item.classList.toggle('active', cb.checked);
+  });
+
+  // Build strategies
+  if (selected.length === 0) {
+    strategyPanel.innerHTML = `
+      <div class="strategy-empty">
+        <div class="strategy-empty-icon">←</div>
+        <div class="strategy-empty-text">왼쪽에서 환자의 장벽을 하나 이상 선택하면<br>맞춤 상담 전략을 보여드립니다.</div>
+      </div>`;
+    return;
+  }
+
+  // Deduplicate and order
+  const cards = [];
+  selected.forEach(key => {
+    (STRATEGIES[key] || []).forEach(s => cards.push(s));
+  });
+
+  strategyPanel.innerHTML = `<div class="strategy-list">${cards.map(buildStrategyCard).join('')}</div>`;
+}
+
+barrierList.addEventListener('change', render);
+
+resetBtn.addEventListener('click', () => {
+  barrierList.querySelectorAll('input').forEach(cb => { cb.checked = false; });
+  render();
+});
+
+// init
+render();
+</script>
+
+</body>
+</html>
