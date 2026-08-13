@@ -2329,6 +2329,10 @@ tags: []
 - [[behavioral-dentistry/communication-relationship/otero-2022-informed-consent-dentistry-medicine-spain]] — Otero 2022 · narrative-review(PMC full text) · 스페인 IC 법리 + ICD 가독성(INFLESZ); IC는 '과정'(서명은 마지막 고리)·부실 IC 유죄가 과실보다 많음·전 ICD 가독성 임계 미달
 - [[behavioral-dentistry/communication-relationship/berkman-2011-low-health-literacy-health-outcomes]] — Berkman 2011 · sr(AHRQ, 96편) · 낮은 건강문해력 → 입원·응급실↑·검진/복약↓·노인 사망률↑; 구강 건강문해력 근거는 공백
 - [[behavioral-dentistry/communication-relationship/wittink-2018-patient-education-health-literacy]] — Wittink 2018 · narrative-review(초록기반) · 보편적 건강문해력 예방조치(jargon 회피·작은 단계·방문당 3핵심·teach-back·≤6학년 인쇄물·시각자료)
+- [[behavioral-dentistry/communication-relationship/touati-2021-communication-tools-patient-satisfaction-scoping]] — Touati 2021 · sr(스코핑, 10편) · 심미 치과 커뮤니케이션 도구(구두·시각·디지털) 모두 환자 만족·치료 수락·SDM에 긍정 — 표준화 도구 부재가 연구 비교를 막음
+- [[behavioral-dentistry/communication-relationship/qadiri-2026-digital-smile-design-patient-satisfaction-treatment]] — Qadiri 2026 · prospective(n=80) · DSD 상담 후 이해도 2.9→4.4, 시각화 능력 2.5→4.8(p<0.001), 치료 수락률 85%; 비용 이해도도 유의 상승
+- [[behavioral-dentistry/communication-relationship/hayer-2022-gdp-perceptions-shared-decision-making-qualitative]] — Hayer 2022 · qualitative(n=9 영국 GDP) · SDM이 informed consent와 혼동됨; 장벽 3개: 소통 습관·소송 두려움·NHS 시간 압박 — 표준화 의사결정 도구 필요
+- [[behavioral-dentistry/communication-relationship/iyer-2025-aided-unaided-decision-making-partial-denture]] — Iyer 2025 · rct(n=76) · 부분의치 선택 PDA사용군 DCS 8.0 vs 비사용군 20.6(p<0.001); PDA군 71.1% 고정성 선택 — 정보 제공이 치료 선택을 바꿈
 
 #### patient-reported-outcomes
 - [[behavioral-dentistry/patient-reported-outcomes/dogramaci-2023-patient-related-outcomes-ohrqol-endodontics]] — Doğramacı 2023 · review · endo PCO/PRO·PROM/PREM 정의(ESE S3); OHRQoL 개선되나 측정도구 미검증
@@ -3682,6 +3686,7 @@ tags: []
 - [[dental-handpiece/allison-2024-bioaerosols-airborne-transmission-dental-clinic]] — Allison 2024 · narrative-review · 치과 생물학적 에어로졸·공기전파: 에어터빈이 조용한 호흡 대비 세균 CFU ~1000배 분산, <5 µm 비말/공기감염 이분법 무효(100 µm 입자 >2 m 이동); 3단계 관리(생성저감·미생물부하저감·포집)+PPE 효과크기(러버댐 1 m에서 99%↓·HVE 80–90%↓·LEV 89–93%↓) (DOI 10.1016/j.identj.2024.09.026)
 - [[dental-handpiece/ghoneim-2024-aerosol-generating-procedures-control-mitigation]] — Ghoneim 2024 · consensus · CDHA/ADHA AGP 통제 입장문(78편): PPE(고글+마스크+안면보호대)·HVE/LVE/타액흡입기/러버댐·환기+여과가 에어로졸 확산 저감; 구강세정제는 세균 저감하나 SARS-CoV-2엔 제한적 (PMID 38505316)
 - [[dental-handpiece/sharma-2014-selection-usage-disposal-dental-burs]] — Sharma 2014 · cross-sectional(개원의 131명) · 다이아몬드 bur 선호 75% > 텅스텐카바이드 15%; 마모까지 재사용 85%, 효율저하 인지 33% — bur 종류별 선택 임상현실 (DOI 10.7860/JCDR/2014/5916.3946)
+- [[dental-handpiece/peters-2019-cutting-efficiency-burs-zirconia]] — Peters 2019 · in-vitro(소결 지르코니아·에어터빈·커스텀 테스트리그, 버 4종) · 다이아몬드 버 3종 전부 텅스텐카바이드 버보다 절삭효율 우위; 전 버 시간 경과 시 효율저하·SEM 마모 확인 — 지르코니아 기공 시 카바이드 버 비효율 근거 (DOI 10.1111/aej.12350)
 - [[dental-handpiece/esteves-oliveira-2025-laser-assisted-caries-removal-meta-analysis]] — Esteves-Oliveira 2025 · sr+ma(생체 RCT 20편, 치아 ≥2263개) · 레이저 우식제거 = bur 수복생존(RR 1.51)·치수생활력(RR 1.46) 동등, 마취필요(RR 0.29)·통증(RR 0.35)↓, 시술시간↑(MD +2.23); 근거 낮음~매우낮음 (DOI 10.1016/j.jdent.2025.105697)
 - [[overviews/dental-handpiece-bur-selection-overview]] — **NEW Overview**: 용도별 핸드피스·bur 선택 종합 (4편→5편). 회전절삭 선택 3축(핸드피스 종류·bur 종류·레이저 대안)+흡입; 보유근거는 에어로졸/노출·레이저-vs-bur 동등성에 강하고 절삭효율·발열·엔진기전은 근거공백 명시 (2026-06-25)
 - [[dental-handpiece/piela-2022-aerosol-reduction-efficacy-different]] — Piela 2022 · in-vitro (마네킹 벤치) · 무흡인 시 하이스피드 핸드피스가 초음파 스케일러보다 입자 3.4배 발생, 능동추종형 고용량흡인(HVE/Purevac)만 배경수준까지 저감(고정형 DryShield/ReLeaf·저용량흡인은 간헐적 스파이크) (DOI 10.1186/s12903-022-02386-w)
