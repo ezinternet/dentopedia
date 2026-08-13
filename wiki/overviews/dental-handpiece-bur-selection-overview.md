@@ -11,7 +11,8 @@ source_papers:
   - wiki/dental-handpiece/esteves-oliveira-2025-laser-assisted-caries-removal-meta-analysis.md
   - wiki/dental-handpiece/sharma-2014-selection-usage-disposal-dental-burs.md
   - wiki/dental-handpiece/peters-2019-cutting-efficiency-burs-zirconia.md
-tags: [dental-handpiece, air-turbine, high-speed, low-speed, dental-bur, diamond-bur, tungsten-carbide, erbium-laser, aerosol, instrument-selection, zirconia, cutting-efficiency]
+  - wiki/dental-handpiece/ercoli-2009-cutting-efficiency-temperature-rotary-electric.md
+tags: [dental-handpiece, air-turbine, high-speed, low-speed, dental-bur, diamond-bur, tungsten-carbide, erbium-laser, aerosol, instrument-selection, zirconia, cutting-efficiency, electric-handpiece, torque, temperature]
 ---
 
 > [!summary] 한국어 핵심요약
@@ -25,7 +26,7 @@ tags: [dental-handpiece, air-turbine, high-speed, low-speed, dental-bur, diamond
 > - **레이저 임상 결과(신규 보강, Esteves-Oliveira 2025 MA 20편)**: 레이저 우식 제거는 **수복물 생존 (RR 1.51, 비유의)·치수생활력 (RR 1.46, 비유의) 이 bur와 동등**, **마취 필요 (RR 0.29)·통증 (RR 0.35) 은 유의하게 감소**, 단 **시술 시간은 유의하게 증가 (MD +2.23)** — 근거수준 낮음~매우낮음. 즉 레이저는 결과 우월이 아닌 *환자 편의 vs 의자시간*의 적응증 선택.
 > - **레이저 사용 시 접착 주의**: 레이저 형성면(콜라겐 융합·smear layer 없음)은 자가부식 접착제 침투를 방해 → **산부식 추가 시 자가부식 접착제 봉쇄 유의 개선** (RR=2.69), 단 etch-and-rinse엔 비유의 (Zhang).
 > - **bur 재사용·멸균 현실**: 임상의 85%가 마모될 때까지 재사용하고 효율저하 인지는 33%에 불과 — 절삭효율 저하·교차감염 관리 측면의 실무 격차 (Sharma, 초록만).
-> - **남은 근거 공백 (Rule #1 정직성)**: "전동 하이스피드 vs 에어터빈의 절삭효율·토크·발열", "핸드피스 엔진 기전"의 핵심 논문(Ercoli 2009, Pegg 2019)은 여전히 **위키 미보유**. (지르코니아 버 절삭효율 공백은 Peters 2019 인제스트로 부분 메움 — 2026-08-13 abstract-only; 전문 확보 시 정량 수치 보강 예정.)
+> - **남은 근거 공백 (Rule #1 정직성)**: "핸드피스 엔진 기전" 논문(Pegg 2019)은 여전히 **위키 미보유**. (전동 vs 에어터빈 절삭효율 공백 — Ercoli 2009 인제스트로 부분 메움; 지르코니아 버 절삭효율 공백 — Peters 2019 인제스트로 부분 메움. 두 논문 모두 abstract-only; 전문 확보 시 정량 수치 보강 예정.)
 
 ## Three-line Summary
 
@@ -33,7 +34,7 @@ Synthesis of 5 papers framing dental rotary-cutting-instrument selection across 
 
 On the laser-vs-bur axis, Er,Cr:YSGG cavity preparation is equivalent to bur for microleakage (Zhang 2020 SR+MA, no significant difference); erbium-laser caries removal matches bur on restoration survival (RR 1.51 NS) and pulp vitality (RR 1.46 NS) but significantly reduces anesthesia need (RR 0.29) and pain (RR 0.35) at the cost of longer procedure time (MD +2.23 min) across 20 in-vivo RCTs (Esteves-Oliveira 2025 SR+MA; GRADE low/very-low); acid-etching after laser prep improves self-etch adhesive sealing (RR=2.69) but not etch-and-rinse.
 
-Clinical bottom line: laser is a patient-comfort/anesthesia-reduction option, not a microleakage or survival superiority device — choose it for anxious patients or those preferring reduced anesthesia, not for efficiency; on the bur-type axis, diamond burs are now bench-confirmed superior to carbide for zirconia cutting (Peters 2019 in-vitro, abstract-only); cutting-efficiency/torque/heat evidence for handpiece type selection (electric vs air turbine) remains an explicit evidence gap (key papers not held).
+Clinical bottom line: laser is a patient-comfort/anesthesia-reduction option, not a microleakage or survival superiority device; on the bur-type axis, the substrate × handpiece interaction is now bench-documented — diamond outperforms carbide on zirconia (Peters 2019), but carbide outperforms diamond on glass-ceramic with electric handpiece (Ercoli 2009); electric handpiece is overall more efficient and cooler than air-turbine; handpiece engine mechanics (Pegg 2019) remains the sole unquantified gap in this corpus.
 
 ## 세줄요약
 
@@ -41,11 +42,11 @@ Clinical bottom line: laser is a patient-comfort/anesthesia-reduction option, no
 
 레이저 vs bur 축 — Er,Cr:YSGG 와동형성은 bur와 미세누출 동등(Zhang 2020 SR+MA); 레이저 우식 제거는 수복물 생존·치수생활력 bur와 동등이나 마취 필요(RR 0.29)·통증(RR 0.35) 유의 감소, 단 시술 시간 증가(MD +2.23분)(Esteves-Oliveira 2025 SR+MA); 레이저 형성면은 자가부식 접착제에 산부식 추가 필요(RR=2.69).
 
-임상 결론: 레이저는 환자 편의·마취 절감 도구, 결과 우월이 아님; 불안 환자·마취 기피에 적응; 지르코니아 기공 시 다이아몬드 버 우위는 인비트로 근거 확보(Peters 2019); 핸드피스 종류(에어터빈 vs 전동)의 절삭효율·발열 근거는 여전히 공백.
+임상 결론: 레이저는 환자 편의·마취 절감 도구; 버 선택은 **기질×핸드피스 상호작용** — 지르코니아는 항상 다이아몬드 우위(Peters 2019), 비지르코니아 기질에서 전동 핸드피스 사용 시 카바이드 우위 가능성(Ercoli 2009); 전동 핸드피스 전체 절삭효율 에어터빈 대비 높고 치수강 온도 낮음; 핸드피스 엔진 기전(Pegg 2019)만 공백 잔존.
 
 ## Thesis
 
-Choosing a dental cutting setup is not one decision but three linked ones — **which handpiece, which bur, and whether a non-rotary alternative (erbium laser) is warranted**. Six papers the wiki now holds illuminate the *exposure/safety*, *adhesion*, and (partially) the *bur-material matching* dimensions robustly. The *cutting-efficiency, torque, and pulpal-heat* dimension for handpiece type (electric vs air turbine) remains the core gap. For bur type, the gap is partially filled: on sintered zirconia, in-vitro bench evidence (Peters 2019) confirms diamond burs significantly outperform tungsten carbide — carbide is "rather ineffective" against zirconia. General diamond-vs-carbide efficiency on enamel and dentin remains unquantified by held papers. This overview gives a defensible decision scaffold grounded in held evidence, marking remaining efficiency/heat branches as explicit gaps (Rule #1).
+Choosing a dental cutting setup is not one decision but three linked ones — **which handpiece, which bur, and whether a non-rotary alternative (erbium laser) is warranted**. Seven papers the wiki now holds illuminate the *exposure/safety*, *adhesion*, *bur-material matching*, and *handpiece-type cutting efficiency* dimensions. Two key bench studies fill the previously explicit gaps: Ercoli 2009 (Part II) provides the electric-vs-air-turbine cutting efficiency and temperature comparison (electric handpiece superior overall; carbide bur outperforms diamond with electric on Macor substrate); Peters 2019 confirms diamond superiority over carbide on sintered zirconia. Together these reveal a critical interaction: **bur-type superiority is substrate- and handpiece-dependent** — diamond always wins on zirconia; carbide may win on non-zirconia substrates with electric handpiece; both findings are abstract-only with glass-ceramic (not natural tooth) as substrate. Handpiece engine mechanics (Pegg 2019) remains the sole explicit gap.
 
 ## Evidence Map
 
@@ -57,18 +58,22 @@ Choosing a dental cutting setup is not one decision but three linked ones — **
 | [[dental-handpiece/esteves-oliveira-2025-laser-assisted-caries-removal-meta-analysis]] | SR+MA | 20 in-vivo RCTs, ≥2263 teeth | Laser vs bur (clinical) | **Survival (RR 1.51) & pulp vitality (RR 1.46) = NS** vs bur; **anesthesia need (RR 0.29) & pain (RR 0.35) ↓**; **excavation time ↑ (MD +2.23)**; low/very-low GRADE | sr+ma |
 | [[dental-handpiece/sharma-2014-selection-usage-disposal-dental-burs]] | Cross-sectional survey | 131 practitioners | Bur type | Diamond preferred 75% > tungsten carbide 15%; 85% reuse until worn; only 33% aware efficiency declines; coarseness color-coded (green/black→yellow) | cross-sectional |
 | [[dental-handpiece/peters-2019-cutting-efficiency-burs-zirconia]] | In-vitro (custom test rig, air turbine) | 4 bur types, sintered zirconia | Bur type × substrate | **All diamond burs > tungsten carbide for zirconia cutting efficiency**; all burs show efficiency decay over two 5-min runs; SEM confirms wear; carbide "rather ineffective" | in-vitro (abstract-only) |
+| [[dental-handpiece/ercoli-2009-cutting-efficiency-temperature-rotary-electric]] | In-vitro (Macor substrate) | 10 groups × n=30, 300 cuts | Handpiece type + bur type | **Electric handpiece > air-turbine overall** (higher advancement 0.12 vs 0.11 mm/s, lower temp 26.68 vs 28.37°C); **carbide (Great White Ultra) > all 9 diamonds with electric** (0.17 mm/s, lowest load); significant handpiece × bur interaction | in-vitro (abstract-only) |
 
 ## Clinical Decision Points
 
 **1. Which handpiece? (cutting power vs aerosol/exposure)**
 - *Held evidence (exposure axis):* air turbine generates the most — and the finest, most respirable (<1 μm) — aerosol; the **electric high-speed handpiece is the lower-aerosol substitute** when a rubber dam is impossible (Lahdentausta). Low-speed handpieces shift the distribution to coarser (>5 μm) particles and, for silicone-rubber polishing, the highest raw particle count (Matys, Lahdentausta).
-- *Gap (efficiency/heat axis):* relative cutting efficiency, torque, and pulp-chamber temperature of electric high-speed vs air turbine — and the engine mechanics of each — are **not represented in held papers** (Ercoli 2009, Pegg 2019; paywalled). Do not infer efficiency rankings from the aerosol data.
+- *Held evidence (efficiency/heat axis — Ercoli 2009, abstract-only):* **electric handpiece outperforms air-turbine overall** — higher mean advancement (0.12 vs 0.11 mm/s), lower pulp-chamber temperature (26.68°C vs 28.37°C), higher load; all tested burs showed temperature reduction vs baseline with electric. Greater and more constant torque is the proposed mechanism.
+- *Remaining gap:* handpiece engine mechanics (air-driven turbine vs electric micromotor design, torque delivery, maintenance) — Pegg 2019 not held.
 
 **2. Which bur? (material-matched role)**
 - *Held evidence — clinician preference:* diamond burs (75%) dominate over carbide (15%); 85% reuse until worn; only 33% recognise efficiency decline (Sharma 2014).
 - *Held evidence — zirconia substrate (Peters 2019 in-vitro, abstract-only):* **all three diamond bur types cut sintered zirconia significantly more efficiently than tungsten carbide**; zirconia-specific diamond burs show better durability than conventional blue-band diamond; carbide burs described as "rather ineffective" against zirconia. Cutting efficiency decays for all bur types within a single 5-minute run.
 - *Clinical implication:* for endodontic access through zirconia crowns or implant abutments, use a **zirconia-specific diamond bur** (not carbide, not conventional blue-band diamond); replace before significant efficiency decay sets in.
-- *Remaining gap:* diamond vs carbide efficiency on enamel, dentin, or amalgam — no held bench data. Conventional teaching (carbide for dentin/margins; diamond for enamel/ceramic/zirconia) is clinically established but unquantified in this corpus.
+- *Held evidence — non-zirconia substrate with electric handpiece (Ercoli 2009, abstract-only):* **carbide bur (Great White Ultra) outperformed all nine diamond burs** on Macor glass-ceramic substrate with electric handpiece (0.17 mm/s, lowest load). Handpiece × bur interaction is statistically significant — the superior bur type differs by handpiece.
+- *Combined clinical rule*: zirconia → always diamond (Peters 2019); non-zirconia with electric → carbide may outperform diamond; substrate identity (Macor ≠ natural tooth) limits direct extrapolation.
+- *Remaining gap:* diamond vs carbide on enamel, dentin, or amalgam with either handpiece type — no held natural-tooth bench data.
 
 **3. Rotary bur vs erbium laser? (comfort/indication, not seal)**
 - *Held evidence (seal):* for cavity preparation, **Er,Cr:YSGG laser and bur give equivalent restoration microleakage** (Zhang SR+MA). If a laser is used, **add acid etching with self-etch adhesives** to recover the seal (RR=2.69); etch-and-rinse gains nothing (Zhang). Erbium lasers also produce the least aerosol of the cutting modalities tested (Matys).
@@ -79,9 +84,10 @@ Choosing a dental cutting setup is not one decision but three linked ones — **
 
 ## Gaps & Future Research
 
-- **Cutting efficiency & pulpal heat by handpiece type** (electric high-speed vs air turbine) — absent from held papers (Ercoli 2009 Part II paywalled). Highest-priority ingest if PDF becomes available.
-- **Diamond vs carbide on enamel/dentin/amalgam substrates** — Peters 2019 covers zirconia only; other substrate comparisons unquantified in held papers.
-- *Filled 2026-08-13 (abstract-only):* zirconia-substrate bur cutting efficiency now partially held — Peters 2019 confirms diamond > carbide on sintered zirconia. Full quantitative data (effect sizes, raw metrics) pending full-text acquisition.
+- **Diamond vs carbide on natural tooth substrates (enamel/dentin)** — Ercoli 2009 uses Macor (glass-ceramic), Peters 2019 uses sintered zirconia; neither replicates natural tooth cutting. Substrate-matched bench data absent.
+- **Handpiece engine mechanics** (air-driven turbine vs electric micromotor design, torque delivery, maintenance) — Pegg 2019 not held.
+- *Filled 2026-08-13 (abstract-only):* electric vs air-turbine cutting efficiency + temperature now held — Ercoli 2009: electric superior overall; carbide outperforms diamond with electric on Macor. Full quantitative per-instrument data pending full-text.
+- *Filled 2026-08-13 (abstract-only):* zirconia-substrate bur cutting efficiency now held — Peters 2019: diamond > carbide on sintered zirconia. Full quantitative data pending full-text.
 - **Handpiece engine mechanics** (air-driven turbine vs electric micromotor, torque, maintenance) — Pegg 2019 not held.
 - *Filled 2026-06-25:* clinical laser-vs-bur caries-removal outcomes now held (Esteves-Oliveira 2025 — survival/vitality NS, anesthesia/pain reduced, speed slower), though at low/very-low GRADE certainty.
 - All held aerosol evidence is particle-count surrogate — none assayed microbial/viral content or infectivity.
@@ -95,3 +101,4 @@ Choosing a dental cutting setup is not one decision but three linked ones — **
 - [[dental-handpiece/esteves-oliveira-2025-laser-assisted-caries-removal-meta-analysis]] — laser-vs-bur clinical outcomes (survival/vitality NS, anesthesia/pain ↓, time ↑).
 - [[dental-handpiece/sharma-2014-selection-usage-disposal-dental-burs]] — clinician bur-type selection behavior (diamond vs carbide).
 - [[dental-handpiece/peters-2019-cutting-efficiency-burs-zirconia]] — in-vitro bench evidence: diamond > carbide on sintered zirconia cutting efficiency; zirconia-specific diamond burs most durable.
+- [[dental-handpiece/ercoli-2009-cutting-efficiency-temperature-rotary-electric]] — in-vitro bench evidence: electric handpiece > air-turbine overall; carbide > all diamonds with electric on Macor; significant handpiece × bur interaction.
