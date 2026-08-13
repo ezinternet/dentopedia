@@ -82,7 +82,27 @@ agenda에서 파생된 산출물(slides·interactive·overview)은 자신의 fro
 
 Deploy order (in `deploy-pages.yml`): `build-wiki-stats.py` → `build-interactives-index.py` (so the live tool is indexed) → `interactive-staleness.py` (non-blocking) → copy `interactives/` into the site.
 
-## 7. Overviews domain map (auto-generated — do NOT hand-edit)
+## 7. Interactive HTML 디자인 규칙 (항상 적용)
+
+**라이트 고정 — OS 다크 모드 무시.** 임상 인터랙티브는 환경에 관계없이 항상 라이트로 렌더링한다.
+
+```css
+/* ✅ 올바른 구조 — :root 라이트 토큰만, 다크 블록 없음 */
+:root {
+  --bg: #F2F3EF;
+  --surface: #FFFFFF;
+  --text: #1A2030;
+  /* … 나머지 라이트 토큰 */
+}
+
+/* ❌ 금지 — 이 블록들을 절대 넣지 말 것 */
+/* @media (prefers-color-scheme: dark) { … }  */
+/* :root[data-theme="dark"] { … }             */
+```
+
+`artifact-design` 스킬의 3-state 다크 모드 패턴은 이 규칙에 의해 override된다. 위반 시 즉시 해당 블록 제거.
+
+## 8. Overviews domain map (auto-generated — do NOT hand-edit)
 
 `interactives/overviews-map.html` is the at-a-glance browser for all `wiki/overviews/` pages, grouped by clinical domain (search + expand/collapse, titles link to each page). It is **auto-generated** by `scripts/build-overviews-map.py` from each overview's frontmatter (`title`/`date`); the deploy workflow regenerates it on every push to `wiki/**`, and the homepage `wiki/index.md` embeds it via `<iframe>`. The iframe src uses the full absolute `PUBLISH_BASE` URL (Quartz `CrawlLinks` rewrites root-relative/`.html` srcs, so the iframe and the interactives-index link both need the full `{PUBLISH_BASE}/...` URL).
 
