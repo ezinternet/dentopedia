@@ -29,6 +29,8 @@ tags: [behavioral-dentistry, patient-communication, motivational-interviewing, p
 > - (신규 2026-06) 공유의사결정(Shared Decision-Making, SDM)은 치과(Asa'ad 2019)·교정(Barber 2019)에서 단계·장벽·환자 의사결정보조도구(Patient Decision Aid, PDA) 공백이 정리됨 — SDM의 법적 뼈대는 사전동의(Informed Consent, IC)이며 Otero 2022는 IC가 '서류(ICD)'가 아니라 '과정'이고 부실 IC 유죄가 과실(malpractice)보다 많다고 못박음(분석한 ICD 전부 가독성 임계 미달).
 > - (신규) 동의·소통의 의료법적 가치는 정량화됨 — Grillo 2023(브라질 10년 소송 992→122건)에서 서면동의가 피고 유리 판결·패소·손해액(평균 $59,536)을 유의하게 감소시킴(complaint-management 카테고리 교차).
 > - (신규) 건강문해력(Health Literacy)이 소통의 토대 — Berkman 2011(AHRQ SR, 96편)은 낮은 문해력이 입원·응급실↑·검진/복약↓·노인 사망률↑과 일관 연관(단 구강 건강문해력 근거는 공백)이고, Wittink 2018은 이를 보편적 예방조치(jargon 회피·방문당 3핵심·teach-back·≤6학년 인쇄물)로 실무화.
+> - (신규 2026-08) **커뮤니케이션 도구가 치료 수락률을 직접 올린다** — Touati 2021 스코핑(10편): 구두·시각(목업)·디지털 도구 모두 100% 긍정 효과; Qadiri 2026(전향적, n=80): 디지털 스마일 디자인(Digital Smile Design, DSD) 후 치료 수락률 85%, 비용 이해도도 유의 상승(p<0.001). 임상 함의: 시각화 도구는 심미·비보험 상담에서 동의율을 구조적으로 높인다.
+> - (신규 2026-08) **SDM 혼동 + 환자 의사결정 보조도구(PDA)가 해결책** — Hayer 2022(질적, n=9 영국 GDP): 일선 치과의사들이 SDM을 informed consent와 혼동(장벽: 소통 습관·소송 두려움·NHS 시간); Iyer 2025(RCT, n=76): 구조화된 PDA가 결정갈등 척도(Decisional Conflict Scale, DCS) 8.0 vs 20.6(p<0.001)으로 낮추고 치료 선택 자체를 바꿈(고정성 71.1% vs 34.2%).>
 > - (신규) 치과불안 ladder에 약물 진정(sedation) rung 추가 — Appukuttan 2016이 식별→심리치료(인지행동치료, CBT 최강)→약물(진정/전신마취) 단계틀을 제시하고, 소아 경구 midazolam 0.25–1mg/kg는 협조도 개선(Cochrane SR+MA, 표준화평균차 SMD 1.96; Ashley 2018), 성인 사랑니 의식하진정은 결과지표 비표준화로 결론 보류(Melini 2020).
 > - (신규) MI는 더 큰 행동변화 이론지형의 한 기법 — Kitsaras 2023이 COM-B·행동변화수레바퀴(Behaviour Change Wheel)·co-design을 제시, Aljabaa 2014(교정 순응도 RCT 4편)는 보상/award를 빼면 대부분 중재가 순응도를 개선하나 단일 최적법 근거는 없다고 정리. 환자만족은 5차원(quality·interaction·access·environment·cost)으로 측정(Ebn Ahmady 2015).
 
@@ -92,6 +94,10 @@ The clinical implication is a staged approach: screen for past negative dental e
 | [[behavioral-dentistry/communication-relationship/otero-2022-informed-consent-dentistry-medicine-spain]] | narrative-review (PMC full) | IC는 '과정'(서명은 마지막 고리); 부실 IC 유죄 > 과실; ICD 가독성 미달 |
 | [[behavioral-dentistry/communication-relationship/berkman-2011-low-health-literacy-health-outcomes]] | sr (AHRQ, 96편) | 낮은 건강문해력 → 입원·ER↑·검진/복약↓·노인 사망률↑; 구강 문해력 근거 공백 |
 | [[behavioral-dentistry/communication-relationship/wittink-2018-patient-education-health-literacy]] | narrative-review (초록기반) | 보편적 예방조치: jargon 회피·방문당 3핵심·teach-back·≤6학년 인쇄물 |
+| [[behavioral-dentistry/communication-relationship/touati-2021-communication-tools-patient-satisfaction-scoping]] | sr(scoping, 10편) | 구두·시각·디지털 도구 모두 만족·수락·SDM에 긍정; 표준화 PDA 부재 |
+| [[behavioral-dentistry/communication-relationship/qadiri-2026-digital-smile-design-patient-satisfaction-treatment]] | prospective (n=80) | DSD → 이해도 2.9→4.4, 시각화 2.5→4.8(p<0.001), 치료 수락률 85% |
+| [[behavioral-dentistry/communication-relationship/hayer-2022-gdp-perceptions-shared-decision-making-qualitative]] | qualitative (n=9 GDP) | SDM이 informed consent와 혼동; 장벽: 소통 습관·소송 두려움·NHS 시간 |
+| [[behavioral-dentistry/communication-relationship/iyer-2025-aided-unaided-decision-making-partial-denture]] | rct (n=76) | PDA 사용군 DCS 8.0 vs 비사용군 20.6(p<0.001); 정보 제공이 치료 선택을 바꿈 |
 
 ### 축 3 — Patient-Reported Outcomes (환자의 평가)
 
