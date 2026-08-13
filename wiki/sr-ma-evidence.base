@@ -3,24 +3,24 @@ summaries:
 filters:
   and:
     - file.inFolder("wiki")
-    - 'file.ext == "md"'
+    - file.ext == "md"
     - not:
         - file.inFolder("wiki/overviews")
         - file.inFolder("wiki/_meta")
         - file.inFolder("wiki/_lint")
     - or:
-        - 'evidence_level == "sr+ma"'
-        - 'evidence_level == "sr"'
+        - evidence_level == "sr+ma"
+        - evidence_level == "sr"
 formulas:
-  evidence_badge: 'if(evidence_level == "sr+ma", "SR+MA ⭐", "SR")'
-  decade: 'if(year, if(year >= 2020, "2020s", if(year >= 2010, "2010s", "2000s")), "")'
+  evidence_badge: if(evidence_level == "sr+ma", "SR+MA ⭐", "SR")
+  decade: if(year, if(year >= 2020, "2020s", if(year >= 2010, "2010s", "2000s")), "")
 properties:
   title:
     displayName: Title
   year:
     displayName: Year
   evidence_level:
-    displayName: "Study Type"
+    displayName: Study Type
   authors:
     displayName: Authors
   formula.evidence_badge:
@@ -31,8 +31,8 @@ properties:
     displayName: Decade
 views:
   - type: table
-    name: "SR+MA Only (최고 근거)"
-    filters: 'evidence_level == "sr+ma"'
+    name: SR+MA Only (최고 근거)
+    filters: evidence_level == "sr+ma"
     groupBy:
       property: year
       direction: DESC
@@ -42,7 +42,7 @@ views:
       - year
       - category
   - type: table
-    name: "SR+MA + SR (카테고리별)"
+    name: SR+MA + SR (카테고리별)
     groupBy:
       property: category
       direction: ASC
@@ -52,7 +52,7 @@ views:
       - year
       - category
   - type: table
-    name: "연도별 (All Systematic Reviews)"
+    name: 연도별 (All Systematic Reviews)
     groupBy:
       property: formula.decade
       direction: DESC
@@ -61,7 +61,7 @@ views:
       - formula.evidence_badge
       - category
   - type: cards
-    name: "Card View"
+    name: Card View
     order:
       - file.name
       - formula.evidence_badge
