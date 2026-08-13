@@ -3268,6 +3268,7 @@ tags: []
 <!-- BATCH INGEST 2026-06-07: 비우식성 치경부 병소(NCCL) 병인·형태·진단. NEW category: nccl. 접착 수복 RCT 3편은 resin-bonding에 배치 -->
 
 ## 인공지능·기계학습 (Artificial Intelligence / Machine Learning)
+- [[artificial-intelligence/feher-2024-applied-ai-dentistry-data-modalities]] — Feher 2024 · narrative-review · 치과 AI/ML 총론(Harvard): 데이터 양식(영상·수치·텍스트) × 모델링(진단·예후·생성) 행렬; 치과 연 11억 장 방사선=ML 최적 분야; XAI·LLM·규제 한계 포함 (DOI 10.3389/frai.2024.1427517)
 - [[artificial-intelligence/garg-2026-artificial-intelligence-pediatric-dentistry-umbrella-review]] — Garg 2026 · sr · 소아치과 AI 우산고찰(SR 7편/원저 109편): CNN 영상 AI 민감도·특이도 80–83%·AUC 0.87–0.91이나 기저 SR 대부분 저질·예비적 (DOI 10.1111/ipd.70084)
 - [[artificial-intelligence/gomez-rios-2025-machine-learning-data-analysis-pediatric-dentistry-sr]] — Gómez-Ríos 2025 · sr · 소아치과 ML SR(1945편→20편, 14편 우식예측): 조기우식 아동 보험비용↑·실란트+불소 절감; ML 전용 방법론 지침 필요 (DOI 10.23804/ejpd.2025.2288)
 - [[artificial-intelligence/abbott-2024-ai-platforms-dental-caries-detection]] — Abbott 2024 · sr+ma · 우식탐지 AI 21개 플랫폼: 통합 민감도 76%·특이도 91%·AUC 92%(7/45편 풀링, 이질성 높음); 임상사진 ≥ 교익 (DOI 10.1016/j.jebdp.2024.102077)
