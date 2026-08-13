@@ -1,44 +1,41 @@
 filters:
   and:
     - file.inFolder("wiki")
-    - 'file.ext == "md"'
+    - file.ext == "md"
     - not:
         - file.inFolder("wiki/overviews")
         - file.inFolder("wiki/_meta")
         - file.inFolder("wiki/_lint")
-    - 'evidence_level != ""'
-
+    - evidence_level != ""
 formulas:
-  evidence_icon: 'if(evidence_level == "sr+ma", "🏆 SR+MA", if(evidence_level == "rct", "⭐ RCT", if(evidence_level == "sr", "📊 SR", if(evidence_level == "prospective", "🔬 Prospective", if(evidence_level == "retrospective", "📋 Retrospective", if(evidence_level == "cross-sectional", "📉 Cross-Sectional", if(evidence_level == "consensus", "💬 Consensus", if(evidence_level == "narrative-review", "📖 Narrative", if(evidence_level == "case-report", "📝 Case Report", if(evidence_level == "in-vitro", "🧪 In Vitro", if(evidence_level == "animal", "🐭 Animal", evidence_level)))))))))))'
-  evidence_rank: 'if(evidence_level == "sr+ma", 1, if(evidence_level == "rct", 2, if(evidence_level == "sr", 3, if(evidence_level == "prospective", 4, if(evidence_level == "retrospective", 5, if(evidence_level == "cross-sectional", 6, if(evidence_level == "consensus", 7, if(evidence_level == "narrative-review", 8, if(evidence_level == "case-report", 9, if(evidence_level == "in-vitro", 10, if(evidence_level == "animal", 11, 99)))))))))))'
-  is_recent: 'if(year, year >= 2021, false)'
-
+  evidence_icon: if(evidence_level == "sr+ma", "🏆 SR+MA", if(evidence_level == "rct", "⭐ RCT", if(evidence_level == "sr", "📊 SR", if(evidence_level == "prospective", "🔬 Prospective", if(evidence_level == "retrospective", "📋 Retrospective", if(evidence_level == "cross-sectional", "📉 Cross-Sectional", if(evidence_level == "consensus", "💬 Consensus", if(evidence_level == "narrative-review", "📖 Narrative", if(evidence_level == "case-report", "📝 Case Report", if(evidence_level == "in-vitro", "🧪 In Vitro", if(evidence_level == "animal", "🐭 Animal", evidence_level)))))))))))
+  evidence_rank: if(evidence_level == "sr+ma", 1, if(evidence_level == "rct", 2, if(evidence_level == "sr", 3, if(evidence_level == "prospective", 4, if(evidence_level == "retrospective", 5, if(evidence_level == "cross-sectional", 6, if(evidence_level == "consensus", 7, if(evidence_level == "narrative-review", 8, if(evidence_level == "case-report", 9, if(evidence_level == "in-vitro", 10, if(evidence_level == "animal", 11, 99)))))))))))
+  is_recent: if(year, year >= 2021, false)
 properties:
   title:
-    displayName: "Title"
+    displayName: Title
   year:
-    displayName: "Year"
+    displayName: Year
   authors:
-    displayName: "Authors"
+    displayName: Authors
   evidence_level:
-    displayName: "Level"
+    displayName: Level
   category:
-    displayName: "Category"
+    displayName: Category
   formula.evidence_icon:
-    displayName: "Evidence"
+    displayName: Evidence
   formula.evidence_rank:
-    displayName: "Rank"
+    displayName: Rank
   formula.is_recent:
-    displayName: "Recent (2021+)"
-
+    displayName: Recent (2021+)
 views:
   - type: table
-    name: "🏆 High Evidence (임상 프로토콜 근거)"
+    name: 🏆 High Evidence (임상 프로토콜 근거)
     filters:
       or:
-        - 'evidence_level == "sr+ma"'
-        - 'evidence_level == "rct"'
-        - 'evidence_level == "sr"'
+        - evidence_level == "sr+ma"
+        - evidence_level == "rct"
+        - evidence_level == "sr"
     groupBy:
       property: evidence_level
       direction: ASC
@@ -48,9 +45,8 @@ views:
       - year
       - category
       - authors
-
   - type: table
-    name: "📋 전체 근거 피라미드"
+    name: 📋 전체 근거 피라미드
     groupBy:
       property: formula.evidence_icon
       direction: ASC
@@ -59,17 +55,16 @@ views:
       - formula.evidence_icon
       - year
       - category
-
   - type: table
-    name: "🆕 최신 5년 (2021+) · High Evidence"
+    name: 🆕 최신 5년 (2021+) · High Evidence
     filters:
       and:
-        - 'formula.is_recent == true'
+        - formula.is_recent == true
         - or:
-            - 'evidence_level == "sr+ma"'
-            - 'evidence_level == "rct"'
-            - 'evidence_level == "sr"'
-            - 'evidence_level == "prospective"'
+            - evidence_level == "sr+ma"
+            - evidence_level == "rct"
+            - evidence_level == "sr"
+            - evidence_level == "prospective"
     groupBy:
       property: category
       direction: ASC
@@ -78,10 +73,9 @@ views:
       - formula.evidence_icon
       - year
       - authors
-
   - type: cards
-    name: "🃏 Cards — SR+MA"
-    filters: 'evidence_level == "sr+ma"'
+    name: 🃏 Cards — SR+MA
+    filters: evidence_level == "sr+ma"
     order:
       - file.name
       - formula.evidence_icon
