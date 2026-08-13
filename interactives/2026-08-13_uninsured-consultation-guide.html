@@ -24,42 +24,7 @@
   --shadow:       rgba(0,0,0,0.06);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root:not([data-theme="light"]) {
-    --bg:           #0D1820;
-    --surface:      #142030;
-    --surface-2:    #1C2D3E;
-    --text:         #DCE8F2;
-    --text-muted:   #7A90A8;
-    --primary:      #4BA8C8;
-    --primary-lt:   #1A3248;
-    --primary-dk:   #7FC5DF;
-    --accent:       #F0924A;
-    --accent-lt:    #2E1E0E;
-    --positive:     #4AAA82;
-    --positive-lt:  #152E24;
-    --warn:         #E07840;
-    --border:       #2C3E52;
-    --shadow:       rgba(0,0,0,0.3);
-  }
-}
-:root[data-theme="dark"] {
-  --bg:           #0D1820;
-  --surface:      #142030;
-  --surface-2:    #1C2D3E;
-  --text:         #DCE8F2;
-  --text-muted:   #7A90A8;
-  --primary:      #4BA8C8;
-  --primary-lt:   #1A3248;
-  --primary-dk:   #7FC5DF;
-  --accent:       #F0924A;
-  --accent-lt:    #2E1E0E;
-  --positive:     #4AAA82;
-  --positive-lt:  #152E24;
-  --warn:         #E07840;
-  --border:       #2C3E52;
-  --shadow:       rgba(0,0,0,0.3);
-}
+/* 임상 인터랙티브 — 항상 라이트 고정 (OS 다크 모드 무시) */
 
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
