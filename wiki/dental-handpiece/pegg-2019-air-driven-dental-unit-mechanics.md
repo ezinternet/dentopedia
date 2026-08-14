@@ -9,7 +9,7 @@ category: [dental-handpiece]
 evidence_level: narrative-review
 pdf_path: ""
 pdf_filename: ""
-source_collection: abstract-only
+source_collection: pubmed-abstract
 tags: [dental-handpiece, air-turbine, low-speed, high-speed, micromotor, turbine, compressor, handpiece-mechanics, maintenance, torque, rpm]
 relations:
   - type: reinforces
