@@ -4,9 +4,7 @@ authors: "Qadiri SY, Iqbal Hossain MM, Irum B, Ishaq A"
 year: 2026
 doi: "10.7759/cureus.106350"
 category: [behavioral-dentistry/communication-relationship]
-pdf_path: /Users/oracleneo/llm-wiki/papers/qadiri-2026-digital-smile-design-patient-satisfaction-treatment.pdf
-pdf_filename: qadiri-2026-digital-smile-design-patient-satisfaction-treatment.pdf
-source_collection: external
+source_collection: pubmed-abstract
 ---
 
 ## Why Ingested
