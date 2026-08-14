@@ -4,9 +4,7 @@ authors: "Hayer N, Wassif HS"
 year: 2022
 doi: "10.1038/s41415-022-3980-9"
 category: [behavioral-dentistry/communication-relationship]
-pdf_path: /Users/oracleneo/llm-wiki/papers/hayer-2022-gdp-perceptions-shared-decision-making-qualitative.pdf
-pdf_filename: hayer-2022-gdp-perceptions-shared-decision-making-qualitative.pdf
-source_collection: external
+source_collection: pubmed-abstract
 ---
 
 ## Why Ingested
