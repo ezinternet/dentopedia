@@ -4,9 +4,7 @@ authors: "Iyer K, Alghamdi R, Alsuhaibani M, Alyahya A, Alonazi Z, Alabdulwahab 
 year: 2025
 doi: "10.7759/cureus.77803"
 category: [behavioral-dentistry/communication-relationship]
-pdf_path: /Users/oracleneo/llm-wiki/papers/iyer-2025-aided-unaided-decision-making-partial-denture.pdf
-pdf_filename: iyer-2025-aided-unaided-decision-making-partial-denture.pdf
-source_collection: external
+source_collection: pubmed-abstract
 ---
 
 ## Why Ingested
