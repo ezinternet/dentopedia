@@ -7,9 +7,7 @@ doi: "10.1038/s41415-022-3980-9"
 source: hayer-2022-gdp-perceptions-shared-decision-making-qualitative.md
 category: behavioral-dentistry/communication-relationship
 evidence_level: cross-sectional
-pdf_path: /Users/oracleneo/llm-wiki/papers/hayer-2022-gdp-perceptions-shared-decision-making-qualitative.pdf
-pdf_filename: hayer-2022-gdp-perceptions-shared-decision-making-qualitative.pdf
-source_collection: external
+source_collection: pubmed-abstract
 tags: [shared-decision-making, SDM, qualitative, GDP, informed-consent, barriers, dental-care-structure, UK]
 relations:
   - type: extends
