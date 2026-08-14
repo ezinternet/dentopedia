@@ -9,7 +9,7 @@ category: [dental-handpiece]
 evidence_level: in-vitro
 pdf_path: ""
 pdf_filename: ""
-source_collection: abstract-only
+source_collection: pubmed-abstract
 tags: [dental-handpiece, electric-handpiece, air-turbine, diamond-bur, tungsten-carbide, cutting-efficiency, temperature, torque, bur-wear, macor]
 relations:
   - type: extends
