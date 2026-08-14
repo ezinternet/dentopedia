@@ -7,9 +7,7 @@ doi: "10.7759/cureus.77803"
 source: iyer-2025-aided-unaided-decision-making-partial-denture.md
 category: behavioral-dentistry/communication-relationship
 evidence_level: rct
-pdf_path: /Users/oracleneo/llm-wiki/papers/iyer-2025-aided-unaided-decision-making-partial-denture.pdf
-pdf_filename: iyer-2025-aided-unaided-decision-making-partial-denture.pdf
-source_collection: external
+source_collection: pubmed-abstract
 tags: [patient-decision-aid, PDA, decisional-conflict, shared-decision-making, prosthodontics, partial-denture, RCT, DCS]
 relations:
   - type: extends
