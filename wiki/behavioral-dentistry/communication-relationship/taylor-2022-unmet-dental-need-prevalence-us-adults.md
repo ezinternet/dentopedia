@@ -8,6 +8,8 @@ source: taylor-2022-unmet-dental-need-prevalence-us-adults.md
 category: behavioral-dentistry/communication-relationship
 evidence_level: cross-sectional
 source_collection: pubmed-text
+text_path: /Users/oracleneo/llm-wiki/papers/taylor-2022-unmet-dental-need-prevalence-us-adults.txt
+text_filename: taylor-2022-unmet-dental-need-prevalence-us-adults.txt
 tags: [unmet-dental-need, access-barriers, cost-barrier, insurance, income, epidemiology, USA, health-policy, Andersen-model]
 relations:
   - type: reinforces
