@@ -3994,7 +3994,7 @@ tags: []
 
 ### implants/mbl
 - [[implants/mbl/canullo-2007-platform-switching-immediate-extraction-sockets]] — Proof-of-concept case series (n=9, 10 implants): largest PS offset in this wiki's cluster (1.0mm/side), bone resorption 0.78±0.36mm vs 1.7mm reference (2007)
-- [[implants/mbl/gupta-2019-platform-switching-crestal-bone-loss-sr]] — Narrative review compiling actual PS abutment/implant offset dimensions across 9 studies; cites Hürzeler 2007's 0.45mm/side "sufficient" threshold claim (2019)
+- [[implants/mbl/gupta-2019-platform-switching-crestal-bone-loss-sr]] — Narrative review compiling actual PS abutment/implant offset dimensions across 9 studies; cites Hürzeler 2007's 0.45mm/side "sufficient" threshold claim; also carries the fullest PS mechanism account (IAJ 내측 이동 → ICT 측방 이동) and 5 FEA reports (2019)
 - [[implants/mbl/hurzeler-2007-peri-implant-bone-level-platform-switched]] — Prospective non-randomized trial (PS 14 vs non-PS 8): 1yr crestal bone -0.22mm vs -2.02mm (P≤.0001); 0.45mm/side abutment reduction concluded "sufficient" (2007)
 - [[implants/mbl/kumar-2021-marginal-bone-level-changes-meta-analysis]] — Meta-analysis of marginal bone level changes at dental implants across loading protocols (2021)
 - [[implants/mbl/lazzara-2006-platform-switching-new-concept]] — Foundational paper coining "platform switching": accidental narrow-abutment restorations (1991 inventory gap) showed less crestal bone loss (2006)
@@ -4079,7 +4079,6 @@ tags: []
 
 ### implants/mbl
 - [[implants/mbl/schwarz-2013-implant-abutment-connection-platform-switching]] — Schwarz 2013 · consensus(Camlog Foundation, SR 2편 종합) · 임플란트-지대주 연결·미세간극 위치·PS의 치조정골 영향 합의문 — subcrestal 미세간극이 거친面 골피개 유지에 유리, PS가 변연골소실 최소화 경향 확인
-- [[implants/mbl/gupta-2019-platform-switching-technique-crestal-bone]] — Gupta 2019 · sr(정성적, 2005-2017, 메타분석 없음) · PS 기전(염증침윤 측방 이동)·임상근거 서술적 종합 — 풀링 수치 없이 임상 상황 허용 시 PS 사용 권고
 - [[implants/mbl/salamanca-2017-dental-implant-marginal-bone-level]] — Salamanca 2017 · retrospective(51명/60임플란트, 1년) · "골이득/간극감소" 방식으로 측정 — 수직 골이득 PS 0.93mm vs PM 0.23mm(p<0.05); 수평은 PS 우세하나 비유의
 - [[implants/mbl/sahabi-2013-biomechanical-effects-platform-switching-two]] — Sahabi 2013 · in-vitro(FEA, XiVE·3i 2개 임플란트 시스템, 축방향·사방향 100N) · PS가 치조정골 응력 낮추나 임플란트-지대주 계면 응력 증가 — yadav-2025가 12년 후 재현한 동일 트레이드오프의 원조 데이터
 - [[implants/mbl/alrabeah-2016-effect-platform-switching-metal-ion]] — Alrabeah 2016 · in-vitro(가속부식, 1% 젖산) · PM이 PS보다 V·Al·Co·Cr·Mo 금속이온 방출 약 2배 많음(p<0.05) — 부식 기전을 PS 골보존 효과의 새 축으로 추가
