@@ -17,6 +17,8 @@ tags: [alveolar-ridge-preservation, socket-grafting, ARP, ridge-preservation, xe
 
 > [!note] Partially superseded → [[avila-ortiz-2019-alveolar-ridge-preservation-interventions]]
 > 동일 first author가 5년 뒤 8 RCT→22 RCT로 확장하고 9-modality 분류 체계를 세운 2019 SR+MA가 EFP/AO consensus reference로서 modality 선택의 현행 근거다. 단 본 2014 페이지의 "ARP vs 자연치유" 정량 효과추정치(협설폭 +1.89mm, 협측높이 +2.07mm)는 2019가 modality 비교로 옮겨가며 대체하지 않은 first-quantification anchor로 standalone 가치를 유지한다. (set 2026-06-02)
+>
+> **체인 주의**: 2019 자체도 재료 선택 축에서 [[bone-regeneration/ridge-preservation/canullo-2021-arp-biomaterials-dimensional-nma]] (88 RCT NMA)에 부분 대체됐다 — 이종골·동종골이 치수 보존 최상위 재료. 본 2014 페이지의 대체 축(ARP vs 자연치유 정량화)은 canullo-2021이 다루지 않으므로 포인터는 2019로 유지하되, **재료 선택 근거로 인용할 때는 canullo-2021로 직행할 것**. (2026-08-15)
 
 ## Three-line Summary
 
