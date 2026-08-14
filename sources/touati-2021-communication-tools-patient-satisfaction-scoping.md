@@ -4,9 +4,7 @@ authors: "Touati R, Sailer I, Marchand L, Ducret M, Strasding M"
 year: 2021
 doi: "10.1111/jerd.12854"
 category: [behavioral-dentistry/communication-relationship]
-pdf_path: /Users/oracleneo/llm-wiki/papers/touati-2021-communication-tools-patient-satisfaction-scoping.pdf
-pdf_filename: touati-2021-communication-tools-patient-satisfaction-scoping.pdf
-source_collection: external
+source_collection: pubmed-abstract
 ---
 
 ## Why Ingested
