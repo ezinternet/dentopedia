@@ -44,7 +44,6 @@ tags: [navigation, category-index, mbl]
 | [[di-girolamo-2016-platform-switching-matching-sr-ma|Bone level changes around platform switching and platform matching implants: a systematic review with meta-analysis]] |
 | [[enkling-2013-platform-switching-bone-level-3year-rct|Influence of Platform Switching on Bone-level Alterations: A Three-year Randomized Clinical Trial]] |
 | [[gupta-2019-platform-switching-crestal-bone-loss-sr|Platform Switching Technique and Crestal Bone Loss around the Dental Implants: A Systematic Review]] |
-| [[gupta-2019-platform-switching-technique-crestal-bone|Platform switching technique and crestal bone loss around the dental implants: A systematic review]] |
 | [[hurzeler-2007-peri-implant-bone-level-platform-switched|Peri-implant bone level around implants with platform-switched abutments: Preliminary data from a prospective study]] |
 | [[juan-montesinos-2022-platform-switching-conventional-sr-ma|Comparative Study by Systematic Review and Meta-Analysis of the Peri-Implant Effect of Two Types of Platforms: Platform-Switching versus Conventional Platforms]] |
 | [[kim-2022-abutment-connection-mbl-survival|Long-term effect of implant-abutment connection type on marginal bone loss and survival of dental implants]] |
