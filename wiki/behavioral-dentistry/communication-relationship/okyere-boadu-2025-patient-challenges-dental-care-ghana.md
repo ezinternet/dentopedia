@@ -8,6 +8,8 @@ source: okyere-boadu-2025-patient-challenges-dental-care-ghana.md
 category: behavioral-dentistry/communication-relationship
 evidence_level: cross-sectional
 source_collection: pubmed-text
+text_path: /Users/oracleneo/llm-wiki/papers/okyere-boadu-2025-patient-challenges-dental-care-ghana.txt
+text_filename: okyere-boadu-2025-patient-challenges-dental-care-ghana.txt
 tags: [cost-barrier, communication-gap, dental-anxiety, access-barriers, mixed-methods, qualitative, treatment-avoidance, patient-perception, ghana, transparency]
 relations:
   - type: reinforces
