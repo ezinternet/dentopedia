@@ -7,9 +7,7 @@ doi: "10.1111/jerd.12854"
 source: touati-2021-communication-tools-patient-satisfaction-scoping.md
 category: behavioral-dentistry/communication-relationship
 evidence_level: sr
-pdf_path: /Users/oracleneo/llm-wiki/papers/touati-2021-communication-tools-patient-satisfaction-scoping.pdf
-pdf_filename: touati-2021-communication-tools-patient-satisfaction-scoping.pdf
-source_collection: external
+source_collection: pubmed-abstract
 tags: [communication-tools, patient-satisfaction, treatment-acceptance, shared-decision-making, digital-smile-design, esthetic-dentistry, mock-up]
 relations:
   - type: reinforces
