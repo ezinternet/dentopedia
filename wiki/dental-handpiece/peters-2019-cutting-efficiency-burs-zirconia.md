@@ -9,7 +9,7 @@ category: [dental-handpiece]
 evidence_level: in-vitro
 pdf_path: ""
 pdf_filename: ""
-source_collection: abstract-only
+source_collection: pubmed-abstract
 tags: [dental-bur, diamond-bur, tungsten-carbide, zirconia, cutting-efficiency, endodontic-access, air-turbine, bur-wear]
 relations:
   - type: extends
