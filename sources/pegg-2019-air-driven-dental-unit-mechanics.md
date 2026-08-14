@@ -6,7 +6,7 @@ doi: "10.1177/0898756419892635"
 category: [dental-handpiece]
 pdf_path: ""
 pdf_filename: ""
-source_collection: abstract-only
+source_collection: pubmed-abstract
 ---
 
 ## Why Ingested
