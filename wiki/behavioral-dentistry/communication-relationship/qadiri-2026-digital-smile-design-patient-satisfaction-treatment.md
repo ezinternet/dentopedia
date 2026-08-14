@@ -7,9 +7,7 @@ doi: "10.7759/cureus.106350"
 source: qadiri-2026-digital-smile-design-patient-satisfaction-treatment.md
 category: behavioral-dentistry/communication-relationship
 evidence_level: prospective
-pdf_path: /Users/oracleneo/llm-wiki/papers/qadiri-2026-digital-smile-design-patient-satisfaction-treatment.pdf
-pdf_filename: qadiri-2026-digital-smile-design-patient-satisfaction-treatment.pdf
-source_collection: external
+source_collection: pubmed-abstract
 tags: [digital-smile-design, DSD, treatment-acceptance, patient-satisfaction, esthetic-dentistry, visualization, communication-tools]
 relations:
   - type: extends
