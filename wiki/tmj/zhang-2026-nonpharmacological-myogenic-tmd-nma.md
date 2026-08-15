@@ -13,9 +13,6 @@ text_path: /Users/oracleneo/llm-wiki/papers/zhang-2026-nonpharmacological-myogen
 text_filename: zhang-2026-nonpharmacological-myogenic-tmd-nma.txt
 source_collection: pubmed-text
 tags: [tmd, myogenic-tmd, photobiomodulation, manual-therapy, occlusal-splint, exercise, network-meta-analysis, nonpharmacological]
-relations:
-  - type: supersedes
-    target: tmj/zhang-2021-exercise-vs-splint-tmd-sr-ma
 ---
 
 ## Three-line Summary
