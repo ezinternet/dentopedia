@@ -6,7 +6,7 @@ date: 2002-07-01
 doi: "10.1902/jop.2002.73.7.754"
 source: nemcovsky-2002-buccal-dehiscence-immediate-delayed-late-maxillary-implant.md
 category: [bone-regeneration]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/nemcovsky-2002-buccal-dehiscence-immediate-delayed-late-maxillary-implant.pdf
 pdf_filename: nemcovsky-2002-buccal-dehiscence-immediate-delayed-late-maxillary-implant.pdf
 source_collection: external
