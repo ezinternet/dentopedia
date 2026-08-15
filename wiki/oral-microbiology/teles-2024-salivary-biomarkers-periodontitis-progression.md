@@ -12,7 +12,7 @@ pmcid: "PMC11651721"
 evidence_level: prospective
 tags: [oral-microbiology, salivary-biomarkers, periodontitis-progression, cytokines, mmp-8, il-1beta, ifng, nspt, longitudinal, serum-biomarkers, luminex]
 relations:
-  - type: complements
+  - type: extends
     target: wiki/oral-microbiology/regueira-iglesias-2024-salivary-microbiome-periodontitis-diagnostic
   - type: extends
     target: wiki/periodontics/krajewski-2025-nspt-subgingival-microbiota-sr-ma
