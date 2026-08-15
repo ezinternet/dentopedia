@@ -23,10 +23,10 @@ tags:
   - extraction
 relations:
   - target: "orthodontics/clear-aligner/patil-2026-perception-satisfaction-ca-vs-fa"
-    type: supports
+    type: reinforces
     note: "OHIP-14 convergence at treatment end in both studies"
   - target: "orthodontics/clear-aligner/alghafli-2026-postsurgical-aligners-sr"
-    type: supports
+    type: reinforces
     note: "Efficiency pattern: fewer appointments but more refinements with CA"
   - target: "orthodontics/clear-aligner/chong-2025-patient-experiences-cat-scoping-review"
     type: contextualizes
