@@ -6,7 +6,7 @@ date: 2018-02-01
 doi: "10.1177/0022034517737755"
 source: chappuis-2018-contour-augmentation-gbr-10year-results.md
 category: [bone-regeneration]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/chappuis-2018-contour-augmentation-gbr-10year-results.pdf
 pdf_filename: chappuis-2018-contour-augmentation-gbr-10year-results.pdf
 source_collection: external
