@@ -15,7 +15,7 @@ relations:
   - type: extends
     target: decker-2024-clinical-radiographic-transcrestal-sinus-augmentation
     note: both assess transcrestal sinus augmentation clinical/radiographic outcomes; this paper focuses on RBH <3mm subgroup
-  - type: consistent_with
+  - type: reinforces
     target: kadkhodazadeh-2024-transcrestal-maxillary-sinus-elevation-sr-ma
     note: supports the feasibility of transcrestal approach even beyond conventional RBH thresholds summarized in SR+MA
 ---
