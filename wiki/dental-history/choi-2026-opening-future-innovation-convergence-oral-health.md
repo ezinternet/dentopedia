@@ -11,9 +11,6 @@ pdf_path: /Users/oracleneo/llm-wiki/papers/choi-2026-opening-future-innovation-c
 pdf_filename: choi-2026-opening-future-innovation-convergence-oral-health.pdf
 source_collection: external
 tags: [editorial, korean-academy-of-preventive-dentistry, journal-vision, evidence-based-dentistry, oral-frailty]
-relations:
-  - type: complements
-    target: jkda-2025-63-8-006
 ---
 
 ## Three-line Summary
