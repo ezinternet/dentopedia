@@ -6,7 +6,7 @@ date: 2026-06-01
 doi: 10.3390/jfb17060294
 source: sarilaksmi-2026-intact-mta-sealer-gutta-percha-surface-modification.md
 category: [endodontics]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: true
 pmid: "42346685"
