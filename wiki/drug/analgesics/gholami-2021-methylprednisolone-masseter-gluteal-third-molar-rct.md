@@ -6,7 +6,7 @@ date: 2021-09-01
 doi: "10.1016/j.joms.2021.03.009"
 source: gholami-2021-methylprednisolone-masseter-gluteal-third-molar-rct.md
 category: [drug/analgesics]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/gholami-2021-methylprednisolone-masseter-gluteal-third-molar-rct.pdf
 pdf_filename: gholami-2021-methylprednisolone-masseter-gluteal-third-molar-rct.pdf
 source_collection: external
