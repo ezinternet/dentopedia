@@ -12,9 +12,9 @@ pdf_filename: phengudom-2021-survival-fracture-endodontic-anterior.pdf
 source_collection: external
 tags: [post-and-core, anterior-teeth, resin-composite, full-coverage-crown, survival, endodontically-treated-teeth]
 relations:
-  - type: compares
+  - type: extends
     target: suksaphar-2017-survival-fracture-ett-crown-resin-sr
-  - type: compares
+  - type: reinforces
     target: intaraprasong-2024-post-endodontic-restorations-survival-fracture-cervical-lesions
 ---
 
