@@ -12,8 +12,6 @@ pmcid: "PMC11434369"
 evidence_level: narrative-review
 tags: [oral-microbiology, systemic-health, dysbiosis, cardiovascular, diabetes, alzheimers, cancer, rheumatoid-arthritis, probiotics, xylitol, narrative-review]
 relations:
-  - type: complements
-    target: wiki/oral-microbiology/hu-2024-oral-microbiome-bone-related-diseases-homeostasis
   - type: extends
     target: wiki/periodontics/benavides-reyes-2025-probiotics-periodontitis-ma
 ---
