@@ -6,7 +6,7 @@ date: 2006-02-01
 doi: "N/A"
 source: lazzara-2006-platform-switching-new-concept.md
 category: [implants/mbl]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: N/A
 pdf_filename: N/A
 source_collection: pubmed-abstract
