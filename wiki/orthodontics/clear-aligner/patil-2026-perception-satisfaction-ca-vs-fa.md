@@ -30,7 +30,7 @@ relations:
     type: reinforces
     note: "Initial FA disadvantage and temporal convergence pattern"
   - target: "orthodontics/clear-aligner/chong-2025-patient-experiences-cat-scoping-review"
-    type: contextualizes
+    type: refines
     note: "Self-reported 21.8h/day vs population 36% full compliance"
   - target: "orthodontics/clear-aligner/hamid-2026-complex-cases-aligners-ohip14"
     type: reinforces
