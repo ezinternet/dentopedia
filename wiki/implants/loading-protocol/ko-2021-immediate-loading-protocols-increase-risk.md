@@ -7,7 +7,7 @@ doi: "10.1111/cid.13042"
 pmid: "34436812"
 source: ko-2021-immediate-loading-protocols-increase-risk.md
 category: [implants/loading-protocol]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-abstract
 tags: [immediate-loading, delayed-loading, fully-guided-surgery, digital-workflow, survival-rate, ISQ, insertion-torque, RCT, marginal-bone-loss]
 relations:
