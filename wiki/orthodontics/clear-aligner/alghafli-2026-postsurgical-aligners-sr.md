@@ -25,13 +25,13 @@ tags:
   - surgery-first
 relations:
   - target: "orthodontics/clear-aligner/cunha-2025-class-iii-surgery-first-aligner-fixed-ohrqol"
-    type: contextualizes
+    type: extends
     note: "Class III SFA RCT — included in clinical context if not in SR"
   - target: "orthodontics/clear-aligner/patil-2026-perception-satisfaction-ca-vs-fa"
     type: reinforces
     note: "CA OHIP-14 superiority in de Leyva RCT mirrors non-surgical CA advantage"
   - target: "orthodontics/clear-aligner/chong-2025-patient-experiences-cat-scoping-review"
-    type: contextualizes
+    type: refines
     note: "Compliance 45-50% in surgical CA patients vs 36% general"
 ---
 
