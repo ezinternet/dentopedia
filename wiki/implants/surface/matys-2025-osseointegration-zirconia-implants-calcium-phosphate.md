@@ -28,8 +28,16 @@ CaP coatings consistently increased osteoblast proliferation and ALP activity in
 
 Marked heterogeneity in coating composition/thickness/roughness/adhesion reporting prevented pooling, no long-term RCT confirms superior clinical outcomes for coated vs uncoated zirconia (unlike titanium, where CaP coating is already clinically established), and the authors conclude CaP-coated zirconia remains investigational pending standardized protocols and long-term follow-up.
 
-## 한국어 핵심요약
-> [!summary] 한국어 핵심요약
+## 세줄요약
+
+체계적 문헌고찰 (Systematic Review, SR — 27편의 in vitro·in vivo·전임상 연구, 이질성으로 메타분석 불가) — 지르코니아 (Y-TZP) 임플란트·디스크에 적용된 인산칼슘 (Calcium Phosphate, CaP) 코팅(수산화인회석 (Hydroxyapatite, HA), β-삼인산칼슘 (β-TCP), 옥타칼슘인산 (OCP), 이상복합체, 이온도핑형·다기능형)을 졸-겔·생체모방·RF 마그네트론 스퍼터링·이온빔보조증착 (IBAD)·레이저보조 등 증착법별로 종합.
+
+CaP 코팅은 in vitro 19/27편에서 조골세포 증식과 알칼리인산분해효소 (Alkaline Phosphatase, ALP) 활성을, in vivo 15/27편에서 골-임플란트 접촉률 (Bone-to-Implant Contact, BIC)을 비코팅 지르코니아 대비 일관되게 높였다 — AlFarraj 60.3% vs 45.1%(토끼 8주), Mutsuzaki 48.3% vs 29.7%(토끼 경골 6주), Langhoff 35.4% vs 22.5%(2주)→46.6% vs 40.5%(4주) — 다만 이득은 초기에 가장 크고 시간이 지날수록 줄어든다.
+
+코팅 조성·두께·거칠기·접착강도 보고의 이질성이 커 통합분석이 불가능했고, 코팅 지르코니아가 비코팅 대비 임상적으로 우수함을 입증한 장기 무작위대조군연구 (Randomized Controlled Trial, RCT)는 전무하다 (CaP 코팅이 이미 임상 정착된 티타늄과 대비되는 지점) — 저자들은 표준화된 프로토콜과 장기 추적이 나오기 전까지 CaP 코팅 지르코니아를 "연구 단계 (investigational)"로 규정한다.
+
+## 한국어 상세요약
+> [!summary] 한국어 상세요약
 > - 결론: 지르코니아(Y-TZP)는 표면이 생체불활성(bioinert)이라 골유착이 티타늄보다 예측성이 떨어지는데, 인산칼슘 (Calcium Phosphate, CaP) 코팅이 이를 보완하는 유망한 전략임을 27편 체계적 문헌고찰로 확인.
 > - 코팅 종류: 수산화인회석 (Hydroxyapatite, HA)이 가장 흔함, 그 외 β-삼인산칼슘 (β-Tricalcium Phosphate, β-TCP), 옥타칼슘인산 (Octacalcium Phosphate, OCP), 이인산칼슘복합체 (Biphasic Calcium Phosphate, BCP), Mg/Sr/Zn 이온도핑형, 다기능형(BMP-2, FGF-2+LMWH, 은나노입자, 항생제담지 나노입자).
 > - 증착법: 생체모방(biomimetic) 침적이 가장 흔하며, RF 마그네트론 스퍼터링, 이온빔보조증착 (Ion Beam-Assisted Deposition, IBAD), 졸-겔(sol-gel), 레이저보조(Nd:YAG/펨토초/Er:YAG), 습식분말분사(wet powder spraying) 등 다양.
