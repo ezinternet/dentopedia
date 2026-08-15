@@ -6,7 +6,7 @@ date: 2016-01-20
 doi: "10.1111/jcpe.12513"
 source: zhou-2016-early-loading-splinted-implants-posterior-mandible-1year.md
 category: [implants]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/zhou-2016-early-loading-splinted-implants-posterior-mandible-1year.pdf
 pdf_filename: zhou-2016-early-loading-splinted-implants-posterior-mandible-1year.pdf
 source_collection: external
