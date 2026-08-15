@@ -50,14 +50,32 @@ OVERVIEW_LINK_RE = re.compile(r"\[\[overviews/([^\]|#]+?)(?:[#|][^\]]*)?\]\]")
 BULLET_PREFIX_RE = re.compile(r"^\s*[-*]\s")
 QUOTE_PREFIX_RE = re.compile(r"^\s*>")
 
-# 카탈로그 등재가 면제되는 파일 (목차·허브 등이 생기면 여기에)
+# 카탈로그 등재가 면제되는 파일 (stem 하드코딩이 필요한 예외가 생기면 여기에)
 EXEMPT: set[str] = set()
+
+# 카테고리 랜딩 페이지(`wiki/overviews/overviews.md` 등)는 카탈로그의 *대상*이 아니라
+# 카탈로그를 **여는 문**이라 자기 자신을 목록에 넣지 않는다. stem을 EXEMPT에 박으면
+# 다음 랜딩 페이지에서 같은 오탐이 되살아나므로, 규약(frontmatter)으로 판별한다 —
+# `source: navigation` 또는 tags에 `category-index`. 리포 전역 120개가 이 규약을 쓴다.
+FM_RE = re.compile(r"^---\n(.*?)\n---", re.DOTALL)
+
+
+def is_landing_page(path: Path) -> bool:
+    m = FM_RE.match(path.read_text(encoding="utf-8"))
+    if not m:
+        return False
+    fm = m.group(1)
+    if re.search(r"^source:\s*navigation\s*$", fm, re.MULTILINE | re.IGNORECASE):
+        return True
+    tags = re.search(r"^tags:\s*(.*)$", fm, re.MULTILINE)
+    return bool(tags and "category-index" in tags.group(1))
 
 
 def collect_overview_files() -> set[str]:
     if not OVERVIEWS_DIR.is_dir():
         return set()
-    return {f.stem for f in OVERVIEWS_DIR.glob("*.md")} - EXEMPT
+    stems = {f.stem for f in OVERVIEWS_DIR.glob("*.md") if not is_landing_page(f)}
+    return stems - EXEMPT
 
 
 def scan_index() -> tuple[set[str], set[str], set[str]]:
