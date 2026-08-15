@@ -18,6 +18,22 @@ Cross-sectional (MEPS 2016, n=25,444 US adults): 6.0% unmet dental need; dental 
 ## 한줄요약
 단면연구(MEPS 2016, n=25,444 미국 성인): 미충족 치과 수요 유병률 6.0%; 치과보험이 1.7 pp 감소, 저소득 성인이 3.3 pp 더 많음 — 비용·보험이 주요 구조적 결정인자.
 
+## Three-line Summary
+
+Nationally representative cross-sectional analysis of the US Medical Expenditure Panel Survey (MEPS) 2016, covering 25,444 adults aged 18 and over, applying the Andersen behavioral model.
+
+Self-reported unmet dental need in the past 12 months was 6.0% (95% CI 5.5–6.5) — higher than for medical, prescription or mental health care; dental insurance lowered the probability by 1.7 percentage points (95% CI −2.8 to −0.6), and the income gradient was steep and dose-responsive versus high income (≥400% of the federal poverty line): middle income +2.3 pp, low income +3.3 pp, poor/near-poor +4.2 pp, with smoking, lower education, chronic disease and being unmarried independently raising unmet need.
+
+Hispanic and Black adults paradoxically reported *lower* unmet need than white adults, most plausibly because perceived-need thresholds differ rather than because access is better — a self-report measurement bias that matters whenever these figures are read as equity evidence.
+
+## 세줄요약
+
+전국 대표성 단면연구 (Cross-sectional Study — 미국 의료비패널조사 (Medical Expenditure Panel Survey, MEPS) 2016, 18세 이상 성인 25,444명, Andersen 행동모형 적용): 지난 12개월간 필요하다고 판단한 치과진료를 받지 못했거나 미뤘다고 자가보고한 **미충족 치과 수요가 6.0%** (95% CI 5.5~6.5)로, 의료·약제·정신건강 등 다른 진료 영역보다 높았다.
+
+치과보험 보유는 미충족 수요 확률을 **1.7 %p 낮췄고** (95% CI −2.8 ~ −0.6), 소득 구배는 가파르고 용량-반응적이었다 — 고소득(연방빈곤선 400% 이상) 대비 중간소득 +2.3 %p, 저소득 +3.3 %p, 빈곤·준빈곤층 **+4.2 %p**. 흡연·낮은 학력·만성질환·미혼도 독립적으로 미충족 수요를 높였다.
+
+히스패닉계·흑인 성인이 백인보다 미충족 수요를 **낮게** 보고한 역설적 패턴은 접근성이 더 좋아서가 아니라 **필요 인식 역치가 다르기 때문**일 가능성이 크다 — 자가보고 지표가 형평성 연구에서 갖는 측정 편향을 보여주는 대목이며, 정책 해석 시 주의가 필요하다.
+
 ## 1. Document Information
 - Journal: Community Dentistry and Oral Epidemiology, Volume 49, Issue 4, pp. 346–353 (2022; epub 2020 Dec 4)
 - Setting: US nationally representative cross-sectional (MEPS 2016)
