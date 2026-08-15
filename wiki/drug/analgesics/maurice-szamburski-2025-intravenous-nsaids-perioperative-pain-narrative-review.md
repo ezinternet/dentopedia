@@ -14,6 +14,9 @@ tags: [NSAIDs, IV-ibuprofen, ketorolac, perioperative-pain, opioid-sparing, mult
 relations:
   - type: reinforces
     target: gousias-2025-preemptive-analgesia-periodontal-implant-sr-ma
+  - type: contextualizes
+    target: drug/analgesics/magesty-2026-adverse-events-oral-analgesics-third-molar-nma
+    note: "Not a contradiction despite surface tension. Magesty 2026 ranks NSAID monotherapy last on safety SUCRA (86.5%) with placebo 2nd (81.7%), which reads as opposing this review's comparable-AE finding for IV ibuprofen vs paracetamol (13.7% vs 14.5%) — but Magesty explicitly attributes the apparent risk to nocebo rather than drug toxicity and concludes NSAIDs should remain first-line, the same conclusion this review reaches. Different routes (oral vs IV) and populations (third molar vs general perioperative); the oral-route AE ranking supplies context for, not counter-evidence against, the IV safety data."
 ---
 
 ## Three-line Summary
