@@ -5,7 +5,7 @@ year: 2024
 date: 2024-10-01
 doi: 10.1563/aaid-joi-D-24-00006
 pmid: 38979575
-source: sources/wang-2024-mrarf-modified-roll-envelope-apf-implant.md
+source: wang-2024-mrarf-modified-roll-envelope-apf-implant.md
 category: implants/soft-tissue
 evidence_level: case-report
 source_collection: pubmed-abstract
