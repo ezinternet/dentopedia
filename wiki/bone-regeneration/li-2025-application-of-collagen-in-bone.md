@@ -4,7 +4,7 @@ authors: "Rou Li, Shiqing Xu, Yanning Guo, Cong Cao, Jingchen Xu, Lijun Hao, Sai
 year: 2025
 date: 2025-01-09
 doi: "10.1016/j.jot.2024.10.002"
-source: "Journal of Orthopaedic Translation 50 (2025) 129–143"
+source: li-2025-application-of-collagen-in-bone.md
 category: bone-regeneration
 evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/li-2025-application-of-collagen-in-bone.pdf
