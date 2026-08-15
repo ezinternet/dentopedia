@@ -6,7 +6,7 @@ date: 2026-06-01
 doi: 10.3390/ma19122682
 source: gomez-gonzalez-2026-calcium-silicate-sealer-dentinal-tubule-irrigation-sr.md
 category: [endodontics]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "42355262"
