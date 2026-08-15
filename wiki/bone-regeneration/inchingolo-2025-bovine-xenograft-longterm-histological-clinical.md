@@ -22,6 +22,9 @@ relations:
     target: nowzari-2022-migration-bovine-derived-xenograft-particles
   - type: refines
     target: sartori-2003-msfa-bio-oss-10year-case-report
+  - type: extends
+    target: bone-regeneration/stephan-1999-anorganic-bovine-bone-osteoblastic-attachment
+    note: "Direction corrected 2026-08-15. stephan-1999 previously carried a foundational-for edge pointing here, which is backwards for the vocabulary: the 1999 in-vitro osteoblast-attachment work does nothing to this paper's findings, whereas this long-term histological/clinical study builds on that bench baseline. Re-expressed as extends from this page."
 ---
 
 ## Three-line Summary
