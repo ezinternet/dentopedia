@@ -6,7 +6,7 @@ date: 2024-01-01
 doi: "10.1186/s12903-024-04905-3"
 source: elaskary-2024-vst-immediate-implant-infected-sockets.md
 category: [immediate-implant]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/elaskary-2024-vst-immediate-implant-infected-sockets.pdf
 pdf_filename: elaskary-2024-vst-immediate-implant-infected-sockets.pdf
 source_collection: external
