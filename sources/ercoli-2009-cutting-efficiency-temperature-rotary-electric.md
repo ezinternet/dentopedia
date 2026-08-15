@@ -18,6 +18,22 @@ In-vitro study (10 rotary cutting instrument groups × n=30, Macor substrate, 30
 ## 한줄요약
 인비트로 실험(회전절삭기구 10종, Macor 블록, 전동 핸드피스 vs 에어터빈 비교): 전동 핸드피스에서 카바이드 버가 다이아몬드 버 전체 대비 절삭효율 최고(진행속도 최대·하중 최소); 전동 핸드피스 전체 평균 절삭효율 에어터빈보다 높고 치수강 온도 낮음.
 
+## Three-line Summary
+
+In vitro comparison (J Prosthet Dent 2009;101(5):319–331, Part II of a series; abstract-only in this wiki) of 10 rotary cutting instrument groups run on an electric handpiece against a Macor glass-ceramic substrate, measuring rate of advancement, applied load and simulated pulp-chamber temperature, with SEM of bur surfaces before use, after use and after ultrasonic cleaning.
+
+With the electric handpiece the carbide bur (Great White Ultra) beat every diamond tested — highest advancement rate 0.17 mm/s and lowest applied load 108.35 g — and the electric handpiece outperformed the air turbine overall (advancement 0.12 vs 0.11 mm/s; pulp-chamber temperature 26.68°C vs 28.37°C), with a statistically significant handpiece-type × instrument-group interaction.
+
+Bur choice is not independent of handpiece: a ranking established on an air turbine does not transfer to an electric motor, so the pairing itself matters clinically — but the substrate was Macor rather than enamel or dentin, only one carbide model was tested, and exact p-values and per-diamond breakdowns are unavailable from the abstract.
+
+## 세줄요약
+
+in vitro 비교연구 (J Prosthet Dent 2009;101(5):319–331, 시리즈 Part II — 이 위키에는 초록만 확보): 전기 핸드피스 (Electric Handpiece)로 회전절삭기구 10개군을 Macor 유리세라믹에 적용해 전진속도·가압하중·모의 치수강 온도를 측정하고, 사용 전·사용 후·초음파 세척 후 버 표면을 주사전자현미경 (Scanning Electron Microscope, SEM)으로 관찰.
+
+전기 핸드피스에서는 **카바이드 버(Great White Ultra)가 시험한 모든 다이아몬드 버를 앞섰다** — 전진속도 0.17 mm/s로 최고, 가압하중 108.35 g으로 최저. 전기 핸드피스는 에어터빈 대비 전체적으로도 우월했다(전진속도 0.12 vs 0.11 mm/s, 치수강 온도 26.68°C vs 28.37°C). 핸드피스 종류 × 기구군 상호작용은 통계적으로 유의했다.
+
+버 선택은 핸드피스와 **독립적이지 않다** — 에어터빈에서 정한 버 순위가 전기 모터에 그대로 옮겨가지 않으므로 조합 자체가 임상적으로 중요하다. 다만 기질이 법랑질·상아질이 아닌 Macor이고 카바이드는 단일 모델만 시험했으며, 정확한 p값과 다이아몬드 군별 세부값은 초록에서 확인 불가다.
+
 ## 1. Document Information
 - **Journal**: The Journal of Prosthetic Dentistry (J Prosthet Dent)
 - **Volume/Issue/Pages**: 101(5):319–331
