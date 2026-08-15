@@ -12,11 +12,9 @@ pmcid: "PMC13068941"
 evidence_level: retrospective
 tags: [orthodontics, clear-aligner, accuracy, predictability, anterior-teeth, invisalign, intrusion, rotation, tipping, 3d-comparison]
 relations:
-  - type: related
+  - type: reinforces
     target: wiki/orthodontics/clear-aligner/benedetti-2025-clear-aligner-rotation-accuracy-sr
-  - type: related
-    target: wiki/orthodontics/clear-aligner/garcia-marin-2025-clear-aligner-molar-mesiodistal-sr
-  - type: related
+  - type: reinforces
     target: wiki/orthodontics/clear-aligner/goncalves-2023-invisalign-upper-incisor-accuracy-sr
 ---
 
