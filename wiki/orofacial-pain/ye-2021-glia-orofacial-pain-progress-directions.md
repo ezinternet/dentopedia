@@ -9,7 +9,7 @@ pages: "5345"
 doi: "10.3390/ijms22105345"
 evidence_level: narrative-review
 category: orofacial-pain
-source: sources/ye-2021-glia-orofacial-pain-progress-directions.md
+source: ye-2021-glia-orofacial-pain-progress-directions.md
 pdf_path: /Users/oracleneo/llm-wiki/papers/ye-2021-glia-orofacial-pain-progress-directions.pdf
 pdf_filename: ye-2021-glia-orofacial-pain-progress-directions.pdf
 tags:
