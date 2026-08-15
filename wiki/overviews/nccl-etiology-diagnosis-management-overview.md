@@ -2,7 +2,7 @@
 title: "Overview: 비우식성 치경부 병소(NCCL) — 병인·진단·관찰 vs 수복 의사결정"
 authors: Synthesis (Damian Lee)
 year: 2026
-date: 2026-06-07
+date: 2026-08-16
 doi: N/A
 source: N/A
 type: synthesis
@@ -28,6 +28,7 @@ source_papers:
   - wiki/nccl/dioguardi-2023-nccl-etiopathological-mechanisms-review.md
   - wiki/nccl/dioguardi-2024-abfraction-theory-controversy-scoping-review.md
   - wiki/resin-bonding/yurdaguven-2025-universal-adhesives-nccl-24month-rct.md
+  - wiki/resin-bonding/loguercio-2015-isolation-method-operative-field-gingival.md
 tags: [nccl, abfraction, biocorrosion, monitoring, universal-adhesive, selective-enamel-etching, occlusion, overview]
 relations:
   - type: refines
@@ -37,7 +38,7 @@ relations:
 ## 한국어 핵심요약
 
 > [!summary] 한국어 핵심요약
-> - 핵심: 비우식성 치경부 병소(Noncarious Cervical Lesion, NCCL)의 병인·진단과 "관찰 vs 수복" 의사결정 종합(16편).
+> - 핵심: 비우식성 치경부 병소(Noncarious Cervical Lesion, NCCL)의 병인·진단과 "관찰 vs 수복" 의사결정 종합(17편).
 > - 병인은 단일 기전이 아닌 stress(abfraction)·friction(abrasion)·biocorrosion(erosion)의 case-specific 다인성 조합.
 > - 교합응력 단독이 모든 NCCL의 주원인이라는 abfraction 단독원인설은 임상적으로 미입증 — SR 근거가 정면 충돌.
 > - SR 충돌 상세: 임상 SR(Senna 2012·Silva 2013)=연관 약함/불가 vs abfraction SR(Duangthip 2017)=81% 연관(단 lab/FEA 가중·응력단독 원인 임상입증 전무) vs scoping review(Dioguardi 2024, 6편)=확정·반박 모두 불가. SEM은 microfracture 일부 관찰(Worawongvasu).
@@ -48,11 +49,12 @@ relations:
 > - 수복 핵심: 1차 재료는 복합레진(Composite Resin); 성공은 composite "종류"가 아니라 접착 시스템·술자 술기에 좌우(근거강함 — RCT).
 > - 접착: universal adhesive의 E&R vs SEE 모드는 장기 동등(Peumans 2023); 법랑질 변연 있으면 선택적 법랑질 산부식(Selective Enamel Etching) 권장(Omoto 2025).
 > - 금기 패턴: 접착 단계를 생략하는 self-adhesive flowable은 6개월에 유지 붕괴(성공 33% vs 3-step E&R 100%, Celik 2015) → 사용 지양; 경화상아질은 산부식 30초 연장 + 표면 텍스처링.
+> - 격리법: 러버댐 vs 코튼롤/견인사는 NCCL 수복물 유지율·치은 손상·시술 시간 모두 동등(18개월 73% vs 73%, Loguercio 2015 RCT) — 낮은 유지율은 격리법이 아닌 1단계 접착제 특성에 기인.
 > - gap: bruxer/고위험 환자 데이터 공백(주요 RCT가 severe bruxism 배제), monitoring → 수복 전환의 정량 임계값 부재.
 
 ## Three-line Summary
 
-Synthesis of 16 papers on noncarious cervical lesions (NCCL) — etiology, diagnosis, and monitor-vs-restore decision: NCCLs are multifactorial (stress/abfraction + friction/abrasion + biocorrosion/erosion as a case-specific combination), the "abfraction as sole cause" hypothesis is clinically unproven with SR evidence directly contradicting across three systematic reviews (Senna 2012 — association unconclusive; Duangthip 2017 — 81% association but lab-weighted; Dioguardi 2024 scoping — neither confirms nor refutes with only 6 eligible studies).
+Synthesis of 17 papers on noncarious cervical lesions (NCCL) — etiology, diagnosis, and monitor-vs-restore decision: NCCLs are multifactorial (stress/abfraction + friction/abrasion + biocorrosion/erosion as a case-specific combination), the "abfraction as sole cause" hypothesis is clinically unproven with SR evidence directly contradicting across three systematic reviews (Senna 2012 — association unconclusive; Duangthip 2017 — 81% association but lab-weighted; Dioguardi 2024 scoping — neither confirms nor refutes with only 6 eligible studies).
 
 Asymptomatic, vital, structurally stable NCCLs should be monitored for ≥6 months before any intervention; prophylactic restoration solely for progression-prevention or routine occlusal adjustment is not indicated; restoration triggers are confirmed progression, hypersensitivity, esthetic concern, structural threat, or food retention.
 
@@ -60,7 +62,7 @@ When restoration is required, success depends not on composite type but on the a
 
 ## 세줄요약
 
-비우식성 치경부 병소(Noncarious Cervical Lesion, NCCL) 16편 종합 — 병인은 stress(abfraction)·friction(abrasion)·biocorrosion(erosion)의 case-specific 다인성 조합이고, "교합응력(abfraction) 단독원인설"은 임상적으로 미입증이며 3편의 SR이 충돌(Senna 2012 결론 불가, Duangthip 2017 81% 연관 단 lab 가중, Dioguardi 2024 scoping 6편으로 확정·반박 모두 불가).
+비우식성 치경부 병소(Noncarious Cervical Lesion, NCCL) 17편 종합 — 병인은 stress(abfraction)·friction(abrasion)·biocorrosion(erosion)의 case-specific 다인성 조합이고, "교합응력(abfraction) 단독원인설"은 임상적으로 미입증이며 3편의 SR이 충돌(Senna 2012 결론 불가, Duangthip 2017 81% 연관 단 lab 가중, Dioguardi 2024 scoping 6편으로 확정·반박 모두 불가).
 
 무증상·생활치·구조 안정 병변은 최소 6개월 monitoring 우선; 진행 예방 목적의 예방적 수복·교합조정은 비적응증; 수복 trigger는 진행 확인·과민증·심미·구조적 위협·음식물 정체.
 
@@ -94,6 +96,7 @@ NCCL 임상 질문은 두 갈래다 — (1) 무엇이 원인이고 어떻게 진
 | [[resin-bonding/omoto-2025-nccl-adhesion-strategies-4year-rct]] | RCT (split-mouth) | 200 | selective enamel etching이 유지력 손실 감소; RMGIC 광택손실↑; 4전략 생존곡선 무차이(p=0.315); EDTA 무이득 | rct |
 | [[resin-bonding/yurdaguven-2025-universal-adhesives-nccl-24month-rct]] | RCT (split-mouth) | 256 | universal adhesive 조성(monomer·HEMA·solvent) 차이 무영향; 24mo 성공 98.2% | rct |
 | [[resin-bonding/celik-2015-self-adhesive-flowable-nccl-6month]] | RCT (abstract) | 80 | self-adhesive flowable 6mo 성공 33% vs 3-step E&R+nanohybrid 100% | rct |
+| [[resin-bonding/loguercio-2015-isolation-method-operative-field-gingival]] | RCT (split-mouth) | 30/60 | 러버댐 vs 코튼롤/견인사 격리법: 유지율·치은 손상·시술 시간 무차이(18mo 73% vs 73%); 낮은 유지율은 1단계 접착제 특성 | rct |
 
 ## Clinical Decision Points
 
@@ -107,6 +110,7 @@ NCCL 임상 질문은 두 갈래다 — (1) 무엇이 원인이고 어떻게 진
    - 경화상아질: 정상 상아질처럼 산부식되지 않음 → 산부식 30초로 연장, fine diamond로 표면 텍스처링(Goodacre).
    - 금기 패턴: 접착 단계를 생략하는 self-adhesive flowable composite는 6개월에 유지 붕괴(Celik 2015) → 사용 지양.
    - RMGIC: 유지는 composite와 대등하나 표면 광택 손실이 더 크고, EDTA 전처리는 추가 이득 없음(Omoto 2025).
+   - 격리법: 러버댐과 코튼롤/견인사는 NCCL 수복에서 유지율·치은 손상·시술 시간 모두 동등(18개월 73% vs 73%, Loguercio 2015 RCT); 경험 술자 기준이며, 낮은 유지율은 1단계 접착제 특성에 기인.
 
 4. **gingival recession 동반 시.** restorative-surgical 복합 접근(근면피복술 병용) 고려(Nascimento, Peumans 2020).
 
@@ -121,3 +125,4 @@ NCCL 임상 질문은 두 갈래다 — (1) 무엇이 원인이고 어떻게 진
 - [[overviews/direct-resin-restoration-adhesion-placement-overview]] — 직접레진 술식과 중첩
 - [[overviews/dentin-hypersensitivity-overview]] — NCCL 과민증 관리와 연결
 - [[nccl/goodacre-2022-nccl-morphology-etiology-restoration-guidelines]] — 기준 문헌
+- [[resin-bonding/loguercio-2015-isolation-method-operative-field-gingival]] — 격리법 RCT; 수복 술기 섹션 보완
