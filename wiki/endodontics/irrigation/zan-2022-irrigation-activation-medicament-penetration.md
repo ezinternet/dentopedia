@@ -3,7 +3,7 @@ title: "Effect of Different Irrigation Activation Methods on Non-Infected Dentin
 authors: "R Zan, HS Topçuoğlu, İ Hubbezoğlu, O Görler, D Altunbaş, M Ayhan"
 year: 2022
 doi: "10.4103/njcp.njcp_1932_21"
-source: sources/zan-2022-irrigation-activation-medicament-penetration.md
+source: zan-2022-irrigation-activation-medicament-penetration.md
 category: endodontics/irrigation
 evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/zan-2022-irrigation-activation-medicament-penetration.pdf
