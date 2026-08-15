@@ -3,7 +3,7 @@ title: "Narrow‐diameter implants: A systematic review and meta‐analysis"
 authors: Eik Schiegnitz, Bilal Al‐Nawas
 year: 2018
 doi: 10.1111/clr.13272
-source: sources/schiegnitz-2018-narrow-diameter-implants-systematic-review.md
+source: schiegnitz-2018-narrow-diameter-implants-systematic-review.md
 category: implants/short-narrow
 evidence_level: sr+ma
 date: 2018-01-01
