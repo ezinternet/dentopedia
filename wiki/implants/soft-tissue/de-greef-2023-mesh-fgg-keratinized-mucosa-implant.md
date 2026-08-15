@@ -5,7 +5,7 @@ year: 2023
 date: 2023-08-16
 doi: 10.1002/cap.10264
 pmid: 37551510
-source: sources/de-greef-2023-mesh-fgg-keratinized-mucosa-implant.md
+source: de-greef-2023-mesh-fgg-keratinized-mucosa-implant.md
 category: implants/soft-tissue
 evidence_level: case-report
 source_collection: pubmed-abstract
