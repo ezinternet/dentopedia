@@ -14,7 +14,7 @@ tags: [post-and-core, ferrule-effect, post-necessity, endocrown, postless, adhes
 relations:
   - type: contextualizes
     target: naumann-2017-ferrule-first-post-second-systematic-review
-  - type: consistent_with
+  - type: reinforces
     target: alenezi-2024-endodontically-treated-teeth-post-placement-survival
 ---
 
