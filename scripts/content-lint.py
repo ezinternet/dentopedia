@@ -36,7 +36,9 @@ from typing import Optional
 
 WIKI_DIR = "wiki"
 SOURCES_DIR = "sources"
-SKIP_DIRS = {"_lint"}
+# _lint: 감사 리포트, _meta: categories.md 등 라우팅 SSOT — 둘 다 논문/종합 페이지가
+# 아니므로 세줄요약·source 규칙 대상이 아니다(빼지 않으면 영구 오탐으로 남는다).
+SKIP_DIRS = {"_lint", "_meta"}
 SKIP_FILES = {"index.md", "category-map.md"}
 
 # heading에 태그로 쓰일 때 '검증 상태'를 표시하는 토큰. 이 중 하나를 포함하면 정상.
@@ -76,7 +78,12 @@ REQ_THREELINE_KO = r"세\s?줄\s?요약"
 REQ_KO_DIGEST = "한국어 핵심요약"            # overview 상단 콜아웃(`> [!summary] 한국어 핵심요약`)
 
 # source: 필드가 실제 파일이 아니라 합성/플레이스홀더를 뜻하는 값들 — Check C 면제.
-SOURCE_PLACEHOLDERS = {"n/a", "na", "none", "-", "overview", "synthesis", "multiple", "various"}
+# "navigation" = 카테고리 랜딩 페이지(`authors: navigation`, `tags: [navigation,
+# category-index, …]`) — 논문 1편에 대응하는 source 파일이 원래 없다. 2026-08-15
+# 시점 120개로 C 검사 findings의 대다수였고, 전부 오탐이었다.
+SOURCE_PLACEHOLDERS = {
+    "n/a", "na", "none", "-", "overview", "synthesis", "multiple", "various", "navigation",
+}
 
 
 def check_a(path: str, body: str, ptype: str) -> list[str]:
