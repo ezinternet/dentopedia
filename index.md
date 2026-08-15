@@ -4085,3 +4085,34 @@ tags: []
 - [[implants/mbl/alrabeah-2016-effect-platform-switching-metal-ion]] — Alrabeah 2016 · in-vitro(가속부식, 1% 젖산) · PM이 PS보다 V·Al·Co·Cr·Mo 금속이온 방출 약 2배 많음(p<0.05) — 부식 기전을 PS 골보존 효과의 새 축으로 추가
 - [[implants/mbl/chien-2016-effect-platform-switching-periimplant-crevicular]] — Chien 2016 · prospective(split-mouth 14명, 초기치유 1·2·4·6주 PICF 사이토카인) · PD·IL-6·MIP-1β는 양군 유사, 단 TNF-α는 PS가 1주차에 오히려 3배 높음(p=0.005) — 염증침윤 거리이동 가설에 대한 반례성 소견
 - [[implants/mbl/rossi-2015-randomized-clinical-investigation-titanium-implants]] — Rossi 2015 · rct(PS 21 vs 표준 18, 6개월) · PS와 표준 임플란트 간 변연골수준 유의차 없음 — PS 이점을 못 찾은 소수 RCT 중 하나, juan-montesinos-2022 SR+MA와 contradicts
+
+## Batch ingest (added 2026-08-15) — DeepSeek 하이브리드 인제스트 (15편 신규: 감염관리·구강점막염·구강미생물·치주·우식·구강외과)
+
+### infection-control
+- [[infection-control/elzein-2021-chlorhexidine-povidone-iodine-mouthwash-salivary-sars-cov-2-rct]] — Elzein 2021 · rct · 0.2% 클로르헥시딘과 1% 포비돈-아이오딘 구강 세정액이 타액 내 SARS-CoV-2 바이러스 부하를 유의하게 감소시킴 (평균 Ct 증가 5.69 및 4.45, P < .0001). 두 용액 간 효과 차이는 없음 (P = .24). (DOI 10.1016/j.jebdp.2021.101584)
+- [[infection-control/kumbargere-nagraj-2020-interventions-reduce-contaminated-aerosols-dental-procedures-preventing-infectious-diseases-sr-ma]] — Kumbargere Nagraj 2020 · sr+ma · 치과 에어로졸 감소 중재에 대한 체계적 문헌고찰: HVE와 러버댐 및 항균 쿨런트에서 CFU 감소 가능성, 그러나 근거 확실성 매우 낮고 감염 전파 연구 없음 (DOI 10.1002/14651858.CD013686.pub2)
+- [[infection-control/zhao-2020-oral-hygiene-care-critically-ill-vap-sr-ma]] — Zhao 2020 · sr+ma · 중환자 기계환기 환자 대상 클로르헥시딘(CHX) 구강위생관리는 VAP 발생 위험을 33% 감소(RR 0.67, 95% CI 0.47~0.97, NNTB 12), 칫솔질은 39% 감소(RR 0.61, 95% CI 0.41~0.91). 사망률은 두 중재 모두 유의한 차이 없음. (DOI 10.1002/14651858.CD008367.pub4)
+- [[infection-control/graves-2024-cetylpyridinium-chloride-salivary-viral-load]] — Graves 2024 · rct · CPC 구강 세정액은 COVID-19 환자의 타액 내 바이러스 부하량을 30분 동안 유의하게 감소시킴 (P = .015) (DOI 10.1371/journal.pone.0292428)
+- [[infection-control/marui-2019-preprocedural-mouthrinse-aerosol-sr-ma]] — Marui 2019 · sr+ma · 시술 전 구강세정제로 에어로졸 미생물 64.8% 감소 (95% CI: 50.4% ~ 79.3%) (DOI 10.1016/j.adaj.2019.06.024)
+- [[infection-control/ebrahimi-2023-mouthwash-sars-cov2-viral-load-sr-ma]] — Ebrahimi 2023 · sr+ma · PVP-I 구강세정제로 SARS-CoV-2 바이러스 부하 감소 (MD = 3.61, p = 0.006) (DOI 10.1186/s12903-023-03126-4)
+
+### oral-medicine/mucositis
+- [[oral-medicine/mucositis/wang-2023-mouthwash-oral-mucositis-sr-ma]] — Wang 2023 · sr+ma · 구강점막염 치료에 GM-CSF 가글액 가장 효과적, 3주차 천연물 우수 (WMD -0.93 vs placebo) (DOI 10.3389/froh.2022.977830)
+- [[oral-medicine/mucositis/namuangchan-2023-iodine-mouthwash-oral-mucositis-ccrt-rct]] — Namuangchan 2023 · rct · 두경부암 동시항암방사선치료(CCRT) 환자에서 in-house 요오드 용액(IS) 가글과 정상생리식염수(NSS) 간 구강점막염(OM) 예방 효과 비교: OMAS, 통증, 연하곤란 점수에서 유의한 차이 없음 (매주 p>0.999) (DOI 10.31557/APJCP.2023.24.7.2445)
+- [[oral-medicine/mucositis/zhang-2025-mouthwash-oral-mucositis-nma]] — Zhang 2025 · sr+ma · 구강점막염 예방에 알로에 베라 주스 최우수 (SUCRA #1), CHX 최하위 (SUCRA #13) (DOI 10.1186/s12906-025-04930-x)
+
+### oral-microbiology
+- [[oral-microbiology/pignatelli-2020-periodontal-disease-nitric-oxide-blood-pressure]] — Pignatelli 2020 · narrative-review · 구강 내 질산염 환원 박테리아와 치주 질환이 NO 경로를 통해 혈압에 미치는 영향 고찰 (DOI 10.3390/ijms21207538)
+
+### periodontics/oral-hygiene-instruction
+- [[periodontics/oral-hygiene-instruction/van-swaaij-2019-chx-ads-discoloration-sr-ma]] — Van Swaaij 2019 · sr+ma · CHX 항변색 시스템은 착색을 감소시키고 효능은 유지 (SMD = -3.19, p = 0.0005) (DOI 10.1111/idh.12402)
+- [[periodontics/oral-hygiene-instruction/windhorst-2025-cpc-chx-plaque-gingivitis-sr-ma]] — Windhorst 2025 · sr+ma · 양치 시 CPC와 CHX 치태·치은염 효과 동등 (WMD = 0.04, p = 0.11) (DOI 10.1111/idh.12916)
+
+### periodontics/non-surgical-instrumentation
+- [[periodontics/non-surgical-instrumentation/annisa-2023-chx-gel-chip-srp-sr-ma]] — Annisa 2023 · sr+ma · SRP 후 CHX 칩은 치은지수 우수, 타 항균제는 치주낭 깊이 우수 (MD = 0.58mm, p < 0.00001) (DOI 10.1186/s12903-023-03241-2)
+
+### caries
+- [[caries/gupta-2020-fluoride-antibacterial-caries-sr-ma]] — Gupta 2020 · sr+ma · 불소-항균제 병용이 불소 단독보다 우식 예방 우수 (SMD = -0.12, p = 0.004) (DOI 10.1007/s40368-020-00561-7)
+
+### oral-surgery/third-molar
+- [[oral-surgery/third-molar/canellas-2020-intrasocket-ao-third-molar-sr-nma]] — Canellas 2020 · sr+ma · 치조내 중재로 사랑니 발치 후 건성치조 예방 (RR = 0.39, p < 0.0001) (DOI 10.1016/j.jcms.2020.06.012)
