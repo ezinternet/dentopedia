@@ -14,10 +14,6 @@ tags: [orthodontics, clear-aligner, brand-comparison, invisalign, clearcorrect, 
 relations:
   - type: extends
     target: wiki/overviews/clear-aligner-indications-limitations
-  - type: compares-to
-    target: wiki/orthodontics/clear-aligner/delgado-2025-thermoplastics-clear-aligners-review
-  - type: compares-to
-    target: wiki/orthodontics/clear-aligner/cho-2025-clear-aligner-material-force-moment-six-axis-sensor
 ---
 
 > [!summary] 한국어 핵심요약
