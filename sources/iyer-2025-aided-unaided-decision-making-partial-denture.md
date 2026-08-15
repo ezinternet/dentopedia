@@ -16,6 +16,22 @@ RCT (n=76) of patient decision aid (PDA) vs unaided consultation for partial den
 ## 한줄요약
 RCT(n=76): 부분의치 선택 시 환자 의사결정 보조도구(PDA) 사용군 결정갈등 점수 8.0 vs 비사용군 20.6(p<0.001); 보조군은 고정성 선택 71.1% vs 비보조군 34.2%.
 
+## Three-line Summary
+
+Randomised controlled trial (n=76) allocating prosthodontic patients choosing between removable and fixed partial dentures to an aided arm (patient decision aid, PDA — an evidence-based RPD versus FPD comparison tool) or an unaided arm (usual consultation).
+
+The aided group had substantially lower decisional conflict — Decisional Conflict Scale (DCS-16) mean 8.0±6.4 versus 20.6±15.9 (p<0.001) — and the aid also shifted preference, with 71.1% of the aided group choosing a fixed partial denture versus 34.2% of the unaided group.
+
+A decision aid does not merely inform, it changes what patients choose, so introducing one is itself a clinical intervention to be evaluated as such; younger patients retained lower decisional certainty even with the aid.
+
+## 세줄요약
+
+무작위대조시험 (Randomized Controlled Trial, RCT — n=76): 가철성과 고정성 부분의치 중 선택해야 하는 보철 환자를, 환자 의사결정 보조도구 (Patient Decision Aid, PDA — 근거기반 가철성 vs 고정성 비교 도구) 사용군과 통상 상담군으로 무작위 배정.
+
+PDA 사용군의 의사결정 갈등이 뚜렷하게 낮았다 — 의사결정갈등척도 (Decisional Conflict Scale, DCS-16) 평균 8.0±6.4 vs 20.6±15.9 (p<0.001). 나아가 선택 자체가 이동했다 — 고정성 부분의치 선택률이 사용군 71.1% vs 미사용군 34.2%.
+
+의사결정 보조도구는 단순히 **알려주는 데 그치지 않고 환자의 선택을 바꾼다** — 따라서 도입은 그 자체로 평가 대상인 임상 개입이다. 연령이 낮을수록 PDA가 있어도 결정 확신은 여전히 낮았다.
+
 ## 1. Document Information
 - Journal: Cureus, Vol 17, Issue 1, e77803, January 2025
 - Institution: College of Dentistry, King Saud Bin Abdulaziz University for Health Sciences, Riyadh, Saudi Arabia
