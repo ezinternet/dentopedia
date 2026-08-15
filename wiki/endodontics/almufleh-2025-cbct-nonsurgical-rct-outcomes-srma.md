@@ -6,7 +6,7 @@ date: 2025-06-04
 doi: "10.1007/s44445-025-00021-2"
 source: almufleh-2025-cbct-nonsurgical-rct-outcomes-srma.md
 category: [endodontics]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: ""
 pdf_filename: ""
 source_collection: pubmed-abstract
