@@ -6,7 +6,7 @@ date: 2006-12-01
 doi: "10.1016/j.joms.2006.07.010"
 source: buyukkurt-2006-prednisolone-diclofenac-third-molar-rct.md
 category: [drug/analgesics]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/buyukkurt-2006-prednisolone-diclofenac-third-molar-rct.pdf
 pdf_filename: buyukkurt-2006-prednisolone-diclofenac-third-molar-rct.pdf
 source_collection: external
