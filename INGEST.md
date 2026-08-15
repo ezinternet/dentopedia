@@ -321,6 +321,20 @@ Plus a banner callout at the **top of the body** (right after frontmatter, befor
 
 For `partial`, use `> [!note] Partially superseded → [[newer-stem]]` and state what the page still offers.
 
+**`supersession_chain: intentional` — when a mid-chain pointer is correct (optional third field).**
+
+`supersession-audit.py` also checks transitivity: if A → B and B → C, it reports A's pointer as stale and suggests repointing to the chain tail C. **That rule is only valid for `full` supersession.** `partial` supersession happens *per axis*, and axes do not compose: if C took over a different axis of B than the one B took over from A, then A's pointer belongs on B and moving it to C loses information.
+
+Set this field on A when you have made that judgment, and **state the reason in A's banner** — the field alone tells the next reader nothing about why:
+
+```yaml
+superseded_by: avila-ortiz-2019-alveolar-ridge-preservation-interventions
+superseded_scope: partial
+supersession_chain: intentional    # 2019→canullo-2021 is a different axis; do not repoint
+```
+
+The declaration is not a mute: the audit moves the row out of `TRANSITIVITY chain stale` into a separate counted `chain intentional (선언)` line and still prints the chain tail, so the judgment stays visible and re-reviewable. Worked example: [[bone-regeneration/ridge-preservation/avila-ortiz-2014-alveolar-ridge-preservation-systematic-review]] (2026-08-15).
+
 **Decay is computed, never stored.** Do NOT add a decay/staleness field — a stored decay value rots (the same reason `overview-thesis-staleness.py` exists). `supersession-audit.py` computes it each run: high-evidence pages (`sr+ma`/`sr`/`rct`) older than 5y and not superseded are flagged as "verify still current" candidates.
 
 Design: `agenda/2026-05-31_supersession-decay-setup.md`.
