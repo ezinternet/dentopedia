@@ -23,13 +23,13 @@ tags:
   - comparison
 relations:
   - target: "orthodontics/clear-aligner/patil-2026-perception-satisfaction-ca-vs-fa"
-    type: supports
+    type: reinforces
     note: "Initial FA disadvantage and temporal adaptation pattern"
   - target: "orthodontics/clear-aligner/chehab-2026-ohrqol-orthodontic-narrative-review"
-    type: supports
+    type: reinforces
     note: "Completion phase CA 0% dissatisfied matches 3-phase recovery"
   - target: "orthodontics/clear-aligner/chong-2025-patient-experiences-cat-scoping-review"
-    type: supports
+    type: reinforces
     note: "Comfort and adaptation findings corroborate scoping review domains"
 ---
 
