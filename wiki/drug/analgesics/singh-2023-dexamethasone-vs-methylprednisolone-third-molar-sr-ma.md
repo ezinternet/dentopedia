@@ -6,7 +6,7 @@ date: 2023-04-30
 doi: "10.1155/2023/7412026"
 source: singh-2023-dexamethasone-vs-methylprednisolone-third-molar-sr-ma.md
 category: [drug/analgesics]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/singh-2023-dexamethasone-vs-methylprednisolone-third-molar-sr-ma.pdf
 pdf_filename: singh-2023-dexamethasone-vs-methylprednisolone-third-molar-sr-ma.pdf
 source_collection: external
