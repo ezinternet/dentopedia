@@ -3,7 +3,7 @@ title: "Evaluation of the clinical safety and performance of a narrow diameter (
 authors: Christian Walter, Keyvan Sagheb, Sebastian Blatt, Marcus Oliver Klein, Jan Herrmann, Johannes Kleinheinz, Bilal Al‑Nawas
 year: 2023
 doi: 10.1186/s40729-023-00495-x
-source: sources/walter-2023-narrow-diameter-29mm-bone-level-implant.md
+source: walter-2023-narrow-diameter-29mm-bone-level-implant.md
 category: implants/short-narrow
 evidence_level: prospective
 date: 2023-01-01
