@@ -14,8 +14,6 @@ tags: [oral-microbiology, subgingival-microbiome, nspt, srp, antiplaque, chlorhe
 relations:
   - type: reinforces
     target: wiki/oral-microbiology/krajewski-2025-nspt-subgingival-microbiota-sr-ma
-  - type: complements
-    target: wiki/oral-microbiology/regueira-iglesias-2024-salivary-microbiome-periodontitis-diagnostic
 ---
 
 ## Three-line Summary
@@ -68,3 +66,7 @@ Non-surgical periodontal therapy (NSPT/SRP) reduces pathogenic biofilm load, but
 | SRP+antiplaque → significant HPL distance reduction at 6 months | RCT secondary analysis, 16S rRNA |
 | SRP alone → NOT significant HPL reduction | RCT secondary analysis |
 | Baseline microbiome > treatment type as predictor | Random forest analysis |
+
+## Related Papers
+
+- [[periodontics/regueira-iglesias-2024-salivary-microbiome-periodontitis-diagnostic]] — salivary-niche counterpart: a 796-participant 16S diagnostic classifier for periodontitis. Different sample niche (saliva vs subgingival) and different question (diagnosis vs treatment response), so no typed edge — kept here after the reciprocal `complements:` edges between the two pages were dropped 2026-08-15.
