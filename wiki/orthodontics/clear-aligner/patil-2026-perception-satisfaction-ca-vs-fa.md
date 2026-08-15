@@ -24,16 +24,16 @@ tags:
   - comparison
 relations:
   - target: "orthodontics/clear-aligner/chehab-2026-ohrqol-orthodontic-narrative-review"
-    type: supports
+    type: reinforces
     note: "12mo OHIP convergence fits stabilization/completion phases"
   - target: "orthodontics/clear-aligner/oliveira-2026-daily-life-impact-aligners-vs-fixed"
-    type: supports
+    type: reinforces
     note: "Initial FA disadvantage and temporal convergence pattern"
   - target: "orthodontics/clear-aligner/chong-2025-patient-experiences-cat-scoping-review"
     type: contextualizes
     note: "Self-reported 21.8h/day vs population 36% full compliance"
   - target: "orthodontics/clear-aligner/hamid-2026-complex-cases-aligners-ohip14"
-    type: supports
+    type: reinforces
     note: "OHIP-14 convergence at treatment end in both studies"
 ---
 
