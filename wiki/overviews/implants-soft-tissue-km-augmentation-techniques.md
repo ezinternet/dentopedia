@@ -21,10 +21,6 @@ source_wiki:
 relations:
   - type: extends
     target: overviews/keratinized-mucosa-peri-implant-health-overview
-  - type: related
-    target: implants/soft-tissue/tavelli-2021-soft-tissue-phenotype-modification-peri-implant-nma
-  - type: related
-    target: implants/soft-tissue/bassetti-2016-soft-tissue-augmentation-second-stage-sr
 ---
 
 ## 한국어 핵심요약
