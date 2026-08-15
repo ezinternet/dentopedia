@@ -11,11 +11,6 @@ pmid: "39071165"
 pmcid: "PMC11272481"
 evidence_level: cross-sectional
 tags: [oral-microbiology, salivary-microbiome, diagnostic-biomarker, periodontitis, 16s-rrna, machine-learning, auc, batch-effect, asv, precision-diagnostics]
-relations:
-  - type: complements
-    target: wiki/oral-microbiology/teles-2024-salivary-biomarkers-periodontitis-progression
-  - type: complements
-    target: wiki/oral-microbiology/li-2025-subgingival-microbiome-nspt-antiplaque
 ---
 
 ## Three-line Summary
