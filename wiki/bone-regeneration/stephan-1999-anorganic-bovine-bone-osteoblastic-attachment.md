@@ -11,11 +11,6 @@ pdf_path: /Users/oracleneo/llm-wiki/papers/stephan-1999-anorganic-bovine-bone-os
 pdf_filename: stephan-1999-anorganic-bovine-bone-osteoblastic-attachment.pdf
 source_collection: external
 tags: [bone-regeneration, xenograft, DBBM, Bio-Oss, osteoblast, in-vitro, bovine-bone, osteoconduction]
-relations:
-  - target: overviews/dbbm-bone-substitute-overview
-    type: supports
-  - target: bone-regeneration/inchingolo-2025-bovine-xenograft-longterm-histological-clinical
-    type: foundational-for
 ---
 
 ## Three-line Summary
