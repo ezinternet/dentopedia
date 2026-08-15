@@ -20,6 +20,9 @@ tags: [subgingival-re-instrumentation, sodium-hypochlorite, hyaluronic-acid, cle
 relations:
   - type: extends
     target: khattri-2020-adjunctive-systemic-antimicrobials-non-surgical-treatment
+  - type: refines
+    target: periodontics/non-surgical-instrumentation/dasilveira-2026-subgingival-irrigation-chemical-agents-nspt-sr-ma
+    note: "Delivery mode, not agent, appears to separate the two results. da Silveira's SR+MA of 16 RCTs found no benefit from subgingival irrigation with chemical agents over water/saline (PPD MD 0.01mm, CAL MD 0.09mm); this RCT's sealed 'clean and seal' application (amino-acid-buffered NaOCl followed by cross-linked hyaluronic acid) reached ~0.5mm PD and 0.57mm CAL gain with doubled pocket closure. Typed refines rather than contradicts: the null is for irrigation as a delivery route, and this trial does not re-test that route."
 ---
 
 ## Three-line Summary
