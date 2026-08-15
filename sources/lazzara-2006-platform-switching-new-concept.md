@@ -21,6 +21,22 @@ Retrospective longitudinal radiographic observation (Implant Innovations wide-di
 
 후향적 장기 방사선 관찰 연구(1991년 이후 Implant Innovations 광경 임플란트) — 재고 부족으로 우연히 좁은 지대주가 얹힌 임플란트에서 예상보다 적은 치조정골 소실이 관찰되어 "플랫폼 스위칭" 개념을 최초로 제안.
 
+## Three-line Summary
+
+Foundational narrative/retrospective report (Int J Periodontics Restorative Dent 2006;26(1):9–17; abstract-only in this wiki) that coined the term "platform switching," describing wide-diameter (5.0/6.0 mm) implants placed from 1991 that were restored with narrower 4.1 mm standard components because matching wide components did not yet exist.
+
+On long-term radiographic follow-up these accidentally platform-switched cases showed smaller crestal bone height change than conventionally matched-diameter restorations — but no sample size, statistical test or exact bone-loss figure is reported, and the authors position the paper explicitly as a foundation for future work rather than a quantitative trial.
+
+Platform switching originated as an inventory shortage turned natural experiment, not as a designed bone-preservation technique — cite this paper for the concept and the horizontal implant-abutment junction hypothesis, and cite the later RCTs and meta-analyses for the effect size.
+
+## 세줄요약
+
+foundational 서술적·후향적 보고 (Int J Periodontics Restorative Dent 2006;26(1):9–17, 이 위키에는 초록만 확보): "플랫폼 스위칭 (Platform Switching, PLS)"이라는 용어를 최초로 도입한 논문으로, 1991년부터 식립된 광경(5.0/6.0 mm) 임플란트가 매칭되는 광경 부품이 아직 없어 더 좁은 4.1 mm 표준 부품으로 수복된 사례들을 기술.
+
+장기 방사선 추적에서 이렇게 **우연히** platform-switched된 케이스들이 관례적 매칭직경 수복보다 치조정골 높이 변화가 작았다 — 다만 표본 크기·통계 검정·정확한 골소실 수치는 보고되지 않았고, 저자들 스스로 이 논문을 정량적 시험이 아니라 향후 연구의 토대로 규정한다.
+
+플랫폼 스위칭의 기원은 설계된 골보존 기법이 아니라 **부품 재고 부족이 만든 자연실험**이었다 — 개념과 임플란트-지대주 접합부 수평 이동 가설은 이 논문을 인용하고, **효과크기는 이후의 무작위대조시험 (RCT)과 메타분석을 인용**하라.
+
 ## 1. Document Information
 
 - **Journal**: The International Journal of Periodontics & Restorative Dentistry, Vol. 26, Issue 1, pp. 9–17
