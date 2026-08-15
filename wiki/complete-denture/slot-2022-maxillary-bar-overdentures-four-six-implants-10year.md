@@ -6,7 +6,7 @@ date: 2022-09-05
 doi: "10.1111/clr.13997"
 source: slot-2022-maxillary-bar-overdentures-four-six-implants-10year.md
 category: [complete-denture]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/slot-2022-maxillary-bar-overdentures-four-six-implants-10year.pdf
 pdf_filename: slot-2022-maxillary-bar-overdentures-four-six-implants-10year.pdf
 source_collection: external
