@@ -10,7 +10,7 @@ full_text: true
 source_url: https://pmc.ncbi.nlm.nih.gov/articles/PMC11630894/
 text_path: /Users/oracleneo/llm-wiki/papers/khalifeh-2024-trismus-following-inferior-alveolar-nerve-block.txt
 text_filename: khalifeh-2024-trismus-following-inferior-alveolar-nerve-block.txt
-source: sources/khalifeh-2024-trismus-following-inferior-alveolar-nerve-block.md
+source: khalifeh-2024-trismus-following-inferior-alveolar-nerve-block.md
 category: tmj
 evidence_level: case-report
 date: 2024-11-10
