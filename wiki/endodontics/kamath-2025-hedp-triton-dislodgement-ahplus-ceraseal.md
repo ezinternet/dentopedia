@@ -6,7 +6,7 @@ date: 2025-09-01
 doi: 10.1055/s-0045-1811574
 source: kamath-2025-hedp-triton-dislodgement-ahplus-ceraseal.md
 category: [endodontics]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: true
 pmid: "40907536"
