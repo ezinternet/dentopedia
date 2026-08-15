@@ -6,7 +6,7 @@ date: 2025-11-21
 doi: "10.1016/j.identj.2025.104021"
 source: fan-2025-perioendo-treatment-sequence-srma.md
 category: [endodontics]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: ""
 pdf_filename: ""
 source_collection: pubmed-abstract
