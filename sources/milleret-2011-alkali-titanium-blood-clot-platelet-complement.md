@@ -26,6 +26,14 @@ Increasing blood-surface exposure time increased platelet activation, clot forma
 
 This is the mechanistic reference Becker 2019 cites for why hydrophilic/plasma-activated titanium surfaces alter early blood-contact immune behavior — but it does not itself measure cytokine gene expression or a 24-hour reversal, so it supports a candidate hypothesis (time-dependent complement/coagulation accumulation) rather than confirming Becker's specific finding.
 
+## 세줄요약
+
+in vitro 연구: 초친수성(알칼리/NaOH 처리) 샌드블라스트 산부식 (Sand-Blasted Acid-Etched, SBA) 티타늄과 미처리 SBA 티타늄을 부분 헤파린화 사람 전혈에 노출시켜 혈전 형성·혈소판 활성·보체 활성화·대식세포/단핵구 부착을 평가.
+
+혈액-표면 노출시간이 길어질수록 표면처리와 무관하게 혈소판 활성·혈전 형성·보체 활성화가 증가했다. 알칼리 처리(초친수성) 표면은 미처리 대비 대식세포/단핵구를 유의하게 적게 동원했고, 질적으로 다른 혈전 구조를 만들었다 — 두껍고 조직화된 층상 피브린 망 vs 미처리 티타늄의 얇고 패치형·비구조화된 망.
+
+Becker 2019가 친수성·플라즈마 활성화 티타늄이 초기 혈액접촉 면역반응을 바꾸는 이유로 인용한 기전 참고문헌이다 — 다만 이 논문 자체는 사이토카인 유전자 발현이나 24시간 반전을 측정하지 않으므로, Becker의 특정 소견을 확정하는 것이 아니라 **시간의존적 보체·응고 활성 누적**이라는 후보 가설을 뒷받침하는 수준이다.
+
 ## 1. Document Information
 
 - Journal: European Cells & Materials, 2011 May 15;21:430-444 (discussion 444)
