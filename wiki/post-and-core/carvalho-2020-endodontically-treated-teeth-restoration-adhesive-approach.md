@@ -12,7 +12,7 @@ pdf_filename: carvalho-2020-endodontically-treated-teeth-restoration-adhesive-ap
 source_collection: external
 tags: [post-and-core, ferrule-effect, post-necessity, endocrown, postless, adhesive-restoration, endodontically-treated-teeth]
 relations:
-  - type: contextualizes
+  - type: refines
     target: naumann-2017-ferrule-first-post-second-systematic-review
   - type: reinforces
     target: alenezi-2024-endodontically-treated-teeth-post-placement-survival
