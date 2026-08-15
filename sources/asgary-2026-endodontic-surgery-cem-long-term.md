@@ -18,6 +18,22 @@ Retrospective cohort (n=197 teeth, mean follow-up 45.2 months) of endodontic sur
 ## 한줄요약
 후향적 코호트 (197개 치아, 평균 45.2개월 추적): CEM 시멘트 근단 수술 성공률 94.9%; 전신질환만이 유일한 유의 실패 예측 인자(HR=5.87, p=0.010) — 병소 크기·치관-근관 비율·근단 절제 길이는 유의하지 않음.
 
+## Three-line Summary
+
+STROBE-compliant retrospective cohort of 197 teeth given calcium-enriched mixture (CEM) cement root-end filling by a single endodontist at one tertiary center over 13 years (2011–2024).
+
+Overall success was 94.9% (187/197), with failure-free survival of 96.4% / 92.7% / 87.3% at 1 / 3 / 5 years; on multivariate Cox regression systemic disease (ASA ≥II) was the sole independent predictor of failure (HR=5.87, 95% CI 1.52–22.68, p=0.010; 14% failure versus 2.6% in healthy patients), while lesion size, crown-root ratio, root-end preparation depth, tooth type and post presence were all non-significant.
+
+Patient systemic status outweighed the local anatomic factors clinicians usually weight when selecting cases for apical surgery — but this is a single-operator, single-center retrospective series with no comparison arm, so the effect size needs multicenter confirmation.
+
+## 세줄요약
+
+STROBE 준수 후향적 코호트 (Retrospective Cohort): 단일 근관전문의·단일 3차 의료기관에서 13년간(2011~2024) 칼슘강화혼합물 (Calcium-Enriched Mixture, CEM) 시멘트로 치근단 충전한 197치.
+
+전체 성공률 94.9%(187/197), 무실패 생존율은 1년 96.4% · 3년 92.7% · 5년 87.3%였다. 다변량 콕스 회귀 (Multivariate Cox Regression)에서 **전신질환(ASA ≥II)만이 유일한 독립 실패 예측인자**였고(위험비 HR=5.87, 95% CI 1.52~22.68, p=0.010; 실패율 14% vs 건강군 2.6%), 병소 크기·치관-치근 비율·치근단 형성 깊이·치아 종류·포스트 유무는 모두 유의하지 않았다.
+
+치근단수술 케이스 선택에서 임상가가 통상 중시하는 국소 해부학적 인자보다 **환자의 전신 상태가 더 크게 작용**했다는 뜻이다 — 다만 단일 술자·단일 기관·대조군 없는 후향 연구이므로 효과크기는 다기관 검증이 필요하다.
+
 ## 1. Document Information
 - Journal: BMC Oral Health, Volume 26, 2026
 - DOI: 10.1186/s12903-026-07945-z
