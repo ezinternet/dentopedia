@@ -11,19 +11,6 @@ pdf_path: N/A
 pdf_filename: N/A
 source_collection: internal
 tags: [radiology, cbct, panoramic, dose-optimization, anatomy, bifid-mandibular-canal, nutrient-canal, nasopalatine-canal, artifact, differential-diagnosis, pdl-widening, image-quality, overview]
-relations:
-  - type: synthesizes
-    targets:
-      - radiology/aung-2023-bifid-mandibular-canal-proportional
-      - radiology/menditti-2025-real-anatomy-mandibular-canal
-      - radiology/hasan-2022-prevalence-nutrient-canals-mandibular
-      - radiology/yadav-2024-nasopalatine-canal-morphology-cbct
-      - radiology/dioguardi-2025-radiographic-artifacts-caries-diagnosis-sr-ma
-      - radiology/lingam-2023-common-errors-subjective-quality-panoramic
-      - radiology/mortazavi-2016-lesions-associated-with-periodontal-ligament
-      - radiology/fontenele-2025-cbct-dentistry-clinical-recommendations-indication
-      - radiology/benavides-2023-patient-shielding-dentomaxillofacial-radiography
-      - radiology/ludlow-2008-patient-risk-dental-radiographic-examinations
 ---
 
 ## 한국어 핵심요약
