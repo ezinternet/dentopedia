@@ -6,7 +6,7 @@ doi: "10.1016/j.joen.2019.01.005"
 pmid: "30910353"
 category: drug/analgesics
 evidence_level: rct
-source: "Journal of Endodontics"
+source: yavari-2019-submucosal-corticosteroids-postoperative-pain-rct.md
 source_collection: pubmed-abstract
 date: 2019-05-01
 tags:
