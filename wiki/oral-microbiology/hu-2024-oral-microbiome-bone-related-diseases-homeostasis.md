@@ -12,7 +12,7 @@ pmcid: "PMC12225918"
 evidence_level: narrative-review
 tags: [oral-microbiology, bone-diseases, rheumatoid-arthritis, osteoporosis, osteoarthritis, osteomyelitis, rankl-opg, citrullination, gut-bone-axis, homeostatic-medicine, microbiome-transplantation]
 relations:
-  - type: complements
+  - type: extends
     target: wiki/oral-microbiology/rajasekaran-2024-oral-microbiome-systemic-health-review
   - type: reinforces
     target: wiki/periodontics/duarte-2025-vitamin-d-periimplant-periodontal
