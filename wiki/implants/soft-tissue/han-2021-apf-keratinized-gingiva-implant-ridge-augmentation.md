@@ -5,7 +5,7 @@ year: 2021
 date: 2021-11-15
 doi: 10.1111/cid.13055
 pmid: 34779114
-source: sources/han-2021-apf-keratinized-gingiva-implant-ridge-augmentation.md
+source: han-2021-apf-keratinized-gingiva-implant-ridge-augmentation.md
 category: implants/soft-tissue
 evidence_level: prospective
 source_collection: pubmed-abstract
