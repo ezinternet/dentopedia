@@ -15,6 +15,10 @@ source_url: https://pmc.ncbi.nlm.nih.gov/articles/PMC10562115/
 text_path: /Users/oracleneo/llm-wiki/papers/huraib-2023-micro-threaded-laser-textured-implant-neck-peri-implant.txt
 text_filename: huraib-2023-micro-threaded-laser-textured-implant-neck-peri-implant.txt
 tags: [micro-threaded-neck, laser-microtextured-surface, marginal-bone-loss, implant-neck-design, peri-implant-soft-tissue]
+relations:
+  - type: contextualizes
+    target: implants/zhang-2021-tissue-level-bone-level-fresh-extraction-sockets-dogs
+    note: "Discordant but not head-on. This human SR found micro-threaded necks reduce post-loading MBL vs machined necks; zhang-2021 (dog histomorphometry) found no significant vertical bone resorption difference between neck types. Two reasons not to type this contradicts: zhang's bone-level arm confounds micro-threading with platform switching, and this SR itself reports that 4 of its 15 included studies also found no significant between-group MBL difference — the animal null sits inside this SR's own acknowledged heterogeneity rather than opposing its conclusion."
 ---
 
 ## Three-line Summary
