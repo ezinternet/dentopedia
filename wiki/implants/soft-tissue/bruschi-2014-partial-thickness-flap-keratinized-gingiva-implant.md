@@ -5,7 +5,7 @@ year: 2014
 date: 2014-08-01
 doi: 10.1563/AAID-JOI-D-11-00236
 pmid: 25106011
-source: sources/bruschi-2014-partial-thickness-flap-keratinized-gingiva-implant.md
+source: bruschi-2014-partial-thickness-flap-keratinized-gingiva-implant.md
 category: implants/soft-tissue
 evidence_level: prospective
 source_collection: pubmed-abstract
