@@ -11,8 +11,8 @@ full_text: true
 pmid: "30729925"
 pmcid: "PMC6380118"
 source_url: https://pmc.ncbi.nlm.nih.gov/articles/PMC6380118/
-text_path: /Users/oracleneo/llm-wiki/papers/gupta-2019-platform-switching-technique-crestal-bone.txt
-text_filename: gupta-2019-platform-switching-technique-crestal-bone.txt
+text_path: /Users/oracleneo/llm-wiki/papers/gupta-2019-platform-switching-crestal-bone-loss-sr.txt
+text_filename: gupta-2019-platform-switching-crestal-bone-loss-sr.txt
 ---
 
 ## Why Ingested
