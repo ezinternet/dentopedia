@@ -17,8 +17,6 @@ tags: []
 relations:
   - type: contradicts
     target: mello-2017-immediate-fresh-extraction-vs-delayed-healed-socket-sr-ma
-  - type: supersedes
-    target: immediate-implant/mello-2017-immediate-fresh-extraction-vs-delayed-healed-socket-sr-ma
   - type: applies-to
     target: evidence-appraisal-toolkit
 ---
