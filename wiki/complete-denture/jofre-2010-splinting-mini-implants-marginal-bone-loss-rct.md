@@ -6,7 +6,7 @@ date: 2010-11-01
 doi: "10.11607/jomi.2010.25.6.1137"
 source: jofre-2010-splinting-mini-implants-marginal-bone-loss-rct.md
 category: [complete-denture]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/jofre-2010-splinting-mini-implants-marginal-bone-loss-rct.pdf
 pdf_filename: jofre-2010-splinting-mini-implants-marginal-bone-loss-rct.pdf
 source_collection: external
