@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: "10.1186/s40729-025-00630-w"
 source: wang-2025-porcine-bovine-xenograft-msfa-arp-sr-ma.md
 category: [bone-regeneration]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/wang-2025-porcine-bovine-xenograft-msfa-arp-sr-ma.pdf
 pdf_filename: wang-2025-porcine-bovine-xenograft-msfa-arp-sr-ma.pdf
 source_collection: external
