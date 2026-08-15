@@ -14,7 +14,7 @@ tags: [post-and-core, anterior-teeth, cervical-lesion, resin-composite, full-cov
 relations:
   - type: extends
     target: phengudom-2021-survival-fracture-endodontic-anterior
-  - type: compares
+  - type: extends
     target: suksaphar-2017-survival-fracture-ett-crown-resin-sr
 ---
 
