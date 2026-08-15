@@ -241,6 +241,17 @@ if "--selftest" in sys.argv:
 # 미래의 백필 세션이 그걸 보고 격리를 되돌린다. 출발·대상 양쪽에서 뺀다.
 RETRACTED_RE = re.compile(r"^retraction_status:\s*RETRACTED\s*$", re.MULTILINE | re.IGNORECASE)
 
+# supersession 역방향 인덱스 (2026-08-15).
+#
+# `superseded_by:`는 **대체당한(옛) 페이지**에 있다. 그래서 sup_targets를 출발 페이지의
+# edges에 넣는 것만으로는 "옛 페이지가 새 페이지를 언급"하는 방향만 억제된다.
+# 반대 방향 — 새 페이지가 자기가 뒤집은 옛 논문을 언급하는 경우 — 가 오히려 더 흔하다
+# ("… overturns X's 'no clear winner' conclusion"). 그쪽을 잡으려면 역방향 색인이 필요하다:
+#   superseding_stem → {그 stem이 대체한 옛 stem들}
+# 대체 관계는 supersession-audit.py가 검증하는 기계적 사실이므로, 어느 방향이든
+# "저자가 이미 판단한 쌍"이라는 억제 근거의 강도는 같다.
+supersedes_map = defaultdict(set)
+
 stems = set()
 oneliner = {}
 retracted_stems = set()
@@ -252,6 +263,13 @@ for md in WIKI.rglob("*.md"):
     except Exception:
         txt = ""
     fm_m = FM_RE.match(txt)
+    if fm_m:
+        sup = re.search(r"^superseded_by:\s*(.+)$", fm_m.group(1), re.MULTILINE)
+        if sup:
+            for part in sup.group(1).split(","):
+                t = part.strip().strip('"').strip("'").rstrip("/")
+                if t:
+                    supersedes_map[t.split("/")[-1]].add(md.stem)
     if fm_m and RETRACTED_RE.search(fm_m.group(1)):
         retracted_stems.add(md.stem)
         continue                      # 대상 후보에서 제외 (stems에 넣지 않는다)
@@ -329,6 +347,8 @@ for md in WIKI.rglob("*.md"):
     if md.stem in retracted_stems:      # 철회 페이지는 출발점으로도 쓰지 않는다
         continue
     fm, body, cat, edges, sup_targets = parse(md)
+    # 이 페이지가 대체한 옛 페이지들도 "이미 판단된 쌍"이다 (역방향)
+    edges |= supersedes_map.get(md.stem, set())
     # 본문 + 매칭 sources의 Why Ingested 를 함께 스캔
     scan = body
     src = SOURCES / md.name
