@@ -18,6 +18,22 @@ Mixed-methods study (n=130, Ghana): 55.4% of dental patients encountered barrier
 ## 한줄요약
 혼합방법론(n=130, 가나): 55.4%가 치과 이용 장벽 경험 — 비용·예약 가용성이 100% 인용; 진료 중 장벽은 불안(77%)·대기(63.2%)·고비용(60.9%)·불충분한 커뮤니케이션(40.2%) 순.
 
+## Three-line Summary
+
+Mixed-methods cross-sectional study of 130 dental outpatients at a Ghanaian teaching hospital, combining a structured survey with thematic analysis of semi-structured interviews.
+
+55.4% encountered barriers before reaching care, with cost and appointment availability cited by 100% of those affected (insurance 72.2%, anxiety 63.9%, accessibility 63.9%); during visits the dominant challenges were dental anxiety 77%, long waits 63.2%, high cost 60.9%, inadequate communication 40.2% and lack of transparency about treatment plans and costs 20.7%, while education (p=0.009), marital status (p=0.012) and sex (p=0.00) predicted care-seeking behaviour.
+
+The qualitative data document a self-reinforcing loop — cost barriers delay care, delay worsens disease, worse disease raises the final cost, which strengthens avoidance — and communication and cost-transparency failures registered as independent, measurable barriers distinct from the fee itself; patients proposed jargon-free explanation, upfront cost disclosure, instalment payment and preventive education.
+
+## 세줄요약
+
+혼합방법론 단면연구 (Mixed-methods Cross-sectional Study — 가나 교육병원 구강진료 외래 환자 130명, 구조화 설문 + 반구조화 면담 주제분석): 치과 외래환자의 **55.4%가 내원 이전 단계에서 이미 장벽을 경험**했고, 그중 비용과 예약 가용성은 **100%가 지목**했다 (그 외 보험 72.2%, 불안 63.9%, 접근성 63.9%).
+
+진료 중 장벽은 치과불안 (Dental Anxiety) 77%, 긴 대기·사생활 노출 63.2%, 높은 비용 60.9%, 불편감 41.4%, **불충분한 의사소통 40.2%**, **치료계획·비용에 대한 투명성 부재 20.7%** 순이었다 — 의사소통과 비용 투명성 실패가 진료비 문제와는 별개로 측정 가능한 독립 장벽임을 보여준다. 치료추구 행동의 인구학적 예측인자는 학력 (p=0.009), 결혼상태 (p=0.012), 성별 (p=0.00)이었다.
+
+질적 자료는 **악순환 고리**를 기록했다 — 비용 장벽이 진료 지연을 낳고, 지연이 질환을 악화시켜 최종 치료비를 더 키우며, 그 경험이 다시 회피를 강화한다. 환자들이 제안한 해법은 전문용어 없는 설명, 사전 비용 고지, 분납 제도, 예방진료 교육이었다.
+
 ## 1. Document Information
 - Journal: PLoS ONE, Volume 20, Issue 6, e0325136 (2025 Jun 2)
 - Setting: Komfo Anokye Teaching Hospital (KATH), Oral Health Directorate, Kumasi, Ghana
