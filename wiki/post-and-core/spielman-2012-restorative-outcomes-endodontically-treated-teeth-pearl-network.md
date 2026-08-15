@@ -11,9 +11,6 @@ pdf_path: /Users/oracleneo/llm-wiki/papers/spielman-2012-restorative-outcomes-en
 pdf_filename: spielman-2012-restorative-outcomes-endodontically-treated-teeth-pearl-network.pdf
 source_collection: external
 tags: [post-and-core, restoration-failure, full-coverage-crown, proximal-contact, periodontal-health, endodontically-treated-teeth, practice-based-research]
-relations:
-  - type: compares
-    target: fathi-2022-prosthetic-restoration-endodontically-treated-teeth-umbrella
 ---
 
 ## Three-line Summary
