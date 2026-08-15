@@ -23,10 +23,10 @@ tags:
   - patient-reported-outcome
 relations:
   - target: "orthodontics/clear-aligner/chong-2025-patient-experiences-cat-scoping-review"
-    type: supports
+    type: reinforces
     note: "Pain/OHRQOL most studied outcomes in scoping review"
   - target: "orthodontics/clear-aligner/chehab-2026-ohrqol-orthodontic-narrative-review"
-    type: supports
+    type: reinforces
     note: "Pain peak kinetics contextualize OHIP-14 spike"
 ---
 
