@@ -10,9 +10,6 @@ category: [tmj]
 evidence_level: sr+ma
 source_collection: pubmed-abstract
 tags: [tmd, intraarticular-tmd, disc-displacement, osteoarthritis, pharmacological-treatment, hyaluronate, mesna, glucosamine, palmitoylethanolamide, network-meta-analysis, tmj]
-relations:
-  - type: supersedes
-    target: tmj/haggman-henrikson-2017-pharmacological-orofacial-pain-sr-ma
 ---
 
 ## Three-line Summary
