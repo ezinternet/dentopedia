@@ -149,6 +149,8 @@ def main() -> int:
     banner_mismatch = [] # field/banner target stems differ
     superseded_ok = []   # (stem, scope, targets)
     chain_stale = []     # (stem, direct_target, chain_tail) — transitivity issue
+    chain_declared = []  # (stem, direct_target, chain_tail) — mid-chain pointer declared intentional
+    chain_intentional = set()  # stems carrying `supersession_chain: intentional`
     decay = []           # (years, stem, confidence, date_str)
 
     for stem, path in pages.items():
@@ -159,6 +161,12 @@ def main() -> int:
 
         field_targets = split_stems(fm.get("superseded_by", ""))
         scope = (fm.get("superseded_scope", "") or "").lower()
+        # partial supersession은 축(axis)별로 일어나므로 전이되지 않는다: A가 B에 대체된 축을
+        # C가 넘겨받지 않았다면 A의 포인터는 B에 남는 게 맞다. 그 판단을 내렸으면
+        # `supersession_chain: intentional`로 선언하고 **배너에 이유를 적는다**(선언만 하고
+        # 이유가 없으면 다음 사람이 재판단할 수 없다). 선언은 숨기지 않고 별도 집계로 보인다.
+        if (fm.get("supersession_chain", "") or "").strip().lower() == "intentional":
+            chain_intentional.add(stem)
         banner_targets = []
         for line in BANNER_LINE_RE.findall(content):
             for raw in WIKILINK_RE.findall(line):
@@ -214,7 +222,10 @@ def main() -> int:
                         break
                     node = nexts[0]
                     visited.add(node)
-                chain_stale.append((stem, t, node))
+                if stem in chain_intentional:
+                    chain_declared.append((stem, t, node))
+                else:
+                    chain_stale.append((stem, t, node))
 
     LOGS_DIR.mkdir(exist_ok=True)
     log_path = LOGS_DIR / f"{date.today().isoformat()}_supersession.log"
@@ -228,6 +239,7 @@ def main() -> int:
     L.append(f"  banner ORPHAN (no field): {len(banner_orphan)}")
     L.append(f"  field/banner MISMATCH   : {len(banner_mismatch)}")
     L.append(f"  TRANSITIVITY chain stale: {len(chain_stale)}")
+    L.append(f"  chain intentional (선언) : {len(chain_declared)}")
     L.append(f"decay candidates (≥{args.decay_years}y, {'/'.join(sorted(DECAY_CONFIDENCE))}, not superseded): {len(decay)}")
     L.append("")
 
@@ -262,6 +274,13 @@ def main() -> int:
         for stem, direct, tail in sorted(chain_stale):
             L.append(f"  {stem}  →  {direct}  (should be → {tail})")
         L.append("")
+    if chain_declared:
+        L.append("=== chain intentional — mid-chain pointer declared deliberate ===")
+        L.append("    (`supersession_chain: intentional`. 대체 축이 서로 달라 전이되지 않는 경우.")
+        L.append("     이유는 각 페이지 배너에 있다 — 재판단하려면 거기부터 읽을 것.)")
+        for stem, direct, tail in sorted(chain_declared):
+            L.append(f"  {stem}  →  {direct}  (chain tail {tail} — 의도적으로 미채택)")
+        L.append("")
     if decay:
         # 카테고리별 집계
         from collections import defaultdict
@@ -286,7 +305,8 @@ def main() -> int:
 
     issues = len(dangling) + len(banner_missing) + len(banner_orphan) + len(banner_mismatch) + len(chain_stale)
     flag = "⚠" if issues else "✓"
-    print(f"🔁  Supersession: {len(superseded_ok)} superseded, {issues} sync issues {flag}, {len(decay)} decay candidates")
+    declared = f", {len(chain_declared)} chain-intentional" if chain_declared else ""
+    print(f"🔁  Supersession: {len(superseded_ok)} superseded, {issues} sync issues {flag}{declared}, {len(decay)} decay candidates")
     print(f"      log → logs/{log_path.name}")
     if args.stdout:
         print()
