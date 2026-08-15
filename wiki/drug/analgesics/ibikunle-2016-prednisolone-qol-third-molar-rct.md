@@ -6,7 +6,7 @@ date: 2016-07-22
 doi: "10.1007/s10006-016-0571-4"
 source: ibikunle-2016-prednisolone-qol-third-molar-rct.md
 category: [drug/analgesics]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/ibikunle-2016-prednisolone-qol-third-molar-rct.pdf
 pdf_filename: ibikunle-2016-prednisolone-qol-third-molar-rct.pdf
 source_collection: external
