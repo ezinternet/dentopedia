@@ -15,12 +15,10 @@ tags: [apically-positioned-flap, keratinized-gingiva, ridge-augmentation, peri-i
 relations:
   - target: implants/soft-tissue/bassetti-2016-soft-tissue-augmentation-second-stage-sr
     type: extends
-  - target: implants/soft-tissue/jung-2021-flap-folding-suture-soft-tissue-implant
-    type: related
   - target: implants/soft-tissue/tavelli-2021-soft-tissue-phenotype-modification-peri-implant-nma
-    type: related
+    type: reinforces
   - target: overviews/keratinized-mucosa-peri-implant-health-overview
-    type: related
+    type: extends
 ---
 
 ## Three-line Summary
