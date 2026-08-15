@@ -4,7 +4,7 @@ authors: Sae-Young Jung, Dae-Young Kang, Hyun-Seung Shin, Jung-Chul Park
 year: 2021
 date: 2021-09-07
 doi: 10.14368/jdras.2021.37.3.130
-source: sources/jung-2021-flap-folding-suture-soft-tissue-implant.md
+source: jung-2021-flap-folding-suture-soft-tissue-implant.md
 category: implants/soft-tissue
 evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/jung-2021-flap-folding-suture-soft-tissue-implant.pdf
