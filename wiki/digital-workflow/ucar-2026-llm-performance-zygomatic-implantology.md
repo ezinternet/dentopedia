@@ -6,7 +6,7 @@ date: 2026-01-01
 doi: "10.1186/s12903-025-07426-9"
 source: ucar-2026-llm-performance-zygomatic-implantology.md
 category: [digital-workflow]
-confidence: cross-sectional
+evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/ucar-2026-llm-performance-zygomatic-implantology.pdf
 pdf_filename: ucar-2026-llm-performance-zygomatic-implantology.pdf
 source_collection: external
