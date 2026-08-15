@@ -16,6 +16,22 @@ Prospective clinical study (n=80) comparing conventional vs DSD-assisted consult
 ## 한줄요약
 전향적 연구(n=80): DSD 상담 후 환자 이해도 점수 2.9→4.4(p<0.001), 치료 자신감 상승, 치료 수락률 85%로 확인.
 
+## Three-line Summary
+
+Prospective single-arm clinical study (n=80) in esthetic dentistry comparing conventional verbal consultation alone against the same consultation augmented with digital smile design (DSD) simulation.
+
+All Likert-scale domains — understanding of procedure, duration, cost and limitations, plus confidence in the outcome and in the dentist — improved significantly after digital smile simulation (p<0.001), with outcome-visualisation scoring rising most (2.5→4.8); treatment acceptance was 85%, overall satisfaction 96.3%, and 98.8% would recommend DSD consultation.
+
+Visualising the result, rather than merely describing it, is what moves patient understanding and acceptance — but this is a single-arm before-after design with no control group, so expectation effects cannot be separated from the tool itself.
+
+## 세줄요약
+
+전향적 단일군 임상연구 (Prospective Single-arm Study, n=80): 심미 치과에서 구두 상담만 시행한 경우와, 같은 상담에 디지털 스마일 디자인 (Digital Smile Design, DSD) 시뮬레이션을 더한 경우를 비교.
+
+모든 리커트 척도 영역 — 술식·기간·비용·한계에 대한 이해, 결과와 술자에 대한 신뢰 — 이 시뮬레이션 후 유의하게 상승했고(p<0.001), 결과 시각화 점수의 상승폭이 가장 컸다(2.5→4.8). 치료 수락률 85%, 전체 만족도 96.3%, 추천 의향 98.8%.
+
+환자의 이해와 수락을 움직이는 것은 설명이 아니라 **결과를 눈으로 보여주는 것**이다 — 다만 대조군 없는 단일군 전후 비교 설계라 기대효과와 도구 자체의 효과를 분리할 수 없다.
+
 ## 1. Document Information
 - Journal: Cureus, Vol 18, Issue 4, e106350, April 2026
 - Institution: Department of Restorative Dentistry, College of Dentistry, Najran University, Saudi Arabia
