@@ -12,7 +12,7 @@ authors:
   - Hayashi Mikako
 year: 2026
 doi: "10.1111/iej.70164"
-source: pubmed
+source: ohshima-2026-factors-associated-endodontic-flare-ups-sr.md
 category: [endodontics/visit-protocol]
 evidence_level: sr+ma
 source_collection: pubmed-abstract
