@@ -18,6 +18,22 @@ Narrative review (J Vet Dent 2019) describing the mechanical structure and funct
 ## 한줄요약
 에어구동 치과 유닛의 기계적 구조·기능 서술형 논문(수의치과 저널 2019): 저속 핸드피스(에어 마이크로모터)·고속 핸드피스(터빈)·컴프레서·레오스타트·에어워터시린지·흡인·광섬유·핸드피스 커플링 구조와 정비 요점.
 
+## Three-line Summary
+
+Narrative equipment review (J Vet Dent 2019;36(3):202–208; abstract-only in this wiki) describing the mechanics of both air-driven handpiece classes — low-speed air micromotor and high-speed air turbine — together with the full compressed-air chain from compressor through rheostat and coupling, plus fiber-optic illumination, air-water syringe and suction.
+
+No experimental measurements or statistics are reported: specific RPM ranges, torque figures and air-pressure specifications are not extractable from the abstract, and the review does not quantify turbine versus micromotor performance.
+
+Its value is as an engine-mechanics and maintenance/troubleshooting reference rather than a source of performance numbers — and although published in a veterinary journal, the compressed-air mechanics are identical across species while the clinical procedure applications are not, and should not be extrapolated.
+
+## 세줄요약
+
+서술적 장비 고찰 (Narrative Review — J Vet Dent 2019;36(3):202–208, 이 위키에는 초록만 확보): 공기구동 핸드피스 두 계열 — 저속 에어 마이크로모터와 고속 에어터빈 (Air Turbine) — 의 기계적 구조를, 압축기→가감저항기(rheostat)→커플링으로 이어지는 압축공기 전달 사슬 및 광섬유 조명·에어워터 시린지·석션과 함께 서술.
+
+실험 측정치나 통계는 없다 — 구체적 회전수(RPM) 범위·토크 수치·공기압 사양은 초록에서 추출 불가하며, 터빈 대 마이크로모터의 성능을 정량 비교하지도 않는다.
+
+성능 수치의 출처가 아니라 **엔진 기계원리와 유지보수·트러블슈팅 참고자료**로서의 가치가 있다 — 수의치과 저널 게재이지만 압축공기 기계원리는 종에 무관하게 동일하고, 임상 술식 적용은 동일하지 않으므로 그대로 외삽해선 안 된다.
+
 ## 1. Document Information
 - **Journal**: Journal of Veterinary Dentistry (J Vet Dent) — *수의치과 저널*
 - **Volume/Issue/Pages**: 36(3):202–208
