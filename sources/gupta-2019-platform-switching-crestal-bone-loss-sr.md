@@ -25,7 +25,7 @@ Narrative literature review (self-labeled "systematic review" but no PRISMA flow
 
 All 9 tabulated human comparative studies favored PS over platform-matching (PM); Hürzeler et al. 2007 (cited primary study) reported PS MBL 0.22 mm vs PM 2.02 mm and concluded a 0.45 mm per-side abutment-diameter reduction is sufficient to prevent peri-implant bone loss; compiled per-side mismatches across studies cluster mostly at 0.25–0.45 mm, with one outlier study using 1.0 mm.
 
-No original data of its own — a narrative aggregation of case reports and small primary studies, most using the Biomet 3i implant system (6 of 9), so generalizability across implant-abutment connection designs is limited; abstracts and full-text for some cited primary studies (Hürzeler 2007, Canullo & Rasperini 2007, Rodríguez-Ciurana 2009) are not yet independently ingested into this wiki.
+No original data of its own — a narrative aggregation of case reports and small primary studies, most using the Biomet 3i implant system (6 of 9), so generalizability across implant-abutment connection designs is limited, and the review's own authors performed no dose-response analysis across the mismatch values they compiled. Three of the primary studies this review cites secondhand (Hürzeler 2007, Canullo & Rasperini 2007, Rodríguez-Ciurana 2009) were independently ingested on 2026-08-10, so their key numbers no longer rest on this review's table alone.
 
 ## 세줄요약
 
@@ -33,7 +33,7 @@ No original data of its own — a narrative aggregation of case reports and smal
 
 정리된 인체 비교연구 9편 전부 PS가 플랫폼 매칭(Platform Matching, PM)보다 우수; 인용된 원저 Hürzeler 2007은 PS군 변연골소실(MBL) 0.22mm vs PM 2.02mm 보고, **지대주를 편측 0.45mm씩 줄이면 임플란트주위 골소실 방지에 충분**하다고 결론; 여러 연구의 편측 미스매치 값은 대부분 0.25–0.45mm에 몰려 있고 한 연구는 1.0mm의 이례적 큰 값을 사용.
 
-독자적 데이터는 없는 증례·소규모 원저 나열형 리뷰이며 9편 중 6편이 Biomet 3i 임플란트 시스템이라 다른 연결부 설계로의 일반화는 제한적; 여기 인용된 핵심 원저(Hürzeler 2007·Canullo & Rasperini 2007·Rodríguez-Ciurana 2009)는 이 위키에 아직 독립적으로 인제스트되지 않음.
+독자적 데이터는 없는 증례·소규모 원저 나열형 리뷰이며 9편 중 6편이 Biomet 3i 임플란트 시스템이라 다른 연결부 설계로의 일반화는 제한적이고, 리뷰 저자들 스스로 정리한 미스매치 값들에 대해 용량-반응 분석을 수행하지 않음. 여기 간접 인용된 핵심 원저 3편(Hürzeler 2007·Canullo & Rasperini 2007·Rodríguez-Ciurana 2009)은 2026-08-10에 독립 인제스트되어, 해당 수치들이 더 이상 이 리뷰의 표에만 의존하지 않음.
 
 ## 1. Document Information
 - **Journal**: Annals of African Medicine 2019;18(1):1-6
