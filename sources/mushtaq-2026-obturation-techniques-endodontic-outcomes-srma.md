@@ -18,6 +18,22 @@ SR+MA (n=11,965 samples, 84 studies) comparing CLC, WVC, SC, and CB obturation t
 ## 한줄요약
 SR+MA (84개 연구, 11,965 표본): 충전 기법 간 단기(≤12개월) 성공률 차이 없음; 24개월 시점에서 CLC·CB가 SC보다 소폭 우수하나 3년 이후 수렴, 술자 숙련도가 기법보다 중요.
 
+## Three-line Summary
+
+Systematic review and meta-analysis of 84 studies (11,965 samples; PROSPERO CRD42024524608) comparing obturation techniques — warm vertical (WVC), warm lateral (WLC), cold lateral (CLC), single cone (SC) and carrier-based (CB) — against endodontic treatment outcomes.
+
+Primary-treatment success was 87.1% at 6 months, 87.2% at 12 months, 92.0% at 24 months and 84.9% beyond 3 years; significant technique differences appeared only in the 24-month window (CLC over SC β=+5.0%, p=0.021; CB over SC β=+7.5%, p=0.011) and vanished beyond 3 years, while retreatment success ran consistently lower (92.9% / 77.0% / 83.5% / 73.7%).
+
+Obturation technique — including bioceramic sealer used with single cone — does not determine long-term outcome, so technique choice can follow operator skill and case anatomy; GRADE certainty is low to very low with high heterogeneity throughout.
+
+## 세줄요약
+
+체계적 문헌고찰 및 메타분석 (SR+MA): 84편·11,965개 표본(PROSPERO CRD42024524608)에서 근관충전 술식 — 온수직가압 (Warm Vertical Compaction, WVC), 온측방가압 (Warm Lateral Compaction, WLC), 냉측방가압 (Cold Lateral Compaction, CLC), 단일콘 (Single Cone, SC), 캐리어기반 (Carrier-Based, CB) — 을 근관치료 결과와 대조.
+
+1차 치료 성공률은 6개월 87.1%, 12개월 87.2%, 24개월 92.0%, 3년 초과 84.9%였다. 유의한 술식 차이는 **24개월 구간에만** 나타났고(CLC가 SC 대비 β=+5.0%, p=0.021; CB가 SC 대비 β=+7.5%, p=0.011), 3년을 넘으면 그 차이도 사라졌다. 재치료 성공률은 전 시점에서 더 낮았다(92.9% / 77.0% / 83.5% / 73.7%).
+
+근관충전 술식은(바이오세라믹 실러+단일콘 포함) **장기 결과를 좌우하지 않는다** — 따라서 술식 선택은 술자 숙련도와 케이스 해부에 맞춰도 된다. 단 GRADE 근거수준이 낮음~매우 낮음이고 전반적으로 이질성이 높다.
+
 ## 1. Document Information
 - Journal: Scientific Reports, Volume 16, 2026
 - DOI: 10.1038/s41598-026-37936-7
