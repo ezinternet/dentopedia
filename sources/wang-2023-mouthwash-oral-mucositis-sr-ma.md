@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-This is a high-quality Bayesian network meta-analysis comparing the therapeutic efficacy of 10 different mouthwashes for chemoradiotherapy-induced oral mucositis. It provides the first comprehensive hierarchy of treatment options, with robust statistical ranking that can inform clinical guidelines. Its systematic methodology and direct relevance to oral medicine and oncology supportive care make it a high-value addition.
+This is a high-quality Bayesian network meta-analysis comparing the therapeutic efficacy of 10 different mouthwashes for chemoradiotherapy-induced oral mucositis. It provides the first comprehensive hierarchy of treatment options, with robust statistical ranking that can inform clinical guidelines. Its systematic methodology and direct relevance to oral medicine and oncology supportive care make it a high-value addition. See [[oral-medicine/mucositis/wang-2023-mouthwash-oral-mucositis-sr-ma]].
 
 ## Three-line Summary
 
