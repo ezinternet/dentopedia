@@ -13,9 +13,6 @@ text_path: /Users/oracleneo/llm-wiki/papers/del-fabbro-2022-full-arch-tilted-axi
 text_filename: del-fabbro-2022-full-arch-tilted-axial-implants-sr-ma.txt
 full_text: false
 tags: [tilted-implant, axial-implant, full-arch, edentulous, survival, marginal-bone-loss, sr-ma]
-relations:
-  - type: supersedes
-    target: implants/full-arch/mehta-2021-tilted-axial-implants-edentulous-maxilla-sr-ma
 ---
 
 ## Three-line Summary
