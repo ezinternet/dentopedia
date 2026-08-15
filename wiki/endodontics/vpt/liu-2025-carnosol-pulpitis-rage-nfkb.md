@@ -3,7 +3,7 @@ title: "Carnosol exerts anti-inflammatory effects in pulpitis by inhibiting the 
 authors: "Xinpai Liu, Chunhui Zhao, Xirun Zong, Wenjing Fang, Jing Zhang, Wei He, Wuli Li"
 year: 2025
 doi: 10.1038/s41598-025-28542-0
-source: sources/liu-2025-carnosol-pulpitis-rage-nfkb.md
+source: liu-2025-carnosol-pulpitis-rage-nfkb.md
 category: endodontics/vpt
 evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/liu-2025-carnosol-pulpitis-rage-nfkb.pdf
