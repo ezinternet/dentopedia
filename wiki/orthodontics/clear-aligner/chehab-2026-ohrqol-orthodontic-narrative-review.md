@@ -23,13 +23,13 @@ tags:
   - 3-phase-model
 relations:
   - target: "orthodontics/clear-aligner/caldas-2024-pain-ohrqol-satisfaction-aligner"
-    type: contextualizes
+    type: refines
     note: "Pain-OHIP-14 link from single study fits 3-phase model"
   - target: "orthodontics/clear-aligner/chong-2025-patient-experiences-cat-scoping-review"
     type: reinforces
     note: "Pain/speech trajectory data corroborate scoping review findings"
   - target: "orthodontics/clear-aligner/patil-2026-perception-satisfaction-ca-vs-fa"
-    type: contextualizes
+    type: refines
     note: "12mo OHIP convergence aligns with stabilization/completion phases"
 ---
 
