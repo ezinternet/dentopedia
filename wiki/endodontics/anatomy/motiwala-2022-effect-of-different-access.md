@@ -14,8 +14,6 @@ tags: [access-cavity, fracture-resistance, conservative-endodontics, network-met
 relations:
   - target: endodontics/anatomy/kapetanaki-2021-access-cavity-designs-endodontic-review
     type: extends
-  - target: endodontics/anatomy/saeed-2021-impact-of-access-cavity
-    type: supersedes
 ---
 
 ## Three-line Summary
