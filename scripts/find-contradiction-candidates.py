@@ -3,12 +3,12 @@
 논쟁 레이더 백필 후보 finder (SIGNAL — 엣지를 자동으로 쓰지 않는다).
 
 위키 본문(및 매칭되는 sources/의 Why Ingested)에서 "명시적 충돌 표현"을 스캔해,
-아직 relations: 타입 엣지가 없는 논쟁 후보를 등급별로 뽑는다.
+아직 relations: 타입 엣지도 superseded_by: 포인터도 없는 논쟁 후보를 등급별로 뽑는다.
 사람/LLM이 이 목록을 읽고 판단해 실제 엣지를 단다 (Rule #1·품질 기준 준수 —
 기계가 충돌을 확정하지 않는다).
 
 Tier 1 (actionable): 충돌 표현 + 키워드에 가장 가까운 [[wikilink]]로 대상이 지목됨
-                      + 그 쌍에 **어떤 타입의 relations 엣지도 없음**.
+                      + 그 쌍에 **어떤 타입의 relations 엣지도, superseded_by도 없음**.
                       → 두 페이지를 읽고 판단 후 relations 엣지를 달 수 있는 후보.
 Tier 2 (review):      충돌 표현은 있으나 대상이 불명확하거나(링크 없음 / 키워드에서
                       너무 멂 / 동일 줄 비최근접) SOFT 신호. → 대상 식별 필요.
@@ -140,8 +140,33 @@ def run_selftest() -> int:
     for line, why in bad:
         print(f"  ✗ {why}: {line[:70]}")
     print(f"부정 필터 self-test: {len(NEG_SELFTEST) - len(bad)}/{len(NEG_SELFTEST)} 통과")
-    return 1 if bad else 0
 
+    # 대체 배너 헤더 인식 (2026-08-15). 위키에 실재하는 4가지 표기 + 억제하면
+    # 안 되는 콜아웃(핵심요약)을 함께 검증한다 — 후자가 매치되면 과억제다.
+    sup_cases = [
+        ("> [!warning] Superseded (full) → [[a-2025-x]]", True),
+        ("> [!warning] Superseded (partial) → [[a-2025-x]]", True),
+        ("> [!note] Partially superseded → [[a-2025-x]]", True),
+        ("> [!note] Partially superseded by [[a-2025-x]]", True),
+        ("> [!summary] 한국어 핵심요약", False),
+        ("> - **크기는 연구마다 다르나 방향은 대체로 일치**: Strietzel 2015...", False),
+    ]
+    sup_bad = [
+        (l, expect) for l, expect in sup_cases
+        if bool(SUP_BANNER_RE.search(l)) != expect
+    ]
+    for l, expect in sup_bad:
+        print(f"  ✗ 대체배너 기대 {expect}: {l[:70]}")
+    print(f"대체 배너 self-test: {len(sup_cases) - len(sup_bad)}/{len(sup_cases)} 통과")
+
+    return 1 if (bad or sup_bad) else 0
+
+
+# 대체 배너 콜아웃 헤더 (2026-08-15). 실측된 4가지 표기를 모두 덮는다:
+#   > [!warning] Superseded (full) → ... / Superseded (partial) → ...
+#   > [!note] Partially superseded → ... / Partially superseded by ...
+# "대체"는 한국어 배너를 쓰는 페이지가 나올 경우를 위한 여유분.
+SUP_BANNER_RE = re.compile(r">\s*\[!\w+\][^\n]*?(supersed|대체)", re.IGNORECASE)
 
 FM_RE = re.compile(r"^---\n(.*?)\n---\n", re.DOTALL)
 ONELINER_RE = re.compile(r"^##\s*세줄요약\s*\n+(.+?)(?=\n##\s|\Z)", re.DOTALL | re.MULTILINE)
@@ -184,7 +209,26 @@ def parse(path):
             g = re.search(r"target:\s*(\S+)", item)
             if t and g:
                 edges.add(g.group(1).strip().rstrip("/").split("/")[-1])
-    return fm, body, cat, edges
+
+    # superseded_by: 도 "이미 판단된 쌍"이다 (2026-08-15 추가).
+    #
+    # 대체 관계는 relations: 가 아니라 전용 필드로 기록된다(INGEST.md, supersession-audit.py).
+    # 레이더는 relations: 만 봤기 때문에, **정상적으로 처리를 마친** 대체 쌍이 매일 후보로
+    # 돌아왔다 — 대체 배너의 문구가 "뒤집음"·"overturn"·"상충" 그 자체이기 때문이다.
+    # 2026-08-15 실측: Tier 2 81건 중 최대 그룹인 HIGH-no-target 51건의 상당수가 이 케이스.
+    # supersession 포인터는 저자가 그 쌍을 보고 내릴 수 있는 **가장 강한 판단**이므로,
+    # 어떤 relations 타입보다도 확실한 억제 근거다.
+    sup_targets = set()
+    sup = re.search(r"^superseded_by:\s*(.+)$", fm, re.MULTILINE)
+    if sup:
+        # 값은 단일 stem, 경로 접두 stem, 또는 쉼표로 구분된 복수 target일 수 있다
+        # (예: gaspar-2022 → lima-monteiro-2024, kalra-2025).
+        for part in sup.group(1).split(","):
+            t = part.strip().strip('"').strip("'").rstrip("/")
+            if t:
+                sup_targets.add(t.split("/")[-1])
+    edges |= sup_targets
+    return fm, body, cat, edges, sup_targets
 
 if "--selftest" in sys.argv:
     raise SystemExit(run_selftest())
@@ -284,7 +328,7 @@ for md in WIKI.rglob("*.md"):
         continue
     if md.stem in retracted_stems:      # 철회 페이지는 출발점으로도 쓰지 않는다
         continue
-    fm, body, cat, edges = parse(md)
+    fm, body, cat, edges, sup_targets = parse(md)
     # 본문 + 매칭 sources의 Why Ingested 를 함께 스캔
     scan = body
     src = SOURCES / md.name
@@ -294,7 +338,35 @@ for md in WIKI.rglob("*.md"):
         if w:
             scan += "\n" + w.group(1)
 
-    for line in scan.split("\n"):
+    # 대체 배너 콜아웃 안에 있는가 (2026-08-15 추가).
+    #
+    # 대체 배너는 여러 줄짜리 Obsidian 콜아웃이고, 링크는 헤더 줄에만 있다:
+    #     > [!warning] Superseded (partial) → [[.../canullo-2021-...]]
+    #     > Canullo 2021 NMA가 ... 이 페이지의 결론을 뒤집음. (set 2026-08-11)
+    # 줄 단위 스캔이라 둘째 줄은 링크가 없어 HIGH-no-target으로 방출됐다 —
+    # 하필 충돌 키워드("뒤집음")는 항상 둘째 줄에 있다. 콜아웃은 의미상 한 덩어리이므로
+    # 헤더의 target을 후속 `>` 줄이 상속하게 한다.
+    #
+    # 상속을 **대체 배너로만 한정**하는 이유: 모든 blockquote로 일반화하면
+    # overviews의 `> [!summary] 한국어 핵심요약` 블록(bullet마다 서로 다른 링크가 붙은
+    # 긴 콜아웃)에서 앞 bullet의 링크가 뒤 bullet으로 새어 과억제된다.
+    in_sup_banner = False
+    banner_links = set()
+
+    for raw_line in scan.split("\n"):
+        line = raw_line
+        stripped = line.lstrip()
+        if stripped.startswith(">"):
+            if SUP_BANNER_RE.search(line):
+                in_sup_banner = True
+                banner_links = {
+                    lm.group(1).rstrip("/").split("/")[-1]
+                    for lm in WIKILINK.finditer(line)
+                } | sup_targets
+        else:
+            in_sup_banner = False
+            banner_links = set()
+
         hi = HIGH.search(line)
         so = None if hi else SOFT.search(line)
         if not hi and not so:
@@ -320,6 +392,13 @@ for md in WIKI.rglob("*.md"):
                 dropped_typed = True
                 continue
             links.append((s, lm.start(), lm.end()))
+
+        # 대체 배너 후속 줄 — 헤더에서 상속한 target이 이미 판단된 쌍이면 억제
+        if not links and in_sup_banner and banner_links:
+            inherited = {s for s in banner_links if s in stems and s != md.stem}
+            if inherited and inherited <= edges:
+                n_typed_skip += 1
+                dropped_typed = True
 
         if not links:
             # (2) 억제 누수 버그 수정 (2026-07-18).
@@ -370,7 +449,7 @@ t1.sort(key=lambda r: r[1])
 lines = [
     f"# 논쟁 레이더 백필 후보 — {date.today().isoformat()}",
     "",
-    "명시적 충돌 표현이 있으나 그 쌍에 `relations:` 타입 엣지가 (어떤 타입이든) 없는 후보. "
+    "명시적 충돌 표현이 있으나 그 쌍에 `relations:` 타입 엣지(어떤 타입이든)도 `superseded_by:` 포인터도 없는 후보. "
     "**이 목록은 신호일 뿐 — 두 페이지를 읽고 판단해 엣지를 단다.**",
     "",
     "**카드 읽는 법**: 각 카드는 `출발페이지 —[충돌유형·한글뜻]→ 대상페이지` 형태다. "
@@ -387,7 +466,7 @@ lines = [
     "",
     f"- Tier 1 (대상 지목됨, actionable): **{len(t1)}**",
     f"- Tier 2 (대상 불명/soft, review): **{len(tier2)}**",
-    f"- (억제됨) 이미 typed 엣지가 있어 제외: **{n_typed_skip}** · 부정문 제외: **{n_neg_skip}** · 검토·불필요 대장: **{n_ledger_skip}** · "
+    f"- (억제됨) 이미 typed 엣지·supersession 포인터가 있어 제외: **{n_typed_skip}** · 부정문 제외: **{n_neg_skip}** · 검토·불필요 대장: **{n_ledger_skip}** · "
     f"동일 줄 비최근접으로 Tier 2 강등: **{n_ambig}**",
     "",
     "## Tier 1 — 판단 후 엣지 달 후보 (page → 지목된 target)",
