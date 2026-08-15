@@ -6,7 +6,7 @@ date: 2019-06-02
 doi: "10.1155/2019/9308631"
 source: chahine-2019-anticoagulation-dental-procedures-sr.md
 category: [drug/anticoagulants]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/chahine-2019-anticoagulation-dental-procedures-sr.pdf
 pdf_filename: chahine-2019-anticoagulation-dental-procedures-sr.pdf
 source_collection: external
