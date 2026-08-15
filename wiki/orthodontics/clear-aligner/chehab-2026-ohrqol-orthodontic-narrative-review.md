@@ -26,7 +26,7 @@ relations:
     type: contextualizes
     note: "Pain-OHIP-14 link from single study fits 3-phase model"
   - target: "orthodontics/clear-aligner/chong-2025-patient-experiences-cat-scoping-review"
-    type: supports
+    type: reinforces
     note: "Pain/speech trajectory data corroborate scoping review findings"
   - target: "orthodontics/clear-aligner/patil-2026-perception-satisfaction-ca-vs-fa"
     type: contextualizes
