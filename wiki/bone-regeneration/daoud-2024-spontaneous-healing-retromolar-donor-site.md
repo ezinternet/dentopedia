@@ -11,10 +11,6 @@ pdf_path: /Users/oracleneo/llm-wiki/papers/daoud-2024-spontaneous-healing-retrom
 pdf_filename: daoud-2024-spontaneous-healing-retromolar-donor-site.pdf
 source_collection: external
 tags: [bone-block, retromolar-donor, donor-site-healing, CBCT, 3D-volumetric, spontaneous-healing, prospective, mandible]
-relations:
-  - target: bone-regeneration/stricker-2021-resorption-retromolar-bone-grafts
-    type: related
-    note: Complementary study — Stricker measures recipient-site graft resorption; Daoud measures donor-site regeneration; together they cover the full bone block cycle
 ---
 
 ## Three-line Summary
