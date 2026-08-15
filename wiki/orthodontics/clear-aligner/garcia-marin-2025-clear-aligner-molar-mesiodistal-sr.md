@@ -12,11 +12,7 @@ pmcid: "PMC12422387"
 evidence_level: sr
 tags: [orthodontics, clear-aligner, molar-distalization, mesiodistal-movement, predictability, accuracy, systematic-review]
 relations:
-  - type: related
-    target: wiki/orthodontics/clear-aligner/benedetti-2025-clear-aligner-rotation-accuracy-sr
-  - type: related
-    target: wiki/orthodontics/clear-aligner/charoenrat-2025-clear-aligner-anterior-open-bite-molar-intrusion-sr-ma
-  - type: related
+  - type: extends
     target: wiki/orthodontics/clear-aligner/inchingolo-2023-clear-aligner-distalization-predictability-sr
 ---
 
