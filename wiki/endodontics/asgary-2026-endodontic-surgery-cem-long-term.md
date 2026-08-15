@@ -6,7 +6,7 @@ date: 2026-02-23
 doi: "10.1186/s12903-026-07945-z"
 source: asgary-2026-endodontic-surgery-cem-long-term.md
 category: [endodontics]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: ""
 pdf_filename: ""
 source_collection: pubmed-abstract
