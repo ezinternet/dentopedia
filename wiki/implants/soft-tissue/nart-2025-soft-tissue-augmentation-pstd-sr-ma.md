@@ -7,7 +7,7 @@ doi: 10.1111/prd.12633
 pmid: "40673678"
 source: nart-2025-soft-tissue-augmentation-pstd-sr-ma.md
 category: [implants/soft-tissue]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: false
 text_path: /Users/oracleneo/llm-wiki/papers/nart-2025-soft-tissue-augmentation-pstd-sr-ma.txt
