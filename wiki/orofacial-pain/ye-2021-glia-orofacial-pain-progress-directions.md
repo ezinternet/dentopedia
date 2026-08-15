@@ -27,16 +27,6 @@ tags:
   - connexin-43
   - central-sensitization
   - peripheral-sensitization
-relations:
-  - target: orofacial-pain/kim-2024-trigeminal-sensory-system-orofacial-pain
-    type: related
-    note: complementary review of trigeminal sensory system in orofacial pain
-  - target: orofacial-pain/guan-2025-cerebellin-2-trigeminal-neuropathic-pain
-    type: related
-    note: trigeminal neuropathic pain mechanisms
-  - target: tmj/khalifeh-2024-trismus-following-inferior-alveolar-nerve-block
-    type: related
-    note: TMJ/TMD clinical context
 ---
 
 ## Three-line Summary
@@ -150,3 +140,12 @@ Role of glial cells in HNC pain remains poorly understood; most mechanistic data
 - Existing studies do not distinguish neuropathic vs. non-neuropathic glial activation
 - Glial modulators (ibudilast) have failed in clinical trials for migraine despite preclinical rationale
 - Schwann cell contributions to headache and HNC pain not yet studied (listed as "ND" in animal tables)
+
+## Related Papers
+
+These three were previously carried as `related:` typed edges. That type is not in the relation vocabulary and none of the three describes an evidentiary relationship — they are topical neighbours — so the edges were dropped on 2026-08-15 and the connections preserved here instead.
+
+- [[orofacial-pain/kim-2024-trigeminal-sensory-system-orofacial-pain]] — companion narrative review covering trigeminal anatomy, cellular composition, and synaptic physiology; the structural counterpart to this page's glial/functional account
+- [[orofacial-pain/guan-2025-cerebellin-2-trigeminal-neuropathic-pain]] — mouse pIONT model with cross-species single-nucleus RNA-seq of trigeminal ganglion; supplies the cell-type-resolved mechanistic data this 2021 review could only anticipate
+- [[orofacial-pain/khalifeh-2024-trismus-following-inferior-alveolar-nerve-block]] — clinical case of post-IANB trismus; included as clinical context for orofacial pain presentations, not as mechanistic evidence for glial involvement
+
