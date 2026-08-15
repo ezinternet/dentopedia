@@ -11,22 +11,6 @@ pdf_path: N/A
 pdf_filename: N/A
 source_collection: internal
 tags: [veneer, laminate-veneer, feldspathic, lithium-disilicate, zirconia, occlusal-veneer, minimally-invasive, enamel-preservation, survival, complication, preparation-design, adhesive-protocol, overview]
-relations:
-  - type: synthesizes
-    targets:
-      - veneers/klein-2025-ceramic-laminate-veneer-survival-complications-sr-ma
-      - veneers/el-mowafy-2018-glass-ceramic-veneer-materials-narrative-review
-      - veneers/ali-2023-conventional-minimally-invasive-veneers-sr
-      - veneers/schlichting-2022-ultrathin-cadcam-occlusal-veneers-dental-erosion
-      - veneers/ferrando-cascales-2023-total-rehabilitation-adhesive-restorations-severe
-      - veneers/hajeer-2026-lithium-disilicate-zirconia-veneer-retention-sr-ma
-      - veneers/gurel-2007-porcelain-laminate-veneers-minimal-preparation
-      - veneers/beuer-2025-ceramic-pcr-laminate-veneer-consensus
-      - veneers/komine-2024-clinical-performance-laminate-veneers-review
-      - veneers/chandode-2026-no-preparation-conventional-veneers-clinical-considerations
-      - veneers/gresnigt-2019-ceramic-laminate-veneers-ids-11year
-      - veneers/etienne-2025-ceramic-veneers-dentin-vitality-15year
-      - veneers/beier-2012-porcelain-veneers-nonvital-bruxism-20year
 ---
 
 ## 한국어 핵심요약
