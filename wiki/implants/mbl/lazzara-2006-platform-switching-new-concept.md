@@ -24,6 +24,22 @@ Foundational 2006 paper that coined "platform switching": retrospective radiogra
 
 "플랫폼 스위칭" 용어를 최초로 도입한 2006년 foundational 논문 — 1991년 광경 임플란트 출시 당시 매칭 지대주 재고 부족으로 우연히 좁은 지대주가 얹힌 케이스들에서, 관례적 매칭직경 수복보다 치조정골 소실이 적었다는 후향적 방사선 관찰.
 
+## Three-line Summary
+
+Foundational narrative/retrospective report (Int J Periodontics Restorative Dent 2006;26(1):9–17; abstract-only in this wiki) that coined the term "platform switching," describing wide-diameter (5.0/6.0 mm) implants placed from 1991 that were restored with narrower 4.1 mm standard components because matching wide components did not yet exist.
+
+On long-term radiographic follow-up these accidentally platform-switched cases showed smaller crestal bone height change than conventionally matched-diameter restorations — but no sample size, statistical test or exact bone-loss figure is reported, and the authors position the paper explicitly as a foundation for future work rather than a quantitative trial.
+
+Platform switching originated as an inventory shortage turned natural experiment, not as a designed bone-preservation technique — cite this paper for the concept and the horizontal implant-abutment junction hypothesis, and cite the later RCTs and meta-analyses for the effect size.
+
+## 세줄요약
+
+foundational 서술적·후향적 보고 (Int J Periodontics Restorative Dent 2006;26(1):9–17, 이 위키에는 초록만 확보): "플랫폼 스위칭 (Platform Switching, PLS)"이라는 용어를 최초로 도입한 논문으로, 1991년부터 식립된 광경(5.0/6.0 mm) 임플란트가 매칭되는 광경 부품이 아직 없어 더 좁은 4.1 mm 표준 부품으로 수복된 사례들을 기술.
+
+장기 방사선 추적에서 이렇게 **우연히** platform-switched된 케이스들이 관례적 매칭직경 수복보다 치조정골 높이 변화가 작았다 — 다만 표본 크기·통계 검정·정확한 골소실 수치는 보고되지 않았고, 저자들 스스로 이 논문을 정량적 시험이 아니라 향후 연구의 토대로 규정한다.
+
+플랫폼 스위칭의 기원은 설계된 골보존 기법이 아니라 **부품 재고 부족이 만든 자연실험**이었다 — 개념과 임플란트-지대주 접합부 수평 이동 가설은 이 논문을 인용하고, **효과크기는 이후의 무작위대조시험 (RCT)과 메타분석을 인용**하라.
+
 ## Summary
 
 이 논문은 플랫폼 스위칭(Platform Switching, PLS) 개념의 기원이다. 1991년 Implant Innovations가 5.0mm/6.0mm 광경 임플란트를 처음 출시했을 때, 매칭되는 광경 지대주·힐링 어버트먼트 부품이 아직 준비되지 않아, 다수의 초기 케이스가 의도치 않게 "표준"(4.1mm) 직경 지대주로 수복되었다. 즉 PLS는 골보존을 목표로 **설계된** 기법이 아니라, **부품 재고 부족이 만든 자연실험에서 사후적으로 발견된** 현상이다. 저자들은 이렇게 우연히 platform-switched된 케이스들의 장기 방사선 추적에서 치조정골 높이 소실이 관례적 수복보다 작다는 것을 관찰했고, 이를 근거로 임플란트-지대주 접합부(IAJ)를 플랫폼 바깥 경계에서 안쪽으로 이동시키면 생물학적 폭경(biologic width) 재형성 과정 자체가 달라질 수 있다는 가설을 제안했다. 이 논문은 정량적 검증 시험이 아니라 향후 연구를 위한 개념·근거의 토대(foundation)로 명시적으로 자리매김했다.
