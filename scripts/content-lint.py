@@ -6,11 +6,17 @@ frontmatter lint(lint.py)이 못 보는 **본문 내용 규칙**을 결정론으
 LLM subagent 없이 스크립트만으로 돌아가는 저비용 signal — daily-audit에 물려
 가시화만 하고 절대 block하지 않는다(저장소의 signal-not-gate 철학 준수).
 
-세 검사:
+네 검사:
   A. 필수 섹션      — 이중언어 세줄요약 쌍은 모든 페이지 필수. 유형별 앵커 추가.
   B. 태그 정합성    — heading 끝 대괄호 태그는 '확인' 또는 '미검증' 토큰을 포함해야 함.
                       (복합 변형 '[확인, 다만 수치는 미검증]' 등은 정상 통과)
   C. 계층 정합성    — wiki `source:` → sources/ 파일 실재 + wiki↔source pmid 일치.
+  D. 레거시 필드    — frontmatter `confidence:`는 2026-07-15에 `evidence_level:`로
+                      개명됐다(INGEST.md §evidence_level vocabulary). 감사·빌드
+                      스크립트가 두 키를 모두 인식하도록 만들어져 있어 이 드리프트는
+                      **어느 검사에도 안 걸린 채** 새 페이지로 계속 유입된다 —
+                      2026-08-15 일괄 정리 시점의 잔여 36개가 전부 개명 이후 생성분,
+                      최근 추가 wiki 페이지 120개 중 6개(5%)가 옛 키였다.
 
 의미 판단(요약↔Results 일치, confidence 정당성 등)은 여기서 하지 않는다 —
 그건 결정론으로 못 잡으므로, 이 검사들이 남긴 잔여 드리프트가 유의미할 때만
@@ -140,6 +146,24 @@ def check_c(path: str, fields: dict, source_pmids: dict) -> list[str]:
     return out
 
 
+# ── Check D: 레거시 frontmatter 키 ───────────────────────────────────
+# `confidence:` → `evidence_level:` (2026-07-15 개명, forward-only).
+# 소비 측 스크립트가 두 키를 모두 읽으므로 옛 키를 써도 **아무것도 깨지지 않는다** —
+# 그래서 조용히 재유입된다. 값은 건드리지 않고 키만 바꾸면 되는 기계적 수정이라
+# 발견 즉시 `scripts/migrate-confidence-field.py --apply`로 일괄 처리 가능.
+def check_d(path: str, fields: dict) -> list[str]:
+    if "confidence" not in fields:
+        return []
+    val = fields.get("confidence", "").strip()
+    if "evidence_level" in fields:
+        # 두 키 공존 — 소비 측은 evidence_level을 우선하므로 confidence는 죽은 값이다.
+        return [
+            f"D/LEGACY-FIELD 'confidence: {val}' + 'evidence_level: "
+            f"{fields.get('evidence_level', '').strip()}' 공존 (confidence는 무시됨): {path}"
+        ]
+    return [f"D/LEGACY-FIELD 'confidence: {val}' → 'evidence_level:'로 개명 필요: {path}"]
+
+
 def page_type(path: str) -> str:
     if path.startswith(SOURCES_DIR + os.sep):
         return "source"
@@ -176,7 +200,7 @@ def iter_pages():
 def main():
     ap = argparse.ArgumentParser(description="LLM Wiki content lint (signal)")
     ap.add_argument("--quiet", action="store_true", help="findings only")
-    ap.add_argument("--check", choices=["A", "B", "C"], help="run only one check")
+    ap.add_argument("--check", choices=["A", "B", "C", "D"], help="run only one check")
     args = ap.parse_args()
 
     only = args.check
@@ -198,9 +222,11 @@ def main():
             findings += check_b(path, body)
         if only in (None, "C") and ptype == "wiki":
             findings += check_c(path, fields, source_pmids)
+        if only in (None, "D"):
+            findings += check_d(path, fields)
 
     # 집계 (검사별)
-    buckets = {"A": 0, "B": 0, "C": 0}
+    buckets = {"A": 0, "B": 0, "C": 0, "D": 0}
     for f in findings:
         buckets[f[0]] += 1
 
@@ -208,7 +234,8 @@ def main():
     print(
         f"{status}  content-lint (signal): {n_pages} pages   "
         f"findings: {len(findings)}  [A/sections:{buckets['A']}  "
-        f"B/tags:{buckets['B']}  C/cross-tier:{buckets['C']}]"
+        f"B/tags:{buckets['B']}  C/cross-tier:{buckets['C']}  "
+        f"D/legacy-field:{buckets['D']}]"
     )
     if findings and not args.quiet:
         print()
