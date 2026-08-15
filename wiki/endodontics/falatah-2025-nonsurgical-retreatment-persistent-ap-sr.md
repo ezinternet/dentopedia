@@ -6,7 +6,7 @@ date: 2025-12-06
 doi: "10.7759/cureus.98601"
 source: falatah-2025-nonsurgical-retreatment-persistent-ap-sr.md
 category: [endodontics]
-confidence: sr
+evidence_level: sr
 pdf_path: ""
 pdf_filename: ""
 source_collection: pubmed-abstract
