@@ -20,7 +20,7 @@ relations:
   - target: implants/soft-tissue/tavelli-2021-soft-tissue-phenotype-modification-peri-implant-nma
     type: extends
   - target: overviews/keratinized-mucosa-peri-implant-health-overview
-    type: supports
+    type: reinforces
 ---
 
 ## Three-line Summary
