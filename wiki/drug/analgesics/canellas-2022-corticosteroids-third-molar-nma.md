@@ -11,9 +11,6 @@ evidence_level: sr+ma
 source_collection: pubmed-abstract
 full_text: false
 tags: [corticosteroids, dexamethasone, betamethasone, methylprednisolone, third-molar, postoperative-morbidity, edema, pain, trismus, network-meta-analysis, systematic-review, oral-surgery]
-relations:
-  - type: supersedes
-    target: drug/analgesics/markiewicz-2008-corticosteroids-reduce-postoperative-morbidity-after-third-molar-surgery
 ---
 
 ## Three-line Summary
