@@ -11,8 +11,6 @@ pmid: "39412467"
 evidence_level: in-vitro
 tags: [orthodontics, clear-aligner, brand-comparison, biofilm, microbiology, invisalign, clearcorrect, oral-hygiene, caries-risk]
 relations:
-  - type: compares-to
-    target: wiki/orthodontics/clear-aligner/kobkiatkawin-2025-clear-aligner-color-stability-brand
   - type: extends
     target: wiki/orthodontics/clear-aligner/tabone-2026-clear-aligner-oral-microbiome-sr
 ---
