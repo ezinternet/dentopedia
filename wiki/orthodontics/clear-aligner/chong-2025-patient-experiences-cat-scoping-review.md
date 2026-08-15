@@ -22,15 +22,9 @@ tags:
   - scoping-review
   - satisfaction
 relations:
-  - target: "orthodontics/clear-aligner/caldas-2024-pain-ohrqol-satisfaction-aligner"
-    type: contextualizes
-    note: "Pain/OHRQOL most studied outcomes; Caldas fills this gap"
   - target: "orthodontics/clear-aligner/chehab-2026-ohrqol-orthodontic-narrative-review"
-    type: contextualizes
+    type: reinforces
     note: "Pain kinetics and speech trajectory corroborated"
-  - target: "orthodontics/clear-aligner/alghafli-2026-postsurgical-aligners-sr"
-    type: contextualizes
-    note: "36% full compliance benchmark relevant to surgical CA users"
 ---
 
 > [!summary] 한국어 핵심요약
