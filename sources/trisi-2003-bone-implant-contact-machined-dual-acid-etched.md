@@ -21,6 +21,22 @@ Human histomorphometric study (11 patients, split-surface custom implants) found
 
 인체 조직계측학 연구(11명, 편측-분할 표면 커스텀 임플란트) — 후상악 2개월 치유 후 이중 산부식(Dual Acid-Etched) 표면의 골-임플란트 접촉률(47.81%)이 기계가공(Machined) 표면(19.00%)보다 유의하게 높음(P<0.001).
 
+## Three-line Summary
+
+Human histologic split-surface study (J Periodontol 2003;74(7):945–956; abstract-only in this wiki) in which each 2 mm custom implant carried a machined surface on one half and a dual acid-etched surface on the other (n=11), controlling between-patient variation, with retrieval at 2 months.
+
+Bone-to-implant contact (BIC) was 47.81% on dual acid-etched versus 19.00% on machined surfaces (ANOVA p<0.001); measured against expected bone contact (EBC), the etched surface ran 39.14% above and the machined surface 44.70% below, and the gap widened further in low-density bone (<40% BV%).
+
+Surface roughness governs the *rate* of early osseointegration and matters most where bone quality is poorest — the etched half approached the historical 50% BIC loading threshold at just 2 months; the fixtures were 2 mm custom implants rather than clinical geometry, n=11, and a single 2-month timepoint says nothing about long-term stability.
+
+## 세줄요약
+
+사람 조직학 split-surface 연구 (J Periodontol 2003;74(7):945–956, 이 위키에는 초록만 확보): 2 mm 커스텀 임플란트 각각의 절반은 기계가공 (Machined), 절반은 이중 산부식 (Dual Acid-Etched) 표면으로 제작해 환자 간 변이를 통제하고(n=11) 2개월 시점에 회수.
+
+골-임플란트 접촉률 (Bone-to-Implant Contact, BIC)은 이중 산부식 47.81% vs 기계가공 19.00%였고(ANOVA p<0.001), 예상골접촉률 (Expected Bone Contact, EBC) 대비 산부식 표면은 39.14% 상회·기계가공 표면은 44.70% 하회했으며, 저밀도골(골부피율 BV% <40%)에서 격차가 더 벌어졌다.
+
+표면 조도가 초기 골유착의 **속도**를 좌우하며 그 중요성은 **골질이 나쁠수록 커진다** — 산부식 면은 2개월만에 당시 부하 기준으로 통용되던 BIC 50%에 근접했다. 다만 임상용이 아닌 2 mm 커스텀 형태, n=11, 2개월 단일 시점이라 장기 안정성은 이 논문의 범위 밖이다.
+
 ## 1. Document Information
 
 - **Journal**: Journal of Periodontology, Vol. 74, Issue 7, pp. 945–956
