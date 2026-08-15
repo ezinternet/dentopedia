@@ -6,7 +6,7 @@ date: 2026-03-23
 doi: "10.1038/s41598-026-37936-7"
 source: mushtaq-2026-obturation-techniques-endodontic-outcomes-srma.md
 category: [endodontics/obturation]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: ""
 pdf_filename: ""
 source_collection: pubmed-abstract
