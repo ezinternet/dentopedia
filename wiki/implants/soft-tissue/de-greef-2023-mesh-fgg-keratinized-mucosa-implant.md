@@ -18,9 +18,9 @@ relations:
   - target: implants/soft-tissue/rios-osorio-2025-xcm-vs-ctg-fgg-implant-soft-tissue-sr-ma
     type: reinforces
   - target: implants/soft-tissue/bassetti-2016-soft-tissue-augmentation-second-stage-sr
-    type: related
+    type: extends
   - target: overviews/keratinized-mucosa-peri-implant-health-overview
-    type: related
+    type: extends
 ---
 
 ## Three-line Summary
