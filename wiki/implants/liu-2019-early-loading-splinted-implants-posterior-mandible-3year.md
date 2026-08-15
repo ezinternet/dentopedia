@@ -6,7 +6,7 @@ date: 2019-07-29
 doi: "10.1111/clr.13518"
 source: liu-2019-early-loading-splinted-implants-posterior-mandible-3year.md
 category: [implants]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/liu-2019-early-loading-splinted-implants-posterior-mandible-3year.pdf
 pdf_filename: liu-2019-early-loading-splinted-implants-posterior-mandible-3year.pdf
 source_collection: external
