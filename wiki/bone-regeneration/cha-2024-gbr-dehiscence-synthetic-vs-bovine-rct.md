@@ -6,7 +6,7 @@ date: 2024-08-19
 doi: "10.1111/cid.13386"
 source: cha-2024-gbr-dehiscence-synthetic-vs-bovine-rct.md
 category: [bone-regeneration]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/cha-2024-gbr-dehiscence-synthetic-vs-bovine-rct.pdf
 pdf_filename: cha-2024-gbr-dehiscence-synthetic-vs-bovine-rct.pdf
 source_collection: external
