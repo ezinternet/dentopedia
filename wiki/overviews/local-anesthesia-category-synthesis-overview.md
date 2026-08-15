@@ -11,19 +11,6 @@ pdf_path: N/A
 pdf_filename: N/A
 source_collection: internal
 tags: [local-anesthesia, ianb, articaine, buffered-lidocaine, supplementary-injection, topical-anesthetic, premedication, cclad, neurological-complications, accessory-innervation, overview]
-relations:
-  - type: synthesizes
-    targets:
-      - local-anesthesia/saatchi-2025-articaine-buccal-infiltration-mandibular-irreversible-pulpitis
-      - local-anesthesia/rujirawan-2025-combined-supplementary-ianb-irreversible-pulpitis-nma
-      - local-anesthesia/alkandari-2024-articaine-versus-mepivacaine-ianb-irreversible-pulpitis
-      - local-anesthesia/khademi-2023-premedication-inferior-alveolar-nerve-block-pulpitis-umbrella
-      - local-anesthesia/ghafoor-2023-neurological-complications-local-anesthesia-dentistry
-      - local-anesthesia/karkoutly-2024-topical-anesthetics-lidocaine-benzocaine-emla-ianb
-      - local-anesthesia/becker-2012-local-anesthetics-pharmacological-considerations
-      - local-anesthesia/filo-2015-frequency-anatomy-retromolar-canal-implications
-      - local-anesthesia/haas-2011-alternative-mandibular-nerve-block-techniques
-      - local-anesthesia/hwang-2023-proposal-clinical-guidelines-local-anesthesia-dentistry
 ---
 
 ## 한국어 핵심요약
