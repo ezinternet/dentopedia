@@ -23,11 +23,8 @@ tags:
   - pediatric
   - expansion
 relations:
-  - target: "orthodontics/clear-aligner/bortoli-2026-aligner-retention-gingival-margin-design"
-    type: contextualizes
-    note: "Complementary retention evidence — design factors in adult CA retention"
   - target: "orthodontics/clear-aligner/kim-2026-efficacy-and-stability-of"
-    type: contextualizes
+    type: reinforces
     note: "Adult CA stability — pediatric counterpart"
 ---
 
