@@ -22,7 +22,7 @@ tags:
   - neurogenic-inflammation
 relations:
   - target: dentin-hypersensitivity/kaur-2026-dentin-hypersensitivity-enigma-revisited
-    type: related
+    type: refines
     note: Kaur 2026 covers DH mechanisms including TRP-channel neuroplasticity; this paper proposes a distinct thermal-allodynia entity sharing the same channel biology
 ---
 
