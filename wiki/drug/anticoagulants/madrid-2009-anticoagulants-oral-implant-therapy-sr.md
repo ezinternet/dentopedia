@@ -6,7 +6,7 @@ date: 2009-07-24
 doi: "10.1111/j.1600-0501.2009.01770.x"
 source: madrid-2009-anticoagulants-oral-implant-therapy-sr.md
 category: [drug/anticoagulants]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/madrid-2009-anticoagulants-oral-implant-therapy-sr.pdf
 pdf_filename: madrid-2009-anticoagulants-oral-implant-therapy-sr.pdf
 source_collection: external
