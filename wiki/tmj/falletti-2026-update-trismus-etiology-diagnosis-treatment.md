@@ -10,7 +10,7 @@ full_text: true
 source_url: https://pmc.ncbi.nlm.nih.gov/articles/PMC13053315/
 text_path: /Users/oracleneo/llm-wiki/papers/falletti-2026-update-trismus-etiology-diagnosis-treatment.txt
 text_filename: falletti-2026-update-trismus-etiology-diagnosis-treatment.txt
-source: sources/falletti-2026-update-trismus-etiology-diagnosis-treatment.md
+source: falletti-2026-update-trismus-etiology-diagnosis-treatment.md
 category: tmj
 evidence_level: narrative-review
 date: 2026-03-24
