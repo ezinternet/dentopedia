@@ -19,7 +19,7 @@ relations:
   - type: extends
     target: implants/surface/plasma/kahm-2024-vacuum-plasma-surface-treatment-osseointegration
     note: "same Plasmapp vacuum-plasma device family and SLA implants; extends Kahm's plasma-alone null result by testing plasma as a coating-carrier for rhBMP-2, where significance emerges"
-  - type: contextualizes
+  - type: refines
     target: implants/surface/plasma/stacchi-2025-vacuum-plasma-early-implant-stability-rct
     note: "Outcome-measure dissociation, not a factual conflict. Stacchi's human split-mouth RCT found an early ISQ advantage at 60/90 days after ~50s vacuum plasma; this beagle study found no ISQ difference despite large histometric BIC gains. Same intervention family, opposite-reading stability signal — but the discordance is between resonance frequency analysis (RFA) and direct histometry across species, not between two estimates of the same quantity. Read together they caution that ISQ may not track BIC."
 ---
