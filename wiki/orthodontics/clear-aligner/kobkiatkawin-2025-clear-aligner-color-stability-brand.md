@@ -14,8 +14,6 @@ tags: [orthodontics, clear-aligner, brand-comparison, invisalign, clearcorrect, 
 relations:
   - type: extends
     target: wiki/orthodontics/clear-aligner/delgado-2025-thermoplastics-clear-aligners-review
-  - type: compares-to
-    target: wiki/orthodontics/clear-aligner/telles-2025-clear-aligner-brand-virtual-setup-comparison
 ---
 
 > [!summary] 한국어 핵심요약
