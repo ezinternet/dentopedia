@@ -16,6 +16,22 @@ Scoping review (10 studies, 2000–2020) of communication tools in esthetic dent
 ## 한줄요약
 스코핑 리뷰(10편): 심미 치과에서 구두·시각·디지털 커뮤니케이션 도구는 환자 만족, 치료 수락률, SDM 모두에 긍정적 영향; 표준화된 도구 부재가 연구 비교를 제한.
 
+## Three-line Summary
+
+Scoping review of communication tools in esthetic dentistry, screening 6,678 records published 2000–2020 and including 10 studies across four tool categories: verbal, written, visual (wax-up/mock-up) and digital (2D/3D smile simulation, augmented reality).
+
+All 10 included studies reported a positive effect of their chosen tool on at least one outcome — patient satisfaction, treatment acceptance, shared decision-making quality, information retention or care quality — with digital simulation improving patient understanding before treatment begins and thereby reducing post-treatment dissatisfaction.
+
+The consistent direction is encouraging but uninformative about magnitude: no standardised SDM communication tool exists in dentistry, which prevents cross-study comparison and is the field's central methodological gap.
+
+## 세줄요약
+
+스코핑 리뷰 (Scoping Review): 심미 치과의 커뮤니케이션 도구를 다룬 2000~2020년 문헌 6,678편을 선별해 10편을 포함하고, 도구를 구두·서면·시각(납형/목업)·디지털(2D/3D 스마일 시뮬레이션, 증강현실 (Augmented Reality, AR)) 네 범주로 분류.
+
+포함된 10편 **전부**가 선택한 도구가 최소 한 가지 결과 — 환자 만족, 치료 수락, 공유의사결정 (Shared Decision-Making, SDM) 품질, 정보 보유, 진료의 질 — 에 긍정적 효과를 보고했으며, 디지털 시뮬레이션은 치료 시작 전 환자 이해를 높여 치료 후 불만을 줄였다.
+
+효과의 방향은 일관되지만 **크기는 알 수 없다** — 치과에 표준화된 SDM 커뮤니케이션 도구가 존재하지 않아 연구 간 비교가 불가능하며, 이것이 이 분야의 핵심 방법론적 공백이다.
+
 ## 1. Document Information
 - Journal: Journal of Esthetic and Restorative Dentistry, Vol 34, Issue 1, pp. 104–116, December 2021
 - Funding: not disclosed
