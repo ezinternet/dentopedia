@@ -6,7 +6,7 @@ date: 2021-03-01
 doi: "10.4317/medoral.24094"
 source: larsen-2021-methylprednisolone-doses-split-mouth-rct.md
 category: [drug/analgesics]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/larsen-2021-methylprednisolone-doses-split-mouth-rct.pdf
 pdf_filename: larsen-2021-methylprednisolone-doses-split-mouth-rct.pdf
 source_collection: external
