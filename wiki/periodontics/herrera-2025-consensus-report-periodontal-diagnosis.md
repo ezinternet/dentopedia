@@ -6,7 +6,7 @@ date: 2025-03-04
 doi: "10.1111/jcpe.14152"
 source: herrera-2025-consensus-report-periodontal-diagnosis.md
 category: periodontics
-confidence: consensus
+evidence_level: consensus
 pdf_path: /Users/oracleneo/llm-wiki/papers/herrera-2025-consensus-report-periodontal-diagnosis.pdf
 pdf_filename: herrera-2025-consensus-report-periodontal-diagnosis.pdf
 source_collection: external
