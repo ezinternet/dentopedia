@@ -6,7 +6,7 @@ date: 2024-04-05
 doi: "10.1038/s41598-024-57881-7"
 source: lee-2024-postop-bleeding-anticoagulants-dentoalveolar-cohort.md
 category: [drug/anticoagulants]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/lee-2024-postop-bleeding-anticoagulants-dentoalveolar-cohort.pdf
 pdf_filename: lee-2024-postop-bleeding-anticoagulants-dentoalveolar-cohort.pdf
 source_collection: external
