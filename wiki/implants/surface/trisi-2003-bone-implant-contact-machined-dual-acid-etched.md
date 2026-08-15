@@ -6,7 +6,7 @@ date: 2003-07-01
 doi: "10.1902/jop.2003.74.7.945"
 source: trisi-2003-bone-implant-contact-machined-dual-acid-etched.md
 category: [implants/surface]
-confidence: prospective
+evidence_level: prospective
 pdf_path: N/A
 pdf_filename: N/A
 source_collection: pubmed-abstract
