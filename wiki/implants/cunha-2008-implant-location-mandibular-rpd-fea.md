@@ -15,9 +15,6 @@ relations:
   - target: implants/hussein-2019-thread-depth-implant-shape-stress-mandible-fea
     type: extends
     note: "Both use FEA on mandibular implants; hussein-2019 focuses on thread design while cunha-2008 focuses on implant location in RPD context"
-  - target: implants/premnath-2012-stress-distribution-bone-density-fea
-    type: related
-    note: "FEA mandibular stress analysis with ANSYS; different variable (bone density vs implant location)"
 ---
 
 ## Three-line Summary
