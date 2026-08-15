@@ -29,7 +29,7 @@ relations:
     type: reinforces
     note: "Efficiency pattern: fewer appointments but more refinements with CA"
   - target: "orthodontics/clear-aligner/chong-2025-patient-experiences-cat-scoping-review"
-    type: contextualizes
+    type: extends
     note: "Complex cases understudied gap; this paper partially fills it"
 ---
 
