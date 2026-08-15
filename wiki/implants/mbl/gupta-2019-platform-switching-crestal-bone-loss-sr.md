@@ -14,8 +14,8 @@ full_text: true
 pmid: "30729925"
 pmcid: "PMC6380118"
 source_url: https://pmc.ncbi.nlm.nih.gov/articles/PMC6380118/
-text_path: /Users/oracleneo/llm-wiki/papers/gupta-2019-platform-switching-technique-crestal-bone.txt
-text_filename: gupta-2019-platform-switching-technique-crestal-bone.txt
+text_path: /Users/oracleneo/llm-wiki/papers/gupta-2019-platform-switching-crestal-bone-loss-sr.txt
+text_filename: gupta-2019-platform-switching-crestal-bone-loss-sr.txt
 tags: [platform-switching, marginal-bone-loss, crestal-bone, implant-abutment-mismatch, offset-magnitude, interimplant-distance, narrative-review]
 relations:
   - type: reinforces
@@ -88,4 +88,4 @@ Narrative review, PubMed + Google Scholar, 2005–2017, with stated inclusion/ex
 
 ## Retrieval Note
 
-This page consolidates two prior ingests of the same article (DOI 10.4103/aam.aam_15_18). Both the externally-sourced PDF (`papers/gupta-2019-platform-switching-crestal-bone-loss-sr.pdf`) and the PMC full text (`papers/gupta-2019-platform-switching-technique-crestal-bone.txt`, PMC6380118) are held. The duplicate stem `gupta-2019-platform-switching-technique-crestal-bone` was merged here on 2026-08-15; its mechanistic account, FEA detail, and related-paper links were carried over. **`evidence_level` is deliberately `narrative-review`, not the article's self-declared "systematic review"** — no PRISMA flow, no risk-of-bias tool, and no pooling are reported.
+This page consolidates two prior ingests of the same article (DOI 10.4103/aam.aam_15_18). Both the externally-sourced PDF (`papers/gupta-2019-platform-switching-crestal-bone-loss-sr.pdf`) and the PMC full text (`papers/gupta-2019-platform-switching-crestal-bone-loss-sr.txt`, PMC6380118) are held. The duplicate stem `gupta-2019-platform-switching-technique-crestal-bone` was merged here on 2026-08-15; its mechanistic account, FEA detail, and related-paper links were carried over. **`evidence_level` is deliberately `narrative-review`, not the article's self-declared "systematic review"** — no PRISMA flow, no risk-of-bias tool, and no pooling are reported.
