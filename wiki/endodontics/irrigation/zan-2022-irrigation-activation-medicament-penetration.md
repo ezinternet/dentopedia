@@ -21,10 +21,6 @@ tags:
 relations:
   - target: endodontics/irrigation/cheung-2021-irrigant-activation-methods-clinical-review
     type: extends
-  - target: endodontics/irrigation/ordinola-zapata-2022-intracanal-medicaments-status-directions
-    type: complements
-  - target: endodontics/irrigation/yoon-2024-lipoteichoic-acid-intracanal-medicament-enterococcus
-    type: complements
 ---
 
 ## Three-line Summary
