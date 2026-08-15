@@ -5,7 +5,7 @@ year: 2014
 date: 2014-04-01
 doi: 10.1111/jcpe.12220
 pmid: 24641003
-source: sources/thoma-2014-soft-tissue-augmentation-implant-sr.md
+source: thoma-2014-soft-tissue-augmentation-implant-sr.md
 category: implants/soft-tissue
 evidence_level: sr
 source_collection: pubmed-abstract
