@@ -6,7 +6,7 @@ date: 2026-06-01
 doi: 10.1155/ijod/7270797
 source: fahmy-2026-polydopamine-gutta-percha-bioceramic-sealer.md
 category: [endodontics]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: true
 pmid: "42388553"
