@@ -7,7 +7,7 @@ volume_issue: "34(7):773-788"
 doi: "10.1016/S0099-2399(08)00257-4"
 category: [endodontics/anatomy]
 evidence_level: narrative-review
-source: sources/caviedes-bucheli-2008-neuropeptides-dental-pulp-silent.md
+source: caviedes-bucheli-2008-neuropeptides-dental-pulp-silent.md
 source_collection: abstract-only
 pdf_path: /Users/oracleneo/llm-wiki/papers/caviedes-bucheli-2008-neuropeptides-dental-pulp-silent.pdf
 pdf_filename: caviedes-bucheli-2008-neuropeptides-dental-pulp-silent.pdf
