@@ -12,8 +12,6 @@ pdf_filename: suksaphar-2017-survival-fracture-ett-crown-resin-sr.pdf
 source_collection: external
 tags: [post-and-core, posterior-teeth, resin-composite, full-coverage-crown, survival, systematic-review, endodontically-treated-teeth]
 relations:
-  - type: compares
-    target: phengudom-2021-survival-fracture-endodontic-anterior
   - type: extends
     target: dekuijper-2023-clinical-performance-direct-composite-resin
 ---
