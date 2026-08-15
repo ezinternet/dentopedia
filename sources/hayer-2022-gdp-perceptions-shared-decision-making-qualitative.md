@@ -16,6 +16,22 @@ Qualitative study (n=9 GDPs, UK) found SDM is systematically confused with infor
 ## 한줄요약
 질적 연구(n=9, 영국 일반치과): SDM을 informed consent와 혼동·실제 실무에서 정보 전달로 대체; 장벽 3개 — 소통 습관, 규제 두려움, NHS 시간 제약.
 
+## Three-line Summary
+
+Qualitative study using semi-structured interviews with 9 UK general dental practitioners (GDPs), exploring how shared decision-making (SDM) is understood and enacted in everyday practice.
+
+SDM was systematically conflated with informed consent — communication defaulted to information-provision (listing options and risks) rather than eliciting patient preferences — and three barrier themes emerged: communication style, fear of regulatory bodies and litigation driving defensive practice, and NHS time and structural pressure incompatible with SDM conversations.
+
+Standardised decision-making aids were identified as the most practical intervention to bridge the gap; with 9 UK-based interviewees the findings are transferable rather than statistically generalisable.
+
+## 세줄요약
+
+질적 연구 (Qualitative Study — 반구조화 면담): 영국 일반 치과의사 (General Dental Practitioner, GDP) 9명을 대상으로, 공유의사결정 (Shared Decision-Making, SDM)이 일상 진료에서 어떻게 이해되고 실행되는지 탐색.
+
+실제 진료에서 SDM은 사전동의 (Informed Consent)와 체계적으로 혼동됐다 — 환자의 선호를 끌어내기보다 옵션과 위험을 나열하는 **정보 제공**으로 대체됐다. 장벽 주제는 셋이었다: 소통 습관, 규제기관·소송에 대한 두려움에서 오는 방어진료, SDM 대화와 구조적으로 양립하지 않는 영국 국민보건서비스 (National Health Service, NHS)의 시간 압박.
+
+가장 실용적인 해법으로 **표준화된 의사결정 보조도구**가 지목됐다 — 다만 영국 면담자 9명 기반이라 통계적 일반화가 아니라 전이가능성 (transferability) 수준의 근거다.
+
 ## 1. Document Information
 - Journal: British Dental Journal, Vol 232, Issue 4, pp. 227–231, February 2022
 - Institution: University of Bedfordshire; private dental surgery, Hemel Hempstead, UK
