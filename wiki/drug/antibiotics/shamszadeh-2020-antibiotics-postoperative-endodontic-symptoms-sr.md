@@ -4,7 +4,7 @@ authors: "Shamszadeh S, Asgary S, Shirvani A, Eghbal MJ"
 year: 2020
 doi: "10.1111/joor.13057"
 pmid: "32681652"
-source: "Journal of Oral Rehabilitation"
+source: shamszadeh-2020-antibiotics-postoperative-endodontic-symptoms-sr.md
 category: drug/antibiotics
 evidence_level: sr+ma
 source_collection: pubmed-abstract
