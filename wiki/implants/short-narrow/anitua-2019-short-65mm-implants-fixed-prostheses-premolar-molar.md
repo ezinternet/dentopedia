@@ -6,7 +6,7 @@ date: 2018-01-28
 doi: "10.1111/jopr.12761"
 source: anitua-2019-short-65mm-implants-fixed-prostheses-premolar-molar.md
 category: [implants/short-narrow]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/anitua-2019-short-65mm-implants-fixed-prostheses-premolar-molar.pdf
 pdf_filename: anitua-2019-short-65mm-implants-fixed-prostheses-premolar-molar.pdf
 source_collection: external
