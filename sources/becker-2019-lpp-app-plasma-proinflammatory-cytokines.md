@@ -23,6 +23,14 @@ Control implants showed IL1-β/TNF-α rising significantly through 8 h before fa
 
 The paper does not report a direct LPP-vs-APP statistical contrast (each is compared to control, not to each other), and the entire study rests on a **single blood donor** (n=1 human, 10 implants/arm) — a major generalizability limit not visible in the abstract.
 
+## 세줄요약
+
+in vitro 연구: Camlog SCREW-LINE Promote plus 임플란트 30개(4등급 Ti, abrasive-blasted acid-etched) — 미처리 대조군 10개, 대기압 플라즈마 (Atmospheric-Pressure Plasma, APP — 플라즈마 제트 1분) 10개, 저압 플라즈마 (Low-Pressure Plasma, LPP — 진공 챔버 15분) 10개 — 를 단일 건강 공여자의 전혈에 침지하고 1/8/24시간에 IL1-β·TNF-α mRNA를 역전사 정량 중합효소연쇄반응 (RT-qPCR)으로 측정.
+
+대조군은 IL1-β·TNF-α가 8시간까지 유의하게 상승했다가 24시간에 하락했다. APP·LPP 임플란트는 1시간(LPP만)과 8시간(둘 다, P<0.01~0.05)에 두 사이토카인을 유의하게 억제했으나, **24시간에 양상이 반전**돼 두 플라즈마군 모두 IL1-β(P<0.05)와 TNF-α(P<0.001)의 유의한 *증가*를 보였다 — 그 시점엔 이미 대조군이 하락한 뒤였다.
+
+이 논문은 LPP와 APP를 직접 통계 비교하지 않았고(각각 대조군과만 비교), 연구 전체가 **단일 혈액 공여자**(사람 n=1, 군당 임플란트 10개)에 기반한다 — 초록만으로는 드러나지 않는 중대한 일반화 한계다.
+
 ## 1. Document Information
 
 - Journal: Journal of Cranio-Maxillo-Facial Surgery, 2019 Aug;47(8):1255-1261
