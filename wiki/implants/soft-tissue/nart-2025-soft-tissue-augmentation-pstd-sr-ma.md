@@ -28,6 +28,22 @@ SR+MA (5 studies, 2 RCTs + 3 prospective, 87 patients): soft tissue augmentation
 
 SR+MA (5편/87명): 협측 임플란트 연조직 열개부 (Peri-implant Soft Tissue Dehiscence, PSTD)에 관상판막 전진술 (Coronally Advanced Flap, CAF) + 결합조직이식 (Connective Tissue Graft, CTG)/대체재 시행 시 전문가 심미점수 7.7/10, 완전 피개율 (Complete Coverage) 71% (95% CI: 59–82%), PSTD 깊이 2.2 mm 감소 — 단, 이질성 (Heterogeneity) 중등도-높음이며 5편/87명의 제한된 근거.
 
+## Three-line Summary
+
+Systematic review and meta-analysis (abstract-only in this wiki; full text not retrieved) of 5 studies and 87 patients on soft tissue augmentation (STA) for buccal peri-implant soft tissue dehiscence (PSTD), pooling professional esthetic scores and patient-reported outcomes together for the first time.
+
+Coronally advanced flap-based STA achieved 2.2 mm PSTD depth reduction (95% CI 1.76–2.69) and a 71% complete coverage rate (95% CI 59–82%), with a professional esthetic score of 7.7/10 (95% CI 6.63–8.83) but patient-reported esthetics markedly lower at VAS 60.8/100 (95% CI 46.56–75.01).
+
+The gap between clinician (7.7/10) and patient (60.8/100) esthetic ratings is the clinically important signal — a result the operator scores as good may not read that way to the patient; with only 5 studies, 87 patients, 3/5 at low risk of bias and prosthetic modification confounding 2 studies, these pooled values are provisional.
+
+## 세줄요약
+
+체계적 문헌고찰 및 메타분석 (SR+MA — 이 위키에는 초록만 확보, 전문 미입수): 협측 임플란트 주위 연조직 열개 (Peri-implant Soft Tissue Dehiscence, PSTD)에 대한 연조직 증대술 (Soft Tissue Augmentation, STA)을 다룬 5편·환자 87명에서 술자 심미평가와 환자보고결과를 최초로 함께 통합.
+
+치관측 변위 판막 (Coronally Advanced Flap, CAF) 기반 STA는 PSTD 깊이를 2.2 mm 감소(95% CI 1.76~2.69)시키고 완전 피개율 71%(95% CI 59~82%)를 달성했다. 술자 심미점수는 7.7/10(95% CI 6.63~8.83)인 반면 **환자 심미점수는 시각아날로그척도 (Visual Analogue Scale, VAS) 60.8/100(95% CI 46.56~75.01)로 뚜렷하게 낮았다.**
+
+임상적으로 중요한 신호는 이 **술자(7.7/10)와 환자(60.8/100)의 평가 격차**다 — 술자가 잘 됐다고 보는 결과가 환자에게는 그렇게 읽히지 않을 수 있다. 다만 5편·87명, 그중 3편만 비뚤림 위험 낮음, 2편은 보철물 수정이 교란요인으로 섞여 있어 이 통합값은 잠정적이다.
+
 ## Summary
 
 This 2025 systematic review and meta-analysis from Nart et al. (Periodontology 2000) is the first to specifically pool professional esthetic assessment and patient-reported outcomes (PROs) for soft tissue augmentation (STA) targeting buccal peri-implant soft tissue dehiscence (PSTD). Eight publications across five studies (two RCTs, three prospective) published 2013–2024, totaling 87 patients with ≥6 months follow-up, were included. All studies applied a coronally advanced flap (CAF) with connective tissue graft (CTG) or xenogeneic substitutes; one RCT arm used a tunnel procedure; two studies also modified the prosthetic component. Three of five studies were at low risk of bias. Ten meta-analyses demonstrated that CAF-based STA achieves a professional esthetic score of 7.7/10 (95% CI: 6.63–8.83) and patient-reported esthetics of 60.8/100 VAS (95% CI: 46.56–75.01), with moderate-to-high heterogeneity. PSTD depth was reduced by 2.2 mm (95% CI: 1.76–2.69) and complete coverage was achieved in 71% of cases (95% CI: 59–82%). The authors conclude that STA positively influences esthetic outcomes, but the evidence base remains limited and further large-scale RCTs are needed.
