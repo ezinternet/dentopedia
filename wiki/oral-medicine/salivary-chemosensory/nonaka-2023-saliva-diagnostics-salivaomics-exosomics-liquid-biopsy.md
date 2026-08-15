@@ -15,6 +15,13 @@ source_url: https://pmc.ncbi.nlm.nih.gov/articles/PMC11390004/
 text_path: /Users/oracleneo/llm-wiki/papers/nonaka-2023-saliva-diagnostics-salivaomics-exosomics-liquid-biopsy.txt
 text_filename: nonaka-2023-saliva-diagnostics-salivaomics-exosomics-liquid-biopsy.txt
 tags: [saliva, salivary-diagnostics, salivaomics, liquid-biopsy, exosomes, biomarkers, EFIRM, ctDNA]
+relations:
+  - type: complements
+    target: oral-medicine/salivary-chemosensory/tsuchiya-2023-covid-19-oral-sequelae-gustatory-saliva
+    note: "Reframing, not disagreement. Tsuchiya 2023 treats saliva as a disease *output* (hyposalivation as a COVID-19 sequela); this review treats saliva as a diagnostic *medium*. The two make no overlapping factual claims and do not conflict — they open different axes on the same fluid."
+  - type: complements
+    target: oral-medicine/salivary-chemosensory/poudel-2026-xerostomia-dental-treatment-outcomes-sr
+    note: "Salivary-gland-function/xerostomia axis, contrasted with this page's diagnostic-use axis."
 ---
 
 ## Three-line Summary
