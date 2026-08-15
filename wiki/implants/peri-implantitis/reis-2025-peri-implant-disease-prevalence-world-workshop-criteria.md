@@ -11,9 +11,6 @@ evidence_level: sr+ma
 source_collection: pubmed-abstract
 full_text: false
 tags: [peri-implantitis, peri-implant-mucositis, prevalence, epidemiology, world-workshop, 2017-classification, systematic-review, meta-analysis]
-relations:
-  - type: supersedes
-    target: implants/peri-implantitis/derks-2015-peri-implant-health-disease-epidemiology
 ---
 
 ## Three-line Summary
