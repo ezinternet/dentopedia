@@ -6,7 +6,7 @@ date: 2013-08-01
 doi: "10.1097/01.AOG.0000433008.16556.f0"
 source: acog-2013-oral-health-care-during-pregnancy.md
 category: [oral-medicine]
-confidence: consensus
+evidence_level: consensus
 pdf_path: /Users/oracleneo/llm-wiki/papers/acog-2013-oral-health-care-during-pregnancy.pdf
 pdf_filename: acog-2013-oral-health-care-during-pregnancy.pdf
 source_collection: external
