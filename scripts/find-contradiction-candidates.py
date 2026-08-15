@@ -252,6 +252,17 @@ RETRACTED_RE = re.compile(r"^retraction_status:\s*RETRACTED\s*$", re.MULTILINE |
 # "저자가 이미 판단한 쌍"이라는 억제 근거의 강도는 같다.
 supersedes_map = defaultdict(set)
 
+# typed 엣지 역방향 인덱스 (2026-08-15).
+#
+# 억제는 지금까지 **출발 페이지 자신의** relations만 봤다. 그런데 엣지는 한쪽에만 단다 —
+# B가 `extends → A`를 갖고 있으면 그 쌍은 이미 판단된 것인데, A를 스캔할 때는 A의
+# relations가 비어 있어 후보로 방출됐다. 실측된 사례: farina-2026 `extends → lamont-2018`이
+# 있는데도 lamont-2018 → farina-2026이 후보로 떴고, gehrke-2020·di-fiore-2018이
+# osteotomy overview로 `extends`를 갖고 있는데도 overview → 그 둘이 후보로 떴다.
+# supersession을 양방향으로 만든 것과 같은 근거다: 방향이 어느 쪽이든 저자가 그 쌍을
+# 보고 타입을 골랐다는 사실은 같다.
+incoming_edges = defaultdict(set)
+
 stems = set()
 oneliner = {}
 retracted_stems = set()
@@ -270,6 +281,13 @@ for md in WIKI.rglob("*.md"):
                 t = part.strip().strip('"').strip("'").rstrip("/")
                 if t:
                     supersedes_map[t.split("/")[-1]].add(md.stem)
+        rel_m = re.search(r"^relations:\s*\n((?:[ \t]+.*\n?)+)", fm_m.group(1), re.MULTILINE)
+        if rel_m:
+            for it in re.split(r"\n(?=\s*-\s)", rel_m.group(1)):
+                ty = re.search(r"type:\s*(\S+)", it)
+                tg = re.search(r'target:\s*"?([^"\n]+)"?', it)
+                if ty and tg:
+                    incoming_edges[tg.group(1).strip().rstrip("/").split("/")[-1]].add(md.stem)
     if fm_m and RETRACTED_RE.search(fm_m.group(1)):
         retracted_stems.add(md.stem)
         continue                      # 대상 후보에서 제외 (stems에 넣지 않는다)
@@ -349,6 +367,8 @@ for md in WIKI.rglob("*.md"):
     fm, body, cat, edges, sup_targets = parse(md)
     # 이 페이지가 대체한 옛 페이지들도 "이미 판단된 쌍"이다 (역방향)
     edges |= supersedes_map.get(md.stem, set())
+    # 다른 페이지가 이쪽으로 단 엣지도 "이미 판단된 쌍"이다
+    edges |= incoming_edges.get(md.stem, set())
     # 본문 + 매칭 sources의 Why Ingested 를 함께 스캔
     scan = body
     src = SOURCES / md.name
