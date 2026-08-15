@@ -14,10 +14,6 @@ tags: [autogenous-bone-graft, donor-site, intraoral-donor, iliac-crest, retromol
 relations:
   - type: reinforces
     target: overviews/bone-graft-material-selection-matrix-overview
-  - type: related
-    target: overviews/gbr-barrier-membrane-overview
-  - type: related
-    target: bone-regeneration/benic-2014-horizontal-bone-augmentation-guided-regeneration
 ---
 
 ## 한국어 핵심요약
@@ -139,6 +135,7 @@ Advantages specific to this site: no donor-site restoration is required (non-loa
 - [[bone-regeneration/donkiewicz-2021-survival-rates-implants-autogenous-allogeneic]] — SR (100 studies): AUBB ≈ ALBB overall; AUBB subgroup independently reconfirms intraoral > extraoral (Axis 1)
 - [[bone-regeneration/sethi-2020-onlay-bone-grafts-iliac-crest-retrospective]] — Retrospective 25-year cohort: long-term ICG survival and low-morbidity single-center benchmark (Axis 1)
 - [[bone-regeneration/daoud-2024-spontaneous-healing-retromolar-donor-site]] — Prospective 3D CBCT cohort: retromolar donor site spontaneous healing trajectory, re-harvest feasibility (Axis 2)
+- [[bone-regeneration/benic-2014-horizontal-bone-augmentation-guided-regeneration]] — Narrative review of guided bone regeneration for horizontal ridge augmentation; adjacent technique axis (GBR rather than donor-site selection), kept here after its `related:` typed edge was dropped 2026-08-15
 - [[bone-regeneration/park-2022-previously-grafted-sinus-intraoral-donor]] — Case report: 16-year-old DBBM sinus graft re-harvested as autogenous donor material (Axis 3)
 - [[bone-regeneration/park-2022-lateral-sinus-bony-window-gbr]] — Case series: lateral sinus bony window repurposed as donor site, companion paper to the above (Axis 3)
 - [[bone-regeneration/zufia-2022-maxillary-tuberosity-block-autograft-applications]] — Case series: maxillary tuberosity triple-graft technique for combined hard/soft tissue reconstruction (Axis 4)
