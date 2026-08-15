@@ -3,7 +3,7 @@ title: "Dental pain induced by an ambient thermal differential: pathophysiologic
 authors: ["Le Fur-Bonnabesse A", "Bodéré C", "Hélou C", "Chevalier V", "Goulet JP"]
 year: 2017
 doi: 10.2147/JPR.S142539
-source: sources/le-fur-bonnabesse-2017-dental-pain-thermal-allodynia.md
+source: le-fur-bonnabesse-2017-dental-pain-thermal-allodynia.md
 category: dentin-hypersensitivity
 evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/le-fur-bonnabesse-2017-dental-pain-thermal-allodynia.pdf
