@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: "10.4317/medoral.26842"
 source: liborio-2025-methylprednisolone-third-molar-sr-ma.md
 category: [drug/analgesics]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/liborio-2025-methylprednisolone-third-molar-sr-ma.pdf
 pdf_filename: liborio-2025-methylprednisolone-third-molar-sr-ma.pdf
 source_collection: external
