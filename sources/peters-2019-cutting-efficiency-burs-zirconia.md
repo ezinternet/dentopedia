@@ -18,6 +18,22 @@ In-vitro custom test-rig study (n=4 bur types, sintered zirconia specimens, air 
 ## 한줄요약
 소결 지르코니아 시편 대상 인비트로 실험: 다이아몬드 버(3종) 전부가 텅스텐 카바이드 버보다 절삭효율 높았고, 전 버 시간 경과 시 효율 저하; SEM에서 버 헤드 마모·손상 확인.
 
+## Three-line Summary
+
+In vitro study (Aust Endod J 2019;45(3):289–297; abstract-only in this wiki) comparing the cutting efficiency of three diamond bur types — including a zirconia-specific bur and a conventional blue-band diamond — against a tungsten carbide bur on sintered zirconia, over two successive 5-minute runs with SEM of the cutting portions.
+
+Every diamond bur cut zirconia more efficiently than the tungsten carbide bur across both runs, all bur types lost efficiency over time, and SEM confirmed discernible wear and damage to each bur head; the authors conclude that carbide burs are "rather ineffective" against zirconia while zirconia-cutting burs are advantageous for durability.
+
+For endodontic access through a zirconia restoration, reach for a diamond and expect measurable efficiency decay within minutes — plan a bur change mid-access rather than pushing a dulled bur; effect sizes, p-values, specimen numbers and inter-diamond comparisons are unavailable from the abstract, and only an air turbine was tested.
+
+## 세줄요약
+
+in vitro 연구 (Aust Endod J 2019;45(3):289–297, 이 위키에는 초록만 확보): 소결 지르코니아 (Sintered Zirconia)에 대해 다이아몬드 버 3종(지르코니아 전용 버·통상 blue-band 다이아몬드 포함)과 텅스텐 카바이드 (Tungsten Carbide) 버의 절삭효율을 5분씩 연속 2회 시행으로 비교하고 절삭부를 SEM으로 관찰.
+
+두 회차 모두에서 **모든 다이아몬드 버가 카바이드 버보다 지르코니아를 효율적으로 절삭**했고, 모든 버가 시간이 갈수록 효율이 떨어졌으며, SEM에서 각 버 헤드의 마모·손상이 확인됐다. 저자 결론은 카바이드 버가 지르코니아에 "거의 효과가 없다(rather ineffective)"는 것, 지르코니아 전용 버는 내구성 면에서 유리하다는 것이다.
+
+지르코니아 수복물을 통한 근관 접근 시에는 다이아몬드를 쓰고, **수 분 내에 측정 가능한 효율 저하가 온다는 전제로 접근 도중 버 교체를 계획**하라 — 무뎌진 버를 밀어붙이지 말 것. 다만 효과크기·p값·표본 수·다이아몬드 간 비교는 초록에서 확인 불가하고, 에어터빈 단일 조건만 시험됐다.
+
 ## 1. Document Information
 - **Journal**: Australian Endodontic Journal (Aust Endod J)
 - **Volume/Issue/Pages**: 45(3):289–297
