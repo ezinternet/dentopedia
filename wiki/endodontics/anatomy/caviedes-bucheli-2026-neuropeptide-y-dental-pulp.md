@@ -4,7 +4,7 @@ authors: "Javier Caviedes-Bucheli, Esteban Ulate, Hugo-Roberto Munoz, Nestor Rí
 year: 2026
 doi: 10.1111/iej.70192
 journal: "International Endodontic Journal"
-source: sources/caviedes-bucheli-2026-neuropeptide-y-dental-pulp.md
+source: caviedes-bucheli-2026-neuropeptide-y-dental-pulp.md
 category: [endodontics/anatomy]
 evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/caviedes-bucheli-2026-neuropeptide-y-dental-pulp.pdf
