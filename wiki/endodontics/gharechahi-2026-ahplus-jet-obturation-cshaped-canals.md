@@ -6,7 +6,7 @@ date: 2026-07-01
 doi: 10.1007/s44445-026-00124-4
 source: gharechahi-2026-ahplus-jet-obturation-cshaped-canals.md
 category: [endodontics]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: true
 pmid: "42223545"
