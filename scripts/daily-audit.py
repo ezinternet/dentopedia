@@ -85,7 +85,10 @@ One content-lint signal (non-blocking, deterministic):
   - content-lint.py → body content rules lint.py can't see: (A) mandatory bilingual
                                세줄요약 pair + overview 한국어 핵심요약 callout, (B) heading
                                tag consistency (확인/미검증), (C) wiki↔source cross-tier
-                               integrity (source: → sources/ existence, pmid match).
+                               integrity (source: → sources/ existence, pmid match),
+                               (D) legacy frontmatter key confidence: (renamed to
+                               evidence_level: 2026-07-15) — invisible to every other
+                               audit because consumers read both keys.
                                No LLM — the deterministic 80% of an ingest-verification gate.
 
 One retraction signal (non-blocking):
