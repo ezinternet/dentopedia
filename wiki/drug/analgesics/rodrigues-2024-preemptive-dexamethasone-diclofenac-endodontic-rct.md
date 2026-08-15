@@ -6,7 +6,7 @@ doi: 10.1111/iej.14030
 pmid: "38279778"
 category: drug/analgesics
 evidence_level: rct
-source: "International Endodontic Journal"
+source: rodrigues-2024-preemptive-dexamethasone-diclofenac-endodontic-rct.md
 source_collection: pubmed-abstract
 date: 2026-07-21
 tags:
