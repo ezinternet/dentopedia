@@ -110,4 +110,8 @@ Each of these warrants its own paper page when relevant papers are ingested.
 
 ### 신규 추가 (2026-06)
 
-- [[dental-history/jkda-2025-63-8-006]] — Historical article (Goodface Mi 치과의원 변웅래, JKDA 2025): 함석태 (1889-?) — 일제강점기 첫 한국인 정규 치과대학 졸업자·등록 치과의사·한성치과의사회 창립 (일본 치과단체 대항). (narrative-review, 2025)
+- [[dental-history/jkda-2025-63-8-006]] — Historical article (Goodface Mi 치과의원 변웅재, JKDA 2025): 함석태 (1889-?) — 일제강점기 첫 한국인 정규 치과대학 졸업자·등록 치과의사·한성치과의사회 창립 (일본 치과단체 대항). (narrative-review, 2025)
+
+### 신규 추가 (2026-08-16)
+
+- [[dental-history/choi-2026-opening-future-innovation-convergence-oral-health]] — JKDA 2026년 대한치위생학회지 창간호 축사 (대한치과의사협회장): 인공지능(Artificial Intelligence, AI)·디지털 구강 건강·구강 노쇠(Oral Frailty)·근거기반 치위생(Evidence-Based Dental Hygiene, EBD)·국가 구강건강 빅데이터 통합 비전을 제시. 2026년 시점 한국 치과 제도·정책 방향의 기관 맥락 자료. (editorial, 2026)
