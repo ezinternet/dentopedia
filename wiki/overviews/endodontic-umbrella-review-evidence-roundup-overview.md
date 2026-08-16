@@ -50,10 +50,12 @@ relations:
 > - **가이드/수술**: 가이드 근관치료(석회화관·access·미세수술 근첨)는 정확도 >95%(Puri, SN OR 27.7 vs 통상), 그러나 근거는 증례 중심. 외과적 근관치료 GTR은 막+이식재 조합 우세(Gowda, e-PTFE+HA SUCRA 84.4%)이나 순위 잠정·credibility 약함.
 > - **관통 주제 = 근거질**: 15편 대부분 umbrella지만 하부 SR의 AMSTAR-2가 낮은 경우 다수(재생·VPT·가이드에서 critically-low 빈발), overlap(CCA) 높음 → **강한 방향성이되 확정 아님**.
 > - **임상 함의**: sealer/kinematic은 통증 근거로 고르지 말 것, 치근단 방사선투과상엔 활력검사 필수(악성 배제), 재생근관은 생존이 아닌 발육 이점으로 적응, VPT 재료는 MTA/Biodentine 우선, 가이드는 석회화·재수술·수술에 강점.
+> - [확인] **CBCT 판독 격차 & 재치료 예후**: CBCT 엄격기준 NSRCT 성공률 41%(vs 2D ~79%; Almufleh 2025, SR+MA 19편·1,365치) — 이 차이는 치료 실패가 아니라 CBCT가 2D가 놓치는 잔존 병소를 잡아냄. 비수술적 재치료 (Nonsurgical Retreatment, NS-ReTx) 예후 일관 인자 4가지: ①술전 병소 없음 ②작은 병소 ③적절한 충전+치관 밀폐 ④전문의. 현대 장비(CBCT·현미경·NiTi·초음파·열가소성 충전)로 예측성 향상 → 1차 실패 시 발치 전 NS-ReTx 우선(Falatah 2025, 30편).
+> - [확인] **근단 수술 예후**: 칼슘강화혼합물 (Calcium-Enriched Mixture, CEM) 시멘트 근단 충전 성공률 94.9%(197치·13년), 1/3/5년 무실패 생존 96.4%/92.7%/87.3%. 다변량 Cox에서 전신질환(ASA≥II)만 유의 실패 예측(위험비 HR=5.87; 실패 14% vs 2.6%; Asgary 2026) — 병소 크기·해부는 유의하지 않음. **치주-근관 복합병소 (Combined Periodontal-Endodontic Lesion, PEL)**: 근관 우선 치료 순서가 치주 우선 대비 유의 우월(탐침 깊이 (Probing Depth, PD) −1.07mm·임상부착수준 (Clinical Attachment Level, CAL) +0.99mm·생존 RR 1.22; Fan 2025, 16편) — 방향 일관이나 이질성 극심(I²>90%).
 
 ## Three-line Summary
 
-Roundup of 15 recent endodontic umbrella reviews across 5 axes — postoperative pain, periapical diagnosis, regeneration, primary-tooth/VPT, guided & surgical: on **pain**, statistically real but clinically negligible differences dominate (bioceramic vs epoxy sealer 24h SMD −0.15 / 48h −0.29, Dahikar; apical-extrusion control the shared mechanism, Zamparini; rotary generally lower pain e.g. RR 0.32 vs manual but no single kinematic universally superior, Abraham) — so sealer/kinematic should be chosen on handling/biocompatibility, not expected pain.
+Roundup of 15 endodontic umbrella reviews and 4 outcome studies (SR+MA and cohort) across 5 axes — postoperative pain, periapical diagnosis, regeneration, primary-tooth/VPT, guided & surgical: on **pain**, statistically real but clinically negligible differences dominate (bioceramic vs epoxy sealer 24h SMD −0.15 / 48h −0.29, Dahikar; apical-extrusion control the shared mechanism, Zamparini; rotary generally lower pain e.g. RR 0.32 vs manual but no single kinematic universally superior, Abraham) — so sealer/kinematic should be chosen on handling/biocompatibility, not expected pain.
 
 On **diagnosis**, pain/swelling/pulp response cannot exclude non-endodontic pathology (83.3% of non-endodontic lesions mimic chronic apical periodontitis, 43.3% malignant; a positive pulp response is the best imperfect red flag — Pimenta-Carvalho), granuloma-vs-cyst separates on TGF-β1/CD68 immunoprofile (PG 52.75% vs RC 25.43%, Abubakr) but histopathology remains the only reliable gold standard (Rios-Osorio); apical periodontitis–systemic associations (AP–CVD RR 1.38) are positive but observational (Pinto). On **regeneration**, REP/RET success is high (Lopes 94.5%; Rojas success 50–98%, survival 94–100%) yet survival matches apexification — RET's advantage is root development (length/dentin thickness), the regenerated tissue is repair-like not true pulp (Asgary).
 
@@ -85,6 +87,8 @@ The recurring lesson is a gap between statistical and clinical significance, and
 - **Abubakr 2025** (n=50 + 4 controls): granuloma vs radicular cyst separates on TGF-β1 (PG 52.75% vs RC 25.43%) and CD68 (17.15% vs 11.94%, p<0.001). PG more macrophage-driven.
 - **Rios-Osorio 2023** (narrative): only ~20% of epithelialized granulomas become inflammatory radicular cysts; imaging accuracy wide (CBCT 31–83%) — serial-sectioned histopathology remains the gold standard.
 - **Pinto 2023** (9 SRs): AP–CVD positive/moderate (Koletsi RR 1.38, 1.06–1.80) but all observational, confounded by periodontitis/glycemia; no AP–HIV link.
+- **Almufleh 2025** (SR+MA, 19 studies, 1,365 teeth): CBCT-assessed NSRCT — strict success 41.03% (complete resolution; I²=94.76%) vs loose success 85.01% (lesion reduction); the gap is a measurement artifact, not treatment failure (CBCT detects residual lesions 2D misses). Prognostic factors: no preop lesion, small lesion size, adequate obturation + coronal seal, specialist operator. GRADE moderate.
+- **Falatah 2025** (SR, 30 studies, Jan 1988–Sep 2025): NS retreatment for persistent AP — same 4 prognostic factors held consistently across 37 years of literature; CBCT strict criteria systematically lower than 2D throughout; contemporary armamentarium (CBCT, microscope, NiTi rotary, ultrasonic irrigation, thermoplastic obturation) has improved retreatment predictability → prioritize NS retreatment over extraction in primary endodontic failure. Narrative only (heterogeneity precluded MA).
 
 ### Axis 3 — Regenerative endodontics → [[overviews/regenerative-endodontics-rep-overview]]
 - **Lopes 2021 (REP)** (29 SRs): REP success 94.5%; survival ≈ apexification (e.g. 87.9% vs 90.6%); regenerated tissue repair-like (cementum/bone); failure = reinfection, complication = discoloration. Protocols evidence-immature.
@@ -99,10 +103,12 @@ The recurring lesson is a gap between statistical and clinical significance, and
 ### Axis 5 — Guided & surgical → [[overviews/endodontic-access-cavity-decision-tree]] · [[overviews/endodontics-comprehensive-ladder]]
 - **Puri 2024** (6 SRs): guided endodontics apex-location success 96.8%, static-navigation OR 27.7 vs conventional microsurgery (p<0.0001); drill-tip deviation 0.46 mm; guided post removal 100%. Highly accurate but case-series-dominated.
 - **Gowda 2025** (14 SRs, network MA): GTR in surgical endo — e-PTFE+HA top (SUCRA 84.4%, OR 0.13, NNT ≈5), CGF+Bio-Oss 2nd, collagen+bovine HA 3rd; combinations > single components; but 22/27 estimates weak-credibility, ROBIS 7/14 high risk.
+- **Asgary 2026** (retrospective cohort, STROBE; 197 teeth, 169 patients; single endodontist, 13 yr 2011–2024): CEM cement root-end filling — overall success 94.9%; failure-free survival 96.4%/92.7%/87.3% at 1/3/5 yr; multivariate Cox: systemic disease (ASA ≥II) was the SOLE independent predictor of failure (HR=5.87, 95% CI 1.52–22.68, p=0.010; 14% failure vs 2.6%); lesion size, crown-root ratio, root-end preparation depth, tooth type, post presence: all non-significant. Patient systemic status outweighs local anatomic factors in surgical case selection. Single center/operator — needs multicenter confirmation.
+- **Fan 2025** (SR+MA, 16 trials — 10 RCTs + 6 nRCTs — 1,468 cases): combined periodontal-endodontic lesions (PEL) — endodontic-first sequence superior on all endpoints vs periodontal-first or periodontal-only: PD reduction MD −1.07 mm (95% CI −1.49 to −0.65, p<0.0001, I²=98.4%), CAL gain MD +0.99 mm (p<0.0001, I²=91.5%), tooth survival RR 1.22 (p=0.001). Direction consistent and clinically actionable; extreme heterogeneity and geographic concentration (China/India) mean the ~1 mm magnitude should not be cited as precise.
 
 ## Methodology
 
-Narrative roundup (no new pooling). Base: 13 umbrella reviews + 1 case-control histology study (Abubakr) + 1 narrative review (Rios-Osorio). Numbers quoted verbatim from source pages. AMSTAR-2/CCA/GRADE reported to expose certainty and overlap limits.
+Narrative roundup (no new pooling). Base: 13 umbrella reviews + 1 case-control histology study (Abubakr) + 1 narrative review (Rios-Osorio) + 4 outcome studies (Almufleh 2025 SR+MA, Falatah 2025 SR, Asgary 2026 retrospective cohort, Fan 2025 SR+MA). Numbers quoted verbatim from source pages. AMSTAR-2/CCA/GRADE reported to expose certainty and overlap limits.
 
 ## Results
 
@@ -114,6 +120,8 @@ Narrative roundup (no new pooling). Base: 13 umbrella reviews + 1 case-control h
 4. **VPT materials**: prefer MTA or Biodentine over CH/formocresol (primary and mature-tooth pulpotomy); secure a good coronal seal; counsel that mature-tooth pulpotomy success declines over years.
 5. **Guided endodontics**: strong for calcified canals, precise access, apical microsurgery, and post removal — accept it is under-trialed. In surgical endo, membrane+graft combinations rank best but choose provisionally.
 6. **Weight everything as directionally strong, certainty-limited** — many underlying SRs are AMSTAR-2 low with high overlap.
+7. **CBCT outcome gap is a measurement artifact, not a treatment crisis** — a 41% strict-criteria CBCT success rate versus ~79% on 2D periapical radiographs means CBCT detects residual changes 2D misses; never compare success rates across different imaging/criteria pairs. In NS retreatment for persistent AP, prefer retreatment over extraction; contemporary armamentarium has improved predictability substantially.
+8. **Perioendo and surgical case selection**: for combined periodontal-endodontic lesions, treat the endodontic component first (consistent PD/CAL/survival advantage, RR 1.22, though ~1 mm magnitude imprecise); for apical surgery, screen systemic status — ASA ≥II multiplies failure risk 5.87× while local anatomy (lesion size, crown-root ratio) is not independently significant.
 
 ## Related Papers
 
@@ -132,6 +140,10 @@ Narrative roundup (no new pooling). Base: 13 umbrella reviews + 1 case-control h
 - [[endodontics/vpt/mtalsi-2026-pulpotomy-symptomatic-irreversible-pulpitis-mature-umbrella]] — mature-tooth pulpotomy: Biodentine/MTA/CEM > CH, long-term decline
 - [[endodontics/anatomy/puri-2024-guided-endodontics-treatment-success-umbrella]] — guided endodontics >95% accurate, case-series-based
 - [[endodontics/regenerative/gowda-2025-guided-tissue-regeneration-surgical-endodontic-outcome-umbrella]] — GTR membrane+graft combos top surgical-endo ranking
+- [[endodontics/almufleh-2025-cbct-nonsurgical-rct-outcomes-srma]] — CBCT strict 41% vs loose 85% NSRCT success; measurement gap not treatment failure; 4 prognostic factors identified
+- [[endodontics/falatah-2025-nonsurgical-retreatment-persistent-ap-sr]] — NS retreatment for persistent AP; same 4 prognostic factors consistent; modern armamentarium improves predictability; prioritize over extraction
+- [[endodontics/asgary-2026-endodontic-surgery-cem-long-term]] — CEM surgical endo 94.9% success over 13 yr; systemic disease (ASA≥II) sole independent predictor (HR 5.87); local anatomy non-significant
+- [[endodontics/fan-2025-perioendo-treatment-sequence-srma]] — perioendo lesions: endodontic-first superior (PD −1.07mm, CAL +0.99mm, survival RR 1.22); direction consistent, extreme heterogeneity
 
 ## Related Overviews
 
