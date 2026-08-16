@@ -220,3 +220,10 @@ Defense strategies: masking test (cover enamel margin — if radiolucency disapp
 | Ghost images — metal/metal objects panoramic | [[radiology/ramos-2016-ghost-images-metal-objects-panoramic]] |
 | Bifid canal CBCT characterization | [[radiology/kuribayashi-2010-bifid-mandibular-canals-cone]] |
 | Bifid canal prevalence additional data | [[radiology/cuozzo-2024-prevalence-anatomical-characteristics-bifid]] |
+| Automated OPG quality: YOLOv8 AUC 0.93; 7 error classes | [[radiology/ameli-2025-automated-quality-evaluation-dental-panoramic]] |
+
+## Related Papers
+
+### 신규 추가 (2026-08-16)
+
+- [[radiology/ameli-2025-automated-quality-evaluation-dental-panoramic]] — YOLOv8 기반 자동 파노라마방사선사진(Panoramic Radiograph, OPG) 품질 평가 시스템: 7개 오류 클래스(위치, 움직임 등) AUC 0.93; 사람 심사관 대비 inter-rater agreement 달성 — 방사선 품질관리(Quality Control, QC) 자동화 근거. Lingam 2023(수동 심사, 오류율 77.2%) 확장. (ai/ml, 2025)
