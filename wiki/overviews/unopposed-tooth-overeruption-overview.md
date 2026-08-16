@@ -63,7 +63,7 @@ relations:
 
 ## Three-line Summary
 
-Synthesis of 12 papers: unopposed posterior teeth over-erupt in ~83% of cases (mean 0.43 mm / max 0.75 mm over ~9 months, ~72% < 1 mm, fastest early, as a 3D vertical + buccal-tipping + rotation movement; ~18% never move); the process is PDL/alveolar-bone–driven and therefore independent of pulp vitality, with no evidence that endo-treated teeth erupt differently from vital teeth.
+Synthesis of 14 papers: unopposed posterior teeth over-erupt in ~83% of cases (mean 0.43 mm / max 0.75 mm over ~9 months, ~72% < 1 mm, fastest early, as a 3D vertical + buccal-tipping + rotation movement; ~18% never move); the process is PDL/alveolar-bone–driven and therefore independent of pulp vitality, with no evidence that endo-treated teeth erupt differently from vital teeth.
 
 Fixed retention is no better than partial occlusal contact at preventing over-eruption (both ~0.1 mm; Livas 2016), so monitoring is a defensible default for low-risk teeth; risk is amplified 4.9× for ≥2 mm eruption over 12 years by younger age, maxillary location, full absence of antagonist, periodontitis, and the early post-extraction window.
 
@@ -71,7 +71,7 @@ Clinical ladder: risk-stratify before reflexive restoration; include space manag
 
 ## 세줄요약
 
-12편 종합: 대합치 없는 후방 치아의 ~83%가 정출(~9개월 평균 0.43 mm / 최대 0.75 mm, ~72%는 1 mm 미만, 초기 최대 속도, 수직+협측경사+회전의 3D 운동); ~18%는 전혀 안 움직임; 정출은 PDL·치조골 매개라 치수 생활력 무관 — 엔도치 vs 생활치 차이 근거 없음.
+14편 종합: 대합치 없는 후방 치아의 ~83%가 정출(~9개월 평균 0.43 mm / 최대 0.75 mm, ~72%는 1 mm 미만, 초기 최대 속도, 수직+협측경사+회전의 3D 운동); ~18%는 전혀 안 움직임; 정출은 PDL·치조골 매개라 치수 생활력 무관 — 엔도치 vs 생활치 차이 근거 없음.
 
 고정 retention도 부분접촉 대비 효과 없어(둘 다 ~0.1 mm; Livas 2016) 저위험치는 모니터링이 방어 가능한 기본값; 젊은 나이·상악·완전무대합·치주염·발치 직후가 12년 ≥2 mm 위험을 4.9배 높이는 고위험 프로파일.
 
