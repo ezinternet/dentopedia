@@ -206,3 +206,7 @@ The molecular mechanism page has limits that the clinical overview must supply:
 - [[overviews/implant-surface-comparison]] — clinical decision matrix (15+ papers, SLA/CA/UV-PF/OD outcomes); this page is the mechanistic substrate for that matrix
 - [[implants/surface/koshy-2015-dental-implant-surfaces-overview]] — additive/subtractive/material-modification taxonomy; Sa 1–2 µm optimum; HA delamination
 - [[implants/surface/ballo-2011-dental-implant-surfaces-physicochemical-biological]] — CXCR4 11× upregulation (anodized vs machined, 12 h); roughness 4-grade classification; chemistry–topography confounding
+
+### 신규 추가 (2026-08-16)
+
+- [[implants/surface/milleret-2011-alkali-titanium-blood-clot-platelet-complement]] — 알칼리 처리 티타늄(Alkali-treated Titanium) vs 기계가공(Machined) 표면: 혈액 응고(Blood Clot) 구조 변화 분석 — 혈소판(Platelet) 활성화·보체(Complement) 연쇄반응 차이 정량; 알칼리 처리 표면이 초기 혈전 구조와 피브린(Fibrin) 네트워크 밀도를 변형 → 24시간 사이토카인 역전 (becker-2019에서 인용). 표면 처리 → 혈액 인터페이스 → 골유착(Osseointegration) 분자 시퀀스의 upstream 근거. (in vitro/ex vivo, 2011)
