@@ -96,6 +96,12 @@ Clinical bottom line: (3) AGP aerosol — air turbine disperses ~1000× the bact
 | Air/water syringe aerosol source fingerprinting | [[infection-control/dudding-2022-clinical-observational-analysis-aerosol-emissions]] | prospective | n=41 patients, 15 procedures; three-way syringe aerosol 75.3% of use time but matches instrument (DUWL) source, not salivary — DUWL water quality governs infection risk |
 | Bioaerosol physics & airborne transmission | [[dental-handpiece/allison-2024-bioaerosols-airborne-transmission-dental-clinic]] | narrative-review | Air turbine ~1000× quiet-breathing CFU; <5 µm cut-off invalid (100 µm suspendable, >2 m); 3-tier control hierarchy + PPE with effect sizes |
 | AGP control/mitigation consensus | [[dental-handpiece/ghoneim-2024-aerosol-generating-procedures-control-mitigation]] | consensus | 78 studies: eyewear+mask+face-shield PPE, HVE/suction/rubber dam, ventilation+filtration; mouthrinses limited vs SARS-CoV-2 (abstract-only) |
+| Preprocedural mouthrinse vs aerosol bacterial CFU | [[infection-control/marui-2019-preprocedural-mouthrinse-aerosol-sr-ma]] | sr+ma (13 RCT, 397명) | CHX 78.9% CFU감소, CPC 61.2%, 에센셜 오일(EO) 61.3%; 전체 64.8% (95% CI 50.4–79.3%, I²=37%, moderate-quality) — 세균 오염 감소에는 세 제제 모두 유효 |
+| Aerosol-interventions Cochrane review | [[infection-control/kumbargere-nagraj-2020-interventions-reduce-contaminated-aerosols-dental-procedures-preventing-infectious-diseases-sr-ma]] | sr+ma Cochrane (16 studies, 425명) | HVE <30cm 세균 감소(MD −47.4 CFU); 러버댐 1–2m 감소; 항균 냉각제 감소; **전체 근거 매우낮음** — 질병 전파 직접 평가 연구 없음 |
+| Mouthwash vs SARS-CoV-2 salivary viral load (SR+MA) | [[infection-control/ebrahimi-2023-mouthwash-sars-cov2-viral-load-sr-ma]] | sr+ma (9 trials) | **PVP-I 1% 유효** (MD 3.61, 95% CI 1.03–6.19); CPC MD 0.61 (NS); **CHX MD −0.04 (NS)** — 세균에는 효과적이나 SARS-CoV-2에 CHX·CPC 불효, PVP-I만 유효 |
+| Mouthwash vs SARS-CoV-2 salivary viral load (RCT #1) | [[infection-control/elzein-2021-chlorhexidine-povidone-iodine-mouthwash-salivary-sars-cov-2-rct]] | rct (n=61, 평행군, 이중맹검) | CHX 0.2%·PVP-I 1% 각각 개별 RCT에서 CT값 증가(바이러스부하 감소) 관찰; 단 Ebrahimi 2023 풀링에서 CHX는 NS로 역전 — 개별 RCT 결과와 풀링 결과 불일치 |
+| Mouthwash vs SARS-CoV-2 salivary viral load (RCT #2) | [[infection-control/graves-2024-cetylpyridinium-chloride-salivary-viral-load]] | rct (dual, n=101+146) | CPC 30분 후 유의 바이러스부하 감소(Trial 2); 단 Ebrahimi 2023 풀링 CPC NS — 개별 RCT 유의 ≠ 메타분석 유의, 풀링 이질성 감안 |
+| Oral hygiene — critically ill / VAP prevention | [[infection-control/zhao-2020-oral-hygiene-care-critically-ill-vap-sr-ma]] | sr+ma Cochrane (40 RCT, 5675명) | CHX 구강세척제/젤이 VAP 예방 가능성 높음 (RR 0.67, 95% CI 0.55–0.82, moderate certainty); 칫솔질도 감소 가능(낮은 근거); **사망률 이점 없음** |
 
 ## Clinical Decision Points
 
@@ -139,6 +145,23 @@ Three new papers specifically characterize the three-way (air+water) syringe:
 - [ ] Manage operatory air: target adequate ventilation (~10 ACH; ~30 min small-aerosol clearance) or add HEPA filtration; apply fallow time by clearance reasoning.
 - [ ] PPE: eyewear + mask + face shield as baseline for AGPs; escalate to FFP3/N95 for airborne-route infections, per per-patient risk assessment.
 
+**Front 3b — 술전 구강세정제: 세균 vs 바이러스 증거 분리**
+
+세 제제 모두 *세균* 에어로졸 CFU를 효과적으로 줄이나 (CHX 78.9% / CPC 61.2% / EO 61.3%; Marui 2019 SR+MA, moderate evidence), *SARS-CoV-2*에 대한 효과는 제제별로 갈린다:
+
+| 제제 | 세균 에어로졸 | SARS-CoV-2 바이러스부하 | 근거 |
+|---|---|---|---|
+| 클로르헥시딘 (CHX) | ✓ 78.9%↓ | ✗ 불효 (MD −0.04, NS; Ebrahimi 2023 SR+MA) | 개별 RCT(Elzein 2021)는 양성이나 풀링 반전 |
+| 세틸피리디늄 클로라이드 (CPC) | ✓ 61.2%↓ | ✗ 불효 (MD 0.61, NS; Ebrahimi 2023) | 개별 RCT(Graves 2024) 30분 유의, 풀링 반전 |
+| 에센셜 오일 (EO) | ✓ 61.3%↓ | 근거 없음 | Marui 2019만 |
+| 포비돈-아이오딘 (PVP-I) 1% | 미평가 | ✓ 유효 (MD 3.61; Ebrahimi 2023) | SARS-CoV-2 전용 SR+MA |
+
+→ **일반 치과 감염관리 목적**(세균 에어로졸 감소)에는 CHX·CPC·EO 모두 적용 가능. **감염환자(특히 호흡기 바이러스) 시술 전**에는 PVP-I 1% 가글이 유일하게 SR+MA 수준 바이러스 근거 보유. 단, 모든 구강세정제는 바이러스를 단기(30분 이내) 불활성화할 뿐 수술 중 지속 보호는 아님.
+
+**Front 3c — 중환자실·인공호흡기 관련 폐렴(VAP) — 병원 구강위생 맥락**
+
+일반 치과 임상과 다른 축이지만 위키에 보유한 근거: Zhao 2020 Cochrane (40 RCT, 5675명) — CHX 구강세척제·젤이 VAP를 예방할 가능성 높음(RR 0.67, moderate certainty); 칫솔질도 감소 가능(낮은 근거); 사망률 이점 없음. 치위생사가 ICU 구강관리 자문 시 CHX 세정이 VAP 예방 근거(moderate)를 가지는 유일한 개입임을 인지할 것.
+
 ## Related Papers
 
 - [[infection-control/patino-marin-2025-sterilization-disinfection-dental-practices]] — sterilization/disinfection framework, BI verification, sterile storage
@@ -154,6 +177,12 @@ Three new papers specifically characterize the three-way (air+water) syringe:
 - [[infection-control/dudding-2022-clinical-observational-analysis-aerosol-emissions]] — air/water syringe aerosol fingerprinting: DUWL-derived (not salivary), 75.3% of use time
 - [[dental-handpiece/allison-2024-bioaerosols-airborne-transmission-dental-clinic]] — bioaerosol physics, transmission, 3-tier control hierarchy + PPE
 - [[dental-handpiece/ghoneim-2024-aerosol-generating-procedures-control-mitigation]] — CDHA/ADHA AGP mitigation consensus (PPE, HVE, ventilation, mouthrinses)
+- [[infection-control/marui-2019-preprocedural-mouthrinse-aerosol-sr-ma]] — SR+MA: CHX/CPC/EO 모두 에어로졸 세균 CFU 64.8% 감소 (moderate evidence); 수치 근거는 이 페이지
+- [[infection-control/kumbargere-nagraj-2020-interventions-reduce-contaminated-aerosols-dental-procedures-preventing-infectious-diseases-sr-ma]] — Cochrane SR: 에어로졸 감소 중재 전체 매우낮은 근거; 질병 전파 직접 증거 없음
+- [[infection-control/ebrahimi-2023-mouthwash-sars-cov2-viral-load-sr-ma]] — SR+MA: PVP-I 유효, CHX·CPC 불효 (SARS-CoV-2 바이러스부하)
+- [[infection-control/elzein-2021-chlorhexidine-povidone-iodine-mouthwash-salivary-sars-cov-2-rct]] — RCT: CHX·PVP-I 개별 바이러스부하 감소; Ebrahimi 풀링과 CHX 결과 불일치
+- [[infection-control/graves-2024-cetylpyridinium-chloride-salivary-viral-load]] — dual RCT: CPC 30분 바이러스부하 감소(Trial 2); Ebrahimi 풀링 CPC NS로 역전
+- [[infection-control/zhao-2020-oral-hygiene-care-critically-ill-vap-sr-ma]] — Cochrane: CHX 구강세척제 VAP 예방 moderate certainty; 사망률 이점 없음
 - [[overviews/dental-handpiece-bur-selection-overview]] — handpiece/bur selection overview covering air-turbine aerosol dominance and HVE mitigation
 
 ## Bottom Line (한 줄 결론)
