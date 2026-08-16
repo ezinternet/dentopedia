@@ -1,8 +1,8 @@
 ---
 title: "Crown Preparation Geometry — Convergence, Resistance Form, Retention: 2025 Synthesis"
-authors: synthesis page (compiled by Claude from 15 wiki entries; core 9 ingested 2026-05-21, +6 prep-principles/marginal-fit/digital-prep added 2026-06)
+authors: synthesis page (compiled by Claude from 18 wiki entries; core 9 ingested 2026-05-21, +6 prep-principles/marginal-fit/digital-prep added 2026-06, +3 added 2026-08-16)
 year: 2026
-date: 2026-05-21
+date: 2026-08-16
 category: overviews
 evidence_level: synthesis
 source_collection: internal
@@ -25,6 +25,9 @@ source: synthesis
 > - **과학적 원칙 anchor**(Goodacre 2001): 완전피개 prep의 고전 9원칙 — TOC 10–20°, 대구치 교합-치경 높이 ≥4 mm(기타치 3 mm), 교합-치경:협-설 비율 ≥0.4, line angle 보존, 기본 기하 부족 시에만 보조 groove/box. 6° taper는 교육용 이상치이고 임상 band는 10–20°라는 점에서 Tiu SR과 정확히 일치.
 > - **변연적합 + 디지털 scannability라는 새 축**(2026-06 추가): Contrepois 2013 SR(54편)은 세라믹 크라운 변연 간극의 94.9%가 임상 허용 범위이며 finish line 형태·cement space·veneering·합착 4요인이 fit을 좌우한다고 정리 — Goodacre의 "finish line 형태는 fit에 무영향" 결론을 세라믹/CAD-CAM 시대 기준으로 refine. Finish line 형태는 단순히 fit만이 아니라 IOS 스캔 정확도까지 좌우한다.
 > - **디지털 시대 재구성**(핵심 발견): retention을 돕는 바로 그 기하 선택(단순 형태·큰 TOC·chamfer·치은연상 finish line)이 IOS 스캔 정확도도 높인다(Revilla-León 2025 SR, 39편). 즉 retention 최적화와 digital scannability 최적화가 같은 방향으로 정렬 — 단, 아주 낮은 TOC는 retention엔 좋지만 스캔엔 불리할 수 있어 임상 10–22° band가 양쪽 모두에 합리적 절충.
+> - **디지털 지르코니아 finish line 최적화**(Sengottaiyan 2025 SR, in vitro 27편): 변연 간극(Marginal Gap) 최소 = rounded-shoulder finish line; 내면 간극(Internal Gap) 최소 = chamfer; 테이퍼 증가+평면형 교합삭제 = 양쪽 모두 개선. 두 선택 모두 임상 허용 범위 내 — 변연 vs 내면 중 어느 쪽 우선인지로 finish line을 선택한다. Chamfer는 IOS 정확도(Revilla-León)·내면 간극(Sengottaiyan) 두 축 모두에서 방어적 선택.
+> - **변연 간극 우산연구 정량 확인**(Dudley & Farook 2025 Umbrella Review, 17 SRs, in vitro 301건): 평균 변연 간극 79.4 µm; 임상 허용 기준 **120 µm 재확인**; 크라운 종류·재료·CAD-CAM여부 전부 NS — 재료 선택은 변연적합 기준으로 할 필요 없음. 논문 간 reported gap 차이의 핵심 혼란변수는 측정기기(인상 레플리카(Impression Replica)가 현미경 대비 β=37.86 µm 과대평가).
+> - **지르코니아 시적 후 오염 세정**(Genc 2025 in vitro, n=105, 열순환 5,000회): sandblasting + Ivoclean 병용 최우수(SBS 9.3 MPa); IPA(Isopropyl Alcohol)는 오염 무처리 대조군(3.65 MPa)보다도 낮아(3.04 MPa) **임상 금기**; 퍼미스·물분사 = 무처리와 동등(비효과적).
 > - **가장 흔한 prep 오류 = 가장 치명적 오류**(Sadid-Zadeh 2020): 학생 형성치 223개 중 136개에서 finish line 품질 오류가 최빈 — 그런데 이 finish line이 곧 IOS 정확도를 가장 떨어뜨리는 변수(Revilla-León). 잘못하기 쉬운 항목이 곧 디지털 적합을 가장 망치는 항목. Han 2023의 software 자동평가(SAE)는 TOC·교합삭제를 완벽 재현성으로 측정해 인간 채점 불일치 문제를 해소.
 > - **갭**: core 9편 in-vitro/cross-sectional이라 5–10년 임상 생존율 RCT 부재, 한국 인구 TOC 데이터 부재, adhesive cement 시대의 TOC 재평가 부재, 3D 프린팅 retention 우위의 기전 미규명. 추가 디지털 prep 근거도 trueness/precision(µm) 위주라 임상 적합/생존 outcome과의 연결은 아직 미확립.
 
@@ -63,6 +66,9 @@ Clinical bottom line: avoid prophylactic auxiliary features when geometry is alr
 | revilla-leon-2025-tooth-preparation-factors-ios-accuracy-sr | sr | prep 요인 → IOS 정확도 39편 SR |
 | sadid-zadeh-2020-teeth-prepared-students-cadcam | cross-sectional | 학생 CAD/CAM prep 334개 루브릭 평가 |
 | han-2023-software-automated-tooth-preparation-evaluation | in-vitro | TOC·교합삭제 software 자동평가(SAE) 35개 |
+| sengottaiyan-2025-influence-tooth-preparation-design-margin | sr | 디지털 지르코니아 prep → 변연/내면 간극 SR (27편): rounded-shoulder = 변연↓, chamfer = 내면↓ |
+| dudley-2025-determinants-marginal-gap-crowns | umbrella-review | 변연 간극 결정요인 우산연구 (17 SRs, 301건): 크라운 종류·재료·제작법 NS; 측정기기 혼란변수; 79.4 µm mean; 120 µm 기준 재확인 |
+| genc-2025-cleaning-protocols-zirconia-bond-strength | in-vitro | 타액 오염 지르코니아 세정: sandblasting+Ivoclean 최우수(9.3 MPa); IPA 임상 금기(3.04 MPa) |
 
 ## Cluster 1 — 권장 TOC vs 임상 실제 TOC
 
@@ -160,6 +166,22 @@ Clinical bottom line: avoid prophylactic auxiliary features when geometry is alr
 - 핫애시드는 lab 또는 research setting에서만 고려. 한국 진료실 normal use case 아님.
 - Tribochemical silica coating + silane (CoJet) 대안은 본 논문에서 비교 안 됨 — 별도 검증 필요
 
+**Genc 2025 [확인 for in-vitro — 시적 후 오염 세정 프로토콜]** — J Adhes Dent 2025; n=105, 열순환 5,000회. 타액 오염된 단일체 지르코니아(Monolithic Zirconia)의 6가지 세정법 비교.
+
+| 세정법 | SBS (MPa) |
+|---|---|
+| Sandblasting + Ivoclean | **9.3** ← 최우수 |
+| Sandblasting 단독 | 8.59 |
+| Ivoclean 단독 | 7.21 |
+| Pumice | 4.82 |
+| Air-water spray | 4.15 |
+| 대조군 (무처리) | 3.65 |
+| IPA (Isopropyl Alcohol) | **3.04** ← 최열등 |
+
+**핵심 발견**: IPA는 오염 무처리 대조군보다도 낮아 **임상 금기**. Ivoclean 기전: 지르코니아 산화물 입자가 타액의 인산염 오염물질을 흡착. Sandblasting은 기계적 오염 제거; Ivoclean은 화학적 오염 제거 → 병용 시 상승효과.
+
+**임상 적용**: 시적(try-in) 후 타액 오염 → air-abrasion(50 µm Al₂O₃) + Ivoclean 세정 → MDP primer → 시멘테이션. IPA 닦기는 오히려 접착력을 해친다.
+
 ## Cluster 6 — 과학적 원칙 anchor (Goodacre 2001)
 
 **Goodacre 2001 [확인 for narrative-review — canonical guideline source]** — J Prosthet Dent 2001;85:363-376. ~250년 완전피개 prep 문헌(특히 최근 50년 과학적 데이터)을 9개 원칙으로 압축. 이 페이지 전체의 **과학적 원칙 anchor**로, 다른 클러스터의 정량 데이터가 검증하거나 도전하는 기준선이다.
@@ -184,12 +206,27 @@ Clinical bottom line: avoid prophylactic auxiliary features when geometry is alr
 
 prep 기하는 retention만이 아니라 **(a) 최종 변연 간극**과 **(b) 구강스캐너(IOS) 정확도** 두 가지를 동시에 좌우한다. 디지털 워크플로우가 표준이 되면서 이 축은 retention 논의만큼 임상적으로 중요해졌다.
 
-**(a) 세라믹 크라운 변연적합 — Contrepois 2013 [근거중간 — SR, 이질성으로 meta-analysis 불가]**
+**(a) 세라믹/지르코니아 크라운 변연적합 — Contrepois 2013 + Dudley 2025 + Sengottaiyan 2025**
+
+*Contrepois 2013 [근거중간 — SR, 이질성으로 meta-analysis 불가]*
 - 54편(469→54; in vitro 48 + in vivo 6, 세라믹 시스템 17종, 1994-2012) SR.
 - **측정 변연 간극의 94.9%가 임상 허용 범위** — 세라믹 시스템 일반은 임상적으로 충분한 fit 제공.
 - **이질성으로 시스템 간 순위 불가** — 시스템 선택은 변연적합이 아니라 심미·강도 기준으로.
 - 변연적합 좌우 4요인: **finish line 형태 · 설정 cement space(die-spacer) · veneering · 합착(cementation)**.
 - **Goodacre를 refine**: Goodacre의 "finish line 형태는 변연적합에 무영향" 결론을 세라믹/CAD-CAM 시대 기준으로 한정 — finish line 형태는 4요인 중 하나로 fit에 실제로 작용. cement space·합착은 디지털 워크플로우에서 술자가 직접 통제하는 레버. veneering은 coping margin을 왜곡할 수 있어 monolithic 설계가 이 경로를 회피.
+
+*Dudley & Farook 2025 [근거강 — 우산연구(Umbrella Review), 17 SRs, in vitro 301건, JBI 평가 평균 82.7%]*
+- **정량 확인**: 평균 변연 간극 79.4 ± 22.8 µm (범위 34.5–125.5 µm); 임상 허용 기준 **120 µm 재확인**.
+- **크라운 종류 NS** (F=0.37, P=.775) · **재료 NS** (F=0.48, P=.784) · **conventional vs CAD-CAM NS** (88.0 vs 80.3 µm, F=1.00, P=.319).
+- **핵심 발견 — 측정기기가 혼란변수**: 인상 레플리카(Impression Replica) 측정이 현미경 대비 β=37.86 µm 과대평가(P<.001) — 논문 간 reported gap 차이는 재료/기법이 아닌 측정 방법론 때문.
+- **임상 함의**: 재료 선택은 변연적합 기준으로 할 필요 없음; 인상 레플리카 측정값은 체계적으로 높게 나옴에 유의.
+
+*Sengottaiyan 2025 [근거중간 — SR, PRISMA/PROSPERO, in vitro 27편, 디지털 지르코니아 특화]*
+- **변연 간극(Marginal Gap) 최소화**: rounded-shoulder finish line 유리.
+- **내면 간극(Internal Gap) 최소화**: chamfer finish line 유리.
+- **테이퍼 증가 + 평면형 교합삭제**: 변연·내면 양쪽 모두 개선.
+- 모든 값이 임상 허용 범위 내(변연 60–120 µm; 내면 50–100 µm) → finish line 선택은 pass/fail이 아닌 **변연 vs 내면 우선순위 내 최적화**.
+- Taper↑ CAD/CAM 밀링 버 기하에 적합한 선택임을 확인.
 
 **(b) prep 기하 → IOS 정확도 — Revilla-León 2025 [근거중간 — SR, meta-analysis 불가]**
 - 39편 SR(주로 in vitro; JBI 평가). prep 변수를 5개 group으로 분류: 기하·기존 코어 수복물·표면 마감·finish line 위치/형태·인접 간격.
@@ -201,6 +238,8 @@ prep 기하는 retention만이 아니라 **(a) 최종 변연 간극**과 **(b) �
 2. **단 하나의 긴장 — 매우 낮은 TOC.** retention만 보면 낮은 TOC가 유리하지만 IOS는 큰 TOC를 선호 → 클러스터 1의 임상 band 10-22°가 retention(낮을수록↑)과 scannability(클수록↑) 양쪽에 합리적 절충점이라는 추가 근거. 이상치 6°를 강요하면 scannability를 해칠 수 있다.
 3. **가장 흔히 틀리는 항목이 곧 디지털 적합을 가장 망친다 (Sadid-Zadeh 2020).** 학생 형성치 223개 중 136개에서 finish line 품질 오류가 최빈 — 그런데 finish line(위치·형태)은 Revilla-León이 IOS 정확도 주동인으로 지목한 바로 그 변수. 즉 교육·임상에서 calibration 우선순위 1번은 finish line. (cross-sectional rubric, n=334 typodont preps)
 4. **인간 채점 불일치 → software 자동평가로 해소 (Han 2023).** computational geometric algorithm(SAE)이 TOC(MD/BL)·교합삭제·margin width를 완벽한 intra-rater 재현성으로 측정(인간 DAE는 moderate~good). SAE 측정 평균 TOC 26.44°(MD)/18.60°(BL)는 다시 클러스터 1의 over-tapered 임상 현실(대학원생조차 MD 26°)을 정량 확인. (in-vitro, 35 하악 제1대구치)
+5. **재료·제작법 선택은 변연적합 기준으로 불필요 (Dudley 2025 우산연구).** 우산연구 수준에서 크라운 종류·재료·CAD-CAM여부 전부 변연적합 NS 확인 — 재료 선택의 실질 결정 변수는 강도·심미·워크플로우다. 논문 간 reported gap 차이는 재료/기법이 아닌 측정기기(인상 레플리카 β=37.86 µm 과대평가) 때문이므로 방법론 균질성 없는 문헌 비교는 무의미.
+6. **finish line 선택은 변연 vs 내면 우선순위로 달라진다 (Sengottaiyan 2025).** rounded-shoulder → 변연 간극 최소; chamfer → 내면 간극 최소. 단 두 선택 모두 임상 허용 범위 내 — chamfer는 IOS 정확도(Revilla-León)·내면 간극(Sengottaiyan) 두 축 모두에서 방어적 선택이고, 치은연상+chamfer 조합이 retention·scannability·internal fit을 동시에 만족하는 최적 패키지.
 
 ## Decision threads for our clinic [미검증]
 
@@ -224,6 +263,9 @@ prep 기하는 retention만이 아니라 **(a) 최종 변연 간극**과 **(b) �
 
 5. **지르코니아 크라운 cementation**
    - **Baseline**: air-abrasion (50 μm 알루미나, 0.2 MPa) + MDP-containing primer + Panavia SA Cement (또는 동등 MDP 함유 cement)
+   - **시적(try-in) 후 오염 시**: air-abrasion + Ivoclean 병용 → MDP primer → 시멘테이션 (Genc 2025: SBS 9.3 MPa 최우수)
+   - **금기**: IPA(Isopropyl Alcohol) 닦기 — 오염 무처리보다도 접착력 낮음(3.04 vs 3.65 MPa)
+   - **비효과적**: pumice, air-water spray — 무처리와 동등
    - **회피**: 핫애시드(HF + HNO₃) — 안전상 일반 진료실에서 사용 불가
    - **대안 (검증 필요)**: tribochemical silica coating + silane (CoJet) [본 9편에서 비교 안 됨]
 
@@ -247,6 +289,9 @@ prep 기하는 retention만이 아니라 **(a) 최종 변연 간극**과 **(b) �
 
 ### 신규 추가 (2026-06)
 
+- [[prosthetic-materials/tooth-preparation/dudley-2025-determinants-marginal-gap-crowns]] — 클러스터 7(a) 우산연구: 크라운 종류·재료·제작법 NS; 측정기기 혼란변수; 79.4 µm mean; 120 µm 기준 재확인
+- [[dental-materials/zirconia/genc-2025-cleaning-protocols-zirconia-bond-strength]] — 클러스터 5 지르코니아 시적 후 세정: sandblasting+Ivoclean 최우수; IPA 임상 금기
+- [[prosthetic-materials/tooth-preparation/gehrke-2019-influence-margin-location-luting]] — CAD/CAM 임플란트 어버트먼트 변연 깊이 × 잔류 시멘트 in-vitro (1.5 mm 초과 시 설측 위험)
 - [[prosthetic-materials/tooth-preparation/sadid-zadeh-2021-assessment-tooth-preparations-submitted-dental]] — Cross-sectional STL audit (n=392 posterior preparations from 3 labs) found most monolithic zirconia preparations exceeded 20° TOC and >50% had undercu … (cross-sectional, 2021)
 - [[prosthetic-materials/tooth-preparation/sengottaiyan-2025-influence-tooth-preparation-design-margin]] — Systematic review of 27 in vitro studies: rounded-shoulder finish line favored marginal fit, chamfer favored internal adaptation … (sr, 2025)
 - [[prosthetic-materials/tooth-preparation/goodacre-2001-tooth-preparations-complete-crowns-art-form]] — 클러스터 6 과학적 9원칙 canonical anchor (TOC 10-20°, ratio ≥0.4, 보조형 조건)
