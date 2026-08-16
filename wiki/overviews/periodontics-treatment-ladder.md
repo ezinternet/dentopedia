@@ -299,6 +299,11 @@ SRP 강한 권고; 전신 독시사이클린 추가 PPD 이득 0.2–0.4 mm(소)
 
 ## Related Papers
 
+### 신규 추가 (2026-08-16)
+
+- [[periodontics/herrera-2025-consensus-report-periodontal-diagnosis]] — EFP 20th Workshop consensus (70 experts, 21 countries, 8 commissioned SRs): manual 6-point probing reaffirmed as reference standard (±1–2 mm); CBCT not indicated for routine periodontal diagnosis (selective for intra-bony defects/furcation); microbial/genetic biomarkers exploratory without validated thresholds; AI performs at expert level on images but remains Class I/II diagnostic aid with no independent peer-reviewed validation. Key message: nothing displaces the probe — adopt new technology as adjunct, not replacement. (consensus, 2025; Kenvue-funded)
+- [[periodontics/oral-hygiene-instruction/choi-2013-dental-plaque-control-ohi-domestic-literature-sr]] — Korean domestic SR (16 studies, 1993–2012): repeated OHI with disclosing agents significantly reduced plaque indices across all age groups; 4 sessions achieved up to 74% PHP index improvement (p<0.001); combining professional mechanical plaque removal + OHI superior to either alone; scores partially regressed after cessation — supports repeat-session OHI with reinforcement. (sr, 2013; precursor to Choi-2017)
+
 ### 신규 추가 (2026-08-09)
 
 - [[periodontics/oral-hygiene-instruction/cho-2018-professional-mechanical-tooth-cleaning-preventive-maintenance-interval]] — Korean prospective study (n=33): 4주 PMTC로 치면세균막·치은지수 개선되나 3개월째 유의 악화, 6개월째 부분 회복만 — 자가관리 미확립 환자에서 1개월 SPT 주기의 실증 근거 (prospective, 2018) — 축 5 SPT에 통합.
