@@ -35,6 +35,8 @@ relations:
   - type: reinforces
     target: hayashi-2014-low-level-laser-periodontal-hypofunctional-teeth
     note: "Rat model: occlusal hypofunction thins PDL and reduces alveolar bone BMD — mechanistic support for the 'PDL/alveolar-bone–driven' thesis in Q2."
+  - type: applies-to
+    target: greenstein-2018-need-replace-missing-second-molar
 ---
 
 ## 한국어 핵심요약
@@ -138,6 +140,7 @@ The practical implication: there is **no strong, low-cost mechanical fix** that 
 - [[occlusion/livas-2016-fixed-retention-unopposed-molar-overeruption]] — Livas 2016, panoramic retrospective (n=65 Class II): fixed sectional retention no better than partial contact (~0.1 mm); consolidates overeruption epidemiology (4.9× ≥2 mm risk/12 y; 18% non-eruptors; maxilla > mandible; fastest early).
 - [[occlusion/craddock-2006-deviation-broadrick-occlusal-curve-posterior]] — Craddock 2006, retrospective (JOR): after posterior tooth loss the occlusal plane deviates from the ideal Broadrick curve through overeruption/tipping/drift — rehabilitation must account for the deranged curve.
 - [[occlusion/faggion-2011-evidence-restore-posterior-bounded-edentulous-grade]] — Faggion 2011, GRADE systematic review (J Dent): occlusal change after a posterior bounded edentulous space is limited (avg ≤2 mm) and the evidence is **VERY LOW** quality — tooth replacement is not automatically the mainstay of therapy (the evidence backbone for "risk-stratify, don't reflex-restore").
+- [[occlusion/greenstein-2018-need-replace-missing-second-molar]] — Greenstein et al. 2018, narrative review (Compend CE, PMID 30421938): explicitly answers the replacement question — first-molar occlusion alone provides ~90% masticatory efficiency; ~20% of unopposed teeth extrude ≥2 mm but over-eruption degree is NOT strongly related to occlusal interference; **patient preference is the primary decision driver**, not anatomic tooth loss alone. Monitoring is the default when the patient perceives no deficit.
 
 ## Related Overviews
 
@@ -145,6 +148,6 @@ The practical implication: there is **no strong, low-cost mechanical fix** that 
 
 ## Evidence gaps / next ingests
 
-- **Now held** (12 pages): Craddock & Youngson 2004 (83% figure), Kiliaridis 2000 (18% non-eruptors), Christou 2007 (3D), Lindskog-Stokland 2012 (4.9× risk, bone support), Craddock 2006/2007 (Broadrick curve; partial contact), Faggion 2011 (GRADE review), Fujita 2009/2010 rat (age; periodontitis), Hayashi 2014 rat (PDL/BMD hypofunction model — mechanistic Q2 support).
-- **Still missing:** Greenstein 2018 ("replace the second molar?" decision review); Denese 2020 rat (age effect, to corroborate Fujita 2009). PDFs would round out the cluster.
+- **Now held** (13 pages): Craddock & Youngson 2004 (83% figure), Kiliaridis 2000 (18% non-eruptors), Christou 2007 (3D), Lindskog-Stokland 2012 (4.9× risk, bone support), Craddock 2006/2007 (Broadrick curve; partial contact), Faggion 2011 (GRADE review), Fujita 2009/2010 rat (age; periodontitis), Hayashi 2014 rat (PDL/BMD hypofunction model — mechanistic Q2 support), **Greenstein 2018 (second-molar replacement decision; ~90% efficiency with first-molar occlusion)**.
+- **Still missing:** Denese 2020 rat (age effect, to corroborate Fujita 2009). PDF would round out the cluster.
 - **No paper** directly comparing endo-treated vs vital tooth overeruption (the originating clinical question) — would be the single highest-value addition.
