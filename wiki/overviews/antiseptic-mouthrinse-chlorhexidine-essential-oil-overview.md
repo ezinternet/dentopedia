@@ -56,7 +56,7 @@ Chemical plaque control with antiseptic mouthrinses is one of the most common ad
 
 ### Axis 1 — Comparative efficacy for gingivitis
 
-Figuero 2019's NMA (53 RCTs, n=8,457; 6-month home-use studies) ranks essential oils highest for gingival index reduction, with CHX ≥0.10% and triclosan-copolymer statistically indistinguishable and CPC >0.05% also effective. The clinically important message is that **EO matches CHX efficacy for gingivitis** while avoiding CHX's staining — making EO a reasonable long-term alternative.
+Figuero 2019's NMA (53 RCTs, n=8,457; 6-month home-use studies) ranks essential oils highest for gingival index reduction, with CHX ≥0.10% and triclosan-copolymer statistically indistinguishable and CPC >0.05% also effective. The clinically important message is that **EO matches CHX efficacy for gingivitis** while avoiding CHX's staining — making EO a reasonable long-term alternative. Windhorst 2025 (SR+MA, 14 RCTs, 18 comparisons) adds a direct CPC vs CHX head-to-head: in brushing studies, CPC-MW and CHX-MW are statistically equivalent for plaque (WMD=0.04, p=0.11) and gingival index (WMD=0.02, p=0.20); in non-brushing studies, CHX retains a small but significant plaque advantage over CPC (WMD=0.55, p=0.003). Practical implication: **CPC is a stain-free viable substitute for CHX in brushing patients; CHX remains superior when brushing is impractical**.
 
 ### Axis 2 — Plaque suppression: CHX is the strongest
 
@@ -68,7 +68,7 @@ Three lines of evidence converge on a nuanced position. Figuero sets an efficacy
 
 ### Axis 4 — Side effects: CHX's defining constraint
 
-CHX's Achilles heel is its side-effect profile: **tooth staining (SMD +1.07**, consistent beyond 4 weeks), taste disturbance, mucosal irritation/desquamation, and burning sensation (James 2017). This is precisely why CHX is **not** a long-term agent. Solderer 2019 shows that **antidiscoloration systems (ADS)** (ascorbic acid, sodium bisulfate) added to 0.12% CHX reduce staining while preserving efficacy — the best benefit-to-harm ratio.
+CHX's Achilles heel is its side-effect profile: **tooth staining (SMD +1.07**, consistent beyond 4 weeks), taste disturbance, mucosal irritation/desquamation, and burning sensation (James 2017). This is precisely why CHX is **not** a long-term agent. Solderer 2019 shows that **antidiscoloration systems (ADS)** (ascorbic acid, sodium bisulfate) added to 0.12% CHX reduce staining while preserving efficacy — the best benefit-to-harm ratio. Van Swaaij 2019 (SR+MA, 13 RCTs, 16 comparisons) isolates the ADS effect directly: CHX-MW+ADS vs CHX-MW — ADS significantly reduced staining in non-brushing studies (SMD=−3.19, p=0.0005, 95% CI −3.98 to −1.41) with no significant difference in plaque (DiffM=0.10, p=0.45) or gingival index (DiffM=0.04, p=0.15). **ADS preserves CHX plaque/gingival efficacy while substantially cutting its most visible side effect.**
 
 ### Axis 5 — Microbiome effects: EO is gentler, and may "reset"
 
@@ -80,6 +80,7 @@ The microbiology axis separates the two agents further. Plummer 2022 (OMEGA subs
 - **NSPT adjunct** (Basudan 2023): 0.12% CHX reduces periodontal inflammation in non-smokers; **smoking abolishes the benefit** (no periodontal or antifungal effect). Herbal *Salvadora persica* (miswak) equals CHX for anti-inflammation but CHX is superior for *Candida* suppression.
 - **Non-compliant SPC** (Escribano 2010): low-concentration CHX controls plaque and pathogens when mechanical hygiene alone is insufficient.
 - **Home gingivitis control** (Figuero/James): EO or CHX; EO favored for long-term because of staining.
+- **Local antimicrobial delivery post-SRP** (Annisa 2023, SR+MA, 9 studies; 8 RCTs low bias): CHX chip (subgingival local delivery) reduces gingival index at 3 months vs other local antimicrobials (MD=−0.11, p=0.02), but is less effective for probing depth reduction at 1 and 3 months (MD=0.50–0.58mm in favor of others, p≤0.001); tetracycline/metronidazole/minocycline fibers/gels outperform CHX chip for pocket reduction. → **Choose local antimicrobial by primary endpoint: CHX chip for gingival inflammation, tetracycline/minocycline for pocket reduction.**
 
 ### The shared limitation — no structural gain
 
@@ -110,3 +111,6 @@ Every rinse in this synthesis controls plaque and inflammation but **does not im
 - [[periodontics/oral-hygiene-instruction/basudan-2023-chlorhexidine-salvadora-mouthwash-periodontal]] — RCT: 0.12% CHX = miswak for inflammation, CHX superior for Candida, smoking blunts benefit
 - [[oral-microbiology/min-2024-essential-oil-mouthrinses-plaque-microbiome]] — RCT (spike-in metagenomics): EO resets dysbiotic plaque, ≥37% gingivitis reduction (industry-funded)
 - [[oral-microbiology/plummer-2022-listerine-mouthwash-oropharyngeal-microbiota]] — RCT: 12-week Listerine Zero microbiota-neutral (vs CHX's known disruption)
+- [[periodontics/oral-hygiene-instruction/windhorst-2025-cpc-chx-plaque-gingivitis-sr-ma]] — SR+MA (14 RCTs): CPC = CHX for plaque/gingivitis in brushing (WMD 0.04, NS); CHX retains small advantage in non-brushing (WMD 0.55, p=0.003); CPC is the stain-free substitute for brushing patients
+- [[periodontics/oral-hygiene-instruction/van-swaaij-2019-chx-ads-discoloration-sr-ma]] — SR+MA (13 RCTs): CHX+ADS cuts staining by SMD −3.19 without sacrificing plaque or gingival efficacy; confirms ADS optimizes CHX benefit-to-harm
+- [[periodontics/non-surgical-instrumentation/annisa-2023-chx-gel-chip-srp-sr-ma]] — SR+MA (9 studies): CHX chip superior for gingival index post-SRP (MD −0.11); tetracycline/metronidazole/minocycline superior for pocket depth reduction; choose by primary endpoint
