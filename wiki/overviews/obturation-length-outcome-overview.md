@@ -27,6 +27,7 @@ source: synthesis
 > - Ng 2007 Part 2(SR+MA, 63편): 예후를 유의하게 높이는 4조건 — ①술전 근단투과상 없음 ②void 없는 충전 ③**RA 2mm 이내까지 충전** ④양호한 치관수복.
 > - Ricucci 2011(5년, 1,369근관): 전체 성공 88.6%/90.3%; **과충전(excess)은 성공률↓, optimal WL 확인됨**. 질환 중증도(괴사+AP 82.7%, 병소 ≥5mm 78.2%)가 예후를 지배.
 > - Sjogren 1990(8~10년): 전장 기구조작 가능 여부 + root filling level이 유의하게 작용; 술전 상태가 최상위 인자(병소 없음 96%+ vs 괴사+병소 86%).
+> - [확인] **충전 기법(Obturation Technique)은 장기 결과를 좌우하지 않는다** (Mushtaq 2026, SR+MA 84편·11,965표본): CLC·WVC·SC·CB 기법 간 성공률은 단기(≤12개월) 동등, 24개월 시점에서만 냉측방가압 (Cold Lateral Compaction, CLC)·캐리어기반 (Carrier-Based, CB)이 단일콘 (Single Cone, SC) 대비 소폭 우수(β +5.0~+7.5%), 3년 이후 수렴. 바이오세라믹 실러+단일콘도 종래 술식 대비 장기 이점 없음 → **기법 선택은 술자 숙련도와 케이스 해부에 따를 것**.
 > - [미검증] 겉보기 상충(Schaeffer "short가 낫다" vs Chugal "AP는 붙여라")은 진단으로 통합됨 — 통일 변수는 "**감염의 근단 확장 지점까지 도달·소독한 뒤 그 종지점까지 extrusion 없이 충전**"이지 절대 mm값이 아님.
 > - [미검증] 치관수복 인자는 Ng(유의)와 Ricucci(무영향)가 엇갈림 — Ricucci는 단일 숙련술자·양호한 coronal seal이 baseline이라 효과가 가려졌을 가능성.
 
@@ -76,9 +77,14 @@ This overview answers a single clinical question: **at what apical level should 
 - The coronal-restoration discrepancy (Ng: significant; Ricucci: no effect) remains unresolved and is confounded by operator skill and coronal-seal baseline.
 - No study isolates apical extent from apical enlargement/taper, so "reaching the terminus" and "adequately cleaning it" are entangled.
 
+## Adjacent Evidence — Obturation Technique
+
+The five landmark studies above address *where* to obturate (apical extent). A complementary question is *how* — cold lateral condensation (CLC), warm vertical compaction (WVC), single-cone (SC), or carrier-based (CB). [[endodontics/obturation/mushtaq-2026-obturation-techniques-endodontic-outcomes-srma]] (84 studies, 11,965 samples; Mushtaq 2026) is the largest synthesis to date: significant technique differences exist only at 24 months (CLC vs SC β=+5.0%, p=0.021; CB vs SC β=+7.5%, p=0.011) and disappear beyond 3 years. Bioceramic sealer + single-cone shows no clear long-term advantage over conventional sealers/techniques (GRADE low to very low). The combined message from length + technique evidence: **obtain the correct apical terminus first (diagnosis-dependent, dense fill, no extrusion), then choose technique by operator skill and case anatomy** — technique brand does not override obturation-length correctness.
+
 ## Related Papers
 
 - [[overviews/eal-working-length-protocol]] — determines *where* the terminus is (AC vs AF); this overview determines *why that terminus matters* for outcome. Directly complementary.
 - [[overviews/single-vs-multivisit-endodontic-outcomes-overview]] — visit number is outcome-neutral; disinfection adequacy (which apical extent enables) is the real driver — reinforces the "clean the apical portion" thesis.
 - [[endodontics/irrigation/llena-2020-outcome-root-canal-treatments-provided]] — coronal restoration quality + preoperative status drive healing; empirical anchor for the Ng/Ricucci coronal discrepancy.
 - [[endodontics/irrigation/artaza-2024-outcome-nonsurgical-root-canal-treatment]] — large AP lesions worsen outcome; parallels Ricucci's lesion-size gradient (<5 vs ≥5 mm).
+- [[endodontics/obturation/mushtaq-2026-obturation-techniques-endodontic-outcomes-srma]] — technique equivalence beyond 3 yr (CLC/CB briefly ahead at 24 mo only); bioceramic SC no long-term benefit over conventional — get the length right, then choose technique by skill and anatomy.
