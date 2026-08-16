@@ -2,7 +2,7 @@
 title: "대합치 없는 치아의 정출(과맹출) — 역학·기전·임상결정 종합"
 authors: Synthesis (Damian Lee)
 year: 2026
-date: 2026-06-25
+date: 2026-08-16
 doi: N/A
 source: N/A
 category: overviews
@@ -32,6 +32,9 @@ relations:
     target: fujita-2009-supraposition-unopposed-molars-young-adult-rats
   - type: extends
     target: fujita-2010-overeruption-periodontally-affected-unopposed-rats
+  - type: reinforces
+    target: hayashi-2014-low-level-laser-periodontal-hypofunctional-teeth
+    note: "Rat model: occlusal hypofunction thins PDL and reduces alveolar bone BMD — mechanistic support for the 'PDL/alveolar-bone–driven' thesis in Q2."
 ---
 
 ## 한국어 핵심요약
@@ -48,11 +51,12 @@ relations:
 > - 크라운은 정박장치가 아니다: 크라운을 씌워도 **크라운+치근 전체가 한 덩어리로** 올라온다 — 보철 수복 자체가 정출을 막아주지 않으며, 대합 공간이 빈 채로 두면 계속 움직임.
 > - 임상 결정 ladder: ①저위험치(고령·하악·부분접촉 잔존)는 **모니터링**이 방어 가능한 기본값 ②고위험치(젊음·상악·완전무대합·치주염·발치 직후)는 적시 보철/공간관리 ③임플란트 치료기간(9–12개월) 중에도 대합치는 계속 움직이니 보철 계획에 공간관리 포함 ④"85% 치과의사가 정출 필연이라 믿지만"(Livas 설문) 데이터는 더 부드럽다 — 반사적 대합악 보철 강요 근거 약함.
 > - 흔한 오판: "엔도한 치아라 더/덜 정출한다"(근거 없음·기전상 무관), "크라운 씌우면 정출 안 한다"(전체 치아가 이동), "대합치 없으면 무조건 빨리 보철"(저위험치는 과한 개입), "정출은 수직만"(경사·회전 동반).
+> - PDL 기전 직접 확인: 랫드에서 교합자극 제거 2주만에 치주인대(PDL) 두께·치조골 골밀도(BMD) 유의 감소 → 저출력 레이저(LLL)로 회복(Hayashi 2014). 이는 "정출은 PDL·치조골 주도" 명제를 동물 레벨에서 직접 뒷받침하고, 엔도 여부와 무관한 이유를 기전으로 설명함.
 > - 본 페이지는 [[occlusion/wang-2022-unopposed-molar-overeruption-implant-cbct]](정출이 일어난다)와 [[occlusion/livas-2016-fixed-retention-unopposed-molar-overeruption]](막으려는 개입은 효과 약함) 2편을 축으로, 임플란트 교합 종합([[overviews/implant-occlusion-loading-biomechanics-overview]])과 상보적인 "자연치 측" 렌즈다.
 
 ## Three-line Summary
 
-Synthesis of 11 papers: unopposed posterior teeth over-erupt in ~83% of cases (mean 0.43 mm / max 0.75 mm over ~9 months, ~72% < 1 mm, fastest early, as a 3D vertical + buccal-tipping + rotation movement; ~18% never move); the process is PDL/alveolar-bone–driven and therefore independent of pulp vitality, with no evidence that endo-treated teeth erupt differently from vital teeth.
+Synthesis of 12 papers: unopposed posterior teeth over-erupt in ~83% of cases (mean 0.43 mm / max 0.75 mm over ~9 months, ~72% < 1 mm, fastest early, as a 3D vertical + buccal-tipping + rotation movement; ~18% never move); the process is PDL/alveolar-bone–driven and therefore independent of pulp vitality, with no evidence that endo-treated teeth erupt differently from vital teeth.
 
 Fixed retention is no better than partial occlusal contact at preventing over-eruption (both ~0.1 mm; Livas 2016), so monitoring is a defensible default for low-risk teeth; risk is amplified 4.9× for ≥2 mm eruption over 12 years by younger age, maxillary location, full absence of antagonist, periodontitis, and the early post-extraction window.
 
@@ -60,7 +64,7 @@ Clinical ladder: risk-stratify before reflexive restoration; include space manag
 
 ## 세줄요약
 
-11편 종합: 대합치 없는 후방 치아의 ~83%가 정출(~9개월 평균 0.43 mm / 최대 0.75 mm, ~72%는 1 mm 미만, 초기 최대 속도, 수직+협측경사+회전의 3D 운동); ~18%는 전혀 안 움직임; 정출은 PDL·치조골 매개라 치수 생활력 무관 — 엔도치 vs 생활치 차이 근거 없음.
+12편 종합: 대합치 없는 후방 치아의 ~83%가 정출(~9개월 평균 0.43 mm / 최대 0.75 mm, ~72%는 1 mm 미만, 초기 최대 속도, 수직+협측경사+회전의 3D 운동); ~18%는 전혀 안 움직임; 정출은 PDL·치조골 매개라 치수 생활력 무관 — 엔도치 vs 생활치 차이 근거 없음.
 
 고정 retention도 부분접촉 대비 효과 없어(둘 다 ~0.1 mm; Livas 2016) 저위험치는 모니터링이 방어 가능한 기본값; 젊은 나이·상악·완전무대합·치주염·발치 직후가 12년 ≥2 mm 위험을 4.9배 높이는 고위험 프로파일.
 
@@ -128,6 +132,7 @@ The practical implication: there is **no strong, low-cost mechanical fix** that 
 - [[occlusion/craddock-2007-overeruption-posterior-teeth-partial-occlusal]] — Craddock 2007, retrospective (n=91): partial occlusal contact does **not** prevent overeruption (no difference vs fully unopposed); partially-opposed teeth tip more — counters "partial contact protects."
 - [[occlusion/fujita-2009-supraposition-unopposed-molars-young-adult-rats]] — Fujita 2009, rat micro-CT: supraposition 262±135 µm (young) vs 125±108 µm (adult), P<0.01; alveolar bone follows the tooth only in the young — mechanistic basis for the **age effect**.
 - [[occlusion/fujita-2010-overeruption-periodontally-affected-unopposed-rats]] — Fujita 2010, adult-rat micro-CT: experimental periodontitis amplifies unopposed-molar overeruption — **periodontal status as a modifier**.
+- [[occlusion/hayashi-2014-low-level-laser-periodontal-hypofunctional-teeth]] — Hayashi 2014, rat in vivo (n=24, 4 groups): occlusal hypofunction (bite-raiser, 2 weeks) thinned PDL and reduced alveolar bone BMD vs controls; LLL irradiation restored both to control levels. **Mechanistic confirmation** that PDL structural integrity depends on occlusal loading — supporting why overeruption is PDL/bone-driven and independent of pulp status.
 
 **Clinical decision / evidence quality**
 - [[occlusion/livas-2016-fixed-retention-unopposed-molar-overeruption]] — Livas 2016, panoramic retrospective (n=65 Class II): fixed sectional retention no better than partial contact (~0.1 mm); consolidates overeruption epidemiology (4.9× ≥2 mm risk/12 y; 18% non-eruptors; maxilla > mandible; fastest early).
@@ -140,6 +145,6 @@ The practical implication: there is **no strong, low-cost mechanical fix** that 
 
 ## Evidence gaps / next ingests
 
-- **Now held** (ingested 2026-06-25): Craddock & Youngson 2004 (83% figure), Kiliaridis 2000 (18% non-eruptors), Christou 2007 (3D), Lindskog-Stokland 2012 (4.9× risk, bone support), Craddock 2006/2007 (Broadrick curve; partial contact), Faggion 2011 (GRADE review), Fujita 2009/2010 rat (age; periodontitis). This cluster is now 11 pages deep.
+- **Now held** (12 pages): Craddock & Youngson 2004 (83% figure), Kiliaridis 2000 (18% non-eruptors), Christou 2007 (3D), Lindskog-Stokland 2012 (4.9× risk, bone support), Craddock 2006/2007 (Broadrick curve; partial contact), Faggion 2011 (GRADE review), Fujita 2009/2010 rat (age; periodontitis), Hayashi 2014 rat (PDL/BMD hypofunction model — mechanistic Q2 support).
 - **Still missing:** Greenstein 2018 ("replace the second molar?" decision review); Denese 2020 rat (age effect, to corroborate Fujita 2009). PDFs would round out the cluster.
 - **No paper** directly comparing endo-treated vs vital tooth overeruption (the originating clinical question) — would be the single highest-value addition.
