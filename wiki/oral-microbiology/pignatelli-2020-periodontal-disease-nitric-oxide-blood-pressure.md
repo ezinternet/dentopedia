@@ -18,6 +18,9 @@ relations:
   - target: "ebrahimi-2023-mouthwash-sars-cov2-viral-load-sr-ma"
     type: extends
     note: "Ebrahimi covers CHX antiviral efficacy; Pignatelli adds the systemic cardiovascular trade-off dimension to the CHX mouthwash picture"
+  - target: "infection-control/elzein-2021-chlorhexidine-povidone-iodine-mouthwash-salivary-sars-cov-2-rct"
+    type: refines
+    note: "Elzein RCT shows CHX reduces salivary SARS-CoV-2 load; Pignatelli qualifies that recommendation with a cardiovascular cost — 2–3.5 mmHg BP rise via oral NO-pathway disruption — particularly relevant for hypertensive patients receiving preprocedural CHX"
 ---
 
 ## Three-line Summary
