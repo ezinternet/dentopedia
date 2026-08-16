@@ -150,3 +150,9 @@ Clinical takeaway: detect with vision + ICDAS + DIAGNOdent, not radiographs alon
 - [[caries/hajishafiee-2023-ssb-taxation-sugars-caries-umbrella]] — Umbrella review (14 SRs): 20% volumetric SSB tax → free sugars ↓4.0–4.4 g/day → 0.03 fewer carious teeth/adult and 2.7–2.9% ↓ caries occurrence in children over 10y (HIC+LMIC); adds population/fiscal policy dimension to축 3 remineralization upstream prevention (umbrella sr, 2023)
 
 **갱신 메모 (2026-06-07)**: 두 논문은 축 3(예방·재광화)을 강화한다. Urquhart 2019 NMA는 기존 한줄요약의 "SDF·sealant+fluoride" 우위 주장에 ADA NMA 근거를 직접 제공하고, Chestnutt 2017 RCT는 **전색 vs 불소바니시가 동등**임을 보여 "고위험·저협조·집단검진 맥락에선 불소바니시가 비용효과적 대안"이라는 임상 분기를 추가한다. [확인] 단 Chestnutt은 제1대구치 한정 — 개별 고위험 소와열구엔 전색이 여전히 1차.
+
+### 신규 추가 (2026-08-16)
+
+- [[caries/bittar-2026-qlf-niri-proximal-caries-iccms]] — SR+MA: QLF·NIRI를 ICCMS 교합면·인접면 탐지와 비교 — enamel 병소 AUC ~0.73, 상아질 병소 AUC 0.90–0.98; NIRI가 QLF보다 깊은 상아질 탐지 우위; 광학 보조 기구는 방사선 없이 인접면 초기 탐지 보완 가능. (sr+ma, 2026)
+- [[caries/schwendicke-2015-radiographic-caries-detection-sr-ma]] — SR+MA (117 studies): 방사선 우식 탐지 — 초기 병소 감도(Sensitivity) 낮음(Se ~0.24–0.42), 특이도(Specificity) 높음; 방사선은 표면 우식(enamel)을 상습적으로 과소 탐지하므로 임상 탐침·광학 보조와 결합 필수. 축 1 탐지 한계의 근거 앵커. (sr+ma, 2015)
+- [[caries/gupta-2020-fluoride-antibacterial-caries-sr-ma]] — SR+MA (16 RCTs): 불소+항균 병용 vs 불소 단독 — 새 우식 발생 SMD=−0.12 (p=0.004); 병용 시 유의한 우식 감소; 항균 단독은 불소 단독 대비 유의차 없음 → 재광화 프로토콜에서 CHX 등 항균을 불소에 병용하는 합리성 지지. (sr+ma, 2020)
