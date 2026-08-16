@@ -113,6 +113,9 @@ Peri-implant mucositis is the reversible precursor to peri-implantitis, making i
 
 ## Related Papers
 
+**Prevalence (2017 World Workshop criteria):**
+- [[implants/peri-implantitis/reis-2025-peri-implant-disease-prevalence-world-workshop-criteria]] — SR+MA (20 studies, 2017 WW criteria only): peri-implant mucositis (Peri-implant Mucositis, PIM) 36.1%, peri-implantitis (Peri-implantitis, PI) 19.5% at patient level; implant-level PI 12.5%; smoking, periodontal history, diabetes are consistent risk markers. Supersedes Derks 2015 (pre-WW criteria); use this as the current prevalence baseline. (sr+ma, 2025)
+
 **Risk-factor umbrella reviews:**
 - [[implants/peri-implantitis/giok-2024-risk-factors-peri-implantitis-umbrella]] — 41 meta-analyses; periodontitis OR 3.84, smoking RR 2.07 "highly suggestive"
 - [[implants/peri-implantitis/tarce-2025-peri-implantitis-risk-assessment-pira-part1]] — PiRA Part 1; 49 SRs, 10 patient-related factors; no multifactorial weighting
