@@ -37,6 +37,9 @@ relations:
     note: "Rat model: occlusal hypofunction thins PDL and reduces alveolar bone BMD — mechanistic support for the 'PDL/alveolar-bone–driven' thesis in Q2."
   - type: applies-to
     target: greenstein-2018-need-replace-missing-second-molar
+  - type: reinforces
+    target: denes-2020-monitoring-overeruption-pattern-young-adult
+    note: "Longitudinal rat micro-CT corroborating the age effect: young 172 µm/day, critical 3-week window post-extraction."
 ---
 
 ## 한국어 핵심요약
@@ -55,6 +58,7 @@ relations:
 > - **제2대구치 수복 결정 — Greenstein 2018**: 제1대구치 교합 (First-molar Occlusion)만으로 저작효율 (Masticatory Efficiency) **~90%** 달성; 대합치 없는 구치 **~20%만 ≥2 mm** 정출하며 정출량과 교합간섭 (Occlusal Interference) 발생은 **강한 상관 없음**. 결론: **수복 여부는 환자 선호 (Patient Preference)가 결정인자** — 불편감·심미 불만 없으면 임플란트 수복이 필수 아니며 모니터링이 기본값; 다만 미처리 정출은 차후 보철 계획을 복잡하게 할 수 있어 예방적 모니터링은 최소 기준.
 > - 흔한 오판: "엔도한 치아라 더/덜 정출한다"(근거 없음·기전상 무관), "크라운 씌우면 정출 안 한다"(전체 치아가 이동), "대합치 없으면 무조건 빨리 보철"(저위험치는 과한 개입), "정출은 수직만"(경사·회전 동반).
 > - PDL 기전 직접 확인: 랫드에서 교합자극 제거 2주만에 치주인대(PDL) 두께·치조골 골밀도(BMD) 유의 감소 → 저출력 레이저(LLL)로 회복(Hayashi 2014). 이는 "정출은 PDL·치조골 주도" 명제를 동물 레벨에서 직접 뒷받침하고, 엔도 여부와 무관한 이유를 기전으로 설명함.
+> - **연령 효과 종단 확인 — Denes 2020**: 흰쥐 56마리 12주 종단 micro-CT — 어린 쥐(4주령) 무대합 대구치 정출률 (Eruption Rate) **172 ± 67 µm/일**, 발치 후 **첫 3주**가 피크이고 이후 대조군 수준(12.9 µm/일)으로 수렴; 성체 과부하 대구치는 정출 없음; 어린 무대합군 임상치관고 (Clinical Crown Height)는 대조군의 **4.5배**. Fujita 2009 연령 효과를 종단 설계로 독립 재확인 — 임상 함의: **발치 직후 3주가 가장 위험한 창**, 청소년·성장기 환자는 특히 신속한 공간관리 필요.
 > - 본 페이지는 [[occlusion/wang-2022-unopposed-molar-overeruption-implant-cbct]](정출이 일어난다)와 [[occlusion/livas-2016-fixed-retention-unopposed-molar-overeruption]](막으려는 개입은 효과 약함) 2편을 축으로, 임플란트 교합 종합([[overviews/implant-occlusion-loading-biomechanics-overview]])과 상보적인 "자연치 측" 렌즈다.
 
 ## Three-line Summary
@@ -134,6 +138,7 @@ The practical implication: there is **no strong, low-cost mechanical fix** that 
 **What modulates it**
 - [[occlusion/craddock-2007-overeruption-posterior-teeth-partial-occlusal]] — Craddock 2007, retrospective (n=91): partial occlusal contact does **not** prevent overeruption (no difference vs fully unopposed); partially-opposed teeth tip more — counters "partial contact protects."
 - [[occlusion/fujita-2009-supraposition-unopposed-molars-young-adult-rats]] — Fujita 2009, rat micro-CT: supraposition 262±135 µm (young) vs 125±108 µm (adult), P<0.01; alveolar bone follows the tooth only in the young — mechanistic basis for the **age effect**.
+- [[occlusion/denes-2020-monitoring-overeruption-pattern-young-adult]] — Denes et al. 2020, longitudinal in-vivo micro-CT (56 Wistar rats, 12 weeks): young unopposed molars 172 ± 67 µm/day, **most marked in first 3 weeks post-extraction** then decelerate; adult overloaded molars did not erupt; clinical crown height 4.5-fold higher in young unopposed vs controls. Independent corroboration of the Fujita 2009 age effect with a longitudinal rate metric — the **3-week critical window** is the key clinical corollary.
 - [[occlusion/fujita-2010-overeruption-periodontally-affected-unopposed-rats]] — Fujita 2010, adult-rat micro-CT: experimental periodontitis amplifies unopposed-molar overeruption — **periodontal status as a modifier**.
 - [[occlusion/hayashi-2014-low-level-laser-periodontal-hypofunctional-teeth]] — Hayashi 2014, rat in vivo (n=24, 4 groups): occlusal hypofunction (bite-raiser, 2 weeks) thinned PDL and reduced alveolar bone BMD vs controls; LLL irradiation restored both to control levels. **Mechanistic confirmation** that PDL structural integrity depends on occlusal loading — supporting why overeruption is PDL/bone-driven and independent of pulp status.
 
@@ -149,6 +154,6 @@ The practical implication: there is **no strong, low-cost mechanical fix** that 
 
 ## Evidence gaps / next ingests
 
-- **Now held** (13 pages): Craddock & Youngson 2004 (83% figure), Kiliaridis 2000 (18% non-eruptors), Christou 2007 (3D), Lindskog-Stokland 2012 (4.9× risk, bone support), Craddock 2006/2007 (Broadrick curve; partial contact), Faggion 2011 (GRADE review), Fujita 2009/2010 rat (age; periodontitis), Hayashi 2014 rat (PDL/BMD hypofunction model — mechanistic Q2 support), **Greenstein 2018 (second-molar replacement decision; ~90% efficiency with first-molar occlusion)**.
-- **Still missing:** Denese 2020 rat (age effect, to corroborate Fujita 2009). PDF would round out the cluster.
+- **Now held** (14 pages): Craddock & Youngson 2004 (83% figure), Kiliaridis 2000 (18% non-eruptors), Christou 2007 (3D), Lindskog-Stokland 2012 (4.9× risk, bone support), Craddock 2006/2007 (Broadrick curve; partial contact), Faggion 2011 (GRADE review), Fujita 2009/2010 rat (age; periodontitis), Hayashi 2014 rat (PDL/BMD hypofunction model), Greenstein 2018 (second-molar replacement decision), **Denes 2020 rat (longitudinal micro-CT, 172 µm/day, 3-week critical window)**.
+- **No paper** directly comparing endo-treated vs vital tooth overeruption (the originating clinical question) — would be the single highest-value addition.
 - **No paper** directly comparing endo-treated vs vital tooth overeruption (the originating clinical question) — would be the single highest-value addition.
