@@ -31,14 +31,15 @@ relations:
 > - **방사선 OM(성인 HNC) — 아미노산:** Hassanein 삼중맹검 RCT(n=69)에서 **L-아르기닌·L-글루타민 모두** maltodextrin 대조군 대비 WHO 중증도·통증·체중감소·삶의질(OHIP-14) 유의 개선; **L-아르기닌은 글루타민에 비열등**(7주 양호 WHO 0/I: 82.6% vs 69.6%, p=0.048), 7주 완치율 수치상 더 높음(56% vs 13% vs 0%).
 > - **근거 수준 주의:** 두 SR 모두 "확정 프로토콜 도출엔 근거 불충분" 결론(이질성↑, 표본 작음, Andriakopoulou는 abstract-only). 약제 선택은 **목표 결과지표 + 비용 + 환자 연령**으로 개별화.
 > - **임상 takeaway:** 저비용·접근성 좋은 **꿀을 1차 후보**로, 결과지표별로 클로르헥시딘(발생률)·올리브유(통증)를 조합; 방사선 OM 성인은 아르기닌/글루타민으로 중증도·영양 동시 관리; 소아치과의는 종양 치료팀의 일원으로 OM 평가·중재에 참여.
+> - **구강세정제 NMA 신규 (Zhang 2025·Wang 2023·Namuangchan 2023, Axis 3)**: 예방 NMA(36 RCT) — 알로에 베라 1위, 꿀 4위, **CHX 13위(최하)** — Braguès의 CHX 발생률 1위 주장에 NMA 수준 반증. 치료 NMA(13 RCT) — 1주: GM-CSF 1위, PVP-I > CHX; 3주: 자연물·비타민E 우위. 요오드 CCRT 예방 RCT(n=20): 생리식염수와 유의차 없음 → 요오드 예방 근거 없음.
 
 ## Three-line Summary
 
-Synthesis of 3 papers (Andriakopoulou 2024 pediatric SR+MA, Braguès 2024 pediatric SR of 39 studies, and Hassanein 2025 adult HNC radiotherapy RCT n=69) on cancer-therapy-induced oral mucositis (OM) prevention and management: OM incidence reaches 91.5% in pediatric chemotherapy patients; topical honey is the only meta-analytically supported agent for severe pediatric OM, reducing hospital stay by 4.33 days (p=0.002, Andriakopoulou 2024), and for duration outcome (Braguès 2024); LLLT shows no pooled pediatric benefit (RR=0.99), contrasting with adult data.
+Synthesis of 6 papers on cancer-therapy-induced oral mucositis (OM): Andriakopoulou 2024 pediatric SR+MA, Braguès 2024 pediatric SR of 39 studies, Hassanein 2025 adult HNC RIOM RCT (n=69), plus 3 new mouthwash studies (Zhang 2025 prevention NMA 36 RCTs, Wang 2023 treatment NMA 13 RCTs, Namuangchan 2023 iodine RCT n=20). OM incidence reaches 91.5% in pediatric chemotherapy; honey is the only meta-analytically supported agent for severe pediatric OM (hospital stay −4.33 d); LLLT no pediatric pooled benefit (RR=0.99).
 
-Agent choice should be matched to the target OM outcome — incidence: chlorhexidine (Braguès); duration: honey (Braguès, Andriakopoulou); pain: olive oil (Braguès); severity: chlorhexidine, honey, palifermin (KGF), olive oil, vitamin E, and glutamine are broadly equivalent; calcium phosphate is consistently ineffective (3 studies, all NS).
+Agent rankings diverge by study type: for prevention, Zhang 2025 NMA (36 RCTs) ranks aloe vera juice #1 and CHX last (#13 of 13), challenging the Braguès SR finding of CHX first for incidence; for treatment, Wang 2023 NMA (13 RCTs) ranks GM-CSF #1 at 1 week and natural drugs / vitamin E at 3 weeks; iodine mouthwash shows no benefit over saline for CCRT OM (Namuangchan 2023, n=20, NS).
 
-For adult radiation-induced OM (HNC), both L-arginine and L-glutamine suspension beat maltodextrin control on WHO severity, pain, weight loss, and OHRQoL (OHIP-14), all p<0.001; L-arginine is non-inferior to glutamine (7-week good WHO 0/I: 82.6% vs 69.6%, p=0.048), making arginine a viable lower-cost alternative; overall evidence is too heterogeneous (heterogeneity and small samples across both SRs) to derive a definitive single-protocol.
+For adult HNC RIOM, L-arginine is non-inferior to L-glutamine (7-week WHO 0/I: 82.6% vs 69.6%, p=0.048), both far superior to maltodextrin; overall evidence base is too heterogeneous for a single rigid protocol — choose agent by target outcome, cost, and patient age.
 
 ## 세줄요약
 
@@ -82,6 +83,47 @@ Hassanein 2025 is a **triple-blind, 3-arm RCT (n=69 HNC patients, 23/arm)** test
 
 Clinical implication: for adult HNC RIOM, an amino-acid oral suspension addresses **severity, pain, nutrition, and QoL simultaneously**, and **L-arginine is a viable alternative to the better-established glutamine**.
 
+## Axis 3 — Mouthwash NMAs: prevention rankings and treatment rankings
+
+Two 2023–2025 mouthwash-specific NMAs substantially extend the agent-comparison evidence and challenge some axis-1 conclusions.
+
+### Prevention NMA (Zhang 2025 — 36 RCTs, 3457 patients, SUCRA ranking)
+
+Zhang 2025 compares 13 mouthwash types for **preventing** OM in radiotherapy/chemotherapy patients. SUCRA ranking (best → lowest):
+
+1. **Aloe vera juice** — highest SUCRA for prevention
+2. Chinese herbal medicine
+3. Bing Peng San
+4. **Honey**
+5. *Lactobacillus brevis*, chamomile, riboflavin, Kangfuxin Ye, benzydamine, turmeric, sucralfate
+6. Povidone-iodine
+7. **Chlorhexidine (CHX)** — ranked last among 13
+
+**Contrast with Axis 1 (Braguès SR)**: Braguès SR ranked CHX first for *incidence* in children; Zhang 2025 NMA ranks CHX *last*. The discrepancy reflects population difference (pediatric vs mixed adult/pediatric), included studies, and NMA vs SR methodology. Neither finding generalizes without qualification.
+
+**Clinical read**: Aloe vera juice and honey emerge across multiple studies as front-running natural agents. CHX's anti-incidence claim from Braguès should not be treated as universal — the larger NMA evidence ranks it lowest for prevention. Aloe vera is a low-cost, accessible alternative worth considering.
+
+### Treatment NMA (Wang 2023 — 13 RCTs, 570 patients, Bayesian NMA by time-point)
+
+Wang 2023 compares 10 mouthwash types for **treating established** OM in radiotherapy/chemotherapy patients. Time-point split:
+
+| Time-point | Best-ranked agent | Key finding |
+|---|---|---|
+| **1-week** | GM-CSF (54% probability) | PVP-I > CHX (WMD 2.63, 95% CI 0.20–5.01) |
+| **3-week** | Natural drugs (43%) / Vitamin E (24%) | Vit E (WMD −0.94) / natural drugs (WMD −0.93) / phenytoin (WMD −0.38) > placebo |
+
+**GM-CSF mouthwash** is the strongest short-term treatment agent but access/cost limited. **Vitamin E** and **natural drugs** (herbal) show consistent 3-week advantage. CHX is inferior to PVP-I for treatment at 1 week (opposite of some prevention intuitions).
+
+### Negative finding: iodine vs saline for CCRT OM (Namuangchan 2023, n=20)
+
+Small RCT (n=20, 1:1) testing in-house iodine solution vs normal saline for CCRT-induced OM in HNC patients. **No significant difference** in weekly OMAS (MD −0.40, 95% CI −3.95 to 3.15, p=0.825), pain, swallowing impact, onset (12.70 vs 11.80 d, p=0.704), or duration (72 vs 88 d, p=0.365). Severely underpowered (n=20); this null result does not disprove iodine efficacy but removes any justification for preferring iodine over saline in CCRT OM prophylaxis without larger evidence. Consistent with Zhang 2025 NMA ranking PVP-I 12th out of 13 for prevention.
+
+### Axis 3 clinical synthesis
+
+- **For prevention:** prioritize aloe vera / honey (natural, low-cost, broadly ranked high in NMA and SR); CHX's traditional "incidence" claim is challenged by NMA data ranking it last
+- **For treatment:** GM-CSF for fast-response (1 week), vitamin E or natural drugs for sustained management (3 weeks); PVP-I preferred over CHX for treatment
+- **Iodine for CCRT prophylaxis**: no evidence of benefit over saline (Namuangchan 2023, n=20)
+
 ## Evidence quality & gaps
 
 - Both SRs explicitly conclude the evidence is **inconclusive for firm protocols** — heterogeneity of cancer types, regimens, outcome measures, and durations precludes confident pooling (Braguès: no meta-analysis possible; Andriakopoulou: only 5 of 34 RCTs poolable, honey estimate rests on 2 RCTs, and this record is **abstract-only**).
@@ -107,6 +149,9 @@ Clinical implication: for adult HNC RIOM, an amino-acid oral suspension addresse
 - [[oral-medicine/mucositis/andriakopoulou-2024-oral-mucositis-pediatric-prevention-sr-ma]] — pediatric OM prevention/treatment SR+MA (34 RCTs, 5 pooled): honey shortens severe-OM hospital stay (MD −4.33 d), LLLT no pooled benefit (RR 0.99). Anchors Axis 1.
 - [[oral-medicine/mucositis/bragues-2024-oral-mucositis-children-cancer-management-sr]] — pediatric OM management SR (39 studies): ranks agents by outcome (incidence→chlorhexidine, duration→honey, pain→olive oil; calcium phosphate no effect). Builds the Axis-1 outcome-matching table.
 - [[oral-medicine/mucositis/hassanein-2025-arginine-glutamine-radiation-oral-mucositis-rct]] — adult HNC RIOM triple-blind RCT (n=69): L-arginine non-inferior to L-glutamine, both ≫ maltodextrin on WHO severity/pain/weight/QoL. Anchors Axis 2.
+- [[oral-medicine/mucositis/zhang-2025-mouthwash-oral-mucositis-nma]] — NMA 36 RCT, 3457명: aloe vera juice 예방 1위; 꿀 4위; CHX 13위(최하) — Axis 1 CHX-incidence 우위 주장에 반증.
+- [[oral-medicine/mucositis/wang-2023-mouthwash-oral-mucositis-sr-ma]] — Bayesian NMA 13 RCT, 570명: 치료(1주)=GM-CSF 1위, PVP-I>CHX; 치료(3주)=자연물·Vit E 우위. Anchors Axis 3 treatment rankings.
+- [[oral-medicine/mucositis/namuangchan-2023-iodine-mouthwash-oral-mucositis-ccrt-rct]] — CCRT OM 요오드 vs 생리식염수 RCT (n=20): 유의차 없음 — 요오드 CCRT 예방 근거 없음; Zhang 2025 NMA의 PVP-I 예방 최하 순위와 일관.
 
 ## Related overviews
 
